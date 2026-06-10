@@ -812,6 +812,15 @@ export const finlandRegions: POI[] = [
                         24.992221,
                         60.183001
                   ]
+            },
+            {
+                  "name": "Bank of Finland Museum",
+                  "text": "Ein informatives Museum in Helsinki, das die Entwicklung der Währung und des Bankwesens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.953266,
+                        60.170329
+                  ]
             }
       ],
       "hu": [
@@ -1560,6 +1569,15 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.992221,
                         60.183001
+                  ]
+            },
+            {
+                  "name": "Bank of Finland Museum",
+                  "text": "Informatív múzeum Helsinkiben, amely a fizetőeszközök és a bankrendszer fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.953266,
+                        60.170329
                   ]
             }
       ],
@@ -2310,6 +2328,15 @@ export const finlandRegions: POI[] = [
                         24.992221,
                         60.183001
                   ]
+            },
+            {
+                  "name": "Bank of Finland Museum",
+                  "text": "Un muzeu informativ din Helsinki care detaliază evoluția monedei și a sistemului bancar.",
+                  "category": "museum",
+                  "coords": [
+                        24.953266,
+                        60.170329
+                  ]
             }
       ],
       "en": [
@@ -3059,6 +3086,15 @@ export const finlandRegions: POI[] = [
                         24.992221,
                         60.183001
                   ]
+            },
+            {
+                  "name": "Bank of Finland Museum",
+                  "text": "An informative museum in Helsinki detailing the evolution of currency and banking.",
+                  "category": "museum",
+                  "coords": [
+                        24.953266,
+                        60.170329
+                  ]
             }
       ]
 },
@@ -3160,6 +3196,60 @@ export const finlandRegions: POI[] = [
                         23.756155,
                         61.504329
                   ]
+            },
+            {
+                  "name": "Siilinkarin Majakka",
+                  "text": "Dieser kleine Leuchtturm steht auf einem Felsen im Näsijärvi-See vor der Küste von Tampere.",
+                  "category": "landmark",
+                  "coords": [
+                        23.753917,
+                        61.517569
+                  ]
+            },
+            {
+                  "name": "Nootti. Museum of Finnish-Russian Relations",
+                  "text": "Das Museum beleuchtet die Geschichte der finnisch-russischen Beziehungen und befindet sich in historischen Räumlichkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        23.751802,
+                        61.495686
+                  ]
+            },
+            {
+                  "name": "Mediamuseo Rupriikki",
+                  "text": "Das Mediamuseo Rupriikki widmet sich der Geschichte der Kommunikation, des Journalismus und der digitalen Medien.",
+                  "category": "museum",
+                  "coords": [
+                        23.760416,
+                        61.503021
+                  ]
+            },
+            {
+                  "name": "Spy Museum",
+                  "text": "Einzigartiges Museum in Tampere, das sich auf die Geschichte und Techniken der internationalen Spionage konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        23.761019,
+                        61.501099
+                  ]
+            },
+            {
+                  "name": "Milavida Museum",
+                  "text": "Das im historischen Näsilinna untergebrachte Museum zeigt Mode und Design aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        23.752486,
+                        61.504038
+                  ]
+            },
+            {
+                  "name": "Emil Aaltonen Museum",
+                  "text": "Das Museum bewahrt die Kunstsammlung und das Erbe des Industriellen Emil Aaltonen in seinem ehemaligen Wohnhaus.",
+                  "category": "museum",
+                  "coords": [
+                        23.74554,
+                        61.492622
+                  ]
             }
       ],
       "hu": [
@@ -3215,6 +3305,60 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         23.756155,
                         61.504329
+                  ]
+            },
+            {
+                  "name": "Siilinkarin Majakka",
+                  "text": "Ez a kis világítótorony a Näsijärvi-tó egyik szikláján áll Tampere partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.753917,
+                        61.517569
+                  ]
+            },
+            {
+                  "name": "Nootti. Museum of Finnish-Russian Relations",
+                  "text": "A múzeum a finn–orosz kapcsolatok történetét mutatja be egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        23.751802,
+                        61.495686
+                  ]
+            },
+            {
+                  "name": "Mediamuseo Rupriikki",
+                  "text": "A Rupriikki Médiamúzeum a kommunikáció, az újságírás és a digitális média történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        23.760416,
+                        61.503021
+                  ]
+            },
+            {
+                  "name": "Spy Museum",
+                  "text": "Egyedülálló múzeum Tampere városában, amely a nemzetközi kémkedés történetére és technikáira összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        23.761019,
+                        61.501099
+                  ]
+            },
+            {
+                  "name": "Milavida Museum",
+                  "text": "A történelmi Näsilinna épületében helyet kapó múzeum különböző korszakok divatját és designját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.752486,
+                        61.504038
+                  ]
+            },
+            {
+                  "name": "Emil Aaltonen Museum",
+                  "text": "A múzeum Emil Aaltonen iparmágnás művészeti gyűjteményét és örökségét őrzi egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        23.74554,
+                        61.492622
                   ]
             }
       ],
@@ -3272,6 +3416,60 @@ export const finlandRegions: POI[] = [
                         23.756155,
                         61.504329
                   ]
+            },
+            {
+                  "name": "Siilinkarin Majakka",
+                  "text": "Acest far mic este situat pe o stâncă în lacul Näsijärvi, în largul coastei orașului Tampere.",
+                  "category": "landmark",
+                  "coords": [
+                        23.753917,
+                        61.517569
+                  ]
+            },
+            {
+                  "name": "Nootti. Museum of Finnish-Russian Relations",
+                  "text": "Muzeul evidențiază istoria relațiilor finno-ruse și este situat în spații istorice.",
+                  "category": "museum",
+                  "coords": [
+                        23.751802,
+                        61.495686
+                  ]
+            },
+            {
+                  "name": "Mediamuseo Rupriikki",
+                  "text": "Muzeul Media Rupriikki este dedicat istoriei comunicării, jurnalismului și mediilor digitale.",
+                  "category": "museum",
+                  "coords": [
+                        23.760416,
+                        61.503021
+                  ]
+            },
+            {
+                  "name": "Spy Museum",
+                  "text": "Un muzeu unic în Tampere, concentrat pe istoria și tehnicile spionajului internațional.",
+                  "category": "museum",
+                  "coords": [
+                        23.761019,
+                        61.501099
+                  ]
+            },
+            {
+                  "name": "Milavida Museum",
+                  "text": "Găzduit în clădirea istorică Näsilinna, muzeul prezintă modă și design din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        23.752486,
+                        61.504038
+                  ]
+            },
+            {
+                  "name": "Emil Aaltonen Museum",
+                  "text": "Muzeul păstrează colecția de artă și moștenirea industriașului Emil Aaltonen în fosta sa reședință.",
+                  "category": "museum",
+                  "coords": [
+                        23.74554,
+                        61.492622
+                  ]
             }
       ],
       "en": [
@@ -3327,6 +3525,60 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         23.756155,
                         61.504329
+                  ]
+            },
+            {
+                  "name": "Siilinkarin Majakka",
+                  "text": "This small lighthouse stands on a rock in Lake Näsijärvi, off the coast of Tampere.",
+                  "category": "landmark",
+                  "coords": [
+                        23.753917,
+                        61.517569
+                  ]
+            },
+            {
+                  "name": "Nootti. Museum of Finnish-Russian Relations",
+                  "text": "The museum highlights the history of Finnish-Russian relations and is located in historic premises.",
+                  "category": "museum",
+                  "coords": [
+                        23.751802,
+                        61.495686
+                  ]
+            },
+            {
+                  "name": "Mediamuseo Rupriikki",
+                  "text": "The Rupriikki Media Museum is dedicated to the history of communication, journalism, and digital media.",
+                  "category": "museum",
+                  "coords": [
+                        23.760416,
+                        61.503021
+                  ]
+            },
+            {
+                  "name": "Spy Museum",
+                  "text": "A unique museum in Tampere focusing on the history and techniques of international espionage.",
+                  "category": "museum",
+                  "coords": [
+                        23.761019,
+                        61.501099
+                  ]
+            },
+            {
+                  "name": "Milavida Museum",
+                  "text": "Housed in the historic Näsilinna building, the museum displays fashion and design from different eras.",
+                  "category": "museum",
+                  "coords": [
+                        23.752486,
+                        61.504038
+                  ]
+            },
+            {
+                  "name": "Emil Aaltonen Museum",
+                  "text": "The museum preserves the art collection and legacy of industrialist Emil Aaltonen in his former residence.",
+                  "category": "museum",
+                  "coords": [
+                        23.74554,
+                        61.492622
                   ]
             }
       ]
@@ -6207,7 +6459,304 @@ export const finlandRegions: POI[] = [
 
 export const finlandNature: POI[] = [
   {
-    id: "nat-lakeland",
+    id: "nat-lakeland", "sights": {
+      "de": [
+            {
+                  "name": "Yksköytinen",
+                  "text": "Naturschutzgebiet in der malerischen finnischen Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        27.968882,
+                        61.523614
+                  ]
+            },
+            {
+                  "name": "Paskosaari",
+                  "text": "Geschützte Naturlandschaft in der Region der finnischen Seen.",
+                  "category": "natural",
+                  "coords": [
+                        27.98901,
+                        61.532708
+                  ]
+            },
+            {
+                  "name": "Niinisaari",
+                  "text": "Naturschutzgebiet, das die Flora und Fauna der finnischen Seenplatte bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        27.960184,
+                        61.51706
+                  ]
+            },
+            {
+                  "name": "Louhtosaari",
+                  "text": "Teil des Netzwerks von Naturschutzgebieten in der finnischen Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        27.962613,
+                        61.512432
+                  ]
+            },
+            {
+                  "name": "Koppelisaari",
+                  "text": "Unberührtes Naturschutzgebiet in der Seenlandschaft Finnlands.",
+                  "category": "natural",
+                  "coords": [
+                        27.955913,
+                        61.512557
+                  ]
+            },
+            {
+                  "name": "Suuri Naarsaari",
+                  "text": "Größeres Naturschutzgebiet innerhalb der finnischen Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        28.002499,
+                        61.502395
+                  ]
+            },
+            {
+                  "name": "Pieni Naarsaari",
+                  "text": "Kleineres geschütztes Naturareal in der finnischen Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        27.999745,
+                        61.509354
+                  ]
+            },
+            {
+                  "name": "Petäikkösaari",
+                  "text": "Bewaldetes Naturschutzgebiet in der finnischen Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        27.996299,
+                        61.517894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yksköytinen",
+                  "text": "Természetvédelmi terület a festői Finn-tóvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        27.968882,
+                        61.523614
+                  ]
+            },
+            {
+                  "name": "Paskosaari",
+                  "text": "Védett természeti terület a finn tóvidéki régióban.",
+                  "category": "natural",
+                  "coords": [
+                        27.98901,
+                        61.532708
+                  ]
+            },
+            {
+                  "name": "Niinisaari",
+                  "text": "Természetvédelmi terület a Finn-tóvidék növény- és állatvilágának megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        27.960184,
+                        61.51706
+                  ]
+            },
+            {
+                  "name": "Louhtosaari",
+                  "text": "A Finn-tóvidék természetvédelmi hálózatának része.",
+                  "category": "natural",
+                  "coords": [
+                        27.962613,
+                        61.512432
+                  ]
+            },
+            {
+                  "name": "Koppelisaari",
+                  "text": "Háborgatatlan természetvédelmi terület Finnország tóvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        27.955913,
+                        61.512557
+                  ]
+            },
+            {
+                  "name": "Suuri Naarsaari",
+                  "text": "Nagyobb természetvédelmi terület a Finn-tóvidéken belül.",
+                  "category": "natural",
+                  "coords": [
+                        28.002499,
+                        61.502395
+                  ]
+            },
+            {
+                  "name": "Pieni Naarsaari",
+                  "text": "Kisebb védett természeti terület a Finn-tóvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        27.999745,
+                        61.509354
+                  ]
+            },
+            {
+                  "name": "Petäikkösaari",
+                  "text": "Erdős természetvédelmi terület a Finn-tóvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        27.996299,
+                        61.517894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yksköytinen",
+                  "text": "Rezervație naturală în pitoreasca regiune a lacurilor din Finlanda.",
+                  "category": "natural",
+                  "coords": [
+                        27.968882,
+                        61.523614
+                  ]
+            },
+            {
+                  "name": "Paskosaari",
+                  "text": "Peisaj natural protejat în regiunea lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        27.98901,
+                        61.532708
+                  ]
+            },
+            {
+                  "name": "Niinisaari",
+                  "text": "Rezervație naturală pentru conservarea florei și faunei din Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.960184,
+                        61.51706
+                  ]
+            },
+            {
+                  "name": "Louhtosaari",
+                  "text": "Parte a rețelei de rezervații naturale din zona lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        27.962613,
+                        61.512432
+                  ]
+            },
+            {
+                  "name": "Koppelisaari",
+                  "text": "Rezervație naturală nealterată în zona lacurilor din Finlanda.",
+                  "category": "natural",
+                  "coords": [
+                        27.955913,
+                        61.512557
+                  ]
+            },
+            {
+                  "name": "Suuri Naarsaari",
+                  "text": "Rezervație naturală mai mare în cadrul regiunii lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        28.002499,
+                        61.502395
+                  ]
+            },
+            {
+                  "name": "Pieni Naarsaari",
+                  "text": "Zonă naturală protejată mai mică în regiunea lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        27.999745,
+                        61.509354
+                  ]
+            },
+            {
+                  "name": "Petäikkösaari",
+                  "text": "Rezervație naturală împădurită în regiunea lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        27.996299,
+                        61.517894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yksköytinen",
+                  "text": "A nature reserve in the scenic Finnish Lakeland region.",
+                  "category": "natural",
+                  "coords": [
+                        27.968882,
+                        61.523614
+                  ]
+            },
+            {
+                  "name": "Paskosaari",
+                  "text": "A protected natural area in the Finnish Lakeland region.",
+                  "category": "natural",
+                  "coords": [
+                        27.98901,
+                        61.532708
+                  ]
+            },
+            {
+                  "name": "Niinisaari",
+                  "text": "A nature reserve preserving the flora and fauna of the Finnish Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.960184,
+                        61.51706
+                  ]
+            },
+            {
+                  "name": "Louhtosaari",
+                  "text": "Part of the network of nature reserves in the Finnish Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.962613,
+                        61.512432
+                  ]
+            },
+            {
+                  "name": "Koppelisaari",
+                  "text": "An untouched nature reserve in the lake district of Finland.",
+                  "category": "natural",
+                  "coords": [
+                        27.955913,
+                        61.512557
+                  ]
+            },
+            {
+                  "name": "Suuri Naarsaari",
+                  "text": "A larger nature reserve within the Finnish Lakeland region.",
+                  "category": "natural",
+                  "coords": [
+                        28.002499,
+                        61.502395
+                  ]
+            },
+            {
+                  "name": "Pieni Naarsaari",
+                  "text": "A smaller protected natural area in the Finnish Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.999745,
+                        61.509354
+                  ]
+            },
+            {
+                  "name": "Petäikkösaari",
+                  "text": "A forested nature reserve in the Finnish Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.996299,
+                        61.517894
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "finland",
     coords: [28.0000, 61.5000],
@@ -6251,7 +6800,160 @@ export const finlandNature: POI[] = [
     },
   },
   {
-    id: "nat-archipelago",
+    id: "nat-archipelago", "sights": {
+      "de": [
+            {
+                  "name": "Stora Lökskär",
+                  "text": "Ein funktionaler Leuchtturm, der den Schiffsverkehr im Schärengarten leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.027177,
+                        59.983668
+                  ]
+            },
+            {
+                  "name": "Koklubb",
+                  "text": "Ein kleiner Leuchtturm, der als Navigationshilfe in den Schären dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001321,
+                        60.000232
+                  ]
+            },
+            {
+                  "name": "Fjärdhällän",
+                  "text": "Ein Leuchtturm im Schärengarten, der Schiffen den sicheren Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.976639,
+                        60.007111
+                  ]
+            },
+            {
+                  "name": "Helen",
+                  "text": "Ein Navigationsfeuer im Schärengarten zur Unterstützung der Seefahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.042305,
+                        60.021252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stora Lökskär",
+                  "text": "Funkcionális világítótorony, amely a tengeri forgalmat irányítja a szigetvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.027177,
+                        59.983668
+                  ]
+            },
+            {
+                  "name": "Koklubb",
+                  "text": "Kisméretű világítótorony, amely navigációs segédeszközként szolgál a szigetek között.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001321,
+                        60.000232
+                  ]
+            },
+            {
+                  "name": "Fjärdhällän",
+                  "text": "Világítótorony a szigetvilágban, amely a hajók biztonságos haladását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        19.976639,
+                        60.007111
+                  ]
+            },
+            {
+                  "name": "Helen",
+                  "text": "Navigációs fény a szigetvilágban a tengeri közlekedés támogatására.",
+                  "category": "landmark",
+                  "coords": [
+                        20.042305,
+                        60.021252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stora Lökskär",
+                  "text": "Un far funcțional care ghidează traficul maritim în arhipelag.",
+                  "category": "landmark",
+                  "coords": [
+                        20.027177,
+                        59.983668
+                  ]
+            },
+            {
+                  "name": "Koklubb",
+                  "text": "Un far mic care servește ca ajutor de navigație în arhipelag.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001321,
+                        60.000232
+                  ]
+            },
+            {
+                  "name": "Fjärdhällän",
+                  "text": "Un far din arhipelag care indică drumul sigur pentru nave.",
+                  "category": "landmark",
+                  "coords": [
+                        19.976639,
+                        60.007111
+                  ]
+            },
+            {
+                  "name": "Helen",
+                  "text": "O lumină de navigație în arhipelag pentru a sprijini transportul maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        20.042305,
+                        60.021252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stora Lökskär",
+                  "text": "A functional lighthouse guiding maritime traffic in the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        20.027177,
+                        59.983668
+                  ]
+            },
+            {
+                  "name": "Koklubb",
+                  "text": "A small lighthouse serving as a navigational aid in the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001321,
+                        60.000232
+                  ]
+            },
+            {
+                  "name": "Fjärdhällan Range Front Lighthouse",
+                  "text": "A lighthouse in the archipelago that guides ships on a safe path.",
+                  "category": "landmark",
+                  "coords": [
+                        19.976639,
+                        60.007111
+                  ]
+            },
+            {
+                  "name": "Helen",
+                  "text": "A navigational light in the archipelago to support maritime traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        20.042305,
+                        60.021252
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "finland",
     coords: [20.0000, 60.0000],
@@ -6298,7 +7000,304 @@ export const finlandNature: POI[] = [
 
 export const finlandCulture: POI[] = [
   {
-    id: "cult-savonlinna",
+    id: "cult-savonlinna", "sights": {
+      "de": [
+            {
+                  "name": "Olafsburg",
+                  "text": "Eine gut erhaltene mittelalterliche Burg, bekannt für die Opernfestspiele von Savonlinna.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "Das Regionalmuseum in Savonlinna präsentiert die lokale Geschichte und Kultur der Region Saimaa.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Dieses Museum in Savonlinna stellt eine Sammlung historischer Dampfschiffe am Seeufer aus.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Ein lokales Theater und Kulturzentrum in Savonlinna für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "Ein familienfreundlicher Sandstrand in Savonlinna, der zum Schwimmen und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "Ein Naturschutzgebiet auf einer Insel in Savonlinna, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Ein bekannter Veranstaltungsort in Savonlinna für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Ein Freilichttheater in Savonlinna, das während der Sommermonate Aufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olavinlinna",
+                  "text": "Jól megőrzött középkori vár, amely a Savonlinnai Operafesztiválról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "A savonlinnai múzeum a Saimaa-régió és a város helytörténetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Ez a savonlinnai múzeum történelmi gőzhajók gyűjteményét mutatja be a tóparton.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Savonlinna helyi színháza és kulturális központja, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "Családbarát homokos strand Savonlinnában, amely úszásra és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "Természetvédelmi terület egy savonlinnai szigeten, amely a helyi növény- és állatvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Savonlinna ismert kulturális helyszíne, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Szabadtéri színház Savonlinnában, amely a nyári hónapokban tart előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olavinlinna",
+                  "text": "Un castel medieval bine conservat, cunoscut pentru Festivalul de Operă de la Savonlinna.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "Muzeul din Savonlinna prezintă istoria locală și cultura regiunii Saimaa.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Acest muzeu din Savonlinna expune o colecție de nave istorice cu aburi pe malul lacului.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Un teatru local și centru cultural din Savonlinna pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "O plajă cu nisip potrivită pentru familii în Savonlinna, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "O rezervație naturală pe o insulă din Savonlinna, care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "O locație culturală cunoscută din Savonlinna pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Un teatru în aer liber din Savonlinna care oferă spectacole în timpul lunilor de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olavinlinna",
+                  "text": "A well-preserved medieval castle, famous for hosting the Savonlinna Opera Festival.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Savonlinna Provincial Museum",
+                  "text": "The provincial museum in Savonlinna focuses on the local history and culture of the Saimaa region.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Savonlinnan Provincial Museum - historic steamboats",
+                  "text": "This museum in Savonlinna exhibits a collection of historic steamboats by the lake.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "A local theatre and cultural centre in Savonlinna hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "A family-friendly sandy beach in Savonlinna, ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "A nature reserve on an island in Savonlinna protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "A well-known venue in Savonlinna for theatre performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "An open-air theatre in Savonlinna offering performances during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "finland",
     coords: [28.8800, 61.8600],
@@ -6616,6 +7615,60 @@ export const finlandCities: POI[] = [
                         24.681673,
                         60.220664
                   ]
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "Ein Museum in Espoo, das sich im ehemaligen Verwaltungsgebäude der Stadt befindet.",
+                  "category": "museum",
+                  "coords": [
+                        24.651974,
+                        60.205883
+                  ]
+            },
+            {
+                  "name": "Lagstad School Museum",
+                  "text": "Schulmuseum in einem der ältesten Gebäude von Espoo, das den Unterricht vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.652162,
+                        60.207992
+                  ]
+            },
+            {
+                  "name": "Teatteri Fallaker",
+                  "text": "Ein schwedischsprachiges Gemeinschaftstheater im Stadtteil Esbo in Espoo.",
+                  "category": "cultural",
+                  "coords": [
+                        24.669356,
+                        60.218422
+                  ]
+            },
+            {
+                  "name": "Mossenkarrin luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in Espoo, das für seine Moorlandschaft und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.691761,
+                        60.190232
+                  ]
+            },
+            {
+                  "name": "Kvarnbyan lehtopurolaakso",
+                  "text": "Ein geschütztes Hain- und Bachlaufgebiet in Espoo mit reicher lokaler Flora.",
+                  "category": "natural",
+                  "coords": [
+                        24.686151,
+                        60.224281
+                  ]
+            },
+            {
+                  "name": "Teirinsuo-Vitmossenin luonnonsuojelualue",
+                  "text": "Ein bedeutendes Naturschutzgebiet in Espoo, das ausgedehnte Moor- und Sumpfflächen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        24.622687,
+                        60.209384
+                  ]
             }
       ],
       "hu": [
@@ -6887,6 +7940,60 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.681673,
                         60.220664
+                  ]
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "Espoo korábbi városházájában helyet kapott helytörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.651974,
+                        60.205883
+                  ]
+            },
+            {
+                  "name": "Lagstad School Museum",
+                  "text": "Espoo egyik legrégebbi épületében működő múzeum, amely a régi idők oktatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.652162,
+                        60.207992
+                  ]
+            },
+            {
+                  "name": "Teatteri Fallaker",
+                  "text": "Svéd nyelvű közösségi színház Espoo egyik városrészében.",
+                  "category": "cultural",
+                  "coords": [
+                        24.669356,
+                        60.218422
+                  ]
+            },
+            {
+                  "name": "Mossenkarrin luonnonsuojelualue",
+                  "text": "Természetvédelmi terület Espooban, amely mocsaras vidékéről és ösvényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.691761,
+                        60.190232
+                  ]
+            },
+            {
+                  "name": "Kvarnbyan lehtopurolaakso",
+                  "text": "Védett ligetes és patakvölgyi terület Espooban, gazdag helyi növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        24.686151,
+                        60.224281
+                  ]
+            },
+            {
+                  "name": "Teirinsuo-Vitmossenin luonnonsuojelualue",
+                  "text": "Jelentős természetvédelmi terület Espooban, amely kiterjedt mocsarakat és lápokat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        24.622687,
+                        60.209384
                   ]
             }
       ],
@@ -7160,6 +8267,60 @@ export const finlandCities: POI[] = [
                         24.681673,
                         60.220664
                   ]
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "Un muzeu din Espoo situat în fosta clădire administrativă a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        24.651974,
+                        60.205883
+                  ]
+            },
+            {
+                  "name": "Lagstad School Museum",
+                  "text": "Muzeu școlar într-una dintre cele mai vechi clădiri din Espoo, prezentând învățământul de altădată.",
+                  "category": "museum",
+                  "coords": [
+                        24.652162,
+                        60.207992
+                  ]
+            },
+            {
+                  "name": "Teatteri Fallaker",
+                  "text": "Un teatru comunitar de limbă suedeză situat în Espoo.",
+                  "category": "cultural",
+                  "coords": [
+                        24.669356,
+                        60.218422
+                  ]
+            },
+            {
+                  "name": "Mossenkarrin luonnonsuojelualue",
+                  "text": "O rezervație naturală din Espoo, cunoscută pentru peisajul său mlăștinos și potecile de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        24.691761,
+                        60.190232
+                  ]
+            },
+            {
+                  "name": "Kvarnbyan lehtopurolaakso",
+                  "text": "O zonă protejată de dumbravă și vale de pârâu din Espoo, cu o floră locală bogată.",
+                  "category": "natural",
+                  "coords": [
+                        24.686151,
+                        60.224281
+                  ]
+            },
+            {
+                  "name": "Teirinsuo-Vitmossenin luonnonsuojelualue",
+                  "text": "O rezervație naturală importantă din Espoo, care cuprinde zone vaste de mlaștină și turbărie.",
+                  "category": "natural",
+                  "coords": [
+                        24.622687,
+                        60.209384
+                  ]
             }
       ],
       "en": [
@@ -7431,6 +8592,60 @@ export const finlandCities: POI[] = [
                   "coords": [
                         24.681673,
                         60.220664
+                  ]
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A museum in Espoo located in the city's former administrative building.",
+                  "category": "museum",
+                  "coords": [
+                        24.651974,
+                        60.205883
+                  ]
+            },
+            {
+                  "name": "Lagstad School Museum",
+                  "text": "School museum in one of the oldest buildings in Espoo, showing education from past times.",
+                  "category": "museum",
+                  "coords": [
+                        24.652162,
+                        60.207992
+                  ]
+            },
+            {
+                  "name": "Teatteri Fallaker",
+                  "text": "A Swedish-language community theatre located in Espoo.",
+                  "category": "cultural",
+                  "coords": [
+                        24.669356,
+                        60.218422
+                  ]
+            },
+            {
+                  "name": "Mossenkarrin luonnonsuojelualue",
+                  "text": "A nature reserve in Espoo known for its mire landscape and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        24.691761,
+                        60.190232
+                  ]
+            },
+            {
+                  "name": "Kvarnbyan lehtopurolaakso",
+                  "text": "A protected grove and stream valley area in Espoo with rich local flora.",
+                  "category": "natural",
+                  "coords": [
+                        24.686151,
+                        60.224281
+                  ]
+            },
+            {
+                  "name": "Teirinsuo-Vitmossenin luonnonsuojelualue",
+                  "text": "An important nature reserve in Espoo encompassing extensive mire and swamp areas.",
+                  "category": "natural",
+                  "coords": [
+                        24.622687,
+                        60.209384
                   ]
             }
       ]
@@ -18139,6 +19354,15 @@ export const finlandCities: POI[] = [
                         29.761955,
                         62.600694
                   ]
+            },
+            {
+                  "name": "Karsikon uimaranta",
+                  "text": "Eine öffentliche Badestelle für Anwohner und Besucher im Stadtteil Karsikko in Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.808177,
+                        62.607136
+                  ]
             }
       ],
       "hu": [
@@ -18491,6 +19715,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.761955,
                         62.600694
+                  ]
+            },
+            {
+                  "name": "Karsikon uimaranta",
+                  "text": "Nyilvános fürdőhely a helyiek és látogatók számára Joensuu Karsikko negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.808177,
+                        62.607136
                   ]
             }
       ],
@@ -18845,6 +20078,15 @@ export const finlandCities: POI[] = [
                         29.761955,
                         62.600694
                   ]
+            },
+            {
+                  "name": "Karsikon uimaranta",
+                  "text": "Un loc public de scăldat pentru localnici și vizitatori în cartierul Karsikko din Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.808177,
+                        62.607136
+                  ]
             }
       ],
       "en": [
@@ -19197,6 +20439,15 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.761955,
                         62.600694
+                  ]
+            },
+            {
+                  "name": "Karsikon uimaranta",
+                  "text": "A public swimming spot for residents and visitors in the Karsikko district of Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.808177,
+                        62.607136
                   ]
             }
       ]
@@ -24506,6 +25757,78 @@ export const finlandCultureExtended: POI[] = [
                         28.857256,
                         61.86273
                   ]
+            },
+            {
+                  "name": "Olafsburg",
+                  "text": "Eine gut erhaltene mittelalterliche Burg in Savonlinna, Finnland.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "Regionalmuseum zur Geschichte der Region Savonlinna.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Museumsausstellung mit historischen Dampfschiffen in Savonlinna.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Ein lokales Kulturzentrum und Veranstaltungsort in Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "Ein familienfreundlicher Badestrand in der Nähe der Burg Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "Ein Naturschutzgebiet auf einer Insel in Savonlinna.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Konzertsaal und Theatergebäude in der Stadt Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Ein Freilichttheater in der Nähe der historischen Burg Olavinlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
             }
       ],
       "hu": [
@@ -24516,6 +25839,78 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         28.857256,
                         61.86273
+                  ]
+            },
+            {
+                  "name": "Olavinlinna",
+                  "text": "Jól konzervált középkori vár a finnországi Savonlinnában.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "Savonlinna régiójának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Történelmi gőzhajókat bemutató múzeumi kiállítás Savonlinnában.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Helyi kulturális központ és rendezvényhelyszín Savonlinnában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "Családbarát fürdőhely Olavinlinna vára közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "Természetvédelmi terület egy Savonlinna melletti szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Hangversenyterem és színház Savonlinna városában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Szabadtéri színház a történelmi Olavinlinna vára közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
                   ]
             }
       ],
@@ -24528,6 +25923,78 @@ export const finlandCultureExtended: POI[] = [
                         28.857256,
                         61.86273
                   ]
+            },
+            {
+                  "name": "Olavinlinna",
+                  "text": "Un castel medieval bine conservat din Savonlinna, Finlanda.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museo",
+                  "text": "Muzeul regional dedicat istoriei zonei Savonlinna.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Riihisaaren museolaivat",
+                  "text": "Expoziție muzeală cu vapoare cu aburi istorice în Savonlinna.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "Un centru cultural local și loc de desfășurare a evenimentelor în Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "O plajă potrivită pentru familii situată lângă castelul Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "O rezervație naturală pe o insulă din Savonlinna.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Sală de concerte și sediul teatrului din Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Un teatru de vară situat lângă castelul istoric Olavinlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
+                  ]
             }
       ],
       "en": [
@@ -24538,6 +26005,78 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         28.857256,
                         61.86273
+                  ]
+            },
+            {
+                  "name": "Olavinlinna",
+                  "text": "A well-preserved medieval castle in Savonlinna, Finland.",
+                  "category": "castle",
+                  "coords": [
+                        28.900969,
+                        61.86389
+                  ]
+            },
+            {
+                  "name": "Savonlinna Provincial Museum",
+                  "text": "Regional museum dedicated to the history of the Savonlinna area.",
+                  "category": "museum",
+                  "coords": [
+                        28.895231,
+                        61.863529
+                  ]
+            },
+            {
+                  "name": "Savonlinnan Provincial Museum - historic steamboats",
+                  "text": "Museum exhibit featuring historic steamboats in Savonlinna.",
+                  "category": "museum",
+                  "coords": [
+                        28.89415,
+                        61.863236
+                  ]
+            },
+            {
+                  "name": "Kulttuurikellari",
+                  "text": "A local cultural center and event venue in Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.888995,
+                        61.867405
+                  ]
+            },
+            {
+                  "name": "Pikku-Kakkosen uimaranta",
+                  "text": "A family-friendly swimming beach located near Olavinlinna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        28.891687,
+                        61.864289
+                  ]
+            },
+            {
+                  "name": "Sireenisaari",
+                  "text": "A nature reserve on an island in Savonlinna.",
+                  "category": "natural",
+                  "coords": [
+                        28.882499,
+                        61.876777
+                  ]
+            },
+            {
+                  "name": "Savonlinnasali - Savonlinnan teatteri",
+                  "text": "Concert hall and theater building in the city of Savonlinna.",
+                  "category": "cultural",
+                  "coords": [
+                        28.889142,
+                        61.870476
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "An open-air theatre located near the historic Olavinlinna Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        28.895375,
+                        61.871881
                   ]
             }
       ]
@@ -24968,7 +26507,160 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-petajavesi-old-church",
+    id: "hist-petajavesi-old-church", "sights": {
+      "de": [
+            {
+                  "name": "Ls.alue",
+                  "text": "Ein Naturschutzgebiet in der Nähe der alten Kirche von Petäjävesi.",
+                  "category": "natural",
+                  "coords": [
+                        25.193972,
+                        62.241658
+                  ]
+            },
+            {
+                  "name": "Taidetila Toinila",
+                  "text": "Ein Kunstraum und eine Galerie in Petäjävesi für lokale Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        25.185828,
+                        62.257933
+                  ]
+            },
+            {
+                  "name": "Petäjäveden baptistiseurakunta",
+                  "text": "Eine baptistische Kirchengemeinde in Petäjävesi.",
+                  "category": "religious",
+                  "coords": [
+                        25.18375,
+                        62.258383
+                  ]
+            },
+            {
+                  "name": "Petäjäveden vanha kirkko",
+                  "text": "Eine historische Holzkirche in Petäjävesi, die zum UNESCO-Welterbe gehört.",
+                  "category": "religious",
+                  "coords": [
+                        25.183938,
+                        62.250077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ls.alue",
+                  "text": "Természetvédelmi terület a petäjävesi öregtemplom közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.193972,
+                        62.241658
+                  ]
+            },
+            {
+                  "name": "Taidetila Toinila",
+                  "text": "Művészeti tér és galéria Petäjävesiben helyi kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        25.185828,
+                        62.257933
+                  ]
+            },
+            {
+                  "name": "Petäjäveden baptistiseurakunta",
+                  "text": "Baptista gyülekezet Petäjävesiben.",
+                  "category": "religious",
+                  "coords": [
+                        25.18375,
+                        62.258383
+                  ]
+            },
+            {
+                  "name": "Petäjäveden vanha kirkko",
+                  "text": "Történelmi fatemplom Petäjävesiben, amely az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "coords": [
+                        25.183938,
+                        62.250077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ls.alue",
+                  "text": "O zonă protejată situată în apropierea vechii biserici din Petäjävesi.",
+                  "category": "natural",
+                  "coords": [
+                        25.193972,
+                        62.241658
+                  ]
+            },
+            {
+                  "name": "Taidetila Toinila",
+                  "text": "Un spațiu de artă și galerie în Petäjävesi pentru expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        25.185828,
+                        62.257933
+                  ]
+            },
+            {
+                  "name": "Petäjäveden baptistiseurakunta",
+                  "text": "O comunitate baptistă în Petäjävesi.",
+                  "category": "religious",
+                  "coords": [
+                        25.18375,
+                        62.258383
+                  ]
+            },
+            {
+                  "name": "Petäjäveden vanha kirkko",
+                  "text": "O biserică istorică de lemn din Petäjävesi, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        25.183938,
+                        62.250077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ls.alue",
+                  "text": "A nature reserve located near the Petäjävesi Old Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.193972,
+                        62.241658
+                  ]
+            },
+            {
+                  "name": "Taidetila Toinila",
+                  "text": "An art space and gallery in Petäjävesi for local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        25.185828,
+                        62.257933
+                  ]
+            },
+            {
+                  "name": "Petäjäveden baptistiseurakunta",
+                  "text": "A Baptist congregation located in Petäjävesi.",
+                  "category": "religious",
+                  "coords": [
+                        25.18375,
+                        62.258383
+                  ]
+            },
+            {
+                  "name": "Petäjävesi Old Church",
+                  "text": "A historic wooden church in Petäjävesi, designated as a UNESCO World Heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        25.183938,
+                        62.250077
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [25.1935, 62.2495],
@@ -25022,6 +26714,60 @@ export const finlandCultureExtended: POI[] = [
                         21.900466,
                         61.13394
                   ]
+            },
+            {
+                  "name": "Spiral crain",
+                  "text": "Ein antiker Steinhaufen, der Teil des bronzezeitlichen archäologischen Komplexes in Sammallahdenmäki ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.775377,
+                        61.115314
+                  ]
+            },
+            {
+                  "name": "The long ruin of Huilu",
+                  "text": "Eine bedeutende rechteckige Steinstruktur aus der Bronzezeit in der archäologischen Stätte Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.77696,
+                        61.11475
+                  ]
+            },
+            {
+                  "name": "Hiidenkiuas",
+                  "text": "Ein großer bronzezeitlicher Grabhügel aus Steinen, typisch für das archäologische Erbe in Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.775027,
+                        61.117684
+                  ]
+            },
+            {
+                  "name": "Lapin kotiseutumuseo",
+                  "text": "Ein Heimatmuseum, das das traditionelle ländliche Leben und Erbe der Region Lappi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.830497,
+                        61.103811
+                  ]
+            },
+            {
+                  "name": "Parrun Synty",
+                  "text": "Ein Denkmal in Sammallahdenmäki, das der lokalen Geschichte und dem traditionellen Handwerk gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.843922,
+                        61.102681
+                  ]
+            },
+            {
+                  "name": "Lapin kirkko",
+                  "text": "Eine traditionelle Holzkirche, die der Gemeinde in der Gegend von Sammallahdenmäki dient.",
+                  "category": "religious",
+                  "coords": [
+                        21.82782,
+                        61.104445
+                  ]
             }
       ],
       "hu": [
@@ -25032,6 +26778,60 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         21.900466,
                         61.13394
+                  ]
+            },
+            {
+                  "name": "Spiral crain",
+                  "text": "Egy ősi kőhalom, amely a Sammallahdenmäki bronzkori régészeti együttes része.",
+                  "category": "historical",
+                  "coords": [
+                        21.775377,
+                        61.115314
+                  ]
+            },
+            {
+                  "name": "The long ruin of Huilu",
+                  "text": "Egy jelentős, téglalap alakú bronzkori kőépítmény a Sammallahdenmäki régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        21.77696,
+                        61.11475
+                  ]
+            },
+            {
+                  "name": "Hiidenkiuas",
+                  "text": "Egy nagy, kövekből álló bronzkori halomsír, amely Sammallahdenmäki régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        21.775027,
+                        61.117684
+                  ]
+            },
+            {
+                  "name": "Lapin kotiseutumuseo",
+                  "text": "Helytörténeti múzeum, amely Lappi régió hagyományos vidéki életét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.830497,
+                        61.103811
+                  ]
+            },
+            {
+                  "name": "Parrun Synty",
+                  "text": "Emlékmű Sammallahdenmäkiben, amely a helyi történelmet és a hagyományos ipart élteti.",
+                  "category": "historical",
+                  "coords": [
+                        21.843922,
+                        61.102681
+                  ]
+            },
+            {
+                  "name": "Lapin kirkko",
+                  "text": "Hagyományos fatemplom, amely a Sammallahdenmäki környéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        21.82782,
+                        61.104445
                   ]
             }
       ],
@@ -25044,6 +26844,60 @@ export const finlandCultureExtended: POI[] = [
                         21.900466,
                         61.13394
                   ]
+            },
+            {
+                  "name": "Spiral crain",
+                  "text": "Un morman de pietre antic care face parte din complexul arheologic din epoca bronzului din Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.775377,
+                        61.115314
+                  ]
+            },
+            {
+                  "name": "The long ruin of Huilu",
+                  "text": "O structură de piatră dreptunghiulară semnificativă din epoca bronzului, situată în situl Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.77696,
+                        61.11475
+                  ]
+            },
+            {
+                  "name": "Hiidenkiuas",
+                  "text": "Un morman mare de înmormântare din epoca bronzului, realizat din pietre, tipic pentru patrimoniul arheologic din Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.775027,
+                        61.117684
+                  ]
+            },
+            {
+                  "name": "Lapin kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală care prezintă viața rurală tradițională și moștenirea regiunii Lappi.",
+                  "category": "museum",
+                  "coords": [
+                        21.830497,
+                        61.103811
+                  ]
+            },
+            {
+                  "name": "Parrun Synty",
+                  "text": "Un monument în Sammallahdenmäki care celebrează istoria locală și industria tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        21.843922,
+                        61.102681
+                  ]
+            },
+            {
+                  "name": "Lapin kirkko",
+                  "text": "O biserică tradițională de lemn care deservește comunitatea din zona Sammallahdenmäki.",
+                  "category": "religious",
+                  "coords": [
+                        21.82782,
+                        61.104445
+                  ]
             }
       ],
       "en": [
@@ -25054,6 +26908,60 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         21.900466,
                         61.13394
+                  ]
+            },
+            {
+                  "name": "Spiral crain",
+                  "text": "An ancient stone cairn that is part of the Bronze Age archaeological complex in Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.775377,
+                        61.115314
+                  ]
+            },
+            {
+                  "name": "The long ruin of Huilu",
+                  "text": "A significant rectangular stone structure from the Bronze Age located at the Sammallahdenmäki site.",
+                  "category": "historical",
+                  "coords": [
+                        21.77696,
+                        61.11475
+                  ]
+            },
+            {
+                  "name": "Hiidenkiuas",
+                  "text": "A large Bronze Age burial cairn made of stones, typical of the archaeological heritage in Sammallahdenmäki.",
+                  "category": "historical",
+                  "coords": [
+                        21.775027,
+                        61.117684
+                  ]
+            },
+            {
+                  "name": "Lapin kotiseutumuseo",
+                  "text": "A local history museum showcasing the traditional rural life and heritage of the Lappi region.",
+                  "category": "museum",
+                  "coords": [
+                        21.830497,
+                        61.103811
+                  ]
+            },
+            {
+                  "name": "Parrun Synty",
+                  "text": "A monument in Sammallahdenmäki celebrating the local history and traditional industry.",
+                  "category": "historical",
+                  "coords": [
+                        21.843922,
+                        61.102681
+                  ]
+            },
+            {
+                  "name": "Lapin kirkko",
+                  "text": "A traditional wooden church serving the community in the Sammallahdenmäki area.",
+                  "category": "religious",
+                  "coords": [
+                        21.82782,
+                        61.104445
                   ]
             }
       ]
@@ -25145,7 +27053,196 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-salpa-line-museum",
+    id: "hist-salpa-line-museum", "sights": {
+      "de": [
+            {
+                  "name": "Salpa-line museum",
+                  "text": "Ein militärhistorisches Museum, das die Verteidigungsanlagen der Salpa-Linie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.671386,
+                        60.684016
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ein lokales Naturschutzgebiet mit ruhiger Umgebung und natürlichen Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        27.69068,
+                        60.696387
+                  ]
+            },
+            {
+                  "name": "Sihkarinkallion lintutorni",
+                  "text": "Ein Vogelbeobachtungsturm mit Blick auf die lokalen Feuchtgebiete und den Wald.",
+                  "category": "natural",
+                  "coords": [
+                        27.689138,
+                        60.685024
+                  ]
+            },
+            {
+                  "name": "mill",
+                  "text": "Die historischen Ruinen einer alten Mühle in der Gegend von Miehikkälä.",
+                  "category": "historical",
+                  "coords": [
+                        27.701852,
+                        60.701386
+                  ]
+            },
+            {
+                  "name": "Miehikkälän kirkko",
+                  "text": "Eine lutherische Kirche in Miehikkälä, bekannt für ihre charakteristische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        27.703421,
+                        60.674358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salpa-line museum",
+                  "text": "Hadtörténeti múzeum, amely a Salpa-vonal védelmi erődítményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.671386,
+                        60.684016
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Helyi természetvédelmi terület, amely nyugodt környezetet és természeti tájakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        27.69068,
+                        60.696387
+                  ]
+            },
+            {
+                  "name": "Sihkarinkallion lintutorni",
+                  "text": "Madármegfigyelő torony, amely kilátást nyújt a helyi vizes élőhelyekre és az erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        27.689138,
+                        60.685024
+                  ]
+            },
+            {
+                  "name": "mill",
+                  "text": "Egy régi malom történelmi romjai Miehikkälä környékén.",
+                  "category": "historical",
+                  "coords": [
+                        27.701852,
+                        60.701386
+                  ]
+            },
+            {
+                  "name": "Miehikkälän kirkko",
+                  "text": "Evangélikus templom Miehikkäläben, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        27.703421,
+                        60.674358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salpa-line museum",
+                  "text": "Un muzeu de istorie militară care prezintă fortificațiile defensive ale Liniei Salpa.",
+                  "category": "museum",
+                  "coords": [
+                        27.671386,
+                        60.684016
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "O rezervație naturală locală care oferă împrejurimi liniștite și peisaje naturale.",
+                  "category": "natural",
+                  "coords": [
+                        27.69068,
+                        60.696387
+                  ]
+            },
+            {
+                  "name": "Sihkarinkallion lintutorni",
+                  "text": "Un turn de observare a păsărilor care oferă vedere spre zonele umede și pădurea locală.",
+                  "category": "natural",
+                  "coords": [
+                        27.689138,
+                        60.685024
+                  ]
+            },
+            {
+                  "name": "mill",
+                  "text": "Ruinele istorice ale unei vechi mori situate în zona Miehikkälä.",
+                  "category": "historical",
+                  "coords": [
+                        27.701852,
+                        60.701386
+                  ]
+            },
+            {
+                  "name": "Miehikkälän kirkko",
+                  "text": "O biserică luterană din Miehikkälä, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        27.703421,
+                        60.674358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salpa-line museum",
+                  "text": "A military history museum showcasing the defensive Salpa Line fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        27.671386,
+                        60.684016
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "A local nature reserve offering peaceful surroundings and natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        27.69068,
+                        60.696387
+                  ]
+            },
+            {
+                  "name": "Sihkarinkallion lintutorni",
+                  "text": "A birdwatching tower providing views over the local wetlands and forest.",
+                  "category": "natural",
+                  "coords": [
+                        27.689138,
+                        60.685024
+                  ]
+            },
+            {
+                  "name": "mill",
+                  "text": "The historic ruins of an old mill located in the Miehikkälä area.",
+                  "category": "historical",
+                  "coords": [
+                        27.701852,
+                        60.701386
+                  ]
+            },
+            {
+                  "name": "Miehikkälän kirkko",
+                  "text": "A Lutheran church in Miehikkälä, known for its distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        27.703421,
+                        60.674358
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [27.704, 60.704],
@@ -25324,6 +27421,69 @@ export const finlandCultureExtended: POI[] = [
                         20.249657,
                         60.208034
                   ]
+            },
+            {
+                  "name": "Prästö gamla lotsstuga",
+                  "text": "Ein Museum in der ehemaligen Lotsenstation in der Nähe der Ruinen der Festung Bomarsund.",
+                  "category": "museum",
+                  "coords": [
+                        20.243733,
+                        60.211887
+                  ]
+            },
+            {
+                  "name": "Bomarsunds fästning",
+                  "text": "Die Ruinen einer großen russischen Festung aus dem 19. Jahrhundert auf den Åland-Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        20.238264,
+                        60.212358
+                  ]
+            },
+            {
+                  "name": "Telegrafen",
+                  "text": "Ein Museum, das der Geschichte der Telegrafie am Standort Bomarsund gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.254723,
+                        60.207036
+                  ]
+            },
+            {
+                  "name": "Kommendantskansli",
+                  "text": "Die archäologischen Überreste der Kommandantur innerhalb des Festungskomplexes.",
+                  "category": "historical",
+                  "coords": [
+                        20.224794,
+                        60.213426
+                  ]
+            },
+            {
+                  "name": "Bomarsunds besökscenter",
+                  "text": "Ein Besucherzentrum, das Informationen über die Geschichte und den Fall der Festung bietet.",
+                  "category": "museum",
+                  "coords": [
+                        20.234241,
+                        60.21121
+                  ]
+            },
+            {
+                  "name": "Torn A",
+                  "text": "Die archäologischen Ruinen eines der Verteidigungstürme der Festung Bomarsund.",
+                  "category": "historical",
+                  "coords": [
+                        20.226013,
+                        60.209928
+                  ]
+            },
+            {
+                  "name": "Det Nya Sjukhuset",
+                  "text": "Die Ruinen des „Neuen Hospitals“, das für die Festungsgarnison errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.22351,
+                        60.21106
+                  ]
             }
       ],
       "hu": [
@@ -25334,6 +27494,69 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         20.249657,
                         60.208034
+                  ]
+            },
+            {
+                  "name": "Prästö gamla lotsstuga",
+                  "text": "Múzeum az egykori révészházban, a Bomarsund-erőd romjai közelében.",
+                  "category": "museum",
+                  "coords": [
+                        20.243733,
+                        60.211887
+                  ]
+            },
+            {
+                  "name": "Bomarsunds fästning",
+                  "text": "Egy 19. századi nagy orosz erőd romjai az Åland-szigeteken.",
+                  "category": "historical",
+                  "coords": [
+                        20.238264,
+                        60.212358
+                  ]
+            },
+            {
+                  "name": "Telegrafen",
+                  "text": "A távíró történetének szentelt múzeum Bomarsund területén.",
+                  "category": "museum",
+                  "coords": [
+                        20.254723,
+                        60.207036
+                  ]
+            },
+            {
+                  "name": "Kommendantskansli",
+                  "text": "A parancsnoki hivatal régészeti maradványai az erődkomplexum területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.224794,
+                        60.213426
+                  ]
+            },
+            {
+                  "name": "Bomarsunds besökscenter",
+                  "text": "Látogatóközpont, amely bemutatja az erőd történetét és ostromát.",
+                  "category": "museum",
+                  "coords": [
+                        20.234241,
+                        60.21121
+                  ]
+            },
+            {
+                  "name": "Torn A",
+                  "text": "A bomarsundi erőd egyik védőtornyának régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.226013,
+                        60.209928
+                  ]
+            },
+            {
+                  "name": "Det Nya Sjukhuset",
+                  "text": "Az erőd helyőrsége számára épített „Új Kórház” romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.22351,
+                        60.21106
                   ]
             }
       ],
@@ -25346,6 +27569,69 @@ export const finlandCultureExtended: POI[] = [
                         20.249657,
                         60.208034
                   ]
+            },
+            {
+                  "name": "Prästö gamla lotsstuga",
+                  "text": "Un muzeu situat în fostul punct de pilotaj, în apropierea ruinelor fortăreței Bomarsund.",
+                  "category": "museum",
+                  "coords": [
+                        20.243733,
+                        60.211887
+                  ]
+            },
+            {
+                  "name": "Bomarsunds fästning",
+                  "text": "Ruinele unei mari fortărețe rusești din secolul al XIX-lea pe insulele Åland.",
+                  "category": "historical",
+                  "coords": [
+                        20.238264,
+                        60.212358
+                  ]
+            },
+            {
+                  "name": "Telegrafen",
+                  "text": "Un muzeu dedicat istoriei telegrafului în cadrul sitului Bomarsund.",
+                  "category": "museum",
+                  "coords": [
+                        20.254723,
+                        60.207036
+                  ]
+            },
+            {
+                  "name": "Kommendantskansli",
+                  "text": "Vestigiile arheologice ale biroului comandantului din complexul fortăreței.",
+                  "category": "historical",
+                  "coords": [
+                        20.224794,
+                        60.213426
+                  ]
+            },
+            {
+                  "name": "Bomarsunds besökscenter",
+                  "text": "Un centru pentru vizitatori care oferă informații despre istoria și căderea fortăreței.",
+                  "category": "museum",
+                  "coords": [
+                        20.234241,
+                        60.21121
+                  ]
+            },
+            {
+                  "name": "Torn A",
+                  "text": "Ruinele arheologice ale unuia dintre turnurile de apărare ale fortăreței Bomarsund.",
+                  "category": "historical",
+                  "coords": [
+                        20.226013,
+                        60.209928
+                  ]
+            },
+            {
+                  "name": "Det Nya Sjukhuset",
+                  "text": "Ruinele „Noului Spital” construit pentru a deservi garnizoana fortăreței.",
+                  "category": "historical",
+                  "coords": [
+                        20.22351,
+                        60.21106
+                  ]
             }
       ],
       "en": [
@@ -25356,6 +27642,69 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         20.249657,
                         60.208034
+                  ]
+            },
+            {
+                  "name": "The old Prästö pilot station",
+                  "text": "A museum located in the former pilot station near the ruins of Bomarsund Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.243733,
+                        60.211887
+                  ]
+            },
+            {
+                  "name": "Bomarsunds fästning",
+                  "text": "The ruins of a large 19th-century Russian fortress on the Åland Islands.",
+                  "category": "historical",
+                  "coords": [
+                        20.238264,
+                        60.212358
+                  ]
+            },
+            {
+                  "name": "Telegrafen",
+                  "text": "A museum dedicated to the history of the telegraph at the Bomarsund site.",
+                  "category": "museum",
+                  "coords": [
+                        20.254723,
+                        60.207036
+                  ]
+            },
+            {
+                  "name": "Kommendantskansli",
+                  "text": "The archaeological remains of the commandant's office within the fortress complex.",
+                  "category": "historical",
+                  "coords": [
+                        20.224794,
+                        60.213426
+                  ]
+            },
+            {
+                  "name": "Bomarsund Visitor Centre",
+                  "text": "An exhibition center providing information about the history and fall of the fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.234241,
+                        60.21121
+                  ]
+            },
+            {
+                  "name": "Torn A",
+                  "text": "The archaeological ruins of one of the defensive towers of Bomarsund Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        20.226013,
+                        60.209928
+                  ]
+            },
+            {
+                  "name": "Det Nya Sjukhuset",
+                  "text": "The ruins of the \"New Hospital\" built to serve the fortress garrison.",
+                  "category": "historical",
+                  "coords": [
+                        20.22351,
+                        60.21106
                   ]
             }
       ]
@@ -26257,6 +28606,60 @@ export const finlandCultureExtended: POI[] = [
                         22.925942,
                         59.831834
                   ]
+            },
+            {
+                  "name": "Leuchtturm Gustavsvärn",
+                  "text": "Ein historischer Leuchtturm auf einer befestigten Insel, die die Hafeneinfahrt von Hanko bewacht.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Historische Befestigungsanlagen auf den Felsen von Hanko aus der Zeit der Küstenverteidigung.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Überreste einer historischen Festung, die ein wichtiges Denkmal der Militärgeschichte von Hanko ist.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Ein Museum, das die maritime Geschichte und die Entwicklung der Stadt Hanko dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Eine eiszeitliche Gletschermühle im Naturpark Puistovuori bei Hanko.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "Ein malerischer Sandstrand, der für seine historischen Villen und die ruhige Lage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
             }
       ],
       "hu": [
@@ -26267,6 +28670,60 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         22.925942,
                         59.831834
+                  ]
+            },
+            {
+                  "name": "Gustavsvärnin majakka",
+                  "text": "Történelmi világítótorony egy erődített szigeten, amely Hanko kikötőjének bejáratát őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Történelmi erődítmények Hanko szikláin a partmenti védelem idejéből.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Egy történelmi erőd maradványai, amely Hanko hadtörténetének fontos emléke.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Múzeum, amely Hanko városának tengerészeti történelmét és fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Jégkorszaki gleccsermalom a Hanko melletti Puistovuori natúrparkban.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "Festői homokos strand, amely történelmi villáiról és nyugodt fekvéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
                   ]
             }
       ],
@@ -26279,6 +28736,60 @@ export const finlandCultureExtended: POI[] = [
                         22.925942,
                         59.831834
                   ]
+            },
+            {
+                  "name": "Gustavsvärnin majakka",
+                  "text": "Un far istoric situat pe o insulă fortificată care păzește intrarea în portul Hanko.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Fortificații istorice pe stâncile din Hanko, datând din perioada apărării de coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Ruinele unei fortărețe istorice, fiind un monument important al istoriei militare din Hanko.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Un muzeu care documentează istoria maritimă și dezvoltarea orașului Hanko.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "O marmită de gigant formată în era glaciară în parcul natural Puistovuori de lângă Hanko.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "O plajă pitorească de nisip, cunoscută pentru vilele sale istorice și locația liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
             }
       ],
       "en": [
@@ -26289,6 +28800,60 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         22.925942,
                         59.831834
+                  ]
+            },
+            {
+                  "name": "Gustavsvärn Lighthouse",
+                  "text": "A historic lighthouse on a fortified island guarding the entrance to Hanko's port.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Historic fortifications on the rocks of Hanko dating from the period of coastal defense.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "The ruins of a historic fortress, being an important monument of Hanko's military history.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "A museum documenting the maritime history and the development of the city of Hanko.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "A glacial 'giant's kettle' pothole formed during the Ice Age in the Puistovuori nature park.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "A scenic sandy beach known for its historic villas and quiet location.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
                   ]
             }
       ]
@@ -26558,7 +29123,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-saana",
+    id: "nat-saana", "sights": {
+      "de": [
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Alte Gruben für die Rentierjagd in der Nähe des Berges Saana.",
+                  "category": "historical",
+                  "coords": [
+                        20.938223,
+                        69.022896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Ősi rénszarvas-csapdák a Saana-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.938223,
+                        69.022896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Vechi gropi de vânătoare pentru reni în apropierea muntelui Saana.",
+                  "category": "historical",
+                  "coords": [
+                        20.938223,
+                        69.022896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Ancient pits used for reindeer hunting near Mount Saana.",
+                  "category": "historical",
+                  "coords": [
+                        20.938223,
+                        69.022896
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     coords: [20.97, 69.04],
@@ -26602,7 +29212,196 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-saimaa",
+    id: "nat-saimaa", "sights": {
+      "de": [
+            {
+                  "name": "Sappulan uimaranta",
+                  "text": "Ein öffentlicher Strand am Saimaa-See, ideal zum Schwimmen und Erholen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.195871,
+                        61.522861
+                  ]
+            },
+            {
+                  "name": "Taka-Lehtinen",
+                  "text": "Ein Naturschutzgebiet in der Saimaa-Region mit geschützter lokaler Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        28.143019,
+                        61.494061
+                  ]
+            },
+            {
+                  "name": "Puumalansalmen silta",
+                  "text": "Eine markante Brücke, die die Puumalansalmi-Straße überquert und weite Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176494,
+                        61.519229
+                  ]
+            },
+            {
+                  "name": "Puumalan kirkko",
+                  "text": "Eine historische Holzkirche in Puumala, die für ihre Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        28.176955,
+                        61.524675
+                  ]
+            },
+            {
+                  "name": "Puumalan kunta",
+                  "text": "Das Verwaltungsgebäude der Gemeinde Puumala am Saimaa-See.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176887,
+                        61.522933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sappulan uimaranta",
+                  "text": "Nyilvános strand a Saimaa-tónál, amely ideális úszásra és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        28.195871,
+                        61.522861
+                  ]
+            },
+            {
+                  "name": "Taka-Lehtinen",
+                  "text": "Természetvédelmi terület a Saimaa-régióban, védett helyi élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        28.143019,
+                        61.494061
+                  ]
+            },
+            {
+                  "name": "Puumalansalmen silta",
+                  "text": "Jellegzetes híd, amely a Puumalansalmi-szoros felett ível át, tágas kilátást nyújtva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176494,
+                        61.519229
+                  ]
+            },
+            {
+                  "name": "Puumalan kirkko",
+                  "text": "Történelmi fatemplom Puumalában, amely építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        28.176955,
+                        61.524675
+                  ]
+            },
+            {
+                  "name": "Puumalan kunta",
+                  "text": "Puumala község önkormányzati épülete a Saimaa-tónál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176887,
+                        61.522933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sappulan uimaranta",
+                  "text": "O plajă publică pe lacul Saimaa, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        28.195871,
+                        61.522861
+                  ]
+            },
+            {
+                  "name": "Taka-Lehtinen",
+                  "text": "O rezervație naturală în regiunea Saimaa, cu floră și faună locală protejată.",
+                  "category": "natural",
+                  "coords": [
+                        28.143019,
+                        61.494061
+                  ]
+            },
+            {
+                  "name": "Puumalansalmen silta",
+                  "text": "Un pod distinctiv care traversează strâmtoarea Puumalansalmi, oferind vederi largi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176494,
+                        61.519229
+                  ]
+            },
+            {
+                  "name": "Puumalan kirkko",
+                  "text": "O biserică istorică de lemn în Puumala, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        28.176955,
+                        61.524675
+                  ]
+            },
+            {
+                  "name": "Puumalan kunta",
+                  "text": "Clădirea administrativă a municipalității Puumala de pe lacul Saimaa.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176887,
+                        61.522933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sappulan uimaranta",
+                  "text": "A public beach on Lake Saimaa, ideal for swimming and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.195871,
+                        61.522861
+                  ]
+            },
+            {
+                  "name": "Taka-Lehtinen",
+                  "text": "A nature reserve in the Saimaa region with protected local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        28.143019,
+                        61.494061
+                  ]
+            },
+            {
+                  "name": "Puumalansalmen silta",
+                  "text": "A distinctive bridge crossing the Puumalansalmi strait, offering wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176494,
+                        61.519229
+                  ]
+            },
+            {
+                  "name": "Puumalan kirkko",
+                  "text": "A historic wooden church in Puumala, notable for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        28.176955,
+                        61.524675
+                  ]
+            },
+            {
+                  "name": "Puumalan kunta",
+                  "text": "The administrative building of the Puumala municipality on Lake Saimaa.",
+                  "category": "landmark",
+                  "coords": [
+                        28.176887,
+                        61.522933
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "FI",
     coords: [28.2, 61.5],
@@ -26646,7 +29445,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-inari",
+    id: "nat-inari", "sights": {
+      "de": [
+            {
+                  "name": "Ukonkivi",
+                  "text": "Ukonkivi ist eine heilige Insel im Inari-See und eine bedeutende archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        27.292322,
+                        68.938836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukonkivi",
+                  "text": "Ukonkivi egy szent sziget az Inari-tóban, és fontos régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        27.292322,
+                        68.938836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukonkivi",
+                  "text": "Ukonkivi este o insulă sacră în Lacul Inari și un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        27.292322,
+                        68.938836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukonkivi",
+                  "text": "Ukonkivi is a sacred island in Lake Inari and a significant archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        27.292322,
+                        68.938836
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "FI",
     coords: [27.286, 68.905],
@@ -26867,7 +29711,304 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-nuuksio-forest",
+    id: "nat-nuuksio-forest", "sights": {
+      "de": [
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "Ein weitläufiger Nationalpark mit Seen und Wäldern in Finnland.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Ein Tierpark, in dem Besucher Rentiere beobachten und füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "Ein Waldgebiet im Nuuksio-Gebiet, das unter Naturschutz steht.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Janssoninnotko",
+                  "text": "Ein Naturschutzgebiet zur Erhaltung des lokalen Waldökosystems.",
+                  "category": "natural",
+                  "coords": [
+                        24.588821,
+                        60.287313
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "Ein geschützter Waldabschnitt im Nuuksio-Forst.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "Ein kleineres Naturschutzgebiet mit einer besonderen Waldatmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "Ein ausgewiesenes Schutzgebiet zur Bewahrung der Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet, das ein lokales Bachtal schützt.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "Kiterjedt nemzeti park tavakkal és erdőkkel Finnországban.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Vadaspark, ahol a látogatók rénszarvasokat láthatnak és etethetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "Természetvédelmi oltalom alatt álló erdőterület a Nuuksio régióban.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Janssoninnotko",
+                  "text": "Természetvédelmi terület a helyi erdei ökoszisztéma megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.588821,
+                        60.287313
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "Védett erdőrészlet a Nuuksio-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "Kisebb természetvédelmi terület különleges erdei hangulattal.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "Kijelölt védett terület a biodiverzitás megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "Egy helyi patakvölgyet védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "Un parc național vast cu lacuri și păduri în Finlanda.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Un parc cu animale unde vizitatorii pot vedea și hrăni reni.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "O zonă forestieră protejată în regiunea Nuuksio.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Janssoninnotko",
+                  "text": "O rezervație naturală pentru conservarea ecosistemului forestier local.",
+                  "category": "natural",
+                  "coords": [
+                        24.588821,
+                        60.287313
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "O secțiune de pădure protejată în codrii Nuuksio.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "O mică rezervație naturală cu o atmosferă forestieră deosebită.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "O arie protejată desemnată pentru conservarea biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "O rezervație naturală care protejează o vale cu pârâu locală.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuuksio national park",
+                  "text": "A large national park with lakes and forests in Finland.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksio Reindeer Park",
+                  "text": "A wildlife park where visitors can see and feed reindeer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "A protected forest area within the Nuuksio region.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Janssoninnotko",
+                  "text": "A nature reserve for the conservation of the local forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        24.588821,
+                        60.287313
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "A protected section of woodland in the Nuuksio Forest.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "A small nature reserve with a unique forest atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "A designated protected area for the preservation of biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "A nature reserve protecting a local stream valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "FI",
     coords: [24.55, 60.3],
@@ -26914,7 +30055,88 @@ export const finlandCultureExtended: POI[] = [
 
 export const finlandNatureExtended: POI[] = [
   {
-    id: "nat-national-parks",
+    id: "nat-national-parks", "sights": {
+      "de": [
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet im Koli-Nationalpark, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        29.731715,
+                        63.131834
+                  ]
+            },
+            {
+                  "name": "Eero Järnefeltin maalauspaikka",
+                  "text": "Dieser Aussichtspunkt ist als Ort bekannt, an dem der Maler Eero Järnefelt seine Werke schuf.",
+                  "category": "natural",
+                  "coords": [
+                        29.726095,
+                        63.127904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Koli Nemzeti Parkban, amely a helyi élővilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        29.731715,
+                        63.131834
+                  ]
+            },
+            {
+                  "name": "Eero Järnefeltin maalauspaikka",
+                  "text": "Ez a kilátópont Eero Järnefelt festőművész kedvelt alkotóhelyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.726095,
+                        63.127904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "O rezervație naturală în Parcul Național Koli, protejând flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        29.731715,
+                        63.131834
+                  ]
+            },
+            {
+                  "name": "Eero Järnefeltin maalauspaikka",
+                  "text": "Acest punct de observație este cunoscut ca locul unde pictorul Eero Järnefelt și-a creat operele.",
+                  "category": "natural",
+                  "coords": [
+                        29.726095,
+                        63.127904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "A nature reserve in Koli National Park, protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        29.731715,
+                        63.131834
+                  ]
+            },
+            {
+                  "name": "Eero Järnefeltin maalauspaikka",
+                  "text": "This viewpoint is known as the location where painter Eero Järnefelt created his works.",
+                  "category": "natural",
+                  "coords": [
+                        29.726095,
+                        63.127904
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "finland",
     coords: [29.7, 63.1],
@@ -27002,7 +30224,1744 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-mariehamn", "sights": {"de": [{"name": "Nabbenbadet", "text": "Nabbenbadet Strand liegt in der Stadt Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand ist ein Strand in der Nähe von Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand ist ein Strand in Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "Im finnischen Mariehamn lädt der Mariebad strand Einheimische und Touristen zu unbeschwerten Momenten am Wasser ein. Die Nähe zur Stadt verleiht diesem Ort eine angenehme Mischung aus Lebendigkeit und nordischer Küstenruhe. Ob für ein kurzes Bad am Nachmittag oder ein entspanntes Sonnenbad – dieser Strand ist immer eine gute Wahl.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Ein preisgekröntes Museum in Mariehamn, das die reiche Seefahrtsgeschichte der Åland-Inseln präsentiert.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Ein lokales Museum, das die Entwicklung der Stadt Mariehamn dokumentiert.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Das kulturhistorische Museum von Åland beleuchtet die Geschichte der Inseln von der Urzeit bis heute.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Ein modernes Kultur- und Kongresszentrum in Mariehamn am Wasser.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Ein lebendiges Museumsviertel in Mariehamn, das traditionellen Bootsbau und Handwerk zeigt.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Ein Museum in einem alten Krämerladen, das den Handel vergangener Zeiten zeigt.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Ein Museum in Mariehamn, das historische Motoren und technische Exponate ausstellt.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Eine malerische Bucht westlich von Mariehamn, beliebt für Bootstouren.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Die Bucht östlich von Mariehamn, die das Stadtbild und die Freizeitaktivitäten prägt.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Ein markanter Hügel in Mariehamn mit herrlicher Aussicht auf das Meer und die Lotsenstation.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Ein Aussichtspunkt auf einem Hügel in Mariehamn mit Blick über die Stadt und den Hafen.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Historische Überreste einer alten Steinbrechanlage in Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Ein Park am Rathaus von Mariehamn, der zum Verweilen im Grünen einlädt.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Eine kleine Parkanlage in Mariehamn, benannt nach einer lokalen Persönlichkeit.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Ein Park in Mariehamn, der an die Autonomie der Åland-Inseln erinnert.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "Eine kleine Insel und Parkanlage im Hafen von Mariehamn mit Vögeln und Badeplatz.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Ein Beobachtungsturm in Mariehamn zur Betrachtung der lokalen Vogelwelt.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Ein historisches Steinlabyrinth, das als antike Ruine in Mariehamn erhalten ist.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "Eine historische Viermastbark, die heute als Museumsschiff im Hafen von Mariehamn liegt.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "Eine evangelische Kirche in Mariehamn auf den Åland-Inseln.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "Ein christliches Gotteshaus der Missionsgemeinde in Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Die Hauptkirche von Mariehamn, benannt nach dem Heiligen Georg.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "Eine kleine Seefahrerkapelle im maritimen Viertel von Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "Ein modernes Kirchengebäude der Pfingstgemeinde in Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Der Torpfjärden ist ein See in Mariehamn, der durch seine natürliche Schönheit besticht.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Der Byträsk ist ein See in Mariehamn, der eine ruhige Kulisse für Naturbeobachtungen bietet.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Der Dalkarby Träsk ist ein See in Mariehamn, ideal für entspannte Spaziergänge am Wasser.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Der Badhusparkens Lekpark in Mariehamn ist ein schöner Spielplatz in einer Parkanlage.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Der Lindans lekpark in Mariehamn ist ein familienfreundlicher Ort für Kinder jeden Alters.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Dieser Spielplatz in Mariehamn bietet eine sichere Umgebung für die kleinsten Besucher.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Der Spielplatz Klinten in Mariehamn ist ein beliebter Ort für Spiel und Spaß im Viertel.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Die Ångbåtsbryggan Äventyrsgolf bietet ein spannendes Minigolf-Abenteuer für Familien in Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Der Klintens Lekpark in Mariehamn lädt Kinder zu aktivem Spielen im Freien ein.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Der Kasbergets lekpark in Mariehamn bietet eine abwechslungsreiche Spiellandschaft für Kinder.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Der Johannegläntans lekpark in Mariehamn ist ein freundlicher Treffpunkt für Familien.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Ein lokaler Spielplatz in Mariehamn, der Kindern Raum zum Toben und Spielen bietet.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Dieser Spielplatz in Mariehamn ist ein schöner Ort für Familien mit Kindern.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "Eine kinderfreundliche Anlage in Mariehamn, ideal für eine Pause im Freien.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Ein Spielplatz im Herzen von Mariehamn, der zum Spielen und Entdecken einlädt.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Eine Minigolfanlage in Mariehamn, perfekt für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [19.950663, 60.091605]}], "hu": [{"name": "Nabbenbadet", "text": "Nabbenbadet strandja Mariehamn városában található.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "A Småholma badstrand egy strand Mariehamn közelében.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "A Solbergets badstrand egy strand Mariehamn városában.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Az Algrundet egy strand Mariehamn városában.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "A Gröna uddens badstrand egy strand Mariehamnban.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "A Lilla Holmens badstrand egy strand Mariehamnban.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "A finnországi Mariehamnban található Mariebad strand gondtalan vízparti pillanatokra csábítja a helyieket és a turistákat. A város közelsége a helynek a pezsgés és az északi tengerparti nyugalom kellemes keverékét kölcsönzi. Legyen szó egy rövid délutáni mártózásról vagy egy pihentető napozásról, ez a strand mindig remek választás.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Mariehamn díjnyertes múzeuma, amely az Åland-szigetek gazdag tengerészeti múltját mutatja be.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Helyi múzeum, amely Mariehamn városának fejlődését mutatja be.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Åland kultúrtörténeti múzeuma a szigetek történelmét mutatja be az őskortól napjainkig.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Modern kulturális és kongresszusi központ Mariehamn vízpartján.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Élő múzeumi negyed Mariehamnban, amely a hagyományos hajóépítést és mesterségeket mutatja be.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Egy régi szatócsboltban berendezett múzeum, amely a múltbéli kereskedelmet mutatja be.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Mariehamni múzeum, amely történelmi motorokat és technikai kiállítási tárgyakat mutat be.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Festői öböl Mariehamntól nyugatra, amely népszerű a hajózók körében.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Mariehamntól keletre fekvő öböl, amely meghatározza a városképet és a szabadidős tevékenységeket.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Jellegzetes domb Mariehamnban, nagyszerű kilátással a tengerre és a révkalauz-állomásra.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Kilátóhely egy dombtetőn Mariehamnban, rálátással a városra és a kikötőre.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Egy régi kőzúzó üzem történelmi maradványai Mariehamnban.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Park Mariehamn városházájánál, amely kellemes zöld környezetet kínál.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Kis park Mariehamnban, amelyet egy helyi személyiségről neveztek el.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Mariehamni park, amely Åland autonómiájának állít emléket.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "Kis sziget és park Mariehamn kikötőjében, madarakkal és stranddal.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Megfigyelőtorony Mariehamnban a helyi madárvilág megtekintéséhez.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Történelmi kőlabirintus, amely antik romként maradt fenn Mariehamnban.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "Történelmi négyárbocos bark, amely ma múzeumhajóként áll Mariehamn kikötőjében.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "Egy evangélikus templom Mariehamn városában, az Åland-szigeteken.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "A missziós gyülekezet keresztény temploma Mariehamnban.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Mariehamn főtemploma, amelyet Szent Györgyről neveztek el.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "Egy kis tengerész-kápolna Mariehamn tengerészeti negyedében.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "A pünkösdi gyülekezet modern templomépülete Mariehamnban.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "A Torpfjärden egy tó Mariehamnban, amely természeti szépségével bűvöli el a látogatókat.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "A Byträsk egy tó Mariehamn területén, amely csendes környezetet nyújt a természet megfigyeléséhez.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "A Dalkarby Träsk egy tó Mariehamnban, amely ideális a vízparti sétákhoz.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "A Badhusparkens Lekpark Mariehamnban egy szép játszótér egy parkosított területen.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "A Lindans lekpark Mariehamnban egy családbarát hely minden korosztályú gyermek számára.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Ez a játszótér Mariehamnban biztonságos környezetet nyújt a legkisebb látogatóknak.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "A Klinten játszótér Mariehamnban népszerű hely a játékhoz és szórakozáshoz a környéken.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Az Ångbåtsbryggan Äventyrsgolf izgalmas minigolf kalandot kínál családoknak Mariehamnban.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "A Klintens Lekpark Mariehamnban aktív szabadtéri játékra hívja a gyerekeket.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "A Kasbergets lekpark Mariehamnban változatos játszótájat kínál a gyerekeknek.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "A Johannegläntans lekpark Mariehamnban egy barátságos találkozóhely a családoknak.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Helyi játszótér Mariehamn városában, amely játéklehetőséget kínál a gyerekeknek.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Ez a mariehamni játszótér kellemes hely a gyermekes családok számára.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "Gyermekbarát létesítmény Mariehamnban, amely ideális egy szabadtéri szünethez.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Játszótér Mariehamn szívében, amely játékra és felfedezésre hívja a gyerekeket.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Minigolfpálya Mariehamn városában, tökéletes egy szórakoztató családi kiránduláshoz.", "category": "family", "coords": [19.950663, 60.091605]}], "ro": [{"name": "Nabbenbadet", "text": "Plaja Nabbenbadet este situată în orașul Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand este o plajă lângă Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand este o plajă situată în Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet este o plajă în Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand este o plajă în Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand este o plajă în Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "În orașul finlandez Mariehamn, plaja Mariebad invită localnicii și turiștii la momente lipsite de griji la malul apei. Apropierea de oraș conferă acestui loc un amestec plăcut de vitalitate și liniște de coastă nordică. Fie pentru o baie scurtă după-amiaza sau pentru o sesiune relaxantă de bronzat, această plajă este întotdeauna o alegere excelentă.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Ålands Sjöfartsmuseum", "text": "Un muzeu premiat din Mariehamn care prezintă bogata istorie maritimă a Insulelor Åland.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "Un muzeu local care documentează dezvoltarea orașului Mariehamn.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "Muzeul de istorie culturală din Åland prezintă istoria insulelor din preistorie până în prezent.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "Un centru cultural și de conferințe modern situat pe malul apei în Mariehamn.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "Un cartier muzeal viu în Mariehamn, care prezintă construcția tradițională de bărci și meșteșugurile.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "Un muzeu amenajat într-o veche băcănie, care prezintă comerțul de altădată.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "Un muzeu din Mariehamn care expune motoare istorice și piese tehnice.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "Un golf pitoresc la vest de Mariehamn, popular pentru plimbări cu barca.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "Golful de la est de Mariehamn, care definește peisajul urban și activitățile recreative.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "Un deal proeminent în Mariehamn, cu o vedere superbă spre mare și stația de piloți.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "Un punct de observație pe un deal din Mariehamn, cu vedere asupra orașului și portului.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Vestigii istorice ale unei vechi instalații de zdrobire a pietrei în Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "Un parc lângă primăria din Mariehamn, care oferü un spațiu verde relaxant.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "Un mic parc în Mariehamn, numit după o personalitate locală.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "Un parc în Mariehamn care comemorează autonomia Insulelor Åland.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "O insulă mică și un parc în portul Mariehamn, cu păsări și loc de scăldat.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpfjärdens Fågeltorn", "text": "Un turn de observație în Mariehamn pentru admirarea păsărilor locale.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "Un labirint istoric din piatră, păstrat ca o ruină antică în Mariehamn.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "O navă istorică cu patru catarge, care astăzi servește ca navă-muzeu în portul Mariehamn.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "O biserică evanghelică în Mariehamn, în insulele Åland.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "O casă de cult creștină a comunității misionare din Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "Biserica principală din Mariehamn, numită după Sfântul Gheorghe.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "O mică capelă a marinarilor situată în cartierul maritim din Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "O clădire modernă a bisericii penticostale din Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Torpfjärden este un lac din Mariehamn, care impresionează prin frumusețea sa naturală.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Byträsk este un lac din Mariehamn, oferind un cadru liniștit pentru observarea naturii.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Dalkarby Träsk este un lac din Mariehamn, ideal pentru plimbări relaxante pe malul apei.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Badhusparkens Lekpark din Mariehamn este un loc de joacă frumos situat într-un parc.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Lindans lekpark din Mariehamn este un loc prietenos pentru familii, potrivit pentru copii de toate vârstele.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "Acest loc de joacă din Mariehamn oferă un mediu sigur pentru cei mai mici vizitatori.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Locul de joacă Klinten din Mariehamn este un loc popular pentru joacă și distracție în cartier.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Ångbåtsbryggan Äventyrsgolf oferă o aventură palpitantă de minigolf pentru familiile din Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Klintens Lekpark din Mariehamn invită copiii la joacă activă în aer liber.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Kasbergets lekpark din Mariehamn oferă un peisaj de joacă variat pentru copii.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Johannegläntans lekpark din Mariehamn este un punct de întâlnire prietenos pentru familii.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "Un loc de joacă local în Mariehamn, care oferă spațiu de joacă pentru copii.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "Acest loc de joacă din Mariehamn este un loc plăcut pentru familiile cu copii.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "O facilitate pentru copii în Mariehamn, ideală pentru o pauză în aer liber.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "Un loc de joacă în inima orașului Mariehamn, care invită copiii la joacă și explorare.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "Un teren de minigolf în Mariehamn, perfect pentru o ieșire distractivă în familie.", "category": "family", "coords": [19.950663, 60.091605]}], "en": [{"name": "Nabbenbadet", "text": "Nabbenbadet beach is located in the town of Mariehamn.", "category": "recreational", "coords": [19.956155, 60.114796]}, {"name": "Småholma badstrand", "text": "Småholma badstrand is a beach near Mariehamn.", "category": "recreational", "coords": [19.885049, 60.101199]}, {"name": "Solbergets badstrand", "text": "Solbergets badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.970715, 60.11439]}, {"name": "Algrundet", "text": "Algrundet is a beach in Mariehamn.", "category": "recreational", "coords": [19.964633, 60.085363]}, {"name": "Gröna uddens badstrand", "text": "Gröna uddens badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.954376, 60.091511]}, {"name": "Lilla Holmens badstand", "text": "Lilla Holmens badstrand is a beach in Mariehamn.", "category": "recreational", "coords": [19.952443, 60.096007]}, {"name": "Mariebad strand", "text": "In the Finnish town of Mariehamn, the Mariebad strand invites locals and tourists to carefree moments by the water. The proximity to the city gives this place a pleasant mix of liveliness and Nordic coastal tranquility. Whether for a quick swim in the afternoon or a relaxing session of sunbathing, this beach is always a great choice.", "category": "recreational", "coords": [19.945302, 60.107795]}, {"name": "Åland Maritime Museum", "text": "An award-winning museum in Mariehamn showcasing the rich maritime history of the Åland Islands.", "category": "museum", "coords": [19.926527, 60.097247]}, {"name": "Mariehamnsmuseet", "text": "A local museum documenting the development of the city of Mariehamn.", "category": "museum", "coords": [19.938187, 60.098932]}, {"name": "Ålands museum", "text": "The cultural history museum of Åland presents the islands' history from prehistoric times to the present.", "category": "museum", "coords": [19.944903, 60.096976]}, {"name": "Alandica", "text": "A modern culture and congress center located by the waterfront in Mariehamn.", "category": "cultural", "coords": [19.94414, 60.100876]}, {"name": "Sjökvarteret museum", "text": "A living museum quarter in Mariehamn showcasing traditional boatbuilding and crafts.", "category": "museum", "coords": [19.945078, 60.104849]}, {"name": "Köpmannamuseet", "text": "A museum located in an old general store, showcasing trade from bygone times.", "category": "museum", "coords": [19.946879, 60.093398]}, {"name": "Motormuseum", "text": "A museum in Mariehamn exhibiting historic engines and technical artifacts.", "category": "museum", "coords": [19.944682, 60.106049]}, {"name": "Svibyviken", "text": "A scenic bay to the west of Mariehamn, popular for boating.", "category": "landmark", "coords": [19.92042, 60.100991]}, {"name": "Slemmern", "text": "The bay to the east of Mariehamn, central to the city's landscape and recreation.", "category": "landmark", "coords": [19.964299, 60.099415]}, {"name": "Lotsberget", "text": "A prominent hill in Mariehamn offering great views of the sea and the pilot station.", "category": "natural", "coords": [19.935386, 60.088653]}, {"name": "Badhusberget", "text": "A viewpoint on a hill in Mariehamn with views over the city and the harbor.", "category": "natural", "coords": [19.925446, 60.101038]}, {"name": "Stenkrossen", "text": "Historic remains of an old stone crushing plant in Mariehamn.", "category": "historical", "coords": [19.931084, 60.087588]}, {"name": "Stadshusbacken", "text": "A park near the Mariehamn city hall, offering a pleasant green space.", "category": "park", "coords": [19.943496, 60.096829]}, {"name": "Wirénska parken", "text": "A small park in Mariehamn named after a local figure.", "category": "park", "coords": [19.943434, 60.098222]}, {"name": "Självstyrelseparken", "text": "A park in Mariehamn commemorating the autonomy of the Åland Islands.", "category": "park", "coords": [19.944552, 60.098852]}, {"name": "Lilla holmen", "text": "A small island and park in the Mariehamn harbor with birds and a swimming area.", "category": "park", "coords": [19.950736, 60.096]}, {"name": "Torpviken birdwatching tower", "text": "An observation tower in Mariehamn for viewing the local birdlife.", "category": "natural", "coords": [19.89939, 60.108381]}, {"name": "Jungfrudansen", "text": "A historic stone labyrinth preserved as an ancient ruin in Mariehamn.", "category": "historical", "coords": [19.946581, 60.0957]}, {"name": "Pommern", "text": "A historic four-masted barque that now serves as a museum ship in the Mariehamn harbor.", "category": "landmark", "coords": [19.925041, 60.09734]}, {"name": "S:t Mårtens kyrka", "text": "A Lutheran church located in Mariehamn on the Åland Islands.", "category": "religious", "coords": [19.947847, 60.117543]}, {"name": "Missionskyrkan", "text": "A Christian place of worship belonging to the mission church in Mariehamn.", "category": "religious", "coords": [19.936128, 60.096739]}, {"name": "S:t Görans kyrka", "text": "The main church of Mariehamn, named after Saint George.", "category": "religious", "coords": [19.934832, 60.097329]}, {"name": "Sjöfararkapellet", "text": "A small seafarers' chapel located in the maritime quarter of Mariehamn.", "category": "religious", "coords": [19.946634, 60.106939]}, {"name": "Åland Pingstförsamling", "text": "A modern church building of the Pentecostal congregation in Mariehamn.", "category": "religious", "coords": [19.940477, 60.089987]}, {"name": "Torpfjärden", "text": "Torpfjärden is a lake in Mariehamn, known for its natural beauty.", "category": "natural", "coords": [19.899755, 60.113605]}, {"name": "Byträsk", "text": "Byträsk is a lake in Mariehamn, providing a quiet setting for nature observation.", "category": "natural", "coords": [20.001758, 60.07711]}, {"name": "Dalkarby Träsk", "text": "Dalkarby Träsk is a lake in Mariehamn, ideal for relaxing walks by the water.", "category": "natural", "coords": [19.950112, 60.141544]}, {"name": "Badhusparkens Lekpark", "text": "Badhusparkens Lekpark in Mariehamn is a lovely playground located within a park.", "category": "family", "coords": [19.927623, 60.098667]}, {"name": "Lindans lekpark", "text": "Lindans lekpark in Mariehamn is a family-friendly spot for children of all ages.", "category": "family", "coords": [19.941752, 60.092441]}, {"name": "Lekplats, klinten 2", "text": "This playground in Mariehamn provides a safe environment for the youngest visitors.", "category": "family", "coords": [19.933303, 60.108802]}, {"name": "Lekplats, Klinten", "text": "Klinten playground in Mariehamn is a popular spot for play and fun in the neighborhood.", "category": "family", "coords": [19.932193, 60.108843]}, {"name": "Ångbåtsbryggan Äventyrsgolf", "text": "Ångbåtsbryggan Äventyrsgolf offers an exciting minigolf adventure for families in Mariehamn.", "category": "family", "coords": [19.946565, 60.098038]}, {"name": "Klintens Lekpark", "text": "Klintens Lekpark in Mariehamn invites children for active outdoor play.", "category": "family", "coords": [19.937142, 60.110934]}, {"name": "Kasbergets lekpark", "text": "Kasbergets lekpark in Mariehamn offers a diverse play landscape for children.", "category": "family", "coords": [19.930971, 60.118479]}, {"name": "Johannegläntans lekpark", "text": "Johannegläntans lekpark in Mariehamn is a friendly meeting spot for families.", "category": "family", "coords": [19.939811, 60.120007]}, {"name": "Johannebo lekpark", "text": "A local playground in Mariehamn offering space for children to play.", "category": "family", "coords": [19.945403, 60.121777]}, {"name": "Ljungvägens lekpark", "text": "This playground in Mariehamn is a nice spot for families with children.", "category": "family", "coords": [19.950839, 60.121267]}, {"name": "Hindersbölelängarnas lekpark", "text": "A child-friendly facility in Mariehamn, ideal for an outdoor break.", "category": "family", "coords": [19.955953, 60.117702]}, {"name": "Rådhuset", "text": "A playground in the heart of Mariehamn, inviting children to play and explore.", "category": "family", "coords": [19.935047, 60.096317]}, {"name": "Gröna Uddens minigolf", "text": "A miniature golf course in Mariehamn, perfect for a fun family outing.", "category": "family", "coords": [19.950663, 60.091605]}]},
+    id: "city-mariehamn", "sights": {
+      "de": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet Strand liegt in der Stadt Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand ist ein Strand in der Nähe von Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "Im finnischen Mariehamn lädt der Mariebad strand Einheimische und Touristen zu unbeschwerten Momenten am Wasser ein. Die Nähe zur Stadt verleiht diesem Ort eine angenehme Mischung aus Lebendigkeit und nordischer Küstenruhe. Ob für ein kurzes Bad am Nachmittag oder ein entspanntes Sonnenbad – dieser Strand ist immer eine gute Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            },
+            {
+                  "name": "Ålands Sjöfartsmuseum",
+                  "text": "Ein preisgekröntes Museum in Mariehamn, das die reiche Seefahrtsgeschichte der Åland-Inseln präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.926527,
+                        60.097247
+                  ]
+            },
+            {
+                  "name": "Mariehamnsmuseet",
+                  "text": "Ein lokales Museum, das die Entwicklung der Stadt Mariehamn dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.938187,
+                        60.098932
+                  ]
+            },
+            {
+                  "name": "Ålands museum",
+                  "text": "Das kulturhistorische Museum von Åland beleuchtet die Geschichte der Inseln von der Urzeit bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        19.944903,
+                        60.096976
+                  ]
+            },
+            {
+                  "name": "Alandica",
+                  "text": "Ein modernes Kultur- und Kongresszentrum in Mariehamn am Wasser.",
+                  "category": "cultural",
+                  "coords": [
+                        19.94414,
+                        60.100876
+                  ]
+            },
+            {
+                  "name": "Sjökvarteret museum",
+                  "text": "Ein lebendiges Museumsviertel in Mariehamn, das traditionellen Bootsbau und Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.945078,
+                        60.104849
+                  ]
+            },
+            {
+                  "name": "Köpmannamuseet",
+                  "text": "Ein Museum in einem alten Krämerladen, das den Handel vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.946879,
+                        60.093398
+                  ]
+            },
+            {
+                  "name": "Motormuseum",
+                  "text": "Ein Museum in Mariehamn, das historische Motoren und technische Exponate ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        19.944682,
+                        60.106049
+                  ]
+            },
+            {
+                  "name": "Svibyviken",
+                  "text": "Eine malerische Bucht westlich von Mariehamn, beliebt für Bootstouren.",
+                  "category": "landmark",
+                  "coords": [
+                        19.92042,
+                        60.100991
+                  ]
+            },
+            {
+                  "name": "Slemmern",
+                  "text": "Die Bucht östlich von Mariehamn, die das Stadtbild und die Freizeitaktivitäten prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.964299,
+                        60.099415
+                  ]
+            },
+            {
+                  "name": "Lotsberget",
+                  "text": "Ein markanter Hügel in Mariehamn mit herrlicher Aussicht auf das Meer und die Lotsenstation.",
+                  "category": "natural",
+                  "coords": [
+                        19.935386,
+                        60.088653
+                  ]
+            },
+            {
+                  "name": "Badhusberget",
+                  "text": "Ein Aussichtspunkt auf einem Hügel in Mariehamn mit Blick über die Stadt und den Hafen.",
+                  "category": "natural",
+                  "coords": [
+                        19.925446,
+                        60.101038
+                  ]
+            },
+            {
+                  "name": "Stenkrossen",
+                  "text": "Historische Überreste einer alten Steinbrechanlage in Mariehamn.",
+                  "category": "historical",
+                  "coords": [
+                        19.931084,
+                        60.087588
+                  ]
+            },
+            {
+                  "name": "Stadshusbacken",
+                  "text": "Ein Park am Rathaus von Mariehamn, der zum Verweilen im Grünen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        19.943496,
+                        60.096829
+                  ]
+            },
+            {
+                  "name": "Wirénska parken",
+                  "text": "Eine kleine Parkanlage in Mariehamn, benannt nach einer lokalen Persönlichkeit.",
+                  "category": "park",
+                  "coords": [
+                        19.943434,
+                        60.098222
+                  ]
+            },
+            {
+                  "name": "Självstyrelseparken",
+                  "text": "Ein Park in Mariehamn, der an die Autonomie der Åland-Inseln erinnert.",
+                  "category": "park",
+                  "coords": [
+                        19.944552,
+                        60.098852
+                  ]
+            },
+            {
+                  "name": "Lilla holmen",
+                  "text": "Eine kleine Insel und Parkanlage im Hafen von Mariehamn mit Vögeln und Badeplatz.",
+                  "category": "park",
+                  "coords": [
+                        19.950736,
+                        60.096
+                  ]
+            },
+            {
+                  "name": "Torpfjärdens Fågeltorn",
+                  "text": "Ein Beobachtungsturm in Mariehamn zur Betrachtung der lokalen Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        19.89939,
+                        60.108381
+                  ]
+            },
+            {
+                  "name": "Jungfrudansen",
+                  "text": "Ein historisches Steinlabyrinth, das als antike Ruine in Mariehamn erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.946581,
+                        60.0957
+                  ]
+            },
+            {
+                  "name": "Pommern",
+                  "text": "Eine historische Viermastbark, die heute als Museumsschiff im Hafen von Mariehamn liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.925041,
+                        60.09734
+                  ]
+            },
+            {
+                  "name": "S:t Mårtens kyrka",
+                  "text": "Eine evangelische Kirche in Mariehamn auf den Åland-Inseln.",
+                  "category": "religious",
+                  "coords": [
+                        19.947847,
+                        60.117543
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "Ein christliches Gotteshaus der Missionsgemeinde in Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.936128,
+                        60.096739
+                  ]
+            },
+            {
+                  "name": "S:t Görans kyrka",
+                  "text": "Die Hauptkirche von Mariehamn, benannt nach dem Heiligen Georg.",
+                  "category": "religious",
+                  "coords": [
+                        19.934832,
+                        60.097329
+                  ]
+            },
+            {
+                  "name": "Sjöfararkapellet",
+                  "text": "Eine kleine Seefahrerkapelle im maritimen Viertel von Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.946634,
+                        60.106939
+                  ]
+            },
+            {
+                  "name": "Åland Pingstförsamling",
+                  "text": "Ein modernes Kirchengebäude der Pfingstgemeinde in Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.940477,
+                        60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Der Torpfjärden ist ein See in Mariehamn, der durch seine natürliche Schönheit besticht.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Der Byträsk ist ein See in Mariehamn, der eine ruhige Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Der Dalkarby Träsk ist ein See in Mariehamn, ideal für entspannte Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Der Badhusparkens Lekpark in Mariehamn ist ein schöner Spielplatz in einer Parkanlage.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Der Lindans lekpark in Mariehamn ist ein familienfreundlicher Ort für Kinder jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Dieser Spielplatz in Mariehamn bietet eine sichere Umgebung für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Der Spielplatz Klinten in Mariehamn ist ein beliebter Ort für Spiel und Spaß im Viertel.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Die Ångbåtsbryggan Äventyrsgolf bietet ein spannendes Minigolf-Abenteuer für Familien in Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Der Klintens Lekpark in Mariehamn lädt Kinder zu aktivem Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Der Kasbergets lekpark in Mariehamn bietet eine abwechslungsreiche Spiellandschaft für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Der Johannegläntans lekpark in Mariehamn ist ein freundlicher Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Ein lokaler Spielplatz in Mariehamn, der Kindern Raum zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Dieser Spielplatz in Mariehamn ist ein schöner Ort für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "Eine kinderfreundliche Anlage in Mariehamn, ideal für eine Pause im Freien.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Ein Spielplatz im Herzen von Mariehamn, der zum Spielen und Entdecken einlädt.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Eine Minigolfanlage in Mariehamn, perfekt für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
+            },
+            {
+                  "name": "Tullarns ang",
+                  "text": "Ein malerisches Naturschutzgebiet in Mariehamn, bekannt für seine üppigen Wiesen und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        19.948662,
+                        60.094299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet strandja Mariehamn városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "A Småholma badstrand egy strand Mariehamn közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "A Solbergets badstrand egy strand Mariehamn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Az Algrundet egy strand Mariehamn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "A Gröna uddens badstrand egy strand Mariehamnban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "A Lilla Holmens badstrand egy strand Mariehamnban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "A finnországi Mariehamnban található Mariebad strand gondtalan vízparti pillanatokra csábítja a helyieket és a turistákat. A város közelsége a helynek a pezsgés és az északi tengerparti nyugalom kellemes keverékét kölcsönzi. Legyen szó egy rövid délutáni mártózásról vagy egy pihentető napozásról, ez a strand mindig remek választás.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            },
+            {
+                  "name": "Ålands Sjöfartsmuseum",
+                  "text": "Mariehamn díjnyertes múzeuma, amely az Åland-szigetek gazdag tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.926527,
+                        60.097247
+                  ]
+            },
+            {
+                  "name": "Mariehamnsmuseet",
+                  "text": "Helyi múzeum, amely Mariehamn városának fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.938187,
+                        60.098932
+                  ]
+            },
+            {
+                  "name": "Ålands museum",
+                  "text": "Åland kultúrtörténeti múzeuma a szigetek történelmét mutatja be az őskortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        19.944903,
+                        60.096976
+                  ]
+            },
+            {
+                  "name": "Alandica",
+                  "text": "Modern kulturális és kongresszusi központ Mariehamn vízpartján.",
+                  "category": "cultural",
+                  "coords": [
+                        19.94414,
+                        60.100876
+                  ]
+            },
+            {
+                  "name": "Sjökvarteret museum",
+                  "text": "Élő múzeumi negyed Mariehamnban, amely a hagyományos hajóépítést és mesterségeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.945078,
+                        60.104849
+                  ]
+            },
+            {
+                  "name": "Köpmannamuseet",
+                  "text": "Egy régi szatócsboltban berendezett múzeum, amely a múltbéli kereskedelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.946879,
+                        60.093398
+                  ]
+            },
+            {
+                  "name": "Motormuseum",
+                  "text": "Mariehamni múzeum, amely történelmi motorokat és technikai kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.944682,
+                        60.106049
+                  ]
+            },
+            {
+                  "name": "Svibyviken",
+                  "text": "Festői öböl Mariehamntól nyugatra, amely népszerű a hajózók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.92042,
+                        60.100991
+                  ]
+            },
+            {
+                  "name": "Slemmern",
+                  "text": "Mariehamntól keletre fekvő öböl, amely meghatározza a városképet és a szabadidős tevékenységeket.",
+                  "category": "landmark",
+                  "coords": [
+                        19.964299,
+                        60.099415
+                  ]
+            },
+            {
+                  "name": "Lotsberget",
+                  "text": "Jellegzetes domb Mariehamnban, nagyszerű kilátással a tengerre és a révkalauz-állomásra.",
+                  "category": "natural",
+                  "coords": [
+                        19.935386,
+                        60.088653
+                  ]
+            },
+            {
+                  "name": "Badhusberget",
+                  "text": "Kilátóhely egy dombtetőn Mariehamnban, rálátással a városra és a kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        19.925446,
+                        60.101038
+                  ]
+            },
+            {
+                  "name": "Stenkrossen",
+                  "text": "Egy régi kőzúzó üzem történelmi maradványai Mariehamnban.",
+                  "category": "historical",
+                  "coords": [
+                        19.931084,
+                        60.087588
+                  ]
+            },
+            {
+                  "name": "Stadshusbacken",
+                  "text": "Park Mariehamn városházájánál, amely kellemes zöld környezetet kínál.",
+                  "category": "park",
+                  "coords": [
+                        19.943496,
+                        60.096829
+                  ]
+            },
+            {
+                  "name": "Wirénska parken",
+                  "text": "Kis park Mariehamnban, amelyet egy helyi személyiségről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        19.943434,
+                        60.098222
+                  ]
+            },
+            {
+                  "name": "Självstyrelseparken",
+                  "text": "Mariehamni park, amely Åland autonómiájának állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        19.944552,
+                        60.098852
+                  ]
+            },
+            {
+                  "name": "Lilla holmen",
+                  "text": "Kis sziget és park Mariehamn kikötőjében, madarakkal és stranddal.",
+                  "category": "park",
+                  "coords": [
+                        19.950736,
+                        60.096
+                  ]
+            },
+            {
+                  "name": "Torpfjärdens Fågeltorn",
+                  "text": "Megfigyelőtorony Mariehamnban a helyi madárvilág megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        19.89939,
+                        60.108381
+                  ]
+            },
+            {
+                  "name": "Jungfrudansen",
+                  "text": "Történelmi kőlabirintus, amely antik romként maradt fenn Mariehamnban.",
+                  "category": "historical",
+                  "coords": [
+                        19.946581,
+                        60.0957
+                  ]
+            },
+            {
+                  "name": "Pommern",
+                  "text": "Történelmi négyárbocos bark, amely ma múzeumhajóként áll Mariehamn kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.925041,
+                        60.09734
+                  ]
+            },
+            {
+                  "name": "S:t Mårtens kyrka",
+                  "text": "Egy evangélikus templom Mariehamn városában, az Åland-szigeteken.",
+                  "category": "religious",
+                  "coords": [
+                        19.947847,
+                        60.117543
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "A missziós gyülekezet keresztény temploma Mariehamnban.",
+                  "category": "religious",
+                  "coords": [
+                        19.936128,
+                        60.096739
+                  ]
+            },
+            {
+                  "name": "S:t Görans kyrka",
+                  "text": "Mariehamn főtemploma, amelyet Szent Györgyről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        19.934832,
+                        60.097329
+                  ]
+            },
+            {
+                  "name": "Sjöfararkapellet",
+                  "text": "Egy kis tengerész-kápolna Mariehamn tengerészeti negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        19.946634,
+                        60.106939
+                  ]
+            },
+            {
+                  "name": "Åland Pingstförsamling",
+                  "text": "A pünkösdi gyülekezet modern templomépülete Mariehamnban.",
+                  "category": "religious",
+                  "coords": [
+                        19.940477,
+                        60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "A Torpfjärden egy tó Mariehamnban, amely természeti szépségével bűvöli el a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "A Byträsk egy tó Mariehamn területén, amely csendes környezetet nyújt a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "A Dalkarby Träsk egy tó Mariehamnban, amely ideális a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "A Badhusparkens Lekpark Mariehamnban egy szép játszótér egy parkosított területen.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "A Lindans lekpark Mariehamnban egy családbarát hely minden korosztályú gyermek számára.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Ez a játszótér Mariehamnban biztonságos környezetet nyújt a legkisebb látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "A Klinten játszótér Mariehamnban népszerű hely a játékhoz és szórakozáshoz a környéken.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Az Ångbåtsbryggan Äventyrsgolf izgalmas minigolf kalandot kínál családoknak Mariehamnban.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "A Klintens Lekpark Mariehamnban aktív szabadtéri játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "A Kasbergets lekpark Mariehamnban változatos játszótájat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "A Johannegläntans lekpark Mariehamnban egy barátságos találkozóhely a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Helyi játszótér Mariehamn városában, amely játéklehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Ez a mariehamni játszótér kellemes hely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "Gyermekbarát létesítmény Mariehamnban, amely ideális egy szabadtéri szünethez.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Játszótér Mariehamn szívében, amely játékra és felfedezésre hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Minigolfpálya Mariehamn városában, tökéletes egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
+            },
+            {
+                  "name": "Tullarns ang",
+                  "text": "Festői természetvédelmi terület Mariehamnban, amely buja rétjeiről és sétaútjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.948662,
+                        60.094299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Plaja Nabbenbadet este situată în orașul Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand este o plajă lângă Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand este o plajă situată în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "În orașul finlandez Mariehamn, plaja Mariebad invită localnicii și turiștii la momente lipsite de griji la malul apei. Apropierea de oraș conferă acestui loc un amestec plăcut de vitalitate și liniște de coastă nordică. Fie pentru o baie scurtă după-amiaza sau pentru o sesiune relaxantă de bronzat, această plajă este întotdeauna o alegere excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            },
+            {
+                  "name": "Ålands Sjöfartsmuseum",
+                  "text": "Un muzeu premiat din Mariehamn care prezintă bogata istorie maritimă a Insulelor Åland.",
+                  "category": "museum",
+                  "coords": [
+                        19.926527,
+                        60.097247
+                  ]
+            },
+            {
+                  "name": "Mariehamnsmuseet",
+                  "text": "Un muzeu local care documentează dezvoltarea orașului Mariehamn.",
+                  "category": "museum",
+                  "coords": [
+                        19.938187,
+                        60.098932
+                  ]
+            },
+            {
+                  "name": "Ålands museum",
+                  "text": "Muzeul de istorie culturală din Åland prezintă istoria insulelor din preistorie până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        19.944903,
+                        60.096976
+                  ]
+            },
+            {
+                  "name": "Alandica",
+                  "text": "Un centru cultural și de conferințe modern situat pe malul apei în Mariehamn.",
+                  "category": "cultural",
+                  "coords": [
+                        19.94414,
+                        60.100876
+                  ]
+            },
+            {
+                  "name": "Sjökvarteret museum",
+                  "text": "Un cartier muzeal viu în Mariehamn, care prezintă construcția tradițională de bărci și meșteșugurile.",
+                  "category": "museum",
+                  "coords": [
+                        19.945078,
+                        60.104849
+                  ]
+            },
+            {
+                  "name": "Köpmannamuseet",
+                  "text": "Un muzeu amenajat într-o veche băcănie, care prezintă comerțul de altădată.",
+                  "category": "museum",
+                  "coords": [
+                        19.946879,
+                        60.093398
+                  ]
+            },
+            {
+                  "name": "Motormuseum",
+                  "text": "Un muzeu din Mariehamn care expune motoare istorice și piese tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        19.944682,
+                        60.106049
+                  ]
+            },
+            {
+                  "name": "Svibyviken",
+                  "text": "Un golf pitoresc la vest de Mariehamn, popular pentru plimbări cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        19.92042,
+                        60.100991
+                  ]
+            },
+            {
+                  "name": "Slemmern",
+                  "text": "Golful de la est de Mariehamn, care definește peisajul urban și activitățile recreative.",
+                  "category": "landmark",
+                  "coords": [
+                        19.964299,
+                        60.099415
+                  ]
+            },
+            {
+                  "name": "Lotsberget",
+                  "text": "Un deal proeminent în Mariehamn, cu o vedere superbă spre mare și stația de piloți.",
+                  "category": "natural",
+                  "coords": [
+                        19.935386,
+                        60.088653
+                  ]
+            },
+            {
+                  "name": "Badhusberget",
+                  "text": "Un punct de observație pe un deal din Mariehamn, cu vedere asupra orașului și portului.",
+                  "category": "natural",
+                  "coords": [
+                        19.925446,
+                        60.101038
+                  ]
+            },
+            {
+                  "name": "Stenkrossen",
+                  "text": "Vestigii istorice ale unei vechi instalații de zdrobire a pietrei în Mariehamn.",
+                  "category": "historical",
+                  "coords": [
+                        19.931084,
+                        60.087588
+                  ]
+            },
+            {
+                  "name": "Stadshusbacken",
+                  "text": "Un parc lângă primăria din Mariehamn, care oferü un spațiu verde relaxant.",
+                  "category": "park",
+                  "coords": [
+                        19.943496,
+                        60.096829
+                  ]
+            },
+            {
+                  "name": "Wirénska parken",
+                  "text": "Un mic parc în Mariehamn, numit după o personalitate locală.",
+                  "category": "park",
+                  "coords": [
+                        19.943434,
+                        60.098222
+                  ]
+            },
+            {
+                  "name": "Självstyrelseparken",
+                  "text": "Un parc în Mariehamn care comemorează autonomia Insulelor Åland.",
+                  "category": "park",
+                  "coords": [
+                        19.944552,
+                        60.098852
+                  ]
+            },
+            {
+                  "name": "Lilla holmen",
+                  "text": "O insulă mică și un parc în portul Mariehamn, cu păsări și loc de scăldat.",
+                  "category": "park",
+                  "coords": [
+                        19.950736,
+                        60.096
+                  ]
+            },
+            {
+                  "name": "Torpfjärdens Fågeltorn",
+                  "text": "Un turn de observație în Mariehamn pentru admirarea păsărilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        19.89939,
+                        60.108381
+                  ]
+            },
+            {
+                  "name": "Jungfrudansen",
+                  "text": "Un labirint istoric din piatră, păstrat ca o ruină antică în Mariehamn.",
+                  "category": "historical",
+                  "coords": [
+                        19.946581,
+                        60.0957
+                  ]
+            },
+            {
+                  "name": "Pommern",
+                  "text": "O navă istorică cu patru catarge, care astăzi servește ca navă-muzeu în portul Mariehamn.",
+                  "category": "landmark",
+                  "coords": [
+                        19.925041,
+                        60.09734
+                  ]
+            },
+            {
+                  "name": "S:t Mårtens kyrka",
+                  "text": "O biserică evanghelică în Mariehamn, în insulele Åland.",
+                  "category": "religious",
+                  "coords": [
+                        19.947847,
+                        60.117543
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "O casă de cult creștină a comunității misionare din Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.936128,
+                        60.096739
+                  ]
+            },
+            {
+                  "name": "S:t Görans kyrka",
+                  "text": "Biserica principală din Mariehamn, numită după Sfântul Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        19.934832,
+                        60.097329
+                  ]
+            },
+            {
+                  "name": "Sjöfararkapellet",
+                  "text": "O mică capelă a marinarilor situată în cartierul maritim din Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.946634,
+                        60.106939
+                  ]
+            },
+            {
+                  "name": "Åland Pingstförsamling",
+                  "text": "O clădire modernă a bisericii penticostale din Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.940477,
+                        60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Torpfjärden este un lac din Mariehamn, care impresionează prin frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Byträsk este un lac din Mariehamn, oferind un cadru liniștit pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Dalkarby Träsk este un lac din Mariehamn, ideal pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Badhusparkens Lekpark din Mariehamn este un loc de joacă frumos situat într-un parc.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Lindans lekpark din Mariehamn este un loc prietenos pentru familii, potrivit pentru copii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "Acest loc de joacă din Mariehamn oferă un mediu sigur pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Locul de joacă Klinten din Mariehamn este un loc popular pentru joacă și distracție în cartier.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Ångbåtsbryggan Äventyrsgolf oferă o aventură palpitantă de minigolf pentru familiile din Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Klintens Lekpark din Mariehamn invită copiii la joacă activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Kasbergets lekpark din Mariehamn oferă un peisaj de joacă variat pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Johannegläntans lekpark din Mariehamn este un punct de întâlnire prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "Un loc de joacă local în Mariehamn, care oferă spațiu de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "Acest loc de joacă din Mariehamn este un loc plăcut pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "O facilitate pentru copii în Mariehamn, ideală pentru o pauză în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Un loc de joacă în inima orașului Mariehamn, care invită copiii la joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "Un teren de minigolf în Mariehamn, perfect pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
+            },
+            {
+                  "name": "Tullarns ang",
+                  "text": "O rezervație naturală pitorească din Mariehamn, cunoscută pentru pajiștile sale verzi și potecile de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        19.948662,
+                        60.094299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet beach is located in the town of Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand is a beach near Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "In the Finnish town of Mariehamn, the Mariebad strand invites locals and tourists to carefree moments by the water. The proximity to the city gives this place a pleasant mix of liveliness and Nordic coastal tranquility. Whether for a quick swim in the afternoon or a relaxing session of sunbathing, this beach is always a great choice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            },
+            {
+                  "name": "Åland Maritime Museum",
+                  "text": "An award-winning museum in Mariehamn showcasing the rich maritime history of the Åland Islands.",
+                  "category": "museum",
+                  "coords": [
+                        19.926527,
+                        60.097247
+                  ]
+            },
+            {
+                  "name": "Mariehamnsmuseet",
+                  "text": "A local museum documenting the development of the city of Mariehamn.",
+                  "category": "museum",
+                  "coords": [
+                        19.938187,
+                        60.098932
+                  ]
+            },
+            {
+                  "name": "Ålands museum",
+                  "text": "The cultural history museum of Åland presents the islands' history from prehistoric times to the present.",
+                  "category": "museum",
+                  "coords": [
+                        19.944903,
+                        60.096976
+                  ]
+            },
+            {
+                  "name": "Alandica",
+                  "text": "A modern culture and congress center located by the waterfront in Mariehamn.",
+                  "category": "cultural",
+                  "coords": [
+                        19.94414,
+                        60.100876
+                  ]
+            },
+            {
+                  "name": "Sjökvarteret museum",
+                  "text": "A living museum quarter in Mariehamn showcasing traditional boatbuilding and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        19.945078,
+                        60.104849
+                  ]
+            },
+            {
+                  "name": "Köpmannamuseet",
+                  "text": "A museum located in an old general store, showcasing trade from bygone times.",
+                  "category": "museum",
+                  "coords": [
+                        19.946879,
+                        60.093398
+                  ]
+            },
+            {
+                  "name": "Motormuseum",
+                  "text": "A museum in Mariehamn exhibiting historic engines and technical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        19.944682,
+                        60.106049
+                  ]
+            },
+            {
+                  "name": "Svibyviken",
+                  "text": "A scenic bay to the west of Mariehamn, popular for boating.",
+                  "category": "landmark",
+                  "coords": [
+                        19.92042,
+                        60.100991
+                  ]
+            },
+            {
+                  "name": "Slemmern",
+                  "text": "The bay to the east of Mariehamn, central to the city's landscape and recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        19.964299,
+                        60.099415
+                  ]
+            },
+            {
+                  "name": "Lotsberget",
+                  "text": "A prominent hill in Mariehamn offering great views of the sea and the pilot station.",
+                  "category": "natural",
+                  "coords": [
+                        19.935386,
+                        60.088653
+                  ]
+            },
+            {
+                  "name": "Badhusberget",
+                  "text": "A viewpoint on a hill in Mariehamn with views over the city and the harbor.",
+                  "category": "natural",
+                  "coords": [
+                        19.925446,
+                        60.101038
+                  ]
+            },
+            {
+                  "name": "Stenkrossen",
+                  "text": "Historic remains of an old stone crushing plant in Mariehamn.",
+                  "category": "historical",
+                  "coords": [
+                        19.931084,
+                        60.087588
+                  ]
+            },
+            {
+                  "name": "Stadshusbacken",
+                  "text": "A park near the Mariehamn city hall, offering a pleasant green space.",
+                  "category": "park",
+                  "coords": [
+                        19.943496,
+                        60.096829
+                  ]
+            },
+            {
+                  "name": "Wirénska parken",
+                  "text": "A small park in Mariehamn named after a local figure.",
+                  "category": "park",
+                  "coords": [
+                        19.943434,
+                        60.098222
+                  ]
+            },
+            {
+                  "name": "Självstyrelseparken",
+                  "text": "A park in Mariehamn commemorating the autonomy of the Åland Islands.",
+                  "category": "park",
+                  "coords": [
+                        19.944552,
+                        60.098852
+                  ]
+            },
+            {
+                  "name": "Lilla holmen",
+                  "text": "A small island and park in the Mariehamn harbor with birds and a swimming area.",
+                  "category": "park",
+                  "coords": [
+                        19.950736,
+                        60.096
+                  ]
+            },
+            {
+                  "name": "Torpviken birdwatching tower",
+                  "text": "An observation tower in Mariehamn for viewing the local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        19.89939,
+                        60.108381
+                  ]
+            },
+            {
+                  "name": "Jungfrudansen",
+                  "text": "A historic stone labyrinth preserved as an ancient ruin in Mariehamn.",
+                  "category": "historical",
+                  "coords": [
+                        19.946581,
+                        60.0957
+                  ]
+            },
+            {
+                  "name": "Pommern",
+                  "text": "A historic four-masted barque that now serves as a museum ship in the Mariehamn harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.925041,
+                        60.09734
+                  ]
+            },
+            {
+                  "name": "S:t Mårtens kyrka",
+                  "text": "A Lutheran church located in Mariehamn on the Åland Islands.",
+                  "category": "religious",
+                  "coords": [
+                        19.947847,
+                        60.117543
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "A Christian place of worship belonging to the mission church in Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.936128,
+                        60.096739
+                  ]
+            },
+            {
+                  "name": "S:t Görans kyrka",
+                  "text": "The main church of Mariehamn, named after Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        19.934832,
+                        60.097329
+                  ]
+            },
+            {
+                  "name": "Sjöfararkapellet",
+                  "text": "A small seafarers' chapel located in the maritime quarter of Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.946634,
+                        60.106939
+                  ]
+            },
+            {
+                  "name": "Åland Pingstförsamling",
+                  "text": "A modern church building of the Pentecostal congregation in Mariehamn.",
+                  "category": "religious",
+                  "coords": [
+                        19.940477,
+                        60.089987
+                  ]
+            },
+            {
+                  "name": "Torpfjärden",
+                  "text": "Torpfjärden is a lake in Mariehamn, known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        19.899755,
+                        60.113605
+                  ]
+            },
+            {
+                  "name": "Byträsk",
+                  "text": "Byträsk is a lake in Mariehamn, providing a quiet setting for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        20.001758,
+                        60.07711
+                  ]
+            },
+            {
+                  "name": "Dalkarby Träsk",
+                  "text": "Dalkarby Träsk is a lake in Mariehamn, ideal for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        19.950112,
+                        60.141544
+                  ]
+            },
+            {
+                  "name": "Badhusparkens Lekpark",
+                  "text": "Badhusparkens Lekpark in Mariehamn is a lovely playground located within a park.",
+                  "category": "family",
+                  "coords": [
+                        19.927623,
+                        60.098667
+                  ]
+            },
+            {
+                  "name": "Lindans lekpark",
+                  "text": "Lindans lekpark in Mariehamn is a family-friendly spot for children of all ages.",
+                  "category": "family",
+                  "coords": [
+                        19.941752,
+                        60.092441
+                  ]
+            },
+            {
+                  "name": "Lekplats, klinten 2",
+                  "text": "This playground in Mariehamn provides a safe environment for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.933303,
+                        60.108802
+                  ]
+            },
+            {
+                  "name": "Lekplats, Klinten",
+                  "text": "Klinten playground in Mariehamn is a popular spot for play and fun in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        19.932193,
+                        60.108843
+                  ]
+            },
+            {
+                  "name": "Ångbåtsbryggan Äventyrsgolf",
+                  "text": "Ångbåtsbryggan Äventyrsgolf offers an exciting minigolf adventure for families in Mariehamn.",
+                  "category": "family",
+                  "coords": [
+                        19.946565,
+                        60.098038
+                  ]
+            },
+            {
+                  "name": "Klintens Lekpark",
+                  "text": "Klintens Lekpark in Mariehamn invites children for active outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        19.937142,
+                        60.110934
+                  ]
+            },
+            {
+                  "name": "Kasbergets lekpark",
+                  "text": "Kasbergets lekpark in Mariehamn offers a diverse play landscape for children.",
+                  "category": "family",
+                  "coords": [
+                        19.930971,
+                        60.118479
+                  ]
+            },
+            {
+                  "name": "Johannegläntans lekpark",
+                  "text": "Johannegläntans lekpark in Mariehamn is a friendly meeting spot for families.",
+                  "category": "family",
+                  "coords": [
+                        19.939811,
+                        60.120007
+                  ]
+            },
+            {
+                  "name": "Johannebo lekpark",
+                  "text": "A local playground in Mariehamn offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.945403,
+                        60.121777
+                  ]
+            },
+            {
+                  "name": "Ljungvägens lekpark",
+                  "text": "This playground in Mariehamn is a nice spot for families with children.",
+                  "category": "family",
+                  "coords": [
+                        19.950839,
+                        60.121267
+                  ]
+            },
+            {
+                  "name": "Hindersbölelängarnas lekpark",
+                  "text": "A child-friendly facility in Mariehamn, ideal for an outdoor break.",
+                  "category": "family",
+                  "coords": [
+                        19.955953,
+                        60.117702
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "A playground in the heart of Mariehamn, inviting children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        19.935047,
+                        60.096317
+                  ]
+            },
+            {
+                  "name": "Gröna Uddens minigolf",
+                  "text": "A miniature golf course in Mariehamn, perfect for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        19.950663,
+                        60.091605
+                  ]
+            },
+            {
+                  "name": "Tullarns ang",
+                  "text": "A scenic nature reserve in Mariehamn known for its lush meadows and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        19.948662,
+                        60.094299
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-aland-fi",
     coords: [19.9475, 60.0973],
@@ -37640,7 +42599,268 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "historical-hamina-fortress",
+    id: "historical-hamina-fortress", "sights": {
+      "de": [
+            {
+                  "name": "RUK-museo",
+                  "text": "Das Museum der Reserveoffiziersschule in Hamina präsentiert die lokale Militärgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "Ein Museumsschiff in Hamina, das früher als Feuerschiff diente.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Das Stadtmuseum von Hamina zeigt Exponate zur Geschichte der Festungsstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Historische Festungsanlagen, die Teil des Verteidigungssystems von Hamina sind.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Eine archäologische Fundstätte in Hamina mit Spuren früherer Besiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "Ein Museum im Haus eines ehemaligen Kaufmanns, das das bürgerliche Leben in Hamina zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
+            },
+            {
+                  "name": "Vehkalahtisali",
+                  "text": "Ein lokaler Veranstaltungsort und Theatersaal in Hamina.",
+                  "category": "cultural",
+                  "coords": [
+                        27.151815,
+                        60.576438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RUK-museo",
+                  "text": "A haminai tartalékos tisztképző iskola múzeuma a helyi hadtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "Múzeumhajó Haminában, amely korábban világítóhajóként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Hamina városi múzeuma a festői erődváros történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Történelmi erődítmények, amelyek Hamina védelmi rendszerének részei.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Régészeti lelőhely Haminában, korábbi települések nyomaival.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "Egy egykori kereskedőházban kialakított múzeum, amely a polgári életet mutatja be Haminában.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
+            },
+            {
+                  "name": "Vehkalahtisali",
+                  "text": "Helyi rendezvényhelyszín és színházterem Haminában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.151815,
+                        60.576438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RUK-museo",
+                  "text": "Muzeul școlii de ofițeri de rezervă din Hamina prezintă istoria militară locală.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "O navă-muzeu în Hamina, care a servit anterior ca navă-far.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Muzeul orașului Hamina prezintă exponate despre istoria orașului-fortăreață.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Fortificații istorice care fac parte din sistemul de apărare al orașului Hamina.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Un sit arheologic în Hamina cu urme ale unor așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "Un muzeu situat în casa unui fost negustor, prezentând viața burgheză din Hamina.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
+            },
+            {
+                  "name": "Vehkalahtisali",
+                  "text": "O sală locală de evenimente și teatru situată în Hamina.",
+                  "category": "cultural",
+                  "coords": [
+                        27.151815,
+                        60.576438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RUK-museo",
+                  "text": "The Reserve Officer School Museum in Hamina showcases local military history.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "A museum ship in Hamina that previously served as a lightvessel.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "The Hamina City Museum displays exhibits on the history of the fortress town.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Historical fortifications that are part of the Hamina defense system.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "An archaeological site in Hamina featuring traces of early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "A museum located in a former merchant's house, showing middle-class life in Hamina.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
+            },
+            {
+                  "name": "Vehkalahtisali",
+                  "text": "A local events venue and theatre hall located in Hamina.",
+                  "category": "cultural",
+                  "coords": [
+                        27.151815,
+                        60.576438
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "reg-kymenlaakso-fi",
     coords: [27.2020, 60.5690],
@@ -38137,6 +43357,15 @@ export const finlandNatureExtended: POI[] = [
                         25.652624,
                         61.582128
                   ]
+            },
+            {
+                  "name": "Torpanmäen kiviaita",
+                  "text": "Historische Steinmauerruinen in der malerischen Region des Päijänne-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        25.652469,
+                        61.57731
+                  ]
             }
       ],
       "hu": [
@@ -38147,6 +43376,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         25.652624,
                         61.582128
+                  ]
+            },
+            {
+                  "name": "Torpanmäen kiviaita",
+                  "text": "Történelmi kőfalmaradványok a festői Päijänne-tó környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.652469,
+                        61.57731
                   ]
             }
       ],
@@ -38159,6 +43397,15 @@ export const finlandNatureExtended: POI[] = [
                         25.652624,
                         61.582128
                   ]
+            },
+            {
+                  "name": "Torpanmäen kiviaita",
+                  "text": "Ruinele unui zid istoric de piatră situate în zona pitorească a lacului Päijänne.",
+                  "category": "historical",
+                  "coords": [
+                        25.652469,
+                        61.57731
+                  ]
             }
       ],
       "en": [
@@ -38169,6 +43416,15 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         25.652624,
                         61.582128
+                  ]
+            },
+            {
+                  "name": "Torpanmäen kiviaita",
+                  "text": "Historic stone wall ruins located in the scenic Lake Päijänne area.",
+                  "category": "historical",
+                  "coords": [
+                        25.652469,
+                        61.57731
                   ]
             }
       ]
@@ -38596,7 +43852,232 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "historical-kaustinen-folk-music-centre",
+    id: "historical-kaustinen-folk-music-centre", "sights": {
+      "de": [
+            {
+                  "name": "Kaustisen kotiseutumuseo",
+                  "text": "Ein Heimatmuseum, das das ländliche Erbe von Kaustinen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.695931,
+                        63.54989
+                  ]
+            },
+            {
+                  "name": "Kansantaiteenkeskus",
+                  "text": "Ein nationales Kulturzentrum für Volksmusik in Kaustinen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.692306,
+                        63.543681
+                  ]
+            },
+            {
+                  "name": "KPO-areena",
+                  "text": "Ein lokaler Veranstaltungsort in Kaustinen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.692891,
+                        63.545688
+                  ]
+            },
+            {
+                  "name": "Kaustinen ski jumping hill",
+                  "text": "Die Überreste einer Skisprungschanze in Kaustinen.",
+                  "category": "historical",
+                  "coords": [
+                        23.690098,
+                        63.541669
+                  ]
+            },
+            {
+                  "name": "Kaustisen helluntaiseurakunta",
+                  "text": "Die Pfingstkirche in Kaustinen ist eine lokale religiöse Stätte.",
+                  "category": "religious",
+                  "coords": [
+                        23.695352,
+                        63.548182
+                  ]
+            },
+            {
+                  "name": "Kaustisen kirkko",
+                  "text": "Die hölzerne Kreuzkirche in Kaustinen stammt aus dem späten 18. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        23.694134,
+                        63.550448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaustisen kotiseutumuseo",
+                  "text": "Kaustinen vidéki örökségét bemutató helytörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.695931,
+                        63.54989
+                  ]
+            },
+            {
+                  "name": "Kansantaiteenkeskus",
+                  "text": "A népzene országos kulturális központja Kaustinenben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.692306,
+                        63.543681
+                  ]
+            },
+            {
+                  "name": "KPO-areena",
+                  "text": "Egy helyi rendezvényhelyszín Kaustinenben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.692891,
+                        63.545688
+                  ]
+            },
+            {
+                  "name": "Kaustinen ski jumping hill",
+                  "text": "Egy síugrósánc maradványai Kaustinenben.",
+                  "category": "historical",
+                  "coords": [
+                        23.690098,
+                        63.541669
+                  ]
+            },
+            {
+                  "name": "Kaustisen helluntaiseurakunta",
+                  "text": "Kaustinen pünkösdi temploma egy helyi vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        23.695352,
+                        63.548182
+                  ]
+            },
+            {
+                  "name": "Kaustisen kirkko",
+                  "text": "Kaustinen fából készült kereszt alaprajzú temploma a 18. század végén épült.",
+                  "category": "religious",
+                  "coords": [
+                        23.694134,
+                        63.550448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaustisen kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală care prezintă moștenirea rurală din Kaustinen.",
+                  "category": "museum",
+                  "coords": [
+                        23.695931,
+                        63.54989
+                  ]
+            },
+            {
+                  "name": "Kansantaiteenkeskus",
+                  "text": "Un centru cultural național pentru muzică populară în Kaustinen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.692306,
+                        63.543681
+                  ]
+            },
+            {
+                  "name": "KPO-areena",
+                  "text": "O locație locală pentru evenimente în Kaustinen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.692891,
+                        63.545688
+                  ]
+            },
+            {
+                  "name": "Kaustinen ski jumping hill",
+                  "text": "Ruinele unei trambuline de sărituri cu schiurile în Kaustinen.",
+                  "category": "historical",
+                  "coords": [
+                        23.690098,
+                        63.541669
+                  ]
+            },
+            {
+                  "name": "Kaustisen helluntaiseurakunta",
+                  "text": "Biserica penticostală din Kaustinen este un lăcaș de cult local.",
+                  "category": "religious",
+                  "coords": [
+                        23.695352,
+                        63.548182
+                  ]
+            },
+            {
+                  "name": "Kaustisen kirkko",
+                  "text": "Biserica de lemn din Kaustinen a fost construită la sfârșitul secolului al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        23.694134,
+                        63.550448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaustisen kotiseutumuseo",
+                  "text": "A local history museum showcasing the rural heritage of Kaustinen.",
+                  "category": "museum",
+                  "coords": [
+                        23.695931,
+                        63.54989
+                  ]
+            },
+            {
+                  "name": "Kansantaiteenkeskus",
+                  "text": "A national cultural centre for folk music located in Kaustinen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.692306,
+                        63.543681
+                  ]
+            },
+            {
+                  "name": "KPO-areena",
+                  "text": "A local event venue in Kaustinen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.692891,
+                        63.545688
+                  ]
+            },
+            {
+                  "name": "Kaustinen ski jumping hill",
+                  "text": "The ruins of a ski jumping hill in Kaustinen.",
+                  "category": "historical",
+                  "coords": [
+                        23.690098,
+                        63.541669
+                  ]
+            },
+            {
+                  "name": "Kaustisen helluntaiseurakunta",
+                  "text": "The Pentecostal church in Kaustinen is a local religious site.",
+                  "category": "religious",
+                  "coords": [
+                        23.695352,
+                        63.548182
+                  ]
+            },
+            {
+                  "name": "Kaustisen kirkko",
+                  "text": "The wooden cross-church in Kaustinen dates back to the late 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        23.694134,
+                        63.550448
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-central-ostrobothnia-fi",
     coords: [23.6870, 63.5480],
@@ -39020,7 +44501,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "forest-hossa",
+    id: "forest-hossa", "sights": {
+      "de": [
+            {
+                  "name": "Hossan luontokeskus",
+                  "text": "Das Besucherzentrum bietet Informationen und Dienstleistungen für Gäste des Hossa-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        29.518381,
+                        65.467703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hossan luontokeskus",
+                  "text": "A látogatóközpont információkat és szolgáltatásokat nyújt a Hossa-terület vendégeinek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.518381,
+                        65.467703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hossan luontokeskus",
+                  "text": "Centrul pentru vizitatori oferă informații și servicii pentru oaspeții zonei Hossa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.518381,
+                        65.467703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hossa Visitor Centre",
+                  "text": "The visitor centre provides information and services for guests of the Hossa area.",
+                  "category": "landmark",
+                  "coords": [
+                        29.518381,
+                        65.467703
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "reg-kainuu-fi",
     coords: [29.5200, 65.5000],
@@ -39064,7 +44590,124 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "kid-ranua-wildlife-park",
+    id: "kid-ranua-wildlife-park", "sights": {
+      "de": [
+            {
+                  "name": "Ranuan Eläinpuisto",
+                  "text": "Ein Tierpark in Ranua, der auf arktische Tierarten spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.464025,
+                        65.94088
+                  ]
+            },
+            {
+                  "name": "Kotieläinpuisto",
+                  "text": "Ein Zoo in Ranua, der verschiedene einheimische Haustiere zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465109,
+                        65.943648
+                  ]
+            },
+            {
+                  "name": "Takajärvi lintutorni",
+                  "text": "Ein Aussichtsturm am Takajärvi-See, der ideal zur Vogelbeobachtung ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.533915,
+                        65.91798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ranuan Eläinpuisto",
+                  "text": "Sarki állatfajokra specializálódott vadaspark Ranuában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.464025,
+                        65.94088
+                  ]
+            },
+            {
+                  "name": "Kotieläinpuisto",
+                  "text": "Állatkert Ranuában, amely különféle háziasított állatokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465109,
+                        65.943648
+                  ]
+            },
+            {
+                  "name": "Takajärvi lintutorni",
+                  "text": "Kilátótorony a Takajärvi-tónál, amely kiváló madármegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        26.533915,
+                        65.91798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ranuan Eläinpuisto",
+                  "text": "Un parc zoologic din Ranua, specializat în specii de animale arctice.",
+                  "category": "recreational",
+                  "coords": [
+                        26.464025,
+                        65.94088
+                  ]
+            },
+            {
+                  "name": "Kotieläinpuisto",
+                  "text": "O grădină zoologică din Ranua care prezintă diverse animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465109,
+                        65.943648
+                  ]
+            },
+            {
+                  "name": "Takajärvi lintutorni",
+                  "text": "Un turn de observare la lacul Takajärvi, ideal pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.533915,
+                        65.91798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ranua Wildlife Park",
+                  "text": "A wildlife park in Ranua specializing in Arctic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        26.464025,
+                        65.94088
+                  ]
+            },
+            {
+                  "name": "Domestic animal park",
+                  "text": "A zoo in Ranua featuring various domestic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465109,
+                        65.943648
+                  ]
+            },
+            {
+                  "name": "Takajärvi lintutorni",
+                  "text": "An observation tower at Lake Takajärvi, ideal for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        26.533915,
+                        65.91798
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "reg-lapland-fi",
     coords: [26.5310, 65.9300],

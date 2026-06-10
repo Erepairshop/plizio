@@ -417,7 +417,88 @@ imageHint: "Pskov Krom fortress walls and river",
     },
     image: "/poi-images/russia-pskov-krom-landmarks-v2.webp",
 },  {
-    id: "russia-rostov-kremlin-landmarks-v2",
+    id: "russia-rostov-kremlin-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shihanov brothers",
+                  "text": "Eine Kunstgalerie im Komplex des Rostower Kremls.",
+                  "category": "museum",
+                  "coords": [
+                        39.415088,
+                        57.185812
+                  ]
+            },
+            {
+                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "text": "Eine seltene, gut erhaltene Holzkirche aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        39.354207,
+                        57.180342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shihanov brothers",
+                  "text": "Egy művészeti galéria a Rosztovi Kreml épületegyüttesében.",
+                  "category": "museum",
+                  "coords": [
+                        39.415088,
+                        57.185812
+                  ]
+            },
+            {
+                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "text": "Egy ritka, jó állapotban fennmaradt 17. századi fatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        39.354207,
+                        57.180342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shihanov brothers",
+                  "text": "O galerie de artă situată în complexul Kremlinului din Rostov.",
+                  "category": "museum",
+                  "coords": [
+                        39.415088,
+                        57.185812
+                  ]
+            },
+            {
+                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "text": "O biserică de lemn rară și bine conservată din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        39.354207,
+                        57.180342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shihanov brothers",
+                  "text": "An art gallery located within the Rostov Kremlin complex.",
+                  "category": "museum",
+                  "coords": [
+                        39.415088,
+                        57.185812
+                  ]
+            },
+            {
+                  "name": "Ishnya Church",
+                  "text": "A rare, well-preserved wooden church dating from the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        39.354207,
+                        57.180342
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "fortress",
     name: { de: "Rostower Kreml", hu: "Rosztovi Kreml", ro: "Kremlinul din Rostov", en: "Rostov Kremlin"},
@@ -693,7 +774,268 @@ imageHint: "Peter the Great Monument Moscow river ship",
     },
     image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp",
 },  {
-    id: "russia-church-of-ascension-kolomenskoye-landmarks-v2",
+    id: "russia-church-of-ascension-kolomenskoye-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Дворец царя Алексея Михайловича",
+                  "text": "Eine prächtige Rekonstruktion des hölzernen Palastes des Zaren in Kolomenskoje.",
+                  "category": "castle",
+                  "coords": [
+                        37.656823,
+                        55.655879
+                  ]
+            },
+            {
+                  "name": "Усадьба коломенского крестьянина",
+                  "text": "Ein Freilichtmuseum, das das bäuerliche Leben im alten Russland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.670692,
+                        55.673913
+                  ]
+            },
+            {
+                  "name": "Усадьба кузнеца",
+                  "text": "Ein Museumskomplex, der eine historische Schmiede und traditionelles Handwerk präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        37.671387,
+                        55.674816
+                  ]
+            },
+            {
+                  "name": "Соколиный двор",
+                  "text": "Ein Museum, das der Geschichte der Falknerei am Zarenhof gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        37.680851,
+                        55.671994
+                  ]
+            },
+            {
+                  "name": "Голландский домик царя Петра I",
+                  "text": "Das hölzerne Haus, in dem Zar Peter I. während seines Aufenthalts in Holland wohnte.",
+                  "category": "museum",
+                  "coords": [
+                        37.679586,
+                        55.672067
+                  ]
+            },
+            {
+                  "name": "Остров Мечты",
+                  "text": "Ein großer überdachter Themenpark mit zahlreichen Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        37.678926,
+                        55.694859
+                  ]
+            },
+            {
+                  "name": "Южный речной вокзал",
+                  "text": "Ein historisches Gebäude am Fluss, das nach seiner Renovierung als Kulturzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        37.676835,
+                        55.689418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дворец царя Алексея Михайловича",
+                  "text": "A cár fából készült palotájának pompás rekonstrukciója Kolomenszkojéban.",
+                  "category": "castle",
+                  "coords": [
+                        37.656823,
+                        55.655879
+                  ]
+            },
+            {
+                  "name": "Усадьба коломенского крестьянина",
+                  "text": "Szabadtéri múzeum, amely a régi oroszországi paraszti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        37.670692,
+                        55.673913
+                  ]
+            },
+            {
+                  "name": "Усадьба кузнеца",
+                  "text": "Múzeumi komplexum, amely egy történelmi kovácsműhelyt és hagyományos mesterségeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        37.671387,
+                        55.674816
+                  ]
+            },
+            {
+                  "name": "Соколиный двор",
+                  "text": "A cári udvar solymászatának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        37.680851,
+                        55.671994
+                  ]
+            },
+            {
+                  "name": "Голландский домик царя Петра I",
+                  "text": "A faház, amelyben I. Péter cár lakott hollandiai tartózkodása idején.",
+                  "category": "museum",
+                  "coords": [
+                        37.679586,
+                        55.672067
+                  ]
+            },
+            {
+                  "name": "Остров Мечты",
+                  "text": "Hatalmas fedett vidámpark számos attrakcióval a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        37.678926,
+                        55.694859
+                  ]
+            },
+            {
+                  "name": "Южный речной вокзал",
+                  "text": "Történelmi folyóparti épület, amely felújítása után kulturális központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        37.676835,
+                        55.689418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Дворец царя Алексея Михайловича",
+                  "text": "O reconstrucție magnifică a palatului de lemn al țarului din Kolomenskoe.",
+                  "category": "castle",
+                  "coords": [
+                        37.656823,
+                        55.655879
+                  ]
+            },
+            {
+                  "name": "Усадьба коломенского крестьянина",
+                  "text": "Un muzeu în aer liber care prezintă viața țărănească din vechea Rusie.",
+                  "category": "museum",
+                  "coords": [
+                        37.670692,
+                        55.673913
+                  ]
+            },
+            {
+                  "name": "Усадьба кузнеца",
+                  "text": "Un complex muzeal care prezintă o forjă istorică și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        37.671387,
+                        55.674816
+                  ]
+            },
+            {
+                  "name": "Соколиный двор",
+                  "text": "Un muzeu dedicat istoriei șoimăritului la curtea țarului.",
+                  "category": "museum",
+                  "coords": [
+                        37.680851,
+                        55.671994
+                  ]
+            },
+            {
+                  "name": "Голландский домик царя Петра I",
+                  "text": "Casa de lemn în care a locuit țarul Petru I în timpul șederii sale în Olanda.",
+                  "category": "museum",
+                  "coords": [
+                        37.679586,
+                        55.672067
+                  ]
+            },
+            {
+                  "name": "Остров Мечты",
+                  "text": "Un parc tematic acoperit de mari dimensiuni, cu numeroase atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        37.678926,
+                        55.694859
+                  ]
+            },
+            {
+                  "name": "Южный речной вокзал",
+                  "text": "O clădire fluvială istorică ce servește ca centru cultural după renovare.",
+                  "category": "landmark",
+                  "coords": [
+                        37.676835,
+                        55.689418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace of Tsar Alexey Mikhailocich",
+                  "text": "A magnificent reconstruction of the Tsar's wooden palace in Kolomenskoye.",
+                  "category": "castle",
+                  "coords": [
+                        37.656823,
+                        55.655879
+                  ]
+            },
+            {
+                  "name": "Kolomenskoye peasant's farm",
+                  "text": "An open-air museum showcasing peasant life in old Russia.",
+                  "category": "museum",
+                  "coords": [
+                        37.670692,
+                        55.673913
+                  ]
+            },
+            {
+                  "name": "Smith’s Yard",
+                  "text": "A museum complex showcasing a historical forge and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        37.671387,
+                        55.674816
+                  ]
+            },
+            {
+                  "name": "Falcon yard",
+                  "text": "A museum dedicated to the history of falconry at the Tsar's court.",
+                  "category": "museum",
+                  "coords": [
+                        37.680851,
+                        55.671994
+                  ]
+            },
+            {
+                  "name": "The House of Tsar Peter I from Holland",
+                  "text": "The wooden house where Tsar Peter I lived during his stay in Holland.",
+                  "category": "museum",
+                  "coords": [
+                        37.679586,
+                        55.672067
+                  ]
+            },
+            {
+                  "name": "Dream island",
+                  "text": "A large indoor theme park with numerous attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        37.678926,
+                        55.694859
+                  ]
+            },
+            {
+                  "name": "Southern River Terminal",
+                  "text": "A historical riverfront building that serves as a cultural center after its renovation.",
+                  "category": "landmark",
+                  "coords": [
+                        37.676835,
+                        55.689418
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "church",
     name: { de: "Christi-Himmelfahrts-Kirche", hu: "Krisztus mennybemenetele templom", ro: "Biserica Înălțării din Kolomenskoe", en: "Church of the Ascension"},
@@ -832,7 +1174,268 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
     },
     image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp",
 },  {
-    id: "russia-alexander-palace-landmarks-v2",
+    id: "russia-alexander-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alexanderpalast",
+                  "text": "Der ehemalige kaiserliche Palast in Zarskoje Selo, der als letzte Residenz von Nikolaus II. bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.392877,
+                        59.721156
+                  ]
+            },
+            {
+                  "name": "Камеронова галерея",
+                  "text": "Eine klassizistische Galerie im Katharinenpark, entworfen vom Architekten Charles Cameron.",
+                  "category": "museum",
+                  "coords": [
+                        30.395577,
+                        59.714486
+                  ]
+            },
+            {
+                  "name": "Katharinenpalast",
+                  "text": "Ein prächtiger Rokoko-Sommerpalast der russischen Zaren in Zarskoje Selo.",
+                  "category": "castle",
+                  "coords": [
+                        30.395487,
+                        59.71603
+                  ]
+            },
+            {
+                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "text": "Ein Museum in Zarskoje Selo, das Wachsfiguren bedeutender historischer Persönlichkeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        30.399074,
+                        59.718287
+                  ]
+            },
+            {
+                  "name": "Царскосельский арсенал",
+                  "text": "Ein Museum, das eine umfangreiche Sammlung historischer Waffen und Rüstungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        30.377538,
+                        59.721783
+                  ]
+            },
+            {
+                  "name": "Дом-музей П. П. Чистякова",
+                  "text": "Das ehemalige Wohnhaus und Atelier des berühmten russischen Malers und Lehrers Pawel Tschistjakow.",
+                  "category": "museum",
+                  "coords": [
+                        30.426301,
+                        59.713087
+                  ]
+            },
+            {
+                  "name": "Музей храмов Царскосельского благочиния",
+                  "text": "Ein Museum, das der religiösen Geschichte und den Kirchen der Region Zarskoje Selo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.406938,
+                        59.720547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Александровский дворец",
+                  "text": "Egykori császári palota Carszkoje Szelóban, II. Miklós utolsó rezidenciája.",
+                  "category": "museum",
+                  "coords": [
+                        30.392877,
+                        59.721156
+                  ]
+            },
+            {
+                  "name": "Камеронова галерея",
+                  "text": "Klasszicista galéria a Katalin-parkban, amelyet Charles Cameron építész tervezett.",
+                  "category": "museum",
+                  "coords": [
+                        30.395577,
+                        59.714486
+                  ]
+            },
+            {
+                  "name": "Екатерининский дворец",
+                  "text": "Az orosz cárok pompás rokokó stílusú nyári palotája Carszkoje Szelóban.",
+                  "category": "castle",
+                  "coords": [
+                        30.395487,
+                        59.71603
+                  ]
+            },
+            {
+                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "text": "Múzeumi kiállítás Carszkoje Szelóban, amely történelmi alakok viaszfiguráit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.399074,
+                        59.718287
+                  ]
+            },
+            {
+                  "name": "Царскосельский арсенал",
+                  "text": "Múzeum, amely történelmi fegyverek és páncélok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.377538,
+                        59.721783
+                  ]
+            },
+            {
+                  "name": "Дом-музей П. П. Чистякова",
+                  "text": "Pavel Csisztjakov híres orosz festő és tanár egykori lakóháza és műterme.",
+                  "category": "museum",
+                  "coords": [
+                        30.426301,
+                        59.713087
+                  ]
+            },
+            {
+                  "name": "Музей храмов Царскосельского благочиния",
+                  "text": "Múzeum, amely Carszkoje Szelo egyháztörténetét és templomait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.406938,
+                        59.720547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Александровский дворец",
+                  "text": "Fostul palat imperial din Țarskoe Selo, cunoscut drept ultima reședință a lui Nicolae al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        30.392877,
+                        59.721156
+                  ]
+            },
+            {
+                  "name": "Камеронова галерея",
+                  "text": "O galerie neoclasică în Parcul Ecaterina, proiectată de arhitectul Charles Cameron.",
+                  "category": "museum",
+                  "coords": [
+                        30.395577,
+                        59.714486
+                  ]
+            },
+            {
+                  "name": "Екатерининский дворец",
+                  "text": "Un somptuos palat de vară în stil rococo al țarilor ruși din Țarskoe Selo.",
+                  "category": "castle",
+                  "coords": [
+                        30.395487,
+                        59.71603
+                  ]
+            },
+            {
+                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "text": "O expoziție muzeală în Țarskoe Selo care prezintă figuri de ceară ale unor personaje istorice.",
+                  "category": "museum",
+                  "coords": [
+                        30.399074,
+                        59.718287
+                  ]
+            },
+            {
+                  "name": "Царскосельский арсенал",
+                  "text": "Un muzeu care prezintă o colecție vastă de arme și armuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        30.377538,
+                        59.721783
+                  ]
+            },
+            {
+                  "name": "Дом-музей П. П. Чистякова",
+                  "text": "Fosta casă și atelier al celebrului pictor și profesor rus Pavel Cistiakov.",
+                  "category": "museum",
+                  "coords": [
+                        30.426301,
+                        59.713087
+                  ]
+            },
+            {
+                  "name": "Музей храмов Царскосельского благочиния",
+                  "text": "Un muzeu dedicat istoriei religioase și bisericilor din regiunea Țarskoe Selo.",
+                  "category": "museum",
+                  "coords": [
+                        30.406938,
+                        59.720547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alexander Palace",
+                  "text": "The former imperial palace in Tsarskoye Selo, known as the last residence of Nicholas II.",
+                  "category": "museum",
+                  "coords": [
+                        30.392877,
+                        59.721156
+                  ]
+            },
+            {
+                  "name": "Cameron gallery",
+                  "text": "A neoclassical gallery in the Catherine Park, designed by architect Charles Cameron.",
+                  "category": "museum",
+                  "coords": [
+                        30.395577,
+                        59.714486
+                  ]
+            },
+            {
+                  "name": "The Catherine Palace",
+                  "text": "A magnificent Rococo summer palace of the Russian Tsars in Tsarskoye Selo.",
+                  "category": "castle",
+                  "coords": [
+                        30.395487,
+                        59.71603
+                  ]
+            },
+            {
+                  "name": "exhibition of \"Wax figures. Love and power\"",
+                  "text": "A museum exhibition in Tsarskoye Selo featuring wax figures of historical personalities.",
+                  "category": "museum",
+                  "coords": [
+                        30.399074,
+                        59.718287
+                  ]
+            },
+            {
+                  "name": "The Imperial Arms Collection",
+                  "text": "A museum displaying an extensive collection of historical weapons and armor.",
+                  "category": "museum",
+                  "coords": [
+                        30.377538,
+                        59.721783
+                  ]
+            },
+            {
+                  "name": "The P.P. Chistyakov House-Museum",
+                  "text": "The former home and studio of the famous Russian painter and teacher Pavel Chistyakov.",
+                  "category": "museum",
+                  "coords": [
+                        30.426301,
+                        59.713087
+                  ]
+            },
+            {
+                  "name": "Museum of churches of the Tsarskoye Selo deanery",
+                  "text": "A museum dedicated to the religious history and churches of the Tsarskoye Selo region.",
+                  "category": "museum",
+                  "coords": [
+                        30.406938,
+                        59.720547
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "palace",
     name: { de: "Alexanderpalast", hu: "Alekszander-palota", ro: "Palatul Alexandru", en: "Alexander Palace"},
@@ -971,7 +1574,304 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
     },
     image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp",
 },  {
-    id: "russia-tsaritsyno-palace-landmarks-v2",
+    id: "russia-tsaritsyno-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Большой Дворец",
+                  "text": "Ein prächtiger Palastkomplex im Museumsreservat Zarizyno in Moskau.",
+                  "category": "castle",
+                  "coords": [
+                        37.682131,
+                        55.615478
+                  ]
+            },
+            {
+                  "name": "Хлебный Дом",
+                  "text": "Ein ehemaliges Küchengebäude im Zarizyno-Ensemble, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        37.684464,
+                        55.616019
+                  ]
+            },
+            {
+                  "name": "Второй Кавалерский Корпус",
+                  "text": "Eines der historischen Nebengebäude im Schlosskomplex von Zarizyno.",
+                  "category": "museum",
+                  "coords": [
+                        37.682879,
+                        55.616835
+                  ]
+            },
+            {
+                  "name": "Третий Кавалерский корпус",
+                  "text": "Ein historisches Gebäude im Zarizyno-Ensemble, in dem heute Ausstellungen stattfinden.",
+                  "category": "museum",
+                  "coords": [
+                        37.679861,
+                        55.617377
+                  ]
+            },
+            {
+                  "name": "ПандаПарк",
+                  "text": "Ein Seilpark im Freien, der sich im Gebiet von Zarizyno befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        37.705195,
+                        55.600679
+                  ]
+            },
+            {
+                  "name": "Братеевский каскадный парк",
+                  "text": "Ein weitläufiger Park an der Moskwa mit terrassierten Landschaften.",
+                  "category": "park",
+                  "coords": [
+                        37.728226,
+                        55.638264
+                  ]
+            },
+            {
+                  "name": "Малый Дворец",
+                  "text": "Ein elegantes Schlossgebäude in Zarizyno, das ursprünglich für Katharina die Große erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        37.680623,
+                        55.615367
+                  ]
+            },
+            {
+                  "name": "Бирюлёвский лесопарк",
+                  "text": "Ein großes Waldgebiet und dendrologischer Park in der Nähe von Zarizyno.",
+                  "category": "park",
+                  "coords": [
+                        37.705078,
+                        55.594019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Большой Дворец",
+                  "text": "Pompás palotaegyüttes a moszkvai Caricino múzeumban.",
+                  "category": "castle",
+                  "coords": [
+                        37.682131,
+                        55.615478
+                  ]
+            },
+            {
+                  "name": "Хлебный Дом",
+                  "text": "A Caricino együttes egykori konyhaépülete, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        37.684464,
+                        55.616019
+                  ]
+            },
+            {
+                  "name": "Второй Кавалерский Корпус",
+                  "text": "A Caricino palotaegyüttes egyik történelmi melléképülete.",
+                  "category": "museum",
+                  "coords": [
+                        37.682879,
+                        55.616835
+                  ]
+            },
+            {
+                  "name": "Третий Кавалерский корпус",
+                  "text": "Történelmi épület a Caricino együttesben, amely ma kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        37.679861,
+                        55.617377
+                  ]
+            },
+            {
+                  "name": "ПандаПарк",
+                  "text": "Szabadtéri kalandpark Caricino területén.",
+                  "category": "recreational",
+                  "coords": [
+                        37.705195,
+                        55.600679
+                  ]
+            },
+            {
+                  "name": "Братеевский каскадный парк",
+                  "text": "Kiterjedt park a Moszkva folyó mentén, teraszos tájakkal.",
+                  "category": "park",
+                  "coords": [
+                        37.728226,
+                        55.638264
+                  ]
+            },
+            {
+                  "name": "Малый Дворец",
+                  "text": "Elegáns palotaépület Caricinóban, amely eredetileg Nagy Katalin számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        37.680623,
+                        55.615367
+                  ]
+            },
+            {
+                  "name": "Бирюлёвский лесопарк",
+                  "text": "Nagy erdős terület és dendrológiai park Caricino közelében.",
+                  "category": "park",
+                  "coords": [
+                        37.705078,
+                        55.594019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Большой Дворец",
+                  "text": "Un complex palatial magnific din rezervația-muzeu Tarițîno din Moscova.",
+                  "category": "castle",
+                  "coords": [
+                        37.682131,
+                        55.615478
+                  ]
+            },
+            {
+                  "name": "Хлебный Дом",
+                  "text": "O fostă clădire de bucătărie din ansamblul Tarițîno, care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        37.684464,
+                        55.616019
+                  ]
+            },
+            {
+                  "name": "Второй Кавалерский Корпус",
+                  "text": "Una dintre clădirile istorice anexe din complexul palatului Tarițîno.",
+                  "category": "museum",
+                  "coords": [
+                        37.682879,
+                        55.616835
+                  ]
+            },
+            {
+                  "name": "Третий Кавалерский корпус",
+                  "text": "O clădire istorică din ansamblul Tarițîno, care găzduiește în prezent expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        37.679861,
+                        55.617377
+                  ]
+            },
+            {
+                  "name": "ПандаПарк",
+                  "text": "Un parc de aventură în aer liber situat în zona Tarițîno.",
+                  "category": "recreational",
+                  "coords": [
+                        37.705195,
+                        55.600679
+                  ]
+            },
+            {
+                  "name": "Братеевский каскадный парк",
+                  "text": "Un parc vast de-a lungul râului Moscova, cu peisaje terasate.",
+                  "category": "park",
+                  "coords": [
+                        37.728226,
+                        55.638264
+                  ]
+            },
+            {
+                  "name": "Малый Дворец",
+                  "text": "O clădire de palat elegantă din Tarițîno, construită inițial pentru Ecaterina cea Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        37.680623,
+                        55.615367
+                  ]
+            },
+            {
+                  "name": "Бирюлёвский лесопарк",
+                  "text": "O zonă forestieră întinsă și un parc dendrologic situat lângă Tarițîno.",
+                  "category": "park",
+                  "coords": [
+                        37.705078,
+                        55.594019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Palace",
+                  "text": "A grand palace complex within the Tsaritsyno Museum-Reserve in Moscow.",
+                  "category": "castle",
+                  "coords": [
+                        37.682131,
+                        55.615478
+                  ]
+            },
+            {
+                  "name": "Bread House",
+                  "text": "A former kitchen building in the Tsaritsyno ensemble, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        37.684464,
+                        55.616019
+                  ]
+            },
+            {
+                  "name": "Second Courtiers' Quarters",
+                  "text": "One of the historical service buildings in the Tsaritsyno palace complex.",
+                  "category": "museum",
+                  "coords": [
+                        37.682879,
+                        55.616835
+                  ]
+            },
+            {
+                  "name": "Third Courtiers' Quarters",
+                  "text": "A historical building within the Tsaritsyno ensemble, currently hosting exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        37.679861,
+                        55.617377
+                  ]
+            },
+            {
+                  "name": "PandaPark",
+                  "text": "An outdoor rope adventure park located in the Tsaritsyno area.",
+                  "category": "recreational",
+                  "coords": [
+                        37.705195,
+                        55.600679
+                  ]
+            },
+            {
+                  "name": "Brateevo park",
+                  "text": "A large park along the Moscow River featuring terraced landscapes.",
+                  "category": "park",
+                  "coords": [
+                        37.728226,
+                        55.638264
+                  ]
+            },
+            {
+                  "name": "Small Palace",
+                  "text": "An elegant small palace in Tsaritsyno, originally built for Catherine the Great.",
+                  "category": "landmark",
+                  "coords": [
+                        37.680623,
+                        55.615367
+                  ]
+            },
+            {
+                  "name": "Birulevo forest park",
+                  "text": "A large woodland area and dendrological park located near Tsaritsyno.",
+                  "category": "park",
+                  "coords": [
+                        37.705078,
+                        55.594019
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "palace",
     name: { de: "Zarizyno-Palast", hu: "Caricinoi palota", ro: "Palatul Țarițîno", en: "Tsaritsyno Palace"},
@@ -1201,7 +2101,304 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
     },
     image: "/poi-images/russia-russky-bridge-landmarks-v2.webp",
 },  {
-    id: "russia-tula-kremlin-landmarks-v2",
+    id: "russia-tula-kremlin-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samowarmuseum",
+                  "text": "Ein einzigartiges Museum in Tula, das der Geschichte und Vielfalt der russischen Samoware gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        37.61894,
+                        54.194274
+                  ]
+            },
+            {
+                  "name": "Тульский областной краеведческий музей",
+                  "text": "Ein Regionalmuseum im Tulaer Kreml, das die Geschichte des Tulaer Territoriums zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.618568,
+                        54.191066
+                  ]
+            },
+            {
+                  "name": "Kreml",
+                  "text": "Eine historische Steinfestung aus dem 16. Jahrhundert und das älteste Gebäude in der Stadt Tula.",
+                  "category": "castle",
+                  "coords": [
+                        37.62039,
+                        54.195076
+                  ]
+            },
+            {
+                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "text": "Eines der ältesten Dramentheater Russlands, das sich in der Stadt Tula befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        37.609754,
+                        54.188476
+                  ]
+            },
+            {
+                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "text": "Ein Museum in Tula, das sich auf die antike Geschichte und Archäologie der Region konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        37.610572,
+                        54.186416
+                  ]
+            },
+            {
+                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "text": "Ein Museum, das dem Erfinder des chromatischen Akkordeons, Nikolai Beloborodow, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        37.615196,
+                        54.191507
+                  ]
+            },
+            {
+                  "name": "Музей Пряника",
+                  "text": "Ein Museum, das den traditionellen Tulaer Lebkuchen, bekannt als Prjanik, zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.622309,
+                        54.211542
+                  ]
+            },
+            {
+                  "name": "Тульский Камерный Драматический Театр",
+                  "text": "Ein Kammertheater im Tulaer Kreml, das dramatische Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        37.626177,
+                        54.191998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Тульские самовары",
+                  "text": "Egyedülálló múzeum Tulában, amely az orosz szamovárok történetének és változatainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        37.61894,
+                        54.194274
+                  ]
+            },
+            {
+                  "name": "Тульский областной краеведческий музей",
+                  "text": "Regionális múzeum a Tulai Kremlben, amely a tulai terület történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        37.618568,
+                        54.191066
+                  ]
+            },
+            {
+                  "name": "Кремль",
+                  "text": "Történelmi, 16. századi kőerőd, Tula városának legrégebbi épülete.",
+                  "category": "castle",
+                  "coords": [
+                        37.62039,
+                        54.195076
+                  ]
+            },
+            {
+                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "text": "Oroszország egyik legrégebbi drámai színháza, amely Tula városában található.",
+                  "category": "cultural",
+                  "coords": [
+                        37.609754,
+                        54.188476
+                  ]
+            },
+            {
+                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "text": "Tulai múzeum, amely a régió ókori történelmére és régészetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        37.610572,
+                        54.186416
+                  ]
+            },
+            {
+                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "text": "A kromatikus harmonika feltalálójának, Nyikolaj Beloborodovnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        37.615196,
+                        54.191507
+                  ]
+            },
+            {
+                  "name": "Музей Пряника",
+                  "text": "A hagyományos tulai mézeskalácsot, a prjanikot bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        37.622309,
+                        54.211542
+                  ]
+            },
+            {
+                  "name": "Тульский Камерный Драматический Театр",
+                  "text": "Kamaraszínház a Tulai Kremlben, amely drámai előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        37.626177,
+                        54.191998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Тульские самовары",
+                  "text": "Un muzeu unic din Tula dedicat istoriei și varietății samovarelor rusești.",
+                  "category": "museum",
+                  "coords": [
+                        37.61894,
+                        54.194274
+                  ]
+            },
+            {
+                  "name": "Тульский областной краеведческий музей",
+                  "text": "Un muzeu regional din Kremlinul din Tula, care prezintă istoria teritoriului Tula.",
+                  "category": "museum",
+                  "coords": [
+                        37.618568,
+                        54.191066
+                  ]
+            },
+            {
+                  "name": "Кремль",
+                  "text": "O fortăreață istorică din piatră din secolul al XVI-lea și cea mai veche clădire din orașul Tula.",
+                  "category": "castle",
+                  "coords": [
+                        37.62039,
+                        54.195076
+                  ]
+            },
+            {
+                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "text": "Unul dintre cele mai vechi teatre dramatice din Rusia, situat în orașul Tula.",
+                  "category": "cultural",
+                  "coords": [
+                        37.609754,
+                        54.188476
+                  ]
+            },
+            {
+                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "text": "Un muzeu din Tula care se concentrează pe istoria antică și arheologia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        37.610572,
+                        54.186416
+                  ]
+            },
+            {
+                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "text": "Un muzeu dedicat inventatorului acordeonului cromatic, Nikolai Beloborodov.",
+                  "category": "museum",
+                  "coords": [
+                        37.615196,
+                        54.191507
+                  ]
+            },
+            {
+                  "name": "Музей Пряника",
+                  "text": "Un muzeu care prezintă tradiționala turtă dulce din Tula, cunoscută sub numele de pryanik.",
+                  "category": "museum",
+                  "coords": [
+                        37.622309,
+                        54.211542
+                  ]
+            },
+            {
+                  "name": "Тульский Камерный Драматический Театр",
+                  "text": "Un teatru de cameră din Kremlinul din Tula, care oferă spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        37.626177,
+                        54.191998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tula Samovars' Museum",
+                  "text": "A unique museum in Tula dedicated to the history and variety of Russian samovars.",
+                  "category": "museum",
+                  "coords": [
+                        37.61894,
+                        54.194274
+                  ]
+            },
+            {
+                  "name": "Tula Local Museum",
+                  "text": "A regional museum in the Tula Kremlin showcasing the history of the Tula territory.",
+                  "category": "museum",
+                  "coords": [
+                        37.618568,
+                        54.191066
+                  ]
+            },
+            {
+                  "name": "Kremlin",
+                  "text": "A historic 16th-century stone fortress and the oldest building in the city of Tula.",
+                  "category": "castle",
+                  "coords": [
+                        37.62039,
+                        54.195076
+                  ]
+            },
+            {
+                  "name": "Tula Academic Drama Theater",
+                  "text": "One of the oldest drama theaters in Russia, located in the city of Tula.",
+                  "category": "cultural",
+                  "coords": [
+                        37.609754,
+                        54.188476
+                  ]
+            },
+            {
+                  "name": "The Museum and Exhibition Center \"Tula Antiquites\"",
+                  "text": "A museum in Tula focusing on the ancient history and archaeology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        37.610572,
+                        54.186416
+                  ]
+            },
+            {
+                  "name": "N. I. Beloborodov Memorial Museum",
+                  "text": "A museum dedicated to the inventor of the chromatic accordion, Nikolai Beloborodov.",
+                  "category": "museum",
+                  "coords": [
+                        37.615196,
+                        54.191507
+                  ]
+            },
+            {
+                  "name": "Pryanik Museum",
+                  "text": "A museum showcasing the traditional Tula gingerbread, known as pryanik.",
+                  "category": "museum",
+                  "coords": [
+                        37.622309,
+                        54.211542
+                  ]
+            },
+            {
+                  "name": "Tula Chamber Drama Theater",
+                  "text": "A chamber drama theater located in the Tula Kremlin, offering dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        37.626177,
+                        54.191998
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "castle",
     name: { de: "Tulaer Kreml", hu: "Tulai kreml", ro: "Kremlinul din Tula", en: "Tula Kremlin"},
@@ -1247,7 +2444,232 @@ imageHint: "Tula Kremlin red brick walls and towers",
     },
     image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp",
 },  {
-    id: "russia-kuskovo-estate-landmarks-v2",
+    id: "russia-kuskovo-estate-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Московский государственный музей Вадима Сидура",
+                  "text": "Ein Museum in Moskau, das dem Werk des Bildhauers Vadim Sidur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        37.799059,
+                        55.753169
+                  ]
+            },
+            {
+                  "name": "Zoo-mini",
+                  "text": "Ein kleiner Tierpark auf dem historischen Gelände von Kuskowo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.864171,
+                        55.750796
+                  ]
+            },
+            {
+                  "name": "Центр семейного отдыха Карибия",
+                  "text": "Ein beliebter Wasserpark und Freizeitzentrum in der Nähe von Kuskowo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.778457,
+                        55.747819
+                  ]
+            },
+            {
+                  "name": "Kuskowo-Park",
+                  "text": "Ein weitläufiger Waldpark in Moskau, der an das Kuskowo-Anwesen grenzt.",
+                  "category": "park",
+                  "coords": [
+                        37.796519,
+                        55.733712
+                  ]
+            },
+            {
+                  "name": "Музей-заповедник Кусково",
+                  "text": "Ein ehemaliges Sommergut der Grafen Sheremetev mit Parkanlagen.",
+                  "category": "park",
+                  "coords": [
+                        37.809585,
+                        55.736507
+                  ]
+            },
+            {
+                  "name": "Love in the air",
+                  "text": "Eine touristische Attraktion auf dem Gelände des Kuskowo-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        37.773654,
+                        55.728199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Московский государственный музей Вадима Сидура",
+                  "text": "Vagyim Szidur szobrászművész munkásságának szentelt múzeum Moszkvában.",
+                  "category": "museum",
+                  "coords": [
+                        37.799059,
+                        55.753169
+                  ]
+            },
+            {
+                  "name": "Zoo-mini",
+                  "text": "Kisméretű állatkert a történelmi Kuskovo birtokon.",
+                  "category": "recreational",
+                  "coords": [
+                        37.864171,
+                        55.750796
+                  ]
+            },
+            {
+                  "name": "Центр семейного отдыха Карибия",
+                  "text": "Népszerű vízipark és szabadidőközpont Kuskovo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        37.778457,
+                        55.747819
+                  ]
+            },
+            {
+                  "name": "Лесопарк «Кусково»",
+                  "text": "Kiterjedt erdei park Moszkvában, amely a Kuskovo birtok mellett fekszik.",
+                  "category": "park",
+                  "coords": [
+                        37.796519,
+                        55.733712
+                  ]
+            },
+            {
+                  "name": "Музей-заповедник Кусково",
+                  "text": "A Seremetyev grófok egykori nyári birtoka és parkja.",
+                  "category": "park",
+                  "coords": [
+                        37.809585,
+                        55.736507
+                  ]
+            },
+            {
+                  "name": "Love in the air",
+                  "text": "Turisztikai látványosság a Kuskovo park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        37.773654,
+                        55.728199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Московский государственный музей Вадима Сидура",
+                  "text": "Un muzeu din Moscova dedicat operei sculptorului Vadim Sidur.",
+                  "category": "museum",
+                  "coords": [
+                        37.799059,
+                        55.753169
+                  ]
+            },
+            {
+                  "name": "Zoo-mini",
+                  "text": "O mică grădină zoologică pe domeniul istoric Kuskovo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.864171,
+                        55.750796
+                  ]
+            },
+            {
+                  "name": "Центр семейного отдыха Карибия",
+                  "text": "Un parc acvatic și centru de agrement popular lângă Kuskovo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.778457,
+                        55.747819
+                  ]
+            },
+            {
+                  "name": "Лесопарк «Кусково»",
+                  "text": "Un parc forestier vast în Moscova, adiacent domeniului Kuskovo.",
+                  "category": "park",
+                  "coords": [
+                        37.796519,
+                        55.733712
+                  ]
+            },
+            {
+                  "name": "Музей-заповедник Кусково",
+                  "text": "Fosta reședință de vară a conților Șeremetiev, incluzând parcuri și monumente.",
+                  "category": "park",
+                  "coords": [
+                        37.809585,
+                        55.736507
+                  ]
+            },
+            {
+                  "name": "Love in the air",
+                  "text": "O atracție turistică situată în incinta parcului Kuskovo.",
+                  "category": "landmark",
+                  "coords": [
+                        37.773654,
+                        55.728199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vadim Sidur State Museum of Moscow",
+                  "text": "A museum in Moscow dedicated to the work of sculptor Vadim Sidur.",
+                  "category": "museum",
+                  "coords": [
+                        37.799059,
+                        55.753169
+                  ]
+            },
+            {
+                  "name": "Zoo-mini",
+                  "text": "A small zoo located on the historical Kuskovo estate.",
+                  "category": "recreational",
+                  "coords": [
+                        37.864171,
+                        55.750796
+                  ]
+            },
+            {
+                  "name": "Water Park Karibiya",
+                  "text": "A popular water park and leisure center near Kuskovo.",
+                  "category": "recreational",
+                  "coords": [
+                        37.778457,
+                        55.747819
+                  ]
+            },
+            {
+                  "name": "Kuskovo Park",
+                  "text": "A large forest park in Moscow adjacent to the Kuskovo estate.",
+                  "category": "park",
+                  "coords": [
+                        37.796519,
+                        55.733712
+                  ]
+            },
+            {
+                  "name": "Kuskovo museum - historical reserve",
+                  "text": "A former summer estate of the Sheremetev counts with park grounds.",
+                  "category": "park",
+                  "coords": [
+                        37.809585,
+                        55.736507
+                  ]
+            },
+            {
+                  "name": "Love in the air",
+                  "text": "A tourist attraction located within the Kuskovo park grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        37.773654,
+                        55.728199
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "palace",
     name: { de: "Landgut Kuskowo", hu: "Kuszkovói kastély", ro: "Domeniul Kuskovo", en: "Kuskovo Estate"},

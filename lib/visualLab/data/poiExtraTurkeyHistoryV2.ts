@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkeyHistoryV2: POI[] = [
   {
-    id: "gobekli-tepe-history-v2",
+    id: "gobekli-tepe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Göbekli Tepe",
+                  "text": "Eine prähistorische Fundstätte in der Türkei mit den ältesten bekannten Tempelanlagen der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        38.921859,
+                        37.223856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Göbekli Tepe",
+                  "text": "Világviszonylatban is kiemelkedő őskori régészeti lelőhely Törökországban, a világ legrégebbi templomaival.",
+                  "category": "historical",
+                  "coords": [
+                        38.921859,
+                        37.223856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Göbekli Tepe",
+                  "text": "Un sit arheologic preistoric din Turcia, care găzduiește cele mai vechi temple cunoscute din lume.",
+                  "category": "historical",
+                  "coords": [
+                        38.921859,
+                        37.223856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Göbekli Tepe",
+                  "text": "A prehistoric archaeological site in Turkey featuring the world's oldest known temple structures.",
+                  "category": "historical",
+                  "coords": [
+                        38.921859,
+                        37.223856
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-63",
     coords: [38.922, 37.223],
@@ -111,7 +156,268 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "hattusa-history-v2",
+    id: "hattusa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yazılıkaya",
+                  "text": "Ein hethitisches Felsheiligtum unter freiem Himmel mit beeindruckenden Steinreliefs von Göttern und Königen.",
+                  "category": "historical",
+                  "coords": [
+                        34.632707,
+                        40.025425
+                  ]
+            },
+            {
+                  "name": "Hattuscha",
+                  "text": "Die antike Hauptstadt des Hethiterreiches, heute eine weitläufige archäologische Stätte und UNESCO-Welterbe.",
+                  "category": "historical",
+                  "coords": [
+                        34.617894,
+                        40.017092
+                  ]
+            },
+            {
+                  "name": "Nişantaş",
+                  "text": "Eine archäologische Stätte in Hattusa, die einen großen Felsen mit hethitischen Inschriften umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        34.61741,
+                        40.013332
+                  ]
+            },
+            {
+                  "name": "Tempel 1",
+                  "text": "Der Große Tempel von Hattusa, der dem Wettergott und der Sonnengöttin von Arinna gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        34.615495,
+                        40.019977
+                  ]
+            },
+            {
+                  "name": "Yerkapi",
+                  "text": "Eine Verteidigungsanlage in Hattusa, bestehend aus einem hohen Erdwall und einem Steintunnel.",
+                  "category": "historical",
+                  "coords": [
+                        34.616502,
+                        40.005959
+                  ]
+            },
+            {
+                  "name": "Boğazköy-Alacahöyük Tarihî Millî Parkı",
+                  "text": "Dieser Nationalpark schützt die historischen Überreste der hethitischen Hauptstadt und ihre natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        34.617305,
+                        40.022494
+                  ]
+            },
+            {
+                  "name": "Löwenbecken",
+                  "text": "Ein großes antikes Steinbecken in Hattusa, das mit geschnitzten Löwenfiguren verziert ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.615723,
+                        40.018917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yazılıkaya",
+                  "text": "Szabadtéri hettita sziklaszentély, amely istenek és királyok lenyűgöző kődomborműveit mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        34.632707,
+                        40.025425
+                  ]
+            },
+            {
+                  "name": "Hattuşaş",
+                  "text": "A Hettita Birodalom ősi fővárosa, ma kiterjedt régészeti lelőhely és az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        34.617894,
+                        40.017092
+                  ]
+            },
+            {
+                  "name": "Nişantaş",
+                  "text": "Régészeti lelőhely Hattuszaszban, amely egy hettita feliratokkal ellátott nagy sziklát tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.61741,
+                        40.013332
+                  ]
+            },
+            {
+                  "name": "Temple I",
+                  "text": "Hattuszasz nagy temploma, amelyet a Viharistennek és Arinna Napistennőjének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        34.615495,
+                        40.019977
+                  ]
+            },
+            {
+                  "name": "Yerkapı",
+                  "text": "Hattuszasz védelmi építménye, amely egy magas sáncból és egy kőalagútból áll.",
+                  "category": "historical",
+                  "coords": [
+                        34.616502,
+                        40.005959
+                  ]
+            },
+            {
+                  "name": "Boğazköy-Alacahöyük Tarihî Millî Parkı",
+                  "text": "Ez a nemzeti park védi a hettita főváros történelmi maradványait és természetes környezetét.",
+                  "category": "natural",
+                  "coords": [
+                        34.617305,
+                        40.022494
+                  ]
+            },
+            {
+                  "name": "Lion basin",
+                  "text": "Nagy ókori kőmedence Hattuszaszban, amelyet faragott oroszlánfigurák díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        34.615723,
+                        40.018917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yazılıkaya",
+                  "text": "Un sanctuar stâncos hitit în aer liber, cu reliefuri impresionante în piatră ale zeilor și regilor.",
+                  "category": "historical",
+                  "coords": [
+                        34.632707,
+                        40.025425
+                  ]
+            },
+            {
+                  "name": "Hattuşaş",
+                  "text": "Antica capitală a Imperiului Hitit, acum un sit arheologic extins și sit al Patrimoniului Mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        34.617894,
+                        40.017092
+                  ]
+            },
+            {
+                  "name": "Nişantaş",
+                  "text": "Un sit arheologic din Hattusa care cuprinde o stâncă mare cu inscripții hitite.",
+                  "category": "historical",
+                  "coords": [
+                        34.61741,
+                        40.013332
+                  ]
+            },
+            {
+                  "name": "Temple I",
+                  "text": "Marele Templu din Hattusa, dedicat Zeului Furtunii și Zeiței Soarelui din Arinna.",
+                  "category": "historical",
+                  "coords": [
+                        34.615495,
+                        40.019977
+                  ]
+            },
+            {
+                  "name": "Yerkapı",
+                  "text": "O structură defensivă din Hattusa formată dintr-un rambleu înalt și un tunel de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        34.616502,
+                        40.005959
+                  ]
+            },
+            {
+                  "name": "Boğazköy-Alacahöyük Tarihî Millî Parkı",
+                  "text": "Acest parc național protejează vestigiile istorice ale capitalei hitite și împrejurimile sale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        34.617305,
+                        40.022494
+                  ]
+            },
+            {
+                  "name": "Lion basin",
+                  "text": "Un bazin mare de piatră vechi din Hattusa, decorat cu figuri de lei sculptate.",
+                  "category": "historical",
+                  "coords": [
+                        34.615723,
+                        40.018917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yazılıkaya",
+                  "text": "An open-air Hittite rock sanctuary featuring impressive stone reliefs of gods and kings.",
+                  "category": "historical",
+                  "coords": [
+                        34.632707,
+                        40.025425
+                  ]
+            },
+            {
+                  "name": "Hattusa",
+                  "text": "The ancient capital of the Hittite Empire, now an extensive archaeological site and UNESCO World Heritage Site.",
+                  "category": "historical",
+                  "coords": [
+                        34.617894,
+                        40.017092
+                  ]
+            },
+            {
+                  "name": "Nişantaş",
+                  "text": "An archaeological site in Hattusa featuring a large rock with Hittite inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        34.61741,
+                        40.013332
+                  ]
+            },
+            {
+                  "name": "Temple 1",
+                  "text": "The Great Temple of Hattusa, dedicated to the Storm God and the Sun Goddess of Arinna.",
+                  "category": "historical",
+                  "coords": [
+                        34.615495,
+                        40.019977
+                  ]
+            },
+            {
+                  "name": "Yerkapi",
+                  "text": "A defensive structure in Hattusa consisting of a high rampart and a stone tunnel.",
+                  "category": "historical",
+                  "coords": [
+                        34.616502,
+                        40.005959
+                  ]
+            },
+            {
+                  "name": "Boğazköy-Alacahöyük National Park",
+                  "text": "This national park protects the historical remains of the Hittite capital and its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        34.617305,
+                        40.022494
+                  ]
+            },
+            {
+                  "name": "Lion basin",
+                  "text": "A large ancient stone basin in Hattusa decorated with carved lion figures.",
+                  "category": "historical",
+                  "coords": [
+                        34.615723,
+                        40.018917
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-19",
     coords: [34.615, 40.019],
@@ -219,7 +525,124 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "sumela-monastery-history-v2",
+    id: "sumela-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Sumela",
+                  "text": "Ein spektakulär an einer Felswand gelegenes griechisch-orthodoxes Kloster aus dem 4. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "Ein Nationalpark in den Pontischen Alpen, der das Sümela-Kloster und dichte Nadelwälder umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "Eine kleine Kapelle am Pfad zum Sümela-Kloster, die für ihre Fresken bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sümela Manastırı",
+                  "text": "Sziklafalba épített, látványos görögkatolikus kolostor, amely a 4. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "A Pontuszi-hegységben található nemzeti park, amely magában foglalja a Sümela-kolostort és a sűrű fenyőerdőket.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "Kicsi kápolna a Sümela-kolostorhoz vezető úton, amely freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sümela Manastırı",
+                  "text": "O mănăstire ortodoxă greacă din secolul al IV-lea, situată spectaculos pe o stâncă.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "Un parc național în Alpii Pontici, care cuprinde mănăstirea Sümela și păduri dese de conifere.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "O mică capelă pe poteca spre mănăstirea Sümela, cunoscută pentru frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sümela Monastery",
+                  "text": "A spectacular 4th-century Greek Orthodox monastery built into a cliff face.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Valley National Park",
+                  "text": "A national park in the Pontic Mountains, encompassing the Sümela Monastery and dense coniferous forests.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "A small chapel on the path to Sümela Monastery, known for its frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-61",
     coords: [39.658, 40.690],
@@ -327,7 +750,160 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "catalhoyuk-history-v2",
+    id: "catalhoyuk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Çatalhöyük west mound",
+                  "text": "Der westliche Siedlungshügel der weltberühmten neolithischen Ausgrabungsstätte Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.822734,
+                        37.666301
+                  ]
+            },
+            {
+                  "name": "South Shelter",
+                  "text": "Dieser Schutzbau überdeckt die archäologischen Ausgrabungen im südlichen Teil der neolithischen Siedlung Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.826918,
+                        37.665854
+                  ]
+            },
+            {
+                  "name": "North Shelter",
+                  "text": "Dieser Schutzbau überdeckt die archäologischen Ausgrabungen im nördlichen Teil der neolithischen Siedlung Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.828374,
+                        37.667711
+                  ]
+            },
+            {
+                  "name": "Çatalhöyük",
+                  "text": "Çatalhöyük ist eine weltberühmte neolithische und chalkolithische Siedlung, die Jahrtausende zurückreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        32.825567,
+                        37.666738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Çatalhöyük west mound",
+                  "text": "A világhírű újkőkorszaki lelőhely, Çatalhöyük nyugati településhalma.",
+                  "category": "historical",
+                  "coords": [
+                        32.822734,
+                        37.666301
+                  ]
+            },
+            {
+                  "name": "South Shelter",
+                  "text": "Ez a védőtető a neolitikumi Çatalhöyük déli részén található régészeti ásatásokat óvja.",
+                  "category": "historical",
+                  "coords": [
+                        32.826918,
+                        37.665854
+                  ]
+            },
+            {
+                  "name": "North Shelter",
+                  "text": "Ez a védőtető a neolitikumi Çatalhöyük északi részén található régészeti ásatásokat óvja.",
+                  "category": "historical",
+                  "coords": [
+                        32.828374,
+                        37.667711
+                  ]
+            },
+            {
+                  "name": "Çatalhöyük",
+                  "text": "Çatalhöyük egy világhírű újkőkorszaki és rézkori település, amely több ezer éves múltra tekint vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.825567,
+                        37.666738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Çatalhöyük west mound",
+                  "text": "Movila de așezare din vest a celebrului sit neolitic Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.822734,
+                        37.666301
+                  ]
+            },
+            {
+                  "name": "South Shelter",
+                  "text": "Acest adăpost protejează excavațiile arheologice din partea de sud a sitului neolitic Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.826918,
+                        37.665854
+                  ]
+            },
+            {
+                  "name": "North Shelter",
+                  "text": "Acest adăpost protejează excavațiile arheologice din partea de nord a sitului neolitic Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.828374,
+                        37.667711
+                  ]
+            },
+            {
+                  "name": "Çatalhöyük",
+                  "text": "Çatalhöyük este o așezare neolitică și calcolitică de renume mondial, care datează de mii de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        32.825567,
+                        37.666738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Çatalhöyük west mound",
+                  "text": "The western settlement mound of the world-famous Neolithic site of Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.822734,
+                        37.666301
+                  ]
+            },
+            {
+                  "name": "South Shelter",
+                  "text": "This shelter protects the archaeological excavations in the southern part of the Neolithic site of Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.826918,
+                        37.665854
+                  ]
+            },
+            {
+                  "name": "North Shelter",
+                  "text": "This shelter protects the archaeological excavations in the northern part of the Neolithic site of Çatalhöyük.",
+                  "category": "historical",
+                  "coords": [
+                        32.828374,
+                        37.667711
+                  ]
+            },
+            {
+                  "name": "Çatalhöyük",
+                  "text": "Çatalhöyük is a world-renowned Neolithic and Chalcolithic settlement, dating back thousands of years.",
+                  "category": "landmark",
+                  "coords": [
+                        32.825567,
+                        37.666738
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-42",
     coords: [32.827, 37.667],
@@ -471,7 +1047,88 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "derinkuyu-history-v2",
+    id: "derinkuyu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unterirdische Stadt Derinkuyu",
+                  "text": "Eine beeindruckende, mehrstöckige antike Untergrundstadt in Kappadokien.",
+                  "category": "historical",
+                  "coords": [
+                        34.735122,
+                        38.373576
+                  ]
+            },
+            {
+                  "name": "Derinkuyu Cumhuriyet Camii",
+                  "text": "Ein markanter Leuchtturm an der Küste des Cabo de Gata in Spanien.",
+                  "category": "religious",
+                  "coords": [
+                        34.734634,
+                        38.376335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derinkuyu Yeraltı Şehri",
+                  "text": "Lenyűgöző, többszintes ősi föld alatti város Kappadókiában.",
+                  "category": "historical",
+                  "coords": [
+                        34.735122,
+                        38.373576
+                  ]
+            },
+            {
+                  "name": "Derinkuyu Cumhuriyet Camii",
+                  "text": "Jellegzetes mecset Derinkuyu városának központjában.",
+                  "category": "religious",
+                  "coords": [
+                        34.734634,
+                        38.376335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derinkuyu Yeraltı Şehri",
+                  "text": "Un oraș subteran antic impresionant, pe mai multe niveluri, în Capadocia.",
+                  "category": "historical",
+                  "coords": [
+                        34.735122,
+                        38.373576
+                  ]
+            },
+            {
+                  "name": "Derinkuyu Cumhuriyet Camii",
+                  "text": "O moschee proeminentă situată în centrul orașului Derinkuyu.",
+                  "category": "religious",
+                  "coords": [
+                        34.734634,
+                        38.376335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derinkuyu Underground City",
+                  "text": "An impressive, multi-level ancient underground city in Cappadocia.",
+                  "category": "historical",
+                  "coords": [
+                        34.735122,
+                        38.373576
+                  ]
+            },
+            {
+                  "name": "Derinkuyu Cumhuriyet Camii",
+                  "text": "A prominent mosque located in the center of Derinkuyu.",
+                  "category": "religious",
+                  "coords": [
+                        34.734634,
+                        38.376335
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-50",
     coords: [34.735, 38.373],
@@ -696,7 +1353,232 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "aspendos-history-v2",
+    id: "aspendos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater",
+                  "text": "Ein außergewöhnlich gut erhaltenes antikes römisches Theater in Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Eine bedeutende griechisch-römische archäologische Stätte, bekannt für ihre monumentalen Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "Ein modernes Theater und Veranstaltungsort in der Nähe der antiken Stadt Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Die Überreste einer antiken Wasserzisterne in der archäologischen Stätte von Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Die hochgelegene Akropolis der antiken Stadt Aspendos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Aquaeduct",
+                  "text": "Beeindruckende Ruinen des römischen Aquädukts, das die Stadt Aspendos versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aspendos Amfi Tiyatrosu",
+                  "text": "Rendkívül jó állapotban fennmaradt ókori római színház Aspendosban.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Jelentős görög-római régészeti lelőhely, amely monumentális romjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "Modern színház és rendezvényhelyszín az ókori Aspendos közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Egy ókori víztározó maradványai Aspendos régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Az ókori Aspendos városának magasan fekvő akropolisza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Su kemeri",
+                  "text": "Az Aspendost vízzel ellátó római vízvezeték lenyűgöző romjai.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aspendos Amfi Tiyatrosu",
+                  "text": "Un teatru roman antic excepțional de bine conservat în Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Un sit arheologic greco-roman important, cunoscut pentru ruinele sale monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "Un teatru modern și un loc de spectacole situat lângă orașul antic Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Rămășițele unei cisterne de apă antice în situl arheologic din Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Acropola situată pe înălțimi a orașului antic Aspendos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Su kemeri",
+                  "text": "Ruine impresionante ale apeductului roman care alimenta orașul Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre",
+                  "text": "An exceptionally well-preserved ancient Roman theatre in Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "A significant Greco-Roman archaeological site known for its monumental ruins.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "A modern theatre and performance venue located near the ancient city of Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "The remains of an ancient water cistern within the archaeological site of Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "The elevated acropolis of the ancient city of Aspendos.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Impressive ruins of the Roman aqueduct that supplied the city of Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TR-07",
     coords: [31.172, 36.938],

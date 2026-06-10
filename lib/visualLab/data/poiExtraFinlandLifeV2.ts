@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const finlandLifeV2: POI[] = [
 
   {
-    id: "finland-pyhax-luosto-life-v2",
+    id: "finland-pyhax-luosto-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Latvavaara",
+                  "text": "Ein Berggipfel im Pyhä-Luosto-Nationalpark in Finnland.",
+                  "category": "landmark",
+                  "coords": [
+                        26.968861,
+                        67.08308
+                  ]
+            },
+            {
+                  "name": "Kapusta",
+                  "text": "Einer der natürlichen Gipfel im Gebiet des Pyhä-Luosto-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        27.010059,
+                        67.061254
+                  ]
+            },
+            {
+                  "name": "Arctic Husky Farm",
+                  "text": "Eine Attraktion in Lappland, die Husky-Schlittenfahrten und Hofführungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.047351,
+                        67.088796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Latvavaara",
+                  "text": "Hegyi csúcs a finnországi Pyhä-Luosto Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.968861,
+                        67.08308
+                  ]
+            },
+            {
+                  "name": "Kapusta",
+                  "text": "A Pyhä-Luosto Nemzeti Park egyik természetes hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        27.010059,
+                        67.061254
+                  ]
+            },
+            {
+                  "name": "Arctic Husky Farm",
+                  "text": "Lappföldi látványosság, amely husky-szános élményeket és farmtúrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        27.047351,
+                        67.088796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Latvavaara",
+                  "text": "Un vârf montan situat în Parcul Național Pyhä-Luosto din Finlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.968861,
+                        67.08308
+                  ]
+            },
+            {
+                  "name": "Kapusta",
+                  "text": "Unul dintre vârfurile naturale din zona Parcului Național Pyhä-Luosto.",
+                  "category": "landmark",
+                  "coords": [
+                        27.010059,
+                        67.061254
+                  ]
+            },
+            {
+                  "name": "Arctic Husky Farm",
+                  "text": "O atracție din Laponia care oferă plimbări cu sănii trase de husky și tururi la fermă.",
+                  "category": "landmark",
+                  "coords": [
+                        27.047351,
+                        67.088796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latvavaara",
+                  "text": "A mountain peak located within the Pyhä-Luosto National Park in Finland.",
+                  "category": "landmark",
+                  "coords": [
+                        26.968861,
+                        67.08308
+                  ]
+            },
+            {
+                  "name": "Kapusta",
+                  "text": "One of the natural peaks in the Pyhä-Luosto National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        27.010059,
+                        67.061254
+                  ]
+            },
+            {
+                  "name": "Arctic Husky Farm",
+                  "text": "An attraction in Lapland offering husky sledding experiences and farm tours.",
+                  "category": "landmark",
+                  "coords": [
+                        27.047351,
+                        67.088796
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Pyhä-Luosto Nationalpark", hu: "Pyhä-Luosto Nemzeti Park", ro: "Parcul Național Pyhä-Luosto", en: "Pyhä-Luosto National Park" },
@@ -354,7 +471,124 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-helsinki-zoo-life-v2.webp",
   },
   {
-    id: "finland-patvinsuo-life-v2",
+    id: "finland-patvinsuo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Patvinsuon kansallispuisto",
+                  "text": "Ein finnischer Nationalpark, der für seine weiten Moorlandschaften und unberührte Wildnis bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        30.703354,
+                        63.112276
+                  ]
+            },
+            {
+                  "name": "Lakkapolku lintulava",
+                  "text": "Eine Beobachtungsplattform für Vögel im finnischen Nationalpark Patvinsuo.",
+                  "category": "natural",
+                  "coords": [
+                        30.681433,
+                        63.148142
+                  ]
+            },
+            {
+                  "name": "Patvinsuo Teretinniemen lintutorni",
+                  "text": "Ein hölzerner Turm zur Beobachtung der Vogelwelt in den Feuchtgebieten von Teretinniemi.",
+                  "category": "natural",
+                  "coords": [
+                        30.747532,
+                        63.091538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Patvinsuon kansallispuisto",
+                  "text": "Finn nemzeti park, amely kiterjedt mocsárvidékeiről és érintetlen vadonjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        30.703354,
+                        63.112276
+                  ]
+            },
+            {
+                  "name": "Lakkapolku lintulava",
+                  "text": "Madármegfigyelő platform a finnországi Patvinsuo Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        30.681433,
+                        63.148142
+                  ]
+            },
+            {
+                  "name": "Patvinsuo Teretinniemen lintutorni",
+                  "text": "Fatorony a madárvilág megfigyelésére a Teretinniemi lápos területen.",
+                  "category": "natural",
+                  "coords": [
+                        30.747532,
+                        63.091538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Patvinsuon kansallispuisto",
+                  "text": "Un parc național finlandez cunoscut pentru mlaștinile sale vaste și sălbăticia neatinsă.",
+                  "category": "natural",
+                  "coords": [
+                        30.703354,
+                        63.112276
+                  ]
+            },
+            {
+                  "name": "Lakkapolku lintulava",
+                  "text": "O platformă de observare a păsărilor în Parcul Național Patvinsuo din Finlanda.",
+                  "category": "natural",
+                  "coords": [
+                        30.681433,
+                        63.148142
+                  ]
+            },
+            {
+                  "name": "Patvinsuo Teretinniemen lintutorni",
+                  "text": "Un turn de lemn pentru observarea păsărilor în zonele umede din Teretinniemi.",
+                  "category": "natural",
+                  "coords": [
+                        30.747532,
+                        63.091538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Patvinsuo National Park",
+                  "text": "A Finnish national park known for its vast mire landscapes and untouched wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        30.703354,
+                        63.112276
+                  ]
+            },
+            {
+                  "name": "Lakkapolku lintulava",
+                  "text": "An observation platform for birdwatching in the Finnish Patvinsuo National Park.",
+                  "category": "natural",
+                  "coords": [
+                        30.681433,
+                        63.148142
+                  ]
+            },
+            {
+                  "name": "Patvinsuo Teretinniemi birdwatching tower",
+                  "text": "A wooden tower for observing birdlife in the Teretinniemi wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        30.747532,
+                        63.091538
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Patvinsuo Nationalpark", hu: "Patvinsuo Nemzeti Park", ro: "Parcul Național Patvinsuo", en: "Patvinsuo National Park" },
@@ -399,7 +633,160 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-patvinsuo-life-v2.webp",
   },
   {
-    id: "finland-helvetinjarvi-life-v2",
+    id: "finland-helvetinjarvi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Ein Nationalpark in Finnland, der für seine Schluchten und Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Luode-kotitila",
+                  "text": "Ein kleiner Zoo mit Haustieren im Helvetinjärvi-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        23.870172,
+                        62.053107
+                  ]
+            },
+            {
+                  "name": "Kymäläisen metsä",
+                  "text": "Ein geschütztes Waldgebiet im Helvetinjärvi-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        23.865386,
+                        62.037899
+                  ]
+            },
+            {
+                  "name": "Helvetinkolu",
+                  "text": "Ein berühmter Aussichtspunkt an einer engen Felsschlucht im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        23.830762,
+                        62.054157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Finnországi nemzeti park, amely szurdokairól és erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Luode-kotitila",
+                  "text": "Kis állatkert háziállatokkal a Helvetinjärvi Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.870172,
+                        62.053107
+                  ]
+            },
+            {
+                  "name": "Kymäläisen metsä",
+                  "text": "Védett erdőterület a Helvetinjärvi Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        23.865386,
+                        62.037899
+                  ]
+            },
+            {
+                  "name": "Helvetinkolu",
+                  "text": "Híres kilátópont egy szűk sziklahasadéknál a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        23.830762,
+                        62.054157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Un parc național din Finlanda, cunoscut pentru cheile și pădurile sale.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Luode-kotitila",
+                  "text": "O mică grădină zoologică cu animale domestice în Parcul Național Helvetinjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.870172,
+                        62.053107
+                  ]
+            },
+            {
+                  "name": "Kymäläisen metsä",
+                  "text": "O zonă forestieră protejată în Parcul Național Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.865386,
+                        62.037899
+                  ]
+            },
+            {
+                  "name": "Helvetinkolu",
+                  "text": "Un punct de belvedere faimos situat lângă o despicătură îngustă în stâncă.",
+                  "category": "natural",
+                  "coords": [
+                        23.830762,
+                        62.054157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Helvetinjärvi National Park",
+                  "text": "A national park in Finland known for its rugged gorges and forests.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Luode-kotitila",
+                  "text": "A small zoo featuring domestic animals within the Helvetinjärvi National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.870172,
+                        62.053107
+                  ]
+            },
+            {
+                  "name": "Kymäläisen metsä",
+                  "text": "A protected forest area within the Helvetinjärvi National Park.",
+                  "category": "natural",
+                  "coords": [
+                        23.865386,
+                        62.037899
+                  ]
+            },
+            {
+                  "name": "Helvetinkolu",
+                  "text": "A famous viewpoint at a narrow rock crevice in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        23.830762,
+                        62.054157
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Helvetinjärvi Nationalpark", hu: "Helvetinjärvi Nemzeti Park", ro: "Parcul Național Helvetinjärvi", en: "Helvetinjärvi National Park" },
@@ -489,7 +876,196 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-lemmenjoki-life-v2.webp",
   },
   {
-    id: "finland-seitseminen-life-v2",
+    id: "finland-seitseminen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seitsemisen kansallispuisto",
+                  "text": "Ein Nationalpark in Finnland, bekannt für seine alten Wälder und Moore.",
+                  "category": "natural",
+                  "coords": [
+                        23.424988,
+                        61.928407
+                  ]
+            },
+            {
+                  "name": "Köntin metsä",
+                  "text": "Ein geschütztes Waldgebiet innerhalb des Seitseminen-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        23.386131,
+                        61.945881
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven metsätyökämppä",
+                  "text": "Eine historische Waldarbeiterhütte im Seitseminen-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.410278,
+                        61.934755
+                  ]
+            },
+            {
+                  "name": "Liesijoen mylly",
+                  "text": "Eine alte Wassermühle am Fluss Liesijoki im Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.452877,
+                        61.919869
+                  ]
+            },
+            {
+                  "name": "Saari-Soljasen luonnontarkkailulava",
+                  "text": "Eine Naturbeobachtungsplattform im Seitseminen-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        23.474583,
+                        61.903702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seitsemisen kansallispuisto",
+                  "text": "Finnországi nemzeti park, amely őserdőiről és mocsarairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.424988,
+                        61.928407
+                  ]
+            },
+            {
+                  "name": "Köntin metsä",
+                  "text": "Védett erdőterület a Seitseminen Nemzeti Parkon belül.",
+                  "category": "natural",
+                  "coords": [
+                        23.386131,
+                        61.945881
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven metsätyökämppä",
+                  "text": "Történelmi erdei munkáslak a Seitseminen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.410278,
+                        61.934755
+                  ]
+            },
+            {
+                  "name": "Liesijoen mylly",
+                  "text": "Régi vízimalom a Liesijoki folyó mentén a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.452877,
+                        61.919869
+                  ]
+            },
+            {
+                  "name": "Saari-Soljasen luonnontarkkailulava",
+                  "text": "Természetvédelmi megfigyelőhely a Seitseminen Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        23.474583,
+                        61.903702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seitsemisen kansallispuisto",
+                  "text": "Un parc național din Finlanda, cunoscut pentru pădurile sale bătrâne și mlaștini.",
+                  "category": "natural",
+                  "coords": [
+                        23.424988,
+                        61.928407
+                  ]
+            },
+            {
+                  "name": "Köntin metsä",
+                  "text": "O zonă forestieră protejată în cadrul Parcului Național Seitseminen.",
+                  "category": "natural",
+                  "coords": [
+                        23.386131,
+                        61.945881
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven metsätyökämppä",
+                  "text": "O cabană istorică a lucrătorilor forestieri situată în Parcul Național Seitseminen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.410278,
+                        61.934755
+                  ]
+            },
+            {
+                  "name": "Liesijoen mylly",
+                  "text": "O moară de apă veche situată de-a lungul râului Liesijoki în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        23.452877,
+                        61.919869
+                  ]
+            },
+            {
+                  "name": "Saari-Soljasen luonnontarkkailulava",
+                  "text": "O platformă de observare a naturii în Parcul Național Seitseminen.",
+                  "category": "natural",
+                  "coords": [
+                        23.474583,
+                        61.903702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seitseminen National Park",
+                  "text": "A national park in Finland known for its old-growth forests and mires.",
+                  "category": "natural",
+                  "coords": [
+                        23.424988,
+                        61.928407
+                  ]
+            },
+            {
+                  "name": "Köntin metsä",
+                  "text": "A protected forest area within the Seitseminen National Park.",
+                  "category": "natural",
+                  "coords": [
+                        23.386131,
+                        61.945881
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven metsätyökämppä",
+                  "text": "A historic forest workers' cabin located in Seitseminen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.410278,
+                        61.934755
+                  ]
+            },
+            {
+                  "name": "Liesijoen mylly",
+                  "text": "An old water mill situated along the Liesijoki river in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.452877,
+                        61.919869
+                  ]
+            },
+            {
+                  "name": "Saari-Soljasen luonnontarkkailulava",
+                  "text": "A nature observation platform in the Seitseminen National Park.",
+                  "category": "natural",
+                  "coords": [
+                        23.474583,
+                        61.903702
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Seitseminen Nationalpark", hu: "Seitseminen Nemzeti Park", ro: "Parcul Național Seitseminen", en: "Seitseminen National Park" },
@@ -544,6 +1120,15 @@ export const finlandLifeV2: POI[] = [
                         28.301693,
                         63.648518
                   ]
+            },
+            {
+                  "name": "Tiilikanautio",
+                  "text": "Ein historisches Gehöft und Sehenswürdigkeit im Tiilikkajärvi-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        28.30951,
+                        63.657291
+                  ]
             }
       ],
       "hu": [
@@ -554,6 +1139,15 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         28.301693,
                         63.648518
+                  ]
+            },
+            {
+                  "name": "Tiilikanautio",
+                  "text": "Történelmi tanyaház és látnivaló a Tiilikkajärvi Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.30951,
+                        63.657291
                   ]
             }
       ],
@@ -566,6 +1160,15 @@ export const finlandLifeV2: POI[] = [
                         28.301693,
                         63.648518
                   ]
+            },
+            {
+                  "name": "Tiilikanautio",
+                  "text": "O gospodărie istorică și atracție în Parcul Național Tiilikkajärvi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.30951,
+                        63.657291
+                  ]
             }
       ],
       "en": [
@@ -576,6 +1179,15 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         28.301693,
                         63.648518
+                  ]
+            },
+            {
+                  "name": "Tiilikanautio",
+                  "text": "A historical farmstead and attraction in Tiilikkajärvi National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.30951,
+                        63.657291
                   ]
             }
       ]
@@ -669,7 +1281,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-iso-jarvi-life-v2.webp",
   },
   {
-    id: "finland-kolovesi-life-v2",
+    id: "finland-kolovesi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ukonvuori kalliomaalaus",
+                  "text": "Prähistorische Felsmalereien am Hügel Ukonvuori im Kolovesi-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        28.867605,
+                        62.243029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukonvuori kalliomaalaus",
+                  "text": "Praehistorikus sziklafestmények az Ukonvuori-hegyen a Kolovesi Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        28.867605,
+                        62.243029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukonvuori kalliomaalaus",
+                  "text": "Picturi rupestre preistorice găsite pe dealul Ukonvuori din Parcul Național Kolovesi.",
+                  "category": "historical",
+                  "coords": [
+                        28.867605,
+                        62.243029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukonvuori kalliomaalaus",
+                  "text": "Prehistoric rock paintings found on the Ukonvuori hill in Kolovesi National Park.",
+                  "category": "historical",
+                  "coords": [
+                        28.867605,
+                        62.243029
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Kolovesi Nationalpark", hu: "Kolovesi Nemzeti Park", ro: "Parcul Național Kolovesi", en: "Kolovesi National Park" },
@@ -742,6 +1399,24 @@ export const finlandLifeV2: POI[] = [
                         29.026964,
                         64.225951
                   ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Eine archäologische Fundstätte im Hiidenportti-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ein geschütztes Naturgebiet innerhalb des Hiidenportti-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        29.027463,
+                        64.246649
+                  ]
             }
       ],
       "hu": [
@@ -770,6 +1445,24 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         29.026964,
                         64.225951
+                  ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Régészeti lelőhely a Hiidenportti Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Védett természeti terület a Hiidenportti Nemzeti Parkon belül.",
+                  "category": "natural",
+                  "coords": [
+                        29.027463,
+                        64.246649
                   ]
             }
       ],
@@ -800,6 +1493,24 @@ export const finlandLifeV2: POI[] = [
                         29.026964,
                         64.225951
                   ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Un sit arheologic situat în Parcul Național Hiidenportti.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "O zonă naturală protejată în cadrul Parcului Național Hiidenportti.",
+                  "category": "natural",
+                  "coords": [
+                        29.027463,
+                        64.246649
+                  ]
             }
       ],
       "en": [
@@ -828,6 +1539,24 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         29.026964,
                         64.225951
+                  ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "An archaeological site located in the Hiidenportti National Park.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "A protected natural area within the Hiidenportti National Park.",
+                  "category": "natural",
+                  "coords": [
+                        29.027463,
+                        64.246649
                   ]
             }
       ]
@@ -921,7 +1650,124 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-torronsuo-life-v2.webp",
   },
   {
-    id: "finland-pallas-yllastunturi-life-v2",
+    id: "finland-pallas-yllastunturi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Finnlands drittgrößter Nationalpark, bekannt für seine Fjäll-Landschaften und reine Luft.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Tar kiln",
+                  "text": "Eine historische Stätte im Nationalpark, die an die traditionelle Teergewinnung erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        23.975993,
+                        67.96545
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Ein geschütztes Naturgebiet um die Killinpoikainjärvet-Seen im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Finnország harmadik legnagyobb nemzeti parkja, amely hegyvidéki tájairól és tiszta levegőjéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Tar kiln",
+                  "text": "Történelmi helyszín a nemzeti parkban, amely a hagyományos kátrányégetésre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        23.975993,
+                        67.96545
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Védett természeti terület a nemzeti parkban, a Killinpoikainjärvet-tavak körül.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Al treilea cel mai mare parc național din Finlanda, cunoscut pentru peisajele sale montane și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Tar kiln",
+                  "text": "Un sit istoric din parcul național care amintește de extracția tradițională a rășinii.",
+                  "category": "historical",
+                  "coords": [
+                        23.975993,
+                        67.96545
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "O zonă naturală protejată în jurul lacurilor Killinpoikainjärvet din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pallas-Yllästunturi National Park",
+                  "text": "Finland's third-largest national park, known for its fell landscapes and clean air.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Tar kiln",
+                  "text": "A historical site in the national park that commemorates traditional tar production.",
+                  "category": "historical",
+                  "coords": [
+                        23.975993,
+                        67.96545
+                  ]
+            },
+            {
+                  "name": "Restricted area: Killinpoikainjärvet",
+                  "text": "A protected natural area surrounding the Killinpoikainjärvet lakes in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Pallas-Yllästunturi Nationalpark", hu: "Pallas-Yllästunturi Nemzeti Park", ro: "Parcul Național Pallas-Yllästunturi", en: "Pallas-Yllästunturi National Park" },
@@ -1011,7 +1857,88 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-peurasaari-wildlife-life-v2.webp",
   },
   {
-    id: "finland-siikaneva-mire-life-v2",
+    id: "finland-siikaneva-mire-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siikanevan luonnonsuojelualue",
+                  "text": "Naturschutzgebiet zum Schutz ausgedehnter finnischer Moore.",
+                  "category": "natural",
+                  "coords": [
+                        24.123405,
+                        61.819647
+                  ]
+            },
+            {
+                  "name": "Siikanevan soidensuojelualue",
+                  "text": "Schutzgebiet für Moor- und Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        24.164744,
+                        61.828276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siikanevan luonnonsuojelualue",
+                  "text": "Kiterjedt finn lápokat védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        24.123405,
+                        61.819647
+                  ]
+            },
+            {
+                  "name": "Siikanevan soidensuojelualue",
+                  "text": "Láp- és mocsári ökoszisztémák védett területe.",
+                  "category": "natural",
+                  "coords": [
+                        24.164744,
+                        61.828276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siikanevan luonnonsuojelualue",
+                  "text": "Rezervație naturală care protejează mlaștini finlandeze extinse.",
+                  "category": "natural",
+                  "coords": [
+                        24.123405,
+                        61.819647
+                  ]
+            },
+            {
+                  "name": "Siikanevan soidensuojelualue",
+                  "text": "Zonă de conservare pentru ecosistemele de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        24.164744,
+                        61.828276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siikanevan luonnonsuojelualue",
+                  "text": "Nature reserve protecting extensive Finnish mires.",
+                  "category": "natural",
+                  "coords": [
+                        24.123405,
+                        61.819647
+                  ]
+            },
+            {
+                  "name": "Siikanevan soidensuojelualue",
+                  "text": "Conservation area for bog and wetland ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        24.164744,
+                        61.828276
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Siikaneva Moor", hu: "Siikaneva mocsár", ro: "Mlaștina Siikaneva", en: "Siikaneva Mire" },
@@ -1434,7 +2361,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-laajalahti-reserve-life-v2.webp",
   },
   {
-    id: "finland-liminganlahti-life-v2",
+    id: "finland-liminganlahti-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "HL Hailuoto",
+                  "text": "Ein historisches Dampfschiff, das heute als Museumsschiff in der Bucht von Liminka liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10238,
+                        64.920653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HL Hailuoto",
+                  "text": "Történelmi gőzhajó, amely ma múzeumhajóként áll a Limingai-öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10238,
+                        64.920653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HL Hailuoto",
+                  "text": "O navă istorică cu aburi, conservată astăzi ca navă-muzeu în Golful Liminka.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10238,
+                        64.920653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HL Hailuoto",
+                  "text": "A historic steamship preserved today as a museum ship in Liminganlahti Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10238,
+                        64.920653
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "FI",
     name: { de: "Liminganlahti Bucht", hu: "Liminganlahti öböl", ro: "Golful Liminganlahti", en: "Liminganlahti Bay" },
@@ -1723,6 +2695,78 @@ export const finlandLifeV2: POI[] = [
                         24.425796,
                         60.275869
                   ]
+            },
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "Ein weitläufiges Schutzgebiet mit Wäldern und Seen in der Nähe von Helsinki.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Ein Park, in dem Besucher Rentiere aus nächster Nähe beobachten und füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "Ein geschütztes Waldgebiet innerhalb des Nuuksio-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "Ein naturbelassener Wald, der Teil des ökologischen Netzwerks von Nuuksio ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "Ein idyllisches Waldstück, das für seine natürliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "Ein lokales Naturschutzgebiet mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "Ein geschütztes Bachtal mit einer reichen Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            },
+            {
+                  "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
+                  "text": "Ein Schutzgebiet, das einen wertvollen Lindenwaldhang bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        24.543581,
+                        60.30593
+                  ]
             }
       ],
       "hu": [
@@ -1742,6 +2786,78 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.425796,
                         60.275869
+                  ]
+            },
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "Egy kiterjedt természetvédelmi terület erdőkkel és tavakkal Helsinki közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Egy park, ahol a látogatók közelről láthatnak és etethetnek rénszarvasokat.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "Egy védett erdőterület a Nuuksio Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "Egy természetes erdő, amely a Nuuksio ökológiai hálózatának része.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "Egy idilli erdőrész, amely természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "Egy helyi természetvédelmi terület változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "Egy védett patakvölgy gazdag biológiai sokféleséggel.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            },
+            {
+                  "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
+                  "text": "Természetvédelmi terület, amely egy értékes hársfaerdős lejtőt őriz.",
+                  "category": "natural",
+                  "coords": [
+                        24.543581,
+                        60.30593
                   ]
             }
       ],
@@ -1763,6 +2879,78 @@ export const finlandLifeV2: POI[] = [
                         24.425796,
                         60.275869
                   ]
+            },
+            {
+                  "name": "Nuuksion kansallispuisto",
+                  "text": "O rezervație naturală vastă cu păduri și lacuri lângă Helsinki.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksion Poropuisto",
+                  "text": "Un parc unde vizitatorii pot vedea și hrăni reni de aproape.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "O zonă forestieră protejată în cadrul Parcului Național Nuuksio.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "O pădure naturală care face parte din rețeaua ecologică Nuuksio.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "O porțiune de pădure idilică, cunoscută pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "O rezervație naturală locală cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "O vale de pârâu protejată, cu o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            },
+            {
+                  "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
+                  "text": "O zonă protejată care conservă un versant valoros cu tei.",
+                  "category": "natural",
+                  "coords": [
+                        24.543581,
+                        60.30593
+                  ]
             }
       ],
       "en": [
@@ -1782,6 +2970,78 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.425796,
                         60.275869
+                  ]
+            },
+            {
+                  "name": "Nuuksio national park",
+                  "text": "A vast nature reserve with forests and lakes near Helsinki.",
+                  "category": "natural",
+                  "coords": [
+                        24.53097,
+                        60.314141
+                  ]
+            },
+            {
+                  "name": "Nuuksio Reindeer Park",
+                  "text": "A park where visitors can see and feed reindeer up close.",
+                  "category": "recreational",
+                  "coords": [
+                        24.550279,
+                        60.305159
+                  ]
+            },
+            {
+                  "name": "Lakeasuon metsä",
+                  "text": "A protected forest area within the Nuuksio National Park.",
+                  "category": "natural",
+                  "coords": [
+                        24.57078,
+                        60.294663
+                  ]
+            },
+            {
+                  "name": "Hiidenmetsä",
+                  "text": "A natural forest area that is part of the Nuuksio ecological network.",
+                  "category": "natural",
+                  "coords": [
+                        24.541425,
+                        60.3193
+                  ]
+            },
+            {
+                  "name": "Lehtimäen taikametsä",
+                  "text": "An idyllic forest area known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        24.507156,
+                        60.318602
+                  ]
+            },
+            {
+                  "name": "Mäkelän luonnonsuojelualue",
+                  "text": "A local nature reserve with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.526553,
+                        60.309459
+                  ]
+            },
+            {
+                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
+                  "text": "A protected stream valley with rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        24.535215,
+                        60.301541
+                  ]
+            },
+            {
+                  "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
+                  "text": "A protected area conserving a valuable lime tree forest slope.",
+                  "category": "natural",
+                  "coords": [
+                        24.543581,
+                        60.30593
                   ]
             }
       ]
@@ -1920,7 +3180,124 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-sipoonkorpi-life-v2.webp",
   },
   {
-    id: "finland-hossa-national-park-life-v2",
+    id: "finland-hossa-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hossan Värikalliot",
+                  "text": "Ein bedeutender Fundort prähistorischer Felsmalereien im Hossa-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        29.302589,
+                        65.514322
+                  ]
+            },
+            {
+                  "name": "Hossan kansallispuisto",
+                  "text": "Ein finnischer Nationalpark, der für seine unberührte Natur, Seen und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.319452,
+                        65.476053
+                  ]
+            },
+            {
+                  "name": "Näköalapaikka",
+                  "text": "Ein malerischer Aussichtspunkt im Hossa-Nationalpark mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        29.303009,
+                        65.512379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hossan Värikalliot",
+                  "text": "Prehisztorikus sziklarajzok jelentős lelőhelye a Hossa Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        29.302589,
+                        65.514322
+                  ]
+            },
+            {
+                  "name": "Hossan kansallispuisto",
+                  "text": "Finn nemzeti park, amely érintetlen természetéről, tavairól és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.319452,
+                        65.476053
+                  ]
+            },
+            {
+                  "name": "Näköalapaikka",
+                  "text": "Gleccser vájta tájra néző festői kilátóhely a Hossa Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        29.303009,
+                        65.512379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hossan Värikalliot",
+                  "text": "Un sit important cu picturi rupestre preistorice în Parcul Național Hossa.",
+                  "category": "historical",
+                  "coords": [
+                        29.302589,
+                        65.514322
+                  ]
+            },
+            {
+                  "name": "Hossan kansallispuisto",
+                  "text": "Un parc național finlandez cunoscut pentru natura sa curată, lacuri și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        29.319452,
+                        65.476053
+                  ]
+            },
+            {
+                  "name": "Näköalapaikka",
+                  "text": "Un punct de observație pitoresc în Parcul Național Hossa, oferind vederi asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        29.303009,
+                        65.512379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hossan Värikalliot",
+                  "text": "A significant site of prehistoric rock paintings located in Hossa National Park.",
+                  "category": "historical",
+                  "coords": [
+                        29.302589,
+                        65.514322
+                  ]
+            },
+            {
+                  "name": "Hossa National Park",
+                  "text": "A Finnish national park known for its pristine nature, lakes, and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        29.319452,
+                        65.476053
+                  ]
+            },
+            {
+                  "name": "Näköalapaikka",
+                  "text": "A scenic viewpoint in Hossa National Park offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.303009,
+                        65.512379
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Hossa Nationalpark", hu: "Hossa Nemzeti Park", ro: "Parcul Național Hossa", en: "Hossa National Park" },
@@ -1965,7 +3342,268 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-hossa-national-park-life-v2.webp",
   },
   {
-    id: "finland-reovesi-wildlife-life-v2",
+    id: "finland-reovesi-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruoveden kotiseutumuseo",
+                  "text": "Ein Heimatmuseum, das das Leben und die Geschichte der Region Ruovesi dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.065896,
+                        61.986142
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Ein öffentlicher Badestrand am See in der Gegend von Ruovesi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.08197,
+                        61.98934
+                  ]
+            },
+            {
+                  "name": "Seurantalo Sointula",
+                  "text": "Ein historisches Versammlungshaus und lokales Kulturmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        24.064372,
+                        61.986242
+                  ]
+            },
+            {
+                  "name": "Kalela",
+                  "text": "Das historische Wildnis-Atelier des berühmten finnischen Malers Akseli Gallen-Kallela.",
+                  "category": "landmark",
+                  "coords": [
+                        24.147741,
+                        61.96539
+                  ]
+            },
+            {
+                  "name": "J. L. Runebergin muistomerkki",
+                  "text": "Ein Denkmal zu Ehren des finnischen Nationaldichters Johan Ludvig Runeberg.",
+                  "category": "historical",
+                  "coords": [
+                        24.074931,
+                        61.985619
+                  ]
+            },
+            {
+                  "name": "Runeberginlähde",
+                  "text": "Eine nach dem Dichter Runeberg benannte historische natürliche Quelle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.06629,
+                        61.990472
+                  ]
+            },
+            {
+                  "name": "Ruoveden kirkon tapuli",
+                  "text": "Der Glockenturm der historischen Holzkirche von Ruovesi.",
+                  "category": "tower",
+                  "coords": [
+                        24.076344,
+                        61.985262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruoveden kotiseutumuseo",
+                  "text": "Ruovesi régió életét és történelmét dokumentáló helytörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.065896,
+                        61.986142
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Nyilvános tóparti strand Ruovesi környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.08197,
+                        61.98934
+                  ]
+            },
+            {
+                  "name": "Seurantalo Sointula",
+                  "text": "Történelmi gyülekezeti ház és helyi kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.064372,
+                        61.986242
+                  ]
+            },
+            {
+                  "name": "Kalela",
+                  "text": "A híres finn festő, Akseli Gallen-Kallela történelmi műterme a vadonban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.147741,
+                        61.96539
+                  ]
+            },
+            {
+                  "name": "J. L. Runebergin muistomerkki",
+                  "text": "Emlékmű Johan Ludvig Runeberg finn nemzeti költő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        24.074931,
+                        61.985619
+                  ]
+            },
+            {
+                  "name": "Runeberginlähde",
+                  "text": "Runeberg költőről elnevezett történelmi természetes forrás.",
+                  "category": "landmark",
+                  "coords": [
+                        24.06629,
+                        61.990472
+                  ]
+            },
+            {
+                  "name": "Ruoveden kirkon tapuli",
+                  "text": "Ruovesi történelmi fatemplomának harangtornya.",
+                  "category": "tower",
+                  "coords": [
+                        24.076344,
+                        61.985262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruoveden kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală care documentează viața și istoria regiunii Ruovesi.",
+                  "category": "museum",
+                  "coords": [
+                        24.065896,
+                        61.986142
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "O plajă publică la lac în zona Ruovesi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.08197,
+                        61.98934
+                  ]
+            },
+            {
+                  "name": "Seurantalo Sointula",
+                  "text": "O casă istorică de adunări și muzeu cultural local.",
+                  "category": "museum",
+                  "coords": [
+                        24.064372,
+                        61.986242
+                  ]
+            },
+            {
+                  "name": "Kalela",
+                  "text": "Atelierul istoric din sălbăticie al faimosului pictor finlandez Akseli Gallen-Kallela.",
+                  "category": "landmark",
+                  "coords": [
+                        24.147741,
+                        61.96539
+                  ]
+            },
+            {
+                  "name": "J. L. Runebergin muistomerkki",
+                  "text": "Un monument în cinstea poetului național finlandez Johan Ludvig Runeberg.",
+                  "category": "historical",
+                  "coords": [
+                        24.074931,
+                        61.985619
+                  ]
+            },
+            {
+                  "name": "Runeberginlähde",
+                  "text": "Un izvor natural istoric numit după poetul Runeberg.",
+                  "category": "landmark",
+                  "coords": [
+                        24.06629,
+                        61.990472
+                  ]
+            },
+            {
+                  "name": "Ruoveden kirkon tapuli",
+                  "text": "Clopotnița bisericii istorice de lemn din Ruovesi.",
+                  "category": "tower",
+                  "coords": [
+                        24.076344,
+                        61.985262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruovesi local history museum",
+                  "text": "A local history museum documenting the life and history of the Ruovesi region.",
+                  "category": "museum",
+                  "coords": [
+                        24.065896,
+                        61.986142
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "A public lakeside beach in the Ruovesi area.",
+                  "category": "recreational",
+                  "coords": [
+                        24.08197,
+                        61.98934
+                  ]
+            },
+            {
+                  "name": "Seurantalo Sointula",
+                  "text": "A historic assembly house and local cultural museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.064372,
+                        61.986242
+                  ]
+            },
+            {
+                  "name": "Kalela",
+                  "text": "The historic wilderness studio of the famous Finnish painter Akseli Gallen-Kallela.",
+                  "category": "landmark",
+                  "coords": [
+                        24.147741,
+                        61.96539
+                  ]
+            },
+            {
+                  "name": "J. L. Runebergin muistomerkki",
+                  "text": "A monument honoring the Finnish national poet Johan Ludvig Runeberg.",
+                  "category": "historical",
+                  "coords": [
+                        24.074931,
+                        61.985619
+                  ]
+            },
+            {
+                  "name": "Runeberginlähde",
+                  "text": "A historic natural spring named after the poet Runeberg.",
+                  "category": "landmark",
+                  "coords": [
+                        24.06629,
+                        61.990472
+                  ]
+            },
+            {
+                  "name": "Ruoveden kirkon tapuli",
+                  "text": "The bell tower of the historic wooden church in Ruovesi.",
+                  "category": "tower",
+                  "coords": [
+                        24.076344,
+                        61.985262
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "FI",
     name: { de: "Reovesi Naturschutzgebiet", hu: "Reovesi Természetvédelmi Terület", ro: "Rezervația Naturală Reovesi", en: "Reovesi Wildlife Reserve" },

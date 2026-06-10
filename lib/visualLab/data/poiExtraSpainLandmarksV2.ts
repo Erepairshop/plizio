@@ -693,7 +693,268 @@ imageHint: "City of Arts and Sciences Valencia at night",
     },
     image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp",
 },  {
-    id: "spain-monastery-montserrat-landmarks-v2",
+    id: "spain-monastery-montserrat-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de Montserrat",
+                  "text": "Ein Museum mit Kunstwerken von der Antike bis zur Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        1.836196,
+                        41.592938
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Muntanya de Montserrat",
+                  "text": "Ein Schutzgebiet, das das ikonische Bergmassiv von Montserrat umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        1.811635,
+                        41.601565
+                  ]
+            },
+            {
+                  "name": "Castell de Collbató",
+                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem Felsvorsprung.",
+                  "category": "castle",
+                  "coords": [
+                        1.830134,
+                        41.569425
+                  ]
+            },
+            {
+                  "name": "Molí d'Oli",
+                  "text": "Ein Museum, das der traditionellen Olivenölproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.82785,
+                        41.570632
+                  ]
+            },
+            {
+                  "name": "Palau prioral de Monistrol",
+                  "text": "Ein historischer Palast, der für kulturelle Ausstellungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        1.84563,
+                        41.610586
+                  ]
+            },
+            {
+                  "name": "Museu del Cremallera",
+                  "text": "Ein Museum über die Geschichte der Zahnradbahn von Montserrat.",
+                  "category": "museum",
+                  "coords": [
+                        1.84397,
+                        41.615298
+                  ]
+            },
+            {
+                  "name": "Turó de la Salindanga",
+                  "text": "Ein markanter Berggipfel im Montserrat-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        1.862035,
+                        41.619272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de Montserrat",
+                  "text": "Múzeum, amely az ókortól a modern korig mutat be műalkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        1.836196,
+                        41.592938
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Muntanya de Montserrat",
+                  "text": "Védett terület, amely magában foglalja a Montserrat ikonikus hegytömbjét.",
+                  "category": "natural",
+                  "coords": [
+                        1.811635,
+                        41.601565
+                  ]
+            },
+            {
+                  "name": "Castell de Collbató",
+                  "text": "Egy sziklakiszögellésen álló középkori vár romjai.",
+                  "category": "castle",
+                  "coords": [
+                        1.830134,
+                        41.569425
+                  ]
+            },
+            {
+                  "name": "Molí d'Oli",
+                  "text": "A hagyományos olívaolaj-termelésnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.82785,
+                        41.570632
+                  ]
+            },
+            {
+                  "name": "Palau prioral de Monistrol",
+                  "text": "Kulturális kiállításoknak otthont adó történelmi palota.",
+                  "category": "museum",
+                  "coords": [
+                        1.84563,
+                        41.610586
+                  ]
+            },
+            {
+                  "name": "Museu del Cremallera",
+                  "text": "A montserrati fogaskerekű vasút történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.84397,
+                        41.615298
+                  ]
+            },
+            {
+                  "name": "Turó de la Salindanga",
+                  "text": "Jellegzetes hegycsúcs a Montserrat-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.862035,
+                        41.619272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de Montserrat",
+                  "text": "Un muzeu care expune opere de artă din antichitate până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        1.836196,
+                        41.592938
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Muntanya de Montserrat",
+                  "text": "O zonă protejată care cuprinde masivul montan iconic Montserrat.",
+                  "category": "natural",
+                  "coords": [
+                        1.811635,
+                        41.601565
+                  ]
+            },
+            {
+                  "name": "Castell de Collbató",
+                  "text": "Ruinele unui castel medieval situat pe un afloriment stâncos.",
+                  "category": "castle",
+                  "coords": [
+                        1.830134,
+                        41.569425
+                  ]
+            },
+            {
+                  "name": "Molí d'Oli",
+                  "text": "Un muzeu dedicat producției tradiționale de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        1.82785,
+                        41.570632
+                  ]
+            },
+            {
+                  "name": "Palau prioral de Monistrol",
+                  "text": "Un palat istoric utilizat pentru expoziții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        1.84563,
+                        41.610586
+                  ]
+            },
+            {
+                  "name": "Museu del Cremallera",
+                  "text": "Un muzeu despre istoria căii ferate cu cremalieră din Montserrat.",
+                  "category": "museum",
+                  "coords": [
+                        1.84397,
+                        41.615298
+                  ]
+            },
+            {
+                  "name": "Turó de la Salindanga",
+                  "text": "Un vârf montan proeminent în masivul Montserrat.",
+                  "category": "landmark",
+                  "coords": [
+                        1.862035,
+                        41.619272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Montserrat",
+                  "text": "A museum featuring artworks from antiquity to modern times.",
+                  "category": "museum",
+                  "coords": [
+                        1.836196,
+                        41.592938
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Muntanya de Montserrat",
+                  "text": "A protected area encompassing the iconic Montserrat mountain massif.",
+                  "category": "natural",
+                  "coords": [
+                        1.811635,
+                        41.601565
+                  ]
+            },
+            {
+                  "name": "Castell de Collbató",
+                  "text": "The ruins of a medieval castle situated on a rocky outcrop.",
+                  "category": "castle",
+                  "coords": [
+                        1.830134,
+                        41.569425
+                  ]
+            },
+            {
+                  "name": "Molí d'Oli",
+                  "text": "A museum dedicated to traditional olive oil production.",
+                  "category": "museum",
+                  "coords": [
+                        1.82785,
+                        41.570632
+                  ]
+            },
+            {
+                  "name": "Palau prioral de Monistrol",
+                  "text": "A historic palace used for cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        1.84563,
+                        41.610586
+                  ]
+            },
+            {
+                  "name": "Museu del Cremallera",
+                  "text": "A museum about the history of the Montserrat rack railway.",
+                  "category": "museum",
+                  "coords": [
+                        1.84397,
+                        41.615298
+                  ]
+            },
+            {
+                  "name": "Turó de la Salindanga",
+                  "text": "A prominent mountain peak in the Montserrat massif.",
+                  "category": "landmark",
+                  "coords": [
+                        1.862035,
+                        41.619272
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "monument",
     name: { de: "Kloster Montserrat", hu: "Montserrati kolostor", ro: "Mănăstirea Montserrat", en: "Monastery of Montserrat"},
@@ -924,7 +1185,52 @@ imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
     },
     image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
 },  {
-    id: "spain-castillo-loarre-landmarks-v2",
+    id: "spain-castillo-loarre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Diese beeindruckende romanische Festung gilt als eine der besterhaltenen Burgen Spaniens.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Ez a lenyűgöző román stílusú erőd Spanyolország egyik legjobb állapotban fennmaradt vára.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Această impresionantă fortăreață romanică este considerată unul dintre cele mai bine conservate castele din Spania.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "This impressive Romanesque fortress is considered one of the best-preserved castles in Spain.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "castle",
     name: { de: "Castillo de Loarre", hu: "Loarre vára", ro: "Castelul din Loarre", en: "Castillo de Loarre"},
@@ -1062,7 +1368,304 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
     },
     image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp",
 },  {
-    id: "spain-monastery-poblet-landmarks-v2",
+    id: "spain-monastery-poblet-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Eine historische Burg in der Nähe des Klosters Poblet, umgeben von Weinbergen.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "Ein Museum in L'Espluga de Francolí, das dem ländlichen Leben und der Landwirtschaftsgeschichte Kataloniens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Ein befestigtes Herrenhaus und Schloss in der Nähe des Klosters Poblet.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "Ein Museum, das der Geschichte und Herstellung des Weins gewidmet ist und in einem modernistischen Gebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "Eine der längsten Konglomerathöhlen der Welt mit einem Museum zur menschlichen Vorgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Ein Berggipfel mit Aussicht auf die Landschaft rund um das Kloster Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Ein Gipfel im Prades-Gebirge in der Nähe des Klosters Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Historische Ruinen in der natürlichen Umgebung des Klosters Poblet.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Történelmi vár a Poblet-kolostor közelében, szőlőültetvényekkel körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "L'Espluga de Francolí múzeuma, amely a katalán vidéki életet és a mezőgazdaság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Erődített udvarház és vár a Poblet-kolostor környékén.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "A bor történetének és készítésének szentelt múzeum egy modernista épületben.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "A világ egyik leghosszabb konglomerátum barlangja, amely az emberi őstörténetet bemutató múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Hegycsúcs, amely kilátást nyújt a Poblet-kolostor környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Hegycsúcs a Prades-hegységben, a Poblet-kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Történelmi romok a Poblet-kolostor természeti környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Un castel istoric situat lângă Mănăstirea Poblet, înconjurat de podgorii.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "Un muzeu în L'Espluga de Francolí dedicat vieții rurale și istoriei agricole din Catalonia.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Un conac fortificat și castel situat în apropierea Mănăstirii Poblet.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "Un muzeu dedicat istoriei și producției de vin, găzduit într-o clădire modernistă.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "Una dintre cele mai lungi peșteri de conglomerat din lume, cu un muzeu despre preistoria umană.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Un vârf montan care oferă vederi asupra peisajului din jurul Mănăstirii Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Un vârf în Munții Prades, lângă Mănăstirea Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Ruine istorice situate în împrejurimile naturale ale Mănăstirii Poblet.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "A historical castle located near the Monastery of Poblet, surrounded by vineyards.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "A museum in L'Espluga de Francolí dedicated to rural life and agricultural history in Catalonia.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "A fortified manor house and castle located in the vicinity of the Monastery of Poblet.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "A museum dedicated to the history and production of wine, housed in a modernist building.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "One of the longest conglomerate caves in the world, featuring a museum about human prehistory.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "A mountain peak offering views over the landscape surrounding the Monastery of Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "A peak in the Prades Mountains near the Monastery of Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Historical ruins located in the natural surroundings of the Monastery of Poblet.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "monument",
     name: { de: "Kloster Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Monastery of Poblet"},

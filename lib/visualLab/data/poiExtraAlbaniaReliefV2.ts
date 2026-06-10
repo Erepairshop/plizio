@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const albaniaReliefV2: POI[] = [
 
   {
-    id: "albania-maja-e-jezerces-relief-v2",
+    id: "albania-maja-e-jezerces-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Ein markanter Gipfel im Prokletije-Gebirge in Nordalbanien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "Ein hoher Gipfel im Prokletije-Gebirge nahe der Maja Jezercë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Jezerca",
+                  "text": "Der höchste Gipfel der Dinarischen Alpen im Norden Albaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Ein schöner natürlicher Wasserfall in der malerischen Valbona-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Jelentős hegycsúcs az Észak-albán-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "Magas hegycsúcs az Észak-albán-Alpokban, a Maja Jezercë közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "A Dinári-Alpok legmagasabb csúcsa Észak-Albániában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Gyönyörű természetes vízesés a festői Valbona-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Un vârf proeminent în munții Prokletije din nordul Albaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "Un vârf înalt în munții Prokletije, lângă Maja Jezercë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "Cel mai înalt vârf din Alpii Dinari, situat în nordul Albaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "O cascadă naturală frumoasă situată în pitoreasca Vale Valbona.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "A prominent peak in the Accursed Mountains of northern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "A high peak in the Accursed Mountains near Maja Jezercë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "The highest peak of the Dinaric Alps, situated in northern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Valbona's Waterfall",
+                  "text": "A beautiful natural waterfall located in the scenic Valbona Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Jezerca-Spitze", hu: "Jezerca-csúcs", ro: "Vârful Jezercë", en: "Maja Jezercë"},
@@ -49,7 +202,160 @@ imageHint: "Maja Jezerce peak Albanian Alps",
     },
     image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp",
 },  {
-    id: "albania-maja-e-cikes-relief-v2",
+    id: "albania-maja-e-cikes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja Çikës",
+                  "text": "Der höchste Gipfel des Ceraunischen Gebirges im Süden Albaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Eine Freizeitattraktion, wahrscheinlich ein Gleitschirm-Startplatz, nahe dem Llogara-Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Ein historisches Denkmal in der Llogara-Region zur Erinnerung an Ereignisse von 1912-1913.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dhimitrit",
+                  "text": "Eine byzantinische Kirche im Dorf Palasë, die dem Heiligen Demetrius geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.624479,
+                        40.166738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja Çikës",
+                  "text": "Az albániai Kerauni-hegység legmagasabb csúcsa az ország déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Szórakoztató attrakció, valószínűleg siklóernyős hely a Llogara-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Történelmi emlékmű a Llogara-régióban az 1912-1913-as események emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dhimitrit",
+                  "text": "Szent Demeternek szentelt bizánci templom Palasë falujában.",
+                  "category": "religious",
+                  "coords": [
+                        19.624479,
+                        40.166738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja Çikës",
+                  "text": "Cel mai înalt vârf din munții Ceraunieni, în sudul Albaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "O atracție recreativă, probabil un punct de lansare pentru parapantă, lângă pasul Llogara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Un monument istoric din regiunea Llogara care comemorează evenimentele din 1912-1913.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dhimitrit",
+                  "text": "O biserică bizantină din satul Palasë, dedicată Sfântului Dumitru.",
+                  "category": "religious",
+                  "coords": [
+                        19.624479,
+                        40.166738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja Çikës",
+                  "text": "The highest peak of the Ceraunian Mountains in southern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "A recreational attraction, likely a paragliding spot, near the Llogara Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "A historic monument in the Llogara region commemorating events from 1912-1913.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dhimitrit",
+                  "text": "A Byzantine church in the village of Palasë, dedicated to Saint Demetrius.",
+                  "category": "religious",
+                  "coords": [
+                        19.624479,
+                        40.166738
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Maja e Çikës", hu: "Çika-csúcs", ro: "Vârful Çika", en: "Maja e Çikës"},
@@ -141,7 +447,88 @@ imageHint: "Myzeqe Plain Albania aerial view",
     },
     image: "/poi-images/albania-myzeqe-plain-relief-v2.webp",
 },  {
-    id: "albania-mali-i-gramosit-relief-v2",
+    id: "albania-mali-i-gramosit-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Überreste eines alten Dorfes.",
+                  "category": "natural",
+                  "coords": [
+                        20.764919,
+                        40.319689
+                  ]
+            },
+            {
+                  "name": "Πυραμίδα",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf dem Berg Gramos.",
+                  "category": "natural",
+                  "coords": [
+                        20.762108,
+                        40.326998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "text": "Kilátópont, ahonnan egy régi falu maradványai láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        20.764919,
+                        40.319689
+                  ]
+            },
+            {
+                  "name": "Πυραμίδα",
+                  "text": "Kilátópont panorámás kilátással a Gramosz-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        20.762108,
+                        40.326998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "text": "Un punct de belvedere cu vedere spre resturile unui sat vechi.",
+                  "category": "natural",
+                  "coords": [
+                        20.764919,
+                        40.319689
+                  ]
+            },
+            {
+                  "name": "Πυραμίδα",
+                  "text": "Un punct de belvedere cu vedere panoramică pe muntele Gramos.",
+                  "category": "natural",
+                  "coords": [
+                        20.762108,
+                        40.326998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old hamlet",
+                  "text": "A viewpoint overlooking the remains of an old village.",
+                  "category": "natural",
+                  "coords": [
+                        20.764919,
+                        40.319689
+                  ]
+            },
+            {
+                  "name": "Pyramid",
+                  "text": "A viewpoint with panoramic views on Mount Gramos.",
+                  "category": "natural",
+                  "coords": [
+                        20.762108,
+                        40.326998
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Gramos-Gebirge", hu: "Gramos-hegység", ro: "Munții Gramos", en: "Mount Gramos"},
@@ -187,7 +574,124 @@ imageHint: "Mount Gramos Albania border mountains",
     },
     image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp",
 },  {
-    id: "albania-nemercka-range-relief-v2",
+    id: "albania-nemercka-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Ein markanter Gipfel im Nemërçka-Gebirge, auch bekannt als Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Sopotit-Wasserfall",
+                  "text": "Ein natürlicher Wasserfall in der malerischen Nemërçka-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Ein Aussichtspunkt mit Blick auf die markanten Felsformationen von Nemërçka.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Jellegzetes csúcs a Nemërçka-hegységben, Maja e Papingut néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Sopotit",
+                  "text": "Természetes vízesés a festői Nemërçka-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Kilátóhely, ahonnan a Nemërçka jellegzetes sziklaképződményeire látni.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Un vârf proeminent din munții Nemërçka, cunoscut și sub numele de Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Sopotit",
+                  "text": "O cascadă naturală în regiunea pitorească Nemërçka.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Un punct de belvedere cu vedere la formațiunile stâncoase din Nemërçka.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "A prominent peak in the Nemërçka range, also known as Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Sopotit Waterfall",
+                  "text": "A natural waterfall located in the scenic Nemërçka region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "A viewpoint offering views of the striking rock formations of Nemërçka.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Nemërçka-Gebirge", hu: "Nemërçka-hegység", ro: "Munții Nemërçka", en: "Nemërçka Range"},
@@ -325,7 +829,52 @@ imageHint: "Mount Shpirag Berat vertical ridges",
     },
     image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp",
 },  {
-    id: "albania-maja-e-valamares-relief-v2",
+    id: "albania-maja-e-valamares-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Valamarës",
+                  "text": "Ein Berggipfel in Albanien mit Panoramablick auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        20.465221,
+                        40.794178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Valamarës",
+                  "text": "Hegycsúcs Albániában, panorámás kilátással a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.465221,
+                        40.794178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Valamarës",
+                  "text": "Un vârf muntos din Albania, oferind vedere panoramică asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.465221,
+                        40.794178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Valamarës",
+                  "text": "A mountain peak in Albania offering panoramic views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        20.465221,
+                        40.794178
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Valamara-Gipfel", hu: "Valamara-csúcs", ro: "Vârful Valamara", en: "Maja e Valamarës"},
@@ -508,7 +1057,124 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
     },
     image: "/poi-images/albania-dumre-plateau-relief-v2.webp",
 },  {
-    id: "albania-maja-e-papingut-relief-v2",
+    id: "albania-maja-e-papingut-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Ein markanter Berggipfel im Nemërçka-Gebirge im Süden Albaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Sopotit-Wasserfall",
+                  "text": "Ein malerischer Wasserfall in der Nähe von Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Felslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Kimagasló hegycsúcs a dél-albániai Nemërçka-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Sopotit",
+                  "text": "Egy festői vízesés Maja e Papingut közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a környező sziklás tájra.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "Un vârf muntos proeminent din lanțul Nemërçka, situat în sudul Albaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Sopotit",
+                  "text": "O cascadă pitorească situată lângă Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra peisajului stâncos din jur.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Drites",
+                  "text": "A prominent mountain peak in the Nemërçka range in southern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.432558,
+                        40.124064
+                  ]
+            },
+            {
+                  "name": "Sopotit Waterfall",
+                  "text": "A scenic waterfall located near Maja e Papingut.",
+                  "category": "landmark",
+                  "coords": [
+                        20.442693,
+                        40.144739
+                  ]
+            },
+            {
+                  "name": "View of rocks",
+                  "text": "A viewpoint offering panoramic views of the surrounding rocky landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.440164,
+                        40.142344
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Maja e Papingut", hu: "Papingut-csúcs", ro: "Vârful Papingut", en: "Maja e Papingut"},
@@ -692,7 +1358,124 @@ imageHint: "Zadrima Plain Albania landscape",
     },
     image: "/poi-images/albania-zadrima-plain-relief-v2.webp",
 },  {
-    id: "albania-maja-e-radohimes-relief-v2",
+    id: "albania-maja-e-radohimes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Harapit",
+                  "text": "Ein markanter Berggipfel in den Albanischen Alpen, bekannt für seine steilen Felswände.",
+                  "category": "landmark",
+                  "coords": [
+                        19.755191,
+                        42.445304
+                  ]
+            },
+            {
+                  "name": "Maja Stogut",
+                  "text": "Ein hoher Gipfel im Prokletije-Gebirge im Norden Albaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737276,
+                        42.452336
+                  ]
+            },
+            {
+                  "name": "Maja e Radohimës",
+                  "text": "Einer der höchsten Gipfel des Radohima-Massivs in den Albanischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.726389,
+                        42.4275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Harapit",
+                  "text": "Jellegzetes hegycsúcs az Albán-Alpokban, amely meredek sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.755191,
+                        42.445304
+                  ]
+            },
+            {
+                  "name": "Maja Stogut",
+                  "text": "Magas hegycsúcs a Prokletije-hegységben, Albánia északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737276,
+                        42.452336
+                  ]
+            },
+            {
+                  "name": "Maja e Radohimës",
+                  "text": "Az Albán-Alpokban található Radohima-masszívum egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.726389,
+                        42.4275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Harapit",
+                  "text": "Un vârf montan proeminent din Alpii Albanezi, cunoscut pentru pereții săi stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        19.755191,
+                        42.445304
+                  ]
+            },
+            {
+                  "name": "Maja Stogut",
+                  "text": "Un vârf înalt din munții Prokletije, situat în nordul Albaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737276,
+                        42.452336
+                  ]
+            },
+            {
+                  "name": "Maja e Radohimës",
+                  "text": "Unul dintre cele mai înalte vârfuri ale masivului Radohima din Alpii Albanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.726389,
+                        42.4275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Harapit",
+                  "text": "A prominent mountain peak in the Albanian Alps, known for its steep rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        19.755191,
+                        42.445304
+                  ]
+            },
+            {
+                  "name": "Maja Stogut",
+                  "text": "A high peak in the Prokletije mountains of northern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737276,
+                        42.452336
+                  ]
+            },
+            {
+                  "name": "Maja e Radohimës",
+                  "text": "One of the highest peaks of the Radohima massif in the Albanian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.726389,
+                        42.4275
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Radohima-Gipfel", hu: "Radohima-csúcs", ro: "Vârful Radohima", en: "Maja e Radohimës"},
@@ -738,7 +1521,124 @@ imageHint: "Maja e Radohimes peak Albanian Alps",
     },
     image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp",
 },  {
-    id: "albania-maja-e-hekurave-relief-v2",
+    id: "albania-maja-e-hekurave-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Ein spektakulärer Nationalpark in den albanischen Alpen mit hohen Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Ein markanter Berggipfel im Valbona-Tal in den albanischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Alte Wassermühle",
+                  "text": "Historische Überreste einer alten Wassermühle in der Region Valbona.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Egy látványos nemzeti park az Albán-Alpokban, magas hegycsúcsokkal.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Egy jellegzetes hegycsúcs a Valbona-völgyben, az Albán-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Egy régi vízimalom történelmi maradványai a Valbona-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Un parc național spectaculos în Alpii Albanezi, cu vârfuri înalte.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Un vârf muntos proeminent în Valea Valbona din Alpii Albanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Vestigii istorice ale unei vechi mori de apă în regiunea Valbona.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valbona Valley National Park",
+                  "text": "A spectacular national park in the Albanian Alps featuring high peaks.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "A prominent mountain peak in the Valbona Valley of the Albanian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Old Watermill",
+                  "text": "Historic remains of an old watermill in the Valbona region.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Eisenberg", hu: "Hekurave-csúcs", ro: "Vârful Hekurave", en: "Maja e Hekurave"},
@@ -922,7 +1822,52 @@ imageHint: "Jabllanica mountain Albania North Macedonia border",
     },
     image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp",
 },  {
-    id: "albania-maja-e-thate-relief-v2",
+    id: "albania-maja-e-thate-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "Ein markanter Berggipfel in der Region Maja e Thatë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "Jellegzetes hegycsúcs Maja e Thatë régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "Un vârf montan distinctiv în regiunea Maja e Thatë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "A distinctive mountain peak in the Maja e Thatë region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Trockener Berg", hu: "Száraz-hegy", ro: "Muntele Uscat", en: "Maja e Thatë"},
@@ -1289,7 +2234,268 @@ imageHint: "Vermosh valley Albania alpine landscape",
     },
     image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp",
 },  {
-    id: "albania-ceraunian-mountains-relief-v2",
+    id: "albania-ceraunian-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "Kieselstrand am Fuße des Ceraunischen Gebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "Langer Strand in der Nähe von Palasa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Maja Çikës",
+                  "text": "Der höchste Gipfel des Ceraunischen Gebirges in Albanien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Aussichtspunkt am Pass mit Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Großer Militärbunker in den albanischen Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Freizeitatraktion in den Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Historisches Denkmal am Llogara-Pass.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "Kavicsos tengerpart az Akrokerauni-hegység lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "Hosszú tengerparti strand Palasa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Maja Çikës",
+                  "text": "Az Akrokerauni-hegység legmagasabb csúcsa Albániában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Kilátópont a hágónál, panorámával a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Nagyméretű katonai bunker az albán hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Szabadtéri szabadidős látványosság a hegyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Történelmi emlékmű a Llogara-hágónál.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "Plajă cu pietriș la poalele Munților Ceraunieni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "Plajă lungă situată lângă Palasa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Maja Çikës",
+                  "text": "Cel mai înalt vârf din Munții Ceraunieni din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Punct de observație în pas, cu vedere spre coastă.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Bunker militar mare în munții albanezi.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Atractie de agrement în munți.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Monument istoric în pasul Llogara.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "A pebble beach at the foot of the Ceraunian Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "A long beach located near Palasa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Maja Çikës",
+                  "text": "The highest peak of the Ceraunian Mountains in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.639734,
+                        40.198153
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "A viewpoint at the pass with views of the coast.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Big bunker",
+                  "text": "A large military bunker in the Albanian mountains.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "A leisure attraction in the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "A historical monument at the Llogara Pass.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Ceraunisches Gebirge", hu: "Keravni-hegység", ro: "Munții Ceraunici", en: "Ceraunian Mountains"},
@@ -1336,7 +2542,52 @@ imageHint: "Vermosh valley Albania alpine landscape",
   }
 ,
   {
-    id: "albania-mali-i-thate-relief-v2",
+    id: "albania-mali-i-thate-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "Der höchste Gipfel des Berges Mali me Gropa in Albanien mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "A Mali me Gropa-hegység legmagasabb csúcsa Albániában, kiváló kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "Cel mai înalt vârf al muntelui Mali me Gropa din Albania, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pllaja e Pusit",
+                  "text": "The highest peak of the Mali me Gropa mountain in Albania, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.840527,
+                        40.883411
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AL",
     name: { de: "Mali i Thatë", hu: "Mali i Thatë", ro: "Muntele Thatë", en: "Dry Mountain" },
@@ -1381,7 +2632,88 @@ imageHint: "Vermosh valley Albania alpine landscape",
     image: "/poi-images/albania-mali-i-thate-relief-v2.webp",
   },
   {
-    id: "albania-mali-i-dejes-relief-v2",
+    id: "albania-mali-i-dejes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "Eine historische albanische Festung, die mit dem Nationalhelden Skanderbeg verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Ein markanter Berggipfel in Albanien, bekannt für seine raue natürliche Schönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "Egy történelmi albán erőd, amely a nemzeti hős, Szkander bég nevéhez fűződik.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Egy jellegzetes hegycsúcs Albániában, amely vadregényes természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "O cetate istorică albaneză legată de eroul național Skanderbeg.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Un vârf muntos proeminent din Albania, cunoscut pentru frumusețea sa naturală sălbatică.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "A historic Albanian fortress associated with the national hero Skanderbeg.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "A prominent mountain peak in Albania, known for its rugged natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AL",
     name: { de: "Mali i Dejës", hu: "Mali i Dejës", ro: "Muntele Deja", en: "Mount Deja" },
@@ -1426,7 +2758,88 @@ imageHint: "Vermosh valley Albania alpine landscape",
     image: "/poi-images/albania-mali-i-dejes-relief-v2.webp",
   },
   {
-    id: "albania-gribe-range-relief-v2",
+    id: "albania-gribe-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Matohasanajt",
+                  "text": "Archäologische Überreste einer antiken Festungsanlage im Gribë-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        19.83696,
+                        40.35785
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historische Ruinen antiker Bauwerke in der Bergregion des Gribë-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        19.832232,
+                        40.360901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Matohasanajt",
+                  "text": "Egy ókori erődítmény régészeti maradványai a Gribë-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        19.83696,
+                        40.35785
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Ókori építmények történelmi romjai a Gribë-hegység hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.832232,
+                        40.360901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Matohasanajt",
+                  "text": "Vestigii arheologice ale unei fortificații antice din Munții Gribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.83696,
+                        40.35785
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Ruine istorice ale unor structuri antice din zona montană a Munților Gribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.832232,
+                        40.360901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Matohasanajt",
+                  "text": "Archaeological remains of an ancient fortification in the Gribë Range.",
+                  "category": "historical",
+                  "coords": [
+                        19.83696,
+                        40.35785
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historical ruins of ancient structures in the mountainous area of the Gribë Range.",
+                  "category": "historical",
+                  "coords": [
+                        19.832232,
+                        40.360901
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AL",
     name: { de: "Gribë-Gebirge", hu: "Gribë-hegység", ro: "Munții Gribë", en: "Gribë Range" },
@@ -1516,7 +2929,52 @@ imageHint: "Vermosh valley Albania alpine landscape",
     image: "/poi-images/albania-dropull-valley-relief-v2.webp",
   },
   {
-    id: "albania-mali-i-shpatit-relief-v2",
+    id: "albania-mali-i-shpatit-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Valeshit",
+                  "text": "Eine antike illyrische Festungsanlage in der Region Shpat.",
+                  "category": "historical",
+                  "coords": [
+                        20.186773,
+                        41.006291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Valeshit",
+                  "text": "Ókori illír erődítmény maradványai a Shpat-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        20.186773,
+                        41.006291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Valeshit",
+                  "text": "O veche fortificație iliră situată în regiunea Shpat.",
+                  "category": "historical",
+                  "coords": [
+                        20.186773,
+                        41.006291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valëshit Castle",
+                  "text": "An ancient Illyrian fortification site located in the Shpat region.",
+                  "category": "historical",
+                  "coords": [
+                        20.186773,
+                        41.006291
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AL",
     name: { de: "Mali i Shpatit", hu: "Shpat-hegység", ro: "Muntele Shpat", en: "Shpat Mountain" },

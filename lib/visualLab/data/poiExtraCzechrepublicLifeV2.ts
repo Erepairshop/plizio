@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const czechrepublicLifeV2: POI[] = [
 
   {
-    id: "czechrepublic-krkonose-national-park-life-v2",
+    id: "czechrepublic-krkonose-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domek Laboranta",
+                  "text": "Ein Museum im Riesengebirge, das an die traditionellen Kräutersammler und Laboranten erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        15.755303,
+                        50.765456
+                  ]
+            },
+            {
+                  "name": "Silberkamm",
+                  "text": "Ein Berggipfel im Riesengebirge, bekannt für seine weite Hochfläche und Alpenvegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        15.689657,
+                        50.742154
+                  ]
+            },
+            {
+                  "name": "Brunnenberg",
+                  "text": "Mit 1555 Metern einer der höchsten Gipfel des Riesengebirges mit spektakulärer Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70586,
+                        50.727106
+                  ]
+            },
+            {
+                  "name": "Hochwiesenberg",
+                  "text": "Der zweithöchste Berg der Tschechischen Republik, charakterisiert durch seine kahle Gipfelkuppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.682756,
+                        50.727772
+                  ]
+            },
+            {
+                  "name": "Rosenberg",
+                  "text": "Ein markanter Gipfel im Riesengebirge, der über eine Seilbahn mit der Schneekoppe verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.738944,
+                        50.720982
+                  ]
+            },
+            {
+                  "name": "Baum Berg",
+                  "text": "Ein bewaldeter Gipfel im östlichen Riesengebirge, ideal für Wanderungen in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        15.712052,
+                        50.707528
+                  ]
+            },
+            {
+                  "name": "Löwen Berg",
+                  "text": "Ein Berg im tschechischen Teil des Riesengebirges mit bewaldeten Hängen und Wanderwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.780842,
+                        50.720391
+                  ]
+            },
+            {
+                  "name": "Schneekoppe",
+                  "text": "Der höchste Gipfel des Riesengebirges und ein beliebtes Ziel für Wanderer an der Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        15.739607,
+                        50.736033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domek Laboranta",
+                  "text": "Múzeum az Óriás-hegységben, amely a hagyományos gyógynövénygyűjtőknek és laboránsoknak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        15.755303,
+                        50.765456
+                  ]
+            },
+            {
+                  "name": "Stříbrné návrší",
+                  "text": "Hegyi csúcs az Óriás-hegységben, amely fennsíkjáról és alpesi növényzetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.689657,
+                        50.742154
+                  ]
+            },
+            {
+                  "name": "Studniční hora",
+                  "text": "1555 méteres magasságával az Óriás-hegység egyik legmagasabb csúcsa, látványos kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70586,
+                        50.727106
+                  ]
+            },
+            {
+                  "name": "Luční hora",
+                  "text": "Csehország második legmagasabb hegye, amelyet kopár csúcsa jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        15.682756,
+                        50.727772
+                  ]
+            },
+            {
+                  "name": "Růžová hora",
+                  "text": "Jellegzetes csúcs az Óriás-hegységben, amelyet felvonó köt össze a Sněžkával.",
+                  "category": "landmark",
+                  "coords": [
+                        15.738944,
+                        50.720982
+                  ]
+            },
+            {
+                  "name": "Lesní hora",
+                  "text": "Erdővel borított csúcs a Keleti-Óriás-hegységben, ideális természetjáráshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        15.712052,
+                        50.707528
+                  ]
+            },
+            {
+                  "name": "Jelení hora",
+                  "text": "Hegyi csúcs az Óriás-hegység cseh oldalán, erdős lejtőkkel és túraútvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        15.780842,
+                        50.720391
+                  ]
+            },
+            {
+                  "name": "Śnieżka / Sněžka",
+                  "text": "Az Óriás-hegység legmagasabb csúcsa és népszerű túracélpont a határon.",
+                  "category": "landmark",
+                  "coords": [
+                        15.739607,
+                        50.736033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domek Laboranta",
+                  "text": "Un muzeu din Munții Karkonosze, dedicat tradiției culegătorilor de plante și laboranților.",
+                  "category": "museum",
+                  "coords": [
+                        15.755303,
+                        50.765456
+                  ]
+            },
+            {
+                  "name": "Stříbrné návrší",
+                  "text": "Un vârf muntos în Munții Karkonosze, cunoscut pentru platoul său înalt și vegetația alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        15.689657,
+                        50.742154
+                  ]
+            },
+            {
+                  "name": "Studniční hora",
+                  "text": "Cu o înălțime de 1555 de metri, este unul dintre cele mai înalte vârfuri din Munții Karkonosze.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70586,
+                        50.727106
+                  ]
+            },
+            {
+                  "name": "Luční hora",
+                  "text": "Al doilea cel mai înalt munte din Republica Cehă, caracterizat prin vârful său pleșuv.",
+                  "category": "landmark",
+                  "coords": [
+                        15.682756,
+                        50.727772
+                  ]
+            },
+            {
+                  "name": "Růžová hora",
+                  "text": "Un vârf distinctiv din Munții Karkonosze, conectat prin telecabină cu vârful Sněžka.",
+                  "category": "landmark",
+                  "coords": [
+                        15.738944,
+                        50.720982
+                  ]
+            },
+            {
+                  "name": "Lesní hora",
+                  "text": "Un vârf împădurit în estul Munților Karkonosze, ideal pentru drumeții în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        15.712052,
+                        50.707528
+                  ]
+            },
+            {
+                  "name": "Jelení hora",
+                  "text": "Un munte în partea cehă a Munților Karkonosze, cu pante împădurite și trasee de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        15.780842,
+                        50.720391
+                  ]
+            },
+            {
+                  "name": "Śnieżka / Sněžka",
+                  "text": "Cel mai înalt vârf din Munții Karkonosze și o destinație populară pentru turiști la frontieră.",
+                  "category": "landmark",
+                  "coords": [
+                        15.739607,
+                        50.736033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domek Laboranta",
+                  "text": "A museum in the Krkonoše Mountains dedicated to the tradition of herbalists and laboratory workers.",
+                  "category": "museum",
+                  "coords": [
+                        15.755303,
+                        50.765456
+                  ]
+            },
+            {
+                  "name": "Stříbrné návrší",
+                  "text": "A mountain peak in the Krkonoše Mountains, known for its high plateau and alpine vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        15.689657,
+                        50.742154
+                  ]
+            },
+            {
+                  "name": "Studniční hora",
+                  "text": "At 1,555 metres, it is one of the highest peaks in the Krkonoše Mountains, offering spectacular views.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70586,
+                        50.727106
+                  ]
+            },
+            {
+                  "name": "Luční hora",
+                  "text": "The second highest mountain in the Czech Republic, characterized by its barren summit.",
+                  "category": "landmark",
+                  "coords": [
+                        15.682756,
+                        50.727772
+                  ]
+            },
+            {
+                  "name": "Růžová hora",
+                  "text": "A prominent peak in the Krkonoše Mountains, connected by cable car to Sněžka.",
+                  "category": "landmark",
+                  "coords": [
+                        15.738944,
+                        50.720982
+                  ]
+            },
+            {
+                  "name": "Lesní hora",
+                  "text": "A forested peak in the eastern Krkonoše Mountains, ideal for nature hikes.",
+                  "category": "landmark",
+                  "coords": [
+                        15.712052,
+                        50.707528
+                  ]
+            },
+            {
+                  "name": "Jelení hora",
+                  "text": "A mountain in the Czech part of the Krkonoše Mountains, with forested slopes and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        15.780842,
+                        50.720391
+                  ]
+            },
+            {
+                  "name": "Śnieżka / Sněžka",
+                  "text": "The highest peak of the Krkonoše Mountains and a popular destination for hikers on the border.",
+                  "category": "landmark",
+                  "coords": [
+                        15.739607,
+                        50.736033
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park"},
@@ -50,7 +347,268 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-sumava-national-park-life-v2",
+    id: "czechrepublic-sumava-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "PP Pramen Vltavy",
+                  "text": "Ein Naturschutzgebiet, das die Quelle der Moldau im Böhmerwald schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.56139,
+                        48.97497
+                  ]
+            },
+            {
+                  "name": "Steinfleckberg",
+                  "text": "Ein Berggipfel im Nationalpark Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.522404,
+                        48.951276
+                  ]
+            },
+            {
+                  "name": "Kaltstaude",
+                  "text": "Die Studená hora ist ein Gipfel im tschechischen Nationalpark Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464444,
+                        48.979167
+                  ]
+            },
+            {
+                  "name": "Moorberg",
+                  "text": "Die Velká Mokrůvka ist ein markanter Berggipfel im Nationalpark Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.506405,
+                        48.95467
+                  ]
+            },
+            {
+                  "name": "Farrenberg",
+                  "text": "Der Farrenberg ist ein Gipfel in der Region des Nationalparks Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.541795,
+                        48.95769
+                  ]
+            },
+            {
+                  "name": "Moorkopf",
+                  "text": "Die Malá Mokrůvka ist ein Gipfel im tschechischen Teil des Böhmerwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        13.507449,
+                        48.969543
+                  ]
+            },
+            {
+                  "name": "Lovčí skála",
+                  "text": "Lovčí skála ist ein Flurkreuz im Nationalpark Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525662,
+                        49.013772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PP Pramen Vltavy",
+                  "text": "Természetvédelmi terület, amely a Moldva folyó forrását védi a Šumava-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        13.56139,
+                        48.97497
+                  ]
+            },
+            {
+                  "name": "Steinfleckberg",
+                  "text": "Hegycsúcs a Šumava Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.522404,
+                        48.951276
+                  ]
+            },
+            {
+                  "name": "Studená hora",
+                  "text": "A Studená hora egy hegycsúcs a cseh Šumava Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464444,
+                        48.979167
+                  ]
+            },
+            {
+                  "name": "Velká Mokrůvka",
+                  "text": "A Velká Mokrůvka egy jelentős hegycsúcs a Šumava Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.506405,
+                        48.95467
+                  ]
+            },
+            {
+                  "name": "Farrenberg",
+                  "text": "A Farrenberg egy hegycsúcs a Šumava Nemzeti Park régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.541795,
+                        48.95769
+                  ]
+            },
+            {
+                  "name": "Malá Mokrůvka",
+                  "text": "A Malá Mokrůvka egy hegycsúcs a Šumava hegység csehországi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.507449,
+                        48.969543
+                  ]
+            },
+            {
+                  "name": "Lovčí skála",
+                  "text": "A Lovčí skála egy útmenti kereszt a Šumava Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525662,
+                        49.013772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PP Pramen Vltavy",
+                  "text": "O rezervație naturală care protejează izvorul râului Vltava în Munții Šumava.",
+                  "category": "natural",
+                  "coords": [
+                        13.56139,
+                        48.97497
+                  ]
+            },
+            {
+                  "name": "Steinfleckberg",
+                  "text": "Un vârf de munte situat în Parcul Național Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.522404,
+                        48.951276
+                  ]
+            },
+            {
+                  "name": "Studená hora",
+                  "text": "Studená hora este un vârf muntos în Parcul Național Šumava din Cehia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464444,
+                        48.979167
+                  ]
+            },
+            {
+                  "name": "Velká Mokrůvka",
+                  "text": "Velká Mokrůvka este un vârf montan situat în Parcul Național Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.506405,
+                        48.95467
+                  ]
+            },
+            {
+                  "name": "Farrenberg",
+                  "text": "Farrenberg este un vârf montan din regiunea Parcului Național Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.541795,
+                        48.95769
+                  ]
+            },
+            {
+                  "name": "Malá Mokrůvka",
+                  "text": "Malá Mokrůvka este un vârf muntos în secțiunea cehă a Parcului Național Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.507449,
+                        48.969543
+                  ]
+            },
+            {
+                  "name": "Lovčí skála",
+                  "text": "Lovčí skála este o cruce de drum situată în Parcul Național Šumava.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525662,
+                        49.013772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PP Pramen Vltavy",
+                  "text": "A nature reserve protecting the source of the Vltava River in the Šumava Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        13.56139,
+                        48.97497
+                  ]
+            },
+            {
+                  "name": "Steinfleckberg",
+                  "text": "A mountain peak located within the Šumava National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.522404,
+                        48.951276
+                  ]
+            },
+            {
+                  "name": "Studená hora",
+                  "text": "Studená hora is a mountain peak located in the Šumava National Park, Czech Republic.",
+                  "category": "landmark",
+                  "coords": [
+                        13.464444,
+                        48.979167
+                  ]
+            },
+            {
+                  "name": "Velká Mokrůvka",
+                  "text": "Velká Mokrůvka is a prominent mountain peak in the Šumava National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.506405,
+                        48.95467
+                  ]
+            },
+            {
+                  "name": "Farrenberg",
+                  "text": "Farrenberg is a peak located in the Šumava National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.541795,
+                        48.95769
+                  ]
+            },
+            {
+                  "name": "Malá Mokrůvka",
+                  "text": "Malá Mokrůvka is a peak in the Czech part of the Šumava mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.507449,
+                        48.969543
+                  ]
+            },
+            {
+                  "name": "Lovčí skála",
+                  "text": "Lovčí skála is a wayside cross located in the Šumava National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525662,
+                        49.013772
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park"},
@@ -97,7 +655,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-podyji-national-park-life-v2",
+    id: "czechrepublic-podyji-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Eine mittelalterliche Burg über der Thaya im Nationalpark Podyjí an der österreichisch-tschechischen Grenze.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Ein Museum in Hardegg, das historische Guckkästen und traditionelle visuelle Unterhaltung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Ein Museum in Hardegg, das das traditionelle Handwerk der Perlmuttverarbeitung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Ein ehemaliges Zollhaus in Hardegg, das heute die lokale Grenzgeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Ein Waldbad in Hardegg, das Erholung im Freien inmitten des Nationalparks Podyjí bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die historische Stadt Hardegg und das Thayatal.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Gedenkobelisk im Nationalpark Podyjí, der an einen Ort von lokaler historischer Bedeutung erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            },
+            {
+                  "name": "Henner",
+                  "text": "Ein Aussichtspunkt im Nationalpark Podyjí, der für seinen Blick auf die Naturlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.864339,
+                        48.850396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "A Thaya folyóra néző középkori vár a Podyjí Nemzeti Parkban, az osztrák-cseh határon.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Múzeum Hardeggben, amely történelmi kukucskáló dobozokat és vizuális szórakoztató eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Speciális múzeum Hardeggben, amely a gyöngyház-megmunkálás hagyományos mesterségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Egykori vámszáz Hardeggben, amely a helyi határtörténetet bemutató múzeummá alakult.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Erdei strand Hardeggben, amely szabadtéri kikapcsolódást kínál a festői Podyjí Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik Hardegg történelmi városára és a Thaya-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Emlékobeliszk a Podyjí Nemzeti Parkban, amely egy helyi történelmi jelentőségű helyszínt jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            },
+            {
+                  "name": "Henner",
+                  "text": "Kilátópont a Podyjí Nemzeti Parkban, amely a környező természeti tájra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.864339,
+                        48.850396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Un castel medieval situat deasupra râului Thaya, în Parcul Național Podyjí, la granița austro-cehă.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Un muzeu în Hardegg care expune cutii optice istorice și divertisment vizual tradițional.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Un muzeu și atelier în Hardegg, care prezintă meșteșugul tradițional al prelucrării sidefului.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "O fostă vamă în Hardegg care a fost transformată într-un muzeu despre istoria locală a frontierei.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "O piscină în pădure în Hardegg, care oferă recreere în aer liber în Parcul Național Podyjí.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Un punct de observare care oferă vederi panoramice asupra orașului istoric Hardegg și a văii Thaya.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un obelisc comemorativ situat în Parcul Național Podyjí, marcând un sit de importanță istorică locală.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            },
+            {
+                  "name": "Henner",
+                  "text": "Un punct de belvedere în Parcul Național Podyjí, cunoscut pentru vederile sale asupra peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        15.864339,
+                        48.850396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "A medieval castle overlooking the Thaya river, situated in the Podyjí National Park on the Austrian-Czech border.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "A unique museum in Hardegg displaying historical peep boxes and traditional visual entertainment.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "A specialized museum and workshop in Hardegg showcasing the traditional craft of mother-of-pearl processing.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "A former customs house in Hardegg that has been converted into a museum about the local border history.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "A forest swimming pool in Hardegg providing outdoor recreation within the scenic Podyjí National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Hardegg vista",
+                  "text": "A scenic viewpoint offering panoramic vistas of the historic town of Hardegg and the Thaya valley.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A commemorative obelisk located in the Podyjí National Park, marking a site of local historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            },
+            {
+                  "name": "Henner",
+                  "text": "A vantage point in the Podyjí National Park known for its views of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.864339,
+                        48.850396
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park"},
@@ -519,7 +1374,268 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-usti-nad-labem-zoo-life-v2",
+    id: "czechrepublic-usti-nad-labem-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Severočeské divadlo opery a baletu",
+                  "text": "Das Nordböhmische Opern- und Balletttheater in Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.034608,
+                        50.660193
+                  ]
+            },
+            {
+                  "name": "Čínoherní studio",
+                  "text": "Ein Schauspieltheaterstudio in Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.048057,
+                        50.656305
+                  ]
+            },
+            {
+                  "name": "Schloss Schönpriesen",
+                  "text": "Ein historisches Schloss im Ortsteil Krásné Březno von Ústí nad Labem.",
+                  "category": "castle",
+                  "coords": [
+                        14.082586,
+                        50.666392
+                  ]
+            },
+            {
+                  "name": "PR Sluneční stráň",
+                  "text": "Ein Naturschutzgebiet zum Schutz der lokalen Flora und Fauna in Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.068125,
+                        50.633397
+                  ]
+            },
+            {
+                  "name": "NPP Vrkoč",
+                  "text": "Ein nationales Naturdenkmal, bekannt für seine einzigartigen Felsformationen in Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.046608,
+                        50.631196
+                  ]
+            },
+            {
+                  "name": "Burg Schreckenstein",
+                  "text": "Eine gut erhaltene Burgruine auf einem Felsen über der Elbe.",
+                  "category": "castle",
+                  "coords": [
+                        14.050941,
+                        50.639424
+                  ]
+            },
+            {
+                  "name": "ZOO Ústí nad Labem",
+                  "text": "Ein städtischer Zoo mit einer Vielzahl von Tierarten in Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.058711,
+                        50.666335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Severočeské divadlo opery a baletu",
+                  "text": "Észak-csehországi Opera- és Balettszínház Ústí nad Labemben.",
+                  "category": "cultural",
+                  "coords": [
+                        14.034608,
+                        50.660193
+                  ]
+            },
+            {
+                  "name": "Čínoherní studio",
+                  "text": "Prózai színházi stúdió Ústí nad Labemben.",
+                  "category": "cultural",
+                  "coords": [
+                        14.048057,
+                        50.656305
+                  ]
+            },
+            {
+                  "name": "Březnice",
+                  "text": "Történelmi kastély Ústí nad Labem Krásné Březno városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        14.082586,
+                        50.666392
+                  ]
+            },
+            {
+                  "name": "PR Sluneční stráň",
+                  "text": "Természetvédelmi terület a helyi növény- és állatvilág védelmére Ústí nad Labemben.",
+                  "category": "natural",
+                  "coords": [
+                        14.068125,
+                        50.633397
+                  ]
+            },
+            {
+                  "name": "NPP Vrkoč",
+                  "text": "Nemzeti természeti emlékhely Ústí nad Labemben, amely különleges sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.046608,
+                        50.631196
+                  ]
+            },
+            {
+                  "name": "Hrad Střekov",
+                  "text": "Jól konzervált várrom az Elba feletti sziklán.",
+                  "category": "castle",
+                  "coords": [
+                        14.050941,
+                        50.639424
+                  ]
+            },
+            {
+                  "name": "ZOO Ústí nad Labem",
+                  "text": "Városi állatkert számos állatfajjal Ústí nad Labemben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.058711,
+                        50.666335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Severočeské divadlo opery a baletu",
+                  "text": "Teatrul de Operă și Balet din Boemia de Nord situat în Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.034608,
+                        50.660193
+                  ]
+            },
+            {
+                  "name": "Čínoherní studio",
+                  "text": "Un studio de teatru dramatic situat în Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.048057,
+                        50.656305
+                  ]
+            },
+            {
+                  "name": "Březnice",
+                  "text": "Un castel istoric situat în districtul Krásné Březno din Ústí nad Labem.",
+                  "category": "castle",
+                  "coords": [
+                        14.082586,
+                        50.666392
+                  ]
+            },
+            {
+                  "name": "PR Sluneční stráň",
+                  "text": "O rezervație naturală care protejează flora și fauna locală în Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.068125,
+                        50.633397
+                  ]
+            },
+            {
+                  "name": "NPP Vrkoč",
+                  "text": "Un monument natural național cunoscut pentru formațiunile sale stâncoase unice din Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.046608,
+                        50.631196
+                  ]
+            },
+            {
+                  "name": "Hrad Střekov",
+                  "text": "O ruină de castel bine conservată, situată pe o stâncă deasupra râului Elba.",
+                  "category": "castle",
+                  "coords": [
+                        14.050941,
+                        50.639424
+                  ]
+            },
+            {
+                  "name": "ZOO Ústí nad Labem",
+                  "text": "O grădină zoologică municipală care găzduiește o varietate de specii de animale în Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.058711,
+                        50.666335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Severočeské divadlo opery a baletu",
+                  "text": "The North Bohemian Opera and Ballet Theatre located in Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.034608,
+                        50.660193
+                  ]
+            },
+            {
+                  "name": "Čínoherní studio",
+                  "text": "A drama theatre studio situated in Ústí nad Labem.",
+                  "category": "cultural",
+                  "coords": [
+                        14.048057,
+                        50.656305
+                  ]
+            },
+            {
+                  "name": "Březnice",
+                  "text": "A historic castle located in the Krásné Březno district of Ústí nad Labem.",
+                  "category": "castle",
+                  "coords": [
+                        14.082586,
+                        50.666392
+                  ]
+            },
+            {
+                  "name": "PR Sluneční stráň",
+                  "text": "A nature reserve protecting local flora and fauna in Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.068125,
+                        50.633397
+                  ]
+            },
+            {
+                  "name": "NPP Vrkoč",
+                  "text": "A national natural monument known for its unique rock formations in Ústí nad Labem.",
+                  "category": "natural",
+                  "coords": [
+                        14.046608,
+                        50.631196
+                  ]
+            },
+            {
+                  "name": "Hrad Střekov",
+                  "text": "A well-preserved castle ruin perched on a cliff overlooking the Elbe River.",
+                  "category": "castle",
+                  "coords": [
+                        14.050941,
+                        50.639424
+                  ]
+            },
+            {
+                  "name": "ZOO Ústí nad Labem",
+                  "text": "A municipal zoo featuring a variety of animal species in Ústí nad Labem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.058711,
+                        50.666335
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo"},
@@ -566,7 +1682,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-pruhonice-park-life-v2",
+    id: "czechrepublic-pruhonice-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Dobřejovice",
+                  "text": "Ein historisches Schloss in Dobřejovice in der Nähe des Průhonice-Parks.",
+                  "category": "castle",
+                  "coords": [
+                        14.579203,
+                        49.982515
+                  ]
+            },
+            {
+                  "name": "přírodní památka Pitkovická stráň",
+                  "text": "Ein Naturdenkmal bei Prag, bekannt für seine geschützte Steppenvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        14.573248,
+                        50.024405
+                  ]
+            },
+            {
+                  "name": "přírodní památka Hrnčířské louky",
+                  "text": "Ein Naturschutzgebiet mit geschützten Feuchtwiesen und seltener Flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.511061,
+                        50.004855
+                  ]
+            },
+            {
+                  "name": "přírodní památka Milíčovský les a rybníky",
+                  "text": "Ein weitläufiges Wald- und Teichgebiet, das als Naturdenkmal geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.537246,
+                        50.021562
+                  ]
+            },
+            {
+                  "name": "Botanisches Institut der Tschechischen Akademie der Wissenschaften",
+                  "text": "Das Schloss Průhonice beherbergt das Botanische Institut der Akademie der Wissenschaften.",
+                  "category": "castle",
+                  "coords": [
+                        14.557416,
+                        50.000471
+                  ]
+            },
+            {
+                  "name": "zámek Petrovice",
+                  "text": "Ein historisches Barockschloss im Prager Stadtteil Petrovice.",
+                  "category": "castle",
+                  "coords": [
+                        14.556096,
+                        50.03329
+                  ]
+            },
+            {
+                  "name": "Funpark Žirafa",
+                  "text": "Ein großer Indoor-Freizeitpark für Familien in der Nähe von Průhonice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.576848,
+                        50.000292
+                  ]
+            },
+            {
+                  "name": "Zoopark Milíčov",
+                  "text": "Ein kleinerer Tierpark in Prag, der sich auf heimische Nutztierrassen konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.539689,
+                        50.027926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Dobřejovice",
+                  "text": "Történelmi kastély Dobřejovicében, a Průhonicei park közelében.",
+                  "category": "castle",
+                  "coords": [
+                        14.579203,
+                        49.982515
+                  ]
+            },
+            {
+                  "name": "přírodní památka Pitkovická stráň",
+                  "text": "Prága közeli természeti emlékhely, amely védett sztyeppei növényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.573248,
+                        50.024405
+                  ]
+            },
+            {
+                  "name": "přírodní památka Hrnčířské louky",
+                  "text": "Védett nedves rétekből álló természetvédelmi terület ritka növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        14.511061,
+                        50.004855
+                  ]
+            },
+            {
+                  "name": "přírodní památka Milíčovský les a rybníky",
+                  "text": "Kiterjedt erdős és tavakkal tarkított terület, amely természeti emlékvédelem alatt áll.",
+                  "category": "natural",
+                  "coords": [
+                        14.537246,
+                        50.021562
+                  ]
+            },
+            {
+                  "name": "Botanický ústav AV ČR",
+                  "text": "A Průhonicei kastély a Cseh Tudományos Akadémia Botanikai Intézetének ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        14.557416,
+                        50.000471
+                  ]
+            },
+            {
+                  "name": "zámek Petrovice",
+                  "text": "Történelmi barokk kastély Prága Petrovice városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        14.556096,
+                        50.03329
+                  ]
+            },
+            {
+                  "name": "Funpark Žirafa",
+                  "text": "Nagy fedett szabadidőpark családok számára Průhonice közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.576848,
+                        50.000292
+                  ]
+            },
+            {
+                  "name": "Zoopark Milíčov",
+                  "text": "Kisebb állatpark Prágában, amely elsősorban háziállatok bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        14.539689,
+                        50.027926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Dobřejovice",
+                  "text": "Un castel istoric în Dobřejovice, situat în apropierea parcului Průhonice.",
+                  "category": "castle",
+                  "coords": [
+                        14.579203,
+                        49.982515
+                  ]
+            },
+            {
+                  "name": "přírodní památka Pitkovická stráň",
+                  "text": "Monument natural lângă Praga, renumit pentru vegetația sa de stepă protejată.",
+                  "category": "natural",
+                  "coords": [
+                        14.573248,
+                        50.024405
+                  ]
+            },
+            {
+                  "name": "přírodní památka Hrnčířské louky",
+                  "text": "Rezervație naturală ce cuprinde pajiști umede protejate și o floră rară.",
+                  "category": "natural",
+                  "coords": [
+                        14.511061,
+                        50.004855
+                  ]
+            },
+            {
+                  "name": "přírodní památka Milíčovský les a rybníky",
+                  "text": "O zonă vastă de păduri și iazuri, protejată ca monument al naturii.",
+                  "category": "natural",
+                  "coords": [
+                        14.537246,
+                        50.021562
+                  ]
+            },
+            {
+                  "name": "Botanický ústav AV ČR",
+                  "text": "Castelul Průhonice găzduiește Institutul de Botanică al Academiei de Științe.",
+                  "category": "castle",
+                  "coords": [
+                        14.557416,
+                        50.000471
+                  ]
+            },
+            {
+                  "name": "zámek Petrovice",
+                  "text": "Un castel baroc istoric situat în cartierul Petrovice din Praga.",
+                  "category": "castle",
+                  "coords": [
+                        14.556096,
+                        50.03329
+                  ]
+            },
+            {
+                  "name": "Funpark Žirafa",
+                  "text": "Un parc de distracții interior mare pentru familii, lângă Průhonice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.576848,
+                        50.000292
+                  ]
+            },
+            {
+                  "name": "Zoopark Milíčov",
+                  "text": "Un parc zoologic mai mic din Praga, concentrat pe rase de animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.539689,
+                        50.027926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Dobřejovice",
+                  "text": "A historical castle in Dobřejovice, located near the Průhonice Park.",
+                  "category": "castle",
+                  "coords": [
+                        14.579203,
+                        49.982515
+                  ]
+            },
+            {
+                  "name": "přírodní památka Pitkovická stráň",
+                  "text": "A natural monument near Prague, known for its protected steppe vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        14.573248,
+                        50.024405
+                  ]
+            },
+            {
+                  "name": "přírodní památka Hrnčířské louky",
+                  "text": "A nature reserve featuring protected wet meadows and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.511061,
+                        50.004855
+                  ]
+            },
+            {
+                  "name": "přírodní památka Milíčovský les a rybníky",
+                  "text": "An extensive area of forest and ponds, protected as a natural monument.",
+                  "category": "natural",
+                  "coords": [
+                        14.537246,
+                        50.021562
+                  ]
+            },
+            {
+                  "name": "Institute of Botany of the CAS",
+                  "text": "The Průhonice Castle houses the Institute of Botany of the Academy of Sciences.",
+                  "category": "castle",
+                  "coords": [
+                        14.557416,
+                        50.000471
+                  ]
+            },
+            {
+                  "name": "zámek Petrovice",
+                  "text": "A historical Baroque castle in the Petrovice district of Prague.",
+                  "category": "castle",
+                  "coords": [
+                        14.556096,
+                        50.03329
+                  ]
+            },
+            {
+                  "name": "Funpark Žirafa",
+                  "text": "A large indoor amusement park for families near Průhonice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.576848,
+                        50.000292
+                  ]
+            },
+            {
+                  "name": "Zoopark Milíčov",
+                  "text": "A smaller zoo in Prague, focusing on domestic animal breeds.",
+                  "category": "recreational",
+                  "coords": [
+                        14.539689,
+                        50.027926
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park"},
@@ -613,7 +2026,196 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-trebon-fishponds-life-v2",
+    id: "czechrepublic-trebon-fishponds-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Ein prächtiges Renaissanceschloss in Třeboň, das einst als Residenz der Adelsfamilien Rosenberg und Schwarzenberg diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "Ein Naturschutzgebiet im Třeboň-Becken, das durch seine alten Eichenbestände geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "Ein historisches Augustinerkloster in Třeboň, das für seine gotische Architektur und spirituelle Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Ein spezialisiertes Museum in Třeboň, das die Tradition der Marzipanherstellung und Schokolade zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Historische hölzerne Heuschober am Stadtrand von Třeboň, die als technisches Denkmal geschützt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Impozáns reneszánsz kastély Třeboňban, amely egykor a Rosenberg és a Schwarzenberg családok rezidenciája volt.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "Természetvédelmi terület a Třeboňi-medencében, amelyet öreg tölgyesek jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "Történelmi ágoston-rendi kolostor Třeboňban, amely gótikus építészetéről és spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Speciális múzeum Třeboňban, amely a marcipánkészítés és a csokoládé hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Történelmi fa szénatárolók Třeboň szélén, amelyek technikai műemlékként védettek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Un castel renascentist magnific în Třeboň, care a servit drept reședință familiilor nobiliare Rosenberg și Schwarzenberg.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "O rezervație naturală în bazinul Třeboň, caracterizată prin stejari seculari.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "O mănăstire augustiniană istorică din Třeboň, cunoscută pentru arhitectura sa gotică și importanța spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Un muzeu specializat din Třeboň care prezintă tradiția fabricării marțipanului și a ciocolatei.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Suri de fân istorice din lemn la marginea orașului Třeboň, protejate ca monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "A magnificent Renaissance castle in Třeboň, formerly a residence of the Rosenberg and Schwarzenberg noble families.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "A nature reserve in the Třeboň basin characterized by its stands of ancient oak trees.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "A historical Augustinian monastery in Třeboň known for its Gothic architecture and spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "A specialized museum in Třeboň dedicated to the tradition of marzipan making and chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Historical wooden hay barns on the outskirts of Třeboň, protected as a technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds"},
@@ -660,7 +2262,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-palava-reserve-life-v2",
+    id: "czechrepublic-palava-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archeopark Pavlov",
+                  "text": "Ein modernes archäologisches Museum, das sich der paläolithischen Siedlung der Mammutjäger widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.674734,
+                        48.877196
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Děvín – Kotel – Soutěska",
+                  "text": "Ein bedeutendes Naturschutzgebiet in den Pollauer Bergen mit Kalksteinfelsen und Steppenvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.647911,
+                        48.86771
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Tabulová",
+                  "text": "Ein Naturschutzgebiet auf einem markanten Kalksteinplateau im Biosphärenreservat Pálava.",
+                  "category": "natural",
+                  "coords": [
+                        16.636568,
+                        48.842841
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Kalendář věků",
+                  "text": "Ein Naturdenkmal bei Dolní Věstonice, bekannt für seine bedeutenden archäologischen Löss-Profile.",
+                  "category": "natural",
+                  "coords": [
+                        16.653884,
+                        48.886443
+                  ]
+            },
+            {
+                  "name": "Maidenburg",
+                  "text": "Eine malerische Burgruine auf einem Felsen über dem Stausee Nové Mlýny.",
+                  "category": "castle",
+                  "coords": [
+                        16.661911,
+                        48.875933
+                  ]
+            },
+            {
+                  "name": "Dům přírody Pálavy",
+                  "text": "Ein Besucherzentrum, das über die Natur und Landschaft des Biosphärenreservats Pálava informiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.643758,
+                        48.888086
+                  ]
+            },
+            {
+                  "name": "Coffee Museum",
+                  "text": "Ein kleines Museum, das der Geschichte und Kultur des Kaffeetrinkens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.644627,
+                        48.843516
+                  ]
+            },
+            {
+                  "name": "Obora",
+                  "text": "Ein Berggipfel in der Hügellandschaft des Biosphärenreservats Pálava.",
+                  "category": "landmark",
+                  "coords": [
+                        16.637985,
+                        48.863851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archeopark Pavlov",
+                  "text": "Modern régészeti múzeum, amely a paleolitikumi mamutvadászok települését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.674734,
+                        48.877196
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Děvín – Kotel – Soutěska",
+                  "text": "Jelentős természetvédelmi terület a Pálava-hegységben, mészkősziklákkal és sztyeppei növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        16.647911,
+                        48.86771
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Tabulová",
+                  "text": "Természetvédelmi terület egy jellegzetes mészkőfennsíkon a Pálava bioszféra-rezervátumban.",
+                  "category": "natural",
+                  "coords": [
+                        16.636568,
+                        48.842841
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Kalendář věků",
+                  "text": "Természeti emlékhely Dolní Věstonice közelében, amely jelentős régészeti löszszelvényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.653884,
+                        48.886443
+                  ]
+            },
+            {
+                  "name": "Děvičky",
+                  "text": "Festői várrom egy sziklán a Nové Mlýny-víztározó felett.",
+                  "category": "castle",
+                  "coords": [
+                        16.661911,
+                        48.875933
+                  ]
+            },
+            {
+                  "name": "Dům přírody Pálavy",
+                  "text": "Látogatóközpont, amely bemutatja a Pálava bioszféra-rezervátum természetét és táját.",
+                  "category": "museum",
+                  "coords": [
+                        16.643758,
+                        48.888086
+                  ]
+            },
+            {
+                  "name": "Coffee Museum",
+                  "text": "Apró múzeum, amely a kávézás történetének és kultúrájának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        16.644627,
+                        48.843516
+                  ]
+            },
+            {
+                  "name": "Obora",
+                  "text": "Hegyi csúcs a Pálava bioszféra-rezervátum dombos vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.637985,
+                        48.863851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archeopark Pavlov",
+                  "text": "Un muzeu arheologic modern dedicat așezării paleolitice a vânătorilor de mamuți.",
+                  "category": "museum",
+                  "coords": [
+                        16.674734,
+                        48.877196
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Děvín – Kotel – Soutěska",
+                  "text": "O rezervație naturală importantă în Munții Pálava, cu stânci de calcar și vegetație de stepă.",
+                  "category": "natural",
+                  "coords": [
+                        16.647911,
+                        48.86771
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Tabulová",
+                  "text": "O rezervație naturală situată pe un platou calcaros proeminent în Rezervația Biosferei Pálava.",
+                  "category": "natural",
+                  "coords": [
+                        16.636568,
+                        48.842841
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Kalendář věků",
+                  "text": "Un monument natural lângă Dolní Věstonice, cunoscut pentru profilurile sale loessice importante arheologic.",
+                  "category": "natural",
+                  "coords": [
+                        16.653884,
+                        48.886443
+                  ]
+            },
+            {
+                  "name": "Děvičky",
+                  "text": "Ruinele pitorești ale unui castel situat pe o stâncă deasupra lacului de acumulare Nové Mlýny.",
+                  "category": "castle",
+                  "coords": [
+                        16.661911,
+                        48.875933
+                  ]
+            },
+            {
+                  "name": "Dům přírody Pálavy",
+                  "text": "Un centru de vizitare care oferă informații despre natura și peisajul Rezervației Biosferei Pálava.",
+                  "category": "museum",
+                  "coords": [
+                        16.643758,
+                        48.888086
+                  ]
+            },
+            {
+                  "name": "Coffee Museum",
+                  "text": "Un mic muzeu dedicat istoriei și culturii consumului de cafea.",
+                  "category": "museum",
+                  "coords": [
+                        16.644627,
+                        48.843516
+                  ]
+            },
+            {
+                  "name": "Obora",
+                  "text": "Un vârf montan în peisajul deluros al Rezervației Biosferei Pálava.",
+                  "category": "landmark",
+                  "coords": [
+                        16.637985,
+                        48.863851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeopark Pavlov",
+                  "text": "A modern archaeological museum dedicated to the Paleolithic settlement of mammoth hunters.",
+                  "category": "museum",
+                  "coords": [
+                        16.674734,
+                        48.877196
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Děvín – Kotel – Soutěska",
+                  "text": "A major nature reserve in the Pálava Hills featuring limestone cliffs and steppe vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.647911,
+                        48.86771
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Tabulová",
+                  "text": "A nature reserve situated on a prominent limestone plateau within the Pálava Biosphere Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        16.636568,
+                        48.842841
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Kalendář věků",
+                  "text": "A natural monument near Dolní Věstonice, known for its archaeologically significant loess profiles.",
+                  "category": "natural",
+                  "coords": [
+                        16.653884,
+                        48.886443
+                  ]
+            },
+            {
+                  "name": "Děvičky",
+                  "text": "The picturesque ruins of a castle perched on a cliff above the Nové Mlýny reservoir.",
+                  "category": "castle",
+                  "coords": [
+                        16.661911,
+                        48.875933
+                  ]
+            },
+            {
+                  "name": "Dům přírody Pálavy",
+                  "text": "A visitor center providing information about the nature and landscape of the Pálava Biosphere Reserve.",
+                  "category": "museum",
+                  "coords": [
+                        16.643758,
+                        48.888086
+                  ]
+            },
+            {
+                  "name": "Coffee Museum",
+                  "text": "A small museum dedicated to the history and culture of coffee drinking.",
+                  "category": "museum",
+                  "coords": [
+                        16.644627,
+                        48.843516
+                  ]
+            },
+            {
+                  "name": "Obora",
+                  "text": "A mountain peak in the hilly landscape of the Pálava Biosphere Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        16.637985,
+                        48.863851
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve"},
@@ -754,7 +2653,268 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-soos-reserve-life-v2",
+    id: "czechrepublic-soos-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geofyzikální expozice Skalná",
+                  "text": "Ein Museum, das sich mit Geophysik und seismischen Aktivitäten befasst.",
+                  "category": "museum",
+                  "coords": [
+                        12.364887,
+                        50.172169
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Soos",
+                  "text": "Ein einzigartiges Moorgebiet mit Mineralquellen und Gasaustritten.",
+                  "category": "natural",
+                  "coords": [
+                        12.410461,
+                        50.150046
+                  ]
+            },
+            {
+                  "name": "Děvín",
+                  "text": "Ein Naturschutzgebiet, das für seine ökologische Bedeutung geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.427055,
+                        50.160719
+                  ]
+            },
+            {
+                  "name": "Rozhledna Zámeček",
+                  "text": "Ein Aussichtsturm, der in einem historisierenden burgähnlichen Stil erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        12.368106,
+                        50.119763
+                  ]
+            },
+            {
+                  "name": "Soos",
+                  "text": "Ein Naturphänomen mit sprudelnden Mofetten und seltenen Moorpflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.402563,
+                        50.146383
+                  ]
+            },
+            {
+                  "name": "Motýlí dům",
+                  "text": "Eine Attraktion, in der Besucher verschiedene Schmetterlingsarten beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        12.368239,
+                        50.139247
+                  ]
+            },
+            {
+                  "name": "Mofette \"Bublák\"",
+                  "text": "Ein natürlicher Gasaustritt, an dem Kohlendioxid aus dem Boden sprudelt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.454136,
+                        50.142883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geofyzikální expozice Skalná",
+                  "text": "A geofizikával és szeizmikus tevékenységekkel foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.364887,
+                        50.172169
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Soos",
+                  "text": "Egyedülálló lápos terület ásványvízforrásokkal és gázfeltörésekkel.",
+                  "category": "natural",
+                  "coords": [
+                        12.410461,
+                        50.150046
+                  ]
+            },
+            {
+                  "name": "Děvín",
+                  "text": "Ökológiai jelentősége miatt védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        12.427055,
+                        50.160719
+                  ]
+            },
+            {
+                  "name": "Rozhledna Zámeček",
+                  "text": "Historizáló, várszerű stílusban épült kilátótorony.",
+                  "category": "castle",
+                  "coords": [
+                        12.368106,
+                        50.119763
+                  ]
+            },
+            {
+                  "name": "Soos",
+                  "text": "Természeti jelenség bugyborékoló mofettákkal és ritka lápi növényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.402563,
+                        50.146383
+                  ]
+            },
+            {
+                  "name": "Motýlí dům",
+                  "text": "Látványosság, ahol a látogatók különféle pillangófajokat figyelhetnek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.368239,
+                        50.139247
+                  ]
+            },
+            {
+                  "name": "Bublák",
+                  "text": "Természetes gázfeltörés, ahol szén-dioxid bugyborékol fel a talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        12.454136,
+                        50.142883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geofyzikální expozice Skalná",
+                  "text": "Un muzeu dedicat geofizicii și activităților seismice.",
+                  "category": "museum",
+                  "coords": [
+                        12.364887,
+                        50.172169
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Soos",
+                  "text": "O zonă unică de turbărie cu izvoare minerale și emanații de gaze.",
+                  "category": "natural",
+                  "coords": [
+                        12.410461,
+                        50.150046
+                  ]
+            },
+            {
+                  "name": "Děvín",
+                  "text": "O rezervație naturală protejată pentru importanța sa ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        12.427055,
+                        50.160719
+                  ]
+            },
+            {
+                  "name": "Rozhledna Zámeček",
+                  "text": "Un turn de observație construit într-un stil istoric asemănător unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        12.368106,
+                        50.119763
+                  ]
+            },
+            {
+                  "name": "Soos",
+                  "text": "Un fenomen natural cu mofete și plante rare de mlaștină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.402563,
+                        50.146383
+                  ]
+            },
+            {
+                  "name": "Motýlí dům",
+                  "text": "O atracție unde vizitatorii pot observa diverse specii de fluturi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.368239,
+                        50.139247
+                  ]
+            },
+            {
+                  "name": "Bublák",
+                  "text": "O emanație naturală de gaz unde dioxidul de carbon bolborosește din pământ.",
+                  "category": "landmark",
+                  "coords": [
+                        12.454136,
+                        50.142883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geofyzikální expozice Skalná",
+                  "text": "A museum focused on geophysics and seismic activity.",
+                  "category": "museum",
+                  "coords": [
+                        12.364887,
+                        50.172169
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Soos",
+                  "text": "A unique peat bog area with mineral springs and gas vents.",
+                  "category": "natural",
+                  "coords": [
+                        12.410461,
+                        50.150046
+                  ]
+            },
+            {
+                  "name": "Děvín",
+                  "text": "A nature reserve protected for its ecological importance.",
+                  "category": "natural",
+                  "coords": [
+                        12.427055,
+                        50.160719
+                  ]
+            },
+            {
+                  "name": "Rozhledna Zámeček",
+                  "text": "An observation tower built in a historicist castle-like style.",
+                  "category": "castle",
+                  "coords": [
+                        12.368106,
+                        50.119763
+                  ]
+            },
+            {
+                  "name": "Soos",
+                  "text": "A natural phenomenon with bubbling mofettes and rare bog plants.",
+                  "category": "landmark",
+                  "coords": [
+                        12.402563,
+                        50.146383
+                  ]
+            },
+            {
+                  "name": "Motýlí dům",
+                  "text": "An attraction where visitors can observe various butterfly species.",
+                  "category": "landmark",
+                  "coords": [
+                        12.368239,
+                        50.139247
+                  ]
+            },
+            {
+                  "name": "Bublák",
+                  "text": "A natural gas vent where carbon dioxide bubbles up from the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        12.454136,
+                        50.142883
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "park",
     name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve"},
@@ -801,7 +2961,232 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-boubin-primeval-forest-life-v2",
+    id: "czechrepublic-boubin-primeval-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturreservat Kubany-Urwald",
+                  "text": "Der Boubínský prales ist ein bedeutendes Urwaldreservat im Böhmerwald.",
+                  "category": "natural",
+                  "coords": [
+                        13.811555,
+                        48.979542
+                  ]
+            },
+            {
+                  "name": "Milešický prales",
+                  "text": "Der Milešický prales ist ein geschütztes Urwaldgebiet im Böhmerwald.",
+                  "category": "natural",
+                  "coords": [
+                        13.838713,
+                        48.984908
+                  ]
+            },
+            {
+                  "name": "Hornovltavické pastviny",
+                  "text": "Hornovltavické pastviny ist ein Naturreservat mit wertvollen Bergwiesen im Böhmerwald.",
+                  "category": "natural",
+                  "coords": [
+                        13.774236,
+                        48.977544
+                  ]
+            },
+            {
+                  "name": "PP Jilmová skála",
+                  "text": "Jilmová skála ist ein Naturreservat, das für seine Felsformationen und Bergmischwälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.797617,
+                        48.953645
+                  ]
+            },
+            {
+                  "name": "PR Zátoňská hora",
+                  "text": "Ein Naturschutzgebiet am Hang des Berges Zátoňská hora im Gebiet des Boubíner Urwalds.",
+                  "category": "natural",
+                  "coords": [
+                        13.828955,
+                        48.944357
+                  ]
+            },
+            {
+                  "name": "Kubany",
+                  "text": "Ein markanter Gipfel im Böhmerwald, der für seinen Aussichtsturm und den angrenzenden Urwald bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817523,
+                        48.991231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "národní přírodní rezervace Boubínský prales",
+                  "text": "A Boubínský prales a Cseh-erdő egyik legjelentősebb őserdő-rezervátuma.",
+                  "category": "natural",
+                  "coords": [
+                        13.811555,
+                        48.979542
+                  ]
+            },
+            {
+                  "name": "Milešický prales",
+                  "text": "A Milešický prales egy védett őserdőterület a Cseh-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        13.838713,
+                        48.984908
+                  ]
+            },
+            {
+                  "name": "Hornovltavické pastviny",
+                  "text": "A Hornovltavické pastviny egy természetvédelmi terület értékes hegyi legelőkkel a Cseh-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        13.774236,
+                        48.977544
+                  ]
+            },
+            {
+                  "name": "PP Jilmová skála",
+                  "text": "A Jilmová skála egy természetvédelmi terület, amely sziklaalakzatairól és hegyi erdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.797617,
+                        48.953645
+                  ]
+            },
+            {
+                  "name": "PR Zátoňská hora",
+                  "text": "Természetvédelmi terület a Zátoňská hora hegy lejtőjén, a Boubín-őserdő vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.828955,
+                        48.944357
+                  ]
+            },
+            {
+                  "name": "Boubín",
+                  "text": "A Šumava-hegység kiemelkedő csúcsa, amely kilátójáról és a szomszédos őserdőről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817523,
+                        48.991231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "národní přírodní rezervace Boubínský prales",
+                  "text": "Boubínský prales este o importantă rezervație de pădure virgină din Munții Șumava.",
+                  "category": "natural",
+                  "coords": [
+                        13.811555,
+                        48.979542
+                  ]
+            },
+            {
+                  "name": "Milešický prales",
+                  "text": "Milešický prales este o zonă protejată de pădure virgină din Munții Șumava.",
+                  "category": "natural",
+                  "coords": [
+                        13.838713,
+                        48.984908
+                  ]
+            },
+            {
+                  "name": "Hornovltavické pastviny",
+                  "text": "Hornovltavické pastviny este o rezervație naturală cu pășuni montane valoroase în Munții Șumava.",
+                  "category": "natural",
+                  "coords": [
+                        13.774236,
+                        48.977544
+                  ]
+            },
+            {
+                  "name": "PP Jilmová skála",
+                  "text": "Jilmová skála este o rezervație naturală cunoscută pentru formațiunile stâncoase și pădurile montane.",
+                  "category": "natural",
+                  "coords": [
+                        13.797617,
+                        48.953645
+                  ]
+            },
+            {
+                  "name": "PR Zátoňská hora",
+                  "text": "O rezervație naturală situată pe versantul muntelui Zátoňská hora, în zona Pădurii Virgine Boubín.",
+                  "category": "natural",
+                  "coords": [
+                        13.828955,
+                        48.944357
+                  ]
+            },
+            {
+                  "name": "Boubín",
+                  "text": "Un vârf proeminent din munții Šumava, cunoscut pentru turnul de observație și pădurea virgină adiacentă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817523,
+                        48.991231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "národní přírodní rezervace Boubínský prales",
+                  "text": "Boubínský prales is a significant primeval forest reserve in the Bohemian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.811555,
+                        48.979542
+                  ]
+            },
+            {
+                  "name": "Milešický prales",
+                  "text": "Milešický prales is a protected primeval forest area in the Bohemian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.838713,
+                        48.984908
+                  ]
+            },
+            {
+                  "name": "Hornovltavické pastviny",
+                  "text": "Hornovltavické pastviny is a nature reserve featuring valuable mountain pastures in the Bohemian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.774236,
+                        48.977544
+                  ]
+            },
+            {
+                  "name": "PP Jilmová skála",
+                  "text": "Jilmová skála is a nature reserve known for its rock formations and mountain forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.797617,
+                        48.953645
+                  ]
+            },
+            {
+                  "name": "PR Zátoňská hora",
+                  "text": "A nature reserve on the slopes of Zátoňská hora mountain in the Boubín Primeval Forest area.",
+                  "category": "natural",
+                  "coords": [
+                        13.828955,
+                        48.944357
+                  ]
+            },
+            {
+                  "name": "Boubín",
+                  "text": "A prominent peak in the Šumava mountains, known for its observation tower and adjacent primeval forest.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817523,
+                        48.991231
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "forest",
     name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest"},
@@ -848,7 +3233,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-adrspach-teplice-rocks-life-v2",
+    id: "czechrepublic-adrspach-teplice-rocks-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturreservat Adersbach-Weckelsdorfer Felsenstadt",
+                  "text": "Nationales Naturreservat, das für seine beeindruckenden Sandsteinfelsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.12636,
+                        50.594986
+                  ]
+            },
+            {
+                  "name": "PP Borek",
+                  "text": "Naturdenkmal in den Adersbach-Weckelsdorfer Felsen mit wertvollen geologischen Formationen.",
+                  "category": "natural",
+                  "coords": [
+                        16.153895,
+                        50.596858
+                  ]
+            },
+            {
+                  "name": "Zámek Adršpach",
+                  "text": "Ein Renaissanceschloss in der Nähe der berühmten Felsenstadt Adersbach.",
+                  "category": "castle",
+                  "coords": [
+                        16.110856,
+                        50.61894
+                  ]
+            },
+            {
+                  "name": "PR Křížová cesta",
+                  "text": "Naturreservat in den Adersbach-Weckelsdorfer Felsen mit markanten Sandsteinformationen.",
+                  "category": "natural",
+                  "coords": [
+                        16.128481,
+                        50.622103
+                  ]
+            },
+            {
+                  "name": "Adersbach-Weckelsdorfer Felsenstadt",
+                  "text": "Eine der bekanntesten Felsenstädte Mitteleuropas mit bizarren Sandsteintürmen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.122671,
+                        50.61537
+                  ]
+            },
+            {
+                  "name": "Burg Adersbach",
+                  "text": "Ruine einer mittelalterlichen Felsenburg im Gebiet der Adersbacher Felsen.",
+                  "category": "historical",
+                  "coords": [
+                        16.100223,
+                        50.617397
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Střmen",
+                  "text": "Ruine einer ehemaligen Wachburg auf einem hohen Felsen in den Weckelsdorfer Felsen.",
+                  "category": "historical",
+                  "coords": [
+                        16.138281,
+                        50.594303
+                  ]
+            },
+            {
+                  "name": "Teplická jeskyně",
+                  "text": "Höhleneingang im Gebiet der Weckelsdorfer Felsen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.140803,
+                        50.593518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NPR Adršpašsko-teplické skály",
+                  "text": "Lenyűgöző homokkő sziklaalakzatairól ismert nemzeti természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        16.12636,
+                        50.594986
+                  ]
+            },
+            {
+                  "name": "PP Borek",
+                  "text": "Természeti emlék az Adršpach-Teplice szikláknál, értékes földtani alakzatokkal.",
+                  "category": "natural",
+                  "coords": [
+                        16.153895,
+                        50.596858
+                  ]
+            },
+            {
+                  "name": "Zámek Adršpach",
+                  "text": "Reneszánsz kastély a híres Adršpach sziklaváros közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.110856,
+                        50.61894
+                  ]
+            },
+            {
+                  "name": "PR Křížová cesta",
+                  "text": "Természetvédelmi terület az Adršpach-Teplice szikláknál, jellegzetes homokkő alakzatokkal.",
+                  "category": "natural",
+                  "coords": [
+                        16.128481,
+                        50.622103
+                  ]
+            },
+            {
+                  "name": "Adršpašsko-teplické skály",
+                  "text": "Közép-Európa egyik legismertebb sziklavárosa bizarr homokkő tornyokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        16.122671,
+                        50.61537
+                  ]
+            },
+            {
+                  "name": "Hrad Adršpach",
+                  "text": "Középkori sziklavár romjai az Adršpach-sziklák területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.100223,
+                        50.617397
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Střmen",
+                  "text": "Egykori őrvár romjai egy magas sziklán a Teplice-sziklák területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.138281,
+                        50.594303
+                  ]
+            },
+            {
+                  "name": "Teplická jeskyně",
+                  "text": "Barlangbejárat a Teplice-sziklák területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.140803,
+                        50.593518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NPR Adršpašsko-teplické skály",
+                  "text": "O rezervație naturală națională cunoscută pentru formațiunile sale impresionante de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        16.12636,
+                        50.594986
+                  ]
+            },
+            {
+                  "name": "PP Borek",
+                  "text": "Monument al naturii în stâncile Adršpach-Teplice, cu formațiuni geologice valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        16.153895,
+                        50.596858
+                  ]
+            },
+            {
+                  "name": "Zámek Adršpach",
+                  "text": "Un castel renascentist situat în apropierea faimosului oraș de stâncă Adršpach.",
+                  "category": "castle",
+                  "coords": [
+                        16.110856,
+                        50.61894
+                  ]
+            },
+            {
+                  "name": "PR Křížová cesta",
+                  "text": "Rezervație naturală în stâncile Adršpach-Teplice, cu formațiuni de gresie distinctive.",
+                  "category": "natural",
+                  "coords": [
+                        16.128481,
+                        50.622103
+                  ]
+            },
+            {
+                  "name": "Adršpašsko-teplické skály",
+                  "text": "Unul dintre cele mai cunoscute orașe de stâncă din Europa Centrală, cu turnuri de gresie bizare.",
+                  "category": "landmark",
+                  "coords": [
+                        16.122671,
+                        50.61537
+                  ]
+            },
+            {
+                  "name": "Hrad Adršpach",
+                  "text": "Ruinele unei cetăți medievale de stâncă în zona stâncilor Adršpach.",
+                  "category": "historical",
+                  "coords": [
+                        16.100223,
+                        50.617397
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Střmen",
+                  "text": "Ruinele unei foste cetăți de pază pe o stâncă înaltă în stâncile Teplice.",
+                  "category": "historical",
+                  "coords": [
+                        16.138281,
+                        50.594303
+                  ]
+            },
+            {
+                  "name": "Teplická jeskyně",
+                  "text": "Intrare în peșteră în zona stâncilor Teplice.",
+                  "category": "landmark",
+                  "coords": [
+                        16.140803,
+                        50.593518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NPR Adršpašsko-teplické skály",
+                  "text": "A national nature reserve famous for its architectural sandstone rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        16.12636,
+                        50.594986
+                  ]
+            },
+            {
+                  "name": "PP Borek",
+                  "text": "A natural monument in the Adršpach-Teplice Rocks featuring valuable geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        16.153895,
+                        50.596858
+                  ]
+            },
+            {
+                  "name": "Zámek Adršpach",
+                  "text": "A Renaissance castle located near the famous Adršpach rock city.",
+                  "category": "castle",
+                  "coords": [
+                        16.110856,
+                        50.61894
+                  ]
+            },
+            {
+                  "name": "PR Křížová cesta",
+                  "text": "Nature reserve in the Adršpach-Teplice Rocks with distinctive sandstone formations.",
+                  "category": "natural",
+                  "coords": [
+                        16.128481,
+                        50.622103
+                  ]
+            },
+            {
+                  "name": "Adršpašsko-teplické skály",
+                  "text": "One of Central Europe's best-known rock cities, featuring bizarre sandstone towers.",
+                  "category": "landmark",
+                  "coords": [
+                        16.122671,
+                        50.61537
+                  ]
+            },
+            {
+                  "name": "Hrad Adršpach",
+                  "text": "Ruins of a medieval rock castle located within the Adršpach Rocks area.",
+                  "category": "historical",
+                  "coords": [
+                        16.100223,
+                        50.617397
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Střmen",
+                  "text": "Ruins of a former guard castle perched on a high rock in the Teplice Rocks.",
+                  "category": "historical",
+                  "coords": [
+                        16.138281,
+                        50.594303
+                  ]
+            },
+            {
+                  "name": "Teplická jeskyně",
+                  "text": "Cave entrance located in the Teplice Rocks area.",
+                  "category": "landmark",
+                  "coords": [
+                        16.140803,
+                        50.593518
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "landmark",
     name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks"},
@@ -895,7 +3577,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-jeseniky-mountains-life-v2",
+    id: "czechrepublic-jeseniky-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturreservat Altvater",
+                  "text": "Ein Naturschutzgebiet rund um den höchsten Berg des Altvatergebirges.",
+                  "category": "natural",
+                  "coords": [
+                        17.228628,
+                        50.069734
+                  ]
+            },
+            {
+                  "name": "PR Bučina pod Františkovou myslivnou",
+                  "text": "Ein Waldschutzgebiet im Altvatergebirge mit erhaltenem Bergmischwald.",
+                  "category": "natural",
+                  "coords": [
+                        17.196999,
+                        50.059341
+                  ]
+            },
+            {
+                  "name": "PR Vysoký vodopád",
+                  "text": "Ein Naturschutzgebiet im Altvatergebirge, das einen der höchsten Wasserfälle der Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        17.203659,
+                        50.114115
+                  ]
+            },
+            {
+                  "name": "Altvater",
+                  "text": "Der höchste Berg des Altvatergebirges, gekrönt von einem markanten Fernsehturm.",
+                  "category": "landmark",
+                  "coords": [
+                        17.230869,
+                        50.083235
+                  ]
+            },
+            {
+                  "name": "Hohe Heide",
+                  "text": "Der zweithöchste Berg des Altvatergebirges mit einer weiten Hochfläche.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23527,
+                        50.062649
+                  ]
+            },
+            {
+                  "name": "Petrovy kameny",
+                  "text": "Eine markante Felsformation im Altvatergebirge mit seltener Hochgebirgsflora.",
+                  "category": "landmark",
+                  "coords": [
+                        17.233779,
+                        50.068486
+                  ]
+            },
+            {
+                  "name": "Bärenkamm",
+                  "text": "Ein Gipfel im Hauptkamm des Altvatergebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        17.19311,
+                        50.09092
+                  ]
+            },
+            {
+                  "name": "Leiterberg",
+                  "text": "Ein bewaldeter Berg im Hauptkamm des Altvatergebirges in der Nähe des Praděd.",
+                  "category": "landmark",
+                  "coords": [
+                        17.220705,
+                        50.101029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NPR Praděd",
+                  "text": "Természetvédelmi terület a Jeszenik-hegység legmagasabb csúcsa körül.",
+                  "category": "natural",
+                  "coords": [
+                        17.228628,
+                        50.069734
+                  ]
+            },
+            {
+                  "name": "PR Bučina pod Františkovou myslivnou",
+                  "text": "Erdei természetvédelmi terület a Jeszenik-hegységben, hegyi vegyes erdővel.",
+                  "category": "natural",
+                  "coords": [
+                        17.196999,
+                        50.059341
+                  ]
+            },
+            {
+                  "name": "PR Vysoký vodopád",
+                  "text": "Természetvédelmi terület a Jeszenik-hegységben, amely a régió egyik legmagasabb vízesését védi.",
+                  "category": "natural",
+                  "coords": [
+                        17.203659,
+                        50.114115
+                  ]
+            },
+            {
+                  "name": "Praděd",
+                  "text": "A Jeszenik-hegység legmagasabb csúcsa, tetején egy jellegzetes tévétoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        17.230869,
+                        50.083235
+                  ]
+            },
+            {
+                  "name": "Vysoká hole",
+                  "text": "A Jeszenik-hegység második legmagasabb csúcsa egy kiterjedt fennsíkkal.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23527,
+                        50.062649
+                  ]
+            },
+            {
+                  "name": "Petrovy kameny",
+                  "text": "Jellegzetes sziklaképződmény a Jeszenik-hegységben, ritka magashegyi flórával.",
+                  "category": "landmark",
+                  "coords": [
+                        17.233779,
+                        50.068486
+                  ]
+            },
+            {
+                  "name": "Medvědí hřbet",
+                  "text": "Csúcs a Jeszenik-hegység főgerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.19311,
+                        50.09092
+                  ]
+            },
+            {
+                  "name": "Malý Děd",
+                  "text": "Erdős hegy a Jeszenik-hegység főgerincén, a Praděd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.220705,
+                        50.101029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NPR Praděd",
+                  "text": "O rezervație naturală în jurul celui mai înalt vârf din munții Jeseníky.",
+                  "category": "natural",
+                  "coords": [
+                        17.228628,
+                        50.069734
+                  ]
+            },
+            {
+                  "name": "PR Bučina pod Františkovou myslivnou",
+                  "text": "O rezervație forestieră în munții Jeseníky, cu păduri montane mixte conservate.",
+                  "category": "natural",
+                  "coords": [
+                        17.196999,
+                        50.059341
+                  ]
+            },
+            {
+                  "name": "PR Vysoký vodopád",
+                  "text": "O rezervație naturală în munții Jeseníky care protejează una dintre cele mai înalte cascade din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        17.203659,
+                        50.114115
+                  ]
+            },
+            {
+                  "name": "Praděd",
+                  "text": "Cel mai înalt vârf din munții Jeseníky, dominat de un turn de televiziune distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        17.230869,
+                        50.083235
+                  ]
+            },
+            {
+                  "name": "Vysoká hole",
+                  "text": "Al doilea cel mai înalt vârf din munții Jeseníky, având un platou extins.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23527,
+                        50.062649
+                  ]
+            },
+            {
+                  "name": "Petrovy kameny",
+                  "text": "O formațiune stâncoasă proeminentă în munții Jeseníky, cu floră alpină rară.",
+                  "category": "landmark",
+                  "coords": [
+                        17.233779,
+                        50.068486
+                  ]
+            },
+            {
+                  "name": "Medvědí hřbet",
+                  "text": "Un vârf în creasta principală a munților Jeseníky.",
+                  "category": "landmark",
+                  "coords": [
+                        17.19311,
+                        50.09092
+                  ]
+            },
+            {
+                  "name": "Malý Děd",
+                  "text": "Un munte împădurit în creasta principală a munților Jeseníky, lângă Praděd.",
+                  "category": "landmark",
+                  "coords": [
+                        17.220705,
+                        50.101029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NPR Praděd",
+                  "text": "A nature reserve surrounding the highest peak of the Jeseníky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        17.228628,
+                        50.069734
+                  ]
+            },
+            {
+                  "name": "PR Bučina pod Františkovou myslivnou",
+                  "text": "A forest nature reserve in the Jeseníky Mountains featuring preserved mountain mixed forest.",
+                  "category": "natural",
+                  "coords": [
+                        17.196999,
+                        50.059341
+                  ]
+            },
+            {
+                  "name": "PR Vysoký vodopád",
+                  "text": "A nature reserve in the Jeseníky Mountains protecting one of the highest waterfalls in the region.",
+                  "category": "natural",
+                  "coords": [
+                        17.203659,
+                        50.114115
+                  ]
+            },
+            {
+                  "name": "Praděd",
+                  "text": "The highest peak of the Jeseníky Mountains, topped by a prominent television tower.",
+                  "category": "landmark",
+                  "coords": [
+                        17.230869,
+                        50.083235
+                  ]
+            },
+            {
+                  "name": "Vysoká hole",
+                  "text": "The second highest peak of the Jeseníky Mountains with a broad plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23527,
+                        50.062649
+                  ]
+            },
+            {
+                  "name": "Petrovy kameny",
+                  "text": "A prominent rock formation in the Jeseníky Mountains featuring rare alpine flora.",
+                  "category": "landmark",
+                  "coords": [
+                        17.233779,
+                        50.068486
+                  ]
+            },
+            {
+                  "name": "Medvědí hřbet",
+                  "text": "A peak in the main ridge of the Jeseníky Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        17.19311,
+                        50.09092
+                  ]
+            },
+            {
+                  "name": "Malý Děd",
+                  "text": "A forested mountain in the main ridge of the Jeseníky Mountains near Praděd.",
+                  "category": "landmark",
+                  "coords": [
+                        17.220705,
+                        50.101029
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "mountain",
     name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains"},
@@ -942,7 +3921,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-beskydy-mountains-life-v2",
+    id: "czechrepublic-beskydy-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "PR Smrk",
+                  "text": "Ein Naturschutzgebiet am Berg Smrk in den mährisch-schlesischen Beskiden.",
+                  "category": "natural",
+                  "coords": [
+                        18.3646,
+                        49.500962
+                  ]
+            },
+            {
+                  "name": "PR Studenčany",
+                  "text": "Ein geschütztes Naturgebiet in den Beskiden, bekannt für seine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        18.374119,
+                        49.487857
+                  ]
+            },
+            {
+                  "name": "PR Malý Smrk",
+                  "text": "Ein Naturschutzgebiet am Kleinen Smrk in der Region der Beskiden.",
+                  "category": "natural",
+                  "coords": [
+                        18.397336,
+                        49.510145
+                  ]
+            },
+            {
+                  "name": "PR Bučací potok",
+                  "text": "Ein Naturschutzgebiet in den Beskiden, das den Lauf des Baches Bučací potok schützt.",
+                  "category": "natural",
+                  "coords": [
+                        18.380224,
+                        49.515983
+                  ]
+            },
+            {
+                  "name": "Smrk",
+                  "text": "Mit 1276 Metern der zweithöchste Berg der Mährisch-Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.370458,
+                        49.508169
+                  ]
+            },
+            {
+                  "name": "Malý Smrk",
+                  "text": "Ein markanter Berggipfel in den Mährisch-Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.386714,
+                        49.510337
+                  ]
+            },
+            {
+                  "name": "Smrček",
+                  "text": "Ein Berggipfel im Gebirgszug der Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.364513,
+                        49.521717
+                  ]
+            },
+            {
+                  "name": "Čupel",
+                  "text": "Ein Gipfel mit Aussicht in der Region der Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425278,
+                        49.523611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PR Smrk",
+                  "text": "Természetvédelmi terület a Smrk-hegyen, a Morva-sziléziai Beszkidekben.",
+                  "category": "natural",
+                  "coords": [
+                        18.3646,
+                        49.500962
+                  ]
+            },
+            {
+                  "name": "PR Studenčany",
+                  "text": "Védett természeti terület a Beszkidekben, amely élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.374119,
+                        49.487857
+                  ]
+            },
+            {
+                  "name": "PR Malý Smrk",
+                  "text": "Természetvédelmi terület a Kis-Smrk hegyen, a Beszkidek régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        18.397336,
+                        49.510145
+                  ]
+            },
+            {
+                  "name": "PR Bučací potok",
+                  "text": "Természetvédelmi terület a Beszkidekben, amely a Bučací-patak folyását védi.",
+                  "category": "natural",
+                  "coords": [
+                        18.380224,
+                        49.515983
+                  ]
+            },
+            {
+                  "name": "Smrk",
+                  "text": "1276 méteres magasságával a Morva-sziléziai Beszkidek második legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        18.370458,
+                        49.508169
+                  ]
+            },
+            {
+                  "name": "Malý Smrk",
+                  "text": "Egy jellegzetes hegycsúcs a Morva-Sziléziai-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.386714,
+                        49.510337
+                  ]
+            },
+            {
+                  "name": "Smrček",
+                  "text": "Egy hegycsúcs a Beszkidek hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.364513,
+                        49.521717
+                  ]
+            },
+            {
+                  "name": "Čupel",
+                  "text": "Egy kilátást nyújtó csúcs a Beszkidek régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425278,
+                        49.523611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PR Smrk",
+                  "text": "O rezervație naturală pe muntele Smrk din Munții Beskizi Moravo-Silezieni.",
+                  "category": "natural",
+                  "coords": [
+                        18.3646,
+                        49.500962
+                  ]
+            },
+            {
+                  "name": "PR Studenčany",
+                  "text": "O zonă naturală protejată din Munții Beskizi, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        18.374119,
+                        49.487857
+                  ]
+            },
+            {
+                  "name": "PR Malý Smrk",
+                  "text": "O rezervație naturală pe muntele Malý Smrk din regiunea Beskizi.",
+                  "category": "natural",
+                  "coords": [
+                        18.397336,
+                        49.510145
+                  ]
+            },
+            {
+                  "name": "PR Bučací potok",
+                  "text": "O rezervație naturală din Munții Beskizi care protejează cursul pârâului Bučací potok.",
+                  "category": "natural",
+                  "coords": [
+                        18.380224,
+                        49.515983
+                  ]
+            },
+            {
+                  "name": "Smrk",
+                  "text": "Având 1276 de metri, este al doilea cel mai înalt munte din Munții Beskizi Moravo-Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        18.370458,
+                        49.508169
+                  ]
+            },
+            {
+                  "name": "Malý Smrk",
+                  "text": "Un vârf muntos proeminent situat în Munții Beskydy.",
+                  "category": "landmark",
+                  "coords": [
+                        18.386714,
+                        49.510337
+                  ]
+            },
+            {
+                  "name": "Smrček",
+                  "text": "Un vârf muntos situat în lanțul Munților Beskydy.",
+                  "category": "landmark",
+                  "coords": [
+                        18.364513,
+                        49.521717
+                  ]
+            },
+            {
+                  "name": "Čupel",
+                  "text": "Un vârf care oferă panorame în regiunea Munților Beskydy.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425278,
+                        49.523611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PR Smrk",
+                  "text": "A nature reserve on Smrk mountain in the Moravian-Silesian Beskids.",
+                  "category": "natural",
+                  "coords": [
+                        18.3646,
+                        49.500962
+                  ]
+            },
+            {
+                  "name": "PR Studenčany",
+                  "text": "A protected natural area in the Beskydy Mountains known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        18.374119,
+                        49.487857
+                  ]
+            },
+            {
+                  "name": "PR Malý Smrk",
+                  "text": "A nature reserve on Malý Smrk mountain in the Beskydy region.",
+                  "category": "natural",
+                  "coords": [
+                        18.397336,
+                        49.510145
+                  ]
+            },
+            {
+                  "name": "PR Bučací potok",
+                  "text": "A nature reserve in the Beskydy Mountains protecting the course of the Bučací potok stream.",
+                  "category": "natural",
+                  "coords": [
+                        18.380224,
+                        49.515983
+                  ]
+            },
+            {
+                  "name": "Smrk",
+                  "text": "Standing at 1276 metres, it is the second-highest mountain in the Moravian-Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        18.370458,
+                        49.508169
+                  ]
+            },
+            {
+                  "name": "Malý Smrk",
+                  "text": "A prominent mountain peak located in the Moravian-Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        18.386714,
+                        49.510337
+                  ]
+            },
+            {
+                  "name": "Smrček",
+                  "text": "A mountain peak situated within the Beskydy Mountains range.",
+                  "category": "landmark",
+                  "coords": [
+                        18.364513,
+                        49.521717
+                  ]
+            },
+            {
+                  "name": "Čupel",
+                  "text": "A peak offering views in the Beskydy Mountains region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425278,
+                        49.523611
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "mountain",
     name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains"},
@@ -989,7 +4265,304 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-krivoklatsko-forest-life-v2",
+    id: "czechrepublic-krivoklatsko-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hamousův statek",
+                  "text": "Ein historischer Fachwerkhof in der Region Křivoklátsko, der als Museum für ländliches Leben erhalten ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.920685,
+                        50.041526
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Brdatka",
+                  "text": "Ein Naturschutzgebiet in der Region Křivoklátsko, das steile Waldhänge und Felsformationen schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.892767,
+                        50.049537
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Nezabudické skály",
+                  "text": "Ein Naturschutzgebiet mit markanten Felsklippen und vielfältiger Flora im Tal des Flusses Berounka.",
+                  "category": "natural",
+                  "coords": [
+                        13.843078,
+                        50.022889
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Stříbrný luh",
+                  "text": "Ein Waldnaturschutzgebiet in der Region Křivoklátsko, bekannt für seine Hänge oberhalb der Berounka.",
+                  "category": "natural",
+                  "coords": [
+                        13.888765,
+                        50.016189
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Eremita",
+                  "text": "Ein Naturschutzgebiet, das eine vielfältige Waldgesellschaft und seltene Pflanzenarten an steilen Hängen schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.857238,
+                        50.015751
+                  ]
+            },
+            {
+                  "name": "Burg Pürglitz",
+                  "text": "Eine der ältesten und bedeutendsten königlichen Burgen in Tschechien, gelegen in der Region Křivoklátsko.",
+                  "category": "castle",
+                  "coords": [
+                        13.872095,
+                        50.037728
+                  ]
+            },
+            {
+                  "name": "Pamětní síň Oty Pavla",
+                  "text": "Ein Gedenkmuseum für den berühmten tschechischen Schriftsteller Ota Pavel in der Region Křivoklátsko.",
+                  "category": "museum",
+                  "coords": [
+                        13.834106,
+                        50.011844
+                  ]
+            },
+            {
+                  "name": "Muzeum motocyklů Křivoklát",
+                  "text": "Ein Motorradmuseum in Křivoklát, das eine Sammlung von Oldtimern und historischen Fahrrädern ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.870253,
+                        50.038046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hamousův statek",
+                  "text": "Történelmi gerendaházas tanya a Křivoklátsko területén, amely néprajzi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        13.920685,
+                        50.041526
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Brdatka",
+                  "text": "Természetvédelmi terület a Křivoklátsko régióban, amely meredek erdős lejtőket és sziklákat óv.",
+                  "category": "natural",
+                  "coords": [
+                        13.892767,
+                        50.049537
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Nezabudické skály",
+                  "text": "Természetvédelmi terület jellegzetes sziklákkal és változatos növényvilággal a Berounka-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        13.843078,
+                        50.022889
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Stříbrný luh",
+                  "text": "Erdei természetvédelmi terület a Křivoklátsko vidéken, a Berounka folyó feletti lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.888765,
+                        50.016189
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Eremita",
+                  "text": "Természetvédelmi terület, amely változatos erdőtársulásokat és ritka növényfajokat véd meredek lejtőkön.",
+                  "category": "natural",
+                  "coords": [
+                        13.857238,
+                        50.015751
+                  ]
+            },
+            {
+                  "name": "hrad Křivoklát",
+                  "text": "Csehország egyik legrégebbi és legjelentősebb királyi vára a Křivoklátsko területén.",
+                  "category": "castle",
+                  "coords": [
+                        13.872095,
+                        50.037728
+                  ]
+            },
+            {
+                  "name": "Pamětní síň Oty Pavla",
+                  "text": "Ota Pavel híres cseh író emlékére létrehozott múzeum a Křivoklátsko régióban.",
+                  "category": "museum",
+                  "coords": [
+                        13.834106,
+                        50.011844
+                  ]
+            },
+            {
+                  "name": "Muzeum motocyklů Křivoklát",
+                  "text": "Motorkerékpár-múzeum Křivoklátban, amely veterán és történelmi gépeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.870253,
+                        50.038046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hamousův statek",
+                  "text": "O fermă istorică din lemn din zona Křivoklátsko, conservată ca muzeu al vieții rurale.",
+                  "category": "museum",
+                  "coords": [
+                        13.920685,
+                        50.041526
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Brdatka",
+                  "text": "O rezervație naturală din regiunea Křivoklátsko care protejează versanți împăduriți și formațiuni stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        13.892767,
+                        50.049537
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Nezabudické skály",
+                  "text": "O rezervație naturală cu stânci proeminente și floră diversă în valea râului Berounka.",
+                  "category": "natural",
+                  "coords": [
+                        13.843078,
+                        50.022889
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Stříbrný luh",
+                  "text": "O rezervație naturală forestieră din zona Křivoklátsko, cunoscută pentru versanții săi de deasupra râului Berounka.",
+                  "category": "natural",
+                  "coords": [
+                        13.888765,
+                        50.016189
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Eremita",
+                  "text": "O rezervație naturală care protejează o comunitate forestieră diversă și specii de plante rare pe versanți abrupți.",
+                  "category": "natural",
+                  "coords": [
+                        13.857238,
+                        50.015751
+                  ]
+            },
+            {
+                  "name": "hrad Křivoklát",
+                  "text": "Unul dintre cele mai vechi și mai importante castele regale din Republica Cehă, situat în regiunea Křivoklátsko.",
+                  "category": "castle",
+                  "coords": [
+                        13.872095,
+                        50.037728
+                  ]
+            },
+            {
+                  "name": "Pamětní síň Oty Pavla",
+                  "text": "Un muzeu memorial dedicat celebrului scriitor ceh Ota Pavel, situat în regiunea Křivoklátsko.",
+                  "category": "museum",
+                  "coords": [
+                        13.834106,
+                        50.011844
+                  ]
+            },
+            {
+                  "name": "Muzeum motocyklů Křivoklát",
+                  "text": "Un muzeu al motocicletelor din Křivoklát, care expune o colecție de motociclete vechi și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        13.870253,
+                        50.038046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hamousův statek",
+                  "text": "A historic timbered farmstead in the Křivoklátsko area, preserved as a museum of rural life.",
+                  "category": "museum",
+                  "coords": [
+                        13.920685,
+                        50.041526
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Brdatka",
+                  "text": "A nature reserve in the Křivoklátsko region protecting steep forest slopes and rocky outcrops.",
+                  "category": "natural",
+                  "coords": [
+                        13.892767,
+                        50.049537
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Nezabudické skály",
+                  "text": "A nature reserve featuring prominent rocky cliffs and diverse flora in the Berounka river valley.",
+                  "category": "natural",
+                  "coords": [
+                        13.843078,
+                        50.022889
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Stříbrný luh",
+                  "text": "A forest nature reserve in the Křivoklátsko area known for its slopes above the Berounka river.",
+                  "category": "natural",
+                  "coords": [
+                        13.888765,
+                        50.016189
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Eremita",
+                  "text": "A nature reserve protecting a diverse forest community and rare plant species on steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        13.857238,
+                        50.015751
+                  ]
+            },
+            {
+                  "name": "hrad Křivoklát",
+                  "text": "One of the oldest and most significant royal castles in the Czech Republic, located in Křivoklátsko.",
+                  "category": "castle",
+                  "coords": [
+                        13.872095,
+                        50.037728
+                  ]
+            },
+            {
+                  "name": "Pamětní síň Oty Pavla",
+                  "text": "A memorial museum dedicated to the famous Czech writer Ota Pavel, located in the Křivoklátsko region.",
+                  "category": "museum",
+                  "coords": [
+                        13.834106,
+                        50.011844
+                  ]
+            },
+            {
+                  "name": "Muzeum motocyklů Křivoklát",
+                  "text": "A motorcycle museum in Křivoklát showcasing a collection of vintage and historic bikes.",
+                  "category": "museum",
+                  "coords": [
+                        13.870253,
+                        50.038046
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "forest",
     name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape"},
@@ -1130,7 +4703,268 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-slavkovsky-les-life-v2",
+    id: "czechrepublic-slavkovsky-les-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturdenkmal Drei Kreuze",
+                  "text": "Ein nationales Naturdenkmal zum Schutz der seltenen Serpentinit-Flora im Kaiserwald.",
+                  "category": "natural",
+                  "coords": [
+                        12.749974,
+                        50.065946
+                  ]
+            },
+            {
+                  "name": "Nationales Naturreservat Pflugsche Heide",
+                  "text": "Ein nationales Naturschutzgebiet, das für seine Kiefernwälder und sein einzigartiges geologisches Substrat bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.780075,
+                        50.054105
+                  ]
+            },
+            {
+                  "name": "NPP Upolínová louka pod Křížky",
+                  "text": "Eine geschützte Feuchtwiese, die für ihre großen Bestände an Trollblumen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.744734,
+                        50.065932
+                  ]
+            },
+            {
+                  "name": "Rašeliniště u myslivny",
+                  "text": "Ein Hochmoor-Naturschutzgebiet, das Lebensraum für seltene Moorpflanzen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.745824,
+                        50.092336
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal Domin-Felsen",
+                  "text": "Ein Naturdenkmal mit markanten Serpentinit-Felsformationen und seltener Flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.784839,
+                        50.070862
+                  ]
+            },
+            {
+                  "name": "Rozhledy",
+                  "text": "Ein Gipfel im Kaiserwald, der Ausblicke auf die umgebende geschützte Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716467,
+                        50.110712
+                  ]
+            },
+            {
+                  "name": "Rozhledna Krásenský vrch",
+                  "text": "Ein einzigartiger spiralförmiger Aussichtsturm aus Stein mit Blick über den Kaiserwald.",
+                  "category": "landmark",
+                  "coords": [
+                        12.786412,
+                        50.101557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NPP Křížky",
+                  "text": "Nemzeti természeti emlékhely, amely a Slavkov-erdő ritka szerpentinit flóráját védi.",
+                  "category": "natural",
+                  "coords": [
+                        12.749974,
+                        50.065946
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Pluhův bor",
+                  "text": "Nemzeti természetvédelmi terület, amely fenyőerdőiről és egyedülálló geológiai alapkőzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.780075,
+                        50.054105
+                  ]
+            },
+            {
+                  "name": "NPP Upolínová louka pod Křížky",
+                  "text": "Védett mocsárrét, amely a zergeboglárkák népes állományáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        12.744734,
+                        50.065932
+                  ]
+            },
+            {
+                  "name": "Rašeliniště u myslivny",
+                  "text": "Hegyi tőzegláp természetvédelmi terület, amely ritka lápi növényeknek ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        12.745824,
+                        50.092336
+                  ]
+            },
+            {
+                  "name": "PP Dominova skalka",
+                  "text": "Természeti emlékhely jellegzetes szerpentinit sziklaalakzatokkal és ritka flórával.",
+                  "category": "natural",
+                  "coords": [
+                        12.784839,
+                        50.070862
+                  ]
+            },
+            {
+                  "name": "Rozhledy",
+                  "text": "Csúcs a Slavkov-erdőben, amely kilátást nyújt a környező védett tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716467,
+                        50.110712
+                  ]
+            },
+            {
+                  "name": "Rozhledna Krásenský vrch",
+                  "text": "Egyedülálló, spirális kő kilátótorony, amely kilátást nyújt a Slavkov-erdőre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.786412,
+                        50.101557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NPP Křížky",
+                  "text": "Un monument natural național care protejează flora rară de serpentinit din Pădurea Slavkov.",
+                  "category": "natural",
+                  "coords": [
+                        12.749974,
+                        50.065946
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Pluhův bor",
+                  "text": "O rezervație naturală națională cunoscută pentru pădurile sale de pini și substratul geologic unic.",
+                  "category": "natural",
+                  "coords": [
+                        12.780075,
+                        50.054105
+                  ]
+            },
+            {
+                  "name": "NPP Upolínová louka pod Křížky",
+                  "text": "O pajiște umedă protejată, celebră pentru populațiile sale mari de bulbuci de munte.",
+                  "category": "natural",
+                  "coords": [
+                        12.744734,
+                        50.065932
+                  ]
+            },
+            {
+                  "name": "Rašeliniště u myslivny",
+                  "text": "O rezervație naturală de turbărie montană care oferă habitat pentru plante rare de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        12.745824,
+                        50.092336
+                  ]
+            },
+            {
+                  "name": "PP Dominova skalka",
+                  "text": "Un monument natural cu formațiuni stâncoase de serpentinit distinctive și floră rară.",
+                  "category": "natural",
+                  "coords": [
+                        12.784839,
+                        50.070862
+                  ]
+            },
+            {
+                  "name": "Rozhledy",
+                  "text": "Un vârf din Pădurea Slavkov care oferă vederi asupra peisajului protejat din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716467,
+                        50.110712
+                  ]
+            },
+            {
+                  "name": "Rozhledna Krásenský vrch",
+                  "text": "Un turn de observație din piatră în formă de spirală, care oferă vederi asupra Pădurii Slavkov.",
+                  "category": "landmark",
+                  "coords": [
+                        12.786412,
+                        50.101557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NPP Křížky",
+                  "text": "A national natural monument protecting rare serpentinite flora in the Slavkov Forest.",
+                  "category": "natural",
+                  "coords": [
+                        12.749974,
+                        50.065946
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Pluhův bor",
+                  "text": "A national nature reserve known for its pine forests and unique geological substrate.",
+                  "category": "natural",
+                  "coords": [
+                        12.780075,
+                        50.054105
+                  ]
+            },
+            {
+                  "name": "NPP Upolínová louka pod Křížky",
+                  "text": "A protected wetland meadow famous for its large populations of globeflowers.",
+                  "category": "natural",
+                  "coords": [
+                        12.744734,
+                        50.065932
+                  ]
+            },
+            {
+                  "name": "Rašeliniště u myslivny",
+                  "text": "A mountain peat bog nature reserve providing habitat for rare bog plants.",
+                  "category": "natural",
+                  "coords": [
+                        12.745824,
+                        50.092336
+                  ]
+            },
+            {
+                  "name": "PP Dominova skalka",
+                  "text": "A natural monument featuring distinctive serpentinite rock formations and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.784839,
+                        50.070862
+                  ]
+            },
+            {
+                  "name": "Rozhledy",
+                  "text": "A peak in the Slavkov Forest offering views of the surrounding protected landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716467,
+                        50.110712
+                  ]
+            },
+            {
+                  "name": "Rozhledna Krásenský vrch",
+                  "text": "A unique spiral stone observation tower providing views over the Slavkov Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        12.786412,
+                        50.101557
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "forest",
     name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest"},
@@ -1177,7 +5011,232 @@ export const czechrepublicLifeV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-orlicke-hory-life-v2",
+    id: "czechrepublic-orlicke-hory-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "PP Rašeliniště pod Pětirozcestím",
+                  "text": "Ein Naturdenkmal im Adlergebirge, das ein wertvolles Moorgebiet schützt.",
+                  "category": "natural",
+                  "coords": [
+                        16.434456,
+                        50.245262
+                  ]
+            },
+            {
+                  "name": "PR Pod Zakletým",
+                  "text": "Ein Naturschutzgebiet im Adlergebirge, das für seine spezifische Bergflora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.435535,
+                        50.23538
+                  ]
+            },
+            {
+                  "name": "Naturreservat Mückenberg",
+                  "text": "Dieses Naturschutzgebiet im Adlergebirge schützt wertvolle Buchenwälder und Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        16.486691,
+                        50.231135
+                  ]
+            },
+            {
+                  "name": "Stonehenge Říčky v Orlických horách",
+                  "text": "Eine moderne Steinformation in Říčky, die dem prähistorischen Stonehenge nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.441756,
+                        50.207916
+                  ]
+            },
+            {
+                  "name": "Svatý Jan Nepomucký",
+                  "text": "Ein Denkmal zu Ehren des heiligen Johannes von Nepomuk im Adlergebirge.",
+                  "category": "historical",
+                  "coords": [
+                        16.405883,
+                        50.236593
+                  ]
+            },
+            {
+                  "name": "Svatá Anna",
+                  "text": "Ein religiöses Denkmal der heiligen Anna in der Landschaft des Adlergebirges.",
+                  "category": "historical",
+                  "coords": [
+                        16.408391,
+                        50.23879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PP Rašeliniště pod Pětirozcestím",
+                  "text": "Természeti emlékhely az Orlické-hegységben, amely egy értékes tőzeglápot oltalmaz.",
+                  "category": "natural",
+                  "coords": [
+                        16.434456,
+                        50.245262
+                  ]
+            },
+            {
+                  "name": "PR Pod Zakletým",
+                  "text": "Természetvédelmi terület az Orlické-hegységben, amely sajátos hegyi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.435535,
+                        50.23538
+                  ]
+            },
+            {
+                  "name": "PR Komáří vrch",
+                  "text": "Ez az Orlické-hegységben található természetvédelmi terület értékes bükkerdőket és sziklaalakzatokat oltalmaz.",
+                  "category": "natural",
+                  "coords": [
+                        16.486691,
+                        50.231135
+                  ]
+            },
+            {
+                  "name": "Stonehenge Říčky v Orlických horách",
+                  "text": "Modern kőalakzat Říčky településen, amelyet a prahistorikus Stonehenge mintájára hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        16.441756,
+                        50.207916
+                  ]
+            },
+            {
+                  "name": "Svatý Jan Nepomucký",
+                  "text": "Nepomuki Szent János tiszteletére emelt emlékmű az Orlické-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        16.405883,
+                        50.236593
+                  ]
+            },
+            {
+                  "name": "Svatá Anna",
+                  "text": "Szent Anna vallási emlékműve az Orlické-hegység táján.",
+                  "category": "historical",
+                  "coords": [
+                        16.408391,
+                        50.23879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PP Rašeliniště pod Pětirozcestím",
+                  "text": "Un monument al naturii în Munții Orlické, care protejează o zonă valoroasă de turbărie.",
+                  "category": "natural",
+                  "coords": [
+                        16.434456,
+                        50.245262
+                  ]
+            },
+            {
+                  "name": "PR Pod Zakletým",
+                  "text": "O rezervație naturală în Munții Orlické, cunoscută pentru flora sa montană specifică.",
+                  "category": "natural",
+                  "coords": [
+                        16.435535,
+                        50.23538
+                  ]
+            },
+            {
+                  "name": "PR Komáří vrch",
+                  "text": "Această rezervație naturală din Munții Orlické protejează păduri de fag valoroase și formațiuni stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        16.486691,
+                        50.231135
+                  ]
+            },
+            {
+                  "name": "Stonehenge Říčky v Orlických horách",
+                  "text": "O formațiune modernă de piatră în Říčky, creată după modelul preistoricului Stonehenge.",
+                  "category": "landmark",
+                  "coords": [
+                        16.441756,
+                        50.207916
+                  ]
+            },
+            {
+                  "name": "Svatý Jan Nepomucký",
+                  "text": "Un monument ridicat în onoarea Sfântului Ioan Nepomuk în Munții Orlické.",
+                  "category": "historical",
+                  "coords": [
+                        16.405883,
+                        50.236593
+                  ]
+            },
+            {
+                  "name": "Svatá Anna",
+                  "text": "Un monument religios dedicat Sfintei Ana în peisajul Munților Orlické.",
+                  "category": "historical",
+                  "coords": [
+                        16.408391,
+                        50.23879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PP Rašeliniště pod Pětirozcestím",
+                  "text": "A natural monument in the Eagle Mountains protecting a valuable peat bog area.",
+                  "category": "natural",
+                  "coords": [
+                        16.434456,
+                        50.245262
+                  ]
+            },
+            {
+                  "name": "PR Pod Zakletým",
+                  "text": "A nature reserve in the Eagle Mountains known for its specific mountain flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.435535,
+                        50.23538
+                  ]
+            },
+            {
+                  "name": "PR Komáří vrch",
+                  "text": "This nature reserve in the Eagle Mountains protects valuable beech forests and rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        16.486691,
+                        50.231135
+                  ]
+            },
+            {
+                  "name": "Stonehenge Říčky v Orlických horách",
+                  "text": "A modern stone formation in Říčky, created in the style of the prehistoric Stonehenge.",
+                  "category": "landmark",
+                  "coords": [
+                        16.441756,
+                        50.207916
+                  ]
+            },
+            {
+                  "name": "Svatý Jan Nepomucký",
+                  "text": "A monument dedicated to Saint John of Nepomuk in the Eagle Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        16.405883,
+                        50.236593
+                  ]
+            },
+            {
+                  "name": "Svatá Anna",
+                  "text": "A religious monument dedicated to Saint Anne in the Eagle Mountains landscape.",
+                  "category": "historical",
+                  "coords": [
+                        16.408391,
+                        50.23879
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "mountain",
     name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains"},
@@ -1224,7 +5283,304 @@ export const czechrepublicLifeV2: POI[] = [
   }
 ,
   {
-    id: "czechrepublic-podyji-wildlife-life-v2",
+    id: "czechrepublic-podyji-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Eine der größten Burgen Niederösterreichs, die majestätisch über der Thaya thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Mittelalterliche Burgruine im Thayatal, die heute als Veranstaltungsort dient.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Ein Museum in Hardegg, das sich mit der Geschichte historischer Guckkästen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Ein kleines Museum in einem ehemaligen Zollhaus an der Grenze zu Tschechien.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Ein idyllisch gelegenes Freibad am Waldesrand im Nationalpark Podyjí.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Ruine Neuhäusl",
+                  "text": "Eine romantische Burgruine in exponierter Lage mit Blick auf das Thaya-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die kleinste Stadt Österreichs, Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Ein beliebter Aussichtspunkt für Wanderer mit weitem Blick über die Flusslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Alsó-Ausztria egyik legnagyobb vára, amely méltóságteljesen magasodik a Thaya folyó fölé.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Középkori várrom a Thaya-völgyben, amely ma rendezvényhelyszínként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Hardeggi múzeum, amely a történelmi kukucskálódobozok történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Kismúzeum egy egykori vámszázban a cseh határnál.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Idilli erdei strand a Podyjí Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Romantikus várrom exponált helyen, kilátással a Thaya-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Kilátópont panorámás kilátással Ausztria legkisebb városára, Hardeggre.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Népszerű kilátóhely a túrázók számára, tágas kilátással a folyóparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Unul dintre cele mai mari castele din Austria Inferioară, situat maiestuos deasupra râului Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Ruinele unui castel medieval din valea Thaya, care servește astăzi drept spațiu pentru evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Un muzeu din Hardegg dedicat istoriei cutiilor optice (Guckkasten).",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Un mic muzeu amenajat într-o fostă vamă la granița cu Cehia.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Un ștrand idilic situat la marginea pădurii în Parcul Național Podyjí.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Ruinele romantice ale unui castel situat într-o poziție expusă, cu vedere spre valea Thaya.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Un punct de observație cu vedere panoramică asupra celui mai mic oraș din Austria, Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Un punct de observație popular pentru turiști, cu o vedere largă asupra peisajului fluvial.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "One of the largest castles in Lower Austria, majestically overlooking the Thaya river.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Medieval castle ruins in the Thaya valley, now used as a venue for events.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "A museum in Hardegg dedicated to the history of historical peep boxes.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "A small museum housed in a former custom house at the Czech border.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "An idyllically located outdoor swimming pool at the edge of the forest in Podyjí National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Romantic castle ruins in an exposed position overlooking the Thaya valley.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegg vista",
+                  "text": "A viewpoint offering panoramic views of Austria's smallest town, Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "A popular viewpoint for hikers with a wide view over the river landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "CZ",
     name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park Wildlife Reserve" },

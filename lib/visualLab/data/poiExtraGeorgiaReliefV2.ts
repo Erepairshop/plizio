@@ -39,7 +39,52 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "diklosmta-relief-v2",
+    id: "diklosmta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "text": "Ein markanter Berggipfel im Großen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77514,
+                        42.488289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "text": "Kiemelkedő hegycsúcs a Nagy-Kaukázusban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77514,
+                        42.488289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "text": "Un vârf montan proeminent în lanțul Caucazul Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77514,
+                        42.488289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diklosmta",
+                  "text": "A prominent mountain peak in the Greater Caucasus range.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77514,
+                        42.488289
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-KA",
     coords: [45.79, 42.50],
@@ -75,7 +120,52 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "tebulosmta-relief-v2",
+    id: "tebulosmta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "text": "Der höchste Gipfel im östlichen Kaukasus an der Grenze zwischen Georgien und Russland.",
+                  "category": "landmark",
+                  "coords": [
+                        45.314689,
+                        42.573968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "text": "A Keleti-Kaukázus legmagasabb csúcsa Grúzia és Oroszország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        45.314689,
+                        42.573968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "text": "Cel mai înalt vârf din Caucazul de Est, situat la granița dintre Georgia și Rusia.",
+                  "category": "landmark",
+                  "coords": [
+                        45.314689,
+                        42.573968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tebulosmta",
+                  "text": "The highest peak in the Eastern Caucasus, on the border between Georgia and Russia.",
+                  "category": "landmark",
+                  "coords": [
+                        45.314689,
+                        42.573968
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-KA",
     coords: [45.31, 42.57],
@@ -111,7 +201,196 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "shota-rustaveli-peak-relief-v2",
+    id: "shota-rustaveli-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Ein markanter Berggipfel im Zentral-Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Ein hoher Gipfel im Hauptkamm des Großen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Ein Berggipfel im Kaukasus, benannt nach dem berühmten georgischen Dichter.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            },
+            {
+                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "text": "Ein bedeutender Gipfel an der Grenze zwischen Georgien und Russland im Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.05748,
+                        43.018317
+                  ]
+            },
+            {
+                  "name": "Tetnuldi",
+                  "text": "Ein markanter, vergletscherter Gipfel in der georgischen Region Swanetien.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Jellegzetes hegycsúcs a Középső-Kaukázusban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Magas hegycsúcs a Nagy-Kaukázus főgerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Hegycsúcs a Kaukázusban, amelyet a híres grúz költőről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            },
+            {
+                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "text": "Jelentős hegycsúcs Grúzia és Oroszország határán a Kaukázusban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.05748,
+                        43.018317
+                  ]
+            },
+            {
+                  "name": "თეთნულდი",
+                  "text": "Jellegzetes, gleccserekkel borított hegycsúcs a grúziai Szvanéti régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Un vârf montan proeminent din Caucazul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Un vârf înalt situat în creasta principală a Munților Caucazul Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Un vârf montan din Caucaz, numit după celebrul poet georgian.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            },
+            {
+                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "text": "Un vârf major de la granița dintre Georgia și Rusia, în Munții Caucaz.",
+                  "category": "landmark",
+                  "coords": [
+                        43.05748,
+                        43.018317
+                  ]
+            },
+            {
+                  "name": "თეთნულდი",
+                  "text": "Un vârf proeminent acoperit de ghețari din regiunea Svaneti a Georgiei.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gistola",
+                  "text": "A prominent mountain peak in the Central Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Katintayu",
+                  "text": "A high peak in the main range of the Greater Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "Peak Shota Rustaveli",
+                  "text": "A mountain peak in the Caucasus named after the famous Georgian poet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            },
+            {
+                  "name": "Glavnaya Jangi",
+                  "text": "A major summit on the border between Georgia and Russia in the Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.05748,
+                        43.018317
+                  ]
+            },
+            {
+                  "name": "Tetnuldi",
+                  "text": "A prominent glacier-covered peak in the Svaneti region of Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-SZ",
     coords: [43.04, 43.02],
@@ -219,7 +498,196 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "didgori-mountain-relief-v2",
+    id: "didgori-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Ein historischer Wehrturm in der Nähe des Berges Didgori in Georgien.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "დიდგორი",
+                  "text": "Ein Berggipfel in Georgien, bekannt als Schauplatz der historischen Schlacht von Didgori im Jahr 1121.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506687,
+                        41.760687
+                  ]
+            },
+            {
+                  "name": "მონუმენტი\"დიდგორის მეომარი ბუკით\"",
+                  "text": "Ein Denkmal auf dem Berg Didgori, das an die georgischen Krieger und ihren Sieg erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        44.520688,
+                        41.783744
+                  ]
+            },
+            {
+                  "name": "Kvatakhevi view",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick auf das Kvatakhevi-Kloster und die umliegenden Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.473182,
+                        41.785501
+                  ]
+            },
+            {
+                  "name": "დიდგორის მონუმენტი",
+                  "text": "Eine monumentale Gedenkstätte für die Schlacht von Didgori mit beeindruckenden Metallskulpturen.",
+                  "category": "historical",
+                  "coords": [
+                        44.509129,
+                        41.760501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Történelmi védőtorony a grúziai Didgori-hegy közelében.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "დიდგორი",
+                  "text": "Hegycsúcs Grúziában, amely az 1121-es történelmi didgori csata helyszíneként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506687,
+                        41.760687
+                  ]
+            },
+            {
+                  "name": "მონუმენტი\"დიდგორის მეომარი ბუკით\"",
+                  "text": "Emlékmű a Didgori-hegyen, amely a grúz harcosoknak és győzelmüknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        44.520688,
+                        41.783744
+                  ]
+            },
+            {
+                  "name": "Kvatakhevi view",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Kvatakhevi-kolostorra és a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.473182,
+                        41.785501
+                  ]
+            },
+            {
+                  "name": "დიდგორის მონუმენტი",
+                  "text": "A didgori csata monumentális emlékhelye, lenyűgöző fém szoborkompozíciókkal.",
+                  "category": "historical",
+                  "coords": [
+                        44.509129,
+                        41.760501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Un turn defensiv istoric situat în apropierea muntelui Didgori din Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "დიდგორი",
+                  "text": "Un vârf muntos din Georgia, cunoscut ca locul istoricei bătălii de la Didgori din 1121.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506687,
+                        41.760687
+                  ]
+            },
+            {
+                  "name": "მონუმენტი\"დიდგორის მეომარი ბუკით\"",
+                  "text": "Un monument pe muntele Didgori, care comemorează războinicii georgieni și victoria lor.",
+                  "category": "historical",
+                  "coords": [
+                        44.520688,
+                        41.783744
+                  ]
+            },
+            {
+                  "name": "Kvatakhevi view",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra mănăstirii Kvatakhevi și a munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.473182,
+                        41.785501
+                  ]
+            },
+            {
+                  "name": "დიდგორის მონუმენტი",
+                  "text": "Un complex memorial monumental dedicat bătăliei de la Didgori, cu sculpturi metalice impresionante.",
+                  "category": "historical",
+                  "coords": [
+                        44.509129,
+                        41.760501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "A historic defensive tower located near Mount Didgori in Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "Didgori",
+                  "text": "A mountain peak in Georgia, famous as the site of the historic Battle of Didgori in 1121.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506687,
+                        41.760687
+                  ]
+            },
+            {
+                  "name": "მონუმენტი\"დიდგორის მეომარი ბუკით\"",
+                  "text": "A monument on Mount Didgori commemorating the Georgian warriors and their victory.",
+                  "category": "historical",
+                  "coords": [
+                        44.520688,
+                        41.783744
+                  ]
+            },
+            {
+                  "name": "Kvatakhevi view",
+                  "text": "A viewpoint offering a wide view of the Kvatakhevi monastery and the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        44.473182,
+                        41.785501
+                  ]
+            },
+            {
+                  "name": "Didgori Battle Memorial",
+                  "text": "A monumental memorial site for the Battle of Didgori featuring impressive metal sculptures.",
+                  "category": "historical",
+                  "coords": [
+                        44.509129,
+                        41.760501
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-KK",
     coords: [44.50, 41.76],
@@ -327,7 +795,124 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "trialeti-range-relief-v2",
+    id: "trialeti-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ნასოფლარი შუასოფელი",
+                  "text": "Diese historischen Ruinen eines verlassenen Dorfes befinden sich im Trialeti-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        44.144734,
+                        41.654122
+                  ]
+            },
+            {
+                  "name": "საბეჭდავის ციკლოპური ციხე-სიმაგრე და ნამოსახლარი",
+                  "text": "Es handelt sich um Überreste einer zyklopischen Festung und Siedlung im Trialeti-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        44.142683,
+                        41.656546
+                  ]
+            },
+            {
+                  "name": "კნოლეს “ციკლოპური” ნამოსახლარი",
+                  "text": "Diese antiken zyklopischen Siedlungsruinen liegen im Trialeti-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        44.138235,
+                        41.649659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ნასოფლარი შუასოფელი",
+                  "text": "Ezek a történelmi romok egy elhagyatott faluban találhatók a Trialeti-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        44.144734,
+                        41.654122
+                  ]
+            },
+            {
+                  "name": "საბეჭდავის ციკლოპური ციხე-სიმაგრე და ნამოსახლარი",
+                  "text": "Ez egy küklopaszi erőd és település maradványa a Trialeti-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        44.142683,
+                        41.656546
+                  ]
+            },
+            {
+                  "name": "კნოლეს “ციკლოპური” ნამოსახლარი",
+                  "text": "Ez az ősi küklopaszi településmaradvány a Trialeti-hegységben található.",
+                  "category": "historical",
+                  "coords": [
+                        44.138235,
+                        41.649659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ნასოფლარი შუასოფელი",
+                  "text": "Aceste ruine istorice ale unui sat părăsit se află în munții Trialeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.144734,
+                        41.654122
+                  ]
+            },
+            {
+                  "name": "საბეჭდავის ციკლოპური ციხე-სიმაგრე და ნამოსახლარი",
+                  "text": "Acestea sunt rămășițele unei cetăți ciclopice și ale unei așezări din munții Trialeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.142683,
+                        41.656546
+                  ]
+            },
+            {
+                  "name": "კნოლეს “ციკლოპური” ნამოსახლარი",
+                  "text": "Aceste ruine ale unei așezări ciclopice antice se află în munții Trialeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.138235,
+                        41.649659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ნასოფლარი შუასოფელი",
+                  "text": "These historical ruins of an abandoned village are located in the Trialeti Range.",
+                  "category": "historical",
+                  "coords": [
+                        44.144734,
+                        41.654122
+                  ]
+            },
+            {
+                  "name": "საბეჭდავის ციკლოპური ციხე-სიმაგრე და ნამოსახლარი",
+                  "text": "These are the remains of a cyclopean fortress and settlement in the Trialeti Range.",
+                  "category": "historical",
+                  "coords": [
+                        44.142683,
+                        41.656546
+                  ]
+            },
+            {
+                  "name": "კნოლეს “ციკლოპური” ნამოსახლარი",
+                  "text": "These ancient cyclopean settlement ruins are located in the Trialeti Range.",
+                  "category": "historical",
+                  "coords": [
+                        44.138235,
+                        41.649659
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-KK",
     coords: [44.17, 41.67],
@@ -471,7 +1056,160 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "pankisi-gorge-relief-v2",
+    id: "pankisi-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "პანკისის ეთნოგრაფიული მუზეუმი",
+                  "text": "Dieses Museum zeigt die reiche Kultur und Traditionen der Kisten im Pankissi-Tal.",
+                  "category": "museum",
+                  "coords": [
+                        45.28552,
+                        42.139472
+                  ]
+            },
+            {
+                  "name": "ჯოყოლოს კვირაცხოვლის ეკლესია",
+                  "text": "Die Überreste einer historischen Kirche im Dorf Jokolo im Pankissi-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        45.294872,
+                        42.164884
+                  ]
+            },
+            {
+                  "name": "მეორე მსოფლიო ომის ძეგლი",
+                  "text": "Ein lokales Denkmal zum Gedenken an die Opfer und Ereignisse des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        45.286603,
+                        42.161874
+                  ]
+            },
+            {
+                  "name": "ბალთაგორის კოშკი",
+                  "text": "Ein historischer Wehrturm in der Region Pankissi, der Zeugnis von der mittelalterlichen Architektur ablegt.",
+                  "category": "tower",
+                  "coords": [
+                        45.294774,
+                        42.166174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "პანკისის ეთნოგრაფიული მუზეუმი",
+                  "text": "Ez a múzeum a kistek gazdag kultúráját és hagyományait mutatja be a Pankiszi-szorosban.",
+                  "category": "museum",
+                  "coords": [
+                        45.28552,
+                        42.139472
+                  ]
+            },
+            {
+                  "name": "ჯოყოლოს კვირაცხოვლის ეკლესია",
+                  "text": "Egy történelmi templom maradványai Jokolo faluban, a Pankiszi-szorosban.",
+                  "category": "historical",
+                  "coords": [
+                        45.294872,
+                        42.164884
+                  ]
+            },
+            {
+                  "name": "მეორე მსოფლიო ომის ძეგლი",
+                  "text": "Helyi emlékmű a második világháború áldozatainak és eseményeinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        45.286603,
+                        42.161874
+                  ]
+            },
+            {
+                  "name": "ბალთაგორის კოშკი",
+                  "text": "Egy történelmi őrtorony a Pankiszi régióban, amely a középkori építészetről tanúskodik.",
+                  "category": "tower",
+                  "coords": [
+                        45.294774,
+                        42.166174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "პანკისის ეთნოგრაფიული მუზეუმი",
+                  "text": "Acest muzeu prezintă cultura și tradițiile bogate ale kistilor din valea Pankisi.",
+                  "category": "museum",
+                  "coords": [
+                        45.28552,
+                        42.139472
+                  ]
+            },
+            {
+                  "name": "ჯოყოლოს კვირაცხოვლის ეკლესია",
+                  "text": "Rămășițele unei biserici istorice din satul Jokolo, în valea Pankisi.",
+                  "category": "historical",
+                  "coords": [
+                        45.294872,
+                        42.164884
+                  ]
+            },
+            {
+                  "name": "მეორე მსოფლიო ომის ძეგლი",
+                  "text": "Un monument local dedicat memoriei victimelor și evenimentelor celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        45.286603,
+                        42.161874
+                  ]
+            },
+            {
+                  "name": "ბალთაგორის კოშკი",
+                  "text": "Un turn defensiv istoric din regiunea Pankisi, care atestă arhitectura medievală.",
+                  "category": "tower",
+                  "coords": [
+                        45.294774,
+                        42.166174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pankisi Ethnographic Museum",
+                  "text": "This museum showcases the rich culture and traditions of the Kists in the Pankisi Gorge.",
+                  "category": "museum",
+                  "coords": [
+                        45.28552,
+                        42.139472
+                  ]
+            },
+            {
+                  "name": "ჯოყოლოს კვირაცხოვლის ეკლესია",
+                  "text": "The remains of a historic church in the village of Jokolo in the Pankisi Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        45.294872,
+                        42.164884
+                  ]
+            },
+            {
+                  "name": "World War 2 monument",
+                  "text": "A local monument commemorating the victims and events of the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        45.286603,
+                        42.161874
+                  ]
+            },
+            {
+                  "name": "Baltagori Tower",
+                  "text": "A historical defensive tower in the Pankisi region, bearing witness to medieval architecture.",
+                  "category": "tower",
+                  "coords": [
+                        45.294774,
+                        42.166174
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "GE-KA",
     coords: [45.29, 42.17],
@@ -543,7 +1281,160 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "truso-valley-relief-v2",
+    id: "truso-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trusso-Schlucht",
+                  "text": "Das Truso-Tal ist für seine spektakuläre Landschaft und kohlensäurehaltigen Mineralquellen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.464736,
+                        42.581433
+                  ]
+            },
+            {
+                  "name": "კასარა",
+                  "text": "Ein markanter Berggipfel, der das malerische Truso-Tal im Kaukasus überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408543,
+                        42.618107
+                  ]
+            },
+            {
+                  "name": "Truso Travertine",
+                  "text": "Diese farbenfrohen Travertinformationen sind ein beeindruckendes Naturphänomen im Truso-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.42747,
+                        42.583045
+                  ]
+            },
+            {
+                  "name": "Mineraliensee Abano",
+                  "text": "Der Abano-Mineralsee ist für sein sprudelndes, mineralreiches Wasser in einer alpinen Umgebung bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421965,
+                        42.588217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "თრუსოს ხეობა",
+                  "text": "A Truso-völgy látványos tájairól és szénsavas ásványvízforrásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.464736,
+                        42.581433
+                  ]
+            },
+            {
+                  "name": "კასარა",
+                  "text": "A kaukázusi festői Truso-völgy fölé magasodó jellegzetes hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408543,
+                        42.618107
+                  ]
+            },
+            {
+                  "name": "თრუსოს ტრავერტინები",
+                  "text": "Ezek a színes travertin képződmények lenyűgöző természeti jelenségek a Truso-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.42747,
+                        42.583045
+                  ]
+            },
+            {
+                  "name": "აბანოს მინერალური ტბა",
+                  "text": "Az Abano-ásványtó pezsgő, ásványi anyagokban gazdag vizéről ismert alpesi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421965,
+                        42.588217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "თრუსოს ხეობა",
+                  "text": "Valea Truso este cunoscută pentru peisajele sale spectaculoase și izvoarele minerale carbogazoase.",
+                  "category": "landmark",
+                  "coords": [
+                        44.464736,
+                        42.581433
+                  ]
+            },
+            {
+                  "name": "კასარა",
+                  "text": "Un vârf muntos proeminent care domină pitoreasca vale Truso din Caucaz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408543,
+                        42.618107
+                  ]
+            },
+            {
+                  "name": "თრუსოს ტრავერტინები",
+                  "text": "Aceste formațiuni colorate de travertin sunt un fenomen natural impresionant în valea Truso.",
+                  "category": "landmark",
+                  "coords": [
+                        44.42747,
+                        42.583045
+                  ]
+            },
+            {
+                  "name": "აბანოს მინერალური ტბა",
+                  "text": "Lacul mineral Abano este cunoscut pentru apele sale acidulate, bogate în minerale, într-un cadru alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421965,
+                        42.588217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Truso Valley",
+                  "text": "Truso Valley is known for its spectacular landscapes and carbonated mineral springs.",
+                  "category": "landmark",
+                  "coords": [
+                        44.464736,
+                        42.581433
+                  ]
+            },
+            {
+                  "name": "Kasara",
+                  "text": "A prominent mountain peak overlooking the scenic Truso Valley in the Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.408543,
+                        42.618107
+                  ]
+            },
+            {
+                  "name": "Truso Travertines",
+                  "text": "These colorful travertine formations are an impressive natural phenomenon in the Truso Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        44.42747,
+                        42.583045
+                  ]
+            },
+            {
+                  "name": "Abano Mineral Lake",
+                  "text": "Abano Mineral Lake is known for its bubbling, mineral-rich waters in an alpine setting.",
+                  "category": "landmark",
+                  "coords": [
+                        44.421965,
+                        42.588217
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "GE-MM",
     coords: [44.42, 42.59],
@@ -579,7 +1470,124 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sno-valley-relief-v2",
+    id: "sno-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Ruinen einer mittelalterlichen Festung auf einem Hügel im Sno-Tal.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სნოს ციხე",
+                  "text": "Eine gut erhaltene Festung aus dem 16. Jahrhundert im Dorf Sno.",
+                  "category": "castle",
+                  "coords": [
+                        44.638316,
+                        42.605547
+                  ]
+            },
+            {
+                  "name": "გარბნის ოქროს წმ. გიორგის ეკლესია",
+                  "text": "Eine traditionelle orthodoxe Kirche für die Gemeinde im Sno-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        44.592495,
+                        42.609226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Egy középkori erőd romjai egy dombon a Sno-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სნოს ციხე",
+                  "text": "Jó állapotban fennmaradt 16. századi erőd Sno faluban.",
+                  "category": "castle",
+                  "coords": [
+                        44.638316,
+                        42.605547
+                  ]
+            },
+            {
+                  "name": "გარბნის ოქროს წმ. გიორგის ეკლესია",
+                  "text": "Hagyományos ortodox templom a Sno-völgy közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        44.592495,
+                        42.609226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Ruinele unei cetăți medievale situate pe un deal în Valea Sno.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სნოს ციხე",
+                  "text": "O cetate din secolul al XVI-lea bine conservată în satul Sno.",
+                  "category": "castle",
+                  "coords": [
+                        44.638316,
+                        42.605547
+                  ]
+            },
+            {
+                  "name": "გარბნის ოქროს წმ. გიორგის ეკლესია",
+                  "text": "O biserică ortodoxă tradițională care deservește comunitatea din Valea Sno.",
+                  "category": "religious",
+                  "coords": [
+                        44.592495,
+                        42.609226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsha fortress",
+                  "text": "The ruins of a medieval fortress situated on a hill in the Sno Valley.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "Sno fortress",
+                  "text": "A well-preserved 16th-century fortress in the village of Sno.",
+                  "category": "castle",
+                  "coords": [
+                        44.638316,
+                        42.605547
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "A traditional Orthodox church serving the community in the Sno Valley.",
+                  "category": "religious",
+                  "coords": [
+                        44.592495,
+                        42.609226
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "GE-MM",
     coords: [44.62, 42.60],
@@ -615,7 +1623,52 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     },
   },
   {
-    id: "darial-gorge-relief-v2",
+    id: "darial-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "თამარის ციხე",
+                  "text": "Ruinen einer mittelalterlichen Festung in der Darial-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        44.625742,
+                        42.738133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "თამარის ციხე",
+                  "text": "Középkori erőd romjai a Darjal-szorosban.",
+                  "category": "historical",
+                  "coords": [
+                        44.625742,
+                        42.738133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "თამარის ციხე",
+                  "text": "Ruinele unei cetăți medievale în defileul Darial.",
+                  "category": "historical",
+                  "coords": [
+                        44.625742,
+                        42.738133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamar Fortress",
+                  "text": "Ruins of a medieval fortress overlooking the Darial Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        44.625742,
+                        42.738133
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "GE-MM",
     coords: [44.62, 42.74],

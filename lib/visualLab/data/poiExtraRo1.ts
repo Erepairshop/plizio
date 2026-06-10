@@ -81,6 +81,51 @@ export const poiExtraRo1: POI[] = [
                         23.591873,
                         45.987253
                   ]
+            },
+            {
+                  "name": "Casa Memorială \"Lucian Blaga\"",
+                  "text": "Das Geburtshaus des berühmten Dichters Lucian Blaga, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.557125,
+                        45.984545
+                  ]
+            },
+            {
+                  "name": "Turnul Semicircular",
+                  "text": "Ein halbkreisförmiger Verteidigungsturm der mittelalterlichen Stadtmauer von Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.566631,
+                        45.958915
+                  ]
+            },
+            {
+                  "name": "Turnul Croitorilor",
+                  "text": "Ein historischer Verteidigungsturm in Sebeș, errichtet von der Schneiderzunft.",
+                  "category": "landmark",
+                  "coords": [
+                        23.572863,
+                        45.955646
+                  ]
+            },
+            {
+                  "name": "Rosticlar Sebeș (2007)",
+                  "text": "Ein modernes Denkmal in Sebeș, das an lokale Themen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        23.58044,
+                        45.947896
+                  ]
+            },
+            {
+                  "name": "Pump Track Arini",
+                  "text": "Eine Freizeitanlage für Radfahrer und Skater in Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.563109,
+                        45.947847
+                  ]
             }
       ],
       "hu": [
@@ -112,6 +157,51 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.591873,
                         45.987253
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Lucian Blaga\"",
+                  "text": "A neves költő és filozófus, Lucian Blaga szülőháza, amely ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.557125,
+                        45.984545
+                  ]
+            },
+            {
+                  "name": "Turnul Semicircular",
+                  "text": "Félkör alakú védőtorony, amely Szászsebes középkori városfalának része.",
+                  "category": "landmark",
+                  "coords": [
+                        23.566631,
+                        45.958915
+                  ]
+            },
+            {
+                  "name": "Turnul Croitorilor",
+                  "text": "Történelmi védőtorony Szászsebesben, amelyet a szabócéh épített.",
+                  "category": "landmark",
+                  "coords": [
+                        23.572863,
+                        45.955646
+                  ]
+            },
+            {
+                  "name": "Rosticlar Sebeș (2007)",
+                  "text": "Modern emlékmű Szászsebesben, amely helyi témáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        23.58044,
+                        45.947896
+                  ]
+            },
+            {
+                  "name": "Pump Track Arini",
+                  "text": "Kerékpárosok és görkorcsolyázók számára kialakított ügyességi pálya Szászsebesen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.563109,
+                        45.947847
                   ]
             }
       ],
@@ -145,6 +235,51 @@ export const poiExtraRo1: POI[] = [
                         23.591873,
                         45.987253
                   ]
+            },
+            {
+                  "name": "Casa Memorială \"Lucian Blaga\"",
+                  "text": "Casa natală a renumitului poet și filozof Lucian Blaga, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        23.557125,
+                        45.984545
+                  ]
+            },
+            {
+                  "name": "Turnul Semicircular",
+                  "text": "Un turn de apărare semicircular din zidurile medievale ale cetății Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.566631,
+                        45.958915
+                  ]
+            },
+            {
+                  "name": "Turnul Croitorilor",
+                  "text": "Un turn istoric de apărare din Sebeș, construit inițial de breasla croitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        23.572863,
+                        45.955646
+                  ]
+            },
+            {
+                  "name": "Rosticlar Sebeș (2007)",
+                  "text": "Un monument modern din Sebeș care comemorează teme locale.",
+                  "category": "historical",
+                  "coords": [
+                        23.58044,
+                        45.947896
+                  ]
+            },
+            {
+                  "name": "Pump Track Arini",
+                  "text": "O pistă de biciclete și role pentru amatorii de sport în Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.563109,
+                        45.947847
+                  ]
             }
       ],
       "en": [
@@ -176,6 +311,51 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.591873,
                         45.987253
+                  ]
+            },
+            {
+                  "name": "\"Lucian Blaga\" Memorial House",
+                  "text": "The birthplace of the renowned poet and philosopher Lucian Blaga, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.557125,
+                        45.984545
+                  ]
+            },
+            {
+                  "name": "Turnul Semicircular",
+                  "text": "A semicircular defensive tower that is part of the medieval city walls of Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.566631,
+                        45.958915
+                  ]
+            },
+            {
+                  "name": "Turnul Croitorilor",
+                  "text": "A historic defensive tower in Sebeș, originally built by the tailors' guild.",
+                  "category": "landmark",
+                  "coords": [
+                        23.572863,
+                        45.955646
+                  ]
+            },
+            {
+                  "name": "Rosticlar Sebeș (2007)",
+                  "text": "A modern monument in Sebeș commemorating local themes.",
+                  "category": "historical",
+                  "coords": [
+                        23.58044,
+                        45.947896
+                  ]
+            },
+            {
+                  "name": "PumpTrack Arini",
+                  "text": "A pump track for cyclists and skaters located in Sebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.563109,
+                        45.947847
                   ]
             }
       ]
@@ -514,6 +694,60 @@ export const poiExtraRo1: POI[] = [
                         23.92769,
                         46.229043
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie \"Augustin Bunea\"",
+                  "text": "Das Geschichtsmuseum „Augustin Bunea“ in Blaj dokumentiert das kulturelle Erbe der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        23.917816,
+                        46.178441
+                  ]
+            },
+            {
+                  "name": "Muzeul Arhiepiscopiei Majore a Bisericii Greco Catolice",
+                  "text": "Ein Museum, das der Geschichte und dem Erbe des griechisch-katholischen Bistums in Blaj gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.923145,
+                        46.173625
+                  ]
+            },
+            {
+                  "name": "Palatul Cultural",
+                  "text": "Ein Kulturpalast in Blaj, der als Ort für Theateraufführungen und Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        23.92146,
+                        46.173498
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Ein lokales Kulturhaus in Blaj, in dem verschiedene Theater- und Kunstaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        23.919944,
+                        46.177429
+                  ]
+            },
+            {
+                  "name": "Castelul Mitropolitan",
+                  "text": "Ein historisches Schloss in Blaj, das als bedeutendes Wahrzeichen der Stadt dient.",
+                  "category": "castle",
+                  "coords": [
+                        23.919982,
+                        46.173746
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "Ein Denkmal in Blaj, das die Kapitolinische Wölfin darstellt und die lateinischen Wurzeln der Stadt symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        23.924016,
+                        46.17628
+                  ]
             }
       ],
       "hu": [
@@ -544,6 +778,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.92769,
                         46.229043
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie \"Augustin Bunea\"",
+                  "text": "A blaji „Augustin Bunea” Történeti Múzeum a város kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.917816,
+                        46.178441
+                  ]
+            },
+            {
+                  "name": "Muzeul Arhiepiscopiei Majore a Bisericii Greco Catolice",
+                  "text": "A balázsfalvi görögkatolikus püspökség történetét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.923145,
+                        46.173625
+                  ]
+            },
+            {
+                  "name": "Palatul Cultural",
+                  "text": "Balázsfalvi kulturális palota, amely színházi előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.92146,
+                        46.173498
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Helyi művelődési ház Balázsfalván, amely különféle színházi és művészeti előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.919944,
+                        46.177429
+                  ]
+            },
+            {
+                  "name": "Bagdi-kastély",
+                  "text": "Jelentős történelmi kastély Balázsfalván, a város egyik fontos nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        23.919982,
+                        46.173746
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "A város latin gyökereit jelképező, a capitoliumi farkast ábrázoló emlékmű Balázsfalván.",
+                  "category": "historical",
+                  "coords": [
+                        23.924016,
+                        46.17628
                   ]
             }
       ],
@@ -576,6 +864,60 @@ export const poiExtraRo1: POI[] = [
                         23.92769,
                         46.229043
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie \"Augustin Bunea\"",
+                  "text": "Muzeul de Istorie „Augustin Bunea” din Blaj documentează moștenirea culturală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        23.917816,
+                        46.178441
+                  ]
+            },
+            {
+                  "name": "Muzeul Arhiepiscopiei Majore a Bisericii Greco Catolice",
+                  "text": "Un muzeu dedicat istoriei și patrimoniului Episcopiei Greco-Catolice din Blaj.",
+                  "category": "museum",
+                  "coords": [
+                        23.923145,
+                        46.173625
+                  ]
+            },
+            {
+                  "name": "Palatul Cultural",
+                  "text": "Un palat cultural din Blaj care servește ca spațiu pentru spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        23.92146,
+                        46.173498
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "O casă de cultură locală din Blaj care găzduiește diverse spectacole de teatru și artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        23.919944,
+                        46.177429
+                  ]
+            },
+            {
+                  "name": "Castelul Mitropolitan",
+                  "text": "Un castel istoric din Blaj care servește ca un punct de reper semnificativ al orașului.",
+                  "category": "castle",
+                  "coords": [
+                        23.919982,
+                        46.173746
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "Un monument din Blaj care înfățișează Lupa Capitolina, simbolizând rădăcinile latine ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        23.924016,
+                        46.17628
+                  ]
             }
       ],
       "en": [
@@ -606,6 +948,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.92769,
                         46.229043
+                  ]
+            },
+            {
+                  "name": "\"Augustin Bunea\" History Museum",
+                  "text": "The \"Augustin Bunea\" History Museum in Blaj documents the city's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        23.917816,
+                        46.178441
+                  ]
+            },
+            {
+                  "name": "Greek-Catholic Bishopric Museum",
+                  "text": "A museum dedicated to the history and heritage of the Greek-Catholic Bishopric in Blaj.",
+                  "category": "museum",
+                  "coords": [
+                        23.923145,
+                        46.173625
+                  ]
+            },
+            {
+                  "name": "Palatul Cultural",
+                  "text": "A cultural palace in Blaj serving as a venue for theatrical performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.92146,
+                        46.173498
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "A local house of culture in Blaj hosting various theatrical and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.919944,
+                        46.177429
+                  ]
+            },
+            {
+                  "name": "Castelul Mitropolitan",
+                  "text": "A historic castle in Blaj that serves as a significant landmark of the city.",
+                  "category": "castle",
+                  "coords": [
+                        23.919982,
+                        46.173746
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "A monument in Blaj depicting the Capitoline Wolf, symbolizing the city's Latin roots.",
+                  "category": "historical",
+                  "coords": [
+                        23.924016,
+                        46.17628
                   ]
             }
       ]
@@ -670,6 +1066,15 @@ export const poiExtraRo1: POI[] = [
                         21.061519,
                         46.130899
                   ]
+            },
+            {
+                  "name": "Monumentul eroilor din Pecica",
+                  "text": "Ein Denkmal in der Stadt Pecica, das dem Gedenken an die lokalen Helden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.064783,
+                        46.160591
+                  ]
             }
       ],
       "hu": [
@@ -681,6 +1086,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.061519,
                         46.130899
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din Pecica",
+                  "text": "Pecica városában található emlékmű, amelyet a helyi hősök emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.064783,
+                        46.160591
                   ]
             }
       ],
@@ -694,6 +1108,15 @@ export const poiExtraRo1: POI[] = [
                         21.061519,
                         46.130899
                   ]
+            },
+            {
+                  "name": "Monumentul eroilor din Pecica",
+                  "text": "Un monument în orașul Pecica dedicat memoriei eroilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        21.064783,
+                        46.160591
+                  ]
             }
       ],
       "en": [
@@ -705,6 +1128,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.061519,
                         46.130899
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din Pecica",
+                  "text": "A monument in the town of Pecica dedicated to the memory of local heroes.",
+                  "category": "historical",
+                  "coords": [
+                        21.064783,
+                        46.160591
                   ]
             }
       ]
@@ -938,6 +1370,15 @@ export const poiExtraRo1: POI[] = [
                         21.695026,
                         46.092246
                   ]
+            },
+            {
+                  "name": "\"Stefan Crisan\" Rare Books and Icons Collection",
+                  "text": "Ein Museum in Lipova, das eine wertvolle Sammlung seltener Bücher und religiöser Ikonen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        21.692434,
+                        46.087697
+                  ]
             }
       ],
       "hu": [
@@ -979,6 +1420,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.695026,
                         46.092246
+                  ]
+            },
+            {
+                  "name": "\"Stefan Crisan\" Rare Books and Icons Collection",
+                  "text": "Lipovai múzeum, amely ritka könyvek és vallási ikonok értékes gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.692434,
+                        46.087697
                   ]
             }
       ],
@@ -1022,6 +1472,15 @@ export const poiExtraRo1: POI[] = [
                         21.695026,
                         46.092246
                   ]
+            },
+            {
+                  "name": "\"Stefan Crisan\" Rare Books and Icons Collection",
+                  "text": "Un muzeu din Lipova care expune o colecție valoroasă de cărți rare și icoane religioase.",
+                  "category": "museum",
+                  "coords": [
+                        21.692434,
+                        46.087697
+                  ]
             }
       ],
       "en": [
@@ -1063,6 +1522,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.695026,
                         46.092246
+                  ]
+            },
+            {
+                  "name": "\"Stefan Crisan\" Rare Books and Icons Collection",
+                  "text": "A museum in Lipova displaying a valuable collection of rare books and religious icons.",
+                  "category": "museum",
+                  "coords": [
+                        21.692434,
+                        46.087697
                   ]
             }
       ]
@@ -1666,6 +2134,15 @@ export const poiExtraRo1: POI[] = [
                         24.894138,
                         44.963216
                   ]
+            },
+            {
+                  "name": "Muzeul etnografic Prof. C.I. Nastase",
+                  "text": "Ein ethnografisches Museum in Mioveni, das traditionelles rumänisches Leben und Handwerk präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.961703,
+                        44.96992
+                  ]
             }
       ],
       "hu": [
@@ -1706,6 +2183,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.894138,
                         44.963216
+                  ]
+            },
+            {
+                  "name": "Muzeul etnografic Prof. C.I. Nastase",
+                  "text": "Néprajzi múzeum Mioveniben, amely a hagyományos román életet és mesterségeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.961703,
+                        44.96992
                   ]
             }
       ],
@@ -1748,6 +2234,15 @@ export const poiExtraRo1: POI[] = [
                         24.894138,
                         44.963216
                   ]
+            },
+            {
+                  "name": "Muzeul etnografic Prof. C.I. Nastase",
+                  "text": "Un muzeu etnografic din Mioveni care prezintă viața și meșteșugurile tradiționale românești.",
+                  "category": "museum",
+                  "coords": [
+                        24.961703,
+                        44.96992
+                  ]
             }
       ],
       "en": [
@@ -1788,6 +2283,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.894138,
                         44.963216
+                  ]
+            },
+            {
+                  "name": "Muzeul etnografic Prof. C.I. Nastase",
+                  "text": "An ethnographic museum in Mioveni presenting traditional Romanian life and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        24.961703,
+                        44.96992
                   ]
             }
       ]
@@ -2284,6 +2788,15 @@ export const poiExtraRo1: POI[] = [
                         26.445736,
                         46.419746
                   ]
+            },
+            {
+                  "name": "La Cetățuie",
+                  "text": "La Cetățuie ist eine archäologische Fundstätte in der Nähe von Comănești.",
+                  "category": "historical",
+                  "coords": [
+                        26.471306,
+                        46.427385
+                  ]
             }
       ],
       "hu": [
@@ -2315,6 +2828,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.445736,
                         46.419746
+                  ]
+            },
+            {
+                  "name": "La Cetățuie",
+                  "text": "La Cetățuie egy régészeti lelőhely Comănești közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.471306,
+                        46.427385
                   ]
             }
       ],
@@ -2348,6 +2870,15 @@ export const poiExtraRo1: POI[] = [
                         26.445736,
                         46.419746
                   ]
+            },
+            {
+                  "name": "La Cetățuie",
+                  "text": "La Cetățuie este un sit arheologic situat în apropiere de Comănești.",
+                  "category": "historical",
+                  "coords": [
+                        26.471306,
+                        46.427385
+                  ]
             }
       ],
       "en": [
@@ -2379,6 +2910,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.445736,
                         46.419746
+                  ]
+            },
+            {
+                  "name": "La Cetățuie",
+                  "text": "La Cetățuie is an archaeological site located near Comănești.",
+                  "category": "historical",
+                  "coords": [
+                        26.471306,
+                        46.427385
                   ]
             }
       ]
@@ -2444,6 +2984,15 @@ export const poiExtraRo1: POI[] = [
                         21.659649,
                         46.802925
                   ]
+            },
+            {
+                  "name": "Muzeul taranului Roman Salonta",
+                  "text": "Ein Museum in Salonta, das dem traditionellen Leben und Handwerk der rumänischen Bauern gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.635064,
+                        46.79939
+                  ]
             }
       ],
       "hu": [
@@ -2465,6 +3014,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.659649,
                         46.802925
+                  ]
+            },
+            {
+                  "name": "Muzeul taranului Roman Salonta",
+                  "text": "Nagyszalontai múzeum, amely a román parasztok hagyományos életét és mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.635064,
+                        46.79939
                   ]
             }
       ],
@@ -2488,6 +3046,15 @@ export const poiExtraRo1: POI[] = [
                         21.659649,
                         46.802925
                   ]
+            },
+            {
+                  "name": "Muzeul taranului Roman Salonta",
+                  "text": "Un muzeu în Salonta dedicat vieții tradiționale și meșteșugurilor țăranului român.",
+                  "category": "museum",
+                  "coords": [
+                        21.635064,
+                        46.79939
+                  ]
             }
       ],
       "en": [
@@ -2509,6 +3076,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.659649,
                         46.802925
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Peasant",
+                  "text": "A museum in Salonta dedicated to the traditional life and crafts of the Romanian peasant.",
+                  "category": "museum",
+                  "coords": [
+                        21.635064,
+                        46.79939
                   ]
             }
       ]
@@ -2619,6 +3195,24 @@ export const poiExtraRo1: POI[] = [
                         22.355025,
                         46.6894
                   ]
+            },
+            {
+                  "name": "Muzeul Municipal Beiuș",
+                  "text": "Ein Museum in Beiuș, das die lokale Geschichte und Ethnographie der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.347759,
+                        46.666942
+                  ]
+            },
+            {
+                  "name": "Teatrul Beiuș",
+                  "text": "Das lokale Theater von Beiuș für kulturelle Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.363588,
+                        46.667645
+                  ]
             }
       ],
       "hu": [
@@ -2639,6 +3233,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.355025,
                         46.6894
+                  ]
+            },
+            {
+                  "name": "Muzeul Municipal Beiuș",
+                  "text": "Múzeum Belényesen, amely a régió helytörténetét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.347759,
+                        46.666942
+                  ]
+            },
+            {
+                  "name": "Teatrul Beiuș",
+                  "text": "Belényes helyi színháza kulturális előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        22.363588,
+                        46.667645
                   ]
             }
       ],
@@ -2661,6 +3273,24 @@ export const poiExtraRo1: POI[] = [
                         22.355025,
                         46.6894
                   ]
+            },
+            {
+                  "name": "Muzeul Municipal Beiuș",
+                  "text": "Un muzeu din Beiuș care prezintă istoria locală și etnografia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.347759,
+                        46.666942
+                  ]
+            },
+            {
+                  "name": "Teatrul Beiuș",
+                  "text": "Teatrul local din Beiuș pentru spectacole culturale și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        22.363588,
+                        46.667645
+                  ]
             }
       ],
       "en": [
@@ -2681,6 +3311,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.355025,
                         46.6894
+                  ]
+            },
+            {
+                  "name": "Beius City Museum",
+                  "text": "A museum in Beiuș showcasing the local history and ethnography of the region.",
+                  "category": "museum",
+                  "coords": [
+                        22.347759,
+                        46.666942
+                  ]
+            },
+            {
+                  "name": "Teatrul Beiuș",
+                  "text": "The local theatre of Beiuș used for cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.363588,
+                        46.667645
                   ]
             }
       ]
@@ -2876,6 +3524,33 @@ export const poiExtraRo1: POI[] = [
                         24.190976,
                         47.185483
                   ]
+            },
+            {
+                  "name": "Muzeul Protopopiatului Ortodox Beclean",
+                  "text": "Ein Museum in Beclean, das das orthodoxe kirchliche Erbe der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.176563,
+                        47.180058
+                  ]
+            },
+            {
+                  "name": "Muzeul Casa de Vanatoare",
+                  "text": "Ein Museum in Beclean, das der Jagdgeschichte und lokalen Traditionen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.189642,
+                        47.177689
+                  ]
+            },
+            {
+                  "name": "Băile Figa",
+                  "text": "Ein modernes Erholungs- und Thermalbad in der Nähe von Beclean.",
+                  "category": "landmark",
+                  "coords": [
+                        24.20684,
+                        47.16357
+                  ]
             }
       ],
       "hu": [
@@ -2897,6 +3572,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.190976,
                         47.185483
+                  ]
+            },
+            {
+                  "name": "Muzeul Protopopiatului Ortodox Beclean",
+                  "text": "Becleanban található múzeum, amely a régió ortodox egyházi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.176563,
+                        47.180058
+                  ]
+            },
+            {
+                  "name": "Muzeul Casa de Vanatoare",
+                  "text": "A vadászat történetének és a helyi hagyományoknak szentelt múzeum Becleanban.",
+                  "category": "museum",
+                  "coords": [
+                        24.189642,
+                        47.177689
+                  ]
+            },
+            {
+                  "name": "Băile Figa",
+                  "text": "Modern üdülő- és termálfürdő Beclean közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.20684,
+                        47.16357
                   ]
             }
       ],
@@ -2920,6 +3622,33 @@ export const poiExtraRo1: POI[] = [
                         24.190976,
                         47.185483
                   ]
+            },
+            {
+                  "name": "Muzeul Protopopiatului Ortodox Beclean",
+                  "text": "Un muzeu din Beclean ce prezintă patrimoniul ecleziastic ortodox al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        24.176563,
+                        47.180058
+                  ]
+            },
+            {
+                  "name": "Muzeul Casa de Vanatoare",
+                  "text": "Un muzeu din Beclean dedicat istoriei vânătorii și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.189642,
+                        47.177689
+                  ]
+            },
+            {
+                  "name": "Băile Figa",
+                  "text": "O stațiune modernă de recreere și tratament balnear lângă Beclean.",
+                  "category": "landmark",
+                  "coords": [
+                        24.20684,
+                        47.16357
+                  ]
             }
       ],
       "en": [
@@ -2941,6 +3670,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.190976,
                         47.185483
+                  ]
+            },
+            {
+                  "name": "Beclean Orthodox Archpriest District Museum",
+                  "text": "A museum in Beclean showcasing the Orthodox ecclesiastical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.176563,
+                        47.180058
+                  ]
+            },
+            {
+                  "name": "Hunting House Museum",
+                  "text": "A museum in Beclean dedicated to hunting history and local traditions.",
+                  "category": "museum",
+                  "coords": [
+                        24.189642,
+                        47.177689
+                  ]
+            },
+            {
+                  "name": "Băile Figa",
+                  "text": "A modern recreational and spa resort located near Beclean.",
+                  "category": "landmark",
+                  "coords": [
+                        24.20684,
+                        47.16357
                   ]
             }
       ]
@@ -3351,6 +4107,15 @@ export const poiExtraRo1: POI[] = [
                         26.952496,
                         47.930397
                   ]
+            },
+            {
+                  "name": "Centrul Cultural Săveni",
+                  "text": "Ein lokales Kulturzentrum in Săveni, in dem verschiedene künstlerische und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        26.854015,
+                        47.952235
+                  ]
             }
       ],
       "hu": [
@@ -3371,6 +4136,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.952496,
                         47.930397
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Săveni",
+                  "text": "Helyi kulturális központ Săveni városában, amely különféle művészeti és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.854015,
+                        47.952235
                   ]
             }
       ],
@@ -3393,6 +4167,15 @@ export const poiExtraRo1: POI[] = [
                         26.952496,
                         47.930397
                   ]
+            },
+            {
+                  "name": "Centrul Cultural Săveni",
+                  "text": "Un centru cultural local din Săveni care găzduiește diverse evenimente artistice și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.854015,
+                        47.952235
+                  ]
             }
       ],
       "en": [
@@ -3413,6 +4196,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.952496,
                         47.930397
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Săveni",
+                  "text": "A local arts center in Săveni hosting various artistic and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.854015,
+                        47.952235
                   ]
             }
       ]
@@ -4010,6 +4802,15 @@ export const poiExtraRo1: POI[] = [
                         25.330973,
                         45.56117
                   ]
+            },
+            {
+                  "name": "Glorie Eroilor Zarnesti",
+                  "text": "Ein Denkmal in Zărnești zu Ehren der Helden, die für das Land gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        25.316301,
+                        45.560773
+                  ]
             }
       ],
       "hu": [
@@ -4051,6 +4852,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.330973,
                         45.56117
+                  ]
+            },
+            {
+                  "name": "Glorie Eroilor Zarnesti",
+                  "text": "Zărnești-i emlékmű az országért elesett hősök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.316301,
+                        45.560773
                   ]
             }
       ],
@@ -4094,6 +4904,15 @@ export const poiExtraRo1: POI[] = [
                         25.330973,
                         45.56117
                   ]
+            },
+            {
+                  "name": "Glorie Eroilor Zarnesti",
+                  "text": "Un monument din Zărnești ridicat în cinstea eroilor căzuți pentru țară.",
+                  "category": "historical",
+                  "coords": [
+                        25.316301,
+                        45.560773
+                  ]
             }
       ],
       "en": [
@@ -4135,6 +4954,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.330973,
                         45.56117
+                  ]
+            },
+            {
+                  "name": "Glorie Eroilor Zarnesti",
+                  "text": "A monument in Zărnești honoring the heroes who fell for the country.",
+                  "category": "historical",
+                  "coords": [
+                        25.316301,
+                        45.560773
                   ]
             }
       ]
@@ -4488,6 +5316,15 @@ export const poiExtraRo1: POI[] = [
                         27.277955,
                         45.081522
                   ]
+            },
+            {
+                  "name": "Casa de Cultură ”George Vâlsan” Făurei",
+                  "text": "Ein städtisches Kulturzentrum in Făurei, das als Veranstaltungsort für Theater und Konzerte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        27.273464,
+                        45.084118
+                  ]
             }
       ],
       "hu": [
@@ -4509,6 +5346,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.277955,
                         45.081522
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură ”George Vâlsan” Făurei",
+                  "text": "Városi kulturális központ Făurei-ben, amely színházi előadások és koncertek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        27.273464,
+                        45.084118
                   ]
             }
       ],
@@ -4532,6 +5378,15 @@ export const poiExtraRo1: POI[] = [
                         27.277955,
                         45.081522
                   ]
+            },
+            {
+                  "name": "Casa de Cultură ”George Vâlsan” Făurei",
+                  "text": "Un centru cultural în Făurei, care servește drept spațiu pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        27.273464,
+                        45.084118
+                  ]
             }
       ],
       "en": [
@@ -4553,6 +5408,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.277955,
                         45.081522
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură ”George Vâlsan” Făurei",
+                  "text": "A municipal cultural centre in Făurei, serving as a venue for theatre and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        27.273464,
+                        45.084118
                   ]
             }
       ]
@@ -4628,6 +5492,15 @@ export const poiExtraRo1: POI[] = [
                         27.048721,
                         45.379233
                   ]
+            },
+            {
+                  "name": "Palatul Lupescu",
+                  "text": "Ein historisches Gebäude in Râmnicu Sărat, das für seine lokale Bedeutung und Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.045347,
+                        45.383101
+                  ]
             }
       ],
       "hu": [
@@ -4659,6 +5532,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.048721,
                         45.379233
+                  ]
+            },
+            {
+                  "name": "Palatul Lupescu",
+                  "text": "Râmnicu Sărat egyik történelmi épülete, amely helyi jelentőségéről és építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.045347,
+                        45.383101
                   ]
             }
       ],
@@ -4692,6 +5574,15 @@ export const poiExtraRo1: POI[] = [
                         27.048721,
                         45.379233
                   ]
+            },
+            {
+                  "name": "Palatul Lupescu",
+                  "text": "O clădire istorică din Râmnicu Sărat, cunoscută pentru importanța sa locală și arhitectură.",
+                  "category": "landmark",
+                  "coords": [
+                        27.045347,
+                        45.383101
+                  ]
             }
       ],
       "en": [
@@ -4723,6 +5614,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.048721,
                         45.379233
+                  ]
+            },
+            {
+                  "name": "Palatul Lupescu",
+                  "text": "A historical building in Râmnicu Sărat known for its local significance and architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        27.045347,
+                        45.383101
                   ]
             }
       ]
@@ -5753,6 +6653,33 @@ export const poiExtraRo1: POI[] = [
                         26.6413,
                         44.0634
                   ]
+            },
+            {
+                  "name": "Muzeul Flacăra",
+                  "text": "Ein lokales Museum in Oltenița, das sich mit der regionalen Kultur und Geschichte beschäftigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.638852,
+                        44.086331
+                  ]
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "Ein bedeutendes monumentales Gebäude in Oltenița, das für kulturelle Veranstaltungen und Ausstellungen genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        26.636909,
+                        44.087702
+                  ]
+            },
+            {
+                  "name": "Vedere la fluviul Dunărea",
+                  "text": "Ein Aussichtspunkt in Oltenița, der einen weiten Blick über den Lauf der Donau bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.640139,
+                        44.063596
+                  ]
             }
       ],
       "hu": [
@@ -5784,6 +6711,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.6413,
                         44.0634
+                  ]
+            },
+            {
+                  "name": "Muzeul Flacăra",
+                  "text": "Helyi múzeum Oltenițában, amely a regionális kultúrával és történelemmel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        26.638852,
+                        44.086331
+                  ]
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "Jelentős monumentális épület Oltenițában, amelyet kulturális rendezvényekre és kiállításokra használnak.",
+                  "category": "historical",
+                  "coords": [
+                        26.636909,
+                        44.087702
+                  ]
+            },
+            {
+                  "name": "Vedere la fluviul Dunărea",
+                  "text": "Kilátóhely Oltenițában, amely széles rálátást biztosít a Duna folyamára.",
+                  "category": "natural",
+                  "coords": [
+                        26.640139,
+                        44.063596
                   ]
             }
       ],
@@ -5817,6 +6771,33 @@ export const poiExtraRo1: POI[] = [
                         26.6413,
                         44.0634
                   ]
+            },
+            {
+                  "name": "Muzeul Flacăra",
+                  "text": "Un muzeu local din Oltenița, care se ocupă de cultura și istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        26.638852,
+                        44.086331
+                  ]
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "O clădire monumentală importantă din Oltenița, utilizată pentru evenimente culturale și expoziții.",
+                  "category": "historical",
+                  "coords": [
+                        26.636909,
+                        44.087702
+                  ]
+            },
+            {
+                  "name": "Vedere la fluviul Dunărea",
+                  "text": "Un punct de belvedere din Oltenița, care oferă o vedere largă asupra cursului Dunării.",
+                  "category": "natural",
+                  "coords": [
+                        26.640139,
+                        44.063596
+                  ]
             }
       ],
       "en": [
@@ -5848,6 +6829,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.6413,
                         44.0634
+                  ]
+            },
+            {
+                  "name": "Muzeul Flacăra",
+                  "text": "A local museum in Oltenița focused on regional culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        26.638852,
+                        44.086331
+                  ]
+            },
+            {
+                  "name": "Palatul Culturii",
+                  "text": "An important monumental building in Oltenița used for cultural events and exhibitions.",
+                  "category": "historical",
+                  "coords": [
+                        26.636909,
+                        44.087702
+                  ]
+            },
+            {
+                  "name": "Vedere la fluviul Dunărea",
+                  "text": "A viewpoint in Oltenița offering a wide view over the course of the Danube river.",
+                  "category": "natural",
+                  "coords": [
+                        26.640139,
+                        44.063596
                   ]
             }
       ]
@@ -6571,6 +7579,15 @@ export const poiExtraRo1: POI[] = [
                         23.876102,
                         47.142303
                   ]
+            },
+            {
+                  "name": "Muzeul Militar Dej",
+                  "text": "Ein Militärmuseum, das verschiedene Ausstellungsstücke zur rumänischen Militärgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.875085,
+                        47.142348
+                  ]
             }
       ],
       "hu": [
@@ -6582,6 +7599,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.876102,
                         47.142303
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Dej",
+                  "text": "Katonai múzeum, amely a román hadtörténet különféle emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.875085,
+                        47.142348
                   ]
             }
       ],
@@ -6595,6 +7621,15 @@ export const poiExtraRo1: POI[] = [
                         23.876102,
                         47.142303
                   ]
+            },
+            {
+                  "name": "Muzeul Militar Dej",
+                  "text": "Un muzeu militar care expune diverse piese legate de istoria militară a României.",
+                  "category": "museum",
+                  "coords": [
+                        23.875085,
+                        47.142348
+                  ]
             }
       ],
       "en": [
@@ -6606,6 +7641,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.876102,
                         47.142303
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Dej",
+                  "text": "A military museum displaying various exhibits related to Romanian military history.",
+                  "category": "museum",
+                  "coords": [
+                        23.875085,
+                        47.142348
                   ]
             }
       ]
@@ -6707,6 +7751,24 @@ export const poiExtraRo1: POI[] = [
                         23.894226,
                         46.540661
                   ]
+            },
+            {
+                  "name": "Prima scoala romaneasca din Campia Turzii",
+                  "text": "Ein Museum in Câmpia Turzii, das in der ersten rumänischen Schule der Stadt untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.885495,
+                        46.549007
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Aries Valley, Octavian Pacurar Cultural Association",
+                  "text": "Ein ethnografisches Museum in Câmpia Turzii, das das Erbe des Aranyos-Tals bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.880197,
+                        46.548656
+                  ]
             }
       ],
       "hu": [
@@ -6764,6 +7826,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.894226,
                         46.540661
+                  ]
+            },
+            {
+                  "name": "Prima scoala romaneasca din Campia Turzii",
+                  "text": "Aranyosgyéresi múzeum, amely a város első román iskolájának épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        23.885495,
+                        46.549007
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Aries Valley, Octavian Pacurar Cultural Association",
+                  "text": "Néprajzi múzeum Aranyosgyéresen, amely az Aranyos-völgy örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        23.880197,
+                        46.548656
                   ]
             }
       ],
@@ -6823,6 +7903,24 @@ export const poiExtraRo1: POI[] = [
                         23.894226,
                         46.540661
                   ]
+            },
+            {
+                  "name": "Prima scoala romaneasca din Campia Turzii",
+                  "text": "Un muzeu din Câmpia Turzii găzduit în clădirea primei școli românești din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        23.885495,
+                        46.549007
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Aries Valley, Octavian Pacurar Cultural Association",
+                  "text": "Un muzeu etnografic din Câmpia Turzii care păstrează moștenirea Văii Arieșului.",
+                  "category": "museum",
+                  "coords": [
+                        23.880197,
+                        46.548656
+                  ]
             }
       ],
       "en": [
@@ -6880,6 +7978,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.894226,
                         46.540661
+                  ]
+            },
+            {
+                  "name": "Prima scoala romaneasca din Campia Turzii",
+                  "text": "A museum in Câmpia Turzii housed in the building of the city's first Romanian school.",
+                  "category": "museum",
+                  "coords": [
+                        23.885495,
+                        46.549007
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Aries Valley, Octavian Pacurar Cultural Association",
+                  "text": "An ethnographic museum in Câmpia Turzii preserving the heritage of the Aries Valley.",
+                  "category": "museum",
+                  "coords": [
+                        23.880197,
+                        46.548656
                   ]
             }
       ]
@@ -7951,6 +9067,33 @@ export const poiExtraRo1: POI[] = [
                         26.137781,
                         46.002899
                   ]
+            },
+            {
+                  "name": "Casa Colecțiilor",
+                  "text": "Ein Museum in Târgu Secuiesc, das verschiedene lokale kulturgeschichtliche Sammlungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        26.13803,
+                        46.000658
+                  ]
+            },
+            {
+                  "name": "Kossuth Lajos",
+                  "text": "Ein Denkmal in Târgu Secuiesc zu Ehren des ungarischen Freiheitskämpfers Lajos Kossuth.",
+                  "category": "historical",
+                  "coords": [
+                        26.132148,
+                        46.001092
+                  ]
+            },
+            {
+                  "name": "Biserica Franciscană",
+                  "text": "Eine historische katholische Kirche und ehemaliges Kloster des Franziskanerordens in Târgu Secuiesc.",
+                  "category": "religious",
+                  "coords": [
+                        26.13861,
+                        46.005981
+                  ]
             }
       ],
       "hu": [
@@ -7972,6 +9115,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.137781,
                         46.002899
+                  ]
+            },
+            {
+                  "name": "Gyûjtemények Háza",
+                  "text": "Kézdivásárhelyi múzeum, amely különféle helyi művelődéstörténeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.13803,
+                        46.000658
+                  ]
+            },
+            {
+                  "name": "Kossuth Lajos",
+                  "text": "Emlékmű Kézdivásárhelyen Kossuth Lajos, a magyar szabadságharc vezetője tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.132148,
+                        46.001092
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Történelmi katolikus templom és egykori ferences kolostor Kézdivásárhelyen.",
+                  "category": "religious",
+                  "coords": [
+                        26.13861,
+                        46.005981
                   ]
             }
       ],
@@ -7995,6 +9165,33 @@ export const poiExtraRo1: POI[] = [
                         26.137781,
                         46.002899
                   ]
+            },
+            {
+                  "name": "Casa Colecțiilor",
+                  "text": "Un muzeu din Târgu Secuiesc care găzduiește diverse colecții de istorie culturală locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.13803,
+                        46.000658
+                  ]
+            },
+            {
+                  "name": "Kossuth Lajos",
+                  "text": "Un monument în Târgu Secuiesc ridicat în onoarea liderului revoluționar maghiar Lajos Kossuth.",
+                  "category": "historical",
+                  "coords": [
+                        26.132148,
+                        46.001092
+                  ]
+            },
+            {
+                  "name": "Biserica Franciscană",
+                  "text": "O biserică catolică istorică și fostă mănăstire franciscană din Târgu Secuiesc.",
+                  "category": "religious",
+                  "coords": [
+                        26.13861,
+                        46.005981
+                  ]
             }
       ],
       "en": [
@@ -8016,6 +9213,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.137781,
                         46.002899
+                  ]
+            },
+            {
+                  "name": "Casa Colecțiilor",
+                  "text": "A museum in Târgu Secuiesc housing various local cultural and historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        26.13803,
+                        46.000658
+                  ]
+            },
+            {
+                  "name": "Kossuth Lajos",
+                  "text": "A monument in Târgu Secuiesc honoring the Hungarian revolutionary leader Lajos Kossuth.",
+                  "category": "historical",
+                  "coords": [
+                        26.132148,
+                        46.001092
+                  ]
+            },
+            {
+                  "name": "Biserica Franciscană",
+                  "text": "A historical Catholic church and former Franciscan monastery in Târgu Secuiesc.",
+                  "category": "religious",
+                  "coords": [
+                        26.13861,
+                        46.005981
                   ]
             }
       ]
@@ -8465,6 +9689,15 @@ export const poiExtraRo1: POI[] = [
                         26.029676,
                         45.665799
                   ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Das lokale Kulturhaus in Întorsura Buzăului bietet Raum für Theater und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.029088,
+                        45.671979
+                  ]
             }
       ],
       "hu": [
@@ -8496,6 +9729,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.029676,
                         45.665799
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Bodzaforduló helyi művelődési háza színházi előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.029088,
+                        45.671979
                   ]
             }
       ],
@@ -8529,6 +9771,15 @@ export const poiExtraRo1: POI[] = [
                         26.029676,
                         45.665799
                   ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Casa de cultură din Întorsura Buzăului găzduiește spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.029088,
+                        45.671979
+                  ]
             }
       ],
       "en": [
@@ -8560,6 +9811,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.029676,
                         45.665799
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "The local culture house in Întorsura Buzăului hosts theatre performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.029088,
+                        45.671979
                   ]
             }
       ]
@@ -8764,6 +10024,24 @@ export const poiExtraRo1: POI[] = [
                         25.428709,
                         45.074626
                   ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Museum in Pucioasa, das traditionelle Bräuche und lokale Handwerkskunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.434652,
+                        45.076203
+                  ]
+            },
+            {
+                  "name": "Tabăra de sculptură în lemn",
+                  "text": "Ein Ort in Pucioasa, an dem verschiedene Holzskulpturen im Freien ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        25.429899,
+                        45.080122
+                  ]
             }
       ],
       "hu": [
@@ -8794,6 +10072,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.428709,
                         45.074626
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Múzeum Pucioasában, amely a hagyományos szokásokat és helyi kézművességet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.434652,
+                        45.076203
+                  ]
+            },
+            {
+                  "name": "Tabăra de sculptură în lemn",
+                  "text": "Szabadtéri helyszín Pucioasában, ahol különböző fafaragványok láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        25.429899,
+                        45.080122
                   ]
             }
       ],
@@ -8826,6 +10122,24 @@ export const poiExtraRo1: POI[] = [
                         25.428709,
                         45.074626
                   ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Muzeu în Pucioasa ce prezintă obiceiurile tradiționale și meșteșugurile locale.",
+                  "category": "museum",
+                  "coords": [
+                        25.434652,
+                        45.076203
+                  ]
+            },
+            {
+                  "name": "Tabăra de sculptură în lemn",
+                  "text": "O tabără de creație din Pucioasa unde sunt expuse diverse sculpturi în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        25.429899,
+                        45.080122
+                  ]
             }
       ],
       "en": [
@@ -8856,6 +10170,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.428709,
                         45.074626
+                  ]
+            },
+            {
+                  "name": "Ethnography Museum",
+                  "text": "Museum in Pucioasa showcasing traditional customs and local craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        25.434652,
+                        45.076203
+                  ]
+            },
+            {
+                  "name": "Tabăra de sculptură în lemn",
+                  "text": "An outdoor site in Pucioasa featuring a collection of wooden sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        25.429899,
+                        45.080122
                   ]
             }
       ]
@@ -9123,6 +10455,33 @@ export const poiExtraRo1: POI[] = [
                         23.34376,
                         44.020253
                   ]
+            },
+            {
+                  "name": "Muzeul Câmpiei Băileștilor",
+                  "text": "Ein Museum in Băilești, das die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.343663,
+                        44.026695
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Amza Pelea",
+                  "text": "Das Gedenkhaus des berühmten rumänischen Schauspielers Amza Pelea.",
+                  "category": "museum",
+                  "coords": [
+                        23.343553,
+                        44.011801
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Apostoli”",
+                  "text": "Eine orthodoxe Kirche in Băilești, die den Heiligen Aposteln geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.341237,
+                        44.02103
+                  ]
             }
       ],
       "hu": [
@@ -9144,6 +10503,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.34376,
                         44.020253
+                  ]
+            },
+            {
+                  "name": "Muzeul Câmpiei Băileștilor",
+                  "text": "Múzeum Băilești-ben, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.343663,
+                        44.026695
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Amza Pelea",
+                  "text": "A híres román színész, Amza Pelea emlékháza.",
+                  "category": "museum",
+                  "coords": [
+                        23.343553,
+                        44.011801
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Apostoli”",
+                  "text": "Ortodox templom Băilești-ben, amelyet a Szent Apostolok tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.341237,
+                        44.02103
                   ]
             }
       ],
@@ -9167,6 +10553,33 @@ export const poiExtraRo1: POI[] = [
                         23.34376,
                         44.020253
                   ]
+            },
+            {
+                  "name": "Muzeul Câmpiei Băileștilor",
+                  "text": "Un muzeu în Băilești care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        23.343663,
+                        44.026695
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Amza Pelea",
+                  "text": "Casa memorială a celebrului actor român Amza Pelea.",
+                  "category": "museum",
+                  "coords": [
+                        23.343553,
+                        44.011801
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Apostoli”",
+                  "text": "O biserică ortodoxă în Băilești dedicată Sfinților Apostoli.",
+                  "category": "religious",
+                  "coords": [
+                        23.341237,
+                        44.02103
+                  ]
             }
       ],
       "en": [
@@ -9188,6 +10601,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.34376,
                         44.020253
+                  ]
+            },
+            {
+                  "name": "Bailesti Plain Museum",
+                  "text": "A museum in Băilești showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.343663,
+                        44.026695
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Amza Pelea",
+                  "text": "The memorial house of the famous Romanian actor Amza Pelea.",
+                  "category": "museum",
+                  "coords": [
+                        23.343553,
+                        44.011801
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Apostoli”",
+                  "text": "An Orthodox church in Băilești dedicated to the Holy Apostles.",
+                  "category": "religious",
+                  "coords": [
+                        23.341237,
+                        44.02103
                   ]
             }
       ]
@@ -9434,6 +10874,33 @@ export const poiExtraRo1: POI[] = [
                         27.431571,
                         45.850437
                   ]
+            },
+            {
+                  "name": "Muzeul Aeronauticii Moldovei",
+                  "text": "Ein Museum in Tecuci, das der Geschichte der moldauischen Luftfahrt und ihren Pionieren gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.413483,
+                        45.848366
+                  ]
+            },
+            {
+                  "name": "Fabrica de Muștar",
+                  "text": "Eine lokale Attraktion in Tecuci, die für die traditionelle Herstellung des berühmten Senfs bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.435537,
+                        45.828423
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Ceferiști",
+                  "text": "Ein Denkmal in Tecuci, das zu Ehren der heldenhaften Eisenbahnarbeiter errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        27.423796,
+                        45.835506
+                  ]
             }
       ],
       "hu": [
@@ -9465,6 +10932,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.431571,
                         45.850437
+                  ]
+            },
+            {
+                  "name": "Muzeul Aeronauticii Moldovei",
+                  "text": "Tecuci múzeuma, amely a moldvai repülés történetét és úttörőit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.413483,
+                        45.848366
+                  ]
+            },
+            {
+                  "name": "Fabrica de Muștar",
+                  "text": "Helyi látnivaló Tecuciban, amely a híres mustár hagyományos gyártásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.435537,
+                        45.828423
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Ceferiști",
+                  "text": "Tecuci emlékműve, amelyet a hősies vasutas dolgozók tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        27.423796,
+                        45.835506
                   ]
             }
       ],
@@ -9498,6 +10992,33 @@ export const poiExtraRo1: POI[] = [
                         27.431571,
                         45.850437
                   ]
+            },
+            {
+                  "name": "Muzeul Aeronauticii Moldovei",
+                  "text": "Un muzeu din Tecuci dedicat istoriei aeronauticii moldovenești și pionierilor săi.",
+                  "category": "museum",
+                  "coords": [
+                        27.413483,
+                        45.848366
+                  ]
+            },
+            {
+                  "name": "Fabrica de Muștar",
+                  "text": "O atracție locală din Tecuci, renumită pentru producția tradițională a celebrului muștar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.435537,
+                        45.828423
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Ceferiști",
+                  "text": "Un monument din Tecuci ridicat în cinstea lucrătorilor feroviari eroi.",
+                  "category": "historical",
+                  "coords": [
+                        27.423796,
+                        45.835506
+                  ]
             }
       ],
       "en": [
@@ -9529,6 +11050,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.431571,
                         45.850437
+                  ]
+            },
+            {
+                  "name": "Muzeul Aeronauticii Moldovei",
+                  "text": "A museum in Tecuci dedicated to the history of Moldavian aviation and its pioneers.",
+                  "category": "museum",
+                  "coords": [
+                        27.413483,
+                        45.848366
+                  ]
+            },
+            {
+                  "name": "Fabrica de Muștar",
+                  "text": "A local attraction in Tecuci, famous for the traditional production of its renowned mustard.",
+                  "category": "landmark",
+                  "coords": [
+                        27.435537,
+                        45.828423
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Ceferiști",
+                  "text": "A monument in Tecuci erected in honor of heroic railway workers.",
+                  "category": "historical",
+                  "coords": [
+                        27.423796,
+                        45.835506
                   ]
             }
       ]
@@ -9823,6 +11371,24 @@ export const poiExtraRo1: POI[] = [
                         25.774741,
                         44.429366
                   ]
+            },
+            {
+                  "name": "Monument Intrare Comuna Florești-Stoenești",
+                  "text": "Ein Denkmal am Eingang der Gemeinde Florești-Stoenești bei Bolintin-Vale.",
+                  "category": "historical",
+                  "coords": [
+                        25.732026,
+                        44.463225
+                  ]
+            },
+            {
+                  "name": "Primăria Bolintin-Vale",
+                  "text": "Das Rathaus von Bolintin-Vale ist der Sitz der lokalen Stadtverwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        25.757246,
+                        44.444937
+                  ]
             }
       ],
       "hu": [
@@ -9853,6 +11419,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.774741,
                         44.429366
+                  ]
+            },
+            {
+                  "name": "Monument Intrare Comuna Florești-Stoenești",
+                  "text": "Emlékmű Florești-Stoenești község bejáratánál, Bolintin-Vale közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.732026,
+                        44.463225
+                  ]
+            },
+            {
+                  "name": "Primăria Bolintin-Vale",
+                  "text": "A Bolintin-Vale-i városháza a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.757246,
+                        44.444937
                   ]
             }
       ],
@@ -9885,6 +11469,24 @@ export const poiExtraRo1: POI[] = [
                         25.774741,
                         44.429366
                   ]
+            },
+            {
+                  "name": "Monument Intrare Comuna Florești-Stoenești",
+                  "text": "Un monument situat la intrarea în comuna Florești-Stoenești, lângă Bolintin-Vale.",
+                  "category": "historical",
+                  "coords": [
+                        25.732026,
+                        44.463225
+                  ]
+            },
+            {
+                  "name": "Primăria Bolintin-Vale",
+                  "text": "Primăria din Bolintin-Vale este sediul administrației publice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        25.757246,
+                        44.444937
+                  ]
             }
       ],
       "en": [
@@ -9915,6 +11517,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.774741,
                         44.429366
+                  ]
+            },
+            {
+                  "name": "Monument Intrare Comuna Florești-Stoenești",
+                  "text": "A monument located at the entrance of Florești-Stoenești commune near Bolintin-Vale.",
+                  "category": "historical",
+                  "coords": [
+                        25.732026,
+                        44.463225
+                  ]
+            },
+            {
+                  "name": "Primăria Bolintin-Vale",
+                  "text": "The town hall of Bolintin-Vale is the seat of the local municipal administration.",
+                  "category": "landmark",
+                  "coords": [
+                        25.757246,
+                        44.444937
                   ]
             }
       ]
@@ -10169,6 +11789,33 @@ export const poiExtraRo1: POI[] = [
                         23.280599,
                         45.024065
                   ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Ein Kunstmuseum in Târgu Jiu, das Werke rumänischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Teatrul Dramatic Elvira Godeanu",
+                  "text": "Ein bedeutendes Theater in Târgu Jiu, benannt nach der berühmten Schauspielerin Elvira Godeanu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.271495,
+                        45.039269
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Targu Jiu",
+                  "text": "Das Rathaus von Târgu Jiu, ein markantes Verwaltungsgebäude im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        23.27144,
+                        45.042616
+                  ]
             }
       ],
       "hu": [
@@ -10257,6 +11904,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.280599,
                         45.024065
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Művészeti múzeum Târgu Jiuban, amely román művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Teatrul Dramatic Elvira Godeanu",
+                  "text": "Jelentős színház Târgu Jiuban, a híres színésznőről, Elvira Godeanuról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        23.271495,
+                        45.039269
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Targu Jiu",
+                  "text": "Târgu Jiu városháza, egy jellegzetes közigazgatási épület a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.27144,
+                        45.042616
                   ]
             }
       ],
@@ -10347,6 +12021,33 @@ export const poiExtraRo1: POI[] = [
                         23.280599,
                         45.024065
                   ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "Un muzeu de artă în Târgu Jiu care expune lucrări ale artiștilor români.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Teatrul Dramatic Elvira Godeanu",
+                  "text": "Un teatru important din Târgu Jiu, purtând numele faimoasei actrițe Elvira Godeanu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.271495,
+                        45.039269
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Targu Jiu",
+                  "text": "Primăria Municipiului Târgu Jiu, o clădire administrativă distinctivă din centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        23.27144,
+                        45.042616
+                  ]
             }
       ],
       "en": [
@@ -10435,6 +12136,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.280599,
                         45.024065
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "An art museum in Târgu Jiu exhibiting works by Romanian artists.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Teatrul Dramatic Elvira Godeanu",
+                  "text": "A prominent theatre in Târgu Jiu, named after the famous actress Elvira Godeanu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.271495,
+                        45.039269
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Targu Jiu",
+                  "text": "The town hall of Târgu Jiu, a distinctive administrative building in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        23.27144,
+                        45.042616
                   ]
             }
       ]
@@ -10847,6 +12575,60 @@ export const poiExtraRo1: POI[] = [
                         25.274755,
                         46.331701
                   ]
+            },
+            {
+                  "name": "Theatre \"Tomcsa Sandor\"",
+                  "text": "Das Stadttheater von Odorheiu Secuiesc, benannt nach dem ungarischen Schriftsteller Tomcsa Sándor.",
+                  "category": "cultural",
+                  "coords": [
+                        25.290272,
+                        46.305552
+                  ]
+            },
+            {
+                  "name": "Balazs Orban Visitor Center",
+                  "text": "Ein Museum und Besucherzentrum, das dem Leben und Werk von Balázs Orbán gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.276057,
+                        46.333032
+                  ]
+            },
+            {
+                  "name": "Muzeul de Fotografie Kovats",
+                  "text": "Ein Fotomuseum in Odorheiu Secuiesc, das die Geschichte dieser Kunstform präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.292517,
+                        46.302825
+                  ]
+            },
+            {
+                  "name": "Mini Transylvania Park",
+                  "text": "Ein Themenpark in Odorheiu Secuiesc mit Miniaturmodellen bedeutender Gebäude aus Siebenbürgen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.274366,
+                        46.333623
+                  ]
+            },
+            {
+                  "name": "Biserica catolica ,,Sf. Nicolae\"",
+                  "text": "Eine katholische Kirche in Odorheiu Secuiesc, die dem heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.296937,
+                        46.301889
+                  ]
+            },
+            {
+                  "name": "Capela catolica ,,Presfanta Inima a lui Isus\" Odorheiu Secuiesc",
+                  "text": "Eine historische katholische Kapelle in Odorheiu Secuiesc, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.291035,
+                        46.287582
+                  ]
             }
       ],
       "hu": [
@@ -10887,6 +12669,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.274755,
                         46.331701
+                  ]
+            },
+            {
+                  "name": "Theatre \"Tomcsa Sandor\"",
+                  "text": "Székelyudvarhely városi színháza, amely Tomcsa Sándor író nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        25.290272,
+                        46.305552
+                  ]
+            },
+            {
+                  "name": "Balazs Orban Visitor Center",
+                  "text": "Orbán Balázs életének és munkásságának szentelt múzeum és látogatóközpont.",
+                  "category": "museum",
+                  "coords": [
+                        25.276057,
+                        46.333032
+                  ]
+            },
+            {
+                  "name": "Muzeul de Fotografie Kovats",
+                  "text": "Székelyudvarhelyi fotótörténeti múzeum, amely a Kovats-család hagyatékát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.292517,
+                        46.302825
+                  ]
+            },
+            {
+                  "name": "Mini Transylvania Park",
+                  "text": "Székelyudvarhelyi park, ahol Erdély legfontosabb épületeinek makettjei láthatóak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.274366,
+                        46.333623
+                  ]
+            },
+            {
+                  "name": "Biserica catolica ,,Sf. Nicolae\"",
+                  "text": "Szent Miklós tiszteletére szentelt katolikus templom Székelyudvarhelyen.",
+                  "category": "religious",
+                  "coords": [
+                        25.296937,
+                        46.301889
+                  ]
+            },
+            {
+                  "name": "Capela catolica ,,Presfanta Inima a lui Isus\" Odorheiu Secuiesc",
+                  "text": "Székelyudvarhelyi katolikus kápolna, amely a Jézus Szíve tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        25.291035,
+                        46.287582
                   ]
             }
       ],
@@ -10929,6 +12765,60 @@ export const poiExtraRo1: POI[] = [
                         25.274755,
                         46.331701
                   ]
+            },
+            {
+                  "name": "Theatre \"Tomcsa Sandor\"",
+                  "text": "Teatrul municipal din Odorheiu Secuiesc, purtând numele scriitorului maghiar Tomcsa Sándor.",
+                  "category": "cultural",
+                  "coords": [
+                        25.290272,
+                        46.305552
+                  ]
+            },
+            {
+                  "name": "Balazs Orban Visitor Center",
+                  "text": "Un muzeu și centru de vizitare dedicat vieții și operei lui Balázs Orbán.",
+                  "category": "museum",
+                  "coords": [
+                        25.276057,
+                        46.333032
+                  ]
+            },
+            {
+                  "name": "Muzeul de Fotografie Kovats",
+                  "text": "Un muzeu de fotografie din Odorheiu Secuiesc care prezintă istoria acestei arte.",
+                  "category": "museum",
+                  "coords": [
+                        25.292517,
+                        46.302825
+                  ]
+            },
+            {
+                  "name": "Mini Transylvania Park",
+                  "text": "Un parc tematic din Odorheiu Secuiesc ce prezintă machete ale unor clădiri istorice din Transilvania.",
+                  "category": "landmark",
+                  "coords": [
+                        25.274366,
+                        46.333623
+                  ]
+            },
+            {
+                  "name": "Biserica catolica ,,Sf. Nicolae\"",
+                  "text": "O biserică romano-catolică din Odorheiu Secuiesc, purtând hramul Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        25.296937,
+                        46.301889
+                  ]
+            },
+            {
+                  "name": "Capela catolica ,,Presfanta Inima a lui Isus\" Odorheiu Secuiesc",
+                  "text": "O capelă catolică istorică din Odorheiu Secuiesc dedicată Preasfintei Inimi a lui Isus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.291035,
+                        46.287582
+                  ]
             }
       ],
       "en": [
@@ -10969,6 +12859,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.274755,
                         46.331701
+                  ]
+            },
+            {
+                  "name": "Theatre \"Tomcsa Sandor\"",
+                  "text": "The municipal theatre of Odorheiu Secuiesc, bearing the name of the Hungarian writer Tomcsa Sándor.",
+                  "category": "cultural",
+                  "coords": [
+                        25.290272,
+                        46.305552
+                  ]
+            },
+            {
+                  "name": "Balazs Orban Visitor Center",
+                  "text": "A museum and visitor center dedicated to the life and work of Balázs Orbán.",
+                  "category": "museum",
+                  "coords": [
+                        25.276057,
+                        46.333032
+                  ]
+            },
+            {
+                  "name": "Muzeul de Fotografie Kovats",
+                  "text": "A photography museum in Odorheiu Secuiesc presenting the history of the craft.",
+                  "category": "museum",
+                  "coords": [
+                        25.292517,
+                        46.302825
+                  ]
+            },
+            {
+                  "name": "Mini Transylvania Park",
+                  "text": "A theme park in Odorheiu Secuiesc featuring miniature models of Transylvania's historical buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        25.274366,
+                        46.333623
+                  ]
+            },
+            {
+                  "name": "Biserica catolica ,,Sf. Nicolae\"",
+                  "text": "A Catholic church in Odorheiu Secuiesc dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        25.296937,
+                        46.301889
+                  ]
+            },
+            {
+                  "name": "Capela catolica ,,Presfanta Inima a lui Isus\" Odorheiu Secuiesc",
+                  "text": "A historic Catholic chapel in Odorheiu Secuiesc dedicated to the Sacred Heart of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.291035,
+                        46.287582
                   ]
             }
       ]
@@ -11024,6 +12968,42 @@ export const poiExtraRo1: POI[] = [
                         25.60724,
                         46.724021
                   ]
+            },
+            {
+                  "name": "Figura Stúdió",
+                  "text": "Ein bedeutendes ungarischsprachiges Theater in Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.578974,
+                        46.719497
+                  ]
+            },
+            {
+                  "name": "Bábudvar",
+                  "text": "Ein kleines Theater oder Puppentheater in Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.59881,
+                        46.721616
+                  ]
+            },
+            {
+                  "name": "Tarisznyás Márton Múzeum- Tinka Malom",
+                  "text": "Ein Museum in Gheorgheni, das eine alte Mühle zeigt und zum Tarisznyás-Márton-Museum gehört.",
+                  "category": "museum",
+                  "coords": [
+                        25.586518,
+                        46.714836
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Ein Heimatmuseum in Gheorgheni, das die lokale Architektur und Lebensweise präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.602502,
+                        46.717993
+                  ]
             }
       ],
       "hu": [
@@ -11035,6 +13015,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.60724,
                         46.724021
+                  ]
+            },
+            {
+                  "name": "Figura Stúdió",
+                  "text": "Gyergyószentmiklós jelentős magyar nyelvű színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        25.578974,
+                        46.719497
+                  ]
+            },
+            {
+                  "name": "Bábudvar",
+                  "text": "Kisebb színházi tér vagy bábszínház Gyergyószentmiklóson.",
+                  "category": "cultural",
+                  "coords": [
+                        25.59881,
+                        46.721616
+                  ]
+            },
+            {
+                  "name": "Tarisznyás Márton Múzeum- Tinka Malom",
+                  "text": "A gyergyószentmiklósi Tarisznyás Márton Múzeumhoz tartozó régi vízimalom.",
+                  "category": "museum",
+                  "coords": [
+                        25.586518,
+                        46.714836
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház Gyergyószentmiklóson, amely a helyi népi építészetet és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.602502,
+                        46.717993
                   ]
             }
       ],
@@ -11048,6 +13064,42 @@ export const poiExtraRo1: POI[] = [
                         25.60724,
                         46.724021
                   ]
+            },
+            {
+                  "name": "Figura Stúdió",
+                  "text": "Un teatru important de limbă maghiară din Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.578974,
+                        46.719497
+                  ]
+            },
+            {
+                  "name": "Bábudvar",
+                  "text": "Un mic teatru sau teatru de păpuși din Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.59881,
+                        46.721616
+                  ]
+            },
+            {
+                  "name": "Tarisznyás Márton Múzeum- Tinka Malom",
+                  "text": "O moară veche aparținând Muzeului Tarisznyás Márton din Gheorgheni.",
+                  "category": "museum",
+                  "coords": [
+                        25.586518,
+                        46.714836
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "O casă tradițională în Gheorgheni, care prezintă arhitectura și stilul de viață local.",
+                  "category": "museum",
+                  "coords": [
+                        25.602502,
+                        46.717993
+                  ]
             }
       ],
       "en": [
@@ -11059,6 +13111,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.60724,
                         46.724021
+                  ]
+            },
+            {
+                  "name": "Figura Stúdió",
+                  "text": "A significant Hungarian-language theatre in Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.578974,
+                        46.719497
+                  ]
+            },
+            {
+                  "name": "Bábudvar",
+                  "text": "A small theatre or puppet theatre in Gheorgheni.",
+                  "category": "cultural",
+                  "coords": [
+                        25.59881,
+                        46.721616
+                  ]
+            },
+            {
+                  "name": "Tarisznyás Márton Múzeum- Tinka Malom",
+                  "text": "An old mill belonging to the Tarisznyás Márton Museum in Gheorgheni.",
+                  "category": "museum",
+                  "coords": [
+                        25.586518,
+                        46.714836
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A local folk house in Gheorgheni showcasing traditional architecture and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        25.602502,
+                        46.717993
                   ]
             }
       ]
@@ -11551,6 +13639,33 @@ export const poiExtraRo1: POI[] = [
                         22.897124,
                         45.752953
                   ]
+            },
+            {
+                  "name": "Muzeul de tortura",
+                  "text": "Ein Museum in Hunedoara, das verschiedene historische Folterinstrumente ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        22.887877,
+                        45.750189
+                  ]
+            },
+            {
+                  "name": "Expozitie Permanenta Pasii Romaniei prin Socialism si Democratie",
+                  "text": "Eine Dauerausstellung in Hunedoara über den Weg Rumäniens vom Sozialismus zur Demokratie.",
+                  "category": "museum",
+                  "coords": [
+                        22.894741,
+                        45.754587
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Hunedoara",
+                  "text": "Ein Kulturhaus in Hunedoara, das als Veranstaltungsort für Theater und Kunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        22.903927,
+                        45.753609
+                  ]
             }
       ],
       "hu": [
@@ -11627,6 +13742,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.897124,
                         45.752953
+                  ]
+            },
+            {
+                  "name": "Muzeul de tortura",
+                  "text": "Hunyadi múzeum, amely történelmi kínzóeszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.887877,
+                        45.750189
+                  ]
+            },
+            {
+                  "name": "Expozitie Permanenta Pasii Romaniei prin Socialism si Democratie",
+                  "text": "Állandó kiállítás Hunyadon, amely Románia szocializmusból demokráciába való átmenetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.894741,
+                        45.754587
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Hunedoara",
+                  "text": "Hunyadi művelődési ház, amely színházi előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.903927,
+                        45.753609
                   ]
             }
       ],
@@ -11705,6 +13847,33 @@ export const poiExtraRo1: POI[] = [
                         22.897124,
                         45.752953
                   ]
+            },
+            {
+                  "name": "Muzeul de tortura",
+                  "text": "Un muzeu din Hunedoara ce prezintă diverse instrumente de tortură din istorie.",
+                  "category": "museum",
+                  "coords": [
+                        22.887877,
+                        45.750189
+                  ]
+            },
+            {
+                  "name": "Expozitie Permanenta Pasii Romaniei prin Socialism si Democratie",
+                  "text": "O expoziție permanentă din Hunedoara ce documentează parcursul României prin socialism și democrație.",
+                  "category": "museum",
+                  "coords": [
+                        22.894741,
+                        45.754587
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Hunedoara",
+                  "text": "O instituție culturală din Hunedoara care găzduiește spectacole de teatru și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        22.903927,
+                        45.753609
+                  ]
             }
       ],
       "en": [
@@ -11782,6 +13951,33 @@ export const poiExtraRo1: POI[] = [
                         22.897124,
                         45.752953
                   ]
+            },
+            {
+                  "name": "Muzeul de tortura",
+                  "text": "A museum in Hunedoara showcasing various historical torture instruments.",
+                  "category": "museum",
+                  "coords": [
+                        22.887877,
+                        45.750189
+                  ]
+            },
+            {
+                  "name": "Expozitie Permanenta Pasii Romaniei prin Socialism si Democratie",
+                  "text": "A permanent exhibition in Hunedoara documenting Romania's transition from socialism to democracy.",
+                  "category": "museum",
+                  "coords": [
+                        22.894741,
+                        45.754587
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Hunedoara",
+                  "text": "A cultural center in Hunedoara serving as a venue for theatre and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.903927,
+                        45.753609
+                  ]
             }
       ]
 }
@@ -11856,6 +14052,42 @@ export const poiExtraRo1: POI[] = [
                         23.365983,
                         45.423151
                   ]
+            },
+            {
+                  "name": "Muzeul Momârlanului",
+                  "text": "Ein ethnografisches Museum in Petroșani, das die Kultur der Momarlani zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.398421,
+                        45.409486
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic",
+                  "text": "Ein Museum in Petroșani, das lokale ethnografische Exponate ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.376499,
+                        45.392854
+                  ]
+            },
+            {
+                  "name": "Muzeul Instalatorului Român",
+                  "text": "Ein einzigartiges Museum in Petroșani, das der Geschichte der Installationstechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.373842,
+                        45.416515
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Ion Dolămiță",
+                  "text": "Ein Kulturhaus und Veranstaltungsort in Petroșani.",
+                  "category": "cultural",
+                  "coords": [
+                        23.373389,
+                        45.414206
+                  ]
             }
       ],
       "hu": [
@@ -11887,6 +14119,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.365983,
                         45.423151
+                  ]
+            },
+            {
+                  "name": "Muzeul Momârlanului",
+                  "text": "Petrozsényi néprajzi múzeum, amely a mormonok (momárlánok) kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.398421,
+                        45.409486
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic",
+                  "text": "Néprajzi múzeum Petrozsényben, helyi kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        23.376499,
+                        45.392854
+                  ]
+            },
+            {
+                  "name": "Muzeul Instalatorului Român",
+                  "text": "Egyedülálló installáció-történeti múzeum Petrozsényben.",
+                  "category": "museum",
+                  "coords": [
+                        23.373842,
+                        45.416515
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Ion Dolămiță",
+                  "text": "Művelődési ház és rendezvényhelyszín Petrozsényben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.373389,
+                        45.414206
                   ]
             }
       ],
@@ -11920,6 +14188,42 @@ export const poiExtraRo1: POI[] = [
                         23.365983,
                         45.423151
                   ]
+            },
+            {
+                  "name": "Muzeul Momârlanului",
+                  "text": "Un muzeu etnografic din Petroșani care prezintă cultura momârlanilor.",
+                  "category": "museum",
+                  "coords": [
+                        23.398421,
+                        45.409486
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic",
+                  "text": "Muzeu etnografic din Petroșani ce expune obiecte tradiționale locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.376499,
+                        45.392854
+                  ]
+            },
+            {
+                  "name": "Muzeul Instalatorului Român",
+                  "text": "Un muzeu inedit din Petroșani dedicat istoriei instalațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        23.373842,
+                        45.416515
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Ion Dolămiță",
+                  "text": "O casă de cultură și spațiu pentru evenimente în Petroșani.",
+                  "category": "cultural",
+                  "coords": [
+                        23.373389,
+                        45.414206
+                  ]
             }
       ],
       "en": [
@@ -11951,6 +14255,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.365983,
                         45.423151
+                  ]
+            },
+            {
+                  "name": "The \"Momarlani\" Ethnographic Museum",
+                  "text": "An ethnographic museum in Petroșani showcasing the culture of the Momarlani people.",
+                  "category": "museum",
+                  "coords": [
+                        23.398421,
+                        45.409486
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic",
+                  "text": "An ethnographic museum in Petroșani displaying local traditional artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        23.376499,
+                        45.392854
+                  ]
+            },
+            {
+                  "name": "Muzeul Instalatorului Român",
+                  "text": "A unique museum in Petroșani dedicated to the history of plumbing and installations.",
+                  "category": "museum",
+                  "coords": [
+                        23.373842,
+                        45.416515
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Ion Dolămiță",
+                  "text": "A community cultural center and venue in Petroșani.",
+                  "category": "cultural",
+                  "coords": [
+                        23.373389,
+                        45.414206
                   ]
             }
       ]
@@ -12218,6 +14558,15 @@ export const poiExtraRo1: POI[] = [
                         27.821771,
                         44.417208
                   ]
+            },
+            {
+                  "name": "Muzeul Municipal Fetești",
+                  "text": "Das Stadtmuseum von Fetești dokumentiert die lokale Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        27.830749,
+                        44.367154
+                  ]
             }
       ],
       "hu": [
@@ -12239,6 +14588,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.821771,
                         44.417208
+                  ]
+            },
+            {
+                  "name": "Muzeul Municipal Fetești",
+                  "text": "A fetești-i városi múzeum a régió helyi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.830749,
+                        44.367154
                   ]
             }
       ],
@@ -12262,6 +14620,15 @@ export const poiExtraRo1: POI[] = [
                         27.821771,
                         44.417208
                   ]
+            },
+            {
+                  "name": "Muzeul Municipal Fetești",
+                  "text": "Muzeul Municipal Fetești documentează istoria locală și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        27.830749,
+                        44.367154
+                  ]
             }
       ],
       "en": [
@@ -12283,6 +14650,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.821771,
                         44.417208
+                  ]
+            },
+            {
+                  "name": "Fetesti City Museum",
+                  "text": "Fetesti City Museum documents the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        27.830749,
+                        44.367154
                   ]
             }
       ]
@@ -12670,6 +15046,15 @@ export const poiExtraRo1: POI[] = [
                         26.898191,
                         47.430898
                   ]
+            },
+            {
+                  "name": "Conacul Polizu",
+                  "text": "Ein historisches Herrenhaus in Hârlău, bekannt für seine aristokratische Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        26.887357,
+                        47.43715
+                  ]
             }
       ],
       "hu": [
@@ -12681,6 +15066,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.898191,
                         47.430898
+                  ]
+            },
+            {
+                  "name": "Conacul Polizu",
+                  "text": "Történelmi nemesi kúria Hârlăuban, amely arisztokratikus építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        26.887357,
+                        47.43715
                   ]
             }
       ],
@@ -12694,6 +15088,15 @@ export const poiExtraRo1: POI[] = [
                         26.898191,
                         47.430898
                   ]
+            },
+            {
+                  "name": "Conacul Polizu",
+                  "text": "Un conac istoric în Hârlău, cunoscut pentru arhitectura sa aristocratică.",
+                  "category": "historical",
+                  "coords": [
+                        26.887357,
+                        47.43715
+                  ]
             }
       ],
       "en": [
@@ -12705,6 +15108,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.898191,
                         47.430898
+                  ]
+            },
+            {
+                  "name": "Conacul Polizu",
+                  "text": "A historic manor house in Hârlău, known for its aristocratic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        26.887357,
+                        47.43715
                   ]
             }
       ]
@@ -14385,7 +16797,320 @@ export const poiExtraRo1: POI[] = [
       "en": ["Home to the Sighet Memorial Museum, a former political prison.", "The birthplace of Nobel laureate Elie Wiesel (1928).", "An important center of Jewish life in pre-war Romania.", "Located near the border with Ukraine.", "The city has a museum of Maramureș ethnography.", "The 'Merry Cemetery' in the nearby village of Săpânța is a famous attraction."]
     },
     image: "/poi-images/city-sighetu-marmatiei-extra.webp",
-    "sights": {"de": [{"name": "Elie-Wiesel-Gedenkhaus", "text": "Das Geburtshaus des Friedensnobelpreisträgers Elie Wiesel, heute ein Museum über die jüdische Gemeinde.", "category": "museum", "confidence": "high", "coords": [23.894339, 47.92987]}, {"name": "Dorfmuseum von Maramureș", "text": "Ein Freilichtmuseum, das die traditionelle Holzarchitektur und Lebensweise der Region Maramureș zeigt.", "category": "museum", "confidence": "high", "coords": [23.9315, 47.9199]}, {"name": "Reformierte Kirche", "text": "Ein historisches gotisches Bauwerk aus dem 14. Jahrhundert im Zentrum von Sighetu Marmației.", "category": "religious", "confidence": "high", "coords": [23.883876, 47.928553]}, {"name": "Rathaus von Sighet", "text": "Ein architektonisch ansprechendes Gebäude aus dem 19. Jahrhundert, das den lokalen Verwaltungsplatz dominiert.", "category": "civic", "confidence": "high", "coords": [23.891226, 47.927791]}, {"name": "Kunigunda", "text": "Der Kunihunda See in Sighetu Marmatiei ist bekannt für seine natürliche Umgebung.", "category": "natural", "coords": [23.856648, 47.96066]}], "hu": [{"name": "Elie Wiesel Emlékház", "text": "A Nobel-békedíjas író szülőháza, amely ma a máramarosi zsidóság történetét bemutató múzeum.", "category": "museum", "confidence": "high", "coords": [23.894339, 47.92987]}, {"name": "Máramarosi Falumúzeum", "text": "Szabadtéri múzeum, ahol megcsodálhatók a vidék jellegzetes máramarosi fakonstrukciói és házai.", "category": "museum", "confidence": "high", "coords": [23.9315, 47.9199]}, {"name": "Református templom", "text": "A város központjában álló 14. századi gótikus templom, Máramarossziget egyik legősibb épülete.", "category": "religious", "confidence": "high", "coords": [23.883876, 47.928553]}, {"name": "Városháza", "text": "Impozáns 19. századi épület, amely a város központi terének meghatározó építészeti eleme.", "category": "civic", "confidence": "high", "coords": [23.891226, 47.927791]}, {"name": "Kunigunda", "text": "A Kunihunda tó Máramarossziget területén a természetes környezetéről ismert.", "category": "natural", "coords": [23.856648, 47.96066]}], "ro": [{"name": "Casa Memorială Elie Wiesel", "text": "Muzeul dedicat scriitorului laureat al Premiului Nobel, prezentând istoria comunității evreiești locale.", "category": "museum", "confidence": "high", "coords": [23.894339, 47.92987]}, {"name": "Muzeul Satului Maramureșean", "text": "Muzeu în aer liber ce reunește gospodării tradiționale și biserici de lemn din Țara Maramureșului.", "category": "museum", "confidence": "high", "coords": [23.9315, 47.9199]}, {"name": "Biserica Reformată", "text": "Cel mai vechi monument arhitectonic din oraș, datând din secolul al XIV-lea, în stil gotic.", "category": "religious", "confidence": "high", "coords": [23.883876, 47.928553]}, {"name": "Primăria Sighetu Marmației", "text": "O clădire istorică impunătoare situată în centrul civic, reprezentativă pentru arhitectura secolului XIX.", "category": "civic", "confidence": "high", "coords": [23.891226, 47.927791]}, {"name": "Kunigunda", "text": "Lacul Kunihunda din Sighetu Marmatiei este cunoscut pentru cadrul său natural.", "category": "natural", "coords": [23.856648, 47.96066]}], "en": [{"name": "Elie Wiesel Memorial House", "text": "The birthplace of the Nobel Peace Prize winner, now a museum dedicated to local Jewish history.", "category": "museum", "confidence": "high", "coords": [23.894339, 47.92987]}, {"name": "Maramureș Village Museum", "text": "An open-air museum showcasing traditional wooden architecture and rural life of the region.", "category": "museum", "confidence": "high", "coords": [23.9315, 47.9199]}, {"name": "Reformed Church", "text": "A significant 14th-century Gothic building, standing as the oldest architectural monument in town.", "category": "religious", "confidence": "high", "coords": [23.883876, 47.928553]}, {"name": "Sighet Town Hall", "text": "An impressive 19th-century administrative building located in the heart of the historic center.", "category": "civic", "confidence": "high", "coords": [23.891226, 47.927791]}, {"name": "Kunihunda", "text": "Kunihunda lake in Sighetu Marmatiei is known for its natural surroundings.", "category": "natural", "coords": [23.856648, 47.96066]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Elie-Wiesel-Gedenkhaus",
+                  "text": "Das Geburtshaus des Friedensnobelpreisträgers Elie Wiesel, heute ein Museum über die jüdische Gemeinde.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.894339,
+                        47.92987
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum von Maramureș",
+                  "text": "Ein Freilichtmuseum, das die traditionelle Holzarchitektur und Lebensweise der Region Maramureș zeigt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.9315,
+                        47.9199
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein historisches gotisches Bauwerk aus dem 14. Jahrhundert im Zentrum von Sighetu Marmației.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        23.883876,
+                        47.928553
+                  ]
+            },
+            {
+                  "name": "Rathaus von Sighet",
+                  "text": "Ein architektonisch ansprechendes Gebäude aus dem 19. Jahrhundert, das den lokalen Verwaltungsplatz dominiert.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        23.891226,
+                        47.927791
+                  ]
+            },
+            {
+                  "name": "Kunigunda",
+                  "text": "Der Kunihunda See in Sighetu Marmatiei ist bekannt für seine natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.856648,
+                        47.96066
+                  ]
+            },
+            {
+                  "name": "Memorial of the Victims of Communism and of the Resistance",
+                  "text": "Eine Gedenkstätte in Sighetu Marmației für die Opfer des Kommunismus und den Widerstand.",
+                  "category": "museum",
+                  "coords": [
+                        23.891141,
+                        47.926824
+                  ]
+            },
+            {
+                  "name": "Maramures Museum",
+                  "text": "Ein Museum in Sighetu Marmației, das die Geschichte und Traditionen der Maramureș-Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.889728,
+                        47.928161
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology and History",
+                  "text": "Ein Museum in Sighetu Marmației mit archäologischen Funden und Dokumenten zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        23.88624,
+                        47.928829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elie Wiesel Emlékház",
+                  "text": "A Nobel-békedíjas író szülőháza, amely ma a máramarosi zsidóság történetét bemutató múzeum.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.894339,
+                        47.92987
+                  ]
+            },
+            {
+                  "name": "Máramarosi Falumúzeum",
+                  "text": "Szabadtéri múzeum, ahol megcsodálhatók a vidék jellegzetes máramarosi fakonstrukciói és házai.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.9315,
+                        47.9199
+                  ]
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A város központjában álló 14. századi gótikus templom, Máramarossziget egyik legősibb épülete.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        23.883876,
+                        47.928553
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Impozáns 19. századi épület, amely a város központi terének meghatározó építészeti eleme.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        23.891226,
+                        47.927791
+                  ]
+            },
+            {
+                  "name": "Kunigunda",
+                  "text": "A Kunihunda tó Máramarossziget területén a természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.856648,
+                        47.96066
+                  ]
+            },
+            {
+                  "name": "Memorial of the Victims of Communism and of the Resistance",
+                  "text": "Máramarosszigeti emlékmű és múzeum a kommunizmus áldozatainak és az ellenállásnak szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        23.891141,
+                        47.926824
+                  ]
+            },
+            {
+                  "name": "Maramures Museum",
+                  "text": "Máramarosszigeti múzeum, amely a Máramaros vidék történelmét és hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        23.889728,
+                        47.928161
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology and History",
+                  "text": "Régészeti és történelmi múzeum Máramarosszigeten helyi leletekkel és dokumentumokkal.",
+                  "category": "museum",
+                  "coords": [
+                        23.88624,
+                        47.928829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Memorială Elie Wiesel",
+                  "text": "Muzeul dedicat scriitorului laureat al Premiului Nobel, prezentând istoria comunității evreiești locale.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.894339,
+                        47.92987
+                  ]
+            },
+            {
+                  "name": "Muzeul Satului Maramureșean",
+                  "text": "Muzeu în aer liber ce reunește gospodării tradiționale și biserici de lemn din Țara Maramureșului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.9315,
+                        47.9199
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Cel mai vechi monument arhitectonic din oraș, datând din secolul al XIV-lea, în stil gotic.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        23.883876,
+                        47.928553
+                  ]
+            },
+            {
+                  "name": "Primăria Sighetu Marmației",
+                  "text": "O clădire istorică impunătoare situată în centrul civic, reprezentativă pentru arhitectura secolului XIX.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        23.891226,
+                        47.927791
+                  ]
+            },
+            {
+                  "name": "Kunigunda",
+                  "text": "Lacul Kunihunda din Sighetu Marmatiei este cunoscut pentru cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.856648,
+                        47.96066
+                  ]
+            },
+            {
+                  "name": "Memorial of the Victims of Communism and of the Resistance",
+                  "text": "Un monument și muzeu în Sighetu Marmației dedicat memoriei victimelor comunismului și rezistenței.",
+                  "category": "museum",
+                  "coords": [
+                        23.891141,
+                        47.926824
+                  ]
+            },
+            {
+                  "name": "Maramures Museum",
+                  "text": "Un muzeu din Sighetu Marmației care conservă istoria și tradițiile regiunii Maramureș.",
+                  "category": "museum",
+                  "coords": [
+                        23.889728,
+                        47.928161
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology and History",
+                  "text": "Un muzeu din Sighetu Marmației ce cuprinde descoperiri arheologice și documente istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.88624,
+                        47.928829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elie Wiesel Memorial House",
+                  "text": "The birthplace of the Nobel Peace Prize winner, now a museum dedicated to local Jewish history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.894339,
+                        47.92987
+                  ]
+            },
+            {
+                  "name": "Maramureș Village Museum",
+                  "text": "An open-air museum showcasing traditional wooden architecture and rural life of the region.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        23.9315,
+                        47.9199
+                  ]
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A significant 14th-century Gothic building, standing as the oldest architectural monument in town.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        23.883876,
+                        47.928553
+                  ]
+            },
+            {
+                  "name": "Sighet Town Hall",
+                  "text": "An impressive 19th-century administrative building located in the heart of the historic center.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        23.891226,
+                        47.927791
+                  ]
+            },
+            {
+                  "name": "Kunihunda",
+                  "text": "Kunihunda lake in Sighetu Marmatiei is known for its natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        23.856648,
+                        47.96066
+                  ]
+            },
+            {
+                  "name": "Memorial of the Victims of Communism and of the Resistance",
+                  "text": "A memorial and museum in Sighetu Marmației dedicated to the victims of communism and the resistance.",
+                  "category": "museum",
+                  "coords": [
+                        23.891141,
+                        47.926824
+                  ]
+            },
+            {
+                  "name": "Maramures Museum",
+                  "text": "A museum in Sighetu Marmației preserving the history and traditions of the Maramureș region.",
+                  "category": "museum",
+                  "coords": [
+                        23.889728,
+                        47.928161
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology and History",
+                  "text": "A museum in Sighetu Marmației featuring archaeological finds and documents related to the town's history.",
+                  "category": "museum",
+                  "coords": [
+                        23.88624,
+                        47.928829
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-viseu-de-sus-extra",
@@ -14447,6 +17172,42 @@ export const poiExtraRo1: POI[] = [
                         24.479504,
                         47.72139
                   ]
+            },
+            {
+                  "name": "Muzeul de Etnografie și Istorie",
+                  "text": "Ein Museum in Vișeu de Sus, das die Geschichte und Volkstraditionen der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.429634,
+                        47.707167
+                  ]
+            },
+            {
+                  "name": "Centrul Documentar Expozitional al Nobilimii Romane Maramuresene",
+                  "text": "Ein Museum in Vișeu de Sus, das der Geschichte des Adels in der Region Maramureș gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.429663,
+                        47.705551
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Vișeu de Sus",
+                  "text": "Ein Kulturzentrum und Museumsraum im Herzen von Vișeu de Sus.",
+                  "category": "museum",
+                  "coords": [
+                        24.427197,
+                        47.708354
+                  ]
+            },
+            {
+                  "name": "Muzeu locomotive",
+                  "text": "Ein Museum in Vișeu de Sus mit einer Sammlung historischer Dampflokomotiven.",
+                  "category": "museum",
+                  "coords": [
+                        24.444131,
+                        47.715226
+                  ]
             }
       ],
       "hu": [
@@ -14468,6 +17229,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.479504,
                         47.72139
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie și Istorie",
+                  "text": "Múzeum Vișeu de Susban, amely a régió történelmét és néphagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.429634,
+                        47.707167
+                  ]
+            },
+            {
+                  "name": "Centrul Documentar Expozitional al Nobilimii Romane Maramuresene",
+                  "text": "A máramarosi nemesség történetének szentelt múzeum Vișeu de Susban.",
+                  "category": "museum",
+                  "coords": [
+                        24.429663,
+                        47.705551
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Vișeu de Sus",
+                  "text": "Kulturális központ és múzeumi tér Vișeu de Sus szívében.",
+                  "category": "museum",
+                  "coords": [
+                        24.427197,
+                        47.708354
+                  ]
+            },
+            {
+                  "name": "Muzeu locomotive",
+                  "text": "Múzeum Vișeu de Susban, ahol történelmi gőzmozdonyok gyűjteménye látható.",
+                  "category": "museum",
+                  "coords": [
+                        24.444131,
+                        47.715226
                   ]
             }
       ],
@@ -14491,6 +17288,42 @@ export const poiExtraRo1: POI[] = [
                         24.479504,
                         47.72139
                   ]
+            },
+            {
+                  "name": "Muzeul de Etnografie și Istorie",
+                  "text": "Un muzeu din Vișeu de Sus care prezintă istoria și tradițiile populare ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        24.429634,
+                        47.707167
+                  ]
+            },
+            {
+                  "name": "Centrul Documentar Expozitional al Nobilimii Romane Maramuresene",
+                  "text": "Un muzeu din Vișeu de Sus dedicat istoriei nobilimii din Maramureș.",
+                  "category": "museum",
+                  "coords": [
+                        24.429663,
+                        47.705551
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Vișeu de Sus",
+                  "text": "Un centru cultural și spațiu muzeal situat în inima orașului Vișeu de Sus.",
+                  "category": "museum",
+                  "coords": [
+                        24.427197,
+                        47.708354
+                  ]
+            },
+            {
+                  "name": "Muzeu locomotive",
+                  "text": "Un muzeu din Vișeu de Sus care cuprinde o colecție de locomotive cu abur istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.444131,
+                        47.715226
+                  ]
             }
       ],
       "en": [
@@ -14512,6 +17345,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.479504,
                         47.72139
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography and History",
+                  "text": "A museum in Vișeu de Sus presenting the history and folk traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.429634,
+                        47.707167
+                  ]
+            },
+            {
+                  "name": "Documentary and Exhibition Centre of Romanian Nobility of Maramures",
+                  "text": "A museum in Vișeu de Sus dedicated to the history of the nobility in the Maramureș region.",
+                  "category": "museum",
+                  "coords": [
+                        24.429663,
+                        47.705551
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "A cultural center and museum space located in the heart of Vișeu de Sus.",
+                  "category": "museum",
+                  "coords": [
+                        24.427197,
+                        47.708354
+                  ]
+            },
+            {
+                  "name": "Muzeu locomotive",
+                  "text": "A museum in Vișeu de Sus featuring a collection of historical steam locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        24.444131,
+                        47.715226
                   ]
             }
       ]
@@ -14677,6 +17546,33 @@ export const poiExtraRo1: POI[] = [
                         22.399785,
                         44.715537
                   ]
+            },
+            {
+                  "name": "Farul Orșova",
+                  "text": "Leuchtturm am Donauufer in der Stadt Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.401825,
+                        44.722356
+                  ]
+            },
+            {
+                  "name": "Monumentul Dezrădăcinați 1950",
+                  "text": "Denkmal in Orșova für die Opfer der Deportationen in die Bărăgan-Steppe im Jahr 1951.",
+                  "category": "historical",
+                  "coords": [
+                        22.399071,
+                        44.723713
+                  ]
+            },
+            {
+                  "name": "Moara",
+                  "text": "Traditionelle Windmühle in der Nähe von Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395928,
+                        44.727693
+                  ]
             }
       ],
       "hu": [
@@ -14708,6 +17604,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.399785,
                         44.715537
+                  ]
+            },
+            {
+                  "name": "Farul Orșova",
+                  "text": "Világítótorony a Duna partján, Orsova városában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.401825,
+                        44.722356
+                  ]
+            },
+            {
+                  "name": "Monumentul Dezrădăcinați 1950",
+                  "text": "Az 1951-es bărăgani deportálások áldozatainak emelt emlékmű Orsován.",
+                  "category": "historical",
+                  "coords": [
+                        22.399071,
+                        44.723713
+                  ]
+            },
+            {
+                  "name": "Moara",
+                  "text": "Hagyományos szélmalom Orsova környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395928,
+                        44.727693
                   ]
             }
       ],
@@ -14741,6 +17664,33 @@ export const poiExtraRo1: POI[] = [
                         22.399785,
                         44.715537
                   ]
+            },
+            {
+                  "name": "Farul Orșova",
+                  "text": "Far situat pe malul Dunării în orașul Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.401825,
+                        44.722356
+                  ]
+            },
+            {
+                  "name": "Monumentul Dezrădăcinați 1950",
+                  "text": "Monument în Orșova dedicat victimelor deportărilor în Câmpia Bărăganului din 1951.",
+                  "category": "historical",
+                  "coords": [
+                        22.399071,
+                        44.723713
+                  ]
+            },
+            {
+                  "name": "Moara",
+                  "text": "Moară de vânt tradițională situată în vecinătatea orașului Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395928,
+                        44.727693
+                  ]
             }
       ],
       "en": [
@@ -14772,6 +17722,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.399785,
                         44.715537
+                  ]
+            },
+            {
+                  "name": "Farul Orșova",
+                  "text": "Lighthouse located on the banks of the Danube in the city of Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.401825,
+                        44.722356
+                  ]
+            },
+            {
+                  "name": "Monumentul Dezrădăcinați 1950",
+                  "text": "Monument in Orșova dedicated to the victims of the 1951 deportations to the Bărăgan Plain.",
+                  "category": "historical",
+                  "coords": [
+                        22.399071,
+                        44.723713
+                  ]
+            },
+            {
+                  "name": "Moara",
+                  "text": "Traditional windmill structure located in the vicinity of Orșova.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395928,
+                        44.727693
                   ]
             }
       ]
@@ -14837,6 +17814,15 @@ export const poiExtraRo1: POI[] = [
                         23.155047,
                         44.628769
                   ]
+            },
+            {
+                  "name": "Mihai Viteazul",
+                  "text": "Ein Denkmal zu Ehren von Mihai Viteazul, dem ersten Vereiniger der rumänischen Fürstentümer.",
+                  "category": "historical",
+                  "coords": [
+                        23.189802,
+                        44.621189
+                  ]
             }
       ],
       "hu": [
@@ -14858,6 +17844,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.155047,
                         44.628769
+                  ]
+            },
+            {
+                  "name": "Mihai Viteazul",
+                  "text": "Vitéz Mihály (Mihai Viteazul) emlékműve, aki a román fejedelemségek első egyesítője volt.",
+                  "category": "historical",
+                  "coords": [
+                        23.189802,
+                        44.621189
                   ]
             }
       ],
@@ -14881,6 +17876,15 @@ export const poiExtraRo1: POI[] = [
                         23.155047,
                         44.628769
                   ]
+            },
+            {
+                  "name": "Mihai Viteazul",
+                  "text": "Un monument în cinstea lui Mihai Viteazul, primul unificator al principatelor române.",
+                  "category": "historical",
+                  "coords": [
+                        23.189802,
+                        44.621189
+                  ]
             }
       ],
       "en": [
@@ -14902,6 +17906,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.155047,
                         44.628769
+                  ]
+            },
+            {
+                  "name": "Mihai Viteazul",
+                  "text": "A monument honoring Michael the Brave, the first unifier of the Romanian principalities.",
+                  "category": "historical",
+                  "coords": [
+                        23.189802,
+                        44.621189
                   ]
             }
       ]
@@ -15107,6 +18120,42 @@ export const poiExtraRo1: POI[] = [
                         24.700246,
                         46.779905
                   ]
+            },
+            {
+                  "name": "Situl arheologic dealul bisericii \"Kirchberg\"",
+                  "text": "Archäologische Stätte auf dem Kirchberg in Reghin.",
+                  "category": "historical",
+                  "coords": [
+                        24.703684,
+                        46.778882
+                  ]
+            },
+            {
+                  "name": "Ruinele Castelului Huszar",
+                  "text": "Überreste des Schlosses Huszár in Reghin.",
+                  "category": "castle",
+                  "coords": [
+                        24.692114,
+                        46.752801
+                  ]
+            },
+            {
+                  "name": "Old hospital",
+                  "text": "Ein historisches Krankenhausgebäude in Reghin, das als Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        24.69375,
+                        46.774249
+                  ]
+            },
+            {
+                  "name": "#loveREGHIN Sign",
+                  "text": "Ein modernes Fotomotiv und Wahrzeichen in Reghin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.68049,
+                        46.782281
+                  ]
             }
       ],
       "hu": [
@@ -15138,6 +18187,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.700246,
                         46.779905
+                  ]
+            },
+            {
+                  "name": "Situl arheologic dealul bisericii \"Kirchberg\"",
+                  "text": "Régészeti lelőhely a szászrégeni Templom-dombon (Kirchberg).",
+                  "category": "historical",
+                  "coords": [
+                        24.703684,
+                        46.778882
+                  ]
+            },
+            {
+                  "name": "Huszár kastély romjai",
+                  "text": "A Huszár-kastély romjai Szászrégenben.",
+                  "category": "castle",
+                  "coords": [
+                        24.692114,
+                        46.752801
+                  ]
+            },
+            {
+                  "name": "Old hospital",
+                  "text": "Régi kórházépület Szászrégenben, amely műemléki védettség alatt áll.",
+                  "category": "historical",
+                  "coords": [
+                        24.69375,
+                        46.774249
+                  ]
+            },
+            {
+                  "name": "#loveREGHIN Sign",
+                  "text": "Modern városfelirat und népszerű fotópont Szászrégenben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.68049,
+                        46.782281
                   ]
             }
       ],
@@ -15171,6 +18256,42 @@ export const poiExtraRo1: POI[] = [
                         24.700246,
                         46.779905
                   ]
+            },
+            {
+                  "name": "Situl arheologic dealul bisericii \"Kirchberg\"",
+                  "text": "Sit arheologic situat pe Dealul Bisericii din Reghin.",
+                  "category": "historical",
+                  "coords": [
+                        24.703684,
+                        46.778882
+                  ]
+            },
+            {
+                  "name": "Ruinele Castelului Huszar",
+                  "text": "Ruinele castelului Huszár din Reghin.",
+                  "category": "castle",
+                  "coords": [
+                        24.692114,
+                        46.752801
+                  ]
+            },
+            {
+                  "name": "Old hospital",
+                  "text": "Vechea clădire a spitalului din Reghin, un monument istoric local.",
+                  "category": "historical",
+                  "coords": [
+                        24.69375,
+                        46.774249
+                  ]
+            },
+            {
+                  "name": "#loveREGHIN Sign",
+                  "text": "Un semn turistic modern și punct de fotografiere popular în Reghin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.68049,
+                        46.782281
+                  ]
             }
       ],
       "en": [
@@ -15202,6 +18323,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.700246,
                         46.779905
+                  ]
+            },
+            {
+                  "name": "Situl arheologic dealul bisericii \"Kirchberg\"",
+                  "text": "Archaeological site located on the Church Hill (Kirchberg) in Reghin.",
+                  "category": "historical",
+                  "coords": [
+                        24.703684,
+                        46.778882
+                  ]
+            },
+            {
+                  "name": "Ruins of Huszár Castle",
+                  "text": "The ruins of the Huszár Castle in Reghin.",
+                  "category": "castle",
+                  "coords": [
+                        24.692114,
+                        46.752801
+                  ]
+            },
+            {
+                  "name": "Old hospital",
+                  "text": "A historical hospital building in Reghin, preserved as a monument.",
+                  "category": "historical",
+                  "coords": [
+                        24.69375,
+                        46.774249
+                  ]
+            },
+            {
+                  "name": "#loveREGHIN Sign",
+                  "text": "A modern city sign and popular photo spot in Reghin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.68049,
+                        46.782281
                   ]
             }
       ]
@@ -15459,6 +18616,78 @@ export const poiExtraRo1: POI[] = [
                         24.322612,
                         46.447289
                   ]
+            },
+            {
+                  "name": "Castelul Kornis-Rákóczi-Bethlen",
+                  "text": "Ein historischer Schlosskomplex mit Renaissance- und Barockelementen.",
+                  "category": "castle",
+                  "coords": [
+                        24.246121,
+                        46.450273
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor de la Oarba de Mureș",
+                  "text": "Ein Denkmal zum Gedenken an die Helden der Schlacht von Oarba de Mureș.",
+                  "category": "historical",
+                  "coords": [
+                        24.266071,
+                        46.454877
+                  ]
+            },
+            {
+                  "name": "Iernut",
+                  "text": "Ein Gedenkmonument in der Stadt Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.250505,
+                        46.445253
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Ein lokales Denkmal in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.226853,
+                        46.446882
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroului Necunoscut",
+                  "text": "Ein Denkmal für den unbekannten Helden in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.233054,
+                        46.450005
+                  ]
+            },
+            {
+                  "name": "Lupoaica",
+                  "text": "Eine Statue der kapitolinischen Wölfin in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.235425,
+                        46.450501
+                  ]
+            },
+            {
+                  "name": "Poarta de intrare",
+                  "text": "Ein historisches Eingangstor in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.244573,
+                        46.449205
+                  ]
+            },
+            {
+                  "name": "Casa de cultură",
+                  "text": "Ein lokales Kulturhaus für Veranstaltungen in Iernut.",
+                  "category": "cultural",
+                  "coords": [
+                        24.2341,
+                        46.449877
+                  ]
             }
       ],
       "hu": [
@@ -15470,6 +18699,78 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.322612,
                         46.447289
+                  ]
+            },
+            {
+                  "name": "Castelul Kornis-Rákóczi-Bethlen",
+                  "text": "Történelmi kastélykomplexum reneszánsz és barokk elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        24.246121,
+                        46.450273
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor de la Oarba de Mureș",
+                  "text": "Emlékmű a Marosorbói csata hőseinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        24.266071,
+                        46.454877
+                  ]
+            },
+            {
+                  "name": "Iernut",
+                  "text": "Emlékmű Iernut városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.250505,
+                        46.445253
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Egy helyi emlékmű Radnóton.",
+                  "category": "historical",
+                  "coords": [
+                        24.226853,
+                        46.446882
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroului Necunoscut",
+                  "text": "Az ismeretlen hős emlékműve Radnóton.",
+                  "category": "historical",
+                  "coords": [
+                        24.233054,
+                        46.450005
+                  ]
+            },
+            {
+                  "name": "Lupoaica",
+                  "text": "A kapitóliumi anyafarkas szobra Radnóton.",
+                  "category": "historical",
+                  "coords": [
+                        24.235425,
+                        46.450501
+                  ]
+            },
+            {
+                  "name": "Poarta de intrare",
+                  "text": "Egy történelmi bejárati kapu Radnóton.",
+                  "category": "historical",
+                  "coords": [
+                        24.244573,
+                        46.449205
+                  ]
+            },
+            {
+                  "name": "Casa de cultură",
+                  "text": "Helyi művelődési ház Radnóton.",
+                  "category": "cultural",
+                  "coords": [
+                        24.2341,
+                        46.449877
                   ]
             }
       ],
@@ -15483,6 +18784,78 @@ export const poiExtraRo1: POI[] = [
                         24.322612,
                         46.447289
                   ]
+            },
+            {
+                  "name": "Castelul Kornis-Rákóczi-Bethlen",
+                  "text": "Un complex istoric de castel cu elemente renascentiste și baroce.",
+                  "category": "castle",
+                  "coords": [
+                        24.246121,
+                        46.450273
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor de la Oarba de Mureș",
+                  "text": "Un monument comemorativ pentru eroii bătăliei de la Oarba de Mureș.",
+                  "category": "historical",
+                  "coords": [
+                        24.266071,
+                        46.454877
+                  ]
+            },
+            {
+                  "name": "Iernut",
+                  "text": "Un monument comemorativ situat în orașul Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.250505,
+                        46.445253
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Un monument local în Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.226853,
+                        46.446882
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroului Necunoscut",
+                  "text": "Monumentul dedicat eroului necunoscut din Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.233054,
+                        46.450005
+                  ]
+            },
+            {
+                  "name": "Lupoaica",
+                  "text": "O statuie a lupoaicei capitoline în Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.235425,
+                        46.450501
+                  ]
+            },
+            {
+                  "name": "Poarta de intrare",
+                  "text": "O poartă istorică de intrare în Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.244573,
+                        46.449205
+                  ]
+            },
+            {
+                  "name": "Casa de cultură",
+                  "text": "Casa locală de cultură din Iernut găzduiește diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        24.2341,
+                        46.449877
+                  ]
             }
       ],
       "en": [
@@ -15494,6 +18867,78 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.322612,
                         46.447289
+                  ]
+            },
+            {
+                  "name": "Castelul Kornis-Rákóczi-Bethlen",
+                  "text": "A historical castle complex with Renaissance and Baroque features.",
+                  "category": "castle",
+                  "coords": [
+                        24.246121,
+                        46.450273
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor de la Oarba de Mureș",
+                  "text": "A monument commemorating the heroes of the Battle of Oarba de Mureș.",
+                  "category": "historical",
+                  "coords": [
+                        24.266071,
+                        46.454877
+                  ]
+            },
+            {
+                  "name": "Iernut",
+                  "text": "A commemorative monument located in the town of Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.250505,
+                        46.445253
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A local monument in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.226853,
+                        46.446882
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroului Necunoscut",
+                  "text": "A monument dedicated to the unknown hero in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.233054,
+                        46.450005
+                  ]
+            },
+            {
+                  "name": "Lupoaica",
+                  "text": "A statue of the Capitoline Wolf in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.235425,
+                        46.450501
+                  ]
+            },
+            {
+                  "name": "Poarta de intrare",
+                  "text": "A historical entrance gate in Iernut.",
+                  "category": "historical",
+                  "coords": [
+                        24.244573,
+                        46.449205
+                  ]
+            },
+            {
+                  "name": "Casa de cultură",
+                  "text": "A local cultural center hosting events in Iernut.",
+                  "category": "cultural",
+                  "coords": [
+                        24.2341,
+                        46.449877
                   ]
             }
       ]
@@ -15605,6 +19050,42 @@ export const poiExtraRo1: POI[] = [
                         26.370334,
                         46.925278
                   ]
+            },
+            {
+                  "name": "Neamt County Museum Complex",
+                  "text": "Ein bedeutender Museumskomplex in Piatra Neamț, der sich der Geschichte und Archäologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.369418,
+                        46.927967
+                  ]
+            },
+            {
+                  "name": "\"Calistrat Hogas\" Memorial Museum",
+                  "text": "Ein Gedenkmuseum in Piatra Neamț im ehemaligen Wohnhaus des Schriftstellers Calistrat Hogaș.",
+                  "category": "museum",
+                  "coords": [
+                        26.365948,
+                        46.931671
+                  ]
+            },
+            {
+                  "name": "\"Lascar Vorel\" Art Gallery",
+                  "text": "Eine Kunstgalerie in Piatra Neamț, die Werke regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.371962,
+                        46.931387
+                  ]
+            },
+            {
+                  "name": "Natural Sciences Museum",
+                  "text": "Ein Museum in Piatra Neamț, das die Geologie und Naturkunde der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.373828,
+                        46.934562
+                  ]
             }
       ],
       "hu": [
@@ -15672,6 +19153,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.370334,
                         46.925278
+                  ]
+            },
+            {
+                  "name": "Neamt County Museum Complex",
+                  "text": "Piatra Neamț-i múzeumi komplexum, amely a régió történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.369418,
+                        46.927967
+                  ]
+            },
+            {
+                  "name": "\"Calistrat Hogas\" Memorial Museum",
+                  "text": "Calistrat Hogaș író egykori lakóházában berendezett emlékmúzeum Piatra Neamț-ban.",
+                  "category": "museum",
+                  "coords": [
+                        26.365948,
+                        46.931671
+                  ]
+            },
+            {
+                  "name": "\"Lascar Vorel\" Art Gallery",
+                  "text": "Művészeti galéria Piatra Neamț-ban, ahol helyi művészek alkotásai láthatóak.",
+                  "category": "museum",
+                  "coords": [
+                        26.371962,
+                        46.931387
+                  ]
+            },
+            {
+                  "name": "Natural Sciences Museum",
+                  "text": "Piatra Neamț-i múzeum, amely a környék természetrajzát és geológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.373828,
+                        46.934562
                   ]
             }
       ],
@@ -15741,6 +19258,42 @@ export const poiExtraRo1: POI[] = [
                         26.370334,
                         46.925278
                   ]
+            },
+            {
+                  "name": "Neamt County Museum Complex",
+                  "text": "Un complex muzeal din Piatra Neamț care găzduiește expoziții de istorie și arheologie.",
+                  "category": "museum",
+                  "coords": [
+                        26.369418,
+                        46.927967
+                  ]
+            },
+            {
+                  "name": "\"Calistrat Hogas\" Memorial Museum",
+                  "text": "Un muzeu memorial din Piatra Neamț amenajat în casa scriitorului Calistrat Hogaș.",
+                  "category": "museum",
+                  "coords": [
+                        26.365948,
+                        46.931671
+                  ]
+            },
+            {
+                  "name": "\"Lascar Vorel\" Art Gallery",
+                  "text": "O galerie de artă din Piatra Neamț ce expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        26.371962,
+                        46.931387
+                  ]
+            },
+            {
+                  "name": "Natural Sciences Museum",
+                  "text": "Un muzeu din Piatra Neamț dedicat științelor naturii și geologiei specifice zonei.",
+                  "category": "museum",
+                  "coords": [
+                        26.373828,
+                        46.934562
+                  ]
             }
       ],
       "en": [
@@ -15808,6 +19361,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.370334,
                         46.925278
+                  ]
+            },
+            {
+                  "name": "Neamt County Museum Complex",
+                  "text": "A major museum complex in Piatra Neamț dedicated to history and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        26.369418,
+                        46.927967
+                  ]
+            },
+            {
+                  "name": "\"Calistrat Hogas\" Memorial Museum",
+                  "text": "A memorial museum in Piatra Neamț housed in the former residence of the writer Calistrat Hogaș.",
+                  "category": "museum",
+                  "coords": [
+                        26.365948,
+                        46.931671
+                  ]
+            },
+            {
+                  "name": "\"Lascar Vorel\" Art Gallery",
+                  "text": "An art gallery in Piatra Neamț exhibiting works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        26.371962,
+                        46.931387
+                  ]
+            },
+            {
+                  "name": "Natural Sciences Museum",
+                  "text": "A museum in Piatra Neamț showcasing the region's natural sciences and geology.",
+                  "category": "museum",
+                  "coords": [
+                        26.373828,
+                        46.934562
                   ]
             }
       ]
@@ -16398,6 +19987,42 @@ export const poiExtraRo1: POI[] = [
                         24.325174,
                         44.118367
                   ]
+            },
+            {
+                  "name": "Museum of Romanati",
+                  "text": "Ein Museum in Caracal, das das historische Erbe der ehemaligen Region Romanați bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        24.347876,
+                        44.109438
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vara",
+                  "text": "Ein Freilichttheater in Caracal für sommerliche Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.343614,
+                        44.113047
+                  ]
+            },
+            {
+                  "name": "Teatrul National Caracal",
+                  "text": "Das prachtvolle Nationaltheater von Caracal ist für seine monumentale Architektur bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.344871,
+                        44.113502
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Eine orthodoxe Kirche in Caracal, die der Entschlafung der Gottesmutter geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.349243,
+                        44.113099
+                  ]
             }
       ],
       "hu": [
@@ -16448,6 +20073,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.325174,
                         44.118367
+                  ]
+            },
+            {
+                  "name": "Museum of Romanati",
+                  "text": "Caracali múzeum, amely a hajdani Romanați vidék történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        24.347876,
+                        44.109438
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vara",
+                  "text": "Caracali szabadtéri színpad nyári kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        24.343614,
+                        44.113047
+                  ]
+            },
+            {
+                  "name": "Teatrul National Caracal",
+                  "text": "A Caracali Nemzeti Színház épülete monumentális építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.344871,
+                        44.113502
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Caracali ortodox templom, amelyet Szűz Mária elszenderedésének tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.349243,
+                        44.113099
                   ]
             }
       ],
@@ -16500,6 +20161,42 @@ export const poiExtraRo1: POI[] = [
                         24.325174,
                         44.118367
                   ]
+            },
+            {
+                  "name": "Museum of Romanati",
+                  "text": "Un muzeu din Caracal care păstrează moștenirea istorică a fostului județ Romanați.",
+                  "category": "museum",
+                  "coords": [
+                        24.347876,
+                        44.109438
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vara",
+                  "text": "Un teatru de vară din Caracal destinat spectacolelor și evenimentelor în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        24.343614,
+                        44.113047
+                  ]
+            },
+            {
+                  "name": "Teatrul National Caracal",
+                  "text": "Teatrul Național din Caracal este renumit pentru arhitectura sa monumentală.",
+                  "category": "landmark",
+                  "coords": [
+                        24.344871,
+                        44.113502
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "O biserică ortodoxă din Caracal, purtând hramul Adormirea Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        24.349243,
+                        44.113099
+                  ]
             }
       ],
       "en": [
@@ -16550,6 +20247,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.325174,
                         44.118367
+                  ]
+            },
+            {
+                  "name": "Museum of Romanati",
+                  "text": "A museum in Caracal preserving the historical heritage of the former Romanați region.",
+                  "category": "museum",
+                  "coords": [
+                        24.347876,
+                        44.109438
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vara",
+                  "text": "An open-air theatre in Caracal used for cultural events during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        24.343614,
+                        44.113047
+                  ]
+            },
+            {
+                  "name": "Teatrul National Caracal",
+                  "text": "The National Theatre of Caracal is renowned for its monumental architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        24.344871,
+                        44.113502
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "An Orthodox church in Caracal dedicated to the Dormition of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        24.349243,
+                        44.113099
                   ]
             }
       ]
@@ -16858,6 +20591,42 @@ export const poiExtraRo1: POI[] = [
                         25.74187,
                         45.118314
                   ]
+            },
+            {
+                  "name": "\"Bogdan Petriceicu Hasdeu\" Museum",
+                  "text": "Ein Museum in Câmpina, das dem Leben und Werk des Gelehrten Bogdan Petriceicu Hasdeu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135665
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Ein kleines Pfarreimuseum in Câmpina mit religiösen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Geo Bogza",
+                  "text": "Ein Kulturzentrum in Câmpina, das nach dem Schriftsteller Geo Bogza benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Campina",
+                  "text": "Das Rathaus von Câmpina, der Verwaltungssitz der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.730609,
+                        45.124689
+                  ]
             }
       ],
       "hu": [
@@ -16951,6 +20720,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.74187,
                         45.118314
+                  ]
+            },
+            {
+                  "name": "\"Bogdan Petriceicu Hasdeu\" Museum",
+                  "text": "Câmpinai múzeum, amely Bogdan Petriceicu Hasdeu tudós életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135665
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Kicsi egyházközségi múzeum Câmpinában vallási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Geo Bogza",
+                  "text": "Geo Bogza íróról elnevezett művelődési központ Câmpinában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Campina",
+                  "text": "Câmpina városának városházája, a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.730609,
+                        45.124689
                   ]
             }
       ],
@@ -17046,6 +20851,42 @@ export const poiExtraRo1: POI[] = [
                         25.74187,
                         45.118314
                   ]
+            },
+            {
+                  "name": "\"Bogdan Petriceicu Hasdeu\" Museum",
+                  "text": "Un muzeu din Câmpina dedicat vieții și operei enciclopedistului Bogdan Petriceicu Hasdeu.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135665
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Un mic muzeu parohial din Câmpina ce adăpostește obiecte de cult religioase.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Geo Bogza",
+                  "text": "O casă de cultură din Câmpina, numită după scriitorul Geo Bogza.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Campina",
+                  "text": "Sediul administrației publice locale din municipiul Câmpina.",
+                  "category": "landmark",
+                  "coords": [
+                        25.730609,
+                        45.124689
+                  ]
             }
       ],
       "en": [
@@ -17139,6 +20980,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.74187,
                         45.118314
+                  ]
+            },
+            {
+                  "name": "\"Bogdan Petriceicu Hasdeu\" Museum",
+                  "text": "A museum in Câmpina dedicated to the life and work of the scholar Bogdan Petriceicu Hasdeu.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135665
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "A small parish museum in Câmpina housing religious artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Geo Bogza",
+                  "text": "A cultural center in Câmpina named after the writer Geo Bogza.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primaria Municipiului Campina",
+                  "text": "The town hall of Câmpina, the administrative seat of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        25.730609,
+                        45.124689
                   ]
             }
       ]
@@ -17615,6 +21492,15 @@ export const poiExtraRo1: POI[] = [
                         22.455459,
                         47.672619
                   ]
+            },
+            {
+                  "name": "Sinagoga din Carei",
+                  "text": "Eine historische Synagoge in Carei, ein Zeugnis des jüdischen Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        22.463377,
+                        47.68511
+                  ]
             }
       ],
       "hu": [
@@ -17635,6 +21521,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.455459,
                         47.672619
+                  ]
+            },
+            {
+                  "name": "Sinagoga din Carei",
+                  "text": "Történelmi zsinagóga Nagykárolyban, a város zsidó örökségének emléke.",
+                  "category": "religious",
+                  "coords": [
+                        22.463377,
+                        47.68511
                   ]
             }
       ],
@@ -17657,6 +21552,15 @@ export const poiExtraRo1: POI[] = [
                         22.455459,
                         47.672619
                   ]
+            },
+            {
+                  "name": "Sinagoga din Carei",
+                  "text": "O sinagogă istorică în Carei, mărturie a moștenirii evreiești a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        22.463377,
+                        47.68511
+                  ]
             }
       ],
       "en": [
@@ -17677,6 +21581,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.455459,
                         47.672619
+                  ]
+            },
+            {
+                  "name": "Sinagoga din Carei",
+                  "text": "A historic synagogue in Carei, a testament to the city's Jewish heritage.",
+                  "category": "religious",
+                  "coords": [
+                        22.463377,
+                        47.68511
                   ]
             }
       ]
@@ -17742,6 +21655,15 @@ export const poiExtraRo1: POI[] = [
                         23.379185,
                         47.835124
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie ale Țării Oașului",
+                  "text": "Ein Museum in Negrești-Oaș, das die Geschichte und die traditionelle Kultur der Oaș-Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.42813,
+                        47.872599
+                  ]
             }
       ],
       "hu": [
@@ -17763,6 +21685,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.379185,
                         47.835124
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie ale Țării Oașului",
+                  "text": "Negrești-Oaș múzeuma, amely az Avas-vidék történelmét és hagyományos kultúráját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        23.42813,
+                        47.872599
                   ]
             }
       ],
@@ -17786,6 +21717,15 @@ export const poiExtraRo1: POI[] = [
                         23.379185,
                         47.835124
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie ale Țării Oașului",
+                  "text": "Un muzeu în Negrești-Oaș care conservă istoria și cultura tradițională a Țării Oașului.",
+                  "category": "museum",
+                  "coords": [
+                        23.42813,
+                        47.872599
+                  ]
             }
       ],
       "en": [
@@ -17807,6 +21747,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.379185,
                         47.835124
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie ale Țării Oașului",
+                  "text": "A museum in Negrești-Oaș preserving the history and traditional culture of the Oaș region.",
+                  "category": "museum",
+                  "coords": [
+                        23.42813,
+                        47.872599
                   ]
             }
       ]
@@ -17880,6 +21829,15 @@ export const poiExtraRo1: POI[] = [
                         22.569297,
                         47.472272
                   ]
+            },
+            {
+                  "name": "Monument istoric",
+                  "text": "Dieses Denkmal in Tășnad ist als historisches Erbe der Region geschützt.",
+                  "category": "historical",
+                  "coords": [
+                        22.582643,
+                        47.47573
+                  ]
             }
       ],
       "hu": [
@@ -17909,6 +21867,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.569297,
                         47.472272
+                  ]
+            },
+            {
+                  "name": "Monument istoric",
+                  "text": "Ez a tasnádi emlékmű a régió védett történelmi öröksége.",
+                  "category": "historical",
+                  "coords": [
+                        22.582643,
+                        47.47573
                   ]
             }
       ],
@@ -17940,6 +21907,15 @@ export const poiExtraRo1: POI[] = [
                         22.569297,
                         47.472272
                   ]
+            },
+            {
+                  "name": "Monument istoric",
+                  "text": "Acest monument din Tășnad este protejat ca patrimoniu istoric al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        22.582643,
+                        47.47573
+                  ]
             }
       ],
       "en": [
@@ -17969,6 +21945,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.569297,
                         47.472272
+                  ]
+            },
+            {
+                  "name": "Monument istoric",
+                  "text": "This monument in Tășnad is protected as historical heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        22.582643,
+                        47.47573
                   ]
             }
       ]
@@ -18034,6 +22019,24 @@ export const poiExtraRo1: POI[] = [
                         22.798102,
                         47.247336
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial al Holocaustului din Nordul Transilvaniei",
+                  "text": "Ein Museum in Șimleu Silvaniei, das dem Gedenken an den Holocaust im Norden Siebenbürgens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.802286,
+                        47.230508
+                  ]
+            },
+            {
+                  "name": "Dacidava",
+                  "text": "Antike dakische Ruinen in Șimleu Silvaniei, die Zeugnis von der frühen Geschichte der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        22.800751,
+                        47.236445
+                  ]
             }
       ],
       "hu": [
@@ -18055,6 +22058,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.798102,
                         47.247336
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial al Holocaustului din Nordul Transilvaniei",
+                  "text": "Érmihályfalvai múzeum, amely az észak-erdélyi holokauszt emlékének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        22.802286,
+                        47.230508
+                  ]
+            },
+            {
+                  "name": "Dacidava",
+                  "text": "Ókori dák romok Szilágysomlyón, amelyek a régió korai történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        22.800751,
+                        47.236445
                   ]
             }
       ],
@@ -18078,6 +22099,24 @@ export const poiExtraRo1: POI[] = [
                         22.798102,
                         47.247336
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial al Holocaustului din Nordul Transilvaniei",
+                  "text": "Un muzeu în Șimleu Silvaniei, dedicat memoriei Holocaustului din Nordul Transilvaniei.",
+                  "category": "museum",
+                  "coords": [
+                        22.802286,
+                        47.230508
+                  ]
+            },
+            {
+                  "name": "Dacidava",
+                  "text": "Ruine dacice antice în Șimleu Silvaniei, care atestă istoria timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        22.800751,
+                        47.236445
+                  ]
             }
       ],
       "en": [
@@ -18099,6 +22138,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.798102,
                         47.247336
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial al Holocaustului din Nordul Transilvaniei",
+                  "text": "A museum in Șimleu Silvaniei dedicated to the memory of the Holocaust in Northern Transylvania.",
+                  "category": "museum",
+                  "coords": [
+                        22.802286,
+                        47.230508
+                  ]
+            },
+            {
+                  "name": "Dacidava",
+                  "text": "Ancient Dacian ruins in Șimleu Silvaniei, bearing witness to the region's early history.",
+                  "category": "historical",
+                  "coords": [
+                        22.800751,
+                        47.236445
                   ]
             }
       ]
@@ -18164,6 +22221,15 @@ export const poiExtraRo1: POI[] = [
                         23.261252,
                         47.261085
                   ]
+            },
+            {
+                  "name": "Grădina Botanică Jibou",
+                  "text": "Der Botanische Garten in Jibou befindet sich auf dem ehemaligen Wesselényi-Anwesen.",
+                  "category": "museum",
+                  "coords": [
+                        23.249881,
+                        47.264195
+                  ]
             }
       ],
       "hu": [
@@ -18185,6 +22251,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.261252,
                         47.261085
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Jibou",
+                  "text": "A zsibói botanikus kert az egykori Wesselényi-birtokon található.",
+                  "category": "museum",
+                  "coords": [
+                        23.249881,
+                        47.264195
                   ]
             }
       ],
@@ -18208,6 +22283,15 @@ export const poiExtraRo1: POI[] = [
                         23.261252,
                         47.261085
                   ]
+            },
+            {
+                  "name": "Grădina Botanică Jibou",
+                  "text": "Grădina Botanică din Jibou este situată pe fostul domeniu Wesselényi.",
+                  "category": "museum",
+                  "coords": [
+                        23.249881,
+                        47.264195
+                  ]
             }
       ],
       "en": [
@@ -18229,6 +22313,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.261252,
                         47.261085
+                  ]
+            },
+            {
+                  "name": "Jibou Botanical Garden",
+                  "text": "Jibou Botanical Garden is located on the former Wesselényi estate.",
+                  "category": "museum",
+                  "coords": [
+                        23.249881,
+                        47.264195
                   ]
             }
       ]
@@ -19049,6 +23142,33 @@ export const poiExtraRo1: POI[] = [
                         24.379282,
                         45.7307
                   ]
+            },
+            {
+                  "name": "Avrig Museum",
+                  "text": "Ein Museum in Avrig, das Einblicke in die lokale Geschichte und Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        24.374842,
+                        45.7265
+                  ]
+            },
+            {
+                  "name": "Palatul Brukenthal Avrig",
+                  "text": "Die ehemalige Sommerresidenz von Samuel von Brukenthal in Avrig, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.377256,
+                        45.729167
+                  ]
+            },
+            {
+                  "name": "Biserica Evanghelica Luterana",
+                  "text": "Eine historische evangelische Kirche in Avrig, die der lutherischen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.377019,
+                        45.727841
+                  ]
             }
       ],
       "hu": [
@@ -19087,6 +23207,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.379282,
                         45.7307
+                  ]
+            },
+            {
+                  "name": "Avrig Museum",
+                  "text": "Feleki (Avrig) múzeum, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.374842,
+                        45.7265
+                  ]
+            },
+            {
+                  "name": "Palatul Brukenthal Avrig",
+                  "text": "Samuel von Brukenthal egykori nyári rezidenciája Feleken (Avrig), ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.377256,
+                        45.729167
+                  ]
+            },
+            {
+                  "name": "Biserica Evanghelica Luterana",
+                  "text": "Feleki (Avrig) evangélikus templom, a helyi luteránus közösség vallási helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        24.377019,
+                        45.727841
                   ]
             }
       ],
@@ -19127,6 +23274,33 @@ export const poiExtraRo1: POI[] = [
                         24.379282,
                         45.7307
                   ]
+            },
+            {
+                  "name": "Avrig Museum",
+                  "text": "Un muzeu situat în Avrig care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.374842,
+                        45.7265
+                  ]
+            },
+            {
+                  "name": "Palatul Brukenthal Avrig",
+                  "text": "Fosta reședință de vară a lui Samuel von Brukenthal din Avrig, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        24.377256,
+                        45.729167
+                  ]
+            },
+            {
+                  "name": "Biserica Evanghelica Luterana",
+                  "text": "O biserică evanghelică istorică din Avrig, reprezentativă pentru comunitatea luterană locală.",
+                  "category": "religious",
+                  "coords": [
+                        24.377019,
+                        45.727841
+                  ]
             }
       ],
       "en": [
@@ -19165,6 +23339,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.379282,
                         45.7307
+                  ]
+            },
+            {
+                  "name": "Avrig Museum",
+                  "text": "A museum in Avrig providing insights into local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        24.374842,
+                        45.7265
+                  ]
+            },
+            {
+                  "name": "Palatul Brukenthal Avrig",
+                  "text": "The former summer residence of Samuel von Brukenthal in Avrig, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.377256,
+                        45.729167
+                  ]
+            },
+            {
+                  "name": "Biserica Evanghelica Luterana",
+                  "text": "A historic Evangelical church in Avrig serving the local Lutheran community.",
+                  "category": "religious",
+                  "coords": [
+                        24.377019,
+                        45.727841
                   ]
             }
       ]
@@ -19782,6 +23983,15 @@ export const poiExtraRo1: POI[] = [
                         25.573878,
                         47.452271
                   ]
+            },
+            {
+                  "name": "Muzeul Lingurilor",
+                  "text": "Dieses Museum in Câmpulung Moldovenesc zeigt eine beeindruckende Sammlung von kunstvoll geschnitzten Holzlöffeln.",
+                  "category": "museum",
+                  "coords": [
+                        25.551552,
+                        47.532809
+                  ]
             }
       ],
       "hu": [
@@ -19823,6 +24033,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.573878,
                         47.452271
+                  ]
+            },
+            {
+                  "name": "Muzeul Lingurilor",
+                  "text": "Ez a moldvahosszúmezei múzeum művészien faragott fakanalak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.551552,
+                        47.532809
                   ]
             }
       ],
@@ -19866,6 +24085,15 @@ export const poiExtraRo1: POI[] = [
                         25.573878,
                         47.452271
                   ]
+            },
+            {
+                  "name": "Muzeul Lingurilor",
+                  "text": "Acest muzeu din Câmpulung Moldovenesc expune o colecție impresionantă de linguri de lemn sculptate artistic.",
+                  "category": "museum",
+                  "coords": [
+                        25.551552,
+                        47.532809
+                  ]
             }
       ],
       "en": [
@@ -19907,6 +24135,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.573878,
                         47.452271
+                  ]
+            },
+            {
+                  "name": "Muzeul Lingurilor",
+                  "text": "This museum in Câmpulung Moldovenesc displays an impressive collection of artistically carved wooden spoons.",
+                  "category": "museum",
+                  "coords": [
+                        25.551552,
+                        47.532809
                   ]
             }
       ]
@@ -20450,6 +24687,15 @@ export const poiExtraRo1: POI[] = [
                         25.368346,
                         43.654853
                   ]
+            },
+            {
+                  "name": "Cetatea dacică Zimnicea",
+                  "text": "Eine archäologische Ausgrabungsstätte einer dakischen Festung in Zimnicea.",
+                  "category": "historical",
+                  "coords": [
+                        25.340296,
+                        43.654317
+                  ]
             }
       ],
       "hu": [
@@ -20461,6 +24707,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.368346,
                         43.654853
+                  ]
+            },
+            {
+                  "name": "Cetatea dacică Zimnicea",
+                  "text": "Dák erődítmény régészeti lelőhelye Zimnicea városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.340296,
+                        43.654317
                   ]
             }
       ],
@@ -20474,6 +24729,15 @@ export const poiExtraRo1: POI[] = [
                         25.368346,
                         43.654853
                   ]
+            },
+            {
+                  "name": "Cetatea dacică Zimnicea",
+                  "text": "Situl arheologic al cetății dacice din Zimnicea.",
+                  "category": "historical",
+                  "coords": [
+                        25.340296,
+                        43.654317
+                  ]
             }
       ],
       "en": [
@@ -20485,6 +24749,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.368346,
                         43.654853
+                  ]
+            },
+            {
+                  "name": "Cetatea dacică Zimnicea",
+                  "text": "The archaeological site of a Dacian fortress in Zimnicea.",
+                  "category": "historical",
+                  "coords": [
+                        25.340296,
+                        43.654317
                   ]
             }
       ]
@@ -20560,6 +24833,15 @@ export const poiExtraRo1: POI[] = [
                         21.903433,
                         45.682765
                   ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Die Biserica Adormirea Maicii Domnului ist eine orthodoxe Kirche in Lugoj.",
+                  "category": "religious",
+                  "coords": [
+                        21.90638,
+                        45.687044
+                  ]
             }
       ],
       "hu": [
@@ -20591,6 +24873,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.903433,
                         45.682765
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "A Biserica Adormirea Maicii Domnului egy ortodox templom Lugoson.",
+                  "category": "religious",
+                  "coords": [
+                        21.90638,
+                        45.687044
                   ]
             }
       ],
@@ -20624,6 +24915,15 @@ export const poiExtraRo1: POI[] = [
                         21.903433,
                         45.682765
                   ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica Adormirea Maicii Domnului este un lăcaș de cult ortodox în Lugoj.",
+                  "category": "religious",
+                  "coords": [
+                        21.90638,
+                        45.687044
+                  ]
             }
       ],
       "en": [
@@ -20655,6 +24955,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.903433,
                         45.682765
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica Adormirea Maicii Domnului is an Orthodox church located in Lugoj.",
+                  "category": "religious",
+                  "coords": [
+                        21.90638,
+                        45.687044
                   ]
             }
       ]
@@ -21578,7 +25887,308 @@ export const poiExtraRo1: POI[] = [
       "en": ["Isaccea is built on the site of the powerful Roman legionary fortress, Noviodunum.", "Noviodunum was the principal naval base of the Roman Empire's Danube fleet.", "The town's long history as a Danube crossing was noted in the 10th-century by Constantine VII.", "A modern roll-on/roll-off ferry to Orlivka, Ukraine, was inaugurated in August 2020.", "It was a major Byzantine naval base during the 11th-12th centuries.", "The town is home to a research station for the artificial reproduction of beluga sturgeons.", "The nearby Celic-Dere and Saon monasteries are important spiritual centers in Dobruja.", "Stone from local quarries has been used for construction projects along the Danube for centuries."]
     },
     image: "/poi-images/city-isaccea-extra.webp",
-    "sights": {"de": [{"name": "Isaac-Baba-Moschee", "text": "Eine der ältesten Moscheen in Rumänien, erbaut im 17. Jahrhundert, die an die osmanische Geschichte der Region Isaccea erinnert.", "category": "religious", "confidence": "high", "coords": [28.48061, 45.264709]}, {"name": "Lacul Saon", "text": "Lacul Saon in Isaccea ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [28.503984, 45.226507]}, {"name": "Balta Buceag", "text": "Balta Buceag bei Isaccea ist ein naturnaher See, der sich gut für Beobachtungen in der Landschaft eignet.", "category": "natural", "coords": [28.461595, 45.277302]}, {"name": "Lacul Isaccea", "text": "Lacul Isaccea in der gleichnamigen Stadt bietet eine schöne Kulisse für Spaziergänge am Wasser.", "category": "natural", "coords": [28.45225, 45.273097]}, {"name": "Lacul Rotund", "text": "Lacul Rotund in Isaccea ist ein malerischer See, der zu entspannten Stunden im Freien einlädt.", "category": "natural", "coords": [28.514807, 45.234218]}, {"name": "ozero Kagul / lacul Cahul", "text": "Der Cahul-See in Isaccea ist ein beeindruckendes Naturgewässer, das sich ideal für Naturbeobachtungen eignet.", "category": "natural", "coords": [28.375721, 45.428302]}], "hu": [{"name": "Iszak-Baba mecset", "text": "Románia egyik legrégebbi mecsete, amely a 17. században épült, és Isaccea oszmán múltjának állít vallási emléket.", "category": "religious", "confidence": "high", "coords": [28.48061, 45.264709]}, {"name": "Lacul Saon", "text": "Az Isaccea városában található Lacul Saon egy nyugodt vízfelület, amely pihentető környezetet kínál a természetben.", "category": "natural", "coords": [28.503984, 45.226507]}, {"name": "Balta Buceag", "text": "Az Isaccea melletti Balta Buceag egy természetközeli tó, amely kiválóan alkalmas a táj megfigyelésére.", "category": "natural", "coords": [28.461595, 45.277302]}, {"name": "Lacul Isaccea", "text": "Az Isaccea városában található tó szép környezetet biztosít a vízparti sétákhoz.", "category": "natural", "coords": [28.45225, 45.273097]}, {"name": "Lacul Rotund", "text": "Az Isaccea területén fekvő Lacul Rotund egy festői tó, amely kellemes kikapcsolódást ígér a szabadban.", "category": "natural", "coords": [28.514807, 45.234218]}, {"name": "ozero Kagul / lacul Cahul", "text": "Az Isaccea melletti Cahul-tó egy lenyűgöző természetes vízfelület, amely kiváló a természet megfigyelésére.", "category": "natural", "coords": [28.375721, 45.428302]}], "ro": [{"name": "Moscheea Isaac-Baba", "text": "Una dintre cele mai vechi moschei din România, datând din secolul al XVII-lea, amintind de trecutul otoman al localității.", "category": "religious", "confidence": "high", "coords": [28.48061, 45.264709]}, {"name": "Lacul Saon", "text": "Lacul Saon din Isaccea este o întindere de apă liniștită, ce oferă un cadru relaxant în mijlocul naturii.", "category": "natural", "coords": [28.503984, 45.226507]}, {"name": "Balta Buceag", "text": "Balta Buceag de lângă Isaccea este un lac natural, ideal pentru observarea peisajului.", "category": "natural", "coords": [28.461595, 45.277302]}, {"name": "Lacul Isaccea", "text": "Lacul Isaccea din orașul cu același nume oferă un cadru frumos pentru plimbări pe malul apei.", "category": "natural", "coords": [28.45225, 45.273097]}, {"name": "Lacul Rotund", "text": "Lacul Rotund din Isaccea este un lac pitoresc ce invită la momente de relaxare în aer liber.", "category": "natural", "coords": [28.514807, 45.234218]}, {"name": "Lacul Cahul", "text": "Lacul Cahul din Isaccea este o apă naturală impresionantă, ideală pentru observarea naturii.", "category": "natural", "coords": [28.375721, 45.428302]}], "en": [{"name": "Isaac-Baba Mosque", "text": "One of the oldest mosques in Romania, dating from the 17th century, representing the Ottoman heritage of the Isaccea region.", "category": "religious", "confidence": "high", "coords": [28.48061, 45.264709]}, {"name": "Lacul Saon", "text": "Lacul Saon in Isaccea is a calm lake that offers a relaxing setting in nature.", "category": "natural", "coords": [28.503984, 45.226507]}, {"name": "Balta Buceag", "text": "Balta Buceag near Isaccea is a natural lake perfect for enjoying the local scenery.", "category": "natural", "coords": [28.461595, 45.277302]}, {"name": "Lacul Isaccea", "text": "Lacul Isaccea in the town of Isaccea provides a beautiful setting for walks along the shore.", "category": "natural", "coords": [28.45225, 45.273097]}, {"name": "Lacul Rotund", "text": "Lacul Rotund in Isaccea is a scenic lake that invites visitors to enjoy relaxing moments outdoors.", "category": "natural", "coords": [28.514807, 45.234218]}, {"name": "Lake Cahul", "text": "Lake Cahul in Isaccea is an impressive natural body of water, perfect for nature observation.", "category": "natural", "coords": [28.375721, 45.428302]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Isaac-Baba-Moschee",
+                  "text": "Eine der ältesten Moscheen in Rumänien, erbaut im 17. Jahrhundert, die an die osmanische Geschichte der Region Isaccea erinnert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.48061,
+                        45.264709
+                  ]
+            },
+            {
+                  "name": "Lacul Saon",
+                  "text": "Lacul Saon in Isaccea ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.503984,
+                        45.226507
+                  ]
+            },
+            {
+                  "name": "Balta Buceag",
+                  "text": "Balta Buceag bei Isaccea ist ein naturnaher See, der sich gut für Beobachtungen in der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.461595,
+                        45.277302
+                  ]
+            },
+            {
+                  "name": "Lacul Isaccea",
+                  "text": "Lacul Isaccea in der gleichnamigen Stadt bietet eine schöne Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.45225,
+                        45.273097
+                  ]
+            },
+            {
+                  "name": "Lacul Rotund",
+                  "text": "Lacul Rotund in Isaccea ist ein malerischer See, der zu entspannten Stunden im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.514807,
+                        45.234218
+                  ]
+            },
+            {
+                  "name": "ozero Kagul / lacul Cahul",
+                  "text": "Der Cahul-See in Isaccea ist ein beeindruckendes Naturgewässer, das sich ideal für Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.375721,
+                        45.428302
+                  ]
+            },
+            {
+                  "name": "Tabia Veche",
+                  "text": "Eine historische archäologische Stätte in Isaccea, die Überreste alter Befestigungsanlagen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        28.42814,
+                        45.272674
+                  ]
+            },
+            {
+                  "name": "Tabia mare",
+                  "text": "Bedeutende archäologische Ausgrabungsstätte mit den Überresten einer großen Festung in Isaccea.",
+                  "category": "historical",
+                  "coords": [
+                        28.490424,
+                        45.27116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iszak-Baba mecset",
+                  "text": "Románia egyik legrégebbi mecsete, amely a 17. században épült, és Isaccea oszmán múltjának állít vallási emléket.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.48061,
+                        45.264709
+                  ]
+            },
+            {
+                  "name": "Lacul Saon",
+                  "text": "Az Isaccea városában található Lacul Saon egy nyugodt vízfelület, amely pihentető környezetet kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        28.503984,
+                        45.226507
+                  ]
+            },
+            {
+                  "name": "Balta Buceag",
+                  "text": "Az Isaccea melletti Balta Buceag egy természetközeli tó, amely kiválóan alkalmas a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.461595,
+                        45.277302
+                  ]
+            },
+            {
+                  "name": "Lacul Isaccea",
+                  "text": "Az Isaccea városában található tó szép környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.45225,
+                        45.273097
+                  ]
+            },
+            {
+                  "name": "Lacul Rotund",
+                  "text": "Az Isaccea területén fekvő Lacul Rotund egy festői tó, amely kellemes kikapcsolódást ígér a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        28.514807,
+                        45.234218
+                  ]
+            },
+            {
+                  "name": "ozero Kagul / lacul Cahul",
+                  "text": "Az Isaccea melletti Cahul-tó egy lenyűgöző természetes vízfelület, amely kiváló a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        28.375721,
+                        45.428302
+                  ]
+            },
+            {
+                  "name": "Tabia Veche",
+                  "text": "Isaccea történelmi régészeti lelőhelye, amely régi erődítmények maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        28.42814,
+                        45.272674
+                  ]
+            },
+            {
+                  "name": "Tabia mare",
+                  "text": "Jelentős régészeti lelőhely egy nagy erődítmény maradványaival Isaccea városában.",
+                  "category": "historical",
+                  "coords": [
+                        28.490424,
+                        45.27116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moscheea Isaac-Baba",
+                  "text": "Una dintre cele mai vechi moschei din România, datând din secolul al XVII-lea, amintind de trecutul otoman al localității.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.48061,
+                        45.264709
+                  ]
+            },
+            {
+                  "name": "Lacul Saon",
+                  "text": "Lacul Saon din Isaccea este o întindere de apă liniștită, ce oferă un cadru relaxant în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        28.503984,
+                        45.226507
+                  ]
+            },
+            {
+                  "name": "Balta Buceag",
+                  "text": "Balta Buceag de lângă Isaccea este un lac natural, ideal pentru observarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        28.461595,
+                        45.277302
+                  ]
+            },
+            {
+                  "name": "Lacul Isaccea",
+                  "text": "Lacul Isaccea din orașul cu același nume oferă un cadru frumos pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.45225,
+                        45.273097
+                  ]
+            },
+            {
+                  "name": "Lacul Rotund",
+                  "text": "Lacul Rotund din Isaccea este un lac pitoresc ce invită la momente de relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.514807,
+                        45.234218
+                  ]
+            },
+            {
+                  "name": "Lacul Cahul",
+                  "text": "Lacul Cahul din Isaccea este o apă naturală impresionantă, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        28.375721,
+                        45.428302
+                  ]
+            },
+            {
+                  "name": "Tabia Veche",
+                  "text": "Un sit arheologic istoric din Isaccea ce păstrează vestigiile unor vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        28.42814,
+                        45.272674
+                  ]
+            },
+            {
+                  "name": "Tabia mare",
+                  "text": "Sit arheologic important ce cuprinde vestigiile unei fortificații mari din Isaccea.",
+                  "category": "historical",
+                  "coords": [
+                        28.490424,
+                        45.27116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isaac-Baba Mosque",
+                  "text": "One of the oldest mosques in Romania, dating from the 17th century, representing the Ottoman heritage of the Isaccea region.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.48061,
+                        45.264709
+                  ]
+            },
+            {
+                  "name": "Lacul Saon",
+                  "text": "Lacul Saon in Isaccea is a calm lake that offers a relaxing setting in nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.503984,
+                        45.226507
+                  ]
+            },
+            {
+                  "name": "Balta Buceag",
+                  "text": "Balta Buceag near Isaccea is a natural lake perfect for enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.461595,
+                        45.277302
+                  ]
+            },
+            {
+                  "name": "Lacul Isaccea",
+                  "text": "Lacul Isaccea in the town of Isaccea provides a beautiful setting for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.45225,
+                        45.273097
+                  ]
+            },
+            {
+                  "name": "Lacul Rotund",
+                  "text": "Lacul Rotund in Isaccea is a scenic lake that invites visitors to enjoy relaxing moments outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        28.514807,
+                        45.234218
+                  ]
+            },
+            {
+                  "name": "Lake Cahul",
+                  "text": "Lake Cahul in Isaccea is an impressive natural body of water, perfect for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        28.375721,
+                        45.428302
+                  ]
+            },
+            {
+                  "name": "Tabia Veche",
+                  "text": "A historical archaeological site in Isaccea preserving the remains of old fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        28.42814,
+                        45.272674
+                  ]
+            },
+            {
+                  "name": "Tabia mare",
+                  "text": "Significant archaeological site featuring the remains of a large fortification in Isaccea.",
+                  "category": "historical",
+                  "coords": [
+                        28.490424,
+                        45.27116
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-barlad-extra",
@@ -22004,6 +26614,24 @@ export const poiExtraRo1: POI[] = [
                         28.060947,
                         46.672613
                   ]
+            },
+            {
+                  "name": "Muzeul Eparhial",
+                  "text": "Ein Museum in Huși mit religiöser Kunst, seltenen Büchern und historischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        28.054822,
+                        46.673221
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură \"Alexandru Giugaru\"",
+                  "text": "Ein Kulturzentrum in Huși, das auch als markantes Wahrzeichen der Stadt dient.",
+                  "category": "natural",
+                  "coords": [
+                        28.058624,
+                        46.673537
+                  ]
             }
       ],
       "hu": [
@@ -22035,6 +26663,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.060947,
                         46.672613
+                  ]
+            },
+            {
+                  "name": "Muzeul Eparhial",
+                  "text": "Vallási művészetet, ritka könyveket és történelmi tárgyakat bemutató múzeum Huși-ban.",
+                  "category": "museum",
+                  "coords": [
+                        28.054822,
+                        46.673221
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură \"Alexandru Giugaru\"",
+                  "text": "Kulturális központ Huși-ban, amely a város egyik nevezetes látnivalója is.",
+                  "category": "natural",
+                  "coords": [
+                        28.058624,
+                        46.673537
                   ]
             }
       ],
@@ -22068,6 +26714,24 @@ export const poiExtraRo1: POI[] = [
                         28.060947,
                         46.672613
                   ]
+            },
+            {
+                  "name": "Muzeul Eparhial",
+                  "text": "Un muzeu din Huși care adăpostește artă religioasă, cărți rare și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        28.054822,
+                        46.673221
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură \"Alexandru Giugaru\"",
+                  "text": "Un centru cultural din Huși care servește și ca punct de reper notabil în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        28.058624,
+                        46.673537
+                  ]
             }
       ],
       "en": [
@@ -22099,6 +26763,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.060947,
                         46.672613
+                  ]
+            },
+            {
+                  "name": "Diocesan Museum",
+                  "text": "A museum in Huși housing religious art, rare books, and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        28.054822,
+                        46.673221
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură \"Alexandru Giugaru\"",
+                  "text": "A cultural center in Huși that also serves as a notable landmark in the city.",
+                  "category": "natural",
+                  "coords": [
+                        28.058624,
+                        46.673537
                   ]
             }
       ]
@@ -23194,6 +27876,33 @@ export const poiExtraRo1: POI[] = [
                         24.003155,
                         45.119765
                   ]
+            },
+            {
+                  "name": "Horezu Contemporary Folk Art Gallery",
+                  "text": "Diese Galerie in Horezu präsentiert zeitgenössische Volkskunst und die berühmte Keramiktradition der Region.",
+                  "category": "museum",
+                  "coords": [
+                        23.989045,
+                        45.145613
+                  ]
+            },
+            {
+                  "name": "Izvor apa sulfuroasa",
+                  "text": "Eine natürliche Schwefelquelle in Horezu, die für ihre mineralischen Eigenschaften bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.03618,
+                        45.130864
+                  ]
+            },
+            {
+                  "name": "Biserica ,,Sfantul Ioan Botezatorul\" si ,,Intrarea in Biserica\" (1800)",
+                  "text": "Eine historische orthodoxe Kirche aus dem Jahr 1800, die ein bedeutendes religiöses Denkmal in Horezu darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991904,
+                        45.145931
+                  ]
             }
       ],
       "hu": [
@@ -23235,6 +27944,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.003155,
                         45.119765
+                  ]
+            },
+            {
+                  "name": "Horezu Contemporary Folk Art Gallery",
+                  "text": "Ez a horezui galéria a kortárs népművészetet és a régió híres kerámiaművészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.989045,
+                        45.145613
+                  ]
+            },
+            {
+                  "name": "Izvor apa sulfuroasa",
+                  "text": "Horezui természetes kénes forrás, amely ásványi tulajdonságairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.03618,
+                        45.130864
+                  ]
+            },
+            {
+                  "name": "Biserica ,,Sfantul Ioan Botezatorul\" si ,,Intrarea in Biserica\" (1800)",
+                  "text": "1800-ban épült történelmi ortodox templom, amely Horezu jelentős vallási műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991904,
+                        45.145931
                   ]
             }
       ],
@@ -23278,6 +28014,33 @@ export const poiExtraRo1: POI[] = [
                         24.003155,
                         45.119765
                   ]
+            },
+            {
+                  "name": "Horezu Contemporary Folk Art Gallery",
+                  "text": "Această galerie din Horezu prezintă arta populară contemporană și faimoasa tradiție a ceramicii locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.989045,
+                        45.145613
+                  ]
+            },
+            {
+                  "name": "Izvor apa sulfuroasa",
+                  "text": "Un izvor natural de apă sulfuroasă din Horezu, cunoscut pentru proprietățile sale minerale.",
+                  "category": "landmark",
+                  "coords": [
+                        24.03618,
+                        45.130864
+                  ]
+            },
+            {
+                  "name": "Biserica ,,Sfantul Ioan Botezatorul\" si ,,Intrarea in Biserica\" (1800)",
+                  "text": "O biserică ortodoxă istorică datând din anul 1800, monument religios important în Horezu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991904,
+                        45.145931
+                  ]
             }
       ],
       "en": [
@@ -23319,6 +28082,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.003155,
                         45.119765
+                  ]
+            },
+            {
+                  "name": "Horezu Contemporary Folk Art Gallery",
+                  "text": "This gallery in Horezu showcases contemporary folk art and the region's famous pottery tradition.",
+                  "category": "museum",
+                  "coords": [
+                        23.989045,
+                        45.145613
+                  ]
+            },
+            {
+                  "name": "Izvor apa sulfuroasa",
+                  "text": "A natural sulfur water spring in Horezu, known for its mineral properties.",
+                  "category": "landmark",
+                  "coords": [
+                        24.03618,
+                        45.130864
+                  ]
+            },
+            {
+                  "name": "Biserica ,,Sfantul Ioan Botezatorul\" si ,,Intrarea in Biserica\" (1800)",
+                  "text": "A historic Orthodox church dating back to 1800, serving as an important religious monument in Horezu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991904,
+                        45.145931
                   ]
             }
       ]
@@ -23393,6 +28183,24 @@ export const poiExtraRo1: POI[] = [
                         27.190261,
                         46.147402
                   ]
+            },
+            {
+                  "name": "Vrancart Adjud",
+                  "text": "Ein Denkmal in der Stadt Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.189986,
+                        46.110065
+                  ]
+            },
+            {
+                  "name": "rampa vrancart",
+                  "text": "Ein lokales Monument in Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.187517,
+                        46.108856
+                  ]
             }
       ],
       "hu": [
@@ -23423,6 +28231,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.190261,
                         46.147402
+                  ]
+            },
+            {
+                  "name": "Vrancart Adjud",
+                  "text": "Emlékmű Adjud városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.189986,
+                        46.110065
+                  ]
+            },
+            {
+                  "name": "rampa vrancart",
+                  "text": "Helyi emlékmű Adjudban.",
+                  "category": "historical",
+                  "coords": [
+                        27.187517,
+                        46.108856
                   ]
             }
       ],
@@ -23455,6 +28281,24 @@ export const poiExtraRo1: POI[] = [
                         27.190261,
                         46.147402
                   ]
+            },
+            {
+                  "name": "Vrancart Adjud",
+                  "text": "Un monument situat în orașul Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.189986,
+                        46.110065
+                  ]
+            },
+            {
+                  "name": "rampa vrancart",
+                  "text": "Un monument local în Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.187517,
+                        46.108856
+                  ]
             }
       ],
       "en": [
@@ -23485,6 +28329,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.190261,
                         46.147402
+                  ]
+            },
+            {
+                  "name": "Vrancart Adjud",
+                  "text": "A monument located in the town of Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.189986,
+                        46.110065
+                  ]
+            },
+            {
+                  "name": "rampa vrancart",
+                  "text": "A local monument in Adjud.",
+                  "category": "historical",
+                  "coords": [
+                        27.187517,
+                        46.108856
                   ]
             }
       ]
@@ -23540,6 +28402,15 @@ export const poiExtraRo1: POI[] = [
                         27.214792,
                         45.875736
                   ]
+            },
+            {
+                  "name": "Mausoleul de la Mărășești",
+                  "text": "Ein Denkmal und Museum zum Gedenken an die rumänischen Soldaten des Ersten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        27.207845,
+                        45.872328
+                  ]
             }
       ],
       "hu": [
@@ -23551,6 +28422,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.214792,
                         45.875736
+                  ]
+            },
+            {
+                  "name": "Mausoleul de la Mărășești",
+                  "text": "Az első világháború román katonáinak emlékére emelt mauzóleum és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.207845,
+                        45.872328
                   ]
             }
       ],
@@ -23564,6 +28444,15 @@ export const poiExtraRo1: POI[] = [
                         27.214792,
                         45.875736
                   ]
+            },
+            {
+                  "name": "Mausoleul de la Mărășești",
+                  "text": "Un monument și muzeu dedicat eroilor români din Primul Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        27.207845,
+                        45.872328
+                  ]
             }
       ],
       "en": [
@@ -23575,6 +28464,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.214792,
                         45.875736
+                  ]
+            },
+            {
+                  "name": "Marasesti Mausoleum",
+                  "text": "A monument and museum commemorating Romanian soldiers of World War I.",
+                  "category": "museum",
+                  "coords": [
+                        27.207845,
+                        45.872328
                   ]
             }
       ]
@@ -23650,6 +28548,15 @@ export const poiExtraRo1: POI[] = [
                         27.09314,
                         45.907134
                   ]
+            },
+            {
+                  "name": "Beciul Domnesc",
+                  "text": "Ein historischer Weinkeller in Panciu, der für die lokale Weinbautradition steht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106302,
+                        45.921371
+                  ]
             }
       ],
       "hu": [
@@ -23681,6 +28588,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.09314,
                         45.907134
+                  ]
+            },
+            {
+                  "name": "Beciul Domnesc",
+                  "text": "Történelmi borospince Panciuban, amely a helyi borászati hagyományokat jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106302,
+                        45.921371
                   ]
             }
       ],
@@ -23714,6 +28630,15 @@ export const poiExtraRo1: POI[] = [
                         27.09314,
                         45.907134
                   ]
+            },
+            {
+                  "name": "Beciul Domnesc",
+                  "text": "O pivniță istorică în Panciu, reprezentativă pentru tradiția viticolă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106302,
+                        45.921371
+                  ]
             }
       ],
       "en": [
@@ -23745,6 +28670,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.09314,
                         45.907134
+                  ]
+            },
+            {
+                  "name": "Beciul Domnesc",
+                  "text": "A historic wine cellar in Panciu, representing the local winemaking tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        27.106302,
+                        45.921371
                   ]
             }
       ]

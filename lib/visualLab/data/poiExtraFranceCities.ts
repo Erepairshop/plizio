@@ -2358,7 +2358,268 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "landmark-viaduc-de-millau-extra",
+    id: "landmark-viaduc-de-millau-extra", "sights": {
+      "de": [
+            {
+                  "name": "Site archéologique de la Graufesenque",
+                  "text": "Eine bedeutende gallorömische Ausgrabungsstätte, die für ihre Keramikproduktion berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        3.09263,
+                        44.096314
+                  ]
+            },
+            {
+                  "name": "Hôtel de Sambucy de Sorgues",
+                  "text": "Ein elegantes privates Herrenhaus aus dem 17. Jahrhundert in Millau mit einem bemerkenswerten Garten.",
+                  "category": "castle",
+                  "coords": [
+                        3.076433,
+                        44.097738
+                  ]
+            },
+            {
+                  "name": "Musée de Millau et des Grands Causses",
+                  "text": "Ein Museum, das der Archäologie und der traditionellen Handschuhindustrie von Millau gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.081097,
+                        44.097557
+                  ]
+            },
+            {
+                  "name": "Château de Creissels",
+                  "text": "Ein historisches Schloss über dem Tarn-Tal, das heute als Hotel und Restaurant genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        3.060832,
+                        44.085998
+                  ]
+            },
+            {
+                  "name": "Dolmen de Combets (B)",
+                  "text": "Ein prähistorisches Megalithgrab in der Nähe von Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.09063,
+                        44.070338
+                  ]
+            },
+            {
+                  "name": "Dolmen ruiné",
+                  "text": "Die Ruinen eines antiken Dolmens in der ländlichen Umgebung von Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.125304,
+                        44.073442
+                  ]
+            },
+            {
+                  "name": "Oppidum de la Granède",
+                  "text": "Ein antikes befestigtes Lager auf einem Hügel mit Ruinen aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        3.110516,
+                        44.089881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Site archéologique de la Graufesenque",
+                  "text": "Jelentős gall-római régészeti lelőhely, amely kerámiatermeléséről híres.",
+                  "category": "historical",
+                  "coords": [
+                        3.09263,
+                        44.096314
+                  ]
+            },
+            {
+                  "name": "Hôtel de Sambucy de Sorgues",
+                  "text": "Elegáns 17. századi magánkastély Millau-ban, figyelemre méltó kerttel.",
+                  "category": "castle",
+                  "coords": [
+                        3.076433,
+                        44.097738
+                  ]
+            },
+            {
+                  "name": "Musée de Millau et des Grands Causses",
+                  "text": "Millau régészetének és hagyományos kesztyűiparának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        3.081097,
+                        44.097557
+                  ]
+            },
+            {
+                  "name": "Château de Creissels",
+                  "text": "A Tarn-völgy felett álló történelmi vár, amely ma szállodaként és étteremként működik.",
+                  "category": "castle",
+                  "coords": [
+                        3.060832,
+                        44.085998
+                  ]
+            },
+            {
+                  "name": "Dolmen de Combets (B)",
+                  "text": "Őskori megalitikus sír Millau közelében.",
+                  "category": "historical",
+                  "coords": [
+                        3.09063,
+                        44.070338
+                  ]
+            },
+            {
+                  "name": "Dolmen ruiné",
+                  "text": "Egy ősi dolmen romjai Millau vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        3.125304,
+                        44.073442
+                  ]
+            },
+            {
+                  "name": "Oppidum de la Granède",
+                  "text": "Antik dombtetői erődített település különböző korszakokból származó romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        3.110516,
+                        44.089881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Site archéologique de la Graufesenque",
+                  "text": "Un sit arheologic galo-roman important, renumit pentru producția de ceramică.",
+                  "category": "historical",
+                  "coords": [
+                        3.09263,
+                        44.096314
+                  ]
+            },
+            {
+                  "name": "Hôtel de Sambucy de Sorgues",
+                  "text": "Un conac privat elegant din secolul al XVII-lea în Millau, cu o grădină remarcabilă.",
+                  "category": "castle",
+                  "coords": [
+                        3.076433,
+                        44.097738
+                  ]
+            },
+            {
+                  "name": "Musée de Millau et des Grands Causses",
+                  "text": "Un muzeu dedicat arheologiei și industriei tradiționale a mănușilor din Millau.",
+                  "category": "museum",
+                  "coords": [
+                        3.081097,
+                        44.097557
+                  ]
+            },
+            {
+                  "name": "Château de Creissels",
+                  "text": "Un castel istoric situat deasupra văii Tarn, utilizat astăzi ca hotel și restaurant.",
+                  "category": "castle",
+                  "coords": [
+                        3.060832,
+                        44.085998
+                  ]
+            },
+            {
+                  "name": "Dolmen de Combets (B)",
+                  "text": "Un mormânt megalitic preistoric situat lângă Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.09063,
+                        44.070338
+                  ]
+            },
+            {
+                  "name": "Dolmen ruiné",
+                  "text": "Ruinele unui dolmen antic în împrejurimile rurale din Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.125304,
+                        44.073442
+                  ]
+            },
+            {
+                  "name": "Oppidum de la Granède",
+                  "text": "O așezare fortificată antică pe deal, cu ruine din diverse epoci.",
+                  "category": "historical",
+                  "coords": [
+                        3.110516,
+                        44.089881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site archéologique de la Graufesenque",
+                  "text": "A major Gallo-Roman archaeological site famous for its pottery production.",
+                  "category": "historical",
+                  "coords": [
+                        3.09263,
+                        44.096314
+                  ]
+            },
+            {
+                  "name": "Hôtel de Sambucy de Sorgues",
+                  "text": "An elegant 17th-century private mansion in Millau with a notable garden.",
+                  "category": "castle",
+                  "coords": [
+                        3.076433,
+                        44.097738
+                  ]
+            },
+            {
+                  "name": "Musée de Millau et des Grands Causses",
+                  "text": "A museum dedicated to the archaeology and traditional glove-making industry of Millau.",
+                  "category": "museum",
+                  "coords": [
+                        3.081097,
+                        44.097557
+                  ]
+            },
+            {
+                  "name": "Château de Creissels",
+                  "text": "A historic castle overlooking the Tarn valley, now used as a hotel and restaurant.",
+                  "category": "castle",
+                  "coords": [
+                        3.060832,
+                        44.085998
+                  ]
+            },
+            {
+                  "name": "Dolmen de Combets (B)",
+                  "text": "A prehistoric megalithic tomb located near Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.09063,
+                        44.070338
+                  ]
+            },
+            {
+                  "name": "Dolmen ruiné",
+                  "text": "The ruins of an ancient dolmen in the rural surroundings of Millau.",
+                  "category": "historical",
+                  "coords": [
+                        3.125304,
+                        44.073442
+                  ]
+            },
+            {
+                  "name": "Oppidum de la Granède",
+                  "text": "An ancient hilltop fortified settlement with ruins from various eras.",
+                  "category": "historical",
+                  "coords": [
+                        3.110516,
+                        44.089881
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FR-OCC",
     coords: [3.0766, 44.0772],
@@ -2655,6 +2916,60 @@ export const poiExtraFranceCities: POI[] = [
                         1.055205,
                         49.421222
                   ]
+            },
+            {
+                  "name": "Hotel particulier",
+                  "text": "Ein historisches privates Stadtpalais in Rouen.",
+                  "category": "castle",
+                  "coords": [
+                        1.090827,
+                        49.446991
+                  ]
+            },
+            {
+                  "name": "Musee de la Ceramique",
+                  "text": "Ein Museum in Rouen, das eine bedeutende Sammlung von Keramikkunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.093622,
+                        49.445513
+                  ]
+            },
+            {
+                  "name": "Musee national de l'Education",
+                  "text": "Ein Nationalmuseum, das der Geschichte der Erziehung in Frankreich gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.101699,
+                        49.44137
+                  ]
+            },
+            {
+                  "name": "Maison natale Pierre Corneille",
+                  "text": "Das Geburtshaus des berühmten Dramatikers Pierre Corneille in Rouen ist heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        1.086783,
+                        49.443084
+                  ]
+            },
+            {
+                  "name": "Theatre des Arts",
+                  "text": "Ein bedeutendes Theater- und Opernhaus in Rouen für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        1.089553,
+                        49.439617
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "Eine ehemalige Kapelle in Rouen, die heute als Theater und Veranstaltungsort genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        1.098892,
+                        49.445161
+                  ]
             }
       ],
       "hu": [
@@ -2824,6 +3139,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.055205,
                         49.421222
+                  ]
+            },
+            {
+                  "name": "Hotel particulier",
+                  "text": "Történelmi magánpalota Rouen városában.",
+                  "category": "castle",
+                  "coords": [
+                        1.090827,
+                        49.446991
+                  ]
+            },
+            {
+                  "name": "Musee de la Ceramique",
+                  "text": "Jelentős kerámiaművészeti gyűjteményt bemutató múzeum Rouenben.",
+                  "category": "museum",
+                  "coords": [
+                        1.093622,
+                        49.445513
+                  ]
+            },
+            {
+                  "name": "Musee national de l'Education",
+                  "text": "A franciaországi oktatás történetének szentelt nemzeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.101699,
+                        49.44137
+                  ]
+            },
+            {
+                  "name": "Maison natale Pierre Corneille",
+                  "text": "Pierre Corneille híres drámaíró szülőháza Rouenben, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        1.086783,
+                        49.443084
+                  ]
+            },
+            {
+                  "name": "Theatre des Arts",
+                  "text": "Fontos előadó-művészeti helyszín Rouenben, amely operáknak és színdaraboknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        1.089553,
+                        49.439617
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "Egy egykori kápolna Rouenben, amelyet színházzá és előadótérré alakítottak át.",
+                  "category": "cultural",
+                  "coords": [
+                        1.098892,
+                        49.445161
                   ]
             }
       ],
@@ -2995,6 +3364,60 @@ export const poiExtraFranceCities: POI[] = [
                         1.055205,
                         49.421222
                   ]
+            },
+            {
+                  "name": "Hotel particulier",
+                  "text": "Un conac privat istoric situat în Rouen.",
+                  "category": "castle",
+                  "coords": [
+                        1.090827,
+                        49.446991
+                  ]
+            },
+            {
+                  "name": "Musee de la Ceramique",
+                  "text": "Un muzeu din Rouen care prezintă o colecție importantă de artă ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        1.093622,
+                        49.445513
+                  ]
+            },
+            {
+                  "name": "Musee national de l'Education",
+                  "text": "Un muzeu național dedicat istoriei educației în Franța.",
+                  "category": "museum",
+                  "coords": [
+                        1.101699,
+                        49.44137
+                  ]
+            },
+            {
+                  "name": "Maison natale Pierre Corneille",
+                  "text": "Casa natală a faimosului dramaturg Pierre Corneille din Rouen, devenită astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        1.086783,
+                        49.443084
+                  ]
+            },
+            {
+                  "name": "Theatre des Arts",
+                  "text": "O instituție culturală importantă din Rouen, dedicată spectacolelor de teatru și operă.",
+                  "category": "cultural",
+                  "coords": [
+                        1.089553,
+                        49.439617
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "O fostă chapelă din Rouen, transformată în prezent în teatru și spațiu de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        1.098892,
+                        49.445161
+                  ]
             }
       ],
       "en": [
@@ -3164,6 +3587,60 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.055205,
                         49.421222
+                  ]
+            },
+            {
+                  "name": "Hotel particulier",
+                  "text": "A historic private mansion located in Rouen.",
+                  "category": "castle",
+                  "coords": [
+                        1.090827,
+                        49.446991
+                  ]
+            },
+            {
+                  "name": "Musee de la Ceramique",
+                  "text": "A museum in Rouen showcasing an important collection of ceramic art.",
+                  "category": "museum",
+                  "coords": [
+                        1.093622,
+                        49.445513
+                  ]
+            },
+            {
+                  "name": "Musee national de l'Education",
+                  "text": "A national museum dedicated to the history of education in France.",
+                  "category": "museum",
+                  "coords": [
+                        1.101699,
+                        49.44137
+                  ]
+            },
+            {
+                  "name": "Maison natale Pierre Corneille",
+                  "text": "The birthplace of the famous playwright Pierre Corneille, now serving as a museum in Rouen.",
+                  "category": "museum",
+                  "coords": [
+                        1.086783,
+                        49.443084
+                  ]
+            },
+            {
+                  "name": "Theatre des Arts",
+                  "text": "An important performing arts venue in Rouen, hosting opera and theater performances.",
+                  "category": "cultural",
+                  "coords": [
+                        1.089553,
+                        49.439617
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "A former chapel in Rouen that has been converted into a theater and performance space.",
+                  "category": "cultural",
+                  "coords": [
+                        1.098892,
+                        49.445161
                   ]
             }
       ],
@@ -5854,7 +6331,124 @@ export const poiExtraFranceCities: POI[] = [
 }
   },
   {
-    id: "animal-habitat-camargue-extra",
+    id: "animal-habitat-camargue-extra", "sights": {
+      "de": [
+            {
+                  "name": "Château d'Avignon",
+                  "text": "Ein Herrenhaus aus dem späten 19. Jahrhundert in der Camargue, bekannt für seine Architektur und den umliegenden Park.",
+                  "category": "castle",
+                  "coords": [
+                        4.410227,
+                        43.558549
+                  ]
+            },
+            {
+                  "name": "Manade Cavallini - Mas de Pioch",
+                  "text": "Eine traditionelle Stierzuchtfarm in der Camargue, auf der Besucher die lokale Cowboy-Kultur erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        4.399504,
+                        43.528879
+                  ]
+            },
+            {
+                  "name": "Le Lavoir",
+                  "text": "Ein kultureller Veranstaltungsort in der Camargue, der künstlerischen Ausstellungen und Gemeinschaftsveranstaltungen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.408098,
+                        43.559006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château d'Avignon",
+                  "text": "19. század végi kastély a Camargue régióban, amely építészetéről és a körülötte lévő parkról nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        4.410227,
+                        43.558549
+                  ]
+            },
+            {
+                  "name": "Manade Cavallini - Mas de Pioch",
+                  "text": "Hagyományos bikatenyésztő tanya a Camargue-ban, ahol a látogatók megismerhetik a helyi cowboy-kultúrát.",
+                  "category": "landmark",
+                  "coords": [
+                        4.399504,
+                        43.528879
+                  ]
+            },
+            {
+                  "name": "Le Lavoir",
+                  "text": "Kulturális helyszín a Camargue régióban, amely művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.408098,
+                        43.559006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château d'Avignon",
+                  "text": "Un conac de la sfârșitul secolului al XIX-lea din regiunea Camargue, remarcabil pentru arhitectura sa și parcul înconjurător.",
+                  "category": "castle",
+                  "coords": [
+                        4.410227,
+                        43.558549
+                  ]
+            },
+            {
+                  "name": "Manade Cavallini - Mas de Pioch",
+                  "text": "O fermă tradițională de creștere a taurilor din Camargue, unde vizitatorii pot experimenta cultura locală a taurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        4.399504,
+                        43.528879
+                  ]
+            },
+            {
+                  "name": "Le Lavoir",
+                  "text": "Un spațiu cultural din regiunea Camargue dedicat expozițiilor artistice și evenimentelor comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        4.408098,
+                        43.559006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château d'Avignon",
+                  "text": "A late 19th-century manor house in the Camargue region, notable for its architecture and surrounding park.",
+                  "category": "castle",
+                  "coords": [
+                        4.410227,
+                        43.558549
+                  ]
+            },
+            {
+                  "name": "Manade Cavallini - Mas de Pioch",
+                  "text": "A traditional bull-breeding ranch in the Camargue where visitors can experience local cowboy culture.",
+                  "category": "landmark",
+                  "coords": [
+                        4.399504,
+                        43.528879
+                  ]
+            },
+            {
+                  "name": "Le Lavoir",
+                  "text": "A cultural venue in the Camargue region dedicated to artistic exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.408098,
+                        43.559006
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "FR-PAC",
     coords: [4.4286, 43.5539],
@@ -8090,6 +8684,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.04556,
                         47.307099
                   ]
+            },
+            {
+                  "name": "Theatre Dijon-Bourgogne",
+                  "text": "Ein nationales Dramazentrum in Dijon, das eine Vielzahl von Theateraufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035967,
+                        47.320421
+                  ]
+            },
+            {
+                  "name": "Musee Rude",
+                  "text": "Ein Museum in Dijon, das den Werken des berühmten Bildhauers François Rude gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.044215,
+                        47.321005
+                  ]
+            },
+            {
+                  "name": "Chateau de Montmusard",
+                  "text": "Ein Schloss aus dem 18. Jahrhundert in Dijon, das für seine klassizistische Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.059319,
+                        47.324796
+                  ]
             }
       ],
       "hu": [
@@ -8305,6 +8926,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04556,
                         47.307099
+                  ]
+            },
+            {
+                  "name": "Theatre Dijon-Bourgogne",
+                  "text": "Dijon nemzeti drámaközpontja, amely változatos színházi produkciókat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035967,
+                        47.320421
+                  ]
+            },
+            {
+                  "name": "Musee Rude",
+                  "text": "François Rude híres szobrász műveinek szentelt múzeum Dijonban.",
+                  "category": "museum",
+                  "coords": [
+                        5.044215,
+                        47.321005
+                  ]
+            },
+            {
+                  "name": "Chateau de Montmusard",
+                  "text": "18. századi kastély Dijonban, amely neoklasszicista építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.059319,
+                        47.324796
                   ]
             }
       ],
@@ -8522,6 +9170,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.04556,
                         47.307099
                   ]
+            },
+            {
+                  "name": "Theatre Dijon-Bourgogne",
+                  "text": "Un centru dramatic național din Dijon, care oferă o gamă largă de producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035967,
+                        47.320421
+                  ]
+            },
+            {
+                  "name": "Musee Rude",
+                  "text": "Un muzeu din Dijon dedicat operelor celebrului sculptor François Rude.",
+                  "category": "museum",
+                  "coords": [
+                        5.044215,
+                        47.321005
+                  ]
+            },
+            {
+                  "name": "Chateau de Montmusard",
+                  "text": "Un castel din secolul al XVIII-lea din Dijon, cunoscut pentru arhitectura sa neoclasică.",
+                  "category": "castle",
+                  "coords": [
+                        5.059319,
+                        47.324796
+                  ]
             }
       ],
       "en": [
@@ -8737,6 +9412,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04556,
                         47.307099
+                  ]
+            },
+            {
+                  "name": "Theatre Dijon-Bourgogne",
+                  "text": "A national drama center in Dijon, offering a wide range of theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        5.035967,
+                        47.320421
+                  ]
+            },
+            {
+                  "name": "Musee Rude",
+                  "text": "A museum in Dijon dedicated to the works of the famous sculptor François Rude.",
+                  "category": "museum",
+                  "coords": [
+                        5.044215,
+                        47.321005
+                  ]
+            },
+            {
+                  "name": "Chateau de Montmusard",
+                  "text": "An 18th-century castle in Dijon, known for its neoclassical architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.059319,
+                        47.324796
                   ]
             }
       ],
@@ -10704,7 +11406,304 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "historical-omaha-beach-extra",
+    id: "historical-omaha-beach-extra", "sights": {
+      "de": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Ein historisches Schloss in der Nähe von Omaha Beach in der Normandie.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Ein Museum, das der Landung der Alliierten am Omaha Beach im Jahr 1944 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Ein Museum, das die Geschichte der Operation Overlord und der Befreiung Europas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Ein Gedenkmuseum, das an die Ereignisse des D-Day am Omaha Beach erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Saint-Laurent-sur-Mer am Omaha Beach.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "Ein befestigtes Herrenhaus aus dem 16. Jahrhundert in der Nähe der Küste der Normandie.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Eine Schlossanlage in der Region Omaha Beach mit historischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "Ein Museum, das der Geschichte der berühmten ersten US-Infanteriedivision gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Történelmi kastély a normandiai Omaha Beach közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Az 1944-es Omaha Beach-i partraszállásnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Az Overlord-hadművelet és Európa felszabadításának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Emlékmúzeum, amely az Omaha Beach-i partraszállás eseményeire emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Történelmi udvarház Saint-Laurent-sur-Mer községben, az Omaha Beach-nél.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "16. századi erődített udvarház a normandiai tengerpart közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Kastélyegyüttes az Omaha Beach régióban, történelmi építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "A híres amerikai 1. gyalogoshadosztály történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Un castel istoric situat lângă plaja Omaha din Normandia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Un muzeu dedicat debarcării de pe plaja Omaha din 1944.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Un muzeu care prezintă istoria Operațiunii Overlord și eliberarea Europei.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Un muzeu memorial care comemorează evenimentele debarcării de pe plaja Omaha.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Un conac istoric în comuna Saint-Laurent-sur-Mer de lângă Omaha Beach.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "Un conac fortificat din secolul al XVI-lea situat lângă coasta Normandiei.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Un complex de castele în regiunea plajei Omaha, cu arhitectură istorică.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "Un muzeu dedicat istoriei faimoasei Divizii 1 Infanterie a SUA.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "A historic castle located near Omaha Beach in Normandy.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "D-Day Omaha Museum",
+                  "text": "A museum dedicated to the 1944 D-Day landings on Omaha Beach.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "A museum showcasing the history of Operation Overlord and the liberation of Europe.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "A memorial museum commemorating the events of D-Day at Omaha Beach.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "A historic manor house in the commune of Saint-Laurent-sur-Mer by Omaha Beach.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "A 16th-century fortified manor house located near the Normandy coast.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "A castle complex in the Omaha Beach region featuring historic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "A museum dedicated to the history of the famous US 1st Infantry Division.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FR-NOR",
     coords: [-0.8803, 49.3711],
@@ -10747,7 +11746,160 @@ export const poiExtraFranceCities: POI[] = [
     },
   },
   {
-    id: "animal-habitat-zoo-de-beauval-extra",
+    id: "animal-habitat-zoo-de-beauval-extra", "sights": {
+      "de": [
+            {
+                  "name": "Château de Saint-Aignan",
+                  "text": "Ein prächtiges Renaissanceschloss mit Blick auf die Stadt Saint-Aignan in der Nähe des Zoos.",
+                  "category": "castle",
+                  "coords": [
+                        1.374031,
+                        47.269619
+                  ]
+            },
+            {
+                  "name": "ZooParc de Beauval",
+                  "text": "Einer der bekanntesten Zoos Europas, berühmt für seine vielfältige Tiersammlung und Riesenpandas.",
+                  "category": "recreational",
+                  "coords": [
+                        1.34792,
+                        47.247023
+                  ]
+            },
+            {
+                  "name": "Les poissons du lac Tanganyika",
+                  "text": "Eine Aquarienausstellung, die die bunten Fischarten des ostafrikanischen Tanganjikasees zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        1.349349,
+                        47.248625
+                  ]
+            },
+            {
+                  "name": "12-Hyènes",
+                  "text": "Ein Bereich des Parks, in dem Besucher Hyänen in einer naturgetreuen Umgebung sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351412,
+                        47.248361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Saint-Aignan",
+                  "text": "Impozáns reneszánsz kastély, amely Saint-Aignan városára néz az állatkert közelében.",
+                  "category": "castle",
+                  "coords": [
+                        1.374031,
+                        47.269619
+                  ]
+            },
+            {
+                  "name": "ZooParc de Beauval",
+                  "text": "Európa egyik legismertebb állatkertje, amely változatos állatállományáról és óriáspandáiról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        1.34792,
+                        47.247023
+                  ]
+            },
+            {
+                  "name": "Les poissons du lac Tanganyika",
+                  "text": "Akváriumi kiállítás, amely a kelet-afrikai Tanganyika-tó színes halfajait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        1.349349,
+                        47.248625
+                  ]
+            },
+            {
+                  "name": "12-Hyènes",
+                  "text": "A park azon része, ahol a látogatók hiénákat láthatnak természetes élőhelyüket idéző környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351412,
+                        47.248361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Saint-Aignan",
+                  "text": "Un castel renascentist grandios ce domină orașul Saint-Aignan, situat lângă grădina zoologică.",
+                  "category": "castle",
+                  "coords": [
+                        1.374031,
+                        47.269619
+                  ]
+            },
+            {
+                  "name": "ZooParc de Beauval",
+                  "text": "Una dintre cele mai renumite grădini zoologice din Europa, faimoasă pentru colecția sa diversă de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        1.34792,
+                        47.247023
+                  ]
+            },
+            {
+                  "name": "Les poissons du lac Tanganyika",
+                  "text": "O expoziție de acvariu care prezintă speciile de pești colorați din Lacul Tanganyika din Africa de Est.",
+                  "category": "recreational",
+                  "coords": [
+                        1.349349,
+                        47.248625
+                  ]
+            },
+            {
+                  "name": "12-Hyènes",
+                  "text": "O zonă a parcului unde vizitatorii pot vedea hienele într-un mediu ce reflectă habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351412,
+                        47.248361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Saint-Aignan",
+                  "text": "A grand Renaissance castle overlooking the town of Saint-Aignan near the zoo.",
+                  "category": "castle",
+                  "coords": [
+                        1.374031,
+                        47.269619
+                  ]
+            },
+            {
+                  "name": "ZooParc de Beauval",
+                  "text": "One of the most renowned zoos in Europe, famous for its diverse animal collection and giant pandas.",
+                  "category": "recreational",
+                  "coords": [
+                        1.34792,
+                        47.247023
+                  ]
+            },
+            {
+                  "name": "Les poissons du lac Tanganyika",
+                  "text": "An aquarium exhibit showcasing the colorful fish species of East Africa's Lake Tanganyika.",
+                  "category": "recreational",
+                  "coords": [
+                        1.349349,
+                        47.248625
+                  ]
+            },
+            {
+                  "name": "12-Hyènes",
+                  "text": "An area of the park where visitors can see hyenas in an environment reflecting their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        1.351412,
+                        47.248361
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "FR-CVL",
     coords: [1.3533, 47.2464],
@@ -11277,6 +12429,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.400973,
                         43.531675
                   ]
+            },
+            {
+                  "name": "La Fontaine d'Argent",
+                  "text": "Ein beliebtes Café-Theater in Aix-en-Provence, das für seine komödiantischen Shows bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        5.453373,
+                        43.527724
+                  ]
+            },
+            {
+                  "name": "Terrain contenant les vestiges archeologiques du Jardin de Grassi (675 m2)",
+                  "text": "Eine Ausgrabungsstätte in Aix-en-Provence mit Überresten der antiken römischen Stadt Aquae Sextiae.",
+                  "category": "historical",
+                  "coords": [
+                        5.444035,
+                        43.533217
+                  ]
+            },
+            {
+                  "name": "Bastide Bel-Air",
+                  "text": "Ein historisches Landhaus aus dem 18. Jahrhundert in der Nähe von Aix-en-Provence.",
+                  "category": "castle",
+                  "coords": [
+                        5.458116,
+                        43.558218
+                  ]
             }
       ],
       "hu": [
@@ -11465,6 +12644,33 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.400973,
                         43.531675
+                  ]
+            },
+            {
+                  "name": "La Fontaine d'Argent",
+                  "text": "Népszerű kávéházi színház Aix-en-Provence-ban, amely vígjátékairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.453373,
+                        43.527724
+                  ]
+            },
+            {
+                  "name": "Terrain contenant les vestiges archeologiques du Jardin de Grassi (675 m2)",
+                  "text": "Régészeti lelőhely Aix-en-Provence-ban, amely az ókori római Aquae Sextiae város maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        5.444035,
+                        43.533217
+                  ]
+            },
+            {
+                  "name": "Bastide Bel-Air",
+                  "text": "Egy történelmi, 18. századi vidéki kúria Aix-en-Provence közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.458116,
+                        43.558218
                   ]
             }
       ],
@@ -11655,6 +12861,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.400973,
                         43.531675
                   ]
+            },
+            {
+                  "name": "La Fontaine d'Argent",
+                  "text": "Un teatru-cafenea popular din Aix-en-Provence, cunoscut pentru spectacolele sale de comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        5.453373,
+                        43.527724
+                  ]
+            },
+            {
+                  "name": "Terrain contenant les vestiges archeologiques du Jardin de Grassi (675 m2)",
+                  "text": "Un sit arheologic din Aix-en-Provence care conține vestigii ale vechiului oraș roman Aquae Sextiae.",
+                  "category": "historical",
+                  "coords": [
+                        5.444035,
+                        43.533217
+                  ]
+            },
+            {
+                  "name": "Bastide Bel-Air",
+                  "text": "O casă de țară istorică din secolul al XVIII-lea situată lângă Aix-en-Provence.",
+                  "category": "castle",
+                  "coords": [
+                        5.458116,
+                        43.558218
+                  ]
             }
       ],
       "en": [
@@ -11844,6 +13077,33 @@ export const poiExtraFranceCities: POI[] = [
                         5.400973,
                         43.531675
                   ]
+            },
+            {
+                  "name": "La Fontaine d'Argent",
+                  "text": "A popular café-theatre in Aix-en-Provence known for its comedy shows.",
+                  "category": "cultural",
+                  "coords": [
+                        5.453373,
+                        43.527724
+                  ]
+            },
+            {
+                  "name": "Terrain contenant les vestiges archeologiques du Jardin de Grassi (675 m2)",
+                  "text": "An archaeological site in Aix-en-Provence containing remains of the ancient Roman city of Aquae Sextiae.",
+                  "category": "historical",
+                  "coords": [
+                        5.444035,
+                        43.533217
+                  ]
+            },
+            {
+                  "name": "Bastide Bel-Air",
+                  "text": "A historic 18th-century country house located near Aix-en-Provence.",
+                  "category": "castle",
+                  "coords": [
+                        5.458116,
+                        43.558218
+                  ]
             }
       ],
       "fr": [
@@ -11923,7 +13183,196 @@ export const poiExtraFranceCities: POI[] = [
 }
   },
   {
-    id: "historical-lascaux-iv-extra",
+    id: "historical-lascaux-iv-extra", "sights": {
+      "de": [
+            {
+                  "name": "Höhle von Lascaux",
+                  "text": "Ein UNESCO-Weltkulturerbe, das für seine außergewöhnlich gut erhaltenen paläolithischen Höhlenmalereien bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Eine bedeutende archäologische Neandertaler-Stätte und ein Bärenpark in der Nähe der Höhle von Lascaux.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Eine historische Schlossanlage in der Region Périgord mit traditioneller Kalksteinarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Ein vollständiges und originalgetreues Faksimile der ursprünglichen Lascaux-Höhle in einem modernen Museum.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "Die erste Teilreplik der Lascaux-Höhle, die geschaffen wurde, um die Originalstätte vor Schäden zu schützen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte de Lascaux",
+                  "text": "UNESCO Világörökségi helyszín, amely kivételesen jól megőrzött őskőkori barlangrajzairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Jelentős neandervölgyi régészeti lelőhely és medvepark a Lascaux-barlang közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Történelmi kastélyegyüttes a Périgord régióban, hagyományos mészkőépítészettel.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Az eredeti Lascaux-barlang teljes és rendkívül pontos másolata egy modern múzeumban.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "A Lascaux-barlang első részleges másolata, amelyet az eredeti helyszín állagmegóvása érdekében hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte de Lascaux",
+                  "text": "Un sit din patrimoniul mondial UNESCO, faimos pentru picturile sale rupestre paleolitice excepțional de bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Un important sit arheologic neanderstalian și parc de urși situat lângă peștera Lascaux.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Un complex istoric de castel din regiunea Périgord, cu arhitectură tradițională din piatră de calcar.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "O replică completă și foarte precisă a peșterii originale Lascaux, găzduită într-un muzeu modern.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "Prima replică parțială a peșterii Lascaux, creată pentru a proteja situl original de degradare.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lascaux Cave",
+                  "text": "A UNESCO World Heritage site famous for its exceptionally preserved Paleolithic cave paintings.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "A major Neanderthal archaeological site and bear park located near the Lascaux cave.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "A historic castle complex in the Périgord region, featuring traditional limestone architecture.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "A complete and highly accurate facsimile of the original Lascaux cave, housed in a modern museum.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "The first partial replica of the Lascaux cave, created to preserve the original site from damage.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FR-NAQ",
     coords: [1.178, 45.05],

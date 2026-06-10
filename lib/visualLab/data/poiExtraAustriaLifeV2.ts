@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const austriaLifeV2: POI[] = [
 
   {
-    id: "austria-nationalpark-gesaeuse-life-v2",
+    id: "austria-nationalpark-gesaeuse-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Ein Informationszentrum, das Einblicke in die Artenvielfalt des Nationalparks Gesäuse bietet.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Der höchste Gipfel der Ennstaler Alpen, bekannt für seine anspruchsvollen Kletterrouten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Ein Berggipfel im Gesäuse mit Panoramablick auf das Ennstal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Ein markanter Kalkstein-Gipfel, der zum Bergwandern und Klettern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Stadelfeldschneid",
+                  "text": "Ein schroffer Bergrücken mit spektakulärer Aussicht im Nationalpark Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.658816,
+                        47.544526
+                  ]
+            },
+            {
+                  "name": "Jahrlingsmauer",
+                  "text": "Eine steile Felswand und ein Gipfel im Gesäuse, der von Kletterern geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        14.693364,
+                        47.557189
+                  ]
+            },
+            {
+                  "name": "Großer Ödstein",
+                  "text": "Ein beeindruckender Berggipfel, bekannt für seine dramatischen Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.612601,
+                        47.55401
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Ein Berggipfel mit malerischer Aussicht auf die umliegende Gesäuse-Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Információs központ, amely betekintést nyújt a Gesäuse Nemzeti Park élővilágába.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Az Ennstaler-Alpok legmagasabb csúcsa, amely kihívást jelentő mászóútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Hegycsúcs a Gesäuse-hegységben, ahonnan panorámás kilátás nyílik az Enns-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Feltűnő mészkőcsúcs, amely népszerű az alpesi túrázás és a sziklamászás körében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Stadelfeldschneid",
+                  "text": "Egyenetlen hegygerinc, amely látványos kilátást kínál a Gesäuse Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.658816,
+                        47.544526
+                  ]
+            },
+            {
+                  "name": "Jahrlingsmauer",
+                  "text": "Meredek sziklafal és csúcs a Gesäuse-hegységben, amelyet a mászók kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.693364,
+                        47.557189
+                  ]
+            },
+            {
+                  "name": "Großer Ödstein",
+                  "text": "Impozáns hegycsúcs, amely drámai sziklaalakzatairól és alpesi terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.612601,
+                        47.55401
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Hegycsúcs, amely festői kilátást nyújt a környező Gesäuse-tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Un centru de informare care oferă detalii despre biodiversitatea Parcului Național Gesäuse.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Cel mai înalt vârf din Alpii Ennstaler, cunoscut pentru traseele sale de cățărare dificile.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Un vârf muntos din masivul Gesäuse care oferă vederi panoramice asupra văii Enns.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Un vârf de calcar frapant, popular pentru drumeții alpine și alpinism.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Stadelfeldschneid",
+                  "text": "O creastă montană accidentată care oferă vederi spectaculoase în Parcul Național Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.658816,
+                        47.544526
+                  ]
+            },
+            {
+                  "name": "Jahrlingsmauer",
+                  "text": "Un perete stâncos abrupt și vârf în munții Gesäuse, preferat de alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        14.693364,
+                        47.557189
+                  ]
+            },
+            {
+                  "name": "Großer Ödstein",
+                  "text": "Un vârf muntos impresionant, cunoscut pentru formațiunile sale stâncoase dramatice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.612601,
+                        47.55401
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Un vârf muntos care oferă vederi pitorești asupra peisajului înconjurător din Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "An information center providing insights into the biodiversity of the Gesäuse National Park.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "The highest summit of the Ennstaler Alps, known for its challenging climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "A mountain peak in the Gesäuse range offering panoramic views of the Enns valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "A striking limestone peak popular for alpine hiking and rock climbing.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Stadelfeldschneid",
+                  "text": "A rugged mountain ridge offering spectacular views within the Gesäuse National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.658816,
+                        47.544526
+                  ]
+            },
+            {
+                  "name": "Jahrlingsmauer",
+                  "text": "A steep rock face and peak in the Gesäuse mountains favored by climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.693364,
+                        47.557189
+                  ]
+            },
+            {
+                  "name": "Großer Ödstein",
+                  "text": "An impressive mountain peak known for its dramatic rock formations and alpine terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        14.612601,
+                        47.55401
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "A mountain peak providing scenic views over the surrounding Gesäuse landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Nationalpark Gesäuse", hu: "Gesäuse Nemzeti Park", ro: "Parcul Național Gesäuse", en: "Gesäuse National Park" },
@@ -228,7 +525,268 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-zoologischer-garten-salzburg-life-v2.webp",
   },
   {
-    id: "austria-nationalpark-hohe-tauern-neukirchen-life-v2",
+    id: "austria-nationalpark-hohe-tauern-neukirchen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Hieburg",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg bei Neukirchen im Pinzgau.",
+                  "category": "castle",
+                  "coords": [
+                        12.244481,
+                        47.246964
+                  ]
+            },
+            {
+                  "name": "Burgruine Friedburg",
+                  "text": "Historische Burgruine in Neukirchen am Großvenediger im Land Salzburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.239103,
+                        47.235287
+                  ]
+            },
+            {
+                  "name": "Badepark Neukirchen",
+                  "text": "Ein Wasserpark und eine Schwimmeinrichtung in Neukirchen am Großvenediger.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285056,
+                        47.252452
+                  ]
+            },
+            {
+                  "name": "Cinetheatro",
+                  "text": "Ein lokales Theater und Kino in Neukirchen am Großvenediger.",
+                  "category": "cultural",
+                  "coords": [
+                        12.282079,
+                        47.253765
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Hochfeld",
+                  "text": "Ein Schaubergwerk im Untersulzbachtal mit Führungen durch historische Bergbaustollen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273954,
+                        47.221959
+                  ]
+            },
+            {
+                  "name": "Popberg",
+                  "text": "Ein Berggipfel in den österreichischen Alpen nahe der Region Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.294542,
+                        47.221149
+                  ]
+            },
+            {
+                  "name": "Weyerturm",
+                  "text": "Die Ruine der Burg Weyer mit ihrem markanten Turm in Bramberg.",
+                  "category": "historical",
+                  "coords": [
+                        12.317959,
+                        47.260789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Hieburg",
+                  "text": "Egy középkori hegyi vár romjai Neukirchen közelében, Pinzgau régióban.",
+                  "category": "castle",
+                  "coords": [
+                        12.244481,
+                        47.246964
+                  ]
+            },
+            {
+                  "name": "Burgruine Friedburg",
+                  "text": "Történelmi várrom Neukirchen am Großvenedigerben, Salzburg tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        12.239103,
+                        47.235287
+                  ]
+            },
+            {
+                  "name": "Badepark Neukirchen",
+                  "text": "Vízipark és úszólétesítmény Neukirchen am Großvenedigerben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285056,
+                        47.252452
+                  ]
+            },
+            {
+                  "name": "Cinetheatro",
+                  "text": "Helyi színház és mozi Neukirchen am Großvenedigerben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.282079,
+                        47.253765
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Hochfeld",
+                  "text": "Bemutató bánya az Untersulzbach-völgyben, ahol vezetett túrák indulnak a történelmi tárnákba.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273954,
+                        47.221959
+                  ]
+            },
+            {
+                  "name": "Popberg",
+                  "text": "Hegycsúcs az osztrák Alpokban, a Magas-Tauern régió közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.294542,
+                        47.221149
+                  ]
+            },
+            {
+                  "name": "Weyerturm",
+                  "text": "Weyer várának romjai a jellegzetes toronnyal Brambergben.",
+                  "category": "historical",
+                  "coords": [
+                        12.317959,
+                        47.260789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Hieburg",
+                  "text": "Ruinele unui castel medieval situat pe deal lângă Neukirchen în regiunea Pinzgau.",
+                  "category": "castle",
+                  "coords": [
+                        12.244481,
+                        47.246964
+                  ]
+            },
+            {
+                  "name": "Burgruine Friedburg",
+                  "text": "Ruinele unui castel istoric situate în Neukirchen am Großvenediger în regiunea Salzburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.239103,
+                        47.235287
+                  ]
+            },
+            {
+                  "name": "Badepark Neukirchen",
+                  "text": "Un parc acvatic și o facilitate de înot situată în Neukirchen am Großvenediger.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285056,
+                        47.252452
+                  ]
+            },
+            {
+                  "name": "Cinetheatro",
+                  "text": "Un teatru și cinematograf local în Neukirchen am Großvenediger.",
+                  "category": "cultural",
+                  "coords": [
+                        12.282079,
+                        47.253765
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Hochfeld",
+                  "text": "O mină vizitabilă în valea Untersulzbach, care oferă tururi ghidate în tunelurile miniere istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273954,
+                        47.221959
+                  ]
+            },
+            {
+                  "name": "Popberg",
+                  "text": "Un vârf muntos situat în Alpii Austrieci, lângă regiunea Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.294542,
+                        47.221149
+                  ]
+            },
+            {
+                  "name": "Weyerturm",
+                  "text": "Ruinele castelului Weyer, inclusiv turnul său caracteristic, situate în Bramberg.",
+                  "category": "historical",
+                  "coords": [
+                        12.317959,
+                        47.260789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Hieburg",
+                  "text": "The ruins of a medieval hilltop castle located near Neukirchen in the Pinzgau region.",
+                  "category": "castle",
+                  "coords": [
+                        12.244481,
+                        47.246964
+                  ]
+            },
+            {
+                  "name": "Burgruine Friedburg",
+                  "text": "Historic castle ruins situated in Neukirchen am Großvenediger within the Salzburg region.",
+                  "category": "castle",
+                  "coords": [
+                        12.239103,
+                        47.235287
+                  ]
+            },
+            {
+                  "name": "Badepark Neukirchen",
+                  "text": "A water park and swimming facility located in Neukirchen am Großvenediger.",
+                  "category": "recreational",
+                  "coords": [
+                        12.285056,
+                        47.252452
+                  ]
+            },
+            {
+                  "name": "Cinetheatro",
+                  "text": "A local theatre and cinema venue in Neukirchen am Großvenediger.",
+                  "category": "cultural",
+                  "coords": [
+                        12.282079,
+                        47.253765
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Hochfeld",
+                  "text": "A show mine in the Untersulzbach valley offering guided tours into historical mining tunnels.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273954,
+                        47.221959
+                  ]
+            },
+            {
+                  "name": "Popberg",
+                  "text": "A mountain peak located in the Austrian Alps near the Hohe Tauern region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.294542,
+                        47.221149
+                  ]
+            },
+            {
+                  "name": "Weyerturm",
+                  "text": "The ruins of Weyer Castle, including its characteristic tower, located in Bramberg.",
+                  "category": "historical",
+                  "coords": [
+                        12.317959,
+                        47.260789
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Nationalpark Hohe Tauern Zentrum", hu: "Magas-Tauern Nemzeti Park Központ", ro: "Centrul Parcului Național Hohe Tauern", en: "Hohe Tauern National Park Centre" },
@@ -273,7 +831,232 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-nationalpark-hohe-tauern-neukirchen-life-v2.webp",
   },
   {
-    id: "austria-naturpark-sölktäler-life-v2",
+    id: "austria-naturpark-sölktäler-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ahornkogl",
+                  "text": "Ein Berggipfel im Naturpark Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115007,
+                        47.345548
+                  ]
+            },
+            {
+                  "name": "Gaßeneck",
+                  "text": "Ein markanter Gipfel in der Region des Naturparks Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.048165,
+                        47.363143
+                  ]
+            },
+            {
+                  "name": "Großes Bärneck",
+                  "text": "Ein Berggipfel in den österreichischen Alpen im Naturpark Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.080131,
+                        47.353094
+                  ]
+            },
+            {
+                  "name": "Riesnerkrispen",
+                  "text": "Ein Gipfel im Sölktäler Naturpark in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.091782,
+                        47.364624
+                  ]
+            },
+            {
+                  "name": "Steinkarspitze",
+                  "text": "Ein Berggipfel im Gebiet des Naturparks Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.072005,
+                        47.394051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Leonhard und Patrizius",
+                  "text": "Eine dem hl. Leonhard und Patrizius geweihte Pfarrkirche im Naturpark Sölktäler.",
+                  "category": "religious",
+                  "coords": [
+                        14.115671,
+                        47.383978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ahornkogl",
+                  "text": "Hegycsúcs a Sölktäler Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115007,
+                        47.345548
+                  ]
+            },
+            {
+                  "name": "Gaßeneck",
+                  "text": "Jellegzetes hegycsúcs a Sölktäler Natúrpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.048165,
+                        47.363143
+                  ]
+            },
+            {
+                  "name": "Großes Bärneck",
+                  "text": "Hegycsúcs az osztrák Alpokban, a Sölktäler Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.080131,
+                        47.353094
+                  ]
+            },
+            {
+                  "name": "Riesnerkrispen",
+                  "text": "Hegycsúcs a stájerországi Sölktäler Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.091782,
+                        47.364624
+                  ]
+            },
+            {
+                  "name": "Steinkarspitze",
+                  "text": "Hegycsúcs a Sölktäler Natúrpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.072005,
+                        47.394051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Leonhard und Patrizius",
+                  "text": "Szent Lénárdnak és Patríciusnak szentelt plébániatemplom a Sölktäler Natúrparkban.",
+                  "category": "religious",
+                  "coords": [
+                        14.115671,
+                        47.383978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ahornkogl",
+                  "text": "Un vârf montan în Parcul Natural Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115007,
+                        47.345548
+                  ]
+            },
+            {
+                  "name": "Gaßeneck",
+                  "text": "Un vârf montan în regiunea Parcului Natural Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.048165,
+                        47.363143
+                  ]
+            },
+            {
+                  "name": "Großes Bärneck",
+                  "text": "Un vârf montan în Alpii austrieci, în Parcul Natural Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.080131,
+                        47.353094
+                  ]
+            },
+            {
+                  "name": "Riesnerkrispen",
+                  "text": "Un vârf în Parcul Natural Sölktäler din Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.091782,
+                        47.364624
+                  ]
+            },
+            {
+                  "name": "Steinkarspitze",
+                  "text": "Un vârf montan în zona Parcului Natural Sölktäler.",
+                  "category": "landmark",
+                  "coords": [
+                        14.072005,
+                        47.394051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Leonhard und Patrizius",
+                  "text": "Biserică parohială dedicată Sfântului Leonhard și Patrizius în Parcul Natural Sölktäler.",
+                  "category": "religious",
+                  "coords": [
+                        14.115671,
+                        47.383978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahornkogl",
+                  "text": "A mountain peak in the Sölktäler Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115007,
+                        47.345548
+                  ]
+            },
+            {
+                  "name": "Gaßeneck",
+                  "text": "A mountain peak in the Sölktäler Nature Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.048165,
+                        47.363143
+                  ]
+            },
+            {
+                  "name": "Großes Bärneck",
+                  "text": "A mountain peak in the Austrian Alps within the Sölktäler Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.080131,
+                        47.353094
+                  ]
+            },
+            {
+                  "name": "Riesnerkrispen",
+                  "text": "A peak in the Sölktäler Nature Park in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.091782,
+                        47.364624
+                  ]
+            },
+            {
+                  "name": "Steinkarspitze",
+                  "text": "A mountain peak in the Sölktäler Nature Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.072005,
+                        47.394051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Leonhard und Patrizius",
+                  "text": "A parish church dedicated to St. Leonhard and Patrizius in the Sölktäler Nature Park.",
+                  "category": "religious",
+                  "coords": [
+                        14.115671,
+                        47.383978
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Sölktäler", hu: "Sölktäler Natúrpark", ro: "Parcul Natural Sölktäler", en: "Sölktäler Nature Park" },
@@ -363,7 +1146,304 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-botanischer-garten-wien-life-v2.webp",
   },
   {
-    id: "austria-naturpark-tiroler-lech-life-v2",
+    id: "austria-naturpark-tiroler-lech-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Freibad Weißenbach am Lech",
+                  "text": "Ein Freibad zur Erholung im Naturpark Tiroler Lech.",
+                  "category": "recreational",
+                  "coords": [
+                        10.635859,
+                        47.437487
+                  ]
+            },
+            {
+                  "name": "Flugzeugmuseum Hangar SW",
+                  "text": "Ein Museum im Naturpark Tiroler Lech, das der Geschichte der Luftfahrt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.685896,
+                        47.468055
+                  ]
+            },
+            {
+                  "name": "Hahnenkamm",
+                  "text": "Ein markanter Berggipfel in den Tannheimer Bergen im Naturpark Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.641989,
+                        47.478528
+                  ]
+            },
+            {
+                  "name": "Schneid",
+                  "text": "Ein aussichtsreicher Gipfel in den Tannheimer Bergen im Naturpark Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.64496,
+                        47.493367
+                  ]
+            },
+            {
+                  "name": "Gaichtspitze",
+                  "text": "Ein markanter Berggipfel mit Panoramablick über den Naturpark Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.639537,
+                        47.466021
+                  ]
+            },
+            {
+                  "name": "Hornbergle",
+                  "text": "Ein Berggipfel im Naturpark Tiroler Lech, der bei Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.653023,
+                        47.472288
+                  ]
+            },
+            {
+                  "name": "Gundenspitze",
+                  "text": "Ein Berggipfel in der alpinen Landschaft des Naturparks Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.652143,
+                        47.463636
+                  ]
+            },
+            {
+                  "name": "Die Ditzl",
+                  "text": "Ein Berggipfel im Schutzgebiet des Naturparks Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.644654,
+                        47.487721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freibad Weißenbach am Lech",
+                  "text": "Szabadtéri strandfürdő, amely kikapcsolódást nyújt a Tiroler Lech Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.635859,
+                        47.437487
+                  ]
+            },
+            {
+                  "name": "Flugzeugmuseum Hangar SW",
+                  "text": "A repülés történetének szentelt múzeum a Tiroler Lech Natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        10.685896,
+                        47.468055
+                  ]
+            },
+            {
+                  "name": "Hahnenkamm",
+                  "text": "Jellegzetes hegycsúcs a Tannheimer-hegységben, a Tiroler Lech Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.641989,
+                        47.478528
+                  ]
+            },
+            {
+                  "name": "Schneid",
+                  "text": "Látványos kilátást nyújtó hegycsúcs a Tannheimer-hegységben, a Tiroler Lech Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.64496,
+                        47.493367
+                  ]
+            },
+            {
+                  "name": "Gaichtspitze",
+                  "text": "Jellegzetes hegycsúcs panorámás kilátással a Tiroler Lech Natúrparkra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.639537,
+                        47.466021
+                  ]
+            },
+            {
+                  "name": "Hornbergle",
+                  "text": "A túrázók körében népszerű hegycsúcs a Tiroler Lech Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.653023,
+                        47.472288
+                  ]
+            },
+            {
+                  "name": "Gundenspitze",
+                  "text": "Hegycsúcs a Tiroler Lech Natúrpark alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        10.652143,
+                        47.463636
+                  ]
+            },
+            {
+                  "name": "Die Ditzl",
+                  "text": "Hegycsúcs a Tiroler Lech Natúrpark védett területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.644654,
+                        47.487721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freibad Weißenbach am Lech",
+                  "text": "Un ștrand în aer liber care oferă recreere în Parcul Natural Tiroler Lech.",
+                  "category": "recreational",
+                  "coords": [
+                        10.635859,
+                        47.437487
+                  ]
+            },
+            {
+                  "name": "Flugzeugmuseum Hangar SW",
+                  "text": "Un muzeu situat în Parcul Natural Tiroler Lech, dedicat istoriei aviației.",
+                  "category": "museum",
+                  "coords": [
+                        10.685896,
+                        47.468055
+                  ]
+            },
+            {
+                  "name": "Hahnenkamm",
+                  "text": "Un vârf montan proeminent în munții Tannheim din Parcul Natural Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.641989,
+                        47.478528
+                  ]
+            },
+            {
+                  "name": "Schneid",
+                  "text": "Un vârf pitoresc în munții Tannheim din Parcul Natural Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.64496,
+                        47.493367
+                  ]
+            },
+            {
+                  "name": "Gaichtspitze",
+                  "text": "Un vârf montan remarcabil cu vedere panoramică asupra Parcului Natural Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.639537,
+                        47.466021
+                  ]
+            },
+            {
+                  "name": "Hornbergle",
+                  "text": "Un vârf montan din Parcul Natural Tiroler Lech, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        10.653023,
+                        47.472288
+                  ]
+            },
+            {
+                  "name": "Gundenspitze",
+                  "text": "Un vârf montan în peisajul alpin al Parcului Natural Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.652143,
+                        47.463636
+                  ]
+            },
+            {
+                  "name": "Die Ditzl",
+                  "text": "Un vârf montan situat în zona protejată a Parcului Natural Tiroler Lech.",
+                  "category": "landmark",
+                  "coords": [
+                        10.644654,
+                        47.487721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freibad Weißenbach am Lech",
+                  "text": "An outdoor swimming pool providing recreation in the Tiroler Lech Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.635859,
+                        47.437487
+                  ]
+            },
+            {
+                  "name": "Flugzeugmuseum Hangar SW",
+                  "text": "A museum in the Tiroler Lech Nature Park dedicated to the history of aviation.",
+                  "category": "museum",
+                  "coords": [
+                        10.685896,
+                        47.468055
+                  ]
+            },
+            {
+                  "name": "Hahnenkamm",
+                  "text": "A prominent mountain peak in the Tannheim Mountains of the Tiroler Lech Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.641989,
+                        47.478528
+                  ]
+            },
+            {
+                  "name": "Schneid",
+                  "text": "A scenic peak in the Tannheim Mountains within the Tiroler Lech Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.64496,
+                        47.493367
+                  ]
+            },
+            {
+                  "name": "Gaichtspitze",
+                  "text": "A notable mountain summit with panoramic views over the Tiroler Lech Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.639537,
+                        47.466021
+                  ]
+            },
+            {
+                  "name": "Hornbergle",
+                  "text": "A mountain peak in the Tiroler Lech Nature Park, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.653023,
+                        47.472288
+                  ]
+            },
+            {
+                  "name": "Gundenspitze",
+                  "text": "A mountain peak in the alpine landscape of the Tiroler Lech Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.652143,
+                        47.463636
+                  ]
+            },
+            {
+                  "name": "Die Ditzl",
+                  "text": "A mountain peak situated within the protected area of the Tiroler Lech Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.644654,
+                        47.487721
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Tiroler Lech", hu: "Tiroli Lech Natúrpark", ro: "Parcul Natural Tiroler Lech", en: "Tiroler Lech Nature Park" },
@@ -498,7 +1578,268 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-botanischer-garten-klagenfurt-life-v2.webp",
   },
   {
-    id: "austria-naturpark-oetztal-life-v2",
+    id: "austria-naturpark-oetztal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "007 Elements",
+                  "text": "Eine filmische James-Bond-Installation in der spektakulären Bergwelt des Ötztals.",
+                  "category": "museum",
+                  "coords": [
+                        10.966924,
+                        46.942001
+                  ]
+            },
+            {
+                  "name": "Mineralienmuseum Silbertal",
+                  "text": "Dieses Museum im Ötztal präsentiert eine vielfältige Sammlung regionaler Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        10.995555,
+                        46.933542
+                  ]
+            },
+            {
+                  "name": "Freizeit Arena Sölden",
+                  "text": "Ein vielseitiger Wasserpark und Freizeitzentrum im Herzen des Ötztals.",
+                  "category": "recreational",
+                  "coords": [
+                        11.011177,
+                        46.969294
+                  ]
+            },
+            {
+                  "name": "Rotkogel",
+                  "text": "Ein markanter Berggipfel im Ötztal mit Panoramablick auf die umliegenden Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.949093,
+                        46.967327
+                  ]
+            },
+            {
+                  "name": "Grieskogel",
+                  "text": "Ein alpiner Gipfel im Ötztal, der für seine beeindruckende Gebirgslandschaft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.971114,
+                        46.990757
+                  ]
+            },
+            {
+                  "name": "Äußere Schwarze Schneide",
+                  "text": "Ein hoher Berggipfel in den Ötztaler Alpen, der Teil der Gletscherwelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.95244,
+                        46.937732
+                  ]
+            },
+            {
+                  "name": "Hoher Nachtberg",
+                  "text": "Ein Berggipfel im Ötztal, der Wanderern eine weite Aussicht auf die Täler bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.016305,
+                        46.939311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "007 Elements",
+                  "text": "Egy James Bond-témájú filmes installáció az Ötz-völgyi Natúrpark hegyei között.",
+                  "category": "museum",
+                  "coords": [
+                        10.966924,
+                        46.942001
+                  ]
+            },
+            {
+                  "name": "Mineralienmuseum Silbertal",
+                  "text": "Ez a múzeum az Ötz-völgyi Natúrpark környékének változatos ásványait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.995555,
+                        46.933542
+                  ]
+            },
+            {
+                  "name": "Freizeit Arena Sölden",
+                  "text": "Sokoldalú vízipark és szabadidőközpont az Ötz-völgyi Natúrpark területén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.011177,
+                        46.969294
+                  ]
+            },
+            {
+                  "name": "Rotkogel",
+                  "text": "Jellegzetes hegycsúcs az Ötz-völgyi Natúrparkban, panorámás kilátással az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.949093,
+                        46.967327
+                  ]
+            },
+            {
+                  "name": "Grieskogel",
+                  "text": "Alpesi hegycsúcs az Ötz-völgyi Natúrparkban, amely lenyűgöző hegyi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.971114,
+                        46.990757
+                  ]
+            },
+            {
+                  "name": "Äußere Schwarze Schneide",
+                  "text": "Magas hegycsúcs az Ötz-völgyi-Alpokban, amely a gleccservilág része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.95244,
+                        46.937732
+                  ]
+            },
+            {
+                  "name": "Hoher Nachtberg",
+                  "text": "Hegycsúcs az Ötz-völgyi Natúrparkban, amely tágas kilátást nyújt a völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.016305,
+                        46.939311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "007 Elements",
+                  "text": "O instalație cinematografică dedicată lui James Bond, situată în munții din Parcul Natural Ötztal.",
+                  "category": "museum",
+                  "coords": [
+                        10.966924,
+                        46.942001
+                  ]
+            },
+            {
+                  "name": "Mineralienmuseum Silbertal",
+                  "text": "Acest muzeu din Parcul Natural Ötztal prezintă o colecție diversă de minerale regionale.",
+                  "category": "museum",
+                  "coords": [
+                        10.995555,
+                        46.933542
+                  ]
+            },
+            {
+                  "name": "Freizeit Arena Sölden",
+                  "text": "Un parc acvatic și centru de agrement versatil situat în Parcul Natural Ötztal.",
+                  "category": "recreational",
+                  "coords": [
+                        11.011177,
+                        46.969294
+                  ]
+            },
+            {
+                  "name": "Rotkogel",
+                  "text": "Un vârf montan proeminent din Parcul Natural Ötztal, oferind vederi panoramice asupra Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.949093,
+                        46.967327
+                  ]
+            },
+            {
+                  "name": "Grieskogel",
+                  "text": "Un vârf alpin din Parcul Natural Ötztal, cunoscut pentru peisajele sale montane impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        10.971114,
+                        46.990757
+                  ]
+            },
+            {
+                  "name": "Äußere Schwarze Schneide",
+                  "text": "Un vârf montan înalt din Alpii Ötztal, făcând parte din zona glaciară.",
+                  "category": "landmark",
+                  "coords": [
+                        10.95244,
+                        46.937732
+                  ]
+            },
+            {
+                  "name": "Hoher Nachtberg",
+                  "text": "Un vârf muntos din Parcul Natural Ötztal, care oferă turiștilor o vedere panoramică asupra văilor.",
+                  "category": "landmark",
+                  "coords": [
+                        11.016305,
+                        46.939311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "007 Elements",
+                  "text": "A cinematic James Bond installation located in the mountains of the Ötztal Nature Park.",
+                  "category": "museum",
+                  "coords": [
+                        10.966924,
+                        46.942001
+                  ]
+            },
+            {
+                  "name": "Mineralienmuseum Silbertal",
+                  "text": "This museum in the Ötztal Nature Park displays a diverse collection of regional minerals.",
+                  "category": "museum",
+                  "coords": [
+                        10.995555,
+                        46.933542
+                  ]
+            },
+            {
+                  "name": "Freizeit Arena Sölden",
+                  "text": "A versatile water park and leisure center located in the Ötztal Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        11.011177,
+                        46.969294
+                  ]
+            },
+            {
+                  "name": "Rotkogel",
+                  "text": "A prominent mountain peak in the Ötztal Nature Park offering panoramic views of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.949093,
+                        46.967327
+                  ]
+            },
+            {
+                  "name": "Grieskogel",
+                  "text": "An alpine peak in the Ötztal Nature Park known for its impressive mountain scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        10.971114,
+                        46.990757
+                  ]
+            },
+            {
+                  "name": "Äußere Schwarze Schneide",
+                  "text": "A high mountain peak in the Ötztal Alps, forming part of the glacial landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.95244,
+                        46.937732
+                  ]
+            },
+            {
+                  "name": "Hoher Nachtberg",
+                  "text": "A mountain peak in the Ötztal Nature Park offering hikers expansive views of the valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        11.016305,
+                        46.939311
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Ötztal", hu: "Ötztal Natúrpark", ro: "Parcul Natural Ötztal", en: "Ötztal Nature Park" },
@@ -543,7 +1884,268 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-naturpark-oetztal-life-v2.webp",
   },
   {
-    id: "austria-wildpark-ernstbrunn-life-v2",
+    id: "austria-wildpark-ernstbrunn-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Eine archäologische Fundstätte und ein Aussichtspunkt im Weinviertel.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Ein imposantes Schloss im Weinviertel, Sitz der Familie Reuss.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Ein Wasserschloss in Niederösterreich mit einer langen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Ein historisches Schloss in der Nähe des Wildparks Ernstbrunn.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "Ein Ausstellungsraum für regionale Fossilienfunde.",
+                  "category": "museum",
+                  "coords": [
+                        16.37656,
+                        48.526846
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Ein Tierpark, der für seine Wölfe und heimischen Wildtiere bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Ernstbrunn",
+                  "text": "Museum zur lokalen Geschichte und Kultur von Ernstbrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.360607,
+                        48.527436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Régészeti lelőhely és kilátópont a Weinviertel régióban.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Impozáns kastély a Weinviertel területén, a Reuss család székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Hosszú múltra visszatekintő vízikastély Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Történelmi kastély az ernstbrunni vadaspark közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "A környéken talált fosszíliákat bemutató kiállítóterem.",
+                  "category": "museum",
+                  "coords": [
+                        16.37656,
+                        48.526846
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Farkasairól és hazai vadállatairól ismert vadaspark.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Ernstbrunn",
+                  "text": "Ernstbrunn helyi történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.360607,
+                        48.527436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Un sit arheologic și punct de observație în regiunea Weinviertel.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Un castel impunător în Weinviertel, reședința familiei Reuss.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Un castel cu apă din Austria Inferioară, cu o istorie îndelungată.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Un castel istoric situat lângă parcul de animale sălbatice Ernstbrunn.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "O sală de expoziție pentru descoperiri fosile regionale.",
+                  "category": "museum",
+                  "coords": [
+                        16.37656,
+                        48.526846
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Un parc de animale sălbatice cunoscut pentru lupii și fauna locală.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Ernstbrunn",
+                  "text": "Muzeu dedicat istoriei și culturii locale din Ernstbrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.360607,
+                        48.527436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "An archaeological site and viewpoint in the Weinviertel region.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "An impressive castle in the Weinviertel, seat of the Reuss family.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "A moated castle in Lower Austria with a long history.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "A historical castle located near the Ernstbrunn Wildlife Park.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "An exhibition room for regional fossil finds.",
+                  "category": "museum",
+                  "coords": [
+                        16.37656,
+                        48.526846
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "A wildlife park known for its wolves and local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Ernstbrunn",
+                  "text": "Museum dedicated to the local history and culture of Ernstbrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.360607,
+                        48.527436
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AT",
     name: { de: "Wildpark Ernstbrunn", hu: "Ernstbrunn Vadaspark", ro: "Parcul de animale sălbatice Ernstbrunn", en: "Ernstbrunn Wildlife Park" },
@@ -678,7 +2280,304 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-alpenzoo-innsbruck-life-v2.webp",
   },
   {
-    id: "austria-naturpark-karwendel-life-v2",
+    id: "austria-naturpark-karwendel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Karwendel",
+                  "text": "Der größte Naturpark Österreichs, der die alpine Landschaft des Karwendelgebirges bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        11.484432,
+                        47.40599
+                  ]
+            },
+            {
+                  "name": "Kuhkopf",
+                  "text": "Ein markanter Gipfel im Karwendelgebirge, der bei erfahrenen Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456123,
+                        47.436169
+                  ]
+            },
+            {
+                  "name": "Gamsjoch Westgipfel",
+                  "text": "Der Westgipfel des Gamsjochs in den Karwendelalpen, bekannt für sein schroffes Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        11.545464,
+                        47.417836
+                  ]
+            },
+            {
+                  "name": "Mahnkopf",
+                  "text": "Ein Berggipfel im Karwendelgebirge mit Ausblick über das Rißbachtal.",
+                  "category": "landmark",
+                  "coords": [
+                        11.507891,
+                        47.412354
+                  ]
+            },
+            {
+                  "name": "Südliche Sonnenspitze",
+                  "text": "Ein südlicher Gipfel im Karwendelgebirge, der über alpine Wanderwege erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.477633,
+                        47.386406
+                  ]
+            },
+            {
+                  "name": "Nördliche Sonnenspitze",
+                  "text": "Ein nördlicher Gipfel im Karwendelgebirge, Teil der beeindruckenden Kalksteinlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        11.48197,
+                        47.390603
+                  ]
+            },
+            {
+                  "name": "Rauhkarlspitze",
+                  "text": "Ein hoher Gipfel im Karwendelgebirge, der sich am Hauptkamm des Gebirges befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456001,
+                        47.402004
+                  ]
+            },
+            {
+                  "name": "Moserkarspitze",
+                  "text": "Ein anspruchsvoller Gipfel in den Karwendelalpen, der in der Hinterautal-Vomper-Kette liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.469625,
+                        47.397399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturpark Karwendel",
+                  "text": "Ausztria legnagyobb natúrparkja, amely a Karwendel-hegység alpesi táját őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        11.484432,
+                        47.40599
+                  ]
+            },
+            {
+                  "name": "Kuhkopf",
+                  "text": "A Karwendel-hegység egyik jellegzetes csúcsa, amely népszerű a tapasztalt túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456123,
+                        47.436169
+                  ]
+            },
+            {
+                  "name": "Gamsjoch Westgipfel",
+                  "text": "A Karwendel-Alpokban található Gamsjoch nyugati csúcsa, amely zord terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.545464,
+                        47.417836
+                  ]
+            },
+            {
+                  "name": "Mahnkopf",
+                  "text": "Hegycsúcs a Karwendel-hegységben, kilátással a Rissbach-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.507891,
+                        47.412354
+                  ]
+            },
+            {
+                  "name": "Südliche Sonnenspitze",
+                  "text": "Déli hegycsúcs a Karwendel-hegységben, amely alpesi túraútvonalakon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        11.477633,
+                        47.386406
+                  ]
+            },
+            {
+                  "name": "Nördliche Sonnenspitze",
+                  "text": "Északi csúcs a Karwendel-hegységben, a lenyűgöző mészkővilág része.",
+                  "category": "landmark",
+                  "coords": [
+                        11.48197,
+                        47.390603
+                  ]
+            },
+            {
+                  "name": "Rauhkarlspitze",
+                  "text": "Magas hegycsúcs a Karwendel-hegységben, a hegység főgerincén helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456001,
+                        47.402004
+                  ]
+            },
+            {
+                  "name": "Moserkarspitze",
+                  "text": "Kihívást jelentő hegycsúcs a Karwendel-Alpokban, a Hinterautal-Vomper-láncban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.469625,
+                        47.397399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturpark Karwendel",
+                  "text": "Cel mai mare parc natural din Austria, care conservă peisajul alpin al munților Karwendel.",
+                  "category": "natural",
+                  "coords": [
+                        11.484432,
+                        47.40599
+                  ]
+            },
+            {
+                  "name": "Kuhkopf",
+                  "text": "Un vârf proeminent în munții Karwendel, popular printre drumeții experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456123,
+                        47.436169
+                  ]
+            },
+            {
+                  "name": "Gamsjoch Westgipfel",
+                  "text": "Vârful vestic al Gamsjoch din Alpii Karwendel, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        11.545464,
+                        47.417836
+                  ]
+            },
+            {
+                  "name": "Mahnkopf",
+                  "text": "Un vârf muntos în masivul Karwendel, oferind vederi asupra văii Rissbach.",
+                  "category": "landmark",
+                  "coords": [
+                        11.507891,
+                        47.412354
+                  ]
+            },
+            {
+                  "name": "Südliche Sonnenspitze",
+                  "text": "Un vârf sudic în munții Karwendel, accesibil prin trasee de drumeție alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        11.477633,
+                        47.386406
+                  ]
+            },
+            {
+                  "name": "Nördliche Sonnenspitze",
+                  "text": "Un vârf nordic în masivul Karwendel, parte a peisajului său calcaros spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        11.48197,
+                        47.390603
+                  ]
+            },
+            {
+                  "name": "Rauhkarlspitze",
+                  "text": "Un vârf înalt în munții Karwendel, situat pe creasta principală a masivului.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456001,
+                        47.402004
+                  ]
+            },
+            {
+                  "name": "Moserkarspitze",
+                  "text": "Un vârf provocator în Alpii Karwendel, situat în lanțul Hinterautal-Vomper.",
+                  "category": "landmark",
+                  "coords": [
+                        11.469625,
+                        47.397399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturpark Karwendel",
+                  "text": "The largest nature park in Austria, preserving the alpine landscape of the Karwendel mountains.",
+                  "category": "natural",
+                  "coords": [
+                        11.484432,
+                        47.40599
+                  ]
+            },
+            {
+                  "name": "Kuhkopf",
+                  "text": "A prominent peak in the Karwendel mountains, popular among experienced hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456123,
+                        47.436169
+                  ]
+            },
+            {
+                  "name": "Gamsjoch Westgipfel",
+                  "text": "The western summit of Gamsjoch in the Karwendel Alps, known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        11.545464,
+                        47.417836
+                  ]
+            },
+            {
+                  "name": "Mahnkopf",
+                  "text": "A mountain peak in the Karwendel range, offering views over the Rissbach valley.",
+                  "category": "landmark",
+                  "coords": [
+                        11.507891,
+                        47.412354
+                  ]
+            },
+            {
+                  "name": "Südliche Sonnenspitze",
+                  "text": "A southern peak in the Karwendel mountains, accessible via alpine hiking routes.",
+                  "category": "landmark",
+                  "coords": [
+                        11.477633,
+                        47.386406
+                  ]
+            },
+            {
+                  "name": "Nördliche Sonnenspitze",
+                  "text": "A northern peak in the Karwendel range, part of its dramatic limestone scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        11.48197,
+                        47.390603
+                  ]
+            },
+            {
+                  "name": "Rauhkarlspitze",
+                  "text": "A high peak in the Karwendel mountains, situated on the main ridge of the range.",
+                  "category": "landmark",
+                  "coords": [
+                        11.456001,
+                        47.402004
+                  ]
+            },
+            {
+                  "name": "Moserkarspitze",
+                  "text": "A challenging peak in the Karwendel Alps, located in the Hinterautal-Vomper-Kette ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.469625,
+                        47.397399
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Karwendel", hu: "Karwendel Natúrpark", ro: "Parcul Natural Karwendel", en: "Karwendel Nature Park" },
@@ -723,7 +2622,52 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-naturpark-karwendel-life-v2.webp",
   },
   {
-    id: "austria-wildpark-grünau-life-v2",
+    id: "austria-wildpark-grünau-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Falkenmauer",
+                  "text": "Ein Berggipfel auf dem Gelände des Wildparks Cumberland.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084404,
+                        47.846481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falkenmauer",
+                  "text": "Hegycsúcs a Cumberland Vadaspark területén belül.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084404,
+                        47.846481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falkenmauer",
+                  "text": "Un vârf muntos situat în perimetrul Parcului de Animale Sălbatice Cumberland.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084404,
+                        47.846481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falkenmauer",
+                  "text": "A mountain peak located within the grounds of the Cumberland Wildlife Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084404,
+                        47.846481
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AT",
     name: { de: "Cumberland Wildpark", hu: "Cumberland Vadaspark", ro: "Parcul de animale sălbatice Cumberland", en: "Cumberland Wildlife Park" },
@@ -813,7 +2757,268 @@ export const austriaLifeV2: POI[] = [
     image: "/poi-images/austria-botanischer-garten-graz-life-v2.webp",
   },
   {
-    id: "austria-naturpark-leiser-berge-life-v2",
+    id: "austria-naturpark-leiser-berge-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Bedeutende archäologische Stätte und ein Berg im Naturpark Leiser Berge mit prähistorischen Funden.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Ein historisches Schloss in Ernstbrunn, bekannt für seine weitläufige Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Ein gut erhaltenes Wasserschloss im Naturpark Leiser Berge.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Ein historisches Schlossgelände im Gebiet der Leiser Berge.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Ein Wildpark, der heimische Tierarten und das Wolf Science Center beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "\"Altstadt\" Michelstetten",
+                  "text": "Eine archäologische Ausgrabungsstätte prähistorischer Siedlungen bei Michelstetten.",
+                  "category": "historical",
+                  "coords": [
+                        16.41444,
+                        48.583722
+                  ]
+            },
+            {
+                  "name": "Steinmandl",
+                  "text": "Ein Gipfel im Naturpark Leiser Berge, beliebt für Wanderungen und Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        16.41064,
+                        48.578317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Jelentős régészeti lelőhely és magaslat a Leiser Berge Natúrparkban, őskori leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Történelmi kastély Ernstbrunnban, amely kiterjedt parkjáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Jó állapotban fennmaradt vízi kastély a Leiser Berge Natúrparkban.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Történelmi kastély a Leiser Berge területén.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Vadaspark, amely hazai állatfajoknak és a Farkaskutató Központnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "\"Altstadt\" Michelstetten",
+                  "text": "Régészeti lelőhely, amely ősi települések nyomait őrzi Michelstetten környékén.",
+                  "category": "historical",
+                  "coords": [
+                        16.41444,
+                        48.583722
+                  ]
+            },
+            {
+                  "name": "Steinmandl",
+                  "text": "A Leiser Berge Natúrpark egyik csúcsa, amely kedvelt kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        16.41064,
+                        48.578317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Sit arheologic important și un deal în Parcul Natural Leiser Berge, cu descoperiri preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "Un castel istoric în Ernstbrunn, cunoscut pentru parcul său vast.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "Un castel cu apă bine conservat în Parcul Natural Leiser Berge.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "Un castel istoric situat în zona Leiser Berge.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "Un parc natural care găzduiește specii de animale locale și Centrul de Cercetare a Lupilor.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "\"Altstadt\" Michelstetten",
+                  "text": "Un sit arheologic care reprezintă așezări antice în zona Michelstetten.",
+                  "category": "historical",
+                  "coords": [
+                        16.41444,
+                        48.583722
+                  ]
+            },
+            {
+                  "name": "Steinmandl",
+                  "text": "Un vârf din Parcul Natural Leiser Berge, popular pentru drumeții și panorame.",
+                  "category": "landmark",
+                  "coords": [
+                        16.41064,
+                        48.578317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oberleiser Berg",
+                  "text": "Significant archaeological site and a hill in the Leiser Berge Nature Park with prehistoric finds.",
+                  "category": "historical",
+                  "coords": [
+                        16.371998,
+                        48.559007
+                  ]
+            },
+            {
+                  "name": "Schloss Ernstbrunn",
+                  "text": "A historic castle in Ernstbrunn, known for its extensive park landscape.",
+                  "category": "castle",
+                  "coords": [
+                        16.347584,
+                        48.540969
+                  ]
+            },
+            {
+                  "name": "Schloss Niederleis",
+                  "text": "A well-preserved moated castle in the Leiser Berge Nature Park.",
+                  "category": "castle",
+                  "coords": [
+                        16.395996,
+                        48.558103
+                  ]
+            },
+            {
+                  "name": "Schloss Klement",
+                  "text": "A historic castle site located within the Leiser Berge area.",
+                  "category": "castle",
+                  "coords": [
+                        16.362333,
+                        48.568194
+                  ]
+            },
+            {
+                  "name": "Wildpark Ernstbrunn",
+                  "text": "A wildlife park offering a natural environment for local species and the Wolf Science Center.",
+                  "category": "recreational",
+                  "coords": [
+                        16.348153,
+                        48.544794
+                  ]
+            },
+            {
+                  "name": "\"Altstadt\" Michelstetten",
+                  "text": "An archaeological site representing ancient settlements in the Michelstetten area.",
+                  "category": "historical",
+                  "coords": [
+                        16.41444,
+                        48.583722
+                  ]
+            },
+            {
+                  "name": "Steinmandl",
+                  "text": "A peak in the Leiser Berge Nature Park, popular for hiking and views.",
+                  "category": "landmark",
+                  "coords": [
+                        16.41064,
+                        48.578317
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Leiser Berge", hu: "Leiser Berge Natúrpark", ro: "Parcul Natural Leiser Berge", en: "Leiser Berge Nature Park" },

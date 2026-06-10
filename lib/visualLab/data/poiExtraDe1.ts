@@ -2947,7 +2947,304 @@ export const poiExtraDe1: POI[] = [
   },
 
   {
-    id: "mnt-wendelstein-extra",
+    id: "mnt-wendelstein-extra", "sights": {
+      "de": [
+            {
+                  "name": "Wendelstein",
+                  "text": "Ein markanter Berggipfel in den Bayerischen Alpen mit einem berühmten Observatorium.",
+                  "category": "landmark",
+                  "coords": [
+                        12.012052,
+                        47.703476
+                  ]
+            },
+            {
+                  "name": "Wildalpjoch",
+                  "text": "Ein Berggipfel in der Wendelstein-Region, beliebt für seine Panoramaaussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        12.03543,
+                        47.701323
+                  ]
+            },
+            {
+                  "name": "Breitenstein",
+                  "text": "Ein Gipfel in den Bayerischen Voralpen mit malerischen Wanderwegen und Alpenpanoramen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.987773,
+                        47.721094
+                  ]
+            },
+            {
+                  "name": "Breitenstein Westgipfel",
+                  "text": "Der Westgipfel des Breitensteins, der einen ruhigen Aussichtspunkt in den Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.982836,
+                        47.721158
+                  ]
+            },
+            {
+                  "name": "Wendelsteinhöhle",
+                  "text": "Eine hochgelegene Schauhöhle nahe dem Wendelstein-Gipfel mit faszinierenden Eisformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.013275,
+                        47.703132
+                  ]
+            },
+            {
+                  "name": "Lacherspitz",
+                  "text": "Ein Berggipfel in den Bayerischen Alpen, bekannt für sein schroffes Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        12.023167,
+                        47.699056
+                  ]
+            },
+            {
+                  "name": "Eibelkopf",
+                  "text": "Ein Gipfel im Wendelsteinmassiv, der friedliche Wandermöglichkeiten in den Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.991683,
+                        47.727597
+                  ]
+            },
+            {
+                  "name": "Soinwand",
+                  "text": "Ein felsiger Gipfel in der Wendelstein-Region, beliebt für seine anspruchsvollen Wanderpfade.",
+                  "category": "landmark",
+                  "coords": [
+                        12.021357,
+                        47.705008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wendelstein",
+                  "text": "A Bajor-Alpok egyik kiemelkedő csúcsa, híres obszervatóriummal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.012052,
+                        47.703476
+                  ]
+            },
+            {
+                  "name": "Wildalpjoch",
+                  "text": "Hegycsúcs a Wendelstein-régióban, amely panorámás kilátása miatt népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        12.03543,
+                        47.701323
+                  ]
+            },
+            {
+                  "name": "Breitenstein",
+                  "text": "Csúcs a Bajor-Alpok előterében, festői túraútvonalakkal és alpesi kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        11.987773,
+                        47.721094
+                  ]
+            },
+            {
+                  "name": "Breitenstein Westgipfel",
+                  "text": "A Breitenstein-hegy nyugati csúcsa, amely nyugodt kilátópontot kínál az Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.982836,
+                        47.721158
+                  ]
+            },
+            {
+                  "name": "Wendelsteinhöhle",
+                  "text": "Magasan fekvő barlang a Wendelstein-csúcs közelében, látványos jégalakzatokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.013275,
+                        47.703132
+                  ]
+            },
+            {
+                  "name": "Lacherspitz",
+                  "text": "Hegycsúcs a Bajor-Alpokban, amely zord terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.023167,
+                        47.699056
+                  ]
+            },
+            {
+                  "name": "Eibelkopf",
+                  "text": "A Wendelstein-masszívum egyik csúcsa, amely nyugodt túrázási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.991683,
+                        47.727597
+                  ]
+            },
+            {
+                  "name": "Soinwand",
+                  "text": "Sziklás csúcs a Wendelstein környékén, amely kihívást jelentő túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.021357,
+                        47.705008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wendelstein",
+                  "text": "Un vârf muntos proeminent din Alpii Bavarezi, dotat cu un observator faimos.",
+                  "category": "landmark",
+                  "coords": [
+                        12.012052,
+                        47.703476
+                  ]
+            },
+            {
+                  "name": "Wildalpjoch",
+                  "text": "Un vârf muntos din regiunea Wendelstein, popular pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        12.03543,
+                        47.701323
+                  ]
+            },
+            {
+                  "name": "Breitenstein",
+                  "text": "Un vârf din Prealpii Bavarezi cu trasee pitorești și panorame alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        11.987773,
+                        47.721094
+                  ]
+            },
+            {
+                  "name": "Breitenstein Westgipfel",
+                  "text": "Vârful vestic al muntelui Breitenstein, care oferă un punct de observație liniștit în Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.982836,
+                        47.721158
+                  ]
+            },
+            {
+                  "name": "Wendelsteinhöhle",
+                  "text": "O peșteră la mare altitudine lângă vârful Wendelstein, cu formațiuni de gheață fascinante.",
+                  "category": "landmark",
+                  "coords": [
+                        12.013275,
+                        47.703132
+                  ]
+            },
+            {
+                  "name": "Lacherspitz",
+                  "text": "Un vârf muntos din Alpii Bavarezi, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        12.023167,
+                        47.699056
+                  ]
+            },
+            {
+                  "name": "Eibelkopf",
+                  "text": "Un vârf din masivul Wendelstein care oferă oportunități de drumeție liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        11.991683,
+                        47.727597
+                  ]
+            },
+            {
+                  "name": "Soinwand",
+                  "text": "Un vârf stâncos din zona Wendelstein, popular pentru traseele sale de drumeție solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        12.021357,
+                        47.705008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wendelstein",
+                  "text": "A prominent mountain peak in the Bavarian Alps featuring a famous observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        12.012052,
+                        47.703476
+                  ]
+            },
+            {
+                  "name": "Wildalpjoch",
+                  "text": "A mountain peak in the Wendelstein region popular for its panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        12.03543,
+                        47.701323
+                  ]
+            },
+            {
+                  "name": "Breitenstein",
+                  "text": "A peak in the Bavarian Prealps offering scenic trails and alpine vistas.",
+                  "category": "landmark",
+                  "coords": [
+                        11.987773,
+                        47.721094
+                  ]
+            },
+            {
+                  "name": "Breitenstein Westgipfel",
+                  "text": "The western summit of the Breitenstein mountain, providing a tranquil lookout point in the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        11.982836,
+                        47.721158
+                  ]
+            },
+            {
+                  "name": "Wendelsteinhöhle",
+                  "text": "A high-altitude show cave near the Wendelstein summit with fascinating ice formations.",
+                  "category": "landmark",
+                  "coords": [
+                        12.013275,
+                        47.703132
+                  ]
+            },
+            {
+                  "name": "Lacherspitz",
+                  "text": "A mountain summit in the Bavarian Alps known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        12.023167,
+                        47.699056
+                  ]
+            },
+            {
+                  "name": "Eibelkopf",
+                  "text": "A peak in the Wendelstein massif offering peaceful hiking opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        11.991683,
+                        47.727597
+                  ]
+            },
+            {
+                  "name": "Soinwand",
+                  "text": "A rocky peak in the Wendelstein area popular for its challenging hiking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        12.021357,
+                        47.705008
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BY",
     coords: [11.9967, 47.7033],
@@ -3091,7 +3388,304 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Nehrin toplam uzunluğu tam olarak 225 kilometredir.", "Salzach'ın havzası yaklaşık 6734 kilometrekareyi kapsamaktadır.", "Salzach, Inn'in en fazla su taşıyan yan koludur.", "Nehir üzerindeki tuz taşımacılığı resmi olarak 1891 yılında sona ermiştir.", "Nehir, 59 kilometre boyunca Almanya-Avusturya sınırını oluşturur.", "Ağzındaki ortalama boşalım miktarı 250 m³/s'dir."]}, image: "/poi-images/river-salzach-extra.webp"},
 
   {
-    id: "lake-walchensee-extra",
+    id: "lake-walchensee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Insel Sassau im Walchensee",
+                  "text": "Eine geschützte Insel im Walchensee, die für ihre natürliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.367425,
+                        47.59186
+                  ]
+            },
+            {
+                  "name": "Herzogstand",
+                  "text": "Ein markanter Berggipfel in den Bayerischen Voralpen mit Blick auf den Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308492,
+                        47.613457
+                  ]
+            },
+            {
+                  "name": "Martinskopf",
+                  "text": "Ein Berggipfel in der Region Walchensee mit schöner Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308242,
+                        47.608979
+                  ]
+            },
+            {
+                  "name": "Altlachberg",
+                  "text": "Ein Berggipfel in der Umgebung des Walchensees.",
+                  "category": "landmark",
+                  "coords": [
+                        11.377746,
+                        47.569083
+                  ]
+            },
+            {
+                  "name": "Desselkopf",
+                  "text": "Ein Berggipfel in den Bayerischen Voralpen oberhalb des Walchensees.",
+                  "category": "landmark",
+                  "coords": [
+                        11.357969,
+                        47.618394
+                  ]
+            },
+            {
+                  "name": "Fahrenbergkopf",
+                  "text": "Ein Gipfel in der Gebirgsregion um den bayerischen Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.314633,
+                        47.606713
+                  ]
+            },
+            {
+                  "name": "Drei-Kirchen-Blick",
+                  "text": "Ein Aussichtspunkt mit Blick auf drei verschiedene Kirchen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        11.304601,
+                        47.596717
+                  ]
+            },
+            {
+                  "name": "Aussichtsplatz \"Schluchtenblick\"",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die umliegende Schlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.303638,
+                        47.598624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Insel Sassau im Walchensee",
+                  "text": "Védett sziget a Walchensee-tóban, amely természeti szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        11.367425,
+                        47.59186
+                  ]
+            },
+            {
+                  "name": "Herzogstand",
+                  "text": "Jellegzetes hegycsúcs a Bajor-Alpokban, kilátással a Walchensee-tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308492,
+                        47.613457
+                  ]
+            },
+            {
+                  "name": "Martinskopf",
+                  "text": "Hegyi csúcs a Walchensee régiójában, szép kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308242,
+                        47.608979
+                  ]
+            },
+            {
+                  "name": "Altlachberg",
+                  "text": "Hegycsúcs a Walchensee környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.377746,
+                        47.569083
+                  ]
+            },
+            {
+                  "name": "Desselkopf",
+                  "text": "Hegycsúcs a Bajor-Alpokban, a Walchensee fölött.",
+                  "category": "landmark",
+                  "coords": [
+                        11.357969,
+                        47.618394
+                  ]
+            },
+            {
+                  "name": "Fahrenbergkopf",
+                  "text": "Hegycsúcs a bajor Walchensee környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.314633,
+                        47.606713
+                  ]
+            },
+            {
+                  "name": "Drei-Kirchen-Blick",
+                  "text": "Kilátópálya, ahonnan rálátni a régió három különböző templomára.",
+                  "category": "natural",
+                  "coords": [
+                        11.304601,
+                        47.596717
+                  ]
+            },
+            {
+                  "name": "Aussichtsplatz \"Schluchtenblick\"",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környező szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        11.303638,
+                        47.598624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Insel Sassau im Walchensee",
+                  "text": "O insulă protejată din lacul Walchensee, cunoscută pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        11.367425,
+                        47.59186
+                  ]
+            },
+            {
+                  "name": "Herzogstand",
+                  "text": "Un vârf muntos proeminent din Alpii Bavarezi, cu vedere spre Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308492,
+                        47.613457
+                  ]
+            },
+            {
+                  "name": "Martinskopf",
+                  "text": "Un vârf muntos din regiunea Walchensee, oferind panorame frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308242,
+                        47.608979
+                  ]
+            },
+            {
+                  "name": "Altlachberg",
+                  "text": "Un vârf muntos situat în apropierea lacului Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.377746,
+                        47.569083
+                  ]
+            },
+            {
+                  "name": "Desselkopf",
+                  "text": "Un vârf muntos în Alpii Bavarezi, deasupra lacului Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.357969,
+                        47.618394
+                  ]
+            },
+            {
+                  "name": "Fahrenbergkopf",
+                  "text": "Un vârf în regiunea muntoasă din jurul lacului Walchensee din Bavaria.",
+                  "category": "landmark",
+                  "coords": [
+                        11.314633,
+                        47.606713
+                  ]
+            },
+            {
+                  "name": "Drei-Kirchen-Blick",
+                  "text": "Un punct de belvedere cu vedere spre trei biserici diferite din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        11.304601,
+                        47.596717
+                  ]
+            },
+            {
+                  "name": "Aussichtsplatz \"Schluchtenblick\"",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra defileului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        11.303638,
+                        47.598624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Insel Sassau im Walchensee",
+                  "text": "A protected island in the Walchensee lake known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        11.367425,
+                        47.59186
+                  ]
+            },
+            {
+                  "name": "Herzogstand",
+                  "text": "A prominent mountain peak in the Bavarian Prealps overlooking Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308492,
+                        47.613457
+                  ]
+            },
+            {
+                  "name": "Martinskopf",
+                  "text": "A mountain peak in the Walchensee region offering scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        11.308242,
+                        47.608979
+                  ]
+            },
+            {
+                  "name": "Altlachberg",
+                  "text": "A mountain peak located in the vicinity of Lake Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.377746,
+                        47.569083
+                  ]
+            },
+            {
+                  "name": "Desselkopf",
+                  "text": "A mountain peak in the Bavarian Prealps overlooking Lake Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.357969,
+                        47.618394
+                  ]
+            },
+            {
+                  "name": "Fahrenbergkopf",
+                  "text": "A peak in the mountainous region around the Bavarian Walchensee.",
+                  "category": "landmark",
+                  "coords": [
+                        11.314633,
+                        47.606713
+                  ]
+            },
+            {
+                  "name": "Drei-Kirchen-Blick",
+                  "text": "A viewpoint offering a vista of three different churches in the region.",
+                  "category": "natural",
+                  "coords": [
+                        11.304601,
+                        47.596717
+                  ]
+            },
+            {
+                  "name": "Aussichtsplatz \"Schluchtenblick\"",
+                  "text": "A lookout point providing a panoramic view of the surrounding gorge.",
+                  "category": "natural",
+                  "coords": [
+                        11.303638,
+                        47.598624
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BY",
     coords: [11.3392, 47.5889],
@@ -3309,7 +3903,304 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Katedralin kuleleri 105 metre yüksekliğe ulaşmaktadır.", "İnşaat resmi olarak 1273 yılında başlamıştır.", "Ünlü Domspatzen koro çocukları 975 yılından beri mevcuttur.", "Katedral yaklaşık 86 metre uzunluğunda ve 35 metre genişliğindedir.", "Kule külahlarının tamamlanması ancak 1869 yılında gerçekleşmiştir.", "Katedralde 1220 ile 1370 yılları arasındaki döneme ait orijinal cam boyamaları bulunmaktadır."]}, image: "/poi-images/historical-regensburg-dom-extra.webp"},
 
   {
-    id: "forest-frankenwald-extra",
+    id: "forest-frankenwald-extra", "sights": {
+      "de": [
+            {
+                  "name": "Zukunftswald",
+                  "text": "Ein Naturschutzgebiet im Frankenwald, das sich auf nachhaltige Waldentwicklung konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        11.626114,
+                        50.277483
+                  ]
+            },
+            {
+                  "name": "Schloss Heinersreuth",
+                  "text": "Ein historisches Schloss im Frankenwald, das als regionales Baudenkmal gilt.",
+                  "category": "castle",
+                  "coords": [
+                        11.586952,
+                        50.245848
+                  ]
+            },
+            {
+                  "name": "Burgstall Rauhenstein",
+                  "text": "Der Burgstall Rauhenstein bezeichnet den Standort einer abgegangenen mittelalterlichen Burg im Frankenwald.",
+                  "category": "historical",
+                  "coords": [
+                        11.596142,
+                        50.226324
+                  ]
+            },
+            {
+                  "name": "Mountainbikezentrum Döbraberg",
+                  "text": "Ein Zentrum für Mountainbiker am Döbraberg mit verschiedenen Strecken im Frankenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        11.62129,
+                        50.267444
+                  ]
+            },
+            {
+                  "name": "Romanfelsen",
+                  "text": "Ein markanter Felsen im Frankenwald, der als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        11.543804,
+                        50.269577
+                  ]
+            },
+            {
+                  "name": "Siebenfreundfelsen",
+                  "text": "Dieser Aussichtspunkt bietet Weitblicke über die Landschaft des Frankenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        11.603079,
+                        50.254185
+                  ]
+            },
+            {
+                  "name": "Döbraberg-Blick",
+                  "text": "Ein Aussichtspunkt mit direktem Blick auf den Döbraberg im Frankenwald.",
+                  "category": "natural",
+                  "coords": [
+                        11.571269,
+                        50.251358
+                  ]
+            },
+            {
+                  "name": "Alte Bamberger Brücke",
+                  "text": "Eine historische Brücke im Frankenwald, die ein Zeugnis alter Ingenieurskunst ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.537822,
+                        50.276706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zukunftswald",
+                  "text": "Természetvédelmi terület a Frank-erdőben, amely a fenntartható erdőfejlesztésre összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        11.626114,
+                        50.277483
+                  ]
+            },
+            {
+                  "name": "Schloss Heinersreuth",
+                  "text": "Történelmi kastély a Frank-erdőben, amely helyi építészeti műemléknek számít.",
+                  "category": "castle",
+                  "coords": [
+                        11.586952,
+                        50.245848
+                  ]
+            },
+            {
+                  "name": "Burgstall Rauhenstein",
+                  "text": "A Burgstall Rauhenstein egy egykori középkori vár helyszíne a Frank-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        11.596142,
+                        50.226324
+                  ]
+            },
+            {
+                  "name": "Mountainbikezentrum Döbraberg",
+                  "text": "Mountainbike-központ a Döbrabergen, különböző útvonalakkal a Frank-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.62129,
+                        50.267444
+                  ]
+            },
+            {
+                  "name": "Romanfelsen",
+                  "text": "Jellegzetes szikla a Frank-erdőben, amely kilátópontként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        11.543804,
+                        50.269577
+                  ]
+            },
+            {
+                  "name": "Siebenfreundfelsen",
+                  "text": "Erről a kilátópontról messzire el lehet látni a Frank-erdő tájai felett.",
+                  "category": "natural",
+                  "coords": [
+                        11.603079,
+                        50.254185
+                  ]
+            },
+            {
+                  "name": "Döbraberg-Blick",
+                  "text": "Kilátópont, ahonnan közvetlen kilátás nyílik a Döbrabergre a Frank-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        11.571269,
+                        50.251358
+                  ]
+            },
+            {
+                  "name": "Alte Bamberger Brücke",
+                  "text": "Történelmi híd a Frank-erdőben, amely a régi mérnöki munka emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        11.537822,
+                        50.276706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zukunftswald",
+                  "text": "O rezervație naturală din Pădurea Franconiană, axată pe dezvoltarea durabilă a pădurilor.",
+                  "category": "natural",
+                  "coords": [
+                        11.626114,
+                        50.277483
+                  ]
+            },
+            {
+                  "name": "Schloss Heinersreuth",
+                  "text": "Un castel istoric din Pădurea Franconiană, considerat un monument arhitectural regional.",
+                  "category": "castle",
+                  "coords": [
+                        11.586952,
+                        50.245848
+                  ]
+            },
+            {
+                  "name": "Burgstall Rauhenstein",
+                  "text": "Burgstall Rauhenstein marchează locul unei foste cetăți medievale din Pădurea Franconiană.",
+                  "category": "historical",
+                  "coords": [
+                        11.596142,
+                        50.226324
+                  ]
+            },
+            {
+                  "name": "Mountainbikezentrum Döbraberg",
+                  "text": "Un centru pentru bicicliști montani pe Döbraberg, cu diverse trasee în Pădurea Franconiană.",
+                  "category": "landmark",
+                  "coords": [
+                        11.62129,
+                        50.267444
+                  ]
+            },
+            {
+                  "name": "Romanfelsen",
+                  "text": "O stâncă proeminentă din Pădurea Franconiană care servește drept punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        11.543804,
+                        50.269577
+                  ]
+            },
+            {
+                  "name": "Siebenfreundfelsen",
+                  "text": "Acest punct de belvedere oferă vederi largi asupra peisajului Pădurii Franconiene.",
+                  "category": "natural",
+                  "coords": [
+                        11.603079,
+                        50.254185
+                  ]
+            },
+            {
+                  "name": "Döbraberg-Blick",
+                  "text": "Un punct de belvedere cu vedere directă spre Döbraberg, în Pădurea Franconiană.",
+                  "category": "natural",
+                  "coords": [
+                        11.571269,
+                        50.251358
+                  ]
+            },
+            {
+                  "name": "Alte Bamberger Brücke",
+                  "text": "Un pod istoric din Pădurea Franconiană, care este o dovadă a vechii inginerii.",
+                  "category": "landmark",
+                  "coords": [
+                        11.537822,
+                        50.276706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zukunftswald",
+                  "text": "A nature reserve in the Franconian Forest focused on sustainable forest development.",
+                  "category": "natural",
+                  "coords": [
+                        11.626114,
+                        50.277483
+                  ]
+            },
+            {
+                  "name": "Schloss Heinersreuth",
+                  "text": "A historical castle in the Franconian Forest, considered a regional architectural monument.",
+                  "category": "castle",
+                  "coords": [
+                        11.586952,
+                        50.245848
+                  ]
+            },
+            {
+                  "name": "Burgstall Rauhenstein",
+                  "text": "Burgstall Rauhenstein marks the site of a former medieval castle in the Franconian Forest.",
+                  "category": "historical",
+                  "coords": [
+                        11.596142,
+                        50.226324
+                  ]
+            },
+            {
+                  "name": "Mountainbikezentrum Döbraberg",
+                  "text": "A mountain biking center on the Döbraberg with various trails in the Franconian Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        11.62129,
+                        50.267444
+                  ]
+            },
+            {
+                  "name": "Romanfelsen",
+                  "text": "A prominent rock in the Franconian Forest that serves as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        11.543804,
+                        50.269577
+                  ]
+            },
+            {
+                  "name": "Siebenfreundfelsen",
+                  "text": "This viewpoint offers wide views over the landscape of the Franconian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        11.603079,
+                        50.254185
+                  ]
+            },
+            {
+                  "name": "Döbraberg-Blick",
+                  "text": "A viewpoint with a direct view of the Döbraberg in the Franconian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        11.571269,
+                        50.251358
+                  ]
+            },
+            {
+                  "name": "Alte Bamberger Brücke",
+                  "text": "A historical bridge in the Franconian Forest, which is a testament to old engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        11.537822,
+                        50.276706
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-BY",
     coords: [11.5800, 50.2600],
@@ -3452,7 +4343,268 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Sarayın cephesi 632 metre uzunluğundadır.", "Saray parkı yaklaşık 200 hektarlık bir alanı kapsamaktadır.", "Kral II. Ludwig, 25 Ağustos 1845'te sarayda doğmuştur.", "Steinerne Saal (Taş Salon) üç kat yüksekliğindedir.", "Parktaki Amalienburg, en önemli Rokoko yapısı olarak kabul edilir.", "Saray her yıl 300.000'den fazla misafir tarafından ziyaret edilmektedir."]}, image: "/poi-images/landmark-nymphenburg-extra.webp"},
 
   {
-    id: "agriculture-hopfen-hallertau-extra",
+    id: "agriculture-hopfen-hallertau-extra", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Au",
+                  "text": "Ein historisches Schloss im Hopfenanbaugebiet Hallertau.",
+                  "category": "castle",
+                  "coords": [
+                        11.742809,
+                        48.558347
+                  ]
+            },
+            {
+                  "name": "Eisenbahnfahrzeugsammlung Adolf Hagl",
+                  "text": "Ein Museum in der Hallertau, das eine private Sammlung historischer Eisenbahnfahrzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.748621,
+                        48.585773
+                  ]
+            },
+            {
+                  "name": "Bierkeller (alte Schloßkellerei)",
+                  "text": "Ein historischer Bierkeller in der Hallertau, der zur ehemaligen Schlosskellerei gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        11.74162,
+                        48.556775
+                  ]
+            },
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Ein Aussichtsturm in der Hallertau mit Blick über die Hopfenfelder der Region.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Schimmelkapelle",
+                  "text": "Eine kleine Kapelle in der Hallertau, die dem heiligen Stephanus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.753317,
+                        48.58118
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "Eine dem heiligen Johannes dem Täufer gewidmete Kirche in Haslach in der Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.778753,
+                        48.559264
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "Eine dem heiligen Bartholomäus gewidmete Kirche in Osterwaal in der Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.719895,
+                        48.579136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Au",
+                  "text": "Történelmi kastély a hallertaui komlótermesztő vidéken.",
+                  "category": "castle",
+                  "coords": [
+                        11.742809,
+                        48.558347
+                  ]
+            },
+            {
+                  "name": "Eisenbahnfahrzeugsammlung Adolf Hagl",
+                  "text": "Múzeum a Hallertau vidéken, amely egy magángyűjteményt mutat be történelmi vasúti járművekből.",
+                  "category": "museum",
+                  "coords": [
+                        11.748621,
+                        48.585773
+                  ]
+            },
+            {
+                  "name": "Bierkeller (alte Schloßkellerei)",
+                  "text": "Történelmi sörpince a Hallertau vidéken, amely az egykori kastélypincészethez tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.74162,
+                        48.556775
+                  ]
+            },
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Kilátótorony a Hallertau vidéken, kilátással a régió komlóművelő területeire.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Schimmelkapelle",
+                  "text": "Szent Istvánnak szentelt kis kápolna a Hallertau vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        11.753317,
+                        48.58118
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom a hallertaui Haslachban.",
+                  "category": "religious",
+                  "coords": [
+                        11.778753,
+                        48.559264
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "Szent Bertalannak szentelt templom a hallertaui Osterwaalban.",
+                  "category": "religious",
+                  "coords": [
+                        11.719895,
+                        48.579136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Au",
+                  "text": "Un castel istoric situat în regiunea viticolă Hallertau.",
+                  "category": "castle",
+                  "coords": [
+                        11.742809,
+                        48.558347
+                  ]
+            },
+            {
+                  "name": "Eisenbahnfahrzeugsammlung Adolf Hagl",
+                  "text": "Un muzeu din Hallertau care prezintă o colecție privată de vehicule feroviare istorice.",
+                  "category": "museum",
+                  "coords": [
+                        11.748621,
+                        48.585773
+                  ]
+            },
+            {
+                  "name": "Bierkeller (alte Schloßkellerei)",
+                  "text": "O pivniță de bere istorică din Hallertau, care aparține fostei crame a castelului.",
+                  "category": "landmark",
+                  "coords": [
+                        11.74162,
+                        48.556775
+                  ]
+            },
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Un turn de observație în Hallertau, oferind vederi asupra câmpurilor de hamei din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Schimmelkapelle",
+                  "text": "O mică chapelă din Hallertau dedicată Sfântului Ștefan.",
+                  "category": "religious",
+                  "coords": [
+                        11.753317,
+                        48.58118
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în Haslach, regiunea Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.778753,
+                        48.559264
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "O biserică dedicată Sfântului Bartolomeu în Osterwaal, regiunea Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.719895,
+                        48.579136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Au",
+                  "text": "A historic castle located in the Hallertau hop-growing region.",
+                  "category": "castle",
+                  "coords": [
+                        11.742809,
+                        48.558347
+                  ]
+            },
+            {
+                  "name": "Eisenbahnfahrzeugsammlung Adolf Hagl",
+                  "text": "A museum in the Hallertau region showcasing a private collection of historical railway vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        11.748621,
+                        48.585773
+                  ]
+            },
+            {
+                  "name": "Bierkeller (alte Schloßkellerei)",
+                  "text": "A historic beer cellar in the Hallertau region, belonging to the former castle winery.",
+                  "category": "landmark",
+                  "coords": [
+                        11.74162,
+                        48.556775
+                  ]
+            },
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "An observation tower in the Hallertau region offering views over the local hop fields.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Schimmelkapelle",
+                  "text": "A small chapel in the Hallertau region dedicated to Saint Stephen.",
+                  "category": "religious",
+                  "coords": [
+                        11.753317,
+                        48.58118
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "A church dedicated to Saint John the Baptist in Haslach, Hallertau region.",
+                  "category": "religious",
+                  "coords": [
+                        11.778753,
+                        48.559264
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "A church dedicated to Saint Bartholomew in Osterwaal, Hallertau region.",
+                  "category": "religious",
+                  "coords": [
+                        11.719895,
+                        48.579136
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DE-BY",
     coords: [11.7500, 48.5500],
@@ -10533,7 +11685,268 @@ export const poiExtraDe1: POI[] = [
   },
 
   {
-    id: "mnt-feldberg-bw-extra",
+    id: "mnt-feldberg-bw-extra", "sights": {
+      "de": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Interaktives Museum im Schwarzwald, das über die lokale Flora und Fauna informiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Ein kleines Museum auf dem Feldberg, das der Tradition des Schwarzwälder Schinkens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Ein Nebengipfel des Feldbergs mit weitem Blick über den Schwarzwald.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Ein markanter Gipfel im Schwarzwald mit einer bekannten Berggaststätte.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Ein Berg im Schwarzwald, der für seine Wanderwege und Aussichten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Ein Berggipfel im Schwarzwald, der im Winter ein beliebtes Skigebiet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Ein Berg im Schwarzwald-Massiv nahe dem Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Interaktív múzeum a Fekete-erdőben, amely a helyi élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "A Feldberg-hegyen található kis múzeum, amely a fekete-erdei sonka hagyományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "A Feldberg egyik mellékcsúcsa, ahonnan tágas kilátás nyílik a Fekete-erdőre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "A Fekete-erdő egyik jellegzetes csúcsa, népszerű hegyi fogadóval.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Hegycsúcs a Fekete-erdőben, amely túraútvonalairól és kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Hegycsúcs a Fekete-erdőben, amely télen népszerű síterület.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Hegycsúcs a Fekete-erdő hegységben, a Feldberg közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Muzeu interactiv în Pădurea Neagră, dedicat florei și faunei locale.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Un mic muzeu pe muntele Feldberg, dedicat tradiției șoncii din Pădurea Neagră.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Un vârf secundar al muntelui Feldberg, oferind vederi largi asupra Pădurii Negre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Un vârf proeminent din Pădurea Neagră, dotat cu un han montan cunoscut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Un munte în Pădurea Neagră, cunoscut pentru traseele de drumeție și panorame.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Un vârf montan în Pădurea Neagră, care este o zonă de schi populară iarna.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Un vârf în masivul Pădurea Neagră, situat lângă Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "An interactive museum in the Black Forest focusing on local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "A small museum on Mount Feldberg dedicated to the tradition of Black Forest ham.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "A sub-peak of the Feldberg offering wide views over the Black Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "A prominent peak in the Black Forest featuring a well-known mountain inn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "A mountain in the Black Forest known for its hiking trails and scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "A mountain peak in the Black Forest that is a popular skiing area in winter.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "A mountain peak in the Black Forest massif near the Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BW",
     coords: [8.0044, 47.8742],

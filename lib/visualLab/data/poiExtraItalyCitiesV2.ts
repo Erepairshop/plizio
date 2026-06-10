@@ -4395,7 +4395,232 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-reggio-emilia-cities-v2.webp",
   },
   {
-    id: "italy-taranto-cities-v2",
+    id: "italy-taranto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tempio Dorico",
+                  "text": "Überreste eines antiken dorischen Tempels, der Poseidon gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        17.233042,
+                        40.473787
+                  ]
+            },
+            {
+                  "name": "Chiostro del convento di San Domenico",
+                  "text": "Ein historischer Kreuzgang in einem ehemaligen Dominikanerkloster.",
+                  "category": "museum",
+                  "coords": [
+                        17.226751,
+                        40.477192
+                  ]
+            },
+            {
+                  "name": "Mudi Museo Diocesano di Taranto",
+                  "text": "Ein Diözesanmuseum mit einer Sammlung religiöser Kunst und Schätze.",
+                  "category": "museum",
+                  "coords": [
+                        17.227579,
+                        40.476214
+                  ]
+            },
+            {
+                  "name": "Museo Ipogeo Spartano di Taranto",
+                  "text": "Ein unterirdisches Museum, das der spartanischen Geschichte der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.230143,
+                        40.474608
+                  ]
+            },
+            {
+                  "name": "Cripta del Redentore",
+                  "text": "Eine antike Krypta mit bedeutenden religiösen Fresken aus dem Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        17.262981,
+                        40.464374
+                  ]
+            },
+            {
+                  "name": "Istituto Talassografico",
+                  "text": "Ein wissenschaftliches Institut und Museum für Meereskunde und Biologie.",
+                  "category": "museum",
+                  "coords": [
+                        17.239463,
+                        40.474559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tempio Dorico",
+                  "text": "Egy Poszeidónnak szentelt ókori dór templom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        17.233042,
+                        40.473787
+                  ]
+            },
+            {
+                  "name": "Chiostro del convento di San Domenico",
+                  "text": "Egy egykori dominikánus kolostor történelmi keresztfolyosója.",
+                  "category": "museum",
+                  "coords": [
+                        17.226751,
+                        40.477192
+                  ]
+            },
+            {
+                  "name": "Mudi Museo Diocesano di Taranto",
+                  "text": "Vallási művészeti alkotásokat és kincseket bemutató egyházmegyei múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.227579,
+                        40.476214
+                  ]
+            },
+            {
+                  "name": "Museo Ipogeo Spartano di Taranto",
+                  "text": "A város spártai múltját bemutató föld alatti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.230143,
+                        40.474608
+                  ]
+            },
+            {
+                  "name": "Cripta del Redentore",
+                  "text": "Ókori kripta jelentős középkori vallási freskókkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.262981,
+                        40.464374
+                  ]
+            },
+            {
+                  "name": "Istituto Talassografico",
+                  "text": "Tengerkutatással és biológiával foglalkozó tudományos intézet és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.239463,
+                        40.474559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tempio Dorico",
+                  "text": "Vestigiile unui vechi templu doric dedicat lui Poseidon.",
+                  "category": "historical",
+                  "coords": [
+                        17.233042,
+                        40.473787
+                  ]
+            },
+            {
+                  "name": "Chiostro del convento di San Domenico",
+                  "text": "Un claustru istoric situat într-o fostă mănăstire dominicană.",
+                  "category": "museum",
+                  "coords": [
+                        17.226751,
+                        40.477192
+                  ]
+            },
+            {
+                  "name": "Mudi Museo Diocesano di Taranto",
+                  "text": "Un muzeu diecezan ce expune o colecție de artă religioasă și obiecte de cult.",
+                  "category": "museum",
+                  "coords": [
+                        17.227579,
+                        40.476214
+                  ]
+            },
+            {
+                  "name": "Museo Ipogeo Spartano di Taranto",
+                  "text": "Un muzeu subteran dedicat istoriei spartane a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        17.230143,
+                        40.474608
+                  ]
+            },
+            {
+                  "name": "Cripta del Redentore",
+                  "text": "O criptă antică ce conține fresce religioase medievale remarcabile.",
+                  "category": "museum",
+                  "coords": [
+                        17.262981,
+                        40.464374
+                  ]
+            },
+            {
+                  "name": "Istituto Talassografico",
+                  "text": "Un institut științific și muzeu dedicat oceanografiei și biologiei marine.",
+                  "category": "museum",
+                  "coords": [
+                        17.239463,
+                        40.474559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tempio Dorico",
+                  "text": "The remains of an ancient Doric temple dedicated to Poseidon.",
+                  "category": "historical",
+                  "coords": [
+                        17.233042,
+                        40.473787
+                  ]
+            },
+            {
+                  "name": "Chiostro del convento di San Domenico",
+                  "text": "A historic cloister located within a former Dominican convent.",
+                  "category": "museum",
+                  "coords": [
+                        17.226751,
+                        40.477192
+                  ]
+            },
+            {
+                  "name": "Mudi Museo Diocesano di Taranto",
+                  "text": "A diocesan museum displaying a collection of religious art and treasures.",
+                  "category": "museum",
+                  "coords": [
+                        17.227579,
+                        40.476214
+                  ]
+            },
+            {
+                  "name": "Museo Ipogeo Spartano di Taranto",
+                  "text": "An underground museum dedicated to the Spartan history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        17.230143,
+                        40.474608
+                  ]
+            },
+            {
+                  "name": "Cripta del Redentore",
+                  "text": "An ancient crypt containing significant medieval religious frescoes.",
+                  "category": "museum",
+                  "coords": [
+                        17.262981,
+                        40.464374
+                  ]
+            },
+            {
+                  "name": "Istituto Talassografico",
+                  "text": "A scientific institute and museum dedicated to oceanography and marine biology.",
+                  "category": "museum",
+                  "coords": [
+                        17.239463,
+                        40.474559
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Tarent", hu: "Taranto", ro: "Taranto", en: "Taranto" },
@@ -5466,7 +5691,304 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-prato-cities-v2.webp",
   },
   {
-    id: "italy-messina-cities-v2",
+    id: "italy-messina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Necropoli di San Placido",
+                  "text": "Eine antike Nekropole mit archäologischen Funden in Messina.",
+                  "category": "historical",
+                  "coords": [
+                        15.556678,
+                        38.199112
+                  ]
+            },
+            {
+                  "name": "Real Cittadella",
+                  "text": "Eine historische Festungsanlage zum Schutz des Hafens von Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.566684,
+                        38.187746
+                  ]
+            },
+            {
+                  "name": "Teatro Vittorio Emanuele",
+                  "text": "Ein prächtiges historisches Theatergebäude im Zentrum von Messina.",
+                  "category": "cultural",
+                  "coords": [
+                        15.556256,
+                        38.195689
+                  ]
+            },
+            {
+                  "name": "Museo Regionale di Messina",
+                  "text": "Das Regionalmuseum von Messina mit bedeutenden Kunstschätzen.",
+                  "category": "museum",
+                  "coords": [
+                        15.56451,
+                        38.217208
+                  ]
+            },
+            {
+                  "name": "Forte Gonzaga",
+                  "text": "Eine imposante Festung auf einem Hügel über Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.54074,
+                        38.188118
+                  ]
+            },
+            {
+                  "name": "Castellaccio",
+                  "text": "Die Überreste einer alten Burgfestung in Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.542879,
+                        38.196131
+                  ]
+            },
+            {
+                  "name": "Forte Petrazza",
+                  "text": "Ein historisches Fort, das zur Verteidigung von Messina diente.",
+                  "category": "fortress",
+                  "coords": [
+                        15.528155,
+                        38.181631
+                  ]
+            },
+            {
+                  "name": "Forte Ogliastri",
+                  "text": "Eine ehemalige Verteidigungsanlage in der Küstenstadt Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.557214,
+                        38.211471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Necropoli di San Placido",
+                  "text": "Ősi nekropolisz régészeti leletekkel Messinában.",
+                  "category": "historical",
+                  "coords": [
+                        15.556678,
+                        38.199112
+                  ]
+            },
+            {
+                  "name": "Real Cittadella",
+                  "text": "Történelmi erődítmény Messina kikötőjének védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        15.566684,
+                        38.187746
+                  ]
+            },
+            {
+                  "name": "Teatro Vittorio Emanuele",
+                  "text": "Pompás történelmi színházépület Messina központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.556256,
+                        38.195689
+                  ]
+            },
+            {
+                  "name": "Museo Regionale di Messina",
+                  "text": "Messina regionális múzeuma jelentős művészeti kincsekkel.",
+                  "category": "museum",
+                  "coords": [
+                        15.56451,
+                        38.217208
+                  ]
+            },
+            {
+                  "name": "Forte Gonzaga",
+                  "text": "Impozáns erőd egy dombon Messina felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.54074,
+                        38.188118
+                  ]
+            },
+            {
+                  "name": "Castellaccio",
+                  "text": "Egy régi várkastély maradványai Messinában.",
+                  "category": "castle",
+                  "coords": [
+                        15.542879,
+                        38.196131
+                  ]
+            },
+            {
+                  "name": "Forte Petrazza",
+                  "text": "Történelmi erőd, amely Messina védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        15.528155,
+                        38.181631
+                  ]
+            },
+            {
+                  "name": "Forte Ogliastri",
+                  "text": "Egykori védmű Messina tengerparti városában.",
+                  "category": "fortress",
+                  "coords": [
+                        15.557214,
+                        38.211471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Necropoli di San Placido",
+                  "text": "O necropolă antică cu descoperiri arheologice în Messina.",
+                  "category": "historical",
+                  "coords": [
+                        15.556678,
+                        38.199112
+                  ]
+            },
+            {
+                  "name": "Real Cittadella",
+                  "text": "O fortificație istorică pentru protecția portului Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.566684,
+                        38.187746
+                  ]
+            },
+            {
+                  "name": "Teatro Vittorio Emanuele",
+                  "text": "O clădire de teatru istorică somptuoasă în centrul orașului Messina.",
+                  "category": "cultural",
+                  "coords": [
+                        15.556256,
+                        38.195689
+                  ]
+            },
+            {
+                  "name": "Museo Regionale di Messina",
+                  "text": "Muzeul regional din Messina cu importante comori artistice.",
+                  "category": "museum",
+                  "coords": [
+                        15.56451,
+                        38.217208
+                  ]
+            },
+            {
+                  "name": "Forte Gonzaga",
+                  "text": "O fortăreață impunătoare pe un deal deasupra orașului Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.54074,
+                        38.188118
+                  ]
+            },
+            {
+                  "name": "Castellaccio",
+                  "text": "Rămășițele unei vechi cetăți din Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.542879,
+                        38.196131
+                  ]
+            },
+            {
+                  "name": "Forte Petrazza",
+                  "text": "Un fort istoric care a servit la apărarea orașului Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.528155,
+                        38.181631
+                  ]
+            },
+            {
+                  "name": "Forte Ogliastri",
+                  "text": "O fostă structură defensivă în orașul de coastă Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.557214,
+                        38.211471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Necropoli di San Placido",
+                  "text": "An ancient necropolis with archaeological finds in Messina.",
+                  "category": "historical",
+                  "coords": [
+                        15.556678,
+                        38.199112
+                  ]
+            },
+            {
+                  "name": "Real Cittadella",
+                  "text": "A historic fortification for the protection of the port of Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.566684,
+                        38.187746
+                  ]
+            },
+            {
+                  "name": "Teatro Vittorio Emanuele",
+                  "text": "A magnificent historic theater building in the center of Messina.",
+                  "category": "cultural",
+                  "coords": [
+                        15.556256,
+                        38.195689
+                  ]
+            },
+            {
+                  "name": "Museo Regionale di Messina",
+                  "text": "The regional museum of Messina featuring important art treasures.",
+                  "category": "museum",
+                  "coords": [
+                        15.56451,
+                        38.217208
+                  ]
+            },
+            {
+                  "name": "Forte Gonzaga",
+                  "text": "An imposing fortress on a hill above Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.54074,
+                        38.188118
+                  ]
+            },
+            {
+                  "name": "Castellaccio",
+                  "text": "The remains of an old castle fortress in Messina.",
+                  "category": "castle",
+                  "coords": [
+                        15.542879,
+                        38.196131
+                  ]
+            },
+            {
+                  "name": "Forte Petrazza",
+                  "text": "A historic fort that served the defense of Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.528155,
+                        38.181631
+                  ]
+            },
+            {
+                  "name": "Forte Ogliastri",
+                  "text": "A former defensive structure in the coastal city of Messina.",
+                  "category": "fortress",
+                  "coords": [
+                        15.557214,
+                        38.211471
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Messina", hu: "Messina", ro: "Messina", en: "Messina" },
@@ -10884,7 +11406,304 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-piacenza-cities-v2.webp",
   },
   {
-    id: "italy-ancona-cities-v2",
+    id: "italy-ancona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Ein Tastmuseum in Ancona, in dem Kunst durch Berührung erlebbar ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Die städtische Pinakothek von Ancona mit regionalen Kunstschätzen.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Ein Theater für experimentelle Kunst und Aufführungen in Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Ein Museumsraum in Ancona, der der Geschichte der Funktechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Das nationale Archäologiemuseum für die Region Marken in Ancona.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Eine historische Festungsanlage, die Teil der Verteidigung von Ancona war.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Eine historische Zitadelle, die über der Stadt Ancona thront.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ein Teil der historischen Verteidigungsanlagen von Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Tapintható múzeum Anconában, ahol a művészet érintéssel is élvezhető.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Ancona városi képtára regionális művészeti kincsekkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Kísérleti művészeti színház és előadóhely Anconában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "A rádiótechnika történetének szentelt múzeumi terem Anconában.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Marche régió nemzeti régészeti múzeuma Anconában.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Történelmi erődítmény, amely Ancona védelmi rendszerének része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Történelmi citadella, amely Ancona városa fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ancona történelmi védműveinek egyik része.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Un muzeu tactil în Ancona, unde arta poate fi experimentată prin atingere.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Pinacoteca civică din Ancona, care găzduiește comori artistice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Un teatru pentru artă experimentală și spectacole în Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "O sală de muzeu în Ancona dedicată istoriei radiotehnicii.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Muzeul național de arheologie pentru regiunea Marche, situat în Ancona.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "O fortificație istorică ce a făcut parte din sistemul de apărare al Anconei.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "O citadelă istorică situată deasupra orașului Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "O parte a fortificațiilor defensive istorice din Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "A tactile museum in Ancona where art can be experienced through touch.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "The civic art gallery of Ancona featuring regional artistic treasures.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "A theatre for experimental art and performances in Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "A museum room in Ancona dedicated to the history of radio technology.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "The national archaeology museum for the Marche region, located in Ancona.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "A historic fortification that was part of the defense system of Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "A historic citadel overlooking the city of Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "A part of the historic defensive fortifications in Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Ancona", hu: "Ancona", ro: "Ancona", en: "Ancona" },
@@ -14736,7 +15555,304 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-lucca-cities-v2.webp",
   },
   {
-    id: "italy-livorno-cities-v2",
+    id: "italy-livorno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Das historische Hauptopernhaus von Livorno, das 1847 eingeweiht wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Ein zeitgenössisches Theater in Livorno, in dem unabhängige Stücke und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "Das Geburts- und Elternhaus des berühmten Malers und Bildhauers Amedeo Modigliani.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Ein Museum in Livorno, das religiöse Kunst und liturgische Gegenstände aus der Diözese ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Ein Museum, das die reiche Geschichte und Kultur der jüdischen Gemeinde in Livorno dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Ein Museum, das die Stadt- und Sozialgeschichte von Livorno anhand verschiedener Exponate erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "Ein Museum für sakrale Kunst im Santa-Giulia-Komplex in Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Ein Kunstmuseum in Livorno, das eine bedeutende Sammlung von Werken Giovanni Fattoris und anderer Macchiaioli-Künstler beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Livorno történelmi fő operaháza, amelyet 1847-ben avattak fel.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Kortárs színházi tér Livornóban, amely független színdaraboknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "A híres festő és szobrász, Amedeo Modigliani szülőháza és gyermekkori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Múzeum Livornóban, amely a városszéli egyházmegye vallási művészetét és liturgikus tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Livorno zsidó közösségének gazdag történelmét és kultúráját dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Livorno városi és társadalmi történelmét különféle kiállításokon keresztül bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "A livornói Santa Giulia komplexumban található szakrális művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Művészeti múzeum Livornóban, amely Giovanni Fattori és más Macchiaioli-művészek munkáinak jelentős gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Principala operă istorică din Livorno, inaugurată în 1847.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Un spațiu teatral contemporan din Livorno care găzduiește piese independente și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "Locul de naștere și casa copilăriei celebrului pictor și sculptor Amedeo Modigliani.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Un muzeu din Livorno care expune artă religioasă și obiecte liturgice din dieceză.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Un muzeu care documentează istoria și cultura bogată a comunității evreiești din Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Un muzeu care explorează istoria urbană și socială a orașului Livorno prin diverse exponate.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "Un muzeu dedicat artei sacre situat în complexul Santa Giulia din Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Un muzeu de artă din Livorno care adăpostește o colecție majoră de lucrări de Giovanni Fattori și alți artiști Macchiaioli.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "The historic main opera house of Livorno, inaugurated in 1847.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "A contemporary theatre space in Livorno hosting independent plays and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "The birthplace and childhood home of the famous painter and sculptor Amedeo Modigliani.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "A museum in Livorno displaying religious art and liturgical items from the diocese.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "A museum documenting the rich history and culture of the Jewish community in Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "A museum exploring the urban and social history of Livorno through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "A museum dedicated to sacred art located in the Santa Giulia complex in Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "An art museum in Livorno housing a major collection of works by Giovanni Fattori and other Macchiaioli artists.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Livorno", hu: "Livorno", ro: "Livorno", en: "Livorno" },
@@ -16914,7 +18030,268 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-alessandria-cities-v2.webp",
   },
   {
-    id: "italy-brindisi-cities-v2",
+    id: "italy-brindisi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area archeologica San Pietro degli Schiavoni",
+                  "text": "Eine archäologische Stätte in Brindisi mit römischen Wohnhausresten.",
+                  "category": "historical",
+                  "coords": [
+                        17.944564,
+                        40.638834
+                  ]
+            },
+            {
+                  "name": "Vasche Limarie",
+                  "text": "Antike römische Klärbecken, die für das Wasserversorgungssystem der Stadt genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        17.939458,
+                        40.636143
+                  ]
+            },
+            {
+                  "name": "Castello Alfonsino",
+                  "text": "Eine Meeresfestung aus dem 15. Jahrhundert auf der Insel Sant'Andrea in Brindisi.",
+                  "category": "castle",
+                  "coords": [
+                        17.9674,
+                        40.655527
+                  ]
+            },
+            {
+                  "name": "Schloss Friedrich II",
+                  "text": "Diese imposante schwäbische Burg in Brindisi wurde im 13. Jahrhundert zur Verteidigung des Hafens errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        17.937208,
+                        40.640283
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale F. Ribezzo",
+                  "text": "Das Museum zeigt eine umfangreiche Sammlung archäologischer Funde aus der antiken Geschichte der Provinz Brindisi.",
+                  "category": "museum",
+                  "coords": [
+                        17.94547,
+                        40.640659
+                  ]
+            },
+            {
+                  "name": "Colonne Romane Terminali Via Appia",
+                  "text": "Diese antiken römischen Säulen markieren das traditionelle Ende der Via Appia am Hafen von Brindisi.",
+                  "category": "historical",
+                  "coords": [
+                        17.946741,
+                        40.641103
+                  ]
+            },
+            {
+                  "name": "Teatro Kopò",
+                  "text": "Ein zeitgenössisches Theater in Brindisi, das ein vielfältiges Programm an kulturellen Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.931427,
+                        40.62425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area archeologica San Pietro degli Schiavoni",
+                  "text": "Régészeti lelőhely Brindisiben, amely római kori lakóházak maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        17.944564,
+                        40.638834
+                  ]
+            },
+            {
+                  "name": "Vasche Limarie",
+                  "text": "Ókori római ülepítőmedencék, amelyeket a város vízellátó rendszeréhez használtak.",
+                  "category": "historical",
+                  "coords": [
+                        17.939458,
+                        40.636143
+                  ]
+            },
+            {
+                  "name": "Castello Alfonsino",
+                  "text": "15. századi tengeri erőd a brindisii Szent András-szigeten.",
+                  "category": "castle",
+                  "coords": [
+                        17.9674,
+                        40.655527
+                  ]
+            },
+            {
+                  "name": "Castello Svevo di Brindisi",
+                  "text": "Ez az impozáns brindisi sváb vár a 13. században épült a kikötő védelmére.",
+                  "category": "castle",
+                  "coords": [
+                        17.937208,
+                        40.640283
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale F. Ribezzo",
+                  "text": "A múzeum a Brindisi tartomány ókori történelméből származó régészeti leletek gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.94547,
+                        40.640659
+                  ]
+            },
+            {
+                  "name": "Colonne Romane Terminali Via Appia",
+                  "text": "Ezek az antik római oszlopok jelzik a Via Appia hagyományos végét Brindisi kikötőjében.",
+                  "category": "historical",
+                  "coords": [
+                        17.946741,
+                        40.641103
+                  ]
+            },
+            {
+                  "name": "Teatro Kopò",
+                  "text": "Kortárs színház Brindisiben, amely változatos kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.931427,
+                        40.62425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area archeologica San Pietro degli Schiavoni",
+                  "text": "Un sit arheologic în Brindisi care cuprinde vestigii ale unor locuințe romane.",
+                  "category": "historical",
+                  "coords": [
+                        17.944564,
+                        40.638834
+                  ]
+            },
+            {
+                  "name": "Vasche Limarie",
+                  "text": "Rezervoare romane antice de decantare folosite pentru sistemul de alimentare cu apă al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        17.939458,
+                        40.636143
+                  ]
+            },
+            {
+                  "name": "Castello Alfonsino",
+                  "text": "O fortăreață maritimă din secolul al XV-lea situată pe insula Sfântul Andrei din Brindisi.",
+                  "category": "castle",
+                  "coords": [
+                        17.9674,
+                        40.655527
+                  ]
+            },
+            {
+                  "name": "Castello Svevo di Brindisi",
+                  "text": "Acest castel suev impunător din Brindisi a fost construit în secolul al XIII-lea pentru apărarea portului.",
+                  "category": "castle",
+                  "coords": [
+                        17.937208,
+                        40.640283
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale F. Ribezzo",
+                  "text": "Muzeul expune o colecție vastă de descoperiri arheologice din istoria antică a provinciei Brindisi.",
+                  "category": "museum",
+                  "coords": [
+                        17.94547,
+                        40.640659
+                  ]
+            },
+            {
+                  "name": "Colonne Romane Terminali Via Appia",
+                  "text": "Aceste coloane romane antice marchează sfârșitul tradițional al drumului Via Appia în portul Brindisi.",
+                  "category": "historical",
+                  "coords": [
+                        17.946741,
+                        40.641103
+                  ]
+            },
+            {
+                  "name": "Teatro Kopò",
+                  "text": "Un teatru contemporan din Brindisi, care oferă un program divers de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.931427,
+                        40.62425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area archeologica San Pietro degli Schiavoni",
+                  "text": "An archaeological site in Brindisi featuring Roman residential remains.",
+                  "category": "historical",
+                  "coords": [
+                        17.944564,
+                        40.638834
+                  ]
+            },
+            {
+                  "name": "Vasche Limarie",
+                  "text": "Ancient Roman settling tanks used for the city's water supply system.",
+                  "category": "historical",
+                  "coords": [
+                        17.939458,
+                        40.636143
+                  ]
+            },
+            {
+                  "name": "Castello Alfonsino",
+                  "text": "A 15th-century sea fortress located on Saint Andrew's Island in Brindisi.",
+                  "category": "castle",
+                  "coords": [
+                        17.9674,
+                        40.655527
+                  ]
+            },
+            {
+                  "name": "Castello Svevo di Brindisi",
+                  "text": "This imposing Swabian castle in Brindisi was built in the 13th century to defend the harbor.",
+                  "category": "castle",
+                  "coords": [
+                        17.937208,
+                        40.640283
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale F. Ribezzo",
+                  "text": "The museum displays an extensive collection of archaeological finds from the ancient history of the province of Brindisi.",
+                  "category": "museum",
+                  "coords": [
+                        17.94547,
+                        40.640659
+                  ]
+            },
+            {
+                  "name": "Roman Columns - Terminal part of Appian way",
+                  "text": "These ancient Roman columns mark the traditional end of the Appian Way at the port of Brindisi.",
+                  "category": "historical",
+                  "coords": [
+                        17.946741,
+                        40.641103
+                  ]
+            },
+            {
+                  "name": "Teatro Kopò",
+                  "text": "A contemporary theatre in Brindisi that offers a diverse program of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.931427,
+                        40.62425
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Brindisi", hu: "Brindisi", ro: "Brindisi", en: "Brindisi" },
@@ -19164,7 +20541,304 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-trento-muse-cities-v2.webp",
   },
   {
-    id: "italy-ancona-mole-vanvitelliana-cities-v2",
+    id: "italy-ancona-mole-vanvitelliana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Ein innovatives Museum in Ancona, das Kunst durch Tastsinn erfahrbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Ein bedeutendes Kunstmuseum mit Werken aus der Region Marken.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Ein modernes Theater und Kulturzentrum in der Mole Vanvitelliana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Ein Museum in Ancona, das der Geschichte der Telekommunikation gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Ein Museum in Ancona mit Funden von der Vorgeschichte bis zur Römerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Eine historische Festungsanlage auf einem Hügel in Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Eine markante Festung auf dem Hügel Astagno mit Blick über Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ein Teil der historischen Verteidigungsanlagen von Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Innovatív múzeum Anconában, ahol a művészet érintéssel is megtapasztalható.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Jelentős művészeti múzeum Marche régióból származó alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Modern színház és kulturális központ a Mole Vanvitelliana területén.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "A távközlés történetének szentelt múzeum Anconában.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Múzeum Anconában az őskortól a római korig terjedő leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Történelmi erődítmény egy dombon Ancona városában.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Jellegzetes erőd az Astagno-dombon, kilátással Anconára.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ancona történelmi védelmi rendszerének egyik eleme.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Un muzeu inovator în Ancona care permite experimentarea artei prin simțul tactil.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Un important muzeu de artă care găzduiește lucrări din regiunea Marche.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Un teatru modern și centru cultural situat în Mole Vanvitelliana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Un muzeu din Ancona dedicat istoriei telecomunicațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Un muzeu din Ancona cu descoperiri de la preistorie până în epoca romană.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "O fortificație istorică situată pe un deal din Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "O fortăreață proeminentă pe dealul Astagno, cu vedere spre Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "O parte a fortificațiilor istorice de apărare ale orașului Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "An innovative museum in Ancona that allows experiencing art through the sense of touch.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "A significant art museum housing works from the Marche region.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "A modern theatre and cultural centre located in the Mole Vanvitelliana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "A museum in Ancona dedicated to the history of telecommunications.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "A museum in Ancona with finds ranging from prehistory to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "A historical fortification situated on a hill in Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "A prominent fortress on Astagno Hill overlooking Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "A part of the historical defensive fortifications of Ancona.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Mole Vanvitelliana", hu: "Mole Vanvitelliana", ro: "Mole Vanvitelliana", en: "Mole Vanvitelliana" },

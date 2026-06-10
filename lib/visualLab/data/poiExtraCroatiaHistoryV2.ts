@@ -417,7 +417,232 @@ imageHint: "Trakošćan Castle reflected in lake",
     },
     image: "/poi-images/croatia-trakoscan-castle-history-v2.webp",
 },  {
-    id: "croatia-veliki-tabor-history-v2",
+    id: "croatia-veliki-tabor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliki Tabor",
+                  "text": "Eine gut erhaltene mittelalterliche Burg und Festung in Kroatien.",
+                  "category": "castle",
+                  "coords": [
+                        15.651491,
+                        46.154663
+                  ]
+            },
+            {
+                  "name": "Dvorac Miljana",
+                  "text": "Ein Barockschloss, das für seine Wandmalereien und Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.61495,
+                        46.129298
+                  ]
+            },
+            {
+                  "name": "Wellness Termalija",
+                  "text": "Ein modernes Thermalbad und Wasserpark in Podčetrtek.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607732,
+                        46.157133
+                  ]
+            },
+            {
+                  "name": "Wellness Orhidelia",
+                  "text": "Ein prestigeträchtiges Thermal-Wellnesszentrum mit Entspannung und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        15.606252,
+                        46.156864
+                  ]
+            },
+            {
+                  "name": "Termalni park Aqualuna",
+                  "text": "Ein großer Wasserpark mit mehreren Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605535,
+                        46.16445
+                  ]
+            },
+            {
+                  "name": "Općina Desinić",
+                  "text": "Das Verwaltungszentrum und die Gemeinde Desinić.",
+                  "category": "landmark",
+                  "coords": [
+                        15.667916,
+                        46.148796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Tabor",
+                  "text": "Jól megőrzött középkori vár és erőd Horvátországban.",
+                  "category": "castle",
+                  "coords": [
+                        15.651491,
+                        46.154663
+                  ]
+            },
+            {
+                  "name": "Dvorac Miljana",
+                  "text": "Barokk kastély, amely falfestményeiről és építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.61495,
+                        46.129298
+                  ]
+            },
+            {
+                  "name": "Wellness Termalija",
+                  "text": "Modern termálfürdő és aquapark Podčetrtekben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607732,
+                        46.157133
+                  ]
+            },
+            {
+                  "name": "Wellness Orhidelia",
+                  "text": "Rangos termál wellness központ kikapcsolódási lehetőségekkel és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        15.606252,
+                        46.156864
+                  ]
+            },
+            {
+                  "name": "Termalni park Aqualuna",
+                  "text": "Nagy aquapark számos csúszdával és medencével.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605535,
+                        46.16445
+                  ]
+            },
+            {
+                  "name": "Općina Desinić",
+                  "text": "Desinić közigazgatási központja és községe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.667916,
+                        46.148796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Tabor",
+                  "text": "Un castel și o cetate medievală bine conservată din Croația.",
+                  "category": "castle",
+                  "coords": [
+                        15.651491,
+                        46.154663
+                  ]
+            },
+            {
+                  "name": "Dvorac Miljana",
+                  "text": "Un castel baroc cunoscut pentru picturile sale murale și arhitectură.",
+                  "category": "castle",
+                  "coords": [
+                        15.61495,
+                        46.129298
+                  ]
+            },
+            {
+                  "name": "Wellness Termalija",
+                  "text": "Un centru spa termal modern și parc acvatic în Podčetrtek.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607732,
+                        46.157133
+                  ]
+            },
+            {
+                  "name": "Wellness Orhidelia",
+                  "text": "Un centru de wellness termal prestigios care oferă relaxare și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        15.606252,
+                        46.156864
+                  ]
+            },
+            {
+                  "name": "Termalni park Aqualuna",
+                  "text": "Un parc acvatic mare, cu numeroase tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605535,
+                        46.16445
+                  ]
+            },
+            {
+                  "name": "Općina Desinić",
+                  "text": "Centrul administrativ și municipalitatea din Desinić.",
+                  "category": "landmark",
+                  "coords": [
+                        15.667916,
+                        46.148796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Tabor",
+                  "text": "A well-preserved medieval castle and fortress in Croatia.",
+                  "category": "castle",
+                  "coords": [
+                        15.651491,
+                        46.154663
+                  ]
+            },
+            {
+                  "name": "Dvorac Miljana",
+                  "text": "A Baroque castle known for its wall paintings and architecture.",
+                  "category": "castle",
+                  "coords": [
+                        15.61495,
+                        46.129298
+                  ]
+            },
+            {
+                  "name": "Wellness Termalija",
+                  "text": "A modern thermal spa and water park in Podčetrtek.",
+                  "category": "recreational",
+                  "coords": [
+                        15.607732,
+                        46.157133
+                  ]
+            },
+            {
+                  "name": "Wellness Orhidelia",
+                  "text": "A prestigious thermal wellness center offering relaxation and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        15.606252,
+                        46.156864
+                  ]
+            },
+            {
+                  "name": "Thermal park Aqualuna",
+                  "text": "A large water park with multiple slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605535,
+                        46.16445
+                  ]
+            },
+            {
+                  "name": "Općina Desinić",
+                  "text": "The administrative center and municipality of Desinić.",
+                  "category": "landmark",
+                  "coords": [
+                        15.667916,
+                        46.148796
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "castle",
     name: { de: "Burg Veliki Tabor", hu: "Nagytábor vára", ro: "Cetatea Veliki Tabor", en: "Veliki Tabor Castle"},
@@ -969,7 +1194,232 @@ imageHint: "Ruins of Byzantine castrum in Brijuni",
     },
     image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp",
 },  {
-    id: "croatia-gvozdansko-castle-history-v2",
+    id: "croatia-gvozdansko-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stari grad Gvozdansko",
+                  "text": "Die Ruinen einer mittelalterlichen kroatischen Festung, die für ihre historische Belagerung bekannt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        16.215683,
+                        45.133294
+                  ]
+            },
+            {
+                  "name": "Kapija",
+                  "text": "Ein lokaler Berggipfel in der waldreichen Hügellandschaft bei Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229532,
+                        45.161358
+                  ]
+            },
+            {
+                  "name": "Prošja",
+                  "text": "Ein Gipfel in der Region Gvozdansko, der Teil der lokalen Mittelgebirgslandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.173394,
+                        45.117265
+                  ]
+            },
+            {
+                  "name": "Stražbenica",
+                  "text": "Ein Berggipfel in der Nähe der historischen Festung Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "Eine Erhebung in der Umgebung von Gvozdansko mit Blick auf die kroatische Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        16.216475,
+                        45.140806
+                  ]
+            },
+            {
+                  "name": "Vijenac",
+                  "text": "Ein weiterer Berggipfel in der hügeligen Gegend um das Schloss Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.197305,
+                        45.13627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Gvozdansko",
+                  "text": "Egy középkori horvát erőd romjai, amely történelmi ostromáról nevezetes.",
+                  "category": "fortress",
+                  "coords": [
+                        16.215683,
+                        45.133294
+                  ]
+            },
+            {
+                  "name": "Kapija",
+                  "text": "Helyi hegycsúcs Gvozdansko környékének erdős dombvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229532,
+                        45.161358
+                  ]
+            },
+            {
+                  "name": "Prošja",
+                  "text": "Csúcs a Gvozdansko régióban, amely a helyi középhegységi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        16.173394,
+                        45.117265
+                  ]
+            },
+            {
+                  "name": "Stražbenica",
+                  "text": "Hegycsúcs a történelmi gvozdanskói erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "Kiemelkedés Gvozdansko környékén, kilátással a horvát tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        16.216475,
+                        45.140806
+                  ]
+            },
+            {
+                  "name": "Vijenac",
+                  "text": "Egy újabb hegycsúcs a Gvozdansko vára körüli dombos vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        16.197305,
+                        45.13627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Gvozdansko",
+                  "text": "Ruinele unei cetăți medievale croate, cunoscută pentru asediul său istoric.",
+                  "category": "fortress",
+                  "coords": [
+                        16.215683,
+                        45.133294
+                  ]
+            },
+            {
+                  "name": "Kapija",
+                  "text": "Un vârf muntos local în peisajul deluros și împădurit de lângă Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229532,
+                        45.161358
+                  ]
+            },
+            {
+                  "name": "Prošja",
+                  "text": "Un vârf din regiunea Gvozdansko, făcând parte din peisajul montan local.",
+                  "category": "landmark",
+                  "coords": [
+                        16.173394,
+                        45.117265
+                  ]
+            },
+            {
+                  "name": "Stražbenica",
+                  "text": "Un vârf muntos situat în apropierea cetății istorice Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "O formă de relief în împrejurimile Gvozdansko, oferind vederi asupra peisajului croat.",
+                  "category": "landmark",
+                  "coords": [
+                        16.216475,
+                        45.140806
+                  ]
+            },
+            {
+                  "name": "Vijenac",
+                  "text": "Un alt vârf muntos în zona deluroasă din jurul castelului Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.197305,
+                        45.13627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stari grad Gvozdansko",
+                  "text": "The ruins of a medieval Croatian fortress, famous for its historic siege.",
+                  "category": "fortress",
+                  "coords": [
+                        16.215683,
+                        45.133294
+                  ]
+            },
+            {
+                  "name": "Kapija",
+                  "text": "A local mountain peak in the forested hilly landscape near Gvozdansko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229532,
+                        45.161358
+                  ]
+            },
+            {
+                  "name": "Prošja",
+                  "text": "A peak in the Gvozdansko region, part of the local mid-mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        16.173394,
+                        45.117265
+                  ]
+            },
+            {
+                  "name": "Stražbenica",
+                  "text": "A mountain peak located near the historic Gvozdansko fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "An elevation in the vicinity of Gvozdansko with views over the Croatian landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        16.216475,
+                        45.140806
+                  ]
+            },
+            {
+                  "name": "Vijenac",
+                  "text": "Another mountain peak in the hilly area surrounding Gvozdansko Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        16.197305,
+                        45.13627
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "castle",
     name: { de: "Burg Gvozdansko", hu: "Gvozdanszkó vára", ro: "Castelul Gvozdansko", en: "Gvozdansko Castle"},
@@ -1608,7 +2058,52 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-klostar-ivanic-monastery-history-v2.webp",
   },
   {
-    id: "croatia-sokolac-castle-history-v2",
+    id: "croatia-sokolac-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stražbenica",
+                  "text": "Ein Berggipfel in der Nähe der Burg Sokolac, der weite Ausblicke über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stražbenica",
+                  "text": "Hegycsúcs Sokolac vára közelében, amely tágas kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stražbenica",
+                  "text": "Un vârf montan în apropiere de castelul Sokolac, oferind vederi panoramice asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stražbenica",
+                  "text": "A mountain peak near Sokolac Castle, offering expansive views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.229189,
+                        45.124251
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "HR",
     name: { de: "Burg Sokolac", hu: "Sokolac vár", ro: "Castelul Sokolac", en: "Sokolac Castle" },
@@ -1653,7 +2148,124 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-sokolac-castle-history-v2.webp",
   },
   {
-    id: "croatia-modrus-fortress-history-v2",
+    id: "croatia-modrus-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliki Makovnik",
+                  "text": "Gipfel in der Nähe der Festung Modruš.",
+                  "category": "landmark",
+                  "coords": [
+                        15.260874,
+                        45.098785
+                  ]
+            },
+            {
+                  "name": "Modruš",
+                  "text": "Ruinen der historischen Festung Modruš in Kroatien.",
+                  "category": "historical",
+                  "coords": [
+                        15.246658,
+                        45.148662
+                  ]
+            },
+            {
+                  "name": "Pavlinski samostan sv. Nikola Gvozd",
+                  "text": "Ruinen eines Paulinerklosters in Modruš.",
+                  "category": "historical",
+                  "coords": [
+                        15.224464,
+                        45.111829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Makovnik",
+                  "text": "Hegycsúcs a modrusi vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.260874,
+                        45.098785
+                  ]
+            },
+            {
+                  "name": "Modruš",
+                  "text": "A történelmi Modrus várának romjai Horvátországban.",
+                  "category": "historical",
+                  "coords": [
+                        15.246658,
+                        45.148662
+                  ]
+            },
+            {
+                  "name": "Pavlinski samostan sv. Nikola Gvozd",
+                  "text": "Egy pálos kolostor romjai Modrusban.",
+                  "category": "historical",
+                  "coords": [
+                        15.224464,
+                        45.111829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Makovnik",
+                  "text": "Vârf muntos în apropierea cetății Modruš.",
+                  "category": "landmark",
+                  "coords": [
+                        15.260874,
+                        45.098785
+                  ]
+            },
+            {
+                  "name": "Modruš",
+                  "text": "Ruinele cetății istorice Modruš din Croația.",
+                  "category": "historical",
+                  "coords": [
+                        15.246658,
+                        45.148662
+                  ]
+            },
+            {
+                  "name": "Pavlinski samostan sv. Nikola Gvozd",
+                  "text": "Ruinele unei mănăstiri pauline din Modruš.",
+                  "category": "historical",
+                  "coords": [
+                        15.224464,
+                        45.111829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Makovnik",
+                  "text": "Mountain peak near the Modruš Fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        15.260874,
+                        45.098785
+                  ]
+            },
+            {
+                  "name": "Modruš",
+                  "text": "Ruins of the historic Modruš Fortress in Croatia.",
+                  "category": "historical",
+                  "coords": [
+                        15.246658,
+                        45.148662
+                  ]
+            },
+            {
+                  "name": "Pavlinski samostan sv. Nikola Gvozd",
+                  "text": "Ruins of a Paulist monastery in Modruš.",
+                  "category": "historical",
+                  "coords": [
+                        15.224464,
+                        45.111829
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "HR",
     name: { de: "Festung Modruš", hu: "Modruš vára", ro: "Fortăreața Modruš", en: "Modruš Fortress" },
@@ -1833,7 +2445,232 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-st-vitus-church-rijeka-history-v2.webp",
   },
   {
-    id: "croatia-gornja-stubica-castle-history-v2",
+    id: "croatia-gornja-stubica-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej seljačkih buna",
+                  "text": "Das Museum im Schloss Oršić dokumentiert den kroatischen Bauernaufstand von 1573.",
+                  "category": "museum",
+                  "coords": [
+                        16.016794,
+                        45.984814
+                  ]
+            },
+            {
+                  "name": "Terme Jezerčica",
+                  "text": "Ein Thermal- und Wasserpark mit Pools und Wellnessangeboten in der Nähe von Gornja Stubica.",
+                  "category": "recreational",
+                  "coords": [
+                        15.956003,
+                        45.9818
+                  ]
+            },
+            {
+                  "name": "Stubički Golubovec",
+                  "text": "Ein historisches Schloss in der Region, das ein Beispiel lokaler Architektur darstellt.",
+                  "category": "castle",
+                  "coords": [
+                        15.99132,
+                        45.979513
+                  ]
+            },
+            {
+                  "name": "Spomen-park Rudolfu Perešinu",
+                  "text": "Ein Gedenkpark für den Piloten Rudolf Perešin mit einer ausgestellten MiG-21.",
+                  "category": "park",
+                  "coords": [
+                        16.017572,
+                        45.975041
+                  ]
+            },
+            {
+                  "name": "Grad labirinata",
+                  "text": "Eine lokale Attraktion mit verschiedenen Labyrinthen zur spielerischen Erkundung.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951191,
+                        45.982733
+                  ]
+            },
+            {
+                  "name": "Općina Stubičke Toplice",
+                  "text": "Das Verwaltungsgebäude von Stubičke Toplice, einem bekannten kroatischen Kurort.",
+                  "category": "landmark",
+                  "coords": [
+                        15.930066,
+                        45.977447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej seljačkih buna",
+                  "text": "Az Oršić-kastélyban található múzeum az 1573-as horvát parasztfelkelést dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        16.016794,
+                        45.984814
+                  ]
+            },
+            {
+                  "name": "Terme Jezerčica",
+                  "text": "Termál- és vízipark medencékkel és wellness-szolgáltatásokkal Gornja Stubica közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.956003,
+                        45.9818
+                  ]
+            },
+            {
+                  "name": "Stubički Golubovec",
+                  "text": "Történelmi kastély a régióban, amely a helyi építészet egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        15.99132,
+                        45.979513
+                  ]
+            },
+            {
+                  "name": "Spomen-park Rudolfu Perešinu",
+                  "text": "Emlékpark Rudolf Perešin pilóta tiszteletére, egy kiállított MiG-21-essel.",
+                  "category": "park",
+                  "coords": [
+                        16.017572,
+                        45.975041
+                  ]
+            },
+            {
+                  "name": "Grad labirinata",
+                  "text": "Helyi attrakció különféle labirintusokkal a játékos felfedezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951191,
+                        45.982733
+                  ]
+            },
+            {
+                  "name": "Općina Stubičke Toplice",
+                  "text": "Stubičke Toplice, a népszerű horvát fürdőhely közigazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.930066,
+                        45.977447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej seljačkih buna",
+                  "text": "Muzeul din castelul Oršić documentează răscoala țărănească croată din 1573.",
+                  "category": "museum",
+                  "coords": [
+                        16.016794,
+                        45.984814
+                  ]
+            },
+            {
+                  "name": "Terme Jezerčica",
+                  "text": "Un parc termal și acvatic cu piscine și facilități de wellness lângă Gornja Stubica.",
+                  "category": "recreational",
+                  "coords": [
+                        15.956003,
+                        45.9818
+                  ]
+            },
+            {
+                  "name": "Stubički Golubovec",
+                  "text": "Un castel istoric din regiune, care reprezintă un exemplu de arhitectură locală.",
+                  "category": "castle",
+                  "coords": [
+                        15.99132,
+                        45.979513
+                  ]
+            },
+            {
+                  "name": "Spomen-park Rudolfu Perešinu",
+                  "text": "Un parc memorial pentru pilotul Rudolf Perešin, cu un avion MiG-21 expus.",
+                  "category": "park",
+                  "coords": [
+                        16.017572,
+                        45.975041
+                  ]
+            },
+            {
+                  "name": "Grad labirinata",
+                  "text": "O atracție locală cu diverse labirinturi pentru explorare ludică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951191,
+                        45.982733
+                  ]
+            },
+            {
+                  "name": "Općina Stubičke Toplice",
+                  "text": "Clădirea administrativă din Stubičke Toplice, o populară stațiune balneară croată.",
+                  "category": "landmark",
+                  "coords": [
+                        15.930066,
+                        45.977447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej seljačkih buna",
+                  "text": "The museum in Oršić Castle documents the Croatian peasant revolt of 1573.",
+                  "category": "museum",
+                  "coords": [
+                        16.016794,
+                        45.984814
+                  ]
+            },
+            {
+                  "name": "Terme Jezerčica",
+                  "text": "A thermal and water park with pools and wellness facilities near Gornja Stubica.",
+                  "category": "recreational",
+                  "coords": [
+                        15.956003,
+                        45.9818
+                  ]
+            },
+            {
+                  "name": "Stubički Golubovec",
+                  "text": "A historic castle in the region, representing an example of local architecture.",
+                  "category": "castle",
+                  "coords": [
+                        15.99132,
+                        45.979513
+                  ]
+            },
+            {
+                  "name": "Spomen-park Rudolfu Perešinu",
+                  "text": "A memorial park for pilot Rudolf Perešin, featuring a displayed MiG-21.",
+                  "category": "park",
+                  "coords": [
+                        16.017572,
+                        45.975041
+                  ]
+            },
+            {
+                  "name": "City of labyrinths",
+                  "text": "A local attraction featuring various labyrinths for playful exploration.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951191,
+                        45.982733
+                  ]
+            },
+            {
+                  "name": "Općina Stubičke Toplice",
+                  "text": "The administrative building of Stubičke Toplice, a popular Croatian spa resort.",
+                  "category": "landmark",
+                  "coords": [
+                        15.930066,
+                        45.977447
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "HR",
     name: { de: "Burg Oršić Gornja Stubica", hu: "Oršić-kastély Gornja Stubica", ro: "Castelul Oršić Gornja Stubica", en: "Oršić Castle Gornja Stubica" },

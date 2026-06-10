@@ -49,7 +49,160 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
     },
     image: "/poi-images/uk-slieve-donard-relief-v2.webp",
 },  {
-    id: "uk-the-pennines-relief-v2",
+    id: "uk-the-pennines-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rey Cross Roman Camp",
+                  "text": "Die Überreste eines antiken römischen Militärlagers in den Pennines.",
+                  "category": "historical",
+                  "coords": [
+                        -2.155194,
+                        54.506655
+                  ]
+            },
+            {
+                  "name": "Roper Castle or Round Table (Roman Signal Station)",
+                  "text": "Der Standort einer ehemaligen römischen Signalstation zur Nachrichtenübermittlung.",
+                  "category": "historical",
+                  "coords": [
+                        -2.183407,
+                        54.495547
+                  ]
+            },
+            {
+                  "name": "Maiden Castle",
+                  "text": "Eine archäologische Ausgrabungsstätte in den Pennines mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        -2.198978,
+                        54.513646
+                  ]
+            },
+            {
+                  "name": "St Stephen",
+                  "text": "Eine lokale Kirche und religiöse Gebetsstätte in der Region der Pennines.",
+                  "category": "religious",
+                  "coords": [
+                        -2.246996,
+                        54.511703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rey Cross Roman Camp",
+                  "text": "Egy ókori római katonai tábor maradványai a Pennine-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.155194,
+                        54.506655
+                  ]
+            },
+            {
+                  "name": "Roper Castle or Round Table (Roman Signal Station)",
+                  "text": "Egy egykori római jelzőállomás helyszíne, amelyet kommunikációra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -2.183407,
+                        54.495547
+                  ]
+            },
+            {
+                  "name": "Maiden Castle",
+                  "text": "Régészeti lelőhely a Pennine-hegységben, ahol ősi maradványok találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -2.198978,
+                        54.513646
+                  ]
+            },
+            {
+                  "name": "St Stephen",
+                  "text": "Helyi templom és vallási istentiszteleti hely a Pennine-hegység területén.",
+                  "category": "religious",
+                  "coords": [
+                        -2.246996,
+                        54.511703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rey Cross Roman Camp",
+                  "text": "Rămășițele unei foste tabere militare romane din Munții Pennini.",
+                  "category": "historical",
+                  "coords": [
+                        -2.155194,
+                        54.506655
+                  ]
+            },
+            {
+                  "name": "Roper Castle or Round Table (Roman Signal Station)",
+                  "text": "Situl unei foste stații romane de semnalizare, utilizată pentru comunicații.",
+                  "category": "historical",
+                  "coords": [
+                        -2.183407,
+                        54.495547
+                  ]
+            },
+            {
+                  "name": "Maiden Castle",
+                  "text": "Un sit arheologic din Munții Pennini care adăpostește vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -2.198978,
+                        54.513646
+                  ]
+            },
+            {
+                  "name": "St Stephen",
+                  "text": "O biserică locală și lăcaș de cult situat în regiunea Munților Pennini.",
+                  "category": "religious",
+                  "coords": [
+                        -2.246996,
+                        54.511703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rey Cross Roman Camp",
+                  "text": "The remains of an ancient Roman military camp located in the Pennines.",
+                  "category": "historical",
+                  "coords": [
+                        -2.155194,
+                        54.506655
+                  ]
+            },
+            {
+                  "name": "Roper Castle or Round Table (Roman Signal Station)",
+                  "text": "The site of a former Roman signal station used for ancient communications.",
+                  "category": "historical",
+                  "coords": [
+                        -2.183407,
+                        54.495547
+                  ]
+            },
+            {
+                  "name": "Maiden Castle",
+                  "text": "An archaeological site in the Pennines featuring ancient historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        -2.198978,
+                        54.513646
+                  ]
+            },
+            {
+                  "name": "St Stephen",
+                  "text": "A local church and place of worship located in the Pennines region.",
+                  "category": "religious",
+                  "coords": [
+                        -2.246996,
+                        54.511703
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "The Pennines"},
@@ -95,7 +248,124 @@ imageHint: "Rolling hills of the Pennines landscape in England",
     },
     image: "/poi-images/uk-the-pennines-relief-v2.webp",
 },  {
-    id: "uk-the-cairngorms-relief-v2",
+    id: "uk-the-cairngorms-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ben Macdui",
+                  "text": "Der zweithöchste Berg im Vereinigten Königreich, gelegen in den Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.669125,
+                        57.070389
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "Ein markanter Gipfel in den Cairngorms, bekannt für seine großen Granitfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "Ein Berg mit weiter Aussicht im Cairngorms-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ben Macdui",
+                  "text": "Az Egyesült Királyság második legmagasabb hegycsúcsa a Cairngorms-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.669125,
+                        57.070389
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "A Cairngorms-hegység egyik csúcsa, amely hatalmas gránit sziklaformációiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "Hegicsúcs a Cairngorms Nemzeti Parkban, szép kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ben Macdui",
+                  "text": "Al doilea cel mai înalt munte din Regatul Unit, situat în Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.669125,
+                        57.070389
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "Un vârf proeminent din Cairngorms, cunoscut pentru formațiunile sale mari de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "Un vârf montan cu vederi panoramice în Parcul Național Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ben Macdui",
+                  "text": "The second highest mountain in the United Kingdom, located in the Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.669125,
+                        57.070389
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "A prominent peak in the Cairngorms known for its large granite tors.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "A mountain peak offering scenic views in the Cairngorms National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Cairngorms", hu: "Cairngorm-hegység", ro: "Munții Cairngorms", en: "The Cairngorms"},
@@ -233,7 +503,268 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
     },
     image: "/poi-images/uk-brecon-beacons-relief-v2.webp",
 },  {
-    id: "uk-dartmoor-relief-v2",
+    id: "uk-dartmoor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "Eine archäologische Ausgrabungsstätte im Dartmoor-Nationalpark in England.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Eine antike Fundstätte im Dartmoor, die Zeugnis von früher Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Eine markante archäologische Stätte in der Heidelandschaft von Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Crock of Gold (Cairn and Cist)",
+                  "text": "Eine prähistorische Grabstätte bestehend aus einem Steinhaufen und einer Steinkiste im Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.959388,
+                        50.541298
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Ein prähistorischer Steinhaufen, der als Grabmal oder Markierung im Dartmoor dient.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "Eine antike Kreisgrabenanlage im Dartmoor-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Down Ridge stone circle",
+                  "text": "Ein prähistorischer Steinkreis auf dem Down Ridge im Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899168,
+                        50.53289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "Régészeti lelőhely az angliai Dartmoor nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Dartmoor területén található ősi lelőhely, amely a korai benépesülés nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Jellegzetes régészeti helyszín Dartmoor lápos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Crock of Gold (Cairn and Cist)",
+                  "text": "Dartmoor területén található prehisztorikus sírhely, amely kőhalomból és kőládából áll.",
+                  "category": "historical",
+                  "coords": [
+                        -3.959388,
+                        50.541298
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Prehisztorikus kőhalom Dartmoorban, amely sírként vagy jelzőként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "Ősi kör alakú sáncmű Dartmoor nemzeti parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Down Ridge stone circle",
+                  "text": "Prehisztorikus kőkör a Dartmoor területén található Down Ridge-en.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899168,
+                        50.53289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "Un sit arheologic situat în Parcul Național Dartmoor din Anglia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Un sit antic din Dartmoor care atestă locuirea timpurie a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Un sit arheologic distinctiv situat în peisajul de mlaștină din Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Crock of Gold (Cairn and Cist)",
+                  "text": "Un mormânt preistoric format dintr-un tumul și o cistă în Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.959388,
+                        50.541298
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Un tumul de piatră preistoric din Dartmoor, servind drept monument funerar sau reper.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "O veche structură circulară situată în Parcul Național Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Down Ridge stone circle",
+                  "text": "Un cerc de piatră preistoric situat pe Down Ridge în Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899168,
+                        50.53289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "An archaeological site located within the Dartmoor National Park in England.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "An ancient archaeological site in Dartmoor providing evidence of early human settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "A distinctive archaeological site located in the moorlands of Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Crock of Gold (Cairn and Cist)",
+                  "text": "A prehistoric burial site consisting of a cairn and a cist in Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.959388,
+                        50.541298
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "A prehistoric mound of stones in Dartmoor used as a burial monument or marker.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "An ancient circular enclosure located within Dartmoor National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Down Ridge stone circle",
+                  "text": "A prehistoric stone circle situated on Down Ridge in Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899168,
+                        50.53289
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Dartmoor", hu: "Dartmoor", ro: "Dartmoor", en: "Dartmoor"},
@@ -418,7 +949,304 @@ imageHint: "Rolling green hills of the Cotswolds",
     },
     image: "/poi-images/uk-cotswolds-relief-v2.webp",
 },  {
-    id: "uk-lake-district-relief-v2",
+    id: "uk-lake-district-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Prähistorische Felsritzungen in der Landschaft des Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "Ein bedeutender neolithischer Steinbruch für die Axtproduktion im Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Archäologische Überreste der neolithischen Steinbeilindustrie in Langdale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Alte Schalensteine und Felskunst im Lake District Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "Eine antike neolithische Axtfabrik im Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Eine prähistorische Steinbruchstätte im Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Ein markanter Hügel und Aussichtspunkt im Lake District in Cumbria.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Ein Berg im englischen Lake District, der auch als Dead Pike bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Őskori sziklavésetek a Lake District táján.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "Jelentős neolitikus kőbalta-készítő lelőhely a Lake Districtben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "A langdale-i neolitikus kőbalta-ipar régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Ősi csésze alakú mélyedések és sziklaművészet a Lake District Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "Egy őskori neolitikus baltaüzem a Lake District területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Egy praehisztorikus kőbánya a Lake District területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Egy jellegzetes domb és kilátópont a cumbriai Lake District területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Egy hegy az angol Lake Districtben, más néven Dead Pike.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Gravuri rupestre preistorice în peisajul din Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "O carieră neolitică importantă pentru producția de topoare în Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Rămășițe arheologice ale industriei neolitice a topoarelor de piatră din Langdale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Vechile semne cupulare și arta rupestră în Parcul Național Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "O fabrică de topoare neolitică situată în Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Un sit preistoric de carieră de piatră în Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Un deal proeminent și punct de belvedere în Lake District din Cumbria.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Un munte în districtul lacurilor din Anglia, cunoscut și sub numele de Dead Pike.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Prehistoric rock carvings in the Lake District landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "An important Neolithic stone axe production site in the Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Archaeological remains of the Neolithic stone axe industry in Langdale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Ancient cup marks and rock art in the Lake District National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "An ancient Neolithic axe factory located in the Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "A prehistoric quarry site showing evidence of early human activity in the Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "A prominent hill and fell offering views in the Lake District of Cumbria.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "A fell in the English Lake District, also known as Dead Pike.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Lake District", hu: "Lake District", ro: "Lake District", en: "Lake District"},
@@ -464,7 +1292,52 @@ imageHint: "Mountainous landscape and lakes of the Lake District",
     },
     image: "/poi-images/uk-lake-district-relief-v2.webp",
 },  {
-    id: "uk-mourne-mountains-relief-v2",
+    id: "uk-mourne-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ser Arlan's Grave",
+                  "text": "Ein Drehort in den Mourne Mountains, bekannt für seine malerische Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.094908,
+                        54.169507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ser Arlan's Grave",
+                  "text": "Filmes forgatási helyszín a Mourne-hegységben, amely festői tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.094908,
+                        54.169507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ser Arlan's Grave",
+                  "text": "O locație de filmare în Munții Mourne, cunoscută pentru peisajul său pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.094908,
+                        54.169507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ser Arlan's Grave",
+                  "text": "A film location in the Mourne Mountains known for its scenic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.094908,
+                        54.169507
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Mourne Mountains", hu: "Mourne-hegység", ro: "Munții Mourne", en: "Mourne Mountains"},
@@ -556,7 +1429,304 @@ imageHint: "Basalt cliffs of the Antrim Plateau",
     },
     image: "/poi-images/uk-antrim-plateau-relief-v2.webp",
 },  {
-    id: "uk-bodmin-moor-relief-v2",
+    id: "uk-bodmin-moor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emblance Downs Stone Circles",
+                  "text": "Eine archäologische Ausgrabungsstätte in Bodmin Moor mit prähistorischen Steinkreisen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.635155,
+                        50.567482
+                  ]
+            },
+            {
+                  "name": "Leaze Stone Circle",
+                  "text": "Ein antiker Steinkreis auf dem Bodmin Moor, der als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -4.632421,
+                        50.565588
+                  ]
+            },
+            {
+                  "name": "Stripple Stones",
+                  "text": "Eine bedeutende archäologische Stätte mit einem Henge und einem Steinkreis in Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.621703,
+                        50.547167
+                  ]
+            },
+            {
+                  "name": "King Arthur's Hall",
+                  "text": "Ein megalithisches Monument in Bodmin Moor, das aus einer rechteckigen Steinsetzung besteht.",
+                  "category": "historical",
+                  "coords": [
+                        -4.642393,
+                        50.568582
+                  ]
+            },
+            {
+                  "name": "The Trippet Stones",
+                  "text": "Ein prähistorischer Steinkreis aus der Bronzezeit in der Landschaft von Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.639165,
+                        50.544949
+                  ]
+            },
+            {
+                  "name": "hut circles",
+                  "text": "Überreste prähistorischer Rundhütten, die Einblicke in frühe Siedlungen in Bodmin Moor bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -4.615585,
+                        50.584273
+                  ]
+            },
+            {
+                  "name": "tumulus",
+                  "text": "Ein antiker Grabhügel in Bodmin Moor, der als archäologische Grabstätte dient.",
+                  "category": "historical",
+                  "coords": [
+                        -4.590915,
+                        50.578034
+                  ]
+            },
+            {
+                  "name": "Jamaica Inn's Daphne du Maurier & Smuggling Museum",
+                  "text": "Dieses Museum im Jamaica Inn widmet sich der Autorin Daphne du Maurier und der Geschichte des Schmuggels.",
+                  "category": "museum",
+                  "coords": [
+                        -4.566714,
+                        50.562152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emblance Downs Stone Circles",
+                  "text": "Régészeti lelőhely a Bodmin Moor lápon, ahol őskori kőkörök találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -4.635155,
+                        50.567482
+                  ]
+            },
+            {
+                  "name": "Leaze Stone Circle",
+                  "text": "Ősi kőkör a Bodmin Moor területén, amely védett régészeti emlék.",
+                  "category": "historical",
+                  "coords": [
+                        -4.632421,
+                        50.565588
+                  ]
+            },
+            {
+                  "name": "Stripple Stones",
+                  "text": "Jelentős régészeti lelőhely egy sánccal és kőkörrel a Bodmin Moor területén.",
+                  "category": "historical",
+                  "coords": [
+                        -4.621703,
+                        50.547167
+                  ]
+            },
+            {
+                  "name": "King Arthur's Hall",
+                  "text": "Megalitikus emlékmű a Bodmin Moor területén, amely egy négyszögletes kőépítményből áll.",
+                  "category": "historical",
+                  "coords": [
+                        -4.642393,
+                        50.568582
+                  ]
+            },
+            {
+                  "name": "The Trippet Stones",
+                  "text": "Bronzkori őskori kőkör a Bodmin Moor lápos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -4.639165,
+                        50.544949
+                  ]
+            },
+            {
+                  "name": "hut circles",
+                  "text": "Őskori kunyhóalapok maradványai, amelyek a korai Bodmin Moor-i településekről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -4.615585,
+                        50.584273
+                  ]
+            },
+            {
+                  "name": "tumulus",
+                  "text": "Ősi sírhalom a Bodmin Moor területén, amely régészeti temetkezési helyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -4.590915,
+                        50.578034
+                  ]
+            },
+            {
+                  "name": "Jamaica Inn's Daphne du Maurier & Smuggling Museum",
+                  "text": "A Jamaica Inn épületében található múzeum Daphne du Maurier írónőnek és a csempészet történetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -4.566714,
+                        50.562152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emblance Downs Stone Circles",
+                  "text": "Un sit arheologic în Bodmin Moor care cuprinde cercuri de piatră preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -4.635155,
+                        50.567482
+                  ]
+            },
+            {
+                  "name": "Leaze Stone Circle",
+                  "text": "Un cerc de piatră antic pe Bodmin Moor, protejat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        -4.632421,
+                        50.565588
+                  ]
+            },
+            {
+                  "name": "Stripple Stones",
+                  "text": "Un sit arheologic important cu un „henge” și un cerc de piatră în Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.621703,
+                        50.547167
+                  ]
+            },
+            {
+                  "name": "King Arthur's Hall",
+                  "text": "Un monument megalitic în Bodmin Moor, constând dintr-o structură dreptunghiulară de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -4.642393,
+                        50.568582
+                  ]
+            },
+            {
+                  "name": "The Trippet Stones",
+                  "text": "Un cerc de piatră preistoric din epoca bronzului în peisajul din Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.639165,
+                        50.544949
+                  ]
+            },
+            {
+                  "name": "hut circles",
+                  "text": "Vestigii ale unor colibe circulare preistorice, oferind indicii despre așezările timpurii din Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.615585,
+                        50.584273
+                  ]
+            },
+            {
+                  "name": "tumulus",
+                  "text": "Un tumul antic în Bodmin Moor, care servește drept loc de înmormântare arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        -4.590915,
+                        50.578034
+                  ]
+            },
+            {
+                  "name": "Jamaica Inn's Daphne du Maurier & Smuggling Museum",
+                  "text": "Acest muzeu din Jamaica Inn este dedicat autoarei Daphne du Maurier și istoriei contrabandei.",
+                  "category": "museum",
+                  "coords": [
+                        -4.566714,
+                        50.562152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emblance Downs Stone Circles",
+                  "text": "An archaeological site on Bodmin Moor featuring prehistoric stone circles.",
+                  "category": "historical",
+                  "coords": [
+                        -4.635155,
+                        50.567482
+                  ]
+            },
+            {
+                  "name": "Leaze Stone Circle",
+                  "text": "An ancient stone circle on Bodmin Moor, protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        -4.632421,
+                        50.565588
+                  ]
+            },
+            {
+                  "name": "Stripple Stones",
+                  "text": "A significant archaeological site featuring a henge and a stone circle on Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.621703,
+                        50.547167
+                  ]
+            },
+            {
+                  "name": "King Arthur's Hall",
+                  "text": "A megalithic monument on Bodmin Moor consisting of a rectangular stone enclosure.",
+                  "category": "historical",
+                  "coords": [
+                        -4.642393,
+                        50.568582
+                  ]
+            },
+            {
+                  "name": "The Trippet Stones",
+                  "text": "A prehistoric Bronze Age stone circle located in the Bodmin Moor landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -4.639165,
+                        50.544949
+                  ]
+            },
+            {
+                  "name": "hut circles",
+                  "text": "Remains of prehistoric hut circles providing insight into early settlements on Bodmin Moor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.615585,
+                        50.584273
+                  ]
+            },
+            {
+                  "name": "tumulus",
+                  "text": "An ancient burial mound on Bodmin Moor serving as an archaeological burial site.",
+                  "category": "historical",
+                  "coords": [
+                        -4.590915,
+                        50.578034
+                  ]
+            },
+            {
+                  "name": "Jamaica Inn's Daphne du Maurier & Smuggling Museum",
+                  "text": "This museum at Jamaica Inn is dedicated to author Daphne du Maurier and the history of smuggling.",
+                  "category": "museum",
+                  "coords": [
+                        -4.566714,
+                        50.562152
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Bodmin Moor", hu: "Bodmin Moor", ro: "Bodmin Moor", en: "Bodmin Moor"},
@@ -694,7 +1864,304 @@ imageHint: "Rolling chalk grasslands of Salisbury Plain",
     },
     image: "/poi-images/uk-salisbury-plain-relief-v2.webp",
 },  {
-    id: "uk-the-cuillin-relief-v2",
+    id: "uk-the-cuillin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sgùrr a' Mhadaidh",
+                  "text": "Ein dramatischer Felsgipfel in der Black Cuillin Range auf der Isle of Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.231852,
+                        57.230871
+                  ]
+            },
+            {
+                  "name": "Sgùrr a' Ghreadaidh",
+                  "text": "Der höchste Punkt im nördlichen Abschnitt des Black Cuillin Grats.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234432,
+                        57.227294
+                  ]
+            },
+            {
+                  "name": "Sgùrr na Banachdaich",
+                  "text": "Ein markanter Gipfel in den Black Cuillin, bekannt für seine weite Aussicht auf die Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.241713,
+                        57.220976
+                  ]
+            },
+            {
+                  "name": "The Inaccessible Pinnacle",
+                  "text": "Ein markanter Felsturm in den Cuillins, bekannt als der am schwierigsten zu erreichende Munro-Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234701,
+                        57.213275
+                  ]
+            },
+            {
+                  "name": "Sgùrr Mhic Choinnich",
+                  "text": "Ein markanter Berggipfel in der Cuillin-Kette auf der Isle of Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223888,
+                        57.209069
+                  ]
+            },
+            {
+                  "name": "Sgùrr Alasdair",
+                  "text": "Der höchste Gipfel der Isle of Skye, der dramatische Ausblicke auf den Cuillin-Kamm bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223737,
+                        57.206703
+                  ]
+            },
+            {
+                  "name": "Sgùrr nan Eag",
+                  "text": "Ein felsiger Berggipfel im südlichen Teil des Cuillin-Hauptkamms.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211026,
+                        57.195797
+                  ]
+            },
+            {
+                  "name": "Sgùrr Thearlaich",
+                  "text": "Ein markanter Gipfel in der Cuillin-Kette, benannt nach Charles Edward Stuart.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222743,
+                        57.20655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sgùrr a' Mhadaidh",
+                  "text": "Drámai sziklás csúcs a Black Cuillin hegységben, Skye szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.231852,
+                        57.230871
+                  ]
+            },
+            {
+                  "name": "Sgùrr a' Ghreadaidh",
+                  "text": "A Black Cuillin gerinc északi szakaszának legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234432,
+                        57.227294
+                  ]
+            },
+            {
+                  "name": "Sgùrr na Banachdaich",
+                  "text": "A Black Cuillin egyik jellegzetes csúcsa, amely tágas hegyi kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.241713,
+                        57.220976
+                  ]
+            },
+            {
+                  "name": "The Inaccessible Pinnacle",
+                  "text": "Egy feltűnő sziklatorony a Cuillin-hegységben, amely a legnehezebben elérhető Munro-csúcsként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234701,
+                        57.213275
+                  ]
+            },
+            {
+                  "name": "Sgùrr Mhic Choinnich",
+                  "text": "Egy kiemelkedő hegycsúcs a Cuillin-hegységben, Skye szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223888,
+                        57.209069
+                  ]
+            },
+            {
+                  "name": "Sgùrr Alasdair",
+                  "text": "Skye szigetének legmagasabb csúcsa, amely drámai kilátást nyújt a Cuillin-gerincre.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223737,
+                        57.206703
+                  ]
+            },
+            {
+                  "name": "Sgùrr nan Eag",
+                  "text": "Egy sziklás hegycsúcs a Cuillin-főgerinc déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211026,
+                        57.195797
+                  ]
+            },
+            {
+                  "name": "Sgùrr Thearlaich",
+                  "text": "A Cuillin-hegység egyik jellegzetes csúcsa, amelyet Charles Edward Stuartról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222743,
+                        57.20655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sgùrr a' Mhadaidh",
+                  "text": "Un vârf stâncos dramatic din lanțul munților Black Cuillin de pe insula Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.231852,
+                        57.230871
+                  ]
+            },
+            {
+                  "name": "Sgùrr a' Ghreadaidh",
+                  "text": "Cel mai înalt punct din secțiunea nordică a crestei Black Cuillin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234432,
+                        57.227294
+                  ]
+            },
+            {
+                  "name": "Sgùrr na Banachdaich",
+                  "text": "Un vârf proeminent din Black Cuillin, cunoscut pentru vederile sale montane vaste.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.241713,
+                        57.220976
+                  ]
+            },
+            {
+                  "name": "The Inaccessible Pinnacle",
+                  "text": "Un vârf stâncos spectaculos în munții Cuillin, renumit ca fiind cel mai dificil pisc Munro de escaladat.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234701,
+                        57.213275
+                  ]
+            },
+            {
+                  "name": "Sgùrr Mhic Choinnich",
+                  "text": "Un vârf montan proeminent din lanțul Cuillin de pe Insula Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223888,
+                        57.209069
+                  ]
+            },
+            {
+                  "name": "Sgùrr Alasdair",
+                  "text": "Cel mai înalt vârf de pe Insula Skye, oferind priveliști spectaculoase asupra crestei Cuillin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223737,
+                        57.206703
+                  ]
+            },
+            {
+                  "name": "Sgùrr nan Eag",
+                  "text": "Un vârf muntos stâncos situat în partea de sud a crestei principale Cuillin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211026,
+                        57.195797
+                  ]
+            },
+            {
+                  "name": "Sgùrr Thearlaich",
+                  "text": "Un vârf proeminent din lanțul Cuillin, numit după Charles Edward Stuart.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222743,
+                        57.20655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sgùrr a' Mhadaidh",
+                  "text": "A dramatic rocky peak in the Black Cuillin range on the Isle of Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.231852,
+                        57.230871
+                  ]
+            },
+            {
+                  "name": "Sgùrr a' Ghreadaidh",
+                  "text": "The highest point on the northern section of the Black Cuillin ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234432,
+                        57.227294
+                  ]
+            },
+            {
+                  "name": "Sgùrr na Banachdaich",
+                  "text": "A prominent peak in the Black Cuillin known for its expansive mountain views.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.241713,
+                        57.220976
+                  ]
+            },
+            {
+                  "name": "The Inaccessible Pinnacle",
+                  "text": "A striking rock pinnacle in the Cuillin, famous as the most challenging Munro summit to reach.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.234701,
+                        57.213275
+                  ]
+            },
+            {
+                  "name": "Sgùrr Mhic Choinnich",
+                  "text": "A prominent mountain peak in the Cuillin range on the Isle of Skye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223888,
+                        57.209069
+                  ]
+            },
+            {
+                  "name": "Sgùrr Alasdair",
+                  "text": "The highest peak on the Isle of Skye, offering dramatic views of the Cuillin ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223737,
+                        57.206703
+                  ]
+            },
+            {
+                  "name": "Sgùrr nan Eag",
+                  "text": "A rocky mountain peak located in the southern part of the main Cuillin ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211026,
+                        57.195797
+                  ]
+            },
+            {
+                  "name": "Sgùrr Thearlaich",
+                  "text": "A prominent peak in the Cuillin range, named after Charles Edward Stuart.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222743,
+                        57.20655
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "The Cuillin", hu: "The Cuillin", ro: "Munții Cuillin", en: "The Cuillin"},
@@ -786,7 +2253,88 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
     },
     image: "/poi-images/uk-mendip-hills-relief-v2.webp",
 },  {
-    id: "uk-sperrin-mountains-relief-v2",
+    id: "uk-sperrin-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goles Stone Row",
+                  "text": "Eine prähistorische Steinreihe in den Sperrin Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -6.959429,
+                        54.796392
+                  ]
+            },
+            {
+                  "name": "Sawel",
+                  "text": "Der höchste Berggipfel in den Sperrin Mountains an der Grenze der Grafschaften Tyrone und Londonderry.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.039403,
+                        54.8197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goles Stone Row",
+                  "text": "Egy őskori kősor a Sperrin-hegység területén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.959429,
+                        54.796392
+                  ]
+            },
+            {
+                  "name": "Sawel",
+                  "text": "A Sperrin-hegység legmagasabb csúcsa Tyrone és Londonderry megyék határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.039403,
+                        54.8197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goles Stone Row",
+                  "text": "Un aliniament de piatră preistoric situat în Munții Sperrin.",
+                  "category": "historical",
+                  "coords": [
+                        -6.959429,
+                        54.796392
+                  ]
+            },
+            {
+                  "name": "Sawel",
+                  "text": "Cel mai înalt vârf din Munții Sperrin, situat la granița dintre comitatele Tyrone și Londonderry.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.039403,
+                        54.8197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goles Stone Row",
+                  "text": "A prehistoric stone row located in the Sperrin Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -6.959429,
+                        54.796392
+                  ]
+            },
+            {
+                  "name": "Sawel",
+                  "text": "The highest peak in the Sperrin Mountains on the border of counties Tyrone and Londonderry.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.039403,
+                        54.8197
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "mountain",
     name: { de: "Sperrin Mountains", hu: "Sperrin-hegység", ro: "Munții Sperrin", en: "Sperrin Mountains"},
@@ -832,7 +2380,268 @@ imageHint: "Rounded peaks of the Sperrin Mountains",
     },
     image: "/poi-images/uk-sperrin-mountains-relief-v2.webp",
 },  {
-    id: "uk-north-york-moors-relief-v2",
+    id: "uk-north-york-moors-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kettle Howe",
+                  "text": "Eine historische Grabstätte in der Heidelandschaft der North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.944085,
+                        54.372863
+                  ]
+            },
+            {
+                  "name": "ROC Bunker",
+                  "text": "Ein ehemaliger Bunker des Royal Observer Corps in den North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892552,
+                        54.341789
+                  ]
+            },
+            {
+                  "name": "Shunner Howe",
+                  "text": "Ein markanter antiker Grabhügel in der Region North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.858066,
+                        54.383409
+                  ]
+            },
+            {
+                  "name": "Trattle Howe",
+                  "text": "Eine prähistorische archäologische Stätte in der Landschaft von North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.947536,
+                        54.378545
+                  ]
+            },
+            {
+                  "name": "Flat Howe",
+                  "text": "Ein historischer Grabhügel in den Hochmooren von North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.864309,
+                        54.399199
+                  ]
+            },
+            {
+                  "name": "Pike Howe",
+                  "text": "Ein alter Tumulus als Teil des archäologischen Erbes der North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.936658,
+                        54.356308
+                  ]
+            },
+            {
+                  "name": "Rosedale Incline Chimney",
+                  "text": "Die markanten Ruinen eines Schornsteins der ehemaligen Rosedale-Eisenbahn.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892181,
+                        54.343984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kettle Howe",
+                  "text": "Történelmi sírhalom a North York Moors fenyveseiben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.944085,
+                        54.372863
+                  ]
+            },
+            {
+                  "name": "ROC Bunker",
+                  "text": "A Királyi Megfigyelő Testület egykori bunkere a North York Moors területén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892552,
+                        54.341789
+                  ]
+            },
+            {
+                  "name": "Shunner Howe",
+                  "text": "Jellegzetes antik sírhalom a North York Moors régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.858066,
+                        54.383409
+                  ]
+            },
+            {
+                  "name": "Trattle Howe",
+                  "text": "Őskori régészeti lelőhely a North York Moors vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.947536,
+                        54.378545
+                  ]
+            },
+            {
+                  "name": "Flat Howe",
+                  "text": "Történelmi sírhalom a North York Moors lápvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.864309,
+                        54.399199
+                  ]
+            },
+            {
+                  "name": "Pike Howe",
+                  "text": "Régi sírhalom, amely a North York Moors régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        -0.936658,
+                        54.356308
+                  ]
+            },
+            {
+                  "name": "Rosedale Incline Chimney",
+                  "text": "Az egykori Rosedale vasút egyik jellegzetes kéményének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892181,
+                        54.343984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kettle Howe",
+                  "text": "Un tumul istoric situat în peisajul de câmpie din North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.944085,
+                        54.372863
+                  ]
+            },
+            {
+                  "name": "ROC Bunker",
+                  "text": "Un fost buncăr al Royal Observer Corps situat în North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892552,
+                        54.341789
+                  ]
+            },
+            {
+                  "name": "Shunner Howe",
+                  "text": "Un tumul antic proeminent situat în regiunea North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.858066,
+                        54.383409
+                  ]
+            },
+            {
+                  "name": "Trattle Howe",
+                  "text": "Un sit arheologic preistoric situat în peisajul din North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.947536,
+                        54.378545
+                  ]
+            },
+            {
+                  "name": "Flat Howe",
+                  "text": "Un tumul istoric situat în zonele înalte din North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.864309,
+                        54.399199
+                  ]
+            },
+            {
+                  "name": "Pike Howe",
+                  "text": "Un vechi tumul care face parte din moștenirea arheologică din North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.936658,
+                        54.356308
+                  ]
+            },
+            {
+                  "name": "Rosedale Incline Chimney",
+                  "text": "Ruinele proeminente ale unui coș de fum de la fosta cale ferată Rosedale.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892181,
+                        54.343984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kettle Howe",
+                  "text": "A historic burial mound located in the moorland of the North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.944085,
+                        54.372863
+                  ]
+            },
+            {
+                  "name": "ROC Bunker",
+                  "text": "A former Royal Observer Corps bunker located in the North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892552,
+                        54.341789
+                  ]
+            },
+            {
+                  "name": "Shunner Howe",
+                  "text": "A prominent ancient burial mound in the North York Moors region.",
+                  "category": "historical",
+                  "coords": [
+                        -0.858066,
+                        54.383409
+                  ]
+            },
+            {
+                  "name": "Trattle Howe",
+                  "text": "A prehistoric archaeological site in the North York Moors landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -0.947536,
+                        54.378545
+                  ]
+            },
+            {
+                  "name": "Flat Howe",
+                  "text": "A historic burial mound in the uplands of the North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.864309,
+                        54.399199
+                  ]
+            },
+            {
+                  "name": "Pike Howe",
+                  "text": "An ancient tumulus forming part of the archaeological heritage of the North York Moors.",
+                  "category": "historical",
+                  "coords": [
+                        -0.936658,
+                        54.356308
+                  ]
+            },
+            {
+                  "name": "Rosedale Incline Chimney",
+                  "text": "The prominent ruins of a chimney from the former Rosedale railway incline.",
+                  "category": "historical",
+                  "coords": [
+                        -0.892181,
+                        54.343984
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "North York Moors", hu: "North York Moors", ro: "North York Moors", en: "North York Moors"},

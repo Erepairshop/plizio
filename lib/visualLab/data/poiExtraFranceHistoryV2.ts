@@ -93,7 +93,232 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-verdun-history-v2.webp",
   },
   {
-    id: "france-guedelon-history-v2",
+    id: "france-guedelon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Ratilly",
+                  "text": "Eine mittelalterliche Festung in Treigny, die heute als bedeutendes Kunstzentrum genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        3.167369,
+                        47.55454
+                  ]
+            },
+            {
+                  "name": "Guédelon",
+                  "text": "Ein archäologisches Experiment, bei dem eine Burg mit mittelalterlichen Methoden errichtet wird.",
+                  "category": "recreational",
+                  "coords": [
+                        3.155584,
+                        47.583464
+                  ]
+            },
+            {
+                  "name": "Château de Boutissaint",
+                  "text": "Ein historisches Schloss, das an einen weitläufigen Natur- und Tierpark grenzt.",
+                  "category": "castle",
+                  "coords": [
+                        3.124911,
+                        47.579366
+                  ]
+            },
+            {
+                  "name": "Le Bois de la Folie",
+                  "text": "Ein Outdoor-Abenteuerpark mit verschiedenen Kletterparcours in den Wäldern bei Guédelon.",
+                  "category": "recreational",
+                  "coords": [
+                        3.126979,
+                        47.5726
+                  ]
+            },
+            {
+                  "name": "La Grange d'Accueil",
+                  "text": "Das Besucherzentrum des Guédelon-Projekts mit Informationen und Ausstellungen zum Burgbau.",
+                  "category": "museum",
+                  "coords": [
+                        3.15532,
+                        47.581838
+                  ]
+            },
+            {
+                  "name": "Wassermühle",
+                  "text": "Eine nach mittelalterlichem Vorbild rekonstruierte Wassermühle auf dem Gelände von Guédelon.",
+                  "category": "landmark",
+                  "coords": [
+                        3.155775,
+                        47.588752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Ratilly",
+                  "text": "Középkori erőd Treigny-ben, amely ma jelentős művészeti központként működik.",
+                  "category": "castle",
+                  "coords": [
+                        3.167369,
+                        47.55454
+                  ]
+            },
+            {
+                  "name": "Guédelon",
+                  "text": "Régészeti kísérleti projekt, ahol középkori módszerekkel építenek fel egy várkastélyt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.155584,
+                        47.583464
+                  ]
+            },
+            {
+                  "name": "Château de Boutissaint",
+                  "text": "Történelmi kastély, amely egy kiterjedt vadaspark és természetvédelmi terület szomszédságában található.",
+                  "category": "castle",
+                  "coords": [
+                        3.124911,
+                        47.579366
+                  ]
+            },
+            {
+                  "name": "Le Bois de la Folie",
+                  "text": "Szabadtéri kalandpark különböző mászópályákkal a Guédelon környéki erdőkben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.126979,
+                        47.5726
+                  ]
+            },
+            {
+                  "name": "La Grange d'Accueil",
+                  "text": "A Guédelon-projekt fogadóközpontja, amely információkkal és kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        3.15532,
+                        47.581838
+                  ]
+            },
+            {
+                  "name": "Moulin hydraulique de Guédelon",
+                  "text": "Középkori mintára rekonstruált vízi malom a Guédelon-projekt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        3.155775,
+                        47.588752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Ratilly",
+                  "text": "O fortăreață medievală în Treigny, utilizată în prezent ca un important centru artistic.",
+                  "category": "castle",
+                  "coords": [
+                        3.167369,
+                        47.55454
+                  ]
+            },
+            {
+                  "name": "Guédelon",
+                  "text": "Un proiect de arheologie experimentală unde se construiește un castel folosind metode medievale.",
+                  "category": "recreational",
+                  "coords": [
+                        3.155584,
+                        47.583464
+                  ]
+            },
+            {
+                  "name": "Château de Boutissaint",
+                  "text": "Un castel istoric situat lângă un vast parc natural și cinegetic.",
+                  "category": "castle",
+                  "coords": [
+                        3.124911,
+                        47.579366
+                  ]
+            },
+            {
+                  "name": "Le Bois de la Folie",
+                  "text": "Un parc de aventură în aer liber cu diverse trasee de cățărare în pădurile de lângă Guédelon.",
+                  "category": "recreational",
+                  "coords": [
+                        3.126979,
+                        47.5726
+                  ]
+            },
+            {
+                  "name": "La Grange d'Accueil",
+                  "text": "Centrul de primire al proiectului Guédelon, oferind informații și expoziții despre construcția castelului.",
+                  "category": "museum",
+                  "coords": [
+                        3.15532,
+                        47.581838
+                  ]
+            },
+            {
+                  "name": "Moulin hydraulique de Guédelon",
+                  "text": "O moară de apă reconstruită după model medieval în cadrul proiectului Guédelon.",
+                  "category": "landmark",
+                  "coords": [
+                        3.155775,
+                        47.588752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Ratilly",
+                  "text": "A medieval fortress in Treigny that now serves as a significant arts center.",
+                  "category": "castle",
+                  "coords": [
+                        3.167369,
+                        47.55454
+                  ]
+            },
+            {
+                  "name": "Guédelon",
+                  "text": "An experimental archaeology project where a castle is being built using medieval methods.",
+                  "category": "recreational",
+                  "coords": [
+                        3.155584,
+                        47.583464
+                  ]
+            },
+            {
+                  "name": "Château de Boutissaint",
+                  "text": "A historic castle located adjacent to an extensive nature and wildlife park.",
+                  "category": "castle",
+                  "coords": [
+                        3.124911,
+                        47.579366
+                  ]
+            },
+            {
+                  "name": "Le Bois de la Folie",
+                  "text": "An outdoor adventure park featuring various climbing courses in the forests near Guédelon.",
+                  "category": "recreational",
+                  "coords": [
+                        3.126979,
+                        47.5726
+                  ]
+            },
+            {
+                  "name": "La Grange d'Accueil",
+                  "text": "The visitor center for the Guédelon project, featuring information and exhibitions about the castle construction.",
+                  "category": "museum",
+                  "coords": [
+                        3.15532,
+                        47.581838
+                  ]
+            },
+            {
+                  "name": "Moulin hydraulique de Guédelon",
+                  "text": "A reconstructed medieval water mill built as part of the Guédelon project.",
+                  "category": "landmark",
+                  "coords": [
+                        3.155775,
+                        47.588752
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "FR",
     name: { de: "Guédelon", hu: "Guédelon", ro: "Guédelon", en: "Guédelon" },
@@ -1368,7 +1593,304 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-haut-koenigsbourg-history-v2.webp",
   },
     {
-    id: "france-valencay-history-v2",
+    id: "france-valencay-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Ein historisches französisches Schloss in der Nähe des Anwesens Valençay.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Ein prächtiges Renaissance- und klassizistisches Schloss, das einst der Wohnsitz von Charles-Maurice de Talleyrand war.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Ein Museum in Valençay mit einer Sammlung von Oldtimern und Automobilgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "Die weitläufige Parkanlage und Gärten rund um das historische Schloss Valençay.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Stadt und das Schloss Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "Eine einzigartige Attraktion, bei der Besucher auf einer alten Bahnstrecke in Valençay in die Pedale treten können.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "Eine Kapelle auf dem Gelände des Schlosses Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Pfarrkirche von Valençay, dem heiligen Martin geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Történelmi francia kastély a Valençay-birtok közelében.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Impozáns reneszánsz és neoklasszicista kastély, amely egykor Charles-Maurice de Talleyrand otthona volt.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Valençayban található múzeum, amely veterán autók gyűjteményének és autóipari történetnek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "A történelmi Valençay-kastélyt körülvevő kiterjedt park és kertek.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Kilátópont, ahonnan rálátás nyílik Valençay városára és kastélyára.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "Különleges látványosság, ahol a látogatók egy régi vasúti pályán pedálozhatnak Valençayban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "A Valençay-kastély területén található kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Valençay Szent Mártonnak szentelt plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Un castel francez istoric situat în apropierea domeniului Valençay.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Un castel grandios în stil renascentist și neoclasic, care a fost cândva reședința lui Charles-Maurice de Talleyrand.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Un muzeu din Valençay care găzduiește o colecție de mașini de epocă și istorie auto.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "Parcul și grădinile întinse care înconjoară istoricul castel Valençay.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Un punct de observație panoramic care oferă vedere asupra orașului și castelului Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "O atracție unică ce permite vizitatorilor să pedaleze de-a lungul unei vechi căi ferate în Valençay.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "O capelă situată pe domeniul castelului Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica parohială din Valençay, dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "A historic French castle located in the vicinity of the Valençay estate.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "A grand Renaissance and neoclassical chateau once home to Charles-Maurice de Talleyrand.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "A museum in Valençay housing a collection of vintage cars and automotive history.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "The extensive park and gardens surrounding the historic Château de Valençay.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "A scenic lookout point offering views over the town and chateau of Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "A unique attraction allowing visitors to pedal along an old railway track in Valençay.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "A chapel located on the grounds of the Château de Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The parish church of Valençay, dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Valençay", hu: "Valençay kastély", ro: "Castelul Valençay", en: "Château de Valençay" },
@@ -1548,7 +2070,232 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-azay-le-rideau-history-v2.webp",
   },
   {
-    id: "france-carrouges-history-v2",
+    id: "france-carrouges-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Carrouges",
+                  "text": "Ein historisches Schloss und Herrenhaus in der Normandie.",
+                  "category": "castle",
+                  "coords": [
+                        -0.152477,
+                        48.560719
+                  ]
+            },
+            {
+                  "name": "Châtelet",
+                  "text": "Das beeindruckende Torhaus des Schlosses von Carrouges.",
+                  "category": "castle",
+                  "coords": [
+                        -0.153833,
+                        48.561067
+                  ]
+            },
+            {
+                  "name": "Maison du Parc et du Géoparc Normandie-Maine",
+                  "text": "Informationszentrum und Museum für den Regionalen Naturpark Normandie-Maine.",
+                  "category": "museum",
+                  "coords": [
+                        -0.150143,
+                        48.563363
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine dem heiligen Martin gewidmete Pfarrkirche in Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.137564,
+                        48.547607
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Ein dem heiligen Petrus gewidmetes religiöses Gebäude in Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.114053,
+                        48.562566
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "Eine Kirche in Carrouges, die der Himmelfahrt Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -0.146643,
+                        48.566828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Carrouges",
+                  "text": "Történelmi várkastély és nemesi lakhely Normandiában.",
+                  "category": "castle",
+                  "coords": [
+                        -0.152477,
+                        48.560719
+                  ]
+            },
+            {
+                  "name": "Châtelet",
+                  "text": "A carrouges-i kastély lenyűgöző kapuépülete.",
+                  "category": "castle",
+                  "coords": [
+                        -0.153833,
+                        48.561067
+                  ]
+            },
+            {
+                  "name": "Maison du Parc et du Géoparc Normandie-Maine",
+                  "text": "A Normandie-Maine Regionális Natúrpark információs központja és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -0.150143,
+                        48.563363
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Mártonnak szentelt helyi plébániatemplom Carrouges-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.137564,
+                        48.547607
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Szent Péternek szentelt vallási épület Carrouges-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.114053,
+                        48.562566
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "Szűz Mária mennybevételének szentelt templom Carrouges területén.",
+                  "category": "religious",
+                  "coords": [
+                        -0.146643,
+                        48.566828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Carrouges",
+                  "text": "Un castel istoric și reședință nobiliară situată în Normandia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.152477,
+                        48.560719
+                  ]
+            },
+            {
+                  "name": "Châtelet",
+                  "text": "Impresionantul turn de la intrarea castelului Carrouges.",
+                  "category": "castle",
+                  "coords": [
+                        -0.153833,
+                        48.561067
+                  ]
+            },
+            {
+                  "name": "Maison du Parc et du Géoparc Normandie-Maine",
+                  "text": "Centru de informare și muzeu pentru Parcul Natural Regional Normandie-Maine.",
+                  "category": "museum",
+                  "coords": [
+                        -0.150143,
+                        48.563363
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică parohială locală dedicată Sfântului Martin în Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.137564,
+                        48.547607
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Un lăcaș de cult dedicat Sfântului Petru în Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.114053,
+                        48.562566
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "O biserică dedicată Adormirii Maicii Domnului în Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.146643,
+                        48.566828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Carrouges",
+                  "text": "A historic castle and stately home located in Normandy.",
+                  "category": "castle",
+                  "coords": [
+                        -0.152477,
+                        48.560719
+                  ]
+            },
+            {
+                  "name": "Châtelet",
+                  "text": "The impressive gatehouse building of the Château de Carrouges.",
+                  "category": "castle",
+                  "coords": [
+                        -0.153833,
+                        48.561067
+                  ]
+            },
+            {
+                  "name": "Maison du Parc et du Géoparc Normandie-Maine",
+                  "text": "Information center and museum for the Normandie-Maine Regional Nature Park.",
+                  "category": "museum",
+                  "coords": [
+                        -0.150143,
+                        48.563363
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A local parish church dedicated to Saint Martin in Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.137564,
+                        48.547607
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "A religious building dedicated to Saint Peter in Carrouges.",
+                  "category": "religious",
+                  "coords": [
+                        -0.114053,
+                        48.562566
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "A church dedicated to the Assumption of Mary in the Carrouges area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.146643,
+                        48.566828
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Carrouges", hu: "Carrouges kastély", ro: "Castelul Carrouges", en: "Château de Carrouges" , fr: "Château de Carrouges"},
@@ -1683,7 +2430,304 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-saumur-history-v2.webp",
   },
   {
-    id: "france-valençay-talleyrand-history-v2",
+    id: "france-valençay-talleyrand-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Ein historisches Schloss in der Nähe von Valençay.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Ein prächtiges Renaissanceschloss, das einst dem Diplomaten Talleyrand gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Ein Museum in Valençay mit einer bedeutenden Sammlung von Oldtimern.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "Die weitläufigen Parkanlagen und Gärten, die das Schloss Valençay umgeben.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Stadt und das Schloss Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "Eine touristische Attraktion, bei der man auf Schienen durch die Landschaft radelt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "Eine kleine Kapelle in der Gegend von Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die historische Pfarrkirche von Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Történelmi kastély Valençay környékén.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Pompás reneszánsz kastély, amely egykor Talleyrand diplomata tulajdona volt.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Veterán autókat bemutató múzeum Valençay-ban.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "A Valençay-kastélyt körülvevő kiterjedt parkok és kertek.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Kilátóhely panorámás kilátással Valençay városára és kastélyára.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "Turisztikai látványosság, ahol síneken hajtható hajtányokkal járható be a környék.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "Egy kis kápolna Valençay környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Valençay történelmi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "Un castel istoric situat în apropiere de Valençay.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "Un magnific castel renascentist care a aparținut diplomatului Talleyrand.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "Un muzeu din Valençay care adăpostește o colecție importantă de mașini de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "Domeniul vast de parcuri și grădini care înconjoară castelul Valençay.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "Un punct de observație cu vedere panoramică asupra orașului și castelului Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "O atracție turistică ce oferă plimbări cu dresina pe calea ferată prin peisajul local.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "O mică capelă situată în zona Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica parohială istorică din Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de la Tour du Breuil",
+                  "text": "A historic castle located in the vicinity of Valençay.",
+                  "category": "castle",
+                  "coords": [
+                        1.54634,
+                        47.132036
+                  ]
+            },
+            {
+                  "name": "Château de Valençay",
+                  "text": "A magnificent Renaissance château once owned by the diplomat Talleyrand.",
+                  "category": "castle",
+                  "coords": [
+                        1.563222,
+                        47.157581
+                  ]
+            },
+            {
+                  "name": "Musée de l'Automobile",
+                  "text": "A museum in Valençay featuring a significant collection of vintage automobiles.",
+                  "category": "museum",
+                  "coords": [
+                        1.561143,
+                        47.162636
+                  ]
+            },
+            {
+                  "name": "Domaine du château de Valençay",
+                  "text": "The extensive parklands and gardens surrounding the Château de Valençay.",
+                  "category": "park",
+                  "coords": [
+                        1.557789,
+                        47.15578
+                  ]
+            },
+            {
+                  "name": "Belvédère sur Valençay",
+                  "text": "A viewpoint offering panoramic vistas of the town and castle of Valençay.",
+                  "category": "natural",
+                  "coords": [
+                        1.561919,
+                        47.150481
+                  ]
+            },
+            {
+                  "name": "Vélorail de Valençay",
+                  "text": "A tourist attraction offering rail-bike rides through the local countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        1.558249,
+                        47.163343
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "A small chapel located in the Valençay area.",
+                  "category": "religious",
+                  "coords": [
+                        1.568185,
+                        47.160848
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The historic parish church of Valençay.",
+                  "category": "religious",
+                  "coords": [
+                        1.574152,
+                        47.1629
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "FR",
     name: { de: "Museum Talleyrand", hu: "Talleyrand Múzeum", ro: "Muzeul Talleyrand", en: "Talleyrand Museum" , fr: "Château de Valençay - Musée Talleyrand"},

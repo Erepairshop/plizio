@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const switzerlandNatureV2: POI[] = [
 
   {
-    id: "switzerland-lac-de-joux-nature-v2",
+    id: "switzerland-lac-de-joux-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Tendre",
+                  "text": "Der höchste Gipfel des Schweizer Jura, der einen Panoramablick auf den Genfersee und die Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310034,
+                        46.594724
+                  ]
+            },
+            {
+                  "name": "Temple du Lieu",
+                  "text": "Eine historische protestantische Kirche, die der örtlichen Gemeinde im Dorf Le Lieu dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.28191,
+                        46.6474
+                  ]
+            },
+            {
+                  "name": "Temple des Bioux",
+                  "text": "Ein lokales Gotteshaus im Dorf Les Bioux, charakteristisch für die religiöse Architektur der Region.",
+                  "category": "religious",
+                  "coords": [
+                        6.274237,
+                        46.622171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Tendre",
+                  "text": "A svájci Jura-hegység legmagasabb csúcsa, amely panorámás kilátást nyújt a Genfi-tóra és az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310034,
+                        46.594724
+                  ]
+            },
+            {
+                  "name": "Temple du Lieu",
+                  "text": "Történelmi protestáns templom, amely Le Lieu falu helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.28191,
+                        46.6474
+                  ]
+            },
+            {
+                  "name": "Temple des Bioux",
+                  "text": "Helyi istentiszteleti hely Les Bioux faluban, amely a régió vallási építészetére jellemző.",
+                  "category": "religious",
+                  "coords": [
+                        6.274237,
+                        46.622171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Tendre",
+                  "text": "Cel mai înalt vârf din Jura elvețiană, oferind vederi panoramice asupra lacului Geneva și a Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310034,
+                        46.594724
+                  ]
+            },
+            {
+                  "name": "Temple du Lieu",
+                  "text": "O biserică protestantă istorică care deservește comunitatea locală din satul Le Lieu.",
+                  "category": "religious",
+                  "coords": [
+                        6.28191,
+                        46.6474
+                  ]
+            },
+            {
+                  "name": "Temple des Bioux",
+                  "text": "Un lăcaș de cult local din satul Les Bioux, caracteristic arhitecturii religioase a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        6.274237,
+                        46.622171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Tendre",
+                  "text": "The highest peak of the Swiss Jura, offering panoramic views of Lake Geneva and the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310034,
+                        46.594724
+                  ]
+            },
+            {
+                  "name": "Temple du Lieu",
+                  "text": "A historic Protestant church serving the local community in the village of Le Lieu.",
+                  "category": "religious",
+                  "coords": [
+                        6.28191,
+                        46.6474
+                  ]
+            },
+            {
+                  "name": "Temple des Bioux",
+                  "text": "A local place of worship in the village of Les Bioux, characteristic of the region's religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        6.274237,
+                        46.622171
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Joux", hu: "Lac de Joux", ro: "Lac de Joux", en: "Lac de Joux" },
@@ -48,7 +165,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-joux-nature-v2.webp",
   },
   {
-    id: "switzerland-aare-gorge-nature-v2",
+    id: "switzerland-aare-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum der Landschaft Hasli",
+                  "text": "Ein Heimatmuseum in Meiringen, das das kulturelle und natürliche Erbe der Region Hasli dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.189369,
+                        46.729165
+                  ]
+            },
+            {
+                  "name": "Sherlock-Holmes-Museum",
+                  "text": "Ein Museum in Meiringen, das dem berühmten Detektiv gewidmet ist, nahe dem Ort seiner fiktiven letzten Begegnung.",
+                  "category": "museum",
+                  "coords": [
+                        8.187345,
+                        46.72694
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Meiringen",
+                  "text": "Ein öffentliches Freibad in Meiringen, das Besuchern in der Aare-Region Freizeitspaß im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.191192,
+                        46.72264
+                  ]
+            },
+            {
+                  "name": "Aaresschlucht Westeingang",
+                  "text": "Der Westeingang zur spektakulären Aareschlucht, von dem aus ein Weg durch enge Kalksteinfelsen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.204815,
+                        46.720086
+                  ]
+            },
+            {
+                  "name": "Mittaghiri",
+                  "text": "Ein Berggipfel im Berner Oberland mit Ausblick auf die umgebende Alpenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191891,
+                        46.688355
+                  ]
+            },
+            {
+                  "name": "Bim Signal",
+                  "text": "Ein aussichtsreicher Gipfel in der Aare-Region, der bei Wanderern für seine Panoramaausblicke beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.199246,
+                        46.691686
+                  ]
+            },
+            {
+                  "name": "Ursiflüö",
+                  "text": "Ein felsiger Gipfel in den Schweizer Alpen bei Meiringen, Teil der schroffen lokalen Bergwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191959,
+                        46.743234
+                  ]
+            },
+            {
+                  "name": "Hohflue",
+                  "text": "Ein Berggipfel in der Nähe der Aareschlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        8.227746,
+                        46.741701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum der Landschaft Hasli",
+                  "text": "Meiringeni helytörténeti múzeum, amely a Hasli-vidék kulturális és természeti örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.189369,
+                        46.729165
+                  ]
+            },
+            {
+                  "name": "Sherlock-Holmes-Museum",
+                  "text": "A híres detektívnek szentelt múzeum Meiringenben, fiktív utolsó összecsapásának helyszíne közelében.",
+                  "category": "museum",
+                  "coords": [
+                        8.187345,
+                        46.72694
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Meiringen",
+                  "text": "Meiringeni nyilvános strand és uszoda, amely kikapcsolódási lehetőséget kínál az Aare-vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        8.191192,
+                        46.72264
+                  ]
+            },
+            {
+                  "name": "Aaresschlucht Westeingang",
+                  "text": "A látványos Aare-szurdok nyugati bejárata, ahonnan az út a szűk mészkősziklák közé vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.204815,
+                        46.720086
+                  ]
+            },
+            {
+                  "name": "Mittaghiri",
+                  "text": "Hegycsúcs a Berni-felvidéken, ahonnan kilátás nyílik a környező alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191891,
+                        46.688355
+                  ]
+            },
+            {
+                  "name": "Bim Signal",
+                  "text": "Kilátásban gazdag hegycsúcs az Aare-vidéken, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.199246,
+                        46.691686
+                  ]
+            },
+            {
+                  "name": "Ursiflüö",
+                  "text": "Sziklás hegycsúcs a Svájci-Alpokban Meiringen közelében, a zord helyi hegyvidék része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191959,
+                        46.743234
+                  ]
+            },
+            {
+                  "name": "Hohflue",
+                  "text": "Egy hegycsúcs az Aare-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.227746,
+                        46.741701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum der Landschaft Hasli",
+                  "text": "Un muzeu de istorie locală din Meiringen, care documentează moștenirea culturală și naturală a regiunii Hasli.",
+                  "category": "museum",
+                  "coords": [
+                        8.189369,
+                        46.729165
+                  ]
+            },
+            {
+                  "name": "Sherlock-Holmes-Museum",
+                  "text": "Un muzeu situat în Meiringen, dedicat celebrului detectiv, aproape de locul ultimei sale confruntări ficționale.",
+                  "category": "museum",
+                  "coords": [
+                        8.187345,
+                        46.72694
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Meiringen",
+                  "text": "Un parc acvatic public și ștrand din Meiringen, oferind recreere vizitatorilor din regiunea râului Aare.",
+                  "category": "recreational",
+                  "coords": [
+                        8.191192,
+                        46.72264
+                  ]
+            },
+            {
+                  "name": "Aaresschlucht Westeingang",
+                  "text": "Intrarea de vest a spectaculoaselor Chei ale Aarei, de unde o potecă duce printre stâncile înguste de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        8.204815,
+                        46.720086
+                  ]
+            },
+            {
+                  "name": "Mittaghiri",
+                  "text": "Un vârf montan din Oberlandul Bernez, oferind priveliști asupra peisajului alpin din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191891,
+                        46.688355
+                  ]
+            },
+            {
+                  "name": "Bim Signal",
+                  "text": "Un vârf pitoresc din regiunea Aare, popular printre excursioniști pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        8.199246,
+                        46.691686
+                  ]
+            },
+            {
+                  "name": "Ursiflüö",
+                  "text": "Un vârf stâncos din Alpii Elvețieni, lângă Meiringen, făcând parte din peisajul montan local accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191959,
+                        46.743234
+                  ]
+            },
+            {
+                  "name": "Hohflue",
+                  "text": "Un vârf montan în apropierea cheilor Aare.",
+                  "category": "landmark",
+                  "coords": [
+                        8.227746,
+                        46.741701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum der Landschaft Hasli",
+                  "text": "A local history museum in Meiringen documenting the cultural and natural heritage of the Hasli region.",
+                  "category": "museum",
+                  "coords": [
+                        8.189369,
+                        46.729165
+                  ]
+            },
+            {
+                  "name": "Sherlock-Holmes-Museum",
+                  "text": "A museum located in Meiringen dedicated to the famous detective, near the site of his fictional final encounter.",
+                  "category": "museum",
+                  "coords": [
+                        8.187345,
+                        46.72694
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Meiringen",
+                  "text": "A public water park and swimming facility offering recreational fun for visitors in the Aare region.",
+                  "category": "recreational",
+                  "coords": [
+                        8.191192,
+                        46.72264
+                  ]
+            },
+            {
+                  "name": "Aaresschlucht Westeingang",
+                  "text": "The western entrance to the spectacular Aare Gorge, where a path leads through narrow limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        8.204815,
+                        46.720086
+                  ]
+            },
+            {
+                  "name": "Mittaghiri",
+                  "text": "A mountain peak in the Bernese Oberland, offering views over the surrounding alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191891,
+                        46.688355
+                  ]
+            },
+            {
+                  "name": "Bim Signal",
+                  "text": "A scenic peak in the Aare region, popular with local hikers for its panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        8.199246,
+                        46.691686
+                  ]
+            },
+            {
+                  "name": "Ursiflüö",
+                  "text": "A rocky peak in the Swiss Alps near Meiringen, part of the rugged local mountain scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        8.191959,
+                        46.743234
+                  ]
+            },
+            {
+                  "name": "Hohflue",
+                  "text": "A mountain peak located near the Aare Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        8.227746,
+                        46.741701
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CH",
     name: { de: "Aareschlucht", hu: "Aare-szurdok", ro: "Cheile Aarei", en: "Aare Gorge" },
@@ -93,7 +507,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-aare-gorge-nature-v2.webp",
   },
   {
-    id: "switzerland-valle-verzasca-nature-v2",
+    id: "switzerland-valle-verzasca-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello dei Marcacci",
+                  "text": "Eine historische Befestigungsanlage oder ein Turmhaus im Verzascatal.",
+                  "category": "castle",
+                  "coords": [
+                        8.79086,
+                        46.296572
+                  ]
+            },
+            {
+                  "name": "Poncione della Marcia",
+                  "text": "Ein Berggipfel über dem malerischen Verzascatal in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765929,
+                        46.3196
+                  ]
+            },
+            {
+                  "name": "Cima del Masnee",
+                  "text": "Ein Berggipfel mit alpinem Panorama in der Region des Verzascatals.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765628,
+                        46.278315
+                  ]
+            },
+            {
+                  "name": "Poncione d'Alnasca",
+                  "text": "Ein Berg in den Lepontinischen Alpen, bekannt für seine beeindruckende und steile Felswand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.823694,
+                        46.292068
+                  ]
+            },
+            {
+                  "name": "Lüéra di Alnasca",
+                  "text": "Eine bemerkenswerte Stätte oder ein Wahrzeichen im Verzascatal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.795851,
+                        46.295197
+                  ]
+            },
+            {
+                  "name": "Verlassene Alp",
+                  "text": "Die Ruinen einer verlassenen Alm im Verzascatal.",
+                  "category": "historical",
+                  "coords": [
+                        8.755945,
+                        46.2873
+                  ]
+            },
+            {
+                  "name": "Boccia al Bosco",
+                  "text": "Eine Freizeitattraktion im Verzascatal, die Spiel und Natur miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.814752,
+                        46.268957
+                  ]
+            },
+            {
+                  "name": "Baricentro del Cantone Ticino",
+                  "text": "Ein Denkmal, das den geografischen Mittelpunkt des Kantons Tessin markiert.",
+                  "category": "historical",
+                  "coords": [
+                        8.809027,
+                        46.294597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello dei Marcacci",
+                  "text": "Történelmi erődítmény vagy toronyház a Verzasca-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        8.79086,
+                        46.296572
+                  ]
+            },
+            {
+                  "name": "Poncione della Marcia",
+                  "text": "Hegyi csúcs a festői svájci Verzasca-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765929,
+                        46.3196
+                  ]
+            },
+            {
+                  "name": "Cima del Masnee",
+                  "text": "Alpesi panorámát kínáló hegycsúcs a Verzasca-völgy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765628,
+                        46.278315
+                  ]
+            },
+            {
+                  "name": "Poncione d'Alnasca",
+                  "text": "A Lepontini-Alpok egyik hegye, amely lenyűgöző és meredek sziklafaláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.823694,
+                        46.292068
+                  ]
+            },
+            {
+                  "name": "Lüéra di Alnasca",
+                  "text": "Figyelemre méltó helyszín vagy tájékozódási pont a Verzasca-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.795851,
+                        46.295197
+                  ]
+            },
+            {
+                  "name": "Verlassene Alp",
+                  "text": "Egy elhagyatott alpesi legelő maradványai a Verzasca-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        8.755945,
+                        46.2873
+                  ]
+            },
+            {
+                  "name": "Boccia al Bosco",
+                  "text": "Egy szabadtéri attrakció a Verzasca-völgyben, amely a játékot és a természetet ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.814752,
+                        46.268957
+                  ]
+            },
+            {
+                  "name": "Baricentro del Cantone Ticino",
+                  "text": "Az emlékmű, amely Ticino kanton földrajzi középpontját jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        8.809027,
+                        46.294597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello dei Marcacci",
+                  "text": "O fortificație istorică sau o casă turn situată în Valea Verzasca.",
+                  "category": "castle",
+                  "coords": [
+                        8.79086,
+                        46.296572
+                  ]
+            },
+            {
+                  "name": "Poncione della Marcia",
+                  "text": "Un vârf montan situat deasupra pitoreștii Văi Verzasca din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765929,
+                        46.3196
+                  ]
+            },
+            {
+                  "name": "Cima del Masnee",
+                  "text": "Un vârf înalt care oferă vederi alpine panoramice în regiunea Văii Verzasca.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765628,
+                        46.278315
+                  ]
+            },
+            {
+                  "name": "Poncione d'Alnasca",
+                  "text": "Un munte din Alpii Lepontini, cunoscut pentru peretele său stâncos impresionant și abrupt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.823694,
+                        46.292068
+                  ]
+            },
+            {
+                  "name": "Lüéra di Alnasca",
+                  "text": "Un sit sau un punct de reper notabil situat în Valea Verzasca.",
+                  "category": "landmark",
+                  "coords": [
+                        8.795851,
+                        46.295197
+                  ]
+            },
+            {
+                  "name": "Verlassene Alp",
+                  "text": "Ruinele unei pășuni alpine abandonate din Valea Verzasca.",
+                  "category": "historical",
+                  "coords": [
+                        8.755945,
+                        46.2873
+                  ]
+            },
+            {
+                  "name": "Boccia al Bosco",
+                  "text": "O atracție în aer liber în Valea Verzasca, care îmbină jocul cu natura.",
+                  "category": "landmark",
+                  "coords": [
+                        8.814752,
+                        46.268957
+                  ]
+            },
+            {
+                  "name": "Baricentro del Cantone Ticino",
+                  "text": "Un monument care marchează centrul geografic al cantonului Ticino.",
+                  "category": "historical",
+                  "coords": [
+                        8.809027,
+                        46.294597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello dei Marcacci",
+                  "text": "A historic fortification or tower house located in the Verzasca Valley.",
+                  "category": "castle",
+                  "coords": [
+                        8.79086,
+                        46.296572
+                  ]
+            },
+            {
+                  "name": "Poncione della Marcia",
+                  "text": "A mountain peak rising above the scenic Verzasca Valley in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765929,
+                        46.3196
+                  ]
+            },
+            {
+                  "name": "Cima del Masnee",
+                  "text": "A high peak offering panoramic alpine views in the Verzasca Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765628,
+                        46.278315
+                  ]
+            },
+            {
+                  "name": "Poncione d'Alnasca",
+                  "text": "A mountain in the Lepontine Alps known for its impressive and steep rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        8.823694,
+                        46.292068
+                  ]
+            },
+            {
+                  "name": "Lüéra di Alnasca",
+                  "text": "A notable site or landmark located within the Verzasca Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.795851,
+                        46.295197
+                  ]
+            },
+            {
+                  "name": "Verlassene Alp",
+                  "text": "The ruins of an abandoned alpine pasture in the Verzasca Valley.",
+                  "category": "historical",
+                  "coords": [
+                        8.755945,
+                        46.2873
+                  ]
+            },
+            {
+                  "name": "Boccia al Bosco",
+                  "text": "An outdoor attraction in the Verzasca Valley that combines games with nature.",
+                  "category": "landmark",
+                  "coords": [
+                        8.814752,
+                        46.268957
+                  ]
+            },
+            {
+                  "name": "Baricentro del Cantone Ticino",
+                  "text": "A monument marking the geographical center of the Canton of Ticino.",
+                  "category": "historical",
+                  "coords": [
+                        8.809027,
+                        46.294597
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Verzasca-Tal", hu: "Verzasca-völgy", ro: "Valea Verzasca", en: "Verzasca Valley" },
@@ -138,7 +849,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-valle-verzasca-nature-v2.webp",
   },
   {
-    id: "switzerland-grosser-aletschgletscher-nature-v2",
+    id: "switzerland-grosser-aletschgletscher-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schönbühlhorn",
+                  "text": "Ein Berggipfel in der Nähe des Großen Aletschgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.091362,
+                        46.498177
+                  ]
+            },
+            {
+                  "name": "Kleines Wannenhorn",
+                  "text": "Ein markanter Gipfel in der Region des Großen Aletschgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.10468,
+                        46.483153
+                  ]
+            },
+            {
+                  "name": "Kleines Dreieckhorn",
+                  "text": "Ein alpiner Berggipfel in der Nähe des Großen Aletschgletschers in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.034316,
+                        46.469015
+                  ]
+            },
+            {
+                  "name": "Fiescher Gabelhorn",
+                  "text": "Ein markanter Berggipfel in den Berner Alpen mit Blick auf die Aletschregion.",
+                  "category": "landmark",
+                  "coords": [
+                        8.084255,
+                        46.502416
+                  ]
+            },
+            {
+                  "name": "Fülbärg",
+                  "text": "Ein malerischer Berggipfel im Gebiet des Großen Aletschgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.05967,
+                        46.500932
+                  ]
+            },
+            {
+                  "name": "Chamm",
+                  "text": "Ein Bergrücken und Gipfel in den Schweizer Alpen in der Nähe des Aletschgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.079004,
+                        46.501837
+                  ]
+            },
+            {
+                  "name": "Strahlhorn",
+                  "text": "Ein Berggipfel in den Walliser Alpen, Teil der Landschaft des Aletschgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.095207,
+                        46.450972
+                  ]
+            },
+            {
+                  "name": "Olmenhorn",
+                  "text": "Ein Berg in den Berner Alpen mit Blick über den Großen Aletschgletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        8.051924,
+                        46.45367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schönbühlhorn",
+                  "text": "Egy hegycsúcs a Nagy-Aletsch-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.091362,
+                        46.498177
+                  ]
+            },
+            {
+                  "name": "Kleines Wannenhorn",
+                  "text": "Egy jellegzetes hegycsúcs a Nagy-Aletsch-gleccser térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.10468,
+                        46.483153
+                  ]
+            },
+            {
+                  "name": "Kleines Dreieckhorn",
+                  "text": "Alpesi hegycsúcs a svájci Nagy-Aletsch-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.034316,
+                        46.469015
+                  ]
+            },
+            {
+                  "name": "Fiescher Gabelhorn",
+                  "text": "Jelentős hegycsúcs a Berni-Alpokban, az Aletsch-régió felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.084255,
+                        46.502416
+                  ]
+            },
+            {
+                  "name": "Fülbärg",
+                  "text": "Festői hegycsúcs a Nagy-Aletsch-gleccser területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.05967,
+                        46.500932
+                  ]
+            },
+            {
+                  "name": "Chamm",
+                  "text": "Hegygerinc és csúcs a Svájci-Alpokban, az Aletsch-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.079004,
+                        46.501837
+                  ]
+            },
+            {
+                  "name": "Strahlhorn",
+                  "text": "Hegycsúcs a Wallisi-Alpokban, az Aletsch-gleccser vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.095207,
+                        46.450972
+                  ]
+            },
+            {
+                  "name": "Olmenhorn",
+                  "text": "Hegy a Berni-Alpokban, ahonnan kilátás nyílik a Nagy-Aletsch-gleccserre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.051924,
+                        46.45367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schönbühlhorn",
+                  "text": "Un vârf muntos situat lângă marele ghețar Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.091362,
+                        46.498177
+                  ]
+            },
+            {
+                  "name": "Kleines Wannenhorn",
+                  "text": "Un vârf proeminent în regiunea marelui ghețar Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.10468,
+                        46.483153
+                  ]
+            },
+            {
+                  "name": "Kleines Dreieckhorn",
+                  "text": "Un vârf montan alpin situat în apropierea Marelui Ghețar Aletsch din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.034316,
+                        46.469015
+                  ]
+            },
+            {
+                  "name": "Fiescher Gabelhorn",
+                  "text": "Un vârf montan proeminent din Alpii Bernezi, cu vedere spre regiunea Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.084255,
+                        46.502416
+                  ]
+            },
+            {
+                  "name": "Fülbärg",
+                  "text": "Un vârf montan pitoresc situat în zona Marelui Ghețar Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.05967,
+                        46.500932
+                  ]
+            },
+            {
+                  "name": "Chamm",
+                  "text": "O creastă și un vârf montan situat în Alpii Elvețieni, lângă Ghețarul Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.079004,
+                        46.501837
+                  ]
+            },
+            {
+                  "name": "Strahlhorn",
+                  "text": "Un vârf montan din Alpii Valais, parte a peisajului Ghețarului Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.095207,
+                        46.450972
+                  ]
+            },
+            {
+                  "name": "Olmenhorn",
+                  "text": "Un munte din Alpii Bernezi care oferă vedere peste Marele Ghețar Aletsch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.051924,
+                        46.45367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schönbühlhorn",
+                  "text": "A mountain peak located near the Great Aletsch Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.091362,
+                        46.498177
+                  ]
+            },
+            {
+                  "name": "Kleines Wannenhorn",
+                  "text": "A prominent peak in the Great Aletsch Glacier region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.10468,
+                        46.483153
+                  ]
+            },
+            {
+                  "name": "Kleines Dreieckhorn",
+                  "text": "An alpine mountain peak located near the Great Aletsch Glacier in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.034316,
+                        46.469015
+                  ]
+            },
+            {
+                  "name": "Fiescher Gabelhorn",
+                  "text": "A prominent mountain peak in the Bernese Alps overlooking the Aletsch region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.084255,
+                        46.502416
+                  ]
+            },
+            {
+                  "name": "Fülbärg",
+                  "text": "A scenic mountain peak situated in the Great Aletsch Glacier area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.05967,
+                        46.500932
+                  ]
+            },
+            {
+                  "name": "Chamm",
+                  "text": "A mountain ridge and peak located within the Swiss Alps near the Aletsch Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.079004,
+                        46.501837
+                  ]
+            },
+            {
+                  "name": "Strahlhorn",
+                  "text": "A mountain peak in the Valais Alps, part of the Aletsch Glacier landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.095207,
+                        46.450972
+                  ]
+            },
+            {
+                  "name": "Olmenhorn",
+                  "text": "A mountain in the Bernese Alps offering views over the Great Aletsch Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.051924,
+                        46.45367
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Grosser Aletschgletscher", hu: "Nagy-Aletsch-gleccser", ro: "Ghețarul Aletsch", en: "Great Aletsch Glacier" },
@@ -228,7 +1236,196 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-gruyere-nature-v2.webp",
   },
   {
-    id: "switzerland-doubs-nature-v2",
+    id: "switzerland-doubs-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Die dem heiligen Nikolaus geweihte Kirche in der Nähe des Flusses Doubs.",
+                  "category": "landmark",
+                  "coords": [
+                        6.729234,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Église Saint-Renobert",
+                  "text": "Ein religiöses Gebäude am Fluss Doubs, das dem heiligen Renobert gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.717904,
+                        47.121119
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Marie",
+                  "text": "Eine Kirche am Doubs, die dem Heiligen Namen Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.682619,
+                        47.15572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hubert",
+                  "text": "Eine dem heiligen Hubertus geweihte Kirche in der Doubs-Region.",
+                  "category": "religious",
+                  "coords": [
+                        6.65681,
+                        47.168077
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Die dem heiligen Georg geweihte Pfarrkirche am Ufer des Doubs.",
+                  "category": "religious",
+                  "coords": [
+                        6.671256,
+                        47.1354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Szent Miklósnak szentelt templom a Doubs-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.729234,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Église Saint-Renobert",
+                  "text": "Szent Renobertnek szentelt vallási épület a Doubs-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.717904,
+                        47.121119
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Marie",
+                  "text": "Mária Szent Nevének szentelt templom a Doubs mentén.",
+                  "category": "religious",
+                  "coords": [
+                        6.682619,
+                        47.15572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hubert",
+                  "text": "Szent Hubertusnak szentelt templom a Doubs-régióban.",
+                  "category": "religious",
+                  "coords": [
+                        6.65681,
+                        47.168077
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Szent Györgynek szentelt plébániatemplom a Doubs partján.",
+                  "category": "religious",
+                  "coords": [
+                        6.671256,
+                        47.1354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Biserica dedicată Sfântului Nicolae, situată lângă râul Doubs.",
+                  "category": "landmark",
+                  "coords": [
+                        6.729234,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Église Saint-Renobert",
+                  "text": "O clădire religioasă de-a lungul râului Doubs, dedicată Sfântului Renobert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.717904,
+                        47.121119
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Marie",
+                  "text": "O biserică de pe Doubs, dedicată Sfântului Nume al Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        6.682619,
+                        47.15572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hubert",
+                  "text": "O biserică dedicată Sfântului Hubert în regiunea Doubs.",
+                  "category": "religious",
+                  "coords": [
+                        6.65681,
+                        47.168077
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Biserica parohială dedicată Sfântului Gheorghe pe malul râului Doubs.",
+                  "category": "religious",
+                  "coords": [
+                        6.671256,
+                        47.1354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "The church dedicated to Saint Nicholas, located near the Doubs River.",
+                  "category": "landmark",
+                  "coords": [
+                        6.729234,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Église Saint-Renobert",
+                  "text": "A religious building along the Doubs River, dedicated to Saint Renobert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.717904,
+                        47.121119
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Marie",
+                  "text": "A church on the Doubs dedicated to the Holy Name of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        6.682619,
+                        47.15572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hubert",
+                  "text": "A church dedicated to Saint Hubert in the Doubs region.",
+                  "category": "religious",
+                  "coords": [
+                        6.65681,
+                        47.168077
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "The parish church dedicated to Saint George on the banks of the Doubs.",
+                  "category": "religious",
+                  "coords": [
+                        6.671256,
+                        47.1354
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CH",
     name: { de: "Doubs", hu: "Doubs folyó", ro: "Râul Doubs", en: "Doubs River" },
@@ -318,7 +1515,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-creux-du-van-nature-v2.webp",
   },
   {
-    id: "switzerland-lac-de-barrage-des-mauvoisin-nature-v2",
+    id: "switzerland-lac-de-barrage-des-mauvoisin-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Luette",
+                  "text": "Ein Berggipfel in den Walliser Alpen in der Nähe des Mauvoisin-Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        7.387562,
+                        46.010409
+                  ]
+            },
+            {
+                  "name": "Mont Blanc de Cheilon",
+                  "text": "Ein markanter Berggipfel in den Walliser Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.417229,
+                        45.993571
+                  ]
+            },
+            {
+                  "name": "Tournelon Blanc",
+                  "text": "Ein hoher Berggipfel in den Schweizer Alpen oberhalb des Val de Bagnes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.321812,
+                        45.969683
+                  ]
+            },
+            {
+                  "name": "Aiguille de Bocheresse",
+                  "text": "Ein Gipfel in der Gebirgsgruppe um den Lac de Mauvoisin in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.324055,
+                        45.982361
+                  ]
+            },
+            {
+                  "name": "La Ruinette",
+                  "text": "Der höchste Gipfel in der Kette zwischen dem Val de Bagnes und dem Val d'Hérémence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.400272,
+                        45.979169
+                  ]
+            },
+            {
+                  "name": "Anciennes fortifications de Pierre-à-Vire",
+                  "text": "Überreste alter Befestigungsanlagen in der Nähe des Lac de Mauvoisin.",
+                  "category": "historical",
+                  "coords": [
+                        7.343171,
+                        45.99444
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "Eine Bunkeranlage in der alpinen Region am Lac de Mauvoisin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.343489,
+                        46.001683
+                  ]
+            },
+            {
+                  "name": "Le Chantier d'Elmer",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Staudamm und die umliegende Alpenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.336231,
+                        46.00049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Luette",
+                  "text": "Hegycsúcs a Wallis-i Alpokban, a Mauvoisin-víztározó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.387562,
+                        46.010409
+                  ]
+            },
+            {
+                  "name": "Mont Blanc de Cheilon",
+                  "text": "Jellegzetes hegycsúcs a svájci Wallis-i Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.417229,
+                        45.993571
+                  ]
+            },
+            {
+                  "name": "Tournelon Blanc",
+                  "text": "Magas hegycsúcs a Svájci Alpokban, a Val de Bagnes felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.321812,
+                        45.969683
+                  ]
+            },
+            {
+                  "name": "Aiguille de Bocheresse",
+                  "text": "Hegycsúcs a svájci Lac de Mauvoisin környéki hegycsoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.324055,
+                        45.982361
+                  ]
+            },
+            {
+                  "name": "La Ruinette",
+                  "text": "A legmagasabb csúcs a Val de Bagnes és a Val d'Hérémence közötti hegyláncban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.400272,
+                        45.979169
+                  ]
+            },
+            {
+                  "name": "Anciennes fortifications de Pierre-à-Vire",
+                  "text": "Régi erődítmények maradványai a Mauvoisin-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.343171,
+                        45.99444
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "Bunkerlétesítmény a Mauvoisin-tó alpesi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.343489,
+                        46.001683
+                  ]
+            },
+            {
+                  "name": "Le Chantier d'Elmer",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a gátra és a környező alpesi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        7.336231,
+                        46.00049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Luette",
+                  "text": "Un vârf muntos în Alpii Pennini, situat în apropierea lacului de acumulare Mauvoisin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.387562,
+                        46.010409
+                  ]
+            },
+            {
+                  "name": "Mont Blanc de Cheilon",
+                  "text": "Un vârf muntos proeminent în Alpii Pennini din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.417229,
+                        45.993571
+                  ]
+            },
+            {
+                  "name": "Tournelon Blanc",
+                  "text": "Un vârf muntos înalt în Alpii Elvețieni, deasupra văii Val de Bagnes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.321812,
+                        45.969683
+                  ]
+            },
+            {
+                  "name": "Aiguille de Bocheresse",
+                  "text": "Un vârf în grupul montan din jurul lacului Mauvoisin în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.324055,
+                        45.982361
+                  ]
+            },
+            {
+                  "name": "La Ruinette",
+                  "text": "Cel mai înalt vârf din lanțul muntos dintre Val de Bagnes și Val d'Hérémence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.400272,
+                        45.979169
+                  ]
+            },
+            {
+                  "name": "Anciennes fortifications de Pierre-à-Vire",
+                  "text": "Rămășițele unor vechi fortificații în apropierea lacului Mauvoisin.",
+                  "category": "historical",
+                  "coords": [
+                        7.343171,
+                        45.99444
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "O structură de buncăr în regiunea alpină de lângă Lac de Mauvoisin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.343489,
+                        46.001683
+                  ]
+            },
+            {
+                  "name": "Le Chantier d'Elmer",
+                  "text": "Un punct de belvedere cu vedere spre baraj și peisajul alpin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        7.336231,
+                        46.00049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Luette",
+                  "text": "A mountain peak in the Pennine Alps located near the Mauvoisin Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        7.387562,
+                        46.010409
+                  ]
+            },
+            {
+                  "name": "Mont Blanc de Cheilon",
+                  "text": "A prominent mountain peak in the Pennine Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.417229,
+                        45.993571
+                  ]
+            },
+            {
+                  "name": "Tournelon Blanc",
+                  "text": "A high mountain peak in the Swiss Alps situated above the Val de Bagnes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.321812,
+                        45.969683
+                  ]
+            },
+            {
+                  "name": "Aiguille de Bocheresse",
+                  "text": "A peak in the mountain group surrounding Lac de Mauvoisin in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.324055,
+                        45.982361
+                  ]
+            },
+            {
+                  "name": "La Ruinette",
+                  "text": "The highest peak in the chain between Val de Bagnes and Val d'Hérémence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.400272,
+                        45.979169
+                  ]
+            },
+            {
+                  "name": "Anciennes fortifications de Pierre-à-Vire",
+                  "text": "The ruins of ancient fortifications located near Lac de Mauvoisin.",
+                  "category": "historical",
+                  "coords": [
+                        7.343171,
+                        45.99444
+                  ]
+            },
+            {
+                  "name": "bunker",
+                  "text": "A bunker structure located in the alpine region near Lac de Mauvoisin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.343489,
+                        46.001683
+                  ]
+            },
+            {
+                  "name": "Le Chantier d'Elmer",
+                  "text": "A viewpoint offering views of the dam and the surrounding alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.336231,
+                        46.00049
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Mauvoisin", hu: "Lac de Mauvoisin", ro: "Lac de Mauvoisin", en: "Lac de Mauvoisin" },
@@ -408,7 +1902,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-muota-river-nature-v2.webp",
   },
   {
-    id: "switzerland-griesgletscher-nature-v2",
+    id: "switzerland-griesgletscher-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klein Grieshorn",
+                  "text": "Ein Alpengipfel an der Grenze zwischen der Schweiz und Italien beim Griesgletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        8.387408,
+                        46.452085
+                  ]
+            },
+            {
+                  "name": "Bättelmatthorn",
+                  "text": "Ein Aussichtspunkt und Gipfel mit Blick über das Gebiet des Griesgletschers.",
+                  "category": "natural",
+                  "coords": [
+                        8.350977,
+                        46.441499
+                  ]
+            },
+            {
+                  "name": "Klein Blinnenhorn",
+                  "text": "Ein Berggipfel in den Lepontinischen Alpen in der Nähe des Griesgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.305394,
+                        46.428695
+                  ]
+            },
+            {
+                  "name": "Merezebachschije",
+                  "text": "Ein Berggipfel im Gebiet des Griesgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309544,
+                        46.439289
+                  ]
+            },
+            {
+                  "name": "Ritzhörner",
+                  "text": "Ein Berggipfel in der Nähe des Griesgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.32356,
+                        46.448031
+                  ]
+            },
+            {
+                  "name": "Rote Schije",
+                  "text": "Ein Berggipfel mit Aussicht in der Region des Griesgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.29966,
+                        46.438247
+                  ]
+            },
+            {
+                  "name": "Fülhorn",
+                  "text": "Ein Berggipfel im Gebiet des Griesgletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.352413,
+                        46.459205
+                  ]
+            },
+            {
+                  "name": "Siedel Rothorn",
+                  "text": "Ein markanter Berggipfel in den Lepontinischen Alpen an der schweizerisch-italienischen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        8.328018,
+                        46.428316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piccolo Corno Gries",
+                  "text": "Alpesi hegycsúcs a svájci-olasz határon, a Gries-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.387408,
+                        46.452085
+                  ]
+            },
+            {
+                  "name": "Bättelmatthorn / Punta dei Camosci",
+                  "text": "Kilátópont és hegycsúcs, amely panorámát nyújt a Gries-gleccser környékére.",
+                  "category": "natural",
+                  "coords": [
+                        8.350977,
+                        46.441499
+                  ]
+            },
+            {
+                  "name": "Klein Blinnenhorn",
+                  "text": "Hegycsúcs a Lepontini-Alpokban, a Gries-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.305394,
+                        46.428695
+                  ]
+            },
+            {
+                  "name": "Merezebachschije",
+                  "text": "Hegycsúcs a Gries-gleccser környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309544,
+                        46.439289
+                  ]
+            },
+            {
+                  "name": "Ritzhörner",
+                  "text": "Hegycsúcs a Gries-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.32356,
+                        46.448031
+                  ]
+            },
+            {
+                  "name": "Rote Schije",
+                  "text": "Hegycsúcs a Gries-gleccser régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.29966,
+                        46.438247
+                  ]
+            },
+            {
+                  "name": "Fülhorn",
+                  "text": "Hegycsúcs a Gries-gleccser területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.352413,
+                        46.459205
+                  ]
+            },
+            {
+                  "name": "Corno Rosso",
+                  "text": "Jelentős hegycsúcs a Lepontini-Alpokban, a svájci-olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        8.328018,
+                        46.428316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piccolo Corno Gries",
+                  "text": "Un vârf alpin situat la granița dintre Elveția și Italia, lângă Ghețarul Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.387408,
+                        46.452085
+                  ]
+            },
+            {
+                  "name": "Bättelmatthorn / Punta dei Camosci",
+                  "text": "Un punct de belvedere și vârf care oferă vederi asupra zonei Ghețarului Gries.",
+                  "category": "natural",
+                  "coords": [
+                        8.350977,
+                        46.441499
+                  ]
+            },
+            {
+                  "name": "Klein Blinnenhorn",
+                  "text": "Un vârf muntos situat în Alpii Lepontini, lângă Ghețarul Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.305394,
+                        46.428695
+                  ]
+            },
+            {
+                  "name": "Merezebachschije",
+                  "text": "Un vârf montan situat în zona Ghețarului Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309544,
+                        46.439289
+                  ]
+            },
+            {
+                  "name": "Ritzhörner",
+                  "text": "Un vârf montan situat în apropierea Ghețarului Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.32356,
+                        46.448031
+                  ]
+            },
+            {
+                  "name": "Rote Schije",
+                  "text": "Un vârf muntos din regiunea Ghețarului Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.29966,
+                        46.438247
+                  ]
+            },
+            {
+                  "name": "Fülhorn",
+                  "text": "Un vârf montan în zona Ghețarului Gries.",
+                  "category": "landmark",
+                  "coords": [
+                        8.352413,
+                        46.459205
+                  ]
+            },
+            {
+                  "name": "Corno Rosso",
+                  "text": "Un vârf montan proeminent în Alpii Lepontini, la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.328018,
+                        46.428316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piccolo Corno Gries",
+                  "text": "An Alpine peak situated on the border between Switzerland and Italy near the Gries Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.387408,
+                        46.452085
+                  ]
+            },
+            {
+                  "name": "Bättelmatthorn / Punta dei Camosci",
+                  "text": "A viewpoint and peak offering vistas over the Gries Glacier area.",
+                  "category": "natural",
+                  "coords": [
+                        8.350977,
+                        46.441499
+                  ]
+            },
+            {
+                  "name": "Klein Blinnenhorn",
+                  "text": "A mountain peak located in the Lepontine Alps near the Gries Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.305394,
+                        46.428695
+                  ]
+            },
+            {
+                  "name": "Merezebachschije",
+                  "text": "A mountain peak located in the Gries Glacier area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309544,
+                        46.439289
+                  ]
+            },
+            {
+                  "name": "Ritzhörner",
+                  "text": "A mountain peak situated near the Gries Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.32356,
+                        46.448031
+                  ]
+            },
+            {
+                  "name": "Rote Schije",
+                  "text": "A peak offering mountain views in the Gries Glacier region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.29966,
+                        46.438247
+                  ]
+            },
+            {
+                  "name": "Fülhorn",
+                  "text": "A peak located within the Gries Glacier area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.352413,
+                        46.459205
+                  ]
+            },
+            {
+                  "name": "Corno Rosso",
+                  "text": "A prominent mountain peak in the Lepontine Alps on the Swiss-Italian border.",
+                  "category": "landmark",
+                  "coords": [
+                        8.328018,
+                        46.428316
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Griesgletscher", hu: "Gries-gleccser", ro: "Ghețarul Gries", en: "Gries Glacier" },
@@ -453,7 +2244,268 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-griesgletscher-nature-v2.webp",
   },
   {
-    id: "switzerland-lac-de-remoray-nature-v2",
+    id: "switzerland-lac-de-remoray-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pierre des Redevances",
+                  "text": "Eine lokale Sehenswürdigkeit am Lac de Remoray, die oft von Naturfreunden besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        6.194897,
+                        46.710733
+                  ]
+            },
+            {
+                  "name": "Source du Doubs",
+                  "text": "Die Quelle des Flusses Doubs in der Nähe von Mouthe ist ein bedeutendes Naturdenkmal am See.",
+                  "category": "landmark",
+                  "coords": [
+                        6.209445,
+                        46.704851
+                  ]
+            },
+            {
+                  "name": "Le Petit Chalet",
+                  "text": "Die Ruinen einer alten Almhütte in der Nähe des Lac de Remoray, die an die ländliche Vergangenheit erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        6.218293,
+                        46.690365
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus von Mouthe am Lac de Remoray ist der Sitz der lokalen Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        6.192819,
+                        46.710027
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Anne",
+                  "text": "Eine charmante Kapelle am Lac de Remoray, die als Ort der Ruhe und des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.137418,
+                        46.703283
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antide",
+                  "text": "Ein kleines religiöses Gebäude in der Nähe des Lac de Remoray, das der lokalen Andacht gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.164501,
+                        46.692781
+                  ]
+            },
+            {
+                  "name": "Église de la Visitation-de-Notre-Dame",
+                  "text": "Eine lokale Kirche am Lac de Remoray, die ein integraler Bestandteil des religiösen Lebens der Gemeinde ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.172146,
+                        46.71979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pierre des Redevances",
+                  "text": "Helyi látnivaló a Lac de Remoray közelében, amelyet gyakran látogatnak a természetkedvelők.",
+                  "category": "landmark",
+                  "coords": [
+                        6.194897,
+                        46.710733
+                  ]
+            },
+            {
+                  "name": "Source du Doubs",
+                  "text": "A Doubs folyó forrása Mouthe közelében a tó melletti jelentős természeti látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        6.209445,
+                        46.704851
+                  ]
+            },
+            {
+                  "name": "Le Petit Chalet",
+                  "text": "Egy régi hegyi kunyhó romjai a Lac de Remoray közelében, amelyek a vidéki múltra emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        6.218293,
+                        46.690365
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Mouthe városháza a Lac de Remoray-nél a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        6.192819,
+                        46.710027
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Anne",
+                  "text": "Bájos kápolna a Lac de Remoray-nél, amely a nyugalom és az imádság helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.137418,
+                        46.703283
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antide",
+                  "text": "Kicsi vallási épület a Lac de Remoray közelében, a helyi áhítatnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        6.164501,
+                        46.692781
+                  ]
+            },
+            {
+                  "name": "Église de la Visitation-de-Notre-Dame",
+                  "text": "Helyi templom a Lac de Remoray-nél, amely a közösség vallási életének szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        6.172146,
+                        46.71979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pierre des Redevances",
+                  "text": "O atracție locală lângă Lac de Remoray, vizitată adesea de iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        6.194897,
+                        46.710733
+                  ]
+            },
+            {
+                  "name": "Source du Doubs",
+                  "text": "Izvorul râului Doubs, lângă Mouthe, este un monument natural semnificativ lângă lac.",
+                  "category": "landmark",
+                  "coords": [
+                        6.209445,
+                        46.704851
+                  ]
+            },
+            {
+                  "name": "Le Petit Chalet",
+                  "text": "Ruinele unei vechi cabane montane lângă Lac de Remoray, care amintesc de trecutul rural.",
+                  "category": "historical",
+                  "coords": [
+                        6.218293,
+                        46.690365
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Primăria din Mouthe de lângă Lac de Remoray este sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        6.192819,
+                        46.710027
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Anne",
+                  "text": "O capelă fermecătoare lângă Lac de Remoray, care servește ca loc de liniște și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        6.137418,
+                        46.703283
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antide",
+                  "text": "O mică clădire religioasă lângă Lac de Remoray, dedicată devoțiunii locale.",
+                  "category": "religious",
+                  "coords": [
+                        6.164501,
+                        46.692781
+                  ]
+            },
+            {
+                  "name": "Église de la Visitation-de-Notre-Dame",
+                  "text": "O biserică locală lângă Lac de Remoray, care este parte integrantă a vieții religioase a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        6.172146,
+                        46.71979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pierre des Redevances",
+                  "text": "A local attraction near Lac de Remoray, often visited by nature enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        6.194897,
+                        46.710733
+                  ]
+            },
+            {
+                  "name": "Source du Doubs",
+                  "text": "The source of the Doubs river near Mouthe is a significant natural landmark near the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        6.209445,
+                        46.704851
+                  ]
+            },
+            {
+                  "name": "Le Petit Chalet",
+                  "text": "The ruins of an old mountain hut near Lac de Remoray, recalling the rural past.",
+                  "category": "historical",
+                  "coords": [
+                        6.218293,
+                        46.690365
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "The town hall of Mouthe near Lac de Remoray is the seat of the local administration.",
+                  "category": "landmark",
+                  "coords": [
+                        6.192819,
+                        46.710027
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Anne",
+                  "text": "A charming chapel near Lac de Remoray serving as a place of peace and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        6.137418,
+                        46.703283
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antide",
+                  "text": "A small religious building near Lac de Remoray, dedicated to local devotion.",
+                  "category": "religious",
+                  "coords": [
+                        6.164501,
+                        46.692781
+                  ]
+            },
+            {
+                  "name": "Église de la Visitation-de-Notre-Dame",
+                  "text": "A local church near Lac de Remoray that is an integral part of the community's religious life.",
+                  "category": "religious",
+                  "coords": [
+                        6.172146,
+                        46.71979
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Remoray", hu: "Lac de Remoray", ro: "Lac de Remoray", en: "Lac de Remoray" },
@@ -543,7 +2595,196 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-valley-of-muggio-nature-v2.webp",
   },
   {
-    id: "switzerland-val-de-travers-nature-v2",
+    id: "switzerland-val-de-travers-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Rousseau de Môtiers",
+                  "text": "Das Rousseau-Museum in Môtiers befindet sich in dem haus, in dem der Philosoph Jean-Jacques Rousseau im Exil lebte.",
+                  "category": "museum",
+                  "coords": [
+                        6.611944,
+                        46.909485
+                  ]
+            },
+            {
+                  "name": "A Côté",
+                  "text": "A Côté ist ein kleiner Veranstaltungsort im Val-de-Travers, der Platz für Theateraufführungen und kulturelle Begegnungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.612136,
+                        46.911116
+                  ]
+            },
+            {
+                  "name": "Volkswrecks Bar & Museum",
+                  "text": "Dieses Museum kombiniert eine Bar mit einer Sammlung historischer Volkswagen-Fahrzeuge und Kuriositäten.",
+                  "category": "museum",
+                  "coords": [
+                        6.55793,
+                        46.910961
+                  ]
+            },
+            {
+                  "name": "Le Manège",
+                  "text": "Das Museum Le Manège präsentiert historische Kutschen und Exponate zur Reitgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        6.613084,
+                        46.910277
+                  ]
+            },
+            {
+                  "name": "Association RVT-Historique",
+                  "text": "Dieser Verein betreibt ein Museum, das sich der Geschichte der Regionalverkehrsmittel und der Eisenbahn im Val-de-Travers widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.578277,
+                        46.904222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Rousseau de Môtiers",
+                  "text": "A môtier-i Rousseau Múzeum abban a házban található, ahol Jean-Jacques Rousseau filozófus száműzetésben élt.",
+                  "category": "museum",
+                  "coords": [
+                        6.611944,
+                        46.909485
+                  ]
+            },
+            {
+                  "name": "A Côté",
+                  "text": "Az A Côté egy kis rendezvényhelyszín a Val-de-Travers-ben, amely színházi előadásoknak és kulturális találkozóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.612136,
+                        46.911116
+                  ]
+            },
+            {
+                  "name": "Volkswrecks Bar & Museum",
+                  "text": "Ez a múzeum egy bárt ötvöz történelmi Volkswagen járművek és különlegességek gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        6.55793,
+                        46.910961
+                  ]
+            },
+            {
+                  "name": "Le Manège",
+                  "text": "A Le Manège múzeum történelmi kocsikat és a régió lovas történelmével kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.613084,
+                        46.910277
+                  ]
+            },
+            {
+                  "name": "Association RVT-Historique",
+                  "text": "Ez az egyesület a Val-de-Travers-i regionális közlekedés és a vasút történetének szentelt múzeumot működtet.",
+                  "category": "museum",
+                  "coords": [
+                        6.578277,
+                        46.904222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Rousseau de Môtiers",
+                  "text": "Muzeul Rousseau din Môtiers este situat în casa în care filosoful Jean-Jacques Rousseau a trăit în exil.",
+                  "category": "museum",
+                  "coords": [
+                        6.611944,
+                        46.909485
+                  ]
+            },
+            {
+                  "name": "A Côté",
+                  "text": "A Côté este o mică locație din Val-de-Travers care găzduiește spectacole de teatru și întâlniri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.612136,
+                        46.911116
+                  ]
+            },
+            {
+                  "name": "Volkswrecks Bar & Museum",
+                  "text": "Acest muzeu combină un bar cu o colecție de vehicule Volkswagen istorice și curiozități.",
+                  "category": "museum",
+                  "coords": [
+                        6.55793,
+                        46.910961
+                  ]
+            },
+            {
+                  "name": "Le Manège",
+                  "text": "Muzeul Le Manège prezintă trăsuri istorice și exponate legate de istoria ecvestră a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        6.613084,
+                        46.910277
+                  ]
+            },
+            {
+                  "name": "Association RVT-Historique",
+                  "text": "Această asociație administrează un muzeu dedicat istoriei transportului regional și a căilor ferate din Val-de-Travers.",
+                  "category": "museum",
+                  "coords": [
+                        6.578277,
+                        46.904222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Rousseau de Môtiers",
+                  "text": "The Rousseau Museum in Môtiers is located in the house where the philosopher Jean-Jacques Rousseau lived in exile.",
+                  "category": "museum",
+                  "coords": [
+                        6.611944,
+                        46.909485
+                  ]
+            },
+            {
+                  "name": "A Côté",
+                  "text": "A Côté is a small venue in Val-de-Travers that hosts theater performances and cultural encounters.",
+                  "category": "cultural",
+                  "coords": [
+                        6.612136,
+                        46.911116
+                  ]
+            },
+            {
+                  "name": "Volkswrecks Bar & Museum",
+                  "text": "This museum combines a bar with a collection of historical Volkswagen vehicles and curiosities.",
+                  "category": "museum",
+                  "coords": [
+                        6.55793,
+                        46.910961
+                  ]
+            },
+            {
+                  "name": "Le Manège",
+                  "text": "The Le Manège museum presents historical carriages and exhibits related to the equestrian history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        6.613084,
+                        46.910277
+                  ]
+            },
+            {
+                  "name": "Association RVT-Historique",
+                  "text": "This association operates a museum dedicated to the history of regional transport and railways in Val-de-Travers.",
+                  "category": "museum",
+                  "coords": [
+                        6.578277,
+                        46.904222
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Val-de-Travers", hu: "Val-de-Travers", ro: "Val-de-Travers", en: "Val-de-Travers" },
@@ -633,7 +2874,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-la-sauge-nature-v2.webp",
   },
   {
-    id: "switzerland-gamsberg-nature-v2",
+    id: "switzerland-gamsberg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Gräpplang",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Flums.",
+                  "category": "castle",
+                  "coords": [
+                        9.332048,
+                        47.102919
+                  ]
+            },
+            {
+                  "name": "museumbickel",
+                  "text": "Ein zeitgenössisches Kunstmuseum in Walenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        9.31214,
+                        47.121807
+                  ]
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein Museum, das im historischen Rathausgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.314899,
+                        47.124261
+                  ]
+            },
+            {
+                  "name": "Chäserrugg",
+                  "text": "Einer der sieben Churfirsten-Gipfel mit Aussicht auf den Walensee.",
+                  "category": "landmark",
+                  "coords": [
+                        9.312775,
+                        47.154808
+                  ]
+            },
+            {
+                  "name": "Frümsel",
+                  "text": "Ein markanter Berggipfel der Churfirsten-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        9.266052,
+                        47.152323
+                  ]
+            },
+            {
+                  "name": "Brisi",
+                  "text": "Ein Berggipfel der Churfirsten in den Appenzeller Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277424,
+                        47.15319
+                  ]
+            },
+            {
+                  "name": "Zuestoll",
+                  "text": "Ein Gipfel der Churfirsten, der für seine steilen Felswände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.285479,
+                        47.1541
+                  ]
+            },
+            {
+                  "name": "Schibenstoll",
+                  "text": "Einer der markanten Gipfel der Churfirsten-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.295485,
+                        47.154355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Gräpplang",
+                  "text": "Középkori várrom Flums felett.",
+                  "category": "castle",
+                  "coords": [
+                        9.332048,
+                        47.102919
+                  ]
+            },
+            {
+                  "name": "museumbickel",
+                  "text": "Kortárs művészeti múzeum Walenstadtban.",
+                  "category": "museum",
+                  "coords": [
+                        9.31214,
+                        47.121807
+                  ]
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "A történelmi városháza épületében helyet kapó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.314899,
+                        47.124261
+                  ]
+            },
+            {
+                  "name": "Chäserrugg",
+                  "text": "A hét Churfirsten-csúcs egyike, kilátással a Walensee-re.",
+                  "category": "landmark",
+                  "coords": [
+                        9.312775,
+                        47.154808
+                  ]
+            },
+            {
+                  "name": "Frümsel",
+                  "text": "A Churfirsten-hegylánc egyik jellegzetes csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.266052,
+                        47.152323
+                  ]
+            },
+            {
+                  "name": "Brisi",
+                  "text": "A Churfirsten egyik hegycsúcsa az Appenzelli-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277424,
+                        47.15319
+                  ]
+            },
+            {
+                  "name": "Zuestoll",
+                  "text": "A Churfirsten egyik csúcsa, amely meredek sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.285479,
+                        47.1541
+                  ]
+            },
+            {
+                  "name": "Schibenstoll",
+                  "text": "A Churfirsten-csoport egyik jellegzetes csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.295485,
+                        47.154355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Gräpplang",
+                  "text": "Ruinele unui castel medieval situat deasupra localității Flums.",
+                  "category": "castle",
+                  "coords": [
+                        9.332048,
+                        47.102919
+                  ]
+            },
+            {
+                  "name": "museumbickel",
+                  "text": "Un muzeu de artă contemporană în Walenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        9.31214,
+                        47.121807
+                  ]
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Un muzeu găzduit în clădirea istorică a primăriei.",
+                  "category": "museum",
+                  "coords": [
+                        9.314899,
+                        47.124261
+                  ]
+            },
+            {
+                  "name": "Chäserrugg",
+                  "text": "Unul dintre cele șapte vârfuri Churfirsten, cu vedere spre lacul Walen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.312775,
+                        47.154808
+                  ]
+            },
+            {
+                  "name": "Frümsel",
+                  "text": "Un vârf muntos distinctiv din lanțul Churfirsten.",
+                  "category": "landmark",
+                  "coords": [
+                        9.266052,
+                        47.152323
+                  ]
+            },
+            {
+                  "name": "Brisi",
+                  "text": "Un vârf muntos din grupul Churfirsten în Alpii Appenzell.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277424,
+                        47.15319
+                  ]
+            },
+            {
+                  "name": "Zuestoll",
+                  "text": "Un vârf din grupul Churfirsten, cunoscut pentru pereții săi stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        9.285479,
+                        47.1541
+                  ]
+            },
+            {
+                  "name": "Schibenstoll",
+                  "text": "Unul dintre vârfurile distinctive ale grupului Churfirsten.",
+                  "category": "landmark",
+                  "coords": [
+                        9.295485,
+                        47.154355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Gräpplang",
+                  "text": "The ruins of a medieval hill castle located above Flums.",
+                  "category": "castle",
+                  "coords": [
+                        9.332048,
+                        47.102919
+                  ]
+            },
+            {
+                  "name": "museumbickel",
+                  "text": "A contemporary art museum located in Walenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        9.31214,
+                        47.121807
+                  ]
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "A museum housed in the historic town hall building.",
+                  "category": "museum",
+                  "coords": [
+                        9.314899,
+                        47.124261
+                  ]
+            },
+            {
+                  "name": "Chäserrugg",
+                  "text": "One of the seven Churfirsten peaks with views over Lake Walen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.312775,
+                        47.154808
+                  ]
+            },
+            {
+                  "name": "Frümsel",
+                  "text": "A prominent mountain peak in the Churfirsten range.",
+                  "category": "landmark",
+                  "coords": [
+                        9.266052,
+                        47.152323
+                  ]
+            },
+            {
+                  "name": "Brisi",
+                  "text": "A mountain peak of the Churfirsten in the Appenzell Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277424,
+                        47.15319
+                  ]
+            },
+            {
+                  "name": "Zuestoll",
+                  "text": "A peak of the Churfirsten known for its steep rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        9.285479,
+                        47.1541
+                  ]
+            },
+            {
+                  "name": "Schibenstoll",
+                  "text": "One of the distinctive peaks of the Churfirsten group.",
+                  "category": "landmark",
+                  "coords": [
+                        9.295485,
+                        47.154355
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Gamsberg", hu: "Gamsberg", ro: "Gamsberg", en: "Gamsberg" },
@@ -678,7 +3216,232 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-gamsberg-nature-v2.webp",
   },
   {
-    id: "switzerland-val-poschiavo-nature-v2",
+    id: "switzerland-val-poschiavo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Poschiavino",
+                  "text": "Heimatmuseum, das das kulturelle Erbe des Puschlavs präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.056673,
+                        46.326536
+                  ]
+            },
+            {
+                  "name": "Museo Casa Console",
+                  "text": "Kunstmuseum im Puschlav, das Gemälde aus dem 19. Jahrhundert ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.058422,
+                        46.326571
+                  ]
+            },
+            {
+                  "name": "CASA TOMÉ",
+                  "text": "Historisches Bauernhaus und Museum, das das traditionelle ländliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.057308,
+                        46.325626
+                  ]
+            },
+            {
+                  "name": "Motta da Torn",
+                  "text": "Ein Berggipfel mit Blick über das Puschlav.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069219,
+                        46.272425
+                  ]
+            },
+            {
+                  "name": "Motta da Scioschin",
+                  "text": "Aussichtsreicher Gipfel in den Schweizer Alpen bei Poschiavo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.06472,
+                        46.269829
+                  ]
+            },
+            {
+                  "name": "Motta da Vartegna",
+                  "text": "Ein Berggipfel im malerischen Puschlav.",
+                  "category": "landmark",
+                  "coords": [
+                        10.047315,
+                        46.280637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Poschiavino",
+                  "text": "Helytörténeti múzeum, amely a Poschiavo-völgy kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.056673,
+                        46.326536
+                  ]
+            },
+            {
+                  "name": "Museo Casa Console",
+                  "text": "Művészeti múzeum a Poschiavo-völgyben, amely 19. századi festményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.058422,
+                        46.326571
+                  ]
+            },
+            {
+                  "name": "CASA TOMÉ",
+                  "text": "Történelmi parasztház és múzeum, amely a hagyományos vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.057308,
+                        46.325626
+                  ]
+            },
+            {
+                  "name": "Motta da Torn",
+                  "text": "Hegycsúcs, amely kilátást nyújt a Poschiavo-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069219,
+                        46.272425
+                  ]
+            },
+            {
+                  "name": "Motta da Scioschin",
+                  "text": "Kilátásban gazdag hegycsúcs a svájci Alpokban, Poschiavo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.06472,
+                        46.269829
+                  ]
+            },
+            {
+                  "name": "Motta da Vartegna",
+                  "text": "Hegycsúcs a festői Poschiavo-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.047315,
+                        46.280637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Poschiavino",
+                  "text": "Muzeu de istorie locală care prezintă moștenirea culturală a văii Poschiavo.",
+                  "category": "museum",
+                  "coords": [
+                        10.056673,
+                        46.326536
+                  ]
+            },
+            {
+                  "name": "Museo Casa Console",
+                  "text": "Muzeu de artă din Valea Poschiavo, care expune picturi din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        10.058422,
+                        46.326571
+                  ]
+            },
+            {
+                  "name": "CASA TOMÉ",
+                  "text": "Casă rurală istorică și muzeu care ilustrează viața rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        10.057308,
+                        46.325626
+                  ]
+            },
+            {
+                  "name": "Motta da Torn",
+                  "text": "Un vârf montan care oferă vedere panoramică asupra văii Poschiavo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069219,
+                        46.272425
+                  ]
+            },
+            {
+                  "name": "Motta da Scioschin",
+                  "text": "Un vârf pitoresc în Alpii Elvețieni, lângă Poschiavo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.06472,
+                        46.269829
+                  ]
+            },
+            {
+                  "name": "Motta da Vartegna",
+                  "text": "Un vârf muntos situat în pitoreasca vale Poschiavo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.047315,
+                        46.280637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Poschiavino",
+                  "text": "Local history museum showcasing the cultural heritage of the Poschiavo Valley.",
+                  "category": "museum",
+                  "coords": [
+                        10.056673,
+                        46.326536
+                  ]
+            },
+            {
+                  "name": "Museo Casa Console",
+                  "text": "Art museum in the Poschiavo Valley featuring 19th-century paintings.",
+                  "category": "museum",
+                  "coords": [
+                        10.058422,
+                        46.326571
+                  ]
+            },
+            {
+                  "name": "CASA TOMÉ",
+                  "text": "Historic farmhouse and museum illustrating traditional rural life.",
+                  "category": "museum",
+                  "coords": [
+                        10.057308,
+                        46.325626
+                  ]
+            },
+            {
+                  "name": "Motta da Torn",
+                  "text": "A mountain peak offering views over the Poschiavo Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069219,
+                        46.272425
+                  ]
+            },
+            {
+                  "name": "Motta da Scioschin",
+                  "text": "A scenic summit in the Swiss Alps near Poschiavo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.06472,
+                        46.269829
+                  ]
+            },
+            {
+                  "name": "Motta da Vartegna",
+                  "text": "A mountain peak located in the picturesque Poschiavo Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        10.047315,
+                        46.280637
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Puschlav", hu: "Puschlav-völgy", ro: "Valea Poschiavo", en: "Poschiavo Valley" },
@@ -768,7 +3531,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-letray-nature-v2.webp",
   },
   {
-    id: "switzerland-val-ferret-nature-v2",
+    id: "switzerland-val-ferret-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe Hélène / Punta Elena",
+                  "text": "Ein markanter Berggipfel im Grandes-Jorasses-Massiv im Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.97934,
+                        45.868757
+                  ]
+            },
+            {
+                  "name": "Pointe Croz / Punta Croz",
+                  "text": "Einer der hohen Gipfel der Grandes Jorasses im Mont-Blanc-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        6.982134,
+                        45.869239
+                  ]
+            },
+            {
+                  "name": "Aiguille de Leschaux",
+                  "text": "Ein Gipfel im Mont-Blanc-Massiv an der Grenze zwischen Frankreich und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.006675,
+                        45.887204
+                  ]
+            },
+            {
+                  "name": "Aiguille de l'Éboulement",
+                  "text": "Ein Berggipfel im Mont-Blanc-Massiv, bekannt für sein zerklüftetes Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003008,
+                        45.893167
+                  ]
+            },
+            {
+                  "name": "Aiguille de Talèfre",
+                  "text": "Ein hoher Gipfel im Mont-Blanc-Massiv oberhalb des Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003782,
+                        45.899499
+                  ]
+            },
+            {
+                  "name": "Pointe du Domino / Punta del Domino",
+                  "text": "Ein Berggipfel im Mont-Blanc-Massiv in der Nähe des Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.031059,
+                        45.920621
+                  ]
+            },
+            {
+                  "name": "Les Droites",
+                  "text": "Ein Berg im Mont-Blanc-Massiv, bekannt für seine steile Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        6.989306,
+                        45.930684
+                  ]
+            },
+            {
+                  "name": "Aiguille du Tacul",
+                  "text": "Ein Gipfel im Mont-Blanc-Massiv, der sich über dem Tacul-Gletscher erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.960779,
+                        45.884347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe Hélène / Punta Elena",
+                  "text": "A Grandes Jorasses masszívum egyik kiemelkedő hegycsúcsa a Val Ferret-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.97934,
+                        45.868757
+                  ]
+            },
+            {
+                  "name": "Pointe Croz / Punta Croz",
+                  "text": "A Grandes Jorasses egyik magas csúcsa a Mont Blanc-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.982134,
+                        45.869239
+                  ]
+            },
+            {
+                  "name": "Aiguille de Leschaux",
+                  "text": "Hegycsúcs a Mont Blanc-masszívumban, a francia-olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.006675,
+                        45.887204
+                  ]
+            },
+            {
+                  "name": "Aiguille de l'Éboulement",
+                  "text": "Hegycsúcs a Mont Blanc-masszívumban, amely zord terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003008,
+                        45.893167
+                  ]
+            },
+            {
+                  "name": "Aiguille de Talèfre",
+                  "text": "Magas hegycsúcs a Mont Blanc-masszívumban, a Val Ferret felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003782,
+                        45.899499
+                  ]
+            },
+            {
+                  "name": "Pointe du Domino / Punta del Domino",
+                  "text": "Hegycsúcs a Mont Blanc-masszívumban, a Val Ferret közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.031059,
+                        45.920621
+                  ]
+            },
+            {
+                  "name": "Les Droites",
+                  "text": "Hegy a Mont Blanc-masszívumban, amely meredek északi faláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.989306,
+                        45.930684
+                  ]
+            },
+            {
+                  "name": "Aiguille du Tacul",
+                  "text": "Hegycsúcs a Mont Blanc-masszívumban, amely a Tacul-gleccser fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.960779,
+                        45.884347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe Hélène / Punta Elena",
+                  "text": "Un vârf muntos proeminent din masivul Grandes Jorasses, în Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.97934,
+                        45.868757
+                  ]
+            },
+            {
+                  "name": "Pointe Croz / Punta Croz",
+                  "text": "Unul dintre vârfurile înalte ale masivului Grandes Jorasses, situat în masivul Mont Blanc.",
+                  "category": "landmark",
+                  "coords": [
+                        6.982134,
+                        45.869239
+                  ]
+            },
+            {
+                  "name": "Aiguille de Leschaux",
+                  "text": "Un vârf din masivul Mont Blanc, situat la granița dintre Franța și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.006675,
+                        45.887204
+                  ]
+            },
+            {
+                  "name": "Aiguille de l'Éboulement",
+                  "text": "Un vârf muntos din masivul Mont Blanc, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003008,
+                        45.893167
+                  ]
+            },
+            {
+                  "name": "Aiguille de Talèfre",
+                  "text": "Un vârf înalt din masivul Mont Blanc, deasupra văii Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003782,
+                        45.899499
+                  ]
+            },
+            {
+                  "name": "Pointe du Domino / Punta del Domino",
+                  "text": "Un vârf muntos din masivul Mont Blanc situat lângă Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.031059,
+                        45.920621
+                  ]
+            },
+            {
+                  "name": "Les Droites",
+                  "text": "Un munte din masivul Mont Blanc, cunoscut pentru versantul său nordic abrupt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.989306,
+                        45.930684
+                  ]
+            },
+            {
+                  "name": "Aiguille du Tacul",
+                  "text": "Un vârf din masivul Mont Blanc care se ridică deasupra ghețarului Tacul.",
+                  "category": "landmark",
+                  "coords": [
+                        6.960779,
+                        45.884347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe Hélène / Punta Elena",
+                  "text": "A prominent mountain peak in the Grandes Jorasses massif within the Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.97934,
+                        45.868757
+                  ]
+            },
+            {
+                  "name": "Pointe Croz / Punta Croz",
+                  "text": "One of the high peaks of the Grandes Jorasses, located in the Mont Blanc massif.",
+                  "category": "landmark",
+                  "coords": [
+                        6.982134,
+                        45.869239
+                  ]
+            },
+            {
+                  "name": "Aiguille de Leschaux",
+                  "text": "A peak in the Mont Blanc massif, situated on the border between France and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        7.006675,
+                        45.887204
+                  ]
+            },
+            {
+                  "name": "Aiguille de l'Éboulement",
+                  "text": "A mountain peak in the Mont Blanc massif, known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003008,
+                        45.893167
+                  ]
+            },
+            {
+                  "name": "Aiguille de Talèfre",
+                  "text": "A high peak in the Mont Blanc massif above the Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.003782,
+                        45.899499
+                  ]
+            },
+            {
+                  "name": "Pointe du Domino / Punta del Domino",
+                  "text": "A mountain peak in the Mont Blanc massif located near the Val Ferret.",
+                  "category": "landmark",
+                  "coords": [
+                        7.031059,
+                        45.920621
+                  ]
+            },
+            {
+                  "name": "Les Droites",
+                  "text": "A mountain in the Mont Blanc massif, known for its steep north face.",
+                  "category": "landmark",
+                  "coords": [
+                        6.989306,
+                        45.930684
+                  ]
+            },
+            {
+                  "name": "Aiguille du Tacul",
+                  "text": "A peak in the Mont Blanc massif rising above the Tacul glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.960779,
+                        45.884347
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Val Ferret", hu: "Val Ferret", ro: "Val Ferret", en: "Val Ferret" },
@@ -858,7 +3918,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-la-gryonne-nature-v2.webp",
   },
   {
-    id: "switzerland-val-d-illiez-nature-v2",
+    id: "switzerland-val-d-illiez-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chaux d'Antème",
+                  "text": "Ein Gipfel im Val d'Illiez, der Bergwanderern eine beeindruckende Aussicht auf die Walliser Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.894476,
+                        46.162341
+                  ]
+            },
+            {
+                  "name": "Croix de l'Hiver",
+                  "text": "Ein Berg im Val d'Illiez, bekannt für seine Wanderwege und das Panorama der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        6.823176,
+                        46.192848
+                  ]
+            },
+            {
+                  "name": "Point de l'Au",
+                  "text": "Ein Aussichtspunkt im Val d'Illiez, der für seine alpine Landschaft und Naturpfade geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        6.841166,
+                        46.199964
+                  ]
+            },
+            {
+                  "name": "Signal de Bonavau",
+                  "text": "Ein Berggipfel im Val d'Illiez, der für anspruchsvolle Wanderungen und alpine Ausblicke bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.860003,
+                        46.15043
+                  ]
+            },
+            {
+                  "name": "Pointe de Chavanette",
+                  "text": "Ein Gipfel an der Grenze zwischen der Schweiz und Frankreich, beliebt bei Bergsteigern im Val d'Illiez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.807001,
+                        46.177903
+                  ]
+            },
+            {
+                  "name": "Pointe de Vorlaz",
+                  "text": "Ein charakteristischer Berg im Val d'Illiez, der zur Bergkette der Dents du Midi gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        6.800944,
+                        46.181531
+                  ]
+            },
+            {
+                  "name": "Pointe des Mossettes",
+                  "text": "Ein Berggipfel, der über eine Seilbahn erreichbar ist und einen weiten Blick über die Portes du Soleil bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816515,
+                        46.190574
+                  ]
+            },
+            {
+                  "name": "Collines des Crosets",
+                  "text": "Ein Berggipfel in der Nähe von Val d'Illiez in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.828541,
+                        46.19084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chaux d'Antème",
+                  "text": "Csúcs a Val d'Illiez-ben, amely lenyűgöző kilátást nyújt a túrázóknak a Vallisi-Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.894476,
+                        46.162341
+                  ]
+            },
+            {
+                  "name": "Croix de l'Hiver",
+                  "text": "Hegy a Val d'Illiez-ben, amely túraútvonalairól és a környék panorámájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.823176,
+                        46.192848
+                  ]
+            },
+            {
+                  "name": "Point de l'Au",
+                  "text": "Kilátópont a Val d'Illiez-ben, amelyet alpesi tája és tanösvényei miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        6.841166,
+                        46.199964
+                  ]
+            },
+            {
+                  "name": "Signal de Bonavau",
+                  "text": "Hegycsúcs a Val d'Illiez-ben, amely kihívást jelentő túráiról és alpesi kilátásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.860003,
+                        46.15043
+                  ]
+            },
+            {
+                  "name": "Pointe de Chavanette",
+                  "text": "Csúcs a svájci-francia határon, amely népszerű a hegymászók körében a Val d'Illiez-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.807001,
+                        46.177903
+                  ]
+            },
+            {
+                  "name": "Pointe de Vorlaz",
+                  "text": "Jellegzetes hegy a Val d'Illiez-ben, amely a Dents du Midi hegylánchoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.800944,
+                        46.181531
+                  ]
+            },
+            {
+                  "name": "Pointe des Mossettes",
+                  "text": "Felvonóval elérhető hegycsúcs, amely széles kilátást nyújt a Portes du Soleil területére.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816515,
+                        46.190574
+                  ]
+            },
+            {
+                  "name": "Collines des Crosets",
+                  "text": "Hegycsúcs Val d'Illiez közelében, a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.828541,
+                        46.19084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chaux d'Antème",
+                  "text": "Un vârf în Val d'Illiez care oferă excursioniștilor o vedere impresionantă asupra Alpilor Valaisani.",
+                  "category": "landmark",
+                  "coords": [
+                        6.894476,
+                        46.162341
+                  ]
+            },
+            {
+                  "name": "Croix de l'Hiver",
+                  "text": "Un munte în Val d'Illiez, cunoscut pentru traseele sale de drumeție și panorama zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.823176,
+                        46.192848
+                  ]
+            },
+            {
+                  "name": "Point de l'Au",
+                  "text": "Un punct de belvedere în Val d'Illiez, apreciat pentru peisajul alpin și potecile naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        6.841166,
+                        46.199964
+                  ]
+            },
+            {
+                  "name": "Signal de Bonavau",
+                  "text": "Un vârf montan în Val d'Illiez, cunoscut pentru drumeții provocatoare și vederi alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.860003,
+                        46.15043
+                  ]
+            },
+            {
+                  "name": "Pointe de Chavanette",
+                  "text": "Un vârf la granița dintre Elveția și Franța, popular printre alpiniștii din Val d'Illiez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.807001,
+                        46.177903
+                  ]
+            },
+            {
+                  "name": "Pointe de Vorlaz",
+                  "text": "Un munte caracteristic în Val d'Illiez, care aparține lanțului muntos Dents du Midi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.800944,
+                        46.181531
+                  ]
+            },
+            {
+                  "name": "Pointe des Mossettes",
+                  "text": "Un vârf montan accesibil cu telecabina, oferind o vedere largă asupra zonei Portes du Soleil.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816515,
+                        46.190574
+                  ]
+            },
+            {
+                  "name": "Collines des Crosets",
+                  "text": "Un vârf montan situat în apropiere de Val d'Illiez, în Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        6.828541,
+                        46.19084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chaux d'Antème",
+                  "text": "A peak in the Val d'Illiez offering hikers an impressive view of the Valais Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.894476,
+                        46.162341
+                  ]
+            },
+            {
+                  "name": "Croix de l'Hiver",
+                  "text": "A mountain in the Val d'Illiez, known for its hiking trails and the panorama of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.823176,
+                        46.192848
+                  ]
+            },
+            {
+                  "name": "Point de l'Au",
+                  "text": "A viewpoint in the Val d'Illiez, valued for its alpine landscape and nature trails.",
+                  "category": "landmark",
+                  "coords": [
+                        6.841166,
+                        46.199964
+                  ]
+            },
+            {
+                  "name": "Signal de Bonavau",
+                  "text": "A mountain peak in the Val d'Illiez, known for challenging hikes and alpine views.",
+                  "category": "landmark",
+                  "coords": [
+                        6.860003,
+                        46.15043
+                  ]
+            },
+            {
+                  "name": "Pointe de Chavanette",
+                  "text": "A peak on the Swiss-French border, popular with mountaineers in the Val d'Illiez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.807001,
+                        46.177903
+                  ]
+            },
+            {
+                  "name": "Pointe de Vorlaz",
+                  "text": "A characteristic mountain in the Val d'Illiez, belonging to the Dents du Midi mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        6.800944,
+                        46.181531
+                  ]
+            },
+            {
+                  "name": "Pointe des Mossettes",
+                  "text": "A mountain peak accessible by cable car, offering a wide view over the Portes du Soleil area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816515,
+                        46.190574
+                  ]
+            },
+            {
+                  "name": "Collines des Crosets",
+                  "text": "A mountain peak located near Val d'Illiez in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.828541,
+                        46.19084
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Val d'Illiez", hu: "Val d'Illiez", ro: "Val d'Illiez", en: "Val d'Illiez" },
@@ -903,7 +4260,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-val-d-illiez-nature-v2.webp",
   },
   {
-    id: "switzerland-lac-de-cleuson-nature-v2",
+    id: "switzerland-lac-de-cleuson-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Informationspavillon Grande Dixence",
+                  "text": "Ein Informationspavillon am Lac de Cleuson über die Staumauer Grande Dixence.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Rosablanche",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354236,
+                        46.060506
+                  ]
+            },
+            {
+                  "name": "Petit Mont-Fort",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.326729,
+                        46.075775
+                  ]
+            },
+            {
+                  "name": "Le Parrain",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35133,
+                        46.045844
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe des Chamois",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.366818,
+                        46.035599
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Lui des Chamois",
+                  "text": "Ein Berggipfel in der Region Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354646,
+                        46.051032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "Információs pavilon a Cleuson-tónál a Grande Dixence gátról.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Rosablanche",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354236,
+                        46.060506
+                  ]
+            },
+            {
+                  "name": "Petit Mont-Fort",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.326729,
+                        46.075775
+                  ]
+            },
+            {
+                  "name": "Le Parrain",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35133,
+                        46.045844
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe des Chamois",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.366818,
+                        46.035599
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Lui des Chamois",
+                  "text": "Egy hegycsúcs Lac de Cleuson régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354646,
+                        46.051032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "Un pavilion de informare la Lac de Cleuson despre barajul Grande Dixence.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Rosablanche",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354236,
+                        46.060506
+                  ]
+            },
+            {
+                  "name": "Petit Mont-Fort",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.326729,
+                        46.075775
+                  ]
+            },
+            {
+                  "name": "Le Parrain",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35133,
+                        46.045844
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe des Chamois",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.366818,
+                        46.035599
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Lui des Chamois",
+                  "text": "Un vârf muntos în regiunea Lac de Cleuson.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354646,
+                        46.051032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "An information pavilion at Lac de Cleuson about the Grande Dixence dam.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Rosablanche",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354236,
+                        46.060506
+                  ]
+            },
+            {
+                  "name": "Petit Mont-Fort",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.326729,
+                        46.075775
+                  ]
+            },
+            {
+                  "name": "Le Parrain",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35133,
+                        46.045844
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe des Chamois",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.366818,
+                        46.035599
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Lui des Chamois",
+                  "text": "A mountain peak in the Lac de Cleuson region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.354646,
+                        46.051032
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Cleuson", hu: "Lac de Cleuson", ro: "Lac de Cleuson", en: "Lac de Cleuson" },
@@ -948,7 +4602,304 @@ export const switzerlandNatureV2: POI[] = [
     image: "/poi-images/switzerland-lac-de-cleuson-nature-v2.webp",
   },
   {
-    id: "switzerland-val-bavona-nature-v2",
+    id: "switzerland-val-bavona-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madone",
+                  "text": "Ein markanter Berggipfel in der Region Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.532869,
+                        46.340424
+                  ]
+            },
+            {
+                  "name": "Pizzo della Rossa",
+                  "text": "Ein Berggipfel in den Alpen des Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.550965,
+                        46.336578
+                  ]
+            },
+            {
+                  "name": "Madonino",
+                  "text": "Ein Gipfel in der Gebirgslandschaft des Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.570047,
+                        46.342977
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalietta",
+                  "text": "Ein 2775 Meter hoher Berggipfel in den Tessiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53636,
+                        46.343737
+                  ]
+            },
+            {
+                  "name": "Camino",
+                  "text": "Ein Gipfel in der Schweizer Region Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522505,
+                        46.336102
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalìa",
+                  "text": "Ein Berggipfel in den Tessiner Alpen oberhalb des Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506645,
+                        46.339225
+                  ]
+            },
+            {
+                  "name": "Pizzo Piènsgia",
+                  "text": "Ein Gipfel in den Bergen des Kantons Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.500785,
+                        46.376811
+                  ]
+            },
+            {
+                  "name": "Pizzo Solögna",
+                  "text": "Ein Berggipfel in den Tessiner Alpen mit Blick auf das Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.49585,
+                        46.380057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madone",
+                  "text": "Egy jellegzetes hegycsúcs a Val Bavona régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.532869,
+                        46.340424
+                  ]
+            },
+            {
+                  "name": "Pizzo della Rossa",
+                  "text": "Hegycsúcs a Val Bavona-völgy felett az Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.550965,
+                        46.336578
+                  ]
+            },
+            {
+                  "name": "Madonino",
+                  "text": "Hegycsúcs a Val Bavona hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.570047,
+                        46.342977
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalietta",
+                  "text": "Egy 2775 méter magas hegycsúcs a Tessini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53636,
+                        46.343737
+                  ]
+            },
+            {
+                  "name": "Camino",
+                  "text": "Egy hegycsúcs a svájci Val Bavona régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522505,
+                        46.336102
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalìa",
+                  "text": "Hegycsúcs a Tessini-Alpokban, a Val Bavona felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506645,
+                        46.339225
+                  ]
+            },
+            {
+                  "name": "Pizzo Piènsgia",
+                  "text": "Hegycsúcs Ticino kanton hegyei között.",
+                  "category": "landmark",
+                  "coords": [
+                        8.500785,
+                        46.376811
+                  ]
+            },
+            {
+                  "name": "Pizzo Solögna",
+                  "text": "Hegycsúcs a Tessini-Alpokban, kilátással a Val Bavona-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.49585,
+                        46.380057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madone",
+                  "text": "Un vârf montan proeminent în regiunea Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.532869,
+                        46.340424
+                  ]
+            },
+            {
+                  "name": "Pizzo della Rossa",
+                  "text": "Un vârf muntos în Alpii din Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.550965,
+                        46.336578
+                  ]
+            },
+            {
+                  "name": "Madonino",
+                  "text": "Un vârf în peisajul montan din Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.570047,
+                        46.342977
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalietta",
+                  "text": "Un vârf montan de 2775 de metri în Alpii Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53636,
+                        46.343737
+                  ]
+            },
+            {
+                  "name": "Camino",
+                  "text": "Un vârf în regiunea elvețiană Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522505,
+                        46.336102
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalìa",
+                  "text": "Un vârf montan în Alpii Ticino, deasupra Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506645,
+                        46.339225
+                  ]
+            },
+            {
+                  "name": "Pizzo Piènsgia",
+                  "text": "Un vârf în munții cantonului Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.500785,
+                        46.376811
+                  ]
+            },
+            {
+                  "name": "Pizzo Solögna",
+                  "text": "Un vârf montan în Alpii Ticino, cu vedere spre Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.49585,
+                        46.380057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madone",
+                  "text": "A prominent mountain peak in the Val Bavona region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.532869,
+                        46.340424
+                  ]
+            },
+            {
+                  "name": "Pizzo della Rossa",
+                  "text": "A mountain peak in the Alps of Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.550965,
+                        46.336578
+                  ]
+            },
+            {
+                  "name": "Madonino",
+                  "text": "A peak in the mountainous landscape of Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.570047,
+                        46.342977
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalietta",
+                  "text": "A 2,775-metre high mountain peak in the Lepontine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53636,
+                        46.343737
+                  ]
+            },
+            {
+                  "name": "Camino",
+                  "text": "A peak in the Swiss region of Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.522505,
+                        46.336102
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Orsalìa",
+                  "text": "A mountain peak in the Lepontine Alps above Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.506645,
+                        46.339225
+                  ]
+            },
+            {
+                  "name": "Pizzo Piènsgia",
+                  "text": "A peak in the mountains of the Ticino canton.",
+                  "category": "landmark",
+                  "coords": [
+                        8.500785,
+                        46.376811
+                  ]
+            },
+            {
+                  "name": "Pizzo Solögna",
+                  "text": "A mountain peak in the Lepontine Alps overlooking Val Bavona.",
+                  "category": "landmark",
+                  "coords": [
+                        8.49585,
+                        46.380057
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CH",
     name: { de: "Val Bavona", hu: "Val Bavona", ro: "Val Bavona", en: "Val Bavona" },

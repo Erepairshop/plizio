@@ -309,7 +309,160 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-pehcovo-cities-v2.webp",
   },
   {
-    id: "northmacedonia-berovo-cities-v2", "sights": {"de": [{"name": "Berovsko Ezero", "text": "Der Berovo-See ist ein malerischer See in der Nähe von Berovo. Er ist ein friedliches Ziel für Spaziergänge und zum Genießen der frischen Luft.", "category": "natural", "coords": [22.905291, 41.667449]}], "hu": [{"name": "Berovsko Ezero", "text": "A Berovói-tó egy festői tó Berovo közelében. Nyugodt úti cél sétákhoz és a friss levegő élvezetéhez.", "category": "natural", "coords": [22.905291, 41.667449]}], "ro": [{"name": "Berovsko Ezero", "text": "Lacul Berovo este un lac pitoresc situat lângă Berovo. Este o destinație liniștită pentru plimbări și aer curat.", "category": "natural", "coords": [22.905291, 41.667449]}], "en": [{"name": "Berovo Lake", "text": "Berovo Lake is a scenic lake located near Berovo. It is a peaceful destination for walking and enjoying the fresh air.", "category": "natural", "coords": [22.905291, 41.667449]}]},
+    id: "northmacedonia-berovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berovsko Ezero",
+                  "text": "Der Berovo-See ist ein malerischer See in der Nähe von Berovo. Er ist ein friedliches Ziel für Spaziergänge und zum Genießen der frischen Luft.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            },
+            {
+                  "name": "Музеј на град Берово",
+                  "text": "Das Stadtmuseum von Berovo präsentiert die Geschichte, Ethnologie und Archäologie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        22.856492,
+                        41.707702
+                  ]
+            },
+            {
+                  "name": "Дом на културата",
+                  "text": "Ein Kulturzentrum in Berovo, das als Treffpunkt für Kunst, Musik und lokale Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        22.85724,
+                        41.70546
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Архангел Михаил",
+                  "text": "Ein bedeutendes Kloster in Berovo, das für seine Architektur und spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.859018,
+                        41.701039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berovsko Ezero",
+                  "text": "A Berovói-tó egy festői tó Berovo közelében. Nyugodt úti cél sétákhoz és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            },
+            {
+                  "name": "Музеј на град Берово",
+                  "text": "Berovo városi múzeuma a régió történelmét, néprajzát és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.856492,
+                        41.707702
+                  ]
+            },
+            {
+                  "name": "Дом на културата",
+                  "text": "Kulturális központ Berovóban, amely a művészet, a zene és a helyi események találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        22.85724,
+                        41.70546
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Архангел Михаил",
+                  "text": "Jelentős kolostor Berovóban, amely építészetéről és spirituális légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.859018,
+                        41.701039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berovsko Ezero",
+                  "text": "Lacul Berovo este un lac pitoresc situat lângă Berovo. Este o destinație liniștită pentru plimbări și aer curat.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            },
+            {
+                  "name": "Музеј на град Берово",
+                  "text": "Muzeul orașului Berovo prezintă istoria, etnologia și arheologia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.856492,
+                        41.707702
+                  ]
+            },
+            {
+                  "name": "Дом на културата",
+                  "text": "Un centru cultural din Berovo care servește ca loc de întâlnire pentru artă, muzică și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.85724,
+                        41.70546
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Архангел Михаил",
+                  "text": "O mănăstire importantă din Berovo, cunoscută pentru arhitectura sa și atmosfera spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        22.859018,
+                        41.701039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berovo Lake",
+                  "text": "Berovo Lake is a scenic lake located near Berovo. It is a peaceful destination for walking and enjoying the fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        22.905291,
+                        41.667449
+                  ]
+            },
+            {
+                  "name": "Berovo Town Museum",
+                  "text": "The Berovo Town Museum presents the history, ethnology, and archaeology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        22.856492,
+                        41.707702
+                  ]
+            },
+            {
+                  "name": "Cultural centre",
+                  "text": "A cultural center in Berovo that serves as a hub for art, music, and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.85724,
+                        41.70546
+                  ]
+            },
+            {
+                  "name": "Monastery",
+                  "text": "A significant monastery in Berovo known for its architecture and spirituel atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        22.859018,
+                        41.701039
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Berowo", hu: "Berovo", ro: "Berovo", en: "Berovo" },
@@ -669,7 +822,52 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-vinica-cities-v2.webp",
   },
   {
-    id: "northmacedonia-demirkapija-cities-v2",
+    id: "northmacedonia-demirkapija-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Wine",
+                  "text": "Ein Museum über den Weinbau in Demir Kapija.",
+                  "category": "museum",
+                  "coords": [
+                        22.244736,
+                        41.408648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Wine",
+                  "text": "A bortermesztést bemutató múzeum Demir Kapija városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.244736,
+                        41.408648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Wine",
+                  "text": "Un muzeu dedicat vinificației situat în Demir Kapija.",
+                  "category": "museum",
+                  "coords": [
+                        22.244736,
+                        41.408648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Wine",
+                  "text": "A museum dedicated to viticulture located in Demir Kapija.",
+                  "category": "museum",
+                  "coords": [
+                        22.244736,
+                        41.408648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Demir Kapija", hu: "Demir Kapija", ro: "Demir Kapija", en: "Demir Kapija" },
@@ -714,7 +912,196 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-demirkapija-cities-v2.webp",
   },
   {
-    id: "northmacedonia-kratovo-cities-v2", "sights": {"de": [{"name": "Kundisko Ezero", "text": "Ein malerischer See in Kratovo, ideal für einen entspannten Spaziergang.", "category": "natural", "coords": [22.155638, 42.030829]}], "hu": [{"name": "Kundisko Ezero", "text": "Festői tó Kratovo területén, tökéletes egy pihentető sétához.", "category": "natural", "coords": [22.155638, 42.030829]}], "ro": [{"name": "Kundisko Ezero", "text": "Un lac pitoresc în Kratovo, perfect pentru o plimbare relaxantă.", "category": "natural", "coords": [22.155638, 42.030829]}], "en": [{"name": "Kundino Lake", "text": "A scenic lake in Kratovo, perfect for a relaxing walk.", "category": "natural", "coords": [22.155638, 42.030829]}]},
+    id: "northmacedonia-kratovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kundisko Ezero",
+                  "text": "Ein malerischer See in Kratovo, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            },
+            {
+                  "name": "Музеј на град Кратово",
+                  "text": "Das städtische Museum von Kratovo dokumentiert die reiche Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        22.181093,
+                        42.077899
+                  ]
+            },
+            {
+                  "name": "Емин-бегова кула",
+                  "text": "Einer der charakteristischen mittelalterlichen Türme der Stadt Kratovo.",
+                  "category": "historical",
+                  "coords": [
+                        22.182352,
+                        42.076946
+                  ]
+            },
+            {
+                  "name": "Саат-кула",
+                  "text": "Ein historischer Uhrturm in Kratovo, der ein wichtiges Denkmal der osmanischen Zeit darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        22.181811,
+                        42.079205
+                  ]
+            },
+            {
+                  "name": "Симиќева кула",
+                  "text": "Ein steinerner Turm in Kratovo, der die mittelalterliche Befestigungskunst der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        22.179471,
+                        42.078696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kundisko Ezero",
+                  "text": "Festői tó Kratovo területén, tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            },
+            {
+                  "name": "Музеј на град Кратово",
+                  "text": "Kratovo városi múzeuma a régió gazdag történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.181093,
+                        42.077899
+                  ]
+            },
+            {
+                  "name": "Емин-бегова кула",
+                  "text": "Kratovo városának egyik jellegzetes középkori tornya.",
+                  "category": "historical",
+                  "coords": [
+                        22.182352,
+                        42.076946
+                  ]
+            },
+            {
+                  "name": "Саат-кула",
+                  "text": "Kratovo történelmi óratornya, az oszmán korszak egyik fontos műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        22.181811,
+                        42.079205
+                  ]
+            },
+            {
+                  "name": "Симиќева кула",
+                  "text": "Kőtorony Kratovóban, amely a régió középkori erődépítészetét képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        22.179471,
+                        42.078696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kundisko Ezero",
+                  "text": "Un lac pitoresc în Kratovo, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            },
+            {
+                  "name": "Музеј на град Кратово",
+                  "text": "Muzeul orașului Kratovo documentează istoria și cultura bogată a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.181093,
+                        42.077899
+                  ]
+            },
+            {
+                  "name": "Емин-бегова кула",
+                  "text": "Unul dintre turnurile medievale caracteristice ale orașului Kratovo.",
+                  "category": "historical",
+                  "coords": [
+                        22.182352,
+                        42.076946
+                  ]
+            },
+            {
+                  "name": "Саат-кула",
+                  "text": "Turnul cu ceas istoric din Kratovo, un monument important din perioada otomană.",
+                  "category": "historical",
+                  "coords": [
+                        22.181811,
+                        42.079205
+                  ]
+            },
+            {
+                  "name": "Симиќева кула",
+                  "text": "Un turn de piatră din Kratovo, reprezentativ pentru arhitectura fortificată medievală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        22.179471,
+                        42.078696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kundino Lake",
+                  "text": "A scenic lake in Kratovo, perfect for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        22.155638,
+                        42.030829
+                  ]
+            },
+            {
+                  "name": "Museum of the city of Kratovo",
+                  "text": "The municipal museum of Kratovo documents the region's rich history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        22.181093,
+                        42.077899
+                  ]
+            },
+            {
+                  "name": "Emin Bey Tower",
+                  "text": "One of the characteristic medieval towers in the town of Kratovo.",
+                  "category": "historical",
+                  "coords": [
+                        22.182352,
+                        42.076946
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "The historic clock tower in Kratovo, an important monument from the Ottoman period.",
+                  "category": "historical",
+                  "coords": [
+                        22.181811,
+                        42.079205
+                  ]
+            },
+            {
+                  "name": "Simikj Tower",
+                  "text": "A stone tower in Kratovo representing the medieval fortification style of the region.",
+                  "category": "historical",
+                  "coords": [
+                        22.179471,
+                        42.078696
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Kratowo", hu: "Kratovo", ro: "Kratovo", en: "Kratovo" },

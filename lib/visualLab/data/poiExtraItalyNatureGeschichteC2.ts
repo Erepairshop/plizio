@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraItalyNatureGeschichteC2: POI[] = [
   {
-    id: "it-etna",
+    id: "it-etna", "sights": {
+      "de": [
+            {
+                  "name": "Park des Ätna",
+                  "text": "Ein geschütztes Naturgebiet rund um den berühmten aktiven Vulkan Siziliens.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Ein markanter Berggipfel in der Nähe des Ätna-Kraters mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "Ein weites Gebiet mit erstarrter Lava, das die vulkanische Aktivität zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "Eine Formation aus erstarrter Lava, die bei einem der jüngsten Ausbrüche entstand.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco dell'Etna",
+                  "text": "Védett természeti terület Szicília híres aktív vulkánja körül.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Jellegzetes hegycsúcs az Etna kráterének közelében, pazar kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "Megkövesedett lávával borított kiterjedt terület, amely a vulkáni tevékenységet szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "Egyik legutóbbi kitörés során keletkezett megkövesedett lávaformáció.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco dell'Etna",
+                  "text": "O zonă naturală protejată în jurul celebrului vulcan activ din Sicilia.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Un vârf montan proeminent lângă craterul Etnei, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "O zonă vastă de lavă solidificată care demonstrează activitatea vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "O formațiune de lavă solidificată creată în timpul unei erupții recente.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Etna",
+                  "text": "A protected natural area surrounding Sicily's famous active volcano.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "A prominent mountain peak near the Etna crater, offering expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Lava Field West Margin",
+                  "text": "A vast area of solidified lava demonstrating the volcanic activity.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Lava stream 2019",
+                  "text": "A solidified lava formation created during a recent eruption.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ]
+},
     name: { de: "Ätna", hu: "Etna", ro: "Etna", en: "Mount Etna" },
     parent: "reg-sicilia",
     type: "mountain",

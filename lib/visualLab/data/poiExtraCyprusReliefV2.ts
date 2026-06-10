@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const cyprusReliefV2: POI[] = [
 
   {
-    id: "cyprus-papoutsa-peak-relief-v2",
+    id: "cyprus-papoutsa-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Ein Museum, das traditionelles Kunsthandwerk und Volkskunst der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Ein Observatorium im Troodos-Gebirge, das Einblicke in die Astronomie bietet.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Die byzantinische Kirche Panagia tou Araka gehört zum UNESCO-Weltkulturerbe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Ein Denkmal, das an die Gefallenen vergangener Kriege in der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt, der einen weiten Panoramablick über den Nordwesten Zyperns bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "A régió hagyományos kézművességét és népművészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "A Troodos-hegységben található csillagvizsgáló, amely betekintést nyújt a csillagászatba.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "A bizánci Panagia tou Araka-templom az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Emlékmű, amely a régió múltbéli háborúinak áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátópont, amely széles panorámát kínál Ciprus északnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Un muzeu care prezintă meșteșugurile tradiționale și arta populară a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator situat în munții Troodos, oferind informații despre astronomie.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Biserica bizantină Panagia tou Araka face parte din patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Un monument care onorează memoria celor căzuți în războaiele trecute din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de belvedere care oferă o panoramă vastă asupra nord-vestului Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art",
+                  "text": "A museum presenting the traditional crafts and folk art of the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Troodos Observatory",
+                  "text": "An observatory located in the Troodos Mountains, offering insights into astronomy.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Panagia tou Araka",
+                  "text": "The Byzantine church of Panagia tou Araka is a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A memorial honoring those who fell in past wars in the region.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A viewpoint offering a broad panoramic view over north-west Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Papoutsa Gipfel", hu: "Papoutsa-csúcs", ro: "Vârful Papoutsa", en: "Papoutsa Peak" },
@@ -48,7 +237,88 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-papoutsa-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-kionia-peak-relief-v2",
+    id: "cyprus-kionia-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Ein Museum im denkmalgeschützten Dorf Fikardou, das das traditionelle zypriotische Landleben bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Ein dem EOKA-Helden Grigoris Afxentiou gewidmetes Museum an seinem historischen Versteck bei Machairas.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Múzeum a műemlékvédelem alatt álló Fikardou faluban, amely a hagyományos ciprusi vidéki életet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Az EOKA-hős Grigorisz Afxentiunak szentelt múzeum történelmi rejtekhelyénél, Machairas közelében.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Un muzeu în satul protejat Fikardou, care conservă viața rurală tradițională cipriotă.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Un muzeu dedicat eroului EOKA Grigoris Afxentiou, situat la ascunzătoarea sa istorică de lângă Machairas.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikardou Rural Museum",
+                  "text": "A museum in the heritage village of Fikardou preserving traditional Cypriot rural life.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Grigoris Afxentiou",
+                  "text": "A museum dedicated to EOKA hero Grigoris Afxentiou at his historic hideout near Machairas.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Kionia Gipfel", hu: "Kionia-csúcs", ro: "Vârful Kionia", en: "Kionia Peak" },
@@ -93,7 +363,232 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-kionia-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-adelphi-peak-relief-v2",
+    id: "cyprus-adelphi-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Ein Wildgehege, das dem Schutz der endemischen Zypern-Mufflons gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Ein historisches byzantinisches Kloster in der Nähe des Adelphi-Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Eine UNESCO-geschützte byzantinische Kirche aus dem 12. Jahrhundert mit bedeutenden Fresken.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Ein Denkmal zum Gedenken an die Gefallenen vergangener Konflikte.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Nordwesten der Insel Zypern.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Eine kleine Kirche oder Kapelle, die dem Heiligen Kreuz geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Vadaspark, amelyet az endemikus ciprusi muflonok védelmének szenteltek.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Történelmi bizánci kolostor az Adelphi-csúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "UNESCO által védett 12. századi bizánci templom jelentős freskókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Emlékmű a múltbeli konfliktusok elesettjeinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátópont, ahonnan széles kilátás nyílik Ciprus északnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A Szent Keresztnek szentelt kis templom vagy kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "O incintă pentru animale sălbatice dedicată protejării muflonilor endemici din Cipru.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "O mănăstire bizantină istorică situată lângă vârful Adelphi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "O biserică bizantină din secolul al XII-lea, protejată de UNESCO, cu fresce semnificative.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Un monument ridicat în memoria celor căzuți în conflictele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de observare cu o vedere largă asupra nord-vestului Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "O mică biserică sau capelă dedicată Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "A wildlife enclosure dedicated to the protection of the endemic Cyprus mouflon.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
+                  "text": "A historic Byzantine monastery located near the Adelphi Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Panagia tou Araka",
+                  "text": "A 12th-century UNESCO-listed Byzantine church featuring significant frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A monument dedicated to the memory of those who fell in past conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A viewpoint offering broad vistas over the northwest of Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A small church or chapel dedicated to the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Adelphi Gipfel", hu: "Adelphi-csúcs", ro: "Vârful Adelphi", en: "Adelphi Peak" },
@@ -138,7 +633,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-adelphi-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-kornos-hill-relief-v2",
+    id: "cyprus-kornos-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old bridge",
+                  "text": "Eine alte Brücke als lokale Sehenswürdigkeit am Kornos Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        33.357136,
+                        34.910002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old bridge",
+                  "text": "Egy régi híd, amely helyi látványosság a Kornos-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        33.357136,
+                        34.910002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old bridge",
+                  "text": "Un pod vechi, atracție locală la dealul Kornos.",
+                  "category": "landmark",
+                  "coords": [
+                        33.357136,
+                        34.910002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old bridge",
+                  "text": "An old bridge serving as a local attraction at Kornos Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        33.357136,
+                        34.910002
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Kornos Hügel", hu: "Kornos-domb", ro: "Dealul Kornos", en: "Kornos Hill" },
@@ -183,7 +723,304 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-kornos-hill-relief-v2.webp",
   },
   {
-    id: "cyprus-trooditissa-valley-relief-v2",
+    id: "cyprus-trooditissa-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olympos",
+                  "text": "Der höchste Gipfel Zyperns im Troodos-Gebirge mit weitem Blick über die Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ein bekannter Wasserfall im Troodos-Gebirge, der über eine bewaldete Felswand stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Medieval Bridge",
+                  "text": "Eine historische Steinbrücke aus dem Mittelalter im malerischen Trooditissa-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        32.793253,
+                        34.924919
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Ein Aussichtspunkt im Troodos-Gebirge, der für seine weiten Panoramablicke bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein markanter Aussichtspunkt in der Bergregion mit Blick auf die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Eine ehemalige Mine im Troodos-Gebirge, die Einblicke in die Bergbaugeschichte der Insel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Ein imposanter und sehr alter Schwarzkiefer-Baum im Troodos-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            },
+            {
+                  "name": "Αγιος Αντρόνικος",
+                  "text": "Die Ruinen einer historischen Stätte im Trooditissa-Tal, die von der Vergangenheit der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        32.791345,
+                        34.924446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Όλυμπος",
+                  "text": "Ciprus legmagasabb csúcsa a Tróodosz-hegységben, ahonnan kilátás nyílik az egész szigetre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ismert vízesés a Tróodosz-hegységben, amely egy erdős sziklafalon zúdul le.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Medieval Bridge",
+                  "text": "Középkori kőhíd a festői Trooditissa-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        32.793253,
+                        34.924919
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kilátópont a Tróodosz-hegységben, amely széles panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Jellegzetes kilátópont a hegyvidéken, rálátással a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Egykori bánya a Tróodosz-hegységben, amely betekintést nyújt a sziget bányászati történetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Lenyűgöző és igen öreg feketefenyő a Tróodosz-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            },
+            {
+                  "name": "Αγιος Αντρόνικος",
+                  "text": "Egy történelmi helyszín romjai a Trooditissa-völgyben, amelyek a régió múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        32.791345,
+                        34.924446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Όλυμπος",
+                  "text": "Cel mai înalt vârf din Cipru, situat în munții Troodos, oferind o vedere panoramică asupra insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "O cascadă cunoscută în munții Troodos, care cade peste un perete stâncos împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Medieval Bridge",
+                  "text": "Un pod istoric din piatră, datând din perioada medievală, situat în pitoreasca vale Trooditissa.",
+                  "category": "historical",
+                  "coords": [
+                        32.793253,
+                        34.924919
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Un punct de observație în munții Troodos, cunoscut pentru vederile sale panoramice întinse.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de observație proeminent în regiunea montană, cu vedere spre văile înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "O fostă mină în munții Troodos, care oferă informații despre istoria minieră a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Un pin negru impunător și foarte bătrân situat în pădurea Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            },
+            {
+                  "name": "Αγιος Αντρόνικος",
+                  "text": "Ruinele unui sit istoric din valea Trooditissa, care atestă trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        32.791345,
+                        34.924446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olympus",
+                  "text": "The highest peak in Cyprus, located in the Troodos Mountains, offering expansive views over the island.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "A well-known waterfall in the Troodos Mountains that plunges down a forested rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Medieval Bridge",
+                  "text": "A historic stone bridge dating back to the medieval period in the scenic Trooditissa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        32.793253,
+                        34.924919
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "A viewpoint in the Troodos Mountains known for its wide panoramic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A prominent viewpoint in the mountain region overlooking the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Chromite mine",
+                  "text": "A former mine in the Troodos Mountains offering insight into the island's mining history.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "An impressive and very old black pine tree located in the Troodos forest.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            },
+            {
+                  "name": "Agios Antronikos",
+                  "text": "The ruins of a historic site in the Trooditissa Valley, bearing witness to the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        32.791345,
+                        34.924446
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Trooditissa Tal", hu: "Trooditissa-völgy", ro: "Valea Trooditissa", en: "Trooditissa Valley" },
@@ -228,7 +1065,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-trooditissa-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-solea-valley-relief-v2",
+    id: "cyprus-solea-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linos",
+                  "text": "Ein Museum im Solea-Tal, das der traditionellen Weinherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "Eine UNESCO-geschützte byzantinische Kirche mit einem markanten Dach und bedeutenden Fresken.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Ein legendärer Felsen im Dorf Kakopetria, um den sich lokale Sagen ranken.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "Eine zum UNESCO-Weltkulturerbe gehörende Kirche mit bedeutender Wandmalerei bei Galata.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linos",
+                  "text": "A hagyományos borkészítésnek szentelt múzeum a Solea-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "UNESCO-védettségű bizánci templom meredek tetővel és jelentős freskókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Legendás szikla Kakopetria faluban, amelyhez helyi mondák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "Az UNESCO Világörökség részét képező, gazdagon díszített templom Galata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linos",
+                  "text": "Un muzeu dedicat vinificației tradiționale în valea Solea.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "O biserică bizantină sub protecția UNESCO, cu un acoperiș distinctiv și fresce importante.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "O stâncă legendară în satul Kakopetria, de care sunt legate legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "O biserică inclusă în Patrimoniul Mondial UNESCO, cu picturi murale importante, lângă Galata.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linos",
+                  "text": "A museum dedicated to traditional winemaking in the Solea Valley.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "A UNESCO-listed Byzantine church with a distinctive roof and significant frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "A legendary rock in the village of Kakopetria, associated with local myths.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Panagia Podithou",
+                  "text": "A UNESCO World Heritage church with significant murals located near Galata.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Solea Tal", hu: "Solea-völgy", ro: "Valea Solea", en: "Solea Valley" },
@@ -363,7 +1353,124 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-paphos-lowlands-relief-v2.webp",
   },
   {
-    id: "cyprus-karpas-peninsula-relief-v2",
+    id: "cyprus-karpas-peninsula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Ein religiöses Denkmal auf der malerischen Halbinsel Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Die Ruinen einer alten Kirche auf der Halbinsel Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Antike Ruinen und archäologische Überreste auf der Halbinsel Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Vallási emlékmű a festői Karpas-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Egy ősi templom romjai a Karpas-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Antik romok és régészeti maradványok a Karpas-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Un monument religios situat în pitoreasca Peninsulă Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ruinele unei biserici vechi din Peninsula Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Ruine antice și vestigii arheologice găsite în Peninsula Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "A religious monument located on the scenic Karpas Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "The ruins of an ancient church on the Karpas Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Ancient ruins and archaeological remains found on the Karpas Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     name: { de: "Karpas Halbinsel", hu: "Karpaz-félsziget", ro: "Peninsula Karpas", en: "Karpas Peninsula" },
@@ -633,7 +1740,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-kormakitis-peninsula-relief-v2.webp",
   },
   {
-    id: "cyprus-akrotiri-peninsula-relief-v2",
+    id: "cyprus-akrotiri-peninsula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aetokremnos",
+                  "text": "Eine archäologische Stätte, die für die Entdeckung von Überresten von Zwergflusspferden bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.990626,
+                        34.570529
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "text": "Ein historisches Kloster, das für seine Legende und die große Anzahl an Katzen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986948,
+                        34.599506
+                  ]
+            },
+            {
+                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "text": "Ein Informationszentrum, das sich der Artenvielfalt und Ökologie der Akrotiri-Feuchtgebiete widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.960337,
+                        34.600637
+                  ]
+            },
+            {
+                  "name": "MAV Achaios",
+                  "text": "Das sichtbare Wrack eines Frachtschiffs, das vor der Küste der Halbinsel auf Grund lief.",
+                  "category": "landmark",
+                  "coords": [
+                        32.929451,
+                        34.605012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aetokremnos",
+                  "text": "Régészeti lelőhely, amely törpevíziló-maradványok felfedezéséről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        32.990626,
+                        34.570529
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "text": "Történelmi kolostor, amely legendájáról és a területén élő számos macskáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986948,
+                        34.599506
+                  ]
+            },
+            {
+                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "text": "Az Akrotiri-vizes élőhelyek biológiai sokféleségével és ökológiájával foglalkozó központ.",
+                  "category": "landmark",
+                  "coords": [
+                        32.960337,
+                        34.600637
+                  ]
+            },
+            {
+                  "name": "MAV Achaios",
+                  "text": "Egy teherhajó látható roncsa, amely a félsziget partjainál futott zátonyra.",
+                  "category": "landmark",
+                  "coords": [
+                        32.929451,
+                        34.605012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aetokremnos",
+                  "text": "Un sit arheologic cunoscut pentru descoperirea rămășițelor de hipopotami pitici.",
+                  "category": "historical",
+                  "coords": [
+                        32.990626,
+                        34.570529
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "text": "O mănăstire istorică faimoasă pentru legenda sa și numărul mare de pisici.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986948,
+                        34.599506
+                  ]
+            },
+            {
+                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "text": "Un centru de informare dedicat biodiversității și ecologiei zonelor umede din Akrotiri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.960337,
+                        34.600637
+                  ]
+            },
+            {
+                  "name": "MAV Achaios",
+                  "text": "Epava vizibilă a unei nave cargo care a eșuat în largul coastei peninsulei.",
+                  "category": "landmark",
+                  "coords": [
+                        32.929451,
+                        34.605012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aetokremnos",
+                  "text": "An archaeological site famous for the discovery of pygmy hippopotamus remains.",
+                  "category": "historical",
+                  "coords": [
+                        32.990626,
+                        34.570529
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of St Nicholas of the Cats",
+                  "text": "A historic monastery famous for its legend and the large number of resident cats.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986948,
+                        34.599506
+                  ]
+            },
+            {
+                  "name": "Akrotiri Environmental Education Center",
+                  "text": "An information center dedicated to the biodiversity and ecology of the Akrotiri wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        32.960337,
+                        34.600637
+                  ]
+            },
+            {
+                  "name": "MAV Achaios",
+                  "text": "The visible wreck of a cargo ship that ran aground off the coast of the peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        32.929451,
+                        34.605012
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     name: { de: "Akrotiri Halbinsel", hu: "Akrotiri-félsziget", ro: "Peninsula Akrotiri", en: "Akrotiri Peninsula" },
@@ -678,7 +1938,232 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-akrotiri-peninsula-relief-v2.webp",
   },
   {
-    id: "cyprus-dipkarpaz-lowlands-relief-v2",
+    id: "cyprus-dipkarpaz-lowlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Ein historisches Denkmal in der Region Dipkarpaz auf Nordzypern.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church of Saint George",
+                  "text": "Die Überreste einer alten St.-Georgs-Kirche in den Tiefebenen von Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.375003,
+                        35.562198
+                  ]
+            },
+            {
+                  "name": "Church of the Panayia Syka",
+                  "text": "Ruinen einer historischen byzantinischen Kirche auf der Karpas-Halbinsel.",
+                  "category": "historical",
+                  "coords": [
+                        34.332501,
+                        35.544994
+                  ]
+            },
+            {
+                  "name": "Church of Saint George at Sykada",
+                  "text": "Die Ruinen der St.-Georgs-Kirche bei Sykada in der Region Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.32315,
+                        35.544214
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Überreste einer historischen Kirche in der abgelegenen Landschaft von Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Sykadha",
+                  "text": "Eine archäologische Fundstelle mit Ruinen antiker Siedlungsstrukturen in Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.349324,
+                        35.543481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Történelmi emlékmű a Dipkarpaz régióban, Észak-Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church of Saint George",
+                  "text": "Egy régi Szent György-templom maradványai a Dipkarpaz-alföldön.",
+                  "category": "historical",
+                  "coords": [
+                        34.375003,
+                        35.562198
+                  ]
+            },
+            {
+                  "name": "Church of the Panayia Syka",
+                  "text": "Egy történelmi bizánci templom romjai a Karpasz-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        34.332501,
+                        35.544994
+                  ]
+            },
+            {
+                  "name": "Church of Saint George at Sykada",
+                  "text": "A Sykada melletti Szent György-templom romjai a Dipkarpaz régióban.",
+                  "category": "historical",
+                  "coords": [
+                        34.32315,
+                        35.544214
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Egy történelmi templom maradványai Dipkarpaz távoli vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Sykadha",
+                  "text": "Régészeti lelőhely ősi településnyomokkal Dipkarpaz területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.349324,
+                        35.543481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "Un monument istoric în regiunea Dipkarpaz din Ciprul de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church of Saint George",
+                  "text": "Rămășițele unei vechi biserici Sfântul Gheorghe în câmpiile din Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.375003,
+                        35.562198
+                  ]
+            },
+            {
+                  "name": "Church of the Panayia Syka",
+                  "text": "Ruinele unei biserici bizantine istorice în peninsula Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.332501,
+                        35.544994
+                  ]
+            },
+            {
+                  "name": "Church of Saint George at Sykada",
+                  "text": "Ruinele bisericii Sfântul Gheorghe de la Sykada, în regiunea Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.32315,
+                        35.544214
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Rămășițele unei biserici istorice în peisajul izolat din Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Sykadha",
+                  "text": "Un sit arheologic cu ruine ale unor structuri antice de așezare în Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.349324,
+                        35.543481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "A historical monument located in the Dipkarpaz region of Northern Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        34.300362,
+                        35.573618
+                  ]
+            },
+            {
+                  "name": "Church of Saint George",
+                  "text": "The remains of an ancient Saint George church in the Dipkarpaz lowlands.",
+                  "category": "historical",
+                  "coords": [
+                        34.375003,
+                        35.562198
+                  ]
+            },
+            {
+                  "name": "Church of the Panayia Syka",
+                  "text": "Ruins of a historic Byzantine church located on the Karpas Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        34.332501,
+                        35.544994
+                  ]
+            },
+            {
+                  "name": "Church of Saint George at Sykada",
+                  "text": "The ruins of the Saint George church at Sykada in the Dipkarpaz region.",
+                  "category": "historical",
+                  "coords": [
+                        34.32315,
+                        35.544214
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Remains of a historic church in the remote landscape of Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.360326,
+                        35.574573
+                  ]
+            },
+            {
+                  "name": "Sykadha",
+                  "text": "An archaeological site featuring ruins of ancient settlement structures in Dipkarpaz.",
+                  "category": "historical",
+                  "coords": [
+                        34.349324,
+                        35.543481
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Dipkarpaz Tiefland", hu: "Dipkarpaz-alföld", ro: "Câmpia Dipkarpaz", en: "Dipkarpaz Lowlands" },
@@ -723,7 +2208,304 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-dipkarpaz-lowlands-relief-v2.webp",
   },
   {
-    id: "cyprus-troodos-plateau-relief-v2",
+    id: "cyprus-troodos-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Ein ausgedehntes geschütztes Berggebiet auf Zypern, bekannt für seine vielfältige Flora und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympos",
+                  "text": "Der höchste Gipfel Zyperns im Herzen des Troodos-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Malerische Wasserfälle im Troodos-Gebirge, erreichbar über einen beliebten Naturpfad.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Ein Aussichtspunkt auf dem Troodos-Plateau mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt auf dem Troodos-Plateau mit Panoramablick auf die zypriotischen Berge.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Ein ehemaliges Bergwerk im Troodos-Gebirge, in dem früher Chromit abgebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Ein ausgewiesener Aussichtspunkt, der mit Teleskopen zur Beobachtung der Troodos-Landschaft ausgestattet ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Eine monumentale und uralte Kiefer im Troodos-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Hatalmas védett hegyi terület Cipruson, amely változatos flórájáról és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Ciprus legmagasabb csúcsa, a Tróodosz-hegység szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Festői vízesések a Tróodosz-hegységben, amelyek egy népszerű tanösvényen keresztül érhetők el.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kilátópont a Tróodosz-fennsíkon, ahonnan panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Kilátó a Tróodosz-fennsíkon, amely panorámás kilátást nyújt a ciprusi hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Egy egykori bánya a Tróodosz-hegységben, ahol korábban kromitot bányásztak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Kiépített kilátóhely távcsövekkel a Tróodosz tájainak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Egy monumentális és ősi fenyőfa a Tróodosz Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "O vastă zonă montană protejată din Cipru, cunoscută pentru flora sa diversă și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Cel mai înalt vârf din Cipru, situat în inima lanțului muntos Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Cascade pitorești în munții Troodos, accesibile printr-un traseu natural popular.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Un punct de observație pitoresc pe platoul Troodos, oferind vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de belvedere pe platoul Troodos, oferind panorame asupra munților ciprioți.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "O fostă mină în munții Troodos, de unde se extrăgea odinioară cromit.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Un punct de observație amenajat, dotat cu telescoape pentru vizionarea peisajului Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Un pin monumental și străvechi situat în Parcul Național Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos National Forest Park",
+                  "text": "A vast protected mountain area in Cyprus known for its diverse flora and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympus",
+                  "text": "The highest peak in Cyprus, located in the heart of the Troodos mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Scenic waterfalls in the Troodos mountains, accessible via a popular nature trail.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "A scenic observation point on the Troodos Plateau offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A viewpoint on the Troodos Plateau providing panoramic vistas of the Cypriot mountains.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Chromite mine",
+                  "text": "A former mining site in the Troodos mountains where chromite was once extracted.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "A designated lookout point equipped with telescopes for viewing the Troodos scenery.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "A monumental and ancient pine tree located within the Troodos National Forest Park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Troodos Plateau", hu: "Troodos-fennsík", ro: "Podișul Troodos", en: "Troodos Plateau" },
@@ -858,7 +2640,124 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-limassol-lowlands-relief-v2.webp",
   },
   {
-    id: "cyprus-dierona-valley-relief-v2",
+    id: "cyprus-dierona-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Éloros",
+                  "text": "Ein Berggipfel im Dierona-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.052572,
+                        34.821043
+                  ]
+            },
+            {
+                  "name": "Dieronas Little House",
+                  "text": "Eine lokale Sehenswürdigkeit im malerischen Dierona-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.086349,
+                        34.827529
+                  ]
+            },
+            {
+                  "name": "View Point",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf das Dierona-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        33.066663,
+                        34.861899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Éloros",
+                  "text": "Hegyi csúcs a Dierona-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        33.052572,
+                        34.821043
+                  ]
+            },
+            {
+                  "name": "Dieronas Little House",
+                  "text": "Helyi látnivaló a festői Dierona-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        33.086349,
+                        34.827529
+                  ]
+            },
+            {
+                  "name": "View Point",
+                  "text": "Panorámás kilátást nyújtó pont a Dierona-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        33.066663,
+                        34.861899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Éloros",
+                  "text": "Un vârf montan situat în Valea Dierona.",
+                  "category": "landmark",
+                  "coords": [
+                        33.052572,
+                        34.821043
+                  ]
+            },
+            {
+                  "name": "Dieronas Little House",
+                  "text": "O atracție locală în pitoreasca Vale Dierona.",
+                  "category": "landmark",
+                  "coords": [
+                        33.086349,
+                        34.827529
+                  ]
+            },
+            {
+                  "name": "View Point",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra Văii Dierona.",
+                  "category": "natural",
+                  "coords": [
+                        33.066663,
+                        34.861899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Éloros",
+                  "text": "A mountain peak located in the Dierona Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        33.052572,
+                        34.821043
+                  ]
+            },
+            {
+                  "name": "Dieronas Little House",
+                  "text": "A local attraction in the scenic Dierona Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        33.086349,
+                        34.827529
+                  ]
+            },
+            {
+                  "name": "View Point",
+                  "text": "A viewpoint offering panoramic views of the Dierona Valley.",
+                  "category": "natural",
+                  "coords": [
+                        33.066663,
+                        34.861899
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Dierona Tal", hu: "Dierona-völgy", ro: "Valea Dierona", en: "Dierona Valley" },
@@ -903,7 +2802,232 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-dierona-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-farma-peak-relief-v2",
+    id: "cyprus-farma-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Ein Museum für Volkskunst, das traditionelles Handwerk und Kultur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Ein modernes Observatorium im Troodos-Gebirge zur Beobachtung des Sternenhimmels.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Diese UNESCO-geschützte byzantinische Kirche ist für ihre gut erhaltenen Fresken bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Ein Denkmal zum Gedenken an die Opfer vergangener Kriege.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt am Farma Peak mit Panoramablick über den Nordwesten Zyperns.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Ein lokales Gotteshaus am Farma Peak.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Népművészeti múzeum, amely a régió hagyományos mesterségeit és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Modern csillagvizsgáló a Tróodosz-hegységben a csillagos égbolt megfigyelésére.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Ez az UNESCO védelme alatt álló bizánci templom jó állapotú freskóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Emlékmű a múltbeli háborúk áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátópont a Farma-csúcson, ahonnan panorámás kilátás nyílik Ciprus északnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Helyi vallási helyszín a Farma-csúcson.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Un muzeu de artă populară care prezintă meșteșugurile și cultura tradițională din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator modern în Munții Troodos pentru observarea cerului înstelat.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Această biserică bizantină protejată de UNESCO este cunoscută pentru frescele sale bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Un monument ridicat în memoria victimelor războaielor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de belvedere pe vârful Farma, oferind o panoramă asupra nord-vestului Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Un lăcaș de cult local situat pe vârful Farma.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art",
+                  "text": "A museum of folk art showcasing traditional crafts and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Troodos Observatory",
+                  "text": "A modern observatory in the Troodos Mountains for observing the starry sky.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Panagia tou Araka",
+                  "text": "This UNESCO-protected Byzantine church is known for its well-preserved frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A memorial dedicated to the victims of past wars.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A viewpoint on Farma Peak offering panoramic views over north west Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A local place of worship located on Farma Peak.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Farma Gipfel", hu: "Farma-csúcs", ro: "Vârful Farma", en: "Farma Peak" },
@@ -948,7 +3072,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-farma-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-spilia-valley-relief-v2",
+    id: "cyprus-spilia-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Ein historisches Kloster im Spilia-Tal auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Történelmi kolostor a ciprusi Spilia-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "O mănăstire istorică în Valea Spilia din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
+                  "text": "A historic monastery in the Spilia Valley of Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Spilia Tal", hu: "Spilia-völgy", ro: "Valea Spilia", en: "Spilia Valley" },
@@ -993,7 +3162,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-spilia-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-platania-valley-relief-v2",
+    id: "cyprus-platania-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Das Mufflon-Gehege im Platania-Tal bietet Einblicke in die lokale Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Linos ist ein lokales Museum im Platania-Tal, das sich dem kulturellen Erbe widmet.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Dieses Kloster im Platania-Tal ist ein bedeutendes religiöses Denkmal der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Petra toy Antrogynou ist eine lokale Sehenswürdigkeit mit kultureller Bedeutung im Platania-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "A Platania-völgyben található muflon-kifutó betekintést nyújt a helyi vadvilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "A Linos egy helyi múzeum a Platania-völgyben, amely a kulturális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Ez a Platania-völgyi kolostor a régió egyik jelentős vallási műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "A Petra toy Antrogynou egy helyi látnivaló kulturális jelentőséggel a Platania-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Țarcul de mufloni din Valea Platania oferă vizitatorilor ocazia de a vedea fauna locală.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Linos este un muzeu local din Valea Platania, dedicat moștenirii culturale.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Această mănăstire din Valea Platania este un monument religios important al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Petra toy Antrogynou este o atracție locală cu semnificație culturală din Valea Platania.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "The Mouflon Enclosure in Platania Valley offers a chance to see local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Linos is a local museum in Platania Valley dedicated to cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
+                  "text": "This monastery in Platania Valley is a significant religious monument of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Petra toy Antrogynou is a local attraction with cultural significance in Platania Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Platania Tal", hu: "Platania-völgy", ro: "Valea Platania", en: "Platania Valley" },
@@ -1038,7 +3360,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-platania-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-karkotis-valley-relief-v2",
+    id: "cyprus-karkotis-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linos",
+                  "text": "Ein kleines lokales Museum im Karkotis-Tal.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "Eine byzantinische Kirche mit bedeutenden Fresken, Teil des UNESCO-Welterbes.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Eine lokale Sehenswürdigkeit im Karkotis-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "Eine historische Kirche im Karkotis-Tal, die zum UNESCO-Weltkulturerbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linos",
+                  "text": "Kisméretű helyi múzeum a Karkotis-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "Jelentős freskókkal díszített bizánci templom, az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Helyi látnivaló a Karkotis-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "Történelmi templom a Karkotis-völgyben, az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linos",
+                  "text": "Un mic muzeu local situat în Valea Karkotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "O biserică bizantină cu fresce remarcabile, inclusă în patrimoniul UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "O atracție locală situată în Valea Karkotis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "O biserică istorică din Valea Karkotis, parte a patrimoniului mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linos",
+                  "text": "A small local museum located in the Karkotis Valley.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "A Byzantine church with significant frescoes, part of the UNESCO World Heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "A local attraction located in the Karkotis Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Panagia Podithou",
+                  "text": "A historic church in the Karkotis Valley, part of the UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Karkotis Tal", hu: "Karkotis-völgy", ro: "Valea Karkotis", en: "Karkotis Valley" },
@@ -1083,7 +3558,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-karkotis-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-xeros-valley-relief-v2",
+    id: "cyprus-xeros-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Άγιος Φώτιος",
+                  "text": "Eine historische Stätte oder Kapelle im Xeros-Tal auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61238,
+                        34.874996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Άγιος Φώτιος",
+                  "text": "Történelmi helyszín vagy kápolna a ciprusi Xeros-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61238,
+                        34.874996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Άγιος Φώτιος",
+                  "text": "Un sit istoric sau o capelă în Valea Xeros din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61238,
+                        34.874996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Fotios",
+                  "text": "A historic site or chapel located in the Xeros Valley of Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        32.61238,
+                        34.874996
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Xeros Tal", hu: "Xeros-völgy", ro: "Valea Xeros", en: "Xeros Valley" },
@@ -1128,7 +3648,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-xeros-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-diarizos-valley-relief-v2",
+    id: "cyprus-diarizos-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carob mill",
+                  "text": "Ein Museum in Diarizos Valley, das der lokalen Geschichte oder Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carob mill",
+                  "text": "Múzeum Diarizos Valley városában, amely a helyi történelmet vagy kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carob mill",
+                  "text": "Un muzeu în Diarizos Valley dedicat istoriei sau culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carob mill",
+                  "text": "A museum in Diarizos Valley dedicated to local history or culture.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Diarizos Tal", hu: "Diarizos-völgy", ro: "Valea Diarizos", en: "Diarizos Valley" },
@@ -1218,7 +3783,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-ezousa-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-gourri-valley-relief-v2",
+    id: "cyprus-gourri-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Ein Museum in einem traditionellen zypriotischen Dorf, das das ländliche Leben und die Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Ciprusi falumúzeum, amely a vidéki életet és a hagyományos építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Un muzeu într-un sat tradițional cipriot, care prezintă viața rurală și arhitectura locală.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikardou Rural Museum",
+                  "text": "A museum in a traditional Cypriot village showcasing rural life and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Gourri Tal", hu: "Gourri-völgy", ro: "Valea Gourri", en: "Gourri Valley" },
@@ -1263,7 +3873,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-gourri-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-ayios-theodoros-valley-relief-v2",
+    id: "cyprus-ayios-theodoros-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Donkey Farm",
+                  "text": "Ein traditionelles Bauernhaus im Ayios-Theodoros-Tal, das Einblicke in das ländliche Leben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.369888,
+                        34.833243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Donkey Farm",
+                  "text": "Egy hagyományos parasztház az Ayios Theodoros-völgyben, amely bepillantást enged a vidéki életbe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.369888,
+                        34.833243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Donkey Farm",
+                  "text": "O fermă tradițională din valea Ayios Theodoros, care oferă o incursiune în viața rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.369888,
+                        34.833243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farmhouse St. Georgios",
+                  "text": "A traditional farmhouse in the Ayios Theodoros Valley, offering a glimpse into rural life.",
+                  "category": "landmark",
+                  "coords": [
+                        33.369888,
+                        34.833243
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CY",
     name: { de: "Ayios Theodoros Tal", hu: "Ayios Theodoros-völgy", ro: "Valea Ayios Theodoros", en: "Ayios Theodoros Valley" },
@@ -1443,7 +4098,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-serrachis-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-akamas-highlands-relief-v2", "sights": {"de": [{"name": "North Lara Beach", "text": "Umgeben von der rauen Schönheit der Akamas Highlands präsentiert sich der North Lara Beach als naturbelassenes Juwel auf Zypern. Die abgeschiedene Lage garantiert eine fast unberührte Atmosphäre, in der das Rauschen der Brandung den Ton angibt. Wanderer und Naturliebhaber nutzen den weiten Sandstrand gerne als erholsames Ziel für ein Bad im Mittelmeer. Da die Zufahrt teils abenteuerlich sein kann, ist ein geländegängiges Fahrzeug für die Anreise ratsam.", "category": "recreational", "coords": [32.313492, 34.96314]}], "hu": [{"name": "North Lara Beach", "text": "Az Akamas-felföld zord szépségével körülvéve a North Lara Beach egy érintetlen természeti ékszerdoboz Cipruson. Az eldugott elhelyezkedés szinte érintetlen atmoszférát garantál, ahol a hullámverés zúgása adja meg az alaphangot. A túrázók és a természetkedvelők szívesen választják ezt a széles homokos strandot a Földközi-tengerben való pihentető fürdőzés célpontjául. Mivel a megközelítés helyenként kalandos lehet, az utazáshoz terepjáró jármű javasolt.", "category": "recreational", "coords": [32.313492, 34.96314]}], "ro": [{"name": "North Lara Beach", "text": "Înconjurată de frumusețea aspră a ținuturilor înalte din Akamas, North Lara Beach se prezintă ca o bijuterie naturală virgină în Cipru. Locația retrasă garantează o atmosferă aproape neatinsă, în care sunetul valurilor dă tonul. Drumeții și iubitorii de natură folosesc adesea plaja largă de nisip ca destinație relaxantă pentru o baie în Marea Mediterană. Deoarece accesul poate fi pe alocuri aventuros, este recomandabil un vehicul de teren pentru călătorie.", "category": "recreational", "coords": [32.313492, 34.96314]}], "en": [{"name": "North Lara Beach", "text": "Surrounded by the rugged beauty of the Akamas Highlands, North Lara Beach stands out as a pristine natural jewel in Cyprus. The secluded location practically guarantees an almost untouched atmosphere, where the rhythmic sound of the surf sets the primary tone. Hikers and nature lovers frequently use the wide sandy beach as a deeply restorative destination for a dip in the Mediterranean. Since the approach can be somewhat adventurous, an off-road capable vehicle is highly advisable for the journey.", "category": "recreational", "coords": [32.313492, 34.96314]}]},
+    id: "cyprus-akamas-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "Umgeben von der rauen Schönheit der Akamas Highlands präsentiert sich der North Lara Beach als naturbelassenes Juwel auf Zypern. Die abgeschiedene Lage garantiert eine fast unberührte Atmosphäre, in der das Rauschen der Brandung den Ton angibt. Wanderer und Naturliebhaber nutzen den weiten Sandstrand gerne als erholsames Ziel für ein Bad im Mittelmeer. Da die Zufahrt teils abenteuerlich sein kann, ist ein geländegängiges Fahrzeug für die Anreise ratsam.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "Ein Museum, das dem Schutz und der Erforschung von Meeresschildkröten in der Akamas-Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "Ein unberührter Strand in der Akamas-Region, bekannt für Bemühungen zum Schutz von Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        32.310338,
+                        34.958
+                  ]
+            },
+            {
+                  "name": "Turtle station",
+                  "text": "Eine Schutzstation, die sich auf den Schutz von Meeresschildkrötennestern konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.311795,
+                        34.958725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "Az Akamas-felföld zord szépségével körülvéve a North Lara Beach egy érintetlen természeti ékszerdoboz Cipruson. Az eldugott elhelyezkedés szinte érintetlen atmoszférát garantál, ahol a hullámverés zúgása adja meg az alaphangot. A túrázók és a természetkedvelők szívesen választják ezt a széles homokos strandot a Földközi-tengerben való pihentető fürdőzés célpontjául. Mivel a megközelítés helyenként kalandos lehet, az utazáshoz terepjáró jármű javasolt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "A tengeri teknősök védelmének és tanulmányozásának szentelt múzeum az Akamasz-vidéken.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "Érintetlen tengerpart az Akamasz-régióban, amely a teknősvédelmi erőfeszítéseiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        32.310338,
+                        34.958
+                  ]
+            },
+            {
+                  "name": "Turtle station",
+                  "text": "Természetvédelmi állomás, amely a tengeri teknősök fészkeinek védelmére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        32.311795,
+                        34.958725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "Înconjurată de frumusețea aspră a ținuturilor înalte din Akamas, North Lara Beach se prezintă ca o bijuterie naturală virgină în Cipru. Locația retrasă garantează o atmosferă aproape neatinsă, în care sunetul valurilor dă tonul. Drumeții și iubitorii de natură folosesc adesea plaja largă de nisip ca destinație relaxantă pentru o baie în Marea Mediterană. Deoarece accesul poate fi pe alocuri aventuros, este recomandabil un vehicul de teren pentru călătorie.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "Un muzeu dedicat protecției și studierii țestoaselor marine din regiunea Akamas.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "O plajă curată din regiunea Akamas, faimoasă pentru eforturile de conservare a țestoaselor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.310338,
+                        34.958
+                  ]
+            },
+            {
+                  "name": "Turtle station",
+                  "text": "O stație de conservare concentrată pe protejarea cuiburilor de țestoase marine.",
+                  "category": "landmark",
+                  "coords": [
+                        32.311795,
+                        34.958725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "Surrounded by the rugged beauty of the Akamas Highlands, North Lara Beach stands out as a pristine natural jewel in Cyprus. The secluded location practically guarantees an almost untouched atmosphere, where the rhythmic sound of the surf sets the primary tone. Hikers and nature lovers frequently use the wide sandy beach as a deeply restorative destination for a dip in the Mediterranean. Since the approach can be somewhat adventurous, an off-road capable vehicle is highly advisable for the journey.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "A museum dedicated to the protection and study of sea turtles in the Akamas region.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Lara Beach",
+                  "text": "A pristine beach in the Akamas region, famous for its turtle conservation efforts.",
+                  "category": "recreational",
+                  "coords": [
+                        32.310338,
+                        34.958
+                  ]
+            },
+            {
+                  "name": "Turtle station",
+                  "text": "A conservation station focused on the protection of sea turtle nests.",
+                  "category": "landmark",
+                  "coords": [
+                        32.311795,
+                        34.958725
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Akamas Hochland", hu: "Akamas-felvidék", ro: "Podișul Akamas", en: "Akamas Highlands" },
@@ -1488,7 +4296,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-akamas-highlands-relief-v2.webp",
   },
   {
-    id: "cyprus-laona-plateau-relief-v2",
+    id: "cyprus-laona-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "text": "Ein Informationszentrum auf dem Laona-Plateau, das sich mit der Geologie und Paläontologie der Akamas-Region befasst.",
+                  "category": "museum",
+                  "coords": [
+                        32.410383,
+                        34.937338
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "Ein kleines Museum, das sich dem Schutz und der Erforschung von Meeresschildkröten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Ancient Laundry",
+                  "text": "Eine historische Stätte auf dem Laona-Plateau, die zeigt, wie früher gemeinschaftlich Wäsche gewaschen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.422027,
+                        34.956406
+                  ]
+            },
+            {
+                  "name": "Historic oil and winepress",
+                  "text": "Ein technisches Denkmal, das die traditionelle Gewinnung von Olivenöl und Wein in der Region veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419339,
+                        34.954442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "text": "Az Akamasz-félsziget geológiáját és őslénytanát bemutató információs központ a Laona-fennsíkon.",
+                  "category": "museum",
+                  "coords": [
+                        32.410383,
+                        34.937338
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "A tengeri teknősök védelmével és tanulmányozásával foglalkozó kis múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Ancient Laundry",
+                  "text": "Történelmi helyszín a Laona-fennsíkon, amely a hagyományos közösségi mosási szokásokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.422027,
+                        34.956406
+                  ]
+            },
+            {
+                  "name": "Historic oil and winepress",
+                  "text": "Hagyományos olívaolaj- és bortermelést bemutató ipartörténeti emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419339,
+                        34.954442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "text": "Un centru de informare pe platoul Laona care prezintă geologia și paleontologia regiunii Akamas.",
+                  "category": "museum",
+                  "coords": [
+                        32.410383,
+                        34.937338
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "Un mic muzeu dedicat protejării și studierii țestoaselor marine.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Ancient Laundry",
+                  "text": "Un sit istoric de pe platoul Laona care ilustrează metodele tradiționale de spălare a hainelor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.422027,
+                        34.956406
+                  ]
+            },
+            {
+                  "name": "Historic oil and winepress",
+                  "text": "Un monument tehnic ce ilustrează producția tradițională de ulei de măsline și vin în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419339,
+                        34.954442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akamas Geology and Paleontology Information Centre",
+                  "text": "An information centre on the Laona Plateau focusing on the geology and paleontology of the Akamas region.",
+                  "category": "museum",
+                  "coords": [
+                        32.410383,
+                        34.937338
+                  ]
+            },
+            {
+                  "name": "Inna-Lara Turtle Museum",
+                  "text": "A small museum dedicated to the protection and study of sea turtles.",
+                  "category": "museum",
+                  "coords": [
+                        32.39321,
+                        34.955782
+                  ]
+            },
+            {
+                  "name": "Ancient Laundry",
+                  "text": "A historic site on the Laona Plateau showcasing traditional communal laundry practices.",
+                  "category": "landmark",
+                  "coords": [
+                        32.422027,
+                        34.956406
+                  ]
+            },
+            {
+                  "name": "Historic oil and winepress",
+                  "text": "A technical monument illustrating traditional olive oil and wine production in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419339,
+                        34.954442
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Laona Plateau", hu: "Laona-fennsík", ro: "Podișul Laona", en: "Laona Plateau" },
@@ -1533,7 +4494,196 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-laona-plateau-relief-v2.webp",
   },
   {
-    id: "cyprus-troodos-foothills-relief-v2",
+    id: "cyprus-troodos-foothills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wine press museum",
+                  "text": "Ein traditionelles Museum in den Ausläufern des Troodos-Gebirges, das antike Methoden des Weinpressens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Dieses Museum mit zwei Themenbereichen erkundet das religiöse Erbe und die lange Weinbautradition der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Eine malerische Steinbrücke aus der venezianischen Zeit im Troodos-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "Ein einzigartiges Bauwerk in den Ausläufern des Troodos mit zwei Ebenen für die Überquerung.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein ruhiges Gewässer in den Ausläufern des Troodos-Gebirges, das oft von lokalen Wildtieren besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wine press museum",
+                  "text": "Hagyományos múzeum a Troodos lábainál, amely a borpréselés ősi módszereit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Ez a kettős tematikájú múzeum a régió vallási örökségét és hosszú borászati hagyományait tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Egy festői kőhíd a velencei korból a Troodos-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "Egyedülálló építészeti szerkezet a Troodos lábainál, amely két szintet kínál az átkeléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Egy nyugodt víztükör a Troodos lábainál, amelyet gyakran látogatnak a helyi vadon élő állatok.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wine press museum",
+                  "text": "Un muzeu tradițional la poalele Troodosului, care prezintă metode antice de presare a vinului.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Acest muzeu cu tematică dublă explorează moștenirea religioasă și tradiția îndelungată a vinificației din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Un pod de piatră pitoresc care datează din perioada venețiană, situat în munții Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "O structură arhitecturală unică la poalele Troodosului, cu două niveluri pentru traversare.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "O întindere de apă liniștită în zona de la poalele Troodosului, frecventată adesea de fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wine press museum",
+                  "text": "A traditional museum in the Troodos foothills showcasing ancient methods of wine pressing.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "This dual-themed museum explores the religious heritage and long winemaking tradition of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "A picturesque stone bridge dating back to the Venetian period, located in the Troodos mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "A unique architectural structure in the Troodos foothills featuring two levels for crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A tranquil body of water in the Troodos foothills area, often frequented by local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Troodos Vorgebirge", hu: "Troodos-előhegység", ro: "Piemontul Troodos", en: "Troodos Foothills" },
@@ -1623,7 +4773,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-kassianes-hill-relief-v2.webp",
   },
   {
-    id: "cyprus-stavrovouni-mountain-relief-v2",
+    id: "cyprus-stavrovouni-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stavrovouni Monastery",
+                  "text": "Ein historisches griechisch-orthodoxes Kloster auf dem Berggipfel in Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.435779,
+                        34.886243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stavrovouni Monastery",
+                  "text": "Történelmi görög ortodox kolostor egy hegycsúcson Cipruson.",
+                  "category": "landmark",
+                  "coords": [
+                        33.435779,
+                        34.886243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stavrovouni Monastery",
+                  "text": "O mănăstire ortodoxă greacă istorică aflată pe vârful unui munte din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.435779,
+                        34.886243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stavrovouni Monastery",
+                  "text": "A historic Greek Orthodox monastery situated on a mountain peak in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        33.435779,
+                        34.886243
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Stavrovouni Berg", hu: "Stavrovouni-hegy", ro: "Muntele Stavrovouni", en: "Stavrovouni Mountain" },
@@ -1713,7 +4908,196 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-aetomouti-hill-relief-v2.webp",
   },
   {
-    id: "cyprus-krasochoria-hills-relief-v2",
+    id: "cyprus-krasochoria-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Ein Museum in den zyprischen Bergen, das die traditionelle Olivenölproduktion zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Eine archäologische Fundstätte in einer natürlichen Höhle in den Krasochoria-Hügeln.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Ein historisches Versteck, das heute als Museum über den zypriotischen Unabhängigkeitskampf informiert.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Museen in Zypern, die sich der Kirchengeschichte und dem Weinbau der Region widmen.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das malerische Dorf Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Múzeum a ciprusi hegyekben, amely a hagyományos olívaolaj-termelést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Régészeti lelőhely egy természetes barlangban a Krasochoria-dombságban.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Történelmi rejtekhely, amely ma a ciprusi függetlenségi harcról tájékoztató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Ciprusi múzeumok, amelyek az egyháztörténetnek és a régió borászatának szentelték magukat.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a festői Lofou falura.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Un muzeu din munții Ciprului care prezintă producția tradițională de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Un sit arheologic într-o peșteră naturală din dealurile Krasochoria.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "O ascunzătoare istorică, astăzi muzeu, despre lupta pentru independența Ciprului.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Muzee din Cipru dedicate istoriei bisericești și viticulturii din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Un punct de observație cu o vedere panoramică asupra satului pitoresc Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Olive Mill",
+                  "text": "A museum in the Cypriot hills showcasing traditional olive oil production.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "The cave of Hadrirousos",
+                  "text": "An archaeological site located in a natural cave within the Krasochoria Hills.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "A historical hideout now serving as a museum about the Cypriot independence struggle.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "Museums in Cyprus dedicated to ecclesiastical history and regional viticulture.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "A viewpoint offering panoramic views over the picturesque village of Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Krasochoria Hügel", hu: "Krasochoria-dombság", ro: "Dealurile Krasochoria", en: "Krasochoria Hills" },

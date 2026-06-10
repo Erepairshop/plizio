@@ -9911,6 +9911,78 @@ export const belgiumCitiesV2: POI[] = [
                         4.458054,
                         50.419969
                   ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "Ein Museum in Charleroi, das der Geschichte der Infanterie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Ein bedeutendes Theater und Kulturzentrum in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.441135,
+                        50.410877
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "Ein großes Kulturzentrum und Veranstaltungsort für darstellende Künste in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442613,
+                        50.413848
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "Ein Museum für zeitgenössische Kunst in Charleroi.",
+                  "category": "museum",
+                  "coords": [
+                        4.44606,
+                        50.416736
+                  ]
+            },
+            {
+                  "name": "Tumulus de Marcinelle",
+                  "text": "Ein gallorömischer Grabhügel im Stadtteil Marcinelle von Charleroi.",
+                  "category": "historical",
+                  "coords": [
+                        4.427367,
+                        50.388245
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "Das städtische Kunstmuseum von Charleroi mit einer bedeutenden Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        4.453349,
+                        50.41224
+                  ]
+            },
+            {
+                  "name": "Théâtre Marignan",
+                  "text": "Ein traditionsreiches Theatergebäude im Zentrum von Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.440386,
+                        50.408762
+                  ]
+            },
+            {
+                  "name": "Théâtre La Ruche",
+                  "text": "Ein kleineres Theater und Kulturraum in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447622,
+                        50.400118
+                  ]
             }
       ],
       "hu": [
@@ -9921,6 +9993,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.458054,
                         50.419969
+                  ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "A gyalogság történetének szentelt múzeum Charleroi-ban.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Jelentős színház és kulturális központ Charleroi-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.441135,
+                        50.410877
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "Nagy kulturális központ és előadóművészeti helyszín Charleroi-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442613,
+                        50.413848
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "Kortárs művészeti múzeum Charleroi-ban.",
+                  "category": "museum",
+                  "coords": [
+                        4.44606,
+                        50.416736
+                  ]
+            },
+            {
+                  "name": "Tumulus de Marcinelle",
+                  "text": "Gallo-római sírhalom Charleroi Marcinelle negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        4.427367,
+                        50.388245
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "Charleroi városi szépművészeti múzeuma jelentős gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        4.453349,
+                        50.41224
+                  ]
+            },
+            {
+                  "name": "Théâtre Marignan",
+                  "text": "Hagyományos színházépület Charleroi központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.440386,
+                        50.408762
+                  ]
+            },
+            {
+                  "name": "Théâtre La Ruche",
+                  "text": "Kisebb színház és kulturális tér Charleroi-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447622,
+                        50.400118
                   ]
             }
       ],
@@ -9933,6 +10077,78 @@ export const belgiumCitiesV2: POI[] = [
                         4.458054,
                         50.419969
                   ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "Un muzeu din Charleroi dedicat istoriei infanteriei.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Un teatru și centru cultural important din Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.441135,
+                        50.410877
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "Un centru cultural major și loc de desfășurare a artelor spectacolului în Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442613,
+                        50.413848
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "Un muzeu de artă contemporană în Charleroi.",
+                  "category": "museum",
+                  "coords": [
+                        4.44606,
+                        50.416736
+                  ]
+            },
+            {
+                  "name": "Tumulus de Marcinelle",
+                  "text": "Un tumul galo-roman în districtul Marcinelle din Charleroi.",
+                  "category": "historical",
+                  "coords": [
+                        4.427367,
+                        50.388245
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "Muzeul municipal de arte frumoase din Charleroi, cu o colecție importantă.",
+                  "category": "museum",
+                  "coords": [
+                        4.453349,
+                        50.41224
+                  ]
+            },
+            {
+                  "name": "Théâtre Marignan",
+                  "text": "O clădire de teatru tradițională în centrul orașului Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.440386,
+                        50.408762
+                  ]
+            },
+            {
+                  "name": "Théâtre La Ruche",
+                  "text": "Un teatru mai mic și spațiu cultural în Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447622,
+                        50.400118
+                  ]
             }
       ],
       "en": [
@@ -9943,6 +10159,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.458054,
                         50.419969
+                  ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "A museum in Charleroi dedicated to the history of the light infantry.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "A prominent theatre and cultural center in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.441135,
+                        50.410877
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "A major cultural center and performing arts venue in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442613,
+                        50.413848
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "A museum of contemporary art located in Charleroi.",
+                  "category": "museum",
+                  "coords": [
+                        4.44606,
+                        50.416736
+                  ]
+            },
+            {
+                  "name": "Tumulus de Marcinelle",
+                  "text": "A Gallo-Roman burial mound in the Marcinelle district of Charleroi.",
+                  "category": "historical",
+                  "coords": [
+                        4.427367,
+                        50.388245
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "The municipal fine arts museum of Charleroi, featuring a significant collection.",
+                  "category": "museum",
+                  "coords": [
+                        4.453349,
+                        50.41224
+                  ]
+            },
+            {
+                  "name": "Théâtre Marignan",
+                  "text": "A traditional theatre building in the center of Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.440386,
+                        50.408762
+                  ]
+            },
+            {
+                  "name": "Théâtre La Ruche",
+                  "text": "A smaller theatre and cultural space in Charleroi.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447622,
+                        50.400118
                   ]
             }
       ]
@@ -10253,6 +10541,24 @@ export const belgiumCitiesV2: POI[] = [
                         4.485684,
                         51.029133
                   ]
+            },
+            {
+                  "name": "Het Predikheren",
+                  "text": "Ein ehemaliges Kloster in Mechelen, das heute eine moderne öffentliche Bibliothek beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        4.480016,
+                        51.033411
+                  ]
+            },
+            {
+                  "name": "Kasteel Tivoli",
+                  "text": "Ein Schloss in Mechelen, das von einer weitläufigen Parkanlage umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        4.471477,
+                        51.046313
+                  ]
             }
       ],
       "hu": [
@@ -10515,6 +10821,24 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.485684,
                         51.029133
+                  ]
+            },
+            {
+                  "name": "Het Predikheren",
+                  "text": "Egykori kolostor Mechelenben, amely ma egy modern nyilvános könyvtárnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        4.480016,
+                        51.033411
+                  ]
+            },
+            {
+                  "name": "Kasteel Tivoli",
+                  "text": "Kastély Mechelenben, amelyet kiterjedt parkrendszer vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        4.471477,
+                        51.046313
                   ]
             }
       ],
@@ -10779,6 +11103,24 @@ export const belgiumCitiesV2: POI[] = [
                         4.485684,
                         51.029133
                   ]
+            },
+            {
+                  "name": "Het Predikheren",
+                  "text": "O fostă mănăstire din Mechelen care găzduiește astăzi o bibliotecă publică modernă.",
+                  "category": "religious",
+                  "coords": [
+                        4.480016,
+                        51.033411
+                  ]
+            },
+            {
+                  "name": "Kasteel Tivoli",
+                  "text": "Un castel din Mechelen, înconjurat de un domeniu vast cu parc.",
+                  "category": "castle",
+                  "coords": [
+                        4.471477,
+                        51.046313
+                  ]
             }
       ],
       "en": [
@@ -11041,6 +11383,24 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.485684,
                         51.029133
+                  ]
+            },
+            {
+                  "name": "Het Predikheren",
+                  "text": "A former monastery in Mechelen that now houses a modern public library.",
+                  "category": "religious",
+                  "coords": [
+                        4.480016,
+                        51.033411
+                  ]
+            },
+            {
+                  "name": "Kasteel Tivoli",
+                  "text": "A castle in Mechelen surrounded by an extensive parkland area.",
+                  "category": "castle",
+                  "coords": [
+                        4.471477,
+                        51.046313
                   ]
             }
       ]
@@ -11378,6 +11738,15 @@ export const belgiumCitiesV2: POI[] = [
                         4.019575,
                         50.936977
                   ]
+            },
+            {
+                  "name": "Het Osbroek",
+                  "text": "Ein Naturschutzgebiet in Aalst, ideal für Spaziergänge im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        4.043671,
+                        50.92415
+                  ]
             }
       ],
       "hu": [
@@ -11667,6 +12036,15 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.019575,
                         50.936977
+                  ]
+            },
+            {
+                  "name": "Het Osbroek",
+                  "text": "Természetvédelmi terület Aalstban, ideális erdei sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.043671,
+                        50.92415
                   ]
             }
       ],
@@ -11958,6 +12336,15 @@ export const belgiumCitiesV2: POI[] = [
                         4.019575,
                         50.936977
                   ]
+            },
+            {
+                  "name": "Het Osbroek",
+                  "text": "O rezervație naturală în Aalst, ideală pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.043671,
+                        50.92415
+                  ]
             }
       ],
       "en": [
@@ -12247,6 +12634,15 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.019575,
                         50.936977
+                  ]
+            },
+            {
+                  "name": "Het Osbroek",
+                  "text": "A nature reserve in Aalst, ideal for walks in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.043671,
+                        50.92415
                   ]
             }
       ]
@@ -19748,6 +20144,78 @@ export const belgiumCitiesV2: POI[] = [
                         5.594439,
                         50.581782
                   ]
+            },
+            {
+                  "name": "Château Cockerill",
+                  "text": "Ein ehemaliges Schloss der Fürstbischöfe von Lüttich, das später als Industriezentrum diente.",
+                  "category": "castle",
+                  "coords": [
+                        5.512011,
+                        50.615821
+                  ]
+            },
+            {
+                  "name": "Musée du Val",
+                  "text": "Ein Museum in Seraing, das sich in der ehemaligen Abtei Val Saint-Lambert befindet.",
+                  "category": "museum",
+                  "coords": [
+                        5.48274,
+                        50.593243
+                  ]
+            },
+            {
+                  "name": "Salle de la Vecquée",
+                  "text": "Ein lokales Theater in Seraing, das verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.517642,
+                        50.589428
+                  ]
+            },
+            {
+                  "name": "Château Courtejoie",
+                  "text": "Ein markantes historisches Schlossgebäude in der Stadt Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.501166,
+                        50.616992
+                  ]
+            },
+            {
+                  "name": "Château Antoine",
+                  "text": "Ein historisches Schloss in Seraing, das für seine Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.504433,
+                        50.617412
+                  ]
+            },
+            {
+                  "name": "Château d'Ordange",
+                  "text": "Ein bemerkenswertes Schlossanwesen in der belgischen Stadt Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.502939,
+                        50.61788
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Renaissance",
+                  "text": "Eine kulturelle Einrichtung in Seraing, die Theateraufführungen und Konzerte präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.496555,
+                        50.59419
+                  ]
+            },
+            {
+                  "name": "Château de Trasenster",
+                  "text": "Ein beeindruckendes Schlossgebäude in Seraing, das zum lokalen Erbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        5.539171,
+                        50.606513
+                  ]
             }
       ],
       "hu": [
@@ -19776,6 +20244,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.594439,
                         50.581782
+                  ]
+            },
+            {
+                  "name": "Château Cockerill",
+                  "text": "A liège-i hercegpüspökök egykori kastélya, amely később ipari központként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        5.512011,
+                        50.615821
+                  ]
+            },
+            {
+                  "name": "Musée du Val",
+                  "text": "Múzeum Seraingben, amely az egykori Val Saint-Lambert apátságban található.",
+                  "category": "museum",
+                  "coords": [
+                        5.48274,
+                        50.593243
+                  ]
+            },
+            {
+                  "name": "Salle de la Vecquée",
+                  "text": "Egy helyi színház Seraingben, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.517642,
+                        50.589428
+                  ]
+            },
+            {
+                  "name": "Château Courtejoie",
+                  "text": "Egy jellegzetes történelmi kastélyépület Seraing városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.501166,
+                        50.616992
+                  ]
+            },
+            {
+                  "name": "Château Antoine",
+                  "text": "Egy történelmi kastély Seraingben, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.504433,
+                        50.617412
+                  ]
+            },
+            {
+                  "name": "Château d'Ordange",
+                  "text": "Egy figyelemre méltó kastélybirtok a belga Seraing városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.502939,
+                        50.61788
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Renaissance",
+                  "text": "Egy kulturális intézmény Seraingben, amely színházi előadásokat és koncerteket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        5.496555,
+                        50.59419
+                  ]
+            },
+            {
+                  "name": "Château de Trasenster",
+                  "text": "Egy lenyűgöző kastélyépület Seraingben, amely a helyi örökség része.",
+                  "category": "castle",
+                  "coords": [
+                        5.539171,
+                        50.606513
                   ]
             }
       ],
@@ -19806,6 +20346,78 @@ export const belgiumCitiesV2: POI[] = [
                         5.594439,
                         50.581782
                   ]
+            },
+            {
+                  "name": "Château Cockerill",
+                  "text": "Un fost castel al principilor-episcopi de Liège, care a servit ulterior ca centru industrial.",
+                  "category": "castle",
+                  "coords": [
+                        5.512011,
+                        50.615821
+                  ]
+            },
+            {
+                  "name": "Musée du Val",
+                  "text": "Un muzeu din Seraing, situat în fosta abație Val Saint-Lambert.",
+                  "category": "museum",
+                  "coords": [
+                        5.48274,
+                        50.593243
+                  ]
+            },
+            {
+                  "name": "Salle de la Vecquée",
+                  "text": "Un teatru local din Seraing, care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.517642,
+                        50.589428
+                  ]
+            },
+            {
+                  "name": "Château Courtejoie",
+                  "text": "O clădire istorică de castel remarcabilă din orașul Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.501166,
+                        50.616992
+                  ]
+            },
+            {
+                  "name": "Château Antoine",
+                  "text": "Un castel istoric din Seraing, cunoscut pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        5.504433,
+                        50.617412
+                  ]
+            },
+            {
+                  "name": "Château d'Ordange",
+                  "text": "O proprietate de castel remarcabilă din orașul belgian Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.502939,
+                        50.61788
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Renaissance",
+                  "text": "O instituție culturală din Seraing care prezintă spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        5.496555,
+                        50.59419
+                  ]
+            },
+            {
+                  "name": "Château de Trasenster",
+                  "text": "O clădire impresionantă de castel din Seraing, care face parte din patrimoniul local.",
+                  "category": "castle",
+                  "coords": [
+                        5.539171,
+                        50.606513
+                  ]
             }
       ],
       "en": [
@@ -19834,6 +20446,78 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.594439,
                         50.581782
+                  ]
+            },
+            {
+                  "name": "Château Cockerill",
+                  "text": "A former castle of the Prince-Bishops of Liège, which later served as an industrial center.",
+                  "category": "castle",
+                  "coords": [
+                        5.512011,
+                        50.615821
+                  ]
+            },
+            {
+                  "name": "Musée du Val",
+                  "text": "A museum in Seraing located in the former Val Saint-Lambert Abbey.",
+                  "category": "museum",
+                  "coords": [
+                        5.48274,
+                        50.593243
+                  ]
+            },
+            {
+                  "name": "Salle de la Vecquée",
+                  "text": "A local theatre in Seraing offering various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.517642,
+                        50.589428
+                  ]
+            },
+            {
+                  "name": "Château Courtejoie",
+                  "text": "A notable historic castle building located in the city of Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.501166,
+                        50.616992
+                  ]
+            },
+            {
+                  "name": "Château Antoine",
+                  "text": "A historic castle in Seraing known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.504433,
+                        50.617412
+                  ]
+            },
+            {
+                  "name": "Château d'Ordange",
+                  "text": "A remarkable castle estate located in the Belgian city of Seraing.",
+                  "category": "castle",
+                  "coords": [
+                        5.502939,
+                        50.61788
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Renaissance",
+                  "text": "A cultural venue in Seraing that hosts theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        5.496555,
+                        50.59419
+                  ]
+            },
+            {
+                  "name": "Château de Trasenster",
+                  "text": "An impressive castle building in Seraing that is part of the local heritage.",
+                  "category": "castle",
+                  "coords": [
+                        5.539171,
+                        50.606513
                   ]
             }
       ]
@@ -23888,6 +24572,69 @@ export const belgiumCitiesV2: POI[] = [
                         4.429451,
                         50.923552
                   ]
+            },
+            {
+                  "name": "Kasteel Pellenberg",
+                  "text": "Ein Schloss in Vilvoorde, das von einem Park umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        4.435077,
+                        50.91489
+                  ]
+            },
+            {
+                  "name": "Sena's Tower",
+                  "text": "Ein historisches Turmbauwerk in Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42628,
+                        50.927898
+                  ]
+            },
+            {
+                  "name": "Park van het Kasteel Batenborch",
+                  "text": "Die Parkanlage eines Schlosses in Vilvoorde, die zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        4.462028,
+                        50.925463
+                  ]
+            },
+            {
+                  "name": "CC Het Bolwerk",
+                  "text": "Das kulturelle Zentrum von Vilvoorde mit Theater- und Konzertveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.432674,
+                        50.929392
+                  ]
+            },
+            {
+                  "name": "Domein Ter Tommen",
+                  "text": "Ein Naturgebiet in Vilvoorde, das für seine Landschaft geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        4.405368,
+                        50.931809
+                  ]
+            },
+            {
+                  "name": "Kasteel Beaulieu",
+                  "text": "Ein historisches Schloss in Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42751,
+                        50.903693
+                  ]
+            },
+            {
+                  "name": "Park Drie Fonteinen",
+                  "text": "Einer der ältesten Landschaftsparks Belgiens in Vilvoorde.",
+                  "category": "park",
+                  "coords": [
+                        4.41035,
+                        50.916657
+                  ]
             }
       ],
       "hu": [
@@ -23925,6 +24672,69 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.429451,
                         50.923552
+                  ]
+            },
+            {
+                  "name": "Kasteel Pellenberg",
+                  "text": "Kastély Vilvoordében, amelyet park vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        4.435077,
+                        50.91489
+                  ]
+            },
+            {
+                  "name": "Sena's Tower",
+                  "text": "Történelmi toronyépítmény Vilvoordében.",
+                  "category": "castle",
+                  "coords": [
+                        4.42628,
+                        50.927898
+                  ]
+            },
+            {
+                  "name": "Park van het Kasteel Batenborch",
+                  "text": "Egy vilvoordei kastély parkja, amely kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.462028,
+                        50.925463
+                  ]
+            },
+            {
+                  "name": "CC Het Bolwerk",
+                  "text": "Vilvoorde kulturális központja színházi és koncertrendezvényekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        4.432674,
+                        50.929392
+                  ]
+            },
+            {
+                  "name": "Domein Ter Tommen",
+                  "text": "Természeti terület Vilvoordében, amelyet tájai miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        4.405368,
+                        50.931809
+                  ]
+            },
+            {
+                  "name": "Kasteel Beaulieu",
+                  "text": "Történelmi kastély Vilvoorde városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.42751,
+                        50.903693
+                  ]
+            },
+            {
+                  "name": "Park Drie Fonteinen",
+                  "text": "Belgium egyik legrégebbi tájképi parkja Vilvoorde városában.",
+                  "category": "park",
+                  "coords": [
+                        4.41035,
+                        50.916657
                   ]
             }
       ],
@@ -23964,6 +24774,69 @@ export const belgiumCitiesV2: POI[] = [
                         4.429451,
                         50.923552
                   ]
+            },
+            {
+                  "name": "Kasteel Pellenberg",
+                  "text": "Un castel în Vilvoorde, înconjurat de un parc.",
+                  "category": "castle",
+                  "coords": [
+                        4.435077,
+                        50.91489
+                  ]
+            },
+            {
+                  "name": "Sena's Tower",
+                  "text": "O structură istorică tip turn în Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42628,
+                        50.927898
+                  ]
+            },
+            {
+                  "name": "Park van het Kasteel Batenborch",
+                  "text": "Parcul unui castel din Vilvoorde, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        4.462028,
+                        50.925463
+                  ]
+            },
+            {
+                  "name": "CC Het Bolwerk",
+                  "text": "Centrul cultural din Vilvoorde, cu spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        4.432674,
+                        50.929392
+                  ]
+            },
+            {
+                  "name": "Domein Ter Tommen",
+                  "text": "O zonă naturală în Vilvoorde, apreciată pentru peisajele sale.",
+                  "category": "natural",
+                  "coords": [
+                        4.405368,
+                        50.931809
+                  ]
+            },
+            {
+                  "name": "Kasteel Beaulieu",
+                  "text": "Un castel istoric situat în Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42751,
+                        50.903693
+                  ]
+            },
+            {
+                  "name": "Park Drie Fonteinen",
+                  "text": "Unul dintre cele mai vechi parcuri peisajistice din Belgia, situat în Vilvoorde.",
+                  "category": "park",
+                  "coords": [
+                        4.41035,
+                        50.916657
+                  ]
             }
       ],
       "en": [
@@ -24001,6 +24874,69 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.429451,
                         50.923552
+                  ]
+            },
+            {
+                  "name": "Kasteel Pellenberg",
+                  "text": "A castle in Vilvoorde surrounded by a park.",
+                  "category": "castle",
+                  "coords": [
+                        4.435077,
+                        50.91489
+                  ]
+            },
+            {
+                  "name": "Sena's Tower",
+                  "text": "A historic tower structure in Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42628,
+                        50.927898
+                  ]
+            },
+            {
+                  "name": "Park van het Kasteel Batenborch",
+                  "text": "The park of a castle in Vilvoorde, inviting for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        4.462028,
+                        50.925463
+                  ]
+            },
+            {
+                  "name": "CC Het Bolwerk",
+                  "text": "The cultural centre of Vilvoorde featuring theatre and concert events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.432674,
+                        50.929392
+                  ]
+            },
+            {
+                  "name": "Domein Ter Tommen",
+                  "text": "A natural area in Vilvoorde appreciated for its landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        4.405368,
+                        50.931809
+                  ]
+            },
+            {
+                  "name": "Kasteel Beaulieu",
+                  "text": "A historic castle located in Vilvoorde.",
+                  "category": "castle",
+                  "coords": [
+                        4.42751,
+                        50.903693
+                  ]
+            },
+            {
+                  "name": "Park Drie Fonteinen",
+                  "text": "One of the oldest landscape parks in Belgium, located in Vilvoorde.",
+                  "category": "park",
+                  "coords": [
+                        4.41035,
+                        50.916657
                   ]
             }
       ]
@@ -37547,6 +38483,78 @@ imageHint: "Heist-op-den-Berg church on the hill",
                         5.450509,
                         50.785874
                   ]
+            },
+            {
+                  "name": "Gallo-Roman Museum",
+                  "text": "Ein bedeutendes Museum in Tongeren, das archäologische Funde von der Urgeschichte bis zur Merowingerzeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.466222,
+                        50.781138
+                  ]
+            },
+            {
+                  "name": "Kasteel van Betho",
+                  "text": "Ein historisches Schloss in Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.447367,
+                        50.783574
+                  ]
+            },
+            {
+                  "name": "Kasteel van Hamal",
+                  "text": "Ein spätbarockes Schloss in der Nähe von Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.461359,
+                        50.754411
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Paardsweidestraat)",
+                  "text": "Ein gallorömischer Grabhügel in der Nähe von Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.444424,
+                        50.768907
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Romeinse Kassei)",
+                  "text": "Ein römischer Grabhügel an der alten Römerstraße in Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.439046,
+                        50.769602
+                  ]
+            },
+            {
+                  "name": "Kasteel Rooi",
+                  "text": "Ein denkmalgeschütztes Schloss in Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.439957,
+                        50.79308
+                  ]
+            },
+            {
+                  "name": "Romeinse Tempelsite",
+                  "text": "Die Ausgrabungsstätte eines gallorömischen Tempelkomplexes in Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.459939,
+                        50.783778
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat Spoorwegzate",
+                  "text": "Ein Naturschutzgebiet auf einer ehemaligen Eisenbahntrasse in Tongeren.",
+                  "category": "natural",
+                  "coords": [
+                        5.438182,
+                        50.792552
+                  ]
             }
       ],
       "hu": [
@@ -37584,6 +38592,78 @@ imageHint: "Heist-op-den-Berg church on the hill",
                   "coords": [
                         5.450509,
                         50.785874
+                  ]
+            },
+            {
+                  "name": "Gallo-Roman Museum",
+                  "text": "Tongeren jelentős múzeuma, amely az őskortól a meroving korig mutat be régészeti leleteket.",
+                  "category": "museum",
+                  "coords": [
+                        5.466222,
+                        50.781138
+                  ]
+            },
+            {
+                  "name": "Kasteel van Betho",
+                  "text": "Történelmi kastély Tongeren városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.447367,
+                        50.783574
+                  ]
+            },
+            {
+                  "name": "Kasteel van Hamal",
+                  "text": "Késő barokk kastély Tongeren közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.461359,
+                        50.754411
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Paardsweidestraat)",
+                  "text": "Galloromán sírhalom Tongeren közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.444424,
+                        50.768907
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Romeinse Kassei)",
+                  "text": "Római sírhalom a régi római út mentén Tongerenben.",
+                  "category": "historical",
+                  "coords": [
+                        5.439046,
+                        50.769602
+                  ]
+            },
+            {
+                  "name": "Kasteel Rooi",
+                  "text": "Műemléki védelem alatt álló kastély Tongerenben.",
+                  "category": "castle",
+                  "coords": [
+                        5.439957,
+                        50.79308
+                  ]
+            },
+            {
+                  "name": "Romeinse Tempelsite",
+                  "text": "Egy galloromán templomkomplexum régészeti lelőhelye Tongerenben.",
+                  "category": "historical",
+                  "coords": [
+                        5.459939,
+                        50.783778
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat Spoorwegzate",
+                  "text": "Természetvédelmi terület egy egykori vasútvonal mentén Tongerenben.",
+                  "category": "natural",
+                  "coords": [
+                        5.438182,
+                        50.792552
                   ]
             }
       ],
@@ -37623,6 +38703,78 @@ imageHint: "Heist-op-den-Berg church on the hill",
                         5.450509,
                         50.785874
                   ]
+            },
+            {
+                  "name": "Gallo-Roman Museum",
+                  "text": "Un muzeu important din Tongeren care expune descoperiri arheologice din preistorie până în perioada merovingiană.",
+                  "category": "museum",
+                  "coords": [
+                        5.466222,
+                        50.781138
+                  ]
+            },
+            {
+                  "name": "Kasteel van Betho",
+                  "text": "Un castel istoric situat în Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.447367,
+                        50.783574
+                  ]
+            },
+            {
+                  "name": "Kasteel van Hamal",
+                  "text": "Un castel în stil baroc târziu situat lângă Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.461359,
+                        50.754411
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Paardsweidestraat)",
+                  "text": "Un tumul galo-roman situat lângă Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.444424,
+                        50.768907
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Romeinse Kassei)",
+                  "text": "Un tumul roman situat de-a lungul vechiului drum roman din Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.439046,
+                        50.769602
+                  ]
+            },
+            {
+                  "name": "Kasteel Rooi",
+                  "text": "Un castel de patrimoniu situat în Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.439957,
+                        50.79308
+                  ]
+            },
+            {
+                  "name": "Romeinse Tempelsite",
+                  "text": "Situl arheologic al unui complex de temple galo-romane din Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.459939,
+                        50.783778
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat Spoorwegzate",
+                  "text": "O rezervație naturală situată pe traseul unei foste căi ferate în Tongeren.",
+                  "category": "natural",
+                  "coords": [
+                        5.438182,
+                        50.792552
+                  ]
             }
       ],
       "en": [
@@ -37660,6 +38812,78 @@ imageHint: "Heist-op-den-Berg church on the hill",
                   "coords": [
                         5.450509,
                         50.785874
+                  ]
+            },
+            {
+                  "name": "Gallo-Roman Museum",
+                  "text": "A major museum in Tongeren displaying archaeological finds from prehistory to the Merovingian period.",
+                  "category": "museum",
+                  "coords": [
+                        5.466222,
+                        50.781138
+                  ]
+            },
+            {
+                  "name": "Kasteel van Betho",
+                  "text": "A historic castle located in Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.447367,
+                        50.783574
+                  ]
+            },
+            {
+                  "name": "Kasteel van Hamal",
+                  "text": "A late Baroque castle located near Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.461359,
+                        50.754411
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Paardsweidestraat)",
+                  "text": "A Gallo-Roman burial mound located near Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.444424,
+                        50.768907
+                  ]
+            },
+            {
+                  "name": "Tumulus van Koninksem (Romeinse Kassei)",
+                  "text": "A Roman burial mound along the old Roman road in Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.439046,
+                        50.769602
+                  ]
+            },
+            {
+                  "name": "Kasteel Rooi",
+                  "text": "A heritage-listed castle located in Tongeren.",
+                  "category": "castle",
+                  "coords": [
+                        5.439957,
+                        50.79308
+                  ]
+            },
+            {
+                  "name": "Romeinse Tempelsite",
+                  "text": "The archaeological site of a Gallo-Roman temple complex in Tongeren.",
+                  "category": "historical",
+                  "coords": [
+                        5.459939,
+                        50.783778
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat Spoorwegzate",
+                  "text": "A nature reserve located on a former railway track in Tongeren.",
+                  "category": "natural",
+                  "coords": [
+                        5.438182,
+                        50.792552
                   ]
             }
       ]
@@ -40226,6 +41450,78 @@ imageHint: "Eupen town hall and Vesdre dam",
                         3.614979,
                         50.850536
                   ]
+            },
+            {
+                  "name": "Centrum Ronde Van Vlaanderen",
+                  "text": "Ein interaktives Museum in Oudenaarde, das der Flandern-Rundfahrt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.60304,
+                        50.842042
+                  ]
+            },
+            {
+                  "name": "Maarkebeekvallei (Longkruidbosje)",
+                  "text": "Ein Naturschutzgebiet im Maarkebeek-Tal bei Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.629005,
+                        50.822558
+                  ]
+            },
+            {
+                  "name": "Archeologische site Ename",
+                  "text": "Eine bedeutende archäologische Stätte mit den Ruinen einer ehemaligen Benediktinerabtei in Ename.",
+                  "category": "historical",
+                  "coords": [
+                        3.628879,
+                        50.857905
+                  ]
+            },
+            {
+                  "name": "Kasteel Moregem",
+                  "text": "Ein historisches Schloss in Moregem bei Oudenaarde.",
+                  "category": "castle",
+                  "coords": [
+                        3.575425,
+                        50.848683
+                  ]
+            },
+            {
+                  "name": "Museum van Oudenaarde",
+                  "text": "Ein Museum, das die Geschichte und Kunst der Stadt Oudenaarde präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        3.603575,
+                        50.843899
+                  ]
+            },
+            {
+                  "name": "'t Spei",
+                  "text": "Ein kleines Naturschutzgebiet in Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.604429,
+                        50.835412
+                  ]
+            },
+            {
+                  "name": "Castrale motte",
+                  "text": "Die Überreste einer mittelalterlichen Motte in Oudenaarde.",
+                  "category": "historical",
+                  "coords": [
+                        3.58468,
+                        50.861515
+                  ]
+            },
+            {
+                  "name": "PAM Ename",
+                  "text": "Ein archäologisches Museum in Ename, das die lokale Geschichte beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        3.632727,
+                        50.854916
+                  ]
             }
       ],
       "hu": [
@@ -40299,6 +41595,78 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         3.614979,
                         50.850536
+                  ]
+            },
+            {
+                  "name": "Centrum Ronde Van Vlaanderen",
+                  "text": "Interaktív múzeum Oudenaardében, amelyet a flandriai körversenynek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        3.60304,
+                        50.842042
+                  ]
+            },
+            {
+                  "name": "Maarkebeekvallei (Longkruidbosje)",
+                  "text": "Természetvédelmi terület a Maarkebeek-völgyben, Oudenaarde közelében.",
+                  "category": "natural",
+                  "coords": [
+                        3.629005,
+                        50.822558
+                  ]
+            },
+            {
+                  "name": "Archeologische site Ename",
+                  "text": "Jelentős régészeti lelőhely egy egykori bencés apátság romjaival Enamében.",
+                  "category": "historical",
+                  "coords": [
+                        3.628879,
+                        50.857905
+                  ]
+            },
+            {
+                  "name": "Kasteel Moregem",
+                  "text": "Történelmi kastély Moregemben, Oudenaarde közelében.",
+                  "category": "castle",
+                  "coords": [
+                        3.575425,
+                        50.848683
+                  ]
+            },
+            {
+                  "name": "Museum van Oudenaarde",
+                  "text": "Múzeum, amely Oudenaarde városának történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.603575,
+                        50.843899
+                  ]
+            },
+            {
+                  "name": "'t Spei",
+                  "text": "Kisméretű természetvédelmi terület Oudenaardében.",
+                  "category": "natural",
+                  "coords": [
+                        3.604429,
+                        50.835412
+                  ]
+            },
+            {
+                  "name": "Castrale motte",
+                  "text": "Középkori földvár maradványai Oudenaardében.",
+                  "category": "historical",
+                  "coords": [
+                        3.58468,
+                        50.861515
+                  ]
+            },
+            {
+                  "name": "PAM Ename",
+                  "text": "Régészeti múzeum Enamében, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.632727,
+                        50.854916
                   ]
             }
       ],
@@ -40374,6 +41742,78 @@ imageHint: "Eupen town hall and Vesdre dam",
                         3.614979,
                         50.850536
                   ]
+            },
+            {
+                  "name": "Centrum Ronde Van Vlaanderen",
+                  "text": "Un muzeu interactiv din Oudenaarde dedicat Turului Flandrei.",
+                  "category": "museum",
+                  "coords": [
+                        3.60304,
+                        50.842042
+                  ]
+            },
+            {
+                  "name": "Maarkebeekvallei (Longkruidbosje)",
+                  "text": "O rezervație naturală în valea Maarkebeek, lângă Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.629005,
+                        50.822558
+                  ]
+            },
+            {
+                  "name": "Archeologische site Ename",
+                  "text": "Un sit arheologic important cu ruinele unei foste abații benedictine din Ename.",
+                  "category": "historical",
+                  "coords": [
+                        3.628879,
+                        50.857905
+                  ]
+            },
+            {
+                  "name": "Kasteel Moregem",
+                  "text": "Un castel istoric situat în Moregem, lângă Oudenaarde.",
+                  "category": "castle",
+                  "coords": [
+                        3.575425,
+                        50.848683
+                  ]
+            },
+            {
+                  "name": "Museum van Oudenaarde",
+                  "text": "Un muzeu care prezintă istoria și arta orașului Oudenaarde.",
+                  "category": "museum",
+                  "coords": [
+                        3.603575,
+                        50.843899
+                  ]
+            },
+            {
+                  "name": "'t Spei",
+                  "text": "O mică rezervație naturală în Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.604429,
+                        50.835412
+                  ]
+            },
+            {
+                  "name": "Castrale motte",
+                  "text": "Rămășițele unei motte medievale în Oudenaarde.",
+                  "category": "historical",
+                  "coords": [
+                        3.58468,
+                        50.861515
+                  ]
+            },
+            {
+                  "name": "PAM Ename",
+                  "text": "Un muzeu arheologic din Ename care evidențiază istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        3.632727,
+                        50.854916
+                  ]
             }
       ],
       "en": [
@@ -40447,6 +41887,78 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         3.614979,
                         50.850536
+                  ]
+            },
+            {
+                  "name": "Centrum Ronde Van Vlaanderen",
+                  "text": "An interactive museum in Oudenaarde dedicated to the Tour of Flanders cycling race.",
+                  "category": "museum",
+                  "coords": [
+                        3.60304,
+                        50.842042
+                  ]
+            },
+            {
+                  "name": "Maarkebeekvallei (Longkruidbosje)",
+                  "text": "A nature reserve in the Maarkebeek valley near Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.629005,
+                        50.822558
+                  ]
+            },
+            {
+                  "name": "Archeologische site Ename",
+                  "text": "An important archaeological site with the ruins of a former Benedictine abbey in Ename.",
+                  "category": "historical",
+                  "coords": [
+                        3.628879,
+                        50.857905
+                  ]
+            },
+            {
+                  "name": "Kasteel Moregem",
+                  "text": "A historic castle located in Moregem near Oudenaarde.",
+                  "category": "castle",
+                  "coords": [
+                        3.575425,
+                        50.848683
+                  ]
+            },
+            {
+                  "name": "Museum van Oudenaarde",
+                  "text": "A museum presenting the history and art of the city of Oudenaarde.",
+                  "category": "museum",
+                  "coords": [
+                        3.603575,
+                        50.843899
+                  ]
+            },
+            {
+                  "name": "'t Spei",
+                  "text": "A small nature reserve in Oudenaarde.",
+                  "category": "natural",
+                  "coords": [
+                        3.604429,
+                        50.835412
+                  ]
+            },
+            {
+                  "name": "Castrale motte",
+                  "text": "The remains of a medieval motte in Oudenaarde.",
+                  "category": "historical",
+                  "coords": [
+                        3.58468,
+                        50.861515
+                  ]
+            },
+            {
+                  "name": "PAM Ename",
+                  "text": "An archaeological museum in Ename highlighting local history.",
+                  "category": "museum",
+                  "coords": [
+                        3.632727,
+                        50.854916
                   ]
             }
       ]
@@ -49873,6 +51385,69 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.790593,
                         50.616405
                   ]
+            },
+            {
+                  "name": "Ancien refuge de l'abbaye de Ghislenghien",
+                  "text": "Ein historisches Gebäude in Ath, das ehemals als Zufluchtsort der Abtei Ghislenghien diente.",
+                  "category": "religious",
+                  "coords": [
+                        3.780215,
+                        50.629497
+                  ]
+            },
+            {
+                  "name": "Espace gallo-romain",
+                  "text": "Ein archäologisches Museum in Ath, das sich der gallo-römischen Geschichte der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        3.778433,
+                        50.630153
+                  ]
+            },
+            {
+                  "name": "Maison des géants",
+                  "text": "Ein Museum in Ath, das der lokalen Tradition der Prozessionsriesen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.774786,
+                        50.629777
+                  ]
+            },
+            {
+                  "name": "Tour Burbant",
+                  "text": "Ein markanter mittelalterlicher Wehrturm aus dem 12. Jahrhundert in Ath.",
+                  "category": "castle",
+                  "coords": [
+                        3.774698,
+                        50.630925
+                  ]
+            },
+            {
+                  "name": "Musée national des Jeux de Paume",
+                  "text": "Ein Museum in Ath, das der Geschichte und Tradition des Pelota-Spiels gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.777077,
+                        50.630482
+                  ]
+            },
+            {
+                  "name": "Site des Carrières",
+                  "text": "Ein ehemaliges Steinbruchgelände in Ath, das heute als Naturgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        3.79642,
+                        50.616327
+                  ]
+            },
+            {
+                  "name": "Ancien four à chaux",
+                  "text": "Die Überreste eines historischen Kalkofens, die als Zeugnis der Industriegeschichte von Ath erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        3.801475,
+                        50.616373
+                  ]
             }
       ],
       "hu": [
@@ -49892,6 +51467,69 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.790593,
                         50.616405
+                  ]
+            },
+            {
+                  "name": "Ancien refuge de l'abbaye de Ghislenghien",
+                  "text": "Történelmi épület Ath városában, amely egykor a ghislenghieni apátság menedékhelyeként szolgált.",
+                  "category": "religious",
+                  "coords": [
+                        3.780215,
+                        50.629497
+                  ]
+            },
+            {
+                  "name": "Espace gallo-romain",
+                  "text": "Régészeti múzeum Ath városában, amely a régió gall-római történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.778433,
+                        50.630153
+                  ]
+            },
+            {
+                  "name": "Maison des géants",
+                  "text": "Ath városának múzeuma, amely a helyi körmeneti óriások hagyományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.774786,
+                        50.629777
+                  ]
+            },
+            {
+                  "name": "Tour Burbant",
+                  "text": "Ath városának jellegzetes, 12. századi középkori védőtornya.",
+                  "category": "castle",
+                  "coords": [
+                        3.774698,
+                        50.630925
+                  ]
+            },
+            {
+                  "name": "Musée national des Jeux de Paume",
+                  "text": "Múzeum Ath városában, amely a tenisz őseként ismert labdajátékok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.777077,
+                        50.630482
+                  ]
+            },
+            {
+                  "name": "Site des Carrières",
+                  "text": "Egykori kőfejtő területe Ath-ban, amely ma természetvédelmi területként működik.",
+                  "category": "natural",
+                  "coords": [
+                        3.79642,
+                        50.616327
+                  ]
+            },
+            {
+                  "name": "Ancien four à chaux",
+                  "text": "Egy történelmi mészégető kemence maradványai, Ath ipari múltjának emléke.",
+                  "category": "historical",
+                  "coords": [
+                        3.801475,
+                        50.616373
                   ]
             }
       ],
@@ -49913,6 +51551,69 @@ imageHint: "Knokke luxury storefronts and beach",
                         3.790593,
                         50.616405
                   ]
+            },
+            {
+                  "name": "Ancien refuge de l'abbaye de Ghislenghien",
+                  "text": "O clădire istorică în Ath, care a servit anterior ca refugiu pentru abația Ghislenghien.",
+                  "category": "religious",
+                  "coords": [
+                        3.780215,
+                        50.629497
+                  ]
+            },
+            {
+                  "name": "Espace gallo-romain",
+                  "text": "Un muzeu arheologic în Ath, dedicat istoriei galo-romane a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        3.778433,
+                        50.630153
+                  ]
+            },
+            {
+                  "name": "Maison des géants",
+                  "text": "Un muzeu în Ath dedicat tradiției locale a giganților procesionali.",
+                  "category": "museum",
+                  "coords": [
+                        3.774786,
+                        50.629777
+                  ]
+            },
+            {
+                  "name": "Tour Burbant",
+                  "text": "Un turn defensiv medieval proeminent din secolul al XII-lea în Ath.",
+                  "category": "castle",
+                  "coords": [
+                        3.774698,
+                        50.630925
+                  ]
+            },
+            {
+                  "name": "Musée national des Jeux de Paume",
+                  "text": "Un muzeu în Ath dedicat istoriei și tradiției jocurilor cu mingea.",
+                  "category": "museum",
+                  "coords": [
+                        3.777077,
+                        50.630482
+                  ]
+            },
+            {
+                  "name": "Site des Carrières",
+                  "text": "Un fost sit de carieră de piatră în Ath, care astăzi servește ca zonă naturală.",
+                  "category": "natural",
+                  "coords": [
+                        3.79642,
+                        50.616327
+                  ]
+            },
+            {
+                  "name": "Ancien four à chaux",
+                  "text": "Vestigiile unui cuptor de var istoric, păstrate ca mărturie a istoriei industriale din Ath.",
+                  "category": "historical",
+                  "coords": [
+                        3.801475,
+                        50.616373
+                  ]
             }
       ],
       "en": [
@@ -49932,6 +51633,69 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         3.790593,
                         50.616405
+                  ]
+            },
+            {
+                  "name": "Ancien refuge de l'abbaye de Ghislenghien",
+                  "text": "A historic building in Ath that formerly served as a refuge for the Ghislenghien Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        3.780215,
+                        50.629497
+                  ]
+            },
+            {
+                  "name": "Espace gallo-romain",
+                  "text": "An archaeological museum in Ath dedicated to the Gallo-Roman history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        3.778433,
+                        50.630153
+                  ]
+            },
+            {
+                  "name": "Maison des géants",
+                  "text": "A museum in Ath dedicated to the local tradition of processional giants.",
+                  "category": "museum",
+                  "coords": [
+                        3.774786,
+                        50.629777
+                  ]
+            },
+            {
+                  "name": "Tour Burbant",
+                  "text": "A prominent 12th-century medieval defensive tower located in Ath.",
+                  "category": "castle",
+                  "coords": [
+                        3.774698,
+                        50.630925
+                  ]
+            },
+            {
+                  "name": "Musée national des Jeux de Paume",
+                  "text": "A museum in Ath dedicated to the history and tradition of ball games.",
+                  "category": "museum",
+                  "coords": [
+                        3.777077,
+                        50.630482
+                  ]
+            },
+            {
+                  "name": "Site des Carrières",
+                  "text": "A former stone quarry site in Ath that now serves as a natural area.",
+                  "category": "natural",
+                  "coords": [
+                        3.79642,
+                        50.616327
+                  ]
+            },
+            {
+                  "name": "Ancien four à chaux",
+                  "text": "The remains of a historic lime kiln, preserved as a witness to the industrial history of Ath.",
+                  "category": "historical",
+                  "coords": [
+                        3.801475,
+                        50.616373
                   ]
             }
       ]
@@ -56046,7 +57810,304 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-edegem-cities-v2.webp",
   },
   {
-    id: "belgium-eeklo-cities-v2",
+    id: "belgium-eeklo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Het Leen",
+                  "text": "Ein ausgedehntes Naturschutzgebiet und Naherholungsgebiet in Eeklo.",
+                  "category": "natural",
+                  "coords": [
+                        3.566938,
+                        51.164159
+                  ]
+            },
+            {
+                  "name": "Heldenkasteel",
+                  "text": "Ein historisches Schloss im Zentrum von Eeklo, heute Teil des Heldenparks.",
+                  "category": "castle",
+                  "coords": [
+                        3.582432,
+                        51.182165
+                  ]
+            },
+            {
+                  "name": "Bosinfocentrum",
+                  "text": "Ein Informationszentrum im Naturschutzgebiet Het Leen über die lokale Forstwirtschaft.",
+                  "category": "museum",
+                  "coords": [
+                        3.572303,
+                        51.166536
+                  ]
+            },
+            {
+                  "name": "Streekcentrum Huysmanshoeve",
+                  "text": "Ein regionales Zentrum in einem historischen Bauernhof, das die lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        3.576154,
+                        51.202467
+                  ]
+            },
+            {
+                  "name": "Heldenpark",
+                  "text": "Ein öffentlicher Stadtpark in Eeklo mit einem Schloss und Spielbereichen.",
+                  "category": "park",
+                  "coords": [
+                        3.582199,
+                        51.183091
+                  ]
+            },
+            {
+                  "name": "Cultuurhuis Herbakker",
+                  "text": "Ein modernes Kulturzentrum in Eeklo für Theater und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        3.563144,
+                        51.186746
+                  ]
+            },
+            {
+                  "name": "Minderbroederskerk",
+                  "text": "Eine historische Kirche der Minderbrüder im Zentrum von Eeklo.",
+                  "category": "religious",
+                  "coords": [
+                        3.56591,
+                        51.183305
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Hemelvaartkerk",
+                  "text": "Die neugotische Hauptkirche von Eeklo mit einem markanten Kirchturm.",
+                  "category": "religious",
+                  "coords": [
+                        3.581084,
+                        51.181015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Het Leen",
+                  "text": "Kiterjedt természetvédelmi terület és üdülőövezet Eeklo mellett.",
+                  "category": "natural",
+                  "coords": [
+                        3.566938,
+                        51.164159
+                  ]
+            },
+            {
+                  "name": "Heldenkasteel",
+                  "text": "Történelmi kastély Eeklo központjában, ma a Heldenpark része.",
+                  "category": "castle",
+                  "coords": [
+                        3.582432,
+                        51.182165
+                  ]
+            },
+            {
+                  "name": "Bosinfocentrum",
+                  "text": "Erdészeti információs központ a Het Leen természetvédelmi területen.",
+                  "category": "museum",
+                  "coords": [
+                        3.572303,
+                        51.166536
+                  ]
+            },
+            {
+                  "name": "Streekcentrum Huysmanshoeve",
+                  "text": "Regionális központ egy történelmi farmon, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.576154,
+                        51.202467
+                  ]
+            },
+            {
+                  "name": "Heldenpark",
+                  "text": "Nyilvános városi park Eekloban kastéllyal és játszóterekkel.",
+                  "category": "park",
+                  "coords": [
+                        3.582199,
+                        51.183091
+                  ]
+            },
+            {
+                  "name": "Cultuurhuis Herbakker",
+                  "text": "Modern kulturális központ Eekloban, színházi előadások és rendezvények helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        3.563144,
+                        51.186746
+                  ]
+            },
+            {
+                  "name": "Minderbroederskerk",
+                  "text": "Történelmi ferences rendi templom Eeklo központjában.",
+                  "category": "religious",
+                  "coords": [
+                        3.56591,
+                        51.183305
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Hemelvaartkerk",
+                  "text": "Eeklo neogótikus főtemploma, jellegzetes harangtoronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        3.581084,
+                        51.181015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Het Leen",
+                  "text": "O rezervație naturală vastă și zonă de recreere lângă Eeklo.",
+                  "category": "natural",
+                  "coords": [
+                        3.566938,
+                        51.164159
+                  ]
+            },
+            {
+                  "name": "Heldenkasteel",
+                  "text": "Un castel istoric în centrul orașului Eeklo, astăzi parte din Heldenpark.",
+                  "category": "castle",
+                  "coords": [
+                        3.582432,
+                        51.182165
+                  ]
+            },
+            {
+                  "name": "Bosinfocentrum",
+                  "text": "Centru de informare în rezervația Het Leen despre silvicultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        3.572303,
+                        51.166536
+                  ]
+            },
+            {
+                  "name": "Streekcentrum Huysmanshoeve",
+                  "text": "Un centru regional situat într-o fermă istorică, prezentând istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        3.576154,
+                        51.202467
+                  ]
+            },
+            {
+                  "name": "Heldenpark",
+                  "text": "Un parc public în Eeklo, care include un castel și zone de joacă.",
+                  "category": "park",
+                  "coords": [
+                        3.582199,
+                        51.183091
+                  ]
+            },
+            {
+                  "name": "Cultuurhuis Herbakker",
+                  "text": "Un centru cultural modern în Eeklo pentru teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        3.563144,
+                        51.186746
+                  ]
+            },
+            {
+                  "name": "Minderbroederskerk",
+                  "text": "O biserică istorică a ordinului franciscan în centrul orașului Eeklo.",
+                  "category": "religious",
+                  "coords": [
+                        3.56591,
+                        51.183305
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Hemelvaartkerk",
+                  "text": "Biserica principală neogotică din Eeklo, cu o turlă proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        3.581084,
+                        51.181015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Het Leen",
+                  "text": "A large nature reserve and recreational forest area near Eeklo.",
+                  "category": "natural",
+                  "coords": [
+                        3.566938,
+                        51.164159
+                  ]
+            },
+            {
+                  "name": "Heldenkasteel",
+                  "text": "A historical castle in the center of Eeklo, now part of the Heldenpark.",
+                  "category": "castle",
+                  "coords": [
+                        3.582432,
+                        51.182165
+                  ]
+            },
+            {
+                  "name": "Bosinfocentrum",
+                  "text": "An information center in the Het Leen nature reserve focused on local forestry.",
+                  "category": "museum",
+                  "coords": [
+                        3.572303,
+                        51.166536
+                  ]
+            },
+            {
+                  "name": "Streekcentrum Huysmanshoeve",
+                  "text": "A regional center located in a historic farmstead showcasing local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        3.576154,
+                        51.202467
+                  ]
+            },
+            {
+                  "name": "Heldenpark",
+                  "text": "A public urban park in Eeklo featuring a castle and recreational areas.",
+                  "category": "park",
+                  "coords": [
+                        3.582199,
+                        51.183091
+                  ]
+            },
+            {
+                  "name": "Cultuurhuis Herbakker",
+                  "text": "A modern arts center in Eeklo hosting theater performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        3.563144,
+                        51.186746
+                  ]
+            },
+            {
+                  "name": "Minderbroederskerk",
+                  "text": "A historical Minorite church located in the center of Eeklo.",
+                  "category": "religious",
+                  "coords": [
+                        3.56591,
+                        51.183305
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Hemelvaartkerk",
+                  "text": "The neo-Gothic main church of Eeklo featuring a prominent spire.",
+                  "category": "religious",
+                  "coords": [
+                        3.581084,
+                        51.181015
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Eeklo", hu: "Eeklo", ro: "Eeklo", en: "Eeklo" },
@@ -57919,6 +59980,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.307074,
                         50.426432
                   ]
+            },
+            {
+                  "name": "Musée du gazomètre",
+                  "text": "Ein markantes Gebäude in Fontaine-l'Évêque, das eng mit der Industriegeschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.323837,
+                        50.4111
+                  ]
             }
       ],
       "hu": [
@@ -57947,6 +60017,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.307074,
                         50.426432
+                  ]
+            },
+            {
+                  "name": "Musée du gazomètre",
+                  "text": "Fontaine-l'Évêque jellegzetes épülete, amely szorosan kapcsolódik az ipartörténethez.",
+                  "category": "landmark",
+                  "coords": [
+                        4.323837,
+                        50.4111
                   ]
             }
       ],
@@ -57977,6 +60056,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.307074,
                         50.426432
                   ]
+            },
+            {
+                  "name": "Musée du gazomètre",
+                  "text": "O clădire distinctivă din Fontaine-l'Évêque, strâns legată de istoria industrială.",
+                  "category": "landmark",
+                  "coords": [
+                        4.323837,
+                        50.4111
+                  ]
             }
       ],
       "en": [
@@ -58005,6 +60093,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.307074,
                         50.426432
+                  ]
+            },
+            {
+                  "name": "Musée du gazomètre",
+                  "text": "A distinctive building in Fontaine-l'Évêque closely linked to industrial history.",
+                  "category": "landmark",
+                  "coords": [
+                        4.323837,
+                        50.4111
                   ]
             }
       ]
@@ -66459,7 +68556,268 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-malmedy-cities-v2.webp",
   },
   {
-    id: "belgium-marche-en-famenne-cities-v2",
+    id: "belgium-marche-en-famenne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Famenne & Art Museum",
+                  "text": "Ein Museum für Kunst und Regionalgeschichte der Famenne.",
+                  "category": "museum",
+                  "coords": [
+                        5.343538,
+                        50.226845
+                  ]
+            },
+            {
+                  "name": "Château Borchamps",
+                  "text": "Ein Landschloss in der Nähe von Marche-en-Famenne.",
+                  "category": "castle",
+                  "coords": [
+                        5.325611,
+                        50.232059
+                  ]
+            },
+            {
+                  "name": "Fond des Vaulx",
+                  "text": "Ein Naturschutzgebiet, das für seine Kalksteinfelsen und Höhlen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.363073,
+                        50.228664
+                  ]
+            },
+            {
+                  "name": "Château de Waha",
+                  "text": "Ein Schloss in Waha, in der Nähe der berühmten romanischen Kirche.",
+                  "category": "castle",
+                  "coords": [
+                        5.345997,
+                        50.215011
+                  ]
+            },
+            {
+                  "name": "RND Au Brûlé et Bois de Waillet",
+                  "text": "Ein staatliches Naturschutzgebiet mit Heide- und Waldflächen.",
+                  "category": "natural",
+                  "coords": [
+                        5.32502,
+                        50.244291
+                  ]
+            },
+            {
+                  "name": "PONT SNCB",
+                  "text": "Eine Eisenbahnbrücke der SNCB in Marche-en-Famenne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342206,
+                        50.220553
+                  ]
+            },
+            {
+                  "name": "Pont du Monument",
+                  "text": "Eine Straßenbrücke in Marche-en-Famenne, die vom SOFICO verwaltet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        5.339949,
+                        50.22289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Famenne & Art Museum",
+                  "text": "A Famenne-vidék művészeti és helytörténeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        5.343538,
+                        50.226845
+                  ]
+            },
+            {
+                  "name": "Château Borchamps",
+                  "text": "Vidéki kastély Marche-en-Famenne közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.325611,
+                        50.232059
+                  ]
+            },
+            {
+                  "name": "Fond des Vaulx",
+                  "text": "Mészkőszikláiról és barlangjairól ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        5.363073,
+                        50.228664
+                  ]
+            },
+            {
+                  "name": "Château de Waha",
+                  "text": "Kastély Wahában, a híres román stílusú templom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.345997,
+                        50.215011
+                  ]
+            },
+            {
+                  "name": "RND Au Brûlé et Bois de Waillet",
+                  "text": "Állami természetvédelmi terület fenyéres és erdei részekkel.",
+                  "category": "natural",
+                  "coords": [
+                        5.32502,
+                        50.244291
+                  ]
+            },
+            {
+                  "name": "PONT SNCB",
+                  "text": "Az SNCB vasúti hídja Marche-en-Famenne-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342206,
+                        50.220553
+                  ]
+            },
+            {
+                  "name": "Pont du Monument",
+                  "text": "Közúti híd Marche-en-Famenne-ben, amelyet a SOFICO kezel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.339949,
+                        50.22289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Famenne & Art Museum",
+                  "text": "Un muzeu de artă și istorie regională al zonei Famenne.",
+                  "category": "museum",
+                  "coords": [
+                        5.343538,
+                        50.226845
+                  ]
+            },
+            {
+                  "name": "Château Borchamps",
+                  "text": "Un castel rural situat în apropiere de Marche-en-Famenne.",
+                  "category": "castle",
+                  "coords": [
+                        5.325611,
+                        50.232059
+                  ]
+            },
+            {
+                  "name": "Fond des Vaulx",
+                  "text": "O rezervație naturală cunoscută pentru stâncile calcaroase și peșterile sale.",
+                  "category": "natural",
+                  "coords": [
+                        5.363073,
+                        50.228664
+                  ]
+            },
+            {
+                  "name": "Château de Waha",
+                  "text": "Un castel în Waha, situat lângă celebra biserică romanică.",
+                  "category": "castle",
+                  "coords": [
+                        5.345997,
+                        50.215011
+                  ]
+            },
+            {
+                  "name": "RND Au Brûlé et Bois de Waillet",
+                  "text": "O rezervație naturală de stat cu zone de pârloagă și pădure.",
+                  "category": "natural",
+                  "coords": [
+                        5.32502,
+                        50.244291
+                  ]
+            },
+            {
+                  "name": "PONT SNCB",
+                  "text": "Un pod de cale ferată al SNCB în Marche-en-Famenne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342206,
+                        50.220553
+                  ]
+            },
+            {
+                  "name": "Pont du Monument",
+                  "text": "Un pod rutier în Marche-en-Famenne, administrat de SOFICO.",
+                  "category": "landmark",
+                  "coords": [
+                        5.339949,
+                        50.22289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Famenne & Art Museum",
+                  "text": "A museum of art and regional history of the Famenne area.",
+                  "category": "museum",
+                  "coords": [
+                        5.343538,
+                        50.226845
+                  ]
+            },
+            {
+                  "name": "Château Borchamps",
+                  "text": "A country castle located near Marche-en-Famenne.",
+                  "category": "castle",
+                  "coords": [
+                        5.325611,
+                        50.232059
+                  ]
+            },
+            {
+                  "name": "Fond des Vaulx",
+                  "text": "A nature reserve known for its limestone cliffs and caves.",
+                  "category": "natural",
+                  "coords": [
+                        5.363073,
+                        50.228664
+                  ]
+            },
+            {
+                  "name": "Château de Waha",
+                  "text": "A castle in Waha, located near the famous Romanesque church.",
+                  "category": "castle",
+                  "coords": [
+                        5.345997,
+                        50.215011
+                  ]
+            },
+            {
+                  "name": "RND Au Brûlé et Bois de Waillet",
+                  "text": "A state nature reserve featuring heathland and forested areas.",
+                  "category": "natural",
+                  "coords": [
+                        5.32502,
+                        50.244291
+                  ]
+            },
+            {
+                  "name": "PONT SNCB",
+                  "text": "A railway bridge of the SNCB in Marche-en-Famenne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342206,
+                        50.220553
+                  ]
+            },
+            {
+                  "name": "Pont du Monument",
+                  "text": "A road bridge in Marche-en-Famenne managed by SOFICO.",
+                  "category": "landmark",
+                  "coords": [
+                        5.339949,
+                        50.22289
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Marche-en-Famenne", hu: "Marche-en-Famenne", ro: "Marche-en-Famenne", en: "Marche-en-Famenne" },

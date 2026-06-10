@@ -67,6 +67,60 @@ export const irelandCitiesV2: POI[] = [
                         -6.143446,
                         52.802419
                   ]
+            },
+            {
+                  "name": "Nuns Beach",
+                  "text": "Ein ruhiger Strandabschnitt bei Arklow, bekannt für seine natürliche Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.144115,
+                        52.772446
+                  ]
+            },
+            {
+                  "name": "Hanging Rock Beach",
+                  "text": "Ein malerischer Strand bei Arklow, der durch seine Küstenfelsen geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142341,
+                        52.77419
+                  ]
+            },
+            {
+                  "name": "Arklow Rock",
+                  "text": "Eine markante Erhebung bei Arklow mit weitem Blick auf die Irische See.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.151442,
+                        52.769422
+                  ]
+            },
+            {
+                  "name": "Glenart Castle",
+                  "text": "Ein herrschaftliches Anwesen bei Arklow, bekannt für seine neugotische Bauweise.",
+                  "category": "historical",
+                  "coords": [
+                        -6.194086,
+                        52.808613
+                  ]
+            },
+            {
+                  "name": "Abbey Graveyard",
+                  "text": "Ein Friedhof an der Stelle einer ehemaligen Abtei in Arklow.",
+                  "category": "park",
+                  "coords": [
+                        -6.154091,
+                        52.797477
+                  ]
+            },
+            {
+                  "name": "Arklow Arts Centre",
+                  "text": "Ein Kulturzentrum in Arklow, das lokale Kunst und Veranstaltungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.152508,
+                        52.79772
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +185,60 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.143446,
                         52.802419
+                  ]
+            },
+            {
+                  "name": "Nuns Beach",
+                  "text": "Arklow melletti csendes tengerparti szakasz, természeti környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.144115,
+                        52.772446
+                  ]
+            },
+            {
+                  "name": "Hanging Rock Beach",
+                  "text": "Festői tengerpart Arklow közelében, jellegzetes parti sziklákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142341,
+                        52.77419
+                  ]
+            },
+            {
+                  "name": "Arklow Rock",
+                  "text": "Jellegzetes domborulat Arklow mellett, kilátással az Ír-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.151442,
+                        52.769422
+                  ]
+            },
+            {
+                  "name": "Glenart Castle",
+                  "text": "Arklow melletti kastélyépület, amely neogótikus stílusáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        -6.194086,
+                        52.808613
+                  ]
+            },
+            {
+                  "name": "Abbey Graveyard",
+                  "text": "Egy egykori apátság helyén kialakított temető Arklow-ban.",
+                  "category": "park",
+                  "coords": [
+                        -6.154091,
+                        52.797477
+                  ]
+            },
+            {
+                  "name": "Arklow Arts Centre",
+                  "text": "Helyi művészeti központ Arklow-ban, amely kiállításoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.152508,
+                        52.79772
                   ]
             }
       ],
@@ -197,6 +305,60 @@ export const irelandCitiesV2: POI[] = [
                         -6.143446,
                         52.802419
                   ]
+            },
+            {
+                  "name": "Nuns Beach",
+                  "text": "O porțiune liniștită de plajă lângă Arklow, cunoscută pentru atmosfera sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.144115,
+                        52.772446
+                  ]
+            },
+            {
+                  "name": "Hanging Rock Beach",
+                  "text": "O plajă pitorească lângă Arklow, marcată de stânci de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142341,
+                        52.77419
+                  ]
+            },
+            {
+                  "name": "Arklow Rock",
+                  "text": "O proeminență geografică lângă Arklow cu vedere spre Marea Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.151442,
+                        52.769422
+                  ]
+            },
+            {
+                  "name": "Glenart Castle",
+                  "text": "O reședință nobiliară lângă Arklow, cunoscută pentru stilul său neogotic.",
+                  "category": "historical",
+                  "coords": [
+                        -6.194086,
+                        52.808613
+                  ]
+            },
+            {
+                  "name": "Abbey Graveyard",
+                  "text": "Un cimitir situat pe locul unei foste abații în Arklow.",
+                  "category": "park",
+                  "coords": [
+                        -6.154091,
+                        52.797477
+                  ]
+            },
+            {
+                  "name": "Arklow Arts Centre",
+                  "text": "Un centru de artă în Arklow care găzduiește expoziții și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.152508,
+                        52.79772
+                  ]
             }
       ],
       "en": [
@@ -261,6 +423,60 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.143446,
                         52.802419
+                  ]
+            },
+            {
+                  "name": "Nuns Beach",
+                  "text": "A secluded beach area near Arklow known for its natural atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.144115,
+                        52.772446
+                  ]
+            },
+            {
+                  "name": "Hanging Rock Beach",
+                  "text": "A scenic beach near Arklow characterized by its coastal rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142341,
+                        52.77419
+                  ]
+            },
+            {
+                  "name": "Arklow Rock",
+                  "text": "A prominent hill near Arklow with views over the Irish Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.151442,
+                        52.769422
+                  ]
+            },
+            {
+                  "name": "Glenart Castle",
+                  "text": "A stately manor near Arklow known for its Neo-Gothic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -6.194086,
+                        52.808613
+                  ]
+            },
+            {
+                  "name": "Abbey Graveyard",
+                  "text": "A graveyard located on the site of a former abbey in Arklow.",
+                  "category": "park",
+                  "coords": [
+                        -6.154091,
+                        52.797477
+                  ]
+            },
+            {
+                  "name": "Arklow Arts Centre",
+                  "text": "An arts centre in Arklow hosting local exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.152508,
+                        52.79772
                   ]
             }
       ]
@@ -7402,6 +7618,51 @@ export const irelandCitiesV2: POI[] = [
                         -5.861663,
                         54.840685
                   ]
+            },
+            {
+                  "name": "Chaine Tower Lighthouse",
+                  "text": "Ein dekorativer Leuchtturm in Larne, der als Denkmal für James Chaine errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.797967,
+                        54.8545
+                  ]
+            },
+            {
+                  "name": "Olderfleet Castle",
+                  "text": "Die Ruine eines Wohnturms aus dem 16. Jahrhundert an der Küste von Larne.",
+                  "category": "castle",
+                  "coords": [
+                        -5.800786,
+                        54.842783
+                  ]
+            },
+            {
+                  "name": "McNeill Theatre",
+                  "text": "Ein lokales Theater und Kulturzentrum in der nordirischen Stadt Larne.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.802473,
+                        54.855182
+                  ]
+            },
+            {
+                  "name": "Larne Museum & Art Centre",
+                  "text": "Museum und Kunstzentrum in Larne, das sich der lokalen Geschichte und Kultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -5.821337,
+                        54.852501
+                  ]
+            },
+            {
+                  "name": "Glynn Old Church",
+                  "text": "Überreste einer historischen Kirche in der Nähe von Larne.",
+                  "category": "historical",
+                  "coords": [
+                        -5.810857,
+                        54.82565
+                  ]
             }
       ],
       "hu": [
@@ -7421,6 +7682,51 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.861663,
                         54.840685
+                  ]
+            },
+            {
+                  "name": "Chaine Tower Lighthouse",
+                  "text": "Díszes világítótorony Larne-ban, amelyet James Chaine emlékére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.797967,
+                        54.8545
+                  ]
+            },
+            {
+                  "name": "Olderfleet Castle",
+                  "text": "Egy 16. századi lakótorony romja Larne tengerpartján.",
+                  "category": "castle",
+                  "coords": [
+                        -5.800786,
+                        54.842783
+                  ]
+            },
+            {
+                  "name": "McNeill Theatre",
+                  "text": "Helyi színház és kulturális központ az észak-írországi Larne városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.802473,
+                        54.855182
+                  ]
+            },
+            {
+                  "name": "Larne Museum & Art Centre",
+                  "text": "Helytörténeti múzeum és művészeti központ az észak-írországi Larne városában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.821337,
+                        54.852501
+                  ]
+            },
+            {
+                  "name": "Glynn Old Church",
+                  "text": "Egy történelmi templom romjai Larne közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.810857,
+                        54.82565
                   ]
             }
       ],
@@ -7442,6 +7748,51 @@ export const irelandCitiesV2: POI[] = [
                         -5.861663,
                         54.840685
                   ]
+            },
+            {
+                  "name": "Chaine Tower Lighthouse",
+                  "text": "Un far decorativ din Larne, ridicat ca monument în memoria lui James Chaine.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.797967,
+                        54.8545
+                  ]
+            },
+            {
+                  "name": "Olderfleet Castle",
+                  "text": "Ruina unui turn de locuit din secolul al XVI-lea pe coasta din Larne.",
+                  "category": "castle",
+                  "coords": [
+                        -5.800786,
+                        54.842783
+                  ]
+            },
+            {
+                  "name": "McNeill Theatre",
+                  "text": "Un teatru local și centru cultural în orașul Larne din Irlanda de Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.802473,
+                        54.855182
+                  ]
+            },
+            {
+                  "name": "Larne Museum & Art Centre",
+                  "text": "Muzeu și centru de artă din Larne, dedicat istoriei și culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -5.821337,
+                        54.852501
+                  ]
+            },
+            {
+                  "name": "Glynn Old Church",
+                  "text": "Ruinele unei biserici istorice situate în apropiere de Larne.",
+                  "category": "historical",
+                  "coords": [
+                        -5.810857,
+                        54.82565
+                  ]
             }
       ],
       "en": [
@@ -7461,6 +7812,51 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.861663,
                         54.840685
+                  ]
+            },
+            {
+                  "name": "Chaine Tower Lighthouse",
+                  "text": "A decorative lighthouse in Larne built as a memorial to James Chaine.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.797967,
+                        54.8545
+                  ]
+            },
+            {
+                  "name": "Olderfleet Castle",
+                  "text": "The ruin of a 16th-century tower house on the coast of Larne.",
+                  "category": "castle",
+                  "coords": [
+                        -5.800786,
+                        54.842783
+                  ]
+            },
+            {
+                  "name": "McNeill Theatre",
+                  "text": "A local theatre and arts center in the town of Larne, Northern Ireland.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.802473,
+                        54.855182
+                  ]
+            },
+            {
+                  "name": "Larne Museum & Art Centre",
+                  "text": "Museum and art centre in Larne dedicated to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -5.821337,
+                        54.852501
+                  ]
+            },
+            {
+                  "name": "Glynn Old Church",
+                  "text": "Remains of a historical church located near Larne.",
+                  "category": "historical",
+                  "coords": [
+                        -5.810857,
+                        54.82565
                   ]
             }
       ]
@@ -8049,7 +8445,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-listowel-cities-v2.webp",
   },
   {
-    id: "ireland-longford-cities-v2",
+    id: "ireland-longford-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Backstage Theatre",
+                  "text": "Ein lokales Veranstaltungszentrum für darstellende Künste, in dem verschiedene Theaterproduktionen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.800111,
+                        53.71559
+                  ]
+            },
+            {
+                  "name": "Saint Mel's Cathedral",
+                  "text": "Eine bedeutende Kathedrale in Longford, die nach einem Großbrand im Jahr 2009 wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -7.796284,
+                        53.727251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Backstage Theatre",
+                  "text": "Helyi előadó-művészeti helyszín, amely különféle színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.800111,
+                        53.71559
+                  ]
+            },
+            {
+                  "name": "Saint Mel's Cathedral",
+                  "text": "Longford jelentős székesegyháza, amelyet a 2009-es tűzvész után újjáépítettek.",
+                  "category": "religious",
+                  "coords": [
+                        -7.796284,
+                        53.727251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Backstage Theatre",
+                  "text": "Un loc local de spectacol care găzduiește o varietate de producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.800111,
+                        53.71559
+                  ]
+            },
+            {
+                  "name": "Saint Mel's Cathedral",
+                  "text": "O catedrală semnificativă din Longford, reconstruită după un incendiu major în 2009.",
+                  "category": "religious",
+                  "coords": [
+                        -7.796284,
+                        53.727251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Backstage Theatre",
+                  "text": "A local performing arts venue hosting a variety of theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.800111,
+                        53.71559
+                  ]
+            },
+            {
+                  "name": "Saint Mel's Cathedral",
+                  "text": "A significant cathedral in Longford, rebuilt after a major fire in 2009.",
+                  "category": "religious",
+                  "coords": [
+                        -7.796284,
+                        53.727251
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Longford", hu: "Longford", ro: "Longford", en: "Longford" },
@@ -12243,7 +12720,268 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-trillick-cities-v2.webp",
   },
   {
-    id: "ireland-tuam-cities-v2",
+    id: "ireland-tuam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mall Theatre",
+                  "text": "Ein lokales Theater in Tuam, das kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.853262,
+                        53.513246
+                  ]
+            },
+            {
+                  "name": "Lisseevy",
+                  "text": "Eine historische archäologische Stätte in der Nähe von Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.810772,
+                        53.52954
+                  ]
+            },
+            {
+                  "name": "Lismacormick",
+                  "text": "Überreste einer archäologischen Stätte in der Region Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.819569,
+                        53.528662
+                  ]
+            },
+            {
+                  "name": "Cloonascragh Fort",
+                  "text": "Eine antike archäologische Stätte in Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.854519,
+                        53.485545
+                  ]
+            },
+            {
+                  "name": "Tuam Town Hall",
+                  "text": "Das historische Rathaus von Tuam, ein zentrales Verwaltungsgebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.85138,
+                        53.514698
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+                  "text": "Die katholische Kathedrale von Tuam, Sitz des Erzbischofs.",
+                  "category": "religious",
+                  "coords": [
+                        -8.847479,
+                        53.514866
+                  ]
+            },
+            {
+                  "name": "Saint Marys Cathedral",
+                  "text": "Die Kathedrale der Church of Ireland in Tuam mit einer bedeutenden Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        -8.855273,
+                        53.513719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mall Theatre",
+                  "text": "Helyi színház Tuam városában, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.853262,
+                        53.513246
+                  ]
+            },
+            {
+                  "name": "Lisseevy",
+                  "text": "Történelmi régészeti lelőhely Tuam közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.810772,
+                        53.52954
+                  ]
+            },
+            {
+                  "name": "Lismacormick",
+                  "text": "Régészeti lelőhely maradványai Tuam régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.819569,
+                        53.528662
+                  ]
+            },
+            {
+                  "name": "Cloonascragh Fort",
+                  "text": "Ősi régészeti lelőhely Tuamban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.854519,
+                        53.485545
+                  ]
+            },
+            {
+                  "name": "Tuam Town Hall",
+                  "text": "Tuam történelmi városházája, központi igazgatási épület.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.85138,
+                        53.514698
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+                  "text": "Tuam katolikus székesegyháza, az érsek székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -8.847479,
+                        53.514866
+                  ]
+            },
+            {
+                  "name": "Saint Marys Cathedral",
+                  "text": "Az Ír Egyház székesegyháza Tuamban, jelentős történelemmel.",
+                  "category": "religious",
+                  "coords": [
+                        -8.855273,
+                        53.513719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mall Theatre",
+                  "text": "Un teatru local din Tuam, care găzduiește spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.853262,
+                        53.513246
+                  ]
+            },
+            {
+                  "name": "Lisseevy",
+                  "text": "Un sit arheologic istoric situat lângă Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.810772,
+                        53.52954
+                  ]
+            },
+            {
+                  "name": "Lismacormick",
+                  "text": "Rămășițele unui sit arheologic din regiunea Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.819569,
+                        53.528662
+                  ]
+            },
+            {
+                  "name": "Cloonascragh Fort",
+                  "text": "Un sit arheologic antic în Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.854519,
+                        53.485545
+                  ]
+            },
+            {
+                  "name": "Tuam Town Hall",
+                  "text": "Primăria istorică din Tuam, o clădire administrativă centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.85138,
+                        53.514698
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+                  "text": "Catedrala catolică din Tuam, sediul arhiepiscopului.",
+                  "category": "religious",
+                  "coords": [
+                        -8.847479,
+                        53.514866
+                  ]
+            },
+            {
+                  "name": "Saint Marys Cathedral",
+                  "text": "Catedrala Bisericii Irlandei din Tuam, cu o istorie semnificativă.",
+                  "category": "religious",
+                  "coords": [
+                        -8.855273,
+                        53.513719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mall Theatre",
+                  "text": "A local theatre in Tuam hosting cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.853262,
+                        53.513246
+                  ]
+            },
+            {
+                  "name": "Lisseevy",
+                  "text": "A historical archaeological site located near Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.810772,
+                        53.52954
+                  ]
+            },
+            {
+                  "name": "Lismacormick",
+                  "text": "Remains of an archaeological site in the Tuam region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.819569,
+                        53.528662
+                  ]
+            },
+            {
+                  "name": "Cloonascragh Fort",
+                  "text": "An ancient archaeological site in Tuam.",
+                  "category": "historical",
+                  "coords": [
+                        -8.854519,
+                        53.485545
+                  ]
+            },
+            {
+                  "name": "Tuam Town Hall",
+                  "text": "The historic town hall of Tuam, a central administrative building.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.85138,
+                        53.514698
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+                  "text": "The Catholic cathedral of Tuam, the seat of the Archbishop.",
+                  "category": "religious",
+                  "coords": [
+                        -8.847479,
+                        53.514866
+                  ]
+            },
+            {
+                  "name": "Saint Marys Cathedral",
+                  "text": "The Church of Ireland cathedral in Tuam with a significant history.",
+                  "category": "religious",
+                  "coords": [
+                        -8.855273,
+                        53.513719
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Tuam", hu: "Tuam", ro: "Tuam", en: "Tuam" },

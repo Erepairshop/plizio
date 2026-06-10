@@ -95,7 +95,268 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
     },
     image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp",
 },  {
-    id: "luxembourg-napoleonsgaart-relief-v2",
+    id: "luxembourg-napoleonsgaart-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thillenvogtei",
+                  "text": "Die Thillenvogtei ist ein Museum in Napoléonsgaart, das das ländliche Leben vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.900054,
+                        49.849692
+                  ]
+            },
+            {
+                  "name": "Galo-Roman Arena Ground",
+                  "text": "Dieses Gelände markiert den Standort einer gallorömischen Arena in Napoléonsgaart.",
+                  "category": "historical",
+                  "coords": [
+                        5.844802,
+                        49.800121
+                  ]
+            },
+            {
+                  "name": "Schuerelserschlass",
+                  "text": "Das Schuerelserschlass ist eine historische Burganlage in der Region Napoléonsgaart.",
+                  "category": "castle",
+                  "coords": [
+                        5.881574,
+                        49.830565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Rambrouch",
+                  "text": "Das Kulturzentrum von Rambrouch in Napoléonsgaart bietet Raum für künstlerische und soziale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.849447,
+                        49.830735
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Remacle",
+                  "text": "Die Kapelle Saint-Remacle ist ein friedlicher religiöser Ort in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.887133,
+                        49.823025
+                  ]
+            },
+            {
+                  "name": "Saint-Gilles",
+                  "text": "Die dem Heiligen Gilles gewidmete Kapelle ist ein lokales Gotteshaus in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.847332,
+                        49.829523
+                  ]
+            },
+            {
+                  "name": "Saint-Maximin",
+                  "text": "Diese dem Heiligen Maximin gewidmete Kirche ist eine Sehenswürdigkeit in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.906246,
+                        49.836045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thillenvogtei",
+                  "text": "A Thillenvogtei egy múzeum Napoléonsgaartban, amely a múltbéli vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.900054,
+                        49.849692
+                  ]
+            },
+            {
+                  "name": "Galo-Roman Arena Ground",
+                  "text": "Ez a terület egy gall-római aréna helyszínét jelzi Napoléonsgaartban.",
+                  "category": "historical",
+                  "coords": [
+                        5.844802,
+                        49.800121
+                  ]
+            },
+            {
+                  "name": "Schuerelserschlass",
+                  "text": "A Schuerelserschlass egy történelmi várkastély Napoléonsgaart régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        5.881574,
+                        49.830565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Rambrouch",
+                  "text": "A rambrouchi kulturális központ Napoléonsgaartban művészeti és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.849447,
+                        49.830735
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Remacle",
+                  "text": "A Saint-Remacle kápolna egy békés vallási helyszín Napoléonsgaartban.",
+                  "category": "religious",
+                  "coords": [
+                        5.887133,
+                        49.823025
+                  ]
+            },
+            {
+                  "name": "Saint-Gilles",
+                  "text": "A Szent Egyednek szentelt kápolna egy helyi imaház Napoléonsgaartban.",
+                  "category": "religious",
+                  "coords": [
+                        5.847332,
+                        49.829523
+                  ]
+            },
+            {
+                  "name": "Saint-Maximin",
+                  "text": "Ez a Szent Maximinnek szentelt templom Napoléonsgaart eines der Sehenswürdigkeiten.",
+                  "category": "religious",
+                  "coords": [
+                        5.906246,
+                        49.836045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thillenvogtei",
+                  "text": "Thillenvogtei este un muzeu din Napoléonsgaart care prezintă viața rurală de altădată.",
+                  "category": "museum",
+                  "coords": [
+                        5.900054,
+                        49.849692
+                  ]
+            },
+            {
+                  "name": "Galo-Roman Arena Ground",
+                  "text": "Acest teren marchează locul unei arene galo-romane în Napoléonsgaart.",
+                  "category": "historical",
+                  "coords": [
+                        5.844802,
+                        49.800121
+                  ]
+            },
+            {
+                  "name": "Schuerelserschlass",
+                  "text": "Schuerelserschlass este o cetate istorică din regiunea Napoléonsgaart.",
+                  "category": "castle",
+                  "coords": [
+                        5.881574,
+                        49.830565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Rambrouch",
+                  "text": "Centrul cultural din Rambrouch, Napoléonsgaart, oferă spațiu pentru evenimente artistice și sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.849447,
+                        49.830735
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Remacle",
+                  "text": "Capela Saint-Remacle este un lăcaș de cult liniștit din Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.887133,
+                        49.823025
+                  ]
+            },
+            {
+                  "name": "Saint-Gilles",
+                  "text": "Capela dedicată Sfântului Gilles este un lăcaș de cult local din Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.847332,
+                        49.829523
+                  ]
+            },
+            {
+                  "name": "Saint-Maximin",
+                  "text": "Această biserică dedicată Sfântului Maximin este un obiectiv turistic din Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.906246,
+                        49.836045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thillenvogtei",
+                  "text": "Thillenvogtei is a museum in Napoléonsgaart showcasing rural life of the past.",
+                  "category": "museum",
+                  "coords": [
+                        5.900054,
+                        49.849692
+                  ]
+            },
+            {
+                  "name": "Galo-Roman Arena Ground",
+                  "text": "This ground marks the site of a Gallo-Roman arena in Napoléonsgaart.",
+                  "category": "historical",
+                  "coords": [
+                        5.844802,
+                        49.800121
+                  ]
+            },
+            {
+                  "name": "Schuerelserschlass",
+                  "text": "Schuerelserschlass is a historic castle in the Napoléonsgaart region.",
+                  "category": "castle",
+                  "coords": [
+                        5.881574,
+                        49.830565
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Rambrouch",
+                  "text": "The cultural centre of Rambrouch in Napoléonsgaart hosts artistic and social events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.849447,
+                        49.830735
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Remacle",
+                  "text": "The Chapelle Saint-Remacle is a peaceful religious site in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.887133,
+                        49.823025
+                  ]
+            },
+            {
+                  "name": "Saint-Gilles",
+                  "text": "The chapel dedicated to Saint Gilles is a local place of worship in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.847332,
+                        49.829523
+                  ]
+            },
+            {
+                  "name": "Saint-Maximin",
+                  "text": "This church dedicated to Saint Maximin is a landmark in Napoléonsgaart.",
+                  "category": "religious",
+                  "coords": [
+                        5.906246,
+                        49.836045
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "peak",
     name: { de: "Napoléonsgaart", hu: "Napoléonsgaart", ro: "Napoléonsgaart", en: "Napoléonsgaart"},

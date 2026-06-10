@@ -81,7 +81,268 @@ export const greeceCountry: POI = {
 
 export const greeceRegions: POI[] = [
   {
-    id: "city-athens",
+    id: "city-athens", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "text": "Ruinen eines antiken Tempels, der dem Gott Dionysos gewidmet ist, in Athen.",
+                  "category": "historical",
+                  "coords": [
+                        23.727708,
+                        37.97007
+                  ]
+            },
+            {
+                  "name": "Δίπυλον",
+                  "text": "Das Haupttor in der Stadtmauer des antiken Athen im Viertel Kerameikos.",
+                  "category": "historical",
+                  "coords": [
+                        23.718983,
+                        37.978536
+                  ]
+            },
+            {
+                  "name": "Archäologische Stätte der Akademie von Plato",
+                  "text": "Die archäologischen Überreste der berühmten von Platon gegründeten Schule im antiken Athen.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Κεντρική σκηνή",
+                  "text": "Das renommierte Nationaltheater von Griechenland in einem historischen Gebäude in Athen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.725204,
+                        37.984805
+                  ]
+            },
+            {
+                  "name": "Heiligtum von Eros und Aphrodite",
+                  "text": "Eine antike religiöse Stätte am Nordhang der Akropolis, die Eros und Aphrodite gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.72702,
+                        37.972249
+                  ]
+            },
+            {
+                  "name": "Επιγραφικό μουσείο",
+                  "text": "Ein Museum in Athen, das eine bedeutende Sammlung antiker griechischer Inschriften beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        23.732331,
+                        37.988769
+                  ]
+            },
+            {
+                  "name": "Θέατρο Βρετάνια",
+                  "text": "Ein zentrales Theater in Athen, in dem verschiedene Bühnenaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        23.735617,
+                        37.97693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "text": "Dionüzosz istennek szentelt ókori templom romjai Athénban.",
+                  "category": "historical",
+                  "coords": [
+                        23.727708,
+                        37.97007
+                  ]
+            },
+            {
+                  "name": "Δίπυλον",
+                  "text": "Az ókori Athén városfalának főkapuja a Kerameikosz negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        23.718983,
+                        37.978536
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος",
+                  "text": "A Platón által alapított híres ókori iskola régészeti maradványai Athénban.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Κεντρική σκηνή",
+                  "text": "Görögország rangos Nemzeti Színháza, amely egy történelmi épületben található Athénban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.725204,
+                        37.984805
+                  ]
+            },
+            {
+                  "name": "Ιερό Έρωτα και Αφροδίτης",
+                  "text": "Erosznak és Aphroditénak szentelt ókori vallási helyszín az Akropolisz északi lejtőjén.",
+                  "category": "historical",
+                  "coords": [
+                        23.72702,
+                        37.972249
+                  ]
+            },
+            {
+                  "name": "Επιγραφικό μουσείο",
+                  "text": "Athéni múzeum, amely az ókori görög feliratok jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        23.732331,
+                        37.988769
+                  ]
+            },
+            {
+                  "name": "Θέατρο Βρετάνια",
+                  "text": "Központi színház Athénban, amely különféle színpadi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.735617,
+                        37.97693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "text": "Ruinele unui templu antic dedicat zeului Dionysos din Atena.",
+                  "category": "historical",
+                  "coords": [
+                        23.727708,
+                        37.97007
+                  ]
+            },
+            {
+                  "name": "Δίπυλον",
+                  "text": "Poarta principală din zidul orașului Atenei antice, situată în zona Kerameikos.",
+                  "category": "historical",
+                  "coords": [
+                        23.718983,
+                        37.978536
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος",
+                  "text": "Vestigiile arheologice ale faimoasei școli fondate de Platon în Atena antică.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Κεντρική σκηνή",
+                  "text": "Prestigiul Teatru Național al Greciei, situat într-o clădire istorică din Atena.",
+                  "category": "cultural",
+                  "coords": [
+                        23.725204,
+                        37.984805
+                  ]
+            },
+            {
+                  "name": "Ιερό Έρωτα και Αφροδίτης",
+                  "text": "Un sit religios antic pe versantul nordic al Acropolei, dedicat lui Eros și Afroditei.",
+                  "category": "historical",
+                  "coords": [
+                        23.72702,
+                        37.972249
+                  ]
+            },
+            {
+                  "name": "Επιγραφικό μουσείο",
+                  "text": "Un muzeu din Atena care găzduiește o colecție semnificativă de inscripții grecești antice.",
+                  "category": "museum",
+                  "coords": [
+                        23.732331,
+                        37.988769
+                  ]
+            },
+            {
+                  "name": "Θέατρο Βρετάνια",
+                  "text": "O sală de teatru centrală din Atena, care găzduiește diverse spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        23.735617,
+                        37.97693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaic Temple of Dionysios",
+                  "text": "Ruins of an ancient temple dedicated to the god Dionysios in Athens.",
+                  "category": "historical",
+                  "coords": [
+                        23.727708,
+                        37.97007
+                  ]
+            },
+            {
+                  "name": "Dipylon",
+                  "text": "The main gate in the city wall of ancient Athens, located in the Kerameikos area.",
+                  "category": "historical",
+                  "coords": [
+                        23.718983,
+                        37.978536
+                  ]
+            },
+            {
+                  "name": "Plato's Academy Archaeological Site",
+                  "text": "The archaeological remains of the famous school founded by Plato in ancient Athens.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "The prestigious National Theatre of Greece, located in a historic building in Athens.",
+                  "category": "cultural",
+                  "coords": [
+                        23.725204,
+                        37.984805
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Eros and Aphrodite",
+                  "text": "An ancient religious site on the north slope of the Acropolis dedicated to Eros and Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        23.72702,
+                        37.972249
+                  ]
+            },
+            {
+                  "name": "Epigraphical Museum",
+                  "text": "A museum in Athens housing a significant collection of ancient Greek inscriptions.",
+                  "category": "museum",
+                  "coords": [
+                        23.732331,
+                        37.988769
+                  ]
+            },
+            {
+                  "name": "Theater Vretania",
+                  "text": "A central theatre venue in Athens hosting various stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.735617,
+                        37.97693
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "greece",
     coords: [23.7275, 37.9838],

@@ -1856,6 +1856,51 @@ export const poiExtraSanmarinoCities: POI[] = [
                         12.429577,
                         43.941831
                   ]
+            },
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Ein Museum in San Marino, das eine Sammlung moderner Waffen und Ausrüstung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Dieses Museum in San Marino beherbergt eine bedeutende Sammlung historischer Waffen.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum, das sich der Geschichte der Folterinstrumente aus verschiedenen Epochen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Museo Delle Cere",
+                  "text": "Ein Wachsfigurenkabinett, das Persönlichkeiten und Szenen aus der Geschichte San Marinos darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.448714,
+                        43.935203
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der dritte Turm von San Marino, der sich auf dem kleinsten Gipfel des Monte Titano befindet.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
             }
       ],
       "hu": [
@@ -1866,6 +1911,51 @@ export const poiExtraSanmarinoCities: POI[] = [
                   "coords": [
                         12.429577,
                         43.941831
+                  ]
+            },
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "San Marinó-i múzeum, amely modern fegyverek és felszerelések gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Ez a San Marinó-i múzeum jelentős történelmi fegyvergyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A különböző korszakokból származó kínzóeszközök történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Museo Delle Cere",
+                  "text": "Viaszszobrokat bemutató múzeum, amely San Marino történelmének alakjait és jeleneteit ábrázolja.",
+                  "category": "museum",
+                  "coords": [
+                        12.448714,
+                        43.935203
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "San Marino harmadik tornya, amely a Monte Titano legkisebb csúcsán található.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
                   ]
             }
       ],
@@ -1878,6 +1968,51 @@ export const poiExtraSanmarinoCities: POI[] = [
                         12.429577,
                         43.941831
                   ]
+            },
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Un muzeu din San Marino care prezintă o colecție de arme și echipamente moderne.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Acest muzeu din San Marino găzduiește o colecție importantă de arme istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu dedicat istoriei instrumentelor de tortură din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Museo Delle Cere",
+                  "text": "Un muzeu al figurilor de ceară care prezintă personalități și scene din istoria statului San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.448714,
+                        43.935203
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Al treilea turn al San Marino, situat pe cel mai mic vârf al muntelui Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
             }
       ],
       "en": [
@@ -1888,6 +2023,51 @@ export const poiExtraSanmarinoCities: POI[] = [
                   "coords": [
                         12.429577,
                         43.941831
+                  ]
+            },
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A museum in San Marino showcasing a collection of modern weapons and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "This museum in San Marino houses a significant collection of historical weapons.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum dedicated to the history of torture instruments from different eras.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Museo Delle Cere",
+                  "text": "A wax museum portraying personalities and scenes from the history of San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.448714,
+                        43.935203
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "The third tower of San Marino, located on the smallest peak of Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
                   ]
             }
       ]

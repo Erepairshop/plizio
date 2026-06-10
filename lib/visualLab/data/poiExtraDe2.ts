@@ -7202,7 +7202,304 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Kaiserpfalz, 1040-1050 yılları arasında III. Heinrich döneminde inşa edilmiştir.", "Rammelsberg maden ocağı 1.000 yılı aşkın bir süre faaliyet göstermiştir.", "1992 yılından beri UNESCO Dünya Mirası statüsündedir.", "Eski şehir merkezinde yaklaşık 1.500 tarihi yarı ahşap ev bulunmaktadır.", "Şehrin nüfusu yaklaşık 50.000 civarındadır.", "Goslar, ortaçağda Hanse birliğinin bir üyesiydi."]}, image: "/poi-images/hist-goslar-extra.webp"},
   {
-    id: "river-ems-extra",
+    id: "river-ems-extra", "sights": {
+      "de": [
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 1",
+                  "text": "Eine prähistorische Megalithanlage aus der Jungsteinzeit im Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.484231,
+                        52.814742
+                  ]
+            },
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 2",
+                  "text": "Ein weiteres bedeutendes Großsteingrab der Trichterbecherkultur bei den Düvelskuhlen.",
+                  "category": "historical",
+                  "coords": [
+                        7.482144,
+                        52.812562
+                  ]
+            },
+            {
+                  "name": "Wahrsteene",
+                  "text": "Ein neolithisches Ganggrab, das Teil der Straße der Megalithkultur ist.",
+                  "category": "historical",
+                  "coords": [
+                        7.459789,
+                        52.797944
+                  ]
+            },
+            {
+                  "name": "Königsgrab von Groß Berßen",
+                  "text": "Eines der am besten erhaltenen und beeindruckendsten Großsteingräber Nordwestdeutschlands.",
+                  "category": "historical",
+                  "coords": [
+                        7.516486,
+                        52.78201
+                  ]
+            },
+            {
+                  "name": "Volbers Hünensteine (Hüven Nord)",
+                  "text": "Eine historische Megalithanlage im nördlichen Bereich von Hüven im Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.554969,
+                        52.789388
+                  ]
+            },
+            {
+                  "name": "Großsteingrab Püttkesberge",
+                  "text": "Ein prähistorisches Megalithgrab der Trichterbecherkultur in der Nähe von Sögel.",
+                  "category": "historical",
+                  "coords": [
+                        7.510542,
+                        52.830225
+                  ]
+            },
+            {
+                  "name": "Deepmoorsteene",
+                  "text": "Ein prähistorisches Megalithgrab, das zur archäologischen Landschaft des Emslandes gehört.",
+                  "category": "historical",
+                  "coords": [
+                        7.510574,
+                        52.765925
+                  ]
+            },
+            {
+                  "name": "Hügelgräberheide am Wiesengrund",
+                  "text": "Ein Naturschutzgebiet im Emsland, das für Heideflächen und bronzezeitliche Hügelgräber bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.499282,
+                        52.791706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 1",
+                  "text": "Egy újkőkorszaki, történelem előtti megalitikus sírhely az Emsland régióban.",
+                  "category": "historical",
+                  "coords": [
+                        7.484231,
+                        52.814742
+                  ]
+            },
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 2",
+                  "text": "Egy másik jelentős megalitikus sírhely a tölcséres amforák kultúrájából a Düvelskuhlen mellett.",
+                  "category": "historical",
+                  "coords": [
+                        7.482144,
+                        52.812562
+                  ]
+            },
+            {
+                  "name": "Wahrsteene",
+                  "text": "Egy neolitikus folyosósír, amely a Megalitikus Kultúra Útjának része.",
+                  "category": "historical",
+                  "coords": [
+                        7.459789,
+                        52.797944
+                  ]
+            },
+            {
+                  "name": "Königsgrab von Groß Berßen",
+                  "text": "Északnyugat-Németország egyik legjobb állapotban fennmaradt és leglátványosabb megalitikus sírja.",
+                  "category": "historical",
+                  "coords": [
+                        7.516486,
+                        52.78201
+                  ]
+            },
+            {
+                  "name": "Volbers Hünensteine (Hüven Nord)",
+                  "text": "Egy történelmi megalitikus építmény az Emsland-i Hüven északi részén.",
+                  "category": "historical",
+                  "coords": [
+                        7.554969,
+                        52.789388
+                  ]
+            },
+            {
+                  "name": "Großsteingrab Püttkesberge",
+                  "text": "Egy történelem előtti megalitikus sírhely a tölcséres amforák kultúrájából Sögel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.510542,
+                        52.830225
+                  ]
+            },
+            {
+                  "name": "Deepmoorsteene",
+                  "text": "Egy történelem előtti megalitikus sír, amely az Emsland-i régészeti táj része.",
+                  "category": "historical",
+                  "coords": [
+                        7.510574,
+                        52.765925
+                  ]
+            },
+            {
+                  "name": "Hügelgräberheide am Wiesengrund",
+                  "text": "Természetvédelmi terület az Emsland régióban, amely fenyérjeiről és bronzkori halomsírjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.499282,
+                        52.791706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 1",
+                  "text": "Un sit megalitic preistoric din epoca neolitică, situat în regiunea Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.484231,
+                        52.814742
+                  ]
+            },
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 2",
+                  "text": "Un alt mormânt megalitic important aparținând culturii vaselor cu pâlnie de la Düvelskuhlen.",
+                  "category": "historical",
+                  "coords": [
+                        7.482144,
+                        52.812562
+                  ]
+            },
+            {
+                  "name": "Wahrsteene",
+                  "text": "Un mormânt neolitic de tip pasaj, parte a Traseului Culturii Megalitice.",
+                  "category": "historical",
+                  "coords": [
+                        7.459789,
+                        52.797944
+                  ]
+            },
+            {
+                  "name": "Königsgrab von Groß Berßen",
+                  "text": "Unul dintre cele mai bine conservate și impresionante morminte megalitice din nord-vestul Germaniei.",
+                  "category": "historical",
+                  "coords": [
+                        7.516486,
+                        52.78201
+                  ]
+            },
+            {
+                  "name": "Volbers Hünensteine (Hüven Nord)",
+                  "text": "Un monument megalitic istoric situat în partea de nord a localității Hüven din Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.554969,
+                        52.789388
+                  ]
+            },
+            {
+                  "name": "Großsteingrab Püttkesberge",
+                  "text": "Un mormânt megalitic preistoric aparținând culturii vaselor cu pâlnie, situat lângă Sögel.",
+                  "category": "historical",
+                  "coords": [
+                        7.510542,
+                        52.830225
+                  ]
+            },
+            {
+                  "name": "Deepmoorsteene",
+                  "text": "Un mormânt megalitic preistoric ce face parte din peisajul arheologic al regiunii Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.510574,
+                        52.765925
+                  ]
+            },
+            {
+                  "name": "Hügelgräberheide am Wiesengrund",
+                  "text": "O rezervație naturală din Emsland, cunoscută pentru câmpiile de mărăciniș și tumulii din epoca bronzului.",
+                  "category": "natural",
+                  "coords": [
+                        7.499282,
+                        52.791706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 1",
+                  "text": "A prehistoric megalithic tomb from the Neolithic era, located in the Emsland region.",
+                  "category": "historical",
+                  "coords": [
+                        7.484231,
+                        52.814742
+                  ]
+            },
+            {
+                  "name": "Großsteingrab bei den Düvelskuhlen 2",
+                  "text": "Another significant megalithic tomb of the Funnelbeaker culture at Düvelskuhlen.",
+                  "category": "historical",
+                  "coords": [
+                        7.482144,
+                        52.812562
+                  ]
+            },
+            {
+                  "name": "Wahrsteene",
+                  "text": "A Neolithic passage grave that is part of the Route of Megalithic Culture.",
+                  "category": "historical",
+                  "coords": [
+                        7.459789,
+                        52.797944
+                  ]
+            },
+            {
+                  "name": "Königsgrab von Groß Berßen",
+                  "text": "One of the best-preserved and most impressive megalithic tombs in northwestern Germany.",
+                  "category": "historical",
+                  "coords": [
+                        7.516486,
+                        52.78201
+                  ]
+            },
+            {
+                  "name": "Volbers Hünensteine (Hüven Nord)",
+                  "text": "A historic megalithic monument located in the northern part of Hüven in Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.554969,
+                        52.789388
+                  ]
+            },
+            {
+                  "name": "Großsteingrab Püttkesberge",
+                  "text": "A prehistoric megalithic tomb of the Funnelbeaker culture located near Sögel.",
+                  "category": "historical",
+                  "coords": [
+                        7.510542,
+                        52.830225
+                  ]
+            },
+            {
+                  "name": "Deepmoorsteene",
+                  "text": "A prehistoric megalithic grave belonging to the archaeological landscape of Emsland.",
+                  "category": "historical",
+                  "coords": [
+                        7.510574,
+                        52.765925
+                  ]
+            },
+            {
+                  "name": "Hügelgräberheide am Wiesengrund",
+                  "text": "A nature reserve in Emsland known for its heathlands and Bronze Age burial mounds.",
+                  "category": "natural",
+                  "coords": [
+                        7.499282,
+                        52.791706
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-NI",
     coords: [7.5000, 52.8000],
@@ -10127,7 +10424,304 @@ export const poiExtraDe2: POI[] = [
 }
   },
   {
-    id: "mnt-erzgebirge-extra",
+    id: "mnt-erzgebirge-extra", "sights": {
+      "de": [
+            {
+                  "name": "Suppenmuseum",
+                  "text": "Ein spezialisiertes Museum in Neudorf, das der Geschichte der Suppenkultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.973661,
+                        50.480078
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Ein Aquarium in Oberwiesenthal, das eine Vielzahl von Meeresbewohnern im Erzgebirge zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg",
+                  "text": "Mit 1215 Metern der höchste Berg Sachsens im deutschen Teil des Erzgebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        12.954728,
+                        50.429136
+                  ]
+            },
+            {
+                  "name": "Kalkwerk Schmiedeberg",
+                  "text": "Eine historische Kalkbrennerei-Ruine im böhmischen Teil des Erzgebirges.",
+                  "category": "historical",
+                  "coords": [
+                        13.024689,
+                        50.425318
+                  ]
+            },
+            {
+                  "name": "Eisenberg",
+                  "text": "Ein bewaldeter Gipfel im Erzgebirge, der Möglichkeiten zum Wandern bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.971372,
+                        50.44195
+                  ]
+            },
+            {
+                  "name": "Kreuzbrückfelsen",
+                  "text": "Eine Felsformation und ein Aussichtspunkt im Erzgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983826,
+                        50.442035
+                  ]
+            },
+            {
+                  "name": "Feuerturm",
+                  "text": "Ein Berggipfel im Erzgebirge, der als Wanderziel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.999635,
+                        50.481955
+                  ]
+            },
+            {
+                  "name": "Gifthüttenberg",
+                  "text": "Eine Erhebung im Erzgebirge, umgeben von natürlicher Mittelgebirgslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        12.950951,
+                        50.444855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suppenmuseum",
+                  "text": "Egy különleges múzeum az Érchegységben, amely a leveskultúra történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.973661,
+                        50.480078
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Egy akvárium az Érchegységben, amely számos tengeri élőlényt mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg",
+                  "text": "Szászország legmagasabb hegycsúcsa az Érchegységben, magassága 1215 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        12.954728,
+                        50.429136
+                  ]
+            },
+            {
+                  "name": "Vápenka",
+                  "text": "Egy történelmi mészégető romja az Érchegység csehországi részén.",
+                  "category": "historical",
+                  "coords": [
+                        13.024689,
+                        50.425318
+                  ]
+            },
+            {
+                  "name": "Eisenberg",
+                  "text": "Egy erdős hegycsúcs az Érchegységben, amely túrázási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        12.971372,
+                        50.44195
+                  ]
+            },
+            {
+                  "name": "Kreuzbrückfelsen",
+                  "text": "Egy sziklaformáció és kilátóhely az Érchegység területén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983826,
+                        50.442035
+                  ]
+            },
+            {
+                  "name": "Feuerturm",
+                  "text": "Egy hegycsúcs az Érchegységben, amely népszerű túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        12.999635,
+                        50.481955
+                  ]
+            },
+            {
+                  "name": "Gifthüttenberg",
+                  "text": "Egy magaslat az Érchegységben, amelyet középhegységi táj vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        12.950951,
+                        50.444855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suppenmuseum",
+                  "text": "Un muzeu specializat din Munții Metaliferi, dedicat istoriei culturii supelor.",
+                  "category": "museum",
+                  "coords": [
+                        12.973661,
+                        50.480078
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Un acvariu din Munții Metaliferi care prezintă o varietate de creaturi marine.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg",
+                  "text": "Cel mai înalt vârf din Saxonia, situat în Munții Metaliferi la o altitudine de 1215 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        12.954728,
+                        50.429136
+                  ]
+            },
+            {
+                  "name": "Vápenka",
+                  "text": "Ruinele unui cuptor istoric de var situat în partea cehă a Munților Metaliferi.",
+                  "category": "historical",
+                  "coords": [
+                        13.024689,
+                        50.425318
+                  ]
+            },
+            {
+                  "name": "Eisenberg",
+                  "text": "Un vârf muntos împădurit în Munții Metaliferi, oferind oportunități de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        12.971372,
+                        50.44195
+                  ]
+            },
+            {
+                  "name": "Kreuzbrückfelsen",
+                  "text": "O formațiune stâncoasă și un punct de belvedere în Munții Metaliferi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983826,
+                        50.442035
+                  ]
+            },
+            {
+                  "name": "Feuerturm",
+                  "text": "Un vârf muntos în Munții Metaliferi, cunoscut ca destinație pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        12.999635,
+                        50.481955
+                  ]
+            },
+            {
+                  "name": "Gifthüttenberg",
+                  "text": "O colină în Munții Metaliferi, înconjurată de un peisaj natural montan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.950951,
+                        50.444855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suppenmuseum",
+                  "text": "A specialized museum in the Ore Mountains dedicated to the history of soup culture.",
+                  "category": "museum",
+                  "coords": [
+                        12.973661,
+                        50.480078
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "An aquarium in the Ore Mountains showcasing a variety of marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg",
+                  "text": "The highest mountain in Saxony, located in the Ore Mountains at an elevation of 1,215 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        12.954728,
+                        50.429136
+                  ]
+            },
+            {
+                  "name": "Vápenka",
+                  "text": "The ruins of a historic lime kiln located in the Czech part of the Ore Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        13.024689,
+                        50.425318
+                  ]
+            },
+            {
+                  "name": "Eisenberg",
+                  "text": "A forested peak in the Ore Mountains offering hiking opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        12.971372,
+                        50.44195
+                  ]
+            },
+            {
+                  "name": "Kreuzbrückfelsen",
+                  "text": "A rock formation and viewpoint located in the Ore Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983826,
+                        50.442035
+                  ]
+            },
+            {
+                  "name": "Feuerturm",
+                  "text": "A mountain peak in the Ore Mountains known as a hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        12.999635,
+                        50.481955
+                  ]
+            },
+            {
+                  "name": "Gifthüttenberg",
+                  "text": "An elevation in the Ore Mountains surrounded by a natural mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.950951,
+                        50.444855
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-SN",
     coords: [13.0000, 50.4500],
@@ -13971,7 +14565,304 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Şehir kapısının inşası M.S. 170 civarında gerçekleşmiştir", "Yapının yüksekliği tam olarak 29,8 metredir", "İnşaat için yaklaşık 7.200 taş blok kullanılmıştır", "Demir kancalar başlangıçta taşları bir arada tutuyordu", "UNESCO Dünya Mirası statüsü 1986 yılında verilmiştir", "11. yüzyıldan 18. yüzyıla kadar Hristiyan kilisesi olarak kullanılmıştır"]}, image: "/poi-images/hist-trier-porta-nigra-extra.webp"},
   {
-    id: "mnt-pfaelzerwald-extra",
+    id: "mnt-pfaelzerwald-extra", "sights": {
+      "de": [
+            {
+                  "name": "Trippstadter Schloss",
+                  "text": "Das Trippstadter Schloss ist ein bedeutendes Barockschloss im Pfälzerwald.",
+                  "category": "castle",
+                  "coords": [
+                        7.767878,
+                        49.353995
+                  ]
+            },
+            {
+                  "name": "Karlstalschlucht",
+                  "text": "Die Karlstalschlucht ist ein malerisches Felsental im Pfälzerwald.",
+                  "category": "natural",
+                  "coords": [
+                        7.756946,
+                        49.350109
+                  ]
+            },
+            {
+                  "name": "Burg Wilenstein",
+                  "text": "Die Burg Wilenstein ist eine mittelalterliche Felsenburg über der Karlstalschlucht.",
+                  "category": "castle",
+                  "coords": [
+                        7.753234,
+                        49.354076
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein lokales Museum im Pfälzerwald, das die regionale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.707609,
+                        49.313774
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Trippstadt",
+                  "text": "Ein beheiztes Freibad in Trippstadt, das Freizeit- und Bademöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.766478,
+                        49.358018
+                  ]
+            },
+            {
+                  "name": "Bergbad Heltersberg",
+                  "text": "Ein Freibad in Heltersberg mit Blick auf die umliegenden Berge des Pfälzerwaldes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.702698,
+                        49.317516
+                  ]
+            },
+            {
+                  "name": "Eisenhüttenmuseum",
+                  "text": "Dieses Museum im Pfälzerwald widmet sich der Geschichte der regionalen Eisenverarbeitung.",
+                  "category": "museum",
+                  "coords": [
+                        7.769524,
+                        49.354761
+                  ]
+            },
+            {
+                  "name": "Ritterstein 106 \"Hochgericht 1767\"",
+                  "text": "Ein historischer Gedenkstein im Pfälzerwald, der Teil der lokalen Ritterstein-Reihe ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.763497,
+                        49.366538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trippstadter Schloss",
+                  "text": "A Trippstadter Schloss egy jelentős barokk kastély a Pfalzi-erdőben.",
+                  "category": "castle",
+                  "coords": [
+                        7.767878,
+                        49.353995
+                  ]
+            },
+            {
+                  "name": "Karlstalschlucht",
+                  "text": "A Karlstalschlucht egy festői sziklás völgy a Pfalzi-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        7.756946,
+                        49.350109
+                  ]
+            },
+            {
+                  "name": "Burg Wilenstein",
+                  "text": "Burg Wilenstein egy középkori sziklavár a Karlstalschlucht felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.753234,
+                        49.354076
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Egy helytörténeti múzeum a Pfalzi-erdőben, amely a régió kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.707609,
+                        49.313774
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Trippstadt",
+                  "text": "Egy fűtött szabadtéri strand Trippstadtban, amely kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.766478,
+                        49.358018
+                  ]
+            },
+            {
+                  "name": "Bergbad Heltersberg",
+                  "text": "Egy Heltersbergben található strand, kilátással a Pfalzi-erdő környező hegyeire.",
+                  "category": "recreational",
+                  "coords": [
+                        7.702698,
+                        49.317516
+                  ]
+            },
+            {
+                  "name": "Eisenhüttenmuseum",
+                  "text": "Ez a Pfalzi-erdőben található múzeum a regionális vasfeldolgozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.769524,
+                        49.354761
+                  ]
+            },
+            {
+                  "name": "Ritterstein 106 \"Hochgericht 1767\"",
+                  "text": "Egy történelmi emlékkő a Pfalzi-erdőben, amely a helyi lovagkövek sorozatának része.",
+                  "category": "landmark",
+                  "coords": [
+                        7.763497,
+                        49.366538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trippstadter Schloss",
+                  "text": "Castelul Trippstadt este un castel baroc important situat în Pădurea Palatinatului.",
+                  "category": "castle",
+                  "coords": [
+                        7.767878,
+                        49.353995
+                  ]
+            },
+            {
+                  "name": "Karlstalschlucht",
+                  "text": "Karlstalschlucht este o vale stâncoasă pitorească situată în Pădurea Palatinatului.",
+                  "category": "natural",
+                  "coords": [
+                        7.756946,
+                        49.350109
+                  ]
+            },
+            {
+                  "name": "Burg Wilenstein",
+                  "text": "Burg Wilenstein este un castel medieval construit pe stâncă deasupra văii Karlstalschlucht.",
+                  "category": "castle",
+                  "coords": [
+                        7.753234,
+                        49.354076
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu local din Pădurea Palatinatului, care prezintă istoria și cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        7.707609,
+                        49.313774
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Trippstadt",
+                  "text": "Un ștrand exterior încălzit în Trippstadt, oferind facilități de agrement și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        7.766478,
+                        49.358018
+                  ]
+            },
+            {
+                  "name": "Bergbad Heltersberg",
+                  "text": "Un ștrand în Heltersberg, oferind vedere spre munții din jur ai Pădurii Palatinatului.",
+                  "category": "recreational",
+                  "coords": [
+                        7.702698,
+                        49.317516
+                  ]
+            },
+            {
+                  "name": "Eisenhüttenmuseum",
+                  "text": "Acest muzeu din Pădurea Palatinatului este dedicat istoriei prelucrării fierului în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        7.769524,
+                        49.354761
+                  ]
+            },
+            {
+                  "name": "Ritterstein 106 \"Hochgericht 1767\"",
+                  "text": "O piatră memorială istorică din Pădurea Palatinatului, făcând parte din seria locală Ritterstein.",
+                  "category": "landmark",
+                  "coords": [
+                        7.763497,
+                        49.366538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trippstadter Schloss",
+                  "text": "Trippstadter Schloss is a significant Baroque castle located in the Palatinate Forest.",
+                  "category": "castle",
+                  "coords": [
+                        7.767878,
+                        49.353995
+                  ]
+            },
+            {
+                  "name": "Karlstalschlucht",
+                  "text": "Karlstalschlucht is a picturesque rocky valley located in the Palatinate Forest.",
+                  "category": "natural",
+                  "coords": [
+                        7.756946,
+                        49.350109
+                  ]
+            },
+            {
+                  "name": "Burg Wilenstein",
+                  "text": "Burg Wilenstein is a medieval rock castle overlooking the Karlstalschlucht.",
+                  "category": "castle",
+                  "coords": [
+                        7.753234,
+                        49.354076
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A local history museum in the Palatinate Forest showcasing regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        7.707609,
+                        49.313774
+                  ]
+            },
+            {
+                  "name": "Warmfreibad Trippstadt",
+                  "text": "A heated outdoor swimming pool in Trippstadt providing leisure and swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.766478,
+                        49.358018
+                  ]
+            },
+            {
+                  "name": "Bergbad Heltersberg",
+                  "text": "An outdoor pool in Heltersberg with views of the surrounding Palatinate Forest mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        7.702698,
+                        49.317516
+                  ]
+            },
+            {
+                  "name": "Eisenhüttenmuseum",
+                  "text": "This museum in the Palatinate Forest is dedicated to the history of regional ironworking.",
+                  "category": "museum",
+                  "coords": [
+                        7.769524,
+                        49.354761
+                  ]
+            },
+            {
+                  "name": "Ritterstein 106 \"Hochgericht 1767\"",
+                  "text": "A historical marker in the Palatinate Forest, part of the local \"Ritterstein\" series.",
+                  "category": "landmark",
+                  "coords": [
+                        7.763497,
+                        49.366538
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-RP",
     coords: [7.7500, 49.3333],
@@ -14109,7 +15000,304 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Alman Şövalye Tarikatı'nın yerleşimi 1216 yılındadır", "İlk imparatorluk anıtının açılışı 1897 yılındadır", "Anıtın toplam yüksekliği 37 metredir", "Atlı heykel 1993 yılında yeniden yerleştirilmiştir", "2002'den beri UNESCO Dünya Mirası alanı içindedir", "Anıtı her yıl yaklaşık 2 milyon kişi ziyaret etmektedir"]}, image: "/poi-images/landmark-deutsches-eck-extra.webp"},
   {
-    id: "mnt-eifel-rp-extra",
+    id: "mnt-eifel-rp-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Dreimühlen",
+                  "text": "Die Überreste einer mittelalterlichen Burgruine in der malerischen Eifel.",
+                  "category": "castle",
+                  "coords": [
+                        6.769439,
+                        50.326255
+                  ]
+            },
+            {
+                  "name": "Ahbachtal",
+                  "text": "Ein Naturschutzgebiet in der Eifel, das durch das Tal des Ahbachs geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.76649,
+                        50.323778
+                  ]
+            },
+            {
+                  "name": "Michelsbach, Ahbach und Aulbach mit Nebenbächen",
+                  "text": "Ein geschütztes Naturgebiet in der Eifel, das mehrere Bachläufe und deren Uferzonen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        6.750244,
+                        50.371891
+                  ]
+            },
+            {
+                  "name": "Museumsbahnhof Ahütte",
+                  "text": "Ein ehemaliger Bahnhof in der Eifel, der heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        6.771489,
+                        50.339218
+                  ]
+            },
+            {
+                  "name": "Schanze/Wallanlage?",
+                  "text": "Eine archäologische Stätte in der Eifel, die Überreste historischer Wallanlagen vermuten lässt.",
+                  "category": "historical",
+                  "coords": [
+                        6.721567,
+                        50.352741
+                  ]
+            },
+            {
+                  "name": "Wasserfall Dreimühlen",
+                  "text": "Ein bekannter wachsender Wasserfall in der Eifel, der durch Kalksinterablagerungen entstanden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.769016,
+                        50.324823
+                  ]
+            },
+            {
+                  "name": "Höhenberg",
+                  "text": "Ein Berggipfel in der rheinland-pfälzischen Eifel mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        6.735355,
+                        50.317299
+                  ]
+            },
+            {
+                  "name": "11-Dörfer-Blick",
+                  "text": "Ein Aussichtspunkt in der Eifel, der einen weiten Blick über elf umliegende Dörfer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.736503,
+                        50.339239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Dreimühlen",
+                  "text": "Egy középkori várrom maradványai a festői Eifel-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        6.769439,
+                        50.326255
+                  ]
+            },
+            {
+                  "name": "Ahbachtal",
+                  "text": "Természetvédelmi terület az Eifelben, amelyet az Ahbach-patak völgye határoz meg.",
+                  "category": "natural",
+                  "coords": [
+                        6.76649,
+                        50.323778
+                  ]
+            },
+            {
+                  "name": "Michelsbach, Ahbach und Aulbach mit Nebenbächen",
+                  "text": "Védett természeti terület az Eifelben, amely több patakot és azok menti zónáit foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        6.750244,
+                        50.371891
+                  ]
+            },
+            {
+                  "name": "Museumsbahnhof Ahütte",
+                  "text": "Egy egykori vasútállomás az Eifelben, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        6.771489,
+                        50.339218
+                  ]
+            },
+            {
+                  "name": "Schanze/Wallanlage?",
+                  "text": "Régészeti lelőhely az Eifelben, amely történelmi sáncrendszerek maradványait őrizheti.",
+                  "category": "historical",
+                  "coords": [
+                        6.721567,
+                        50.352741
+                  ]
+            },
+            {
+                  "name": "Wasserfall Dreimühlen",
+                  "text": "Ismert, növekvő vízesés az Eifelben, amely mészmárga lerakódások révén jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.769016,
+                        50.324823
+                  ]
+            },
+            {
+                  "name": "Höhenberg",
+                  "text": "Hegycsúcs a rajna-vidék-pfalzi Eifelben, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.735355,
+                        50.317299
+                  ]
+            },
+            {
+                  "name": "11-Dörfer-Blick",
+                  "text": "Kilátópont az Eifelben, ahonnan rálátás nyílik tizenegy környező falura.",
+                  "category": "natural",
+                  "coords": [
+                        6.736503,
+                        50.339239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Dreimühlen",
+                  "text": "Rămășițele unei ruine de castel medieval în pitoreasca regiune Eifel.",
+                  "category": "castle",
+                  "coords": [
+                        6.769439,
+                        50.326255
+                  ]
+            },
+            {
+                  "name": "Ahbachtal",
+                  "text": "O rezervație naturală în Eifel, caracterizată de valea pârâului Ahbach.",
+                  "category": "natural",
+                  "coords": [
+                        6.76649,
+                        50.323778
+                  ]
+            },
+            {
+                  "name": "Michelsbach, Ahbach und Aulbach mit Nebenbächen",
+                  "text": "O zonă naturală protejată în Eifel, care cuprinde mai multe cursuri de apă și zonele lor adiacente.",
+                  "category": "natural",
+                  "coords": [
+                        6.750244,
+                        50.371891
+                  ]
+            },
+            {
+                  "name": "Museumsbahnhof Ahütte",
+                  "text": "O fostă gară din Eifel, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        6.771489,
+                        50.339218
+                  ]
+            },
+            {
+                  "name": "Schanze/Wallanlage?",
+                  "text": "Un sit arheologic în Eifel, unde se află vestigiile unor fortificații istorice de tip val.",
+                  "category": "historical",
+                  "coords": [
+                        6.721567,
+                        50.352741
+                  ]
+            },
+            {
+                  "name": "Wasserfall Dreimühlen",
+                  "text": "O cascadă cunoscută în Eifel, formată prin depuneri de tuf calcaros.",
+                  "category": "landmark",
+                  "coords": [
+                        6.769016,
+                        50.324823
+                  ]
+            },
+            {
+                  "name": "Höhenberg",
+                  "text": "Un vârf muntos în regiunea Eifel din Renania-Palatinat, oferind panorame asupra peisajului din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.735355,
+                        50.317299
+                  ]
+            },
+            {
+                  "name": "11-Dörfer-Blick",
+                  "text": "Un punct de belvedere în Eifel care oferă o vedere amplă asupra a unsprezece sate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        6.736503,
+                        50.339239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Dreimühlen",
+                  "text": "The remains of a medieval castle ruin in the scenic Eifel region.",
+                  "category": "castle",
+                  "coords": [
+                        6.769439,
+                        50.326255
+                  ]
+            },
+            {
+                  "name": "Ahbachtal",
+                  "text": "A nature reserve in the Eifel region, centered around the Ahbach valley.",
+                  "category": "natural",
+                  "coords": [
+                        6.76649,
+                        50.323778
+                  ]
+            },
+            {
+                  "name": "Michelsbach, Ahbach und Aulbach mit Nebenbächen",
+                  "text": "A protected natural area in the Eifel encompassing several streams and their riparian zones.",
+                  "category": "natural",
+                  "coords": [
+                        6.750244,
+                        50.371891
+                  ]
+            },
+            {
+                  "name": "Museumsbahnhof Ahütte",
+                  "text": "A former railway station in the Eifel that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        6.771489,
+                        50.339218
+                  ]
+            },
+            {
+                  "name": "Schanze/Wallanlage?",
+                  "text": "An archaeological site in the Eifel suggesting the remains of historical ramparts.",
+                  "category": "historical",
+                  "coords": [
+                        6.721567,
+                        50.352741
+                  ]
+            },
+            {
+                  "name": "Wasserfall Dreimühlen",
+                  "text": "A well-known growing waterfall in the Eifel, formed by limestone sinter deposits.",
+                  "category": "landmark",
+                  "coords": [
+                        6.769016,
+                        50.324823
+                  ]
+            },
+            {
+                  "name": "Höhenberg",
+                  "text": "A mountain peak in the Rhineland-Palatinate Eifel offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        6.735355,
+                        50.317299
+                  ]
+            },
+            {
+                  "name": "11-Dörfer-Blick",
+                  "text": "A viewpoint in the Eifel providing a broad view of eleven surrounding villages.",
+                  "category": "natural",
+                  "coords": [
+                        6.736503,
+                        50.339239
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-RP",
     coords: [6.7500, 50.3500],
@@ -14247,7 +15435,268 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Katedralin toplam uzunluğu 134 metredir.", "Ana nef 33 metre yüksekliğindedir.", "İmparatorluk kriptasında 8 imparator ve kral ile 4 kraliçe yatmaktadır.", "Katedral 1981'de UNESCO Dünya Mirası Listesi'ne giren ikinci Alman anıtı olmuştur.", "Katedralin kriptası, Avrupa'nın korunmuş en büyük Romanesk salon kriptasıdır.", "Ana portalın önündeki 'Domnapf' yaklaşık 1.580 litre kapasiteye sahiptir ve eskiden piskopos değişikliklerinde şarapla doldurulurdu."]}, image: "/poi-images/hist-speyer-dom-extra.webp"},
   {
-    id: "landmark-loreley-rp-extra",
+    id: "landmark-loreley-rp-extra", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Die Ruine einer mittelalterlichen Burganlage im UNESCO-Welterbe Oberes Mittelrheintal bei der Loreley.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Diese markante Burg aus dem 14. Jahrhundert thront hoch über St. Goarshausen am Rhein.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Die Überreste einer ehemaligen Befestigung in der Nähe des Loreley-Felsens am Mittelrhein.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Die imposante Ruine einer der größten Festungsanlagen am Mittelrhein, gelegen über der Stadt St. Goar.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Ein geschütztes Naturgebiet am Rhein, das sich durch seine wertvollen Steilhänge und Flora auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Eine spätgotische Burgruine mit außergewöhnlicher Architektur, die im Hinterland der Loreley liegt.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Eine mehrgliedrige Burganlage über Oberwesel, die heute als Hotel und für ihre Aussicht bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Egy középkori várrom az UNESCO világörökség részét képező Felső-Közép-Rajna-völgyben, a Loreley közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Ez a jellegzetes 14. századi vár magasan Szent Goarshausen felett, a Rajna mentén emelkedik.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Egy egykori erődítmény maradványai a Loreley-szikla közelében, a Közép-Rajna mentén.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "A Közép-Rajna egyik legnagyobb erődítményének impozáns romja, St. Goar városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Védett természeti terület a Rajna mentén, amely értékes meredek lejtőiről és flórájáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Különleges építészetű késő gótikus várrom, amely a Loreley hátországában található.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Több részből álló várkomplexum Oberwesel felett, amely ma szállodaként és kilátásáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruina unui castel medieval din Valea Rinului Mijlociu Superior, inclusă în patrimoniul UNESCO, lângă Loreley.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Acest castel distinctiv din secolul al XIV-lea tronează deasupra orașului St. Goarshausen de pe Rin.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Rămășițele unei foste fortificații în apropierea stâncii Loreley de pe Rinul Mijlociu.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Ruina impunătoare a uneia dintre cele mai mari fortificații de pe Rinul Mijlociu, situată deasupra orașului St. Goar.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "O zonă naturală protejată pe malul Rinului, remarcabilă prin versanții săi abrupți și floră.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "O ruină de castel în stil gotic târziu, cu o arhitectură neobișnuită, situată în hinterlandul Loreley.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Un complex de castel format din mai multe părți deasupra orașului Oberwesel, cunoscut astăzi ca hotel și pentru priveliștea sa.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "The ruins of a medieval castle in the UNESCO World Heritage Upper Middle Rhine Valley near the Loreley.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Katz Castle",
+                  "text": "This striking 14th-century castle towers high above St. Goarshausen on the Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "The remains of a former fortification near the Loreley rock on the Middle Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Rheinfels Castle",
+                  "text": "The imposing ruins of one of the largest fortifications on the Middle Rhine, situated above the town of St. Goar.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "A protected nature area on the Rhine, notable for its valuable steep slopes and flora.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "A late-Gothic castle ruin with exceptional architecture, located in the Loreley hinterland.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "A multi-part castle complex above Oberwesel, now known as a hotel and for its views.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-RP",
     coords: [7.7244, 50.1339],

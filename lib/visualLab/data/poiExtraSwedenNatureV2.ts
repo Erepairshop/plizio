@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const swedenNatureV2: POI[] = [
 
   {
-    id: "sweden-vanern-nature-v2",
+    id: "sweden-vanern-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djurö fyr",
+                  "text": "Ein historischer Leuchtturm auf der Insel Djurö im See Vänern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.472167,
+                        58.873333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djurö fyr",
+                  "text": "Történelmi világítótorony a Vänern-tavon található Djurö szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.472167,
+                        58.873333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djurö fyr",
+                  "text": "Un far istoric situat pe insula Djurö din lacul Vänern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.472167,
+                        58.873333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djurö fyr",
+                  "text": "A historic lighthouse located on the island of Djurö in Lake Vänern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.472167,
+                        58.873333
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Vänern", hu: "Vänern", ro: "Vänern", en: "Vänern"},
@@ -95,7 +140,160 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
     },
     image: "/poi-images/sweden-vattern-nature-v2.webp",
 },  {
-    id: "sweden-kebnekaise-nature-v2",
+    id: "sweden-kebnekaise-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "Der südliche Gipfel des Kebnekaise ist der höchste Punkt Schwedens.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "Der nördliche Gipfel des Kebnekaise-Massivs in Lappland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Tolpagorni",
+                  "text": "Ein markanter Berggipfel im Kebnekaise-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        18.514824,
+                        67.872953
+                  ]
+            },
+            {
+                  "name": "Vierranvárri",
+                  "text": "Ein Berggipfel in der schwedischen Provinz Lappland nahe dem Kebnekaise.",
+                  "category": "landmark",
+                  "coords": [
+                        18.498829,
+                        67.882412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "A Kebnekaise déli csúcsa Svédország legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "A lappföldi Kebnekaise-masszívum északi csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Tolpagorni",
+                  "text": "Egy jellegzetes hegycsúcs a Kebnekaise-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.514824,
+                        67.872953
+                  ]
+            },
+            {
+                  "name": "Vierranvárri",
+                  "text": "Hegycsúcs a svédországi Lappföldön, a Kebnekaise közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.498829,
+                        67.882412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "Vârful sudic al muntelui Kebnekaise este cel mai înalt punct din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "Vârful nordic al masivului Kebnekaise din Laponia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Tolpagorni",
+                  "text": "Un vârf montan distinctiv în masivul Kebnekaise.",
+                  "category": "landmark",
+                  "coords": [
+                        18.514824,
+                        67.872953
+                  ]
+            },
+            {
+                  "name": "Vierranvárri",
+                  "text": "Un vârf muntos în Laponia suedeză, lângă Kebnekaise.",
+                  "category": "landmark",
+                  "coords": [
+                        18.498829,
+                        67.882412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "The southern peak of Kebnekaise is the highest point in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "The northern peak of the Kebnekaise massif in Lapland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Tolpagorni",
+                  "text": "A distinctive mountain peak in the Kebnekaise massif.",
+                  "category": "landmark",
+                  "coords": [
+                        18.514824,
+                        67.872953
+                  ]
+            },
+            {
+                  "name": "Vierranvárri",
+                  "text": "A mountain peak in Swedish Lapland near Kebnekaise.",
+                  "category": "landmark",
+                  "coords": [
+                        18.498829,
+                        67.882412
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "peak",
     name: { de: "Kebnekaise", hu: "Kebnekaise", ro: "Kebnekaise", en: "Kebnekaise"},
@@ -141,7 +339,52 @@ imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky",
     },
     image: "/poi-images/sweden-kebnekaise-nature-v2.webp",
 },  {
-    id: "sweden-torne-river-nature-v2",
+    id: "sweden-torne-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lehtiroa naturreservat",
+                  "text": "Ein Naturschutzgebiet am Fluss Torne, das das lokale nordische Ökosystem schützt.",
+                  "category": "natural",
+                  "coords": [
+                        22.040263,
+                        67.094122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lehtiroa naturreservat",
+                  "text": "Természetvédelmi terület a Torne-folyó közelében, amely a helyi északi ökoszisztémát védi.",
+                  "category": "natural",
+                  "coords": [
+                        22.040263,
+                        67.094122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lehtiroa naturreservat",
+                  "text": "O rezervație naturală situată lângă râul Torne, care protejează ecosistemul local nordic.",
+                  "category": "natural",
+                  "coords": [
+                        22.040263,
+                        67.094122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lehtiroa naturreservat",
+                  "text": "A nature reserve located near the Torne River, protecting the local Nordic ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        22.040263,
+                        67.094122
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Torne älv", hu: "Torne-folyó", ro: "Râul Torne", en: "Torne River"},
@@ -187,7 +430,304 @@ imageHint: "Wide river flowing through snowy pine forests in Lapland",
     },
     image: "/poi-images/sweden-torne-river-nature-v2.webp",
 },  {
-    id: "sweden-oland-nature-v2",
+    id: "sweden-oland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karum",
+                  "text": "Ein Naturschutzgebiet auf Öland, das für sein weites Gräberfeld aus der Eisenzeit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.644044,
+                        56.782825
+                  ]
+            },
+            {
+                  "name": "Rönnerum - Abbantorp",
+                  "text": "Ein schwedisches Naturschutzgebiet auf Öland mit typischer lokaler Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.617582,
+                        56.753759
+                  ]
+            },
+            {
+                  "name": "Ismantorp",
+                  "text": "Ein Naturschutzgebiet auf Öland, das die Umgebung der historischen Ringburg Ismantorp schützt.",
+                  "category": "natural",
+                  "coords": [
+                        16.656757,
+                        56.753897
+                  ]
+            },
+            {
+                  "name": "Dyestad",
+                  "text": "Ein geschütztes Naturareal in der Gemeinde Öland, das zur Erhaltung der Artenvielfalt dient.",
+                  "category": "natural",
+                  "coords": [
+                        16.665663,
+                        56.718842
+                  ]
+            },
+            {
+                  "name": "Ismantorps borg",
+                  "text": "Eine beeindruckende Ruine einer Ringburg aus der Völkerwanderungszeit auf der Insel Öland.",
+                  "category": "historical",
+                  "coords": [
+                        16.642636,
+                        56.745446
+                  ]
+            },
+            {
+                  "name": "Noaks ark",
+                  "text": "Eine archäologische Stätte auf Öland, die aus einer markanten Schiffssetzung besteht.",
+                  "category": "historical",
+                  "coords": [
+                        16.624822,
+                        56.774685
+                  ]
+            },
+            {
+                  "name": "Ölands Museum Himmelsberga",
+                  "text": "Ein Freilichtmuseum auf Öland, das das traditionelle bäuerliche Leben der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.7115,
+                        56.739293
+                  ]
+            },
+            {
+                  "name": "Odens flisor",
+                  "text": "Zwei markante, aufrecht stehende Kalksteinplatten auf Öland, die als Odins Fliesen bekannt sind.",
+                  "category": "historical",
+                  "coords": [
+                        16.618489,
+                        56.76632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karum",
+                  "text": "Természetvédelmi terület Öland szigetén, amely vaskori sírmezőjéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        16.644044,
+                        56.782825
+                  ]
+            },
+            {
+                  "name": "Rönnerum - Abbantorp",
+                  "text": "Svéd természetvédelmi terület Ölandon, jellegzetes helyi növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        16.617582,
+                        56.753759
+                  ]
+            },
+            {
+                  "name": "Ismantorp",
+                  "text": "Természetvédelmi terület Ölandon, amely az Ismantorp körsáncvár környékét öleli fel.",
+                  "category": "natural",
+                  "coords": [
+                        16.656757,
+                        56.753897
+                  ]
+            },
+            {
+                  "name": "Dyestad",
+                  "text": "Védett természeti terület Ölandon, amely a biológiai sokféleség megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        16.665663,
+                        56.718842
+                  ]
+            },
+            {
+                  "name": "Ismantorps borg",
+                  "text": "Lenyűgöző népvándorlás kori körsáncvár romjai Öland szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        16.642636,
+                        56.745446
+                  ]
+            },
+            {
+                  "name": "Noaks ark",
+                  "text": "Régészeti lelőhely Ölandon, amely egy jellegzetes hajó alakú kőalkotásból áll.",
+                  "category": "historical",
+                  "coords": [
+                        16.624822,
+                        56.774685
+                  ]
+            },
+            {
+                  "name": "Ölands Museum Himmelsberga",
+                  "text": "Szabadtéri múzeum Ölandon, amely a régió hagyományos paraszti életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.7115,
+                        56.739293
+                  ]
+            },
+            {
+                  "name": "Odens flisor",
+                  "text": "Két jellegzetes, álló mészkőlap Ölandon, amelyeket Odin köveiként ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        16.618489,
+                        56.76632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karum",
+                  "text": "O rezervație naturală pe insula Öland, cunoscută pentru câmpul său funerar din epoca fierului.",
+                  "category": "natural",
+                  "coords": [
+                        16.644044,
+                        56.782825
+                  ]
+            },
+            {
+                  "name": "Rönnerum - Abbantorp",
+                  "text": "O rezervație naturală în Öland, Suedia, care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        16.617582,
+                        56.753759
+                  ]
+            },
+            {
+                  "name": "Ismantorp",
+                  "text": "Rezervație naturală pe insula Öland, care protejează zona din jurul cetății Ismantorp.",
+                  "category": "natural",
+                  "coords": [
+                        16.656757,
+                        56.753897
+                  ]
+            },
+            {
+                  "name": "Dyestad",
+                  "text": "O zonă naturală protejată pe insula Öland, dedicată conservării biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        16.665663,
+                        56.718842
+                  ]
+            },
+            {
+                  "name": "Ismantorps borg",
+                  "text": "Ruinele impresionante ale unei cetăți circulare din epoca migrațiilor pe insula Öland.",
+                  "category": "historical",
+                  "coords": [
+                        16.642636,
+                        56.745446
+                  ]
+            },
+            {
+                  "name": "Noaks ark",
+                  "text": "Un sit arheologic pe insula Öland, reprezentat de o așezare de pietre în formă de corabie.",
+                  "category": "historical",
+                  "coords": [
+                        16.624822,
+                        56.774685
+                  ]
+            },
+            {
+                  "name": "Ölands Museum Himmelsberga",
+                  "text": "Un muzeu în aer liber pe insula Öland, care ilustrează viața rurală tradițională din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.7115,
+                        56.739293
+                  ]
+            },
+            {
+                  "name": "Odens flisor",
+                  "text": "Două lespezi de calcar proeminente pe insula Öland, cunoscute sub numele de lespezile lui Odin.",
+                  "category": "historical",
+                  "coords": [
+                        16.618489,
+                        56.76632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karum",
+                  "text": "A nature reserve on Öland known for its extensive Iron Age burial field.",
+                  "category": "natural",
+                  "coords": [
+                        16.644044,
+                        56.782825
+                  ]
+            },
+            {
+                  "name": "Rönnerum - Abbantorp",
+                  "text": "A Swedish nature reserve on Öland featuring characteristic local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.617582,
+                        56.753759
+                  ]
+            },
+            {
+                  "name": "Ismantorp",
+                  "text": "A nature reserve on Öland surrounding the historic Ismantorp ringfort.",
+                  "category": "natural",
+                  "coords": [
+                        16.656757,
+                        56.753897
+                  ]
+            },
+            {
+                  "name": "Dyestad",
+                  "text": "A protected natural area on Öland dedicated to preserving local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        16.665663,
+                        56.718842
+                  ]
+            },
+            {
+                  "name": "Ismantorps borg",
+                  "text": "Impressive ruins of a ringfort dating from the Migration Period on Öland island.",
+                  "category": "historical",
+                  "coords": [
+                        16.642636,
+                        56.745446
+                  ]
+            },
+            {
+                  "name": "Noaks ark",
+                  "text": "An archaeological site on Öland consisting of a distinctive ship-shaped stone setting.",
+                  "category": "historical",
+                  "coords": [
+                        16.624822,
+                        56.774685
+                  ]
+            },
+            {
+                  "name": "Ölands Museum Himmelsberga",
+                  "text": "An open-air museum on Öland showcasing the region's traditional farming life.",
+                  "category": "museum",
+                  "coords": [
+                        16.7115,
+                        56.739293
+                  ]
+            },
+            {
+                  "name": "Odens flisor",
+                  "text": "Two prominent standing limestone slabs on Öland, known as Odin's Flakes.",
+                  "category": "historical",
+                  "coords": [
+                        16.618489,
+                        56.76632
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Öland", hu: "Öland", ro: "Öland", en: "Öland"},
@@ -233,7 +773,268 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
     },
     image: "/poi-images/sweden-oland-nature-v2.webp",
 },  {
-    id: "sweden-gotland-nature-v2",
+    id: "sweden-gotland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roma Kungsgård",
+                  "text": "Ein historisches Herrenhaus auf Gotland, das sich auf dem Gelände eines ehemaligen Klosters befindet.",
+                  "category": "museum",
+                  "coords": [
+                        18.458972,
+                        57.516066
+                  ]
+            },
+            {
+                  "name": "Klosteränge",
+                  "text": "Ein Naturschutzgebiet auf Gotland, das für seine artenreichen Wiesen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.489314,
+                        57.498077
+                  ]
+            },
+            {
+                  "name": "Roma klosterruin",
+                  "text": "Die Ruinen eines Zisterzienserklosters aus dem 12. Jahrhundert auf Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.460419,
+                        57.516171
+                  ]
+            },
+            {
+                  "name": "Nordens största gravklot",
+                  "text": "Ein großes prähistorisches Grabmal in Form einer Steinkugel auf Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.476237,
+                        57.496513
+                  ]
+            },
+            {
+                  "name": "Sjonhem 16:1",
+                  "text": "Eine archäologische Fundstätte in Sjonhem auf der Insel Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.497389,
+                        57.472434
+                  ]
+            },
+            {
+                  "name": "Sjonhem kyrka",
+                  "text": "Eine mittelalterliche Landkirche in Sjonhem auf Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.520754,
+                        57.485577
+                  ]
+            },
+            {
+                  "name": "Halla kyrka",
+                  "text": "Eine gut erhaltene mittelalterliche Kirche in Halla auf Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.497132,
+                        57.510896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roma Kungsgård",
+                  "text": "Történelmi udvarház Gotlandon, egy egykori kolostor területén.",
+                  "category": "museum",
+                  "coords": [
+                        18.458972,
+                        57.516066
+                  ]
+            },
+            {
+                  "name": "Klosteränge",
+                  "text": "Természetvédelmi terület Gotlandon, amely fajgazdag rétjeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.489314,
+                        57.498077
+                  ]
+            },
+            {
+                  "name": "Roma klosterruin",
+                  "text": "Egy 12. századi ciszterci kolostor romjai Gotland szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        18.460419,
+                        57.516171
+                  ]
+            },
+            {
+                  "name": "Nordens största gravklot",
+                  "text": "Hatalmas őskori síremlék kőgolyó formájában Gotland szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        18.476237,
+                        57.496513
+                  ]
+            },
+            {
+                  "name": "Sjonhem 16:1",
+                  "text": "Régészeti lelőhely Sjonhemben, Gotland szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        18.497389,
+                        57.472434
+                  ]
+            },
+            {
+                  "name": "Sjonhem kyrka",
+                  "text": "Középkori falusi templom a gotlandi Sjonhemben.",
+                  "category": "religious",
+                  "coords": [
+                        18.520754,
+                        57.485577
+                  ]
+            },
+            {
+                  "name": "Halla kyrka",
+                  "text": "Jól megőrzött középkori templom a gotlandi Hallában.",
+                  "category": "religious",
+                  "coords": [
+                        18.497132,
+                        57.510896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roma Kungsgård",
+                  "text": "Un conac istoric pe Gotland, situat pe locul unei foste mănăstiri.",
+                  "category": "museum",
+                  "coords": [
+                        18.458972,
+                        57.516066
+                  ]
+            },
+            {
+                  "name": "Klosteränge",
+                  "text": "O rezervație naturală pe Gotland, cunoscută pentru pajiștile sale bogate în specii.",
+                  "category": "natural",
+                  "coords": [
+                        18.489314,
+                        57.498077
+                  ]
+            },
+            {
+                  "name": "Roma klosterruin",
+                  "text": "Ruinele unei mănăstiri cisterciene din secolul al XII-lea de pe insula Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.460419,
+                        57.516171
+                  ]
+            },
+            {
+                  "name": "Nordens största gravklot",
+                  "text": "Un monument funerar preistoric mare în formă de sferă de piatră pe Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.476237,
+                        57.496513
+                  ]
+            },
+            {
+                  "name": "Sjonhem 16:1",
+                  "text": "Un sit arheologic în Sjonhem pe insula Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.497389,
+                        57.472434
+                  ]
+            },
+            {
+                  "name": "Sjonhem kyrka",
+                  "text": "O biserică medievală de țară în Sjonhem, pe Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.520754,
+                        57.485577
+                  ]
+            },
+            {
+                  "name": "Halla kyrka",
+                  "text": "O biserică medievală bine conservată în Halla, pe Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.497132,
+                        57.510896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roma Kungsgård",
+                  "text": "A historic manor house on Gotland, located on the site of a former monastery.",
+                  "category": "museum",
+                  "coords": [
+                        18.458972,
+                        57.516066
+                  ]
+            },
+            {
+                  "name": "Klosteränge",
+                  "text": "A nature reserve on Gotland known for its species-rich meadows.",
+                  "category": "natural",
+                  "coords": [
+                        18.489314,
+                        57.498077
+                  ]
+            },
+            {
+                  "name": "Roma klosterruin",
+                  "text": "The ruins of a 12th-century Cistercian monastery on Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.460419,
+                        57.516171
+                  ]
+            },
+            {
+                  "name": "Nordens största gravklot",
+                  "text": "A large prehistoric burial monument in the shape of a stone sphere on Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.476237,
+                        57.496513
+                  ]
+            },
+            {
+                  "name": "Sjonhem 16:1",
+                  "text": "An archaeological site in Sjonhem on the island of Gotland.",
+                  "category": "historical",
+                  "coords": [
+                        18.497389,
+                        57.472434
+                  ]
+            },
+            {
+                  "name": "Sjonhem kyrka",
+                  "text": "A medieval country church in Sjonhem on Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.520754,
+                        57.485577
+                  ]
+            },
+            {
+                  "name": "Halla kyrka",
+                  "text": "A well-preserved medieval church in Halla on Gotland.",
+                  "category": "religious",
+                  "coords": [
+                        18.497132,
+                        57.510896
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Gotland", hu: "Gotland", ro: "Gotland", en: "Gotland"},
@@ -279,7 +1080,88 @@ imageHint: "Limestone sea stacks (raukar) on the coast of Gotland",
     },
     image: "/poi-images/sweden-gotland-nature-v2.webp",
 },  {
-    id: "sweden-klaralven-nature-v2",
+    id: "sweden-klaralven-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kärnåsens hembygdsgård",
+                  "text": "Ein Freilichtmuseum am Fluss Klarälven, das traditionelle schwedische Gebäude bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        13.567161,
+                        59.994814
+                  ]
+            },
+            {
+                  "name": "Råda Stormosse",
+                  "text": "Ein Naturschutzgebiet, das ein wichtiges Moorgebiet am Klarälven schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.539123,
+                        60.001222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kärnåsens hembygdsgård",
+                  "text": "Szabadtéri múzeum a Klarälven folyónál, amely hagyományos svéd épületeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        13.567161,
+                        59.994814
+                  ]
+            },
+            {
+                  "name": "Råda Stormosse",
+                  "text": "Természetvédelmi terület, amely egy fontos lápos vidéket véd a Klarälvennél.",
+                  "category": "natural",
+                  "coords": [
+                        13.539123,
+                        60.001222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kärnåsens hembygdsgård",
+                  "text": "Un muzeu în aer liber de pe râul Klarälven, care păstrează clădiri tradiționale suedeze.",
+                  "category": "museum",
+                  "coords": [
+                        13.567161,
+                        59.994814
+                  ]
+            },
+            {
+                  "name": "Råda Stormosse",
+                  "text": "O rezervație naturală care protejează o zonă importantă de mlaștină lângă Klarälven.",
+                  "category": "natural",
+                  "coords": [
+                        13.539123,
+                        60.001222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kärnåsens hembygdsgård",
+                  "text": "An open-air museum by the Klarälven river preserving traditional Swedish buildings.",
+                  "category": "museum",
+                  "coords": [
+                        13.567161,
+                        59.994814
+                  ]
+            },
+            {
+                  "name": "Råda Stormosse",
+                  "text": "A nature reserve protecting an important bog area near Klarälven.",
+                  "category": "natural",
+                  "coords": [
+                        13.539123,
+                        60.001222
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Klarälven", hu: "Klarälven", ro: "Klarälven", en: "Klarälven"},
@@ -371,7 +1253,160 @@ imageHint: "Blue lake Siljan with traditional red wooden houses on the shore",
     },
     image: "/poi-images/sweden-siljan-nature-v2.webp",
 },  {
-    id: "sweden-njupeskar-nature-v2",
+    id: "sweden-njupeskar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturum",
+                  "text": "Ein Informationszentrum am Njupeskär-Wasserfall, das Einblicke in die lokale Flora und Fauna bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.715402,
+                        61.636315
+                  ]
+            },
+            {
+                  "name": "Stormorvallens naturreservat",
+                  "text": "Ein schwedisches Naturschutzgebiet nahe dem Njupeskär-Wasserfall, das für seine unberührte Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.743261,
+                        61.640334
+                  ]
+            },
+            {
+                  "name": "Old Tjikko",
+                  "text": "Diese Fichte im Fulufjället-Nationalpark gilt als einer der ältesten klonalen Bäume der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676326,
+                        61.639313
+                  ]
+            },
+            {
+                  "name": "Njupeskär",
+                  "text": "Ein beliebter Aussichtspunkt auf den Njupeskär, den höchsten Wasserfall Schwedens.",
+                  "category": "natural",
+                  "coords": [
+                        12.685629,
+                        61.63491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturum",
+                  "text": "Információs központ a Njupeskär-vízesésnél, amely bemutatja a helyi növény- és állatvilágot.",
+                  "category": "museum",
+                  "coords": [
+                        12.715402,
+                        61.636315
+                  ]
+            },
+            {
+                  "name": "Stormorvallens naturreservat",
+                  "text": "Svéd természetvédelmi terület a Njupeskär-vízesés közelében, amely érintetlen tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.743261,
+                        61.640334
+                  ]
+            },
+            {
+                  "name": "Old Tjikko",
+                  "text": "Ez a Fulufjället nemzeti parkban található lucfenyő a világ egyik legöregebb klonális fája.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676326,
+                        61.639313
+                  ]
+            },
+            {
+                  "name": "Njupeskär",
+                  "text": "Népszerű kilátópont a Njupeskärre, Svédország legmagasabb vízesésére.",
+                  "category": "natural",
+                  "coords": [
+                        12.685629,
+                        61.63491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturum",
+                  "text": "Un centru de informare la cascada Njupeskär, care oferă detalii despre flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        12.715402,
+                        61.636315
+                  ]
+            },
+            {
+                  "name": "Stormorvallens naturreservat",
+                  "text": "O rezervație naturală suedeză lângă cascada Njupeskär, cunoscută pentru peisajele sale virgine.",
+                  "category": "natural",
+                  "coords": [
+                        12.743261,
+                        61.640334
+                  ]
+            },
+            {
+                  "name": "Old Tjikko",
+                  "text": "Acest molid din parcul național Fulufjället este considerat unul dintre cei mai vechi arbori clonali din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676326,
+                        61.639313
+                  ]
+            },
+            {
+                  "name": "Njupeskär",
+                  "text": "Un punct de observație popular către Njupeskär, cea mai înaltă cascadă din Suedia.",
+                  "category": "natural",
+                  "coords": [
+                        12.685629,
+                        61.63491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturum",
+                  "text": "An information center at the Njupeskär Waterfall providing insights into local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        12.715402,
+                        61.636315
+                  ]
+            },
+            {
+                  "name": "Stormorvallens naturreservat",
+                  "text": "A Swedish nature reserve near the Njupeskär Waterfall, known for its pristine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        12.743261,
+                        61.640334
+                  ]
+            },
+            {
+                  "name": "Old Tjikko",
+                  "text": "This spruce in the Fulufjället National Park is considered one of the world's oldest clonal trees.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676326,
+                        61.639313
+                  ]
+            },
+            {
+                  "name": "Njupeskär",
+                  "text": "A popular viewpoint overlooking Njupeskär, Sweden's highest waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        12.685629,
+                        61.63491
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Njupeskär", hu: "Njupeskär-vízesés", ro: "Cascada Njupeskär", en: "Njupeskär Waterfall"},
@@ -417,7 +1452,160 @@ imageHint: "High waterfall plunging into a narrow canyon in Sweden",
     },
     image: "/poi-images/sweden-njupeskar-nature-v2.webp",
 },  {
-    id: "sweden-storforsen-nature-v2",
+    id: "sweden-storforsen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flottningsmuseum",
+                  "text": "Ein Museum, das der Geschichte der Flößerei in Storforsen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.398157,
+                        65.848493
+                  ]
+            },
+            {
+                  "name": "Enstakaberget",
+                  "text": "Ein geschütztes Naturreservat, bekannt für seine Wildnis und Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        20.389118,
+                        65.815624
+                  ]
+            },
+            {
+                  "name": "Storforsen",
+                  "text": "Eine der größten Stromschnellen Europas am Fluss Piteälven.",
+                  "category": "landmark",
+                  "coords": [
+                        20.409776,
+                        65.851718
+                  ]
+            },
+            {
+                  "name": "Döda fallet",
+                  "text": "Ein Bereich mit einem trockenen Wasserfall und einzigartigen geologischen Formationen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.405245,
+                        65.851198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flottningsmuseum",
+                  "text": "A storforseni tutajozás történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.398157,
+                        65.848493
+                  ]
+            },
+            {
+                  "name": "Enstakaberget",
+                  "text": "Védett természetvédelmi terület, amely vadonjáról és tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.389118,
+                        65.815624
+                  ]
+            },
+            {
+                  "name": "Storforsen",
+                  "text": "Európa egyik legnagyobb vadvízi zúgója a Pite-folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        20.409776,
+                        65.851718
+                  ]
+            },
+            {
+                  "name": "Döda fallet",
+                  "text": "Száraz vízesés terület egyedi geológiai képződményekkel a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.405245,
+                        65.851198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flottningsmuseum",
+                  "text": "Un muzeu dedicat istoriei plutăritului în Storforsen.",
+                  "category": "museum",
+                  "coords": [
+                        20.398157,
+                        65.848493
+                  ]
+            },
+            {
+                  "name": "Enstakaberget",
+                  "text": "O rezervație naturală protejată, cunoscută pentru sălbăticia și peisajele sale.",
+                  "category": "natural",
+                  "coords": [
+                        20.389118,
+                        65.815624
+                  ]
+            },
+            {
+                  "name": "Storforsen",
+                  "text": "Una dintre cele mai mari cascade repezi din Europa, situată pe râul Pite.",
+                  "category": "landmark",
+                  "coords": [
+                        20.409776,
+                        65.851718
+                  ]
+            },
+            {
+                  "name": "Döda fallet",
+                  "text": "O zonă cu o cascadă secată și formațiuni geologice unice în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        20.405245,
+                        65.851198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flottningsmuseum",
+                  "text": "A museum dedicated to the history of timber floating in Storforsen.",
+                  "category": "museum",
+                  "coords": [
+                        20.398157,
+                        65.848493
+                  ]
+            },
+            {
+                  "name": "Enstakaberget",
+                  "text": "A nature reserve known for its wilderness and landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        20.389118,
+                        65.815624
+                  ]
+            },
+            {
+                  "name": "Storforsen",
+                  "text": "One of the largest whitewater rapids in Europe, located on the Pite River.",
+                  "category": "landmark",
+                  "coords": [
+                        20.409776,
+                        65.851718
+                  ]
+            },
+            {
+                  "name": "Döda fallet",
+                  "text": "A dry waterfall area with unique geological formations in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.405245,
+                        65.851198
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Storforsen", hu: "Storforsen", ro: "Storforsen", en: "Storforsen"},
@@ -463,7 +1651,52 @@ imageHint: "Massive rushing white water rapids in a pine forest",
     },
     image: "/poi-images/sweden-storforsen-nature-v2.webp",
 },  {
-    id: "sweden-hornavan-nature-v2",
+    id: "sweden-hornavan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Askebergets naturreservat",
+                  "text": "Ein schwedisches Naturschutzgebiet am Ufer des Hornavan-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        17.694682,
+                        65.975867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Askebergets naturreservat",
+                  "text": "Egy svéd természetvédelmi terület a Hornavan-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        17.694682,
+                        65.975867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Askebergets naturreservat",
+                  "text": "O rezervație naturală suedeză situată pe malul lacului Hornavan.",
+                  "category": "natural",
+                  "coords": [
+                        17.694682,
+                        65.975867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Askebergets naturreservat",
+                  "text": "A Swedish nature reserve located on the shores of Lake Hornavan.",
+                  "category": "natural",
+                  "coords": [
+                        17.694682,
+                        65.975867
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Hornavan", hu: "Hornavan", ro: "Hornavan", en: "Hornavan"},
@@ -555,7 +1788,52 @@ imageHint: "Large arctic lake with floating ice chunks and distant mountains",
     },
     image: "/poi-images/sweden-tornetrask-nature-v2.webp",
 },  {
-    id: "sweden-dalalven-nature-v2",
+    id: "sweden-dalalven-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morkullberget",
+                  "text": "Ein Naturschutzgebiet am Fluss Dalälven, das wertvolle Waldökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        15.977228,
+                        60.484182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morkullberget",
+                  "text": "Természetvédelmi terület a Dalälven-folyó mentén, amely értékes erdei ökoszisztémákat óv.",
+                  "category": "natural",
+                  "coords": [
+                        15.977228,
+                        60.484182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morkullberget",
+                  "text": "O rezervație naturală de-a lungul râului Dalälven, care protejează ecosisteme forestiere valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        15.977228,
+                        60.484182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morkullberget",
+                  "text": "A nature reserve along the Dalälven River protecting valuable forest ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        15.977228,
+                        60.484182
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Dalälven", hu: "Dalälven", ro: "Dalälven", en: "Dalälven"},
@@ -601,7 +1879,52 @@ imageHint: "Wide river flowing through green valleys and forests in central Swed
     },
     image: "/poi-images/sweden-dalalven-nature-v2.webp",
 },  {
-    id: "sweden-lule-river-nature-v2",
+    id: "sweden-lule-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fällberget",
+                  "text": "Ein Naturschutzgebiet am Lule River, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.485971,
+                        66.522441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fällberget",
+                  "text": "Természetvédelmi terület a Lule-folyó mentén, amely a helyi élővilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        20.485971,
+                        66.522441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fällberget",
+                  "text": "O rezervație naturală de-a lungul râului Lule, care protejează ecosistemul local.",
+                  "category": "natural",
+                  "coords": [
+                        20.485971,
+                        66.522441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fällberget",
+                  "text": "A nature reserve along the Lule River protecting the local forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        20.485971,
+                        66.522441
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Lule älv", hu: "Lule-folyó", ro: "Râul Lule", en: "Lule River"},
@@ -647,7 +1970,52 @@ imageHint: "Large river with a massive hydroelectric dam in Lapland",
     },
     image: "/poi-images/sweden-lule-river-nature-v2.webp",
 },  {
-    id: "sweden-angermanalven-nature-v2",
+    id: "sweden-angermanalven-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huggarkoja",
+                  "text": "Eine traditionelle Holzhauerhütte als lokale Sehenswürdigkeit am Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        17.536476,
+                        63.471907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huggarkoja",
+                  "text": "Egy hagyományos favágókunyhó, amely helyi látványosság a folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.536476,
+                        63.471907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huggarkoja",
+                  "text": "O cabană tradițională de tăietori de lemne, amenajată ca atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        17.536476,
+                        63.471907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huggarkoja",
+                  "text": "A traditional woodcutter's cabin serving as a local attraction by the river.",
+                  "category": "landmark",
+                  "coords": [
+                        17.536476,
+                        63.471907
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Ångermanälven", hu: "Ångermanälven", ro: "Ångermanälven", en: "Ångermanälven"},
@@ -693,7 +2061,88 @@ imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden",
     },
     image: "/poi-images/sweden-angermanalven-nature-v2.webp",
 },  {
-    id: "sweden-helagsfjallet-nature-v2",
+    id: "sweden-helagsfjallet-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Predikstolen",
+                  "text": "Ein Berggipfel im Helagsfjället-Massiv, der eine markante Aussicht auf die schwedische Gebirgswelt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.413539,
+                        62.891361
+                  ]
+            },
+            {
+                  "name": "Helagsfjället",
+                  "text": "Der höchste Berggipfel Schwedens südlich des Polarkreises mit einem markanten Gletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        12.452617,
+                        62.904165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Predikstolen",
+                  "text": "Hegycsúcs a Helagsfjället-masszívumban, amely jellegzetes kilátást nyújt a svéd hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.413539,
+                        62.891361
+                  ]
+            },
+            {
+                  "name": "Helagsfjället",
+                  "text": "Svédország legmagasabb hegycsúcsa a sarkkörtől délre, jellegzetes gleccserrel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.452617,
+                        62.904165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Predikstolen",
+                  "text": "Un vârf muntos din masivul Helagsfjället, oferind o vedere remarcabilă asupra munților suedezi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.413539,
+                        62.891361
+                  ]
+            },
+            {
+                  "name": "Helagsfjället",
+                  "text": "Cel mai înalt vârf muntos din Suedia la sud de Cercul Polar, având un ghețar proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        12.452617,
+                        62.904165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Predikstolen",
+                  "text": "A mountain peak in the Helagsfjället massif, offering a striking view of the Swedish mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        12.413539,
+                        62.891361
+                  ]
+            },
+            {
+                  "name": "Helagsfjället",
+                  "text": "The highest mountain peak in Sweden south of the Arctic Circle, featuring a prominent glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        12.452617,
+                        62.904165
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "mountain",
     name: { de: "Helagsfjället", hu: "Helagsfjället", ro: "Helagsfjället", en: "Helagsfjället"},
@@ -739,7 +2188,124 @@ imageHint: "Snowy mountain with a small glacier bowl in Härjedalen",
     },
     image: "/poi-images/sweden-helagsfjallet-nature-v2.webp",
 },  {
-    id: "sweden-tannforsen-nature-v2",
+    id: "sweden-tannforsen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyvallen Rännberg",
+                  "text": "Ein Naturschutzgebiet in Schweden, bekannt für seine Almwiesen und Berglandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        12.695817,
+                        63.409522
+                  ]
+            },
+            {
+                  "name": "Hammarberget",
+                  "text": "Ein geschütztes Waldgebiet in der Nähe des Tännforsen-Wasserfalls.",
+                  "category": "natural",
+                  "coords": [
+                        12.751652,
+                        63.407549
+                  ]
+            },
+            {
+                  "name": "Tännforsen",
+                  "text": "Einer der größten und beeindruckendsten Wasserfälle Schwedens in der Provinz Jämtland.",
+                  "category": "landmark",
+                  "coords": [
+                        12.739631,
+                        63.445264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyvallen Rännberg",
+                  "text": "Természetvédelmi terület Svédországban, amely alpesi rétjeiről és hegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.695817,
+                        63.409522
+                  ]
+            },
+            {
+                  "name": "Hammarberget",
+                  "text": "Védett erdőterület a Tännforsen-vízesés közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.751652,
+                        63.407549
+                  ]
+            },
+            {
+                  "name": "Tännforsen",
+                  "text": "Svédország egyik legnagyobb és leglenyűgözőbb vízesése Jämtland tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.739631,
+                        63.445264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyvallen Rännberg",
+                  "text": "O rezervație naturală din Suedia, cunoscută pentru pajiștile sale alpine și peisajele montane.",
+                  "category": "natural",
+                  "coords": [
+                        12.695817,
+                        63.409522
+                  ]
+            },
+            {
+                  "name": "Hammarberget",
+                  "text": "O zonă forestieră protejată situată în apropierea cascadei Tännforsen.",
+                  "category": "natural",
+                  "coords": [
+                        12.751652,
+                        63.407549
+                  ]
+            },
+            {
+                  "name": "Tännforsen",
+                  "text": "Una dintre cele mai mari și mai impresionante cascade din Suedia, situată în provincia Jämtland.",
+                  "category": "landmark",
+                  "coords": [
+                        12.739631,
+                        63.445264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyvallen Rännberg",
+                  "text": "A nature reserve in Sweden known for its alpine meadows and mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        12.695817,
+                        63.409522
+                  ]
+            },
+            {
+                  "name": "Hammarberget",
+                  "text": "A protected forest area located near the Tännforsen waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        12.751652,
+                        63.407549
+                  ]
+            },
+            {
+                  "name": "Tännforsen",
+                  "text": "One of Sweden's largest and most impressive waterfalls, located in Jämtland province.",
+                  "category": "landmark",
+                  "coords": [
+                        12.739631,
+                        63.445264
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Tännforsen", hu: "Tännforsen", ro: "Tännforsen", en: "Tännforsen"},
@@ -831,7 +2397,124 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
     },
     image: "/poi-images/sweden-vindelfjallen-nature-v2.webp",
 },  {
-    id: "sweden-stockholm-archipelago-nature-v2",
+    id: "sweden-stockholm-archipelago-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boda",
+                  "text": "Boda ist ein Leuchtturm in den Stockholmer Schären.",
+                  "category": "landmark",
+                  "coords": [
+                        18.605785,
+                        59.369792
+                  ]
+            },
+            {
+                  "name": "Kalvö",
+                  "text": "Kalvö ist ein Leuchtturm in den Stockholmer Schären.",
+                  "category": "landmark",
+                  "coords": [
+                        18.614218,
+                        59.373879
+                  ]
+            },
+            {
+                  "name": "Stickelsbergs naturreservat",
+                  "text": "Stickelsbergs naturreservat ist ein Naturschutzgebiet in den Stockholmer Schären.",
+                  "category": "natural",
+                  "coords": [
+                        18.607244,
+                        59.319682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boda",
+                  "text": "Boda egy világítótorony a stockholmi szigetvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.605785,
+                        59.369792
+                  ]
+            },
+            {
+                  "name": "Kalvö",
+                  "text": "Kalvö egy világítótorony a stockholmi szigetvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.614218,
+                        59.373879
+                  ]
+            },
+            {
+                  "name": "Stickelsbergs naturreservat",
+                  "text": "Stickelsbergs naturreservat egy természetvédelmi terület a stockholmi szigetvilágban.",
+                  "category": "natural",
+                  "coords": [
+                        18.607244,
+                        59.319682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boda",
+                  "text": "Boda este un far în Arhipelagul Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.605785,
+                        59.369792
+                  ]
+            },
+            {
+                  "name": "Kalvö",
+                  "text": "Kalvö este un far în Arhipelagul Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.614218,
+                        59.373879
+                  ]
+            },
+            {
+                  "name": "Stickelsbergs naturreservat",
+                  "text": "Stickelsbergs naturreservat este o rezervație naturală în Arhipelagul Stockholm.",
+                  "category": "natural",
+                  "coords": [
+                        18.607244,
+                        59.319682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boda",
+                  "text": "Boda is a lighthouse located in the Stockholm Archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        18.605785,
+                        59.369792
+                  ]
+            },
+            {
+                  "name": "Kalvö",
+                  "text": "Kalvö is a lighthouse located in the Stockholm Archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        18.614218,
+                        59.373879
+                  ]
+            },
+            {
+                  "name": "Stickelsbergs naturreservat",
+                  "text": "Stickelsbergs naturreservat is a nature reserve in the Stockholm Archipelago.",
+                  "category": "natural",
+                  "coords": [
+                        18.607244,
+                        59.319682
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Stockholmer Schärengarten", hu: "Stockholmi szigetvilág", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago"},
@@ -877,7 +2560,232 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
     },
     image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp",
 },  {
-    id: "sweden-malaren-nature-v2",
+    id: "sweden-malaren-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tedarön",
+                  "text": "Ein Naturschutzgebiet auf einer Insel im Mälaren-See.",
+                  "category": "natural",
+                  "coords": [
+                        16.971849,
+                        59.525827
+                  ]
+            },
+            {
+                  "name": "Torparudden",
+                  "text": "Ein geschütztes Naturgebiet am Ufer des Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        16.963868,
+                        59.4873
+                  ]
+            },
+            {
+                  "name": "Dalby Datormuseum",
+                  "text": "Ein Museum, das der Geschichte der Computer und Technik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.049487,
+                        59.489724
+                  ]
+            },
+            {
+                  "name": "Hjulsta ekhagar",
+                  "text": "Ein Naturschutzgebiet, das für seine alten Eichenbestände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.006213,
+                        59.535567
+                  ]
+            },
+            {
+                  "name": "Säby Säteri",
+                  "text": "Ein historisches Herrenhaus in der Nähe des Mälaren-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        17.003972,
+                        59.489648
+                  ]
+            },
+            {
+                  "name": "Aspö kyrka",
+                  "text": "Eine mittelalterliche Steinkirche auf der Insel Aspö im Mälaren.",
+                  "category": "religious",
+                  "coords": [
+                        17.046065,
+                        59.483318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tedarön",
+                  "text": "Természetvédelmi terület a Mälaren-tó egyik szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        16.971849,
+                        59.525827
+                  ]
+            },
+            {
+                  "name": "Torparudden",
+                  "text": "Védett természeti terület a Mälaren partján.",
+                  "category": "natural",
+                  "coords": [
+                        16.963868,
+                        59.4873
+                  ]
+            },
+            {
+                  "name": "Dalby Datormuseum",
+                  "text": "A számítógépek és a technika történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.049487,
+                        59.489724
+                  ]
+            },
+            {
+                  "name": "Hjulsta ekhagar",
+                  "text": "Öreg tölgyeseiről ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        17.006213,
+                        59.535567
+                  ]
+            },
+            {
+                  "name": "Säby Säteri",
+                  "text": "Történelmi udvarház a Mälaren-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.003972,
+                        59.489648
+                  ]
+            },
+            {
+                  "name": "Aspö kyrka",
+                  "text": "Középkori kőtemplom az Aspö-szigeten a Mälaren-tavon.",
+                  "category": "religious",
+                  "coords": [
+                        17.046065,
+                        59.483318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tedarön",
+                  "text": "O rezervație naturală pe o insulă din lacul Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        16.971849,
+                        59.525827
+                  ]
+            },
+            {
+                  "name": "Torparudden",
+                  "text": "O zonă naturală protejată pe malul lacului Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        16.963868,
+                        59.4873
+                  ]
+            },
+            {
+                  "name": "Dalby Datormuseum",
+                  "text": "Un muzeu dedicat istoriei calculatoarelor și tehnologiei.",
+                  "category": "museum",
+                  "coords": [
+                        17.049487,
+                        59.489724
+                  ]
+            },
+            {
+                  "name": "Hjulsta ekhagar",
+                  "text": "O rezervație naturală cunoscută pentru stejarii săi seculari.",
+                  "category": "natural",
+                  "coords": [
+                        17.006213,
+                        59.535567
+                  ]
+            },
+            {
+                  "name": "Säby Säteri",
+                  "text": "Un conac istoric situat lângă lacul Mälaren.",
+                  "category": "historical",
+                  "coords": [
+                        17.003972,
+                        59.489648
+                  ]
+            },
+            {
+                  "name": "Aspö kyrka",
+                  "text": "O biserică medievală de piatră pe insula Aspö din lacul Mälaren.",
+                  "category": "religious",
+                  "coords": [
+                        17.046065,
+                        59.483318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tedarön",
+                  "text": "A nature reserve on an island in Lake Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        16.971849,
+                        59.525827
+                  ]
+            },
+            {
+                  "name": "Torparudden",
+                  "text": "A protected natural area on the shores of Lake Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        16.963868,
+                        59.4873
+                  ]
+            },
+            {
+                  "name": "Dalby Datormuseum",
+                  "text": "A museum dedicated to the history of computers and technology.",
+                  "category": "museum",
+                  "coords": [
+                        17.049487,
+                        59.489724
+                  ]
+            },
+            {
+                  "name": "Hjulsta ekhagar",
+                  "text": "A nature reserve known for its ancient oak groves.",
+                  "category": "natural",
+                  "coords": [
+                        17.006213,
+                        59.535567
+                  ]
+            },
+            {
+                  "name": "Säby Säteri",
+                  "text": "A historic manor house located near Lake Mälaren.",
+                  "category": "historical",
+                  "coords": [
+                        17.003972,
+                        59.489648
+                  ]
+            },
+            {
+                  "name": "Aspö kyrka",
+                  "text": "A medieval stone church on Aspö island in Lake Mälaren.",
+                  "category": "religious",
+                  "coords": [
+                        17.046065,
+                        59.483318
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Mälaren", hu: "Mälaren-tó", ro: "Lacul Mälaren", en: "Mälaren"},
@@ -923,7 +2831,88 @@ imageHint: "Large calm lake with wooded shorelines near Stockholm",
     },
     image: "/poi-images/sweden-malaren-nature-v2.webp",
 },  {
-    id: "sweden-storsjon-nature-v2",
+    id: "sweden-storsjon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andersöns naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Andersön im Storsjön-See, bekannt für seine Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        14.422892,
+                        63.151927
+                  ]
+            },
+            {
+                  "name": "Gammelgårdens Museum",
+                  "text": "Ein Freilichtmuseum am Storsjön, das traditionelle schwedische Gebäude bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        14.286226,
+                        63.129769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andersöns naturreservat",
+                  "text": "Természetvédelmi terület a Storsjön-tó Andersön szigetén, amely ösvényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.422892,
+                        63.151927
+                  ]
+            },
+            {
+                  "name": "Gammelgårdens Museum",
+                  "text": "Szabadtéri múzeum a Storsjönnél, amely hagyományos svéd épületeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        14.286226,
+                        63.129769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andersöns naturreservat",
+                  "text": "O rezervație naturală pe insula Andersön din lacul Storsjön, cunoscută pentru traseele sale.",
+                  "category": "natural",
+                  "coords": [
+                        14.422892,
+                        63.151927
+                  ]
+            },
+            {
+                  "name": "Gammelgårdens Museum",
+                  "text": "Un muzeu în aer liber de pe lacul Storsjön care conservă clădiri tradiționale suedeze.",
+                  "category": "museum",
+                  "coords": [
+                        14.286226,
+                        63.129769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andersöns naturreservat",
+                  "text": "A nature reserve on the island of Andersön in Lake Storsjön, known for its trails.",
+                  "category": "natural",
+                  "coords": [
+                        14.422892,
+                        63.151927
+                  ]
+            },
+            {
+                  "name": "Gammelgårdens Museum",
+                  "text": "An open-air museum at Storsjön preserving traditional Swedish buildings.",
+                  "category": "museum",
+                  "coords": [
+                        14.286226,
+                        63.129769
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Storsjön", hu: "Storsjön", ro: "Storsjön", en: "Storsjön"},
@@ -970,7 +2959,124 @@ imageHint: "Large lake with snowy mountains in the background and a town on its 
     image: "/poi-images/sweden-storsjon-nature-v2.webp",
 },
   {
-    id: "sweden-hjalmaren-nature-v2",
+    id: "sweden-hjalmaren-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stora Rävsvik",
+                  "text": "Ein Naturschutzgebiet am Hjälmaren-See mit einer vielfältigen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        15.793228,
+                        59.276463
+                  ]
+            },
+            {
+                  "name": "Stora Bastås",
+                  "text": "Dieses Naturschutzgebiet am See Hjälmaren schützt die lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        15.771581,
+                        59.28632
+                  ]
+            },
+            {
+                  "name": "Grundholmarna",
+                  "text": "Ein Naturschutzgebiet im Hjälmaren-See, das aus einer Gruppe von Inseln besteht.",
+                  "category": "natural",
+                  "coords": [
+                        15.703422,
+                        59.240799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stora Rävsvik",
+                  "text": "Természetvédelmi terület a Hjälmaren-tó mentén, gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        15.793228,
+                        59.276463
+                  ]
+            },
+            {
+                  "name": "Stora Bastås",
+                  "text": "Természetvédelmi terület a Hjälmaren-tó partján, amely megőrzi a helyi élővilágot.",
+                  "category": "natural",
+                  "coords": [
+                        15.771581,
+                        59.28632
+                  ]
+            },
+            {
+                  "name": "Grundholmarna",
+                  "text": "Természetvédelmi terület a Hjälmaren-tavon, amely egy szigetcsoportból áll.",
+                  "category": "natural",
+                  "coords": [
+                        15.703422,
+                        59.240799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stora Rävsvik",
+                  "text": "O rezervație naturală pe malul lacului Hjälmaren, cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        15.793228,
+                        59.276463
+                  ]
+            },
+            {
+                  "name": "Stora Bastås",
+                  "text": "O rezervație naturală pe malul lacului Hjälmaren, protejând flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        15.771581,
+                        59.28632
+                  ]
+            },
+            {
+                  "name": "Grundholmarna",
+                  "text": "O rezervație naturală în lacul Hjälmaren, formată dintr-un grup de insule.",
+                  "category": "natural",
+                  "coords": [
+                        15.703422,
+                        59.240799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stora Rävsvik",
+                  "text": "A nature reserve by Lake Hjälmaren featuring diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        15.793228,
+                        59.276463
+                  ]
+            },
+            {
+                  "name": "Stora Bastås",
+                  "text": "A nature reserve on the shores of Lake Hjälmaren, preserving local wildlife and flora.",
+                  "category": "natural",
+                  "coords": [
+                        15.771581,
+                        59.28632
+                  ]
+            },
+            {
+                  "name": "Grundholmarna",
+                  "text": "A nature reserve in Lake Hjälmaren consisting of a group of small islands.",
+                  "category": "natural",
+                  "coords": [
+                        15.703422,
+                        59.240799
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Hjälmaren", hu: "Hjälmaren-tó", ro: "Lacul Hjälmaren", en: "Hjälmaren"},
@@ -1015,7 +3121,52 @@ imageHint: "Large lake with snowy mountains in the background and a town on its 
     },
   },
   {
-    id: "sweden-indalsalven-nature-v2",
+    id: "sweden-indalsalven-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Döda fallet",
+                  "text": "Döda fallet ist ein Naturschutzgebiet am Indalsälven, bekannt für seinen seit 1796 trockenliegenden Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        16.517958,
+                        63.053015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Döda fallet",
+                  "text": "A Döda fallet egy természetvédelmi terület az Indalsälven folyónál, amely az 1796-ban kiszáradt vízeséséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.517958,
+                        63.053015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Döda fallet",
+                  "text": "Döda fallet este o rezervație naturală pe râul Indalsälven, cunoscută pentru cascada sa secată în anul 1796.",
+                  "category": "natural",
+                  "coords": [
+                        16.517958,
+                        63.053015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Döda fallet",
+                  "text": "Döda fallet is a nature reserve on the Indalsälven river, famous for its dry waterfall created in 1796.",
+                  "category": "natural",
+                  "coords": [
+                        16.517958,
+                        63.053015
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Indalsälven", hu: "Indalsälven-folyó", ro: "Râul Indalsälven", en: "Indalsälven"},
@@ -1060,7 +3211,160 @@ imageHint: "Wide river Indalsälven winding through a forested valley in Jämtla
     },
     image: "/poi-images/sweden-indalsalven-nature-v2.webp",
 },  {
-    id: "sweden-ristafallet-nature-v2",
+    id: "sweden-ristafallet-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hållandsgårdens stavkyrka",
+                  "text": "Eine traditionelle Stabkirche in der Nähe des Wasserfalls Ristafallet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.358575,
+                        63.321575
+                  ]
+            },
+            {
+                  "name": "Ristafallet",
+                  "text": "Ein mächtiger und malerischer Wasserfall am Fluss Indalsälven in Schweden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.350366,
+                        63.312522
+                  ]
+            },
+            {
+                  "name": "S:t Olavs källa",
+                  "text": "Eine historische Quelle in der Nähe von Ristafallet, die mit dem Heiligen Olav in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        13.353458,
+                        63.316498
+                  ]
+            },
+            {
+                  "name": "Undersåkers kyrka",
+                  "text": "Eine mittelalterliche Pfarrkirche in Undersåker mit einer historischen Steinstruktur.",
+                  "category": "religious",
+                  "coords": [
+                        13.38661,
+                        63.327521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hållandsgårdens stavkyrka",
+                  "text": "Egy hagyományos árboctemplom a Ristafallet-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.358575,
+                        63.321575
+                  ]
+            },
+            {
+                  "name": "Ristafallet",
+                  "text": "Hatalmas és festői vízesés az Indalsälven folyón, Svédországban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.350366,
+                        63.312522
+                  ]
+            },
+            {
+                  "name": "S:t Olavs källa",
+                  "text": "Szent Olafhoz kötődő történelmi forrás Ristafallet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.353458,
+                        63.316498
+                  ]
+            },
+            {
+                  "name": "Undersåkers kyrka",
+                  "text": "Középkori plébániatemplom Undersåkerben, történelmi kőépülettel.",
+                  "category": "religious",
+                  "coords": [
+                        13.38661,
+                        63.327521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hållandsgårdens stavkyrka",
+                  "text": "O biserică de lemn tradițională situată lângă cascada Ristafallet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.358575,
+                        63.321575
+                  ]
+            },
+            {
+                  "name": "Ristafallet",
+                  "text": "O cascadă puternică și pitorească de pe râul Indalsälven din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.350366,
+                        63.312522
+                  ]
+            },
+            {
+                  "name": "S:t Olavs källa",
+                  "text": "Un izvor istoric de lângă Ristafallet, asociat cu Sfântul Olaf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.353458,
+                        63.316498
+                  ]
+            },
+            {
+                  "name": "Undersåkers kyrka",
+                  "text": "O biserică parohială medievală din Undersåker, cu o structură istorică din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        13.38661,
+                        63.327521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hållandsgårdens stavkyrka",
+                  "text": "A traditional stave church located near the Ristafallet waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        13.358575,
+                        63.321575
+                  ]
+            },
+            {
+                  "name": "Ristafallet",
+                  "text": "A powerful and scenic waterfall on the Indalsälven river in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.350366,
+                        63.312522
+                  ]
+            },
+            {
+                  "name": "S:t Olavs källa",
+                  "text": "A historic spring near Ristafallet associated with Saint Olaf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.353458,
+                        63.316498
+                  ]
+            },
+            {
+                  "name": "Undersåkers kyrka",
+                  "text": "A medieval parish church in Undersåker, featuring a historic stone structure.",
+                  "category": "religious",
+                  "coords": [
+                        13.38661,
+                        63.327521
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Ristafallet", hu: "Ristafallet-vízesés", ro: "Cascada Ristafallet", en: "Ristafallet"},
@@ -1150,7 +3454,88 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
     },
     image: "/poi-images/sweden-ven-island-nature-v2.webp",
 },  {
-    id: "sweden-bla-jungfrun-nature-v2",
+    id: "sweden-bla-jungfrun-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Böda prästgård",
+                  "text": "Ein Naturschutzgebiet im Bereich von Böda, bekannt für seine Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.064522,
+                        57.244105
+                  ]
+            },
+            {
+                  "name": "Böda kyrka",
+                  "text": "Eine historische Kirche im Gebiet von Böda auf der schwedischen Insel Öland.",
+                  "category": "religious",
+                  "coords": [
+                        17.059637,
+                        57.244506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Böda prästgård",
+                  "text": "Természetvédelmi terület Böda térségében, amely tengerparti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.064522,
+                        57.244105
+                  ]
+            },
+            {
+                  "name": "Böda kyrka",
+                  "text": "Történelmi templom Böda térségében, a svédországi Öland szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        17.059637,
+                        57.244506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Böda prästgård",
+                  "text": "O rezervație naturală în zona Böda, cunoscută pentru peisajul său de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        17.064522,
+                        57.244105
+                  ]
+            },
+            {
+                  "name": "Böda kyrka",
+                  "text": "O biserică istorică din zona Böda, situată pe insula suedeză Öland.",
+                  "category": "religious",
+                  "coords": [
+                        17.059637,
+                        57.244506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Böda prästgård",
+                  "text": "A nature reserve in the Böda area, known for its coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.064522,
+                        57.244105
+                  ]
+            },
+            {
+                  "name": "Böda kyrka",
+                  "text": "A historic church in the Böda area, located on the Swedish island of Öland.",
+                  "category": "religious",
+                  "coords": [
+                        17.059637,
+                        57.244506
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Blå Jungfrun", hu: "Blå Jungfrun Nemzeti Park", ro: "Parcul Național Blå Jungfrun", en: "Blå Jungfrun National Park"},
@@ -1330,7 +3715,52 @@ imageHint: "Wide Umeälven river flowing through the city of Umeå",
     },
     image: "/poi-images/sweden-ume-river-nature-v2.webp",
 },  {
-    id: "sweden-hoga-kusten-nature-v2",
+    id: "sweden-hoga-kusten-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ullånger Kyrka",
+                  "text": "Eine historische Kirche in Ullånger, gelegen an der schwedischen Hohen Küste.",
+                  "category": "religious",
+                  "coords": [
+                        18.176332,
+                        63.000311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ullånger Kyrka",
+                  "text": "Történelmi templom Ullångerben, a svéd Magaspart mentén.",
+                  "category": "religious",
+                  "coords": [
+                        18.176332,
+                        63.000311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ullånger Kyrka",
+                  "text": "O biserică istorică în Ullånger, situată pe Coasta Înaltă a Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        18.176332,
+                        63.000311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ullånger Kyrka",
+                  "text": "A historic church in Ullånger, located along the Swedish High Coast.",
+                  "category": "religious",
+                  "coords": [
+                        18.176332,
+                        63.000311
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Hohe Küste", hu: "Magas-part", ro: "Coasta Înaltă", en: "The High Coast"},
@@ -1421,7 +3851,196 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
   }
 ,
   {
-    id: "sweden-kalix-river-nature-v2",
+    id: "sweden-kalix-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grodparken",
+                  "text": "Ein gemütlicher Stadtpark in Kalix, der als grüner Erholungsraum am Flussufer dient.",
+                  "category": "park",
+                  "coords": [
+                        23.136787,
+                        65.856598
+                  ]
+            },
+            {
+                  "name": "Kalix lilla trästad",
+                  "text": "Ein historisches Viertel in Kalix mit traditionellen schwedischen Holzhäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145217,
+                        65.852594
+                  ]
+            },
+            {
+                  "name": "Kalixbron",
+                  "text": "Eine markante Brücke, die den Fluss Kalixälven überquert und Kalix verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129459,
+                        65.85233
+                  ]
+            },
+            {
+                  "name": "Kalix kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Kalix, die für ihre historische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.132433,
+                        65.854147
+                  ]
+            },
+            {
+                  "name": "Kalix kommunhus",
+                  "text": "Das Rathaus von Kalix, ein Verwaltungsbau und architektonisches Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145129,
+                        65.855619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grodparken",
+                  "text": "Hangulatos városi park Kalixban, amely zöld pihenőhelyként szolgál a folyóparton.",
+                  "category": "park",
+                  "coords": [
+                        23.136787,
+                        65.856598
+                  ]
+            },
+            {
+                  "name": "Kalix lilla trästad",
+                  "text": "Kalix történelmi negyede, ahol hagyományos svéd faházak láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145217,
+                        65.852594
+                  ]
+            },
+            {
+                  "name": "Kalixbron",
+                  "text": "Jellegzetes híd, amely a Kalix-folyót íveli át és összeköti Kalix városát.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129459,
+                        65.85233
+                  ]
+            },
+            {
+                  "name": "Kalix kyrka",
+                  "text": "Középkori kőtemplom Kalixban, amely történelmi építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        23.132433,
+                        65.854147
+                  ]
+            },
+            {
+                  "name": "Kalix kommunhus",
+                  "text": "Kalix városházája, az önkormányzat épülete és a város egyik építészeti jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145129,
+                        65.855619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grodparken",
+                  "text": "Un parc municipal primitor în Kalix, servind ca spațiu verde de recreere pe malul râului.",
+                  "category": "park",
+                  "coords": [
+                        23.136787,
+                        65.856598
+                  ]
+            },
+            {
+                  "name": "Kalix lilla trästad",
+                  "text": "Un cartier istoric din Kalix, cu case tradiționale suedeze din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145217,
+                        65.852594
+                  ]
+            },
+            {
+                  "name": "Kalixbron",
+                  "text": "Un pod distinctiv care traversează râul Kalix și conectează localitatea Kalix.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129459,
+                        65.85233
+                  ]
+            },
+            {
+                  "name": "Kalix kyrka",
+                  "text": "O biserică medievală de piatră în Kalix, cunoscută pentru arhitectura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        23.132433,
+                        65.854147
+                  ]
+            },
+            {
+                  "name": "Kalix kommunhus",
+                  "text": "Primăria din Kalix, o clădire administrativă și punct de reper arhitectural al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145129,
+                        65.855619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grodparken",
+                  "text": "A cozy municipal park in Kalix, serving as a green recreational space by the river.",
+                  "category": "park",
+                  "coords": [
+                        23.136787,
+                        65.856598
+                  ]
+            },
+            {
+                  "name": "Kalix lilla trästad",
+                  "text": "A historic quarter in Kalix featuring traditional Swedish wooden houses.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145217,
+                        65.852594
+                  ]
+            },
+            {
+                  "name": "Kalixbron",
+                  "text": "A distinctive bridge crossing the Kalix River and connecting the town of Kalix.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129459,
+                        65.85233
+                  ]
+            },
+            {
+                  "name": "Kalix kyrka",
+                  "text": "A medieval stone church in Kalix known for its historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.132433,
+                        65.854147
+                  ]
+            },
+            {
+                  "name": "Kalix kommunhus",
+                  "text": "The town hall of Kalix, an administrative building and architectural landmark of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        23.145129,
+                        65.855619
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SE",
     name: { de: "Kalixälven", hu: "Kalix-folyó", ro: "Râul Kalix", en: "Kalix River" },
@@ -1466,7 +4085,160 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-kalix-river-nature-v2.webp",
   },
   {
-    id: "sweden-tarfala-valley-nature-v2",
+    id: "sweden-tarfala-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "Der Südgipfel des Kebnekaise ist einer der höchsten Punkte Schwedens.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "Der Nordgipfel des Kebnekaise ist eine markante Erhebung im schwedischen Lappland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Kekkonentoppen",
+                  "text": "Ein Berggipfel im Kebnekaise-Massiv, benannt nach dem finnischen Präsidenten Urho Kekkonen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.638413,
+                        67.908174
+                  ]
+            },
+            {
+                  "name": "Kaskasatjåkka",
+                  "text": "Ein hoher Berggipfel in der Nähe des Kebnekaise-Massivs in Nordschweden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.583329,
+                        67.94222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "A Kebnekaise déli csúcsa Svédország egyik legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "A Kebnekaise északi csúcsa egy jelentős hegycsúcs a svéd Lappföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Kekkonentoppen",
+                  "text": "A Kebnekaise-masszívum egyik csúcsa, amelyet Urho Kekkonen finn elnökről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        18.638413,
+                        67.908174
+                  ]
+            },
+            {
+                  "name": "Kaskasatjåkka",
+                  "text": "Magas hegycsúcs a Kebnekaise-masszívum közelében, Észak-Svédországban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.583329,
+                        67.94222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "Vârful sudic al muntelui Kebnekaise este unul dintre cele mai înalte puncte din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "Vârful nordic al muntelui Kebnekaise este o culme montană importantă din Laponia suedeză.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Kekkonentoppen",
+                  "text": "Un vârf muntos din masivul Kebnekaise, numit după președintele finlandez Urho Kekkonen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.638413,
+                        67.908174
+                  ]
+            },
+            {
+                  "name": "Kaskasatjåkka",
+                  "text": "Un vârf muntos înalt situat în apropierea masivului Kebnekaise din nordul Suediei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.583329,
+                        67.94222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kebnekaise sydtoppen",
+                  "text": "The south peak of Kebnekaise is one of the highest points in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.516903,
+                        67.900781
+                  ]
+            },
+            {
+                  "name": "Kebnekaise nordtoppen",
+                  "text": "The north peak of Kebnekaise is a prominent mountain peak in Swedish Lapland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.528703,
+                        67.904879
+                  ]
+            },
+            {
+                  "name": "Kekkonentoppen",
+                  "text": "A mountain peak in the Kebnekaise massif, named after the Finnish President Urho Kekkonen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.638413,
+                        67.908174
+                  ]
+            },
+            {
+                  "name": "Kaskasatjåkka",
+                  "text": "A high mountain peak located near the Kebnekaise massif in northern Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.583329,
+                        67.94222
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SE",
     name: { de: "Tarfaladalen", hu: "Tarfala-völgy", ro: "Valea Tarfala", en: "Tarfala Valley" },
@@ -1556,7 +4328,52 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-djuro-archipelago-nature-v2.webp",
   },
   {
-    id: "sweden-tresticklan-forest-nature-v2",
+    id: "sweden-tresticklan-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lundsneset naturreservat",
+                  "text": "Ein Naturschutzgebiet mit unberührter Landschaft im Tresticklan-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        11.715785,
+                        59.054018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lundsneset naturreservat",
+                  "text": "Természetvédelmi terület érintetlen tájjal a Tresticklan Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        11.715785,
+                        59.054018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lundsneset naturreservat",
+                  "text": "O rezervație naturală cu peisaje virgine în Parcul Național Tresticklan.",
+                  "category": "natural",
+                  "coords": [
+                        11.715785,
+                        59.054018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lundsneset Nature Reserve",
+                  "text": "A nature reserve with untouched landscapes in Tresticklan National Park.",
+                  "category": "natural",
+                  "coords": [
+                        11.715785,
+                        59.054018
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SE",
     name: { de: "Tresticklan Nationalpark", hu: "Tresticklan Nemzeti Park", ro: "Parcul Național Tresticklan", en: "Tresticklan National Park" },
@@ -1611,6 +4428,42 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         21.165507,
                         64.66968
                   ]
+            },
+            {
+                  "name": "Forum Museum Rönnskär",
+                  "text": "Ein Industriemuseum am Skellefte-Fluss, das die Geschichte des lokalen Hüttenwerks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.271083,
+                        64.66869
+                  ]
+            },
+            {
+                  "name": "Ursvikens kyrka",
+                  "text": "Eine lokale Kirche in der Gemeinde Ursviken am Skellefte-Fluss.",
+                  "category": "religious",
+                  "coords": [
+                        21.184965,
+                        64.702864
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kyrka",
+                  "text": "Eine moderne Holzkirche in Skelleftehamn.",
+                  "category": "religious",
+                  "coords": [
+                        21.241069,
+                        64.689972
+                  ]
+            },
+            {
+                  "name": "Sävenäs kapell",
+                  "text": "Eine kleine Kapelle in der Nähe der Skellefte-Flussmündung.",
+                  "category": "religious",
+                  "coords": [
+                        21.210502,
+                        64.692681
+                  ]
             }
       ],
       "hu": [
@@ -1621,6 +4474,42 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         21.165507,
                         64.66968
+                  ]
+            },
+            {
+                  "name": "Forum Museum Rönnskär",
+                  "text": "Ipari múzeum a Skellefte-folyónál, a helyi kohászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.271083,
+                        64.66869
+                  ]
+            },
+            {
+                  "name": "Ursvikens kyrka",
+                  "text": "Helyi templom Ursviken közösségében, a Skellefte-folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.184965,
+                        64.702864
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kyrka",
+                  "text": "Modern fatemplom Skelleftehamn településen.",
+                  "category": "religious",
+                  "coords": [
+                        21.241069,
+                        64.689972
+                  ]
+            },
+            {
+                  "name": "Sävenäs kapell",
+                  "text": "Kis kápolna a Skellefte-folyó torkolatának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.210502,
+                        64.692681
                   ]
             }
       ],
@@ -1633,6 +4522,42 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         21.165507,
                         64.66968
                   ]
+            },
+            {
+                  "name": "Forum Museum Rönnskär",
+                  "text": "Un muzeu industrial pe râul Skellefte, prezentând istoria topitoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        21.271083,
+                        64.66869
+                  ]
+            },
+            {
+                  "name": "Ursvikens kyrka",
+                  "text": "O biserică locală în comunitatea Ursviken, lângă râul Skellefte.",
+                  "category": "religious",
+                  "coords": [
+                        21.184965,
+                        64.702864
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kyrka",
+                  "text": "O biserică modernă din lemn situată în Skelleftehamn.",
+                  "category": "religious",
+                  "coords": [
+                        21.241069,
+                        64.689972
+                  ]
+            },
+            {
+                  "name": "Sävenäs kapell",
+                  "text": "O mică capelă situată aproape de gura de vărsare a râului Skellefte.",
+                  "category": "religious",
+                  "coords": [
+                        21.210502,
+                        64.692681
+                  ]
             }
       ],
       "en": [
@@ -1643,6 +4568,42 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         21.165507,
                         64.66968
+                  ]
+            },
+            {
+                  "name": "Forum Museum Rönnskär",
+                  "text": "An industrial museum on the Skellefte River showcasing the history of the local smelting plant.",
+                  "category": "museum",
+                  "coords": [
+                        21.271083,
+                        64.66869
+                  ]
+            },
+            {
+                  "name": "Ursvikens kyrka",
+                  "text": "A local church serving the Ursviken community by the Skellefte River.",
+                  "category": "religious",
+                  "coords": [
+                        21.184965,
+                        64.702864
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kyrka",
+                  "text": "A modern wooden church located in Skelleftehamn.",
+                  "category": "religious",
+                  "coords": [
+                        21.241069,
+                        64.689972
+                  ]
+            },
+            {
+                  "name": "Sävenäs kapell",
+                  "text": "A small chapel located near the mouth of the Skellefte River.",
+                  "category": "religious",
+                  "coords": [
+                        21.210502,
+                        64.692681
                   ]
             }
       ]
@@ -1691,7 +4652,196 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-skellefte-river-nature-v2.webp",
   },
   {
-    id: "sweden-brattfallet-waterfall-nature-v2",
+    id: "sweden-brattfallet-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ginbergsängen",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Brattfallet, das für seine unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.545423,
+                        60.127993
+                  ]
+            },
+            {
+                  "name": "Ekshärads hembygdsgård",
+                  "text": "Ein Heimatmuseum in Brattfallet, das lokale Geschichte und Traditionen präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.498546,
+                        60.175314
+                  ]
+            },
+            {
+                  "name": "Ekshärads kyrkstallar",
+                  "text": "Historische Kirchenställe in Brattfallet, die einst von Kirchgängern genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.49831,
+                        60.173464
+                  ]
+            },
+            {
+                  "name": "Ekshäradspelaren",
+                  "text": "Ein Denkmal in Brattfallet, das an die lokale Kultur erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        13.496916,
+                        60.173429
+                  ]
+            },
+            {
+                  "name": "Mini golf",
+                  "text": "Ein Minigolfplatz in Brattfallet für Freizeit und Unterhaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.496182,
+                        60.171197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ginbergsängen",
+                  "text": "Természetvédelmi terület Brattfallet közelében, amely érintetlen környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.545423,
+                        60.127993
+                  ]
+            },
+            {
+                  "name": "Ekshärads hembygdsgård",
+                  "text": "Helytörténeti múzeum Brattfalletben, amely a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        13.498546,
+                        60.175314
+                  ]
+            },
+            {
+                  "name": "Ekshärads kyrkstallar",
+                  "text": "Történelmi templomi istállók Brattfalletben, amelyeket egykor a hívők használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.49831,
+                        60.173464
+                  ]
+            },
+            {
+                  "name": "Ekshäradspelaren",
+                  "text": "Emlékmű Brattfalletben, amely a helyi kultúrának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        13.496916,
+                        60.173429
+                  ]
+            },
+            {
+                  "name": "Mini golf",
+                  "text": "Minigolfpálya Brattfalletben, amely kikapcsolódást és szórakozást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.496182,
+                        60.171197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ginbergsängen",
+                  "text": "O rezervație naturală lângă Brattfallet, cunoscută pentru mediul său natural nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        13.545423,
+                        60.127993
+                  ]
+            },
+            {
+                  "name": "Ekshärads hembygdsgård",
+                  "text": "Un muzeu de istorie locală din Brattfallet, care prezintă tradițiile și istoria regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        13.498546,
+                        60.175314
+                  ]
+            },
+            {
+                  "name": "Ekshärads kyrkstallar",
+                  "text": "Grajduri bisericești istorice din Brattfallet, folosite odinioară de enoriași.",
+                  "category": "landmark",
+                  "coords": [
+                        13.49831,
+                        60.173464
+                  ]
+            },
+            {
+                  "name": "Ekshäradspelaren",
+                  "text": "Un monument în Brattfallet care comemorează cultura locală.",
+                  "category": "historical",
+                  "coords": [
+                        13.496916,
+                        60.173429
+                  ]
+            },
+            {
+                  "name": "Mini golf",
+                  "text": "Un teren de minigolf în Brattfallet pentru recreere și divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        13.496182,
+                        60.171197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ginbergsängen",
+                  "text": "A nature reserve near Brattfallet known for its untouched natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        13.545423,
+                        60.127993
+                  ]
+            },
+            {
+                  "name": "Ekshärads hembygdsgård",
+                  "text": "A local heritage museum in Brattfallet showcasing regional history and traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        13.498546,
+                        60.175314
+                  ]
+            },
+            {
+                  "name": "Ekshärads kyrkstallar",
+                  "text": "Historic church stables in Brattfallet, once used by churchgoers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.49831,
+                        60.173464
+                  ]
+            },
+            {
+                  "name": "Ekshäradspelaren",
+                  "text": "A monument in Brattfallet commemorating the local culture.",
+                  "category": "historical",
+                  "coords": [
+                        13.496916,
+                        60.173429
+                  ]
+            },
+            {
+                  "name": "Mini golf",
+                  "text": "A mini golf course in Brattfallet offering recreation and entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        13.496182,
+                        60.171197
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SE",
     name: { de: "Brattfallet", hu: "Brattfallet-vízesés", ro: "Cascada Brattfallet", en: "Brattfallet" },
@@ -1736,7 +4886,160 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-brattfallet-waterfall-nature-v2.webp",
   },
   {
-    id: "sweden-angso-island-nature-v2", "sights": {"de": [{"name": "Gärdsnäs strand", "text": "Gärdsnäs strand bietet eine idyllische Kulisse auf der schwedischen Insel Ängsö inmitten des Aengsoe Nationalparks. Besucher erwartet hier eine naturnahe Umgebung, die sich hervorragend für entspannte Spaziergänge und eine Erfrischung im Wasser eignet. Wer die schwedische Natur schätzt, findet hier viel Ruhe. An warmen Sommertagen lohnt sich ein längerer Aufenthalt in diesem Inselidyll.", "category": "recreational", "coords": [18.720668, 59.627616]}, {"name": "Gärdsnäs östra badplats", "text": "Gärdsnäs östra badplats liegt auf der Insel Ängsö.", "category": "recreational", "coords": [18.738662, 59.6248]}], "hu": [{"name": "Gärdsnäs strand", "text": "A Gärdsnäs strand festői környezetet kínál a svéd Ängsö szigeten, az Aengsoe Nemzeti Park szívében. A látogatókat természetközeli atmoszféra várja, amely kiválóan alkalmas pihentető sétákra és egy kis frissítő fürdőzésre. Aki értékeli a svéd táj nyugalmát, itt biztosan megtalálja a számítását. Meleg nyári napokon érdemes hosszabb időt eltölteni ezen a szigeti menedékhelyen.", "category": "recreational", "coords": [18.720668, 59.627616]}, {"name": "Gärdsnäs östra badplats", "text": "Gärdsnäs östra badplats az Ängsö szigeten található.", "category": "recreational", "coords": [18.738662, 59.6248]}], "ro": [{"name": "Gärdsnäs strand", "text": "Gärdsnäs strand oferă un cadru idilic pe insula suedeză Ängsö, situată în Parcul Național Aengsoe. Vizitatorii sunt întâmpinați de un mediu natural deosebit, ideal pentru plimbări relaxante și o baie răcoritoare. Cei care apreciază liniștea peisajelor scandinave se vor bucura de o atmosferă serenă. În zilele călduroase de vară, acest refugiu insular merită explorat pe îndelete.", "category": "recreational", "coords": [18.720668, 59.627616]}, {"name": "Gärdsnäs östra badplats", "text": "Gärdsnäs östra badplats este situată pe insula Ängsö.", "category": "recreational", "coords": [18.738662, 59.6248]}], "en": [{"name": "Gärdsnäs strand", "text": "Gärdsnäs strand offers an idyllic setting on the Swedish island of Ängsö within Aengsoe National Park. Visitors can expect a natural environment that is perfectly suited for relaxing walks and a refreshing dip in the water. Anyone who appreciates the serenity of Swedish landscapes will find plenty of peace here. On warm summer days, it is well worth spending an extended amount of time at this island retreat.", "category": "recreational", "coords": [18.720668, 59.627616]}, {"name": "Gärdsnäs östra badplats", "text": "Gärdsnäs östra badplats is located on Ängsö island.", "category": "recreational", "coords": [18.738662, 59.6248]}]},
+    id: "sweden-angso-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand bietet eine idyllische Kulisse auf der schwedischen Insel Ängsö inmitten des Aengsoe Nationalparks. Besucher erwartet hier eine naturnahe Umgebung, die sich hervorragend für entspannte Spaziergänge und eine Erfrischung im Wasser eignet. Wer die schwedische Natur schätzt, findet hier viel Ruhe. An warmen Sommertagen lohnt sich ein längerer Aufenthalt in diesem Inselidyll.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats liegt auf der Insel Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            },
+            {
+                  "name": "Gryten",
+                  "text": "Ein kleiner Leuchtturm im schwedischen Nationalpark Ängsö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.818544,
+                        59.618568
+                  ]
+            },
+            {
+                  "name": "Yxlan",
+                  "text": "Ein Leuchtfeuer in den Schären in der Nähe des Nationalparks Ängsö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.793929,
+                        59.591077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "A Gärdsnäs strand festői környezetet kínál a svéd Ängsö szigeten, az Aengsoe Nemzeti Park szívében. A látogatókat természetközeli atmoszféra várja, amely kiválóan alkalmas pihentető sétákra és egy kis frissítő fürdőzésre. Aki értékeli a svéd táj nyugalmát, itt biztosan megtalálja a számítását. Meleg nyári napokon érdemes hosszabb időt eltölteni ezen a szigeti menedékhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats az Ängsö szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            },
+            {
+                  "name": "Gryten",
+                  "text": "Kisméretű világítótorony a svédországi Ängsö Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.818544,
+                        59.618568
+                  ]
+            },
+            {
+                  "name": "Yxlan",
+                  "text": "Világítótorony a szigetvilágban, az Ängsö Nemzeti Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.793929,
+                        59.591077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand oferă un cadru idilic pe insula suedeză Ängsö, situată în Parcul Național Aengsoe. Vizitatorii sunt întâmpinați de un mediu natural deosebit, ideal pentru plimbări relaxante și o baie răcoritoare. Cei care apreciază liniștea peisajelor scandinave se vor bucura de o atmosferă serenă. În zilele călduroase de vară, acest refugiu insular merită explorat pe îndelete.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats este situată pe insula Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            },
+            {
+                  "name": "Gryten",
+                  "text": "Un mic far situat în Parcul Național Ängsö din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        18.818544,
+                        59.618568
+                  ]
+            },
+            {
+                  "name": "Yxlan",
+                  "text": "Un far situat în arhipelag, în apropierea Parcului Național Ängsö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.793929,
+                        59.591077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand offers an idyllic setting on the Swedish island of Ängsö within Aengsoe National Park. Visitors can expect a natural environment that is perfectly suited for relaxing walks and a refreshing dip in the water. Anyone who appreciates the serenity of Swedish landscapes will find plenty of peace here. On warm summer days, it is well worth spending an extended amount of time at this island retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats is located on Ängsö island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            },
+            {
+                  "name": "Gryten",
+                  "text": "A small lighthouse located in Sweden's Ängsö National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.818544,
+                        59.618568
+                  ]
+            },
+            {
+                  "name": "Yxlan",
+                  "text": "A lighthouse in the archipelago near Ängsö National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.793929,
+                        59.591077
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SE",
     name: { de: "Ängsö Nationalpark", hu: "Ängsö Nemzeti Park", ro: "Parcul Național Ängsö", en: "Ängsö National Park" },

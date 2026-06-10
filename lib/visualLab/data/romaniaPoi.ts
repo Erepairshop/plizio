@@ -21348,6 +21348,24 @@ export const romaniaCities: POI[] = [
                         26.098644,
                         44.441286
                   ]
+            },
+            {
+                  "name": "\"Maria Filotti\" Memorial Collection",
+                  "text": "Eine Sammlung in Bukarest, die an das Erbe der berühmten rumänischen Schauspielerin Maria Filotti erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        26.083925,
+                        44.435791
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "Dieses Museum ist dem Leben und Werk des berühmten rumänischen Komponisten George Enescu gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
             }
       ],
       "hu": [
@@ -22108,6 +22126,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.098644,
                         44.441286
+                  ]
+            },
+            {
+                  "name": "\"Maria Filotti\" Memorial Collection",
+                  "text": "Bukaresti gyűjtemény, amely a híres román színésznő, Maria Filotti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        26.083925,
+                        44.435791
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "Ez a múzeum a híres román zeneszerző, George Enescu életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
                   ]
             }
       ],
@@ -22870,6 +22906,24 @@ export const romaniaCities: POI[] = [
                         26.098644,
                         44.441286
                   ]
+            },
+            {
+                  "name": "\"Maria Filotti\" Memorial Collection",
+                  "text": "O colecție memorială din București ce păstrează moștenirea faimoasei actrițe române Maria Filotti.",
+                  "category": "museum",
+                  "coords": [
+                        26.083925,
+                        44.435791
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "Acest muzeu este dedicat vieții și creației celebrului compozitor român George Enescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
             }
       ],
       "en": [
@@ -23630,6 +23684,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.098644,
                         44.441286
+                  ]
+            },
+            {
+                  "name": "\"Maria Filotti\" Memorial Collection",
+                  "text": "A collection in Bucharest preserving the legacy of the famous Romanian actress Maria Filotti.",
+                  "category": "museum",
+                  "coords": [
+                        26.083925,
+                        44.435791
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "This museum is dedicated to the life and work of the famous Romanian composer George Enescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
                   ]
             }
       ]
@@ -29894,6 +29966,33 @@ export const romaniaCities: POI[] = [
                         27.597545,
                         47.194716
                   ]
+            },
+            {
+                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
+                  "text": "Ein Gedenkmuseum in Iași, das dem Staatsmann und Historiker Mihail Kogălniceanu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "\"Moldavia\" National Museum Complex",
+                  "text": "Ein bedeutender Museumskomplex in Iași, der im neogotischen Kulturpalast untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.586781,
+                        47.157598
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Literature",
+                  "text": "Ein Museum in Iași, das sich der reichen literarischen Tradition und den Werken rumänischer Schriftsteller widmet.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
             }
       ],
       "hu": [
@@ -30122,6 +30221,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.597545,
                         47.194716
+                  ]
+            },
+            {
+                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
+                  "text": "Jászvásári emlékmúzeum, amely Mihail Kogălniceanu államférfi és történész emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "\"Moldavia\" National Museum Complex",
+                  "text": "Jelentős jászvásári múzeumi komplexum, amely a neogótikus stílusú Kultúrpalotában található.",
+                  "category": "museum",
+                  "coords": [
+                        27.586781,
+                        47.157598
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Literature",
+                  "text": "Jászvásári múzeum, amely a gazdag irodalmi hagyományoknak és a román írók műveinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
                   ]
             }
       ],
@@ -30352,6 +30478,33 @@ export const romaniaCities: POI[] = [
                         27.597545,
                         47.194716
                   ]
+            },
+            {
+                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
+                  "text": "Un muzeu memorial din Iași dedicat omului de stat și istoricului Mihail Kogălniceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "\"Moldavia\" National Museum Complex",
+                  "text": "Un complex muzeal important din Iași, găzduit în interiorul Palatului Culturii construit în stil neogotic.",
+                  "category": "museum",
+                  "coords": [
+                        27.586781,
+                        47.157598
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Literature",
+                  "text": "Un muzeu din Iași dedicat bogatei tradiții literare și operelor scriitorilor români.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
             }
       ],
       "en": [
@@ -30580,6 +30733,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.597545,
                         47.194716
+                  ]
+            },
+            {
+                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
+                  "text": "A memorial museum in Iași dedicated to the statesman and historian Mihail Kogălniceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "\"Moldavia\" National Museum Complex",
+                  "text": "A major museum complex in Iași, housed within the neo-Gothic Palace of Culture.",
+                  "category": "museum",
+                  "coords": [
+                        27.586781,
+                        47.157598
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Literature",
+                  "text": "A museum in Iași dedicated to the rich literary tradition and the works of Romanian writers.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
                   ]
             }
       ]
@@ -33829,6 +34009,15 @@ export const romaniaCities: POI[] = [
                         25.8569,
                         47.5931
                   ]
+            },
+            {
+                  "name": "Podul de la Cetate",
+                  "text": "Eine historische Brücke in Gura Humorului.",
+                  "category": "historical",
+                  "coords": [
+                        25.905446,
+                        47.559421
+                  ]
             }
       ],
       "hu": [
@@ -33850,6 +34039,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.8569,
                         47.5931
+                  ]
+            },
+            {
+                  "name": "Podul de la Cetate",
+                  "text": "Történelmi híd Gura Humorului városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.905446,
+                        47.559421
                   ]
             }
       ],
@@ -33873,6 +34071,15 @@ export const romaniaCities: POI[] = [
                         25.8569,
                         47.5931
                   ]
+            },
+            {
+                  "name": "Podul de la Cetate",
+                  "text": "Un pod istoric situat în Gura Humorului.",
+                  "category": "historical",
+                  "coords": [
+                        25.905446,
+                        47.559421
+                  ]
             }
       ],
       "en": [
@@ -33894,6 +34101,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.8569,
                         47.5931
+                  ]
+            },
+            {
+                  "name": "Podul de la Cetate",
+                  "text": "A historic bridge located in Gura Humorului.",
+                  "category": "historical",
+                  "coords": [
+                        25.905446,
+                        47.559421
                   ]
             }
       ]
@@ -33970,6 +34186,15 @@ export const romaniaCities: POI[] = [
                         25.8964,
                         47.638711
                   ]
+            },
+            {
+                  "name": "Cacica Salt Mine",
+                  "text": "Ein historisches Salzbergwerk in Cacica, das für Besucher zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.898021,
+                        47.635015
+                  ]
             }
       ],
       "hu": [
@@ -34017,6 +34242,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.8964,
                         47.638711
+                  ]
+            },
+            {
+                  "name": "Cacica Salt Mine",
+                  "text": "Látogatható történelmi sóbánya a Suceava megyei Kacsika településen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.898021,
+                        47.635015
                   ]
             }
       ],
@@ -34066,6 +34300,15 @@ export const romaniaCities: POI[] = [
                         25.8964,
                         47.638711
                   ]
+            },
+            {
+                  "name": "Cacica Salt Mine",
+                  "text": "O mină de sare istorică din localitatea Cacica, deschisă vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.898021,
+                        47.635015
+                  ]
             }
       ],
       "en": [
@@ -34113,6 +34356,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.8964,
                         47.638711
+                  ]
+            },
+            {
+                  "name": "Cacica Salt Mine",
+                  "text": "A historic salt mine in Cacica, open for tourism and exploration.",
+                  "category": "landmark",
+                  "coords": [
+                        25.898021,
+                        47.635015
                   ]
             }
       ]
@@ -34496,7 +34748,160 @@ export const romaniaNature: POI[] = [
       fr: ["Le Siret possède le débit le plus élevé de tous les affluents du Danube en Roumanie.", "Son bassin versant couvre une grande partie de la région de la Moldavie.", "De nombreuses digues ont été érigées le long du fleuve pour la protection contre les crues.", "Le fleuve forme par endroits de vastes paysages de plaines alluviales à la flore riche.", "Des villes importantes comme Bacău et Roman sont situées à proximité immédiate de son cours.", "Les réservoirs sur le Siret sont également utilisés pour l'approvisionnement en eau industrielle.", "Le Siret est réputé pour ses populations de silures et de brochets.", "Dans l'Antiquité, le fleuve était mentionné sous le nom de 'Hierasus'."],
     },},
   {
-    id: "river-prut", type: "river", parent: "RO", coords: [28.1, 45.6],
+    id: "river-prut", "sights": {
+      "de": [
+            {
+                  "name": "Rezervația științifică „Prutul de Jos“",
+                  "text": "UNESCO-Biosphärenreservat am Beleu-See in der Republik Moldau.",
+                  "category": "natural",
+                  "coords": [
+                        28.13135,
+                        45.600825
+                  ]
+            },
+            {
+                  "name": "Muzeul Satului",
+                  "text": "Geschichts- und Ethnografiemuseum in Slobozia Mare, Republik Moldau.",
+                  "category": "museum",
+                  "coords": [
+                        28.054838,
+                        45.613362
+                  ]
+            },
+            {
+                  "name": "Casa Albă",
+                  "text": "Ein lokales Wahrzeichen in der Nähe von Văleni, Republik Moldau.",
+                  "category": "landmark",
+                  "coords": [
+                        28.1323,
+                        45.621467
+                  ]
+            },
+            {
+                  "name": "Turnul Lebedelor",
+                  "text": "Turm zur Vogelbeobachtung am Beleu-See.",
+                  "category": "natural",
+                  "coords": [
+                        28.120569,
+                        45.605833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervația științifică „Prutul de Jos“",
+                  "text": "UNESCO bioszféra-rezervátum a moldovai Beleu-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        28.13135,
+                        45.600825
+                  ]
+            },
+            {
+                  "name": "Muzeul Satului",
+                  "text": "Történeti és néprajzi múzeum a moldovai Slobozia Mare településen.",
+                  "category": "museum",
+                  "coords": [
+                        28.054838,
+                        45.613362
+                  ]
+            },
+            {
+                  "name": "Casa Albă",
+                  "text": "Helyi jellegzetes épület a moldovai Văleni közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.1323,
+                        45.621467
+                  ]
+            },
+            {
+                  "name": "Turnul Lebedelor",
+                  "text": "Madármegfigyelő torony a Beleu-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        28.120569,
+                        45.605833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervația științifică „Prutul de Jos“",
+                  "text": "Rezervație a biosferei UNESCO pe Lacul Beleu, în Republica Moldova.",
+                  "category": "natural",
+                  "coords": [
+                        28.13135,
+                        45.600825
+                  ]
+            },
+            {
+                  "name": "Muzeul Satului",
+                  "text": "Muzeu de istorie și etnografie situat în Slobozia Mare, Republica Moldova.",
+                  "category": "museum",
+                  "coords": [
+                        28.054838,
+                        45.613362
+                  ]
+            },
+            {
+                  "name": "Casa Albă",
+                  "text": "O clădire emblematică locală situată lângă Văleni, Republica Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.1323,
+                        45.621467
+                  ]
+            },
+            {
+                  "name": "Turnul Lebedelor",
+                  "text": "Turn de observare a păsărilor la Lacul Beleu.",
+                  "category": "natural",
+                  "coords": [
+                        28.120569,
+                        45.605833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scientific Reserve \"Lower Pruth\"",
+                  "text": "UNESCO Biosphere Reserve on Lake Beleu in Moldova.",
+                  "category": "natural",
+                  "coords": [
+                        28.13135,
+                        45.600825
+                  ]
+            },
+            {
+                  "name": "Village Museum",
+                  "text": "History and Ethnography Museum in Slobozia Mare, Moldova.",
+                  "category": "museum",
+                  "coords": [
+                        28.054838,
+                        45.613362
+                  ]
+            },
+            {
+                  "name": "White House",
+                  "text": "A local landmark building near Văleni, Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.1323,
+                        45.621467
+                  ]
+            },
+            {
+                  "name": "Swan Tower",
+                  "text": "Birdwatching tower located at Lake Beleu.",
+                  "category": "natural",
+                  "coords": [
+                        28.120569,
+                        45.605833
+                  ]
+            }
+      ]
+}, type: "river", parent: "RO", coords: [28.1, 45.6],
     name: { de: "Pruth", hu: "Prut", ro: "Prut", en: "Prut" },
     description: {
       de: "Grenzfluss zwischen Rumänien und der Republik Moldau.",
@@ -34721,7 +35126,232 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-negoiu", type: "mountain", parent: "RO", coords: [24.55, 45.55],
+    id: "mountain-negoiu", "sights": {
+      "de": [
+            {
+                  "name": "Negoiu",
+                  "text": "Mit 2535 Metern der zweithöchste Berggipfel Rumäniens im Făgăraș-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Ein Berggipfel im zentralen Teil des Făgăraș-Gebirges in den Südkarpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Ein markanter Gipfel im Făgăraș-Massiv, bekannt für seine steilen Felswände.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Ein Berggipfel im Făgăraș-Gebirge, nahe dem gleichnamigen Gletschersee gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Ein Berggipfel im Hauptkamm des Făgăraș-Gebirges in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Marginea",
+                  "text": "Ein Berggipfel in den rumänischen Karpaten im Gebiet des Negoiu-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        24.54376,
+                        45.515464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Negoj-csúcs",
+                  "text": "Románia második legmagasabb hegycsúcsa a Fogarasi-havasokban, magassága 2535 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Serbota-csúcs",
+                  "text": "Hegycsúcs a Fogarasi-havasok központi részén, a Déli-Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Leszpez-csúcs",
+                  "text": "A Fogarasi-havasok egyik jelentős csúcsa, amely meredek sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Kalcun-csúcs",
+                  "text": "Hegycsúcs a Fogarasi-havasokban, az azonos nevű gleccsertó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Hegycsúcs a Fogarasi-havasok főgerincén, Romániában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Marginea",
+                  "text": "Hegycsúcs a Román-Kárpátokban, a Negoj-masszívum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.54376,
+                        45.515464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Negoiu",
+                  "text": "Al doilea cel mai înalt vârf muntos din România, situat în Munții Făgăraș la 2535 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Un vârf muntos în partea centrală a Munților Făgăraș, în Carpații Meridionali.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Un vârf proeminent în masivul Făgăraș, cunoscut pentru versanții săi stâncoși și abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Un vârf muntos în Munții Făgăraș, situat în apropierea lacului glaciar cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Un vârf muntos situat pe creasta principală a Munților Făgăraș din România.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Marginea",
+                  "text": "Un vârf muntos în Carpații Românești, în zona masivului Negoiu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.54376,
+                        45.515464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Negoiu",
+                  "text": "The second highest mountain peak in Romania, located in the Făgăraș Mountains at 2,535 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "A mountain peak in the central part of the Făgăraș Mountains in the Southern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "A prominent peak in the Făgăraș Massif, known for its steep and rocky slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "A mountain peak in the Făgăraș Mountains, located near the glacial lake of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "A mountain peak located on the main ridge of the Făgăraș Mountains in Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Marginea",
+                  "text": "A mountain peak in the Romanian Carpathians, within the Negoiu Massif area.",
+                  "category": "landmark",
+                  "coords": [
+                        24.54376,
+                        45.515464
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [24.55, 45.55],
     name: { de: "Negoiu", hu: "Negoj-csúcs", ro: "Vârful Negoiu", en: "Negoiu Peak" },
     description: { de: "Zweithöchster Gipfel Rumäniens (2.535 m).", hu: "Románia második legmagasabb csúcsa (2535 m).", ro: "Al doilea vârf ca înălțime (2.535 m).", en: "Romania's second-highest peak (2,535 m)." , es: "Segundo pico más alto de Rumanía (2.535 m).", pt: "Segundo pico mais alto da Romênia (2.535 m).", fr: "Deuxième plus haut sommet de Roumanie (2 535 m)."},
     facts: { de: ["Fogarascher Gebirge.", "Kreis Sibiu.", "Anspruchsvolle Touren."], hu: ["Fogarasi-havasok.", "Szeben megye.", "Kihívást jelentő túrák."], ro: ["Munții Făgăraș.", "Județul Sibiu.", "Trasee dificile."], en: ["Făgăraș range.", "Sibiu County.", "Challenging routes."] , es: ["Montes Făgăraș.", "Provincia de Sibiu.", "Rutas exigentes."], pt: ["Montes Făgăraș.", "Distrito de Sibiu.", "Trilhas exigentes."], fr: ["Monts Făgăraș.", "Județ de Sibiu.", "Randonnées exigeantes."]},
@@ -34773,7 +35403,196 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-retezat", type: "mountain", parent: "RO", coords: [22.87, 45.35],
+    id: "mountain-retezat", "sights": {
+      "de": [
+            {
+                  "name": "Peleaga",
+                  "text": "Der höchste Gipfel im Retezat-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "Ein markanter Berggipfel im Retezat-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "Ein bekannter Berggipfel, nach dem das Retezat-Gebirge benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Lacul Zănoaga Mare",
+                  "text": "Der tiefste Gletschersee Rumäniens im Retezat-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.822342,
+                        45.346155
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "Eine Sehenswürdigkeit in der Natur des Retezat-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelága-csúcs",
+                  "text": "A Retyezát-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Papusa-csúcs",
+                  "text": "Egy jelentős hegycsúcs a Retyezát-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Retyezát",
+                  "text": "Ismert hegycsúcs, amelyről a Retyezát-hegység a nevét kapta.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Zenóga-tó",
+                  "text": "Románia legmélyebb gleccsertava a Retyezát-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.822342,
+                        45.346155
+                  ]
+            },
+            {
+                  "name": "Tamás-szikla",
+                  "text": "Természeti látnivaló a Retyezát-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peleaga",
+                  "text": "Cel mai înalt vârf montan din Munții Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "Un vârf montan proeminent din Munții Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "Un vârf montan cunoscut care dă numele masivului Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Lacul Zănoaga Mare",
+                  "text": "Cel mai adânc lac glaciar din România, situat în Munții Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.822342,
+                        45.346155
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "O atracție turistică naturală în Munții Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peleaga",
+                  "text": "The highest mountain peak in the Retezat Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "A prominent mountain peak in the Retezat Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "A well-known mountain peak that gives its name to the Retezat range.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Zănoaga Mare Lake",
+                  "text": "The deepest glacial lake in Romania, located in the Retezat Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.822342,
+                        45.346155
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "A scenic attraction in the Retezat Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [22.87, 45.35],
     name: { de: "Retezat-Gebirge", hu: "Retyezát", ro: "Munții Retezat", en: "Retezat Mountains" },
     description: { de: "Gletscherseen-Paradies, ältester Nationalpark Rumäniens (1935).", hu: "Gleccsertavak paradicsoma, Románia legrégebbi nemzeti parkja (1935).", ro: "Paradisul lacurilor glaciare, cel mai vechi parc național (1935).", en: "Glacial lake paradise, Romania's oldest national park (1935)." , es: "Paraíso de lagos glaciares, el parque nacional más antiguo de Rumanía (1935).", pt: "Paraíso de lagos glaciares, o parque nacional mais antigo da Romênia (1935).", fr: "Paradis des lacs glaciaires, le plus ancien parc national de Roumanie (1935)."},
     facts: { de: ["Peleaga-Gipfel 2.509 m.", "Über 80 Gletscherseen.", "Größter See: Bucura."], hu: ["Peleaga-csúcs 2509 m.", "Több mint 80 gleccsertó.", "Legnagyobb tó: Bucura."], ro: ["Vf. Peleaga 2.509 m.", "Peste 80 de lacuri glaciare.", "Cel mai mare: Bucura."], en: ["Peleaga peak 2,509 m.", "Over 80 glacial lakes.", "Largest: Bucura."] , es: ["Pico Peleaga 2.509 m.", "Más de 80 lagos glaciares.", "Lago más grande: Bucura."], pt: ["Pico Peleaga 2.509 m.", "Mais de 80 lagos glaciares.", "Maior lago: Bucura."], fr: ["Sommet Peleaga 2 509 m.", "Plus de 80 lacs glaciaires.", "Plus grand lac : Bucura."]},
@@ -34799,7 +35618,304 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-piatra-craiului", type: "mountain", parent: "RO", coords: [25.2, 45.52],
+    id: "mountain-piatra-craiului", "sights": {
+      "de": [
+            {
+                  "name": "La Om",
+                  "text": "Der höchste Gipfel des Piatra-Craiului-Massivs in den Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.211679,
+                        45.526991
+                  ]
+            },
+            {
+                  "name": "Ascuțit",
+                  "text": "Ein markanter Berggipfel im Piatra-Craiului-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        25.230844,
+                        45.54702
+                  ]
+            },
+            {
+                  "name": "Sbirii",
+                  "text": "Ein Gipfel im Hauptkamm des Piatra-Craiului-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        25.215127,
+                        45.529932
+                  ]
+            },
+            {
+                  "name": "Căldării Ocolite",
+                  "text": "Ein Berggipfel im zentralen Teil des Piatra-Craiului-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        25.214136,
+                        45.528887
+                  ]
+            },
+            {
+                  "name": "Tămăşelului",
+                  "text": "Ein Gipfel im Kalksteingebirge der Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.193268,
+                        45.521813
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Ein Gipfel in den rumänischen Karpaten im Piatra-Craiului-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.201727,
+                        45.515102
+                  ]
+            },
+            {
+                  "name": "Pietrei",
+                  "text": "Ein Berggipfel im Gebirgsmassiv der Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.198946,
+                        45.510044
+                  ]
+            },
+            {
+                  "name": "Țimbalul Mic",
+                  "text": "Ein markanter Berggipfel im Kalksteinmassiv der Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.219895,
+                        45.538544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pásztor-csúcs",
+                  "text": "A Királykő-hegység legmagasabb csúcsa a Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.211679,
+                        45.526991
+                  ]
+            },
+            {
+                  "name": "Hegyes-csúcs",
+                  "text": "Egy jellegzetes hegycsúcs a Királykő-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.230844,
+                        45.54702
+                  ]
+            },
+            {
+                  "name": "Zbirii-csúcs",
+                  "text": "A Királykő-hegység főgerincének egyik csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.215127,
+                        45.529932
+                  ]
+            },
+            {
+                  "name": "Félreeső-völgykatlan-csúcs",
+                  "text": "Hegycsúcs a Királykő-hegység középső részén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.214136,
+                        45.528887
+                  ]
+            },
+            {
+                  "name": "Tămăşelului",
+                  "text": "Csúcs a Királykő-hegység mészkőszirtjei között.",
+                  "category": "landmark",
+                  "coords": [
+                        25.193268,
+                        45.521813
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Hegycsúcs a romániai Kárpátokban, a Királykő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.201727,
+                        45.515102
+                  ]
+            },
+            {
+                  "name": "Pietrei",
+                  "text": "Hegycsúcs a Királykő-hegység vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.198946,
+                        45.510044
+                  ]
+            },
+            {
+                  "name": "Țimbalul Mic",
+                  "text": "Jellegzetes hegycsúcs a Királykő mészkőtömbjében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.219895,
+                        45.538544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Om",
+                  "text": "Cel mai înalt vârf al masivului Piatra Craiului din Carpați.",
+                  "category": "landmark",
+                  "coords": [
+                        25.211679,
+                        45.526991
+                  ]
+            },
+            {
+                  "name": "Ascuțit",
+                  "text": "Un vârf montan proeminent din masivul Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.230844,
+                        45.54702
+                  ]
+            },
+            {
+                  "name": "Sbirii",
+                  "text": "Un vârf situat pe creasta principală a munților Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.215127,
+                        45.529932
+                  ]
+            },
+            {
+                  "name": "Căldării Ocolite",
+                  "text": "Un vârf montan situat în partea centrală a masivului Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.214136,
+                        45.528887
+                  ]
+            },
+            {
+                  "name": "Tămăşelului",
+                  "text": "Un vârf în masivul calcaros Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.193268,
+                        45.521813
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Un vârf din Carpații românești situat în zona Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.201727,
+                        45.515102
+                  ]
+            },
+            {
+                  "name": "Pietrei",
+                  "text": "Un vârf montan în masivul Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.198946,
+                        45.510044
+                  ]
+            },
+            {
+                  "name": "Țimbalul Mic",
+                  "text": "Un vârf montan distinctiv în masivul calcaros Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.219895,
+                        45.538544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Om",
+                  "text": "The highest peak of the Piatra Craiului massif in the Carpathian Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        25.211679,
+                        45.526991
+                  ]
+            },
+            {
+                  "name": "Ascuțit",
+                  "text": "A prominent mountain peak in the Piatra Craiului massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.230844,
+                        45.54702
+                  ]
+            },
+            {
+                  "name": "Sbirii",
+                  "text": "A peak located on the main ridge of the Piatra Craiului mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        25.215127,
+                        45.529932
+                  ]
+            },
+            {
+                  "name": "Căldării Ocolite",
+                  "text": "A mountain peak in the central part of the Piatra Craiului massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.214136,
+                        45.528887
+                  ]
+            },
+            {
+                  "name": "Tămăşelului",
+                  "text": "A peak in the limestone mountains of Piatra Craiului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.193268,
+                        45.521813
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "A peak in the Romanian Carpathians in the Piatra Craiului area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.201727,
+                        45.515102
+                  ]
+            },
+            {
+                  "name": "Pietrei",
+                  "text": "A mountain peak in the Piatra Craiului mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        25.198946,
+                        45.510044
+                  ]
+            },
+            {
+                  "name": "Țimbalul Mic",
+                  "text": "A distinctive mountain peak in the Piatra Craiului limestone massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.219895,
+                        45.538544
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [25.2, 45.52],
     name: { de: "Königstein", hu: "Királykő", ro: "Piatra Craiului", en: "Piatra Craiului" },
     description: { de: "Schmaler Kalksteinkamm im Süden Siebenbürgens.", hu: "Keskeny mészkőgerinc Erdély déli részén.", ro: "Creastă calcaroasă îngustă, sud-vestul Transilvaniei.", en: "Narrow limestone ridge in southern Transylvania." , es: "Estrecha cresta de piedra caliza en el sur de Transilvania.", pt: "Crista estreita de calcário no sul da Transilvânia.", fr: "Étroite crête de calcaire dans le sud de la Transylvanie."},
     facts: { de: ["Längster Kalkkamm in Rumänien.", "Endemische Nelke Dianthus callizonus.", "Nationalpark."], hu: ["Románia leghosszabb mészkőgerinc.", "Endemikus szegfű (Dianthus callizonus).", "Nemzeti park."], ro: ["Cea mai lungă creastă calcaroasă.", "Garofița Pietrei Craiului (endemică).", "Parc Național."], en: ["Longest limestone ridge in Romania.", "Endemic Dianthus callizonus.", "National park."] , es: ["Cresta de piedra caliza más larga de Rumanía.", "Clavelina endémica Dianthus callizonus.", "Parque Nacional."], pt: ["Crista de calcário mais longa da Romênia.", "Cravo endêmico Dianthus callizonus.", "Parque Nacional."], fr: ["Plus longue crête calcaire de Roumanie.", "Œillet endémique Dianthus callizonus.", "Parc National."]},
@@ -34825,7 +35941,160 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-apuseni", type: "mountain", parent: "RO", coords: [22.8, 46.55],
+    id: "mountain-apuseni", "sights": {
+      "de": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "Ein großes Naturschutzgebiet im Apuseni-Gebirge, bekannt für seine spektakulären Karstlandschaften und zahlreichen Höhlen.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Der beeindruckende Eingang zu einer der größten Höhlen Rumäniens mit einem gewaltigen Portal im Apuseni-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "Ein Höhleneingang im Apuseni-Gebirge, der zu einer Stätte führt, die für prähistorische menschliche Fußabdrücke und Eisformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "Eine malerische Schlucht im Apuseni-Gebirge mit steilen Kalksteinwänden und einer vielfältigen Gebirgsflora.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "Az Erdélyi-szigethegység nagy kiterjedésű természetvédelmi területe, amely látványos karsztvidékéről és számos barlangjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Románia egyik legnagyobb barlangjának lenyűgöző bejárata egy hatalmas sziklakapuval az Erdélyi-szigethegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "Barlangbejárat az Erdélyi-szigethegységben, amely prehisztorikus emberi lábnyomokról és jégképződményekről nevezetes helyszínre vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "Festői szurdok az Erdélyi-szigethegységben, meredek mészkőfalakkal és változatos hegyi flórával.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "O zonă protejată întinsă din Munții Apuseni, cunoscută pentru peisajele sale carstice spectaculoase și numeroasele peșteri.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Intrarea impresionantă a uneia dintre cele mai mari peșteri din România, având un portal masiv în Munții Apuseni.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "O intrare de peșteră din Munții Apuseni care duce la un sit faimos pentru urme de pași umani preistorici și formațiuni de gheață.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "Chei pitorești din Munții Apuseni, cu pereți abrupți de calcar și o floră montană diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "A large protected area in the Apuseni Mountains known for its spectacular karst landscapes and numerous caves.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "The impressive entrance to one of Romania's largest caves, featuring a massive portal in the Apuseni Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "A cave entrance in the Apuseni Mountains leading to a site famous for prehistoric human footprints and ice formations.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "A scenic gorge in the Apuseni Mountains featuring steep limestone walls and diverse mountain flora.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [22.8, 46.55],
     name: { de: "Apuseni-Gebirge", hu: "Erdélyi-szigethegység", ro: "Munții Apuseni", en: "Apuseni Mountains" },
     description: { de: "Karstlandschaft mit Höhlen und Dörfern.", hu: "Karsztos táj barlangokkal és hegyi falvakkal.", ro: "Zonă carstică cu peșteri și sate de munte.", en: "Karst landscape with caves and mountain villages." , es: "Paisaje kárstico con cuevas y pueblos tradicionales.", pt: "Paisagem cárstica com cavernas e aldeias tradicionais.", fr: "Paysage karstique avec grottes et villages typiques."},
     facts: { de: ["Scărișoara-Eishöhle.", "Motzen-Land (Țara Moților).", "Bihor-Gipfel 1.849 m."], hu: ["Szkerisórai Jégbarlang.", "Mócvidék (Țara Moților).", "Bihari-csúcs 1849 m."], ro: ["Ghețarul Scărișoara.", "Țara Moților.", "Vf. Bihor 1.849 m."], en: ["Scărișoara Ice Cave.", "Motzen Land (Țara Moților).", "Bihor Peak 1,849 m."] , es: ["Cueva de hielo Scărișoara.", "Tierra de los Moti (Țara Moților).", "Pico Bihor 1.849 m."], pt: ["Caverna de gelo Scărișoara.", "Terra dos Moți (Țara Moților).", "Pico Bihor 1.849 m."], fr: ["Grotte de glace de Scărișoara.", "Pays des Moti (Țara Moților).", "Pic Bihor 1 849 m."]},
@@ -34877,7 +36146,268 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-ceahlau", type: "mountain", parent: "RO", coords: [25.95, 46.98],
+    id: "mountain-ceahlau", "sights": {
+      "de": [
+            {
+                  "name": "Parcul Național Ceahlău",
+                  "text": "Dieser Nationalpark umfasst das Ceahlău-Massiv und ist für seine reiche Artenvielfalt und spektakulären Felsformationen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        25.939132,
+                        46.95627
+                  ]
+            },
+            {
+                  "name": "Cascada Duruitoarea (pragul inferior)",
+                  "text": "Der untere Teil des Duruitoarea-Wasserfalls ist ein beeindruckendes Naturziel im Ceahlău-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        25.935309,
+                        46.972732
+                  ]
+            },
+            {
+                  "name": "Klippele de Calcar",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke über die markanten Kalksteinformationen des Ceahlău bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.952718,
+                        46.948632
+                  ]
+            },
+            {
+                  "name": "Piatra Lăcrimată",
+                  "text": "Eine markante Felsformation im Ceahlău-Nationalpark, die mit lokalen Legenden und Sagen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.9396,
+                        46.962522
+                  ]
+            },
+            {
+                  "name": "Polița Scăiuș",
+                  "text": "Ein malerischer Ort oder Pfad im Ceahlău-Massiv, der für seine beeindruckende Gebirgslandschaft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.937901,
+                        46.969231
+                  ]
+            },
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "Diese berühmte Felsformation ist nach der legendären Figur Baba Dochia benannt und ein Symbol des Ceahlău-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            },
+            {
+                  "name": "Piatra cu Apă",
+                  "text": "Eine interessante Felsformation im Ceahlău-Nationalpark, die oft als Rastplatz für Wanderer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.962219,
+                        46.963205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csalhó Nemzeti park",
+                  "text": "Ez a nemzeti park a Ceahlău-masszívumot foglalja magában, gazdag élővilágáról és látványos sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.939132,
+                        46.95627
+                  ]
+            },
+            {
+                  "name": "Cascada Duruitoarea (pragul inferior)",
+                  "text": "A Duruitoarea-vízesés alsó része lenyűgöző természeti látnivaló a Ceahlău-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.935309,
+                        46.972732
+                  ]
+            },
+            {
+                  "name": "Klippele de Calcar",
+                  "text": "Egy kilátópont, amely széles körpanorámát nyújt a Ceahlău jellegzetes mészkőalakzataira.",
+                  "category": "natural",
+                  "coords": [
+                        25.952718,
+                        46.948632
+                  ]
+            },
+            {
+                  "name": "Piatra Lăcrimată",
+                  "text": "Egy jellegzetes sziklaalakzat a Ceahlău Nemzeti Parkban, amelyhez helyi legendák és mondák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.9396,
+                        46.962522
+                  ]
+            },
+            {
+                  "name": "Polița Scăiuș",
+                  "text": "Egy festői helyszín vagy ösvény a Ceahlău-masszívumban, amely lenyűgöző hegyi tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.937901,
+                        46.969231
+                  ]
+            },
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "Ez a híres sziklaalakzat a legendás Baba Dochia alakjáról kapta nevét, és a Ceahlău-hegység egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            },
+            {
+                  "name": "Piatra cu Apă",
+                  "text": "Egy érdekes sziklaalakzat a Ceahlău Nemzeti Parkban, amely gyakran szolgál pihenőhelyként a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        25.962219,
+                        46.963205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Național Ceahlău",
+                  "text": "Acest parc național cuprinde masivul Ceahlău și este cunoscut pentru biodiversitatea bogată și formațiunile stâncoase spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        25.939132,
+                        46.95627
+                  ]
+            },
+            {
+                  "name": "Cascada Duruitoarea (pragul inferior)",
+                  "text": "Partea inferioară a cascadei Duruitoarea este o destinație naturală impresionantă în masivul Ceahlău.",
+                  "category": "landmark",
+                  "coords": [
+                        25.935309,
+                        46.972732
+                  ]
+            },
+            {
+                  "name": "Klippele de Calcar",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra formațiunilor de calcar distincte din Ceahlău.",
+                  "category": "natural",
+                  "coords": [
+                        25.952718,
+                        46.948632
+                  ]
+            },
+            {
+                  "name": "Piatra Lăcrimată",
+                  "text": "O formațiune stâncoasă distinctă în Parcul Național Ceahlău, legată de legende și tradiții locale.",
+                  "category": "landmark",
+                  "coords": [
+                        25.9396,
+                        46.962522
+                  ]
+            },
+            {
+                  "name": "Polița Scăiuș",
+                  "text": "Un loc sau potecă pitorească în masivul Ceahlău, cunoscut pentru peisajul montan impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        25.937901,
+                        46.969231
+                  ]
+            },
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "Această formațiune stâncoasă faimoasă este numită după personajul legendar Baba Dochia și este un simbol al munților Ceahlău.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            },
+            {
+                  "name": "Piatra cu Apă",
+                  "text": "O formațiune stâncoasă interesantă în Parcul Național Ceahlău, care servește adesea ca loc de popas pentru turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        25.962219,
+                        46.963205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parcul Național Ceahlău",
+                  "text": "This national park encompasses the Ceahlău Massif and is known for its rich biodiversity and spectacular rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        25.939132,
+                        46.95627
+                  ]
+            },
+            {
+                  "name": "Duruitoarea Falls (lower part)",
+                  "text": "The lower part of the Duruitoarea waterfall is an impressive natural destination in the Ceahlău Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.935309,
+                        46.972732
+                  ]
+            },
+            {
+                  "name": "Klippele de Calcar",
+                  "text": "A viewpoint offering wide vistas over the distinct limestone formations of Ceahlău.",
+                  "category": "natural",
+                  "coords": [
+                        25.952718,
+                        46.948632
+                  ]
+            },
+            {
+                  "name": "Piatra Lăcrimată",
+                  "text": "A distinct rock formation in Ceahlău National Park, linked to local legends and folk tales.",
+                  "category": "landmark",
+                  "coords": [
+                        25.9396,
+                        46.962522
+                  ]
+            },
+            {
+                  "name": "Polița Scăiuș",
+                  "text": "A scenic spot or trail in the Ceahlău Massif, known for its impressive mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        25.937901,
+                        46.969231
+                  ]
+            },
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "This famous rock formation is named after the legendary figure Baba Dochia and is a symbol of the Ceahlău Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            },
+            {
+                  "name": "Piatra cu Apă",
+                  "text": "An interesting rock formation in Ceahlău National Park, often serving as a resting spot for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        25.962219,
+                        46.963205
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [25.95, 46.98],
     name: { de: "Ceahlău", hu: "Csalhó", ro: "Ceahlău", en: "Ceahlău" },
     description: { de: "Heiliger Berg der Moldau mit markanter Silhouette.", hu: "Moldva szent hegye, jellegzetes sziluettel.", ro: "Muntele sfânt al Moldovei, cu siluetă spectaculoasă.", en: "Sacred mountain of Moldavia with a striking silhouette." , es: "Montaña sagrada de Moldavia con una silueta distintiva.", pt: "Montanha sagrada da Moldávia com uma silueta distinta.", fr: "Montagne sacrée de Moldavie avec une silhouette distinctive."},
     facts: { de: ["Toaca-Gipfel 1.904 m.", "Nationalpark.", "Legenden um die Dochia-Felsen."], hu: ["Toaca-csúcs 1904 m.", "Nemzeti park.", "Dochia-sziklák legendái."], ro: ["Vf. Toaca 1.904 m.", "Parc Național.", "Legendele Babei Dochia."], en: ["Toaca peak 1,904 m.", "National park.", "Baba Dochia rock legends."] , es: ["Pico Toaca 1.904 m.", "Parque nacional.", "Leyendas sobre las rocas Dochia."], pt: ["Pico Toaca 1.904 m.", "Parque nacional.", "Lendas sobre as rochas Dochia."], fr: ["Pic Toaca 1 904 m.", "Parc national.", "Légendes autour des rochers Dochia."]},
@@ -34955,7 +36485,52 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "mountain-meridionali", type: "mountain", parent: "RO", coords: [24.0, 45.4],
+    id: "mountain-meridionali", "sights": {
+      "de": [
+            {
+                  "name": "Chica Lupului",
+                  "text": "Ein Berggipfel in den Südkarpaten Rumäniens.",
+                  "category": "landmark",
+                  "coords": [
+                        23.957899,
+                        45.397088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chica Lupului",
+                  "text": "Hegycsúcs a romániai Déli-Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.957899,
+                        45.397088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chica Lupului",
+                  "text": "Un vârf muntos situat în Carpații Meridionali din România.",
+                  "category": "landmark",
+                  "coords": [
+                        23.957899,
+                        45.397088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chica Lupului",
+                  "text": "A mountain peak located in the Southern Carpathians of Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.957899,
+                        45.397088
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [24.0, 45.4],
     name: { de: "Südkarpaten", hu: "Déli-Kárpátok", ro: "Carpații Meridionali", en: "Southern Carpathians" },
     description: { de: "Die \"Transsilvanischen Alpen\" mit den höchsten Gipfeln.", hu: "Az \"Erdélyi-havasok\", a legmagasabb csúcsokkal.", ro: "\"Alpii Transilvaniei\", cu cele mai înalte vârfuri.", en: "\"Transylvanian Alps\" with the highest peaks." , es: "Los 'Alpes de Transilvania' con los picos más altos.", pt: "Os 'Alpes da Transilvânia' com os picos mais altos.", fr: "Les « Alpes de Transylvanie » avec les plus hauts sommets."},
     facts: { de: ["Moldoveanu 2.544 m.", "Fogaraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina."], hu: ["Moldoveanu 2544 m.", "Fogaras, Bucsecs, Retyezát.", "Transzfogarasi és Transalpina utak."], ro: ["Moldoveanu 2.544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina."], en: ["Moldoveanu 2,544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan & Transalpina roads."] , es: ["Pico Moldoveanu 2.544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan y Transalpina."], pt: ["Pico Moldoveanu 2.544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan e Transalpina."], fr: ["Pic Moldoveanu 2 544 m.", "Făgăraș, Bucegi, Retezat.", "Transfăgărășan et Transalpina."]},
@@ -35009,7 +36584,232 @@ export const romaniaNature: POI[] = [
 
   // ---------- Tavak ----------
   {
-    id: "lake-sfanta-ana", type: "lake", parent: "RO-HR", coords: [25.88, 46.13],
+    id: "lake-sfanta-ana", "sights": {
+      "de": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "Ein bedeutendes Naturschutzgebiet in der Nähe des St.-Anna-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "Der höchste Gipfel des Ciomatu-Massivs in der Nähe des St.-Anna-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "Ein geschütztes Hochmoor in einem Vulkankrater beim St.-Anna-See.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Überreste einer historischen Stätte oder Felsformation beim St.-Anna-See.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "Eine natürliche Kohlendioxid-Quelle (Mofette) in der Region des St.-Anna-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "Ein Erholungsort beim St.-Anna-See, der für seine natürlichen Gas-Emanationen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohos-tözegláp - Szent Anna-tó",
+                  "text": "Fontos természetvédelmi terület a Szent Anna-tó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Nagy Csomád",
+                  "text": "A Csomád-hegység legmagasabb csúcsa a Szent Anna-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Mohos-tőzegláp",
+                  "text": "Vulkáni kráterben kialakult védett tőzegláp a Szent Anna-tó mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Alsó-Sólyomkő",
+                  "text": "Történelmi helyszín vagy sziklaalakzat maradványai a Szent Anna-tónál.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "Természetes szén-dioxid kiáramlás, azaz mofetta a Szent Anna-tó környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Vallató-mofetta",
+                  "text": "A Szent Anna-tónál található üdülőhely, amely gázfürdőjéről (mofetta) ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "O rezervație naturală importantă situată în apropierea Lacului Sfânta Ana.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "Cel mai înalt vârf al masivului Ciomatu, situat lângă Lacul Sfânta Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "O mlaștină oligotrofă protejată, situată într-un crater vulcanic lângă Lacul Sfânta Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Rămășițele unui sit istoric sau formațiune stâncoasă lângă Lacul Sfânta Ana.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "O emanație naturală de dioxid de carbon (mofetă) în zona Lacului Sfânta Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "O stațiune de lângă Lacul Sfânta Ana, cunoscută pentru emanațiile naturale de gaz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "An important nature reserve located near Saint Ana Lake.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "The highest peak of the Ciomatu massif near Saint Ana Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "A protected peat bog located in a volcanic crater near Saint Ana Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Remains of a historical site or rock formation near Saint Ana Lake.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "A natural carbon dioxide emission (mofette) in the Saint Ana Lake area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "A resort near Saint Ana Lake known for its natural gas emanations.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ]
+}, type: "lake", parent: "RO-HR", coords: [25.88, 46.13],
     name: { de: "St.-Anna-See", hu: "Szent Anna-tó", ro: "Lacul Sfânta Ana", en: "Saint Ana Lake" },
     description: { de: "Einziger Vulkankratersee Mittel- und Osteuropas.", hu: "Közép- és Kelet-Európa egyetlen vulkáni krátertava.", ro: "Singurul lac vulcanic din Europa Centrală și de Est.", en: "The only volcanic crater lake in Central-Eastern Europe." , es: "Único lago de cráter volcánico de Europa Central y Oriental.", pt: "Único lago de cratera vulcânica da Europa Central e de Leste.", fr: "Seul lac de cratère volcanique d'Europe centrale et orientale."},
     facts: { de: ["Höhe 950 m.", "Regenwasser-gespeist.", "Reservat seit 1979."], hu: ["950 m magasságban.", "Csak csapadék táplálja.", "1979 óta védett."], ro: ["Altitudine 950 m.", "Alimentat doar din precipitații.", "Rezervație din 1979."], en: ["At 950 m elevation.", "Fed only by rainfall.", "Reserve since 1979."] , es: ["Altitud 950 m.", "Alimentado por agua de lluvia.", "Reserva desde 1979."], pt: ["Altitude 950 m.", "Alimentado por água da chuva.", "Reserva desde 1979."], fr: ["Altitude 950 m.", "Alimenté par l'eau de pluie.", "Réserve depuis 1979."]},
@@ -35061,7 +36861,160 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "lake-vidraru", type: "lake", parent: "RO-AG", coords: [24.63, 45.35],
+    id: "lake-vidraru", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Poenari",
+                  "text": "Eine historische Bergfestung in Rumänien, die mit Vlad dem Pfähler in Verbindung gebracht wird.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Ein Berggipfel in den Karpaten in der Nähe des Vidraru-Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "Der Ausgangspunkt für einen beliebten Wanderweg durch eine spektakuläre Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Eine touristische Attraktion mit Dracula-Thematik an der Transfăgărășan-Straße.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poenari-vár",
+                  "text": "Egy történelmi hegyi erőd Romániában, amelyet Vlad Tepeșsel hoznak összefüggésbe.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Egy hegycsúcs a Kárpátokban, a Vidraru-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Stan-völgye",
+                  "text": "Egy népszerű, látványos szurdokon keresztülvezető túraútvonal kezdőpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Egy Drakula-témájú turisztikai látványosság a Transzfogarasi út mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Poenari",
+                  "text": "O cetate istorică pe munte în România, asociată cu Vlad Țepeș.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Un vârf montan în Carpați, situat în apropierea lacului Vidraru.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "Punctul de plecare pentru un traseu popular de drumeție printr-un canion spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "O atracție turistică cu tematică Dracula situată pe Transfăgărășan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poenari Castle",
+                  "text": "A historic clifftop fortress in Romania associated with Vlad the Impaler.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "A mountain peak in the Carpathians located near Lake Vidraru.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "The starting point for a popular hiking trail through a spectacular canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "A tourist attraction with a Dracula theme located along the Transfăgărășan road.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ]
+}, type: "lake", parent: "RO-AG", coords: [24.63, 45.35],
     name: { de: "Vidraru-Stausee", hu: "Vidraru-tó", ro: "Lacul Vidraru", en: "Lake Vidraru" },
     description: { de: "Berühmter Stausee an der Transfăgărășan.", hu: "Híres víztározó a Transzfogarasi út mentén.", ro: "Lac de acumulare celebru pe Transfăgărășan.", en: "Famous reservoir on the Transfăgărășan." , es: "Famoso embalse en la Transfăgărășan.", pt: "Albufeira famosa na Transfăgărășan.", fr: "Lac de barrage célèbre sur la Transfăgărășan."},
     facts: { de: ["Staumauer 166 m hoch.", "Fertiggestellt 1966.", "Wasserkraftwerk."], hu: ["166 m magas gát.", "1966-ban készült el.", "Vízerőmű."], ro: ["Baraj de 166 m.", "Finalizat în 1966.", "Hidrocentrală."], en: ["Dam 166 m tall.", "Completed in 1966.", "Hydro plant."] , es: ["Presa de 166 m de altura.", "Completado en 1966.", "Central hidroeléctrica."], pt: ["Barragem com 166 m de altura.", "Concluída em 1966.", "Central hidroelétrica."], fr: ["Barrage de 166 m de haut.", "Achevé en 1966.", "Centrale hydroélectrique."]},
@@ -35154,7 +37107,304 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "lake-rosu", type: "lake", parent: "RO-HR", coords: [25.78, 46.79],
+    id: "lake-rosu", "sights": {
+      "de": [
+            {
+                  "name": "Altar-Stein",
+                  "text": "Der Oltár-kő ist ein markanter Berggipfel in der Nähe des Roten Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Frosch-Schlucht",
+                  "text": "Die Bicaz-Klamm ist eine beeindruckende Schlucht in den Ostkarpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.818838,
+                        46.812005
+                  ]
+            },
+            {
+                  "name": "Roter See",
+                  "text": "Der Rote See ist ein natürlicher Stausee, der durch einen Erdrutsch entstand.",
+                  "category": "landmark",
+                  "coords": [
+                        25.786293,
+                        46.788818
+                  ]
+            },
+            {
+                  "name": "Balconul de Piatră",
+                  "text": "Das Balconul de Piatră ist ein Aussichtspunkt mit weitem Blick über die Region Red Lake.",
+                  "category": "natural",
+                  "coords": [
+                        25.788198,
+                        46.791988
+                  ]
+            },
+            {
+                  "name": "Gatter der Hölle",
+                  "text": "Das Höllentor ist eine markante Felsformation in der Nähe von Red Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Veranda der Hölle",
+                  "text": "Hell's porch ist ein Aussichtspunkt, der spektakuläre Ausblicke auf die umliegende Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "Das Steintor ist eine natürliche Felsattraktion in der Nähe von Red Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            },
+            {
+                  "name": "Poiană",
+                  "text": "Die Poiană ist eine malerische Lichtung in der Gegend von Red Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.800985,
+                        46.785899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oltár-kő",
+                  "text": "Az Oltár-kő a Békás-szoros egyik leglátványosabb sziklaszirthelye a Gyilkos-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Békás-szoros",
+                  "text": "A Békás-szoros egy lenyűgöző szurdokvölgy a Keleti-Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.818838,
+                        46.812005
+                  ]
+            },
+            {
+                  "name": "Gyilkos-tó",
+                  "text": "A Gyilkos-tó egy természetes torlasz-tó, amely egy hegyomlás következtében jött létre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.786293,
+                        46.788818
+                  ]
+            },
+            {
+                  "name": "Kőerkély",
+                  "text": "A Balconul de Piatră egy kilátópont, ahonnan panoráma nyílik a Gyilkos-tó környékére.",
+                  "category": "natural",
+                  "coords": [
+                        25.788198,
+                        46.791988
+                  ]
+            },
+            {
+                  "name": "Pokol kapuja",
+                  "text": "A Pokol kapuja egy jellegzetes sziklaképződmény a Gyilkos-tó vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Pokol tornáca",
+                  "text": "A Pokol tornáca egy kilátóhely, amely látványos panorámát nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "A Kőkapu egy természetes sziklaalakzat a Gyilkos-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            },
+            {
+                  "name": "Poiană",
+                  "text": "A tisztás egy festői nyílt terület a Gyilkos-tó térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.800985,
+                        46.785899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piatra Altarului (Turnu Bardosului)",
+                  "text": "Piatra Altarului este un vârf montan spectaculos situat în apropierea Lacului Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Cheile Bicazului",
+                  "text": "Cheile Bicazului reprezintă un defileu impresionant situat în Carpații Orientali.",
+                  "category": "landmark",
+                  "coords": [
+                        25.818838,
+                        46.812005
+                  ]
+            },
+            {
+                  "name": "Lacul Roșu",
+                  "text": "Lacul Roșu este un lac de baraj natural format în urma prăbușirii unui versant.",
+                  "category": "landmark",
+                  "coords": [
+                        25.786293,
+                        46.788818
+                  ]
+            },
+            {
+                  "name": "Balconul de Piatră",
+                  "text": "Balconul de Piatră este un punct de belvedere ce oferă o panoramă asupra zonei Lacului Roșu.",
+                  "category": "natural",
+                  "coords": [
+                        25.788198,
+                        46.791988
+                  ]
+            },
+            {
+                  "name": "Poarta ladului",
+                  "text": "Poarta Iadului este o formațiune stâncoasă remarcabilă situată în apropiere de Lacul Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Pridvorul ladului",
+                  "text": "Ceridacul Iadului este un punct de observație ce oferă vederi spectaculoase asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "Poarta de Piatră este o atracție naturală stâncoasă situată în zona Lacului Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            },
+            {
+                  "name": "Poiană",
+                  "text": "Poiana este o zonă deschisă pitorească situată în împrejurimile Lacului Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.800985,
+                        46.785899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altar stone",
+                  "text": "Altar stone is a prominent mountain peak located near Red Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Frog's canyon (Bicaz Canyon)",
+                  "text": "Frog's Canyon, also known as Bicaz Canyon, is an impressive gorge in the Eastern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.818838,
+                        46.812005
+                  ]
+            },
+            {
+                  "name": "Red Lake",
+                  "text": "Red Lake is a natural barrier lake formed by a landslide in the Eastern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.786293,
+                        46.788818
+                  ]
+            },
+            {
+                  "name": "Balconul de Piatră",
+                  "text": "Balconul de Piatră is a scenic viewpoint offering panoramic views of the Red Lake area.",
+                  "category": "natural",
+                  "coords": [
+                        25.788198,
+                        46.791988
+                  ]
+            },
+            {
+                  "name": "Hell's Gate",
+                  "text": "Hell's Gate is a striking rock formation located in the Red Lake vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Hell's porch",
+                  "text": "Hell's porch is a viewpoint providing spectacular vistas of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "Poarta de Piatra is a natural rock attraction located near Red Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            },
+            {
+                  "name": "Poiană",
+                  "text": "Poiană is a picturesque clearing in the Red Lake area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.800985,
+                        46.785899
+                  ]
+            }
+      ]
+}, type: "lake", parent: "RO-HR", coords: [25.78, 46.79],
     name: { de: "Roter See", hu: "Gyilkos-tó", ro: "Lacul Roșu", en: "Red Lake" },
     description: { de: "Naturlicher Stausee, entstanden 1837 durch einen Bergrutsch.", hu: "1837-ben földcsuszamlással keletkezett természetes tó.", ro: "Lac natural format în 1837 dintr-o alunecare de teren.", en: "Natural lake formed in 1837 by a landslide." , es: "Embalse natural, formado en 1837 por un desprendimiento de tierras.", pt: "Albufeira natural, formada em 1837 por um deslizamento de terras.", fr: "Lac de barrage naturel, formé en 1837 par un glissement de terrain."},
     facts: { de: ["Abgestorbene Baumstämme im Wasser.", "Nahe der Bicaz-Schlucht.", "Touristenmagnet."], hu: ["Kiálló faderekak a vízben.", "A Békási-szoros közelében.", "Turistamágnes."], ro: ["Trunchiuri de arbori în apă.", "Aproape de Cheile Bicazului.", "Atracție turistică."], en: ["Dead tree trunks in the water.", "Near Bicaz Gorge.", "Tourist magnet."] , es: ["Troncos de árboles muertos en el agua.", "Cerca de la garganta de Bicaz.", "Imán turístico."], pt: ["Troncos de árvores mortas na água.", "Perto da garganta de Bicaz.", "Íman de turistas."], fr: ["Troncs d'arbres morts dans l'eau.", "Près des gorges de Bicaz.", "Véritable aimant à touristes."]},
@@ -35260,7 +37510,160 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-apuseni-np", type: "mountain", parent: "RO", coords: [22.8, 46.55],
+    id: "nature-apuseni-np", "sights": {
+      "de": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "Ein weitläufiges Naturschutzgebiet in den Westrumänischen Karpaten.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Diese Höhle im Apuseni-Gebirge besitzt eines der größten Höhlenportale Rumäniens.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "Eine bedeutende Eishöhle im Apuseni-Nationalpark, bekannt für ihre prähistorischen Funde.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "Eine malerische Kalksteinschlucht im Herzen des Apuseni-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "Kiterjedt természetvédelmi terület az Erdélyi-középhegységben.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Ez az Erdélyi-középhegységben található barlang Románia egyik legnagyobb barlangbejáratával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "Jelentős jégbarlang az Erdélyi-szigethegységben, amely őskori leleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "Festői mészkőszurdok az Erdélyi-szigethegység szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "O arie protejată vastă situată în Munții Apuseni, cunoscută pentru peisajele sale carstice.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "Această peșteră din Munții Apuseni are unul dintre cele mai mari portaluri de peșteră din România.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "O peșteră importantă din Parcul Natural Apuseni, cunoscută pentru urmele de viață preistorică.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "O cheie calcaroasă pitorească situată în inima Parcului Natural Apuseni.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parcul Natural Apuseni",
+                  "text": "A vast protected area in the Apuseni Mountains, known for its karst landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        22.802147,
+                        46.583292
+                  ]
+            },
+            {
+                  "name": "Coiba Mare",
+                  "text": "This cave in the Apuseni Mountains features one of the largest cave entrances in Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        22.777965,
+                        46.537276
+                  ]
+            },
+            {
+                  "name": "Ghețarul de la Vârtop",
+                  "text": "An important ice cave in the Apuseni National Park, known for its prehistoric findings.",
+                  "category": "landmark",
+                  "coords": [
+                        22.7807,
+                        46.54082
+                  ]
+            },
+            {
+                  "name": "Cheile Gardisoarei",
+                  "text": "A picturesque limestone gorge located in the heart of the Apuseni National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.766396,
+                        46.546618
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [22.8, 46.55],
     name: { de: "Apuseni-Nationalpark", hu: "Erdélyi-szigethegység Nemzeti Park", ro: "Parcul Național Apuseni", en: "Apuseni National Park" },
     description: { de: "Karstlandschaft mit Höhlen und Wäldern.", hu: "Karsztos táj barlangokkal és erdőkkel.", ro: "Rezervație naturală carstică cu peșteri și păduri.", en: "Karst landscape with caves and forests." , es: "Paisaje kárstico con cuevas y bosques.", pt: "Paisagem cárstica com cavernas e florestas.", fr: "Paysage karstique avec grottes et forêts."},
     facts: { de: ["Über 1.500 Höhlen.", "Padis-Plateau.", "Karstphänomene."], hu: ["Több mint 1500 barlang.", "Pádis-fennsík.", "Karsztjelenségek."], ro: ["Peste 1.500 de peșteri.", "Platoul Padiș.", "Fenomene carstice spectaculoase."], en: ["Over 1,500 caves.", "Padiș Plateau.", "Spectacular karst phenomena."] , es: ["Más de 1.500 cuevas.", "Meseta de Padis.", "Fenómenos kársticos."], pt: ["Mais de 1.500 cavernas.", "Planalto de Padis.", "Fenômenos cársticos."], fr: ["Plus de 1 500 grottes.", "Plateau de Padis.", "Phénomènes karstiques."]},
@@ -35335,7 +37738,232 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-scarisoara", type: "landmark", parent: "RO-AB", coords: [22.81, 46.48],
+    id: "nature-scarisoara", "sights": {
+      "de": [
+            {
+                  "name": "Peștera și Ghețarul de la Scărișoara",
+                  "text": "Ein Museum, das Informationen über die Entstehung und Besonderheiten der Eishöhle von Scărișoara bietet.",
+                  "category": "museum",
+                  "coords": [
+                        22.810939,
+                        46.489793
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic Scărișoara",
+                  "text": "Ein Museum, das traditionelles Handwerk und den ländlichen Lebensstil der Apuseni-Berge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.815468,
+                        46.490706
+                  ]
+            },
+            {
+                  "name": "Cotețul Dobreștilor",
+                  "text": "Eine gewaltige Karstquelle und ein Höhleneingang im Naturpark Apuseni.",
+                  "category": "landmark",
+                  "coords": [
+                        22.809298,
+                        46.478221
+                  ]
+            },
+            {
+                  "name": "Peștera Poarta lui Ionele",
+                  "text": "Eine Höhle, die für ihr beeindruckendes Eingangsportal und ihre einzigartigen geologischen Formationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.838433,
+                        46.466828
+                  ]
+            },
+            {
+                  "name": "Ghetarul de la Zgurasti",
+                  "text": "Ein Höhleneingang, der zu einem komplexen unterirdischen System mit beeindruckenden Seen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.837053,
+                        46.466806
+                  ]
+            },
+            {
+                  "name": "Cheile Ordâncușei",
+                  "text": "Eine spektakuläre Kalksteinschlucht mit malerischen Wanderwegen durch steile Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.840115,
+                        46.46653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peștera și Ghețarul de la Scărișoara",
+                  "text": "A szkerisórai jégbarlang kialakulásáról és jellemzőiről tájékoztatást nyújtó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.810939,
+                        46.489793
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic Scărișoara",
+                  "text": "Az Erdélyi-szigethegység hagyományos mesterségeit és vidéki életmódját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.815468,
+                        46.490706
+                  ]
+            },
+            {
+                  "name": "Cotețul Dobreștilor",
+                  "text": "Erőteljes karsztforrás és barlangbejárat az Erdélyi-szigethegység Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.809298,
+                        46.478221
+                  ]
+            },
+            {
+                  "name": "János-Kapu barlang",
+                  "text": "Lenyűgöző bejárati portáljáról és egyedülálló geológiai képződményeiről ismert barlang.",
+                  "category": "landmark",
+                  "coords": [
+                        22.838433,
+                        46.466828
+                  ]
+            },
+            {
+                  "name": "Ghetarul de la Zgurasti",
+                  "text": "Barlangbejárat, amely egy bonyolult, lenyűgöző tavakkal rendelkező föld alatti rendszerbe vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.837053,
+                        46.466806
+                  ]
+            },
+            {
+                  "name": "Cheile Ordâncușei",
+                  "text": "Látványos mészkőszurdok, amely festői túraútvonalakat kínál a meredek sziklák között.",
+                  "category": "landmark",
+                  "coords": [
+                        22.840115,
+                        46.46653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peștera și Ghețarul de la Scărișoara",
+                  "text": "Un muzeu care oferă informații despre formarea și caracteristicile peșterii de gheață Scărișoara.",
+                  "category": "museum",
+                  "coords": [
+                        22.810939,
+                        46.489793
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic Scărișoara",
+                  "text": "Un muzeu care expune meșteșugurile tradiționale și stilul de viață rural din Munții Apuseni.",
+                  "category": "museum",
+                  "coords": [
+                        22.815468,
+                        46.490706
+                  ]
+            },
+            {
+                  "name": "Cotețul Dobreștilor",
+                  "text": "Un puternic izvor carstic și o intrare de peșteră în Parcul Natural Apuseni.",
+                  "category": "landmark",
+                  "coords": [
+                        22.809298,
+                        46.478221
+                  ]
+            },
+            {
+                  "name": "Peștera Poarta lui Ionele",
+                  "text": "O peșteră cunoscută pentru portalul său impresionant de la intrare și formațiunile geologice unice.",
+                  "category": "landmark",
+                  "coords": [
+                        22.838433,
+                        46.466828
+                  ]
+            },
+            {
+                  "name": "Ghetarul de la Zgurasti",
+                  "text": "O intrare de peșteră care duce la un sistem subteran complex cu lacuri impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        22.837053,
+                        46.466806
+                  ]
+            },
+            {
+                  "name": "Cheile Ordâncușei",
+                  "text": "Chei spectaculoase de calcar care oferă trasee de drumeție pitorești printre stânci abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        22.840115,
+                        46.46653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glacier and Cave of Scărișoara",
+                  "text": "A museum providing information about the formation and features of the Scărișoara ice cave.",
+                  "category": "museum",
+                  "coords": [
+                        22.810939,
+                        46.489793
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografic Scărișoara",
+                  "text": "A museum showcasing the traditional crafts and rural lifestyle of the Apuseni Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        22.815468,
+                        46.490706
+                  ]
+            },
+            {
+                  "name": "Cotețul Dobreștilor",
+                  "text": "A powerful karst spring and cave entrance within the Apuseni Natural Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.809298,
+                        46.478221
+                  ]
+            },
+            {
+                  "name": "Peștera Poarta lui Ionele",
+                  "text": "A cave known for its impressive portal entrance and unique geological formations.",
+                  "category": "landmark",
+                  "coords": [
+                        22.838433,
+                        46.466828
+                  ]
+            },
+            {
+                  "name": "Ghetarul de la Zgurasti",
+                  "text": "A cave entrance leading to a complex underground system with impressive lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        22.837053,
+                        46.466806
+                  ]
+            },
+            {
+                  "name": "Cheile Ordâncușei",
+                  "text": "A spectacular limestone gorge offering scenic hiking trails through steep cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        22.840115,
+                        46.46653
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-AB", coords: [22.81, 46.48],
     name: { de: "Eishöhle von Scărișoara", hu: "Szkerisórai-jégbarlang", ro: "Peștera Scărișoara", en: "Scărișoara Ice Cave" },
     description: { de: "Eine der größten Eishöhlen der Welt in den Apuseni-Bergen.", hu: "A világ egyik legnagyobb jégbarlangja az Erdélyi-szigethegységben.", ro: "Unul dintre cei mai mari ghețari subterani din lume.", en: "One of the world's largest underground glaciers in the Apuseni Mountains." , es: "Una de las cuevas de hielo más grandes del mundo en las montañas Apuseni.", pt: "Uma das maiores grutas de gelo do mundo nas montanhas Apuseni.", fr: "L'une des plus grandes grottes de glace au monde dans les monts Apuseni."},
     facts: { de: ["Eisvolumen ~100.000 m³.", "Eis ist über 3.500 Jahre alt.", "Höhe 1.165 m."], hu: ["Jégtömege kb. 100 000 m³.", "A jég több mint 3500 éves.", "1165 m magasságban."], ro: ["Volum de gheață de 100.000 m³.", "Gheață veche de peste 3.500 de ani.", "Altitudine 1.165 m."], en: ["Ice volume ~100,000 m³.", "Ice is over 3,500 years old.", "Elevation 1,165 m."] , es: ["Volumen de hielo ~100.000 m³.", "Hielo de más de 3.500 años.", "Altitud 1.165 m."], pt: ["Volume de gelo ~100.000 m³.", "O gelo tem mais de 3.500 anos.", "Altitude 1.165 m."], fr: ["Volume de glace ~100 000 m³.", "Glace de plus de 3 500 ans.", "Altitude 1 165 m."]},
@@ -35410,7 +38038,52 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-calimani-np", type: "mountain", parent: "RO", coords: [25.2, 47.1],
+    id: "nature-calimani-np", "sights": {
+      "de": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Der höchste Gipfel des Călimani-Gebirges in Rumänien mit vulkanischem Ursprung.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietrosz, Nagy-Köves",
+                  "text": "A romániai Kelemen-havasok legmagasabb, vulkáni eredetű csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Cel mai înalt vârf din Munții Călimani, de origine vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "The highest peak of the Călimani Mountains in Romania, of volcanic origin.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [25.2, 47.1],
     name: { de: "Călimani-Nationalpark", hu: "Kelemen-havasok Nemzeti Park", ro: "Parcul Național Călimani", en: "Călimani National Park" },
     description: { de: "Vulkanisches Gebirge mit bizarren Felsformationen.", hu: "Vulkáni eredetű hegység bizarr sziklaalakzatokkal.", ro: "Munți vulcanici cu formațiuni stâncoase spectaculoase.", en: "Volcanic mountains with bizarre rock formations." , es: "Montañas volcánicas con extrañas formaciones rocosas.", pt: "Montanhas vulcânicas com estranhas formações rochosas.", fr: "Massif volcanique avec d'étranges formations rocheuses."},
     facts: { de: ["Höchster Vulkankrater Rumäniens.", "Die \"12 Apostel\" Felsen.", "Pietrosu-Gipfel 2.100 m."], hu: ["Románia legnagyobb vulkáni krátere.", "A \"12 apostol\" sziklák.", "Pietrosu-csúcs 2100 m."], ro: ["Cel mai mare crater vulcanic stins.", "Stâncile \"12 Apostoli\".", "Vf. Pietrosu 2.100 m."], en: ["Largest extinct volcanic crater.", "The \"12 Apostles\" rocks.", "Pietrosu peak 2,100 m."] , es: ["Cráter volcánico más alto de Rumanía.", "Las rocas de los \"12 Apóstoles\".", "Pico Pietrosu 2.100 m."], pt: ["Cratera vulcânica mais alta da Romênia.", "As rochas dos \"12 Apóstolos\".", "Pico Pietrosu 2.100 m."], fr: ["Cratère volcanique le plus haut de Roumanie.", "Les rochers des « 12 Apôtres ».", "Sommet Pietrosu 2 100 m."]},
@@ -35460,7 +38133,196 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-macin-mountains", type: "mountain", parent: "RO", coords: [28.3, 45.2],
+    id: "nature-macin-mountains", "sights": {
+      "de": [
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Eine markante Felswand im Măcin-Gebirge, beliebt bei Kletterern und Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Peretele Memorial",
+                  "text": "Ein Felsabschnitt im Măcin-Gebirge, der häufig für den Bergsport genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        28.253059,
+                        45.210769
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "Eine senkrechte Felsformation in den Măcin-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Ein interessanter Punkt für Naturbeobachtungen im Măcin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            },
+            {
+                  "name": "Fierăria de Plăci",
+                  "text": "Historische Überreste im Măcin-Gebirge, die auf frühere menschliche Aktivitäten hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        28.251803,
+                        45.21099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Jellegzetes sziklafal a Măcin-hegységben, a sziklamászók és túrázók kedvelt helye.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Peretele Memorial",
+                  "text": "A Măcin-hegység egyik sziklaszakasza, amelyet gyakran használnak hegyi sportokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        28.253059,
+                        45.210769
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "Függőleges sziklaalakzat a Măcin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Érdekes pont a természet megfigyelésére a Măcin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            },
+            {
+                  "name": "Fierăria de Plăci",
+                  "text": "Történelmi maradványok a Măcin-hegységben, amelyek korábbi emberi tevékenységre utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        28.251803,
+                        45.21099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Un perete stâncos proeminent din Munții Măcin, popular pentru alpinism și drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Peretele Memorial",
+                  "text": "O secțiune de stâncă din Munții Măcin, utilizată frecvent pentru sporturi montane.",
+                  "category": "landmark",
+                  "coords": [
+                        28.253059,
+                        45.210769
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "O formațiune stâncoasă verticală din Munții Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Un punct de interes pentru observarea naturii în Munții Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            },
+            {
+                  "name": "Fierăria de Plăci",
+                  "text": "Vestigii istorice din Munții Măcin, care indică activități umane din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        28.251803,
+                        45.21099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peretele Taberei",
+                  "text": "A prominent rock face in the Măcin Mountains, popular for climbing and hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Peretele Memorial",
+                  "text": "A rock section in the Măcin Mountains frequently used for mountain sports.",
+                  "category": "landmark",
+                  "coords": [
+                        28.253059,
+                        45.210769
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "A vertical rock formation located in the Măcin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "An interesting point for nature observation within the Măcin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            },
+            {
+                  "name": "Fierăria de Plăci",
+                  "text": "Historical remains in the Măcin Mountains indicating past human activities.",
+                  "category": "historical",
+                  "coords": [
+                        28.251803,
+                        45.21099
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO", coords: [28.3, 45.2],
     name: { de: "Măcin-Gebirge", hu: "Măcin-hegység", ro: "Munții Măcinului", en: "Măcin Mountains" },
     description: { de: "Čltestes Gebirge Rumäniens in der Dobrudscha.", hu: "Románia legrégebbi hegysége Dobrudzsában.", ro: "Cei mai vechi munți din România, situați în Dobrogea.", en: "Oldest mountains in Romania, located in Dobruja." , es: "Las montañas más antiguas de Rumanía en Dobruja.", pt: "As montanhas mais antigas da Roménia em Dobrudja.", fr: "Les plus vieilles montagnes de Roumanie en Dobroudja."},
     facts: { de: ["Hercynische Gebirgsbildung.", "Höhe bis 467 m.", "Steppenartige Landschaft."], hu: ["Hercyniai hegységképződés.", "Magasság 467 m-ig.", "Sztyeppszerű táj."], ro: ["Formați în orogeneza hercinică.", "Altitudine max. 467 m.", "Biodiversitate de stepă."], en: ["Formed during Hercynian orogeny.", "Elevation up to 467 m.", "Steppe-like biodiversity."] , es: ["Orogenia herciniana.", "Altura hasta 467 m.", "Paisaje estepario."], pt: ["Orogenia hercínica.", "Altura até 467 m.", "Paisagem de estepe."], fr: ["Orogenèse hercynienne.", "Altitude jusqu'à 467 m.", "Paysage de steppe."]},
@@ -35495,6 +38357,33 @@ export const romaniaNature: POI[] = [
                         22.54662,
                         46.940068
                   ]
+            },
+            {
+                  "name": "Peștera Vadu Crișului",
+                  "text": "Eine bekannte Höhle am Crișul Repede, die für ihren unterirdischen Wasserfall berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510977,
+                        46.961984
+                  ]
+            },
+            {
+                  "name": "Belvedere Peretele Melcului",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das Tal des Crișul Repede bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.511148,
+                        46.957717
+                  ]
+            },
+            {
+                  "name": "Belverdere Terase",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die Kalksteinterrassen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        22.51178,
+                        46.966524
+                  ]
             }
       ],
       "hu": [
@@ -35505,6 +38394,33 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         22.54662,
                         46.940068
+                  ]
+            },
+            {
+                  "name": "Zichy-barlang",
+                  "text": "A Sebes-Körös mentén található barlang, amely földalatti vízeséséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510977,
+                        46.961984
+                  ]
+            },
+            {
+                  "name": "Belvedere Peretele Melcului",
+                  "text": "Kilátópont, amely széles panorámát nyújt a Sebes-Körös völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        22.511148,
+                        46.957717
+                  ]
+            },
+            {
+                  "name": "Püspök-kilátó",
+                  "text": "Magaslati kilátóhely, rálátással a régió mészkőteraszaira.",
+                  "category": "natural",
+                  "coords": [
+                        22.51178,
+                        46.966524
                   ]
             }
       ],
@@ -35517,6 +38433,33 @@ export const romaniaNature: POI[] = [
                         22.54662,
                         46.940068
                   ]
+            },
+            {
+                  "name": "Peștera Vadu Crișului",
+                  "text": "O peșteră cunoscută pe Crișul Repede, faimoasă pentru cascada sa subterană.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510977,
+                        46.961984
+                  ]
+            },
+            {
+                  "name": "Belvedere Peretele Melcului",
+                  "text": "Un punct de observare care oferă o vedere largă asupra văii Crișului Repede.",
+                  "category": "natural",
+                  "coords": [
+                        22.511148,
+                        46.957717
+                  ]
+            },
+            {
+                  "name": "Belverdere Terase",
+                  "text": "Un punct de belvedere ridicat cu vedere la terasele calcaroase ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        22.51178,
+                        46.966524
+                  ]
             }
       ],
       "en": [
@@ -35527,6 +38470,33 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         22.54662,
                         46.940068
+                  ]
+            },
+            {
+                  "name": "Vadu Crisului cave",
+                  "text": "A well-known cave on the Crișul Repede, famous for its underground waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510977,
+                        46.961984
+                  ]
+            },
+            {
+                  "name": "Belvedere Peretele Melcului",
+                  "text": "A viewpoint offering a wide view over the Crișul Repede valley.",
+                  "category": "natural",
+                  "coords": [
+                        22.511148,
+                        46.957717
+                  ]
+            },
+            {
+                  "name": "Belverdere Terase",
+                  "text": "An elevated viewpoint with a view of the limestone terraces of the region.",
+                  "category": "natural",
+                  "coords": [
+                        22.51178,
+                        46.966524
                   ]
             }
       ]
@@ -35555,7 +38525,232 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-ponor-fortresses", type: "landmark", parent: "RO-BH", coords: [22.7, 46.56],
+    id: "nature-ponor-fortresses", "sights": {
+      "de": [
+            {
+                  "name": "Peștera Ghețarul de la Focul Viu",
+                  "text": "Eine beeindruckende Eishöhle im Bihor-Gebirge, die für ihren fossilen Gletscher bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "Ein Höhleneingang in der Region der Ponor-Festungen im Apuseni-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Peștera Neagră",
+                  "text": "Ein Eingang zum Karstsystem der Schwarzen Höhle im Ponor-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685586,
+                        46.576925
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "Eines der größten Karstphänomene Rumäniens mit massiven Höhleneingängen und Dolinen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das Glăvoaia-Plateau bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Cheile Galbenei",
+                  "text": "Eine spektakuläre Schlucht mit zahlreichen Wasserfällen und Kalksteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eszkimó-jégbarlang",
+                  "text": "Lenyűgöző jégbarlang a Bihar-hegységben, amely fosszilis gleccseréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Hamlet-kapu barlang",
+                  "text": "Barlangbejárat az Erdélyi-szigethegységben található Csodavár vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Peștera Neagră",
+                  "text": "Bejárat a Fekete-barlang karsztrendszerébe a Csodavár környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685586,
+                        46.576925
+                  ]
+            },
+            {
+                  "name": "Csodavár",
+                  "text": "Románia egyik legnagyobb karsztjelensége hatalmas barlangbejáratokkal és töbrökkel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Glăvoaia-kilátó",
+                  "text": "Kilátópont, amely széles körpanorámát nyújt a Glăvoaia-fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Galbina-szoros",
+                  "text": "Látványos szurdok számos vízeséssel és mészkőalakzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peștera Ghețarul de la Focul Viu",
+                  "text": "O peșteră de gheață impresionantă din Munții Bihor, cunoscută pentru ghețarul său fosil.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "O intrare în peșteră situată în zona Cetăților Ponorului din Munții Apuseni.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Peștera Neagră",
+                  "text": "O intrare în sistemul carstic al Peșterii Negre din zona Ponor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685586,
+                        46.576925
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "Unul dintre cele mai mari fenomene carstice din România, cu intrări masive de peșteră și doline.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "Un punct de observare ce oferă o vedere panoramică asupra platoului Glăvoaia.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Cheile Galbenei",
+                  "text": "Chei spectaculoase cu numeroase cascade și formațiuni calcaroase.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Focul Viu Glacier Cave",
+                  "text": "An impressive ice cave in the Bihor Mountains, known for its fossil glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "A cave entrance located in the Ponor Fortresses area of the Apuseni Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Pestera Neagra",
+                  "text": "An entrance to the Black Cave karst system in the Ponor area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685586,
+                        46.576925
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "One of the largest karst phenomena in Romania, featuring massive cave entrances and sinkholes.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "An observation point offering a wide view over the Glăvoaia plateau.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Galbena Gorge",
+                  "text": "A spectacular gorge with numerous waterfalls and limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BH", coords: [22.7, 46.56],
     name: { de: "Ponor-Burgen (Festungen)", hu: "Ponor-várak (barlang)", ro: "Cetățile Ponorului", en: "Ponor Fortresses (Cave)" },
     description: { de: "Größtes Karstphänomen Rumäniens.", hu: "Románia legnagyobb karsztjelensége.", ro: "Cel mai mare complex carstic din România.", en: "The largest karst complex in Romania." , es: "El mayor fenómeno kárstico de Rumanía.", pt: "O maior fenómeno cársico da Roménia.", fr: "Le plus grand phénomène karstique de Roumanie."},
     facts: { de: ["Drei riesige Felstrichter.", "74 m hohes Naturtor.", "Unterirdischer Fluss."], hu: ["Három hatalmas víznyelő.", "74 m magas természetes kapu.", "Földalatti folyó."], ro: ["Trei doline uriașe.", "Portal înalt de 74 m.", "Râu subteran."], en: ["Three giant sinkholes.", "74-m high natural portal.", "Underground river."] , es: ["Tres enormes dolinas.", "Puerta natural de 74 m de altura.", "Río subterráneo."], pt: ["Três enormes dolinas.", "Portal natural com 74 m de altura.", "Rio subterrâneo."], fr: ["Trois immenses dolines.", "Porte naturelle de 74 m de haut.", "Rivière souterraine."]},
@@ -35580,7 +38775,124 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-cheile-nerei", type: "landmark", parent: "RO-CS", coords: [21.8, 44.9],
+    id: "nature-cheile-nerei", "sights": {
+      "de": [
+            {
+                  "name": "Wasserfall Cascada Beușnița",
+                  "text": "Eine Reihe beeindruckender Wasserfälle im Nationalpark Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Cascada Văioaga",
+                  "text": "Ein malerischer Wasserfall im Nera-Tal, bekannt für sein klares Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764014,
+                        44.916225
+                  ]
+            },
+            {
+                  "name": "Cheile Nerei",
+                  "text": "Eine spektakuläre Kalksteinschlucht in Rumänien, ideal für Wanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.799238,
+                        44.886591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada Beușnița",
+                  "text": "Lenyűgöző vízeséssorozat a Néra-szurdok–Beușnița Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Cascada Văioaga",
+                  "text": "Gleccser vízű, festői vízesés a Néra-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764014,
+                        44.916225
+                  ]
+            },
+            {
+                  "name": "Cheile Nerei",
+                  "text": "Látványos mészkőszurdok Romániában, amely ideális túrázásra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.799238,
+                        44.886591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada Beușnița",
+                  "text": "O serie de cascade spectaculoase în Parcul Național Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Cascada Văioaga",
+                  "text": "O cascadă pitorească în valea Nerei, cunoscută pentru apele sale limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764014,
+                        44.916225
+                  ]
+            },
+            {
+                  "name": "Cheile Nerei",
+                  "text": "Un defileu spectaculos de calcar în România, ideal pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        21.799238,
+                        44.886591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beușnița Waterfall",
+                  "text": "A series of stunning waterfalls in the Cheile Nerei-Beușnița National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Văioaga Waterfall",
+                  "text": "A picturesque waterfall in the Nera Valley, known for its clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764014,
+                        44.916225
+                  ]
+            },
+            {
+                  "name": "Nera Gorge",
+                  "text": "A spectacular limestone gorge in Romania, ideal for hiking and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        21.799238,
+                        44.886591
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-CS", coords: [21.8, 44.9],
     name: { de: "Nera-Schlucht", hu: "Néra-szurdok", ro: "Cheile Nerei", en: "Nera Gorges" },
     description: { de: "Längste Schlucht Rumäniens am Fluss Nera.", hu: "Románia leghosszabb szurdoka a Néra folyó mentén.", ro: "Cele mai lungi chei din România.", en: "The longest gorges in Romania, along the Nera River." , es: "La garganta más larga de Rumanía junto al río Nera.", pt: "A garganta mais longa da Roménia no rio Nera.", fr: "Les plus longues gorges de Roumanie sur la rivière Nera."},
     facts: { de: ["Länge ~22 km.", "Ochiul Beiului See.", "Beușnița Wasserfälle."], hu: ["Hossza kb. 22 km.", "Bég-szeme tó.", "Beușnița-vízesések."], ro: ["Lungime ~22 km.", "Lacul Ochiul Beiului.", "Cascadele Beușnița."], en: ["Length ~22 km.", "Ochiul Beiului Lake.", "Beușnița Waterfalls."] , es: ["Longitud ~22 km.", "Lago Ochiul Beiului.", "Cascadas de Beușnița."], pt: ["Comprimento ~22 km.", "Lago Ochiul Beiului.", "Cascatas de Beușnița."], fr: ["Longueur ~22 km.", "Lac Ochiul Beiului.", "Cascades de Beușnița."]},
@@ -35605,7 +38917,88 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-detunatele", type: "landmark", parent: "RO-AB", coords: [23.200, 46.266],
+    id: "nature-detunatele", "sights": {
+      "de": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Eine ethnografische Ausstellung in Detunatele.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            },
+            {
+                  "name": "Muzeul Buciumanilor",
+                  "text": "Ein Museum in Detunatele, das dem traditionellen Musikinstrument Bucium gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.201506,
+                        46.248393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Néprajzi kiállítás Detunatele településen.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            },
+            {
+                  "name": "Muzeul Buciumanilor",
+                  "text": "A hagyományos bucium hangszernek szentelt múzeum Detunatele településen.",
+                  "category": "museum",
+                  "coords": [
+                        23.201506,
+                        46.248393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "O expoziție etnografică în Detunatele.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            },
+            {
+                  "name": "Muzeul Buciumanilor",
+                  "text": "Un muzeu în Detunatele dedicat instrumentului muzical tradițional numit bucium.",
+                  "category": "museum",
+                  "coords": [
+                        23.201506,
+                        46.248393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic exhibition",
+                  "text": "An ethnographic exhibition in Detunatele.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            },
+            {
+                  "name": "Muzeul Buciumanilor",
+                  "text": "A museum in Detunatele dedicated to the traditional bucium musical instrument.",
+                  "category": "museum",
+                  "coords": [
+                        23.201506,
+                        46.248393
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-AB", coords: [23.200, 46.266],
     name: { de: "Detunatele", hu: "Detunáta", ro: "Detunatele", en: "Detunatele" },
     description: { de: "Einzigartige Basaltsäulen im Apuseni-Gebirge.", hu: "Egyedülálló bazaltoszlopok az Erdélyi-szigethegységben.", ro: "Coloane de bazalt unice în Munții Apuseni.", en: "Unique basalt columns in the Apuseni Mountains." , es: "Columnas de basalto únicas en las montañas de Apuseni.", pt: "Colunas de basalto únicas nas montanhas de Apuseni.", fr: "Colonnes de basalte uniques dans les monts Apuseni."},
     facts: { de: ["Vulkanischen Ursprungs.", "Zwei Hauptgipfel.", "Naturdenkmal."], hu: ["Vulkanikus eredetű.", "Két fő csúcsa van.", "Természeti műemlék."], ro: ["Origine vulcanică.", "Două vârfuri principale.", "Monument al naturii."], en: ["Volcanic origin.", "Two main peaks.", "Natural monument."] , es: ["Origen volcánico.", "Dos picos principales.", "Monumento natural."], pt: ["Origem vulcânica.", "Dois picos principais.", "Monumento natural."], fr: ["D'origine volcanique.", "Deux sommets principaux.", "Monument naturel."]},
@@ -35630,7 +39023,88 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-barsana-cave", type: "landmark", parent: "RO-MM", coords: [24.066, 47.816],
+    id: "nature-barsana-cave", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de Icoane și Carte Veche „Episcopul Gavril de Bârsana”",
+                  "text": "Ein Museum in Bârsăna, das religiösen Ikonen und seltenen Büchern gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.091721,
+                        47.792684
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn veche din Bârsana",
+                  "text": "Eine historische Holzkirche in Bârsăna, die zum UNESCO-Welterbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054392,
+                        47.820543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de Icoane și Carte Veche „Episcopul Gavril de Bârsana”",
+                  "text": "Múzeum Bârsăna területén, amely vallási ikonokat és ritka könyveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        24.091721,
+                        47.792684
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn veche din Bârsana",
+                  "text": "Történelmi fatemplom Barcánfalván, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054392,
+                        47.820543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Icoane și Carte Veche „Episcopul Gavril de Bârsana”",
+                  "text": "Un muzeu în Bârsăna dedicat icoanelor religioase și cărților rare.",
+                  "category": "museum",
+                  "coords": [
+                        24.091721,
+                        47.792684
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn veche din Bârsana",
+                  "text": "O biserică istorică de lemn din Bârsana, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054392,
+                        47.820543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Bishop Gavril de Barsana\" Museum of Icons and Rare Books",
+                  "text": "A museum in Bârsăna dedicated to religious icons and rare books.",
+                  "category": "museum",
+                  "coords": [
+                        24.091721,
+                        47.792684
+                  ]
+            },
+            {
+                  "name": "The old wooden church of Bârsana",
+                  "text": "A historic wooden church in Bârsana, part of the UNESCO World Heritage list.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054392,
+                        47.820543
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-MM", coords: [24.066, 47.816],
     name: { de: "Bârsăna-Höhle", hu: "Barcánfalvi-barlang", ro: "Peștera Bârsăna", en: "Bârsăna Cave" },
     description: { de: "Eine interessante Höhle in der Region Maramureș.", hu: "Érdekes barlang Máramaros régiójában.", ro: "O peșteră interesantă în regiunea Maramureș.", en: "An interesting cave in the Maramureș region." , es: "Una cueva interesante en la región de Maramureș.", pt: "Uma caverna interessante na região de Maramureș.", fr: "Une grotte intéressante dans la région de Maramureș."},
     facts: { de: ["In der Nähe des Klosters.", "Karstformationen.", "Lokale Legenden."], hu: ["A kolostor közelében.", "Karsztképződmények.", "Helyi legendák."], ro: ["Lângă mănăstire.", "Formațiuni carstice.", "Legende locale."], en: ["Near the monastery.", "Karst formations.", "Local legends."] , es: ["Cerca del monasterio.", "Formaciones kársticas.", "Leyendas locales."], pt: ["Perto do mosteiro.", "Formações cársticas.", "Lendas locais."], fr: ["À proximité du monastère.", "Formations karstiques.", "Légendes locales."]},
@@ -35680,7 +39154,88 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-bigar", type: "landmark", parent: "RO-CS", coords: [21.924, 45.003],
+    id: "nature-bigar", "sights": {
+      "de": [
+            {
+                  "name": "Cascada Bigăr",
+                  "text": "Ein einzigartiger Wasserfall in Rumänien, bekannt für seine glockenförmige Moosformation.",
+                  "category": "landmark",
+                  "coords": [
+                        21.959531,
+                        45.003476
+                  ]
+            },
+            {
+                  "name": "Păstrăvărie",
+                  "text": "Eine lokale Attraktion in der Nähe des Bigăr-Wasserfalls, die der Fischzucht gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.96671,
+                        45.00313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada Bigăr",
+                  "text": "Egyedülálló vízesés Romániában, amely harang alakú mohaképződményéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.959531,
+                        45.003476
+                  ]
+            },
+            {
+                  "name": "Păstrăvărie",
+                  "text": "Helyi látnivaló a Bigér-vízesés közelében, amelyet a haltenyésztésnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        21.96671,
+                        45.00313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada Bigăr",
+                  "text": "O cascadă unică din România, cunoscută pentru forma sa de clopot acoperită de mușchi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.959531,
+                        45.003476
+                  ]
+            },
+            {
+                  "name": "Păstrăvărie",
+                  "text": "O atracție locală lângă cascada Bigăr, dedicată pisciculturii.",
+                  "category": "landmark",
+                  "coords": [
+                        21.96671,
+                        45.00313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bigăr Waterfall",
+                  "text": "A unique waterfall in Romania, known for its bell-shaped moss formation.",
+                  "category": "landmark",
+                  "coords": [
+                        21.959531,
+                        45.003476
+                  ]
+            },
+            {
+                  "name": "Trout farm",
+                  "text": "A local attraction near Bigăr Waterfall dedicated to fish farming.",
+                  "category": "landmark",
+                  "coords": [
+                        21.96671,
+                        45.00313
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-CS", coords: [21.924, 45.003],
     name: { de: "Bigăr-Wasserfall", hu: "Bigér-vízesés", ro: "Cascada Bigăr", en: "Bigăr Waterfall" },
     description: { de: "Einer der ungewöhnlichsten Wasserfälle der Welt, bedeckt mit Moos.", hu: "A világ egyik legkülönlegesebb vízesése, mohával borítva.", ro: "Una dintre cele mai neobișnuite cascade din lume, acoperită cu mușchi.", en: "One of the most unusual waterfalls in the world, covered in moss." , es: "Una de las cascadas más inusuales del mundo, cubierta de musgo.", pt: "Uma das cachoeiras mais invulgares do mundo, coberta de musgo.", fr: "L'une des cascades les plus insolites au monde, recouverte de mousse."},
     facts: { de: ["Direkt am 45. Breitengrad.", "Glockenförmig.", "Teil des Nationalparks Cheile Nerei."], hu: ["A 45. szélességi körön.", "Harang alakú.", "A Néra-szurdok Nemzeti Park része."], ro: ["Pe paralela 45.", "Formă de clopot.", "Parte din Parcul Național Cheile Nerei."], en: ["On the 45th parallel.", "Bell-shaped.", "Part of Cheile Nerei National Park."] , es: ["Directamente en el paralelo 45.", "En forma de campana.", "Parte del Parque Nacional Cheile Nerei."], pt: ["Diretamente no paralelo 45.", "Em forma de sino.", "Parte do Parque Nacional Cheile Nerei."], fr: ["Directement sur le 45e parallèle.", "En forme de cloche.", "Fait partie du parc national Cheile Nerei."]},
@@ -35705,7 +39260,88 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-cascada-cailor", type: "landmark", parent: "RO-MM", coords: [24.795, 47.592],
+    id: "nature-cascada-cailor", "sights": {
+      "de": [
+            {
+                  "name": "Cascada Cailor",
+                  "text": "Der höchste Wasserfall Rumäniens, gelegen im Rodna-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.802259,
+                        47.590271
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "Ein markanter Berggipfel im Rodna-Gebirge in Nordrumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lóhavasi-vízesés",
+                  "text": "Románia legmagasabb vízesése a Radnai-havasokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.802259,
+                        47.590271
+                  ]
+            },
+            {
+                  "name": "Gargaló",
+                  "text": "A Radnai-havasok egyik jelentős hegycsúcsa Észak-Romániában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada Cailor",
+                  "text": "Cea mai înaltă cascadă din România, situată în Munții Rodnei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.802259,
+                        47.590271
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "Un vârf montan important din Munții Rodnei, în nordul României.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada Cailor",
+                  "text": "The highest waterfall in Romania, located in the Rodna Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.802259,
+                        47.590271
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "A prominent mountain peak in the Rodna Mountains of northern Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-MM", coords: [24.795, 47.592],
     name: { de: "Pferdewasserfall", hu: "Lóhavasi-vízesés", ro: "Cascada Cailor", en: "Horses' Waterfall" },
     description: { de: "Der höchste Wasserfall Rumäniens im Rodna-Gebirge.", hu: "Románia legmagasabb vízesése a Radnai-havasokban.", ro: "Cea mai înaltă cascadă din România, în Munții Rodnei.", en: "The highest waterfall in Romania, located in the Rodna Mountains." , es: "La cascada más alta de Rumanía, situada en las montañas de Rodna.", pt: "A cascata mais alta da Roménia, situada nas montanhas de Rodna.", fr: "La plus haute cascade de Roumanie, située dans les monts Rodna."},
     facts: { de: ["90 Meter Fallhöhe.", "In der Nähe von Borșa.", "Legende über Pferde."], hu: ["90 méteres esés.", "Borsa közelében.", "Legenda az elszabadult lovakról."], ro: ["Cădere de 90 metri.", "Lângă stațiunea Borșa.", "Legendă despre cai."], en: ["90-meter drop.", "Near Borșa resort.", "Legend about horses."] , es: ["90 metros de caída.", "Cerca de Borșa.", "Leyenda sobre caballos."], pt: ["90 metros de queda.", "Perto de Borșa.", "Lenda sobre cavalos."], fr: ["90 mètres de hauteur.", "Près de Borșa.", "Légende sur les chevaux."]},
@@ -35830,7 +39466,88 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-cheile-gradistei", type: "landmark", parent: "RO-BV", coords: [25.300, 45.450],
+    id: "nature-cheile-gradistei", "sights": {
+      "de": [
+            {
+                  "name": "La Stâncă",
+                  "text": "Ein Aussichtspunkt in der Grădiștei-Schlucht mit Blick auf die Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.322857,
+                        45.457567
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Ein Aussichtspunkt in der Grădiștei-Schlucht, der Panoramablicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.334995,
+                        45.452421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Stâncă",
+                  "text": "Kilátópont a Grădiștei-szurdokban, kilátással a természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        25.322857,
+                        45.457567
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Panorámás kilátóhely a Grădiștei-szurdok területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.334995,
+                        45.452421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Stâncă",
+                  "text": "Un punct de belvedere în Cheile Grădiștei, oferind vedere asupra peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        25.322857,
+                        45.457567
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Un punct de observație în Cheile Grădiștei care oferă vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        25.334995,
+                        45.452421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Stâncă",
+                  "text": "A viewpoint in the Grădiștei Gorges offering views of the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.322857,
+                        45.457567
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "A viewpoint in the Grădiștei Gorges providing panoramic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        25.334995,
+                        45.452421
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BV", coords: [25.300, 45.450],
     name: { de: "Grădiștei-Schlucht", hu: "Gradistye-szurdok", ro: "Cheile Grădiștei", en: "Grădiștei Gorges" },
     description: { de: "Malerische Schlucht in der Nähe von Moieciu.", hu: "Festői szurdok Moieciu közelében.", ro: "Chei pitorești în apropiere de Moieciu.", en: "Picturesque gorges near Moieciu." , es: "Pintoresca garganta cerca de Moieciu.", pt: "Garganta pitoresca perto de Moieciu.", fr: "Gorges pittoresques près de Moieciu."},
     facts: { de: ["Bekanntes Ferienresort.", "Blick auf die Karpaten.", "Sportanlagen."], hu: ["Ismert üdülőhely.", "Kilátás a Kárpátokra.", "Sportlétesítmények."], ro: ["Complex turistic cunoscut.", "Vedere spre Carpați.", "Facilități sportive."], en: ["Well-known tourist resort.", "View of the Carpathians.", "Sports facilities."] , es: ["Conocido complejo vacacional.", "Vistas a los Cárpatos.", "Instalaciones deportivas."], pt: ["Estância de férias conhecida.", "Vista para os Cárpatos.", "Instalações desportivas."], fr: ["Station de vacances connue.", "Vue sur les Carpates.", "Installations sportives."]},
@@ -35861,7 +39578,160 @@ export const romaniaNature: POI[] = [
 // ---------------------------------------------------------------------------
 export const romaniaHistorical: POI[] = [
   {
-    id: "hist-sarmizegetusa-regia", type: "historical", parent: "RO-HD", coords: [23.3117, 45.6225],
+    id: "hist-sarmizegetusa-regia", "sights": {
+      "de": [
+            {
+                  "name": "Sarmizegetusa Regia",
+                  "text": "Sarmizegetusa Regia war die Hauptstadt und das wichtigste religiöse Zentrum der Daker.",
+                  "category": "historical",
+                  "coords": [
+                        23.307265,
+                        45.619849
+                  ]
+            },
+            {
+                  "name": "Sanctuarul mic de calcar",
+                  "text": "Dies sind die Ruinen eines kleinen Kalkstein-Heiligtums in der antiken dakischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        23.310055,
+                        45.622135
+                  ]
+            },
+            {
+                  "name": "Sanctuar de andezit",
+                  "text": "Dieses Heiligtum in der dakischen Festung besteht aus markanten Andezit-Elementen.",
+                  "category": "historical",
+                  "coords": [
+                        23.310606,
+                        45.623109
+                  ]
+            },
+            {
+                  "name": "Cetatea Fetele Albe",
+                  "text": "Die Ruinen von Fetele Albe waren eine dakerische Siedlung und ein Heiligtum nahe der Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        23.279031,
+                        45.626127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarmizegetusa Regia",
+                  "text": "Sarmizegetusa Regia a dákok egykori fővárosa és legfontosabb vallási központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        23.307265,
+                        45.619849
+                  ]
+            },
+            {
+                  "name": "Sanctuarul mic de calcar",
+                  "text": "Egy kisebb mészkőszentély romjai az egykori dák főváros területén.",
+                  "category": "historical",
+                  "coords": [
+                        23.310055,
+                        45.622135
+                  ]
+            },
+            {
+                  "name": "Sanctuar de andezit",
+                  "text": "Ez a dák erődítményben található szentély jellegzetes andezit elemekből áll.",
+                  "category": "historical",
+                  "coords": [
+                        23.310606,
+                        45.623109
+                  ]
+            },
+            {
+                  "name": "Cetatea Fetele Albe",
+                  "text": "A Fetele Albe romjai egy dák település és szentély maradványai a főváros közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.279031,
+                        45.626127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarmizegetusa Regia",
+                  "text": "Sarmizegetusa Regia a fost capitala și cel mai important centru religios al dacilor.",
+                  "category": "historical",
+                  "coords": [
+                        23.307265,
+                        45.619849
+                  ]
+            },
+            {
+                  "name": "Sanctuarul mic de calcar",
+                  "text": "Acestea sunt ruinele unui sanctuar mic de calcar situat în incinta sacră a capitalei dace.",
+                  "category": "historical",
+                  "coords": [
+                        23.310055,
+                        45.622135
+                  ]
+            },
+            {
+                  "name": "Sanctuar de andezit",
+                  "text": "Acest sanctuar din cetatea dacică este alcătuit din elemente de andezit.",
+                  "category": "historical",
+                  "coords": [
+                        23.310606,
+                        45.623109
+                  ]
+            },
+            {
+                  "name": "Cetatea Fetele Albe",
+                  "text": "Ruinele de la Fetele Albe reprezintă o așezare și un sanctuar dacic situat lângă capitală.",
+                  "category": "historical",
+                  "coords": [
+                        23.279031,
+                        45.626127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarmizegetusa Regia",
+                  "text": "Sarmizegetusa Regia was the capital and most important religious center of the Dacians.",
+                  "category": "historical",
+                  "coords": [
+                        23.307265,
+                        45.619849
+                  ]
+            },
+            {
+                  "name": "Sanctuarul mic de calcar",
+                  "text": "These are the ruins of a small limestone sanctuary located within the sacred precinct of the Dacian capital.",
+                  "category": "historical",
+                  "coords": [
+                        23.310055,
+                        45.622135
+                  ]
+            },
+            {
+                  "name": "Sanctuar de andezit",
+                  "text": "This sanctuary in the Dacian fortress consists of distinct andesite elements.",
+                  "category": "historical",
+                  "coords": [
+                        23.310606,
+                        45.623109
+                  ]
+            },
+            {
+                  "name": "Cetatea Fetele Albe",
+                  "text": "The ruins of Fetele Albe represent a Dacian settlement and sanctuary located near the capital.",
+                  "category": "historical",
+                  "coords": [
+                        23.279031,
+                        45.626127
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-HD", coords: [23.3117, 45.6225],
     name: { de: "Sarmizegetusa Regia", hu: "Sarmizegetusa Regia", ro: "Sarmizegetusa Regia", en: "Sarmizegetusa Regia" },
     description: { de: "Hauptstadt des Dakerreiches, heute UNESCO-Welterbe.", hu: "A dák királyság fővárosa, ma UNESCO-örökség.", ro: "Capitala Regatului Dac, patrimoniu UNESCO.", en: "Capital of the Dacian kingdom, UNESCO World Heritage site." , es: "Capital del reino dacio, hoy Patrimonio de la Humanidad por la UNESCO.", pt: "Capital do reino dácio, hoje Património Mundial da UNESCO.", fr: "Capitale du royaume dace, aujourd'hui classée au patrimoine mondial de l'UNESCO."},
     facts: { de: ["Erobert 106 n. Chr. durch Kaiser Trajan.", "Heiligtum mit Sonnenkalender.", "Liegt auf 1.200 m Höhe."], hu: ["Kr. u. 106-ban foglalta el Traianus császár.", "Szentély napkalendáriummal.", "1200 m magasan fekszik."], ro: ["Cucerită în 106 d.Hr. de Traian.", "Sanctuarul cu calendar solar.", "La 1.200 m altitudine."], en: ["Conquered in 106 AD by Emperor Trajan.", "Sanctuary with solar calendar.", "At 1,200 m elevation."] , es: ["Conquistada en 106 d. C. por el emperador Trajano.", "Santuario con calendario solar.", "Situada a 1.200 m de altitud."], pt: ["Conquistada em 106 d. C. pelo imperador Trajano.", "Santuário com calendário solar.", "Situada a 1.200 m de altitude."], fr: ["Conquise en 106 apr. J.-C. par l'empereur Trajan.", "Sanctuaire avec calendrier solaire.", "Située à 1 200 m d'altitude."]},
@@ -35887,7 +39757,160 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-ulpia-traiana", type: "historical", parent: "RO-HD", coords: [22.7833, 45.5083],
+    id: "hist-ulpia-traiana", "sights": {
+      "de": [
+            {
+                  "name": "Sarmizegetusa Ulpia Traiana",
+                  "text": "Die Überreste der antiken Hauptstadt der römischen Provinz Dakien.",
+                  "category": "historical",
+                  "coords": [
+                        22.78663,
+                        45.516831
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie Sarmizegetusa",
+                  "text": "Ein Museum, das Artefakte und Funde aus der antiken römischen Stadt ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        22.787785,
+                        45.518424
+                  ]
+            },
+            {
+                  "name": "Forum of Ulpia Traiana Sarmizegetusa",
+                  "text": "Die Ruinen des zentralen Forums der antiken römischen Kolonie.",
+                  "category": "historical",
+                  "coords": [
+                        22.78775,
+                        45.513274
+                  ]
+            },
+            {
+                  "name": "Horrerum (depozit)",
+                  "text": "Überreste eines großen römischen Getreidespeichers zur Versorgung der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        22.787767,
+                        45.515137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarmizegetusa Ulpia Traiana",
+                  "text": "Az ókori római Dácia provincia fővárosának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        22.78663,
+                        45.516831
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie Sarmizegetusa",
+                  "text": "Múzeum, amely az ókori római városból származó műtárgyakat és leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.787785,
+                        45.518424
+                  ]
+            },
+            {
+                  "name": "Forum of Ulpia Traiana Sarmizegetusa",
+                  "text": "Az ókori római kolónia központi fórumának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        22.78775,
+                        45.513274
+                  ]
+            },
+            {
+                  "name": "Horrerum (depozit)",
+                  "text": "Egy nagy római magtár maradványai, amely a város ellátását szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        22.787767,
+                        45.515137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarmizegetusa Ulpia Traiana",
+                  "text": "Ruinele fostei capitale a provinciei romane Dacia.",
+                  "category": "historical",
+                  "coords": [
+                        22.78663,
+                        45.516831
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie Sarmizegetusa",
+                  "text": "Un muzeu care expune artefacte și descoperiri din orașul antic roman.",
+                  "category": "museum",
+                  "coords": [
+                        22.787785,
+                        45.518424
+                  ]
+            },
+            {
+                  "name": "Forum of Ulpia Traiana Sarmizegetusa",
+                  "text": "Ruinele forumului central al coloniei romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        22.78775,
+                        45.513274
+                  ]
+            },
+            {
+                  "name": "Horrerum (depozit)",
+                  "text": "Vestigiile unui mare depozit de cereale roman, folosit pentru aprovizionarea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        22.787767,
+                        45.515137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarmizegetusa Ulpia Traiana",
+                  "text": "The remains of the ancient capital of the Roman province of Dacia.",
+                  "category": "historical",
+                  "coords": [
+                        22.78663,
+                        45.516831
+                  ]
+            },
+            {
+                  "name": "Sarmizegetusa Archaeological Museum",
+                  "text": "A museum exhibiting artifacts and finds from the ancient Roman city.",
+                  "category": "museum",
+                  "coords": [
+                        22.787785,
+                        45.518424
+                  ]
+            },
+            {
+                  "name": "Forum of Ulpia Traiana Sarmizegetusa",
+                  "text": "The ruins of the central forum of the ancient Roman colony.",
+                  "category": "historical",
+                  "coords": [
+                        22.78775,
+                        45.513274
+                  ]
+            },
+            {
+                  "name": "Horrerum (depozit)",
+                  "text": "Remains of a large Roman granary used for the city's supply.",
+                  "category": "historical",
+                  "coords": [
+                        22.787767,
+                        45.515137
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-HD", coords: [22.7833, 45.5083],
     name: { de: "Ulpia Traiana Sarmizegetusa", hu: "Ulpia Traiana Sarmizegetusa", ro: "Ulpia Traiana Sarmizegetusa", en: "Ulpia Traiana Sarmizegetusa" },
     description: { de: "Hauptstadt der römischen Provinz Dacia.", hu: "Dacia római provincia fővárosa.", ro: "Capitala provinciei romane Dacia.", en: "Capital of the Roman province of Dacia." , es: "Capital de la provincia romana de Dacia.", pt: "Capital da província romana da Dácia.", fr: "Capitale de la province romaine de Dacie."},
     facts: { de: ["Gegründet um 106 n. Chr.", "Amphitheater erhalten.", "Kolonie mit Stadtrechten."], hu: ["Kr. u. 106 körül alapították.", "Megmaradt amfiteátrum.", "Városjogú colonia."], ro: ["Întemeiată cca 106 d.Hr.", "Amfiteatru conservat.", "Colonia cu drepturi depline."], en: ["Founded c. 106 AD.", "Preserved amphitheatre.", "Colony with full rights."] , es: ["Fundada hacia el 106 d. C.", "Anfiteatro conservado.", "Colonia con derechos de ciudad."], pt: ["Fundada por volta de 106 d. C.", "Anfiteatro preservado.", "Colónia com direitos de cidade."], fr: ["Fondée vers 106 apr. J.-C.", "Amphithéâtre préservé.", "Colonie dotée des droits de cité."]},
@@ -35913,7 +39936,232 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-histria", type: "historical", parent: "RO-CT", coords: [28.7767, 44.5469],
+    id: "hist-histria", "sights": {
+      "de": [
+            {
+                  "name": "Histria",
+                  "text": "Die Ruinen der ältesten griechischen Siedlung auf dem heutigen rumänischen Staatsgebiet am Schwarzen Meer.",
+                  "category": "historical",
+                  "coords": [
+                        28.775458,
+                        44.547975
+                  ]
+            },
+            {
+                  "name": "Cetatea antică Histria",
+                  "text": "Die antike Festung von Histria, ein bedeutendes archäologisches Denkmal der griechischen und römischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        28.774477,
+                        44.547645
+                  ]
+            },
+            {
+                  "name": "Complexul Muzeal Histria",
+                  "text": "Ein Museumskomplex in Histria, der Fundstücke aus der antiken Stadt und der Umgebung ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        28.770145,
+                        44.546031
+                  ]
+            },
+            {
+                  "name": "Situl arheologic „Cetatea Histria”",
+                  "text": "Die archäologische Ausgrabungsstätte der Festung Histria, die Reste antiker Wohn- und Sakralbauten umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        28.769339,
+                        44.548633
+                  ]
+            },
+            {
+                  "name": "Kiln Quarter (Sector G)",
+                  "text": "Ein spezieller Bereich der Ausgrabungsstätte Histria, in dem antike Brennöfen für Keramik entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        28.762921,
+                        44.549627
+                  ]
+            },
+            {
+                  "name": "Thermele Romane (sec. II-V)",
+                  "text": "Überreste römischer Thermalbäder in Histria, die zwischen dem 2. und 5. Jahrhundert genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        28.773038,
+                        44.54683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Histria",
+                  "text": "A mai Románia területének legősibb görög településének romjai a Fekete-tenger partján.",
+                  "category": "historical",
+                  "coords": [
+                        28.775458,
+                        44.547975
+                  ]
+            },
+            {
+                  "name": "Cetatea antică Histria",
+                  "text": "Histria ősi erődje, a görög és római kor jelentős régészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        28.774477,
+                        44.547645
+                  ]
+            },
+            {
+                  "name": "Complexul Muzeal Histria",
+                  "text": "Múzeumi komplexum Histriában, amely az ókori városból és környékéről származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.770145,
+                        44.546031
+                  ]
+            },
+            {
+                  "name": "Situl arheologic „Cetatea Histria”",
+                  "text": "A histriai erőd régészeti lelőhelye, amely ókori lakó- és szakrális épületek maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        28.769339,
+                        44.548633
+                  ]
+            },
+            {
+                  "name": "Kiln Quarter (Sector G)",
+                  "text": "Histria régészeti lelőhelyének különleges szektora, ahol ókori kerámiaégető kemencéket fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        28.762921,
+                        44.549627
+                  ]
+            },
+            {
+                  "name": "Thermele Romane (sec. II-V)",
+                  "text": "Római termálfürdők maradványai Histriában, amelyeket a 2. és 5. század között használtak.",
+                  "category": "historical",
+                  "coords": [
+                        28.773038,
+                        44.54683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Histria",
+                  "text": "Ruinele celei mai vechi așezări grecești de pe teritoriul actual al României, situată la Marea Neagră.",
+                  "category": "historical",
+                  "coords": [
+                        28.775458,
+                        44.547975
+                  ]
+            },
+            {
+                  "name": "Cetatea antică Histria",
+                  "text": "Cetatea antică Histria, un monument arheologic semnificativ din perioada greacă și romană.",
+                  "category": "historical",
+                  "coords": [
+                        28.774477,
+                        44.547645
+                  ]
+            },
+            {
+                  "name": "Complexul Muzeal Histria",
+                  "text": "Un complex muzeal în Histria care expune descoperiri din orașul antic și din împrejurimi.",
+                  "category": "museum",
+                  "coords": [
+                        28.770145,
+                        44.546031
+                  ]
+            },
+            {
+                  "name": "Situl arheologic „Cetatea Histria”",
+                  "text": "Situl arheologic al cetății Histria, care cuprinde resturi ale unor edificii civile și sacre antice.",
+                  "category": "historical",
+                  "coords": [
+                        28.769339,
+                        44.548633
+                  ]
+            },
+            {
+                  "name": "Kiln Quarter (Sector G)",
+                  "text": "Un sector special al sitului Histria unde au fost descoperite cuptoare antice pentru arderea ceramicii.",
+                  "category": "historical",
+                  "coords": [
+                        28.762921,
+                        44.549627
+                  ]
+            },
+            {
+                  "name": "Thermele Romane (sec. II-V)",
+                  "text": "Rămășițele unor băi termale romane în Histria, utilizate între secolele II și V.",
+                  "category": "historical",
+                  "coords": [
+                        28.773038,
+                        44.54683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Histria",
+                  "text": "The ruins of the oldest Greek settlement on present-day Romanian territory, located by the Black Sea.",
+                  "category": "historical",
+                  "coords": [
+                        28.775458,
+                        44.547975
+                  ]
+            },
+            {
+                  "name": "Cetatea antică Histria",
+                  "text": "The ancient fortress of Histria, a significant archaeological monument from the Greek and Roman periods.",
+                  "category": "historical",
+                  "coords": [
+                        28.774477,
+                        44.547645
+                  ]
+            },
+            {
+                  "name": "Histria Museum Complex",
+                  "text": "A museum complex in Histria exhibiting finds from the ancient city and the surrounding area.",
+                  "category": "museum",
+                  "coords": [
+                        28.770145,
+                        44.546031
+                  ]
+            },
+            {
+                  "name": "Situl arheologic „Cetatea Histria”",
+                  "text": "The archaeological site of the Histria fortress, including remains of ancient residential and sacred buildings.",
+                  "category": "historical",
+                  "coords": [
+                        28.769339,
+                        44.548633
+                  ]
+            },
+            {
+                  "name": "Kiln Quarter (Sector G)",
+                  "text": "A special section of the Histria archaeological site where ancient ceramic kilns were discovered.",
+                  "category": "historical",
+                  "coords": [
+                        28.762921,
+                        44.549627
+                  ]
+            },
+            {
+                  "name": "Thermele Romane (sec. II-V)",
+                  "text": "Remains of Roman thermal baths in Histria, used between the 2nd and 5th centuries.",
+                  "category": "historical",
+                  "coords": [
+                        28.773038,
+                        44.54683
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-CT", coords: [28.7767, 44.5469],
     name: { de: "Histria", hu: "Histria", ro: "Histria", en: "Histria" },
     description: { de: "Člteste Stadt auf rumänischem Boden, griechische Gründung 657 v. Chr.", hu: "Románia területének legrégebbi városa, görögök alapították Kr. e. 657-ben.", ro: "Cea mai veche așezare urbană a României, fondată de greci în 657 î.Hr.", en: "Oldest urban settlement in Romania, founded by Greeks in 657 BC." , es: "La ciudad más antigua en suelo rumano, fundada por los griegos en el 657 a.C.", pt: "A cidade mais antiga em solo romeno, fundada pelos gregos em 657 a.C.", fr: "La plus ancienne ville sur le sol roumain, fondée par les Grecs en 657 av. J.-C."},
     facts: { de: ["Milesische Kolonie.", "Aufgegeben im 7. Jh. n. Chr.", "Ausgrabungen seit 1914."], hu: ["Milétoszi gyarmat.", "A 7. században elhagyták.", "1914 óta ásatások."], ro: ["Colonie milesiană.", "Abandonată în sec. VII d.Hr.", "Săpături din 1914."], en: ["Milesian colony.", "Abandoned in the 7th c. AD.", "Excavated since 1914."] , es: ["Colonia de Mileto.", "Abandonada en el siglo VII d.C.", "Excavaciones desde 1914."], pt: ["Colónia de Mileto.", "Abandonada no século VII d.C.", "Escavações desde 1914."], fr: ["Colonie milésienne.", "Abandonnée au VIIe siècle apr. J.-C.", "Fouilles depuis 1914."]},
@@ -36095,7 +40343,88 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-moldovita", type: "historical", parent: "RO-SV", coords: [25.585, 47.655],
+    id: "hist-moldovita", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Moldovița",
+                  "text": "Sammlung religiöser und historischer Artefakte im Kloster Moldovița.",
+                  "category": "museum",
+                  "coords": [
+                        25.570659,
+                        47.657163
+                  ]
+            },
+            {
+                  "name": "Ruinele Mănăstirii Moldovița",
+                  "text": "Historische Überreste in der Nähe des moldauischen Klosters Moldovița.",
+                  "category": "historical",
+                  "coords": [
+                        25.577447,
+                        47.661684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Moldovița",
+                  "text": "Vallási és történelmi tárgyak gyűjteménye a moldovițai kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        25.570659,
+                        47.657163
+                  ]
+            },
+            {
+                  "name": "Ruinele Mănăstirii Moldovița",
+                  "text": "Történelmi romok a moldvai Moldovița-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.577447,
+                        47.661684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Moldovița",
+                  "text": "Colecție de artefacte religioase și istorice în incinta mănăstirii Moldovița.",
+                  "category": "museum",
+                  "coords": [
+                        25.570659,
+                        47.657163
+                  ]
+            },
+            {
+                  "name": "Ruinele Mănăstirii Moldovița",
+                  "text": "Vestigii istorice aflate în apropierea mănăstirii Moldovița din Bucovina.",
+                  "category": "historical",
+                  "coords": [
+                        25.577447,
+                        47.661684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moldovița Monastery Museum Collection",
+                  "text": "Collection of religious and historical artifacts at Moldovița Monastery.",
+                  "category": "museum",
+                  "coords": [
+                        25.570659,
+                        47.657163
+                  ]
+            },
+            {
+                  "name": "Ruinele Mănăstirii Moldovița",
+                  "text": "Historic ruins located near the Moldovița Monastery in Bukovina.",
+                  "category": "historical",
+                  "coords": [
+                        25.577447,
+                        47.661684
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-SV", coords: [25.585, 47.655],
     name: { de: "Kloster Moldovița", hu: "Moldovica kolostor", ro: "Mănăstirea Moldovița", en: "Moldovița Monastery" },
     description: { de: "Bemaltes Kloster der Bukowina (UNESCO).", hu: "Bukovinai festett kolostor (UNESCO).", ro: "Mănăstire pictată din Bucovina (UNESCO).", en: "Painted monastery of Bukovina (UNESCO)." , es: "Monasterio pintado de Bucovina (UNESCO).", pt: "Mosteiro pintado da Bucovina (UNESCO).", fr: "Monastère peint de Bucovine (UNESCO)."},
     facts: { de: ["Erbaut 1532.", "Belagerung Konstantinopels als Fresko.", "Gut erhaltene Außenmalerei."], hu: ["1532-ben épült.", "A konstantinápolyi ostrom mint freskó.", "Jól megőrzött külső freskók."], ro: ["Construită 1532.", "Asediul Constantinopolului.", "Frescă exterioară bine păstrată."], en: ["Built 1532.", "Siege of Constantinople fresco.", "Well-preserved exterior paintings."] , es: ["Construido en 1532.", "Frescos del asedio de Constantinopla.", "Pinturas exteriores bien conservadas."], pt: ["Construído em 1532.", "Frescos do cerco de Constantinopla.", "Pinturas exteriores bem preservadas."], fr: ["Construit en 1532.", "Le siège de Constantinople en fresque.", "Peintures extérieures bien conservées."]},
@@ -36121,7 +40450,52 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-sucevita", type: "historical", parent: "RO-SV", coords: [25.712, 47.777],
+    id: "hist-sucevita", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Sucevita",
+                  "text": "Dieses Museum zeigt die historische Kunstsammlung des Klosters Sucevița.",
+                  "category": "museum",
+                  "coords": [
+                        25.711458,
+                        47.778644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Sucevita",
+                  "text": "Ez a múzeum a szucsavicai kolostor történelmi művészeti gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.711458,
+                        47.778644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Sucevita",
+                  "text": "Acest muzeu prezintă colecția istorică de artă a Mănăstirii Sucevița.",
+                  "category": "museum",
+                  "coords": [
+                        25.711458,
+                        47.778644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sucevita Monastery Museum Collection",
+                  "text": "This museum displays the historical art collection of the Sucevița Monastery.",
+                  "category": "museum",
+                  "coords": [
+                        25.711458,
+                        47.778644
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-SV", coords: [25.712, 47.777],
     name: { de: "Kloster Sucevița", hu: "Szucsevica kolostor", ro: "Mănăstirea Sucevița", en: "Sucevița Monastery" },
     description: { de: "Letztes der bemalten Klöster (UNESCO).", hu: "A festett kolostorok legkésőbbi példája (UNESCO).", ro: "Ultima dintre mănăstirile pictate (UNESCO).", en: "Last of the painted monasteries (UNESCO)." , es: "El último de los monasterios pintados (UNESCO).", pt: "O último dos mosteiros pintados (UNESCO).", fr: "Le dernier des monastères peints (UNESCO)."},
     facts: { de: ["Erbaut um 1585.", "\"Himmelsleiter\" Fresko.", "Festungsartige Anlage."], hu: ["Kb. 1585-ben épült.", "\"Mennyekbe vezető létra\" freskó.", "Erődített kolostor."], ro: ["Construită cca 1585.", "Fresca \"Scara Virtuților\".", "Zidită ca o cetate."], en: ["Built c. 1585.", "\"Ladder of Virtues\" fresco.", "Fortress-like complex."] , es: ["Construido hacia 1585.", "Fresco de la \"Escalera de las Virtudes\".", "Estructura de tipo fortaleza."], pt: ["Construído por volta de 1585.", "Fresco da \"Escada das Virtudes\".", "Estrutura de tipo fortaleza."], fr: ["Construit vers 1585.", "Fresque de \"l'Échelle des Vertus\".", "Site aux allures de forteresse."]},
@@ -36173,7 +40547,160 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-poenari", type: "historical", parent: "RO-AG", coords: [24.628, 45.355],
+    id: "hist-poenari", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Poenari",
+                  "text": "Historische Festung, die mit Vlad dem Pfähler verbunden ist und auf einer hohen Klippe liegt.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Berggipfel nahe der Festung Poenari im Argeș-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "Einstiegspunkt in den Valea lui Stan Canyon, ein beliebter Wander- und Abenteuerpfad.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Thematische Attraktion an der Transfăgărășan-Straße, inspiriert von der Dracula-Legende.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poenari-vár",
+                  "text": "Történelmi erőd, amely Vlad Tepeshez kötődik, egy magas sziklán fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Hegycsúcs a Poenari-erőd közelében, az Argeș-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Stan-völgye",
+                  "text": "A Valea lui Stan kanyon belépési pontja, népszerű túra- és kalandútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Drakula legendája által ihletett látványosság a Transzfogarasi út mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Poenari",
+                  "text": "Cetate istorică asociată cu Vlad Țepeș, situată pe o stâncă înaltă.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Vârf montan situat lângă Cetatea Poenari, în valea Argeșului.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "Punct de intrare în canionul Valea lui Stan, un traseu popular de drumeție și aventură.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Atracție tematică situată lângă Transfăgărășan, inspirată de legenda lui Dracula.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poenari Castle",
+                  "text": "Historic fortress famously associated with Vlad the Impaler, situated on a high cliff.",
+                  "category": "castle",
+                  "coords": [
+                        24.635238,
+                        45.353903
+                  ]
+            },
+            {
+                  "name": "Albina",
+                  "text": "Mountain peak located near the Poenari Citadel in the Argeș valley.",
+                  "category": "landmark",
+                  "coords": [
+                        24.656315,
+                        45.353927
+                  ]
+            },
+            {
+                  "name": "Valea lui Stan - intrare traseu",
+                  "text": "Entry point to the Valea lui Stan canyon, a popular hiking and adventure trail.",
+                  "category": "landmark",
+                  "coords": [
+                        24.616741,
+                        45.362109
+                  ]
+            },
+            {
+                  "name": "castel Dracula Transfagarasan",
+                  "text": "Themed attraction located near the Transfăgărășan road, inspired by the Dracula legend.",
+                  "category": "landmark",
+                  "coords": [
+                        24.635423,
+                        45.335584
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-AG", coords: [24.628, 45.355],
     name: { de: "Burg Poenari", hu: "Poenari vára", ro: "Cetatea Poenari", en: "Poenari Citadel" },
     description: { de: "Bergburg Vlad Țepeș', \"echte Draculaburg\".", hu: "Vlad Tepes hegyi vára, a \"valódi Drakula-vár\".", ro: "Cetatea de munte a lui Vlad Țepeș, \"adevăratul castel al lui Dracula\".", en: "Mountain stronghold of Vlad the Impaler, the \"real Dracula castle\"." , es: "Castillo de montaña de Vlad Țepeș, el \"verdadero castillo de Drácula\".", pt: "Castelo de montanha de Vlad Țepeș, o \"verdadeiro castelo do Drácula\".", fr: "Château de montagne de Vlad Țepeș, le \"vrai château de Dracula\"."},
     facts: { de: ["1.480 Treppen zum Aufstieg.", "15. Jahrhundert.", "An der Transfăgărășan."], hu: ["1480 lépcső vezet fel.", "15. századi.", "A Transzfogarasi út mentén."], ro: ["1.480 de trepte.", "Secolul XV.", "Pe Transfăgărășan."], en: ["1,480 steps to reach it.", "15th century.", "Along Transfăgărășan."] , es: ["1.480 escalones para subir.", "Siglo XV.", "En la carretera Transfăgărășan."], pt: ["1.480 degraus para subir.", "Século XV.", "Na estrada Transfăgărășan."], fr: ["1 480 marches pour y accéder.", "XVe siècle.", "Sur la route Transfăgărășan."]},
@@ -36325,7 +40852,88 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-biertan", type: "historical", parent: "RO-SB", coords: [24.521, 46.135],
+    id: "hist-biertan", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Bisericii Evanghelice Biertan",
+                  "text": "Sammlung der Evangelischen Kirche von Biertan mit historischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        24.521263,
+                        46.135296
+                  ]
+            },
+            {
+                  "name": "Biserica fortificată din Copșa Mare",
+                  "text": "Eine gotische Kirchenburg im Dorf Copșa Mare nahe Biertan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.549893,
+                        46.13327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Bisericii Evanghelice Biertan",
+                  "text": "A berethalmi evangélikus templom gyűjteménye történelmi tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        24.521263,
+                        46.135296
+                  ]
+            },
+            {
+                  "name": "Biserica fortificată din Copșa Mare",
+                  "text": "Gótikus erődtemplom Nagykapus (Copșa Mare) falujában, Berethalom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.549893,
+                        46.13327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Bisericii Evanghelice Biertan",
+                  "text": "Colecția bisericii evanghelice din Biertan, cuprinzând exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.521263,
+                        46.135296
+                  ]
+            },
+            {
+                  "name": "Biserica fortificată din Copșa Mare",
+                  "text": "O biserică fortificată gotică în satul Copșa Mare, lângă Biertan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.549893,
+                        46.13327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Collection of the Evangelical Church of Biertan",
+                  "text": "A collection of the Evangelical Church of Biertan featuring historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        24.521263,
+                        46.135296
+                  ]
+            },
+            {
+                  "name": "The Fortified Church of Copșa Mare",
+                  "text": "A Gothic fortified church in the village of Copșa Mare near Biertan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.549893,
+                        46.13327
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-SB", coords: [24.521, 46.135],
     name: { de: "Kirchenburg von Biertan", hu: "Berethalmi erődtemplom", ro: "Biserica fortificată din Biertan", en: "Biertan Fortified Church" },
     description: { de: "UNESCO-geschützte sächsische Kirchenburg.", hu: "UNESCO-védelem alatt álló szász erődtemplom.", ro: "Biserică fortificată săsească, patrimoniu UNESCO.", en: "UNESCO-protected Saxon fortified church." , es: "Iglesia fortificada sajona protegida por la UNESCO.", pt: "Igreja fortificada saxónica protegida pela UNESCO.", fr: "Église fortifiée saxonne classée à l'UNESCO."},
     facts: { de: ["Drei Ringmauern.", "Berühmte Sakristeitür.", "Ehemaliger Bischofssitz."], hu: ["Három falgyűrű.", "Híres sekrestyeajtó.", "Egykori püspöki székhely."], ro: ["Trei rânduri de ziduri.", "Ușă de sacristie celebră.", "Fost sediu al episcopatului evanghelic."], en: ["Three concentric walls.", "Famous sacristy door.", "Former evangelical bishopric seat."] , es: ["Tres murallas anulares.", "Famosa puerta de la sacristía.", "Antigua sede episcopal."], pt: ["Três muralhas anulares.", "Famosa porta da sacristia.", "Antiga sede episcopal."], fr: ["Trois enceintes fortifiées.", "Célèbre porte de la sacristie.", "Ancien siège épiscopal."]},
@@ -36450,7 +41058,124 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-calnic", type: "historical", parent: "RO-AB", coords: [23.659, 45.891],
+    id: "hist-calnic", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Eine UNESCO-Weltkulturerbestätte, die für ihren massiven Donjon und die Ringmauern bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Diese Ausstellung zeigt traditionelle Werkzeuge und Handwerkskunst aus der Region Câlnic.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Ein römisches Grabmonument, das im Hof der Burg von Câlnic ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Az UNESCO Világörökség része, amely masszív öregtornyáról és várfalairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Ez a kiállítás Kelnek vidékének hagyományos eszközeit és népi mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Egy római síremlék, amelyet a kelneki vár udvarán állítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Un sit din patrimoniul mondial UNESCO, cunoscut pentru donjonul său masiv și zidurile de incintă.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Această expoziție prezintă unelte tradiționale și meșteșuguri populare din regiunea Câlnic.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Un monument funerar roman expus în curtea cetății din Câlnic.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Câlnic Citadel",
+                  "text": "A UNESCO World Heritage site known for its massive keep and fortified curtain walls.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Ethnographic exhibition",
+                  "text": "This exhibition showcases traditional tools and folk craftsmanship from the Câlnic region.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "A Roman funerary monument displayed in the courtyard of the Câlnic Citadel.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-AB", coords: [23.659, 45.891],
     name: { de: "Burg Kelling (Câlnic)", hu: "Kelneki vár", ro: "Cetatea Câlnic", en: "Câlnic Fortress" },
     description: { de: "UNESCO-Weltkulturerbe, eine der besterhaltenen Burgen Siebenbürgens.", hu: "UNESCO-világörökség, Erdély egyik legjobb állapotban fennmaradt vára.", ro: "Monument UNESCO, una dintre cele mai bine păstrate cetăți.", en: "UNESCO monument, one of the best-preserved fortresses." , es: "Patrimonio de la Humanidad de la UNESCO, uno de los castillos mejor conservados de Transilvania.", pt: "Património Mundial da UNESCO, um dos castelos mais bem preservados da Transilvânia.", fr: "Patrimoine mondial de l'UNESCO, l'un des châteaux les mieux préservés de Transylvanie."},
     facts: { de: ["Einstiger Adelssitz.", "Massiver Wohnturm.", "Sächsische Kapelle."], hu: ["Egykori nemesi lakhely.", "Hatalmas lakótorony.", "Szász kápolna."], ro: ["Fostă reședință nobiliară.", "Turn de locuință masiv.", "Capelă evanghelică."], en: ["Former noble residence.", "Massive residential tower.", "Evangelical chapel."] , es: ["Antigua sede nobiliaria.", "Torre de vivienda masiva.", "Capilla sajona."], pt: ["Antiga sede nobiliárquica.", "Torre de habitação maciça.", "Capela saxónica."], fr: ["Ancien siège de la noblesse.", "Imposant donjon d'habitation.", "Chapelle saxonne."]},
@@ -36600,7 +41325,52 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-densus", type: "historical", parent: "RO-HD", coords: [22.791, 45.583],
+    id: "hist-densus", "sights": {
+      "de": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Eine der ältesten rumänischen Steinkirchen, erbaut mit Material aus dem römischen Sarmizegetusa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.805322,
+                        45.582441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Románia egyik legrégebbi kőtemploma, amely a közeli római Sarmizegetusa köveiből épült.",
+                  "category": "landmark",
+                  "coords": [
+                        22.805322,
+                        45.582441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Una dintre cele mai vechi biserici de piatră din România, construită cu materiale de la Sarmizegetusa Romană.",
+                  "category": "landmark",
+                  "coords": [
+                        22.805322,
+                        45.582441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "One of the oldest stone churches in Romania, built using materials from Roman Sarmizegetusa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.805322,
+                        45.582441
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-HD", coords: [22.791, 45.583],
     name: { de: "Kirche von Densuș", hu: "Demsusi templom", ro: "Biserica Sfântul Nicolae din Densuș", en: "Densuș Church" },
     description: { de: "Eine der ältesten Steinkirchen Rumäniens, erbaut aus römischen Spolien.", hu: "Románia egyik legrégebbi kőtemploma, római kövekből épült.", ro: "Una dintre cele mai vechi biserici de piatră, construită din spoli romane.", en: "One of Romania's oldest stone churches, built from Roman spolia." , es: "Una de las iglesias de piedra más antiguas de Rumanía, construida con restos romanos.", pt: "Uma das igrejas de pedra mais antigas da Roménia, construída com espólios romanos.", fr: "L'une des plus anciennes églises en pierre de Roumanie, construite avec des remplois romains."},
     facts: { de: ["Erbaut im 13. Jh.", "Römische Grabsteine im Mauerwerk.", "Einzigartige Architektur."], hu: ["A 13. században épült.", "Római sírkövek a falakban.", "Egyedülálló építészet."], ro: ["Construită în sec. XIII.", "Pietre funerare romane în ziduri.", "Arhitectură unică."], en: ["Built in the 13th century.", "Roman tombstones in the walls.", "Unique architecture."] , es: ["Construida en el siglo XIII.", "Lápidas romanas en la mampostería.", "Arquitectura única."], pt: ["Construída no séc. XIII.", "Lápides romanas na alvenaria.", "Arquitetura única."], fr: ["Construite au XIIIe s.", "Pierres tombales romaines dans la maçonnerie.", "Architecture unique."]},
@@ -36625,7 +41395,88 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-cirtza", type: "historical", parent: "RO-SB", coords: [24.567, 45.783],
+    id: "hist-cirtza", "sights": {
+      "de": [
+            {
+                  "name": "Centrul Cultural Memorial \"Dr. Gheorghe Telea-Bologa\"",
+                  "text": "Kulturzentrum und Museum gewidmet dem Arzt und Kunstsammler Gheorghe Telea-Bologa.",
+                  "category": "museum",
+                  "coords": [
+                        24.577954,
+                        45.80378
+                  ]
+            },
+            {
+                  "name": "Muzeul Cârța",
+                  "text": "Ein lokales Museum, das die Geschichte und Traditionen der Region Cârța zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.569023,
+                        45.792404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centrul Cultural Memorial \"Dr. Gheorghe Telea-Bologa\"",
+                  "text": "Kulturális központ és múzeum Gheorghe Telea-Bologa orvos és műgyűjtő emlékére.",
+                  "category": "museum",
+                  "coords": [
+                        24.577954,
+                        45.80378
+                  ]
+            },
+            {
+                  "name": "Muzeul Cârța",
+                  "text": "Helyi múzeum, amely Kerc (Cârța) régió történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.569023,
+                        45.792404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centrul Cultural Memorial \"Dr. Gheorghe Telea-Bologa\"",
+                  "text": "Centru cultural și muzeu memorial dedicat medicului și colecționarului Gheorghe Telea-Bologa.",
+                  "category": "museum",
+                  "coords": [
+                        24.577954,
+                        45.80378
+                  ]
+            },
+            {
+                  "name": "Muzeul Cârța",
+                  "text": "Un muzeu local care prezintă istoria și tradițiile regiunii Cârța.",
+                  "category": "museum",
+                  "coords": [
+                        24.569023,
+                        45.792404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Dr. Gheorghe Telea-Bologa\" Memorial Cultural Centre",
+                  "text": "Cultural center and memorial museum dedicated to the physician and art collector Gheorghe Telea-Bologa.",
+                  "category": "museum",
+                  "coords": [
+                        24.577954,
+                        45.80378
+                  ]
+            },
+            {
+                  "name": "Muzeul Cârța",
+                  "text": "A local museum showcasing the history and traditions of the Cârța region.",
+                  "category": "museum",
+                  "coords": [
+                        24.569023,
+                        45.792404
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-SB", coords: [24.567, 45.783],
     name: { de: "Kloster Kerz", hu: "Kerczi apátság", ro: "Mănăstirea Cârța", en: "Cârța Monastery" },
     description: { de: "Ruinen einer Zisterzienserabtei, ein bedeutendes gotisches Denkmal.", hu: "Ciszterci apátság romjai, jelentős gótikus műemlék.", ro: "Ruinele unei abații cisterciene, monument gotic important.", en: "Ruins of a Cistercian abbey, an important Gothic monument." , es: "Ruinas de una abadía cisterciense, un monumento gótico de gran importancia.", pt: "Ruínas de uma abadia cisterciense, um importante monumento gótico.", fr: "Ruines d'une abbaye cistercienne, un monument gothique de grande importance."},
     facts: { de: ["Gegründet um 1202.", "Früheste Gotik in Siebenbürgen.", "Einstige Abtei der weißen Mönche."], hu: ["1202 körül alapították.", "A legkorábbi gótika Erdélyben.", "A fehér barátok egykori apátsága."], ro: ["Fondată în jurul anului 1202.", "Cea mai veche gotică din Transilvania.", "Fosta abație a călugărilor albi."], en: ["Founded around 1202.", "Earliest Gothic in Transylvania.", "Former abbey of the white monks."] , es: ["Fundado hacia 1202.", "Gótico más temprano en Transilvania.", "Antigua abadía de los monjes blancos."], pt: ["Fundado por volta de 1202.", "Gótico mais antigo na Transilvânia.", "Antiga abadia dos monges brancos."], fr: ["Fondé vers 1202.", "Gothique le plus précoce en Transylvanie.", "Ancienne abbaye des moines blancs."]},
@@ -36650,7 +41501,124 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-rupea", type: "historical", parent: "RO-BV", coords: [25.212, 46.038],
+    id: "hist-rupea", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Rupea",
+                  "text": "Eine beeindruckende mittelalterliche Festung auf einem Basalthügel, ein Wahrzeichen der Region Reps.",
+                  "category": "castle",
+                  "coords": [
+                        25.212432,
+                        46.037356
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie \"Gheorghe Cernea\"",
+                  "text": "Ein Museum, das die traditionelle Kultur, Kostüme und Lebensweise der lokalen rumänischen Gemeinschaft zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.219632,
+                        46.03745
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic \"Vasile Borcoman\"",
+                  "text": "Ein ethnographisches Museum, das dem Erhalt des lokalen Erbes und der Volkskunst der Region Reps gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.221346,
+                        46.038779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetatea Rupea",
+                  "text": "Impozáns középkori vár egy bazalthegyen, amely Kőhalom vidékének jelképe.",
+                  "category": "castle",
+                  "coords": [
+                        25.212432,
+                        46.037356
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie \"Gheorghe Cernea\"",
+                  "text": "A helyi román közösség hagyományos kultúráját, viseleteit és életmódját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.219632,
+                        46.03745
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic \"Vasile Borcoman\"",
+                  "text": "Néprajzi múzeum, amely Kőhalom környékének helyi örökségét és népművészetét hivatott megőrizni.",
+                  "category": "museum",
+                  "coords": [
+                        25.221346,
+                        46.038779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Rupea",
+                  "text": "O impresionantă cetate medievală construită pe un deal de bazalt, un simbol al regiunii Rupea.",
+                  "category": "castle",
+                  "coords": [
+                        25.212432,
+                        46.037356
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie \"Gheorghe Cernea\"",
+                  "text": "Un muzeu care prezintă cultura tradițională, costumele și stilul de viață al comunității locale românești.",
+                  "category": "museum",
+                  "coords": [
+                        25.219632,
+                        46.03745
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic \"Vasile Borcoman\"",
+                  "text": "Un muzeu etnografic dedicat conservării moștenirii locale și artei populare din zona Rupea.",
+                  "category": "museum",
+                  "coords": [
+                        25.221346,
+                        46.038779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rupea Fortress",
+                  "text": "An impressive medieval fortress built on a basalt hill, serving as a landmark of the Rupea region.",
+                  "category": "castle",
+                  "coords": [
+                        25.212432,
+                        46.037356
+                  ]
+            },
+            {
+                  "name": "\"Gheorghe Cernea\" Ethnographic Museum",
+                  "text": "A museum showcasing the traditional culture, costumes, and lifestyle of the local Romanian community.",
+                  "category": "museum",
+                  "coords": [
+                        25.219632,
+                        46.03745
+                  ]
+            },
+            {
+                  "name": "'Vasile Borcoman' Ethnographic Museum",
+                  "text": "An ethnographic museum dedicated to preserving the local heritage and folk art of the Rupea area.",
+                  "category": "museum",
+                  "coords": [
+                        25.221346,
+                        46.038779
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-BV", coords: [25.212, 46.038],
     name: { de: "Burg Rupea", hu: "Kőhalmi vár", ro: "Cetatea Rupea", en: "Rupea Fortress" },
     description: { de: "Mittelalterliche Bauernburg auf einem Basaltfelsen.", hu: "Középkori parasztvár egy bazaltsziklán.", ro: "Cetate țărănească medievală pe o stâncă de bazalt.", en: "Medieval peasant fortress on a basalt rock." , es: "Fortaleza campesina medieval situada sobre una roca de basalto.", pt: "Fortaleza camponesa medieval situada num rochedo de basalto.", fr: "Forteresse paysanne médiévale située sur un rocher de basalte."},
     facts: { de: ["Schneckenförmige Anlage.", "Strategischer Kontrollpunkt.", "Restauriert im 21. Jh."], hu: ["Csiga alakú alaprajz.", "Stratégiai ellenőrző pont.", "A 21. században restaurálták."], ro: ["Formă de spirală.", "Punct strategic de control.", "Restaurată în sec. XXI."], en: ["Spiral-shaped layout.", "Strategic control point.", "Restored in the 21st century."] , es: ["Estructura en forma de caracol.", "Punto de control estratégico.", "Restaurada en el siglo XXI."], pt: ["Estrutura em forma de caracol.", "Ponto de controlo estratégico.", "Restaurada no século XXI."], fr: ["Structure en forme d'escargot.", "Point de contrôle stratégique.", "Restaurée au XXIe siècle."]},
@@ -36675,7 +41643,52 @@ export const romaniaHistorical: POI[] = [
     },
   },
   {
-    id: "hist-dragomirna", type: "historical", parent: "RO-SV", coords: [26.231, 47.758],
+    id: "hist-dragomirna", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul \"Anastasie Crimca\" al Mănăstirii Dragomirna",
+                  "text": "Diese Sammlung im Kloster Dragomirna präsentiert wertvolle religiöse Artefakte und Manuskripte.",
+                  "category": "museum",
+                  "coords": [
+                        26.229615,
+                        47.758137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul \"Anastasie Crimca\" al Mănăstirii Dragomirna",
+                  "text": "A Dragomirna kolostor gyűjteménye értékes vallási tárgyakat és kéziratokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.229615,
+                        47.758137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul \"Anastasie Crimca\" al Mănăstirii Dragomirna",
+                  "text": "Această colecție de la Mănăstirea Dragomirna prezintă artefacte religioase și manuscrise valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        26.229615,
+                        47.758137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Anastasie Crimca\" Dragomirna Monastery Museum Collection",
+                  "text": "This collection at the Dragomirna Monastery presents valuable religious artifacts and manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        26.229615,
+                        47.758137
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-SV", coords: [26.231, 47.758],
     name: { de: "Kloster Dragomirna", hu: "Dragomirnai kolostor", ro: "Mănăstirea Dragomirna", en: "Dragomirna Monastery" },
     description: { de: "Einzigartiges befestigtes Kloster mit extrem hohen Mauern.", hu: "Egyedülálló erődített kolostor rendkívül magas falakkal.", ro: "Mănăstire fortificată unică, cu ziduri extrem de înalte.", en: "Unique fortified monastery with extremely high walls." , es: "Monasterio fortificado único con muros extremadamente altos.", pt: "Mosteiro fortificado único com muralhas extremamente altas.", fr: "Monastère fortifié unique avec des murs extrêmement hauts."},
     facts: { de: ["Erbaut 1602–1609.", "Schmalste Kirche der Moldau.", "Reiche Steinschnitzereien."], hu: ["1602–1609 között épült.", "Moldva legkeskenyebb temploma.", "Gazdag kőfaragványok."], ro: ["Construită între 1602–1609.", "Cea mai îngustă biserică din Moldova.", "Sculpturi în piatră bogate."], en: ["Built 1602–1609.", "Narrowest church in Moldavia.", "Rich stone carvings."] , es: ["Construido entre 1602 y 1609.", "Iglesia más estrecha de Moldavia.", "Ricas tallas de piedra."], pt: ["Construído em 1602–1609.", "Igreja mais estreita da Moldávia.", "Ricos entalhes em pedra."], fr: ["Construit entre 1602 et 1609.", "Église la plus étroite de Moldavie.", "Riches sculptures sur pierre."]},
@@ -36783,7 +41796,160 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-retezat-np", type: "landmark", parent: "RO-HD", coords: [22.87, 45.37],
+    id: "landmark-retezat-np", "sights": {
+      "de": [
+            {
+                  "name": "Peleaga",
+                  "text": "Der höchste Gipfel des Retezat-Gebirges mit spektakulären alpinen Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "Ein markanter Berggipfel im Nationalpark Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "Einer der Hauptgipfel des Retezat-Gebirges, bekannt für seine charakteristische Form.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "Eine lokale Naturattraktion oder Sehenswürdigkeit im Nationalpark Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelága-csúcs",
+                  "text": "A Retezat-hegység legmagasabb csúcsa, amely látványos alpesi kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Papusa-csúcs",
+                  "text": "Jelentős hegycsúcs a Retezat Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Retyezát",
+                  "text": "A Retezat-hegység egyik fő csúcsa, amely jellegzetes alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Tamás-szikla",
+                  "text": "Helyi természeti látványosság vagy nevezetesség a Retezat Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peleaga",
+                  "text": "Cel mai înalt vârf din Munții Retezat, oferind priveliști alpine spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "Un vârf muntos proeminent din Parcul Național Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "Unul dintre principalele vârfuri ale Munților Retezat, cunoscut pentru forma sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "O atracție naturală locală sau un punct de reper în Parcul Național Retezat.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peleaga",
+                  "text": "The highest peak in the Retezat Mountains, offering spectacular alpine views.",
+                  "category": "landmark",
+                  "coords": [
+                        22.892861,
+                        45.365613
+                  ]
+            },
+            {
+                  "name": "Vârful Păpușa",
+                  "text": "A prominent mountain peak in the Retezat National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.90792,
+                        45.369941
+                  ]
+            },
+            {
+                  "name": "Vârful Retezat",
+                  "text": "One of the main peaks of the Retezat Mountains, known for its distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        22.849312,
+                        45.380805
+                  ]
+            },
+            {
+                  "name": "Bordul Tomii",
+                  "text": "A local natural attraction or landmark situated within Retezat National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.876461,
+                        45.381076
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-HD", coords: [22.87, 45.37],
     name: { de: "Retezat-Nationalpark", hu: "Retyezát Nemzeti Park", ro: "Parcul Național Retezat", en: "Retezat National Park" },
     description: { de: "Čltester Nationalpark Rumäniens (1935).", hu: "Románia legrégebbi nemzeti parkja (1935).", ro: "Cel mai vechi parc național (1935).", en: "Romania's oldest national park (1935)." , es: "El parque nacional más antiguo de Rumanía (1935).", pt: "O parque nacional mais antigo da Roménia (1935).", fr: "Le plus ancien parc national de Roumanie (1935)."},
     facts: { de: ["UNESCO-MAB-Biosphäre.", "Über 80 Gletscherseen.", "Heimat von Gämsen und Bären."], hu: ["UNESCO-MAB bioszféra.", "Több mint 80 gleccsertó.", "Zergék, medvék élnek itt."], ro: ["Rezervație MAB UNESCO.", "Peste 80 lacuri glaciare.", "Caprete negre și urși."], en: ["UNESCO MAB reserve.", "Over 80 glacial lakes.", "Chamois and bears."] , es: ["Biosfera UNESCO-MAB.", "Más de 80 lagos glaciares.", "Hogar de rebecos y osos."], pt: ["Biosfera UNESCO-MAB.", "Mais de 80 lagos glaciares.", "Lar de camurças e ursos."], fr: ["Biosphère UNESCO-MAB.", "Plus de 80 lacs glaciaires.", "Habitat de chamois et d'ours."]},
@@ -36835,7 +42001,88 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-transalpina", type: "landmark", parent: "RO", coords: [23.68, 45.44],
+    id: "landmark-transalpina", "sights": {
+      "de": [
+            {
+                  "name": "Pleșa Tâmpei",
+                  "text": "Ein Aussichtspunkt, der weite Panoramablicke über die umliegenden Berglandschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.674113,
+                        45.464453
+                  ]
+            },
+            {
+                  "name": "Belvedere lac Vidra",
+                  "text": "Ein beliebter Aussichtspunkt an der Transalpina-Straße mit Blick auf den Vidra-See.",
+                  "category": "natural",
+                  "coords": [
+                        23.686049,
+                        45.427144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pleșa Tâmpei",
+                  "text": "Kilátópont, ahonnan messzire ellátni a környező hegyi tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        23.674113,
+                        45.464453
+                  ]
+            },
+            {
+                  "name": "Belvedere lac Vidra",
+                  "text": "Népszerű kilátóhely a Transzalpina út mentén, kilátással a Vidra-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        23.686049,
+                        45.427144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pleșa Tâmpei",
+                  "text": "Un punct de belvedere care oferă vederi panoramice vaste asupra peisajelor montane din jur.",
+                  "category": "natural",
+                  "coords": [
+                        23.674113,
+                        45.464453
+                  ]
+            },
+            {
+                  "name": "Belvedere lac Vidra",
+                  "text": "Un punct de belvedere popular pe șoseaua Transalpina, cu vedere spre lacul Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        23.686049,
+                        45.427144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pleșa Tâmpei",
+                  "text": "A viewpoint offering vast panoramic views over the surrounding mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        23.674113,
+                        45.464453
+                  ]
+            },
+            {
+                  "name": "Belvedere lac Vidra",
+                  "text": "A popular viewpoint along the Transalpina road overlooking Lake Vidra.",
+                  "category": "natural",
+                  "coords": [
+                        23.686049,
+                        45.427144
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO", coords: [23.68, 45.44],
     name: { de: "Transalpina-Straße", hu: "Transalpina út", ro: "Transalpina (DN67C)", en: "Transalpina Road" },
     description: { de: "Höchste Straße Rumäniens durch die Parâng-Berge.", hu: "Románia legmagasabb hegyi útja a Páring-hegységben.", ro: "Șoseaua cu cea mai mare altitudine din România, în Parâng.", en: "Romania's highest road, crossing the Parâng Mountains." , es: "La carretera más alta de Rumanía a través de las montañas Parâng.", pt: "A estrada mais alta da Roménia através das montanhas Parâng.", fr: "La plus haute route de Roumanie à travers les monts Parâng."},
     facts: { de: ["Höchster Punkt 2.145 m.", "\"Königsstraße\".", "Oltenien ↔ Siebenbürgen."], hu: ["Legmagasabb pontja 2145 m.", "\"Király útja\".", "Olténia ↔ Erdély."], ro: ["Punct culminant 2.145 m.", "\"Drumul Regelui\".", "Oltenia ↔ Transilvania."], en: ["Highest point 2,145 m.", "\"King's Road\".", "Oltenia ↔ Transylvania."] , es: ["Punto más alto 2.145 m.", "\"Carretera del Rey\".", "Oltenia ↔ Transilvania."], pt: ["Ponto mais alto 2.145 m.", "\"Estrada do Rei\".", "Oltenia ↔ Transilvânia."], fr: ["Point culminant à 2 145 m.", "« Route du Roi ».", "Olténie ↔ Transylvanie."]},
@@ -36861,7 +42108,304 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-cheile-bicazului", type: "landmark", parent: "RO-NT", coords: [25.83, 46.82],
+    id: "landmark-cheile-bicazului", "sights": {
+      "de": [
+            {
+                  "name": "Altar-Stein",
+                  "text": "Ein markanter Felsgipfel in der Bicaz-Klamm, der als Wahrzeichen der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Cheile Bicazului",
+                  "text": "Eine spektakuläre Schlucht in den Karpaten, die durch ihre hohen Felswände beeindruckt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834461,
+                        46.817504
+                  ]
+            },
+            {
+                  "name": "Schluchten-Stein",
+                  "text": "Eine markante Felsformation inmitten der imposanten Bicaz-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83007,
+                        46.812345
+                  ]
+            },
+            {
+                  "name": "Pestera Munticelu",
+                  "text": "Eine Höhle in der Nähe der Bicaz-Klamm, bekannt für ihre interessanten Tropfsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852066,
+                        46.833441
+                  ]
+            },
+            {
+                  "name": "Gatter der Hölle",
+                  "text": "Der engste und dramatischste Abschnitt der Bicaz-Klamm.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Veranda der Hölle",
+                  "text": "Ein Aussichtspunkt in der Bicaz-Klamm, der einen weiten Blick über die Schlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Bardócz-Höhle",
+                  "text": "Ein Aussichtspunkt und eine kleine Höhle in der beeindruckenden Landschaft der Bicaz-Klamm.",
+                  "category": "natural",
+                  "coords": [
+                        25.821921,
+                        46.8161
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "Eine natürliche Felsformation in der Bicaz-Region, die an ein steinernes Tor erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oltár-kő",
+                  "text": "A Békás-szoros egyik leglátványosabb sziklája, a vidék emblematikus csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Békás-szoros",
+                  "text": "Látványos szurdokvölgy a Kárpátokban, amely hatalmas sziklafalaival nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834461,
+                        46.817504
+                  ]
+            },
+            {
+                  "name": "Szurdok-kő",
+                  "text": "Jellegzetes sziklaképződmény az impozáns Békás-szoros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83007,
+                        46.812345
+                  ]
+            },
+            {
+                  "name": "Munticsel (hóvirág) Cave",
+                  "text": "Barlang a Békás-szoros közelében, amely érdekes cseppkőképződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852066,
+                        46.833441
+                  ]
+            },
+            {
+                  "name": "Pokol kapuja",
+                  "text": "A Békás-szoros legszűkebb és legdrámaibb szakasza.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Pokol tornáca",
+                  "text": "Kilátópont a Békás-szorosban, ahonnan pazar kilátás nyílik a szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Bardócz barlang",
+                  "text": "Kilátópont és kis barlang a Békás-szoros lenyűgöző táján.",
+                  "category": "natural",
+                  "coords": [
+                        25.821921,
+                        46.8161
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "Természetes sziklaképződmény a Békás-vidéken, amely kőkapura emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piatra Altarului (Turnu Bardosului)",
+                  "text": "Un vârf stâncos impunător din Cheile Bicazului, considerat un simbol al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Cheile Bicazului",
+                  "text": "O cheie spectaculoasă din Carpați, impresionantă prin pereții săi stâncoși înalți.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834461,
+                        46.817504
+                  ]
+            },
+            {
+                  "name": "Piatra Surducului",
+                  "text": "O formațiune stâncoasă proeminentă situată în inima spectaculoaselor Chei ale Bicazului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83007,
+                        46.812345
+                  ]
+            },
+            {
+                  "name": "Pestera Munticelu",
+                  "text": "O peșteră situată lângă Cheile Bicazului, cunoscută pentru formațiunile sale calcaroase interesante.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852066,
+                        46.833441
+                  ]
+            },
+            {
+                  "name": "Poarta ladului",
+                  "text": "Cel mai îngust și dramatic sector al Cheilor Bicazului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Pridvorul ladului",
+                  "text": "Un punct de belvedere în Cheile Bicazului, oferind o perspectivă largă asupra defileului.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Peștera Bardócz",
+                  "text": "Un punct de belvedere și o mică peșteră în peisajul impresionant al Cheilor Bicazului.",
+                  "category": "natural",
+                  "coords": [
+                        25.821921,
+                        46.8161
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "O formațiune stâncoasă naturală din regiunea Bicaz, care seamănă cu o poartă de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altar stone",
+                  "text": "A striking rock peak in the Bicaz Gorge, considered an iconic landmark of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813471,
+                        46.814353
+                  ]
+            },
+            {
+                  "name": "Cheile Bicazului",
+                  "text": "A spectacular gorge in the Carpathians, impressive for its towering rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834461,
+                        46.817504
+                  ]
+            },
+            {
+                  "name": "Canyon stone",
+                  "text": "A prominent rock formation located in the heart of the imposing Bicaz Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83007,
+                        46.812345
+                  ]
+            },
+            {
+                  "name": "Munticelu Cave",
+                  "text": "A cave located near the Bicaz Gorge, known for its interesting limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852066,
+                        46.833441
+                  ]
+            },
+            {
+                  "name": "Hell's Gate",
+                  "text": "The narrowest and most dramatic section of the Bicaz Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.820223,
+                        46.812261
+                  ]
+            },
+            {
+                  "name": "Hell's porch",
+                  "text": "A viewpoint in the Bicaz Gorge offering a wide perspective over the canyon.",
+                  "category": "natural",
+                  "coords": [
+                        25.818695,
+                        46.808857
+                  ]
+            },
+            {
+                  "name": "Bardócz cave",
+                  "text": "A viewpoint and small cave located within the impressive landscape of the Bicaz Gorge.",
+                  "category": "natural",
+                  "coords": [
+                        25.821921,
+                        46.8161
+                  ]
+            },
+            {
+                  "name": "Poarta de Piatra",
+                  "text": "A natural rock formation in the Bicaz region resembling a stone gate.",
+                  "category": "landmark",
+                  "coords": [
+                        25.813521,
+                        46.808386
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-NT", coords: [25.83, 46.82],
     name: { de: "Bicaz-Schlucht", hu: "Békási-szoros", ro: "Cheile Bicazului", en: "Bicaz Gorge" },
     description: { de: "Spektakuläre Kalksteinschlucht zwischen Transsilvanien und Moldau.", hu: "Látványos mészkőszurdok Erdély és Moldva között.", ro: "Chei calcaroase spectaculoase între Transilvania și Moldova.", en: "Spectacular limestone gorge between Transylvania and Moldavia." , es: "Espectacular desfiladero de piedra caliza entre Transilvania y Moldavia.", pt: "Espetacular desfiladeiro de calcário entre a Transilvânia e a Moldávia.", fr: "Gorges spectaculaires de calcaire entre la Transylvanie et la Moldavie."},
     facts: { de: ["8 km lang, Felsen 300 m hoch.", "Teil Hășmaș-Nationalpark.", "Straße DN12C."], hu: ["8 km hosszú, 300 m magas sziklák.", "Nagyhagymás Nemzeti Park része.", "DN12C út."], ro: ["8 km, pereți de 300 m.", "Parte din Parcul Național Hășmaș.", "Pe DN12C."], en: ["8 km long, 300-m walls.", "Part of Hășmaș National Park.", "Road DN12C."] , es: ["8 km de largo, rocas de 300 m de altura.", "Parte del Parque Nacional Hășmaș.", "Carretera DN12C."], pt: ["8 km de comprimento, rochas de 300 m de altura.", "Parte do Parque Nacional Hășmaș.", "Estrada DN12C."], fr: ["8 km de long, falaises de 300 m de haut.", "Partie du parc national de Hășmaș.", "Route DN12C."]},
@@ -36987,7 +42531,124 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-mud-volcanoes", type: "kid-landmark", parent: "RO-BZ", coords: [26.715, 45.35],
+    id: "landmark-mud-volcanoes", "sights": {
+      "de": [
+            {
+                  "name": "Schlammvulkane von Berca",
+                  "text": "Eine beeindruckende geologische Formation aus Schlammvulkanen bei Pâclele Mari.",
+                  "category": "landmark",
+                  "coords": [
+                        26.712164,
+                        45.358572
+                  ]
+            },
+            {
+                  "name": "Vulcanii Noroioși de la Pâclele Mici",
+                  "text": "Kleine Schlammvulkane bei Pâclele Mici, ein seltenes Naturphänomen in Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        26.708424,
+                        45.339227
+                  ]
+            },
+            {
+                  "name": "Salțele de la Arbănași",
+                  "text": "Die Schlammvulkane von Arbănași bieten einen faszinierenden Einblick in vulkanartige Aktivitäten ohne Magma.",
+                  "category": "landmark",
+                  "coords": [
+                        26.716306,
+                        45.384622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vulcanii Noroioși de la Pâclele Mari",
+                  "text": "Lenyűgöző geológiai képződmény, nagy iszapvulkánok Pâclele Mari környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.712164,
+                        45.358572
+                  ]
+            },
+            {
+                  "name": "Vulcanii Noroioși de la Pâclele Mici",
+                  "text": "Kis iszapvulkánok Pâclele Mici mellett, ritka természeti jelenség Európában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.708424,
+                        45.339227
+                  ]
+            },
+            {
+                  "name": "Salțele de la Arbănași",
+                  "text": "Az árbánási iszapvulkánok lenyűgöző betekintést nyújtanak a magma nélküli vulkáni tevékenységbe.",
+                  "category": "landmark",
+                  "coords": [
+                        26.716306,
+                        45.384622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vulcanii Noroioși de la Pâclele Mari",
+                  "text": "O formațiune geologică impresionantă de vulcani noroioși situată la Pâclele Mari.",
+                  "category": "landmark",
+                  "coords": [
+                        26.712164,
+                        45.358572
+                  ]
+            },
+            {
+                  "name": "Vulcanii Noroioși de la Pâclele Mici",
+                  "text": "Mici vulcani noroioși la Pâclele Mici, un fenomen natural rar în Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        26.708424,
+                        45.339227
+                  ]
+            },
+            {
+                  "name": "Salțele de la Arbănași",
+                  "text": "Vulcanii noroioși de la Arbănași oferă o perspectivă fascinantă asupra activității de tip vulcanic fără magmă.",
+                  "category": "landmark",
+                  "coords": [
+                        26.716306,
+                        45.384622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pâclele Mari Mud Volcanoes",
+                  "text": "An impressive geological formation of mud volcanoes located at Pâclele Mari.",
+                  "category": "landmark",
+                  "coords": [
+                        26.712164,
+                        45.358572
+                  ]
+            },
+            {
+                  "name": "Pâclele Mici Mud Volcanoes",
+                  "text": "Small mud volcanoes at Pâclele Mici, a rare natural phenomenon in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        26.708424,
+                        45.339227
+                  ]
+            },
+            {
+                  "name": "Arbănași Mud Volcanoes",
+                  "text": "The Arbănași mud volcanoes offer a fascinating glimpse into volcano-like activity without magma.",
+                  "category": "landmark",
+                  "coords": [
+                        26.716306,
+                        45.384622
+                  ]
+            }
+      ]
+}, type: "kid-landmark", parent: "RO-BZ", coords: [26.715, 45.35],
     name: { de: "Schlammvulkane Buzău", hu: "Iszapvulkánok (Buzău)", ro: "Vulcanii Noroioși", en: "Mud Volcanoes" },
     description: { de: "Seltene Naturerscheinung: kalte Vulkane aus Schlamm.", hu: "Ritka természeti jelenség: hideg iszapvulkánok.", ro: "Fenomen natural rar: vulcani reci cu noroi.", en: "Rare natural phenomenon: cold mud volcanoes." , es: "Fenómeno natural raro: volcanes fríos hechos de lodo.", pt: "Fenómeno natural raro: vulcões frios feitos de lama.", fr: "Phénomène naturel rare : volcans froids formés de boue."},
     facts: { de: ["Gas drückt Schlamm an die Oberfläche.", "Naturreservat.", "Mondlandschaft."], hu: ["A gáz nyomja fel az iszapot.", "Természetvédelmi terület.", "Holdbéli táj."], ro: ["Gazele împing noroiul la suprafață.", "Rezervație naturală.", "Peisaj selenar."], en: ["Gas pushes mud to the surface.", "Nature reserve.", "Lunar landscape."] , es: ["El gas empuja el lodo a la superficie.", "Reserva natural.", "Paisaje lunar."], pt: ["O gás empurra a lama para a superfície.", "Reserva natural.", "Paisagem lunar."], fr: ["Le gaz pousse la boue vers la surface.", "Réserve naturelle.", "Paysage lunaire."]},
@@ -37064,7 +42725,124 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-merry-cemetery", type: "kid-landmark", parent: "RO-MM", coords: [23.692, 47.973],
+    id: "landmark-merry-cemetery", "sights": {
+      "de": [
+            {
+                  "name": "Casa Memorială \"Stan Ioan Pătraș\"",
+                  "text": "Das Gedenkhaus des Künstlers Stan Ioan Pătraș, dem Schöpfer des Lustigen Friedhofs.",
+                  "category": "museum",
+                  "coords": [
+                        23.691092,
+                        47.97119
+                  ]
+            },
+            {
+                  "name": "Fröhlicher Friedhof",
+                  "text": "Ein weltberühmter Friedhof in Săpânța, bekannt für seine farbenfrohen Holzkreuze.",
+                  "category": "landmark",
+                  "coords": [
+                        23.694717,
+                        47.971373
+                  ]
+            },
+            {
+                  "name": "Valtoare",
+                  "text": "Eine traditionelle, wasserbetriebene Waschanlage in Săpânța.",
+                  "category": "landmark",
+                  "coords": [
+                        23.699985,
+                        47.968681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Memorială \"Stan Ioan Pătraș\"",
+                  "text": "Stan Ioan Pătraș művész emlékháza, aki a Vidám Temetőt alapította.",
+                  "category": "museum",
+                  "coords": [
+                        23.691092,
+                        47.97119
+                  ]
+            },
+            {
+                  "name": "\"Vidám\" temető",
+                  "text": "Világhírű temető Szaploncán, amely színes fejfáiról és humoros verseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.694717,
+                        47.971373
+                  ]
+            },
+            {
+                  "name": "Valtoare",
+                  "text": "Hagyományos, vízzel működő népi mosóberendezés Szaploncán.",
+                  "category": "landmark",
+                  "coords": [
+                        23.699985,
+                        47.968681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Memorială \"Stan Ioan Pătraș\"",
+                  "text": "Casa memorială a artistului Stan Ioan Pătraș, creatorul Cimitirului Vesel.",
+                  "category": "museum",
+                  "coords": [
+                        23.691092,
+                        47.97119
+                  ]
+            },
+            {
+                  "name": "Cimitirul Vesel",
+                  "text": "Un cimitir faimos în întreaga lume, cunoscut pentru crucile sale viu colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        23.694717,
+                        47.971373
+                  ]
+            },
+            {
+                  "name": "Valtoare",
+                  "text": "O instalație tradițională de spălat cu apă în Săpânța.",
+                  "category": "landmark",
+                  "coords": [
+                        23.699985,
+                        47.968681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Stan Ioan Patras\" Memorial House",
+                  "text": "The memorial house of artist Stan Ioan Pătraș, the creator of the Merry Cemetery.",
+                  "category": "museum",
+                  "coords": [
+                        23.691092,
+                        47.97119
+                  ]
+            },
+            {
+                  "name": "Merry Cemetery",
+                  "text": "A world-famous cemetery in Săpânța, renowned for its colorful wooden crosses and poetic epitaphs.",
+                  "category": "landmark",
+                  "coords": [
+                        23.694717,
+                        47.971373
+                  ]
+            },
+            {
+                  "name": "Valtoare",
+                  "text": "A traditional water-powered washing installation located in Săpânța.",
+                  "category": "landmark",
+                  "coords": [
+                        23.699985,
+                        47.968681
+                  ]
+            }
+      ]
+}, type: "kid-landmark", parent: "RO-MM", coords: [23.692, 47.973],
     name: { de: "Fröhlicher Friedhof Săpânța", hu: "Szaplonca vidám temetője", ro: "Cimitirul Vesel din Săpânța", en: "Merry Cemetery of Săpânța" },
     description: { de: "Bunte geschnitzte Grabkreuze mit humorvollen Versen.", hu: "Színes faragott sírkeresztek humoros versekkel.", ro: "Cruci de lemn colorate, cu versuri haioase.", en: "Colorful carved wooden crosses with humorous verses." , es: "Cruces de tumbas talladas de colores con versos humorísticos.", pt: "Cruzes de túmulos esculpidas e coloridas com versos humorísticos.", fr: "Croix funéraires sculptées et colorées avec des vers humoristiques."},
     facts: { de: ["Begründet 1935 von Stan Ioan Pătraș.", "Über 800 bemalte Kreuze.", "Einzigartig in Europa."], hu: ["1935-ben Stan Ioan Pătraș alapította.", "Több mint 800 festett kereszt.", "Európában egyedülálló."], ro: ["Început în 1935 de Stan Ioan Pătraș.", "Peste 800 de cruci pictate.", "Unic în Europa."], en: ["Started in 1935 by Stan Ioan Pătraș.", "Over 800 painted crosses.", "Unique in Europe."] , es: ["Fundado en 1935 por Stan Ioan Pătraș.", "Más de 800 cruces pintadas.", "Único en Europa."], pt: ["Fundado em 1935 por Stan Ioan Pătraș.", "Mais de 800 cruzes pintadas.", "Único na Europa."], fr: ["Fondé en 1935 par Stan Ioan Pătraș.", "Plus de 800 croix peintes.", "Unique en Europe."]},
@@ -37457,7 +43235,160 @@ export const romaniaTraditions: POI[] = [
     },
   },
   {
-    id: "trad-paste", type: "historical", parent: "RO", coords: [25.5, 46.0],
+    id: "trad-paste", "sights": {
+      "de": [
+            {
+                  "name": "Defileu, zid de piatra",
+                  "text": "Ein Aussichtspunkt, der den Blick auf eine Schlucht und eine Steinmauer freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        25.495886,
+                        46.035836
+                  ]
+            },
+            {
+                  "name": "Cădere de apă la podeț",
+                  "text": "Aussichtspunkt auf einen kleinen Wasserfall bei einer Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        25.476923,
+                        45.994343
+                  ]
+            },
+            {
+                  "name": "Râpa verde",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf die umliegende Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.468667,
+                        46.004412
+                  ]
+            },
+            {
+                  "name": "Stânci ca o cetate",
+                  "text": "Natürliche Felsformationen, die an eine Festung erinnern und beeindruckende Ausblicke bieten.",
+                  "category": "natural",
+                  "coords": [
+                        25.474422,
+                        45.996196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Defileu, zid de piatra",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a szurdokra és egy kőfalra.",
+                  "category": "natural",
+                  "coords": [
+                        25.495886,
+                        46.035836
+                  ]
+            },
+            {
+                  "name": "Cădere de apă la podeț",
+                  "text": "Kilátópont egy hídnál lévő kis vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        25.476923,
+                        45.994343
+                  ]
+            },
+            {
+                  "name": "Râpa verde",
+                  "text": "Festői kilátópont, amely panorámás kilátást nyújt a környező természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        25.468667,
+                        46.004412
+                  ]
+            },
+            {
+                  "name": "Stânci ca o cetate",
+                  "text": "Erődhöz hasonló természetes sziklaalakzatok, amelyek lenyűgöző kilátást nyújtanak a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.474422,
+                        45.996196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Defileu, zid de piatra",
+                  "text": "Un punct de observație care oferă vedere spre un defileu și un zid de piatră.",
+                  "category": "natural",
+                  "coords": [
+                        25.495886,
+                        46.035836
+                  ]
+            },
+            {
+                  "name": "Cădere de apă la podeț",
+                  "text": "Punct de observație spre o mică cădere de apă lângă un podeț.",
+                  "category": "natural",
+                  "coords": [
+                        25.476923,
+                        45.994343
+                  ]
+            },
+            {
+                  "name": "Râpa verde",
+                  "text": "Un punct de observație pitoresc care oferă o perspectivă panoramică asupra peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        25.468667,
+                        46.004412
+                  ]
+            },
+            {
+                  "name": "Stânci ca o cetate",
+                  "text": "Formațiuni stâncoase naturale care seamănă cu o cetate, oferind vederi impresionante asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        25.474422,
+                        45.996196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Defileu, zid de piatra",
+                  "text": "A viewpoint offering a vista of a gorge and a stone wall.",
+                  "category": "natural",
+                  "coords": [
+                        25.495886,
+                        46.035836
+                  ]
+            },
+            {
+                  "name": "Cădere de apă la podeț",
+                  "text": "Viewpoint looking towards a small waterfall by a bridge.",
+                  "category": "natural",
+                  "coords": [
+                        25.476923,
+                        45.994343
+                  ]
+            },
+            {
+                  "name": "Râpa verde",
+                  "text": "A scenic viewpoint offering a panoramic perspective of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.468667,
+                        46.004412
+                  ]
+            },
+            {
+                  "name": "Stânci ca o cetate",
+                  "text": "Natural rock formations resembling a fortress, providing impressive views of the area.",
+                  "category": "natural",
+                  "coords": [
+                        25.474422,
+                        45.996196
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO", coords: [25.5, 46.0],
     name: { ro: "Tradiții de Paște", en: "Easter Traditions", hu: "Húsvéti hagyományok", de: "Ostertraditionen" },
     description: { ro: "Încondeierea ouălor și slujba de Înviere.", en: "Egg painting and the Resurrection service.", hu: "Tojásírás és a feltámadási mise.", de: "Eier bemalen und der Auferstehungsgottesdienst." , es: "Pintado de huevos y servicio religioso de resurrección.", pt: "Pintura de ovos e serviço religioso da ressurreição.", fr: "Peinture d'œufs et service religieux de la résurrection."},
     facts: { ro: ["Ouăle roșii sunt un simbol principal."], en: ["Red eggs are a main symbol."], hu: ["A piros tojások a fő szimbólumok."], de: ["Rote Eier sind ein Hauptsymbol."] , es: ["Los huevos rojos son un símbolo principal."], pt: ["Os ovos vermelhos são o símbolo principal."], fr: ["Les œufs rouges sont le symbole principal."]},
@@ -37507,7 +43438,88 @@ export const romaniaTraditions: POI[] = [
     },
   },
   {
-    id: "trad-colindat", type: "historical", parent: "RO", coords: [25.0, 47.0],
+    id: "trad-colindat", "sights": {
+      "de": [
+            {
+                  "name": "Lisztes-bérc",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in den ungarischen Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        25.00034,
+                        46.96726
+                  ]
+            },
+            {
+                  "name": "reformatus vendégház",
+                  "text": "Ein Gästehaus der Reformierten Kirche, das Unterkünfte in ruhiger Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.977769,
+                        46.969581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lisztes-bérc",
+                  "text": "Kilátóhely a magyarországi hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        25.00034,
+                        46.96726
+                  ]
+            },
+            {
+                  "name": "ref. vendégház",
+                  "text": "A református egyház vendégháza, amely szállást kínál nyugodt környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.977769,
+                        46.969581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lisztes-bérc",
+                  "text": "Un punct de observație care oferă panorame în munții Ungariei.",
+                  "category": "natural",
+                  "coords": [
+                        25.00034,
+                        46.96726
+                  ]
+            },
+            {
+                  "name": "reformatus vendégház",
+                  "text": "O casă de oaspeți a Bisericii Reformate, care oferă cazare într-un cadru liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        24.977769,
+                        46.969581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lisztes-bérc",
+                  "text": "A viewpoint offering vistas in the Hungarian mountains.",
+                  "category": "natural",
+                  "coords": [
+                        25.00034,
+                        46.96726
+                  ]
+            },
+            {
+                  "name": "reformatus vendégház",
+                  "text": "A guest house operated by the Reformed Church, offering accommodation in a quiet setting.",
+                  "category": "landmark",
+                  "coords": [
+                        24.977769,
+                        46.969581
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO", coords: [25.0, 47.0],
     name: { ro: "Colindatul de Crăciun", en: "Christmas Caroling", hu: "Karácsonyi kántálás", de: "Weihnachtssingen" },
     description: { ro: "Tradiție de iarnă în care grupuri merg din casă în casă.", en: "Winter tradition where groups go from house to house.", hu: "Téli hagyomány, amikor csoportok házról házra járnak.", de: "Wintertradition, bei der Gruppen von Haus zu Haus gehen." , es: "Tradición invernal donde los grupos van de casa en casa.", pt: "Tradição de inverno em que grupos vão de casa em casa.", fr: "Tradition hivernale où des groupes vont de maison en maison."},
     facts: { ro: ["Colindatul de ceată bărbătească este în patrimoniul UNESCO."], en: ["Men's group caroling is in UNESCO heritage."], hu: ["A férficsoportos kántálás az UNESCO örökség része."], de: ["Das Singen in Männergruppen gehört zum UNESCO-Kulturerbe."] , es: ["El canto en grupos de hombres es Patrimonio de la UNESCO."], pt: ["O canto em grupos masculinos é Património da UNESCO."], fr: ["Le chant en groupes d'hommes fait partie du patrimoine de l'UNESCO."]},
@@ -37663,7 +43675,52 @@ export const romaniaWildlife: POI[] = [
     },
   },
   {
-    id: "wild-rasul", type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
+    id: "wild-rasul", "sights": {
+      "de": [
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "Eine markante Felsformation im Ceahlău-Massiv, die mit lokalen Legenden verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "Jellegzetes sziklaalakzat a Ceahlău-hegységben, amelyhez helyi legendák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "O formațiune stâncoasă remarcabilă din masivul Ceahlău, de care sunt legate legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stânca Dochiei",
+                  "text": "A prominent rock formation in the Ceahlău Massif associated with local legends.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963555,
+                        46.974671
+                  ]
+            }
+      ]
+}, type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
     name: { ro: "Râsul (Lynx)", en: "Carpathian Lynx", hu: "Kárpáti hiúz", de: "Karpatenluchs" },
     description: { ro: "Cea mai mare felină sălbatică din Europa.", en: "The largest wild feline in Europe.", hu: "Európa legnagyobb vadmacskája.", de: "Die größte Wildkatze in Europa." , es: "El felino salvaje más grande de Europa.", pt: "O maior felino selvagem da Europa.", fr: "Le plus grand félin sauvage d'Europe."},
     facts: { ro: ["Trăiește în păduri dese."], en: ["Lives in dense forests."], hu: ["Sűrű erdőkben él."], de: ["Lebt in dichten Wäldern."] , es: ["Vive en bosques densos."], pt: ["Vive em florestas densas."], fr: ["Vit dans les forêts denses."]},
@@ -37688,7 +43745,124 @@ export const romaniaWildlife: POI[] = [
     },
   },
   {
-    id: "wild-zimbrul", type: "animal-habitat", parent: "RO-NT", coords: [26.2, 47.2],
+    id: "wild-zimbrul", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Secu",
+                  "text": "Eine Sammlung religiöser und historischer Artefakte im Kloster Secu.",
+                  "category": "museum",
+                  "coords": [
+                        26.183944,
+                        47.200301
+                  ]
+            },
+            {
+                  "name": "Situl Arheologic Vechiul Schit Nifon",
+                  "text": "Die Überreste einer alten Einsiedelei in der Region Vânători Neamț.",
+                  "category": "historical",
+                  "coords": [
+                        26.172812,
+                        47.204262
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vânători Neamț",
+                  "text": "Ein Naturpark in Rumänien, der für seine Wisent-Population bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.20096,
+                        47.175551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Secu",
+                  "text": "Vallási és történelmi tárgyak gyűjteménye a Secu-kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        26.183944,
+                        47.200301
+                  ]
+            },
+            {
+                  "name": "Situl Arheologic Vechiul Schit Nifon",
+                  "text": "Egy régi remetelak maradványai a Vânători Neamț régióban.",
+                  "category": "historical",
+                  "coords": [
+                        26.172812,
+                        47.204262
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vânători Neamț",
+                  "text": "Romániai natúrpark, amely az itt élő európai bölényekről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        26.20096,
+                        47.175551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Secu",
+                  "text": "O colecție de artefacte religioase și istorice găzduită de Mănăstirea Secu.",
+                  "category": "museum",
+                  "coords": [
+                        26.183944,
+                        47.200301
+                  ]
+            },
+            {
+                  "name": "Situl Arheologic Vechiul Schit Nifon",
+                  "text": "Vestigiile unui vechi schit situat în regiunea Vânători Neamț.",
+                  "category": "historical",
+                  "coords": [
+                        26.172812,
+                        47.204262
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vânători Neamț",
+                  "text": "Un parc natural din România, renumit pentru populația sa de zimbri.",
+                  "category": "natural",
+                  "coords": [
+                        26.20096,
+                        47.175551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Secu Monastery Museum Collection",
+                  "text": "A collection of religious and historical artifacts housed at the Secu Monastery.",
+                  "category": "museum",
+                  "coords": [
+                        26.183944,
+                        47.200301
+                  ]
+            },
+            {
+                  "name": "Situl Arheologic Vechiul Schit Nifon",
+                  "text": "The remains of an old hermitage located in the Vânători Neamț region.",
+                  "category": "historical",
+                  "coords": [
+                        26.172812,
+                        47.204262
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vânători Neamț",
+                  "text": "A natural park in Romania famous for its European bison population.",
+                  "category": "natural",
+                  "coords": [
+                        26.20096,
+                        47.175551
+                  ]
+            }
+      ]
+}, type: "animal-habitat", parent: "RO-NT", coords: [26.2, 47.2],
     name: { ro: "Zimbrul European", en: "European Bison", hu: "Európai bölény", de: "Wisent" },
     description: { ro: "Cel mai mare mamifer terestru din Europa, reintrodus în natură.", en: "The largest land mammal in Europe, reintroduced.", hu: "Európa legnagyobb szárazföldi emlőse, visszatelepítve.", de: "Das größte Landsäugetier Europas, wieder eingeführt." , es: "El mamífero terrestre más grande de Europa, reintroducido.", pt: "O maior mamífero terrestre da Europa, reintroduzido.", fr: "Le plus grand mammifère terrestre d'Europe, réintroduit."},
     facts: { ro: ["Prezent în rezervații precum Vânători-Neamț."], en: ["Present in reserves like Vânători-Neamț."], hu: ["Vânători-Neamț rezervátumában él."], de: ["Präsent im Reservat Vânători-Neamț."] , es: ["Presente en la reserva de Vânători-Neamț."], pt: ["Presente na reserva de Vânători-Neamț."], fr: ["Présent dans la réserve de Vânători-Neamț."]},
@@ -38076,7 +44250,52 @@ export const romaniaFolk: POI[] = [
 export const romaniaExtraPois: POI[] = [
   // ARAD (RO-AR)
   {
-    id: "ro-poi-moneasa", type: "landmark", parent: "RO-AR", coords: [22.2583, 46.4583],
+    id: "ro-poi-moneasa", "sights": {
+      "de": [
+            {
+                  "name": "Cuptorul de Topit Fier",
+                  "text": "Ruinen eines alten Eisenschmelzofens in Moneasa.",
+                  "category": "historical",
+                  "coords": [
+                        22.271055,
+                        46.466073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cuptorul de Topit Fier",
+                  "text": "Egy régi vasolvasztó kemence romjai Moneasában.",
+                  "category": "historical",
+                  "coords": [
+                        22.271055,
+                        46.466073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cuptorul de Topit Fier",
+                  "text": "Ruinele unui vechi cuptor de topit fier în Moneasa.",
+                  "category": "historical",
+                  "coords": [
+                        22.271055,
+                        46.466073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cuptorul de Topit Fier",
+                  "text": "Ruins of an old iron smelting furnace in Moneasa.",
+                  "category": "historical",
+                  "coords": [
+                        22.271055,
+                        46.466073
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-AR", coords: [22.2583, 46.4583],
     name: { de: "Moneasa", hu: "Menyháza", ro: "Stațiunea Moneasa", en: "Moneasa Resort" },
     description: { de: "Bekannter Kurort.", hu: "Híres gyógyüdülőhely.", ro: "Stațiune balneoclimaterică cunoscută.", en: "Well-known spa resort." , es: "Famoso balneario.", pt: "Estância termal bem conhecida.", fr: "Célèbre station thermale."},
     facts: { de: [], hu: [], ro: ["Moneasa (în maghiară Menyháza) este satul de reședință al comunei cu același nume din județul Arad, Crișana, România."], en: ["Moneasa (Hungarian: Menyháza) is a commune in Arad County, Romania.", "Its administrative surface stretches over 6,824 hectares (16,860 acres) and it is composed of two villages, Moneasa and Rănușa (Kisróna)."] , es: [], pt: [], fr: []},
@@ -38180,7 +44399,232 @@ export const romaniaExtraPois: POI[] = [
 
   // BIHOR (RO-BH)
   {
-    id: "ro-poi-baile-felix", type: "landmark", parent: "RO-BH", coords: [21.9833, 46.9833],
+    id: "ro-poi-baile-felix", "sights": {
+      "de": [
+            {
+                  "name": "Pârâul Peta",
+                  "text": "Ein Naturschutzgebiet, das für sein warmes Thermalwasser und seltene Seerosen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.999398,
+                        46.997682
+                  ]
+            },
+            {
+                  "name": "Felixarium",
+                  "text": "Ein moderner Wasserpark und Unterhaltungskomplex im Thermalkurort Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.976612,
+                        46.989604
+                  ]
+            },
+            {
+                  "name": "Aqua Park President",
+                  "text": "Ein beliebter Aquapark in Băile Felix mit zahlreichen Thermalbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        21.984226,
+                        46.979371
+                  ]
+            },
+            {
+                  "name": "Ștrand termal venus",
+                  "text": "Eine Thermal-Freibadanlage im Kurort 1 Mai bei Băile Felix.",
+                  "category": "landmark",
+                  "coords": [
+                        21.991234,
+                        47.000614
+                  ]
+            },
+            {
+                  "name": "Strandul cu valuri - Baile 1 Mai",
+                  "text": "Ein Freizeitkomplex im Kurort 1 Mai, bekannt für sein Thermal-Wellenbad.",
+                  "category": "landmark",
+                  "coords": [
+                        22.004306,
+                        46.995519
+                  ]
+            },
+            {
+                  "name": "Ștrandul Apollo",
+                  "text": "Eines der ältesten und bekanntesten Thermalschwimmbäder im Kurort Băile Felix.",
+                  "category": "landmark",
+                  "coords": [
+                        21.978894,
+                        46.993444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pârâul Peta",
+                  "text": "Meleg termálvizéről és ritka tündérrózsáiról híres természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        21.999398,
+                        46.997682
+                  ]
+            },
+            {
+                  "name": "Felixarium",
+                  "text": "Modern vízi park és szórakoztató komplexum Félixfürdő termálüdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.976612,
+                        46.989604
+                  ]
+            },
+            {
+                  "name": "Aqua Park President",
+                  "text": "Népszerű élményfürdő Félixfürdőn számos termálmedencével.",
+                  "category": "landmark",
+                  "coords": [
+                        21.984226,
+                        46.979371
+                  ]
+            },
+            {
+                  "name": "Ștrand termal venus",
+                  "text": "Termálvizes strandkomplexum a Félixfürdő melletti Püspökfürdőn (1 Mai).",
+                  "category": "landmark",
+                  "coords": [
+                        21.991234,
+                        47.000614
+                  ]
+            },
+            {
+                  "name": "Strandul cu valuri - Baile 1 Mai",
+                  "text": "Püspökfürdői (1 Mai) szabadidős komplexum, amely hullámmedencéjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.004306,
+                        46.995519
+                  ]
+            },
+            {
+                  "name": "Ștrandul Apollo",
+                  "text": "Félixfürdő egyik legrégebbi és legismertebb termálvizes strandja.",
+                  "category": "landmark",
+                  "coords": [
+                        21.978894,
+                        46.993444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pârâul Peta",
+                  "text": "O rezervație naturală renumită pentru apele sale termale și nuferii rari.",
+                  "category": "natural",
+                  "coords": [
+                        21.999398,
+                        46.997682
+                  ]
+            },
+            {
+                  "name": "Felixarium",
+                  "text": "Un parc acvatic modern și complex de divertisment în stațiunea Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.976612,
+                        46.989604
+                  ]
+            },
+            {
+                  "name": "Aqua Park President",
+                  "text": "Un parc acvatic popular din Băile Felix cu numeroase piscine termale.",
+                  "category": "landmark",
+                  "coords": [
+                        21.984226,
+                        46.979371
+                  ]
+            },
+            {
+                  "name": "Ștrand termal venus",
+                  "text": "Un complex termal în aer liber situat în stațiunea Băile 1 Mai.",
+                  "category": "landmark",
+                  "coords": [
+                        21.991234,
+                        47.000614
+                  ]
+            },
+            {
+                  "name": "Strandul cu valuri - Baile 1 Mai",
+                  "text": "Un complex de agrement din stațiunea Băile 1 Mai, cunoscut pentru piscina cu valuri.",
+                  "category": "landmark",
+                  "coords": [
+                        22.004306,
+                        46.995519
+                  ]
+            },
+            {
+                  "name": "Ștrandul Apollo",
+                  "text": "Unul dintre cele mai vechi și faimoase ștranduri termale din stațiunea Băile Felix.",
+                  "category": "landmark",
+                  "coords": [
+                        21.978894,
+                        46.993444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pârâul Peta",
+                  "text": "A nature reserve famous for its warm thermal waters and rare water lilies.",
+                  "category": "natural",
+                  "coords": [
+                        21.999398,
+                        46.997682
+                  ]
+            },
+            {
+                  "name": "Felixarium",
+                  "text": "A modern water park and entertainment complex in the thermal resort of Băile Felix.",
+                  "category": "recreational",
+                  "coords": [
+                        21.976612,
+                        46.989604
+                  ]
+            },
+            {
+                  "name": "Aqua Park President",
+                  "text": "A popular aqua park in Băile Felix featuring numerous thermal pools.",
+                  "category": "landmark",
+                  "coords": [
+                        21.984226,
+                        46.979371
+                  ]
+            },
+            {
+                  "name": "Ștrand termal venus",
+                  "text": "A thermal swimming complex located in the 1 Mai resort near Băile Felix.",
+                  "category": "landmark",
+                  "coords": [
+                        21.991234,
+                        47.000614
+                  ]
+            },
+            {
+                  "name": "Strandul cu valuri - Baile 1 Mai",
+                  "text": "A leisure complex in the 1 Mai resort known for its thermal wave pool.",
+                  "category": "landmark",
+                  "coords": [
+                        22.004306,
+                        46.995519
+                  ]
+            },
+            {
+                  "name": "Ștrandul Apollo",
+                  "text": "One of the oldest and most famous thermal swimming pools in the Băile Felix resort.",
+                  "category": "landmark",
+                  "coords": [
+                        21.978894,
+                        46.993444
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BH", coords: [21.9833, 46.9833],
     name: { de: "Thermalbad Felix", hu: "Félixfürdő", ro: "Băile Felix", en: "Băile Felix" },
     description: { de: "Größtes Thermalbad in Rumänien.", hu: "Románia legnagyobb termálfürdője.", ro: "Cea mai mare stațiune balneară din România.", en: "Largest thermal spa in Romania." , es: "El balneario termal más grande de Rumania.", pt: "A maior estância termal da Roménia.", fr: "La plus grande station thermale de Roumanie."},
     facts: { de: ["Băile Felix (deutsch Bad Felix, ungarisch Félixfürdő) ist ein Kurort mit Thermalquellen von internationalem Ruf im Kreis Bihor im westlichen Rumänien.", "Die Heilquellen werden seit etwa tausend Jahren genutzt.", "Die Wassertemperatur beträgt 20 bis 49 °C."], hu: [], ro: ["Băile Felix (în maghiară Félixfürdő) este un sat în comuna Sânmartin din județul Bihor, Crișana, România.", "Băile Felix se află la ca.", "10 km sud de municipiul Oradea."], en: ["Băile Felix (Hungarian: Félixfürdő) is a thermal spa resort near the commune of Sânmartin in Bihor County, Transylvania, Romania.", "Băile Felix is at a close distance to Oradea, a major city in western Romania."] , es: ["Băile Felix es un balneario de aguas termales con reputación internacional en el distrito de Bihor, al oeste de Rumania.", "Los manantiales curativos se utilizan desde hace unos mil años.", "La temperatura del agua oscila entre 20 y 49 °C."], pt: ["Băile Felix é uma estância de águas termais com reputação internacional no distrito de Bihor, no oeste da Roménia.", "As fontes curativas são utilizadas há cerca de mil anos.", "A temperatura da água varia entre 20 e 49 °C."], fr: ["Băile Felix est une station thermale de renommée internationale située dans le județ de Bihor, dans l'ouest de la Roumanie.", "Les sources curatives sont exploitées depuis environ mille ans.", "La température de l'eau est comprise entre 20 et 49 °C."]},
@@ -38630,7 +45074,88 @@ export const romaniaExtraPois: POI[] = [
 }
   },
   {
-    id: "ro-poi-parcul-rodnei", type: "landmark", parent: "RO-BN", coords: [24.8, 47.5333],
+    id: "ro-poi-parcul-rodnei", "sights": {
+      "de": [
+            {
+                  "name": "Omului",
+                  "text": "Ein markanter Berggipfel im Nationalpark Rodna-Gebirge in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.815162,
+                        47.547061
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "Ein bekannter Gipfel im Rodna-Gebirge, der für seine Wanderwege geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ember-csúcs",
+                  "text": "A Radnai-havasok Nemzeti Park egyik hegycsúcsa Romániában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.815162,
+                        47.547061
+                  ]
+            },
+            {
+                  "name": "Gargaló",
+                  "text": "A Radnai-havasok egyik népszerű hegycsúcsa, amely kedvelt túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omului",
+                  "text": "Un vârf montan proeminent din Parcul Național Munții Rodnei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.815162,
+                        47.547061
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "Un vârf cunoscut din Munții Rodnei, apreciat pentru traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omului",
+                  "text": "A prominent mountain peak in the Rodna Mountains National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.815162,
+                        47.547061
+                  ]
+            },
+            {
+                  "name": "Gărgălău",
+                  "text": "A well-known peak in the Rodna Mountains, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        24.812423,
+                        47.564064
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BN", coords: [24.8, 47.5333],
     name: { de: "Nationalpark Rodna-Gebirge", hu: "Radnai-havasok Nemzeti Park", ro: "Parcul Național Munții Rodnei", en: "Rodna Mountains National Park" },
     description: { de: "Höchstes Gebirge der Ostkarpaten.", hu: "A Keleti-Kárpátok legmagasabb hegysége.", ro: "Cei mai înalți munți din Carpații Orientali.", en: "Highest mountains of the Eastern Carpathians." , es: "Las montañas más altas de los Cárpatos Orientales.", pt: "As montanhas mais altas dos Cárpatos Orientais.", fr: "Les plus hautes montagnes des Carpates orientales."},
     facts: { de: ["i4i6 Der Nationalpark Rodna-Gebirge (rumänisch Parcul Național Munții Rodnei) liegt im Rodna-Gebirge im Norden Rumäniens.", "Er erstreckt sich auf einem Areal von 46.399 Hektar in den Kreisen Maramureș und Bistrița-Năsăud.", "Der 1990 ausgewiesenen Park umfasst eine Fläche von 472 km² und hat die WDPA ID 11171."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: ["Parcul Național Rodna este o arie protejată de interes național ce corespunde categoriei a II-a IUCN (parc național) situată în nordul României, pe teritoriile județelor Bistrița-Năsăud și Maramureș, în zona centrală a Munților Rodnei.", "Parcul Național Munții Rodnei este desemnat internațional ca Rezervație a biosferei de către Comitetul UNESCO, în cadrul programului \"Omul și Biosfera\"."], en: ["The Rodna Mountains National Park (Romanian: Parcul Național Munții Rodnei) is a protected area (national park category II IUCN) situated in Romania, in the administrative territory of counties Bistrița-Năsăud, Maramureș, and Suceava."] , es: ["i4i6 El Parque Nacional de las Montañas Rodna (en rumano Parcul Național Munții Rodnei) se encuentra en las montañas Rodna, al norte de Rumanía.", "Se extiende sobre una superficie de 46.399 hectáreas en los distritos de Maramureș y Bistrița-Năsăud.", "El parque, designado en 1990, cubre una superficie de 472 km² y tiene el ID WDPA 11171."], pt: ["i4i6 O Parque Nacional das Montanhas Rodna (em romeno Parcul Național Munții Rodnei) situa-se nas montanhas Rodna, no norte da Roménia.", "Estende-se por uma área de 46.399 hectares nos distritos de Maramureș e Bistrița-Năsăud.", "O parque designado em 1990 cobre uma área de 472 km² e possui o ID WDPA 11171."], fr: ["i4i6 Le parc national des monts Rodna (en roumain Parcul Național Munții Rodnei) est situé dans les monts Rodna, au nord de la Roumanie.", "Il s'étend sur une superficie de 46 399 hectares dans les județe de Maramureș et de Bistrița-Năsăud.", "Désigné en 1990, le parc couvre une superficie de 472 km² et possède l'identifiant WDPA 11171."]},
@@ -38761,7 +45286,124 @@ export const romaniaExtraPois: POI[] = [
 
   // BUZĂU (RO-BZ)
   {
-    id: "ro-poi-focul-viu", type: "landmark", parent: "RO-BZ", coords: [26.5444, 45.5417],
+    id: "ro-poi-focul-viu", "sights": {
+      "de": [
+            {
+                  "name": "Focul Viu Terca",
+                  "text": "Ein Naturschutzgebiet in Rumänien, bekannt für seine natürlich brennenden Gase.",
+                  "category": "natural",
+                  "coords": [
+                        26.562227,
+                        45.535127
+                  ]
+            },
+            {
+                  "name": "Focul Viu",
+                  "text": "Ein seltenes Naturphänomen, bei dem Gase aus der Erde ständig brennen.",
+                  "category": "landmark",
+                  "coords": [
+                        26.548756,
+                        45.535896
+                  ]
+            },
+            {
+                  "name": "Sfinxul de la Buștea",
+                  "text": "Eine natürliche Felsformation in der Nähe von Lopătari, die einer Sphinx ähnelt.",
+                  "category": "historical",
+                  "coords": [
+                        26.579003,
+                        45.519022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Focul Viu Terca",
+                  "text": "Romániai természetvédelmi terület, amely a természetes öngyulladású gázairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.562227,
+                        45.535127
+                  ]
+            },
+            {
+                  "name": "Focul Viu",
+                  "text": "Ritka természeti jelenség, ahol a földből feltörő gázok folyamatosan égnek.",
+                  "category": "landmark",
+                  "coords": [
+                        26.548756,
+                        45.535896
+                  ]
+            },
+            {
+                  "name": "Sfinxul de la Buștea",
+                  "text": "Lopătari közelében található természetes sziklaalakzat, amely egy szfinxre hasonlít.",
+                  "category": "historical",
+                  "coords": [
+                        26.579003,
+                        45.519022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Focul Viu Terca",
+                  "text": "O rezervație naturală din România, cunoscută pentru emanațiile de gaze ce ard natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.562227,
+                        45.535127
+                  ]
+            },
+            {
+                  "name": "Focul Viu",
+                  "text": "Un fenomen natural rar unde gazele ce ies din pământ ard constant.",
+                  "category": "landmark",
+                  "coords": [
+                        26.548756,
+                        45.535896
+                  ]
+            },
+            {
+                  "name": "Sfinxul de la Buștea",
+                  "text": "O formațiune stâncoasă naturală de lângă Lopătari, care seamănă cu un sfinx.",
+                  "category": "historical",
+                  "coords": [
+                        26.579003,
+                        45.519022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Focul Viu Terca",
+                  "text": "A nature reserve in Romania known for its naturally burning gas vents.",
+                  "category": "natural",
+                  "coords": [
+                        26.562227,
+                        45.535127
+                  ]
+            },
+            {
+                  "name": "Focul Viu",
+                  "text": "A rare natural phenomenon where gases emerging from the earth burn constantly.",
+                  "category": "landmark",
+                  "coords": [
+                        26.548756,
+                        45.535896
+                  ]
+            },
+            {
+                  "name": "Sfinxul de la Buștea",
+                  "text": "A natural rock formation near Lopătari that resembles a sphinx.",
+                  "category": "historical",
+                  "coords": [
+                        26.579003,
+                        45.519022
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BZ", coords: [26.5444, 45.5417],
     name: { de: "Lebendiges Feuer", hu: "Élő tűz", ro: "Focul Viu", en: "Living Fire" },
     description: { de: "Erdgasflammen aus dem Boden.", hu: "Földgázlángok a talajból.", ro: "Flăcări de gaze naturale din pământ.", en: "Natural gas flames coming from the ground." , es: "Llamas de gas natural que brotan del suelo.", pt: "Chamas de gás natural que brotam do solo.", fr: "Flammes de gaz naturel sortant du sol."},
     facts: { de: ["Negură Bunget ist eine Metal-Band aus Rumänien."], hu: ["Andreiașu de Jos település Romániában, Moldvában, Vrancea megyében."], ro: ["Focul Viu se poate referi la: Focul Viu din Satul Terca Comuna Lopătari, Buzău Focul Viu din Satul Andreiașu de Jos Comuna Andreiașu de Jos, Vrancea Focul Viu de pe Vârful Răiuți din Satul Răiuți Comuna Reghiu, Vrancea Focul Viu din estul dealului Ciolanu situat pe interfluviul de pe dreapta văii Ojasca.", "Peștera Ghețarul de la Focul Viu, una dintre peșterile aflate în Munții Bihorului.", "Focul viu (film) (Firestarter 2: Rekindled)"], en: ["Living Fire is a Brazilian Christian hardcore band, hailing from São Paulo, Brazil, formed in 2006.", "Their first studio album, Jesus Rules, was released in 2012 by Thumper Punk Records.", "The subsequent album, Dead to Sin, was also released by Thumper Punk Records, in 2014."] , es: ["Negură Bunget es una banda de metal de Rumanía."], pt: ["Negură Bunget é uma banda de metal da Roménia."], fr: ["Negură Bunget est un groupe de metal roumain."]},
@@ -38786,7 +45428,52 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-lacul-vulturilor", type: "lake", parent: "RO-BZ", coords: [26.0969, 45.5033],
+    id: "ro-poi-lacul-vulturilor", "sights": {
+      "de": [
+            {
+                  "name": "Lacul Sec",
+                  "text": "Eine natürliche Attraktion in der Gegend des Adlersees (Eagles' Lake).",
+                  "category": "landmark",
+                  "coords": [
+                        26.136456,
+                        45.512106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lacul Sec",
+                  "text": "Természeti látnivaló a Sas-tó (Lacul Vulturilor) környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136456,
+                        45.512106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Sec",
+                  "text": "O atracție naturală situată în zona Lacului Vulturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136456,
+                        45.512106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lacul Sec",
+                  "text": "A natural attraction located in the Eagles' Lake area.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136456,
+                        45.512106
+                  ]
+            }
+      ]
+}, type: "lake", parent: "RO-BZ", coords: [26.0969, 45.5033],
     name: { de: "Adlersee", hu: "Sasok tava", ro: "Lacul Vulturilor", en: "Eagles' Lake" },
     description: { de: "Periglazialer See im Siriu-Gebirge.", hu: "Periglaciális tó a Sziryu-hegységben.", ro: "Lac periglaciar în Munții Siriu.", en: "Periglacial lake in the Siriu Mountains." , es: "Lago periglacial en las montañas de Siriu.", pt: "Lago periglacial nas montanhas de Siriu.", fr: "Lac périglaciaire dans les montagnes de Siriu."},
     facts: { de: ["Sita Buzăului [ˈsita buˈsəului] (veraltet Sita Buzău ungarisch Szitabodza) ist eine Gemeinde im Kreis Covasna in der Region Siebenbürgen in Rumänien."], hu: ["A Szilon-havas (románul: Masivul Siriu) a Kárpátkanyar, s ezen belül a Keleti-Kárpátok csoportjába tartozó középmagas hegység.", "A hegység a Kárpátok főgerincének alkotórésze, amely délnyugat felé a Tatárhavasban, majd a Csukás-hegységben folytatódik, észak felé pedig a Háromszéki-havasokban, közeli szomszédja a Lóhavas és a főgerincen kívül a Moldva felé eső Pintyillő, mely a legközelebbi nálánál magasabb hegység a maga 1772 méteres csúcsával.", "A hegység területén jelenleg kisebb részben Háromszék ill."], ro: ["Lacul Vulturilor (denumit și Lacul Fără Fund) este un lac periglaciar aflat în Munții Siriului, la o altitudine de 1.420 m, în apropierea localității Gura Siriului din comuna Siriu, județul Buzău, România și se află pe suprafața comunei Chiojdu.", "Adâncimea sa maximă este de 2,5 m."], en: [] , es: [], pt: [], fr: []},
@@ -38865,7 +45552,124 @@ export const romaniaExtraPois: POI[] = [
 
   // CARAȘ-SEVERIN (RO-CS)
   {
-    id: "ro-poi-cheile-nerei", type: "landmark", parent: "RO-CS", coords: [21.8333, 44.9333],
+    id: "ro-poi-cheile-nerei", "sights": {
+      "de": [
+            {
+                  "name": "Parcul Național Cheile Nerei-Beușnița",
+                  "text": "Ein weitläufiges Naturschutzgebiet im Anina-Gebirge mit spektakulären Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        21.835931,
+                        44.941812
+                  ]
+            },
+            {
+                  "name": "Wasserfall Cascada Beușnița",
+                  "text": "Ein wunderschöner Wasserfall im Nationalpark Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Valea Beiului",
+                  "text": "Ein malerisches Tal mit klarem Wasser im Nationalpark Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.791595,
+                        44.936004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parcul Național Cheile Nerei-Beușnița",
+                  "text": "Kiterjedt természetvédelmi terület az Anina-hegységben, látványos szurdokokkal.",
+                  "category": "natural",
+                  "coords": [
+                        21.835931,
+                        44.941812
+                  ]
+            },
+            {
+                  "name": "Cascada Beușnița",
+                  "text": "Gyönyörű vízesés a Néra-szurdok–Beușnița Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Valea Beiului",
+                  "text": "Festői völgy tiszta vizű forrásokkal a Néra-szurdok–Beușnița Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.791595,
+                        44.936004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Național Cheile Nerei-Beușnița",
+                  "text": "O arie protejată vastă în Munții Aninei, cunoscută pentru cheile sale spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        21.835931,
+                        44.941812
+                  ]
+            },
+            {
+                  "name": "Cascada Beușnița",
+                  "text": "O cascadă superbă situată în Parcul Național Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Valea Beiului",
+                  "text": "O vale pitorească cu ape limpezi în Parcul Național Cheile Nerei-Beușnița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.791595,
+                        44.936004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parcul Național Cheile Nerei-Beușnița",
+                  "text": "A vast nature reserve in the Anina Mountains, known for its spectacular gorges.",
+                  "category": "natural",
+                  "coords": [
+                        21.835931,
+                        44.941812
+                  ]
+            },
+            {
+                  "name": "Beușnița Waterfall",
+                  "text": "A beautiful waterfall located within the Cheile Nerei-Beușnița National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        21.803482,
+                        44.935215
+                  ]
+            },
+            {
+                  "name": "Valea Beiului",
+                  "text": "A picturesque valley with clear waters in the Cheile Nerei-Beușnița National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        21.791595,
+                        44.936004
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-CS", coords: [21.8333, 44.9333],
     name: { de: "Nera-Klamm Nationalpark", hu: "Néra-szurdok Nemzeti Park", ro: "Parcul Național Cheile Nerei-Beușnița", en: "Cheile Nerei-Beușnița National Park" },
     description: { de: "Schluchten, Wasserfälle und blaue Seen.", hu: "Szurdokok, vízesések és kék tavak.", ro: "Chei, cascade și lacuri albastre.", en: "Gorges, waterfalls, and blue lakes." , es: "Desfiladeros, cascadas y lagos azules.", pt: "Desfiladeiros, cascatas e lagos azuis.", fr: "Gorges, cascades et lacs bleus."},
     facts: { de: ["i3i5 Der Nationalpark Cheile Nerei - Beușnița (auch Nationalpark Nera-Klamm - Beușnița, rumänisch Parcul Național Cheile Nerei - Beușnița) ist ein Nationalpark im Anina-Gebirge, Kreis Caraș-Severin, im Südwesten Rumäniens.", "Er erstreckt sich auf einem Areal von 76.062 Hektar und besteht aus einer Karstlandschaft aus Kalkstein auf einer Länge von 22 Kilometern entlang des Neratals mit einer Lagenhöhe zwischen 200 und 1116 Meter an der höchsten Bergspitze, dem Leordis Gipfel."], hu: ["Ez a szócikk Románia turizmusát tárgyalja, azon belül az ország turisztikai felosztását, a legfontosabb és legjellegzetesebb turisztikai látnivalókat, a természetjárás, üdülő- és gyógyturizmus fő jellemzőit, valamint a turistáknak nyújtott szolgáltatások, a szállás, étkezés és közlekedés adottságait."], ro: [], en: [] , es: ["El Parque Nacional Cheile Nerei - Beușnița (también Parque Nacional Desfiladeros del Nera - Beușnița, en rumano Parcul Național Cheile Nerei - Beușnița) es un parque nacional en las montañas Anina, distrito de Caraș-Severin, en el suroeste de Rumanía.", "Se extiende sobre un área de 76.062 hectáreas y consiste en un paisaje kárstico de piedra caliza a lo largo de 22 kilómetros del valle del Nera, con una altitud de entre 200 y 1116 metros en el pico más alto, la cima Leordis."], pt: ["O Parque Nacional Cheile Nerei - Beușnița (também Parque Nacional Desfiladeiros do Nera - Beușnița, em romeno Parcul Național Cheile Nerei - Beușnița) é um parque nacional nas montanhas Anina, distrito de Caraș-Severin, no sudoeste da Roménia.", "Estende-se por uma área de 76.062 hectares e consiste numa paisagem cárstica de calcário ao longo de 22 quilómetros do vale do Nera, com uma altitude entre 200 e 1116 metros no pico mais alto, o cume Leordis."], fr: ["Le parc national Cheile Nerei - Beușnița (également parc national des Gorges de la Nera - Beușnița, en roumain Parcul Național Cheile Nerei - Beușnița) est un parc national situé dans les monts Anina, județ de Caraș-Severin, dans le sud-ouest de la Roumanie.", "Il s'étend sur une superficie de 76 062 hectares et se compose d'un paysage karstique calcaire sur une longueur de 22 kilomètres le long de la vallée de la Nera, avec une altitude comprise entre 200 et 1 116 mètres au sommet le plus élevé, le mont Leordis."]},
@@ -40501,7 +47305,124 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-parcul-comana", type: "landmark", parent: "RO-GR", coords: [26.1433, 44.175],
+    id: "ro-poi-parcul-comana", "sights": {
+      "de": [
+            {
+                  "name": "Mausoleul mănăstirii",
+                  "text": "Ein monumentales Mausoleum im Naturpark Comana.",
+                  "category": "historical",
+                  "coords": [
+                        26.143176,
+                        44.176553
+                  ]
+            },
+            {
+                  "name": "Foișor vedere panoramică",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den Naturpark Comana.",
+                  "category": "natural",
+                  "coords": [
+                        26.101744,
+                        44.161941
+                  ]
+            },
+            {
+                  "name": "Parc de aventură Comana",
+                  "text": "Ein Freizeitpark mit verschiedenen Outdoor-Aktivitäten im Naturpark Comana.",
+                  "category": "landmark",
+                  "coords": [
+                        26.132668,
+                        44.172303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausoleul mănăstirii",
+                  "text": "Monumentális mauzóleum a Comana Natúrpark területén.",
+                  "category": "historical",
+                  "coords": [
+                        26.143176,
+                        44.176553
+                  ]
+            },
+            {
+                  "name": "Foișor vedere panoramică",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Comana Natúrparkra.",
+                  "category": "natural",
+                  "coords": [
+                        26.101744,
+                        44.161941
+                  ]
+            },
+            {
+                  "name": "Parc de aventură Comana",
+                  "text": "Szabadtéri kalandpark a Comana Natúrpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.132668,
+                        44.172303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausoleul mănăstirii",
+                  "text": "Un mausoleu monumental situat în Parcul Natural Comana.",
+                  "category": "historical",
+                  "coords": [
+                        26.143176,
+                        44.176553
+                  ]
+            },
+            {
+                  "name": "Foișor vedere panoramică",
+                  "text": "Un foișor ce oferă o vedere panoramică asupra Parcului Natural Comana.",
+                  "category": "natural",
+                  "coords": [
+                        26.101744,
+                        44.161941
+                  ]
+            },
+            {
+                  "name": "Parc de aventură Comana",
+                  "text": "Un parc de distracții cu diverse activități în aer liber în Comana.",
+                  "category": "landmark",
+                  "coords": [
+                        26.132668,
+                        44.172303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausoleul mănăstirii",
+                  "text": "A monumental mausoleum located in the Comana Natural Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.143176,
+                        44.176553
+                  ]
+            },
+            {
+                  "name": "Foișor vedere panoramică",
+                  "text": "A viewpoint offering a panoramic vista over the Comana Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        26.101744,
+                        44.161941
+                  ]
+            },
+            {
+                  "name": "Parc de aventură Comana",
+                  "text": "An adventure park with various outdoor activities in the Comana area.",
+                  "category": "landmark",
+                  "coords": [
+                        26.132668,
+                        44.172303
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-GR", coords: [26.1433, 44.175],
     name: { de: "Naturpark Comana", hu: "Comana Natúrpark", ro: "Parcul Natural Comana", en: "Comana Natural Park" },
     description: { de: "Feuchtgebiet und Waldgebiet.", hu: "Vizes élőhely és erdő.", ro: "Zonă umedă și forestieră.", en: "Wetland and forest area." , es: "Humedal y zona boscosa.", pt: "Zona húmida e área florestal.", fr: "Zone humide et zone forestière."},
     facts: { de: ["i3i6 Der Naturpark Comana (rumänisch Parcul Natural Comana) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Comana Natúrpark (románul Parcul Natural Comana) IUCN V-ös besorolású védett terület Románia déli részén, Giurgiu megye területén, Bukarest és Giurgiu városok között félúton."], ro: ["Parcul Natural Comana este o arie protejată de interes național ce corespunde categoriei a V-a IUCN (parc natural), situat în Muntenia, pe teritoriul județului Giurgiu."], en: ["The Comana Natural Park (Romanian: Parcul Natural Comana) is a protected area (natural park category V IUCN) situated in Romania, in the administrative territory of Giurgiu County.", "The park is roughly a 45-minute drive from the Romanian capital of Bucharest.", "The park was established in 2004 and has recreational activities such as kayaking,"] , es: ["El Parque Natural Comana es una reserva natural en Rumanía declarada según las directrices de la UICN (categoría V)."], pt: ["O Parque Natural Comana (em romeno Parcul Natural Comana) é uma reserva natural declarada segundo as diretrizes da UICN na Roménia e pertence à categoria V da UICN."], fr: ["Le parc naturel de Comana (en roumain Parcul Natural Comana) est une zone protégée en Roumanie déclarée selon les directives de l'UICN et appartenant à la catégorie V."]},
@@ -41173,7 +48094,196 @@ export const romaniaExtraPois: POI[] = [
 
   // MEHEDINȚI (RO-MH)
   {
-    id: "ro-poi-portile-de-fier", type: "landmark", parent: "RO-MH", coords: [22.5333, 44.6667],
+    id: "ro-poi-portile-de-fier", "sights": {
+      "de": [
+            {
+                  "name": "Festung Diana",
+                  "text": "Eine bedeutende römische Festungsanlage an der Donau in der Nähe des Eisernen Tors.",
+                  "category": "historical",
+                  "coords": [
+                        22.544371,
+                        44.653731
+                  ]
+            },
+            {
+                  "name": "Museul Hidrocentralei Porțile de Fier",
+                  "text": "Ein Museum am Eisernen Tor, das dem Bau und der Funktion des dortigen Wasserkraftwerks gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.533787,
+                        44.674802
+                  ]
+            },
+            {
+                  "name": "Сипска плажа",
+                  "text": "Ein Strandabschnitt an der Donau im Bereich des Eisernen Tors.",
+                  "category": "recreational",
+                  "coords": [
+                        22.547925,
+                        44.652987
+                  ]
+            },
+            {
+                  "name": "Tito spomen obeležje",
+                  "text": "Ein Denkmal zu Ehren von Josip Broz Tito am Eisernen Tor.",
+                  "category": "historical",
+                  "coords": [
+                        22.519171,
+                        44.668038
+                  ]
+            },
+            {
+                  "name": "Crucea lui Sfantul Petru",
+                  "text": "Ein religiöses Informations- und Gedenkkreuz in der Nähe der Donau am Eisernen Tor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.532799,
+                        44.68046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Каструм Дијана",
+                  "text": "Egy jelentős római kori erődítmény a Duna partján, a Vaskapu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.544371,
+                        44.653731
+                  ]
+            },
+            {
+                  "name": "Museul Hidrocentralei Porțile de Fier",
+                  "text": "A Vaskapunál található múzeum, amely az ottani vízerőmű építését és működését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.533787,
+                        44.674802
+                  ]
+            },
+            {
+                  "name": "Сипска плажа",
+                  "text": "Duna-parti strandterület a Vaskapu térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.547925,
+                        44.652987
+                  ]
+            },
+            {
+                  "name": "Tito spomen obeležje",
+                  "text": "Josip Broz Tito tiszteletére emelt emlékhely a Vaskapunál.",
+                  "category": "historical",
+                  "coords": [
+                        22.519171,
+                        44.668038
+                  ]
+            },
+            {
+                  "name": "Crucea lui Sfantul Petru",
+                  "text": "Vallási információs és emlékkereszt a Duna közelében a Vaskapunál.",
+                  "category": "landmark",
+                  "coords": [
+                        22.532799,
+                        44.68046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Каструм Дијана",
+                  "text": "Un sit arheologic important reprezentând o cetate romană la Dunăre, lângă Porțile de Fier.",
+                  "category": "historical",
+                  "coords": [
+                        22.544371,
+                        44.653731
+                  ]
+            },
+            {
+                  "name": "Museul Hidrocentralei Porțile de Fier",
+                  "text": "Un muzeu situat la Porțile de Fier, dedicat construcției și funcționării hidrocentralei locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.533787,
+                        44.674802
+                  ]
+            },
+            {
+                  "name": "Сипска плажа",
+                  "text": "O zonă de plajă pe malul Dunării în regiunea Porților de Fier.",
+                  "category": "recreational",
+                  "coords": [
+                        22.547925,
+                        44.652987
+                  ]
+            },
+            {
+                  "name": "Tito spomen obeležje",
+                  "text": "Un monument dedicat lui Josip Broz Tito situat la Porțile de Fier.",
+                  "category": "historical",
+                  "coords": [
+                        22.519171,
+                        44.668038
+                  ]
+            },
+            {
+                  "name": "Crucea lui Sfantul Petru",
+                  "text": "O cruce informativă și comemorativă situată în apropierea Dunării la Porțile de Fier.",
+                  "category": "landmark",
+                  "coords": [
+                        22.532799,
+                        44.68046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diana Fortress",
+                  "text": "An important Roman fortress site on the Danube near the Iron Gates.",
+                  "category": "historical",
+                  "coords": [
+                        22.544371,
+                        44.653731
+                  ]
+            },
+            {
+                  "name": "Museul Hidrocentralei Porțile de Fier",
+                  "text": "A museum at the Iron Gates dedicated to the construction and operation of the hydroelectric power station.",
+                  "category": "museum",
+                  "coords": [
+                        22.533787,
+                        44.674802
+                  ]
+            },
+            {
+                  "name": "Sip Beach",
+                  "text": "A beach area on the Danube in the Iron Gates region.",
+                  "category": "recreational",
+                  "coords": [
+                        22.547925,
+                        44.652987
+                  ]
+            },
+            {
+                  "name": "Tito spomen obeležje",
+                  "text": "A memorial monument dedicated to Josip Broz Tito at the Iron Gates.",
+                  "category": "historical",
+                  "coords": [
+                        22.519171,
+                        44.668038
+                  ]
+            },
+            {
+                  "name": "Crucea lui Sfantul Petru",
+                  "text": "An informational and commemorative cross located near the Danube at the Iron Gates.",
+                  "category": "landmark",
+                  "coords": [
+                        22.532799,
+                        44.68046
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-MH", coords: [22.5333, 44.6667],
     name: { de: "Eisernes Tor", hu: "Vaskapu-szoros", ro: "Porțile de Fier", en: "Iron Gates" },
     description: { de: "Schlucht und Wasserkraftwerk an der Donau.", hu: "Szurdok és vízerőmű a Dunán.", ro: "Defileu și hidrocentrală pe Dunăre.", en: "Gorge and hydroelectric dam on the Danube." , es: "Desfiladero y central hidroeléctrica en el Danubio.", pt: "Desfiladeiro e central hidroelétrica no Danúbio.", fr: "Gorges et centrale hydroélectrique sur le Danube."},
     facts: { de: ["Das Eiserne Tor (rumänisch Porțile de Fier; serbisch Ђердап, Đerdap) ist ein Durchbruchstal der Donau.", "Es liegt in den südlichen Karpaten, genauer zwischen den Serbischen Karpaten und dem Banater Gebirge, an der Grenze von Serbien und Rumänien.", "Bis zu seiner Entschärfung 1972 im Zusammenhang mit dem Kraftwerk Eisernes Tor 1 galt es als der für die Schifffahrt gefährlichste Flussabschnitt der Donau, der nicht ohne ortskundige Lotsen passiert werden konnte."], hu: ["A magyar tulipán vagy al-dunai tulipán (Tulipa hungarica) endemikus tulipánfaj a Vaskapu-szorosban és környékén.", "Borbás Vince írta le először 1882-ben, – Rapaics Raymund a növény felfedezőjeként „Rochel Antal”-t nevezi meg 1835-ben, – mikor ez a vidék az Osztrák–Magyar Monarchia területét képezte.", "Jelenleg védett növény a romániai Mehedinți megyében, Szörényvárhoz (románul Drobeta-Turnu Severin) közel eső vidéken, a Kazán-szorosban (románul Cazanele Dunării) és a Vaskapu-szorosban (románul Porțile de Fier 1)."], ro: ["Porțile de Fier (limba sârbă: Гвоздена врата / Gvozdena vrata, croată: Željezna vrata, maghiară: Vaskapu, turcă: Demirkapi, germană: Eisernes Tor, bulgară: Железни врата) este numele unui defileu pe fluviul Dunăre.", "Face parte din granița dintre Serbia și România.", "În sensul larg, reprezintă 134 km din cursul Dunării, în sensul mai îngust doar barajul hidroelectric din apropierea orașului românesc Orșova."], en: ["The Iron Gates (Romanian: Porțile de Fier; Serbian: Ђердапска клисура, Đerdapska klisura) is a gorge on the river Danube.", "It forms part of the boundary between Serbia to the south and Romania to the north.", "In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orșova, that contains two hydroelectric dams, with two power stations, Iron Gate I Hydroelectric Power Station and Iron Gate II Hydroelectric Power Station."] , es: ["La Puerta de Hierro (en rumano Porțile de Fier; en serbio Ђердап, Đerdap) es un desfiladero del Danubio.", "Se encuentra en los Cárpatos meridionales, concretamente entre los Cárpatos serbios y las montañas del Banato, en la frontera entre Serbia y Rumanía.", "Hasta su regulación en 1972 en relación con la central eléctrica Puerta de Hierro 1, se consideraba el tramo fluvial más peligroso del Danubio para la navegación, que no podía transitarse sin pilotos locales expertos."], pt: ["As Portas de Ferro (em romeno Porțile de Fier; em sérvio Ђердап, Đerdap) são um desfiladeiro do Danúbio.", "Estão localizadas nos Cárpatos meridionais, mais precisamente entre os Cárpatos sérvios e as montanhas de Banat, na fronteira entre a Sérvia e a Roménia.", "Até à sua regularização em 1972, relacionada com a central elétrica das Portas de Ferro 1, era considerado o troço fluvial mais perigoso do Danúbio para a navegação, que não podia ser atravessado sem pilotos locais experientes."], fr: ["Les Portes de Fer (en roumain Porțile de Fier ; en serbe Ђердап, Đerdap) sont un défilé du Danube.", "Elles sont situées dans les Carpates méridionales, plus précisément entre les Carpates serbes et les monts du Banat, à la frontière entre la Serbie et la Roumanie.", "Jusqu'à son aménagement en 1972 dans le cadre de la construction de la centrale électrique des Portes de Fer 1, ce secteur était considéré comme le tronçon le plus dangereux du Danube pour la navigation, impossible à franchir sans l'aide de pilotes locaux."]},
@@ -41198,7 +48308,88 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-chipul-decebal", type: "landmark", parent: "RO-MH", coords: [22.2889, 44.6417],
+    id: "ro-poi-chipul-decebal", "sights": {
+      "de": [
+            {
+                  "name": "Statue des Decebalus",
+                  "text": "Eine monumentale Felsritzung des Dakerkönigs Decebalus an der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        22.291207,
+                        44.641162
+                  ]
+            },
+            {
+                  "name": "Tafel des Traian",
+                  "text": "Eine antike römische Gedenktafel, die in den Fels gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        22.309932,
+                        44.656779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statuia lui Decebal",
+                  "text": "Decebal dák király monumentális sziklába vájt szobra a Dunánál.",
+                  "category": "historical",
+                  "coords": [
+                        22.291207,
+                        44.641162
+                  ]
+            },
+            {
+                  "name": "Traianus táblája",
+                  "text": "Egy sziklába vésett ókori római emléktábla.",
+                  "category": "landmark",
+                  "coords": [
+                        22.309932,
+                        44.656779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statuia lui Decebal",
+                  "text": "O sculptură monumentală în stâncă a regelui dac Decebal, pe malul Dunării.",
+                  "category": "historical",
+                  "coords": [
+                        22.291207,
+                        44.641162
+                  ]
+            },
+            {
+                  "name": "Tabula Traiana",
+                  "text": "O placă memorială romană antică săpată în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.309932,
+                        44.656779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue of Decebalus",
+                  "text": "A monumental rock carving of the Dacian king Decebalus on the Danube.",
+                  "category": "historical",
+                  "coords": [
+                        22.291207,
+                        44.641162
+                  ]
+            },
+            {
+                  "name": "Trajan's Plaque",
+                  "text": "An ancient Roman memorial plaque carved into the rock.",
+                  "category": "landmark",
+                  "coords": [
+                        22.309932,
+                        44.656779
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-MH", coords: [22.2889, 44.6417],
     name: { de: "Felsskulptur des Decebalus", hu: "Decebal arcmása", ro: "Chipul lui Decebal", en: "Rock Sculpture of Decebalus" },
     description: { de: "Riesige Skulptur in der Donau-Schlucht.", hu: "Hatalmas szobor a Duna-szorosban.", ro: "Sculptură uriașă în defileul Dunării.", en: "Huge sculpture in the Danube gorge." , es: "Enorme escultura en el desfiladero del Danubio.", pt: "Escultura gigantesca no desfiladeiro do Danúbio.", fr: "Sculpture géante dans les gorges du Danube."},
     facts: { de: [], hu: [], ro: ["Chipul regelui dac Decebal este un basorelief înalt de 55 m, aflat pe malul stâncos al Dunării, între localitățile Eșelnița și Dubova, în apropiere de orașul Orșova,Mehedinți, România.", "Basorelieful îl reprezintă pe Decebal, ultimul rege al Daciei, fiind sculptat într-o stâncă de către sculptorul Florin Cotarcea, din orașul Orșova.", "Sculptorul a lucrat timp de zece ani, perioadă în care a fost ajutat de 11 alpiniști."], en: ["The rock sculpture of Decebalus (Romanian: Chipul regelui dac Decebal) is a colossal carving of the face of Decebalus (r.", "AD 87–106), the last king of Dacia, who fought against the Roman emperors Domitian and Trajan.", "The sculpture is located near the city of Orșova, in Mehedinți County."] , es: [], pt: [], fr: []},
@@ -43693,7 +50884,160 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-rezervatia-putna", type: "landmark", parent: "RO-VN", coords: [26.5667, 45.9167],
+    id: "ro-poi-rezervatia-putna", "sights": {
+      "de": [
+            {
+                  "name": "Cheile Tișiței",
+                  "text": "Eine geschützte Schlucht mit malerischen Wanderwegen in den Vrancea-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        26.585427,
+                        45.940547
+                  ]
+            },
+            {
+                  "name": "Cascada Putnei",
+                  "text": "Ein beeindruckender Wasserfall am Fluss Putna in einem Naturschutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            },
+            {
+                  "name": "Păstrăvăria Lepșa",
+                  "text": "Eine bekannte Forellenzucht im Dorf Lepșa im Vrancea-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        26.580843,
+                        45.946446
+                  ]
+            },
+            {
+                  "name": "Golul Roibului",
+                  "text": "Ein malerisches Berggebiet im Naturpark Putna-Vrancea.",
+                  "category": "landmark",
+                  "coords": [
+                        26.550218,
+                        45.886597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheile Tișiței",
+                  "text": "Védett szurdok festői túraútvonalakkal a Vrancea-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        26.585427,
+                        45.940547
+                  ]
+            },
+            {
+                  "name": "Cascada Putnei",
+                  "text": "Lenyűgöző vízesés a Putna-folyón egy természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            },
+            {
+                  "name": "Păstrăvăria Lepșa",
+                  "text": "Ismert pisztrángtenyészet Lepsa faluban, a Vrancea-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.580843,
+                        45.946446
+                  ]
+            },
+            {
+                  "name": "Golul Roibului",
+                  "text": "Festői hegyvidéki terület a Putna-Vrancea Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.550218,
+                        45.886597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheile Tișiței",
+                  "text": "O cheie protejată cu trasee montane pitorești în munții Vrancei.",
+                  "category": "natural",
+                  "coords": [
+                        26.585427,
+                        45.940547
+                  ]
+            },
+            {
+                  "name": "Cascada Putnei",
+                  "text": "O cascadă impresionantă pe râul Putna, situată într-o arie protejată.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            },
+            {
+                  "name": "Păstrăvăria Lepșa",
+                  "text": "O cunoscută păstrăvărie în satul Lepșa din munții Vrancei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.580843,
+                        45.946446
+                  ]
+            },
+            {
+                  "name": "Golul Roibului",
+                  "text": "O zonă montană pitorească în Parcul Natural Putna-Vrancea.",
+                  "category": "landmark",
+                  "coords": [
+                        26.550218,
+                        45.886597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheile Tișiței",
+                  "text": "A protected gorge with scenic hiking trails in the Vrancea Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        26.585427,
+                        45.940547
+                  ]
+            },
+            {
+                  "name": "Cascada Putnei",
+                  "text": "An impressive waterfall on the Putna River located in a protected area.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            },
+            {
+                  "name": "Păstrăvăria Lepșa",
+                  "text": "A well-known trout farm in the village of Lepșa in the Vrancea Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        26.580843,
+                        45.946446
+                  ]
+            },
+            {
+                  "name": "Golul Roibului",
+                  "text": "A scenic mountain area in the Putna-Vrancea Natural Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.550218,
+                        45.886597
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-VN", coords: [26.5667, 45.9167],
     name: { de: "Naturpark Putna-Vrancea", hu: "Putna-Vrancea Natúrpark", ro: "Parcul Natural Putna-Vrancea", en: "Putna-Vrancea Natural Park" },
     description: { de: "Schutzgebiet mit Wasserfällen und Wäldern.", hu: "Védett terület vízesésekkel és erdőkkel.", ro: "Arie protejată cu cascade și păduri.", en: "Protected area with waterfalls and forests." , es: "Zona protegida con cascadas y bosques.", pt: "Área protegida com cascatas e florestas.", fr: "Zone protégée avec cascades et forêts."},
     facts: { de: ["i3i6 Der Naturpark Putna-Vrancea (rumänisch Parcul Natural Putna) ist ein nach den IUCN-Richtlinien erklärtes Naturschutzgebiet in Rumänien und gehört zur IUCN-Kategorie V."], hu: ["A Putna–Vrancea Natúrpark (románul Parcul Natural Putna–Vrancea) IUCN V-ös besorolású védett terület Romániában Vrancea megye észak-nyugati részén, a Háromszéki-havasok vidékén."], ro: ["Parcul Natural Putna-Vrancea este o arie protejată de interes național, ce corespunde categoriei a V-a IUCN (parc natural), situată în sud-vestul Moldovei, pe teritoriul județului Vrancea."], en: ["The Putna-Vrancea Natural Park (Romanian: Parcul Natural Putna-Vrancea) is a protected area (natural park category V IUCN) situate in Romania, in administrative territory of Vrancea County."] , es: ["i3i6 El Parque Natural Putna-Vrancea (en rumano Parcul Natural Putna) es una reserva natural declarada según las directrices de la UICN en Rumanía y pertenece a la categoría V de la UICN."], pt: ["i3i6 O Parque Natural Putna-Vrancea (em romeno Parcul Natural Putna) é uma área de conservação declarada de acordo com as diretrizes da IUCN na Roménia e pertence à categoria V da IUCN."], fr: ["i3i6 Le parc naturel de Putna-Vrancea (en roumain Parcul Natural Putna) est une zone de protection de la nature déclarée selon les directives de l'UICN en Roumanie et appartient à la catégorie V de l'UICN."]},
@@ -43893,7 +51237,160 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-parang", type: "mountain", parent: "RO-GJ", coords: [23.5333, 45.3500],
+    id: "ro-poi-parang", "sights": {
+      "de": [
+            {
+                  "name": "Gruiu",
+                  "text": "Ein Berggipfel im Parâng-Gebirge in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Ein markanter Gipfel in der Gebirgskette des Parâng in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Ein hoher Gipfel im Parâng-Massiv der südlichen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Der höchste Gipfel des Parâng-Gebirges in Rumänien mit einer Höhe von 2519 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gruiu",
+                  "text": "Hegycsúcs a Páring-hegységben, a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Jellegzetes csúcs a Páring-hegység vonulatában, Romániában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Magas hegycsúcs a Déli-Kárpátok Páring-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Nagy-Páring",
+                  "text": "A Páring-hegység legmagasabb csúcsa Romániában, 2519 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gruiu",
+                  "text": "Un vârf montan în Munții Parâng din Carpații românești.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Un vârf proeminent în lanțul muntos al Parângului din România.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Un vârf înalt în masivul Parâng din Carpații Meridionali.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Cel mai înalt vârf din Munții Parâng, având o altitudine de 2519 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruiu",
+                  "text": "A mountain peak in the Parâng Mountains of the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "A distinctive peak within the Parâng mountain range in Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "A high peak in the Parâng massif of the Southern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "The highest peak of the Parâng Mountains in Romania, reaching an elevation of 2,519 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "RO-GJ", coords: [23.5333, 45.3500],
     name: { de: "Parâng-Gebirge", hu: "Páring-hegység", ro: "Munții Parâng", en: "Parâng Mountains" },
     description: { de: "Eines der höchsten Gebirgsmassive Rumäniens.", hu: "Románia egyik legmagasabb hegysége.", ro: "Unul dintre cele mai înalte masive muntoase din România.", en: "One of the highest mountain massifs in Romania." , es: "Uno de los macizos montañosos más altos de Rumanía.", pt: "Um dos maciços montanhosos mais altos da Roménia.", fr: "L'un des massifs montagneux les plus hauts de Roumanie."},
     facts: { de: ["Höchster Gipfel: Parângul Mare (2519 m).", "Bekannt für Gletscherseen.", "Beliebtes Skigebiet."], hu: ["Legmagasabb csúcs: Nagy-Páring (2519 m).", "Gleccsertavairól ismert.", "Népszerű síterület."], ro: ["Cel mai înalt vârf: Parângul Mare (2519 m).", "Cunoscut pentru lacurile glaciare.", "Zonă populară de schi."], en: ["Highest peak: Parângul Mare (2519 m).", "Known for glacial lakes.", "Popular skiing area."] , es: ["Pico más alto: Parângul Mare (2519 m).", "Conocido por sus lagos glaciares.", "Popular zona de esquí."], pt: ["Pico mais alto: Parângul Mare (2519 m).", "Conhecido pelos lagos glaciares.", "Popular estância de esqui."], fr: ["Sommet le plus élevé : Parângul Mare (2519 m).", "Réputé pour ses lacs glaciaires.", "Domaine skiable prisé."]},

@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const belarusLifeV2: POI[] = [
 
   {
-    id: "belarus-belovezhskaya-pushcha-life-v2",
+    id: "belarus-belovezhskaya-pushcha-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "Dieses Freilichtmuseum in Białowieża zeigt die traditionelle Holzarchitektur der russischen Bevölkerung von Podlachien.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "Dieses Museum im Nationalpark Białowieża widmet sich der Naturgeschichte des Urwaldes.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "Das streng geschützte Gebiet des Nationalparks Białowieża bewahrt einen der letzten Urwälder Europas.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Jagiełło-Eiche",
+                  "text": "Diese historische Eiche ist nach König Jogaila benannt und war einer der berühmtesten Bäume des Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "Dieser rekonstruierte Bahnsteig diente dem ehemaligen Zarenpalast im Herzen des Urwaldes von Białowieża.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Diese riesige Kiefer ist ein bemerkenswertes Naturdenkmal im alten Urwald von Białowieża.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "Dziedzinka ist ein historisches Forsthaus im Nationalpark Białowieża, das einst Naturforschern als Heim diente.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "Ez a białowieżai skanzen Podlasie orosz lakosságának hagyományos faépítészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "Ez a Białowieża Nemzeti Parkban található múzeum az őserdő természetrajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "A Białowieża Nemzeti Park szigorúan védett területe Európa egyik utolsó őserdejét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Dąb Jagiełły",
+                  "text": "Ezt a történelmi tölgyfát Jagelló királyról nevezték el, és az erdő egyik leghíresebb fája volt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "Ez a rekonstruált vasúti peron az egykori cári palotát szolgálta ki a Białowieża-erdő szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Ez az óriási fenyőfa a Białowieża-őserdő egyik nevezetes természeti látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "A Dziedzinka egy történelmi erdészlak a Białowieża Nemzeti Parkban, amely egykor természetkutatók otthona volt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "Acest muzeu în aer liber din Białowieża prezintă arhitectura tradițională din lemn a populației ruse din Podlasie.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "Acest muzeu din Parcul Național Białowieża este dedicat istoriei naturale a pădurii antice.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "Zona strict protejată a Parcului Național Białowieża conservă una dintre ultimele păduri virgine din Europa.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Dąb Jagiełły",
+                  "text": "Acest stejar istoric poartă numele regelui Jogaila și a fost unul dintre cei mai faimoși arbori din pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "Această platformă feroviară reconstruită a deservit fostul Palat al Țarului din inima Pădurii Białowieża.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Acest pin uriaș este un punct de reper natural notabil în cadrul vechii păduri Białowieża.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "Dziedzinka este o cabană forestieră istorică din Parcul Național Białowieża, care a fost cândva locuința unor cercetători ai naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "This open-air museum in Białowieża showcases traditional wooden architecture of the Russian population of Podlasie.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "This museum in the Białowieża National Park is dedicated to the natural history of the ancient forest.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Białowieża National Park Restricted Area",
+                  "text": "The strictly protected area of Białowieża National Park preserves one of Europe's last primeval forests.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "The King Jogaila Oak",
+                  "text": "This historic oak tree is named after King Jogaila and was one of the most famous trees in the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Reconstructed Peron \"Bialowieza Palace",
+                  "text": "This reconstructed railway platform served the former Tsar's Palace in the heart of the Białowieża Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Mast Pine tree",
+                  "text": "This giant pine tree is a notable natural landmark within the ancient Białowieża Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "Dziedzinka is a historic forest lodge in the Białowieża National Park, once home to nature researchers.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "wildlife",
     name: { de: "Nationalpark Belaweschskaja Puschtscha", hu: "Belavezsszkaja Puscsa Nemzeti Park", ro: "Parcul Național Belovezhskaya Pushcha", en: "Belovezhskaya Pushcha National Park"},
@@ -49,7 +310,88 @@ export const belarusLifeV2: POI[] = [
     },
   },
   {
-    id: "belarus-berezinsky-reserve-life-v2",
+    id: "belarus-berezinsky-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biosphärenreservat Beresina",
+                  "text": "Ein großes Naturschutzgebiet in Belarus, das wertvolle Sumpf- und Waldgebiete schützt.",
+                  "category": "natural",
+                  "coords": [
+                        28.340006,
+                        54.722011
+                  ]
+            },
+            {
+                  "name": "Лясны Заапарк",
+                  "text": "Ein Zoo innerhalb des Reservats, der einheimische Tiere der belarussischen Wälder zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298636,
+                        54.744152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бярэзінскі біясферны запаведнік",
+                  "text": "Hatalmas természetvédelmi terület Fehéroroszországban, amely mocsarakat és erdőket óv.",
+                  "category": "natural",
+                  "coords": [
+                        28.340006,
+                        54.722011
+                  ]
+            },
+            {
+                  "name": "Лясны Заапарк",
+                  "text": "A rezervátumon belüli állatkert, amely a fehérorosz erdők őshonos állatait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298636,
+                        54.744152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бярэзінскі біясферны запаведнік",
+                  "text": "O rezervatțe naturală vastă în Belarus, care protejează zone valoroase de mlaștină și pădure.",
+                  "category": "natural",
+                  "coords": [
+                        28.340006,
+                        54.722011
+                  ]
+            },
+            {
+                  "name": "Лясны Заапарк",
+                  "text": "O grădină zoologică în cadrul rezervației, care prezintă animale native din pădurile belaruse.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298636,
+                        54.744152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berezina Biosphere Reserve",
+                  "text": "A large nature reserve in Belarus protecting valuable marshlands and forests.",
+                  "category": "natural",
+                  "coords": [
+                        28.340006,
+                        54.722011
+                  ]
+            },
+            {
+                  "name": "Forest Zoo",
+                  "text": "A zoo within the reserve showcasing native animals of the Belarusian forests.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298636,
+                        54.744152
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "wildlife",
     name: { de: "Biosphärenreservat Beresinski", hu: "Berezinszkij Bioszféra-rezervátum", ro: "Rezervația Biosferei Berezinski", en: "Berezinsky Biosphere Reserve"},
@@ -139,7 +481,124 @@ export const belarusLifeV2: POI[] = [
       fr: ["La réserve naturelle s'étend sur 1 888 kilomètres carrés", "Le parc a été officiellement fondé en 1996", "Le système fluvial du Pripiat traverse toute la région", "Plus de 250 espèces d'oiseaux ont été recensées dans cette zone", "Les célèbres forêts alluviales de chênes occupent de grandes parties du parc", "Lieu de repos majeur pour la migration continentale des oiseaux au printemps"],
     }, image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"},
   {
-    id: "belarus-narochansky-national-park-life-v2",
+    id: "belarus-narochansky-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark \"Naratsch\"",
+                  "text": "Ein großes Schutzgebiet in Belarus, das für seine vielfältigen Ökosysteme und den Naratsch-See bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.694413,
+                        54.876573
+                  ]
+            },
+            {
+                  "name": "Вадзяны млын",
+                  "text": "Eine historische Wassermühle im Nationalpark Narotschanski.",
+                  "category": "landmark",
+                  "coords": [
+                        26.709806,
+                        54.86075
+                  ]
+            },
+            {
+                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "text": "Ein Soldatenfriedhof aus dem Ersten Weltkrieg im Nationalpark Narotschanski.",
+                  "category": "landmark",
+                  "coords": [
+                        26.703961,
+                        54.824331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нацыянальны парк «Нарачанскі»",
+                  "text": "Fehéroroszországi védett terület, amely változatos ökoszisztémájáról és a Naracs-tóról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.694413,
+                        54.876573
+                  ]
+            },
+            {
+                  "name": "Вадзяны млын",
+                  "text": "Történelmi vízimalom a Naracsanszki Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.709806,
+                        54.86075
+                  ]
+            },
+            {
+                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "text": "Első világháborús katonai temető a Naracsanszki Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.703961,
+                        54.824331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нацыянальны парк «Нарачанскі»",
+                  "text": "O arie protejată întinsă din Belarus, cunoscută pentru ecosistemele sale diverse și lacul Naraci.",
+                  "category": "natural",
+                  "coords": [
+                        26.694413,
+                        54.876573
+                  ]
+            },
+            {
+                  "name": "Вадзяны млын",
+                  "text": "O moară de apă istorică situată în cadrul Parcului Național Naraci.",
+                  "category": "landmark",
+                  "coords": [
+                        26.709806,
+                        54.86075
+                  ]
+            },
+            {
+                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "text": "Un cimitir militar din Primul Război Mondial situat în Parcul Național Naraci.",
+                  "category": "landmark",
+                  "coords": [
+                        26.703961,
+                        54.824331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narač National Park",
+                  "text": "A large protected area in Belarus known for its diverse ecosystems and Lake Narach.",
+                  "category": "natural",
+                  "coords": [
+                        26.694413,
+                        54.876573
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "A historic water mill located within the Narochansky National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.709806,
+                        54.86075
+                  ]
+            },
+            {
+                  "name": "World War I German cemetery",
+                  "text": "A military cemetery from the First World War located in the Narochansky National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.703961,
+                        54.824331
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "lake",
     name: { de: "Nationalpark Narotschanski", hu: "Narocsanszkij Nemzeti Park", ro: "Parcul Național Narochansky", en: "Narochansky National Park"},
@@ -499,7 +958,124 @@ export const belarusLifeV2: POI[] = [
       fr: ["Couvre une superficie totale de plus de 90 000 hectares", "Protège un tronçon naturel de 120 km de la rivière Pripiat", "Zone humide Ramsar internationalement reconnue depuis 2001", "L'une des plus importantes zones de frai continentales pour les poissons en Biélorussie", "Abrite plus de 70 espèces de mammifères et 250 espèces d'oiseaux", "Le système ramifié comprend des centaines de petits bras morts et d'îles"],
     }, image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"},
   {
-    id: "belarus-osveysky-reserve-life-v2",
+    id: "belarus-osveysky-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "text": "Ruinen einer Palastanlage aus dem 18. Jahrhundert in einem historischen Park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.117626,
+                        56.014408
+                  ]
+            },
+            {
+                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "text": "Die Überreste einer historischen Barockkirche im Osveysky-Landschaftsschutzgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        28.112854,
+                        56.013714
+                  ]
+            },
+            {
+                  "name": "Манастырскі шпіталь",
+                  "text": "Ein historisches Gebäude, das ehemals als Krankenhaus für das örtliche Kloster diente.",
+                  "category": "landmark",
+                  "coords": [
+                        28.113785,
+                        56.013723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "text": "Egy 18. századi palotakomplexum romjai egy történelmi parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.117626,
+                        56.014408
+                  ]
+            },
+            {
+                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "text": "Történelmi barokk templom maradványai az Osveysky tájvédelmi körzetben.",
+                  "category": "historical",
+                  "coords": [
+                        28.112854,
+                        56.013714
+                  ]
+            },
+            {
+                  "name": "Манастырскі шпіталь",
+                  "text": "Történelmi épület, amely korábban a helyi kolostor kórházaként működött.",
+                  "category": "landmark",
+                  "coords": [
+                        28.113785,
+                        56.013723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "text": "Ruinele unui complex palat de secol XVIII situat într-un parc istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        28.117626,
+                        56.014408
+                  ]
+            },
+            {
+                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "text": "Rămășițele unei biserici baroce istorice din rezervația peisagistică Osveia.",
+                  "category": "historical",
+                  "coords": [
+                        28.112854,
+                        56.013714
+                  ]
+            },
+            {
+                  "name": "Манастырскі шпіталь",
+                  "text": "O clădire istorică ce a servit anterior drept spital pentru mănăstirea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.113785,
+                        56.013723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace and park complex of the Gilzens and Shadurskys",
+                  "text": "The ruins of an 18th-century palace complex set within a historic park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.117626,
+                        56.014408
+                  ]
+            },
+            {
+                  "name": "Ruins of the Church of the Holy Trinity",
+                  "text": "The remains of a historic Baroque church in the Osveysky Landscape Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        28.112854,
+                        56.013714
+                  ]
+            },
+            {
+                  "name": "Monastery hospital",
+                  "text": "A historic building that formerly served as a hospital for the local monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.113785,
+                        56.013723
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Osweiski", hu: "Oszvejszkij Tájvédelmi Körzet", ro: "Rezervația Peisagistică Osveysky", en: "Osveysky Landscape Reserve"},
@@ -634,7 +1210,88 @@ export const belarusLifeV2: POI[] = [
       fr: ["La zone protégée s'étend sur une superficie de près de 35 000 hectares", "A été fortement façonnée par les glaciers de la glaciation de la Vistule", "Présente l'une des densités d'élans et de cerfs les plus élevées de toute la Biélorussie", "Abrite plus de 50 lacs forestiers et glaciaires isolés", "Zone de protection centrale pour le grand tétras, menacé de disparition", "Propose des safaris photo guidés pour l'observation des grands mammifères et des carnivores"],
     }, image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"},
   {
-    id: "belarus-kozyansky-reserve-life-v2",
+    id: "belarus-kozyansky-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей Обальскага камсамольскага падполля",
+                  "text": "Ein Museum in Obal, das an die Untergrundbewegung des Komsomol während des Zweiten Weltkriegs erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        29.283288,
+                        55.357962
+                  ]
+            },
+            {
+                  "name": "Руіны сядзібы Грабніцкіх",
+                  "text": "Die Ruinen des Hrabnitsky-Herrenhauses in Obal sind Überreste eines historischen Adelsbesitzes.",
+                  "category": "historical",
+                  "coords": [
+                        29.282047,
+                        55.357437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей Обальскага камсамольскага падполля",
+                  "text": "Múzeum Obalban, amely a második világháború alatti komszomol földalatti mozgalomnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        29.283288,
+                        55.357962
+                  ]
+            },
+            {
+                  "name": "Руіны сядзібы Грабніцкіх",
+                  "text": "A Hrabnitsky-udvarház romjai Obalban egy történelmi nemesi birtok maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        29.282047,
+                        55.357437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей Обальскага камсамольскага падполля",
+                  "text": "Un muzeu din Obal care comemorează mișcarea subterană Komsomol din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        29.283288,
+                        55.357962
+                  ]
+            },
+            {
+                  "name": "Руіны сядзібы Грабніцкіх",
+                  "text": "Ruinele conacului Hrabnitsky din Obal sunt vestigiile unei reședințe nobiliare istorice.",
+                  "category": "historical",
+                  "coords": [
+                        29.282047,
+                        55.357437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Obaĺ Komsomol Underground",
+                  "text": "A museum in Obal commemorating the Komsomol underground movement during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        29.283288,
+                        55.357962
+                  ]
+            },
+            {
+                  "name": "Ruins of the Hrabnitsky manor",
+                  "text": "The ruins of the Hrabnitsky manor in Obal are the remains of a historic noble estate.",
+                  "category": "historical",
+                  "coords": [
+                        29.282047,
+                        55.357437
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Kosjanski", hu: "Kozjanszkij Biológiai Rezervátum", ro: "Rezervația Biologică Kozyansky", en: "Kozyansky Biological Reserve"},
@@ -1086,7 +1743,52 @@ export const belarusLifeV2: POI[] = [
       fr: ["La superficie du parc historique s'étend sur environ 100 hectares", "Le célèbre 'Chêne de l'Amour' est estimé à plus de 200 ans", "Les vieux vergers abritent plus de 30 variétés de pommes différentes", "Le parc a été aménagé au XVIIIe siècle par la lignée noble des Prouchinsky", "Lieu d'hivernage important pour plusieurs espèces de chauves-souris à Minsk", "Le manoir Loubanski restauré sert aujourd'hui de musée"],
     }, image: "/poi-images/belarus-loshitsa-park-life-v2.webp"},
   {
-    id: "belarus-polessky-reserve-life-v2",
+    id: "belarus-polessky-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polessisches Staatliches Radioökologisches Schutzgebiet",
+                  "text": "Ein staatliches Naturschutzgebiet im belarussischen Teil der Sperrzone von Tschernobyl.",
+                  "category": "natural",
+                  "coords": [
+                        29.90991,
+                        51.626986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Палескі радыяцыйна-экалагічны запаведнік",
+                  "text": "Állami természetvédelmi terület a csernobili zóna fehéroroszországi részén.",
+                  "category": "natural",
+                  "coords": [
+                        29.90991,
+                        51.626986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Палескі радыяцыйна-экалагічны запаведнік",
+                  "text": "O rezervație naturală de stat situată în zona de excluziune a Cernobîlului din Belarus.",
+                  "category": "natural",
+                  "coords": [
+                        29.90991,
+                        51.626986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polesie Radioecological Reserve",
+                  "text": "A state nature reserve located in the Belarusian part of the Chernobyl exclusion zone.",
+                  "category": "natural",
+                  "coords": [
+                        29.90991,
+                        51.626986
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "wildlife",
     name: { de: "Polesskij-Reservat", hu: "Polesszkij Állami Sugárökológiai Rezervátum", ro: "Rezervația Radioecologică de Stat Polessky", en: "Polessky State Radioecological Reserve"},

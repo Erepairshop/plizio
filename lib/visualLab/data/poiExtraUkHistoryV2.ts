@@ -49,7 +49,304 @@ imageHint: "Stonehenge monoliths at sunrise",
     },
     image: "/poi-images/uk-stonehenge-history-v2.webp",
 },  {
-    id: "uk-hadrians-wall-history-v2",
+    id: "uk-hadrians-wall-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Die archäologische Stätte eines römischen Meilenkastells entlang des Hadrianswalls.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Ein bedeutendes römisches Hilfstruppenkastell und archäologische Stätte südlich des Hadrianswalls.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Überreste eines temporären römischen Marschlagers in der Nähe des Hadrianswalls.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Archäologische Stätte eines römischen Marschlagers in der Nähe des mittleren Abschnitts des Hadrianswalls.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Ein Museum an der Ausgrabungsstätte Vindolanda, das bemerkenswerte römische Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Archäologische Überreste römischer Marschlager in der Landschaft des Hadrianswalls.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Die gut erhaltenen Ruinen eines römischen Hilfstruppenkastells am Hadrianwall, auch bekannt als Housesteads.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Eine bedeutende römische Ausgrabungsstätte mit den Überresten aufeinanderfolgender Kastelle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Egy római mérfölderőd régészeti lelőhelye a Hadrianus-fal mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Jelentős római segédcsapat-erőd és régészeti lelőhely a Hadrianus-faltól délre.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Egy ideiglenes római menetelő tábor maradványai a Hadrianus-fal közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Római menetelő tábor régészeti lelőhelye a Hadrianus-fal középső szakasza közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "A vindolandai lelőhely múzeuma, amely figyelemre méltó római leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Római menetelő táborok régészeti maradványai a Hadrianus-fal környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Egy római segédcsapat-erőd jól megőrzött romjai a Hadrianus-falon, más néven Housesteads.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Fontos római régészeti lelőhely, amely egymást követő erődök maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Situl arheologic al unui milecastle roman situat de-a lungul Zidului lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Un important fort auxiliar roman și sit arheologic situat la sud de Zidul lui Hadrian.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Rămășițele unei tabere de marș romane temporare lângă Zidul lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Sit arheologic al unei tabere romane temporare lângă secțiunea centrală a Zidului lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Un muzeu de la situl Vindolanda care expune artefacte romane remarcabile.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Rămășițe arheologice ale unor tabere romane temporare în peisajul Zidului lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Ruinele bine conservate ale unui fort auxiliar roman de pe Zidul lui Hadrian, cunoscut și sub numele de Housesteads.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Un sit arheologic roman important care prezintă rămășițele unor forturi succesive.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "The archaeological site of a Roman milecastle located along Hadrian's Wall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "A significant Roman auxiliary fort and archaeological site south of Hadrian's Wall.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Remains of a temporary Roman marching camp near Hadrian's Wall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Archaeological site of a Roman temporary camp near the central section of Hadrian's Wall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "A museum at the Vindolanda site showcasing remarkable Roman artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Archaeological remains of Roman temporary camps in the Hadrian's Wall landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "The well-preserved ruins of a Roman auxiliary fort on Hadrian's Wall, also known as Housesteads.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "An important Roman archaeological site featuring the remains of successive forts.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "ruins",
     name: { de: "Hadrianswall", hu: "Hadrianus fala", ro: "Zidul lui Hadrian", en: "Hadrian's Wall"},
@@ -381,6 +678,78 @@ imageHint: "Iron Bridge Shropshire across River Severn",
                         -3.349029,
                         59.091046
                   ]
+            },
+            {
+                  "name": "Knowe of Angerow",
+                  "text": "Eine archäologische Fundstelle in der Nähe von Skara Brae mit prähistorischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        -3.334342,
+                        59.034904
+                  ]
+            },
+            {
+                  "name": "Knowe of Verron Broch",
+                  "text": "Die Ruinen einer prähistorischen Turmburg, bekannt als Broch, in der Region Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.343344,
+                        59.057905
+                  ]
+            },
+            {
+                  "name": "Loch Of Clumly Broch",
+                  "text": "Überreste eines eisenzeitlichen Brochs in der Nähe von Skara Brae auf den Orkney-Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        -3.3052,
+                        59.02888
+                  ]
+            },
+            {
+                  "name": "Broch of Borwick",
+                  "text": "Eine gut erhaltene archäologische Stätte eines Brochs an der Küste nahe Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.353397,
+                        59.030945
+                  ]
+            },
+            {
+                  "name": "Skaill House",
+                  "text": "Ein historisches Herrenhaus aus dem 17. Jahrhundert in der Nähe der prähistorischen Siedlung Skara Brae.",
+                  "category": "castle",
+                  "coords": [
+                        -3.336509,
+                        59.047684
+                  ]
+            },
+            {
+                  "name": "Skara Brae",
+                  "text": "Eine bedeutende jungsteinzeitliche Siedlung auf den Orkney-Inseln, die zum UNESCO-Welterbe gehört.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341782,
+                        59.048707
+                  ]
+            },
+            {
+                  "name": "Barrow",
+                  "text": "Ein prähistorischer Grabhügel in der archäologischen Landschaft von Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.293614,
+                        59.025458
+                  ]
+            },
+            {
+                  "name": "Burnt Mound (Prehistoric)",
+                  "text": "Eine archäologische Stätte, die Überreste eines prähistorischen Brandhügels in Skara Brae zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -3.349555,
+                        59.015436
+                  ]
             }
       ],
       "hu": [
@@ -391,6 +760,78 @@ imageHint: "Iron Bridge Shropshire across River Severn",
                   "coords": [
                         -3.349029,
                         59.091046
+                  ]
+            },
+            {
+                  "name": "Knowe of Angerow",
+                  "text": "Régészeti lelőhely Skara Brae közelében, őskori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -3.334342,
+                        59.034904
+                  ]
+            },
+            {
+                  "name": "Knowe of Verron Broch",
+                  "text": "Egy őskori toronyvár, úgynevezett broch romjai Skara Brae térségében.",
+                  "category": "historical",
+                  "coords": [
+                        -3.343344,
+                        59.057905
+                  ]
+            },
+            {
+                  "name": "Loch Of Clumly Broch",
+                  "text": "Vaskori broch maradványai Skara Brae közelében, az Orkney-szigeteken.",
+                  "category": "historical",
+                  "coords": [
+                        -3.3052,
+                        59.02888
+                  ]
+            },
+            {
+                  "name": "Broch of Borwick",
+                  "text": "Jól megőrzött régészeti lelőhely, egy tengerparti broch Skara Brae közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -3.353397,
+                        59.030945
+                  ]
+            },
+            {
+                  "name": "Skaill House",
+                  "text": "17. századi történelmi udvarház a Skara Brae őskori település közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -3.336509,
+                        59.047684
+                  ]
+            },
+            {
+                  "name": "Skara Brae",
+                  "text": "Jelentős újkőkori település az Orkney-szigeteken, amely az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341782,
+                        59.048707
+                  ]
+            },
+            {
+                  "name": "Barrow",
+                  "text": "Őskori sírhalom Skara Brae régészeti környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -3.293614,
+                        59.025458
+                  ]
+            },
+            {
+                  "name": "Burnt Mound (Prehistoric)",
+                  "text": "Régészeti lelőhely, amely egy őskori égetett halom maradványait mutatja be Skara Brae-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.349555,
+                        59.015436
                   ]
             }
       ],
@@ -403,6 +844,78 @@ imageHint: "Iron Bridge Shropshire across River Severn",
                         -3.349029,
                         59.091046
                   ]
+            },
+            {
+                  "name": "Knowe of Angerow",
+                  "text": "Un sit arheologic lângă Skara Brae, conținând vestigii preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -3.334342,
+                        59.034904
+                  ]
+            },
+            {
+                  "name": "Knowe of Verron Broch",
+                  "text": "Ruinele unei fortărețe preistorice de tip broch în regiunea Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.343344,
+                        59.057905
+                  ]
+            },
+            {
+                  "name": "Loch Of Clumly Broch",
+                  "text": "Vestigiile unui broch din epoca fierului lângă Skara Brae, în Insulele Orkney.",
+                  "category": "historical",
+                  "coords": [
+                        -3.3052,
+                        59.02888
+                  ]
+            },
+            {
+                  "name": "Broch of Borwick",
+                  "text": "Un sit arheologic bine conservat al unui broch de coastă lângă Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.353397,
+                        59.030945
+                  ]
+            },
+            {
+                  "name": "Skaill House",
+                  "text": "Un conac istoric din secolul al XVII-lea situat lângă așezarea preistorică Skara Brae.",
+                  "category": "castle",
+                  "coords": [
+                        -3.336509,
+                        59.047684
+                  ]
+            },
+            {
+                  "name": "Skara Brae",
+                  "text": "O așezare neolitică importantă din Insulele Orkney, inclusă în Patrimoniul Mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341782,
+                        59.048707
+                  ]
+            },
+            {
+                  "name": "Barrow",
+                  "text": "Un tumul preistoric situat în peisajul arheologic de la Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.293614,
+                        59.025458
+                  ]
+            },
+            {
+                  "name": "Burnt Mound (Prehistoric)",
+                  "text": "Un sit arheologic ce prezintă vestigiile unei movile preistorice de arsuri în Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.349555,
+                        59.015436
+                  ]
             }
       ],
       "en": [
@@ -413,6 +926,78 @@ imageHint: "Iron Bridge Shropshire across River Severn",
                   "coords": [
                         -3.349029,
                         59.091046
+                  ]
+            },
+            {
+                  "name": "Knowe of Angerow",
+                  "text": "An archaeological site near Skara Brae containing prehistoric remains.",
+                  "category": "historical",
+                  "coords": [
+                        -3.334342,
+                        59.034904
+                  ]
+            },
+            {
+                  "name": "Knowe of Verron Broch",
+                  "text": "The ruins of a prehistoric tower house known as a broch in the Skara Brae area.",
+                  "category": "historical",
+                  "coords": [
+                        -3.343344,
+                        59.057905
+                  ]
+            },
+            {
+                  "name": "Loch Of Clumly Broch",
+                  "text": "Remains of an Iron Age broch located near Skara Brae in the Orkney Islands.",
+                  "category": "historical",
+                  "coords": [
+                        -3.3052,
+                        59.02888
+                  ]
+            },
+            {
+                  "name": "Broch of Borwick",
+                  "text": "A well-preserved archaeological site of a coastal broch near Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.353397,
+                        59.030945
+                  ]
+            },
+            {
+                  "name": "Skaill House",
+                  "text": "A historic 17th-century manor house located near the prehistoric settlement of Skara Brae.",
+                  "category": "castle",
+                  "coords": [
+                        -3.336509,
+                        59.047684
+                  ]
+            },
+            {
+                  "name": "Skara Brae",
+                  "text": "A significant Neolithic settlement in the Orkney Islands, part of a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341782,
+                        59.048707
+                  ]
+            },
+            {
+                  "name": "Barrow",
+                  "text": "A prehistoric burial mound located within the archaeological landscape of Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.293614,
+                        59.025458
+                  ]
+            },
+            {
+                  "name": "Burnt Mound (Prehistoric)",
+                  "text": "An archaeological site displaying the remains of a prehistoric burnt mound in Skara Brae.",
+                  "category": "historical",
+                  "coords": [
+                        -3.349555,
+                        59.015436
                   ]
             }
       ]
@@ -601,7 +1186,268 @@ imageHint: "Ruins of Fountains Abbey in North Yorkshire",
     },
     image: "/poi-images/uk-fountains-abbey-history-v2.webp",
 },  {
-    id: "uk-tintagel-castle-history-v2",
+    id: "uk-tintagel-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "King Arthur's Great Halls",
+                  "text": "Ein historisches Gebäude in Tintagel mit Glasmalereien und Ausstellungen zur Artussage.",
+                  "category": "museum",
+                  "coords": [
+                        -4.749592,
+                        50.662888
+                  ]
+            },
+            {
+                  "name": "Bossiney haven",
+                  "text": "Eine malerische Strandbucht in der Nähe der Ruinen von Tintagel Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.738059,
+                        50.671636
+                  ]
+            },
+            {
+                  "name": "Tintagel Castle",
+                  "text": "Eine mittelalterliche Festung an der Küste von Cornwall, die mit den Legenden von König Artus verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -4.761525,
+                        50.668658
+                  ]
+            },
+            {
+                  "name": "Labyrinth Petroglyphs",
+                  "text": "Antike Felsritzungen in Form von Labyrinthen in der Gegend von Tintagel.",
+                  "category": "historical",
+                  "coords": [
+                        -4.728853,
+                        50.671872
+                  ]
+            },
+            {
+                  "name": "Tramberly Cove",
+                  "text": "Eine ruhige und abgelegene Strandbucht an der Küste von Nord-Cornwall.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.728166,
+                        50.679869
+                  ]
+            },
+            {
+                  "name": "Benoath Cove",
+                  "text": "Ein kleiner Strand, der über den Küstenpfad in der Nähe von Tintagel erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.734901,
+                        50.671821
+                  ]
+            },
+            {
+                  "name": "Tintagel Old Post Office",
+                  "text": "Ein steinernes Bauernhaus aus dem 14. Jahrhundert, das im viktorianischen Zeitalter als Postamt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.751754,
+                        50.663375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King Arthur's Great Halls",
+                  "text": "Történelmi épület Tintagelben, amely üvegfestményeiről és az Artúr-mondakörhöz kapcsolódó kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -4.749592,
+                        50.662888
+                  ]
+            },
+            {
+                  "name": "Bossiney haven",
+                  "text": "Egy festői tengerparti öböl a Tintagel kastély romjainak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.738059,
+                        50.671636
+                  ]
+            },
+            {
+                  "name": "Tintagel Castle",
+                  "text": "Középkori erődítmény Cornwall partjainál, amely Arthur király legendáihoz kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -4.761525,
+                        50.668658
+                  ]
+            },
+            {
+                  "name": "Labyrinth Petroglyphs",
+                  "text": "Ősi, labirintusokat ábrázoló sziklavésetek Tintagel környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -4.728853,
+                        50.671872
+                  ]
+            },
+            {
+                  "name": "Tramberly Cove",
+                  "text": "Egy csendes és eldugott tengerparti öböl az észak-cornwalli parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.728166,
+                        50.679869
+                  ]
+            },
+            {
+                  "name": "Benoath Cove",
+                  "text": "Egy kis tengerpart, amely a Tintagel közeli parti ösvényen keresztül érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.734901,
+                        50.671821
+                  ]
+            },
+            {
+                  "name": "Tintagel Old Post Office",
+                  "text": "14. századi kőből épült parasztház, amely a viktoriánus korban postahivatalént működött.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.751754,
+                        50.663375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King Arthur's Great Halls",
+                  "text": "O clădire istorică din Tintagel, cu vitralii și expoziții despre legenda Regelui Arthur.",
+                  "category": "museum",
+                  "coords": [
+                        -4.749592,
+                        50.662888
+                  ]
+            },
+            {
+                  "name": "Bossiney haven",
+                  "text": "O plajă pitorească situată lângă ruinele Castelului Tintagel.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.738059,
+                        50.671636
+                  ]
+            },
+            {
+                  "name": "Tintagel Castle",
+                  "text": "O fortificație medievală de pe coasta Cornwallului, asociată cu legendele Regelui Arthur.",
+                  "category": "historical",
+                  "coords": [
+                        -4.761525,
+                        50.668658
+                  ]
+            },
+            {
+                  "name": "Labyrinth Petroglyphs",
+                  "text": "Sculpturi antice în piatră reprezentând labirinturi, situate în zona Tintagel.",
+                  "category": "historical",
+                  "coords": [
+                        -4.728853,
+                        50.671872
+                  ]
+            },
+            {
+                  "name": "Tramberly Cove",
+                  "text": "O plajă liniștită și retrasă de-a lungul coastei de nord a Cornwallului.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.728166,
+                        50.679869
+                  ]
+            },
+            {
+                  "name": "Benoath Cove",
+                  "text": "O plajă mică accesibilă prin poteca de coastă de lângă Tintagel.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.734901,
+                        50.671821
+                  ]
+            },
+            {
+                  "name": "Tintagel Old Post Office",
+                  "text": "O fermă de piatră din secolul al XIV-lea, folosită ca oficiu poștal în epoca victoriană.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.751754,
+                        50.663375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Arthur's Great Halls",
+                  "text": "A historic building in Tintagel featuring stained glass windows and Arthurian displays.",
+                  "category": "museum",
+                  "coords": [
+                        -4.749592,
+                        50.662888
+                  ]
+            },
+            {
+                  "name": "Bossiney haven",
+                  "text": "A picturesque beach cove located near the ruins of Tintagel Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.738059,
+                        50.671636
+                  ]
+            },
+            {
+                  "name": "Tintagel Castle",
+                  "text": "A medieval fortification on the coast of Cornwall associated with the legends of King Arthur.",
+                  "category": "historical",
+                  "coords": [
+                        -4.761525,
+                        50.668658
+                  ]
+            },
+            {
+                  "name": "Labyrinth Petroglyphs",
+                  "text": "Ancient rock carvings depicting labyrinths located in the Tintagel area.",
+                  "category": "historical",
+                  "coords": [
+                        -4.728853,
+                        50.671872
+                  ]
+            },
+            {
+                  "name": "Tramberly Cove",
+                  "text": "A quiet and secluded beach cove along the North Cornwall coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.728166,
+                        50.679869
+                  ]
+            },
+            {
+                  "name": "Benoath Cove",
+                  "text": "A small beach accessible via the coastal path near Tintagel.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.734901,
+                        50.671821
+                  ]
+            },
+            {
+                  "name": "Tintagel Old Post Office",
+                  "text": "A 14th-century stone farmhouse used as a post office in the Victorian era.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.751754,
+                        50.663375
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "castle",
     name: { de: "Tintagel Castle", hu: "Tintagel vára", ro: "Castelul Tintagel", en: "Tintagel Castle"},
@@ -969,7 +1815,304 @@ imageHint: "Caernarfon Castle fortress in Wales",
     },
   },
   {
-    id: "uk-vindolanda-history-v2",
+    id: "uk-vindolanda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Ein gut erhaltenes Kleinkastell am Hadrianswall, das Einblicke in die römischen Grenzbefestigungen bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Ein wichtiges römisches Hilfstruppenkastell südlich des Hadrianwalls, bekannt für seine Schrifttafeln.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Dieses Museum zeigt die umfangreiche Sammlung römischer Artefakte, die auf dem Gelände des Kastells Vindolanda gefunden wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Bean Burn 1 Temporary Camp",
+                  "text": "Eine archäologische Stätte, die ein temporäres Militärlager aus der Römerzeit darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.381405,
+                        54.988187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Auch als Housesteads bekannt, ist es eines der am vollständigsten erhaltenen römischen Kastelle am Hadrianswall.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Milecastle 40 (Winshields)",
+                  "text": "Ein historisches römisches Kleinkastell am höchsten Punkt des Hadrianwalls auf den Winshields Crags.",
+                  "category": "historical",
+                  "coords": [
+                        -2.39912,
+                        55.002108
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Eine bedeutende archäologische Stätte, die mehrere Schichten römischer Besiedlung und des Grenzlebens offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            },
+            {
+                  "name": "Milecastle 39 (Castle Nick)",
+                  "text": "Ein markantes Kleinkastell in einer dramatischen Senke in der Landschaft des Hadrianwalls.",
+                  "category": "historical",
+                  "coords": [
+                        -2.375801,
+                        55.003644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Jól megőrzött erődítmény Hadrianus fala mentén, amely betekintést nyújt a római határvédelembe.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Fontos római segédcsapat-erőd Hadrianus falától délre, amely az itt talált írótábláiról híres.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Ez a múzeum a vindolandai erőd területén talált római kori leletek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Bean Burn 1 Temporary Camp",
+                  "text": "Római kori ideiglenes katonai tábort bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -2.381405,
+                        54.988187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Más néven Housesteads, ez az egyik legépebben maradt római erőd Hadrianus fala mentén.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Milecastle 40 (Winshields)",
+                  "text": "Történelmi római erődítmény Hadrianus fala legmagasabb pontján, a Winshields Crags területén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.39912,
+                        55.002108
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Fontos régészeti lelőhely, amely a római megszállás és a határmenti élet több rétegét tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            },
+            {
+                  "name": "Milecastle 39 (Castle Nick)",
+                  "text": "Hadrianus fala mentén, egy látványos terepviszonyok között elhelyezkedő római erődítmény.",
+                  "category": "historical",
+                  "coords": [
+                        -2.375801,
+                        55.003644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "O fortificație de tip milecastle bine conservată pe Zidul lui Hadrian, oferind informații despre fortificațiile de frontieră romane.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Un important castru auxiliar roman situat la sud de Zidul lui Hadrian, faimos pentru tăblițele sale de scris.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Acest muzeu expune colecția extinsă de artefacte romane găsite în situl fortului Vindolanda.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Bean Burn 1 Temporary Camp",
+                  "text": "Un sit arheologic ce reprezintă o tabără militară temporară din perioada romană.",
+                  "category": "historical",
+                  "coords": [
+                        -2.381405,
+                        54.988187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Cunoscut și sub numele de Housesteads, este unul dintre cele mai complete forturi romane de-a lungul Zidului lui Hadrian.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Milecastle 40 (Winshields)",
+                  "text": "O fortificație romană istorică situată în cel mai înalt punct al Zidului lui Hadrian, pe Winshields Crags.",
+                  "category": "historical",
+                  "coords": [
+                        -2.39912,
+                        55.002108
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Un sit arheologic cheie care dezvăluie mai multe straturi de ocupație romană și viața de frontieră.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            },
+            {
+                  "name": "Milecastle 39 (Castle Nick)",
+                  "text": "O fortificație de tip milecastle proeminentă situată într-o depresiune dramatică a peisajului Zidului lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.375801,
+                        55.003644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "A well-preserved milecastle on Hadrian's Wall, providing insight into Roman frontier fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "An important Roman auxiliary fort located just south of Hadrian's Wall, famous for its writing tablets.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "This museum displays the extensive collection of Roman artifacts found at the Vindolanda fort site.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Bean Burn 1 Temporary Camp",
+                  "text": "An archaeological site representing a temporary military encampment from the Roman period.",
+                  "category": "historical",
+                  "coords": [
+                        -2.381405,
+                        54.988187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Also known as Housesteads, it is one of the most complete Roman forts along Hadrian's Wall.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Milecastle 40 (Winshields)",
+                  "text": "A historic Roman milecastle located at the highest point of Hadrian's Wall on Winshields Crags.",
+                  "category": "historical",
+                  "coords": [
+                        -2.39912,
+                        55.002108
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "A key archaeological site revealing multiple layers of Roman occupation and frontier life.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            },
+            {
+                  "name": "Milecastle 39 (Castle Nick)",
+                  "text": "A prominent milecastle situated in a dramatic dip in the landscape of Hadrian's Wall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.375801,
+                        55.003644
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "ruins",
     name: { de: "Vindolanda", hu: "Vindolanda", ro: "Vindolanda", en: "Vindolanda"},
@@ -1307,6 +2450,69 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -1.864244,
                         55.697397
                   ]
+            },
+            {
+                  "name": "Green Shiel",
+                  "text": "Eine archäologische Stätte auf Holy Island mit Überresten mittelalterlicher Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        -1.807673,
+                        55.686199
+                  ]
+            },
+            {
+                  "name": "The Fort on the Heugh",
+                  "text": "Archäologische Überreste einer alten Befestigungsanlage mit Blick auf das Meer.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79579,
+                        55.668173
+                  ]
+            },
+            {
+                  "name": "The Palace",
+                  "text": "Eine archäologische Stätte mit historischen Überresten in der Nähe des Klosters Lindisfarne.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79874,
+                        55.670939
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Castle",
+                  "text": "Eine Burg aus dem 16. Jahrhundert, die auf einem hohen Felsen auf Holy Island errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -1.784756,
+                        55.669061
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Priory & Museum",
+                  "text": "Die Ruinen eines bedeutenden frühchristlichen Klosters und ein dazugehöriges Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.801655,
+                        55.669836
+                  ]
+            },
+            {
+                  "name": "Holy Island Sands",
+                  "text": "Ein malerischer Sandstrand auf Holy Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.836,
+                        55.674976
+                  ]
+            },
+            {
+                  "name": "Sandham",
+                  "text": "Ein Küstenstrand in der Nähe des Klosters Lindisfarne.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.788018,
+                        55.685543
+                  ]
             }
       ],
       "hu": [
@@ -1326,6 +2532,69 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -1.864244,
                         55.697397
+                  ]
+            },
+            {
+                  "name": "Green Shiel",
+                  "text": "Egy régészeti lelőhely a Szent-szigeten, középkori épületek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -1.807673,
+                        55.686199
+                  ]
+            },
+            {
+                  "name": "The Fort on the Heugh",
+                  "text": "Egy régi erődítmény régészeti maradványai a tengerre néző dombon.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79579,
+                        55.668173
+                  ]
+            },
+            {
+                  "name": "The Palace",
+                  "text": "Egy régészeti lelőhely történelmi maradványokkal a Lindisfarne-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79874,
+                        55.670939
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Castle",
+                  "text": "Egy 16. századi vár, amely a Szent-sziget egyik magas sziklájára épült.",
+                  "category": "castle",
+                  "coords": [
+                        -1.784756,
+                        55.669061
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Priory & Museum",
+                  "text": "Egy fontos kora keresztény kolostor romjai és a hozzá tartozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.801655,
+                        55.669836
+                  ]
+            },
+            {
+                  "name": "Holy Island Sands",
+                  "text": "Egy festői homokos strand a Szent-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.836,
+                        55.674976
+                  ]
+            },
+            {
+                  "name": "Sandham",
+                  "text": "Egy tengerparti strand a Lindisfarne-kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.788018,
+                        55.685543
                   ]
             }
       ],
@@ -1347,6 +2616,69 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -1.864244,
                         55.697397
                   ]
+            },
+            {
+                  "name": "Green Shiel",
+                  "text": "Un sit arheologic de pe Insula Sfântă, care prezintă rămășițe ale unor structuri medievale.",
+                  "category": "historical",
+                  "coords": [
+                        -1.807673,
+                        55.686199
+                  ]
+            },
+            {
+                  "name": "The Fort on the Heugh",
+                  "text": "Rămășițele arheologice ale unei vechi fortificații cu vedere la mare.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79579,
+                        55.668173
+                  ]
+            },
+            {
+                  "name": "The Palace",
+                  "text": "Un sit arheologic care prezintă rămășițe istorice lângă mănăstirea Lindisfarne.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79874,
+                        55.670939
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Castle",
+                  "text": "Un castel din secolul al XVI-lea construit pe o stâncă înaltă de pe Insula Sfântă.",
+                  "category": "castle",
+                  "coords": [
+                        -1.784756,
+                        55.669061
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Priory & Museum",
+                  "text": "Ruinele unei importante mănăstiri creștine timpurii și un muzeu însoțitor.",
+                  "category": "museum",
+                  "coords": [
+                        -1.801655,
+                        55.669836
+                  ]
+            },
+            {
+                  "name": "Holy Island Sands",
+                  "text": "O zonă pitorească de plajă cu nisip pe Insula Sfântă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.836,
+                        55.674976
+                  ]
+            },
+            {
+                  "name": "Sandham",
+                  "text": "O zonă de plajă la coastă lângă mănăstirea Lindisfarne.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.788018,
+                        55.685543
+                  ]
             }
       ],
       "en": [
@@ -1366,6 +2698,69 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -1.864244,
                         55.697397
+                  ]
+            },
+            {
+                  "name": "Green Shiel",
+                  "text": "An archaeological site on Holy Island featuring remains of medieval structures.",
+                  "category": "historical",
+                  "coords": [
+                        -1.807673,
+                        55.686199
+                  ]
+            },
+            {
+                  "name": "The Fort on the Heugh",
+                  "text": "Archaeological remains of an old fortification overlooking the sea.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79579,
+                        55.668173
+                  ]
+            },
+            {
+                  "name": "The Palace",
+                  "text": "An archaeological site featuring historical remains near Lindisfarne Priory.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79874,
+                        55.670939
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Castle",
+                  "text": "A 16th-century castle built on a high rock on Holy Island.",
+                  "category": "castle",
+                  "coords": [
+                        -1.784756,
+                        55.669061
+                  ]
+            },
+            {
+                  "name": "Lindisfarne Priory & Museum",
+                  "text": "The ruins of an important early Christian monastery and an accompanying museum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.801655,
+                        55.669836
+                  ]
+            },
+            {
+                  "name": "Holy Island Sands",
+                  "text": "A scenic sandy beach area on Holy Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.836,
+                        55.674976
+                  ]
+            },
+            {
+                  "name": "Sandham",
+                  "text": "A coastal beach area near Lindisfarne Priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.788018,
+                        55.685543
                   ]
             }
       ]
@@ -1729,7 +3124,304 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-battle-abbey-history-v2.webp",
   },
   {
-    id: "uk-bamburgh-castle-history-v2",
+    id: "uk-bamburgh-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bamburgh Research Project Archaeological Site",
+                  "text": "Archäologische Ausgrabungsstätte an der historischen Burg Bamburgh.",
+                  "category": "historical",
+                  "coords": [
+                        -1.712273,
+                        55.609874
+                  ]
+            },
+            {
+                  "name": "Bamburgh Lighthouse",
+                  "text": "Leuchtturm an der Küste von Northumberland bei Bamburgh.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.724259,
+                        55.61652
+                  ]
+            },
+            {
+                  "name": "Farne Island Lighthouse",
+                  "text": "Leuchtturm auf den Farne-Inseln vor der Küste Bamburghs.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.655637,
+                        55.615327
+                  ]
+            },
+            {
+                  "name": "Grace Darling Museum",
+                  "text": "Museum über das Leben der Seenotretterin Grace Darling.",
+                  "category": "museum",
+                  "coords": [
+                        -1.718478,
+                        55.607213
+                  ]
+            },
+            {
+                  "name": "Bamburgh Castle",
+                  "text": "Große Küstenfestung mit einer Geschichte bis in die normannische Zeit.",
+                  "category": "castle",
+                  "coords": [
+                        -1.710864,
+                        55.609345
+                  ]
+            },
+            {
+                  "name": "Prior Castell's Tower",
+                  "text": "Historischer Turm auf den Farne-Inseln bei Bamburgh.",
+                  "category": "castle",
+                  "coords": [
+                        -1.655705,
+                        55.617062
+                  ]
+            },
+            {
+                  "name": "Ross Back Sands",
+                  "text": "Langer Sandstrand mit Blick auf Bamburgh Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.761346,
+                        55.62426
+                  ]
+            },
+            {
+                  "name": "Wreck of trawler \"Children's Friend\"",
+                  "text": "Sichtbare Überreste eines Schiffswracks an der Küste.",
+                  "category": "historical",
+                  "coords": [
+                        -1.647439,
+                        55.616649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bamburgh Research Project Archaeological Site",
+                  "text": "Régészeti feltárás a történelmi Bamburgh váránál.",
+                  "category": "historical",
+                  "coords": [
+                        -1.712273,
+                        55.609874
+                  ]
+            },
+            {
+                  "name": "Bamburgh Lighthouse",
+                  "text": "Világítótorony Northumberland partján, Bamburgh közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.724259,
+                        55.61652
+                  ]
+            },
+            {
+                  "name": "Farne Island Lighthouse",
+                  "text": "Világítótorony a Farne-szigeteken, Bamburgh partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.655637,
+                        55.615327
+                  ]
+            },
+            {
+                  "name": "Grace Darling Museum",
+                  "text": "Múzeum Grace Darling tengeri mentő életéről.",
+                  "category": "museum",
+                  "coords": [
+                        -1.718478,
+                        55.607213
+                  ]
+            },
+            {
+                  "name": "Bamburgh Castle",
+                  "text": "Hatalmas tengerparti erőd, melynek története a normann korig nyúlik vissza.",
+                  "category": "castle",
+                  "coords": [
+                        -1.710864,
+                        55.609345
+                  ]
+            },
+            {
+                  "name": "Prior Castell's Tower",
+                  "text": "Történelmi torony a Farne-szigeteken, Bamburgh közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -1.655705,
+                        55.617062
+                  ]
+            },
+            {
+                  "name": "Ross Back Sands",
+                  "text": "Hosszú homokos tengerpart kilátással a Bamburgh várra.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.761346,
+                        55.62426
+                  ]
+            },
+            {
+                  "name": "Wreck of trawler \"Children's Friend\"",
+                  "text": "Egy hajóroncs látható maradványai a tengerparton.",
+                  "category": "historical",
+                  "coords": [
+                        -1.647439,
+                        55.616649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bamburgh Research Project Archaeological Site",
+                  "text": "Sit de excavare arheologică la castelul istoric Bamburgh.",
+                  "category": "historical",
+                  "coords": [
+                        -1.712273,
+                        55.609874
+                  ]
+            },
+            {
+                  "name": "Bamburgh Lighthouse",
+                  "text": "Far pe coasta Northumberland, lângă Bamburgh.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.724259,
+                        55.61652
+                  ]
+            },
+            {
+                  "name": "Farne Island Lighthouse",
+                  "text": "Far pe insulele Farne, în largul coastei Bamburgh.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.655637,
+                        55.615327
+                  ]
+            },
+            {
+                  "name": "Grace Darling Museum",
+                  "text": "Muzeu despre viața salvatoarei Grace Darling.",
+                  "category": "museum",
+                  "coords": [
+                        -1.718478,
+                        55.607213
+                  ]
+            },
+            {
+                  "name": "Bamburgh Castle",
+                  "text": "Fortăreață de coastă impunătoare cu o istorie ce datează din epoca normandă.",
+                  "category": "castle",
+                  "coords": [
+                        -1.710864,
+                        55.609345
+                  ]
+            },
+            {
+                  "name": "Prior Castell's Tower",
+                  "text": "Turn istoric pe insulele Farne, lângă Bamburgh.",
+                  "category": "castle",
+                  "coords": [
+                        -1.655705,
+                        55.617062
+                  ]
+            },
+            {
+                  "name": "Ross Back Sands",
+                  "text": "Plajă lungă de nisip cu vedere spre castelul Bamburgh.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.761346,
+                        55.62426
+                  ]
+            },
+            {
+                  "name": "Wreck of trawler \"Children's Friend\"",
+                  "text": "Rămășițe vizibile ale unei epave pe coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -1.647439,
+                        55.616649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bamburgh Research Project Archaeological Site",
+                  "text": "Archaeological excavation site at the historic Bamburgh Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -1.712273,
+                        55.609874
+                  ]
+            },
+            {
+                  "name": "Bamburgh Lighthouse",
+                  "text": "Lighthouse on the Northumberland coast near Bamburgh.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.724259,
+                        55.61652
+                  ]
+            },
+            {
+                  "name": "Farne Island Lighthouse",
+                  "text": "Lighthouse on the Farne Islands off the Bamburgh coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.655637,
+                        55.615327
+                  ]
+            },
+            {
+                  "name": "Grace Darling Museum",
+                  "text": "Museum dedicated to the life of sea rescuer Grace Darling.",
+                  "category": "museum",
+                  "coords": [
+                        -1.718478,
+                        55.607213
+                  ]
+            },
+            {
+                  "name": "Bamburgh Castle",
+                  "text": "Imposing coastal fortress with a history dating back to Norman times.",
+                  "category": "castle",
+                  "coords": [
+                        -1.710864,
+                        55.609345
+                  ]
+            },
+            {
+                  "name": "Prior Castell's Tower",
+                  "text": "Historic tower on the Farne Islands near Bamburgh.",
+                  "category": "castle",
+                  "coords": [
+                        -1.655705,
+                        55.617062
+                  ]
+            },
+            {
+                  "name": "Ross Back Sands",
+                  "text": "Long sandy beach with views of Bamburgh Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.761346,
+                        55.62426
+                  ]
+            },
+            {
+                  "name": "Wreck of trawler \"Children's Friend\"",
+                  "text": "Visible remains of a shipwreck on the coast.",
+                  "category": "historical",
+                  "coords": [
+                        -1.647439,
+                        55.616649
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "GB",
     name: { de: "Bamburgh Burg", hu: "Bamburgh-i vár", ro: "Castelul Bamburgh", en: "Bamburgh Castle" },
@@ -1774,7 +3466,304 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-bamburgh-castle-history-v2.webp",
   },
   {
-    id: "uk-hadrians-wall-birdoswald-history-v2",
+    id: "uk-hadrians-wall-birdoswald-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poltross Burn Milecastle",
+                  "text": "Ein gut erhaltenes Kleinkastell am Hadrianswall in der Nähe von Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.573527,
+                        54.988997
+                  ]
+            },
+            {
+                  "name": "THROP ROMAN FORTLET",
+                  "text": "Überreste einer kleinen römischen Befestigungsanlage in der Nähe von Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.578155,
+                        54.986748
+                  ]
+            },
+            {
+                  "name": "Milecastle 49",
+                  "text": "Eine archäologische Stätte am Hadrianswall, die ein römisches Kleinkastell darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.595155,
+                        54.990726
+                  ]
+            },
+            {
+                  "name": "Milecastle 47 (Chapel House)",
+                  "text": "Der Standort eines ehemaligen römischen Kleinkastells am Hadrianswall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.55003,
+                        54.988004
+                  ]
+            },
+            {
+                  "name": "Willowford Temporary Camp",
+                  "text": "Standort eines temporären römischen Militärlagers in der Nähe von Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.586875,
+                        54.98826
+                  ]
+            },
+            {
+                  "name": "Crooks Temporary Camp",
+                  "text": "Archäologische Überreste eines römischen Marschlagers in der Gegend von Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.570022,
+                        54.983839
+                  ]
+            },
+            {
+                  "name": "Chapel Rigg Temporary Camp",
+                  "text": "Standort eines ehemaligen römischen temporären Militärlagers.",
+                  "category": "historical",
+                  "coords": [
+                        -2.554745,
+                        54.982184
+                  ]
+            },
+            {
+                  "name": "Birdoswald Roman Fort",
+                  "text": "Ein bedeutendes Kastell am Hadrianswall mit sichtbaren archäologischen Überresten.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.602403,
+                        54.989458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poltross Burn Milecastle",
+                  "text": "Jó állapotban fennmaradt római erődítmény (milecastle) Hadrianus fala mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.573527,
+                        54.988997
+                  ]
+            },
+            {
+                  "name": "THROP ROMAN FORTLET",
+                  "text": "Egy kis római erődítmény maradványai Birdoswald közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.578155,
+                        54.986748
+                  ]
+            },
+            {
+                  "name": "Milecastle 49",
+                  "text": "Régészeti lelőhely Hadrianus fala mentén, amely egy római erődítményt (milecastle) jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        -2.595155,
+                        54.990726
+                  ]
+            },
+            {
+                  "name": "Milecastle 47 (Chapel House)",
+                  "text": "Egy egykori római erődítmény (milecastle) helyszíne Hadrianus fala mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.55003,
+                        54.988004
+                  ]
+            },
+            {
+                  "name": "Willowford Temporary Camp",
+                  "text": "Ideiglenes római katonai tábor helyszíne Birdoswald közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.586875,
+                        54.98826
+                  ]
+            },
+            {
+                  "name": "Crooks Temporary Camp",
+                  "text": "Római ideiglenes tábor régészeti maradványai Birdoswald környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.570022,
+                        54.983839
+                  ]
+            },
+            {
+                  "name": "Chapel Rigg Temporary Camp",
+                  "text": "Egy egykori római ideiglenes katonai tábor helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        -2.554745,
+                        54.982184
+                  ]
+            },
+            {
+                  "name": "Birdoswald Roman Fort",
+                  "text": "Hadrianus falának egyik jelentős erődje, látható régészeti maradványokkal.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.602403,
+                        54.989458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poltross Burn Milecastle",
+                  "text": "O fortificație romană (milecastle) bine conservată de pe Zidul lui Hadrian, lângă Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.573527,
+                        54.988997
+                  ]
+            },
+            {
+                  "name": "THROP ROMAN FORTLET",
+                  "text": "Rămășițele unei mici fortificații romane în apropiere de Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.578155,
+                        54.986748
+                  ]
+            },
+            {
+                  "name": "Milecastle 49",
+                  "text": "Un sit arheologic pe Zidul lui Hadrian, reprezentând o fortificație romană (milecastle).",
+                  "category": "historical",
+                  "coords": [
+                        -2.595155,
+                        54.990726
+                  ]
+            },
+            {
+                  "name": "Milecastle 47 (Chapel House)",
+                  "text": "Locul unei foste fortificații romane (milecastle) pe Zidul lui Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        -2.55003,
+                        54.988004
+                  ]
+            },
+            {
+                  "name": "Willowford Temporary Camp",
+                  "text": "Locul unui fost tabere militare romane temporare lângă Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.586875,
+                        54.98826
+                  ]
+            },
+            {
+                  "name": "Crooks Temporary Camp",
+                  "text": "Rămășițe arheologice ale unei tabere romane temporare în zona Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.570022,
+                        54.983839
+                  ]
+            },
+            {
+                  "name": "Chapel Rigg Temporary Camp",
+                  "text": "Locul unei foste tabere militare romane temporare.",
+                  "category": "historical",
+                  "coords": [
+                        -2.554745,
+                        54.982184
+                  ]
+            },
+            {
+                  "name": "Birdoswald Roman Fort",
+                  "text": "Un fort important pe Zidul lui Hadrian, cu vestigii arheologice vizibile.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.602403,
+                        54.989458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poltross Burn Milecastle",
+                  "text": "A well-preserved milecastle on Hadrian's Wall near Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.573527,
+                        54.988997
+                  ]
+            },
+            {
+                  "name": "THROP ROMAN FORTLET",
+                  "text": "Remains of a small Roman fortification near Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.578155,
+                        54.986748
+                  ]
+            },
+            {
+                  "name": "Milecastle 49",
+                  "text": "An archaeological site on Hadrian's Wall representing a Roman milecastle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.595155,
+                        54.990726
+                  ]
+            },
+            {
+                  "name": "Milecastle 47 (Chapel House)",
+                  "text": "The site of a former Roman milecastle on Hadrian's Wall.",
+                  "category": "historical",
+                  "coords": [
+                        -2.55003,
+                        54.988004
+                  ]
+            },
+            {
+                  "name": "Willowford Temporary Camp",
+                  "text": "Site of a temporary Roman military camp near Birdoswald.",
+                  "category": "historical",
+                  "coords": [
+                        -2.586875,
+                        54.98826
+                  ]
+            },
+            {
+                  "name": "Crooks Temporary Camp",
+                  "text": "Archaeological remains of a Roman temporary camp in the Birdoswald area.",
+                  "category": "historical",
+                  "coords": [
+                        -2.570022,
+                        54.983839
+                  ]
+            },
+            {
+                  "name": "Chapel Rigg Temporary Camp",
+                  "text": "Site of a former Roman temporary military encampment.",
+                  "category": "historical",
+                  "coords": [
+                        -2.554745,
+                        54.982184
+                  ]
+            },
+            {
+                  "name": "Birdoswald Roman Fort",
+                  "text": "A significant fort on Hadrian's Wall with visible archaeological remains.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.602403,
+                        54.989458
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GB",
     name: { de: "Birdoswald Kastell", hu: "Birdoswald erőd", ro: "Castrul Birdoswald", en: "Birdoswald Fort" },
@@ -2089,7 +4078,304 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-conwy-castle-history-v2.webp",
   },
   {
-    id: "uk-hadrian-wall-housesteads-history-v2",
+    id: "uk-hadrian-wall-housesteads-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Ein kleiner römischer Wachturm am Hadrianswall in Northumberland.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Ein bedeutendes römisches Kastell, berühmt für die dort gefundenen hölzernen Schrifttafeln.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Der Standort eines ehemaligen temporären römischen Militärlagers.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Eine archäologische Ausgrabungsstätte eines einstigen römischen Lagers.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Ein Museum, das die archäologischen Schätze der Ausgrabungsstätte Vindolanda zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Ein Gebiet mit Überresten mehrerer temporärer römischer Feldlager.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Ein römisches Hilfstruppenkastell am Hadrianswall, bekannt für seine gute Erhaltung.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Die weitläufige Ausgrabungsstätte des römischen Kastells und Zivilortes Vindolanda.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Egy kis római őrtorony Hadrianus fala mentén Northumberlandben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Jelentős római erőd, amely az ott talált fatáblás kéziratokról híres.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Egy egykori ideiglenes római katonai tábor helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Egy egykori római tábor régészeti feltárási helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Múzeum, amely a Vindolanda régészeti helyszín kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "Terület több ideiglenes római katonai tábor maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Római kisegítő erőd Hadrianus falánál, amely kiváló állapotáról ismert.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "A Vindolanda nevű római erőd és polgári település kiterjedt régészeti helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "Un mic turn de veghe roman de-a lungul Zidului lui Hadrian din Northumberland.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "Un castru roman important, faimos pentru tăblițele de scris din lemn găsite acolo.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "Locul unei foste tabere militare romane temporare.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "Un sit arheologic de excavare a unei foste tabere romane.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "Un muzeu care prezintă comorile arheologice ale sitului Vindolanda.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "O zonă cu vestigiile mai multor tabere romane temporare de campanie.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "Un castru roman auxiliar de pe Zidul lui Hadrian, cunoscut pentru buna sa conservare.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "Situl arheologic extins al castrului roman și al așezării civile Vindolanda.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Milecastle 38",
+                  "text": "A small Roman watchtower along Hadrian's Wall in Northumberland.",
+                  "category": "historical",
+                  "coords": [
+                        -2.356764,
+                        55.007223
+                  ]
+            },
+            {
+                  "name": "Castra Vindolanda",
+                  "text": "A significant Roman fort famous for the wooden writing tablets found there.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.360259,
+                        54.991379
+                  ]
+            },
+            {
+                  "name": "Grindon School temporary camp",
+                  "text": "The site of a former temporary Roman military camp.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292291,
+                        55.022198
+                  ]
+            },
+            {
+                  "name": "Coeksike East temporary camp",
+                  "text": "An archaeological excavation site of a former Roman camp.",
+                  "category": "historical",
+                  "coords": [
+                        -2.284663,
+                        55.026263
+                  ]
+            },
+            {
+                  "name": "Vindolanda Museum",
+                  "text": "A museum displaying the archaeological treasures of the Vindolanda site.",
+                  "category": "museum",
+                  "coords": [
+                        -2.357306,
+                        54.99146
+                  ]
+            },
+            {
+                  "name": "Coesike West temporary camps",
+                  "text": "An area containing the remains of several temporary Roman marching camps.",
+                  "category": "historical",
+                  "coords": [
+                        -2.286359,
+                        55.025187
+                  ]
+            },
+            {
+                  "name": "Vercovicium",
+                  "text": "A Roman auxiliary fort on Hadrian's Wall known for its excellent preservation.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.330268,
+                        55.013312
+                  ]
+            },
+            {
+                  "name": "Vindolanda Fort",
+                  "text": "The extensive archaeological site of the Roman fort and civilian settlement of Vindolanda.",
+                  "category": "historical",
+                  "coords": [
+                        -2.361495,
+                        54.99092
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GB",
     name: { de: "Housesteads Kastell", hu: "Housesteads erőd", ro: "Castrul Housesteads", en: "Housesteads Roman Fort" },
@@ -2377,7 +4663,304 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-harlech-castle-history-v2.webp",
   },
   {
-    id: "uk-bodiam-castle-history-v2",
+    id: "uk-bodiam-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bodiam Castle",
+                  "text": "Eine wasserumgebene Burg aus dem 14. Jahrhundert in East Sussex mit markanten Türmen.",
+                  "category": "castle",
+                  "coords": [
+                        0.543543,
+                        51.002286
+                  ]
+            },
+            {
+                  "name": "Robertsbridge Abbey",
+                  "text": "Die Überreste einer ehemaligen Zisterzienserabtei in der Nähe von Robertsbridge.",
+                  "category": "historical",
+                  "coords": [
+                        0.498321,
+                        50.987316
+                  ]
+            },
+            {
+                  "name": "Great Dixter",
+                  "text": "Ein historisches Herrenhaus in East Sussex, das für seine kunstvoll gestalteten Gärten bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        0.591806,
+                        50.996635
+                  ]
+            },
+            {
+                  "name": "St Giles",
+                  "text": "Eine traditionelle Pfarrkirche, die der lokalen Gemeinde in der Region Bodiam dient.",
+                  "category": "religious",
+                  "coords": [
+                        0.539319,
+                        51.00748
+                  ]
+            },
+            {
+                  "name": "St Marks Staplecross",
+                  "text": "Ein christliches Gotteshaus in der Ortschaft Staplecross.",
+                  "category": "religious",
+                  "coords": [
+                        0.539714,
+                        50.974301
+                  ]
+            },
+            {
+                  "name": "Mission Church",
+                  "text": "Eine kleine lokale Kirche, die für Gottesdienste in der Gemeinde Bodiam genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        0.563612,
+                        51.025824
+                  ]
+            },
+            {
+                  "name": "St James the Great",
+                  "text": "Eine historische Kirche in Bodiam, die dem heiligen Jakobus dem Älteren gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        0.557269,
+                        50.992493
+                  ]
+            },
+            {
+                  "name": "St. Mary the Virgin",
+                  "text": "Eine klassische englische Pfarrkirche, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        0.491288,
+                        50.991006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bodiam Castle",
+                  "text": "14. századi vizesárokkal körülvett vár East Sussexben, jellegzetes tornyokkal.",
+                  "category": "castle",
+                  "coords": [
+                        0.543543,
+                        51.002286
+                  ]
+            },
+            {
+                  "name": "Robertsbridge Abbey",
+                  "text": "Egy egykori ciszterci apátság maradványai Robertsbridge közelében.",
+                  "category": "historical",
+                  "coords": [
+                        0.498321,
+                        50.987316
+                  ]
+            },
+            {
+                  "name": "Great Dixter",
+                  "text": "Történelmi kúria East Sussexben, amely híres művészien kialakított kertjeiről.",
+                  "category": "historical",
+                  "coords": [
+                        0.591806,
+                        50.996635
+                  ]
+            },
+            {
+                  "name": "St Giles",
+                  "text": "Hagyományos plébániatemplom, amely a Bodiam környéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        0.539319,
+                        51.00748
+                  ]
+            },
+            {
+                  "name": "St Marks Staplecross",
+                  "text": "Keresztény templom Staplecross településén.",
+                  "category": "religious",
+                  "coords": [
+                        0.539714,
+                        50.974301
+                  ]
+            },
+            {
+                  "name": "Mission Church",
+                  "text": "Kisméretű helyi templom, amelyet istentiszteletekre használnak Bodiam közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        0.563612,
+                        51.025824
+                  ]
+            },
+            {
+                  "name": "St James the Great",
+                  "text": "Történelmi templom Bodiamban, amelyet Szent Jakab apostolnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        0.557269,
+                        50.992493
+                  ]
+            },
+            {
+                  "name": "St. Mary the Virgin",
+                  "text": "Klasszikus angol plébániatemplom, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        0.491288,
+                        50.991006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bodiam Castle",
+                  "text": "Un castel cu șanț de apă din secolul al XIV-lea din East Sussex, cu turnuri distinctive.",
+                  "category": "castle",
+                  "coords": [
+                        0.543543,
+                        51.002286
+                  ]
+            },
+            {
+                  "name": "Robertsbridge Abbey",
+                  "text": "Rămășițele unei foste abații cisterciene situate în apropiere de Robertsbridge.",
+                  "category": "historical",
+                  "coords": [
+                        0.498321,
+                        50.987316
+                  ]
+            },
+            {
+                  "name": "Great Dixter",
+                  "text": "Un conac istoric din East Sussex, renumit pentru grădinile sale proiectate artistic.",
+                  "category": "historical",
+                  "coords": [
+                        0.591806,
+                        50.996635
+                  ]
+            },
+            {
+                  "name": "St Giles",
+                  "text": "O biserică parohială tradițională care deservește comunitatea locală din zona Bodiam.",
+                  "category": "religious",
+                  "coords": [
+                        0.539319,
+                        51.00748
+                  ]
+            },
+            {
+                  "name": "St Marks Staplecross",
+                  "text": "Un lăcaș de cult creștin situat în localitatea Staplecross.",
+                  "category": "religious",
+                  "coords": [
+                        0.539714,
+                        50.974301
+                  ]
+            },
+            {
+                  "name": "Mission Church",
+                  "text": "O mică biserică locală utilizată pentru servicii religioase în comunitatea Bodiam.",
+                  "category": "religious",
+                  "coords": [
+                        0.563612,
+                        51.025824
+                  ]
+            },
+            {
+                  "name": "St James the Great",
+                  "text": "O biserică istorică din Bodiam, dedicată Sfântului Iacob cel Mare.",
+                  "category": "religious",
+                  "coords": [
+                        0.557269,
+                        50.992493
+                  ]
+            },
+            {
+                  "name": "St. Mary the Virgin",
+                  "text": "O biserică parohială engleză clasică, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        0.491288,
+                        50.991006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bodiam Castle",
+                  "text": "A 14th-century moated castle in East Sussex featuring distinctive towers.",
+                  "category": "castle",
+                  "coords": [
+                        0.543543,
+                        51.002286
+                  ]
+            },
+            {
+                  "name": "Robertsbridge Abbey",
+                  "text": "The remains of a former Cistercian abbey located near Robertsbridge.",
+                  "category": "historical",
+                  "coords": [
+                        0.498321,
+                        50.987316
+                  ]
+            },
+            {
+                  "name": "Great Dixter",
+                  "text": "A historic manor house in East Sussex famous for its artistically designed gardens.",
+                  "category": "historical",
+                  "coords": [
+                        0.591806,
+                        50.996635
+                  ]
+            },
+            {
+                  "name": "St Giles",
+                  "text": "A traditional parish church serving the local community in the Bodiam area.",
+                  "category": "religious",
+                  "coords": [
+                        0.539319,
+                        51.00748
+                  ]
+            },
+            {
+                  "name": "St Marks Staplecross",
+                  "text": "A Christian place of worship located in the village of Staplecross.",
+                  "category": "religious",
+                  "coords": [
+                        0.539714,
+                        50.974301
+                  ]
+            },
+            {
+                  "name": "Mission Church",
+                  "text": "A small local church used for religious services in the Bodiam community.",
+                  "category": "religious",
+                  "coords": [
+                        0.563612,
+                        51.025824
+                  ]
+            },
+            {
+                  "name": "St James the Great",
+                  "text": "A historic church in Bodiam dedicated to St James the Great.",
+                  "category": "religious",
+                  "coords": [
+                        0.557269,
+                        50.992493
+                  ]
+            },
+            {
+                  "name": "St. Mary the Virgin",
+                  "text": "A classic English parish church dedicated to St. Mary the Virgin.",
+                  "category": "religious",
+                  "coords": [
+                        0.491288,
+                        50.991006
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "GB",
     name: { de: "Bodiam Burg", hu: "Bodiam vár", ro: "Castelul Bodiam", en: "Bodiam Castle" },

@@ -31,6 +31,69 @@ export const albaniaCitiesV2: POI[] = [
                         20.085199,
                         41.103064
                   ]
+            },
+            {
+                  "name": "Bazilika Paleokristiane",
+                  "text": "Die Ruinen einer frühchristlichen Basilika mit historischen Mosaikresten.",
+                  "category": "historical",
+                  "coords": [
+                        20.081605,
+                        41.112313
+                  ]
+            },
+            {
+                  "name": "Kalaja e Elbasanit",
+                  "text": "Eine historische Festung im Stadtzentrum, die einst ein wichtiger Verteidigungspunkt war.",
+                  "category": "castle",
+                  "coords": [
+                        20.08163,
+                        41.11332
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkollës Normale të Elbasanit",
+                  "text": "Ein Museum, das der Geschichte der ersten pädagogischen Schule Albaniens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.089269,
+                        41.113746
+                  ]
+            },
+            {
+                  "name": "Skampa Theater",
+                  "text": "Das wichtigste Theater der Stadt, bekannt für seine vielfältigen kulturellen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083854,
+                        41.112994
+                  ]
+            },
+            {
+                  "name": "Muzeu \"Aleksandër Xhuvani\"",
+                  "text": "Ein Gedenkmuseum, das dem Leben und Werk des bedeutenden Gelehrten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.081145,
+                        41.116185
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Ein Museum, das traditionelle albanische Handwerkskunst und Lebensweise in einem historischen Haus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.083138,
+                        41.112093
+                  ]
+            },
+            {
+                  "name": "Teatri Roman",
+                  "text": "Die archäologischen Überreste eines antiken römischen Theaters in Elbasan.",
+                  "category": "historical",
+                  "coords": [
+                        20.079909,
+                        41.113197
+                  ]
             }
       ],
       "hu": [
@@ -59,6 +122,69 @@ export const albaniaCitiesV2: POI[] = [
                   "coords": [
                         20.085199,
                         41.103064
+                  ]
+            },
+            {
+                  "name": "Bazilika Paleokristiane",
+                  "text": "Egy kora keresztény bazilika romjai történelmi mozaikmaradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        20.081605,
+                        41.112313
+                  ]
+            },
+            {
+                  "name": "Kalaja e Elbasanit",
+                  "text": "Történelmi erőd a városközpontban, amely egykor fontos védelmi pont volt.",
+                  "category": "castle",
+                  "coords": [
+                        20.08163,
+                        41.11332
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkollës Normale të Elbasanit",
+                  "text": "Albánia első pedagógiai iskolájának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.089269,
+                        41.113746
+                  ]
+            },
+            {
+                  "name": "Teatri Skampa",
+                  "text": "A város fő színháza, amely változatos kulturális előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083854,
+                        41.112994
+                  ]
+            },
+            {
+                  "name": "Muzeu \"Aleksandër Xhuvani\"",
+                  "text": "A híres tudós életének és munkásságának szentelt emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.081145,
+                        41.116185
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Hagyományos albán kézművességet és életmódot bemutató múzeum egy történelmi házban.",
+                  "category": "museum",
+                  "coords": [
+                        20.083138,
+                        41.112093
+                  ]
+            },
+            {
+                  "name": "Teatri Roman",
+                  "text": "Egy ókori római színház régészeti maradványai Elbasanban.",
+                  "category": "historical",
+                  "coords": [
+                        20.079909,
+                        41.113197
                   ]
             }
       ],
@@ -89,6 +215,69 @@ export const albaniaCitiesV2: POI[] = [
                         20.085199,
                         41.103064
                   ]
+            },
+            {
+                  "name": "Bazilika Paleokristiane",
+                  "text": "Ruinele unei bazilici paleocreștine ce păstrează vestigii istorice importante.",
+                  "category": "historical",
+                  "coords": [
+                        20.081605,
+                        41.112313
+                  ]
+            },
+            {
+                  "name": "Kalaja e Elbasanit",
+                  "text": "O fortăreață istorică situată în centrul orașului, reprezentând un vechi punct defensiv.",
+                  "category": "castle",
+                  "coords": [
+                        20.08163,
+                        41.11332
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkollës Normale të Elbasanit",
+                  "text": "Un muzeu dedicat istoriei primei școli pedagogice din Albania.",
+                  "category": "museum",
+                  "coords": [
+                        20.089269,
+                        41.113746
+                  ]
+            },
+            {
+                  "name": "Teatri Skampa",
+                  "text": "Principalul teatru al orașului, cunoscut pentru spectacolele sale culturale variate.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083854,
+                        41.112994
+                  ]
+            },
+            {
+                  "name": "Muzeu \"Aleksandër Xhuvani\"",
+                  "text": "Un muzeu memorial dedicat vieții și activității renumitului savant.",
+                  "category": "museum",
+                  "coords": [
+                        20.081145,
+                        41.116185
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Un muzeu ce expune meșteșugurile și stilul de viață tradițional albanez într-o casă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        20.083138,
+                        41.112093
+                  ]
+            },
+            {
+                  "name": "Teatri Roman",
+                  "text": "Vestigiile arheologice ale unui antic teatru roman situat în Elbasan.",
+                  "category": "historical",
+                  "coords": [
+                        20.079909,
+                        41.113197
+                  ]
             }
       ],
       "en": [
@@ -117,6 +306,69 @@ export const albaniaCitiesV2: POI[] = [
                   "coords": [
                         20.085199,
                         41.103064
+                  ]
+            },
+            {
+                  "name": "Paleochristian Basilica",
+                  "text": "The ruins of an early Christian basilica featuring historical archaeological remains.",
+                  "category": "historical",
+                  "coords": [
+                        20.081605,
+                        41.112313
+                  ]
+            },
+            {
+                  "name": "Elbasan Castle",
+                  "text": "A historical fortress in the city center that served as a major defensive point.",
+                  "category": "castle",
+                  "coords": [
+                        20.08163,
+                        41.11332
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkollës Normale të Elbasanit",
+                  "text": "A museum dedicated to the history of Albania's first pedagogical school.",
+                  "category": "museum",
+                  "coords": [
+                        20.089269,
+                        41.113746
+                  ]
+            },
+            {
+                  "name": "Skampa Theatre",
+                  "text": "The city's main theatre, known for hosting a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083854,
+                        41.112994
+                  ]
+            },
+            {
+                  "name": "Museum \"Aleksandër Xhuvani\"",
+                  "text": "A memorial museum dedicated to the life and work of the prominent scholar.",
+                  "category": "museum",
+                  "coords": [
+                        20.081145,
+                        41.116185
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum showcasing traditional Albanian crafts and lifestyle within a historical house.",
+                  "category": "museum",
+                  "coords": [
+                        20.083138,
+                        41.112093
+                  ]
+            },
+            {
+                  "name": "Teatri Roman",
+                  "text": "The archaeological remains of an ancient Roman theatre in Elbasan.",
+                  "category": "historical",
+                  "coords": [
+                        20.079909,
+                        41.113197
                   ]
             }
       ]
@@ -1666,6 +1918,60 @@ imageHint: "St. Anthony Church on the hill above Laç",
                         19.602985,
                         41.787518
                   ]
+            },
+            {
+                  "name": "Kalaja e Lezhës",
+                  "text": "Eine historische Festung auf einem Hügel mit Blick auf die Stadt Lezhë.",
+                  "category": "castle",
+                  "coords": [
+                        19.650061,
+                        41.783714
+                  ]
+            },
+            {
+                  "name": "Guret Ilir",
+                  "text": "Antike Steinüberreste aus der illyrischen Zeit, die in der Gegend von Lezhë gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        19.643358,
+                        41.782288
+                  ]
+            },
+            {
+                  "name": "Ancient Walls",
+                  "text": "Überreste der antiken Befestigungsmauern, die einst die Stadt schützten.",
+                  "category": "historical",
+                  "coords": [
+                        19.64974,
+                        41.782112
+                  ]
+            },
+            {
+                  "name": "Germadhat e Malit të Shëlbuem (Akrolis)",
+                  "text": "Archäologische Ruinen auf dem Berg Shëlbuem, die zur antiken Siedlung Akrolis gehören.",
+                  "category": "historical",
+                  "coords": [
+                        19.659804,
+                        41.785437
+                  ]
+            },
+            {
+                  "name": "Ancient Illyrians Walls",
+                  "text": "Massive Steinmauern, die von den Illyrern als Teil ihrer antiken Befestigungen errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        19.646317,
+                        41.782855
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Dedë Ndue Lazri\"",
+                  "text": "Ein Kulturzentrum in Lezhë, das als Veranstaltungsort für Theater und Kunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        19.642906,
+                        41.781366
+                  ]
             }
       ],
       "hu": [
@@ -1676,6 +1982,60 @@ imageHint: "St. Anthony Church on the hill above Laç",
                   "coords": [
                         19.602985,
                         41.787518
+                  ]
+            },
+            {
+                  "name": "Kalaja e Lezhës",
+                  "text": "Történelmi erőd egy dombtetőn, ahonnan kilátás nyílik Lezhë városára.",
+                  "category": "castle",
+                  "coords": [
+                        19.650061,
+                        41.783714
+                  ]
+            },
+            {
+                  "name": "Guret Ilir",
+                  "text": "Illír korból származó ősi kőmaradványok Lezhë környékén.",
+                  "category": "historical",
+                  "coords": [
+                        19.643358,
+                        41.782288
+                  ]
+            },
+            {
+                  "name": "Ancient Walls",
+                  "text": "Az ősi védőfalak maradványai, amelyek egykor a várost oltalmazták.",
+                  "category": "historical",
+                  "coords": [
+                        19.64974,
+                        41.782112
+                  ]
+            },
+            {
+                  "name": "Germadhat e Malit të Shëlbuem (Akrolis)",
+                  "text": "Régészeti romok a Shëlbuem-hegyen, amelyek az ókori Akrolisz településhez tartoznak.",
+                  "category": "historical",
+                  "coords": [
+                        19.659804,
+                        41.785437
+                  ]
+            },
+            {
+                  "name": "Ancient Illyrians Walls",
+                  "text": "Masszív kőfalak, amelyeket az illírek építettek antik erődítményeik részeként.",
+                  "category": "historical",
+                  "coords": [
+                        19.646317,
+                        41.782855
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Dedë Ndue Lazri\"",
+                  "text": "Kulturális központ Lezhëben, amely színházi és művészeti események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        19.642906,
+                        41.781366
                   ]
             }
       ],
@@ -1688,6 +2048,60 @@ imageHint: "St. Anthony Church on the hill above Laç",
                         19.602985,
                         41.787518
                   ]
+            },
+            {
+                  "name": "Kalaja e Lezhës",
+                  "text": "O fortăreață istorică situată pe un deal care domină orașul Lezhë.",
+                  "category": "castle",
+                  "coords": [
+                        19.650061,
+                        41.783714
+                  ]
+            },
+            {
+                  "name": "Guret Ilir",
+                  "text": "Vestigii antice din piatră din perioada iliră, găsite în zona Lezhë.",
+                  "category": "historical",
+                  "coords": [
+                        19.643358,
+                        41.782288
+                  ]
+            },
+            {
+                  "name": "Ancient Walls",
+                  "text": "Rămășițele zidurilor antice de fortificație care protejau odinioară orașul.",
+                  "category": "historical",
+                  "coords": [
+                        19.64974,
+                        41.782112
+                  ]
+            },
+            {
+                  "name": "Germadhat e Malit të Shëlbuem (Akrolis)",
+                  "text": "Ruine arheologice pe muntele Shëlbuem, aparținând așezării antice Akrolis.",
+                  "category": "historical",
+                  "coords": [
+                        19.659804,
+                        41.785437
+                  ]
+            },
+            {
+                  "name": "Ancient Illyrians Walls",
+                  "text": "Ziduri masive de piatră construite de iliri ca parte a fortificațiilor lor antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.646317,
+                        41.782855
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Dedë Ndue Lazri\"",
+                  "text": "Un centru cultural în Lezhë care servește ca loc de desfășurare pentru teatru și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        19.642906,
+                        41.781366
+                  ]
             }
       ],
       "en": [
@@ -1698,6 +2112,60 @@ imageHint: "St. Anthony Church on the hill above Laç",
                   "coords": [
                         19.602985,
                         41.787518
+                  ]
+            },
+            {
+                  "name": "Lezhë Castle",
+                  "text": "A historic fortress situated on a hilltop overlooking the city of Lezhë.",
+                  "category": "castle",
+                  "coords": [
+                        19.650061,
+                        41.783714
+                  ]
+            },
+            {
+                  "name": "Illyrian Stones",
+                  "text": "Ancient stone remains from the Illyrian period found in the Lezhë area.",
+                  "category": "historical",
+                  "coords": [
+                        19.643358,
+                        41.782288
+                  ]
+            },
+            {
+                  "name": "Ancient Walls",
+                  "text": "Remains of the ancient fortification walls that once protected the city.",
+                  "category": "historical",
+                  "coords": [
+                        19.64974,
+                        41.782112
+                  ]
+            },
+            {
+                  "name": "Germadhat e Malit të Shëlbuem (Akrolis)",
+                  "text": "Archaeological ruins on Mount Shëlbuem belonging to the ancient settlement of Akrolis.",
+                  "category": "historical",
+                  "coords": [
+                        19.659804,
+                        41.785437
+                  ]
+            },
+            {
+                  "name": "Ancient Illyrians Walls",
+                  "text": "Massive stone walls built by the Illyrians as part of their ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        19.646317,
+                        41.782855
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Dedë Ndue Lazri\"",
+                  "text": "A cultural center in Lezhë serving as a venue for theatre and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        19.642906,
+                        41.781366
                   ]
             }
       ]
@@ -2445,7 +2913,268 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-kukes-cities-v2",
+    id: "albania-kukes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Pecës",
+                  "text": "Historische Ruinen einer Festung in der Nähe von Kukës.",
+                  "category": "castle",
+                  "coords": [
+                        20.42331,
+                        42.097065
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik Kukës",
+                  "text": "Museum, das der lokalen Geschichte und Kultur der Region Kukës gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.416367,
+                        42.076247
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës\"Hasan Prishtina\" and American Corner",
+                  "text": "Kulturzentrum und öffentlicher Raum in Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415946,
+                        42.077751
+                  ]
+            },
+            {
+                  "name": "Buste of Qerime (Shota) Galica",
+                  "text": "Denkmal zu Ehren der albanischen Widerstandskämpferin Shota Galica.",
+                  "category": "historical",
+                  "coords": [
+                        20.422395,
+                        42.081036
+                  ]
+            },
+            {
+                  "name": "Kukës Underground City",
+                  "text": "Netzwerk von Tunneln und Bunkern aus der Zeit des Kalten Krieges unter Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.425308,
+                        42.069805
+                  ]
+            },
+            {
+                  "name": "Kafe, Art and Valdrin (business)",
+                  "text": "Lokales Kunstzentrum und Veranstaltungsort in Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.422513,
+                        42.076176
+                  ]
+            },
+            {
+                  "name": "Ura e Vjetër e Drinit",
+                  "text": "Historische Brücke über den Fluss Drin in der Nähe von Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.406799,
+                        42.07562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Pecës",
+                  "text": "Egy erődítmény történelmi romjai Kukës közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.42331,
+                        42.097065
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik Kukës",
+                  "text": "Múzeum, amely a Kukës régió helyi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.416367,
+                        42.076247
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës\"Hasan Prishtina\" and American Corner",
+                  "text": "Kulturális központ és közösségi tér Kukësben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415946,
+                        42.077751
+                  ]
+            },
+            {
+                  "name": "Buste of Qerime (Shota) Galica",
+                  "text": "Emlékmű Shota Galica albán ellenálló tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        20.422395,
+                        42.081036
+                  ]
+            },
+            {
+                  "name": "Kukës Underground City",
+                  "text": "Hidegháborús alagutak és bunkerek hálózata Kukës alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.425308,
+                        42.069805
+                  ]
+            },
+            {
+                  "name": "Kafe, Art and Valdrin (business)",
+                  "text": "Helyi művészeti központ és közösségi helyszín Kukësben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.422513,
+                        42.076176
+                  ]
+            },
+            {
+                  "name": "Ura e Vjetër e Drinit",
+                  "text": "Történelmi híd a Drin folyó felett Kukës közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.406799,
+                        42.07562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Pecës",
+                  "text": "Ruinele istorice ale unei fortificații situată lângă Kukës.",
+                  "category": "castle",
+                  "coords": [
+                        20.42331,
+                        42.097065
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik Kukës",
+                  "text": "Muzeu dedicat istoriei și culturii locale a regiunii Kukës.",
+                  "category": "museum",
+                  "coords": [
+                        20.416367,
+                        42.076247
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës\"Hasan Prishtina\" and American Corner",
+                  "text": "Centru cultural și spațiu public în Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415946,
+                        42.077751
+                  ]
+            },
+            {
+                  "name": "Buste of Qerime (Shota) Galica",
+                  "text": "Monument în onoarea luptătoarei albaneze de rezistență Shota Galica.",
+                  "category": "historical",
+                  "coords": [
+                        20.422395,
+                        42.081036
+                  ]
+            },
+            {
+                  "name": "Kukës Underground City",
+                  "text": "O rețea de tuneluri și buncăre din epoca Războiului Rece sub Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.425308,
+                        42.069805
+                  ]
+            },
+            {
+                  "name": "Kafe, Art and Valdrin (business)",
+                  "text": "Centru de artă local și loc comunitar în Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.422513,
+                        42.076176
+                  ]
+            },
+            {
+                  "name": "Ura e Vjetër e Drinit",
+                  "text": "Pod istoric peste râul Drin situat lângă Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.406799,
+                        42.07562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peca Castle",
+                  "text": "Historic ruins of a fortification near Kukës.",
+                  "category": "castle",
+                  "coords": [
+                        20.42331,
+                        42.097065
+                  ]
+            },
+            {
+                  "name": "Kukes Ethnographic Museum",
+                  "text": "Museum dedicated to the local history and culture of the Kukës region.",
+                  "category": "museum",
+                  "coords": [
+                        20.416367,
+                        42.076247
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës\"Hasan Prishtina\" and American Corner",
+                  "text": "Cultural center and public space in Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415946,
+                        42.077751
+                  ]
+            },
+            {
+                  "name": "Buste of Qerime (Shota) Galica",
+                  "text": "Monument honoring the Albanian resistance fighter Shota Galica.",
+                  "category": "historical",
+                  "coords": [
+                        20.422395,
+                        42.081036
+                  ]
+            },
+            {
+                  "name": "Kukës Underground City",
+                  "text": "A network of cold-war era tunnels and bunkers beneath Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.425308,
+                        42.069805
+                  ]
+            },
+            {
+                  "name": "Kafe, Art and Valdrin (business)",
+                  "text": "Local arts center and community venue in Kukës.",
+                  "category": "cultural",
+                  "coords": [
+                        20.422513,
+                        42.076176
+                  ]
+            },
+            {
+                  "name": "Ura e Vjetër e Drinit",
+                  "text": "Historic bridge spanning the Drin river near Kukës.",
+                  "category": "landmark",
+                  "coords": [
+                        20.406799,
+                        42.07562
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës"},
@@ -4376,7 +5105,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-tepelene-cities-v2",
+    id: "albania-tepelene-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kampi i Tepelenës  (1949–1954)",
+                  "text": "Dieses Museum erinnert an die Geschichte des Internierungslagers Tepelena während der kommunistischen Ära.",
+                  "category": "museum",
+                  "coords": [
+                        20.015358,
+                        40.300353
+                  ]
+            },
+            {
+                  "name": "Kalaja e Tepelenës",
+                  "text": "Die Burg Tepelena ist eine historische Festung, die eng mit der Herrschaft von Ali Pascha Tepelena verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        20.021465,
+                        40.2991
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zharës",
+                  "text": "Die Burg Zharë ist eine historische Befestigungsanlage in der Region Tepelena.",
+                  "category": "castle",
+                  "coords": [
+                        19.988149,
+                        40.300043
+                  ]
+            },
+            {
+                  "name": "Pallati Kulturës \"Mustafa Matohiti\"",
+                  "text": "Das Kulturzentrum Mustafa Matohiti ist ein wichtiger Ort für Kunst und Veranstaltungen in Tepelena.",
+                  "category": "cultural",
+                  "coords": [
+                        20.020406,
+                        40.296283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kampi i Tepelenës  (1949–1954)",
+                  "text": "Ez a múzeum a kommunista korszak idején működött tepelenai internálótábor történetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.015358,
+                        40.300353
+                  ]
+            },
+            {
+                  "name": "Kalaja e Tepelenës",
+                  "text": "Tepelena vára egy történelmi erődítmény, amely szorosan kapcsolódik Ali Tepeleni pasa uralkodásához.",
+                  "category": "castle",
+                  "coords": [
+                        20.021465,
+                        40.2991
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zharës",
+                  "text": "Zharë vára egy történelmi erődítmény Tepelena régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        19.988149,
+                        40.300043
+                  ]
+            },
+            {
+                  "name": "Pallati Kulturës \"Mustafa Matohiti\"",
+                  "text": "A Mustafa Matohiti Kulturális Palota a művészetek és rendezvények fontos helyszíne Tepelenában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.020406,
+                        40.296283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kampi i Tepelenës  (1949–1954)",
+                  "text": "Acest muzeu comemorează istoria lagărului de internare de la Tepelena din timpul erei comuniste.",
+                  "category": "museum",
+                  "coords": [
+                        20.015358,
+                        40.300353
+                  ]
+            },
+            {
+                  "name": "Kalaja e Tepelenës",
+                  "text": "Castelul Tepelena este o fortăreață istorică strâns legată de domnia lui Ali Pașa Tepelena.",
+                  "category": "castle",
+                  "coords": [
+                        20.021465,
+                        40.2991
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zharës",
+                  "text": "Castelul Zharë este o fortificație istorică din regiunea Tepelena.",
+                  "category": "castle",
+                  "coords": [
+                        19.988149,
+                        40.300043
+                  ]
+            },
+            {
+                  "name": "Pallati Kulturës \"Mustafa Matohiti\"",
+                  "text": "Palatul Culturii „Mustafa Matohiti” este un loc important pentru arte și evenimente în Tepelena.",
+                  "category": "cultural",
+                  "coords": [
+                        20.020406,
+                        40.296283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tepelenë internment camp (1949–1954)",
+                  "text": "This museum commemorates the history of the Tepelena internment camp during the communist era.",
+                  "category": "museum",
+                  "coords": [
+                        20.015358,
+                        40.300353
+                  ]
+            },
+            {
+                  "name": "Tepelena Castle",
+                  "text": "Tepelena Castle is a historical fortress closely associated with the reign of Ali Pasha Tepelena.",
+                  "category": "castle",
+                  "coords": [
+                        20.021465,
+                        40.2991
+                  ]
+            },
+            {
+                  "name": "Zharë Castle",
+                  "text": "Zharë Castle is a historical fortification in the Tepelena region.",
+                  "category": "castle",
+                  "coords": [
+                        19.988149,
+                        40.300043
+                  ]
+            },
+            {
+                  "name": "Pallati Kulturës \"Mustafa Matohiti\"",
+                  "text": "The Mustafa Matohiti Cultural Palace is an important venue for arts and events in Tepelena.",
+                  "category": "cultural",
+                  "coords": [
+                        20.020406,
+                        40.296283
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Tepelenë", hu: "Tepelenë", ro: "Tepelenë", en: "Tepelenë"},
@@ -6181,7 +7063,124 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-bilisht-cities-v2", "sights": {"de": [{"name": "Rezervuar", "text": "Ein ruhiger Stausee bei Bilisht, der sich gut für einen entspannten Spaziergang eignet.", "category": "natural", "coords": [21.024562, 40.585863]}, {"name": "Kleiner Prespasee", "text": "Der Lesser Prespa Lake bei Bilisht ist ein bedeutendes Naturgewässer in ruhiger Lage.", "category": "natural", "coords": [21.076806, 40.750977]}], "hu": [{"name": "Rezervuar", "text": "Egy nyugodt víztározó Bilisht közelében, amely kiválóan alkalmas egy pihentető sétához.", "category": "natural", "coords": [21.024562, 40.585863]}, {"name": "Mikri Prespa", "text": "A Bilisht közelében fekvő Kis-Preszpa-tó egy jelentős természetes vízfelület nyugodt környezetben.", "category": "natural", "coords": [21.076806, 40.750977]}], "ro": [{"name": "Rezervuar", "text": "Un rezervuar liniștit lângă Bilisht, potrivit pentru o plimbare relaxantă.", "category": "natural", "coords": [21.024562, 40.585863]}, {"name": "Mikri Prespa", "text": "Lacul Prespa Mică de lângă Bilisht este o apă naturală importantă într-un cadru liniștit.", "category": "natural", "coords": [21.076806, 40.750977]}], "en": [{"name": "Rezervuar", "text": "A quiet reservoir near Bilisht, well-suited for a relaxing stroll.", "category": "natural", "coords": [21.024562, 40.585863]}, {"name": "Lesser Prespa Lake", "text": "Lesser Prespa Lake near Bilisht is a significant natural body of water in a quiet setting.", "category": "natural", "coords": [21.076806, 40.750977]}]},
+    id: "albania-bilisht-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Ein ruhiger Stausee bei Bilisht, der sich gut für einen entspannten Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Kleiner Prespasee",
+                  "text": "Der Lesser Prespa Lake bei Bilisht ist ein bedeutendes Naturgewässer in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            },
+            {
+                  "name": "Kalaja e Bilishtit",
+                  "text": "Die Ruinen einer alten Festung in der Stadt Bilisht.",
+                  "category": "historical",
+                  "coords": [
+                        20.99157,
+                        40.63638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Egy nyugodt víztározó Bilisht közelében, amely kiválóan alkalmas egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Mikri Prespa",
+                  "text": "A Bilisht közelében fekvő Kis-Preszpa-tó egy jelentős természetes vízfelület nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            },
+            {
+                  "name": "Kalaja e Bilishtit",
+                  "text": "Egy ősi erőd romjai Bilisht városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.99157,
+                        40.63638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervuar",
+                  "text": "Un rezervuar liniștit lângă Bilisht, potrivit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Mikri Prespa",
+                  "text": "Lacul Prespa Mică de lângă Bilisht este o apă naturală importantă într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            },
+            {
+                  "name": "Kalaja e Bilishtit",
+                  "text": "Ruinele unei vechi cetăți situate în orașul Bilisht.",
+                  "category": "historical",
+                  "coords": [
+                        20.99157,
+                        40.63638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervuar",
+                  "text": "A quiet reservoir near Bilisht, well-suited for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        21.024562,
+                        40.585863
+                  ]
+            },
+            {
+                  "name": "Lesser Prespa Lake",
+                  "text": "Lesser Prespa Lake near Bilisht is a significant natural body of water in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        21.076806,
+                        40.750977
+                  ]
+            },
+            {
+                  "name": "Kalaja e Bilishtit",
+                  "text": "The ruins of an ancient fortress located in the town of Bilisht.",
+                  "category": "historical",
+                  "coords": [
+                        20.99157,
+                        40.63638
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Bilisht", hu: "Bilisht", ro: "Bilisht", en: "Bilisht"},
@@ -6413,6 +7412,51 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.322907,
                         42.198624
                   ]
+            },
+            {
+                  "name": "Banesa e Man dhe Hate Ferizollit",
+                  "text": "Ein denkmalgeschütztes historisches Gebäude in Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.390246,
+                        42.181131
+                  ]
+            },
+            {
+                  "name": "Banesa e Adem Pavdejes",
+                  "text": "Ein traditionelles Wohnhaus in Krumë, das als Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        20.426054,
+                        42.210302
+                  ]
+            },
+            {
+                  "name": "Qendra e Edukimit dhe Art",
+                  "text": "Ein Zentrum für Bildung und Kunst in Krumë.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415316,
+                        42.194788
+                  ]
+            },
+            {
+                  "name": "Konvikti Kosova",
+                  "text": "Ein historisches Internat in Krumë, das unter Denkmalschutz steht.",
+                  "category": "historical",
+                  "coords": [
+                        20.415267,
+                        42.196969
+                  ]
+            },
+            {
+                  "name": "Shkolla Kosova",
+                  "text": "Die Ruinen eines ehemaligen Schulgebäudes in Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.416246,
+                        42.196097
+                  ]
             }
       ],
       "hu": [
@@ -6423,6 +7467,51 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.322907,
                         42.198624
+                  ]
+            },
+            {
+                  "name": "Banesa e Man dhe Hate Ferizollit",
+                  "text": "Műemlék jellegű történelmi épület Krumëban.",
+                  "category": "historical",
+                  "coords": [
+                        20.390246,
+                        42.181131
+                  ]
+            },
+            {
+                  "name": "Banesa e Adem Pavdejes",
+                  "text": "Hagyományos lakóház Krumëban, amely műemléknek számít.",
+                  "category": "historical",
+                  "coords": [
+                        20.426054,
+                        42.210302
+                  ]
+            },
+            {
+                  "name": "Qendra e Edukimit dhe Art",
+                  "text": "Oktatási és művészeti központ Krumë városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415316,
+                        42.194788
+                  ]
+            },
+            {
+                  "name": "Konvikti Kosova",
+                  "text": "Történelmi kollégium Krumëban, amely műemléki védelem alatt áll.",
+                  "category": "historical",
+                  "coords": [
+                        20.415267,
+                        42.196969
+                  ]
+            },
+            {
+                  "name": "Shkolla Kosova",
+                  "text": "Egykori iskolaépület romjai Krumëban.",
+                  "category": "historical",
+                  "coords": [
+                        20.416246,
+                        42.196097
                   ]
             }
       ],
@@ -6435,6 +7524,51 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.322907,
                         42.198624
                   ]
+            },
+            {
+                  "name": "Banesa e Man dhe Hate Ferizollit",
+                  "text": "O clădire istorică protejată ca monument în Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.390246,
+                        42.181131
+                  ]
+            },
+            {
+                  "name": "Banesa e Adem Pavdejes",
+                  "text": "O casă tradițională în Krumë, considerată monument.",
+                  "category": "historical",
+                  "coords": [
+                        20.426054,
+                        42.210302
+                  ]
+            },
+            {
+                  "name": "Qendra e Edukimit dhe Art",
+                  "text": "Un centru pentru educație și artă în Krumë.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415316,
+                        42.194788
+                  ]
+            },
+            {
+                  "name": "Konvikti Kosova",
+                  "text": "Un internat istoric în Krumë, aflat sub protecția monumentelor.",
+                  "category": "historical",
+                  "coords": [
+                        20.415267,
+                        42.196969
+                  ]
+            },
+            {
+                  "name": "Shkolla Kosova",
+                  "text": "Ruinele unei foste școli în Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.416246,
+                        42.196097
+                  ]
             }
       ],
       "en": [
@@ -6445,6 +7579,51 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.322907,
                         42.198624
+                  ]
+            },
+            {
+                  "name": "Banesa e Man dhe Hate Ferizollit",
+                  "text": "A historical building protected as a monument in Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.390246,
+                        42.181131
+                  ]
+            },
+            {
+                  "name": "Banesa e Adem Pavdejes",
+                  "text": "A traditional house in Krumë, regarded as a monument.",
+                  "category": "historical",
+                  "coords": [
+                        20.426054,
+                        42.210302
+                  ]
+            },
+            {
+                  "name": "Qendra e Edukimit dhe Art",
+                  "text": "A center for education and art in Krumë.",
+                  "category": "cultural",
+                  "coords": [
+                        20.415316,
+                        42.194788
+                  ]
+            },
+            {
+                  "name": "Konvikti Kosova",
+                  "text": "A historical dormitory in Krumë under monument protection.",
+                  "category": "historical",
+                  "coords": [
+                        20.415267,
+                        42.196969
+                  ]
+            },
+            {
+                  "name": "Shkolla Kosova",
+                  "text": "The ruins of a former school in Krumë.",
+                  "category": "historical",
+                  "coords": [
+                        20.416246,
+                        42.196097
                   ]
             }
       ]
@@ -8370,7 +9549,232 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-shengjin-cities-v2",
+    id: "albania-shengjin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Ein beliebter Sandstrand an der albanischen Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Ein Küstenabschnitt in Shëngjin, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572348,
+                        41.813473
+                  ]
+            },
+            {
+                  "name": "Ilyonis Park",
+                  "text": "Ein Vergnügungspark in der Küstenstadt Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.590956,
+                        41.813311
+                  ]
+            },
+            {
+                  "name": "Mali Shëngjinit",
+                  "text": "Ein Berg in der Nähe der Küste, der einen Panoramablick auf Shëngjin bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.587861,
+                        41.832762
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historische Ruinen in der Gegend von Shëngjin.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Eine Ferienanlage am Meer in Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.60296,
+                        41.787518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Népszerű homokos strand az albán adriai tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Tengerparti szakasz Shëngjinben, amely ideális úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572348,
+                        41.813473
+                  ]
+            },
+            {
+                  "name": "Ilyonis Park",
+                  "text": "Vidámpark Shëngjin tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.590956,
+                        41.813311
+                  ]
+            },
+            {
+                  "name": "Mali Shëngjinit",
+                  "text": "Tengerpart közeli hegy, amely panorámás kilátást nyújt Shëngjinre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.587861,
+                        41.832762
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Történelmi romok Shëngjin környékén.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Tengerparti üdülőhely Shëngjinben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.60296,
+                        41.787518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "O plajă populară cu nisip de pe coasta adriatică a Albaniei.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "O porțiune de coastă din Shëngjin, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572348,
+                        41.813473
+                  ]
+            },
+            {
+                  "name": "Ilyonis Park",
+                  "text": "Un parc de distracții situat în orașul de coastă Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.590956,
+                        41.813311
+                  ]
+            },
+            {
+                  "name": "Mali Shëngjinit",
+                  "text": "Un munte situat lângă coastă, oferind o vedere panoramică asupra Shëngjinului.",
+                  "category": "landmark",
+                  "coords": [
+                        19.587861,
+                        41.832762
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Ruine istorice situate în zona Shëngjin.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "O stațiune de vacanță la malul mării în Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.60296,
+                        41.787518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shëngjin Beach",
+                  "text": "A popular sandy beach on the Albanian Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.598806,
+                        41.792941
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "A coastal stretch in Shëngjin ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572348,
+                        41.813473
+                  ]
+            },
+            {
+                  "name": "Ilyonis Park",
+                  "text": "An amusement park located in the coastal town of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.590956,
+                        41.813311
+                  ]
+            },
+            {
+                  "name": "Mali Shëngjinit",
+                  "text": "A mountain near the coast offering a panoramic view of Shëngjin.",
+                  "category": "landmark",
+                  "coords": [
+                        19.587861,
+                        41.832762
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historical ruins located in the Shëngjin area.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "A seaside holiday resort located in Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.60296,
+                        41.787518
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Shëngjin", hu: "Shëngjin", ro: "Shëngjin", en: "Shëngjin"},
@@ -8817,7 +10221,196 @@ imageHint: "Krujë Castle and old bazaar street",
     }
   },
   {
-    id: "albania-maliq-cities-v2",
+    id: "albania-maliq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Klockes",
+                  "text": "Eine archäologische Stätte in Maliq, an der Überreste einer antiken Befestigung gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        20.695749,
+                        40.685783
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "Eine bedeutende prähistorische Fundstätte in Albanien, die für ihre Siedlungsspuren bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Kalaja e Symizes",
+                  "text": "Die Ruinen einer alten Festung bei Maliq, die Zeugnis von der strategischen Bedeutung der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        20.69026,
+                        40.722397
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "Ein Naturschutzgebiet in Maliq, das dem Erhalt der lokalen Biodiversität gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.693402,
+                        40.695247
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Ein Kulturzentrum in Maliq, benannt nach dem bekannten albanischen Schauspieler Dhimitër Orgocka.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700149,
+                        40.708652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Klockes",
+                  "text": "Régészeti lelőhely Maliqban, ahol egy ősi erődítmény maradványait tárták fel.",
+                  "category": "historical",
+                  "coords": [
+                        20.695749,
+                        40.685783
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "Fontos őskori lelőhely Albániában, amely településnyomairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Kalaja e Symizes",
+                  "text": "Egy ősi erőd romjai Maliq közelében, amelyek a régió stratégiai jelentőségéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        20.69026,
+                        40.722397
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "Természetvédelmi terület Maliqban, amelyet a helyi biodiverzitás megőrzésének szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        20.693402,
+                        40.695247
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Kulturális központ Maliqban, amely a neves albán színészről, Dhimitër Orgockáról kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700149,
+                        40.708652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Klockes",
+                  "text": "Un sit arheologic din Maliq, unde au fost găsite vestigiile unei fortificații antice.",
+                  "category": "historical",
+                  "coords": [
+                        20.695749,
+                        40.685783
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "Un sit preistoric important din Albania, cunoscut pentru urmele sale de așezare.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Kalaja e Symizes",
+                  "text": "Ruinele unei vechi cetăți de lângă Maliq, care atestă importanța strategică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        20.69026,
+                        40.722397
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "O rezervație naturală din Maliq, dedicată conservării biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        20.693402,
+                        40.695247
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Un centru cultural din Maliq, numit după cunoscutul actor albanez Dhimitër Orgocka.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700149,
+                        40.708652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Klockes",
+                  "text": "An archaeological site in Maliq where remains of an ancient fortification have been found.",
+                  "category": "historical",
+                  "coords": [
+                        20.695749,
+                        40.685783
+                  ]
+            },
+            {
+                  "name": "Prehistoric Settlement Maliq",
+                  "text": "An important prehistoric site in Albania, known for its settlement remains.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Kalaja e Symizes",
+                  "text": "The ruins of an ancient fortress near Maliq, bearing witness to the region's strategic importance.",
+                  "category": "historical",
+                  "coords": [
+                        20.69026,
+                        40.722397
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "A nature reserve in Maliq dedicated to the preservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        20.693402,
+                        40.695247
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "A cultural venue in Maliq named after the well-known Albanian actor Dhimitër Orgocka.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700149,
+                        40.708652
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Maliq", hu: "Maliq", ro: "Maliq", en: "Maliq"},

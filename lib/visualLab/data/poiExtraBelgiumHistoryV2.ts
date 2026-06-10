@@ -141,7 +141,304 @@ imageHint: "Menin Gate Memorial Ypres at night",
     },
     image: "/poi-images/belgium-menin-gate-history-v2.webp",
 },  {
-    id: "belgium-villers-abbey-history-v2",
+    id: "belgium-villers-abbey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château des Sources",
+                  "text": "Ein Schloss in der Nähe der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.502676,
+                        50.613796
+                  ]
+            },
+            {
+                  "name": "Château de Thy",
+                  "text": "Ein historisches Schloss bei der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.484364,
+                        50.610726
+                  ]
+            },
+            {
+                  "name": "Château de Cocriamont",
+                  "text": "Ein Schlossgebäude im Gebiet der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.504304,
+                        50.568224
+                  ]
+            },
+            {
+                  "name": "Le Nouveau Châtelet",
+                  "text": "Eine Schlossanlage in der Nähe der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.513436,
+                        50.571145
+                  ]
+            },
+            {
+                  "name": "Le Châtelet",
+                  "text": "Ein historisches Schloss oder festes Haus in der Region der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.519274,
+                        50.570361
+                  ]
+            },
+            {
+                  "name": "Château Pinchart",
+                  "text": "Ein lokales Schloss in der Nähe der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.564737,
+                        50.574699
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Bois Saint-Jean",
+                  "text": "Ein historischer Schlosshof in der Nähe der Abtei Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.476507,
+                        50.58585
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Gentissart",
+                  "text": "Ein Naturreservat zum Schutz der lokalen Artenvielfalt bei der Abtei Villers.",
+                  "category": "natural",
+                  "coords": [
+                        4.565177,
+                        50.571145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château des Sources",
+                  "text": "Kastély a Villers-apátság környékén.",
+                  "category": "castle",
+                  "coords": [
+                        4.502676,
+                        50.613796
+                  ]
+            },
+            {
+                  "name": "Château de Thy",
+                  "text": "Történelmi kastély a Villers-apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.484364,
+                        50.610726
+                  ]
+            },
+            {
+                  "name": "Château de Cocriamont",
+                  "text": "Kastélyépület a Villers-apátság területén.",
+                  "category": "castle",
+                  "coords": [
+                        4.504304,
+                        50.568224
+                  ]
+            },
+            {
+                  "name": "Le Nouveau Châtelet",
+                  "text": "Kastélyépítmény a Villers-apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.513436,
+                        50.571145
+                  ]
+            },
+            {
+                  "name": "Le Châtelet",
+                  "text": "Történelmi kastély vagy udvarház a Villers-apátság régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        4.519274,
+                        50.570361
+                  ]
+            },
+            {
+                  "name": "Château Pinchart",
+                  "text": "Helyi kastély a Villers-apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.564737,
+                        50.574699
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Bois Saint-Jean",
+                  "text": "Történelmi udvarház és kastély a Villers-apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.476507,
+                        50.58585
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Gentissart",
+                  "text": "Természetvédelmi terület a helyi élővilág védelmére a Villers-apátság közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.565177,
+                        50.571145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château des Sources",
+                  "text": "Un castel situat în vecinătatea abației Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.502676,
+                        50.613796
+                  ]
+            },
+            {
+                  "name": "Château de Thy",
+                  "text": "Un castel istoric situat lângă abația Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.484364,
+                        50.610726
+                  ]
+            },
+            {
+                  "name": "Château de Cocriamont",
+                  "text": "O clădire de castel situată în zona abației Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.504304,
+                        50.568224
+                  ]
+            },
+            {
+                  "name": "Le Nouveau Châtelet",
+                  "text": "O structură de castel lângă abația Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.513436,
+                        50.571145
+                  ]
+            },
+            {
+                  "name": "Le Châtelet",
+                  "text": "Un castel istoric sau casă fortificată în regiunea abației Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.519274,
+                        50.570361
+                  ]
+            },
+            {
+                  "name": "Château Pinchart",
+                  "text": "Un castel local situat lângă abația Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.564737,
+                        50.574699
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Bois Saint-Jean",
+                  "text": "O fermă fortificată istorică și castel lângă abația Villers.",
+                  "category": "castle",
+                  "coords": [
+                        4.476507,
+                        50.58585
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Gentissart",
+                  "text": "O rezervație naturală care protejează biodiversitatea locală lângă abația Villers.",
+                  "category": "natural",
+                  "coords": [
+                        4.565177,
+                        50.571145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château des Sources",
+                  "text": "A castle located in the vicinity of Villers Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.502676,
+                        50.613796
+                  ]
+            },
+            {
+                  "name": "Château de Thy",
+                  "text": "A historic castle situated near Villers Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.484364,
+                        50.610726
+                  ]
+            },
+            {
+                  "name": "Château de Cocriamont",
+                  "text": "A castle building located in the Villers Abbey area.",
+                  "category": "castle",
+                  "coords": [
+                        4.504304,
+                        50.568224
+                  ]
+            },
+            {
+                  "name": "Le Nouveau Châtelet",
+                  "text": "A castle structure near Villers Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.513436,
+                        50.571145
+                  ]
+            },
+            {
+                  "name": "Le Châtelet",
+                  "text": "A historic castle or fortified house in the Villers Abbey region.",
+                  "category": "castle",
+                  "coords": [
+                        4.519274,
+                        50.570361
+                  ]
+            },
+            {
+                  "name": "Château Pinchart",
+                  "text": "A local castle located near Villers Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.564737,
+                        50.574699
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Bois Saint-Jean",
+                  "text": "A historic fortified farm and castle near Villers Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.476507,
+                        50.58585
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Gentissart",
+                  "text": "A nature reserve protecting local biodiversity near Villers Abbey.",
+                  "category": "natural",
+                  "coords": [
+                        4.565177,
+                        50.571145
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "ruins",
     name: { de: "Abtei Villers", hu: "Villers-i apátság romjai", ro: "Abația Villers", en: "Villers Abbey"},
@@ -227,7 +524,304 @@ imageHint: "Citadel of Namur overlooking the river",
     },
     image: "/poi-images/belgium-namur-citadel-history-v2.webp",
 },  {
-    id: "belgium-bouillon-castle-history-v2",
+    id: "belgium-bouillon-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Animalier de Bouillon",
+                  "text": "Ein Tierpark in Bouillon, der eine Vielzahl europäischer und exotischer Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.076547,
+                        49.791293
+                  ]
+            },
+            {
+                  "name": "Burg Bouillon",
+                  "text": "Eine imposante mittelalterliche Festung in Bouillon, die einst dem berühmten Gottfried von Bouillon gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        5.065088,
+                        49.792608
+                  ]
+            },
+            {
+                  "name": "La Collection",
+                  "text": "Ein Museum in der Burg von Bouillon, das bedeutende historische Sammlungen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        5.068301,
+                        49.794621
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale de Bouillon",
+                  "text": "Ein ehemaliger Bahnhof der Kleinbahn in Bouillon, der heute als lokale Sehenswürdigkeit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        5.068045,
+                        49.791055
+                  ]
+            },
+            {
+                  "name": "Das Grab des Riesen",
+                  "text": "Ein berühmter Aussichtspunkt bei Bouillon mit spektakulärem Blick auf eine hufeisenförmige Schleife der Semois.",
+                  "category": "natural",
+                  "coords": [
+                        5.043283,
+                        49.820779
+                  ]
+            },
+            {
+                  "name": "Arboretum de Bouillon",
+                  "text": "Ein Arboretum in Bouillon, das eine Sammlung seltener und heimischer Baumarten präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.056778,
+                        49.787314
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Ramonette",
+                  "text": "Ein Aussichtspunkt in Bouillon, der einen weiten Panoramablick über die Stadt und das Flusstal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.062864,
+                        49.789409
+                  ]
+            },
+            {
+                  "name": "Le Pic du Diable",
+                  "text": "Ein markanter Felsen und Aussichtspunkt in der Umgebung von Bouillon mit Blick auf die umliegenden Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        5.040985,
+                        49.806544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Animalier de Bouillon",
+                  "text": "Vadaspark Bouillonban, amely számos európai és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        5.076547,
+                        49.791293
+                  ]
+            },
+            {
+                  "name": "Château de Bouillon",
+                  "text": "Impozáns középkori erőd Bouillonban, amely egykor a híres Bouillon Gottfried tulajdona volt.",
+                  "category": "castle",
+                  "coords": [
+                        5.065088,
+                        49.792608
+                  ]
+            },
+            {
+                  "name": "La Collection",
+                  "text": "Bouillon várában található múzeum, amely jelentős történelmi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        5.068301,
+                        49.794621
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale de Bouillon",
+                  "text": "Egykori kisvasúti állomás Bouillonban, amely ma helyi látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.068045,
+                        49.791055
+                  ]
+            },
+            {
+                  "name": "Le Tombeau du Géant",
+                  "text": "Híres kilátópont Bouillon közelében, ahonnan látványos panoráma nyílik a Semois folyó patkó alakú kanyarulatára.",
+                  "category": "natural",
+                  "coords": [
+                        5.043283,
+                        49.820779
+                  ]
+            },
+            {
+                  "name": "Arboretum de Bouillon",
+                  "text": "Arborétum Bouillonban, amely ritka és őshonos fafajok gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        5.056778,
+                        49.787314
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Ramonette",
+                  "text": "Kilátópont Bouillonban, amely tágas panorámát nyújt a városra és a folyóvölgyre.",
+                  "category": "natural",
+                  "coords": [
+                        5.062864,
+                        49.789409
+                  ]
+            },
+            {
+                  "name": "Le Pic du Diable",
+                  "text": "Jellegzetes szikla és kilátópont Bouillon környékén, kilátással a környező erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        5.040985,
+                        49.806544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Animalier de Bouillon",
+                  "text": "Un parc de animale în Bouillon, care găzduiește o varietate de specii europene și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        5.076547,
+                        49.791293
+                  ]
+            },
+            {
+                  "name": "Château de Bouillon",
+                  "text": "O fortăreață medievală impunătoare în Bouillon, care a aparținut cândva celebrului Godfrey de Bouillon.",
+                  "category": "castle",
+                  "coords": [
+                        5.065088,
+                        49.792608
+                  ]
+            },
+            {
+                  "name": "La Collection",
+                  "text": "Un muzeu situat în castelul din Bouillon, care expune colecții istorice importante.",
+                  "category": "museum",
+                  "coords": [
+                        5.068301,
+                        49.794621
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale de Bouillon",
+                  "text": "O fostă stație de cale ferată locală în Bouillon, care servește astăzi ca atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        5.068045,
+                        49.791055
+                  ]
+            },
+            {
+                  "name": "Le Tombeau du Géant",
+                  "text": "Un punct de belvedere faimos lângă Bouillon, oferind o vedere spectaculoasă asupra unei bucle în formă de potcoavă a râului Semois.",
+                  "category": "natural",
+                  "coords": [
+                        5.043283,
+                        49.820779
+                  ]
+            },
+            {
+                  "name": "Arboretum de Bouillon",
+                  "text": "Un arboretum în Bouillon, care prezintă o colecție de specii de arbori rare și native.",
+                  "category": "landmark",
+                  "coords": [
+                        5.056778,
+                        49.787314
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Ramonette",
+                  "text": "Un punct de belvedere în Bouillon, oferind o vedere panoramică largă asupra orașului și a văii râului.",
+                  "category": "natural",
+                  "coords": [
+                        5.062864,
+                        49.789409
+                  ]
+            },
+            {
+                  "name": "Le Pic du Diable",
+                  "text": "O stâncă proeminentă și un punct de belvedere în zona Bouillon, cu vedere spre pădurile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        5.040985,
+                        49.806544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Animalier de Bouillon",
+                  "text": "A wildlife park in Bouillon, home to a variety of European and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        5.076547,
+                        49.791293
+                  ]
+            },
+            {
+                  "name": "Bouillon Castle",
+                  "text": "An imposing medieval fortress in Bouillon, once owned by the famous Godfrey of Bouillon.",
+                  "category": "castle",
+                  "coords": [
+                        5.065088,
+                        49.792608
+                  ]
+            },
+            {
+                  "name": "La Collection",
+                  "text": "A museum located within Bouillon Castle, exhibiting significant historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        5.068301,
+                        49.794621
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale de Bouillon",
+                  "text": "A former local railway station in Bouillon, now serving as a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        5.068045,
+                        49.791055
+                  ]
+            },
+            {
+                  "name": "The Tomb of the Giant",
+                  "text": "A famous viewpoint near Bouillon, offering a spectacular view over a horseshoe loop of the Semois River.",
+                  "category": "natural",
+                  "coords": [
+                        5.043283,
+                        49.820779
+                  ]
+            },
+            {
+                  "name": "Arboretum de Bouillon",
+                  "text": "An arboretum in Bouillon, featuring a collection of rare and native tree species.",
+                  "category": "landmark",
+                  "coords": [
+                        5.056778,
+                        49.787314
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Ramonette",
+                  "text": "A viewpoint in Bouillon offering a wide panoramic view over the town and the river valley.",
+                  "category": "natural",
+                  "coords": [
+                        5.062864,
+                        49.789409
+                  ]
+            },
+            {
+                  "name": "Le Pic du Diable",
+                  "text": "A prominent rock and viewpoint in the Bouillon area, overlooking the surrounding forests.",
+                  "category": "natural",
+                  "coords": [
+                        5.040985,
+                        49.806544
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "castle",
     name: { de: "Burg Bouillon", hu: "Bouillon vára", ro: "Castelul Bouillon", en: "Castle of Bouillon"},
@@ -737,7 +1331,268 @@ imageHint: "Mardasson Memorial Bastogne star shape",
     },
   },
   {
-    id: "belgium-fort-breendonk-history-v2",
+    id: "belgium-fort-breendonk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "CC De Steiger",
+                  "text": "Ein lokales Kulturzentrum und Theater für verschiedene künstlerische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.363096,
+                        51.086765
+                  ]
+            },
+            {
+                  "name": "Studio 100 Pop-up Theater",
+                  "text": "Ein großes, modernes temporäres Theatergebäude für Musicals und Großveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.338414,
+                        51.067108
+                  ]
+            },
+            {
+                  "name": "Breendonk Memorial",
+                  "text": "Eine Gedenkstätte und ein Museum am Ort des ehemaligen nationalsozialistischen Auffanglagers.",
+                  "category": "museum",
+                  "coords": [
+                        4.341293,
+                        51.056046
+                  ]
+            },
+            {
+                  "name": "Nautisch Bezoekerscentrum Rupelstreek",
+                  "text": "Ein Besucherzentrum, das die Geschichte und Schifffahrt der Rupel-Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.37629,
+                        51.083137
+                  ]
+            },
+            {
+                  "name": "Theater Piep",
+                  "text": "Ein kleines Theater für lokale kulturelle Aufführungen und Gemeinschaftsevents.",
+                  "category": "cultural",
+                  "coords": [
+                        4.364433,
+                        51.087168
+                  ]
+            },
+            {
+                  "name": "Blaasveldbroek",
+                  "text": "Ein ausgedehntes Naturgebiet mit Wald- und Wasserlandschaften zur Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        4.392757,
+                        51.059626
+                  ]
+            },
+            {
+                  "name": "Museumcafé De Musette",
+                  "text": "Ein Museumscafé, das Einblicke in die lokale Geschichte mit Gastronomie verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        4.381489,
+                        51.082756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CC De Steiger",
+                  "text": "Helyi kulturális központ és színház különféle művészeti előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.363096,
+                        51.086765
+                  ]
+            },
+            {
+                  "name": "Studio 100 Pop-up Theater",
+                  "text": "Hatalmas, modern ideiglenes színházépület musicalek és nagyszabású produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.338414,
+                        51.067108
+                  ]
+            },
+            {
+                  "name": "Breendonk Memorial",
+                  "text": "Emlékhely és múzeum az egykori náci gyűjtőtábor helyszínén.",
+                  "category": "museum",
+                  "coords": [
+                        4.341293,
+                        51.056046
+                  ]
+            },
+            {
+                  "name": "Nautisch Bezoekerscentrum Rupelstreek",
+                  "text": "Látogatóközpont, amely a Rupel-vidék történelmét és hajózását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.37629,
+                        51.083137
+                  ]
+            },
+            {
+                  "name": "Theater Piep",
+                  "text": "Kisméretű színház helyi kulturális előadások és közösségi események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.364433,
+                        51.087168
+                  ]
+            },
+            {
+                  "name": "Blaasveldbroek",
+                  "text": "Kiterjedt természetvédelmi terület erdőkkel és vizes élőhelyekkel a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.392757,
+                        51.059626
+                  ]
+            },
+            {
+                  "name": "Museumcafé De Musette",
+                  "text": "Múzeumi kávézó, amely a helyi történelmet ötvözi a vendéglátással.",
+                  "category": "museum",
+                  "coords": [
+                        4.381489,
+                        51.082756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CC De Steiger",
+                  "text": "Un centru cultural local și teatru pentru diverse spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        4.363096,
+                        51.086765
+                  ]
+            },
+            {
+                  "name": "Studio 100 Pop-up Theater",
+                  "text": "O clădire de teatru temporară, mare și modernă, pentru musicaluri și producții de amploare.",
+                  "category": "cultural",
+                  "coords": [
+                        4.338414,
+                        51.067108
+                  ]
+            },
+            {
+                  "name": "Breendonk Memorial",
+                  "text": "Un memorial și muzeu situat pe locul fostului lagăr de tranzit nazist.",
+                  "category": "museum",
+                  "coords": [
+                        4.341293,
+                        51.056046
+                  ]
+            },
+            {
+                  "name": "Nautisch Bezoekerscentrum Rupelstreek",
+                  "text": "Un centru pentru vizitatori care documentează istoria și navigația din regiunea Rupel.",
+                  "category": "museum",
+                  "coords": [
+                        4.37629,
+                        51.083137
+                  ]
+            },
+            {
+                  "name": "Theater Piep",
+                  "text": "Un teatru mic pentru spectacole culturale locale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        4.364433,
+                        51.087168
+                  ]
+            },
+            {
+                  "name": "Blaasveldbroek",
+                  "text": "O zonă naturală extinsă cu păduri și peisaje acvatice pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        4.392757,
+                        51.059626
+                  ]
+            },
+            {
+                  "name": "Museumcafé De Musette",
+                  "text": "O cafenea a muzeului care îmbină istoria locală cu serviciile gastronomice.",
+                  "category": "museum",
+                  "coords": [
+                        4.381489,
+                        51.082756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CC De Steiger",
+                  "text": "A local cultural center and theatre hosting various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.363096,
+                        51.086765
+                  ]
+            },
+            {
+                  "name": "Studio 100 Pop-up Theater",
+                  "text": "A large, modern temporary theatre building for musicals and major productions.",
+                  "category": "cultural",
+                  "coords": [
+                        4.338414,
+                        51.067108
+                  ]
+            },
+            {
+                  "name": "Breendonk Memorial",
+                  "text": "A memorial and museum located on the site of the former Nazi transit camp.",
+                  "category": "museum",
+                  "coords": [
+                        4.341293,
+                        51.056046
+                  ]
+            },
+            {
+                  "name": "Nautisch Bezoekerscentrum Rupelstreek",
+                  "text": "A visitor center documenting the history and navigation of the Rupel region.",
+                  "category": "museum",
+                  "coords": [
+                        4.37629,
+                        51.083137
+                  ]
+            },
+            {
+                  "name": "Theater Piep",
+                  "text": "A small theatre for local cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.364433,
+                        51.087168
+                  ]
+            },
+            {
+                  "name": "Blaasveldbroek",
+                  "text": "An extensive nature area with forest and water landscapes for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        4.392757,
+                        51.059626
+                  ]
+            },
+            {
+                  "name": "Museumcafé De Musette",
+                  "text": "A museum café that combines local history insights with catering services.",
+                  "category": "museum",
+                  "coords": [
+                        4.381489,
+                        51.082756
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Fort Breendonk", hu: "Breendonki erőd", ro: "Fortul Breendonk", en: "Fort Breendonk"},
@@ -1389,7 +2244,268 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
   }
 ,
   {
-    id: "belgium-castle-of-lavaux-sainte-anne-history-v2",
+    id: "belgium-castle-of-lavaux-sainte-anne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "Die Ruinen dieser mittelalterlichen Burg thronen über der Stadt Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Malagne",
+                  "text": "Überreste einer römischen Landvilla in der Nähe von Jemelle.",
+                  "category": "historical",
+                  "coords": [
+                        5.240512,
+                        50.161405
+                  ]
+            },
+            {
+                  "name": "Malagne - Archéoparc de Rochefort",
+                  "text": "Ein Archäologiepark, der das Leben auf einem gallo-römischen Landgut zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.240592,
+                        50.163612
+                  ]
+            },
+            {
+                  "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
+                  "text": "Ein geschütztes Naturgebiet entlang des Flusses Lesse.",
+                  "category": "natural",
+                  "coords": [
+                        5.258545,
+                        50.103744
+                  ]
+            },
+            {
+                  "name": "Château de Beauregard",
+                  "text": "Ein herrschaftliches Schloss in der Nähe von Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.232894,
+                        50.154466
+                  ]
+            },
+            {
+                  "name": "Cigognes",
+                  "text": "Eine Sehenswürdigkeit, die für die Beobachtung von Störchen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209167,
+                        50.11537
+                  ]
+            },
+            {
+                  "name": "Cerfs",
+                  "text": "Eine Wildtierattraktion mit Hirschen auf dem Gelände des Schlosses Lavaux-Sainte-Anne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209747,
+                        50.117645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "Ennek a középkori várnak a romjai magasodnak Rochefort városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Malagne",
+                  "text": "Egy római vidéki villa maradványai Jemelle közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.240512,
+                        50.161405
+                  ]
+            },
+            {
+                  "name": "Malagne - Archéoparc de Rochefort",
+                  "text": "Régészeti park, amely egy gall-római vidéki birtok életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.240592,
+                        50.163612
+                  ]
+            },
+            {
+                  "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
+                  "text": "Védett természeti terület a Lesse-folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        5.258545,
+                        50.103744
+                  ]
+            },
+            {
+                  "name": "Château de Beauregard",
+                  "text": "Elegáns kastély Rochefort közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.232894,
+                        50.154466
+                  ]
+            },
+            {
+                  "name": "Cigognes",
+                  "text": "Gólyák megfigyeléséről ismert látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209167,
+                        50.11537
+                  ]
+            },
+            {
+                  "name": "Cerfs",
+                  "text": "Szarvasokat bemutató vadaspark a Lavaux-Sainte-Anne-i kastély kertjében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209747,
+                        50.117645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "Ruinele acestui castel medieval tronează deasupra orașului Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Malagne",
+                  "text": "Vestigiile unei vile rustice romane în apropiere de Jemelle.",
+                  "category": "historical",
+                  "coords": [
+                        5.240512,
+                        50.161405
+                  ]
+            },
+            {
+                  "name": "Malagne - Archéoparc de Rochefort",
+                  "text": "Un parc arheologic care reconstituie viața la o fermă galo-romană.",
+                  "category": "museum",
+                  "coords": [
+                        5.240592,
+                        50.163612
+                  ]
+            },
+            {
+                  "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
+                  "text": "O zonă naturală protejată de-a lungul râului Lesse.",
+                  "category": "natural",
+                  "coords": [
+                        5.258545,
+                        50.103744
+                  ]
+            },
+            {
+                  "name": "Château de Beauregard",
+                  "text": "Un castel impunător situat în apropiere de Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.232894,
+                        50.154466
+                  ]
+            },
+            {
+                  "name": "Cigognes",
+                  "text": "O atracție cunoscută pentru observarea berzelor.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209167,
+                        50.11537
+                  ]
+            },
+            {
+                  "name": "Cerfs",
+                  "text": "O atracție cu animale sălbatice care prezintă cerbi pe domeniul Castelului Lavaux-Sainte-Anne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209747,
+                        50.117645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "The ruins of this medieval castle tower over the town of Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Jemelle villa rustica",
+                  "text": "Remains of a Roman rural villa located near Jemelle.",
+                  "category": "historical",
+                  "coords": [
+                        5.240512,
+                        50.161405
+                  ]
+            },
+            {
+                  "name": "Malagne - Archéoparc de Rochefort",
+                  "text": "An archaeological park showcasing life on a Gallo-Roman rural estate.",
+                  "category": "museum",
+                  "coords": [
+                        5.240592,
+                        50.163612
+                  ]
+            },
+            {
+                  "name": "Natura 2000 - Bassin de la Lesse entre Villers-sur-Lesse et Chanly",
+                  "text": "A protected natural area along the Lesse River.",
+                  "category": "natural",
+                  "coords": [
+                        5.258545,
+                        50.103744
+                  ]
+            },
+            {
+                  "name": "Château de Beauregard",
+                  "text": "A stately castle located in the vicinity of Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.232894,
+                        50.154466
+                  ]
+            },
+            {
+                  "name": "Cigognes",
+                  "text": "An attraction known for the observation of storks.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209167,
+                        50.11537
+                  ]
+            },
+            {
+                  "name": "Cerfs",
+                  "text": "A wildlife attraction featuring deer in the grounds of the Castle of Lavaux-Sainte-Anne.",
+                  "category": "landmark",
+                  "coords": [
+                        5.209747,
+                        50.117645
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "BE",
     name: { de: "Schloss Lavaux-Sainte-Anne", hu: "Lavaux-Sainte-Anne kastély", ro: "Castelul Lavaux-Sainte-Anne", en: "Castle of Lavaux-Sainte-Anne" },
@@ -1434,7 +2550,196 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-lavaux-sainte-anne-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-florennes-history-v2",
+    id: "belgium-abbey-of-florennes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Ein historisches Schloss in Florennes, das ursprünglich im Mittelalter erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Ein Museum, das dem berühmten Spitfire-Flugzeug und der regionalen Luftfahrtgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Ein Aussichtspunkt für Luftfahrtenthusiasten am nahegelegenen Luftwaffenstützpunkt.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Ein Beobachtungspunkt mit Blick auf den Flugbetrieb am Luftwaffenstützpunkt Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Ein religiöses Denkmal und eine Kapelle in der Gegend von Florennes.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Történelmi kastély Florennes-ben, amely eredetileg a középkorban épült.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "A híres Spitfire repülőgépnek és a regionális repüléstörténetnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Kijelölt kilátóhely repülésrajongók számára a közeli légibázis megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Megfigyelőpont, ahonnan rálátás nyílik a florennes-i légibázis repülőgép-forgalmára.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Vallási emlékhely és kápolna Florennes környékén.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Un castel istoric din Florennes, construit inițial în Evul Mediu.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Un muzeu dedicat celebrei aeronave Spitfire și istoriei aviației regionale.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Un punct de observație desemnat pentru pasionații de aviație de la baza aeriană.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Un punct de observație care oferă vederi asupra operațiunilor de la Baza Aeriană Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Un monument religios și o chapelă situate în zona Florennes.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "A historic castle in Florennes, originally built in the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "A museum dedicated to the famous Spitfire aircraft and regional aviation history.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "A designated viewpoint for aviation enthusiasts to watch planes at the nearby air base.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "An observation point offering views of aircraft operations at Florennes Air Base.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "A religious monument and chapel located in the Florennes area.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BE",
     name: { de: "Abtei Florennes", hu: "Florennes-i apátság", ro: "Abația Florennes", en: "Abbey of Florennes" },
@@ -1569,7 +2874,304 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-jehay-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-val-dieu-history-v2",
+    id: "belgium-abbey-of-val-dieu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "Eine historische Zisterzienserabtei in der Provinz Lüttich.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Ein historisches Schloss in der Gemeinde Aubel in Belgien.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Ein Schloss in Blegny, bekannt für seine helle Fassade.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Eine Schlossanlage in Dalhem mit historischem Charakter.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "Ein ehemaliges Verteidigungsfort der Festung Lüttich.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "Ein Naturschutzgebiet mit einer historischen Mühle in der Nähe der Abtei Val-Dieu.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Ein Museum, das in den unterirdischen Galerien des Forts Aubin-Neufchâteau eingerichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "Ein befestigter historischer Schlosshof in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "Történelmi ciszterci apátság Liège tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Történelmi kastély a belgiumi Aubel községben.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Kastély Blegny-ben, amely világos homlokzatáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Történelmi jellegű kastélyegyüttes Dalhemben.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "A liège-i erődrendszer egykori védelmi erődje.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "Természetvédelmi terület egy történelmi malommal a Val-Dieu apátság közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Az Aubin-Neufchâteau erőd földalatti járataiban kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "Erődített történelmi kastély-tanya a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "O abație cisterciană istorică din provincia Liège.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Un castel istoric situat în comuna Aubel din Belgia.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Un castel în Blegny, cunoscut pentru fațada sa luminoasă.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Un complex de castel în Dalhem cu caracter istoric.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "O fostă fortificație de apărare din cadrul complexului fortificat Liège.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "O rezervație naturală cu o moară istorică lângă abația Val-Dieu.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Un muzeu amenajat în galeriile subterane ale fortului Aubin-Neufchâteau.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "O fermă-castel istorică fortificată din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "A historic Cistercian abbey located in the province of Liège.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "A historic castle located in the municipality of Aubel in Belgium.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "A castle in Blegny, known for its bright facade.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "A castle complex in Dalhem with historical character.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "A former defense fort of the Liège fortified position.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "A nature reserve featuring a historic mill near the Val-Dieu Abbey.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "A museum established within the underground galleries of Fort Aubin-Neufchâteau.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "A fortified historic castle-farm located in the region.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BE",
     name: { de: "Abtei Val-Dieu", hu: "Val-Dieu apátság", ro: "Abația Val-Dieu", en: "Abbey of Val-Dieu" },
@@ -2109,7 +3711,304 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-la-hulpe-history-v2.webp",
   },
   {
-    id: "belgium-castle-of-hamal-history-v2",
+    id: "belgium-castle-of-hamal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Tombe",
+                  "text": "Eine antike Begräbnisstätte in Form eines Grabhügels in der Nähe von Hodeige.",
+                  "category": "historical",
+                  "coords": [
+                        5.364413,
+                        50.700403
+                  ]
+            },
+            {
+                  "name": "Tumulus d'Otrange",
+                  "text": "Ein gallo-römischer Grabhügel in Otrange, der als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        5.368123,
+                        50.737371
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle",
+                  "text": "Ein Veranstaltungsort für Aufführungen und kulturelle Darbietungen in der Region Hamal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.406702,
+                        50.696634
+                  ]
+            },
+            {
+                  "name": "Château d'Odeur",
+                  "text": "Ein historisches Schloss in Odeur, das Teil des lokalen Kulturerbes ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.415621,
+                        50.705683
+                  ]
+            },
+            {
+                  "name": "Motte castrale",
+                  "text": "Überreste einer mittelalterlichen Motte, einer frühen Form der Turmhügelburg.",
+                  "category": "historical",
+                  "coords": [
+                        5.336099,
+                        50.68943
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Thys",
+                  "text": "Eine befestigte Schlossanlage in Thys, die Elemente eines Herrenhauses und eines Bauernhofs vereint.",
+                  "category": "castle",
+                  "coords": [
+                        5.388798,
+                        50.722783
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Ein antiker Grabhügel, der als Zeugnis früherer Siedlungsgeschichte in dieser Gegend steht.",
+                  "category": "historical",
+                  "coords": [
+                        5.416124,
+                        50.723683
+                  ]
+            },
+            {
+                  "name": "Château d'Otrange",
+                  "text": "Ein Schloss in Otrange, das für seine Architektur und historische Bedeutung in der Region bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.370465,
+                        50.731701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Tombe",
+                  "text": "Egy ókori, halomsír formájú temetkezési hely Hodeige közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.364413,
+                        50.700403
+                  ]
+            },
+            {
+                  "name": "Tumulus d'Otrange",
+                  "text": "Egy gall-római halomsír Otrange-ban, amely régészeti műemlékként védett.",
+                  "category": "historical",
+                  "coords": [
+                        5.368123,
+                        50.737371
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle",
+                  "text": "Előadások és kulturális produkciók helyszíne Hamal régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.406702,
+                        50.696634
+                  ]
+            },
+            {
+                  "name": "Château d'Odeur",
+                  "text": "Történelmi kastély Odeur-ben, amely a helyi kulturális örökség része.",
+                  "category": "castle",
+                  "coords": [
+                        5.415621,
+                        50.705683
+                  ]
+            },
+            {
+                  "name": "Motte castrale",
+                  "text": "Egy középkori motte, azaz egy korai típusú földvár maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        5.336099,
+                        50.68943
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Thys",
+                  "text": "Megerősített kastélyépület Thys-ben, amely egy udvarház és egy gazdaság elemeit ötvözi.",
+                  "category": "castle",
+                  "coords": [
+                        5.388798,
+                        50.722783
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Ókori halomsír, amely a környék korai településtörténetének bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        5.416124,
+                        50.723683
+                  ]
+            },
+            {
+                  "name": "Château d'Otrange",
+                  "text": "Otrange kastélya, amely építészetéről és a régióban betöltött történelmi jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.370465,
+                        50.731701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Tombe",
+                  "text": "Un sit funerar antic sub formă de tumul situat în apropiere de Hodeige.",
+                  "category": "historical",
+                  "coords": [
+                        5.364413,
+                        50.700403
+                  ]
+            },
+            {
+                  "name": "Tumulus d'Otrange",
+                  "text": "Un tumul gallo-roman din Otrange, protejat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        5.368123,
+                        50.737371
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle",
+                  "text": "O sală de spectacole pentru reprezentații și evenimente culturale în regiunea Hamal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.406702,
+                        50.696634
+                  ]
+            },
+            {
+                  "name": "Château d'Odeur",
+                  "text": "Un castel istoric situat în Odeur, făcând parte din patrimoniul cultural local.",
+                  "category": "castle",
+                  "coords": [
+                        5.415621,
+                        50.705683
+                  ]
+            },
+            {
+                  "name": "Motte castrale",
+                  "text": "Vestigiile unei motte medievale, o formă timpurie de fortificație pe movilă de pământ.",
+                  "category": "historical",
+                  "coords": [
+                        5.336099,
+                        50.68943
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Thys",
+                  "text": "Un castel fortificat din Thys care îmbină elementele unui conac cu cele ale unei ferme.",
+                  "category": "castle",
+                  "coords": [
+                        5.388798,
+                        50.722783
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Un tumul antic, care stă ca mărturie a istoriei timpurii a așezărilor din această zonă.",
+                  "category": "historical",
+                  "coords": [
+                        5.416124,
+                        50.723683
+                  ]
+            },
+            {
+                  "name": "Château d'Otrange",
+                  "text": "Un castel din Otrange, cunoscut pentru arhitectura și importanța sa istorică în regiune.",
+                  "category": "castle",
+                  "coords": [
+                        5.370465,
+                        50.731701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Tombe",
+                  "text": "An ancient burial site in the form of a tumulus located near Hodeige.",
+                  "category": "historical",
+                  "coords": [
+                        5.364413,
+                        50.700403
+                  ]
+            },
+            {
+                  "name": "Tumulus d'Otrange",
+                  "text": "A Gallo-Roman burial mound in Otrange, protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        5.368123,
+                        50.737371
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle",
+                  "text": "A venue for performances and cultural productions in the Hamal region.",
+                  "category": "cultural",
+                  "coords": [
+                        5.406702,
+                        50.696634
+                  ]
+            },
+            {
+                  "name": "Château d'Odeur",
+                  "text": "A historic castle located in Odeur, part of the local cultural heritage.",
+                  "category": "castle",
+                  "coords": [
+                        5.415621,
+                        50.705683
+                  ]
+            },
+            {
+                  "name": "Motte castrale",
+                  "text": "Remains of a medieval motte, an early form of a mound-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        5.336099,
+                        50.68943
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Thys",
+                  "text": "A fortified castle building in Thys that combines elements of a manor house and a farm.",
+                  "category": "castle",
+                  "coords": [
+                        5.388798,
+                        50.722783
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "An ancient burial mound serving as evidence of the area's early settlement history.",
+                  "category": "historical",
+                  "coords": [
+                        5.416124,
+                        50.723683
+                  ]
+            },
+            {
+                  "name": "Château d'Otrange",
+                  "text": "A castle in Otrange known for its architecture and historical significance in the region.",
+                  "category": "castle",
+                  "coords": [
+                        5.370465,
+                        50.731701
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "BE",
     name: { de: "Schloss Hamal", hu: "Hamal kastély", ro: "Castelul Hamal", en: "Castle of Hamal" },
@@ -2154,7 +4053,304 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-hamal-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-grandpre-history-v2",
+    id: "belgium-abbey-of-grandpre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Fallais",
+                  "text": "Ein historisches Wasserschloss, das für seine mittelalterliche Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.170603,
+                        50.608079
+                  ]
+            },
+            {
+                  "name": "Château de Fumal",
+                  "text": "Ein Schloss in der Gemeinde Braives, gelegen im Tal der Mehaigne.",
+                  "category": "castle",
+                  "coords": [
+                        5.185388,
+                        50.5873
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Eine archäologische Stätte, die Überreste einer mittelalterlichen Erdburg zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        5.115524,
+                        50.616036
+                  ]
+            },
+            {
+                  "name": "Château Heptia",
+                  "text": "Ein herrschaftliches Schlossbauwerk in der Provinz Lüttich.",
+                  "category": "castle",
+                  "coords": [
+                        5.113621,
+                        50.6147
+                  ]
+            },
+            {
+                  "name": "Château de Braives",
+                  "text": "Ein historisches Schlossgebäude in der belgischen Gemeinde Braives.",
+                  "category": "castle",
+                  "coords": [
+                        5.143238,
+                        50.625492
+                  ]
+            },
+            {
+                  "name": "Tombe d'Yve",
+                  "text": "Eine antike Grabstätte und archäologische Fundstelle in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        5.141896,
+                        50.605909
+                  ]
+            },
+            {
+                  "name": "Château de Famelette",
+                  "text": "Ein charakteristisches Schlossanwesen in der Nähe der Abtei Grandpré.",
+                  "category": "castle",
+                  "coords": [
+                        5.173481,
+                        50.568261
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Pitet",
+                  "text": "Ein befestigter Gutshof mit Schlosscharakter in Pitet.",
+                  "category": "castle",
+                  "coords": [
+                        5.183311,
+                        50.600701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Fallais",
+                  "text": "Történelmi vízi kastély, amely középkori építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.170603,
+                        50.608079
+                  ]
+            },
+            {
+                  "name": "Château de Fumal",
+                  "text": "Kastély Braives községben, a Mehaigne völgyében.",
+                  "category": "castle",
+                  "coords": [
+                        5.185388,
+                        50.5873
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Régészeti lelőhely, amely egy középkori földvár maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        5.115524,
+                        50.616036
+                  ]
+            },
+            {
+                  "name": "Château Heptia",
+                  "text": "Uradalmi kastélyépület Liège tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        5.113621,
+                        50.6147
+                  ]
+            },
+            {
+                  "name": "Château de Braives",
+                  "text": "Történelmi kastélyépület a belgiumi Braives községben.",
+                  "category": "castle",
+                  "coords": [
+                        5.143238,
+                        50.625492
+                  ]
+            },
+            {
+                  "name": "Tombe d'Yve",
+                  "text": "Ősi temetkezési hely és régészeti lelőhely a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        5.141896,
+                        50.605909
+                  ]
+            },
+            {
+                  "name": "Château de Famelette",
+                  "text": "Jellegzetes kastélybirtok a Grandpré-apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.173481,
+                        50.568261
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Pitet",
+                  "text": "Erődített udvarház kastély jelleggel Pitetben.",
+                  "category": "castle",
+                  "coords": [
+                        5.183311,
+                        50.600701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Fallais",
+                  "text": "Un castel istoric cu șanțuri de apă, cunoscut pentru arhitectura sa medievală.",
+                  "category": "castle",
+                  "coords": [
+                        5.170603,
+                        50.608079
+                  ]
+            },
+            {
+                  "name": "Château de Fumal",
+                  "text": "Un castel în comuna Braives, situat în valea Mehaigne.",
+                  "category": "castle",
+                  "coords": [
+                        5.185388,
+                        50.5873
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Un sit arheologic care prezintă vestigiile unei fortificații medievale de pământ.",
+                  "category": "historical",
+                  "coords": [
+                        5.115524,
+                        50.616036
+                  ]
+            },
+            {
+                  "name": "Château Heptia",
+                  "text": "O clădire de castel nobiliară în provincia Liège.",
+                  "category": "castle",
+                  "coords": [
+                        5.113621,
+                        50.6147
+                  ]
+            },
+            {
+                  "name": "Château de Braives",
+                  "text": "O clădire istorică de castel în comuna belgiană Braives.",
+                  "category": "castle",
+                  "coords": [
+                        5.143238,
+                        50.625492
+                  ]
+            },
+            {
+                  "name": "Tombe d'Yve",
+                  "text": "Un mormânt antic și sit arheologic în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        5.141896,
+                        50.605909
+                  ]
+            },
+            {
+                  "name": "Château de Famelette",
+                  "text": "O proprietate de castel caracteristică lângă Abația Grandpré.",
+                  "category": "castle",
+                  "coords": [
+                        5.173481,
+                        50.568261
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Pitet",
+                  "text": "O fermă fortificată cu caracter de castel în Pitet.",
+                  "category": "castle",
+                  "coords": [
+                        5.183311,
+                        50.600701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Fallais",
+                  "text": "A historical moated castle known for its medieval architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.170603,
+                        50.608079
+                  ]
+            },
+            {
+                  "name": "Château de Fumal",
+                  "text": "A castle in the commune of Braives, situated in the Mehaigne valley.",
+                  "category": "castle",
+                  "coords": [
+                        5.185388,
+                        50.5873
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "An archaeological site showing the remains of a medieval motte-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        5.115524,
+                        50.616036
+                  ]
+            },
+            {
+                  "name": "Château Heptia",
+                  "text": "A stately castle building in the province of Liège.",
+                  "category": "castle",
+                  "coords": [
+                        5.113621,
+                        50.6147
+                  ]
+            },
+            {
+                  "name": "Château de Braives",
+                  "text": "A historical castle building in the Belgian commune of Braives.",
+                  "category": "castle",
+                  "coords": [
+                        5.143238,
+                        50.625492
+                  ]
+            },
+            {
+                  "name": "Tombe d'Yve",
+                  "text": "An ancient burial site and archaeological spot in the region.",
+                  "category": "historical",
+                  "coords": [
+                        5.141896,
+                        50.605909
+                  ]
+            },
+            {
+                  "name": "Château de Famelette",
+                  "text": "A characteristic castle estate near the Abbey of Grandpré.",
+                  "category": "castle",
+                  "coords": [
+                        5.173481,
+                        50.568261
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Pitet",
+                  "text": "A fortified farmhouse with castle characteristics in Pitet.",
+                  "category": "castle",
+                  "coords": [
+                        5.183311,
+                        50.600701
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BE",
     name: { de: "Abtei Grandpré", hu: "Grandpré apátság", ro: "Abația Grandpré", en: "Abbey of Grandpré" },
@@ -2424,7 +4620,124 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-spontin-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-florenville-history-v2",
+    id: "belgium-abbey-of-florenville-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Die Ruinen der Zisterzienserabtei Orval sind ein bedeutendes archäologisches Denkmal in Florenville.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Das Château de l'Abbaye ist ein repräsentatives Gebäude in der Nähe der Abtei Orval.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist eine historische Kirche in der Umgebung der Abtei Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Az Orval ciszterci apátság romjai Florenville-ben jelentős régészeti emléket képviselnek.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "A Château de l'Abbaye egy reprezentatív épület az Orval apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin egy történelmi templom az Orval apátság környékén.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruinele abației cisterciene Orval reprezintă un monument arheologic important din Florenville.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Château de l'Abbaye este o clădire reprezentativă situată în apropierea abației Orval.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Saint-Martin este un lăcaș de cult istoric situat în vecinătatea abației Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "The ruins of the Cistercian Abbey of Orval are a significant archaeological monument in Florenville.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Château de l'Abbaye is a stately building located near the Orval Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin is a historical church in the vicinity of the Orval Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BE",
     name: { de: "Abtei Orval (Florenville)", hu: "Orval apátság (Florenville)", ro: "Abația Orval (Florenville)", en: "Abbey of Orval (Florenville)" },
@@ -2649,7 +4962,160 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-fagnolles-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-florenville-orval-history-v2",
+    id: "belgium-abbey-of-florenville-orval-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruinen einer Zisterzienserabtei, die für ihr Trappistenbier und ihren Käse bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Ein Schlossgebäude, das mit der historischen Abtei Orval verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die St.-Martins-Kirche, ein Gotteshaus in der Nähe der Abtei Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Die St.-Michaels-Kirche, eine religiöse Stätte in der Abtei Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.339737,
+                        49.602607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ciszterci apátság romjai, amely trappista söréről és sajtjáról híres.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Az Orval-apátsághoz kapcsolódó kastélyépület.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Márton-templom, egyházi épület az Orval-apátság közelében.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Szent Mihály-templom, vallási helyszín az Orval-apátságnál.",
+                  "category": "religious",
+                  "coords": [
+                        5.339737,
+                        49.602607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruinele unei abații cisterciene renumite pentru berea și brânza sa trapistă.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "O clădire de castel asociată cu istorica abație Orval.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Sfântul Martin, un lăcaș de cult lângă abația Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Biserica Sfântul Mihail, un site religios situat la abația Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.339737,
+                        49.602607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruins of a Cistercian abbey famous for its Trappist beer and cheese.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "A castle building associated with the historic Orval Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "St. Martin's Church, a place of worship near the Orval Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "St. Michael's Church, a religious site located at the Orval Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        5.339737,
+                        49.602607
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BE",
     name: { de: "Abtei Orval (neu)", hu: "Orval apátság (új)", ro: "Abația Orval (nouă)", en: "Abbey of Orval (new)" },
@@ -3009,7 +5475,196 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-houthulst-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-florennes-abbaye-history-v2",
+    id: "belgium-abbey-of-florennes-abbaye-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Ein historisches Schloss in Florennes, heute Teil der lokalen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Museum in Florennes, das dem berühmten Spitfire-Jagdflugzeug gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Beliebter Aussichtspunkt für Flugzeugbeobachtungen in Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Aussichtspunkt zur Beobachtung von Flugzeugen am Flugplatz Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Historische Kapelle und Denkmal in der Nähe der Ruinen von Florennes.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Florennes történelmi kastélya, a helyi örökség része.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Florennes-i múzeum, amelyet a híres Spitfire vadászgépnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Népszerű kilátóhely repülőgép-megfigyeléshez Florennesben.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Kilátópont a repülőgépek megfigyelésére a florennes-i repülőtéren.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Történelmi kápolna és műemlék Florennes romjainak közelében.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "Un castel istoric în Florennes, parte a patrimoniului local.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Muzeu în Florennes dedicat celebrului avion de vânătoare Spitfire.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Punct de observație popular pentru pasionații de aviație în Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Punct de observație pentru avioane la aerodromul din Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Capelă istorică și monument lângă ruinele din Florennes.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Florennes",
+                  "text": "A historic castle in Florennes, part of the local heritage.",
+                  "category": "castle",
+                  "coords": [
+                        4.600986,
+                        50.251285
+                  ]
+            },
+            {
+                  "name": "Musée Spitfire",
+                  "text": "Museum in Florennes dedicated to the famous Spitfire fighter aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        4.623692,
+                        50.24478
+                  ]
+            },
+            {
+                  "name": "Spotters 26R",
+                  "text": "Popular aircraft spotting location in Florennes.",
+                  "category": "natural",
+                  "coords": [
+                        4.666918,
+                        50.243781
+                  ]
+            },
+            {
+                  "name": "Spotters 08R",
+                  "text": "Observation point for watching aircraft at the Florennes airfield.",
+                  "category": "natural",
+                  "coords": [
+                        4.62596,
+                        50.235867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Pierre",
+                  "text": "Historic chapel and monument near the ruins of Florennes.",
+                  "category": "historical",
+                  "coords": [
+                        4.607774,
+                        50.252896
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BE",
     name: { de: "Abtei Florennes (Ruine)", hu: "Florennes-i apátság (rom)", ro: "Abația Florennes (ruină)", en: "Abbey of Florennes (ruins)" },
@@ -3144,7 +5799,304 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     image: "/poi-images/belgium-castle-of-modave-bis-history-v2.webp",
   },
   {
-    id: "belgium-abbey-of-val-dieu-bis-history-v2",
+    id: "belgium-abbey-of-val-dieu-bis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "Eine historische Zisterzienserabtei, die für ihr kulturelles Erbe und ihre Parkanlagen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Ein historisches Schloss in der Nähe der Abtei Val-Dieu, das von einer grünen Landschaft umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Ein elegantes weißes Schloss, das sich in der malerischen Umgebung nahe der Abtei befindet.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Eine historische Burganlage mit charakteristischer Architektur in der Region um Val-Dieu.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "Eine ehemalige Festungsanlage, die als Denkmal der militärischen Verteidigungsgeschichte dient.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe der Abtei Val-Dieu.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Ein Museum, das der Geschichte des Forts von Aubin-Neufchâteau gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "Ein historisches befestigtes Bauernhaus und Schloss in der Nähe des Val-Dieu-Parks.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "Történelmi ciszterci apátság, amely kulturális örökségéről és parkjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Történelmi kastély a Val-Dieu apátság közelében, amelyet zöld táj vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Elegáns fehér kastély, amely az apátság közelében, festői környezetben található.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Történelmi várhelyszín jellegzetes építészettel a Val-Dieu környéki régióban.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "Egykori erődítmény, amely a katonai védelmi történelem emlékeként szolgál.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "Természetvédelmi terület a Val-Dieu apátság közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Az Aubin-Neufchâteau erőd történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "Történelmi várkastély és erődített udvarház a Val-Dieu park közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "O abație cisterciană istorică, cunoscută pentru patrimoniul său cultural și parcurile sale.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "Un castel istoric lângă abația Val-Dieu, înconjurat de un peisaj verde.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "Un castel alb elegant situat în cadrul pitoresc din apropierea abației.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "Un sit istoric de castel cu arhitectură caracteristică în regiunea din jurul Val-Dieu.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "O fostă fortificație care servește ca monument al istoriei apărării militare.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "O rezervație naturală protejată situată în apropierea Abației Val-Dieu.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "Un muzeu dedicat istoriei Fortului Aubin-Neufchâteau.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "O fermă fortificată istorică și un castel situate lângă parcul Val-Dieu.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbaye du Val-Dieu",
+                  "text": "A historic Cistercian abbey known for its cultural heritage and parkland.",
+                  "category": "religious",
+                  "coords": [
+                        5.806965,
+                        50.697226
+                  ]
+            },
+            {
+                  "name": "Kasteel Magis",
+                  "text": "A historical castle near Val-Dieu Abbey, surrounded by a green landscape.",
+                  "category": "castle",
+                  "coords": [
+                        5.841762,
+                        50.716861
+                  ]
+            },
+            {
+                  "name": "Château Blanc",
+                  "text": "An elegant white castle located in the picturesque setting near the abbey.",
+                  "category": "castle",
+                  "coords": [
+                        5.768814,
+                        50.677459
+                  ]
+            },
+            {
+                  "name": "Château de Wodémont",
+                  "text": "A historical castle site with characteristic architecture in the region around Val-Dieu.",
+                  "category": "castle",
+                  "coords": [
+                        5.768042,
+                        50.707912
+                  ]
+            },
+            {
+                  "name": "Fort Aubin Neufchâteau",
+                  "text": "A former fortification serving as a monument to military defense history.",
+                  "category": "fortress",
+                  "coords": [
+                        5.788825,
+                        50.72084
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du moulin du Val Dieu",
+                  "text": "A protected nature reserve located near the Abbey of Val-Dieu.",
+                  "category": "natural",
+                  "coords": [
+                        5.80853,
+                        50.700013
+                  ]
+            },
+            {
+                  "name": "Musée Fort d'Aubin-Neufchâteau",
+                  "text": "A museum dedicated to the history of the Fort of Aubin-Neufchâteau.",
+                  "category": "museum",
+                  "coords": [
+                        5.783582,
+                        50.719762
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Haméval",
+                  "text": "A historic fortified farmhouse and castle located near the Val-Dieu park.",
+                  "category": "castle",
+                  "coords": [
+                        5.809517,
+                        50.668818
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BE",
     name: { de: "Abtei Val-Dieu (Park)", hu: "Val-Dieu apátság (park)", ro: "Abația Val-Dieu (parc)", en: "Abbey of Val-Dieu (park)" },

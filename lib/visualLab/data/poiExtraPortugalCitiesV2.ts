@@ -76,6 +76,78 @@ export const portugalCitiesV2: POI[] = [
                         -8.868315,
                         40.151296
                   ]
+            },
+            {
+                  "name": "Fortaleza de Buarcos",
+                  "text": "Eine historische Küstenfestung, die einst die Bucht von Figueira da Foz schützte.",
+                  "category": "castle",
+                  "coords": [
+                        -8.879153,
+                        40.164747
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Santos Rocha",
+                  "text": "Ein städtisches Museum mit bedeutenden archäologischen und kunsthistorischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -8.86039,
+                        40.152527
+                  ]
+            },
+            {
+                  "name": "Museu do Mar",
+                  "text": "Ein Museum, das der maritimen Geschichte und der Fischerei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.87654,
+                        40.16532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro da Praça Cultural",
+                  "text": "Ein Open-Air-Theater für kulturelle Veranstaltungen in Figueira da Foz.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.884566,
+                        40.168821
+                  ]
+            },
+            {
+                  "name": "Praia da Figueira da Foz",
+                  "text": "Der weitläufige Hauptstrand des beliebten Badeortes Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872352,
+                        40.155282
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelinho",
+                  "text": "Ein ruhigerer Strandabschnitt in der Nähe der Flussmündung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86636,
+                        40.142898
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Ein bekannter Strand, der besonders bei Surfern sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.862718,
+                        40.135723
+                  ]
+            },
+            {
+                  "name": "Praia do Hospital",
+                  "text": "Ein lokaler Sandstrand an der Küste von Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.863159,
+                        40.129679
+                  ]
             }
       ],
       "hu": [
@@ -104,6 +176,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.868315,
                         40.151296
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Buarcos",
+                  "text": "Történelmi parti erődítmény, amely egykor a Figueira da Foz-i öblöt védte.",
+                  "category": "castle",
+                  "coords": [
+                        -8.879153,
+                        40.164747
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Santos Rocha",
+                  "text": "Városi múzeum jelentős régészeti és művészettörténeti gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -8.86039,
+                        40.152527
+                  ]
+            },
+            {
+                  "name": "Museu do Mar",
+                  "text": "A tengerészeti történelemnek és a halászatnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.87654,
+                        40.16532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro da Praça Cultural",
+                  "text": "Szabadtéri színház kulturális rendezvények számára Figueira da Fozban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.884566,
+                        40.168821
+                  ]
+            },
+            {
+                  "name": "Praia da Figueira da Foz",
+                  "text": "A népszerű üdülőhely, Figueira da Foz tágas főstrandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872352,
+                        40.155282
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelinho",
+                  "text": "Egy nyugodtabb strandszakasz a folyótorkolat közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86636,
+                        40.142898
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Ismert tengerparti szakasz, amely különösen a szörfösök körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.862718,
+                        40.135723
+                  ]
+            },
+            {
+                  "name": "Praia do Hospital",
+                  "text": "Helyi homokos strand Figueira da Foz partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.863159,
+                        40.129679
                   ]
             }
       ],
@@ -134,6 +278,78 @@ export const portugalCitiesV2: POI[] = [
                         -8.868315,
                         40.151296
                   ]
+            },
+            {
+                  "name": "Fortaleza de Buarcos",
+                  "text": "O fortăreață istorică de coastă care proteja odinioară golful Figueira da Foz.",
+                  "category": "castle",
+                  "coords": [
+                        -8.879153,
+                        40.164747
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Santos Rocha",
+                  "text": "Un muzeu municipal cu importante colecții arheologice și de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -8.86039,
+                        40.152527
+                  ]
+            },
+            {
+                  "name": "Museu do Mar",
+                  "text": "Un muzeu dedicat istoriei maritime și pescuitului.",
+                  "category": "museum",
+                  "coords": [
+                        -8.87654,
+                        40.16532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro da Praça Cultural",
+                  "text": "Un teatru în aer liber pentru evenimente culturale în Figueira da Foz.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.884566,
+                        40.168821
+                  ]
+            },
+            {
+                  "name": "Praia da Figueira da Foz",
+                  "text": "Plaja principală extinsă a popularei stațiuni Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872352,
+                        40.155282
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelinho",
+                  "text": "O secțiune de plajă mai liniștită situată lângă gura de vărsare a râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86636,
+                        40.142898
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "O plajă renumită, foarte populară în rândul surfeurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.862718,
+                        40.135723
+                  ]
+            },
+            {
+                  "name": "Praia do Hospital",
+                  "text": "O plajă locală de nisip pe coasta din Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.863159,
+                        40.129679
+                  ]
             }
       ],
       "en": [
@@ -162,6 +378,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.868315,
                         40.151296
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Buarcos",
+                  "text": "A historic coastal fortress that once protected the bay of Figueira da Foz.",
+                  "category": "castle",
+                  "coords": [
+                        -8.879153,
+                        40.164747
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Santos Rocha",
+                  "text": "A municipal museum featuring significant archaeological and art collections.",
+                  "category": "museum",
+                  "coords": [
+                        -8.86039,
+                        40.152527
+                  ]
+            },
+            {
+                  "name": "Museu do Mar",
+                  "text": "A museum dedicated to maritime history and fishing.",
+                  "category": "museum",
+                  "coords": [
+                        -8.87654,
+                        40.16532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro da Praça Cultural",
+                  "text": "An open-air theatre for cultural events in Figueira da Foz.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.884566,
+                        40.168821
+                  ]
+            },
+            {
+                  "name": "Praia da Figueira da Foz",
+                  "text": "The wide main beach of the popular resort Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.872352,
+                        40.155282
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelinho",
+                  "text": "A quieter beach section located near the river mouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86636,
+                        40.142898
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "A well-known beach that is very popular among surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.862718,
+                        40.135723
+                  ]
+            },
+            {
+                  "name": "Praia do Hospital",
+                  "text": "A local sandy beach on the coast of Figueira da Foz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.863159,
+                        40.129679
                   ]
             }
       ]
@@ -229,6 +517,33 @@ export const portugalCitiesV2: POI[] = [
                         -9.140733,
                         39.403688
                   ]
+            },
+            {
+                  "name": "Museu de José Malhoa",
+                  "text": "Dieses Museum in Caldas da Rainha ist dem Leben und Werk des portugiesischen Malers José Malhoa gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -9.133968,
+                        39.400834
+                  ]
+            },
+            {
+                  "name": "Espaço da Concas",
+                  "text": "Ein lokales Museum in Caldas da Rainha, das der Künstlerin Concas und zeitgenössischer Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.131611,
+                        39.398746
+                  ]
+            },
+            {
+                  "name": "Museu da Cerâmica",
+                  "text": "Dieses Museum in Caldas da Rainha zeigt eine vielfältige Sammlung portugiesischer und internationaler Keramikkunst.",
+                  "category": "museum",
+                  "coords": [
+                        -9.130418,
+                        39.399594
+                  ]
             }
       ],
       "hu": [
@@ -248,6 +563,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.140733,
                         39.403688
+                  ]
+            },
+            {
+                  "name": "Museu de José Malhoa",
+                  "text": "Ez a Caldas da Rainha-i múzeum José Malhoa portugál festő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -9.133968,
+                        39.400834
+                  ]
+            },
+            {
+                  "name": "Espaço da Concas",
+                  "text": "Helyi múzeum Caldas da Rainhában, amely Concas művészetének és a kortárs alkotásoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -9.131611,
+                        39.398746
+                  ]
+            },
+            {
+                  "name": "Museu da Cerâmica",
+                  "text": "Ez a Caldas da Rainha-i múzeum portugál és nemzetközi kerámiaművészeti alkotások gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.130418,
+                        39.399594
                   ]
             }
       ],
@@ -269,6 +611,33 @@ export const portugalCitiesV2: POI[] = [
                         -9.140733,
                         39.403688
                   ]
+            },
+            {
+                  "name": "Museu de José Malhoa",
+                  "text": "Acest muzeu din Caldas da Rainha este dedicat vieții și operei pictorului portughez José Malhoa.",
+                  "category": "museum",
+                  "coords": [
+                        -9.133968,
+                        39.400834
+                  ]
+            },
+            {
+                  "name": "Espaço da Concas",
+                  "text": "Un muzeu local din Caldas da Rainha dedicat artistei Concas și artei contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -9.131611,
+                        39.398746
+                  ]
+            },
+            {
+                  "name": "Museu da Cerâmica",
+                  "text": "Acest muzeu din Caldas da Rainha expune o colecție diversă de artă ceramică portugheză și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        -9.130418,
+                        39.399594
+                  ]
             }
       ],
       "en": [
@@ -288,6 +657,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.140733,
                         39.403688
+                  ]
+            },
+            {
+                  "name": "Museu de José Malhoa",
+                  "text": "This museum in Caldas da Rainha is dedicated to the life and works of the Portuguese painter José Malhoa.",
+                  "category": "museum",
+                  "coords": [
+                        -9.133968,
+                        39.400834
+                  ]
+            },
+            {
+                  "name": "Espaço da Concas",
+                  "text": "A local museum in Caldas da Rainha dedicated to the artist Concas and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -9.131611,
+                        39.398746
+                  ]
+            },
+            {
+                  "name": "Museu da Cerâmica",
+                  "text": "This museum in Caldas da Rainha exhibits a diverse collection of Portuguese and international ceramic art.",
+                  "category": "museum",
+                  "coords": [
+                        -9.130418,
+                        39.399594
                   ]
             }
       ]
@@ -6647,6 +7043,15 @@ export const portugalCitiesV2: POI[] = [
                         -9.151817,
                         38.677411
                   ]
+            },
+            {
+                  "name": "Quinta do Almaraz",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte in Almada mit Überresten aus der Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        -9.152493,
+                        38.685925
+                  ]
             }
       ],
       "hu": [
@@ -7197,6 +7602,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.151817,
                         38.677411
+                  ]
+            },
+            {
+                  "name": "Quinta do Almaraz",
+                  "text": "Fontos régészeti lelőhely Almadában, ahol a vaskorig visszanyúló maradványok találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -9.152493,
+                        38.685925
                   ]
             }
       ],
@@ -7749,6 +8163,15 @@ export const portugalCitiesV2: POI[] = [
                         -9.151817,
                         38.677411
                   ]
+            },
+            {
+                  "name": "Quinta do Almaraz",
+                  "text": "Un sit arheologic important în Almada, cu vestigii care datează din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        -9.152493,
+                        38.685925
+                  ]
             }
       ],
       "en": [
@@ -8299,6 +8722,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.151817,
                         38.677411
+                  ]
+            },
+            {
+                  "name": "Quinta do Almaraz",
+                  "text": "An important archaeological site in Almada with remains dating back to the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        -9.152493,
+                        38.685925
                   ]
             }
       ]
@@ -12578,6 +13010,78 @@ export const portugalCitiesV2: POI[] = [
                         -9.261336,
                         39.09765
                   ]
+            },
+            {
+                  "name": "Teatro-Cine de Torres Vedras",
+                  "text": "Wichtigstes Theater und Kulturzentrum der Stadt Torres Vedras.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.25762,
+                        39.092395
+                  ]
+            },
+            {
+                  "name": "Castelo de Torres Vedras",
+                  "text": "Diese historische Burg in Torres Vedras bietet Ausblicke auf die Stadt und ihre Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        -9.261222,
+                        39.09462
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Leonel Trindade",
+                  "text": "Stadtgeschichtliches Museum in Torres Vedras mit archäologischen und historischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        -9.25913,
+                        39.090178
+                  ]
+            },
+            {
+                  "name": "Reduto do Outeiro da Forca",
+                  "text": "Eine archäologische Stätte und Befestigungsanlage, die Teil des Verteidigungssystems der Linien von Torres Vedras ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.257425,
+                        39.099186
+                  ]
+            },
+            {
+                  "name": "Estância Termal de Vale dos Cucos",
+                  "text": "Ein Naturschutzgebiet und Thermalgebiet in Torres Vedras, bekannt für seine Landschaft und Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -9.242235,
+                        39.091683
+                  ]
+            },
+            {
+                  "name": "Reduto de Palheiros",
+                  "text": "Teil der historischen Verteidigungsanlagen in der Region Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.290815,
+                        39.087702
+                  ]
+            },
+            {
+                  "name": "Tholos do Barro",
+                  "text": "Ein prähistorisches Megalithgrab und eine archäologische Stätte in der Nähe von Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.26266,
+                        39.067441
+                  ]
+            },
+            {
+                  "name": "Mosteiro do Varatojo",
+                  "text": "Ein historisches Franziskanerkloster in Torres Vedras mit bemerkenswerter religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -9.279674,
+                        39.090817
+                  ]
             }
       ],
       "hu": [
@@ -12588,6 +13092,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.261336,
                         39.09765
+                  ]
+            },
+            {
+                  "name": "Teatro-Cine de Torres Vedras",
+                  "text": "Torres Vedras városának legfontosabb színháza és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.25762,
+                        39.092395
+                  ]
+            },
+            {
+                  "name": "Castelo de Torres Vedras",
+                  "text": "Ez a Torres Vedras-i történelmi vár kilátást nyújt a városra és környékére.",
+                  "category": "castle",
+                  "coords": [
+                        -9.261222,
+                        39.09462
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Leonel Trindade",
+                  "text": "Helytörténeti múzeum Torres Vedrasban, amely régészeti és történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.25913,
+                        39.090178
+                  ]
+            },
+            {
+                  "name": "Reduto do Outeiro da Forca",
+                  "text": "Régészeti lelőhely és erődítmény, amely a Torres Vedras-i vonalak védelmi rendszerének része.",
+                  "category": "historical",
+                  "coords": [
+                        -9.257425,
+                        39.099186
+                  ]
+            },
+            {
+                  "name": "Estância Termal de Vale dos Cucos",
+                  "text": "Természetvédelmi terület és termálövezet Torres Vedrasban, amely tájáról és vizeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.242235,
+                        39.091683
+                  ]
+            },
+            {
+                  "name": "Reduto de Palheiros",
+                  "text": "A Torres Vedras régióban található történelmi védelmi erődítmények része.",
+                  "category": "historical",
+                  "coords": [
+                        -9.290815,
+                        39.087702
+                  ]
+            },
+            {
+                  "name": "Tholos do Barro",
+                  "text": "Torres Vedras közelében található őskori megalitikus sír és régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -9.26266,
+                        39.067441
+                  ]
+            },
+            {
+                  "name": "Mosteiro do Varatojo",
+                  "text": "Torres Vedras-i történelmi ferences kolostor, figyelemre méltó vallási építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -9.279674,
+                        39.090817
                   ]
             }
       ],
@@ -12600,6 +13176,78 @@ export const portugalCitiesV2: POI[] = [
                         -9.261336,
                         39.09765
                   ]
+            },
+            {
+                  "name": "Teatro-Cine de Torres Vedras",
+                  "text": "Principalul teatru și spațiu cultural din orașul Torres Vedras.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.25762,
+                        39.092395
+                  ]
+            },
+            {
+                  "name": "Castelo de Torres Vedras",
+                  "text": "Acest castel istoric din Torres Vedras oferă priveliști asupra orașului și a împrejurimilor sale.",
+                  "category": "castle",
+                  "coords": [
+                        -9.261222,
+                        39.09462
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Leonel Trindade",
+                  "text": "Muzeu de istorie locală din Torres Vedras care prezintă exponate arheologice și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -9.25913,
+                        39.090178
+                  ]
+            },
+            {
+                  "name": "Reduto do Outeiro da Forca",
+                  "text": "Un sit arheologic și o fortificație care face parte din sistemul defensiv al Liniilor Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.257425,
+                        39.099186
+                  ]
+            },
+            {
+                  "name": "Estância Termal de Vale dos Cucos",
+                  "text": "O rezervație naturală și zonă termală din Torres Vedras, cunoscută pentru peisajul și apele sale.",
+                  "category": "natural",
+                  "coords": [
+                        -9.242235,
+                        39.091683
+                  ]
+            },
+            {
+                  "name": "Reduto de Palheiros",
+                  "text": "Parte a fortificațiilor defensive istorice situate în regiunea Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.290815,
+                        39.087702
+                  ]
+            },
+            {
+                  "name": "Tholos do Barro",
+                  "text": "Un mormânt megalitic preistoric și un sit arheologic situat lângă Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.26266,
+                        39.067441
+                  ]
+            },
+            {
+                  "name": "Mosteiro do Varatojo",
+                  "text": "O mănăstire franciscană istorică din Torres Vedras, cu o arhitectură religioasă remarcabilă.",
+                  "category": "religious",
+                  "coords": [
+                        -9.279674,
+                        39.090817
+                  ]
             }
       ],
       "en": [
@@ -12610,6 +13258,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.261336,
                         39.09765
+                  ]
+            },
+            {
+                  "name": "Teatro-Cine de Torres Vedras",
+                  "text": "Main theater and cultural venue in the city of Torres Vedras.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.25762,
+                        39.092395
+                  ]
+            },
+            {
+                  "name": "Castelo de Torres Vedras",
+                  "text": "This historic castle in Torres Vedras offers views of the city and its surroundings.",
+                  "category": "castle",
+                  "coords": [
+                        -9.261222,
+                        39.09462
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Leonel Trindade",
+                  "text": "Local history museum in Torres Vedras showcasing archaeological and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -9.25913,
+                        39.090178
+                  ]
+            },
+            {
+                  "name": "Reduto do Outeiro da Forca",
+                  "text": "An archaeological site and fortification part of the Lines of Torres Vedras defense system.",
+                  "category": "historical",
+                  "coords": [
+                        -9.257425,
+                        39.099186
+                  ]
+            },
+            {
+                  "name": "Estância Termal de Vale dos Cucos",
+                  "text": "A nature reserve and thermal area in Torres Vedras known for its landscape and waters.",
+                  "category": "natural",
+                  "coords": [
+                        -9.242235,
+                        39.091683
+                  ]
+            },
+            {
+                  "name": "Reduto de Palheiros",
+                  "text": "Part of the historical defensive fortifications located in the Torres Vedras region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.290815,
+                        39.087702
+                  ]
+            },
+            {
+                  "name": "Tholos do Barro",
+                  "text": "A prehistoric megalithic tomb and archaeological site located near Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.26266,
+                        39.067441
+                  ]
+            },
+            {
+                  "name": "Mosteiro do Varatojo",
+                  "text": "A historic Franciscan monastery in Torres Vedras with notable religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -9.279674,
+                        39.090817
                   ]
             }
       ]
@@ -15792,6 +16512,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Sobreiro de Sao Geraldo",
+                  "text": "Eine bemerkenswerte Korkeiche in Oia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.6065,
+                        40.746187
+                  ]
             }
       ],
       "hu": [
@@ -15856,6 +16585,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.645427,
                         40.746428
+                  ]
+            },
+            {
+                  "name": "Sobreiro de Sao Geraldo",
+                  "text": "Egy nevezetes parafa Oia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.6065,
+                        40.746187
                   ]
             }
       ],
@@ -15922,6 +16660,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Sobreiro de Sao Geraldo",
+                  "text": "Un stejar de plută remarcabil situat în Oia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.6065,
+                        40.746187
+                  ]
             }
       ],
       "en": [
@@ -15987,6 +16734,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.645427,
                         40.746428
                   ]
+            },
+            {
+                  "name": "Sobreiro de Sao Geraldo",
+                  "text": "A notable cork oak tree located in Oia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.6065,
+                        40.746187
+                  ]
             }
       ]
 },
@@ -16044,6 +16800,60 @@ export const portugalCitiesV2: POI[] = [
                         -8.504048,
                         41.160022
                   ]
+            },
+            {
+                  "name": "Museu da Lousa",
+                  "text": "Ein Museum in Valongo, das die Geschichte des Schieferabbaus in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476867,
+                        41.181364
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Valongo",
+                  "text": "Das Stadtmuseum von Valongo mit Ausstellungen zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498555,
+                        41.189175
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "Ein Museum in einem ehemaligen Bergwerk, das dem Kohlebergbau gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509716,
+                        41.162668
+                  ]
+            },
+            {
+                  "name": "Oficina da Regueifa e do Biscoito",
+                  "text": "Ein Museum, das der traditionellen Kunst des Brot- und Keksbackens in Valongo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.499226,
+                        41.190314
+                  ]
+            },
+            {
+                  "name": "Rio Ferreira e Rio Simão",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Zusammenfluss der Flüsse Ferreira und Simão.",
+                  "category": "natural",
+                  "coords": [
+                        -8.479622,
+                        41.172139
+                  ]
+            },
+            {
+                  "name": "Casinha do Padeiro",
+                  "text": "Ein malerischer Aussichtspunkt in den Bergen von Valongo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.491507,
+                        41.162233
+                  ]
             }
       ],
       "hu": [
@@ -16054,6 +16864,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.504048,
                         41.160022
+                  ]
+            },
+            {
+                  "name": "Museu da Lousa",
+                  "text": "Valongói múzeum, amely a régió palakő-bányászatának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476867,
+                        41.181364
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Valongo",
+                  "text": "Valongo városi múzeuma, helytörténeti és kulturális kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498555,
+                        41.189175
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "Egy egykori bányában kialakított múzeum, amely a szénbányászatnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509716,
+                        41.162668
+                  ]
+            },
+            {
+                  "name": "Oficina da Regueifa e do Biscoito",
+                  "text": "A hagyományos valongói kenyér- és kekszsütés művészetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.499226,
+                        41.190314
+                  ]
+            },
+            {
+                  "name": "Rio Ferreira e Rio Simão",
+                  "text": "Kilátópont, ahonnan rálátni a Ferreira és a Simão folyók összefolyására.",
+                  "category": "natural",
+                  "coords": [
+                        -8.479622,
+                        41.172139
+                  ]
+            },
+            {
+                  "name": "Casinha do Padeiro",
+                  "text": "Gidres-gödrös kilátópont Valongo hegyei között.",
+                  "category": "natural",
+                  "coords": [
+                        -8.491507,
+                        41.162233
                   ]
             }
       ],
@@ -16066,6 +16930,60 @@ export const portugalCitiesV2: POI[] = [
                         -8.504048,
                         41.160022
                   ]
+            },
+            {
+                  "name": "Museu da Lousa",
+                  "text": "Un muzeu din Valongo care documentează istoria extracției de ardezie din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476867,
+                        41.181364
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Valongo",
+                  "text": "Muzeul municipal din Valongo, cu expoziții despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498555,
+                        41.189175
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "Un muzeu amenajat într-o fostă mină, dedicat mineritului de cărbune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509716,
+                        41.162668
+                  ]
+            },
+            {
+                  "name": "Oficina da Regueifa e do Biscoito",
+                  "text": "Un muzeu dedicat artei tradiționale a coacerii pâinii și biscuiților în Valongo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.499226,
+                        41.190314
+                  ]
+            },
+            {
+                  "name": "Rio Ferreira e Rio Simão",
+                  "text": "Un punct de belvedere cu vedere spre confluența râurilor Ferreira și Simão.",
+                  "category": "natural",
+                  "coords": [
+                        -8.479622,
+                        41.172139
+                  ]
+            },
+            {
+                  "name": "Casinha do Padeiro",
+                  "text": "Un punct de belvedere pitoresc situat în munții din Valongo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.491507,
+                        41.162233
+                  ]
             }
       ],
       "en": [
@@ -16076,6 +16994,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.504048,
                         41.160022
+                  ]
+            },
+            {
+                  "name": "Slate Museum",
+                  "text": "A museum in Valongo documenting the history of slate mining in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476867,
+                        41.181364
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Valongo",
+                  "text": "The municipal museum of Valongo, featuring exhibits on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498555,
+                        41.189175
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "A museum located in a former mine, dedicated to coal mining history.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509716,
+                        41.162668
+                  ]
+            },
+            {
+                  "name": "Oficina da Regueifa e do Biscoito",
+                  "text": "A museum dedicated to the traditional art of bread and biscuit making in Valongo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.499226,
+                        41.190314
+                  ]
+            },
+            {
+                  "name": "Rio Ferreira and Rio Simão",
+                  "text": "A viewpoint overlooking the confluence of the Ferreira and Simão rivers.",
+                  "category": "natural",
+                  "coords": [
+                        -8.479622,
+                        41.172139
+                  ]
+            },
+            {
+                  "name": "Casinha do Padeiro",
+                  "text": "A scenic viewpoint located in the mountains of Valongo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.491507,
+                        41.162233
                   ]
             }
       ]
@@ -16710,6 +17682,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.504048,
                         41.160022
                   ]
+            },
+            {
+                  "name": "Quinta de Vilar d'Allen",
+                  "text": "Ein historisches Anwesen in Gondomar, das für seine schönen Gärten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.571161,
+                        41.143811
+                  ]
+            },
+            {
+                  "name": "Parque Oriental da cidade do Porto",
+                  "text": "Ein großer Stadtpark am Rande von Gondomar, der weite Grünflächen bietet.",
+                  "category": "park",
+                  "coords": [
+                        -8.56872,
+                        41.154346
+                  ]
             }
       ],
       "hu": [
@@ -16846,6 +17836,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.504048,
                         41.160022
+                  ]
+            },
+            {
+                  "name": "Quinta de Vilar d'Allen",
+                  "text": "Gondomar egyik történelmi birtoka, amely szép kertjeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.571161,
+                        41.143811
+                  ]
+            },
+            {
+                  "name": "Parque Oriental da cidade do Porto",
+                  "text": "Gondomar nagy városi parkja, amely tágas zöldterületet biztosít a város szélén.",
+                  "category": "park",
+                  "coords": [
+                        -8.56872,
+                        41.154346
                   ]
             }
       ],
@@ -16984,6 +17992,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.504048,
                         41.160022
                   ]
+            },
+            {
+                  "name": "Quinta de Vilar d'Allen",
+                  "text": "O moșie istorică din Gondomar, cunoscută pentru grădinile sale frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.571161,
+                        41.143811
+                  ]
+            },
+            {
+                  "name": "Parque Oriental da cidade do Porto",
+                  "text": "Un parc urban mare situat la marginea orașului Gondomar.",
+                  "category": "park",
+                  "coords": [
+                        -8.56872,
+                        41.154346
+                  ]
             }
       ],
       "en": [
@@ -17120,6 +18146,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.504048,
                         41.160022
+                  ]
+            },
+            {
+                  "name": "Quinta de Vilar d'Allen",
+                  "text": "A historic estate in Gondomar known for its beautiful gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.571161,
+                        41.143811
+                  ]
+            },
+            {
+                  "name": "Parque Oriental da cidade do Porto",
+                  "text": "A large urban park on the edge of Gondomar providing extensive green space.",
+                  "category": "park",
+                  "coords": [
+                        -8.56872,
+                        41.154346
                   ]
             }
       ]
@@ -18105,6 +19149,51 @@ export const portugalCitiesV2: POI[] = [
                         -8.563787,
                         41.204028
                   ]
+            },
+            {
+                  "name": "Oficina do Brinquedo Tradicional Portugues",
+                  "text": "Ein Museum in Ermesinde, das sich auf traditionelles portugiesisches Spielzeug konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.528108,
+                        41.223954
+                  ]
+            },
+            {
+                  "name": "Quinta da Caverneira",
+                  "text": "Ein Kulturzentrum und Museum in einem historischen Anwesen in Ermesinde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.576915,
+                        41.202003
+                  ]
+            },
+            {
+                  "name": "Baloicos do Parque Aventura da Lipor",
+                  "text": "Malerische Schaukeln im Lipor Abenteuerpark in Ermesinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.54631,
+                        41.199498
+                  ]
+            },
+            {
+                  "name": "Palacete do Mesquita",
+                  "text": "Ein historisches Herrenhaus und ein lokales architektonisches Wahrzeichen in Ermesinde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554593,
+                        41.219837
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Rita",
+                  "text": "Eine bekannte katholische Kirche und Wallfahrtsort in Ermesinde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.541788,
+                        41.206045
+                  ]
             }
       ],
       "hu": [
@@ -18178,6 +19267,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.563787,
                         41.204028
+                  ]
+            },
+            {
+                  "name": "Oficina do Brinquedo Tradicional Portugues",
+                  "text": "A hagyományos portugál játékoknak szentelt múzeum Ermesinde városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.528108,
+                        41.223954
+                  ]
+            },
+            {
+                  "name": "Quinta da Caverneira",
+                  "text": "Kulturális helyszín és múzeum egy történelmi birtokon Ermesinde városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.576915,
+                        41.202003
+                  ]
+            },
+            {
+                  "name": "Baloicos do Parque Aventura da Lipor",
+                  "text": "Látványos hinták az Ermesinde-i Lipor Kalandparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.54631,
+                        41.199498
+                  ]
+            },
+            {
+                  "name": "Palacete do Mesquita",
+                  "text": "Történelmi udvarház és helyi építészeti nevezetesség Ermesinde városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554593,
+                        41.219837
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Rita",
+                  "text": "Ismert katolikus templom és zarándokhely Ermesinde városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.541788,
+                        41.206045
                   ]
             }
       ],
@@ -18253,6 +19387,51 @@ export const portugalCitiesV2: POI[] = [
                         -8.563787,
                         41.204028
                   ]
+            },
+            {
+                  "name": "Oficina do Brinquedo Tradicional Portugues",
+                  "text": "Un muzeu din Ermesinde axat pe jucăriile tradiționale portugheze.",
+                  "category": "museum",
+                  "coords": [
+                        -8.528108,
+                        41.223954
+                  ]
+            },
+            {
+                  "name": "Quinta da Caverneira",
+                  "text": "Un spațiu cultural și muzeu găzduit într-o moșie istorică din Ermesinde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.576915,
+                        41.202003
+                  ]
+            },
+            {
+                  "name": "Baloicos do Parque Aventura da Lipor",
+                  "text": "Leagăne pitorești situate în parcul de aventură Lipor din Ermesinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.54631,
+                        41.199498
+                  ]
+            },
+            {
+                  "name": "Palacete do Mesquita",
+                  "text": "Un conac istoric și un reper arhitectural local în Ermesinde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554593,
+                        41.219837
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Rita",
+                  "text": "O cunoscută biserică catolică și loc de pelerinaj din Ermesinde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.541788,
+                        41.206045
+                  ]
             }
       ],
       "en": [
@@ -18326,6 +19505,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.563787,
                         41.204028
+                  ]
+            },
+            {
+                  "name": "Oficina do Brinquedo Tradicional Portugues",
+                  "text": "A museum in Ermesinde focused on traditional Portuguese toys.",
+                  "category": "museum",
+                  "coords": [
+                        -8.528108,
+                        41.223954
+                  ]
+            },
+            {
+                  "name": "Quinta da Caverneira",
+                  "text": "A cultural venue and museum housed in a historic estate in Ermesinde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.576915,
+                        41.202003
+                  ]
+            },
+            {
+                  "name": "Baloicos do Parque Aventura da Lipor",
+                  "text": "Scenic swings located within the Lipor Adventure Park in Ermesinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.54631,
+                        41.199498
+                  ]
+            },
+            {
+                  "name": "Palacete do Mesquita",
+                  "text": "A historic manor house and local architectural landmark in Ermesinde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554593,
+                        41.219837
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Rita",
+                  "text": "A well-known Catholic church and pilgrimage site in Ermesinde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.541788,
+                        41.206045
                   ]
             }
       ]
@@ -20193,6 +21417,60 @@ export const portugalCitiesV2: POI[] = [
                         -8.485381,
                         40.832443
                   ]
+            },
+            {
+                  "name": "Casa-Museu Regional de Oliveira de Azeméis",
+                  "text": "Ein Regionalmuseum in Oliveira de Azeméis, das die lokale Geschichte, Kultur und Traditionen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.47819,
+                        40.837273
+                  ]
+            },
+            {
+                  "name": "Castro de Ul",
+                  "text": "Eine antike archäologische Ausgrabungsstätte in Oliveira de Azeméis.",
+                  "category": "historical",
+                  "coords": [
+                        -8.497893,
+                        40.812892
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Caracas",
+                  "text": "Ein lokales Kulturzentrum und Theater in Oliveira de Azeméis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477276,
+                        40.836637
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Azevinheira",
+                  "text": "Ein Themenmuseum, das dem Mühlenerbe in Oliveira de Azeméis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.497934,
+                        40.81575
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte do Castro",
+                  "text": "Ein Teil des Mühlen-Themenparks, der das historische Handwerk in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.495495,
+                        40.811512
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte dos Dois Rios",
+                  "text": "Ein Museumskern in Oliveira de Azeméis, der sich auf die traditionelle Mühlentechnik konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498198,
+                        40.809879
+                  ]
             }
       ],
       "hu": [
@@ -20221,6 +21499,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.485381,
                         40.832443
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Regional de Oliveira de Azeméis",
+                  "text": "Regionális múzeum Oliveira de Azeméisben, amely a helyi történelmet, kultúrát és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.47819,
+                        40.837273
+                  ]
+            },
+            {
+                  "name": "Castro de Ul",
+                  "text": "Oliveira de Azeméis területén található ókori régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -8.497893,
+                        40.812892
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Caracas",
+                  "text": "Helyi kulturális helyszín és színház Oliveira de Azeméis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477276,
+                        40.836637
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Azevinheira",
+                  "text": "Oliveira de Azeméis malomörökségét bemutató tematikus múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.497934,
+                        40.81575
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte do Castro",
+                  "text": "A malomipari tematikus park része, amely a régió történelmi mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.495495,
+                        40.811512
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte dos Dois Rios",
+                  "text": "Oliveira de Azeméis-i múzeumi egység, amely a hagyományos malomtechnikára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498198,
+                        40.809879
                   ]
             }
       ],
@@ -20251,6 +21583,60 @@ export const portugalCitiesV2: POI[] = [
                         -8.485381,
                         40.832443
                   ]
+            },
+            {
+                  "name": "Casa-Museu Regional de Oliveira de Azeméis",
+                  "text": "Un muzeu regional din Oliveira de Azeméis, care prezintă istoria, cultura și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.47819,
+                        40.837273
+                  ]
+            },
+            {
+                  "name": "Castro de Ul",
+                  "text": "Un sit arheologic antic situat în Oliveira de Azeméis.",
+                  "category": "historical",
+                  "coords": [
+                        -8.497893,
+                        40.812892
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Caracas",
+                  "text": "Un centru cultural și teatru local în orașul Oliveira de Azeméis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477276,
+                        40.836637
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Azevinheira",
+                  "text": "Un muzeu tematic dedicat patrimoniului morăritului din Oliveira de Azeméis.",
+                  "category": "museum",
+                  "coords": [
+                        -8.497934,
+                        40.81575
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte do Castro",
+                  "text": "Parte a parcului tematic al morilor, care prezintă meșteșugurile istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.495495,
+                        40.811512
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte dos Dois Rios",
+                  "text": "Un nucleu muzeal în Oliveira de Azeméis, concentrat pe tehnologia tradițională a morăritului.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498198,
+                        40.809879
+                  ]
             }
       ],
       "en": [
@@ -20279,6 +21665,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.485381,
                         40.832443
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Regional de Oliveira de Azeméis",
+                  "text": "A regional museum in Oliveira de Azeméis showcasing local history, culture, and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -8.47819,
+                        40.837273
+                  ]
+            },
+            {
+                  "name": "Castro de Ul",
+                  "text": "An ancient archaeological site located in Oliveira de Azeméis.",
+                  "category": "historical",
+                  "coords": [
+                        -8.497893,
+                        40.812892
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Caracas",
+                  "text": "A local cultural venue and theatre in the city of Oliveira de Azeméis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477276,
+                        40.836637
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Azevinheira",
+                  "text": "A themed museum part of the local mill heritage in Oliveira de Azeméis.",
+                  "category": "museum",
+                  "coords": [
+                        -8.497934,
+                        40.81575
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte do Castro",
+                  "text": "Part of the mill theme park, showcasing historical crafts in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.495495,
+                        40.811512
+                  ]
+            },
+            {
+                  "name": "Parque Temático Molinológico - Núcleo da Ponte dos Dois Rios",
+                  "text": "A museum core in Oliveira de Azeméis, focused on traditional milling technology.",
+                  "category": "museum",
+                  "coords": [
+                        -8.498198,
+                        40.809879
                   ]
             }
       ]
@@ -20454,6 +21894,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.529851,
                         40.943079
                   ]
+            },
+            {
+                  "name": "Museu Municipal Convento dos Loios",
+                  "text": "Ein städtisches Museum in einem ehemaligen Kloster in Santa Maria da Feira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.541625,
+                        40.923691
+                  ]
+            },
+            {
+                  "name": "Quinta do Castelo",
+                  "text": "Ein Veranstaltungsort auf dem historischen Gelände des örtlichen Schlosses.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.541325,
+                        40.922085
+                  ]
             }
       ],
       "hu": [
@@ -20581,6 +22039,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.529851,
                         40.943079
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Convento dos Loios",
+                  "text": "Városi múzeum egy egykori kolostorban Santa Maria da Feira városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.541625,
+                        40.923691
+                  ]
+            },
+            {
+                  "name": "Quinta do Castelo",
+                  "text": "Kulturális helyszín a helyi vár történelmi birtokán.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.541325,
+                        40.922085
                   ]
             }
       ],
@@ -20710,6 +22186,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.529851,
                         40.943079
                   ]
+            },
+            {
+                  "name": "Museu Municipal Convento dos Loios",
+                  "text": "Un muzeu municipal găzduit într-o fostă mănăstire din Santa Maria da Feira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.541625,
+                        40.923691
+                  ]
+            },
+            {
+                  "name": "Quinta do Castelo",
+                  "text": "Un spațiu cultural situat în moșia istorică a castelului local.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.541325,
+                        40.922085
+                  ]
             }
       ],
       "en": [
@@ -20837,6 +22331,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.529851,
                         40.943079
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Convento dos Loios",
+                  "text": "A municipal museum housed in a former convent in Santa Maria da Feira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.541625,
+                        40.923691
+                  ]
+            },
+            {
+                  "name": "Quinta do Castelo",
+                  "text": "A cultural venue located within the historic estate of the local castle.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.541325,
+                        40.922085
                   ]
             }
       ]
@@ -22622,7 +24134,88 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-serta-cities-v2.webp",
   },
   {
-    id: "portugal-proenca-a-nova-cities-v2",
+    id: "portugal-proenca-a-nova-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Câmara Municipal de Proença-a-Nova",
+                  "text": "Das Rathaus von Proença-a-Nova dient als Hauptverwaltungsgebäude für die örtliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.92357,
+                        39.752918
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Proença-a-Nova",
+                  "text": "Ein historischer Schandpfahl in Proença-a-Nova, der die administrative Autonomie und lokale Justiz der Stadt symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.924748,
+                        39.750249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Câmara Municipal de Proença-a-Nova",
+                  "text": "Proença-a-Nova városháza a helyi önkormányzat központi közigazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.92357,
+                        39.752918
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Proença-a-Nova",
+                  "text": "Történelmi szégyenoszlop Proença-a-Novában, amely a város közigazgatási autonómiáját és a helyi igazságszolgáltatást jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.924748,
+                        39.750249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Câmara Municipal de Proença-a-Nova",
+                  "text": "Primăria din Proença-a-Nova servește drept clădire administrativă principală pentru municipalitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.92357,
+                        39.752918
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Proença-a-Nova",
+                  "text": "Un stâlp al infamiei istoric în Proença-a-Nova, simbolizând autonomia administrativă a orașului și justiția locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.924748,
+                        39.750249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Câmara Municipal de Proença-a-Nova",
+                  "text": "The town hall of Proença-a-Nova serves as the main administrative building for the local municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.92357,
+                        39.752918
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Proença-a-Nova",
+                  "text": "A historical pillory in Proença-a-Nova, symbolizing the town's administrative autonomy and local justice.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.924748,
+                        39.750249
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Proença-a-Nova", hu: "Proença-a-Nova", ro: "Proença-a-Nova", en: "Proença-a-Nova" },
@@ -22713,6 +24306,60 @@ export const portugalCitiesV2: POI[] = [
                         -7.502476,
                         40.133565
                   ]
+            },
+            {
+                  "name": "Palacio Tudela Castilho",
+                  "text": "Ein historischer Palast in Fundão, der die lokale Adelsarchitektur repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        -7.498948,
+                        40.137606
+                  ]
+            },
+            {
+                  "name": "Museu Arqueologico Municipal Jose Monteiro",
+                  "text": "Dieses Museum in Fundão zeigt archäologische Funde aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -7.500137,
+                        40.136356
+                  ]
+            },
+            {
+                  "name": "Casino Fundanense",
+                  "text": "Ein bedeutendes kulturelles Zentrum in einem historischen Gebäude in Fundão.",
+                  "category": "museum",
+                  "coords": [
+                        -7.499868,
+                        40.137623
+                  ]
+            },
+            {
+                  "name": "Pedra d'Hera",
+                  "text": "Ein Aussichtspunkt in Fundão, der einen weiten Blick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.504018,
+                        40.125545
+                  ]
+            },
+            {
+                  "name": "Edificio a Moagem",
+                  "text": "Ein zeitgenössisches Kulturzentrum, das in einer ehemaligen Mühle in Fundão untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.496782,
+                        40.14219
+                  ]
+            },
+            {
+                  "name": "Fonte da Rua da Fonte",
+                  "text": "Ein traditioneller Brunnen in Fundão, der Teil des lokalen Kulturerbes ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.516755,
+                        40.136711
+                  ]
             }
       ],
       "hu": [
@@ -22759,6 +24406,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.502476,
                         40.133565
+                  ]
+            },
+            {
+                  "name": "Palacio Tudela Castilho",
+                  "text": "Egy történelmi palota Fundão városában, amely a helyi nemesi építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        -7.498948,
+                        40.137606
+                  ]
+            },
+            {
+                  "name": "Museu Arqueologico Municipal Jose Monteiro",
+                  "text": "Ez a Fundão-i múzeum a régióból származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.500137,
+                        40.136356
+                  ]
+            },
+            {
+                  "name": "Casino Fundanense",
+                  "text": "Egy jelentős kulturális központ egy történelmi épületben Fundão városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.499868,
+                        40.137623
+                  ]
+            },
+            {
+                  "name": "Pedra d'Hera",
+                  "text": "Kilátóhely Fundãóban, ahonnan tágas kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -7.504018,
+                        40.125545
+                  ]
+            },
+            {
+                  "name": "Edificio a Moagem",
+                  "text": "Kortárs kulturális központ, amely egy egykori malomban kapott helyet Fundãóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.496782,
+                        40.14219
+                  ]
+            },
+            {
+                  "name": "Fonte da Rua da Fonte",
+                  "text": "Hagyományos kút Fundãóban, amely a helyi kulturális örökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.516755,
+                        40.136711
                   ]
             }
       ],
@@ -22807,6 +24508,60 @@ export const portugalCitiesV2: POI[] = [
                         -7.502476,
                         40.133565
                   ]
+            },
+            {
+                  "name": "Palacio Tudela Castilho",
+                  "text": "Un palat istoric din Fundão, care reprezintă arhitectura nobiliară locală.",
+                  "category": "castle",
+                  "coords": [
+                        -7.498948,
+                        40.137606
+                  ]
+            },
+            {
+                  "name": "Museu Arqueologico Municipal Jose Monteiro",
+                  "text": "Acest muzeu din Fundão expune descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -7.500137,
+                        40.136356
+                  ]
+            },
+            {
+                  "name": "Casino Fundanense",
+                  "text": "Un centru cultural important situat într-o clădire istorică din Fundão.",
+                  "category": "museum",
+                  "coords": [
+                        -7.499868,
+                        40.137623
+                  ]
+            },
+            {
+                  "name": "Pedra d'Hera",
+                  "text": "Un punct de belvedere în Fundão, care oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -7.504018,
+                        40.125545
+                  ]
+            },
+            {
+                  "name": "Edificio a Moagem",
+                  "text": "Un centru cultural contemporan găzduit într-o fostă moară din Fundão.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.496782,
+                        40.14219
+                  ]
+            },
+            {
+                  "name": "Fonte da Rua da Fonte",
+                  "text": "O fântână tradițională din Fundão, care face parte din patrimoniul cultural local.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.516755,
+                        40.136711
+                  ]
             }
       ],
       "en": [
@@ -22853,6 +24608,60 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.502476,
                         40.133565
+                  ]
+            },
+            {
+                  "name": "Palacio Tudela Castilho",
+                  "text": "A historic palace in Fundão representing local noble architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -7.498948,
+                        40.137606
+                  ]
+            },
+            {
+                  "name": "Museu Arqueologico Municipal Jose Monteiro",
+                  "text": "This museum in Fundão displays archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -7.500137,
+                        40.136356
+                  ]
+            },
+            {
+                  "name": "Casino Fundanense",
+                  "text": "A significant cultural center housed in a historic building in Fundão.",
+                  "category": "museum",
+                  "coords": [
+                        -7.499868,
+                        40.137623
+                  ]
+            },
+            {
+                  "name": "Pedra d'Hera",
+                  "text": "A viewpoint in Fundão offering expansive views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.504018,
+                        40.125545
+                  ]
+            },
+            {
+                  "name": "Edificio a Moagem",
+                  "text": "A contemporary cultural centre housed in a former mill in Fundão.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.496782,
+                        40.14219
+                  ]
+            },
+            {
+                  "name": "Fonte da Rua da Fonte",
+                  "text": "A traditional fountain in Fundão that is part of the local cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.516755,
+                        40.136711
                   ]
             }
       ]
@@ -22901,7 +24710,160 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-fundao-cities-v2.webp",
   },
   {
-    id: "portugal-idanha-a-nova-cities-v2",
+    id: "portugal-idanha-a-nova-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Idanha-a-Nova",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die einst die Grenze von Idanha-a-Nova verteidigte.",
+                  "category": "castle",
+                  "coords": [
+                        -7.236749,
+                        39.919979
+                  ]
+            },
+            {
+                  "name": "Anfiteatro ao Ar Livre",
+                  "text": "Ein moderner Freiluft-Veranstaltungsort in Idanha-a-Nova für Konzerte und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.244614,
+                        39.927429
+                  ]
+            },
+            {
+                  "name": "Solar dos Marqueses da Graciosa",
+                  "text": "Ein historisches Herrenhaus in Idanha-a-Nova, ein Beispiel für den lokalen architektonischen Adel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.237053,
+                        39.921542
+                  ]
+            },
+            {
+                  "name": "Antiga Praça de Touros",
+                  "text": "Die ehemalige Stierkampfarena von Idanha-a-Nova.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.244803,
+                        39.921727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Idanha-a-Nova",
+                  "text": "Középkori vár romjai, amely egykor Idanha-a-Nova határát védte.",
+                  "category": "castle",
+                  "coords": [
+                        -7.236749,
+                        39.919979
+                  ]
+            },
+            {
+                  "name": "Anfiteatro ao Ar Livre",
+                  "text": "Modern szabadtéri rendezvényhelyszín Idanha-a-Novában koncertek és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.244614,
+                        39.927429
+                  ]
+            },
+            {
+                  "name": "Solar dos Marqueses da Graciosa",
+                  "text": "Történelmi nemesi kúria Idanha-a-Novában, a helyi nemesi építészet példája.",
+                  "category": "historical",
+                  "coords": [
+                        -7.237053,
+                        39.921542
+                  ]
+            },
+            {
+                  "name": "Antiga Praça de Touros",
+                  "text": "Idanha-a-Nova egykori bikaviadal-arénája.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.244803,
+                        39.921727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Idanha-a-Nova",
+                  "text": "Ruinele unui castel medieval care odinioară apăra granița orașului Idanha-a-Nova.",
+                  "category": "castle",
+                  "coords": [
+                        -7.236749,
+                        39.919979
+                  ]
+            },
+            {
+                  "name": "Anfiteatro ao Ar Livre",
+                  "text": "Un loc modern în aer liber din Idanha-a-Nova pentru concerte și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.244614,
+                        39.927429
+                  ]
+            },
+            {
+                  "name": "Solar dos Marqueses da Graciosa",
+                  "text": "Un conac istoric din Idanha-a-Nova, un exemplu al arhitecturii nobiliare locale.",
+                  "category": "historical",
+                  "coords": [
+                        -7.237053,
+                        39.921542
+                  ]
+            },
+            {
+                  "name": "Antiga Praça de Touros",
+                  "text": "Fosta arenă de tauri din Idanha-a-Nova.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.244803,
+                        39.921727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Idanha-a-Nova",
+                  "text": "The ruins of a medieval castle that once defended the border of Idanha-a-Nova.",
+                  "category": "castle",
+                  "coords": [
+                        -7.236749,
+                        39.919979
+                  ]
+            },
+            {
+                  "name": "Anfiteatro ao Ar Livre",
+                  "text": "A modern open-air venue in Idanha-a-Nova for concerts and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.244614,
+                        39.927429
+                  ]
+            },
+            {
+                  "name": "Solar dos Marqueses da Graciosa",
+                  "text": "A historic manor house in Idanha-a-Nova, an example of local noble architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -7.237053,
+                        39.921542
+                  ]
+            },
+            {
+                  "name": "Antiga Praça de Touros",
+                  "text": "The former bullring of Idanha-a-Nova.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.244803,
+                        39.921727
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Idanha-a-Nova", hu: "Idanha-a-Nova", ro: "Idanha-a-Nova", en: "Idanha-a-Nova" },
@@ -23514,6 +25476,33 @@ export const portugalCitiesV2: POI[] = [
                         -7.061679,
                         40.317396
                   ]
+            },
+            {
+                  "name": "Castelo do Sabugal",
+                  "text": "Eine imposante mittelalterliche Burg in Sabugal, bekannt für ihren fünfeckigen Bergfried.",
+                  "category": "castle",
+                  "coords": [
+                        -7.094246,
+                        40.351387
+                  ]
+            },
+            {
+                  "name": "Museu do Sabugal",
+                  "text": "Ein Museum in Sabugal, das sich der regionalen Geschichte und Archäologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.092957,
+                        40.352426
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Sabugal",
+                  "text": "Ein Flussstrand am Côa, der Freizeitmöglichkeiten im Freien in Sabugal bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.092151,
+                        40.348277
+                  ]
             }
       ],
       "hu": [
@@ -23542,6 +25531,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.061679,
                         40.317396
+                  ]
+            },
+            {
+                  "name": "Castelo do Sabugal",
+                  "text": "Impozáns középkori vár Sabugalban, amely ötszögletű tornyáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -7.094246,
+                        40.351387
+                  ]
+            },
+            {
+                  "name": "Museu do Sabugal",
+                  "text": "Sabugali múzeum, amely a régió történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.092957,
+                        40.352426
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Sabugal",
+                  "text": "Folyóparti strand a Côa-folyónál, amely kikapcsolódási lehetőséget kínál Sabugalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.092151,
+                        40.348277
                   ]
             }
       ],
@@ -23572,6 +25588,33 @@ export const portugalCitiesV2: POI[] = [
                         -7.061679,
                         40.317396
                   ]
+            },
+            {
+                  "name": "Castelo do Sabugal",
+                  "text": "Un castel medieval impunător în Sabugal, cunoscut pentru turnul său pentagonal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.094246,
+                        40.351387
+                  ]
+            },
+            {
+                  "name": "Museu do Sabugal",
+                  "text": "Un muzeu din Sabugal dedicat istoriei și arheologiei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        -7.092957,
+                        40.352426
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Sabugal",
+                  "text": "O plajă fluvială pe râul Côa, oferind facilități de recreere în Sabugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.092151,
+                        40.348277
+                  ]
             }
       ],
       "en": [
@@ -23600,6 +25643,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.061679,
                         40.317396
+                  ]
+            },
+            {
+                  "name": "Castelo do Sabugal",
+                  "text": "An imposing medieval castle in Sabugal, notable for its unique pentagonal keep.",
+                  "category": "castle",
+                  "coords": [
+                        -7.094246,
+                        40.351387
+                  ]
+            },
+            {
+                  "name": "Museu do Sabugal",
+                  "text": "A museum in Sabugal dedicated to the local history and archaeology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -7.092957,
+                        40.352426
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Sabugal",
+                  "text": "A river beach on the Côa River providing outdoor recreational facilities in Sabugal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.092151,
+                        40.348277
                   ]
             }
       ]
@@ -25691,7 +27761,196 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-alfandega-cities-v2.webp",
   },
   {
-    id: "portugal-vila-flor-cities-v2",
+    id: "portugal-vila-flor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Municipal Doutora Berta Cabral",
+                  "text": "Dieses Stadtmuseum in Vila Flor präsentiert Ausstellungen zur lokalen Geschichte, Archäologie und Volkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        -7.152829,
+                        41.307248
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Centro Cultural",
+                  "text": "Ein Teil des Kulturzentrums von Vila Flor, der als Veranstaltungsort für Aufführungen im Freien oder kulturelle Events dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.154546,
+                        41.308061
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora da Lapa",
+                  "text": "Ein Aussichtspunkt in Vila Flor, der einen weiten Blick über die Landschaft und die Kapelle Senhora da Lapa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.150283,
+                        41.312828
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor I",
+                  "text": "Eine dekorative Panoramaschaukel in Vila Flor, die Besuchern einen spielerischen Blick auf die Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.155997,
+                        41.308661
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor II",
+                  "text": "Diese Aussichtsschaukel ist eine weitere Attraktion in Vila Flor, die Tourismus und Landschaftserlebnis verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.152606,
+                        41.302959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Municipal Doutora Berta Cabral",
+                  "text": "Ez a Vila Flor-i városi múzeum a helyi történelemhez, régészethez és népművészethez kapcsolódó kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.152829,
+                        41.307248
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Centro Cultural",
+                  "text": "A Vila Flor-i kulturális központ része, amely szabadtéri előadások és kulturális események helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.154546,
+                        41.308061
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora da Lapa",
+                  "text": "Kilátóhely Vila Florban, ahonnan pazar kilátás nyílik a tájra és a Senhora da Lapa kápolnára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.150283,
+                        41.312828
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor I",
+                  "text": "Egy dekoratív panorámás hinta Vila Florban, amely játékos kilátást kínál a látogatóknak a természetre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.155997,
+                        41.308661
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor II",
+                  "text": "Ez a kilátóhinta egy újabb attrakció Vila Florban, amely a turizmust és a tájélményt ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.152606,
+                        41.302959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Municipal Doutora Berta Cabral",
+                  "text": "Acest muzeu municipal din Vila Flor prezintă expoziții legate de istoria locală, arheologie și artă populară.",
+                  "category": "museum",
+                  "coords": [
+                        -7.152829,
+                        41.307248
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Centro Cultural",
+                  "text": "O parte a centrului cultural din Vila Flor, care servește drept loc pentru spectacole în aer liber sau evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.154546,
+                        41.308061
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora da Lapa",
+                  "text": "Un punct de observație în Vila Flor care oferă o vedere panoramică asupra peisajului și a capelei Senhora da Lapa.",
+                  "category": "natural",
+                  "coords": [
+                        -7.150283,
+                        41.312828
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor I",
+                  "text": "Un leagăn panoramic decorativ în Vila Flor, care oferă vizitatorilor o vedere inedită asupra naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.155997,
+                        41.308661
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor II",
+                  "text": "Acest leagăn panoramic este o altă atracție în Vila Flor, care îmbină turismul cu experiența peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.152606,
+                        41.302959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Municipal Doutora Berta Cabral",
+                  "text": "This municipal museum in Vila Flor features exhibits on local history, archaeology, and folk art.",
+                  "category": "museum",
+                  "coords": [
+                        -7.152829,
+                        41.307248
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Centro Cultural",
+                  "text": "Part of the Vila Flor Cultural Centre, serving as a venue for outdoor performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.154546,
+                        41.308061
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora da Lapa",
+                  "text": "A viewpoint in Vila Flor offering expansive views of the landscape and the Senhora da Lapa chapel.",
+                  "category": "natural",
+                  "coords": [
+                        -7.150283,
+                        41.312828
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor I",
+                  "text": "A decorative panoramic swing in Vila Flor that offers visitors a playful way to view the natural scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.155997,
+                        41.308661
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vila Flor II",
+                  "text": "This scenic swing is another attraction in Vila Flor, combining tourism with landscape appreciation.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.152606,
+                        41.302959
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Vila Flor", hu: "Vila Flor", ro: "Vila Flor", en: "Vila Flor" },
@@ -26556,6 +28815,51 @@ export const portugalCitiesV2: POI[] = [
                         -6.958577,
                         41.537802
                   ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia Coronel Albino Pereira Lopo",
+                  "text": "Ein archäologisches Museum in Macedo de Cavaleiros mit lokalen Funden.",
+                  "category": "museum",
+                  "coords": [
+                        -6.956601,
+                        41.536148
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Martim Gonçalves de Macedo",
+                  "text": "Ein Stadtmuseum in Macedo de Cavaleiros, das der lokalen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.96377,
+                        41.539625
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Ein Museum für religiöse Kunst in Macedo de Cavaleiros.",
+                  "category": "museum",
+                  "coords": [
+                        -6.961197,
+                        41.5385
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Macedo de Cavaleiros",
+                  "text": "Das Gebäude der lokalen Gemeindeverwaltung von Macedo de Cavaleiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.965135,
+                        41.538863
+                  ]
+            },
+            {
+                  "name": "Pelourinho",
+                  "text": "Ein historischer Pranger als Symbol der städtischen Gerichtsbarkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.938539,
+                        41.551227
+                  ]
             }
       ],
       "hu": [
@@ -26584,6 +28888,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -6.958577,
                         41.537802
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia Coronel Albino Pereira Lopo",
+                  "text": "Régészeti múzeum Macedo de Cavaleirosban, helyi leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -6.956601,
+                        41.536148
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Martim Gonçalves de Macedo",
+                  "text": "Helytörténeti múzeum Macedo de Cavaleiros városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.96377,
+                        41.539625
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Egyházművészeti múzeum Macedo de Cavaleirosban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.961197,
+                        41.5385
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Macedo de Cavaleiros",
+                  "text": "Macedo de Cavaleiros helyi önkormányzati hivatala.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.965135,
+                        41.538863
+                  ]
+            },
+            {
+                  "name": "Pelourinho",
+                  "text": "Történelmi szégyenoszlop, a városi igazságszolgáltatás egykori szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.938539,
+                        41.551227
                   ]
             }
       ],
@@ -26614,6 +28963,51 @@ export const portugalCitiesV2: POI[] = [
                         -6.958577,
                         41.537802
                   ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia Coronel Albino Pereira Lopo",
+                  "text": "Un muzeu arheologic în Macedo de Cavaleiros, cu descoperiri locale.",
+                  "category": "museum",
+                  "coords": [
+                        -6.956601,
+                        41.536148
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Martim Gonçalves de Macedo",
+                  "text": "Un muzeu municipal în Macedo de Cavaleiros dedicat istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        -6.96377,
+                        41.539625
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Un muzeu de artă sacră în Macedo de Cavaleiros.",
+                  "category": "museum",
+                  "coords": [
+                        -6.961197,
+                        41.5385
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Macedo de Cavaleiros",
+                  "text": "Clădirea consiliului local din Macedo de Cavaleiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.965135,
+                        41.538863
+                  ]
+            },
+            {
+                  "name": "Pelourinho",
+                  "text": "Un stâlp al infamiei istoric, simbol al jurisdicției municipale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.938539,
+                        41.551227
+                  ]
             }
       ],
       "en": [
@@ -26642,6 +29036,51 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -6.958577,
                         41.537802
+                  ]
+            },
+            {
+                  "name": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                  "text": "An archaeological museum in Macedo de Cavaleiros featuring local finds.",
+                  "category": "museum",
+                  "coords": [
+                        -6.956601,
+                        41.536148
+                  ]
+            },
+            {
+                  "name": "Municipal Museu Martim Gonçalves de Macedo",
+                  "text": "A municipal museum in Macedo de Cavaleiros dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        -6.96377,
+                        41.539625
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "A museum of sacred art in Macedo de Cavaleiros.",
+                  "category": "museum",
+                  "coords": [
+                        -6.961197,
+                        41.5385
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Macedo de Cavaleiros",
+                  "text": "The local parish council building of Macedo de Cavaleiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.965135,
+                        41.538863
+                  ]
+            },
+            {
+                  "name": "Pelourinho",
+                  "text": "A historical pillory serving as a symbol of municipal jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.938539,
+                        41.551227
                   ]
             }
       ]
@@ -27510,6 +29949,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.581724,
                         40.366983
                   ]
+            },
+            {
+                  "name": "Camara Municipal de Cantanhede",
+                  "text": "Das Rathaus von Cantanhede ist der Sitz der lokalen Stadtverwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.593734,
+                        40.345916
+                  ]
             }
       ],
       "hu": [
@@ -27565,6 +30013,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.581724,
                         40.366983
+                  ]
+            },
+            {
+                  "name": "Camara Municipal de Cantanhede",
+                  "text": "Cantanhede városháza a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.593734,
+                        40.345916
                   ]
             }
       ],
@@ -27622,6 +30079,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.581724,
                         40.366983
                   ]
+            },
+            {
+                  "name": "Camara Municipal de Cantanhede",
+                  "text": "Primăria din Cantanhede este sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.593734,
+                        40.345916
+                  ]
             }
       ],
       "en": [
@@ -27678,6 +30144,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.581724,
                         40.366983
                   ]
+            },
+            {
+                  "name": "Camara Municipal de Cantanhede",
+                  "text": "The town hall of Cantanhede is the seat of the local municipal government.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.593734,
+                        40.345916
+                  ]
             }
       ]
 },
@@ -27725,7 +30200,124 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-cantanhede-cities-v2.webp",
   },
   {
-    id: "portugal-soure-cities-v2",
+    id: "portugal-soure-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Soure",
+                  "text": "Eine historische Burg aus dem 12. Jahrhundert in Soure, die ursprünglich vom Templerorden erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -8.626335,
+                        40.056876
+                  ]
+            },
+            {
+                  "name": "Praia fluvial dos Novos",
+                  "text": "Ein ruhiger Flussstrand in der Gegend von Soure, ideal zum Schwimmen und für Entspannung in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.609813,
+                        40.054991
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque de Merendas de Soure",
+                  "text": "Eine malerische Holzschaukel in einem Picknickpark, bekannt für ihre Panorama-Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626598,
+                        40.05563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Soure",
+                  "text": "Történelmi 12. századi vár Soure-ban, amelyet eredetileg a templomos lovagok építettek.",
+                  "category": "castle",
+                  "coords": [
+                        -8.626335,
+                        40.056876
+                  ]
+            },
+            {
+                  "name": "Praia fluvial dos Novos",
+                  "text": "Nyugodt folyóparti strand Soure környékén, amely ideális úszásra és természetközeli pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.609813,
+                        40.054991
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque de Merendas de Soure",
+                  "text": "Festői fából készült hinta egy piknikparkban, amely panorámás kilátása miatt népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626598,
+                        40.05563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Soure",
+                  "text": "Un castel istoric din secolul al XII-lea în Soure, construit inițial de Cavalerii Templieri.",
+                  "category": "castle",
+                  "coords": [
+                        -8.626335,
+                        40.056876
+                  ]
+            },
+            {
+                  "name": "Praia fluvial dos Novos",
+                  "text": "O plajă fluvială liniștită în zona Soure, ideală pentru înot și relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.609813,
+                        40.054991
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque de Merendas de Soure",
+                  "text": "Un leagăn de lemn pitoresc situat într-un parc de picnic, popular pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626598,
+                        40.05563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Soure",
+                  "text": "A historic 12th-century castle in Soure, originally built by the Knights Templar.",
+                  "category": "castle",
+                  "coords": [
+                        -8.626335,
+                        40.056876
+                  ]
+            },
+            {
+                  "name": "Praia fluvial dos Novos",
+                  "text": "A tranquil river beach in the Soure area, ideal for swimming and nature relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.609813,
+                        40.054991
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque de Merendas de Soure",
+                  "text": "A scenic wooden swing located in a picnic park, popular for its panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626598,
+                        40.05563
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Soure", hu: "Soure", ro: "Soure", en: "Soure" },
@@ -27780,6 +30372,78 @@ export const portugalCitiesV2: POI[] = [
                         -7.42241,
                         37.173589
                   ]
+            },
+            {
+                  "name": "Farol de Vila Real de Santo António",
+                  "text": "Ein 1923 erbauter Leuchtturm in Vila Real de Santo António.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.416313,
+                        37.186768
+                  ]
+            },
+            {
+                  "name": "Teatro Cine Cardenio",
+                  "text": "Ein historisches Theater- und Kinogebäude in der Grenzregion Vila Real de Santo António.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.408194,
+                        37.211957
+                  ]
+            },
+            {
+                  "name": "Palacio del Marqués de Ayamonte",
+                  "text": "Ein ehemaliger Adelspalast in der Region Vila Real de Santo António.",
+                  "category": "castle",
+                  "coords": [
+                        -7.407245,
+                        37.217742
+                  ]
+            },
+            {
+                  "name": "Reserva Natural do Sapal de Castro Marim e Vila Real de Santo António",
+                  "text": "Ein geschütztes Feuchtgebiet am Ufer des Flusses Guadiana.",
+                  "category": "natural",
+                  "coords": [
+                        -7.444782,
+                        37.208927
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "Eine historische Festung aus dem 17. Jahrhundert in Castro Marim.",
+                  "category": "castle",
+                  "coords": [
+                        -7.443117,
+                        37.216147
+                  ]
+            },
+            {
+                  "name": "Ecomuseo Molino Mareal El Pintado",
+                  "text": "Ein Museum in einer historischen Gezeitenmühle am Fluss Guadiana.",
+                  "category": "museum",
+                  "coords": [
+                        -7.390365,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "Arquivo Municipal",
+                  "text": "Das Stadtarchiv und Museum von Vila Real de Santo António.",
+                  "category": "museum",
+                  "coords": [
+                        -7.414021,
+                        37.193034
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Revelim de Santo António",
+                  "text": "Ein modernes Freilufttheater im Revelim de Santo António Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.440024,
+                        37.216414
+                  ]
             }
       ],
       "hu": [
@@ -27790,6 +30454,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.42241,
                         37.173589
+                  ]
+            },
+            {
+                  "name": "Farol de Vila Real de Santo António",
+                  "text": "1923-ban épült világítótorony Vila Real de Santo António városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.416313,
+                        37.186768
+                  ]
+            },
+            {
+                  "name": "Teatro Cine Cardenio",
+                  "text": "Történelmi színház- és moziépület Vila Real de Santo António határvidékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.408194,
+                        37.211957
+                  ]
+            },
+            {
+                  "name": "Palacio del Marqués de Ayamonte",
+                  "text": "Egykori nemesi palota Vila Real de Santo António régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.407245,
+                        37.217742
+                  ]
+            },
+            {
+                  "name": "Reserva Natural do Sapal de Castro Marim e Vila Real de Santo António",
+                  "text": "Védett mocsaras terület a Guadiana-folyó partján.",
+                  "category": "natural",
+                  "coords": [
+                        -7.444782,
+                        37.208927
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "17. századi történelmi erődítmény Castro Marimban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.443117,
+                        37.216147
+                  ]
+            },
+            {
+                  "name": "Ecomuseo Molino Mareal El Pintado",
+                  "text": "Múzeum egy történelmi árapálymalomban a Guadiana-folyónál.",
+                  "category": "museum",
+                  "coords": [
+                        -7.390365,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "Arquivo Municipal",
+                  "text": "Vila Real de Santo António városi archívuma és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -7.414021,
+                        37.193034
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Revelim de Santo António",
+                  "text": "Modern szabadtéri színház a Revelim de Santo António parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.440024,
+                        37.216414
                   ]
             }
       ],
@@ -27802,6 +30538,78 @@ export const portugalCitiesV2: POI[] = [
                         -7.42241,
                         37.173589
                   ]
+            },
+            {
+                  "name": "Farol de Vila Real de Santo António",
+                  "text": "Un far construit în 1923 în Vila Real de Santo António.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.416313,
+                        37.186768
+                  ]
+            },
+            {
+                  "name": "Teatro Cine Cardenio",
+                  "text": "O clădire istorică de teatru și cinema din regiunea Vila Real de Santo António.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.408194,
+                        37.211957
+                  ]
+            },
+            {
+                  "name": "Palacio del Marqués de Ayamonte",
+                  "text": "Un fost palat nobiliar situat în regiunea Vila Real de Santo António.",
+                  "category": "castle",
+                  "coords": [
+                        -7.407245,
+                        37.217742
+                  ]
+            },
+            {
+                  "name": "Reserva Natural do Sapal de Castro Marim e Vila Real de Santo António",
+                  "text": "O rezervație naturală de mlaștină pe malul râului Guadiana.",
+                  "category": "natural",
+                  "coords": [
+                        -7.444782,
+                        37.208927
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "O fortăreață istorică din secolul al XVII-lea situată în Castro Marim.",
+                  "category": "castle",
+                  "coords": [
+                        -7.443117,
+                        37.216147
+                  ]
+            },
+            {
+                  "name": "Ecomuseo Molino Mareal El Pintado",
+                  "text": "Un muzeu situat într-o moară istorică de maree de pe râul Guadiana.",
+                  "category": "museum",
+                  "coords": [
+                        -7.390365,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "Arquivo Municipal",
+                  "text": "Arhiva municipală și muzeul din Vila Real de Santo António.",
+                  "category": "museum",
+                  "coords": [
+                        -7.414021,
+                        37.193034
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Revelim de Santo António",
+                  "text": "Un amfiteatru modern în aer liber situat în parcul Revelim de Santo António.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.440024,
+                        37.216414
+                  ]
             }
       ],
       "en": [
@@ -27812,6 +30620,78 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.42241,
                         37.173589
+                  ]
+            },
+            {
+                  "name": "Farol de Vila Real de Santo António",
+                  "text": "A lighthouse built in 1923 in Vila Real de Santo António.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.416313,
+                        37.186768
+                  ]
+            },
+            {
+                  "name": "Teatro Cine Cardenio",
+                  "text": "A historic theatre and cinema building in the Vila Real de Santo António area.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.408194,
+                        37.211957
+                  ]
+            },
+            {
+                  "name": "Palacio del Marqués de Ayamonte",
+                  "text": "A former noble palace located in the Vila Real de Santo António region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.407245,
+                        37.217742
+                  ]
+            },
+            {
+                  "name": "Castro Marim and Vila Real de Santo António Marsh Natural Reserve",
+                  "text": "A protected marshland nature reserve on the banks of the Guadiana River.",
+                  "category": "natural",
+                  "coords": [
+                        -7.444782,
+                        37.208927
+                  ]
+            },
+            {
+                  "name": "Saint Sebastian Fortress",
+                  "text": "A historic 17th-century fortress located in Castro Marim.",
+                  "category": "castle",
+                  "coords": [
+                        -7.443117,
+                        37.216147
+                  ]
+            },
+            {
+                  "name": "Ecomuseo Molino Mareal El Pintado",
+                  "text": "A museum housed in a historic tide mill on the Guadiana River.",
+                  "category": "museum",
+                  "coords": [
+                        -7.390365,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "Arquivo Municipal",
+                  "text": "The municipal archives and museum of Vila Real de Santo António.",
+                  "category": "museum",
+                  "coords": [
+                        -7.414021,
+                        37.193034
+                  ]
+            },
+            {
+                  "name": "Anfiteatro do Revelim de Santo António",
+                  "text": "A modern open-air theatre located in the Revelim de Santo António park.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.440024,
+                        37.216414
                   ]
             }
       ]
@@ -28068,6 +30948,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.795883,
                         37.018107
                   ]
+            },
+            {
+                  "name": "Ria Formosa Nature Park",
+                  "text": "Ein weitläufiges Küstengebiet mit Lagunen und Inseln, das für seine Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.835971,
+                        37.041666
+                  ]
             }
       ],
       "hu": [
@@ -28276,6 +31165,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.795883,
                         37.018107
+                  ]
+            },
+            {
+                  "name": "Ria Formosa Nature Park",
+                  "text": "Lagúnákból és szigetekből álló kiterjedt partmenti terület, amely gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.835971,
+                        37.041666
                   ]
             }
       ],
@@ -28486,6 +31384,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.795883,
                         37.018107
                   ]
+            },
+            {
+                  "name": "Ria Formosa Nature Park",
+                  "text": "O zonă costieră vastă cu lagune și insule, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -7.835971,
+                        37.041666
+                  ]
             }
       ],
       "en": [
@@ -28694,6 +31601,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.795883,
                         37.018107
+                  ]
+            },
+            {
+                  "name": "Ria Formosa Nature Park",
+                  "text": "A vast coastal wetland system of lagoons and islands known for its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -7.835971,
+                        37.041666
                   ]
             }
       ]

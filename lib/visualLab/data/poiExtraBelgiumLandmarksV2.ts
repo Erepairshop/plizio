@@ -377,7 +377,304 @@ imageHint: "Atomium monument in Brussels daytime",
     },
   },
   {
-    id: "belgium-lions-mound-landmarks-v2",
+    id: "belgium-lions-mound-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferme du Caillou",
+                  "text": "Dieses Museum war Napoleons letztes Hauptquartier während der Schlacht von Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.420746,
+                        50.646074
+                  ]
+            },
+            {
+                  "name": "Château de la Rose",
+                  "text": "Ein historisches Schloss in der Nähe des Löwenhügels.",
+                  "category": "castle",
+                  "coords": [
+                        4.379453,
+                        50.707018
+                  ]
+            },
+            {
+                  "name": "Mémorial de Waterloo 1815",
+                  "text": "Ein modernes Museum, das an die berühmte Schlacht von Waterloo im Jahr 1815 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        4.404239,
+                        50.679801
+                  ]
+            },
+            {
+                  "name": "Château Diesbeck",
+                  "text": "Ein lokales Schloss in der Nähe der historischen Stätte des Löwenhügels.",
+                  "category": "castle",
+                  "coords": [
+                        4.377967,
+                        50.676602
+                  ]
+            },
+            {
+                  "name": "Château du Cheneau",
+                  "text": "Ein elegantes Schlossgebäude in der Umgebung des Löwenhügels.",
+                  "category": "castle",
+                  "coords": [
+                        4.380742,
+                        50.67585
+                  ]
+            },
+            {
+                  "name": "Château de Castegier",
+                  "text": "Ein charakteristisches historisches Schloss in Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.370751,
+                        50.685195
+                  ]
+            },
+            {
+                  "name": "Château Saint-Laurent",
+                  "text": "Ein Schlossbauwerk mit historischer Bedeutung in der Region des Löwenhügels.",
+                  "category": "castle",
+                  "coords": [
+                        4.372601,
+                        50.679249
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Dieses Museum beherbergt ein beeindruckendes Panoramagemälde der Schlacht von Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.405166,
+                        50.67931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferme du Caillou",
+                  "text": "Ez a múzeum Napóleon utolsó főhadiszállása volt a waterlooi csata idején.",
+                  "category": "museum",
+                  "coords": [
+                        4.420746,
+                        50.646074
+                  ]
+            },
+            {
+                  "name": "Château de la Rose",
+                  "text": "Történelmi kastély az Oroszlános domb közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.379453,
+                        50.707018
+                  ]
+            },
+            {
+                  "name": "Mémorial de Waterloo 1815",
+                  "text": "Modern múzeum, amely az 1815-ös híres waterlooi csatának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        4.404239,
+                        50.679801
+                  ]
+            },
+            {
+                  "name": "Château Diesbeck",
+                  "text": "Helyi kastély az Oroszlános domb történelmi helyszíne közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.377967,
+                        50.676602
+                  ]
+            },
+            {
+                  "name": "Château du Cheneau",
+                  "text": "Elegáns kastélyépület az Oroszlános domb környékén.",
+                  "category": "castle",
+                  "coords": [
+                        4.380742,
+                        50.67585
+                  ]
+            },
+            {
+                  "name": "Château de Castegier",
+                  "text": "Jellegzetes történelmi kastély az Oroszlános dombnál.",
+                  "category": "castle",
+                  "coords": [
+                        4.370751,
+                        50.685195
+                  ]
+            },
+            {
+                  "name": "Château Saint-Laurent",
+                  "text": "Történelmi jelentőségű kastélyépület az Oroszlános domb régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        4.372601,
+                        50.679249
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Ez a múzeum a waterlooi csatát ábrázoló lenyűgöző körfestménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        4.405166,
+                        50.67931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferme du Caillou",
+                  "text": "Acest muzeu a fost ultimul cartier general al lui Napoleon în timpul bătăliei de la Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.420746,
+                        50.646074
+                  ]
+            },
+            {
+                  "name": "Château de la Rose",
+                  "text": "Un castel istoric situat în apropiere de Movila Leului.",
+                  "category": "castle",
+                  "coords": [
+                        4.379453,
+                        50.707018
+                  ]
+            },
+            {
+                  "name": "Mémorial de Waterloo 1815",
+                  "text": "Un muzeu modern care comemorează celebra bătălie de la Waterloo din 1815.",
+                  "category": "museum",
+                  "coords": [
+                        4.404239,
+                        50.679801
+                  ]
+            },
+            {
+                  "name": "Château Diesbeck",
+                  "text": "Un castel local situat în apropierea sitului istoric de la Movila Leului.",
+                  "category": "castle",
+                  "coords": [
+                        4.377967,
+                        50.676602
+                  ]
+            },
+            {
+                  "name": "Château du Cheneau",
+                  "text": "O clădire elegantă de castel în vecinătatea Movilei Leului.",
+                  "category": "castle",
+                  "coords": [
+                        4.380742,
+                        50.67585
+                  ]
+            },
+            {
+                  "name": "Château de Castegier",
+                  "text": "Un castel istoric caracteristic în Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.370751,
+                        50.685195
+                  ]
+            },
+            {
+                  "name": "Château Saint-Laurent",
+                  "text": "O structură de castel cu semnificație istorică în regiunea Movilei Leului.",
+                  "category": "castle",
+                  "coords": [
+                        4.372601,
+                        50.679249
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Acest muzeu găzduiește o pictură panoramică impresionantă a bătăliei de la Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.405166,
+                        50.67931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferme du Caillou",
+                  "text": "This museum was Napoleon's last headquarters during the Battle of Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.420746,
+                        50.646074
+                  ]
+            },
+            {
+                  "name": "Château de la Rose",
+                  "text": "A historic castle located near the Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.379453,
+                        50.707018
+                  ]
+            },
+            {
+                  "name": "Mémorial de Waterloo 1815",
+                  "text": "A modern museum commemorating the famous Battle of Waterloo in 1815.",
+                  "category": "museum",
+                  "coords": [
+                        4.404239,
+                        50.679801
+                  ]
+            },
+            {
+                  "name": "Château Diesbeck",
+                  "text": "A local castle situated near the historic site of the Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.377967,
+                        50.676602
+                  ]
+            },
+            {
+                  "name": "Château du Cheneau",
+                  "text": "An elegant castle building in the vicinity of the Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.380742,
+                        50.67585
+                  ]
+            },
+            {
+                  "name": "Château de Castegier",
+                  "text": "A characteristic historic castle in Lion's Mound.",
+                  "category": "castle",
+                  "coords": [
+                        4.370751,
+                        50.685195
+                  ]
+            },
+            {
+                  "name": "Château Saint-Laurent",
+                  "text": "A castle structure with historical significance in the Lion's Mound region.",
+                  "category": "castle",
+                  "coords": [
+                        4.372601,
+                        50.679249
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "This museum houses an impressive panoramic painting of the Battle of Waterloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.405166,
+                        50.67931
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "monument",
     name: { de: "Löwenhügel", hu: "Oroszlános domb", ro: "Tumulul Leului", en: "Lion's Mound"},
@@ -846,7 +1143,124 @@ imageHint: "Lion's Mound Waterloo monument",
     },
   },
   {
-    id: "belgium-orval-abbey-landmarks-v2",
+    id: "belgium-orval-abbey-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruinen des berühmten Zisterzienserklosters, das im 12. Jahrhundert gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Historisches Schlossgebäude auf dem Gelände der Abtei Orval.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Sankt Martin gewidmetes religiöses Gebäude in der Gegend von Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "A 12. században alapított híres ciszterci kolostor romjai.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Történelmi kastélyépület az Orval-apátság területén.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Mártonnak szentelt vallási épület Orval környékén.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruinele faimoasei mănăstiri cisterciene fondate în secolul al XII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Structură istorică de castel situată pe domeniul abației Orval.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Clădire religioasă dedicată Sfântului Martin în zona Orval.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines de l'abbaye cistercienne",
+                  "text": "Ruins of the famous Cistercian monastery founded in the 12th century.",
+                  "category": "historical",
+                  "coords": [
+                        5.348624,
+                        49.640294
+                  ]
+            },
+            {
+                  "name": "Château de l'Abbaye",
+                  "text": "Historic castle structure located within the Orval Abbey grounds.",
+                  "category": "castle",
+                  "coords": [
+                        5.34765,
+                        49.634288
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Religious building dedicated to Saint Martin in the Orval area.",
+                  "category": "religious",
+                  "coords": [
+                        5.350624,
+                        49.614668
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Abtei Orval", hu: "Orvali apátság", ro: "Abația Orval", en: "Orval Abbey"},

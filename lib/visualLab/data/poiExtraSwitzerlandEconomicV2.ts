@@ -3819,7 +3819,304 @@ export const switzerlandEconomicV2: POI[] = [
     image: "/poi-images/switzerland-gold-refinery-ticino-economic-v2.webp",
   },
   {
-    id: "switzerland-hydro-plant-grande-dixence-economic-v2",
+    id: "switzerland-hydro-plant-grande-dixence-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Informationspavillon Grande Dixence",
+                  "text": "Ein Informationszentrum über die Staumauer und das Kraftwerk Grande Dixence.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Ein Berggipfel in den Schweizer Alpen nahe der Grande-Dixence-Anlage.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe de Vouasson",
+                  "text": "Ein hoher Berggipfel in den Walliser Alpen oberhalb von Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.425433,
+                        46.071501
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Ein prominenter Berggipfel mit Blick auf das Grande-Dixence-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Pic d'Artsinol",
+                  "text": "Ein markanter Gipfel in den Schweizer Alpen nahe der Grande-Dixence-Talsperre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.427004,
+                        46.115211
+                  ]
+            },
+            {
+                  "name": "Pointe d'Allèves",
+                  "text": "Ein Berggipfel in der Nähe des Wasserkraftkomplexes Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.378031,
+                        46.084188
+                  ]
+            },
+            {
+                  "name": "Mont Rouge",
+                  "text": "Ein Gipfel in den Walliser Alpen im Einzugsgebiet der Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.426113,
+                        46.117288
+                  ]
+            },
+            {
+                  "name": "Kapelle des Heiligen Jean-Baptiste",
+                  "text": "Eine kleine Kapelle, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.403121,
+                        46.083117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "Információs központ a Grande Dixence gátról és erőműről.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Hegycúcs a Svájci-Alpokban, a Grande Dixence létesítmény közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe de Vouasson",
+                  "text": "Magas hegycsúcs a Wallisi-Alpokban, Grande Dixence felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.425433,
+                        46.071501
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Kiemelkedő hegycsúcs, amely a Grande Dixence területére néz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Pic d'Artsinol",
+                  "text": "Jellegzetes csúcs a Svájci-Alpokban, a Grande Dixence gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.427004,
+                        46.115211
+                  ]
+            },
+            {
+                  "name": "Pointe d'Allèves",
+                  "text": "Hegycúcs a Grande Dixence vízerőmű-komplexum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.378031,
+                        46.084188
+                  ]
+            },
+            {
+                  "name": "Mont Rouge",
+                  "text": "Csúcs a Wallisi-Alpokban, a Grande Dixence vízgyűjtő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.426113,
+                        46.117288
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Jean-Baptiste",
+                  "text": "Keresztelő Szent Jánosnak szentelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        7.403121,
+                        46.083117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "Un centru de informare despre barajul și centrala electrică Grande Dixence.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "Un vârf muntos din Alpii Elvețieni, lângă complexul Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe de Vouasson",
+                  "text": "Un vârf muntos înalt din Alpii Valaisani, situat deasupra Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.425433,
+                        46.071501
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "Un vârf muntos proeminent cu vedere spre zona Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Pic d'Artsinol",
+                  "text": "Un vârf distinctiv din Alpii Elvețieni, lângă barajul Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.427004,
+                        46.115211
+                  ]
+            },
+            {
+                  "name": "Pointe d'Allèves",
+                  "text": "Un vârf muntos aflat în apropierea complexului hidroelectric Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.378031,
+                        46.084188
+                  ]
+            },
+            {
+                  "name": "Mont Rouge",
+                  "text": "Un vârf din Alpii Valaisani în bazinul hidrografic al Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.426113,
+                        46.117288
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Jean-Baptiste",
+                  "text": "O mică capelă dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        7.403121,
+                        46.083117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pavillon d'information Grande Dixence",
+                  "text": "An information center regarding the Grande Dixence dam and power plant.",
+                  "category": "museum",
+                  "coords": [
+                        7.403638,
+                        46.084334
+                  ]
+            },
+            {
+                  "name": "Monts Rosets",
+                  "text": "A mountain peak in the Swiss Alps located near the Grande Dixence facility.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359466,
+                        46.093895
+                  ]
+            },
+            {
+                  "name": "Pointe de Vouasson",
+                  "text": "A high mountain peak in the Valais Alps situated above Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.425433,
+                        46.071501
+                  ]
+            },
+            {
+                  "name": "Le Métailler",
+                  "text": "A prominent mountain peak overlooking the Grande Dixence area.",
+                  "category": "landmark",
+                  "coords": [
+                        7.360348,
+                        46.103992
+                  ]
+            },
+            {
+                  "name": "Pic d'Artsinol",
+                  "text": "A distinctive peak in the Swiss Alps located near the Grande Dixence dam.",
+                  "category": "landmark",
+                  "coords": [
+                        7.427004,
+                        46.115211
+                  ]
+            },
+            {
+                  "name": "Pointe d'Allèves",
+                  "text": "A mountain peak located in the vicinity of the Grande Dixence hydroelectric complex.",
+                  "category": "landmark",
+                  "coords": [
+                        7.378031,
+                        46.084188
+                  ]
+            },
+            {
+                  "name": "Mont Rouge",
+                  "text": "A peak in the Valais Alps within the catchment area of Grande Dixence.",
+                  "category": "landmark",
+                  "coords": [
+                        7.426113,
+                        46.117288
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Jean-Baptiste",
+                  "text": "A small chapel dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        7.403121,
+                        46.083117
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CH",
     name: { de: "Kraftwerk Grande Dixence", hu: "Grande Dixence Erőmű", ro: "Centrala electrică Grande Dixence", en: "Grande Dixence Power Plant" },
@@ -4629,7 +4926,304 @@ export const switzerlandEconomicV2: POI[] = [
     image: "/poi-images/switzerland-watch-manufacturing-renens-economic-v2.webp",
   },
   {
-    id: "switzerland-agri-dairy-emmental-economic-v2",
+    id: "switzerland-agri-dairy-emmental-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Spitzenberg",
+                  "text": "Eine ehemalige mittelalterliche Burg im Emmental.",
+                  "category": "castle",
+                  "coords": [
+                        7.811736,
+                        46.956175
+                  ]
+            },
+            {
+                  "name": "Ruine Wartenstein",
+                  "text": "Die Überreste einer historischen Burgruine im Emmental.",
+                  "category": "castle",
+                  "coords": [
+                        7.732548,
+                        46.971058
+                  ]
+            },
+            {
+                  "name": "Chüechlihaus",
+                  "text": "Das Regionalmuseum in Langnau, untergebracht in einem historischen Holzbau.",
+                  "category": "museum",
+                  "coords": [
+                        7.784643,
+                        46.942497
+                  ]
+            },
+            {
+                  "name": "Musikschule Langnau",
+                  "text": "Ein Ort für musikalische Darbietungen und Ausbildung in Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.790254,
+                        46.94051
+                  ]
+            },
+            {
+                  "name": "Kellertheater",
+                  "text": "Ein Kleintheater in Langnau, das für verschiedene kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787875,
+                        46.939008
+                  ]
+            },
+            {
+                  "name": "Kupferschmiede Langnau",
+                  "text": "Ein Kultur- und Veranstaltungsort in einem historischen Gebäude in Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787189,
+                        46.9366
+                  ]
+            },
+            {
+                  "name": "Kirchgemeindehaus",
+                  "text": "Ein lokaler Veranstaltungsort für kulturelle und kirchliche Ereignisse.",
+                  "category": "cultural",
+                  "coords": [
+                        7.785739,
+                        46.942624
+                  ]
+            },
+            {
+                  "name": "Erdburg Zwingherr",
+                  "text": "Eine historische archäologische Stätte in der Emmentaler Region.",
+                  "category": "historical",
+                  "coords": [
+                        7.722937,
+                        46.97882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Spitzenberg",
+                  "text": "Egykori középkori vár az Emmental régióban.",
+                  "category": "castle",
+                  "coords": [
+                        7.811736,
+                        46.956175
+                  ]
+            },
+            {
+                  "name": "Ruine Wartenstein",
+                  "text": "Történelmi várrom maradványai az Emmental régióban.",
+                  "category": "castle",
+                  "coords": [
+                        7.732548,
+                        46.971058
+                  ]
+            },
+            {
+                  "name": "Chüechlihaus",
+                  "text": "Regionális múzeum Langnauban, egy történelmi faépületben elhelyezve.",
+                  "category": "museum",
+                  "coords": [
+                        7.784643,
+                        46.942497
+                  ]
+            },
+            {
+                  "name": "Musikschule Langnau",
+                  "text": "Zenei előadások és oktatás helyszíne Langnauban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.790254,
+                        46.94051
+                  ]
+            },
+            {
+                  "name": "Kellertheater",
+                  "text": "Kamaraszínház Langnauban, amelyet különféle kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787875,
+                        46.939008
+                  ]
+            },
+            {
+                  "name": "Kupferschmiede Langnau",
+                  "text": "Kulturális és rendezvényhelyszín egy történelmi épületben, Langnauban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787189,
+                        46.9366
+                  ]
+            },
+            {
+                  "name": "Kirchgemeindehaus",
+                  "text": "Helyi rendezvényhelyszín kulturális és egyházi események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.785739,
+                        46.942624
+                  ]
+            },
+            {
+                  "name": "Erdburg Zwingherr",
+                  "text": "Történelmi régészeti lelőhely az Emmental régióban.",
+                  "category": "historical",
+                  "coords": [
+                        7.722937,
+                        46.97882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Spitzenberg",
+                  "text": "O fostă cetate medievală situată în Emmental.",
+                  "category": "castle",
+                  "coords": [
+                        7.811736,
+                        46.956175
+                  ]
+            },
+            {
+                  "name": "Ruine Wartenstein",
+                  "text": "Rămășițele unei ruine istorice de castel din Emmental.",
+                  "category": "castle",
+                  "coords": [
+                        7.732548,
+                        46.971058
+                  ]
+            },
+            {
+                  "name": "Chüechlihaus",
+                  "text": "Muzeul regional din Langnau, găzduit într-o clădire istorică din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        7.784643,
+                        46.942497
+                  ]
+            },
+            {
+                  "name": "Musikschule Langnau",
+                  "text": "Un loc pentru spectacole muzicale și educație în Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.790254,
+                        46.94051
+                  ]
+            },
+            {
+                  "name": "Kellertheater",
+                  "text": "Un mic teatru din Langnau utilizat pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787875,
+                        46.939008
+                  ]
+            },
+            {
+                  "name": "Kupferschmiede Langnau",
+                  "text": "Un loc cultural și de evenimente într-o clădire istorică din Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787189,
+                        46.9366
+                  ]
+            },
+            {
+                  "name": "Kirchgemeindehaus",
+                  "text": "Un loc de desfășurare local pentru evenimente culturale și bisericești.",
+                  "category": "cultural",
+                  "coords": [
+                        7.785739,
+                        46.942624
+                  ]
+            },
+            {
+                  "name": "Erdburg Zwingherr",
+                  "text": "Un sit arheologic istoric din regiunea Emmental.",
+                  "category": "historical",
+                  "coords": [
+                        7.722937,
+                        46.97882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Spitzenberg",
+                  "text": "A former medieval castle located in the Emmental region.",
+                  "category": "castle",
+                  "coords": [
+                        7.811736,
+                        46.956175
+                  ]
+            },
+            {
+                  "name": "Ruine Wartenstein",
+                  "text": "The remains of a historic castle ruin in the Emmental region.",
+                  "category": "castle",
+                  "coords": [
+                        7.732548,
+                        46.971058
+                  ]
+            },
+            {
+                  "name": "Chüechlihaus",
+                  "text": "The regional museum in Langnau, housed in a historic wooden building.",
+                  "category": "museum",
+                  "coords": [
+                        7.784643,
+                        46.942497
+                  ]
+            },
+            {
+                  "name": "Musikschule Langnau",
+                  "text": "A venue for musical performances and education in Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.790254,
+                        46.94051
+                  ]
+            },
+            {
+                  "name": "Kellertheater",
+                  "text": "A small theatre in Langnau used for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787875,
+                        46.939008
+                  ]
+            },
+            {
+                  "name": "Kupferschmiede Langnau",
+                  "text": "A cultural and event venue in a historic building in Langnau.",
+                  "category": "cultural",
+                  "coords": [
+                        7.787189,
+                        46.9366
+                  ]
+            },
+            {
+                  "name": "Kirchgemeindehaus",
+                  "text": "A local venue for cultural and church-related events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.785739,
+                        46.942624
+                  ]
+            },
+            {
+                  "name": "Erdburg Zwingherr",
+                  "text": "A historic archaeological site in the Emmental region.",
+                  "category": "historical",
+                  "coords": [
+                        7.722937,
+                        46.97882
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CH",
     name: { de: "Milchwirtschaft Emmental", hu: "Emmental Tejipar", ro: "Industria lactatelor Emmental", en: "Emmental Dairy Industry" },

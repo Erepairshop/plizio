@@ -4785,7 +4785,232 @@ export const poiExtraHrV3: POI[] = [
   {"id": "croatia-banjol-cities-v2", "type": "city", "parent": "HR", "coords": [14.783, 44.75], "population": 1708, "name": {"de": "Banjol", "hu": "Banjol", "ro": "Banjol", "en": "Banjol"}, "description": {"de": "Ein Ferienort auf der Insel Rab, bekannt für seine drei Padova-Sandbuchten und die schöne Uferpromenade.", "hu": "Üdülőhely Rab szigetén, amely három homokos öbléről (Padova) és szép tengerparti sétányáról ismert.", "ro": "O stațiune pe insula Rab, cunoscută pentru cele trei golfuri cu nisip Padova și promenada sa frumoasă.", "en": "A resort town on Rab island, known for its three sandy Padova bays and beautiful seaside promenade."}, "descriptionAdvanced": {"de": "Banjol liegt auf der Insel Rab und ist direkt mit der historischen Altstadt von Rab verbunden. Der Ort erstreckt sich entlang der Küste und ist besonders für seine drei flachen Sandbuchten namens Padova I, II und III bekannt. Diese Buchten sind ideal für Familien mit Kindern, da das Wasser sehr ruhig und warm ist. Eine lange Promenade führt von Banjol aus direkt in den Hafen von Rab, gesäumt von Cafés, Restaurants und Souvenirläden. Von Banjol aus hat man einen fantastischen Blick auf die vier berühmten Glockentürme der Stadt Rab, besonders bei Sonnenuntergang. Die lokale Wirtschaft ist stark auf den Tourismus ausgerichtet, bietet aber auch Einblicke in die traditionelle Fischerei. In der Nähe von Banjol befinden sich die Hügel von Mundanije, die sich gut für leichte Wanderungen eignen. Die Gastronomie in Banjol ist exzellent und bietet frischen Fisch, Meeresfrüchte und die berühmte Rabska torta (Rab-Torte) an. Durch die Nähe zum Meer und die geschützte Lage ist Banjol ein Paradies für Segler und Wassersportler. Die Unterkünfte reichen von modernen Hotels bis hin zu gemütlichen Privatwohnungen direkt am Wasser.", "hu": "Banjol Rab szigetének egyik legnépszerűbb települése, amely szinte összeolvadt Rab városának történelmi központjával. A település hírnevét elsősorban a három gyönyörű, sekély vizű homokos öblének köszönheti, amelyeket Padova I, II és III néven ismernek. Ezek az öblök a kisgyermekes családok kedvencei, mivel a víz lassan mélyül és gyorsan felmelegszik. Banjolt egy festői tengerparti sétány köti össze Rab városával, amely mentén éttermek, fagyizók és koktélbárok sorakoznak. A sétányról nyílik a legszebb kilátás Rab óvárosának jellegzetes négy harangtornyára, különösen az alkonyati órákban. A település ideális bázis a sziget felfedezéséhez, hiszen innen könnyen elérhetőek a Kalifront-félsziget erdői vagy a Lopar-félsziget strandjai is. A helyi konyha a tenger gyümölcseire és a sziget híres báránysültjére épül, az édességek közül pedig nem szabad kihagyni a hagyományos Rab-tortát. Banjol védett öblei a hajósok körében is népszerűek, számos jól felszerelt kikötőhely várja őket. A vendéglátás barátságos, a szálláshelyek többsége pedig közvetlen rálátást biztosít a tengerre.", "ro": "Banjol este o stațiune turistică vibrantă de pe insula Rab, situată în imediata vecinătate a orașului istoric Rab. Localitatea este faimoasă pentru cele trei golfuri ale sale, Padova I, II și III, care oferă plaje cu nisip fin și ape puțin adânci, fiind preferatele familiilor cu copii. O promenadă spectaculoasă de-a lungul mării leagă Banjol de portul orașului Rab, oferind o plimbare relaxantă cu vedere la cele patru turnuri emblematice ale cetății medievale. Peisajul este completat de dealuri verzi și grădini mediteraneene luxuriante. Banjol oferă o gamă variată de activități, de la sporturi nautice la plimbări cu bicicleta pe traseele amenajate ale insulei. Gastronomia locală este un punct forte, restaurantele servind pește proaspăt capturat, specialități din miel de Rab și celebra prăjitură 'Rabska torta'. Datorită poziției sale protejate, zona este foarte populară printre proprietarii de ambarcațiuni, oferind numeroase dane sigure. Atmosfera din Banjol este una de vacanță pură, îmbinând facilitățile moderne cu farmecul tradițional al unei așezări pescărești insulare. Este destinația ideală pentru cei care doresc să fie aproape de evenimentele culturale din Rab, dar să se bucure de plaje accesibile.", "en": "Banjol is a popular resort area on the island of Rab, situated just a stone's throw from the historic town of Rab. The town is best known for its three sheltered sandy bays, Padova I, II, and III, which are highly favored by families due to their shallow and warm waters. A scenic coastal promenade connects Banjol directly to Rab's main harbor, providing a delightful walk lined with shops, seafood restaurants, and ice cream parlors. From the shores of Banjol, visitors can enjoy iconic sunset views featuring the four famous bell towers of Rab's old town. The area offers a perfect mix of leisure and activity, with opportunities for sailing, kayaking, and cycling along the island's many trails. Local dining is a highlight, with menus featuring fresh Adriatic fish, locally raised lamb, and the signature Rab Cake (Rabska torta), a traditional almond-based dessert. The hills behind Banjol offer hiking paths with panoramic views over the surrounding Kvarner islands. With its convenient location and excellent beaches, Banjol serves as an ideal base for experiencing the natural beauty and rich cultural heritage of Rab island."}, "facts": {"de": ["Drei Sandbuchten Padova", "Auf der Insel Rab", "Uferpromenade nach Rab", "Blick auf die vier Türme", "Ideal für Familienurlaub", "Hausgemachte Rab-Torte", "Zahlreiche Wassersportarten", "Geschützte Ankerplätze"], "hu": ["Három Padova homokos öböl", "Rab szigetén található", "Parti sétány Rab városába", "Kilátás a négy toronyra", "Családbarát strandok", "Hagyományos Rab-torta", "Számos vízi sport lehetőség", "Védett hajókikötők"], "ro": ["Trei golfuri cu nisip Padova", "Pe insula Rab", "Promenadă către orașul Rab", "Vedere la cele patru turnuri", "Ideal pentru familii", "Celebra prăjitură Rabska torta", "Sporturi nautice diverse", "Locuri de acostare sigure"], "en": ["Three sandy Padova bays", "Located on Rab island", "Promenade to Rab town", "View of the four towers", "Family-friendly beaches", "Traditional Rab Cake", "Variety of water sports", "Sheltered boat moorings"]}, "sights": {"de": [{"name": "Plaža Padova II", "desc": "Eine der beliebtesten Sandbuchten für Familien in Banjol.", "coords": [14.774509, 44.751217], "text": "Die Plaža Padova II bietet ein malerisches Stück der Adriaküste in dem hübschen Ort Banjol. Der einladende Strandabschnitt ist ideal, um in das erfrischende Meer einzutauchen oder faul in der strahlenden Sonne zu entspannen. Ein Besuch an einem klaren Sommertag bietet die perfekte Kulisse für unvergessliche Momente am Meer."}, {"name": "Gradski lapidarij", "text": "Eine Sammlung antiker und mittelalterlicher Steinfragmente, die in der Nähe von Banjol auf der Insel Rab ausgestellt sind.", "category": "museum", "coords": [14.758954, 44.757306]}, {"name": "Plaža Petrac", "text": "Versteckt direkt an der malerischen Uferpromenade von Banjol ist die Plaža Petrac ein wunderbar ruhiger, kleiner Kieselstrand. Die sanfte Küstenumgebung macht es einfach, den Spaziergang für ein sofortiges Bad oder eine ruhige Lesestunde am Wasser zu unterbrechen. Ein Besuch am frühen Abend verspricht einen ruhigen und wunderschön beleuchteten Horizont.", "category": "recreational", "coords": [14.775733, 44.748875]}, {"name": "Monty's dog beach", "text": "Monty's dog beach in Banjol ist ein aufregendes, haustierfreundliches Küstenparadies, das sogar eine spezielle Bar für Vierbeiner bietet. Dieser lebhafte Abschnitt lädt Besitzer und ihre Hunde ein, gemeinsam zu schwimmen, am Ufer zu spielen und einen einzigartigen Ausflug ans Meer zu genießen. Wenn Sie Ihr Haustier im Sommer hierher bringen, ist ein unvergesslicher und geselliger Tag garantiert.", "category": "recreational", "coords": [14.780487, 44.748328]}, {"name": "Plaža Banjol", "text": "Als einladender lokaler Strand von Banjol bietet dieser Ort verlockende sandige Abschnitte, gemischt mit auffallend flachem Wasser. Die ruhige Umgebung eignet sich besonders gut für entspanntes Sonnenbaden und unbeschwertes Planschen in Ufernähe. Wenn Sie in der sonnigen Jahreszeit früh ankommen, sichern Sie sich am besten einen großzügigen Platz im Sand.", "category": "recreational", "coords": [14.78591, 44.746839]}, {"name": "St. Kuzma und Damjan", "text": "Überreste einer bedeutenden frühbyzantinischen Festung aus dem 6. Jahrhundert auf einem Hügel über Banjol.", "category": "fortress", "coords": [14.801495, 44.748599]}, {"name": "Gradsko Kupaliste", "text": "Ein gut ausgestattetes städtisches Badegelände in Banjol mit betonierten Plateaus und Kieselabschnitten.", "category": "recreational", "coords": [14.759904, 44.755651]}, {"name": "Samostan sv. Antuna Opata", "text": "Ein historisches Frauenkloster in der Nähe von Banjol, das für seine jahrhundertelange religiöse Tradition bekannt ist.", "category": "religious", "coords": [14.762284, 44.753816]}, {"name": "Kamenjak", "text": "Der höchste Berggipfel der Insel Rab bietet einen weiten Panoramablick auf das Adriatische Meer.", "category": "natural", "coords": [14.789629, 44.773074]}, {"name": "Spomenik palim borcima", "text": "Ein Denkmal in Banjol, das den Kämpfern gewidmet ist, die im Zweiten Weltkrieg gefallen sind.", "category": "historical", "coords": [14.759702, 44.759754]}, {"name": "Vidilica Tomašić", "text": "Ein hergerichteter Aussichtspunkt, der einen der schönsten Blicke auf die Silhouette der Stadt Rab bietet.", "category": "natural", "coords": [14.779502, 44.771892]}, {"name": "Škver", "text": "Ein beliebter Uferbereich in Banjol, der als Anlegestelle für Boote und Ort zur Entspannung dient.", "category": "recreational", "coords": [14.752987, 44.761141]}, {"name": "Glockenturm der Maria-Himmelfahrts-Kathedrale", "text": "Der markante Glockenturm der Kathedrale von Rab bietet einen weiten Blick über die Adria.", "category": "natural", "coords": [14.761243, 44.754612]}, {"name": "Sveti Juraj", "text": "Ein malerischer Aussichtspunkt in Banjol, der einen Panoramablick auf die Küste der Insel Rab bietet.", "category": "natural", "coords": [14.765489, 44.751623]}], "hu": [{"name": "Plaža Padova II", "desc": "Banjol egyik legnépszerűbb homokos öble a családok körében.", "coords": [14.774509, 44.751217], "text": "A Plaža Padova II az adriai partvidék egy festői darabja a bájos Banjol városában. Csalogató partszakaszán a vendégek elmerülhetnek a hűsítő tengerben, vagy lustálkodhatnak a ragyogó napsütésben. Egy tiszta nyári napon tökéletes helyszínt biztosít a tengerparti emlékek megteremtéséhez."}, {"name": "Gradski lapidarij", "text": "Ókori és középkori kőtöredékek gyűjteménye a Rab-szigeti Banjol közelében.", "category": "museum", "coords": [14.758954, 44.757306]}, {"name": "Plaža Petrac", "text": "A banjoli festői tengerparti sétány mentén megbúvó Plaža Petrac egy csodálatosan csendes, apró kavicsos strand. A lankás partvidéki elhelyezkedésnek köszönhetően séta közben is könnyű egy gyors csobbanásra vagy egy csendes vízparti olvasásra betérni ide. A kora esti órákban különösen nyugodt és gyönyörűen megvilágított horizont fogadja a látogatókat.", "category": "recreational", "coords": [14.775733, 44.748875]}, {"name": "Monty's dog beach", "text": "A banjoli Monty's dog beach egy izgalmas, kutyabarát tengerparti menedék, amely még egy, a négylábú barátoknak szóló speciális bárral is rendelkezik. Ez a nyüzsgő partszakasz arra invitálja a gazdikat és kutyáikat, hogy együtt ússzanak, játsszanak a parton, és élvezzék a különleges vízi kirándulást. Ha nyáron ellátogatnak ide házi kedvencükkel, emlékezetes és igazán társasági élményben lesz részük.", "category": "recreational", "coords": [14.780487, 44.748328]}, {"name": "Plaža Banjol", "text": "Banjol hívogató helyi strandjaként ez a rész kellemes homokos szakaszokkal és rendkívül sekély vízzel büszkélkedhet. A nyugodt környezet különösen alkalmas a pihentető napozásra és a partközeli, könnyed fürdőzésre. A napos szezonban a korai érkezés a legjobb módja annak, hogy egy tágas helyet biztosítson magának a homokban.", "category": "recreational", "coords": [14.78591, 44.746839]}, {"name": "Sv. Kuzme i Damjana", "text": "Egy 6. századi jelentős kora bizánci erőd maradványai a Banjol feletti dombon.", "category": "fortress", "coords": [14.801495, 44.748599]}, {"name": "Gradsko Kupaliste", "text": "Jól felszerelt városi strand Banjolban, betonozott napozórészekkel és kavicsos szakaszokkal.", "category": "recreational", "coords": [14.759904, 44.755651]}, {"name": "Samostan sv. Antuna Opata", "text": "Történelmi női kolostor Banjol közelében, amely több évszázados vallási hagyományairól ismert.", "category": "religious", "coords": [14.762284, 44.753816]}, {"name": "Kamenjak", "text": "A Rab-sziget legmagasabb hegycsúcsa, amelyről széles panoráma nyílik az Adriai-tengerre.", "category": "natural", "coords": [14.789629, 44.773074]}, {"name": "Spomenik palim borcima", "text": "Banjolban található emlékmű, amelyet a második világháborúban elesett harcosok emlékére emeltek.", "category": "historical", "coords": [14.759702, 44.759754]}, {"name": "Vidilica Tomašić", "text": "Kiépített kilátópont, ahonnan az egyik legszebb kilátás nyílik Rab városának sziluettjére.", "category": "natural", "coords": [14.779502, 44.771892]}, {"name": "Škver", "text": "Népszerű vízparti terület Banjolban, amely hajókikötőként és pihenőhelyként is szolgál.", "category": "recreational", "coords": [14.752987, 44.761141]}, {"name": "Zvonik katedrale Uznesenja Blažene Djevice Marije", "text": "A rabi székesegyház jellegzetes harangtornya, amely tágas kilátást nyújt az Adriai-tengerre.", "category": "natural", "coords": [14.761243, 44.754612]}, {"name": "Sveti Juraj", "text": "Festői kilátópont Banjolban, ahonnan panorámás kilátás nyílik Rab szigetének partjaira.", "category": "natural", "coords": [14.765489, 44.751623]}], "ro": [{"name": "Plaža Padova II", "desc": "Unul dintre cele mai populare golfuri cu nisip pentru familii în Banjol.", "coords": [14.774509, 44.751217], "text": "Plaža Padova II este o porțiune pitorească a coastei Adriatice din frumosul oraș Banjol. Oferă o întindere primitoare unde oaspeții se pot scufunda în marea răcoroasă sau se pot odihni leneș sub soarele strălucitor. O oprire într-o zi senină de vară oferă cadrul perfect pentru amintiri de neuitat la malul mării."}, {"name": "Gradski lapidarij", "text": "O colecție de fragmente de piatră antice și medievale expuse lângă Banjol, pe insula Rab.", "category": "museum", "coords": [14.758954, 44.757306]}, {"name": "Plaža Petrac", "text": "Ascunsă chiar de-a lungul promenadei pitorești de pe litoralul din Banjol, Plaža Petrac este o plajă cu pietriș mică și minunat de liniștită. Cadrul de coastă blând face ușor să vă abateți de la plimbare pentru o baie rapidă sau o oră liniștită de lectură lângă apă. O vizită la începutul serii dezvăluie un orizont calm și frumos luminat.", "category": "recreational", "coords": [14.775733, 44.748875]}, {"name": "Monty's dog beach", "text": "Monty's dog beach din Banjol este un paradis de coastă captivant și prietenos cu animalele de companie, dotat cu un bar specializat pentru prietenii cu patru picioare. Această întindere plină de viață invită proprietarii și câinii lor să înoate împreună, să se joace pe țărm și să se bucure de o ieșire unică la mare. Aducerea animalului de companie aici în timpul verii asigură o zi memorabilă și extrem de sociabilă.", "category": "recreational", "coords": [14.780487, 44.748328]}, {"name": "Plaža Banjol", "text": "Fiind plaja locală primitoare din Banjol, acest loc are secțiuni de nisip tentante, amestecate cu ape extrem de puțin adânci. Mediul senin este deosebit de potrivit pentru plajă relaxată și bălăceală ușoară lângă țărm. Sosirea devreme în sezonul însorit este cel mai bun mod de a vă asigura un loc spațios pe nisip.", "category": "recreational", "coords": [14.78591, 44.746839]}, {"name": "Sv. Kuzme i Damjana", "text": "Vestigiile unei importante cetăți bizantine timpurii din secolul al VI-lea, situată pe un deal deasupra Banjolului.", "category": "fortress", "coords": [14.801495, 44.748599]}, {"name": "Gradsko Kupaliste", "text": "O zonă de scăldat orășenească bine amenajată în Banjol, cu platforme betonate și secțiuni cu pietriș.", "category": "recreational", "coords": [14.759904, 44.755651]}, {"name": "Samostan sv. Antuna Opata", "text": "O mănăstire istorică de maici situată lângă Banjol, cunoscută pentru tradiția sa religioasă de secole.", "category": "religious", "coords": [14.762284, 44.753816]}, {"name": "Kamenjak", "text": "Cel mai înalt vârf muntos de pe insula Rab oferă o vedere panoramică vastă asupra Mării Adriatice.", "category": "natural", "coords": [14.789629, 44.773074]}, {"name": "Spomenik palim borcima", "text": "Un monument în Banjol dedicat luptătorilor care au căzut în timpul celui de-al Doilea Război Mondial.", "category": "historical", "coords": [14.759702, 44.759754]}, {"name": "Vidilica Tomašić", "text": "Un punct de belvedere amenajat care oferă una dintre cele mai frumoase priveliști asupra siluetei orașului Rab.", "category": "natural", "coords": [14.779502, 44.771892]}, {"name": "Škver", "text": "O zonă populară pe malul mării în Banjol, care servește ca loc de acostare pentru bărci și relaxare.", "category": "recreational", "coords": [14.752987, 44.761141]}, {"name": "Zvonik katedrale Uznesenja Blažene Djevice Marije", "text": "Turnul clopotniță distinctiv al Catedralei din Rab oferă o vedere panoramică asupra Mării Adriatice.", "category": "natural", "coords": [14.761243, 44.754612]}, {"name": "Sveti Juraj", "text": "Un punct de belvedere pitoresc în Banjol, care oferă o vedere panoramică asupra coastei insulei Rab.", "category": "natural", "coords": [14.765489, 44.751623]}], "en": [{"name": "Plaža Padova II", "desc": "One of the most popular sandy bays for families in Banjol.", "coords": [14.774509, 44.751217], "text": "Plaža Padova II serves as a picturesque slice of the Adriatic coastline within the lovely town of Banjol. It features a welcoming stretch where guests can dive into the refreshing sea or rest lazily under the bright sun. Stopping by on a clear summer day provides the perfect setting for seaside memories."}, {"name": "Gradski lapidarij", "text": "A collection of ancient and medieval stone fragments displayed near Banjol on Rab Island.", "category": "museum", "coords": [14.758954, 44.757306]}, {"name": "Plaža Petrac", "text": "Tucked right along the scenic seaside promenade in Banjol, Plaža Petrac is a wonderfully quiet, small pebble beach. The gentle coastal setting makes it simple to step down from a walk for an immediate dip or a quiet hour of reading by the water. Dropping by during the early evening presents a calm and beautifully lit horizon.", "category": "recreational", "coords": [14.775733, 44.748875]}, {"name": "Monty's dog beach", "text": "Monty's dog beach in Banjol is an exciting, pet-friendly coastal haven complete with a specialized bar for four-legged friends. This lively stretch invites owners and their dogs to swim together, play on the shore, and enjoy a unique seaside outing. Bringing your pet here during summer ensures a memorable and highly sociable day out.", "category": "recreational", "coords": [14.780487, 44.748328]}, {"name": "Plaža Banjol", "text": "Serving as the welcoming local beach of Banjol, this spot features inviting sandy sections mixed with distinctly shallow waters. The serene environment is particularly well-suited for relaxed sunbathing and easy wading near the shoreline. Arriving early in the sunny season is the best way to secure a spacious spot on the sand.", "category": "recreational", "coords": [14.78591, 44.746839]}, {"name": "Sv. Kuzme i Damjana", "text": "Remains of a significant early Byzantine fortress from the 6th century, located on a hill above Banjol.", "category": "fortress", "coords": [14.801495, 44.748599]}, {"name": "Gradsko Kupaliste", "text": "A well-equipped municipal bathing area in Banjol featuring paved plateaus and pebble sections.", "category": "recreational", "coords": [14.759904, 44.755651]}, {"name": "Samostan sv. Antuna Opata", "text": "A historic nunnery located near Banjol, known for its centuries-old religious tradition.", "category": "religious", "coords": [14.762284, 44.753816]}, {"name": "Kamenjak", "text": "The highest mountain peak on Rab Island offers a wide panoramic view of the Adriatic Sea.", "category": "natural", "coords": [14.789629, 44.773074]}, {"name": "Spomenik palim borcima", "text": "A monument in Banjol dedicated to the fighters who fell during the Second World War.", "category": "historical", "coords": [14.759702, 44.759754]}, {"name": "Vidilica Tomašić", "text": "A prepared viewpoint offering one of the most beautiful views of the Rab town skyline.", "category": "natural", "coords": [14.779502, 44.771892]}, {"name": "Škver", "text": "A popular waterfront area in Banjol, serving as a spot for boat mooring and relaxation.", "category": "recreational", "coords": [14.752987, 44.761141]}, {"name": "Campanile of the Cathedral of the Holy Virgin Mary's Assumption", "text": "The distinctive bell tower of the Rab Cathedral offers panoramic views over the Adriatic Sea.", "category": "natural", "coords": [14.761243, 44.754612]}, {"name": "Sveti Juraj", "text": "A scenic viewpoint in Banjol offering panoramic vistas of the Rab island coastline.", "category": "natural", "coords": [14.765489, 44.751623]}], "hr": [{"name": "Gradski lapidarij", "text": "Zbirka antičkih i srednjovjekovnih kamenih ulomaka izloženih u blizini Banjola na otoku Rabu.", "category": "museum", "coords": [14.758954, 44.757306]}, {"name": "Plaža Petrac", "text": "Manja i mirna šljunčana plaža smještena uz samu obalnu šetnicu u Banjolu.", "category": "recreational", "coords": [14.775733, 44.748875]}, {"name": "Monty's dog beach", "text": "Poznata plaža za pse u Banjolu koja nudi posebne sadržaje i bar za kućne ljubimce.", "category": "recreational", "coords": [14.780487, 44.748328]}, {"name": "Plaža Banjol", "text": "Lokalna plaža u Banjolu, prepoznatljiva po plitkom moru i pješčanim dijelovima.", "category": "recreational", "coords": [14.78591, 44.746839]}, {"name": "Sv. Kuzme i Damjana", "text": "Ostaci značajne ranobizantske utvrde iz 6. stoljeća smješteni na uzvisini iznad Banjola.", "category": "fortress", "coords": [14.801495, 44.748599]}, {"name": "Gradsko Kupaliste", "text": "Uređeno gradsko kupalište u Banjolu s betonskim platoima i šljunčanim dijelovima.", "category": "recreational", "coords": [14.759904, 44.755651]}, {"name": "Samostan sv. Antuna Opata", "text": "Povijesni ženski samostan u blizini Banjola, poznat po svojoj dugogodišnjoj tradiciji.", "category": "religious", "coords": [14.762284, 44.753816]}, {"name": "Kamenjak", "text": "Najviši vrh otoka Raba s kojeg se pruža prekrasan panoramski pogled na cijeli arhipelag.", "category": "natural", "coords": [14.789629, 44.773074]}, {"name": "Spomenik palim borcima", "text": "Spomen-obilježje u Banjolu posvećeno borcima palim u Drugom svjetskom ratu.", "category": "historical", "coords": [14.759702, 44.759754]}, {"name": "Vidilica Tomašić", "text": "Uređeni vidikovac koji nudi jedan od najljepših pogleda na vizuru grada Raba.", "category": "natural", "coords": [14.779502, 44.771892]}, {"name": "Škver", "text": "Popularno obalno područje u Banjolu koje služi kao pristanište za brodice i mjesto za odmor.", "category": "recreational", "coords": [14.752987, 44.761141]}, {"name": "Campanile of the Cathedral of the Holy Virgin Mary's Assumption", "text": "Prepoznatljivi zvonik rapske katedrale koji pruža panoramski pogled na Jadransko more.", "category": "natural", "coords": [14.761243, 44.754612]}, {"name": "Sveti Juraj", "text": "Slikoviti vidikovac u Banjolu koji pruža panoramski pogled na obalu otoka Raba.", "category": "natural", "coords": [14.765489, 44.751623]}]}, "imageHint": "A sandy beach with crystal clear water and a promenade in Banjol, Rab island.", "county": "HR-08"},
   {"id": "croatia-runovic-cities-v2", "type": "city", "parent": "HR", "coords": [17.2367, 43.3767], "population": 1706, "name": {"de": "Runović", "hu": "Runović", "ro": "Runović", "en": "Runović"}, "description": {"de": "Runović ist eine Gemeinde im Hinterland von Dalmatien, bekannt für ihre Weinberge und die tiefe Fußballtradition in der Nähe von Imotski.", "hu": "Runović egy község a dalmát hátországban, Imotski közelében, amely híres szőlőültetvényeiről és gazdag futballhagyományairól.", "ro": "Runović este o comună din interiorul Dalmației, situată lângă Imotski, renumită pentru podgoriile sale și tradiția fotbalistică profundă.", "en": "Runović is a municipality in the Dalmatian hinterland near Imotski, known for its vineyards and a deep-rooted football tradition."}, "descriptionAdvanced": {"de": "Runović liegt im Imotski-Feld, einer fruchtbaren Karstebene an der Grenze zu Bosnien und Herzegowina. Die Gemeinde ist weit über die regionalen Grenzen hinaus für den Fußballverein NK Mračaj bekannt, der Talente wie Zvonimir Boban hervorbrachte. Das Dorfbild wird von traditionellen Steinhäusern und der barocken Kirche Gospe od Karmela geprägt, die im 18. Jahrhundert auf den Fundamenten älterer Sakralbauten errichtet wurde.\n\nDie Landwirtschaft spielt hier eine zentrale Rolle, wobei der Weinbau und der Anbau von Tabak die Landschaft dominieren. Besucher schätzen die authentische Gastfreundschaft und die lokalen Spezialitäten wie Peka oder den Wein Kujundžuša. Die Nähe zu den Naturphänomenen des Roten und Blauen Sees in Imotski macht Runović zu einem idealen Ausgangspunkt für Erkundungen im dalmatinischen Hinterland, fernab der überlaufenen Küstenorte.\n\nIn der Umgebung finden sich zahlreiche archäologische Spuren aus der illyrischen und römischen Zeit, die von einer langen Siedlungsgeschichte zeugen. Das Klima ist mediterran geprägt, jedoch mit deutlich kühleren Nächten als an der Küste, was besonders im Hochsommer als angenehm empfunden wird. Der Fluss Vrljika bietet zudem Möglichkeiten für ruhige Spaziergänge in der Natur.", "hu": "Runović az Imotski-mező szélén, egy termékeny karsztvidéken fekszik, közel a bosnyák határhoz. A település neve összefonódott az NK Mračaj futballklubbal, ahonnan olyan világsztárok indultak, mint Zvonimir Boban. A falu központját a 18. századi Kármelhegyi Boldogasszony-templom (Crkva Gospe od Karmela) uralja, amely korábbi keresztény templomok helyén épült, őrizve a közösség vallási örökségét.\n\nA helyi gazdaság alapját ma is a mezőgazdaság, elsősorban a szőlő- és dohánytermesztés adja. A látogatók itt megismerhetik a dalmát Zagora autentikus arcát, ahol a kőből épült házak és a hagyományos gasztronómia, például a helyi Kujundžuša bor, meghatározza a mindennapokat. A mindössze 10 kilométerre lévő imotski Vörös- és Kék-tó közelsége miatt a turisták gyakran választják ezt a csendesebb bázist a kirándulásokhoz.\n\nA környéken számos illír halomsír és római kori maradvány található, amelyek bizonyítják, hogy a terület már az ókorban is lakott volt. A Vrljika-folyó tiszta vize és a környező dombok kiváló túraútvonalakat kínálnak. Runović ideális hely azoknak, akik a tengerparti nyüzsgés helyett a vidéki nyugalomra és a valódi horvát vendégszeretetre vágynak.", "ro": "Runović este situat la marginea câmpiei Imotski, o zonă carstică fertilă la granița cu Bosnia și Herțegovina. Localitatea este celebră în Croația pentru clubul de fotbal NK Mračaj, locul unde s-au format legende precum Zvonimir Boban. Centrul satului este marcat de biserica barocă Crkva Gospe od Karmela, construită în secolul al XVIII-lea pe ruinele unor edificii sacre mai vechi.\n\nAgricultura rămâne principala ocupație a localnicilor, podgoriile de viță-de-vie și plantațiile de tutun fiind elemente definitorii ale peisajului. Vizitatorii pot experimenta ospitalitatea autentică din Zagora dalmată, gustând specialități locale precum vinul Kujundžuša. Distanța mică față de fenomenele naturale ale Lacului Roșu și Lacului Albastru din Imotski face din Runović un punct strategic pentru explorarea regiunii, oferind o alternativă liniștită la aglomerația de pe coastă.\n\nÎmprejurimile abundă în urme arheologice din perioadele iliră și romană, confirmând o locuire continuă de milenii. Râul Vrljika oferă un cadru natural relaxant pentru plimbări și recreere. Climatul mediteranean de interior, cu nopți mai răcoroase, asigură un confort sporit în timpul verii, transformând această destinație într-o oază de liniște rurală.", "en": "Runović is situated at the edge of the Imotski field, a fertile karst plain near the border with Bosnia and Herzegovina. The village is widely recognized for its local football club, NK Mračaj, which has produced world-class talents like Zvonimir Boban. The local landmark is the 18th-century Church of Our Lady of Carmel (Crkva Gospe od Karmela), built on the foundations of ancient Christian structures.\n\nAgriculture remains the backbone of the community, with vineyards and tobacco fields dominating the surrounding landscape. Visitors can experience the authentic lifestyle of the Dalmatian Zagora, characterized by stone architecture and traditional cuisine, including the local Kujundžuša wine. Its proximity to the natural wonders of the Red and Blue Lakes in Imotski makes Runović a peaceful base for exploring the region's unique geology.\n\nArchaeological sites from Illyrian and Roman times are scattered throughout the area, reflecting a long history of settlement. The Vrljika River provides a refreshing natural setting for walking and outdoor activities. Runović offers a glimpse into a traditional way of life, where hospitality is paramount and the pace of life is dictated by the seasons and local customs."}, "facts": {"de": ["Heimatort von Zvonimir Boban", "NK Mračaj Fußballverein seit 1964", "Liegt am fruchtbaren Imotski-Feld", "Barockkirche Gospe od Karmela", "Traditioneller Weinbau (Kujundžuša)", "Nähe zur bosnischen Grenze", "Bekannt für Tabakanbau", "Historische Karstlandschaft"], "hu": ["Zvonimir Boban szülőhelye", "Az NK Mračaj klub otthona (1964)", "Az Imotski-mező szélén fekszik", "Barokk Kármelhegyi Boldogasszony-templom", "Hagyományos bortermelés", "Közel a bosnyák határhoz", "Híres dohánytermelő vidék", "Történelmi karsztvidék"], "ro": ["Locul de origine al lui Zvonimir Boban", "Clubul NK Mračaj fondat în 1964", "Situat în câmpia fertilă Imotski", "Biserica barocă Gospe od Karmela", "Tradiție în viticultură (Kujundžuša)", "Aproape de granița cu Bosnia", "Renumit pentru cultura tutunului", "Peisaj carstic istoric"], "en": ["Home of football star Zvonimir Boban", "NK Mračaj football club since 1964", "Located in the fertile Imotski field", "Baroque Church of Our Lady of Carmel", "Traditional wine production", "Near the Bosnian border", "Famous for tobacco farming", "Historic karst landscape"]}, "sights": {"de": [{"name": "Crkva Gospe od Karmela", "desc": "Barockkirche aus dem 18. Jahrhundert mit bedeutendem religiösem Erbe.", "coords": [17.234584, 43.389809], "text": "Die dem lokalen Glauben gewidmete Crkva Gospe od Karmela ist eine markante Kirche im Dorf Runović. Das Gebäude repräsentiert die beständigen spirituellen Traditionen Kroatiens. Gäste können die ruhige Kapelle erkunden und ihr bescheidenes, aber elegantes Design bewundern."}, {"name": "Rijeka Vrljika", "desc": "Ein klarer Karstfluss, der durch das Imotski-Feld fließt.", "coords": [17.212285, 43.429048], "text": "Die Rijeka Vrljika schlängelt sich in der Nähe von Runović und ist ein klarer und friedlicher Wasserweg. Dieser kroatische Fluss unterstreicht die natürliche Schönheit der lokalen Felder und Landschaften. Naturliebhaber halten oft an den Ufern an, um sich zu entspannen und dem fließenden Wasser zu lauschen."}, {"name": "Pojilo", "text": "Ein natürlicher Badeort in Runović, der für sein klares Wasser und seine ruhige Umgebung bekannt ist.", "category": "recreational", "coords": [17.244313, 43.387007]}, {"name": "Krenica", "text": "Krenica in Runovic ist ein wunderschöner See, der sich perfekt eignet, um die Landschaft zu bewundern.", "category": "natural", "coords": [17.332599, 43.375179]}, {"name": "Nuga", "text": "Nuga ist ein ruhiger See in Runovic mit einer natürlichen Umgebung.", "category": "natural", "coords": [17.311073, 43.35589]}], "hu": [{"name": "Crkva Gospe od Karmela", "desc": "18. századi barokk templom jelentős vallási örökséggel.", "coords": [17.234584, 43.389809], "text": "A helyi hitnek szentelt Crkva Gospe od Karmela egy kiemelkedő templom Runović faluban. Az épület Horvátország kitartó szellemi hagyományait képviseli. A vendégek felfedezhetik a csendes kápolnát, és megcsodálhatják szerény, mégis elegáns kialakítását."}, {"name": "Rijeka Vrljika", "desc": "Tiszta vizű karsztfolyó, amely az Imotski-mezőn halad át.", "coords": [17.212285, 43.429048], "text": "A Runović közelében kanyargó Rijeka Vrljika egy tiszta és békés vízi út. Ez a horvát folyó fokozza a helyi mezők és tájak természeti szépségét. A természet szerelmesei gyakran megállnak a parton, hogy pihenjenek és hallgassák az áramló vizet."}, {"name": "Pojilo", "text": "Természetes fürdőhely Runovićban, amely tiszta vizéről és nyugodt környezetéről ismert.", "category": "recreational", "coords": [17.244313, 43.387007]}, {"name": "Krenica", "text": "A Runovicban található Krenica egy gyönyörű tó, amely tökéletes a táj megcsodálásához.", "category": "natural", "coords": [17.332599, 43.375179]}, {"name": "Nuga", "text": "Nuga egy nyugodt tó Runovicban, természetes környezetben.", "category": "natural", "coords": [17.311073, 43.35589]}], "ro": [{"name": "Crkva Gospe od Karmela", "desc": "Biserică barocă din secolul al XVIII-lea cu un patrimoniu religios important.", "coords": [17.234584, 43.389809], "text": "Dedicată credinței locale, Crkva Gospe od Karmela este o biserică proeminentă din satul Runović. Clădirea reprezintă tradițiile spirituale durabile ale Croației. Oaspeții pot explora capela liniștită și pot admira designul ei modest, dar elegant."}, {"name": "Rijeka Vrljika", "desc": "Un râu carstic limpede care traversează câmpia Imotski.", "coords": [17.212285, 43.429048], "text": "Șerpuind în apropiere de Runović, Rijeka Vrljika este o cale navigabilă clară și pașnică. Acest râu croat sporește frumusețea naturală a câmpurilor și peisajelor locale. Iubitorii de natură se opresc adesea pe maluri pentru a se relaxa și a asculta apa curgătoare."}, {"name": "Pojilo", "text": "Un loc de scăldat natural în Runović, cunoscut pentru apa sa limpede și împrejurimile liniștite.", "category": "recreational", "coords": [17.244313, 43.387007]}, {"name": "Krenica", "text": "Krenica din Runovic este un lac frumos, perfect pentru a admira peisajul.", "category": "natural", "coords": [17.332599, 43.375179]}, {"name": "Nuga", "text": "Nuga este un lac senin situat în Runovic, cu împrejurimi naturale.", "category": "natural", "coords": [17.311073, 43.35589]}], "en": [{"name": "Crkva Gospe od Karmela", "desc": "18th-century Baroque church with significant religious heritage.", "coords": [17.234584, 43.389809], "text": "Dedicated to the local faith, Crkva Gospe od Karmela is a prominent church in the village of Runović. The building represents the enduring spiritual traditions of Croatia. Guests can explore the quiet chapel and admire its modest yet elegant design."}, {"name": "Rijeka Vrljika", "desc": "A clear karst river flowing through the Imotski field.", "coords": [17.212285, 43.429048], "text": "Meandering near Runović, the Rijeka Vrljika is a clear and peaceful waterway. This Croatian river enhances the natural beauty of the local fields and landscapes. Nature lovers often stop by the banks to relax and listen to the flowing water."}, {"name": "Pojilo", "text": "A natural swimming spot in Runović, known for its clear water and peaceful surroundings.", "category": "recreational", "coords": [17.244313, 43.387007]}, {"name": "Krenica", "text": "Krenica in Runovic is a beautiful lake perfect for admiring the landscape.", "category": "natural", "coords": [17.332599, 43.375179]}, {"name": "Nuga", "text": "Nuga is a serene lake located in Runovic with natural surroundings.", "category": "natural", "coords": [17.311073, 43.35589]}], "hr": [{"name": "Pojilo", "text": "Prirodno kupalište u Runoviću, poznato po bistroj vodi i mirnom okruženju.", "category": "recreational", "coords": [17.244313, 43.387007]}]}, "imageHint": "Stone church in a rural Dalmatian landscape with vineyards in the background.", "county": "HR-17"},
   {"id": "croatia-starigrad-cities-v2", "type": "city", "parent": "HR", "coords": [15.4381, 44.2953], "population": 1697, "name": {"de": "Starigrad-Paklenica", "hu": "Starigrad-Paklenica", "ro": "Starigrad-Paklenica", "en": "Starigrad-Paklenica"}, "description": {"de": "Starigrad liegt am Fuße des Velebit-Gebirges und ist der Haupteingang zum Nationalpark Paklenica an der Adriaküste.", "hu": "Starigrad a Velebit-hegység lábánál fekszik, és a Paklenica Nemzeti Park főbejárataként szolgál az Adria partján.", "ro": "Starigrad se află la poalele munților Velebit și este principala poartă de intrare în Parcul Național Paklenica, pe coasta Adriaticii.", "en": "Starigrad is located at the foot of the Velebit mountain range and serves as the main entrance to the Paklenica National Park."}, "descriptionAdvanced": {"de": "Starigrad, oft Starigrad-Paklenica genannt, ist ein einzigartiger Ort, an dem das majestätische Velebit-Gebirge direkt auf das kristallklare Meer trifft. Die Siedlung wurde auf den Ruinen der antiken Stadt Argyruntum errichtet, deren Überreste heute noch Zeugnis von der römischen Geschichte der Region ablegen. Als Zentrum der Riviera Paklenica bietet der Ort eine perfekte Infrastruktur für Wanderer, Kletterer und Sonnenanbeter gleichermaßen.\n\nDer Nationalpark Paklenica, dessen Eingang sich im Ort befindet, ist weltberühmt für seine monumentalen Schluchten Velika und Mala Paklenica sowie seine senkrechten Felswände, die Kletterer aus aller Welt anziehen. In den 1960er Jahren diente die raue Landschaft als Kulisse für die legendären Winnetou-Filme, woran heute ein kleines Museum erinnert. Neben dem Bergsport verfügt Starigrad über gepflegte Kieselstrände und versteckte Buchten, die ideal für Familienurlaube sind.\n\nKulturell sind die 'Mirila' von besonderer Bedeutung – steinerne Totengedenkstätten auf den Bergpfaden des Velebit, die einen tiefen Einblick in die einstigen Bestattungsrituale der Bergbewohner geben. Die Gastronomie in Starigrad verbindet maritime Küche mit deftigen Fleischgerichten aus dem Gebirge. Durch die gute Anbindung an die Autobahn A1 ist der Ort zudem leicht erreichbar und dient als strategischer Punkt für Ausflüge nach Zadar oder zu den Zrmanja-Wasserfällen.", "hu": "Starigrad, ismertebb nevén Starigrad-Paklenica, egy különleges pontja az Adriának, ahol a hatalmas Velebit-hegység közvetlenül a tengerbe szakad. A mai település az ókori Argyruntum romjaira épült, amely a római korban fontos kereskedelmi központ volt. A város ma a Paklenica Riviéra központja, amely a hegyi kalandok és a tengerparti pihenés tökéletes egyensúlyát kínálja.\n\nA település szélén kezdődik a Paklenica Nemzeti Park, amely monumentális szurdokvölgyeiről (Velika és Mala Paklenica) és függőleges sziklafalairól híres, vonzva a világ legjobb sziklamászóit. Az 1960-as években ez a vadregényes táj adott otthont a legendás Winnetou-filmek forgatásának, amelynek emlékét ma múzeum őrzi. A túrázás mellett Starigrad rendezett kavicsos strandokkal is büszkélkedhet, ahol a víz kristálytiszta és hűsítő a hegyi források miatt.\n\nA környék kulturális ritkaságai a 'Mirila' kövek – különleges, hegyi ösvényeken elhelyezett kőemlékek, amelyek a hajdani pásztorok temetkezési szokásait idézik. A helyi éttermekben érdemes megkóstolni a velebiti sajtot és a friss tengeri ételeket. A város kiváló fekvése lehetővé teszi, hogy gyorsan elérjük Zadart vagy a Zrmanja-folyó kanyonját, miközben élvezzük a hegyek és a tenger közelségének friss levegőjét.", "ro": "Starigrad, cunoscut sub numele de Starigrad-Paklenica, reprezintă locul spectaculos unde muntele Velebit se întâlnește direct cu apele Adriaticii. Localitatea este construită pe fundațiile anticului Argyruntum, un oraș roman ale cărui vestigii pot fi explorate și astăzi. Fiind centrul Rivierei Paklenica, orașul oferă condiții excelente atât pentru iubitorii de drumeții montane, cât și pentru cei care caută relaxare pe plajă.\n\nParcul Național Paklenica, a cărui intrare principală se află chiar în localitate, este renumit la nivel mondial pentru canioanele sale impresionante și pereții verticali de stâncă, un paradis pentru alpiniști. În anii '60, aceste peisaje dramatice au servit drept decor pentru filmele legendare din seria Winnetou. Dincolo de sporturile montane, Starigrad atrage prin plajele sale cu pietriș și apele curate, fiind o destinație ideală pentru familii.\n\nUn element cultural unic sunt 'Mirila' – monumente funerare din piatră situate pe potecile montane, care reflectă vechile ritualuri ale locuitorilor din Velebit. Gastronomia locală îmbină preparatele pescărești cu brânzeturile tari de munte și carnea pregătită la proțap. Datorită proximității față de autostrada A1, Starigrad este ușor accesibil, servind ca punct de plecare spre orașul Zadar sau spre spectaculoasa cascadă a râului Zrmanja.", "en": "Starigrad, often referred to as Starigrad-Paklenica, is a unique destination where the majestic Velebit mountain range meets the crystal-clear Adriatic Sea. Built upon the remains of the ancient Roman city of Argyruntum, the town is steeped in history. Today, it serves as the vibrant hub of the Paklenica Riviera, catering to hikers, climbers, and beach enthusiasts in equal measure.\n\nThe entrance to the Paklenica National Park is located right in the town, offering access to the monumental Velika and Mala Paklenica canyons. These rugged landscapes became world-famous in the 1960s as the filming location for the legendary Winnetou movies, a legacy celebrated by a local museum. Besides its mountain appeal, Starigrad offers well-maintained pebble beaches and secluded coves perfect for a family getaway.\n\nCulturally significant are the 'Mirila'—stone memorials found on mountain paths that offer insight into the traditional burial customs of the Velebit highlanders. The local dining scene features a blend of seafood and hearty mountain fare, such as Velebit cheese. Its strategic location near the A1 motorway makes it easily accessible and an ideal starting point for day trips to Zadar or the dramatic Zrmanja River canyon."}, "facts": {"de": ["Eingang zum Nationalpark Paklenica", "Antike Stadt Argyruntum", "Drehort der Winnetou-Filme", "Liegt am Fuße des Velebit", "Klettermekka in Kroatien", "Einzigartige Mirila-Gedenkstätten", "Wassertemperatur durch Quellen kühler", "Gute Anbindung an die Autobahn A1"], "hu": ["A Paklenica Nemzeti Park kapuja", "Az ókori Argyruntum romjai", "Winnetou-filmek forgatási helyszíne", "A Velebit-hegység lábánál fekszik", "Sziklamászók európai központja", "Különleges Mirila kőemlékek", "Hűvösebb víz a hegyi források miatt", "Közeli csatlakozás az A1-es pályához"], "ro": ["Poarta de intrare în Parcul Paklenica", "Vestigiile orașului antic Argyruntum", "Loc de filmare pentru Winnetou", "Situat la baza muntelui Velebit", "Centru major pentru alpinism", "Monumente unice numite Mirila", "Apă mai rece datorită izvoarelor", "Acces rapid la autostrada A1"], "en": ["Gateway to Paklenica National Park", "Site of ancient Roman Argyruntum", "Filming location for Winnetou movies", "Located at the foot of Velebit", "Major rock climbing hub", "Unique Mirila stone memorials", "Cooler sea water due to mountain springs", "Easy access to A1 motorway"]}, "sights": {"de": [{"name": "Nacionalni park Paklenica", "desc": "Ein beeindruckendes Naturschutzgebiet mit tiefen Schluchten und riesigen Felswänden.", "coords": [15.4878, 44.342096], "text": "Der Nacionalni park Paklenica ist ein spektakulärer Nationalpark in der Nähe von Starigrad Paklenica. Das Reservat ist berühmt für seine dramatischen Schluchten und dichten kroatischen Wälder. Outdoor-Abenteurer können den Tag mit Wandern oder Klettern durch die unberührte Wildnis verbringen."}, {"name": "Večka kula", "desc": "Ein mittelalterlicher Wachturm direkt am Meer, der vor Piraten schützte.", "coords": [15.45351, 44.279587], "text": "Die Večka kula steht am Ufer in Starigrad Paklenica und ist ein historischer Verteidigungsturm. Diese Festung aus Stein bietet Besuchern einen Einblick in die mittelalterliche maritime Verteidigung Kroatiens. Es ist ein äußerst malerischer Ort direkt am Küstenkiesstrand."}, {"name": "Mirila", "desc": "Steinerne Gedenkstätten im Velebit-Gebirge, die Teil alter Bestattungsriten sind.", "coords": [15.436328, 44.304105], "text": "Die Mirila von Starigrad Paklenica sind einzigartige Steindenkmäler, die alte Bergtraditionen widerspiegeln. Diese in der kroatischen Landschaft zu findenden Stätten wurden historisch als Ruhestätten für die Seelen der Verstorbenen genutzt. Ein Besuch hier bietet ein faszinierendes kulturelles Erlebnis und eine Verbindung zur lokalen Folklore."}, {"name": "Kulana", "text": "Ein Kiesstrand in Starigrad am Fuße des Velebit-Gebirges, ideal zum Schwimmen in der Natur.", "category": "recreational", "coords": [15.456956, 44.280081]}, {"name": "Etnokuća Marasović", "text": "Ein ethnografisches Museum in Starigrad, das das traditionelle Leben in der Region Velebit zeigt.", "category": "museum", "coords": [15.455854, 44.292696]}, {"name": "Argyruntum", "text": "Eine archäologische Stätte in Starigrad, die Überreste der antiken römischen Siedlung Argyruntum bewahrt.", "category": "historical", "coords": [15.43933, 44.292838]}, {"name": "Utvrda Paklarić", "text": "Eine mittelalterliche Festung oberhalb von Starigrad, die den Eingang zum Nationalpark Paklenica bewacht.", "category": "fortress", "coords": [15.459818, 44.292641]}, {"name": "Mali Vitrenik", "text": "Ein Berggipfel im Velebit-Massiv oberhalb von Starigrad mit Blick auf die Küste.", "category": "natural", "coords": [15.442644, 44.306512]}, {"name": "Veliki Vitrenik", "text": "Ein markanter Gipfel in den Velebit-Bergen, der als Wanderziel bei Starigrad beliebt ist.", "category": "natural", "coords": [15.452994, 44.301084]}, {"name": "Veliki vrh", "text": "Einer der höheren Aussichtspunkte in der Gebirgslandschaft hinter Starigrad.", "category": "natural", "coords": [15.452864, 44.311983]}, {"name": "Winnetou 4", "text": "Ein markierter Drehort der legendären Winnetou-Filme in der Nähe der Paklenica-Schlucht.", "category": "landmark", "coords": [15.463083, 44.298694]}, {"name": "Winnetou 6", "text": "Ein weiterer Punkt auf dem Themenweg, der zu den Original-Schauplätzen der Karl-May-Verfilmungen führt.", "category": "landmark", "coords": [15.469546, 44.299148]}, {"name": "Winnetou 7", "text": "Teil der Winnetou-Touristikroute, die die beeindruckende Naturkulisse von Starigrad nutzt.", "category": "landmark", "coords": [15.470287, 44.302229]}, {"name": "Winnetou-Museum", "text": "Dieses kleine Museum in Starigrad zeigt Requisiten und Fotos von den Winnetou-Dreharbeiten.", "category": "landmark", "coords": [15.448202, 44.286698]}, {"name": "Winnetou 2", "text": "Ein bekannter Schauplatz aus den Winnetou-Filmen, der Wanderer in die raue Karstlandschaft führt.", "category": "landmark", "coords": [15.458628, 44.295096]}, {"name": "Winnetou 5", "text": "Drehort im Velebit-Gebirge, an dem einst die Abenteuer des Apachen-Häuptlings verfilmt wurden.", "category": "landmark", "coords": [15.464804, 44.29863]}, {"name": "Winnetou 8", "text": "Ein bekannter Drehort der Winnetou-Filme in der Nähe von Starigrad.", "category": "landmark", "coords": [15.471331, 44.304273]}, {"name": "Juranovića mlin", "text": "Eine historische Wassermühle in der Ortschaft Starigrad.", "category": "landmark", "coords": [15.466424, 44.298402]}], "hu": [{"name": "Nacionalni park Paklenica", "desc": "Lenyűgöző természetvédelmi terület mély szurdokokkal és hatalmas sziklafalakkal.", "coords": [15.4878, 44.342096], "text": "A Nacionalni park Paklenica egy látványos nemzeti park Starigrad Paklenica közelében. A rezervátum drámai kanyonjairól és sűrű horvát erdeiről híres. A szabadtéri kalandorok a napot túrázással vagy sziklamászással tölthetik az érintetlen vadonban."}, {"name": "Večka kula", "desc": "Középkori őrtorony közvetlenül a tengerparton, amely a kalózok ellen védett.", "coords": [15.45351, 44.279587], "text": "A Starigrad Paklenica partján álló Večka kula egy történelmi védőtorony. Ez a kőerődítmény bepillantást enged a látogatóknak Horvátország középkori tengeri védelmébe. Ez egy rendkívül festői helyszín, amely közvetlenül a tengerparti kavicsos strandon található."}, {"name": "Mirila", "desc": "Különleges kőemlékek a Velebitben, a pásztorok rituális temetkezési helyei.", "coords": [15.436328, 44.304105], "text": "A Starigrad Paklenica-i Mirila egyedülálló kőemlékek, amelyek a régi hegyi hagyományokat tükrözik. A horvát vidéken található helyszíneket történelmileg az elhunytak lelkének nyughelyeként használták. Az itteni látogatás lenyűgöző kulturális élményt és kapcsolatot biztosít a helyi folklórral."}, {"name": "Kulana", "text": "Kavicsos strand Starigradban, a Velebit-hegység lábánál, ideális természetközeli úszáshoz.", "category": "recreational", "coords": [15.456956, 44.280081]}, {"name": "Etnokuća Marasović", "text": "Néprajzi múzeum Starigradban, amely a Velebit régió hagyományos életmódját mutatja be.", "category": "museum", "coords": [15.455854, 44.292696]}, {"name": "Argyruntum", "text": "Régészeti lelőhely Starigradban, amely az ókori római Argyruntum település maradványait őrzi.", "category": "historical", "coords": [15.43933, 44.292838]}, {"name": "Utvrda Paklarić", "text": "Középkori erőd Starigrad felett, amely a Paklenica Nemzeti Park bejáratát őrzi.", "category": "fortress", "coords": [15.459818, 44.292641]}, {"name": "Mali Vitrenik", "text": "Hegyi csúcs a Velebit-hegységben, amely Starigrad felett magasodik.", "category": "natural", "coords": [15.442644, 44.306512]}, {"name": "Veliki Vitrenik", "text": "Jelentős hegycsúcs a Velebitben, amely kedvelt túracélpont Starigrad környékén.", "category": "natural", "coords": [15.452994, 44.301084]}, {"name": "Veliki vrh", "text": "Az egyik magaslati kilátópont a Starigrad mögötti hegyvidéki tájon.", "category": "natural", "coords": [15.452864, 44.311983]}, {"name": "Winnetou 4", "text": "A legendás Winnetou-filmek egyik megjelölt forgatási helyszíne a Paklenica-szurdok közelében.", "category": "landmark", "coords": [15.463083, 44.298694]}, {"name": "Winnetou 6", "text": "Egy újabb állomás a tematikus úton, amely a Karl May-filmek eredeti helyszíneire vezet.", "category": "landmark", "coords": [15.469546, 44.299148]}, {"name": "Winnetou 7", "text": "A Winnetou-turistaútvonal része, amely Starigrad lenyűgöző természeti adottságait mutatja be.", "category": "landmark", "coords": [15.470287, 44.302229]}, {"name": "Winnetou-Museum", "text": "Ez a kis starigradi múzeum a Winnetou-forgatások kellékeit és fotóit mutatja be.", "category": "landmark", "coords": [15.448202, 44.286698]}, {"name": "Winnetou 2", "text": "A Winnetou-filmek egyik ismert helyszíne, amely a vadregényes karsztvidékre kalauzolja a látogatókat.", "category": "landmark", "coords": [15.458628, 44.295096]}, {"name": "Winnetou 5", "text": "Forgatási helyszín a Velebitben, ahol egykor az apacs főnök kalandjait vitték filmre.", "category": "landmark", "coords": [15.464804, 44.29863]}, {"name": "Winnetou 8", "text": "A Winnetou-filmek egyik híres forgatási helyszíne Starigrad közelében.", "category": "landmark", "coords": [15.471331, 44.304273]}, {"name": "Juranovića mlin", "text": "Történelmi vízimalom Starigrad településén.", "category": "landmark", "coords": [15.466424, 44.298402]}], "ro": [{"name": "Nacionalni park Paklenica", "desc": "O rezervație naturală impresionantă cu canioane adânci și pereți de stâncă masivi.", "coords": [15.4878, 44.342096], "text": "Nacionalni park Paklenica este un parc național spectaculos situat în apropiere de Starigrad Paklenica. Rezervația este renumită pentru canioanele sale dramatice și pădurile croate dense. Aventurierii în aer liber își pot petrece ziua făcând drumeții sau alpinism prin sălbăticia curată."}, {"name": "Večka kula", "desc": "Turn de veghe medieval situat pe malul mării, folosit pentru apărarea împotriva piraților.", "coords": [15.45351, 44.279587], "text": "Situată pe țărmul din Starigrad Paklenica, Večka kula este un turn de apărare istoric. Această fortificație de piatră oferă vizitatorilor o privire asupra apărării maritime medievale a Croației. Este un sit extrem de pitoresc situat direct pe plaja cu pietriș de pe coastă."}, {"name": "Mirila", "desc": "Monumente funerare din piatră în munții Velebit, parte a unor ritualuri străvechi.", "coords": [15.436328, 44.304105], "text": "Mirila din Starigrad Paklenica sunt monumente unice din piatră care reflectă vechile tradiții montane. Găsite în zona rurală croată, aceste situri au fost folosite istoric ca locuri de odihnă pentru sufletele celor decedați. O vizită aici oferă o experiență culturală fascinantă și o legătură cu folclorul local."}, {"name": "Kulana", "text": "O plajă cu pietriș în Starigrad, la poalele munților Velebit, ideală pentru înot în natură.", "category": "recreational", "coords": [15.456956, 44.280081]}, {"name": "Etnokuća Marasović", "text": "Un muzeu etnografic din Starigrad, care prezintă viața tradițională din regiunea Velebit.", "category": "museum", "coords": [15.455854, 44.292696]}, {"name": "Argyruntum", "text": "Un sit arheologic din Starigrad care păstrează vestigiile vechii așezări romane Argyruntum.", "category": "historical", "coords": [15.43933, 44.292838]}, {"name": "Utvrda Paklarić", "text": "O cetate medievală deasupra orașului Starigrad, care păzește intrarea în Parcul Național Paklenica.", "category": "fortress", "coords": [15.459818, 44.292641]}, {"name": "Mali Vitrenik", "text": "Un vârf muntos în masivul Velebit, situat deasupra localității Starigrad.", "category": "natural", "coords": [15.442644, 44.306512]}, {"name": "Veliki Vitrenik", "text": "Un vârf proeminent în munții Velebit, popular ca destinație de drumeție lângă Starigrad.", "category": "natural", "coords": [15.452994, 44.301084]}, {"name": "Veliki vrh", "text": "Unul dintre punctele de belvedere înalte din peisajul montan din spatele localității Starigrad.", "category": "natural", "coords": [15.452864, 44.311983]}, {"name": "Winnetou 4", "text": "O locație de filmare marcată a legendarului film Winnetou, lângă canionul Paklenica.", "category": "landmark", "coords": [15.463083, 44.298694]}, {"name": "Winnetou 6", "text": "Un alt punct pe traseul tematic care duce la locațiile originale de filmare ale ecranizărilor Karl May.", "category": "landmark", "coords": [15.469546, 44.299148]}, {"name": "Winnetou 7", "text": "Parte a rutei turistice Winnetou, care folosește cadrul natural impresionant de lângă Starigrad.", "category": "landmark", "coords": [15.470287, 44.302229]}, {"name": "Winnetou-Museum", "text": "Acest mic muzeu din Starigrad expune recuzită și fotografii de la filmările Winnetou.", "category": "landmark", "coords": [15.448202, 44.286698]}, {"name": "Winnetou 2", "text": "O scenă cunoscută din filmele Winnetou, care conduce drumeții în peisajul carstic accidentat.", "category": "landmark", "coords": [15.458628, 44.295096]}, {"name": "Winnetou 5", "text": "Locație de filmare în munții Velebit, unde au fost filmate odinioară aventurile căpeteniei apașe.", "category": "landmark", "coords": [15.464804, 44.29863]}, {"name": "Winnetou 8", "text": "O locație de filmare cunoscută pentru filmele Winnetou, situată lângă Starigrad.", "category": "landmark", "coords": [15.471331, 44.304273]}, {"name": "Juranovića mlin", "text": "O moară de apă istorică aflată în localitatea Starigrad.", "category": "landmark", "coords": [15.466424, 44.298402]}], "en": [{"name": "Nacionalni park Paklenica", "desc": "A stunning natural reserve with deep canyons and massive vertical rock faces.", "coords": [15.4878, 44.342096], "text": "Nacionalni park Paklenica is a spectacular national park situated near Starigrad Paklenica. The reserve is famous for its dramatic canyons and dense Croatian forests. Outdoor adventurers can spend the day hiking or climbing through the pristine wilderness."}, {"name": "Večka kula", "desc": "A medieval watchtower on the coast used for defense against pirates.", "coords": [15.45351, 44.279587], "text": "Standing by the shore in Starigrad Paklenica, Večka kula is a historic defensive tower. This stone fortification offers visitors a glimpse into Croatia's medieval maritime defenses. It is a highly picturesque site located directly on the coastal pebble beach."}, {"name": "Mirila", "desc": "Stone funeral memorials in the Velebit mountains, part of ancient burial rites.", "coords": [15.436328, 44.304105], "text": "The Mirila of Starigrad Paklenica are unique stone monuments reflecting old mountain traditions. Found in the Croatian countryside, these sites were historically used as resting places for the souls of the deceased. A visit here provides a fascinating cultural experience and a connection to local folklore."}, {"name": "Kulana", "text": "A pebble beach in Starigrad at the foot of the Velebit mountains, ideal for swimming in nature.", "category": "recreational", "coords": [15.456956, 44.280081]}, {"name": "Marasović Ethno House", "text": "An ethnographic museum in Starigrad, showcasing traditional life in the Velebit region.", "category": "museum", "coords": [15.455854, 44.292696]}, {"name": "Argyruntum", "text": "An archaeological site in Starigrad preserving the remains of the ancient Roman settlement Argyruntum.", "category": "historical", "coords": [15.43933, 44.292838]}, {"name": "Utvrda Paklarić", "text": "A medieval fortress above Starigrad, guarding the entrance to the Paklenica National Park.", "category": "fortress", "coords": [15.459818, 44.292641]}, {"name": "Mali Vitrenik", "text": "A mountain peak in the Velebit range overlooking the coastal town of Starigrad.", "category": "natural", "coords": [15.442644, 44.306512]}, {"name": "Veliki Vitrenik", "text": "A prominent peak in the Velebit mountains, popular as a hiking destination near Starigrad.", "category": "natural", "coords": [15.452994, 44.301084]}, {"name": "Veliki vrh", "text": "One of the higher viewpoints in the mountainous landscape behind Starigrad.", "category": "natural", "coords": [15.452864, 44.311983]}, {"name": "Winnetou 4", "text": "A marked filming location of the legendary Winnetou movies near the Paklenica canyon.", "category": "landmark", "coords": [15.463083, 44.298694]}, {"name": "Winnetou 6", "text": "Another spot on the thematic trail leading to the original filming locations of the Karl May movies.", "category": "landmark", "coords": [15.469546, 44.299148]}, {"name": "Winnetou 7", "text": "Part of the Winnetou tourist route utilizing the impressive natural scenery around Starigrad.", "category": "landmark", "coords": [15.470287, 44.302229]}, {"name": "Winnetou-Museum", "text": "This small museum in Starigrad displays props and photos from the Winnetou film productions.", "category": "landmark", "coords": [15.448202, 44.286698]}, {"name": "Winnetou 2", "text": "A well-known setting from the Winnetou films, leading hikers into the rugged karst landscape.", "category": "landmark", "coords": [15.458628, 44.295096]}, {"name": "Winnetou 5", "text": "Filming location in the Velebit mountains where the adventures of the Apache chief were once filmed.", "category": "landmark", "coords": [15.464804, 44.29863]}, {"name": "Winnetou 8", "text": "A well-known filming location for the Winnetou movies near Starigrad.", "category": "landmark", "coords": [15.471331, 44.304273]}, {"name": "Jurnović mill", "text": "A historical water mill located in the town of Starigrad.", "category": "landmark", "coords": [15.466424, 44.298402]}], "hr": [{"name": "Kulana", "text": "Šljunčana plaža u Starigradu u podnožju Velebita, idealna za kupanje u prirodi.", "category": "recreational", "coords": [15.456956, 44.280081]}, {"name": "Marasović Ethno House", "text": "Etnografski muzej u Starigradu koji prikazuje tradicionalni način života u podvelebitskom kraju.", "category": "museum", "coords": [15.455854, 44.292696]}, {"name": "Argyruntum", "text": "Arheološko nalazište u Starigradu koje čuva ostatke antičkog rimskog naselja Argyruntum.", "category": "historical", "coords": [15.43933, 44.292838]}, {"name": "Utvrda Paklarić", "text": "Srednjovjekovna utvrda iznad Starigrada koja čuva ulaz u Nacionalni park Paklenica.", "category": "fortress", "coords": [15.459818, 44.292641]}, {"name": "Mali Vitrenik", "text": "Planinski vrh u masivu Velebita koji se uzdiže iznad Starigrada.", "category": "natural", "coords": [15.442644, 44.306512]}, {"name": "Veliki Vitrenik", "text": "Istaknuti vrh na Velebitu, popularno odredište za planinare u blizini Starigrada.", "category": "natural", "coords": [15.452994, 44.301084]}, {"name": "Veliki vrh", "text": "Jedan od viših vidikovaca u planinskom krajoliku zaleđa Starigrada.", "category": "natural", "coords": [15.452864, 44.311983]}, {"name": "Winnetou 4", "text": "Označena lokacija snimanja legendarnih filmova o Winnetouu u blizini kanjona Paklenice.", "category": "landmark", "coords": [15.463083, 44.298694]}, {"name": "Winnetou 6", "text": "Još jedna točka na tematskoj stazi koja vodi do izvornih lokacija snimanja filmova po Karlu Mayu.", "category": "landmark", "coords": [15.469546, 44.299148]}, {"name": "Winnetou 7", "text": "Dio turističke rute Winnetou koja koristi impresivnu prirodnu kulisu Starigrada.", "category": "landmark", "coords": [15.470287, 44.302229]}, {"name": "Winnetou-Museum", "text": "Ovaj mali muzej u Starigradu izlaže rekvizite i fotografije sa snimanja filmova o Winnetouu.", "category": "landmark", "coords": [15.448202, 44.286698]}, {"name": "Winnetou 2", "text": "Poznato mjesto radnje iz filmova o Winnetouu koje vodi planinare u krševiti planinski krajolik.", "category": "landmark", "coords": [15.458628, 44.295096]}, {"name": "Winnetou 5", "text": "Lokacija snimanja na Velebitu gdje su se nekada snimale pustolovine apaškog poglavice.", "category": "landmark", "coords": [15.464804, 44.29863]}, {"name": "Winnetou 8", "text": "Poznata lokacija snimanja filmova o Winnetouu u blizini Starigrada.", "category": "landmark", "coords": [15.471331, 44.304273]}, {"name": "Jurnović mill", "text": "Povijesna vodenica koja se nalazi u mjestu Starigrad.", "category": "landmark", "coords": [15.466424, 44.298402]}]}, "imageHint": "High canyon walls of Paklenica with climbers and a view towards the blue Adriatic sea.", "county": "HR-13"},
-  {"id": "croatia-strozanac-donji-cities-v2", "type": "city", "parent": "HR", "coords": [16.5464, 43.4883], "population": 1687, "name": {"de": "Strožanac Donji", "hu": "Strožanac Donji", "ro": "Strožanac Donji", "en": "Strožanac Donji"}, "description": {"de": "Strožanac Donji ist ein Küstenort südlich von Split, bekannt für seinen Yachthafen und die weitläufigen Kiesstrände von Podstrana.", "hu": "Strožanac Donji egy tengerparti település Splittől délre, amely jachtkikötőjéről és Podstrana hosszan elnyúló kavicsos strandjairól ismert.", "ro": "Strožanac Donji este o localitate de coastă la sud de Split, cunoscută pentru portul său de iahturi și plajele întinse cu pietriș din Podstrana.", "en": "Strožanac Donji is a coastal settlement south of Split, famous for its marina and the extensive pebble beaches of Podstrana."}, "descriptionAdvanced": {"de": "Strožanac Donji bildet das Tor zur Gemeinde Podstrana und liegt direkt an der Mündung des Flusses Žrnovnica in die Adria. Durch die unmittelbare Nähe zur Metropole Split hat sich der Ort von einer landwirtschaftlichen Siedlung zu einem gehobenen Vorort und beliebten Touristenziel entwickelt. Der moderne Yachthafen 'Lučica Strožanac' ist der Mittelpunkt des maritimen Lebens und bietet zahlreiche Anlegeplätze für Sportboote und Yachten.\n\nDie Küstenpromenade verbindet Strožanac mit den weiteren Ortsteilen von Podstrana und lädt zu langen Spaziergängen ein. Die Strände hier sind für ihre Sauberkeit und die hervorragende Wasserqualität bekannt, was sie besonders bei Familien beliebt macht. Historisch ist die Gegend seit der Antike besiedelt, was durch Funde römischer Grabsteine und Villenreste in der unmittelbaren Umgebung belegt wird. Ein kultureller Höhepunkt ist die Kirche Gospe u Siti, die auf einer archäologischen Fundstätte errichtet wurde.\n\nDie Gastronomie profitiert von der Kombination aus frischem Meeresfisch und lokalen Erzeugnissen aus dem Hinterland von Mosor. Entlang der Hauptstraße und am Hafen finden Besucher erstklassige Restaurants, die traditionelle dalmatinische Küche modern interpretieren. Für Aktivurlauber bietet Strožanac neben Wassersport auch ideale Bedingungen für Radtouren entlang der Žrnovnica oder Wanderungen auf den nahegelegenen Berg Perun.", "hu": "Strožanac Donji Podstrana község kapuja, ahol a Žrnovnica-folyó az Adriába torkollik. Split közvetlen szomszédsága miatt a település egykori mezőgazdasági jellegét modern, elegáns elővárosi és turisztikai stílus váltotta fel. A 'Lučica Strožanac' jachtkikötő a helyi élet központja, amely számos vitorlást és luxusjachtot fogad egész évben.\n\nA tengerparti sétány összeköti Strožanacot Podstrana többi részével, ideális helyet biztosítva a esti korzózáshoz. A strandok itt híresek tisztaságukról és a kristálytiszta vízről, amely a közeli folyótorkolat ellenére is kiváló minőségű. A terület már a római korban is lakott volt, amiről a környéken talált ókori sírkövek és villák romjai tanúskodnak. A kulturális örökség fontos része a Gospe u Siti templom, amely egy jelentős régészeti lelőhelyen épült.\n\nA helyi gasztronómia a friss tengeri halakra és a Mosor-hegység lábánál termett zöldségekre épül. A kikötő környékén számos kiváló étterem található, ahol a hagyományos dalmát ételeket szolgálják fel. Az aktív kikapcsolódást kedvelők számára a vízi sportok mellett a Žrnovnica partján futó kerékpárutak és a Perun-hegy túraútvonalai nyújtanak felejthetetlen élményt.", "ro": "Strožanac Donji reprezintă poarta de intrare în comuna Podstrana, fiind situat exact la vărsarea râului Žrnovnica în Marea Adriatică. Datorită proximității imediate față de orașul Split, localitatea s-a transformat dintr-o așezare agricolă într-o suburbie elegantă și o destinație turistică populară. Portul modern 'Lučica Strožanac' este inima activităților maritime, oferind numeroase locuri de acostare pentru ambarcațiuni de agrement și iahturi.\n\nPromenada de-a lungul coastei face legătura între Strožanac și restul localităților din Podstrana, fiind ideală pentru plimbări lungi la apus. Plajele de aici sunt renumite pentru curățenia lor și calitatea excelentă a apei, fiind preferate de familii. Istoria locului este bogată, datând din antichitate, fapt confirmat de descoperirile de stele funerare romane și resturi de vile antice în vecinătate. Un punct de interes cultural major este biserica Gospe u Siti, ridicată pe un sit arheologic important.\n\nGastronomia locală beneficiază de amestecul între peștele proaspăt și produsele agricole din hinterlandul muntelui Mosor. De-a lungul drumului principal și în zona portului, vizitatorii pot găsi restaurante de top care servesc bucătărie dalmată autentică. Pentru cei activi, Strožanac oferă, pe lângă sporturi nautice, condiții excelente pentru ciclism de-a lungul râului Žrnovnica sau drumeții pe muntele Perun din apropiere.", "en": "Strožanac Donji marks the entrance to the municipality of Podstrana, uniquely positioned where the Žrnovnica River flows into the Adriatic. Due to its direct proximity to the metropolis of Split, the settlement has evolved from an agricultural village into an upscale suburb and a sought-after tourist destination. The modern 'Lučica Strožanac' marina is the centerpiece of maritime life, hosting numerous yachts and leisure boats year-round.\n\nThe coastal promenade connects Strožanac with the other parts of Podstrana, inviting visitors for long evening walks. The beaches here are well-known for their cleanliness and high water quality, making them particularly popular with families. Historically, the area has been inhabited since antiquity, evidenced by Roman tombstones and remains of ancient villas found nearby. A cultural highlight is the Church of Our Lady in Sita (Gospe u Siti), built on a significant archaeological site.\n\nThe local culinary scene thrives on fresh seafood and produce from the Mosor mountain foothills. Along the main road and by the harbor, visitors can find excellent restaurants serving traditional Dalmatian dishes with a modern twist. For active travelers, Strožanac offers water sports as well as ideal conditions for cycling along the Žrnovnica riverbanks or hiking on the nearby Perun Mountain."}, "facts": {"de": ["Vorort von Split", "Moderner Yachthafen Lučica", "Mündung des Flusses Žrnovnica", "Lange Kiesstrände", "Römische Grabsteinfunde", "Liegt am Fuße des Berges Perun", "Teil der Riviera von Podstrana", "Kirche Gospe u Siti auf Ruinen"], "hu": ["Split elegáns elővárosa", "Lučica Strožanac jachtkikötő", "A Žrnovnica-folyó torkolata", "Hosszú, tiszta kavicsos strandok", "Római kori sírkőleletek", "A Perun-hegy lábánál fekszik", "A Podstrana Riviéra része", "Gospe u Siti templom ókori alapokon"], "ro": ["Suburbie rezidențială a Splitului", "Marina modernă Lučica Strožanac", "Vărsarea râului Žrnovnica", "Plaje lungi cu pietriș fin", "Descoperiri de stele romane", "Situat la poalele muntelui Perun", "Parte a Rivierei Podstrana", "Biserica Gospe u Siti pe sit antic"], "en": ["Upscale suburb of Split", "Modern Lučica Strožanac marina", "Mouth of the Žrnovnica River", "Extensive pebble beaches", "Roman tombstone discoveries", "Located at the foot of Mount Perun", "Part of the Podstrana Riviera", "Church of Our Lady in Sita on ancient ruins"]}, "sights": {"de": [{"name": "Lučica Strožanac", "desc": "Ein moderner Yachthafen, der das touristische Zentrum des Ortes bildet.", "coords": [16.534187, 43.501458], "text": "Die Marina Lučica Strožanac bietet Liegeplätze für viele kleine und mittelgroße Boote. Dieser kroatische Bootshafen lädt zu einem entspannten Spaziergang am Wasser ein. Besucher genießen hier die frische Meeresbrise und die maritime Atmosphäre."}, {"name": "Crkva Gospe u Siti", "desc": "Eine historische Kirche, die auf den Überresten einer römischen Villa und einer frühchristlichen Basilika steht.", "coords": [16.53814, 43.503471], "text": "Die Crkva Gospe u Siti ist eine Kirche in Strožanac Donji. Besucher können hier die lokale Kirchenarchitektur bewundern und eine friedliche Atmosphäre abseits des Alltags erleben."}], "hu": [{"name": "Lučica Strožanac", "desc": "Modern jachtkikötő, amely a település turisztikai központja.", "coords": [16.534187, 43.501458], "text": "A Lučica Strožanac kikötő sok kis- és közepes méretű csónak számára kínál kikötőhelyet. Ez a horvátországi hajókikötő egy pihentető vízparti sétára invitál. A látogatók itt élvezhetik a friss tengeri szellőt és a tengeri atmoszférát."}, {"name": "Crkva Gospe u Siti", "desc": "Történelmi templom, amely római villa és kora keresztény bazilika romjain épült.", "coords": [16.53814, 43.503471], "text": "A Crkva Gospe u Siti egy templom Strožanac Donji településen. Az ide látogatók megcsodálhatják a helyi egyházi építészetet, és átélhetik a horvát vallási helyekre jellemző békés hangulatot."}], "ro": [{"name": "Lučica Strožanac", "desc": "Un port modern care reprezintă centrul turistic al localității.", "coords": [16.534187, 43.501458], "text": "Marina Lučica Strožanac oferă dane pentru multe bărci mici și mijlocii. Acest port de agrement croat vă invită la o plimbare relaxantă pe malul apei. Vizitatorii se bucură aici de briza mării proaspete și de atmosfera maritimă."}, {"name": "Crkva Gospe u Siti", "desc": "O biserică istorică ridicată pe resturile unei vile romane și ale unei basilici timpurii.", "coords": [16.53814, 43.503471], "text": "Crkva Gospe u Siti este o biserică situată în Strožanac Donji. Vizitatorii pot admira arhitectura ecleziastică locală și pot experimenta o atmosferă liniștită, tipică lăcașurilor de cult din Croația."}], "en": [{"name": "Lučica Strožanac", "desc": "A modern marina that serves as the tourist hub of the settlement.", "coords": [16.534187, 43.501458], "text": "The Lučica Strožanac marina offers berths for many small and medium-sized boats. This Croatian boat harbor invites you to a relaxing walk along the water. Visitors enjoy the fresh sea breeze and the maritime atmosphere here."}, {"name": "Crkva Gospe u Siti", "desc": "A historic church built on the remains of a Roman villa and an early Christian basilica.", "coords": [16.53814, 43.503471], "text": "Crkva Gospe u Siti is a church located in Strožanac Donji. Visitors can admire the local ecclesiastical architecture and experience a peaceful atmosphere typical of Croatian places of worship."}]}, "imageHint": "Modern marina with white yachts and a pebble beach with the Split skyline in the distance.", "county": "HR-17"},
+  {"id": "croatia-strozanac-donji-cities-v2", "type": "city", "parent": "HR", "coords": [16.5464, 43.4883], "population": 1687, "name": {"de": "Strožanac Donji", "hu": "Strožanac Donji", "ro": "Strožanac Donji", "en": "Strožanac Donji"}, "description": {"de": "Strožanac Donji ist ein Küstenort südlich von Split, bekannt für seinen Yachthafen und die weitläufigen Kiesstrände von Podstrana.", "hu": "Strožanac Donji egy tengerparti település Splittől délre, amely jachtkikötőjéről és Podstrana hosszan elnyúló kavicsos strandjairól ismert.", "ro": "Strožanac Donji este o localitate de coastă la sud de Split, cunoscută pentru portul său de iahturi și plajele întinse cu pietriș din Podstrana.", "en": "Strožanac Donji is a coastal settlement south of Split, famous for its marina and the extensive pebble beaches of Podstrana."}, "descriptionAdvanced": {"de": "Strožanac Donji bildet das Tor zur Gemeinde Podstrana und liegt direkt an der Mündung des Flusses Žrnovnica in die Adria. Durch die unmittelbare Nähe zur Metropole Split hat sich der Ort von einer landwirtschaftlichen Siedlung zu einem gehobenen Vorort und beliebten Touristenziel entwickelt. Der moderne Yachthafen 'Lučica Strožanac' ist der Mittelpunkt des maritimen Lebens und bietet zahlreiche Anlegeplätze für Sportboote und Yachten.\n\nDie Küstenpromenade verbindet Strožanac mit den weiteren Ortsteilen von Podstrana und lädt zu langen Spaziergängen ein. Die Strände hier sind für ihre Sauberkeit und die hervorragende Wasserqualität bekannt, was sie besonders bei Familien beliebt macht. Historisch ist die Gegend seit der Antike besiedelt, was durch Funde römischer Grabsteine und Villenreste in der unmittelbaren Umgebung belegt wird. Ein kultureller Höhepunkt ist die Kirche Gospe u Siti, die auf einer archäologischen Fundstätte errichtet wurde.\n\nDie Gastronomie profitiert von der Kombination aus frischem Meeresfisch und lokalen Erzeugnissen aus dem Hinterland von Mosor. Entlang der Hauptstraße und am Hafen finden Besucher erstklassige Restaurants, die traditionelle dalmatinische Küche modern interpretieren. Für Aktivurlauber bietet Strožanac neben Wassersport auch ideale Bedingungen für Radtouren entlang der Žrnovnica oder Wanderungen auf den nahegelegenen Berg Perun.", "hu": "Strožanac Donji Podstrana község kapuja, ahol a Žrnovnica-folyó az Adriába torkollik. Split közvetlen szomszédsága miatt a település egykori mezőgazdasági jellegét modern, elegáns elővárosi és turisztikai stílus váltotta fel. A 'Lučica Strožanac' jachtkikötő a helyi élet központja, amely számos vitorlást és luxusjachtot fogad egész évben.\n\nA tengerparti sétány összeköti Strožanacot Podstrana többi részével, ideális helyet biztosítva a esti korzózáshoz. A strandok itt híresek tisztaságukról és a kristálytiszta vízről, amely a közeli folyótorkolat ellenére is kiváló minőségű. A terület már a római korban is lakott volt, amiről a környéken talált ókori sírkövek és villák romjai tanúskodnak. A kulturális örökség fontos része a Gospe u Siti templom, amely egy jelentős régészeti lelőhelyen épült.\n\nA helyi gasztronómia a friss tengeri halakra és a Mosor-hegység lábánál termett zöldségekre épül. A kikötő környékén számos kiváló étterem található, ahol a hagyományos dalmát ételeket szolgálják fel. Az aktív kikapcsolódást kedvelők számára a vízi sportok mellett a Žrnovnica partján futó kerékpárutak és a Perun-hegy túraútvonalai nyújtanak felejthetetlen élményt.", "ro": "Strožanac Donji reprezintă poarta de intrare în comuna Podstrana, fiind situat exact la vărsarea râului Žrnovnica în Marea Adriatică. Datorită proximității imediate față de orașul Split, localitatea s-a transformat dintr-o așezare agricolă într-o suburbie elegantă și o destinație turistică populară. Portul modern 'Lučica Strožanac' este inima activităților maritime, oferind numeroase locuri de acostare pentru ambarcațiuni de agrement și iahturi.\n\nPromenada de-a lungul coastei face legătura între Strožanac și restul localităților din Podstrana, fiind ideală pentru plimbări lungi la apus. Plajele de aici sunt renumite pentru curățenia lor și calitatea excelentă a apei, fiind preferate de familii. Istoria locului este bogată, datând din antichitate, fapt confirmat de descoperirile de stele funerare romane și resturi de vile antice în vecinătate. Un punct de interes cultural major este biserica Gospe u Siti, ridicată pe un sit arheologic important.\n\nGastronomia locală beneficiază de amestecul între peștele proaspăt și produsele agricole din hinterlandul muntelui Mosor. De-a lungul drumului principal și în zona portului, vizitatorii pot găsi restaurante de top care servesc bucătărie dalmată autentică. Pentru cei activi, Strožanac oferă, pe lângă sporturi nautice, condiții excelente pentru ciclism de-a lungul râului Žrnovnica sau drumeții pe muntele Perun din apropiere.", "en": "Strožanac Donji marks the entrance to the municipality of Podstrana, uniquely positioned where the Žrnovnica River flows into the Adriatic. Due to its direct proximity to the metropolis of Split, the settlement has evolved from an agricultural village into an upscale suburb and a sought-after tourist destination. The modern 'Lučica Strožanac' marina is the centerpiece of maritime life, hosting numerous yachts and leisure boats year-round.\n\nThe coastal promenade connects Strožanac with the other parts of Podstrana, inviting visitors for long evening walks. The beaches here are well-known for their cleanliness and high water quality, making them particularly popular with families. Historically, the area has been inhabited since antiquity, evidenced by Roman tombstones and remains of ancient villas found nearby. A cultural highlight is the Church of Our Lady in Sita (Gospe u Siti), built on a significant archaeological site.\n\nThe local culinary scene thrives on fresh seafood and produce from the Mosor mountain foothills. Along the main road and by the harbor, visitors can find excellent restaurants serving traditional Dalmatian dishes with a modern twist. For active travelers, Strožanac offers water sports as well as ideal conditions for cycling along the Žrnovnica riverbanks or hiking on the nearby Perun Mountain."}, "facts": {"de": ["Vorort von Split", "Moderner Yachthafen Lučica", "Mündung des Flusses Žrnovnica", "Lange Kiesstrände", "Römische Grabsteinfunde", "Liegt am Fuße des Berges Perun", "Teil der Riviera von Podstrana", "Kirche Gospe u Siti auf Ruinen"], "hu": ["Split elegáns elővárosa", "Lučica Strožanac jachtkikötő", "A Žrnovnica-folyó torkolata", "Hosszú, tiszta kavicsos strandok", "Római kori sírkőleletek", "A Perun-hegy lábánál fekszik", "A Podstrana Riviéra része", "Gospe u Siti templom ókori alapokon"], "ro": ["Suburbie rezidențială a Splitului", "Marina modernă Lučica Strožanac", "Vărsarea râului Žrnovnica", "Plaje lungi cu pietriș fin", "Descoperiri de stele romane", "Situat la poalele muntelui Perun", "Parte a Rivierei Podstrana", "Biserica Gospe u Siti pe sit antic"], "en": ["Upscale suburb of Split", "Modern Lučica Strožanac marina", "Mouth of the Žrnovnica River", "Extensive pebble beaches", "Roman tombstone discoveries", "Located at the foot of Mount Perun", "Part of the Podstrana Riviera", "Church of Our Lady in Sita on ancient ruins"]}, "sights": {
+      "de": [
+            {
+                  "name": "Lučica Strožanac",
+                  "desc": "Ein moderner Yachthafen, der das touristische Zentrum des Ortes bildet.",
+                  "coords": [
+                        16.534187,
+                        43.501458
+                  ],
+                  "text": "Die Marina Lučica Strožanac bietet Liegeplätze für viele kleine und mittelgroße Boote. Dieser kroatische Bootshafen lädt zu einem entspannten Spaziergang am Wasser ein. Besucher genießen hier die frische Meeresbrise und die maritime Atmosphäre."
+            },
+            {
+                  "name": "Crkva Gospe u Siti",
+                  "desc": "Eine historische Kirche, die auf den Überresten einer römischen Villa und einer frühchristlichen Basilika steht.",
+                  "coords": [
+                        16.53814,
+                        43.503471
+                  ],
+                  "text": "Die Crkva Gospe u Siti ist eine Kirche in Strožanac Donji. Besucher können hier die lokale Kirchenarchitektur bewundern und eine friedliche Atmosphäre abseits des Alltags erleben."
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein Kiesstrand an der adriatischen Küste in Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht an der kroatischen Küste bei Strožanac Donji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Adria.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
+            },
+            {
+                  "name": "Solar Beach",
+                  "text": "Ein Erholungsgebiet am Meer in Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.51815,
+                        43.500335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lučica Strožanac",
+                  "desc": "Modern jachtkikötő, amely a település turisztikai központja.",
+                  "coords": [
+                        16.534187,
+                        43.501458
+                  ],
+                  "text": "A Lučica Strožanac kikötő sok kis- és közepes méretű csónak számára kínál kikötőhelyet. Ez a horvátországi hajókikötő egy pihentető vízparti sétára invitál. A látogatók itt élvezhetik a friss tengeri szellőt és a tengeri atmoszférát."
+            },
+            {
+                  "name": "Crkva Gospe u Siti",
+                  "desc": "Történelmi templom, amely római villa és kora keresztény bazilika romjain épült.",
+                  "coords": [
+                        16.53814,
+                        43.503471
+                  ],
+                  "text": "A Crkva Gospe u Siti egy templom Strožanac Donji településen. Az ide látogatók megcsodálhatják a helyi egyházi építészetet, és átélhetik a horvát vallási helyekre jellemző békés hangulatot."
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Kavicsos tengerpart az adriai-tengerparton, Strožanac Donjiban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Gleccser vájta festői öböl a horvát tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátópont panorámás kilátással az Adriai-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
+            },
+            {
+                  "name": "Solar Beach",
+                  "text": "Tengerparti üdülőhely Strožanac Donji területén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.51815,
+                        43.500335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lučica Strožanac",
+                  "desc": "Un port modern care reprezintă centrul turistic al localității.",
+                  "coords": [
+                        16.534187,
+                        43.501458
+                  ],
+                  "text": "Marina Lučica Strožanac oferă dane pentru multe bărci mici și mijlocii. Acest port de agrement croat vă invită la o plimbare relaxantă pe malul apei. Vizitatorii se bucură aici de briza mării proaspete și de atmosfera maritimă."
+            },
+            {
+                  "name": "Crkva Gospe u Siti",
+                  "desc": "O biserică istorică ridicată pe resturile unei vile romane și ale unei basilici timpurii.",
+                  "coords": [
+                        16.53814,
+                        43.503471
+                  ],
+                  "text": "Crkva Gospe u Siti este o biserică situată în Strožanac Donji. Vizitatorii pot admira arhitectura ecleziastică locală și pot experimenta o atmosferă liniștită, tipică lăcașurilor de cult din Croația."
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă cu pietriș pe coasta Adriaticii în Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc pe coasta croată, lângă Strožanac Donji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de observație cu vedere panoramică asupra Mării Adriatice.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
+            },
+            {
+                  "name": "Solar Beach",
+                  "text": "O zonă de agrement la malul mării în Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.51815,
+                        43.500335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lučica Strožanac",
+                  "desc": "A modern marina that serves as the tourist hub of the settlement.",
+                  "coords": [
+                        16.534187,
+                        43.501458
+                  ],
+                  "text": "The Lučica Strožanac marina offers berths for many small and medium-sized boats. This Croatian boat harbor invites you to a relaxing walk along the water. Visitors enjoy the fresh sea breeze and the maritime atmosphere here."
+            },
+            {
+                  "name": "Crkva Gospe u Siti",
+                  "desc": "A historic church built on the remains of a Roman villa and an early Christian basilica.",
+                  "coords": [
+                        16.53814,
+                        43.503471
+                  ],
+                  "text": "Crkva Gospe u Siti is a church located in Strožanac Donji. Visitors can admire the local ecclesiastical architecture and experience a peaceful atmosphere typical of Croatian places of worship."
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A pebble beach on the Adriatic coast in Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A scenic bay on the Croatian coast near Strožanac Donji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint offering panoramic vistas over the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
+            },
+            {
+                  "name": "Solar Beach",
+                  "text": "A seaside recreational area in Strožanac Donji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.51815,
+                        43.500335
+                  ]
+            }
+      ]
+}, "imageHint": "Modern marina with white yachts and a pebble beach with the Split skyline in the distance.", "county": "HR-17"},
   {"id": "croatia-valbandon-cities-v2", "type": "city", "parent": "HR", "coords": [13.8136, 44.9189], "population": 1675, "name": {"de": "Valbandon", "hu": "Valbandon", "ro": "Valbandon", "en": "Valbandon"}, "description": {"de": "Valbandon ist ein idyllischer Urlaubsort in Istrien, direkt gegenüber dem Nationalpark Brijuni gelegen und bekannt für seine römischen Ruinen.", "hu": "Valbandon egy idilli üdülőhely Isztrián, közvetlenül a Brijuni Nemzeti Parkkal szemben, amely római kori romjairól ismert.", "ro": "Valbandon este o stațiune idilică în Istria, situată chiar vizavi de Parcul Național Brijuni, cunoscută pentru vestigiile sale romane.", "en": "Valbandon is an idyllic holiday resort in Istria, located directly across from the Brijuni National Park and famous for its Roman ruins."}, "descriptionAdvanced": {"de": "Valbandon liegt an der Südwestküste Istriens, nur zwei Kilometer von Fažana entfernt, und blickt direkt auf den Brijuni-Archipel. Der Name des Ortes leitet sich vom italienischen 'valle abandonata' (verlassenes Tal) ab, was auf die Entvölkerung nach Pestepidemien im Mittelalter hindeutet. Heute ist Valbandon eine moderne touristische Siedlung, die besonders für ihre ruhige Atmosphäre und die weitläufigen Kieselstrände mit Pinienwäldern geschätzt wird.\n\nIn der Antike war die Gegend ein Zentrum der Purpurherstellung und beherbergte prächtige römische Sommervillen. Archäologische Ausgrabungen an der Küste haben Reste von luxuriösen Residenzen mit Mosaiken ans Licht gebracht, die einst wohlhabenden Bürgern aus Pula gehörten. Eine Besonderheit des Ortes ist die kulinarische Veranstaltung 'Valbandon unter der Glocke' (Valbandon pod čripnjom), bei der traditionelle Gerichte auf offener Flamme unter einer Tonglocke zubereitet werden.\n\nFür Naturliebhaber bietet Valbandon zahlreiche Rad- und Wanderwege, die entlang der Küste oder durch Olivenhaine führen. Die flach abfallenden Strände sind ideal für Familien mit kleinen Kindern. Durch die Nähe zu Pula und dem dortigen römischen Amphitheater ist Valbandon ein hervorragender Ausgangspunkt für Kulturausflüge. Abends bietet sich ein Spaziergang nach Fažana an, von wo aus die Boote zu den Brijuni-Inseln ablegen.", "hu": "Valbandon Isztria délnyugati partján fekszik, mindössze két kilométerre Fažanától, közvetlen kilátással a Brijuni-szigetekre. A település neve az olasz 'valle abandonata' (elhagyott völgy) kifejezésből ered, ami a középkori pestisjárványok utáni elnéptelenedésre utal. Napjainkra Valbandon modern üdülőhellyé vált, amely leginkább békés légkörével és fenyőerdőkkel övezett kavicsos strandjaival vonzza a látogatókat.\n\nAz ókorban a terület a bíborfesték-gyártás központja volt, és pompás római nyári villáknak adott otthont. A tengerparti régészeti feltárások során luxusrezidenciák maradványai és mozaikok kerültek elő, amelyek egykor Pula gazdag polgáraié voltak. A település gasztronómiai különlegessége a 'Valbandon pod čripnjom' fesztivál, ahol hagyományos ételeket készítenek parázs alatt, agyagharang (čripnja) segítségével.\n\nA természetkedvelők számára Valbandon számos kerékpár- és gyalogutat kínál, amelyek a part mentén vagy olajfaligeteken keresztül vezetnek. A lassan mélyülő strandok ideálisak kisgyermekes családok számára. Pula közelsége és a római amfiteátrum közelsége miatt a kulturális kirándulások kedvelői is megtalálják itt a számításukat. Esténként érdemes átsétálni a szomszédos Fažanába, ahonnan a Brijuni-szigetekre tartó hajók indulnak.", "ro": "Valbandon este situat pe coasta de sud-vest a Istriei, la doar doi kilometri de Fažana, oferind o vedere directă spre arhipelagul Brijuni. Numele localității provine din italianul 'valle abandonata' (vale abandonată), făcând referire la depopularea cauzată de epidemiile de ciumă din evul mediu. Astăzi, Valbandon este o așezare turistică modernă, apreciată pentru atmosfera sa liniștită și plajele cu pietriș umbrite de păduri de pini.\n\nÎn antichitate, zona era un centru de producție a purpurei și găzduia vile romane de vară somptuoase. Săpăturile arheologice de pe coastă au scos la iveală resturi de rezidențe luxoase cu mozaicuri, care aparțineau cetățenilor bogați din Pula. O atracție gastronomică unică este evenimentul 'Valbandon sub capac' (Valbandon pod čripnjom), unde preparate tradiționale sunt gătite la foc deschis sub un capac de lut numit 'čripnja'.\n\nPentru iubitorii de natură, Valbandon oferă numeroase trasee de ciclism și mers pe jos care șerpuiesc de-a lungul coastei sau prin livezi de măslini. Plajele cu intrare lină în apă sunt ideale pentru familiile cu copii mici. Datorită proximității față de Pula și amfiteatrul său roman, Valbandon este un punct de plecare excelent pentru excursii culturale. Seara, o plimbare spre Fažana este obligatorie pentru a vedea portul de unde pleacă vapoarele spre insulele Brijuni.", "en": "Valbandon is nestled on the southwest coast of Istria, just two kilometers from Fažana, boasting a direct view of the Brijuni Islands. Its name derives from the Italian 'valle abandonata' (abandoned valley), a nod to the area's history following the plague epidemics of the Middle Ages. Today, Valbandon is a contemporary tourist settlement cherished for its tranquil ambiance and sprawling pebble beaches shaded by pine trees.\n\nIn Roman times, the area was a center for purple dye production and home to magnificent summer villas. Archaeological digs along the shoreline have revealed the remains of luxury residences adorned with mosaics, once belonging to the wealthy elite of Pula. A local culinary highlight is the 'Valbandon under the lid' festival (Valbandon pod čripnjom), where traditional meals are slow-cooked under a clay bell over an open fire.\n\nFor nature enthusiasts, Valbandon offers numerous cycling and walking paths that wind along the coast or through lush olive groves. The shallow beaches are ideal for families with small children. Given its proximity to Pula and its famous Roman Arena, Valbandon serves as an excellent base for cultural sightseeing. A short evening walk to nearby Fažana is a must to enjoy the harbor from which boats depart for the Brijuni National Park."}, "facts": {"de": ["Gegenüber vom Brijuni-Nationalpark", "Antike Purpurherstellung", "Reste römischer Sommervillen", "Kulinarik-Event 'Valbandon pod čripnjom'", "Pinienwälder direkt am Strand", "Nähe zur Stadt Pula (5 km)", "Lange Küstenpromenade nach Fažana", "Besonders familienfreundlich"], "hu": ["Szemben a Brijuni Nemzeti Parkkal", "Ókori bíborfesték-készítő központ", "Római nyári villák maradványai", "Hagyományos 'čripnja' főzőfesztivál", "Fenyőerdők a tengerpart mentén", "Pula közelsége (5 km)", "Tengerparti sétány Fažanába", "Kifejezetten családbarát hely"], "ro": ["Vizavi de Parcul Național Brijuni", "Centru antic de producție a purpurei", "Vestigii de vile romane de vară", "Festival gastronomic 'Valbandon pod čripnjom'", "Păduri de pini pe marginea plajei", "Aproape de orașul Pula (5 km)", "Promenadă de coastă spre Fažana", "Destinație ideală pentru familii"], "en": ["Opposite Brijuni National Park", "Ancient purple dye production center", "Remains of Roman summer villas", "Culinary event 'Valbandon under the lid'", "Pine forests along the beach", "Close to the city of Pula (5 km)", "Coastal promenade to Fažana", "Highly family-friendly destination"]}, "sights": {"de": [{"name": "Nationalpark Brijuni-Inseln", "text": "Ein wunderschöner Archipel und Nationalpark, der für seine Flora, Fauna und Geschichte bekannt ist.", "category": "natural", "coords": [13.756541, 44.915961]}, {"name": "Puntižela beach", "text": "Der Strand Puntižela ist eine sehr beliebte Kieselküste in Valbandon, die sich durch ihr wunderschön klares, glitzerndes Wasser auszeichnet. Schwimmer können sich an den frischen Wellen der Adria erfreuen, während Erholungssuchende auf den glatten Steinen entspannen können. Wer sich hier auf einen sonnigen Nachmittag einstellt, erlebt das klassische kroatische Meeresgefühl.", "category": "recreational", "coords": [13.808739, 44.901866]}, {"name": "Dog Beach Fazana", "text": "Bequem zwischen Fažana und Valbandon gelegen, bietet dieser ausgewiesene Hundestrand einen fantastischen Küstenabschnitt für Sie und Ihre Haustiere. Das offene Ufer ermöglicht endloses Schwimmen und energiegeladenes Spielen direkt an der Adria. Ein Besuch an einem warmen Morgen bereitet Hunden und ihren Besitzern gleichermaßen große Freude.", "category": "recreational", "coords": [13.802041, 44.925321]}, {"name": "Emily Beach", "text": "Versteckt an der faszinierenden Küste von Valbandon ist Emily Beach eine Oase der ruhigen Besinnung und der natürlichen Schönheit. Die ruhige Atmosphäre bietet eine hervorragende Kulisse für ungestörtes Schwimmen oder einfach nur, um dem sanften Rauschen der Gezeiten zu lauschen. Wer im Urlaub Wert auf Privatsphäre legt, dem sei dieser friedliche Ort wärmstens empfohlen.", "category": "recreational", "coords": [13.811152, 44.906412]}, {"name": "Lost Beach", "text": "Der Lost Beach in Valbandon macht seinem einladenden Namen alle Ehre und besticht durch einen herrlich entspannten Küstenabschnitt, der wie geschaffen für ruhesuchende Badegäste ist. Besucher können sich hier am Meer ausstrecken und nach Lust und Laune in die erfrischenden Wellen der Adria tauchen. Es ist ein ideales Ziel am Meer, um in der Sommersaison wirklich abzuschalten und das Tempo herauszunehmen.", "category": "recreational", "coords": [13.805722, 44.892931]}, {"name": "Plaža Jupiter", "text": "Die Plaža Jupiter präsentiert sich als lebendiges Küstenziel in Valbandon, das die perfekte Balance zwischen Schwimmen und ausgiebigem Sonnenbaden bietet. Das einladende Ufer lockt Urlauber an, die sich in der Sonne wärmen und anschließend im glitzernden Meer abkühlen möchten. Wer mit einem guten Buch und ausreichend Sonnencreme anreist, dem ist ein wunderbarer Tag am Wasser gewiss.", "category": "recreational", "coords": [13.775391, 44.918196]}, {"name": "Plaža Saluga", "text": "Die Plaža Saluga in Valbandon besticht durch einen bemerkenswert gepflegten Abschnitt der Adriaküste und ist ein makelloser Ort für Meeresliebhaber. Die ordentliche Küstenlinie ist ideal für gemütliches Sonnenbaden und ein Bad im klaren, erfrischenden Wasser. Ein strahlender Nachmittag an diesem sauberen Strand verspricht eine zutiefst angenehme und entspannende Auszeit an der Küste.", "category": "recreational", "coords": [13.77806, 44.917225]}, {"name": "Coral beach", "text": "Der Coral Beach in Valbandon ist mehr als nur ein Ufer; er dient als fantastischer Aussichtspunkt an der Küste mit Blick auf die Weite des Meeres. Besucher versammeln sich hier, um die beeindruckenden Meerespanoramen zu bewundern und dabei die frische Seeluft einzuatmen. Es ist ein herrlicher Ort, um einen ruhigen Abendspaziergang zu unternehmen und die wechselnden Farben des Himmels zu beobachten.", "category": "natural", "coords": [13.789137, 44.900941]}, {"name": "ruševine Hidrobaze", "text": "Ruinen eines ehemaligen k.u.k. Seefliegerstützpunkts an der Küste von Valbandon.", "category": "historical", "coords": [13.811715, 44.90076]}, {"name": "Zabavni Klub", "text": "Zabavni Klub in Valbandon ist eine Spielhalle, in der Kinder und Familien eine unterhaltsame Zeit verbringen können.", "category": "family", "coords": [13.809498, 44.917843]}], "hu": [{"name": "Nacionalni park Brijuni", "text": "Gyönyörű szigetcsoport és nemzeti park, amely élővilágáról és történelmi emlékeiről nevezetes.", "category": "natural", "coords": [13.756541, 44.915961]}, {"name": "Puntižela beach", "text": "A Puntižela strand egy nagyon kedvelt kavicsos partszakasz Valbandonban, amelyet gyönyörű, tiszta, csillogó vize tesz különlegessé. Az úszók élvezhetik a frissítő adriai hullámokat, míg a pihenni vágyók a sima köveken lazíthatnak. Ha egy napos délutánra készülünk ide, garantált a klasszikus horvát tengerparti élmény.", "category": "recreational", "coords": [13.808739, 44.901866]}, {"name": "Dog Beach Fazana", "text": "A Fažana és Valbandon között kényelmesen elterülő kijelölt kutyastrand fantasztikus partszakaszt biztosít az Ön és kedvencei számára. A nyitott vízpart végtelen úszást és energikus játékot tesz lehetővé közvetlenül az Adriai-tenger mellett. Egy meleg nyári reggelen tett látogatás hatalmas örömet okoz a kutyáknak és gazdáiknak egyaránt.", "category": "recreational", "coords": [13.802041, 44.925321]}, {"name": "Emily Beach", "text": "A Valbandon magával ragadó partvidékén megbúvó Emily Beach a csendes elmélkedés és a természeti szépség menedéke. Nyugodt atmoszférája kiváló hátteret biztosít a zavartalan úszáshoz, vagy egyszerűen csak a dagály halk morajlásának hallgatásához. A nyaralásuk során a magánéletet értékelőknek kifejezetten ajánlott felkeresni ezt a békés sarkot.", "category": "recreational", "coords": [13.811152, 44.906412]}, {"name": "Lost Beach", "text": "A hívogató nevéhez hűen a valbandoni Lost Beach egy elragadóan laza partszakaszt kínál a pihenni vágyó fürdőzőknek. A látogatók kedvükre elnyúlhatnak a tenger közelében, és bármikor megmártózhatnak a frissítő adriai hullámokban. Ideális tengerparti úti cél, ha a nyári szezonban igazán szeretne kikapcsolni és lelassulni.", "category": "recreational", "coords": [13.805722, 44.892931]}, {"name": "Plaža Jupiter", "text": "A Plaža Jupiter egy pezsgő tengerparti úti cél Valbandonban, amely tökéletes egyensúlyt teremt az úszás és a kiadós napozás között. A hívogató vízpart arra csábítja a nyaralókat, hogy a nap melegében fürdőzzenek, mielőtt lehűtenék magukat a csillogó tengerben. Egy jó könyvvel és naptejjel felszerelkezve biztosan csodálatos napot tölthetünk el a vízparton.", "category": "recreational", "coords": [13.775391, 44.918196]}, {"name": "Plaža Saluga", "text": "Az adriai partok egyik figyelemre méltóan gondozott szakaszával büszkélkedő valbandoni Plaža Saluga a tenger szerelmeseinek érintetlen szentélye. A rendezett partvonal ideális a kényelmes napozáshoz és a tiszta, frissítő vízben való megmártózáshoz. Egy ragyogó délután eltöltése ezen a tiszta strandon mélyen kellemes és pihentető tengerparti élményt nyújt.", "category": "recreational", "coords": [13.77806, 44.917225]}, {"name": "Coral beach", "text": "A valbandoni Coral beach több, mint egy egyszerű partszakasz; csodálatos tengerparti kilátóként szolgál, ahonnan a tenger hatalmas kiterjedésére nyílik kilátás. A látogatók azért gyűlnek itt össze, hogy megcsodálják a lenyűgöző tengeri panorámát, miközben belélegzik a friss sós levegőt. Kiváló helyszín egy csendes esti sétához és az égbolt változó színeinek megfigyeléséhez.", "category": "natural", "coords": [13.789137, 44.900941]}, {"name": "ruševine Hidrobaze", "text": "Az egykori osztrák-magyar hidroplán-bázis maradványai Valbandon partjainál.", "category": "historical", "coords": [13.811715, 44.90076]}, {"name": "Zabavni Klub", "text": "A valbandoni Zabavni Klub egy szórakoztató játékterem, ahol a gyerekek és a családok szórakoztató időt tölthetnek el.", "category": "family", "coords": [13.809498, 44.917843]}], "ro": [{"name": "Nacionalni park Brijuni", "text": "Un arhipelag spectaculos și parc național, cunoscut pentru flora, fauna și istoria sa.", "category": "natural", "coords": [13.756541, 44.915961]}, {"name": "Puntižela beach", "text": "Plaja Puntižela este o coastă cu pietriș foarte populară în Valbandon, definită de apa sa frumoasă, limpede și strălucitoare. Înotătorii se pot bucura de valurile proaspete ale Mării Adriatice, în timp ce persoanele care doresc să se relaxeze o pot face pe pietrele netede. Pregătirea pentru o după-amiază însorită aici asigură o experiență clasică la marea croată.", "category": "recreational", "coords": [13.808739, 44.901866]}, {"name": "Dog Beach Fazana", "text": "Odihnindu-se confortabil între Fažana și Valbandon, această plajă dedicată câinilor oferă o porțiune fantastică de țărm pentru dumneavoastră și animalele de companie. Faleza deschisă permite înotul nesfârșit și jocul energic chiar lângă Marea Adriatică. O vizită într-o dimineață caldă aduce o mare bucurie atât câinilor, cât și stăpânilor lor.", "category": "recreational", "coords": [13.802041, 44.925321]}, {"name": "Emily Beach", "text": "Ascunsă pe coasta captivantă din Valbandon, Emily Beach este un refugiu de reflecție liniștită și frumusețe naturală. Atmosfera sa calmă oferă un fundal excelent pentru înot netulburat sau pur și simplu pentru a asculta spălarea blândă a mareelor. Căutarea acestui colț liniștit este foarte recomandată celor care prețuiesc intimitatea în timpul vacanței lor.", "category": "recreational", "coords": [13.811152, 44.906412]}, {"name": "Lost Beach", "text": "Respectându-și numele atrăgător, Lost Beach din Valbandon prezintă o zonă de coastă minunat de relaxată, creată pentru scăldătorii care doresc liniște. Vizitatorii se pot întinde lângă mare și se pot scufunda în valurile răcoroase ale Adriaticii în propriul lor ritm. Este o destinație ideală la malul mării pentru a te deconecta și a încetini cu adevărat în timpul sezonului de vară.", "category": "recreational", "coords": [13.805722, 44.892931]}, {"name": "Plaža Jupiter", "text": "Plaža Jupiter iese în evidență ca o destinație de coastă vibrantă în Valbandon, echilibrând perfect înotul cu băile de soare prelungite. Faleza primitoare invită turiștii să se bucure de căldură înainte de a se răcori în marea strălucitoare. Dacă sosiți cu o carte bună și loțiune de protecție solară, aveți garantată o zi minunată lângă apă.", "category": "recreational", "coords": [13.775391, 44.918196]}, {"name": "Plaža Saluga", "text": "Mândrindu-se cu o porțiune remarcabil de bine îngrijită a țărmului Adriatic, Plaža Saluga din Valbandon este un loc imaculat pentru iubitorii de mare. Linia de coastă ordonată este ideală pentru plajă confortabilă și scufundări în apele limpezi și răcoroase. Petrecerea unei după-amiezi luminoase pe această plajă ordonată oferă o evadare de coastă profund plăcută și relaxantă.", "category": "recreational", "coords": [13.77806, 44.917225]}, {"name": "Coral beach", "text": "Mai mult decât un simplu țărm, Coral beach din Valbandon servește ca un superb punct de belvedere pe coastă, cu vedere la vasta întindere a mării. Vizitatorii se adună aici pentru a admira uimitoarele panorame marine în timp ce respiră aerul proaspăt maritim. Este o locație splendidă pentru a face o plimbare liniștită de seară și a urmări culorile schimbătoare ale cerului.", "category": "natural", "coords": [13.789137, 44.900941]}, {"name": "ruševine Hidrobaze", "text": "Ruinele unei foste baze de hidroavioane austro-ungare pe coasta din Valbandon.", "category": "historical", "coords": [13.811715, 44.90076]}, {"name": "Zabavni Klub", "text": "Zabavni Klub din Valbandon este o sală de jocuri de noroc unde copiii și familiile se pot distra.", "category": "family", "coords": [13.809498, 44.917843]}], "en": [{"name": "Brijuni Islands National Park", "text": "A stunning archipelago and national park known for its wildlife and historical sites.", "category": "natural", "coords": [13.756541, 44.915961]}, {"name": "Puntižela beach", "text": "Puntižela beach is a highly favored pebble coastline in Valbandon, defined by its beautifully clear, sparkling water. Swimmers can delight in the fresh Adriatic waves, while those looking to relax can unwind on the smooth stones. Preparing for a sunny afternoon here ensures a classic Croatian seaside experience.", "category": "recreational", "coords": [13.808739, 44.901866]}, {"name": "Dog Beach Fazana", "text": "Resting comfortably between Fažana and Valbandon, this dedicated dog beach provides a fantastic stretch of shoreline for you and your pets. The open waterfront allows for endless swimming and energetic play right by the Adriatic Sea. Visiting on a warm morning brings great joy to canine companions and their owners alike.", "category": "recreational", "coords": [13.802041, 44.925321]}, {"name": "Emily Beach", "text": "Tucked away on the captivating coast of Valbandon, Emily Beach is a haven of quiet reflection and natural beauty. Its calm atmosphere provides an excellent backdrop for undisturbed swimming or simply listening to the gentle wash of the tides. Seeking out this peaceful corner is highly recommended for those who value privacy during their holiday.", "category": "recreational", "coords": [13.811152, 44.906412]}, {"name": "Lost Beach", "text": "Living up to its inviting name, Lost Beach in Valbandon features a delightfully laid-back shoreline crafted for relaxed bathers. Visitors can stretch out near the sea and plunge into the refreshing Adriatic waves at their leisure. It is an ideal seaside destination to truly disconnect and slow down during the summer season.", "category": "recreational", "coords": [13.805722, 44.892931]}, {"name": "Jupiter Beach", "text": "Plaža Jupiter stands out as a vibrant coastal destination in Valbandon, perfectly balancing swimming and extensive sunbathing. The welcoming waterfront invites holidaymakers to soak in the heat before cooling off in the sparkling sea. Arriving with a good book and sunscreen is a surefire way to have a wonderful day by the water.", "category": "recreational", "coords": [13.775391, 44.918196]}, {"name": "Saluga Beach", "text": "Boasting a remarkably well-kept stretch of the Adriatic shore, Plaža Saluga in Valbandon is a pristine spot for sea lovers. The orderly coastline is ideal for comfortable sunbathing and dipping into the clear, refreshing waters. Spending a bright afternoon at this tidy beach provides a deeply pleasant and relaxing coastal escape.", "category": "recreational", "coords": [13.77806, 44.917225]}, {"name": "Coral beach", "text": "More than just a shore, Coral beach in Valbandon serves as a gorgeous coastal viewpoint overlooking the vast expanse of the sea. Visitors gather here to admire the striking marine panoramas while breathing in the fresh maritime air. It is a splendid location to take a quiet evening walk and watch the changing colors of the sky.", "category": "natural", "coords": [13.789137, 44.900941]}, {"name": "ruševine Hidrobaze", "text": "Ruins of a former Austro-Hungarian naval aviation base on the coast of Valbandon.", "category": "historical", "coords": [13.811715, 44.90076]}, {"name": "Zabavni Klub", "text": "Zabavni Klub in Valbandon is an amusement arcade where kids and families can have an entertaining time.", "category": "family", "coords": [13.809498, 44.917843]}], "hr": [{"name": "Brijuni Islands National Park", "text": "Prekrasno otočje i nacionalni park poznat po svojoj flori, fauni i povijesnim znamenitostima.", "category": "natural", "coords": [13.756541, 44.915961]}, {"name": "Puntižela beach", "text": "Plaža Puntižela omiljena je šljunčana obala u Valbandonu, prepoznatljiva po prekrasno čistoj i blistavoj vodi. Kupači mogu uživati u svježim jadranskim valovima, dok se oni željni odmora mogu opustiti na glatkom kamenju. Priprema za sunčano poslijepodne ovdje osigurava klasično hrvatsko obalno iskustvo.", "category": "recreational", "coords": [13.808739, 44.901866]}, {"name": "Dog Beach Fazana", "text": "Ugodno smještena između Fažane i Valbandona, ova posvećena plaža za pse pruža fantastičan dio obale za vas i vaše kućne ljubimce. Otvorena obala omogućuje beskrajno plivanje i energičnu igru tik uz Jadransko more. Posjet u toplo jutro donosi veliku radost psima i njihovim vlasnicima.", "category": "recreational", "coords": [13.802041, 44.925321]}, {"name": "Emily Beach", "text": "Skrivena na očaravajućoj obali Valbandona, Emily Beach je oaza mirnog razmišljanja i prirodne ljepote. Njezina mirna atmosfera pruža izvrsnu kulisu za neometano plivanje ili jednostavno slušanje blagog šuma plime. Traženje ovog mirnog kutka toplo se preporučuje svima koji cijene privatnost tijekom odmora.", "category": "recreational", "coords": [13.811152, 44.906412]}, {"name": "Lost Beach", "text": "Opravdavajući svoje primamljivo ime, Lost Beach u Valbandonu nudi predivno opuštenu obalu stvorenu za kupače željne odmora. Posjetitelji se mogu ispružiti blizu mora i po želji uskočiti u osvježavajuće jadranske valove. Ovo je idealno morsko odredište za istinsko isključivanje i usporavanje tijekom ljetne sezone.", "category": "recreational", "coords": [13.805722, 44.892931]}, {"name": "Jupiter Beach", "text": "Plaža Jupiter ističe se kao živo obalno odredište u Valbandonu, savršeno balansirajući između plivanja i opsežnog sunčanja. Privlačna obala poziva turiste da upiju toplinu prije hlađenja u blistavom moru. Dolazak s dobrom knjigom i kremom za sunčanje siguran je način za predivan dan uz vodu.", "category": "recreational", "coords": [13.775391, 44.918196]}, {"name": "Saluga Beach", "text": "Ponoseći se izvanredno održavanim dijelom jadranske obale, Plaža Saluga u Valbandonu besprijekorno je mjesto za ljubitelje mora. Uređena obala idealna je za udobno sunčanje i uranjanje u čisto, osvježavajuće more. Provođenje vedrog poslijepodneva na ovoj urednoj plaži pruža duboko ugodan i opuštajući bijeg na obalu.", "category": "recreational", "coords": [13.77806, 44.917225]}, {"name": "Coral beach", "text": "Više od same obale, Coral beach u Valbandonu služi kao prekrasan obalni vidikovac s pogledom na nepregledno prostranstvo mora. Posjetitelji se ovdje okupljaju kako bi se divili upečatljivim morskim panoramama dok udišu svježi morski zrak. To je sjajno mjesto za mirnu večernju šetnju i promatranje promjenjivih boja neba.", "category": "natural", "coords": [13.789137, 44.900941]}, {"name": "ruševine Hidrobaze", "text": "Ruševine nekadašnje austrougarske hidrobaze na obali Valbandona.", "category": "historical", "coords": [13.811715, 44.90076]}]}, "imageHint": "Beach with white pebbles and pine trees, with the Brijuni islands visible on the horizon.", "county": "HR-18"},
   {"id": "croatia-sestanovac-cities-v2", "type": "city", "parent": "HR", "coords": [16.91, 43.45], "population": 1669, "name": {"de": "Šestanovac", "hu": "Šestanovac", "ro": "Šestanovac", "en": "Šestanovac"}, "description": {"de": "Šestanovac ist ein Verkehrsknotenpunkt im dalmatinischen Hinterland, am Rande des Biokovo-Gebirges und nahe der Schlucht der Cetina.", "hu": "Šestanovac egy közlekedési csomópont a dalmát hátországban, a Biokovo-hegység szélén, a Cetina-folyó kanyonjának közelében.", "ro": "Šestanovac este un nod rutier important în interiorul Dalmației, situat la marginea muntelui Biokovo și aproape de canionul râului Cetina.", "en": "Šestanovac is a transportation hub in the Dalmatian hinterland, located at the edge of the Biokovo mountain and near the Cetina canyon."}, "descriptionAdvanced": {"de": "Šestanovac liegt strategisch günstig im Hinterland der Makarska Riviera, dort wo die Autobahn A1 auf die Straßen zum Meer trifft. Die Gemeinde ist geprägt von der rauen Schönheit der Karstlandschaft und bietet spektakuläre Ausblicke auf das Biokovo-Gebirge. Historisch war der Ort ein wichtiger Rastplatz für Reisende und Händler, die zwischen der Küste und dem Landesinneren verkehrten. Heute ist Šestanovac vor allem als Ausgangspunkt für Abenteuersportarten bekannt.\n\nNur wenige Kilometer entfernt bietet die Schlucht des Flusses Cetina Möglichkeiten für Rafting, Canyoning und Kanufahren. Die unberührte Natur rund um den Ort lädt zu Wanderungen und Mountainbike-Touren ein. Ein architektonisches Wahrzeichen ist die moderne Pfarrkirche der Heiligen Petrus und Paulus, die das Zentrum des Dorfes bildet. Die Gegend ist auch für ihre traditionelle Viehzucht bekannt, wobei Lammfleisch vom Grill eine lokale Spezialität ist.\n\nBesucher schätzen Šestanovac für seine Authentizität abseits der touristischen Hauptwege. Der wöchentliche Markt im nahegelegenen Zadvarje (Dienstags) ist ein Erlebnis, bei dem man lokale Produkte und Handwerkskunst erwerben kann. Durch die hohe Lage bietet der Ort auch im Sommer ein angenehmeres Klima als die heiße Küste. Für Reisende ist Šestanovac oft der erste Berührungspunkt mit der wilden, ursprünglichen Seite Dalmatiens.", "hu": "Šestanovac stratégiai helyen fekszik a Makarska Riviéra hátországában, ahol az A1-es autópálya találkozik a tengerhez vezető utakkal. A község képét a karsztvidék nyers szépsége és a Biokovo-hegységre nyíló látvány határozza meg. Történelmileg fontos pihenőhely volt az utazók és kereskedők számára, akik a partvidék és a szárazföld belseje között közlekedtek. Ma Šestanovac leginkább az extrém sportok kedvelőinek kiindulópontjaként ismert.\n\nMindössze néhány kilométerre található a Cetina-folyó kanyonja, amely raftingra, kanyoningra és kenuzásra ad lehetőséget. A település körüli érintetlen természet kiváló túra- és hegyikerékpár-útvonalakat kínál. Építészeti látnivalója a falu központjában álló Szent Péter és Pál plébániatemplom. A környék híres a hagyományos állattenyésztéséről, a helyi éttermek specialitása a nyárson sült bárányhús.\n\nA látogatók Šestanovacot az eredetisége miatt kedvelik, messze a fősodratú turizmustól. A közeli Zadvarje keddi piaca kihagyhatatlan élmény, ahol helyi termékeket és kézműves árukat vásárolhatunk. Magas fekvésének köszönhetően a nyári hőségben is kellemesebb itt a levegő, mint a parton. Az utazók számára Šestanovac gyakran az első találkozást jelenti Dalmácia vadabb, ősi arcával.", "ro": "Šestanovac ocupă o poziție strategică în hinterlandul Rivierei Makarska, acolo unde autostrada A1 se intersectează cu drumurile care coboară spre mare. Comuna este definită de frumusețea aspră a reliefului carstic și oferă panorame spectaculoase spre muntele Biokovo. Istoric, localitatea a fost un loc de popas crucial pentru călătorii și comercianții care circulau între coastă și interior. Astăzi, Šestanovac este cunoscut în special ca bază pentru sporturi de aventură.\n\nLa doar câțiva kilometri distanță, canionul râului Cetina oferă oportunități excelente pentru rafting, canyoning și canoe. Natura virgină din jurul localității invită la drumeții și trasee de mountain bike. Un simbol arhitectural local este biserica parohială Sfântul Petru și Pavel, care domină centrul satului. Regiunea este renumită pentru creșterea tradițională a animalelor, mielul la proțap fiind o specialitate locală obligatoriu de gustat.\n\nVizitatorii apreciază Šestanovac pentru autenticitatea sa, departe de rutele turistice principale. Piața săptămânală din satul vecin Zadvarje (în fiecare marți) este o experiență culturală unde se pot găsi produse locale și obiecte de artizanat. Datorită altitudinii, clima de aici este mai suportabilă în timpul verii decât cea de pe malul mării. Pentru călători, Šestanovac reprezintă adesea prima interacțiune cu latura sălbatică și ancestrală a Dalmației.", "en": "Šestanovac is strategically located in the hinterland of the Makarska Riviera, where the A1 motorway intersects with roads leading to the sea. The municipality is defined by the rugged beauty of the karst landscape and offers spectacular views of the Biokovo mountain range. Historically, it was a vital resting point for travelers and merchants moving between the coast and the interior. Today, Šestanovac is primarily known as a gateway for adventure sports.\n\nJust a few kilometers away, the Cetina River canyon provides thrills such as rafting, canyoning, and canoeing. The untouched nature surrounding the village is perfect for hiking and mountain biking. A local architectural landmark is the modern Parish Church of Saints Peter and Paul, which stands at the center of the village. The area is also famous for its traditional livestock farming, with spit-roasted lamb being a prized local specialty.\n\nVisitors appreciate Šestanovac for its authenticity, far from the beaten tourist tracks. The weekly market in nearby Zadvarje (held every Tuesday) is a cultural highlight where one can find local produce and handicrafts. Thanks to its higher elevation, the climate here remains more comfortable during the summer heat than on the coast. For many travelers, Šestanovac is their first encounter with the wild and original side of Dalmatia."}, "facts": {"de": ["Wichtiger Autobahnknoten (A1)", "Tor zum Biokovo-Gebirge", "Nähe zum Cetina-Fluss", "Zentrum für Abenteuersport", "Traditionelle Viehzuchtregion", "Spektakuläre Karstlandschaft", "Dienstagsmarkt in Zadvarje", "Kirche Sv. Petar i Pavao"], "hu": ["Fontos autópálya-csomópont (A1)", "A Biokovo-hegység kapuja", "Közel a Cetina-folyóhoz", "Kalandturizmus központja", "Hagyományos állattartó vidék", "Látványos karsztvidéki táj", "Keddi piac Zadvarjéban", "Szent Péter és Pál templom"], "ro": ["Nod rutier important pe A1", "Poarta către muntele Biokovo", "Aproape de râul Cetina", "Centru pentru sporturi de aventură", "Regiune tradițională de oierit", "Peisaj carstic spectaculos", "Piața de marți din Zadvarje", "Biserica Sf. Petru și Pavel"], "en": ["Key motorway junction (A1)", "Gateway to Biokovo Mountain", "Proximity to Cetina River", "Hub for adventure sports", "Traditional livestock region", "Spectacular karst landscape", "Weekly market in Zadvarje", "Church of St. Peter and Paul"]}, "sights": {
       "de": [
@@ -10267,6 +10492,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein lokaler Kiesstrand in Miljevac, ideal zum Schwimmen und Entspannen an der Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht in der Nähe von Stobreč, die für ihr ruhiges Wasser und ihre natürliche Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt in Miljevac, der einen weiten Panoramablick über das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -10277,6 +10529,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Helyi kavicsos strand Miljevacban, amely ideális úszáshoz és pihenéshez az Adriai-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Gleccseröböl Stobreč közelében, amely nyugodt vizéről és természetes környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátóhely Miljevacban, ahonnan széles körpanoráma nyílik a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -10289,6 +10568,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă locală cu prundiş în Miljevac, ideală pentru înot și relaxare pe coasta Adriaticii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc lângă Stobreč, cunoscut pentru apele sale liniștite și cadrul natural.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de observație în Miljevac, care oferă o vedere panoramică largă asupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -10299,6 +10605,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A local pebble beach in Miljevac, ideal for swimming and relaxing on the Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A scenic bay near Stobreč, known for its calm waters and natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint in Miljevac offering a wide panoramic view over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -11577,6 +11910,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein lokaler Kiesstrand in der Nähe von Žminjača, ideal zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht an der kroatischen Küste bei Žminjača.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Meer bei Žminjača.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -11605,6 +11965,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Kavicsos strand Žminjača közelében, amely ideális fürdőzésre.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Gleccser vájta festői öböl a horvát tengerparton, Žminjača közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátópont Žminjača közelében, ahonnan pazar kilátás nyílik a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -11635,6 +12022,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă locală cu pietriș lângă Žminjača, ideală pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc pe coasta croată, situat lângă Žminjača.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de observație cu vedere panoramică asupra mării lângă Žminjača.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -11663,6 +12077,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A local pebble beach near Žminjača, ideal for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A picturesque bay on the Croatian coast near Žminjača.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint offering wide sea views near Žminjača.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -13107,6 +13548,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein ruhiger Kieselstrand in Podstrana, ideal zum Schwimmen in der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht bei Podstrana mit klarem Wasser und schöner Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt, der einen weiten Panoramablick über das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -13117,6 +13585,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Csendes kavicsos strand Podstranában, ideális az adriai úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Festői öböl Podstrana közelében, tiszta vízzel és szép kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátópont, amely széles panorámás kilátást nyújt a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -13129,6 +13624,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă liniștită cu prundiş în Podstrana, ideală pentru înot în Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc lângă Podstrana, cu ape limpezi și priveliști frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică largă asupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -13139,6 +13661,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A quiet pebble beach in Podstrana, ideal for swimming in the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A picturesque bay near Podstrana with clear water and beautiful views.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint offering a wide panoramic vista over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -22242,6 +22791,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein Kieselstrand in Kroatien, der für sein sauberes Wasser und seine familienfreundliche Atmosphäre geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine weite Meeresbucht bei Stobreč, die durch ihre flachen Ufer und natürliche Schönheit besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt in der Nähe von Grbavac, der einen weiten Blick über die Adria bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -22252,6 +22828,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Horvátországi kavicsos tengerpart, amelyet tiszta vize és családbarát légköre miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Tágas tengeröböl Stobreč közelében, amely sekély partjaival és természeti szépségével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátóhely Grbavac közelében, amely széles kilátást nyújt az Adriai-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -22264,6 +22867,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă cu pietriș din Croația, apreciată pentru apele sale curate și atmosfera potrivită pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf marin larg lângă Stobreč, remarcat prin țărmurile sale puțin adânci și frumusețea naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de observație lângă Grbavac, oferind o vedere panoramică asupra Mării Adriatice.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -22274,6 +22904,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A pebble beach in Croatia, appreciated for its clean water and family-friendly atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A wide sea bay near Stobreč, notable for its shallow shores and natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint near Grbavac, offering a wide view over the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -26169,6 +26826,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Plaža Grljevac ist ein Kieselstrand an der dalmatinischen Küste bei Strožanac Gornji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Die Uvala Stobreč ist eine malerische Bucht an der Adria bei Strožanac Gornji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt in Strožanac Gornji, der einen weiten Blick über die Adria bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -26179,6 +26863,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A Plaža Grljevac egy kavicsos tengerpart a dalmát partvidéken, Strožanac Gornji közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Az Uvala Stobreč egy festői öböl az Adria partján, Strožanac Gornji közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Egy kilátópont Strožanac Gornjiban, ahonnan széles kilátás nyílik az Adriai-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -26191,6 +26902,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Plaža Grljevac este o plajă de pietriș de pe coasta dalmată, lângă Strožanac Gornji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Uvala Stobreč este un golf pitoresc la Marea Adriatică, lângă Strožanac Gornji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de belvedere în Strožanac Gornji, oferind o vedere amplă asupra Mării Adriatice.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -26201,6 +26939,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Plaža Grljevac is a pebble beach on the Dalmatian coast near Strožanac Gornji.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Uvala Stobreč is a scenic bay on the Adriatic Sea near Strožanac Gornji.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint in Strožanac Gornji offering broad views over the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -41918,6 +42683,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein Kiesstrand in Mutogras, ideal zum Schwimmen und Entspannen am Adriatischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht bei Mutogras, bekannt für ihr klares Wasser und ihre natürliche Schönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein Aussichtspunkt in Mutogras, der einen weiten Panoramablick über das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -41928,6 +42720,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Kavicsos strand Mutograsban, amely ideális úszáshoz és pihenéshez az Adriai-tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Gleccseröböl Mutogras közelében, amely tiszta vizéről és természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátópont Mutograsban, ahonnan széles panoráma nyílik a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -41940,6 +42759,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă cu pietriș în Mutogras, ideală pentru înot și relaxare la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc lângă Mutogras, cunoscut pentru apa sa limpede și frumusețea naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de observație în Mutogras, care oferă o vedere panoramică largă asupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -41950,6 +42796,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A pebble beach in Mutogras, ideal for swimming and relaxing by the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A scenic bay near Mutogras known for its clear water and natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A viewpoint in Mutogras offering a wide panoramic view over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -51301,6 +52174,33 @@ export const poiExtraHrV3: POI[] = [
                         16.875208,
                         43.530642
                   ]
+            },
+            {
+                  "name": "Nekropola Crljivica",
+                  "text": "Eine bedeutende mittelalterliche Nekropole mit UNESCO-geschützten Stećci-Grabsteinen.",
+                  "category": "historical",
+                  "coords": [
+                        16.927272,
+                        43.515407
+                  ]
+            },
+            {
+                  "name": "Mala Crljivica",
+                  "text": "Teil der archäologischen Stätte Crljivica mit mittelalterlichen Grabsteinen.",
+                  "category": "historical",
+                  "coords": [
+                        16.924475,
+                        43.516747
+                  ]
+            },
+            {
+                  "name": "Stećak",
+                  "text": "Ein für die Region charakteristischer mittelalterlicher monumentaler Grabstein.",
+                  "category": "landmark",
+                  "coords": [
+                        16.983977,
+                        43.490131
+                  ]
             }
       ],
       "hu": [
@@ -51311,6 +52211,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.875208,
                         43.530642
+                  ]
+            },
+            {
+                  "name": "Nekropola Crljivica",
+                  "text": "Jelentős középkori nekropolisz az UNESCO listáján szereplő stećak sírkövekkel.",
+                  "category": "historical",
+                  "coords": [
+                        16.927272,
+                        43.515407
+                  ]
+            },
+            {
+                  "name": "Mala Crljivica",
+                  "text": "A Crljivica régészeti lelőhely része, amely középkori sírköveket mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        16.924475,
+                        43.516747
+                  ]
+            },
+            {
+                  "name": "Stećak",
+                  "text": "A régióra jellemző monumentális középkori sírkő.",
+                  "category": "landmark",
+                  "coords": [
+                        16.983977,
+                        43.490131
                   ]
             }
       ],
@@ -51323,6 +52250,33 @@ export const poiExtraHrV3: POI[] = [
                         16.875208,
                         43.530642
                   ]
+            },
+            {
+                  "name": "Nekropola Crljivica",
+                  "text": "O necropolă medievală importantă cu pietre funerare stećci incluse în lista UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        16.927272,
+                        43.515407
+                  ]
+            },
+            {
+                  "name": "Mala Crljivica",
+                  "text": "Parte a sitului arheologic Crljivica, care cuprinde pietre funerare medievale.",
+                  "category": "historical",
+                  "coords": [
+                        16.924475,
+                        43.516747
+                  ]
+            },
+            {
+                  "name": "Stećak",
+                  "text": "O piatră funerară monumentală medievală, caracteristică regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        16.983977,
+                        43.490131
+                  ]
             }
       ],
       "en": [
@@ -51333,6 +52287,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.875208,
                         43.530642
+                  ]
+            },
+            {
+                  "name": "Nekropola Crljivica",
+                  "text": "A significant medieval necropolis with UNESCO-listed stećci tombstones.",
+                  "category": "historical",
+                  "coords": [
+                        16.927272,
+                        43.515407
+                  ]
+            },
+            {
+                  "name": "Mala Crljivica",
+                  "text": "Part of the Crljivica archaeological site featuring medieval tombstones.",
+                  "category": "historical",
+                  "coords": [
+                        16.924475,
+                        43.516747
+                  ]
+            },
+            {
+                  "name": "Stećak",
+                  "text": "A medieval monumental tombstone characteristic of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.983977,
+                        43.490131
                   ]
             }
       ]
@@ -91585,6 +92566,24 @@ export const poiExtraHrV3: POI[] = [
                         15.422678,
                         45.04973
                   ]
+            },
+            {
+                  "name": "Plaška glava",
+                  "text": "Gipfel in Kroatien mit Aussicht auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        15.394328,
+                        45.046457
+                  ]
+            },
+            {
+                  "name": "stari grad Plaški",
+                  "text": "Ruinen der alten Festung und Siedlung von Plaški.",
+                  "category": "historical",
+                  "coords": [
+                        15.381437,
+                        45.053733
+                  ]
             }
       ],
       "hu": [
@@ -91595,6 +92594,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.422678,
                         45.04973
+                  ]
+            },
+            {
+                  "name": "Plaška glava",
+                  "text": "Hegycsúcs Horvátországban, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        15.394328,
+                        45.046457
+                  ]
+            },
+            {
+                  "name": "stari grad Plaški",
+                  "text": "Plaški régi várának és településének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        15.381437,
+                        45.053733
                   ]
             }
       ],
@@ -91607,6 +92624,24 @@ export const poiExtraHrV3: POI[] = [
                         15.422678,
                         45.04973
                   ]
+            },
+            {
+                  "name": "Plaška glava",
+                  "text": "Vârf muntos din Croația, oferind vedere asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        15.394328,
+                        45.046457
+                  ]
+            },
+            {
+                  "name": "stari grad Plaški",
+                  "text": "Ruinele vechii cetăți și așezări din Plaški.",
+                  "category": "historical",
+                  "coords": [
+                        15.381437,
+                        45.053733
+                  ]
             }
       ],
       "en": [
@@ -91617,6 +92652,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.422678,
                         45.04973
+                  ]
+            },
+            {
+                  "name": "Plaška glava",
+                  "text": "Mountain peak in Croatia with views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        15.394328,
+                        45.046457
+                  ]
+            },
+            {
+                  "name": "stari grad Plaški",
+                  "text": "Ruins of the old fortress and settlement of Plaški.",
+                  "category": "historical",
+                  "coords": [
+                        15.381437,
+                        45.053733
                   ]
             }
       ]
@@ -107389,6 +108442,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Ein Kiesstrand im Gebiet Grljevac, der klares Wasser und Entspannung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Eine malerische Bucht bei Stobreč, bekannt für ihre angenehme Küstenumgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Ein ausgewiesener Aussichtspunkt in Gornja Podstrana mit Blick auf die Adria.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "hu": [
@@ -107399,6 +108479,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "Kavicsos strand Grljevac környékén, amely tiszta vizet és kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Festői öböl Stobreč közelében, amely kellemes tengerparti környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Kilátóhely Gornja Podstranában, ahonnan panoráma nyílik az Adriai-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ],
@@ -107411,6 +108518,33 @@ export const poiExtraHrV3: POI[] = [
                         16.518097,
                         43.500237
                   ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "O plajă cu pietriș din zona Grljevac, care oferă ape limpezi și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "Un golf pitoresc lângă Stobreč, cunoscut pentru mediul său de coastă plăcut.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "Un punct de belvedere în Gornja Podstrana, cu vederi panoramice spre Marea Adriatică.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
+                  ]
             }
       ],
       "en": [
@@ -107421,6 +108555,33 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.518097,
                         43.500237
+                  ]
+            },
+            {
+                  "name": "Plaža Grljevac",
+                  "text": "A pebble beach in the Grljevac area offering clear waters and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.553957,
+                        43.482302
+                  ]
+            },
+            {
+                  "name": "Uvala Stobreč",
+                  "text": "A scenic bay near Stobreč, known for its pleasant coastal environment.",
+                  "category": "landmark",
+                  "coords": [
+                        16.52916,
+                        43.500341
+                  ]
+            },
+            {
+                  "name": "Panoramic sea view",
+                  "text": "A designated viewpoint in Gornja Podstrana with vistas of the Adriatic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        16.521164,
+                        43.499338
                   ]
             }
       ]
@@ -120925,7 +122086,124 @@ export const poiExtraHrV3: POI[] = [
       en: ["Municipality: Kršan", "Region: Labinština, East Istria", "Soil type: Fertile Terra Rossa", "Land use: Vineyards and orchards", "Atmosphere: Rural and peaceful", "Proximity: Near the Učka mountain range"],
     },
   },
-  {"id": "croatia-perusic-donji-cities-v2", "type": "city", "parent": "HR", "coords": [15.6369, 44.0075], "population": 101, "name": {"de": "Perušić Donji", "hu": "Perušić Donji", "ro": "Perušić Donji", "en": "Perušić Donji"}, "description": {"de": "Ein idyllisches Dorf in der fruchtbaren Ebene von Ravni Kotari, bekannt für Landwirtschaft und historische Überreste.", "hu": "Idilli falu a Ravni Kotari termékeny síkságán, amely mezőgazdaságáról és történelmi maradványairól ismert.", "ro": "Un sat idilic în câmpia fertilă Ravni Kotari, cunoscut pentru agricultură și vestigii istorice.", "en": "An idyllic village in the fertile plain of Ravni Kotari, known for agriculture and historical remains."}, "descriptionAdvanced": {"de": "Perušić Donji liegt im Herzen der Region Ravni Kotari, unweit der Stadt Benkovac. Die Gegend ist eine der fruchtbarsten in Norddalmatien, was sich in den weiten Weinbergen und Olivenhainen widerspiegelt. Historisch gesehen ist der Ort eng mit der Festung Perušić verbunden, deren Ruinen über dem Dorf thronen. In der unmittelbaren Umgebung befinden sich auch die Überreste der antiken Stadt Asseria, ein bedeutendes archäologisches Ziel. Die Besucher können hier hausgemachten Wein und hochwertiges Olivenöl direkt von den Erzeugern probieren. Die flache Landschaft eignet sich hervorragend für ausgedehnte Spaziergänge oder Radtouren durch die Felder. Durch die Nähe zur Autobahn A1 ist das Dorf leicht erreichbar und bietet eine ruhige Alternative zum Küstentourismus von Zadar.", "hu": "Perušić Donji a Ravni Kotari régió szívében fekszik, nem messze Benkovac városától. A környék Észak-Dalmácia egyik legtermékenyebb területe, ami a kiterjedt szőlőültetvényekben és olajfaligetekben is tükröződik. Történelmileg a település szorosan kötődik Perušić várához, amelynek romjai a falu felett magasodnak. A közvetlen közelben találhatók Asseria ókori városának maradványai is, amely jelentős régészeti célpont. A látogatók itt házi bort és kiváló minőségű olívaolajat kóstolhatnak közvetlenül a termelőktől. A sík táj kiválóan alkalmas hosszú sétákra vagy kerékpártúrákra a mezőkön keresztül. Az A1-es autópálya közelsége révén a falu könnyen megközelíthető, és csendes alternatívát kínál Zadar tengerparti turizmusával szemben.", "ro": "Perušić Donji este situat în inima regiunii Ravni Kotari, nu departe de orașul Benkovac. Zona este una dintre cele mai fertile din Dalmația de Nord, fapt reflectat în podgoriile întinse și livezile de măslini. Din punct de vedere istoric, localitatea este strâns legată de cetatea Perušić, ale cărei ruine domină satul. În imediata apropiere se află și resturile orașului antic Asseria, o destinație arheologică importantă. Vizitatorii pot degusta aici vin de casă și ulei de măsline de înaltă calitate direct de la producători. Peisajul plan este ideal pentru plimbări lungi sau excursii cu bicicleta prin câmpuri. Datorită proximității de autostrada A1, satul este ușor accesibil și oferă o alternativă liniștită la turismul de coastă din Zadar.", "en": "Perušić Donji is located in the heart of the Ravni Kotari region, not far from the town of Benkovac. The area is one of the most fertile in Northern Dalmatia, reflected in its extensive vineyards and olive groves. Historically, the settlement is closely linked to the Perušić fortress, whose ruins tower above the village. In the immediate vicinity lie the remains of the ancient city of Asseria, a significant archaeological destination. Visitors can taste homemade wine and high-quality olive oil directly from the producers. The flat landscape is excellent for long walks or bike rides through the fields. Due to its proximity to the A1 highway, the village is easily accessible and offers a quiet alternative to the coastal tourism of Zadar."}, "facts": {"de": ["Region Ravni Kotari", "Festungsruine Perušić", "Nähe zu Benkovac", "Weinbauzentrum", "Antike Asseria nahebei", "Fruchtbare Ackerböden", "Ruhe abseits der Küste", "Zadar Hinterland"], "hu": ["Ravni Kotari régió", "Perušić várrom", "Benkovac közelsége", "Bortermelő központ", "Ókori Asseria a közelben", "Termékeny szántóföldek", "Csend a parttól távol", "Zadari hátország"], "ro": ["Regiunea Ravni Kotari", "Ruinele cetății Perušić", "Aproape de Benkovac", "Centru viticol", "Antica Asseria în apropiere", "Terenuri agricole fertile", "Liniște departe de coastă", "Hinterlandul Zadarului"], "en": ["Ravni Kotari region", "Perušić fortress ruins", "Near Benkovac", "Wine production center", "Ancient Asseria nearby", "Fertile farmlands", "Quiet away from coast", "Zadar hinterland"]}, "imageHint": "Vineyards and olive groves surrounding a small village with a ruined fortress on a hill.", "county": "HR-13"},
+  {"id": "croatia-perusic-donji-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asseria",
+                  "text": "Die archäologischen Überreste einer antiken liburnischen und römischen Stadt bei Perušić Donji.",
+                  "category": "castle",
+                  "coords": [
+                        15.668595,
+                        44.010085
+                  ]
+            },
+            {
+                  "name": "cipusi",
+                  "text": "Eine archäologische Fundstätte bei Perušić Donji mit antiken Steinmonumenten.",
+                  "category": "historical",
+                  "coords": [
+                        15.666156,
+                        44.011037
+                  ]
+            },
+            {
+                  "name": "Asseria - istočni ulaz",
+                  "text": "Das östliche Stadttor der antiken Ausgrabungsstätte Asseria bei Perušić Donji.",
+                  "category": "historical",
+                  "coords": [
+                        15.669869,
+                        44.009812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asseria",
+                  "text": "Egy ókori liburn és római város régészeti maradványai Perušić Donji közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.668595,
+                        44.010085
+                  ]
+            },
+            {
+                  "name": "cipusi",
+                  "text": "Régészeti lelőhely Perušić Donji közelében, ókori kőemlékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        15.666156,
+                        44.011037
+                  ]
+            },
+            {
+                  "name": "Asseria - istočni ulaz",
+                  "text": "Az ókori Asseria régészeti lelőhely keleti városkapuja Perušić Donji közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.669869,
+                        44.009812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asseria",
+                  "text": "Rămășițele arheologice ale unui antic oraș liburnian și roman lângă Perušić Donji.",
+                  "category": "castle",
+                  "coords": [
+                        15.668595,
+                        44.010085
+                  ]
+            },
+            {
+                  "name": "cipusi",
+                  "text": "Un sit arheologic lângă Perušić Donji, prezentând monumente antice din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        15.666156,
+                        44.011037
+                  ]
+            },
+            {
+                  "name": "Asseria - istočni ulaz",
+                  "text": "Poarta de est a sitului arheologic antic Asseria, lângă Perušić Donji.",
+                  "category": "historical",
+                  "coords": [
+                        15.669869,
+                        44.009812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asseria",
+                  "text": "The archaeological remains of an ancient Liburnian and Roman city near Perušić Donji.",
+                  "category": "castle",
+                  "coords": [
+                        15.668595,
+                        44.010085
+                  ]
+            },
+            {
+                  "name": "cipus",
+                  "text": "An archaeological site near Perušić Donji featuring ancient stone monuments.",
+                  "category": "historical",
+                  "coords": [
+                        15.666156,
+                        44.011037
+                  ]
+            },
+            {
+                  "name": "Asseria - eastern town gate",
+                  "text": "The eastern town gate of the ancient Asseria archaeological site near Perušić Donji.",
+                  "category": "historical",
+                  "coords": [
+                        15.669869,
+                        44.009812
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "HR", "coords": [15.6369, 44.0075], "population": 101, "name": {"de": "Perušić Donji", "hu": "Perušić Donji", "ro": "Perušić Donji", "en": "Perušić Donji"}, "description": {"de": "Ein idyllisches Dorf in der fruchtbaren Ebene von Ravni Kotari, bekannt für Landwirtschaft und historische Überreste.", "hu": "Idilli falu a Ravni Kotari termékeny síkságán, amely mezőgazdaságáról és történelmi maradványairól ismert.", "ro": "Un sat idilic în câmpia fertilă Ravni Kotari, cunoscut pentru agricultură și vestigii istorice.", "en": "An idyllic village in the fertile plain of Ravni Kotari, known for agriculture and historical remains."}, "descriptionAdvanced": {"de": "Perušić Donji liegt im Herzen der Region Ravni Kotari, unweit der Stadt Benkovac. Die Gegend ist eine der fruchtbarsten in Norddalmatien, was sich in den weiten Weinbergen und Olivenhainen widerspiegelt. Historisch gesehen ist der Ort eng mit der Festung Perušić verbunden, deren Ruinen über dem Dorf thronen. In der unmittelbaren Umgebung befinden sich auch die Überreste der antiken Stadt Asseria, ein bedeutendes archäologisches Ziel. Die Besucher können hier hausgemachten Wein und hochwertiges Olivenöl direkt von den Erzeugern probieren. Die flache Landschaft eignet sich hervorragend für ausgedehnte Spaziergänge oder Radtouren durch die Felder. Durch die Nähe zur Autobahn A1 ist das Dorf leicht erreichbar und bietet eine ruhige Alternative zum Küstentourismus von Zadar.", "hu": "Perušić Donji a Ravni Kotari régió szívében fekszik, nem messze Benkovac városától. A környék Észak-Dalmácia egyik legtermékenyebb területe, ami a kiterjedt szőlőültetvényekben és olajfaligetekben is tükröződik. Történelmileg a település szorosan kötődik Perušić várához, amelynek romjai a falu felett magasodnak. A közvetlen közelben találhatók Asseria ókori városának maradványai is, amely jelentős régészeti célpont. A látogatók itt házi bort és kiváló minőségű olívaolajat kóstolhatnak közvetlenül a termelőktől. A sík táj kiválóan alkalmas hosszú sétákra vagy kerékpártúrákra a mezőkön keresztül. Az A1-es autópálya közelsége révén a falu könnyen megközelíthető, és csendes alternatívát kínál Zadar tengerparti turizmusával szemben.", "ro": "Perušić Donji este situat în inima regiunii Ravni Kotari, nu departe de orașul Benkovac. Zona este una dintre cele mai fertile din Dalmația de Nord, fapt reflectat în podgoriile întinse și livezile de măslini. Din punct de vedere istoric, localitatea este strâns legată de cetatea Perušić, ale cărei ruine domină satul. În imediata apropiere se află și resturile orașului antic Asseria, o destinație arheologică importantă. Vizitatorii pot degusta aici vin de casă și ulei de măsline de înaltă calitate direct de la producători. Peisajul plan este ideal pentru plimbări lungi sau excursii cu bicicleta prin câmpuri. Datorită proximității de autostrada A1, satul este ușor accesibil și oferă o alternativă liniștită la turismul de coastă din Zadar.", "en": "Perušić Donji is located in the heart of the Ravni Kotari region, not far from the town of Benkovac. The area is one of the most fertile in Northern Dalmatia, reflected in its extensive vineyards and olive groves. Historically, the settlement is closely linked to the Perušić fortress, whose ruins tower above the village. In the immediate vicinity lie the remains of the ancient city of Asseria, a significant archaeological destination. Visitors can taste homemade wine and high-quality olive oil directly from the producers. The flat landscape is excellent for long walks or bike rides through the fields. Due to its proximity to the A1 highway, the village is easily accessible and offers a quiet alternative to the coastal tourism of Zadar."}, "facts": {"de": ["Region Ravni Kotari", "Festungsruine Perušić", "Nähe zu Benkovac", "Weinbauzentrum", "Antike Asseria nahebei", "Fruchtbare Ackerböden", "Ruhe abseits der Küste", "Zadar Hinterland"], "hu": ["Ravni Kotari régió", "Perušić várrom", "Benkovac közelsége", "Bortermelő központ", "Ókori Asseria a közelben", "Termékeny szántóföldek", "Csend a parttól távol", "Zadari hátország"], "ro": ["Regiunea Ravni Kotari", "Ruinele cetății Perušić", "Aproape de Benkovac", "Centru viticol", "Antica Asseria în apropiere", "Terenuri agricole fertile", "Liniște departe de coastă", "Hinterlandul Zadarului"], "en": ["Ravni Kotari region", "Perušić fortress ruins", "Near Benkovac", "Wine production center", "Ancient Asseria nearby", "Fertile farmlands", "Quiet away from coast", "Zadar hinterland"]}, "imageHint": "Vineyards and olive groves surrounding a small village with a ruined fortress on a hill.", "county": "HR-13"},
   {"id": "croatia-rogovici-cities-v2", "type": "city", "parent": "HR", "coords": [13.652, 45.312], "population": 101, "name": {"de": "Rogovići", "hu": "Rogovići", "ro": "Rogovići", "en": "Rogovići"}, "description": {"de": "Ein malerischer kleiner Ort in Westistrien, umgeben von roter Erde und erstklassigen Weingütern in der Nähe von Kaštelir.", "hu": "Gleccsermentes, festői kistelepülés Nyugat-Isztrián, vörös földdel és kiváló borászatokkal körülvéve, Kaštelir közelében.", "ro": "O localitate mică și pitorească în Istria de Vest, înconjurată de pământ roșu și crame de primă clasă lângă Kaštelir.", "en": "A picturesque small village in Western Istria, surrounded by red soil and top-quality wineries near Kaštelir."}, "descriptionAdvanced": {"de": "Rogovići ist ein typisches Beispiel für ein istrisches Dorf auf der 'roten Erde' (Terra Rossa). Es liegt in der Gemeinde Kaštelir-Labinci, einer Region, die für ihr hervorragendes Olivenöl und ihre Weine weltbekannt ist. Das Dorf bietet eine fantastische Aussicht auf die Adria in der Ferne, während es selbst inmitten von Grün eingebettet ist. Die Architektur ist traditionell istrisch, mit vielen sorgfältig restaurierten Steinhäusern, die heute oft als exklusive Ferienvillen dienen. Für Aktivurlauber gibt es zahlreiche Wege zum Wandern und Radfahren, darunter Abschnitte, die an die berühmte Parenzana-Route erinnern. Die Nähe zu touristischen Zentren wie Poreč oder Novigrad macht Rogovići zu einem perfekten Ort für diejenigen, die die Ruhe des Landes suchen, aber dennoch schnell am Meer sein möchten.", "hu": "Rogovići az isztriai „vörös földön” (Terra Rossa) fekvő falu tipikus példája. Kaštelir-Labinci községben található, egy olyan régióban, amely kiváló olívaolajáról és borairól világszerte ismert. A falu fantasztikus kilátást nyújt a távoli Adriai-tengerre, miközben maga zöld környezetbe ágyazódik. Az építészet hagyományos isztriai, sok gondosan felújított kőházzal, amelyek ma gyakran exkluzív üdülővillaként szolgálnak. Az aktív nyaralók számára számos túra- és kerékpárút áll rendelkezésre, köztük a híres Parenzana útvonalra emlékeztető szakaszok. A Poreč vagy Novigrad típusú turisztikai központok közelsége Rogovići-t tökéletes hellyé teszi azok számára, akik a vidék nyugalmát keresik, de mégis gyorsan a tengerpartra szeretnének érni.", "ro": "Rogovići este un exemplu tipic de sat istrian pe „pământ roșu” (Terra Rossa). Se află în comuna Kaštelir-Labinci, o regiune renumită mondial pentru uleiul de măsline și vinurile sale excelente. Satul oferă o vedere fantastică spre Marea Adriatică în depărtare, în timp ce el însuși este scufundat în verdeață. Arhitectura este tradițional istriană, cu multe case de piatră restaurate cu grijă, care astăzi servesc adesea ca vile de vacanță exclusive. Pentru turiștii activi există numeroase trasee de drumeție și ciclism, inclusiv secțiuni care amintesc de celebra rută Parenzana. Proximitatea de centre turistice precum Poreč sau Novigrad face din Rogovići un loc perfect pentru cei care caută liniștea rurală, dar doresc să ajungă rapid la mare.", "en": "Rogovići is a typical example of an Istrian village on 'red soil' (Terra Rossa). It is located in the Kaštelir-Labinci municipality, a region world-renowned for its excellent olive oil and wines. The village offers a fantastic view of the Adriatic Sea in the distance, while being nestled in greenery. The architecture is traditional Istrian, with many carefully restored stone houses that today often serve as exclusive holiday villas. For active vacationers, there are numerous paths for hiking and cycling, including sections reminiscent of the famous Parenzana route. The proximity to tourist centers like Poreč or Novigrad makes Rogovići a perfect place for those seeking rural peace but still wanting to reach the sea quickly."}, "facts": {"de": ["Westistrische Lage", "Terra Rossa Böden", "Kaštelir-Labinci Gemeinde", "Hochwertiges Olivenöl", "Traditionelle Steinhäuser", "Blick auf die Adria", "Nähe zu Poreč", "Exklusive Ferienvillen"], "hu": ["Nyugat-isztriai fekvés", "Terra Rossa talaj", "Kaštelir-Labinci község", "Kiváló olívaolaj", "Hagyományos kőházak", "Kilátás az Adriára", "Poreč közelsége", "Exkluzív üdülővillák"], "ro": ["Locație în Istria de Vest", "Soluri Terra Rossa", "Comuna Kaštelir-Labinci", "Ulei de măsline de calitate", "Case tradiționale de piatră", "Vedere spre Marea Adriatică", "Aproape de Poreč", "Vile de vacanță exclusive"], "en": ["Western Istrian location", "Terra Rossa soils", "Kaštelir-Labinci municipality", "High-quality olive oil", "Traditional stone houses", "Views of the Adriatic", "Proximity to Poreč", "Exclusive holiday villas"]}, "imageHint": "Scenic Istrian village surrounded by red soil vineyards and olive groves with the sea in the distance.", "county": "HR-18"},
   {"id": "croatia-trolokve-cities-v2", "sights": {
       "de": [

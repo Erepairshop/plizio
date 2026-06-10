@@ -12811,6 +12811,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.262311,
                         47.107553
                   ]
+            },
+            {
+                  "name": "Kloster Rathausen",
+                  "text": "Ehemaliges Zisterzienserinnenkloster mit einer bedeutenden Geschichte in der Region Emmen.",
+                  "category": "religious",
+                  "coords": [
+                        8.311948,
+                        47.080219
+                  ]
             }
       ],
       "hu": [
@@ -13226,6 +13235,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.262311,
                         47.107553
+                  ]
+            },
+            {
+                  "name": "Kloster Rathausen",
+                  "text": "Egykori ciszterci apácakolostor, amely jelentős történelmi múlttal rendelkezik Emmen környékén.",
+                  "category": "religious",
+                  "coords": [
+                        8.311948,
+                        47.080219
                   ]
             }
       ],
@@ -13643,6 +13661,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.262311,
                         47.107553
                   ]
+            },
+            {
+                  "name": "Kloster Rathausen",
+                  "text": "O fostă mănăstire cisterciană cu o istorie semnificativă în regiunea Emmen.",
+                  "category": "religious",
+                  "coords": [
+                        8.311948,
+                        47.080219
+                  ]
             }
       ],
       "en": [
@@ -14058,6 +14085,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.262311,
                         47.107553
+                  ]
+            },
+            {
+                  "name": "Kloster Rathausen",
+                  "text": "A former Cistercian nunnery with a significant history in the Emmen area.",
+                  "category": "religious",
+                  "coords": [
+                        8.311948,
+                        47.080219
                   ]
             }
       ]
@@ -60286,7 +60322,1636 @@ export const switzerlandCitiesV2: POI[] = [
     image: "/poi-images/switzerland-davos-cities-v2.webp",
   },
   {
-    id: "switzerland-saint-moritz-cities-v2", "sights": {"de": [{"name": "Mili Weber", "text": "Dieses Museum in St. Moritz zeigt das fantastische Werk der Künstlerin Mili Weber in ihrem einstigen Wohnhaus.", "category": "museum", "coords": [9.856032, 46.497464]}, {"name": "Segantini Museum", "text": "Das Segantini Museum in St Moritz widmet sich ganz dem Leben und den Werken des berühmten Malers Giovanni Segantini. Kunstinteressierte können in dieser Schweizer Einrichtung tief in sein künstlerisches Schaffen eintauchen.", "category": "museum", "coords": [9.833309, 46.492698]}, {"name": "Berry Museum", "text": "Dieses Museum zeigt Werke des Arztes und Malers Peter Robert Berry im historischen Spa-Viertel.", "category": "museum", "coords": [9.837903, 46.496378]}, {"name": "Museum Engiadinais", "text": "Das Museum vermittelt einen Einblick in die traditionelle Engadiner Wohnkultur und Geschichte.", "category": "museum", "coords": [9.835242, 46.493964]}, {"name": "Piz da l'Ova Cotschna", "text": "Ein markanter Berggipfel bei St. Moritz, der ein beliebtes Ziel für Bergsteiger ist.", "category": "natural", "coords": [9.84639, 46.46876]}, {"name": "Sass Runzöl", "text": "Ein Gipfel in der Gebirgswelt um St. Moritz, der für seine alpine Landschaft bekannt ist.", "category": "natural", "coords": [9.826354, 46.509659]}, {"name": "Sass da Muottas", "text": "Ein Aussichtspunkt und Berggipfel in der Region Oberengadin bei St. Moritz.", "category": "natural", "coords": [9.833417, 46.512264]}, {"name": "Vito Schnabel Gallery", "text": "Die Vito Schnabel Gallery ist eine renommierte Kunstgalerie im Herzen von St Moritz. Hier werden Ausstellungen zeitgenössischer Kunst präsentiert, die sorgfältig von Vito Schnabel kuratiert sind.", "category": "museum", "coords": [9.842657, 46.500076]}, {"name": "Hauser & Wirth", "text": "Ein Standort der international renommierten Galerie für moderne und zeitgenössische Kunst.", "category": "museum", "coords": [9.841019, 46.497796]}, {"name": "Galerie Karsten Greve", "text": "Diese Galerie präsentiert bedeutende Positionen der zeitgenössischen Kunst in St. Moritz.", "category": "museum", "coords": [9.838553, 46.497376]}, {"name": "St. Moritz Tobogganing Club", "text": "Ein traditionsreicher Club in St. Moritz, der für den berühmten Cresta Run bekannt ist.", "category": "landmark", "coords": [9.844938, 46.502551]}, {"name": "Großherzog Friedrichs Blick", "text": "Ein Denkmal in St. Moritz, das an den Besuch des Großherzogs Friedrich I. erinnert.", "category": "historical", "coords": [9.830917, 46.472637]}, {"name": "Fullun", "text": "Ein Aussichtspunkt in St. Moritz, der einen weiten Blick über die umliegende Seenlandschaft bietet.", "category": "natural", "coords": [9.859375, 46.503513]}, {"name": "Sender Celerina", "text": "Ein markanter Funkturm bei St. Moritz, der für die regionale Rundfunkversorgung wichtig ist.", "category": "tower", "coords": [9.841018, 46.505656]}, {"name": "Kirche Sankt Karl Borromäus", "text": "Eine katholische Kirche in St. Moritz Bad, die der lokalen Gemeinde dient.", "category": "religious", "coords": [9.838112, 46.488802]}, {"name": "Evangelisch-reformierte Kirche Crasta", "text": "Eine historische reformierte Kirche in Crasta bei Celerina, nahe St. Moritz.", "category": "religious", "coords": [9.855901, 46.510879]}, {"name": "Baselgia catolica", "text": "Eine katholische Kirche im Oberengadin, die als Ort der Andacht genutzt wird.", "category": "religious", "coords": [9.860133, 46.51126]}, {"name": "Badkirche", "text": "Die evangelische Kirche im Kurviertel von St. Moritz, bekannt für ihre Lage am See.", "category": "religious", "coords": [9.834712, 46.491342]}, {"name": "St. Mauritius", "text": "Eine dem heiligen Mauritius gewidmete Kirche im Zentrum von St. Moritz.", "category": "religious", "coords": [9.843775, 46.500895]}, {"name": "Reformierte Kirche St. Moritz", "text": "Die reformierte Kirche in St. Moritz ist ein markantes Wahrzeichen im Zentrum des Ortes.", "category": "religious", "coords": [9.839973, 46.498369]}, {"name": "Französische Kirche", "text": "Eine historische französische Kirche, die als reformiertes Gotteshaus in St. Moritz dient.", "category": "religious", "coords": [9.836293, 46.482812]}, {"name": "St. Rochus", "text": "Diese reformierte Kirche befindet sich im Ortsteil Champfèr bei St. Moritz.", "category": "religious", "coords": [9.810509, 46.478094]}, {"name": "Lej Marsch", "text": "Ein kleiner Moorsee bei St. Moritz, der oft zum Baden genutzt wird.", "category": "natural", "coords": [9.819591, 46.474508]}, {"name": "Lej Alv", "text": "Ein hochalpiner See bei St. Moritz mit klarem Wasser.", "category": "natural", "coords": [9.807457, 46.513519]}, {"name": "Lej da la Tscheppa", "text": "Ein abgelegener Bergsee in der Region St. Moritz, ideal für Wanderer.", "category": "natural", "coords": [9.751516, 46.450996]}, {"name": "Hahnensee", "text": "Ein malerischer See oberhalb von St. Moritz mit weitem Ausblick.", "category": "natural", "coords": [9.82844, 46.467624]}, {"name": "Lej Nair", "text": "Ein dunkler Bergsee bei St. Moritz, bekannt für seine ruhige Lage.", "category": "natural", "coords": [9.818659, 46.470836]}, {"name": "Lej Suvretta", "text": "Ein Gebirgssee in der Nähe von St. Moritz, umgeben von alpiner Flora.", "category": "natural", "coords": [9.768892, 46.506712]}, {"name": "St. Moritzersee", "text": "Ein bekannter See direkt bei St. Moritz, Austragungsort verschiedener Events.", "category": "natural", "coords": [9.846249, 46.493349]}, {"name": "Lej da Staz", "text": "Ein idyllischer See bei St. Moritz, der im Sommer zum Baden einlädt.", "category": "natural", "coords": [9.868616, 46.496342]}, {"name": "Lej da Gravatscha", "text": "Ein See in der Nähe von St. Moritz, umgeben von geschützter Natur.", "category": "natural", "coords": [9.898571, 46.545814]}, {"name": "Lej da l' Ova Cotschna", "text": "Ein kleiner See in der Engadiner Landschaft bei St. Moritz.", "category": "natural", "coords": [9.850791, 46.468649]}, {"name": "Lej dal Rosatsch", "text": "Ein Bergsee bei St. Moritz, eingebettet in die alpine Bergwelt.", "category": "natural", "coords": [9.86601, 46.467383]}, {"name": "Lej da Champfèr", "text": "Ein See im Oberengadin bei St. Moritz, beliebt für Spaziergänge am Ufer.", "category": "natural", "coords": [9.805607, 46.466357]}, {"name": "Lej da la Pêsch", "text": "Ein ruhig gelegener See in den Bergen oberhalb von St. Moritz.", "category": "natural", "coords": [9.779006, 46.509988]}, {"name": "Puoz Ot", "text": "Ein kleines Stillgewässer in der alpinen Region von St. Moritz.", "category": "natural", "coords": [9.910693, 46.441746]}, {"name": "Lejets da Cuolms", "text": "Der See Lejets da Cuolms bei St Moritz bietet eine malerische Kulisse für Spaziergänge in der Natur.", "category": "natural", "coords": [9.756553, 46.507612]}, {"name": "Lejin da Misaun", "text": "Der Lejin da Misaun bei St Moritz ist ein ruhiger Bergsee, der zum Verweilen und Genießen der Aussicht einlädt.", "category": "natural", "coords": [9.88765, 46.436554]}, {"name": "Lej de la Fuorcla", "text": "Der Lej de la Fuorcla bei St Moritz bietet Wanderern eine idyllische Atmosphäre inmitten der alpinen Landschaft.", "category": "natural", "coords": [9.826893, 46.438535]}, {"name": "Lej Murtel", "text": "Der Lej Murtel bei St Moritz besticht durch seine klare Wasserfläche und die umgebende Bergwelt.", "category": "natural", "coords": [9.826214, 46.433971]}, {"name": "Lejin Rhodonit", "text": "Der Lejin Rhodonit bei St Moritz ist ein kleines Gewässer, das zur Erholung in der alpinen Natur einlädt.", "category": "natural", "coords": [9.798689, 46.426887]}, {"name": "Lejin S-chaglia", "text": "Der Lejin S-chaglia bei St Moritz bietet eine friedliche Umgebung für Naturfreunde und Erholungssuchende.", "category": "natural", "coords": [9.795633, 46.426342]}, {"name": "Silvaplanersee", "text": "Der Silvaplanersee bei St Moritz ist bekannt für seine beeindruckende Kulisse und vielfältige Freizeitmöglichkeiten am Wasser.", "category": "natural", "coords": [9.790615, 46.448277]}, {"name": "Spielplatz Salastrains", "text": "Der Spielplatz Salastrains in St Moritz bietet Kindern abwechslungsreiche Spielmöglichkeiten in einer alpinen Umgebung.", "category": "family", "coords": [9.829243, 46.499242]}], "hu": [{"name": "Mili Weber", "text": "Ebben a St. Moritz-i múzeumban Mili Weber művész fantasztikus alkotásait tekinthetik meg egykori lakóházában.", "category": "museum", "coords": [9.856032, 46.497464]}, {"name": "Segantini Museum", "text": "A St Moritzban található Segantini Museum a híres festő, Giovanni Segantini életének és munkásságának állít emléket. A svájci intézmény látogatói megcsodálhatják a művész lenyűgöző alkotásait.", "category": "museum", "coords": [9.833309, 46.492698]}, {"name": "Berry Museum", "text": "Ez a múzeum Peter Robert Berry orvos és festő műveit mutatja be a történelmi fürdőnegyedben.", "category": "museum", "coords": [9.837903, 46.496378]}, {"name": "Museum Engiadinais", "text": "A múzeum betekintést nyújt a hagyományos engadini lakáskultúrába és történelembe.", "category": "museum", "coords": [9.835242, 46.493964]}, {"name": "Piz da l'Ova Cotschna", "text": "Jellegzetes hegycsúcs St. Moritz közelében, amely a hegymászók kedvelt célpontja.", "category": "natural", "coords": [9.84639, 46.46876]}, {"name": "Sass Runzöl", "text": "Hegycsúcs St. Moritz környékén, amely alpesi tájairól ismert.", "category": "natural", "coords": [9.826354, 46.509659]}, {"name": "Sass da Muottas", "text": "Kilátópont és hegycsúcs a felső-engadini régióban, St. Moritz közelében.", "category": "natural", "coords": [9.833417, 46.512264]}, {"name": "Vito Schnabel Gallery", "text": "A Vito Schnabel Gallery egy elismert művészeti galéria St Moritz központjában. A svájci múzeumban Vito Schnabel által kurált kortárs művészeti kiállításokat tekinthetnek meg az érdeklődők.", "category": "museum", "coords": [9.842657, 46.500076]}, {"name": "Hauser & Wirth", "text": "A nemzetközileg elismert modern és kortárs művészeti galéria egyik helyszíne.", "category": "museum", "coords": [9.841019, 46.497796]}, {"name": "Galerie Karsten Greve", "text": "Ez a galéria a kortárs művészet jelentős alkotásait mutatja be St. Moritzban.", "category": "museum", "coords": [9.838553, 46.497376]}, {"name": "St. Moritz Tobogganing Club", "text": "Nagy múltú klub St. Moritzban, amely a híres Cresta Run pályáról ismert.", "category": "landmark", "coords": [9.844938, 46.502551]}, {"name": "Großherzog Friedrichs Blick", "text": "Emlékmű St. Moritzban, amely I. Frigyes nagyherceg látogatásának állít emléket.", "category": "historical", "coords": [9.830917, 46.472637]}, {"name": "Fullun", "text": "Kilátópont St. Moritzban, ahonnan pazar kilátás nyílik a környező tóvidékre.", "category": "natural", "coords": [9.859375, 46.503513]}, {"name": "Sender Celerina", "text": "Jellegzetes rádiótorony St. Moritz közelében, amely a regionális műsorszórás fontos eszköze.", "category": "tower", "coords": [9.841018, 46.505656]}, {"name": "San Carl", "text": "Katolikus templom St. Moritz Bad negyedében, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [9.838112, 46.488802]}, {"name": "Baselgia refurmeda Crasta", "text": "Történelmi református templom Celerina Crasta negyedében, St. Moritz közelében.", "category": "religious", "coords": [9.855901, 46.510879]}, {"name": "Baselgia catolica", "text": "Katolikus templom Felső-Engadinban, amelyet áhítatok helyszíneként használnak.", "category": "religious", "coords": [9.860133, 46.51126]}, {"name": "Badkirche", "text": "Evangélikus templom St. Moritz fürdőnegyedében, amely a tóparti elhelyezkedéséről ismert.", "category": "religious", "coords": [9.834712, 46.491342]}, {"name": "St. Mauritius", "text": "Szent Móric tiszteletére szentelt templom St. Moritz központjában.", "category": "religious", "coords": [9.843775, 46.500895]}, {"name": "Reformierte Kirche St. Moritz", "text": "A Szent Móric református templom a település központjának meghatározó épülete.", "category": "religious", "coords": [9.839973, 46.498369]}, {"name": "Église au bois", "text": "Történelmi francia templom, amely református istentiszteleti helyként szolgál St. Moritzban.", "category": "religious", "coords": [9.836293, 46.482812]}, {"name": "St. Rochus", "text": "Ez a református templom St. Moritz Champfèr városrészében található.", "category": "religious", "coords": [9.810509, 46.478094]}, {"name": "Lej Marsch", "text": "Kis mocsári tó St. Moritz közelében, amelyet gyakran használnak fürdésre.", "category": "natural", "coords": [9.819591, 46.474508]}, {"name": "Lej Alv", "text": "Magaslati alpesi tó St. Moritz közelében, tiszta vízzel.", "category": "natural", "coords": [9.807457, 46.513519]}, {"name": "Lej da la Tscheppa", "text": "Félreeső hegyi tó St. Moritz régiójában, ideális túrázóknak.", "category": "natural", "coords": [9.751516, 46.450996]}, {"name": "Hahnensee", "text": "Festői tó St. Moritz felett, széles kilátással.", "category": "natural", "coords": [9.82844, 46.467624]}, {"name": "Lej Nair", "text": "Sötét vizű hegyi tó St. Moritz közelében, csendes fekvéséről ismert.", "category": "natural", "coords": [9.818659, 46.470836]}, {"name": "Lej Suvretta", "text": "Hegyi tó St. Moritz közelében, alpesi flórával körülvéve.", "category": "natural", "coords": [9.768892, 46.506712]}, {"name": "St. Moritzersee/Lej da San Murezzan", "text": "Ismert tó közvetlenül St. Moritznál, különböző rendezvények helyszíne.", "category": "natural", "coords": [9.846249, 46.493349]}, {"name": "Lej da Staz", "text": "Idilli tó St. Moritz közelében, amely nyáron fürdésre hív.", "category": "natural", "coords": [9.868616, 46.496342]}, {"name": "Lej da Gravatscha", "text": "Tó St. Moritz közelében, védett természetvédelmi területtel körülvéve.", "category": "natural", "coords": [9.898571, 46.545814]}, {"name": "Lej da l' Ova Cotschna", "text": "Kis tó az Engadin-völgy táján, St. Moritz közelében.", "category": "natural", "coords": [9.850791, 46.468649]}, {"name": "Lej dal Rosatsch", "text": "Hegyi tó St. Moritz közelében, az alpesi hegyvilágba ágyazva.", "category": "natural", "coords": [9.86601, 46.467383]}, {"name": "Lej da Champfèr", "text": "Tó Felső-Engadinban, St. Moritz közelében, népszerű a parti sétákhoz.", "category": "natural", "coords": [9.805607, 46.466357]}, {"name": "Lej da la Pêsch", "text": "Csendes fekvésű tó a St. Moritz feletti hegyekben.", "category": "natural", "coords": [9.779006, 46.509988]}, {"name": "Puoz Ot", "text": "Kis állóvíz St. Moritz alpesi régiójában.", "category": "natural", "coords": [9.910693, 46.441746]}, {"name": "Lejets da Cuolms", "text": "A St Moritz közelében található Lejets da Cuolms tó festői környezetet kínál a természetbeli sétákhoz.", "category": "natural", "coords": [9.756553, 46.507612]}, {"name": "Lejin da Misaun", "text": "A St Moritz melletti Lejin da Misaun egy csendes hegyi tó, amely pihenésre és a kilátás élvezetére invitál.", "category": "natural", "coords": [9.88765, 46.436554]}, {"name": "Lej de la Fuorcla", "text": "A St Moritz közelében fekvő Lej de la Fuorcla idilli hangulatot áraszt az alpesi táj közepén.", "category": "natural", "coords": [9.826893, 46.438535]}, {"name": "Lej Murtel", "text": "A St Moritz melletti Lej Murtel tiszta vizével és az azt körülölelő hegyekkel nyűgözi le a látogatókat.", "category": "natural", "coords": [9.826214, 46.433971]}, {"name": "Lejin Rhodonit", "text": "A St Moritz közelében található Lejin Rhodonit egy kis tavacska, amely kikapcsolódást nyújt az alpesi természetben.", "category": "natural", "coords": [9.798689, 46.426887]}, {"name": "Lejin S-chaglia", "text": "A St Moritz melletti Lejin S-chaglia békés környezetet biztosít a természetbarátok és pihenni vágyók számára.", "category": "natural", "coords": [9.795633, 46.426342]}, {"name": "Lej da Silvaplauna", "text": "A St Moritz melletti Silvaplaner-tó lenyűgöző látványáról és változatos vízparti kikapcsolódási lehetőségeiről ismert.", "category": "natural", "coords": [9.790615, 46.448277]}, {"name": "Spielplatz Salastrains", "text": "A St Moritz-i Spielplatz Salastrains játszótér változatos játéklehetőségeket kínál a gyerekeknek alpesi környezetben.", "category": "family", "coords": [9.829243, 46.499242]}], "ro": [{"name": "Mili Weber", "text": "Acest muzeu din St. Moritz prezintă opera fantastică a artistei Mili Weber în fosta sa locuință.", "category": "museum", "coords": [9.856032, 46.497464]}, {"name": "Segantini Museum", "text": "Segantini Museum din St Moritz este dedicat în întregime vieții și operelor pictorului Giovanni Segantini. În cadrul acestei instituții elvețiene, pasionații de artă pot explora creațiile fascinante ale artistului.", "category": "museum", "coords": [9.833309, 46.492698]}, {"name": "Berry Museum", "text": "Acest muzeu prezintă lucrările medicului și pictorului Peter Robert Berry în cartierul istoric al stațiunii.", "category": "museum", "coords": [9.837903, 46.496378]}, {"name": "Museum Engiadinais", "text": "Muzeul oferă o perspectivă asupra culturii tradiționale de locuire și istoriei din Engadina.", "category": "museum", "coords": [9.835242, 46.493964]}, {"name": "Piz da l'Ova Cotschna", "text": "Un vârf montan proeminent lângă St. Moritz, care este o destinație populară pentru alpiniști.", "category": "natural", "coords": [9.84639, 46.46876]}, {"name": "Sass Runzöl", "text": "Un vârf din lumea montană a St. Moritz-ului, cunoscut pentru peisajul său alpin.", "category": "natural", "coords": [9.826354, 46.509659]}, {"name": "Sass da Muottas", "text": "Un punct de belvedere și vârf montan în regiunea Oberengadin, lângă St. Moritz.", "category": "natural", "coords": [9.833417, 46.512264]}, {"name": "Vito Schnabel Gallery", "text": "Vito Schnabel Gallery este o prestigioasă galerie de artă situată în inima stațiunii St Moritz. Aici sunt prezentate expoziții de artă contemporană, curatoriate cu atenție de Vito Schnabel.", "category": "museum", "coords": [9.842657, 46.500076]}, {"name": "Hauser & Wirth", "text": "O locație a galeriei de artă modernă și contemporană de renume internațional.", "category": "museum", "coords": [9.841019, 46.497796]}, {"name": "Galerie Karsten Greve", "text": "Această galerie prezintă poziții importante ale artei contemporane în St. Moritz.", "category": "museum", "coords": [9.838553, 46.497376]}, {"name": "St. Moritz Tobogganing Club", "text": "Un club cu tradiție din St. Moritz, cunoscut pentru celebra pistă Cresta Run.", "category": "landmark", "coords": [9.844938, 46.502551]}, {"name": "Großherzog Friedrichs Blick", "text": "Un monument din St. Moritz care comemorează vizita Marelui Duce Frederic I.", "category": "historical", "coords": [9.830917, 46.472637]}, {"name": "Fullun", "text": "Un punct de belvedere din St. Moritz care oferă o vedere largă asupra peisajului lacustru din jur.", "category": "natural", "coords": [9.859375, 46.503513]}, {"name": "Sender Celerina", "text": "Un turn de transmisie proeminent lângă St. Moritz, important pentru radiodifuziunea regională.", "category": "tower", "coords": [9.841018, 46.505656]}, {"name": "San Carl", "text": "O biserică catolică din St. Moritz Bad, care servește comunității locale.", "category": "religious", "coords": [9.838112, 46.488802]}, {"name": "Baselgia refurmeda Crasta", "text": "O biserică reformată istorică din Crasta, lângă Celerina și St. Moritz.", "category": "religious", "coords": [9.855901, 46.510879]}, {"name": "Baselgia catolica", "text": "O biserică catolică din Oberengadin, utilizată ca loc de devoțiune.", "category": "religious", "coords": [9.860133, 46.51126]}, {"name": "Badkirche", "text": "Biserica evanghelică din cartierul balnear din St. Moritz, cunoscută pentru locația sa lângă lac.", "category": "religious", "coords": [9.834712, 46.491342]}, {"name": "St. Mauritius", "text": "O biserică dedicată Sfântului Mauriciu în centrul orașului St. Moritz.", "category": "religious", "coords": [9.843775, 46.500895]}, {"name": "Reformierte Kirche St. Moritz", "text": "Biserica reformată din St. Moritz este un reper important din centrul localității.", "category": "religious", "coords": [9.839973, 46.498369]}, {"name": "Église au bois", "text": "O biserică istorică franceză care servește ca lăcaș de cult reformat în St. Moritz.", "category": "religious", "coords": [9.836293, 46.482812]}, {"name": "St. Rochus", "text": "Această biserică reformată se află în districtul Champfèr din St. Moritz.", "category": "religious", "coords": [9.810509, 46.478094]}, {"name": "Lej Marsch", "text": "Un mic lac de mlaștină lângă St. Moritz, adesea folosit pentru scăldat.", "category": "natural", "coords": [9.819591, 46.474508]}, {"name": "Lej Alv", "text": "Un lac alpin înalt lângă St. Moritz, cu apă limpede.", "category": "natural", "coords": [9.807457, 46.513519]}, {"name": "Lej da la Tscheppa", "text": "Un lac montan izolat în regiunea St. Moritz, ideal pentru drumeți.", "category": "natural", "coords": [9.751516, 46.450996]}, {"name": "Hahnensee", "text": "Un lac pitoresc deasupra localității St. Moritz, cu o vedere panoramică.", "category": "natural", "coords": [9.82844, 46.467624]}, {"name": "Lej Nair", "text": "Un lac montan întunecat lângă St. Moritz, cunoscut pentru locația sa liniștită.", "category": "natural", "coords": [9.818659, 46.470836]}, {"name": "Lej Suvretta", "text": "Un lac de munte lângă St. Moritz, înconjurat de floră alpină.", "category": "natural", "coords": [9.768892, 46.506712]}, {"name": "St. Moritzersee/Lej da San Murezzan", "text": "Un lac cunoscut chiar lângă St. Moritz, locul de desfășurare a diverse evenimente.", "category": "natural", "coords": [9.846249, 46.493349]}, {"name": "Lej da Staz", "text": "Un lac idilic lângă St. Moritz, care invită la scăldat în timpul verii.", "category": "natural", "coords": [9.868616, 46.496342]}, {"name": "Lej da Gravatscha", "text": "Un lac lângă St. Moritz, înconjurat de natură protejată.", "category": "natural", "coords": [9.898571, 46.545814]}, {"name": "Lej da l' Ova Cotschna", "text": "Un mic lac în peisajul Engadinei, lângă St. Moritz.", "category": "natural", "coords": [9.850791, 46.468649]}, {"name": "Lej dal Rosatsch", "text": "Un lac montan lângă St. Moritz, integrat în lumea alpină a munților.", "category": "natural", "coords": [9.86601, 46.467383]}, {"name": "Lej da Champfèr", "text": "Un lac în Engadina de Sus, lângă St. Moritz, popular pentru plimbări pe mal.", "category": "natural", "coords": [9.805607, 46.466357]}, {"name": "Lej da la Pêsch", "text": "Un lac liniștit situat în munții de deasupra localității St. Moritz.", "category": "natural", "coords": [9.779006, 46.509988]}, {"name": "Puoz Ot", "text": "O mică întindere de apă în regiunea alpină din St. Moritz.", "category": "natural", "coords": [9.910693, 46.441746]}, {"name": "Lejets da Cuolms", "text": "Lacul Lejets da Cuolms de lângă St Moritz oferă un cadru pitoresc pentru plimbări în natură.", "category": "natural", "coords": [9.756553, 46.507612]}, {"name": "Lejin da Misaun", "text": "Lejin da Misaun de lângă St Moritz este un lac montan liniștit, ideal pentru relaxare și admirarea peisajului.", "category": "natural", "coords": [9.88765, 46.436554]}, {"name": "Lej de la Fuorcla", "text": "Lej de la Fuorcla de lângă St Moritz oferă o atmosferă idilică în mijlocul peisajului alpin.", "category": "natural", "coords": [9.826893, 46.438535]}, {"name": "Lej Murtel", "text": "Lej Murtel de lângă St Moritz impresionează prin apele sale limpezi și lumea montană înconjurătoare.", "category": "natural", "coords": [9.826214, 46.433971]}, {"name": "Lejin Rhodonit", "text": "Lejin Rhodonit de lângă St Moritz este un mic lac care invită la relaxare în natura alpină.", "category": "natural", "coords": [9.798689, 46.426887]}, {"name": "Lejin S-chaglia", "text": "Lejin S-chaglia de lângă St Moritz oferă un mediu liniștit pentru iubitorii de natură și relaxare.", "category": "natural", "coords": [9.795633, 46.426342]}, {"name": "Lej da Silvaplauna", "text": "Lacul Silvaplana de lângă St Moritz este cunoscut pentru peisajul său impresionant și diversele posibilități de agrement pe apă.", "category": "natural", "coords": [9.790615, 46.448277]}, {"name": "Spielplatz Salastrains", "text": "Locul de joacă Salastrains din St Moritz oferă copiilor diverse posibilități de joacă într-un cadru alpin.", "category": "family", "coords": [9.829243, 46.499242]}], "en": [{"name": "Mili Weber", "text": "This museum in St. Moritz showcases the fantastic work of artist Mili Weber in her former home.", "category": "museum", "coords": [9.856032, 46.497464]}, {"name": "Segantini Museum", "text": "The Segantini Museum in St Moritz is entirely dedicated to the life and works of the painter Giovanni Segantini. Art enthusiasts visiting this Swiss institution can deeply explore his impressive artistic legacy.", "category": "museum", "coords": [9.833309, 46.492698]}, {"name": "Berry Museum", "text": "This museum displays works by the doctor and painter Peter Robert Berry in the historic spa district.", "category": "museum", "coords": [9.837903, 46.496378]}, {"name": "Museum Engiadinais", "text": "The museum provides insight into traditional Engadine domestic culture and history.", "category": "museum", "coords": [9.835242, 46.493964]}, {"name": "Piz da l'Ova Cotschna", "text": "A prominent mountain peak near St. Moritz that is a popular destination for mountaineers.", "category": "natural", "coords": [9.84639, 46.46876]}, {"name": "Sass Runzöl", "text": "A peak in the mountains around St. Moritz known for its alpine landscape.", "category": "natural", "coords": [9.826354, 46.509659]}, {"name": "Sass da Muottas", "text": "A viewpoint and mountain peak in the Upper Engadine region near St. Moritz.", "category": "natural", "coords": [9.833417, 46.512264]}, {"name": "Vito Schnabel Gallery", "text": "The Vito Schnabel Gallery is a prominent art gallery located in the heart of St Moritz. This Swiss museum showcases contemporary art exhibitions carefully curated by Vito Schnabel.", "category": "museum", "coords": [9.842657, 46.500076]}, {"name": "Hauser & Wirth", "text": "A location of the internationally renowned gallery for modern and contemporary art.", "category": "museum", "coords": [9.841019, 46.497796]}, {"name": "Galerie Karsten Greve", "text": "This gallery presents important positions of contemporary art in St. Moritz.", "category": "museum", "coords": [9.838553, 46.497376]}, {"name": "SMTC St. Moritz Tobogganing Club", "text": "A traditional club in St. Moritz known for the famous Cresta Run.", "category": "landmark", "coords": [9.844938, 46.502551]}, {"name": "Großherzog Friedrichs Blick", "text": "A monument in St. Moritz commemorating the visit of Grand Duke Frederick I.", "category": "historical", "coords": [9.830917, 46.472637]}, {"name": "Fullun", "text": "A viewpoint in St. Moritz offering a wide view over the surrounding lake landscape.", "category": "natural", "coords": [9.859375, 46.503513]}, {"name": "Sender Celerina", "text": "A prominent radio tower near St. Moritz important for regional broadcasting.", "category": "tower", "coords": [9.841018, 46.505656]}, {"name": "San Carl", "text": "A Catholic church in St. Moritz Bad serving the local community.", "category": "religious", "coords": [9.838112, 46.488802]}, {"name": "Baselgia refurmeda Crasta", "text": "A historic Reformed church in Crasta near Celerina, close to St. Moritz.", "category": "religious", "coords": [9.855901, 46.510879]}, {"name": "Baselgia catolica", "text": "A Catholic church in the Upper Engadine used as a place of devotion.", "category": "religious", "coords": [9.860133, 46.51126]}, {"name": "Badkirche", "text": "The Protestant church in the spa district of St. Moritz, known for its lakeside location.", "category": "religious", "coords": [9.834712, 46.491342]}, {"name": "St. Mauritius", "text": "A church dedicated to Saint Mauritius in the center of St. Moritz.", "category": "religious", "coords": [9.843775, 46.500895]}, {"name": "Reformierte Kirche St. Moritz", "text": "The Reformed Church in St. Moritz is a prominent landmark in the town center.", "category": "religious", "coords": [9.839973, 46.498369]}, {"name": "Église au bois", "text": "A historic French church serving as a reformed place of worship in St. Moritz.", "category": "religious", "coords": [9.836293, 46.482812]}, {"name": "St. Rochus", "text": "This reformed church is located in the Champfèr district of St. Moritz.", "category": "religious", "coords": [9.810509, 46.478094]}, {"name": "Lej Marsch", "text": "A small moor lake near St. Moritz, often used for swimming.", "category": "natural", "coords": [9.819591, 46.474508]}, {"name": "Lej Alv", "text": "A high alpine lake near St. Moritz with clear water.", "category": "natural", "coords": [9.807457, 46.513519]}, {"name": "Lej da la Tscheppa", "text": "A remote mountain lake in the St. Moritz region, ideal for hikers.", "category": "natural", "coords": [9.751516, 46.450996]}, {"name": "Hahnensee", "text": "A picturesque lake above St. Moritz with a wide view.", "category": "natural", "coords": [9.82844, 46.467624]}, {"name": "Lej Nair", "text": "A dark mountain lake near St. Moritz, known for its quiet location.", "category": "natural", "coords": [9.818659, 46.470836]}, {"name": "Lej Suvretta", "text": "A mountain lake near St. Moritz, surrounded by alpine flora.", "category": "natural", "coords": [9.768892, 46.506712]}, {"name": "Lake St. Moritz", "text": "A well-known lake right by St. Moritz, host to various events.", "category": "natural", "coords": [9.846249, 46.493349]}, {"name": "Lej da Staz", "text": "An idyllic lake near St. Moritz, inviting for swimming in summer.", "category": "natural", "coords": [9.868616, 46.496342]}, {"name": "Lej da Gravatscha", "text": "A lake near St. Moritz, surrounded by protected nature.", "category": "natural", "coords": [9.898571, 46.545814]}, {"name": "Lej da l' Ova Cotschna", "text": "A small lake in the Engadine landscape near St. Moritz.", "category": "natural", "coords": [9.850791, 46.468649]}, {"name": "Lej dal Rosatsch", "text": "A mountain lake near St. Moritz, nestled in the alpine mountains.", "category": "natural", "coords": [9.86601, 46.467383]}, {"name": "Lej da Champfèr", "text": "A lake in the Upper Engadine near St. Moritz, popular for walks along the shore.", "category": "natural", "coords": [9.805607, 46.466357]}, {"name": "Lej da la Pêsch", "text": "A quietly located lake in the mountains above St. Moritz.", "category": "natural", "coords": [9.779006, 46.509988]}, {"name": "Puoz Ot", "text": "A small body of still water in the alpine region of St. Moritz.", "category": "natural", "coords": [9.910693, 46.441746]}, {"name": "Lejets da Cuolms", "text": "Lejets da Cuolms lake near St Moritz offers a scenic setting for walks in nature.", "category": "natural", "coords": [9.756553, 46.507612]}, {"name": "Lejin da Misaun", "text": "Lejin da Misaun near St Moritz is a quiet mountain lake, perfect for relaxing and enjoying the view.", "category": "natural", "coords": [9.88765, 46.436554]}, {"name": "Lej de la Fuorcla", "text": "Lej de la Fuorcla near St Moritz offers an idyllic atmosphere amidst the alpine landscape.", "category": "natural", "coords": [9.826893, 46.438535]}, {"name": "Lej Murtel", "text": "Lej Murtel near St Moritz impresses with its clear water and the surrounding mountain world.", "category": "natural", "coords": [9.826214, 46.433971]}, {"name": "Lejin Rhodonit", "text": "Lejin Rhodonit near St Moritz is a small body of water that invites relaxation in alpine nature.", "category": "natural", "coords": [9.798689, 46.426887]}, {"name": "Lejin S-chaglia", "text": "Lejin S-chaglia near St Moritz offers a peaceful environment for nature lovers and those seeking relaxation.", "category": "natural", "coords": [9.795633, 46.426342]}, {"name": "Lake Silvaplana", "text": "Lake Silvaplana near St Moritz is known for its impressive scenery and various lakeside recreational opportunities.", "category": "natural", "coords": [9.790615, 46.448277]}, {"name": "Spielplatz Salastrains", "text": "The Salastrains playground in St Moritz offers children various play opportunities in an alpine setting.", "category": "family", "coords": [9.829243, 46.499242]}]},
+    id: "switzerland-saint-moritz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mili Weber",
+                  "text": "Dieses Museum in St. Moritz zeigt das fantastische Werk der Künstlerin Mili Weber in ihrem einstigen Wohnhaus.",
+                  "category": "museum",
+                  "coords": [
+                        9.856032,
+                        46.497464
+                  ]
+            },
+            {
+                  "name": "Segantini Museum",
+                  "text": "Das Segantini Museum in St Moritz widmet sich ganz dem Leben und den Werken des berühmten Malers Giovanni Segantini. Kunstinteressierte können in dieser Schweizer Einrichtung tief in sein künstlerisches Schaffen eintauchen.",
+                  "category": "museum",
+                  "coords": [
+                        9.833309,
+                        46.492698
+                  ]
+            },
+            {
+                  "name": "Berry Museum",
+                  "text": "Dieses Museum zeigt Werke des Arztes und Malers Peter Robert Berry im historischen Spa-Viertel.",
+                  "category": "museum",
+                  "coords": [
+                        9.837903,
+                        46.496378
+                  ]
+            },
+            {
+                  "name": "Museum Engiadinais",
+                  "text": "Das Museum vermittelt einen Einblick in die traditionelle Engadiner Wohnkultur und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        9.835242,
+                        46.493964
+                  ]
+            },
+            {
+                  "name": "Piz da l'Ova Cotschna",
+                  "text": "Ein markanter Berggipfel bei St. Moritz, der ein beliebtes Ziel für Bergsteiger ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.84639,
+                        46.46876
+                  ]
+            },
+            {
+                  "name": "Sass Runzöl",
+                  "text": "Ein Gipfel in der Gebirgswelt um St. Moritz, der für seine alpine Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.826354,
+                        46.509659
+                  ]
+            },
+            {
+                  "name": "Sass da Muottas",
+                  "text": "Ein Aussichtspunkt und Berggipfel in der Region Oberengadin bei St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.833417,
+                        46.512264
+                  ]
+            },
+            {
+                  "name": "Vito Schnabel Gallery",
+                  "text": "Die Vito Schnabel Gallery ist eine renommierte Kunstgalerie im Herzen von St Moritz. Hier werden Ausstellungen zeitgenössischer Kunst präsentiert, die sorgfältig von Vito Schnabel kuratiert sind.",
+                  "category": "museum",
+                  "coords": [
+                        9.842657,
+                        46.500076
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Ein Standort der international renommierten Galerie für moderne und zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        9.841019,
+                        46.497796
+                  ]
+            },
+            {
+                  "name": "Galerie Karsten Greve",
+                  "text": "Diese Galerie präsentiert bedeutende Positionen der zeitgenössischen Kunst in St. Moritz.",
+                  "category": "museum",
+                  "coords": [
+                        9.838553,
+                        46.497376
+                  ]
+            },
+            {
+                  "name": "St. Moritz Tobogganing Club",
+                  "text": "Ein traditionsreicher Club in St. Moritz, der für den berühmten Cresta Run bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.844938,
+                        46.502551
+                  ]
+            },
+            {
+                  "name": "Großherzog Friedrichs Blick",
+                  "text": "Ein Denkmal in St. Moritz, das an den Besuch des Großherzogs Friedrich I. erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        9.830917,
+                        46.472637
+                  ]
+            },
+            {
+                  "name": "Fullun",
+                  "text": "Ein Aussichtspunkt in St. Moritz, der einen weiten Blick über die umliegende Seenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.859375,
+                        46.503513
+                  ]
+            },
+            {
+                  "name": "Sender Celerina",
+                  "text": "Ein markanter Funkturm bei St. Moritz, der für die regionale Rundfunkversorgung wichtig ist.",
+                  "category": "tower",
+                  "coords": [
+                        9.841018,
+                        46.505656
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Karl Borromäus",
+                  "text": "Eine katholische Kirche in St. Moritz Bad, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.838112,
+                        46.488802
+                  ]
+            },
+            {
+                  "name": "Evangelisch-reformierte Kirche Crasta",
+                  "text": "Eine historische reformierte Kirche in Crasta bei Celerina, nahe St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.855901,
+                        46.510879
+                  ]
+            },
+            {
+                  "name": "Baselgia catolica",
+                  "text": "Eine katholische Kirche im Oberengadin, die als Ort der Andacht genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        9.860133,
+                        46.51126
+                  ]
+            },
+            {
+                  "name": "Badkirche",
+                  "text": "Die evangelische Kirche im Kurviertel von St. Moritz, bekannt für ihre Lage am See.",
+                  "category": "religious",
+                  "coords": [
+                        9.834712,
+                        46.491342
+                  ]
+            },
+            {
+                  "name": "St. Mauritius",
+                  "text": "Eine dem heiligen Mauritius gewidmete Kirche im Zentrum von St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.843775,
+                        46.500895
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Moritz",
+                  "text": "Die reformierte Kirche in St. Moritz ist ein markantes Wahrzeichen im Zentrum des Ortes.",
+                  "category": "religious",
+                  "coords": [
+                        9.839973,
+                        46.498369
+                  ]
+            },
+            {
+                  "name": "Französische Kirche",
+                  "text": "Eine historische französische Kirche, die als reformiertes Gotteshaus in St. Moritz dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.836293,
+                        46.482812
+                  ]
+            },
+            {
+                  "name": "St. Rochus",
+                  "text": "Diese reformierte Kirche befindet sich im Ortsteil Champfèr bei St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.810509,
+                        46.478094
+                  ]
+            },
+            {
+                  "name": "Lej Marsch",
+                  "text": "Ein kleiner Moorsee bei St. Moritz, der oft zum Baden genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        9.819591,
+                        46.474508
+                  ]
+            },
+            {
+                  "name": "Lej Alv",
+                  "text": "Ein hochalpiner See bei St. Moritz mit klarem Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.807457,
+                        46.513519
+                  ]
+            },
+            {
+                  "name": "Lej da la Tscheppa",
+                  "text": "Ein abgelegener Bergsee in der Region St. Moritz, ideal für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        9.751516,
+                        46.450996
+                  ]
+            },
+            {
+                  "name": "Hahnensee",
+                  "text": "Ein malerischer See oberhalb von St. Moritz mit weitem Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        9.82844,
+                        46.467624
+                  ]
+            },
+            {
+                  "name": "Lej Nair",
+                  "text": "Ein dunkler Bergsee bei St. Moritz, bekannt für seine ruhige Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.818659,
+                        46.470836
+                  ]
+            },
+            {
+                  "name": "Lej Suvretta",
+                  "text": "Ein Gebirgssee in der Nähe von St. Moritz, umgeben von alpiner Flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.768892,
+                        46.506712
+                  ]
+            },
+            {
+                  "name": "St. Moritzersee",
+                  "text": "Ein bekannter See direkt bei St. Moritz, Austragungsort verschiedener Events.",
+                  "category": "natural",
+                  "coords": [
+                        9.846249,
+                        46.493349
+                  ]
+            },
+            {
+                  "name": "Lej da Staz",
+                  "text": "Ein idyllischer See bei St. Moritz, der im Sommer zum Baden einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.868616,
+                        46.496342
+                  ]
+            },
+            {
+                  "name": "Lej da Gravatscha",
+                  "text": "Ein See in der Nähe von St. Moritz, umgeben von geschützter Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.898571,
+                        46.545814
+                  ]
+            },
+            {
+                  "name": "Lej da l' Ova Cotschna",
+                  "text": "Ein kleiner See in der Engadiner Landschaft bei St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.850791,
+                        46.468649
+                  ]
+            },
+            {
+                  "name": "Lej dal Rosatsch",
+                  "text": "Ein Bergsee bei St. Moritz, eingebettet in die alpine Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.86601,
+                        46.467383
+                  ]
+            },
+            {
+                  "name": "Lej da Champfèr",
+                  "text": "Ein See im Oberengadin bei St. Moritz, beliebt für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.805607,
+                        46.466357
+                  ]
+            },
+            {
+                  "name": "Lej da la Pêsch",
+                  "text": "Ein ruhig gelegener See in den Bergen oberhalb von St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.779006,
+                        46.509988
+                  ]
+            },
+            {
+                  "name": "Puoz Ot",
+                  "text": "Ein kleines Stillgewässer in der alpinen Region von St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.910693,
+                        46.441746
+                  ]
+            },
+            {
+                  "name": "Lejets da Cuolms",
+                  "text": "Der See Lejets da Cuolms bei St Moritz bietet eine malerische Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.756553,
+                        46.507612
+                  ]
+            },
+            {
+                  "name": "Lejin da Misaun",
+                  "text": "Der Lejin da Misaun bei St Moritz ist ein ruhiger Bergsee, der zum Verweilen und Genießen der Aussicht einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.88765,
+                        46.436554
+                  ]
+            },
+            {
+                  "name": "Lej de la Fuorcla",
+                  "text": "Der Lej de la Fuorcla bei St Moritz bietet Wanderern eine idyllische Atmosphäre inmitten der alpinen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.826893,
+                        46.438535
+                  ]
+            },
+            {
+                  "name": "Lej Murtel",
+                  "text": "Der Lej Murtel bei St Moritz besticht durch seine klare Wasserfläche und die umgebende Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.826214,
+                        46.433971
+                  ]
+            },
+            {
+                  "name": "Lejin Rhodonit",
+                  "text": "Der Lejin Rhodonit bei St Moritz ist ein kleines Gewässer, das zur Erholung in der alpinen Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.798689,
+                        46.426887
+                  ]
+            },
+            {
+                  "name": "Lejin S-chaglia",
+                  "text": "Der Lejin S-chaglia bei St Moritz bietet eine friedliche Umgebung für Naturfreunde und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.795633,
+                        46.426342
+                  ]
+            },
+            {
+                  "name": "Silvaplanersee",
+                  "text": "Der Silvaplanersee bei St Moritz ist bekannt für seine beeindruckende Kulisse und vielfältige Freizeitmöglichkeiten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.790615,
+                        46.448277
+                  ]
+            },
+            {
+                  "name": "Spielplatz Salastrains",
+                  "text": "Der Spielplatz Salastrains in St Moritz bietet Kindern abwechslungsreiche Spielmöglichkeiten in einer alpinen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        9.829243,
+                        46.499242
+                  ]
+            },
+            {
+                  "name": "St. Mauritius-Kirche",
+                  "text": "Die Überreste der alten St. Mauritius-Kirche in St. Moritz, bekannt für ihren markanten schiefen Turm.",
+                  "category": "historical",
+                  "coords": [
+                        9.841428,
+                        46.499826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mili Weber",
+                  "text": "Ebben a St. Moritz-i múzeumban Mili Weber művész fantasztikus alkotásait tekinthetik meg egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        9.856032,
+                        46.497464
+                  ]
+            },
+            {
+                  "name": "Segantini Museum",
+                  "text": "A St Moritzban található Segantini Museum a híres festő, Giovanni Segantini életének és munkásságának állít emléket. A svájci intézmény látogatói megcsodálhatják a művész lenyűgöző alkotásait.",
+                  "category": "museum",
+                  "coords": [
+                        9.833309,
+                        46.492698
+                  ]
+            },
+            {
+                  "name": "Berry Museum",
+                  "text": "Ez a múzeum Peter Robert Berry orvos és festő műveit mutatja be a történelmi fürdőnegyedben.",
+                  "category": "museum",
+                  "coords": [
+                        9.837903,
+                        46.496378
+                  ]
+            },
+            {
+                  "name": "Museum Engiadinais",
+                  "text": "A múzeum betekintést nyújt a hagyományos engadini lakáskultúrába és történelembe.",
+                  "category": "museum",
+                  "coords": [
+                        9.835242,
+                        46.493964
+                  ]
+            },
+            {
+                  "name": "Piz da l'Ova Cotschna",
+                  "text": "Jellegzetes hegycsúcs St. Moritz közelében, amely a hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        9.84639,
+                        46.46876
+                  ]
+            },
+            {
+                  "name": "Sass Runzöl",
+                  "text": "Hegycsúcs St. Moritz környékén, amely alpesi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.826354,
+                        46.509659
+                  ]
+            },
+            {
+                  "name": "Sass da Muottas",
+                  "text": "Kilátópont és hegycsúcs a felső-engadini régióban, St. Moritz közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.833417,
+                        46.512264
+                  ]
+            },
+            {
+                  "name": "Vito Schnabel Gallery",
+                  "text": "A Vito Schnabel Gallery egy elismert művészeti galéria St Moritz központjában. A svájci múzeumban Vito Schnabel által kurált kortárs művészeti kiállításokat tekinthetnek meg az érdeklődők.",
+                  "category": "museum",
+                  "coords": [
+                        9.842657,
+                        46.500076
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A nemzetközileg elismert modern és kortárs művészeti galéria egyik helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        9.841019,
+                        46.497796
+                  ]
+            },
+            {
+                  "name": "Galerie Karsten Greve",
+                  "text": "Ez a galéria a kortárs művészet jelentős alkotásait mutatja be St. Moritzban.",
+                  "category": "museum",
+                  "coords": [
+                        9.838553,
+                        46.497376
+                  ]
+            },
+            {
+                  "name": "St. Moritz Tobogganing Club",
+                  "text": "Nagy múltú klub St. Moritzban, amely a híres Cresta Run pályáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.844938,
+                        46.502551
+                  ]
+            },
+            {
+                  "name": "Großherzog Friedrichs Blick",
+                  "text": "Emlékmű St. Moritzban, amely I. Frigyes nagyherceg látogatásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        9.830917,
+                        46.472637
+                  ]
+            },
+            {
+                  "name": "Fullun",
+                  "text": "Kilátópont St. Moritzban, ahonnan pazar kilátás nyílik a környező tóvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        9.859375,
+                        46.503513
+                  ]
+            },
+            {
+                  "name": "Sender Celerina",
+                  "text": "Jellegzetes rádiótorony St. Moritz közelében, amely a regionális műsorszórás fontos eszköze.",
+                  "category": "tower",
+                  "coords": [
+                        9.841018,
+                        46.505656
+                  ]
+            },
+            {
+                  "name": "San Carl",
+                  "text": "Katolikus templom St. Moritz Bad negyedében, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        9.838112,
+                        46.488802
+                  ]
+            },
+            {
+                  "name": "Baselgia refurmeda Crasta",
+                  "text": "Történelmi református templom Celerina Crasta negyedében, St. Moritz közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.855901,
+                        46.510879
+                  ]
+            },
+            {
+                  "name": "Baselgia catolica",
+                  "text": "Katolikus templom Felső-Engadinban, amelyet áhítatok helyszíneként használnak.",
+                  "category": "religious",
+                  "coords": [
+                        9.860133,
+                        46.51126
+                  ]
+            },
+            {
+                  "name": "Badkirche",
+                  "text": "Evangélikus templom St. Moritz fürdőnegyedében, amely a tóparti elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.834712,
+                        46.491342
+                  ]
+            },
+            {
+                  "name": "St. Mauritius",
+                  "text": "Szent Móric tiszteletére szentelt templom St. Moritz központjában.",
+                  "category": "religious",
+                  "coords": [
+                        9.843775,
+                        46.500895
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Moritz",
+                  "text": "A Szent Móric református templom a település központjának meghatározó épülete.",
+                  "category": "religious",
+                  "coords": [
+                        9.839973,
+                        46.498369
+                  ]
+            },
+            {
+                  "name": "Église au bois",
+                  "text": "Történelmi francia templom, amely református istentiszteleti helyként szolgál St. Moritzban.",
+                  "category": "religious",
+                  "coords": [
+                        9.836293,
+                        46.482812
+                  ]
+            },
+            {
+                  "name": "St. Rochus",
+                  "text": "Ez a református templom St. Moritz Champfèr városrészében található.",
+                  "category": "religious",
+                  "coords": [
+                        9.810509,
+                        46.478094
+                  ]
+            },
+            {
+                  "name": "Lej Marsch",
+                  "text": "Kis mocsári tó St. Moritz közelében, amelyet gyakran használnak fürdésre.",
+                  "category": "natural",
+                  "coords": [
+                        9.819591,
+                        46.474508
+                  ]
+            },
+            {
+                  "name": "Lej Alv",
+                  "text": "Magaslati alpesi tó St. Moritz közelében, tiszta vízzel.",
+                  "category": "natural",
+                  "coords": [
+                        9.807457,
+                        46.513519
+                  ]
+            },
+            {
+                  "name": "Lej da la Tscheppa",
+                  "text": "Félreeső hegyi tó St. Moritz régiójában, ideális túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.751516,
+                        46.450996
+                  ]
+            },
+            {
+                  "name": "Hahnensee",
+                  "text": "Festői tó St. Moritz felett, széles kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        9.82844,
+                        46.467624
+                  ]
+            },
+            {
+                  "name": "Lej Nair",
+                  "text": "Sötét vizű hegyi tó St. Moritz közelében, csendes fekvéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.818659,
+                        46.470836
+                  ]
+            },
+            {
+                  "name": "Lej Suvretta",
+                  "text": "Hegyi tó St. Moritz közelében, alpesi flórával körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        9.768892,
+                        46.506712
+                  ]
+            },
+            {
+                  "name": "St. Moritzersee/Lej da San Murezzan",
+                  "text": "Ismert tó közvetlenül St. Moritznál, különböző rendezvények helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        9.846249,
+                        46.493349
+                  ]
+            },
+            {
+                  "name": "Lej da Staz",
+                  "text": "Idilli tó St. Moritz közelében, amely nyáron fürdésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.868616,
+                        46.496342
+                  ]
+            },
+            {
+                  "name": "Lej da Gravatscha",
+                  "text": "Tó St. Moritz közelében, védett természetvédelmi területtel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        9.898571,
+                        46.545814
+                  ]
+            },
+            {
+                  "name": "Lej da l' Ova Cotschna",
+                  "text": "Kis tó az Engadin-völgy táján, St. Moritz közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.850791,
+                        46.468649
+                  ]
+            },
+            {
+                  "name": "Lej dal Rosatsch",
+                  "text": "Hegyi tó St. Moritz közelében, az alpesi hegyvilágba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        9.86601,
+                        46.467383
+                  ]
+            },
+            {
+                  "name": "Lej da Champfèr",
+                  "text": "Tó Felső-Engadinban, St. Moritz közelében, népszerű a parti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.805607,
+                        46.466357
+                  ]
+            },
+            {
+                  "name": "Lej da la Pêsch",
+                  "text": "Csendes fekvésű tó a St. Moritz feletti hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        9.779006,
+                        46.509988
+                  ]
+            },
+            {
+                  "name": "Puoz Ot",
+                  "text": "Kis állóvíz St. Moritz alpesi régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        9.910693,
+                        46.441746
+                  ]
+            },
+            {
+                  "name": "Lejets da Cuolms",
+                  "text": "A St Moritz közelében található Lejets da Cuolms tó festői környezetet kínál a természetbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.756553,
+                        46.507612
+                  ]
+            },
+            {
+                  "name": "Lejin da Misaun",
+                  "text": "A St Moritz melletti Lejin da Misaun egy csendes hegyi tó, amely pihenésre és a kilátás élvezetére invitál.",
+                  "category": "natural",
+                  "coords": [
+                        9.88765,
+                        46.436554
+                  ]
+            },
+            {
+                  "name": "Lej de la Fuorcla",
+                  "text": "A St Moritz közelében fekvő Lej de la Fuorcla idilli hangulatot áraszt az alpesi táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        9.826893,
+                        46.438535
+                  ]
+            },
+            {
+                  "name": "Lej Murtel",
+                  "text": "A St Moritz melletti Lej Murtel tiszta vizével és az azt körülölelő hegyekkel nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        9.826214,
+                        46.433971
+                  ]
+            },
+            {
+                  "name": "Lejin Rhodonit",
+                  "text": "A St Moritz közelében található Lejin Rhodonit egy kis tavacska, amely kikapcsolódást nyújt az alpesi természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.798689,
+                        46.426887
+                  ]
+            },
+            {
+                  "name": "Lejin S-chaglia",
+                  "text": "A St Moritz melletti Lejin S-chaglia békés környezetet biztosít a természetbarátok és pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.795633,
+                        46.426342
+                  ]
+            },
+            {
+                  "name": "Lej da Silvaplauna",
+                  "text": "A St Moritz melletti Silvaplaner-tó lenyűgöző látványáról és változatos vízparti kikapcsolódási lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.790615,
+                        46.448277
+                  ]
+            },
+            {
+                  "name": "Spielplatz Salastrains",
+                  "text": "A St Moritz-i Spielplatz Salastrains játszótér változatos játéklehetőségeket kínál a gyerekeknek alpesi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.829243,
+                        46.499242
+                  ]
+            },
+            {
+                  "name": "St. Mauritius-Kirche",
+                  "text": "A régi Szent Móric-templom maradványai St. Moritzban, jellegzetes ferde tornyáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        9.841428,
+                        46.499826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mili Weber",
+                  "text": "Acest muzeu din St. Moritz prezintă opera fantastică a artistei Mili Weber în fosta sa locuință.",
+                  "category": "museum",
+                  "coords": [
+                        9.856032,
+                        46.497464
+                  ]
+            },
+            {
+                  "name": "Segantini Museum",
+                  "text": "Segantini Museum din St Moritz este dedicat în întregime vieții și operelor pictorului Giovanni Segantini. În cadrul acestei instituții elvețiene, pasionații de artă pot explora creațiile fascinante ale artistului.",
+                  "category": "museum",
+                  "coords": [
+                        9.833309,
+                        46.492698
+                  ]
+            },
+            {
+                  "name": "Berry Museum",
+                  "text": "Acest muzeu prezintă lucrările medicului și pictorului Peter Robert Berry în cartierul istoric al stațiunii.",
+                  "category": "museum",
+                  "coords": [
+                        9.837903,
+                        46.496378
+                  ]
+            },
+            {
+                  "name": "Museum Engiadinais",
+                  "text": "Muzeul oferă o perspectivă asupra culturii tradiționale de locuire și istoriei din Engadina.",
+                  "category": "museum",
+                  "coords": [
+                        9.835242,
+                        46.493964
+                  ]
+            },
+            {
+                  "name": "Piz da l'Ova Cotschna",
+                  "text": "Un vârf montan proeminent lângă St. Moritz, care este o destinație populară pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        9.84639,
+                        46.46876
+                  ]
+            },
+            {
+                  "name": "Sass Runzöl",
+                  "text": "Un vârf din lumea montană a St. Moritz-ului, cunoscut pentru peisajul său alpin.",
+                  "category": "natural",
+                  "coords": [
+                        9.826354,
+                        46.509659
+                  ]
+            },
+            {
+                  "name": "Sass da Muottas",
+                  "text": "Un punct de belvedere și vârf montan în regiunea Oberengadin, lângă St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.833417,
+                        46.512264
+                  ]
+            },
+            {
+                  "name": "Vito Schnabel Gallery",
+                  "text": "Vito Schnabel Gallery este o prestigioasă galerie de artă situată în inima stațiunii St Moritz. Aici sunt prezentate expoziții de artă contemporană, curatoriate cu atenție de Vito Schnabel.",
+                  "category": "museum",
+                  "coords": [
+                        9.842657,
+                        46.500076
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "O locație a galeriei de artă modernă și contemporană de renume internațional.",
+                  "category": "museum",
+                  "coords": [
+                        9.841019,
+                        46.497796
+                  ]
+            },
+            {
+                  "name": "Galerie Karsten Greve",
+                  "text": "Această galerie prezintă poziții importante ale artei contemporane în St. Moritz.",
+                  "category": "museum",
+                  "coords": [
+                        9.838553,
+                        46.497376
+                  ]
+            },
+            {
+                  "name": "St. Moritz Tobogganing Club",
+                  "text": "Un club cu tradiție din St. Moritz, cunoscut pentru celebra pistă Cresta Run.",
+                  "category": "landmark",
+                  "coords": [
+                        9.844938,
+                        46.502551
+                  ]
+            },
+            {
+                  "name": "Großherzog Friedrichs Blick",
+                  "text": "Un monument din St. Moritz care comemorează vizita Marelui Duce Frederic I.",
+                  "category": "historical",
+                  "coords": [
+                        9.830917,
+                        46.472637
+                  ]
+            },
+            {
+                  "name": "Fullun",
+                  "text": "Un punct de belvedere din St. Moritz care oferă o vedere largă asupra peisajului lacustru din jur.",
+                  "category": "natural",
+                  "coords": [
+                        9.859375,
+                        46.503513
+                  ]
+            },
+            {
+                  "name": "Sender Celerina",
+                  "text": "Un turn de transmisie proeminent lângă St. Moritz, important pentru radiodifuziunea regională.",
+                  "category": "tower",
+                  "coords": [
+                        9.841018,
+                        46.505656
+                  ]
+            },
+            {
+                  "name": "San Carl",
+                  "text": "O biserică catolică din St. Moritz Bad, care servește comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        9.838112,
+                        46.488802
+                  ]
+            },
+            {
+                  "name": "Baselgia refurmeda Crasta",
+                  "text": "O biserică reformată istorică din Crasta, lângă Celerina și St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.855901,
+                        46.510879
+                  ]
+            },
+            {
+                  "name": "Baselgia catolica",
+                  "text": "O biserică catolică din Oberengadin, utilizată ca loc de devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        9.860133,
+                        46.51126
+                  ]
+            },
+            {
+                  "name": "Badkirche",
+                  "text": "Biserica evanghelică din cartierul balnear din St. Moritz, cunoscută pentru locația sa lângă lac.",
+                  "category": "religious",
+                  "coords": [
+                        9.834712,
+                        46.491342
+                  ]
+            },
+            {
+                  "name": "St. Mauritius",
+                  "text": "O biserică dedicată Sfântului Mauriciu în centrul orașului St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.843775,
+                        46.500895
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Moritz",
+                  "text": "Biserica reformată din St. Moritz este un reper important din centrul localității.",
+                  "category": "religious",
+                  "coords": [
+                        9.839973,
+                        46.498369
+                  ]
+            },
+            {
+                  "name": "Église au bois",
+                  "text": "O biserică istorică franceză care servește ca lăcaș de cult reformat în St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.836293,
+                        46.482812
+                  ]
+            },
+            {
+                  "name": "St. Rochus",
+                  "text": "Această biserică reformată se află în districtul Champfèr din St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.810509,
+                        46.478094
+                  ]
+            },
+            {
+                  "name": "Lej Marsch",
+                  "text": "Un mic lac de mlaștină lângă St. Moritz, adesea folosit pentru scăldat.",
+                  "category": "natural",
+                  "coords": [
+                        9.819591,
+                        46.474508
+                  ]
+            },
+            {
+                  "name": "Lej Alv",
+                  "text": "Un lac alpin înalt lângă St. Moritz, cu apă limpede.",
+                  "category": "natural",
+                  "coords": [
+                        9.807457,
+                        46.513519
+                  ]
+            },
+            {
+                  "name": "Lej da la Tscheppa",
+                  "text": "Un lac montan izolat în regiunea St. Moritz, ideal pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        9.751516,
+                        46.450996
+                  ]
+            },
+            {
+                  "name": "Hahnensee",
+                  "text": "Un lac pitoresc deasupra localității St. Moritz, cu o vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        9.82844,
+                        46.467624
+                  ]
+            },
+            {
+                  "name": "Lej Nair",
+                  "text": "Un lac montan întunecat lângă St. Moritz, cunoscut pentru locația sa liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        9.818659,
+                        46.470836
+                  ]
+            },
+            {
+                  "name": "Lej Suvretta",
+                  "text": "Un lac de munte lângă St. Moritz, înconjurat de floră alpină.",
+                  "category": "natural",
+                  "coords": [
+                        9.768892,
+                        46.506712
+                  ]
+            },
+            {
+                  "name": "St. Moritzersee/Lej da San Murezzan",
+                  "text": "Un lac cunoscut chiar lângă St. Moritz, locul de desfășurare a diverse evenimente.",
+                  "category": "natural",
+                  "coords": [
+                        9.846249,
+                        46.493349
+                  ]
+            },
+            {
+                  "name": "Lej da Staz",
+                  "text": "Un lac idilic lângă St. Moritz, care invită la scăldat în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.868616,
+                        46.496342
+                  ]
+            },
+            {
+                  "name": "Lej da Gravatscha",
+                  "text": "Un lac lângă St. Moritz, înconjurat de natură protejată.",
+                  "category": "natural",
+                  "coords": [
+                        9.898571,
+                        46.545814
+                  ]
+            },
+            {
+                  "name": "Lej da l' Ova Cotschna",
+                  "text": "Un mic lac în peisajul Engadinei, lângă St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.850791,
+                        46.468649
+                  ]
+            },
+            {
+                  "name": "Lej dal Rosatsch",
+                  "text": "Un lac montan lângă St. Moritz, integrat în lumea alpină a munților.",
+                  "category": "natural",
+                  "coords": [
+                        9.86601,
+                        46.467383
+                  ]
+            },
+            {
+                  "name": "Lej da Champfèr",
+                  "text": "Un lac în Engadina de Sus, lângă St. Moritz, popular pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.805607,
+                        46.466357
+                  ]
+            },
+            {
+                  "name": "Lej da la Pêsch",
+                  "text": "Un lac liniștit situat în munții de deasupra localității St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.779006,
+                        46.509988
+                  ]
+            },
+            {
+                  "name": "Puoz Ot",
+                  "text": "O mică întindere de apă în regiunea alpină din St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.910693,
+                        46.441746
+                  ]
+            },
+            {
+                  "name": "Lejets da Cuolms",
+                  "text": "Lacul Lejets da Cuolms de lângă St Moritz oferă un cadru pitoresc pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.756553,
+                        46.507612
+                  ]
+            },
+            {
+                  "name": "Lejin da Misaun",
+                  "text": "Lejin da Misaun de lângă St Moritz este un lac montan liniștit, ideal pentru relaxare și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        9.88765,
+                        46.436554
+                  ]
+            },
+            {
+                  "name": "Lej de la Fuorcla",
+                  "text": "Lej de la Fuorcla de lângă St Moritz oferă o atmosferă idilică în mijlocul peisajului alpin.",
+                  "category": "natural",
+                  "coords": [
+                        9.826893,
+                        46.438535
+                  ]
+            },
+            {
+                  "name": "Lej Murtel",
+                  "text": "Lej Murtel de lângă St Moritz impresionează prin apele sale limpezi și lumea montană înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        9.826214,
+                        46.433971
+                  ]
+            },
+            {
+                  "name": "Lejin Rhodonit",
+                  "text": "Lejin Rhodonit de lângă St Moritz este un mic lac care invită la relaxare în natura alpină.",
+                  "category": "natural",
+                  "coords": [
+                        9.798689,
+                        46.426887
+                  ]
+            },
+            {
+                  "name": "Lejin S-chaglia",
+                  "text": "Lejin S-chaglia de lângă St Moritz oferă un mediu liniștit pentru iubitorii de natură și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.795633,
+                        46.426342
+                  ]
+            },
+            {
+                  "name": "Lej da Silvaplauna",
+                  "text": "Lacul Silvaplana de lângă St Moritz este cunoscut pentru peisajul său impresionant și diversele posibilități de agrement pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.790615,
+                        46.448277
+                  ]
+            },
+            {
+                  "name": "Spielplatz Salastrains",
+                  "text": "Locul de joacă Salastrains din St Moritz oferă copiilor diverse posibilități de joacă într-un cadru alpin.",
+                  "category": "family",
+                  "coords": [
+                        9.829243,
+                        46.499242
+                  ]
+            },
+            {
+                  "name": "St. Mauritius-Kirche",
+                  "text": "Rămășițele vechii biserici Sfântul Mauriciu din St. Moritz, cunoscută pentru turnul său înclinat distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        9.841428,
+                        46.499826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mili Weber",
+                  "text": "This museum in St. Moritz showcases the fantastic work of artist Mili Weber in her former home.",
+                  "category": "museum",
+                  "coords": [
+                        9.856032,
+                        46.497464
+                  ]
+            },
+            {
+                  "name": "Segantini Museum",
+                  "text": "The Segantini Museum in St Moritz is entirely dedicated to the life and works of the painter Giovanni Segantini. Art enthusiasts visiting this Swiss institution can deeply explore his impressive artistic legacy.",
+                  "category": "museum",
+                  "coords": [
+                        9.833309,
+                        46.492698
+                  ]
+            },
+            {
+                  "name": "Berry Museum",
+                  "text": "This museum displays works by the doctor and painter Peter Robert Berry in the historic spa district.",
+                  "category": "museum",
+                  "coords": [
+                        9.837903,
+                        46.496378
+                  ]
+            },
+            {
+                  "name": "Museum Engiadinais",
+                  "text": "The museum provides insight into traditional Engadine domestic culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        9.835242,
+                        46.493964
+                  ]
+            },
+            {
+                  "name": "Piz da l'Ova Cotschna",
+                  "text": "A prominent mountain peak near St. Moritz that is a popular destination for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        9.84639,
+                        46.46876
+                  ]
+            },
+            {
+                  "name": "Sass Runzöl",
+                  "text": "A peak in the mountains around St. Moritz known for its alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.826354,
+                        46.509659
+                  ]
+            },
+            {
+                  "name": "Sass da Muottas",
+                  "text": "A viewpoint and mountain peak in the Upper Engadine region near St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.833417,
+                        46.512264
+                  ]
+            },
+            {
+                  "name": "Vito Schnabel Gallery",
+                  "text": "The Vito Schnabel Gallery is a prominent art gallery located in the heart of St Moritz. This Swiss museum showcases contemporary art exhibitions carefully curated by Vito Schnabel.",
+                  "category": "museum",
+                  "coords": [
+                        9.842657,
+                        46.500076
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A location of the internationally renowned gallery for modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        9.841019,
+                        46.497796
+                  ]
+            },
+            {
+                  "name": "Galerie Karsten Greve",
+                  "text": "This gallery presents important positions of contemporary art in St. Moritz.",
+                  "category": "museum",
+                  "coords": [
+                        9.838553,
+                        46.497376
+                  ]
+            },
+            {
+                  "name": "SMTC St. Moritz Tobogganing Club",
+                  "text": "A traditional club in St. Moritz known for the famous Cresta Run.",
+                  "category": "landmark",
+                  "coords": [
+                        9.844938,
+                        46.502551
+                  ]
+            },
+            {
+                  "name": "Großherzog Friedrichs Blick",
+                  "text": "A monument in St. Moritz commemorating the visit of Grand Duke Frederick I.",
+                  "category": "historical",
+                  "coords": [
+                        9.830917,
+                        46.472637
+                  ]
+            },
+            {
+                  "name": "Fullun",
+                  "text": "A viewpoint in St. Moritz offering a wide view over the surrounding lake landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.859375,
+                        46.503513
+                  ]
+            },
+            {
+                  "name": "Sender Celerina",
+                  "text": "A prominent radio tower near St. Moritz important for regional broadcasting.",
+                  "category": "tower",
+                  "coords": [
+                        9.841018,
+                        46.505656
+                  ]
+            },
+            {
+                  "name": "San Carl",
+                  "text": "A Catholic church in St. Moritz Bad serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        9.838112,
+                        46.488802
+                  ]
+            },
+            {
+                  "name": "Baselgia refurmeda Crasta",
+                  "text": "A historic Reformed church in Crasta near Celerina, close to St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.855901,
+                        46.510879
+                  ]
+            },
+            {
+                  "name": "Baselgia catolica",
+                  "text": "A Catholic church in the Upper Engadine used as a place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        9.860133,
+                        46.51126
+                  ]
+            },
+            {
+                  "name": "Badkirche",
+                  "text": "The Protestant church in the spa district of St. Moritz, known for its lakeside location.",
+                  "category": "religious",
+                  "coords": [
+                        9.834712,
+                        46.491342
+                  ]
+            },
+            {
+                  "name": "St. Mauritius",
+                  "text": "A church dedicated to Saint Mauritius in the center of St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.843775,
+                        46.500895
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Moritz",
+                  "text": "The Reformed Church in St. Moritz is a prominent landmark in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        9.839973,
+                        46.498369
+                  ]
+            },
+            {
+                  "name": "Église au bois",
+                  "text": "A historic French church serving as a reformed place of worship in St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.836293,
+                        46.482812
+                  ]
+            },
+            {
+                  "name": "St. Rochus",
+                  "text": "This reformed church is located in the Champfèr district of St. Moritz.",
+                  "category": "religious",
+                  "coords": [
+                        9.810509,
+                        46.478094
+                  ]
+            },
+            {
+                  "name": "Lej Marsch",
+                  "text": "A small moor lake near St. Moritz, often used for swimming.",
+                  "category": "natural",
+                  "coords": [
+                        9.819591,
+                        46.474508
+                  ]
+            },
+            {
+                  "name": "Lej Alv",
+                  "text": "A high alpine lake near St. Moritz with clear water.",
+                  "category": "natural",
+                  "coords": [
+                        9.807457,
+                        46.513519
+                  ]
+            },
+            {
+                  "name": "Lej da la Tscheppa",
+                  "text": "A remote mountain lake in the St. Moritz region, ideal for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        9.751516,
+                        46.450996
+                  ]
+            },
+            {
+                  "name": "Hahnensee",
+                  "text": "A picturesque lake above St. Moritz with a wide view.",
+                  "category": "natural",
+                  "coords": [
+                        9.82844,
+                        46.467624
+                  ]
+            },
+            {
+                  "name": "Lej Nair",
+                  "text": "A dark mountain lake near St. Moritz, known for its quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        9.818659,
+                        46.470836
+                  ]
+            },
+            {
+                  "name": "Lej Suvretta",
+                  "text": "A mountain lake near St. Moritz, surrounded by alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.768892,
+                        46.506712
+                  ]
+            },
+            {
+                  "name": "Lake St. Moritz",
+                  "text": "A well-known lake right by St. Moritz, host to various events.",
+                  "category": "natural",
+                  "coords": [
+                        9.846249,
+                        46.493349
+                  ]
+            },
+            {
+                  "name": "Lej da Staz",
+                  "text": "An idyllic lake near St. Moritz, inviting for swimming in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.868616,
+                        46.496342
+                  ]
+            },
+            {
+                  "name": "Lej da Gravatscha",
+                  "text": "A lake near St. Moritz, surrounded by protected nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.898571,
+                        46.545814
+                  ]
+            },
+            {
+                  "name": "Lej da l' Ova Cotschna",
+                  "text": "A small lake in the Engadine landscape near St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.850791,
+                        46.468649
+                  ]
+            },
+            {
+                  "name": "Lej dal Rosatsch",
+                  "text": "A mountain lake near St. Moritz, nestled in the alpine mountains.",
+                  "category": "natural",
+                  "coords": [
+                        9.86601,
+                        46.467383
+                  ]
+            },
+            {
+                  "name": "Lej da Champfèr",
+                  "text": "A lake in the Upper Engadine near St. Moritz, popular for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.805607,
+                        46.466357
+                  ]
+            },
+            {
+                  "name": "Lej da la Pêsch",
+                  "text": "A quietly located lake in the mountains above St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.779006,
+                        46.509988
+                  ]
+            },
+            {
+                  "name": "Puoz Ot",
+                  "text": "A small body of still water in the alpine region of St. Moritz.",
+                  "category": "natural",
+                  "coords": [
+                        9.910693,
+                        46.441746
+                  ]
+            },
+            {
+                  "name": "Lejets da Cuolms",
+                  "text": "Lejets da Cuolms lake near St Moritz offers a scenic setting for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.756553,
+                        46.507612
+                  ]
+            },
+            {
+                  "name": "Lejin da Misaun",
+                  "text": "Lejin da Misaun near St Moritz is a quiet mountain lake, perfect for relaxing and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        9.88765,
+                        46.436554
+                  ]
+            },
+            {
+                  "name": "Lej de la Fuorcla",
+                  "text": "Lej de la Fuorcla near St Moritz offers an idyllic atmosphere amidst the alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.826893,
+                        46.438535
+                  ]
+            },
+            {
+                  "name": "Lej Murtel",
+                  "text": "Lej Murtel near St Moritz impresses with its clear water and the surrounding mountain world.",
+                  "category": "natural",
+                  "coords": [
+                        9.826214,
+                        46.433971
+                  ]
+            },
+            {
+                  "name": "Lejin Rhodonit",
+                  "text": "Lejin Rhodonit near St Moritz is a small body of water that invites relaxation in alpine nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.798689,
+                        46.426887
+                  ]
+            },
+            {
+                  "name": "Lejin S-chaglia",
+                  "text": "Lejin S-chaglia near St Moritz offers a peaceful environment for nature lovers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.795633,
+                        46.426342
+                  ]
+            },
+            {
+                  "name": "Lake Silvaplana",
+                  "text": "Lake Silvaplana near St Moritz is known for its impressive scenery and various lakeside recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        9.790615,
+                        46.448277
+                  ]
+            },
+            {
+                  "name": "Spielplatz Salastrains",
+                  "text": "The Salastrains playground in St Moritz offers children various play opportunities in an alpine setting.",
+                  "category": "family",
+                  "coords": [
+                        9.829243,
+                        46.499242
+                  ]
+            },
+            {
+                  "name": "St. Mauritius-Kirche",
+                  "text": "The remains of the old Saint Maurice church in St. Moritz, known for its distinctive leaning tower.",
+                  "category": "historical",
+                  "coords": [
+                        9.841428,
+                        46.499826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "St. Moritz", hu: "St. Moritz", ro: "St. Moritz", en: "St. Moritz" },
@@ -65795,6 +67460,42 @@ export const switzerlandCitiesV2: POI[] = [
                         6.840026,
                         46.345483
                   ]
+            },
+            {
+                  "name": "Chateau d'Aigle",
+                  "text": "Das Schloss Aigle ist eine imposante Festung aus dem 12. Jahrhundert, die heute ein Weinmuseum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        6.976245,
+                        46.315025
+                  ]
+            },
+            {
+                  "name": "Chapelle St-Jean",
+                  "text": "Eine charmante kleine Kapelle in Aigle, bekannt für ihre ruhige Atmosphäre und historische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        6.957573,
+                        46.318201
+                  ]
+            },
+            {
+                  "name": "Eglise du Cloitre",
+                  "text": "Eine historische Kirche in Aigle, die einen zentralen Teil des religiösen Erbes der Stadt bildet.",
+                  "category": "religious",
+                  "coords": [
+                        6.974041,
+                        46.315956
+                  ]
+            },
+            {
+                  "name": "Eglise catholique d'Aigle",
+                  "text": "Die katholische Hauptkirche von Aigle, ausgezeichnet durch ihren Baustil und ihre religiöse Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        6.967467,
+                        46.317354
+                  ]
             }
       ],
       "hu": [
@@ -65850,6 +67551,42 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.840026,
                         46.345483
+                  ]
+            },
+            {
+                  "name": "Chateau d'Aigle",
+                  "text": "Az aigle-i vár egy impozáns 12. századi erődítmény, amely ma bormúzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        6.976245,
+                        46.315025
+                  ]
+            },
+            {
+                  "name": "Chapelle St-Jean",
+                  "text": "Bájos kis kápolna Aigle-ben, amely nyugodt légköréről és történelmi építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        6.957573,
+                        46.318201
+                  ]
+            },
+            {
+                  "name": "Eglise du Cloitre",
+                  "text": "Történelmi templom Aigle-ben, amely a város vallási örökségének központi részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        6.974041,
+                        46.315956
+                  ]
+            },
+            {
+                  "name": "Eglise catholique d'Aigle",
+                  "text": "Aigle fő katolikus temploma, amely építészeti stílusával és vallási jelentőségével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        6.967467,
+                        46.317354
                   ]
             }
       ],
@@ -65907,6 +67644,42 @@ export const switzerlandCitiesV2: POI[] = [
                         6.840026,
                         46.345483
                   ]
+            },
+            {
+                  "name": "Chateau d'Aigle",
+                  "text": "Castelul Aigle este o fortăreață impunătoare din secolul al XII-lea, care găzduiește astăzi un muzeu al vinului.",
+                  "category": "castle",
+                  "coords": [
+                        6.976245,
+                        46.315025
+                  ]
+            },
+            {
+                  "name": "Chapelle St-Jean",
+                  "text": "O mică chapelă fermecătoare din Aigle, cunoscută pentru atmosfera sa liniștită și arhitectura istorică.",
+                  "category": "religious",
+                  "coords": [
+                        6.957573,
+                        46.318201
+                  ]
+            },
+            {
+                  "name": "Eglise du Cloitre",
+                  "text": "O biserică istorică din Aigle, care constituie o parte centrală a patrimoniului religios al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        6.974041,
+                        46.315956
+                  ]
+            },
+            {
+                  "name": "Eglise catholique d'Aigle",
+                  "text": "Biserica catolică principală din Aigle, remarcată prin stilul său arhitectural și importanța religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        6.967467,
+                        46.317354
+                  ]
             }
       ],
       "en": [
@@ -65962,6 +67735,42 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.840026,
                         46.345483
+                  ]
+            },
+            {
+                  "name": "Chateau d'Aigle",
+                  "text": "Aigle Castle is an imposing 12th-century fortress that now houses a wine museum.",
+                  "category": "castle",
+                  "coords": [
+                        6.976245,
+                        46.315025
+                  ]
+            },
+            {
+                  "name": "Chapelle St-Jean",
+                  "text": "A charming small chapel in Aigle known for its peaceful atmosphere and historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        6.957573,
+                        46.318201
+                  ]
+            },
+            {
+                  "name": "Eglise du Cloitre",
+                  "text": "A historic church in Aigle that forms a central part of the town's religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        6.974041,
+                        46.315956
+                  ]
+            },
+            {
+                  "name": "Eglise catholique d'Aigle",
+                  "text": "The main Catholic church of Aigle, noted for its architectural style and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        6.967467,
+                        46.317354
                   ]
             }
       ]

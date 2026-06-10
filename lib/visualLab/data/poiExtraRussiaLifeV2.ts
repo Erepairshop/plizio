@@ -411,7 +411,52 @@ imageHint: "Russian sable in pine forest",
     },
     image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp",
 },  {
-    id: "russia-voronezh-reserve-life-v2",
+    id: "russia-voronezh-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staatliches Biosphärenreservat Woronesch",
+                  "text": "Dieses staatliche Biosphärenreservat schützt die vielfältigen Waldökosysteme und die Tierwelt der Region Woronesch.",
+                  "category": "natural",
+                  "coords": [
+                        39.607771,
+                        51.945065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+                  "text": "Ez az állami bioszféra-rezervátum a Voronyezs régió változatos erdei ökoszisztémáit és vadvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        39.607771,
+                        51.945065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+                  "text": "Această rezervație biosferei de stat protejează ecosistemele forestiere diverse și viața sălbatică din regiunea Voronezh.",
+                  "category": "natural",
+                  "coords": [
+                        39.607771,
+                        51.945065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "V. Peskov Voronezhsky State Nature Biosphere Reserve",
+                  "text": "This state biosphere reserve protects the diverse forest ecosystems and wildlife of the Voronezh region.",
+                  "category": "natural",
+                  "coords": [
+                        39.607771,
+                        51.945065
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Woronesch-Naturreservat", hu: "Voronyezsi Természetvédelmi Terület", ro: "Rezervația Naturală Voronej", en: "Voronezh Nature Reserve"},
@@ -733,7 +778,124 @@ imageHint: "Sochi Arboretum palms and fountain",
     },
     image: "/poi-images/russia-sochi-arboretum-life-v2.webp",
 },  {
-    id: "russia-curonian-spit-life-v2",
+    id: "russia-curonian-spit-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Танцующий лес",
+                  "text": "Ein berühmter Kiefernwald auf der Kurischen Nehrung, bekannt für seine bizarr verformten Stämme.",
+                  "category": "natural",
+                  "coords": [
+                        20.862428,
+                        55.179864
+                  ]
+            },
+            {
+                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "text": "Ein beliebter Wanderweg im Nationalpark Kurische Nehrung mit herrlicher Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        20.818795,
+                        55.150912
+                  ]
+            },
+            {
+                  "name": "Высота Мюллера 1882",
+                  "text": "Ein historisches Denkmal auf der Kurischen Nehrung zur Erinnerung an den Forstmeister Muller.",
+                  "category": "historical",
+                  "coords": [
+                        20.812075,
+                        55.148443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Танцующий лес",
+                  "text": "A Kur-földnyelv híres fenyőerdője, amely különös módon megcsavarodott törzseiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.862428,
+                        55.179864
+                  ]
+            },
+            {
+                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "text": "Népszerű túraútvonal a Kur-földnyelv Nemzeti Parkban, szép kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        20.818795,
+                        55.150912
+                  ]
+            },
+            {
+                  "name": "Высота Мюллера 1882",
+                  "text": "Történelmi emlékmű a Kur-földnyelven, amely Muller erdőmesternek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        20.812075,
+                        55.148443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Танцующий лес",
+                  "text": "O celebră pădure de pini de pe Grindul Curonian, cunoscută pentru trunchiurile sale torsionate.",
+                  "category": "natural",
+                  "coords": [
+                        20.862428,
+                        55.179864
+                  ]
+            },
+            {
+                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "text": "Un traseu pietonal popular în Parcul Național Grindul Curonian, oferind vederi pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        20.818795,
+                        55.150912
+                  ]
+            },
+            {
+                  "name": "Высота Мюллера 1882",
+                  "text": "Un monument istoric pe Grindul Curonian, dedicat pădurarului-șef Muller.",
+                  "category": "historical",
+                  "coords": [
+                        20.812075,
+                        55.148443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dancing Forest",
+                  "text": "A famous pine forest on the Curonian Spit known for its strangely twisted tree trunks.",
+                  "category": "natural",
+                  "coords": [
+                        20.862428,
+                        55.179864
+                  ]
+            },
+            {
+                  "name": "Pedestrian Route \"Muller's High\"",
+                  "text": "A popular hiking route in the Curonian Spit National Park with scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.818795,
+                        55.150912
+                  ]
+            },
+            {
+                  "name": "Muller's Holm 1882",
+                  "text": "A historic monument on the Curonian Spit dedicated to the forest master Muller.",
+                  "category": "historical",
+                  "coords": [
+                        20.812075,
+                        55.148443
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Kurische Nehrung", hu: "Kur-földnyelv Nemzeti Park", ro: "Parcul Național Grindul Curonian", en: "Curonian Spit National Park"},

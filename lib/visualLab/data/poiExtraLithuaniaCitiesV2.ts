@@ -1517,6 +1517,15 @@ imageHint: "Siauliai city square and cathedral",
                         24.408147,
                         55.762352
                   ]
+            },
+            {
+                  "name": "Stasys Museum",
+                  "text": "Ein modernes Kunstmuseum in Panevėžys, das dem Werk des Künstlers Stasys Eidrigevičius gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.359845,
+                        55.731936
+                  ]
             }
       ],
       "hu": [
@@ -1788,6 +1797,15 @@ imageHint: "Siauliai city square and cathedral",
                   "coords": [
                         24.408147,
                         55.762352
+                  ]
+            },
+            {
+                  "name": "Stasys Museum",
+                  "text": "Modern művészeti múzeum Panevėžysben, amely Stasys Eidrigevičius művész munkásságának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        24.359845,
+                        55.731936
                   ]
             }
       ],
@@ -2061,6 +2079,15 @@ imageHint: "Siauliai city square and cathedral",
                         24.408147,
                         55.762352
                   ]
+            },
+            {
+                  "name": "Stasys Museum",
+                  "text": "Un muzeu de artă modernă din Panevėžys, dedicat operei artistului Stasys Eidrigevičius.",
+                  "category": "museum",
+                  "coords": [
+                        24.359845,
+                        55.731936
+                  ]
             }
       ],
       "en": [
@@ -2332,6 +2359,15 @@ imageHint: "Siauliai city square and cathedral",
                   "coords": [
                         24.408147,
                         55.762352
+                  ]
+            },
+            {
+                  "name": "Stasys Museum",
+                  "text": "A modern art museum in Panevėžys dedicated to the work of the artist Stasys Eidrigevičius.",
+                  "category": "museum",
+                  "coords": [
+                        24.359845,
+                        55.731936
                   ]
             }
       ]
@@ -5481,7 +5517,268 @@ imageHint: "Jonava city view and bridge",
     },
     image: "/poi-images/lithuania-jonava-cities-v2.webp",
 },  {
-    id: "lithuania-utena-cities-v2",
+    id: "lithuania-utena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Utenos kraštotyros muziejus",
+                  "text": "Ein Regionalmuseum in Utena, das die Geschichte, Kultur und Natur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.601177,
+                        55.49614
+                  ]
+            },
+            {
+                  "name": "Trakto Paryžius-Maskva Pašto stotis",
+                  "text": "Ein Museum in einer ehemaligen Poststation am historischen Trakt Paris-Moskau in Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.592452,
+                        55.497233
+                  ]
+            },
+            {
+                  "name": "Tradicinių amatų centras „Svirnas“",
+                  "text": "Ein traditionelles Handwerkszentrum und Museum in einem historischen Getreidespeicher in Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.609493,
+                        55.495733
+                  ]
+            },
+            {
+                  "name": "„Utenos“ aludarystės pažinimo centras",
+                  "text": "Ein Brauerei-Informationszentrum und Museum, das den Brautraditionen von Utena gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.642975,
+                        55.497018
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Ein Museum in Utena, das der Geschichte der Freiheitskämpfe und des Widerstands gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.582196,
+                        55.494153
+                  ]
+            },
+            {
+                  "name": "Vyžuonos parko amfiteatras",
+                  "text": "Ein Freiluft-Amphitheater im Vyžuonos-Park für Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.594555,
+                        55.504609
+                  ]
+            },
+            {
+                  "name": "Utenos dvaro sodyba",
+                  "text": "Ein historisches Herrenhaus in Utena, das das architektonische Erbe der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        25.609517,
+                        55.494543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Utenos kraštotyros muziejus",
+                  "text": "Utenai regionális múzeum, amely a terület történelmét, kultúráját és természetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.601177,
+                        55.49614
+                  ]
+            },
+            {
+                  "name": "Trakto Paryžius-Maskva Pašto stotis",
+                  "text": "Múzeum egy egykori postaállomáson a történelmi Párizs-Moszkva útvonalon, Utenában.",
+                  "category": "museum",
+                  "coords": [
+                        25.592452,
+                        55.497233
+                  ]
+            },
+            {
+                  "name": "Tradicinių amatų centras „Svirnas“",
+                  "text": "Hagyományos kézműves központ és múzeum egy történelmi magtárban, Utenában.",
+                  "category": "museum",
+                  "coords": [
+                        25.609493,
+                        55.495733
+                  ]
+            },
+            {
+                  "name": "„Utenos“ aludarystės pažinimo centras",
+                  "text": "Sörfőzési ismeretterjesztő központ és múzeum, amely Utena sörfőzési hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.642975,
+                        55.497018
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Utenai múzeum, amely a szabadságharcok és az ellenállás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.582196,
+                        55.494153
+                  ]
+            },
+            {
+                  "name": "Vyžuonos parko amfiteatras",
+                  "text": "Szabadtéri amfiteátrum a Vyžuonos parkban rendezvények és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        25.594555,
+                        55.504609
+                  ]
+            },
+            {
+                  "name": "Utenos dvaro sodyba",
+                  "text": "Történelmi kúria Utenában, amely a régió építészeti örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        25.609517,
+                        55.494543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Utenos kraštotyros muziejus",
+                  "text": "Un muzeu regional din Utena care prezintă istoria, cultura și natura zonei.",
+                  "category": "museum",
+                  "coords": [
+                        25.601177,
+                        55.49614
+                  ]
+            },
+            {
+                  "name": "Trakto Paryžius-Maskva Pašto stotis",
+                  "text": "Un muzeu situat într-o fostă stație poștală de pe traseul istoric Paris-Moscova din Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.592452,
+                        55.497233
+                  ]
+            },
+            {
+                  "name": "Tradicinių amatų centras „Svirnas“",
+                  "text": "Un centru de meșteșuguri tradiționale și muzeu găzduit într-un grânar istoric din Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.609493,
+                        55.495733
+                  ]
+            },
+            {
+                  "name": "„Utenos“ aludarystės pažinimo centras",
+                  "text": "Un centru de informare despre fabricarea berii și muzeu dedicat tradițiilor berii din Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.642975,
+                        55.497018
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Un muzeu din Utena dedicat istoriei luptelor pentru libertate și rezistenței.",
+                  "category": "museum",
+                  "coords": [
+                        25.582196,
+                        55.494153
+                  ]
+            },
+            {
+                  "name": "Vyžuonos parko amfiteatras",
+                  "text": "Un amfiteatru în aer liber situat în Parcul Vyžuonos pentru evenimente și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        25.594555,
+                        55.504609
+                  ]
+            },
+            {
+                  "name": "Utenos dvaro sodyba",
+                  "text": "Un conac istoric din Utena, care reflectă moștenirea arhitecturală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        25.609517,
+                        55.494543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of regionalstudies of Utena",
+                  "text": "A regional museum in Utena showcasing the history, culture, and nature of the area.",
+                  "category": "museum",
+                  "coords": [
+                        25.601177,
+                        55.49614
+                  ]
+            },
+            {
+                  "name": "Trakto Paryžius-Maskva Pašto stotis",
+                  "text": "A museum located in a former post station on the historic Paris-Moscow tract in Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.592452,
+                        55.497233
+                  ]
+            },
+            {
+                  "name": "Tradicinių amatų centras „Svirnas“",
+                  "text": "A traditional crafts center and museum housed in a historic granary in Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.609493,
+                        55.495733
+                  ]
+            },
+            {
+                  "name": "„Utenos“ aludarystės pažinimo centras",
+                  "text": "A brewery education center and museum dedicated to the brewing traditions of Utena.",
+                  "category": "museum",
+                  "coords": [
+                        25.642975,
+                        55.497018
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "A museum in Utena dedicated to the history of the freedom fights and resistance.",
+                  "category": "museum",
+                  "coords": [
+                        25.582196,
+                        55.494153
+                  ]
+            },
+            {
+                  "name": "Vyžuonos parko amfiteatras",
+                  "text": "An open-air amphitheater located in Vyžuonos Park for events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.594555,
+                        55.504609
+                  ]
+            },
+            {
+                  "name": "Utenos dvaro sodyba",
+                  "text": "A historic manor house in Utena, reflecting the architectural heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        25.609517,
+                        55.494543
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Utena", hu: "Utena", ro: "Utena", en: "Utena"},
@@ -5978,7 +6275,304 @@ imageHint: "Kedainiai old town market square",
     },
     image: "/poi-images/lithuania-kedainiai-cities-v2.webp",
 },  {
-    id: "lithuania-telsiai-cities-v2",
+    id: "lithuania-telsiai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Žemaičių-Museum Alka",
+                  "text": "Ein bedeutendes Museum in Telšiai, das die Geschichte und Kunst der Region Samogitien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.235725,
+                        55.975222
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "Eine antike Wallburg bei Telšiai, die ein wichtiges archäologisches Denkmal in Litauen ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.227861,
+                        55.991222
+                  ]
+            },
+            {
+                  "name": "A. Jonušo žemaitiška-japoniška sodyba-muziejus",
+                  "text": "Ein einzigartiges Museum in Telšiai, das samogitische Traditionen mit japanischen Elementen verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        22.230864,
+                        55.969229
+                  ]
+            },
+            {
+                  "name": "Samogitisches Dorfmuseum",
+                  "text": "Ein Freilichtmuseum in Telšiai, das traditionelle ländliche Architektur aus Samogitien präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.242437,
+                        55.965344
+                  ]
+            },
+            {
+                  "name": "Apžvalgos aikštelė šalia Telšių bažnyčios",
+                  "text": "Eine Aussichtsplattform neben der Kirche von Telšiai mit Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        22.256585,
+                        55.983166
+                  ]
+            },
+            {
+                  "name": "Muzikiniai Varpai",
+                  "text": "Eine Sehenswürdigkeit in Telšiai mit installierten Glocken, die Musik spielen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.245419,
+                        55.982153
+                  ]
+            },
+            {
+                  "name": "Telšių menų inkubatorius",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und kreative Projekte in der Stadt Telšiai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.236779,
+                        55.975833
+                  ]
+            },
+            {
+                  "name": "Telšių Šv. Nikolajaus Stebukladario cerkvė",
+                  "text": "Eine orthodoxe Kirche in Telšiai, die für ihre markante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.244488,
+                        55.987299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Žemaičių muziejus Alka",
+                  "text": "Jelentős múzeum Telšiaiban, amely Szamogitia régió történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.235725,
+                        55.975222
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "Ősi földvár Telšiai közelében, amely Litvánia egyik fontos régészeti műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        22.227861,
+                        55.991222
+                  ]
+            },
+            {
+                  "name": "A. Jonušo žemaitiška-japoniška sodyba-muziejus",
+                  "text": "Egyedülálló múzeum Telšiaiban, amely a szamogitiai hagyományokat japán elemekkel ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        22.230864,
+                        55.969229
+                  ]
+            },
+            {
+                  "name": "Žemaitijos kaimo ekspozicija",
+                  "text": "Szabadtéri múzeum Telšiaiban, amely Szamogitia hagyományos népi építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.242437,
+                        55.965344
+                  ]
+            },
+            {
+                  "name": "Apžvalgos aikštelė šalia Telšių bažnyčios",
+                  "text": "Kilátóterasz a telšiai templom mellett, kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        22.256585,
+                        55.983166
+                  ]
+            },
+            {
+                  "name": "Muzikiniai Varpai",
+                  "text": "Látványosság Telšiaiban telepített harangokkal, amelyek zenét játszanak.",
+                  "category": "landmark",
+                  "coords": [
+                        22.245419,
+                        55.982153
+                  ]
+            },
+            {
+                  "name": "Telšių menų inkubatorius",
+                  "text": "Kortárs művészeti központ és kreatív projektek helyszíne Telšiai városában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.236779,
+                        55.975833
+                  ]
+            },
+            {
+                  "name": "Telšių Šv. Nikolajaus Stebukladario cerkvė",
+                  "text": "Ortodox templom Telšiaiban, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        22.244488,
+                        55.987299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Žemaičių muziejus Alka",
+                  "text": "Un muzeu important din Telšiai care prezintă istoria și arta regiunii Samogiția.",
+                  "category": "museum",
+                  "coords": [
+                        22.235725,
+                        55.975222
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "O cetate antică lângă Telšiai, care este un monument arheologic important în Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        22.227861,
+                        55.991222
+                  ]
+            },
+            {
+                  "name": "A. Jonušo žemaitiška-japoniška sodyba-muziejus",
+                  "text": "Un muzeu unic în Telšiai care îmbină tradițiile samogitiene cu elemente japoneze.",
+                  "category": "museum",
+                  "coords": [
+                        22.230864,
+                        55.969229
+                  ]
+            },
+            {
+                  "name": "Žemaitijos kaimo ekspozicija",
+                  "text": "Un muzeu în aer liber din Telšiai care prezintă arhitectura rurală tradițională din Samogiția.",
+                  "category": "museum",
+                  "coords": [
+                        22.242437,
+                        55.965344
+                  ]
+            },
+            {
+                  "name": "Apžvalgos aikštelė šalia Telšių bažnyčios",
+                  "text": "O platformă de observație lângă biserica din Telšiai, cu vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        22.256585,
+                        55.983166
+                  ]
+            },
+            {
+                  "name": "Muzikiniai Varpai",
+                  "text": "O atracție din Telšiai cu clopote instalate care cântă muzică.",
+                  "category": "landmark",
+                  "coords": [
+                        22.245419,
+                        55.982153
+                  ]
+            },
+            {
+                  "name": "Telšių menų inkubatorius",
+                  "text": "Un centru pentru artă contemporană și proiecte creative din orașul Telšiai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.236779,
+                        55.975833
+                  ]
+            },
+            {
+                  "name": "Telšių Šv. Nikolajaus Stebukladario cerkvė",
+                  "text": "O biserică ortodoxă din Telšiai, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        22.244488,
+                        55.987299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Žemaičių muziejus Alka",
+                  "text": "A major museum in Telšiai showcasing the history and art of the Samogitia region.",
+                  "category": "museum",
+                  "coords": [
+                        22.235725,
+                        55.975222
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "An ancient hillfort near Telšiai that is an important archaeological monument in Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        22.227861,
+                        55.991222
+                  ]
+            },
+            {
+                  "name": "A. Jonušo žemaitiška-japoniška sodyba-muziejus",
+                  "text": "A unique museum in Telšiai combining Samogitian traditions with Japanese elements.",
+                  "category": "museum",
+                  "coords": [
+                        22.230864,
+                        55.969229
+                  ]
+            },
+            {
+                  "name": "Žemaitijos kaimo ekspozicija",
+                  "text": "An open-air museum in Telšiai presenting traditional rural architecture from Samogitia.",
+                  "category": "museum",
+                  "coords": [
+                        22.242437,
+                        55.965344
+                  ]
+            },
+            {
+                  "name": "Apžvalgos aikštelė šalia Telšių bažnyčios",
+                  "text": "An observation deck next to the Telšiai church with views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        22.256585,
+                        55.983166
+                  ]
+            },
+            {
+                  "name": "Muzikiniai Varpai",
+                  "text": "An attraction in Telšiai featuring installed bells that play music.",
+                  "category": "landmark",
+                  "coords": [
+                        22.245419,
+                        55.982153
+                  ]
+            },
+            {
+                  "name": "Telšių menų inkubatorius",
+                  "text": "A center for contemporary arts and creative projects in the city of Telšiai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.236779,
+                        55.975833
+                  ]
+            },
+            {
+                  "name": "Telšių Šv. Nikolajaus Stebukladario cerkvė",
+                  "text": "An Orthodox church in Telšiai known for its distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        22.244488,
+                        55.987299
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Telšiai", hu: "Telšiai", ro: "Telšiai", en: "Telšiai"},
@@ -7964,6 +8558,15 @@ imageHint: "Plunge Oginski palace and park",
                         21.252115,
                         55.910411
                   ]
+            },
+            {
+                  "name": "Kretingos Sv. Klaros seseru vienuolynas",
+                  "text": "Ein Kloster der Schwestern der Heiligen Klara in Kretinga.",
+                  "category": "religious",
+                  "coords": [
+                        21.239382,
+                        55.882109
+                  ]
             }
       ],
       "hu": [
@@ -8037,6 +8640,15 @@ imageHint: "Plunge Oginski palace and park",
                   "coords": [
                         21.252115,
                         55.910411
+                  ]
+            },
+            {
+                  "name": "Kretingos Sv. Klaros seseru vienuolynas",
+                  "text": "Szent Klára nővérek kolostora Kretingában.",
+                  "category": "religious",
+                  "coords": [
+                        21.239382,
+                        55.882109
                   ]
             }
       ],
@@ -8112,6 +8724,15 @@ imageHint: "Plunge Oginski palace and park",
                         21.252115,
                         55.910411
                   ]
+            },
+            {
+                  "name": "Kretingos Sv. Klaros seseru vienuolynas",
+                  "text": "Mănăstirea Surorilor Sfintei Clara din Kretinga.",
+                  "category": "religious",
+                  "coords": [
+                        21.239382,
+                        55.882109
+                  ]
             }
       ],
       "en": [
@@ -8185,6 +8806,15 @@ imageHint: "Plunge Oginski palace and park",
                   "coords": [
                         21.252115,
                         55.910411
+                  ]
+            },
+            {
+                  "name": "Kretingos Sv. Klaros seseru vienuolynas",
+                  "text": "A monastery of the Sisters of Saint Clare in Kretinga.",
+                  "category": "religious",
+                  "coords": [
+                        21.239382,
+                        55.882109
                   ]
             }
       ]
@@ -33477,6 +34107,69 @@ imageHint: "Lazdijai border crossing and church",
                         22.52314,
                         56.23223
                   ]
+            },
+            {
+                  "name": "Vieksniu pirmosios vaistines muziejus",
+                  "text": "Ein Museum in Viekšniai, das in der ersten historischen Apotheke der Stadt untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.517753,
+                        56.232291
+                  ]
+            },
+            {
+                  "name": "Profesoriu M. V. V. Birzisku memorialine ekspozicija",
+                  "text": "Eine Gedenkausstellung in Viekšniai, die den Professoren der Familie Biržiška gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.5158,
+                        56.234896
+                  ]
+            },
+            {
+                  "name": "Aviacijos pradininko A. Griskeviciaus memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum für den Luftfahrtpionier Aleksandras Griškevičius in Viekšniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.51951,
+                        56.232434
+                  ]
+            },
+            {
+                  "name": "S. Chriscinavicienes kurybos darbu galerija Sniegenos giesme akmeneliui",
+                  "text": "Eine Kunstgalerie in Viekšniai, die die kreativen Arbeiten von S. Chriscinavičienė zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.521575,
+                        56.235727
+                  ]
+            },
+            {
+                  "name": "Juodasis akmuo",
+                  "text": "Ein bedeutender Findling in Viekšniai, der als Schwarzer Stein bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.475469,
+                        56.230915
+                  ]
+            },
+            {
+                  "name": "Ventos ir Virvytes santakos apzvalgos bokstas",
+                  "text": "Ein Aussichtsturm am Zusammenfluss der Flüsse Venta und Virvytė bei Viekšniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.55108,
+                        56.230445
+                  ]
+            },
+            {
+                  "name": "Juodeikiu apzvalgos aikstele",
+                  "text": "Ein Aussichtspunkt in Viekšniai mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.5411,
+                        56.2313
+                  ]
             }
       ],
       "hu": [
@@ -33559,6 +34252,69 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         22.52314,
                         56.23223
+                  ]
+            },
+            {
+                  "name": "Vieksniu pirmosios vaistines muziejus",
+                  "text": "Múzeum Viekšniaiban, amely a város első történelmi gyógyszertárában található.",
+                  "category": "museum",
+                  "coords": [
+                        22.517753,
+                        56.232291
+                  ]
+            },
+            {
+                  "name": "Profesoriu M. V. V. Birzisku memorialine ekspozicija",
+                  "text": "Emlékkiállítás Viekšniaiban a Biržiška család professzorainak tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        22.5158,
+                        56.234896
+                  ]
+            },
+            {
+                  "name": "Aviacijos pradininko A. Griskeviciaus memorialinis muziejus",
+                  "text": "Aleksandras Griškevičius repülési úttörő emlékmúzeuma Viekšniaiban.",
+                  "category": "museum",
+                  "coords": [
+                        22.51951,
+                        56.232434
+                  ]
+            },
+            {
+                  "name": "S. Chriscinavicienes kurybos darbu galerija Sniegenos giesme akmeneliui",
+                  "text": "Művészeti galéria Viekšniaiban, amely S. Chriscinavičienė alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.521575,
+                        56.235727
+                  ]
+            },
+            {
+                  "name": "Juodasis akmuo",
+                  "text": "Egy jelentős vándorkő Viekšniaiban, amelyet Fekete kőként ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        22.475469,
+                        56.230915
+                  ]
+            },
+            {
+                  "name": "Ventos ir Virvytes santakos apzvalgos bokstas",
+                  "text": "Kilátótorony a Venta és Virvytė folyók összefolyásánál Viekšniai közelében.",
+                  "category": "natural",
+                  "coords": [
+                        22.55108,
+                        56.230445
+                  ]
+            },
+            {
+                  "name": "Juodeikiu apzvalgos aikstele",
+                  "text": "Kilátóhely Viekšniaiban, ahonnan rálátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.5411,
+                        56.2313
                   ]
             }
       ],
@@ -33643,6 +34399,69 @@ imageHint: "Lazdijai border crossing and church",
                         22.52314,
                         56.23223
                   ]
+            },
+            {
+                  "name": "Vieksniu pirmosios vaistines muziejus",
+                  "text": "Un muzeu în Viekšniai, situat în prima farmacie istorică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        22.517753,
+                        56.232291
+                  ]
+            },
+            {
+                  "name": "Profesoriu M. V. V. Birzisku memorialine ekspozicija",
+                  "text": "O expoziție memorială în Viekšniai dedicată profesorilor din familia Biržiška.",
+                  "category": "museum",
+                  "coords": [
+                        22.5158,
+                        56.234896
+                  ]
+            },
+            {
+                  "name": "Aviacijos pradininko A. Griskeviciaus memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat pionierului aviației Aleksandras Griškevičius în Viekšniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.51951,
+                        56.232434
+                  ]
+            },
+            {
+                  "name": "S. Chriscinavicienes kurybos darbu galerija Sniegenos giesme akmeneliui",
+                  "text": "O galerie de artă în Viekšniai care expune lucrările creative ale lui S. Chriscinavičienė.",
+                  "category": "museum",
+                  "coords": [
+                        22.521575,
+                        56.235727
+                  ]
+            },
+            {
+                  "name": "Juodasis akmuo",
+                  "text": "O piatră de dimensiuni mari în Viekšniai, cunoscută sub numele de Piatra Neagră.",
+                  "category": "landmark",
+                  "coords": [
+                        22.475469,
+                        56.230915
+                  ]
+            },
+            {
+                  "name": "Ventos ir Virvytes santakos apzvalgos bokstas",
+                  "text": "Turn de observare la confluența râurilor Venta și Virvytė, lângă Viekšniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.55108,
+                        56.230445
+                  ]
+            },
+            {
+                  "name": "Juodeikiu apzvalgos aikstele",
+                  "text": "Un punct de observație în Viekšniai cu vedere asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        22.5411,
+                        56.2313
+                  ]
             }
       ],
       "en": [
@@ -33725,6 +34544,69 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         22.52314,
                         56.23223
+                  ]
+            },
+            {
+                  "name": "Vieksniu pirmosios vaistines muziejus",
+                  "text": "A museum in Viekšniai located in the town's first historic pharmacy.",
+                  "category": "museum",
+                  "coords": [
+                        22.517753,
+                        56.232291
+                  ]
+            },
+            {
+                  "name": "Profesoriu M. V. V. Birzisku memorialine ekspozicija",
+                  "text": "A memorial exhibition in Viekšniai dedicated to the professors of the Biržiška family.",
+                  "category": "museum",
+                  "coords": [
+                        22.5158,
+                        56.234896
+                  ]
+            },
+            {
+                  "name": "Aviacijos pradininko A. Griskeviciaus memorialinis muziejus",
+                  "text": "A memorial museum for the aviation pioneer Aleksandras Griškevičius in Viekšniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.51951,
+                        56.232434
+                  ]
+            },
+            {
+                  "name": "S. Chriscinavicienes kurybos darbu galerija Sniegenos giesme akmeneliui",
+                  "text": "An art gallery in Viekšniai showcasing the creative works of S. Chriscinavičienė.",
+                  "category": "museum",
+                  "coords": [
+                        22.521575,
+                        56.235727
+                  ]
+            },
+            {
+                  "name": "Juodasis akmuo",
+                  "text": "A significant boulder in Viekšniai known as the Black Stone.",
+                  "category": "landmark",
+                  "coords": [
+                        22.475469,
+                        56.230915
+                  ]
+            },
+            {
+                  "name": "Ventos ir Virvytes santakos apzvalgos bokstas",
+                  "text": "An observation tower at the confluence of the Venta and Virvytė rivers near Viekšniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.55108,
+                        56.230445
+                  ]
+            },
+            {
+                  "name": "Juodeikiu apzvalgos aikstele",
+                  "text": "An observation point in Viekšniai offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.5411,
+                        56.2313
                   ]
             }
       ]

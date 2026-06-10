@@ -608,7 +608,304 @@ export const luxembourgLandmarksV2: POI[] = [
       fr: ["Installé dans l'ancienne mine de fer Walert.", "Les visiteurs pénètrent dans les galeries à bord d'un train minier historique.", "La température souterraine est constante à 10°C.", "Présente l'évolution des techniques d'extraction de 1880 à 1990.", "La collection comprend des machines lourdes comme des foreuses et des chargeuses.", "Une partie de la visite se fait à pied.", "Ouvert en 1973.", "Le musée rend hommage au travail acharné des 'Minettsdäpp'."],
     }, image: "/poi-images/luxembourg-rumelange-mining-museum-landmarks-v2.webp"},
   {
-    id: "luxembourg-slate-museum-martelange-landmarks-v2",
+    id: "luxembourg-slate-museum-martelange-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schiefermuseum Haut-Martelange",
+                  "text": "Ein Museum, das dem Erbe des Schieferbergbaus in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.753803,
+                        49.824758
+                  ]
+            },
+            {
+                  "name": "Musée de la Haute-Sûre",
+                  "text": "Ein Regionalmuseum in Haut-Martelange, das die lokale Kultur und Natur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.736882,
+                        49.830256
+                  ]
+            },
+            {
+                  "name": "Musée 385th bomb group",
+                  "text": "Ein Museum, das an die Aktivitäten der 385. Bombengruppe im Zweiten Weltkrieg erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        5.763837,
+                        49.809917
+                  ]
+            },
+            {
+                  "name": "Monument des Français",
+                  "text": "Ein Denkmal zu Ehren der französischen Soldaten in Haut-Martelange.",
+                  "category": "historical",
+                  "coords": [
+                        5.732754,
+                        49.843133
+                  ]
+            },
+            {
+                  "name": "Millefiels",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.75776,
+                        49.86679
+                  ]
+            },
+            {
+                  "name": "Atelier Cour d'Anges",
+                  "text": "Ein lokales Kunstzentrum für kreative Workshops und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755206,
+                        49.845892
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Ein Veranstaltungsort für kulturelle Aktivitäten und Gemeinschaftsevents.",
+                  "category": "cultural",
+                  "coords": [
+                        5.729326,
+                        49.832379
+                  ]
+            },
+            {
+                  "name": "Monument aux Chasseurs Ardennais",
+                  "text": "Ein Denkmal für die Eliteeinheit der Ardennenjäger.",
+                  "category": "historical",
+                  "coords": [
+                        5.742183,
+                        49.840492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de l'Ardoise",
+                  "text": "A régió palabányászatának örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.753803,
+                        49.824758
+                  ]
+            },
+            {
+                  "name": "Musée de la Haute-Sûre",
+                  "text": "Regionális múzeum, amely a helyi kultúrát és természetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.736882,
+                        49.830256
+                  ]
+            },
+            {
+                  "name": "Musée 385th bomb group",
+                  "text": "A második világháborús 385. bombázócsoport emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.763837,
+                        49.809917
+                  ]
+            },
+            {
+                  "name": "Monument des Français",
+                  "text": "A francia katonák tiszteletére emelt emlékmű Haut-Martelange-ban.",
+                  "category": "historical",
+                  "coords": [
+                        5.732754,
+                        49.843133
+                  ]
+            },
+            {
+                  "name": "Millefiels",
+                  "text": "Kilátóhely, ahonnan széles kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.75776,
+                        49.86679
+                  ]
+            },
+            {
+                  "name": "Atelier Cour d'Anges",
+                  "text": "Helyi művészeti központ kreatív műhelyekkel és kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755206,
+                        49.845892
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Kulturális tevékenységeknek és közösségi eseményeknek otthont adó helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        5.729326,
+                        49.832379
+                  ]
+            },
+            {
+                  "name": "Monument aux Chasseurs Ardennais",
+                  "text": "Az ardenneki vadászok elit egységének emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        5.742183,
+                        49.840492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de l'Ardoise",
+                  "text": "Un muzeu dedicat moștenirii exploatării ardeziei din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        5.753803,
+                        49.824758
+                  ]
+            },
+            {
+                  "name": "Musée de la Haute-Sûre",
+                  "text": "Un muzeu regional care prezintă cultura și natura locală din Haut-Martelange.",
+                  "category": "museum",
+                  "coords": [
+                        5.736882,
+                        49.830256
+                  ]
+            },
+            {
+                  "name": "Musée 385th bomb group",
+                  "text": "Un muzeu care comemorează activitatea grupului de bombardament 385 din Al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        5.763837,
+                        49.809917
+                  ]
+            },
+            {
+                  "name": "Monument des Français",
+                  "text": "Un monument ridicat în onoarea soldaților francezi la Haut-Martelange.",
+                  "category": "historical",
+                  "coords": [
+                        5.732754,
+                        49.843133
+                  ]
+            },
+            {
+                  "name": "Millefiels",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        5.75776,
+                        49.86679
+                  ]
+            },
+            {
+                  "name": "Atelier Cour d'Anges",
+                  "text": "Un centru de artă local care găzduiește ateliere creative și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755206,
+                        49.845892
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "Un centru destinat activităților culturale și evenimentelor comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        5.729326,
+                        49.832379
+                  ]
+            },
+            {
+                  "name": "Monument aux Chasseurs Ardennais",
+                  "text": "Un monument dedicat trupelor de elită ale vânătorilor alpini ardeni.",
+                  "category": "historical",
+                  "coords": [
+                        5.742183,
+                        49.840492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de l'Ardoise",
+                  "text": "A museum dedicated to the slate quarrying heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        5.753803,
+                        49.824758
+                  ]
+            },
+            {
+                  "name": "Musée de la Haute-Sûre",
+                  "text": "A regional museum in Haut-Martelange showcasing local culture and nature.",
+                  "category": "museum",
+                  "coords": [
+                        5.736882,
+                        49.830256
+                  ]
+            },
+            {
+                  "name": "Musée 385th bomb group",
+                  "text": "A museum commemorating the activities of the 385th Bomb Group during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        5.763837,
+                        49.809917
+                  ]
+            },
+            {
+                  "name": "Monument des Français",
+                  "text": "A monument erected in honor of French soldiers in Haut-Martelange.",
+                  "category": "historical",
+                  "coords": [
+                        5.732754,
+                        49.843133
+                  ]
+            },
+            {
+                  "name": "Millefiels",
+                  "text": "A viewpoint offering broad vistas over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.75776,
+                        49.86679
+                  ]
+            },
+            {
+                  "name": "Atelier Cour d'Anges",
+                  "text": "A local arts centre hosting creative workshops and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755206,
+                        49.845892
+                  ]
+            },
+            {
+                  "name": "Centre Culturel",
+                  "text": "A venue for cultural activities and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.729326,
+                        49.832379
+                  ]
+            },
+            {
+                  "name": "Monument aux Chasseurs Ardennais",
+                  "text": "A monument dedicated to the elite Ardennes Hunters infantry unit.",
+                  "category": "historical",
+                  "coords": [
+                        5.742183,
+                        49.840492
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "museum",
     name: { de: "Schiefermuseum Haut-Martelange", hu: "Haut-Martelange-i Palakő Múzeum", ro: "Muzeul Ardeziei Haut-Martelange", en: "Slate Museum Haut-Martelange" },

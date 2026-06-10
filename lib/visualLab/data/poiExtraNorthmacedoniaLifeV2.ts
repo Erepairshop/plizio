@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const northmacedoniaLifeV2: POI[] = [
 
   {
-    id: "northmacedonia-galicica-life-v2",
+    id: "northmacedonia-galicica-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Залив на Коските",
+                  "text": "Ein Freilichtmuseum am Ohridsee, das eine prähistorische Pfahlbausiedlung rekonstruiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.798143,
+                        40.994364
+                  ]
+            },
+            {
+                  "name": "Бајраче",
+                  "text": "Ein Berggipfel im Galičica-Nationalpark mit Blick auf die umliegenden Seen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.832286,
+                        40.976077
+                  ]
+            },
+            {
+                  "name": "Баба",
+                  "text": "Ein hoher Aussichtspunkt im Galičica-Gebirge zwischen dem Ohrid- und Prespasee.",
+                  "category": "natural",
+                  "coords": [
+                        20.812532,
+                        40.953938
+                  ]
+            },
+            {
+                  "name": "Roman Camp Ruins",
+                  "text": "Überreste einer antiken römischen Anlage innerhalb des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        20.797291,
+                        40.996411
+                  ]
+            },
+            {
+                  "name": "Коритски Рид",
+                  "text": "Ein Kammweg und Aussichtspunkt im Galičica-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        20.811311,
+                        40.965271
+                  ]
+            },
+            {
+                  "name": "Оревче",
+                  "text": "Ein Strandabschnitt und Erholungsort am Ufer des Ohridsees im Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        20.803722,
+                        41.001371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Залив на Коските",
+                  "text": "Szabadtéri múzeum az Ohridi-tónál, amely egy őskori cölöpházas települést rekonstruál.",
+                  "category": "museum",
+                  "coords": [
+                        20.798143,
+                        40.994364
+                  ]
+            },
+            {
+                  "name": "Бајраче",
+                  "text": "Hegycsúcs a Galičica Nemzeti Parkban, kilátással a környező tavakra.",
+                  "category": "landmark",
+                  "coords": [
+                        20.832286,
+                        40.976077
+                  ]
+            },
+            {
+                  "name": "Баба",
+                  "text": "Magaslati kilátópont a Galičica-hegységben az Ohridi- és a Preszpa-tó között.",
+                  "category": "natural",
+                  "coords": [
+                        20.812532,
+                        40.953938
+                  ]
+            },
+            {
+                  "name": "Roman Camp Ruins",
+                  "text": "Egy ókori római építmény maradványai a nemzeti park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.797291,
+                        40.996411
+                  ]
+            },
+            {
+                  "name": "Коритски Рид",
+                  "text": "Gerincvonal és kilátópont a Galičica Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        20.811311,
+                        40.965271
+                  ]
+            },
+            {
+                  "name": "Оревче",
+                  "text": "Strandszakasz és pihenőhely az Ohridi-tó partján a nemzeti parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.803722,
+                        41.001371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Залив на Коските",
+                  "text": "Un muzeu în aer liber pe malul lacului Ohrid, care reconstruiește o așezare preistorică pe piloni.",
+                  "category": "museum",
+                  "coords": [
+                        20.798143,
+                        40.994364
+                  ]
+            },
+            {
+                  "name": "Бајраче",
+                  "text": "Un vârf montan în Parcul Național Galičica, cu vederi spre lacurile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        20.832286,
+                        40.976077
+                  ]
+            },
+            {
+                  "name": "Баба",
+                  "text": "Un punct de belvedere înalt în munții Galičica, situat între lacurile Ohrid și Prespa.",
+                  "category": "natural",
+                  "coords": [
+                        20.812532,
+                        40.953938
+                  ]
+            },
+            {
+                  "name": "Roman Camp Ruins",
+                  "text": "Rămășițele unei structuri antice romane în cadrul parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        20.797291,
+                        40.996411
+                  ]
+            },
+            {
+                  "name": "Коритски Рид",
+                  "text": "O creastă și un punct de belvedere în Parcul Național Galičica.",
+                  "category": "natural",
+                  "coords": [
+                        20.811311,
+                        40.965271
+                  ]
+            },
+            {
+                  "name": "Оревче",
+                  "text": "O secțiune de plajă și loc de recreere pe malul lacului Ohrid, în parcul național.",
+                  "category": "recreational",
+                  "coords": [
+                        20.803722,
+                        41.001371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bay of Bones",
+                  "text": "An open-air museum on Lake Ohrid reconstructs a prehistoric pile-dwelling settlement.",
+                  "category": "museum",
+                  "coords": [
+                        20.798143,
+                        40.994364
+                  ]
+            },
+            {
+                  "name": "Bajrače",
+                  "text": "A mountain peak in the Galičica National Park with views of the surrounding lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.832286,
+                        40.976077
+                  ]
+            },
+            {
+                  "name": "Baba",
+                  "text": "A high viewpoint in the Galičica mountains located between Lake Ohrid and Lake Prespa.",
+                  "category": "natural",
+                  "coords": [
+                        20.812532,
+                        40.953938
+                  ]
+            },
+            {
+                  "name": "Roman Camp Ruins",
+                  "text": "Remains of an ancient Roman structure located within the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        20.797291,
+                        40.996411
+                  ]
+            },
+            {
+                  "name": "Koritski Rigde",
+                  "text": "A ridge and viewpoint located within the Galičica National Park.",
+                  "category": "natural",
+                  "coords": [
+                        20.811311,
+                        40.965271
+                  ]
+            },
+            {
+                  "name": "Orevche",
+                  "text": "A beach area and resort on the shores of Lake Ohrid within the national park.",
+                  "category": "recreational",
+                  "coords": [
+                        20.803722,
+                        41.001371
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MK",
     name: { de: "Galicica-Nationalpark", hu: "Galicsica Nemzeti Park", ro: "Parcul Național Galičica", en: "Galicica National Park" },
@@ -48,7 +273,232 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-galicica-life-v2.webp",
   },
   {
-    id: "northmacedonia-pelister-life-v2",
+    id: "northmacedonia-pelister-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Стив",
+                  "text": "Ein Berggipfel im Pelister-Nationalpark, der für seine Wanderwege bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.19937,
+                        41.013292
+                  ]
+            },
+            {
+                  "name": "Илинден",
+                  "text": "Ein Gipfel im Pelister-Nationalpark mit Panoramablick auf die Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        21.191696,
+                        41.005421
+                  ]
+            },
+            {
+                  "name": "Пелистер",
+                  "text": "Der höchste Gipfel des Baba-Gebirges, gelegen im Pelister-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        21.183191,
+                        41.002662
+                  ]
+            },
+            {
+                  "name": "Видиковец",
+                  "text": "Ein markierter Aussichtspunkt mit schöner Aussicht im Pelister-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        21.205916,
+                        41.024694
+                  ]
+            },
+            {
+                  "name": "Jorgov Kamen",
+                  "text": "Ein markanter Aussichtspunkt im Pelister-Nationalpark mit weitem Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        21.222828,
+                        41.02141
+                  ]
+            },
+            {
+                  "name": "Crveni Steni (Red Rocks)",
+                  "text": "Ein Aussichtspunkt im Pelister-Nationalpark, der für seine roten Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.219523,
+                        41.010206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Стив",
+                  "text": "Hegycsúcs a Peliszter Nemzeti Parkban, amely túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.19937,
+                        41.013292
+                  ]
+            },
+            {
+                  "name": "Илинден",
+                  "text": "Hegycsúcs a Peliszter Nemzeti Parkban, ahonnan panorámás kilátás nyílik a hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        21.191696,
+                        41.005421
+                  ]
+            },
+            {
+                  "name": "Пелистер",
+                  "text": "A Baba-hegység legmagasabb csúcsa a Peliszter Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.183191,
+                        41.002662
+                  ]
+            },
+            {
+                  "name": "Видиковец",
+                  "text": "Kijelölt kilátóhely szép panorámával a Peliszter Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        21.205916,
+                        41.024694
+                  ]
+            },
+            {
+                  "name": "Jorgov Kamen",
+                  "text": "Jelentős kilátópont a Peliszter Nemzeti Parkban, széles kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        21.222828,
+                        41.02141
+                  ]
+            },
+            {
+                  "name": "Crveni Steni (Red Rocks)",
+                  "text": "Vörös sziklaformációiról ismert kilátóhely a Peliszter Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        21.219523,
+                        41.010206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Стив",
+                  "text": "Un vârf de munte din Parcul Național Pelister, cunoscut pentru traseele sale de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        21.19937,
+                        41.013292
+                  ]
+            },
+            {
+                  "name": "Илинден",
+                  "text": "Un vârf din Parcul Național Pelister care oferă vederi panoramice asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        21.191696,
+                        41.005421
+                  ]
+            },
+            {
+                  "name": "Пелистер",
+                  "text": "Cel mai înalt vârf din masivul Baba, situat în Parcul Național Pelister.",
+                  "category": "landmark",
+                  "coords": [
+                        21.183191,
+                        41.002662
+                  ]
+            },
+            {
+                  "name": "Видиковец",
+                  "text": "Un punct de belvedere desemnat care oferă panorame pitorești în Parcul Național Pelister.",
+                  "category": "natural",
+                  "coords": [
+                        21.205916,
+                        41.024694
+                  ]
+            },
+            {
+                  "name": "Jorgov Kamen",
+                  "text": "Un punct de belvedere notabil din Parcul Național Pelister, oferind vederi largi asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        21.222828,
+                        41.02141
+                  ]
+            },
+            {
+                  "name": "Crveni Steni (Red Rocks)",
+                  "text": "Un punct de belvedere cunoscut pentru formațiunile sale stâncoase roșii din Parcul Național Pelister.",
+                  "category": "natural",
+                  "coords": [
+                        21.219523,
+                        41.010206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stiv",
+                  "text": "A mountain peak in the Pelister National Park known for its hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        21.19937,
+                        41.013292
+                  ]
+            },
+            {
+                  "name": "Ilinden",
+                  "text": "A peak within the Pelister National Park offering panoramic mountain views.",
+                  "category": "landmark",
+                  "coords": [
+                        21.191696,
+                        41.005421
+                  ]
+            },
+            {
+                  "name": "Pelister",
+                  "text": "The highest peak of the Baba Mountain range, located in Pelister National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        21.183191,
+                        41.002662
+                  ]
+            },
+            {
+                  "name": "Vidikovec (Viewpoint)",
+                  "text": "A designated viewpoint providing scenic vistas within the Pelister National Park.",
+                  "category": "natural",
+                  "coords": [
+                        21.205916,
+                        41.024694
+                  ]
+            },
+            {
+                  "name": "Jorgov Kamen",
+                  "text": "A notable viewpoint in the Pelister National Park offering wide views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.222828,
+                        41.02141
+                  ]
+            },
+            {
+                  "name": "Crveni Steni (Red Rocks)",
+                  "text": "A viewpoint known for its red rock formations in the Pelister National Park.",
+                  "category": "natural",
+                  "coords": [
+                        21.219523,
+                        41.010206
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MK",
     name: { de: "Pelister-Nationalpark", hu: "Peliszter Nemzeti Park", ro: "Parcul Național Pelister", en: "Pelister National Park" },
@@ -93,7 +543,160 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-pelister-life-v2.webp",
   },
   {
-    id: "northmacedonia-mavrovo-life-v2",
+    id: "northmacedonia-mavrovo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шаркова Дупка",
+                  "text": "Eine für Besucher erschlossene Höhle im Nationalpark Mavrovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.734164,
+                        41.651224
+                  ]
+            },
+            {
+                  "name": "Villa Magjike",
+                  "text": "Ein Aussichtspunkt im Nationalpark Mavrovo mit Blick auf die Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        20.774211,
+                        41.67758
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Eine bekannte Kirchenruine, die teilweise im Mavrovo-See versunken ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.735526,
+                        41.660028
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Eine orthodoxe Kirche in der Ortschaft Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.735983,
+                        41.677368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шаркова Дупка",
+                  "text": "Látogatható barlang a Mavrovo Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.734164,
+                        41.651224
+                  ]
+            },
+            {
+                  "name": "Villa Magjike",
+                  "text": "Kilátóhely a Mavrovo Nemzeti Parkban, rálátással a hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        20.774211,
+                        41.67758
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Ismert templomrom, amely részben a Mavrovo-tó vizében áll.",
+                  "category": "religious",
+                  "coords": [
+                        20.735526,
+                        41.660028
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Ortodox templom Mavrovo településén.",
+                  "category": "religious",
+                  "coords": [
+                        20.735983,
+                        41.677368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шаркова Дупка",
+                  "text": "O peșteră amenajată pentru vizitatori în Parcul Național Mavrovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.734164,
+                        41.651224
+                  ]
+            },
+            {
+                  "name": "Villa Magjike",
+                  "text": "Un punct de observație în Parcul Național Mavrovo, cu vedere spre peisajul montan.",
+                  "category": "natural",
+                  "coords": [
+                        20.774211,
+                        41.67758
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "O ruină de biserică faimoasă, scufundată parțial în apele lacului Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.735526,
+                        41.660028
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "O biserică ortodoxă situată în localitatea Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.735983,
+                        41.677368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharko's hole",
+                  "text": "A show cave located within the Mavrovo National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        20.734164,
+                        41.651224
+                  ]
+            },
+            {
+                  "name": "Villa Magjike",
+                  "text": "A viewpoint in Mavrovo National Park with views of the mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        20.774211,
+                        41.67758
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "A well-known church ruin partially submerged in Lake Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.735526,
+                        41.660028
+                  ]
+            },
+            {
+                  "name": "Dormition of the Holy Mother of God",
+                  "text": "An Orthodox church in the village of Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.735983,
+                        41.677368
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MK",
     name: { de: "Mavrovo-Nationalpark", hu: "Mavrovo Nemzeti Park", ro: "Parcul Național Mavrovo", en: "Mavrovo National Park" },
@@ -138,7 +741,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-mavrovo-life-v2.webp",
   },
   {
-    id: "northmacedonia-jasen-life-v2",
+    id: "northmacedonia-jasen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Капина",
+                  "text": "Historische Ruinen im Jasen-Reservat in Nordmazedonien.",
+                  "category": "historical",
+                  "coords": [
+                        21.217807,
+                        41.816886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Капина",
+                  "text": "Történelmi romok az észak-macedóniai Jasen-rezervátumban.",
+                  "category": "historical",
+                  "coords": [
+                        21.217807,
+                        41.816886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Капина",
+                  "text": "Ruine istorice în Rezervația Jasen din Macedonia de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        21.217807,
+                        41.816886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapina",
+                  "text": "Historical ruins located within the Jasen Reserve in North Macedonia.",
+                  "category": "historical",
+                  "coords": [
+                        21.217807,
+                        41.816886
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "MK",
     name: { de: "Jasen-Reservat", hu: "Jasen Rezervátum", ro: "Rezervația Jasen", en: "Jasen Reserve" },
@@ -228,7 +876,88 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-tikves-wetland-life-v2.webp",
   },
   {
-    id: "northmacedonia-klinc-mountain-life-v2",
+    id: "northmacedonia-klinc-mountain-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Вепрчански Манастир",
+                  "text": "Die Überreste eines historischen Klosters am Klinc-Berg, ein Ort von kultureller Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        21.763241,
+                        41.271018
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "Eine dem Heiligen Erlöser geweihte Kirche, die ein wichtiges religiöses Denkmal in der Region ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.745672,
+                        41.267459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вепрчански Манастир",
+                  "text": "Egy történelmi kolostor maradványai a Klinc-hegyen, amely jelentős kulturális emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        21.763241,
+                        41.271018
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "A Szent Megváltónak szentelt templom, amely a régió fontos vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        21.745672,
+                        41.267459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вепрчански Манастир",
+                  "text": "Rămășițele unei mănăstiri istorice de pe muntele Klinc, un loc cu semnificație culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        21.763241,
+                        41.271018
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "O biserică dedicată Sfântului Mântuitor, care este un monument religios important în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        21.745672,
+                        41.267459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Veprchani",
+                  "text": "The remains of a historical monastery on Klinc Mountain, a site of cultural significance.",
+                  "category": "landmark",
+                  "coords": [
+                        21.763241,
+                        41.271018
+                  ]
+            },
+            {
+                  "name": "Holy Salvation",
+                  "text": "A church dedicated to the Holy Salvation, serving as an important religious monument in the region.",
+                  "category": "religious",
+                  "coords": [
+                        21.745672,
+                        41.267459
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MK",
     name: { de: "Klinc-Gebirge", hu: "Klinc-hegység", ro: "Munții Klinc", en: "Klinc Mountain" },
@@ -408,7 +1137,268 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-busova-mountain-life-v2.webp",
   },
   {
-    id: "northmacedonia-crn-drin-reserve-life-v2",
+    id: "northmacedonia-crn-drin-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастирец",
+                  "text": "Eine archäologische Stätte im Reservat am Schwarzen Drin.",
+                  "category": "historical",
+                  "coords": [
+                        20.639494,
+                        41.386308
+                  ]
+            },
+            {
+                  "name": "Бурлица",
+                  "text": "Überreste einer archäologischen Fundstätte in der Region des Schwarzen Drin.",
+                  "category": "historical",
+                  "coords": [
+                        20.610636,
+                        41.39011
+                  ]
+            },
+            {
+                  "name": "Кале",
+                  "text": "Eine historische archäologische Stätte im Schwarzen-Drin-Reservat.",
+                  "category": "historical",
+                  "coords": [
+                        20.633711,
+                        41.392291
+                  ]
+            },
+            {
+                  "name": "Црквиште",
+                  "text": "Eine Ausgrabungsstätte in der Nähe des Schwarzen Drin.",
+                  "category": "historical",
+                  "coords": [
+                        20.587564,
+                        41.393524
+                  ]
+            },
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Ein Gedenkzentrum und Museum im Black Drin Reserve.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "Eine historische Festungsanlage in der Region des Schwarzen Drin.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            },
+            {
+                  "name": "Нов Локовски Манастир",
+                  "text": "Eine religiöse und kulturelle Sehenswürdigkeit in Lokov.",
+                  "category": "landmark",
+                  "coords": [
+                        20.638548,
+                        41.38645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастирец",
+                  "text": "Régészeti lelőhely a Fekete-Drin menti rezervátumban.",
+                  "category": "historical",
+                  "coords": [
+                        20.639494,
+                        41.386308
+                  ]
+            },
+            {
+                  "name": "Бурлица",
+                  "text": "Régészeti lelőhely maradványai a Fekete-Drin régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        20.610636,
+                        41.39011
+                  ]
+            },
+            {
+                  "name": "Кале",
+                  "text": "Történelmi régészeti helyszín a Fekete-Drin rezervátumban.",
+                  "category": "historical",
+                  "coords": [
+                        20.633711,
+                        41.392291
+                  ]
+            },
+            {
+                  "name": "Црквиште",
+                  "text": "Régészeti feltárási terület a Fekete-Drin közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.587564,
+                        41.393524
+                  ]
+            },
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Emlékközpont és múzeum a Fekete-Drin rezervátumban.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "Történelmi erődítmény a Fekete-Drin régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            },
+            {
+                  "name": "Нов Локовски Манастир",
+                  "text": "Vallási és kulturális látnivaló Lokovban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.638548,
+                        41.38645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастирец",
+                  "text": "Un sit arheologic în Rezervația Drinul Negru.",
+                  "category": "historical",
+                  "coords": [
+                        20.639494,
+                        41.386308
+                  ]
+            },
+            {
+                  "name": "Бурлица",
+                  "text": "Rămășițele unui sit arheologic în regiunea Drinului Negru.",
+                  "category": "historical",
+                  "coords": [
+                        20.610636,
+                        41.39011
+                  ]
+            },
+            {
+                  "name": "Кале",
+                  "text": "Un sit arheologic istoric în Rezervația Drinului Negru.",
+                  "category": "historical",
+                  "coords": [
+                        20.633711,
+                        41.392291
+                  ]
+            },
+            {
+                  "name": "Црквиште",
+                  "text": "Un sit de excavare arheologică în apropierea Drinului Negru.",
+                  "category": "historical",
+                  "coords": [
+                        20.587564,
+                        41.393524
+                  ]
+            },
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Un centru memorial și muzeu în Rezervația Drinul Negru.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "O fortificație istorică în regiunea Drinului Negru.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            },
+            {
+                  "name": "Нов Локовски Манастир",
+                  "text": "O atracție religioasă și culturală în Lokov.",
+                  "category": "landmark",
+                  "coords": [
+                        20.638548,
+                        41.38645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastirec",
+                  "text": "An archaeological site in the Black Drin Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        20.639494,
+                        41.386308
+                  ]
+            },
+            {
+                  "name": "Burlica",
+                  "text": "Remains of an archaeological site in the Black Drin region.",
+                  "category": "historical",
+                  "coords": [
+                        20.610636,
+                        41.39011
+                  ]
+            },
+            {
+                  "name": "Kale",
+                  "text": "A historical archaeological site in the Black Drin Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        20.633711,
+                        41.392291
+                  ]
+            },
+            {
+                  "name": "Crkvishte",
+                  "text": "An archaeological excavation site near the Black Drin.",
+                  "category": "historical",
+                  "coords": [
+                        20.587564,
+                        41.393524
+                  ]
+            },
+            {
+                  "name": "Kodzhadzhik Memorial center",
+                  "text": "A memorial center and museum in the Black Drin Reserve.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Sveti Grad",
+                  "text": "A historical fortification in the Black Drin region.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            },
+            {
+                  "name": "New monastery of Lokov",
+                  "text": "A religious and cultural attraction in Lokov.",
+                  "category": "landmark",
+                  "coords": [
+                        20.638548,
+                        41.38645
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MK",
     name: { de: "Schwarzer-Drin-Reservat", hu: "Fekete-Drin Rezervátum", ro: "Rezervația Drinul Negru", en: "Black Drin Reserve" },
@@ -588,7 +1578,268 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-belasica-life-v2.webp",
   },
   {
-    id: "northmacedonia-blato-wetland-life-v2",
+    id: "northmacedonia-blato-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "Das historische Wohnhaus der Familie Tatarchev, heute ein Gedenkmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "Ein imposantes neoklassizistisches Gebäude in Resen, das heute als Kulturzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "Eine religiöse und kulturelle Stätte in der Nähe des Blato-Feuchtgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "Eine orthodoxe Kirche in Resen, die dem Heiligen Georg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "Ein historisches islamisches Gotteshaus in der Stadt Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "Eine traditionelle Moschee in Resen, die Teil des kulturellen Erbes ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "Eine orthodoxe Kirche in der Nähe des Prespa-Sees, die den Heiligen Kyrill und Method gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "A Tatarchev család történelmi lakóháza, ma emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "Impozáns neoklasszicista épület Resenben, amely ma kulturális központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "Vallási és kulturális helyszín a Blato-mocsár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "Szent Györgynek szentelt ortodox templom Resenben.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "Történelmi iszlám imaház Resen városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "Hagyományos mecset Resenben, amely a kulturális örökség része.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "A Preszpa-tó közelében található ortodox templom, amelyet Szent Cirillnek és Metódnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "Casa istorică a familiei Tatarchev, astăzi muzeu memorial.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "O clădire neoclasică impunătoare în Resen, care servește astăzi drept centru cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "Un sit religios și cultural situat în apropierea zonei umede Blato.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "O biserică ortodoxă din Resen dedicată Sfântului Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "Un lăcaș de cult islamic istoric din orașul Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "O moschee tradițională din Resen, parte a moștenirii culturale.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "O biserică ortodoxă situată în apropierea lacului Prespa, dedicată Sfinților Chiril și Metodiu.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tatarchev House",
+                  "text": "The historical residence of the Tatarchev family, now a memorial museum.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Saraj Resen",
+                  "text": "An imposing neoclassical building in Resen, now serving as a cultural centre.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Monastery of Dobrovo",
+                  "text": "A religious and cultural site located near the Blato wetland.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "An Orthodox church in Resen dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Hadji Murat Mosque",
+                  "text": "A historical Islamic place of worship in the town of Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Hadji Ramadan Mosque",
+                  "text": "A traditional mosque in Resen, part of the cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Saints Cyril and Methodius",
+                  "text": "An Orthodox church located near Lake Prespa, dedicated to Saints Cyril and Methodius.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "MK",
     name: { de: "Blato-Feuchtgebiet", hu: "Blato Vizes élőhely", ro: "Zona umedă Blato", en: "Blato Wetland" },
@@ -678,7 +1929,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-konjuh-forest-life-v2.webp",
   },
   {
-    id: "northmacedonia-skopska-crna-gora-life-v2",
+    id: "northmacedonia-skopska-crna-gora-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "Ein Kloster in der Region Skopska Crna Gora, das der Heiligen Gottesmutter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "A Szent Szűzanya tiszteletére szentelt kolostor a Szkopszka Crna Gora régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "O mănăstire în regiunea Skopska Crna Gora, dedicată Sfintei Maici a Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Holy Mother of God Monastery",
+                  "text": "A monastery in the Skopska Crna Gora region dedicated to the St. Holy Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MK",
     name: { de: "Skopska-Crna-Gora", hu: "Szkopjei Fekete-hegy", ro: "Skopska Crna Gora", en: "Skopska Crna Gora" },
@@ -768,7 +2064,88 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-ostrovo-island-life-v2.webp",
   },
   {
-    id: "northmacedonia-galicnik-region-life-v2",
+    id: "northmacedonia-galicnik-region-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Меденица",
+                  "text": "Medenica ist der höchste Gipfel des Bistra-Gebirges in der Region Galicnik.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Јанче",
+                  "text": "Janche ist ein traditionelles Bergdorf in der Region Galicnik, das für seine Steinarchitektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.633776,
+                        41.585937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Меденица",
+                  "text": "A Medenica a Bisztra-hegység legmagasabb csúcsa a Galicsnyik régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Јанче",
+                  "text": "Janche egy hagyományos hegyi falu a Galicsnyik régióban, amely kőépítészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.633776,
+                        41.585937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Меденица",
+                  "text": "Medenica este cel mai înalt vârf al lanțului muntos Bistra din regiunea Galicnik.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Јанче",
+                  "text": "Janche este un sat montan tradițional din regiunea Galicnik, cunoscut pentru arhitectura sa din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        20.633776,
+                        41.585937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medenica",
+                  "text": "Medenica is the highest peak of the Bistra Mountain range in the Galicnik Region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Janche",
+                  "text": "Janche is a traditional mountain village in the Galicnik Region known for its stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        20.633776,
+                        41.585937
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MK",
     name: { de: "Galicnik-Region", hu: "Galicsnik régió", ro: "Regiunea Galičnik", en: "Galicnik Region" },
@@ -858,7 +2235,196 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-pcinja-valley-life-v2.webp",
   },
   {
-    id: "northmacedonia-serava-valley-life-v2",
+    id: "northmacedonia-serava-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradiste kaj s.Brazda",
+                  "text": "Antike Siedlungsreste und Befestigungen im Serava-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        21.398848,
+                        42.076691
+                  ]
+            },
+            {
+                  "name": "Глувовуд",
+                  "text": "Eine lokale Sehenswürdigkeit und Naturlandschaft im Serava-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        21.392545,
+                        42.082196
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "Ein orthodoxes Kloster in der ruhigen Natur des Serava-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Никола",
+                  "text": "Ein dem Heiligen Nikolaus gewidmetes Kloster in Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        21.4696,
+                        42.109779
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Илија",
+                  "text": "Kleines Kloster in der Nähe des Flusses Serava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.409874,
+                        42.085564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradiste kaj s.Brazda",
+                  "text": "Antik településmaradványok és erődítések a Serava-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        21.398848,
+                        42.076691
+                  ]
+            },
+            {
+                  "name": "Глувовуд",
+                  "text": "Helyi látnivaló és természeti táj a Serava-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.392545,
+                        42.082196
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "Ortodox kolostor a Serava-völgy nyugodt természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Никола",
+                  "text": "Szent Miklósnak szentelt kolostor Észak-Macedóniában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.4696,
+                        42.109779
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Илија",
+                  "text": "Kis kolostor a Serava-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.409874,
+                        42.085564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradiste kaj s.Brazda",
+                  "text": "Vestigii de așezări antice și fortificații în valea Serava.",
+                  "category": "historical",
+                  "coords": [
+                        21.398848,
+                        42.076691
+                  ]
+            },
+            {
+                  "name": "Глувовуд",
+                  "text": "O atracție locală și peisaj natural în valea Serava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.392545,
+                        42.082196
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Богородица",
+                  "text": "O mănăstire ortodoxă în mediul natural liniștit al văii Serava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Никола",
+                  "text": "O mănăstire dedicată Sfântului Nicolae în Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        21.4696,
+                        42.109779
+                  ]
+            },
+            {
+                  "name": "Манастир Св. Илија",
+                  "text": "O mănăstire mică situată în apropierea râului Serava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.409874,
+                        42.085564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradiste kaj s.Brazda",
+                  "text": "Ancient settlement remains and fortifications in the Serava valley.",
+                  "category": "historical",
+                  "coords": [
+                        21.398848,
+                        42.076691
+                  ]
+            },
+            {
+                  "name": "Gluvowood",
+                  "text": "A local attraction and natural landscape in the Serava valley.",
+                  "category": "landmark",
+                  "coords": [
+                        21.392545,
+                        42.082196
+                  ]
+            },
+            {
+                  "name": "St. Holy Mother of God Monastery",
+                  "text": "An Orthodox monastery in the quiet natural setting of the Serava valley.",
+                  "category": "landmark",
+                  "coords": [
+                        21.428267,
+                        42.125572
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Monastery",
+                  "text": "A monastery dedicated to Saint Nicholas in North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.4696,
+                        42.109779
+                  ]
+            },
+            {
+                  "name": "Monastery of St. Elijah",
+                  "text": "Small monastery located near the Serava river.",
+                  "category": "landmark",
+                  "coords": [
+                        21.409874,
+                        42.085564
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "MK",
     name: { de: "Serava-Flusstal", hu: "Serava-völgy", ro: "Valea râului Serava", en: "Serava River Valley" },
@@ -993,7 +2559,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-bogovinje-lake-life-v2.webp",
   },
   {
-    id: "northmacedonia-jakupica-mountain-life-v2",
+    id: "northmacedonia-jakupica-mountain-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Голубарница",
+                  "text": "Höhleneingang im Jakupica-Gebirge in Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        21.320102,
+                        41.67333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Голубарница",
+                  "text": "Barlangbejárat az észak-macedóniai Jakupica-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.320102,
+                        41.67333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Голубарница",
+                  "text": "O intrare în peșteră în munții Jakupica din Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        21.320102,
+                        41.67333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golubarnica",
+                  "text": "A cave entrance in the Jakupica mountain range in North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.320102,
+                        41.67333
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MK",
     name: { de: "Jakupica-Gebirge", hu: "Jakupica-hegység", ro: "Munții Jakupica", en: "Jakupica Mountain" },
@@ -1038,7 +2649,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-jakupica-mountain-life-v2.webp",
   },
   {
-    id: "northmacedonia-treska-river-life-v2",
+    id: "northmacedonia-treska-river-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Пештера Врело",
+                  "text": "Eine der tiefsten Unterwasserhöhlen der Welt im Matka-Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        21.292269,
+                        41.93016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Пештера Врело",
+                  "text": "A világ egyik legmélyebb víz alatti barlangja a Matka-kanyonban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.292269,
+                        41.93016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Пештера Врело",
+                  "text": "Una dintre cele mai adânci peșteri subacvatice din lume, în canionul Matka.",
+                  "category": "landmark",
+                  "coords": [
+                        21.292269,
+                        41.93016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vrelo Cave",
+                  "text": "One of the deepest underwater caves in the world, located in Matka Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        21.292269,
+                        41.93016
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MK",
     name: { de: "Treska-Flusstal", hu: "Treska-völgy", ro: "Valea râului Treska", en: "Treska River Valley" },
@@ -1128,7 +2784,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-stogovo-mountain-life-v2.webp",
   },
   {
-    id: "northmacedonia-bregalnica-river-life-v2",
+    id: "northmacedonia-bregalnica-river-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Батање",
+                  "text": "Überreste einer historischen Anlage im Becken des Flusses Bregalnica.",
+                  "category": "historical",
+                  "coords": [
+                        22.177483,
+                        41.822557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Батање",
+                  "text": "Egy történelmi építmény maradványai a Bregalnica-folyó medencéjében.",
+                  "category": "historical",
+                  "coords": [
+                        22.177483,
+                        41.822557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Батање",
+                  "text": "Rămășițele unei structuri istorice în bazinul râului Bregalnica.",
+                  "category": "historical",
+                  "coords": [
+                        22.177483,
+                        41.822557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batanje",
+                  "text": "Remains of a historical structure in the Bregalnica River Basin.",
+                  "category": "historical",
+                  "coords": [
+                        22.177483,
+                        41.822557
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MK",
     name: { de: "Bregalnica-Flussgebiet", hu: "Bregalnica-folyóvidék", ro: "Regiunea râului Bregalnica", en: "Bregalnica River Basin" },
@@ -1173,7 +2874,52 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-bregalnica-river-life-v2.webp",
   },
   {
-    id: "northmacedonia-jablanica-mountain-life-v2",
+    id: "northmacedonia-jablanica-mountain-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Стрижак",
+                  "text": "Ein markanter Berggipfel im Jablanica-Gebirge in Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.52955,
+                        41.284614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Стрижак",
+                  "text": "Jellegzetes hegycsúcs az Észak-macedóniai Jablanica-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.52955,
+                        41.284614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Стрижак",
+                  "text": "Un vârf montan proeminent din munții Jablanica din Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        20.52955,
+                        41.284614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strizhak",
+                  "text": "A prominent mountain peak in the Jablanica Mountains of North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.52955,
+                        41.284614
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MK",
     name: { de: "Jablanica-Gebirge", hu: "Jablanica-hegység", ro: "Munții Jablanica", en: "Jablanica Mountain" },
@@ -1263,7 +3009,196 @@ export const northmacedoniaLifeV2: POI[] = [
     image: "/poi-images/northmacedonia-kriva-reka-valley-life-v2.webp",
   },
   {
-    id: "northmacedonia-dojran-wetland-life-v2",
+    id: "northmacedonia-dojran-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Ein lokales Museum, das die Natur- und Kulturgeschichte der Dojran-Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Ein beliebter Strandabschnitt am Dojran-See, der Möglichkeiten zur Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Ein markanter Gipfel in der Dojran-Region, der einen weiten Blick auf das Feuchtgebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Ein Denkmal zur Erinnerung an die Ereignisse an der Salonikifront während des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Eine Ferienanlage am Dojran-See mit Strandzugang und touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Helyi múzeum, amely a Dojrani-régió természetrajzát és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Népszerű strand szakasz a Dojrani-tónál, amely kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Jellegzetes csúcs a Dojrani-régióban, amely széles kilátást nyújt a vizes élőhelyre.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Az első világháborús szaloniki front eseményeinek emléket állító emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Üdülőhely a Dojrani-tónál stranddal és turisztikai infrastruktúrával.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Un muzeu local care prezintă istoria naturală și culturală a regiunii Dojran.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "O secțiune de plajă populară la Lacul Dojran, oferind facilități pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Un vârf proeminent în regiunea Dojran, oferind o vedere panoramică asupra zonelor umede.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Un monument dedicat evenimentelor de pe frontul din Salonic din timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "O stațiune la Lacul Dojran cu acces la plajă și infrastructură turistică.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dojran Museum",
+                  "text": "A local museum presenting the natural and cultural history of the Dojran region.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "A popular beach area at Lake Dojran offering opportunities for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Kale Tepe",
+                  "text": "A prominent peak in the Dojran region offering expansive views of the wetland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "World War I Salonica Front memorial",
+                  "text": "A monument commemorating the events of the Salonica Front during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "A resort area at Lake Dojran with beach access and tourist infrastructure.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MK",
     name: { de: "Dojran-Feuchtgebiet", hu: "Dojran Vizes élőhely", ro: "Zona umedă Dojran", en: "Dojran Wetland" },

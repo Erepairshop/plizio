@@ -238,7 +238,124 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-rudi-monastery-history-v2",
+    id: "moldova-rudi-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Ein Vermessungspunkt des Struve-Bogens, der zum UNESCO-Welterbe gehört.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Ein malerischer Wasserfall in der Umgebung des Klosters Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "Eine historische Holzkirche aus dem Jahr 1870 in der Nähe des Klosters Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "A Struve földmérő ív egyik állomása, amely az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Gleccser eredetű, festői vízesés a Rudi-kolostor környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "Egy 1870-ben épült történelmi fatemplom a Rudi-kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Un punct al Arcului Geodezic Struve, inclus în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "O cascadă pitorească situată în apropierea Mănăstirii Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "O biserică istorică de lemn ridicată în 1870, situată lângă Mănăstirea Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Struve Geodetic Arc Point",
+                  "text": "A survey point of the Struve Geodetic Arc, part of a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "A scenic waterfall located in the vicinity of the Rudi Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "A historical wooden church built in 1870, located near the Rudi Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "church",
     name: { de: "Kloster Rudi", hu: "Rudi kolostor", ro: "Mănăstirea Rudi", en: "Rudi Monastery"},
@@ -285,7 +402,124 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-pommer-manor-history-v2",
+    id: "moldova-pommer-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Ein historisches Herrenhaus in Țaul, bekannt für seine Architektur und die umgebende Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "Der größte dendrologische Park Moldawiens, der das Herrenhaus Pommer in Țaul umgibt.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "Der historische Wasserturm, der zum Anwesen des Herrenhauses Pommer in Țaul gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Történelmi kúria Țaulban, amely építészetéről és a környező tájról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "Moldova legnagyobb dendrológiai parkja, amely a Țaulban található Pommer-kúriát veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "A Țaulban található Pommer-kúria birtokához tartozó történelmi víztorony.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Un conac istoric din Țaul, cunoscut pentru arhitectura sa și peisajul înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Țaul",
+                  "text": "Cel mai mare parc dendrologic din Republica Moldova, care înconjoară conacul Pommer din Țaul.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "Turnul de apă istoric care aparține domeniului conacului Pommer din Țaul.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "A historic manor house in Țaul, known for its architecture and surrounding landscape.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "The largest dendrological park in Moldova, surrounding the Pommer Manor in Țaul.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "The historic water tower belonging to the Pommer Manor estate in Țaul.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "palace",
     name: { de: "Pommer Herrenhaus", hu: "Pommer-kastély", ro: "Conacul Pommer", en: "Pommer Manor"},
@@ -520,7 +754,304 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-struve-arc-rudi-history-v2",
+    id: "moldova-struve-arc-rudi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "Eine antike Erdfestung in der Nähe von Rudi, Teil eines Landschaftsschutzgebiets.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Ein UNESCO-Welterbepunkt des Struve-Bogens zur Vermessung der Erdform.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "Ein historisches orthodoxes Kloster aus dem 18. Jahrhundert in einer malerischen Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Ein natürlicher Wasserfall im Rudi-Arionești-Landschaftsschutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "Eine natürliche Höhle im Kalksteinfelsen des Rudi-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "Ein Stein mit historischen Inschriften in der Nähe des Dorfes Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Eine tiefe, bewaldete Schlucht am Dnjester, bekannt für ihre Artenvielfalt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "Eine traditionelle Holzkirche aus dem Jahr 1870 in der Region Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "Ősi földvár Rudi közelében, egy tájvédelmi körzet része.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "A Föld alakjának mérésére szolgáló Struve földmérő ív egyik UNESCO világörökségi pontja.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "18. századi történelmi ortodox kolostor egy festői szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Természetes vízesés a Rudi–Arionești tájvédelmi körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "Természetes barlang a Rudi környéki mészkősziklákban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "Történelmi feliratokkal ellátott kő Rudi falu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Mély, erdős szurdok a Dnyeszter mentén, amely biológiai sokféleségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "1870-ben épült hagyományos fatemplom a Rudi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "O veche fortificație de pământ lângă Rudi, parte a unei rezervații peisagistice.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Un punct din Arcul Geodezic Struve, inclus în patrimoniul UNESCO pentru măsurarea formei Pământului.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "O mănăstire ortodoxă istorică din secolul al XVIII-lea, situată într-un defileu pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "O cascadă naturală aflată în rezervația peisagistică Rudi–Arionești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "O peșteră naturală formată în stâncile calcaroase din zona Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "O piatră cu inscripții istorice situată în apropierea satului Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Un defileu adânc și împădurit pe malul Nistrului, cunoscut pentru biodiversitate.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "O biserică tradițională din lemn construită în anul 1870 în regiunea Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "An ancient earthwork fortification near Rudi, part of a landscape reserve.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Struve Geodetic Arc Point",
+                  "text": "A UNESCO World Heritage point of the Struve Geodetic Arc used to measure the Earth's shape.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "A historic 18th-century Orthodox monastery situated in a scenic gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "A natural waterfall located within the Rudi–Arionești landscape reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "A natural cave formed in the limestone rocks of the Rudi area.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "A stone featuring historical inscriptions located near the village of Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "A deep, forested gorge along the Dniester, known for its biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "A traditional wooden church dating back to 1870 in the Rudi region.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "monument",
     name: { de: "Struve-Bogen Punkt Rudi", hu: "Struve földmérő ív Rudi", ro: "Punctul Rudi al Arcului Struve", en: "Struve Geodetic Arc Rudi Point"},
@@ -613,7 +1144,196 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-hirbovat-monastery-history-v2",
+    id: "moldova-hirbovat-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mănăstirea Hîrjăuca",
+                  "text": "Historisches Kloster in Moldawien, bekannt für seine Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        28.237547,
+                        47.318817
+                  ]
+            },
+            {
+                  "name": "Izvor amenajat",
+                  "text": "Eine gestaltete natürliche Quelle in der Nähe des Klosters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.238143,
+                        47.317058
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfîntul Dumitru” (1927)",
+                  "text": "Traditionelle Holzkirche, die dem heiligen Demetrius geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.264291,
+                        47.322492
+                  ]
+            },
+            {
+                  "name": "Biserică nefinisată",
+                  "text": "Ein unvollendeter Kirchenbau in der Region des Klosters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.201091,
+                        47.335507
+                  ]
+            },
+            {
+                  "name": "Biserica satului Oricova",
+                  "text": "Die lokale Dorfkirche von Oricova in Moldawien.",
+                  "category": "landmark",
+                  "coords": [
+                        28.232632,
+                        47.304499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mănăstirea Hîrjăuca",
+                  "text": "Történelmi kolostor Moldovában, amely építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.237547,
+                        47.318817
+                  ]
+            },
+            {
+                  "name": "Izvor amenajat",
+                  "text": "Kiépített természetes forrás a kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.238143,
+                        47.317058
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfîntul Dumitru” (1927)",
+                  "text": "Szent Demeternek szentelt hagyományos fatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        28.264291,
+                        47.322492
+                  ]
+            },
+            {
+                  "name": "Biserică nefinisată",
+                  "text": "Befejezetlen templomépület a kolostor környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.201091,
+                        47.335507
+                  ]
+            },
+            {
+                  "name": "Biserica satului Oricova",
+                  "text": "Oricova helyi falusi temploma Moldovában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.232632,
+                        47.304499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Hîrjăuca",
+                  "text": "Mănăstire istorică din Republica Moldova, cunoscută pentru arhitectura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        28.237547,
+                        47.318817
+                  ]
+            },
+            {
+                  "name": "Izvor amenajat",
+                  "text": "Un izvor natural amenajat situat în apropierea mănăstirii.",
+                  "category": "landmark",
+                  "coords": [
+                        28.238143,
+                        47.317058
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfîntul Dumitru” (1927)",
+                  "text": "Biserică tradițională de lemn dedicată Sfântului Dumitru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.264291,
+                        47.322492
+                  ]
+            },
+            {
+                  "name": "Biserică nefinisată",
+                  "text": "O construcție de biserică neterminată în zona mănăstirii.",
+                  "category": "landmark",
+                  "coords": [
+                        28.201091,
+                        47.335507
+                  ]
+            },
+            {
+                  "name": "Biserica satului Oricova",
+                  "text": "Biserica locală din satul Oricova, Republica Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.232632,
+                        47.304499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mănăstirea Hîrjăuca",
+                  "text": "Historic monastery in Moldova, known for its architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        28.237547,
+                        47.318817
+                  ]
+            },
+            {
+                  "name": "Izvor amenajat",
+                  "text": "A developed natural spring located near the monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.238143,
+                        47.317058
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfîntul Dumitru” (1927)",
+                  "text": "Traditional wooden church dedicated to Saint Demetrius.",
+                  "category": "landmark",
+                  "coords": [
+                        28.264291,
+                        47.322492
+                  ]
+            },
+            {
+                  "name": "Biserică nefinisată",
+                  "text": "An unfinished church building in the monastery area.",
+                  "category": "landmark",
+                  "coords": [
+                        28.201091,
+                        47.335507
+                  ]
+            },
+            {
+                  "name": "Biserica satului Oricova",
+                  "text": "The local village church of Oricova in Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.232632,
+                        47.304499
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "church",
     name: { de: "Kloster Hîrbovăț", hu: "Hîrbovăț kolostor", ro: "Mănăstirea Hîrbovăț", en: "Hîrbovăț Monastery"},
@@ -845,7 +1565,52 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-cuizauca-monastery-history-v2",
+    id: "moldova-cuizauca-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basorelief ”MIRU MIR!”",
+                  "text": "Ein Basrelief in der Nähe des Klosters Cuizăuca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.821528,
+                        47.590089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basorelief ”MIRU MIR!”",
+                  "text": "Egy dombormű a Cuizăuca-kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.821528,
+                        47.590089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basorelief ”MIRU MIR!”",
+                  "text": "Un basorelief situat în apropierea Mănăstirii Cuizăuca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.821528,
+                        47.590089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basorelief ”MIRU MIR!”",
+                  "text": "A bas-relief attraction located near the Cuizăuca Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.821528,
+                        47.590089
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "church",
     name: { de: "Kloster Cuizăuca", hu: "Cuizăuca kolostor", ro: "Mănăstirea Cuizăuca", en: "Cuizăuca Monastery"},
@@ -2330,7 +3095,88 @@ export const moldovaHistoryV2: POI[] = [
     image: "/poi-images/moldova-basarabeasca-old-rail-history-v2.webp",
   },
   {
-    id: "moldova-glodeni-manor-history-v2",
+    id: "moldova-glodeni-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soldaților-internaționaliști",
+                  "text": "Ein Denkmal in Glodeni, das den internationalistischen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        27.516796,
+                        47.774609
+                  ]
+            },
+            {
+                  "name": "Centrul de Creație al Copiilor -  Glodeni",
+                  "text": "Ein lokales Zentrum in Glodeni, das künstlerische Aktivitäten und Programme für Kinder anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.518682,
+                        47.774743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soldaților-internaționaliști",
+                  "text": "Glodeni emlékműve, amelyet az internacionalista katonáknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        27.516796,
+                        47.774609
+                  ]
+            },
+            {
+                  "name": "Centrul de Creație al Copiilor -  Glodeni",
+                  "text": "Glodeni helyi központja, amely művészeti tevékenységeket és programokat kínál gyermekek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.518682,
+                        47.774743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soldaților-internaționaliști",
+                  "text": "Un monument din Glodeni dedicat soldaților internaționaliști.",
+                  "category": "historical",
+                  "coords": [
+                        27.516796,
+                        47.774609
+                  ]
+            },
+            {
+                  "name": "Centrul de Creație al Copiilor -  Glodeni",
+                  "text": "Un centru local din Glodeni care oferă activități artistice și programe pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        27.518682,
+                        47.774743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soldaților-internaționaliști",
+                  "text": "A monument in Glodeni dedicated to the internationalist soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        27.516796,
+                        47.774609
+                  ]
+            },
+            {
+                  "name": "Centrul de Creație al Copiilor -  Glodeni",
+                  "text": "A local centre in Glodeni offering artistic activities and programs for children.",
+                  "category": "cultural",
+                  "coords": [
+                        27.518682,
+                        47.774743
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus in Glodeni", hu: "Glodeni-i kúria", ro: "Conacul din Glodeni", en: "Glodeni Mansion" },
@@ -2915,7 +3761,52 @@ export const moldovaHistoryV2: POI[] = [
     image: "/poi-images/moldova-frunza-church-history-v2.webp",
   },
   {
-    id: "moldova-ghindesti-manor-history-v2",
+    id: "moldova-ghindesti-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mănăstirea Cușelăuca",
+                  "text": "Ein friedliches orthodoxes Kloster, das für seine spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.555604,
+                        47.878487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mănăstirea Cușelăuca",
+                  "text": "Békés ortodox kolostor, amely spirituális légköréről és nyugalmáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.555604,
+                        47.878487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Cușelăuca",
+                  "text": "O mănăstire ortodoxă liniștită, cunoscută pentru atmosfera sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.555604,
+                        47.878487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mănăstirea Cușelăuca",
+                  "text": "A peaceful Orthodox monastery known for its spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        28.555604,
+                        47.878487
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus Ghindești", hu: "Ghindești-i kúria", ro: "Conacul Ghindești", en: "Ghindești Mansion" },
@@ -3545,7 +4436,88 @@ export const moldovaHistoryV2: POI[] = [
     image: "/poi-images/moldova-rezina-old-tower-history-v2.webp",
   },
   {
-    id: "moldova-riscani-church-history-v2",
+    id: "moldova-riscani-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Rîșcani",
+                  "text": "Das Regionalmuseum zeigt Exponate zur Geschichte und Ethnographie der Region Rîșcani.",
+                  "category": "museum",
+                  "coords": [
+                        27.549433,
+                        47.957725
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Ein historischer jüdischer Friedhof in Rîșcani, der als Kulturerbe bewahrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        27.574426,
+                        47.945647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Rîșcani",
+                  "text": "A regionális múzeum a Rîșcani vidék történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.549433,
+                        47.957725
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Történelmi zsidó temető Rîșcaniban, amelyet kulturális örökségként őriznek.",
+                  "category": "landmark",
+                  "coords": [
+                        27.574426,
+                        47.945647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Rîșcani",
+                  "text": "Muzeul regional prezintă exponate legate de istoria și etnografia zonei Rîșcani.",
+                  "category": "museum",
+                  "coords": [
+                        27.549433,
+                        47.957725
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "Un vechi cimitir evreiesc în Rîșcani, păstrat ca sit de patrimoniu.",
+                  "category": "landmark",
+                  "coords": [
+                        27.574426,
+                        47.945647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie Rîșcani",
+                  "text": "The regional museum displays exhibits on the history and ethnography of the Rîșcani region.",
+                  "category": "museum",
+                  "coords": [
+                        27.549433,
+                        47.957725
+                  ]
+            },
+            {
+                  "name": "Cimitir vechi evreesc",
+                  "text": "An old Jewish cemetery in Rîșcani, preserved as a heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        27.574426,
+                        47.945647
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "MD",
     name: { de: "Kirche Rîșcani", hu: "Rîșcani templom", ro: "Biserica din Rîșcani", en: "Rîșcani Church" },

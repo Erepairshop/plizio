@@ -255,7 +255,52 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-algeti-national-park-life-v2",
+    id: "ge-algeti-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ალგეთის ეროვნული პარკი",
+                  "text": "Ein georgisches Naturschutzgebiet, das für seine dichten Wälder und vielfältige Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.307745,
+                        41.7195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ალგეთის ეროვნული პარკი",
+                  "text": "Grúziai természetvédelmi terület, amely sűrű erdőiről és változatos flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.307745,
+                        41.7195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ალგეთის ეროვნული პარკი",
+                  "text": "O rezervație naturală din Georgia, cunoscută pentru pădurile sale dense și flora diversă.",
+                  "category": "natural",
+                  "coords": [
+                        44.307745,
+                        41.7195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Algeti National Park",
+                  "text": "A Georgian nature reserve known for its dense forests and diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        44.307745,
+                        41.7195
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GE-KK",
     coords: [44.3211, 41.7058],
@@ -291,7 +336,160 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-machakhela-national-park-life-v2",
+    id: "ge-machakhela-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
+                  "text": "Museum im Machakhela-Nationalpark, das die lokale Geschichte und Ethnographie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        41.858685,
+                        41.48942
+                  ]
+            },
+            {
+                  "name": "Machakhela Weapons Forge Museum",
+                  "text": "Ein Museum, das der traditionellen Waffenherstellung im Machakhela-Tal gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        41.855216,
+                        41.490695
+                  ]
+            },
+            {
+                  "name": "მაჭახელას ეროვნული პარკი",
+                  "text": "Ein Nationalpark in Georgien, bekannt für seine unberührte Natur und historischen Brücken.",
+                  "category": "natural",
+                  "coords": [
+                        41.825876,
+                        41.487574
+                  ]
+            },
+            {
+                  "name": "ჩხუტუნეთის კულტურის სახლი",
+                  "text": "Ein lokales Kulturzentrum im Dorf Chkhutuneti innerhalb des Machakhela-Nationalparks.",
+                  "category": "cultural",
+                  "coords": [
+                        41.858418,
+                        41.487718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
+                  "text": "Múzeum a Macsakhela Nemzeti Parkban, amely a helyi történelmet és néprajzot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        41.858685,
+                        41.48942
+                  ]
+            },
+            {
+                  "name": "Machakhela Weapons Forge Museum",
+                  "text": "A hagyományos fegyverkészítésnek szentelt múzeum a Macsakhela-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        41.855216,
+                        41.490695
+                  ]
+            },
+            {
+                  "name": "მაჭახელას ეროვნული პარკი",
+                  "text": "Grúziai nemzeti park, amely érintetlen természetéről és történelmi hídjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        41.825876,
+                        41.487574
+                  ]
+            },
+            {
+                  "name": "ჩხუტუნეთის კულტურის სახლი",
+                  "text": "Helyi kulturális központ Chkhutuneti faluban, a Macsakhela Nemzeti Park területén.",
+                  "category": "cultural",
+                  "coords": [
+                        41.858418,
+                        41.487718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
+                  "text": "Muzeu în Parcul Național Machakhela, care prezintă istoria și etnografia locală.",
+                  "category": "museum",
+                  "coords": [
+                        41.858685,
+                        41.48942
+                  ]
+            },
+            {
+                  "name": "Machakhela Weapons Forge Museum",
+                  "text": "Un muzeu dedicat fabricării tradiționale de arme din valea Machakhela.",
+                  "category": "museum",
+                  "coords": [
+                        41.855216,
+                        41.490695
+                  ]
+            },
+            {
+                  "name": "მაჭახელას ეროვნული პარკი",
+                  "text": "Un parc național din Georgia, cunoscut pentru natura sa virgină și podurile istorice.",
+                  "category": "natural",
+                  "coords": [
+                        41.825876,
+                        41.487574
+                  ]
+            },
+            {
+                  "name": "ჩხუტუნეთის კულტურის სახლი",
+                  "text": "Un centru cultural local în satul Chkhutuneti, în cadrul Parcului Național Machakhela.",
+                  "category": "cultural",
+                  "coords": [
+                        41.858418,
+                        41.487718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
+                  "text": "Museum in Machakhela National Park showcasing local history and ethnography.",
+                  "category": "museum",
+                  "coords": [
+                        41.858685,
+                        41.48942
+                  ]
+            },
+            {
+                  "name": "Machakhela Weapons Forge Museum",
+                  "text": "A museum dedicated to the traditional weapon-making heritage of the Machakhela valley.",
+                  "category": "museum",
+                  "coords": [
+                        41.855216,
+                        41.490695
+                  ]
+            },
+            {
+                  "name": "Machakhela National Park",
+                  "text": "A national park in Georgia known for its pristine nature and historical bridges.",
+                  "category": "natural",
+                  "coords": [
+                        41.825876,
+                        41.487574
+                  ]
+            },
+            {
+                  "name": "Chkhutuneti Culture House",
+                  "text": "A local cultural center in Chkhutuneti village, within the Machakhela National Park.",
+                  "category": "cultural",
+                  "coords": [
+                        41.858418,
+                        41.487718
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GE-AJ",
     coords: [41.8600, 41.4800],

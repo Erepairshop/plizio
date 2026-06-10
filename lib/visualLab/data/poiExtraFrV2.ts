@@ -1181,6 +1181,60 @@ export const poiExtraFrV2: POI[] = [
                         6.084092,
                         45.087592
                   ]
+            },
+            {
+                  "name": "Site Archeologique - Mines d'argent",
+                  "text": "Historische Silberminen in L'Alpe d'Huez, die als bedeutende archäologische und kulturelle Stätte erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        6.08443,
+                        45.08449
+                  ]
+            },
+            {
+                  "name": "Musee d'Huez en Oisans",
+                  "text": "Ein Museum in L'Alpe d'Huez, das die lokale Geschichte, Archäologie und Traditionen der Region Oisans dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.06457,
+                        45.090966
+                  ]
+            },
+            {
+                  "name": "Pylone de Fouillet",
+                  "text": "Eine archäologische Ausgrabungsstätte im Bergort L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.06446,
+                        45.079086
+                  ]
+            },
+            {
+                  "name": "Mine de Brandes",
+                  "text": "Eine bedeutende mittelalterliche Silberminenstätte und archäologische Siedlung in L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.086909,
+                        45.085785
+                  ]
+            },
+            {
+                  "name": "La Grande Sure",
+                  "text": "Ein markanter Berggipfel mit malerischer Aussicht in der Nähe von L'Alpe d'Huez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.059076,
+                        45.099859
+                  ]
+            },
+            {
+                  "name": "Signal de Villard",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Alpenlandschaft in L'Alpe d'Huez.",
+                  "category": "natural",
+                  "coords": [
+                        6.047108,
+                        45.088218
+                  ]
             }
       ],
       "hu": [
@@ -1272,6 +1326,60 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.084092,
                         45.087592
+                  ]
+            },
+            {
+                  "name": "Site Archeologique - Mines d'argent",
+                  "text": "Történelmi ezüstbányák L'Alpe d'Huezben, amelyeket fontos régészeti és kulturális helyszínként őriztek meg.",
+                  "category": "historical",
+                  "coords": [
+                        6.08443,
+                        45.08449
+                  ]
+            },
+            {
+                  "name": "Musee d'Huez en Oisans",
+                  "text": "Múzeum L'Alpe d'Huezben, amely az Oisans régió helytörténetét, régészetét és hagyományait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.06457,
+                        45.090966
+                  ]
+            },
+            {
+                  "name": "Pylone de Fouillet",
+                  "text": "Régészeti helyszín L'Alpe d'Huez hegyi üdülőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        6.06446,
+                        45.079086
+                  ]
+            },
+            {
+                  "name": "Mine de Brandes",
+                  "text": "Fontos középkori ezüstbánya és régészeti település L'Alpe d'Huez-ben.",
+                  "category": "historical",
+                  "coords": [
+                        6.086909,
+                        45.085785
+                  ]
+            },
+            {
+                  "name": "La Grande Sure",
+                  "text": "Kimagasló hegycsúcs szép kilátással L'Alpe d'Huez közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.059076,
+                        45.099859
+                  ]
+            },
+            {
+                  "name": "Signal de Villard",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a környező alpesi tájra L'Alpe d'Huez-ben.",
+                  "category": "natural",
+                  "coords": [
+                        6.047108,
+                        45.088218
                   ]
             }
       ],
@@ -1365,6 +1473,60 @@ export const poiExtraFrV2: POI[] = [
                         6.084092,
                         45.087592
                   ]
+            },
+            {
+                  "name": "Site Archeologique - Mines d'argent",
+                  "text": "Mine de argint istorice din L'Alpe d'Huez, conservate ca un sit arheologic și cultural important.",
+                  "category": "historical",
+                  "coords": [
+                        6.08443,
+                        45.08449
+                  ]
+            },
+            {
+                  "name": "Musee d'Huez en Oisans",
+                  "text": "Un muzeu din L'Alpe d'Huez care documentează istoria locală, arheologia și tradițiile regiunii Oisans.",
+                  "category": "museum",
+                  "coords": [
+                        6.06457,
+                        45.090966
+                  ]
+            },
+            {
+                  "name": "Pylone de Fouillet",
+                  "text": "Un sit arheologic situat în stațiunea montană L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.06446,
+                        45.079086
+                  ]
+            },
+            {
+                  "name": "Mine de Brandes",
+                  "text": "Un important sit minier medieval de argint și așezare arheologică în L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.086909,
+                        45.085785
+                  ]
+            },
+            {
+                  "name": "La Grande Sure",
+                  "text": "Un vârf montan proeminent care oferă vederi panoramice lângă L'Alpe d'Huez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.059076,
+                        45.099859
+                  ]
+            },
+            {
+                  "name": "Signal de Villard",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra peisajului alpin din L'Alpe d'Huez.",
+                  "category": "natural",
+                  "coords": [
+                        6.047108,
+                        45.088218
+                  ]
             }
       ],
       "en": [
@@ -1457,6 +1619,60 @@ export const poiExtraFrV2: POI[] = [
                         6.084092,
                         45.087592
                   ]
+            },
+            {
+                  "name": "Site Archeologique - Mines d'argent",
+                  "text": "Historical silver mines in L'Alpe d'Huez preserved as an important archaeological and cultural site.",
+                  "category": "historical",
+                  "coords": [
+                        6.08443,
+                        45.08449
+                  ]
+            },
+            {
+                  "name": "Musee d'Huez en Oisans",
+                  "text": "A museum in L'Alpe d'Huez documenting the local history, archaeology, and traditions of the Oisans region.",
+                  "category": "museum",
+                  "coords": [
+                        6.06457,
+                        45.090966
+                  ]
+            },
+            {
+                  "name": "Pylone de Fouillet",
+                  "text": "An archaeological site located in the mountain resort of L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.06446,
+                        45.079086
+                  ]
+            },
+            {
+                  "name": "Mine de Brandes",
+                  "text": "An important medieval silver mining site and archaeological settlement in L'Alpe d'Huez.",
+                  "category": "historical",
+                  "coords": [
+                        6.086909,
+                        45.085785
+                  ]
+            },
+            {
+                  "name": "La Grande Sure",
+                  "text": "A prominent mountain peak offering scenic views near L'Alpe d'Huez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.059076,
+                        45.099859
+                  ]
+            },
+            {
+                  "name": "Signal de Villard",
+                  "text": "A viewpoint providing panoramic vistas of the surrounding Alpine landscape in L'Alpe d'Huez.",
+                  "category": "natural",
+                  "coords": [
+                        6.047108,
+                        45.088218
+                  ]
             }
       ]
 }},
@@ -1522,6 +1738,51 @@ export const poiExtraFrV2: POI[] = [
                         0.467384,
                         47.26178
                   ]
+            },
+            {
+                  "name": "Chateau de Cheniers",
+                  "text": "Ein Schloss in der Nähe von Azay-le-Rideau, das für seine klassische französische Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        0.447208,
+                        47.242665
+                  ]
+            },
+            {
+                  "name": "Chateau de l'Aulee",
+                  "text": "Ein Weingut und Herrensitz in Azay-le-Rideau, eingebettet in die Weinberge der Loire.",
+                  "category": "castle",
+                  "coords": [
+                        0.486387,
+                        47.270867
+                  ]
+            },
+            {
+                  "name": "Chateau de Mazere",
+                  "text": "Ein historisches Anwesen in Azay-le-Rideau mit Merkmalen der regionalen Schlossarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        0.503427,
+                        47.257437
+                  ]
+            },
+            {
+                  "name": "Chateau de la Ploquiniere",
+                  "text": "Ein privates Schloss in der Touraine-Region bei Azay-le-Rideau.",
+                  "category": "castle",
+                  "coords": [
+                        0.442752,
+                        47.252467
+                  ]
+            },
+            {
+                  "name": "Vallee troglodytique des Goupilleres",
+                  "text": "Eine archäologische Stätte mit historischen Höhlenwohnungen in der Nähe von Azay-le-Rideau.",
+                  "category": "landmark",
+                  "coords": [
+                        0.50198,
+                        47.264442
+                  ]
             }
       ],
       "hu": [
@@ -1583,6 +1844,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         0.467384,
                         47.26178
+                  ]
+            },
+            {
+                  "name": "Chateau de Cheniers",
+                  "text": "Kastély Azay-le-Rideau közelében, amely klasszikus francia építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        0.447208,
+                        47.242665
+                  ]
+            },
+            {
+                  "name": "Chateau de l'Aulee",
+                  "text": "Borászat és udvarház Azay-le-Rideau-ban, a Loire-menti szőlőültetvények között.",
+                  "category": "castle",
+                  "coords": [
+                        0.486387,
+                        47.270867
+                  ]
+            },
+            {
+                  "name": "Chateau de Mazere",
+                  "text": "Történelmi birtok Azay-le-Rideau-ban, a regionális kastélyépítészet jegyeivel.",
+                  "category": "castle",
+                  "coords": [
+                        0.503427,
+                        47.257437
+                  ]
+            },
+            {
+                  "name": "Chateau de la Ploquiniere",
+                  "text": "Magánkézben lévő kastély a Touraine régióban, Azay-le-Rideau közelében.",
+                  "category": "castle",
+                  "coords": [
+                        0.442752,
+                        47.252467
+                  ]
+            },
+            {
+                  "name": "Vallee troglodytique des Goupilleres",
+                  "text": "Régészeti helyszín történelmi barlanglakásokkal Azay-le-Rideau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.50198,
+                        47.264442
                   ]
             }
       ],
@@ -1646,6 +1952,51 @@ export const poiExtraFrV2: POI[] = [
                         0.467384,
                         47.26178
                   ]
+            },
+            {
+                  "name": "Chateau de Cheniers",
+                  "text": "Un castel lângă Azay-le-Rideau, cunoscut pentru arhitectura sa clasică franceză.",
+                  "category": "castle",
+                  "coords": [
+                        0.447208,
+                        47.242665
+                  ]
+            },
+            {
+                  "name": "Chateau de l'Aulee",
+                  "text": "O proprietate viticolă și conac în Azay-le-Rideau, situată printre podgoriile de pe Loire.",
+                  "category": "castle",
+                  "coords": [
+                        0.486387,
+                        47.270867
+                  ]
+            },
+            {
+                  "name": "Chateau de Mazere",
+                  "text": "O proprietate istorică în Azay-le-Rideau, prezentând caracteristici ale arhitecturii castelelor regionale.",
+                  "category": "castle",
+                  "coords": [
+                        0.503427,
+                        47.257437
+                  ]
+            },
+            {
+                  "name": "Chateau de la Ploquiniere",
+                  "text": "Un castel privat situat în regiunea Touraine, în apropiere de Azay-le-Rideau.",
+                  "category": "castle",
+                  "coords": [
+                        0.442752,
+                        47.252467
+                  ]
+            },
+            {
+                  "name": "Vallee troglodytique des Goupilleres",
+                  "text": "Un sit arheologic care cuprinde locuințe troglodite istorice lângă Azay-le-Rideau.",
+                  "category": "landmark",
+                  "coords": [
+                        0.50198,
+                        47.264442
+                  ]
             }
       ],
       "en": [
@@ -1707,6 +2058,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         0.467384,
                         47.26178
+                  ]
+            },
+            {
+                  "name": "Chateau de Cheniers",
+                  "text": "A castle near Azay-le-Rideau known for its classical French architecture.",
+                  "category": "castle",
+                  "coords": [
+                        0.447208,
+                        47.242665
+                  ]
+            },
+            {
+                  "name": "Chateau de l'Aulee",
+                  "text": "A winery and manor house in Azay-le-Rideau, set among the Loire vineyards.",
+                  "category": "castle",
+                  "coords": [
+                        0.486387,
+                        47.270867
+                  ]
+            },
+            {
+                  "name": "Chateau de Mazere",
+                  "text": "A historical estate in Azay-le-Rideau featuring characteristics of regional castle architecture.",
+                  "category": "castle",
+                  "coords": [
+                        0.503427,
+                        47.257437
+                  ]
+            },
+            {
+                  "name": "Chateau de la Ploquiniere",
+                  "text": "A private castle located in the Touraine region near Azay-le-Rideau.",
+                  "category": "castle",
+                  "coords": [
+                        0.442752,
+                        47.252467
+                  ]
+            },
+            {
+                  "name": "Vallee troglodytique des Goupilleres",
+                  "text": "An archaeological site featuring historic cave dwellings near Azay-le-Rideau.",
+                  "category": "landmark",
+                  "coords": [
+                        0.50198,
+                        47.264442
                   ]
             }
       ]
@@ -2929,7 +3325,880 @@ export const poiExtraFrV2: POI[] = [
             }
       ]
 }},
-  {"id": "bonifacio", "type": "city", "parent": "FR-COR", "coords": [9.16, 41.3886], "population": 3068, "tier": 1, "name": {"de": "Bonifacio", "hu": "Bonifacio", "ro": "Bonifacio", "en": "Bonifacio"}, "description": {"de": "Diese spektakuläre Festungsstadt thront auf weißen Kalksteinfelsen an der Südspitze Korsikas, nur 12 Kilometer von Sardinien entfernt.", "hu": "Ez a látványos erődváros Korzika legdélebbi csücskén, meredek fehér mészkősziklák tetején trónol, mindössze 12 kilométerre Szardíniától.", "ro": "Acest oraș fortificat spectaculos este cocoțat pe stânci albe de calcar în vârful sudic al Corsicii, la doar 12 kilometri de Sardinia.", "en": "Perched precariously atop white limestone cliffs on the southern tip of Corsica, this fortress city is only 12 kilometers away from Sardinia."}, "facts": {"de": ["Kalksteinfelsen", "Zitadelle", "Treppe des Königs von Aragon", "Straße von Bonifacio", "Hafen von Bonifacio", "Marinepark", "Mittelalterliche Altstadt", "Blick auf Sardinien"], "hu": ["Mészkősziklák", "Citadella", "Aragónia királyának lépcsője", "Bonifaciói-szoros", "Kikötő", "Tengeri természetvédelmi terület", "Középkori óváros", "Kilátás Szardíniára"], "ro": ["Stânci de calcar", "Citadela", "Scara Regelui Aragonului", "Strâmtoarea Bonifacio", "Portul Bonifacio", "Parc marin", "Oraș vechi medieval", "Vedere spre Sardinia"], "en": ["Limestone cliffs", "Citadel", "King of Aragon's Steps", "Strait of Bonifacio", "Bonifacio harbor", "Marine park", "Medieval old town", "View of Sardinia"]}, "image": "/geo-images/france/bonifacio.webp", "imageHint": "Citadel of Bonifacio perched on limestone cliffs overlooking the sea", "descriptionAdvanced": {"de": "Bonifacio ist zweifellos einer der dramatischsten Orte im Mittelmeerraum. Die Oberstadt (Citadelle) wurde auf einer schmalen Kalkstein-Halbinsel errichtet, die 70 Meter über dem Meer aufragt und durch Wind und Wellen spektakulär unterspült wurde. Gegründet wurde die Stadt um das Jahr 828 von Bonifatius II. von Toskana. Ein besonderes Highlight ist die Treppe des Königs von Aragon, die mit 187 Stufen direkt in den Fels gehauen wurde und steil zum Meer hinunterführt. Der Naturhafen von Bonifacio ist ein tiefer Fjord, der Schutz für Yachten und Schiffe bietet. Die Gassen der Altstadt sind eng und steil, geprägt von mittelalterlicher Architektur und historischen Kirchen wie der Sainte-Marie-Majeure. Die Straße von Bonifacio trennt Korsika von Sardinien und ist bekannt für ihre starken Strömungen und die reiche marine Biodiversität.", "hu": "Bonifacio vitathatatlanul a Földközi-tenger egyik legdrámaibb fekvésű városa. A Citadella (felsőváros) egy keskeny, 70 méter magas mészkőfélszigetre épült, amelyet a szél és a hullámok az évezredek alatt látványosan alámostak, így a házak némelyike szinte a semmi felett lebeg. A várost 828 körül alapította II. Bonifác toszkán őrgróf. Legismertebb látnivalója az Aragónia királyának lépcsője, amely 187 meredek fokból áll, és közvetlenül a sziklába vájták. A város természetes kikötője egy mély fjordban található, amely tökéletes védelmet nyújt a hajóknak. Az óváros szűk, középkori utcái és olyan történelmi épületei, mint a Sainte-Marie-Majeure templom, visszarepítik a látogatót az időben, miközben a szoros túlpartján tisztán látszanak Szardínia partjai.", "ro": "Bonifacio este fără îndoială unul dintre cele mai dramatice orașe din Mediterana. Orașul de sus (Citadela) este construit pe o peninsulă îngustă de calcar, la 70 de metri deasupra mării, stâncile fiind erodate spectaculos de vânt și valuri. Orașul a fost fondat în jurul anului 828 de Bonifaciu al II-lea de Toscana. O atracție principală este Scara Regelui Aragonului, formată din 187 de trepte sculptate direct în peretele stâncos, care coboară abrupt spre mare. Portul natural din Bonifacio este un fjord adânc care oferă adăpost iahturilor și ambarcațiunilor. Străzile înguste ale orașului vechi sunt pline de istorie, cu arhitectură medievală și biserici vechi precum Sainte-Marie-Majeure, oferind totodată vederi panoramice uluitoare spre strâmtoarea care desparte Corsica de Sardinia.", "en": "Bonifacio is arguably one of the most dramatic settings in the Mediterranean. The Upper Town (Citadel) is built on a narrow limestone peninsula, rising 70 meters above the sea, where wind and waves have spectacularly undercut the cliffs, making some houses appear to hang over the abyss. Founded around 828 AD by Boniface II of Tuscany, the city has a long military history. A standout feature is the King of Aragon's Steps, a staircase of 187 steps carved directly into the cliff face leading down to the water. The natural harbor is located in a deep fjord, providing excellent shelter for yachts. The medieval old town is a labyrinth of narrow streets and historic churches like Sainte-Marie-Majeure, while the Strait of Bonifacio offers clear views across to the nearby Italian island of Sardinia."}, "factsAdvanced": {"de": ["Gegründet um 828 n. Chr.", "187 Stufen der Aragon-Treppe", "70 Meter hohe Kalksteinfelsen", "12 km Entfernung nach Sardinien", "Fjordhafen ist 1500 Meter lang", "Älteste Kirche stammt aus dem 12. Jh."], "hu": ["Alapítva 828 körül", "187 lépcsőfok a sziklában", "70 méter magas sziklafalak", "12 km távolság Szardíniától", "A kikötőfjord 1500 méter hosszú", "12. századi Sainte-Marie-Majeure templom"], "ro": ["Fondat în jurul anului 828", "187 de trepte sculptate în stâncă", "Stânci de calcar de 70 metri", "12 km distanță de Sardinia", "Port natural de 1500 metri lungime", "Cea mai veche biserică din secolul al XII-lea"], "en": ["Founded around 828 AD", "187 steps in the cliff staircase", "70-meter high limestone cliffs", "12 km distance to Sardinia", "Natural fjord harbor 1500m long", "12th-century Sainte-Marie-Majeure church"]}, "sights": {"de": [{"name": "Citadelle de Bonifacio", "text": "Eine massive mittelalterliche Festungsstadt auf hohen weißen Kalksteinklippen mit fantastischem Blick auf das Mittelmeer.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.15946, 41.38778]}, {"name": "Escalier du Roi d'Aragon", "text": "Eine dramatische, direkt in die Klippen gehauene Steintreppe, die laut Legende in nur einer Nacht entstanden sein soll.", "category": "monuments/statues", "confidence": "high", "coords": [9.15559, 41.3862]}, {"name": "Église Sainte-Marie-Majeure", "text": "Die älteste Kirche der Stadt, bekannt für ihren charmanten Loggia-Vorplatz und die markante pisanisch-romanische Architektur.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15934, 41.38714]}, {"name": "Cimetière Marin de Bonifacio", "text": "Wunderschöner Seefriedhof mit strahlend weißen Mausoleen, der auf einem Plateau hoch über dem Meer thront.", "category": "monuments/statues", "confidence": "high", "coords": [9.15028, 41.3869]}, {"name": "Bastion de l'Étendard", "text": "Teil der historischen Festungsanlagen mit Ausstellungen zur Stadtgeschichte und tollen Aussichtspunkten über den Hafen.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.159937, 41.386793]}, {"name": "Grotte de Sdragonato", "text": "Faszinierende Meereshöhle, die nur per Boot erreichbar ist und ein Loch in der Decke hat, das wie Korsika geformt ist.", "category": "natural features", "confidence": "high", "coords": [9.1488, 41.385608]}, {"name": "Phare de Pertusato", "text": "Ein klassischer Leuchtturm an der südlichsten Spitze Korsikas, umgeben von wilder Natur und steilen Klippen.", "category": "bridges/lighthouses", "confidence": "high", "coords": [9.18444, 41.3675]}, {"name": "Église Saint-Dominique", "text": "Seltene gotische Kirche auf Korsika aus dem 13. Jahrhundert, die durch ihren achteckigen Glockenturm besticht.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15567, 41.387]}, {"name": "Port de Bonifacio", "text": "Ein malerischer Naturhafen tief in einem Fjord gelegen, gesäumt von Restaurants, Cafés und Luxusyachten.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [9.15713, 41.38842]}, {"name": "Plage de Paragan", "text": "Die Plage de Paragan ist eine idyllische, ruhige Strandbucht in der Nähe der südfranzösischen Stadt Bonifacio. Abseits der großen Touristenströme bietet sich hier eine hervorragende Gelegenheit, um ungestört im seichten Wasser zu baden oder die Seele baumeln zu lassen. Wer die mediterrane Stille Korsikas sucht, wird an diesem kleinen Küstenabschnitt gewiss fündig.", "category": "recreational", "coords": [9.1334, 41.39929]}, {"name": "Plage Saint Antoine (Pertusato)", "text": "Imposant schmiegt sich die Plage Saint Antoine an die berühmten weißen Kalksteinklippen von Bonifacio. Die dramatische Felskulisse verleiht diesem Strand eine einzigartige Atmosphäre, die zum Erkunden und Staunen am Mittelmeer einlädt. Wegen des teils unwegsamen Geländes sollten Besucher unbedingt festes Schuhwerk für den Abstieg tragen.", "category": "recreational", "coords": [9.182282, 41.366782]}, {"name": "Sutta Rocca", "text": "Sutta Rocca ist ein Kieselstrand, der sich direkt unterhalb der historischen Stadt Bonifacio befindet.", "category": "recreational", "coords": [9.160881, 41.386692]}, {"name": "Plage de la Lune", "text": "Versteckt an der malerischen Küste von Bonifacio lockt die Plage de la Lune mit maritimem Charme. Besucher erwartet hier eine entspannte Atmosphäre, die zu gemütlichen Spaziergängen am Wasser einlädt. Für ein ungetrübtes Stranderlebnis empfiehlt es sich, an sonnigen Tagen rechtzeitig zu erscheinen.", "category": "recreational", "coords": [9.173878, 41.378092]}, {"name": "Fazzio", "text": "Fazzio ist ein malerischer Strand in einer geschützten natürlichen Bucht in Bonifacio.", "category": "recreational", "coords": [9.137294, 41.393473]}, {"name": "Réservoir de Figari", "text": "Dieser See bei Bonifacio bietet eine malerische Kulisse für Spaziergänge in der Natur.", "category": "natural", "coords": [9.150923, 41.469972]}, {"name": "Étang de Piantarella", "text": "Ein ruhiger See in Bonifacio, ideal zum Beobachten der Landschaft.", "category": "natural", "coords": [9.220077, 41.373897]}, {"name": "Étang de Sperono", "text": "Dieser See in Bonifacio lädt zu entspannten Momenten am Wasser ein.", "category": "natural", "coords": [9.218649, 41.370952]}, {"name": "Étang de Balistra", "text": "Ein Naturschutzgebiet am See in Bonifacio, perfekt für Wanderungen.", "category": "natural", "coords": [9.216331, 41.440314]}, {"name": "Étang de Purgatorio", "text": "Ein idyllischer See bei Bonifacio, der zu erholsamen Spaziergängen einlädt.", "category": "natural", "coords": [9.235591, 41.393416]}], "hu": [{"name": "Citadelle de Bonifacio", "text": "Masszív középkori erődváros a magas fehér mészkősziklákon, ahonnan fantasztikus kilátás nyílik a Földközi-tengerre.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.15946, 41.38778]}, {"name": "Escalier du Roi d'Aragon", "text": "A sziklába vájt drámai kőlépcső, amely a legenda szerint egyetlen éjszaka alatt épült fel.", "category": "monuments/statues", "confidence": "high", "coords": [9.15559, 41.3862]}, {"name": "Église Sainte-Marie-Majeure", "text": "A város legrégebbi temploma, amely bájos loggiás előteréről és jellegzetes pisai-román építészetéről ismert.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15934, 41.38714]}, {"name": "Cimetière Marin de Bonifacio", "text": "Gyönyörű tengeri temető vakítóan fehér mauzóleumokkal, amely egy tenger feletti fennsíkon kapott helyet.", "category": "monuments/statues", "confidence": "high", "coords": [9.15028, 41.3869]}, {"name": "Bastion de l'Étendard", "text": "A történelmi erődítményrendszer része, amely várostörténeti kiállításokat és remek kilátópontokat kínál a kikötőre.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.159937, 41.386793]}, {"name": "Grotte de Sdragonato", "text": "Lenyűgöző, csak hajóval megközelíthető tengeri barlang, melynek mennyezetén egy Korzika alakú lyuk található.", "category": "natural features", "confidence": "high", "coords": [9.1488, 41.385608]}, {"name": "Phare de Pertusato", "text": "Klasszikus világítótorony Korzika legdélibb csücskén, vad természettel és meredek sziklákkal körülvéve.", "category": "bridges/lighthouses", "confidence": "high", "coords": [9.18444, 41.3675]}, {"name": "Église Saint-Dominique", "text": "Ritka 13. századi gótikus templom Korzikán, amely nyolcszögletű harangtornyával hívja fel magára a figyelmet.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15567, 41.387]}, {"name": "Port de Bonifacio", "text": "Festői természetes kikötő mélyen egy fjordban, melyet számos étterem, kávézó és luxusjacht szegélyez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [9.15713, 41.38842]}, {"name": "Plage de Paragan", "text": "A Plage de Paragan egy idilli, csendes tengerparti öböl a dél-franciaországi Bonifacio városának közelében. A hatalmas turistatömegektől távol kiváló lehetőséget kínál a zavartalan fürdőzésre a sekély vízben, vagy egyszerűen csak a pihenésre. Aki Korzika mediterrán csendjére vágyik, ezen a kis partszakaszon biztosan megleli azt.", "category": "recreational", "coords": [9.1334, 41.39929]}, {"name": "Plage Saint Antoine (Pertusato)", "text": "A Plage Saint Antoine lenyűgözően simul Bonifacio híres fehér mészkőszikláihoz. A drámai sziklás háttér egyedülálló hangulatot kölcsönöz ennek a strandnak, amely felfedezésre és csodálkozásra csábít a Földközi-tenger partján. A néhol zord terep miatt a látogatóknak mindenképpen érdemes masszív lábbelit viselniük az ereszkedéshez.", "category": "recreational", "coords": [9.182282, 41.366782]}, {"name": "Sutta Rocca", "text": "A Sutta Rocca egy kavicsos strand, amely közvetlenül Bonifacio történelmi városa alatt fekszik.", "category": "recreational", "coords": [9.160881, 41.386692]}, {"name": "Plage de la Lune", "text": "Bonifacio festői partvidékén bújik meg a hangulatos Plage de la Lune. A látogatókat nyugodt légkör várja, amely tökéletes a kényelmes tengerparti sétákhoz és a napozáshoz. Érdemes a meleg nyári napokon korán érkezni, hogy biztosan találjunk kényelmes helyet.", "category": "recreational", "coords": [9.173878, 41.378092]}, {"name": "Fazzio", "text": "A Fazzio egy festői strand egy védett természetes öbölben Bonifacio városában.", "category": "recreational", "coords": [9.137294, 41.393473]}, {"name": "Réservoir de Figari", "text": "Ez a Bonifacio közelében található tó festői helyszínt kínál a természetjáráshoz.", "category": "natural", "coords": [9.150923, 41.469972]}, {"name": "Étang de Piantarella", "text": "Egy nyugodt tó Bonifacio városában, amely ideális a táj megfigyelésére.", "category": "natural", "coords": [9.220077, 41.373897]}, {"name": "Étang de Sperono", "text": "Ez a Bonifacio-i tó pihentető pillanatokra hív a víz partján.", "category": "natural", "coords": [9.218649, 41.370952]}, {"name": "Étang de Balistra", "text": "Egy természetvédelmi terület a tó partján Bonifacio-ban, amely tökéletes túrázáshoz.", "category": "natural", "coords": [9.216331, 41.440314]}, {"name": "Étang de Purgatorio", "text": "Idilli tó Bonifacio közelében, amely pihentető sétákra hívogat.", "category": "natural", "coords": [9.235591, 41.393416]}], "ro": [{"name": "Citadelle de Bonifacio", "text": "Un oraș fortificat medieval masiv, situat pe stânci înalte de calcar alb, oferind vederi fantastice la Marea Mediterană.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.15946, 41.38778]}, {"name": "Escalier du Roi d'Aragon", "text": "O scară dramatică de piatră tăiată direct în stâncă, despre care legenda spune că a fost construită într-o singură noapte.", "category": "monuments/statues", "confidence": "high", "coords": [9.15559, 41.3862]}, {"name": "Église Sainte-Marie-Majeure", "text": "Cea mai veche biserică din oraș, cunoscută pentru curtea sa cu loggie și arhitectura distinctă pisano-romanică.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15934, 41.38714]}, {"name": "Cimetière Marin de Bonifacio", "text": "Cimitir marin frumos, cu mausolee albe strălucitoare, situat pe un platou înalt chiar deasupra mării.", "category": "monuments/statues", "confidence": "high", "coords": [9.15028, 41.3869]}, {"name": "Bastion de l'Étendard", "text": "Parte a fortificațiilor istorice, oferind expoziții despre istoria orașului și puncte de belvedere excelente asupra portului.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.159937, 41.386793]}, {"name": "Grotte de Sdragonato", "text": "Peșteră marină fascinantă accesibilă doar cu barca, cu o gaură în tavan care are forma insulei Corsica.", "category": "natural features", "confidence": "high", "coords": [9.1488, 41.385608]}, {"name": "Phare de Pertusato", "text": "Un far clasic situat în cel mai sudic punct al Corsicăi, înconjurat de o natură sălbatică și stânci abrupte.", "category": "bridges/lighthouses", "confidence": "high", "coords": [9.18444, 41.3675]}, {"name": "Église Saint-Dominique", "text": "Biserică gotică rară din Corsica, construită în secolul al XIII-lea, remarcabilă prin turnul său octogonal.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15567, 41.387]}, {"name": "Port de Bonifacio", "text": "Un port natural pitoresc situat adânc într-un fiord, flancat de numeroase restaurante, cafenele și iahturi de lux.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [9.15713, 41.38842]}, {"name": "Plage de Paragan", "text": "Plage de Paragan este un golf de plajă idilic și liniștit în apropierea orașului Bonifacio din sudul Franței. Departe de aglomerația masivă de turiști, oferă o oportunitate excelentă de a face baie netulburat în apele puțin adânci sau pur și simplu de a vă relaxa. Cei care caută liniștea mediteraneană din Corsica o vor găsi cu siguranță pe această mică porțiune de coastă.", "category": "recreational", "coords": [9.1334, 41.39929]}, {"name": "Plage Saint Antoine (Pertusato)", "text": "Plage Saint Antoine se cuibărește impunător de faimoasele stânci albe de calcar din Bonifacio. Fundalul stâncos dramatic oferă acestei plaje o atmosferă unică, care invită la explorare și uimire pe malul Mării Mediterane. Din cauza terenului uneori accidentat, vizitatorii ar trebui să poarte neapărat încălțăminte robustă pentru coborâre.", "category": "recreational", "coords": [9.182282, 41.366782]}, {"name": "Sutta Rocca", "text": "Sutta Rocca este o plajă cu pietriș aflată direct sub orașul istoric Bonifacio.", "category": "recreational", "coords": [9.160881, 41.386692]}, {"name": "Plage de la Lune", "text": "Ascunsă pe coasta pitorească a orașului Bonifacio, Plage de la Lune încântă cu farmecul său maritim. Vizitatorii sunt întâmpinați de o atmosferă relaxantă, ideală pentru plimbări plăcute la marginea apei. Pentru o experiență perfectă, este recomandat să sosiți devreme în zilele însorite.", "category": "recreational", "coords": [9.173878, 41.378092]}, {"name": "Fazzio", "text": "Fazzio este o plajă pitorească aflată într-un golf natural protejat din Bonifacio.", "category": "recreational", "coords": [9.137294, 41.393473]}, {"name": "Réservoir de Figari", "text": "Acest lac de lângă Bonifacio oferă un cadru pitoresc pentru plimbări în natură.", "category": "natural", "coords": [9.150923, 41.469972]}, {"name": "Étang de Piantarella", "text": "Un lac liniștit în Bonifacio, ideal pentru admirarea peisajului.", "category": "natural", "coords": [9.220077, 41.373897]}, {"name": "Étang de Sperono", "text": "Acest lac din Bonifacio invită la momente de relaxare lângă apă.", "category": "natural", "coords": [9.218649, 41.370952]}, {"name": "Étang de Balistra", "text": "O zonă naturală lângă lac în Bonifacio, perfectă pentru drumeții.", "category": "natural", "coords": [9.216331, 41.440314]}, {"name": "Étang de Purgatorio", "text": "Un lac idilic lângă Bonifacio, care invită la plimbări relaxante.", "category": "natural", "coords": [9.235591, 41.393416]}], "en": [{"name": "Citadelle de Bonifacio", "text": "A massive medieval fortified town set on high white limestone cliffs, offering fantastic views of the Mediterranean Sea.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.15946, 41.38778]}, {"name": "Escalier du Roi d'Aragon", "text": "A dramatic stone staircase carved directly into the cliff, which legend says was built in just one single night.", "category": "monuments/statues", "confidence": "high", "coords": [9.15559, 41.3862]}, {"name": "Église Sainte-Marie-Majeure", "text": "The oldest church in the city, known for its charming loggia courtyard and distinct Pisan-Romanesque architecture.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15934, 41.38714]}, {"name": "Cimetière Marin de Bonifacio", "text": "Beautiful marine cemetery featuring bright white mausoleums, situated on a high plateau right above the sea.", "category": "monuments/statues", "confidence": "high", "coords": [9.15028, 41.3869]}, {"name": "Bastion de l'Étendard", "text": "Part of the historical fortifications offering exhibitions on city history and excellent viewpoints over the harbor.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [9.159937, 41.386793]}, {"name": "Grotte de Sdragonato", "text": "Fascinating sea cave accessible only by boat, featuring a hole in the ceiling that is shaped exactly like Corsica.", "category": "natural features", "confidence": "high", "coords": [9.1488, 41.385608]}, {"name": "Phare de Pertusato", "text": "A classic lighthouse located at the southernmost tip of Corsica, surrounded by wild nature and steep cliffs.", "category": "bridges/lighthouses", "confidence": "high", "coords": [9.18444, 41.3675]}, {"name": "Église Saint-Dominique", "text": "Rare 13th-century Gothic church in Corsica, which is particularly notable for its distinct octagonal bell tower.", "category": "churches/cathedrals", "confidence": "high", "coords": [9.15567, 41.387]}, {"name": "Port de Bonifacio", "text": "A picturesque natural harbor situated deep in a fjord, lined with numerous restaurants, cafes, and luxury yachts.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [9.15713, 41.38842]}, {"name": "Plage de Paragan", "text": "Plage de Paragan is an idyllic, quiet beach cove near the southern French town of Bonifacio. Away from the massive tourist crowds, it offers an excellent opportunity to bathe undisturbed in the shallow waters or simply unwind. Those seeking the Mediterranean silence of Corsica will certainly find it on this small stretch of coast.", "category": "recreational", "coords": [9.1334, 41.39929]}, {"name": "Plage Saint Antoine (Pertusato)", "text": "Plage Saint Antoine nestles imposingly against the famous white limestone cliffs of Bonifacio. The dramatic rocky backdrop gives this beach a unique atmosphere that invites exploration and marveling by the Mediterranean. Because of the sometimes rugged terrain, visitors should absolutely wear sturdy footwear for the descent.", "category": "recreational", "coords": [9.182282, 41.366782]}, {"name": "Sutta Rocca", "text": "Sutta Rocca is a pebble beach located directly below the historic town of Bonifacio.", "category": "recreational", "coords": [9.160881, 41.386692]}, {"name": "Plage de la Lune", "text": "Tucked away on the picturesque coast of Bonifacio, Plage de la Lune delights with its maritime charm. Visitors can expect a relaxing atmosphere that is perfect for leisurely walks along the water's edge. Arriving early on sunny days ensures a tranquil and unhurried beach experience.", "category": "recreational", "coords": [9.173878, 41.378092]}, {"name": "Fazzio", "text": "Fazzio is a scenic beach hidden in a protected natural cove in Bonifacio.", "category": "recreational", "coords": [9.137294, 41.393473]}, {"name": "Réservoir de Figari", "text": "This lake near Bonifacio offers a scenic setting for nature walks.", "category": "natural", "coords": [9.150923, 41.469972]}, {"name": "Étang de Piantarella", "text": "A calm lake in Bonifacio, ideal for observing the scenery.", "category": "natural", "coords": [9.220077, 41.373897]}, {"name": "Étang de Sperono", "text": "This lake in Bonifacio invites you to relaxing moments by the water.", "category": "natural", "coords": [9.218649, 41.370952]}, {"name": "Étang de Balistra", "text": "A natural lakeside area in Bonifacio, perfect for hiking.", "category": "natural", "coords": [9.216331, 41.440314]}, {"name": "Étang de Purgatorio", "text": "An idyllic lake near Bonifacio, inviting for relaxing walks.", "category": "natural", "coords": [9.235591, 41.393416]}]}},
+  {"id": "bonifacio", "type": "city", "parent": "FR-COR", "coords": [9.16, 41.3886], "population": 3068, "tier": 1, "name": {"de": "Bonifacio", "hu": "Bonifacio", "ro": "Bonifacio", "en": "Bonifacio"}, "description": {"de": "Diese spektakuläre Festungsstadt thront auf weißen Kalksteinfelsen an der Südspitze Korsikas, nur 12 Kilometer von Sardinien entfernt.", "hu": "Ez a látványos erődváros Korzika legdélebbi csücskén, meredek fehér mészkősziklák tetején trónol, mindössze 12 kilométerre Szardíniától.", "ro": "Acest oraș fortificat spectaculos este cocoțat pe stânci albe de calcar în vârful sudic al Corsicii, la doar 12 kilometri de Sardinia.", "en": "Perched precariously atop white limestone cliffs on the southern tip of Corsica, this fortress city is only 12 kilometers away from Sardinia."}, "facts": {"de": ["Kalksteinfelsen", "Zitadelle", "Treppe des Königs von Aragon", "Straße von Bonifacio", "Hafen von Bonifacio", "Marinepark", "Mittelalterliche Altstadt", "Blick auf Sardinien"], "hu": ["Mészkősziklák", "Citadella", "Aragónia királyának lépcsője", "Bonifaciói-szoros", "Kikötő", "Tengeri természetvédelmi terület", "Középkori óváros", "Kilátás Szardíniára"], "ro": ["Stânci de calcar", "Citadela", "Scara Regelui Aragonului", "Strâmtoarea Bonifacio", "Portul Bonifacio", "Parc marin", "Oraș vechi medieval", "Vedere spre Sardinia"], "en": ["Limestone cliffs", "Citadel", "King of Aragon's Steps", "Strait of Bonifacio", "Bonifacio harbor", "Marine park", "Medieval old town", "View of Sardinia"]}, "image": "/geo-images/france/bonifacio.webp", "imageHint": "Citadel of Bonifacio perched on limestone cliffs overlooking the sea", "descriptionAdvanced": {"de": "Bonifacio ist zweifellos einer der dramatischsten Orte im Mittelmeerraum. Die Oberstadt (Citadelle) wurde auf einer schmalen Kalkstein-Halbinsel errichtet, die 70 Meter über dem Meer aufragt und durch Wind und Wellen spektakulär unterspült wurde. Gegründet wurde die Stadt um das Jahr 828 von Bonifatius II. von Toskana. Ein besonderes Highlight ist die Treppe des Königs von Aragon, die mit 187 Stufen direkt in den Fels gehauen wurde und steil zum Meer hinunterführt. Der Naturhafen von Bonifacio ist ein tiefer Fjord, der Schutz für Yachten und Schiffe bietet. Die Gassen der Altstadt sind eng und steil, geprägt von mittelalterlicher Architektur und historischen Kirchen wie der Sainte-Marie-Majeure. Die Straße von Bonifacio trennt Korsika von Sardinien und ist bekannt für ihre starken Strömungen und die reiche marine Biodiversität.", "hu": "Bonifacio vitathatatlanul a Földközi-tenger egyik legdrámaibb fekvésű városa. A Citadella (felsőváros) egy keskeny, 70 méter magas mészkőfélszigetre épült, amelyet a szél és a hullámok az évezredek alatt látványosan alámostak, így a házak némelyike szinte a semmi felett lebeg. A várost 828 körül alapította II. Bonifác toszkán őrgróf. Legismertebb látnivalója az Aragónia királyának lépcsője, amely 187 meredek fokból áll, és közvetlenül a sziklába vájták. A város természetes kikötője egy mély fjordban található, amely tökéletes védelmet nyújt a hajóknak. Az óváros szűk, középkori utcái és olyan történelmi épületei, mint a Sainte-Marie-Majeure templom, visszarepítik a látogatót az időben, miközben a szoros túlpartján tisztán látszanak Szardínia partjai.", "ro": "Bonifacio este fără îndoială unul dintre cele mai dramatice orașe din Mediterana. Orașul de sus (Citadela) este construit pe o peninsulă îngustă de calcar, la 70 de metri deasupra mării, stâncile fiind erodate spectaculos de vânt și valuri. Orașul a fost fondat în jurul anului 828 de Bonifaciu al II-lea de Toscana. O atracție principală este Scara Regelui Aragonului, formată din 187 de trepte sculptate direct în peretele stâncos, care coboară abrupt spre mare. Portul natural din Bonifacio este un fjord adânc care oferă adăpost iahturilor și ambarcațiunilor. Străzile înguste ale orașului vechi sunt pline de istorie, cu arhitectură medievală și biserici vechi precum Sainte-Marie-Majeure, oferind totodată vederi panoramice uluitoare spre strâmtoarea care desparte Corsica de Sardinia.", "en": "Bonifacio is arguably one of the most dramatic settings in the Mediterranean. The Upper Town (Citadel) is built on a narrow limestone peninsula, rising 70 meters above the sea, where wind and waves have spectacularly undercut the cliffs, making some houses appear to hang over the abyss. Founded around 828 AD by Boniface II of Tuscany, the city has a long military history. A standout feature is the King of Aragon's Steps, a staircase of 187 steps carved directly into the cliff face leading down to the water. The natural harbor is located in a deep fjord, providing excellent shelter for yachts. The medieval old town is a labyrinth of narrow streets and historic churches like Sainte-Marie-Majeure, while the Strait of Bonifacio offers clear views across to the nearby Italian island of Sardinia."}, "factsAdvanced": {"de": ["Gegründet um 828 n. Chr.", "187 Stufen der Aragon-Treppe", "70 Meter hohe Kalksteinfelsen", "12 km Entfernung nach Sardinien", "Fjordhafen ist 1500 Meter lang", "Älteste Kirche stammt aus dem 12. Jh."], "hu": ["Alapítva 828 körül", "187 lépcsőfok a sziklában", "70 méter magas sziklafalak", "12 km távolság Szardíniától", "A kikötőfjord 1500 méter hosszú", "12. századi Sainte-Marie-Majeure templom"], "ro": ["Fondat în jurul anului 828", "187 de trepte sculptate în stâncă", "Stânci de calcar de 70 metri", "12 km distanță de Sardinia", "Port natural de 1500 metri lungime", "Cea mai veche biserică din secolul al XII-lea"], "en": ["Founded around 828 AD", "187 steps in the cliff staircase", "70-meter high limestone cliffs", "12 km distance to Sardinia", "Natural fjord harbor 1500m long", "12th-century Sainte-Marie-Majeure church"]}, "sights": {
+      "de": [
+            {
+                  "name": "Citadelle de Bonifacio",
+                  "text": "Eine massive mittelalterliche Festungsstadt auf hohen weißen Kalksteinklippen mit fantastischem Blick auf das Mittelmeer.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.15946,
+                        41.38778
+                  ]
+            },
+            {
+                  "name": "Escalier du Roi d'Aragon",
+                  "text": "Eine dramatische, direkt in die Klippen gehauene Steintreppe, die laut Legende in nur einer Nacht entstanden sein soll.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15559,
+                        41.3862
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Majeure",
+                  "text": "Die älteste Kirche der Stadt, bekannt für ihren charmanten Loggia-Vorplatz und die markante pisanisch-romanische Architektur.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15934,
+                        41.38714
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin de Bonifacio",
+                  "text": "Wunderschöner Seefriedhof mit strahlend weißen Mausoleen, der auf einem Plateau hoch über dem Meer thront.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15028,
+                        41.3869
+                  ]
+            },
+            {
+                  "name": "Bastion de l'Étendard",
+                  "text": "Teil der historischen Festungsanlagen mit Ausstellungen zur Stadtgeschichte und tollen Aussichtspunkten über den Hafen.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.159937,
+                        41.386793
+                  ]
+            },
+            {
+                  "name": "Grotte de Sdragonato",
+                  "text": "Faszinierende Meereshöhle, die nur per Boot erreichbar ist und ein Loch in der Decke hat, das wie Korsika geformt ist.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        9.1488,
+                        41.385608
+                  ]
+            },
+            {
+                  "name": "Phare de Pertusato",
+                  "text": "Ein klassischer Leuchtturm an der südlichsten Spitze Korsikas, umgeben von wilder Natur und steilen Klippen.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        9.18444,
+                        41.3675
+                  ]
+            },
+            {
+                  "name": "Église Saint-Dominique",
+                  "text": "Seltene gotische Kirche auf Korsika aus dem 13. Jahrhundert, die durch ihren achteckigen Glockenturm besticht.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15567,
+                        41.387
+                  ]
+            },
+            {
+                  "name": "Port de Bonifacio",
+                  "text": "Ein malerischer Naturhafen tief in einem Fjord gelegen, gesäumt von Restaurants, Cafés und Luxusyachten.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        9.15713,
+                        41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Die Plage de Paragan ist eine idyllische, ruhige Strandbucht in der Nähe der südfranzösischen Stadt Bonifacio. Abseits der großen Touristenströme bietet sich hier eine hervorragende Gelegenheit, um ungestört im seichten Wasser zu baden oder die Seele baumeln zu lassen. Wer die mediterrane Stille Korsikas sucht, wird an diesem kleinen Küstenabschnitt gewiss fündig.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Imposant schmiegt sich die Plage Saint Antoine an die berühmten weißen Kalksteinklippen von Bonifacio. Die dramatische Felskulisse verleiht diesem Strand eine einzigartige Atmosphäre, die zum Erkunden und Staunen am Mittelmeer einlädt. Wegen des teils unwegsamen Geländes sollten Besucher unbedingt festes Schuhwerk für den Abstieg tragen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca ist ein Kieselstrand, der sich direkt unterhalb der historischen Stadt Bonifacio befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Versteckt an der malerischen Küste von Bonifacio lockt die Plage de la Lune mit maritimem Charme. Besucher erwartet hier eine entspannte Atmosphäre, die zu gemütlichen Spaziergängen am Wasser einlädt. Für ein ungetrübtes Stranderlebnis empfiehlt es sich, an sonnigen Tagen rechtzeitig zu erscheinen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio ist ein malerischer Strand in einer geschützten natürlichen Bucht in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Dieser See bei Bonifacio bietet eine malerische Kulisse für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Ein ruhiger See in Bonifacio, ideal zum Beobachten der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Dieser See in Bonifacio lädt zu entspannten Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "Ein Naturschutzgebiet am See in Bonifacio, perfekt für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Ein idyllischer See bei Bonifacio, der zu erholsamen Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
+            },
+            {
+                  "name": "Abri prehistorique d'Araguina-Sennola",
+                  "text": "Ein prähistorischer Felsunterstand und eine bedeutende archäologische Stätte in Bonifacio.",
+                  "category": "historical",
+                  "coords": [
+                        9.165714,
+                        41.392133
+                  ]
+            },
+            {
+                  "name": "Ancien couvent Saint-Julien",
+                  "text": "Die historischen Überreste des ehemaligen Klosters Saint-Julien in Bonifacio.",
+                  "category": "religious",
+                  "coords": [
+                        9.183069,
+                        41.389063
+                  ]
+            },
+            {
+                  "name": "Phare de la Madonetta",
+                  "text": "Ein Leuchtturm am Eingang des Hafens von Bonifacio, der die Klippen der Meerenge markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.144356,
+                        41.386971
+                  ]
+            },
+            {
+                  "name": "Pointe de l'Arenella",
+                  "text": "Ein Küstenleuchtturm, der den Schiffsverkehr in der Nähe von Bonifacio leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.151017,
+                        41.389945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Citadelle de Bonifacio",
+                  "text": "Masszív középkori erődváros a magas fehér mészkősziklákon, ahonnan fantasztikus kilátás nyílik a Földközi-tengerre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.15946,
+                        41.38778
+                  ]
+            },
+            {
+                  "name": "Escalier du Roi d'Aragon",
+                  "text": "A sziklába vájt drámai kőlépcső, amely a legenda szerint egyetlen éjszaka alatt épült fel.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15559,
+                        41.3862
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Majeure",
+                  "text": "A város legrégebbi temploma, amely bájos loggiás előteréről és jellegzetes pisai-román építészetéről ismert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15934,
+                        41.38714
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin de Bonifacio",
+                  "text": "Gyönyörű tengeri temető vakítóan fehér mauzóleumokkal, amely egy tenger feletti fennsíkon kapott helyet.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15028,
+                        41.3869
+                  ]
+            },
+            {
+                  "name": "Bastion de l'Étendard",
+                  "text": "A történelmi erődítményrendszer része, amely várostörténeti kiállításokat és remek kilátópontokat kínál a kikötőre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.159937,
+                        41.386793
+                  ]
+            },
+            {
+                  "name": "Grotte de Sdragonato",
+                  "text": "Lenyűgöző, csak hajóval megközelíthető tengeri barlang, melynek mennyezetén egy Korzika alakú lyuk található.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        9.1488,
+                        41.385608
+                  ]
+            },
+            {
+                  "name": "Phare de Pertusato",
+                  "text": "Klasszikus világítótorony Korzika legdélibb csücskén, vad természettel és meredek sziklákkal körülvéve.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        9.18444,
+                        41.3675
+                  ]
+            },
+            {
+                  "name": "Église Saint-Dominique",
+                  "text": "Ritka 13. századi gótikus templom Korzikán, amely nyolcszögletű harangtornyával hívja fel magára a figyelmet.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15567,
+                        41.387
+                  ]
+            },
+            {
+                  "name": "Port de Bonifacio",
+                  "text": "Festői természetes kikötő mélyen egy fjordban, melyet számos étterem, kávézó és luxusjacht szegélyez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        9.15713,
+                        41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "A Plage de Paragan egy idilli, csendes tengerparti öböl a dél-franciaországi Bonifacio városának közelében. A hatalmas turistatömegektől távol kiváló lehetőséget kínál a zavartalan fürdőzésre a sekély vízben, vagy egyszerűen csak a pihenésre. Aki Korzika mediterrán csendjére vágyik, ezen a kis partszakaszon biztosan megleli azt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "A Plage Saint Antoine lenyűgözően simul Bonifacio híres fehér mészkőszikláihoz. A drámai sziklás háttér egyedülálló hangulatot kölcsönöz ennek a strandnak, amely felfedezésre és csodálkozásra csábít a Földközi-tenger partján. A néhol zord terep miatt a látogatóknak mindenképpen érdemes masszív lábbelit viselniük az ereszkedéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "A Sutta Rocca egy kavicsos strand, amely közvetlenül Bonifacio történelmi városa alatt fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Bonifacio festői partvidékén bújik meg a hangulatos Plage de la Lune. A látogatókat nyugodt légkör várja, amely tökéletes a kényelmes tengerparti sétákhoz és a napozáshoz. Érdemes a meleg nyári napokon korán érkezni, hogy biztosan találjunk kényelmes helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "A Fazzio egy festői strand egy védett természetes öbölben Bonifacio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Ez a Bonifacio közelében található tó festői helyszínt kínál a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Egy nyugodt tó Bonifacio városában, amely ideális a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Ez a Bonifacio-i tó pihentető pillanatokra hív a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "Egy természetvédelmi terület a tó partján Bonifacio-ban, amely tökéletes túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Idilli tó Bonifacio közelében, amely pihentető sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
+            },
+            {
+                  "name": "Abri prehistorique d'Araguina-Sennola",
+                  "text": "Prehisztorikus sziklaeresz és jelentős régészeti lelőhely Bonifacioban.",
+                  "category": "historical",
+                  "coords": [
+                        9.165714,
+                        41.392133
+                  ]
+            },
+            {
+                  "name": "Ancien couvent Saint-Julien",
+                  "text": "Az egykori Saint-Julien kolostor történelmi maradványai Bonifacioban.",
+                  "category": "religious",
+                  "coords": [
+                        9.183069,
+                        41.389063
+                  ]
+            },
+            {
+                  "name": "Phare de la Madonetta",
+                  "text": "Világítótorony Bonifacio kikötőjének bejáratánál, amely a tengerszoros szikláit jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.144356,
+                        41.386971
+                  ]
+            },
+            {
+                  "name": "Pointe de l'Arenella",
+                  "text": "Partmenti világítótorony, amely a tengeri forgalmat irányítja Bonifacio közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.151017,
+                        41.389945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citadelle de Bonifacio",
+                  "text": "Un oraș fortificat medieval masiv, situat pe stânci înalte de calcar alb, oferind vederi fantastice la Marea Mediterană.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.15946,
+                        41.38778
+                  ]
+            },
+            {
+                  "name": "Escalier du Roi d'Aragon",
+                  "text": "O scară dramatică de piatră tăiată direct în stâncă, despre care legenda spune că a fost construită într-o singură noapte.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15559,
+                        41.3862
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Majeure",
+                  "text": "Cea mai veche biserică din oraș, cunoscută pentru curtea sa cu loggie și arhitectura distinctă pisano-romanică.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15934,
+                        41.38714
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin de Bonifacio",
+                  "text": "Cimitir marin frumos, cu mausolee albe strălucitoare, situat pe un platou înalt chiar deasupra mării.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15028,
+                        41.3869
+                  ]
+            },
+            {
+                  "name": "Bastion de l'Étendard",
+                  "text": "Parte a fortificațiilor istorice, oferind expoziții despre istoria orașului și puncte de belvedere excelente asupra portului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.159937,
+                        41.386793
+                  ]
+            },
+            {
+                  "name": "Grotte de Sdragonato",
+                  "text": "Peșteră marină fascinantă accesibilă doar cu barca, cu o gaură în tavan care are forma insulei Corsica.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        9.1488,
+                        41.385608
+                  ]
+            },
+            {
+                  "name": "Phare de Pertusato",
+                  "text": "Un far clasic situat în cel mai sudic punct al Corsicăi, înconjurat de o natură sălbatică și stânci abrupte.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        9.18444,
+                        41.3675
+                  ]
+            },
+            {
+                  "name": "Église Saint-Dominique",
+                  "text": "Biserică gotică rară din Corsica, construită în secolul al XIII-lea, remarcabilă prin turnul său octogonal.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15567,
+                        41.387
+                  ]
+            },
+            {
+                  "name": "Port de Bonifacio",
+                  "text": "Un port natural pitoresc situat adânc într-un fiord, flancat de numeroase restaurante, cafenele și iahturi de lux.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        9.15713,
+                        41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Plage de Paragan este un golf de plajă idilic și liniștit în apropierea orașului Bonifacio din sudul Franței. Departe de aglomerația masivă de turiști, oferă o oportunitate excelentă de a face baie netulburat în apele puțin adânci sau pur și simplu de a vă relaxa. Cei care caută liniștea mediteraneană din Corsica o vor găsi cu siguranță pe această mică porțiune de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Plage Saint Antoine se cuibărește impunător de faimoasele stânci albe de calcar din Bonifacio. Fundalul stâncos dramatic oferă acestei plaje o atmosferă unică, care invită la explorare și uimire pe malul Mării Mediterane. Din cauza terenului uneori accidentat, vizitatorii ar trebui să poarte neapărat încălțăminte robustă pentru coborâre.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca este o plajă cu pietriș aflată direct sub orașul istoric Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Ascunsă pe coasta pitorească a orașului Bonifacio, Plage de la Lune încântă cu farmecul său maritim. Vizitatorii sunt întâmpinați de o atmosferă relaxantă, ideală pentru plimbări plăcute la marginea apei. Pentru o experiență perfectă, este recomandat să sosiți devreme în zilele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio este o plajă pitorească aflată într-un golf natural protejat din Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "Acest lac de lângă Bonifacio oferă un cadru pitoresc pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "Un lac liniștit în Bonifacio, ideal pentru admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "Acest lac din Bonifacio invită la momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "O zonă naturală lângă lac în Bonifacio, perfectă pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "Un lac idilic lângă Bonifacio, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
+            },
+            {
+                  "name": "Abri prehistorique d'Araguina-Sennola",
+                  "text": "Un adăpost preistoric în stâncă și un sit arheologic semnificativ situat în Bonifacio.",
+                  "category": "historical",
+                  "coords": [
+                        9.165714,
+                        41.392133
+                  ]
+            },
+            {
+                  "name": "Ancien couvent Saint-Julien",
+                  "text": "Vestigiile istorice ale fostei mănăstiri Saint-Julien din Bonifacio.",
+                  "category": "religious",
+                  "coords": [
+                        9.183069,
+                        41.389063
+                  ]
+            },
+            {
+                  "name": "Phare de la Madonetta",
+                  "text": "Un far situat la intrarea în portul Bonifacio, care marchează stâncile strâmtorii.",
+                  "category": "landmark",
+                  "coords": [
+                        9.144356,
+                        41.386971
+                  ]
+            },
+            {
+                  "name": "Pointe de l'Arenella",
+                  "text": "Un far de coastă care ghidează traficul maritim în apropiere de Bonifacio.",
+                  "category": "landmark",
+                  "coords": [
+                        9.151017,
+                        41.389945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadelle de Bonifacio",
+                  "text": "A massive medieval fortified town set on high white limestone cliffs, offering fantastic views of the Mediterranean Sea.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.15946,
+                        41.38778
+                  ]
+            },
+            {
+                  "name": "Escalier du Roi d'Aragon",
+                  "text": "A dramatic stone staircase carved directly into the cliff, which legend says was built in just one single night.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15559,
+                        41.3862
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Majeure",
+                  "text": "The oldest church in the city, known for its charming loggia courtyard and distinct Pisan-Romanesque architecture.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15934,
+                        41.38714
+                  ]
+            },
+            {
+                  "name": "Cimetière Marin de Bonifacio",
+                  "text": "Beautiful marine cemetery featuring bright white mausoleums, situated on a high plateau right above the sea.",
+                  "category": "monuments/statues",
+                  "confidence": "high",
+                  "coords": [
+                        9.15028,
+                        41.3869
+                  ]
+            },
+            {
+                  "name": "Bastion de l'Étendard",
+                  "text": "Part of the historical fortifications offering exhibitions on city history and excellent viewpoints over the harbor.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        9.159937,
+                        41.386793
+                  ]
+            },
+            {
+                  "name": "Grotte de Sdragonato",
+                  "text": "Fascinating sea cave accessible only by boat, featuring a hole in the ceiling that is shaped exactly like Corsica.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        9.1488,
+                        41.385608
+                  ]
+            },
+            {
+                  "name": "Phare de Pertusato",
+                  "text": "A classic lighthouse located at the southernmost tip of Corsica, surrounded by wild nature and steep cliffs.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        9.18444,
+                        41.3675
+                  ]
+            },
+            {
+                  "name": "Église Saint-Dominique",
+                  "text": "Rare 13th-century Gothic church in Corsica, which is particularly notable for its distinct octagonal bell tower.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        9.15567,
+                        41.387
+                  ]
+            },
+            {
+                  "name": "Port de Bonifacio",
+                  "text": "A picturesque natural harbor situated deep in a fjord, lined with numerous restaurants, cafes, and luxury yachts.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        9.15713,
+                        41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Plage de Paragan is an idyllic, quiet beach cove near the southern French town of Bonifacio. Away from the massive tourist crowds, it offers an excellent opportunity to bathe undisturbed in the shallow waters or simply unwind. Those seeking the Mediterranean silence of Corsica will certainly find it on this small stretch of coast.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Plage Saint Antoine nestles imposingly against the famous white limestone cliffs of Bonifacio. The dramatic rocky backdrop gives this beach a unique atmosphere that invites exploration and marveling by the Mediterranean. Because of the sometimes rugged terrain, visitors should absolutely wear sturdy footwear for the descent.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca is a pebble beach located directly below the historic town of Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Tucked away on the picturesque coast of Bonifacio, Plage de la Lune delights with its maritime charm. Visitors can expect a relaxing atmosphere that is perfect for leisurely walks along the water's edge. Arriving early on sunny days ensures a tranquil and unhurried beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio is a scenic beach hidden in a protected natural cove in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
+            },
+            {
+                  "name": "Réservoir de Figari",
+                  "text": "This lake near Bonifacio offers a scenic setting for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.150923,
+                        41.469972
+                  ]
+            },
+            {
+                  "name": "Étang de Piantarella",
+                  "text": "A calm lake in Bonifacio, ideal for observing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.220077,
+                        41.373897
+                  ]
+            },
+            {
+                  "name": "Étang de Sperono",
+                  "text": "This lake in Bonifacio invites you to relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.218649,
+                        41.370952
+                  ]
+            },
+            {
+                  "name": "Étang de Balistra",
+                  "text": "A natural lakeside area in Bonifacio, perfect for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        9.216331,
+                        41.440314
+                  ]
+            },
+            {
+                  "name": "Étang de Purgatorio",
+                  "text": "An idyllic lake near Bonifacio, inviting for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.235591,
+                        41.393416
+                  ]
+            },
+            {
+                  "name": "Abri prehistorique d'Araguina-Sennola",
+                  "text": "A prehistoric rock shelter and significant archaeological site located in Bonifacio.",
+                  "category": "historical",
+                  "coords": [
+                        9.165714,
+                        41.392133
+                  ]
+            },
+            {
+                  "name": "Ancien couvent Saint-Julien",
+                  "text": "The historic remains of the former Saint-Julien monastery in Bonifacio.",
+                  "category": "religious",
+                  "coords": [
+                        9.183069,
+                        41.389063
+                  ]
+            },
+            {
+                  "name": "Phare de la Madonetta",
+                  "text": "A lighthouse at the entrance to the port of Bonifacio, marking the cliffs of the strait.",
+                  "category": "landmark",
+                  "coords": [
+                        9.144356,
+                        41.386971
+                  ]
+            },
+            {
+                  "name": "Pointe de l'Arenella",
+                  "text": "A coastal lighthouse guiding maritime traffic near Bonifacio.",
+                  "category": "landmark",
+                  "coords": [
+                        9.151017,
+                        41.389945
+                  ]
+            }
+      ]
+}},
   {"id": "bonnieux", "type": "city", "parent": "FR-PAC", "coords": [5.3072, 43.8244], "population": 1432, "tier": 2, "name": {"de": "Bonnieux", "hu": "Bonnieux", "ro": "Bonnieux", "en": "Bonnieux"}, "description": {"de": "Bonnieux, das an einem der steilsten Hänge des Luberon erbaut wurde, ist für seinen einzigartigen Kirchturm und die fantastische Aussicht auf das Calavon-Tal bekannt.", "hu": "A Luberon egyik legmeredekebb oldalában épült Bonnieux egyedülálló templomtornyáról és a Calavon völgyére nyíló fantasztikus kilátásáról ismert.", "ro": "Construit pe una dintre cele mai abrupte pante din Luberon, Bonnieux este cunoscut pentru turnul său unic al bisericii și pentru priveliștile fantastice asupra văii Calavon.", "en": "Built on one of the steepest slopes of the Luberon, Bonnieux is known for its unique church tower and fantastic views over the Calavon valley."}, "facts": {"de": ["Obere Kirche", "Steile Straßen", "Bäckereimuseum", "Pont Julien Brücke", "Lavendelfelder", "Panorama auf das Tal", "Weinkeller", "Historische Herrenhäuser"], "hu": ["Felső Templom", "Meredek utcák", "Sütőipari Múzeum", "Pont Julien híd", "Levendulamezők", "Panoráma a völgyre", "Borospincék", "Történelmi kúriák"], "ro": ["Biserica Superioară", "Străzi abrupte", "Muzeul Brutăriei", "Podul Pont Julien", "Câmpuri de lavandă", "Panorama văii", "Crame de vin", "Conace istorice"], "en": ["Upper Church", "Steep streets", "Bakery Museum", "Pont Julien bridge", "Lavender fields", "Valley panorama", "Wine cellars", "Historic mansions"]}, "image": "/geo-images/france/bonnieux.webp", "imageHint": "church tower of Bonnieux in Luberon", "descriptionAdvanced": {"de": "Das markante Profil von Bonnieux, das über dem Luberon-Tal thront, wird durch den Turm der romanisch-gotischen Kirche (Église Haute) aus dem 12. Jahrhundert geprägt, die von jahrhundertealten Zedern umgeben ist. Die Siedlung ist terrassenförmig angelegt, und die in den Hang gebauten engen Gassen sind durch 86 steile Stufen verbunden. Bonnieux gehörte 500 Jahre lang zum Kirchenstaat, was der Siedlung erheblichen Reichtum einbrachte: Viele herrschaftliche Herrenhäuser (hôtel particulier) aus dem 16. und 17. Jahrhundert zeugen noch heute von diesem Goldenen Zeitalter. In der Nähe befindet sich der Pont Julien, eine sehr gut erhaltene römische Steinbrücke, die im Jahr 3 v. Chr. erbaut wurde. Viele Szenen von Ridley Scotts berühmtem Film Ein gutes Jahr wurden auf den Weingütern und umliegenden Anwesen des Dorfes gedreht.", "hu": "A Luberon völgye fölé magasodó Bonnieux jellegzetes profilját a falu tetején álló, 12. századi román-gótikus templom (Église Haute) tornya adja, amelyet évszázados cédrusfák vesznek körül. A település teraszos elrendezésű, a hegyoldalba ékelt szűk utcákat 86 meredek lépcsőfok köti össze. Bonnieux 500 éven át a pápai államhoz tartozott, ami jelentős gazdagságot hozott a településnek: az utcákon ma is számos 16. és 17. századi előkelő kúria (hôtel particulier) tanúskodik erről az aranykorról. A közelben található a Krisztus előtt 3-ban épült Pont Julien, egy rendkívül jó állapotban fennmaradt római kőhíd. Ridley Scott híres, Bor, mámor, Provence című filmjének számos jelenetét is a falu borászataiban és környező birtokain forgatták.", "ro": "Profilul distinctiv al orașului Bonnieux, care domină valea Luberon, este dat de turnul bisericii romanico-gotice din secolul al XII-lea (Église Haute), situat în vârful satului și înconjurat de cedri seculari. Așezarea are un aspect terasat, străzile înguste tăiate în versantul dealului fiind conectate prin 86 de trepte abrupte. Bonnieux a aparținut statului papal timp de 500 de ani, ceea ce a adus o bogăție semnificativă așezării: multe conace elegante (hôtel particulier) din secolele al XVI-lea și al XVII-lea de pe străzi stau mărturie acestei epoci de aur. În apropiere se află Pont Julien, un pod roman de piatră extrem de bine conservat, construit în anul 3 î.Hr. Multe scene din celebrul film al lui Ridley Scott, Un an bun, au fost filmate în cramele și moșiile din jurul satului.", "en": "The distinctive profile of Bonnieux, towering over the Luberon valley, is created by the 12th-century Romanesque-Gothic church (Église Haute) at the top of the village, surrounded by centuries-old cedar trees. The settlement has a terraced layout, with narrow streets carved into the hillside connected by 86 steep stone steps. For 500 years, Bonnieux belonged to the Papal States, which brought significant wealth to the settlement: numerous elegant 16th- and 17th-century mansions (hôtels particuliers) still line the streets, serving as a testament to this golden age. Nearby lies the Pont Julien, a remarkably well-preserved Roman stone bridge built in 3 BC. Many scenes from Ridley Scott's famous film A Good Year were also filmed at the wineries and estates surrounding the village."}, "factsAdvanced": {"de": ["Die Obere Kirche, die das Dorf krönt, wurde ursprünglich im 12. Jahrhundert erbaut.", "Bonnieux war 500 Jahre lang das Gebiet des Kirchenstaates.", "Vom unteren Teil des Dorfes führen genau 86 Stufen zur oberen Kirche.", "Die im Jahr 3 v. Chr. erbaute römische Brücke Pont Julien befindet sich in der Nähe.", "Mehrere Szenen des Films Ein gutes Jahr wurden hier gedreht.", "Das örtliche Bäckereimuseum zeigt die Geschichte des traditionellen Brotbackens."], "hu": ["A falut koronázó Felső Templom eredetileg a 12. században épült.", "Bonnieux 500 éven keresztül a pápai állam területe volt.", "Az alsó falurészből pontosan 86 lépcsőfok vezet fel a felső templomhoz.", "A Krisztus előtt 3-ban épült római híd, a Pont Julien a közelben található.", "Több jelenetet itt forgattak a Bor, mámor, Provence című filmből.", "A helyi Sütőipari Múzeum bemutatja a tradicionális kenyérsütés történetét."], "ro": ["Biserica Superioară care încoronează satul a fost construită inițial în secolul al XII-lea.", "Bonnieux a fost teritoriul statului papal timp de 500 de ani.", "Din partea de jos a satului, exact 86 de trepte duc la biserica superioară.", "Podul roman Pont Julien, construit în anul 3 î.Hr., se află în apropiere.", "Mai multe scene din filmul Un an bun au fost filmate aici.", "Muzeul local al Brutăriei prezintă istoria coacerii tradiționale a pâinii."], "en": ["The Upper Church that crowns the village was originally built in the 12th century.", "For exactly 500 years, Bonnieux was an enclave territory of the Papal States.", "Exactly 86 stone steps lead from the lower village to the upper church area.", "The Pont Julien, a Roman bridge built in 3 BC, is located very close by.", "Several key scenes from the movie A Good Year were filmed in the village.", "The local Bakery Museum highlights the history of traditional French bread making."]}, "sights": {
       "de": [
             {
@@ -3000,6 +4269,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.3074,
                         43.82284
+                  ]
+            },
+            {
+                  "name": "Chateau du Marquis de Sade",
+                  "text": "Die Ruinen dieses Schlosses in Lacoste gehörten einst dem berüchtigten Marquis de Sade.",
+                  "category": "castle",
+                  "coords": [
+                        5.272071,
+                        43.832388
+                  ]
+            },
+            {
+                  "name": "La tour Philippe",
+                  "text": "Ein Aussichtsturm in Bonnieux, der einen weiten Blick über das Luberon-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.298027,
+                        43.80723
+                  ]
+            },
+            {
+                  "name": "Maison Troglodyte",
+                  "text": "Überreste eines historischen Höhlenhauses in der Felslandschaft von Bonnieux.",
+                  "category": "historical",
+                  "coords": [
+                        5.333796,
+                        43.818997
                   ]
             }
       ],
@@ -3073,6 +4369,33 @@ export const poiExtraFrV2: POI[] = [
                         5.3074,
                         43.82284
                   ]
+            },
+            {
+                  "name": "Chateau du Marquis de Sade",
+                  "text": "A lacoste-i kastély romjai, amely egykor a hírhedt Sade márki tulajdonában volt.",
+                  "category": "castle",
+                  "coords": [
+                        5.272071,
+                        43.832388
+                  ]
+            },
+            {
+                  "name": "La tour Philippe",
+                  "text": "Kilátótorony Bonnieux-ben, amely széles kilátást nyújt a Luberon-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        5.298027,
+                        43.80723
+                  ]
+            },
+            {
+                  "name": "Maison Troglodyte",
+                  "text": "Egy történelmi barlanglakás maradványai Bonnieux sziklás vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        5.333796,
+                        43.818997
+                  ]
             }
       ],
       "ro": [
@@ -3145,6 +4468,33 @@ export const poiExtraFrV2: POI[] = [
                         5.3074,
                         43.82284
                   ]
+            },
+            {
+                  "name": "Chateau du Marquis de Sade",
+                  "text": "Ruinele acestui castel din Lacoste au aparținut cândva infamului Marchiz de Sade.",
+                  "category": "castle",
+                  "coords": [
+                        5.272071,
+                        43.832388
+                  ]
+            },
+            {
+                  "name": "La tour Philippe",
+                  "text": "Un turn de observație în Bonnieux, oferind o vedere panoramică asupra văii Luberon.",
+                  "category": "natural",
+                  "coords": [
+                        5.298027,
+                        43.80723
+                  ]
+            },
+            {
+                  "name": "Maison Troglodyte",
+                  "text": "Rămășițele unei locuințe troglodite istorice în peisajul stâncos din Bonnieux.",
+                  "category": "historical",
+                  "coords": [
+                        5.333796,
+                        43.818997
+                  ]
             }
       ],
       "en": [
@@ -3216,6 +4566,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.3074,
                         43.82284
+                  ]
+            },
+            {
+                  "name": "Chateau du Marquis de Sade",
+                  "text": "The ruins of this castle in Lacoste once belonged to the infamous Marquis de Sade.",
+                  "category": "castle",
+                  "coords": [
+                        5.272071,
+                        43.832388
+                  ]
+            },
+            {
+                  "name": "La tour Philippe",
+                  "text": "A viewing tower in Bonnieux offering panoramic views over the Luberon valley.",
+                  "category": "natural",
+                  "coords": [
+                        5.298027,
+                        43.80723
+                  ]
+            },
+            {
+                  "name": "Maison Troglodyte",
+                  "text": "Remains of a historical cave dwelling in the rocky landscape of Bonnieux.",
+                  "category": "historical",
+                  "coords": [
+                        5.333796,
+                        43.818997
                   ]
             }
       ]
@@ -4088,7 +5465,548 @@ export const poiExtraFrV2: POI[] = [
             }
       ]
 }},
-  {"id": "cargese", "type": "city", "parent": "FR-COR", "coords": [8.5953, 42.135], "population": 1289, "tier": 2, "name": {"de": "Cargèse", "hu": "Cargèse", "ro": "Cargèse", "en": "Cargèse"}, "description": {"de": "Das charmante Dorf an der Westküste Korsikas ist berühmt für seine griechisch-katholische Vergangenheit.", "hu": "Korzika nyugati partjának bája, amely különleges görög-katolikus történelméről ismert.", "ro": "Un sat pitoresc pe coasta vestică a Corsicii, renumit pentru trecutul său greco-catolic.", "en": "A charming village on the west coast of Corsica, famous for its unique Greek-Catholic heritage."}, "facts": {"de": ["Gegründet von griechischen Siedlern", "Liegt auf einer Klippe", "Zwei nebeneinanderliegende Kirchen", "Atemberaubender Meerblick", "Kulturelles Erbe aus dem 18. Jhd."], "hu": ["Görög telepesek alapították", "Egy sziklaszirtre épült", "Két templom áll egymás mellett", "Lélegzetelállító tengeri panoráma", "18. századi kulturális örökség"], "ro": ["Fondat de coloniști greci", "Situat pe o stâncă", "Două biserici alăturate", "Vedere uimitoare la mare", "Moștenire culturală din secolul XVIII"], "en": ["Founded by Greek settlers", "Perched on a cliff", "Two churches standing side-by-side", "Stunning sea views", "18th-century cultural heritage"]}, "descriptionAdvanced": {"de": "Hoch über dem blauen Wasser des Golfs von Sagone gelegen, ist Cargèse ein korsisches Dorf mit einer völlig einzigartigen Geschichte, die ihm den Beinamen \"das griechische Dorf\" eingebracht hat. Im 17. Jahrhundert ließen sich hier griechische Einwanderer von der Peloponnes nieder, deren Erbe bis heute das Ortsbild prägt. Das faszinierendste architektonische Detail sind die beiden wunderschönen Kirchen – eine lateinische und eine griechisch-katholische –, die sich im Zentrum des Dorfes auf zwei kleinen Anhöhen direkt gegenüberstehen. Ein Spaziergang durch die steilen, von weiß getünchten Häusern und blühendem Bougainvillea gesäumten Gassen vermittelt eine Atmosphäre, die Korsika und Griechenland auf magische Weise vereint. Rund um den Ort erstrecken sich unberührte Sandstrände wie der Plage de Peru, der mit kristallklarem Wasser zum Schwimmen und Sonnenbaden einlädt. Der kleine Freizeithafen unterhalb des Dorfes ist der perfekte Ort, um frischen Fisch zu genießen und Bootsausflüge zu den spektakulären Felsformationen der Calanques de Piana zu starten.", "hu": "A Sagone-öböl türkizkék vize fölé magasodó Cargèse egy különleges atmoszférájú korzikai falu, amelyet egyedi történelme miatt gyakran \"görög falunak\" is neveznek. A tizenhetedik században a Peloponnészoszi-félszigetről érkező görög telepesek találtak itt új otthonra, és kulturális örökségük ma is meghatározza a település arculatát. A leglátványosabb építészeti jellegzetesség a faluközpontban egymással szemben, két kis dombon álló két templom: egy latin és egy görögkatolikus, amelyek békésen tekintenek a tengerre. A fehérre meszelt házak és a leanderrel borított meredek utcácskák sétálva a látogatók egy olyan világban érezhetik magukat, ahol Korzika és Görögország hangulata keveredik. A falu határában húzódó festői strandok, mint például a finom homokos Plage de Peru, tökéletes helyszínt biztosítanak a fürdőzésre. A lenti kis kikötőből pedig hajókirándulások indulnak a híres, vörös sziklákból álló Calanques de Piana felfedezésére.", "ro": "Cocoțat pe un promontoriu stâncos deasupra apelor azurii ale Golfului Sagone, Cargèse este un sat corsican cu un parcurs istoric cu totul neobișnuit, fiind cunoscut drept \"satul grecesc\". În secolul al șaptesprezecelea, un grup de refugiați greci din Peloponez s-a stabilit aici, lăsând o amprentă culturală profundă care definește așezarea până în prezent. Această moștenire este cel mai bine simbolizată de cele două biserici impresionante – una de rit latin și cealaltă de rit greco-catolic – construite una față în față, care domină peisajul central și privesc spre mare. Plimbându-te pe străzile înclinate, mărginite de case albe și flori de bougainvillea, simți o fuziune armonioasă între spiritul corsican și cel elen. La baza stâncilor, vizitatorii descoperă plaje virgine cu nisip fin, precum Plage de Peru, ideale pentru relaxare, în timp ce portul de agrement oferă preparate excelente din pește și constituie punctul de plecare pentru croaziere spectaculoase către faimoasele formațiuni stâncoase Calanques de Piana.", "en": "Perched high on a rocky promontory overlooking the dazzling blue waters of the Gulf of Sagone, Cargèse is a Corsican village with a truly unique heritage that earned it the nickname \"the Greek village.\" In the seventeenth century, refugees from the Peloponnese settled here, leaving behind a lasting Hellenic influence that shapes the town's character to this day. This dual identity is most visibly represented by the village's two striking churches—one Latin Catholic and one Greek Catholic—that stand directly facing each other across a small valley in the center of town. Wandering through its steep alleys lined with whitewashed houses and vibrant bougainvillea feels like a perfect blend of Corsica and Greece. Beyond its fascinating history, the village is surrounded by magnificent sandy beaches like the Plage de Peru, which boasts incredibly clear water. Down at the bustling local marina, visitors can enjoy fresh seafood or catch a boat tour to explore the dramatic red cliffs of the nearby Calanques de Piana."}, "factsAdvanced": {"de": ["Gegründet im Jahr 1776", "Einwohnerzahl ca. 1289", "Liegt auf einer Höhe von ca. 240 m", "Bekannt für die Versöhnung zweier Riten", "Golf von Sagone vor der Tür", "Wichtiger Ort für griechisch-korsische Identität"], "hu": ["Alapítás éve: 1776", "Lakosság száma: 1289 fő", "Tengerszint feletti magasság: 240 m", "Híres a két rítus békés együttéléséről", "A Sagone-öböl partján található", "Fontos görög-korzikai kulturális központ"], "ro": ["Fondat în 1776", "Populație: 1289 locuitori", "Altitudine: 240 m", "Cunoscut pentru reconcilierea a două rituri", "Situat la Golful Sagone", "Centru important pentru identitatea greco-corsicană"], "en": ["Founded in 1776", "Population of 1289", "Elevation of approximately 240m", "Known for the reconciliation of two rites", "Located on the Gulf of Sagone", "Important hub for Greek-Corsican identity"]}, "image": "/geo-images/france/cargese.webp", "sights": {"de": [{"name": "Église Latine", "text": "Die katholische Kirche aus dem späten 19. Jahrhundert blickt auf das Meer und repräsentiert das einzigartige doppelte Erbe dieses Dorfes.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.59644, 42.13369]}, {"name": "Église Grecque", "text": "Diese von griechischen Siedlern erbaute Kirche im orthodoxen Stil besticht durch eine schöne neoklassizistische Fassade und herrliche Fresken.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.594925, 42.133569]}, {"name": "Tour d'Omigna", "text": "Ein restaurierter genuesischer Wachturm aus dem 16. Jahrhundert auf einer felsigen Halbinsel mit Panoramablick auf die Küste.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [8.56, 42.1464]}, {"name": "Tour d'Orchino", "text": "Die Ruinen eines weiteren historischen genuesischen Turms auf einer Landzunge, der an das frühere Küstenverteidigungssystem der Insel erinnert.", "category": "castles/fortresses/towers", "confidence": "medium", "coords": [8.559921, 42.14652]}, {"name": "Plage de Pero", "text": "Feiner, weißer Sand und türkisfarbenes Wasser zeichnen den langen Küstenstreifen der Plage de Pero aus. Eingerahmt von zwei historischen Wachtürmen, entfaltet sich hier eine malerische Kulisse, die zum entspannten Verweilen einlädt. Für ein unvergessliches Stranderlebnis empfiehlt es sich, die historischen Ausblicke beim Schwimmen auf sich wirken zu lassen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.59284, 42.14613]}, {"name": "Plage de Chiuni", "text": "Weitläufig und familienfreundlich präsentiert sich die Plage de Chiuni nahe Cargèse ihren Badegästen. Umgeben von üppiger grüner Macchia und einer herrlichen Landschaft, lockt das ruhige Wasser vor allem Familien und Erholungssuchende an. Bringen Sie ausreichend Sonnenschutz mit, um die entspannten Stunden in der Natur unbeschwert zu genießen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.591873, 42.170161]}, {"name": "Plage de Menasina", "text": "Abgeschieden und friedlich liegt die Bucht der Plage de Menasina mit ihrem goldenen Sand und dem kristallklaren Wasser in der Sonne. Besonders Schnorchler und Ruhesuchende schätzen dieses kleine Küstenjuwel fernab des Trubels. Ein Besuch in den Vormittagsstunden verspricht die besten Bedingungen für eine ungestörte Entdeckungsreise unter Wasser.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [8.617567, 42.133741]}, {"name": "Plage du Peru", "text": "Bekannt für seine einladende Sandfläche, verspricht die Plage du Peru ein typisch korsisches Badeerlebnis in Cargese. Sonnenanbeter und Wasserratten finden hier gleichermaßen ideale Bedingungen für einen unbeschwerten Tag am Meer. Ein Sprung ins erfrischende Wasser ist an heißen Sommertagen eine willkommene Abkühlung.", "category": "recreational", "coords": [8.591919, 42.146088]}, {"name": "Menasina", "text": "Menasina ist ein malerischer Strand in Cargese.", "category": "recreational", "coords": [8.615317, 42.13322]}, {"name": "Plage de Stagnoli", "text": "Etwas ruhiger geht es an der Plage de Stagnoli zu, die sich wunderbar in die Küstenlandschaft von Cargese einfügt. Diese entspannte Atmosphäre zieht vor allem Reisende an, die das leise Rauschen der Wellen bei einem guten Buch genießen möchten. Ideal ist ein Besuch am späten Nachmittag, um die sanfte Brise auszukosten.", "category": "recreational", "coords": [8.648049, 42.119286]}, {"name": "Plage de Capizzolu", "text": "Mit atemberaubenden Ausblicken punktet der wunderschöne Küstenabschnitt der Plage de Capizzolu in Cargese. Die raue, unberührte Natur bietet eine faszinierende Kulisse für ausgedehnte Spaziergänge am Ufer. Nehmen Sie sich Zeit, die salzige Luft einzuatmen und das Rauschen des Meeres auf sich wirken zu lassen.", "category": "recreational", "coords": [8.635864, 42.122835]}], "hu": [{"name": "Église Latine", "text": "A tengerre néző, 19. század végi katolikus templom a görög templommal szemben áll, szimbolizálva e falu különleges kulturális kettősségét.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.59644, 42.13369]}, {"name": "Église Grecque", "text": "A görög telepesek által épített, ortodox stílusú templom lenyűgöző neoklasszikus homlokzattal és gazdag belső freskókkal büszkélkedhet.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.594925, 42.133569]}, {"name": "Tour d'Omigna", "text": "Egy felújított 16. századi genovai őrtorony egy sziklás félszigeten, ahonnan csodálatos panoráma nyílik a gyönyörű korzikai partvidékre.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [8.56, 42.1464]}, {"name": "Tour d'Orchino", "text": "Egy másik történelmi genovai torony romjai egy hegyfokon állnak, a sziget egykori parti védelmi rendszerének fontos mementójaként.", "category": "castles/fortresses/towers", "confidence": "medium", "coords": [8.559921, 42.14652]}, {"name": "Plage de Pero", "text": "Finom, fehér homok és türkizkék víz jellemzi a Plage de Pero hosszú partszakaszát. Két történelmi őrtorony ölelésében festői kulissza tárul elénk, amely pihentető időtöltésre invitál. A felejthetetlen tengerparti élmény érdekében érdemes úszás közben is megcsodálni a történelmi kilátást.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.59284, 42.14613]}, {"name": "Plage de Chiuni", "text": "A Cargèse közelében fekvő Plage de Chiuni tágas és családbarát tengerpartként várja fürdőzőit. A buja zöld macchiával és gyönyörű tájjal körülvett, nyugodt víz leginkább a családokat és a pihenni vágyókat vonzza. Érdemes megfelelő napvédelmet hozni, hogy felhőtlenül élvezhesse a természetben töltött nyugodt órákat.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.591873, 42.170161]}, {"name": "Plage de Menasina", "text": "Elzártan és békésen fekszik a napfényben a Plage de Menasina öböl, aranysárga homokkal és kristálytiszta vízzel. Különösen a búvárkodók és a csendet kedvelők értékelik ezt a kis tengerparti ékszerdobozt távol a nyüzsgéstől. A délelőtti órákban tett látogatás ígéri a legjobb feltételeket a zavartalan víz alatti felfedezéshez.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [8.617567, 42.133741]}, {"name": "Plage du Peru", "text": "A hívogató homokos területéről ismert Plage du Peru jellegzetes korzikai fürdőzési élményt ígér Cargese városában. A napozás szerelmesei és a víz szerelmesei egyaránt ideális körülményeket találnak itt egy gondtalan tengerparti naphoz. A frissítő vízbe ugrás forró nyári napokon igazi megváltás.", "category": "recreational", "coords": [8.591919, 42.146088]}, {"name": "Menasina", "text": "Menasina egy festői strand Cargese városában.", "category": "recreational", "coords": [8.615317, 42.13322]}, {"name": "Plage de Stagnoli", "text": "Kicsit csendesebb a hangulat a Plage de Stagnoli strandon, amely csodálatosan illeszkedik Cargese part menti tájába. Ez a laza légkör főleg azokat az utazókat vonzza, akik egy jó könyv mellett szeretnék élvezni a hullámok halk morajlását. A késő délutáni látogatás a legideálisabb, hogy kiélvezzük a lágy szellőt.", "category": "recreational", "coords": [8.648049, 42.119286]}, {"name": "Plage de Capizzolu", "text": "Lélegzetelállító kilátással büszkélkedhet a Cargese-i Plage de Capizzolu gyönyörű partszakasza. A zord, érintetlen természet lenyűgöző hátteret biztosít a hosszú tengerparti sétákhoz. Szánjon rá időt, szívja be a sós levegőt, és hagyja, hogy a tenger morajlása elvarázsolja.", "category": "recreational", "coords": [8.635864, 42.122835]}], "ro": [{"name": "Église Latine", "text": "Biserica catolică de la sfârșitul secolului al XIX-lea are vedere la mare și reprezintă moștenirea duală unică a acestui sat fermecător.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.59644, 42.13369]}, {"name": "Église Grecque", "text": "Construită de coloniștii greci, această biserică în stil ortodox are o fațadă neoclasică frumoasă și fresce interioare foarte complexe.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.594925, 42.133569]}, {"name": "Tour d'Omigna", "text": "Un turn de veghe genovez restaurat din secolul al XVI-lea, situat pe o peninsulă stâncoasă, oferind vederi panoramice ale coastei corsicane.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [8.56, 42.1464]}, {"name": "Tour d'Orchino", "text": "Ruinele unui alt turn istoric genovez de pe un promontoriu, servind ca o amintire a vechiului sistem de apărare a coastei insulei.", "category": "castles/fortresses/towers", "confidence": "medium", "coords": [8.559921, 42.14652]}, {"name": "Plage de Pero", "text": "Nisipul fin, alb și apele turcoaz caracterizează lunga întindere de coastă de la Plage de Pero. Încadrat de două turnuri de veghe istorice, aici se desfășoară un fundal pitoresc care invită la relaxare. Pentru o experiență de neuitat pe plajă, este recomandat să admirați priveliștea istorică în timp ce înotați.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.59284, 42.14613]}, {"name": "Plage de Chiuni", "text": "Extinsă și prietenoasă cu familiile, Plage de Chiuni de lângă Cargèse își întâmpină iubitorii de soare. Înconjurate de macchia verde luxuriantă și de un peisaj frumos, apele calme atrag în special familiile și pe cei care caută relaxare. Aduceți multă protecție solară pentru a vă bucura de orele relaxante în natură.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.591873, 42.170161]}, {"name": "Plage de Menasina", "text": "Izolat și pașnic, golful Plage de Menasina se scaldă în soare, cu nisipul său auriu și apele cristaline. Snorkelerii și iubitorii de liniște apreciază în mod deosebit această mică bijuterie de coastă departe de agitație. O vizită la orele dimineții promite cele mai bune condiții pentru o descoperire subacvatică netulburată.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [8.617567, 42.133741]}, {"name": "Plage du Peru", "text": "Cunoscută pentru întinderea sa primitoare de nisip, Plage du Peru promite o experiență de baie tipic corsicană în Cargese. Iubitorii de soare și pasionații de apă găsesc aici condiții ideale pentru o zi fără griji la mare. O baie în apa răcoroasă este o alinare binevenită în zilele fierbinți de vară.", "category": "recreational", "coords": [8.591919, 42.146088]}, {"name": "Menasina", "text": "Menasina este o plajă pitorească situată în Cargese.", "category": "recreational", "coords": [8.615317, 42.13322]}, {"name": "Plage de Stagnoli", "text": "Atmosfera este puțin mai liniștită la Plage de Stagnoli, care se integrează minunat în peisajul de coastă din Cargese. Această ambianță relaxantă atrage în principal călătorii care doresc să se bucure de sunetul blând al valurilor cu o carte bună. O vizită târziu în după-amiaza este ideală pentru a savura briza blândă.", "category": "recreational", "coords": [8.648049, 42.119286]}, {"name": "Plage de Capizzolu", "text": "Plage de Capizzolu din Cargese impresionează cu priveliști uluitoare ale frumoasei porțiuni de coastă. Natura aspră și neatinsă oferă un cadru fascinant pentru plimbări prelungite pe mal. Fă-ți timp să respiri aerul sărat și să lași sunetul mării să te învăluie.", "category": "recreational", "coords": [8.635864, 42.122835]}], "en": [{"name": "Église Latine", "text": "The late 19th-century Catholic church overlooks the sea, facing the Greek church, representing the unique dual heritage of this charming village.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.59644, 42.13369]}, {"name": "Église Grecque", "text": "Built by Greek settlers in the 19th century, this Orthodox-style church features a beautiful neo-classical facade and intricate interior frescoes.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.594925, 42.133569]}, {"name": "Tour d'Omigna", "text": "A restored 16th-century Genoese watchtower located on a rocky peninsula, offering panoramic views of the stunning Corsican coastline.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [8.56, 42.1464]}, {"name": "Tour d'Orchino", "text": "The ruins of another historic Genoese tower standing proudly on a headland, serving as a reminder of the island's coastal defense system.", "category": "castles/fortresses/towers", "confidence": "medium", "coords": [8.559921, 42.14652]}, {"name": "Plage de Pero", "text": "Fine white sand and turquoise waters characterize the long coastal stretch of Plage de Pero. Framed by two historic watchtowers, a picturesque backdrop unfolds here, inviting you to relax. For an unforgettable beach experience, take time to appreciate the historic views while enjoying a swim.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.59284, 42.14613]}, {"name": "Plage de Chiuni", "text": "Spacious and family-friendly, Plage de Chiuni near Cargèse presents itself to beachgoers. Surrounded by lush green macchia and a beautiful landscape, the calm water attracts families and those seeking relaxation. Bring plenty of sun protection to fully enjoy carefree hours surrounded by nature.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.591873, 42.170161]}, {"name": "Plage de Menasina", "text": "Secluded and peaceful, the bay of Plage de Menasina basks in the sun with its golden sand and crystal-clear waters. Snorkelers and peace-seekers in particular appreciate this small coastal gem away from the hustle and bustle. A morning visit promises the best conditions for an undisturbed underwater exploration.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [8.617567, 42.133741]}, {"name": "Plage du Peru", "text": "Known for its inviting expanse of sand, Plage du Peru promises a typical Corsican bathing experience in Cargese. Sun worshippers and water lovers alike will find ideal conditions here for a carefree day by the sea. A dip in the refreshing water offers a welcome cool-down on hot summer days.", "category": "recreational", "coords": [8.591919, 42.146088]}, {"name": "Menasina", "text": "Menasina is a picturesque beach situated in Cargese.", "category": "recreational", "coords": [8.615317, 42.13322]}, {"name": "Plage de Stagnoli", "text": "Things are a bit quieter at Plage de Stagnoli, which blends beautifully into the coastal landscape of Cargese. This relaxed atmosphere mainly attracts travelers who want to enjoy the gentle sound of the waves with a good book. A late afternoon visit is ideal for soaking in the gentle breeze.", "category": "recreational", "coords": [8.648049, 42.119286]}, {"name": "Plage de Capizzolu", "text": "The beautiful coastal stretch of Plage de Capizzolu in Cargese scores points with its breathtaking views. The rugged, untouched nature provides a fascinating backdrop for long walks along the shore. Take your time to breathe in the salty air and let the sound of the sea wash over you.", "category": "recreational", "coords": [8.635864, 42.122835]}]}},
+  {"id": "cargese", "type": "city", "parent": "FR-COR", "coords": [8.5953, 42.135], "population": 1289, "tier": 2, "name": {"de": "Cargèse", "hu": "Cargèse", "ro": "Cargèse", "en": "Cargèse"}, "description": {"de": "Das charmante Dorf an der Westküste Korsikas ist berühmt für seine griechisch-katholische Vergangenheit.", "hu": "Korzika nyugati partjának bája, amely különleges görög-katolikus történelméről ismert.", "ro": "Un sat pitoresc pe coasta vestică a Corsicii, renumit pentru trecutul său greco-catolic.", "en": "A charming village on the west coast of Corsica, famous for its unique Greek-Catholic heritage."}, "facts": {"de": ["Gegründet von griechischen Siedlern", "Liegt auf einer Klippe", "Zwei nebeneinanderliegende Kirchen", "Atemberaubender Meerblick", "Kulturelles Erbe aus dem 18. Jhd."], "hu": ["Görög telepesek alapították", "Egy sziklaszirtre épült", "Két templom áll egymás mellett", "Lélegzetelállító tengeri panoráma", "18. századi kulturális örökség"], "ro": ["Fondat de coloniști greci", "Situat pe o stâncă", "Două biserici alăturate", "Vedere uimitoare la mare", "Moștenire culturală din secolul XVIII"], "en": ["Founded by Greek settlers", "Perched on a cliff", "Two churches standing side-by-side", "Stunning sea views", "18th-century cultural heritage"]}, "descriptionAdvanced": {"de": "Hoch über dem blauen Wasser des Golfs von Sagone gelegen, ist Cargèse ein korsisches Dorf mit einer völlig einzigartigen Geschichte, die ihm den Beinamen \"das griechische Dorf\" eingebracht hat. Im 17. Jahrhundert ließen sich hier griechische Einwanderer von der Peloponnes nieder, deren Erbe bis heute das Ortsbild prägt. Das faszinierendste architektonische Detail sind die beiden wunderschönen Kirchen – eine lateinische und eine griechisch-katholische –, die sich im Zentrum des Dorfes auf zwei kleinen Anhöhen direkt gegenüberstehen. Ein Spaziergang durch die steilen, von weiß getünchten Häusern und blühendem Bougainvillea gesäumten Gassen vermittelt eine Atmosphäre, die Korsika und Griechenland auf magische Weise vereint. Rund um den Ort erstrecken sich unberührte Sandstrände wie der Plage de Peru, der mit kristallklarem Wasser zum Schwimmen und Sonnenbaden einlädt. Der kleine Freizeithafen unterhalb des Dorfes ist der perfekte Ort, um frischen Fisch zu genießen und Bootsausflüge zu den spektakulären Felsformationen der Calanques de Piana zu starten.", "hu": "A Sagone-öböl türkizkék vize fölé magasodó Cargèse egy különleges atmoszférájú korzikai falu, amelyet egyedi történelme miatt gyakran \"görög falunak\" is neveznek. A tizenhetedik században a Peloponnészoszi-félszigetről érkező görög telepesek találtak itt új otthonra, és kulturális örökségük ma is meghatározza a település arculatát. A leglátványosabb építészeti jellegzetesség a faluközpontban egymással szemben, két kis dombon álló két templom: egy latin és egy görögkatolikus, amelyek békésen tekintenek a tengerre. A fehérre meszelt házak és a leanderrel borított meredek utcácskák sétálva a látogatók egy olyan világban érezhetik magukat, ahol Korzika és Görögország hangulata keveredik. A falu határában húzódó festői strandok, mint például a finom homokos Plage de Peru, tökéletes helyszínt biztosítanak a fürdőzésre. A lenti kis kikötőből pedig hajókirándulások indulnak a híres, vörös sziklákból álló Calanques de Piana felfedezésére.", "ro": "Cocoțat pe un promontoriu stâncos deasupra apelor azurii ale Golfului Sagone, Cargèse este un sat corsican cu un parcurs istoric cu totul neobișnuit, fiind cunoscut drept \"satul grecesc\". În secolul al șaptesprezecelea, un grup de refugiați greci din Peloponez s-a stabilit aici, lăsând o amprentă culturală profundă care definește așezarea până în prezent. Această moștenire este cel mai bine simbolizată de cele două biserici impresionante – una de rit latin și cealaltă de rit greco-catolic – construite una față în față, care domină peisajul central și privesc spre mare. Plimbându-te pe străzile înclinate, mărginite de case albe și flori de bougainvillea, simți o fuziune armonioasă între spiritul corsican și cel elen. La baza stâncilor, vizitatorii descoperă plaje virgine cu nisip fin, precum Plage de Peru, ideale pentru relaxare, în timp ce portul de agrement oferă preparate excelente din pește și constituie punctul de plecare pentru croaziere spectaculoase către faimoasele formațiuni stâncoase Calanques de Piana.", "en": "Perched high on a rocky promontory overlooking the dazzling blue waters of the Gulf of Sagone, Cargèse is a Corsican village with a truly unique heritage that earned it the nickname \"the Greek village.\" In the seventeenth century, refugees from the Peloponnese settled here, leaving behind a lasting Hellenic influence that shapes the town's character to this day. This dual identity is most visibly represented by the village's two striking churches—one Latin Catholic and one Greek Catholic—that stand directly facing each other across a small valley in the center of town. Wandering through its steep alleys lined with whitewashed houses and vibrant bougainvillea feels like a perfect blend of Corsica and Greece. Beyond its fascinating history, the village is surrounded by magnificent sandy beaches like the Plage de Peru, which boasts incredibly clear water. Down at the bustling local marina, visitors can enjoy fresh seafood or catch a boat tour to explore the dramatic red cliffs of the nearby Calanques de Piana."}, "factsAdvanced": {"de": ["Gegründet im Jahr 1776", "Einwohnerzahl ca. 1289", "Liegt auf einer Höhe von ca. 240 m", "Bekannt für die Versöhnung zweier Riten", "Golf von Sagone vor der Tür", "Wichtiger Ort für griechisch-korsische Identität"], "hu": ["Alapítás éve: 1776", "Lakosság száma: 1289 fő", "Tengerszint feletti magasság: 240 m", "Híres a két rítus békés együttéléséről", "A Sagone-öböl partján található", "Fontos görög-korzikai kulturális központ"], "ro": ["Fondat în 1776", "Populație: 1289 locuitori", "Altitudine: 240 m", "Cunoscut pentru reconcilierea a două rituri", "Situat la Golful Sagone", "Centru important pentru identitatea greco-corsicană"], "en": ["Founded in 1776", "Population of 1289", "Elevation of approximately 240m", "Known for the reconciliation of two rites", "Located on the Gulf of Sagone", "Important hub for Greek-Corsican identity"]}, "image": "/geo-images/france/cargese.webp", "sights": {
+      "de": [
+            {
+                  "name": "Église Latine",
+                  "text": "Die katholische Kirche aus dem späten 19. Jahrhundert blickt auf das Meer und repräsentiert das einzigartige doppelte Erbe dieses Dorfes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.59644,
+                        42.13369
+                  ]
+            },
+            {
+                  "name": "Église Grecque",
+                  "text": "Diese von griechischen Siedlern erbaute Kirche im orthodoxen Stil besticht durch eine schöne neoklassizistische Fassade und herrliche Fresken.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.594925,
+                        42.133569
+                  ]
+            },
+            {
+                  "name": "Tour d'Omigna",
+                  "text": "Ein restaurierter genuesischer Wachturm aus dem 16. Jahrhundert auf einer felsigen Halbinsel mit Panoramablick auf die Küste.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        8.56,
+                        42.1464
+                  ]
+            },
+            {
+                  "name": "Tour d'Orchino",
+                  "text": "Die Ruinen eines weiteren historischen genuesischen Turms auf einer Landzunge, der an das frühere Küstenverteidigungssystem der Insel erinnert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "medium",
+                  "coords": [
+                        8.559921,
+                        42.14652
+                  ]
+            },
+            {
+                  "name": "Plage de Pero",
+                  "text": "Feiner, weißer Sand und türkisfarbenes Wasser zeichnen den langen Küstenstreifen der Plage de Pero aus. Eingerahmt von zwei historischen Wachtürmen, entfaltet sich hier eine malerische Kulisse, die zum entspannten Verweilen einlädt. Für ein unvergessliches Stranderlebnis empfiehlt es sich, die historischen Ausblicke beim Schwimmen auf sich wirken zu lassen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.59284,
+                        42.14613
+                  ]
+            },
+            {
+                  "name": "Plage de Chiuni",
+                  "text": "Weitläufig und familienfreundlich präsentiert sich die Plage de Chiuni nahe Cargèse ihren Badegästen. Umgeben von üppiger grüner Macchia und einer herrlichen Landschaft, lockt das ruhige Wasser vor allem Familien und Erholungssuchende an. Bringen Sie ausreichend Sonnenschutz mit, um die entspannten Stunden in der Natur unbeschwert zu genießen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.591873,
+                        42.170161
+                  ]
+            },
+            {
+                  "name": "Plage de Menasina",
+                  "text": "Abgeschieden und friedlich liegt die Bucht der Plage de Menasina mit ihrem goldenen Sand und dem kristallklaren Wasser in der Sonne. Besonders Schnorchler und Ruhesuchende schätzen dieses kleine Küstenjuwel fernab des Trubels. Ein Besuch in den Vormittagsstunden verspricht die besten Bedingungen für eine ungestörte Entdeckungsreise unter Wasser.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "coords": [
+                        8.617567,
+                        42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Bekannt für seine einladende Sandfläche, verspricht die Plage du Peru ein typisch korsisches Badeerlebnis in Cargese. Sonnenanbeter und Wasserratten finden hier gleichermaßen ideale Bedingungen für einen unbeschwerten Tag am Meer. Ein Sprung ins erfrischende Wasser ist an heißen Sommertagen eine willkommene Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina ist ein malerischer Strand in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Etwas ruhiger geht es an der Plage de Stagnoli zu, die sich wunderbar in die Küstenlandschaft von Cargese einfügt. Diese entspannte Atmosphäre zieht vor allem Reisende an, die das leise Rauschen der Wellen bei einem guten Buch genießen möchten. Ideal ist ein Besuch am späten Nachmittag, um die sanfte Brise auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Mit atemberaubenden Ausblicken punktet der wunderschöne Küstenabschnitt der Plage de Capizzolu in Cargese. Die raue, unberührte Natur bietet eine faszinierende Kulisse für ausgedehnte Spaziergänge am Ufer. Nehmen Sie sich Zeit, die salzige Luft einzuatmen und das Rauschen des Meeres auf sich wirken zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir U Scumunicatu",
+                  "text": "Ein prähistorischer Statuen-Menhir in der Nähe von Cargèse auf Korsika.",
+                  "category": "historical",
+                  "coords": [
+                        8.626719,
+                        42.14649
+                  ]
+            },
+            {
+                  "name": "Theatre de verdure",
+                  "text": "Ein Freilichttheater in Cargèse, das für kulturelle Veranstaltungen am Meer genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        8.594721,
+                        42.136426
+                  ]
+            },
+            {
+                  "name": "Tour de Cargese",
+                  "text": "Ein genuesischer Wachturm an der Küste von Cargèse zum Schutz vor Piraten.",
+                  "category": "tower",
+                  "coords": [
+                        8.589409,
+                        42.132984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Latine",
+                  "text": "A tengerre néző, 19. század végi katolikus templom a görög templommal szemben áll, szimbolizálva e falu különleges kulturális kettősségét.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.59644,
+                        42.13369
+                  ]
+            },
+            {
+                  "name": "Église Grecque",
+                  "text": "A görög telepesek által épített, ortodox stílusú templom lenyűgöző neoklasszikus homlokzattal és gazdag belső freskókkal büszkélkedhet.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.594925,
+                        42.133569
+                  ]
+            },
+            {
+                  "name": "Tour d'Omigna",
+                  "text": "Egy felújított 16. századi genovai őrtorony egy sziklás félszigeten, ahonnan csodálatos panoráma nyílik a gyönyörű korzikai partvidékre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        8.56,
+                        42.1464
+                  ]
+            },
+            {
+                  "name": "Tour d'Orchino",
+                  "text": "Egy másik történelmi genovai torony romjai egy hegyfokon állnak, a sziget egykori parti védelmi rendszerének fontos mementójaként.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "medium",
+                  "coords": [
+                        8.559921,
+                        42.14652
+                  ]
+            },
+            {
+                  "name": "Plage de Pero",
+                  "text": "Finom, fehér homok és türkizkék víz jellemzi a Plage de Pero hosszú partszakaszát. Két történelmi őrtorony ölelésében festői kulissza tárul elénk, amely pihentető időtöltésre invitál. A felejthetetlen tengerparti élmény érdekében érdemes úszás közben is megcsodálni a történelmi kilátást.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.59284,
+                        42.14613
+                  ]
+            },
+            {
+                  "name": "Plage de Chiuni",
+                  "text": "A Cargèse közelében fekvő Plage de Chiuni tágas és családbarát tengerpartként várja fürdőzőit. A buja zöld macchiával és gyönyörű tájjal körülvett, nyugodt víz leginkább a családokat és a pihenni vágyókat vonzza. Érdemes megfelelő napvédelmet hozni, hogy felhőtlenül élvezhesse a természetben töltött nyugodt órákat.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.591873,
+                        42.170161
+                  ]
+            },
+            {
+                  "name": "Plage de Menasina",
+                  "text": "Elzártan és békésen fekszik a napfényben a Plage de Menasina öböl, aranysárga homokkal és kristálytiszta vízzel. Különösen a búvárkodók és a csendet kedvelők értékelik ezt a kis tengerparti ékszerdobozt távol a nyüzsgéstől. A délelőtti órákban tett látogatás ígéri a legjobb feltételeket a zavartalan víz alatti felfedezéshez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "coords": [
+                        8.617567,
+                        42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "A hívogató homokos területéről ismert Plage du Peru jellegzetes korzikai fürdőzési élményt ígér Cargese városában. A napozás szerelmesei és a víz szerelmesei egyaránt ideális körülményeket találnak itt egy gondtalan tengerparti naphoz. A frissítő vízbe ugrás forró nyári napokon igazi megváltás.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina egy festői strand Cargese városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Kicsit csendesebb a hangulat a Plage de Stagnoli strandon, amely csodálatosan illeszkedik Cargese part menti tájába. Ez a laza légkör főleg azokat az utazókat vonzza, akik egy jó könyv mellett szeretnék élvezni a hullámok halk morajlását. A késő délutáni látogatás a legideálisabb, hogy kiélvezzük a lágy szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Lélegzetelállító kilátással büszkélkedhet a Cargese-i Plage de Capizzolu gyönyörű partszakasza. A zord, érintetlen természet lenyűgöző hátteret biztosít a hosszú tengerparti sétákhoz. Szánjon rá időt, szívja be a sós levegőt, és hagyja, hogy a tenger morajlása elvarázsolja.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir U Scumunicatu",
+                  "text": "Prehisztorikus szobor-menhir Cargèse közelében, Korzikán.",
+                  "category": "historical",
+                  "coords": [
+                        8.626719,
+                        42.14649
+                  ]
+            },
+            {
+                  "name": "Theatre de verdure",
+                  "text": "Szabadtéri színház Cargèse-ben, amelyet tengerparti kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        8.594721,
+                        42.136426
+                  ]
+            },
+            {
+                  "name": "Tour de Cargese",
+                  "text": "Genuai őrtorony Cargèse partjainál, amelyet a kalózok elleni védelemre építettek.",
+                  "category": "tower",
+                  "coords": [
+                        8.589409,
+                        42.132984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Latine",
+                  "text": "Biserica catolică de la sfârșitul secolului al XIX-lea are vedere la mare și reprezintă moștenirea duală unică a acestui sat fermecător.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.59644,
+                        42.13369
+                  ]
+            },
+            {
+                  "name": "Église Grecque",
+                  "text": "Construită de coloniștii greci, această biserică în stil ortodox are o fațadă neoclasică frumoasă și fresce interioare foarte complexe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.594925,
+                        42.133569
+                  ]
+            },
+            {
+                  "name": "Tour d'Omigna",
+                  "text": "Un turn de veghe genovez restaurat din secolul al XVI-lea, situat pe o peninsulă stâncoasă, oferind vederi panoramice ale coastei corsicane.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        8.56,
+                        42.1464
+                  ]
+            },
+            {
+                  "name": "Tour d'Orchino",
+                  "text": "Ruinele unui alt turn istoric genovez de pe un promontoriu, servind ca o amintire a vechiului sistem de apărare a coastei insulei.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "medium",
+                  "coords": [
+                        8.559921,
+                        42.14652
+                  ]
+            },
+            {
+                  "name": "Plage de Pero",
+                  "text": "Nisipul fin, alb și apele turcoaz caracterizează lunga întindere de coastă de la Plage de Pero. Încadrat de două turnuri de veghe istorice, aici se desfășoară un fundal pitoresc care invită la relaxare. Pentru o experiență de neuitat pe plajă, este recomandat să admirați priveliștea istorică în timp ce înotați.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.59284,
+                        42.14613
+                  ]
+            },
+            {
+                  "name": "Plage de Chiuni",
+                  "text": "Extinsă și prietenoasă cu familiile, Plage de Chiuni de lângă Cargèse își întâmpină iubitorii de soare. Înconjurate de macchia verde luxuriantă și de un peisaj frumos, apele calme atrag în special familiile și pe cei care caută relaxare. Aduceți multă protecție solară pentru a vă bucura de orele relaxante în natură.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.591873,
+                        42.170161
+                  ]
+            },
+            {
+                  "name": "Plage de Menasina",
+                  "text": "Izolat și pașnic, golful Plage de Menasina se scaldă în soare, cu nisipul său auriu și apele cristaline. Snorkelerii și iubitorii de liniște apreciază în mod deosebit această mică bijuterie de coastă departe de agitație. O vizită la orele dimineții promite cele mai bune condiții pentru o descoperire subacvatică netulburată.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "coords": [
+                        8.617567,
+                        42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Cunoscută pentru întinderea sa primitoare de nisip, Plage du Peru promite o experiență de baie tipic corsicană în Cargese. Iubitorii de soare și pasionații de apă găsesc aici condiții ideale pentru o zi fără griji la mare. O baie în apa răcoroasă este o alinare binevenită în zilele fierbinți de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina este o plajă pitorească situată în Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Atmosfera este puțin mai liniștită la Plage de Stagnoli, care se integrează minunat în peisajul de coastă din Cargese. Această ambianță relaxantă atrage în principal călătorii care doresc să se bucure de sunetul blând al valurilor cu o carte bună. O vizită târziu în după-amiaza este ideală pentru a savura briza blândă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Plage de Capizzolu din Cargese impresionează cu priveliști uluitoare ale frumoasei porțiuni de coastă. Natura aspră și neatinsă oferă un cadru fascinant pentru plimbări prelungite pe mal. Fă-ți timp să respiri aerul sărat și să lași sunetul mării să te învăluie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir U Scumunicatu",
+                  "text": "O statuie-menhir preistorică situată în apropiere de Cargèse, în Corsica.",
+                  "category": "historical",
+                  "coords": [
+                        8.626719,
+                        42.14649
+                  ]
+            },
+            {
+                  "name": "Theatre de verdure",
+                  "text": "Un teatru în aer liber în Cargèse, utilizat pentru evenimente culturale lângă mare.",
+                  "category": "cultural",
+                  "coords": [
+                        8.594721,
+                        42.136426
+                  ]
+            },
+            {
+                  "name": "Tour de Cargese",
+                  "text": "Un turn de veghe genovez pe coasta localității Cargèse, construit pentru protecția împotriva piraților.",
+                  "category": "tower",
+                  "coords": [
+                        8.589409,
+                        42.132984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Latine",
+                  "text": "The late 19th-century Catholic church overlooks the sea, facing the Greek church, representing the unique dual heritage of this charming village.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.59644,
+                        42.13369
+                  ]
+            },
+            {
+                  "name": "Église Grecque",
+                  "text": "Built by Greek settlers in the 19th century, this Orthodox-style church features a beautiful neo-classical facade and intricate interior frescoes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.594925,
+                        42.133569
+                  ]
+            },
+            {
+                  "name": "Tour d'Omigna",
+                  "text": "A restored 16th-century Genoese watchtower located on a rocky peninsula, offering panoramic views of the stunning Corsican coastline.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        8.56,
+                        42.1464
+                  ]
+            },
+            {
+                  "name": "Tour d'Orchino",
+                  "text": "The ruins of another historic Genoese tower standing proudly on a headland, serving as a reminder of the island's coastal defense system.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "medium",
+                  "coords": [
+                        8.559921,
+                        42.14652
+                  ]
+            },
+            {
+                  "name": "Plage de Pero",
+                  "text": "Fine white sand and turquoise waters characterize the long coastal stretch of Plage de Pero. Framed by two historic watchtowers, a picturesque backdrop unfolds here, inviting you to relax. For an unforgettable beach experience, take time to appreciate the historic views while enjoying a swim.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.59284,
+                        42.14613
+                  ]
+            },
+            {
+                  "name": "Plage de Chiuni",
+                  "text": "Spacious and family-friendly, Plage de Chiuni near Cargèse presents itself to beachgoers. Surrounded by lush green macchia and a beautiful landscape, the calm water attracts families and those seeking relaxation. Bring plenty of sun protection to fully enjoy carefree hours surrounded by nature.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.591873,
+                        42.170161
+                  ]
+            },
+            {
+                  "name": "Plage de Menasina",
+                  "text": "Secluded and peaceful, the bay of Plage de Menasina basks in the sun with its golden sand and crystal-clear waters. Snorkelers and peace-seekers in particular appreciate this small coastal gem away from the hustle and bustle. A morning visit promises the best conditions for an undisturbed underwater exploration.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "coords": [
+                        8.617567,
+                        42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Known for its inviting expanse of sand, Plage du Peru promises a typical Corsican bathing experience in Cargese. Sun worshippers and water lovers alike will find ideal conditions here for a carefree day by the sea. A dip in the refreshing water offers a welcome cool-down on hot summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina is a picturesque beach situated in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Things are a bit quieter at Plage de Stagnoli, which blends beautifully into the coastal landscape of Cargese. This relaxed atmosphere mainly attracts travelers who want to enjoy the gentle sound of the waves with a good book. A late afternoon visit is ideal for soaking in the gentle breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "The beautiful coastal stretch of Plage de Capizzolu in Cargese scores points with its breathtaking views. The rugged, untouched nature provides a fascinating backdrop for long walks along the shore. Take your time to breathe in the salty air and let the sound of the sea wash over you.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir U Scumunicatu",
+                  "text": "A prehistoric statue-menhir located near Cargèse in Corsica.",
+                  "category": "historical",
+                  "coords": [
+                        8.626719,
+                        42.14649
+                  ]
+            },
+            {
+                  "name": "Theatre de verdure",
+                  "text": "An open-air theatre in Cargèse used for cultural events by the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        8.594721,
+                        42.136426
+                  ]
+            },
+            {
+                  "name": "Tour de Cargese",
+                  "text": "A Genoese watchtower on the coast of Cargèse built for protection against pirates.",
+                  "category": "tower",
+                  "coords": [
+                        8.589409,
+                        42.132984
+                  ]
+            }
+      ]
+}},
   {"id": "carnac", "type": "city", "parent": "FR-BRE", "coords": [-3.0794, 47.585], "population": 4250, "tier": 1, "name": {"de": "Carnac", "hu": "Carnac", "ro": "Carnac", "en": "Carnac"}, "description": {"de": "Carnac ist weltberühmt für seine prähistorischen Steinreihen und ein eleganter Badeort an der bretonischen Küste mit feinen Sandstränden.", "hu": "Carnac a világ egyik legjelentősebb prehisztorikus lelőhelye, ahol több ezer menhir sorakozik, emellett népszerű atlanti-parti üdülőhely.", "ro": "Carnac este faimos în întreaga lume pentru aliniamentele sale megalitice preistorice și este o stațiune balneară elegantă pe coasta bretonă.", "en": "Carnac is world-famous for its prehistoric standing stone alignments and serves as an elegant seaside resort on the Brittany coast."}, "facts": {"de": ["Über 3000 Menhire in Steinreihen", "Beliebter Badeort am Quiberon-Golf", "Neolithische Stätten seit 4500 v. Chr.", "Fünf Sandstrände an der Küste", "Milde Meeresluft und viel Sonne", "Wichtiger Austernzuchtstandort", "Prähistorisches Museum im Zentrum", "Teil der historischen Provinz Bretagne"], "hu": ["Több mint 3000 álló kő (menhir)", "Népszerű fürdőhely a Quiberon-öbölnél", "Újkőkorszaki emlékek i. e. 4500-ból", "Öt finomhomokos tengerparti strand", "Enyhe tengeri éghajlat és napsütés", "Jelentős osztrigatenyésztő központ", "Prehisztorikus múzeum a városban", "Bretagne történelmi régiójának része"], "ro": ["Peste 3000 de menhire în aliniamente", "Stațiune populară în Golful Quiberon", "Situl neolitic datează din 4500 î.Hr.", "Cinci plaje cu nisip fin la ocean", "Climat marin blând și însorit", "Centru important pentru stridii", "Muzeu de preistorie în centru", "Parte din regiunea istorică Bretania"], "en": ["Over 3000 standing stones (menhirs)", "Popular resort in the Gulf of Quiberon", "Neolithic sites dating to 4500 BC", "Five fine sandy beaches on the coast", "Mild marine climate and sunny days", "Important oyster farming location", "Prehistoric museum in the center", "Part of the historical Brittany region"]}, "image": "/geo-images/france/carnac.webp", "imageHint": "Prehistoric standing stones alignments in a green field under blue sky", "descriptionAdvanced": {"de": "Carnac liegt an der Südküste der Bretagne im Département Morbihan und ist weltweit für seine riesigen Megalithanlagen bekannt. Mehr als 3000 Menhire, die zwischen 5000 und 3500 vor Christus aufgestellt wurden, erstrecken sich über mehrere Kilometer und bilden eine der wichtigsten prähistorischen Stätten der Erde. Das örtliche Museum für Frühgeschichte bietet detaillierte Erklärungen über die neolithischen Zivilisationen der Region. Neben seinem historischen Erbe ist der Ort ein beliebtes Seebad, das über ausgedehnte Sandstrände wie die Grande Plage und die Plage de Légenèse verfügt. Die Küstenzone profitiert von einem Mikroklima, das für vergleichsweise milde Temperaturen sorgt. Carnac gliedert sich in zwei Hauptbereiche: das historische Zentrum Carnac-Ville mit der Kirche Saint-Cornély, deren Holzdecke reich bemalt ist, und den Badeort Carnac-Plage, der von Villen aus dem 19. Jahrhundert und dichten Pinienwäldern geprägt wird.", "hu": "Carnac Bretagne déli partvidékén, Morbihan megyében fekszik, és világszerte ismert a páratlan megalitikus kősorairól. Több mint 3000 gránit menhír sorakozik a mezőkön, amelyeket időszámításunk előtt 5000 és 3500 között állítottak fel, megalkotva ezzel a világ egyik legkiterjedtebb történelem előtti emlékhelyét. A helyi Őstörténeti Múzeum részletesen bemutatja azokat a neolitikus közösségeket, amelyek ezeket a monumentális köveket mozgatták. Az ősi történelem mellett Carnac népszerű tengerparti üdülőhely is, amely hosszú homokos strandokkal, köztük a Grande Plage-zsal várja a fürdőzőket. A település két jól elkülönülő részre oszlik: az ódon Carnac-Ville központjában áll a Saint-Cornély templom a maga festett famennyezetével, míg a parti sávot, Carnac-Plage-t a 19. századi fenyvesek árnyékában megbújó villák és a pezsgő nyári atmoszféra határozza meg. A terület sajátos mikroklímája a régió átlagánál enyhébb időjárást biztosít a látogatóknak.", "ro": "Carnac este situat pe coasta sudică a Bretaniei, în departamentul Morbihan, și este recunoscut la nivel mondial pentru extraordinarele sale aliniamente megalitice. Peste 3000 de pietre masive din granit, ridicate între anii 5000 și 3500 î.Hr., se întind pe mai mulți kilometri, formând unul dintre cele mai mari situri preistorice de pe glob. Muzeul de Preistorie din localitate oferă informații detaliate despre comunitățile neolitice care au construit aceste monumente. Dincolo de importanța sa istorică, orașul funcționează ca o destinație balneară foarte apreciată, cu plaje lungi de nisip fin, precum Grande Plage. Zona de coastă beneficiază de un microclimat care asigură temperaturi mai blânde comparativ cu restul regiunii. Localitatea este împărțită în două sectoare: Carnac-Ville, unde se află biserica istorică Saint-Cornély cu tavanul său din lemn pictat, și Carnac-Plage, o zonă de stațiune definită de vile din secolul al XIX-lea ascunse printre păduri de pini.", "en": "Carnac is located on the southern coast of Brittany in the Morbihan department and is globally recognized for its extraordinary megalithic alignments. Over 3,000 standing stones, erected between 5000 and 3500 BC, stretch across the landscape, forming one of the most extensive prehistoric sites in the world. The nearby Museum of Prehistory provides extensive context about the Neolithic communities that raised these granite blocks. Beyond its ancient history, Carnac functions as a popular seaside destination, featuring long stretches of sandy shores like the Grande Plage and Plage de Légenèse. The coastal area benefits from a microclimate that offers milder temperatures than much of the region. The town is divided into two distinct sections: Carnac-Ville, which houses the historic stone church of Saint-Cornély with its painted wooden ceiling, and Carnac-Plage, a resort area characterized by 19th-century pine-shaded villas and a vibrant summer atmosphere."}, "factsAdvanced": {"de": ["Die Steinreihen entstanden zwischen 4500 und 3300 v. Chr.", "Die Gemeinde umfasst eine Fläche von etwa 32,7 Quadratkilometern", "Saint-Cornély Kirche wurde im 17. Jahrhundert erbaut", "Etwa 12 km südwestlich von Auray gelegen", "Höchster Menhir (Le Géant du Manio) ist über 6 Meter hoch", "Tourismus macht über 70% der lokalen Wirtschaft aus"], "hu": ["A kősorok i. e. 4500 és 3300 között készültek", "A település területe körülbelül 32,7 négyzetkilométer", "A Saint-Cornély templom a 17. században épült", "Auray városától 12 km-re délnyugatra fekszik", "A legnagyobb menhir (Géant du Manio) több mint 6 méter magas", "A turizmus a helyi gazdaság több mint 70%-át adja"], "ro": ["Aliniamentele au fost ridicate între 4500 și 3300 î.Hr.", "Comuna acoperă o suprafață de circa 32,7 km pătrați", "Biserica Saint-Cornély datează din secolul al XVII-lea", "Situat la 12 km sud-vest de localitatea Auray", "Cel mai înalt menhir (Le Géant du Manio) are peste 6 metri", "Turismul reprezintă peste 70% din economia locală"], "en": ["Stone alignments were erected between 4500 and 3300 BC", "The municipality covers an area of 32.7 square kilometers", "Saint-Cornély church was built in the 17th century", "Located 12 km southwest of the town of Auray", "The tallest menhir (Le Géant du Manio) exceeds 6 meters", "Tourism accounts for over 70% of the local economy"]}, "sights": {"de": [{"name": "Ménec-Steinreihen", "text": "Die größte Ansammlung prähistorischer Menhire in Carnac, bestehend aus über tausend alten Granitsteinen.", "category": "monuments/statues", "confidence": "high", "coords": [-3.079722, 47.593333]}, {"name": "Kermario-Steinreihen", "text": "Eine mysteriöse Sammlung riesiger Steine, die präzise ausgerichtet und von einem dichten Küstenwald umgeben sind.", "category": "monuments/statues", "confidence": "high", "coords": [-3.062222, 47.598056]}, {"name": "Kerlescan-Steinreihen", "text": "Die kleinste und am besten erhaltene Gruppe von Menhiren, die am westlichen Ende ein ungewöhnliches Quadrat bildet.", "category": "monuments/statues", "confidence": "high", "coords": [-3.049853, 47.604368]}, {"name": "Tumulus Saint-Michel", "text": "Ein riesiger antiker Grabhügel aus der Jungsteinzeit, der von einer kleinen historischen Steinkapelle gekrönt wird.", "category": "monuments/statues", "confidence": "high", "coords": [-3.073611, 47.588056]}, {"name": "Museum für Vorgeschichte", "text": "Bietet eine unglaubliche Sammlung prähistorischer Artefakte, die bei den Ausgrabungen lokaler Megalithanlagen gefunden wurden.", "category": "museums", "confidence": "high", "coords": [-3.078298, 47.584819]}, {"name": "Kirche Saint-Cornély", "text": "Eine wunderschöne Kirche im Renaissancestil, die dem Beschützer der Rinder gewidmet ist und kunstvolle Deckenmalereien aufweist.", "category": "churches/cathedrals", "confidence": "high", "coords": [-3.080245, 47.583635]}, {"name": "Grande Plage", "text": "Beeindruckende zwei Kilometer feiner weißer Sand erwarten die Besucher an der Grande Plage in Carnac. Dieses weitläufige Ufer bietet reichlich Platz für Wassersport, erfrischendes Schwimmen und pure Entspannung am Meer. Gerade in den Sommermonaten pulsiert hier das Leben, sodass sich ein frühzeitiger Besuch für den besten Platz lohnt.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [-3.072628, 47.571087]}, {"name": "Plage de Légenèse", "text": "Windgeschützt und familiär zeigt sich der kleinere Strand der Plage de Légenèse von seiner besten Seite. Hier können Kinder wunderbar Sandburgen bauen, während die Eltern die Sonne und die angenehme Küstenatmosphäre auskosten. Ideal für entspannte Ferientage, wenn man eine gemütliche und sichere Umgebung am Wasser sucht.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [-3.08533, 47.56661]}, {"name": "crique Saint-Colomban sud", "text": "Crique Saint-Colomban sud ist eine abgeschiedene Bucht und ein Strandbereich in Carnac.", "category": "recreational", "coords": [-3.097547, 47.564717]}, {"name": "plage Le Mentor", "text": "Feiner Sand und maritimes Flair machen die plage Le Mentor in Carnac zu einem echten Geheimtipp. Dieser Küstenstreifen lädt dazu ein, die Seele baumeln zu lassen und dem Rhythmus der Wellen zu folgen. Für ruhige Lesestunden im warmen Sand ist dies der perfekte Rückzugsort.", "category": "recreational", "coords": [-3.141869, 47.581667]}, {"name": "plage du Mané Guen", "text": "An der plage du Mané Guen lässt sich das maritime Erbe der Küstenstadt Carnac spüren. Das flach abfallende Ufer und der Sandstrand bieten ideale Bedingungen für unbeschwerte Strandtage. Lassen Sie den Tag hier ausklingen, wenn das Abendlicht die bretonische Küste in warme Farben taucht.", "category": "recreational", "coords": [-3.140066, 47.576551]}, {"name": "Plage de Saint-Colomban", "text": "In der Gemeinde Carnac zieht die Plage de Saint-Colomban all jene an, die authentische bretonische Strandgefühle suchen. Die weite Sandfläche ist ein hervorragender Ausgangspunkt für sportliche Aktivitäten oder ausgedehnte Spaziergänge am Wassersaum. Besonders Wind- und Kitesurfer finden hier oft perfekte Bedingungen vor.", "category": "recreational", "coords": [-3.098857, 47.56762]}, {"name": "Plage de Port Biren", "text": "Klein, aber ungemein malerisch präsentiert sich die Plage de Port Biren zur Entspannung. Wer den großen Trubel meiden möchte, findet hier ein idyllisches Plätzchen für ruhige Küstenmomente. Vergessen Sie nicht, ein Buch und ausreichend Erfrischungen für einen entspannten Vormittag mitzubringen.", "category": "recreational", "coords": [-3.02469, 47.580464]}, {"name": "Plage de Kerbihan", "text": "Als typischer bretonischer Küstenstrand fügt sich die Plage de Kerbihan in das Stadtbild von Carnac ein. Das frische Wasser lädt zum Schwimmen ein, während die sanfte Brise die Sonne angenehm erträglich macht. Nutzen Sie die flachen Gezeitentümpel, um mit der Familie kleine maritime Entdeckungen zu machen.", "category": "recreational", "coords": [-3.022905, 47.573912]}, {"name": "Plage de Kervillen", "text": "Zu den beliebtesten Zielen in Carnac zählt zweifellos die Plage de Kervillen. Eine lebhafte, freundliche Atmosphäre prägt diesen Küstenabschnitt, der sowohl Badegäste als auch Spaziergänger gleichermaßen anlockt. Es ist ratsam, für diesen gut besuchten Strand früh am Tag anzureisen, um sich den besten Platz am Wasser zu sichern.", "category": "recreational", "coords": [-3.030806, 47.57284]}, {"name": "Plage du Men Du", "text": "Mitten im malerischen Küstenort Carnac erstreckt sich der schöne Strand der Plage du Men Du. Das ruhige Gewässer ist ideal für entspannte Runden im kühlen Nass oder gemütliche Stunden im weichen Sand. Da sich der Meeresboden hier besonders flach neigt, schätzen Familien diesen Abschnitt für sicheren Badespaß.", "category": "recreational", "coords": [-3.047768, 47.576499]}, {"name": "Plage du Grazu", "text": "Ein wahrer Hort der Ruhe ist die Plage du Grazu in Carnac. Abseits des dichten Treibens können Besucher hier den ungetrübten Blick aufs Meer werfen und neue Energie tanken. Packen Sie sich eine weiche Decke ein, um dem Meeresrauschen in aller Gemütlichkeit zuzuhören.", "category": "recreational", "coords": [-3.019117, 47.568246]}, {"name": "Petites Plages", "text": "Petites Plages bezieht sich auf kleinere Strandabschnitte in der Stadt Carnac.", "category": "recreational", "coords": [-3.026674, 47.582276]}, {"name": "Plage Ty Guard", "text": "Angenehm unaufgeregt zeigt sich die Plage Ty Guard an der weiten Küste von Carnac. Der weiche Sand und die stete Seebrise schaffen die perfekten Bedingungen, um den Alltag hinter sich zu lassen. Besonders an einem sonnigen Nachmittag ist dieser Küstenort eine herrliche Kulisse für einen ausgedehnten Spaziergang.", "category": "recreational", "coords": [-3.020551, 47.567667]}, {"name": "Plage de Men Allen", "text": "Ein reizvolles Stück Natur offenbart sich an der Plage de Men Allen in Carnac. Die Kulisse verbindet auf malerische Weise die typischen Landschaftszüge der Bretagne mit dem weiten Ozean. Nutzen Sie diesen Ort, um fantastische Küstenfotos zu schießen und einfach die frische Meeresluft einzuatmen.", "category": "recreational", "coords": [-3.022426, 47.578592]}, {"name": "Plage du Poulbert", "text": "Eingeladen zum entspannten Verweilen sind Besucher an der Plage du Poulbert in der Gemeinde Carnac. Der goldene Sandstrand bietet wunderbare Gelegenheiten für Sonnenbäder und vergnügliche Spiele direkt am Wasser. Um sich einen gemütlichen Liegeplatz zu sichern, ist an Hochsommertagen das rechtzeitige Erscheinen von Vorteil.", "category": "recreational", "coords": [-3.039677, 47.576623]}, {"name": "Plage des Sables Blancs", "text": "Die Plage des Sables Blancs bietet einen einladenden Sandstrand an der Küste von Carnac. Besucher erwartet eine klassische Meereskulisse, die ideal für entspanntes Sonnenbaden und erfrischendes Schwimmen ist. Für einen gemütlichen Sommernachmittag am Wasser ist dieser Ort eine ausgezeichnete Wahl.", "category": "recreational", "coords": [-3.123203, 47.564132]}, {"name": "Plage de Beaumer", "text": "Die Plage de Beaumer im malerischen Küstenort Carnac fängt den Charme der französischen Küste wunderbar ein. Dieser idyllische Strand lädt zu gemütlichen Spaziergängen und zum Genießen der natürlichen Umgebung ein. Er ist ein entspannendes Ausflugsziel für alle, die während eines Aufenthalts am Meer die Seele baumeln lassen möchten.", "category": "recreational", "coords": [-3.053736, 47.573885]}, {"name": "Plage de Sainte-Barbe", "text": "Das Strandgebiet der Plage de Sainte-Barbe liegt in der Küstenregion von Plouhinec nahe Carnac und präsentiert eine wunderschöne Uferlandschaft. Es bietet eine ruhige Umgebung, die wie geschaffen ist für ausgedehnte Strandspaziergänge und das Lauschen des rhythmischen Meeresrauschens. Ein früher Besuch wird empfohlen, um die friedliche Atmosphäre der Küste in vollen Zügen zu genießen.", "category": "recreational", "coords": [-3.152668, 47.598162]}, {"name": "Plage de Kerouriec", "text": "Der Küstenabschnitt der Plage de Kerouriec in der Nähe von Plouhinec und Carnac bietet eine wunderschöne Verbindung zum Ozean. Mit seiner offenen Küstenlinie lädt er Gäste zu erfrischenden Bädern oder zum einfachen Entspannen auf dem Sand ein. Dieser Strand ist besonders in den warmen Sommermonaten ein Genuss, wenn die Meeresbrise am angenehmsten ist.", "category": "recreational", "coords": [-3.188953, 47.621028]}, {"name": "Plage naturiste de Kerminihy", "text": "Die Plage naturiste de Kerminihy ist ein ausgewiesener FKK-Strand in der Gegend von Plouhinec nahe Carnac. Er bietet eine abgeschiedene und natürliche Umgebung für Besucher, die ein Küstenerlebnis ohne Kleidung bevorzugen. Die entspannte Atmosphäre macht ihn zu einem großartigen Ort für friedliches Sonnenbaden und Schwimmen an einem sonnigen Nachmittag.", "category": "recreational", "coords": [-3.198232, 47.628858]}, {"name": "plage de Kerhillio", "text": "Bekannt für seine weitreichende Küstenpräsenz bietet die Plage de Kerhillio in der Region Plouhinec ein typisch französisches Ozeanerlebnis. Die weiten Sandflächen eignen sich perfekt für dynamische Strandspaziergänge, lockeres Sonnenbaden und das Spielen in den Wellen. Besucher stellen oft fest, dass eine frühe Ankunft den besten Platz für einen ganzen Tag voller Entspannung am Meer sichert.", "category": "recreational", "coords": [-3.167531, 47.610748]}, {"name": "Le stang", "text": "Le stang ist ein Strand in der Gemeinde Plouhinec.", "category": "recreational", "coords": [-3.205099, 47.649689]}, {"name": "Plage de Kerminihy", "text": "Die Plage de Kerminihy stellt ein ruhiges Küstenziel innerhalb der Gemeinde Plouhinec dar. Dieser Strand lädt die Gäste ein, in den gemächlichen Rhythmus der Atlantikküste einzutauchen. Ein Besuch hier im Sommer bietet eine ideale Balance aus erfrischenden Wasseraktivitäten und stiller Kontemplation.", "category": "recreational", "coords": [-3.203972, 47.63897]}, {"name": "Plage des Enfants", "text": "Die Plage des Enfants in Plouhinec ist ein wunderbarer lokaler Strand, der sich durch eine freundliche und entspannte Atmosphäre auszeichnet. Sein einladendes Ufer macht ihn zu einem beliebten Treffpunkt für alle, die gerne sanft im Wasser planschen und Sandburgen bauen. Er ist ein herrlicher Ausflugsort während eines Familienurlaubs an der Küste.", "category": "recreational", "coords": [-3.203731, 47.654196]}, {"name": "Plage du Dré Hen", "text": "Die in der Gegend von Plouhinec bei Carnac gelegene Plage du Dré Hen bietet einen schönen Rückzugsort am Meer zur Entspannung. Der Küstenabschnitt hält reichlich Platz für Sonnenanbeter und diejenigen bereit, die ihre Füße ins erfrischende Meerwasser tauchen möchten. Ein Besuch an einem sonnigen Nachmittag sorgt für ein unvergessliches und erholsames Küstenerlebnis.", "category": "recreational", "coords": [-3.175173, 47.706941]}, {"name": "Plage du Magouero - surveillée", "text": "Die Plage du Magouero bietet eine angenehm überwachte Umgebung an der Küste von Plouhinec. Das organisierte Umfeld ermöglicht unbeschwertes Schwimmen und sorgt für eine lebhafte Atmosphäre, in der Strandbesucher bequem Sonne tanken können. Vor allem in den Hochsommermonaten, wenn das Meer am einladendsten ist, ist dies ein sehr empfehlenswerter Ort.", "category": "recreational", "coords": [-3.251918, 47.666378]}, {"name": "Plage du Linés", "text": "Die Plage du Linés umfasst die raue Schönheit der Küste und ist ein faszinierender Naturstrand in Plouhinec. Ihr unpolierter Charme spricht diejenigen an, die ruhige Spaziergänge am Meer und das Rauschen der Wellen bevorzugen. Ein einfaches Picknick einzupacken, sorgt für einen herrlichen und erdenden Ausflug an die Küste.", "category": "recreational", "coords": [-3.284396, 47.684117]}, {"name": "Plage de Kervégan", "text": "Die ruhigen Ufer der Plage de Kervégan laden Besucher ein, die natürliche Küstenumgebung von Plouhinec in vollen Zügen zu erleben. Dieser Strand bietet eine unkomplizierte, entspannende Kulisse, in der die Gäste in die frische Meeresluft eintauchen können. Es bleibt ein angenehmer Zufluchtsort für einen gemütlichen Nachmittag in der Nähe des Ozeans.", "category": "recreational", "coords": [-3.229556, 47.653621]}, {"name": "Plage de Kerhilio", "text": "Die prominent in Plouhinec gelegene Plage de Kerhilio ist ein geschätzter Sandstrandabschnitt in der Region um Carnac. Die lebhafte Atmosphäre zieht Strandgänger an, die in den weiten Gewässern schwimmen oder sich zwanglos an der Küste erholen möchten. Besucher werden feststellen, dass sonnige Wochenenden hier den pulsierenden Geist der lokalen Strandkultur wecken.", "category": "recreational", "coords": [-3.166318, 47.609851]}, {"name": "Plage de Porh-Kerhouet", "text": "Die Plage de Porh-Kerhouet dient als charmante lokale Attraktion und bietet ein gemütliches Stück Küste in Plouhinec. Sie offeriert eine unaufgeregte Kulisse und lädt dazu ein, ein Handtuch auf dem Sand auszurollen und der sanft anrollenden Flut zuzusehen. Dieser Ort eignet sich hervorragend für einen unauffälligen, entspannten Strandtag abseits großer Menschenmassen.", "category": "recreational", "coords": [-3.173843, 47.613735]}, {"name": "Plage de Porh Lineneu", "text": "Für einen friedlichen Rückzugsort am Meer bietet die Plage de Porh Lineneu in Plouhinec eine ruhige und idyllische Küstenlandschaft. Die gelassene Atmosphäre ist perfekt, um sich mit einem guten Buch niederzulassen oder einen ruhigen Spaziergang am Wasser zu genießen. Eine Ankunft am frühen Morgen garantiert oft absolute Ruhe und einen wunderschönen Blick auf den Ozean.", "category": "recreational", "coords": [-3.18272, 47.616995]}, {"name": "Jeux Enfants", "text": "Ein familienfreundlicher Spielplatz in Carnac für Kinder zum Spielen im Freien.", "category": "family", "coords": [-3.077835, 47.579999]}, {"name": "Luna Park Burger", "text": "Eine Spielhalle in Carnac, ideal für Familienspaß und Spiele.", "category": "family", "coords": [-3.075569, 47.572995]}, {"name": "Mini Golf", "text": "Ein Minigolfplatz in Carnac, ideal für einen sportlichen Familiennachmittag.", "category": "family", "coords": [-3.092721, 47.606802]}], "hu": [{"name": "Ménec kősorok", "text": "Carnac legnagyobb megalitikus kőoszlopsora, amely több mint ezer ősi gránittömbből álló látványos sorozat.", "category": "monuments/statues", "confidence": "high", "coords": [-3.079722, 47.593333]}, {"name": "Kermario kősorok", "text": "Óriási állókövek rejtélyes gyűjteménye pontosan sorba rendezve, melyet egy sűrű tengerparti erdő vesz körül.", "category": "monuments/statues", "confidence": "high", "coords": [-3.062222, 47.598056]}, {"name": "Kerlescan kősorok", "text": "Az állókövek legkisebb és legjobban megőrzött csoportja, amelynek nyugati végén egy szokatlan négyzetes alaprajz található.", "category": "monuments/statues", "confidence": "high", "coords": [-3.049853, 47.604368]}, {"name": "Saint-Michel halomsír", "text": "Egy hatalmas ősi temetkezési halom az újkőkorból, amelynek a tetején egy kisméretű történelmi kőkápolna áll.", "category": "monuments/statues", "confidence": "high", "coords": [-3.073611, 47.588056]}, {"name": "Őstörténeti Múzeum", "text": "Lenyűgöző gyűjteményt kínál a helyi megalitikus lelőhelyek ásatásai során talált őskori és történelmi leletekből.", "category": "museums", "confidence": "high", "coords": [-3.078298, 47.584819]}, {"name": "Saint-Cornély templom", "text": "Egy gyönyörű, reneszánsz stílusú templom, amelyet a szarvasmarhák védőszentjének szenteltek, bonyolult mennyezetképekkel.", "category": "churches/cathedrals", "confidence": "high", "coords": [-3.080245, 47.583635]}, {"name": "Grande Plage", "text": "Lenyűgöző, két kilométer hosszú, finom fehér homok várja a látogatókat a Carnac-i Grande Plage-on. Ez a tágas partvidék bőséges helyet kínál a vízi sportokhoz, a frissítő úszáshoz és a tengerparti pihenéshez. Különösen a nyári hónapokban pezseg itt az élet, így a legjobb helyekért érdemes korán érkezni.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [-3.072628, 47.571087]}, {"name": "Plage de Légenèse", "text": "A kisebb Plage de Légenèse szélvédett és családias oldalát mutatja meg a legjobban. A gyerekek itt csodálatos homokvárakat építhetnek, míg a szülők élvezhetik a napsütést és a kellemes tengerparti hangulatot. Ideális a pihentető nyári napokhoz, ha hangulatos és biztonságos vízparti környezetet keresünk.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [-3.08533, 47.56661]}, {"name": "crique Saint-Colomban sud", "text": "A crique Saint-Colomban sud egy eldugott öböl és strand Carnac városában.", "category": "recreational", "coords": [-3.097547, 47.564717]}, {"name": "plage Le Mentor", "text": "A finom homok és a tengeri hangulat teszi a Carnac-i plage Le Mentor-t igazi titkos tippe. Ez a partszakasz arra hív, hogy kapcsolódjon ki és kövesse a hullámok ritmusát. A meleg homokban töltött csendes olvasós órákhoz ez a tökéletes menedék.", "category": "recreational", "coords": [-3.141869, 47.581667]}, {"name": "plage du Mané Guen", "text": "A plage du Mané Guen partján érezhető a tengerparti Carnac városának tengeri öröksége. A lassan mélyülő part és a homokos strand ideális feltételeket kínál a gondtalan tengerparti napokhoz. Zárja itt a napot, amikor az esti fények meleg színekbe borítják a breton tengerpartot.", "category": "recreational", "coords": [-3.140066, 47.576551]}, {"name": "Plage de Saint-Colomban", "text": "Carnac településén a Plage de Saint-Colomban vonzza mindazokat, akik autentikus breton tengerparti hangulatra vágynak. A széles homokos terület kiváló kiindulópont sporttevékenységekhez vagy hosszú tengerparti sétákhoz. A szörfösök és kiteszörfösök különösen gyakran találnak itt tökéletes körülményeket.", "category": "recreational", "coords": [-3.098857, 47.56762]}, {"name": "Plage de Port Biren", "text": "Kicsi, de hihetetlenül festői a Plage de Port Biren, amely ideális a pihenéshez. Aki el akarja kerülni a nagy nyüzsgést, itt idillikus helyet talál a csendes tengerparti pillanatokhoz. Ne felejtsen el egy jó könyvet és elegendő frissítőt hozni egy pihentető délelőtthöz.", "category": "recreational", "coords": [-3.02469, 47.580464]}, {"name": "Plage de Kerbihan", "text": "Jellegzetes breton partszakaszként a Plage de Kerbihan tökéletesen illeszkedik Carnac városképébe. A friss víz fürdőzésre csábít, miközben a lágy szellő kellemesen elviselhetővé teszi a napsütést. Használja ki a sekély árapálymedencéket kisebb tengeri felfedezésekhez a családdal.", "category": "recreational", "coords": [-3.022905, 47.573912]}, {"name": "Plage de Kervillen", "text": "Carnac egyik legnépszerűbb úti célja kétségtelenül a Plage de Kervillen. Élénk, barátságos légkör jellemzi ezt a partszakaszt, amely egyaránt vonzza a fürdőzőket és a sétálni vágyókat. Érdemes a nap elején érkezni erre a népszerű strandra, hogy biztosítsuk a legjobb helyet a vízparton.", "category": "recreational", "coords": [-3.030806, 47.57284]}, {"name": "Plage du Men Du", "text": "Carnac festői tengerparti városának szívében húzódik a gyönyörű Plage du Men Du strand. A nyugodt víz ideális a frissítő úszáshoz vagy a puha homokban töltött kényelmes órákhoz. Mivel a tengerfenék itt különösen lassan mélyül, a családok értékelik ezt a szakaszt a biztonságos fürdőzés miatt.", "category": "recreational", "coords": [-3.047768, 47.576499]}, {"name": "Plage du Grazu", "text": "A Carnac-i Plage du Grazu a béke igazi menedéke. A sűrű nyüzsgéstől távol a látogatók élvezhetik a tengerre nyíló zavartalan kilátást, és feltöltődhetnek új energiákkal. Pakoljon be egy puha takarót, hogy teljes kényelemben hallgathassa a tenger morajlását.", "category": "recreational", "coords": [-3.019117, 47.568246]}, {"name": "Petites Plages", "text": "A Petites Plages kisebb strandszakaszokat jelöl Carnac városában.", "category": "recreational", "coords": [-3.026674, 47.582276]}, {"name": "Plage Ty Guard", "text": "Kellemesen nyugodt arcát mutatja a Plage Ty Guard Carnac tágas partvidékén. A puha homok és az állandó tengeri szellő tökéletes feltételeket teremt ahhoz, hogy magunk mögött hagyjuk a mindennapokat. Különösen egy napsütéses délutánon ez a tengerparti helyszín csodálatos hátteret biztosít egy hosszú sétához.", "category": "recreational", "coords": [-3.020551, 47.567667]}, {"name": "Plage de Men Allen", "text": "A természet egy varázslatos darabja tárul fel a Carnac-i Plage de Men Allen strandon. A kulissza festői módon ötvözi Bretagne jellegzetes táji vonásait a hatalmas óceánnal. Használja ki ezt a helyet fantasztikus tengerparti fotók készítésére, és egyszerűen csak lélegezze be a friss tengeri levegőt.", "category": "recreational", "coords": [-3.022426, 47.578592]}, {"name": "Plage du Poulbert", "text": "A Carnac településén található Plage du Poulbert strandon a látogatókat pihentető kikapcsolódásra invitálják. Az aranyhomokos tengerpart csodálatos lehetőségeket kínál a napozásra és a vízparti vidám játékokra. Nyári csúcsidőszakban érdemes korán érkezni, hogy kényelmes helyet biztosítson magának a parton.", "category": "recreational", "coords": [-3.039677, 47.576623]}, {"name": "Plage des Sables Blancs", "text": "A Plage des Sables Blancs hívogató homokos partot kínál Carnac tengerpartján. Klasszikus parti környezet várja a látogatókat, amely tökéletes a pihentető napozáshoz és a frissítő úszáshoz. Ez a barátságos hely kiváló választás egy békés nyári délután eltöltésére.", "category": "recreational", "coords": [-3.123203, 47.564132]}, {"name": "Plage de Beaumer", "text": "A festői Carnac városában található Plage de Beaumer remekül megragadja a francia tengerpart varázsát. Ez az idilli strand csodálatos hely a kényelmes sétákhoz és a természetes környezet élvezetéhez. Pihentető úti cél mindazok számára, akik a tengerparti kikapcsolódás során a vízparton szeretnének feltöltődni.", "category": "recreational", "coords": [-3.053736, 47.573885]}, {"name": "Plage de Sainte-Barbe", "text": "A Carnac közelében, Plouhinec tengerparti területén található Plage de Sainte-Barbe gyönyörű partszakaszt tár a látogatók elé. A nyugodt környezet kiválóan alkalmas hosszú tengerparti sétákra és az óceán ritmikus hangjainak hallgatására. Érdemes a nap korai szakaszában érkezni, hogy teljes mértékben átélhessük a békés parti hangulatot.", "category": "recreational", "coords": [-3.152668, 47.598162]}, {"name": "Plage de Kerouriec", "text": "A Plage de Kerouriec partszakasza Plouhinec és Carnac közelében gyönyörű kapcsolatot teremt az óceánnal. Nyitott partvonalával frissítő úszásra vagy egyszerű, homokon való pihenésre invitálja a vendégeket. Ez a strand a meleg nyári hónapokban a legélvezetesebb, amikor a tengeri szellő különösen kellemes.", "category": "recreational", "coords": [-3.188953, 47.621028]}, {"name": "Plage naturiste de Kerminihy", "text": "A Plage naturiste de Kerminihy egy kijelölt naturista strand Plouhinec területén, Carnac közelében. Félreeső és természetes környezetet biztosít azoknak a látogatóknak, akik a ruhátlan tengerparti élményt részesítik előnyben. A nyugodt környezet nagyszerű hellyé teszi a békés napozáshoz és úszáshoz egy verőfényes délutánon.", "category": "recreational", "coords": [-3.198232, 47.628858]}, {"name": "plage de Kerhillio", "text": "A hatalmas kiterjedéséről ismert plage de Kerhillio a Plouhinec régióban igazi francia óceáni élményt kínál. A széles homokos területek tökéletesek a dinamikus tengerparti sétákhoz, a laza napozáshoz és a hullámokban való játékhoz. A látogatók gyakran tapasztalják, hogy a korai érkezés biztosítja a legjobb helyet egy egész napos tengerparti pihenéshez.", "category": "recreational", "coords": [-3.167531, 47.610748]}, {"name": "Le stang", "text": "A Le stang egy strandszakasz Plouhinec városában.", "category": "recreational", "coords": [-3.205099, 47.649689]}, {"name": "Plage de Kerminihy", "text": "A Plage de Kerminihy egy nyugodt tengerparti célpont Plouhinec községében. Ez a strand arra hívja a vendégeket, hogy elmerüljenek az atlanti partvidék ráérős ritmusában. Egy nyári látogatás itt az üdítő vízi tevékenységek és a csendes szemlélődés ideális egyensúlyát kínálja.", "category": "recreational", "coords": [-3.203972, 47.63897]}, {"name": "Plage des Enfants", "text": "Kifejezetten a barátságos és nyugodt légkört szolgálja a Plage des Enfants, amely egy elragadó helyi strand Plouhinecben. Hívogató partvonala népszerű gyülekezőhellyé teszi azok számára, akik élvezni szeretnék a finom pancsolást és a homokvár-építést. Csodálatos nappali kikapcsolódás egy tengerparti családi nyaralás során.", "category": "recreational", "coords": [-3.203731, 47.654196]}, {"name": "Plage du Dré Hen", "text": "A Carnac közelében, a Plouhinec régióban található Plage du Dré Hen kedves tengerparti menedéket kínál a pihenésre. A partvonal bőséges teret biztosít a napimádóknak és azoknak, akik a frissítő tengerbe szeretnék mártani a lábukat. Egy verőfényes délutáni látogatás emlékezetes és helyreállító parti élményt garantál.", "category": "recreational", "coords": [-3.175173, 47.706941]}, {"name": "Plage du Magouero - surveillée", "text": "A Plage du Magouero megnyugtatóan felügyelt környezetet biztosít Plouhinec partjainál. A szervezett környezet gondtalan úszást és élénk hangulatot tesz lehetővé, ahol a strandolók kényelmesen élvezhetik a napsütést. Kifejezetten ajánlott hely a nyári csúcsidőszakban, amikor a tenger a leghívogatóbb.", "category": "recreational", "coords": [-3.251918, 47.666378]}, {"name": "Plage du Linés", "text": "A tengerpart nyers szépségét magába foglaló Plage du Linés egy magával ragadó természetes strand Plouhinecben. Csiszolatlan varázsa vonzza azokat, akik a csendes tengerparti sétákat és a hullámok ritmikus robajának hallgatását részesítik előnyben. Egy egyszerű piknik csomagolása kellemes és földhözragadt parti kirándulást eredményez.", "category": "recreational", "coords": [-3.284396, 47.684117]}, {"name": "Plage de Kervégan", "text": "A Plage de Kervégan nyugodt partjai arra hívják a látogatókat, hogy teljes mértékben megtapasztalják Plouhinec természetes parti környezetét. Ez a strand egyszerű, pihentető környezetet biztosít, ahol a vendégek elmerülhetnek a friss tengeri levegőben. Kellemes kiruccanás marad egy ráérős délutánra az óceán közelében.", "category": "recreational", "coords": [-3.229556, 47.653621]}, {"name": "Plage de Kerhilio", "text": "A Plouhinecben kiemelkedő helyet elfoglaló Plage de Kerhilio egy nagyra becsült homokos partszakasz a Carnac régió közelében. Az élénk légkör vonzza azokat a strandolókat, akik a kiterjedt vizekben szeretnének úszni, vagy egyszerűen csak kikapcsolódnának a parton. A látogatók tapasztalni fogják, hogy a napos hétvégék itt kiemelik a helyi tengerparti kultúra pezsgő szellemét.", "category": "recreational", "coords": [-3.166318, 47.609851]}, {"name": "Plage de Porh-Kerhouet", "text": "Kellemes helyi látványosságként a Plage de Porh-Kerhouet egy hangulatos partszakaszt kínál Plouhinecben. Ráérős környezetet biztosít, hívogatva egy törölköző kiterítésére a homokon és a szelíden érkező dagály megfigyelésére. Ez a hely kiválóan alkalmas egy visszafogott, pihentető tengerparti napra, távol a nagy tömegektől.", "category": "recreational", "coords": [-3.173843, 47.613735]}, {"name": "Plage de Porh Lineneu", "text": "A tengerparti békés elvonuláshoz a plouhineci Plage de Porh Lineneu csendes és idilli parti környezetet biztosít. A nyugodt légkör tökéletes ahhoz, hogy letelepedjünk egy jó könyvvel, vagy élvezzük a derűs sétát a vízparton. A kora reggeli érkezés gyakran abszolút nyugalmat és gyönyörű óceáni kilátást garantál.", "category": "recreational", "coords": [-3.18272, 47.616995]}, {"name": "Jeux Enfants", "text": "Családbarát játszótér Carnacban a gyerekek szabadtéri játékához.", "category": "family", "coords": [-3.077835, 47.579999]}, {"name": "Luna Park Burger", "text": "Játékterem Carnacban, amely tökéletes a családi szórakozáshoz.", "category": "family", "coords": [-3.075569, 47.572995]}, {"name": "Mini Golf", "text": "Minitenyisz-pálya Carnacban, amely ideális egy családi délutánhoz.", "category": "family", "coords": [-3.092721, 47.606802]}], "ro": [{"name": "Aliniamentele de la Ménec", "text": "Cel mai mare ansamblu de megaliți din Carnac, incluzând peste o mie de pietre străvechi de granit aliniate.", "category": "monuments/statues", "confidence": "high", "coords": [-3.079722, 47.593333]}, {"name": "Aliniamentele de la Kermario", "text": "O colecție misterioasă de pietre uriașe, aliniate precis și înconjurate de o pădure de coastă deasă.", "category": "monuments/statues", "confidence": "high", "coords": [-3.062222, 47.598056]}, {"name": "Aliniamentele de la Kerlescan", "text": "Cel mai mic și cel mai bine păstrat grup de megaliți, prezentând un aranjament pătrat neobișnuit la capătul vestic.", "category": "monuments/statues", "confidence": "high", "coords": [-3.049853, 47.604368]}, {"name": "Tumulul Saint-Michel", "text": "O movilă funerară uriașă din perioada neolitică, având în partea superioară o mică capelă istorică din piatră.", "category": "monuments/statues", "confidence": "high", "coords": [-3.073611, 47.588056]}, {"name": "Muzeul de Preistorie", "text": "Oferă o colecție incredibilă de artefacte preistorice descoperite în timpul săpăturilor siturilor megalitice locale.", "category": "museums", "confidence": "high", "coords": [-3.078298, 47.584819]}, {"name": "Biserica Saint-Cornély", "text": "O biserică frumoasă în stil renascentist dedicată protectorului vitelor, remarcabilă prin picturile sale detaliate de pe tavan.", "category": "churches/cathedrals", "confidence": "high", "coords": [-3.080245, 47.583635]}, {"name": "Marea Plajă", "text": "Impresionantul Grande Plage din Carnac așteaptă vizitatorii cu doi kilometri de nisip alb și fin. Acest țărm expansiv oferă mult spațiu pentru sporturi nautice, înot revigorant și relaxare pură la malul mării. Mai ales în lunile de vară, viața pulsează aici, așa că o vizită matinală merită pentru a prinde cel mai bun loc.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [-3.072628, 47.571087]}, {"name": "Plaja Légenèse", "text": "Plaja mai mică de la Plage de Légenèse își arată cea mai bună latură fiind adăpostită de vânt și prietenoasă cu familiile. Aici, copiii pot construi minunate castele de nisip, în timp ce părinții se pot bucura de soare și de atmosfera plăcută de pe coastă. Ideală pentru zilele relaxante de vacanță când cauți un mediu sigur și confortabil la apă.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [-3.08533, 47.56661]}, {"name": "crique Saint-Colomban sud", "text": "Crique Saint-Colomban sud este un golf retras și o zonă de plajă situată în Carnac.", "category": "recreational", "coords": [-3.097547, 47.564717]}, {"name": "plage Le Mentor", "text": "Nisipul fin și flerul maritim fac din plage Le Mentor din Carnac o adevărată recomandare secretă. Această fâșie de coastă te invită să te relaxezi și să urmărești ritmul valurilor. Pentru ore liniștite de lectură în nisipul cald, acesta este refugiul perfect.", "category": "recreational", "coords": [-3.141869, 47.581667]}, {"name": "plage du Mané Guen", "text": "Pe plage du Mané Guen se poate simți moștenirea maritimă a orașului de coastă Carnac. Țărmul cu o pantă lină și plaja de nisip oferă condiții ideale pentru zile lipsite de griji pe plajă. Încheiați-vă ziua aici, când lumina serii scaldă coasta bretonă în culori calde.", "category": "recreational", "coords": [-3.140066, 47.576551]}, {"name": "Plage de Saint-Colomban", "text": "În municipiul Carnac, Plage de Saint-Colomban atrage pe toți cei care caută sentimente autentice de plajă bretonă. Întinderea largă de nisip este un punct de plecare excelent pentru activități sportive sau plimbări prelungite la marginea apei. Windsurferii și kitesurferii, în special, găsesc adesea condiții perfecte aici.", "category": "recreational", "coords": [-3.098857, 47.56762]}, {"name": "Plage de Port Biren", "text": "Mic, dar incredibil de pitoresc, Plage de Port Biren este ideal pentru relaxare. Cei care doresc să evite agitația mare vor găsi aici un loc idilic pentru momente liniștite pe coastă. Nu uitați să aduceți o carte și suficiente răcoritoare pentru o dimineață relaxantă.", "category": "recreational", "coords": [-3.02469, 47.580464]}, {"name": "Plage de Kerbihan", "text": "Ca o plajă de coastă tipică bretonă, Plage de Kerbihan se integrează perfect în peisajul urban din Carnac. Apa proaspătă te invită la înot, în timp ce briza blândă face soarele plăcut de suportat. Profitați de micile bazine de maree pentru a face descoperiri maritime alături de familie.", "category": "recreational", "coords": [-3.022905, 47.573912]}, {"name": "Plage de Kervillen", "text": "Fără îndoială, Plage de Kervillen se numără printre cele mai populare destinații din Carnac. O atmosferă plină de viață și prietenoasă caracterizează această porțiune de coastă, atrăgând deopotrivă iubitorii de baie și de plimbări. Este recomandabil să sosiți devreme pentru această plajă populară pentru a vă asigura cel mai bun loc la apă.", "category": "recreational", "coords": [-3.030806, 47.57284]}, {"name": "Plage du Men Du", "text": "În inima orașului de coastă pitoresc Carnac se întinde frumoasa plajă Plage du Men Du. Apele calme sunt ideale pentru ture relaxante de înot în apa răcoroasă sau ore confortabile pe nisipul moale. Deoarece fundul mării se înclină foarte lin aici, familiile apreciază această secțiune pentru distracția sigură la scăldat.", "category": "recreational", "coords": [-3.047768, 47.576499]}, {"name": "Plage du Grazu", "text": "Un adevărat refugiu de pace este Plage du Grazu din Carnac. Departe de agitația densă, vizitatorii se pot bucura de vederea neîntreruptă spre mare și își pot reîncărca bateriile. Împachetați o pătură moale pentru a asculta sunetul mării în tot confortul.", "category": "recreational", "coords": [-3.019117, 47.568246]}, {"name": "Petites Plages", "text": "Petites Plages reprezintă segmente mai mici de plajă din orașul Carnac.", "category": "recreational", "coords": [-3.026674, 47.582276]}, {"name": "Plage Ty Guard", "text": "Plage Ty Guard se prezintă într-un mod plăcut și liniștit pe coasta largă a orașului Carnac. Nisipul moale și briza constantă a mării creează condițiile perfecte pentru a lăsa viața de zi cu zi în urmă. În special într-o după-amiază însorită, această locație de coastă este un fundal minunat pentru o plimbare prelungită.", "category": "recreational", "coords": [-3.020551, 47.567667]}, {"name": "Plage de Men Allen", "text": "O bucată fermecătoare de natură se dezvăluie la Plage de Men Allen din Carnac. Peisajul combină într-un mod pitoresc caracteristicile tipice ale peisajului din Bretania cu vastul ocean. Profitați de acest loc pentru a face fotografii fantastice de coastă și pur și simplu pentru a respira aerul proaspăt al mării.", "category": "recreational", "coords": [-3.022426, 47.578592]}, {"name": "Plage du Poulbert", "text": "Vizitatorii sunt invitați să se relaxeze la Plage du Poulbert în municipiul Carnac. Plaja cu nisip auriu oferă oportunități minunate pentru a face plajă și jocuri distractive chiar la malul apei. Pentru a vă asigura un loc confortabil, sosirea timpurie este un avantaj în zilele pline de vară.", "category": "recreational", "coords": [-3.039677, 47.576623]}, {"name": "Plage des Sables Blancs", "text": "Plage des Sables Blancs oferă un țărm nisipos primitor pe coasta orașului Carnac. Vizitatorii vor descoperi un cadru de coastă clasic, ideal pentru băi de soare relaxante și înot răcoritor. Acest loc plăcut este o alegere excelentă pentru a petrece o după-amiază liniștită de vară.", "category": "recreational", "coords": [-3.123203, 47.564132]}, {"name": "Plage de Beaumer", "text": "Situată în pitorescul oraș de coastă Carnac, Plage de Beaumer captează perfect farmecul litoralului francez. Această plajă idilică este un loc minunat pentru plimbări relaxante și pentru a admira împrejurimile naturale. Este o destinație liniștită pentru cei care doresc să se relaxeze lângă apă în timpul unei evadări pe coastă.", "category": "recreational", "coords": [-3.053736, 47.573885]}, {"name": "Plage de Sainte-Barbe", "text": "Situată în zona de coastă din Plouhinec, în apropiere de Carnac, Plage de Sainte-Barbe prezintă o întindere frumoasă de țărm. Este un mediu senin, perfect pentru plimbări lungi pe plajă și pentru a asculta sunetele ritmice ale oceanului. Se recomandă sosirea dimineața devreme pentru a aprecia pe deplin atmosfera pașnică a coastei.", "category": "recreational", "coords": [-3.152668, 47.598162]}, {"name": "Plage de Kerouriec", "text": "Întinderea de coastă a Plage de Kerouriec oferă o frumoasă conexiune cu oceanul, în apropiere de Plouhinec și Carnac. Cu țărmul său deschis, invită oaspeții la înot răcoritor sau pur și simplu la relaxare pe nisip. Această plajă este extrem de plăcută în lunile calde de vară, când briza mării este cea mai reconfortantă.", "category": "recreational", "coords": [-3.188953, 47.621028]}, {"name": "Plage naturiste de Kerminihy", "text": "Plage naturiste de Kerminihy este o plajă destinată nudiștilor, situată în zona Plouhinec de lângă Carnac. Oferă un mediu retras și natural vizitatorilor care preferă o experiență de coastă opțională în ceea ce privește îmbrăcămintea. Cadrul relaxant o face un loc excelent pentru plajă liniștită și înot într-o după-amiază însorită.", "category": "recreational", "coords": [-3.198232, 47.628858]}, {"name": "plage de Kerhillio", "text": "Cunoscută pentru prezența sa extinsă pe coastă, plage de Kerhillio din regiunea Plouhinec oferă o experiență oceanică franceză autentică. Întinderile largi de nisip sunt perfecte pentru plimbări dinamice pe malul mării, plajă ocazională și joacă în valuri. Vizitatorii descoperă adesea că sosirea timpurie asigură cel mai bun loc pentru o zi întreagă de relaxare pe litoral.", "category": "recreational", "coords": [-3.167531, 47.610748]}, {"name": "Le stang", "text": "Le stang este o plajă în orașul Plouhinec.", "category": "recreational", "coords": [-3.205099, 47.649689]}, {"name": "Plage de Kerminihy", "text": "Plage de Kerminihy reprezintă o destinație de coastă liniștită din comuna Plouhinec. Această plajă invită oaspeții să se scufunde în ritmul domol al țărmului atlantic. O vizită aici în timpul verii oferă un echilibru ideal între activitățile acvatice revigorante și contemplația tăcută.", "category": "recreational", "coords": [-3.203972, 47.63897]}, {"name": "Plage des Enfants", "text": "Dedicată în mod special unei atmosfere prietenoase și relaxate, Plage des Enfants este o plajă locală încântătoare din Plouhinec. Țărmul său primitor o transformă într-un loc de adunare popular pentru cei care doresc să se bucure de bălăceală ușoară și de construirea castelelor de nisip. Este o evadare minunată în timpul zilei într-o vacanță de familie pe coastă.", "category": "recreational", "coords": [-3.203731, 47.654196]}, {"name": "Plage du Dré Hen", "text": "Aflată lângă Carnac, în zona Plouhinec, Plage du Dré Hen oferă un refugiu minunat la malul mării pentru relaxare. Țărmul oferă un spațiu amplu pentru iubitorii de soare și pentru cei care doresc să-și bage picioarele în marea răcoroasă. O vizită într-o după-amiază însorită asigură o experiență de coastă memorabilă și reconfortantă.", "category": "recreational", "coords": [-3.175173, 47.706941]}, {"name": "Plage du Magouero - surveillée", "text": "Plage du Magouero oferă un mediu supravegheat și reconfortant de-a lungul coastei Plouhinec. Cadrul organizat permite înotul fără griji și o ambianță plină de viață, unde pasionații de plajă se pot bucura confortabil de soare. Este un loc foarte recomandat în lunile de vârf de vară, când marea este cea mai primitoare.", "category": "recreational", "coords": [-3.251918, 47.666378]}, {"name": "Plage du Linés", "text": "Îmbrățișând frumusețea brută a coastei, Plage du Linés este o plajă naturală captivantă situată în Plouhinec. Farmecul său neșlefuit îi atrage pe cei care preferă plimbările liniștite pe malul mării și ascultarea zgomotului ritmic al valurilor. Aducerea unui picnic simplu asigură o excursie pe coastă încântătoare și relaxantă.", "category": "recreational", "coords": [-3.284396, 47.684117]}, {"name": "Plage de Kervégan", "text": "Țărmurile liniștite ale Plage de Kervégan invită vizitatorii să experimenteze din plin mediul natural de coastă din Plouhinec. Această plajă oferă un cadru simplu și relaxant, unde oaspeții se pot cufunda în aerul proaspăt al mării. Rămâne o evadare plăcută pentru o după-amiază de agrement în apropierea oceanului.", "category": "recreational", "coords": [-3.229556, 47.653621]}, {"name": "Plage de Kerhilio", "text": "Evidențiată în Plouhinec, Plage de Kerhilio este o întindere de nisip foarte apreciată în apropierea regiunii Carnac. Atmosfera plină de viață atrage iubitorii de plajă care doresc să înoate în apele întinse sau să se angajeze într-o recreere ocazională pe coastă. Vizitatorii vor descoperi că weekendurile însorite de aici scot la iveală spiritul vibrant al culturii locale de pe litoral.", "category": "recreational", "coords": [-3.166318, 47.609851]}, {"name": "Plage de Porh-Kerhouet", "text": "Servind ca o atracție locală fermecătoare, Plage de Porh-Kerhouet oferă o felie confortabilă de țărm în Plouhinec. Oferă un cadru domol, invitându-vă să întindeți un prosop pe nisip și să urmăriți cum vine ușor fluxul. Acest loc este excelent pentru o zi discretă și relaxantă la plajă, departe de marile aglomerații.", "category": "recreational", "coords": [-3.173843, 47.613735]}, {"name": "Plage de Porh Lineneu", "text": "Pentru un refugiu liniștit la mare, Plage de Porh Lineneu din Plouhinec oferă un cadru de coastă idilic și calm. Atmosfera pașnică este perfectă pentru a vă așeza cu o carte bună sau pentru a vă bucura de o plimbare senină pe malul apei. Sosirea dis-de-dimineață garantează adesea o liniște absolută și vederi frumoase la ocean.", "category": "recreational", "coords": [-3.18272, 47.616995]}, {"name": "Jeux Enfants", "text": "Un loc de joacă pentru familii în Carnac, pentru joaca în aer liber.", "category": "family", "coords": [-3.077835, 47.579999]}, {"name": "Luna Park Burger", "text": "O sală de jocuri în Carnac, ideală pentru distracție în familie.", "category": "family", "coords": [-3.075569, 47.572995]}, {"name": "Mini Golf", "text": "Un teren de minigolf în Carnac, ideal pentru o după-amiază cu familia.", "category": "family", "coords": [-3.092721, 47.606802]}], "en": [{"name": "Ménec Alignments", "text": "The largest set of megalithic standing stones in Carnac, featuring over a thousand ancient granite blocks.", "category": "monuments/statues", "confidence": "high", "coords": [-3.079722, 47.593333]}, {"name": "Kermario Alignments", "text": "A mysterious collection of giant standing stones lined up precisely, surrounded by dense coastal forest.", "category": "monuments/statues", "confidence": "high", "coords": [-3.062222, 47.598056]}, {"name": "Kerlescan Alignments", "text": "The smallest and best-preserved group of standing stones, featuring an unusual square layout at the western end.", "category": "monuments/statues", "confidence": "high", "coords": [-3.049853, 47.604368]}, {"name": "Saint-Michel Tumulus", "text": "A massive ancient burial mound from the Neolithic period, topped with a small historic stone chapel.", "category": "monuments/statues", "confidence": "high", "coords": [-3.073611, 47.588056]}, {"name": "Museum of Prehistory", "text": "Offers an incredible collection of prehistoric artifacts found during the excavations of local megalithic sites.", "category": "museums", "confidence": "high", "coords": [-3.078298, 47.584819]}, {"name": "Saint-Cornély Church", "text": "A beautiful Renaissance-style church dedicated to the protector of cattle, featuring intricate ceiling paintings.", "category": "churches/cathedrals", "confidence": "high", "coords": [-3.080245, 47.583635]}, {"name": "Main Beach", "text": "An impressive two kilometers of fine white sand awaits visitors at Grande Plage in Carnac. This expansive shoreline offers plenty of space for water sports, refreshing swims, and pure relaxation by the sea. Life pulses here, especially in the summer months, making an early visit worthwhile to secure the best spot.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [-3.072628, 47.571087]}, {"name": "Légenèse Beach", "text": "Sheltered from the wind and family-oriented, the smaller Plage de Légenèse shows its best side. Children can build wonderful sandcastles here while parents soak up the sun and the pleasant coastal atmosphere. It is ideal for relaxing holidays when looking for a cozy and safe environment by the water.", "category": "parks/promenades/beaches", "confidence": "medium", "coords": [-3.08533, 47.56661]}, {"name": "crique Saint-Colomban sud", "text": "Crique Saint-Colomban sud is a secluded cove and beach area located in Carnac.", "category": "recreational", "coords": [-3.097547, 47.564717]}, {"name": "plage Le Mentor", "text": "Fine sand and maritime flair make plage Le Mentor in Carnac a real insider tip. This stretch of coastline invites you to unwind and follow the rhythm of the waves. It is the perfect retreat for quiet hours of reading in the warm sand.", "category": "recreational", "coords": [-3.141869, 47.581667]}, {"name": "plage du Mané Guen", "text": "The maritime heritage of the coastal town of Carnac can be felt at plage du Mané Guen. The gently sloping shore and sandy beach offer ideal conditions for carefree beach days. End your day here when the evening light bathes the Breton coast in warm colors.", "category": "recreational", "coords": [-3.140066, 47.576551]}, {"name": "Plage de Saint-Colomban", "text": "In the municipality of Carnac, Plage de Saint-Colomban attracts all those seeking authentic Breton beach vibes. The wide expanse of sand is an excellent starting point for sporting activities or long walks along the water's edge. Windsurfers and kitesurfers, in particular, often find perfect conditions here.", "category": "recreational", "coords": [-3.098857, 47.56762]}, {"name": "Plage de Port Biren", "text": "Small but incredibly picturesque, Plage de Port Biren is ideal for relaxation. Those wishing to avoid the big crowds will find an idyllic spot for quiet coastal moments here. Don't forget to bring a book and plenty of refreshments for a relaxing morning.", "category": "recreational", "coords": [-3.02469, 47.580464]}, {"name": "Plage de Kerbihan", "text": "As a typical Breton coastal beach, Plage de Kerbihan blends perfectly into the townscape of Carnac. The fresh water invites you to swim, while the gentle breeze makes the sunshine pleasantly bearable. Take advantage of the shallow tide pools to make small maritime discoveries with the family.", "category": "recreational", "coords": [-3.022905, 47.573912]}, {"name": "Plage de Kervillen", "text": "Plage de Kervillen is undoubtedly one of the most popular destinations in Carnac. A lively, friendly atmosphere characterizes this stretch of coast, attracting bathers and walkers alike. It is advisable to arrive early in the day for this popular beach to secure the best spot by the water.", "category": "recreational", "coords": [-3.030806, 47.57284]}, {"name": "Plage du Men Du", "text": "The beautiful beach of Plage du Men Du stretches out in the picturesque coastal town of Carnac. The calm waters are ideal for relaxing laps in the cool water or cozy hours on the soft sand. Because the seabed slopes very gently here, families appreciate this section for safe bathing fun.", "category": "recreational", "coords": [-3.047768, 47.576499]}, {"name": "Plage du Grazu", "text": "Plage du Grazu in Carnac is a true haven of peace. Away from the dense crowds, visitors can enjoy the uninterrupted view of the sea and recharge their batteries. Pack a soft blanket to listen to the sound of the ocean in complete comfort.", "category": "recreational", "coords": [-3.019117, 47.568246]}, {"name": "Petites Plages", "text": "Petites Plages refers to smaller beach segments found in the town of Carnac.", "category": "recreational", "coords": [-3.026674, 47.582276]}, {"name": "Plage Ty Guard", "text": "Pleasantly unhurried, Plage Ty Guard presents itself on the wide coast of Carnac. The soft sand and constant sea breeze create the perfect conditions to leave everyday life behind. Especially on a sunny afternoon, this coastal location is a wonderful backdrop for a long walk.", "category": "recreational", "coords": [-3.020551, 47.567667]}, {"name": "Plage de Men Allen", "text": "A charming piece of nature reveals itself at Plage de Men Allen in Carnac. The backdrop picturesquely combines the typical landscape features of Brittany with the vast ocean. Use this place to take fantastic coastal photos and simply breathe in the fresh sea air.", "category": "recreational", "coords": [-3.022426, 47.578592]}, {"name": "Plage du Poulbert", "text": "Visitors are invited to relax and unwind at Plage du Poulbert in the municipality of Carnac. The golden sandy beach offers wonderful opportunities for sunbathing and fun games right by the water. To secure a comfortable spot, arriving early is an advantage on busy summer days.", "category": "recreational", "coords": [-3.039677, 47.576623]}, {"name": "Plage des Sables Blancs", "text": "The Plage des Sables Blancs offers a welcoming sandy shoreline along the coast of Carnac. It provides a classic coastal setting, perfect for relaxed sunbathing and refreshing swims in the sea. This inviting spot is an excellent choice for spending a tranquil summer afternoon.", "category": "recreational", "coords": [-3.123203, 47.564132]}, {"name": "Plage de Beaumer", "text": "Set in the scenic coastal town of Carnac, Plage de Beaumer captures the charm of the French seaside. This picturesque beach is a wonderful spot for leisurely strolls and enjoying the natural surroundings. It is a relaxing destination for those looking to unwind by the water during a coastal getaway.", "category": "recreational", "coords": [-3.053736, 47.573885]}, {"name": "Plage de Sainte-Barbe", "text": "Located in the coastal area of Plouhinec near Carnac, Plage de Sainte-Barbe presents a beautiful expanse of shoreline. It is a serene environment tailored for long beach walks and listening to the rhythmic sounds of the ocean. Arriving early in the day is recommended to fully appreciate its peaceful coastal atmosphere.", "category": "recreational", "coords": [-3.152668, 47.598162]}, {"name": "Plage de Kerouriec", "text": "The coastal stretch of Plage de Kerouriec provides a beautiful connection to the ocean near Plouhinec and Carnac. With its open shoreline, it invites guests to take refreshing swims or simply relax on the sand. This beach is highly enjoyable during the warm summer months when the sea breeze is most pleasant.", "category": "recreational", "coords": [-3.188953, 47.621028]}, {"name": "Plage naturiste de Kerminihy", "text": "Plage naturiste de Kerminihy is a dedicated naturist beach situated in the Plouhinec area near Carnac. It provides a secluded and natural environment for visitors who prefer a clothing-optional coastal experience. The relaxed setting makes it a great spot for peaceful sunbathing and swimming on a bright afternoon.", "category": "recreational", "coords": [-3.198232, 47.628858]}, {"name": "plage de Kerhillio", "text": "Known for its expansive coastal presence, plage de Kerhillio in the Plouhinec region offers a quintessential French ocean experience. The wide stretches of sand are perfect for dynamic seaside walks, casual sunbathing, and playing in the waves. Visitors often find that arriving early secures the best spot for a full day of seaside relaxation.", "category": "recreational", "coords": [-3.167531, 47.610748]}, {"name": "Le stang", "text": "Le stang is a beach area in the city of Plouhinec.", "category": "recreational", "coords": [-3.205099, 47.649689]}, {"name": "Plage de Kerminihy", "text": "Plage de Kerminihy represents a tranquil coastal destination within the commune of Plouhinec. This beach invites guests to immerse themselves in the unhurried rhythm of the Atlantic shoreline. A visit here during the summer offers an ideal balance of refreshing water activities and quiet contemplation.", "category": "recreational", "coords": [-3.203972, 47.63897]}, {"name": "Plage des Enfants", "text": "Specifically catering to a friendly and relaxed atmosphere, Plage des Enfants is a delightful local beach in Plouhinec. Its welcoming shoreline makes it a popular gathering place for those looking to enjoy gentle paddling and building sandcastles. It is a wonderful daytime escape during a family vacation on the coast.", "category": "recreational", "coords": [-3.203731, 47.654196]}, {"name": "Plage du Dré Hen", "text": "Found near Carnac in the Plouhinec area, Plage du Dré Hen offers a lovely seaside retreat for relaxation. The shoreline provides ample space for sun worshippers and those looking to dip their toes into the refreshing sea. Visiting on a sunny afternoon ensures a memorable and restorative coastal experience.", "category": "recreational", "coords": [-3.175173, 47.706941]}, {"name": "Plage du Magouero - surveillée", "text": "Plage du Magouero provides a reassuringly supervised environment along the coast of Plouhinec. The organized setting allows for carefree swimming and a lively ambiance where beachgoers can comfortably soak up the sun. It is a highly recommended spot during peak summer months when the sea is at its most inviting.", "category": "recreational", "coords": [-3.251918, 47.666378]}, {"name": "Plage du Linés", "text": "Embracing the raw beauty of the coast, Plage du Linés is a captivating natural beach located in Plouhinec. Its unpolished charm appeals to those who favor quiet seaside strolls and listening to the rhythmic crash of the waves. Packing a simple picnic makes for a delightful and grounding coastal excursion.", "category": "recreational", "coords": [-3.284396, 47.684117]}, {"name": "Plage de Kervégan", "text": "The tranquil shores of Plage de Kervégan invite visitors to fully experience the natural coastal environment of Plouhinec. This beach provides a straightforward, relaxing setting where guests can immerse themselves in the fresh sea air. It remains a pleasant getaway for a leisurely afternoon near the ocean.", "category": "recreational", "coords": [-3.229556, 47.653621]}, {"name": "Plage de Kerhilio", "text": "Prominently featured in Plouhinec, Plage de Kerhilio is a well-regarded stretch of sand near the Carnac region. The lively atmosphere draws beachgoers looking to swim in the expansive waters or engage in casual coastal recreation. Visitors will find that sunny weekends here bring out the vibrant spirit of the local seaside culture.", "category": "recreational", "coords": [-3.166318, 47.609851]}, {"name": "Plage de Porh-Kerhouet", "text": "Serving as a charming local attraction, Plage de Porh-Kerhouet offers a cozy slice of the shoreline in Plouhinec. It provides an unhurried setting, inviting you to unroll a towel on the sand and watch the tide gently roll in. This spot is excellent for an understated, relaxing day at the beach away from major crowds.", "category": "recreational", "coords": [-3.173843, 47.613735]}, {"name": "Plage de Porh Lineneu", "text": "For a peaceful retreat by the sea, Plage de Porh Lineneu in Plouhinec provides a quiet and idyllic coastal setting. The calm atmosphere is perfect for settling down with a good book or enjoying a serene walk along the water's edge. Arriving during the early morning often guarantees absolute tranquility and beautiful ocean views.", "category": "recreational", "coords": [-3.18272, 47.616995]}, {"name": "Jeux Enfants", "text": "A family-friendly playground in Carnac for kids to play outdoors.", "category": "family", "coords": [-3.077835, 47.579999]}, {"name": "Luna Park Burger", "text": "An amusement arcade in Carnac perfect for family fun and games.", "category": "family", "coords": [-3.075569, 47.572995]}, {"name": "Mini Golf", "text": "A miniature golf course in Carnac ideal for a competitive family afternoon.", "category": "family", "coords": [-3.092721, 47.606802]}]}},
   {"id": "cauterets", "type": "city", "parent": "FR-OCC", "coords": [-0.1133, 42.8881], "population": 963, "tier": 2, "name": {"de": "Cauterets", "hu": "Cauterets", "ro": "Cauterets", "en": "Cauterets"}, "description": {"de": "Ein eleganter Kurort und Skistation in den Hochpyrenäen, berühmt für seine Belle-Époque-Architektur, Thermalquellen und Wasserfälle.", "hu": "Elegáns fürdőváros és síközpont a Magas-Pireneusokban, amely Belle Époque stílusú épületeiről, gyógyvizeiről és vízeséseiről ismert.", "ro": "Un oraș termal elegant și stațiune de schi în Pirineii Înalți, renumit pentru arhitectura Belle Époque, izvoarele termale și cascadele sale.", "en": "An elegant thermal town and ski resort in the High Pyrenees, famous for its Belle Époque architecture, thermal springs, and waterfalls."}, "facts": {"de": ["Kurort seit der Römerzeit", "Skigebiet Cirque du Lys", "Nationalpark Pyrenäen", "Pont d'Espagne Brücke", "Berühmte Berlingots (Bonbons)", "Schwefelhaltige Quellen", "Belle-Époque-Fassaden", "932 Meter Höhe"], "hu": ["Római kori fürdőhely", "Cirque du Lys sípályák", "Pireneusi Nemzeti Park", "Pont d'Espagne híd", "Berlingot cukorka hazája", "Kénes gyógyvizek", "Belle Époque homlokzatok", "932 méteres magasság"], "ro": ["Stațiune termală din epoca romană", "Domeniul schiabil Cirque du Lys", "Parcul Național al Pirineilor", "Podul istoric Pont d'Espagne", "Bomboane tradiționale Berlingots", "Izvoare termale sulfuroase", "Fațade Belle Époque", "Altitudine de 932 metri"], "en": ["Thermal resort since Roman times", "Cirque du Lys ski area", "Pyrenees National Park gateway", "Pont d'Espagne historic bridge", "Famous Berlingot candies", "Sulphurous thermal springs", "Belle Époque architecture", "932 meters elevation"]}, "image": "/geo-images/france/cauterets.webp", "imageHint": "The historic thermal bath building and grand hotels of Cauterets", "descriptionAdvanced": {"de": "Cauterets ist eine charmante Kombination aus mondänem Kurort des 19. Jahrhunderts und modernem Alpinsportzentrum. Die Architektur der Stadt mit ihren prachtvollen Grand Hotels und dem ehemaligen Bahnhof aus Holz erinnert an die Glanzzeiten, als Victor Hugo und George Sand hier logierten. Heute ist Cauterets das Tor zum Pyrenäen-Nationalpark. Besonders beeindruckend ist der 'Pont d'Espagne', ein Ort mit spektakulären Wasserfällen, der als Ausgangspunkt für Wanderungen zum türkisblauen Lac de Gaube dient. Im Winter verwandelt sich der 'Cirque du Lys' in eines der schneesichersten Skigebiete der Pyrenäen. Nach einem Tag in den Bergen entspannen Besucher traditionell in den schwefelhaltigen Thermalbädern 'Bains du Rocher' und probieren die berühmten 'Berlingots', bunte handgefertigte Bonbons, die ursprünglich den Geschmack des Thermalwassers überdecken sollten.", "hu": "Cauterets a Magas-Pireneusok egyik legkarakteresebb települése, ahol a 19. századi fürdővárosi csillogás találkozik az aktív hegyi sportokkal. A városkép meghatározó elemei a monumentális Belle Époque stílusú szállodák és a különleges, fából épült régi vasútállomás. A település a Pireneusi Nemzeti Park egyik fontos kapuja. Innen érhető el a látványos Pont d'Espagne, ahol hatalmas vízesések és vadregényes túraútvonalak indulnak a Gaube-tó felé. Télen a Cirque du Lys síterep várja a sportolókat, amely kiváló hóadottságairól híres. A nap végén a látogatók a Bains du Rocher termálfürdőben pihenhetnek. Érdemes megkóstolni a helyi specialitást, a Berlingot cukorkát, amelyet eredetileg azért kezdtek gyártani, hogy elnyomják a kénes gyógyvíz ízét a kúrák után.", "ro": "Cauterets este o combinație fermecătoare între o stațiune balneară mondenă din secolul al XIX-lea și un centru modern de sporturi alpine. Arhitectura sa este definită de hoteluri grandioase din perioada Belle Époque și de o gară unică din lemn, amintind de vremurile când elita culturală a Europei frecventa orașul. Situat la intrarea în Parcul Național al Pirineilor, Cauterets oferă acces la situl natural Pont d'Espagne, renumit pentru cascadele sale spectaculoase și traseul către Lacul Gaube. Iarna, domeniul Cirque du Lys devine una dintre cele mai sigure destinații de schi din punct de vedere al zăpezii. O tradiție locală este fabricarea bomboanelor 'Berlingot', care se vând în numeroasele ateliere artizanale din centrul orașului, fiind create inițial pentru a atenua gustul apei sulfuroase folosite în tratamentele termale.", "en": "Cauterets is a unique blend of a 19th-century high-society spa town and a vibrant modern mountain resort. The town center is characterized by grand Belle Époque hotels and a monumental wooden railway station, reflecting its history as a favorite retreat for royalty and artists. Today, it serves as a major gateway to the Pyrenees National Park. A short drive away lies 'Pont d'Espagne', a stunning natural site featuring thunderous waterfalls and the trailhead to the iconic turquoise Lac de Gaube. During winter, the Cirque du Lys offers some of the most reliable snowfall in the Pyrenees for skiers. Visitors typically end their day at the 'Bains du Rocher' thermal spa and never leave without buying 'Berlingots', hard candies that have been handmade here for centuries to mask the taste of the sulfurous spring water."}, "factsAdvanced": {"de": ["Tor zum Pyrenäen-Nationalpark", "Ehemaliger Bahnhof komplett aus Holz", "Besuch von Napoleon III. im Jahr 1859", "Berlingot-Tradition seit dem 16. Jahrhundert", "Skigebiet Cirque du Lys bis 2450m", "Schwefelquellen lindern Atemwegserkrankungen"], "hu": ["A Pireneusi Nemzeti Park kapuja", "Teljesen fából készült történelmi vasútállomás", "III. Napóleon látogatása 1859-ben", "A Berlingot cukorka hagyománya a 16. századig nyúlik vissza", "Cirque du Lys síterep 2450 méterig", "Kénes forrásai légúti betegségekre kiválóak"], "ro": ["Poarta de intrare în Parcul Național al Pirineilor", "Gara istorică construită integral din lemn", "Vizita lui Napoleon al III-lea în 1859", "Tradiția bomboanelor Berlingot din secolul al XVI-lea", "Domeniul schiabil Cirque du Lys ajunge la 2450 m", "Izvoarele sulfuroase tratează afecțiuni respiratorii"], "en": ["Primary gateway to the Pyrenees National Park", "Historic railway station built entirely of wood", "Napoleon III and Empress Eugenie visited in 1859", "Berlingot candy tradition since the 16th century", "Cirque du Lys ski slopes reach 2,450 meters", "Sulphur springs are famous for treating ENT issues"]}, "sights": {
       "de": [
@@ -4268,6 +6186,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.11173,
                         42.889427
+                  ]
+            },
+            {
+                  "name": "Belvedere d'Aoumede",
+                  "text": "Ein Aussichtspunkt in Cauterets, der einen weiten Blick auf die umliegenden Bergtäler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.117134,
+                        42.900701
                   ]
             }
       ],
@@ -4449,6 +6376,15 @@ export const poiExtraFrV2: POI[] = [
                         -0.11173,
                         42.889427
                   ]
+            },
+            {
+                  "name": "Belvedere d'Aoumede",
+                  "text": "Kilátópont Cauterets-ben, ahonnan széles perspektíva nyílik a környező hegyi völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -0.117134,
+                        42.900701
+                  ]
             }
       ],
       "ro": [
@@ -4628,6 +6564,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -0.11173,
                         42.889427
+                  ]
+            },
+            {
+                  "name": "Belvedere d'Aoumede",
+                  "text": "Un punct de belvedere din Cauterets care oferă o perspectivă largă asupra văilor montane înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.117134,
+                        42.900701
                   ]
             }
       ],
@@ -4809,6 +6754,15 @@ export const poiExtraFrV2: POI[] = [
                         -0.11173,
                         42.889427
                   ]
+            },
+            {
+                  "name": "Belvedere d'Aoumede",
+                  "text": "A viewpoint in Cauterets offering a wide perspective of the surrounding mountain valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -0.117134,
+                        42.900701
+                  ]
             }
       ]
 }},
@@ -4937,6 +6891,42 @@ export const poiExtraFrV2: POI[] = [
                         6.873823,
                         45.928061
                   ]
+            },
+            {
+                  "name": "Accro'Park des Gaillands",
+                  "text": "Ein Waldseilpark in Chamonix, der von der Bergführergesellschaft der Stadt betrieben wird.",
+                  "category": "landmark",
+                  "coords": [
+                        6.847944,
+                        45.914493
+                  ]
+            },
+            {
+                  "name": "Locomotive ndeg7",
+                  "text": "Eine historische Zahnrad-Lokomotive, die an die Geschichte der Montenvers-Bahn erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.874966,
+                        45.922466
+                  ]
+            },
+            {
+                  "name": "Le Grand Chalet",
+                  "text": "Die Überreste eines historischen Gebäudes in der Bergregion von Chamonix-Mont-Blanc.",
+                  "category": "historical",
+                  "coords": [
+                        6.899153,
+                        45.921253
+                  ]
+            },
+            {
+                  "name": "Luge Alpine Coaster",
+                  "text": "Eine ganzjährig geöffnete Rodelbahn, die Freizeitspaß in den Alpen von Chamonix bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.880346,
+                        45.925117
+                  ]
             }
       ],
       "hu": [
@@ -5062,6 +7052,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.873823,
                         45.928061
+                  ]
+            },
+            {
+                  "name": "Accro'Park des Gaillands",
+                  "text": "Kalandpark Chamonix-ban, amelyet a város hegyivezető társasága üzemeltet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.847944,
+                        45.914493
+                  ]
+            },
+            {
+                  "name": "Locomotive ndeg7",
+                  "text": "Történelmi fogaskerekű mozdony, amely a Montenvers-vasút történetére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.874966,
+                        45.922466
+                  ]
+            },
+            {
+                  "name": "Le Grand Chalet",
+                  "text": "Egy történelmi épület maradványai Chamonix-Mont-Blanc hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        6.899153,
+                        45.921253
+                  ]
+            },
+            {
+                  "name": "Luge Alpine Coaster",
+                  "text": "Egész évben nyitva tartó bobpálya, amely kikapcsolódást kínál Chamonix Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.880346,
+                        45.925117
                   ]
             }
       ],
@@ -5189,6 +7215,42 @@ export const poiExtraFrV2: POI[] = [
                         6.873823,
                         45.928061
                   ]
+            },
+            {
+                  "name": "Accro'Park des Gaillands",
+                  "text": "Un parc de aventură în Chamonix, administrat de compania locală de ghizi montani.",
+                  "category": "landmark",
+                  "coords": [
+                        6.847944,
+                        45.914493
+                  ]
+            },
+            {
+                  "name": "Locomotive ndeg7",
+                  "text": "O locomotivă istorică cu cremalieră, care amintește de istoria căii ferate Montenvers.",
+                  "category": "landmark",
+                  "coords": [
+                        6.874966,
+                        45.922466
+                  ]
+            },
+            {
+                  "name": "Le Grand Chalet",
+                  "text": "Ruinele unei clădiri istorice în regiunea montană Chamonix-Mont-Blanc.",
+                  "category": "historical",
+                  "coords": [
+                        6.899153,
+                        45.921253
+                  ]
+            },
+            {
+                  "name": "Luge Alpine Coaster",
+                  "text": "Un tobogan alpin deschis tot anul, oferind distracție în Alpii din Chamonix.",
+                  "category": "landmark",
+                  "coords": [
+                        6.880346,
+                        45.925117
+                  ]
             }
       ],
       "en": [
@@ -5314,6 +7376,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.873823,
                         45.928061
+                  ]
+            },
+            {
+                  "name": "Accro'Park des Gaillands",
+                  "text": "An adventure forest park in Chamonix managed by the city's mountain guides company.",
+                  "category": "landmark",
+                  "coords": [
+                        6.847944,
+                        45.914493
+                  ]
+            },
+            {
+                  "name": "Locomotive ndeg7",
+                  "text": "A historic rack locomotive that commemorates the history of the Montenvers railway.",
+                  "category": "landmark",
+                  "coords": [
+                        6.874966,
+                        45.922466
+                  ]
+            },
+            {
+                  "name": "Le Grand Chalet",
+                  "text": "The ruins of a historical building in the mountain region of Chamonix-Mont-Blanc.",
+                  "category": "historical",
+                  "coords": [
+                        6.899153,
+                        45.921253
+                  ]
+            },
+            {
+                  "name": "Luge Alpine Coaster",
+                  "text": "A year-round alpine coaster providing recreational fun in the Chamonix Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.880346,
+                        45.925117
                   ]
             }
       ]
@@ -6058,6 +8156,42 @@ export const poiExtraFrV2: POI[] = [
                         6.644575,
                         45.359276
                   ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Ein markanter Felsgipfel und Wahrzeichen im Berggebiet von Courchevel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Bel-Air Fine Art",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die verschiedene moderne Werke in Courchevel ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.63508,
+                        45.415443
+                  ]
+            },
+            {
+                  "name": "Village des Indiens",
+                  "text": "Eine familienorientierte Attraktion in Courchevel, die im indianischen Stil gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.650962,
+                        45.404444
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Visitation",
+                  "text": "Eine kleine Kapelle in Courchevel, die als Ort der Anbetung und stillen Einkehr dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.627756,
+                        45.440295
+                  ]
             }
       ],
       "hu": [
@@ -6220,6 +8354,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.644575,
                         45.359276
+                  ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Jelentős sziklacsúcs és tájékozódási pont Courchevel hegyvidéki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Bel-Air Fine Art",
+                  "text": "Kortárs művészeti galéria, amely különféle modern alkotásokat mutat be Courchevelben.",
+                  "category": "museum",
+                  "coords": [
+                        6.63508,
+                        45.415443
+                  ]
+            },
+            {
+                  "name": "Village des Indiens",
+                  "text": "Családbarát attrakció Courchevelben, amelyet indián téma köré terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        6.650962,
+                        45.404444
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Visitation",
+                  "text": "Kis kápolna Courchevelben, amely istentiszteleti és elcsendesedési helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.627756,
+                        45.440295
                   ]
             }
       ],
@@ -6384,6 +8554,42 @@ export const poiExtraFrV2: POI[] = [
                         6.644575,
                         45.359276
                   ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Un vârf stâncos proeminent și un reper în zona montană Courchevel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Bel-Air Fine Art",
+                  "text": "O galerie de artă contemporană care expune diverse lucrări moderne în Courchevel.",
+                  "category": "museum",
+                  "coords": [
+                        6.63508,
+                        45.415443
+                  ]
+            },
+            {
+                  "name": "Village des Indiens",
+                  "text": "O atracție orientată către familii din Courchevel, concepută cu o tematică amerindiană.",
+                  "category": "landmark",
+                  "coords": [
+                        6.650962,
+                        45.404444
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Visitation",
+                  "text": "O mică chapelă din Courchevel care servește ca loc de rugăciune și reflecție liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        6.627756,
+                        45.440295
+                  ]
             }
       ],
       "en": [
@@ -6547,10 +8753,555 @@ export const poiExtraFrV2: POI[] = [
                         6.644575,
                         45.359276
                   ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "A prominent rock peak and landmark in the Courchevel mountain area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Bel-Air Fine Art",
+                  "text": "A contemporary art gallery showcasing various modern works in Courchevel.",
+                  "category": "museum",
+                  "coords": [
+                        6.63508,
+                        45.415443
+                  ]
+            },
+            {
+                  "name": "Village des Indiens",
+                  "text": "A family-oriented attraction in Courchevel designed with a Native American theme.",
+                  "category": "landmark",
+                  "coords": [
+                        6.650962,
+                        45.404444
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Visitation",
+                  "text": "A small chapel in Courchevel serving as a place of worship and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        6.627756,
+                        45.440295
+                  ]
             }
       ]
 }},
-  {"id": "etretat", "type": "city", "parent": "FR-NOR", "coords": [0.205, 49.7075], "population": 1233, "tier": 1, "name": {"de": "Étretat", "hu": "Étretat", "ro": "Étretat", "en": "Étretat"}, "description": {"de": "Ein spektakuläres Küstenstädtchen in der Normandie, berühmt für seine monumentalen weißen Kreidefelsen und natürlichen Bögen.", "hu": "Látványos normandiai tengerparti város, amely monumentális fehér mészkőszikláiról és természetes boltíveiről híres.", "ro": "Un oraș de coastă spectaculos din Normandia, faimos pentru stâncile sale monumentale de cretă albă și arcadele naturale.", "en": "A spectacular coastal town in Normandy, famous for its monumental white chalk cliffs and natural arches."}, "facts": {"de": ["Teil der Alabasterküste", "Berühmte Felsnadel (L'Aiguille)", "Inspirationsquelle für Claude Monet", "Schauplatz der Arsène-Lupin-Romane", "Drei markante natürliche Bögen", "Wunderschöne Kiesstrände", "Einstiges kleines Fischerdorf", "Beliebtes Ziel für Tagesausflüge"], "hu": ["Az Alabástrom-part része", "Híres sziklatű (L'Aiguille)", "Claude Monet ihletforrása", "Arsène Lupin regényeinek helyszíne", "Három jellegzetes természetes boltív", "Gyönyörű kavicsos strandok", "Egykori apró halászfalu", "Népszerű egynapos kirándulóhely"], "ro": ["Parte a Coastei de Alabastru", "Celebra stâncă ac (L'Aiguille)", "Sursă de inspirație pentru Claude Monet", "Locul de desfășurare a romanelor Arsène Lupin", "Trei arcade naturale distincte", "Plaje superbe cu pietriș", "Fost mic sat de pescari", "Destinație populară pentru excursii de o zi"], "en": ["Part of the Alabaster Coast", "Famous rock needle (L'Aiguille)", "Inspiration for Claude Monet", "Setting for Arsène Lupin novels", "Three distinctive natural arches", "Beautiful pebble beaches", "Former small fishing village", "Popular day-trip destination"]}, "image": "/geo-images/france/etretat.webp", "imageHint": "White chalk cliffs with a natural stone arch over the sea", "descriptionAdvanced": {"de": "Étretat ist das wohl ikonischste Dorf an der Alabasterküste der Normandie. Die monumentalen weißen Kreidefelsen, die das Städtchen einrahmen, sind weltberühmt. Besonders markant sind die drei natürlichen Felsentore: Porte d'Amont, Porte d'Aval und die riesige Manneporte. Direkt neben der Porte d'Aval ragt die 70 Meter hohe Felsnadel \"L'Aiguille\" aus dem Meer, die im Zentrum des Kriminalromans \"Die hohle Nadel\" von Maurice Leblanc steht. Der Ort selbst hat sich den Charme eines alten Seebads bewahrt, mit typisch normannischen Fachwerkhäusern und einer eleganten Uferpromenade. Maler wie Claude Monet und Gustave Courbet waren von den wechselnden Lichtverhältnissen auf den weißen Felsen so fasziniert, dass sie Étretat in zahlreichen Meisterwerken verewigten. Heute führen gut ausgebaute Küstenpfade oberhalb der Klippen zu atemberaubenden Aussichtspunkten, von denen man das Spiel der Gezeiten beobachten kann.", "hu": "Étretat Normandia Alabástrom-partjának legikonikusabb települése. A várost keretező monumentális fehér mészkősziklák világszerte ismertek. Különösen jellegzetes a három természetes sziklakapu: a Porte d'Amont, a Porte d'Aval és a hatalmas Manneporte. Közvetlenül a Porte d'Aval mellett magasodik a tengerből a 70 méter magas sziklatű, a \"L'Aiguille\", amely Maurice Leblanc \"A hollow needle\" (Az üreges tű) című krimijének központi helyszíne. Maga a város megőrizte a régi tengerparti üdülőhelyek báját, tipikus normann gerendás házaival és elegáns parti sétányával. Olyan festőket, mint Claude Monet és Gustave Courbet, annyira lenyűgöztek a fehér sziklákon megcsillanó fények, hogy számos remekműben örökítették meg Étretat-t. Napjainkban a sziklák tetején vezető jól kiépített part menti ösvények lélegzetelállító kilátópontokhoz vezetnek, ahonnan megfigyelhető az árapály játéka.", "ro": "Étretat este probabil cel mai iconic sat de pe Coasta de Alabastru a Normandiei. Stâncile monumentale de cretă albă care încadrează orășelul sunt renumite în întreaga lume. Deosebit de marcante sunt cele trei porți naturale din stâncă: Porte d'Amont, Porte d'Aval și uriașa Manneporte. Direct lângă Porte d'Aval se înalță din mare acul de stâncă \"L'Aiguille\", înalt de 70 de metri, care stă în centrul romanului polițist \"Acul scobit\" de Maurice Leblanc. Localitatea în sine și-a păstrat farmecul unei vechi stațiuni balneare, cu case tipic normande din lemn și o faleză elegantă. Pictori precum Claude Monet și Gustave Courbet au fost atât de fascinați de schimbările de lumină pe stâncile albe, încât au imortalizat Étretat în numeroase capodopere. Astăzi, poteci de coastă bine amenajate deasupra falezelor duc la puncte de belvedere uluitoare, de unde se poate observa jocul mareelor.", "en": "Étretat is perhaps the most iconic village on Normandy's Alabaster Coast. The monumental white chalk cliffs that frame the town are world-famous. Particularly striking are the three natural rock arches: Porte d'Amont, Porte d'Aval, and the massive Manneporte. Right next to the Porte d'Aval, the 70-meter-high rock needle \"L'Aiguille\" rises from the sea, serving as the central setting for Maurice Leblanc's detective novel \"The Hollow Needle.\" The town itself has preserved the charm of an old seaside resort, with typical Norman half-timbered houses and an elegant promenade. Painters like Claude Monet and Gustave Courbet were so fascinated by the changing light on the white cliffs that they immortalized Étretat in numerous masterpieces. Today, well-maintained coastal paths atop the cliffs lead to breathtaking viewpoints from which to watch the play of the tides."}, "factsAdvanced": {"de": ["Die Kreidefelsen ragen bis zu 90 m auf", "Die Felsnadel L'Aiguille ist 70 m hoch", "Maurice Leblanc schrieb hier 1909 seinen Bestseller", "Liegt ca. 200 km nordwestlich von Paris", "Claude Monet malte über 50 Bilder der Felsen", "Die Kapelle Notre-Dame-de-la-Garde thront seit 1854"], "hu": ["A mészkősziklák akár 90 m magasak", "A L'Aiguille sziklatű 70 méter magas", "Maurice Leblanc 1909-ben itt írta bestsellerét", "Párizstól kb. 200 km-re északnyugatra fekszik", "Claude Monet több mint 50 képet festett a sziklákról", "A Notre-Dame-de-la-Garde kápolna 1854 óta áll ott"], "ro": ["Stâncile de cretă se înalță până la 90 m", "Acul de stâncă L'Aiguille are 70 m înălțime", "Maurice Leblanc a scris aici bestsellerul său în 1909", "Situat la cca. 200 km nord-vest de Paris", "Claude Monet a pictat peste 50 de tablouri cu stâncile", "Capela Notre-Dame-de-la-Garde veghează din 1854"], "en": ["The chalk cliffs rise up to 90m high", "The L'Aiguille rock needle is 70m high", "Maurice Leblanc wrote his 1909 bestseller here", "Located about 200km northwest of Paris", "Claude Monet painted over 50 views of the cliffs", "The Notre-Dame-de-la-Garde chapel stands since 1854"]}, "sights": {"de": [{"name": "Falaise d'Aval", "text": "Ein markanter Kreidefelsen mit einem gewaltigen natürlichen Bogen, der unzählige Maler und Fotografen inspiriert hat.", "category": "natural features", "confidence": "high", "coords": [0.1948, 49.7064]}, {"name": "L'Aiguille", "text": "Eine freistehende, spitz zulaufende Felsnadel im Ozean, die untrennbar mit den Abenteuern von Arsène Lupin verbunden ist.", "category": "natural features", "confidence": "high", "coords": [0.20201, 49.707409]}, {"name": "Falaise d'Amont", "text": "Die nördliche Steilküste des Dorfes, auf der eine malerische Kapelle und ein Denkmal für zwei Luftfahrtpioniere thronen.", "category": "natural features", "confidence": "high", "coords": [0.20586, 49.714543]}, {"name": "Chapelle Notre-Dame de la Garde", "text": "Eine idyllisch auf den Klippen gelegene Kapelle aus Stein, die zum Gedenken an Seeleute und Fischer errichtet wurde.", "category": "churches/cathedrals", "confidence": "high", "coords": [0.20549, 49.711086]}, {"name": "Les Jardins d'Étretat", "text": "Wunderschön angelegte Gärten mit zeitgenössischen Skulpturen und spektakulären Aussichten auf die berühmten Kreidefelsen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.20775, 49.71068]}, {"name": "Le Clos Lupin", "text": "Das ehemalige Wohnhaus des Schriftstellers Maurice Leblanc, das heute als interaktives Museum für seinen Meisterdieb dient.", "category": "museums", "confidence": "high", "coords": [0.207584, 49.705964]}, {"name": "Plage d'Étretat", "text": "Eingebettet zwischen majestätischen Klippen, besticht die Plage d'Étretat durch einen breiten Kieselstrand, der die dramatische Küste der Normandie prägt. Die atemberaubende natürliche Architektur schafft eine inspirierende Kulisse für gemütliche Spaziergänge, bei denen man dem Brechen der Wellen an den Steinen lauschen kann. Es empfiehlt sich, diesen ikonischen Küstenstreifen mit festem Schuhwerk zu erkunden, um bequem über das kieselige Gelände zu gehen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.203016, 49.709526]}, {"name": "Monument Nungesser et Coli", "text": "Ein auffälliges Denkmal auf der Klippe, das an den ersten Versuch einer Non-Stop-Flugüberquerung des Atlantiks erinnert.", "category": "monuments/statues", "confidence": "medium", "coords": [0.207199, 49.71124]}, {"name": "Le Tilleul - Antifer", "text": "Le Tilleul - Antifer ist ein Strand in der Nähe von Etretat. Er bietet eine malerische Küstenumgebung.", "category": "recreational", "coords": [0.178537, 49.695841]}, {"name": "Plage du Fourquet", "text": "Die Plage du Fourquet präsentiert einen ruhigen Strandbereich entlang der schroff-schönen Küste von Etretat. Sie bietet einen Ort der puren Entspannung, an dem Besucher den geschäftigeren Bereichen entfliehen und sich mit der erfrischenden Küstenumgebung verbinden können. Ein Besuch hier ist sehr empfehlenswert für alle, die einen ruhigen Moment mit Blick auf das offene Meer genießen möchten.", "category": "recreational", "coords": [0.166808, 49.688629]}], "hu": [{"name": "Falaise d'Aval", "text": "Jellegzetes krétaszikla hatalmas természetes boltívvel, amely számtalan festőt és fényképészt inspirált az évek során.", "category": "natural features", "confidence": "high", "coords": [0.1948, 49.7064]}, {"name": "L'Aiguille", "text": "Különálló, csúcsosodó sziklatű az óceánban, amely elválaszthatatlanul összefonódott Arsène Lupin kalandjaival.", "category": "natural features", "confidence": "high", "coords": [0.20201, 49.707409]}, {"name": "Falaise d'Amont", "text": "A falu északi meredek partja, amelyen egy festői kápolna és két repülésúttörő emlékműve trónol a magasban.", "category": "natural features", "confidence": "high", "coords": [0.20586, 49.714543]}, {"name": "Chapelle Notre-Dame de la Garde", "text": "A sziklákon idillien elhelyezkedő kőkápolna, amelyet a tengerészek és halászok emlékére építettek a múlt században.", "category": "churches/cathedrals", "confidence": "high", "coords": [0.20549, 49.711086]}, {"name": "Les Jardins d'Étretat", "text": "Gyönyörűen kialakított kertek kortárs szobrokkal és látványos kilátással a híres krétasziklákra és az óceánra.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.20775, 49.71068]}, {"name": "Le Clos Lupin", "text": "Maurice Leblanc író egykori otthona, amely ma interaktív múzeumként működik híres mestertolvaja, Arsène Lupin tiszteletére.", "category": "museums", "confidence": "high", "coords": [0.207584, 49.705964]}, {"name": "Plage d'Étretat", "text": "A fenséges sziklák között megbúvó Plage d'Étretat széles kavicsos stranddal büszkélkedhet, amely meghatározza Normandia drámai partvonalát. A lélegzetelállító természetes építészet inspiráló hátteret teremt a kényelmes sétákhoz és a köveknek csapódó hullámok hallgatásához. Ezt az ikonikus partvonalat a legjobb erős cipőben felfedezni, hogy kényelmesen navigálhassunk a kavicsos terepen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.203016, 49.709526]}, {"name": "Monument Nungesser et Coli", "text": "Feltűnő emlékmű a sziklán, amely az Atlanti-óceán megszakítás nélküli átrepülésének első kísérletére emlékeztet.", "category": "monuments/statues", "confidence": "medium", "coords": [0.207199, 49.71124]}, {"name": "Le Tilleul - Antifer", "text": "A Le Tilleul - Antifer egy tengerpart Etretat közelében. Festői tengerparti környezetet kínál.", "category": "recreational", "coords": [0.178537, 49.695841]}, {"name": "Plage du Fourquet", "text": "A Plage du Fourquet egy derűs strandterületet mutat be Etretat zord szépségű partja mentén. A tiszta kikapcsolódás terét kínálja, ahol a látogatók elmenekülhetnek a forgalmasabb területek elől, és kapcsolatba léphetnek az élénkítő parti környezettel. Az itteni látogatás kifejezetten ajánlott azoknak, akik egy csendes pillanatot szeretnének élvezni a nyílt tenger felé nézve.", "category": "recreational", "coords": [0.166808, 49.688629]}], "ro": [{"name": "Falaise d'Aval", "text": "O stâncă de cretă proeminentă cu un arc natural uriaș, care a inspirat nenumărați pictori și fotografi de-a lungul anilor.", "category": "natural features", "confidence": "high", "coords": [0.1948, 49.7064]}, {"name": "L'Aiguille", "text": "Un ac de stâncă ascuțit care se înalță din ocean, inseparabil legat de aventurile celebrului personaj Arsène Lupin.", "category": "natural features", "confidence": "high", "coords": [0.20201, 49.707409]}, {"name": "Falaise d'Amont", "text": "Faleza nordică a satului, dominată de o capelă pitorească și un monument dedicat a doi pionieri ai aviației timpurii.", "category": "natural features", "confidence": "high", "coords": [0.20586, 49.714543]}, {"name": "Chapelle Notre-Dame de la Garde", "text": "O capelă de piatră situată idilic pe stânci, construită în memoria marinarilor și pescarilor locali din secolul trecut.", "category": "churches/cathedrals", "confidence": "high", "coords": [0.20549, 49.711086]}, {"name": "Les Jardins d'Étretat", "text": "Grădini frumos amenajate cu sculpturi contemporane și priveliști spectaculoase asupra celebrelor stânci de cretă.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.20775, 49.71068]}, {"name": "Le Clos Lupin", "text": "Fosta casă a scriitorului Maurice Leblanc, care servește acum ca muzeu interactiv dedicat hoțului său maestru.", "category": "museums", "confidence": "high", "coords": [0.207584, 49.705964]}, {"name": "Plage d'Étretat", "text": "Cuibărită între stânci maiestuoase, Plage d'Étretat se mândrește cu o plajă largă cu pietriș, care definește coasta dramatică a Normandiei. Arhitectura naturală uluitoare creează un fundal inspirat pentru plimbări pe îndelete și pentru a asculta valurile care se sparg de pietre. Explorarea acestui țărm emblematic se face cel mai bine cu încălțăminte de mers rezistentă, pentru a naviga confortabil pe terenul cu pietriș.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.203016, 49.709526]}, {"name": "Monument Nungesser et Coli", "text": "Un monument frapant pe stâncă, care comemorează prima încercare de a traversa Oceanul Atlantic cu un zbor non-stop.", "category": "monuments/statues", "confidence": "medium", "coords": [0.207199, 49.71124]}, {"name": "Le Tilleul - Antifer", "text": "Le Tilleul - Antifer este o plajă situată în apropiere de Etretat. Oferă un mediu de coastă pitoresc.", "category": "recreational", "coords": [0.178537, 49.695841]}, {"name": "Plage du Fourquet", "text": "Plage du Fourquet prezintă o zonă de plajă senină, situată de-a lungul coastei de o frumusețe aspră a orașului Etretat. Oferă un spațiu de pură relaxare, unde vizitatorii pot evada din zonele mai aglomerate și se pot conecta cu mediul de coastă reconfortant. O vizită aici este foarte recomandată celor care doresc să se bucure de un moment liniștit privind marea deschisă.", "category": "recreational", "coords": [0.166808, 49.688629]}], "en": [{"name": "Falaise d'Aval", "text": "A prominent chalk cliff with a massive natural arch that has inspired countless painters and photographers over the years.", "category": "natural features", "confidence": "high", "coords": [0.1948, 49.7064]}, {"name": "L'Aiguille", "text": "A free-standing, pointed rock needle in the ocean, inseparably linked to the adventures of the character Arsène Lupin.", "category": "natural features", "confidence": "high", "coords": [0.20201, 49.707409]}, {"name": "Falaise d'Amont", "text": "The northern cliff of the village, crowned by a picturesque chapel and a monument dedicated to two early aviation pioneers.", "category": "natural features", "confidence": "high", "coords": [0.20586, 49.714543]}, {"name": "Chapelle Notre-Dame de la Garde", "text": "A stone chapel idyllically situated on the cliffs, built to commemorate the local sailors and fishermen of the past century.", "category": "churches/cathedrals", "confidence": "high", "coords": [0.20549, 49.711086]}, {"name": "Les Jardins d'Étretat", "text": "Beautifully landscaped gardens featuring contemporary sculptures and spectacular views of the famous chalk cliffs.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.20775, 49.71068]}, {"name": "Le Clos Lupin", "text": "The former home of writer Maurice Leblanc, which now serves as an interactive museum dedicated to his master thief.", "category": "museums", "confidence": "high", "coords": [0.207584, 49.705964]}, {"name": "Plage d'Étretat", "text": "Nestled between majestic cliffs, Plage d'Étretat boasts a wide pebble beach that defines the dramatic Normandy coastline. The breathtaking natural architecture creates an inspiring backdrop for leisurely walks and listening to the waves crash against the stones. Exploring this iconic shoreline is best done with sturdy walking shoes to navigate the pebbled terrain comfortably.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [0.203016, 49.709526]}, {"name": "Monument Nungesser et Coli", "text": "A striking monument on the cliff, commemorating the first attempt at a non-stop flight crossing of the Atlantic Ocean.", "category": "monuments/statues", "confidence": "medium", "coords": [0.207199, 49.71124]}, {"name": "Le Tilleul - Antifer", "text": "Le Tilleul - Antifer is a beach located near Etretat. It offers a scenic coastal environment.", "category": "recreational", "coords": [0.178537, 49.695841]}, {"name": "Plage du Fourquet", "text": "Plage du Fourquet presents a serene beach area situated along the ruggedly beautiful coast of Etretat. It offers a space of pure relaxation, where visitors can escape the busier areas and connect with the bracing coastal environment. A visit here is highly recommended for those looking to enjoy a quiet moment facing the open sea.", "category": "recreational", "coords": [0.166808, 49.688629]}]}},
+  {"id": "etretat", "type": "city", "parent": "FR-NOR", "coords": [0.205, 49.7075], "population": 1233, "tier": 1, "name": {"de": "Étretat", "hu": "Étretat", "ro": "Étretat", "en": "Étretat"}, "description": {"de": "Ein spektakuläres Küstenstädtchen in der Normandie, berühmt für seine monumentalen weißen Kreidefelsen und natürlichen Bögen.", "hu": "Látványos normandiai tengerparti város, amely monumentális fehér mészkőszikláiról és természetes boltíveiről híres.", "ro": "Un oraș de coastă spectaculos din Normandia, faimos pentru stâncile sale monumentale de cretă albă și arcadele naturale.", "en": "A spectacular coastal town in Normandy, famous for its monumental white chalk cliffs and natural arches."}, "facts": {"de": ["Teil der Alabasterküste", "Berühmte Felsnadel (L'Aiguille)", "Inspirationsquelle für Claude Monet", "Schauplatz der Arsène-Lupin-Romane", "Drei markante natürliche Bögen", "Wunderschöne Kiesstrände", "Einstiges kleines Fischerdorf", "Beliebtes Ziel für Tagesausflüge"], "hu": ["Az Alabástrom-part része", "Híres sziklatű (L'Aiguille)", "Claude Monet ihletforrása", "Arsène Lupin regényeinek helyszíne", "Három jellegzetes természetes boltív", "Gyönyörű kavicsos strandok", "Egykori apró halászfalu", "Népszerű egynapos kirándulóhely"], "ro": ["Parte a Coastei de Alabastru", "Celebra stâncă ac (L'Aiguille)", "Sursă de inspirație pentru Claude Monet", "Locul de desfășurare a romanelor Arsène Lupin", "Trei arcade naturale distincte", "Plaje superbe cu pietriș", "Fost mic sat de pescari", "Destinație populară pentru excursii de o zi"], "en": ["Part of the Alabaster Coast", "Famous rock needle (L'Aiguille)", "Inspiration for Claude Monet", "Setting for Arsène Lupin novels", "Three distinctive natural arches", "Beautiful pebble beaches", "Former small fishing village", "Popular day-trip destination"]}, "image": "/geo-images/france/etretat.webp", "imageHint": "White chalk cliffs with a natural stone arch over the sea", "descriptionAdvanced": {"de": "Étretat ist das wohl ikonischste Dorf an der Alabasterküste der Normandie. Die monumentalen weißen Kreidefelsen, die das Städtchen einrahmen, sind weltberühmt. Besonders markant sind die drei natürlichen Felsentore: Porte d'Amont, Porte d'Aval und die riesige Manneporte. Direkt neben der Porte d'Aval ragt die 70 Meter hohe Felsnadel \"L'Aiguille\" aus dem Meer, die im Zentrum des Kriminalromans \"Die hohle Nadel\" von Maurice Leblanc steht. Der Ort selbst hat sich den Charme eines alten Seebads bewahrt, mit typisch normannischen Fachwerkhäusern und einer eleganten Uferpromenade. Maler wie Claude Monet und Gustave Courbet waren von den wechselnden Lichtverhältnissen auf den weißen Felsen so fasziniert, dass sie Étretat in zahlreichen Meisterwerken verewigten. Heute führen gut ausgebaute Küstenpfade oberhalb der Klippen zu atemberaubenden Aussichtspunkten, von denen man das Spiel der Gezeiten beobachten kann.", "hu": "Étretat Normandia Alabástrom-partjának legikonikusabb települése. A várost keretező monumentális fehér mészkősziklák világszerte ismertek. Különösen jellegzetes a három természetes sziklakapu: a Porte d'Amont, a Porte d'Aval és a hatalmas Manneporte. Közvetlenül a Porte d'Aval mellett magasodik a tengerből a 70 méter magas sziklatű, a \"L'Aiguille\", amely Maurice Leblanc \"A hollow needle\" (Az üreges tű) című krimijének központi helyszíne. Maga a város megőrizte a régi tengerparti üdülőhelyek báját, tipikus normann gerendás házaival és elegáns parti sétányával. Olyan festőket, mint Claude Monet és Gustave Courbet, annyira lenyűgöztek a fehér sziklákon megcsillanó fények, hogy számos remekműben örökítették meg Étretat-t. Napjainkban a sziklák tetején vezető jól kiépített part menti ösvények lélegzetelállító kilátópontokhoz vezetnek, ahonnan megfigyelhető az árapály játéka.", "ro": "Étretat este probabil cel mai iconic sat de pe Coasta de Alabastru a Normandiei. Stâncile monumentale de cretă albă care încadrează orășelul sunt renumite în întreaga lume. Deosebit de marcante sunt cele trei porți naturale din stâncă: Porte d'Amont, Porte d'Aval și uriașa Manneporte. Direct lângă Porte d'Aval se înalță din mare acul de stâncă \"L'Aiguille\", înalt de 70 de metri, care stă în centrul romanului polițist \"Acul scobit\" de Maurice Leblanc. Localitatea în sine și-a păstrat farmecul unei vechi stațiuni balneare, cu case tipic normande din lemn și o faleză elegantă. Pictori precum Claude Monet și Gustave Courbet au fost atât de fascinați de schimbările de lumină pe stâncile albe, încât au imortalizat Étretat în numeroase capodopere. Astăzi, poteci de coastă bine amenajate deasupra falezelor duc la puncte de belvedere uluitoare, de unde se poate observa jocul mareelor.", "en": "Étretat is perhaps the most iconic village on Normandy's Alabaster Coast. The monumental white chalk cliffs that frame the town are world-famous. Particularly striking are the three natural rock arches: Porte d'Amont, Porte d'Aval, and the massive Manneporte. Right next to the Porte d'Aval, the 70-meter-high rock needle \"L'Aiguille\" rises from the sea, serving as the central setting for Maurice Leblanc's detective novel \"The Hollow Needle.\" The town itself has preserved the charm of an old seaside resort, with typical Norman half-timbered houses and an elegant promenade. Painters like Claude Monet and Gustave Courbet were so fascinated by the changing light on the white cliffs that they immortalized Étretat in numerous masterpieces. Today, well-maintained coastal paths atop the cliffs lead to breathtaking viewpoints from which to watch the play of the tides."}, "factsAdvanced": {"de": ["Die Kreidefelsen ragen bis zu 90 m auf", "Die Felsnadel L'Aiguille ist 70 m hoch", "Maurice Leblanc schrieb hier 1909 seinen Bestseller", "Liegt ca. 200 km nordwestlich von Paris", "Claude Monet malte über 50 Bilder der Felsen", "Die Kapelle Notre-Dame-de-la-Garde thront seit 1854"], "hu": ["A mészkősziklák akár 90 m magasak", "A L'Aiguille sziklatű 70 méter magas", "Maurice Leblanc 1909-ben itt írta bestsellerét", "Párizstól kb. 200 km-re északnyugatra fekszik", "Claude Monet több mint 50 képet festett a sziklákról", "A Notre-Dame-de-la-Garde kápolna 1854 óta áll ott"], "ro": ["Stâncile de cretă se înalță până la 90 m", "Acul de stâncă L'Aiguille are 70 m înălțime", "Maurice Leblanc a scris aici bestsellerul său în 1909", "Situat la cca. 200 km nord-vest de Paris", "Claude Monet a pictat peste 50 de tablouri cu stâncile", "Capela Notre-Dame-de-la-Garde veghează din 1854"], "en": ["The chalk cliffs rise up to 90m high", "The L'Aiguille rock needle is 70m high", "Maurice Leblanc wrote his 1909 bestseller here", "Located about 200km northwest of Paris", "Claude Monet painted over 50 views of the cliffs", "The Notre-Dame-de-la-Garde chapel stands since 1854"]}, "sights": {
+      "de": [
+            {
+                  "name": "Falaise d'Aval",
+                  "text": "Ein markanter Kreidefelsen mit einem gewaltigen natürlichen Bogen, der unzählige Maler und Fotografen inspiriert hat.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.1948,
+                        49.7064
+                  ]
+            },
+            {
+                  "name": "L'Aiguille",
+                  "text": "Eine freistehende, spitz zulaufende Felsnadel im Ozean, die untrennbar mit den Abenteuern von Arsène Lupin verbunden ist.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20201,
+                        49.707409
+                  ]
+            },
+            {
+                  "name": "Falaise d'Amont",
+                  "text": "Die nördliche Steilküste des Dorfes, auf der eine malerische Kapelle und ein Denkmal für zwei Luftfahrtpioniere thronen.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20586,
+                        49.714543
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Garde",
+                  "text": "Eine idyllisch auf den Klippen gelegene Kapelle aus Stein, die zum Gedenken an Seeleute und Fischer errichtet wurde.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        0.20549,
+                        49.711086
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Étretat",
+                  "text": "Wunderschön angelegte Gärten mit zeitgenössischen Skulpturen und spektakulären Aussichten auf die berühmten Kreidefelsen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.20775,
+                        49.71068
+                  ]
+            },
+            {
+                  "name": "Le Clos Lupin",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Maurice Leblanc, das heute als interaktives Museum für seinen Meisterdieb dient.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        0.207584,
+                        49.705964
+                  ]
+            },
+            {
+                  "name": "Plage d'Étretat",
+                  "text": "Eingebettet zwischen majestätischen Klippen, besticht die Plage d'Étretat durch einen breiten Kieselstrand, der die dramatische Küste der Normandie prägt. Die atemberaubende natürliche Architektur schafft eine inspirierende Kulisse für gemütliche Spaziergänge, bei denen man dem Brechen der Wellen an den Steinen lauschen kann. Es empfiehlt sich, diesen ikonischen Küstenstreifen mit festem Schuhwerk zu erkunden, um bequem über das kieselige Gelände zu gehen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.203016,
+                        49.709526
+                  ]
+            },
+            {
+                  "name": "Monument Nungesser et Coli",
+                  "text": "Ein auffälliges Denkmal auf der Klippe, das an den ersten Versuch einer Non-Stop-Flugüberquerung des Atlantiks erinnert.",
+                  "category": "monuments/statues",
+                  "confidence": "medium",
+                  "coords": [
+                        0.207199,
+                        49.71124
+                  ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer ist ein Strand in der Nähe von Etretat. Er bietet eine malerische Küstenumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Die Plage du Fourquet präsentiert einen ruhigen Strandbereich entlang der schroff-schönen Küste von Etretat. Sie bietet einen Ort der puren Entspannung, an dem Besucher den geschäftigeren Bereichen entfliehen und sich mit der erfrischenden Küstenumgebung verbinden können. Ein Besuch hier ist sehr empfehlenswert für alle, die einen ruhigen Moment mit Blick auf das offene Meer genießen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
+            },
+            {
+                  "name": "Chateau de Benouville",
+                  "text": "Ein historisches Schloss in der Nähe der berühmten Kreidefelsen von Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.243914,
+                        49.714739
+                  ]
+            },
+            {
+                  "name": "Chateau de Frefosse",
+                  "text": "Ein im Renaissancestil erbautes Schloss in der Nähe der Gemeinde Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.206782,
+                        49.69322
+                  ]
+            },
+            {
+                  "name": "Chateau des Aygues",
+                  "text": "Ein elegantes Schloss aus dem 19. Jahrhundert, das in der Küstenregion von Étretat liegt.",
+                  "category": "castle",
+                  "coords": [
+                        0.213654,
+                        49.70504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falaise d'Aval",
+                  "text": "Jellegzetes krétaszikla hatalmas természetes boltívvel, amely számtalan festőt és fényképészt inspirált az évek során.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.1948,
+                        49.7064
+                  ]
+            },
+            {
+                  "name": "L'Aiguille",
+                  "text": "Különálló, csúcsosodó sziklatű az óceánban, amely elválaszthatatlanul összefonódott Arsène Lupin kalandjaival.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20201,
+                        49.707409
+                  ]
+            },
+            {
+                  "name": "Falaise d'Amont",
+                  "text": "A falu északi meredek partja, amelyen egy festői kápolna és két repülésúttörő emlékműve trónol a magasban.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20586,
+                        49.714543
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Garde",
+                  "text": "A sziklákon idillien elhelyezkedő kőkápolna, amelyet a tengerészek és halászok emlékére építettek a múlt században.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        0.20549,
+                        49.711086
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Étretat",
+                  "text": "Gyönyörűen kialakított kertek kortárs szobrokkal és látványos kilátással a híres krétasziklákra és az óceánra.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.20775,
+                        49.71068
+                  ]
+            },
+            {
+                  "name": "Le Clos Lupin",
+                  "text": "Maurice Leblanc író egykori otthona, amely ma interaktív múzeumként működik híres mestertolvaja, Arsène Lupin tiszteletére.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        0.207584,
+                        49.705964
+                  ]
+            },
+            {
+                  "name": "Plage d'Étretat",
+                  "text": "A fenséges sziklák között megbúvó Plage d'Étretat széles kavicsos stranddal büszkélkedhet, amely meghatározza Normandia drámai partvonalát. A lélegzetelállító természetes építészet inspiráló hátteret teremt a kényelmes sétákhoz és a köveknek csapódó hullámok hallgatásához. Ezt az ikonikus partvonalat a legjobb erős cipőben felfedezni, hogy kényelmesen navigálhassunk a kavicsos terepen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.203016,
+                        49.709526
+                  ]
+            },
+            {
+                  "name": "Monument Nungesser et Coli",
+                  "text": "Feltűnő emlékmű a sziklán, amely az Atlanti-óceán megszakítás nélküli átrepülésének első kísérletére emlékeztet.",
+                  "category": "monuments/statues",
+                  "confidence": "medium",
+                  "coords": [
+                        0.207199,
+                        49.71124
+                  ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "A Le Tilleul - Antifer egy tengerpart Etretat közelében. Festői tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "A Plage du Fourquet egy derűs strandterületet mutat be Etretat zord szépségű partja mentén. A tiszta kikapcsolódás terét kínálja, ahol a látogatók elmenekülhetnek a forgalmasabb területek elől, és kapcsolatba léphetnek az élénkítő parti környezettel. Az itteni látogatás kifejezetten ajánlott azoknak, akik egy csendes pillanatot szeretnének élvezni a nyílt tenger felé nézve.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
+            },
+            {
+                  "name": "Chateau de Benouville",
+                  "text": "Történelmi kastély Étretat híres szikláinak közelében.",
+                  "category": "castle",
+                  "coords": [
+                        0.243914,
+                        49.714739
+                  ]
+            },
+            {
+                  "name": "Chateau de Frefosse",
+                  "text": "Reneszánsz stílusú kastély Étretat község közelében.",
+                  "category": "castle",
+                  "coords": [
+                        0.206782,
+                        49.69322
+                  ]
+            },
+            {
+                  "name": "Chateau des Aygues",
+                  "text": "Elegáns 19. századi kastély Étretat tengerparti régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        0.213654,
+                        49.70504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falaise d'Aval",
+                  "text": "O stâncă de cretă proeminentă cu un arc natural uriaș, care a inspirat nenumărați pictori și fotografi de-a lungul anilor.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.1948,
+                        49.7064
+                  ]
+            },
+            {
+                  "name": "L'Aiguille",
+                  "text": "Un ac de stâncă ascuțit care se înalță din ocean, inseparabil legat de aventurile celebrului personaj Arsène Lupin.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20201,
+                        49.707409
+                  ]
+            },
+            {
+                  "name": "Falaise d'Amont",
+                  "text": "Faleza nordică a satului, dominată de o capelă pitorească și un monument dedicat a doi pionieri ai aviației timpurii.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20586,
+                        49.714543
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Garde",
+                  "text": "O capelă de piatră situată idilic pe stânci, construită în memoria marinarilor și pescarilor locali din secolul trecut.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        0.20549,
+                        49.711086
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Étretat",
+                  "text": "Grădini frumos amenajate cu sculpturi contemporane și priveliști spectaculoase asupra celebrelor stânci de cretă.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.20775,
+                        49.71068
+                  ]
+            },
+            {
+                  "name": "Le Clos Lupin",
+                  "text": "Fosta casă a scriitorului Maurice Leblanc, care servește acum ca muzeu interactiv dedicat hoțului său maestru.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        0.207584,
+                        49.705964
+                  ]
+            },
+            {
+                  "name": "Plage d'Étretat",
+                  "text": "Cuibărită între stânci maiestuoase, Plage d'Étretat se mândrește cu o plajă largă cu pietriș, care definește coasta dramatică a Normandiei. Arhitectura naturală uluitoare creează un fundal inspirat pentru plimbări pe îndelete și pentru a asculta valurile care se sparg de pietre. Explorarea acestui țărm emblematic se face cel mai bine cu încălțăminte de mers rezistentă, pentru a naviga confortabil pe terenul cu pietriș.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.203016,
+                        49.709526
+                  ]
+            },
+            {
+                  "name": "Monument Nungesser et Coli",
+                  "text": "Un monument frapant pe stâncă, care comemorează prima încercare de a traversa Oceanul Atlantic cu un zbor non-stop.",
+                  "category": "monuments/statues",
+                  "confidence": "medium",
+                  "coords": [
+                        0.207199,
+                        49.71124
+                  ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer este o plajă situată în apropiere de Etretat. Oferă un mediu de coastă pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Plage du Fourquet prezintă o zonă de plajă senină, situată de-a lungul coastei de o frumusețe aspră a orașului Etretat. Oferă un spațiu de pură relaxare, unde vizitatorii pot evada din zonele mai aglomerate și se pot conecta cu mediul de coastă reconfortant. O vizită aici este foarte recomandată celor care doresc să se bucure de un moment liniștit privind marea deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
+            },
+            {
+                  "name": "Chateau de Benouville",
+                  "text": "Un castel istoric situat în apropierea celebrelor faleze din Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.243914,
+                        49.714739
+                  ]
+            },
+            {
+                  "name": "Chateau de Frefosse",
+                  "text": "Un castel în stil renascentist situat în apropierea localității Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.206782,
+                        49.69322
+                  ]
+            },
+            {
+                  "name": "Chateau des Aygues",
+                  "text": "Un castel elegant din secolul al XIX-lea, situat în regiunea de coastă a Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.213654,
+                        49.70504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falaise d'Aval",
+                  "text": "A prominent chalk cliff with a massive natural arch that has inspired countless painters and photographers over the years.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.1948,
+                        49.7064
+                  ]
+            },
+            {
+                  "name": "L'Aiguille",
+                  "text": "A free-standing, pointed rock needle in the ocean, inseparably linked to the adventures of the character Arsène Lupin.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20201,
+                        49.707409
+                  ]
+            },
+            {
+                  "name": "Falaise d'Amont",
+                  "text": "The northern cliff of the village, crowned by a picturesque chapel and a monument dedicated to two early aviation pioneers.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "coords": [
+                        0.20586,
+                        49.714543
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame de la Garde",
+                  "text": "A stone chapel idyllically situated on the cliffs, built to commemorate the local sailors and fishermen of the past century.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        0.20549,
+                        49.711086
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Étretat",
+                  "text": "Beautifully landscaped gardens featuring contemporary sculptures and spectacular views of the famous chalk cliffs.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.20775,
+                        49.71068
+                  ]
+            },
+            {
+                  "name": "Le Clos Lupin",
+                  "text": "The former home of writer Maurice Leblanc, which now serves as an interactive museum dedicated to his master thief.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        0.207584,
+                        49.705964
+                  ]
+            },
+            {
+                  "name": "Plage d'Étretat",
+                  "text": "Nestled between majestic cliffs, Plage d'Étretat boasts a wide pebble beach that defines the dramatic Normandy coastline. The breathtaking natural architecture creates an inspiring backdrop for leisurely walks and listening to the waves crash against the stones. Exploring this iconic shoreline is best done with sturdy walking shoes to navigate the pebbled terrain comfortably.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        0.203016,
+                        49.709526
+                  ]
+            },
+            {
+                  "name": "Monument Nungesser et Coli",
+                  "text": "A striking monument on the cliff, commemorating the first attempt at a non-stop flight crossing of the Atlantic Ocean.",
+                  "category": "monuments/statues",
+                  "confidence": "medium",
+                  "coords": [
+                        0.207199,
+                        49.71124
+                  ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer is a beach located near Etretat. It offers a scenic coastal environment.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Plage du Fourquet presents a serene beach area situated along the ruggedly beautiful coast of Etretat. It offers a space of pure relaxation, where visitors can escape the busier areas and connect with the bracing coastal environment. A visit here is highly recommended for those looking to enjoy a quiet moment facing the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
+            },
+            {
+                  "name": "Chateau de Benouville",
+                  "text": "A historical castle located near the famous cliffs of Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.243914,
+                        49.714739
+                  ]
+            },
+            {
+                  "name": "Chateau de Frefosse",
+                  "text": "A Renaissance-style castle located near the commune of Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.206782,
+                        49.69322
+                  ]
+            },
+            {
+                  "name": "Chateau des Aygues",
+                  "text": "An elegant 19th-century castle located in the coastal region of Étretat.",
+                  "category": "castle",
+                  "coords": [
+                        0.213654,
+                        49.70504
+                  ]
+            }
+      ]
+}},
   {"id": "eze", "type": "city", "parent": "FR-PAC", "coords": [7.3608, 43.7281], "population": 2876, "tier": 1, "name": {"de": "Èze", "hu": "Èze", "ro": "Èze", "en": "Èze"}, "description": {"de": "Èze ist ein spektakuläres mittelalterliches Dorf, das wie ein Adlernest auf einer Klippe über dem Mittelmeer thront und für seine atemberaubenden Aussichten bekannt ist.", "hu": "Èze egy lenyűgöző középkori falu, amely sasfészekként kapaszkodik a sziklákba a Földközi-tenger felett, páratlan panorámát kínálva a Riviérára.", "ro": "Èze este un sat medieval spectaculos, cocoțat ca un cuib de vultur pe o stâncă deasupra Mediteranei, renumit pentru vederile sale uluitoare.", "en": "Èze is a spectacular medieval hilltop village, perched like an eagle's nest on a cliff high above the Mediterranean Sea, offering unrivaled Riviera views."}, "facts": {"de": ["Mittelalterliches Dorf auf 427 m Höhe", "Auto-freier historischer Kern", "Botanischer Garten (Jardin Exotique) oben", "Berühmter Wanderweg 'Chemin de Nietzsche'", "Panoramablick bis nach Korsika (bei klarer Sicht)", "Bekannt für Parfümerien (Fragonard, Galimard)", "Einst Teil der Grafschaft Nizza", "Luxushotels in historischen Gebäuden"], "hu": ["Középkori falu 427 méter magasan", "Autómentes, köves történelmi központ", "Egzotikus kert (Jardin Exotique) a csúcson", "A híres Nietzsche-ösvény helyszíne", "Kilátás tiszta időben egészen Korzikáig", "Híres parfümgyárak (Fragonard, Galimard)", "Egykor a Nizzai Grófság része volt", "Luxusszállodák történelmi palotákban"], "ro": ["Sat medieval la 427 m altitudine", "Centru istoric pietonal complet", "Grădină Exotică situată în cel mai înalt punct", "Traseul faimos 'Chemin de Nietzsche'", "Vedere până în Corsica în zilele senine", "Centru al parfumeriei (Fragonard, Galimard)", "Fostă parte a Comitatului Nisa", "Hoteluri de lux în clădiri istorice"], "en": ["Medieval village at 427m elevation", "Car-free pedestrian historical center", "Exotic Garden (Jardin Exotique) at the top", "Site of the famous 'Nietzsche Path'", "Views reaching Corsica on clear days", "Famous for perfume houses (Fragonard, Galimard)", "Formerly part of the County of Nice", "Luxury hotels housed in historic buildings"]}, "image": "/geo-images/france/eze.webp", "imageHint": "The perched village of Èze overlooking the blue Mediterranean Sea", "descriptionAdvanced": {"de": "Èze-Village ist eines der meistfotografierten Motive der Côte d'Azur. Das Dorf scheint direkt aus dem Felsen gewachsen zu sein und bietet eine Zeitreise in das Mittelalter mit seinen schmalen, gewundenen Gassen und Torbögen. Auf dem höchsten Punkt, wo einst eine Burg stand, befindet sich heute der Jardin Exotique, eine beeindruckende Sammlung von Sukkulenten und Kakteen, die einen der besten Ausblicke der Welt auf die Halbinsel Saint-Jean-Cap-Ferrat bietet. Ein bekannter Besucher war der Philosoph Friedrich Nietzsche, der hier Teile von 'Also sprach Zarathustra' konzipierte; nach ihm ist der steile Wanderweg benannt, der das Höhendorf mit Èze-sur-Mer an der Küste verbindet. Neben dem Tourismus ist Èze für seine Parfümerietradition bekannt, wobei Fragonard und Galimard hier Labore und Verkaufsräume unterhalten. Trotz seiner geringen Größe beherbergt der Ort zwei der exklusivsten Hotels der Welt, die in alten Adelshäusern untergebracht sind.", "hu": "Èze-Village a Francia Riviéra egyik leglátványosabb 'sasfészke', amely 427 méterrel emelkedik a tenger fölé. A falu labirintusszerű, macskaköves utcái teljesen autómentesek, tele vannak művészeti galériákkal és apró butikokkal. A település legmagasabb pontján, az egykori várromok helyén ma egy egzotikus kert (Jardin Exotique) található, ahol ritka kaktuszok között sétálva élvezhetjük a lélegzetelállító panorámát Saint-Jean-Cap-Ferrat irányába. A legenda szerint Friedrich Nietzsche itt, a faluból a tengerpartra vezető meredek ösvényen túrázva kapott ihletet az 'Imigyen szóla Zarathustra' megírásához; az ösvény ma az ő nevét viseli. Èze nemcsak látványáról, hanem parfümgyártásáról is híres, hiszen a Fragonard és a Galimard is rendelkezik itt bemutatótermekkel. A falu két világhírű luxusszállodája, a Château de la Chèvre d'Or és a Château Eza, a legmagasabb szintű eleganciát képviseli.", "ro": "Èze este unul dintre cele mai frumoase 'sate suspendate' din sudul Franței, oferind o perspectivă dramatică asupra peninsulei Saint-Jean-Cap-Ferrat. Construit pe o stâncă abruptă, satul medieval este o rețea de străduțe pietonale întortocheate, unde arcadele de piatră și florile de bougainvillea creează un decor de poveste. În vârful satului, Grădina Exotică ocupă locul fostei cetăți, oferind o colecție impresionantă de cactuși și sculpturi, fiind punctul ideal pentru fotografii panoramice. Filozoful Friedrich Nietzsche a locuit aici și a parcurs frecvent poteca abruptă ce coboară spre mare, traseu care îi poartă astăzi numele. Satul atrage vizitatorii și prin tradiția sa în parfumerie, fabricile Fragonard și Galimard fiind opriri obligatorii pentru amatorii de esențe fine. Deși mic, Èze este un simbol al luxului discret, găzduind hoteluri de renume mondial instalate în foste reședințe nobiliare.", "en": "Èze-Village is a crown jewel of the French Riviera, perched 427 meters above the Mediterranean. This car-free medieval village is famous for its narrow, winding cobblestone streets, stone houses, and abundance of blooming flowers. At the very peak of the village, the Jardin Exotique (Exotic Garden) sits on the site of a ruined fortress, providing a spectacular collection of succulents and some of the most famous views of the French coastline towards Cap Ferrat. The village is famously linked to Friedrich Nietzsche, who climbed the steep path from the shore to the village while composing parts of 'Thus Spoke Zarathustra'; this path is now a popular hiking route known as the Chemin de Nietzsche. Èze is also a center for French perfume making, with prominent houses like Fragonard and Galimard operating laboratories here. The village is home to prestigious hotels like the Château de la Chèvre d'Or, making it a favorite for high-end travelers."}, "factsAdvanced": {"de": ["Jardin Exotique wurde 1949 von Jean Gastaud angelegt", "Dorf wurde 1860 offiziell Teil Frankreichs", "Chemin de Nietzsche überwindet 400 Höhenmeter", "Kirche Notre-Dame de l'Assomption stammt aus 1764", "Château de la Chèvre d'Or ist ein 5-Sterne-Haus", "Zahlreiche Künstlerateliers in den alten Ställen"], "hu": ["A Jardin Exotique kertet 1949-ben alapították", "A falu 1860-ban lett hivatalosan Franciaország része", "A Nietzsche-ösvény szintkülönbsége 400 méter", "A Notre-Dame de l'Assomption templom 1764-ben épült", "Itt található a világhírű Chèvre d'Or luxushotel", "Számos művészeti galéria működik a régi istállókban"], "ro": ["Grădina Exotică a fost creată în 1949 de Jean Gastaud", "Satul a devenit parte a Franței în anul 1860", "Poteca lui Nietzsche are o diferență de nivel de 400m", "Biserica Notre-Dame de l'Assomption datează din 1764", "Găzduiește hotelul de 5 stele Château de la Chèvre d'Or", "Multe ateliere de artă sunt amenajate în vechi grajduri"], "en": ["The Exotic Garden was created in 1949 by Jean Gastaud", "Èze officially became part of France in 1860", "The Nietzsche path has a vertical rise of 400 meters", "The Notre-Dame de l'Assomption church dates to 1764", "Home to the world-renowned Chèvre d'Or luxury hotel", "Many art galleries are housed in former village stables"]}, "sights": {
       "de": [
             {
@@ -7412,6 +10163,60 @@ export const poiExtraFrV2: POI[] = [
                         2.034487,
                         42.520428
                   ]
+            },
+            {
+                  "name": "Dolmen del Pujolet",
+                  "text": "Ein prähistorisches Megalithgrab in der Region Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.017952,
+                        42.499201
+                  ]
+            },
+            {
+                  "name": "Domen d'Eguet",
+                  "text": "Eine archäologische Stätte mit einem prähistorischen Megalithen in Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.01781,
+                        42.501675
+                  ]
+            },
+            {
+                  "name": "Menhir d'Odello",
+                  "text": "Ein prähistorischer Menhir (Hinkelstein) im Dorf Odeillo.",
+                  "category": "historical",
+                  "coords": [
+                        2.0458,
+                        42.505308
+                  ]
+            },
+            {
+                  "name": "Dolmen de l'Arrel",
+                  "text": "Ein prähistorisches Steinmonument und eine archäologische Stätte in Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.006064,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Serrat de l'Os",
+                  "text": "Ein Berggipfel in den östlichen Pyrenäen in der Nähe von Font-Romeu-Odeillo-Via.",
+                  "category": "landmark",
+                  "coords": [
+                        2.053996,
+                        42.525639
+                  ]
+            },
+            {
+                  "name": "Col del Pam",
+                  "text": "Ein Gebirgspass und Aussichtspunkt with Panoramablick auf die Pyrenäen.",
+                  "category": "natural",
+                  "coords": [
+                        2.044217,
+                        42.534341
+                  ]
             }
       ],
       "hu": [
@@ -7483,6 +10288,60 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         2.034487,
                         42.520428
+                  ]
+            },
+            {
+                  "name": "Dolmen del Pujolet",
+                  "text": "Prehisztorikus megalitikus sír Font-Romeu-Odeillo-Via régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        2.017952,
+                        42.499201
+                  ]
+            },
+            {
+                  "name": "Domen d'Eguet",
+                  "text": "Régészeti lelőhely egy prehisztorikus megalittal Font-Romeu-Odeillo-Via-ban.",
+                  "category": "historical",
+                  "coords": [
+                        2.01781,
+                        42.501675
+                  ]
+            },
+            {
+                  "name": "Menhir d'Odello",
+                  "text": "Prehisztorikus álló kő (menhir) Odeillo faluban.",
+                  "category": "historical",
+                  "coords": [
+                        2.0458,
+                        42.505308
+                  ]
+            },
+            {
+                  "name": "Dolmen de l'Arrel",
+                  "text": "Prehisztorikus kőemlék és régészeti lelőhely Font-Romeu-Odeillo-Via-ban.",
+                  "category": "historical",
+                  "coords": [
+                        2.006064,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Serrat de l'Os",
+                  "text": "Hegycsúcs a Keleti-Pireneusokban, Font-Romeu-Odeillo-Via közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.053996,
+                        42.525639
+                  ]
+            },
+            {
+                  "name": "Col del Pam",
+                  "text": "Hegyi hágó és kilátópont, ahonnan panorámás kilátás nyílik a Pireneusokra.",
+                  "category": "natural",
+                  "coords": [
+                        2.044217,
+                        42.534341
                   ]
             }
       ],
@@ -7556,6 +10415,60 @@ export const poiExtraFrV2: POI[] = [
                         2.034487,
                         42.520428
                   ]
+            },
+            {
+                  "name": "Dolmen del Pujolet",
+                  "text": "Un mormânt megalitic preistoric situat în regiunea Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.017952,
+                        42.499201
+                  ]
+            },
+            {
+                  "name": "Domen d'Eguet",
+                  "text": "Un sit arheologic cu un megalit preistoric în Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.01781,
+                        42.501675
+                  ]
+            },
+            {
+                  "name": "Menhir d'Odello",
+                  "text": "Un menhir preistoric situat în satul Odeillo.",
+                  "category": "historical",
+                  "coords": [
+                        2.0458,
+                        42.505308
+                  ]
+            },
+            {
+                  "name": "Dolmen de l'Arrel",
+                  "text": "Un monument preistoric din piatră și sit arheologic în Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.006064,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Serrat de l'Os",
+                  "text": "Un vârf montan în Pirineii Orientali, lângă Font-Romeu-Odeillo-Via.",
+                  "category": "landmark",
+                  "coords": [
+                        2.053996,
+                        42.525639
+                  ]
+            },
+            {
+                  "name": "Col del Pam",
+                  "text": "O trecătoare montană și punct de belvedere care oferă vederi panoramice asupra Pirineilor.",
+                  "category": "natural",
+                  "coords": [
+                        2.044217,
+                        42.534341
+                  ]
             }
       ],
       "en": [
@@ -7627,6 +10540,60 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         2.034487,
                         42.520428
+                  ]
+            },
+            {
+                  "name": "Dolmen del Pujolet",
+                  "text": "A prehistoric megalithic tomb located in the Font-Romeu-Odeillo-Via region.",
+                  "category": "historical",
+                  "coords": [
+                        2.017952,
+                        42.499201
+                  ]
+            },
+            {
+                  "name": "Domen d'Eguet",
+                  "text": "An archaeological site featuring a prehistoric megalith in Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.01781,
+                        42.501675
+                  ]
+            },
+            {
+                  "name": "Menhir d'Odello",
+                  "text": "A prehistoric standing stone located in the village of Odeillo.",
+                  "category": "historical",
+                  "coords": [
+                        2.0458,
+                        42.505308
+                  ]
+            },
+            {
+                  "name": "Dolmen de l'Arrel",
+                  "text": "A prehistoric stone monument and archaeological site in Font-Romeu-Odeillo-Via.",
+                  "category": "historical",
+                  "coords": [
+                        2.006064,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Serrat de l'Os",
+                  "text": "A mountain peak in the eastern Pyrenees near Font-Romeu-Odeillo-Via.",
+                  "category": "landmark",
+                  "coords": [
+                        2.053996,
+                        42.525639
+                  ]
+            },
+            {
+                  "name": "Col del Pam",
+                  "text": "A mountain pass and viewpoint offering panoramic vistas of the Pyrenees.",
+                  "category": "natural",
+                  "coords": [
+                        2.044217,
+                        42.534341
                   ]
             }
       ]
@@ -7701,6 +10668,33 @@ export const poiExtraFrV2: POI[] = [
                         5.115172,
                         43.918246
                   ]
+            },
+            {
+                  "name": "Chateau de Lagnes",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die über dem Dorf Fontaine-de-Vaucluse thronen.",
+                  "category": "castle",
+                  "coords": [
+                        5.114973,
+                        43.894352
+                  ]
+            },
+            {
+                  "name": "Musee d'histoire 39-45",
+                  "text": "Ein Museum, das sich mit der lokalen Geschichte während des Zweiten Weltkriegs beschäftigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.130335,
+                        43.922036
+                  ]
+            },
+            {
+                  "name": "Oppidum de Bondelon",
+                  "text": "Die Überreste einer antiken befestigten Siedlung auf einer Anhöhe bei Fontaine-de-Vaucluse.",
+                  "category": "fortress",
+                  "coords": [
+                        5.118784,
+                        43.910876
+                  ]
             }
       ],
       "hu": [
@@ -7771,6 +10765,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.115172,
                         43.918246
+                  ]
+            },
+            {
+                  "name": "Chateau de Lagnes",
+                  "text": "Egy középkori vár romjai, amelyek Fontaine-de-Vaucluse faluja felett trónolnak.",
+                  "category": "castle",
+                  "coords": [
+                        5.114973,
+                        43.894352
+                  ]
+            },
+            {
+                  "name": "Musee d'histoire 39-45",
+                  "text": "Múzeum, amely a második világháború alatti helyi történelemmel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        5.130335,
+                        43.922036
+                  ]
+            },
+            {
+                  "name": "Oppidum de Bondelon",
+                  "text": "Egy ókori erődített település maradványai egy dombtetőn Fontaine-de-Vaucluse közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        5.118784,
+                        43.910876
                   ]
             }
       ],
@@ -7843,6 +10864,33 @@ export const poiExtraFrV2: POI[] = [
                         5.115172,
                         43.918246
                   ]
+            },
+            {
+                  "name": "Chateau de Lagnes",
+                  "text": "Ruinele unui castel medieval care domină satul Fontaine-de-Vaucluse.",
+                  "category": "castle",
+                  "coords": [
+                        5.114973,
+                        43.894352
+                  ]
+            },
+            {
+                  "name": "Musee d'histoire 39-45",
+                  "text": "Un muzeu care se ocupă cu istoria locală din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        5.130335,
+                        43.922036
+                  ]
+            },
+            {
+                  "name": "Oppidum de Bondelon",
+                  "text": "Rămășițele unei așezări fortificate antice pe o înălțime lângă Fontaine-de-Vaucluse.",
+                  "category": "fortress",
+                  "coords": [
+                        5.118784,
+                        43.910876
+                  ]
             }
       ],
       "en": [
@@ -7913,6 +10961,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.115172,
                         43.918246
+                  ]
+            },
+            {
+                  "name": "Chateau de Lagnes",
+                  "text": "The ruins of a medieval castle perched above the village of Fontaine-de-Vaucluse.",
+                  "category": "castle",
+                  "coords": [
+                        5.114973,
+                        43.894352
+                  ]
+            },
+            {
+                  "name": "Musee d'histoire 39-45",
+                  "text": "A museum dealing with the local history during the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        5.130335,
+                        43.922036
+                  ]
+            },
+            {
+                  "name": "Oppidum de Bondelon",
+                  "text": "The remains of an ancient fortified settlement on a hill near Fontaine-de-Vaucluse.",
+                  "category": "fortress",
+                  "coords": [
+                        5.118784,
+                        43.910876
                   ]
             }
       ]
@@ -8895,6 +11970,24 @@ export const poiExtraFrV2: POI[] = [
                         1.490534,
                         49.091972
                   ]
+            },
+            {
+                  "name": "Theatre du Lion",
+                  "text": "Ein lokales Theater, das kulturelle Unterhaltung im Dorf Giverny bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        1.489449,
+                        49.082067
+                  ]
+            },
+            {
+                  "name": "Musee de mecanique naturelle",
+                  "text": "Ein Museum in Giverny, das sich der natürlichen Mechanik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        1.529068,
+                        49.077279
+                  ]
             }
       ],
       "hu": [
@@ -8975,6 +12068,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         1.490534,
                         49.091972
+                  ]
+            },
+            {
+                  "name": "Theatre du Lion",
+                  "text": "Helyi színház, amely kulturális szórakozást nyújt Giverny faluban.",
+                  "category": "cultural",
+                  "coords": [
+                        1.489449,
+                        49.082067
+                  ]
+            },
+            {
+                  "name": "Musee de mecanique naturelle",
+                  "text": "Giverny-i múzeum, amely a természetes mechanikát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.529068,
+                        49.077279
                   ]
             }
       ],
@@ -9057,6 +12168,24 @@ export const poiExtraFrV2: POI[] = [
                         1.490534,
                         49.091972
                   ]
+            },
+            {
+                  "name": "Theatre du Lion",
+                  "text": "O sală de teatru locală care oferă divertisment cultural în satul Giverny.",
+                  "category": "cultural",
+                  "coords": [
+                        1.489449,
+                        49.082067
+                  ]
+            },
+            {
+                  "name": "Musee de mecanique naturelle",
+                  "text": "Un muzeu în Giverny dedicat mecanicii naturale.",
+                  "category": "museum",
+                  "coords": [
+                        1.529068,
+                        49.077279
+                  ]
             }
       ],
       "en": [
@@ -9137,6 +12266,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         1.490534,
                         49.091972
+                  ]
+            },
+            {
+                  "name": "Theatre du Lion",
+                  "text": "A local theatre venue providing cultural entertainment in the village of Giverny.",
+                  "category": "cultural",
+                  "coords": [
+                        1.489449,
+                        49.082067
+                  ]
+            },
+            {
+                  "name": "Musee de mecanique naturelle",
+                  "text": "A museum in Giverny dedicated to natural mechanics.",
+                  "category": "museum",
+                  "coords": [
+                        1.529068,
+                        49.077279
                   ]
             }
       ]
@@ -9221,6 +12368,24 @@ export const poiExtraFrV2: POI[] = [
                         5.177405,
                         43.886808
                   ]
+            },
+            {
+                  "name": "La Debroussede",
+                  "text": "Die Überreste einer historischen Stätte in der ländlichen Umgebung von Gordes.",
+                  "category": "historical",
+                  "coords": [
+                        5.179249,
+                        43.923331
+                  ]
+            },
+            {
+                  "name": "Moulin a huile",
+                  "text": "Die Ruinen einer alten Ölmühle, die von der handwerklichen Tradition in Gordes zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        5.183559,
+                        43.900641
+                  ]
             }
       ],
       "hu": [
@@ -9301,6 +12466,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.177405,
                         43.886808
+                  ]
+            },
+            {
+                  "name": "La Debroussede",
+                  "text": "Egy történelmi helyszín maradványai Gordes vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        5.179249,
+                        43.923331
+                  ]
+            },
+            {
+                  "name": "Moulin a huile",
+                  "text": "Egy régi olajmalom romjai, amelyek a gordes-i kézműves hagyományokról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        5.183559,
+                        43.900641
                   ]
             }
       ],
@@ -9383,6 +12566,24 @@ export const poiExtraFrV2: POI[] = [
                         5.177405,
                         43.886808
                   ]
+            },
+            {
+                  "name": "La Debroussede",
+                  "text": "Ruinele unui sit istoric în împrejurimile rurale ale localității Gordes.",
+                  "category": "historical",
+                  "coords": [
+                        5.179249,
+                        43.923331
+                  ]
+            },
+            {
+                  "name": "Moulin a huile",
+                  "text": "Ruinele unei vechi mori de ulei, care atestă tradiția meșteșugărească din Gordes.",
+                  "category": "historical",
+                  "coords": [
+                        5.183559,
+                        43.900641
+                  ]
             }
       ],
       "en": [
@@ -9463,6 +12664,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.177405,
                         43.886808
+                  ]
+            },
+            {
+                  "name": "La Debroussede",
+                  "text": "The ruins of a historical site in the rural surroundings of Gordes.",
+                  "category": "historical",
+                  "coords": [
+                        5.179249,
+                        43.923331
+                  ]
+            },
+            {
+                  "name": "Moulin a huile",
+                  "text": "The ruins of an old oil mill testifying to the artisanal tradition in Gordes.",
+                  "category": "historical",
+                  "coords": [
+                        5.183559,
+                        43.900641
                   ]
             }
       ]
@@ -10725,7 +13944,1580 @@ export const poiExtraFrV2: POI[] = [
             }
       ]
 }},
-  {"id": "ile-de-re", "type": "city", "parent": "FR-NAQ", "coords": [-1.4017, 46.2014], "population": 18000, "tier": 1, "name": {"de": "Île de Ré", "hu": "Île de Ré", "ro": "Île de Ré", "en": "Île de Ré"}, "description": {"de": "Eine charmante Insel im Atlantik, bekannt für ihre weißen Häuser mit grünen Fensterläden, weite Salzwiesen und endlose Radwege.", "hu": "Varázslatos sziget az Atlanti-óceánban, amely fehér házairól, zöld spalettáiról, kiterjedt sólepárlóiról és végtelen kerékpárútjairól híres.", "ro": "O insulă fermecătoare din Atlantic, cunoscută pentru casele sale albe cu obloane verzi, mlaștinile sărate și pistele nesfârșite de biciclete.", "en": "A charming Atlantic island famous for its white-washed houses with green shutters, vast salt marshes, and endless cycling paths."}, "facts": {"de": ["3 km lange Brücke", "10 idyllische Dörfer", "Hauptstadt Saint-Martin", "Vauban-Festungsanlagen", "Phare des Baleines", "Salzgewinnung", "Esel mit Hosen", "100 km Radwege"], "hu": ["3 km hosszú híd köti össze", "10 festői falu", "Fővárosa Saint-Martin-de-Ré", "Vauban-erődítmények", "Phare des Baleines világítótorony", "Hagyományos sótermelés", "Nadrágos szamarak", "100 km kerékpárút"], "ro": ["Pod lung de 3 km", "10 sate idilice", "Capitala Saint-Martin-de-Ré", "Fortificații Vauban (UNESCO)", "Farul Phare des Baleines", "Producție tradițională de sare", "Măgăriți cu pantaloni", "100 km de piste de biciclete"], "en": ["Connected by a 3km bridge", "10 picturesque villages", "Capital Saint-Martin-de-Ré", "Vauban fortifications (UNESCO)", "Phare des Baleines lighthouse", "Traditional salt production", "Donkeys in trousers", "100 km of cycling paths"]}, "image": "/geo-images/france/ile-de-re.webp", "imageHint": "Aerial view of the fortifications of Saint-Martin-de-Ré and the harbor", "descriptionAdvanced": {"de": "Die Île de Ré, oft 'La Blanche' (Die Weiße) genannt, ist ein flaches Inselparadies vor der Küste von La Rochelle. Sie ist durch eine imposante, drei Kilometer lange Brücke mit dem Festland verbunden. Die Insel zeichnet sich durch eine strenge Architekturvorgabe aus: weiße Fassaden und grüne oder blaue Fensterläden, die den zehn Dörfern ein harmonisches Bild verleihen. Saint-Martin-de-Ré, der Hauptort, beeindruckt mit seinen sternförmigen Festungsanlagen von Vauban, die zum UNESCO-Welterbe gehören. Die Wirtschaft der Insel basiert auf dem Tourismus, der Austernzucht und der traditionellen Gewinnung von Meersalz in den weiten Salzwiesen im Norden. Einzigartig sind die 'Esel mit Hosen', die einst zum Schutz vor Insekten in den Salzwiesen bekleidet wurden und heute als Maskottchen der Insel gelten. Mit über 100 Kilometern Radwegen ist das Fahrrad das bevorzugte Fortbewegungsmittel.", "hu": "Az Île de Ré, vagyis a 'Fehér Sziget', Franciaország egyik legexkluzívabb és legtermészetesebb üdülőhelye La Rochelle partjainál. A szigetet 1988 óta egy 3 kilométeres híd köti össze a szárazfölddel. A tíz település mindegyike megőrizte egységes arculatát: alacsony, fehérre meszelt házak, jellegzetes zöld spalettákkal és mályvarózsákkal díszített szűk utcák. Központja, Saint-Martin-de-Ré, UNESCO világörökségi helyszín, köszönhetően Vauban által tervezett csillag alakú erődrendszerének. A sziget északi részét a sólepárlók és az osztrigatelepek uralják, ahol a híres 'fleur de sel' (sóvirág) készül. Különleges látványt nyújtanak a nadrágba öltöztetett szamarak, aminek hagyománya a mocsári rovarok elleni védekezésből ered. A sziget lapos domborzata miatt a kerékpározás az első számú közlekedési forma.", "ro": "Île de Ré, supranumită 'Cea Albă', este o destinație de vacanță exclusivistă situată în largul orașului La Rochelle. Insula este legată de continent printr-un pod spectaculos de 3 km lungime. Este faimoasă pentru cele zece sate pitorești, unde regulile stricte de urbanism păstrează armonia caselor albe cu obloane verzi. Saint-Martin-de-Ré, capitala istorică, găzduiește fortificații impresionante proiectate de Vauban, incluse în patrimoniul UNESCO. Peisajul insulei este variat, de la plaje lungi de nisip în sud, la mlaștini sărate și parcuri ostreicole în nord. O tradiție locală amuzantă sunt măgărușii Poitou purtând pantaloni, folosiți în trecut pentru a proteja animalele de înțepăturile insectelor din mlaștini. Cu peste 100 km de piste dedicate, bicicleta este cel mai popular mod de a explora farul Phare des Baleines și rezervațiile naturale.", "en": "Île de Ré, known as 'La Blanche' (The White Isle), is an upscale and naturally preserved island located off the coast of La Rochelle. Since 1988, it has been connected to the mainland by a 3-kilometer bridge. The island consists of ten charming villages, all adhering to a strict architectural code of white facades and green shutters, creating a unique visual harmony. Its capital, Saint-Martin-de-Ré, is a UNESCO World Heritage site due to its perfectly preserved star-shaped fortifications designed by Vauban. The island's north is dominated by traditional salt marshes and oyster beds, while the south features sprawling sandy beaches. A quirky local symbol is the 'donkeys in trousers' (baudets du Poitou), a tradition that began as protection for the animals against swamp insects. With flat terrain and 100km of paths, cycling is the primary way to explore."}, "factsAdvanced": {"de": ["UNESCO-Welterbe Vauban-Festung", "Brücke wurde 1988 fertiggestellt", "Höchster Punkt nur 20 Meter über Meer", "Phare des Baleines ist 57m hoch", "Produktion von Fleur de Sel seit dem Mittelalter", "30 Kilometer Sandstrände an der Südküste"], "hu": ["UNESCO Világörökség Vauban-erőd", "A hidat 1988-ban adták át", "Legmagasabb pontja mindössze 20 méter", "A Phare des Baleines torony 57 méter magas", "Sóbepárlás a középkor óta folyamatos", "30 kilométernyi homokos strand a déli parton"], "ro": ["Fortificații Vauban în patrimoniul UNESCO", "Podul a fost finalizat în 1988", "Altitudinea maximă este de doar 20 de metri", "Farul Baleines are o înălțime de 57 m", "Producția de Fleur de Sel datează din Evul Mediu", "30 de kilometri de plaje cu nisip pe coasta de sud"], "en": ["UNESCO World Heritage Vauban fortress", "The bridge was completed in 1988", "Maximum elevation is only 20 meters", "The Whale Lighthouse is 57m tall", "Fleur de Sel production since the Middle Ages", "30 kilometers of sandy beaches on the south coast"]}, "sights": {"de": [{"name": "Phare des Baleines", "text": "Dieser 57 Meter hohe steinerne Leuchtturm an der Westspitze der Insel wurde 1854 fertiggestellt und verfügt über eine Wendeltreppe mit 257 Stufen.", "category": "bridges/lighthouses", "confidence": "high", "coords": [-1.504676, 46.205309]}, {"name": "Fortifications de Saint-Martin-de-Ré", "text": "Diese von Vauban im 17. Jahrhundert entworfenen sternförmigen Mauern umschließen die Hauptstadt und haben den UNESCO-Weltkulturerbe-Status.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-1.367222, 46.203056]}, {"name": "Port de Saint-Martin", "text": "Der durch steinerne Wellenbrecher geschützte Hafen ist das gesellschaftliche Herz der Insel, voller festgemachter Boote und belebter Terrassen.", "category": "squares/old-town", "confidence": "high", "coords": [-1.368777, 46.204619]}, {"name": "Écomusée du Marais Salant", "text": "Das Museum befindet sich in einer aktiven Saline und erklärt die traditionellen Techniken der Meersalzgewinnung, die die Wirtschaft prägten.", "category": "museums", "confidence": "high", "coords": [-1.458354, 46.220571]}, {"name": "Les Golandières", "text": "Les Golandières ist ein Strand mit Küstenblick in De Re.", "category": "recreational", "coords": [-1.394935, 46.178064]}, {"name": "Bidons V", "text": "Bidons V ist ein Strand in De Re.", "category": "recreational", "coords": [-1.397251, 46.178859]}, {"name": "Plage naturiste du Peu Bernard", "text": "Vor der wunderschönen Küstenkulisse der Ile De Re gelegen, ist die Plage naturiste du Peu Bernard ein ausgewiesener Anlaufpunkt für Naturisten. Dieser unberührte Sandstreifen bietet eine friedliche und freie Umgebung zum Sonnenbaden und Schwimmen im Atlantik. Für alle, die im Sommer die Harmonie mit der Natur suchen, ist dies der ideale Ort.", "category": "recreational", "coords": [-1.417392, 46.186332]}, {"name": "La Cible", "text": "La Cible ist ein Strandbereich in De Re.", "category": "recreational", "coords": [-1.354494, 46.204807]}, {"name": "Plage des Prises", "text": "Die Plage des Prises ist ein faszinierendes Strandziel, das sich auf der Insel Ile De Re versteckt. Die einladende Atmosphäre ruft nach entspanntem Schwimmen, langen Spaziergängen am Ufer und Erholung unter dem französischen Himmel. Reisende werden diesen Ort an klaren Tagen als besonders charmant empfinden, wenn die Küstenfarben am kräftigsten leuchten.", "category": "recreational", "coords": [-1.452005, 46.198438]}, {"name": "Plage du Peu Ragot", "text": "Mit einem wunderschönen Abschnitt aus weichem Sand ist die Plage du Peu Ragot ein typischer Inselstrand auf der Ile De Re. Die angenehme Küstenumgebung macht ihn perfekt, um das Handtuch auszubreiten, in die Wellen einzutauchen und das entspannte lokale Flair zu genießen. Mit Sonnenbrille und ausreichend Wasser wird der Aufenthalt an sonnigen Nachmittagen besonders komfortabel.", "category": "recreational", "coords": [-1.436822, 46.192293]}, {"name": "Plage des Gollandières", "text": "Die Plage des Gollandières ist ein markanter Küstenschatz auf der malerischen Ile De Re. Gäste können hier in die Ozeanwellen eintauchen, über den Sand schlendern oder einfach die entspannte französische Strandkultur in vollen Zügen genießen. Dieser Ort eignet sich hervorragend für einen Besuch mit der Familie oder Freunden, um einen ganzen Sommertag entspannt zu verbringen.", "category": "recreational", "coords": [-1.403161, 46.180381]}, {"name": "Plage de Gros Jonc", "text": "Mit ihrer weitläufigen und einladenden Küstenlinie ist die Plage de Gros Jonc ein beliebter Ort auf der Insel Ile De Re. Die dynamische und zugleich friedliche Umgebung ist ideal zum Schwimmen, für Strandspiele oder einfach, um dem beruhigenden Rauschen der Gezeiten zu lauschen. Ein Picknick zum Sonnenuntergang bietet sich hier an, um einen perfekten Tag am Wasser abzurunden.", "category": "recreational", "coords": [-1.373231, 46.167486]}, {"name": "Plage du Moulin Brûlé", "text": "Herrlich an die Küstenränder der Ile De Re geschmiegt, dient die Plage du Moulin Brûlé als ruhiger Zufluchtsort. Besucher dürfen sich auf feinen Sand und kühles Wasser freuen, was perfekt für ein erfrischendes Bad oder einen meditativen Strandspaziergang ist. Es lohnt sich, während der Ebbe zu kommen, um den breiteren Küstenstreifen zu erkunden und eine besonders ruhige Zeit am Strand zu verbringen.", "category": "recreational", "coords": [-1.466565, 46.202748]}, {"name": "Plage du Grouin", "text": "Geprägt von ihrem weitreichenden Inselcharme ist die Plage du Grouin ein beliebter Küstenabschnitt auf der Ile De Re. Sie präsentiert eine reizvolle Naturlandschaft, in der Strandbesucher in die Wellen eintauchen oder sich im warmen Sand zurücklehnen können. Wer vor dem Mittag eintrifft, hat die besten Chancen, einen friedlichen Platz zu finden und die Morgensonne zu genießen.", "category": "recreational", "coords": [-1.413643, 46.227147]}, {"name": "Plage du Peu des Hommes", "text": "Die Plage du Peu des Hommes bietet ein idyllisches Stück Uferlinie, eingebettet in die Schönheit der Ile De Re. Die entspannte lokale Atmosphäre macht diesen Ort zu einem herrlichen Platz zum Sonnenbaden, für spontane Sprünge ins Wasser und um sich mit der Natur verbunden zu fühlen. Eine leichte Windjacke kann nützlich sein, wenn man bis in den windigeren späten Nachmittag bleiben möchte.", "category": "recreational", "coords": [-1.428794, 46.189232]}, {"name": "Plage de la Pergola", "text": "Die Plage de la Pergola, die einen malerischen Teil der Ile De Re einnimmt, ist ein wunderbarer französischer Strandausflug. Besucher werden von dem weitläufigen Sand und den erfrischenden Gezeiten angezogen, die sich sowohl für aktive Wassersportarten als auch für passives Faulenzen eignen. Sie sticht als erstklassiger Ort hervor, um einen entspannten Sommerurlaub mit den Liebsten zu verbringen.", "category": "recreational", "coords": [-1.43223, 46.189883]}, {"name": "Plage des Follies", "text": "Gelegen auf der charmanten Insel Ile De Re, lockt die Plage des Follies Reisende mit ihrem weiten Blick über die Küste. Der sanfte Rhythmus des Meeres schafft eine fantastische Umgebung zum Schwimmen, Sandburgenbauen oder für gemütliche Küstenspaziergänge. Eine dicke Decke mitzubringen, ist sehr zu empfehlen, um es sich im Sand richtig bequem zu machen.", "category": "recreational", "coords": [-1.420138, 46.187099]}, {"name": "Plage des Anneries", "text": "Mit einem friedlichen Abschnitt der französischen Küste ist die Plage des Anneries ein wunderbares Ziel auf der Ile De Re. Egal, ob man sich in das frische Wasser stürzen oder einfach nur ein Buch am Ufer lesen möchte, dieser Strand eignet sich für eine Vielzahl entspannender Aktivitäten. Ein Besuch am späten Nachmittag verspricht eine ruhigere Atmosphäre, wenn sich die Menschenmengen lichten.", "category": "recreational", "coords": [-1.424435, 46.18806]}, {"name": "Plage de la Tonille", "text": "Entlang der Ufer der Ile De Re entfaltet sich die Plage de la Tonille als ein charmanter und unprätentiöser Sandfleck. Sie bietet Schwimmern und Sonnenanbetern, die die natürliche Schönheit der Insel schätzen möchten, einen tollen Zugang zur Küste. Packen Sie Ihre Strandutensilien ein und bereiten Sie sich auf einen wahrhaft entspannten Tag fernab des städtischen Lärms vor.", "category": "recreational", "coords": [-1.418056, 46.224952]}, {"name": "Plage du Petit Sergent", "text": "Ruhig gelegen auf der Ile De Re, ist die Plage du Petit Sergent ein malerischer Rückzugsort an der Küste. Sonnenanbeter und Schwimmer gleichermaßen finden die sanften Wellen und den weichen Sand ideal für einen gemütlichen Nachmittagsausflug. Es empfiehlt sich, in den kühleren Morgenstunden an der Wasserlinie entlang zu spazieren, um die Ruhe der Küste voll in sich aufzunehmen.", "category": "recreational", "coords": [-1.382652, 46.172617]}, {"name": "Plage du Boutillon", "text": "Die Plage du Boutillon bringt küstennahe Eleganz in die Gemeinde Les Portes En Re auf der berühmten Ile De Re. Ihre einladende Gestaltung bietet endlose Möglichkeiten für das Schwimmen im Ozean, landschaftliche Fotografie und das Entspannen in der französischen Sonne. Denken Sie daran, sich großzügig mit Sonnencreme einzucremen, wenn Sie den ganzen Tag im Sand verbringen möchten.", "category": "recreational", "coords": [-1.473752, 46.202449]}, {"name": "Plage de la Grange", "text": "Anmutig in Les Portes En Re gelegen, sticht die Plage de la Grange als ein unberührtes Stück der Küste der Ile De Re hervor. Gäste werden von beruhigenden Gezeiten und viel Platz zum Faulenzen begrüßt, was den Ort perfekt für einsame Besinnung, aber auch für Familienspaß macht. Mit einer kleinen Kühlbox voller Erfrischungen wird Ihr sonniger Nachmittag hier noch schöner.", "category": "recreational", "coords": [-1.529554, 46.201459]}, {"name": "Plage de la Marielle", "text": "Die Plage de la Marielle verbindet den Charme von Les Portes En Re mit der natürlichen Schönheit der Ile De Re und ist ein reizvolles Strandziel. Diese ruhige Ecke der Küste ist wunderbar für erfrischende Badegänge, um den Sand zwischen den Zehen zu spüren und die atlantische Atmosphäre aufzusaugen. Da der Strand etwas weniger geschützt sein kann, ist es immer eine gute Idee, vor dem Besuch den Windbericht zu prüfen.", "category": "recreational", "coords": [-1.514285, 46.19712]}, {"name": "Plage du Lizay", "text": "Dieser einladende Strand an der Küste von Les Portes-en-Ré auf der Île de Ré bietet eine entspannte Atmosphäre am Atlantik. Besucher können hier wunderbar baden, sonnenbaden oder einfach das Rauschen des Ozeans genießen. Es empfiehlt sich, an warmen Sommertagen frühzeitig anzureisen, um die Ruhe voll auszukosten.", "category": "recreational", "coords": [-1.515018, 46.256637]}, {"name": "Plage de la Redoute", "text": "Die Plage de la Redoute fügt sich malerisch in die Küstenlandschaft von Les Portes-en-Ré ein und verspricht erholsame Stunden am Meer. Das ruhige Umfeld eignet sich ideal für ausgedehnte Spaziergänge am Wasser und entspanntes Sonnenbaden. Ein Besuch in den Vormittagsstunden offenbart den besonderen Charme dieses Küstenabschnitts.", "category": "recreational", "coords": [-1.484909, 46.248708]}, {"name": "Plage de la Loge", "text": "Im reizvollen Les Portes-en-Ré gelegen, entfaltet dieser französische Strand seinen ganz eigenen, maritimen Charakter. Hier finden Gäste genügend Raum für unbeschwerte Momente im Sand oder erfrischende Badepausen im Ozean. Am besten lässt sich die salzige Brise bei einem spätnachmittäglichen Ausflug genießen.", "category": "recreational", "coords": [-1.481513, 46.245853]}, {"name": "Plage de Trousse Chemise", "text": "Wer die Natur der Île de Ré schätzt, findet an der Plage de Trousse Chemise in Les Portes-en-Ré ein idyllisches Refugium. Die friedliche Atmosphäre zieht vor allem Erholungssuchende an, die gerne schwimmen oder den Blick in die Weite schweifen lassen. Für ein ungestörtes Erlebnis bietet sich ein Besuch außerhalb der touristischen Stoßzeiten an.", "category": "recreational", "coords": [-1.475688, 46.235289]}, {"name": "Plage du Martray", "text": "Als Teil der Küstenlandschaft von Les Portes-en-Ré begeistert dieser Meeresstrand durch seine zugängliche und entspannte Art. Sonnenanbeter und Badegäste können hier gleichermaßen dem Rhythmus der Gezeiten folgen. Es lohnt sich, etwas Proviant einzupacken und den Tag am Wasser gemütlich ausklingen zu lassen.", "category": "recreational", "coords": [-1.491387, 46.19775]}, {"name": "Plage de l'Anse du Fourneau", "text": "In der sanften Bucht von Les Portes-en-Ré gelegen, bietet die Plage de l'Anse du Fourneau einen beschaulichen Küstenabschnitt. Familien und Paare genießen hier meist ruhige Momente beim Muschelsuchen oder beim Waten im flachen Wasser. Die Sommermonate hüllen diesen Ort in ein besonders einladendes Licht.", "category": "recreational", "coords": [-1.479352, 46.240533]}, {"name": "Plage de la Saucière", "text": "Bekannt für seine hervorragenden Spaziermöglichkeiten, eröffnet die Plage de la Saucière in Les Portes-en-Ré wundervolle Ausblicke auf das Meer. Wer gerne am Spülsaum entlangwandert und die Meeresbrise einatmet, wird diesen Strand lieben. Besonders in der Nebensaison entfaltet die Küste hier ihre wildromantische Seite.", "category": "recreational", "coords": [-1.506699, 46.257403]}, {"name": "La Patache", "text": "La Patache ist ein Strand in Les Portes En Re, der eine ruhige Umgebung am Wasser bietet.", "category": "recreational", "coords": [-1.4772, 46.231271]}, {"name": "Plage de Radia", "text": "Die Plage de Radia ist ein beliebter lokaler Treffpunkt in Les Portes-en-Ré, an dem Entspannung am Ozean großgeschrieben wird. Schwimmer und Sonnenbadende schätzen das authentische Inselflair, das diesen Küstenstreifen umgibt. Ein Besuch an einem sonnigen Nachmittag verspricht beste Bedingungen für pure Erholung.", "category": "recreational", "coords": [-1.54058, 46.21381]}, {"name": "Plage de la Pointe de Grignon", "text": "Dieser markante Küstenabschnitt in Les Portes-en-Ré prägt die Küstenlinie mit seiner natürlichen Schönheit. Besucher verbringen hier gerne Zeit, um in die kühlen Fluten einzutauchen oder den Wellen zuzuschauen. Um einen ruhigen Platz am Wasser zu finden, ist eine morgendliche Ankunft oft von Vorteil.", "category": "recreational", "coords": [-1.53563, 46.204462]}, {"name": "Plage du Canot de Sauvetage", "text": "Für Erholungssuchende offenbart die Plage du Canot de Sauvetage in Les Portes-en-Ré einen charmanten Rückzugsort am Ozean. Man kann sich wunderbar am Ufer niederlassen, dem stetigen Rauschen des Wassers lauschen und den Alltag vergessen. Ein sonniger Sommertag ist die perfekte Gelegenheit, dieses kleine Paradies zu erkunden.", "category": "recreational", "coords": [-1.560101, 46.238719]}, {"name": "Plage du Petit Bec", "text": "Mit seiner einladenden Wasserlinie bietet die Plage du Petit Bec in Les Portes-en-Ré ideale Bedingungen für einen unbeschwerten Aufenthalt am Meer. Gäste schätzen die entspannte Atmosphäre, die sowohl zu kurzen Badeausflügen als auch zu langen Nachmittagen am Strand einlädt. Strandtuch und Sonnenschutz sollten im sommerlichen Reisegepäck nicht fehlen.", "category": "recreational", "coords": [-1.523263, 46.252399]}, {"name": "Plage de la Conche des Baleines", "text": "Dieser weitläufige Naturstrand auf der Île de Ré erstreckt sich majestätisch entlang der Küste von Les Portes-en-Ré. Die enorme Weite gewährt allen Besuchern reichlich Platz zum Sonnenbaden, Strandwandern und für erfrischende Badegänge im Atlantik. Wer das großzügige Raumgefühl am Wasser liebt, wird hier einen unvergesslichen Küstentag erleben.", "category": "recreational", "coords": [-1.540398, 46.246427]}, {"name": "Plage du Grand Marchais", "text": "Ein wahres Küstenjuwel in Les Portes-en-Ré ist die Plage du Grand Marchais, die mit ihrer idyllischen Umgebung zum Verweilen einlädt. Hier lässt es sich hervorragend auf dem warmen Sand entspannen, während das Meer sanft an den Strand brandet. Bringen Sie ein gutes Buch mit, um die beruhigende Atmosphäre vollends auszukosten.", "category": "recreational", "coords": [-1.495922, 46.25639]}, {"name": "Plage Gros Jonc", "text": "Die Plage Gros Jonc prägt als einladender Strandbereich das maritime Gesicht von Les Portes-en-Ré. Urlauber und Einheimische kommen gleichermaßen hierher, um das Meer beim Schwimmen oder Sonnenbaden zu genießen. An heißen Sommertagen sorgt die erfrischende Meeresbrise für willkommene Abkühlung.", "category": "recreational", "coords": [-1.488299, 46.252035]}, {"name": "Plage Lauzin", "text": "Ob für einen kurzen Küstenbesuch oder einen ganzen Nachmittag, die Plage Lauzin in Les Portes-en-Ré bietet ein angenehmes maritimes Erlebnis. Der unkomplizierte Zugang zum Wasser erfreut Badegäste, die sich in die Wellen stürzen möchten. Ein schattenspendender Regenschirm ist ratsam, um auch die Mittagsstunden angenehm am Meer zu verbringen.", "category": "recreational", "coords": [-1.491391, 46.254185]}, {"name": "Plage des Cytons", "text": "Die Plage des Cytons formt einen charakteristischen Küstenabschnitt in Les Portes-en-Ré, der von der rauen Schönheit des Atlantiks geprägt ist. Wer Einsamkeit sucht oder einfach am Meeresspiegel sitzen möchte, wird diesen Ort besonders schätzen. Es lohnt sich, bei Ebbe anzukommen, um die weiten Sandflächen für einen Spaziergang zu nutzen.", "category": "recreational", "coords": [-1.488251, 46.250711]}, {"name": "Carrousel Park", "text": "Der Carrousel Park auf der Île de Ré ist ein Freizeitpark für die ganze Familie.", "category": "family", "coords": [-1.433032, 46.193285]}], "hu": [{"name": "Phare des Baleines", "text": "A sziget nyugati csücskén álló, 1854-ben elkészült 57 méter magas kővilágítótorony belsejében egy 257 lépcsőfokból álló csigalépcső található.", "category": "bridges/lighthouses", "confidence": "high", "coords": [-1.504676, 46.205309]}, {"name": "Fortifications de Saint-Martin-de-Ré", "text": "A Vauban által a tizenhetedik században tervezett hatalmas csillag alakú falak körülveszik a fővárost, és az UNESCO világörökség részét képezik.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-1.367222, 46.203056]}, {"name": "Port de Saint-Martin", "text": "A kő hullámtörők által védett biztonságos kikötő a sziget társadalmi központja, amely tele van horgonyzó hajókkal és nyüzsgő szabadtéri teraszokkal.", "category": "squares/old-town", "confidence": "high", "coords": [-1.368777, 46.204619]}, {"name": "Écomusée du Marais Salant", "text": "Egy aktív sólepárlóban található múzeum részletesen bemutatja a tengeri só hagyományos betakarítási technikáit, melyek a helyi gazdaságot formálták.", "category": "museums", "confidence": "high", "coords": [-1.458354, 46.220571]}, {"name": "Les Golandières", "text": "A Les Golandières egy tengerparti kilátást nyújtó strand De Re-ben.", "category": "recreational", "coords": [-1.394935, 46.178064]}, {"name": "Bidons V", "text": "A Bidons V egy strand De Re-ben.", "category": "recreational", "coords": [-1.397251, 46.178859]}, {"name": "Plage naturiste du Peu Bernard", "text": "Az Ile De Re gyönyörű tengerparti háttere előtt fekvő Plage naturiste du Peu Bernard a naturisták kedvelt úti célja. Ez az érintetlen homokos partszakasz békés és kötetlen környezetet kínál a napozáshoz és az atlanti vizekben való úszáshoz. Ideális hely azok számára, akik a nyár folyamán a természettel való harmóniát keresik.", "category": "recreational", "coords": [-1.417392, 46.186332]}, {"name": "La Cible", "text": "A La Cible egy strandszakasz De Re-ben.", "category": "recreational", "coords": [-1.354494, 46.204807]}, {"name": "Plage des Prises", "text": "A Plage des Prises egy magával ragadó tengerparti úti cél, amely az Ile De Re szigetén bújik meg. A hívogató légkör kellemes úszásra, hosszú parti sétákra és a francia égbolt alatti kikapcsolódásra csábít. Az utazók különösen bájosnak találják majd a tiszta napokon, amikor a tengerparti színek a legélénkebbek.", "category": "recreational", "coords": [-1.452005, 46.198438]}, {"name": "Plage du Peu Ragot", "text": "A puha homokos partszakasszal büszkélkedő Plage du Peu Ragot egy jellegzetes szigeti strand az Ile De Re partjainál. A kellemes tengerparti környezet tökéletes arra, hogy leterítsünk egy törölközőt, megmártózzunk a hullámokban és élvezzük a laza helyi hangulatot. Napszemüveggel és bőséges ivóvízzel felszerelkezve kényelmesen tölthetjük itt a napsütéses délutánokat.", "category": "recreational", "coords": [-1.436822, 46.192293]}, {"name": "Plage des Gollandières", "text": "A Plage des Gollandières egy kiemelkedő tengerparti kincs a festői Ile De Re szigetén. A vendégek elmerülhetnek az óceán hullámaiban, sétálhatnak a homokban, vagy egyszerűen csak átadhatják magukat a laza francia parti kultúrának. Kiváló helyszín családok és baráti társaságok számára egy egész napos nyári kikapcsolódáshoz.", "category": "recreational", "coords": [-1.403161, 46.180381]}, {"name": "Plage de Gros Jonc", "text": "A hatalmas és hívogató partvonallal rendelkező Plage de Gros Jonc az Ile De Re szigetének egyik kedvenc helyszíne. A dinamikus, mégis békés környezet ideális úszáshoz, tengerparti játékokhoz, vagy pusztán a dagály nyugtató hangjának hallgatásához. Egy naplementés piknik melegen ajánlott, hogy megkoronázzunk egy tökéletes, vízparton töltött napot.", "category": "recreational", "coords": [-1.373231, 46.167486]}, {"name": "Plage du Moulin Brûlé", "text": "Az Ile De Re tengerparti peremeibe gyönyörűen beékelt Plage du Moulin Brûlé nyugodt menedékként szolgál. A látogatókat finom homok és hűs víz várja, amely tökéletes egy frissítő úszáshoz vagy egy meditatív tengerparti sétához. Érdemes apály idején ellátogatni, hogy felfedezzük a kiszélesedett partvonalat, és élvezzük a csendesebb strandélményt.", "category": "recreational", "coords": [-1.466565, 46.202748]}, {"name": "Plage du Grouin", "text": "Széleskörű szigeti bájával a Plage du Grouin az Ile De Re egyik kedvelt partmenti szakasza. Szép természeti tájat tár elénk, ahol a strandolók belevethetik magukat a hullámokba, vagy lepihenhetnek a meleg homokban. A dél előtti érkezés remek stratégia arra, hogy egy békés helyet találjunk és élvezzük a reggeli napsütést.", "category": "recreational", "coords": [-1.413643, 46.227147]}, {"name": "Plage du Peu des Hommes", "text": "A Plage du Peu des Hommes egy idilli partszakaszt kínál, amely az Ile De Re szépségébe ágyazódik. A laza helyi hangulat pompás helyszínné teszi a napozáshoz, a spontán úszásokhoz és a természettel való kapcsolatteremtéshez. Egy könnyű széldzseki jól jöhet, ha a szelesebb késő délutánig tervezünk maradni.", "category": "recreational", "coords": [-1.428794, 46.189232]}, {"name": "Plage de la Pergola", "text": "Az Ile De Re egy festői részét lehorgonyzó Plage de la Pergola egy elragadó francia tengerparti menedék. A látogatókat vonzza a kiterjedt homokos part és a frissítő árapály, amely tökéletes mind az aktív vízi sportokhoz, mind a passzív heverészéshez. Kiemelkedően jó helyszín ahhoz, hogy szeretteinkkel töltsünk egy laza nyári vakációt.", "category": "recreational", "coords": [-1.43223, 46.189883]}, {"name": "Plage des Follies", "text": "A bájos Ile De Re szigetén fekvő Plage des Follies széles, nyitott tengerparti kilátással csábítja az utazókat. A tenger lágy ritmusa fantasztikus környezetet teremt az úszáshoz, homokvár-építéshez vagy kényelmes tengerparti sétákhoz. Egy vastag takaró behozatala kifejezetten ajánlott, hogy kényelmesen elnyúlhassunk a homokban.", "category": "recreational", "coords": [-1.420138, 46.187099]}, {"name": "Plage des Anneries", "text": "A francia partvonal egy nyugodt szakaszával büszkélkedő Plage des Anneries csodálatos úti cél az Ile De Re szigeten. Akár a frissítő vízbe vágyunk, akár csak egy könyvet olvasnánk a parton, ez a strand számos pihentető tevékenységnek teret ad. A késő délutáni látogatás nyugodtabb légkört biztosít, mivel a tömeg ilyenkor már megritkul.", "category": "recreational", "coords": [-1.424435, 46.18806]}, {"name": "Plage de la Tonille", "text": "Az Ile De Re partjai mentén kibontakozó Plage de la Tonille egy bájos és szerény homokos helyszín. Tiszta parti hozzáférést kínál az úszóknak és a napozni vágyóknak, akik szeretnék megcsodálni a sziget természeti szépségét. Csomagolja be a strandeszközeit, és készüljön fel egy igazán pihentető napra, távol a városi zajtól.", "category": "recreational", "coords": [-1.418056, 46.224952]}, {"name": "Plage du Petit Sergent", "text": "Az Ile De Re szigetén csendesen meghúzódó Plage du Petit Sergent egy festői tengerparti menedék. A napozók és az úszók egyaránt ideálisnak találják a lágy hullámokat és a puha homokot egy ráérős délutáni kiruccanáshoz. Érdemes a reggeli hűvösebb órákban sétálni a víz peremén, hogy teljesen magunkba szívjuk a part nyugalmát.", "category": "recreational", "coords": [-1.382652, 46.172617]}, {"name": "Plage du Boutillon", "text": "A Plage du Boutillon tengerparti eleganciát kölcsönöz Les Portes En Re közösségének a híres Ile De Re szigetén. Hívogató elrendezése végtelen lehetőséget kínál az óceáni úszásra, a festői fotózásra és a francia napsütésben való pihenésre. Ne felejtsen el bőségesen naptejet használni, ha az egész napot a homokban tervezi tölteni.", "category": "recreational", "coords": [-1.473752, 46.202449]}, {"name": "Plage de la Grange", "text": "A Les Portes En Re-ben kecsesen elhelyezkedő Plage de la Grange az Ile De Re partvonalának egy érintetlen szeleteként tűnik ki. A vendégeket megnyugtató árapály és bőséges pihenőhely fogadja, így tökéletes mind a magányos elmélkedéshez, mind a családi szórakozáshoz. Ha magával hoz egy kis hűtőtáskát frissítőkkel, az csak tovább emeli a napsütéses délután fényét.", "category": "recreational", "coords": [-1.529554, 46.201459]}, {"name": "Plage de la Marielle", "text": "A Les Portes En Re varázsát az Ile De Re természeti szépségével ötvöző Plage de la Marielle egy bájos tengerparti úti cél. A part ezen csendes sarka csodálatos a frissítő úszáshoz, hogy érezzük a homokot a lábujjaink között, és magunkba szívjuk az atlanti hangulatot. Mivel kevésbé védett lehet, a látogatás előtt mindig okos ötlet ellenőrizni a szélelőrejelzést.", "category": "recreational", "coords": [-1.514285, 46.19712]}, {"name": "Plage du Lizay", "text": "Az Île de Ré szigetén, Les Portes-en-Ré partjainál fekvő hívogató strand nyugodt atlanti hangulatot áraszt. A látogatók kiválóan úszhatnak, napozhatnak, vagy egyszerűen csak élvezhetik az óceán morajlását. Meleg nyári napokon érdemes korán érkezni, hogy maximálisan kiélvezzük a csendet.", "category": "recreational", "coords": [-1.515018, 46.256637]}, {"name": "Plage de la Redoute", "text": "A Plage de la Redoute festőien illeszkedik Les Portes-en-Ré parti tájába, pihentető tengerparti órákat ígérve. A békés környezet ideális a hosszú vízparti sétákhoz és a gondtalan napozáshoz. Egy délelőtti látogatás tökéletesen megmutatja ennek a partszakasznak a különleges varázsát.", "category": "recreational", "coords": [-1.484909, 46.248708]}, {"name": "Plage de la Loge", "text": "A hangulatos Les Portes-en-Ré területén található francia strand sajátos, tengeri karakterrel bontakozik ki. A vendégek itt bőséges teret találnak a homokos parton töltött gondtalan pillanatokhoz vagy a frissítő óceáni fürdőzéshez. A sós tengeri szellőt leginkább egy késő délutáni kirándulás során lehet élvezni.", "category": "recreational", "coords": [-1.481513, 46.245853]}, {"name": "Plage de Trousse Chemise", "text": "Aki értékeli az Île de Ré természetét, idilli menedékre lel a Les Portes-en-Ré-i Plage de Trousse Chemise strandon. A békés hangulat leginkább a kikapcsolódásra vágyókat vonzza, akik szívesen úsznak vagy gyönyörködnek a távolba vesző kilátásban. A zavartalan élmény érdekében érdemes a turisztikai csúcsidőkön kívül érkezni.", "category": "recreational", "coords": [-1.475688, 46.235289]}, {"name": "Plage du Martray", "text": "A Les Portes-en-Ré partvidékének részeként ez az óceáni strand megközelíthető és laza jellegével varázsol el. A napimádók és a fürőzők egyaránt követhetik itt az árapály ritmusát. Érdemes némi elemózsiát csomagolni, és kényelmesen zárni a napot a vízparton.", "category": "recreational", "coords": [-1.491387, 46.19775]}, {"name": "Plage de l'Anse du Fourneau", "text": "A Les Portes-en-Ré szelíd öblében elhelyezkedő Plage de l'Anse du Fourneau békés partszakaszt kínál. Családok és párok többnyire csendes pillanatokat élnek át itt, kagylót gyűjtve vagy a sekély vízben gázolva. A nyári hónapok különösen hívogató fénybe öltöztetik ezt a helyet.", "category": "recreational", "coords": [-1.479352, 46.240533]}, {"name": "Plage de la Saucière", "text": "A kiváló sétálási lehetőségeiről ismert Les Portes-en-Ré-i Plage de la Saucière csodálatos kilátást nyújt a tengerre. Akik szeretnek a part mentén sétálni és belélegezni a tengeri szellőt, imádni fogják ezt a strandot. A partvidék különösen az utószezonban mutatja meg itt vadregényes oldalát.", "category": "recreational", "coords": [-1.506699, 46.257403]}, {"name": "La Patache", "text": "A La Patache egy strand Les Portes En Re területén, amely nyugodt tengerparti környezetet kínál.", "category": "recreational", "coords": [-1.4772, 46.231271]}, {"name": "Plage de Radia", "text": "A Plage de Radia egy népszerű helyi találkozóhely Les Portes-en-Ré-ben, ahol a tengerparti pihenés az első. Az úszók és a napozók értékelik az autentikus szigeti hangulatot, amely ezt a partszakaszt övezi. Egy napos délutáni látogatás a legjobb feltételeket ígéri a tiszta kikapcsolódáshoz.", "category": "recreational", "coords": [-1.54058, 46.21381]}, {"name": "Plage de la Pointe de Grignon", "text": "Ez a jellegzetes Les Portes-en-Ré-i partszakasz természetes szépségével formálja a tengerpart vonalát. A látogatók szívesen töltenek itt időt, hogy megmártózzanak a hűsítő habokban, vagy csak figyeljék a hullámokat. A vízparti nyugodt hely megtalálása érdekében gyakran előnyös a reggeli érkezés.", "category": "recreational", "coords": [-1.53563, 46.204462]}, {"name": "Plage du Canot de Sauvetage", "text": "A kikapcsolódni vágyók számára a Les Portes-en-Ré-i Plage du Canot de Sauvetage bájos menedéket fed fel az óceán partján. Csodálatosan el lehet helyezkedni a parton, hallgatni a víz folyamatos zúgását, és elfelejteni a mindennapokat. Egy napsütéses nyári nap tökéletes alkalom e kis paradicsom felfedezésére.", "category": "recreational", "coords": [-1.560101, 46.238719]}, {"name": "Plage du Petit Bec", "text": "Hívogató vízvonalával a Les Portes-en-Ré-i Plage du Petit Bec ideális feltételeket kínál egy gondtalan tengerparti tartózkodáshoz. A vendégek értékelik a nyugodt légkört, amely mind a rövid fürdőzésekhez, mind a hosszú tengerparti délutánokhoz tökéletes. A strandtörölköző és a napvédelem nem hiányozhat a nyári poggyászból.", "category": "recreational", "coords": [-1.523263, 46.252399]}, {"name": "Plage de la Conche des Baleines", "text": "Ez a kiterjedt természetes strand az Île de Ré szigetén fenségesen húzódik Les Portes-en-Ré partvonala mentén. A hatalmas tágasság minden látogatónak bőséges teret biztosít a napozáshoz, a tengerparti sétákhoz és az Atlanti-óceánban való frissítő fürdőzéshez. Aki szereti a vízparti tágas térérzetet, felejthetetlen parti napot fog itt átélni.", "category": "recreational", "coords": [-1.540398, 46.246427]}, {"name": "Plage du Grand Marchais", "text": "Les Portes-en-Ré igazi tengerparti gyöngyszeme a Plage du Grand Marchais, amely idilli környezetével maradásra csábít. Kiválóan lehet itt pihenni a meleg homokon, miközben a tenger lágyan nyaldossa a partot. Hozzon magával egy jó könyvet, hogy teljes mértékben kiélvezhesse a nyugtató légkört.", "category": "recreational", "coords": [-1.495922, 46.25639]}, {"name": "Plage Gros Jonc", "text": "A Plage Gros Jonc hívogató strandterületként formálja Les Portes-en-Ré tengeri arcát. Nyaralók és helyiek egyaránt eljönnek ide, hogy úszás vagy napozás közben élvezzék a tengert. Forró nyári napokon a frissítő tengeri szellő üdvös enyhülést nyújt.", "category": "recreational", "coords": [-1.488299, 46.252035]}, {"name": "Plage Lauzin", "text": "Legyen szó egy rövid parti látogatásról vagy egy egész délutánról, a Les Portes-en-Ré-i Plage Lauzin kellemes tengeri élményt nyújt. A víz egyszerű megközelíthetősége örömmel tölti el a fürdőzőket, akik a hullámok közé vágynak. Egy napernyő használata ajánlott, hogy a déli órákat is kényelmesen tölthessük a tengernél.", "category": "recreational", "coords": [-1.491391, 46.254185]}, {"name": "Plage des Cytons", "text": "A Plage des Cytons egy jellegzetes partszakaszt alkot Les Portes-en-Ré-ben, amelyet az Atlanti-óceán zord szépsége jellemez. Aki magányra vágyik, vagy egyszerűen csak a vízszintnél szeretne ülni, különösen értékelni fogja ezt a helyet. Érdemes apálykor érkezni, hogy kihasználhassuk a hatalmas homokos területeket egy sétára.", "category": "recreational", "coords": [-1.488251, 46.250711]}, {"name": "Carrousel Park", "text": "Az Île de Ré-i Carrousel Park egy szabadidőpark az egész család számára.", "category": "family", "coords": [-1.433032, 46.193285]}], "ro": [{"name": "Phare des Baleines", "text": "Având o înălțime de 57 de metri în vârful vestic al insulei, acest far de piatră finalizat în 1854 are o scară în spirală formată din 257 de trepte.", "category": "bridges/lighthouses", "confidence": "high", "coords": [-1.504676, 46.205309]}, {"name": "Fortifications de Saint-Martin-de-Ré", "text": "Proiectate de Vauban în secolul al XVII-lea, aceste ziduri masive în formă de stea înconjoară capitala și dețin statutul de Patrimoniu UNESCO.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-1.367222, 46.203056]}, {"name": "Port de Saint-Martin", "text": "Protejat de diguri de piatră, acest port adăpostit este inima socială a insulei, plin de nave ancorate și terase vibrante în aer liber.", "category": "squares/old-town", "confidence": "high", "coords": [-1.368777, 46.204619]}, {"name": "Écomusée du Marais Salant", "text": "Situat într-o salină activă, muzeul explică în profunzime tehnicile tradiționale de recoltare a sării de mare care au modelat economia locală.", "category": "museums", "confidence": "high", "coords": [-1.458354, 46.220571]}, {"name": "Les Golandières", "text": "Les Golandières este o plajă ce oferă priveliști de coastă în De Re.", "category": "recreational", "coords": [-1.394935, 46.178064]}, {"name": "Bidons V", "text": "Bidons V este o plajă situată în De Re.", "category": "recreational", "coords": [-1.397251, 46.178859]}, {"name": "Plage naturiste du Peu Bernard", "text": "Situată pe fundalul de coastă frumos din Ile De Re, Plage naturiste du Peu Bernard este o destinație dedicată naturiștilor. Această fâșie imaculată de nisip oferă un cadru liniștit și fără restricții pentru plajă și înot în apele Atlanticului. Este un loc ideal pentru cei care caută armonia cu natura în timpul verii.", "category": "recreational", "coords": [-1.417392, 46.186332]}, {"name": "La Cible", "text": "La Cible este o zonă de plajă în De Re.", "category": "recreational", "coords": [-1.354494, 46.204807]}, {"name": "Plage des Prises", "text": "Plage des Prises este o destinație de plajă captivantă ascunsă pe insula Ile De Re. Atmosfera primitoare îndeamnă la înot pe îndelete, la plimbări lungi pe țărm și la relaxare sub cerul francez. Călătorii o vor găsi deosebit de fermecătoare în zilele senine, când culorile coastei sunt cele mai vibrante.", "category": "recreational", "coords": [-1.452005, 46.198438]}, {"name": "Plage du Peu Ragot", "text": "Având o întindere frumoasă de nisip fin, Plage du Peu Ragot este o plajă insulară prin excelență pe Ile De Re. Mediul de coastă plăcut o face perfectă pentru a întinde un prosop, a vă scufunda în valuri și a vă bucura de atmosfera locală relaxată. Aducerea ochelarilor de soare și a unei cantități suficiente de apă va asigura o ședere confortabilă în după-amiezile însorite.", "category": "recreational", "coords": [-1.436822, 46.192293]}, {"name": "Plage des Gollandières", "text": "Plage des Gollandières este o comoară de coastă proeminentă situată pe pitoreasca Ile De Re. Oaspeții se pot scufunda în valurile oceanului, se pot plimba pe nisip sau pur și simplu se pot bucura de cultura relaxată a litoralului francez. Este un loc excelent de vizitat cu familia sau prietenii pentru o zi întreagă de petrecere a timpului liber estival.", "category": "recreational", "coords": [-1.403161, 46.180381]}, {"name": "Plage de Gros Jonc", "text": "Oferind un țărm vast și primitor, Plage de Gros Jonc este un loc preferat pe insula Ile De Re. Cadrul dinamic, dar pașnic este ideal pentru înot, jocuri pe plajă sau pur și simplu pentru a asculta sunetul liniștitor al mareelor. Un picnic la apus aici este foarte sugerat pentru a completa o zi perfectă lângă apă.", "category": "recreational", "coords": [-1.373231, 46.167486]}, {"name": "Plage du Moulin Brûlé", "text": "Ascunsă frumos la marginile de coastă din Ile De Re, Plage du Moulin Brûlé servește drept o evadare liniștită. Vizitatorii sunt răsfățați cu nisipuri fine și ape răcoroase, perfecte pentru o înot revigorant sau o plimbare meditativă pe litoral. Încercați să vizitați în timpul refluxului pentru a explora țărmul extins și pentru a vă bucura de o experiență mai calmă pe plajă.", "category": "recreational", "coords": [-1.466565, 46.202748]}, {"name": "Plage du Grouin", "text": "Caracterizată de farmecul său insular vast, Plage du Grouin este un segment de coastă îndrăgit pe Ile De Re. Aceasta prezintă un peisaj natural minunat, unde iubitorii de plajă se pot scufunda în valuri sau se pot întinde pe nisipul cald. Sosirea înainte de prânz este o strategie excelentă pentru a revendica un loc pașnic și a vă bucura de soarele dimineții.", "category": "recreational", "coords": [-1.413643, 46.227147]}, {"name": "Plage du Peu des Hommes", "text": "Plage du Peu des Hommes oferă o bucată idilică de țărm cuibărită în frumusețea insulei Ile De Re. Atmosfera locală relaxată face ca acesta să fie un loc splendid pentru plajă, înot spontan și conectare cu natura. O jachetă de vânt ușoară ar putea fi utilă dacă intenționați să rămâneți până după-amiaza târziu, când începe să bată briza.", "category": "recreational", "coords": [-1.428794, 46.189232]}, {"name": "Plage de la Pergola", "text": "Ancorând o parte pitorească din Ile De Re, Plage de la Pergola este o evadare încântătoare pe o plajă franceză. Vizitatorii sunt atrași de nisipul întins și de mareele revigorante, perfecte atât pentru sporturi nautice active, cât și pentru o leneveală pasivă. Se remarcă ca un loc de primă mână pentru a vă bucura de o vacanță de vară relaxată alături de cei dragi.", "category": "recreational", "coords": [-1.43223, 46.189883]}, {"name": "Plage des Follies", "text": "Situată pe fermecătoarea insulă Ile De Re, Plage des Follies invită călătorii cu priveliștile sale ample și deschise spre coastă. Ritmul blând al mării creează un mediu fantastic pentru înot, construirea castelelor de nisip sau pentru o plimbare liniștită pe țărm. Este foarte recomandat să aduceți o pătură groasă pentru a vă relaxa confortabil pe nisip.", "category": "recreational", "coords": [-1.420138, 46.187099]}, {"name": "Plage des Anneries", "text": "Mândrindu-se cu o porțiune senină a coastei franceze, Plage des Anneries este o destinație minunată pe Ile De Re. Indiferent dacă doriți să vă scufundați în apele vioaie sau pur și simplu să citiți o carte pe țărm, această plajă găzduiește o varietate de activități relaxante. O vizită la sfârșitul după-amiezii asigură o atmosferă mai calmă, pe măsură ce aglomerația se diminuează.", "category": "recreational", "coords": [-1.424435, 46.18806]}, {"name": "Plage de la Tonille", "text": "Desfășurându-se de-a lungul țărmurilor din Ile De Re, Plage de la Tonille este un loc de nisip fermecător și lipsit de pretenții. Oferă un acces liber la coastă pentru înotători și căutătorii de soare care doresc să aprecieze frumusețea naturală a insulei. Împachetați-vă lucrurile esențiale pentru plajă și pregătiți-vă pentru o zi cu adevărat relaxantă, departe de zgomotul urban.", "category": "recreational", "coords": [-1.418056, 46.224952]}, {"name": "Plage du Petit Sergent", "text": "Odihnindu-se liniștit în Ile De Re, Plage du Petit Sergent este o evadare de coastă pitorească. Atât iubitorii de plajă, cât și înotătorii vor găsi valurile blânde și nisipul fin ideale pentru o ieșire relaxantă de după-amiază. Luați în considerare o plimbare de-a lungul apei în timpul orelor mai răcoroase ale dimineții pentru a absorbi pe deplin liniștea litoralului.", "category": "recreational", "coords": [-1.382652, 46.172617]}, {"name": "Plage du Boutillon", "text": "Plage du Boutillon aduce o eleganță de coastă comunității din Les Portes En Re, pe renumita Ile De Re. Aspectul său primitor oferă oportunități infinite pentru înot în ocean, fotografie pitorească și relaxare sub soarele francez. Nu uitați să aplicați generos cremă de protecție solară dacă intenționați să petreceți întreaga zi pe nisip.", "category": "recreational", "coords": [-1.473752, 46.202449]}, {"name": "Plage de la Grange", "text": "Situată cu grație în Les Portes En Re, Plage de la Grange se remarcă ca o felie imaculată a țărmului din Ile De Re. Oaspeții sunt întâmpinați de maree liniștitoare și de un spațiu amplu pentru relaxare, făcând-o perfectă atât pentru o reflecție solitară, cât și pentru distracția în familie. Dacă aduceți o mică ladă frigorifică cu răcoritoare, veți îmbunătăți după-amiaza însorită petrecută aici.", "category": "recreational", "coords": [-1.529554, 46.201459]}, {"name": "Plage de la Marielle", "text": "Unind farmecul din Les Portes En Re cu frumusețea naturală din Ile De Re, Plage de la Marielle este o destinație minunată de plajă. Acest colț liniștit al coastei este minunat pentru înot revigorant, pentru a simți nisipul printre degete și pentru a absorbi atmosfera atlantică. Deoarece poate fi mai puțin adăpostită, verificarea prognozei vântului înainte de vizită este întotdeauna o idee inteligentă.", "category": "recreational", "coords": [-1.514285, 46.19712]}, {"name": "Plage du Lizay", "text": "Situată pe țărmurile din Les Portes-en-Ré, această plajă primitoare de pe Île de Ré oferă o atmosferă relaxantă la Atlantic. Vizitatorii se pot bucura de înot, plajă sau pur și simplu ascultând sunetul oceanului. Este recomandat să sosiți devreme în zilele calde de vară pentru a aprecia pe deplin liniștea.", "category": "recreational", "coords": [-1.515018, 46.256637]}, {"name": "Plage de la Redoute", "text": "Plage de la Redoute se integrează pitoresc în peisajul de coastă din Les Portes-en-Ré, promițând ore relaxante la malul mării. Mediul liniștit este ideal pentru plimbări lungi de-a lungul apei și băi de soare fără griji. O vizită matinală dezvăluie farmecul deosebit al acestei porțiuni de coastă.", "category": "recreational", "coords": [-1.484909, 46.248708]}, {"name": "Plage de la Loge", "text": "Situată în fermecătorul Les Portes-en-Ré, această plajă franceză își dezvăluie propriul caracter maritim distinct. Oaspeții vor găsi aici spațiu din plin pentru momente lipsite de griji pe nisip sau pentru băi răcoritoare în ocean. Briza sărată se savurează cel mai bine în timpul unei excursii la sfârșitul după-amiezii.", "category": "recreational", "coords": [-1.481513, 46.245853]}, {"name": "Plage de Trousse Chemise", "text": "Cei care apreciază natura insulei Île de Ré vor găsi un refugiu idilic la Plage de Trousse Chemise din Les Portes-en-Ré. Atmosfera pașnică atrage în principal persoanele aflate în căutarea relaxării, cărora le place să înoate sau să privească în depărtare. Pentru o experiență netulburată, o vizită în afara orelor de vârf turistice este ideală.", "category": "recreational", "coords": [-1.475688, 46.235289]}, {"name": "Plage du Martray", "text": "Ca parte a peisajului de coastă din Les Portes-en-Ré, această plajă la ocean captează prin natura sa accesibilă și relaxată. Iubitorii de soare și înotătorii deopotrivă pot urma aici ritmul mareelor. Merită să împachetați câteva provizii și să vă încheiați ziua confortabil lângă apă.", "category": "recreational", "coords": [-1.491387, 46.19775]}, {"name": "Plage de l'Anse du Fourneau", "text": "Situată în golful blând din Les Portes-en-Ré, Plage de l'Anse du Fourneau oferă o porțiune liniștită de coastă. Familiile și cuplurile se bucură de obicei de momente liniștite aici, căutând scoici sau plimbându-se prin apa puțin adâncă. Lunile de vară scaldă acest loc într-o lumină deosebit de primitoare.", "category": "recreational", "coords": [-1.479352, 46.240533]}, {"name": "Plage de la Saucière", "text": "Cunoscută pentru oportunitățile sale excelente de plimbare, Plage de la Saucière din Les Portes-en-Ré deschide priveliști minunate asupra mării. Cei cărora le place să se plimbe de-a lungul malului și să respire briza mării vor iubi această plajă. Coasta își dezvăluie latura sălbatic romantică aici, mai ales în afara sezonului.", "category": "recreational", "coords": [-1.506699, 46.257403]}, {"name": "La Patache", "text": "La Patache este o plajă în Les Portes En Re, oferind un mediu liniștit la malul apei.", "category": "recreational", "coords": [-1.4772, 46.231271]}, {"name": "Plage de Radia", "text": "Plage de Radia este un punct de întâlnire local popular în Les Portes-en-Ré, unde relaxarea la ocean este o prioritate. Înotătorii și iubitorii de soare apreciază flerul autentic al insulei care înconjoară această porțiune de coastă. O vizită într-o după-amiază însorită promite cele mai bune condiții pentru o recreere pură.", "category": "recreational", "coords": [-1.54058, 46.21381]}, {"name": "Plage de la Pointe de Grignon", "text": "Această porțiune proeminentă de coastă din Les Portes-en-Ré conturează țărmul cu frumusețea sa naturală. Vizitatorilor le place să petreacă timpul aici pentru a se scufunda în apele răcoroase sau a privi valurile. Sosirea dimineața este adesea avantajoasă pentru a găsi un loc liniștit lângă apă.", "category": "recreational", "coords": [-1.53563, 46.204462]}, {"name": "Plage du Canot de Sauvetage", "text": "Pentru cei care caută relaxarea, Plage du Canot de Sauvetage din Les Portes-en-Ré dezvăluie un refugiu fermecător la ocean. Vă puteți așeza minunat pe țărm, asculta sunetul constant al apei și uita de viața de zi cu zi. O zi însorită de vară este oportunitatea perfectă pentru a explora acest mic paradis.", "category": "recreational", "coords": [-1.560101, 46.238719]}, {"name": "Plage du Petit Bec", "text": "Cu linia sa invitantă a apei, Plage du Petit Bec din Les Portes-en-Ré oferă condiții ideale pentru o ședere fără griji la malul mării. Oaspeții apreciază atmosfera relaxată, care invită atât la scurte excursii de înot, cât și la după-amiezi lungi pe plajă. Un prosop de plajă și protecția solară nu ar trebui să lipsească din bagajul dumneavoastră de vară.", "category": "recreational", "coords": [-1.523263, 46.252399]}, {"name": "Plage de la Conche des Baleines", "text": "Această plajă naturală întinsă de pe Île de Ré se întinde maiestuos de-a lungul coastei din Les Portes-en-Ré. Vasta întindere oferă tuturor vizitatorilor spațiu din plin pentru plajă, plimbări și înot revigorant în Atlantic. Cei care iubesc senzația de spațiu generos la malul apei vor avea parte de o zi de coastă de neuitat aici.", "category": "recreational", "coords": [-1.540398, 46.246427]}, {"name": "Plage du Grand Marchais", "text": "O adevărată bijuterie de coastă din Les Portes-en-Ré este Plage du Grand Marchais, care vă invită să zăboviți prin împrejurimile sale idilice. Este un loc fantastic pentru a vă relaxa pe nisipul cald, în timp ce marea se lovește ușor de plajă. Aduceți o carte bună pentru a savura pe deplin atmosfera calmă.", "category": "recreational", "coords": [-1.495922, 46.25639]}, {"name": "Plage Gros Jonc", "text": "Plage Gros Jonc conturează fața maritimă a Les Portes-en-Ré ca o zonă de plajă primitoare. Turiștii și localnicii deopotrivă vin aici pentru a se bucura de mare în timp ce înoată sau fac plajă. În zilele fierbinți de vară, briza răcoroasă a mării oferă o răcorire binevenită.", "category": "recreational", "coords": [-1.488299, 46.252035]}, {"name": "Plage Lauzin", "text": "Fie pentru o scurtă vizită pe coastă, fie pentru o întreagă după-amiază, Plage Lauzin din Les Portes-en-Ré oferă o experiență maritimă plăcută. Accesul necomplicat la apă îi bucură pe înotătorii care doresc să se arunce în valuri. O umbrelă de soare este recomandată pentru a petrece orele amiezii confortabil lângă mare.", "category": "recreational", "coords": [-1.491391, 46.254185]}, {"name": "Plage des Cytons", "text": "Plage des Cytons formează o secțiune de coastă caracteristică în Les Portes-en-Ré, marcată de frumusețea aspră a Atlanticului. Cei care caută singurătatea sau doresc pur și simplu să stea la marginea apei vor aprecia în mod deosebit această locație. Merită să ajungeți la reflux pentru a folosi întinderile largi de nisip pentru o plimbare.", "category": "recreational", "coords": [-1.488251, 46.250711]}, {"name": "Carrousel Park", "text": "Carrousel Park din Ile De Re este un parc de distracții pentru întreaga familie.", "category": "family", "coords": [-1.433032, 46.193285]}], "en": [{"name": "Phare des Baleines", "text": "Standing 57 meters tall at the western tip of the island, this stone lighthouse was completed in 1854 and features a spiral staircase of 257 steps.", "category": "bridges/lighthouses", "confidence": "high", "coords": [-1.504676, 46.205309]}, {"name": "Fortifications de Saint-Martin-de-Ré", "text": "Designed by Vauban in the seventeenth century, these massive star-shaped walls encircle the capital and maintain UNESCO World Heritage status.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-1.367222, 46.203056]}, {"name": "Port de Saint-Martin", "text": "Protected by stone breakwaters, this sheltered harbor is the social heart of the island, packed with docked vessels and vibrant outdoor terraces.", "category": "squares/old-town", "confidence": "high", "coords": [-1.368777, 46.204619]}, {"name": "Écomusée du Marais Salant", "text": "Set within an active salt pan, the museum thoroughly explains the traditional harvesting techniques of sea salt that shaped the local economy.", "category": "museums", "confidence": "high", "coords": [-1.458354, 46.220571]}, {"name": "Les Golandières", "text": "Les Golandières is a beach offering coastal views in De Re.", "category": "recreational", "coords": [-1.394935, 46.178064]}, {"name": "Bidons V", "text": "Bidons V is a beach located in De Re.", "category": "recreational", "coords": [-1.397251, 46.178859]}, {"name": "Plage naturiste du Peu Bernard", "text": "Set against the beautiful coastal backdrop of Ile De Re, Plage naturiste du Peu Bernard is a dedicated destination for naturists. This pristine stretch of sand offers a peaceful and unrestricted setting for sunbathing and swimming in the Atlantic waters. It is an ideal spot for those seeking harmony with nature during the summer.", "category": "recreational", "coords": [-1.417392, 46.186332]}, {"name": "La Cible", "text": "La Cible is a beach area in De Re.", "category": "recreational", "coords": [-1.354494, 46.204807]}, {"name": "Plage des Prises", "text": "Plage des Prises is a captivating beach destination tucked away on the island of Ile De Re. The inviting atmosphere calls for leisurely swims, long walks on the shoreline, and unwinding beneath the French sky. Travelers will find it particularly charming on clear days when the coastal colors are most vibrant.", "category": "recreational", "coords": [-1.452005, 46.198438]}, {"name": "Plage du Peu Ragot", "text": "Featuring a beautiful stretch of soft sand, Plage du Peu Ragot is a quintessential island beach on Ile De Re. The pleasant coastal environment makes it perfect for spreading out a towel, dipping into the waves, and enjoying the relaxed local vibe. Bringing sunglasses and plenty of water will ensure a comfortable stay on sunny afternoons.", "category": "recreational", "coords": [-1.436822, 46.192293]}, {"name": "Plage des Gollandières", "text": "Plage des Gollandières is a prominent coastal treasure located on the picturesque Ile De Re. Guests can immerse themselves in the ocean waves, stroll across the sands, or simply bask in the relaxed French seaside culture. It is an excellent spot to visit with family or friends for a full day of summer leisure.", "category": "recreational", "coords": [-1.403161, 46.180381]}, {"name": "Plage de Gros Jonc", "text": "Offering a vast and welcoming shoreline, Plage de Gros Jonc is a favorite spot on the island of Ile De Re. The dynamic yet peaceful setting is ideal for swimming, playing beach games, or just listening to the soothing sound of the tides. A sunset picnic here is highly suggested to round off a perfect day by the water.", "category": "recreational", "coords": [-1.373231, 46.167486]}, {"name": "Plage du Moulin Brûlé", "text": "Tucked beautifully into the coastal edges of Ile De Re, Plage du Moulin Brûlé serves as a tranquil getaway. Visitors are treated to fine sands and cool waters, perfect for a refreshing swim or a meditative seaside walk. Try to visit during low tide to explore the expanded shoreline and enjoy a calmer beach experience.", "category": "recreational", "coords": [-1.466565, 46.202748]}, {"name": "Plage du Grouin", "text": "Characterized by its sweeping island charm, Plage du Grouin is a beloved coastal segment on Ile De Re. It presents a lovely natural landscape where beachgoers can dive into the waves or recline on the warm sand. Arriving before noon is a great strategy to claim a peaceful spot and enjoy the morning sun.", "category": "recreational", "coords": [-1.413643, 46.227147]}, {"name": "Plage du Peu des Hommes", "text": "Plage du Peu des Hommes offers an idyllic piece of shoreline nestled within the beauty of Ile De Re. The relaxed local vibe makes it a splendid location for sunbathing, spontaneous swims, and connecting with nature. A light windbreaker might be useful if you plan to stay until the breezy late afternoon.", "category": "recreational", "coords": [-1.428794, 46.189232]}, {"name": "Plage de la Pergola", "text": "Anchoring a picturesque part of Ile De Re, Plage de la Pergola is a delightful French beach escape. Visitors are drawn to the expansive sand and refreshing tides, perfect for both active water sports and passive lounging. It stands out as a prime spot for enjoying a laid-back summer vacation with loved ones.", "category": "recreational", "coords": [-1.43223, 46.189883]}, {"name": "Plage des Follies", "text": "Set on the charming island of Ile De Re, Plage des Follies invites travelers with its wide open coastal views. The gentle rhythm of the sea creates a fantastic environment for swimming, building sandcastles, or leisurely coastal walking. Bringing a thick blanket is highly recommended for lounging comfortably on the sand.", "category": "recreational", "coords": [-1.420138, 46.187099]}, {"name": "Plage des Anneries", "text": "Boasting a serene stretch of French coastline, Plage des Anneries is a wonderful destination on Ile De Re. Whether you wish to plunge into the brisk waters or simply read a book on the shore, this beach accommodates a variety of relaxing pursuits. A late afternoon visit ensures a calmer atmosphere as the crowds thin out.", "category": "recreational", "coords": [-1.424435, 46.18806]}, {"name": "Plage de la Tonille", "text": "Unfolding along the shores of Ile De Re, Plage de la Tonille is a charming and unpretentious sandy spot. It offers clear coastal access for swimmers and sun-seekers looking to appreciate the natural beauty of the island. Pack your beach essentials and prepare for a genuinely relaxing day away from urban noise.", "category": "recreational", "coords": [-1.418056, 46.224952]}, {"name": "Plage du Petit Sergent", "text": "Resting quietly in Ile De Re, Plage du Petit Sergent is a picturesque coastal getaway. Sunbathers and swimmers alike will find the gentle waves and soft sand ideal for a leisurely afternoon outing. Consider walking along the waterline during the cooler hours of the morning to fully absorb the coastal tranquility.", "category": "recreational", "coords": [-1.382652, 46.172617]}, {"name": "Plage du Boutillon", "text": "Plage du Boutillon brings coastal elegance to the community of Les Portes En Re on the renowned Ile De Re. Its inviting layout offers endless opportunities for ocean swims, scenic photography, and relaxing in the French sun. Remember to apply sunscreen generously if you plan to spend the entire day on the sand.", "category": "recreational", "coords": [-1.473752, 46.202449]}, {"name": "Plage de la Grange", "text": "Situated gracefully in Les Portes En Re, Plage de la Grange stands out as a pristine slice of the Ile De Re shoreline. Guests are greeted by calming tides and ample space to lounge, making it perfect for both solitary reflection and family fun. Bringing along a small cooler with refreshments will elevate your sunny afternoon here.", "category": "recreational", "coords": [-1.529554, 46.201459]}, {"name": "Plage de la Marielle", "text": "Uniting the charm of Les Portes En Re with the natural beauty of Ile De Re, Plage de la Marielle is a lovely beach destination. This quiet corner of the coast is wonderful for refreshing swims, feeling the sand between your toes, and soaking up the Atlantic vibe. Since it can be less sheltered, checking the wind forecast before visiting is always a smart idea.", "category": "recreational", "coords": [-1.514285, 46.19712]}, {"name": "Plage du Lizay", "text": "Located on the shores of Les Portes-en-Ré, this inviting beach on the Île de Ré offers a relaxed Atlantic atmosphere. Visitors can easily enjoy swimming, sunbathing, or simply listening to the sound of the ocean. It is highly recommended to arrive early on warm summer days to fully appreciate the tranquility.", "category": "recreational", "coords": [-1.515018, 46.256637]}, {"name": "Plage de la Redoute", "text": "Plage de la Redoute blends picturesquely into the coastal landscape of Les Portes-en-Ré, promising relaxing hours by the sea. The tranquil environment is ideal for long walks along the water and laid-back sunbathing. A morning visit reveals the special charm of this stretch of coastline.", "category": "recreational", "coords": [-1.484909, 46.248708]}, {"name": "Plage de la Loge", "text": "Situated in charming Les Portes-en-Ré, this French beach unfolds its own distinct maritime character. Guests will find plenty of space here for carefree moments in the sand or refreshing dips in the ocean. The salty breeze is best enjoyed during a late afternoon excursion.", "category": "recreational", "coords": [-1.481513, 46.245853]}, {"name": "Plage de Trousse Chemise", "text": "Those who appreciate the nature of the Île de Ré will find an idyllic refuge at Plage de Trousse Chemise in Les Portes-en-Ré. The peaceful atmosphere mainly attracts those seeking relaxation who enjoy swimming or gazing out into the distance. For an undisturbed experience, a visit outside peak tourist times is ideal.", "category": "recreational", "coords": [-1.475688, 46.235289]}, {"name": "Plage du Martray", "text": "As part of the coastal landscape of Les Portes-en-Ré, this ocean beach captivates with its accessible and relaxed nature. Sun worshippers and bathers alike can follow the rhythm of the tides here. It is worth packing some provisions and comfortably rounding off the day by the water.", "category": "recreational", "coords": [-1.491387, 46.19775]}, {"name": "Plage de l'Anse du Fourneau", "text": "Located in the gentle bay of Les Portes-en-Ré, Plage de l'Anse du Fourneau offers a tranquil stretch of coastline. Families and couples typically enjoy quiet moments here looking for shells or wading in the shallow water. The summer months bathe this location in a particularly inviting light.", "category": "recreational", "coords": [-1.479352, 46.240533]}, {"name": "Plage de la Saucière", "text": "Known for its excellent walking opportunities, Plage de la Saucière in Les Portes-en-Ré opens up wonderful views of the sea. Those who enjoy strolling along the tideline and breathing in the sea breeze will love this beach. The coast reveals its wildly romantic side here, especially in the off-season.", "category": "recreational", "coords": [-1.506699, 46.257403]}, {"name": "La Patache", "text": "La Patache is a beach in Les Portes En Re offering a quiet waterside environment.", "category": "recreational", "coords": [-1.4772, 46.231271]}, {"name": "Plage de Radia", "text": "Plage de Radia is a popular local meeting point in Les Portes-en-Ré, where relaxation by the ocean is a top priority. Swimmers and sunbathers appreciate the authentic island flair that surrounds this stretch of coast. A visit on a sunny afternoon promises the best conditions for pure recreation.", "category": "recreational", "coords": [-1.54058, 46.21381]}, {"name": "Plage de la Pointe de Grignon", "text": "This prominent stretch of coast in Les Portes-en-Ré shapes the shoreline with its natural beauty. Visitors enjoy spending time here to dive into the cool waters or watch the waves. Arriving in the morning is often advantageous to find a quiet spot by the water.", "category": "recreational", "coords": [-1.53563, 46.204462]}, {"name": "Plage du Canot de Sauvetage", "text": "For those seeking relaxation, Plage du Canot de Sauvetage in Les Portes-en-Ré reveals a charming retreat by the ocean. You can settle down wonderfully on the shore, listen to the constant sound of the water, and forget everyday life. A sunny summer day is the perfect opportunity to explore this little paradise.", "category": "recreational", "coords": [-1.560101, 46.238719]}, {"name": "Plage du Petit Bec", "text": "With its inviting waterline, Plage du Petit Bec in Les Portes-en-Ré offers ideal conditions for a carefree stay by the sea. Guests appreciate the relaxed atmosphere, which invites both short swimming trips and long afternoons on the beach. A beach towel and sun protection should not be missing from your summer luggage.", "category": "recreational", "coords": [-1.523263, 46.252399]}, {"name": "Plage de la Conche des Baleines", "text": "This expansive natural beach on the Île de Ré stretches majestically along the coast of Les Portes-en-Ré. The enormous vastness provides all visitors with plenty of space for sunbathing, beachcombing, and refreshing swims in the Atlantic. Those who love a generous sense of space by the water will experience an unforgettable coastal day here.", "category": "recreational", "coords": [-1.540398, 46.246427]}, {"name": "Plage du Grand Marchais", "text": "A true coastal gem in Les Portes-en-Ré is Plage du Grand Marchais, which invites you to linger with its idyllic surroundings. It is a fantastic place to relax on the warm sand while the sea gently laps against the beach. Bring a good book to fully savor the calming atmosphere.", "category": "recreational", "coords": [-1.495922, 46.25639]}, {"name": "Plage Gros Jonc", "text": "Plage Gros Jonc shapes the maritime face of Les Portes-en-Ré as an inviting beach area. Holidaymakers and locals alike come here to enjoy the sea while swimming or sunbathing. On hot summer days, the refreshing sea breeze provides welcome cooling.", "category": "recreational", "coords": [-1.488299, 46.252035]}, {"name": "Plage Lauzin", "text": "Whether for a brief coastal visit or an entire afternoon, Plage Lauzin in Les Portes-en-Ré offers a pleasant maritime experience. The uncomplicated access to the water pleases bathers who want to plunge into the waves. A sunshade is advisable to spend the midday hours comfortably by the sea as well.", "category": "recreational", "coords": [-1.491391, 46.254185]}, {"name": "Plage des Cytons", "text": "Plage des Cytons forms a characteristic coastal section in Les Portes-en-Ré, marked by the rugged beauty of the Atlantic. Those seeking solitude or simply wanting to sit at the water's edge will particularly appreciate this location. It pays to arrive at low tide to utilize the wide expanses of sand for a walk.", "category": "recreational", "coords": [-1.488251, 46.250711]}, {"name": "Carrousel Park", "text": "Carrousel Park in Ile De Re is a theme park for the whole family.", "category": "family", "coords": [-1.433032, 46.193285]}]}},
+  {"id": "ile-de-re", "type": "city", "parent": "FR-NAQ", "coords": [-1.4017, 46.2014], "population": 18000, "tier": 1, "name": {"de": "Île de Ré", "hu": "Île de Ré", "ro": "Île de Ré", "en": "Île de Ré"}, "description": {"de": "Eine charmante Insel im Atlantik, bekannt für ihre weißen Häuser mit grünen Fensterläden, weite Salzwiesen und endlose Radwege.", "hu": "Varázslatos sziget az Atlanti-óceánban, amely fehér házairól, zöld spalettáiról, kiterjedt sólepárlóiról és végtelen kerékpárútjairól híres.", "ro": "O insulă fermecătoare din Atlantic, cunoscută pentru casele sale albe cu obloane verzi, mlaștinile sărate și pistele nesfârșite de biciclete.", "en": "A charming Atlantic island famous for its white-washed houses with green shutters, vast salt marshes, and endless cycling paths."}, "facts": {"de": ["3 km lange Brücke", "10 idyllische Dörfer", "Hauptstadt Saint-Martin", "Vauban-Festungsanlagen", "Phare des Baleines", "Salzgewinnung", "Esel mit Hosen", "100 km Radwege"], "hu": ["3 km hosszú híd köti össze", "10 festői falu", "Fővárosa Saint-Martin-de-Ré", "Vauban-erődítmények", "Phare des Baleines világítótorony", "Hagyományos sótermelés", "Nadrágos szamarak", "100 km kerékpárút"], "ro": ["Pod lung de 3 km", "10 sate idilice", "Capitala Saint-Martin-de-Ré", "Fortificații Vauban (UNESCO)", "Farul Phare des Baleines", "Producție tradițională de sare", "Măgăriți cu pantaloni", "100 km de piste de biciclete"], "en": ["Connected by a 3km bridge", "10 picturesque villages", "Capital Saint-Martin-de-Ré", "Vauban fortifications (UNESCO)", "Phare des Baleines lighthouse", "Traditional salt production", "Donkeys in trousers", "100 km of cycling paths"]}, "image": "/geo-images/france/ile-de-re.webp", "imageHint": "Aerial view of the fortifications of Saint-Martin-de-Ré and the harbor", "descriptionAdvanced": {"de": "Die Île de Ré, oft 'La Blanche' (Die Weiße) genannt, ist ein flaches Inselparadies vor der Küste von La Rochelle. Sie ist durch eine imposante, drei Kilometer lange Brücke mit dem Festland verbunden. Die Insel zeichnet sich durch eine strenge Architekturvorgabe aus: weiße Fassaden und grüne oder blaue Fensterläden, die den zehn Dörfern ein harmonisches Bild verleihen. Saint-Martin-de-Ré, der Hauptort, beeindruckt mit seinen sternförmigen Festungsanlagen von Vauban, die zum UNESCO-Welterbe gehören. Die Wirtschaft der Insel basiert auf dem Tourismus, der Austernzucht und der traditionellen Gewinnung von Meersalz in den weiten Salzwiesen im Norden. Einzigartig sind die 'Esel mit Hosen', die einst zum Schutz vor Insekten in den Salzwiesen bekleidet wurden und heute als Maskottchen der Insel gelten. Mit über 100 Kilometern Radwegen ist das Fahrrad das bevorzugte Fortbewegungsmittel.", "hu": "Az Île de Ré, vagyis a 'Fehér Sziget', Franciaország egyik legexkluzívabb és legtermészetesebb üdülőhelye La Rochelle partjainál. A szigetet 1988 óta egy 3 kilométeres híd köti össze a szárazfölddel. A tíz település mindegyike megőrizte egységes arculatát: alacsony, fehérre meszelt házak, jellegzetes zöld spalettákkal és mályvarózsákkal díszített szűk utcák. Központja, Saint-Martin-de-Ré, UNESCO világörökségi helyszín, köszönhetően Vauban által tervezett csillag alakú erődrendszerének. A sziget északi részét a sólepárlók és az osztrigatelepek uralják, ahol a híres 'fleur de sel' (sóvirág) készül. Különleges látványt nyújtanak a nadrágba öltöztetett szamarak, aminek hagyománya a mocsári rovarok elleni védekezésből ered. A sziget lapos domborzata miatt a kerékpározás az első számú közlekedési forma.", "ro": "Île de Ré, supranumită 'Cea Albă', este o destinație de vacanță exclusivistă situată în largul orașului La Rochelle. Insula este legată de continent printr-un pod spectaculos de 3 km lungime. Este faimoasă pentru cele zece sate pitorești, unde regulile stricte de urbanism păstrează armonia caselor albe cu obloane verzi. Saint-Martin-de-Ré, capitala istorică, găzduiește fortificații impresionante proiectate de Vauban, incluse în patrimoniul UNESCO. Peisajul insulei este variat, de la plaje lungi de nisip în sud, la mlaștini sărate și parcuri ostreicole în nord. O tradiție locală amuzantă sunt măgărușii Poitou purtând pantaloni, folosiți în trecut pentru a proteja animalele de înțepăturile insectelor din mlaștini. Cu peste 100 km de piste dedicate, bicicleta este cel mai popular mod de a explora farul Phare des Baleines și rezervațiile naturale.", "en": "Île de Ré, known as 'La Blanche' (The White Isle), is an upscale and naturally preserved island located off the coast of La Rochelle. Since 1988, it has been connected to the mainland by a 3-kilometer bridge. The island consists of ten charming villages, all adhering to a strict architectural code of white facades and green shutters, creating a unique visual harmony. Its capital, Saint-Martin-de-Ré, is a UNESCO World Heritage site due to its perfectly preserved star-shaped fortifications designed by Vauban. The island's north is dominated by traditional salt marshes and oyster beds, while the south features sprawling sandy beaches. A quirky local symbol is the 'donkeys in trousers' (baudets du Poitou), a tradition that began as protection for the animals against swamp insects. With flat terrain and 100km of paths, cycling is the primary way to explore."}, "factsAdvanced": {"de": ["UNESCO-Welterbe Vauban-Festung", "Brücke wurde 1988 fertiggestellt", "Höchster Punkt nur 20 Meter über Meer", "Phare des Baleines ist 57m hoch", "Produktion von Fleur de Sel seit dem Mittelalter", "30 Kilometer Sandstrände an der Südküste"], "hu": ["UNESCO Világörökség Vauban-erőd", "A hidat 1988-ban adták át", "Legmagasabb pontja mindössze 20 méter", "A Phare des Baleines torony 57 méter magas", "Sóbepárlás a középkor óta folyamatos", "30 kilométernyi homokos strand a déli parton"], "ro": ["Fortificații Vauban în patrimoniul UNESCO", "Podul a fost finalizat în 1988", "Altitudinea maximă este de doar 20 de metri", "Farul Baleines are o înălțime de 57 m", "Producția de Fleur de Sel datează din Evul Mediu", "30 de kilometri de plaje cu nisip pe coasta de sud"], "en": ["UNESCO World Heritage Vauban fortress", "The bridge was completed in 1988", "Maximum elevation is only 20 meters", "The Whale Lighthouse is 57m tall", "Fleur de Sel production since the Middle Ages", "30 kilometers of sandy beaches on the south coast"]}, "sights": {
+      "de": [
+            {
+                  "name": "Phare des Baleines",
+                  "text": "Dieser 57 Meter hohe steinerne Leuchtturm an der Westspitze der Insel wurde 1854 fertiggestellt und verfügt über eine Wendeltreppe mit 257 Stufen.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        -1.504676,
+                        46.205309
+                  ]
+            },
+            {
+                  "name": "Fortifications de Saint-Martin-de-Ré",
+                  "text": "Diese von Vauban im 17. Jahrhundert entworfenen sternförmigen Mauern umschließen die Hauptstadt und haben den UNESCO-Weltkulturerbe-Status.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        -1.367222,
+                        46.203056
+                  ]
+            },
+            {
+                  "name": "Port de Saint-Martin",
+                  "text": "Der durch steinerne Wellenbrecher geschützte Hafen ist das gesellschaftliche Herz der Insel, voller festgemachter Boote und belebter Terrassen.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -1.368777,
+                        46.204619
+                  ]
+            },
+            {
+                  "name": "Écomusée du Marais Salant",
+                  "text": "Das Museum befindet sich in einer aktiven Saline und erklärt die traditionellen Techniken der Meersalzgewinnung, die die Wirtschaft prägten.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -1.458354,
+                        46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières ist ein Strand mit Küstenblick in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Vor der wunderschönen Küstenkulisse der Ile De Re gelegen, ist die Plage naturiste du Peu Bernard ein ausgewiesener Anlaufpunkt für Naturisten. Dieser unberührte Sandstreifen bietet eine friedliche und freie Umgebung zum Sonnenbaden und Schwimmen im Atlantik. Für alle, die im Sommer die Harmonie mit der Natur suchen, ist dies der ideale Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible ist ein Strandbereich in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Die Plage des Prises ist ein faszinierendes Strandziel, das sich auf der Insel Ile De Re versteckt. Die einladende Atmosphäre ruft nach entspanntem Schwimmen, langen Spaziergängen am Ufer und Erholung unter dem französischen Himmel. Reisende werden diesen Ort an klaren Tagen als besonders charmant empfinden, wenn die Küstenfarben am kräftigsten leuchten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Mit einem wunderschönen Abschnitt aus weichem Sand ist die Plage du Peu Ragot ein typischer Inselstrand auf der Ile De Re. Die angenehme Küstenumgebung macht ihn perfekt, um das Handtuch auszubreiten, in die Wellen einzutauchen und das entspannte lokale Flair zu genießen. Mit Sonnenbrille und ausreichend Wasser wird der Aufenthalt an sonnigen Nachmittagen besonders komfortabel.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Die Plage des Gollandières ist ein markanter Küstenschatz auf der malerischen Ile De Re. Gäste können hier in die Ozeanwellen eintauchen, über den Sand schlendern oder einfach die entspannte französische Strandkultur in vollen Zügen genießen. Dieser Ort eignet sich hervorragend für einen Besuch mit der Familie oder Freunden, um einen ganzen Sommertag entspannt zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Mit ihrer weitläufigen und einladenden Küstenlinie ist die Plage de Gros Jonc ein beliebter Ort auf der Insel Ile De Re. Die dynamische und zugleich friedliche Umgebung ist ideal zum Schwimmen, für Strandspiele oder einfach, um dem beruhigenden Rauschen der Gezeiten zu lauschen. Ein Picknick zum Sonnenuntergang bietet sich hier an, um einen perfekten Tag am Wasser abzurunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Herrlich an die Küstenränder der Ile De Re geschmiegt, dient die Plage du Moulin Brûlé als ruhiger Zufluchtsort. Besucher dürfen sich auf feinen Sand und kühles Wasser freuen, was perfekt für ein erfrischendes Bad oder einen meditativen Strandspaziergang ist. Es lohnt sich, während der Ebbe zu kommen, um den breiteren Küstenstreifen zu erkunden und eine besonders ruhige Zeit am Strand zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Geprägt von ihrem weitreichenden Inselcharme ist die Plage du Grouin ein beliebter Küstenabschnitt auf der Ile De Re. Sie präsentiert eine reizvolle Naturlandschaft, in der Strandbesucher in die Wellen eintauchen oder sich im warmen Sand zurücklehnen können. Wer vor dem Mittag eintrifft, hat die besten Chancen, einen friedlichen Platz zu finden und die Morgensonne zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Die Plage du Peu des Hommes bietet ein idyllisches Stück Uferlinie, eingebettet in die Schönheit der Ile De Re. Die entspannte lokale Atmosphäre macht diesen Ort zu einem herrlichen Platz zum Sonnenbaden, für spontane Sprünge ins Wasser und um sich mit der Natur verbunden zu fühlen. Eine leichte Windjacke kann nützlich sein, wenn man bis in den windigeren späten Nachmittag bleiben möchte.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Die Plage de la Pergola, die einen malerischen Teil der Ile De Re einnimmt, ist ein wunderbarer französischer Strandausflug. Besucher werden von dem weitläufigen Sand und den erfrischenden Gezeiten angezogen, die sich sowohl für aktive Wassersportarten als auch für passives Faulenzen eignen. Sie sticht als erstklassiger Ort hervor, um einen entspannten Sommerurlaub mit den Liebsten zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Gelegen auf der charmanten Insel Ile De Re, lockt die Plage des Follies Reisende mit ihrem weiten Blick über die Küste. Der sanfte Rhythmus des Meeres schafft eine fantastische Umgebung zum Schwimmen, Sandburgenbauen oder für gemütliche Küstenspaziergänge. Eine dicke Decke mitzubringen, ist sehr zu empfehlen, um es sich im Sand richtig bequem zu machen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Mit einem friedlichen Abschnitt der französischen Küste ist die Plage des Anneries ein wunderbares Ziel auf der Ile De Re. Egal, ob man sich in das frische Wasser stürzen oder einfach nur ein Buch am Ufer lesen möchte, dieser Strand eignet sich für eine Vielzahl entspannender Aktivitäten. Ein Besuch am späten Nachmittag verspricht eine ruhigere Atmosphäre, wenn sich die Menschenmengen lichten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Entlang der Ufer der Ile De Re entfaltet sich die Plage de la Tonille als ein charmanter und unprätentiöser Sandfleck. Sie bietet Schwimmern und Sonnenanbetern, die die natürliche Schönheit der Insel schätzen möchten, einen tollen Zugang zur Küste. Packen Sie Ihre Strandutensilien ein und bereiten Sie sich auf einen wahrhaft entspannten Tag fernab des städtischen Lärms vor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Ruhig gelegen auf der Ile De Re, ist die Plage du Petit Sergent ein malerischer Rückzugsort an der Küste. Sonnenanbeter und Schwimmer gleichermaßen finden die sanften Wellen und den weichen Sand ideal für einen gemütlichen Nachmittagsausflug. Es empfiehlt sich, in den kühleren Morgenstunden an der Wasserlinie entlang zu spazieren, um die Ruhe der Küste voll in sich aufzunehmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Die Plage du Boutillon bringt küstennahe Eleganz in die Gemeinde Les Portes En Re auf der berühmten Ile De Re. Ihre einladende Gestaltung bietet endlose Möglichkeiten für das Schwimmen im Ozean, landschaftliche Fotografie und das Entspannen in der französischen Sonne. Denken Sie daran, sich großzügig mit Sonnencreme einzucremen, wenn Sie den ganzen Tag im Sand verbringen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Anmutig in Les Portes En Re gelegen, sticht die Plage de la Grange als ein unberührtes Stück der Küste der Ile De Re hervor. Gäste werden von beruhigenden Gezeiten und viel Platz zum Faulenzen begrüßt, was den Ort perfekt für einsame Besinnung, aber auch für Familienspaß macht. Mit einer kleinen Kühlbox voller Erfrischungen wird Ihr sonniger Nachmittag hier noch schöner.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Die Plage de la Marielle verbindet den Charme von Les Portes En Re mit der natürlichen Schönheit der Ile De Re und ist ein reizvolles Strandziel. Diese ruhige Ecke der Küste ist wunderbar für erfrischende Badegänge, um den Sand zwischen den Zehen zu spüren und die atlantische Atmosphäre aufzusaugen. Da der Strand etwas weniger geschützt sein kann, ist es immer eine gute Idee, vor dem Besuch den Windbericht zu prüfen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Dieser einladende Strand an der Küste von Les Portes-en-Ré auf der Île de Ré bietet eine entspannte Atmosphäre am Atlantik. Besucher können hier wunderbar baden, sonnenbaden oder einfach das Rauschen des Ozeans genießen. Es empfiehlt sich, an warmen Sommertagen frühzeitig anzureisen, um die Ruhe voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Die Plage de la Redoute fügt sich malerisch in die Küstenlandschaft von Les Portes-en-Ré ein und verspricht erholsame Stunden am Meer. Das ruhige Umfeld eignet sich ideal für ausgedehnte Spaziergänge am Wasser und entspanntes Sonnenbaden. Ein Besuch in den Vormittagsstunden offenbart den besonderen Charme dieses Küstenabschnitts.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Im reizvollen Les Portes-en-Ré gelegen, entfaltet dieser französische Strand seinen ganz eigenen, maritimen Charakter. Hier finden Gäste genügend Raum für unbeschwerte Momente im Sand oder erfrischende Badepausen im Ozean. Am besten lässt sich die salzige Brise bei einem spätnachmittäglichen Ausflug genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Wer die Natur der Île de Ré schätzt, findet an der Plage de Trousse Chemise in Les Portes-en-Ré ein idyllisches Refugium. Die friedliche Atmosphäre zieht vor allem Erholungssuchende an, die gerne schwimmen oder den Blick in die Weite schweifen lassen. Für ein ungestörtes Erlebnis bietet sich ein Besuch außerhalb der touristischen Stoßzeiten an.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "Als Teil der Küstenlandschaft von Les Portes-en-Ré begeistert dieser Meeresstrand durch seine zugängliche und entspannte Art. Sonnenanbeter und Badegäste können hier gleichermaßen dem Rhythmus der Gezeiten folgen. Es lohnt sich, etwas Proviant einzupacken und den Tag am Wasser gemütlich ausklingen zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "In der sanften Bucht von Les Portes-en-Ré gelegen, bietet die Plage de l'Anse du Fourneau einen beschaulichen Küstenabschnitt. Familien und Paare genießen hier meist ruhige Momente beim Muschelsuchen oder beim Waten im flachen Wasser. Die Sommermonate hüllen diesen Ort in ein besonders einladendes Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Bekannt für seine hervorragenden Spaziermöglichkeiten, eröffnet die Plage de la Saucière in Les Portes-en-Ré wundervolle Ausblicke auf das Meer. Wer gerne am Spülsaum entlangwandert und die Meeresbrise einatmet, wird diesen Strand lieben. Besonders in der Nebensaison entfaltet die Küste hier ihre wildromantische Seite.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache ist ein Strand in Les Portes En Re, der eine ruhige Umgebung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Die Plage de Radia ist ein beliebter lokaler Treffpunkt in Les Portes-en-Ré, an dem Entspannung am Ozean großgeschrieben wird. Schwimmer und Sonnenbadende schätzen das authentische Inselflair, das diesen Küstenstreifen umgibt. Ein Besuch an einem sonnigen Nachmittag verspricht beste Bedingungen für pure Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Dieser markante Küstenabschnitt in Les Portes-en-Ré prägt die Küstenlinie mit seiner natürlichen Schönheit. Besucher verbringen hier gerne Zeit, um in die kühlen Fluten einzutauchen oder den Wellen zuzuschauen. Um einen ruhigen Platz am Wasser zu finden, ist eine morgendliche Ankunft oft von Vorteil.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "Für Erholungssuchende offenbart die Plage du Canot de Sauvetage in Les Portes-en-Ré einen charmanten Rückzugsort am Ozean. Man kann sich wunderbar am Ufer niederlassen, dem stetigen Rauschen des Wassers lauschen und den Alltag vergessen. Ein sonniger Sommertag ist die perfekte Gelegenheit, dieses kleine Paradies zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Mit seiner einladenden Wasserlinie bietet die Plage du Petit Bec in Les Portes-en-Ré ideale Bedingungen für einen unbeschwerten Aufenthalt am Meer. Gäste schätzen die entspannte Atmosphäre, die sowohl zu kurzen Badeausflügen als auch zu langen Nachmittagen am Strand einlädt. Strandtuch und Sonnenschutz sollten im sommerlichen Reisegepäck nicht fehlen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Dieser weitläufige Naturstrand auf der Île de Ré erstreckt sich majestätisch entlang der Küste von Les Portes-en-Ré. Die enorme Weite gewährt allen Besuchern reichlich Platz zum Sonnenbaden, Strandwandern und für erfrischende Badegänge im Atlantik. Wer das großzügige Raumgefühl am Wasser liebt, wird hier einen unvergesslichen Küstentag erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "Ein wahres Küstenjuwel in Les Portes-en-Ré ist die Plage du Grand Marchais, die mit ihrer idyllischen Umgebung zum Verweilen einlädt. Hier lässt es sich hervorragend auf dem warmen Sand entspannen, während das Meer sanft an den Strand brandet. Bringen Sie ein gutes Buch mit, um die beruhigende Atmosphäre vollends auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Die Plage Gros Jonc prägt als einladender Strandbereich das maritime Gesicht von Les Portes-en-Ré. Urlauber und Einheimische kommen gleichermaßen hierher, um das Meer beim Schwimmen oder Sonnenbaden zu genießen. An heißen Sommertagen sorgt die erfrischende Meeresbrise für willkommene Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Ob für einen kurzen Küstenbesuch oder einen ganzen Nachmittag, die Plage Lauzin in Les Portes-en-Ré bietet ein angenehmes maritimes Erlebnis. Der unkomplizierte Zugang zum Wasser erfreut Badegäste, die sich in die Wellen stürzen möchten. Ein schattenspendender Regenschirm ist ratsam, um auch die Mittagsstunden angenehm am Meer zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Die Plage des Cytons formt einen charakteristischen Küstenabschnitt in Les Portes-en-Ré, der von der rauen Schönheit des Atlantiks geprägt ist. Wer Einsamkeit sucht oder einfach am Meeresspiegel sitzen möchte, wird diesen Ort besonders schätzen. Es lohnt sich, bei Ebbe anzukommen, um die weiten Sandflächen für einen Spaziergang zu nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
+            },
+            {
+                  "name": "Carrousel Park",
+                  "text": "Der Carrousel Park auf der Île de Ré ist ein Freizeitpark für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.433032,
+                        46.193285
+                  ]
+            },
+            {
+                  "name": "Musee Ernest Cognacq",
+                  "text": "Dieses Museum auf der Île de Ré zeigt die Geschichte und das Erbe der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        -1.365021,
+                        46.205409
+                  ]
+            },
+            {
+                  "name": "La Maline",
+                  "text": "Ein lokales Kulturzentrum und Theater auf der Île de Ré.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.426921,
+                        46.191736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare des Baleines",
+                  "text": "A sziget nyugati csücskén álló, 1854-ben elkészült 57 méter magas kővilágítótorony belsejében egy 257 lépcsőfokból álló csigalépcső található.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        -1.504676,
+                        46.205309
+                  ]
+            },
+            {
+                  "name": "Fortifications de Saint-Martin-de-Ré",
+                  "text": "A Vauban által a tizenhetedik században tervezett hatalmas csillag alakú falak körülveszik a fővárost, és az UNESCO világörökség részét képezik.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        -1.367222,
+                        46.203056
+                  ]
+            },
+            {
+                  "name": "Port de Saint-Martin",
+                  "text": "A kő hullámtörők által védett biztonságos kikötő a sziget társadalmi központja, amely tele van horgonyzó hajókkal és nyüzsgő szabadtéri teraszokkal.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -1.368777,
+                        46.204619
+                  ]
+            },
+            {
+                  "name": "Écomusée du Marais Salant",
+                  "text": "Egy aktív sólepárlóban található múzeum részletesen bemutatja a tengeri só hagyományos betakarítási technikáit, melyek a helyi gazdaságot formálták.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -1.458354,
+                        46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "A Les Golandières egy tengerparti kilátást nyújtó strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "A Bidons V egy strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Az Ile De Re gyönyörű tengerparti háttere előtt fekvő Plage naturiste du Peu Bernard a naturisták kedvelt úti célja. Ez az érintetlen homokos partszakasz békés és kötetlen környezetet kínál a napozáshoz és az atlanti vizekben való úszáshoz. Ideális hely azok számára, akik a nyár folyamán a természettel való harmóniát keresik.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "A La Cible egy strandszakasz De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "A Plage des Prises egy magával ragadó tengerparti úti cél, amely az Ile De Re szigetén bújik meg. A hívogató légkör kellemes úszásra, hosszú parti sétákra és a francia égbolt alatti kikapcsolódásra csábít. Az utazók különösen bájosnak találják majd a tiszta napokon, amikor a tengerparti színek a legélénkebbek.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "A puha homokos partszakasszal büszkélkedő Plage du Peu Ragot egy jellegzetes szigeti strand az Ile De Re partjainál. A kellemes tengerparti környezet tökéletes arra, hogy leterítsünk egy törölközőt, megmártózzunk a hullámokban és élvezzük a laza helyi hangulatot. Napszemüveggel és bőséges ivóvízzel felszerelkezve kényelmesen tölthetjük itt a napsütéses délutánokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "A Plage des Gollandières egy kiemelkedő tengerparti kincs a festői Ile De Re szigetén. A vendégek elmerülhetnek az óceán hullámaiban, sétálhatnak a homokban, vagy egyszerűen csak átadhatják magukat a laza francia parti kultúrának. Kiváló helyszín családok és baráti társaságok számára egy egész napos nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "A hatalmas és hívogató partvonallal rendelkező Plage de Gros Jonc az Ile De Re szigetének egyik kedvenc helyszíne. A dinamikus, mégis békés környezet ideális úszáshoz, tengerparti játékokhoz, vagy pusztán a dagály nyugtató hangjának hallgatásához. Egy naplementés piknik melegen ajánlott, hogy megkoronázzunk egy tökéletes, vízparton töltött napot.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Az Ile De Re tengerparti peremeibe gyönyörűen beékelt Plage du Moulin Brûlé nyugodt menedékként szolgál. A látogatókat finom homok és hűs víz várja, amely tökéletes egy frissítő úszáshoz vagy egy meditatív tengerparti sétához. Érdemes apály idején ellátogatni, hogy felfedezzük a kiszélesedett partvonalat, és élvezzük a csendesebb strandélményt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Széleskörű szigeti bájával a Plage du Grouin az Ile De Re egyik kedvelt partmenti szakasza. Szép természeti tájat tár elénk, ahol a strandolók belevethetik magukat a hullámokba, vagy lepihenhetnek a meleg homokban. A dél előtti érkezés remek stratégia arra, hogy egy békés helyet találjunk és élvezzük a reggeli napsütést.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "A Plage du Peu des Hommes egy idilli partszakaszt kínál, amely az Ile De Re szépségébe ágyazódik. A laza helyi hangulat pompás helyszínné teszi a napozáshoz, a spontán úszásokhoz és a természettel való kapcsolatteremtéshez. Egy könnyű széldzseki jól jöhet, ha a szelesebb késő délutánig tervezünk maradni.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Az Ile De Re egy festői részét lehorgonyzó Plage de la Pergola egy elragadó francia tengerparti menedék. A látogatókat vonzza a kiterjedt homokos part és a frissítő árapály, amely tökéletes mind az aktív vízi sportokhoz, mind a passzív heverészéshez. Kiemelkedően jó helyszín ahhoz, hogy szeretteinkkel töltsünk egy laza nyári vakációt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "A bájos Ile De Re szigetén fekvő Plage des Follies széles, nyitott tengerparti kilátással csábítja az utazókat. A tenger lágy ritmusa fantasztikus környezetet teremt az úszáshoz, homokvár-építéshez vagy kényelmes tengerparti sétákhoz. Egy vastag takaró behozatala kifejezetten ajánlott, hogy kényelmesen elnyúlhassunk a homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "A francia partvonal egy nyugodt szakaszával büszkélkedő Plage des Anneries csodálatos úti cél az Ile De Re szigeten. Akár a frissítő vízbe vágyunk, akár csak egy könyvet olvasnánk a parton, ez a strand számos pihentető tevékenységnek teret ad. A késő délutáni látogatás nyugodtabb légkört biztosít, mivel a tömeg ilyenkor már megritkul.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Az Ile De Re partjai mentén kibontakozó Plage de la Tonille egy bájos és szerény homokos helyszín. Tiszta parti hozzáférést kínál az úszóknak és a napozni vágyóknak, akik szeretnék megcsodálni a sziget természeti szépségét. Csomagolja be a strandeszközeit, és készüljön fel egy igazán pihentető napra, távol a városi zajtól.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Az Ile De Re szigetén csendesen meghúzódó Plage du Petit Sergent egy festői tengerparti menedék. A napozók és az úszók egyaránt ideálisnak találják a lágy hullámokat és a puha homokot egy ráérős délutáni kiruccanáshoz. Érdemes a reggeli hűvösebb órákban sétálni a víz peremén, hogy teljesen magunkba szívjuk a part nyugalmát.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "A Plage du Boutillon tengerparti eleganciát kölcsönöz Les Portes En Re közösségének a híres Ile De Re szigetén. Hívogató elrendezése végtelen lehetőséget kínál az óceáni úszásra, a festői fotózásra és a francia napsütésben való pihenésre. Ne felejtsen el bőségesen naptejet használni, ha az egész napot a homokban tervezi tölteni.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "A Les Portes En Re-ben kecsesen elhelyezkedő Plage de la Grange az Ile De Re partvonalának egy érintetlen szeleteként tűnik ki. A vendégeket megnyugtató árapály és bőséges pihenőhely fogadja, így tökéletes mind a magányos elmélkedéshez, mind a családi szórakozáshoz. Ha magával hoz egy kis hűtőtáskát frissítőkkel, az csak tovább emeli a napsütéses délután fényét.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "A Les Portes En Re varázsát az Ile De Re természeti szépségével ötvöző Plage de la Marielle egy bájos tengerparti úti cél. A part ezen csendes sarka csodálatos a frissítő úszáshoz, hogy érezzük a homokot a lábujjaink között, és magunkba szívjuk az atlanti hangulatot. Mivel kevésbé védett lehet, a látogatás előtt mindig okos ötlet ellenőrizni a szélelőrejelzést.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Az Île de Ré szigetén, Les Portes-en-Ré partjainál fekvő hívogató strand nyugodt atlanti hangulatot áraszt. A látogatók kiválóan úszhatnak, napozhatnak, vagy egyszerűen csak élvezhetik az óceán morajlását. Meleg nyári napokon érdemes korán érkezni, hogy maximálisan kiélvezzük a csendet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "A Plage de la Redoute festőien illeszkedik Les Portes-en-Ré parti tájába, pihentető tengerparti órákat ígérve. A békés környezet ideális a hosszú vízparti sétákhoz és a gondtalan napozáshoz. Egy délelőtti látogatás tökéletesen megmutatja ennek a partszakasznak a különleges varázsát.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "A hangulatos Les Portes-en-Ré területén található francia strand sajátos, tengeri karakterrel bontakozik ki. A vendégek itt bőséges teret találnak a homokos parton töltött gondtalan pillanatokhoz vagy a frissítő óceáni fürdőzéshez. A sós tengeri szellőt leginkább egy késő délutáni kirándulás során lehet élvezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Aki értékeli az Île de Ré természetét, idilli menedékre lel a Les Portes-en-Ré-i Plage de Trousse Chemise strandon. A békés hangulat leginkább a kikapcsolódásra vágyókat vonzza, akik szívesen úsznak vagy gyönyörködnek a távolba vesző kilátásban. A zavartalan élmény érdekében érdemes a turisztikai csúcsidőkön kívül érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "A Les Portes-en-Ré partvidékének részeként ez az óceáni strand megközelíthető és laza jellegével varázsol el. A napimádók és a fürőzők egyaránt követhetik itt az árapály ritmusát. Érdemes némi elemózsiát csomagolni, és kényelmesen zárni a napot a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "A Les Portes-en-Ré szelíd öblében elhelyezkedő Plage de l'Anse du Fourneau békés partszakaszt kínál. Családok és párok többnyire csendes pillanatokat élnek át itt, kagylót gyűjtve vagy a sekély vízben gázolva. A nyári hónapok különösen hívogató fénybe öltöztetik ezt a helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "A kiváló sétálási lehetőségeiről ismert Les Portes-en-Ré-i Plage de la Saucière csodálatos kilátást nyújt a tengerre. Akik szeretnek a part mentén sétálni és belélegezni a tengeri szellőt, imádni fogják ezt a strandot. A partvidék különösen az utószezonban mutatja meg itt vadregényes oldalát.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "A La Patache egy strand Les Portes En Re területén, amely nyugodt tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "A Plage de Radia egy népszerű helyi találkozóhely Les Portes-en-Ré-ben, ahol a tengerparti pihenés az első. Az úszók és a napozók értékelik az autentikus szigeti hangulatot, amely ezt a partszakaszt övezi. Egy napos délutáni látogatás a legjobb feltételeket ígéri a tiszta kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Ez a jellegzetes Les Portes-en-Ré-i partszakasz természetes szépségével formálja a tengerpart vonalát. A látogatók szívesen töltenek itt időt, hogy megmártózzanak a hűsítő habokban, vagy csak figyeljék a hullámokat. A vízparti nyugodt hely megtalálása érdekében gyakran előnyös a reggeli érkezés.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "A kikapcsolódni vágyók számára a Les Portes-en-Ré-i Plage du Canot de Sauvetage bájos menedéket fed fel az óceán partján. Csodálatosan el lehet helyezkedni a parton, hallgatni a víz folyamatos zúgását, és elfelejteni a mindennapokat. Egy napsütéses nyári nap tökéletes alkalom e kis paradicsom felfedezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Hívogató vízvonalával a Les Portes-en-Ré-i Plage du Petit Bec ideális feltételeket kínál egy gondtalan tengerparti tartózkodáshoz. A vendégek értékelik a nyugodt légkört, amely mind a rövid fürdőzésekhez, mind a hosszú tengerparti délutánokhoz tökéletes. A strandtörölköző és a napvédelem nem hiányozhat a nyári poggyászból.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Ez a kiterjedt természetes strand az Île de Ré szigetén fenségesen húzódik Les Portes-en-Ré partvonala mentén. A hatalmas tágasság minden látogatónak bőséges teret biztosít a napozáshoz, a tengerparti sétákhoz és az Atlanti-óceánban való frissítő fürdőzéshez. Aki szereti a vízparti tágas térérzetet, felejthetetlen parti napot fog itt átélni.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "Les Portes-en-Ré igazi tengerparti gyöngyszeme a Plage du Grand Marchais, amely idilli környezetével maradásra csábít. Kiválóan lehet itt pihenni a meleg homokon, miközben a tenger lágyan nyaldossa a partot. Hozzon magával egy jó könyvet, hogy teljes mértékben kiélvezhesse a nyugtató légkört.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "A Plage Gros Jonc hívogató strandterületként formálja Les Portes-en-Ré tengeri arcát. Nyaralók és helyiek egyaránt eljönnek ide, hogy úszás vagy napozás közben élvezzék a tengert. Forró nyári napokon a frissítő tengeri szellő üdvös enyhülést nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Legyen szó egy rövid parti látogatásról vagy egy egész délutánról, a Les Portes-en-Ré-i Plage Lauzin kellemes tengeri élményt nyújt. A víz egyszerű megközelíthetősége örömmel tölti el a fürdőzőket, akik a hullámok közé vágynak. Egy napernyő használata ajánlott, hogy a déli órákat is kényelmesen tölthessük a tengernél.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "A Plage des Cytons egy jellegzetes partszakaszt alkot Les Portes-en-Ré-ben, amelyet az Atlanti-óceán zord szépsége jellemez. Aki magányra vágyik, vagy egyszerűen csak a vízszintnél szeretne ülni, különösen értékelni fogja ezt a helyet. Érdemes apálykor érkezni, hogy kihasználhassuk a hatalmas homokos területeket egy sétára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
+            },
+            {
+                  "name": "Carrousel Park",
+                  "text": "Az Île de Ré-i Carrousel Park egy szabadidőpark az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.433032,
+                        46.193285
+                  ]
+            },
+            {
+                  "name": "Musee Ernest Cognacq",
+                  "text": "Az Île de Ré szigetén található múzeum a sziget történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.365021,
+                        46.205409
+                  ]
+            },
+            {
+                  "name": "La Maline",
+                  "text": "Helyi kulturális központ és színház az Île de Ré szigetén.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.426921,
+                        46.191736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare des Baleines",
+                  "text": "Având o înălțime de 57 de metri în vârful vestic al insulei, acest far de piatră finalizat în 1854 are o scară în spirală formată din 257 de trepte.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        -1.504676,
+                        46.205309
+                  ]
+            },
+            {
+                  "name": "Fortifications de Saint-Martin-de-Ré",
+                  "text": "Proiectate de Vauban în secolul al XVII-lea, aceste ziduri masive în formă de stea înconjoară capitala și dețin statutul de Patrimoniu UNESCO.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        -1.367222,
+                        46.203056
+                  ]
+            },
+            {
+                  "name": "Port de Saint-Martin",
+                  "text": "Protejat de diguri de piatră, acest port adăpostit este inima socială a insulei, plin de nave ancorate și terase vibrante în aer liber.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -1.368777,
+                        46.204619
+                  ]
+            },
+            {
+                  "name": "Écomusée du Marais Salant",
+                  "text": "Situat într-o salină activă, muzeul explică în profunzime tehnicile tradiționale de recoltare a sării de mare care au modelat economia locală.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -1.458354,
+                        46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières este o plajă ce oferă priveliști de coastă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V este o plajă situată în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Situată pe fundalul de coastă frumos din Ile De Re, Plage naturiste du Peu Bernard este o destinație dedicată naturiștilor. Această fâșie imaculată de nisip oferă un cadru liniștit și fără restricții pentru plajă și înot în apele Atlanticului. Este un loc ideal pentru cei care caută armonia cu natura în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible este o zonă de plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Plage des Prises este o destinație de plajă captivantă ascunsă pe insula Ile De Re. Atmosfera primitoare îndeamnă la înot pe îndelete, la plimbări lungi pe țărm și la relaxare sub cerul francez. Călătorii o vor găsi deosebit de fermecătoare în zilele senine, când culorile coastei sunt cele mai vibrante.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Având o întindere frumoasă de nisip fin, Plage du Peu Ragot este o plajă insulară prin excelență pe Ile De Re. Mediul de coastă plăcut o face perfectă pentru a întinde un prosop, a vă scufunda în valuri și a vă bucura de atmosfera locală relaxată. Aducerea ochelarilor de soare și a unei cantități suficiente de apă va asigura o ședere confortabilă în după-amiezile însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Plage des Gollandières este o comoară de coastă proeminentă situată pe pitoreasca Ile De Re. Oaspeții se pot scufunda în valurile oceanului, se pot plimba pe nisip sau pur și simplu se pot bucura de cultura relaxată a litoralului francez. Este un loc excelent de vizitat cu familia sau prietenii pentru o zi întreagă de petrecere a timpului liber estival.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Oferind un țărm vast și primitor, Plage de Gros Jonc este un loc preferat pe insula Ile De Re. Cadrul dinamic, dar pașnic este ideal pentru înot, jocuri pe plajă sau pur și simplu pentru a asculta sunetul liniștitor al mareelor. Un picnic la apus aici este foarte sugerat pentru a completa o zi perfectă lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Ascunsă frumos la marginile de coastă din Ile De Re, Plage du Moulin Brûlé servește drept o evadare liniștită. Vizitatorii sunt răsfățați cu nisipuri fine și ape răcoroase, perfecte pentru o înot revigorant sau o plimbare meditativă pe litoral. Încercați să vizitați în timpul refluxului pentru a explora țărmul extins și pentru a vă bucura de o experiență mai calmă pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Caracterizată de farmecul său insular vast, Plage du Grouin este un segment de coastă îndrăgit pe Ile De Re. Aceasta prezintă un peisaj natural minunat, unde iubitorii de plajă se pot scufunda în valuri sau se pot întinde pe nisipul cald. Sosirea înainte de prânz este o strategie excelentă pentru a revendica un loc pașnic și a vă bucura de soarele dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Plage du Peu des Hommes oferă o bucată idilică de țărm cuibărită în frumusețea insulei Ile De Re. Atmosfera locală relaxată face ca acesta să fie un loc splendid pentru plajă, înot spontan și conectare cu natura. O jachetă de vânt ușoară ar putea fi utilă dacă intenționați să rămâneți până după-amiaza târziu, când începe să bată briza.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Ancorând o parte pitorească din Ile De Re, Plage de la Pergola este o evadare încântătoare pe o plajă franceză. Vizitatorii sunt atrași de nisipul întins și de mareele revigorante, perfecte atât pentru sporturi nautice active, cât și pentru o leneveală pasivă. Se remarcă ca un loc de primă mână pentru a vă bucura de o vacanță de vară relaxată alături de cei dragi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Situată pe fermecătoarea insulă Ile De Re, Plage des Follies invită călătorii cu priveliștile sale ample și deschise spre coastă. Ritmul blând al mării creează un mediu fantastic pentru înot, construirea castelelor de nisip sau pentru o plimbare liniștită pe țărm. Este foarte recomandat să aduceți o pătură groasă pentru a vă relaxa confortabil pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Mândrindu-se cu o porțiune senină a coastei franceze, Plage des Anneries este o destinație minunată pe Ile De Re. Indiferent dacă doriți să vă scufundați în apele vioaie sau pur și simplu să citiți o carte pe țărm, această plajă găzduiește o varietate de activități relaxante. O vizită la sfârșitul după-amiezii asigură o atmosferă mai calmă, pe măsură ce aglomerația se diminuează.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Desfășurându-se de-a lungul țărmurilor din Ile De Re, Plage de la Tonille este un loc de nisip fermecător și lipsit de pretenții. Oferă un acces liber la coastă pentru înotători și căutătorii de soare care doresc să aprecieze frumusețea naturală a insulei. Împachetați-vă lucrurile esențiale pentru plajă și pregătiți-vă pentru o zi cu adevărat relaxantă, departe de zgomotul urban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Odihnindu-se liniștit în Ile De Re, Plage du Petit Sergent este o evadare de coastă pitorească. Atât iubitorii de plajă, cât și înotătorii vor găsi valurile blânde și nisipul fin ideale pentru o ieșire relaxantă de după-amiază. Luați în considerare o plimbare de-a lungul apei în timpul orelor mai răcoroase ale dimineții pentru a absorbi pe deplin liniștea litoralului.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Plage du Boutillon aduce o eleganță de coastă comunității din Les Portes En Re, pe renumita Ile De Re. Aspectul său primitor oferă oportunități infinite pentru înot în ocean, fotografie pitorească și relaxare sub soarele francez. Nu uitați să aplicați generos cremă de protecție solară dacă intenționați să petreceți întreaga zi pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Situată cu grație în Les Portes En Re, Plage de la Grange se remarcă ca o felie imaculată a țărmului din Ile De Re. Oaspeții sunt întâmpinați de maree liniștitoare și de un spațiu amplu pentru relaxare, făcând-o perfectă atât pentru o reflecție solitară, cât și pentru distracția în familie. Dacă aduceți o mică ladă frigorifică cu răcoritoare, veți îmbunătăți după-amiaza însorită petrecută aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Unind farmecul din Les Portes En Re cu frumusețea naturală din Ile De Re, Plage de la Marielle este o destinație minunată de plajă. Acest colț liniștit al coastei este minunat pentru înot revigorant, pentru a simți nisipul printre degete și pentru a absorbi atmosfera atlantică. Deoarece poate fi mai puțin adăpostită, verificarea prognozei vântului înainte de vizită este întotdeauna o idee inteligentă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Situată pe țărmurile din Les Portes-en-Ré, această plajă primitoare de pe Île de Ré oferă o atmosferă relaxantă la Atlantic. Vizitatorii se pot bucura de înot, plajă sau pur și simplu ascultând sunetul oceanului. Este recomandat să sosiți devreme în zilele calde de vară pentru a aprecia pe deplin liniștea.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Plage de la Redoute se integrează pitoresc în peisajul de coastă din Les Portes-en-Ré, promițând ore relaxante la malul mării. Mediul liniștit este ideal pentru plimbări lungi de-a lungul apei și băi de soare fără griji. O vizită matinală dezvăluie farmecul deosebit al acestei porțiuni de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Situată în fermecătorul Les Portes-en-Ré, această plajă franceză își dezvăluie propriul caracter maritim distinct. Oaspeții vor găsi aici spațiu din plin pentru momente lipsite de griji pe nisip sau pentru băi răcoritoare în ocean. Briza sărată se savurează cel mai bine în timpul unei excursii la sfârșitul după-amiezii.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Cei care apreciază natura insulei Île de Ré vor găsi un refugiu idilic la Plage de Trousse Chemise din Les Portes-en-Ré. Atmosfera pașnică atrage în principal persoanele aflate în căutarea relaxării, cărora le place să înoate sau să privească în depărtare. Pentru o experiență netulburată, o vizită în afara orelor de vârf turistice este ideală.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "Ca parte a peisajului de coastă din Les Portes-en-Ré, această plajă la ocean captează prin natura sa accesibilă și relaxată. Iubitorii de soare și înotătorii deopotrivă pot urma aici ritmul mareelor. Merită să împachetați câteva provizii și să vă încheiați ziua confortabil lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "Situată în golful blând din Les Portes-en-Ré, Plage de l'Anse du Fourneau oferă o porțiune liniștită de coastă. Familiile și cuplurile se bucură de obicei de momente liniștite aici, căutând scoici sau plimbându-se prin apa puțin adâncă. Lunile de vară scaldă acest loc într-o lumină deosebit de primitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Cunoscută pentru oportunitățile sale excelente de plimbare, Plage de la Saucière din Les Portes-en-Ré deschide priveliști minunate asupra mării. Cei cărora le place să se plimbe de-a lungul malului și să respire briza mării vor iubi această plajă. Coasta își dezvăluie latura sălbatic romantică aici, mai ales în afara sezonului.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache este o plajă în Les Portes En Re, oferind un mediu liniștit la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Plage de Radia este un punct de întâlnire local popular în Les Portes-en-Ré, unde relaxarea la ocean este o prioritate. Înotătorii și iubitorii de soare apreciază flerul autentic al insulei care înconjoară această porțiune de coastă. O vizită într-o după-amiază însorită promite cele mai bune condiții pentru o recreere pură.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Această porțiune proeminentă de coastă din Les Portes-en-Ré conturează țărmul cu frumusețea sa naturală. Vizitatorilor le place să petreacă timpul aici pentru a se scufunda în apele răcoroase sau a privi valurile. Sosirea dimineața este adesea avantajoasă pentru a găsi un loc liniștit lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "Pentru cei care caută relaxarea, Plage du Canot de Sauvetage din Les Portes-en-Ré dezvăluie un refugiu fermecător la ocean. Vă puteți așeza minunat pe țărm, asculta sunetul constant al apei și uita de viața de zi cu zi. O zi însorită de vară este oportunitatea perfectă pentru a explora acest mic paradis.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Cu linia sa invitantă a apei, Plage du Petit Bec din Les Portes-en-Ré oferă condiții ideale pentru o ședere fără griji la malul mării. Oaspeții apreciază atmosfera relaxată, care invită atât la scurte excursii de înot, cât și la după-amiezi lungi pe plajă. Un prosop de plajă și protecția solară nu ar trebui să lipsească din bagajul dumneavoastră de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Această plajă naturală întinsă de pe Île de Ré se întinde maiestuos de-a lungul coastei din Les Portes-en-Ré. Vasta întindere oferă tuturor vizitatorilor spațiu din plin pentru plajă, plimbări și înot revigorant în Atlantic. Cei care iubesc senzația de spațiu generos la malul apei vor avea parte de o zi de coastă de neuitat aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "O adevărată bijuterie de coastă din Les Portes-en-Ré este Plage du Grand Marchais, care vă invită să zăboviți prin împrejurimile sale idilice. Este un loc fantastic pentru a vă relaxa pe nisipul cald, în timp ce marea se lovește ușor de plajă. Aduceți o carte bună pentru a savura pe deplin atmosfera calmă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Plage Gros Jonc conturează fața maritimă a Les Portes-en-Ré ca o zonă de plajă primitoare. Turiștii și localnicii deopotrivă vin aici pentru a se bucura de mare în timp ce înoată sau fac plajă. În zilele fierbinți de vară, briza răcoroasă a mării oferă o răcorire binevenită.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Fie pentru o scurtă vizită pe coastă, fie pentru o întreagă după-amiază, Plage Lauzin din Les Portes-en-Ré oferă o experiență maritimă plăcută. Accesul necomplicat la apă îi bucură pe înotătorii care doresc să se arunce în valuri. O umbrelă de soare este recomandată pentru a petrece orele amiezii confortabil lângă mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Plage des Cytons formează o secțiune de coastă caracteristică în Les Portes-en-Ré, marcată de frumusețea aspră a Atlanticului. Cei care caută singurătatea sau doresc pur și simplu să stea la marginea apei vor aprecia în mod deosebit această locație. Merită să ajungeți la reflux pentru a folosi întinderile largi de nisip pentru o plimbare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
+            },
+            {
+                  "name": "Carrousel Park",
+                  "text": "Carrousel Park din Ile De Re este un parc de distracții pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -1.433032,
+                        46.193285
+                  ]
+            },
+            {
+                  "name": "Musee Ernest Cognacq",
+                  "text": "Acest muzeu de pe Île de Ré prezintă istoria și patrimoniul insulei.",
+                  "category": "museum",
+                  "coords": [
+                        -1.365021,
+                        46.205409
+                  ]
+            },
+            {
+                  "name": "La Maline",
+                  "text": "Un centru cultural și teatru local pe Île de Ré.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.426921,
+                        46.191736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare des Baleines",
+                  "text": "Standing 57 meters tall at the western tip of the island, this stone lighthouse was completed in 1854 and features a spiral staircase of 257 steps.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        -1.504676,
+                        46.205309
+                  ]
+            },
+            {
+                  "name": "Fortifications de Saint-Martin-de-Ré",
+                  "text": "Designed by Vauban in the seventeenth century, these massive star-shaped walls encircle the capital and maintain UNESCO World Heritage status.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        -1.367222,
+                        46.203056
+                  ]
+            },
+            {
+                  "name": "Port de Saint-Martin",
+                  "text": "Protected by stone breakwaters, this sheltered harbor is the social heart of the island, packed with docked vessels and vibrant outdoor terraces.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -1.368777,
+                        46.204619
+                  ]
+            },
+            {
+                  "name": "Écomusée du Marais Salant",
+                  "text": "Set within an active salt pan, the museum thoroughly explains the traditional harvesting techniques of sea salt that shaped the local economy.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -1.458354,
+                        46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières is a beach offering coastal views in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V is a beach located in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Set against the beautiful coastal backdrop of Ile De Re, Plage naturiste du Peu Bernard is a dedicated destination for naturists. This pristine stretch of sand offers a peaceful and unrestricted setting for sunbathing and swimming in the Atlantic waters. It is an ideal spot for those seeking harmony with nature during the summer.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible is a beach area in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Plage des Prises is a captivating beach destination tucked away on the island of Ile De Re. The inviting atmosphere calls for leisurely swims, long walks on the shoreline, and unwinding beneath the French sky. Travelers will find it particularly charming on clear days when the coastal colors are most vibrant.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Featuring a beautiful stretch of soft sand, Plage du Peu Ragot is a quintessential island beach on Ile De Re. The pleasant coastal environment makes it perfect for spreading out a towel, dipping into the waves, and enjoying the relaxed local vibe. Bringing sunglasses and plenty of water will ensure a comfortable stay on sunny afternoons.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Plage des Gollandières is a prominent coastal treasure located on the picturesque Ile De Re. Guests can immerse themselves in the ocean waves, stroll across the sands, or simply bask in the relaxed French seaside culture. It is an excellent spot to visit with family or friends for a full day of summer leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Offering a vast and welcoming shoreline, Plage de Gros Jonc is a favorite spot on the island of Ile De Re. The dynamic yet peaceful setting is ideal for swimming, playing beach games, or just listening to the soothing sound of the tides. A sunset picnic here is highly suggested to round off a perfect day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Tucked beautifully into the coastal edges of Ile De Re, Plage du Moulin Brûlé serves as a tranquil getaway. Visitors are treated to fine sands and cool waters, perfect for a refreshing swim or a meditative seaside walk. Try to visit during low tide to explore the expanded shoreline and enjoy a calmer beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Characterized by its sweeping island charm, Plage du Grouin is a beloved coastal segment on Ile De Re. It presents a lovely natural landscape where beachgoers can dive into the waves or recline on the warm sand. Arriving before noon is a great strategy to claim a peaceful spot and enjoy the morning sun.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Plage du Peu des Hommes offers an idyllic piece of shoreline nestled within the beauty of Ile De Re. The relaxed local vibe makes it a splendid location for sunbathing, spontaneous swims, and connecting with nature. A light windbreaker might be useful if you plan to stay until the breezy late afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Anchoring a picturesque part of Ile De Re, Plage de la Pergola is a delightful French beach escape. Visitors are drawn to the expansive sand and refreshing tides, perfect for both active water sports and passive lounging. It stands out as a prime spot for enjoying a laid-back summer vacation with loved ones.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Set on the charming island of Ile De Re, Plage des Follies invites travelers with its wide open coastal views. The gentle rhythm of the sea creates a fantastic environment for swimming, building sandcastles, or leisurely coastal walking. Bringing a thick blanket is highly recommended for lounging comfortably on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Boasting a serene stretch of French coastline, Plage des Anneries is a wonderful destination on Ile De Re. Whether you wish to plunge into the brisk waters or simply read a book on the shore, this beach accommodates a variety of relaxing pursuits. A late afternoon visit ensures a calmer atmosphere as the crowds thin out.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Unfolding along the shores of Ile De Re, Plage de la Tonille is a charming and unpretentious sandy spot. It offers clear coastal access for swimmers and sun-seekers looking to appreciate the natural beauty of the island. Pack your beach essentials and prepare for a genuinely relaxing day away from urban noise.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Resting quietly in Ile De Re, Plage du Petit Sergent is a picturesque coastal getaway. Sunbathers and swimmers alike will find the gentle waves and soft sand ideal for a leisurely afternoon outing. Consider walking along the waterline during the cooler hours of the morning to fully absorb the coastal tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Plage du Boutillon brings coastal elegance to the community of Les Portes En Re on the renowned Ile De Re. Its inviting layout offers endless opportunities for ocean swims, scenic photography, and relaxing in the French sun. Remember to apply sunscreen generously if you plan to spend the entire day on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Situated gracefully in Les Portes En Re, Plage de la Grange stands out as a pristine slice of the Ile De Re shoreline. Guests are greeted by calming tides and ample space to lounge, making it perfect for both solitary reflection and family fun. Bringing along a small cooler with refreshments will elevate your sunny afternoon here.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Uniting the charm of Les Portes En Re with the natural beauty of Ile De Re, Plage de la Marielle is a lovely beach destination. This quiet corner of the coast is wonderful for refreshing swims, feeling the sand between your toes, and soaking up the Atlantic vibe. Since it can be less sheltered, checking the wind forecast before visiting is always a smart idea.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Located on the shores of Les Portes-en-Ré, this inviting beach on the Île de Ré offers a relaxed Atlantic atmosphere. Visitors can easily enjoy swimming, sunbathing, or simply listening to the sound of the ocean. It is highly recommended to arrive early on warm summer days to fully appreciate the tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Plage de la Redoute blends picturesquely into the coastal landscape of Les Portes-en-Ré, promising relaxing hours by the sea. The tranquil environment is ideal for long walks along the water and laid-back sunbathing. A morning visit reveals the special charm of this stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Situated in charming Les Portes-en-Ré, this French beach unfolds its own distinct maritime character. Guests will find plenty of space here for carefree moments in the sand or refreshing dips in the ocean. The salty breeze is best enjoyed during a late afternoon excursion.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Those who appreciate the nature of the Île de Ré will find an idyllic refuge at Plage de Trousse Chemise in Les Portes-en-Ré. The peaceful atmosphere mainly attracts those seeking relaxation who enjoy swimming or gazing out into the distance. For an undisturbed experience, a visit outside peak tourist times is ideal.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "As part of the coastal landscape of Les Portes-en-Ré, this ocean beach captivates with its accessible and relaxed nature. Sun worshippers and bathers alike can follow the rhythm of the tides here. It is worth packing some provisions and comfortably rounding off the day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "Located in the gentle bay of Les Portes-en-Ré, Plage de l'Anse du Fourneau offers a tranquil stretch of coastline. Families and couples typically enjoy quiet moments here looking for shells or wading in the shallow water. The summer months bathe this location in a particularly inviting light.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Known for its excellent walking opportunities, Plage de la Saucière in Les Portes-en-Ré opens up wonderful views of the sea. Those who enjoy strolling along the tideline and breathing in the sea breeze will love this beach. The coast reveals its wildly romantic side here, especially in the off-season.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache is a beach in Les Portes En Re offering a quiet waterside environment.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Plage de Radia is a popular local meeting point in Les Portes-en-Ré, where relaxation by the ocean is a top priority. Swimmers and sunbathers appreciate the authentic island flair that surrounds this stretch of coast. A visit on a sunny afternoon promises the best conditions for pure recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "This prominent stretch of coast in Les Portes-en-Ré shapes the shoreline with its natural beauty. Visitors enjoy spending time here to dive into the cool waters or watch the waves. Arriving in the morning is often advantageous to find a quiet spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "For those seeking relaxation, Plage du Canot de Sauvetage in Les Portes-en-Ré reveals a charming retreat by the ocean. You can settle down wonderfully on the shore, listen to the constant sound of the water, and forget everyday life. A sunny summer day is the perfect opportunity to explore this little paradise.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "With its inviting waterline, Plage du Petit Bec in Les Portes-en-Ré offers ideal conditions for a carefree stay by the sea. Guests appreciate the relaxed atmosphere, which invites both short swimming trips and long afternoons on the beach. A beach towel and sun protection should not be missing from your summer luggage.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "This expansive natural beach on the Île de Ré stretches majestically along the coast of Les Portes-en-Ré. The enormous vastness provides all visitors with plenty of space for sunbathing, beachcombing, and refreshing swims in the Atlantic. Those who love a generous sense of space by the water will experience an unforgettable coastal day here.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "A true coastal gem in Les Portes-en-Ré is Plage du Grand Marchais, which invites you to linger with its idyllic surroundings. It is a fantastic place to relax on the warm sand while the sea gently laps against the beach. Bring a good book to fully savor the calming atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Plage Gros Jonc shapes the maritime face of Les Portes-en-Ré as an inviting beach area. Holidaymakers and locals alike come here to enjoy the sea while swimming or sunbathing. On hot summer days, the refreshing sea breeze provides welcome cooling.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Whether for a brief coastal visit or an entire afternoon, Plage Lauzin in Les Portes-en-Ré offers a pleasant maritime experience. The uncomplicated access to the water pleases bathers who want to plunge into the waves. A sunshade is advisable to spend the midday hours comfortably by the sea as well.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Plage des Cytons forms a characteristic coastal section in Les Portes-en-Ré, marked by the rugged beauty of the Atlantic. Those seeking solitude or simply wanting to sit at the water's edge will particularly appreciate this location. It pays to arrive at low tide to utilize the wide expanses of sand for a walk.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
+            },
+            {
+                  "name": "Carrousel Park",
+                  "text": "Carrousel Park in Ile De Re is a theme park for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -1.433032,
+                        46.193285
+                  ]
+            },
+            {
+                  "name": "Musee Ernest Cognacq",
+                  "text": "This museum on the Île de Ré showcases the history and heritage of the island.",
+                  "category": "museum",
+                  "coords": [
+                        -1.365021,
+                        46.205409
+                  ]
+            },
+            {
+                  "name": "La Maline",
+                  "text": "A local cultural center and theatre on the Île de Ré.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.426921,
+                        46.191736
+                  ]
+            }
+      ]
+}},
   {"id": "isle-sur-la-sorgue", "type": "city", "parent": "FR-PAC", "coords": [5.0517, 43.9192], "population": 19890, "tier": 2, "name": {"de": "L'Isle-sur-la-Sorgue", "hu": "L'Isle-sur-la-Sorgue", "ro": "L'Isle-sur-la-Sorgue", "en": "L'Isle-sur-la-Sorgue"}, "description": {"de": "Dieses charmante Städtchen wird wegen seiner Kanäle oft als das Venedig der Provence bezeichnet und ist weltberühmt für seine Antiquitätenmärkte.", "hu": "A csatornái miatt Provence Velencéjének nevezett kisváros világhírű az antikvitásairól, piacairól és a Sorgue-folyón megmaradt hatalmas fa vízikerekekről.", "ro": "Supranumit Veneția Provence-ului datorită canalelor sale, acest oraș este celebru pentru piețele de antichități și roțile de apă istorice de pe râul Sorgue.", "en": "Often called the Venice of Provence due to its many canals, this town is world-renowned for its antique markets and the iconic mossy waterwheels of the Sorgue river."}, "facts": {"de": ["Venedig der Provence", "Antiquitäten-Hauptstadt", "Fluss Sorgue", "Wasserräder", "Sonntagsmarkt", "Fischerdorf-Wurzeln", "Wasserviertel", "300 Antiquitätenhändler"], "hu": ["Provence Velencéje", "Antikvitások központja", "Sorgue-folyó", "Vízikerekek", "Vasárnapi piac", "Halászfalu eredet", "Vízparti negyed", "300+ régiségkereskedő"], "ro": ["Veneția Provence-ului", "Capitala antichităților", "Râul Sorgue", "Roți de apă", "Piața de duminică", "Origini de pescari", "Cartierul apei", "300 anticari"], "en": ["Venice of Provence", "Antique capital", "Sorgue River", "Waterwheels", "Sunday market", "Fishing village origins", "Water district", "300 antique dealers"]}, "image": "/geo-images/france/isle-sur-la-sorgue.webp", "imageHint": "Antique market and waterwheels on the Sorgue river in L'Isle-sur-la-Sorgue", "descriptionAdvanced": {"de": "L'Isle-sur-la-Sorgue wird oft als das „Venedig des Comtat“ bezeichnet und ist eine malerische Stadt, die auf einem Netzwerk von Kanälen erbaut wurde, die vom smaragdgrünen Wasser der Sorgue gespeist werden. Historisch gesehen war die Stadt ein wichtiges Zentrum für die Textil- und Papierindustrie, angetrieben von zahlreichen moosbedeckten hölzernen Wasserrädern, von denen sich heute noch fünfzehn langsam in den Kanälen drehen. Die Atmosphäre der Stadt verändert sich sonntags während des riesigen Freiluftmarktes völlig, auf dem lokale provenzalische Produkte mit einer der größten Ansammlungen von Antiquitätenhändlern in Europa verschmelzen. Mehr als 300 permanente Antiquitätengeschäfte sind in speziellen \"Dörfern\" in der ganzen Stadt gruppiert und machen sie zu einem international anerkannten Zentrum für Vintage-Möbel, Kunst und seltene Sammlerstücke. Abgesehen vom Einkaufen können sich die Besucher in den von Platanen beschatteten Cafés am Wasser entspannen und die traditionellen flachen „Nego Chin“-Boote beobachten, die auf der sanften Strömung navigieren. Im Stadtzentrum ist die Stiftskirche Notre Dame des Anges ein Muss, die hinter einer relativ strengen Steinfassade ein außergewöhnlich reiches barockes Inneres verbirgt.", "hu": "A gyakran a „Comtat Velencéjeként” is emlegetett L'Isle-sur-la-Sorgue egy festői kisváros, amely a Sorgue folyó smaragdzöld vize által táplált csatornahálózatra épült. Történelmileg a település a textil- és papíripar fontos központja volt, amelyet számos mohával borított fa vízkerék hajtott. Ezekből tizenöt még ma is lassan forog a csatornákban. A város hangulata vasárnaponként teljesen átalakul a hatalmas szabadtéri piac idején, ahol a helyi provence-i termékek Európa egyik legnagyobb régiségkereskedő-központjának kínálatával keverednek. Több mint 300 állandó antikvárium csoportosul erre kijelölt \"falvakban\" a város egész területén, ami a vintage bútorok, művészeti alkotások és ritka gyűjtői darabok nemzetközileg elismert központjává teszi. A vásárlás mellett a látogatók a platánfák árnyékában lévő vízparti kávézókban pihenhetnek, miközben a lassú sodráson haladó hagyományos, lapos fenekű \"nego chin\" csónakokat figyelik. A városközpontban mindenképpen érdemes megnézni a Collégiale Notre Dame des Anges templomot, amely egy viszonylag visszafogott kőhomlokzat mögött kivételesen gazdag barokk belső teret rejt.", "ro": "Deseori denumită „Veneția Comtat-ului”, L'Isle-sur-la-Sorgue este un oraș pitoresc construit pe o rețea de canale alimentate de apele verde-smarald ale râului Sorgue. Din punct de vedere istoric, orașul a fost un centru important pentru industria textilă și a hârtiei, fiind alimentat de numeroase roți de apă din lemn acoperite cu mușchi, dintre care cincisprezece se mai învârtesc încet și astăzi în canale. Atmosfera orașului se transformă complet în zilele de duminică, în timpul pieței masive în aer liber, care îmbină produsele provensale locale cu una dintre cele mai mari colecții de negustori de antichități din Europa. Mai mult de 300 de magazine permanente de antichități sunt grupate în „sate” dedicate din întregul oraș, transformându-l într-un centru recunoscut la nivel internațional pentru mobilier vintage, artă și obiecte de colecție rare. Dincolo de cumpărături, vizitatorii se pot relaxa în cafenelele de pe malul apei umbrite de platani, observând bărcile tradiționale cu fund plat „nego chin” care navighează pe curenții blânzi. În centrul orașului, Biserica Colegială Notre Dame des Anges este un obiectiv obligatoriu, ascunzând un interior baroc excepțional de bogat în spatele unei fațade din piatră relativ austere.", "en": "Often referred to as the \"Venice of the Comtat,\" L'Isle-sur-la-Sorgue is a picturesque town built on a network of canals fed by the emerald-green waters of the Sorgue river. Historically, the town was a prominent center for the textile and paper industries, powered by numerous moss-covered wooden waterwheels, fifteen of which still turn slowly in the canals today. The town's atmosphere transforms completely on Sundays during the massive open-air market, blending local Provençal produce with one of Europe's largest collections of antique dealers. More than 300 permanent antique shops are clustered in dedicated \"villages\" throughout the town, making it an internationally recognized hub for vintage furniture, art, and rare collectibles. Beyond shopping, visitors can relax in waterfront cafes shaded by plane trees, observing the traditional \"nego chin\" flat-bottomed boats navigating the gentle currents. In the town center, the Collégiale Notre Dame des Anges is a must-see, hiding an exceptionally rich Baroque interior behind a relatively austere stone facade."}, "factsAdvanced": {"de": ["Gegründet im 12. Jahrhundert", "300 permanente Antiquitätenläden", "14 historische Wasserräder erhalten", "800 Meter Höhenunterschied der Quelle", "Bürgermeisteramt im 18. Jahrhundert", "8 Kilometer Kanäle im Stadtgebiet"], "hu": ["12. századi alapítás", "300 állandó régiségbolt", "14 megmaradt történelmi vízi kerék", "8 km hosszú csatornahálózat", "3. legnagyobb antik központ Európában", "19 890 lakos 2021-ben"], "ro": ["Fondat în secolul al XII-lea", "300 de magazine permanente de antichități", "14 roți de apă istorice păstrate", "8 km de canale urbane", "Al treilea centru de antichități din Europa", "Populație de 19.890 locuitori"], "en": ["Founded in the 12th century", "300 permanent antique dealers", "14 historic waterwheels remaining", "8 km of canals within the town", "Third largest antique hub in Europe", "Population of 19,890 as of 2021"]}, "sights": {
       "de": [
             {
@@ -10805,6 +15597,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.050694,
                         43.925265
+                  ]
+            },
+            {
+                  "name": "La Filaventure",
+                  "text": "Ein Museum in einer ehemaligen Manufaktur, das die Geschichte der Wollverarbeitung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.047979,
+                        43.918599
+                  ]
+            },
+            {
+                  "name": "Musee du jouet",
+                  "text": "Ein Spielzeugmuseum, das historische Sammlungen in L'Isle-sur-la-Sorgue präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.050412,
+                        43.919152
+                  ]
+            },
+            {
+                  "name": "La pyramide (statue)",
+                  "text": "Ein pyramidenförmiges Denkmal, das als Wahrzeichen in L'Isle-sur-la-Sorgue steht.",
+                  "category": "historical",
+                  "coords": [
+                        5.063082,
+                        43.925746
                   ]
             }
       ],
@@ -10887,6 +15706,33 @@ export const poiExtraFrV2: POI[] = [
                         5.050694,
                         43.925265
                   ]
+            },
+            {
+                  "name": "La Filaventure",
+                  "text": "Egy egykori manufaktúrában található múzeum, amely a gyapjúfeldolgozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.047979,
+                        43.918599
+                  ]
+            },
+            {
+                  "name": "Musee du jouet",
+                  "text": "Játékmúzeum, amely történelmi gyűjteményeket mutat be L'Isle-sur-la-Sorgue-ban.",
+                  "category": "museum",
+                  "coords": [
+                        5.050412,
+                        43.919152
+                  ]
+            },
+            {
+                  "name": "La pyramide (statue)",
+                  "text": "Piramis alakú emlékmű, amely nevezetességként áll L'Isle-sur-la-Sorgue-ban.",
+                  "category": "historical",
+                  "coords": [
+                        5.063082,
+                        43.925746
+                  ]
             }
       ],
       "ro": [
@@ -10968,6 +15814,33 @@ export const poiExtraFrV2: POI[] = [
                         5.050694,
                         43.925265
                   ]
+            },
+            {
+                  "name": "La Filaventure",
+                  "text": "Un muzeu într-o fostă manufactură care prezintă istoria prelucrării lânii.",
+                  "category": "museum",
+                  "coords": [
+                        5.047979,
+                        43.918599
+                  ]
+            },
+            {
+                  "name": "Musee du jouet",
+                  "text": "Un muzeu al jucăriilor care prezintă colecții istorice în L'Isle-sur-la-Sorgue.",
+                  "category": "museum",
+                  "coords": [
+                        5.050412,
+                        43.919152
+                  ]
+            },
+            {
+                  "name": "La pyramide (statue)",
+                  "text": "Un monument în formă de piramidă care servește drept punct de reper în L'Isle-sur-la-Sorgue.",
+                  "category": "historical",
+                  "coords": [
+                        5.063082,
+                        43.925746
+                  ]
             }
       ],
       "en": [
@@ -11048,6 +15921,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.050694,
                         43.925265
+                  ]
+            },
+            {
+                  "name": "La Filaventure",
+                  "text": "A museum in a former manufactory showing the history of wool processing.",
+                  "category": "museum",
+                  "coords": [
+                        5.047979,
+                        43.918599
+                  ]
+            },
+            {
+                  "name": "Musee du jouet",
+                  "text": "A toy museum presenting historical collections in L'Isle-sur-la-Sorgue.",
+                  "category": "museum",
+                  "coords": [
+                        5.050412,
+                        43.919152
+                  ]
+            },
+            {
+                  "name": "La pyramide (statue)",
+                  "text": "A pyramid-shaped monument standing as a landmark in L'Isle-sur-la-Sorgue.",
+                  "category": "historical",
+                  "coords": [
+                        5.063082,
+                        43.925746
                   ]
             }
       ]
@@ -13098,6 +17998,15 @@ export const poiExtraFrV2: POI[] = [
                         6.69808,
                         45.513299
                   ]
+            },
+            {
+                  "name": "Les Bains de Belle Plagne",
+                  "text": "Ein Wellness- und Wasserpark im Skigebiet La Plagne.",
+                  "category": "recreational",
+                  "coords": [
+                        6.707399,
+                        45.508157
+                  ]
             }
       ],
       "hu": [
@@ -13378,6 +18287,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.69808,
                         45.513299
+                  ]
+            },
+            {
+                  "name": "Les Bains de Belle Plagne",
+                  "text": "Wellness- és vízi élménypark La Plagne síparadicsomában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.707399,
+                        45.508157
                   ]
             }
       ],
@@ -13660,6 +18578,15 @@ export const poiExtraFrV2: POI[] = [
                         6.69808,
                         45.513299
                   ]
+            },
+            {
+                  "name": "Les Bains de Belle Plagne",
+                  "text": "Un centru de wellness și parc acvatic în stațiunea La Plagne.",
+                  "category": "recreational",
+                  "coords": [
+                        6.707399,
+                        45.508157
+                  ]
             }
       ],
       "en": [
@@ -13940,6 +18867,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.69808,
                         45.513299
+                  ]
+            },
+            {
+                  "name": "Les Bains de Belle Plagne",
+                  "text": "A wellness and water park located in the La Plagne resort.",
+                  "category": "recreational",
+                  "coords": [
+                        6.707399,
+                        45.508157
                   ]
             }
       ]
@@ -16047,6 +20983,42 @@ export const poiExtraFrV2: POI[] = [
                         5.316438,
                         43.729487
                   ]
+            },
+            {
+                  "name": "Les Lauzieres",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Lourmarin mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        5.35296,
+                        43.776747
+                  ]
+            },
+            {
+                  "name": "Daniel Adel",
+                  "text": "Ein Kunstraum in Lourmarin, der der Arbeit des Künstlers Daniel Adel gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.362973,
+                        43.765207
+                  ]
+            },
+            {
+                  "name": "Le Vieux Pigeonnier",
+                  "text": "Ein historischer Taubenturm in Lourmarin, ein Beispiel lokaler ländlicher Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342309,
+                        43.760469
+                  ]
+            },
+            {
+                  "name": "Le Pigeonnier du Jas de Puyvert",
+                  "text": "Eine traditionelle Sehenswürdigkeit in Lourmarin, die für ihre historische Struktur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.341496,
+                        43.742223
+                  ]
             }
       ],
       "hu": [
@@ -16115,6 +21087,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.316438,
                         43.729487
+                  ]
+            },
+            {
+                  "name": "Les Lauzieres",
+                  "text": "Régészeti lelőhely Lourmarin közelében, történelmi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        5.35296,
+                        43.776747
+                  ]
+            },
+            {
+                  "name": "Daniel Adel",
+                  "text": "Daniel Adel művész munkásságának szentelt művészeti tér Lourmarinban.",
+                  "category": "museum",
+                  "coords": [
+                        5.362973,
+                        43.765207
+                  ]
+            },
+            {
+                  "name": "Le Vieux Pigeonnier",
+                  "text": "Történelmi galambdúc Lourmarinban, a helyi népi építészet példája.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342309,
+                        43.760469
+                  ]
+            },
+            {
+                  "name": "Le Pigeonnier du Jas de Puyvert",
+                  "text": "Hagyományos építmény Lourmarinban, amely történelmi szerkezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.341496,
+                        43.742223
                   ]
             }
       ],
@@ -16185,6 +21193,42 @@ export const poiExtraFrV2: POI[] = [
                         5.316438,
                         43.729487
                   ]
+            },
+            {
+                  "name": "Les Lauzieres",
+                  "text": "Un sit arheologic lângă Lourmarin, cu vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        5.35296,
+                        43.776747
+                  ]
+            },
+            {
+                  "name": "Daniel Adel",
+                  "text": "Un spațiu de artă din Lourmarin dedicat lucrărilor artistului Daniel Adel.",
+                  "category": "museum",
+                  "coords": [
+                        5.362973,
+                        43.765207
+                  ]
+            },
+            {
+                  "name": "Le Vieux Pigeonnier",
+                  "text": "Un porumbar istoric din Lourmarin, exemplu de arhitectură rurală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342309,
+                        43.760469
+                  ]
+            },
+            {
+                  "name": "Le Pigeonnier du Jas de Puyvert",
+                  "text": "O atracție tradițională din Lourmarin, cunoscută pentru structura sa istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        5.341496,
+                        43.742223
+                  ]
             }
       ],
       "en": [
@@ -16253,6 +21297,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         5.316438,
                         43.729487
+                  ]
+            },
+            {
+                  "name": "Les Lauzieres",
+                  "text": "An archaeological site near Lourmarin with historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        5.35296,
+                        43.776747
+                  ]
+            },
+            {
+                  "name": "Daniel Adel",
+                  "text": "An art space in Lourmarin dedicated to the work of artist Daniel Adel.",
+                  "category": "museum",
+                  "coords": [
+                        5.362973,
+                        43.765207
+                  ]
+            },
+            {
+                  "name": "Le Vieux Pigeonnier",
+                  "text": "A historic dovecote in Lourmarin, an example of local rural architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        5.342309,
+                        43.760469
+                  ]
+            },
+            {
+                  "name": "Le Pigeonnier du Jas de Puyvert",
+                  "text": "A traditional landmark in Lourmarin known for its historic structure.",
+                  "category": "landmark",
+                  "coords": [
+                        5.341496,
+                        43.742223
                   ]
             }
       ]
@@ -17487,6 +22567,42 @@ export const poiExtraFrV2: POI[] = [
                         6.644575,
                         45.359276
                   ]
+            },
+            {
+                  "name": "Scierie et moulin du Raffort",
+                  "text": "Dieses Museum in Méribel zeigt eine historische Sägemühle und eine Getreidemühle.",
+                  "category": "museum",
+                  "coords": [
+                        6.560436,
+                        45.409101
+                  ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Ein markanter Berggipfel in der Nähe von Méribel, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Rocher de l'ours",
+                  "text": "Ein Aussichtspunkt in Méribel, der einen weiten Blick auf die umliegenden Alpen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.590644,
+                        45.415903
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Claude",
+                  "text": "Eine charmante Kapelle in Méribel, die der religiösen Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.552193,
+                        45.425578
+                  ]
             }
       ],
       "hu": [
@@ -17665,6 +22781,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.644575,
                         45.359276
+                  ]
+            },
+            {
+                  "name": "Scierie et moulin du Raffort",
+                  "text": "Ez a méribeli múzeum egy történelmi fűrésztelepet és malmot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.560436,
+                        45.409101
+                  ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Jellegzetes hegycsúcs Méribel közelében, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Rocher de l'ours",
+                  "text": "Kilátópont Méribelben, amely széles panorámát kínál a környező Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        6.590644,
+                        45.415903
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Claude",
+                  "text": "Bájos kápolna Méribelben, amely vallási elmélyülésre szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.552193,
+                        45.425578
                   ]
             }
       ],
@@ -17845,6 +22997,42 @@ export const poiExtraFrV2: POI[] = [
                         6.644575,
                         45.359276
                   ]
+            },
+            {
+                  "name": "Scierie et moulin du Raffort",
+                  "text": "Acest muzeu din Méribel prezintă un gater și o moară istorică.",
+                  "category": "museum",
+                  "coords": [
+                        6.560436,
+                        45.409101
+                  ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "Un vârf montan proeminent lângă Méribel, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Rocher de l'ours",
+                  "text": "Un punct de observație în Méribel ce oferă vederi panoramice asupra Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        6.590644,
+                        45.415903
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Claude",
+                  "text": "O capelă fermecătoare din Méribel, servind ca lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        6.552193,
+                        45.425578
+                  ]
             }
       ],
       "en": [
@@ -18023,6 +23211,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.644575,
                         45.359276
+                  ]
+            },
+            {
+                  "name": "Scierie et moulin du Raffort",
+                  "text": "This museum in Méribel showcases a historic sawmill and mill.",
+                  "category": "museum",
+                  "coords": [
+                        6.560436,
+                        45.409101
+                  ]
+            },
+            {
+                  "name": "Rocher de la Loze",
+                  "text": "A prominent mountain peak near Méribel, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605222,
+                        45.401074
+                  ]
+            },
+            {
+                  "name": "Rocher de l'ours",
+                  "text": "A viewpoint in Méribel offering panoramic views of the surrounding Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.590644,
+                        45.415903
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Claude",
+                  "text": "A charming chapel in Méribel serving as a place of religious reflection.",
+                  "category": "religious",
+                  "coords": [
+                        6.552193,
+                        45.425578
                   ]
             }
       ]
@@ -18277,8 +23501,1298 @@ export const poiExtraFrV2: POI[] = [
             }
       ]
 }},
-  {"id": "propriano", "type": "city", "parent": "FR-COR", "coords": [8.9078, 41.6753], "population": 3318, "tier": 2, "name": {"de": "Propriano", "hu": "Propriano", "ro": "Propriano", "en": "Propriano"}, "description": {"de": "Ein charmanter Hafenort im Golf von Valinco, bekannt für seine schönen Strände und als idealer Ausgangspunkt für die Erkundung Südkorsikas.", "hu": "Bájos kikötőváros a Valinco-öbölben, amely gyönyörű strandjairól ismert, és ideális kiindulópont Dél-Korzika felfedezéséhez.", "ro": "Un oraș portuar fermecător în Golful Valinco, cunoscut pentru plajele sale frumoase și ca punct de plecare ideal pentru explorarea Corsicii de Sud.", "en": "A charming port town in the Gulf of Valinco, known for its beautiful beaches and as a perfect base for exploring Southern Corsica."}, "facts": {"de": ["Golf von Valinco", "Fährhafen", "Strand von Lido", "Wassersportzentrum", "Nähe zu Filitosa", "Jachthafen", "Kirche Notre-Dame", "Korsische Gastronomie"], "hu": ["Valinco-öböl", "Kompkikötő", "Lido strand", "Vízisport központ", "Filitosa közelsége", "Jachtkikötő", "Notre-Dame templom", "Korzikai gasztronómia"], "ro": ["Golful Valinco", "Port de feribot", "Plaja Lido", "Centru de sporturi nautice", "Aproape de Filitosa", "Port de agrement", "Biserica Notre-Dame", "Gastronomie corsicană"], "en": ["Gulf of Valinco", "Ferry port", "Lido beach", "Water sports hub", "Proximity to Filitosa", "Marina", "Notre-Dame Church", "Corsican gastronomy"]}, "image": "/geo-images/france/propriano.webp", "imageHint": "The marina and waterfront buildings of Propriano in the Gulf of Valinco", "descriptionAdvanced": {"de": "Propriano liegt tief im malerischen Golf von Valinco und hat sich von einem kleinen Fischerdorf zu einem der beliebtesten Ferienorte Korsikas entwickelt. Die Geschichte des Ortes reicht jedoch weit zurück, wie die nahegelegenen prähistorischen Stätten von Filitosa beweisen. Der heutige Ort wurde im 19. Jahrhundert modern ausgebaut und verfügt über einen bedeutenden Hafen, der sowohl als Jachthafen als auch für Fähren zum französischen Festland und nach Sardinien dient. Die Hauptstraße entlang des Kais ist gesäumt von Restaurants, Cafés und Boutiquen, die zum Flanieren einladen. Propriano ist besonders für seine Vielfalt an Stränden bekannt, vom belebten Plage du Lido bis hin zu den wilderen Buchten in der Umgebung. Die Kirche Notre-Dame de la Miséricorde dominiert das Stadtbild und ist ein zentraler Treffpunkt während der religiösen Prozessionen.", "hu": "Propriano a festői Valinco-öböl mélyén fekszik, és az egykori kis halászfaluból Korzika egyik legkedveltebb üdülőhelyévé vált. A település környezete már az őskorban is lakott volt, amiről a közeli Filitosa világhírű menhirjei tanúskodnak. A mai város fejlődése a 19. században gyorsult fel, amikor kiépült a modern kikötője, amely ma jachtokat és a szárazföldről érkező kompokat egyaránt fogad. A part menti sétány tele van hangulatos éttermekkel és üzletekkel, ahol a látogatók megkóstolhatják a helyi tengeri ételeket. Propriano környékén számos kiváló strand található, a kristálytiszta vizű Lido strandtól a távolabbi, vadregényesebb öblökig. A városkép meghatározó eleme a Notre-Dame de la Miséricorde templom, amely büszkén magasodik a tengerparti házak fölé.", "ro": "Situat în adâncul pitorescului Golf Valinco, Propriano s-a transformat dintr-un mic sat de pescari într-una dintre cele mai populare stațiuni de vacanță din Corsica. Istoria zonei este însă milenară, fapt dovedit de situl preistoric Filitosa aflat în apropiere. Orașul modern s-a dezvoltat în secolul al XIX-lea, având astăzi un port activ care primește atât iahturi de lux, cât și feriboturi de pe continent. Faleza principală este inima orașului, fiind ticsită cu restaurante și cafenele care oferă specialități locale. Propriano este renumit pentru diversitatea plajelor sale, de la Plage du Lido, ideală pentru familii, până la golfurile sălbatice din împrejurimi. Biserica Notre-Dame de la Miséricorde, construită în stil neoromanic, domină peisajul urban și reprezintă un punct de reper important pentru comunitatea locală.", "en": "Nestled at the head of the scenic Gulf of Valinco, Propriano has evolved from a small fishing hamlet into one of Corsica's most popular seaside resorts. While the town itself saw significant development in the 19th century, the area has been inhabited since prehistoric times, as evidenced by the nearby menhirs of Filitosa. Today, Propriano features a busy commercial and leisure port, connecting the island to mainland France and Sardinia. The waterfront is lined with a vibrant array of seafood restaurants and boutiques, making it a favorite spot for evening strolls. The region is famous for its diverse coastline, ranging from the family-friendly Lido beach to secluded, rocky coves. The Church of Notre-Dame de la Miséricorde sits prominently above the harbor, serving as a landmark for sailors and visitors alike."}, "factsAdvanced": {"de": ["Filitosa nur 15 km entfernt", "Hafen im 19. Jh. ausgebaut", "Einwohnerzahl 3318 (2021)", "Notre-Dame erbaut im 19. Jh.", "Fähren nach Marseille und Porto Torres", "Höchster Punkt 12 Meter"], "hu": ["Filitosa mindössze 15 km-re", "A kikötő a 19. században épült ki", "Lakosság: 3318 fő (2021)", "Notre-Dame templom a 19. századból", "Kompok Marseille-be és Szardíniára", "Tengerszint feletti magasság: 12 m"], "ro": ["Situl Filitosa la doar 15 km", "Port dezvoltat în secolul al XIX-lea", "Populație de 3318 locuitori", "Biserica Notre-Dame din sec. XIX", "Feriboturi către Marsilia și Sardinia", "Altitudine maximă de 12 metri"], "en": ["Filitosa is only 15 km away", "Port developed in the 19th century", "Population of 3,318 as of 2021", "Notre-Dame church from 19th century", "Ferries to Marseille and Sardinia", "Maximum elevation of 12 meters"]}, "sights": {"de": [{"name": "Église Notre-Dame de la Miséricorde", "text": "Eine imposante Kirche im Zentrum von Propriano, die im späten 19. Jahrhundert erbaut wurde und eine reich verzierte Innenausstattung besitzt.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.90501, 41.67535]}, {"name": "Port de Plaisance", "text": "Ein charmanter Yachthafen, der zum Flanieren einlädt und von zahlreichen gemütlichen Cafés und hervorragenden Fischrestaurants gesäumt ist.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.902517, 41.676091]}, {"name": "Phare de Scoglio Longo", "text": "Ein markanter, auf einem Felsen im Meer errichteter Leuchtturm, der den Schiffen sicher den Weg in den Golf von Valinco weist.", "category": "bridges/lighthouses", "confidence": "high", "coords": [8.897185, 41.678536]}, {"name": "Plage de Mancinu", "text": "In der Nähe des Hafens von Propriano erstreckt sich der feinsandige Plage de Mancinu. Dieser beliebte Stadtstrand bietet ruhiges Wasser und eine angenehme Auswahl an Wassersportmöglichkeiten für aktive Besucher. Ideal eignet sich der Küstenabschnitt für unbeschwerte Badeausflüge an sonnigen Tagen.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.908305, 41.676831]}, {"name": "Plage de l'Arena Bianca", "text": "Strahlend weißer Sand und kristallklares Wasser prägen den Plage de l'Arena Bianca in Propriano. Dieser Küstenabschnitt bietet Familien einen herrlich ruhigen und kinderfreundlichen Ort für ausgiebige Strandtage. Besonders in den wärmeren Monaten verspricht das Meer hier pure Erfrischung.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.891615, 41.672007]}, {"name": "La Marine de Propriano", "text": "Das historische Viertel direkt am Wasser, das mit seinen alten Steinhäusern und Fischerbooten einen authentischen korsischen Charme versprüht.", "category": "squares/old-town", "confidence": "high", "coords": [8.898857, 41.675649]}, {"name": "Plage de Baracci", "text": "Gelegen in der französischen Küstenstadt Propriano, lädt der Plage de Baracci zu erholsamen Stunden am Mittelmeer ein. Dieser Strand ist ein wunderbarer Ort, um bei einem Spaziergang die Meeresluft zu genießen oder sich im Wasser abzukühlen. Für einen entspannten Aufenthalt empfiehlt sich ein Besuch außerhalb der klassischen Stoßzeiten.", "category": "recreational", "coords": [8.915275, 41.686444]}, {"name": "Plage de Portigliolo", "text": "Der malerische Plage de Portigliolo schmiegt sich idyllisch in die Küstenlandschaft von Propriano ein. Besucher erwartet hier eine einladende Kulisse, die sich perfekt zum Schwimmen und für gemütliche Momente am Wasser eignet. Wer die natürliche Schönheit dieses Ortes ungestört erleben möchte, sollte einen Ausflug am Vormittag planen.", "category": "recreational", "coords": [8.874985, 41.653402]}, {"name": "Plage de Capu Laurosu", "text": "Weitläufig und großzügig präsentiert sich der Plage de Capu Laurosu in der französischen Stadt Propriano. Die Weite dieses Strandes bietet viel Raum für ausgedehnte Spaziergänge entlang der Wellen und ungestörtes Sonnenbaden. An sonnigen Nachmittagen ist der Strand ein hervorragender Rückzugsort für alle, die das Meer lieben.", "category": "recreational", "coords": [8.880737, 41.666033]}, {"name": "Plage Sampiero", "text": "Ein äußerst angenehmer Strandabschnitt erwartet die Gäste am Plage Sampiero in Propriano. Die Atmosphäre hier lädt dazu ein, das Handtuch auszubreiten, die Sonne zu genießen und in den französischen Küstenalltag einzutauchen. Für einen gelungenen Tag am Meer packen Sie am besten alles Nötige für ein entspanntes Picknick ein.", "category": "recreational", "coords": [8.913938, 41.680018]}, {"name": "Plage d'Olmeto", "text": "Der Plage d'Olmeto ist ein einladender Küstenstrand unweit der charmanten Stadt Propriano. Die Umgebung bietet eine hervorragende Kulisse für Badegäste, die nach Erfrischung im Meer suchen. Bei warmem Wetter lohnt es sich, frühzeitig anzukommen, um das beruhigende Rauschen der Wellen in vollen Zügen zu genießen.", "category": "recreational", "coords": [8.883961, 41.692343]}, {"name": "Plage du Ruesco", "text": "Puren Entspannungscharakter verspricht der Plage du Ruesco im französischen Propriano. Badegäste finden hier einen ruhigen Rückzugsort, der sich fabelhaft für entspannte Stunden am Wasser eignet. Bringen Sie ein gutes Buch mit und lassen Sie die Küstenstimmung auf sich wirken.", "category": "recreational", "coords": [8.870976, 41.69576]}, {"name": "Plage Piscona", "text": "Lokales Flair und französischer Charme prägen den Plage Piscona in Propriano. Dieser unaufgeregte Strand zieht Besucher an, die ein authentisches Badeerlebnis fernab des großen Trubels suchen. Für einen spontanen Spaziergang am späten Nachmittag ist dieser Ort eine exzellente Wahl.", "category": "recreational", "coords": [8.858677, 41.696935]}], "hu": [{"name": "Église Notre-Dame de la Miséricorde", "text": "Egy impozáns templom Propriano központjában, amely a 19. század végén épült, és gazdagon díszített belső térrel rendelkezik.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.90501, 41.67535]}, {"name": "Port de Plaisance", "text": "Egy bájos jachtkikötő, amely sétára hívogat, és számos hangulatos kávézó, valamint kiváló halétterem szegélyezi.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.902517, 41.676091]}, {"name": "Phare de Scoglio Longo", "text": "Egy tengeri sziklára épült, jellegzetes világítótorony, amely biztonságosan mutatja az utat a hajóknak a Valinco-öbölbe.", "category": "bridges/lighthouses", "confidence": "high", "coords": [8.897185, 41.678536]}, {"name": "Plage de Mancinu", "text": "Propriano kikötőjének közelében húzódik a finom homokos Plage de Mancinu. Ez a kedvelt városi strand nyugodt vizet és kellemes vízi sportolási lehetőségeket kínál az aktív látogatóknak. A partszakasz ideális egy gondtalan fürdőzéshez a napsütéses napokon.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.908305, 41.676831]}, {"name": "Plage de l'Arena Bianca", "text": "Ragyogó fehér homok és kristálytiszta víz jellemzi a propriano-i Plage de l'Arena Bianca strandot. Ez a partszakasz csodálatosan nyugodt és gyermekbarát helyszínt kínál a családoknak egy kiadós strandoláshoz. Különösen a melegebb hónapokban a tenger itt tiszta felfrissülést ígér.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.891615, 41.672007]}, {"name": "La Marine de Propriano", "text": "A közvetlenül a vízparton fekvő történelmi negyed, amely régi kőházaival és halászhajóival autentikus korzikai bájt áraszt.", "category": "squares/old-town", "confidence": "high", "coords": [8.898857, 41.675649]}, {"name": "Plage de Baracci", "text": "A franciaországi Propriano partvidékén fekvő Plage de Baracci pihentető órákra csábít a Földközi-tenger mellett. Ez a strand csodálatos hely egy kellemes sétára a friss tengeri levegőn, vagy egy hűsítő csobbanásra. A nyugodt kikapcsolódás érdekében érdemes elkerülni a legnagyobb tömeget és a csúcsidőn kívül érkezni.", "category": "recreational", "coords": [8.915275, 41.686444]}, {"name": "Plage de Portigliolo", "text": "A festői Plage de Portigliolo idillikusan simul bele Propriano partvidéki tájába. A látogatókat hívogató környezet várja, amely tökéletes egy jóleső úszáshoz vagy egy kis pihenéshez a vízparton. Aki zavartalanul szeretné megtapasztalni e hely természeti szépségét, érdemes délelőttre terveznie a kirándulást.", "category": "recreational", "coords": [8.874985, 41.653402]}, {"name": "Plage de Capu Laurosu", "text": "A franciaországi Propriano városában található Plage de Capu Laurosu hatalmas és tágas tengerpartként mutatkozik be. A strand kiterjedése bőséges teret kínál a hullámok mentén tett hosszú sétákhoz és a zavartalan napozáshoz. A napsütéses délutánokon ez a partvidék kiváló menedéket nyújt a tenger szerelmeseinek.", "category": "recreational", "coords": [8.880737, 41.666033]}, {"name": "Plage Sampiero", "text": "Rendkívül kellemes partszakasz várja a vendégeket a propriano-i Plage Sampiero strandon. Az itteni hangulat arra csábít, hogy leterítsük a törölközőt, élvezzük a napsütést és elmerüljünk a francia partvidék mindennapjaiban. Egy jól sikerült tengerparti naphoz érdemes mindent becsomagolni egy kényelmes piknikhez.", "category": "recreational", "coords": [8.913938, 41.680018]}, {"name": "Plage d'Olmeto", "text": "A Plage d'Olmeto egy hívogató tengerparti strand, nem messze a bájos Propriano városától. A környék kiváló hátteret biztosít a fürdőzőknek, akik a tengerben keresnek felfrissülést. Jó idő esetén érdemes korán érkezni, hogy maximálisan kiélvezhessük a hullámok megnyugtató morajlását.", "category": "recreational", "coords": [8.883961, 41.692343]}, {"name": "Plage du Ruesco", "text": "A franciaországi Propriano városában található Plage du Ruesco színtiszta kikapcsolódást ígér. A fürdőzők itt egy csendes menedéket találnak, amely mesésen alkalmas a vízparti pihenésre. Hozzon magával egy jó könyvet, és adja át magát a varázslatos tengerparti hangulatnak.", "category": "recreational", "coords": [8.870976, 41.69576]}, {"name": "Plage Piscona", "text": "Helyi hangulat és francia báj jellemzi a propriano-i Plage Piscona strandot. Ez a nyugodt partvidék olyan látogatókat vonz, akik autentikus fürdőzésre vágynak, távol a nagy nyüzsgéstől. Egy spontán késő délutáni sétához ez a helyszín kiváló választás.", "category": "recreational", "coords": [8.858677, 41.696935]}], "ro": [{"name": "Église Notre-Dame de la Miséricorde", "text": "O biserică impunătoare în centrul orașului Propriano, construită la sfârșitul secolului al XIX-lea, cu un interior bogat decorat.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.90501, 41.67535]}, {"name": "Port de Plaisance", "text": "Un port de agrement fermecător, care invită la plimbări, fiind flancat de numeroase cafenele confortabile și restaurante excelente cu pește.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.902517, 41.676091]}, {"name": "Phare de Scoglio Longo", "text": "Un far distinctiv construit pe o stâncă în mare, care ghidează în siguranță navele către Golful Valinco.", "category": "bridges/lighthouses", "confidence": "high", "coords": [8.897185, 41.678536]}, {"name": "Plage de Mancinu", "text": "În apropierea portului din Propriano se întinde plaja cu nisip fin Plage de Mancinu. Această plajă urbană populară oferă ape liniștite și o selecție plăcută de sporturi nautice pentru vizitatorii activi. Această secțiune de coastă este ideală pentru excursii de înot fără griji în zilele însorite.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.908305, 41.676831]}, {"name": "Plage de l'Arena Bianca", "text": "Nisipul alb strălucitor și apa cristalină caracterizează plaja Plage de l'Arena Bianca din Propriano. Această secțiune de coastă oferă familiilor o locație minunat de liniștită și prietenoasă pentru copii, perfectă pentru zile pline de plajă. Mai ales în lunile calde, marea promite aici o adevărată revigorare.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.891615, 41.672007]}, {"name": "La Marine de Propriano", "text": "Cartierul istoric situat chiar pe malul apei, care emană un farmec corsican autentic prin casele sale vechi de piatră și bărcile de pescuit.", "category": "squares/old-town", "confidence": "high", "coords": [8.898857, 41.675649]}, {"name": "Plage de Baracci", "text": "Situată în orașul de coastă francez Propriano, plaja Plage de Baracci invită la ore de relaxare la Marea Mediterană. Această plajă este un loc minunat pentru a te bucura de aerul mării în timpul unei plimbări sau pentru a te răcori în apă. Pentru un sejur relaxant, se recomandă o vizită în afara orelor de vârf clasice.", "category": "recreational", "coords": [8.915275, 41.686444]}, {"name": "Plage de Portigliolo", "text": "Pitorescul Plage de Portigliolo se integrează idilic în peisajul de coastă din Propriano. Aici, vizitatorii sunt întâmpinați de un cadru primitor, perfect pentru înot și momente de liniște la malul apei. Cei care doresc să experimenteze netulburați frumusețea naturală a acestui loc, ar trebui să planifice o vizită dimineața.", "category": "recreational", "coords": [8.874985, 41.653402]}, {"name": "Plage de Capu Laurosu", "text": "Plaja Plage de Capu Laurosu din orașul francez Propriano se prezintă vastă și spațioasă. Întinderea acestei plaje oferă spațiu generos pentru plimbări lungi de-a lungul valurilor și pentru a face plajă în liniște. În după-amiezile însorite, plaja este o retragere excelentă pentru toți cei care iubesc marea.", "category": "recreational", "coords": [8.880737, 41.666033]}, {"name": "Plage Sampiero", "text": "O porțiune de plajă extrem de plăcută îi așteaptă pe oaspeți la Plage Sampiero din Propriano. Atmosfera de aici vă invită să vă întindeți prosopul, să vă bucurați de soare și să vă cufundați în viața de coastă franceză. Pentru o zi reușită la mare, cel mai bine este să împachetați tot ce aveți nevoie pentru un picnic relaxant.", "category": "recreational", "coords": [8.913938, 41.680018]}, {"name": "Plage d'Olmeto", "text": "Plage d'Olmeto este o plajă de coastă primitoare, nu departe de fermecătorul oraș Propriano. Zona înconjurătoare oferă un cadru excelent pentru iubitorii de baie care caută revigorare în mare. Pe vreme caldă, merită să ajungeți devreme pentru a vă bucura din plin de sunetul liniștitor al valurilor.", "category": "recreational", "coords": [8.883961, 41.692343]}, {"name": "Plage du Ruesco", "text": "Plage du Ruesco din Propriano, Franța, promite o relaxare pură. Oaspeții dornici de baie vor găsi aici un refugiu liniștit, care este fabulos pentru ore de relaxare pe malul apei. Aduceți o carte bună și lăsați atmosfera de coastă să vă învăluie.", "category": "recreational", "coords": [8.870976, 41.69576]}, {"name": "Plage Piscona", "text": "Aerul local și farmecul francez caracterizează Plage Piscona din Propriano. Această plajă liniștită atrage vizitatorii care caută o experiență autentică de scăldat, departe de agitația mare. Pentru o plimbare spontană după-amiaza târziu, acest loc este o alegere excelentă.", "category": "recreational", "coords": [8.858677, 41.696935]}], "en": [{"name": "Église Notre-Dame de la Miséricorde", "text": "An imposing church in the center of Propriano, built in the late 19th century and featuring a richly decorated interior.", "category": "churches/cathedrals", "confidence": "high", "coords": [8.90501, 41.67535]}, {"name": "Port de Plaisance", "text": "A charming marina that invites you to stroll, lined with numerous cozy cafes and excellent seafood restaurants.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.902517, 41.676091]}, {"name": "Phare de Scoglio Longo", "text": "A distinctive lighthouse built on a rock in the sea, safely guiding ships into the beautiful Gulf of Valinco.", "category": "bridges/lighthouses", "confidence": "high", "coords": [8.897185, 41.678536]}, {"name": "Plage de Mancinu", "text": "The fine-sand Plage de Mancinu stretches out near the harbor of Propriano. This popular city beach offers calm waters and a pleasant variety of water sports for active visitors. This stretch of coastline is ideal for carefree swimming trips on sunny days.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.908305, 41.676831]}, {"name": "Plage de l'Arena Bianca", "text": "Brilliant white sand and crystal-clear waters characterize the Plage de l'Arena Bianca in Propriano. This coastal stretch offers families a wonderfully quiet and child-friendly spot for extensive beach days. Especially in the warmer months, the sea here promises pure refreshment.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [8.891615, 41.672007]}, {"name": "La Marine de Propriano", "text": "The historic waterfront district, which exudes an authentic Corsican charm with its old stone houses and traditional fishing boats.", "category": "squares/old-town", "confidence": "high", "coords": [8.898857, 41.675649]}, {"name": "Plage de Baracci", "text": "Located in the French coastal town of Propriano, the Plage de Baracci invites you to spend relaxing hours by the Mediterranean Sea. This beach is a wonderful place to enjoy the sea air during a walk or to cool off in the water. For a relaxing stay, a visit outside the usual peak times is recommended.", "category": "recreational", "coords": [8.915275, 41.686444]}, {"name": "Plage de Portigliolo", "text": "The picturesque Plage de Portigliolo nestles idyllically into the coastal landscape of Propriano. Visitors can expect an inviting setting here, perfect for swimming and spending leisurely moments by the water. Those who want to experience the natural beauty of this place undisturbed should plan a morning excursion.", "category": "recreational", "coords": [8.874985, 41.653402]}, {"name": "Plage de Capu Laurosu", "text": "The Plage de Capu Laurosu presents itself as wide and spacious in the French town of Propriano. The vastness of this beach offers plenty of room for long walks along the waves and undisturbed sunbathing. On sunny afternoons, the beach is an excellent retreat for anyone who loves the sea.", "category": "recreational", "coords": [8.880737, 41.666033]}, {"name": "Plage Sampiero", "text": "An extremely pleasant stretch of beach awaits guests at the Plage Sampiero in Propriano. The atmosphere here invites you to lay out your towel, enjoy the sun, and immerse yourself in everyday French coastal life. For a successful day by the sea, it is best to pack everything you need for a relaxing picnic.", "category": "recreational", "coords": [8.913938, 41.680018]}, {"name": "Plage d'Olmeto", "text": "The Plage d'Olmeto is an inviting coastal beach not far from the charming town of Propriano. The surrounding area provides an excellent backdrop for bathers looking for refreshment in the sea. In warm weather, it is worth arriving early to fully enjoy the soothing sound of the waves.", "category": "recreational", "coords": [8.883961, 41.692343]}, {"name": "Plage du Ruesco", "text": "The Plage du Ruesco in Propriano, France, promises pure relaxation. Bathers will find a quiet retreat here that is wonderfully suited for relaxing hours by the water. Bring a good book and let the coastal atmosphere wash over you.", "category": "recreational", "coords": [8.870976, 41.69576]}, {"name": "Plage Piscona", "text": "Local flair and French charm characterize the Plage Piscona in Propriano. This laid-back beach attracts visitors looking for an authentic swimming experience away from the big hustle and bustle. For a spontaneous late-afternoon walk, this spot is an excellent choice.", "category": "recreational", "coords": [8.858677, 41.696935]}]}},
-  {"id": "saint-jean-cap-ferrat", "type": "city", "parent": "FR-PAC", "coords": [7.3325, 43.6892], "population": 1830, "tier": 1, "name": {"de": "Saint-Jean-Cap-Ferrat", "hu": "Saint-Jean-Cap-Ferrat", "ro": "Saint-Jean-Cap-Ferrat", "en": "Saint-Jean-Cap-Ferrat"}, "description": {"de": "Eine exklusive Halbinsel zwischen Nizza und Monaco, bekannt für ihre luxuriösen Villen, die prachtvolle Villa Ephrussi de Rothschild und spektakuläre Küstenwanderwege.", "hu": "Exkluzív félsziget Nizza és Monaco között, amely luxusvilláiról, a pompás Villa Ephrussi de Rothschild palotáról és látványos tengerparti gyalogútjairól híres.", "ro": "O peninsulă exclusivistă între Nisa și Monaco, cunoscută pentru vilele sale luxoase, superba Villa Ephrussi de Rothschild și traseele spectaculoase de coastă.", "en": "An exclusive peninsula between Nice and Monaco, renowned for its luxury villas, the magnificent Villa Ephrussi de Rothschild, and spectacular coastal hiking paths."}, "facts": {"de": ["Halbinsel der Milliardäre", "Villa Ephrussi de Rothschild", "Küstenweg 'Sentier du Littoral'", "Kapelle Saint-Hospice", "Exklusive Privatstrände", "Leuchtturm von 1862", "Früheres Fischerdorf", "Beliebt bei Filmstars"], "hu": ["A milliárdosok félszigete", "Villa Ephrussi de Rothschild", "Sentier du Littoral gyalogút", "Saint-Hospice kápolna", "Exkluzív magánstrandok", "1862-es világítótorony", "Eredetileg halászfalu", "Filmsztárok kedvenc helye"], "ro": ["Peninsula miliardarilor", "Villa Ephrussi de Rothschild", "Traseul de coastă Sentier du Littoral", "Capela Saint-Hospice", "Plaje private exclusiviste", "Farul construit în 1862", "Fost sat de pescari", "Preferat de vedetele de cinema"], "en": ["Peninsula of billionaires", "Villa Ephrussi de Rothschild", "Sentier du Littoral coastal path", "Saint-Hospice Chapel", "Exclusive private beaches", "Lighthouse built in 1862", "Former fishing village", "Favorite of movie stars"]}, "image": "/geo-images/france/saint-jean-cap-ferrat.webp", "imageHint": "Lush green peninsula with luxury villas and crystal clear blue water", "descriptionAdvanced": {"de": "Die Halbinsel Saint-Jean-Cap-Ferrat, die elegant in das schimmernde Mittelmeer zwischen Nizza und Monaco ragt, verkörpert den absoluten Höhepunkt der Eleganz an der Riviera. Einst ein bescheidenes Fischerdorf, hat sie sich in eine hochexklusive Enklave verwandelt, die sich unter einem dichten Blätterdach aus Aleppokiefern verbirgt. Das Hauptdorf versprüht eine entspannte, gehobene Küstenatmosphäre, mit einem malerischen Jachthafen voller Luxusboote, umgeben von schicken Cafés und Fischrestaurants. Der wahre Reiz der Halbinsel liegt in ihren prächtigen Anwesen, allen voran der Villa Ephrussi de Rothschild. Dieser spektakuläre rosafarbene Palast ist ein Meisterwerk der Belle Époque und bietet neun kunstvoll angelegte Themengärten, die vom französischen Barock- bis zum japanischen Garten reichen und weite Ausblicke auf das Meer bieten. Naturliebhaber können den Sentier du Littoral erwandern, einen atemberaubenden Küstenpfad, der sich um das felsige Kap windet und an versteckten, unberührten Buchten wie dem Plage de la Paloma vorbeiführt. Saint-Jean-Cap-Ferrat verbindet erfolgreich den Reichtum der aristokratischen Geschichte mit einer außergewöhnlichen natürlichen Schönheit.", "hu": "A Nizza és Monaco között a csillogó Földközi-tengerbe nyúló Saint-Jean-Cap-Ferrat félszigete a Riviéra eleganciájának abszolút csúcspontja. Az egykor szerény halászfalu mára egy rendkívül exkluzív, a dús aleppói fenyők lombkoronája alatt megbúvó menedékké alakult. A fő falu megőrizte nyugodt, előkelő tengerparti hangulatát; a festői kikötőt luxusjachtok ringatóznak, partján pedig elegáns kávézók és tengeri herkentyűket kínáló éttermek sorakoznak. A félsziget igazi vonzerejét a pompás birtokok adják, melyek közül kiemelkedik a Villa Ephrussi de Rothschild. Ez a látványos rózsaszín palota a Belle Époque mesterműve, kilenc, aprólékosan megtervezett tematikus kerttel – a franciakerttől a japánkertig –, ahonnan pazar kilátás nyílik a tengerre. A természet szerelmesei végigsétálhatnak a Sentier du Littoral nevű lenyűgöző parti ösvényen, amely megkerüli a sziklás fokot, és olyan rejtett, érintetlen öblöket érint, mint a híres Plage de la Paloma. A kristálytiszta víz itt tökéletes az úszáshoz és a paddleboardozáshoz. Saint-Jean-Cap-Ferrat hihetetlenül sikeresen ötvözi az arisztokrata történelem fényűzését a kivételes természeti szépséggel.", "ro": "Ieșind grațios în Marea Mediterană strălucitoare, între Nisa și Monaco, peninsula Saint-Jean-Cap-Ferrat reprezintă apogeul absolut al eleganței pe Riviera. Cândva un modest sat de pescari, acesta s-a transformat într-o enclavă ultra-exclusivistă, ascunsă sub un baldachin dens de pini de Alep. Satul principal păstrează o atmosferă de coastă relaxată, dar sofisticată, având un port de agrement pitoresc, plin de iahturi de lux și înconjurat de cafenele cochete și restaurante cu fructe de mare. Adevărata atracție a peninsulei constă în domeniile sale magnifice, în special Villa Ephrussi de Rothschild. Acest palat spectaculos de culoare roz este o capodoperă a perioadei Belle Époque, prezentând nouă grădini tematice meticulos amenajate, de la stilul formal francez la cel japonez, oferind priveliști ample asupra mării. Iubitorii de natură se pot plimba pe Sentier du Littoral, o cărare de coastă care taie respirația și care înconjoară capul stâncos, trecând pe lângă golfuri ascunse și imaculate, precum Plage de la Paloma. Apele cristaline de aici sunt perfecte pentru înot. Saint-Jean-Cap-Ferrat îmbină cu succes opulența istoriei aristocratice cu o frumusețe naturală extraordinară.", "en": "Jutting out gracefully into the shimmering Mediterranean between Nice and Monaco, the peninsula of Saint-Jean-Cap-Ferrat represents the absolute pinnacle of Riviera elegance. Once a modest fishing village, it has transformed into an ultra-exclusive enclave hidden beneath a canopy of dense Aleppo pines. The main village retains a relaxed, upscale coastal vibe, with a picturesque marina filled with luxury yachts, surrounded by chic cafes and seafood restaurants. The true allure of the peninsula lies in its magnificent estates, most notably the Villa Ephrussi de Rothschild. This spectacular rose-colored palace is a masterpiece of the Belle Époque, featuring nine meticulously themed gardens, ranging from French formal to Japanese, offering sweeping views of the sea. Nature lovers can walk the Sentier du Littoral, a breathtaking coastal path that loops around the rocky cape, passing hidden, pristine coves like the Plage de la Paloma. The crystal-clear waters here are perfect for swimming and paddleboarding. Saint-Jean-Cap-Ferrat successfully marries the opulence of aristocratic history with extraordinary natural beauty, making it one of the most glamorous and peaceful escapes on the Côte d'Azur."}, "factsAdvanced": {"de": ["Unabhängigkeit von Villefranche: 1904", "Villa Ephrussi Bauzeit: 1905–1912", "Länge des Küstenpfads: 14 km", "Anzahl der Themengärten: 9", "Höchster Punkt: 143 Meter", "Entfernung nach Monaco: ca. 12 km"], "hu": ["Elszakadás Villefranche-tól: 1904", "Villa Ephrussi építése: 1905–1912", "Parti ösvény hossza: 14 km", "Tematikus kertek száma: 9", "Legmagasabb pont: 143 méter", "Távolság Monacótól: kb. 12 km"], "ro": ["Independența față de Villefranche: 1904", "Construcția Villa Ephrussi: 1905–1912", "Lungimea traseului de coastă: 14 km", "Numărul grădinilor tematice: 9", "Punctul maxim de altitudine: 143 metri", "Distanța față de Monaco: aproximativ 12 km"], "en": ["Independence from Villefranche: 1904", "Villa Ephrussi construction: 1905–1912", "Coastal path length: 14 km", "Number of themed gardens: 9", "Highest point: 143 meters", "Distance to Monaco: approx. 12 km"]}, "sights": {"de": [{"name": "Villa Ephrussi de Rothschild", "text": "Ein atemberaubender rosafarbener Palast im Renaissancestil, der von Béatrice de Rothschild erbaut wurde und eine Kunstsammlung beherbergt.", "category": "famous residences", "confidence": "high", "coords": [7.328472, 43.696667]}, {"name": "Jardins de la Villa Ephrussi", "text": "Neun exquisit gestaltete Themengärten umgeben die Villa, darunter französische und japanische Stile, und bieten einen Panoramablick auf das Meer.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.275088, 43.710255]}, {"name": "Phare du Cap Ferrat", "text": "Dieser historische Leuchtturm an der Südspitze der Halbinsel leitet Schiffe in die Häfen und bietet dramatische Ausblicke auf die raue Küste.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.32694, 43.6753]}, {"name": "Chapelle Saint-Hospice", "text": "Eine alte und tief spirituelle Kapelle aus dem elften Jahrhundert, die historisch als wichtiges Heiligtum für Seeleute und Fischer diente.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.34681, 43.6859]}, {"name": "Plage de Paloma", "text": "Ein exklusiver und unberührter Strand in einer ruhigen Bucht, der für sein kristallklares Wasser und seine Beliebtheit bei Prominenten bekannt ist.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.3422, 43.686]}, {"name": "Promenade Maurice Rouvier", "text": "Ein gepflasterter Küstenweg, der die Stadt mit Beaulieu-sur-Mer verbindet und einen einfachen, landschaftlich reizvollen Spaziergang am Meer bietet.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.333217, 43.692828]}, {"name": "Plage de la Gavinette", "text": "Auf der idyllischen Halbinsel von Saint Jean Cap Ferrat liegt der ruhige Plage de la Gavinette. Das entspannte Ambiente lädt dazu ein, gemütlich in der Sonne zu verweilen und die Füße ins Wasser baumeln zu lassen. Ein Besuch unter der Woche garantiert oft ein besonders beschauliches Stranderlebnis.", "category": "recreational", "coords": [7.32261, 43.687128]}, {"name": "Plage des Fosses", "text": "In der französischen Gemeinde Saint Jean Cap Ferrat erstreckt sich der malerische Plage des Fosses. An diesem einladenden Strand können Besucher hervorragend schwimmen oder die schöne Küstenlinie erkunden. Wenn die Temperaturen steigen, bietet das Wasser hier eine willkommene und erfrischende Abkühlung.", "category": "recreational", "coords": [7.335468, 43.686614]}, {"name": "Plage de la Réserve", "text": "Der Plage de la Réserve ist ein attraktives Stück Küste in Saint Jean Cap Ferrat. Hier lässt sich die mediterrane Stimmung Südfrankreichs bei einem ausgedehnten Sonnenbad wunderbar einfangen. Um den besten Liegeplatz zu ergattern, lohnt es sich, gleich am Vormittag an den Strand zu kommen.", "category": "recreational", "coords": [7.335949, 43.705739]}, {"name": "Square des Chasseurs", "text": "Ein toller Spielplatz in Saint Jean Cap Ferrat, der Spaß für die ganze Familie bietet.", "category": "family", "coords": [7.309399, 43.699858]}, {"name": "Jardin d'éveil Les Capucines", "text": "Dieser Spielbereich in Saint Jean Cap Ferrat ist ideal für kleine Kinder zum Entdecken und Spielen.", "category": "family", "coords": [7.307475, 43.700057]}], "hu": [{"name": "Villa Ephrussi de Rothschild", "text": "A Béatrice de Rothschild által építtetett, lenyűgöző, rózsaszínű, reneszánsz stílusú palota lenyűgöző művészeti gyűjteménnyel és bútorokkal.", "category": "famous residences", "confidence": "high", "coords": [7.328472, 43.696667]}, {"name": "Jardins de la Villa Ephrussi", "text": "A villát kilenc kiválóan megtervezett tematikus kert veszi körül, köztük francia és japán stílusúak, lélegzetelállító tengeri panorámát kínálva.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.275088, 43.710255]}, {"name": "Phare du Cap Ferrat", "text": "A félsziget déli csücskén található történelmi világítótorony a helyi kikötőkbe irányítja a hajókat, és drámai kilátást nyújt a sziklás partra.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.32694, 43.6753]}, {"name": "Chapelle Saint-Hospice", "text": "Egy ősi és mélyen spirituális kápolna a tizenegyedik századból, amely történelmileg fontos menedékként szolgált a tengerészek és halászok számára.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.34681, 43.6859]}, {"name": "Plage de Paloma", "text": "Rendkívül exkluzív strand egy csendes öbölben, amely kristálytiszta vizéről és a nemzetközi hírességek körében való népszerűségéről híres.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.3422, 43.686]}, {"name": "Promenade Maurice Rouvier", "text": "A várost Beaulieu-sur-Merrel összekötő, teljesen aszfaltozott parti ösvény könnyű és festői sétát kínál a lenyűgöző Földközi-tenger partja mentén.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.333217, 43.692828]}, {"name": "Plage de la Gavinette", "text": "Saint Jean Cap Ferrat idilli félszigetén található a csendes Plage de la Gavinette. A pihentető légkör arra csábít, hogy kényelmesen elidőzzünk a napon, és lábunkat a vízbe lógassuk. Egy hétköznapi látogatás gyakran különösen békés strandélményt garantál.", "category": "recreational", "coords": [7.32261, 43.687128]}, {"name": "Plage des Fosses", "text": "A franciaországi Saint Jean Cap Ferrat településen húzódik a festői Plage des Fosses. Ezen a hívogató strandon a látogatók kiválóan úszhatnak, vagy felfedezhetik a gyönyörű partvonalat. Amikor a hőmérséklet emelkedik, a víz itt egy igazán kellemes és hűsítő felüdülést nyújt.", "category": "recreational", "coords": [7.335468, 43.686614]}, {"name": "Plage de la Réserve", "text": "A Plage de la Réserve egy vonzó partszakasz Saint Jean Cap Ferrat-ban. Itt egy kiadós napozás során csodálatosan magunkba szívhatjuk Dél-Franciaország mediterrán hangulatát. A legjobb napozóhely megszerzése érdekében érdemes rögtön délelőtt kilátogatni a partra.", "category": "recreational", "coords": [7.335949, 43.705739]}, {"name": "Square des Chasseurs", "text": "Egy nagyszerű játszótér Saint Jean Cap Ferratban, amely szórakozást nyújt az egész családnak.", "category": "family", "coords": [7.309399, 43.699858]}, {"name": "Jardin d'éveil Les Capucines", "text": "Ez a Saint Jean Cap Ferrat-i játszóhely ideális a kisgyermekek számára a felfedezéshez és a játékhoz.", "category": "family", "coords": [7.307475, 43.700057]}], "ro": [{"name": "Villa Ephrussi de Rothschild", "text": "Un palat uimitor în stil renascentist roz, construit de Béatrice de Rothschild, cu o colecție impresionantă de artă și mobilier de epocă.", "category": "famous residences", "confidence": "high", "coords": [7.328472, 43.696667]}, {"name": "Jardins de la Villa Ephrussi", "text": "Nouă grădini tematice rafinate înconjoară vila, inclusiv în stil francez și japonez, oferind vederi panoramice uluitoare la Marea Mediterană.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.275088, 43.710255]}, {"name": "Phare du Cap Ferrat", "text": "Acest far istoric din vârful sudic al peninsulei ghidează navele în porturile locale și oferă priveliști dramatice ale coastei foarte stâncoase.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.32694, 43.6753]}, {"name": "Chapelle Saint-Hospice", "text": "O capelă antică și profund spirituală construită în secolul al unsprezecelea, servind istoric ca un sanctuar crucial pentru marinari și pescari.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.34681, 43.6859]}, {"name": "Plage de Paloma", "text": "O plajă exclusivistă într-un golf liniștit, renumită pentru apele sale cristaline și pentru popularitatea în rândul celebrităților mondiale.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.3422, 43.686]}, {"name": "Promenade Maurice Rouvier", "text": "O potecă de coastă complet pavată care leagă orașul de Beaulieu-sur-Mer, oferind o plimbare ușoară și foarte pitorească de-a lungul Mediteranei.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.333217, 43.692828]}, {"name": "Plage de la Gavinette", "text": "Pe peninsula idilică Saint Jean Cap Ferrat se află liniștita Plage de la Gavinette. Ambianța relaxată vă invită să stați confortabil la soare și să vă scufundați picioarele în apă. O vizită în timpul săptămânii garantează adesea o experiență pe plajă deosebit de contemplativă.", "category": "recreational", "coords": [7.32261, 43.687128]}, {"name": "Plage des Fosses", "text": "Pitoreasca Plage des Fosses se întinde în comuna franceză Saint Jean Cap Ferrat. Pe această plajă primitoare, vizitatorii se pot bucura de un înot excelent sau pot explora frumoasa coastă. Când temperaturile cresc, apa de aici oferă o răcorire binevenită.", "category": "recreational", "coords": [7.335468, 43.686614]}, {"name": "Plage de la Réserve", "text": "Plage de la Réserve este o porțiune atractivă de coastă din Saint Jean Cap Ferrat. Aici, atmosfera mediteraneană din sudul Franței poate fi surprinsă de minune în timpul unei sesiuni prelungite de plajă. Pentru a obține cel mai bun loc, merită să veniți la plajă dis-de-dimineață.", "category": "recreational", "coords": [7.335949, 43.705739]}, {"name": "Square des Chasseurs", "text": "Un loc de joacă minunat în Saint Jean Cap Ferrat, care oferă distracție pentru întreaga familie.", "category": "family", "coords": [7.309399, 43.699858]}, {"name": "Jardin d'éveil Les Capucines", "text": "Această zonă de joacă din Saint Jean Cap Ferrat este ideală pentru copiii mici, pentru a explora și a se juca.", "category": "family", "coords": [7.307475, 43.700057]}], "en": [{"name": "Villa Ephrussi de Rothschild", "text": "A stunning rose-colored Renaissance-style palace built by Béatrice de Rothschild, featuring an impressive art collection and antique furniture.", "category": "famous residences", "confidence": "high", "coords": [7.328472, 43.696667]}, {"name": "Jardins de la Villa Ephrussi", "text": "Nine exquisitely themed gardens surround the villa, including French, Japanese, and Florentine styles, offering breathtaking panoramic sea views.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.275088, 43.710255]}, {"name": "Phare du Cap Ferrat", "text": "This historic lighthouse at the peninsula's southern tip guides ships into the local ports and offers dramatic vistas of the rugged coastline.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.32694, 43.6753]}, {"name": "Chapelle Saint-Hospice", "text": "An ancient and deeply spiritual chapel built in the eleventh century, historically serving as a crucial sanctuary for sailors and passing fishermen.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.34681, 43.6859]}, {"name": "Plage de Paloma", "text": "A highly exclusive and pristine beach nestled in a quiet cove, famous for its crystal-clear waters and popularity among international celebrities.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.3422, 43.686]}, {"name": "Promenade Maurice Rouvier", "text": "A completely paved coastal path connecting the town to Beaulieu-sur-Mer, offering an easy and highly scenic walk along the stunning Mediterranean.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.333217, 43.692828]}, {"name": "Plage de la Gavinette", "text": "On the idyllic peninsula of Saint Jean Cap Ferrat lies the quiet Plage de la Gavinette. The relaxing ambiance invites you to linger comfortably in the sun and dangle your feet in the water. A visit during the week often guarantees a particularly tranquil beach experience.", "category": "recreational", "coords": [7.32261, 43.687128]}, {"name": "Plage des Fosses", "text": "The picturesque Plage des Fosses stretches out in the French municipality of Saint Jean Cap Ferrat. On this inviting beach, visitors can swim wonderfully or explore the beautiful coastline. When temperatures rise, the water here offers a welcome and refreshing cool-down.", "category": "recreational", "coords": [7.335468, 43.686614]}, {"name": "Plage de la Réserve", "text": "The Plage de la Réserve is an attractive stretch of coastline in Saint Jean Cap Ferrat. The Mediterranean mood of southern France can be wonderfully captured here during an extended sunbathing session. To secure the best spot, it is worth coming to the beach first thing in the morning.", "category": "recreational", "coords": [7.335949, 43.705739]}, {"name": "Square des Chasseurs", "text": "A great playground in Saint Jean Cap Ferrat, offering fun for the whole family.", "category": "family", "coords": [7.309399, 43.699858]}, {"name": "Jardin d'éveil Les Capucines", "text": "This play area in Saint Jean Cap Ferrat is ideal for young children to explore and play.", "category": "family", "coords": [7.307475, 43.700057]}]}},
+  {"id": "propriano", "type": "city", "parent": "FR-COR", "coords": [8.9078, 41.6753], "population": 3318, "tier": 2, "name": {"de": "Propriano", "hu": "Propriano", "ro": "Propriano", "en": "Propriano"}, "description": {"de": "Ein charmanter Hafenort im Golf von Valinco, bekannt für seine schönen Strände und als idealer Ausgangspunkt für die Erkundung Südkorsikas.", "hu": "Bájos kikötőváros a Valinco-öbölben, amely gyönyörű strandjairól ismert, és ideális kiindulópont Dél-Korzika felfedezéséhez.", "ro": "Un oraș portuar fermecător în Golful Valinco, cunoscut pentru plajele sale frumoase și ca punct de plecare ideal pentru explorarea Corsicii de Sud.", "en": "A charming port town in the Gulf of Valinco, known for its beautiful beaches and as a perfect base for exploring Southern Corsica."}, "facts": {"de": ["Golf von Valinco", "Fährhafen", "Strand von Lido", "Wassersportzentrum", "Nähe zu Filitosa", "Jachthafen", "Kirche Notre-Dame", "Korsische Gastronomie"], "hu": ["Valinco-öböl", "Kompkikötő", "Lido strand", "Vízisport központ", "Filitosa közelsége", "Jachtkikötő", "Notre-Dame templom", "Korzikai gasztronómia"], "ro": ["Golful Valinco", "Port de feribot", "Plaja Lido", "Centru de sporturi nautice", "Aproape de Filitosa", "Port de agrement", "Biserica Notre-Dame", "Gastronomie corsicană"], "en": ["Gulf of Valinco", "Ferry port", "Lido beach", "Water sports hub", "Proximity to Filitosa", "Marina", "Notre-Dame Church", "Corsican gastronomy"]}, "image": "/geo-images/france/propriano.webp", "imageHint": "The marina and waterfront buildings of Propriano in the Gulf of Valinco", "descriptionAdvanced": {"de": "Propriano liegt tief im malerischen Golf von Valinco und hat sich von einem kleinen Fischerdorf zu einem der beliebtesten Ferienorte Korsikas entwickelt. Die Geschichte des Ortes reicht jedoch weit zurück, wie die nahegelegenen prähistorischen Stätten von Filitosa beweisen. Der heutige Ort wurde im 19. Jahrhundert modern ausgebaut und verfügt über einen bedeutenden Hafen, der sowohl als Jachthafen als auch für Fähren zum französischen Festland und nach Sardinien dient. Die Hauptstraße entlang des Kais ist gesäumt von Restaurants, Cafés und Boutiquen, die zum Flanieren einladen. Propriano ist besonders für seine Vielfalt an Stränden bekannt, vom belebten Plage du Lido bis hin zu den wilderen Buchten in der Umgebung. Die Kirche Notre-Dame de la Miséricorde dominiert das Stadtbild und ist ein zentraler Treffpunkt während der religiösen Prozessionen.", "hu": "Propriano a festői Valinco-öböl mélyén fekszik, és az egykori kis halászfaluból Korzika egyik legkedveltebb üdülőhelyévé vált. A település környezete már az őskorban is lakott volt, amiről a közeli Filitosa világhírű menhirjei tanúskodnak. A mai város fejlődése a 19. században gyorsult fel, amikor kiépült a modern kikötője, amely ma jachtokat és a szárazföldről érkező kompokat egyaránt fogad. A part menti sétány tele van hangulatos éttermekkel és üzletekkel, ahol a látogatók megkóstolhatják a helyi tengeri ételeket. Propriano környékén számos kiváló strand található, a kristálytiszta vizű Lido strandtól a távolabbi, vadregényesebb öblökig. A városkép meghatározó eleme a Notre-Dame de la Miséricorde templom, amely büszkén magasodik a tengerparti házak fölé.", "ro": "Situat în adâncul pitorescului Golf Valinco, Propriano s-a transformat dintr-un mic sat de pescari într-una dintre cele mai populare stațiuni de vacanță din Corsica. Istoria zonei este însă milenară, fapt dovedit de situl preistoric Filitosa aflat în apropiere. Orașul modern s-a dezvoltat în secolul al XIX-lea, având astăzi un port activ care primește atât iahturi de lux, cât și feriboturi de pe continent. Faleza principală este inima orașului, fiind ticsită cu restaurante și cafenele care oferă specialități locale. Propriano este renumit pentru diversitatea plajelor sale, de la Plage du Lido, ideală pentru familii, până la golfurile sălbatice din împrejurimi. Biserica Notre-Dame de la Miséricorde, construită în stil neoromanic, domină peisajul urban și reprezintă un punct de reper important pentru comunitatea locală.", "en": "Nestled at the head of the scenic Gulf of Valinco, Propriano has evolved from a small fishing hamlet into one of Corsica's most popular seaside resorts. While the town itself saw significant development in the 19th century, the area has been inhabited since prehistoric times, as evidenced by the nearby menhirs of Filitosa. Today, Propriano features a busy commercial and leisure port, connecting the island to mainland France and Sardinia. The waterfront is lined with a vibrant array of seafood restaurants and boutiques, making it a favorite spot for evening strolls. The region is famous for its diverse coastline, ranging from the family-friendly Lido beach to secluded, rocky coves. The Church of Notre-Dame de la Miséricorde sits prominently above the harbor, serving as a landmark for sailors and visitors alike."}, "factsAdvanced": {"de": ["Filitosa nur 15 km entfernt", "Hafen im 19. Jh. ausgebaut", "Einwohnerzahl 3318 (2021)", "Notre-Dame erbaut im 19. Jh.", "Fähren nach Marseille und Porto Torres", "Höchster Punkt 12 Meter"], "hu": ["Filitosa mindössze 15 km-re", "A kikötő a 19. században épült ki", "Lakosság: 3318 fő (2021)", "Notre-Dame templom a 19. századból", "Kompok Marseille-be és Szardíniára", "Tengerszint feletti magasság: 12 m"], "ro": ["Situl Filitosa la doar 15 km", "Port dezvoltat în secolul al XIX-lea", "Populație de 3318 locuitori", "Biserica Notre-Dame din sec. XIX", "Feriboturi către Marsilia și Sardinia", "Altitudine maximă de 12 metri"], "en": ["Filitosa is only 15 km away", "Port developed in the 19th century", "Population of 3,318 as of 2021", "Notre-Dame church from 19th century", "Ferries to Marseille and Sardinia", "Maximum elevation of 12 meters"]}, "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame de la Miséricorde",
+                  "text": "Eine imposante Kirche im Zentrum von Propriano, die im späten 19. Jahrhundert erbaut wurde und eine reich verzierte Innenausstattung besitzt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.90501,
+                        41.67535
+                  ]
+            },
+            {
+                  "name": "Port de Plaisance",
+                  "text": "Ein charmanter Yachthafen, der zum Flanieren einlädt und von zahlreichen gemütlichen Cafés und hervorragenden Fischrestaurants gesäumt ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.902517,
+                        41.676091
+                  ]
+            },
+            {
+                  "name": "Phare de Scoglio Longo",
+                  "text": "Ein markanter, auf einem Felsen im Meer errichteter Leuchtturm, der den Schiffen sicher den Weg in den Golf von Valinco weist.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        8.897185,
+                        41.678536
+                  ]
+            },
+            {
+                  "name": "Plage de Mancinu",
+                  "text": "In der Nähe des Hafens von Propriano erstreckt sich der feinsandige Plage de Mancinu. Dieser beliebte Stadtstrand bietet ruhiges Wasser und eine angenehme Auswahl an Wassersportmöglichkeiten für aktive Besucher. Ideal eignet sich der Küstenabschnitt für unbeschwerte Badeausflüge an sonnigen Tagen.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.908305,
+                        41.676831
+                  ]
+            },
+            {
+                  "name": "Plage de l'Arena Bianca",
+                  "text": "Strahlend weißer Sand und kristallklares Wasser prägen den Plage de l'Arena Bianca in Propriano. Dieser Küstenabschnitt bietet Familien einen herrlich ruhigen und kinderfreundlichen Ort für ausgiebige Strandtage. Besonders in den wärmeren Monaten verspricht das Meer hier pure Erfrischung.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.891615,
+                        41.672007
+                  ]
+            },
+            {
+                  "name": "La Marine de Propriano",
+                  "text": "Das historische Viertel direkt am Wasser, das mit seinen alten Steinhäusern und Fischerbooten einen authentischen korsischen Charme versprüht.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        8.898857,
+                        41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Gelegen in der französischen Küstenstadt Propriano, lädt der Plage de Baracci zu erholsamen Stunden am Mittelmeer ein. Dieser Strand ist ein wunderbarer Ort, um bei einem Spaziergang die Meeresluft zu genießen oder sich im Wasser abzukühlen. Für einen entspannten Aufenthalt empfiehlt sich ein Besuch außerhalb der klassischen Stoßzeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "Der malerische Plage de Portigliolo schmiegt sich idyllisch in die Küstenlandschaft von Propriano ein. Besucher erwartet hier eine einladende Kulisse, die sich perfekt zum Schwimmen und für gemütliche Momente am Wasser eignet. Wer die natürliche Schönheit dieses Ortes ungestört erleben möchte, sollte einen Ausflug am Vormittag planen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "Weitläufig und großzügig präsentiert sich der Plage de Capu Laurosu in der französischen Stadt Propriano. Die Weite dieses Strandes bietet viel Raum für ausgedehnte Spaziergänge entlang der Wellen und ungestörtes Sonnenbaden. An sonnigen Nachmittagen ist der Strand ein hervorragender Rückzugsort für alle, die das Meer lieben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "Ein äußerst angenehmer Strandabschnitt erwartet die Gäste am Plage Sampiero in Propriano. Die Atmosphäre hier lädt dazu ein, das Handtuch auszubreiten, die Sonne zu genießen und in den französischen Küstenalltag einzutauchen. Für einen gelungenen Tag am Meer packen Sie am besten alles Nötige für ein entspanntes Picknick ein.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "Der Plage d'Olmeto ist ein einladender Küstenstrand unweit der charmanten Stadt Propriano. Die Umgebung bietet eine hervorragende Kulisse für Badegäste, die nach Erfrischung im Meer suchen. Bei warmem Wetter lohnt es sich, frühzeitig anzukommen, um das beruhigende Rauschen der Wellen in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "Puren Entspannungscharakter verspricht der Plage du Ruesco im französischen Propriano. Badegäste finden hier einen ruhigen Rückzugsort, der sich fabelhaft für entspannte Stunden am Wasser eignet. Bringen Sie ein gutes Buch mit und lassen Sie die Küstenstimmung auf sich wirken.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Lokales Flair und französischer Charme prägen den Plage Piscona in Propriano. Dieser unaufgeregte Strand zieht Besucher an, die ein authentisches Badeerlebnis fernab des großen Trubels suchen. Für einen spontanen Spaziergang am späten Nachmittag ist dieser Ort eine exzellente Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir de Santa Naria",
+                  "text": "Eine prähistorische Statuenmenhir-Anlage in der Umgebung von Propriano.",
+                  "category": "historical",
+                  "coords": [
+                        8.911677,
+                        41.699221
+                  ]
+            },
+            {
+                  "name": "Theatre de Propriano",
+                  "text": "Das Kulturtheater der Stadt Propriano für lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.915954,
+                        41.671212
+                  ]
+            },
+            {
+                  "name": "Ecole de Parachutisme Du Valinco - Corse Parachutisme",
+                  "text": "Ein Zentrum für Fallschirmspringen in Propriano, das Tandemsprünge über der Küste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893107,
+                        41.659132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame de la Miséricorde",
+                  "text": "Egy impozáns templom Propriano központjában, amely a 19. század végén épült, és gazdagon díszített belső térrel rendelkezik.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.90501,
+                        41.67535
+                  ]
+            },
+            {
+                  "name": "Port de Plaisance",
+                  "text": "Egy bájos jachtkikötő, amely sétára hívogat, és számos hangulatos kávézó, valamint kiváló halétterem szegélyezi.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.902517,
+                        41.676091
+                  ]
+            },
+            {
+                  "name": "Phare de Scoglio Longo",
+                  "text": "Egy tengeri sziklára épült, jellegzetes világítótorony, amely biztonságosan mutatja az utat a hajóknak a Valinco-öbölbe.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        8.897185,
+                        41.678536
+                  ]
+            },
+            {
+                  "name": "Plage de Mancinu",
+                  "text": "Propriano kikötőjének közelében húzódik a finom homokos Plage de Mancinu. Ez a kedvelt városi strand nyugodt vizet és kellemes vízi sportolási lehetőségeket kínál az aktív látogatóknak. A partszakasz ideális egy gondtalan fürdőzéshez a napsütéses napokon.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.908305,
+                        41.676831
+                  ]
+            },
+            {
+                  "name": "Plage de l'Arena Bianca",
+                  "text": "Ragyogó fehér homok és kristálytiszta víz jellemzi a propriano-i Plage de l'Arena Bianca strandot. Ez a partszakasz csodálatosan nyugodt és gyermekbarát helyszínt kínál a családoknak egy kiadós strandoláshoz. Különösen a melegebb hónapokban a tenger itt tiszta felfrissülést ígér.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.891615,
+                        41.672007
+                  ]
+            },
+            {
+                  "name": "La Marine de Propriano",
+                  "text": "A közvetlenül a vízparton fekvő történelmi negyed, amely régi kőházaival és halászhajóival autentikus korzikai bájt áraszt.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        8.898857,
+                        41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "A franciaországi Propriano partvidékén fekvő Plage de Baracci pihentető órákra csábít a Földközi-tenger mellett. Ez a strand csodálatos hely egy kellemes sétára a friss tengeri levegőn, vagy egy hűsítő csobbanásra. A nyugodt kikapcsolódás érdekében érdemes elkerülni a legnagyobb tömeget és a csúcsidőn kívül érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "A festői Plage de Portigliolo idillikusan simul bele Propriano partvidéki tájába. A látogatókat hívogató környezet várja, amely tökéletes egy jóleső úszáshoz vagy egy kis pihenéshez a vízparton. Aki zavartalanul szeretné megtapasztalni e hely természeti szépségét, érdemes délelőttre terveznie a kirándulást.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "A franciaországi Propriano városában található Plage de Capu Laurosu hatalmas és tágas tengerpartként mutatkozik be. A strand kiterjedése bőséges teret kínál a hullámok mentén tett hosszú sétákhoz és a zavartalan napozáshoz. A napsütéses délutánokon ez a partvidék kiváló menedéket nyújt a tenger szerelmeseinek.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "Rendkívül kellemes partszakasz várja a vendégeket a propriano-i Plage Sampiero strandon. Az itteni hangulat arra csábít, hogy leterítsük a törölközőt, élvezzük a napsütést és elmerüljünk a francia partvidék mindennapjaiban. Egy jól sikerült tengerparti naphoz érdemes mindent becsomagolni egy kényelmes piknikhez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "A Plage d'Olmeto egy hívogató tengerparti strand, nem messze a bájos Propriano városától. A környék kiváló hátteret biztosít a fürdőzőknek, akik a tengerben keresnek felfrissülést. Jó idő esetén érdemes korán érkezni, hogy maximálisan kiélvezhessük a hullámok megnyugtató morajlását.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "A franciaországi Propriano városában található Plage du Ruesco színtiszta kikapcsolódást ígér. A fürdőzők itt egy csendes menedéket találnak, amely mesésen alkalmas a vízparti pihenésre. Hozzon magával egy jó könyvet, és adja át magát a varázslatos tengerparti hangulatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Helyi hangulat és francia báj jellemzi a propriano-i Plage Piscona strandot. Ez a nyugodt partvidék olyan látogatókat vonz, akik autentikus fürdőzésre vágynak, távol a nagy nyüzsgéstől. Egy spontán késő délutáni sétához ez a helyszín kiváló választás.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir de Santa Naria",
+                  "text": "Prehisztorikus szobormenhir-lelőhely Propriano környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.911677,
+                        41.699221
+                  ]
+            },
+            {
+                  "name": "Theatre de Propriano",
+                  "text": "Propriano városának kulturális színháza helyi rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        8.915954,
+                        41.671212
+                  ]
+            },
+            {
+                  "name": "Ecole de Parachutisme Du Valinco - Corse Parachutisme",
+                  "text": "Ejtőernyős központ Propriano városában, amely tandemugrásokat kínál a partvidék felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893107,
+                        41.659132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame de la Miséricorde",
+                  "text": "O biserică impunătoare în centrul orașului Propriano, construită la sfârșitul secolului al XIX-lea, cu un interior bogat decorat.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.90501,
+                        41.67535
+                  ]
+            },
+            {
+                  "name": "Port de Plaisance",
+                  "text": "Un port de agrement fermecător, care invită la plimbări, fiind flancat de numeroase cafenele confortabile și restaurante excelente cu pește.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.902517,
+                        41.676091
+                  ]
+            },
+            {
+                  "name": "Phare de Scoglio Longo",
+                  "text": "Un far distinctiv construit pe o stâncă în mare, care ghidează în siguranță navele către Golful Valinco.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        8.897185,
+                        41.678536
+                  ]
+            },
+            {
+                  "name": "Plage de Mancinu",
+                  "text": "În apropierea portului din Propriano se întinde plaja cu nisip fin Plage de Mancinu. Această plajă urbană populară oferă ape liniștite și o selecție plăcută de sporturi nautice pentru vizitatorii activi. Această secțiune de coastă este ideală pentru excursii de înot fără griji în zilele însorite.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.908305,
+                        41.676831
+                  ]
+            },
+            {
+                  "name": "Plage de l'Arena Bianca",
+                  "text": "Nisipul alb strălucitor și apa cristalină caracterizează plaja Plage de l'Arena Bianca din Propriano. Această secțiune de coastă oferă familiilor o locație minunat de liniștită și prietenoasă pentru copii, perfectă pentru zile pline de plajă. Mai ales în lunile calde, marea promite aici o adevărată revigorare.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.891615,
+                        41.672007
+                  ]
+            },
+            {
+                  "name": "La Marine de Propriano",
+                  "text": "Cartierul istoric situat chiar pe malul apei, care emană un farmec corsican autentic prin casele sale vechi de piatră și bărcile de pescuit.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        8.898857,
+                        41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Situată în orașul de coastă francez Propriano, plaja Plage de Baracci invită la ore de relaxare la Marea Mediterană. Această plajă este un loc minunat pentru a te bucura de aerul mării în timpul unei plimbări sau pentru a te răcori în apă. Pentru un sejur relaxant, se recomandă o vizită în afara orelor de vârf clasice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "Pitorescul Plage de Portigliolo se integrează idilic în peisajul de coastă din Propriano. Aici, vizitatorii sunt întâmpinați de un cadru primitor, perfect pentru înot și momente de liniște la malul apei. Cei care doresc să experimenteze netulburați frumusețea naturală a acestui loc, ar trebui să planifice o vizită dimineața.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "Plaja Plage de Capu Laurosu din orașul francez Propriano se prezintă vastă și spațioasă. Întinderea acestei plaje oferă spațiu generos pentru plimbări lungi de-a lungul valurilor și pentru a face plajă în liniște. În după-amiezile însorite, plaja este o retragere excelentă pentru toți cei care iubesc marea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "O porțiune de plajă extrem de plăcută îi așteaptă pe oaspeți la Plage Sampiero din Propriano. Atmosfera de aici vă invită să vă întindeți prosopul, să vă bucurați de soare și să vă cufundați în viața de coastă franceză. Pentru o zi reușită la mare, cel mai bine este să împachetați tot ce aveți nevoie pentru un picnic relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "Plage d'Olmeto este o plajă de coastă primitoare, nu departe de fermecătorul oraș Propriano. Zona înconjurătoare oferă un cadru excelent pentru iubitorii de baie care caută revigorare în mare. Pe vreme caldă, merită să ajungeți devreme pentru a vă bucura din plin de sunetul liniștitor al valurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "Plage du Ruesco din Propriano, Franța, promite o relaxare pură. Oaspeții dornici de baie vor găsi aici un refugiu liniștit, care este fabulos pentru ore de relaxare pe malul apei. Aduceți o carte bună și lăsați atmosfera de coastă să vă învăluie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Aerul local și farmecul francez caracterizează Plage Piscona din Propriano. Această plajă liniștită atrage vizitatorii care caută o experiență autentică de scăldat, departe de agitația mare. Pentru o plimbare spontană după-amiaza târziu, acest loc este o alegere excelentă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir de Santa Naria",
+                  "text": "Un sit preistoric cu statui-menhir în apropiere de Propriano.",
+                  "category": "historical",
+                  "coords": [
+                        8.911677,
+                        41.699221
+                  ]
+            },
+            {
+                  "name": "Theatre de Propriano",
+                  "text": "Teatrul cultural al orașului Propriano pentru evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.915954,
+                        41.671212
+                  ]
+            },
+            {
+                  "name": "Ecole de Parachutisme Du Valinco - Corse Parachutisme",
+                  "text": "Un centru de parașutism în Propriano, care oferă sărituri în tandem deasupra coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893107,
+                        41.659132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame de la Miséricorde",
+                  "text": "An imposing church in the center of Propriano, built in the late 19th century and featuring a richly decorated interior.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        8.90501,
+                        41.67535
+                  ]
+            },
+            {
+                  "name": "Port de Plaisance",
+                  "text": "A charming marina that invites you to stroll, lined with numerous cozy cafes and excellent seafood restaurants.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.902517,
+                        41.676091
+                  ]
+            },
+            {
+                  "name": "Phare de Scoglio Longo",
+                  "text": "A distinctive lighthouse built on a rock in the sea, safely guiding ships into the beautiful Gulf of Valinco.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        8.897185,
+                        41.678536
+                  ]
+            },
+            {
+                  "name": "Plage de Mancinu",
+                  "text": "The fine-sand Plage de Mancinu stretches out near the harbor of Propriano. This popular city beach offers calm waters and a pleasant variety of water sports for active visitors. This stretch of coastline is ideal for carefree swimming trips on sunny days.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.908305,
+                        41.676831
+                  ]
+            },
+            {
+                  "name": "Plage de l'Arena Bianca",
+                  "text": "Brilliant white sand and crystal-clear waters characterize the Plage de l'Arena Bianca in Propriano. This coastal stretch offers families a wonderfully quiet and child-friendly spot for extensive beach days. Especially in the warmer months, the sea here promises pure refreshment.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        8.891615,
+                        41.672007
+                  ]
+            },
+            {
+                  "name": "La Marine de Propriano",
+                  "text": "The historic waterfront district, which exudes an authentic Corsican charm with its old stone houses and traditional fishing boats.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        8.898857,
+                        41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Located in the French coastal town of Propriano, the Plage de Baracci invites you to spend relaxing hours by the Mediterranean Sea. This beach is a wonderful place to enjoy the sea air during a walk or to cool off in the water. For a relaxing stay, a visit outside the usual peak times is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "The picturesque Plage de Portigliolo nestles idyllically into the coastal landscape of Propriano. Visitors can expect an inviting setting here, perfect for swimming and spending leisurely moments by the water. Those who want to experience the natural beauty of this place undisturbed should plan a morning excursion.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "The Plage de Capu Laurosu presents itself as wide and spacious in the French town of Propriano. The vastness of this beach offers plenty of room for long walks along the waves and undisturbed sunbathing. On sunny afternoons, the beach is an excellent retreat for anyone who loves the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "An extremely pleasant stretch of beach awaits guests at the Plage Sampiero in Propriano. The atmosphere here invites you to lay out your towel, enjoy the sun, and immerse yourself in everyday French coastal life. For a successful day by the sea, it is best to pack everything you need for a relaxing picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "The Plage d'Olmeto is an inviting coastal beach not far from the charming town of Propriano. The surrounding area provides an excellent backdrop for bathers looking for refreshment in the sea. In warm weather, it is worth arriving early to fully enjoy the soothing sound of the waves.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "The Plage du Ruesco in Propriano, France, promises pure relaxation. Bathers will find a quiet retreat here that is wonderfully suited for relaxing hours by the water. Bring a good book and let the coastal atmosphere wash over you.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Local flair and French charm characterize the Plage Piscona in Propriano. This laid-back beach attracts visitors looking for an authentic swimming experience away from the big hustle and bustle. For a spontaneous late-afternoon walk, this spot is an excellent choice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
+            },
+            {
+                  "name": "Statue-Menhir de Santa Naria",
+                  "text": "A prehistoric statue-menhir site located in the vicinity of Propriano.",
+                  "category": "historical",
+                  "coords": [
+                        8.911677,
+                        41.699221
+                  ]
+            },
+            {
+                  "name": "Theatre de Propriano",
+                  "text": "The cultural theatre of Propriano for local events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.915954,
+                        41.671212
+                  ]
+            },
+            {
+                  "name": "Ecole de Parachutisme Du Valinco - Corse Parachutisme",
+                  "text": "A skydiving center in Propriano offering tandem jumps over the coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893107,
+                        41.659132
+                  ]
+            }
+      ]
+}},
+  {"id": "saint-jean-cap-ferrat", "type": "city", "parent": "FR-PAC", "coords": [7.3325, 43.6892], "population": 1830, "tier": 1, "name": {"de": "Saint-Jean-Cap-Ferrat", "hu": "Saint-Jean-Cap-Ferrat", "ro": "Saint-Jean-Cap-Ferrat", "en": "Saint-Jean-Cap-Ferrat"}, "description": {"de": "Eine exklusive Halbinsel zwischen Nizza und Monaco, bekannt für ihre luxuriösen Villen, die prachtvolle Villa Ephrussi de Rothschild und spektakuläre Küstenwanderwege.", "hu": "Exkluzív félsziget Nizza és Monaco között, amely luxusvilláiról, a pompás Villa Ephrussi de Rothschild palotáról és látványos tengerparti gyalogútjairól híres.", "ro": "O peninsulă exclusivistă între Nisa și Monaco, cunoscută pentru vilele sale luxoase, superba Villa Ephrussi de Rothschild și traseele spectaculoase de coastă.", "en": "An exclusive peninsula between Nice and Monaco, renowned for its luxury villas, the magnificent Villa Ephrussi de Rothschild, and spectacular coastal hiking paths."}, "facts": {"de": ["Halbinsel der Milliardäre", "Villa Ephrussi de Rothschild", "Küstenweg 'Sentier du Littoral'", "Kapelle Saint-Hospice", "Exklusive Privatstrände", "Leuchtturm von 1862", "Früheres Fischerdorf", "Beliebt bei Filmstars"], "hu": ["A milliárdosok félszigete", "Villa Ephrussi de Rothschild", "Sentier du Littoral gyalogút", "Saint-Hospice kápolna", "Exkluzív magánstrandok", "1862-es világítótorony", "Eredetileg halászfalu", "Filmsztárok kedvenc helye"], "ro": ["Peninsula miliardarilor", "Villa Ephrussi de Rothschild", "Traseul de coastă Sentier du Littoral", "Capela Saint-Hospice", "Plaje private exclusiviste", "Farul construit în 1862", "Fost sat de pescari", "Preferat de vedetele de cinema"], "en": ["Peninsula of billionaires", "Villa Ephrussi de Rothschild", "Sentier du Littoral coastal path", "Saint-Hospice Chapel", "Exclusive private beaches", "Lighthouse built in 1862", "Former fishing village", "Favorite of movie stars"]}, "image": "/geo-images/france/saint-jean-cap-ferrat.webp", "imageHint": "Lush green peninsula with luxury villas and crystal clear blue water", "descriptionAdvanced": {"de": "Die Halbinsel Saint-Jean-Cap-Ferrat, die elegant in das schimmernde Mittelmeer zwischen Nizza und Monaco ragt, verkörpert den absoluten Höhepunkt der Eleganz an der Riviera. Einst ein bescheidenes Fischerdorf, hat sie sich in eine hochexklusive Enklave verwandelt, die sich unter einem dichten Blätterdach aus Aleppokiefern verbirgt. Das Hauptdorf versprüht eine entspannte, gehobene Küstenatmosphäre, mit einem malerischen Jachthafen voller Luxusboote, umgeben von schicken Cafés und Fischrestaurants. Der wahre Reiz der Halbinsel liegt in ihren prächtigen Anwesen, allen voran der Villa Ephrussi de Rothschild. Dieser spektakuläre rosafarbene Palast ist ein Meisterwerk der Belle Époque und bietet neun kunstvoll angelegte Themengärten, die vom französischen Barock- bis zum japanischen Garten reichen und weite Ausblicke auf das Meer bieten. Naturliebhaber können den Sentier du Littoral erwandern, einen atemberaubenden Küstenpfad, der sich um das felsige Kap windet und an versteckten, unberührten Buchten wie dem Plage de la Paloma vorbeiführt. Saint-Jean-Cap-Ferrat verbindet erfolgreich den Reichtum der aristokratischen Geschichte mit einer außergewöhnlichen natürlichen Schönheit.", "hu": "A Nizza és Monaco között a csillogó Földközi-tengerbe nyúló Saint-Jean-Cap-Ferrat félszigete a Riviéra eleganciájának abszolút csúcspontja. Az egykor szerény halászfalu mára egy rendkívül exkluzív, a dús aleppói fenyők lombkoronája alatt megbúvó menedékké alakult. A fő falu megőrizte nyugodt, előkelő tengerparti hangulatát; a festői kikötőt luxusjachtok ringatóznak, partján pedig elegáns kávézók és tengeri herkentyűket kínáló éttermek sorakoznak. A félsziget igazi vonzerejét a pompás birtokok adják, melyek közül kiemelkedik a Villa Ephrussi de Rothschild. Ez a látványos rózsaszín palota a Belle Époque mesterműve, kilenc, aprólékosan megtervezett tematikus kerttel – a franciakerttől a japánkertig –, ahonnan pazar kilátás nyílik a tengerre. A természet szerelmesei végigsétálhatnak a Sentier du Littoral nevű lenyűgöző parti ösvényen, amely megkerüli a sziklás fokot, és olyan rejtett, érintetlen öblöket érint, mint a híres Plage de la Paloma. A kristálytiszta víz itt tökéletes az úszáshoz és a paddleboardozáshoz. Saint-Jean-Cap-Ferrat hihetetlenül sikeresen ötvözi az arisztokrata történelem fényűzését a kivételes természeti szépséggel.", "ro": "Ieșind grațios în Marea Mediterană strălucitoare, între Nisa și Monaco, peninsula Saint-Jean-Cap-Ferrat reprezintă apogeul absolut al eleganței pe Riviera. Cândva un modest sat de pescari, acesta s-a transformat într-o enclavă ultra-exclusivistă, ascunsă sub un baldachin dens de pini de Alep. Satul principal păstrează o atmosferă de coastă relaxată, dar sofisticată, având un port de agrement pitoresc, plin de iahturi de lux și înconjurat de cafenele cochete și restaurante cu fructe de mare. Adevărata atracție a peninsulei constă în domeniile sale magnifice, în special Villa Ephrussi de Rothschild. Acest palat spectaculos de culoare roz este o capodoperă a perioadei Belle Époque, prezentând nouă grădini tematice meticulos amenajate, de la stilul formal francez la cel japonez, oferind priveliști ample asupra mării. Iubitorii de natură se pot plimba pe Sentier du Littoral, o cărare de coastă care taie respirația și care înconjoară capul stâncos, trecând pe lângă golfuri ascunse și imaculate, precum Plage de la Paloma. Apele cristaline de aici sunt perfecte pentru înot. Saint-Jean-Cap-Ferrat îmbină cu succes opulența istoriei aristocratice cu o frumusețe naturală extraordinară.", "en": "Jutting out gracefully into the shimmering Mediterranean between Nice and Monaco, the peninsula of Saint-Jean-Cap-Ferrat represents the absolute pinnacle of Riviera elegance. Once a modest fishing village, it has transformed into an ultra-exclusive enclave hidden beneath a canopy of dense Aleppo pines. The main village retains a relaxed, upscale coastal vibe, with a picturesque marina filled with luxury yachts, surrounded by chic cafes and seafood restaurants. The true allure of the peninsula lies in its magnificent estates, most notably the Villa Ephrussi de Rothschild. This spectacular rose-colored palace is a masterpiece of the Belle Époque, featuring nine meticulously themed gardens, ranging from French formal to Japanese, offering sweeping views of the sea. Nature lovers can walk the Sentier du Littoral, a breathtaking coastal path that loops around the rocky cape, passing hidden, pristine coves like the Plage de la Paloma. The crystal-clear waters here are perfect for swimming and paddleboarding. Saint-Jean-Cap-Ferrat successfully marries the opulence of aristocratic history with extraordinary natural beauty, making it one of the most glamorous and peaceful escapes on the Côte d'Azur."}, "factsAdvanced": {"de": ["Unabhängigkeit von Villefranche: 1904", "Villa Ephrussi Bauzeit: 1905–1912", "Länge des Küstenpfads: 14 km", "Anzahl der Themengärten: 9", "Höchster Punkt: 143 Meter", "Entfernung nach Monaco: ca. 12 km"], "hu": ["Elszakadás Villefranche-tól: 1904", "Villa Ephrussi építése: 1905–1912", "Parti ösvény hossza: 14 km", "Tematikus kertek száma: 9", "Legmagasabb pont: 143 méter", "Távolság Monacótól: kb. 12 km"], "ro": ["Independența față de Villefranche: 1904", "Construcția Villa Ephrussi: 1905–1912", "Lungimea traseului de coastă: 14 km", "Numărul grădinilor tematice: 9", "Punctul maxim de altitudine: 143 metri", "Distanța față de Monaco: aproximativ 12 km"], "en": ["Independence from Villefranche: 1904", "Villa Ephrussi construction: 1905–1912", "Coastal path length: 14 km", "Number of themed gardens: 9", "Highest point: 143 meters", "Distance to Monaco: approx. 12 km"]}, "sights": {
+      "de": [
+            {
+                  "name": "Villa Ephrussi de Rothschild",
+                  "text": "Ein atemberaubender rosafarbener Palast im Renaissancestil, der von Béatrice de Rothschild erbaut wurde und eine Kunstsammlung beherbergt.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "coords": [
+                        7.328472,
+                        43.696667
+                  ]
+            },
+            {
+                  "name": "Jardins de la Villa Ephrussi",
+                  "text": "Neun exquisit gestaltete Themengärten umgeben die Villa, darunter französische und japanische Stile, und bieten einen Panoramablick auf das Meer.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.275088,
+                        43.710255
+                  ]
+            },
+            {
+                  "name": "Phare du Cap Ferrat",
+                  "text": "Dieser historische Leuchtturm an der Südspitze der Halbinsel leitet Schiffe in die Häfen und bietet dramatische Ausblicke auf die raue Küste.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        7.32694,
+                        43.6753
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Hospice",
+                  "text": "Eine alte und tief spirituelle Kapelle aus dem elften Jahrhundert, die historisch als wichtiges Heiligtum für Seeleute und Fischer diente.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.34681,
+                        43.6859
+                  ]
+            },
+            {
+                  "name": "Plage de Paloma",
+                  "text": "Ein exklusiver und unberührter Strand in einer ruhigen Bucht, der für sein kristallklares Wasser und seine Beliebtheit bei Prominenten bekannt ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.3422,
+                        43.686
+                  ]
+            },
+            {
+                  "name": "Promenade Maurice Rouvier",
+                  "text": "Ein gepflasterter Küstenweg, der die Stadt mit Beaulieu-sur-Mer verbindet und einen einfachen, landschaftlich reizvollen Spaziergang am Meer bietet.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.333217,
+                        43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Auf der idyllischen Halbinsel von Saint Jean Cap Ferrat liegt der ruhige Plage de la Gavinette. Das entspannte Ambiente lädt dazu ein, gemütlich in der Sonne zu verweilen und die Füße ins Wasser baumeln zu lassen. Ein Besuch unter der Woche garantiert oft ein besonders beschauliches Stranderlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "In der französischen Gemeinde Saint Jean Cap Ferrat erstreckt sich der malerische Plage des Fosses. An diesem einladenden Strand können Besucher hervorragend schwimmen oder die schöne Küstenlinie erkunden. Wenn die Temperaturen steigen, bietet das Wasser hier eine willkommene und erfrischende Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "Der Plage de la Réserve ist ein attraktives Stück Küste in Saint Jean Cap Ferrat. Hier lässt sich die mediterrane Stimmung Südfrankreichs bei einem ausgedehnten Sonnenbad wunderbar einfangen. Um den besten Liegeplatz zu ergattern, lohnt es sich, gleich am Vormittag an den Strand zu kommen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Ein toller Spielplatz in Saint Jean Cap Ferrat, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Dieser Spielbereich in Saint Jean Cap Ferrat ist ideal für kleine Kinder zum Entdecken und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Plage des Fourmis",
+                  "text": "Ein malerischer Strand in Saint-Jean-Cap-Ferrat mit klarem Wasser und feinem Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        7.330256,
+                        43.70271
+                  ]
+            },
+            {
+                  "name": "Plage de Passable",
+                  "text": "Ein geschützter Strand in Saint-Jean-Cap-Ferrat, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.325331,
+                        43.69371
+                  ]
+            },
+            {
+                  "name": "Plage Petite Afrique",
+                  "text": "Ein beliebter Küstenabschnitt in Saint-Jean-Cap-Ferrat, bekannt für seine natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        7.33838,
+                        43.712106
+                  ]
+            },
+            {
+                  "name": "Plage des Fossettes",
+                  "text": "Ein ruhiger Strand in Saint-Jean-Cap-Ferrat, der von mediterraner Vegetation umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        7.339356,
+                        43.686316
+                  ]
+            },
+            {
+                  "name": "Plage de la Darse",
+                  "text": "Ein kleiner Strand in der Nähe des Hafens von Saint-Jean-Cap-Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.307756,
+                        43.697228
+                  ]
+            },
+            {
+                  "name": "Villa Kerylos",
+                  "text": "Ein Museum im Stil einer antiken griechischen Villa, erbaut zu Beginn des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        7.333866,
+                        43.703226
+                  ]
+            },
+            {
+                  "name": "Fort du Mont-Alban",
+                  "text": "Eine Festung aus dem 16. Jahrhundert auf einem Hügel mit Blick auf Nizza und das Meer.",
+                  "category": "castle",
+                  "coords": [
+                        7.300148,
+                        43.701327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa Ephrussi de Rothschild",
+                  "text": "A Béatrice de Rothschild által építtetett, lenyűgöző, rózsaszínű, reneszánsz stílusú palota lenyűgöző művészeti gyűjteménnyel és bútorokkal.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "coords": [
+                        7.328472,
+                        43.696667
+                  ]
+            },
+            {
+                  "name": "Jardins de la Villa Ephrussi",
+                  "text": "A villát kilenc kiválóan megtervezett tematikus kert veszi körül, köztük francia és japán stílusúak, lélegzetelállító tengeri panorámát kínálva.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.275088,
+                        43.710255
+                  ]
+            },
+            {
+                  "name": "Phare du Cap Ferrat",
+                  "text": "A félsziget déli csücskén található történelmi világítótorony a helyi kikötőkbe irányítja a hajókat, és drámai kilátást nyújt a sziklás partra.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        7.32694,
+                        43.6753
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Hospice",
+                  "text": "Egy ősi és mélyen spirituális kápolna a tizenegyedik századból, amely történelmileg fontos menedékként szolgált a tengerészek és halászok számára.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.34681,
+                        43.6859
+                  ]
+            },
+            {
+                  "name": "Plage de Paloma",
+                  "text": "Rendkívül exkluzív strand egy csendes öbölben, amely kristálytiszta vizéről és a nemzetközi hírességek körében való népszerűségéről híres.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.3422,
+                        43.686
+                  ]
+            },
+            {
+                  "name": "Promenade Maurice Rouvier",
+                  "text": "A várost Beaulieu-sur-Merrel összekötő, teljesen aszfaltozott parti ösvény könnyű és festői sétát kínál a lenyűgöző Földközi-tenger partja mentén.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.333217,
+                        43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Saint Jean Cap Ferrat idilli félszigetén található a csendes Plage de la Gavinette. A pihentető légkör arra csábít, hogy kényelmesen elidőzzünk a napon, és lábunkat a vízbe lógassuk. Egy hétköznapi látogatás gyakran különösen békés strandélményt garantál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "A franciaországi Saint Jean Cap Ferrat településen húzódik a festői Plage des Fosses. Ezen a hívogató strandon a látogatók kiválóan úszhatnak, vagy felfedezhetik a gyönyörű partvonalat. Amikor a hőmérséklet emelkedik, a víz itt egy igazán kellemes és hűsítő felüdülést nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "A Plage de la Réserve egy vonzó partszakasz Saint Jean Cap Ferrat-ban. Itt egy kiadós napozás során csodálatosan magunkba szívhatjuk Dél-Franciaország mediterrán hangulatát. A legjobb napozóhely megszerzése érdekében érdemes rögtön délelőtt kilátogatni a partra.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Egy nagyszerű játszótér Saint Jean Cap Ferratban, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Ez a Saint Jean Cap Ferrat-i játszóhely ideális a kisgyermekek számára a felfedezéshez és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Plage des Fourmis",
+                  "text": "Gleccseres vizű, homokos strand Saint-Jean-Cap-Ferrat-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.330256,
+                        43.70271
+                  ]
+            },
+            {
+                  "name": "Plage de Passable",
+                  "text": "Védett strand Saint-Jean-Cap-Ferrat-ban, ideális a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        7.325331,
+                        43.69371
+                  ]
+            },
+            {
+                  "name": "Plage Petite Afrique",
+                  "text": "Népszerű tengerparti szakasz Saint-Jean-Cap-Ferrat-ban, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.33838,
+                        43.712106
+                  ]
+            },
+            {
+                  "name": "Plage des Fossettes",
+                  "text": "Csendes strand Saint-Jean-Cap-Ferrat-ban, mediterrán növényzettel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        7.339356,
+                        43.686316
+                  ]
+            },
+            {
+                  "name": "Plage de la Darse",
+                  "text": "Kis strand Saint-Jean-Cap-Ferrat kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.307756,
+                        43.697228
+                  ]
+            },
+            {
+                  "name": "Villa Kerylos",
+                  "text": "Ókori görög stílusban épült villa és múzeum a 20. század elejéről.",
+                  "category": "museum",
+                  "coords": [
+                        7.333866,
+                        43.703226
+                  ]
+            },
+            {
+                  "name": "Fort du Mont-Alban",
+                  "text": "16. századi erőd egy dombtetőn, kilátással Nizzára és a tengerre.",
+                  "category": "castle",
+                  "coords": [
+                        7.300148,
+                        43.701327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa Ephrussi de Rothschild",
+                  "text": "Un palat uimitor în stil renascentist roz, construit de Béatrice de Rothschild, cu o colecție impresionantă de artă și mobilier de epocă.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "coords": [
+                        7.328472,
+                        43.696667
+                  ]
+            },
+            {
+                  "name": "Jardins de la Villa Ephrussi",
+                  "text": "Nouă grădini tematice rafinate înconjoară vila, inclusiv în stil francez și japonez, oferind vederi panoramice uluitoare la Marea Mediterană.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.275088,
+                        43.710255
+                  ]
+            },
+            {
+                  "name": "Phare du Cap Ferrat",
+                  "text": "Acest far istoric din vârful sudic al peninsulei ghidează navele în porturile locale și oferă priveliști dramatice ale coastei foarte stâncoase.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        7.32694,
+                        43.6753
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Hospice",
+                  "text": "O capelă antică și profund spirituală construită în secolul al unsprezecelea, servind istoric ca un sanctuar crucial pentru marinari și pescari.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.34681,
+                        43.6859
+                  ]
+            },
+            {
+                  "name": "Plage de Paloma",
+                  "text": "O plajă exclusivistă într-un golf liniștit, renumită pentru apele sale cristaline și pentru popularitatea în rândul celebrităților mondiale.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.3422,
+                        43.686
+                  ]
+            },
+            {
+                  "name": "Promenade Maurice Rouvier",
+                  "text": "O potecă de coastă complet pavată care leagă orașul de Beaulieu-sur-Mer, oferind o plimbare ușoară și foarte pitorească de-a lungul Mediteranei.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.333217,
+                        43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Pe peninsula idilică Saint Jean Cap Ferrat se află liniștita Plage de la Gavinette. Ambianța relaxată vă invită să stați confortabil la soare și să vă scufundați picioarele în apă. O vizită în timpul săptămânii garantează adesea o experiență pe plajă deosebit de contemplativă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "Pitoreasca Plage des Fosses se întinde în comuna franceză Saint Jean Cap Ferrat. Pe această plajă primitoare, vizitatorii se pot bucura de un înot excelent sau pot explora frumoasa coastă. Când temperaturile cresc, apa de aici oferă o răcorire binevenită.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "Plage de la Réserve este o porțiune atractivă de coastă din Saint Jean Cap Ferrat. Aici, atmosfera mediteraneană din sudul Franței poate fi surprinsă de minune în timpul unei sesiuni prelungite de plajă. Pentru a obține cel mai bun loc, merită să veniți la plajă dis-de-dimineață.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "Un loc de joacă minunat în Saint Jean Cap Ferrat, care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "Această zonă de joacă din Saint Jean Cap Ferrat este ideală pentru copiii mici, pentru a explora și a se juca.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Plage des Fourmis",
+                  "text": "O plajă pitorească în Saint-Jean-Cap-Ferrat, cu ape clare și nisip fin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.330256,
+                        43.70271
+                  ]
+            },
+            {
+                  "name": "Plage de Passable",
+                  "text": "O plajă protejată în Saint-Jean-Cap-Ferrat, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.325331,
+                        43.69371
+                  ]
+            },
+            {
+                  "name": "Plage Petite Afrique",
+                  "text": "O porțiune de coastă populară în Saint-Jean-Cap-Ferrat, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        7.33838,
+                        43.712106
+                  ]
+            },
+            {
+                  "name": "Plage des Fossettes",
+                  "text": "O plajă liniștită în Saint-Jean-Cap-Ferrat, înconjurată de vegetație mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        7.339356,
+                        43.686316
+                  ]
+            },
+            {
+                  "name": "Plage de la Darse",
+                  "text": "O plajă mică situată în apropierea portului din Saint-Jean-Cap-Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.307756,
+                        43.697228
+                  ]
+            },
+            {
+                  "name": "Villa Kerylos",
+                  "text": "O vilă-muzeu construită în stil antic grecesc la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        7.333866,
+                        43.703226
+                  ]
+            },
+            {
+                  "name": "Fort du Mont-Alban",
+                  "text": "O fortăreață din secolul al XVI-lea pe un deal, cu vedere spre Nisa și mare.",
+                  "category": "castle",
+                  "coords": [
+                        7.300148,
+                        43.701327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa Ephrussi de Rothschild",
+                  "text": "A stunning rose-colored Renaissance-style palace built by Béatrice de Rothschild, featuring an impressive art collection and antique furniture.",
+                  "category": "famous residences",
+                  "confidence": "high",
+                  "coords": [
+                        7.328472,
+                        43.696667
+                  ]
+            },
+            {
+                  "name": "Jardins de la Villa Ephrussi",
+                  "text": "Nine exquisitely themed gardens surround the villa, including French, Japanese, and Florentine styles, offering breathtaking panoramic sea views.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.275088,
+                        43.710255
+                  ]
+            },
+            {
+                  "name": "Phare du Cap Ferrat",
+                  "text": "This historic lighthouse at the peninsula's southern tip guides ships into the local ports and offers dramatic vistas of the rugged coastline.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "coords": [
+                        7.32694,
+                        43.6753
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Hospice",
+                  "text": "An ancient and deeply spiritual chapel built in the eleventh century, historically serving as a crucial sanctuary for sailors and passing fishermen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.34681,
+                        43.6859
+                  ]
+            },
+            {
+                  "name": "Plage de Paloma",
+                  "text": "A highly exclusive and pristine beach nestled in a quiet cove, famous for its crystal-clear waters and popularity among international celebrities.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.3422,
+                        43.686
+                  ]
+            },
+            {
+                  "name": "Promenade Maurice Rouvier",
+                  "text": "A completely paved coastal path connecting the town to Beaulieu-sur-Mer, offering an easy and highly scenic walk along the stunning Mediterranean.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        7.333217,
+                        43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "On the idyllic peninsula of Saint Jean Cap Ferrat lies the quiet Plage de la Gavinette. The relaxing ambiance invites you to linger comfortably in the sun and dangle your feet in the water. A visit during the week often guarantees a particularly tranquil beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "The picturesque Plage des Fosses stretches out in the French municipality of Saint Jean Cap Ferrat. On this inviting beach, visitors can swim wonderfully or explore the beautiful coastline. When temperatures rise, the water here offers a welcome and refreshing cool-down.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "The Plage de la Réserve is an attractive stretch of coastline in Saint Jean Cap Ferrat. The Mediterranean mood of southern France can be wonderfully captured here during an extended sunbathing session. To secure the best spot, it is worth coming to the beach first thing in the morning.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
+            },
+            {
+                  "name": "Square des Chasseurs",
+                  "text": "A great playground in Saint Jean Cap Ferrat, offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.309399,
+                        43.699858
+                  ]
+            },
+            {
+                  "name": "Jardin d'éveil Les Capucines",
+                  "text": "This play area in Saint Jean Cap Ferrat is ideal for young children to explore and play.",
+                  "category": "family",
+                  "coords": [
+                        7.307475,
+                        43.700057
+                  ]
+            },
+            {
+                  "name": "Plage des Fourmis",
+                  "text": "A picturesque beach in Saint-Jean-Cap-Ferrat with clear waters and fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        7.330256,
+                        43.70271
+                  ]
+            },
+            {
+                  "name": "Plage de Passable",
+                  "text": "A sheltered beach in Saint-Jean-Cap-Ferrat, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.325331,
+                        43.69371
+                  ]
+            },
+            {
+                  "name": "Plage Petite Afrique",
+                  "text": "A popular coastal stretch in Saint-Jean-Cap-Ferrat known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        7.33838,
+                        43.712106
+                  ]
+            },
+            {
+                  "name": "Plage des Fossettes",
+                  "text": "A quiet beach in Saint-Jean-Cap-Ferrat surrounded by Mediterranean vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        7.339356,
+                        43.686316
+                  ]
+            },
+            {
+                  "name": "Plage de la Darse",
+                  "text": "A small beach located near the harbor of Saint-Jean-Cap-Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.307756,
+                        43.697228
+                  ]
+            },
+            {
+                  "name": "Villa Kerylos",
+                  "text": "A museum built in the style of an ancient Greek villa at the start of the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        7.333866,
+                        43.703226
+                  ]
+            },
+            {
+                  "name": "Fort du Mont-Alban",
+                  "text": "A 16th-century fortress on a hill overlooking Nice and the sea.",
+                  "category": "castle",
+                  "coords": [
+                        7.300148,
+                        43.701327
+                  ]
+            }
+      ]
+}},
   {"id": "saint-paul-de-vence", "type": "city", "parent": "FR-PAC", "coords": [7.1219, 43.6975], "population": 3500, "tier": 1, "name": {"de": "Saint-Paul-de-Vence", "hu": "Saint-Paul-de-Vence", "ro": "Saint-Paul-de-Vence", "en": "Saint-Paul-de-Vence"}, "description": {"de": "Als eines der ältesten Dörfer der französischen Riviera fasziniert Saint-Paul-de-Vence Touristen mit seinen perfekt erhaltenen Befestigungsanlagen und lebhaften Kunstgalerien.", "hu": "A francia Riviéra egyik legrégebbi falva, Saint-Paul-de-Vence tökéletes állapotban fennmaradt védműveivel és nyüzsgő művészeti galériáival nyűgözi le a turistákat.", "ro": "Fiind unul dintre cele mai vechi sate de pe Riviera Franceză, Saint-Paul-de-Vence fascinează turiștii cu fortificațiile sale perfect conservate și galeriile de artă pline de viață.", "en": "As one of the oldest villages on the French Riviera, Saint-Paul-de-Vence fascinates tourists with its perfectly preserved fortifications and bustling art galleries."}, "facts": {"de": ["Stadtmauern", "Kunstgalerien", "Grab von Marc Chagall", "Mittelalterliche Straßen", "Steinhäuser", "Panoramaterrassen", "Fondation Maeght", "Historischer Brunnen"], "hu": ["Várfalak", "Művészeti galériák", "Marc Chagall sírja", "Középkori utcák", "Kőből épült házak", "Panorámás teraszok", "Fondation Maeght", "Történelmi szökőkút"], "ro": ["Ziduri ale orașului", "Galerii de artă", "Mormântul lui Marc Chagall", "Străzi medievale", "Case de piatră", "Terase panoramice", "Fondation Maeght", "Fântână istorică"], "en": ["City ramparts", "Art galleries", "Marc Chagall's grave", "Medieval streets", "Stone built houses", "Panoramic terraces", "Fondation Maeght", "Historic fountain"]}, "image": "/geo-images/france/saint-paul-de-vence.webp", "imageHint": "medieval ramparts of Saint-Paul-de-Vence", "descriptionAdvanced": {"de": "Saint-Paul-de-Vence ist eine der am besten befestigten und am besten erhaltenen mittelalterlichen Siedlungen an der Mittelmeerküste. Die dicken Steinmauern mit Bastionen, die das Dorf umgeben, wurden zwischen 1543 und 1547 auf Befehl des französischen Königs Franz I. erbaut, um das Grenzgebiet zu schützen. Die Siedlung wurde im 20. Jahrhundert zu einem globalen Zentrum der modernen Kunst, als Schöpfer wie Picasso, Matisse und Marc Chagall hierher zogen. Chagall lebte 20 Jahre lang hier und ist auf dem örtlichen Friedhof begraben. Die Wände des berühmten Gasthauses La Colombe d'Or sind noch heute mit Werken von damals mittellosen Künstlern geschmückt, die ihre Unterkunft mit Gemälden bezahlten. Die Fondation Maeght gegenüber den Mauern ist eines der bedeutendsten Museen für moderne Kunst in Europa.", "hu": "Saint-Paul-de-Vence a Földközi-tenger partvidékének egyik legjobban megerősített és leginkább épségben maradt középkori települése. A falut körülvevő, bástyákkal megerősített vastag kőfalakat I. Ferenc francia király parancsára építették 1543 és 1547 között, hogy megvédjék a határvidéket. A település a 20. században vált a modern művészet egyik globális központjává, amikor olyan alkotók költöztek ide, mint Picasso, Matisse és Marc Chagall, aki 20 éven át élt itt, és a helyi temetőben nyugszik. A La Colombe d'Or nevű híres fogadó falait ma is az itt megfordult, akkoriban nincstelen művészek alkotásai díszítik, akik festményekkel fizettek a szállásért. A falakkal szemben található Fondation Maeght Európa egyik legjelentősebb modern művészeti múzeuma.", "ro": "Saint-Paul-de-Vence este una dintre cele mai bine fortificate și mai bine conservate așezări medievale de pe coasta mediteraneană. Zidurile groase de piatră cu bastioane care înconjoară satul au fost construite între 1543 și 1547 la ordinul regelui francez Francisc I, pentru a proteja zona de graniță. Așezarea a devenit un centru global al artei moderne în secolul al XX-lea, când creatori precum Picasso, Matisse și Marc Chagall s-au mutat aici. Chagall a trăit aici timp de 20 de ani și este înmormântat în cimitirul local. Pereții celebrului han La Colombe d'Or sunt și astăzi decorați cu lucrările artiștilor atunci lipsiți de mijloace, care își plăteau cazarea cu picturi. Fondation Maeght, situată vizavi de ziduri, este unul dintre cele mai importante muzee de artă modernă din Europa.", "en": "Saint-Paul-de-Vence is one of the best fortified and most perfectly preserved medieval settlements on the Mediterranean coast. The thick stone walls and bastions surrounding the village were built between 1543 and 1547 by order of French King Francis I to protect the border region. The settlement became a global center for modern art in the 20th century, drawing creators like Picasso, Matisse, and Marc Chagall, who lived here for 20 years and is buried in the local cemetery. The walls of the famous La Colombe d'Or inn are still decorated with works by artists who were then destitute and paid for their lodging with paintings. Located just outside the town walls, the Fondation Maeght is one of the most significant modern art museums in all of Europe."}, "factsAdvanced": {"de": ["Die dicken Burgmauern wurden zwischen 1543 und 1547 auf Befehl von König Franz I. erbaut.", "Marc Chagall lebte 20 Jahre hier und wurde auf dem Dorffriedhof beigesetzt.", "Im berühmten Gasthaus La Colombe d'Or bezahlten die Künstler ihre Unterkunft mit Kunstwerken.", "Ursprünglich war es eine strategische militärische Festung zur Verteidigung der Var-Grenze.", "Die Siedlung hat ihr Straßennetz aus dem 16. Jahrhundert fast intakt bewahrt.", "Die Fondation Maeght ist eines der wichtigsten europäischen Museen für moderne Kunst."], "hu": ["A vastag várfalakat I. Ferenc király parancsára építették 1543 és 1547 között.", "Marc Chagall 20 évig élt itt, és a falu temetőjében helyezték örök nyugalomra.", "A híres La Colombe d'Or fogadóban a művészek alkotásokkal fizettek a szállásért.", "Eredetileg stratégiai katonai erődítmény volt a Var folyó határának védelmére.", "A település szinte érintetlenül őrzi 16. századi utcahálózatát.", "A Fondation Maeght a modern művészet egyik legfontosabb európai múzeuma."], "ro": ["Zidurile groase ale castelului au fost construite între 1543 și 1547 la ordinul regelui Francisc I.", "Marc Chagall a trăit aici 20 de ani și a fost înmormântat în cimitirul satului.", "În celebrul han La Colombe d'Or, artiștii au plătit cazarea cu opere de artă.", "Inițial a fost o fortăreață militară strategică pentru a apăra granița râului Var.", "Așezarea își păstrează aproape intactă rețeaua de străzi din secolul al XVI-lea.", "Fondation Maeght este unul dintre cele mai importante muzee europene de artă modernă."], "en": ["The thick defensive walls were built between 1543 and 1547 by order of King Francis I.", "Marc Chagall lived here for 20 years and was laid to rest in the village cemetery.", "Artists famously paid for their accommodation with artwork at the La Colombe d'Or inn.", "It was originally built as a strategic military fortress to defend the Var river border.", "The settlement preserves its original 16th-century street layout almost entirely intact.", "The Fondation Maeght is widely considered one of Europe's top modern art museums."]}, "sights": {
       "de": [
             {
@@ -19070,7 +25584,732 @@ export const poiExtraFrV2: POI[] = [
       ]
 }},
   {"id": "saint-tropez", "type": "city", "parent": "FR-PAC", "coords": [6.6406, 43.2675], "population": 3937, "tier": 1, "name": {"de": "Saint-Tropez", "hu": "Saint-Tropez", "ro": "Saint-Tropez", "en": "Saint-Tropez"}, "description": {"de": "Saint-Tropez ist das wohl berühmteste Fischerdorf der Welt, ein Symbol für Luxus, Glamour und die goldene Ära des französischen Kinos an der Côte d'Azur.", "hu": "Saint-Tropez a világ leghíresebb halászfaluja, a luxus és a csillogás jelképe, amely Brigitte Bardot és a francia filmművészet révén vált legendássá.", "ro": "Saint-Tropez este cel mai faimos sat de pescari din lume, un simbol al luxului și extravaganței, renumit pentru viața de noapte și iahturile sale.", "en": "Saint-Tropez is arguably the world's most famous fishing village, a global symbol of luxury, glamour, and the sun-drenched French Riviera lifestyle."}, "facts": {"de": ["Einst ein einfaches Fischerdorf", "Berühmt durch Brigitte Bardot (1956)", "Legendärer Strand Plage de Pampelonne", "Zentrum für High-Society und Luxusyachten", "Hafenpromenade mit Cafés wie Sénéquier", "Historische Zitadelle aus dem 17. Jh.", "Bekannt für den Kuchen 'Tarte Tropézienne'", "Austragungsort der Les Voiles de Saint-Tropez"], "hu": ["Egykor egyszerű halászfalu volt", "Brigitte Bardot tette világhírűvé 1956-ban", "A híres Pampelonne-strand otthona", "A nemzetközi jet-set központja", "Ikonikus kikötői kávézók (pl. Sénéquier)", "17. századi citadella uralja a várost", "Itt született a Tarte Tropézienne sütemény", "A Les Voiles de Saint-Tropez regatta helyszíne"], "ro": ["Fost sat pescăresc modest", "Devenit celebru datorită lui Brigitte Bardot", "Găzduiește celebra plajă Pampelonne", "Hub global pentru jet-set și iahturi de lux", "Cafenele iconice precum Sénéquier în port", "Citadelă istorică din secolul al XVII-lea", "Locul de origine al prăjiturii Tarte Tropézienne", "Gazda regatei Les Voiles de Saint-Tropez"], "en": ["Once a simple fishing village", "Made famous by Brigitte Bardot in 1956", "Home to the iconic Pampelonne Beach", "Global hub for high society and mega-yachts", "Legendary port-side cafés like Sénéquier", "17th-century citadel overlooking the town", "Birthplace of the Tarte Tropézienne pastry", "Host of the Les Voiles de Saint-Tropez regatta"]}, "image": "/geo-images/france/saint-tropez.webp", "imageHint": "Saint-Tropez harbor with luxury yachts and colorful houses", "descriptionAdvanced": {"de": "Saint-Tropez verwandelte sich in den 1950er Jahren von einem verschlafenen Fischerort in den ultimativen Treffpunkt der internationalen Prominenz. Den Anstoß gab der Film 'Und immer lockt das Weib' mit Brigitte Bardot, der die Schönheit des Ortes weltweit bekannt machte. Trotz des enormen Besucherandrangs im Sommer hat Saint-Tropez seinen provenzalischen Kern bewahrt. Die engen Gassen von 'La Ponche', dem alten Fischerviertel, führen zu malerischen Plätzen wie dem Place des Lices, wo Einheimische unter Platanen Boule spielen. Über der Stadt thront die Zitadelle, die heute ein Marinemuseum beherbergt und einen Panoramablick über den Golf von Saint-Tropez bietet. Die eigentlichen Partys finden meist etwas außerhalb am fünf Kilometer langen Sandstrand von Pampelonne statt, wo exklusive Beach Clubs wie der Club 55 zu finden sind. Kulturell bietet der Ort mit dem Musée de l'Annonciade eine erstklassige Sammlung moderner Kunst, die an die Zeit erinnert, als Maler wie Signac den Ort entdeckten.", "hu": "Saint-Tropez az 1950-es évekig egy csendes, elszigetelt halászfalu volt, amíg Brigitte Bardot és az 'És Isten megteremté a nőt' című film örökre meg nem változtatta a sorsát. Ma a város a globális elit találkozóhelye, ahol a kikötőben sorakozó hatalmas jachtok látványa mindennapos. Az óváros, a 'La Ponche' mégis megőrizte eredeti báját pasztellszínű házaival és szűk sikátoraival. A Place des Lices téren minden kedden és szombaton piacot tartanak, ahol a helyiek a platánfák alatt ma is pétanque-ot játszanak. A város fölé magasodó 17. századi citadellából csodás kilátás nyílik az öbölre. Saint-Tropez gasztronómiai védjegye a Tarte Tropézienne, egy krémmel töltött édes brios-tészta, amelyet egy lengyel cukrász alkotott meg. A művészetkedvelőknek az Annonciade Múzeum kötelező, amely Signac és Matisse műveivel mutatja be a város festői múltját.", "ro": "Saint-Tropez s-a metamorfozat dintr-un sat de pescari izolat în epicentrul strălucirii mediteraneene după cel de-al Doilea Război Mondial. Succesul răsunător al filmului 'Și Dumnezeu a creat femeia' cu Brigitte Bardot a pus acest loc pe harta mondială a turismului de lux. Deși portul este plin de iahturi extravagante și cafenele scumpe precum Sénéquier, Saint-Tropez își păstrează esența provensală în piața Place des Lices, unde localnicii joacă petancă la umbra platanilor. Vechiul cartier de pescari, La Ponche, oferă o atmosferă mult mai liniștită, cu străzi pavate și mici golfuri ascunse. Citadela orașului, construită în secolul al XVII-lea, rămâne unul dintre cele mai importante monumente istorice, oferind o perspectivă unică asupra golfului. Stațiunea este de asemenea celebră pentru viața de noapte din cluburile de pe plaja Pampelonne și pentru regatele de iahting care atrag amatori din întreaga lume.", "en": "Saint-Tropez rose to international fame in the 1950s, largely thanks to Brigitte Bardot and the film 'And God Created Woman.' What was once a quiet fishing port became a playground for the world's rich and famous. Despite its glamorous reputation, the town maintains its Provencal soul in the narrow streets of the La Ponche district and the bustling market at Place des Lices, where locals still play pétanque. The harbor is the town's focal point, lined with red-awninged cafés and multi-million dollar yachts. High above, the 17th-century Citadel provides historical context and stunning views of the bay. A few kilometers away lies the famous Pampelonne Beach, home to legendary beach clubs like Club 55. Culturally, the Musée de l'Annonciade showcases works by Signac, Matisse, and other masters who were drawn to the town's exceptional light long before the movie stars arrived."}, "factsAdvanced": {"de": ["Plage de Pampelonne ist technisch gesehen in Ramatuelle", "Musée de l'Annonciade war früher eine Kapelle", "Zitadelle wurde zwischen 1602 und 1608 erbaut", "Place des Lices Markt findet Di und Sa statt", "Tarte Tropézienne wurde 1955 von Alexandre Micka erfunden", "Gendarmerie-Museum erinnert an die 'Louis de Funès' Filme"], "hu": ["A Pampelonne-strand valójában Ramatuelle területén fekszik", "Az Annonciade Múzeum egy 16. századi kápolnában van", "A citadellát 1602 és 1608 között építették", "A Place des Lices piaca kedden és szombaton van", "A Tarte Tropézienne receptje 1955-ben született", "Csendőrmúzeum állít emléket Louis de Funès filmjeinek"], "ro": ["Plaja Pampelonne aparține administrativ de Ramatuelle", "Muzeul Annonciade este situat într-o fostă capelă", "Citadela a fost ridicată între anii 1602 și 1608", "Piața din Place des Lices are loc marțea și sâmbăta", "Tarte Tropézienne a fost creată în 1955 de Alexandre Micka", "Muzeul Jandarmeriei celebrează filmele cu Louis de Funès"], "en": ["Pampelonne Beach is technically located in Ramatuelle", "The Annonciade Museum is housed in a 16th-century chapel", "The Citadel was built between 1602 and 1608", "The Place des Lices market runs on Tuesdays and Saturdays", "The Tarte Tropézienne was invented in 1955 by Alexandre Micka", "The Gendarmerie Museum pays tribute to the Louis de Funès films"]}, "sights": {"de": [{"name": "Citadelle de Saint-Tropez", "text": "Eine imposante Hügelfestung aus dem 17. Jahrhundert mit hexagonalen Bastionen, in der sich das wunderbare moderne Schifffahrtsmuseum befindet.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Vieux Port", "text": "Der historische alte Hafen, gesäumt von pastellfarbenen Cafés, wo traditionelle rustikale Fischerboote auf moderne Luxusyachten treffen.", "category": "squares/old-town", "confidence": "high", "coords": [6.63912, 43.273177]}, {"name": "Musée de l'Annonciade", "text": "Dieses außergewöhnliche Kunstmuseum in einer ehemaligen Kapelle aus dem 16. Jahrhundert zeigt eindrucksvolle postimpressionistische Meisterwerke.", "category": "museums", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Place des Lices", "text": "Ein typisch provenzalischer, von Platanen beschatteter Platz, berühmt für tägliche Pétanque-Spiele und seinen besonders lebhaften Wochenmarkt.", "category": "squares/old-town", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "Die ikonische italienisch-barocke Kirche mit ihrem markanten gelben Glockenturm, der unverwechselbar die Skyline von Saint-Tropez symbolisiert.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Plage de Pampelonne", "text": "Fünf Kilometer weißer Sand und wunderbar kristallklares Wasser machen den Plage de Pampelonne in Saint-Tropez weltberühmt. Zwischen exklusiven Strandclubs und schimmerndem Meer pulsiert hier das glamouröse Leben der französischen Riviera. Wer den vollen Luxus der Côte d'Azur erleben möchte, verbringt hier einen unvergesslichen Tag in der Sonne.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Musée de la Gendarmerie et du Cinéma", "text": "Dieses einzigartige Museum befindet sich in der ehemaligen Polizeistation und feiert die legendären Filmkomödien des Schauspielers Louis de Funès.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Phare de Saint-Tropez", "text": "Ein malerischer roter Leuchtturm am Ende der schönen Môle Jean Réveille, der einen unvergleichlichen Blick auf den farbenfrohen Hafen bietet.", "category": "bridges/lighthouses", "confidence": "medium", "coords": [6.63, 43.2719]}, {"name": "Chapelle Sainte-Anne", "text": "Eine charmante Hügelkapelle aus dem 17. Jahrhundert, umgeben von Zypressen und Pinien, mit einer sehr ruhigen Atmosphäre und weitem Panoramablick.", "category": "churches/cathedrals", "confidence": "medium", "coords": [6.642018, 43.259501]}, {"name": "Batterie du Capon", "text": "Batterie du Capon ist ein Strand in der Stadt Tropez.", "category": "recreational", "coords": [6.690412, 43.252338]}, {"name": "Plage Neptune", "text": "Am Plage Neptune in Saint-Tropez erwartet die Gäste eine feine Mischung aus französischem Charme und erfrischendem Meer. Der Strandbereich ist perfekt, um einfach mal die Seele baumeln zu lassen oder einen gemütlichen Spaziergang im Sand zu unternehmen. Für ein entspanntes Erlebnis ist es ratsam, frühzeitig sein Handtuch auszubreiten.", "category": "recreational", "coords": [6.663092, 43.235279]}, {"name": "Plage des Salins", "text": "Der Plage des Salins fügt sich harmonisch in die mondäne Umgebung von Saint-Tropez ein. Fernab des größten Rummels lockt dieser Strandabschnitt Badegäste an, die Sonne und Wasser in vollen Zügen genießen möchten. Besonders in den Morgenstunden offenbart der Strand seine ruhige und friedliche Seite.", "category": "recreational", "coords": [6.692463, 43.258978]}, {"name": "Plage de la Bouillabaisse", "text": "Eingebettet in die Küste von Saint-Tropez, bietet der Plage de la Bouillabaisse herrliche Ausblicke über das glitzernde Mittelmeer. Dieser Strand ist ideal, um warme Sommertage mit Schwimmen oder einem kühlen Getränk am Ufer zu verbringen. Wer den Sonnenuntergang schätzt, sollte die späten Nachmittagsstunden hier einplanen.", "category": "recreational", "coords": [6.624428, 43.266001]}, {"name": "Plage de la Garrigue", "text": "Der Plage de la Garrigue lockt mit seiner natürlichen Beschaffenheit in das weltbekannte Saint-Tropez. An diesem feinen Küstenabschnitt können Besucher dem Alltag entfliehen und sich ganz der Entspannung hingeben. Packen Sie am besten ein paar Snacks ein und genießen Sie einen unbeschwerten Badeausflug am Meer.", "category": "recreational", "coords": [6.680264, 43.248253]}, {"name": "Plage des Graniers", "text": "Leicht versteckt in einer kleinen Bucht von Saint-Tropez befindet sich der sympathische Plage des Graniers. Die intime Atmosphäre dieses Strandes ist perfekt für ein ruhiges Sonnenbad oder eine erfrischende Runde im Mittelmeer. Um sicher einen Platz in dieser kleinen Oase zu finden, empfiehlt sich ein früher Start in den Tag.", "category": "recreational", "coords": [6.648306, 43.270701]}, {"name": "Plage des Canoubiers", "text": "Am Plage des Canoubiers in Saint-Tropez trifft einladender Sand auf das sanfte Blau der französischen Küste. Badegäste schätzen hier das entspannte Umfeld, das sich gleichermaßen für Familien und ruhesuchende Urlauber eignet. Für einen komfortablen Strandtag bringt man am besten einen eigenen Sonnenschirm mit.", "category": "recreational", "coords": [6.66447, 43.265336]}, {"name": "Plage de la Fontanette", "text": "Direkt an der Küstenlinie von Saint-Tropez bietet der Plage de la Fontanette einen charmanten Ort zum Entspannen. Wer das Wasser und die südfranzösische Sonne liebt, findet hier einen gemütlichen Platz, um die Seele baumeln zu lassen. Der Strandabschnitt ist ein wunderbarer Zwischenstopp während einer Tour entlang der malerischen Küste.", "category": "recreational", "coords": [6.6421, 43.273775]}, {"name": "Plage de Capon", "text": "Der Plage de Capon in Saint-Tropez ist ein malerischer Rückzugsort am Mittelmeer. Besucher können an diesem Strand das sanfte Brechen der Wellen genießen und sich im erfrischenden Wasser abkühlen. Packen Sie am besten Ihre Strandmatte ein und erleben Sie einen ungestörten Nachmittag an der Côte d'Azur.", "category": "recreational", "coords": [6.690466, 43.254126]}], "hu": [{"name": "Citadelle de Saint-Tropez", "text": "Impozáns 17. századi dombtetőn álló erődítmény hatszögletű bástyákkal, amely jelenleg egy kiváló modern tengerészeti múzeumnak ad otthont.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Vieux Port", "text": "A nyüzsgő történelmi régi kikötő, amelyet pasztellszínű kávézók szegélyeznek, és ahol hagyományos halászhajók találkoznak hatalmas luxusjachtokkal.", "category": "squares/old-town", "confidence": "high", "coords": [6.63912, 43.273177]}, {"name": "Musée de l'Annonciade", "text": "Egy egykori 16. századi kápolnában helyet kapó kivételes művészeti múzeum lenyűgöző posztimpresszionista és fauvista remekműveket mutat be.", "category": "museums", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Place des Lices", "text": "Jellegzetes platánfákkal árnyékolt provence-i tér, amely híres a helyiek mindennapos pétanque-mérkőzéseiről és a nyüzsgő, színes heti piacáról.", "category": "squares/old-town", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "Az ikonikus olasz barokk templom jellegzetes sárga és terrakotta harangtornyával, amely egyértelműen Saint-Tropez látképének fő szimbóluma.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Plage de Pampelonne", "text": "Öt kilométernyi fehér homok és csodálatosan kristálytiszta víz tette világhírűvé a Saint-Tropez-ban található Plage de Pampelonne-t. Az exkluzív strandklubok és a csillogó tenger között lüktet a francia Riviéra elbűvölő élete. Aki szeretné megtapasztalni a Côte d'Azur teljes luxusát, egy felejthetetlen napot tölthet itt a napfényben.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Musée de la Gendarmerie et du Cinéma", "text": "Az igazi egykori rendőrőrsön található szórakoztató múzeum Louis de Funès legendás vígjátékait és a város helyi mozitörténelmét ünnepli vidáman.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Phare de Saint-Tropez", "text": "Festői, élénk piros világítótorony a Môle Jean Réveille legvégén, amely csodálatos, visszatekintő kilátást nyújt a forgalmas és színes kikötőre.", "category": "bridges/lighthouses", "confidence": "medium", "coords": [6.63, 43.2719]}, {"name": "Chapelle Sainte-Anne", "text": "Egy bájos 17. századi dombtetőn lévő kápolna, amelyet sötét ciprusok és fenyők vesznek körül, nyugodt légkört és csodás panorámás kilátást nyújtva.", "category": "churches/cathedrals", "confidence": "medium", "coords": [6.642018, 43.259501]}, {"name": "Batterie du Capon", "text": "A Batterie du Capon egy tengerpart Tropez városában.", "category": "recreational", "coords": [6.690412, 43.252338]}, {"name": "Plage Neptune", "text": "A Saint-Tropez-i Plage Neptune a francia báj és a frissítő tenger finom keverékével várja a vendégeket. A strandszakasz tökéletes egy kis lazításra vagy egy kényelmes sétára a homokban. A nyugodt élmény érdekében ajánlott korán érkezni és leteríteni a törölközőt.", "category": "recreational", "coords": [6.663092, 43.235279]}, {"name": "Plage des Salins", "text": "A Plage des Salins harmonikusan illeszkedik Saint-Tropez elegáns környezetébe. A legnagyobb felhajtástól távol, ez a partszakasz olyan fürdőzőket vonz, akik maximálisan szeretnék élvezni a napsütést és a vizet. A strand különösen a reggeli órákban mutatja meg legnyugodtabb és legbékésebb arcát.", "category": "recreational", "coords": [6.692463, 43.258978]}, {"name": "Plage de la Bouillabaisse", "text": "A Saint-Tropez partvidékébe ágyazott Plage de la Bouillabaisse csodálatos kilátást nyújt a csillogó Földközi-tengerre. Ez a strand ideális arra, hogy a meleg nyári napokat úszással vagy egy hűsítő ital társaságában töltsük a parton. Aki értékeli a naplementét, érdemes a késő délutáni órákat itt beterveznie.", "category": "recreational", "coords": [6.624428, 43.266001]}, {"name": "Plage de la Garrigue", "text": "A Plage de la Garrigue természetes vonzerejével csábít a világhírű Saint-Tropez városába. Ezen a finom partszakaszon a látogatók elmenekülhetnek a hétköznapok elől, és teljesen átadhatják magukat a pihenésnek. A legjobb, ha csomagol néhány harapnivalót, és élvezi a gondtalan tengerparti fürdőzést.", "category": "recreational", "coords": [6.680264, 43.248253]}, {"name": "Plage des Graniers", "text": "Saint-Tropez egy kis öblében, enyhén elrejtve található a szimpatikus Plage des Graniers. Ennek a strandnak az intim atmoszférája tökéletes egy csendes napozáshoz vagy egy frissítő úszáshoz a Földközi-tengerben. Hogy biztosan találjunk helyet ebben a kis oázisban, érdemes korán kezdeni a napot.", "category": "recreational", "coords": [6.648306, 43.270701]}, {"name": "Plage des Canoubiers", "text": "A Saint-Tropez-i Plage des Canoubiers strandon a hívogató homok találkozik a francia partvidék lágy kékjével. A fürdőzők értékelik az itteni pihentető környezetet, amely egyaránt alkalmas családok és nyugalmat kereső nyaralók számára. Egy kényelmes tengerparti naphoz a legjobb, ha saját napernyőt is hozunk magunkkal.", "category": "recreational", "coords": [6.66447, 43.265336]}, {"name": "Plage de la Fontanette", "text": "Közvetlenül Saint-Tropez partvonalán a Plage de la Fontanette bájos helyet kínál a kikapcsolódásra. Aki szereti a vizet és a dél-francia napsütést, itt kellemes helyet találhat a lazításra. A strandszakasz csodálatos megálló egy festői tengerparti túra során.", "category": "recreational", "coords": [6.6421, 43.273775]}, {"name": "Plage de Capon", "text": "A Saint-Tropez-i Plage de Capon egy festői menedék a Földközi-tenger partján. A látogatók ezen a strandon élvezhetik a hullámok lágy morajlását, és felfrissülhetnek a hűsítő vízben. A legjobb, ha magával hozza a strandgyékényt, és átél egy zavartalan délutánt a Côte d'Azur-ön.", "category": "recreational", "coords": [6.690466, 43.254126]}], "ro": [{"name": "Citadelle de Saint-Tropez", "text": "O fortăreață impunătoare pe deal din secolul al XVII-lea, cu bastioane hexagonale, adăpostind astăzi Muzeul modern de Istorie Maritimă.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Vieux Port", "text": "Vechiul port istoric plin de viață, străjuit de cafenele în culori pastelate, unde bărcile tradiționale rustice întâlnesc iahturile de lux.", "category": "squares/old-town", "confidence": "high", "coords": [6.63912, 43.273177]}, {"name": "Musée de l'Annonciade", "text": "Găzduit într-o fostă capelă pitorească din secolul al XVI-lea, acest muzeu de artă excepțional expune capodopere postimpresioniste impresionante.", "category": "museums", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Place des Lices", "text": "O piață provensală umbrită de platani, renumită pentru meciurile locale zilnice de pétanque și piața sa tradițională extrem de plină de viață.", "category": "squares/old-town", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "Biserica barocă italiană emblematică, cu clopotnița sa distinctă galbenă, care simbolizează instantaneu orizontul fermecător al orașului Saint-Tropez.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Plage de Pampelonne", "text": "Cinci kilometri de nisip alb și apă uimitor de cristalină fac Plage de Pampelonne din Saint-Tropez faimoasă în întreaga lume. Viața plină de farmec a Rivierei franceze pulsează aici între cluburile de plajă exclusive și marea strălucitoare. Cei care doresc să experimenteze luxul deplin al Coastei de Azur vor petrece aici o zi de neuitat la soare.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Musée de la Gendarmerie et du Cinéma", "text": "Situat în fosta secție de poliție, acest muzeu distractiv celebrează cu bucurie legendarele filme de comedie ale celebrului actor Louis de Funès.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Phare de Saint-Tropez", "text": "Un far roșu pitoresc situat chiar la capătul digului Môle Jean Réveille, oferind vederi frumoase înapoi spre portul mereu foarte colorat.", "category": "bridges/lighthouses", "confidence": "medium", "coords": [6.63, 43.2719]}, {"name": "Chapelle Sainte-Anne", "text": "O capelă fermecătoare pe un deal liniștit din secolul al XVII-lea, oferind o atmosferă complet senină și vederi panoramice splendide la golf.", "category": "churches/cathedrals", "confidence": "medium", "coords": [6.642018, 43.259501]}, {"name": "Batterie du Capon", "text": "Batterie du Capon este o plajă în orașul Tropez.", "category": "recreational", "coords": [6.690412, 43.252338]}, {"name": "Plage Neptune", "text": "O combinație fină de farmec francez și mare răcoritoare îi așteaptă pe oaspeți la Plage Neptune din Saint-Tropez. Zona de plajă este perfectă pur și simplu pentru a vă relaxa sau pentru a face o plimbare confortabilă pe nisip. Pentru o experiență fără stres, este recomandabil să vă întindeți prosopul devreme.", "category": "recreational", "coords": [6.663092, 43.235279]}, {"name": "Plage des Salins", "text": "Plage des Salins se îmbină armonios în împrejurimile sofisticate din Saint-Tropez. Departe de cea mai mare agitație, această porțiune de plajă atrage scăldătorii care doresc să se bucure din plin de soare și de apă. Plaja își dezvăluie latura liniștită și pașnică, mai ales dimineața.", "category": "recreational", "coords": [6.692463, 43.258978]}, {"name": "Plage de la Bouillabaisse", "text": "Amplasată pe coasta din Saint-Tropez, Plage de la Bouillabaisse oferă vederi magnifice peste Marea Mediterană strălucitoare. Această plajă este ideală pentru a petrece zilele calde de vară înotând sau savurând o băutură rece pe mal. Dacă apreciați apusurile de soare, ar trebui să planificați aici orele târzii ale după-amiezii.", "category": "recreational", "coords": [6.624428, 43.266001]}, {"name": "Plage de la Garrigue", "text": "Plage de la Garrigue atrage cu natura sa în faimosul oraș Saint-Tropez. Pe această porțiune fină de coastă, vizitatorii pot scăpa de viața de zi cu zi și se pot dedica complet relaxării. Cel mai bine este să împachetați câteva gustări și să vă bucurați de o excursie de înot fără griji la mare.", "category": "recreational", "coords": [6.680264, 43.248253]}, {"name": "Plage des Graniers", "text": "Ușor ascunsă într-un mic golf din Saint-Tropez se află simpatica Plage des Graniers. Atmosfera intimă a acestei plaje este perfectă pentru a face plajă în liniște sau pentru o rundă revigorantă în Marea Mediterană. Pentru a fi sigur că găsiți un loc în această mică oază, se recomandă un început de zi devreme.", "category": "recreational", "coords": [6.648306, 43.270701]}, {"name": "Plage des Canoubiers", "text": "La Plage des Canoubiers din Saint-Tropez, nisipul primitor întâlnește albastrul blând al coastei franceze. Scăldătorii apreciază mediul relaxant de aici, care este la fel de potrivit pentru familii și turiști care caută liniște. Pentru o zi confortabilă la plajă, cel mai bine este să vă aduceți propria umbrelă de soare.", "category": "recreational", "coords": [6.66447, 43.265336]}, {"name": "Plage de la Fontanette", "text": "Direct pe coasta din Saint-Tropez, Plage de la Fontanette oferă un loc fermecător pentru relaxare. Oricine iubește apa și soarele din sudul Franței va găsi aici un loc confortabil pentru a se relaxa. Porțiunea de plajă este o escală minunată în timpul unui tur de-a lungul coastei pitorești.", "category": "recreational", "coords": [6.6421, 43.273775]}, {"name": "Plage de Capon", "text": "Plage de Capon din Saint-Tropez este un refugiu pitoresc pe Marea Mediterană. Vizitatorii acestei plaje se pot bucura de spargerea blândă a valurilor și se pot răcori în apele răcoritoare. Cel mai bine este să vă împachetați rogojina de plajă și să experimentați o după-amiază netulburată pe Coasta de Azur.", "category": "recreational", "coords": [6.690466, 43.254126]}], "en": [{"name": "Citadelle de Saint-Tropez", "text": "An imposing 17th-century hilltop fortress featuring hexagonal bastions, currently housing the surprisingly modern and engaging Maritime History Museum.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Vieux Port", "text": "The bustling historical old harbor lined with pastel-colored cafes and lovely restaurants, where traditional fishing boats meet luxury superyachts.", "category": "squares/old-town", "confidence": "high", "coords": [6.63912, 43.273177]}, {"name": "Musée de l'Annonciade", "text": "Housed in a beautifully converted former 16th-century chapel, this exceptional art museum displays stunningly vivid post-Impressionist masterpieces.", "category": "museums", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Place des Lices", "text": "A quintessential Provencal square shaded by tall plane trees, wildly famous for local daily pétanque matches and its exceedingly lively weekly market.", "category": "squares/old-town", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "The iconic Italian-baroque church with its distinctive yellow and terracotta bell tower that instantly symbolizes the charming skyline of Saint-Tropez.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Plage de Pampelonne", "text": "Five kilometers of white sand and wonderfully crystal-clear water make the Plage de Pampelonne in Saint-Tropez world-famous. Between exclusive beach clubs and the shimmering sea, the glamorous life of the French Riviera pulses here. Anyone looking to experience the full luxury of the Côte d'Azur will spend an unforgettable day in the sun here.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Musée de la Gendarmerie et du Cinéma", "text": "Located in the real former police station building, this highly entertaining museum celebrates the legendary comedy films of the actor Louis de Funès.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Phare de Saint-Tropez", "text": "A picturesque, bright red lighthouse situated precisely at the end of the Môle Jean Réveille, offering beautiful views back onto the colorful harbor.", "category": "bridges/lighthouses", "confidence": "medium", "coords": [6.63, 43.2719]}, {"name": "Chapelle Sainte-Anne", "text": "A charming 17th-century hilltop chapel completely surrounded by cypress and pine trees, providing a wonderfully serene atmosphere and bay views.", "category": "churches/cathedrals", "confidence": "medium", "coords": [6.642018, 43.259501]}, {"name": "Batterie du Capon", "text": "Batterie du Capon is a beach located in the city of Tropez.", "category": "recreational", "coords": [6.690412, 43.252338]}, {"name": "Plage Neptune", "text": "A fine mix of French charm and refreshing sea awaits guests at the Plage Neptune in Saint-Tropez. The beach area is perfect for simply unwinding or taking a leisurely stroll in the sand. For a relaxed experience, it is advisable to lay out your towel early.", "category": "recreational", "coords": [6.663092, 43.235279]}, {"name": "Plage des Salins", "text": "The Plage des Salins blends harmoniously into the sophisticated surroundings of Saint-Tropez. Far from the biggest hustle, this stretch of beach attracts bathers who want to fully enjoy the sun and water. The beach reveals its quiet and peaceful side, especially in the morning hours.", "category": "recreational", "coords": [6.692463, 43.258978]}, {"name": "Plage de la Bouillabaisse", "text": "Nestled into the coast of Saint-Tropez, the Plage de la Bouillabaisse offers magnificent views over the glittering Mediterranean Sea. This beach is ideal for spending warm summer days swimming or having a cool drink on the shore. Those who appreciate the sunset should plan their late afternoon hours here.", "category": "recreational", "coords": [6.624428, 43.266001]}, {"name": "Plage de la Garrigue", "text": "The Plage de la Garrigue lures with its natural character in the world-famous Saint-Tropez. On this fine stretch of coast, visitors can escape everyday life and completely surrender to relaxation. It is best to pack a few snacks and enjoy a carefree swimming excursion by the sea.", "category": "recreational", "coords": [6.680264, 43.248253]}, {"name": "Plage des Graniers", "text": "Slightly hidden in a small bay of Saint-Tropez is the pleasant Plage des Graniers. The intimate atmosphere of this beach is perfect for quiet sunbathing or a refreshing swim in the Mediterranean Sea. To be sure to find a spot in this little oasis, an early start to the day is recommended.", "category": "recreational", "coords": [6.648306, 43.270701]}, {"name": "Plage des Canoubiers", "text": "At the Plage des Canoubiers in Saint-Tropez, inviting sand meets the gentle blue of the French coast. Bathers appreciate the relaxing environment here, which is equally suitable for families and holidaymakers looking for peace and quiet. For a comfortable day at the beach, it is best to bring your own parasol.", "category": "recreational", "coords": [6.66447, 43.265336]}, {"name": "Plage de la Fontanette", "text": "Right on the coastline of Saint-Tropez, the Plage de la Fontanette offers a charming place to relax. Anyone who loves the water and the southern French sun will find a cozy spot here to unwind. The stretch of beach is a wonderful stopover during a tour along the picturesque coast.", "category": "recreational", "coords": [6.6421, 43.273775]}, {"name": "Plage de Capon", "text": "The Plage de Capon in Saint-Tropez is a picturesque retreat on the Mediterranean Sea. Visitors to this beach can enjoy the gentle breaking of the waves and cool off in the refreshing waters. It is best to pack your beach mat and experience an undisturbed afternoon on the Côte d'Azur.", "category": "recreational", "coords": [6.690466, 43.254126]}]}},
-  {"id": "sainte-maxime", "type": "city", "parent": "FR-PAC", "coords": [6.6383, 43.3094], "population": 15000, "tier": 2, "name": {"de": "Sainte-Maxime", "hu": "Sainte-Maxime", "ro": "Sainte-Maxime", "en": "Sainte-Maxime"}, "description": {"de": "Eine familienfreundliche Stadt am Golf von Saint-Tropez, bekannt für ihre geschützten Sandstrände, den lebhaften Hafen und den Panoramablick auf das berühmte Saint-Tropez.", "hu": "Családbarát város a Saint-Tropez-i öbölben, amely védett homokos strandjairól, pezsgő kikötőjéről és a híres Saint-Tropez-ra nyíló panorámájáról ismert.", "ro": "Un oraș prietenos cu familiile în Golful Saint-Tropez, cunoscut pentru plajele sale cu nisip protejate, portul plin de viață și vederea panoramică către Saint-Tropez.", "en": "A family-friendly town in the Gulf of Saint-Tropez, known for its sheltered sandy beaches, lively harbor, and panoramic views of the famous Saint-Tropez."}, "facts": {"de": ["Am Golf von Saint-Tropez", "Südliche Ausrichtung", "Geschützte Badestrände", "Fähre nach Saint-Tropez", "Promenade Simon Lorière", "Hügel der Maures-Berge", "Traditionelle Märkte", "Ganzjährig belebt"], "hu": ["A Saint-Tropez-i öbölben", "Déli fekvésű partok", "Védett fürdőstrandok", "Hajójárat Saint-Tropez-ba", "Simon Lorière korzó", "Maures-hegység lábánál", "Hagyományos piacok", "Egész évben lakott"], "ro": ["În Golful Saint-Tropez", "Expunere sudică", "Plaje de scăldat protejate", "Feribot către Saint-Tropez", "Promenada Simon Lorière", "La poalele munților Maures", "Piețe tradiționale", "Animat tot timpul anului"], "en": ["In the Gulf of Saint-Tropez", "South-facing exposure", "Sheltered swimming beaches", "Ferry to Saint-Tropez", "Promenade Simon Lorière", "At the foot of Maures mountains", "Traditional markets", "Lively year-round"]}, "image": "/geo-images/france/sainte-maxime.webp", "imageHint": "Harbor of Sainte-Maxime with boats and palm trees along the promenade", "descriptionAdvanced": {"de": "Sainte-Maxime liegt am nördlichen Ufer des Golfs von Saint-Tropez und ist durch das Maures-Massiv vor dem Mistral geschützt. Die Stadt gilt als die entspannte, familienfreundliche Alternative zum gegenüberliegenden Saint-Tropez. Besonders reizvoll ist die Promenade Simon Lorière, die sich am Meer entlangzieht und einen fantastischen Blick auf den Golf bietet. Die Altstadt mit ihren engen Gassen beherbergt zahlreiche Boutiquen, Kunstgalerien und Restaurants. Der Hafen ist das Herzstück der Stadt, von wo aus die 'Bateaux Verts' pendeln – eine beliebte Fährverbindung, die Besucher in nur 15 Minuten über die Bucht nach Saint-Tropez bringt. Sainte-Maxime bewahrt sich eine authentische provenzalische Atmosphäre, die durch die wöchentlichen Märkte und das ganze Jahr über geöffnete Geschäfte unterstützt wird.", "hu": "Sainte-Maxime a francia Riviéra egyik legkedveltebb családi üdülőhelye, amely a Saint-Tropez-i öböl északi partján fekszik. A város különleges mikroklímával rendelkezik, mivel a környező Maures-hegység vonulatai megvédik a hideg misztrál széltől, így az év nagy részében kellemes idő várja a látogatókat. Aranyhomokos strandjai, mint például a Plage de la Nartelle, híresek tisztaságukról és védett fekvésükről, ideális terepet biztosítva a vízi sportokhoz és a pihenéshez. A városközpontban a Simon Lorière sétány kínál hangulatos korzózási lehetőséget pálmafákkal és kilátással a tengerre, míg a kikötőből rendszeres hajójáratok indulnak a szemközti Saint-Tropez-ba. Sainte-Maxime sikeresen ötvözi a modern turisztikai szolgáltatásokat a provence-i bájjal, számos kulturális eseménynek, például a Carré Sainte-Maxime művészeti központ programjainak adva otthont.", "ro": "Sainte-Maxime este situat pe malul nordic al Golfului Saint-Tropez și este protejat de vântul Mistral de masivul Maures. Orașul este considerat alternativa relaxată și familială la faimosul Saint-Tropez, aflat vizavi. O atracție majoră este Promenada Simon Lorière, care se întinde de-a lungul mării și oferă o vedere superbă asupra golfului. Centrul vechi, cu străduțele sale înguste, adăpostește numeroase boutique-uri, galerii de artă și restaurante. Portul este inima orașului, de unde pleacă 'Bateaux Verts' – o conexiune populară de feribot care transportă vizitatorii peste golf către Saint-Tropez în doar 15 minute. Sainte-Maxime își păstrează o atmosferă provensală autentică, susținută de piețele săptămânale și magazinele deschise tot anul.", "en": "Sainte-Maxime is located on the northern shore of the Gulf of Saint-Tropez, protected from the Mistral wind by the Maures Mountains. The town is considered the relaxed, family-friendly alternative to the famous Saint-Tropez across the water. Particularly charming is the Promenade Simon Lorière, which stretches along the sea and offers a fantastic view of the gulf. The old town with its narrow streets houses numerous boutiques, art galleries, and restaurants. The harbor is the heart of the city, where the 'Bateaux Verts' shuttle operates—a popular ferry service taking visitors across the bay to Saint-Tropez in just 15 minutes. Sainte-Maxime maintains an authentic Provençal atmosphere, supported by weekly markets and shops that remain open year-round."}, "factsAdvanced": {"de": ["Fährzeit nach Saint-Tropez: 15 Min.", "Anzahl der Strände: 6 km Sandstrand", "Wichtigstes Fest: Fête de la Sainte-Maxime", "Schutz vor: Mistral-Winden", "Entfernung nach Fréjus: ca. 20 km", "Gegründet von: Mönchen von Lérins"], "hu": ["Hajóút Saint-Tropez-ba: 15 perc", "Strandok hossza: 6 km homokos part", "Fő ünnep: Fête de la Sainte-Maxime", "Védelem: Misztrál szél ellen védett", "Távolság Fréjus-től: kb. 20 km", "Alapították: A Lérins-szigetek szerzetesei"], "ro": ["Durata feribotului spre St-Tropez: 15 min", "Lungimea plajelor: 6 km de nisip", "Sărbătoarea principală: Fête de la Sainte-Maxime", "Protecție împotriva: Vântului Mistral", "Distanța față de Fréjus: aproximativ 20 km", "Fondat de: Călugării din Lérins"], "en": ["Ferry time to Saint-Tropez: 15 min", "Total beach length: 6 km of sand", "Major festival: Fête de la Sainte-Maxime", "Protection from: Mistral winds", "Distance to Fréjus: approx. 20 km", "Founded by: Lérins monks"]}, "sights": {"de": [{"name": "Tour Carrée", "text": "Ein im sechzehnten Jahrhundert erbauter quadratischer Wehrturm, der heute ein schönes Museum für lokale Geschichte und Traditionen beherbergt.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.640925, 43.306867]}, {"name": "Musée du Phonographe", "text": "Ein faszinierendes Museum, das der mechanischen Musik gewidmet ist und eine Sammlung seltener Phonographen, Spieldosen und Drehorgeln zeigt.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Église Sainte-Maxime", "text": "Die Hauptpfarrkirche verfügt über einen schönen Altar und historische Artefakte und bietet eine ruhige Atmosphäre mitten in der belebten Altstadt.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.64117, 43.30705]}, {"name": "Plage de la Nartelle", "text": "Ein sehr beliebter Sandstrand, der für hervorragende Windsurfbedingungen, klares Wasser und eine Vielzahl von lebhaften Strandrestaurants bekannt ist.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.665062, 43.321429]}, {"name": "Promenade Simon Lorière", "text": "Die schöne Hauptstrandpromenade der Stadt wird von Platanen beschattet und bietet fantastische Ausblicke über den Golf von Saint-Tropez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.632483, 43.314138]}, {"name": "Jardin Botanique des Myrtes", "text": "Ein ruhiger botanischer Garten, der eine große Vielfalt typisch mediterraner Flora zeigt und an heißen Sommernachmittagen eine Erfrischung bietet.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.624971, 43.301751]}, {"name": "Port de Sainte-Maxime", "text": "Der belebte örtliche Yachthafen ist voller Sportboote und bietet regelmäßige und bequeme Fährverbindungen direkt nach Saint-Tropez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.638646, 43.306452]}, {"name": "Marché Couvert", "text": "Ein lebhafter, traditioneller überdachter Markt, auf dem Besucher frische regionale Produkte, lokalen Käse und provenzalische Gewürze finden.", "category": "squares/old-town", "confidence": "high", "coords": [6.641244, 43.308437]}, {"name": "Le Club", "text": "Le Club ist ein Strand in Maxime.", "category": "recreational", "coords": [6.665724, 43.318392]}, {"name": "Le Diamant Plage", "text": "Der Le Diamant Plage präsentiert sich als einladendes Küstenjuwel im südfranzösischen Sainte Maxime. Das klare Wasser und die entspannte Atmosphäre laden Gäste ein, die sonnigen Stunden an der Riviera voll auszukosten. Ein Besuch in der Nebensaison bietet ein besonders authentisches und ruhiges Stranderlebnis.", "category": "recreational", "coords": [6.626719, 43.302152]}, {"name": "Le Saint-Barth", "text": "Le Saint-Barth ist ein Strand in Maxime.", "category": "recreational", "coords": [6.664938, 43.323107]}, {"name": "Plage du centre ville", "text": "Direkt im Herzen von Sainte Maxime lockt der zentrale Plage du centre ville mit seinem unkomplizierten Zugang zum Meer. Familien und Städter schätzen die bequeme Nähe zu Cafés, während sie im weichen Sand entspannen. Für einen spontanen Sprung ins Wasser nach dem Stadtbummel ist dieser Strand absolut ideal.", "category": "recreational", "coords": [6.635891, 43.307565]}, {"name": "Plage de la Garonnette", "text": "Der Plage de la Garonnette schließt sich nahtlos an die charmante Küste von Sainte Maxime an. Sonnenanbeter und Badegäste finden hier einen ruhigen Platz, um dem stetigen Rauschen der Wellen zu lauschen. Um die Mittagshitze zu meiden, sollten Sie einen entspannten Besuch am späten Nachmittag in Betracht ziehen.", "category": "recreational", "coords": [6.680358, 43.340321]}, {"name": "Plage de la Croisette", "text": "In Sainte Maxime gelegen, präsentiert sich die Plage de la Croisette als bekannter französischer Küstenabschnitt. Die lebhafte Atmosphäre lädt Besucher zum Sonnenbaden und zu erfrischenden Runden im Wasser ein. Ein entspannter Spaziergang entlang der Uferlinie bietet eine wunderbare Möglichkeit, den Nachmittag zu verbringen. Wer in den Hochsommermonaten anreist, sollte früh da sein, um sich einen schönen Platz zu sichern.", "category": "recreational", "coords": [6.626405, 43.30096]}, {"name": "Plage de Guerrevielle", "text": "Die Plage de Guerrevielle bietet eine klassische Küstenlandschaft im charmanten Sainte Maxime. Gäste können sich auf eine friedliche Umgebung freuen, die sich perfekt zum Sonnenbaden und Genießen der sanften Wellen eignet. Die sandige Umgebung ist ideal für ruhige Spaziergänge, während man die lokale Szenerie auf sich wirken lässt. Für einen entspannten Tag am Meer empfiehlt es sich, die wichtigsten Strandutensilien selbst mitzubringen.", "category": "recreational", "coords": [6.609714, 43.290913]}, {"name": "Plage des Cigales", "text": "Eingebettet in die Stadt Sainte Maxime, besticht die Plage des Cigales als malerisches Strandziel. Dieser schöne Sandstrand bietet eine traumhafte Kulisse für gemütliches Schwimmen und Faulenzen unter der französischen Sonne. Ein Spaziergang entlang der Küste offenbart reizvolle Ausblicke, die den Charakter der Region wunderbar einfangen. Ein Besuch am späten Nachmittag verspricht oft ein besonders magisches Licht.", "category": "recreational", "coords": [6.617054, 43.294941]}, {"name": "Aqualand Sainte-Maxime", "text": "Ein Wasserpark in Sainte Maxime mit lustigen Rutschen für die Familie.", "category": "family", "coords": [6.618837, 43.328248]}], "hu": [{"name": "Tour Carrée", "text": "Egy tizenhatodik században épült masszív védelmi négyzet alakú torony, amely ma gyönyörűen ad otthont a helyi történeti és hagyományőrző múzeumnak.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.640925, 43.306867]}, {"name": "Musée du Phonographe", "text": "A mechanikus zenének szentelt lenyűgöző múzeum ritka fonográfok, régi zenedobozok és klasszikus verklik egyedülálló gyűjteményét mutatja be.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Église Sainte-Maxime", "text": "A fő plébániatemplom gyönyörű oltárral és történelmi leletekkel rendelkezik, derűs hangulatot kínálva a nyüzsgő óváros kellős közepén.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.64117, 43.30705]}, {"name": "Plage de la Nartelle", "text": "Széles körben népszerű homokos strand, amely kiváló szörfözési feltételeiről, tiszta vizéről és különféle nyüzsgő tengerparti éttermeiről ismert.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.665062, 43.321429]}, {"name": "Promenade Simon Lorière", "text": "A város gyönyörű fő tengerparti sétányát magas platánok árnyékolják, és fantasztikus, zavartalan kilátást nyújt egyenesen a Saint-Tropez-i öbölre.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.632483, 43.314138]}, {"name": "Jardin Botanique des Myrtes", "text": "Csendes botanikus kert, amely a tipikus mediterrán flóra széles skáláját mutatja be, frissítő menedéket nyújtva a forró nyári délutánokon.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.624971, 43.301751]}, {"name": "Port de Sainte-Maxime", "text": "A nyüzsgő helyi kikötő tele van különféle sétahajókkal, és rendszeres, kényelmes kompjáratokat kínál közvetlenül a híres Saint-Tropez városába.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.638646, 43.306452]}, {"name": "Marché Couvert", "text": "Élettel teli, hagyományos fedett piac, ahol a látogatók szabadon felfedezhetik a friss regionális termékeket, sajtokat és provence-i fűszereket.", "category": "squares/old-town", "confidence": "high", "coords": [6.641244, 43.308437]}, {"name": "Le Club", "text": "A Le Club egy strand Maxime városában.", "category": "recreational", "coords": [6.665724, 43.318392]}, {"name": "Le Diamant Plage", "text": "A Le Diamant Plage a dél-franciaországi Sainte Maxime hívogató tengerparti ékköveként mutatkozik be. A tiszta víz és a laza hangulat arra invitálja a vendégeket, hogy maximálisan kiélvezzék a Riviéra napsütéses óráit. Egy előszezoni vagy utószezoni látogatás különösen autentikus és békés strandélményt nyújt.", "category": "recreational", "coords": [6.626719, 43.302152]}, {"name": "Le Saint-Barth", "text": "A Le Saint-Barth egy strand Maxime városában.", "category": "recreational", "coords": [6.664938, 43.323107]}, {"name": "Plage du centre ville", "text": "Közvetlenül Sainte Maxime szívében található a központi Plage du centre ville, amely könnyű hozzáférést biztosít a tengerhez. A családok és a városiak egyaránt értékelik a kávézók kényelmes közelségét, miközben a puha homokban pihennek. A városi séta utáni spontán csobbanáshoz ez a strand tökéletesen ideális.", "category": "recreational", "coords": [6.635891, 43.307565]}, {"name": "Plage de la Garonnette", "text": "A Plage de la Garonnette zökkenőmentesen csatlakozik Sainte Maxime bájos partvonalához. A napimádók és a fürdőzők itt csendes helyet találnak, ahol hallgathatják a hullámok folyamatos morajlását. A déli hőség elkerülése érdekében érdemes megfontolni egy pihentető késő délutáni látogatást.", "category": "recreational", "coords": [6.680358, 43.340321]}, {"name": "Plage de la Croisette", "text": "A Sainte Maxime városában található Plage de la Croisette egy jól ismert tengerparti szakasz Franciaországban. Élénk atmoszférája napozásra és a vízben való felfrissülésre csábítja a látogatókat. A part menti laza séták nagyszerű kikapcsolódást nyújtanak a délutáni órákban. A nyári főszezonban érdemes korán érkezni a legjobb helyek elfoglalásához.", "category": "recreational", "coords": [6.626405, 43.30096]}, {"name": "Plage de Guerrevielle", "text": "A Plage de Guerrevielle klasszikus partvidéki környezetet kínál a hangulatos Sainte Maxime térségében. A vendégek békés miliőre számíthatnak, amely tökéletes a napozáshoz és a lágy hullámok élvezetéhez. A homokos környezet ideális a csendes sétákhoz, miközben a helyi tájban gyönyörködhetünk. Egy nyugodt tengerparti naphoz javasolt a saját felszerelésünk biztosítása.", "category": "recreational", "coords": [6.609714, 43.290913]}, {"name": "Plage des Cigales", "text": "A Sainte Maxime városában megbújó Plage des Cigales egy festői tengerparti úti célként emelkedik ki. Ez a gyönyörű homokos szakasz látványos hátteret biztosít a kényelmes úszáshoz és a francia nap alatti pihenéshez. A part menti séták során elbűvölő kilátás nyílik, amely hűen tükrözi a régió hangulatát. A késő délutáni látogatás különösen varázslatos fényeket tartogathat.", "category": "recreational", "coords": [6.617054, 43.294941]}, {"name": "Aqualand Sainte-Maxime", "text": "Vízi park Sainte Maxime-ban vidám csúszdákkal a család számára.", "category": "family", "coords": [6.618837, 43.328248]}], "ro": [{"name": "Tour Carrée", "text": "Un turn de apărare pătrat robust construit în secolul al șaisprezecelea, care găzduiește acum un frumos muzeu de istorie și tradiții locale.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.640925, 43.306867]}, {"name": "Musée du Phonographe", "text": "Un muzeu fascinant dedicat muzicii mecanice, care expune o colecție unică de fonografe rare, cutii muzicale vechi și flașnete de epocă valoroase.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Église Sainte-Maxime", "text": "Biserica parohială principală are un altar frumos și artefacte istorice, oferind o atmosferă senină chiar în mijlocul orașului vechi plin de viață.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.64117, 43.30705]}, {"name": "Plage de la Nartelle", "text": "O plajă de nisip foarte populară, cunoscută pentru condițiile excelente de windsurfing, ape limpezi și o varietate de restaurante pe litoral.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.665062, 43.321429]}, {"name": "Promenade Simon Lorière", "text": "Frumoasa promenadă principală de la malul mării este umbrită de platani înalți și oferă vederi fantastice direct peste Golful Saint-Tropez oricând.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.632483, 43.314138]}, {"name": "Jardin Botanique des Myrtes", "text": "O grădină botanică liniștită care prezintă o gamă largă de floră mediteraneană, oferind o evadare răcoroasă în timpul după-amiezilor fierbinți.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.624971, 43.301751]}, {"name": "Port de Sainte-Maxime", "text": "Portul local plin de viață este plin de diverse bărci de agrement și oferă conexiuni regulate și convenabile cu feribotul direct spre Saint-Tropez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.638646, 43.306452]}, {"name": "Marché Couvert", "text": "O piață tradițională acoperită, unde vizitatorii pot descoperi în voie produse regionale proaspete, brânzeturi locale și condimente provensale.", "category": "squares/old-town", "confidence": "high", "coords": [6.641244, 43.308437]}, {"name": "Le Club", "text": "Le Club este o plajă situată în Maxime.", "category": "recreational", "coords": [6.665724, 43.318392]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage se prezintă ca o bijuterie de coastă primitoare în Sainte Maxime, sudul Franței. Apa limpede și atmosfera relaxată îi invită pe oaspeți să se bucure din plin de orele însorite de pe Rivieră. O vizită în afara sezonului oferă o experiență de plajă deosebit de autentică și liniștită.", "category": "recreational", "coords": [6.626719, 43.302152]}, {"name": "Le Saint-Barth", "text": "Le Saint-Barth este o plajă situată în Maxime.", "category": "recreational", "coords": [6.664938, 43.323107]}, {"name": "Plage du centre ville", "text": "Chiar în inima orașului Sainte Maxime, centrul Plage du centre ville atrage cu accesul său necomplicat la mare. Familiile și orășenii deopotrivă apreciază apropierea convenabilă de cafenele în timp ce se relaxează pe nisipul moale. Această plajă este absolut ideală pentru o baie spontană în apă după o plimbare prin oraș.", "category": "recreational", "coords": [6.635891, 43.307565]}, {"name": "Plage de la Garonnette", "text": "Plage de la Garonnette se conectează perfect la coasta fermecătoare a orașului Sainte Maxime. Iubitorii de soare și scăldătorii vor găsi aici un loc liniștit pentru a asculta sunetul constant al valurilor. Pentru a evita căldura amiezii, ar trebui să luați în considerare o vizită relaxantă la sfârșitul după-amiezii.", "category": "recreational", "coords": [6.680358, 43.340321]}, {"name": "Plage de la Croisette", "text": "Situată în Sainte Maxime, Plage de la Croisette este o porțiune de coastă bine-cunoscută din Franța. Atmosfera sa plină de viață invită vizitatorii la băi de soare și înot revigorant. O plimbare relaxantă pe țărm reprezintă o modalitate plăcută de a petrece după-amiaza. Sosirea timpurie în lunile de vară este recomandată pentru a prinde un loc confortabil.", "category": "recreational", "coords": [6.626405, 43.30096]}, {"name": "Plage de Guerrevielle", "text": "Plage de Guerrevielle oferă un cadru de coastă clasic în fermecătoarea zonă Sainte Maxime. Oaspeții se pot bucura de un mediu liniștit, perfect pentru plajă și pentru a admira valurile blânde. Împrejurimile cu nisip sunt ideale pentru plimbări tăcute, contemplând peisajul local. Pentru o zi relaxantă la malul mării, este bine să vă aduceți propriile accesorii de bază.", "category": "recreational", "coords": [6.609714, 43.290913]}, {"name": "Plage des Cigales", "text": "Ascunsă în orașul Sainte Maxime, Plage des Cigales se remarcă drept o destinație de plajă pitorească. Această frumoasă fâșie de nisip oferă un decor pitoresc pentru înot de agrement și lenevit sub soarele francez. O plimbare de-a lungul coastei dezvăluie priveliști fermecătoare care surprind esența regiunii. Vizitarea în a doua parte a după-amiezii vă poate oferi o lumină de-a dreptul magică.", "category": "recreational", "coords": [6.617054, 43.294941]}, {"name": "Aqualand Sainte-Maxime", "text": "Un parc acvatic în Sainte Maxime cu tobogane distractive pentru familie.", "category": "family", "coords": [6.618837, 43.328248]}], "en": [{"name": "Tour Carrée", "text": "A robust defensive square tower built in the sixteenth century to protect the coast, now beautifully housing a local history and traditions museum.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [6.640925, 43.306867]}, {"name": "Musée du Phonographe", "text": "A fascinating museum dedicated to mechanical music, displaying a unique collection of rare phonographs, old music boxes, and vintage barrel organs.", "category": "museums", "confidence": "high", "coords": [6.63554, 43.269638]}, {"name": "Église Sainte-Maxime", "text": "The main parish church features a beautiful altar and historic artifacts, offering a serene atmosphere right in the middle of the bustling old town.", "category": "churches/cathedrals", "confidence": "high", "coords": [6.64117, 43.30705]}, {"name": "Plage de la Nartelle", "text": "A widely popular sandy beach known for its excellent windsurfing conditions, clear warm waters, and a variety of lively seaside dining establishments.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.665062, 43.321429]}, {"name": "Promenade Simon Lorière", "text": "The town's beautiful main seaside promenade is shaded by tall plane trees and offers fantastic views directly across the Gulf of Saint-Tropez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.632483, 43.314138]}, {"name": "Jardin Botanique des Myrtes", "text": "A tranquil botanical garden showcasing a wide array of typical Mediterranean flora, providing a refreshing escape during hot summer afternoons.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.624971, 43.301751]}, {"name": "Port de Sainte-Maxime", "text": "The bustling local marina is filled with diverse pleasure boats and offers regular, convenient ferry connections directly to Saint-Tropez.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [6.638646, 43.306452]}, {"name": "Marché Couvert", "text": "A vibrant traditional covered market where visitors can freely discover fresh regional produce, delicious local cheeses, and fragrant Provençal spices.", "category": "squares/old-town", "confidence": "high", "coords": [6.641244, 43.308437]}, {"name": "Le Club", "text": "Le Club is a beach located in Maxime.", "category": "recreational", "coords": [6.665724, 43.318392]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage presents itself as an inviting coastal jewel in southern French Sainte Maxime. The clear water and the relaxed atmosphere invite guests to fully enjoy the sunny hours on the Riviera. A visit in the off-season offers a particularly authentic and quiet beach experience.", "category": "recreational", "coords": [6.626719, 43.302152]}, {"name": "Le Saint-Barth", "text": "Le Saint-Barth is a beach located in Maxime.", "category": "recreational", "coords": [6.664938, 43.323107]}, {"name": "Plage du centre ville", "text": "Right in the heart of Sainte Maxime, the central Plage du centre ville attracts with its uncomplicated access to the sea. Families and city dwellers alike appreciate the convenient proximity to cafes while relaxing in the soft sand. This beach is absolutely ideal for a spontaneous jump into the water after a stroll through the town.", "category": "recreational", "coords": [6.635891, 43.307565]}, {"name": "Plage de la Garonnette", "text": "The Plage de la Garonnette connects seamlessly to the charming coastline of Sainte Maxime. Sun worshippers and bathers will find a quiet place here to listen to the constant sound of the waves. To avoid the midday heat, you should consider a relaxing visit in the late afternoon.", "category": "recreational", "coords": [6.680358, 43.340321]}, {"name": "Plage de la Croisette", "text": "Situated in Sainte Maxime, Plage de la Croisette is a well-known coastal spot in France. The lively atmosphere invites visitors to enjoy sunbathing and refreshing swims along the shore. Taking a relaxed walk by the water is a pleasant way to spend the afternoon. Arriving early during the peak summer months is a good idea to secure a comfortable spot.", "category": "recreational", "coords": [6.626405, 43.30096]}, {"name": "Plage de Guerrevielle", "text": "Plage de Guerrevielle offers a classic coastal setting in the charming area of Sainte Maxime. Guests can look forward to a peaceful environment perfect for sunbathing and enjoying the gentle waves. The sandy surroundings are ideal for quiet strolls while taking in the local scenery. Bringing your own essentials is recommended for a relaxed day by the sea.", "category": "recreational", "coords": [6.609714, 43.290913]}, {"name": "Plage des Cigales", "text": "Nestled in the town of Sainte Maxime, Plage des Cigales stands out as a picturesque beach destination. This beautiful stretch of sand provides a scenic backdrop for leisurely swims and lounging under the French sun. Walking along the coast here reveals charming views that capture the essence of the region. Visiting during the late afternoon offers a particularly magical light.", "category": "recreational", "coords": [6.617054, 43.294941]}, {"name": "Aqualand Sainte-Maxime", "text": "A water park in Sainte Maxime with fun slides for the family.", "category": "family", "coords": [6.618837, 43.328248]}]}},
+  {"id": "sainte-maxime", "type": "city", "parent": "FR-PAC", "coords": [6.6383, 43.3094], "population": 15000, "tier": 2, "name": {"de": "Sainte-Maxime", "hu": "Sainte-Maxime", "ro": "Sainte-Maxime", "en": "Sainte-Maxime"}, "description": {"de": "Eine familienfreundliche Stadt am Golf von Saint-Tropez, bekannt für ihre geschützten Sandstrände, den lebhaften Hafen und den Panoramablick auf das berühmte Saint-Tropez.", "hu": "Családbarát város a Saint-Tropez-i öbölben, amely védett homokos strandjairól, pezsgő kikötőjéről és a híres Saint-Tropez-ra nyíló panorámájáról ismert.", "ro": "Un oraș prietenos cu familiile în Golful Saint-Tropez, cunoscut pentru plajele sale cu nisip protejate, portul plin de viață și vederea panoramică către Saint-Tropez.", "en": "A family-friendly town in the Gulf of Saint-Tropez, known for its sheltered sandy beaches, lively harbor, and panoramic views of the famous Saint-Tropez."}, "facts": {"de": ["Am Golf von Saint-Tropez", "Südliche Ausrichtung", "Geschützte Badestrände", "Fähre nach Saint-Tropez", "Promenade Simon Lorière", "Hügel der Maures-Berge", "Traditionelle Märkte", "Ganzjährig belebt"], "hu": ["A Saint-Tropez-i öbölben", "Déli fekvésű partok", "Védett fürdőstrandok", "Hajójárat Saint-Tropez-ba", "Simon Lorière korzó", "Maures-hegység lábánál", "Hagyományos piacok", "Egész évben lakott"], "ro": ["În Golful Saint-Tropez", "Expunere sudică", "Plaje de scăldat protejate", "Feribot către Saint-Tropez", "Promenada Simon Lorière", "La poalele munților Maures", "Piețe tradiționale", "Animat tot timpul anului"], "en": ["In the Gulf of Saint-Tropez", "South-facing exposure", "Sheltered swimming beaches", "Ferry to Saint-Tropez", "Promenade Simon Lorière", "At the foot of Maures mountains", "Traditional markets", "Lively year-round"]}, "image": "/geo-images/france/sainte-maxime.webp", "imageHint": "Harbor of Sainte-Maxime with boats and palm trees along the promenade", "descriptionAdvanced": {"de": "Sainte-Maxime liegt am nördlichen Ufer des Golfs von Saint-Tropez und ist durch das Maures-Massiv vor dem Mistral geschützt. Die Stadt gilt als die entspannte, familienfreundliche Alternative zum gegenüberliegenden Saint-Tropez. Besonders reizvoll ist die Promenade Simon Lorière, die sich am Meer entlangzieht und einen fantastischen Blick auf den Golf bietet. Die Altstadt mit ihren engen Gassen beherbergt zahlreiche Boutiquen, Kunstgalerien und Restaurants. Der Hafen ist das Herzstück der Stadt, von wo aus die 'Bateaux Verts' pendeln – eine beliebte Fährverbindung, die Besucher in nur 15 Minuten über die Bucht nach Saint-Tropez bringt. Sainte-Maxime bewahrt sich eine authentische provenzalische Atmosphäre, die durch die wöchentlichen Märkte und das ganze Jahr über geöffnete Geschäfte unterstützt wird.", "hu": "Sainte-Maxime a francia Riviéra egyik legkedveltebb családi üdülőhelye, amely a Saint-Tropez-i öböl északi partján fekszik. A város különleges mikroklímával rendelkezik, mivel a környező Maures-hegység vonulatai megvédik a hideg misztrál széltől, így az év nagy részében kellemes idő várja a látogatókat. Aranyhomokos strandjai, mint például a Plage de la Nartelle, híresek tisztaságukról és védett fekvésükről, ideális terepet biztosítva a vízi sportokhoz és a pihenéshez. A városközpontban a Simon Lorière sétány kínál hangulatos korzózási lehetőséget pálmafákkal és kilátással a tengerre, míg a kikötőből rendszeres hajójáratok indulnak a szemközti Saint-Tropez-ba. Sainte-Maxime sikeresen ötvözi a modern turisztikai szolgáltatásokat a provence-i bájjal, számos kulturális eseménynek, például a Carré Sainte-Maxime művészeti központ programjainak adva otthont.", "ro": "Sainte-Maxime este situat pe malul nordic al Golfului Saint-Tropez și este protejat de vântul Mistral de masivul Maures. Orașul este considerat alternativa relaxată și familială la faimosul Saint-Tropez, aflat vizavi. O atracție majoră este Promenada Simon Lorière, care se întinde de-a lungul mării și oferă o vedere superbă asupra golfului. Centrul vechi, cu străduțele sale înguste, adăpostește numeroase boutique-uri, galerii de artă și restaurante. Portul este inima orașului, de unde pleacă 'Bateaux Verts' – o conexiune populară de feribot care transportă vizitatorii peste golf către Saint-Tropez în doar 15 minute. Sainte-Maxime își păstrează o atmosferă provensală autentică, susținută de piețele săptămânale și magazinele deschise tot anul.", "en": "Sainte-Maxime is located on the northern shore of the Gulf of Saint-Tropez, protected from the Mistral wind by the Maures Mountains. The town is considered the relaxed, family-friendly alternative to the famous Saint-Tropez across the water. Particularly charming is the Promenade Simon Lorière, which stretches along the sea and offers a fantastic view of the gulf. The old town with its narrow streets houses numerous boutiques, art galleries, and restaurants. The harbor is the heart of the city, where the 'Bateaux Verts' shuttle operates—a popular ferry service taking visitors across the bay to Saint-Tropez in just 15 minutes. Sainte-Maxime maintains an authentic Provençal atmosphere, supported by weekly markets and shops that remain open year-round."}, "factsAdvanced": {"de": ["Fährzeit nach Saint-Tropez: 15 Min.", "Anzahl der Strände: 6 km Sandstrand", "Wichtigstes Fest: Fête de la Sainte-Maxime", "Schutz vor: Mistral-Winden", "Entfernung nach Fréjus: ca. 20 km", "Gegründet von: Mönchen von Lérins"], "hu": ["Hajóút Saint-Tropez-ba: 15 perc", "Strandok hossza: 6 km homokos part", "Fő ünnep: Fête de la Sainte-Maxime", "Védelem: Misztrál szél ellen védett", "Távolság Fréjus-től: kb. 20 km", "Alapították: A Lérins-szigetek szerzetesei"], "ro": ["Durata feribotului spre St-Tropez: 15 min", "Lungimea plajelor: 6 km de nisip", "Sărbătoarea principală: Fête de la Sainte-Maxime", "Protecție împotriva: Vântului Mistral", "Distanța față de Fréjus: aproximativ 20 km", "Fondat de: Călugării din Lérins"], "en": ["Ferry time to Saint-Tropez: 15 min", "Total beach length: 6 km of sand", "Major festival: Fête de la Sainte-Maxime", "Protection from: Mistral winds", "Distance to Fréjus: approx. 20 km", "Founded by: Lérins monks"]}, "sights": {
+      "de": [
+            {
+                  "name": "Tour Carrée",
+                  "text": "Ein im sechzehnten Jahrhundert erbauter quadratischer Wehrturm, der heute ein schönes Museum für lokale Geschichte und Traditionen beherbergt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        6.640925,
+                        43.306867
+                  ]
+            },
+            {
+                  "name": "Musée du Phonographe",
+                  "text": "Ein faszinierendes Museum, das der mechanischen Musik gewidmet ist und eine Sammlung seltener Phonographen, Spieldosen und Drehorgeln zeigt.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        6.63554,
+                        43.269638
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Maxime",
+                  "text": "Die Hauptpfarrkirche verfügt über einen schönen Altar und historische Artefakte und bietet eine ruhige Atmosphäre mitten in der belebten Altstadt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        6.64117,
+                        43.30705
+                  ]
+            },
+            {
+                  "name": "Plage de la Nartelle",
+                  "text": "Ein sehr beliebter Sandstrand, der für hervorragende Windsurfbedingungen, klares Wasser und eine Vielzahl von lebhaften Strandrestaurants bekannt ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.665062,
+                        43.321429
+                  ]
+            },
+            {
+                  "name": "Promenade Simon Lorière",
+                  "text": "Die schöne Hauptstrandpromenade der Stadt wird von Platanen beschattet und bietet fantastische Ausblicke über den Golf von Saint-Tropez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.632483,
+                        43.314138
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique des Myrtes",
+                  "text": "Ein ruhiger botanischer Garten, der eine große Vielfalt typisch mediterraner Flora zeigt und an heißen Sommernachmittagen eine Erfrischung bietet.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.624971,
+                        43.301751
+                  ]
+            },
+            {
+                  "name": "Port de Sainte-Maxime",
+                  "text": "Der belebte örtliche Yachthafen ist voller Sportboote und bietet regelmäßige und bequeme Fährverbindungen direkt nach Saint-Tropez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.638646,
+                        43.306452
+                  ]
+            },
+            {
+                  "name": "Marché Couvert",
+                  "text": "Ein lebhafter, traditioneller überdachter Markt, auf dem Besucher frische regionale Produkte, lokalen Käse und provenzalische Gewürze finden.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        6.641244,
+                        43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Der Le Diamant Plage präsentiert sich als einladendes Küstenjuwel im südfranzösischen Sainte Maxime. Das klare Wasser und die entspannte Atmosphäre laden Gäste ein, die sonnigen Stunden an der Riviera voll auszukosten. Ein Besuch in der Nebensaison bietet ein besonders authentisches und ruhiges Stranderlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Direkt im Herzen von Sainte Maxime lockt der zentrale Plage du centre ville mit seinem unkomplizierten Zugang zum Meer. Familien und Städter schätzen die bequeme Nähe zu Cafés, während sie im weichen Sand entspannen. Für einen spontanen Sprung ins Wasser nach dem Stadtbummel ist dieser Strand absolut ideal.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "Der Plage de la Garonnette schließt sich nahtlos an die charmante Küste von Sainte Maxime an. Sonnenanbeter und Badegäste finden hier einen ruhigen Platz, um dem stetigen Rauschen der Wellen zu lauschen. Um die Mittagshitze zu meiden, sollten Sie einen entspannten Besuch am späten Nachmittag in Betracht ziehen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "In Sainte Maxime gelegen, präsentiert sich die Plage de la Croisette als bekannter französischer Küstenabschnitt. Die lebhafte Atmosphäre lädt Besucher zum Sonnenbaden und zu erfrischenden Runden im Wasser ein. Ein entspannter Spaziergang entlang der Uferlinie bietet eine wunderbare Möglichkeit, den Nachmittag zu verbringen. Wer in den Hochsommermonaten anreist, sollte früh da sein, um sich einen schönen Platz zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Die Plage de Guerrevielle bietet eine klassische Küstenlandschaft im charmanten Sainte Maxime. Gäste können sich auf eine friedliche Umgebung freuen, die sich perfekt zum Sonnenbaden und Genießen der sanften Wellen eignet. Die sandige Umgebung ist ideal für ruhige Spaziergänge, während man die lokale Szenerie auf sich wirken lässt. Für einen entspannten Tag am Meer empfiehlt es sich, die wichtigsten Strandutensilien selbst mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Eingebettet in die Stadt Sainte Maxime, besticht die Plage des Cigales als malerisches Strandziel. Dieser schöne Sandstrand bietet eine traumhafte Kulisse für gemütliches Schwimmen und Faulenzen unter der französischen Sonne. Ein Spaziergang entlang der Küste offenbart reizvolle Ausblicke, die den Charakter der Region wunderbar einfangen. Ein Besuch am späten Nachmittag verspricht oft ein besonders magisches Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
+            },
+            {
+                  "name": "Aqualand Sainte-Maxime",
+                  "text": "Ein Wasserpark in Sainte Maxime mit lustigen Rutschen für die Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.618837,
+                        43.328248
+                  ]
+            },
+            {
+                  "name": "Theatre de la mer",
+                  "text": "Ein Freilufttheater in Sainte-Maxime, das für kulturelle Aufführungen am Meer genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        6.638547,
+                        43.308069
+                  ]
+            },
+            {
+                  "name": "Les Tourelles",
+                  "text": "Ein markantes historisches Gebäude in Sainte-Maxime, das für seine markanten Türme bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        6.642831,
+                        43.308736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour Carrée",
+                  "text": "Egy tizenhatodik században épült masszív védelmi négyzet alakú torony, amely ma gyönyörűen ad otthont a helyi történeti és hagyományőrző múzeumnak.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        6.640925,
+                        43.306867
+                  ]
+            },
+            {
+                  "name": "Musée du Phonographe",
+                  "text": "A mechanikus zenének szentelt lenyűgöző múzeum ritka fonográfok, régi zenedobozok és klasszikus verklik egyedülálló gyűjteményét mutatja be.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        6.63554,
+                        43.269638
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Maxime",
+                  "text": "A fő plébániatemplom gyönyörű oltárral és történelmi leletekkel rendelkezik, derűs hangulatot kínálva a nyüzsgő óváros kellős közepén.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        6.64117,
+                        43.30705
+                  ]
+            },
+            {
+                  "name": "Plage de la Nartelle",
+                  "text": "Széles körben népszerű homokos strand, amely kiváló szörfözési feltételeiről, tiszta vizéről és különféle nyüzsgő tengerparti éttermeiről ismert.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.665062,
+                        43.321429
+                  ]
+            },
+            {
+                  "name": "Promenade Simon Lorière",
+                  "text": "A város gyönyörű fő tengerparti sétányát magas platánok árnyékolják, és fantasztikus, zavartalan kilátást nyújt egyenesen a Saint-Tropez-i öbölre.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.632483,
+                        43.314138
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique des Myrtes",
+                  "text": "Csendes botanikus kert, amely a tipikus mediterrán flóra széles skáláját mutatja be, frissítő menedéket nyújtva a forró nyári délutánokon.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.624971,
+                        43.301751
+                  ]
+            },
+            {
+                  "name": "Port de Sainte-Maxime",
+                  "text": "A nyüzsgő helyi kikötő tele van különféle sétahajókkal, és rendszeres, kényelmes kompjáratokat kínál közvetlenül a híres Saint-Tropez városába.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.638646,
+                        43.306452
+                  ]
+            },
+            {
+                  "name": "Marché Couvert",
+                  "text": "Élettel teli, hagyományos fedett piac, ahol a látogatók szabadon felfedezhetik a friss regionális termékeket, sajtokat és provence-i fűszereket.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        6.641244,
+                        43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "A Le Club egy strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "A Le Diamant Plage a dél-franciaországi Sainte Maxime hívogató tengerparti ékköveként mutatkozik be. A tiszta víz és a laza hangulat arra invitálja a vendégeket, hogy maximálisan kiélvezzék a Riviéra napsütéses óráit. Egy előszezoni vagy utószezoni látogatás különösen autentikus és békés strandélményt nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "A Le Saint-Barth egy strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Közvetlenül Sainte Maxime szívében található a központi Plage du centre ville, amely könnyű hozzáférést biztosít a tengerhez. A családok és a városiak egyaránt értékelik a kávézók kényelmes közelségét, miközben a puha homokban pihennek. A városi séta utáni spontán csobbanáshoz ez a strand tökéletesen ideális.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "A Plage de la Garonnette zökkenőmentesen csatlakozik Sainte Maxime bájos partvonalához. A napimádók és a fürdőzők itt csendes helyet találnak, ahol hallgathatják a hullámok folyamatos morajlását. A déli hőség elkerülése érdekében érdemes megfontolni egy pihentető késő délutáni látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "A Sainte Maxime városában található Plage de la Croisette egy jól ismert tengerparti szakasz Franciaországban. Élénk atmoszférája napozásra és a vízben való felfrissülésre csábítja a látogatókat. A part menti laza séták nagyszerű kikapcsolódást nyújtanak a délutáni órákban. A nyári főszezonban érdemes korán érkezni a legjobb helyek elfoglalásához.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "A Plage de Guerrevielle klasszikus partvidéki környezetet kínál a hangulatos Sainte Maxime térségében. A vendégek békés miliőre számíthatnak, amely tökéletes a napozáshoz és a lágy hullámok élvezetéhez. A homokos környezet ideális a csendes sétákhoz, miközben a helyi tájban gyönyörködhetünk. Egy nyugodt tengerparti naphoz javasolt a saját felszerelésünk biztosítása.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "A Sainte Maxime városában megbújó Plage des Cigales egy festői tengerparti úti célként emelkedik ki. Ez a gyönyörű homokos szakasz látványos hátteret biztosít a kényelmes úszáshoz és a francia nap alatti pihenéshez. A part menti séták során elbűvölő kilátás nyílik, amely hűen tükrözi a régió hangulatát. A késő délutáni látogatás különösen varázslatos fényeket tartogathat.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
+            },
+            {
+                  "name": "Aqualand Sainte-Maxime",
+                  "text": "Vízi park Sainte Maxime-ban vidám csúszdákkal a család számára.",
+                  "category": "family",
+                  "coords": [
+                        6.618837,
+                        43.328248
+                  ]
+            },
+            {
+                  "name": "Theatre de la mer",
+                  "text": "Szabadtéri színház Sainte-Maxime-ban, amelyet tengerparti kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        6.638547,
+                        43.308069
+                  ]
+            },
+            {
+                  "name": "Les Tourelles",
+                  "text": "Jellegzetes történelmi épület Sainte-Maxime-ban, amely markáns tornyairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        6.642831,
+                        43.308736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour Carrée",
+                  "text": "Un turn de apărare pătrat robust construit în secolul al șaisprezecelea, care găzduiește acum un frumos muzeu de istorie și tradiții locale.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        6.640925,
+                        43.306867
+                  ]
+            },
+            {
+                  "name": "Musée du Phonographe",
+                  "text": "Un muzeu fascinant dedicat muzicii mecanice, care expune o colecție unică de fonografe rare, cutii muzicale vechi și flașnete de epocă valoroase.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        6.63554,
+                        43.269638
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Maxime",
+                  "text": "Biserica parohială principală are un altar frumos și artefacte istorice, oferind o atmosferă senină chiar în mijlocul orașului vechi plin de viață.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        6.64117,
+                        43.30705
+                  ]
+            },
+            {
+                  "name": "Plage de la Nartelle",
+                  "text": "O plajă de nisip foarte populară, cunoscută pentru condițiile excelente de windsurfing, ape limpezi și o varietate de restaurante pe litoral.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.665062,
+                        43.321429
+                  ]
+            },
+            {
+                  "name": "Promenade Simon Lorière",
+                  "text": "Frumoasa promenadă principală de la malul mării este umbrită de platani înalți și oferă vederi fantastice direct peste Golful Saint-Tropez oricând.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.632483,
+                        43.314138
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique des Myrtes",
+                  "text": "O grădină botanică liniștită care prezintă o gamă largă de floră mediteraneană, oferind o evadare răcoroasă în timpul după-amiezilor fierbinți.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.624971,
+                        43.301751
+                  ]
+            },
+            {
+                  "name": "Port de Sainte-Maxime",
+                  "text": "Portul local plin de viață este plin de diverse bărci de agrement și oferă conexiuni regulate și convenabile cu feribotul direct spre Saint-Tropez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.638646,
+                        43.306452
+                  ]
+            },
+            {
+                  "name": "Marché Couvert",
+                  "text": "O piață tradițională acoperită, unde vizitatorii pot descoperi în voie produse regionale proaspete, brânzeturi locale și condimente provensale.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        6.641244,
+                        43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Le Diamant Plage se prezintă ca o bijuterie de coastă primitoare în Sainte Maxime, sudul Franței. Apa limpede și atmosfera relaxată îi invită pe oaspeți să se bucure din plin de orele însorite de pe Rivieră. O vizită în afara sezonului oferă o experiență de plajă deosebit de autentică și liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Chiar în inima orașului Sainte Maxime, centrul Plage du centre ville atrage cu accesul său necomplicat la mare. Familiile și orășenii deopotrivă apreciază apropierea convenabilă de cafenele în timp ce se relaxează pe nisipul moale. Această plajă este absolut ideală pentru o baie spontană în apă după o plimbare prin oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "Plage de la Garonnette se conectează perfect la coasta fermecătoare a orașului Sainte Maxime. Iubitorii de soare și scăldătorii vor găsi aici un loc liniștit pentru a asculta sunetul constant al valurilor. Pentru a evita căldura amiezii, ar trebui să luați în considerare o vizită relaxantă la sfârșitul după-amiezii.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "Situată în Sainte Maxime, Plage de la Croisette este o porțiune de coastă bine-cunoscută din Franța. Atmosfera sa plină de viață invită vizitatorii la băi de soare și înot revigorant. O plimbare relaxantă pe țărm reprezintă o modalitate plăcută de a petrece după-amiaza. Sosirea timpurie în lunile de vară este recomandată pentru a prinde un loc confortabil.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Plage de Guerrevielle oferă un cadru de coastă clasic în fermecătoarea zonă Sainte Maxime. Oaspeții se pot bucura de un mediu liniștit, perfect pentru plajă și pentru a admira valurile blânde. Împrejurimile cu nisip sunt ideale pentru plimbări tăcute, contemplând peisajul local. Pentru o zi relaxantă la malul mării, este bine să vă aduceți propriile accesorii de bază.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Ascunsă în orașul Sainte Maxime, Plage des Cigales se remarcă drept o destinație de plajă pitorească. Această frumoasă fâșie de nisip oferă un decor pitoresc pentru înot de agrement și lenevit sub soarele francez. O plimbare de-a lungul coastei dezvăluie priveliști fermecătoare care surprind esența regiunii. Vizitarea în a doua parte a după-amiezii vă poate oferi o lumină de-a dreptul magică.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
+            },
+            {
+                  "name": "Aqualand Sainte-Maxime",
+                  "text": "Un parc acvatic în Sainte Maxime cu tobogane distractive pentru familie.",
+                  "category": "family",
+                  "coords": [
+                        6.618837,
+                        43.328248
+                  ]
+            },
+            {
+                  "name": "Theatre de la mer",
+                  "text": "Un teatru în aer liber în Sainte-Maxime, folosit pentru spectacole culturale la malul mării.",
+                  "category": "cultural",
+                  "coords": [
+                        6.638547,
+                        43.308069
+                  ]
+            },
+            {
+                  "name": "Les Tourelles",
+                  "text": "O clădire istorică distinctivă în Sainte-Maxime, cunoscută pentru turnurile sale proeminente.",
+                  "category": "castle",
+                  "coords": [
+                        6.642831,
+                        43.308736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour Carrée",
+                  "text": "A robust defensive square tower built in the sixteenth century to protect the coast, now beautifully housing a local history and traditions museum.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "coords": [
+                        6.640925,
+                        43.306867
+                  ]
+            },
+            {
+                  "name": "Musée du Phonographe",
+                  "text": "A fascinating museum dedicated to mechanical music, displaying a unique collection of rare phonographs, old music boxes, and vintage barrel organs.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        6.63554,
+                        43.269638
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Maxime",
+                  "text": "The main parish church features a beautiful altar and historic artifacts, offering a serene atmosphere right in the middle of the bustling old town.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        6.64117,
+                        43.30705
+                  ]
+            },
+            {
+                  "name": "Plage de la Nartelle",
+                  "text": "A widely popular sandy beach known for its excellent windsurfing conditions, clear warm waters, and a variety of lively seaside dining establishments.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.665062,
+                        43.321429
+                  ]
+            },
+            {
+                  "name": "Promenade Simon Lorière",
+                  "text": "The town's beautiful main seaside promenade is shaded by tall plane trees and offers fantastic views directly across the Gulf of Saint-Tropez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.632483,
+                        43.314138
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique des Myrtes",
+                  "text": "A tranquil botanical garden showcasing a wide array of typical Mediterranean flora, providing a refreshing escape during hot summer afternoons.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.624971,
+                        43.301751
+                  ]
+            },
+            {
+                  "name": "Port de Sainte-Maxime",
+                  "text": "The bustling local marina is filled with diverse pleasure boats and offers regular, convenient ferry connections directly to Saint-Tropez.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "coords": [
+                        6.638646,
+                        43.306452
+                  ]
+            },
+            {
+                  "name": "Marché Couvert",
+                  "text": "A vibrant traditional covered market where visitors can freely discover fresh regional produce, delicious local cheeses, and fragrant Provençal spices.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        6.641244,
+                        43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Le Diamant Plage presents itself as an inviting coastal jewel in southern French Sainte Maxime. The clear water and the relaxed atmosphere invite guests to fully enjoy the sunny hours on the Riviera. A visit in the off-season offers a particularly authentic and quiet beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Right in the heart of Sainte Maxime, the central Plage du centre ville attracts with its uncomplicated access to the sea. Families and city dwellers alike appreciate the convenient proximity to cafes while relaxing in the soft sand. This beach is absolutely ideal for a spontaneous jump into the water after a stroll through the town.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "The Plage de la Garonnette connects seamlessly to the charming coastline of Sainte Maxime. Sun worshippers and bathers will find a quiet place here to listen to the constant sound of the waves. To avoid the midday heat, you should consider a relaxing visit in the late afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "Situated in Sainte Maxime, Plage de la Croisette is a well-known coastal spot in France. The lively atmosphere invites visitors to enjoy sunbathing and refreshing swims along the shore. Taking a relaxed walk by the water is a pleasant way to spend the afternoon. Arriving early during the peak summer months is a good idea to secure a comfortable spot.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Plage de Guerrevielle offers a classic coastal setting in the charming area of Sainte Maxime. Guests can look forward to a peaceful environment perfect for sunbathing and enjoying the gentle waves. The sandy surroundings are ideal for quiet strolls while taking in the local scenery. Bringing your own essentials is recommended for a relaxed day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Nestled in the town of Sainte Maxime, Plage des Cigales stands out as a picturesque beach destination. This beautiful stretch of sand provides a scenic backdrop for leisurely swims and lounging under the French sun. Walking along the coast here reveals charming views that capture the essence of the region. Visiting during the late afternoon offers a particularly magical light.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
+            },
+            {
+                  "name": "Aqualand Sainte-Maxime",
+                  "text": "A water park in Sainte Maxime with fun slides for the family.",
+                  "category": "family",
+                  "coords": [
+                        6.618837,
+                        43.328248
+                  ]
+            },
+            {
+                  "name": "Theatre de la mer",
+                  "text": "An open-air theatre in Sainte-Maxime used for cultural performances by the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        6.638547,
+                        43.308069
+                  ]
+            },
+            {
+                  "name": "Les Tourelles",
+                  "text": "A distinctive historic building in Sainte-Maxime, known for its striking towers.",
+                  "category": "castle",
+                  "coords": [
+                        6.642831,
+                        43.308736
+                  ]
+            }
+      ]
+}},
   {"id": "serre-chevalier", "type": "city", "parent": "FR-PAC", "coords": [6.5556, 44.9389], "population": 2500, "tier": 2, "name": {"de": "Serre Chevalier", "hu": "Serre Chevalier", "ro": "Serre Chevalier", "en": "Serre Chevalier"}, "description": {"de": "Serre Chevalier ist eines der größten Skigebiete der Südalpen und verbindet authentische Bergdörfer mit modernen Wintersportanlagen am Rande des Écrins-Nationalparks.", "hu": "Serre Chevalier a Déli-Alpok egyik legkiterjedtebb síparadicsoma, amely Briançon történelmi városa és a Galibier-hágó között húzódva kínál autentikus hegyi hangulatot.", "ro": "Serre Chevalier este una dintre cele mai mari stațiuni de schi din Alpii de Sud, oferind un domeniu vast ce leagă sate tradiționale și pârtii moderne lângă Parcul Écrins.", "en": "Serre Chevalier is one of the largest ski resorts in the Southern Alps, stretching between Briançon and the Col du Lautaret with a unique microclimate and larch forests."}, "facts": {"de": ["Größtes Skigebiet der Südalpen", "250 Kilometer präparierte Pisten", "300 Sonnentage im Durchschnitt", "Eingang zum Écrins-Nationalpark", "Nähe zur Festungsstadt Briançon", "Bekannt für seine Lärchenwälder", "Höhenlage bis zu 2830 Metern", "Beliebtes Ziel für die Tour de France"], "hu": ["250 kilométernyi összefüggő pályarendszer", "Évente átlagosan 300 napsütéses nap", "Az Écrins Nemzeti Park kapuja", "Briançon UNESCO világörökségi szomszédja", "Híres a különleges vörösfenyő erdőiről", "A legmagasabb pontja 2830 méter", "Gyakori állomása a Tour de France-nak", "Négy települést összekötő völgy"], "ro": ["Domeniu schiabil de 250 kilometri", "Aproximativ 300 de zile însorite pe an", "Poarta de acces către Parcul Écrins", "Legătură directă cu orașul Briançon", "Păduri vaste de larice specifice zonei", "Altitudine maximă de 2830 de metri", "Gazdă frecventă pentru Tour de France", "Format din mai multe sate tradiționale"], "en": ["250 kilometers of interconnected slopes", "Average of 300 sunny days per year", "Gateway to the Écrins National Park", "Bordering the UNESCO site of Briançon", "Famous for its extensive larch forests", "Maximum altitude reaches 2830 meters", "Regular stage for the Tour de France", "Comprises several authentic alpine villages"]}, "image": "/geo-images/france/serre-chevalier.webp", "imageHint": "Aerial view of Serre Chevalier ski slopes and alpine villages in winter", "descriptionAdvanced": {"de": "Serre Chevalier ist nicht nur eine einfache Station, sondern ein weitläufiges Tal in den Hautes-Alpes, das dreizehn Dörfer umfasst. Das Skigebiet erstreckt sich von 1200 bis auf 2830 Meter Höhe und bietet eine beeindruckende Vielfalt an Geländeformen, von sanften Anfängerpisten bis hin zu steilen Waldabfahrten durch die charakteristischen Lärchenwälder. Dank seiner Lage profitiert das Tal von einem mediterranen Einfluss, was für überdurchschnittlich viele Sonnentage sorgt, während die Nordhänge den Schnee lange konservieren. Neben dem Wintersport ist die Region für ihre Thermalquellen in Monêtier-les-Bains bekannt, die bereits seit der Römerzeit genutzt werden. Die Architektur der Dörfer hat sich viel von ihrem ursprünglichen, rustikalen Charme bewahrt, was einen starken Kontrast zu den zweckmäßigen Retortenstationen der Nordalpen bildet.", "hu": "Serre Chevalier a Déli-Alpok egyik legkarakteresebb sírégiója, amely Briançon városától egészen a Lautaret-hágóig húzódik a Guisane-völgyben. A terület 250 kilométernyi pályarendszere 1200 és 2830 méter között terül el, különlegessége pedig az északi fekvésű lejtőkön található sűrű vörösfenyő-erdőkben rejlik, amelyek még szélviharban is védelmet nyújtanak a síelőknek. A völgy tizenhárom kisebb településből áll, köztük Chantemerle és Monêtier-les-Bains a legjelentősebbek; utóbbi természetes termálvizéről híres, amelyet már a rómaiak is kedveltek. A klíma egyedülálló, hiszen a déli fekvés miatt az év 300 napján süt a nap, miközben a magasság garantálja a kiváló hóminőséget. A nyári szezonban a bringások és túrázók veszik át az uralmat, hiszen a környék olyan legendás hágókat érint, mint a Col du Galibier.", "ro": "Serre Chevalier este o destinație montană de prestigiu situată în departamentul Hautes-Alpes, recunoscută pentru atmosfera sa autentică și domeniul schiabil vast. Spre deosebire de stațiunile moderne construite special pentru turism, Serre Chevalier este formată dintr-o rețea de 13 sate istorice împrăștiate de-a lungul văii Guisane. Cu peste 250 km de pârtii care urcă până la 2830 metri, stațiunea oferă o diversitate remarcabilă, fiind celebră pentru schiul prin păduri de larice, o raritate în Alpi. Climatul beneficiază de o influență mediteraneană marcată, asigurând o luminozitate excepțională și un număr mare de zile cu soare. Pe lângă sporturile de iarnă, vizitatorii se pot bucura de băile termale naturale din Monêtier, exploatate încă din antichitate, și de patrimoniul fortificat din Briançon, aflat la capătul de jos al văii.", "en": "Serre Chevalier is a major alpine valley in the Hautes-Alpes department, encompassing a series of villages and hamlets from Briançon to Le Monêtier-les-Bains. Its ski area is one of Europe's largest, featuring 250 kilometers of slopes that cater to all levels, particularly famous for its high-altitude larch forest skiing which provides excellent visibility and snow protection. The region's geography allows it to enjoy a Mediterranean-influenced climate with 300 days of sunshine, while its northern exposure ensures reliable snow cover throughout the season. Beyond skiing, the valley is steeped in history, featuring traditional stone architecture and the natural hot springs of Monêtier. In summer, it transforms into a hub for road cycling, being close to iconic Tour de France climbs like the Galibier, and serves as a primary access point for the Écrins National Park."}, "factsAdvanced": {"de": ["Gegründet als Skigebiet im Jahr 1941", "Höchster Punkt ist der Pic de l'Yret auf 2830 m", "61 Skilifte bedienen das gesamte Talnetz", "Monêtier-les-Bains bietet 37 Grad warme Quellen", "Teil der Grande Randonnée 5 (GR5) Wanderroute", "Heimat des Abfahrtsweltmeisters Luc Alphand"], "hu": ["A síközpont hivatalos alapítása 1941-re tehető", "A Pic de l'Yret csúcsáról 2830 méterről indulhatunk", "A völgyben 61 felvonó biztosítja a közlekedést", "Monêtier termálvize 37 fokos hőmérséklettel tör fel", "A GR5-ös európai túraútvonal egyik fontos állomása", "Itt született Luc Alphand világbajnok síelő"], "ro": ["Stațiunea a fost inaugurată oficial în anul 1941", "Cea mai înaltă cotă este Pic de l'Yret la 2830 m", "Rețeaua este deservită de 61 de instalații de cablu", "Apele termale din Monêtier au o temperatură de 37°C", "Traversată de traseul european de drumeție GR5", "Orașul natal al campionului mondial Luc Alphand"], "en": ["The ski resort was officially inaugurated in 1941", "The highest skiable point is Pic de l'Yret at 2830m", "61 ski lifts connect the different valley sectors", "Monêtier-les-Bains features 37°C natural thermal springs", "Key stop on the GR5 long-distance hiking trail", "Home of the legendary downhill skier Luc Alphand"]}, "sights": {
       "de": [
             {
@@ -19220,6 +26459,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.58328,
                         44.935296
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Barthelemy",
+                  "text": "Eine historische Kapelle in Serre Chevalier, die der lokalen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.568004,
+                        44.944679
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Roch",
+                  "text": "Diese Kirche in Serre Chevalier ist dem Heiligen Rochus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        6.553657,
+                        44.943633
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Jacques-le-Majeur",
+                  "text": "Eine religiöse Stätte in Serre Chevalier, benannt nach dem Apostel Jakobus.",
+                  "category": "religious",
+                  "coords": [
+                        6.589463,
+                        44.932298
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mamet",
+                  "text": "Eine kleine Kapelle in Serre Chevalier, die dem Heiligen Mammas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.545875,
+                        44.95883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste-des-Pananches",
+                  "text": "Eine traditionelle Kapelle im Weiler Les Pananches in Serre Chevalier.",
+                  "category": "religious",
+                  "coords": [
+                        6.582526,
+                        44.939519
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Marcellin",
+                  "text": "Eine historische Kirche in Serre Chevalier, ein Zentrum des lokalen Glaubens.",
+                  "category": "religious",
+                  "coords": [
+                        6.571813,
+                        44.945175
+                  ]
+            },
+            {
+                  "name": "Eglise Sainte Luce",
+                  "text": "Ein Sakralbau in Serre Chevalier, der der Heiligen Luzia gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.56507,
+                        44.944758
                   ]
             }
       ],
@@ -19372,6 +26674,69 @@ export const poiExtraFrV2: POI[] = [
                         6.58328,
                         44.935296
                   ]
+            },
+            {
+                  "name": "Chapelle Saint-Barthelemy",
+                  "text": "Történelmi kápolna Serre Chevalier-ben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.568004,
+                        44.944679
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Roch",
+                  "text": "Szent Rókusnak szentelt templom Serre Chevalier-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.553657,
+                        44.943633
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Jacques-le-Majeur",
+                  "text": "Idősebb Szent Jakab apostolról elnevezett vallási helyszín Serre Chevalier-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.589463,
+                        44.932298
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mamet",
+                  "text": "Szent Mammesnek szentelt kis kápolna Serre Chevalier-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.545875,
+                        44.95883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste-des-Pananches",
+                  "text": "Hagyományos kápolna Les Pananches falucskában, Serre Chevalier-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.582526,
+                        44.939519
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Marcellin",
+                  "text": "Történelmi templom Serre Chevalier-ben, a helyi hitélet központja.",
+                  "category": "religious",
+                  "coords": [
+                        6.571813,
+                        44.945175
+                  ]
+            },
+            {
+                  "name": "Eglise Sainte Luce",
+                  "text": "Szent Luciának szentelt szakrális épület Serre Chevalier-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.56507,
+                        44.944758
+                  ]
             }
       ],
       "ro": [
@@ -19523,6 +26888,69 @@ export const poiExtraFrV2: POI[] = [
                         6.58328,
                         44.935296
                   ]
+            },
+            {
+                  "name": "Chapelle Saint-Barthelemy",
+                  "text": "O capelă istorică în Serre Chevalier, servind comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        6.568004,
+                        44.944679
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Roch",
+                  "text": "Această biserică din Serre Chevalier este dedicată Sfântului Roch.",
+                  "category": "religious",
+                  "coords": [
+                        6.553657,
+                        44.943633
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Jacques-le-Majeur",
+                  "text": "Un lăcaș de cult în Serre Chevalier, numit după Sfântul Iacob cel Mare.",
+                  "category": "religious",
+                  "coords": [
+                        6.589463,
+                        44.932298
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mamet",
+                  "text": "O mică capelă în Serre Chevalier, dedicată Sfântului Mamet.",
+                  "category": "religious",
+                  "coords": [
+                        6.545875,
+                        44.95883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste-des-Pananches",
+                  "text": "O capelă tradițională în cătunul Les Pananches din Serre Chevalier.",
+                  "category": "religious",
+                  "coords": [
+                        6.582526,
+                        44.939519
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Marcellin",
+                  "text": "O biserică istorică în Serre Chevalier, un centru al credinței locale.",
+                  "category": "religious",
+                  "coords": [
+                        6.571813,
+                        44.945175
+                  ]
+            },
+            {
+                  "name": "Eglise Sainte Luce",
+                  "text": "Un edificiu religios în Serre Chevalier, dedicat Sfintei Lucia.",
+                  "category": "religious",
+                  "coords": [
+                        6.56507,
+                        44.944758
+                  ]
             }
       ],
       "en": [
@@ -19673,6 +27101,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.58328,
                         44.935296
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Barthelemy",
+                  "text": "A historic chapel in Serre Chevalier serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        6.568004,
+                        44.944679
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Roch",
+                  "text": "This church in Serre Chevalier is dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        6.553657,
+                        44.943633
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Jacques-le-Majeur",
+                  "text": "A religious site in Serre Chevalier named after Saint James the Great.",
+                  "category": "religious",
+                  "coords": [
+                        6.589463,
+                        44.932298
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mamet",
+                  "text": "A small chapel in Serre Chevalier dedicated to Saint Mamet.",
+                  "category": "religious",
+                  "coords": [
+                        6.545875,
+                        44.95883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste-des-Pananches",
+                  "text": "A traditional chapel in the hamlet of Les Pananches in Serre Chevalier.",
+                  "category": "religious",
+                  "coords": [
+                        6.582526,
+                        44.939519
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Marcellin",
+                  "text": "A historic church in Serre Chevalier, a center of local faith.",
+                  "category": "religious",
+                  "coords": [
+                        6.571813,
+                        44.945175
+                  ]
+            },
+            {
+                  "name": "Eglise Sainte Luce",
+                  "text": "A sacred building in Serre Chevalier dedicated to Saint Lucy.",
+                  "category": "religious",
+                  "coords": [
+                        6.56507,
+                        44.944758
                   ]
             }
       ]
@@ -22185,6 +29676,42 @@ export const poiExtraFrV2: POI[] = [
                         6.538007,
                         45.31031
                   ]
+            },
+            {
+                  "name": "Mont du Borgne",
+                  "text": "Ein hoher Gipfel im Vanoise-Massiv, der das Skigebiet Val Thorens überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613469,
+                        45.304165
+                  ]
+            },
+            {
+                  "name": "Tete Ronde",
+                  "text": "Ein markanter Berg in der Nähe von Val Thorens, bekannt für seine Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        6.596766,
+                        45.286284
+                  ]
+            },
+            {
+                  "name": "Pointe du Borgne",
+                  "text": "Ein schroffer Gipfel in den französischen Alpen bei Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605594,
+                        45.301233
+                  ]
+            },
+            {
+                  "name": "Aiguille du Borgne",
+                  "text": "Eine nadelartige Felsformation in der Bergwelt von Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613624,
+                        45.311952
+                  ]
             }
       ],
       "hu": [
@@ -22313,6 +29840,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.538007,
                         45.31031
+                  ]
+            },
+            {
+                  "name": "Mont du Borgne",
+                  "text": "Magas csúcs a Vanoise-masszívumban, amely Val Thorens síterepe fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613469,
+                        45.304165
+                  ]
+            },
+            {
+                  "name": "Tete Ronde",
+                  "text": "Jellegzetes hegy Val Thorens közelében, túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.596766,
+                        45.286284
+                  ]
+            },
+            {
+                  "name": "Pointe du Borgne",
+                  "text": "Sziklás hegycsúcs a francia Alpokban, Val Thorens közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605594,
+                        45.301233
+                  ]
+            },
+            {
+                  "name": "Aiguille du Borgne",
+                  "text": "Tűszerű sziklaformáció Val Thorens hegyvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613624,
+                        45.311952
                   ]
             }
       ],
@@ -22443,6 +30006,42 @@ export const poiExtraFrV2: POI[] = [
                         6.538007,
                         45.31031
                   ]
+            },
+            {
+                  "name": "Mont du Borgne",
+                  "text": "Un vârf înalt în masivul Vanoise, care domină stațiunea Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613469,
+                        45.304165
+                  ]
+            },
+            {
+                  "name": "Tete Ronde",
+                  "text": "Un munte proeminent lângă Val Thorens, cunoscut pentru traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        6.596766,
+                        45.286284
+                  ]
+            },
+            {
+                  "name": "Pointe du Borgne",
+                  "text": "Un vârf muntos stâncos în Alpii Francezi, lângă Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605594,
+                        45.301233
+                  ]
+            },
+            {
+                  "name": "Aiguille du Borgne",
+                  "text": "O formațiune stâncoasă ascuțită în munții din Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613624,
+                        45.311952
+                  ]
             }
       ],
       "en": [
@@ -22571,6 +30170,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.538007,
                         45.31031
+                  ]
+            },
+            {
+                  "name": "Mont du Borgne",
+                  "text": "A high peak in the Vanoise Massif overlooking the Val Thorens ski area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613469,
+                        45.304165
+                  ]
+            },
+            {
+                  "name": "Tete Ronde",
+                  "text": "A prominent mountain near Val Thorens known for its hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        6.596766,
+                        45.286284
+                  ]
+            },
+            {
+                  "name": "Pointe du Borgne",
+                  "text": "A rugged mountain peak in the French Alps near Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.605594,
+                        45.301233
+                  ]
+            },
+            {
+                  "name": "Aiguille du Borgne",
+                  "text": "A needle-like rock formation in the mountains of Val Thorens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.613624,
+                        45.311952
                   ]
             }
       ]

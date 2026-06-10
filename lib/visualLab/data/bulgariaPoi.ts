@@ -130,7 +130,232 @@ export const bulgariaAllPoi: POI[] = [
     },
   },
   {
-    id: "bg-pirin",
+    id: "bg-pirin", "sights": {
+      "de": [
+            {
+                  "name": "Wichren",
+                  "text": "Der höchste Gipfel des Pirin-Gebirges und ein beliebter Aussichtspunkt in Bulgarien.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Ein Berggipfel im bulgarischen Pirin-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Der zweithöchste Punkt des Kutelo-Massivs im Pirin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Mit 2908 Metern der zweithöchste Gipfel im Pirin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Ein markanter Gipfel im Pirin-Gebirge, bekannt für seine steilen Kalksteinwände.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vihren",
+                  "text": "A Pirin-hegység legmagasabb csúcsa és népszerű kilátóhely Bulgáriában.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Hegyi csúcs a bulgáriai Pirin Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "A Pirin-hegységben található Kutelo-masszívum második legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "2908 méteres magasságával a Pirin-hegység második legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Jellegzetes csúcs a Pirin-hegységben, amely meredek mészkőfalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Egy több mint 1300 éves páncélfenyő, Bulgária legöregebb tűlevelű fája.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вихрен",
+                  "text": "Cel mai înalt vârf din munții Pirin și un punct de belvedere popular în Bulgaria.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Un vârf muntos în Parcul Național Pirin din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Al doilea cel mai înalt punct al masivului Kutelo din munții Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Cu 2908 metri, este al doilea cel mai înalt vârf din munții Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Un vârf distinctiv în munții Pirin, cunoscut pentru pereții săi abrupți de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vihren",
+                  "text": "The highest peak of the Pirin Mountains and a popular viewpoint in Bulgaria.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Vazela",
+                  "text": "A mountain peak in the Pirin National Park of Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Kutelo 2",
+                  "text": "The second highest point of the Kutelo massif in the Pirin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Kutelo",
+                  "text": "Standing at 2908 meters, it is the second highest peak in the Pirin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Banski Suhodol",
+                  "text": "A prominent peak in the Pirin Mountains known for its steep limestone walls.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Baikushev's Pine",
+                  "text": "An over 1300-year-old Bosnian pine, the oldest coniferous tree in Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "bg-country",
     coords: [23.4000, 41.7500],
@@ -234,7 +459,88 @@ export const bulgariaCulture: POI[] = [
     },
   },
   {
-    id: "hist-shipka-battlefield",
+    id: "hist-shipka-battlefield", "sights": {
+      "de": [
+            {
+                  "name": "Busludscha-Denkmal",
+                  "text": "Ein massives ehemaliges kommunistisches Denkmal auf dem Berg Busludscha.",
+                  "category": "historical",
+                  "coords": [
+                        25.393771,
+                        42.735736
+                  ]
+            },
+            {
+                  "name": "Хаджи Димитър",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Revolutionärs Hadshi Dimitar.",
+                  "category": "historical",
+                  "coords": [
+                        25.397298,
+                        42.73272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buzludzha emlékmű (bolgár UFO)",
+                  "text": "Egy hatalmas egykori kommunista emlékmű a Buzludzsa-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        25.393771,
+                        42.735736
+                  ]
+            },
+            {
+                  "name": "Хаджи Димитър",
+                  "text": "Hadzsi Dimitar bolgár forradalmár tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.397298,
+                        42.73272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Паметникът на Бузлуджа",
+                  "text": "Un monument comunist masiv situat pe muntele Buzludja.",
+                  "category": "historical",
+                  "coords": [
+                        25.393771,
+                        42.735736
+                  ]
+            },
+            {
+                  "name": "Хаджи Димитър",
+                  "text": "Un monument dedicat revoluționarului bulgar Hadji Dimitar.",
+                  "category": "historical",
+                  "coords": [
+                        25.397298,
+                        42.73272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buzludzha Monument",
+                  "text": "A massive former communist monument on Mount Buzludzha.",
+                  "category": "historical",
+                  "coords": [
+                        25.393771,
+                        42.735736
+                  ]
+            },
+            {
+                  "name": "Hadji Dimitar",
+                  "text": "A monument dedicated to the Bulgarian revolutionary Hadji Dimitar.",
+                  "category": "historical",
+                  "coords": [
+                        25.397298,
+                        42.73272
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "bg-country",
     coords: [25.4000, 42.7510],
@@ -1086,7 +1392,232 @@ export const bulgariaCulture: POI[] = [
     },
   },
   {
-    id: "agriculture-rose-valley-kazanlak",
+    id: "agriculture-rose-valley-kazanlak", "sights": {
+      "de": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Ein Museum in Kasanlak, das der Geschichte und Produktion des berühmten bulgarischen Rosenöls gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Thrakergrab von Kasanlak",
+                  "text": "Eine berühmte thrakische Grabstätte aus dem 4. Jahrhundert v. Chr. und UNESCO-Weltkulturerbe.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Ein Regionalmuseum in Kasanlak mit bedeutenden archäologischen Funden aus dem Tal der thrakischen Könige.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Dem bulgarischen Schriftsteller und Maler Dimitar Tschorbadschijski (Chudomir) gewidmetes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Ein Stadtpark in Kasanlak, in dem sich die thrakische Grabstätte befindet.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Ein Monument in Kasanlak, das der Einführung der europäischen Währung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Kazanlakban található múzeum, amely a bolgár rózsaolaj-termelés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Тракийска гробница",
+                  "text": "Híres, Kr. e. 4. századi trák sírbolt Kazanlakban, amely az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Kazanlaki történelmi múzeum, amely a Trák Királyok Völgyének régészeti leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Dimitar Csorbadzsijszki (Csudomir) bolgár író és festőművész emlékét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Kazanlak városi parkja, amelynek területén a híres trák sírbolt is található.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Kazanlakban található emlékmű, amelyet az európai valuta tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Un muzeu din Kazanlak dedicat istoriei și producției faimosului ulei de trandafir bulgăresc.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Тракийска гробница",
+                  "text": "Un celebru mormânt tracic din secolul al IV-lea î.Hr., inclus în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Un muzeu de istorie din Kazanlak ce deține descoperiri arheologice din Valea Regilor Traci.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Muzeu dedicat scriitorului și pictorului bulgar Dimitar Ciorbadjiiski, cunoscut sub numele de Ciudomir.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Un parc urban din Kazanlak pe cuprinsul căruia se află celebrul mormânt tracic.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Un monument din Kazanlak ridicat în onoarea monedei europene.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rose Museum",
+                  "text": "A museum in Kazanlak dedicated to the history and industry of Bulgarian rose oil production.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Thracian Tomb of Kazanlak",
+                  "text": "A world-famous 4th-century BC Thracian tomb and UNESCO World Heritage site in Kazanlak.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Iskra Historical Museum",
+                  "text": "A historical museum in Kazanlak housing significant archaeological finds from the Valley of the Thracian Kings.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Chudomir Art and Literature Museum",
+                  "text": "A museum dedicated to the Bulgarian writer and painter Dimitar Chorbadzhiyski, known as Chudomir.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Tyulbeto",
+                  "text": "A city park in Kazanlak which also hosts the famous Thracian Tomb archaeological site.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Euro Monument",
+                  "text": "A monument in Kazanlak dedicated to the European currency.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "bg-country",
     coords: [25.3980, 42.6200],
@@ -1187,7 +1718,88 @@ export const bulgariaCulture: POI[] = [
 
 export const bulgariaNature: POI[] = [
   {
-    id: "nat-rila",
+    id: "nat-rila", "sights": {
+      "de": [
+            {
+                  "name": "Reservat Zentrales Rila",
+                  "text": "Ein zentrales Naturschutzgebiet im Rila-Gebirge, das die alpine Artenvielfalt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Musala",
+                  "text": "Mit 2925 Metern der höchste Gipfel im Rila-Gebirge und auf der Balkanhalbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Централен рилски резерват",
+                  "text": "Központi természetvédelmi terület a Rila-hegységben, amely az alpesi élővilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Мусала",
+                  "text": "2925 méteres magasságával a Rila-hegység és a Balkán-félsziget legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Централен рилски резерват",
+                  "text": "O rezervație naturală centrală în Munții Rila, care protejează biodiversitatea alpină.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Мусала",
+                  "text": "Cu o înălțime de 2925 de metri, este cel mai înalt vârf din Munții Rila și din Peninsula Balcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Rila Reserve",
+                  "text": "A central nature reserve in the Rila Mountains protecting alpine biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Musala",
+                  "text": "At 2925 metres, it is the highest peak in the Rila Mountains and the Balkan Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "bg-country",
     coords: [23.55, 42.19],
@@ -1236,7 +1848,232 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-vitosha",
+    id: "nat-vitosha", "sights": {
+      "de": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "Ein Naturschutzgebiet im Witoscha-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "Ein Naturschutzgebiet im Witoscha-Gebirge, das für seine Torfmoore bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Голям Купен",
+                  "text": "Ein Berggipfel im Witoscha-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.318755,
+                        42.550937
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "Ein Berggipfel im Witoscha-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Ein Berggipfel im Witoscha-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Schwarzer Gipfel",
+                  "text": "Der höchste Gipfel des Witoscha-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "Természetvédelmi terület a Vitosa-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "Tőzeglápos természetvédelmi terület a Vitosa-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Голям Купен",
+                  "text": "Egy hegycsúcs a Vitosa-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.318755,
+                        42.550937
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "Egy hegycsúcs a Vitosa-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Egy hegycsúcs a Vitosa-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "A Vitosa-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "O rezervație naturală în munții Vitoșa.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "O rezervație naturală de turbărie în munții Vitoșa.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Голям Купен",
+                  "text": "Un vârf muntos în munții Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.318755,
+                        42.550937
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "Un vârf muntos în munții Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Un vârf muntos în munții Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "Cel mai înalt vârf din munții Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bistrishko Branishte Reserve",
+                  "text": "A nature reserve located in the Vitosha Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Torfeno Branishte Reserve",
+                  "text": "A peatland nature reserve located in the Vitosha Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Golyam Kupen",
+                  "text": "A mountain peak in the Vitosha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.318755,
+                        42.550937
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "A mountain peak in the Vitosha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Golyam Rezen",
+                  "text": "A mountain peak in the Vitosha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Cherni vrah",
+                  "text": "The highest peak of the Vitosha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "bg-country",
     coords: [23.28, 42.56],
@@ -1383,7 +2220,88 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-musala",
+    id: "nat-musala", "sights": {
+      "de": [
+            {
+                  "name": "Reservat Zentrales Rila",
+                  "text": "Das größte Naturschutzgebiet Bulgariens, das die Hochgebirgslandschaften des Rila-Gebirges bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Musala",
+                  "text": "Der höchste Gipfel des Rila-Gebirges und der gesamten Balkanhalbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Централен рилски резерват",
+                  "text": "Bulgária legnagyobb természetvédelmi területe, amely a Rila-hegység magashegyi tájait őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Мусала",
+                  "text": "A Rila-hegység és az egész Balkán-félsziget legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Централен рилски резерват",
+                  "text": "Cea mai mare rezervație naturală din Bulgaria, care conservă peisajele montane din Munții Rila.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Мусала",
+                  "text": "Cel mai înalt vârf din Munții Rila și din întreaga Peninsulă Balcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Rila Reserve",
+                  "text": "The largest nature reserve in Bulgaria, preserving the high-altitude landscapes of the Rila Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        23.542322,
+                        42.163844
+                  ]
+            },
+            {
+                  "name": "Musala",
+                  "text": "The highest peak in the Rila Mountains and the entire Balkan Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        23.585278,
+                        42.179193
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "bg-country",
     coords: [23.5856, 42.1798],
@@ -1432,7 +2350,196 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-vihren",
+    id: "nat-vihren", "sights": {
+      "de": [
+            {
+                  "name": "Wichren",
+                  "text": "Der höchste Gipfel des Pirin-Gebirges in Bulgarien mit herrlicher Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Ein felsiger Gipfel im Pirin-Gebirge, benachbart zum Berg Vihren.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Der zweithöchste Gipfel des Pirin-Gebirges, bekannt für seinen schmalen Grat.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Ein markanter Alpengipfel im bulgarischen Pirin-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vihren",
+                  "text": "A bulgáriai Pirin-hegység legmagasabb csúcsa, lenyűgöző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Sziklás hegycsúcs a Pirin-hegységben, a Vihren-csúcs szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "A Pirin-hegység második legmagasabb csúcsa, amely keskeny gerincéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Jellegzetes alpesi csúcs a bulgáriai Pirin Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Több mint 1300 éves páncélfenyő, Bulgária legidősebb fenyőféléje.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вихрен",
+                  "text": "Cel mai înalt vârf din Munții Pirin din Bulgaria, oferind priveliști superbe.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Un vârf stâncos din Munții Pirin, situat în vecinătatea muntelui Vihren.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Al doilea cel mai înalt vârf din Munții Pirin, cunoscut pentru creasta sa îngustă.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Un vârf alpin proeminent din Parcul Național Pirin din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vihren",
+                  "text": "The highest peak in Bulgaria's Pirin Mountains, offering stunning views.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Kutelo 2",
+                  "text": "A rocky peak in the Pirin Mountains, adjacent to Mount Vihren.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Kutelo",
+                  "text": "The second highest peak in the Pirin Mountains, known for its narrow ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Banski Suhodol",
+                  "text": "A prominent alpine peak in Bulgaria's Pirin National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Baikushev's Pine",
+                  "text": "A Bosnian pine over 1,300 years old, the oldest coniferous tree in Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "bg-country",
     coords: [23.3965, 41.7695],
@@ -1481,7 +2588,52 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-botev-peak",
+    id: "nat-botev-peak", "sights": {
+      "de": [
+            {
+                  "name": "Botew",
+                  "text": "Der höchste Gipfel des Balkangebirges in Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ботев",
+                  "text": "A bulgáriai Balkán-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ботев",
+                  "text": "Cel mai înalt vârf din Munții Balcani, situat în Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botev Peak",
+                  "text": "The highest peak of the Balkan Mountains in Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "bg-country",
     coords: [24.9140, 42.7030],
@@ -1530,7 +2682,52 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-rhodopes",
+    id: "nat-rhodopes", "sights": {
+      "de": [
+            {
+                  "name": "Чудните мостове",
+                  "text": "Beeindruckende natürliche Felsbögen im Rhodopen-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.5819,
+                        41.818771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Чудните мостове",
+                  "text": "Lenyűgöző természetes sziklahidak a Rodope-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.5819,
+                        41.818771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Чудните мостове",
+                  "text": "Arcuri naturale de stâncă impresionante în munții Rodopi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.5819,
+                        41.818771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wonderful Bridges",
+                  "text": "Impressive natural rock arches located in the Rhodope Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.5819,
+                        41.818771
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "bg-country",
     coords: [24.6000, 41.8000],
@@ -1579,7 +2776,52 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-srebarna-lake",
+    id: "nat-srebarna-lake", "sights": {
+      "de": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "Ein UNESCO-Weltnaturerbe und Vogelschutzgebiet am Srebarna-See.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "UNESCO világörökségi helyszín és madárrezervátum a Srebarna-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "Rezervație naturală inclusă în patrimoniul UNESCO, celebră pentru colonii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Srebarna Nature Reserve",
+                  "text": "A UNESCO World Heritage site and bird reserve located on Lake Srebarna.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "bg-country",
     coords: [27.0330, 44.1055],

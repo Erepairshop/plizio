@@ -13,6 +13,78 @@ export const finlandEconomicV2: POI[] = [
                         24.423071,
                         60.099899
                   ]
+            },
+            {
+                  "name": "Gesterbyn museoalue",
+                  "text": "Ein Freilichtmuseum in Kirkkonummi, das die lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.444921,
+                        60.131411
+                  ]
+            },
+            {
+                  "name": "Ragvaldsin museoalue",
+                  "text": "Ein historisches Museumsgelände mit einem alten Bauernhof in Kirkkonummi.",
+                  "category": "museum",
+                  "coords": [
+                        24.416965,
+                        60.122982
+                  ]
+            },
+            {
+                  "name": "Perämoottorimuseo",
+                  "text": "Ein spezialisiertes Museum in Kirkkonummi, das Außenbordmotoren gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.470005,
+                        60.118717
+                  ]
+            },
+            {
+                  "name": "Högbergetin ikimetsä",
+                  "text": "Ein geschütztes Urwaldgebiet in Kirkkonummi mit altem Baumbestand.",
+                  "category": "natural",
+                  "coords": [
+                        24.488712,
+                        60.111706
+                  ]
+            },
+            {
+                  "name": "Barkas naturskyddsområde",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Kirkkonummi, das der Erhaltung der lokalen Flora dient.",
+                  "category": "natural",
+                  "coords": [
+                        24.480521,
+                        60.148422
+                  ]
+            },
+            {
+                  "name": "Vaipon luonnonsuojelualue",
+                  "text": "Ein lokales Naturschutzgebiet in Kirkkonummi.",
+                  "category": "natural",
+                  "coords": [
+                        24.373443,
+                        60.128482
+                  ]
+            },
+            {
+                  "name": "Hemträskets naturskyddsområde",
+                  "text": "Ein Naturschutzgebiet in Kirkkonummi, das wertvolle Feuchtgebiete umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        24.480348,
+                        60.151293
+                  ]
+            },
+            {
+                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
+                  "text": "Ein geschütztes Waldgebiet in Kirkkonummi mit charakteristischen Laubhainen.",
+                  "category": "natural",
+                  "coords": [
+                        24.391326,
+                        60.150485
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +95,78 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.423071,
                         60.099899
+                  ]
+            },
+            {
+                  "name": "Gesterbyn museoalue",
+                  "text": "Kirkkonummi szabadtéri múzeuma, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.444921,
+                        60.131411
+                  ]
+            },
+            {
+                  "name": "Ragvaldsin museoalue",
+                  "text": "Történelmi múzeumi terület egy régi tanyával Kirkkonummiban.",
+                  "category": "museum",
+                  "coords": [
+                        24.416965,
+                        60.122982
+                  ]
+            },
+            {
+                  "name": "Perämoottorimuseo",
+                  "text": "Speciális múzeum Kirkkonummiban, amelyet a csónakmotoroknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        24.470005,
+                        60.118717
+                  ]
+            },
+            {
+                  "name": "Högbergetin ikimetsä",
+                  "text": "Kirkkonummi védett őserdője idős faállománnyal.",
+                  "category": "natural",
+                  "coords": [
+                        24.488712,
+                        60.111706
+                  ]
+            },
+            {
+                  "name": "Barkas naturskyddsområde",
+                  "text": "Természetvédelmi terület Kirkkonummi közelében a helyi flóra megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        24.480521,
+                        60.148422
+                  ]
+            },
+            {
+                  "name": "Vaipon luonnonsuojelualue",
+                  "text": "Helyi természetvédelmi terület Kirkkonummi területén.",
+                  "category": "natural",
+                  "coords": [
+                        24.373443,
+                        60.128482
+                  ]
+            },
+            {
+                  "name": "Hemträskets naturskyddsområde",
+                  "text": "Értékes lápos területeket magában foglaló természetvédelmi terület Kirkkonummiban.",
+                  "category": "natural",
+                  "coords": [
+                        24.480348,
+                        60.151293
+                  ]
+            },
+            {
+                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
+                  "text": "Védett erdős terület Kirkkonummiban, jellegzetes lombos ligetekkel.",
+                  "category": "natural",
+                  "coords": [
+                        24.391326,
+                        60.150485
                   ]
             }
       ],
@@ -35,6 +179,78 @@ export const finlandEconomicV2: POI[] = [
                         24.423071,
                         60.099899
                   ]
+            },
+            {
+                  "name": "Gesterbyn museoalue",
+                  "text": "Un muzeu în aer liber în Kirkkonummi, care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.444921,
+                        60.131411
+                  ]
+            },
+            {
+                  "name": "Ragvaldsin museoalue",
+                  "text": "Un sit muzeal istoric cu o fermă veche în Kirkkonummi.",
+                  "category": "museum",
+                  "coords": [
+                        24.416965,
+                        60.122982
+                  ]
+            },
+            {
+                  "name": "Perämoottorimuseo",
+                  "text": "Un muzeu specializat în Kirkkonummi dedicat motoarelor outboard.",
+                  "category": "museum",
+                  "coords": [
+                        24.470005,
+                        60.118717
+                  ]
+            },
+            {
+                  "name": "Högbergetin ikimetsä",
+                  "text": "O zonă protejată de pădure virgină în Kirkkonummi, cu arbori seculari.",
+                  "category": "natural",
+                  "coords": [
+                        24.488712,
+                        60.111706
+                  ]
+            },
+            {
+                  "name": "Barkas naturskyddsområde",
+                  "text": "O rezervație naturală lângă Kirkkonummi, dedicată conservării florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        24.480521,
+                        60.148422
+                  ]
+            },
+            {
+                  "name": "Vaipon luonnonsuojelualue",
+                  "text": "O rezervație naturală locală în Kirkkonummi.",
+                  "category": "natural",
+                  "coords": [
+                        24.373443,
+                        60.128482
+                  ]
+            },
+            {
+                  "name": "Hemträskets naturskyddsområde",
+                  "text": "O rezervație naturală în Kirkkonummi, care cuprinde zone umede valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        24.480348,
+                        60.151293
+                  ]
+            },
+            {
+                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
+                  "text": "O zonă forestieră protejată în Kirkkonummi, cu dumbrăvi caracteristice.",
+                  "category": "natural",
+                  "coords": [
+                        24.391326,
+                        60.150485
+                  ]
             }
       ],
       "en": [
@@ -45,6 +261,78 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.423071,
                         60.099899
+                  ]
+            },
+            {
+                  "name": "Gesterbyn museoalue",
+                  "text": "An open-air museum in Kirkkonummi showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        24.444921,
+                        60.131411
+                  ]
+            },
+            {
+                  "name": "Ragvaldsin museoalue",
+                  "text": "A historical museum site featuring an old farmstead in Kirkkonummi.",
+                  "category": "museum",
+                  "coords": [
+                        24.416965,
+                        60.122982
+                  ]
+            },
+            {
+                  "name": "Perämoottorimuseo",
+                  "text": "A specialized museum in Kirkkonummi dedicated to outboard motors.",
+                  "category": "museum",
+                  "coords": [
+                        24.470005,
+                        60.118717
+                  ]
+            },
+            {
+                  "name": "Högbergetin ikimetsä",
+                  "text": "A protected old-growth forest area in Kirkkonummi.",
+                  "category": "natural",
+                  "coords": [
+                        24.488712,
+                        60.111706
+                  ]
+            },
+            {
+                  "name": "Barkas naturskyddsområde",
+                  "text": "A nature reserve near Kirkkonummi dedicated to preserving local flora.",
+                  "category": "natural",
+                  "coords": [
+                        24.480521,
+                        60.148422
+                  ]
+            },
+            {
+                  "name": "Vaipon luonnonsuojelualue",
+                  "text": "A local nature reserve in Kirkkonummi.",
+                  "category": "natural",
+                  "coords": [
+                        24.373443,
+                        60.128482
+                  ]
+            },
+            {
+                  "name": "Hemträskets naturskyddsområde",
+                  "text": "A nature reserve in Kirkkonummi encompassing valuable wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        24.480348,
+                        60.151293
+                  ]
+            },
+            {
+                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
+                  "text": "A protected forest area in Kirkkonummi featuring characteristic deciduous groves.",
+                  "category": "natural",
+                  "coords": [
+                        24.391326,
+                        60.150485
                   ]
             }
       ]
@@ -138,7 +426,268 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-kemi-bioproduct-plant-v2.webp",
   },
   {
-    id: "finland-hanko-port-logistics-v2",
+    id: "finland-hanko-port-logistics-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Gustavsvärn",
+                  "text": "Ein Leuchtturm auf einer kleinen Festungsinsel in der Nähe des Hafens von Hanko.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Die Überreste historischer Befestigungsanlagen an der felsigen Küste von Hanko.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Die Ruinen einer Festung aus dem 18. Jahrhundert, die zum Schutz der Halbinsel Hanko errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Ein lokales Museum, das die Geschichte und das maritime Erbe der Stadt Hanko dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Riesentöpfe, also glaziale Erosionsformen, die sich im Gebiet Puistovuori befinden.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Ein öffentlicher Badestrand im Küstengebiet von Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.926066,
+                        59.831755
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "Ein beliebter Sandstrand in Hanko, bekannt für seine schöne Aussicht und historischen Badehäuschen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gustavsvärnin majakka",
+                  "text": "Világítótorony egy kis erődítmény-szigeten, Hanko kikötőjének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Történelmi erődítmények maradványai Hanko sziklás partján.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Egy 18. századi erőd romjai, amelyet a Hanko-félsziget védelmére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Helyi múzeum, amely Hanko városának történelmét és tengeri örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Gleccsereróziós képződmények, úgynevezett óriásüstök Puistovuori területén.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Nyilvános strand Hanko tengerparti övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.926066,
+                        59.831755
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "Népszerű homokos strand Hankóban, amely szép kilátásáról és történelmi strandkunyhóiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gustavsvärnin majakka",
+                  "text": "Un far situat pe o mică insulă fortificată lângă portul Hanko.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "Resturile unor fortificații istorice situate pe coasta stâncoasă a localității Hanko.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "Ruinele unei cetăți din secolul al XVIII-lea, construită pentru a proteja peninsula Hanko.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "Un muzeu local care documentează istoria și patrimoniul maritim al orașului Hanko.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Marmite de gigant, formațiuni de eroziune glaciară, situate în zona Puistovuori.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "O plajă publică situată în zona de coastă a orașului Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.926066,
+                        59.831755
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "O plajă populară cu nisip în Hanko, cunoscută pentru priveliștile frumoase și cabinele de plajă istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gustavsvärn Lighthouse",
+                  "text": "A lighthouse situated on a small fortress island near the port of Hanko.",
+                  "category": "landmark",
+                  "coords": [
+                        22.943574,
+                        59.800949
+                  ]
+            },
+            {
+                  "name": "Meijerfeldtsklippan",
+                  "text": "The remains of historical fortifications located on the rocky coast of Hanko.",
+                  "category": "fortress",
+                  "coords": [
+                        22.943006,
+                        59.815248
+                  ]
+            },
+            {
+                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
+                  "text": "The ruins of an 18th-century fortress built to protect the Hanko peninsula.",
+                  "category": "castle",
+                  "coords": [
+                        22.969177,
+                        59.808305
+                  ]
+            },
+            {
+                  "name": "Hangon museo",
+                  "text": "A local museum documenting the history and maritime heritage of the town of Hanko.",
+                  "category": "museum",
+                  "coords": [
+                        22.95601,
+                        59.827654
+                  ]
+            },
+            {
+                  "name": "Puistovuoren hiidenkirnu",
+                  "text": "Giant's kettles, which are glacial erosion formations, located in the Puistovuori area.",
+                  "category": "natural",
+                  "coords": [
+                        22.981176,
+                        59.820257
+                  ]
+            },
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "A public swimming beach located in the coastal area of Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.926066,
+                        59.831755
+                  ]
+            },
+            {
+                  "name": "Bellevue",
+                  "text": "A popular sandy beach in Hanko known for its scenic views and historic beach huts.",
+                  "category": "recreational",
+                  "coords": [
+                        22.989009,
+                        59.826868
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FI",
     name: { de: "Hafen Hangö Industriezone", hu: "Hanko Kikötő Ipari Zóna", ro: "Zona Industrială Portul Hanko", en: "Hanko Port Industrial Zone" },
@@ -426,7 +975,124 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-seinajoki-food-hub-v2.webp",
   },
   {
-    id: "finland-pyhajoki-energy-zone-v2",
+    id: "finland-pyhajoki-energy-zone-v2", "sights": {
+      "de": [
+            {
+                  "name": "Annalan kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Pyhäjoki, das das traditionelle bäuerliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.269509,
+                        64.469236
+                  ]
+            },
+            {
+                  "name": "Etelänkylän isosilta",
+                  "text": "Eine historische Holzbrücke in Pyhäjoki, die über den gleichnamigen Fluss führt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.241604,
+                        64.458094
+                  ]
+            },
+            {
+                  "name": "Pyhäjoen kirkko",
+                  "text": "Eine klassizistische Kirche in Pyhäjoki, entworfen von Carl Ludwig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        24.255591,
+                        64.468325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Annalan kotiseutumuseo",
+                  "text": "Helytörténeti múzeum Pyhäjokiban, amely a hagyományos paraszti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.269509,
+                        64.469236
+                  ]
+            },
+            {
+                  "name": "Etelänkylän isosilta",
+                  "text": "Történelmi fahíd Pyhäjokiban, amely a hasonló nevű folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        24.241604,
+                        64.458094
+                  ]
+            },
+            {
+                  "name": "Pyhäjoen kirkko",
+                  "text": "Klasszicista templom Pyhäjokiban, amelyet Carl Ludwig Engel tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        24.255591,
+                        64.468325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Annalan kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală din Pyhäjoki ce prezintă viața rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        24.269509,
+                        64.469236
+                  ]
+            },
+            {
+                  "name": "Etelänkylän isosilta",
+                  "text": "Un pod istoric de lemn din Pyhäjoki care traversează râul cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        24.241604,
+                        64.458094
+                  ]
+            },
+            {
+                  "name": "Pyhäjoen kirkko",
+                  "text": "O biserică neoclasică din Pyhäjoki, proiectată de Carl Ludwig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        24.255591,
+                        64.468325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Annalan kotiseutumuseo",
+                  "text": "A local history museum in Pyhäjoki showcasing traditional rural life.",
+                  "category": "museum",
+                  "coords": [
+                        24.269509,
+                        64.469236
+                  ]
+            },
+            {
+                  "name": "Etelänkylän isosilta",
+                  "text": "A historic wooden bridge in Pyhäjoki crossing the river of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        24.241604,
+                        64.458094
+                  ]
+            },
+            {
+                  "name": "Pyhäjoen kirkko",
+                  "text": "A neoclassical church in Pyhäjoki designed by Carl Ludwig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        24.255591,
+                        64.468325
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Pyhäjoki Energiegebiet", hu: "Pyhäjoki Energiaövezet", ro: "Zona Energetică Pyhäjoki", en: "Pyhäjoki Energy Zone" },
@@ -481,6 +1147,42 @@ export const finlandEconomicV2: POI[] = [
                         22.156165,
                         61.319405
                   ]
+            },
+            {
+                  "name": "Emil Cedercreutzin museo",
+                  "text": "Ein Kunst- und Kulturgeschichtsmuseum in Harjavalta, basierend auf dem Werk des Bildhauers Emil Cedercreutz.",
+                  "category": "museum",
+                  "coords": [
+                        22.186399,
+                        61.294289
+                  ]
+            },
+            {
+                  "name": "Harjavallan uusi kirkko",
+                  "text": "Eine moderne lutherische Kirche in Harjavalta, die Mitte des 20. Jahrhunderts fertiggestellt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        22.147003,
+                        61.317151
+                  ]
+            },
+            {
+                  "name": "Harjavallan helluntaiseurakunta",
+                  "text": "Das Gebäude der örtlichen Pfingstgemeinde in Harjavalta.",
+                  "category": "religious",
+                  "coords": [
+                        22.140525,
+                        61.310241
+                  ]
+            },
+            {
+                  "name": "Harjavallan vanha puukirkko",
+                  "text": "Eine historische Holzkirche in Harjavalta, die ursprünglich im 19. Jahrhundert erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        22.149105,
+                        61.316752
+                  ]
             }
       ],
       "hu": [
@@ -491,6 +1193,42 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         22.156165,
                         61.319405
+                  ]
+            },
+            {
+                  "name": "Emil Cedercreutzin museo",
+                  "text": "Művészeti és kultúrtörténeti múzeum Harjavaltában, Emil Cedercreutz szobrászművész munkássága alapján.",
+                  "category": "museum",
+                  "coords": [
+                        22.186399,
+                        61.294289
+                  ]
+            },
+            {
+                  "name": "Harjavallan uusi kirkko",
+                  "text": "Modern evangélikus templom Harjavaltában, amely a 20. század közepén épült.",
+                  "category": "religious",
+                  "coords": [
+                        22.147003,
+                        61.317151
+                  ]
+            },
+            {
+                  "name": "Harjavallan helluntaiseurakunta",
+                  "text": "A helyi pünkösdi gyülekezet temploma Harjavaltában.",
+                  "category": "religious",
+                  "coords": [
+                        22.140525,
+                        61.310241
+                  ]
+            },
+            {
+                  "name": "Harjavallan vanha puukirkko",
+                  "text": "Történelmi fatemplom Harjavaltában, amely eredetileg a 19. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        22.149105,
+                        61.316752
                   ]
             }
       ],
@@ -503,6 +1241,42 @@ export const finlandEconomicV2: POI[] = [
                         22.156165,
                         61.319405
                   ]
+            },
+            {
+                  "name": "Emil Cedercreutzin museo",
+                  "text": "Un muzeu de artă și istorie culturală din Harjavalta, bazat pe opera sculptorului Emil Cedercreutz.",
+                  "category": "museum",
+                  "coords": [
+                        22.186399,
+                        61.294289
+                  ]
+            },
+            {
+                  "name": "Harjavallan uusi kirkko",
+                  "text": "O biserică luterană modernă din Harjavalta, finalizată la mijlocul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        22.147003,
+                        61.317151
+                  ]
+            },
+            {
+                  "name": "Harjavallan helluntaiseurakunta",
+                  "text": "Clădirea bisericii penticostale locale care servește comunitatea din Harjavalta.",
+                  "category": "religious",
+                  "coords": [
+                        22.140525,
+                        61.310241
+                  ]
+            },
+            {
+                  "name": "Harjavallan vanha puukirkko",
+                  "text": "O biserică istorică de lemn din Harjavalta, construită inițial în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        22.149105,
+                        61.316752
+                  ]
             }
       ],
       "en": [
@@ -513,6 +1287,42 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         22.156165,
                         61.319405
+                  ]
+            },
+            {
+                  "name": "Emil Cedercreutzin museo",
+                  "text": "An art and cultural history museum in Harjavalta based on the work of sculptor Emil Cedercreutz.",
+                  "category": "museum",
+                  "coords": [
+                        22.186399,
+                        61.294289
+                  ]
+            },
+            {
+                  "name": "Harjavallan uusi kirkko",
+                  "text": "A modern Lutheran church in Harjavalta, completed in the mid-20th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.147003,
+                        61.317151
+                  ]
+            },
+            {
+                  "name": "Harjavallan helluntaiseurakunta",
+                  "text": "The local Pentecostal church building serving the community in Harjavalta.",
+                  "category": "religious",
+                  "coords": [
+                        22.140525,
+                        61.310241
+                  ]
+            },
+            {
+                  "name": "Harjavallan vanha puukirkko",
+                  "text": "A historic wooden church in Harjavalta, originally built in the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.149105,
+                        61.316752
                   ]
             }
       ]
@@ -561,7 +1371,52 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-harjavalta-metal-works-v2.webp",
   },
   {
-    id: "finland-kilpilahti-industrial-park-v2",
+    id: "finland-kilpilahti-industrial-park-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fågelmossen luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet, das wertvolle Moorlandschaften in der Nähe des Industriegebiets schützt.",
+                  "category": "natural",
+                  "coords": [
+                        25.474002,
+                        60.301287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fågelmossen luonnonsuojelualue",
+                  "text": "Természetvédelmi terület, amely értékes mocsaras vidékeket óv az ipari negyed közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.474002,
+                        60.301287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fågelmossen luonnonsuojelualue",
+                  "text": "O rezervație naturală care protejează zone mlastinoase valoroase în apropierea parcului industrial.",
+                  "category": "natural",
+                  "coords": [
+                        25.474002,
+                        60.301287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fågelmossen luonnonsuojelualue",
+                  "text": "A nature reserve protecting valuable marshlands near the industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        25.474002,
+                        60.301287
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Kilpilahti Industriepark", hu: "Kilpilahti Ipari Park", ro: "Parcul Industrial Kilpilahti", en: "Kilpilahti Industrial Park" },
@@ -1732,6 +2587,69 @@ export const finlandEconomicV2: POI[] = [
                         24.769047,
                         60.303921
                   ]
+            },
+            {
+                  "name": "Vantaan Maatalousmuseo",
+                  "text": "Ein Museum in Vantaa, das sich der landwirtschaftlichen Geschichte Finnlands widmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.875464,
+                        60.287572
+                  ]
+            },
+            {
+                  "name": "Sillbölen kaivokset",
+                  "text": "Eine historische Eisenmine in Vantaa, die heute eine archäologische Stätte ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.866366,
+                        60.268206
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Eine archäologische Fundstätte einer steinzeitlichen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        24.860629,
+                        60.26229
+                  ]
+            },
+            {
+                  "name": "Esihistoriallisen ajan muinaisjäänne",
+                  "text": "Eine archäologische Stätte mit Überresten aus prähistorischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        24.853166,
+                        60.291272
+                  ]
+            },
+            {
+                  "name": "Vaskivuoren kaivos",
+                  "text": "Eine historische Bergbaustätte und archäologisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        24.864979,
+                        60.262542
+                  ]
+            },
+            {
+                  "name": "Myyrmäen kivikautinen punamultakalmisto",
+                  "text": "Ein prähistorischer Friedhof aus der Steinzeit, bekannt für Rötelfunde.",
+                  "category": "historical",
+                  "coords": [
+                        24.853287,
+                        60.26131
+                  ]
+            },
+            {
+                  "name": "Lobby Myyrmäki",
+                  "text": "Ein lokaler Veranstaltungsort für Theater und Kultur in Myyrmäki.",
+                  "category": "cultural",
+                  "coords": [
+                        24.855404,
+                        60.261765
+                  ]
             }
       ],
       "hu": [
@@ -1742,6 +2660,69 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.769047,
                         60.303921
+                  ]
+            },
+            {
+                  "name": "Vantaan Maatalousmuseo",
+                  "text": "Vantaa múzeuma, amely Finnország mezőgazdasági történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        24.875464,
+                        60.287572
+                  ]
+            },
+            {
+                  "name": "Sillbölen kaivokset",
+                  "text": "Történelmi vasbánya Vantaában, amely ma régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        24.866366,
+                        60.268206
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Egy kőkorszaki település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        24.860629,
+                        60.26229
+                  ]
+            },
+            {
+                  "name": "Esihistoriallisen ajan muinaisjäänne",
+                  "text": "Őskori maradványokat őrző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        24.853166,
+                        60.291272
+                  ]
+            },
+            {
+                  "name": "Vaskivuoren kaivos",
+                  "text": "Történelmi bányászati helyszín és régészeti emlék.",
+                  "category": "historical",
+                  "coords": [
+                        24.864979,
+                        60.262542
+                  ]
+            },
+            {
+                  "name": "Myyrmäen kivikautinen punamultakalmisto",
+                  "text": "Kőkorszaki őskori temető, amely vörös okkeres leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        24.853287,
+                        60.26131
+                  ]
+            },
+            {
+                  "name": "Lobby Myyrmäki",
+                  "text": "Helyi színházi és kulturális helyszín Myyrmäkiben.",
+                  "category": "cultural",
+                  "coords": [
+                        24.855404,
+                        60.261765
                   ]
             }
       ],
@@ -1754,6 +2735,69 @@ export const finlandEconomicV2: POI[] = [
                         24.769047,
                         60.303921
                   ]
+            },
+            {
+                  "name": "Vantaan Maatalousmuseo",
+                  "text": "Un muzeu din Vantaa dedicat istoriei agricole a Finlandei.",
+                  "category": "museum",
+                  "coords": [
+                        24.875464,
+                        60.287572
+                  ]
+            },
+            {
+                  "name": "Sillbölen kaivokset",
+                  "text": "O mină istorică de fier în Vantaa, care astăzi este un sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        24.866366,
+                        60.268206
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Un sit arheologic al unei așezări din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        24.860629,
+                        60.26229
+                  ]
+            },
+            {
+                  "name": "Esihistoriallisen ajan muinaisjäänne",
+                  "text": "Un sit arheologic cu vestigii din perioada preistorică.",
+                  "category": "historical",
+                  "coords": [
+                        24.853166,
+                        60.291272
+                  ]
+            },
+            {
+                  "name": "Vaskivuoren kaivos",
+                  "text": "Un sit minier istoric și monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        24.864979,
+                        60.262542
+                  ]
+            },
+            {
+                  "name": "Myyrmäen kivikautinen punamultakalmisto",
+                  "text": "Un cimitir preistoric din epoca pietrei, cunoscut pentru descoperirile de ocru roșu.",
+                  "category": "historical",
+                  "coords": [
+                        24.853287,
+                        60.26131
+                  ]
+            },
+            {
+                  "name": "Lobby Myyrmäki",
+                  "text": "O locație locală pentru teatru și cultură în Myyrmäki.",
+                  "category": "cultural",
+                  "coords": [
+                        24.855404,
+                        60.261765
+                  ]
             }
       ],
       "en": [
@@ -1764,6 +2808,69 @@ export const finlandEconomicV2: POI[] = [
                   "coords": [
                         24.769047,
                         60.303921
+                  ]
+            },
+            {
+                  "name": "Vantaan Maatalousmuseo",
+                  "text": "A museum in Vantaa dedicated to the agricultural history of Finland.",
+                  "category": "museum",
+                  "coords": [
+                        24.875464,
+                        60.287572
+                  ]
+            },
+            {
+                  "name": "Sillbölen kaivokset",
+                  "text": "A historic iron mine in Vantaa, now an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        24.866366,
+                        60.268206
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "An archaeological site of a Stone Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        24.860629,
+                        60.26229
+                  ]
+            },
+            {
+                  "name": "Esihistoriallisen ajan muinaisjäänne",
+                  "text": "An archaeological site containing remains from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        24.853166,
+                        60.291272
+                  ]
+            },
+            {
+                  "name": "Vaskivuoren kaivos",
+                  "text": "A historic mining site and archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        24.864979,
+                        60.262542
+                  ]
+            },
+            {
+                  "name": "Myyrmäki's stone age red ochre cemetery",
+                  "text": "A prehistoric cemetery from the Stone Age, known for red ochre finds.",
+                  "category": "historical",
+                  "coords": [
+                        24.853287,
+                        60.26131
+                  ]
+            },
+            {
+                  "name": "Lobby Myyrmäki",
+                  "text": "A local venue for theatre and culture in Myyrmäki.",
+                  "category": "cultural",
+                  "coords": [
+                        24.855404,
+                        60.261765
                   ]
             }
       ]

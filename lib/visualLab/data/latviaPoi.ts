@@ -3264,7 +3264,268 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-cesis",
+    id: "lv-cesis", "sights": {
+      "de": [
+            {
+                  "name": "Schloß Wenden",
+                  "text": "Beeindruckende Ruinen einer mittelalterlichen Burg des Livländischen Ordens.",
+                  "category": "castle",
+                  "coords": [
+                        25.270326,
+                        57.313456
+                  ]
+            },
+            {
+                  "name": "Riekstukalns",
+                  "text": "Archäologische Stätte einer alten Wallburg in der Stadt Cēsis.",
+                  "category": "historical",
+                  "coords": [
+                        25.268839,
+                        57.313729
+                  ]
+            },
+            {
+                  "name": "Das Feuer des Gewissens",
+                  "text": "Museum und Ausstellung in Cēsis zur Geschichte von Besatzung und Widerstand.",
+                  "category": "museum",
+                  "coords": [
+                        25.272914,
+                        57.313596
+                  ]
+            },
+            {
+                  "name": "Uzvaras piemineklis 1924-1951",
+                  "text": "Siegesdenkmal in Cēsis zur Erinnerung an historische Schlachten.",
+                  "category": "historical",
+                  "coords": [
+                        25.274883,
+                        57.313081
+                  ]
+            },
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Erholungsgebiet und Strand in einem ehemaligen Steinbruch.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            },
+            {
+                  "name": "Museum der nordischen Naturheilkunde",
+                  "text": "Museum in Cēsis zur traditionellen nordischen Naturheilkunde und Pflanzen.",
+                  "category": "museum",
+                  "coords": [
+                        25.27181,
+                        57.313991
+                  ]
+            },
+            {
+                  "name": "Kosmosa izziņas centrs",
+                  "text": "Wissenschafts- und Bildungszentrum in Cēsis mit Schwerpunkt Weltraumforschung.",
+                  "category": "museum",
+                  "coords": [
+                        25.236518,
+                        57.301559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cēsu pilsdrupas",
+                  "text": "A Livóniai Lovagrend középkori várának lenyűgöző romjai.",
+                  "category": "castle",
+                  "coords": [
+                        25.270326,
+                        57.313456
+                  ]
+            },
+            {
+                  "name": "Riekstukalns",
+                  "text": "Egy ősi földvár régészeti lelőhelye Cēsis városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.268839,
+                        57.313729
+                  ]
+            },
+            {
+                  "name": "Sirdsapziņas ugunskurs",
+                  "text": "Múzeum és kiállítás Cēsisben a megszállások és az ellenállás történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        25.272914,
+                        57.313596
+                  ]
+            },
+            {
+                  "name": "Uzvaras piemineklis 1924-1951",
+                  "text": "Győzelmi emlékmű Cēsisben a történelmi csaták emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        25.274883,
+                        57.313081
+                  ]
+            },
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Pihenőpark és strand egy korábbi kőbánya területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            },
+            {
+                  "name": "Ziemeļu dabas medicīnas muzejs",
+                  "text": "A hagyományos északi természetgyógyászatot és gyógynövényeket bemutató múzeum Cēsisben.",
+                  "category": "museum",
+                  "coords": [
+                        25.27181,
+                        57.313991
+                  ]
+            },
+            {
+                  "name": "Kosmosa izziņas centrs",
+                  "text": "Tudományos és oktatási központ Cēsisben, a világűrkutatásra összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        25.236518,
+                        57.301559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cēsu pilsdrupas",
+                  "text": "Ruinele impresionante ale unui castel medieval care a aparținut Ordinului Livonian.",
+                  "category": "castle",
+                  "coords": [
+                        25.270326,
+                        57.313456
+                  ]
+            },
+            {
+                  "name": "Riekstukalns",
+                  "text": "Sit arheologic al unei vechi cetăți fortificate în orașul Cēsis.",
+                  "category": "historical",
+                  "coords": [
+                        25.268839,
+                        57.313729
+                  ]
+            },
+            {
+                  "name": "Sirdsapziņas ugunskurs",
+                  "text": "Muzeu și expoziție în Cēsis dedicate istoriei ocupațiilor și rezistenței.",
+                  "category": "museum",
+                  "coords": [
+                        25.272914,
+                        57.313596
+                  ]
+            },
+            {
+                  "name": "Uzvaras piemineklis 1924-1951",
+                  "text": "Monument al victoriei în Cēsis, comemorând bătălii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        25.274883,
+                        57.313081
+                  ]
+            },
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Zonă de recreere și plajă situată într-o fostă carieră de piatră.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            },
+            {
+                  "name": "Ziemeļu dabas medicīnas muzejs",
+                  "text": "Muzeu în Cēsis dedicat practicilor tradiționale de medicină naturistă nordică și plantelor.",
+                  "category": "museum",
+                  "coords": [
+                        25.27181,
+                        57.313991
+                  ]
+            },
+            {
+                  "name": "Kosmosa izziņas centrs",
+                  "text": "Centru științific și educațional în Cēsis concentrat pe explorarea spațială.",
+                  "category": "museum",
+                  "coords": [
+                        25.236518,
+                        57.301559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cēsis Castle",
+                  "text": "Impressive ruins of a medieval castle once belonging to the Livonian Order.",
+                  "category": "castle",
+                  "coords": [
+                        25.270326,
+                        57.313456
+                  ]
+            },
+            {
+                  "name": "Riekstukalns",
+                  "text": "Archaeological site of an ancient hill fort in the town of Cēsis.",
+                  "category": "historical",
+                  "coords": [
+                        25.268839,
+                        57.313729
+                  ]
+            },
+            {
+                  "name": "Burning Conscience",
+                  "text": "Museum and exhibition in Cēsis focused on the history of occupations and resistance.",
+                  "category": "museum",
+                  "coords": [
+                        25.272914,
+                        57.313596
+                  ]
+            },
+            {
+                  "name": "Uzvaras piemineklis 1924-1951",
+                  "text": "Victory monument in Cēsis commemorating historical battles.",
+                  "category": "historical",
+                  "coords": [
+                        25.274883,
+                        57.313081
+                  ]
+            },
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Recreation area and beach located in a former quarry.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            },
+            {
+                  "name": "Nordic Nature Medicine Museum",
+                  "text": "Museum in Cēsis dedicated to traditional Nordic medicinal practices and plants.",
+                  "category": "museum",
+                  "coords": [
+                        25.27181,
+                        57.313991
+                  ]
+            },
+            {
+                  "name": "Kosmosa izziņas centrs",
+                  "text": "Science and education center in Cēsis focused on space exploration.",
+                  "category": "museum",
+                  "coords": [
+                        25.236518,
+                        57.301559
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.2746, 57.3119],
@@ -4163,7 +4424,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-gauja",
+    id: "lv-gauja", "sights": {
+      "de": [
+            {
+                  "name": "Līgatnes pilskalns",
+                  "text": "Eine antike Wallburg im Gauja-Nationalpark, die einen Einblick in die frühe Geschichte Lettlands bietet.",
+                  "category": "historical",
+                  "coords": [
+                        25.056656,
+                        57.242627
+                  ]
+            },
+            {
+                  "name": "Kalnatītmaņu pilskalns",
+                  "text": "Eine archäologische Stätte einer alten Festung im Gauja-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        24.97972,
+                        57.23833
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Ein historischer Burgberg im Gauja-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        25.03805,
+                        57.24527
+                  ]
+            },
+            {
+                  "name": "Velosipēdu muzejs",
+                  "text": "Ein Museum im Gauja-Nationalpark, das die Geschichte des Fahrradfahrens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.040196,
+                        57.233546
+                  ]
+            },
+            {
+                  "name": "Līgatnes bunkurs",
+                  "text": "Ein ehemaliger geheimer sowjetischer Bunker in Līgatne, heute eine touristische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        25.068769,
+                        57.25565
+                  ]
+            },
+            {
+                  "name": "Lustūzis",
+                  "text": "Ein markanter Sandsteinfelsen und eine natürliche Sehenswürdigkeit im Gauja-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        25.041859,
+                        57.233274
+                  ]
+            },
+            {
+                  "name": "Anfabrikas klints",
+                  "text": "Ein Aussichtspunkt an einer Sandsteinklippe mit Blick auf die Umgebung von Līgatne.",
+                  "category": "natural",
+                  "coords": [
+                        25.046133,
+                        57.230911
+                  ]
+            },
+            {
+                  "name": "Spriņģu iezis",
+                  "text": "Eine beeindruckende Felsformation aus Sandstein am Fluss Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061684,
+                        57.253157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Līgatnes pilskalns",
+                  "text": "Ősi várhely a Gauja Nemzeti Parkban, amely betekintést nyújt Lettország korai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        25.056656,
+                        57.242627
+                  ]
+            },
+            {
+                  "name": "Kalnatītmaņu pilskalns",
+                  "text": "Egy ősi erődítmény régészeti lelőhelye a Gauja Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        24.97972,
+                        57.23833
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Történelmi várhely a Gauja Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        25.03805,
+                        57.24527
+                  ]
+            },
+            {
+                  "name": "Velosipēdu muzejs",
+                  "text": "A kerékpározás történetét bemutató múzeum a Gauja Nemzeti Park területén.",
+                  "category": "museum",
+                  "coords": [
+                        25.040196,
+                        57.233546
+                  ]
+            },
+            {
+                  "name": "Līgatnes bunkurs",
+                  "text": "Egykori titkos szovjet bunker Līgatnében, amely ma turisztikai látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        25.068769,
+                        57.25565
+                  ]
+            },
+            {
+                  "name": "Lustūzis",
+                  "text": "Jellegzetes homokkő szikla és természeti látnivaló a Gauja Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.041859,
+                        57.233274
+                  ]
+            },
+            {
+                  "name": "Anfabrikas klints",
+                  "text": "Kilátópont egy homokkő sziklán, kilátással Līgatne környékére.",
+                  "category": "natural",
+                  "coords": [
+                        25.046133,
+                        57.230911
+                  ]
+            },
+            {
+                  "name": "Spriņģu iezis",
+                  "text": "Lenyűgöző homokkő sziklaformáció a Gauja-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061684,
+                        57.253157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Līgatnes pilskalns",
+                  "text": "Un vechi sit de fortificație în Parcul Național Gauja, oferind o perspectivă asupra istoriei timpurii a Letoniei.",
+                  "category": "historical",
+                  "coords": [
+                        25.056656,
+                        57.242627
+                  ]
+            },
+            {
+                  "name": "Kalnatītmaņu pilskalns",
+                  "text": "Situl arheologic al unei vechi fortificații în Parcul Național Gauja.",
+                  "category": "historical",
+                  "coords": [
+                        24.97972,
+                        57.23833
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Un sit istoric de fortificație pe deal în Parcul Național Gauja.",
+                  "category": "historical",
+                  "coords": [
+                        25.03805,
+                        57.24527
+                  ]
+            },
+            {
+                  "name": "Velosipēdu muzejs",
+                  "text": "Un muzeu din Parcul Național Gauja care documentează istoria bicicletelor.",
+                  "category": "museum",
+                  "coords": [
+                        25.040196,
+                        57.233546
+                  ]
+            },
+            {
+                  "name": "Līgatnes bunkurs",
+                  "text": "Un fost buncăr sovietic secret în Līgatne, astăzi o atracție turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        25.068769,
+                        57.25565
+                  ]
+            },
+            {
+                  "name": "Lustūzis",
+                  "text": "O stâncă de gresie proeminentă și un obiectiv natural în Parcul Național Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.041859,
+                        57.233274
+                  ]
+            },
+            {
+                  "name": "Anfabrikas klints",
+                  "text": "Un punct de belvedere pe o stâncă de gresie, oferind vederi asupra împrejurimilor Līgatne.",
+                  "category": "natural",
+                  "coords": [
+                        25.046133,
+                        57.230911
+                  ]
+            },
+            {
+                  "name": "Spriņģu iezis",
+                  "text": "O formațiune stâncoasă impresionantă de gresie pe malul râului Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061684,
+                        57.253157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Līgatnes pilskalns",
+                  "text": "An ancient hillfort site in Gauja National Park, offering insight into Latvia's early history.",
+                  "category": "historical",
+                  "coords": [
+                        25.056656,
+                        57.242627
+                  ]
+            },
+            {
+                  "name": "Kalnatītmaņu pilskalns",
+                  "text": "The archaeological site of an ancient fortification in Gauja National Park.",
+                  "category": "historical",
+                  "coords": [
+                        24.97972,
+                        57.23833
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "A historic hillfort site in Gauja National Park.",
+                  "category": "historical",
+                  "coords": [
+                        25.03805,
+                        57.24527
+                  ]
+            },
+            {
+                  "name": "Velosipēdu muzejs",
+                  "text": "A museum in Gauja National Park documenting the history of bicycles.",
+                  "category": "museum",
+                  "coords": [
+                        25.040196,
+                        57.233546
+                  ]
+            },
+            {
+                  "name": "Līgatnes bunkurs",
+                  "text": "A former secret Soviet bunker in Līgatne, now a tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        25.068769,
+                        57.25565
+                  ]
+            },
+            {
+                  "name": "Lustūzis",
+                  "text": "A prominent sandstone cliff and natural landmark in Gauja National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        25.041859,
+                        57.233274
+                  ]
+            },
+            {
+                  "name": "Anfabrikas klints",
+                  "text": "A viewpoint on a sandstone cliff offering views over the Līgatne area.",
+                  "category": "natural",
+                  "coords": [
+                        25.046133,
+                        57.230911
+                  ]
+            },
+            {
+                  "name": "Spriņģu iezis",
+                  "text": "An impressive sandstone rock formation along the Gauja river.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061684,
+                        57.253157
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [25.0333, 57.2500],
@@ -4212,7 +4770,268 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-rundale",
+    id: "lv-rundale", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Ruhenthal",
+                  "text": "Ein bedeutendes Barockschloss in Lettland, das von Bartolomeo Rastrelli entworfen wurde.",
+                  "category": "castle",
+                  "coords": [
+                        24.025018,
+                        56.413613
+                  ]
+            },
+            {
+                  "name": "Mežotnes pilskalns ar senpilsētu",
+                  "text": "Eine archäologische Stätte mit einem alten Burgberg und einer Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        24.045233,
+                        56.441611
+                  ]
+            },
+            {
+                  "name": "Mežotnes vīna kalns",
+                  "text": "Ein historischer Burgberg und eine archäologische Stätte in Mežotne.",
+                  "category": "historical",
+                  "coords": [
+                        24.042944,
+                        56.435341
+                  ]
+            },
+            {
+                  "name": "Mazmežotnes muiža",
+                  "text": "Ein Herrenhaus und Schlossensemble in der Nähe von Rundāle.",
+                  "category": "castle",
+                  "coords": [
+                        24.04853,
+                        56.431244
+                  ]
+            },
+            {
+                  "name": "Vecās Rundāles pils pamati",
+                  "text": "Die archäologischen Überreste und Fundamente der alten Burg von Rundāle.",
+                  "category": "historical",
+                  "coords": [
+                        24.030559,
+                        56.415746
+                  ]
+            },
+            {
+                  "name": "Schloss Mesothen",
+                  "text": "Ein klassizistisches Herrenhaus in Lettland, das für seine Architektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.052604,
+                        56.438866
+                  ]
+            },
+            {
+                  "name": "Spožas skudras taka",
+                  "text": "Ein thematischer Wanderpfad und eine Besucherattraktion in Rundāle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.04492,
+                        56.440222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rundāles pils",
+                  "text": "Lettország legjelentősebb barokk kastélya, amelyet Bartolomeo Rastrelli tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        24.025018,
+                        56.413613
+                  ]
+            },
+            {
+                  "name": "Mežotnes pilskalns ar senpilsētu",
+                  "text": "Régészeti lelőhely egy ősi várheggyel és településmaradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        24.045233,
+                        56.441611
+                  ]
+            },
+            {
+                  "name": "Mežotnes vīna kalns",
+                  "text": "Történelmi várhegy és régészeti lelőhely Mežotne területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.042944,
+                        56.435341
+                  ]
+            },
+            {
+                  "name": "Mazmežotnes muiža",
+                  "text": "Kúria és kastélyegyüttes Rundāle közelében.",
+                  "category": "castle",
+                  "coords": [
+                        24.04853,
+                        56.431244
+                  ]
+            },
+            {
+                  "name": "Vecās Rundāles pils pamati",
+                  "text": "A régi rundālei vár régészeti maradványai és alapjai.",
+                  "category": "historical",
+                  "coords": [
+                        24.030559,
+                        56.415746
+                  ]
+            },
+            {
+                  "name": "Mežotnes pils",
+                  "text": "Klasszicista stílusú kastély Lettországban, amely építészetéről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        24.052604,
+                        56.438866
+                  ]
+            },
+            {
+                  "name": "Spožas skudras taka",
+                  "text": "Tematikus tanösvény és látogatói attrakció Rundāle területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.04492,
+                        56.440222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rundāles pils",
+                  "text": "Un palat baroc remarcabil din Letonia, proiectat de Bartolomeo Rastrelli.",
+                  "category": "castle",
+                  "coords": [
+                        24.025018,
+                        56.413613
+                  ]
+            },
+            {
+                  "name": "Mežotnes pilskalns ar senpilsētu",
+                  "text": "Un sit arheologic care cuprinde o veche cetate și o așezare.",
+                  "category": "historical",
+                  "coords": [
+                        24.045233,
+                        56.441611
+                  ]
+            },
+            {
+                  "name": "Mežotnes vīna kalns",
+                  "text": "O cetate istorică și un sit arheologic în Mežotne.",
+                  "category": "historical",
+                  "coords": [
+                        24.042944,
+                        56.435341
+                  ]
+            },
+            {
+                  "name": "Mazmežotnes muiža",
+                  "text": "Un conac și un ansamblu de castel situat lângă Rundāle.",
+                  "category": "castle",
+                  "coords": [
+                        24.04853,
+                        56.431244
+                  ]
+            },
+            {
+                  "name": "Vecās Rundāles pils pamati",
+                  "text": "Vestigiile arheologice și fundațiile vechiului castel din Rundāle.",
+                  "category": "historical",
+                  "coords": [
+                        24.030559,
+                        56.415746
+                  ]
+            },
+            {
+                  "name": "Mežotnes pils",
+                  "text": "Un conac neoclasic din Letonia, cunoscut pentru arhitectura sa.",
+                  "category": "historical",
+                  "coords": [
+                        24.052604,
+                        56.438866
+                  ]
+            },
+            {
+                  "name": "Spožas skudras taka",
+                  "text": "Un traseu tematic și o atracție pentru vizitatori în Rundāle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.04492,
+                        56.440222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rundāle Palace",
+                  "text": "A significant Baroque palace in Latvia, designed by Bartolomeo Rastrelli.",
+                  "category": "castle",
+                  "coords": [
+                        24.025018,
+                        56.413613
+                  ]
+            },
+            {
+                  "name": "Mežotnes pilskalns ar senpilsētu",
+                  "text": "An archaeological site featuring an ancient hillfort and settlement.",
+                  "category": "historical",
+                  "coords": [
+                        24.045233,
+                        56.441611
+                  ]
+            },
+            {
+                  "name": "Mežotnes vīna kalns",
+                  "text": "A historical hillfort and archaeological site located in Mežotne.",
+                  "category": "historical",
+                  "coords": [
+                        24.042944,
+                        56.435341
+                  ]
+            },
+            {
+                  "name": "Mazmežotnes muiža",
+                  "text": "A manor house and castle estate located near Rundāle.",
+                  "category": "castle",
+                  "coords": [
+                        24.04853,
+                        56.431244
+                  ]
+            },
+            {
+                  "name": "Vecās Rundāles pils pamati",
+                  "text": "The archaeological remains and foundations of the old Rundāle castle.",
+                  "category": "historical",
+                  "coords": [
+                        24.030559,
+                        56.415746
+                  ]
+            },
+            {
+                  "name": "Mežotne palace",
+                  "text": "A neoclassical manor house in Latvia, known for its architecture.",
+                  "category": "historical",
+                  "coords": [
+                        24.052604,
+                        56.438866
+                  ]
+            },
+            {
+                  "name": "The trail of jet ant",
+                  "text": "A themed walking trail and visitor attraction in Rundāle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.04492,
+                        56.440222
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [24.0244, 56.4133],
@@ -8879,6 +9698,15 @@ export const latviaAllPoi = [
                         26.183603,
                         56.415965
                   ]
+            },
+            {
+                  "name": "Latgale Art and Craft Centre",
+                  "text": "Zentrum für Kunst und Handwerk der Region Latgale in Līvāni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.163253,
+                        56.355493
+                  ]
             }
       ],
       "hu": [
@@ -8952,6 +9780,15 @@ export const latviaAllPoi = [
                   "coords": [
                         26.183603,
                         56.415965
+                  ]
+            },
+            {
+                  "name": "Latgale Art and Craft Centre",
+                  "text": "Latgale művészeti és kézműves központja Līvāniban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.163253,
+                        56.355493
                   ]
             }
       ],
@@ -9027,6 +9864,15 @@ export const latviaAllPoi = [
                         26.183603,
                         56.415965
                   ]
+            },
+            {
+                  "name": "Latgale Art and Craft Centre",
+                  "text": "Centrul de artă și meșteșuguri din Latgale, situat în Līvāni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.163253,
+                        56.355493
+                  ]
             }
       ],
       "en": [
@@ -9100,6 +9946,15 @@ export const latviaAllPoi = [
                   "coords": [
                         26.183603,
                         56.415965
+                  ]
+            },
+            {
+                  "name": "Latgale Art and Craft Centre",
+                  "text": "Art and craft centre of the Latgale region in Līvāni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.163253,
+                        56.355493
                   ]
             }
       ]
@@ -9453,7 +10308,268 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-koknese-castle-ruins",
+    id: "lv-koknese-castle-ruins", "sights": {
+      "de": [
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Die Zviedru skansts ist eine historische Befestigungsanlage bei den Burgruinen von Koknese.",
+                  "category": "historical",
+                  "coords": [
+                        25.404096,
+                        56.640151
+                  ]
+            },
+            {
+                  "name": "Burg Kokenhusen",
+                  "text": "Ruinen einer mittelalterlichen Burg am Zusammenfluss von Düna und Perse.",
+                  "category": "historical",
+                  "coords": [
+                        25.417417,
+                        56.638006
+                  ]
+            },
+            {
+                  "name": "Vecais krogs",
+                  "text": "Ruinen eines alten Gasthauses in der Nähe des Burgkomplexes von Koknese.",
+                  "category": "historical",
+                  "coords": [
+                        25.415298,
+                        56.638946
+                  ]
+            },
+            {
+                  "name": "Skatu terase",
+                  "text": "Eine Aussichtsplattform mit Blick auf die Düna und die Burgruinen.",
+                  "category": "natural",
+                  "coords": [
+                        25.430285,
+                        56.636462
+                  ]
+            },
+            {
+                  "name": "Altenes viduslaiku pilsdrupas (appludinātas)",
+                  "text": "Überflutete Ruinen einer mittelalterlichen Burg in der Düna.",
+                  "category": "landmark",
+                  "coords": [
+                        25.451933,
+                        56.620569
+                  ]
+            },
+            {
+                  "name": "Pērses ūdenskrituma atveids",
+                  "text": "Eine künstliche Nachbildung des historischen Perse-Wasserfalls, der überflutet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.425209,
+                        56.643298
+                  ]
+            },
+            {
+                  "name": "Kokneses Evaņģēliski luteriskā baznīca",
+                  "text": "Eine historische evangelisch-lutherische Kirche in Koknese, erbaut im 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        25.433402,
+                        56.641234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zviedru skansts",
+                  "text": "A Zviedru skansts egy történelmi erődítmény a koknesei várromok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.404096,
+                        56.640151
+                  ]
+            },
+            {
+                  "name": "Kokneses pils",
+                  "text": "Egy középkori vár romjai a Daugava és a Pērse folyók találkozásánál.",
+                  "category": "historical",
+                  "coords": [
+                        25.417417,
+                        56.638006
+                  ]
+            },
+            {
+                  "name": "Vecais krogs",
+                  "text": "Egy régi fogadó romjai a koknesei várkomplexum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.415298,
+                        56.638946
+                  ]
+            },
+            {
+                  "name": "Skatu terase",
+                  "text": "Kilátóterasz, ahonnan festői kilátás nyílik a Daugava folyóra és a várromokra.",
+                  "category": "natural",
+                  "coords": [
+                        25.430285,
+                        56.636462
+                  ]
+            },
+            {
+                  "name": "Altenes viduslaiku pilsdrupas (appludinātas)",
+                  "text": "Egy középkori vár víz alá került romjai a Daugava folyóban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.451933,
+                        56.620569
+                  ]
+            },
+            {
+                  "name": "Pērses ūdenskrituma atveids",
+                  "text": "A történelmi Pērse-vízesés mesterséges reprodukciója, amelyet elárasztottak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.425209,
+                        56.643298
+                  ]
+            },
+            {
+                  "name": "Kokneses Evaņģēliski luteriskā baznīca",
+                  "text": "Egy történelmi evangélikus templom Koknesében, amely a 17. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        25.433402,
+                        56.641234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Zviedru skansts este o fortificație istorică situată lângă ruinele castelului Koknese.",
+                  "category": "historical",
+                  "coords": [
+                        25.404096,
+                        56.640151
+                  ]
+            },
+            {
+                  "name": "Kokneses pils",
+                  "text": "Ruinele unui castel medieval situat la confluența râurilor Daugava și Pērse.",
+                  "category": "historical",
+                  "coords": [
+                        25.417417,
+                        56.638006
+                  ]
+            },
+            {
+                  "name": "Vecais krogs",
+                  "text": "Ruinele unei vechi taverne situate lângă complexul castelului Koknese.",
+                  "category": "historical",
+                  "coords": [
+                        25.415298,
+                        56.638946
+                  ]
+            },
+            {
+                  "name": "Skatu terase",
+                  "text": "O terasă de observație care oferă vederi panoramice asupra râului Daugava și a ruinelor castelului.",
+                  "category": "natural",
+                  "coords": [
+                        25.430285,
+                        56.636462
+                  ]
+            },
+            {
+                  "name": "Altenes viduslaiku pilsdrupas (appludinātas)",
+                  "text": "Ruinele inundate ale unui castel medieval în râul Daugava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.451933,
+                        56.620569
+                  ]
+            },
+            {
+                  "name": "Pērses ūdenskrituma atveids",
+                  "text": "O reproducere artificială a cascadei istorice Pērse care a fost inundată.",
+                  "category": "landmark",
+                  "coords": [
+                        25.425209,
+                        56.643298
+                  ]
+            },
+            {
+                  "name": "Kokneses Evaņģēliski luteriskā baznīca",
+                  "text": "O biserică evanghelică luterană istorică din Koknese, construită în secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        25.433402,
+                        56.641234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Zviedru skansts is a historical fortification located near the Koknese castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        25.404096,
+                        56.640151
+                  ]
+            },
+            {
+                  "name": "Kokneses pils",
+                  "text": "Ruins of a medieval castle located at the confluence of the Daugava and Pērse rivers.",
+                  "category": "historical",
+                  "coords": [
+                        25.417417,
+                        56.638006
+                  ]
+            },
+            {
+                  "name": "Vecais krogs",
+                  "text": "Ruins of an old tavern located near the Koknese castle complex.",
+                  "category": "historical",
+                  "coords": [
+                        25.415298,
+                        56.638946
+                  ]
+            },
+            {
+                  "name": "Skatu terase",
+                  "text": "A viewing platform offering scenic vistas of the Daugava river and the castle ruins.",
+                  "category": "natural",
+                  "coords": [
+                        25.430285,
+                        56.636462
+                  ]
+            },
+            {
+                  "name": "Altenes viduslaiku pilsdrupas (appludinātas)",
+                  "text": "Submerged ruins of a medieval castle in the Daugava river.",
+                  "category": "landmark",
+                  "coords": [
+                        25.451933,
+                        56.620569
+                  ]
+            },
+            {
+                  "name": "Reproduction of Pērse Waterfall",
+                  "text": "A man-made reproduction of the historic Pērse waterfall that was flooded.",
+                  "category": "landmark",
+                  "coords": [
+                        25.425209,
+                        56.643298
+                  ]
+            },
+            {
+                  "name": "Kokneses Evaņģēliski luteriskā baznīca",
+                  "text": "A historic Evangelical Lutheran church in Koknese, built in the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        25.433402,
+                        56.641234
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "lv-country",
     coords: [25.4336, 56.6464],
@@ -9938,7 +11054,124 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-gaizinkalns",
+    id: "lv-gaizinkalns", "sights": {
+      "de": [
+            {
+                  "name": "Gožu senkapi",
+                  "text": "Eine antike Begräbnisstätte in der Nähe des Gaiziņkalns, des höchsten Berges Lettlands.",
+                  "category": "historical",
+                  "coords": [
+                        25.927853,
+                        56.846912
+                  ]
+            },
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Vestiena”",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von Gaiziņkalns, das für seine malerische Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.91643,
+                        56.880458
+                  ]
+            },
+            {
+                  "name": "Gaising",
+                  "text": "Der höchste Hügel Lettlands, der einen weiten Panoramablick über die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.959357,
+                        56.870041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gožu senkapi",
+                  "text": "Ősi temetkezési hely Lettország legmagasabb hegye, a Gaiziņkalns közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.927853,
+                        56.846912
+                  ]
+            },
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Vestiena”",
+                  "text": "Gaiziņkalns közelében található tájvédelmi körzet, amely festői dombjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.91643,
+                        56.880458
+                  ]
+            },
+            {
+                  "name": "Gaiziņkalns",
+                  "text": "Lettország legmagasabb pontja, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.959357,
+                        56.870041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gožu senkapi",
+                  "text": "Un vechi loc de înmormântare situat lângă Gaiziņkalns, cel mai înalt munte din Letonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.927853,
+                        56.846912
+                  ]
+            },
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Vestiena”",
+                  "text": "O arie naturală protejată lângă Gaiziņkalns, cunoscută pentru peisajele sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        25.91643,
+                        56.880458
+                  ]
+            },
+            {
+                  "name": "Gaiziņkalns",
+                  "text": "Cel mai înalt deal din Letonia, oferind o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        25.959357,
+                        56.870041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gožu senkapi",
+                  "text": "An ancient burial ground located near Gaiziņkalns, the highest mountain in Latvia.",
+                  "category": "historical",
+                  "coords": [
+                        25.927853,
+                        56.846912
+                  ]
+            },
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Vestiena”",
+                  "text": "A protected nature area near Gaiziņkalns known for its scenic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        25.91643,
+                        56.880458
+                  ]
+            },
+            {
+                  "name": "Gaiziņkalns",
+                  "text": "The highest hill in Latvia, offering a panoramic view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.959357,
+                        56.870041
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "lv-country",
     coords: [25.959, 56.878],
@@ -10026,7 +11259,88 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-gauja-river",
+    id: "lv-gauja-river", "sights": {
+      "de": [
+            {
+                  "name": "Anšlava Eglīša muzejs",
+                  "text": "Ein dem lettischen Schriftsteller Anšlavs Eglītis gewidmetes Museum am Fluss Gauja.",
+                  "category": "museum",
+                  "coords": [
+                        24.878091,
+                        57.257113
+                  ]
+            },
+            {
+                  "name": "Inciema senkrasta rezervāts",
+                  "text": "Ein Naturschutzgebiet am historischen Ufer der Gauja bei Inciems.",
+                  "category": "natural",
+                  "coords": [
+                        24.90618,
+                        57.243516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anšlava Eglīša muzejs",
+                  "text": "Anšlavs Eglītis lett írónak szentelt múzeum a Gauja folyónál.",
+                  "category": "museum",
+                  "coords": [
+                        24.878091,
+                        57.257113
+                  ]
+            },
+            {
+                  "name": "Inciema senkrasta rezervāts",
+                  "text": "Természetvédelmi terület a Gauja folyó történelmi partján Inciemsnél.",
+                  "category": "natural",
+                  "coords": [
+                        24.90618,
+                        57.243516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anšlava Eglīša muzejs",
+                  "text": "Un muzeu dedicat scriitorului leton Anšlavs Eglītis, situat lângă râul Gauja.",
+                  "category": "museum",
+                  "coords": [
+                        24.878091,
+                        57.257113
+                  ]
+            },
+            {
+                  "name": "Inciema senkrasta rezervāts",
+                  "text": "O rezervație naturală pe malul istoric al râului Gauja, la Inciems.",
+                  "category": "natural",
+                  "coords": [
+                        24.90618,
+                        57.243516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anšlava Eglīša muzejs",
+                  "text": "A museum dedicated to the Latvian writer Anšlavs Eglītis by the Gauja River.",
+                  "category": "museum",
+                  "coords": [
+                        24.878091,
+                        57.257113
+                  ]
+            },
+            {
+                  "name": "Inciema senkrasta rezervāts",
+                  "text": "A nature reserve on the historical bank of the Gauja River near Inciems.",
+                  "category": "natural",
+                  "coords": [
+                        24.90618,
+                        57.243516
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "lv-country",
     coords: [24.9, 57.25],
@@ -10158,7 +11472,124 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-razna-lake",
+    id: "lv-razna-lake", "sights": {
+      "de": [
+            {
+                  "name": "Leimanišķu pilskalns",
+                  "text": "Eine archäologische Ausgrabungsstätte einer alten Wallburg am Ufer des Rāzna-Sees in Lettland.",
+                  "category": "historical",
+                  "coords": [
+                        27.22528,
+                        56.31732
+                  ]
+            },
+            {
+                  "name": "Leimanišķu Baterijas kalns",
+                  "text": "Eine historische archäologische Stätte auf einem Hügel in der Nähe des lettischen Rāzna-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        27.2204,
+                        56.31531
+                  ]
+            },
+            {
+                  "name": "Zosnas Svētā Erceņģeļa Miķeļa baznīca",
+                  "text": "Eine Holzkirche in Zosna am Rāzna-See, die als bedeutendes religiöses Denkmal der Region gilt.",
+                  "category": "religious",
+                  "coords": [
+                        27.339336,
+                        56.330792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leimanišķu pilskalns",
+                  "text": "Egy ősi földvár régészeti lelőhelye a lettországi Rāzna-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        27.22528,
+                        56.31732
+                  ]
+            },
+            {
+                  "name": "Leimanišķu Baterijas kalns",
+                  "text": "Történelmi régészeti lelőhely egy dombon, a lettországi Rāzna-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.2204,
+                        56.31531
+                  ]
+            },
+            {
+                  "name": "Zosnas Svētā Erceņģeļa Miķeļa baznīca",
+                  "text": "Zosnai fatemplom a Rāzna-tónál, amely a régió jelentős vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        27.339336,
+                        56.330792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leimanišķu pilskalns",
+                  "text": "Un sit arheologic al unei vechi cetăți de pământ situat pe malul lacului Rāzna din Letonia.",
+                  "category": "historical",
+                  "coords": [
+                        27.22528,
+                        56.31732
+                  ]
+            },
+            {
+                  "name": "Leimanišķu Baterijas kalns",
+                  "text": "Un sit arheologic istoric situat pe un deal în apropierea lacului Rāzna din Letonia.",
+                  "category": "historical",
+                  "coords": [
+                        27.2204,
+                        56.31531
+                  ]
+            },
+            {
+                  "name": "Zosnas Svētā Erceņģeļa Miķeļa baznīca",
+                  "text": "O biserică din lemn în Zosna, pe malul lacului Rāzna, considerată un monument religios important al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        27.339336,
+                        56.330792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leimanišķu pilskalns",
+                  "text": "An archaeological site of an ancient hillfort on the shores of Lake Rāzna in Latvia.",
+                  "category": "historical",
+                  "coords": [
+                        27.22528,
+                        56.31732
+                  ]
+            },
+            {
+                  "name": "Leimanišķu Baterijas kalns",
+                  "text": "A historical archaeological site located on a hill near Lake Rāzna in Latvia.",
+                  "category": "historical",
+                  "coords": [
+                        27.2204,
+                        56.31531
+                  ]
+            },
+            {
+                  "name": "Zosnas Svētā Erceņģeļa Miķeļa baznīca",
+                  "text": "A wooden church in Zosna on Lake Rāzna, considered a significant religious monument of the region.",
+                  "category": "religious",
+                  "coords": [
+                        27.339336,
+                        56.330792
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "lv-country",
     coords: [27.28, 56.32],
@@ -10486,6 +11917,42 @@ export const latviaAllPoi = [
                         24.400488,
                         57.375609
                   ]
+            },
+            {
+                  "name": "Ziemeļu mola ugunszīme",
+                  "text": "Ein Leuchtturm an der Nordmole des Hafens von Skulte, der die Einfahrt markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.39967,
+                        57.317615
+                  ]
+            },
+            {
+                  "name": "Dienvidu mola ugunszīme",
+                  "text": "Ein Leuchtturm an der Südmole des Hafens von Skulte zur Orientierung für Schiffe.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399719,
+                        57.316487
+                  ]
+            },
+            {
+                  "name": "Lauču akmens",
+                  "text": "Ein großer, markanter Findling am Strand in der Nähe des Hafens von Skulte.",
+                  "category": "landmark",
+                  "coords": [
+                        24.401034,
+                        57.368005
+                  ]
+            },
+            {
+                  "name": "Skultes Svētā Matīsa evaņģēliski luteriskā baznīca",
+                  "text": "Eine historische lutherische Kirche, die der Gemeinde im Gebiet des Hafens von Skulte dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.44327,
+                        57.33178
+                  ]
             }
       ],
       "hu": [
@@ -10505,6 +11972,42 @@ export const latviaAllPoi = [
                   "coords": [
                         24.400488,
                         57.375609
+                  ]
+            },
+            {
+                  "name": "Ziemeļu mola ugunszīme",
+                  "text": "Világítótorony a skultei kikötő északi gátján, amely a bejáratot jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.39967,
+                        57.317615
+                  ]
+            },
+            {
+                  "name": "Dienvidu mola ugunszīme",
+                  "text": "Világítótorony a skultei kikötő déli gátján a hajók tájékozódásához.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399719,
+                        57.316487
+                  ]
+            },
+            {
+                  "name": "Lauču akmens",
+                  "text": "Egy nagy, nevezetes sziklatömb a tengerparton, Skulte kikötőjének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.401034,
+                        57.368005
+                  ]
+            },
+            {
+                  "name": "Skultes Svētā Matīsa evaņģēliski luteriskā baznīca",
+                  "text": "Történelmi evangélikus templom, amely a skultei kikötő környékének közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        24.44327,
+                        57.33178
                   ]
             }
       ],
@@ -10526,6 +12029,42 @@ export const latviaAllPoi = [
                         24.400488,
                         57.375609
                   ]
+            },
+            {
+                  "name": "Ziemeļu mola ugunszīme",
+                  "text": "Un far pe digul de nord al portului Skulte, care marchează intrarea.",
+                  "category": "landmark",
+                  "coords": [
+                        24.39967,
+                        57.317615
+                  ]
+            },
+            {
+                  "name": "Dienvidu mola ugunszīme",
+                  "text": "Un far pe digul de sud al portului Skulte pentru orientarea navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399719,
+                        57.316487
+                  ]
+            },
+            {
+                  "name": "Lauču akmens",
+                  "text": "Un bolovan mare și remarcabil pe plajă, lângă portul Skulte.",
+                  "category": "landmark",
+                  "coords": [
+                        24.401034,
+                        57.368005
+                  ]
+            },
+            {
+                  "name": "Skultes Svētā Matīsa evaņģēliski luteriskā baznīca",
+                  "text": "O biserică luterană istorică ce deservește comunitatea din zona portului Skulte.",
+                  "category": "religious",
+                  "coords": [
+                        24.44327,
+                        57.33178
+                  ]
             }
       ],
       "en": [
@@ -10545,6 +12084,42 @@ export const latviaAllPoi = [
                   "coords": [
                         24.400488,
                         57.375609
+                  ]
+            },
+            {
+                  "name": "Ziemeļu mola ugunszīme",
+                  "text": "A lighthouse on the northern pier of Skulte Port, marking the entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        24.39967,
+                        57.317615
+                  ]
+            },
+            {
+                  "name": "Dienvidu mola ugunszīme",
+                  "text": "A lighthouse on the southern pier of Skulte Port for vessel orientation.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399719,
+                        57.316487
+                  ]
+            },
+            {
+                  "name": "Lauču akmens",
+                  "text": "A large, notable boulder located on the beach near Skulte Port.",
+                  "category": "landmark",
+                  "coords": [
+                        24.401034,
+                        57.368005
+                  ]
+            },
+            {
+                  "name": "Skultes Svētā Matīsa evaņģēliski luteriskā baznīca",
+                  "text": "A historical Lutheran church serving the community in the Skulte Port area.",
+                  "category": "religious",
+                  "coords": [
+                        24.44327,
+                        57.33178
                   ]
             }
       ]
@@ -10725,7 +12300,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-aglona-basilica",
+    id: "lv-aglona-basilica", "sights": {
+      "de": [
+            {
+                  "name": "dabas parks „Cirīša ezers”",
+                  "text": "Ein Naturschutzgebiet rund um den malerischen See Cirīša.",
+                  "category": "natural",
+                  "coords": [
+                        26.970546,
+                        56.134212
+                  ]
+            },
+            {
+                  "name": "2. Pasaules kara muzejs",
+                  "text": "Ein Museum, das Exponate und Informationen zum Zweiten Weltkrieg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.005504,
+                        56.130207
+                  ]
+            },
+            {
+                  "name": "Maizes muzejs",
+                  "text": "Ein Museum, das der Tradition des Brotbackens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.001604,
+                        56.133212
+                  ]
+            },
+            {
+                  "name": "Madalānu pilskalns",
+                  "text": "Eine bedeutende archäologische Stätte und ein ehemaliger Burgwall.",
+                  "category": "historical",
+                  "coords": [
+                        27.047327,
+                        56.120096
+                  ]
+            },
+            {
+                  "name": "Reuta pilskalns",
+                  "text": "Eine historische archäologische Stätte in der Nähe von Aglona.",
+                  "category": "historical",
+                  "coords": [
+                        27.00529,
+                        56.15233
+                  ]
+            },
+            {
+                  "name": "Upursalas pilskalns",
+                  "text": "Eine archäologische Stätte auf einer Insel im See.",
+                  "category": "historical",
+                  "coords": [
+                        26.983628,
+                        56.133771
+                  ]
+            },
+            {
+                  "name": "Pasta un informācijas muzejs",
+                  "text": "Ein Post- und Informationsmuseum in der Region Aglona.",
+                  "category": "museum",
+                  "coords": [
+                        27.016253,
+                        56.12275
+                  ]
+            },
+            {
+                  "name": "Kristus Karaļa kalns",
+                  "text": "Ein Skulpturenpark mit zahlreichen religiösen Holzfiguren.",
+                  "category": "landmark",
+                  "coords": [
+                        27.036996,
+                        56.124018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas parks „Cirīša ezers”",
+                  "text": "Természetvédelmi terület a festői Cirīša-tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        26.970546,
+                        56.134212
+                  ]
+            },
+            {
+                  "name": "2. Pasaules kara muzejs",
+                  "text": "A második világháborúval kapcsolatos tárgyakat és információkat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.005504,
+                        56.130207
+                  ]
+            },
+            {
+                  "name": "Maizes muzejs",
+                  "text": "A kenyérsütés hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.001604,
+                        56.133212
+                  ]
+            },
+            {
+                  "name": "Madalānu pilskalns",
+                  "text": "Jelentős régészeti lelőhely és egykori várhely.",
+                  "category": "historical",
+                  "coords": [
+                        27.047327,
+                        56.120096
+                  ]
+            },
+            {
+                  "name": "Reuta pilskalns",
+                  "text": "Történelmi régészeti lelőhely Aglona közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.00529,
+                        56.15233
+                  ]
+            },
+            {
+                  "name": "Upursalas pilskalns",
+                  "text": "Régészeti lelőhely egy tóban található szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        26.983628,
+                        56.133771
+                  ]
+            },
+            {
+                  "name": "Pasta un informācijas muzejs",
+                  "text": "Posta- és információs múzeum Aglona térségében.",
+                  "category": "museum",
+                  "coords": [
+                        27.016253,
+                        56.12275
+                  ]
+            },
+            {
+                  "name": "Kristus Karaļa kalns",
+                  "text": "Szoborpark számos vallási témájú fafaragvánnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        27.036996,
+                        56.124018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas parks „Cirīša ezers”",
+                  "text": "O rezervație naturală în jurul lacului pitoresc Cirīša.",
+                  "category": "natural",
+                  "coords": [
+                        26.970546,
+                        56.134212
+                  ]
+            },
+            {
+                  "name": "2. Pasaules kara muzejs",
+                  "text": "Un muzeu care prezintă exponate și informații despre al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        27.005504,
+                        56.130207
+                  ]
+            },
+            {
+                  "name": "Maizes muzejs",
+                  "text": "Un muzeu dedicat tradiției coacerii pâinii.",
+                  "category": "museum",
+                  "coords": [
+                        27.001604,
+                        56.133212
+                  ]
+            },
+            {
+                  "name": "Madalānu pilskalns",
+                  "text": "Un sit arheologic important și un fost amplasament de cetate.",
+                  "category": "historical",
+                  "coords": [
+                        27.047327,
+                        56.120096
+                  ]
+            },
+            {
+                  "name": "Reuta pilskalns",
+                  "text": "Un sit arheologic istoric situat în apropiere de Aglona.",
+                  "category": "historical",
+                  "coords": [
+                        27.00529,
+                        56.15233
+                  ]
+            },
+            {
+                  "name": "Upursalas pilskalns",
+                  "text": "Un sit arheologic situat pe o insulă dintr-un lac.",
+                  "category": "historical",
+                  "coords": [
+                        26.983628,
+                        56.133771
+                  ]
+            },
+            {
+                  "name": "Pasta un informācijas muzejs",
+                  "text": "Un muzeu al poștei și de informații din regiunea Aglona.",
+                  "category": "museum",
+                  "coords": [
+                        27.016253,
+                        56.12275
+                  ]
+            },
+            {
+                  "name": "Kristus Karaļa kalns",
+                  "text": "Un parc de sculpturi cu numeroase figuri religioase din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        27.036996,
+                        56.124018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas parks „Cirīša ezers”",
+                  "text": "A nature reserve surrounding the picturesque Cirīša Lake.",
+                  "category": "natural",
+                  "coords": [
+                        26.970546,
+                        56.134212
+                  ]
+            },
+            {
+                  "name": "World War II Museum",
+                  "text": "A museum displaying exhibits and information about World War II.",
+                  "category": "museum",
+                  "coords": [
+                        27.005504,
+                        56.130207
+                  ]
+            },
+            {
+                  "name": "Maizes muzejs",
+                  "text": "A museum dedicated to the tradition of bread making.",
+                  "category": "museum",
+                  "coords": [
+                        27.001604,
+                        56.133212
+                  ]
+            },
+            {
+                  "name": "Madalānu pilskalns",
+                  "text": "A significant archaeological site and a former hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        27.047327,
+                        56.120096
+                  ]
+            },
+            {
+                  "name": "Reuta pilskalns",
+                  "text": "A historical archaeological site located near Aglona.",
+                  "category": "historical",
+                  "coords": [
+                        27.00529,
+                        56.15233
+                  ]
+            },
+            {
+                  "name": "Upursalas pilskalns",
+                  "text": "An archaeological site located on an island in a lake.",
+                  "category": "historical",
+                  "coords": [
+                        26.983628,
+                        56.133771
+                  ]
+            },
+            {
+                  "name": "Pasta un informācijas muzejs",
+                  "text": "A post and information museum in the Aglona region.",
+                  "category": "museum",
+                  "coords": [
+                        27.016253,
+                        56.12275
+                  ]
+            },
+            {
+                  "name": "Christ the King mountain",
+                  "text": "A sculpture park featuring numerous religious wooden figures.",
+                  "category": "landmark",
+                  "coords": [
+                        27.036996,
+                        56.124018
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [27.0163, 56.1313],
@@ -11117,7 +12989,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-kanieris-lake",
+    id: "lv-kanieris-lake", "sights": {
+      "de": [
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Ein lokales Museum in Lapmežciems, das die Geschichte des Küstendorfes beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Sīliņupes akmens laikmeta apmetnes vieta",
+                  "text": "Eine archäologische Ausgrabungsstätte, die den Standort einer antiken steinzeitlichen Siedlung markiert.",
+                  "category": "historical",
+                  "coords": [
+                        23.518575,
+                        56.993785
+                  ]
+            },
+            {
+                  "name": "Paugu viduslaiku kapsēta",
+                  "text": "Eine archäologische Ausgrabungsstätte mit den Überresten eines mittelalterlichen Friedhofs.",
+                  "category": "historical",
+                  "coords": [
+                        23.519887,
+                        56.996014
+                  ]
+            },
+            {
+                  "name": "Lapmežciema sedums",
+                  "text": "Ein traditioneller Fischerplatz mit historischen Netzschuppen und Küstenerbe.",
+                  "category": "historical",
+                  "coords": [
+                        23.520171,
+                        56.998894
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "Ein geschütztes Naturschutzgebiet, das Teil des Ökosystems des Nationalparks Ķemeri ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Lapmežciema - Bigauņciema pludmale",
+                  "text": "Ein Sandstrand an der Küste des Golfs von Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        23.525463,
+                        56.994584
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "Ein Naturschutzgebiet in der Region Ķemeri, das dem Umweltschutz gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Ein historischer Kurpark in Ķemeri, bekannt für seine Landschaftsgestaltung und Architektur.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Lapmežciems helyi múzeuma, amely a parti falu történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Sīliņupes akmens laikmeta apmetnes vieta",
+                  "text": "Régészeti lelőhely, amely egy ősi kőkorszaki település helyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        23.518575,
+                        56.993785
+                  ]
+            },
+            {
+                  "name": "Paugu viduslaiku kapsēta",
+                  "text": "Régészeti lelőhely egy középkori temető maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        23.519887,
+                        56.996014
+                  ]
+            },
+            {
+                  "name": "Lapmežciema sedums",
+                  "text": "Hagyományos halászati helyszín történelmi hálóházakkal és tengerparti örökséggel.",
+                  "category": "historical",
+                  "coords": [
+                        23.520171,
+                        56.998894
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "Védett természetvédelmi terület, amely a Ķemeri Nemzeti Park ökoszisztémájának része.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Lapmežciema - Bigauņciema pludmale",
+                  "text": "Homokos tengerparti szakasz a Rigai-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        23.525463,
+                        56.994584
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "Természetvédelmi terület a Ķemeri régióban, a környezet megóvása érdekében.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Történelmi üdülőpark Ķemeriben, amely tájépítészetéről és építészetéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Un muzeu local din Lapmežciems care explorează istoria satului de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Sīliņupes akmens laikmeta apmetnes vieta",
+                  "text": "Un sit arheologic care marchează locația unei așezări antice din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        23.518575,
+                        56.993785
+                  ]
+            },
+            {
+                  "name": "Paugu viduslaiku kapsēta",
+                  "text": "Un sit arheologic care prezintă rămășițele unui cimitir medieval.",
+                  "category": "historical",
+                  "coords": [
+                        23.519887,
+                        56.996014
+                  ]
+            },
+            {
+                  "name": "Lapmežciema sedums",
+                  "text": "Un sit tradițional de pescuit, cu colibe istorice pentru plase și moștenire costieră.",
+                  "category": "historical",
+                  "coords": [
+                        23.520171,
+                        56.998894
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "O rezervație naturală protejată care face parte din ecosistemul Parcului Național Ķemeri.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Lapmežciema - Bigauņciema pludmale",
+                  "text": "O zonă de plajă cu nisip pe coasta Golfului Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        23.525463,
+                        56.994584
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "O zonă de rezervație naturală în regiunea Ķemeri dedicată protecției mediului.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Un parc istoric de stațiune din Ķemeri, cunoscut pentru designul peisagistic și arhitectura sa.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "A local museum in Lapmežciems exploring the history of the coastal village.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Sīliņupes akmens laikmeta apmetnes vieta",
+                  "text": "An archaeological site marking the location of an ancient Stone Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        23.518575,
+                        56.993785
+                  ]
+            },
+            {
+                  "name": "Paugu viduslaiku kapsēta",
+                  "text": "An archaeological site featuring the remains of a medieval cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        23.519887,
+                        56.996014
+                  ]
+            },
+            {
+                  "name": "Lapmežciema sedums",
+                  "text": "A traditional fishing site featuring historical net huts and coastal heritage.",
+                  "category": "historical",
+                  "coords": [
+                        23.520171,
+                        56.998894
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "A protected nature reserve forming part of the Ķemeri National Park ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Lapmežciema - Bigauņciema pludmale",
+                  "text": "A sandy beach area on the coast of the Gulf of Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        23.525463,
+                        56.994584
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "A nature reserve area within the Ķemeri region dedicated to environmental protection.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "A historic resort park in Ķemeri, known for its landscape design and architecture.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "lv-country",
     coords: [23.5000, 56.9668],
@@ -11166,7 +13335,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-engure-lake",
+    id: "lv-engure-lake", "sights": {
+      "de": [
+            {
+                  "name": "Brizules muiža",
+                  "text": "Ein historisches Herrenhaus in der Nähe des Engure-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        23.089078,
+                        57.090875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brizules muiža",
+                  "text": "Történelmi udvarház az Engure-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.089078,
+                        57.090875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brizules muiža",
+                  "text": "Un conac istoric situat lângă lacul Engure.",
+                  "category": "historical",
+                  "coords": [
+                        23.089078,
+                        57.090875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brizules muiža",
+                  "text": "A historic manor house located near Lake Engure.",
+                  "category": "historical",
+                  "coords": [
+                        23.089078,
+                        57.090875
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "lv-country",
     coords: [23.1000, 57.1000],
@@ -11215,7 +13429,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-burtnieks-lake",
+    id: "lv-burtnieks-lake", "sights": {
+      "de": [
+            {
+                  "name": "Silzemnieku skatu tornis",
+                  "text": "Ein Aussichtsturm mit Blick über den Burtnieks-See in Lettland.",
+                  "category": "natural",
+                  "coords": [
+                        25.291226,
+                        57.748759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silzemnieku skatu tornis",
+                  "text": "Kilátótorony, ahonnan kilátás nyílik a lettországi Burtnieks-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        25.291226,
+                        57.748759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silzemnieku skatu tornis",
+                  "text": "Un turn de observare care oferă priveliști asupra lacului Burtnieks din Letonia.",
+                  "category": "natural",
+                  "coords": [
+                        25.291226,
+                        57.748759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silzemnieku skatu tornis",
+                  "text": "An observation tower offering views over Lake Burtnieks in Latvia.",
+                  "category": "natural",
+                  "coords": [
+                        25.291226,
+                        57.748759
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "lv-country",
     coords: [25.2300, 57.7500],
@@ -11603,7 +13862,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-abavas-vinadaritava",
+    id: "lv-abavas-vinadaritava", "sights": {
+      "de": [
+            {
+                  "name": "Sabiles pilskalns",
+                  "text": "Ein antiker lettischer Burghügel mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        22.576736,
+                        57.046851
+                  ]
+            },
+            {
+                  "name": "Sabiles Karātavu kalns",
+                  "text": "Eine archäologische Stätte auf einem Hügel, der mit lokalen Legenden verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.57457,
+                        57.04826
+                  ]
+            },
+            {
+                  "name": "Veco laiku",
+                  "text": "Ein Museum, das antike Gegenstände und das tägliche Leben vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.561747,
+                        57.054075
+                  ]
+            },
+            {
+                  "name": "Sabiles koka rotaļlietu muzejs",
+                  "text": "Ein charmantes Museum, das der Geschichte der Holzspielzeuge gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.574174,
+                        57.04465
+                  ]
+            },
+            {
+                  "name": "Sabiles Brīvdabas estrāde \"Birzīte\"",
+                  "text": "Eine Freiluftbühne in Sabile, die für lokale Konzerte und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        22.561935,
+                        57.050117
+                  ]
+            },
+            {
+                  "name": "Pedvāles Brīvdabas mākslas muzejs",
+                  "text": "Ein Freiluft-Kunstmuseum, das Skulpturen in die natürliche Landschaft integriert.",
+                  "category": "museum",
+                  "coords": [
+                        22.561946,
+                        57.040851
+                  ]
+            },
+            {
+                  "name": "Firkspedvāles muiža",
+                  "text": "Ein historisches Herrenhaus, das Teil des Ensembles der Region Pedvale ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.566522,
+                        57.033777
+                  ]
+            },
+            {
+                  "name": "Sabiles Vīnakalns",
+                  "text": "Dieser Weinberg gilt als einer der nördlichsten Freiluft-Weinberge der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        22.578345,
+                        57.046237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabiles pilskalns",
+                  "text": "Ősi lett várhegy történelmi jelentőséggel.",
+                  "category": "historical",
+                  "coords": [
+                        22.576736,
+                        57.046851
+                  ]
+            },
+            {
+                  "name": "Sabiles Karātavu kalns",
+                  "text": "Helyi legendákhoz kötődő dombon található régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        22.57457,
+                        57.04826
+                  ]
+            },
+            {
+                  "name": "Veco laiku",
+                  "text": "A régi idők tárgyait és mindennapi életét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.561747,
+                        57.054075
+                  ]
+            },
+            {
+                  "name": "Sabiles koka rotaļlietu muzejs",
+                  "text": "Bájos múzeum, amelyet a fajátékok történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        22.574174,
+                        57.04465
+                  ]
+            },
+            {
+                  "name": "Sabiles Brīvdabas estrāde \"Birzīte\"",
+                  "text": "Sabilei szabadtéri színpad, amelyet helyi koncertekre és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        22.561935,
+                        57.050117
+                  ]
+            },
+            {
+                  "name": "Pedvāles Brīvdabas mākslas muzejs",
+                  "text": "Szabadtéri művészeti múzeum, amely szobrokat integrál a természeti tájba.",
+                  "category": "museum",
+                  "coords": [
+                        22.561946,
+                        57.040851
+                  ]
+            },
+            {
+                  "name": "Firkspedvāles muiža",
+                  "text": "Történelmi kúria, amely a Pedvale régió épületegyüttesének része.",
+                  "category": "historical",
+                  "coords": [
+                        22.566522,
+                        57.033777
+                  ]
+            },
+            {
+                  "name": "Sabiles Vīnakalns",
+                  "text": "Ez a szőlőhegy a világ egyik legészakibb szabadtéri szőlőültetvényeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.578345,
+                        57.046237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabiles pilskalns",
+                  "text": "O veche colină fortificată letonă, cu semnificație istorică.",
+                  "category": "historical",
+                  "coords": [
+                        22.576736,
+                        57.046851
+                  ]
+            },
+            {
+                  "name": "Sabiles Karātavu kalns",
+                  "text": "Un sit arheologic situat pe o colină legată de legendele locale.",
+                  "category": "historical",
+                  "coords": [
+                        22.57457,
+                        57.04826
+                  ]
+            },
+            {
+                  "name": "Veco laiku",
+                  "text": "Un muzeu care expune obiecte vechi și viața cotidiană din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        22.561747,
+                        57.054075
+                  ]
+            },
+            {
+                  "name": "Sabiles koka rotaļlietu muzejs",
+                  "text": "Un muzeu fermecător dedicat istoriei jucăriilor din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        22.574174,
+                        57.04465
+                  ]
+            },
+            {
+                  "name": "Sabiles Brīvdabas estrāde \"Birzīte\"",
+                  "text": "O scenă în aer liber din Sabile, utilizată pentru concerte și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.561935,
+                        57.050117
+                  ]
+            },
+            {
+                  "name": "Pedvāles Brīvdabas mākslas muzejs",
+                  "text": "Un muzeu de artă în aer liber care integrează sculpturi în peisajul natural.",
+                  "category": "museum",
+                  "coords": [
+                        22.561946,
+                        57.040851
+                  ]
+            },
+            {
+                  "name": "Firkspedvāles muiža",
+                  "text": "Un conac istoric care face parte din ansamblul regiunii Pedvale.",
+                  "category": "historical",
+                  "coords": [
+                        22.566522,
+                        57.033777
+                  ]
+            },
+            {
+                  "name": "Sabiles Vīnakalns",
+                  "text": "Această podgorie este considerată una dintre cele mai nordice din lume în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        22.578345,
+                        57.046237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sabiles pilskalns",
+                  "text": "An ancient Latvian hillfort with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        22.576736,
+                        57.046851
+                  ]
+            },
+            {
+                  "name": "Sabiles Karātavu kalns",
+                  "text": "An archaeological site located on a hill associated with local legends.",
+                  "category": "historical",
+                  "coords": [
+                        22.57457,
+                        57.04826
+                  ]
+            },
+            {
+                  "name": "Veco laiku",
+                  "text": "A museum showcasing ancient items and daily life from past eras.",
+                  "category": "museum",
+                  "coords": [
+                        22.561747,
+                        57.054075
+                  ]
+            },
+            {
+                  "name": "Sabiles koka rotaļlietu muzejs",
+                  "text": "A charming museum dedicated to the history of wooden toys.",
+                  "category": "museum",
+                  "coords": [
+                        22.574174,
+                        57.04465
+                  ]
+            },
+            {
+                  "name": "Sabiles Brīvdabas estrāde \"Birzīte\"",
+                  "text": "An open-air stage in Sabile used for local concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.561935,
+                        57.050117
+                  ]
+            },
+            {
+                  "name": "Pedvāles Brīvdabas mākslas muzejs",
+                  "text": "An open-air art museum that integrates sculptures into the natural landscape.",
+                  "category": "museum",
+                  "coords": [
+                        22.561946,
+                        57.040851
+                  ]
+            },
+            {
+                  "name": "Firkspedvāles muiža",
+                  "text": "A historical manor house that is part of the Pedvale region's ensemble.",
+                  "category": "historical",
+                  "coords": [
+                        22.566522,
+                        57.033777
+                  ]
+            },
+            {
+                  "name": "Sabiles Vīnakalns",
+                  "text": "This vineyard is known as one of the northernmost open-air vineyards in the world.",
+                  "category": "natural",
+                  "coords": [
+                        22.578345,
+                        57.046237
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "lv-country",
     coords: [22.5760, 57.0465],
@@ -12023,6 +14579,15 @@ export const latviaAllPoi = [
                         24.188015,
                         56.619644
                   ]
+            },
+            {
+                  "name": "Iecavas estrāde",
+                  "text": "Eine Freilichtbühne in Iecava für kulturelle Veranstaltungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        24.195053,
+                        56.593531
+                  ]
             }
       ],
       "hu": [
@@ -12051,6 +14616,15 @@ export const latviaAllPoi = [
                   "coords": [
                         24.188015,
                         56.619644
+                  ]
+            },
+            {
+                  "name": "Iecavas estrāde",
+                  "text": "Szabadtéri színpad Iecavában kulturális rendezvények és koncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        24.195053,
+                        56.593531
                   ]
             }
       ],
@@ -12081,6 +14655,15 @@ export const latviaAllPoi = [
                         24.188015,
                         56.619644
                   ]
+            },
+            {
+                  "name": "Iecavas estrāde",
+                  "text": "O scenă în aer liber în Iecava pentru evenimente culturale și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        24.195053,
+                        56.593531
+                  ]
             }
       ],
       "en": [
@@ -12109,6 +14692,15 @@ export const latviaAllPoi = [
                   "coords": [
                         24.188015,
                         56.619644
+                  ]
+            },
+            {
+                  "name": "Iecavas estrāde",
+                  "text": "An open-air stage in Iecava used for cultural events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.195053,
+                        56.593531
                   ]
             }
       ]
@@ -12520,7 +15112,232 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-preili",
+    id: "lv-preili", "sights": {
+      "de": [
+            {
+                  "name": "Plivdu pilskalns",
+                  "text": "Ein alter Burgberg und eine archäologische Stätte in der Region Preiļi.",
+                  "category": "historical",
+                  "coords": [
+                        26.74019,
+                        56.270316
+                  ]
+            },
+            {
+                  "name": "\"Pasakainā karaliste\" - lelles un miniatūras",
+                  "text": "Ein einzigartiges Museum in Preiļi mit einer Welt aus Puppen und Miniaturen.",
+                  "category": "museum",
+                  "coords": [
+                        26.724821,
+                        56.292034
+                  ]
+            },
+            {
+                  "name": "Pliča sāta",
+                  "text": "Ein lokales Museum in Preiļi, das die regionale lettische Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.726674,
+                        56.292008
+                  ]
+            },
+            {
+                  "name": "Preiļu pils parks",
+                  "text": "Ein Landschaftspark, der das historische Schloss von Preiļi umgibt.",
+                  "category": "park",
+                  "coords": [
+                        26.72968,
+                        56.286046
+                  ]
+            },
+            {
+                  "name": "Nester Custom",
+                  "text": "Eine Kunstgalerie in Preiļi, spezialisiert auf Metallkunst und Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        26.718661,
+                        56.280348
+                  ]
+            },
+            {
+                  "name": "Preiļu Borhu pils",
+                  "text": "Das historische Herrenhaus der Familie Borch in Preiļi.",
+                  "category": "historical",
+                  "coords": [
+                        26.727064,
+                        56.284357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plivdu pilskalns",
+                  "text": "Ősi várhely és régészeti lelőhely Preiļi régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        26.74019,
+                        56.270316
+                  ]
+            },
+            {
+                  "name": "\"Pasakainā karaliste\" - lelles un miniatūras",
+                  "text": "Egyedülálló múzeum Preiļiben, amely bábukat és miniatűröket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.724821,
+                        56.292034
+                  ]
+            },
+            {
+                  "name": "Pliča sāta",
+                  "text": "Helyi múzeum Preiļiben, amely a regionális lett kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.726674,
+                        56.292008
+                  ]
+            },
+            {
+                  "name": "Preiļu pils parks",
+                  "text": "A történelmi Preiļi kastélyt körülvevő tájképi park.",
+                  "category": "park",
+                  "coords": [
+                        26.72968,
+                        56.286046
+                  ]
+            },
+            {
+                  "name": "Nester Custom",
+                  "text": "Művészeti galéria Preiļiben, amely fémalkotásokra és szobrokra specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        26.718661,
+                        56.280348
+                  ]
+            },
+            {
+                  "name": "Preiļu Borhu pils",
+                  "text": "A Borch család történelmi udvarháza Preiļiben.",
+                  "category": "historical",
+                  "coords": [
+                        26.727064,
+                        56.284357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plivdu pilskalns",
+                  "text": "O veche cetate și sit arheologic în regiunea Preiļi.",
+                  "category": "historical",
+                  "coords": [
+                        26.74019,
+                        56.270316
+                  ]
+            },
+            {
+                  "name": "\"Pasakainā karaliste\" - lelles un miniatūras",
+                  "text": "Un muzeu unic în Preiļi care prezintă o lume a păpușilor și miniaturilor.",
+                  "category": "museum",
+                  "coords": [
+                        26.724821,
+                        56.292034
+                  ]
+            },
+            {
+                  "name": "Pliča sāta",
+                  "text": "Un muzeu local din Preiļi care prezintă cultura regională letonă.",
+                  "category": "museum",
+                  "coords": [
+                        26.726674,
+                        56.292008
+                  ]
+            },
+            {
+                  "name": "Preiļu pils parks",
+                  "text": "Un parc peisagistic care înconjoară palatul istoric din Preiļi.",
+                  "category": "park",
+                  "coords": [
+                        26.72968,
+                        56.286046
+                  ]
+            },
+            {
+                  "name": "Nester Custom",
+                  "text": "O galerie de artă din Preiļi specializată în lucrări metalice și sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        26.718661,
+                        56.280348
+                  ]
+            },
+            {
+                  "name": "Preiļu Borhu pils",
+                  "text": "Conacul istoric al familiei Borch din Preiļi.",
+                  "category": "historical",
+                  "coords": [
+                        26.727064,
+                        56.284357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plivdu pilskalns",
+                  "text": "An ancient hillfort and archaeological site in the Preiļi region.",
+                  "category": "historical",
+                  "coords": [
+                        26.74019,
+                        56.270316
+                  ]
+            },
+            {
+                  "name": "\"Pasakainā karaliste\" - lelles un miniatūras",
+                  "text": "A unique museum in Preiļi featuring a world of dolls and miniatures.",
+                  "category": "museum",
+                  "coords": [
+                        26.724821,
+                        56.292034
+                  ]
+            },
+            {
+                  "name": "Pliča sāta",
+                  "text": "A local museum in Preiļi showcasing regional Latvian culture.",
+                  "category": "museum",
+                  "coords": [
+                        26.726674,
+                        56.292008
+                  ]
+            },
+            {
+                  "name": "Preiļu pils parks",
+                  "text": "A landscape park surrounding the historic Preiļi Palace.",
+                  "category": "park",
+                  "coords": [
+                        26.72968,
+                        56.286046
+                  ]
+            },
+            {
+                  "name": "Nester Custom",
+                  "text": "An art gallery in Preiļi specializing in metal works and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        26.718661,
+                        56.280348
+                  ]
+            },
+            {
+                  "name": "Preiļu Borhu pils",
+                  "text": "The historic manor house of the Borch family in Preiļi.",
+                  "category": "historical",
+                  "coords": [
+                        26.727064,
+                        56.284357
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [26.7220, 56.2950],
@@ -14458,7 +17275,196 @@ export const latviaCulture = [
 
 export const latviaNature = [
   {
-    id: "nat-kemeri",
+    id: "nat-kemeri", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Ķemeri",
+                  "text": "Ein weitläufiger Nationalpark in Lettland, bekannt für seine Moore und Heilquellen.",
+                  "category": "natural",
+                  "coords": [
+                        23.453935,
+                        56.930029
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "Eine Schutzzone innerhalb des Nationalparks Ķemeri.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Ein historischer Park im Kurort Ķemeri mit Spazierwegen und Architektur.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            },
+            {
+                  "name": "Slokas ezera putnu tornis",
+                  "text": "Ein Aussichtsturm am Sloka-See zur Beobachtung der lokalen Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        23.547116,
+                        56.957616
+                  ]
+            },
+            {
+                  "name": "Ķirzaciņa",
+                  "text": "Eine markante Sehenswürdigkeit oder Skulptur im Nationalpark Ķemeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502382,
+                        56.948074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ķemeru nacionālais parks",
+                  "text": "Kiterjedt nemzeti park Lettországban, amely lápjairól és gyógyvizeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.453935,
+                        56.930029
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "Természetvédelmi övezet a Ķemeri Nemzeti Park területén.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Történelmi park Ķemeri üdülőhelyén, sétányokkal és építészeti emlékekkel.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            },
+            {
+                  "name": "Slokas ezera putnu tornis",
+                  "text": "Madármegfigyelő torony a Sloka-tónál a helyi élővilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.547116,
+                        56.957616
+                  ]
+            },
+            {
+                  "name": "Ķirzaciņa",
+                  "text": "Jellegzetes látnivaló vagy szobor a Ķemeri Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502382,
+                        56.948074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ķemeru nacionālais parks",
+                  "text": "Un parc național vast din Letonia, renumit pentru mlaștini și izvoare curative.",
+                  "category": "natural",
+                  "coords": [
+                        23.453935,
+                        56.930029
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "O zonă de protecție naturală în cadrul Parcului Național Ķemeri.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "Un parc istoric în stațiunea Ķemeri, cu alei de plimbare și monumente.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            },
+            {
+                  "name": "Slokas ezera putnu tornis",
+                  "text": "Turn de observație la lacul Sloka pentru vizualizarea păsărilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        23.547116,
+                        56.957616
+                  ]
+            },
+            {
+                  "name": "Ķirzaciņa",
+                  "text": "O atracție sau sculptură distinctivă în Parcul Național Ķemeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502382,
+                        56.948074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ķemeri National Park",
+                  "text": "A large national park in Latvia known for its bogs and mineral springs.",
+                  "category": "natural",
+                  "coords": [
+                        23.453935,
+                        56.930029
+                  ]
+            },
+            {
+                  "name": "Ķemeru neitrālā zona",
+                  "text": "A protected nature zone within the Ķemeri National Park.",
+                  "category": "natural",
+                  "coords": [
+                        23.490131,
+                        56.945039
+                  ]
+            },
+            {
+                  "name": "Ķemeru kūrorta parks",
+                  "text": "A historic park in the resort area of Ķemeri with walking paths and architecture.",
+                  "category": "park",
+                  "coords": [
+                        23.497393,
+                        56.947003
+                  ]
+            },
+            {
+                  "name": "Lake Sloka bird watching tower",
+                  "text": "A bird watching tower at Lake Sloka for observing local avian life.",
+                  "category": "natural",
+                  "coords": [
+                        23.547116,
+                        56.957616
+                  ]
+            },
+            {
+                  "name": "Ķirzaciņa",
+                  "text": "A distinctive attraction or sculpture located in Ķemeri National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502382,
+                        56.948074
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [23.5, 56.95],
@@ -14556,7 +17562,124 @@ export const latviaNature = [
     },
   },
   {
-    id: "nat-cape-kolka",
+    id: "nat-cape-kolka", "sights": {
+      "de": [
+            {
+                  "name": "Kap Kolken",
+                  "text": "Ein strategisches Kap, an dem die Ostsee und der Golf von Riga aufeinandertreffen.",
+                  "category": "natural",
+                  "coords": [
+                        22.604784,
+                        57.759017
+                  ]
+            },
+            {
+                  "name": "SIA Baltijas zivs drupas",
+                  "text": "Ruinen einer Industrieanlage zur Fischverarbeitung am Kap Kolka.",
+                  "category": "historical",
+                  "coords": [
+                        22.590907,
+                        57.74168
+                  ]
+            },
+            {
+                  "name": "Skatu tornis",
+                  "text": "Ein hölzerner Aussichtsturm mit Blick über die Küste von Kap Kolka.",
+                  "category": "natural",
+                  "coords": [
+                        22.591927,
+                        57.757381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolkas rags",
+                  "text": "Stratégiai jelentőségű fok, ahol a Balti-tenger és a Rigai-öböl találkozik.",
+                  "category": "natural",
+                  "coords": [
+                        22.604784,
+                        57.759017
+                  ]
+            },
+            {
+                  "name": "SIA Baltijas zivs drupas",
+                  "text": "Egy balti halfeldolgozó ipari létesítmény romjai a Kolka-foknál.",
+                  "category": "historical",
+                  "coords": [
+                        22.590907,
+                        57.74168
+                  ]
+            },
+            {
+                  "name": "Skatu tornis",
+                  "text": "Fából készült kilátótorony, ahonnan kilátás nyílik a Kolka-fok tengerpartjára.",
+                  "category": "natural",
+                  "coords": [
+                        22.591927,
+                        57.757381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolkas rags",
+                  "text": "Un cap strategic unde Marea Baltică și Golful Riga se întâlnesc.",
+                  "category": "natural",
+                  "coords": [
+                        22.604784,
+                        57.759017
+                  ]
+            },
+            {
+                  "name": "SIA Baltijas zivs drupas",
+                  "text": "Ruinele unui sit industrial legat de procesarea peștelui la Capul Kolka.",
+                  "category": "historical",
+                  "coords": [
+                        22.590907,
+                        57.74168
+                  ]
+            },
+            {
+                  "name": "Skatu tornis",
+                  "text": "Un turn de observație din lemn care oferă vedere asupra coastei Capului Kolka.",
+                  "category": "natural",
+                  "coords": [
+                        22.591927,
+                        57.757381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Kolka",
+                  "text": "A strategic cape where the Baltic Sea and the Gulf of Riga meet.",
+                  "category": "natural",
+                  "coords": [
+                        22.604784,
+                        57.759017
+                  ]
+            },
+            {
+                  "name": "SIA Baltijas zivs drupas",
+                  "text": "Ruins of an industrial site related to Baltic fish processing at Cape Kolka.",
+                  "category": "historical",
+                  "coords": [
+                        22.590907,
+                        57.74168
+                  ]
+            },
+            {
+                  "name": "Skatu tornis",
+                  "text": "A wooden observation tower offering views over the coastline of Cape Kolka.",
+                  "category": "natural",
+                  "coords": [
+                        22.591927,
+                        57.757381
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [22.5933, 57.7525],
@@ -17170,7 +20293,304 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-pavilosta",
+    id: "lv-pavilosta", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtfeuer Pāvilosta Mole Nord",
+                  "text": "Ein Leuchtturm, der die nördliche Mole des Hafens von Pāvilosta markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.166826,
+                        56.892553
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Paulshafen",
+                  "text": "Ein historischer Leuchtturm, der Schiffen den Weg in den Hafen von Pāvilosta weist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.172158,
+                        56.888009
+                  ]
+            },
+            {
+                  "name": "Leuchtfeuer Pāvilosta Mole Süd",
+                  "text": "Ein Leuchtturm auf der südlichen Mole des Hafens von Pāvilosta.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164793,
+                        56.893111
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Pāvilostas pelēkā kāpa”",
+                  "text": "Ein Naturschutzgebiet zum Schutz der breitesten grauen Düne Lettlands.",
+                  "category": "natural",
+                  "coords": [
+                        21.193366,
+                        56.893623
+                  ]
+            },
+            {
+                  "name": "Pāvilostas novadpētniecības muzejs",
+                  "text": "Ein Heimatmuseum, das das maritime und kulturelle Erbe von Pāvilosta präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.172549,
+                        56.889323
+                  ]
+            },
+            {
+                  "name": "Pāvila steķis",
+                  "text": "Ein Kultur- und Kunstzentrum für die lokale Gemeinschaft in Pāvilosta.",
+                  "category": "cultural",
+                  "coords": [
+                        21.174591,
+                        56.88904
+                  ]
+            },
+            {
+                  "name": "Upesmuižas drupas",
+                  "text": "Die historischen Ruinen des Gutes Upesmuiža in Pāvilosta.",
+                  "category": "historical",
+                  "coords": [
+                        21.214013,
+                        56.877494
+                  ]
+            },
+            {
+                  "name": "Pāvilostas Svētā Gara Romas katoļu baznīca",
+                  "text": "Eine dem Heiligen Geist geweihte römisch-katholische Kirche in Pāvilosta.",
+                  "category": "religious",
+                  "coords": [
+                        21.182703,
+                        56.88532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pāvilostas ziemeļu mola bāka",
+                  "text": "A pāvilostai kikötő északi mólóját jelző világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        21.166826,
+                        56.892553
+                  ]
+            },
+            {
+                  "name": "Pāvilostas bāka",
+                  "text": "Történelmi világítótorony, amely a hajókat segíti Pāvilosta kikötőjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        21.172158,
+                        56.888009
+                  ]
+            },
+            {
+                  "name": "Pāvilostas dienvidu mola bāka",
+                  "text": "A pāvilostai kikötő déli mólóján található világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164793,
+                        56.893111
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Pāvilostas pelēkā kāpa”",
+                  "text": "Természetvédelmi terület, amely Lettország legszélesebb szürke dűnéjét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        21.193366,
+                        56.893623
+                  ]
+            },
+            {
+                  "name": "Pāvilostas novadpētniecības muzejs",
+                  "text": "Helytörténeti múzeum, amely Pāvilosta tengeri és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.172549,
+                        56.889323
+                  ]
+            },
+            {
+                  "name": "Pāvila steķis",
+                  "text": "Kulturális és művészeti központ a helyi közösség számára Pāvilostában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.174591,
+                        56.88904
+                  ]
+            },
+            {
+                  "name": "Upesmuižas drupas",
+                  "text": "Az egykori Upesmuiža birtok történelmi romjai Pāvilostában.",
+                  "category": "historical",
+                  "coords": [
+                        21.214013,
+                        56.877494
+                  ]
+            },
+            {
+                  "name": "Pāvilostas Svētā Gara Romas katoļu baznīca",
+                  "text": "A Szentléleknek szentelt római katolikus templom Pāvilostában.",
+                  "category": "religious",
+                  "coords": [
+                        21.182703,
+                        56.88532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pāvilostas ziemeļu mola bāka",
+                  "text": "Un far care marchează digul de nord al portului Pāvilosta.",
+                  "category": "landmark",
+                  "coords": [
+                        21.166826,
+                        56.892553
+                  ]
+            },
+            {
+                  "name": "Pāvilostas bāka",
+                  "text": "Un far istoric care ghidează navele în portul Pāvilosta.",
+                  "category": "landmark",
+                  "coords": [
+                        21.172158,
+                        56.888009
+                  ]
+            },
+            {
+                  "name": "Pāvilostas dienvidu mola bāka",
+                  "text": "Un far situat pe digul de sud al portului Pāvilosta.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164793,
+                        56.893111
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Pāvilostas pelēkā kāpa”",
+                  "text": "O rezervație naturală care protejează cea mai lată dună gri din Letonia.",
+                  "category": "natural",
+                  "coords": [
+                        21.193366,
+                        56.893623
+                  ]
+            },
+            {
+                  "name": "Pāvilostas novadpētniecības muzejs",
+                  "text": "Un muzeu de istorie locală care prezintă moștenirea maritimă și culturală din Pāvilosta.",
+                  "category": "museum",
+                  "coords": [
+                        21.172549,
+                        56.889323
+                  ]
+            },
+            {
+                  "name": "Pāvila steķis",
+                  "text": "Un centru cultural și de artă care deservește comunitatea locală din Pāvilosta.",
+                  "category": "cultural",
+                  "coords": [
+                        21.174591,
+                        56.88904
+                  ]
+            },
+            {
+                  "name": "Upesmuižas drupas",
+                  "text": "Ruinele istorice ale moșiei Upesmuiža situate în Pāvilosta.",
+                  "category": "historical",
+                  "coords": [
+                        21.214013,
+                        56.877494
+                  ]
+            },
+            {
+                  "name": "Pāvilostas Svētā Gara Romas katoļu baznīca",
+                  "text": "O biserică romano-catolică dedicată Sfântului Duh în Pāvilosta.",
+                  "category": "religious",
+                  "coords": [
+                        21.182703,
+                        56.88532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pāvilostas ziemeļu mola bāka",
+                  "text": "A lighthouse marking the northern pier of the Pāvilosta harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        21.166826,
+                        56.892553
+                  ]
+            },
+            {
+                  "name": "Pāvilostas bāka",
+                  "text": "A historic lighthouse guiding ships into the port of Pāvilosta.",
+                  "category": "landmark",
+                  "coords": [
+                        21.172158,
+                        56.888009
+                  ]
+            },
+            {
+                  "name": "Pāvilostas dienvidu mola bāka",
+                  "text": "A lighthouse located on the southern pier of the Pāvilosta port.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164793,
+                        56.893111
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Pāvilostas pelēkā kāpa”",
+                  "text": "A nature reserve protecting the widest grey dune in Latvia.",
+                  "category": "natural",
+                  "coords": [
+                        21.193366,
+                        56.893623
+                  ]
+            },
+            {
+                  "name": "Pāvilostas novadpētniecības muzejs",
+                  "text": "A local history museum showcasing the maritime and cultural heritage of Pāvilosta.",
+                  "category": "museum",
+                  "coords": [
+                        21.172549,
+                        56.889323
+                  ]
+            },
+            {
+                  "name": "Pāvila steķis",
+                  "text": "A cultural and arts center serving the local community in Pāvilosta.",
+                  "category": "cultural",
+                  "coords": [
+                        21.174591,
+                        56.88904
+                  ]
+            },
+            {
+                  "name": "Upesmuižas drupas",
+                  "text": "The historical ruins of the Upesmuiža estate located in Pāvilosta.",
+                  "category": "historical",
+                  "coords": [
+                        21.214013,
+                        56.877494
+                  ]
+            },
+            {
+                  "name": "Pāvilostas Svētā Gara Romas katoļu baznīca",
+                  "text": "A Roman Catholic church dedicated to the Holy Spirit in Pāvilosta.",
+                  "category": "religious",
+                  "coords": [
+                        21.182703,
+                        56.88532
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [21.1850, 56.8874],
@@ -18056,6 +21476,60 @@ export const latviaNature = [
                         24.297085,
                         56.403034
                   ]
+            },
+            {
+                  "name": "Bauskas pils muzejs",
+                  "text": "Ein Museum innerhalb der Burg Bauska, das die Geschichte der Festung und der Region zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        24.174835,
+                        56.403499
+                  ]
+            },
+            {
+                  "name": "Bauskas Motormuzejs",
+                  "text": "Eine Außenstelle des Rigaer Motormuseums mit einer Sammlung historischer Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        24.180623,
+                        56.415087
+                  ]
+            },
+            {
+                  "name": "Estrāde",
+                  "text": "Eine Freilichtbühne in Bauska, die regelmäßig für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        24.17085,
+                        56.40389
+                  ]
+            },
+            {
+                  "name": "Novadpētniecības un mākslas muzejs",
+                  "text": "Das Museum für Heimatkunde und Kunst in Bauska mit regionalen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        24.184366,
+                        56.410225
+                  ]
+            },
+            {
+                  "name": "Skats uz Bauskas pili",
+                  "text": "Aussichtspunkt mit weitem Blick über die Burg Bauska und die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.171789,
+                        56.404851
+                  ]
+            },
+            {
+                  "name": "Derpeles muiža",
+                  "text": "Ein historisches Herrenhaus in der Stadt Bauska.",
+                  "category": "historical",
+                  "coords": [
+                        24.174495,
+                        56.422805
+                  ]
             }
       ],
       "hu": [
@@ -18066,6 +21540,60 @@ export const latviaNature = [
                   "coords": [
                         24.297085,
                         56.403034
+                  ]
+            },
+            {
+                  "name": "Bauskas pils muzejs",
+                  "text": "A bauskai várban található múzeum, amely az erőd és a régió történetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        24.174835,
+                        56.403499
+                  ]
+            },
+            {
+                  "name": "Bauskas Motormuzejs",
+                  "text": "A Rigai Autómúzeum kihelyezett részlege történelmi járművek gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        24.180623,
+                        56.415087
+                  ]
+            },
+            {
+                  "name": "Estrāde",
+                  "text": "Szabadtéri színpad Bauskában, amelyet rendszeresen kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        24.17085,
+                        56.40389
+                  ]
+            },
+            {
+                  "name": "Novadpētniecības un mākslas muzejs",
+                  "text": "Bauska helytörténeti és művészeti múzeuma regionális kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        24.184366,
+                        56.410225
+                  ]
+            },
+            {
+                  "name": "Skats uz Bauskas pili",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a bauskai várra.",
+                  "category": "natural",
+                  "coords": [
+                        24.171789,
+                        56.404851
+                  ]
+            },
+            {
+                  "name": "Derpeles muiža",
+                  "text": "Történelmi kúria Bauska városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.174495,
+                        56.422805
                   ]
             }
       ],
@@ -18078,6 +21606,60 @@ export const latviaNature = [
                         24.297085,
                         56.403034
                   ]
+            },
+            {
+                  "name": "Bauskas pils muzejs",
+                  "text": "Un muzeu în incinta castelului Bauska, prezentând istoria fortăreței și a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        24.174835,
+                        56.403499
+                  ]
+            },
+            {
+                  "name": "Bauskas Motormuzejs",
+                  "text": "O filială a Muzeului Motorului din Riga, găzduind o colecție de vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.180623,
+                        56.415087
+                  ]
+            },
+            {
+                  "name": "Estrāde",
+                  "text": "O scenă în aer liber în Bauska, utilizată regulat pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.17085,
+                        56.40389
+                  ]
+            },
+            {
+                  "name": "Novadpētniecības un mākslas muzejs",
+                  "text": "Muzeul de istorie locală și artă din Bauska, cu exponate regionale.",
+                  "category": "museum",
+                  "coords": [
+                        24.184366,
+                        56.410225
+                  ]
+            },
+            {
+                  "name": "Skats uz Bauskas pili",
+                  "text": "Punct de observație ce oferă o vedere panoramică asupra castelului Bauska.",
+                  "category": "natural",
+                  "coords": [
+                        24.171789,
+                        56.404851
+                  ]
+            },
+            {
+                  "name": "Derpeles muiža",
+                  "text": "Un conac istoric situat în orașul Bauska.",
+                  "category": "historical",
+                  "coords": [
+                        24.174495,
+                        56.422805
+                  ]
             }
       ],
       "en": [
@@ -18088,6 +21670,60 @@ export const latviaNature = [
                   "coords": [
                         24.297085,
                         56.403034
+                  ]
+            },
+            {
+                  "name": "Bauska castle museum",
+                  "text": "A museum within Bauska Castle showcasing the history of the fortress and the region.",
+                  "category": "castle",
+                  "coords": [
+                        24.174835,
+                        56.403499
+                  ]
+            },
+            {
+                  "name": "Bauska Motor Museum",
+                  "text": "A branch of the Riga Motor Museum featuring a collection of historic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        24.180623,
+                        56.415087
+                  ]
+            },
+            {
+                  "name": "Estrāde",
+                  "text": "An open-air stage in Bauska regularly used for cultural events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.17085,
+                        56.40389
+                  ]
+            },
+            {
+                  "name": "Novadpētniecības un mākslas muzejs",
+                  "text": "The Bauska Museum of Local History and Art featuring regional exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        24.184366,
+                        56.410225
+                  ]
+            },
+            {
+                  "name": "View over the Bauska castle",
+                  "text": "A viewpoint offering a scenic panorama over the Bauska castle.",
+                  "category": "natural",
+                  "coords": [
+                        24.171789,
+                        56.404851
+                  ]
+            },
+            {
+                  "name": "Derpeles muiža",
+                  "text": "A historical manor house located in the city of Bauska.",
+                  "category": "historical",
+                  "coords": [
+                        24.174495,
+                        56.422805
                   ]
             }
       ]

@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const bulgariaReliefV2: POI[] = [
 
   {
-    id: "bulgaria-central-stara-planina-ridge-relief-v2",
+    id: "bulgaria-central-stara-planina-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Резерват Северен Джендем",
+                  "text": "Ein streng geschütztes Naturschutzgebiet im Zentralkamm des Balkangebirges.",
+                  "category": "natural",
+                  "coords": [
+                        24.937217,
+                        42.741176
+                  ]
+            },
+            {
+                  "name": "Botew",
+                  "text": "Mit 2376 Metern der höchste Gipfel des Balkangebirges in Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Северен Джендем",
+                  "text": "Szigorúan védett természetvédelmi terület a Balkán-hegység középső részén.",
+                  "category": "natural",
+                  "coords": [
+                        24.937217,
+                        42.741176
+                  ]
+            },
+            {
+                  "name": "Ботев",
+                  "text": "A Balkán-hegység legmagasabb csúcsa Bulgáriában, 2376 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Северен Джендем",
+                  "text": "O rezervație naturală strict protejată în creasta centrală a munților Balcani.",
+                  "category": "natural",
+                  "coords": [
+                        24.937217,
+                        42.741176
+                  ]
+            },
+            {
+                  "name": "Ботев",
+                  "text": "Cel mai înalt vârf din munții Balcani, Bulgaria, având o înălțime de 2376 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Severen Dzhendem Reserve",
+                  "text": "A strictly protected nature reserve in the central ridge of the Balkan Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        24.937217,
+                        42.741176
+                  ]
+            },
+            {
+                  "name": "Botev Peak",
+                  "text": "The highest peak of the Balkan Mountains in Bulgaria, reaching 2376 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        24.91728,
+                        42.716872
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Zentral-Balkan-Kamm", hu: "Központi-Balkán-hegygerinc", ro: "Creasta Balcanilor Centrali", en: "Central Balkan Ridge" },
@@ -93,7 +174,196 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-tracian-lowland-relief-v2.webp",
   },
   {
-    id: "bulgaria-pirin-mountains-ridge-relief-v2",
+    id: "bulgaria-pirin-mountains-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wichren",
+                  "text": "Der höchste Gipfel des Pirin-Gebirges in Bulgarien.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Ein markanter Berggipfel im bulgarischen Pirin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Der zweithöchste Gipfel im Pirin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Ein Berggipfel im Pirin-Gebirge, bekannt für seine steilen Marmorhänge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Einer der ältesten Bäume Bulgariens im Pirin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vihren",
+                  "text": "A bulgáriai Pirin-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Egy jellegzetes hegycsúcs a bulgáriai Pirin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "A Pirin-hegység második legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Hegycsúcs a Pirin-hegységben, amely meredek márványoldalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Bulgária egyik legöregebb fája a Pirin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вихрен",
+                  "text": "Cel mai înalt vârf din munții Pirin din Bulgaria.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Un vârf montan proeminent în munții Pirin din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Al doilea cel mai înalt vârf din munții Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Бански суходол",
+                  "text": "Un vârf în munții Pirin, cunoscut pentru versanții săi abrupți de marmură.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Unul dintre cei mai bătrâni copaci din Bulgaria, situat în munții Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vihren",
+                  "text": "The highest peak of the Pirin Mountains in Bulgaria.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Kutelo 2",
+                  "text": "A prominent mountain peak in the Bulgarian Pirin range.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Kutelo",
+                  "text": "The second highest peak in the Pirin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Banski Suhodol",
+                  "text": "A mountain peak in the Pirin range, known for its steep marble slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39092,
+                        41.78427
+                  ]
+            },
+            {
+                  "name": "Baikushev's Pine",
+                  "text": "One of the oldest trees in Bulgaria, located in the Pirin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Hauptkamm", hu: "Pirin-hegygerinc", ro: "Creasta Munților Pirin", en: "Pirin Mountain Ridge" },
@@ -228,7 +498,160 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-rhodope-mountains-massif-relief-v2.webp",
   },
   {
-    id: "bulgaria-belogradchik-rocks-relief-v2",
+    id: "bulgaria-belogradchik-rocks-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Ein Museum, das die lokale Geschichte und archäologische Funde der Region Belowogradtschik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "Eine antike Festung, die in die spektakulären Felsen von Belowogradtschik integriert ist und ursprünglich zur Zeit des Römischen Reiches erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Eine historische Befestigung im Gebiet der Felsen von Belowogradtschik, die bis in die Antike zurückreicht.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "Eine natürliche Felsformation in den Felsen von Belowogradtschik, benannt nach ihrer Ähnlichkeit mit einer weiblichen Figur.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Múzeum, amely Belogradcsik régiójának helytörténetét és régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "A látványos belogradcsiki sziklák közé épült ősi erődítmény, amely eredetileg a Római Birodalom idején készült.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Történelmi erődítmény a belogradcsiki sziklák területén, amely az ókori időkből származik.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "Természetes sziklaalakzat a belogradcsiki sziklák között, amely női alakhoz való hasonlóságáról kapta nevét.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Un muzeu care prezintă istoria locală și descoperirile arheologice din regiunea Belogradcik.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "O cetate antică integrată în spectaculoasele stânci Belogradcik, construită inițial în timpul Imperiului Roman.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "O fortificație istorică din zona stâncilor Belogradcik, datând din timpuri străvechi.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "O formațiune stâncoasă naturală în cadrul stâncilor Belogradcik, numită astfel datorită asemănării sale cu o figură feminină.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "History Museum",
+                  "text": "A museum showcasing the local history and archaeological finds of the Belogradchik region.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Belogradchik Fortress",
+                  "text": "An ancient fortress integrated into the spectacular Belogradchik Rocks, originally built during the Roman Empire.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "A historic fortification in the Belogradchik Rocks area dating back to ancient times.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Goddess Mother",
+                  "text": "A natural rock formation within the Belogradchik Rocks, named for its resemblance to a female figure.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Belogradtschik-Felsen", hu: "Belogradcsiki-sziklák", ro: "Stâncile de la Belogradcik", en: "Belogradchik Rocks" },
@@ -273,7 +696,268 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-belogradchik-rocks-relief-v2.webp",
   },
   {
-    id: "bulgaria-vitosa-mountain-relief-v2",
+    id: "bulgaria-vitosa-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "Ein Naturschutzgebiet im Witoscha-Gebirge mit ausgedehnten Hochmooren.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "Ein markanter Berggipfel im Witoscha-Gebirge mit einer Höhe von 2.191 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Einer der höchsten Gipfel im Witoscha-Massiv mit Blick auf Sofia.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Ein berühmter „Steinfluss“ aus großen Felsbrocken an den Hängen des Witoscha-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Schwarzer Gipfel",
+                  "text": "Der höchste Gipfel des Witoscha-Massivs mit einer Höhe von 2.290 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Ein Aussichtspunkt im Witoscha-Gebirge mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Ein Panoramapunkt mit Blick auf die Witoscha-Hänge und die Stadt Bankja.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "Természetvédelmi terület a Vitosa-hegységben, kiterjedt tőzeglápokkal.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "A Vitosa-hegység egyik kiemelkedő csúcsa, amely 2191 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, ahonnan kilátás nyílik Szófiára.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Híres „kőfolyó” hatalmas sziklatömbökből a Vitosa-hegység lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "A Vitosa-masszívum legmagasabb pontja, amely 2290 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Kilátóhely a Vitosa-hegységben, ahonnan rálátni a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Panorámapont, ahonnan kilátás nyílik a Vitosa lejtőire és Bankja városára.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "O rezervație naturală în muntele Vitoșa, cu turbării întinse la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "Un vârf montan proeminent din masivul Vitoșa, atingând 2.191 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, oferind vederi asupra Sofiei.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Un faimos „râu de piatră” format din bolovani mari pe pantele muntelui Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "Cel mai înalt vârf din masivul Vitoșa, având o înălțime de 2.290 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Un punct de belvedere în munții Vitoșa care oferă vederi asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Un loc panoramic care oferă vederi asupra pantelor Vitoșa și a orașului Bankia.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torfeno Branishte Reserve",
+                  "text": "A nature reserve on Vitosha Mountain featuring extensive high-altitude peat bogs.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "A prominent mountain peak in the Vitosha range, reaching 2,191 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Golyam Rezen",
+                  "text": "One of the highest peaks in the Vitosha massif, offering views over Sofia.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Golden Bridges",
+                  "text": "A famous stone river of large boulders on the slopes of Vitosha Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Cherni vrah",
+                  "text": "The highest summit of the Vitosha massif, standing at 2,290 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            },
+            {
+                  "name": "Ostritsa",
+                  "text": "A scenic viewpoint in the Vitosha mountains offering vistas of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "A panorama spot providing views of the Vitosha slopes and the town of Bankya.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Witoscha-Gebirge", hu: "Vitos-hegység", ro: "Munții Vitosha", en: "Vitosha Mountain" },
@@ -453,7 +1137,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-strandzha-plateau-relief-v2.webp",
   },
   {
-    id: "bulgaria-osogovo-ridge-relief-v2",
+    id: "bulgaria-osogovo-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruen",
+                  "text": "Der höchste Gipfel des Osogovo-Gebirges an der Grenze zwischen Bulgarien und Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.516274,
+                        42.158009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Руен",
+                  "text": "Az Oszogovo-hegység legmagasabb csúcsa Bulgária és Észak-Macedónia határán.",
+                  "category": "landmark",
+                  "coords": [
+                        22.516274,
+                        42.158009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Руен",
+                  "text": "Cel mai înalt vârf din munții Osogovo, la granița dintre Bulgaria și Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        22.516274,
+                        42.158009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruen",
+                  "text": "The highest peak of the Osogovo Mountains, marking the border between Bulgaria and North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.516274,
+                        42.158009
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Osogowo-Gebirge", hu: "Oszogovói-hegység", ro: "Munții Osogovo", en: "Osogovo Mountains" },
@@ -768,7 +1497,196 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-yantra-valley-relief-v2.webp",
   },
   {
-    id: "bulgaria-pirin-granite-peak-zone-relief-v2",
+    id: "bulgaria-pirin-granite-peak-zone-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wichren",
+                  "text": "Mit 2914 Metern der höchste Gipfel des Pirin-Gebirges in Bulgarien.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Ein markanter Berggipfel in der Granitzone des Pirin-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Der zweithöchste Gipfel des Kutelo-Massivs im Pirin-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Ein bedeutender Marmorgipfel im Pirin-Gebirge, bekannt für seine steilen Hänge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Eine etwa 1300 Jahre alte Panzerkiefer, einer der ältesten Bäume Bulgariens.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vihren",
+                  "text": "A bulgáriai Pirin-hegység legmagasabb csúcsa, magassága 2914 méter.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Jellegzetes hegycsúcs a Pirin-hegység gránitövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "A Kutelo-masszívum második legmagasabb csúcsa a Pirin Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "A Pirin-hegység egyik jelentős márványcsúcsa, meredek lejtőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Körülbelül 1300 éves páncélfenyő, Bulgária egyik legöregebb fája.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вихрен",
+                  "text": "Cel mai înalt vârf din munții Pirin, Bulgaria, având o înălțime de 2914 metri.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Възела",
+                  "text": "Un vârf muntos proeminent în zona de granit a munților Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Кутело 2",
+                  "text": "Al doilea cel mai înalt vârf al masivului Kutelo din Parcul Național Pirin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Кутело",
+                  "text": "Un vârf important de marmură din munții Pirin, cunoscut pentru pantele sale abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Байкушевата мура;Байкушева мура",
+                  "text": "Un pin de aproximativ 1300 de ani, unul dintre cei mai bătrâni arbori din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vihren",
+                  "text": "The highest peak of the Pirin Mountains in Bulgaria, reaching an elevation of 2,914 meters.",
+                  "category": "natural",
+                  "coords": [
+                        23.398844,
+                        41.767332
+                  ]
+            },
+            {
+                  "name": "Vazela",
+                  "text": "A prominent mountain peak located in the granite zone of the Pirin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.437092,
+                        41.732956
+                  ]
+            },
+            {
+                  "name": "Kutelo 2",
+                  "text": "The second-highest peak of the Kutelo massif in the Pirin National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.39536,
+                        41.78001
+                  ]
+            },
+            {
+                  "name": "Kutelo",
+                  "text": "A major marble peak in the Pirin Mountains, known for its steep and rugged slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.400034,
+                        41.776871
+                  ]
+            },
+            {
+                  "name": "Baikushev's Pine",
+                  "text": "A Bosnian pine estimated to be 1,300 years old, one of the oldest trees in Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.42287,
+                        41.767043
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Granitzone", hu: "Pirin-gránitzóna", ro: "Zona de granit din Pirin", en: "Pirin Granite Zone" },
@@ -948,7 +1866,88 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-balkan-karst-relief-v2.webp",
   },
   {
-    id: "bulgaria-mesta-valley-relief-v2",
+    id: "bulgaria-mesta-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Katnitsa",
+                  "text": "Ein kleiner Tierpark oder Gehege im Tal des Flusses Mesta.",
+                  "category": "recreational",
+                  "coords": [
+                        23.828412,
+                        41.574407
+                  ]
+            },
+            {
+                  "name": "Никополис ад Нестум",
+                  "text": "Die Ruinen einer bedeutenden antiken römischen Stadt im Tal des Flusses Mesta.",
+                  "category": "museum",
+                  "coords": [
+                        23.795372,
+                        41.596517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Katnitsa",
+                  "text": "Kisebb állatpark vagy vadaskert a Mesta-folyó völgyében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.828412,
+                        41.574407
+                  ]
+            },
+            {
+                  "name": "Никополис ад Нестум",
+                  "text": "Egy jelentős ókori római város romjai a Mesta-folyó völgyében.",
+                  "category": "museum",
+                  "coords": [
+                        23.795372,
+                        41.596517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Katnitsa",
+                  "text": "Un mic parc zoologic sau țarc de animale situat în valea râului Mesta.",
+                  "category": "recreational",
+                  "coords": [
+                        23.828412,
+                        41.574407
+                  ]
+            },
+            {
+                  "name": "Никополис ад Нестум",
+                  "text": "Ruinele unui important oraș roman antic situat în valea râului Mesta.",
+                  "category": "museum",
+                  "coords": [
+                        23.795372,
+                        41.596517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Katnitsa",
+                  "text": "A small animal park or enclosure located in the Mesta River Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        23.828412,
+                        41.574407
+                  ]
+            },
+            {
+                  "name": "Nikopolis ad Nestum",
+                  "text": "The ruins of a significant ancient Roman city located in the Mesta River Valley.",
+                  "category": "museum",
+                  "coords": [
+                        23.795372,
+                        41.596517
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BG",
     name: { de: "Mesta-Tal", hu: "Mesztosz-völgy", ro: "Valea râului Mesta", en: "Mesta River Valley" },
@@ -1083,7 +2082,88 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-pirin-foothills-relief-v2.webp",
   },
   {
-    id: "bulgaria-rhodope-plateau-relief-v2",
+    id: "bulgaria-rhodope-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ελατιάς",
+                  "text": "Überreste einer historischen Siedlung auf dem Rhodopen-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        24.295475,
+                        41.487497
+                  ]
+            },
+            {
+                  "name": "Εβρενές",
+                  "text": "Historische Ruinen in der Region des Rhodopen-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        24.26058,
+                        41.487618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ελατιάς",
+                  "text": "Történelmi település maradványai a Rodope-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        24.295475,
+                        41.487497
+                  ]
+            },
+            {
+                  "name": "Εβρενές",
+                  "text": "Történelmi romok a Rodope-fennsík régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        24.26058,
+                        41.487618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ελατιάς",
+                  "text": "Rămășițele unei așezări istorice pe platoul Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.295475,
+                        41.487497
+                  ]
+            },
+            {
+                  "name": "Εβρενές",
+                  "text": "Ruine istorice în regiunea platoului Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.26058,
+                        41.487618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elatia (Karadere)",
+                  "text": "Remains of a historical settlement on the Rhodope Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        24.295475,
+                        41.487497
+                  ]
+            },
+            {
+                  "name": "Evrenes (Pulovo)",
+                  "text": "Historical ruins in the Rhodope Plateau region.",
+                  "category": "historical",
+                  "coords": [
+                        24.26058,
+                        41.487618
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Plateau", hu: "Rodope-fennsík", ro: "Podișul Rodopi", en: "Rhodope Plateau" },
@@ -1263,7 +2343,196 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-sredna-gora-ridge-relief-v2.webp",
   },
   {
-    id: "bulgaria-strandzha-ridge-relief-v2",
+    id: "bulgaria-strandzha-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kocayazı Kula Yolu Tümülüsü",
+                  "text": "Ein antiker thrakischer Grabhügel in der Region des Strandscha-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        27.217619,
+                        41.973501
+                  ]
+            },
+            {
+                  "name": "Kocayazı Paraşüttepe 2 Tümülüsü",
+                  "text": "Ein thrakischer Grabhügel in der Nähe von Kocayazı im Strandscha-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        27.209978,
+                        41.969084
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 1 Tümülüsü",
+                  "text": "Überreste eines antiken Grabhügels in der thrakischen Region bei Terzidere.",
+                  "category": "historical",
+                  "coords": [
+                        27.160609,
+                        41.990942
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 4 Tümülüsü",
+                  "text": "Ein thrakisches Denkmal in Form eines Grabhügels im waldreichen Strandscha-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        27.160953,
+                        41.9898
+                  ]
+            },
+            {
+                  "name": "Topkoru 1 Tümülüsü",
+                  "text": "Ein thrakischer Grabhügel in der archäologisch bedeutsamen Strandscha-Region.",
+                  "category": "historical",
+                  "coords": [
+                        27.161722,
+                        42.009375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kocayazı Kula Yolu Tümülüsü",
+                  "text": "Ókori traák sírhalom a Sztrandzsa-hegység régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        27.217619,
+                        41.973501
+                  ]
+            },
+            {
+                  "name": "Kocayazı Paraşüttepe 2 Tümülüsü",
+                  "text": "Thrák sírhalom Kocayazı közelében, a Sztrandzsa-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        27.209978,
+                        41.969084
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 1 Tümülüsü",
+                  "text": "Ókori sírhalom maradványai a Terzidere környéki thrák régióban.",
+                  "category": "historical",
+                  "coords": [
+                        27.160609,
+                        41.990942
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 4 Tümülüsü",
+                  "text": "Thrák sírhalom formájú műemlék az erdős Sztrandzsa-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        27.160953,
+                        41.9898
+                  ]
+            },
+            {
+                  "name": "Topkoru 1 Tümülüsü",
+                  "text": "Thrák sírhalom a régészetileg jelentős Sztrandzsa-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        27.161722,
+                        42.009375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kocayazı Kula Yolu Tümülüsü",
+                  "text": "Un tumul tracic antic situat în regiunea munților Strandzha.",
+                  "category": "historical",
+                  "coords": [
+                        27.217619,
+                        41.973501
+                  ]
+            },
+            {
+                  "name": "Kocayazı Paraşüttepe 2 Tümülüsü",
+                  "text": "Un tumul tracic situat lângă Kocayazı în munții Strandzha.",
+                  "category": "historical",
+                  "coords": [
+                        27.209978,
+                        41.969084
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 1 Tümülüsü",
+                  "text": "Rămășițele unui tumul antic în regiunea tracă de lângă Terzidere.",
+                  "category": "historical",
+                  "coords": [
+                        27.160609,
+                        41.990942
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 4 Tümülüsü",
+                  "text": "Un monument tracic sub formă de tumul în zona împădurită a munților Strandzha.",
+                  "category": "historical",
+                  "coords": [
+                        27.160953,
+                        41.9898
+                  ]
+            },
+            {
+                  "name": "Topkoru 1 Tümülüsü",
+                  "text": "Un tumul tracic situat în regiunea Strandzha, importantă din punct de vedere arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        27.161722,
+                        42.009375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kocayazı Kula Yolu Tümülüsü",
+                  "text": "An ancient Thracian burial mound in the Strandzha Ridge region.",
+                  "category": "historical",
+                  "coords": [
+                        27.217619,
+                        41.973501
+                  ]
+            },
+            {
+                  "name": "Kocayazı Paraşüttepe 2 Tümülüsü",
+                  "text": "A Thracian burial mound located near Kocayazı in the Strandzha Ridge.",
+                  "category": "historical",
+                  "coords": [
+                        27.209978,
+                        41.969084
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 1 Tümülüsü",
+                  "text": "Remains of an ancient burial mound in the Thracian region near Terzidere.",
+                  "category": "historical",
+                  "coords": [
+                        27.160609,
+                        41.990942
+                  ]
+            },
+            {
+                  "name": "Terzidere Topkoru 4 Tümülüsü",
+                  "text": "A Thracian monument in the form of a burial mound in the forested Strandzha area.",
+                  "category": "historical",
+                  "coords": [
+                        27.160953,
+                        41.9898
+                  ]
+            },
+            {
+                  "name": "Topkoru 1 Tümülüsü",
+                  "text": "A Thracian burial mound in the archaeologically significant Strandzha region.",
+                  "category": "historical",
+                  "coords": [
+                        27.161722,
+                        42.009375
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Strandscha-Hauptkamm", hu: "Sztrandzsa-hegygerinc", ro: "Creasta Strandzha", en: "Strandzha Ridge" },
@@ -1488,7 +2757,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-stara-planina-plateau-relief-v2.webp",
   },
   {
-    id: "bulgaria-pirin-valleys-relief-v2",
+    id: "bulgaria-pirin-valleys-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Полежан",
+                  "text": "Einer der höchsten Granitgipfel im Pirin-Gebirge in Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496187,
+                        41.725121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Полежан",
+                  "text": "Bulgária Pirin-hegységének egyik legmagasabb gránitcsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496187,
+                        41.725121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Полежан",
+                  "text": "Unul dintre cele mai înalte vârfuri de granit din Munții Pirin din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496187,
+                        41.725121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polezhan",
+                  "text": "One of the highest granite peaks in the Pirin Mountains of Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496187,
+                        41.725121
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BG",
     name: { de: "Pirin-Täler", hu: "Pirin-völgyek", ro: "Văile din Pirin", en: "Pirin Valleys" },
@@ -1578,7 +2892,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-strumski-canyon-narrow-relief-v2.webp",
   },
   {
-    id: "bulgaria-rhodope-ridge-relief-v2",
+    id: "bulgaria-rhodope-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Риболов на шаран",
+                  "text": "Eine touristische Attraktion für Angler im Rhodopen-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.166501,
+                        41.588402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Риболов на шаран",
+                  "text": "Horgászattal kapcsolatos turisztikai látnivaló a Rodope-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.166501,
+                        41.588402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Риболов на шаран",
+                  "text": "O atracție turistică legată de pescuit în Munții Rodopi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.166501,
+                        41.588402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fishing carp",
+                  "text": "A tourist attraction related to fishing in the Rhodope Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.166501,
+                        41.588402
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Kamm", hu: "Rodope-hegygerinc", ro: "Creasta Munților Rodopi", en: "Rhodope Ridge" },
@@ -1623,7 +2982,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-rhodope-ridge-relief-v2.webp",
   },
   {
-    id: "bulgaria-balkan-valleys-relief-v2",
+    id: "bulgaria-balkan-valleys-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "text": "Abgelegenes orthodoxes Kloster in den Balkangebirgen.",
+                  "category": "religious",
+                  "coords": [
+                        24.804272,
+                        42.792569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "text": "Távoli ortodox kolostor a Balkán-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        24.804272,
+                        42.792569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "text": "Mănăstire ortodoxă izolată situată în Munții Balcani.",
+                  "category": "religious",
+                  "coords": [
+                        24.804272,
+                        42.792569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zelenikovski monastery",
+                  "text": "Remote Orthodox monastery located in the Balkan Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        24.804272,
+                        42.792569
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BG",
     name: { de: "Balkan-Täler", hu: "Balkán-völgyek", ro: "Văile Balcanilor", en: "Balkan Valleys" },
@@ -1713,7 +3117,124 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-pirin-plateau-relief-v2.webp",
   },
   {
-    id: "bulgaria-rodope-gorge-relief-v2",
+    id: "bulgaria-rodope-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάτω Μανδριά",
+                  "text": "Kato Mandria enthält die Ruinen einer ehemaligen Siedlung in den malerischen Rhodopen-Schluchten.",
+                  "category": "historical",
+                  "coords": [
+                        24.40217,
+                        41.465887
+                  ]
+            },
+            {
+                  "name": "Άνω Μανδριά",
+                  "text": "Ano Mandria weist historische Ruinen eines Bergdorfes in der Region der Rhodopen-Schluchten auf.",
+                  "category": "historical",
+                  "coords": [
+                        24.393943,
+                        41.490005
+                  ]
+            },
+            {
+                  "name": "Θερμιά",
+                  "text": "Thermia, auch bekannt als Ladzha, ist eine Stätte mit antiken Ruinen in der Nähe der Thermalquellen der Rhodopen-Schluchten.",
+                  "category": "historical",
+                  "coords": [
+                        24.436762,
+                        41.478618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάτω Μανδριά",
+                  "text": "Kato Mandria egy egykori település romjait őrzi a festői Rodope-szurdokokban.",
+                  "category": "historical",
+                  "coords": [
+                        24.40217,
+                        41.465887
+                  ]
+            },
+            {
+                  "name": "Άνω Μανδριά",
+                  "text": "Ano Mandria egy hegyi falu történelmi romjait mutatja be a Rodope-szurdokok régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        24.393943,
+                        41.490005
+                  ]
+            },
+            {
+                  "name": "Θερμιά",
+                  "text": "Thermia, más néven Ladzha, egy ókori romokat tartalmazó helyszín a Rodope-szurdokok termálforrásai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.436762,
+                        41.478618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάτω Μανδριά",
+                  "text": "Kato Mandria conține ruinele unei foste așezări situate în pitoreștile Chei ale Rodopilor.",
+                  "category": "historical",
+                  "coords": [
+                        24.40217,
+                        41.465887
+                  ]
+            },
+            {
+                  "name": "Άνω Μανδριά",
+                  "text": "Ano Mandria prezintă ruine istorice ale unui sat de munte situat în regiunea Cheilor Rodopilor.",
+                  "category": "historical",
+                  "coords": [
+                        24.393943,
+                        41.490005
+                  ]
+            },
+            {
+                  "name": "Θερμιά",
+                  "text": "Thermia, cunoscută și sub numele de Ladzha, este un sit cu ruine antice lângă izvoarele termale din Cheile Rodopilor.",
+                  "category": "historical",
+                  "coords": [
+                        24.436762,
+                        41.478618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kato Mandria (Dolno Aliköy)",
+                  "text": "Kato Mandria contains the ruins of a former settlement located within the scenic Rhodope Gorges.",
+                  "category": "historical",
+                  "coords": [
+                        24.40217,
+                        41.465887
+                  ]
+            },
+            {
+                  "name": "Ano Mandria (Gorno Aliköy)",
+                  "text": "Ano Mandria features historical ruins of a mountain village situated in the Rhodope Gorges region.",
+                  "category": "historical",
+                  "coords": [
+                        24.393943,
+                        41.490005
+                  ]
+            },
+            {
+                  "name": "Thermia (Ladzha)",
+                  "text": "Thermia, also known as Ladzha, is a site featuring ancient ruins near the thermal springs of the Rhodope Gorges.",
+                  "category": "historical",
+                  "coords": [
+                        24.436762,
+                        41.478618
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BG",
     name: { de: "Rhodopen-Schluchten", hu: "Rodope-szurdokok", ro: "Cheile Rodopilor", en: "Rhodope Gorges" },
@@ -1758,7 +3279,88 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-rodope-gorge-relief-v2.webp",
   },
   {
-    id: "bulgaria-stara-planina-ridge-relief-v2",
+    id: "bulgaria-stara-planina-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Резерват Боатин",
+                  "text": "Ein Naturschutzgebiet im Balkangebirge (Stara Planina).",
+                  "category": "natural",
+                  "coords": [
+                        24.262637,
+                        42.797462
+                  ]
+            },
+            {
+                  "name": "Тетевенска Баба",
+                  "text": "Ein markanter Berggipfel im Balkangebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.286123,
+                        42.772599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Боатин",
+                  "text": "Természetvédelmi terület a Balkán-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        24.262637,
+                        42.797462
+                  ]
+            },
+            {
+                  "name": "Тетевенска Баба",
+                  "text": "Egy jellegzetes hegycsúcs a Balkán-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.286123,
+                        42.772599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Боатин",
+                  "text": "O rezervație naturală în munții Stara Planina.",
+                  "category": "natural",
+                  "coords": [
+                        24.262637,
+                        42.797462
+                  ]
+            },
+            {
+                  "name": "Тетевенска Баба",
+                  "text": "Un vârf montan proeminent în munții Stara Planina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.286123,
+                        42.772599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boatin Reserve",
+                  "text": "A nature reserve located in the Stara Planina mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        24.262637,
+                        42.797462
+                  ]
+            },
+            {
+                  "name": "Tetevenska baba",
+                  "text": "A prominent mountain peak in the Stara Planina range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.286123,
+                        42.772599
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Stara-Planina-Kamm", hu: "Sztara-Planina-hegygerinc", ro: "Creasta Stara Planina", en: "Stara Planina Ridge" },
@@ -1803,7 +3405,88 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-stara-planina-ridge-relief-v2.webp",
   },
   {
-    id: "bulgaria-osogovo-ridge-high-relief-v2",
+    id: "bulgaria-osogovo-ridge-high-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Sv. Joakim Osogovski",
+                  "text": "Ein bedeutender orthodoxer Klosterkomplex im Osogovo-Gebirge, gewidmet dem heiligen Joachim.",
+                  "category": "landmark",
+                  "coords": [
+                        22.363429,
+                        42.208332
+                  ]
+            },
+            {
+                  "name": "Stanecki Vodopadi",
+                  "text": "Malerische Wasserfälle an den Hängen des Osogovo-Hauptkamms.",
+                  "category": "landmark",
+                  "coords": [
+                        22.396432,
+                        42.17633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Осоговски Манастир",
+                  "text": "Jelentős ortodox kolostorkomplexum az Oszogovo-hegységben, amelyet Szent Joakimnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        22.363429,
+                        42.208332
+                  ]
+            },
+            {
+                  "name": "Stanecki Vodopadi",
+                  "text": "Festői vízesések az Oszogovo-főgerinc lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.396432,
+                        42.17633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Осоговски Манастир",
+                  "text": "Un complex mănăstiresc ortodox semnificativ situat în Munții Osogovo, dedicat Sfântului Ioachim.",
+                  "category": "landmark",
+                  "coords": [
+                        22.363429,
+                        42.208332
+                  ]
+            },
+            {
+                  "name": "Stanecki Vodopadi",
+                  "text": "Cascade pitorești situate pe versanții crestei principale a Munților Osogovo.",
+                  "category": "landmark",
+                  "coords": [
+                        22.396432,
+                        42.17633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Osogovo",
+                  "text": "A significant Orthodox monastery complex located in the Osogovo Mountains, dedicated to Saint Joachim.",
+                  "category": "landmark",
+                  "coords": [
+                        22.363429,
+                        42.208332
+                  ]
+            },
+            {
+                  "name": "Stanecki Vodopadi",
+                  "text": "Picturesque waterfalls situated on the slopes of the Osogovo Main Ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.396432,
+                        42.17633
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Osogowo-Hauptkamm", hu: "Oszogovói-főgerinc", ro: "Creasta Osogovo", en: "Osogovo Main Ridge" },
@@ -1893,7 +3576,52 @@ export const bulgariaReliefV2: POI[] = [
     image: "/poi-images/bulgaria-struma-basin-relief-v2.webp",
   },
   {
-    id: "bulgaria-balkan-plateau-high-relief-v2",
+    id: "bulgaria-balkan-plateau-high-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "водопад Коман",
+                  "text": "Der Koman-Wasserfall ist eine beeindruckende Natursehenswürdigkeit auf der Balkan-Hochebene.",
+                  "category": "landmark",
+                  "coords": [
+                        24.600381,
+                        42.932444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "водопад Коман",
+                  "text": "A Komán-vízesés egy lenyűgöző természeti látványosság a Balkán-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        24.600381,
+                        42.932444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "водопад Коман",
+                  "text": "Cascada Koman este o atracție naturală impresionantă situată pe platoul înalt al Balkanului.",
+                  "category": "landmark",
+                  "coords": [
+                        24.600381,
+                        42.932444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koman waterfall",
+                  "text": "Koman waterfall is an impressive natural attraction located on the Balkan High Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        24.600381,
+                        42.932444
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Balkan-Hochplateau", hu: "Balkán-fennsík", ro: "Podișul Balcanic înalt", en: "Balkan High Plateau" },

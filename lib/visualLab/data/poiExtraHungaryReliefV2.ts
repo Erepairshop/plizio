@@ -48,7 +48,52 @@ export const hungaryReliefV2: POI[] = [
     image: "/poi-images/hungary-haromszegi-medence-relief-v2.webp",
   },
   {
-    id: "hungary-cserehati-dombsag-relief-v2",
+    id: "hungary-cserehati-dombsag-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vendéghy-kúria",
+                  "text": "Ein historisches Herrenhaus in der Hügellandschaft des Cserehát.",
+                  "category": "castle",
+                  "coords": [
+                        20.972699,
+                        48.431983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vendéghy-kúria",
+                  "text": "Történelmi kúria a Cserehát dombjai között.",
+                  "category": "castle",
+                  "coords": [
+                        20.972699,
+                        48.431983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vendéghy-kúria",
+                  "text": "Un conac istoric situat în zona colinară Cserehát.",
+                  "category": "castle",
+                  "coords": [
+                        20.972699,
+                        48.431983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vendéghy-kúria",
+                  "text": "A historic manor house located in the Cserehát Hills.",
+                  "category": "castle",
+                  "coords": [
+                        20.972699,
+                        48.431983
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "HU",
     name: { de: "Cserehát-Hügelland", hu: "Csereháti-dombság", ro: "Dealurile Cserehát", en: "Cserehát Hills" },

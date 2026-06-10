@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const netherlandsEconomicV2: POI[] = [
 
   {
-    id: "netherlands-emo-port-eems-economic-v2",
+    id: "netherlands-emo-port-eems-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Goliath",
+                  "text": "Eine historische Poldermühle in der Nähe von Eemshaven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.784508,
+                        53.44713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Goliath",
+                  "text": "Történelmi poldermalom Eemshaven közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.784508,
+                        53.44713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Goliath",
+                  "text": "O moară de vânt istorică situată lângă Eemshaven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.784508,
+                        53.44713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Goliath",
+                  "text": "A historic polder windmill located near Eemshaven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.784508,
+                        53.44713
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Eemshaven", hu: "Eemshaven", ro: "Eemshaven", en: "Eemshaven" },
@@ -138,7 +183,160 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-vdl-nedcar-economic-v2.webp",
   },
   {
-    id: "netherlands-port-moerdijk-economic-v2",
+    id: "netherlands-port-moerdijk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Ein Navigationsfeuer im Hafen von Moerdijk zur Orientierung einlaufender Schiffe.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "Ein Naturschutzgebiet am Hollands Diep, das Lebensraum für zahlreiche Wasservögel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "Ein öffentlicher Park in Moerdijk, der Möglichkeiten zur Erholung im Grünen bietet.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Ein Aussichtspunkt in Moerdijk, der einen weiten Blick über das Hollands Diep ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Navigációs fény Moerdijk kikötőjében, amely a beérkező hajók tájékozódását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "Természetvédelmi terület a Hollands Diep mentén, amely számos vízimadárnak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "Nyilvános park Moerdijkben, amely lehetőséget nyújt a zöldövezeti kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Kilátópont Moerdijkben, amely tágas kilátást nyújt a Hollands Diep folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Un far de navigație în portul Moerdijk pentru orientarea navelor care intră.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "O rezervație naturală pe malul Hollands Diep, care ofer_ habitat pentru numeroase păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "Un parc public în Moerdijk, care oferă oportunități de recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Un punct de observare în Moerdijk, oferind o vedere panoramică asupra Hollands Diep.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "A navigation light in the Port of Moerdijk for the orientation of incoming ships.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "A nature reserve along the Hollands Diep, providing habitat for numerous water birds.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "A public park in Moerdijk, offering opportunities for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "A viewpoint in Moerdijk, offering wide views over the Hollands Diep.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Hafen Moerdijk", hu: "Moerdijk kikötő", ro: "Portul Moerdijk", en: "Port of Moerdijk" },
@@ -183,7 +381,304 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-port-moerdijk-economic-v2.webp",
   },
   {
-    id: "netherlands-greenport-westland-economic-v2",
+    id: "netherlands-greenport-westland-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum De Timmerwerf",
+                  "text": "Das Museum De Timmerwerf ist eine historische Zimmerei in De Lier, die die Handwerksgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.24934,
+                        51.974757
+                  ]
+            },
+            {
+                  "name": "Staelduinse Bos",
+                  "text": "Der Staelduinse Bos ist ein Waldgebiet auf alten Flussdünen im Westland.",
+                  "category": "natural",
+                  "coords": [
+                        4.174179,
+                        51.974662
+                  ]
+            },
+            {
+                  "name": "De Zeven Gaten",
+                  "text": "De Zeven Gaten ist ein kleines Naturgebiet im Westland mit Wasserwegen und reicher Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        4.25917,
+                        51.992147
+                  ]
+            },
+            {
+                  "name": "Tuin Theater",
+                  "text": "Das Tuin Theater ist eine Freilichtbühne oder ein Garten-Theater im Westland.",
+                  "category": "cultural",
+                  "coords": [
+                        4.199131,
+                        52.00748
+                  ]
+            },
+            {
+                  "name": "Het Westlants Schaatsmuseum",
+                  "text": "Dieses Museum widmet sich der Geschichte des Schlittschuhlaufens in der Region Westland.",
+                  "category": "museum",
+                  "coords": [
+                        4.259942,
+                        51.977099
+                  ]
+            },
+            {
+                  "name": "Westlands Museum",
+                  "text": "Das Westlands Museum zeigt die Geschichte des Gartenbaus und der Region Westland.",
+                  "category": "museum",
+                  "coords": [
+                        4.246315,
+                        52.009006
+                  ]
+            },
+            {
+                  "name": "WestlandTheater De Naald",
+                  "text": "WestlandTheater De Naald ist ein Kulturzentrum und Theater in Naaldwijk.",
+                  "category": "cultural",
+                  "coords": [
+                        4.209506,
+                        51.994207
+                  ]
+            },
+            {
+                  "name": "Tekno Collectables",
+                  "text": "Tekno Collectables ist ein Museum und Geschäft für hochwertige LKW-Modelle.",
+                  "category": "museum",
+                  "coords": [
+                        4.238133,
+                        51.955369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum De Timmerwerf",
+                  "text": "A De Timmerwerf múzeum egy történelmi ácsműhely De Lierben, amely a helyi mesterség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.24934,
+                        51.974757
+                  ]
+            },
+            {
+                  "name": "Staelduinse Bos",
+                  "text": "A Staelduinse Bos egy erdős terület régi folyóparti dűnéken a Westland régióban.",
+                  "category": "natural",
+                  "coords": [
+                        4.174179,
+                        51.974662
+                  ]
+            },
+            {
+                  "name": "De Zeven Gaten",
+                  "text": "A De Zeven Gaten egy kis természetvédelmi terület a Westlandben, vízi utakkal és gazdag növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        4.25917,
+                        51.992147
+                  ]
+            },
+            {
+                  "name": "Tuin Theater",
+                  "text": "A Tuin Theater egy szabadtéri színpad vagy kerti színház a Westland régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.199131,
+                        52.00748
+                  ]
+            },
+            {
+                  "name": "Het Westlants Schaatsmuseum",
+                  "text": "Ez a múzeum a korcsolyázás történetét mutatja be a Westland régióban.",
+                  "category": "museum",
+                  "coords": [
+                        4.259942,
+                        51.977099
+                  ]
+            },
+            {
+                  "name": "Westlands Museum",
+                  "text": "A Westlands Museum a Westland régió és a helyi kertészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.246315,
+                        52.009006
+                  ]
+            },
+            {
+                  "name": "WestlandTheater De Naald",
+                  "text": "A WestlandTheater De Naald egy kulturális központ és színház Naaldwijkben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.209506,
+                        51.994207
+                  ]
+            },
+            {
+                  "name": "Tekno Collectables",
+                  "text": "A Tekno Collectables egy múzeum és üzlet, amely kiváló minőségű teherautó-modelleket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        4.238133,
+                        51.955369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum De Timmerwerf",
+                  "text": "Muzeul De Timmerwerf este o tâmplărie istorică din De Lier care prezintă istoria meșteșugului local.",
+                  "category": "museum",
+                  "coords": [
+                        4.24934,
+                        51.974757
+                  ]
+            },
+            {
+                  "name": "Staelduinse Bos",
+                  "text": "Staelduinse Bos este o zonă forestieră situată pe dune de râu vechi în regiunea Westland.",
+                  "category": "natural",
+                  "coords": [
+                        4.174179,
+                        51.974662
+                  ]
+            },
+            {
+                  "name": "De Zeven Gaten",
+                  "text": "De Zeven Gaten este o mică rezervație naturală din Westland, cu cursuri de apă și vegetație bogată.",
+                  "category": "natural",
+                  "coords": [
+                        4.25917,
+                        51.992147
+                  ]
+            },
+            {
+                  "name": "Tuin Theater",
+                  "text": "Tuin Theater este un teatru în aer liber sau de grădină situat în regiunea Westland.",
+                  "category": "cultural",
+                  "coords": [
+                        4.199131,
+                        52.00748
+                  ]
+            },
+            {
+                  "name": "Het Westlants Schaatsmuseum",
+                  "text": "Acest muzeu este dedicat istoriei patinajului în regiunea Westland.",
+                  "category": "museum",
+                  "coords": [
+                        4.259942,
+                        51.977099
+                  ]
+            },
+            {
+                  "name": "Westlands Museum",
+                  "text": "Westlands Museum prezintă istoria horticulturii și a regiunii Westland.",
+                  "category": "museum",
+                  "coords": [
+                        4.246315,
+                        52.009006
+                  ]
+            },
+            {
+                  "name": "WestlandTheater De Naald",
+                  "text": "WestlandTheater De Naald este un centru cultural și teatru situat în Naaldwijk.",
+                  "category": "cultural",
+                  "coords": [
+                        4.209506,
+                        51.994207
+                  ]
+            },
+            {
+                  "name": "Tekno Collectables",
+                  "text": "Tekno Collectables este un muzeu și magazin dedicat machetelor de camioane de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        4.238133,
+                        51.955369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum De Timmerwerf",
+                  "text": "Museum De Timmerwerf is a historic carpentry workshop in De Lier showcasing local craft history.",
+                  "category": "museum",
+                  "coords": [
+                        4.24934,
+                        51.974757
+                  ]
+            },
+            {
+                  "name": "Staelduinse Bos",
+                  "text": "Staelduinse Bos is a forested area on old river dunes in the Westland region.",
+                  "category": "natural",
+                  "coords": [
+                        4.174179,
+                        51.974662
+                  ]
+            },
+            {
+                  "name": "De Zeven Gaten",
+                  "text": "De Zeven Gaten is a small nature reserve in Westland featuring waterways and lush vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        4.25917,
+                        51.992147
+                  ]
+            },
+            {
+                  "name": "Tuin Theater",
+                  "text": "Tuin Theater is an open-air or garden theatre located in the Westland region.",
+                  "category": "cultural",
+                  "coords": [
+                        4.199131,
+                        52.00748
+                  ]
+            },
+            {
+                  "name": "Het Westlants Schaatsmuseum",
+                  "text": "This museum is dedicated to the history of ice skating in the Westland region.",
+                  "category": "museum",
+                  "coords": [
+                        4.259942,
+                        51.977099
+                  ]
+            },
+            {
+                  "name": "Westlands Museum",
+                  "text": "The Westlands Museum showcases the history of horticulture and the Westland region.",
+                  "category": "museum",
+                  "coords": [
+                        4.246315,
+                        52.009006
+                  ]
+            },
+            {
+                  "name": "WestlandTheater De Naald",
+                  "text": "WestlandTheater De Naald is a cultural center and theatre located in Naaldwijk.",
+                  "category": "cultural",
+                  "coords": [
+                        4.209506,
+                        51.994207
+                  ]
+            },
+            {
+                  "name": "Tekno Collectables",
+                  "text": "Tekno Collectables is a museum and shop featuring high-quality model trucks.",
+                  "category": "museum",
+                  "coords": [
+                        4.238133,
+                        51.955369
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NL",
     name: { de: "Greenport Westland", hu: "Greenport Westland", ro: "Greenport Westland", en: "Greenport Westland" },
@@ -273,7 +768,304 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-brainport-eindhoven-economic-v2.webp",
   },
   {
-    id: "netherlands-port-vlissingen-economic-v2",
+    id: "netherlands-port-vlissingen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reptil Zoo Iguana",
+                  "text": "Ein Spezialzoo in Vlissingen, der eine Vielzahl von Reptilien und Amphibien ausstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.572806,
+                        51.441922
+                  ]
+            },
+            {
+                  "name": "MuZEEum",
+                  "text": "Ein maritimes Museum in Vlissingen, das die Seefahrtsgeschichte der Provinz Zeeland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        3.575426,
+                        51.441374
+                  ]
+            },
+            {
+                  "name": "Karolingische ringwalburg",
+                  "text": "Eine archäologische Stätte in Vlissingen mit den Überresten einer frühmittelalterlichen Ringwallburg.",
+                  "category": "historical",
+                  "coords": [
+                        3.604293,
+                        51.463243
+                  ]
+            },
+            {
+                  "name": "MuZEEum Kazematten",
+                  "text": "Ein Teil des Schifffahrtsmuseums in Vlissingen, untergebracht in historischen Festungsgewölben.",
+                  "category": "museum",
+                  "coords": [
+                        3.574994,
+                        51.439707
+                  ]
+            },
+            {
+                  "name": "Museum Scheldewerf",
+                  "text": "Ein Museum in Vlissingen, das der Geschichte des Schiffbaus und der Schelde-Werft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.577831,
+                        51.446272
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Vlissingen",
+                  "text": "Ein Museum in Vlissingen, das in einem Bunker aus dem Zweiten Weltkrieg untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.580821,
+                        51.44037
+                  ]
+            },
+            {
+                  "name": "Badstrand",
+                  "text": "Ein beliebter Badestrand in Vlissingen an der Küste der Westerschelde.",
+                  "category": "recreational",
+                  "coords": [
+                        3.559244,
+                        51.449033
+                  ]
+            },
+            {
+                  "name": "Nollestrand",
+                  "text": "Ein Sandstrand in Vlissingen, der zum Erholen und Spazierengehen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.551247,
+                        51.450699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reptielenzoo Iguana",
+                  "text": "Vlissingeni állatkert, amely hüllők és kétéltűek bemutatására specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        3.572806,
+                        51.441922
+                  ]
+            },
+            {
+                  "name": "MuZEEum",
+                  "text": "Tengerészeti múzeum Vlissingenben, amely Zeeland tartomány tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.575426,
+                        51.441374
+                  ]
+            },
+            {
+                  "name": "Karolingische ringwalburg",
+                  "text": "Régészeti lelőhely Vlissingenben, egy kora középkori körsáncvár maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        3.604293,
+                        51.463243
+                  ]
+            },
+            {
+                  "name": "MuZEEum Kazematten",
+                  "text": "A vlissingeni tengerészeti múzeum része, amely történelmi erődítménykazamatákban található.",
+                  "category": "museum",
+                  "coords": [
+                        3.574994,
+                        51.439707
+                  ]
+            },
+            {
+                  "name": "Museum Scheldewerf",
+                  "text": "Hajógyártási múzeum Vlissingenben, amely a Scheldewerf hajógyár történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.577831,
+                        51.446272
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Vlissingen",
+                  "text": "Múzeum Vlissingenben, amely egy második világháborús bunkerben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        3.580821,
+                        51.44037
+                  ]
+            },
+            {
+                  "name": "Badstrand",
+                  "text": "Népszerű strand Vlissingenben, a Westerschelde torkolatának partján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.559244,
+                        51.449033
+                  ]
+            },
+            {
+                  "name": "Nollestrand",
+                  "text": "Homokos tengerparti strand Vlissingenben, amely kikapcsolódásra és sétákra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        3.551247,
+                        51.450699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reptielenzoo Iguana",
+                  "text": "O grădină zoologică specializată în Vlissingen, care expune o varietate de reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        3.572806,
+                        51.441922
+                  ]
+            },
+            {
+                  "name": "MuZEEum",
+                  "text": "Un muzeu maritim în Vlissingen care prezintă istoria navală a provinciei Zeelanda.",
+                  "category": "museum",
+                  "coords": [
+                        3.575426,
+                        51.441374
+                  ]
+            },
+            {
+                  "name": "Karolingische ringwalburg",
+                  "text": "Un sit arheologic în Vlissingen ce cuprinde resturile unei fortificații medievale timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        3.604293,
+                        51.463243
+                  ]
+            },
+            {
+                  "name": "MuZEEum Kazematten",
+                  "text": "O secțiune a muzeului maritim din Vlissingen, situată în cazeamatele fortificațiilor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        3.574994,
+                        51.439707
+                  ]
+            },
+            {
+                  "name": "Museum Scheldewerf",
+                  "text": "Un muzeu în Vlissingen dedicat istoriei construcțiilor navale și șantierului Scheldewerf.",
+                  "category": "museum",
+                  "coords": [
+                        3.577831,
+                        51.446272
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Vlissingen",
+                  "text": "Un muzeu în Vlissingen amenajat într-un buncăr din cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        3.580821,
+                        51.44037
+                  ]
+            },
+            {
+                  "name": "Badstrand",
+                  "text": "O plajă populară în Vlissingen, situată pe coasta Westerschelde.",
+                  "category": "recreational",
+                  "coords": [
+                        3.559244,
+                        51.449033
+                  ]
+            },
+            {
+                  "name": "Nollestrand",
+                  "text": "O plajă cu nisip în Vlissingen, ideală pentru relaxare și plimbări.",
+                  "category": "recreational",
+                  "coords": [
+                        3.551247,
+                        51.450699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reptile Zoo Iguana",
+                  "text": "A specialized zoo in Vlissingen exhibiting a variety of reptiles and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        3.572806,
+                        51.441922
+                  ]
+            },
+            {
+                  "name": "MuZEEum",
+                  "text": "A maritime museum in Vlissingen showcasing the seafaring history of the Zeeland province.",
+                  "category": "museum",
+                  "coords": [
+                        3.575426,
+                        51.441374
+                  ]
+            },
+            {
+                  "name": "Karolingische ringwalburg",
+                  "text": "An archaeological site in Vlissingen featuring the remains of an early medieval ring-fort.",
+                  "category": "historical",
+                  "coords": [
+                        3.604293,
+                        51.463243
+                  ]
+            },
+            {
+                  "name": "MuZEEum Kazematten",
+                  "text": "A section of the maritime museum in Vlissingen, housed in historic fortification casemates.",
+                  "category": "museum",
+                  "coords": [
+                        3.574994,
+                        51.439707
+                  ]
+            },
+            {
+                  "name": "Museum Scheldewerf",
+                  "text": "A museum in Vlissingen dedicated to the history of shipbuilding and the Scheldewerf shipyard.",
+                  "category": "museum",
+                  "coords": [
+                        3.577831,
+                        51.446272
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Vlissingen",
+                  "text": "A museum in Vlissingen housed within a bunker from the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        3.580821,
+                        51.44037
+                  ]
+            },
+            {
+                  "name": "Badstrand",
+                  "text": "A popular bathing beach in Vlissingen on the coast of the Westerschelde.",
+                  "category": "recreational",
+                  "coords": [
+                        3.559244,
+                        51.449033
+                  ]
+            },
+            {
+                  "name": "Nollestrand",
+                  "text": "A sandy beach in Vlissingen ideal for relaxation and walking.",
+                  "category": "recreational",
+                  "coords": [
+                        3.551247,
+                        51.450699
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Hafen Vlissingen", hu: "Vlissingen kikötő", ro: "Portul Vlissingen", en: "Port of Vlissingen" },
@@ -723,7 +1515,304 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-rotterdam-the-hague-airport-economic-v2.webp",
   },
   {
-    id: "netherlands-port-harlingen-economic-v2",
+    id: "netherlands-port-harlingen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gemeentemuseum Het Hannemahuis",
+                  "text": "Das städtische Museum in Harlingen dokumentiert die maritime Geschichte der Hafenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        5.419242,
+                        53.17458
+                  ]
+            },
+            {
+                  "name": "Kinderdierentuin",
+                  "text": "Ein kleiner Streichelzoo für Kinder in der Hafenstadt Harlingen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.43219,
+                        53.16255
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum, expeditieschip van Willem Barentsz",
+                  "text": "Ein Besucherzentrum mit dem Nachbau des Expeditionsschiffes des Seefahrers Willem Barentsz.",
+                  "category": "museum",
+                  "coords": [
+                        5.410962,
+                        53.172762
+                  ]
+            },
+            {
+                  "name": "Witte Swaen",
+                  "text": "Ein Museumsbau, der sich dem historischen Schiffbau in Harlingen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.41109,
+                        53.173685
+                  ]
+            },
+            {
+                  "name": "Milûk",
+                  "text": "Ein lokales Theater in Harlingen, das verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.427097,
+                        53.178271
+                  ]
+            },
+            {
+                  "name": "Harmenspark",
+                  "text": "Ein öffentlicher Stadtpark in Harlingen, der zum Entspannen im Grünen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        5.42405,
+                        53.171068
+                  ]
+            },
+            {
+                  "name": "Sjanterbankje",
+                  "text": "Eine lokale Sehenswürdigkeit und ein bekannter Treffpunkt im Hafen von Harlingen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435314,
+                        53.189099
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut Hegewiersterfjild",
+                  "text": "Eine Beobachtungshütte zur Vogelbeobachtung in der Natur bei Harlingen.",
+                  "category": "natural",
+                  "coords": [
+                        5.417687,
+                        53.151152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gemeentemuseum Het Hannemahuis",
+                  "text": "Harlingen városi múzeuma a kikötőváros tengerészeti történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        5.419242,
+                        53.17458
+                  ]
+            },
+            {
+                  "name": "Kinderdierentuin",
+                  "text": "Egy kis állatsimogató gyerekeknek Harlingen kikötővárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.43219,
+                        53.16255
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum, expeditieschip van Willem Barentsz",
+                  "text": "Látogatóközpont Willem Barentsz tengerész expedíciós hajójának másolatával.",
+                  "category": "museum",
+                  "coords": [
+                        5.410962,
+                        53.172762
+                  ]
+            },
+            {
+                  "name": "Witte Swaen",
+                  "text": "Egy múzeumi épület, amely a történelmi hajóépítésnek szentelt Harlingenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.41109,
+                        53.173685
+                  ]
+            },
+            {
+                  "name": "Milûk",
+                  "text": "Egy helyi színház Harlingenben, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.427097,
+                        53.178271
+                  ]
+            },
+            {
+                  "name": "Harmenspark",
+                  "text": "Egy nyilvános városi park Harlingenben, amely kikapcsolódást kínál a zöldben.",
+                  "category": "park",
+                  "coords": [
+                        5.42405,
+                        53.171068
+                  ]
+            },
+            {
+                  "name": "Sjanterbankje",
+                  "text": "Helyi látványosság és ismert találkozóhely Harlingen kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435314,
+                        53.189099
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut Hegewiersterfjild",
+                  "text": "Madármegfigyelő kunyhó a Harlingen környéki természetben.",
+                  "category": "natural",
+                  "coords": [
+                        5.417687,
+                        53.151152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gemeentemuseum Het Hannemahuis",
+                  "text": "Muzeul municipal din Harlingen documentează istoria maritimă a orașului portuar.",
+                  "category": "museum",
+                  "coords": [
+                        5.419242,
+                        53.17458
+                  ]
+            },
+            {
+                  "name": "Kinderdierentuin",
+                  "text": "O mică grădină zoologică pentru copii în orașul portuar Harlingen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.43219,
+                        53.16255
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum, expeditieschip van Willem Barentsz",
+                  "text": "Un centru de vizitare care găzduiește replica navei de expediție a navigatorului Willem Barentsz.",
+                  "category": "museum",
+                  "coords": [
+                        5.410962,
+                        53.172762
+                  ]
+            },
+            {
+                  "name": "Witte Swaen",
+                  "text": "O clădire muzeală dedicată construcției istorice de nave din Harlingen.",
+                  "category": "museum",
+                  "coords": [
+                        5.41109,
+                        53.173685
+                  ]
+            },
+            {
+                  "name": "Milûk",
+                  "text": "Un teatru local din Harlingen care oferă diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.427097,
+                        53.178271
+                  ]
+            },
+            {
+                  "name": "Harmenspark",
+                  "text": "Un parc public din Harlingen, ideal pentru relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        5.42405,
+                        53.171068
+                  ]
+            },
+            {
+                  "name": "Sjanterbankje",
+                  "text": "O atracție locală și un punct de întâlnire cunoscut în portul Harlingen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435314,
+                        53.189099
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut Hegewiersterfjild",
+                  "text": "Un observator pentru păsări situat în natura de lângă Harlingen.",
+                  "category": "natural",
+                  "coords": [
+                        5.417687,
+                        53.151152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gemeentemuseum Het Hannemahuis",
+                  "text": "The municipal museum in Harlingen documents the maritime history of the port city.",
+                  "category": "museum",
+                  "coords": [
+                        5.419242,
+                        53.17458
+                  ]
+            },
+            {
+                  "name": "Kinderdierentuin",
+                  "text": "A small petting zoo for children in the port city of Harlingen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.43219,
+                        53.16255
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum, expeditieschip van Willem Barentsz",
+                  "text": "A visitor center featuring the reconstruction of explorer Willem Barentsz's expedition ship.",
+                  "category": "museum",
+                  "coords": [
+                        5.410962,
+                        53.172762
+                  ]
+            },
+            {
+                  "name": "Witte Swaen",
+                  "text": "A museum building dedicated to historical shipbuilding in Harlingen.",
+                  "category": "museum",
+                  "coords": [
+                        5.41109,
+                        53.173685
+                  ]
+            },
+            {
+                  "name": "Milûk",
+                  "text": "A local theatre in Harlingen offering various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.427097,
+                        53.178271
+                  ]
+            },
+            {
+                  "name": "Harmenspark",
+                  "text": "A public city park in Harlingen, ideal for relaxing in a green environment.",
+                  "category": "park",
+                  "coords": [
+                        5.42405,
+                        53.171068
+                  ]
+            },
+            {
+                  "name": "Sjanterbankje",
+                  "text": "A local attraction and well-known meeting spot in the Port of Harlingen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435314,
+                        53.189099
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut Hegewiersterfjild",
+                  "text": "A bird watching hide located in the nature area near Harlingen.",
+                  "category": "natural",
+                  "coords": [
+                        5.417687,
+                        53.151152
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Hafen Harlingen", hu: "Harlingen kikötő", ro: "Portul Harlingen", en: "Port of Harlingen" },
@@ -1038,7 +2127,196 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-port-zwolle-economic-v2.webp",
   },
   {
-    id: "netherlands-chemical-cluster-moerdijk-economic-v2",
+    id: "netherlands-chemical-cluster-moerdijk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Ein kleiner Leuchtturm, der den Schiffsverkehr im Bereich des Moerdijk-Industriegebiets leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "Ein Naturreservat am Ufer des Hollands Diep, das für seine Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "Eine Grünanlage in der Nähe des Hollands Diep, die als Erholungsraum dient.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Ein Aussichtspunkt auf einer historischen Erhebung in der Nähe des Naturschutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            },
+            {
+                  "name": "Moerdijkspoorbrug",
+                  "text": "Eine bedeutende Eisenbahnbrücke, die das Gewässer Hollands Diep überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        4.644507,
+                        51.719094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Egy kis világítótorony, amely a hajóforgalmat irányítja a Moerdijk ipari területnél.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "A Hollands Diep partján fekvő természetvédelmi terület, amely flórájáról és faunájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "A Hollands Diep közelében fekvő park, amely pihenőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Egy történelmi dombon lévő kilátópont a természetvédelmi terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            },
+            {
+                  "name": "Moerdijkspoorbrug",
+                  "text": "Egy jelentős vasúti híd, amely a Hollands Diep vízi utat íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        4.644507,
+                        51.719094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "Un mic far care ghidează traficul maritim în zona complexului chimic Moerdijk.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "O rezervație naturală pe malul Hollands Diep, cunoscută pentru flora și fauna sa.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "O zonă verde lângă Hollands Diep, care servește ca spațiu de recreere.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "Un punct de belvedere pe o colină istorică în apropierea rezervației naturale.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            },
+            {
+                  "name": "Moerdijkspoorbrug",
+                  "text": "Un pod feroviar important care traversează calea navigabilă Hollands Diep.",
+                  "category": "landmark",
+                  "coords": [
+                        4.644507,
+                        51.719094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lichtopstand",
+                  "text": "A small lighthouse guiding maritime traffic near the Moerdijk industrial cluster.",
+                  "category": "landmark",
+                  "coords": [
+                        4.58857,
+                        51.711548
+                  ]
+            },
+            {
+                  "name": "Oeverlanden Hollands Diep",
+                  "text": "A nature reserve on the banks of the Hollands Diep, known for its flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        4.597277,
+                        51.715171
+                  ]
+            },
+            {
+                  "name": "Appelzak",
+                  "text": "A green park area near the Hollands Diep, serving as a recreational space.",
+                  "category": "park",
+                  "coords": [
+                        4.61987,
+                        51.699276
+                  ]
+            },
+            {
+                  "name": "Motte Oeverlanden Hollands Diep",
+                  "text": "A viewpoint located on a historical mound near the nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        4.573401,
+                        51.712571
+                  ]
+            },
+            {
+                  "name": "Moerdijkspoorbrug",
+                  "text": "An important railway bridge spanning the Hollands Diep waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        4.644507,
+                        51.719094
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NL",
     name: { de: "Chemiecluster Moerdijk", hu: "Moerdijk vegyipari klaszter", ro: "Cluster chimic Moerdijk", en: "Moerdijk Chemical Cluster" },

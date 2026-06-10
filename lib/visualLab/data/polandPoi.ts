@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const polandAllPoi: POI[] = [
   {
-    id: "historical-project-riese-extra",
+    id: "historical-project-riese-extra", "sights": {
+      "de": [
+            {
+                  "name": "Podziemny kompleks Riese Włodarz",
+                  "text": "Ein massiver unterirdischer Komplex im Eulengebirge, der als Teil des nationalsozialistischen Projekts Riese errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        16.419685,
+                        50.701658
+                  ]
+            },
+            {
+                  "name": "Muzeum Inżynierii i Techniki Motoryzacji",
+                  "text": "Ein Museum, das Automobiltechnik und Technikgeschichte in der Nähe der Riese-Fundstelle zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.375395,
+                        50.684782
+                  ]
+            },
+            {
+                  "name": "Podziemne Fabryki Walimia",
+                  "text": "Ein Museumskomplex mit unterirdischen Tunneln und Kammern aus dem historischen Projekt Riese.",
+                  "category": "museum",
+                  "coords": [
+                        16.4447,
+                        50.689061
+                  ]
+            },
+            {
+                  "name": "Tajemnicze Podziemne Miasto Osówka",
+                  "text": "Einer der größten und am weitesten entwickelten unterirdischen Komplexe des Projekts Riese in Polen.",
+                  "category": "museum",
+                  "coords": [
+                        16.418275,
+                        50.669707
+                  ]
+            },
+            {
+                  "name": "Mulenberg",
+                  "text": "Ein Gipfel im Eulengebirge, der eine natürliche Kulisse für das historische Projektgebiet Riese bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424327,
+                        50.687475
+                  ]
+            },
+            {
+                  "name": "Wolfsberg",
+                  "text": "Ein Berg im Eulengebirge, der einen großen Teil des unterirdischen Riese-Komplexes beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.410234,
+                        50.695419
+                  ]
+            },
+            {
+                  "name": "Säuferhöhen",
+                  "text": "Ein Gipfel im Eulengebirge, der für die umfangreichen unterirdischen Bauwerke aus der NS-Zeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.419641,
+                        50.677273
+                  ]
+            },
+            {
+                  "name": "Saalberg",
+                  "text": "Ein Gipfel in der Region des Eulengebirges, Teil der Landschaft rund um das Projekt Riese.",
+                  "category": "landmark",
+                  "coords": [
+                        16.393544,
+                        50.702565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Podziemny kompleks Riese Włodarz",
+                  "text": "Hatalmas föld alatti komplexum a Bagoly-hegységben, amely a náci Riese-projekt részeként épült.",
+                  "category": "museum",
+                  "coords": [
+                        16.419685,
+                        50.701658
+                  ]
+            },
+            {
+                  "name": "Muzeum Inżynierii i Techniki Motoryzacji",
+                  "text": "Az autóipari technológiát és a mérnöki múltat bemutató múzeum a Riese-helyszín közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.375395,
+                        50.684782
+                  ]
+            },
+            {
+                  "name": "Podziemne Fabryki Walimia",
+                  "text": "Múzeumkomplexum, amely a történelmi Riese-projekt föld alatti alagútjait és termeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.4447,
+                        50.689061
+                  ]
+            },
+            {
+                  "name": "Tajemnicze Podziemne Miasto Osówka",
+                  "text": "A lengyelországi Riese-projekt egyik legnagyobb és legfejlettebb föld alatti komplexuma.",
+                  "category": "museum",
+                  "coords": [
+                        16.418275,
+                        50.669707
+                  ]
+            },
+            {
+                  "name": "Moszna",
+                  "text": "A Bagoly-hegység egyik csúcsa, amely természetes hátteret nyújt a történelmi Riese-projekt területéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424327,
+                        50.687475
+                  ]
+            },
+            {
+                  "name": "Włodarz",
+                  "text": "Hegy a Bagoly-hegységben, amely a föld alatti Riese-komplexum jelentős részének ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.410234,
+                        50.695419
+                  ]
+            },
+            {
+                  "name": "Osówka",
+                  "text": "A Bagoly-hegység egyik csúcsa, amely a névadója az alatta húzódó kiterjedt náci kori föld alatti építményeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        16.419641,
+                        50.677273
+                  ]
+            },
+            {
+                  "name": "Jedlińska Kopa",
+                  "text": "Csúcs a Bagoly-hegység vidékén, a Riese-projektet körülvevő táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        16.393544,
+                        50.702565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Podziemny kompleks Riese Włodarz",
+                  "text": "Un complex subteran masiv în Munții Bufniței, construit ca parte a proiectului nazist Riese.",
+                  "category": "museum",
+                  "coords": [
+                        16.419685,
+                        50.701658
+                  ]
+            },
+            {
+                  "name": "Muzeum Inżynierii i Techniki Motoryzacji",
+                  "text": "Un muzeu care prezintă tehnologia auto și istoria ingineriei în apropierea sitului Riese.",
+                  "category": "museum",
+                  "coords": [
+                        16.375395,
+                        50.684782
+                  ]
+            },
+            {
+                  "name": "Podziemne Fabryki Walimia",
+                  "text": "Un complex muzeal care cuprinde tuneluri și camere subterane din istoricul proiect Riese.",
+                  "category": "museum",
+                  "coords": [
+                        16.4447,
+                        50.689061
+                  ]
+            },
+            {
+                  "name": "Tajemnicze Podziemne Miasto Osówka",
+                  "text": "Unul dintre cele mai mari și mai dezvoltate complexe subterane ale Proiectului Riese din Polonia.",
+                  "category": "museum",
+                  "coords": [
+                        16.418275,
+                        50.669707
+                  ]
+            },
+            {
+                  "name": "Moszna",
+                  "text": "Un vârf în Munții Bufniței care oferă un cadru natural zonei istorice a proiectului Riese.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424327,
+                        50.687475
+                  ]
+            },
+            {
+                  "name": "Włodarz",
+                  "text": "Un munte în Munții Bufniței care adăpostește o parte importantă a complexului subteran Riese.",
+                  "category": "landmark",
+                  "coords": [
+                        16.410234,
+                        50.695419
+                  ]
+            },
+            {
+                  "name": "Osówka",
+                  "text": "Un vârf în Munții Bufniței cunoscut pentru structurile subterane extinse din epoca nazistă de sub el.",
+                  "category": "landmark",
+                  "coords": [
+                        16.419641,
+                        50.677273
+                  ]
+            },
+            {
+                  "name": "Jedlińska Kopa",
+                  "text": "Un vârf în regiunea Munților Bufniței, parte a peisajului ce înconjoară Proiectul Riese.",
+                  "category": "landmark",
+                  "coords": [
+                        16.393544,
+                        50.702565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Podziemny kompleks Riese Włodarz",
+                  "text": "A massive underground complex in the Owl Mountains, built as part of the Nazi Riese project.",
+                  "category": "museum",
+                  "coords": [
+                        16.419685,
+                        50.701658
+                  ]
+            },
+            {
+                  "name": "Muzeum Inżynierii i Techniki Motoryzacji",
+                  "text": "A museum showcasing automotive technology and engineering history near the Riese site.",
+                  "category": "museum",
+                  "coords": [
+                        16.375395,
+                        50.684782
+                  ]
+            },
+            {
+                  "name": "Podziemne Fabryki Walimia",
+                  "text": "A museum complex featuring underground tunnels and chambers from the historic Riese project.",
+                  "category": "museum",
+                  "coords": [
+                        16.4447,
+                        50.689061
+                  ]
+            },
+            {
+                  "name": "Tajemnicze Podziemne Miasto Osówka",
+                  "text": "One of the largest and most developed underground complexes of the Project Riese in Poland.",
+                  "category": "museum",
+                  "coords": [
+                        16.418275,
+                        50.669707
+                  ]
+            },
+            {
+                  "name": "Moszna",
+                  "text": "A peak in the Owl Mountains offering a natural backdrop to the historic Riese project area.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424327,
+                        50.687475
+                  ]
+            },
+            {
+                  "name": "Włodarz",
+                  "text": "A mountain in the Owl Mountains that houses a major part of the underground Riese complex.",
+                  "category": "landmark",
+                  "coords": [
+                        16.410234,
+                        50.695419
+                  ]
+            },
+            {
+                  "name": "Osówka",
+                  "text": "A peak in the Owl Mountains known for the extensive Nazi-era underground structures beneath it.",
+                  "category": "landmark",
+                  "coords": [
+                        16.419641,
+                        50.677273
+                  ]
+            },
+            {
+                  "name": "Jedlińska Kopa",
+                  "text": "A peak in the Owl Mountains region, part of the landscape surrounding Project Riese.",
+                  "category": "landmark",
+                  "coords": [
+                        16.393544,
+                        50.702565
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PL-DS",
     coords: [16.4, 50.68],

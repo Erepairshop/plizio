@@ -255,7 +255,52 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sardarapat-memorial-history-v2",
+    id: "sardarapat-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Հայաստանի ազգագրության և ազգային-ազատագրական պայքարի պետական թանգարան «Սարդարապատ»",
+                  "text": "Ein Museumskomplex in Sardarapat, der der armenischen Kultur, Geschichte und dem Sieg von 1918 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        43.955924,
+                        40.089912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Հայաստանի ազգագրության և ազգային-ազատագրական պայքարի պետական թանգարան «Սարդարապատ»",
+                  "text": "Sardarapatban található múzeumkomplexum, amely az örmény kultúrának, történelemnek és az 1918-as győzelemnek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        43.955924,
+                        40.089912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Հայաստանի ազգագրության և ազգային-ազատագրական պայքարի պետական թանգարան «Սարդարապատ»",
+                  "text": "Un complex muzeal la Sardarapat dedicat culturii armene, istoriei și victoriei din 1918.",
+                  "category": "museum",
+                  "coords": [
+                        43.955924,
+                        40.089912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Armenian Ethnography and History of the Liberation Struggle",
+                  "text": "A museum complex at Sardarapat dedicated to Armenian culture, history, and the 1918 victory.",
+                  "category": "museum",
+                  "coords": [
+                        43.955924,
+                        40.089912
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AM-AG",
     coords: [43.9463, 40.0932],
@@ -579,7 +624,88 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     },
   },
   {
-    id: "akhtala-monastery-history-v2",
+    id: "akhtala-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "Ein herrschaftliches Anwesen und Schloss in der Nähe von Akhtala.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "Ein befestigtes Kloster aus dem 10. Jahrhundert mit bedeutenden Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "Uradalmi birtok és kastély Akhtala közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "10. századi erődített kolostor jelentős freskókkal.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "O proprietate nobiliară și conac în apropiere de Akhtala.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "O mănăstire fortificată din secolul al X-lea, cu fresce importante.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "A stately manor and mansion located near Akhtala.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Akhtala Monastery",
+                  "text": "A 10th-century fortified monastery known for its significant frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AM-LO",
     coords: [44.7600, 41.1504],

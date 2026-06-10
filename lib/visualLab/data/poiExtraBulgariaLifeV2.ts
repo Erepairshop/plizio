@@ -93,7 +93,52 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-balchik-botanical-garden-life-v2.webp",
   },
   {
-    id: "bulgaria-srebarna-reserve-life-v2",
+    id: "bulgaria-srebarna-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "Dieses UNESCO-Weltnaturerbe umfasst einen Süßwassersee und ist ein wichtiges Brutgebiet für zahlreiche Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "Ez az UNESCO világörökségi helyszín egy édesvízi tavat foglal magában, és számos madárfaj fontos fészkelőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природен резерват Сребърна",
+                  "text": "Acest sit din patrimoniul mondial UNESCO cuprinde un lac de apă dulce și este o arie importantă de cuibărit pentru numeroase specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Srebarna Nature Reserve",
+                  "text": "This UNESCO World Heritage site features a freshwater lake and is a major breeding ground for numerous bird species.",
+                  "category": "natural",
+                  "coords": [
+                        27.074706,
+                        44.113397
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "BG",
     name: { de: "Biosphärenreservat Srebarna", hu: "Szrebarna Bioszféra-rezervátum", ro: "Rezervația Srebarna", en: "Srebarna Nature Reserve" },
@@ -138,7 +183,160 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-srebarna-reserve-life-v2.webp",
   },
   {
-    id: "bulgaria-vitosha-nature-park-life-v2",
+    id: "bulgaria-vitosha-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "Ein Naturschutzgebiet am Witoscha-Gebirge, berühmt für seine ausgedehnten Torfmoore und subalpine Flora.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Eine berühmte Attraktion im Naturpark Witoscha, bekannt für ihren beeindruckenden „Steinernen Fluss“ aus großen Felsbrocken.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Ein malerischer Aussichtspunkt im Naturpark Witoscha mit Panoramablick auf die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Ein Beobachtungspunkt, der einen weiten Blick über die Witoscha-Hänge und die Stadt Bankja bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "Természetvédelmi terület a Vitosa-hegyen, amely kiterjedt tőzeglápjairól és szubalpin flórájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "A Vitosa Natúrpark híres látványossága, amely a hatalmas sziklákból álló „kőfolyójáról” ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Festői kilátópont a Vitosa Natúrparkban, ahonnan panorámás kilátás nyílik a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Megfigyelőpont, ahonnan széles kilátás nyílik a Vitosa lejtőire és Bankja városára.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Торфено бранище",
+                  "text": "O rezervație naturală pe muntele Vitoșa, faimoasă pentru mlaștinile sale de turbă și flora subalpină.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "O atracție faimoasă în Parcul Natural Vitoșa, cunoscută pentru impresionantul său „râu de piatră” format din bolovani mari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Острица",
+                  "text": "Un punct de belvedere pitoresc în Parcul Natural Vitoșa, oferind vederi panoramice asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Un punct de observație care oferă o vedere largă asupra versanților Vitoșa și a orașului Bankya.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torfeno Branishte Reserve",
+                  "text": "A nature reserve on Vitosha Mountain, famous for its extensive peat bogs and subalpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Golden Bridges",
+                  "text": "A famous attraction in Vitosha Nature Park, known for its impressive \"stone river\" of large boulders.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Ostritsa",
+                  "text": "A scenic viewpoint in Vitosha Nature Park offering panoramic views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        23.211623,
+                        42.585536
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "An observation point providing a wide view over the Vitosha slopes and the town of Bankya.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Witoscha", hu: "Vitos-hegység Natúrpark", ro: "Parcul Natural Vitoșa", en: "Vitosha Nature Park" },
@@ -183,7 +381,52 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-vitosha-nature-park-life-v2.webp",
   },
   {
-    id: "bulgaria-rusenski-lom-park-life-v2",
+    id: "bulgaria-rusenski-lom-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Средновековен град \"Червен\"",
+                  "text": "Ruinen einer bedeutenden mittelalterlichen bulgarischen Stadt und Festung.",
+                  "category": "landmark",
+                  "coords": [
+                        26.018185,
+                        43.620953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Средновековен град \"Червен\"",
+                  "text": "Egy jelentős középkori bolgár város és erőd romjai.",
+                  "category": "landmark",
+                  "coords": [
+                        26.018185,
+                        43.620953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Средновековен град \"Червен\"",
+                  "text": "Ruinele unui important oraș și cetăți bulgare medievale.",
+                  "category": "landmark",
+                  "coords": [
+                        26.018185,
+                        43.620953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cherven - medieval town, castle",
+                  "text": "The ruins of a significant medieval Bulgarian town and fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        26.018185,
+                        43.620953
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Rusenski Lom", hu: "Ruszenszki Lom Natúrpark", ro: "Parcul Natural Rusenski Lom", en: "Rusenski Lom Nature Park" },
@@ -228,7 +471,52 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-rusenski-lom-park-life-v2.webp",
   },
   {
-    id: "bulgaria-silkosia-reserve-life-v2",
+    id: "bulgaria-silkosia-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Резерват Силкосия",
+                  "text": "Das älteste Naturschutzgebiet Bulgariens, gelegen im Strandscha-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        27.756333,
+                        42.081866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Силкосия",
+                  "text": "Bulgária legrégebbi természetvédelmi területe a Sztrandzsa-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        27.756333,
+                        42.081866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Силкосия",
+                  "text": "Cea mai veche rezervație naturală din Bulgaria, situată în munții Strandja.",
+                  "category": "natural",
+                  "coords": [
+                        27.756333,
+                        42.081866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silkosia Reserve",
+                  "text": "The oldest nature reserve in Bulgaria, located in the Strandzha Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        27.756333,
+                        42.081866
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BG",
     name: { de: "Silkosia-Reservat", hu: "Szilkoszia Rezervátum", ro: "Rezervația Silkosia", en: "Silkosia Reserve" },
@@ -498,7 +786,232 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-deliorman-forest-life-v2.webp",
   },
   {
-    id: "bulgaria-rosen-park-life-v2",
+    id: "bulgaria-rosen-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Ein Museum in Kasanlak, das der Geschichte der Ölrose gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Thrakergrab von Kasanlak",
+                  "text": "Ein UNESCO-Weltkulturerbe mit antiken thrakischen Wandmalereien.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Eines der ältesten historischen Museen Bulgariens in Kasanlak.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Ein Museum in Kasanlak, das dem Werk des Dichters und Malers Tschudomir gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Ein bewaldeter Stadtpark in Kasanlak, in dem sich das thrakische Grabmal befindet.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Ein Denkmal in Kasanlak, das der europäischen Gemeinschaft gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Kazanlak múzeuma, amely az olajrózsa termesztésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Тракийска гробница",
+                  "text": "UNESCO világörökségi helyszín ókori trák falfestményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Bulgária egyik legrégebbi történelmi múzeuma Kazanlakban.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Cudomir költő és festő munkásságának szentelt múzeum Kazanlakban.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Erdős városi park Kazanlakban, ahol a trák síremlék is található.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Az európai közösségnek szentelt emlékmű Kazanlakban.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей на розата",
+                  "text": "Un muzeu din Kazanlak dedicat istoriei trandafirului de ulei.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Тракийска гробница",
+                  "text": "Un sit inclus în patrimoniul UNESCO, faimos pentru picturile murale trace antice.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Исторически Музей Искра Казанлък",
+                  "text": "Unul dintre cele mai vechi muzee de istorie din Bulgaria, situat în Kazanlak.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Литературно-художовествен мусей Чудомир",
+                  "text": "Un muzeu în Kazanlak dedicat operei poetului și pictorului Ciudomir.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Тюлбето",
+                  "text": "Un parc urban împădurit în Kazanlak, unde se află mormântul trac.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Евро монумент",
+                  "text": "Un monument în Kazanlak dedicat comunității europene.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rose Museum",
+                  "text": "A museum in Kazanlak dedicated to the history of the oil-bearing rose.",
+                  "category": "museum",
+                  "coords": [
+                        25.388312,
+                        42.623197
+                  ]
+            },
+            {
+                  "name": "Thracian Tomb of Kazanlak",
+                  "text": "A UNESCO World Heritage site famous for its ancient Thracian frescoes.",
+                  "category": "historical",
+                  "coords": [
+                        25.399166,
+                        42.625736
+                  ]
+            },
+            {
+                  "name": "Iskra Historical Museum",
+                  "text": "One of Bulgaria's oldest historical museums, located in Kazanlak.",
+                  "category": "museum",
+                  "coords": [
+                        25.39503,
+                        42.621263
+                  ]
+            },
+            {
+                  "name": "Chudomir Art and Literature Museum",
+                  "text": "A museum in Kazanlak dedicated to the work of writer and painter Chudomir.",
+                  "category": "museum",
+                  "coords": [
+                        25.398221,
+                        42.620149
+                  ]
+            },
+            {
+                  "name": "Tyulbeto",
+                  "text": "A forested urban park in Kazanlak, home to the Thracian tomb.",
+                  "category": "park",
+                  "coords": [
+                        25.403321,
+                        42.631726
+                  ]
+            },
+            {
+                  "name": "Euro Monument",
+                  "text": "A monument in Kazanlak dedicated to the European community.",
+                  "category": "historical",
+                  "coords": [
+                        25.393366,
+                        42.619776
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BG",
     name: { de: "Rosenpark Kazanlak", hu: "Kazanlaki Rózsakert", ro: "Parcul Rozelor din Kazanlak", en: "Rose Park Kazanlak" },
@@ -787,6 +1300,51 @@ export const bulgariaLifeV2: POI[] = [
                         27.889367,
                         43.033718
                   ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Ein Amphitheater im Kamchia-Reservat, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "Ein Naturschutzgebiet an der bulgarischen Schwarzmeerküste, bekannt für seine dichten Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "Ein weitläufiger Sandstrand an der Mündung des Flusses Kamtschiya ins Schwarze Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Шкорпиловци",
+                  "text": "Ein langer Sandstrand am Schwarzen Meer, südlich des Kamchia-Reservats gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.891713,
+                        42.985322
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "Eine Attraktion im Kamchia-Reservat, die Freizeitaktivitäten für Besucher bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
+                  ]
             }
       ],
       "hu": [
@@ -797,6 +1355,51 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.889367,
                         43.033718
+                  ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Kulturális eseményeknek otthont adó amfiteátrum a Kamcsija-rezervátumban.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "Természetvédelmi terület a bolgár tengerparton, amely sűrű ártéri erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "Tágas homokos tengerpart a Kamcsija-folyó fekete-tengeri torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Шкорпиловци",
+                  "text": "Hosszú homokos tengerpart a Fekete-tengernél, a Kamcsija-rezervátumtól délre.",
+                  "category": "recreational",
+                  "coords": [
+                        27.891713,
+                        42.985322
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "Látványosság a Kamcsija-rezervátum közelében, amely kikapcsolódási lehetőséget kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
                   ]
             }
       ],
@@ -809,6 +1412,51 @@ export const bulgariaLifeV2: POI[] = [
                         27.889367,
                         43.033718
                   ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Un amfiteatru situat în rezervația Kamchia, utilizat pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "O rezervație naturală la malul mării din Bulgaria, cunoscută pentru pădurile sale dense.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "O plajă întinsă cu nisip la gura de vărsare a râului Kamchia în Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Шкорпиловци",
+                  "text": "O plajă lungă cu nisip la Marea Neagră, situată la sud de rezervația Kamchia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.891713,
+                        42.985322
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "O atracție în zona rezervației Kamchia, care oferă facilități de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
+                  ]
             }
       ],
       "en": [
@@ -819,6 +1467,51 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.889367,
                         43.033718
+                  ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "An amphitheater in the Kamchia Reserve used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Kamchia Reserve",
+                  "text": "A nature reserve on the Bulgarian coast known for its dense riverine forests.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Kamchia",
+                  "text": "A spacious sandy beach at the mouth of the Kamchiya River on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Shkorpilovtsi",
+                  "text": "A long sandy beach on the Black Sea, located south of the Kamchia Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        27.891713,
+                        42.985322
+                  ]
+            },
+            {
+                  "name": "club lastovica byala",
+                  "text": "An attraction in the Kamchia Reserve area offering recreational activities.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
                   ]
             }
       ]
@@ -867,7 +1560,124 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-kamchia-reserve-life-v2.webp",
   },
   {
-    id: "bulgaria-bistritsa-forest-life-v2",
+    id: "bulgaria-bistritsa-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Крепост Урвич",
+                  "text": "Die Ruinen einer mittelalterlichen Festung im Bistritsa-Wald.",
+                  "category": "castle",
+                  "coords": [
+                        23.424311,
+                        42.558051
+                  ]
+            },
+            {
+                  "name": "Аквапарк Корали",
+                  "text": "Ein Wasserpark mit Pool und Bar im Bistritsa-Wald, ideal zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403857,
+                        42.602702
+                  ]
+            },
+            {
+                  "name": "Кактусите",
+                  "text": "Eine lokale Attraktion im Bistritsa-Wald für Besucher der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.418747,
+                        42.596979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Крепост Урвич",
+                  "text": "Egy középkori erőd romjai a Bisztrica-erdőben.",
+                  "category": "castle",
+                  "coords": [
+                        23.424311,
+                        42.558051
+                  ]
+            },
+            {
+                  "name": "Аквапарк Корали",
+                  "text": "Vízipark medencével és bárral a Bisztrica-erdőben, ideális a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403857,
+                        42.602702
+                  ]
+            },
+            {
+                  "name": "Кактусите",
+                  "text": "Helyi látványosság a Bisztrica-erdőben a régió látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        23.418747,
+                        42.596979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Крепост Урвич",
+                  "text": "Ruinele unei cetăți medievale situate în pădurea Bistrița.",
+                  "category": "castle",
+                  "coords": [
+                        23.424311,
+                        42.558051
+                  ]
+            },
+            {
+                  "name": "Аквапарк Корали",
+                  "text": "Un parc acvatic cu piscină și bar în pădurea Bistrița, ideal pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403857,
+                        42.602702
+                  ]
+            },
+            {
+                  "name": "Кактусите",
+                  "text": "O atracție locală în pădurea Bistrița pentru vizitatorii regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.418747,
+                        42.596979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Urvich fortress",
+                  "text": "The ruins of a medieval fortress located in the Bistritsa Forest.",
+                  "category": "castle",
+                  "coords": [
+                        23.424311,
+                        42.558051
+                  ]
+            },
+            {
+                  "name": "Korali Pool Water bar",
+                  "text": "A water park with a pool and bar in the Bistritsa Forest, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.403857,
+                        42.602702
+                  ]
+            },
+            {
+                  "name": "Cactus",
+                  "text": "A local attraction in the Bistritsa Forest for visitors to the region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.418747,
+                        42.596979
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BG",
     name: { de: "Wald von Bistritsa", hu: "Bisztrica Erdő", ro: "Pădurea Bistrița", en: "Bistritsa Forest" },
@@ -1075,6 +1885,60 @@ export const bulgariaLifeV2: POI[] = [
                         28.038794,
                         43.269653
                   ]
+            },
+            {
+                  "name": "Аладжа манастир",
+                  "text": "Ein mittelalterliches christliches Höhlenkloster im Naturpark Goldstrand.",
+                  "category": "museum",
+                  "coords": [
+                        28.015109,
+                        43.278
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Ein Freilichttheater im Naturpark Goldstrand.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050652,
+                        43.30175
+                  ]
+            },
+            {
+                  "name": "Aladzha Monastery catacombs",
+                  "text": "Antike Katakomben in der Nähe des Höhlenklosters Aladscha.",
+                  "category": "historical",
+                  "coords": [
+                        28.011334,
+                        43.275375
+                  ]
+            },
+            {
+                  "name": "Плаж Нирвана",
+                  "text": "Ein FKK-Strand im nördlichen Teil des Goldstrands.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053082,
+                        43.304644
+                  ]
+            },
+            {
+                  "name": "плаж Кабакум Юг",
+                  "text": "Ein Sandstrand südlich des Hauptgebiets vom Goldstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.028877,
+                        43.250393
+                  ]
+            },
+            {
+                  "name": "плаж Лотос",
+                  "text": "Ein ruhiger Strandabschnitt im Naturpark Goldstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.042788,
+                        43.275418
+                  ]
             }
       ],
       "hu": [
@@ -1103,6 +1967,60 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         28.038794,
                         43.269653
+                  ]
+            },
+            {
+                  "name": "Аладжа манастир",
+                  "text": "Középkori keresztény sziklakolostor az Aranyhomok Natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        28.015109,
+                        43.278
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Szabadtéri színház az Aranyhomok Natúrpark területén.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050652,
+                        43.30175
+                  ]
+            },
+            {
+                  "name": "Aladzha Monastery catacombs",
+                  "text": "Antik katakombák az Aladzha sziklakolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        28.011334,
+                        43.275375
+                  ]
+            },
+            {
+                  "name": "Плаж Нирвана",
+                  "text": "Naturista strand az Aranyhomok északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053082,
+                        43.304644
+                  ]
+            },
+            {
+                  "name": "плаж Кабакум Юг",
+                  "text": "Homokos tengerpart az Aranyhomok fő területétől délre.",
+                  "category": "recreational",
+                  "coords": [
+                        28.028877,
+                        43.250393
+                  ]
+            },
+            {
+                  "name": "плаж Лотос",
+                  "text": "Nyugodt tengerparti szakasz az Aranyhomok Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.042788,
+                        43.275418
                   ]
             }
       ],
@@ -1133,6 +2051,60 @@ export const bulgariaLifeV2: POI[] = [
                         28.038794,
                         43.269653
                   ]
+            },
+            {
+                  "name": "Аладжа манастир",
+                  "text": "O mănăstire medievală rupestră situată în Parcul Natural Nisipurile de Aur.",
+                  "category": "museum",
+                  "coords": [
+                        28.015109,
+                        43.278
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Un teatru de vară situat în Parcul Natural Nisipurile de Aur.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050652,
+                        43.30175
+                  ]
+            },
+            {
+                  "name": "Aladzha Monastery catacombs",
+                  "text": "Catacombe antice situate în apropierea mănăstirii rupestre Aladzha.",
+                  "category": "historical",
+                  "coords": [
+                        28.011334,
+                        43.275375
+                  ]
+            },
+            {
+                  "name": "Плаж Нирвана",
+                  "text": "O plajă de nudiști situată în partea de nord a stațiunii Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053082,
+                        43.304644
+                  ]
+            },
+            {
+                  "name": "плаж Кабакум Юг",
+                  "text": "O plajă de nisip situată la sud de zona principală din Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.028877,
+                        43.250393
+                  ]
+            },
+            {
+                  "name": "плаж Лотос",
+                  "text": "O secțiune liniștită de plajă în Parcul Natural Nisipurile de Aur.",
+                  "category": "recreational",
+                  "coords": [
+                        28.042788,
+                        43.275418
+                  ]
             }
       ],
       "en": [
@@ -1161,6 +2133,60 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         28.038794,
                         43.269653
+                  ]
+            },
+            {
+                  "name": "Aladja Monastery",
+                  "text": "A medieval Christian cave monastery located in Golden Sands Nature Park.",
+                  "category": "museum",
+                  "coords": [
+                        28.015109,
+                        43.278
+                  ]
+            },
+            {
+                  "name": "Summer Theater",
+                  "text": "An open-air theatre located in Golden Sands Nature Park.",
+                  "category": "cultural",
+                  "coords": [
+                        28.050652,
+                        43.30175
+                  ]
+            },
+            {
+                  "name": "Aladzha Monastery catacombs",
+                  "text": "Ancient catacombs located near the Aladzha cave monastery.",
+                  "category": "historical",
+                  "coords": [
+                        28.011334,
+                        43.275375
+                  ]
+            },
+            {
+                  "name": "Nirvana Nude Beach",
+                  "text": "A nudist beach located in the northern part of Golden Sands.",
+                  "category": "recreational",
+                  "coords": [
+                        28.053082,
+                        43.304644
+                  ]
+            },
+            {
+                  "name": "Kabakum-South beach",
+                  "text": "A sandy beach located south of the main Golden Sands area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.028877,
+                        43.250393
+                  ]
+            },
+            {
+                  "name": "Lotos Beach",
+                  "text": "A quiet beach section in the Golden Sands Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.042788,
+                        43.275418
                   ]
             }
       ]

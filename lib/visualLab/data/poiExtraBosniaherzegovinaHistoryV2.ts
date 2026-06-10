@@ -747,7 +747,88 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-buzim-old-town-history-v2",
+    id: "bosniaherzegovina-buzim-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stari grad Bužim",
+                  "text": "Eine mittelalterliche Burgruine in der Stadt Bužim.",
+                  "category": "castle",
+                  "coords": [
+                        16.031053,
+                        45.048284
+                  ]
+            },
+            {
+                  "name": "Stara drvena džamija",
+                  "text": "Eine historische Holzkirche, die ein bedeutendes religiöses Denkmal in Bužim ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.029507,
+                        45.046981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Bužim",
+                  "text": "Középkori várrom Bužim városában.",
+                  "category": "castle",
+                  "coords": [
+                        16.031053,
+                        45.048284
+                  ]
+            },
+            {
+                  "name": "Stara drvena džamija",
+                  "text": "Történelmi fatemplom, amely Bužim jelentős vallási emléke.",
+                  "category": "religious",
+                  "coords": [
+                        16.029507,
+                        45.046981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Bužim",
+                  "text": "Ruinele unui castel medieval situat în orașul Bužim.",
+                  "category": "castle",
+                  "coords": [
+                        16.031053,
+                        45.048284
+                  ]
+            },
+            {
+                  "name": "Stara drvena džamija",
+                  "text": "O veche moschee de lemn, monument religios important în Bužim.",
+                  "category": "religious",
+                  "coords": [
+                        16.029507,
+                        45.046981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stari grad Bužim",
+                  "text": "A medieval castle ruin located in the town of Bužim.",
+                  "category": "castle",
+                  "coords": [
+                        16.031053,
+                        45.048284
+                  ]
+            },
+            {
+                  "name": "Stara drvena džamija",
+                  "text": "A historic wooden mosque, which is a significant religious monument in Bužim.",
+                  "category": "religious",
+                  "coords": [
+                        16.029507,
+                        45.046981
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "castle",
     name: { de: "Altstadt Bužim", hu: "Bužim óvárosa", ro: "Orașul vechi Bužim", en: "Bužim Old Town"},
@@ -793,7 +874,124 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-kljuc-fortress-history-v2",
+    id: "bosniaherzegovina-kljuc-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "Eine mittelalterliche Festung auf einem Hügel über dem Fluss Sana.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Ein Badeplatz am Ufer des Flusses Sana.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Ein kleiner Freizeitpark für Familien in Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "Középkori erőd egy dombon, a Szana-folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Fürdőhely a Szana-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Kisméretű vidámpark családoknak Ključban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "O cetate medievală pe un deal deasupra râului Sana.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Un loc de scăldat pe malul râului Sana.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Un mic parc de distracții pentru familii în Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ključ Castle",
+                  "text": "A medieval fortress on a hill overlooking the Sana River.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "A bathing spot on the banks of the Sana River.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "A small amusement park for families in Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "castle",
     name: { de: "Festung Ključ", hu: "Kulcs vára", ro: "Cetatea Ključ", en: "Ključ Fortress"},
@@ -934,7 +1132,196 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-kozara-memorial-history-v2",
+    id: "bosniaherzegovina-kozara-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Kozara",
+                  "text": "Ein malerischer Nationalpark in Bosnien und Herzegowina, bekannt für seine Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        16.896971,
+                        45.010907
+                  ]
+            },
+            {
+                  "name": "Memorijalni muzej na Mrakovici",
+                  "text": "Ein Museum, das die Geschichte der Kozara-Offensive während des Zweiten Weltkriegs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.908875,
+                        45.012997
+                  ]
+            },
+            {
+                  "name": "Zečiji kamen",
+                  "text": "Ein natürlicher Aussichtspunkt mit malerischem Blick auf den Nationalpark Kozara.",
+                  "category": "natural",
+                  "coords": [
+                        16.882555,
+                        45.001742
+                  ]
+            },
+            {
+                  "name": "Jankovića kamen",
+                  "text": "Ein Aussichtspunkt im Kozara-Gebirge, bekannt für seinen weiten Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        16.887033,
+                        45.000233
+                  ]
+            },
+            {
+                  "name": "Vinograč",
+                  "text": "Ein malerischer Aussichtspunkt in der zerklüfteten Landschaft von Kozara.",
+                  "category": "natural",
+                  "coords": [
+                        16.930414,
+                        44.988012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nacionalni park Kozara",
+                  "text": "Festői nemzeti park Bosznia-Hercegovinában, amely erdőiről és történelméről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.896971,
+                        45.010907
+                  ]
+            },
+            {
+                  "name": "Memorijalni muzej na Mrakovici",
+                  "text": "A második világháborús kozarai offenzíva történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.908875,
+                        45.012997
+                  ]
+            },
+            {
+                  "name": "Zečiji kamen",
+                  "text": "Természetes kilátóhely, ahonnan festői kilátás nyílik a Kozara Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        16.882555,
+                        45.001742
+                  ]
+            },
+            {
+                  "name": "Jankovića kamen",
+                  "text": "Kilátóhely a Kozara-hegységben, amely széles panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.887033,
+                        45.000233
+                  ]
+            },
+            {
+                  "name": "Vinograč",
+                  "text": "Festői kilátóhely Kozara vadregényes táján.",
+                  "category": "natural",
+                  "coords": [
+                        16.930414,
+                        44.988012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nacionalni park Kozara",
+                  "text": "Un parc național pitoresc din Bosnia și Herțegovina, cunoscut pentru pădurile sale.",
+                  "category": "natural",
+                  "coords": [
+                        16.896971,
+                        45.010907
+                  ]
+            },
+            {
+                  "name": "Memorijalni muzej na Mrakovici",
+                  "text": "Un muzeu care documentează istoria ofensivei de la Kozara din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        16.908875,
+                        45.012997
+                  ]
+            },
+            {
+                  "name": "Zečiji kamen",
+                  "text": "Un punct de belvedere natural care oferă vederi pitorești asupra Parcului Național Kozara.",
+                  "category": "natural",
+                  "coords": [
+                        16.882555,
+                        45.001742
+                  ]
+            },
+            {
+                  "name": "Jankovića kamen",
+                  "text": "Un punct de belvedere din munții Kozara, cunoscut pentru vederile sale panoramice largi.",
+                  "category": "natural",
+                  "coords": [
+                        16.887033,
+                        45.000233
+                  ]
+            },
+            {
+                  "name": "Vinograč",
+                  "text": "Un punct de belvedere pitoresc situat în peisajul accidentat din Kozara.",
+                  "category": "natural",
+                  "coords": [
+                        16.930414,
+                        44.988012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kozara National Park",
+                  "text": "A scenic national park in Bosnia and Herzegovina known for its forests and history.",
+                  "category": "natural",
+                  "coords": [
+                        16.896971,
+                        45.010907
+                  ]
+            },
+            {
+                  "name": "Mrakovica War Museum",
+                  "text": "A museum documenting the history of the Kozara Offensive during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        16.908875,
+                        45.012997
+                  ]
+            },
+            {
+                  "name": "Zečiji kamen",
+                  "text": "A natural viewpoint offering scenic vistas of the Kozara National Park.",
+                  "category": "natural",
+                  "coords": [
+                        16.882555,
+                        45.001742
+                  ]
+            },
+            {
+                  "name": "Jankovića kamen",
+                  "text": "A viewpoint in the Kozara mountains known for its wide panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        16.887033,
+                        45.000233
+                  ]
+            },
+            {
+                  "name": "Vinograč",
+                  "text": "A scenic viewpoint located within the rugged landscape of Kozara.",
+                  "category": "natural",
+                  "coords": [
+                        16.930414,
+                        44.988012
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "monument",
     name: { de: "Denkmal von Kozara", hu: "Kozara-emlékmű", ro: "Monumentul de la Kozara", en: "Kozara Memorial"},
@@ -1258,7 +1645,88 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-klobuk-fortress-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-kotor-varos-old-town-history-v2",
+    id: "bosniaherzegovina-kotor-varos-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotor",
+                  "text": "Eine historische Festung über der Altstadt von Kotor-Varoš.",
+                  "category": "castle",
+                  "coords": [
+                        17.371059,
+                        44.607012
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište \"Bjeline\"",
+                  "text": "Ein öffentlicher Badeplatz und Strand in Kotor-Varoš.",
+                  "category": "recreational",
+                  "coords": [
+                        17.380674,
+                        44.61119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotor",
+                  "text": "Történelmi erődítmény Kotor-Varoš óvárosa felett.",
+                  "category": "castle",
+                  "coords": [
+                        17.371059,
+                        44.607012
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište \"Bjeline\"",
+                  "text": "Nyilvános fürdőhely és strand Kotor-Varošban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.380674,
+                        44.61119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotor",
+                  "text": "O fortăreață istorică ce domină orașul vechi Kotor-Varoš.",
+                  "category": "castle",
+                  "coords": [
+                        17.371059,
+                        44.607012
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište \"Bjeline\"",
+                  "text": "O zonă publică de scăldat și plajă în Kotor-Varoš.",
+                  "category": "recreational",
+                  "coords": [
+                        17.380674,
+                        44.61119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotor",
+                  "text": "A historic fortress overlooking the old town of Kotor-Varoš.",
+                  "category": "castle",
+                  "coords": [
+                        17.371059,
+                        44.607012
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište \"Bjeline\"",
+                  "text": "A public bathing area and beach in Kotor-Varoš.",
+                  "category": "recreational",
+                  "coords": [
+                        17.380674,
+                        44.61119
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Kotor-Varos Altstadt", hu: "Kotor-Varoš óváros", ro: "Orașul vechi Kotor-Varoš", en: "Kotor-Varos Old Town" },
@@ -1438,7 +1906,52 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-gradac-archaeological-site-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-veletovo-fortress-history-v2",
+    id: "bosniaherzegovina-veletovo-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nekropola Grošić Polje - Hrančići",
+                  "text": "Grosic Polje ist eine archäologische Fundstelle bei der Festung Veletovo.",
+                  "category": "historical",
+                  "coords": [
+                        18.759091,
+                        43.683456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nekropola Grošić Polje - Hrančići",
+                  "text": "Grosic Polje egy régészeti lelőhely a Veletovo erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.759091,
+                        43.683456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nekropola Grošić Polje - Hrančići",
+                  "text": "Grosic Polje este un sit arheologic situat în apropierea cetății Veletovo.",
+                  "category": "historical",
+                  "coords": [
+                        18.759091,
+                        43.683456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grosic Polje",
+                  "text": "Grosic Polje is an archaeological site located near the Veletovo Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        18.759091,
+                        43.683456
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Veletovo", hu: "Veletovo erőd", ro: "Cetatea Veletovo", en: "Veletovo Fortress" },
@@ -1573,7 +2086,304 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-hrastov-do-necropolis-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-blagaj-fortress-history-v2",
+    id: "bosniaherzegovina-blagaj-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Ein historisches osmanisches Hamam in Blagaj aus dem 16. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Ein historisches Ensemble und Wohnhaus in Blagaj, das osmanische Architektur repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "Eine mittelalterliche Festungsanlage auf einem Hügel über Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "Ein Museum in Blagaj, das in einem historischen osmanischen Wohnkomplex untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Brzatak",
+                  "text": "Ein Erholungsbereich am Flussufer in der Nähe der Festung Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.840225,
+                        43.247498
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "Ein Badeplatz am Fluss Bunica in der Region Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "Ein lokaler Badeplatz am Fluss in der Umgebung von Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "Ein Strandbereich am Flussufer bei Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Egy történelmi oszmán hamam Blagajban, amely a 16. századból származik.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Történelmi épületegyüttes és lakóház Blagajban, amely az oszmán építészetet képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "Középkori erődítmény egy dombtetőn Blagaj felett.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "Múzeum Blagajban, amely egy történelmi oszmán lakókomplexumban található.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Brzatak",
+                  "text": "Folyóparti pihenőhely a blagaji erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.840225,
+                        43.247498
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "Fürdőhely a Bunica-folyó mentén, Blagaj környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "Helyi folyóparti fürdőhely Blagaj környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "Folyóparti strandterület Blagajnál.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Un hamam otoman istoric în Blagaj, datând din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Un ansamblu arhitectural și casă istorică în Blagaj, reprezentativă pentru arhitectura otomană.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "O cetate medievală situată pe un deal deasupra localității Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "Un muzeu în Blagaj, găzduit într-un complex rezidențial otoman istoric.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Brzatak",
+                  "text": "O zonă de recreere pe malul râului în apropierea cetății Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.840225,
+                        43.247498
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "Un loc de scăldat pe râul Bunica, în regiunea Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "Un loc local de scăldat pe malul râului în împrejurimile localității Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "O zonă de plajă pe malul râului lângă Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karađoz-beg hamam, the historic building",
+                  "text": "A historic Ottoman hamam in Blagaj, dating back to the 16th century.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "A historic architectural ensemble and house in Blagaj representing Ottoman architecture.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "A medieval fortress complex situated on a hill above Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "A museum in Blagaj housed in a historic Ottoman residential complex.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Brzatak",
+                  "text": "A riverside recreational area near the Blagaj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        17.840225,
+                        43.247498
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "A swimming spot along the Bunica river in the Blagaj area.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "A local riverside swimming spot in the surroundings of Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "A riverside beach area near Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Blagaj", hu: "Blagaj erőd", ro: "Cetatea Blagaj", en: "Blagaj Fortress" },
@@ -1618,7 +2428,124 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-blagaj-fortress-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-stari-grad-kljuc-history-v2",
+    id: "bosniaherzegovina-stari-grad-kljuc-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "Mittelalterliche Festung oberhalb des Flusses Sana in Ključ.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Strandbereich am Flussufer in der Altstadt von Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Ein Vergnügungspark in der Nähe der Altstadt von Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "Középkori királyi vár a Szana folyó felett Ključban.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Folyóparti strandterület Ključ óvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Vidámpark Ključ óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Ključ",
+                  "text": "Cetate medievală situată deasupra râului Sana în Ključ.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Zonă de plajă la malul râului în orașul vechi Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Un parc de distracții situat în apropierea orașului vechi Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ključ Castle",
+                  "text": "Medieval royal fortress situated above the Sana River in Ključ.",
+                  "category": "castle",
+                  "coords": [
+                        16.786714,
+                        44.537332
+                  ]
+            },
+            {
+                  "name": "Alina luka",
+                  "text": "Riverside beach area in the Old Town of Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.797084,
+                        44.52393
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "An amusement park located near the Old Town of Ključ.",
+                  "category": "recreational",
+                  "coords": [
+                        16.765619,
+                        44.534183
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Ključ", hu: "Ključ óváros", ro: "Orașul vechi Ključ", en: "Ključ Old Town" },
@@ -1708,7 +2635,268 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-kamenica-necropolis-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-sokol-grad-history-v2",
+    id: "bosniaherzegovina-sokol-grad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Sutjeska",
+                  "text": "Der älteste Nationalpark Bosnien-Herzegowinas, Heimat des Urwalds Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Bregoč",
+                  "text": "Der höchste Gipfel des Maglić-Massivs im Nationalpark Sutjeska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Tovarnica",
+                  "text": "Ein Berggipfel im Nationalpark Sutjeska mit weitem Blick über die Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        18.607664,
+                        43.315228
+                  ]
+            },
+            {
+                  "name": "Spomenik 2. dalmatinskoj brigadi",
+                  "text": "Ein Denkmal zur Erinnerung an die Zweite Dalmatinische Brigade im Nationalpark Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.633218,
+                        43.321564
+                  ]
+            },
+            {
+                  "name": "Borić",
+                  "text": "Ein Aussichtspunkt im Nationalpark Sutjeska mit Blick auf den Perućica-Urwald.",
+                  "category": "natural",
+                  "coords": [
+                        18.645612,
+                        43.317715
+                  ]
+            },
+            {
+                  "name": "Gonje Bare",
+                  "text": "Ein malerischer Aussichtspunkt bei den Bergseen im Nationalpark Sutjeska.",
+                  "category": "natural",
+                  "coords": [
+                        18.608845,
+                        43.321271
+                  ]
+            },
+            {
+                  "name": "Donje Bare",
+                  "text": "Ein schöner Aussichtspunkt in der Nähe des Sees Donje Bare im Sutjeska-Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.632537,
+                        43.319496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nacionalni park Sutjeska",
+                  "text": "Bosznia-Hercegovina legrégebbi nemzeti parkja, a Perućica őserdő otthona.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Bregoč",
+                  "text": "A Maglić-masszívum legmagasabb csúcsa a Sutjeska Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Tovarnica",
+                  "text": "Hegycsúcs a Sutjeska Nemzeti Parkban, széles kilátással a hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.607664,
+                        43.315228
+                  ]
+            },
+            {
+                  "name": "Spomenik 2. dalmatinskoj brigadi",
+                  "text": "A Második Dalmatin Dandár tiszteletére emelt emlékmű a Sutjeska Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        18.633218,
+                        43.321564
+                  ]
+            },
+            {
+                  "name": "Borić",
+                  "text": "Kilátópont a Sutjeska Nemzeti Parkban, ahonnan rálátni a Perućica őserdőre.",
+                  "category": "natural",
+                  "coords": [
+                        18.645612,
+                        43.317715
+                  ]
+            },
+            {
+                  "name": "Gonje Bare",
+                  "text": "Festői kilátóhely a Sutjeska Nemzeti Park hegyi tavainál.",
+                  "category": "natural",
+                  "coords": [
+                        18.608845,
+                        43.321271
+                  ]
+            },
+            {
+                  "name": "Donje Bare",
+                  "text": "Szép kilátóhely a Donje Bare-tó közelében a Sutjeska Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.632537,
+                        43.319496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nacionalni park Sutjeska",
+                  "text": "Cel mai vechi parc național din Bosnia și Herțegovina, adăpostind pădurea virgină Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Bregoč",
+                  "text": "Cel mai înalt vârf din masivul Maglić în Parcul Național Sutjeska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Tovarnica",
+                  "text": "Un vârf muntos în Parcul Național Sutjeska cu vederi largi asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        18.607664,
+                        43.315228
+                  ]
+            },
+            {
+                  "name": "Spomenik 2. dalmatinskoj brigadi",
+                  "text": "Un monument dedicat celei de-a Doua Brigade Dalmate în Parcul Național Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.633218,
+                        43.321564
+                  ]
+            },
+            {
+                  "name": "Borić",
+                  "text": "Un punct de observație în Parcul Național Sutjeska cu vedere spre pădurea Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.645612,
+                        43.317715
+                  ]
+            },
+            {
+                  "name": "Gonje Bare",
+                  "text": "Un punct de observație pitoresc lângă lacurile montane din Parcul Național Sutjeska.",
+                  "category": "natural",
+                  "coords": [
+                        18.608845,
+                        43.321271
+                  ]
+            },
+            {
+                  "name": "Donje Bare",
+                  "text": "Un punct de observație frumos lângă lacul Donje Bare din Parcul Sutjeska.",
+                  "category": "natural",
+                  "coords": [
+                        18.632537,
+                        43.319496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sutjeska National Park",
+                  "text": "Bosnia and Herzegovina's oldest national park, home to the Perućica primeval forest.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Bregoč",
+                  "text": "The highest peak of the Maglić massif in Sutjeska National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Tovarnica",
+                  "text": "A mountain peak in Sutjeska National Park with wide views over the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        18.607664,
+                        43.315228
+                  ]
+            },
+            {
+                  "name": "Spomenik 2. dalmatinskoj brigadi",
+                  "text": "A monument commemorating the Second Dalmatian Brigade in Sutjeska National Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.633218,
+                        43.321564
+                  ]
+            },
+            {
+                  "name": "Borić",
+                  "text": "A viewpoint in Sutjeska National Park overlooking the Perućica primeval forest.",
+                  "category": "natural",
+                  "coords": [
+                        18.645612,
+                        43.317715
+                  ]
+            },
+            {
+                  "name": "Gonje Bare",
+                  "text": "A scenic viewpoint near the mountain lakes in Sutjeska National Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.608845,
+                        43.321271
+                  ]
+            },
+            {
+                  "name": "Donje Bare",
+                  "text": "A beautiful viewpoint near the Donje Bare lake in Sutjeska Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.632537,
+                        43.319496
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Burg Sokol", hu: "Sokol vár", ro: "Cetatea Sokol", en: "Sokol Fortress" },
@@ -1753,7 +2941,52 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-sokol-grad-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-teocak-fortress-history-v2",
+    id: "bosniaherzegovina-teocak-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Sniježnica",
+                  "text": "Ein beliebter Strandbereich am Sniježnica-See in der Nähe der historischen Festung Teočak.",
+                  "category": "recreational",
+                  "coords": [
+                        18.954349,
+                        44.590701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Sniježnica",
+                  "text": "Népszerű strandterület a Sniježnica-tónál, a történelmi Teočak-erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.954349,
+                        44.590701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Sniježnica",
+                  "text": "O zonă de plajă populară situată lângă lacul Sniježnica, în apropierea cetății istorice Teočak.",
+                  "category": "recreational",
+                  "coords": [
+                        18.954349,
+                        44.590701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Sniježnica",
+                  "text": "A popular beach area located by the Sniježnica lake near the historic Teočak Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.954349,
+                        44.590701
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Teočak", hu: "Teočak erőd", ro: "Cetatea Teočak", en: "Teočak Fortress" },
@@ -1843,7 +3076,160 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-zvecaj-fortress-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-mijat-kuca-history-v2",
+    id: "bosniaherzegovina-mijat-kuca-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliki Vran",
+                  "text": "Ein markanter Berggipfel in der Nähe von Mijat's House mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        17.505548,
+                        43.668129
+                  ]
+            },
+            {
+                  "name": "Mali Vis",
+                  "text": "Ein Berggipfel in der Region, der für Wanderungen und Naturerlebnisse bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499369,
+                        43.67853
+                  ]
+            },
+            {
+                  "name": "Pecina hajduka Mijata Tomica",
+                  "text": "Eine historische Höhle, die mit dem legendären Hajduken Mijat Tomić verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.523029,
+                        43.649404
+                  ]
+            },
+            {
+                  "name": "Grob Dive Grabovčeve",
+                  "text": "Eine historische Grabstätte, die der legendären Figur Diva Grabovčeva gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.533045,
+                        43.697322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Vran",
+                  "text": "Jellegzetes hegycsúcs Mijat's House közelében, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        17.505548,
+                        43.668129
+                  ]
+            },
+            {
+                  "name": "Mali Vis",
+                  "text": "Túrázásról és természeti élményekről ismert hegycsúcs a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499369,
+                        43.67853
+                  ]
+            },
+            {
+                  "name": "Pecina hajduka Mijata Tomica",
+                  "text": "A legendás hajdúhoz, Mijat Tomićhoz köthető történelmi barlang.",
+                  "category": "landmark",
+                  "coords": [
+                        17.523029,
+                        43.649404
+                  ]
+            },
+            {
+                  "name": "Grob Dive Grabovčeve",
+                  "text": "A legendás Diva Grabovčevának szentelt történelmi nyughely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.533045,
+                        43.697322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Vran",
+                  "text": "Un vârf montan proeminent lângă Mijat's House, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.505548,
+                        43.668129
+                  ]
+            },
+            {
+                  "name": "Mali Vis",
+                  "text": "Un vârf montan din regiune, cunoscut pentru drumeții și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499369,
+                        43.67853
+                  ]
+            },
+            {
+                  "name": "Pecina hajduka Mijata Tomica",
+                  "text": "O peșteră istorică legată de legendarul haiduc Mijat Tomić.",
+                  "category": "landmark",
+                  "coords": [
+                        17.523029,
+                        43.649404
+                  ]
+            },
+            {
+                  "name": "Grob Dive Grabovčeve",
+                  "text": "Un loc de odihnă istoric dedicat personajului legendar Diva Grabovčeva.",
+                  "category": "landmark",
+                  "coords": [
+                        17.533045,
+                        43.697322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Vran",
+                  "text": "A prominent mountain peak near Mijat's House offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        17.505548,
+                        43.668129
+                  ]
+            },
+            {
+                  "name": "Mali Vis",
+                  "text": "A mountain peak in the region known for hiking and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499369,
+                        43.67853
+                  ]
+            },
+            {
+                  "name": "Pecina hajduka Mijata Tomica",
+                  "text": "A historic cave associated with the legendary outlaw Mijat Tomić.",
+                  "category": "landmark",
+                  "coords": [
+                        17.523029,
+                        43.649404
+                  ]
+            },
+            {
+                  "name": "Grob Dive Grabovčeve",
+                  "text": "A historical resting place dedicated to the legendary figure Diva Grabovčeva.",
+                  "category": "landmark",
+                  "coords": [
+                        17.533045,
+                        43.697322
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Mijat-Haus", hu: "Mijat-ház", ro: "Casa Mijat", en: "Mijat's House" },
@@ -2356,7 +3742,124 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-gracanica-old-clock-tower-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-sokolac-necropolis-history-v2",
+    id: "bosniaherzegovina-sokolac-necropolis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "Ein Denkmal für die gefallenen Kämpfer in Sokolac.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Mittelalterliche Nekropole mit Stećci-Grabsteinen bei Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "Eine mittelalterliche Nekropole mit charakteristischen Stećak-Grabsteinen bei Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "Emlékmű az elesett harcosok tiszteletére Sokolacban.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Középkori nekropolisz stećak sírkövekkel Sokolac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "Középkori sírkert jellegzetes stecak sírkövekkel Sokolac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "Un monument dedicat luptătorilor căzuți în Sokolac.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Necropolă medievală cu pietre funerare de tip stećak lângă Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "O necropolă medievală cu pietre funerare de tip stećak în apropiere de Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "A monument dedicated to the fallen fighters in Sokolac.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Medieval necropolis with stećak tombstones near Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "A medieval necropolis featuring characteristic stećak tombstones near Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Sokolac", hu: "Sokolac temető", ro: "Necropola Sokolac", en: "Sokolac Necropolis" },

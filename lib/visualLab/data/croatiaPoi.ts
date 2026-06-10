@@ -93,6 +93,78 @@ export const croatiaAllPoi = [
                         16.021886,
                         45.821958
                   ]
+            },
+            {
+                  "name": "Kroatisches Naturkundemuseum",
+                  "text": "Ein bedeutendes Museum in Zagreb, das die vielfältige Naturgeschichte Kroatiens und geologische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.97225,
+                        45.817156
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej",
+                  "text": "Eines der ältesten Museen Kroatiens mit einer umfangreichen Sammlung archäologischer Funde aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        15.977289,
+                        45.810981
+                  ]
+            },
+            {
+                  "name": "Museum der zerbrochenen Beziehungen",
+                  "text": "Ein einzigartiges Museum in Zagreb, das gescheiterten Liebesgeschichten anhand persönlicher Gegenstände und Erzählungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.97353,
+                        45.814969
+                  ]
+            },
+            {
+                  "name": "Teatar EXIT",
+                  "text": "Ein bedeutendes unabhängiges Theater in Zagreb, das für seine zeitgenössischen und provokanten Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.94998,
+                        45.812557
+                  ]
+            },
+            {
+                  "name": "Hrvatski povijesni muzej",
+                  "text": "Das Nationalmuseum, das der Bewahrung und Präsentation des historischen Erbes Kroatiens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.972341,
+                        45.81602
+                  ]
+            },
+            {
+                  "name": "Galerija Klovićevi dvori",
+                  "text": "Eine renommierte Kunstgalerie in der Zagreber Oberstadt, die bedeutende nationale und internationale Ausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        15.974643,
+                        45.815028
+                  ]
+            },
+            {
+                  "name": "Kazalište Komedija",
+                  "text": "Ein bekanntes Musiktheater in Zagreb, das auf Operetten und Musicals spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.978098,
+                        45.816093
+                  ]
+            },
+            {
+                  "name": "Hrvatski školski muzej",
+                  "text": "Ein Museum in Zagreb, das der Geschichte des Bildungswesens in Kroatien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.971061,
+                        45.809235
+                  ]
             }
       ],
       "hu": [
@@ -112,6 +184,78 @@ export const croatiaAllPoi = [
                   "coords": [
                         16.021886,
                         45.821958
+                  ]
+            },
+            {
+                  "name": "Hrvatski prirodoslovni muzej",
+                  "text": "Zágráb jelentős múzeuma, amely Horvátország változatos természetrajzát és geológiai példányait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.97225,
+                        45.817156
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej",
+                  "text": "Horvátország egyik legrégebbi múzeuma, amely különböző korszakokból származó régészeti leletek gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        15.977289,
+                        45.810981
+                  ]
+            },
+            {
+                  "name": "Muzej prekinutih veza",
+                  "text": "Egyedülálló múzeum Zágrábban, amely személyes tárgyakon és történeteken keresztül mutatja be a véget ért szerelmeket.",
+                  "category": "museum",
+                  "coords": [
+                        15.97353,
+                        45.814969
+                  ]
+            },
+            {
+                  "name": "Teatar EXIT",
+                  "text": "Zágráb egyik jelentős független színháza, amely kortárs és provokatív előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.94998,
+                        45.812557
+                  ]
+            },
+            {
+                  "name": "Hrvatski povijesni muzej",
+                  "text": "A horvát történelmi örökség megőrzésének és bemutatásának szentelt nemzeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.972341,
+                        45.81602
+                  ]
+            },
+            {
+                  "name": "Galerija Klovićevi dvori",
+                  "text": "Zágráb felsővárosában található rangos művészeti galéria, amely jelentős hazai és nemzetközi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        15.974643,
+                        45.815028
+                  ]
+            },
+            {
+                  "name": "Kazalište Komedija",
+                  "text": "Népszerű zenés színház Zágrábban, amely operett- és musical-előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.978098,
+                        45.816093
+                  ]
+            },
+            {
+                  "name": "Hrvatski školski muzej",
+                  "text": "Zágrábi múzeum, amely a horvátországi oktatás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.971061,
+                        45.809235
                   ]
             }
       ],
@@ -133,6 +277,78 @@ export const croatiaAllPoi = [
                         16.021886,
                         45.821958
                   ]
+            },
+            {
+                  "name": "Hrvatski prirodoslovni muzej",
+                  "text": "Un muzeu important din Zagreb, care prezintă istoria naturală diversă a Croației și specimene geologice.",
+                  "category": "museum",
+                  "coords": [
+                        15.97225,
+                        45.817156
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej",
+                  "text": "Unul dintre cele mai vechi muzee din Croația, care găzduiește o colecție vastă de descoperiri arheologice din diverse epoche.",
+                  "category": "museum",
+                  "coords": [
+                        15.977289,
+                        45.810981
+                  ]
+            },
+            {
+                  "name": "Muzej prekinutih veza",
+                  "text": "Un muzeu unic din Zagreb dedicat poveștilor de dragoste eșuate, prin intermediul obiectelor personale și al poveștilor.",
+                  "category": "museum",
+                  "coords": [
+                        15.97353,
+                        45.814969
+                  ]
+            },
+            {
+                  "name": "Teatar EXIT",
+                  "text": "Un teatru independent proeminent din Zagreb, cunoscut pentru producțiile sale contemporane și provocatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        15.94998,
+                        45.812557
+                  ]
+            },
+            {
+                  "name": "Hrvatski povijesni muzej",
+                  "text": "Muzeul național dedicat conservării și prezentării moștenirii istorice a Croației.",
+                  "category": "museum",
+                  "coords": [
+                        15.972341,
+                        45.81602
+                  ]
+            },
+            {
+                  "name": "Galerija Klovićevi dvori",
+                  "text": "O galerie de artă prestigioasă din Orașul de Sus al Zagrebului, care găzduiește expoziții naționale și internaționale majore.",
+                  "category": "museum",
+                  "coords": [
+                        15.974643,
+                        45.815028
+                  ]
+            },
+            {
+                  "name": "Kazalište Komedija",
+                  "text": "Un teatru muzical popular din Zagreb, specializat în operete și musicaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        15.978098,
+                        45.816093
+                  ]
+            },
+            {
+                  "name": "Hrvatski školski muzej",
+                  "text": "Un muzeu din Zagreb dedicat istoriei educației și învățământului din Croația.",
+                  "category": "museum",
+                  "coords": [
+                        15.971061,
+                        45.809235
+                  ]
             }
       ],
       "en": [
@@ -152,6 +368,78 @@ export const croatiaAllPoi = [
                   "coords": [
                         16.021886,
                         45.821958
+                  ]
+            },
+            {
+                  "name": "Croatian Natural History Museum",
+                  "text": "A major museum in Zagreb showcasing Croatia's diverse natural history and geological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        15.97225,
+                        45.817156
+                  ]
+            },
+            {
+                  "name": "Arheološki muzej",
+                  "text": "One of Croatia's oldest museums, housing a vast collection of archaeological finds from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        15.977289,
+                        45.810981
+                  ]
+            },
+            {
+                  "name": "Museum of Broken Relationships",
+                  "text": "A unique museum in Zagreb dedicated to failed love stories through personal items and stories.",
+                  "category": "museum",
+                  "coords": [
+                        15.97353,
+                        45.814969
+                  ]
+            },
+            {
+                  "name": "Teatar EXIT",
+                  "text": "A prominent independent theatre in Zagreb known for its contemporary and provocative productions.",
+                  "category": "cultural",
+                  "coords": [
+                        15.94998,
+                        45.812557
+                  ]
+            },
+            {
+                  "name": "Hrvatski povijesni muzej",
+                  "text": "The national museum dedicated to preserving and presenting the historical heritage of Croatia.",
+                  "category": "museum",
+                  "coords": [
+                        15.972341,
+                        45.81602
+                  ]
+            },
+            {
+                  "name": "Galerija Klovićevi dvori",
+                  "text": "A prestigious art gallery in Zagreb's Upper Town hosting major domestic and international exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        15.974643,
+                        45.815028
+                  ]
+            },
+            {
+                  "name": "Kazalište Komedija",
+                  "text": "A popular musical theatre in Zagreb specializing in operettas and musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        15.978098,
+                        45.816093
+                  ]
+            },
+            {
+                  "name": "Hrvatski školski muzej",
+                  "text": "A museum in Zagreb dedicated to the history of education in Croatia.",
+                  "category": "museum",
+                  "coords": [
+                        15.971061,
+                        45.809235
                   ]
             }
       ]
@@ -256,6 +544,60 @@ export const croatiaAllPoi = [
                         16.456282,
                         43.500112
                   ]
+            },
+            {
+                  "name": "Stara gradska vijećnica",
+                  "text": "Das gotische Alte Rathaus von Split am Volksplatz wird heute für Ausstellungen genutzt.",
+                  "category": "museum",
+                  "coords": [
+                        16.438997,
+                        43.508976
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Eine Kultureinrichtung in Split, die sich der Erhaltung regionaler Geschichte oder Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.440845,
+                        43.508635
+                  ]
+            },
+            {
+                  "name": "Ad basilicas pictas",
+                  "text": "Eine archäologische Ausgrabungsstätte in Split mit Überresten frühchristlicher Basiliken.",
+                  "category": "historical",
+                  "coords": [
+                        16.442049,
+                        43.51311
+                  ]
+            },
+            {
+                  "name": "Muzej Iluzija",
+                  "text": "Ein interaktives Museum in Split, das Besuchern optische Täuschungen und Experimente bietet.",
+                  "category": "museum",
+                  "coords": [
+                        16.439267,
+                        43.51091
+                  ]
+            },
+            {
+                  "name": "Nationaltheater in Split",
+                  "text": "Das 1893 eröffnete Kroatische Nationaltheater in Split ist eines der wichtigsten Opernhäuser des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        16.437248,
+                        43.511002
+                  ]
+            },
+            {
+                  "name": "Bedem Cornaro",
+                  "text": "Überreste der barocken Stadtmauer von Split, die Teil der historischen Verteidigungsanlagen waren.",
+                  "category": "historical",
+                  "coords": [
+                        16.440577,
+                        43.510413
+                  ]
             }
       ],
       "hu": [
@@ -284,6 +626,60 @@ export const croatiaAllPoi = [
                   "coords": [
                         16.456282,
                         43.500112
+                  ]
+            },
+            {
+                  "name": "Stara gradska vijećnica",
+                  "text": "Split régi városháza a Néptéren ma kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.438997,
+                        43.508976
+                  ]
+            },
+            {
+                  "name": "Muzej grada Splita",
+                  "text": "Kulturális intézmény Splitben, amely a regionális történelem vagy művészet megőrzésének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.440845,
+                        43.508635
+                  ]
+            },
+            {
+                  "name": "Ad basilicas pictas",
+                  "text": "Régészeti ásatási terület Splitben, kora keresztény bazilikák maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.442049,
+                        43.51311
+                  ]
+            },
+            {
+                  "name": "Muzej Iluzija",
+                  "text": "Interaktív múzeum Splitben, amely optikai csalódásokat és szórakoztató kísérleteket kínál.",
+                  "category": "museum",
+                  "coords": [
+                        16.439267,
+                        43.51091
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Splitu",
+                  "text": "Az 1893-ban megnyitott Horvát Nemzeti Színház Splitben az ország egyik legfontosabb színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        16.437248,
+                        43.511002
+                  ]
+            },
+            {
+                  "name": "Bedem Cornaro",
+                  "text": "Split barokk városfalának maradványai, amelyek a történelmi védelmi rendszer részét képezték.",
+                  "category": "historical",
+                  "coords": [
+                        16.440577,
+                        43.510413
                   ]
             }
       ],
@@ -314,6 +710,60 @@ export const croatiaAllPoi = [
                         16.456282,
                         43.500112
                   ]
+            },
+            {
+                  "name": "Stara gradska vijećnica",
+                  "text": "Vechea primărie din Split, situată în Piața Poporului, găzduiește astăzi expoziții și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        16.438997,
+                        43.508976
+                  ]
+            },
+            {
+                  "name": "Muzej grada Splita",
+                  "text": "O instituție culturală din Split dedicată conservării și expunerii istoriei sau artei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        16.440845,
+                        43.508635
+                  ]
+            },
+            {
+                  "name": "Ad basilicas pictas",
+                  "text": "Un sit arheologic în Split, care conține vestigii ale unor basilici paleocreștine.",
+                  "category": "historical",
+                  "coords": [
+                        16.442049,
+                        43.51311
+                  ]
+            },
+            {
+                  "name": "Muzej Iluzija",
+                  "text": "Un muzeu interactiv în Split, care oferă vizitatorilor iluzii optice și experimente distractive.",
+                  "category": "museum",
+                  "coords": [
+                        16.439267,
+                        43.51091
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Splitu",
+                  "text": "Teatrul Național Croat din Split, deschis în 1893, este una dintre cele mai importante instituții culturale croate.",
+                  "category": "cultural",
+                  "coords": [
+                        16.437248,
+                        43.511002
+                  ]
+            },
+            {
+                  "name": "Bedem Cornaro",
+                  "text": "Vestigiile fortificațiilor baroce din Split, care făceau parte din sistemul istoric de apărare al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        16.440577,
+                        43.510413
+                  ]
             }
       ],
       "en": [
@@ -342,6 +792,60 @@ export const croatiaAllPoi = [
                   "coords": [
                         16.456282,
                         43.500112
+                  ]
+            },
+            {
+                  "name": "Old City Hall",
+                  "text": "The Gothic Old City Hall of Split on People's Square is currently used as an exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        16.438997,
+                        43.508976
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "A cultural institution in Split dedicated to the preservation and display of regional history or art.",
+                  "category": "museum",
+                  "coords": [
+                        16.440845,
+                        43.508635
+                  ]
+            },
+            {
+                  "name": "Ad basilicas pictas",
+                  "text": "An archaeological excavation site in Split containing remains of early Christian basilicas.",
+                  "category": "historical",
+                  "coords": [
+                        16.442049,
+                        43.51311
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "An interactive museum in Split offering optical illusions and entertaining experiments for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        16.439267,
+                        43.51091
+                  ]
+            },
+            {
+                  "name": "National Theater in Split",
+                  "text": "Opened in 1893, the Croatian National Theater in Split is one of the country's most important opera and drama houses.",
+                  "category": "cultural",
+                  "coords": [
+                        16.437248,
+                        43.511002
+                  ]
+            },
+            {
+                  "name": "Bedem Cornaro",
+                  "text": "Remains of the Baroque city walls in Split, which were part of the historical defense system.",
+                  "category": "historical",
+                  "coords": [
+                        16.440577,
+                        43.510413
                   ]
             }
       ]
@@ -455,6 +959,60 @@ export const croatiaAllPoi = [
                         18.06196,
                         42.664053
                   ]
+            },
+            {
+                  "name": "Kazaliste Marina Drzica",
+                  "text": "Stadttheater von Dubrovnik, benannt nach dem Renaissance-Dramatiker Marin Držić.",
+                  "category": "cultural",
+                  "coords": [
+                        18.110906,
+                        42.640513
+                  ]
+            },
+            {
+                  "name": "Homeland War Museum",
+                  "text": "Museum des kroatischen Unabhängigkeitskrieges in der Festung Imperial auf dem Berg Srđ.",
+                  "category": "museum",
+                  "coords": [
+                        18.110608,
+                        42.649936
+                  ]
+            },
+            {
+                  "name": "Utvrda Strincjera",
+                  "text": "Ruinen der österreichisch-ungarischen Festung Strinćjera bei Dubrovnik.",
+                  "category": "castle",
+                  "coords": [
+                        18.104197,
+                        42.659867
+                  ]
+            },
+            {
+                  "name": "Fort Lovrijenac",
+                  "text": "Freistehende Festung Lovrijenac in Dubrovnik, bekannt für ihre Lage auf einem Felsen über dem Meer.",
+                  "category": "fortress",
+                  "coords": [
+                        18.104257,
+                        42.640733
+                  ]
+            },
+            {
+                  "name": "Bellevue Beach",
+                  "text": "Kiesstrand Bellevue in einer Bucht unterhalb des gleichnamigen Hotels in Dubrovnik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.09226,
+                        42.646287
+                  ]
+            },
+            {
+                  "name": "War Photo Limited",
+                  "text": "Museum für zeitgenössische Kriegsfotografie in der Altstadt von Dubrovnik.",
+                  "category": "museum",
+                  "coords": [
+                        18.108726,
+                        42.641662
+                  ]
             }
       ],
       "hu": [
@@ -492,6 +1050,60 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.06196,
                         42.664053
+                  ]
+            },
+            {
+                  "name": "Kazaliste Marina Drzica",
+                  "text": "Dubrovnik városi színháza, amely Marin Držić reneszánsz drámaíró nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        18.110906,
+                        42.640513
+                  ]
+            },
+            {
+                  "name": "Homeland War Museum",
+                  "text": "A horvát függetlenségi háború múzeuma az Imperial erődben, a Srđ-hegyen.",
+                  "category": "museum",
+                  "coords": [
+                        18.110608,
+                        42.649936
+                  ]
+            },
+            {
+                  "name": "Utvrda Strincjera",
+                  "text": "Az osztrák-magyar Strinćjera erőd romjai Dubrovnik közelében.",
+                  "category": "castle",
+                  "coords": [
+                        18.104197,
+                        42.659867
+                  ]
+            },
+            {
+                  "name": "Fort Lovrijenac",
+                  "text": "A dubrovniki Lovrijenac erőd, amely egy tenger feletti sziklán elfoglalt helyéről ismert.",
+                  "category": "fortress",
+                  "coords": [
+                        18.104257,
+                        42.640733
+                  ]
+            },
+            {
+                  "name": "Bellevue Beach",
+                  "text": "A dubrovniki Bellevue kavicsos strand az azonos nevű szálloda alatti öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.09226,
+                        42.646287
+                  ]
+            },
+            {
+                  "name": "War Photo Limited",
+                  "text": "Kortárs háborús fotográfiai múzeum Dubrovnik óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.108726,
+                        42.641662
                   ]
             }
       ],
@@ -531,6 +1143,60 @@ export const croatiaAllPoi = [
                         18.06196,
                         42.664053
                   ]
+            },
+            {
+                  "name": "Kazaliste Marina Drzica",
+                  "text": "Teatrul orășenesc din Dubrovnik, numit după dramaturgul renascentist Marin Držić.",
+                  "category": "cultural",
+                  "coords": [
+                        18.110906,
+                        42.640513
+                  ]
+            },
+            {
+                  "name": "Homeland War Museum",
+                  "text": "Muzeul Războiului de Independență al Croației în fortăreața Imperial de pe muntele Srđ.",
+                  "category": "museum",
+                  "coords": [
+                        18.110608,
+                        42.649936
+                  ]
+            },
+            {
+                  "name": "Utvrda Strincjera",
+                  "text": "Ruinele fortăreței austro-ungare Strinćjera de lângă Dubrovnik.",
+                  "category": "castle",
+                  "coords": [
+                        18.104197,
+                        42.659867
+                  ]
+            },
+            {
+                  "name": "Fort Lovrijenac",
+                  "text": "Fortăreața Lovrijenac din Dubrovnik, cunoscută pentru poziția sa pe o stâncă deasupra mării.",
+                  "category": "fortress",
+                  "coords": [
+                        18.104257,
+                        42.640733
+                  ]
+            },
+            {
+                  "name": "Bellevue Beach",
+                  "text": "Plaja cu pietriș Bellevue din Dubrovnik, situată într-un golf sub hotelul cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        18.09226,
+                        42.646287
+                  ]
+            },
+            {
+                  "name": "War Photo Limited",
+                  "text": "Muzeu de fotografie de război contemporană în centrul vechi al Dubrovnikului.",
+                  "category": "museum",
+                  "coords": [
+                        18.108726,
+                        42.641662
+                  ]
             }
       ],
       "en": [
@@ -568,6 +1234,60 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.06196,
                         42.664053
+                  ]
+            },
+            {
+                  "name": "Kazaliste Marina Drzica",
+                  "text": "Dubrovnik's city theatre, named after the Renaissance playwright Marin Držić.",
+                  "category": "cultural",
+                  "coords": [
+                        18.110906,
+                        42.640513
+                  ]
+            },
+            {
+                  "name": "Homeland War Museum",
+                  "text": "Museum of the Croatian War of Independence in the Imperial fortress on Mount Srđ.",
+                  "category": "museum",
+                  "coords": [
+                        18.110608,
+                        42.649936
+                  ]
+            },
+            {
+                  "name": "Utvrda Strincjera",
+                  "text": "Ruins of the Austro-Hungarian fortress Strinćjera near Dubrovnik.",
+                  "category": "castle",
+                  "coords": [
+                        18.104197,
+                        42.659867
+                  ]
+            },
+            {
+                  "name": "Fort Lovrijenac",
+                  "text": "Lovrijenac Fortress in Dubrovnik, known for its position on a rock overlooking the sea.",
+                  "category": "fortress",
+                  "coords": [
+                        18.104257,
+                        42.640733
+                  ]
+            },
+            {
+                  "name": "Bellevue Beach",
+                  "text": "Bellevue pebble beach in Dubrovnik, located in a cove below the hotel of the same name.",
+                  "category": "recreational",
+                  "coords": [
+                        18.09226,
+                        42.646287
+                  ]
+            },
+            {
+                  "name": "War Photo Limited",
+                  "text": "Museum of contemporary war photography in Dubrovnik's old town.",
+                  "category": "museum",
+                  "coords": [
+                        18.108726,
+                        42.641662
                   ]
             }
       ]
@@ -1037,6 +1757,69 @@ export const croatiaAllPoi = [
                         14.463047,
                         45.319178
                   ]
+            },
+            {
+                  "name": "\"Peek & Poke\" old computers museum",
+                  "text": "Ein Museum in Rijeka, das alten Computern und Informationstechnologie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.44526,
+                        45.328112
+                  ]
+            },
+            {
+                  "name": "Pomorski i povijesni muzej Hrvatskog primorja Rijeka",
+                  "text": "Dieses Museum im Gouverneurspalast zeigt die maritime Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.442599,
+                        45.329467
+                  ]
+            },
+            {
+                  "name": "Muzej moderne i suvremene umjetnosti",
+                  "text": "Ein Museum in Rijeka, das zeitgenössische Kunstwerke lokaler und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.431833,
+                        45.330525
+                  ]
+            },
+            {
+                  "name": "Palača Municipija",
+                  "text": "Ein historisches Gebäude in Rijeka, das früher als Rathaus der Stadt diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.441845,
+                        45.327616
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazaliste Ivana pl. Zajca",
+                  "text": "Das Nationaltheater in Rijeka, benannt nach dem Komponisten Ivan Zajc.",
+                  "category": "cultural",
+                  "coords": [
+                        14.444736,
+                        45.324365
+                  ]
+            },
+            {
+                  "name": "Svjetionik Mlaka",
+                  "text": "Ein historischer Leuchtturm im Stadtteil Mlaka von Rijeka.",
+                  "category": "landmark",
+                  "coords": [
+                        14.420243,
+                        45.333699
+                  ]
+            },
+            {
+                  "name": "Riječki arhiv",
+                  "text": "Eine Institution in Rijeka, die wichtige historische Dokumente und Aufzeichnungen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        14.444432,
+                        45.329074
+                  ]
             }
       ],
       "hu": [
@@ -1065,6 +1848,69 @@ export const croatiaAllPoi = [
                   "coords": [
                         14.463047,
                         45.319178
+                  ]
+            },
+            {
+                  "name": "\"Peek & Poke\" old computers museum",
+                  "text": "Régi számítógépeknek és informatikának szentelt múzeum Fiumében.",
+                  "category": "museum",
+                  "coords": [
+                        14.44526,
+                        45.328112
+                  ]
+            },
+            {
+                  "name": "Pomorski i povijesni muzej Hrvatskog primorja Rijeka",
+                  "text": "A kormányzói palotában található múzeum a régió tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.442599,
+                        45.329467
+                  ]
+            },
+            {
+                  "name": "Muzej moderne i suvremene umjetnosti",
+                  "text": "Fiumei múzeum, amely helyi és nemzetközi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.431833,
+                        45.330525
+                  ]
+            },
+            {
+                  "name": "Palača Municipija",
+                  "text": "Történelmi épület Fiumében, amely korábban a város városházájaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        14.441845,
+                        45.327616
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazaliste Ivana pl. Zajca",
+                  "text": "Fiume nemzeti színháza, amely Ivan Zajc zeneszerző nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        14.444736,
+                        45.324365
+                  ]
+            },
+            {
+                  "name": "Svjetionik Mlaka",
+                  "text": "Történelmi világítótorony Fiume Mlaka negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.420243,
+                        45.333699
+                  ]
+            },
+            {
+                  "name": "Riječki arhiv",
+                  "text": "Fiumei intézmény, amely fontos történelmi dokumentumokat és feljegyzéseket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        14.444432,
+                        45.329074
                   ]
             }
       ],
@@ -1095,6 +1941,69 @@ export const croatiaAllPoi = [
                         14.463047,
                         45.319178
                   ]
+            },
+            {
+                  "name": "\"Peek & Poke\" old computers museum",
+                  "text": "Un muzeu din Rijeka dedicat computerelor vechi și tehnologiei informației.",
+                  "category": "museum",
+                  "coords": [
+                        14.44526,
+                        45.328112
+                  ]
+            },
+            {
+                  "name": "Pomorski i povijesni muzej Hrvatskog primorja Rijeka",
+                  "text": "Acest muzeu situat în Palatul Guvernatorului prezintă istoria maritimă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        14.442599,
+                        45.329467
+                  ]
+            },
+            {
+                  "name": "Muzej moderne i suvremene umjetnosti",
+                  "text": "Un muzeu din Rijeka ce expune opere de artă contemporană ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        14.431833,
+                        45.330525
+                  ]
+            },
+            {
+                  "name": "Palača Municipija",
+                  "text": "O clădire istorică din Rijeka care a servit anterior drept primărie a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        14.441845,
+                        45.327616
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazaliste Ivana pl. Zajca",
+                  "text": "Teatrul Național din Rijeka, numit după compozitorul Ivan Zajc.",
+                  "category": "cultural",
+                  "coords": [
+                        14.444736,
+                        45.324365
+                  ]
+            },
+            {
+                  "name": "Svjetionik Mlaka",
+                  "text": "Un far istoric situat în cartierul Mlaka din Rijeka.",
+                  "category": "landmark",
+                  "coords": [
+                        14.420243,
+                        45.333699
+                  ]
+            },
+            {
+                  "name": "Riječki arhiv",
+                  "text": "O instituție din Rijeka ce păstrează documente și înregistrări istorice importante.",
+                  "category": "museum",
+                  "coords": [
+                        14.444432,
+                        45.329074
+                  ]
             }
       ],
       "en": [
@@ -1123,6 +2032,69 @@ export const croatiaAllPoi = [
                   "coords": [
                         14.463047,
                         45.319178
+                  ]
+            },
+            {
+                  "name": "\"Peek & Poke\" old computers museum",
+                  "text": "A museum in Rijeka dedicated to old computers and information technology.",
+                  "category": "museum",
+                  "coords": [
+                        14.44526,
+                        45.328112
+                  ]
+            },
+            {
+                  "name": "The Maritime and History Museum of the Croatian Littoral",
+                  "text": "Housed in the Governor's Palace, this museum showcases the region's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        14.442599,
+                        45.329467
+                  ]
+            },
+            {
+                  "name": "Museum of Modern and Contemporary Art",
+                  "text": "A museum in Rijeka exhibiting contemporary artworks by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.431833,
+                        45.330525
+                  ]
+            },
+            {
+                  "name": "Palača Municipija",
+                  "text": "A historical building in Rijeka that formerly served as the city's town hall.",
+                  "category": "castle",
+                  "coords": [
+                        14.441845,
+                        45.327616
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazaliste Ivana pl. Zajca",
+                  "text": "The national theatre in Rijeka, named after the composer Ivan Zajc.",
+                  "category": "cultural",
+                  "coords": [
+                        14.444736,
+                        45.324365
+                  ]
+            },
+            {
+                  "name": "Svjetionik Mlaka",
+                  "text": "A historical lighthouse located in the Mlaka district of Rijeka.",
+                  "category": "landmark",
+                  "coords": [
+                        14.420243,
+                        45.333699
+                  ]
+            },
+            {
+                  "name": "State Archives in Rijeka",
+                  "text": "An institution in Rijeka preserving important historical documents and records.",
+                  "category": "museum",
+                  "coords": [
+                        14.444432,
+                        45.329074
                   ]
             }
       ]
@@ -1394,7 +2366,52 @@ export const croatiaAllPoi = [
     image: "/geo-images/croatia/nat-plitvice.webp"
   },
   {
-    id: "nat-kornati",
+    id: "nat-kornati", "sights": {
+      "de": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Eine malerische Bucht im Nationalpark Kornaten, die für ihre natürliche Schönheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Egy festői öböl a Kornati Nemzeti Parkban, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Un golf pitoresc situat în Parcul Național Kornati, cunoscut pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "A scenic bay located in the Kornati National Park, known for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "hr-country",
     coords: [15.35, 43.80],

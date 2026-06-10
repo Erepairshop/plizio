@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const serbiaReliefV2: POI[] = [
 
   {
-    id: "serbia-midzor-peak-relief-v2",
+    id: "serbia-midzor-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "Ein Museum, das dem Leben und der Kultur der Menschen im Balkangebirge gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Der höchste Gipfel des Balkangebirges an der Grenze zwischen Serbien und Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Stara Planina Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "Eine natürliche Sehenswürdigkeit in der Gebirgsregion des Midžor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Markante rote Felsformationen im Balkangebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "A Balkán-hegység lakóinak életét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "A Balkán-hegység legmagasabb csúcsa a szerb-bolgár határon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Kilátóhely széles panorámával a Stara Planina-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "Természeti látnivaló a Midžor-hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Jellegzetes vörös sziklaalakzatok a Balkán-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "Un muzeu dedicat vieții și culturii oamenilor din Munții Balcani.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Un punct de belvedere cu vederi ample asupra munților Stara Planina.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "O atracție naturală situată în regiunea montană a vârfului Midžor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Formațiuni stâncoase roșii distinctive în Munții Balcani.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Stara planina People",
+                  "text": "A museum dedicated to the life and culture of the people in the Balkan Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Midzhur / Midžor",
+                  "text": "The highest peak of the Balkan Mountains on the Serbian-Bulgarian border.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "A viewpoint providing wide vistas over the Stara Planina mountains.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "A natural attraction located in the mountainous region of Midžor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Red rocks",
+                  "text": "Distinctive red rock formations in the Balkan Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Midžor Gipfel", hu: "Midžor csúcs", ro: "Vârful Midžor", en: "Midžor Peak" },
@@ -48,7 +237,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-midzor-peak-relief-v2.webp",
   },
   {
-    id: "serbia-pancic-peak-relief-v2",
+    id: "serbia-pancic-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Überreste einer alten Kirche und eine archäologische Stätte auf dem Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Denkmal auf dem Pančićev vrh.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Egy régi templom maradványai és régészeti lelőhely a Kopaonikon.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Emlékmű a Pančićev vrh csúcson.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Rămășițele unei vechi biserici și un sit arheologic pe Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf din munții Kopaonik din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument pe vârful Pančićev.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Remains of an old church and an archaeological site on Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik Mountains in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A monument on the Pančić Peak.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Pančić Gipfel", hu: "Pančić csúcs", ro: "Vârful Pančić", en: "Pančić Peak" },
@@ -138,7 +444,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-rudenik-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-bukulja-mountain-relief-v2",
+    id: "serbia-bukulja-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Извор",
+                  "text": "Ein Wasserpark am Berg Bukulja, der Erfrischung und Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Ein markantes Denkmal auf dem Berg Bukulja, das ein lokaler Orientierungspunkt ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "Eine kleine Kunstgalerie in der Natur des Bukulja-Berges.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Извор",
+                  "text": "Vízipark a Bukulja-hegyen, amely kikapcsolódást és felfrissülést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Jellegzetes emlékmű a Bukulja-hegyen, amely a környék egyik nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "Kis művészeti galéria a Bukulja-hegy természetközeli környezetében.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Извор",
+                  "text": "Un parc acvatic pe muntele Bukulja, oferind relaxare și activități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Un monument distinctiv pe muntele Bukulja, reprezentând un reper local.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "O mică galerie de artă situată în cadrul natural al muntelui Bukulja.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Izvor",
+                  "text": "A water park on Bukulja Mountain providing recreation and entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Sphynx",
+                  "text": "A prominent monument on Bukulja Mountain serving as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Small gallery",
+                  "text": "A small art gallery located in the scenic environment of Bukulja Mountain.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Bukulja Berg", hu: "Bukulja hegy", ro: "Muntele Bukulja", en: "Bukulja Mountain" },
@@ -183,7 +606,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-bukulja-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-vince-peak-relief-v2",
+    id: "serbia-vince-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkva",
+                  "text": "Die Ruinen einer alten Kirche auf dem Vince Peak.",
+                  "category": "historical",
+                  "coords": [
+                        22.362944,
+                        43.095628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkva",
+                  "text": "Egy régi templom romjai a Vince-csúcson.",
+                  "category": "historical",
+                  "coords": [
+                        22.362944,
+                        43.095628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkva",
+                  "text": "Ruinele unei vechi biserici situate pe vârful Vince.",
+                  "category": "historical",
+                  "coords": [
+                        22.362944,
+                        43.095628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkva",
+                  "text": "The ruins of an old church located on Vince Peak.",
+                  "category": "historical",
+                  "coords": [
+                        22.362944,
+                        43.095628
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Vince Gipfel", hu: "Vince csúcs", ro: "Vârful Vince", en: "Vince Peak" },
@@ -408,7 +876,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-jastrebac-gipfel-relief-v2.webp",
   },
   {
-    id: "serbia-maljen-mountain-relief-v2",
+    id: "serbia-maljen-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "AN-2",
+                  "text": "Ein altes Doppeldecker-Flugzeug, das als Attraktion am Berg Maljen ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.00168,
+                        44.116419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AN-2",
+                  "text": "Egy régi duplafedeles repülőgép, amely látványosságként van kiállítva a Maljen-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.00168,
+                        44.116419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AN-2",
+                  "text": "Un avion vechi de tip biplan, expus ca atracție pe muntele Maljen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.00168,
+                        44.116419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AN-2",
+                  "text": "An old biplane aircraft displayed as an attraction on Maljen Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        20.00168,
+                        44.116419
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Maljen Gebirge", hu: "Maljen hegység", ro: "Munții Maljen", en: "Maljen Mountain" },
@@ -543,7 +1056,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-zlatar-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-rogozna-mountain-relief-v2",
+    id: "serbia-rogozna-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Запис / Zapis",
+                  "text": "Ein markanter Berggipfel im Rogozna-Gebirge, der Ausblicke auf die Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.65773,
+                        43.07009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Запис / Zapis",
+                  "text": "A Rogozna-hegység egyik jellegzetes csúcsa, amely kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.65773,
+                        43.07009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Запис / Zapis",
+                  "text": "Un vârf montan proeminent din masivul Rogozna, oferind perspective asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.65773,
+                        43.07009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zapis",
+                  "text": "A prominent mountain peak in the Rogozna range, offering views of the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        20.65773,
+                        43.07009
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Rogozna Gebirge", hu: "Rogozna hegység", ro: "Munții Rogozna", en: "Rogozna Mountain" },
@@ -588,7 +1146,160 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-rogozna-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-kopaonik-gobelja-relief-v2",
+    id: "serbia-kopaonik-gobelja-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Eine archäologische Stätte auf dem Gobelja-Gipfel mit Überresten einer spätantiken Basilika.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges, benannt nach dem Botaniker Josif Pančić.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein monumentaler Obelisk auf dem Gobelja-Gipfel in der Kopaonik-Region.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            },
+            {
+                  "name": "Vodenica",
+                  "text": "Eine traditionelle Wassermühle, die als lokale Sehenswürdigkeit in der Gobelja-Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Régészeti lelőhely a Gobelja-csúcson, egy késő antik bazilika maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A Kopaonik-hegység legmagasabb csúcsa, Josif Pančić botanikusról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Monumentális obeliszk a Gobelja-csúcson, a Kopaonik régióban.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            },
+            {
+                  "name": "Vodenica",
+                  "text": "Hagyományos vízimalom, amely helyi látványosságként szolgál a Gobelja régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Un sit arheologic pe vârful Gobelja, conținând rămășițele unei basilici din antichitatea târzie.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf din munții Kopaonik, numit după botanistul Josif Pančić.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un obelisc monumental situat pe vârful Gobelja, în regiunea Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            },
+            {
+                  "name": "Vodenica",
+                  "text": "O moară de apă tradițională care servește ca atracție locală în regiunea Gobelja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "An archaeological site on Gobelja Peak featuring remains of a Late Antiquity basilica.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik mountains, named after the botanist Josif Pančić.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A monumental obelisk located on Gobelja Peak in the Kopaonik region.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            },
+            {
+                  "name": "Watermill",
+                  "text": "A traditional watermill serving as a local attraction in the Gobelja region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Gobelja Gipfel", hu: "Gobelja csúcs", ro: "Vârful Gobelja", en: "Gobelja Peak" },
@@ -633,7 +1344,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-gobelja-relief-v2.webp",
   },
   {
-    id: "serbia-suva-planina-trem-relief-v2",
+    id: "serbia-suva-planina-trem-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Devojački grob",
+                  "text": "Devojački grob ist ein bekannter Aussichtspunkt am Berg Trem in Serbien.",
+                  "category": "natural",
+                  "coords": [
+                        22.143327,
+                        43.197531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Devojački grob",
+                  "text": "A Devojački grob egy ismert kilátópont a szerbiai Trem-csúcson.",
+                  "category": "natural",
+                  "coords": [
+                        22.143327,
+                        43.197531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Devojački grob",
+                  "text": "Devojački grob este un punct de belvedere cunoscut situat pe vârful Trem din Serbia.",
+                  "category": "natural",
+                  "coords": [
+                        22.143327,
+                        43.197531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Devojački grob",
+                  "text": "Devojački grob is a well-known viewpoint located on the Trem peak in Serbia.",
+                  "category": "natural",
+                  "coords": [
+                        22.143327,
+                        43.197531
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Trem Gipfel", hu: "Trem csúcs", ro: "Vârful Trem", en: "Trem Peak" },
@@ -678,7 +1434,304 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-suva-planina-trem-relief-v2.webp",
   },
   {
-    id: "serbia-fruska-gora-brankovac-relief-v2",
+    id: "serbia-fruska-gora-brankovac-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Градина",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Novi Rakovac mit Überresten antiker Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        19.766586,
+                        45.20555
+                  ]
+            },
+            {
+                  "name": "Спомен-обележје Стручица",
+                  "text": "Ein Gedenkmal, das an historische Ereignisse oder Personen in der Region Brankovac erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        19.760149,
+                        45.206422
+                  ]
+            },
+            {
+                  "name": "Црвени Чот",
+                  "text": "Mit 539 Metern der höchste Gipfel des Fruška-Gora-Gebirges in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "Eine einsame Klause in den Wäldern der Fruška Gora, die als Ort der Stille dient.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Бели Мајдан",
+                  "text": "Ein ehemaliger Steinbruch, der heute als beeindruckende künstliche Höhle besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        19.773192,
+                        45.181175
+                  ]
+            },
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Ein verlassenes Schloss in Beočin, bekannt für seine außergewöhnliche, eklektische Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Hügellandschaft der Fruška Gora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Ein beliebter Rastplatz und Aussichtspunkt im Nationalpark Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Градина",
+                  "text": "Régészeti lelőhely Újrakovac (Novi Rakovac) közelében, ókori települések maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        19.766586,
+                        45.20555
+                  ]
+            },
+            {
+                  "name": "Спомен-обележје Стручица",
+                  "text": "Történelmi eseményekre vagy személyekre emlékeztető emlékmű Brankovac régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        19.760149,
+                        45.206422
+                  ]
+            },
+            {
+                  "name": "Црвени Чот",
+                  "text": "A szerbiai Tarcal-hegység (Fruška Gora) legmagasabb csúcsa, 539 méterrel.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "Magányos remetelak a Tarcal-hegység erdőiben, amely a csend helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Бели Мајдан",
+                  "text": "Egykori kőbánya, amely ma lenyűgöző mesterséges barlangként látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        19.773192,
+                        45.181175
+                  ]
+            },
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Elhagyatott kastély Belcsényben (Beočin), amely különleges, eklektikus építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Kilátópont, amely tágas kilátást nyújt a Tarcal-hegység dombos vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Népszerű pihenőhely és kilátópont a Tarcal-hegységi (Fruška Gora) Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Градина",
+                  "text": "Un sit arheologic lângă Novi Rakovac, conținând vestigii ale unor așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.766586,
+                        45.20555
+                  ]
+            },
+            {
+                  "name": "Спомен-обележје Стручица",
+                  "text": "Un monument comemorativ care amintește de evenimente sau persoane istorice din regiunea Brankovac.",
+                  "category": "historical",
+                  "coords": [
+                        19.760149,
+                        45.206422
+                  ]
+            },
+            {
+                  "name": "Црвени Чот",
+                  "text": "Cel mai înalt vârf din munții Fruška Gora din Serbia, având 539 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "O chilie izolată în pădurile din Fruška Gora, care servește ca loc de liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Бели Мајдан",
+                  "text": "O fostă carieră de piatră care astăzi poate fi vizitată ca o peșteră artificială impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        19.773192,
+                        45.181175
+                  ]
+            },
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Un castel abandonat din Beočin, cunoscut pentru arhitectura sa eclectică neobișnuită.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Un punct de belvedere care oferă o vedere largă asupra peisajului colinar din Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Un loc popular de popas și punct de belvedere în Parcul Național Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradina",
+                  "text": "An archaeological site near Novi Rakovac featuring remains of ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        19.766586,
+                        45.20555
+                  ]
+            },
+            {
+                  "name": "Stručica memorial",
+                  "text": "A memorial monument commemorating historical events or persons in the Brankovac region.",
+                  "category": "historical",
+                  "coords": [
+                        19.760149,
+                        45.206422
+                  ]
+            },
+            {
+                  "name": "Crveni Čot",
+                  "text": "The highest peak of the Fruška Gora mountain range in Serbia, reaching 539 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Hermitage of Isaija Parivodski",
+                  "text": "A secluded hermitage in the forests of Fruška Gora, serving as a place of silence.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Beli Majdan",
+                  "text": "A former stone quarry that can now be visited as an impressive artificial cave.",
+                  "category": "landmark",
+                  "coords": [
+                        19.773192,
+                        45.181175
+                  ]
+            },
+            {
+                  "name": "Špicer castle",
+                  "text": "An abandoned castle in Beočin, known for its extraordinary, eclectic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Kobilica viewpoint",
+                  "text": "A viewpoint providing a wide view over the hilly landscape of Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "A popular rest area and viewpoint in the Fruška Gora National Park.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Brankovac", hu: "Brankovac", ro: "Brankovac", en: "Brankovac" },
@@ -768,7 +1821,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-radan-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-beljanica-mountain-relief-v2",
+    id: "serbia-beljanica-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бук",
+                  "text": "Ein markanter Wasserfall und eine Naturattraktion am Beljanica-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        21.801701,
+                        44.129201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бук",
+                  "text": "Jellegzetes vízesés és természeti látványosság a Beljanica-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.801701,
+                        44.129201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бук",
+                  "text": "O cascadă remarcabilă și o atracție naturală în munții Beljanica.",
+                  "category": "landmark",
+                  "coords": [
+                        21.801701,
+                        44.129201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buk",
+                  "text": "A prominent waterfall and natural attraction at the Beljanica Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        21.801701,
+                        44.129201
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Beljanica Gebirge", hu: "Beljanica hegység", ro: "Munții Beljanica", en: "Beljanica Mountain" },
@@ -813,7 +1911,88 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-beljanica-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-stolica-mountain-relief-v2",
+    id: "serbia-stolica-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkveni park Dobri potok",
+                  "text": "Ein Kirchenpark und Ethno-Museumsbereich in Dobri Potok bei Krupanj.",
+                  "category": "museum",
+                  "coords": [
+                        19.373516,
+                        44.372261
+                  ]
+            },
+            {
+                  "name": "Ковачевића пећина",
+                  "text": "Ein natürlicher Höhleneingang in der Region Stolica in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.383271,
+                        44.393966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkveni park Dobri potok",
+                  "text": "Templompark és skanzen jellegű múzeum Dobri Potoknál, Krupanj közelében.",
+                  "category": "museum",
+                  "coords": [
+                        19.373516,
+                        44.372261
+                  ]
+            },
+            {
+                  "name": "Ковачевића пећина",
+                  "text": "Természetes barlangbejárat a szerbiai Stolica-csúcs régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.383271,
+                        44.393966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkveni park Dobri potok",
+                  "text": "Un parc bisericesc și o zonă de muzeu etnografic în Dobri Potok, lângă Krupanj.",
+                  "category": "museum",
+                  "coords": [
+                        19.373516,
+                        44.372261
+                  ]
+            },
+            {
+                  "name": "Ковачевића пећина",
+                  "text": "O intrare naturală într-o peșteră din regiunea vârfului Stolica din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.383271,
+                        44.393966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkveni park Dobri potok",
+                  "text": "A church park and ethno-museum area in Dobri Potok near Krupanj.",
+                  "category": "museum",
+                  "coords": [
+                        19.373516,
+                        44.372261
+                  ]
+            },
+            {
+                  "name": "Kovacevica cave",
+                  "text": "A natural cave entrance in the Stolica Peak region of Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.383271,
+                        44.393966
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Stolica Gipfel", hu: "Stolica csúcs", ro: "Vârful Stolica", en: "Stolica Peak" },
@@ -903,7 +2082,160 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-povlen-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-tara-zboriste-relief-v2",
+    id: "serbia-tara-zboriste-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Tara",
+                  "text": "Der Tara-Nationalpark ist ein ausgedehntes Naturschutzgebiet mit reicher Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Kozja stena ist ein bekannter Aussichtspunkt mit Panoramablick über den Tara-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Vidikovac Oštra stena bietet eine weite Aussicht auf die umliegenden Berge und Täler.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Dieser Aussichtspunkt bei Zborište bietet eine beeindruckende Sicht auf die serbische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "A Tara Nemzeti Park egy kiterjedt természetvédelmi terület gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Kozja stena egy ismert kilátópont, ahonnan panorámás kilátás nyílik a Tara Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "A Vidikovac Oštra stena széles kilátást nyújt a környező hegyekre és völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ez a Zborište melletti kilátó lenyűgöző rálátást biztosít a szerb tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Parcul Național Tara este o rezervație naturală vastă, cu o floră și faună bogată.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Kozja stena este un punct de belvedere cunoscut, cu vedere panoramică asupra Parcului Național Tara.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Vidikovac Oštra stena oferă o vedere largă asupra munților și văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Acest punct de belvedere de lângă Zborište oferă o vedere impresionantă asupra peisajului sârbesc.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tara National Park",
+                  "text": "Tara National Park is a vast nature reserve with rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Kozja stena",
+                  "text": "Kozja stena is a well-known viewpoint with panoramic views over Tara National Park.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Vidikovac Oštra stena offers a broad view of the surrounding mountains and valleys.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "This viewpoint near Zborište offers an impressive view of the Serbian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Zborište", hu: "Zborište", ro: "Zborište", en: "Zborište" },
@@ -993,7 +2325,160 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-zlatibor-tornik-relief-v2.webp",
   },
   {
-    id: "serbia-kosmaj-mountain-relief-v2",
+    id: "serbia-kosmaj-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Кастаљан",
+                  "text": "Die Ruinen eines mittelalterlichen Klosters am Fuße des Berges Kosmaj, das einst ein bedeutendes geistliches Zentrum war.",
+                  "category": "religious",
+                  "coords": [
+                        20.587734,
+                        44.475189
+                  ]
+            },
+            {
+                  "name": "Космај",
+                  "text": "Ein markanter Berggipfel in Serbien, der für seine dichten Wälder, Wanderwege und das markante Denkmal bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564089,
+                        44.465745
+                  ]
+            },
+            {
+                  "name": "Споменик Космајском партизанском одреду",
+                  "text": "Ein berühmtes futuristisches Denkmal auf dem Berg Kosmaj, das den gefallenen Soldaten des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.571816,
+                        44.467944
+                  ]
+            },
+            {
+                  "name": "Црква светих апостола Петра и Павла",
+                  "text": "Diese historische orthodoxe Kirche am Kosmaj ist für ihre Architektur und ihre Rolle in der lokalen Geschichte bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        20.574398,
+                        44.49115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Кастаљан",
+                  "text": "Egy középkori kolostor romjai a Kosmaj-hegy lábánál, amely egykor jelentős szellemi központ volt.",
+                  "category": "religious",
+                  "coords": [
+                        20.587734,
+                        44.475189
+                  ]
+            },
+            {
+                  "name": "Космај",
+                  "text": "Jellegzetes hegycsúcs Szerbiában, amely sűrű erdőiről, túraútvonalairól és jellegzetes emlékművéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564089,
+                        44.465745
+                  ]
+            },
+            {
+                  "name": "Споменик Космајском партизанском одреду",
+                  "text": "Híres futurisztikus emlékmű a Kosmaj-hegyen, amelyet a második világháború elesett katonáinak tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        20.571816,
+                        44.467944
+                  ]
+            },
+            {
+                  "name": "Црква светих апостола Петра и Павла",
+                  "text": "Ez a Kosmaj-hegyi történelmi ortodox templom építészetéről és a helyi történelemben betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.574398,
+                        44.49115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Кастаљан",
+                  "text": "Ruinele unei mănăstiri medievale la poalele muntelui Kosmaj, care a fost cândva un centru spiritual important.",
+                  "category": "religious",
+                  "coords": [
+                        20.587734,
+                        44.475189
+                  ]
+            },
+            {
+                  "name": "Космај",
+                  "text": "Un vârf muntos proeminent din Serbia, cunoscut pentru pădurile sale dese, traseele de drumeție și monumentul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564089,
+                        44.465745
+                  ]
+            },
+            {
+                  "name": "Споменик Космајском партизанском одреду",
+                  "text": "Un faimos monument futurist pe muntele Kosmaj, dedicat soldaților căzuți în cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        20.571816,
+                        44.467944
+                  ]
+            },
+            {
+                  "name": "Црква светих апостола Петра и Павла",
+                  "text": "Această biserică ortodoxă istorică de pe muntele Kosmaj este cunoscută pentru arhitectura sa și rolul în istoria locală.",
+                  "category": "religious",
+                  "coords": [
+                        20.574398,
+                        44.49115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery Kastaljan",
+                  "text": "The ruins of a medieval monastery at the foot of Kosmaj Mountain, which was once an important spiritual centre.",
+                  "category": "religious",
+                  "coords": [
+                        20.587734,
+                        44.475189
+                  ]
+            },
+            {
+                  "name": "Kosmaj",
+                  "text": "A prominent mountain peak in Serbia known for its dense forests, hiking trails, and distinctive monument.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564089,
+                        44.465745
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen Soldiers of the Kosmaj Detachment - Spark of Freedom",
+                  "text": "A famous futuristic monument on Kosmaj Mountain dedicated to the fallen soldiers of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        20.571816,
+                        44.467944
+                  ]
+            },
+            {
+                  "name": "Church of Holy Apostles Peter and Paul",
+                  "text": "This historic Orthodox church on Kosmaj is known for its architecture and its role in local history.",
+                  "category": "religious",
+                  "coords": [
+                        20.574398,
+                        44.49115
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Kosmaj Gebirge", hu: "Kosmaj hegység", ro: "Munții Kosmaj", en: "Kosmaj Mountain" },
@@ -1128,7 +2613,304 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-vlasina-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-ozren-mountain-relief-v2",
+    id: "serbia-ozren-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Соко Град",
+                  "text": "Eine mittelalterliche Festung auf dem Berg Ozren mit Blick auf Sokobanja.",
+                  "category": "castle",
+                  "coords": [
+                        21.89311,
+                        43.634864
+                  ]
+            },
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "Ein moderner Wasserpark in Sokobanja mit verschiedenen Pools und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            },
+            {
+                  "name": "Жупан плажа",
+                  "text": "Ein beliebter Strand am Fluss Moravica in der Nähe von Sokobanja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.883162,
+                        43.641561
+                  ]
+            },
+            {
+                  "name": "Wassermühle von Grudonjsk",
+                  "text": "Ein Museum in einer traditionellen Wassermühle am Berg Ozren.",
+                  "category": "museum",
+                  "coords": [
+                        21.853141,
+                        43.640427
+                  ]
+            },
+            {
+                  "name": "Завичајни музеј Сокобања",
+                  "text": "Ein Museum in Sokobanja, das die lokale Geschichte und Ethnologie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.871185,
+                        43.644263
+                  ]
+            },
+            {
+                  "name": "Rimski bunar",
+                  "text": "Antike Ruinen eines römischen Brunnens in der Nähe von Sokobanja.",
+                  "category": "historical",
+                  "coords": [
+                        21.886297,
+                        43.624278
+                  ]
+            },
+            {
+                  "name": "Paraglajding poletište",
+                  "text": "Ein bekannter Startplatz für Paragliding auf dem Berg Ozren.",
+                  "category": "landmark",
+                  "coords": [
+                        21.878208,
+                        43.631261
+                  ]
+            },
+            {
+                  "name": "Големи камен",
+                  "text": "Ein markanter Felsen und Aussichtspunkt auf dem Berg Ozren.",
+                  "category": "natural",
+                  "coords": [
+                        21.887533,
+                        43.632374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Соко Град",
+                  "text": "Középkori erőd az Ozren-hegyen, amely Sokobanja városára néz.",
+                  "category": "castle",
+                  "coords": [
+                        21.89311,
+                        43.634864
+                  ]
+            },
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "Modern vízi park Sokobanjában, különféle medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            },
+            {
+                  "name": "Жупан плажа",
+                  "text": "Népszerű strand a Moravica-folyó partján, Sokobanja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.883162,
+                        43.641561
+                  ]
+            },
+            {
+                  "name": "Грудоњске воденице",
+                  "text": "Hagyományos vízimalomban kialakított múzeum az Ozren-hegyen.",
+                  "category": "museum",
+                  "coords": [
+                        21.853141,
+                        43.640427
+                  ]
+            },
+            {
+                  "name": "Завичајни музеј Сокобања",
+                  "text": "Sokobanja helytörténeti múzeuma, amely a helyi történelmet és néprajzot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.871185,
+                        43.644263
+                  ]
+            },
+            {
+                  "name": "Rimski bunar",
+                  "text": "Egy római kori kút ókori romjai Sokobanja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.886297,
+                        43.624278
+                  ]
+            },
+            {
+                  "name": "Paraglajding poletište",
+                  "text": "Népszerű siklóernyős helyszín az Ozren-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.878208,
+                        43.631261
+                  ]
+            },
+            {
+                  "name": "Големи камен",
+                  "text": "Jellegzetes szikla és kilátóhely az Ozren-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        21.887533,
+                        43.632374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Соко Град",
+                  "text": "O cetate medievală situată pe muntele Ozren, oferind priveliști asupra stațiunii Sokobanja.",
+                  "category": "castle",
+                  "coords": [
+                        21.89311,
+                        43.634864
+                  ]
+            },
+            {
+                  "name": "Аквапарк Подина",
+                  "text": "Un parc acvatic modern în Sokobanja, dotat cu diverse piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            },
+            {
+                  "name": "Жупан плажа",
+                  "text": "O plajă populară pe malul râului Moravica, în apropiere de Sokobanja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.883162,
+                        43.641561
+                  ]
+            },
+            {
+                  "name": "Грудоњске воденице",
+                  "text": "Un muzeu amenajat într-o moară de apă tradițională pe muntele Ozren.",
+                  "category": "museum",
+                  "coords": [
+                        21.853141,
+                        43.640427
+                  ]
+            },
+            {
+                  "name": "Завичајни музеј Сокобања",
+                  "text": "Un muzeu în Sokobanja care prezintă istoria și etnografia locală.",
+                  "category": "museum",
+                  "coords": [
+                        21.871185,
+                        43.644263
+                  ]
+            },
+            {
+                  "name": "Rimski bunar",
+                  "text": "Ruinele antice ale unei fântâni romane în apropiere de Sokobanja.",
+                  "category": "historical",
+                  "coords": [
+                        21.886297,
+                        43.624278
+                  ]
+            },
+            {
+                  "name": "Paraglajding poletište",
+                  "text": "Un loc cunoscut pentru practicarea parantezei pe muntele Ozren.",
+                  "category": "landmark",
+                  "coords": [
+                        21.878208,
+                        43.631261
+                  ]
+            },
+            {
+                  "name": "Големи камен",
+                  "text": "O stâncă proeminentă și un punct de belvedere pe muntele Ozren.",
+                  "category": "natural",
+                  "coords": [
+                        21.887533,
+                        43.632374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soko Grad",
+                  "text": "A medieval fortress located on Ozren Mountain overlooking the town of Sokobanja.",
+                  "category": "castle",
+                  "coords": [
+                        21.89311,
+                        43.634864
+                  ]
+            },
+            {
+                  "name": "Podina Waterpark",
+                  "text": "A modern water park in Sokobanja featuring various pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        21.859283,
+                        43.645851
+                  ]
+            },
+            {
+                  "name": "Zupan beach",
+                  "text": "A popular beach on the Moravica River located near Sokobanja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.883162,
+                        43.641561
+                  ]
+            },
+            {
+                  "name": "Watermill of Grudonjsk",
+                  "text": "A museum housed in a traditional watermill on Ozren Mountain.",
+                  "category": "museum",
+                  "coords": [
+                        21.853141,
+                        43.640427
+                  ]
+            },
+            {
+                  "name": "Sokobanja heritage museum",
+                  "text": "A museum in Sokobanja showcasing local history and ethnology.",
+                  "category": "museum",
+                  "coords": [
+                        21.871185,
+                        43.644263
+                  ]
+            },
+            {
+                  "name": "Roman Well",
+                  "text": "Ancient ruins of a Roman well located near Sokobanja.",
+                  "category": "historical",
+                  "coords": [
+                        21.886297,
+                        43.624278
+                  ]
+            },
+            {
+                  "name": "Paragliding site",
+                  "text": "A well-known site for paragliding activities on Ozren Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        21.878208,
+                        43.631261
+                  ]
+            },
+            {
+                  "name": "Big stone",
+                  "text": "A prominent rock and scenic viewpoint on Ozren Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        21.887533,
+                        43.632374
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Ozren Gebirge", hu: "Ozren hegység", ro: "Munții Ozren", en: "Ozren Mountain" },
@@ -1218,7 +3000,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-raska-planina-relief-v2.webp",
   },
   {
-    id: "serbia-jastrebac-mali-relief-v2",
+    id: "serbia-jastrebac-mali-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sportsko rekreativni centar - Samar",
+                  "text": "Ein Freizeit- und Wasserpark in Mali Jastrebac.",
+                  "category": "recreational",
+                  "coords": [
+                        21.511433,
+                        43.424267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sportsko rekreativni centar - Samar",
+                  "text": "Szabadidős központ és vízipark Mali Jastrebacban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.511433,
+                        43.424267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sportsko rekreativni centar - Samar",
+                  "text": "Un centru de recreere și parc acvatic în Mali Jastrebac.",
+                  "category": "recreational",
+                  "coords": [
+                        21.511433,
+                        43.424267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sportsko rekreativni centar - Samar",
+                  "text": "A recreation and water park in Mali Jastrebac.",
+                  "category": "recreational",
+                  "coords": [
+                        21.511433,
+                        43.424267
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Mali Jastrebac", hu: "Mali Jastrebac", ro: "Mali Jastrebac", en: "Mali Jastrebac" },
@@ -1263,7 +3090,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-jastrebac-mali-relief-v2.webp",
   },
   {
-    id: "serbia-vrteska-mountain-relief-v2",
+    id: "serbia-vrteska-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Магнетна купка",
+                  "text": "Eine lokale Attraktion in Vrteška, die für ihre besonderen Erholungs- oder Therapieangebote bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.935331,
+                        43.765842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Магнетна купка",
+                  "text": "Helyi látványosság Vrteškán, amely egyedi kikapcsolódási vagy terápiás jellemzőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.935331,
+                        43.765842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Магнетна купка",
+                  "text": "O atracție locală din Vrteška, cunoscută pentru caracteristicile sale recreative sau terapeutice unice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.935331,
+                        43.765842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magnetic bath",
+                  "text": "A local attraction in Vrteška known for its unique recreational or therapeutic features.",
+                  "category": "landmark",
+                  "coords": [
+                        21.935331,
+                        43.765842
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Vrteška", hu: "Vrteška", ro: "Vrteška", en: "Vrteška" },
@@ -1353,7 +3225,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-zeljin-mountain-relief-v2.webp",
   },
   {
-    id: "serbia-bukulja-gipfel-relief-v2",
+    id: "serbia-bukulja-gipfel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Извор",
+                  "text": "Ein Wasserpark und Erholungsgebiet am Fuße des Bukulja-Gipfels.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Ein Denkmal oder eine markante Felsformation auf dem Berg Bukulja.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "Eine kleine Kunstgalerie, die lokale Werke in der Nähe des Gipfels ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Извор",
+                  "text": "Vízi park és pihenőhely a Bukulja-csúcs lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Emlékmű vagy jellegzetes sziklaformáció a Bukulja-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "Kisméretű művészeti galéria, amely helyi alkotásokat mutat be a csúcs közelében.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Извор",
+                  "text": "Un parc acvatic și zonă de recreere la poalele vârfului Bukulja.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Сфинга",
+                  "text": "Un monument sau o formațiune stâncoasă distinctivă pe muntele Bukulja.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Мала галерија",
+                  "text": "O mică galerie de artă ce expune lucrări locale în apropierea vârfului.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Izvor",
+                  "text": "A water park and recreational area at the foot of Bukulja Peak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.547636,
+                        44.310481
+                  ]
+            },
+            {
+                  "name": "Sphynx",
+                  "text": "A monument or distinctive rock formation on Bukulja Mountain.",
+                  "category": "historical",
+                  "coords": [
+                        20.55591,
+                        44.308099
+                  ]
+            },
+            {
+                  "name": "Small gallery",
+                  "text": "A small art gallery exhibiting local works near the peak.",
+                  "category": "museum",
+                  "coords": [
+                        20.560118,
+                        44.307339
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Bukulja Gipfel", hu: "Bukulja csúcs", ro: "Vârful Bukulja", en: "Bukulja Peak" },
@@ -1398,7 +3387,88 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-bukulja-gipfel-relief-v2.webp",
   },
   {
-    id: "serbia-stara-planina-kordzino-relief-v2",
+    id: "serbia-stara-planina-kordzino-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Der höchste Gipfel des Balkangebirges an der Grenze zwischen Serbien und Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Čunguljski skok",
+                  "text": "Ein beeindruckender Wasserfall im Balkangebirge, bekannt für seine natürliche Schönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        22.731192,
+                        43.371549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "A Balkán-hegység legmagasabb csúcsa a szerb-bolgár határon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Čunguljski skok",
+                  "text": "Lenyűgöző vízesés a Balkán-hegységben, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.731192,
+                        43.371549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Čunguljski skok",
+                  "text": "O cascadă impresionantă din Munții Balcani, cunoscută pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        22.731192,
+                        43.371549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Midzhur / Midžor",
+                  "text": "The highest peak of the Balkan Mountains, located on the border between Serbia and Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Čunguljski skok",
+                  "text": "An impressive waterfall in the Balkan Mountains, known for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        22.731192,
+                        43.371549
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Kordžino", hu: "Kordžino", ro: "Kordžino", en: "Kordžino" },
@@ -1533,7 +3603,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-raska-crni-vrh-relief-v2.webp",
   },
   {
-    id: "serbia-kopaonik-suncana-dolina-relief-v2",
+    id: "serbia-kopaonik-suncana-dolina-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Archäologische Ausgrabungsstätte einer spätantiken Basilika im Kopaonik-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Denkmal in Form eines Obelisken in der Nähe von Sunčana Dolina.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Késő antik bazilika régészeti lelőhelye a Kopaonik-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Obeliszk formájú emlékmű Sunčana Dolina közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Sit arheologic al unei bazilici din antichitatea târzie în munții Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf din munții Kopaonik, în Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument sub formă de obelisc situat în apropiere de Sunčana Dolina.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Archaeological site of a late antique basilica located in the Kopaonik mountains.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik mountain range in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A monument in the shape of an obelisk located near Sunčana Dolina.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "RS",
     name: { de: "Sunčana Dolina", hu: "Sunčana Dolina", ro: "Sunčana Dolina", en: "Sunčana Dolina" },
@@ -1578,7 +3765,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-suncana-dolina-relief-v2.webp",
   },
   {
-    id: "serbia-kopaonik-krcmar-relief-v2",
+    id: "serbia-kopaonik-krcmar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Eine archäologische Fundstätte im Kopaonik-Gebirge mit Überresten einer alten Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Gedenkmonument in der Region Krčmar.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Régészeti lelőhely a Kopaonik-hegységben egy régi templom maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Emlékmű Krčmar régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Un sit arheologic în munții Kopaonik, conținând ruinele unei vechi biserici.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf din masivul muntos Kopaonik din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument memorial în regiunea Krčmar.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "An archaeological site in the Kopaonik mountains with remains of an old church.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik mountain range in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A memorial monument located in the Krčmar region.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Krčmar", hu: "Krčmar", ro: "Krčmar", en: "Krčmar" },
@@ -1623,7 +3927,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-krcmar-relief-v2.webp",
   },
   {
-    id: "serbia-stara-planina-bratin-vrh-relief-v2",
+    id: "serbia-stara-planina-bratin-vrh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Der höchste Gipfel des Balkangebirges auf serbischem Staatsgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "A Balkán-hegység legmagasabb csúcsa Szerbiában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Cel mai înalt vârf din Munții Balcani pe teritoriul Serbiei.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Midzhur / Midžor",
+                  "text": "The highest peak of the Balkan Mountains in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Bratin Vrh", hu: "Bratin Vrh", ro: "Bratin Vrh", en: "Bratin Vrh" },
@@ -1668,7 +4017,304 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-stara-planina-bratin-vrh-relief-v2.webp",
   },
   {
-    id: "serbia-tara-veliki-stolac-relief-v2",
+    id: "serbia-tara-veliki-stolac-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Tara",
+                  "text": "Ein malerischer Nationalpark, der für seine dichten Wälder, tiefen Schluchten und vielfältige Tierwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Eine archäologische Stätte mit mittelalterlichen Grabsteinen, den sogenannten Stećci.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Ein beliebter Aussichtspunkt mit Panoramablick auf die umliegenden Berge und Täler.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Ein berühmter Aussichtspunkt mit atemberaubendem Blick über die Schlucht des Flusses Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Ein Aussichtspunkt im Tara-Gebirge mit schöner Naturkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ein Ort, der zur Beobachtung der malerischen Landschaft der Region dient.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Ein felsiger Aussichtspunkt mit weitem Blick über den Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            },
+            {
+                  "name": "Видиковац Зеленика",
+                  "text": "Ein Aussichtspunkt mit Blick auf die grünen Bergketten.",
+                  "category": "natural",
+                  "coords": [
+                        19.407901,
+                        43.956577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Festői nemzeti park, amely sűrű erdőiről, mély kanyonjairól és változatos élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Régészeti lelőhely középkori monumentális sírkövekkel, az úgynevezett sztekácsokkal.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Népszerű kilátóhely, ahonnan panorámás kilátás nyílik a környező hegyekre és völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Híres kilátóhely, ahonnan lélegzetelállító kilátás nyílik a Drina-folyó kanyonjára.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Kilátóhely a Tara-hegységben, amely szép természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A régió festői tájainak megfigyelésére kijelölt hely.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Sziklás kilátóhely, ahonnan tágas kilátás nyílik a nemzeti parkra.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            },
+            {
+                  "name": "Видиковац Зеленика",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik a zöldellő hegyoldalakra.",
+                  "category": "natural",
+                  "coords": [
+                        19.407901,
+                        43.956577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Un parc național pitoresc, cunoscut pentru pădurile sale dese, canioanele adânci și fauna diversă.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Un sit arheologic care cuprinde monumente funerare medievale cunoscute sub numele de Stećci.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Un punct de belvedere popular care oferă vederi panoramice asupra munților și văilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Un punct de belvedere faimos care oferă priveliști uimitoare asupra canionului râului Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Un punct de belvedere în munții Tara, oferind un peisaj natural frumos.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Un loc destinat observării peisajului pitoresc al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Un punct de belvedere stâncos care oferă vederi largi asupra parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            },
+            {
+                  "name": "Видиковац Зеленика",
+                  "text": "Un punct de observație ce oferă vederi asupra versanților montani verzi.",
+                  "category": "natural",
+                  "coords": [
+                        19.407901,
+                        43.956577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tara National Park",
+                  "text": "A scenic national park known for its dense forests, deep canyons, and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Stecci Necropolis Rastiste, Locality Urosevine",
+                  "text": "An archaeological site featuring medieval monumental tombstones known as Stećci.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Kozja stena",
+                  "text": "A popular viewpoint offering panoramic vistas of the surrounding mountains and valleys.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Banjska stena",
+                  "text": "A famous lookout point providing breathtaking views over the Drina River canyon.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "A viewpoint in the Tara mountains offering beautiful natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A spot designated for observing the picturesque landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Velica Stena",
+                  "text": "A rocky viewpoint offering wide views across the national park.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            },
+            {
+                  "name": "Zelenika viewpoint",
+                  "text": "A scenic overlook providing views of the green mountain slopes.",
+                  "category": "natural",
+                  "coords": [
+                        19.407901,
+                        43.956577
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Veliki Stolac", hu: "Veliki Stolac", ro: "Veliki Stolac", en: "Veliki Stolac" },
@@ -1713,7 +4359,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-tara-veliki-stolac-relief-v2.webp",
   },
   {
-    id: "serbia-zlatibor-cicot-relief-v2",
+    id: "serbia-zlatibor-cicot-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Ein Veranstaltungsort für Theateraufführungen und kulturelle Events in der Region Zlatibor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Ein Freizeitpark mit verschiedenen Fahrgeschäften und Unterhaltung für Besucher in Čičot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            },
+            {
+                  "name": "Планина",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick auf die Naturlandschaft um Čičot bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Színházi előadások és kulturális események helyszíne a Zlatibor régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Különféle játékokat és szórakozást kínáló szabadidőpark Čičotban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            },
+            {
+                  "name": "Планина",
+                  "text": "Egy pont, ahonnan széles kilátás nyílik a Čičot környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Un loc pentru spectacole de teatru și evenimente culturale în regiunea Zlatibor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Un parc de distracții care oferă diverse atracții și divertisment pentru vizitatori în Čičot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            },
+            {
+                  "name": "Планина",
+                  "text": "Un punct care oferă o vedere panoramică asupra peisajului natural din jurul localității Čičot.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zlatibor theater",
+                  "text": "A venue for theatrical performances and cultural events in the Zlatibor region.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Amusement park",
+                  "text": "A recreational park offering various rides and entertainment for visitors in Čičot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "A spot providing a wide view of the natural scenery around Čičot.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Čičot", hu: "Čičot", ro: "Čičot", en: "Čičot" },
@@ -1758,7 +4521,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-zlatibor-cicot-relief-v2.webp",
   },
   {
-    id: "serbia-kopaonik-vucak-relief-v2",
+    id: "serbia-kopaonik-vucak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodenica",
+                  "text": "Eine traditionelle Wassermühle in Vučak.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodenica",
+                  "text": "Hagyományos vízimalom Vučak településen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodenica",
+                  "text": "O moară de apă tradițională în Vučak.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Watermill",
+                  "text": "A traditional watermill located in Vučak.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Vučak", hu: "Vučak", ro: "Vučak", en: "Vučak" },
@@ -1803,7 +4611,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-vucak-relief-v2.webp",
   },
   {
-    id: "serbia-stara-planina-cuka-relief-v2",
+    id: "serbia-stara-planina-cuka-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Ein markanter Berggipfel im Balkangebirge mit charakteristischer Felsform.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Jellegzetes sziklaformájú hegycsúcs a Balkán-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Un vârf muntos proeminent din Munții Balcani, cu o formă stâncoasă caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babin Zub",
+                  "text": "A prominent peak in the Balkan Mountains with a characteristic rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Čuka", hu: "Čuka", ro: "Čuka", en: "Čuka" },
@@ -1848,7 +4701,124 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-stara-planina-cuka-relief-v2.webp",
   },
   {
-    id: "serbia-tara-bijela-stijena-relief-v2",
+    id: "serbia-tara-bijela-stijena-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klotijevac",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf einem Hügel in der Nähe des Dorfes Bijela Stijena.",
+                  "category": "castle",
+                  "coords": [
+                        19.325334,
+                        43.993251
+                  ]
+            },
+            {
+                  "name": "Bilješka stena",
+                  "text": "Ein Panoramapunkt mit herrlichem Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.317252,
+                        43.972526
+                  ]
+            },
+            {
+                  "name": "Dujin Breg",
+                  "text": "Ein malerischer Ort mit weitem Blick über die Täler und Wälder der Region.",
+                  "category": "natural",
+                  "coords": [
+                        19.338778,
+                        43.962149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klotijevac",
+                  "text": "Középkori erőd romjai egy dombon, Bijela Stijena falu közelében.",
+                  "category": "castle",
+                  "coords": [
+                        19.325334,
+                        43.993251
+                  ]
+            },
+            {
+                  "name": "Bilješka stena",
+                  "text": "Panorámás kilátóhely, ahonnan lenyűgöző kilátás nyílik a környező hegyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.317252,
+                        43.972526
+                  ]
+            },
+            {
+                  "name": "Dujin Breg",
+                  "text": "Festői hely, ahonnan széles kilátás nyílik a régió völgyeire és erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        19.338778,
+                        43.962149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klotijevac",
+                  "text": "Ruinele unei cetăți medievale situate pe un deal lângă satul Bijela Stijena.",
+                  "category": "castle",
+                  "coords": [
+                        19.325334,
+                        43.993251
+                  ]
+            },
+            {
+                  "name": "Bilješka stena",
+                  "text": "Un punct de vedere panoramic care oferă vederi uimitoare ale peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.317252,
+                        43.972526
+                  ]
+            },
+            {
+                  "name": "Dujin Breg",
+                  "text": "Un loc pitoresc care oferă vederi largi asupra văilor și pădurilor din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        19.338778,
+                        43.962149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klotijevac",
+                  "text": "The ruins of a medieval fortress situated on a hill near the village of Bijela Stijena.",
+                  "category": "castle",
+                  "coords": [
+                        19.325334,
+                        43.993251
+                  ]
+            },
+            {
+                  "name": "Bilješka stena",
+                  "text": "A panoramic viewpoint offering stunning vistas of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.317252,
+                        43.972526
+                  ]
+            },
+            {
+                  "name": "Dujin Breg",
+                  "text": "A scenic spot providing wide views over the valleys and forests of the region.",
+                  "category": "natural",
+                  "coords": [
+                        19.338778,
+                        43.962149
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Bijela Stijena", hu: "Bijela Stijena", ro: "Bijela Stijena", en: "Bijela Stijena" },
@@ -1893,7 +4863,88 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-tara-bijela-stijena-relief-v2.webp",
   },
   {
-    id: "serbia-zlatibor-gruda-relief-v2",
+    id: "serbia-zlatibor-gruda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Ein modernes Theater in der Region Zlatibor, das ein vielfältiges Programm bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Ein lokaler Freizeitpark in Gruda, der Unterhaltung für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Modern színház a Zlatibor régióban, amely változatos programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Vidámpark Gruda településen, amely szórakozást kínál az egész családnak.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Позориште Златибор",
+                  "text": "Un teatru modern în regiunea Zlatibor, oferind un program cultural diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Забавни парк",
+                  "text": "Un parc de distracții local în Gruda, oferind divertisment pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zlatibor theater",
+                  "text": "A modern theater in the Zlatibor region offering a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        19.70534,
+                        43.729323
+                  ]
+            },
+            {
+                  "name": "Amusement park",
+                  "text": "A local amusement park in Gruda offering fun for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70515,
+                        43.727902
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Gruda", hu: "Gruda", ro: "Gruda", en: "Gruda" },
@@ -1938,7 +4989,52 @@ export const serbiaReliefV2: POI[] = [
     image: "/poi-images/serbia-zlatibor-gruda-relief-v2.webp",
   },
   {
-    id: "serbia-kopaonik-vucak-zapad-relief-v2",
+    id: "serbia-kopaonik-vucak-zapad-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodenica",
+                  "text": "Die Wassermühle in Vučak Zapad ist eine lokale Sehenswürdigkeit, die traditionelle Technik zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodenica",
+                  "text": "A Vučak Zapad területén található vízimalom egy helyi látványosság, amely a hagyományos technikát szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodenica",
+                  "text": "Moara de apă din Vučak Zapad este o atracție locală ce exemplifică tehnologia tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Watermill",
+                  "text": "The watermill in Vučak Zapad is a local attraction showcasing traditional milling technology.",
+                  "category": "landmark",
+                  "coords": [
+                        20.881507,
+                        43.30241
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Vučak Zapad", hu: "Vučak Zapad", ro: "Vučak Zapad", en: "Vučak Zapad" },

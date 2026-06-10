@@ -48,7 +48,232 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-kition-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-idalion-ruins-history-v2",
+    id: "cyprus-idalion-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Idalion",
+                  "text": "Die Ruinen einer antiken Stadtmauer und eines Stadtkönigreichs auf Zypern.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Ein archäologischer Punkt in Idalion, der die Überreste eines antiken Athena-Heiligtums markiert.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Eine archäologische Ausgrabungsstätte in den Ruinen von Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Ein lokales Museum, das Fundstücke aus dem antiken Idalion ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Alambra, Area B",
+                  "text": "Eine bedeutende archäologische Ausgrabungszone bei Alambra.",
+                  "category": "historical",
+                  "coords": [
+                        33.39699,
+                        34.985923
+                  ]
+            },
+            {
+                  "name": "Alambra, Area A",
+                  "text": "Archäologische Ausgrabungsstätte in Alambra, Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.395964,
+                        34.984366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Idalion",
+                  "text": "Egy antik városfal és városkirályság romjai Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Régészeti helyszín Idalionban, amely egy antik Athéné-szentély maradványait jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Régészeti lelőhely Idalion romjai között.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Helyi múzeum, amely az ókori Idalion leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Alambra, Area B",
+                  "text": "Jelentős régészeti ásatási terület Alambra közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.39699,
+                        34.985923
+                  ]
+            },
+            {
+                  "name": "Alambra, Area A",
+                  "text": "Régészeti lelőhely Alambrában, Idalion területén.",
+                  "category": "historical",
+                  "coords": [
+                        33.395964,
+                        34.984366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Idalion",
+                  "text": "Ruinele unui vechi regat și zid de cetate din Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Un punct arheologic din Idalion care marchează rămășițele unui vechi sanctuar al Atenei.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Un sit arheologic situat în ruinele de la Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Un muzeu local care expune descoperiri din anticul Idalion.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Alambra, Area B",
+                  "text": "O zonă arheologică importantă de lângă Alambra.",
+                  "category": "historical",
+                  "coords": [
+                        33.39699,
+                        34.985923
+                  ]
+            },
+            {
+                  "name": "Alambra, Area A",
+                  "text": "Sit arheologic în Alambra, zona Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.395964,
+                        34.984366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Idalion",
+                  "text": "The ruins of an ancient city kingdom and fortification in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "An archaeological point in Idalion marking the remains of an ancient Sanctuary of Athena.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "An archaeological site located within the ruins of Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Ancient Idalion",
+                  "text": "A local museum exhibiting finds from ancient Idalion.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Alambra, Area B",
+                  "text": "A significant archaeological excavation zone near Alambra.",
+                  "category": "historical",
+                  "coords": [
+                        33.39699,
+                        34.985923
+                  ]
+            },
+            {
+                  "name": "Alambra, Area A",
+                  "text": "Archaeological excavation site in Alambra, Idalion area.",
+                  "category": "historical",
+                  "coords": [
+                        33.395964,
+                        34.984366
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Idalion", hu: "Idalion romjai", ro: "Ruinele din Idalion", en: "Ruins of Idalion" },
@@ -93,7 +318,124 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-idalion-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-tamassos-ruins-history-v2",
+    id: "cyprus-tamassos-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamassos",
+                  "text": "Eine bedeutende antike Stadt auf Zypern, bekannt für ihre königlichen Gräber und Tempelruinen.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Ein Berggipfel in der Nähe der antiken Stätte von Tamassos auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Ein ökologischer Bauernhof in der Nähe von Tamassos, der Freizeitaktivitäten in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ταμασσός",
+                  "text": "Jelentős ókori város Cipruson, amely királyi sírjairól és templomromjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Hegycsúcs a ciprusi Tamasszosz antik lelőhelyének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Ökológiai gazdaság Tamasszosz közelében, amely természeti szabadidős programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ταμασσός",
+                  "text": "Un oraș antic important din Cipru, cunoscut pentru mormintele sale regale și ruinele templelor.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Un vârf montan situat în apropierea sitului antic Tamassos din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "O fermă ecologică lângă Tamassos, oferind activități recreative în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamassos",
+                  "text": "An important ancient city in Cyprus, known for its royal tombs and temple ruins.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "A mountain peak located near the ancient site of Tamassos in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "An ecological farm near Tamassos offering nature-based recreational activities.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Tamassos", hu: "Tamasszosz romjai", ro: "Ruinele din Tamassos", en: "Ruins of Tamassos" },
@@ -138,7 +480,160 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-tamassos-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-soli-ruins-history-v2",
+    id: "cyprus-soli-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soli",
+                  "text": "Eine antike Stadt und archäologische Ausgrabungsstätte auf Zypern.",
+                  "category": "historical",
+                  "coords": [
+                        32.812539,
+                        35.140672
+                  ]
+            },
+            {
+                  "name": "Vouni Palace",
+                  "text": "Die Ruinen eines antiken Palastes in der Nähe von Soli.",
+                  "category": "historical",
+                  "coords": [
+                        32.773221,
+                        35.159251
+                  ]
+            },
+            {
+                  "name": "Lefke Belediyesi Halk Plajı",
+                  "text": "Ein öffentlicher Strand in der Nähe der Ruinen von Soli.",
+                  "category": "recreational",
+                  "coords": [
+                        32.803609,
+                        35.148551
+                  ]
+            },
+            {
+                  "name": "Soloi Theatre",
+                  "text": "Ein antikes römisches Theater in der Ausgrabungsstätte von Soli.",
+                  "category": "cultural",
+                  "coords": [
+                        32.811921,
+                        35.139661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soli",
+                  "text": "Antik város és régészeti lelőhely Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        32.812539,
+                        35.140672
+                  ]
+            },
+            {
+                  "name": "Vouni Palace",
+                  "text": "Egy antik palota romjai Soli közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.773221,
+                        35.159251
+                  ]
+            },
+            {
+                  "name": "Lefke Belediyesi Halk Plajı",
+                  "text": "Nyilvános strand Soli romjainak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.803609,
+                        35.148551
+                  ]
+            },
+            {
+                  "name": "Soloi Theatre",
+                  "text": "Antik római színház Soli régészeti lelőhelyén.",
+                  "category": "cultural",
+                  "coords": [
+                        32.811921,
+                        35.139661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soli",
+                  "text": "Un oraș antic și sit arheologic în Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        32.812539,
+                        35.140672
+                  ]
+            },
+            {
+                  "name": "Vouni Palace",
+                  "text": "Ruinele unui palat antic situat lângă Soli.",
+                  "category": "historical",
+                  "coords": [
+                        32.773221,
+                        35.159251
+                  ]
+            },
+            {
+                  "name": "Lefke Belediyesi Halk Plajı",
+                  "text": "O plajă publică în apropierea ruinelor din Soli.",
+                  "category": "recreational",
+                  "coords": [
+                        32.803609,
+                        35.148551
+                  ]
+            },
+            {
+                  "name": "Soloi Theatre",
+                  "text": "Un teatru antic roman în situl arheologic din Soli.",
+                  "category": "cultural",
+                  "coords": [
+                        32.811921,
+                        35.139661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soloi",
+                  "text": "An ancient city and archaeological site in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        32.812539,
+                        35.140672
+                  ]
+            },
+            {
+                  "name": "Vouni Palace",
+                  "text": "The ruins of an ancient palace located near Soli.",
+                  "category": "historical",
+                  "coords": [
+                        32.773221,
+                        35.159251
+                  ]
+            },
+            {
+                  "name": "Lefke Belediyesi Halk Plajı",
+                  "text": "A public beach located near the ruins of Soli.",
+                  "category": "recreational",
+                  "coords": [
+                        32.803609,
+                        35.148551
+                  ]
+            },
+            {
+                  "name": "Soloi Theatre",
+                  "text": "An ancient Roman theatre at the Soli archaeological site.",
+                  "category": "cultural",
+                  "coords": [
+                        32.811921,
+                        35.139661
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Soli", hu: "Soli romjai", ro: "Ruinele din Soli", en: "Ruins of Soli" },
@@ -183,7 +678,196 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-soli-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-vouni-palace-history-v2", "sights": {"de": [{"name": "Omega Beach", "text": "Zu Füßen des historischen Vouni-Palastes schmiegt sich der Omega Beach malerisch an die zyprische Küste. Die eindrucksvolle Kulisse verbindet Geschichte und Natur zu einem unvergesslichen Erlebnis am Wasser. Ein entspanntes Bad in den Wellen ist der perfekte Abschluss, nachdem man die antiken Ruinen erkundet hat.", "category": "recreational", "coords": [32.664087, 35.191986]}], "hu": [{"name": "Omega Beach", "text": "A történelmi Vouni-palota lábánál az Omega Beach festőien simul a ciprusi partokhoz. A lenyűgöző háttér a történelmet és a természetet egy felejthetetlen vízparti élménnyé ötvözi. Egy pihentető fürdőzés a hullámok között tökéletes lezárása az antik romok felfedezésének.", "category": "recreational", "coords": [32.664087, 35.191986]}], "ro": [{"name": "Omega Beach", "text": "La poalele istoricului Palat Vouni, Omega Beach se îmbrățișează pitoresc cu țărmul cipriot. Decorul impresionant combină istoria și natura într-o experiență de neuitat la malul apei. O baie relaxantă în valuri este încheierea perfectă după explorarea ruinelor antice.", "category": "recreational", "coords": [32.664087, 35.191986]}], "en": [{"name": "Omega Beach", "text": "Nestled at the foot of the historic Vouni Palace, Omega Beach clings picturesquely to the Cypriot coastline. The impressive backdrop combines history and nature into an unforgettable seaside experience. A relaxing dip in the waves is the perfect finale after exploring the ancient ruins.", "category": "recreational", "coords": [32.664087, 35.191986]}]},
+    id: "cyprus-vouni-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Zu Füßen des historischen Vouni-Palastes schmiegt sich der Omega Beach malerisch an die zyprische Küste. Die eindrucksvolle Kulisse verbindet Geschichte und Natur zu einem unvergesslichen Erlebnis am Wasser. Ein entspanntes Bad in den Wellen ist der perfekte Abschluss, nachdem man die antiken Ruinen erkundet hat.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            },
+            {
+                  "name": "Πάρκο Πουλιών Σάββας",
+                  "text": "Ein Vogelpark und Zoo in der Nähe von Vouni Palace, der verschiedene Vogelarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.67781,
+                        35.174254
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "Eine lokale Attraktion in der Nähe von Vouni Palace, bekannt für ihren Erdbeeranbau.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Historische Ruinen und Felsformationen in der Gegend von Yeşilırmak bei Vouni Palace.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
+            },
+            {
+                  "name": "Panagia Galoktisti",
+                  "text": "Eine traditionelle griechisch-orthodoxe Kapelle in der Nähe von Vouni Palace.",
+                  "category": "religious",
+                  "coords": [
+                        32.672975,
+                        35.166366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omega Beach",
+                  "text": "A történelmi Vouni-palota lábánál az Omega Beach festőien simul a ciprusi partokhoz. A lenyűgöző háttér a történelmet és a természetet egy felejthetetlen vízparti élménnyé ötvözi. Egy pihentető fürdőzés a hullámok között tökéletes lezárása az antik romok felfedezésének.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            },
+            {
+                  "name": "Πάρκο Πουλιών Σάββας",
+                  "text": "Madárpark és állatkert a Vouni-palota közelében, amely különféle madárfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        32.67781,
+                        35.174254
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "Helyi látnivaló a Vouni-palota közelében, amely epertermesztéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Történelmi romok és sziklaalakzatok Yeşilırmak környékén, a Vouni-palota közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
+            },
+            {
+                  "name": "Panagia Galoktisti",
+                  "text": "Hagyományos görög ortodox kápolna a Vouni-palota közelében.",
+                  "category": "religious",
+                  "coords": [
+                        32.672975,
+                        35.166366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omega Beach",
+                  "text": "La poalele istoricului Palat Vouni, Omega Beach se îmbrățișează pitoresc cu țărmul cipriot. Decorul impresionant combină istoria și natura într-o experiență de neuitat la malul apei. O baie relaxantă în valuri este încheierea perfectă după explorarea ruinelor antice.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            },
+            {
+                  "name": "Πάρκο Πουλιών Σάββας",
+                  "text": "Un parc de păsări și grădină zoologică lângă Palatul Vouni, care găzduiește diverse specii de păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        32.67781,
+                        35.174254
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "O atracție locală lângă Palatul Vouni, cunoscută pentru cultivarea căpșunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Ruine istorice și formațiuni stâncoase în zona Yeşilırmak de lângă Palatul Vouni.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
+            },
+            {
+                  "name": "Panagia Galoktisti",
+                  "text": "O capelă ortodoxă grecească tradițională situată în apropierea Palatului Vouni.",
+                  "category": "religious",
+                  "coords": [
+                        32.672975,
+                        35.166366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Nestled at the foot of the historic Vouni Palace, Omega Beach clings picturesquely to the Cypriot coastline. The impressive backdrop combines history and nature into an unforgettable seaside experience. A relaxing dip in the waves is the perfect finale after exploring the ancient ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            },
+            {
+                  "name": "Birds Park",
+                  "text": "A bird park and zoo near Vouni Palace that is home to various bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        32.67781,
+                        35.174254
+                  ]
+            },
+            {
+                  "name": "Asya Çilekleri",
+                  "text": "A local attraction near Vouni Palace known for its strawberry cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        32.741541,
+                        35.167537
+                  ]
+            },
+            {
+                  "name": "Yeşilırmak Kayası",
+                  "text": "Historical ruins and rock formations in the Yeşilırmak area near Vouni Palace.",
+                  "category": "historical",
+                  "coords": [
+                        32.738251,
+                        35.181536
+                  ]
+            },
+            {
+                  "name": "Panagia Galoktisti",
+                  "text": "A traditional Greek Orthodox chapel located near Vouni Palace.",
+                  "category": "religious",
+                  "coords": [
+                        32.672975,
+                        35.166366
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "CY",
     name: { de: "Palast von Vouni", hu: "Vouni palotája", ro: "Palatul din Vouni", en: "Vouni Palace" },
@@ -318,7 +1002,124 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-la-cava-castle-history-v2.webp",
   },
   {
-    id: "cyprus-kantaras-castle-history-v2",
+    id: "cyprus-kantaras-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kantara Burg",
+                  "text": "Diese mittelalterliche Burg im Pentadaktylos-Gebirge bietet weite Ausblicke über Zypern.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Vourni",
+                  "text": "Historische Ruinen in der Nähe der Burg Kantara.",
+                  "category": "historical",
+                  "coords": [
+                        33.9654,
+                        35.395282
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "Eine Sehenswürdigkeit in der Umgebung der Burg Kantara auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kantara Kalesi",
+                  "text": "Ez a Pentadaktilosz-hegységben található középkori vár széles kilátást nyújt Ciprusra.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Vourni",
+                  "text": "Történelmi romok a Kantara-vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.9654,
+                        35.395282
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "Egy látnivaló a ciprusi Kantara-vár környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kantara Kalesi",
+                  "text": "Acest castel medieval din Munții Pentadaktylos oferă vederi largi asupra Ciprului.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Vourni",
+                  "text": "Ruine istorice situate în apropierea Castelului Kantara.",
+                  "category": "historical",
+                  "coords": [
+                        33.9654,
+                        35.395282
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "O atracție în zona Castelului Kantara din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kantara Castle",
+                  "text": "This medieval castle in the Pentadaktylos mountains offers expansive views over Cyprus.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Vourni",
+                  "text": "Historic ruins located near the Kantara Castle area.",
+                  "category": "historical",
+                  "coords": [
+                        33.9654,
+                        35.395282
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "An attraction in the vicinity of Kantara Castle in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kantara", hu: "Kantará vár", ro: "Castelul Kantara", en: "Kantara Castle" },
@@ -363,7 +1164,196 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-kantaras-castle-history-v2.webp",
   },
   {
-    id: "cyprus-bufavento-castle-history-v2",
+    id: "cyprus-bufavento-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buffavento Burg",
+                  "text": "Eine mittelalterliche Burg im Pentadaktylos-Gebirge auf Zypern.",
+                  "category": "castle",
+                  "coords": [
+                        33.409981,
+                        35.287398
+                  ]
+            },
+            {
+                  "name": "Taşkent Doğa Parkı",
+                  "text": "Ein Naturschutzgebiet und Tierpark auf Zypern, der sich für den Artenschutz einsetzt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.383557,
+                        35.278026
+                  ]
+            },
+            {
+                  "name": "Taşkent view",
+                  "text": "Aussichtspunkt bei der Burg Buffavento mit Blick auf das Dorf Taşkent.",
+                  "category": "natural",
+                  "coords": [
+                        33.389562,
+                        35.283139
+                  ]
+            },
+            {
+                  "name": "Gufi Taşı (Kemerli Kaya)",
+                  "text": "Aussichtspunkt mit einer markanten Felsformation bei der Burg Buffavento.",
+                  "category": "natural",
+                  "coords": [
+                        33.401188,
+                        35.28272
+                  ]
+            },
+            {
+                  "name": "TRNC flag",
+                  "text": "Eine weithin sichtbare Darstellung der Flagge der Türkischen Republik Nordzypern am Berghang.",
+                  "category": "landmark",
+                  "coords": [
+                        33.377564,
+                        35.282792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bufavento Kalesi",
+                  "text": "Középkori vár a ciprusi Pentadaktilosz-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        33.409981,
+                        35.287398
+                  ]
+            },
+            {
+                  "name": "Taşkent Doğa Parkı",
+                  "text": "Természetvédelmi terület és állatpark Cipruson, amely a fajmegőrzésért dolgozik.",
+                  "category": "recreational",
+                  "coords": [
+                        33.383557,
+                        35.278026
+                  ]
+            },
+            {
+                  "name": "Taşkent view",
+                  "text": "Kilátópont a Buffavento-várnál, kilátással Taşkent falura.",
+                  "category": "natural",
+                  "coords": [
+                        33.389562,
+                        35.283139
+                  ]
+            },
+            {
+                  "name": "Gufi Taşı (Kemerli Kaya)",
+                  "text": "Kilátópont egy jellegzetes sziklaformációval a Buffavento-vár közelében.",
+                  "category": "natural",
+                  "coords": [
+                        33.401188,
+                        35.28272
+                  ]
+            },
+            {
+                  "name": "TRNC flag",
+                  "text": "Az Észak-ciprusi Török Köztársaság zászlójának nagyméretű ábrázolása a hegyoldalban.",
+                  "category": "landmark",
+                  "coords": [
+                        33.377564,
+                        35.282792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bufavento Kalesi",
+                  "text": "Un castel medieval situat în munții Pentadaktylos din Cipru.",
+                  "category": "castle",
+                  "coords": [
+                        33.409981,
+                        35.287398
+                  ]
+            },
+            {
+                  "name": "Taşkent Doğa Parkı",
+                  "text": "O rezervație naturală și parc zoologic din Cipru, dedicat conservării speciilor.",
+                  "category": "recreational",
+                  "coords": [
+                        33.383557,
+                        35.278026
+                  ]
+            },
+            {
+                  "name": "Taşkent view",
+                  "text": "Punct de observație lângă Castelul Buffavento, cu vedere spre satul Taşkent.",
+                  "category": "natural",
+                  "coords": [
+                        33.389562,
+                        35.283139
+                  ]
+            },
+            {
+                  "name": "Gufi Taşı (Kemerli Kaya)",
+                  "text": "Punct de observație cu o formațiune stâncoasă distinctivă lângă Castelul Buffavento.",
+                  "category": "natural",
+                  "coords": [
+                        33.401188,
+                        35.28272
+                  ]
+            },
+            {
+                  "name": "TRNC flag",
+                  "text": "O reprezentare de mari dimensiuni a steagului Republicii Turce a Ciprului de Nord pe versantul muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        33.377564,
+                        35.282792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buffavento Castle",
+                  "text": "A medieval castle located in the Pentadaktylos mountains of Cyprus.",
+                  "category": "castle",
+                  "coords": [
+                        33.409981,
+                        35.287398
+                  ]
+            },
+            {
+                  "name": "Taşkent Doğa Parkı",
+                  "text": "A nature reserve and wildlife park in Cyprus dedicated to species conservation.",
+                  "category": "recreational",
+                  "coords": [
+                        33.383557,
+                        35.278026
+                  ]
+            },
+            {
+                  "name": "Taşkent view",
+                  "text": "Viewpoint near Buffavento Castle offering vistas of the village of Taşkent.",
+                  "category": "natural",
+                  "coords": [
+                        33.389562,
+                        35.283139
+                  ]
+            },
+            {
+                  "name": "Arching Rock",
+                  "text": "Viewpoint featuring a distinctive rock formation near Buffavento Castle.",
+                  "category": "natural",
+                  "coords": [
+                        33.401188,
+                        35.28272
+                  ]
+            },
+            {
+                  "name": "TRNC flag",
+                  "text": "A large representation of the TRNC flag displayed on the mountainside near Buffavento Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        33.377564,
+                        35.282792
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CY",
     name: { de: "Burg Bufavento", hu: "Bufavento vár", ro: "Castelul Bufavento", en: "Buffavento Castle" },
@@ -498,7 +1488,160 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-saranta-kolones-history-v2.webp",
   },
   {
-    id: "cyprus-machairas-monastery-history-v2",
+    id: "cyprus-machairas-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Ein Museum im historischen Dorf Fikardou, das das ländliche Leben auf Zypern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Ein Museum, das Grigoris Afxentiou gewidmet ist, einem Helden des zyprischen Unabhängigkeitskampfes.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Ein Berggipfel im Machairas-Wald, der weite Ausblicke über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Ein Aussichtspunkt mit weitem Blick in der Nähe des Klosters Machairas.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Múzeum a történelmi Fikardou faluban, amely a ciprusi vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Grigoris Afxentiounak, a ciprusi függetlenségi harc hősének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Hegycsúcs a Machairas-erdőben, amely széles kilátást nyújt a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Kilátópont szép panorámával a Mahera-kolostor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Un muzeu în satul istoric Fikardou, care prezintă viața rurală din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Un muzeu dedicat lui Grigoris Afxentiou, un erou al luptei pentru independența Ciprului.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Un vârf montan în pădurea Machairas, care oferă vederi largi asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Un punct de belvedere cu vedere panoramică în apropierea Mănăstirii Machairas.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikardou Rural Museum",
+                  "text": "A museum in the historic village of Fikardou showcasing rural life in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Grigoris Afxentiou",
+                  "text": "A museum dedicated to Grigoris Afxentiou, a hero of the Cypriot independence struggle.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Kionia peak",
+                  "text": "A mountain peak in the Machairas forest offering wide views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "A scenic viewpoint offering wide views near the Machairas Monastery.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kloster Machairas", hu: "Machairas kolostor", ro: "Mănăstirea Machairas", en: "Machairas Monastery" },
@@ -813,7 +1956,268 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-paphos-fort-history-v2.webp",
   },
   {
-    id: "cyprus-agios-nikolaos-tis-stegis-history-v2",
+    id: "cyprus-agios-nikolaos-tis-stegis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Ein Naturschutzgebiet im Troodos-Gebirge auf Zypern.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Ein lokales Museum in der Nähe der Kirche Agios Nikolaos tis Stegis.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Olympos",
+                  "text": "Der höchste Berg Zyperns im Troodos-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "Eine byzantinische Kirche aus dem 11. Jahrhundert, die zum UNESCO-Welterbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Eine lokale Sehenswürdigkeit in der Umgebung der Kirche Agios Nikolaos tis Stegis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Ein Aussichtspunkt mit Teleskop im Troodos-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Ein beeindruckender, alter Baum im Troodos-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Természetvédelmi terület a ciprusi Tróodosz-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Helyi múzeum az Ájosz Nikólaosz tisz Sztejesz-templom közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Ciprus legmagasabb hegye a Tróodosz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "11. századi bizánci templom, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Helyi látnivaló az Ájosz Nikólaosz tisz Sztejesz-templom környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Teleszkópos kilátópont a Tróodosz-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Lenyűgöző öreg fa a Tróodosz Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "O rezervație naturală în Munții Troodos din Cipru.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "Un muzeu local situat lângă biserica Agios Nikolaos tis Stegis.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Cel mai înalt munte din Cipru, situat în masivul Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "O biserică bizantină din secolul al XI-lea, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "O atracție locală în zona bisericii Agios Nikolaos tis Stegis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Un punct de observare cu telescop în Munții Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "Un arbore secular impresionant în Parcul Național Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos National Forest Park",
+                  "text": "A nature reserve located in the Troodos Mountains of Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Linos",
+                  "text": "A local museum situated near the Church of Agios Nikolaos tis Stegis.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Olympus",
+                  "text": "The highest mountain in Cyprus, part of the Troodos range.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "An 11th-century Byzantine church that is part of a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "A local attraction in the vicinity of the Church of Agios Nikolaos tis Stegis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "A viewpoint equipped with a telescope in the Troodos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            },
+            {
+                  "name": "Giant Black Pine",
+                  "text": "An impressive ancient tree located within the Troodos National Forest Park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.871035,
+                        34.928807
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Nikolaos tis Stegis", hu: "Agios Nikolaos tis Stegis templom", ro: "Biserica Agios Nikolaos tis Stegis", en: "Church of Agios Nikolaos tis Stegis" },
@@ -858,7 +2262,268 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-agios-nikolaos-tis-stegis-history-v2.webp",
   },
   {
-    id: "cyprus-agios-ioannis-lampadistis-history-v2",
+    id: "cyprus-agios-ioannis-lampadistis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Dieses Museum befindet sich im Komplex des Klosters Agios Ioannis Lampadistis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Das Museum zeigt eine Sammlung byzantinischer Kunst in der Nähe des berühmten Klosters.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Ein Museum, das der Erhaltung des byzantinischen Erbes in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Das Museum präsentiert lokale Volkskunst und Traditionen in Kalopanayiotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft von Zypern.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Ein religiöser Ort der Verehrung im Bereich des Klosters Agios Ioannis Lampadistis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Ein Denkmal zu Ehren des lokalen Helden Charalambos Casparis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Ez a múzeum az Agios Ioannis Lampadistis monostor területén található.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "A múzeum bizánci művészeti gyűjteményt mutat be a híres monostor közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A régió bizánci örökségének megőrzésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A múzeum a helyi népművészetet és hagyományokat mutatja be Kalopanayiotisban.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Kilátópont, amely széles kilátást nyújt Ciprus környező tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Vallási kegyhely az Agios Ioannis Lampadistis monostor területén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Charalambos Casparis helyi hős tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Acest muzeu este situat în complexul mănăstirii Agios Ioannis Lampadistis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Muzeul expune o colecție de artă bizantină în apropierea faimoasei mănăstiri.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Un muzeu dedicat conservării moștenirii bizantine din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Muzeul prezintă arta populară și tradițiile locale din Kalopanayiotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra peisajului din Cipru.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Un loc de cult religios în zona mănăstirii Agios Ioannis Lampadistis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Un monument ridicat în onoarea eroului local Charalambos Casparis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "This museum is located within the Agios Ioannis Lampadistis monastery complex.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "The museum displays a collection of Byzantine art near the famous monastery.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum dedicated to preserving the Byzantine heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "The museum presents local folk art and traditions in Kalopanayiotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Agias Petras",
+                  "text": "A viewpoint offering wide views over the surrounding Cypriot landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "A religious site of worship within the area of the Agios Ioannis Lampadistis monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "A monument dedicated to the honor of local hero Charalambos Casparis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kloster Agios Ioannis Lampadistis", hu: "Agios Ioannis Lampadistis kolostor", ro: "Mănăstirea Agios Ioannis Lampadistis", en: "Agios Ioannis Lampadistis Monastery" },
@@ -948,7 +2613,232 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-frourio-castle-history-v2.webp",
   },
   {
-    id: "cyprus-palaipaphos-sanctuary-history-v2",
+    id: "cyprus-palaipaphos-sanctuary-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Ein bedeutender chalkolithischer Friedhof in der Nähe des Heiligtums von Palaepaphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Ruinen eines antiken Tempels, der der Göttin Aphrodite gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Kouklia Olive Press",
+                  "text": "Eine historische Olivenpresse, die Teil des archäologischen Komplexes in Kouklia ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.554171,
+                        34.700302
+                  ]
+            },
+            {
+                  "name": "Ágios Minás",
+                  "text": "Archäologische Überreste einer antiken Stätte in der Nähe von Palaepaphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.535868,
+                        34.700053
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Museum in Kouklia, das Funde aus dem Heiligtum der Aphrodite ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Angriffsrampe und Tunnel",
+                  "text": "Antike Belagerungsbauwerke und Tunnel aus der Zeit der persischen Belagerung.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Jelentős rézkori temető a palaipafoszi szentély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Egy ókori templom romjai, amelyet Aphrodité istennőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Kouklia Olive Press",
+                  "text": "Történelmi olajprés, amely a koukliai régészeti komplexum része.",
+                  "category": "historical",
+                  "coords": [
+                        32.554171,
+                        34.700302
+                  ]
+            },
+            {
+                  "name": "Ágios Minás",
+                  "text": "Egy ókori helyszín régészeti maradványai Palaipafos közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.535868,
+                        34.700053
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Koukliai múzeum, amely az Aphrodité-szentélyből származó leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Ókori ostromművek és alagutak a perzsa ostrom idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Un cimitir calcolitic important situat lângă sanctuarul din Palaipafos.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Ruinele unui templu antic dedicat zeiței Afrodita.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Kouklia Olive Press",
+                  "text": "O presă de măsline istorică, parte a complexului arheologic din Kouklia.",
+                  "category": "historical",
+                  "coords": [
+                        32.554171,
+                        34.700302
+                  ]
+            },
+            {
+                  "name": "Ágios Minás",
+                  "text": "Rămășițe arheologice ale unui sit antic situat lângă Palaipafos.",
+                  "category": "historical",
+                  "coords": [
+                        32.535868,
+                        34.700053
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Muzeu în Kouklia ce expune descoperiri de la sanctuarul Afroditei.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Structuri de asediu și tuneluri antice datând din timpul asediului persan.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "A significant Chalcolithic cemetery located near the Sanctuary of Palaepaphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Sanctuary of the paphian Aphrodite",
+                  "text": "Ruins of an ancient temple dedicated to the goddess Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Kouklia Olive Press",
+                  "text": "A historical olive press forming part of the archaeological complex in Kouklia.",
+                  "category": "historical",
+                  "coords": [
+                        32.554171,
+                        34.700302
+                  ]
+            },
+            {
+                  "name": "Ágios Minás",
+                  "text": "Archaeological remains of an ancient site located near Palaepaphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.535868,
+                        34.700053
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Palaipafos",
+                  "text": "Museum in Kouklia exhibiting finds from the Sanctuary of Aphrodite.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Ancient siege works and tunnels dating from the time of the Persian siege.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CY",
     name: { de: "Heiligtum von Palaipaphos", hu: "Palaipaphoszi szentély", ro: "Sanctuarul din Palaipaphos", en: "Sanctuary of Palaipaphos" },
@@ -1038,7 +2928,52 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-larnaca-aqueduct-history-v2.webp",
   },
   {
-    id: "cyprus-panagia-asinou-history-v2",
+    id: "cyprus-panagia-asinou-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Παναγίας της Ασίνου",
+                  "text": "Eine byzantinische UNESCO-Welterbekirche, die für ihre Wandmalereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.973458,
+                        35.046273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παναγίας της Ασίνου",
+                  "text": "UNESCO világörökségi bizánci templom, amely falfestményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        32.973458,
+                        35.046273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παναγίας της Ασίνου",
+                  "text": "O biserică bizantină inclusă în patrimoniul UNESCO, celebră pentru picturile sale murale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.973458,
+                        35.046273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panagia tis Asinou",
+                  "text": "A UNESCO World Heritage Byzantine church famous for its wall paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        32.973458,
+                        35.046273
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Asinou", hu: "Panagia Asinou templom", ro: "Biserica Panagia Asinou", en: "Church of Panagia Asinou" },
@@ -1083,7 +3018,124 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-panagia-asinou-history-v2.webp",
   },
   {
-    id: "cyprus-agios-ioannis-agros-history-v2",
+    id: "cyprus-agios-ioannis-agros-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Ein modernes astronomisches Observatorium im Troodos-Gebirge, das für Sternenbeobachtung und wissenschaftliche Bildung konzipiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Eine religiöse Stätte und ein Gotteshaus, das dem Heiligen Kreuz in der Region Agros gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Ein historisches Versteck, das von EOKA-Kämpfern während des zypriotischen Unabhängigkeitskampfes genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Modern csillagászati obszervatórium a Troodos-hegységben, amely csillagvizsgálatra és tudományos ismeretterjesztésre szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A Szent Keresztnek szentelt vallási hely és istentiszteleti hely Agros környékén.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Történelmi rejtekhely, amelyet az EOKA harcosai használtak a ciprusi függetlenségi harc idején.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator astronomic modern în Munții Troodos, conceput pentru observarea stelelor și educație științifică.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Un sit religios și lăcaș de cult dedicat Sfintei Cruci în regiunea Agros.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "O ascunzătoare istorică folosită de luptătorii EOKA în timpul luptei cipriote pentru independență.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos Observatory",
+                  "text": "A modern astronomical observatory in the Troodos Mountains designed for stargazing and scientific education.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A religious site and place of worship dedicated to the Holy Cross in the Agros region.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "A historic hideout used by EOKA fighters during the Cypriot struggle for independence.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Ioannis Agros", hu: "Agios Ioannis Agros templom", ro: "Biserica Agios Ioannis Agros", en: "Church of Agios Ioannis Agros" },
@@ -1128,7 +3180,160 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-agios-ioannis-agros-history-v2.webp",
   },
   {
-    id: "cyprus-panagia-podythou-history-v2",
+    id: "cyprus-panagia-podythou-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linos",
+                  "text": "Ein Museum nahe der Kirche Panagia Podythou, das dem traditionellen Keltern von Trauben gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "Eine zum UNESCO-Welterbe gehörende byzantinische Kirche, bekannt für ihr einzigartiges Doppeldach und mittelalterliche Fresken.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Eine legendäre Felsformation in der Region Galata, die mit der lokalen Folklore verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "Eine Klosterkirche aus dem 16. Jahrhundert in Galata, die als UNESCO-Welterbe anerkannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linos",
+                  "text": "A Panagia Podythou templom közelében található múzeum, amely a hagyományos szőlőpréselést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "UNESCO világörökségi listán szereplő bizánci templom, amely egyedi kettős tetőszerkezetéről és középkori freskóiról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "Galata régiójának egyik legendás sziklaformációja, amelyhez helyi népi legendák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "16. századi kolostortemplom Galata településen, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linos",
+                  "text": "Un muzeu lângă biserica Panagia Podythou dedicat presării tradiționale a strugurilor.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "O biserică bizantină inclusă în patrimoniul UNESCO, faimoasă pentru acoperișul său dublu unic și frescele medievale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "O formațiune stâncoasă legendară din regiunea Galata, asociată cu folclorul local.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Παναγία Ποδίθου",
+                  "text": "O biserică mănăstirească din secolul al XVI-lea în Galata, recunoscută ca sit al Patrimoniului Mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linos",
+                  "text": "A museum near the Panagia Podythou church dedicated to traditional grape pressing.",
+                  "category": "museum",
+                  "coords": [
+                        32.901913,
+                        34.988629
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos tis Stegis",
+                  "text": "A UNESCO-listed Byzantine church famous for its unique double roof and medieval frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        32.889547,
+                        34.977272
+                  ]
+            },
+            {
+                  "name": "Petra toy Antrogynou",
+                  "text": "A legendary rock formation in the Galata region associated with local folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        32.902549,
+                        34.989972
+                  ]
+            },
+            {
+                  "name": "Panagia Podithou",
+                  "text": "A 16th-century monastery church in Galata, recognized as a UNESCO World Heritage Site.",
+                  "category": "landmark",
+                  "coords": [
+                        32.896111,
+                        35.003654
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Podythou", hu: "Panagia Podythou templom", ro: "Biserica Panagia Podythou", en: "Church of Panagia Podythou" },
@@ -1173,7 +3378,232 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-panagia-podythou-history-v2.webp",
   },
   {
-    id: "cyprus-archangelos-michael-pedoulas-history-v2",
+    id: "cyprus-archangelos-michael-pedoulas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Ein historisches Haus und Museum in Pedoulas, das Einblicke in die lokale Geschichte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Dieses Museum in Pedoulas zeigt eine bedeutende Sammlung byzantinischer Kunst und Ikonen.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Ein Museum, das sich der Bewahrung des byzantinischen Erbes in der Region Pedoulas widmet.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Ein Volkskundemuseum in Pedoulas, das traditionelles Handwerk und lokales Leben präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Ein markantes Denkmal oder eine religiöse Stätte in der Nähe der Kirche von Pedoulas.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Ein Denkmal in Pedoulas, das dem lokalen Helden Charalambos Casparis gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Történelmi ház és múzeum Pedoulasban, amely betekintést nyújt a helyi múltba.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Ez a pedoulasi múzeum bizánci művészeti alkotások és ikonok jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A pedoulasi régió bizánci örökségének megőrzésével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Pedoulasi néprajzi múzeum, amely a hagyományos mesterségeket és a helyi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Jelentős emlékmű vagy vallási helyszín Pedoulas templomának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Pedoulasban található emlékmű, amelyet a helyi hősnek, Charalambos Casparisnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "O casă istorică și muzeu din Pedoulas, care oferă informații despre istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Acest muzeu din Pedoulas expune o colecție importantă de artă și icoane bizantine.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Un muzeu dedicat conservării moștenirii bizantine din regiunea Pedoulas.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Un muzeu de etnografie din Pedoulas, care prezintă meșteșugurile tradiționale și viața locală.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Un monument proeminent sau un sit religios situat lângă biserica din Pedoulas.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Un monument din Pedoulas dedicat eroului local Charalambos Casparis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "A historical house and museum in Pedoulas, offering insights into local history.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "This museum in Pedoulas displays a significant collection of Byzantine art and icons.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum dedicated to preserving the Byzantine heritage in the Pedoulas region.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A folklore museum in Pedoulas showcasing traditional crafts and local life.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "A prominent monument or religious site located near the church in Pedoulas.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "A monument in Pedoulas dedicated to the local hero Charalambos Casparis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Archangelos Michael Pedoulas", hu: "Archangelosz Michael Pedoulas templom", ro: "Biserica Archangelos Michael Pedoulas", en: "Church of Archangelos Michael Pedoulas" },

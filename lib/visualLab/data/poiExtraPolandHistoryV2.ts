@@ -48,7 +48,268 @@ export const polandHistoryV2: POI[] = [
       fr: ["Date de la bataille : 15 juillet 1410", "Parties au conflit : Union polono-lituanienne contre l'Ordre Teutonique", "Le commandant des Alliés était le roi Władysław II Jagiełło", "Le Grand Maître de l'Ordre, Ulrich von Jungingen, est tombé au combat", "Le nombre estimé de combattants dépassait les 50 000", "Un musée et un monument se trouvent aujourd'hui sur le site", "La reconstitution annuelle attire des dizaines de milliers de spectateurs", "Le champ de bataille se situe dans la voïvodie de Varmie-Mazurie", "La victoire a stoppé l'expansion de l'Ordre Teutonique vers l'est", "Considérée comme l'une des batailles les plus importantes de l'histoire de la Pologne et de la Lituanie", "Le grand-duc de Lituanie Vytautas était un commandant majeur", "La bataille a duré environ 10 heures"],
     }, image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"},
   {
-    id: "poland-biskupin-settlement-history-v2",
+    id: "poland-biskupin-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek w Wenecji",
+                  "text": "Die Ruinen einer gotischen Burg aus dem 14. Jahrhundert in Wenecja bei Biskupin.",
+                  "category": "castle",
+                  "coords": [
+                        17.749818,
+                        52.797532
+                  ]
+            },
+            {
+                  "name": "Muzeum Archeologiczne Biskupin",
+                  "text": "Eine weltberühmte archäologische Stätte mit einer rekonstruierten befestigten Siedlung aus der Eisenzeit.",
+                  "category": "museum",
+                  "coords": [
+                        17.745102,
+                        52.786387
+                  ]
+            },
+            {
+                  "name": "Muzeum Kolei Wąskotorowej",
+                  "text": "Ein Freilichtmuseum in Wenecja mit einer großen Sammlung von Schmalspur-Dampflokomotiven.",
+                  "category": "museum",
+                  "coords": [
+                        17.75175,
+                        52.798435
+                  ]
+            },
+            {
+                  "name": "Leszek Biały",
+                  "text": "Ein Denkmal in Marcinkowo Górne, das dem polnischen Fürsten Leszek dem Weißen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.73045,
+                        52.761452
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Eine historische Holzkirche in Gąsawa, die für ihre außergewöhnlichen barocken Innenmalereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.755936,
+                        52.768713
+                  ]
+            },
+            {
+                  "name": "Miejsce śmierci Leszka Białego",
+                  "text": "Eine Gedenkstätte an dem Ort, an dem der polnische Fürst Leszek der Weiße 1227 ermordet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        17.733464,
+                        52.768791
+                  ]
+            },
+            {
+                  "name": "Archeologia eksperymentalna: woły, konie",
+                  "text": "Eine Attraktion im archäologischen Park von Biskupin mit Pferde- und Ochsenrassen aus frühen historischen Epochen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.747457,
+                        52.78514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Wenecji",
+                  "text": "Egy 14. századi gótikus vár romjai a Biskupin melletti Wenecjában.",
+                  "category": "castle",
+                  "coords": [
+                        17.749818,
+                        52.797532
+                  ]
+            },
+            {
+                  "name": "Muzeum Archeologiczne Biskupin",
+                  "text": "Világhírű régészeti lelőhely, amely egy rekonstruált vaskori erődített települést mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.745102,
+                        52.786387
+                  ]
+            },
+            {
+                  "name": "Muzeum Kolei Wąskotorowej",
+                  "text": "Szabadtéri múzeum Wenecjában, amely keskeny nyomtávú gőzmozdonyok nagy gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        17.75175,
+                        52.798435
+                  ]
+            },
+            {
+                  "name": "Leszek Biały",
+                  "text": "Fehér Leszek lengyel hercegnek szentelt emlékmű Marcinkowo Górnében.",
+                  "category": "historical",
+                  "coords": [
+                        17.73045,
+                        52.761452
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Történelmi fatemplom Gąsawában, amely kivételes barokk belső festményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        17.755936,
+                        52.768713
+                  ]
+            },
+            {
+                  "name": "Miejsce śmierci Leszka Białego",
+                  "text": "Emlékhely azon a ponton, ahol 1227-ben meggyilkolták Fehér Leszek lengyel herceget.",
+                  "category": "historical",
+                  "coords": [
+                        17.733464,
+                        52.768791
+                  ]
+            },
+            {
+                  "name": "Archeologia eksperymentalna: woły, konie",
+                  "text": "A biskupini régészeti park egyik látványossága, amely korai történelmi korszakokból származó ló- és ökörfajtákat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        17.747457,
+                        52.78514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Wenecji",
+                  "text": "Ruinele unui castel gotic din secolul al XIV-lea, situat în Wenecja, lângă Biskupin.",
+                  "category": "castle",
+                  "coords": [
+                        17.749818,
+                        52.797532
+                  ]
+            },
+            {
+                  "name": "Muzeum Archeologiczne Biskupin",
+                  "text": "Un sit arheologic faimos în întreaga lume, care prezintă o așezare fortificată reconstruită din Epoca Fierului.",
+                  "category": "museum",
+                  "coords": [
+                        17.745102,
+                        52.786387
+                  ]
+            },
+            {
+                  "name": "Muzeum Kolei Wąskotorowej",
+                  "text": "Un muzeu în aer liber din Wenecja, care prezintă o colecție mare de locomotive cu abur cu ecartament îngust.",
+                  "category": "museum",
+                  "coords": [
+                        17.75175,
+                        52.798435
+                  ]
+            },
+            {
+                  "name": "Leszek Biały",
+                  "text": "Un monument în Marcinkowo Górne dedicat prințului polonez Leszek cel Alb.",
+                  "category": "historical",
+                  "coords": [
+                        17.73045,
+                        52.761452
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "O biserică istorică de lemn din Gąsawa, celebră pentru picturile sale interioare baroce excepționale.",
+                  "category": "landmark",
+                  "coords": [
+                        17.755936,
+                        52.768713
+                  ]
+            },
+            {
+                  "name": "Miejsce śmierci Leszka Białego",
+                  "text": "Un sit memorial care marchează locul unde prințul polonez Leszek cel Alb a fost asasinat în 1227.",
+                  "category": "historical",
+                  "coords": [
+                        17.733464,
+                        52.768791
+                  ]
+            },
+            {
+                  "name": "Archeologia eksperymentalna: woły, konie",
+                  "text": "O atracție în parcul arheologic Biskupin, care prezintă rase de cai și boi din perioadele istorice timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        17.747457,
+                        52.78514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek w Wenecji",
+                  "text": "The ruins of a 14th-century Gothic castle located in Wenecja near Biskupin.",
+                  "category": "castle",
+                  "coords": [
+                        17.749818,
+                        52.797532
+                  ]
+            },
+            {
+                  "name": "Muzeum Archeologiczne Biskupin",
+                  "text": "A world-famous archaeological site featuring a reconstructed Iron Age fortified settlement.",
+                  "category": "museum",
+                  "coords": [
+                        17.745102,
+                        52.786387
+                  ]
+            },
+            {
+                  "name": "Narrow Gauge Railway Museum",
+                  "text": "An outdoor museum in Wenecja featuring a large collection of narrow-gauge steam locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        17.75175,
+                        52.798435
+                  ]
+            },
+            {
+                  "name": "Leszek Biały",
+                  "text": "A monument in Marcinkowo Górne dedicated to the Polish Prince Leszek the White.",
+                  "category": "historical",
+                  "coords": [
+                        17.73045,
+                        52.761452
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "A historical wooden church in Gąsawa famous for its exceptional Baroque interior paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        17.755936,
+                        52.768713
+                  ]
+            },
+            {
+                  "name": "Miejsce śmierci Leszka Białego",
+                  "text": "A memorial site marking the location where the Polish Prince Leszek the White was assassinated in 1227.",
+                  "category": "historical",
+                  "coords": [
+                        17.733464,
+                        52.768791
+                  ]
+            },
+            {
+                  "name": "Oxen and horses",
+                  "text": "An attraction in the Biskupin archaeological park featuring breeds of horses and oxen from early historical periods.",
+                  "category": "landmark",
+                  "coords": [
+                        17.747457,
+                        52.78514
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "museum",
     name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum"},
@@ -300,7 +561,196 @@ export const polandHistoryV2: POI[] = [
       fr: ["Résidence des rois de Pologne jusqu'en 1795.", "Situé sur la colline du Wawel à Cracovie.", "Le complexe comprend le château, la cathédrale du Wawel et d'autres bâtiments.", "Représente un mélange d'architecture romane, gothique, Renaissance et baroque.", "La cathédrale du Wawel était le lieu de couronnement des monarques polonais.", "Abrite la célèbre collection de tapisseries flamandes du roi Sigismond II Auguste.", "La légende du Dragon du Wawel est associée à la colline.", "Classé au patrimoine mondial de l'UNESCO en 1978.", "Le château a été gravement endommagé lors des partages de la Pologne.", "Sert aujourd'hui de l'un des principaux musées d'art du pays.", "Conserve l'épée de couronnement des monarques polonais, Szczerbiec.", "Les appartements royaux sont ouverts au public."],
     }, image: "/poi-images/poland-wawel-castle-history-v2.webp"},
   {
-    id: "poland-malbork-castle-history-v2",
+    id: "poland-malbork-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marienburg",
+                  "text": "Eine gewaltige mittelalterliche Festung und eine der größten Backsteinburgen der Welt.",
+                  "category": "castle",
+                  "coords": [
+                        19.027764,
+                        54.040002
+                  ]
+            },
+            {
+                  "name": "Schloßmuseum",
+                  "text": "Ein Museum im Schloss Marienburg, das seiner Geschichte und Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.028774,
+                        54.040255
+                  ]
+            },
+            {
+                  "name": "Muzeum Miasta Malborka",
+                  "text": "Ein Museum, das die Geschichte und Entwicklung der Stadt Malbork dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.033906,
+                        54.037006
+                  ]
+            },
+            {
+                  "name": "Dino Park Malbork",
+                  "text": "Ein familienfreundlicher Themenpark mit Dinosaurier-Modellen in Malbork.",
+                  "category": "recreational",
+                  "coords": [
+                        19.041728,
+                        54.041824
+                  ]
+            },
+            {
+                  "name": "Znak wielkiej wody 1888",
+                  "text": "Eine historische Markierung, die den Wasserstand während des Hochwassers von 1888 anzeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.029364,
+                        54.041164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malborki vár",
+                  "text": "Hatalmas középkori erődítmény, a világ egyik legnagyobb téglaépítésű vára.",
+                  "category": "castle",
+                  "coords": [
+                        19.027764,
+                        54.040002
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Malborku",
+                  "text": "A marienburgi várban található múzeum, amely a vár történetét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.028774,
+                        54.040255
+                  ]
+            },
+            {
+                  "name": "Muzeum Miasta Malborka",
+                  "text": "Malbork városának történelmét és fejlődését dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.033906,
+                        54.037006
+                  ]
+            },
+            {
+                  "name": "Dino Park Malbork",
+                  "text": "Családbarát élménypark dinoszaurusz-modellekkel Malborkban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.041728,
+                        54.041824
+                  ]
+            },
+            {
+                  "name": "Znak wielkiej wody 1888",
+                  "text": "Történelmi emlékhely, amely az 1888-as árvíz vízszintjét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.029364,
+                        54.041164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Malbork",
+                  "text": "O fortăreață medievală masivă, fiind unul dintre cele mai mari castele de cărămidă din lume.",
+                  "category": "castle",
+                  "coords": [
+                        19.027764,
+                        54.040002
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Malborku",
+                  "text": "Un muzeu situat în Castelul Malbork, dedicat istoriei și artei acestuia.",
+                  "category": "museum",
+                  "coords": [
+                        19.028774,
+                        54.040255
+                  ]
+            },
+            {
+                  "name": "Muzeum Miasta Malborka",
+                  "text": "Un muzeu care documentează istoria și dezvoltarea orașului Malbork.",
+                  "category": "museum",
+                  "coords": [
+                        19.033906,
+                        54.037006
+                  ]
+            },
+            {
+                  "name": "Dino Park Malbork",
+                  "text": "Un parc tematic pentru familii, cu modele de dinozauri, situat în Malbork.",
+                  "category": "recreational",
+                  "coords": [
+                        19.041728,
+                        54.041824
+                  ]
+            },
+            {
+                  "name": "Znak wielkiej wody 1888",
+                  "text": "Un marker istoric care indică nivelul apei în timpul inundației din 1888.",
+                  "category": "landmark",
+                  "coords": [
+                        19.029364,
+                        54.041164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malbork Castle",
+                  "text": "A massive medieval fortress and one of the largest brick castles in the world.",
+                  "category": "castle",
+                  "coords": [
+                        19.027764,
+                        54.040002
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Malborku",
+                  "text": "A museum located within Malbork Castle dedicated to its history and art.",
+                  "category": "museum",
+                  "coords": [
+                        19.028774,
+                        54.040255
+                  ]
+            },
+            {
+                  "name": "Muzeum Miasta Malborka",
+                  "text": "A museum documenting the history and development of the city of Malbork.",
+                  "category": "museum",
+                  "coords": [
+                        19.033906,
+                        54.037006
+                  ]
+            },
+            {
+                  "name": "Dino Park Malbork",
+                  "text": "A family-friendly theme park featuring dinosaur models in Malbork.",
+                  "category": "recreational",
+                  "coords": [
+                        19.041728,
+                        54.041824
+                  ]
+            },
+            {
+                  "name": "Znak wielkiej wody 1888",
+                  "text": "A historical marker indicating the high water level during the 1888 flood.",
+                  "category": "landmark",
+                  "coords": [
+                        19.029364,
+                        54.041164
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle"},
@@ -2109,7 +2559,268 @@ export const polandHistoryV2: POI[] = [
       fr: ["En exploitation du néolithique au début de l'âge du bronze (env. 3900–1600 av. J.-C.).", "L'une des plus grandes zones industrielles préhistoriques d'Europe.", "Inscrit sur la liste du patrimoine mondial de l'UNESCO en 2019.", "Les mines étaient utilisées pour l'extraction du silex rubané.", "Le silex rubané était principalement utilisé pour la fabrication de haches.", "Le complexe comprend quatre champs miniers.", "Plus de 4000 puits d'une profondeur allant jusqu'à 9 mètres ont été découverts.", "L'itinéraire touristique souterrain est long de près de 500 mètres.", "Les mines ont été redécouvertes en 1922.", "Des dessins rupestres préhistoriques ont été trouvés sur les parois.", "Les haches en silex de Krzemionki étaient échangées jusqu'à 660 km de distance.", "Un musée archéologique et un village de plein air se trouvent sur place."],
     }, image: "/poi-images/poland-krzemionki-mines-history-v2.webp"},
   {
-    id: "poland-lancut-castle-history-v2",
+    id: "poland-lancut-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Gorzelnictwa",
+                  "text": "Ein Museum in Łańcut, das der Geschichte der örtlichen Brennereiindustrie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.230927,
+                        50.078427
+                  ]
+            },
+            {
+                  "name": "Schloss Łańcut",
+                  "text": "Eine prächtige Adelsresidenz aus dem 17. Jahrhundert, bekannt für ihre Innenräume und Kutschenkollektion.",
+                  "category": "castle",
+                  "coords": [
+                        22.23457,
+                        50.068462
+                  ]
+            },
+            {
+                  "name": "Muzeum Judaistyczne",
+                  "text": "Eine gut erhaltene Barocksynagoge aus dem 18. Jahrhundert, in der sich ein jüdisches Museum befindet.",
+                  "category": "museum",
+                  "coords": [
+                        22.231796,
+                        50.067546
+                  ]
+            },
+            {
+                  "name": "Zameczek Romantyczny",
+                  "text": "Ein kleines Schloss im romantischen Stil innerhalb des Schlossparks von Łańcut.",
+                  "category": "castle",
+                  "coords": [
+                        22.237301,
+                        50.070286
+                  ]
+            },
+            {
+                  "name": "Osada z epoki kamienia",
+                  "text": "Eine archäologische Stätte mit Überresten einer Siedlung aus der Steinzeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.231582,
+                        50.068777
+                  ]
+            },
+            {
+                  "name": "Pradziejowe stanowisko archeologiczne",
+                  "text": "Eine Stätte, die für die Erforschung prähistorischer archäologischer Funde erhalten wurde.",
+                  "category": "historical",
+                  "coords": [
+                        22.205794,
+                        50.088011
+                  ]
+            },
+            {
+                  "name": "Grodzisko średniowieczne",
+                  "text": "Eine archäologische Stätte, die die Überreste einer mittelalterlichen befestigten Siedlung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        22.229518,
+                        50.072651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Gorzelnictwa",
+                  "text": "A helyi szeszfőzés történetét bemutató múzeum Łańcutban.",
+                  "category": "museum",
+                  "coords": [
+                        22.230927,
+                        50.078427
+                  ]
+            },
+            {
+                  "name": "Muzeum - Zamek w Łańcucie",
+                  "text": "Nagyszabású 17. századi főúri rezidencia, amely belső tereiről és kocsigyűjteményéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        22.23457,
+                        50.068462
+                  ]
+            },
+            {
+                  "name": "Muzeum Judaistyczne",
+                  "text": "Jó állapotban fennmaradt 18. századi barokk zsinagóga, amely zsidó múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.231796,
+                        50.067546
+                  ]
+            },
+            {
+                  "name": "Zameczek Romantyczny",
+                  "text": "Kis romantikus stílusú kastély a łańcuti palotapark területén.",
+                  "category": "castle",
+                  "coords": [
+                        22.237301,
+                        50.070286
+                  ]
+            },
+            {
+                  "name": "Osada z epoki kamienia",
+                  "text": "Kőkorszaki település maradványait bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        22.231582,
+                        50.068777
+                  ]
+            },
+            {
+                  "name": "Pradziejowe stanowisko archeologiczne",
+                  "text": "Őskori régészeti leletek tanulmányozására fenntartott helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        22.205794,
+                        50.088011
+                  ]
+            },
+            {
+                  "name": "Grodzisko średniowieczne",
+                  "text": "Középkori erődített település maradványait bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        22.229518,
+                        50.072651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Gorzelnictwa",
+                  "text": "Un muzeu din Łańcut dedicat istoriei industriei locale de distilare.",
+                  "category": "museum",
+                  "coords": [
+                        22.230927,
+                        50.078427
+                  ]
+            },
+            {
+                  "name": "Muzeum - Zamek w Łańcucie",
+                  "text": "O reședință aristocratică grandioasă din secolul al XVII-lea, cunoscută pentru interioarele sale și colecția de trăsuri.",
+                  "category": "castle",
+                  "coords": [
+                        22.23457,
+                        50.068462
+                  ]
+            },
+            {
+                  "name": "Muzeum Judaistyczne",
+                  "text": "O sinagogă barocă bine conservată din secolul al XVIII-lea, care găzduiește un muzeu evreiesc.",
+                  "category": "museum",
+                  "coords": [
+                        22.231796,
+                        50.067546
+                  ]
+            },
+            {
+                  "name": "Zameczek Romantyczny",
+                  "text": "Un mic castel în stil romantic situat în incinta parcului palatului din Łańcut.",
+                  "category": "castle",
+                  "coords": [
+                        22.237301,
+                        50.070286
+                  ]
+            },
+            {
+                  "name": "Osada z epoki kamienia",
+                  "text": "Un sit arheologic care prezintă rămășițele unei așezări din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        22.231582,
+                        50.068777
+                  ]
+            },
+            {
+                  "name": "Pradziejowe stanowisko archeologiczne",
+                  "text": "Un sit conservat pentru studiul descoperirilor arheologice preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        22.205794,
+                        50.088011
+                  ]
+            },
+            {
+                  "name": "Grodzisko średniowieczne",
+                  "text": "Un sit arheologic care prezintă rămășițele unei așezări fortificate medievale.",
+                  "category": "historical",
+                  "coords": [
+                        22.229518,
+                        50.072651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Gorzelnictwa",
+                  "text": "A museum in Łańcut dedicated to the history of the local distilling industry.",
+                  "category": "museum",
+                  "coords": [
+                        22.230927,
+                        50.078427
+                  ]
+            },
+            {
+                  "name": "Łańcut Castle",
+                  "text": "A grand 17th-century aristocratic residence known for its interiors and carriage collection.",
+                  "category": "castle",
+                  "coords": [
+                        22.23457,
+                        50.068462
+                  ]
+            },
+            {
+                  "name": "Łańcut Synagogue",
+                  "text": "A well-preserved 18th-century Baroque synagogue housing a Jewish museum.",
+                  "category": "museum",
+                  "coords": [
+                        22.231796,
+                        50.067546
+                  ]
+            },
+            {
+                  "name": "Zameczek Romantyczny",
+                  "text": "A small romantic-style castle located within the grounds of the Łańcut palace park.",
+                  "category": "castle",
+                  "coords": [
+                        22.237301,
+                        50.070286
+                  ]
+            },
+            {
+                  "name": "Osada z epoki kamienia",
+                  "text": "An archaeological site featuring remains of a settlement from the Stone Age.",
+                  "category": "historical",
+                  "coords": [
+                        22.231582,
+                        50.068777
+                  ]
+            },
+            {
+                  "name": "Pradziejowe stanowisko archeologiczne",
+                  "text": "A site preserved for the study of prehistoric archaeological findings.",
+                  "category": "historical",
+                  "coords": [
+                        22.205794,
+                        50.088011
+                  ]
+            },
+            {
+                  "name": "Grodzisko średniowieczne",
+                  "text": "An archaeological site showcasing the remains of a medieval fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        22.229518,
+                        50.072651
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle"},
@@ -2209,6 +2920,78 @@ export const polandHistoryV2: POI[] = [
                         17.384809,
                         52.5244
                   ]
+            },
+            {
+                  "name": "Muzeum Pierwszych Piastów na Lednicy",
+                  "text": "Dieses Museum am Lednica-See dokumentiert die Geschichte der ersten Herrscher der Piasten-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        17.377626,
+                        52.52701
+                  ]
+            },
+            {
+                  "name": "Wielkopolski Park Etnograficzny w Dziekanowicach",
+                  "text": "Das Großpolnische Ethnographische Freilichtmuseum zeigt traditionelle polnische Dorfarchitektur und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        17.381074,
+                        52.513981
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzpark Lendnitza",
+                  "text": "Dieser Landschaftspark schützt die Natur und das historische Erbe rund um den Lednica-See.",
+                  "category": "natural",
+                  "coords": [
+                        17.379701,
+                        52.550624
+                  ]
+            },
+            {
+                  "name": "Grodzisko Moraczewo",
+                  "text": "Die Ausgrabungsstätte in Moraczewo bewahrt die Überreste einer frühmittelalterlichen slawischen Burgwallanlage.",
+                  "category": "historical",
+                  "coords": [
+                        17.343109,
+                        52.507858
+                  ]
+            },
+            {
+                  "name": "Mały Skansen",
+                  "text": "Das Kleine Freilichtmuseum in Ostrów Lednicki zeigt ländliche Gebäude aus der Region Großpolen.",
+                  "category": "museum",
+                  "coords": [
+                        17.382448,
+                        52.527764
+                  ]
+            },
+            {
+                  "name": "Ekspedycja Archeologiczna UMK Toruń",
+                  "text": "Diese archäologische Forschungsstätte wird von der Nikolaus-Kopernikus-Universität Toruń betrieben.",
+                  "category": "historical",
+                  "coords": [
+                        17.379536,
+                        52.52614
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Das Amfiteatr in Ostrów Lednicki ist ein Veranstaltungsort für kulturelle Aufführungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        17.380817,
+                        52.556608
+                  ]
+            },
+            {
+                  "name": "Muzeum pierwszych Piastów",
+                  "text": "Das Museum der ersten Piasten widmet sich der Erforschung und Ausstellung der frühmittelalterlichen polnischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        17.382942,
+                        52.520915
+                  ]
             }
       ],
       "hu": [
@@ -2219,6 +3002,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.384809,
                         52.5244
+                  ]
+            },
+            {
+                  "name": "Muzeum Pierwszych Piastów na Lednicy",
+                  "text": "A Lednica-tónál található múzeum a Piast-dinasztia első uralkodóinak történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.377626,
+                        52.52701
+                  ]
+            },
+            {
+                  "name": "Wielkopolski Park Etnograficzny w Dziekanowicach",
+                  "text": "A dziekanowicei néprajzi park a hagyományos lengyel falusi építészetet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.381074,
+                        52.513981
+                  ]
+            },
+            {
+                  "name": "Lednicki Park Krajobrazowy",
+                  "text": "Ez a tájvédelmi körzet a Lednica-tó környékének természetét és történelmi örökségét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        17.379701,
+                        52.550624
+                  ]
+            },
+            {
+                  "name": "Grodzisko Moraczewo",
+                  "text": "A moraczewói régészeti lelőhely egy kora középkori szláv erődítmény maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        17.343109,
+                        52.507858
+                  ]
+            },
+            {
+                  "name": "Mały Skansen",
+                  "text": "Az Ostrów Lednicki-i kis skanzen a nagy-lengyelországi régió vidéki épületeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.382448,
+                        52.527764
+                  ]
+            },
+            {
+                  "name": "Ekspedycja Archeologiczna UMK Toruń",
+                  "text": "Ezt a régészeti kutatóhelyet a toruńi Nicolaus Copernicus Egyetem működteti.",
+                  "category": "historical",
+                  "coords": [
+                        17.379536,
+                        52.52614
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Az Ostrów Lednicki-i amfiteátrum szabadtéri kulturális előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        17.380817,
+                        52.556608
+                  ]
+            },
+            {
+                  "name": "Muzeum pierwszych Piastów",
+                  "text": "Az első Piastok múzeuma a kora középkori lengyel történelem kutatásával és bemutatásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        17.382942,
+                        52.520915
                   ]
             }
       ],
@@ -2231,6 +3086,78 @@ export const polandHistoryV2: POI[] = [
                         17.384809,
                         52.5244
                   ]
+            },
+            {
+                  "name": "Muzeum Pierwszych Piastów na Lednicy",
+                  "text": "Acest muzeu de pe insula Ostrów Lednicki documentează istoria primilor conducători ai dinastiei Piast.",
+                  "category": "museum",
+                  "coords": [
+                        17.377626,
+                        52.52701
+                  ]
+            },
+            {
+                  "name": "Wielkopolski Park Etnograficzny w Dziekanowicach",
+                  "text": "Parcul Etnografic din Dziekanowice prezintă arhitectura și cultura tradițională a satului polonez.",
+                  "category": "museum",
+                  "coords": [
+                        17.381074,
+                        52.513981
+                  ]
+            },
+            {
+                  "name": "Lednicki Park Krajobrazowy",
+                  "text": "Acest parc natural protejează natura și moștenirea istorică din jurul lacului Lednica.",
+                  "category": "natural",
+                  "coords": [
+                        17.379701,
+                        52.550624
+                  ]
+            },
+            {
+                  "name": "Grodzisko Moraczewo",
+                  "text": "Situl arheologic din Moraczewo păstrează resturile unei fortificații slave timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        17.343109,
+                        52.507858
+                  ]
+            },
+            {
+                  "name": "Mały Skansen",
+                  "text": "Micul muzeu în aer liber din Ostrów Lednicki prezintă clădiri rurale din regiunea Polonia Mare.",
+                  "category": "museum",
+                  "coords": [
+                        17.382448,
+                        52.527764
+                  ]
+            },
+            {
+                  "name": "Ekspedycja Archeologiczna UMK Toruń",
+                  "text": "Acest sit de cercetare arheologică este operat de Universitatea Nicolaus Copernicus din Toruń.",
+                  "category": "historical",
+                  "coords": [
+                        17.379536,
+                        52.52614
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatrul din Ostrów Lednicki este un loc de desfășurare pentru spectacole culturale în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        17.380817,
+                        52.556608
+                  ]
+            },
+            {
+                  "name": "Muzeum pierwszych Piastów",
+                  "text": "Muzeul primilor Piasti este dedicat cercetării și expunerii istoriei poloneze timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        17.382942,
+                        52.520915
+                  ]
             }
       ],
       "en": [
@@ -2241,6 +3168,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.384809,
                         52.5244
+                  ]
+            },
+            {
+                  "name": "Muzeum Pierwszych Piastów na Lednicy",
+                  "text": "This museum on Ostrów Lednicki documents the history of the first rulers of the Piast dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        17.377626,
+                        52.52701
+                  ]
+            },
+            {
+                  "name": "Wielkopolski Park Etnograficzny w Dziekanowicach",
+                  "text": "The Wielkopolska Ethnographic Park showcases traditional Polish village architecture and culture.",
+                  "category": "museum",
+                  "coords": [
+                        17.381074,
+                        52.513981
+                  ]
+            },
+            {
+                  "name": "Lednicki Park Krajobrazowy",
+                  "text": "This landscape park protects the nature and historical heritage around Lake Lednica.",
+                  "category": "natural",
+                  "coords": [
+                        17.379701,
+                        52.550624
+                  ]
+            },
+            {
+                  "name": "Grodzisko Moraczewo",
+                  "text": "The archaeological site in Moraczewo preserves the remains of an early medieval Slavic stronghold.",
+                  "category": "historical",
+                  "coords": [
+                        17.343109,
+                        52.507858
+                  ]
+            },
+            {
+                  "name": "Mały Skansen",
+                  "text": "The Small Open-air Museum in Ostrów Lednicki features rural buildings from the Greater Poland region.",
+                  "category": "museum",
+                  "coords": [
+                        17.382448,
+                        52.527764
+                  ]
+            },
+            {
+                  "name": "Ekspedycja Archeologiczna UMK Toruń",
+                  "text": "This archaeological research site is operated by the Nicolaus Copernicus University in Toruń.",
+                  "category": "historical",
+                  "coords": [
+                        17.379536,
+                        52.52614
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "The amphitheatre in Ostrów Lednicki is a venue for outdoor cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.380817,
+                        52.556608
+                  ]
+            },
+            {
+                  "name": "Muzeum pierwszych Piastów",
+                  "text": "The Museum of the First Piasts is dedicated to the research and exhibition of early Polish history.",
+                  "category": "museum",
+                  "coords": [
+                        17.382942,
+                        52.520915
                   ]
             }
       ]
@@ -3117,7 +4116,232 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"},
   {
-    id: "poland-frombork-cathedral-history-v2",
+    id: "poland-frombork-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Ein Museum, das dem Leben und Werk von Nikolaus Kopernikus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.683248,
+                        54.356864
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Medycyny",
+                  "text": "Ein Museum, das die Entwicklung der medizinischen Wissenschaft zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.687638,
+                        54.357969
+                  ]
+            },
+            {
+                  "name": "Muzeum Pomnika Historii Frombork Zespół Katedralny",
+                  "text": "Ein Museum innerhalb des historischen Domkomplexes von Frombork.",
+                  "category": "museum",
+                  "coords": [
+                        19.682077,
+                        54.356992
+                  ]
+            },
+            {
+                  "name": "Skarpy",
+                  "text": "Ein Naturschutzgebiet mit geschützter Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        19.705833,
+                        54.331472
+                  ]
+            },
+            {
+                  "name": "Park Astronomiczny Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Ein Astronomiepark mit Observatorium und Teleskopen.",
+                  "category": "museum",
+                  "coords": [
+                        19.681093,
+                        54.342504
+                  ]
+            },
+            {
+                  "name": "Planetarium Muzeum Mikołaja Kopernika",
+                  "text": "Ein Planetarium, das Einblicke in den Sternenhimmel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.681023,
+                        54.356339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Nikolausz Kopernikusz életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.683248,
+                        54.356864
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Medycyny",
+                  "text": "Az orvostudomány fejlődését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.687638,
+                        54.357969
+                  ]
+            },
+            {
+                  "name": "Muzeum Pomnika Historii Frombork Zespół Katedralny",
+                  "text": "Múzeum a frauenburgi székesegyház történelmi épületegyüttesében.",
+                  "category": "museum",
+                  "coords": [
+                        19.682077,
+                        54.356992
+                  ]
+            },
+            {
+                  "name": "Skarpy",
+                  "text": "Természetvédelmi terület védett növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        19.705833,
+                        54.331472
+                  ]
+            },
+            {
+                  "name": "Park Astronomiczny Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Csillagászati park obszervatóriummal és távcsövekkel.",
+                  "category": "museum",
+                  "coords": [
+                        19.681093,
+                        54.342504
+                  ]
+            },
+            {
+                  "name": "Planetarium Muzeum Mikołaja Kopernika",
+                  "text": "Planetárium, amely betekintést nyújt a csillagos égboltba.",
+                  "category": "landmark",
+                  "coords": [
+                        19.681023,
+                        54.356339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Un muzeu dedicat vieții și operei lui Nicolaus Copernic.",
+                  "category": "museum",
+                  "coords": [
+                        19.683248,
+                        54.356864
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Medycyny",
+                  "text": "Un muzeu care prezintă evoluția științei medicale.",
+                  "category": "museum",
+                  "coords": [
+                        19.687638,
+                        54.357969
+                  ]
+            },
+            {
+                  "name": "Muzeum Pomnika Historii Frombork Zespół Katedralny",
+                  "text": "Un muzeu în cadrul complexului istoric al catedralei din Frombork.",
+                  "category": "museum",
+                  "coords": [
+                        19.682077,
+                        54.356992
+                  ]
+            },
+            {
+                  "name": "Skarpy",
+                  "text": "O rezervație naturală cu floră și faună protejată.",
+                  "category": "natural",
+                  "coords": [
+                        19.705833,
+                        54.331472
+                  ]
+            },
+            {
+                  "name": "Park Astronomiczny Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "Un parc astronomic cu observator și telescoape.",
+                  "category": "museum",
+                  "coords": [
+                        19.681093,
+                        54.342504
+                  ]
+            },
+            {
+                  "name": "Planetarium Muzeum Mikołaja Kopernika",
+                  "text": "Un planetariu care oferă perspective asupra cerului înstelat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.681023,
+                        54.356339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "A museum dedicated to the life and work of Nicolaus Copernicus.",
+                  "category": "museum",
+                  "coords": [
+                        19.683248,
+                        54.356864
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Medycyny",
+                  "text": "A museum showcasing the development of medical science.",
+                  "category": "museum",
+                  "coords": [
+                        19.687638,
+                        54.357969
+                  ]
+            },
+            {
+                  "name": "Muzeum Pomnika Historii Frombork Zespół Katedralny",
+                  "text": "A museum within the historical cathedral complex of Frombork.",
+                  "category": "museum",
+                  "coords": [
+                        19.682077,
+                        54.356992
+                  ]
+            },
+            {
+                  "name": "Skarpy",
+                  "text": "A nature reserve featuring protected flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        19.705833,
+                        54.331472
+                  ]
+            },
+            {
+                  "name": "Park Astronomiczny Muzeum Mikołaja Kopernika we Fromborku",
+                  "text": "An astronomical park with an observatory and telescopes.",
+                  "category": "museum",
+                  "coords": [
+                        19.681093,
+                        54.342504
+                  ]
+            },
+            {
+                  "name": "Planetarium Muzeum Mikołaja Kopernika",
+                  "text": "A planetarium providing insights into the starry sky.",
+                  "category": "landmark",
+                  "coords": [
+                        19.681023,
+                        54.356339
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "cathedral",
     name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral"},
@@ -3207,7 +4431,268 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"},
   {
-    id: "poland-pszczyna-castle-history-v2",
+    id: "poland-pszczyna-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Pleß",
+                  "text": "Das Schloss Pszczyna ist eine ehemalige Residenz der Fürsten von Pleß in Oberschlesien.",
+                  "category": "castle",
+                  "coords": [
+                        18.940446,
+                        49.978167
+                  ]
+            },
+            {
+                  "name": "Skansen \"Zagroda Wsi Pszczyńskiej\"",
+                  "text": "Dieses Freilichtmuseum zeigt historische Holzarchitektur aus der Region Pszczyna.",
+                  "category": "museum",
+                  "coords": [
+                        18.950437,
+                        49.978824
+                  ]
+            },
+            {
+                  "name": "Muzeum Prasy Śląskiej",
+                  "text": "Das Museum der schlesischen Presse in Pszczyna befasst sich mit der Geschichte des Druckwesens.",
+                  "category": "museum",
+                  "coords": [
+                        18.945727,
+                        49.978383
+                  ]
+            },
+            {
+                  "name": "Muzeum Militarnych Dziejów Śląska",
+                  "text": "Dieses Museum dokumentiert die militärische Geschichte der Region Schlesien.",
+                  "category": "museum",
+                  "coords": [
+                        18.945417,
+                        49.980413
+                  ]
+            },
+            {
+                  "name": "Zagroda Żubrów",
+                  "text": "Das Wisentgehege in Pszczyna bietet Besuchern die Möglichkeit, diese Tiere aus der Nähe zu sehen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.930731,
+                        49.97786
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Die St.-Nikolaus-Kirche ist eine bedeutende religiöse Sehenswürdigkeit in der Nähe des Schlosses.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903854,
+                        49.959278
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Der Schlosspark ist eine weitläufige Parkanlage, die das Schloss Pszczyna umgibt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.940345,
+                        49.980964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Pszczynie",
+                  "text": "A pszczynai kastély a pleßi hercegek egykori rezidenciája Felső-Sziléziában.",
+                  "category": "castle",
+                  "coords": [
+                        18.940446,
+                        49.978167
+                  ]
+            },
+            {
+                  "name": "Skansen \"Zagroda Wsi Pszczyńskiej\"",
+                  "text": "Ez a skanzen a pszczynai régió történelmi faépítészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.950437,
+                        49.978824
+                  ]
+            },
+            {
+                  "name": "Muzeum Prasy Śląskiej",
+                  "text": "A pszczynai Sziléziai Sajtómúzeum a nyomdászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.945727,
+                        49.978383
+                  ]
+            },
+            {
+                  "name": "Muzeum Militarnych Dziejów Śląska",
+                  "text": "Ez a múzeum Szilézia katonai történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.945417,
+                        49.980413
+                  ]
+            },
+            {
+                  "name": "Zagroda Żubrów",
+                  "text": "A pszczynai bölényrezervátum lehetőséget nyújt a látogatóknak, hogy közelről láthassák ezeket az állatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.930731,
+                        49.97786
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "A Szent Miklós-templom egy jelentős vallási látnivaló a kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903854,
+                        49.959278
+                  ]
+            },
+            {
+                  "name": "Park Zamkowy",
+                  "text": "A Kastélypark egy kiterjedt parkrendszer, amely a pszczynai kastélyt övezi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.940345,
+                        49.980964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Pszczynie",
+                  "text": "Castelul Pszczyna este o fostă reședință nobiliară situată în Silezia Superioară.",
+                  "category": "castle",
+                  "coords": [
+                        18.940446,
+                        49.978167
+                  ]
+            },
+            {
+                  "name": "Skansen \"Zagroda Wsi Pszczyńskiej\"",
+                  "text": "Acest muzeu în aer liber prezintă arhitectura tradițională din lemn din regiunea Pszczyna.",
+                  "category": "museum",
+                  "coords": [
+                        18.950437,
+                        49.978824
+                  ]
+            },
+            {
+                  "name": "Muzeum Prasy Śląskiej",
+                  "text": "Muzeul Presei Sileziene din Pszczyna este dedicat istoriei tiparului.",
+                  "category": "museum",
+                  "coords": [
+                        18.945727,
+                        49.978383
+                  ]
+            },
+            {
+                  "name": "Muzeum Militarnych Dziejów Śląska",
+                  "text": "Acest muzeu documentează istoria militară a regiunii Silezia.",
+                  "category": "museum",
+                  "coords": [
+                        18.945417,
+                        49.980413
+                  ]
+            },
+            {
+                  "name": "Zagroda Żubrów",
+                  "text": "Rezervația de zimbri din Pszczyna oferă vizitatorilor ocazia de a vedea aceste animale de aproape.",
+                  "category": "landmark",
+                  "coords": [
+                        18.930731,
+                        49.97786
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Biserica Sfântul Nicolae este un obiectiv religios important situat în apropierea castelului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903854,
+                        49.959278
+                  ]
+            },
+            {
+                  "name": "Park Zamkowy",
+                  "text": "Parcul Castelului este o zonă verde vastă care înconjoară Castelul Pszczyna.",
+                  "category": "landmark",
+                  "coords": [
+                        18.940345,
+                        49.980964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek w Pszczynie",
+                  "text": "Pszczyna Castle is a former residence of the Princes of Pless in Upper Silesia.",
+                  "category": "castle",
+                  "coords": [
+                        18.940446,
+                        49.978167
+                  ]
+            },
+            {
+                  "name": "Skansen \"Zagroda Wsi Pszczyńskiej\"",
+                  "text": "This open-air museum showcases historic wooden architecture from the Pszczyna region.",
+                  "category": "museum",
+                  "coords": [
+                        18.950437,
+                        49.978824
+                  ]
+            },
+            {
+                  "name": "Muzeum Prasy Śląskiej",
+                  "text": "The Museum of the Silesian Press in Pszczyna documents the history of printing and journalism.",
+                  "category": "museum",
+                  "coords": [
+                        18.945727,
+                        49.978383
+                  ]
+            },
+            {
+                  "name": "Muzeum Militarnych Dziejów Śląska",
+                  "text": "This museum documents the military history of the Silesian region.",
+                  "category": "museum",
+                  "coords": [
+                        18.945417,
+                        49.980413
+                  ]
+            },
+            {
+                  "name": "Zagroda Żubrów",
+                  "text": "The Bison Paddock in Pszczyna allows visitors to observe these majestic animals in a natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        18.930731,
+                        49.97786
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Saint Nicholas Church is a significant religious attraction located near the castle.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903854,
+                        49.959278
+                  ]
+            },
+            {
+                  "name": "Park Zamkowy",
+                  "text": "Castle Park is a large parkland area surrounding Pszczyna Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        18.940345,
+                        49.980964
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle"},
@@ -3252,7 +4737,160 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-pszczyna-castle-history-v2.webp"},
   {
-    id: "poland-kozlowka-palace-history-v2",
+    id: "poland-kozlowka-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Zamoyskich",
+                  "text": "Dieses Museum im Schloss Kozłówka präsentiert die originalen Innenräume und Kunstsammlungen der Familie Zamoyski.",
+                  "category": "museum",
+                  "coords": [
+                        22.489498,
+                        51.459593
+                  ]
+            },
+            {
+                  "name": "Muzeum Socrealizmu",
+                  "text": "Ein einzigartiges Museum, das sich der Kunst und Propaganda des sozialistischen Realismus widmet.",
+                  "category": "museum",
+                  "coords": [
+                        22.487585,
+                        51.460397
+                  ]
+            },
+            {
+                  "name": "Gminny Ośrodek Kultury",
+                  "text": "Ein lokales Kulturzentrum, das verschiedene künstlerische Aktivitäten und Veranstaltungen für die Gemeinde anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.46005,
+                        51.467751
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła w Kamionce",
+                  "text": "Eine historische Kirche in Kamionka, die als lokaler Ort der Anbetung und architektonisches Denkmal dient.",
+                  "category": "religious",
+                  "coords": [
+                        22.459581,
+                        51.470017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Zamoyskich",
+                  "text": "A kozłówkai kastélyban található múzeum a Zamoyski család eredeti enteriőrjeit és művészeti gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.489498,
+                        51.459593
+                  ]
+            },
+            {
+                  "name": "Muzeum Socrealizmu",
+                  "text": "Egyedülálló múzeum, amely a szocialista realizmus művészetének és propagandájának szentelt tárlatokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.487585,
+                        51.460397
+                  ]
+            },
+            {
+                  "name": "Gminny Ośrodek Kultury",
+                  "text": "Helyi kulturális központ, amely különféle művészeti tevékenységeket és eseményeket kínál a közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        22.46005,
+                        51.467751
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła w Kamionce",
+                  "text": "Történelmi templom Kamionkában, amely helyi vallási központként és építészeti emlékként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        22.459581,
+                        51.470017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Zamoyskich",
+                  "text": "Acest muzeu din palatul Kozłówka prezintă interioarele originale și colecțiile de artă ale familiei Zamoyski.",
+                  "category": "museum",
+                  "coords": [
+                        22.489498,
+                        51.459593
+                  ]
+            },
+            {
+                  "name": "Muzeum Socrealizmu",
+                  "text": "Un muzeu unic dedicat artei și propagandei realismului socialist.",
+                  "category": "museum",
+                  "coords": [
+                        22.487585,
+                        51.460397
+                  ]
+            },
+            {
+                  "name": "Gminny Ośrodek Kultury",
+                  "text": "Un centru cultural local care oferă diverse activități artistice și evenimente pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        22.46005,
+                        51.467751
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła w Kamionce",
+                  "text": "O biserică istorică în Kamionka, care servește ca lăcaș de cult local și monument arhitectural.",
+                  "category": "religious",
+                  "coords": [
+                        22.459581,
+                        51.470017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Zamoyskich",
+                  "text": "This museum in Kozłówka Palace presents the original interiors and art collections of the Zamoyski family.",
+                  "category": "museum",
+                  "coords": [
+                        22.489498,
+                        51.459593
+                  ]
+            },
+            {
+                  "name": "Muzeum Socrealizmu",
+                  "text": "A unique museum dedicated to the art and propaganda of Socialist Realism.",
+                  "category": "museum",
+                  "coords": [
+                        22.487585,
+                        51.460397
+                  ]
+            },
+            {
+                  "name": "Gminny Ośrodek Kultury",
+                  "text": "A local cultural centre offering various artistic activities and events for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        22.46005,
+                        51.467751
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła w Kamionce",
+                  "text": "A historic church in Kamionka serving as a local place of worship and architectural monument.",
+                  "category": "religious",
+                  "coords": [
+                        22.459581,
+                        51.470017
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "palace",
     name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace"},
@@ -3297,7 +4935,304 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-kozlowka-palace-history-v2.webp"},
   {
-    id: "poland-srebrna-gora-fortress-history-v2",
+    id: "poland-srebrna-gora-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Silberberg",
+                  "text": "Eine gewaltige Bergfestung aus dem 18. Jahrhundert, die als eine der größten Europas gilt.",
+                  "category": "castle",
+                  "coords": [
+                        16.642407,
+                        50.574363
+                  ]
+            },
+            {
+                  "name": "Wioska \"Świat Indian\"",
+                  "text": "Ein familienfreundlicher Themenpark, der der Kultur und den Traditionen der nordamerikanischen Indianer gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.662691,
+                        50.583613
+                  ]
+            },
+            {
+                  "name": "Fort \"Ostróg\"",
+                  "text": "Ein historisches Verteidigungsbauwerk, das Teil des Festungskomplexes Srebrna Góra ist.",
+                  "category": "castle",
+                  "coords": [
+                        16.650913,
+                        50.570679
+                  ]
+            },
+            {
+                  "name": "Pałac w Budzowie",
+                  "text": "Ein historisches Schlossgebäude im Dorf Budzów, das die regionale Architektur repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        16.691242,
+                        50.581595
+                  ]
+            },
+            {
+                  "name": "Taubenschlag",
+                  "text": "Ein Berggipfel im Eulengebirge, der Wanderwege und Ausblicke auf den Wald bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.605278,
+                        50.590556
+                  ]
+            },
+            {
+                  "name": "Bei den drei Grenzen",
+                  "text": "Ein Gipfel im Warthagebirge, der bei lokalen Wanderern und Naturfreunden beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.625278,
+                        50.595556
+                  ]
+            },
+            {
+                  "name": "Reinertskoppe",
+                  "text": "Ein bewaldeter Gipfel in der Region, Teil des Sudetengebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        16.66732,
+                        50.554772
+                  ]
+            },
+            {
+                  "name": "Lichajówka",
+                  "text": "Ein Berggipfel, der einen natürlichen Aussichtspunkt über die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.652142,
+                        50.550873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Twierdza Srebrna Góra",
+                  "text": "Hatalmas 18. századi hegyi erőd, amelyet Európa egyik legnagyobbjaként tartanak számon.",
+                  "category": "castle",
+                  "coords": [
+                        16.642407,
+                        50.574363
+                  ]
+            },
+            {
+                  "name": "Wioska \"Świat Indian\"",
+                  "text": "Családbarát élménypark, amely az indián kultúrának és hagyományoknak szentelt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.662691,
+                        50.583613
+                  ]
+            },
+            {
+                  "name": "Fort \"Ostróg\"",
+                  "text": "Történelmi védmű, amely a Srebrna Góra-i erődrendszer részét képezi.",
+                  "category": "castle",
+                  "coords": [
+                        16.650913,
+                        50.570679
+                  ]
+            },
+            {
+                  "name": "Pałac w Budzowie",
+                  "text": "Történelmi palotaépület Budzów faluban, amely a regionális építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        16.691242,
+                        50.581595
+                  ]
+            },
+            {
+                  "name": "Gołębia",
+                  "text": "Hegycsúcs a Bagoly-hegységben, amely túraútvonalakat és erdei kilátást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        16.605278,
+                        50.590556
+                  ]
+            },
+            {
+                  "name": "Rozstaj",
+                  "text": "A Bardzkie-hegység egyik csúcsa, amely népszerű a helyi túrázók és természetjárók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.625278,
+                        50.595556
+                  ]
+            },
+            {
+                  "name": "Głownia",
+                  "text": "Erdős hegycsúcs a régióban, a Szudéták hegység része.",
+                  "category": "landmark",
+                  "coords": [
+                        16.66732,
+                        50.554772
+                  ]
+            },
+            {
+                  "name": "Lichajówka",
+                  "text": "Hegycsúcs, amely természetes kilátópontot nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        16.652142,
+                        50.550873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Twierdza Srebrna Góra",
+                  "text": "O fortăreață montană masivă din secolul al XVIII-lea, considerată una dintre cele mai mari din Europa.",
+                  "category": "castle",
+                  "coords": [
+                        16.642407,
+                        50.574363
+                  ]
+            },
+            {
+                  "name": "Wioska \"Świat Indian\"",
+                  "text": "Un parc tematic pentru familii dedicat culturii și tradițiilor nativilor americani.",
+                  "category": "recreational",
+                  "coords": [
+                        16.662691,
+                        50.583613
+                  ]
+            },
+            {
+                  "name": "Fort \"Ostróg\"",
+                  "text": "O structură defensivă istorică ce face parte din complexul cetății Srebrna Góra.",
+                  "category": "castle",
+                  "coords": [
+                        16.650913,
+                        50.570679
+                  ]
+            },
+            {
+                  "name": "Pałac w Budzowie",
+                  "text": "O clădire istorică de palat din satul Budzów, care prezintă arhitectura regională.",
+                  "category": "castle",
+                  "coords": [
+                        16.691242,
+                        50.581595
+                  ]
+            },
+            {
+                  "name": "Gołębia",
+                  "text": "Un vârf montan în Munții Bufniței, oferind trasee de drumeție și vederi spre pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        16.605278,
+                        50.590556
+                  ]
+            },
+            {
+                  "name": "Rozstaj",
+                  "text": "Un vârf în Munții Bardzkie, popular printre excursioniștii locali și pasionații de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        16.625278,
+                        50.595556
+                  ]
+            },
+            {
+                  "name": "Głownia",
+                  "text": "Un vârf muntos împădurit din regiune, parte a lanțului muntos Sudeți.",
+                  "category": "landmark",
+                  "coords": [
+                        16.66732,
+                        50.554772
+                  ]
+            },
+            {
+                  "name": "Lichajówka",
+                  "text": "Un vârf montan care oferă un punct de observație natural asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        16.652142,
+                        50.550873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twierdza Srebrna Góra",
+                  "text": "A massive 18th-century mountain stronghold, considered one of the largest in Europe.",
+                  "category": "castle",
+                  "coords": [
+                        16.642407,
+                        50.574363
+                  ]
+            },
+            {
+                  "name": "Wioska \"Świat Indian\"",
+                  "text": "A family-friendly theme park dedicated to Native American culture and traditions.",
+                  "category": "recreational",
+                  "coords": [
+                        16.662691,
+                        50.583613
+                  ]
+            },
+            {
+                  "name": "Fort \"Ostróg\"",
+                  "text": "A historic defensive structure forming part of the Srebrna Góra fortress complex.",
+                  "category": "castle",
+                  "coords": [
+                        16.650913,
+                        50.570679
+                  ]
+            },
+            {
+                  "name": "Pałac w Budzowie",
+                  "text": "A historic palace building in the village of Budzów, showcasing regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        16.691242,
+                        50.581595
+                  ]
+            },
+            {
+                  "name": "Gołębia",
+                  "text": "A mountain peak in the Owl Mountains offering hiking trails and forest views.",
+                  "category": "landmark",
+                  "coords": [
+                        16.605278,
+                        50.590556
+                  ]
+            },
+            {
+                  "name": "Rozstaj",
+                  "text": "A peak in the Bardzkie Mountains popular among local hikers and nature enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        16.625278,
+                        50.595556
+                  ]
+            },
+            {
+                  "name": "Głownia",
+                  "text": "A forested peak in the region, part of the Sudetes mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        16.66732,
+                        50.554772
+                  ]
+            },
+            {
+                  "name": "Lichajówka",
+                  "text": "A mountain peak providing a natural viewpoint over the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        16.652142,
+                        50.550873
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "monument",
     name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress"},
@@ -3342,7 +5277,304 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"},
   {
-    id: "poland-modlin-fortress-history-v2",
+    id: "poland-modlin-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Kampanii Wrześniowej i Twierdzy Modlin",
+                  "text": "Das Museum dokumentiert die Geschichte der Festung Modlin und die Ereignisse des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        20.679216,
+                        52.442241
+                  ]
+            },
+            {
+                  "name": "Fort II - Kosewo",
+                  "text": "Ein Teil der äußeren Verteidigungsanlagen der Festung Modlin aus dem 19. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        20.689763,
+                        52.467479
+                  ]
+            },
+            {
+                  "name": "Festung Modlin",
+                  "text": "Eine der größten Festungsanlagen Europas, die an der Mündung der Narew in die Weichsel liegt.",
+                  "category": "castle",
+                  "coords": [
+                        20.675741,
+                        52.43892
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Modlin - Prochownia 197",
+                  "text": "Ein Museum in einem ehemaligen Pulvermagazin, das Exponate zur Militärgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.676352,
+                        52.437391
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "Ein städtischer Strand am Flussufer bei der Festung Modlin, beliebt für Erholung im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        20.708457,
+                        52.434067
+                  ]
+            },
+            {
+                  "name": "Muzeum Skarb Narodu",
+                  "text": "Ein Museum in der Festung Modlin, das eine Sammlung historischer polnischer Fahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.675806,
+                        52.435017
+                  ]
+            },
+            {
+                  "name": "Front Modlin",
+                  "text": "Dieses Museum widmet sich der Geschichte und Verteidigung der Festung Modlin.",
+                  "category": "museum",
+                  "coords": [
+                        20.661567,
+                        52.439685
+                  ]
+            },
+            {
+                  "name": "Prochownia P-2 Myza",
+                  "text": "Ein historisches Pulverlager, das heute als Teil des Festungsensembles von Modlin besichtigt werden kann.",
+                  "category": "fortress",
+                  "coords": [
+                        20.639028,
+                        52.443977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Kampanii Wrześniowej i Twierdzy Modlin",
+                  "text": "A múzeum dokumentálja a modlini erőd történetét és a második világháború eseményeit.",
+                  "category": "museum",
+                  "coords": [
+                        20.679216,
+                        52.442241
+                  ]
+            },
+            {
+                  "name": "Fort II - Kosewo",
+                  "text": "A modlini erőd 19. századi külső védelmi műveinek része.",
+                  "category": "fortress",
+                  "coords": [
+                        20.689763,
+                        52.467479
+                  ]
+            },
+            {
+                  "name": "Twierdza Modlin",
+                  "text": "Európa egyik legnagyobb erődrendszere, amely a Narew és a Visztula összefolyásánál fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        20.675741,
+                        52.43892
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Modlin - Prochownia 197",
+                  "text": "Egy egykori lőporraktárban berendezett múzeum, amely katonai történeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.676352,
+                        52.437391
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "Városi strand a folyóparton a modlini erőd közelében, kedvelt pihenőhely nyáron.",
+                  "category": "recreational",
+                  "coords": [
+                        20.708457,
+                        52.434067
+                  ]
+            },
+            {
+                  "name": "Muzeum Skarb Narodu",
+                  "text": "Múzeum a modlini erődben, amely történelmi lengyel járművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.675806,
+                        52.435017
+                  ]
+            },
+            {
+                  "name": "Front Modlin",
+                  "text": "Ez a múzeum a modlini erőd történetének és védelmének szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        20.661567,
+                        52.439685
+                  ]
+            },
+            {
+                  "name": "Prochownia P-2 Myza",
+                  "text": "Történelmi lőporraktár, amely ma a modlini erődrendszer részeként látogatható.",
+                  "category": "fortress",
+                  "coords": [
+                        20.639028,
+                        52.443977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Kampanii Wrześniowej i Twierdzy Modlin",
+                  "text": "Muzeul documentează istoria cetății Modlin și evenimentele din cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        20.679216,
+                        52.442241
+                  ]
+            },
+            {
+                  "name": "Fort II - Kosewo",
+                  "text": "O parte a fortificațiilor exterioare ale cetății Modlin din secolul al XIX-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        20.689763,
+                        52.467479
+                  ]
+            },
+            {
+                  "name": "Twierdza Modlin",
+                  "text": "Una dintre cele mai mari fortificații din Europa, situată la confluența râurilor Narew și Vistula.",
+                  "category": "castle",
+                  "coords": [
+                        20.675741,
+                        52.43892
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Modlin - Prochownia 197",
+                  "text": "Un muzeu amenajat într-o fostă magazie de pulbere, care expune obiecte de istorie militară.",
+                  "category": "museum",
+                  "coords": [
+                        20.676352,
+                        52.437391
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "O plajă urbană pe malul râului lângă cetatea Modlin, populară pentru recreere în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.708457,
+                        52.434067
+                  ]
+            },
+            {
+                  "name": "Muzeum Skarb Narodu",
+                  "text": "Un muzeu în cetatea Modlin care prezintă o colecție de vehicule poloneze istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.675806,
+                        52.435017
+                  ]
+            },
+            {
+                  "name": "Front Modlin",
+                  "text": "Acest muzeu este dedicat istoriei și apărării cetății Modlin.",
+                  "category": "museum",
+                  "coords": [
+                        20.661567,
+                        52.439685
+                  ]
+            },
+            {
+                  "name": "Prochownia P-2 Myza",
+                  "text": "O fostă magazie de pulbere istorică, ce poate fi vizitată astăzi ca parte a ansamblului cetății Modlin.",
+                  "category": "fortress",
+                  "coords": [
+                        20.639028,
+                        52.443977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Kampanii Wrześniowej i Twierdzy Modlin",
+                  "text": "The museum documents the history of the Modlin Fortress and the events of World War II.",
+                  "category": "museum",
+                  "coords": [
+                        20.679216,
+                        52.442241
+                  ]
+            },
+            {
+                  "name": "Fort II - Kosewo",
+                  "text": "A part of the outer defensive works of the Modlin Fortress dating from the 19th century.",
+                  "category": "fortress",
+                  "coords": [
+                        20.689763,
+                        52.467479
+                  ]
+            },
+            {
+                  "name": "Modlin Fortress",
+                  "text": "One of the largest fortification complexes in Europe, situated at the confluence of the Narew and Vistula rivers.",
+                  "category": "castle",
+                  "coords": [
+                        20.675741,
+                        52.43892
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Modlin - Prochownia 197",
+                  "text": "A museum located in a former gunpowder magazine, displaying military history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        20.676352,
+                        52.437391
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "A city beach on the riverbank near the Modlin Fortress, popular for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.708457,
+                        52.434067
+                  ]
+            },
+            {
+                  "name": "Muzeum Skarb Narodu",
+                  "text": "A museum in the Modlin Fortress presenting a collection of historic Polish vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        20.675806,
+                        52.435017
+                  ]
+            },
+            {
+                  "name": "Front Modlin",
+                  "text": "This museum is dedicated to the history and defense of the Modlin Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.661567,
+                        52.439685
+                  ]
+            },
+            {
+                  "name": "Prochownia P-2 Myza",
+                  "text": "A historic gunpowder storehouse that can be visited today as part of the Modlin fortification ensemble.",
+                  "category": "fortress",
+                  "coords": [
+                        20.639028,
+                        52.443977
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "monument",
     name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress"},
@@ -3487,6 +5719,78 @@ export const polandHistoryV2: POI[] = [
                         19.788308,
                         50.055349
                   ]
+            },
+            {
+                  "name": "Bielańsko-Tyniecki Park Krajobrazowy",
+                  "text": "Ein geschützter Landschaftspark mit vielfältiger Flora und Fauna sowie malerischen Ausblicken entlang der Weichsel.",
+                  "category": "natural",
+                  "coords": [
+                        19.817363,
+                        50.027009
+                  ]
+            },
+            {
+                  "name": "Rezerwat Skołczanka",
+                  "text": "Ein Naturschutzgebiet bei Tyniec, bekannt für seine einzigartige Steppenvegetation und seltene Insektenarten.",
+                  "category": "natural",
+                  "coords": [
+                        19.829129,
+                        50.013793
+                  ]
+            },
+            {
+                  "name": "Pałac",
+                  "text": "Ein historisches Schlossgebäude in Kryspinów, das die lokale aristokratische Architektur repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        19.797387,
+                        50.041468
+                  ]
+            },
+            {
+                  "name": "Fort \"Bielany\"",
+                  "text": "Ein historisches Panzerfort, das Teil des Verteidigungssystems der Festung Krakau aus dem 19. Jahrhundert war.",
+                  "category": "fortress",
+                  "coords": [
+                        19.833572,
+                        50.040827
+                  ]
+            },
+            {
+                  "name": "Muzeum Opactwa",
+                  "text": "Ein Museum in der Abtei Tyniec, das archäologische Funde und die Geschichte des Benediktinerordens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.801639,
+                        50.018589
+                  ]
+            },
+            {
+                  "name": "Thesaurus Cracoviensis",
+                  "text": "Ein modernes Museumszentrum, das als Lager- und Ausstellungsraum für Krakauer Kulturschätze dient.",
+                  "category": "museum",
+                  "coords": [
+                        19.824438,
+                        50.044517
+                  ]
+            },
+            {
+                  "name": "Uroczysko Kowadza",
+                  "text": "Ein malerisches Naturgebiet bei Tyniec mit Wanderwegen und großer Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        19.82204,
+                        50.016325
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Die Überreste einer alten slawischen Siedlung und Wallburg mit Blick auf die Weichsel.",
+                  "category": "historical",
+                  "coords": [
+                        19.789425,
+                        50.013387
+                  ]
             }
       ],
       "hu": [
@@ -3497,6 +5801,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.788308,
                         50.055349
+                  ]
+            },
+            {
+                  "name": "Bielańsko-Tyniecki Park Krajobrazowy",
+                  "text": "Védett tájvédelmi körzet változatos növény- és állatvilággal, valamint festői kilátással a Visztula mentén.",
+                  "category": "natural",
+                  "coords": [
+                        19.817363,
+                        50.027009
+                  ]
+            },
+            {
+                  "name": "Rezerwat Skołczanka",
+                  "text": "Tyniec közeli természetvédelmi terület, amely egyedülálló sztyeppei növényzetéről és ritka rovarfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.829129,
+                        50.013793
+                  ]
+            },
+            {
+                  "name": "Pałac",
+                  "text": "Történelmi palotaépület Kryspinówban, amely a helyi arisztokrata építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        19.797387,
+                        50.041468
+                  ]
+            },
+            {
+                  "name": "Fort \"Bielany\"",
+                  "text": "Történelmi páncélerőd, amely a 19. századi krakkói erődrendszer részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        19.833572,
+                        50.040827
+                  ]
+            },
+            {
+                  "name": "Apátsági Múzeum",
+                  "text": "A tyinieci apátság múzeuma, amely régészeti leleteket és a bencés rend történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.801639,
+                        50.018589
+                  ]
+            },
+            {
+                  "name": "Thesaurus Cracoviensis",
+                  "text": "Modern múzeumi létesítmény, amely Krakkó kulturális kincseinek raktáraként és kiállítóhelyeként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        19.824438,
+                        50.044517
+                  ]
+            },
+            {
+                  "name": "Uroczysko Kowadza",
+                  "text": "Festői természeti terület Tyniec közelében, amely túraútvonalakat és gazdag élővilágot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        19.82204,
+                        50.016325
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Egy ősi szláv település és földvár maradványai, amelyek a Visztulára néznek.",
+                  "category": "historical",
+                  "coords": [
+                        19.789425,
+                        50.013387
                   ]
             }
       ],
@@ -3509,6 +5885,78 @@ export const polandHistoryV2: POI[] = [
                         19.788308,
                         50.055349
                   ]
+            },
+            {
+                  "name": "Bielańsko-Tyniecki Park Krajobrazowy",
+                  "text": "Un parc peisaj protejat, cu floră și faună diversă și vederi pitorești de-a lungul râului Vistula.",
+                  "category": "natural",
+                  "coords": [
+                        19.817363,
+                        50.027009
+                  ]
+            },
+            {
+                  "name": "Rezerwat Skołczanka",
+                  "text": "O rezervație naturală lângă Tyniec, cunoscută pentru vegetația sa unică de stepă și speciile rare de insecte.",
+                  "category": "natural",
+                  "coords": [
+                        19.829129,
+                        50.013793
+                  ]
+            },
+            {
+                  "name": "Pałac",
+                  "text": "O clădire istorică de palat din Kryspinów, reprezentând arhitectura aristocratică locală.",
+                  "category": "castle",
+                  "coords": [
+                        19.797387,
+                        50.041468
+                  ]
+            },
+            {
+                  "name": "Fort \"Bielany\"",
+                  "text": "Un fort blindat istoric care a făcut parte din sistemul defensiv al Cetății Cracovia din secolul al XIX-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        19.833572,
+                        50.040827
+                  ]
+            },
+            {
+                  "name": "Muzeum Opactwa",
+                  "text": "Un muzeu în cadrul abației Tyniec, care prezintă descoperiri arheologice și istoria ordinului benedictin.",
+                  "category": "museum",
+                  "coords": [
+                        19.801639,
+                        50.018589
+                  ]
+            },
+            {
+                  "name": "Thesaurus Cracoviensis",
+                  "text": "O facilitate muzeală modernă care servește ca spațiu de depozitare și expoziție pentru comorile culturale ale Cracoviei.",
+                  "category": "museum",
+                  "coords": [
+                        19.824438,
+                        50.044517
+                  ]
+            },
+            {
+                  "name": "Uroczysko Kowadza",
+                  "text": "O zonă naturală pitorească lângă Tyniec, care oferă trasee de mers pe jos și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        19.82204,
+                        50.016325
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Rămășițele unei vechi așezări slave și ale unei cetăți de deal cu vederea spre Vistula.",
+                  "category": "historical",
+                  "coords": [
+                        19.789425,
+                        50.013387
+                  ]
             }
       ],
       "en": [
@@ -3519,6 +5967,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.788308,
                         50.055349
+                  ]
+            },
+            {
+                  "name": "Bielańsko-Tyniecki Park Krajobrazowy",
+                  "text": "A protected landscape park featuring diverse flora, fauna, and scenic views along the Vistula river.",
+                  "category": "natural",
+                  "coords": [
+                        19.817363,
+                        50.027009
+                  ]
+            },
+            {
+                  "name": "Rezerwat Skołczanka",
+                  "text": "A nature reserve near Tyniec known for its unique steppe vegetation and rare insect species.",
+                  "category": "natural",
+                  "coords": [
+                        19.829129,
+                        50.013793
+                  ]
+            },
+            {
+                  "name": "Pałac",
+                  "text": "A historic palace building in Kryspinów, representing local aristocratic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        19.797387,
+                        50.041468
+                  ]
+            },
+            {
+                  "name": "Fort \"Bielany\"",
+                  "text": "A historic armored fort that was part of the 19th-century Fortress Kraków defensive system.",
+                  "category": "fortress",
+                  "coords": [
+                        19.833572,
+                        50.040827
+                  ]
+            },
+            {
+                  "name": "Abbey Museum",
+                  "text": "A museum within Tyniec Abbey showcasing archaeological finds and the history of the Benedictine order.",
+                  "category": "museum",
+                  "coords": [
+                        19.801639,
+                        50.018589
+                  ]
+            },
+            {
+                  "name": "Thesaurus Cracoviensis",
+                  "text": "A modern museum facility serving as a storage and exhibition space for Krakow's cultural treasures.",
+                  "category": "museum",
+                  "coords": [
+                        19.824438,
+                        50.044517
+                  ]
+            },
+            {
+                  "name": "Uroczysko Kowadza",
+                  "text": "A scenic natural area near Tyniec offering walking trails and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        19.82204,
+                        50.016325
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "The remains of an ancient Slavic settlement and hillfort overlooking the Vistula.",
+                  "category": "historical",
+                  "coords": [
+                        19.789425,
+                        50.013387
                   ]
             }
       ]
@@ -3567,7 +6087,268 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-tyniec-abbey-history-v2.webp"},
   {
-    id: "poland-kalwaria-zebrzydowska-history-v2",
+    id: "poland-kalwaria-zebrzydowska-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg in Landskron",
+                  "text": "Ruinen einer mittelalterlichen Burg auf dem Berg Lanckorona.",
+                  "category": "castle",
+                  "coords": [
+                        19.712256,
+                        49.848015
+                  ]
+            },
+            {
+                  "name": "Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej",
+                  "text": "Ein bedeutendes polnisches Kloster und UNESCO-Welterbestätte.",
+                  "category": "religious",
+                  "coords": [
+                        19.671394,
+                        49.860782
+                  ]
+            },
+            {
+                  "name": "Grodzisko Bugaj",
+                  "text": "Eine archäologische Ausgrabungsstätte in Kalwaria Zebrzydowska.",
+                  "category": "historical",
+                  "coords": [
+                        19.655503,
+                        49.854078
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Barwałdzie Górnym",
+                  "text": "Überreste einer Burg in Barwałd Górny bei Kalwaria Zebrzydowska.",
+                  "category": "castle",
+                  "coords": [
+                        19.652146,
+                        49.852992
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne Ziemi Lanckorońskiej",
+                  "text": "Ein ethnografisches Museum in der Region Lanckorona.",
+                  "category": "museum",
+                  "coords": [
+                        19.715795,
+                        49.844761
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Stodoła",
+                  "text": "Eine historische Scheune als Sehenswürdigkeit in Kalwaria Zebrzydowska.",
+                  "category": "landmark",
+                  "coords": [
+                        19.716851,
+                        49.844862
+                  ]
+            },
+            {
+                  "name": "Galeria Lanckorońska Kazimierza Wiśniaka",
+                  "text": "Eine Kunstgalerie in Kalwaria Zebrzydowska.",
+                  "category": "museum",
+                  "coords": [
+                        19.714829,
+                        49.845739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Lanckoronie",
+                  "text": "Középkori vár romjai a Lanckorona-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        19.712256,
+                        49.848015
+                  ]
+            },
+            {
+                  "name": "Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej",
+                  "text": "Jelentős lengyel kolostor és UNESCO világörökségi helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        19.671394,
+                        49.860782
+                  ]
+            },
+            {
+                  "name": "Grodzisko Bugaj",
+                  "text": "Régészeti lelőhely Kalwaria Zebrzydowska területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.655503,
+                        49.854078
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Barwałdzie Górnym",
+                  "text": "Egy vár maradványai Barwałd Górny közelében, Kalwaria Zebrzydowskában.",
+                  "category": "castle",
+                  "coords": [
+                        19.652146,
+                        49.852992
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne Ziemi Lanckorońskiej",
+                  "text": "Néprajzi múzeum a Lanckorona régióban.",
+                  "category": "museum",
+                  "coords": [
+                        19.715795,
+                        49.844761
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Stodoła",
+                  "text": "Történelmi pajta mint látványosság Kalwaria Zebrzydowskában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.716851,
+                        49.844862
+                  ]
+            },
+            {
+                  "name": "Galeria Lanckorońska Kazimierza Wiśniaka",
+                  "text": "Művészeti galéria Kalwaria Zebrzydowska településen.",
+                  "category": "museum",
+                  "coords": [
+                        19.714829,
+                        49.845739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Lanckoronie",
+                  "text": "Ruinele unui castel medieval de pe muntele Lanckorona.",
+                  "category": "castle",
+                  "coords": [
+                        19.712256,
+                        49.848015
+                  ]
+            },
+            {
+                  "name": "Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej",
+                  "text": "O mănăstire poloneză importantă și sit al Patrimoniului Mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        19.671394,
+                        49.860782
+                  ]
+            },
+            {
+                  "name": "Grodzisko Bugaj",
+                  "text": "Un sit arheologic în Kalwaria Zebrzydowska.",
+                  "category": "historical",
+                  "coords": [
+                        19.655503,
+                        49.854078
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Barwałdzie Górnym",
+                  "text": "Rămășițele unui castel în Barwałd Górny, lângă Kalwaria Zebrzydowska.",
+                  "category": "castle",
+                  "coords": [
+                        19.652146,
+                        49.852992
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne Ziemi Lanckorońskiej",
+                  "text": "Un muzeu etnografic din regiunea Lanckorona.",
+                  "category": "museum",
+                  "coords": [
+                        19.715795,
+                        49.844761
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Stodoła",
+                  "text": "O șură istorică, obiectiv turistic în Kalwaria Zebrzydowska.",
+                  "category": "landmark",
+                  "coords": [
+                        19.716851,
+                        49.844862
+                  ]
+            },
+            {
+                  "name": "Galeria Lanckorońska Kazimierza Wiśniaka",
+                  "text": "O galerie de artă în Kalwaria Zebrzydowska.",
+                  "category": "museum",
+                  "coords": [
+                        19.714829,
+                        49.845739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek w Lanckoronie",
+                  "text": "Ruins of a medieval castle on the Lanckorona mountain.",
+                  "category": "castle",
+                  "coords": [
+                        19.712256,
+                        49.848015
+                  ]
+            },
+            {
+                  "name": "Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej",
+                  "text": "A major Polish monastery and UNESCO World Heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        19.671394,
+                        49.860782
+                  ]
+            },
+            {
+                  "name": "Grodzisko Bugaj",
+                  "text": "An archaeological site in Kalwaria Zebrzydowska.",
+                  "category": "historical",
+                  "coords": [
+                        19.655503,
+                        49.854078
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Barwałdzie Górnym",
+                  "text": "The remains of a castle in Barwałd Górny near Kalwaria Zebrzydowska.",
+                  "category": "castle",
+                  "coords": [
+                        19.652146,
+                        49.852992
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne Ziemi Lanckorońskiej",
+                  "text": "An ethnographic museum in the Lanckorona region.",
+                  "category": "museum",
+                  "coords": [
+                        19.715795,
+                        49.844761
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Stodoła",
+                  "text": "A historic barn as an attraction in Kalwaria Zebrzydowska.",
+                  "category": "landmark",
+                  "coords": [
+                        19.716851,
+                        49.844862
+                  ]
+            },
+            {
+                  "name": "Galeria Lanckorońska Kazimierza Wiśniaka",
+                  "text": "An art gallery in Kalwaria Zebrzydowska.",
+                  "category": "museum",
+                  "coords": [
+                        19.714829,
+                        49.845739
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "park",
     name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska"},
@@ -3714,6 +6495,51 @@ export const polandHistoryV2: POI[] = [
                         18.3346,
                         52.665623
                   ]
+            },
+            {
+                  "name": "Ruiny zamku w Kruszwicy",
+                  "text": "Überreste einer Burg aus dem 14. Jahrhundert in Kruszwica, bekannt für den erhaltenen „Mäuseturm“.",
+                  "category": "castle",
+                  "coords": [
+                        18.327829,
+                        52.672149
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Kruszwica",
+                  "text": "Ein Freilichttheater in der Nähe der historischen Burgruine in Kruszwica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.331746,
+                        52.67244
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kruszwica",
+                  "text": "Archäologische Stätte einer frühmittelalterlichen Siedlung in Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.329502,
+                        52.667743
+                  ]
+            },
+            {
+                  "name": "Pałac w Kobylnikach",
+                  "text": "Ein historisches Herrenhaus im Dorf Kobylniki bei Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.311361,
+                        52.687127
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Piotra i Pawła",
+                  "text": "Eine bedeutende romanische Stiftsbasilika in Kruszwica.",
+                  "category": "religious",
+                  "coords": [
+                        18.32748,
+                        52.67984
+                  ]
             }
       ],
       "hu": [
@@ -3724,6 +6550,51 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.3346,
                         52.665623
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Kruszwicy",
+                  "text": "Egy 14. századi vár maradványai Kruszwicában, amely a megmaradt „Egértornyáról” híres.",
+                  "category": "castle",
+                  "coords": [
+                        18.327829,
+                        52.672149
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Kruszwica",
+                  "text": "Szabadtéri színpad a történelmi várromok közelében Kruszwicában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.331746,
+                        52.67244
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kruszwica",
+                  "text": "Kruszwica kora középkori településének régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        18.329502,
+                        52.667743
+                  ]
+            },
+            {
+                  "name": "Pałac w Kobylnikach",
+                  "text": "Történelmi kúria a Kruszwica melletti Kobylniki faluban.",
+                  "category": "historical",
+                  "coords": [
+                        18.311361,
+                        52.687127
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Piotra i Pawła",
+                  "text": "Jelentős román stílusú társaskáptalani bazilika Kruszwicában.",
+                  "category": "religious",
+                  "coords": [
+                        18.32748,
+                        52.67984
                   ]
             }
       ],
@@ -3736,6 +6607,51 @@ export const polandHistoryV2: POI[] = [
                         18.3346,
                         52.665623
                   ]
+            },
+            {
+                  "name": "Ruiny zamku w Kruszwicy",
+                  "text": "Rămășițele unui castel din secolul al XIV-lea din Kruszwica, faimos pentru „Turnul Șoarecilor” care s-a păstrat.",
+                  "category": "castle",
+                  "coords": [
+                        18.327829,
+                        52.672149
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Kruszwica",
+                  "text": "Un teatru în aer liber situat lângă ruinele castelului istoric din Kruszwica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.331746,
+                        52.67244
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kruszwica",
+                  "text": "Situl arheologic al unei așezări medievale timpurii din Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.329502,
+                        52.667743
+                  ]
+            },
+            {
+                  "name": "Pałac w Kobylnikach",
+                  "text": "Un conac istoric situat în satul Kobylniki, lângă Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.311361,
+                        52.687127
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Piotra i Pawła",
+                  "text": "O bazilică colegială romanică importantă situată în Kruszwica.",
+                  "category": "religious",
+                  "coords": [
+                        18.32748,
+                        52.67984
+                  ]
             }
       ],
       "en": [
@@ -3746,6 +6662,51 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.3346,
                         52.665623
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku w Kruszwicy",
+                  "text": "Remains of a 14th-century castle in Kruszwica, famous for its surviving \"Mouse Tower\".",
+                  "category": "castle",
+                  "coords": [
+                        18.327829,
+                        52.672149
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Kruszwica",
+                  "text": "An open-air theater located near the historic castle ruins in Kruszwica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.331746,
+                        52.67244
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kruszwica",
+                  "text": "Archaeological site of an early medieval settlement in Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.329502,
+                        52.667743
+                  ]
+            },
+            {
+                  "name": "Pałac w Kobylnikach",
+                  "text": "A historic manor house located in the village of Kobylniki near Kruszwica.",
+                  "category": "historical",
+                  "coords": [
+                        18.311361,
+                        52.687127
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Piotra i Pawła",
+                  "text": "A significant Romanesque collegiate basilica located in Kruszwica.",
+                  "category": "religious",
+                  "coords": [
+                        18.32748,
+                        52.67984
                   ]
             }
       ]
@@ -4874,7 +7835,304 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-chelmno-defensive-walls-history-v2.webp",
   },
   {
-    id: "poland-rogow-arboretum-history-v2",
+    id: "poland-rogow-arboretum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezerwat Zimna Woda",
+                  "text": "Ein Waldnaturschutzgebiet zum Schutz natürlicher Pflanzengemeinschaften in der Nähe des Rogów Arboretums.",
+                  "category": "natural",
+                  "coords": [
+                        19.917453,
+                        51.835483
+                  ]
+            },
+            {
+                  "name": "Rezerwat Doliska",
+                  "text": "Ein Naturschutzgebiet zum Schutz von Fragmenten natürlicher Tannen-Buchen-Wälder in der Nähe des Rogów Arboretums.",
+                  "category": "natural",
+                  "coords": [
+                        19.892881,
+                        51.84065
+                  ]
+            },
+            {
+                  "name": "Kolej Wąskotorowa Rogów-Rawa-Biała",
+                  "text": "Ein historisches Schmalspurbahnmuseum, das saisonale Touristenfahrten anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        19.882394,
+                        51.812881
+                  ]
+            },
+            {
+                  "name": "Pałac w Rogowie",
+                  "text": "Ein historisches Schlossgebäude in Rogów, das heute Bildungs- und Verwaltungszwecken dient.",
+                  "category": "historical",
+                  "coords": [
+                        19.855128,
+                        51.806306
+                  ]
+            },
+            {
+                  "name": "Muzeum Lasu i Drewna, Centrum Edukacji Przyrodniczo Leśnej",
+                  "text": "Ein Museum für Forstwirtschaft und Holzwissenschaft mit pädagogischen Ausstellungen über Waldökosysteme.",
+                  "category": "museum",
+                  "coords": [
+                        19.90038,
+                        51.821899
+                  ]
+            },
+            {
+                  "name": "Arboretum SGGW",
+                  "text": "Eines der artenreichsten Arboretums Polens mit einer großen Sammlung von Bäumen, Sträuchern und einem Alpinarium.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904292,
+                        51.825523
+                  ]
+            },
+            {
+                  "name": "Dwór w Dąbrowie (brzeziński)",
+                  "text": "Ein historisches Herrenhaus in der Nähe des Rogów Arboretums.",
+                  "category": "historical",
+                  "coords": [
+                        19.914715,
+                        51.797272
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Eine spezialisierte botanische Attraktion im Rogów Arboretum mit Gebirgspflanzen aus aller Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.901608,
+                        51.823569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezerwat Zimna Woda",
+                  "text": "Természeti növénytársulásokat védő erdei rezervátum a Rogówi Arborétum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.917453,
+                        51.835483
+                  ]
+            },
+            {
+                  "name": "Rezerwat Doliska",
+                  "text": "Természetes jegenyefenyő-bükk erdők maradványait védő rezervátum a Rogówi Arborétum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.892881,
+                        51.84065
+                  ]
+            },
+            {
+                  "name": "Kolej Wąskotorowa Rogów-Rawa-Biała",
+                  "text": "Történelmi kisvasúti múzeum, amely szezonális turistajáratokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        19.882394,
+                        51.812881
+                  ]
+            },
+            {
+                  "name": "Pałac w Rogowie",
+                  "text": "Történelmi palotaépület Rogówban, amely jelenleg oktatási és adminisztratív célokat szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        19.855128,
+                        51.806306
+                  ]
+            },
+            {
+                  "name": "Muzeum Lasu i Drewna, Centrum Edukacji Przyrodniczo Leśnej",
+                  "text": "Erdészeti és fatudományi múzeum, amely az erdei ökoszisztémákat bemutató oktatási kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        19.90038,
+                        51.821899
+                  ]
+            },
+            {
+                  "name": "Arboretum SGGW",
+                  "text": "Lengyelország egyik leggazdagabb arborétuma, hatalmas fa- és cserjegyűjteménnyel, valamint sziklakerttel.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904292,
+                        51.825523
+                  ]
+            },
+            {
+                  "name": "Dwór w Dąbrowie (brzeziński)",
+                  "text": "Történelmi udvarház a Rogówi Arborétum környékén.",
+                  "category": "historical",
+                  "coords": [
+                        19.914715,
+                        51.797272
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Hegyi növényeket bemutató botanikai látványosság a Rogówi Arborétumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        19.901608,
+                        51.823569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezerwat Zimna Woda",
+                  "text": "O rezervație naturală forestieră care protejează comunitățile de plante naturale lângă Arboretumul Rogów.",
+                  "category": "natural",
+                  "coords": [
+                        19.917453,
+                        51.835483
+                  ]
+            },
+            {
+                  "name": "Rezerwat Doliska",
+                  "text": "O rezervație naturală care protejează fragmente de păduri naturale de brad și fag lângă Arboretumul Rogów.",
+                  "category": "natural",
+                  "coords": [
+                        19.892881,
+                        51.84065
+                  ]
+            },
+            {
+                  "name": "Kolej Wąskotorowa Rogów-Rawa-Biała",
+                  "text": "Un muzeu istoric al căii ferate înguste care oferă plimbări turistice sezoniere.",
+                  "category": "museum",
+                  "coords": [
+                        19.882394,
+                        51.812881
+                  ]
+            },
+            {
+                  "name": "Pałac w Rogowie",
+                  "text": "O clădire istorică de palat în Rogów, care servește în prezent scopuri educaționale și administrative.",
+                  "category": "historical",
+                  "coords": [
+                        19.855128,
+                        51.806306
+                  ]
+            },
+            {
+                  "name": "Muzeum Lasu i Drewna, Centrum Edukacji Przyrodniczo Leśnej",
+                  "text": "Un muzeu dedicat silviculturii și științei lemnului, cu expoziții educaționale despre ecosistemele forestiere.",
+                  "category": "museum",
+                  "coords": [
+                        19.90038,
+                        51.821899
+                  ]
+            },
+            {
+                  "name": "Arboretum SGGW",
+                  "text": "Unul dintre cele mai bogate arboretumuri din Polonia, cu o colecție vastă de arbori, arbuști și un alpinariu.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904292,
+                        51.825523
+                  ]
+            },
+            {
+                  "name": "Dwór w Dąbrowie (brzeziński)",
+                  "text": "Un conac istoric situat în apropierea Arboretumului Rogów.",
+                  "category": "historical",
+                  "coords": [
+                        19.914715,
+                        51.797272
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "O atracție botanică specializată în cadrul Arboretumului Rogów, care prezintă plante montane din întreaga lume.",
+                  "category": "landmark",
+                  "coords": [
+                        19.901608,
+                        51.823569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezerwat Zimna Woda",
+                  "text": "A forest nature reserve protecting natural plant communities near the Rogów Arboretum.",
+                  "category": "natural",
+                  "coords": [
+                        19.917453,
+                        51.835483
+                  ]
+            },
+            {
+                  "name": "Rezerwat Doliska",
+                  "text": "A nature reserve protecting fragments of natural fir-beech forests near the Rogów Arboretum.",
+                  "category": "natural",
+                  "coords": [
+                        19.892881,
+                        51.84065
+                  ]
+            },
+            {
+                  "name": "Kolej Wąskotorowa Rogów-Rawa-Biała",
+                  "text": "A historic narrow-gauge railway museum offering seasonal tourist rides.",
+                  "category": "museum",
+                  "coords": [
+                        19.882394,
+                        51.812881
+                  ]
+            },
+            {
+                  "name": "Pałac w Rogowie",
+                  "text": "A historic palace building in Rogów, currently serving educational and administrative purposes.",
+                  "category": "historical",
+                  "coords": [
+                        19.855128,
+                        51.806306
+                  ]
+            },
+            {
+                  "name": "Muzeum Lasu i Drewna, Centrum Edukacji Przyrodniczo Leśnej",
+                  "text": "A museum dedicated to forestry and wood science, featuring educational exhibitions about forest ecosystems.",
+                  "category": "museum",
+                  "coords": [
+                        19.90038,
+                        51.821899
+                  ]
+            },
+            {
+                  "name": "Arboretum SGGW",
+                  "text": "One of the richest arboretums in Poland, featuring a vast collection of trees, shrubs, and an alpinarium.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904292,
+                        51.825523
+                  ]
+            },
+            {
+                  "name": "Dwór w Dąbrowie (brzeziński)",
+                  "text": "A historic manor house located in the vicinity of the Rogów Arboretum.",
+                  "category": "historical",
+                  "coords": [
+                        19.914715,
+                        51.797272
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "A specialized botanical attraction within the Rogów Arboretum featuring mountain plants from around the world.",
+                  "category": "landmark",
+                  "coords": [
+                        19.901608,
+                        51.823569
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PL",
     name: { de: "Arboretum in Rogów", hu: "Rogówi Arborétum", ro: "Arboretumul din Rogów", en: "Rogów Arboretum" },
@@ -4919,7 +8177,232 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-rogow-arboretum-history-v2.webp",
   },
   {
-    id: "poland-nieborow-palace-history-v2",
+    id: "poland-nieborow-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Ein prächtiger Barockpalast aus dem 17. Jahrhundert mit einem bedeutenden Museum.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Rezerwat Polana Siwica",
+                  "text": "Ein Naturschutzgebiet mit geschützten Wiesenlandschaften in der Nähe des Nieborów-Palastes.",
+                  "category": "natural",
+                  "coords": [
+                        20.106074,
+                        52.039251
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Ein Museum, das eine Sammlung historischer Autos und Motorräder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "Ein Naturschutzgebiet mit geschützter Flora und Fauna in der Nähe des Schlosses Nieborów.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "Ein Museum in Nieborów, das sich der traditionellen Herstellung von Majolika-Keramik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Zabytkowa studnia",
+                  "text": "Ein historischer Brunnen als dekoratives Element in der Parkanlage von Nieborów.",
+                  "category": "landmark",
+                  "coords": [
+                        20.01521,
+                        52.083571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Pompás 17. századi barokk palota, amely jelentős múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Rezerwat Polana Siwica",
+                  "text": "Természetvédelmi terület védett réti tájakkal a nieborówi palota közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.106074,
+                        52.039251
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Múzeum, amely történelmi autók és motorkerékpárok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "Természetvédelmi terület védett növény- és állatvilággal a Nieborów-palota közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "Múzeum Nieborówban, amely a hagyományos majolika-kerámiák készítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Zabytkowa studnia",
+                  "text": "Történelmi kút, amely a nieborówi park díszítőelemeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        20.01521,
+                        52.083571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Un magnific palat baroc din secolul al XVII-lea, care găzduiește un muzeu important.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Rezerwat Polana Siwica",
+                  "text": "O rezervație naturală cu peisaje de pajiști protejate lângă palatul din Nieborów.",
+                  "category": "natural",
+                  "coords": [
+                        20.106074,
+                        52.039251
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Un muzeu care expune o colecție de mașini și motociclete istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "O rezervație naturală cu floră și faună protejată situată lângă Palatul Nieborów.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "Un muzeu din Nieborów dedicat producției tradiționale de ceramică majolică.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Zabytkowa studnia",
+                  "text": "O fântână istorică ce servește ca element decorativ în parcul de la Nieborów.",
+                  "category": "landmark",
+                  "coords": [
+                        20.01521,
+                        52.083571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "A magnificent 17th-century Baroque palace that houses an important museum.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Rezerwat Polana Siwica",
+                  "text": "A nature reserve with protected meadow landscapes near the Nieborów Palace.",
+                  "category": "natural",
+                  "coords": [
+                        20.106074,
+                        52.039251
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "A museum displaying a collection of historical cars and motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "A nature reserve with protected flora and fauna located near the Nieborów Palace.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "A museum in Nieborów dedicated to the traditional production of majolica ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Zabytkowa studnia",
+                  "text": "A historic well serving as a decorative element in the Nieborów park grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        20.01521,
+                        52.083571
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "PL",
     name: { de: "Palast von Nieborów", hu: "Nieborówi palota", ro: "Palatul din Nieborów", en: "Nieborów Palace" },
@@ -4964,7 +8447,232 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-nieborow-palace-history-v2.webp",
   },
   {
-    id: "poland-arkadia-park-history-v2",
+    id: "poland-arkadia-park-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Ein bedeutender barocker Palast mit einer reichen Kunstsammlung.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Dieses Museum zeigt eine Sammlung historischer Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "Ein Naturschutzgebiet, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "Ein Museum, das der Geschichte und Herstellung von Majolika-Keramik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Park romantyczny",
+                  "text": "Ein weitläufiger Landschaftspark im romantischen Stil mit verschiedenen Bauwerken.",
+                  "category": "park",
+                  "coords": [
+                        20.014899,
+                        52.084033
+                  ]
+            },
+            {
+                  "name": "Brama Czasu",
+                  "text": "Historische Ruinen, die Teil der Parkanlage sind.",
+                  "category": "historical",
+                  "coords": [
+                        20.012626,
+                        52.085018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Jelentős barokk palota gazdag művészeti gyűjteménnyel.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Ez a múzeum történelmi járművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "Természetvédelmi terület, amely a helyi növény- és állatvilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "A majolika kerámiák történetének és gyártásának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Park romantyczny",
+                  "text": "Kiterjedt romantikus stílusú tájképi park különböző építményekkel.",
+                  "category": "park",
+                  "coords": [
+                        20.014899,
+                        52.084033
+                  ]
+            },
+            {
+                  "name": "Brama Czasu",
+                  "text": "Történelmi romok, amelyek a park részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        20.012626,
+                        52.085018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "Un palat baroc important care adăpostește o colecție bogată de artă.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "Acest muzeu prezintă o colecție de vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "O rezervație naturală care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "Un muzeu dedicat istoriei și fabricării ceramicii de majolică.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Park romantyczny",
+                  "text": "Un parc peisagistic extins în stil romantic, cu diverse structuri.",
+                  "category": "park",
+                  "coords": [
+                        20.014899,
+                        52.084033
+                  ]
+            },
+            {
+                  "name": "Brama Czasu",
+                  "text": "Ruine istorice care fac parte din complexul parcului.",
+                  "category": "historical",
+                  "coords": [
+                        20.012626,
+                        52.085018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pałac w Nieborowie",
+                  "text": "A significant Baroque palace housing a rich art collection.",
+                  "category": "castle",
+                  "coords": [
+                        20.070168,
+                        52.066609
+                  ]
+            },
+            {
+                  "name": "Muzeum Starych Pojazdów",
+                  "text": "This museum displays a collection of historical vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        20.063525,
+                        52.06319
+                  ]
+            },
+            {
+                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
+                  "text": "A nature reserve protecting the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        20.072832,
+                        52.059711
+                  ]
+            },
+            {
+                  "name": "Manufaktura Majoliki",
+                  "text": "A museum dedicated to the history and production of majolica ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        20.069113,
+                        52.068009
+                  ]
+            },
+            {
+                  "name": "Park romantyczny",
+                  "text": "An extensive romantic-style landscape park with various structures.",
+                  "category": "park",
+                  "coords": [
+                        20.014899,
+                        52.084033
+                  ]
+            },
+            {
+                  "name": "Brama Czasu",
+                  "text": "Historic ruins that are part of the park complex.",
+                  "category": "historical",
+                  "coords": [
+                        20.012626,
+                        52.085018
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PL",
     name: { de: "Landschaftspark Arkadia", hu: "Arkadia tájpark", ro: "Parcul peisagistic Arkadia", en: "Arkadia Landscape Park" },
@@ -5009,7 +8717,232 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-arkadia-park-history-v2.webp",
   },
   {
-    id: "poland-brzeg-castle-history-v2",
+    id: "poland-brzeg-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "Ein bedeutendes Renaissanceschloss, das einst als Residenz der schlesischen Piasten diente.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "Ein historisches Schlossgebäude in der Stadt Brzeg.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Die Ruinen einer ehemaligen gotischen Kirche in Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Ein historischer Schornstein eines ehemaligen Sägewerks in Brzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "Ein Denkmal zu Ehren der für das Vaterland gefallenen Helden in Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "Ein erhaltenes historisches Stadttor im Renaissancestil in Brzeg.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "Egy jelentős reneszánsz kastély, amely egykor a sziléziai Piast-dinasztia rezidenciája volt.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "Történelmi kastélyépület Brzeg városában.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Egy egykori gótikus templom romjai Brzegben.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Egy egykori fűrészüzem történelmi kéménye Brzegben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "A hazáért elesett hősök tiszteletére emelt emlékmű Brzegben.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "Egy épségben maradt történelmi reneszánsz városkapu Brzegben.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "Un castel renascentist important care a servit drept reședință pentru dinastia Piast din Silezia.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "O clădire istorică de tip palat situată în orașul Brzeg.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Ruinele unei foste biserici gotice situate în Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Un coș istoric al unei foste fabrici de cherestea din Brzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "Un monument ridicat în cinstea eroilor căzuți pentru patrie în Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "O poartă istorică a orașului construită în stil renascentist în Brzeg.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brzeg Silesian Piasts' Castle",
+                  "text": "A significant Renaissance castle that once served as a residence for the Silesian Piast dynasty.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "A historic palace-style building located in the city of Brzeg.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Former Saint Peter and Paul Church",
+                  "text": "The ruins of a former Gothic church located in Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "A historic chimney of a former sawmill in Brzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "A monument dedicated to the heroes who fell for their homeland in Brzeg.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "A preserved historic city gate built in Renaissance style in Brzeg.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PL",
     name: { de: "Schloss Brzeg", hu: "Brzeg vára", ro: "Castelul din Brzeg", en: "Brzeg Castle" },
@@ -5360,7 +9293,124 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-koscian-old-town-history-v2.webp",
   },
   {
-    id: "poland-krakow-tours-castle-history-v2",
+    id: "poland-krakow-tours-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zespół dworski w Ściejowicach",
+                  "text": "Ein historisches Herrenhaus-Ensemble in Ściejowice bei Krakau.",
+                  "category": "historical",
+                  "coords": [
+                        19.779818,
+                        50.007693
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Eine historische römisch-katholische Kirche in der Gemeinde Liszki.",
+                  "category": "religious",
+                  "coords": [
+                        19.766412,
+                        50.039239
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Polski w Dąbrowie Szlacheckiej",
+                  "text": "Eine Kirche in Dąbrowa Szlachecka, die der Königin von Polen geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.744914,
+                        49.998613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zespół dworski w Ściejowicach",
+                  "text": "Történelmi udvarház-együttes a Krakkó melletti Ściejowice településen.",
+                  "category": "historical",
+                  "coords": [
+                        19.779818,
+                        50.007693
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Történelmi római katolikus templom Liszki községben.",
+                  "category": "religious",
+                  "coords": [
+                        19.766412,
+                        50.039239
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Polski w Dąbrowie Szlacheckiej",
+                  "text": "Lengyelország Királynőjének szentelt templom Dąbrowa Szlachecka településen.",
+                  "category": "religious",
+                  "coords": [
+                        19.744914,
+                        49.998613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zespół dworski w Ściejowicach",
+                  "text": "Un ansamblu nobiliar istoric situat în Ściejowice, lângă Cracovia.",
+                  "category": "historical",
+                  "coords": [
+                        19.779818,
+                        50.007693
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "O biserică romano-catolică istorică situată în comuna Liszki.",
+                  "category": "religious",
+                  "coords": [
+                        19.766412,
+                        50.039239
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Polski w Dąbrowie Szlacheckiej",
+                  "text": "O biserică în Dąbrowa Szlachecka, dedicată Fecioarei Maria Regina Poloniei.",
+                  "category": "religious",
+                  "coords": [
+                        19.744914,
+                        49.998613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zespół dworski w Ściejowicach",
+                  "text": "A historical manor house complex located in Ściejowice near Krakow.",
+                  "category": "historical",
+                  "coords": [
+                        19.779818,
+                        50.007693
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "A historical Roman Catholic church located in the municipality of Liszki.",
+                  "category": "religious",
+                  "coords": [
+                        19.766412,
+                        50.039239
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Polski w Dąbrowie Szlacheckiej",
+                  "text": "A church in Dąbrowa Szlachecka dedicated to the Virgin Mary, Queen of Poland.",
+                  "category": "religious",
+                  "coords": [
+                        19.744914,
+                        49.998613
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PL",
     name: { de: "Schloss in Krakau-Tyniec", hu: "Tynieci kastély", ro: "Castelul din Tyniec", en: "Tyniec Castle" },
@@ -5405,7 +9455,304 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-krakow-tours-castle-history-v2.webp",
   },
   {
-    id: "poland-leczyca-royal-castle-history-v2",
+    id: "poland-leczyca-royal-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grodzisko w Tumie pod Łęczycą",
+                  "text": "Eine frühmittelalterliche Wallburg in Tum bei Łęczyca.",
+                  "category": "historical",
+                  "coords": [
+                        19.227271,
+                        52.053384
+                  ]
+            },
+            {
+                  "name": "Muzeum w Łęczycy",
+                  "text": "Ein Museum im königlichen Schloss von Łęczyca mit regionalen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        19.203532,
+                        52.05911
+                  ]
+            },
+            {
+                  "name": "Łęczycka Zagroda Chłopska w Kwiatkówku",
+                  "text": "Ein Freilichtmuseum in Kwiatkówek, das die traditionelle ländliche Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.229103,
+                        52.060213
+                  ]
+            },
+            {
+                  "name": "Muzeum Dziedzictwa Kościelnego",
+                  "text": "Ein Museum, das sich dem kirchlichen Erbe und religiöser Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.233682,
+                        52.05604
+                  ]
+            },
+            {
+                  "name": "Pomnik Bohaterów Bitwy nad Bzurą",
+                  "text": "Ein Denkmal zu Ehren der Helden der Schlacht an der Bzura.",
+                  "category": "historical",
+                  "coords": [
+                        19.201597,
+                        52.058675
+                  ]
+            },
+            {
+                  "name": "Grób nieznanego żołnierza",
+                  "text": "Ein symbolisches Grabmal zu Ehren der unbekannten gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        19.189177,
+                        52.05537
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Andrzeja Apostoła",
+                  "text": "Eine historische Pfarrkirche, die dem heiligen Apostel Andreas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.200374,
+                        52.05866
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Eine barocke Kirche und ein Kloster, die der Unbefleckten Empfängnis Mariens gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        19.201049,
+                        52.06149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grodzisko w Tumie pod Łęczycą",
+                  "text": "Kora középkori földvár Tum faluban, Łęczyca közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.227271,
+                        52.053384
+                  ]
+            },
+            {
+                  "name": "Muzeum w Łęczycy",
+                  "text": "Múzeum a łęczycai királyi várban, amely regionális gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.203532,
+                        52.05911
+                  ]
+            },
+            {
+                  "name": "Łęczycka Zagroda Chłopska w Kwiatkówku",
+                  "text": "Szabadtéri néprajzi múzeum Kwiatkówekben, amely a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.229103,
+                        52.060213
+                  ]
+            },
+            {
+                  "name": "Muzeum Dziedzictwa Kościelnego",
+                  "text": "Az egyházi örökségnek és vallási művészetnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.233682,
+                        52.05604
+                  ]
+            },
+            {
+                  "name": "Pomnik Bohaterów Bitwy nad Bzurą",
+                  "text": "Emlékmű a bzurai csata hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        19.201597,
+                        52.058675
+                  ]
+            },
+            {
+                  "name": "Grób nieznanego żołnierza",
+                  "text": "Az ismeretlen katona sírja, amely az elesett hősöknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        19.189177,
+                        52.05537
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Andrzeja Apostoła",
+                  "text": "Szent András apostolnak szentelt történelmi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        19.200374,
+                        52.05866
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "A Szűz Mária szeplőtelen fogantatásának szentelt barokk templom és kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        19.201049,
+                        52.06149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grodzisko w Tumie pod Łęczycą",
+                  "text": "O așezare fortificată timpurie din Tum, lângă Łęczyca.",
+                  "category": "historical",
+                  "coords": [
+                        19.227271,
+                        52.053384
+                  ]
+            },
+            {
+                  "name": "Muzeum w Łęczycy",
+                  "text": "Muzeul din castelul regal din Łęczyca, cu exponate regionale.",
+                  "category": "museum",
+                  "coords": [
+                        19.203532,
+                        52.05911
+                  ]
+            },
+            {
+                  "name": "Łęczycka Zagroda Chłopska w Kwiatkówku",
+                  "text": "Un muzeu în aer liber din Kwiatkówek, care prezintă arhitectura rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        19.229103,
+                        52.060213
+                  ]
+            },
+            {
+                  "name": "Muzeum Dziedzictwa Kościelnego",
+                  "text": "Un muzeu dedicat moștenirii bisericești și artei religioase.",
+                  "category": "museum",
+                  "coords": [
+                        19.233682,
+                        52.05604
+                  ]
+            },
+            {
+                  "name": "Pomnik Bohaterów Bitwy nad Bzurą",
+                  "text": "Un monument dedicat eroilor Bătăliei de pe Bzura.",
+                  "category": "historical",
+                  "coords": [
+                        19.201597,
+                        52.058675
+                  ]
+            },
+            {
+                  "name": "Grób nieznanego żołnierza",
+                  "text": "Mormântul soldatului necunoscut, în memoria celor căzuți în luptă.",
+                  "category": "historical",
+                  "coords": [
+                        19.189177,
+                        52.05537
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Andrzeja Apostoła",
+                  "text": "O biserică parohială istorică dedicată Sfântului Apostol Andrei.",
+                  "category": "religious",
+                  "coords": [
+                        19.200374,
+                        52.05866
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "O biserică și o mănăstire barocă dedicată Imaculatei Concepții.",
+                  "category": "religious",
+                  "coords": [
+                        19.201049,
+                        52.06149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grodzisko w Tumie pod Łęczycą",
+                  "text": "An early medieval stronghold located in Tum near Łęczyca.",
+                  "category": "historical",
+                  "coords": [
+                        19.227271,
+                        52.053384
+                  ]
+            },
+            {
+                  "name": "Muzeum w Łęczycy",
+                  "text": "A museum housed in the Royal Castle of Łęczyca featuring regional exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        19.203532,
+                        52.05911
+                  ]
+            },
+            {
+                  "name": "Łęczycka Zagroda Chłopska w Kwiatkówku",
+                  "text": "An open-air museum in Kwiatkówek showcasing traditional rural architecture.",
+                  "category": "museum",
+                  "coords": [
+                        19.229103,
+                        52.060213
+                  ]
+            },
+            {
+                  "name": "Muzeum Dziedzictwa Kościelnego",
+                  "text": "A museum dedicated to ecclesiastical heritage and religious art.",
+                  "category": "museum",
+                  "coords": [
+                        19.233682,
+                        52.05604
+                  ]
+            },
+            {
+                  "name": "Pomnik Bohaterów Bitwy nad Bzurą",
+                  "text": "A monument honoring the heroes of the Battle of the Bzura.",
+                  "category": "historical",
+                  "coords": [
+                        19.201597,
+                        52.058675
+                  ]
+            },
+            {
+                  "name": "Grób nieznanego żołnierza",
+                  "text": "The Tomb of the Unknown Soldier, commemorating fallen heroes.",
+                  "category": "historical",
+                  "coords": [
+                        19.189177,
+                        52.05537
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Andrzeja Apostoła",
+                  "text": "A historic parish church dedicated to Saint Andrew the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        19.200374,
+                        52.05866
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "A Baroque church and monastery dedicated to the Immaculate Conception of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        19.201049,
+                        52.06149
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PL",
     name: { de: "Königsschloss in Łęczyca", hu: "Łęczycai királyi vár", ro: "Castelul regal din Łęczyca", en: "Łęczyca Royal Castle" },
@@ -5775,6 +10122,78 @@ export const polandHistoryV2: POI[] = [
                         21.646529,
                         50.553038
                   ]
+            },
+            {
+                  "name": "Muzeum - Zamek Tarnowskich w Tarnobrzegu",
+                  "text": "Museum im Schloss Tarnowski, das die Geschichte der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.676697,
+                        50.57964
+                  ]
+            },
+            {
+                  "name": "Muzeum Przemysłu Siarkowego",
+                  "text": "Spezialmuseum zur Geschichte des Schwefelbergbaus in Tarnobrzeg.",
+                  "category": "museum",
+                  "coords": [
+                        21.683591,
+                        50.585785
+                  ]
+            },
+            {
+                  "name": "Regionalne Centrum Promocji Obszaru Natura 2000 Tarnobrzeska Dolina Wisły",
+                  "text": "Naturzentrum zur Förderung der biologischen Vielfalt im Weichseltal.",
+                  "category": "museum",
+                  "coords": [
+                        21.675404,
+                        50.578621
+                  ]
+            },
+            {
+                  "name": "Zespół przyrodniczo-krajobrazowy Las Zwierzyniec",
+                  "text": "Geschütztes Waldgebiet und Naturlandschaft in Tarnobrzeg.",
+                  "category": "natural",
+                  "coords": [
+                        21.712168,
+                        50.587343
+                  ]
+            },
+            {
+                  "name": "Zbiornik wieżowy",
+                  "text": "Historischer Wasserturm in Tarnobrzeg, ein markantes technisches Denkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        21.671481,
+                        50.56552
+                  ]
+            },
+            {
+                  "name": "Tyrolka - zjazd linowy",
+                  "text": "Eine Seilrutsche für Freizeitaktivitäten in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.664745,
+                        50.536619
+                  ]
+            },
+            {
+                  "name": "Dmuchany Park Wodny \" Waterfun\"",
+                  "text": "Aufblasbarer Wasserpark für Familienspaß in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.6404,
+                        50.552157
+                  ]
+            },
+            {
+                  "name": "Kręgi betonowe z okresu COP",
+                  "text": "Betonstrukturen aus der Zeit der Zentralen Industrieregion in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.713056,
+                        50.584635
+                  ]
             }
       ],
       "hu": [
@@ -5785,6 +10204,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.646529,
                         50.553038
+                  ]
+            },
+            {
+                  "name": "Muzeum - Zamek Tarnowskich w Tarnobrzegu",
+                  "text": "A Tarnowski-kastélyban található múzeum, amely a város történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.676697,
+                        50.57964
+                  ]
+            },
+            {
+                  "name": "Muzeum Przemysłu Siarkowego",
+                  "text": "Speciális múzeum a tarnobrzegi kénbányászat történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        21.683591,
+                        50.585785
+                  ]
+            },
+            {
+                  "name": "Regionalne Centrum Promocji Obszaru Natura 2000 Tarnobrzeska Dolina Wisły",
+                  "text": "Természeti központ a Visztula-völgy biológiai sokféleségének népszerűsítésére.",
+                  "category": "museum",
+                  "coords": [
+                        21.675404,
+                        50.578621
+                  ]
+            },
+            {
+                  "name": "Zespół przyrodniczo-krajobrazowy Las Zwierzyniec",
+                  "text": "Védett erdőterület és természeti táj Tarnobrzegben.",
+                  "category": "natural",
+                  "coords": [
+                        21.712168,
+                        50.587343
+                  ]
+            },
+            {
+                  "name": "Zbiornik wieżowy",
+                  "text": "Történelmi víztorony Tarnobrzegben, jellegzetes műszaki műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        21.671481,
+                        50.56552
+                  ]
+            },
+            {
+                  "name": "Tyrolka - zjazd linowy",
+                  "text": "Kötélpálya szabadidős tevékenységekhez Tarnobrzegben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.664745,
+                        50.536619
+                  ]
+            },
+            {
+                  "name": "Dmuchany Park Wodny \" Waterfun\"",
+                  "text": "Felfújható vízi park családi szórakozáshoz Tarnobrzegben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.6404,
+                        50.552157
+                  ]
+            },
+            {
+                  "name": "Kręgi betonowe z okresu COP",
+                  "text": "Betonstruktúrák a Központi Ipari Körzet idejéből Tarnobrzegben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.713056,
+                        50.584635
                   ]
             }
       ],
@@ -5797,6 +10288,78 @@ export const polandHistoryV2: POI[] = [
                         21.646529,
                         50.553038
                   ]
+            },
+            {
+                  "name": "Muzeum - Zamek Tarnowskich w Tarnobrzegu",
+                  "text": "Muzeu situat în Castelul Tarnowski, care prezintă istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        21.676697,
+                        50.57964
+                  ]
+            },
+            {
+                  "name": "Muzeum Przemysłu Siarkowego",
+                  "text": "Muzeu specializat în istoria mineritului de sulf din Tarnobrzeg.",
+                  "category": "museum",
+                  "coords": [
+                        21.683591,
+                        50.585785
+                  ]
+            },
+            {
+                  "name": "Regionalne Centrum Promocji Obszaru Natura 2000 Tarnobrzeska Dolina Wisły",
+                  "text": "Centru de natură pentru promovarea biodiversității în valea Vistulei.",
+                  "category": "museum",
+                  "coords": [
+                        21.675404,
+                        50.578621
+                  ]
+            },
+            {
+                  "name": "Zespół przyrodniczo-krajobrazowy Las Zwierzyniec",
+                  "text": "Zonă forestieră protejată și peisaj natural în Tarnobrzeg.",
+                  "category": "natural",
+                  "coords": [
+                        21.712168,
+                        50.587343
+                  ]
+            },
+            {
+                  "name": "Zbiornik wieżowy",
+                  "text": "Turn de apă istoric în Tarnobrzeg, un monument tehnic distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        21.671481,
+                        50.56552
+                  ]
+            },
+            {
+                  "name": "Tyrolka - zjazd linowy",
+                  "text": "O tiroliană pentru activități recreative în Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.664745,
+                        50.536619
+                  ]
+            },
+            {
+                  "name": "Dmuchany Park Wodny \" Waterfun\"",
+                  "text": "Parc acvatic gonflabil pentru distracție în familie în Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.6404,
+                        50.552157
+                  ]
+            },
+            {
+                  "name": "Kręgi betonowe z okresu COP",
+                  "text": "Structuri de beton din perioada Regiunii Industriale Centrale în Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.713056,
+                        50.584635
+                  ]
             }
       ],
       "en": [
@@ -5807,6 +10370,78 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.646529,
                         50.553038
+                  ]
+            },
+            {
+                  "name": "Historical Museum Of The City Of Tarnobrzeg",
+                  "text": "Museum located in the Tarnowski Castle, showcasing the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        21.676697,
+                        50.57964
+                  ]
+            },
+            {
+                  "name": "Muzeum Przemysłu Siarkowego",
+                  "text": "Specialized museum dedicated to the history of sulfur mining in Tarnobrzeg.",
+                  "category": "museum",
+                  "coords": [
+                        21.683591,
+                        50.585785
+                  ]
+            },
+            {
+                  "name": "Regionalne Centrum Promocji Obszaru Natura 2000 Tarnobrzeska Dolina Wisły",
+                  "text": "Nature center promoting the biodiversity of the Vistula valley.",
+                  "category": "museum",
+                  "coords": [
+                        21.675404,
+                        50.578621
+                  ]
+            },
+            {
+                  "name": "Zespół przyrodniczo-krajobrazowy Las Zwierzyniec",
+                  "text": "Protected forest area and natural landscape in Tarnobrzeg.",
+                  "category": "natural",
+                  "coords": [
+                        21.712168,
+                        50.587343
+                  ]
+            },
+            {
+                  "name": "Zbiornik wieżowy",
+                  "text": "Historical water tower in Tarnobrzeg, a distinctive technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        21.671481,
+                        50.56552
+                  ]
+            },
+            {
+                  "name": "Tyrolka - zjazd linowy",
+                  "text": "A zipline for recreational activities in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.664745,
+                        50.536619
+                  ]
+            },
+            {
+                  "name": "Dmuchany Park Wodny \" Waterfun\"",
+                  "text": "Inflatable water park for family fun in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.6404,
+                        50.552157
+                  ]
+            },
+            {
+                  "name": "Kręgi betonowe z okresu COP",
+                  "text": "Concrete structures from the Central Industrial Region period in Tarnobrzeg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.713056,
+                        50.584635
                   ]
             }
       ]
@@ -6350,7 +10985,304 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-chojnice-old-town-history-v2.webp",
   },
   {
-    id: "poland-kolo-castle-history-v2",
+    id: "poland-kolo-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek w Kole",
+                  "text": "Ruinen einer gotischen Burg am Fluss Warthe in Koło.",
+                  "category": "castle",
+                  "coords": [
+                        18.608453,
+                        52.197542
+                  ]
+            },
+            {
+                  "name": "Muzeum Technik Ceramicznych",
+                  "text": "Museum zur Geschichte der Keramikherstellung in Koło.",
+                  "category": "museum",
+                  "coords": [
+                        18.634402,
+                        52.194447
+                  ]
+            },
+            {
+                  "name": "Klasztor Ojców Bernardynów",
+                  "text": "Historisches Bernardinerkloster mit einer barocken Kirche in Koło.",
+                  "category": "religious",
+                  "coords": [
+                        18.633441,
+                        52.191228
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Städtisches Schwimmbad und Freizeitzentrum in Koło.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628328,
+                        52.208049
+                  ]
+            },
+            {
+                  "name": "Nowy Rynek",
+                  "text": "Ein zentraler Platz und Parkanlage in der Stadt Koło.",
+                  "category": "park",
+                  "coords": [
+                        18.629899,
+                        52.194375
+                  ]
+            },
+            {
+                  "name": "Willa Sejmik",
+                  "text": "Ein historisches Herrenhaus in Koło, das heute kulturell genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        18.635229,
+                        52.190809
+                  ]
+            },
+            {
+                  "name": "Pomnik żołnierzy Armii Czerwonej",
+                  "text": "Denkmal für die Soldaten der Roten Armee in Koło.",
+                  "category": "historical",
+                  "coords": [
+                        18.646774,
+                        52.203071
+                  ]
+            },
+            {
+                  "name": "Ratusz Miejski",
+                  "text": "Das historische Rathaus von Koło, ein Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632527,
+                        52.193545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Kole",
+                  "text": "Gótikus vár romjai a Warta folyó partján, Kołóban.",
+                  "category": "castle",
+                  "coords": [
+                        18.608453,
+                        52.197542
+                  ]
+            },
+            {
+                  "name": "Muzeum Technik Ceramicznych",
+                  "text": "Koło kerámiagyártásának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.634402,
+                        52.194447
+                  ]
+            },
+            {
+                  "name": "Klasztor Ojców Bernardynów",
+                  "text": "Történelmi bernátos kolostor barokk templommal Kołóban.",
+                  "category": "religious",
+                  "coords": [
+                        18.633441,
+                        52.191228
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Városi uszoda és szabadidőközpont Koło városában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628328,
+                        52.208049
+                  ]
+            },
+            {
+                  "name": "Nowy Rynek",
+                  "text": "Központi tér és park Koło városában.",
+                  "category": "park",
+                  "coords": [
+                        18.629899,
+                        52.194375
+                  ]
+            },
+            {
+                  "name": "Willa Sejmik",
+                  "text": "Történelmi kúria Kołóban, amely ma kulturális célokat szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        18.635229,
+                        52.190809
+                  ]
+            },
+            {
+                  "name": "Pomnik żołnierzy Armii Czerwonej",
+                  "text": "A Vörös Hadsereg katonáinak emlékműve Kołóban.",
+                  "category": "historical",
+                  "coords": [
+                        18.646774,
+                        52.203071
+                  ]
+            },
+            {
+                  "name": "Ratusz Miejski",
+                  "text": "Koło történelmi városházája, a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632527,
+                        52.193545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Kole",
+                  "text": "Ruinele unui castel gotic pe malul râului Warta în Koło.",
+                  "category": "castle",
+                  "coords": [
+                        18.608453,
+                        52.197542
+                  ]
+            },
+            {
+                  "name": "Muzeum Technik Ceramicznych",
+                  "text": "Muzeu dedicat istoriei producției de ceramică în Koło.",
+                  "category": "museum",
+                  "coords": [
+                        18.634402,
+                        52.194447
+                  ]
+            },
+            {
+                  "name": "Klasztor Ojców Bernardynów",
+                  "text": "Mănăstire istorică a bernardinilor cu o biserică barocă în Koło.",
+                  "category": "religious",
+                  "coords": [
+                        18.633441,
+                        52.191228
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Piscină municipală și centru de recreere în Koło.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628328,
+                        52.208049
+                  ]
+            },
+            {
+                  "name": "Nowy Rynek",
+                  "text": "O piață centrală și zonă de parc în orașul Koło.",
+                  "category": "park",
+                  "coords": [
+                        18.629899,
+                        52.194375
+                  ]
+            },
+            {
+                  "name": "Willa Sejmik",
+                  "text": "Un conac istoric în Koło, utilizat astăzi în scopuri culturale.",
+                  "category": "historical",
+                  "coords": [
+                        18.635229,
+                        52.190809
+                  ]
+            },
+            {
+                  "name": "Pomnik żołnierzy Armii Czerwonej",
+                  "text": "Monument dedicat soldaților Armatei Roșii în Koło.",
+                  "category": "historical",
+                  "coords": [
+                        18.646774,
+                        52.203071
+                  ]
+            },
+            {
+                  "name": "Ratusz Miejski",
+                  "text": "Primăria istorică din Koło, un simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632527,
+                        52.193545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek w Kole",
+                  "text": "Ruins of a Gothic castle on the Warta River in Koło.",
+                  "category": "castle",
+                  "coords": [
+                        18.608453,
+                        52.197542
+                  ]
+            },
+            {
+                  "name": "Muzeum Technik Ceramicznych",
+                  "text": "Museum dedicated to the history of ceramics production in Koło.",
+                  "category": "museum",
+                  "coords": [
+                        18.634402,
+                        52.194447
+                  ]
+            },
+            {
+                  "name": "Klasztor Ojców Bernardynów",
+                  "text": "Historical Bernardine monastery with a Baroque church in Koło.",
+                  "category": "religious",
+                  "coords": [
+                        18.633441,
+                        52.191228
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Municipal swimming pool and leisure centre in Koło.",
+                  "category": "recreational",
+                  "coords": [
+                        18.628328,
+                        52.208049
+                  ]
+            },
+            {
+                  "name": "Nowy Rynek",
+                  "text": "A central square and park area in the town of Koło.",
+                  "category": "park",
+                  "coords": [
+                        18.629899,
+                        52.194375
+                  ]
+            },
+            {
+                  "name": "Willa Sejmik",
+                  "text": "A historical manor house in Koło, now used for cultural purposes.",
+                  "category": "historical",
+                  "coords": [
+                        18.635229,
+                        52.190809
+                  ]
+            },
+            {
+                  "name": "Pomnik żołnierzy Armii Czerwonej",
+                  "text": "Monument dedicated to the soldiers of the Red Army in Koło.",
+                  "category": "historical",
+                  "coords": [
+                        18.646774,
+                        52.203071
+                  ]
+            },
+            {
+                  "name": "Ratusz Miejski",
+                  "text": "The historical town hall of Koło, a landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632527,
+                        52.193545
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "PL",
     name: { de: "Schloss in Koło", hu: "Kołói vár", ro: "Castelul din Koło", en: "Koło Castle" },
@@ -7358,7 +12290,304 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-krosno-old-town-history-v2.webp",
   },
   {
-    id: "poland-czersk-castle-history-v2",
+    id: "poland-czersk-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prywatne Muzeum Regionalne",
+                  "text": "Ein privates regionales ethnographisches Museum, das lokale Volkskultur und Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.205198,
+                        51.974356
+                  ]
+            },
+            {
+                  "name": "Zamek Książąt Mazowieckich",
+                  "text": "Die Ruinen einer gotischen Burg der masowischen Herzöge auf einem Hügel in Czersk.",
+                  "category": "castle",
+                  "coords": [
+                        21.234001,
+                        51.958027
+                  ]
+            },
+            {
+                  "name": "Muzeum Ojca Stanisława Papczyńskiego",
+                  "text": "Ein Museum, das dem heiligen Stanislaus Papczyński, dem Gründer der Marianer, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.20349,
+                        51.975975
+                  ]
+            },
+            {
+                  "name": "Góra Kalwaria",
+                  "text": "Eine Stadt und Touristenattraktion nahe Czersk, bekannt für ihre religiöse Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        21.21611,
+                        51.976654
+                  ]
+            },
+            {
+                  "name": "Pracownia Artystyczna",
+                  "text": "Ein Kunstatelier und eine Galerie, die zeitgenössische lokale Werke ausstellen.",
+                  "category": "museum",
+                  "coords": [
+                        21.215653,
+                        51.979461
+                  ]
+            },
+            {
+                  "name": "Pracownia Grupy Plastycznej i Galeria Wystawowa",
+                  "text": "Ein Kunstatelier und eine Galerie, die Werke einer lokalen Künstlergruppe präsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        21.216655,
+                        51.985408
+                  ]
+            },
+            {
+                  "name": "Upamiętnienie Batalionu AK \"Pięść\"",
+                  "text": "Ein Denkmal in Czersk, das an das Bataillon „Pięść“ der Polnischen Heimatarmee erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        21.21364,
+                        51.970536
+                  ]
+            },
+            {
+                  "name": "Dawna podziemna toaleta",
+                  "text": "Die Ruinen einer ehemaligen unterirdischen Toilettenanlage am Schloss Czersk.",
+                  "category": "historical",
+                  "coords": [
+                        21.219904,
+                        51.982244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prywatne Muzeum Regionalne",
+                  "text": "Magán néprajzi múzeum, amely a helyi népi kultúrát és tárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.205198,
+                        51.974356
+                  ]
+            },
+            {
+                  "name": "Zamek Książąt Mazowieckich",
+                  "text": "A mazóviai hercegek gótikus várának romjai egy dombtetőn, Czersk városában.",
+                  "category": "castle",
+                  "coords": [
+                        21.234001,
+                        51.958027
+                  ]
+            },
+            {
+                  "name": "Muzeum Ojca Stanisława Papczyńskiego",
+                  "text": "Szent Stanisław Papczyński, a mariánus rendalapító emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.20349,
+                        51.975975
+                  ]
+            },
+            {
+                  "name": "Góra Kalwaria",
+                  "text": "Település és látnivaló Czersk közelében, amely vallási történelméről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        21.21611,
+                        51.976654
+                  ]
+            },
+            {
+                  "name": "Pracownia Artystyczna",
+                  "text": "Művészeti műhely és galéria, amely kortárs helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.215653,
+                        51.979461
+                  ]
+            },
+            {
+                  "name": "Pracownia Grupy Plastycznej i Galeria Wystawowa",
+                  "text": "Művészeti műhely és galéria, amely egy helyi alkotócsoport munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.216655,
+                        51.985408
+                  ]
+            },
+            {
+                  "name": "Upamiętnienie Batalionu AK \"Pięść\"",
+                  "text": "A lengyel Honi Hadsereg „Pięść” zászlóaljának emléket állító műalkotás Czersk váránál.",
+                  "category": "historical",
+                  "coords": [
+                        21.21364,
+                        51.970536
+                  ]
+            },
+            {
+                  "name": "Dawna podziemna toaleta",
+                  "text": "Egy egykori föld alatti toalett maradványai Czersk várának területén.",
+                  "category": "historical",
+                  "coords": [
+                        21.219904,
+                        51.982244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prywatne Muzeum Regionalne",
+                  "text": "Un muzeu etnografic regional privat care prezintă cultura populară și artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        21.205198,
+                        51.974356
+                  ]
+            },
+            {
+                  "name": "Zamek Książąt Mazowieckich",
+                  "text": "Ruinele unui castel gotic al ducilor mazovieni, situat pe un deal din Czersk.",
+                  "category": "castle",
+                  "coords": [
+                        21.234001,
+                        51.958027
+                  ]
+            },
+            {
+                  "name": "Muzeum Ojca Stanisława Papczyńskiego",
+                  "text": "Un muzeu dedicat Sfântului Stanisław Papczyński, fondatorul Congregației Marianilor.",
+                  "category": "museum",
+                  "coords": [
+                        21.20349,
+                        51.975975
+                  ]
+            },
+            {
+                  "name": "Góra Kalwaria",
+                  "text": "Un oraș și atracție turistică lângă Czersk, cunoscut pentru istoria sa religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.21611,
+                        51.976654
+                  ]
+            },
+            {
+                  "name": "Pracownia Artystyczna",
+                  "text": "Un atelier de artă și o galerie care expune lucrări locale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        21.215653,
+                        51.979461
+                  ]
+            },
+            {
+                  "name": "Pracownia Grupy Plastycznej i Galeria Wystawowa",
+                  "text": "Un atelier de artă și o galerie care prezintă lucrările unui grup creativ local.",
+                  "category": "museum",
+                  "coords": [
+                        21.216655,
+                        51.985408
+                  ]
+            },
+            {
+                  "name": "Upamiętnienie Batalionu AK \"Pięść\"",
+                  "text": "Un monument dedicat Batalionului „Pięść” al Armatei Interioare poloneze, situat lângă castelul Czersk.",
+                  "category": "historical",
+                  "coords": [
+                        21.21364,
+                        51.970536
+                  ]
+            },
+            {
+                  "name": "Dawna podziemna toaleta",
+                  "text": "Ruinele unei foste toalete subterane situate în apropierea castelului Czersk.",
+                  "category": "historical",
+                  "coords": [
+                        21.219904,
+                        51.982244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prywatne Muzeum Regionalne",
+                  "text": "A private regional ethnographic museum showcasing local folk culture and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        21.205198,
+                        51.974356
+                  ]
+            },
+            {
+                  "name": "Zamek Książąt Mazowieckich",
+                  "text": "The ruins of a gothic castle of the Masovian Dukes, perched on a hill in Czersk.",
+                  "category": "castle",
+                  "coords": [
+                        21.234001,
+                        51.958027
+                  ]
+            },
+            {
+                  "name": "Muzeum Ojca Stanisława Papczyńskiego",
+                  "text": "A museum dedicated to Saint Stanislaus Papczyński, the founder of the Marian Fathers.",
+                  "category": "museum",
+                  "coords": [
+                        21.20349,
+                        51.975975
+                  ]
+            },
+            {
+                  "name": "Góra Kalwaria",
+                  "text": "A town and tourist attraction near Czersk, known for its religious history.",
+                  "category": "landmark",
+                  "coords": [
+                        21.21611,
+                        51.976654
+                  ]
+            },
+            {
+                  "name": "Pracownia Artystyczna",
+                  "text": "An art studio and gallery displaying contemporary local works.",
+                  "category": "museum",
+                  "coords": [
+                        21.215653,
+                        51.979461
+                  ]
+            },
+            {
+                  "name": "Pracownia Grupy Plastycznej i Galeria Wystawowa",
+                  "text": "An art studio and gallery showcasing works by a local creative group.",
+                  "category": "museum",
+                  "coords": [
+                        21.216655,
+                        51.985408
+                  ]
+            },
+            {
+                  "name": "Upamiętnienie Batalionu AK \"Pięść\"",
+                  "text": "A monument commemorating the \"Pięść\" Battalion of the Polish Home Army near Czersk Castle.",
+                  "category": "historical",
+                  "coords": [
+                        21.21364,
+                        51.970536
+                  ]
+            },
+            {
+                  "name": "Dawna podziemna toaleta",
+                  "text": "The ruins of a former underground toilet facility located at Czersk Castle.",
+                  "category": "historical",
+                  "coords": [
+                        21.219904,
+                        51.982244
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "PL",
     name: { de: "Burg Czersk", hu: "Czerski vár", ro: "Castelul din Czersk", en: "Czersk Castle" },
@@ -8889,6 +14118,69 @@ export const polandHistoryV2: POI[] = [
                         16.175645,
                         51.206302
                   ]
+            },
+            {
+                  "name": "Muzeum Miedzi",
+                  "text": "Das Kupfermuseum in Legnica widmet sich der Geschichte und Gewinnung von Kupfer in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.159401,
+                        51.208752
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski w Legnicy",
+                  "text": "Das Piastenschloss in Legnica ist eine der ältesten Burganlagen in Polen.",
+                  "category": "castle",
+                  "coords": [
+                        16.161828,
+                        51.211082
+                  ]
+            },
+            {
+                  "name": "Teatr im. Heleny Modrzejewskiej",
+                  "text": "Das Helena-Modrzejewska-Theater ist ein bedeutendes kulturelles Zentrum in der Altstadt von Legnica.",
+                  "category": "cultural",
+                  "coords": [
+                        16.160698,
+                        51.207443
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Der Kormoran ist ein Wasserpark und Erholungsgebiet in Legnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Glinki w Lasku Złotoryjskim",
+                  "text": "Glinki ist ein Naturschutzgebiet im Złotoryja-Wald bei Legnica.",
+                  "category": "natural",
+                  "coords": [
+                        16.144839,
+                        51.193924
+                  ]
+            },
+            {
+                  "name": "Podmokła łąka przy ul. Poznańskiej",
+                  "text": "Feuchtwiesen-Naturschutzgebiet in der Altstadt von Legnica.",
+                  "category": "natural",
+                  "coords": [
+                        16.166544,
+                        51.229454
+                  ]
+            },
+            {
+                  "name": "Centrum Witelona",
+                  "text": "Wissenschafts- und Technikmuseum im Zentrum von Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.167904,
+                        51.203811
+                  ]
             }
       ],
       "hu": [
@@ -8917,6 +14209,69 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         16.175645,
                         51.206302
+                  ]
+            },
+            {
+                  "name": "Muzeum Miedzi",
+                  "text": "A legnicai Rézmúzeum a régió rézbányászatának és feldolgozásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.159401,
+                        51.208752
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski w Legnicy",
+                  "text": "A legnicai Piast-vár Lengyelország egyik legrégebbi várkastélya.",
+                  "category": "castle",
+                  "coords": [
+                        16.161828,
+                        51.211082
+                  ]
+            },
+            {
+                  "name": "Teatr im. Heleny Modrzejewskiej",
+                  "text": "A Helena Modrzejewska Színház Legnica óvárosának egyik legfontosabb kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.160698,
+                        51.207443
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "A Kormoran egy vízipark és szabadidős központ Legnicában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Glinki w Lasku Złotoryjskim",
+                  "text": "A Glinki egy természetvédelmi terület a Legnica melletti Złotoryja-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        16.144839,
+                        51.193924
+                  ]
+            },
+            {
+                  "name": "Podmokła łąka przy ul. Poznańskiej",
+                  "text": "Nedves réti természetvédelmi terület Legnica óvárosában.",
+                  "category": "natural",
+                  "coords": [
+                        16.166544,
+                        51.229454
+                  ]
+            },
+            {
+                  "name": "Centrum Witelona",
+                  "text": "Tudományos és technológiai múzeum Legnica központjában.",
+                  "category": "museum",
+                  "coords": [
+                        16.167904,
+                        51.203811
                   ]
             }
       ],
@@ -8947,6 +14302,69 @@ export const polandHistoryV2: POI[] = [
                         16.175645,
                         51.206302
                   ]
+            },
+            {
+                  "name": "Muzeum Miedzi",
+                  "text": "Muzeul Cuprului din Legnica este dedicat istoriei și prelucrării cuprului în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.159401,
+                        51.208752
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski w Legnicy",
+                  "text": "Castelul Piast din Legnica este una dintre cele mai vechi fortificații din Polonia.",
+                  "category": "castle",
+                  "coords": [
+                        16.161828,
+                        51.211082
+                  ]
+            },
+            {
+                  "name": "Teatr im. Heleny Modrzejewskiej",
+                  "text": "Teatrul Helena Modrzejewska este un centru cultural important din centrul vechi al orașului Legnica.",
+                  "category": "cultural",
+                  "coords": [
+                        16.160698,
+                        51.207443
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Kormoran este un parc acvatic și o zonă de agrement situată în Legnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Glinki w Lasku Złotoryjskim",
+                  "text": "Glinki este o rezervație naturală situată în pădurea Złotoryja de lângă Legnica.",
+                  "category": "natural",
+                  "coords": [
+                        16.144839,
+                        51.193924
+                  ]
+            },
+            {
+                  "name": "Podmokła łąka przy ul. Poznańskiej",
+                  "text": "Rezervație naturală de pajiște umedă în centrul vechi din Legnica.",
+                  "category": "natural",
+                  "coords": [
+                        16.166544,
+                        51.229454
+                  ]
+            },
+            {
+                  "name": "Centrum Witelona",
+                  "text": "Muzeu de știință și tehnologie situat în Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.167904,
+                        51.203811
+                  ]
             }
       ],
       "en": [
@@ -8975,6 +14393,69 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         16.175645,
                         51.206302
+                  ]
+            },
+            {
+                  "name": "Muzeum Miedzi",
+                  "text": "The Copper Museum in Legnica is dedicated to the history and extraction of copper in the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.159401,
+                        51.208752
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski w Legnicy",
+                  "text": "The Piast Castle in Legnica is one of the oldest castle complexes in Poland.",
+                  "category": "castle",
+                  "coords": [
+                        16.161828,
+                        51.211082
+                  ]
+            },
+            {
+                  "name": "Teatr im. Heleny Modrzejewskiej",
+                  "text": "The Helena Modrzejewska Theatre is a significant cultural center in the Old Town of Legnica.",
+                  "category": "cultural",
+                  "coords": [
+                        16.160698,
+                        51.207443
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Kormoran is a water park and recreation area in Legnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Glinki w Lasku Złotoryjskim",
+                  "text": "Glinki is a nature reserve located in the Złotoryja forest near Legnica.",
+                  "category": "natural",
+                  "coords": [
+                        16.144839,
+                        51.193924
+                  ]
+            },
+            {
+                  "name": "Podmokła łąka przy ul. Poznańskiej",
+                  "text": "Wet meadow nature reserve in Legnica Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        16.166544,
+                        51.229454
+                  ]
+            },
+            {
+                  "name": "Centrum Witelona",
+                  "text": "Science and technology museum located in Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.167904,
+                        51.203811
                   ]
             }
       ]

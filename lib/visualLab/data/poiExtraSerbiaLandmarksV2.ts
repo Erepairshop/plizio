@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const serbiaLandmarksV2: POI[] = [
 
   {
-    id: "serbia-kapetan-misa-palace-landmarks-v2",
+    id: "serbia-kapetan-misa-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein historischer, tiefer Schacht in der Belgrader Festung mit einer beeindruckenden Wendeltreppe.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Die Grundmauern der einstigen Residenz des serbischen Despoten Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Museum präsentiert die politische und kulturelle Entwicklung Serbiens durch die Jahrhunderte.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Eine Sammlung von Exponaten zur Geschichte und Technik des Eisenbahnwesens in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Das Museum im ehemaligen Apartment des Nobelpreisträgers zeigt persönliche Gegenstände und Manuskripte.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Gewidmet dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Eine private Kunstgalerie, die moderne und zeitgenössische Werke serbischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ein Museum über die Entwicklung des Post- und Fernmeldewesens in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Egy történelmi, mély kút a belgrádi várban, lenyűgöző csigalépcsővel.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević szerb despota egykori rezidenciájának alapfalai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "A múzeum Szerbia politikai és kulturális fejlődését mutatja be az évszázadok során.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Kiállítási tárgyak gyűjteménye a szerbiai vasút történetéről és technológiájáról.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "A Nobel-díjas író egykori lakásában található múzeum személyes tárgyakat és kéziratokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Paja Jovanović jelentős szerb festőművész életének és munkásságának szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánművészeti galéria, amely szerb művészek modern és kortárs alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Múzeum a szerbiai posta- és távközlési szolgáltatások fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică adâncă în cetatea Belgradului, cu o scară în spirală impresionantă.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Fundatiile fostei reședințe a despotului sârb Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul prezintă dezvoltarea politică și culturală a Serbiei de-a lungul secolelor.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "O colecție de exponate despre istoria și tehnologia căilor ferate din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeul din fostul apartament al laureatului Nobel expune obiecte personale și manuscrise.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Dedicat vieții și operei importantului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "O galerie de artă privată care expune lucrări moderne și contemporane ale artiștilor sârbi.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Un muzeu despre dezvoltarea serviciilor poștale și de telecomunicații din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A historic, deep shaft in the Belgrade Fortress with an impressive spiral staircase.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "The foundations of the former residence of the Serbian Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "The museum presents the political and cultural development of Serbia through the centuries.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A collection of exhibits on the history and technology of railways in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "The museum in the former apartment of the Nobel laureate displays personal items and manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "Dedicated to the life and work of the prominent Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art gallery exhibiting modern and contemporary works by Serbian artists.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "A museum about the development of postal and telecommunication services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RS",
     name: { de: "Kapetan-Miša-Palast", hu: "Kapetan-Miša-palota", ro: "Palatul Kapetan-Miša", en: "Kapetan-Miša's Palace" },
@@ -48,7 +345,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-kapetan-misa-palace-landmarks-v2.webp",
   },
   {
-    id: "serbia-serbian-national-museum-landmarks-v2",
+    id: "serbia-serbian-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein tiefer historischer Brunnen innerhalb der Festung Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Archäologische Überreste der mittelalterlichen Burg von Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Museum in Belgrad, das der Geschichte des serbischen Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Museum in Belgrad, das die Geschichte des Eisenbahnwesens in Serbien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das dem Leben und Werk des Malers Paja Jovanović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum in Belgrad mit zeitgenössischen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Museum zur Geschichte der Post, des Telegrafen und des Telefons in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Egy mély történelmi kút a belgrádi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević despota középkori várának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Belgrádi múzeum, amelyet a szerb nép történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Belgrádi múzeum, amely a szerbiai vasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Paja Jovanović festőművész életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánkézben lévő művészeti múzeum Belgrádban, kortárs alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică adâncă situată în incinta Cetății Belgradului.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeu din Belgrad dedicat istoriei poporului sârb.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Muzeu din Belgrad care prezintă istoria căilor ferate din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeu memorial dedicat laureatului Premiului Nobel pentru Literatură, Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat vieții și operei pictorului Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Muzeu dedicat istoriei poștei, telegrafului și telefonului din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A deep historic well located within the Belgrade Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological remains of the medieval castle of Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "Museum in Belgrade dedicated to the history of the Serbian people.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Museum in Belgrade showcasing the history of railways in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "Memorial museum dedicated to the Nobel Prize-winning author Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the life and work of the painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum in Belgrade featuring contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "Museum dedicated to the history of post, telegraph, and telephone in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Serbien", hu: "Szerbia Nemzeti Múzeuma", ro: "Muzeul Național al Serbiei", en: "National Museum of Serbia" },
@@ -93,7 +687,268 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-serbian-national-museum-landmarks-v2.webp",
   },
   {
-    id: "serbia-subotica-city-hall-landmarks-v2",
+    id: "serbia-subotica-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Das Haupttheater von Subotica, ein bedeutendes kulturelles Zentrum der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prächtiger Jugendstil-Palast in Subotica, entworfen vom Architekten Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Das Stadtmuseum von Subotica, das Exponate zur lokalen Geschichte und Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein spezialisiertes Museum in Subotica, das eine Sammlung wertvoller Porzellanstücke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das monumentale Rathaus von Subotica, ein Meisterwerk des ungarischen Jugendstils.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung der Bunjewatzen-Traditionen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "Szabadka nemzeti színháza, a város egyik legfontosabb kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Szabadka impozáns szecessziós palotája, melyet Raichle Ferenc építész tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "Szabadka városi múzeuma, amely a helyi történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Speciális múzeum Szabadkán, amely értékes porcelángyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Szabadka monumentális városháza, a magyar szecessziós építészet remekműve.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Szabadkai kulturális központ, amely a bunyevác hagyományok ápolásával foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Emlékmű Szabadkán, amelyet Ivan Sarić repülési úttörő tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Teatrul Național din Subotica, un centru cultural major al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un splendid palat în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Muzeul orașului Subotica, ce prezintă exponate legate de istoria și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu specializat din Subotica care expune o colecție de porțelanuri valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria monumentală din Subotica, o capodoperă a stilului Secession maghiar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Centru cultural din Subotica dedicat păstrării tradițiilor comunității bunjevac.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument în Subotica ridicat în onoarea pionierului aviației Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "The National Theatre of Subotica, a major cultural institution in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "The City Museum of Subotica, showcasing exhibits on local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A specialized museum in Subotica displaying a collection of valuable porcelain.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The monumental Town Hall of Subotica, a masterpiece of Hungarian Art Nouveau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural center in Subotica dedicated to preserving the traditions of the Bunjevci community.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument in Subotica honoring the aviation pioneer Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RS",
     name: { de: "Rathaus Subotica", hu: "Szabadkai városháza", ro: "Primăria Subotica", en: "Subotica City Hall" },
@@ -138,7 +993,52 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-subotica-city-hall-landmarks-v2.webp",
   },
   {
-    id: "serbia-lazarevac-memorial-church-landmarks-v2",
+    id: "serbia-lazarevac-memorial-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moderna galerija",
+                  "text": "Eine Kunstgalerie, die moderne und zeitgenössische Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.260437,
+                        44.380748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moderna galerija",
+                  "text": "Modern és kortárs művészeti alkotásokat bemutató művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        20.260437,
+                        44.380748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moderna galerija",
+                  "text": "O galerie de artă care expune lucrări artistice moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        20.260437,
+                        44.380748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moderna galerija",
+                  "text": "An art gallery showcasing modern and contemporary artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        20.260437,
+                        44.380748
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Gedenkkirche in Lazarevac", hu: "Lazarevaci emléktemplom", ro: "Biserica memorială din Lazarevac", en: "Lazarevac Memorial Church" },
@@ -318,7 +1218,196 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-belgrade-national-theater-landmarks-v2.webp",
   },
   {
-    id: "serbia-kragujevac-old-parliament-landmarks-v2",
+    id: "serbia-kragujevac-old-parliament-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Ein Gedenkmuseum, das den Opfern des Massakers von Kragujevac im Oktober 1941 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Ein Gedenkmonument im Gedenkpark „Kragujevacer Oktober“.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "Eine Gedenkskulptur im Gedenkpark „Kragujevacer Oktober“.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "„Unterbrochener Flug“ Denkmal für die ermordeten Schüler:innen und Lehrer:innen",
+                  "text": "Ein bekanntes Denkmal für die hingerichteten Schüler und Lehrer des Massakers von Kragujevac.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Ein weitläufiger Gedenkpark zum Gedenken an die Opfer des Massakers von 1941 in Kragujevac.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Az 1941 októberi kragujevaci mészárlás áldozatainak szentelt emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Emlékmű a Kragujevaci Október Emlékpark területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "Emlékszobor a Kragujevaci Október Emlékparkban.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "Споменик „Прекинут лет”",
+                  "text": "Híres emlékmű a kragujevaci mészárlás során kivégzett diákok és tanárok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Hatalmas emlékpark az 1941-es kragujevaci mészárlás áldozatainak emlékére.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Un muzeu memorial dedicat victimelor masacrului de la Kragujevac din octombrie 1941.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Un monument memorial situat în Parcul Memorial Octombrie din Kragujevac.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "O sculptură memorială în Parcul Memorial Octombrie din Kragujevac.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "Споменик „Прекинут лет”",
+                  "text": "Un monument celebru dedicat elevilor și profesorilor executați în timpul masacrului de la Kragujevac.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Un vast parc memorial care comemorează victimele masacrului din 1941 de la Kragujevac.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum 21 October",
+                  "text": "A memorial museum dedicated to the victims of the Kragujevac massacre in October 1941.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Monument \"Ascension\"",
+                  "text": "A memorial monument located within the Kragujevac October Memorial Park.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "\"Against evil\" Monument",
+                  "text": "A memorial sculpture in the Kragujevac October Memorial Park.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "\"Broken Wing\" Monument",
+                  "text": "A famous memorial dedicated to the students and teachers executed during the Kragujevac massacre.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Memorial Park \"Kragujevac October\"",
+                  "text": "A large memorial park commemorating the victims of the 1941 massacre in Kragujevac.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Altes Parlamentsgebäude Kragujevac", hu: "Kragujevaci régi parlament", ro: "Vechea clădire a parlamentului din Kragujevac", en: "Old Parliament Building Kragujevac" },
@@ -363,7 +1452,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-kragujevac-old-parliament-landmarks-v2.webp",
   },
   {
-    id: "serbia-stari-dvor-belgrade-landmarks-v2",
+    id: "serbia-stari-dvor-belgrade-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein rätselhafter historischer Brunnen in der Festung von Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Überreste der mittelalterlichen Burg aus dem 15. Jahrhundert, erbaut von Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Ein Museum in Belgrad, das der reichen politischen und kulturellen Geschichte Serbiens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Dieses Museum zeigt die Geschichte und Entwicklung des Eisenbahnsystems in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ein Museum, das dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das Werke und persönliche Gegenstände des berühmten serbischen Malers Paja Jovanović zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum in Belgrad mit einer bedeutenden Sammlung zeitgenössischer serbischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Rejtélyes történelmi kút a belgrádi vár területén.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Despota Stefan Lazarević 15. századi középkori várának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Szerbia gazdag politikai és kulturális történelmének szentelt múzeum Belgrádban.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "A szerbiai vasúti rendszer történetét és fejlődését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Az irodalmi Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "A neves szerb festő, Paja Jovanović műveit és személyes tárgyait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánmúzeum Belgrádban, amely a kortárs szerb művészet jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică enigmatică situată în Cetatea Belgradului.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ruinele castelului medieval din secolul al XV-lea construit de despotul Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Un muzeu din Belgrad dedicat istoriei politice și culturale bogate a Serbiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Acest muzeu prezintă istoria și dezvoltarea sistemului feroviar din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Un muzeu dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu care prezintă lucrările și obiectele personale ale renumitului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu privat din Belgrad care găzduiește o colecție semnificativă de artă sârbă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "An enigmatic historic well located within the Belgrade Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Ruins of the 15th-century medieval castle built by Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "A museum in Belgrade dedicated to the rich political and cultural history of Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "This museum showcases the history and development of the railway system in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "A museum dedicated to the life and work of the Nobel Prize-winning writer Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum showcasing the works and personal items of the renowned Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum in Belgrade featuring a significant collection of contemporary Serbian works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "A museum documenting the history of postal, telegraph, and telephone services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RS",
     name: { de: "Altes Schloss Belgrad", hu: "Ópalota, Belgrád", ro: "Vechiul Palat din Belgrad", en: "Old Palace, Belgrade" },
@@ -408,7 +1794,196 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-stari-dvor-belgrade-landmarks-v2.webp",
   },
   {
-    id: "serbia-niš-fortress-landmarks-v2",
+    id: "serbia-niš-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Eine gut erhaltene osmanische Festung in Niš, die bedeutende historische Epochen der Stadt widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Archäologische Überreste einer spätantiken Palastanlage innerhalb der Festung Niš.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Die Überreste eines historischen türkischen Bades aus der osmanischen Zeit in der Festung Niš.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archäologische Sammlung des Nationalmuseum Niš",
+                  "text": "Eine Ausstellungshalle in der Festung Niš, die archäologische Fundstücke der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Ein Gedenkmuseum auf dem Areal eines ehemaligen Lagers aus dem Zweiten Weltkrieg in Niš.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Jó állapotban fennmaradt oszmán erőd Nišben, amely a város jelentős történelmi korszakait tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Késő antik palotakomplexum régészeti maradványai a niši erődben.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Egy oszmán kori történelmi török fürdő maradványai a niši erődben.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "Kiállítóterem a niši erődben, amely a régió régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Emlékmúzeum egy egykori második világháborús tábor területén Nišben.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "O fortăreață otomană bine conservată în Niš, care reflectă epoci istorice importante ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Vestigii arheologice ale unui complex palatinal din antichitatea târzie, în interiorul cetății Niš.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Rămășițele unei băi turcești istorice din perioada otomană, în interiorul cetății Niš.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "O sală de expoziție în cetatea Niš, care prezintă descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Un muzeu memorial situat pe locul unui fost lagăr din al Doilea Război Mondial în Niš.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niš Fortress",
+                  "text": "A well-preserved Ottoman fortress in Niš, reflecting significant historical eras of the city.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "The Octagon Palace",
+                  "text": "Archaeological remains of a late antique palace complex within the Niš Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Turkish bath",
+                  "text": "The remains of a historic Turkish bath from the Ottoman period in the Niš Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archaeological Hall",
+                  "text": "An exhibition hall in the Niš Fortress displaying archaeological artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Memorial complex „12th February“",
+                  "text": "A memorial museum on the grounds of a former WWII camp in Niš.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Festung Niš", hu: "Nisi erőd", ro: "Cetatea Niș", en: "Niš Fortress" },
@@ -453,7 +2028,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-niš-fortress-landmarks-v2.webp",
   },
   {
-    id: "serbia-kralj-petar-statue-landmarks-v2",
+    id: "serbia-kralj-petar-statue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Der Römische Brunnen ist eine historische Sehenswürdigkeit in der Belgrader Festung.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Diese archäologische Stätte zeigt die Überreste der Burg von Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Dieses Museum in Belgrad widmet sich der reichen Geschichte Serbiens von der Antike bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ein Museum, das die technische Entwicklung und das Erbe des serbischen Eisenbahnwesens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Die ehemalige Wohnung des Nobelpreisträgers Ivo Andrić dient heute als Gedenkstätte für sein Leben und Werk.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum in Belgrad, das dem Leben und den Werken des bedeutenden serbischen Realisten Paja Jovanović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Museum für moderne Kunst, das eine bedeutende Sammlung serbischer und internationaler Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Dieses Museum zeigt die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "A Római kút egy történelmi látványosság a belgrádi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ez a régészeti helyszín Stefan Lazarević despota várának maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Ez a belgrádi múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "A szerb vasúti közlekedés technikai fejlődését és örökségét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ivo Andrić Nobel-díjas író egykori lakása ma életét és munkásságát bemutató emlékhely.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Belgrádi múzeum, amely a jelentős szerb realista festő, Paja Jovanović életének és műveinek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magán modern művészeti múzeum, amely jelentős szerb és nemzetközi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ez a múzeum a szerbiai posta, távíró és telefon történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Fântâna Romană este o atracție istorică din interiorul cetății Belgradului.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Acest sit arheologic prezintă rămășițele castelului despotului Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Acest muzeu din Belgrad este dedicat istoriei bogate a Serbiei, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Un muzeu care documentează dezvoltarea tehnică și moștenirea sistemului feroviar sârb.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Fosta locuință a laureatului premiului Nobel Ivo Andrić servește astăzi ca memorial dedicat vieții și operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu din Belgrad dedicat vieții și operelor importantului pictor realist sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu privat de artă modernă care expune o colecție importantă de lucrări sârbești și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Acest muzeu prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "The Roman Well is a historic attraction located within the Belgrade Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "This archaeological site showcases the remains of Despot Stefan Lazarevic's castle.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "This museum in Belgrade is dedicated to the rich history of Serbia from antiquity to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A museum documenting the technical development and heritage of the Serbian railway system.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "The former apartment of Nobel laureate Ivo Andrić now serves as a memorial to his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum in Belgrade dedicated to the life and works of the prominent Serbian realist painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private modern art museum showcasing a significant collection of Serbian and international works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "This museum showcases the history of postal, telegraph, and telephone services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "RS",
     name: { de: "König-Peter-I.-Denkmal", hu: "I. Péter király emlékműve", ro: "Statuia regelui Petru I", en: "King Peter I Monument" },
@@ -498,7 +2370,268 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-kralj-petar-statue-landmarks-v2.webp",
   },
   {
-    id: "serbia-subotica-synagogue-landmarks-v2",
+    id: "serbia-subotica-synagogue-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Das prächtige Nationaltheater in Subotica, bekannt für seine klassizistische Architektur mit markanten Säulen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prunkvolles Jugendstil-Palais in Subotica, entworfen vom Architekten Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Das Stadtmuseum von Subotica, das in einem historischen Gebäude wertvolle Sammlungen zur Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein spezialisiertes Museum in Subotica, das der Kunst und Geschichte der Porzellanherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils und Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung und Förderung der bunjewatzischen Kultur widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "A szabadkai Nemzeti Színház impozáns épülete, amely klasszicista oszlopsoráról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Pompás szecessziós palota Szabadkán, amelyet Raichle Ferenc építész tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "Szabadka városi múzeuma, amely egy történelmi épületben mutatja be a régió értékes gyűjteményeit.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Szabadkai szakmúzeum, amelyet a porcelánkészítés művészetének és történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Szabadka városházája a magyar szecesszió remekműve és a város jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Szabadkai kulturális központ, amely a bunyevác kultúra megőrzésével és népszerűsítésével foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Sarić János, a szabadkai repülés úttörője tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Teatrul Național din Subotica, o clădire grandioasă cunoscută pentru coloanele sale clasiciste.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat somptuos în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Muzeul orașului Subotica, care expune colecții valoroase despre regiune într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu specializat din Subotica, dedicat artei și istoriei fabricării porțelanului.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria din Subotica este o capodoperă a stilului Art Nouveau maghiar și un simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru cultural din Subotica dedicat conservării și promovării culturii bunjevačke.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument ridicat în cinstea lui Ivan Sarić, un pionier al aviației din Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "The Subotica National Theatre, a grand building known for its Classicist columns.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "The Subotica City Museum, showcasing valuable regional collections in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A specialized museum in Subotica dedicated to the art and history of porcelain making.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The Subotica Town Hall is a masterpiece of Hungarian Art Nouveau and a landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural centre in Subotica dedicated to preserving and promoting Bunjevac culture.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument honoring Ivan Sarić, an aviation pioneer from Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Synagoge von Subotica", hu: "Szabadkai zsinagóga", ro: "Sinagoga din Subotica", en: "Subotica Synagogue" },
@@ -768,7 +2901,268 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-pirot-momcilov-grad-landmarks-v2.webp",
   },
   {
-    id: "serbia-subotica-raichle-palace-landmarks-v2",
+    id: "serbia-subotica-raichle-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Ein ikonisches Theatergebäude in Subotica mit einer monumentalen neoklassizistischen Fassade.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prächtiger Jugendstil-Palast in Subotica, in dem eine Galerie für moderne Kunst untergebracht ist.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Ein Museum, das das archäologische, historische und künstlerische Erbe von Subotica zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein spezialisiertes Museum in Subotica, das Sammlungen von feinem Porzellan zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Ein Meisterwerk des ungarischen Jugendstils und das Wahrzeichen von Subotica.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung des Erbes der Bunjewatzen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal in Subotica für den lokalen Luftfahrtpionier Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "Szabadkai színházépület monumentális neoklasszicista homlokzattal.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Egy pompás szecessziós palota Szabadkán, amely modern művészeti galériának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "Szabadka régészeti, történelmi és művészeti örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Szabadkai szakmúzeum, amely finom porcelángyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A magyar szecesszió remekműve és Szabadka jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A bunyevác népcsoport örökségének megőrzését szolgáló kulturális központ Szabadkán.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Emlékmű Szabadkán, amelyet a helyi repülés úttörőjének, Sarić Ivánnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "O clădire emblematică de teatru din Subotica, cu o fațadă neoclasică monumentală.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat Art Nouveau magnific din Subotica, care găzduiește o galerie de artă modernă.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Un muzeu care prezintă moștenirea arheologică, istorică și artistică a orașului Subotica.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu specializat din Subotica care expune colecții de porțelan fin.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "O capodoperă a stilului Art Nouveau maghiar, servind drept simbol al orașului Subotica.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru cultural dedicat conservării moștenirii poporului bunjevac din Subotica.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument în Subotica dedicat pionierului aviației locale Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "An iconic theater building in Subotica with a monumental neoclassical facade.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, housing a modern art gallery.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "A museum showcasing the archaeological, historical, and artistic heritage of Subotica.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A specialized museum in Subotica displaying collections of fine porcelain.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "A masterpiece of Hungarian Art Nouveau, serving as the landmark of Subotica.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural center dedicated to preserving the heritage of the Bunjevci people in Subotica.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument in Subotica dedicated to the local aviation pioneer Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RS",
     name: { de: "Raichle-Palast Subotica", hu: "Raichle-palota, Szabadka", ro: "Palatul Raichle din Subotica", en: "Raichle Palace, Subotica" },
@@ -813,7 +3207,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-subotica-raichle-palace-landmarks-v2.webp",
   },
   {
-    id: "serbia-belgrade-ethnographic-museum-landmarks-v2",
+    id: "serbia-belgrade-ethnographic-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein geheimnisvoller historischer tiefer Brunnen in der Belgrader Festung Kalemegdan, der trotz seines Namens vermutlich im 18. Jahrhundert erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Die archäologischen Überreste der mittelalterlichen Burg, die Despot Stefan Lazarević im 15. Jahrhundert errichten ließ.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Ein Museum, das der Bewahrung und Präsentation der nationalen Geschichte und des kulturellen Erbes Serbiens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ein Museum in Belgrad, das die Entwicklung des Eisenbahnsystems und historische Lokomotiven in Serbien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ein Gedenkmuseum in der ehemaligen Wohnung von Ivo Andrić, dem jugoslawischen Nobelpreisträger für Literatur.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das dem Leben und Werk von Paja Jovanović gewidmet ist, einem der berühmtesten realistischen Maler Serbiens.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum in Belgrad mit Werken moderner serbischer und internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Rejtélyes történelmi mély kút a belgrádi Kalemegdan erődben, amelyet neve ellenére valószínűleg a 18. században építettek.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević despota által a 15. században építtetett középkori vár régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Szerbia nemzeti történelmének és kulturális örökségének megőrzésére és bemutatására szolgáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Belgrádi múzeum, amely a vasúti rendszer fejlődését és a történelmi mozdonyokat mutatja be Szerbiában.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas jugoszláv író egykori lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Paja Jovanović, az egyik leghíresebb szerb realista festő életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánkézben lévő művészeti múzeum Belgrádban, amely modern szerb és nemzetközi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Szerbia postai, távíró- és telefonszolgáltatásainak történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână adâncă istorică misterioasă din Cetatea Kalemegdan din Belgrad, care, în ciuda numelui, a fost probabil construită în secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Rămășițele arheologice ale castelului medieval construit de despotul Stefan Lazarević în secolul al XV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Un muzeu dedicat conservării și prezentării istoriei naționale și moștenirii culturale a Serbiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Un muzeu din Belgrad care prezintă dezvoltarea sistemului feroviar și locomotivele istorice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Un muzeu memorial situat în fostul apartament al lui Ivo Andrić, romancierul iugoslav laureat al Premiului Nobel.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat vieții și operei lui Paja Jovanović, unul dintre cei mai faimoși pictori realiști din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă privat din Belgrad, care prezintă lucrări ale artiștilor sârbi și internaționali moderni.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Un muzeu care explorează istoria serviciilor poștale, de telegraf și de telefonie din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A mysterious historic deep well in Belgrade's Kalemegdan Fortress, despite the name, likely built in the 18th century.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "The archaeological remains of the medieval castle built by Despot Stefan Lazarević in the 15th century.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "A museum dedicated to the preservation and presentation of Serbia's national history and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A museum in Belgrade showcasing the development of the railway system and historic locomotives in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "A memorial museum located in the former apartment of Ivo Andrić, the Nobel Prize-winning Yugoslav novelist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the life and work of Paja Jovanović, one of Serbia's most famous realistic painters.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum in Belgrade featuring works by modern Serbian and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "A museum exploring the history of postal, telegraph, and telephone services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RS",
     name: { de: "Ethnographisches Museum Belgrad", hu: "Belgrádi Néprajzi Múzeum", ro: "Muzeul Etnografic din Belgrad", en: "Ethnographic Museum Belgrade" },
@@ -1038,7 +3729,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-subotica-national-theater-landmarks-v2.webp",
   },
   {
-    id: "serbia-belgrade-terazije-fountain-landmarks-v2",
+    id: "serbia-belgrade-terazije-fountain-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein tiefer und geheimnisvoller Brunnen innerhalb der Festung Belgrad, der aus dem 18. Jahrhundert stammt.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Archäologische Überreste der mittelalterlichen Residenz von Despot Stefan Lazarević in Belgrad.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Museum präsentiert die reiche politische und kulturelle Geschichte Serbiens von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ein Museum in Belgrad, das die Entwicklung des Schienenverkehrs und historischer Lokomotiven dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Das Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum in Belgrad, das Werke der modernen und zeitgenössischen serbischen Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Das Postmuseum in Belgrad zeigt die Geschichte des Post- und Telekommunikationswesens in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Mély és rejtélyes kút a belgrádi várban, amely a 18. századból származik.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević despota középkori belgrádi rezidenciájának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "A múzeum Szerbia gazdag politikai és kulturális történelmét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Belgrádi múzeum, amely a vasúti közlekedés és a történelmi mozdonyok fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Andrić Ivo Nobel-díjas író emlékmúzeuma egykori belgrádi lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "A híres szerb festőművész, Paja Jovanović életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Belgrádi magánművészeti múzeum, amely modern és kortárs szerb képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A belgrádi postamúzeum Szerbia posta- és távközlési történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână adâncă și misterioasă din incinta cetății Belgradului, datând din secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Vestigii arheologice ale reședinței medievale a despotului Stefan Lazarević din Belgrad.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul prezintă istoria politică și culturală bogată a Serbiei, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Un muzeu din Belgrad care documentează dezvoltarea transportului feroviar și a locomotivelor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeul memorial al scriitorului laureat al Premiului Nobel, Ivo Andrić, în fostul său apartament din Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări de artă modernă și contemporană sârbă.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Muzeul poștei din Belgrad prezintă istoria serviciilor poștale și de telecomunicații din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A deep and mysterious well within the Belgrade Fortress, dating back to the 18th century.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological remains of the medieval residence of Despot Stefan Lazarevic in Belgrade.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "The museum presents the rich political and cultural history of Serbia from antiquity to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A museum in Belgrade documenting the development of rail transport and historical locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "The memorial museum of the Nobel Prize-winning writer Ivo Andric in his former Belgrade apartment.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the life and work of the famous Serbian painter Paja Jovanovic.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum in Belgrade showcasing works of modern and contemporary Serbian art.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "The postal museum in Belgrade presents the history of postal and telecommunication services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "RS",
     name: { de: "Terazije-Brunnen Belgrad", hu: "Terazije-kút, Belgrád", ro: "Fântâna Terazije din Belgrad", en: "Terazije Fountain, Belgrade" },
@@ -1128,7 +4116,124 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-negotin-mokranjac-museum-landmarks-v2.webp",
   },
   {
-    id: "serbia-topola-karadjordje-church-landmarks-v2",
+    id: "serbia-topola-karadjordje-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Winery",
+                  "text": "Ein historisches Weingut und Gebäude in der Nähe der Karadjordje-Kirche.",
+                  "category": "castle",
+                  "coords": [
+                        20.688092,
+                        44.241563
+                  ]
+            },
+            {
+                  "name": "Kulturni Centar Topola",
+                  "text": "Ein lokales Kulturzentrum in Topola bei der Karadjordje-Kirche.",
+                  "category": "cultural",
+                  "coords": [
+                        20.677902,
+                        44.25467
+                  ]
+            },
+            {
+                  "name": "Spomenik",
+                  "text": "Ein Denkmal in Topola in der Nähe der Karadjordje-Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        20.682784,
+                        44.250709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Winery",
+                  "text": "Történelmi borászat és épület a Karagyorgye-templom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.688092,
+                        44.241563
+                  ]
+            },
+            {
+                  "name": "Kulturni Centar Topola",
+                  "text": "Helyi kulturális központ Topolán, a Karagyorgye-templomnál.",
+                  "category": "cultural",
+                  "coords": [
+                        20.677902,
+                        44.25467
+                  ]
+            },
+            {
+                  "name": "Spomenik",
+                  "text": "Emlékmű Topolán a Karagyorgye-templom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.682784,
+                        44.250709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Winery",
+                  "text": "O vinărie istorică și clădire lângă Biserica Karagheorghe.",
+                  "category": "castle",
+                  "coords": [
+                        20.688092,
+                        44.241563
+                  ]
+            },
+            {
+                  "name": "Kulturni Centar Topola",
+                  "text": "Un centru cultural local în Topola, lângă Biserica Karagheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        20.677902,
+                        44.25467
+                  ]
+            },
+            {
+                  "name": "Spomenik",
+                  "text": "Un monument în Topola, aflat în apropierea Bisericii Karagheorghe.",
+                  "category": "historical",
+                  "coords": [
+                        20.682784,
+                        44.250709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Winery",
+                  "text": "A historical winery and building located near the Karadjordje Church.",
+                  "category": "castle",
+                  "coords": [
+                        20.688092,
+                        44.241563
+                  ]
+            },
+            {
+                  "name": "Kulturni Centar Topola",
+                  "text": "A local cultural center in Topola, situated by the Karadjordje Church.",
+                  "category": "cultural",
+                  "coords": [
+                        20.677902,
+                        44.25467
+                  ]
+            },
+            {
+                  "name": "Spomenik",
+                  "text": "A monument in Topola located near the Karadjordje Church.",
+                  "category": "historical",
+                  "coords": [
+                        20.682784,
+                        44.250709
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Karadjordje-Kirche Topola", hu: "Karađorđe-templom, Topola", ro: "Biserica Karadjordje din Topola", en: "Karadjordje Church, Topola" },
@@ -1173,7 +4278,196 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-topola-karadjordje-church-landmarks-v2.webp",
   },
   {
-    id: "serbia-zrenjanin-city-hall-landmarks-v2",
+    id: "serbia-zrenjanin-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Regionalmuseum in Zrenjanin, das bedeutende Kunst- und Geschichtssammlungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Trockene Brücke",
+                  "text": "Eine einzigartige Brücke in Zrenjanin, unter der kein Fluss mehr fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Denkmal für den revolutionären Widerstandskämpfer Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Mariä-Entschlafens-Kirche",
+                  "text": "Serbisch-orthodoxe Kirche in Zrenjanin, bekannt für ihre Architektur und Ikonostase.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "Ein historisches Kirchengebäude der reformierten Gemeinde in Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Nagy múltú regionális múzeum Nagybecskereken, jelentős művészeti és történelmi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Egy különleges híd Nagybecskereken, amely alatt a folyómeder elterelése miatt már nem folyik víz.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Emlékmű Nagybecskereken, amelyet Žarko Zrenjanin forradalmár tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "Szerb ortodox templom Nagybecskereken, amely építészetéről és ikonosztázáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "A nagybecskereki református közösség történelmi templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Muzeu regional din Zrenjanin care găzduiește colecții importante de artă și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Un pod unic din Zrenjanin sub care nu mai curge niciun râu.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Monument dedicat luptătorului revoluționar Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "Biserică ortodoxă sârbă din Zrenjanin, cunoscută pentru arhitectura și iconostasul său.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "O clădire istorică a bisericii aparținând comunității reformate din Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Zrenjanin",
+                  "text": "Regional museum in Zrenjanin housing significant art and history collections.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Dry Bridge",
+                  "text": "A unique bridge in Zrenjanin that no longer spans a river due to a diverted course.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Monument of Zarko Zrenjanin",
+                  "text": "Monument dedicated to the revolutionary resistance fighter Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Serbian Orthodox church in Zrenjanin, known for its architecture and iconostasis.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A historic church building of the Reformed community in Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RS",
     name: { de: "Rathaus Zrenjanin", hu: "Nagybecskereki városháza", ro: "Primăria Zrenjanin", en: "Zrenjanin City Hall" },
@@ -1308,7 +4602,232 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-vranje-konak-pasin-landmarks-v2.webp",
   },
   {
-    id: "serbia-nis-skull-tower-monument-landmarks-v2",
+    id: "serbia-nis-skull-tower-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Diese bedeutende osmanische Festung in Niš beherbergt heute Parkanlagen und historische Monumente.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Eine archäologische Ausgrabungsstätte in Niš, die Überreste eines antiken Palastes mit achteckigem Grundriss zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Überreste eines historischen türkischen Bades innerhalb der Festungsanlage von Niš.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archäologische Sammlung des Nationalmuseum Niš",
+                  "text": "Ein Museum in Niš, das archäologische Funde aus der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Ein Museum am Ort des ehemaligen Konzentrationslagers Crveni Krst aus dem Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            },
+            {
+                  "name": "Mediana",
+                  "text": "Eine wichtige römische Ausgrabungsstätte mit den Resten einer luxuriösen Residenz von Konstantin dem Großen.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Ez a jelentős niši oszmán erődítmény ma parkoknak és történelmi emlékműveknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Régészeti lelőhely Nišben, amely egy antik, nyolcszögletű alaprajzú palota maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Egy történelmi török fürdő maradványai a niši erőd területén.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "Múzeum Nišben, amely a régió régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Múzeum a második világháborús Crveni Krst koncentrációs tábor helyszínén.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            },
+            {
+                  "name": "Медијана",
+                  "text": "Fontos római régészeti lelőhely Nagy Konstantin luxusrezidenciájának maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Această fortăreață otomană importantă din Niș găzduiește astăzi parcuri și monumente istorice.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Un sit arheologic din Niș care prezintă resturile unui palat antic cu plan octogonal.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Rămășițele unei băi turcești istorice în incinta cetății din Niș.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "Un muzeu din Niș care prezintă descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Меморијални комплекс „12. фебруар”",
+                  "text": "Un muzeu situat pe locul fostului lagăr de concentrare Crveni Krst din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            },
+            {
+                  "name": "Медијана",
+                  "text": "Un sit arheologic roman important cu resturile unei reședințe luxoase a lui Constantin cel Mare.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niš Fortress",
+                  "text": "This significant Ottoman fortress in Niš now houses parks and historical monuments.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "The Octagon Palace",
+                  "text": "An archaeological site in Niš showing the remains of an ancient palace with an octagonal plan.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Turkish bath",
+                  "text": "Remains of a historical Turkish bath located within the Niš Fortress complex.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archaeological Hall",
+                  "text": "A museum in Niš presenting archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Memorial complex „12th February“",
+                  "text": "A museum located at the site of the former Crveni Krst concentration camp from WWII.",
+                  "category": "museum",
+                  "coords": [
+                        21.888705,
+                        43.330592
+                  ]
+            },
+            {
+                  "name": "Mediana",
+                  "text": "An important Roman archaeological site with the remains of a luxury residence of Constantine the Great.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "RS",
     name: { de: "Denkmal am Schädel-Turm Niš", hu: "Nisi Koponya-torony emlékmű", ro: "Monumentul Turnul Craniilor din Niș", en: "Skull Tower Monument Niš" },
@@ -1443,7 +4962,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-valjevo-old-bridge-landmarks-v2.webp",
   },
   {
-    id: "serbia-belgrade-beogradjanka-landmarks-v2",
+    id: "serbia-belgrade-beogradjanka-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Der „Römische Brunnen“ ist eine historische Zisterne in der Festung von Belgrad aus dem 18. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Diese Ausgrabungsstätte zeigt die Fundamente des Schlosses von Despot Stefan Lazarević in der Belgrader Festung.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Museum präsentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Das Eisenbahnmuseum in Belgrad zeigt die Entwicklung des Schienenverkehrs in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Das Museum ist dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das den Werken des berühmten serbischen Malers Paja Jovanović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum in Belgrad, das moderne und zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Museum zur Geschichte der Post- und Telegrafendienste in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "A „Római kút” egy 18. századi történelmi ciszterna a belgrádi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ez a régészeti lelőhely Stefan Lazarević despota várának alapjait mutatja be a belgrádi erődben.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "A múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "A belgrádi vasútmúzeum a szerbiai vasúti közlekedés fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "A múzeum Ivo Andrić Nobel-díjas író életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "A híres szerb festő, Paja Jovanović műveinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Belgrádi magánmúzeum, amely modern és kortárs műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Szerbia postai és távíró-szolgáltatásainak történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "„Fântâna Romană” este o cisternă istorică din secolul al XVIII-lea situată în cetatea Belgradului.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Acest sit arheologic prezintă fundațiile castelului despotului Stefan Lazarević din cetatea Belgradului.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul prezintă istoria bogată a Serbiei, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Muzeul Căilor Ferate din Belgrad prezintă evoluția transportului feroviar în Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeul este dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat operelor celebrului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Muzeu dedicat istoriei serviciilor poștale și telegrafice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "The \"Roman Well\" is a historical 18th-century cistern located in the Belgrade Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "This archaeological site showcases the foundations of Despot Stefan Lazarević's castle in the Belgrade Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "The museum presents the rich history of Serbia from antiquity to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "The Railway Museum in Belgrade showcases the development of rail transport in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "The museum is dedicated to the life and work of the Nobel Prize-winning author Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the works of the famous Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum in Belgrade exhibiting modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "Museum dedicated to the history of postal and telegraph services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "RS",
     name: { de: "Beograđanka Belgrad", hu: "Beograđanka, Belgrád", ro: "Beograđanka din Belgrad", en: "Beograđanka, Belgrade" },
@@ -1488,7 +5304,196 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-belgrade-beogradjanka-landmarks-v2.webp",
   },
   {
-    id: "serbia-kragujevac-amidza-konak-landmarks-v2",
+    id: "serbia-kragujevac-amidza-konak-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Ein Museum in Kragujevac, das an das Massaker vom 21. Oktober 1941 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Ein monumentales Denkmal in Kragujevac, das Teil des Gedenkparks der Stadt ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "Ein Denkmal in Kragujevac, das als Mahnmal gegen das Böse und die Gewalt steht.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "„Unterbrochener Flug“ Denkmal für die ermordeten Schüler:innen und Lehrer:innen",
+                  "text": "Ein Denkmal in Kragujevac, das den erschossenen Schülern und Lehrern während des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Ein weitläufiger Gedenkpark in Kragujevac, der den Opfern der Tragödie von 1941 gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Kragujevaci múzeum, amely az 1941. október 21-i mészárlásnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Monumentális emlékmű Kragujevacban, a város emlékparkjának része.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "Kragujevaci emlékmű, amely mementóként áll a gonoszság és az erőszak ellen.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "Споменик „Прекинут лет”",
+                  "text": "Kragujevaci emlékmű, amelyet a második világháborúban kivégzett diákoknak és tanároknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Kiterjedt emlékpark Kragujevacban, az 1941-es tragédia áldozatainak szentelve.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј 21. октобар",
+                  "text": "Un muzeu din Kragujevac care comemorează masacrul din 21 octombrie 1941.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Споменик Узнесење",
+                  "text": "Un monument monumental în Kragujevac, făcând parte din parcul memorial al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "Споменик „Против зла”",
+                  "text": "Un monument în Kragujevac care servește ca un avertisment împotriva răului și violenței.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "Споменик „Прекинут лет”",
+                  "text": "Un monument în Kragujevac dedicat elevilor și profesorilor împușcați în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Спомен-парк Крагујевачки октобар",
+                  "text": "Un parc memorial vast în Kragujevac, dedicat victimelor tragediei din 1941.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum 21 October",
+                  "text": "A museum in Kragujevac commemorating the massacre of October 21, 1941.",
+                  "category": "museum",
+                  "coords": [
+                        20.894361,
+                        44.021312
+                  ]
+            },
+            {
+                  "name": "Monument \"Ascension\"",
+                  "text": "A monumental memorial in Kragujevac, part of the city's memorial park.",
+                  "category": "historical",
+                  "coords": [
+                        20.918572,
+                        44.012422
+                  ]
+            },
+            {
+                  "name": "\"Against evil\" Monument",
+                  "text": "A monument in Kragujevac standing as a reminder against evil and violence.",
+                  "category": "historical",
+                  "coords": [
+                        20.882625,
+                        44.015484
+                  ]
+            },
+            {
+                  "name": "\"Broken Wing\" Monument",
+                  "text": "A monument in Kragujevac dedicated to the students and teachers shot during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        20.885828,
+                        44.016013
+                  ]
+            },
+            {
+                  "name": "Memorial Park \"Kragujevac October\"",
+                  "text": "A large memorial park in Kragujevac, dedicated to the victims of the 1941 tragedy.",
+                  "category": "park",
+                  "coords": [
+                        20.884033,
+                        44.022285
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Amidža-Konak Kragujevac", hu: "Amidža-konak, Kragujevac", ro: "Conacul Amidža din Kragujevac", en: "Amidža Konak, Kragujevac" },
@@ -1578,7 +5583,268 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-nis-national-theater-landmarks-v2.webp",
   },
   {
-    id: "serbia-subotica-city-library-landmarks-v2",
+    id: "serbia-subotica-city-library-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Institution in einem klassizistischen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prächtiger Jugendstilpalast in Subotica, der heute die Galerie für moderne Kunst beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Ein Museum, das die Geschichte, Archäologie und Kunst der Stadt Subotica präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein spezialisiertes Museum in Subotica, das eine Sammlung von Porzellan und Keramik ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das Rathaus von Subotica ist ein herausragendes Beispiel für den ungarischen Jugendstil.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das sich der Pflege der Traditionen der Bunjewatzen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "A Szabadkai Népszínház a város jelentős kulturális intézménye egy klasszicista épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Pompás szecessziós palota Szabadkán, amely ma a Modern Művészeti Galériának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "Múzeum, amely Szabadka városának történelmét, régészetét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Szabadkai szakmúzeum, amely porcelán- és kerámiagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A szabadkai városháza a magyar szecessziós építészet kiemelkedő példája és a város jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Kulturális központ Szabadkán, amely a bunyevác hagyományok ápolásának szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Emlékmű Ivan Sarić, a szabadkai repülés úttörője tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Teatrul Național din Subotica este o instituție culturală majoră, situată într-o clădire neoclasică.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat somptuos în stil Art Nouveau din Subotica, care găzduiește astăzi Galeria de Artă Modernă.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Un muzeu care prezintă istoria, arheologia și arta orașului Subotica.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu specializat din Subotica, care expune o colecție de porțelan și ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria din Subotica este un exemplu remarcabil al stilului Art Nouveau maghiar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru cultural din Subotica, dedicat conservării tradițiilor populației bunjevac.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument în onoarea lui Ivan Sarić, un pionier al aviației din Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "The National Theatre in Subotica is a major cultural institution housed in a neoclassical building.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, now housing the Gallery of Modern Art.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "A museum presenting the history, archaeology, and art of the city of Subotica.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A specialized museum in Subotica exhibiting a collection of porcelain and ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The Subotica Town Hall is an outstanding example of Hungarian Art Nouveau and a city landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural center in Subotica dedicated to preserving the traditions of the Bunjevac people.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument honoring Ivan Sarić, a pioneer of aviation from Subotica.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Stadtbibliothek Subotica", hu: "Szabadkai Városi Könyvtár", ro: "Biblioteca orășenească din Subotica", en: "City Library Subotica" },
@@ -1803,7 +6069,196 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-pozarevac-national-museum-landmarks-v2.webp",
   },
   {
-    id: "serbia-zrenjanin-museum-landmarks-v2",
+    id: "serbia-zrenjanin-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Das Regionalmuseum von Zrenjanin zeigt Exponate zur Geschichte und Kultur des Banats.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Trockene Brücke",
+                  "text": "Eine ungewöhnliche Brücke in Zrenjanin, die nach einer Flussumleitung auf trockenem Land steht.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Ein Denkmal in Zrenjanin zu Ehren des jugoslawischen Widerstandskämpfers Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Mariä-Entschlafens-Kirche",
+                  "text": "Eine bedeutende serbisch-orthodoxe Kirche in Zrenjanin mit reicher Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "Eine historische reformierte Kirche, die zur religiösen Vielfalt von Zrenjanin beiträgt.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "A nagybecskereki múzeum a Bánát történelmét és kultúráját bemutató tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Különleges híd Nagybecskereken, amely egy folyóelterelés után szárazföldön áll.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Emlékmű Nagybecskereken Žarko Zrenjanin jugoszláv ellenálló tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "Jelentős szerb ortodox templom Nagybecskereken, gazdagon díszített belsővel.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "Történelmi református templom, amely hozzájárul Nagybecskerek vallási sokszínűségéhez.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Muzeul regional din Zrenjanin expune obiecte legate de istoria și cultura Banatului.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Un pod neobișnuit în Zrenjanin, care stă pe uscat după devierea unui râu.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Un monument în Zrenjanin ridicat în onoarea luptătorului iugoslav Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "O biserică ortodoxă sârbă importantă în Zrenjanin, cu un interior bogat decorat.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "O biserică reformată istorică, ce contribuie la diversitatea religioasă a orașului Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Zrenjanin",
+                  "text": "The regional museum in Zrenjanin displays exhibits on the history and culture of Banat.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Dry Bridge",
+                  "text": "An unusual bridge in Zrenjanin standing on dry land after a river diversion.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Monument of Zarko Zrenjanin",
+                  "text": "A monument in Zrenjanin honoring the Yugoslav resistance fighter Žarko Zrenjanin.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "A significant Serbian Orthodox church in Zrenjanin with a richly decorated interior.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A historic Reformed church contributing to the religious diversity of Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Zrenjanin", hu: "Nagybecskereki Nemzeti Múzeum", ro: "Muzeul Național din Zrenjanin", en: "National Museum Zrenjanin" },
@@ -1893,7 +6348,304 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-sremska-mitrovica-museum-landmarks-v2.webp",
   },
   {
-    id: "serbia-belgrade-vojni-muzej-landmarks-v2",
+    id: "serbia-belgrade-vojni-muzej-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein tiefer historischer Brunnen in der Festung Kalemegdan in Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Archäologische Überreste einer Burg aus dem 15. Jahrhundert, die von Despot Stefan Lazarević erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Ein Museum in Belgrad, das der Bewahrung des historischen Erbes Serbiens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ein Fachmuseum, das die Entwicklung des Schienenverkehrs in Serbien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ein Gedenkmuseum in der ehemaligen Wohnung des Nobelpreisträgers Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Museum in Belgrad, das eine vielfältige Sammlung zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ein Museum, das die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Mély történelmi kút a belgrádi Kalemegdan erődben.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Despot Stefan Lazarević által épített 15. századi kastély régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Belgrádi múzeum, amely Szerbia történelmi örökségének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Szakmúzeum, amely a szerbiai vasúti közlekedés fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író egykori lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "A neves szerb festő, Paja Jovanović életének és műveinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Belgrádi magánmúzeum, amely kortárs művészeti alkotások változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică adâncă situată în cadrul cetății Kalemegdan din Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Rămășițe arheologice ale unui castel din secolul al XV-lea construit de despotul Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Un muzeu din Belgrad dedicat conservării moștenirii istorice a Serbiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Un muzeu specializat care prezintă evoluția transportului feroviar în Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Un muzeu memorial situat în fostul apartament al laureatului Nobel Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat vieții și operelor cunoscutului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu privat din Belgrad care expune o colecție diversă de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A deep historic well located within the Kalemegdan Fortress in Belgrade.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological remains of a 15th-century castle built by Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "A museum in Belgrade dedicated to preserving the historical heritage of Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A specialized museum showcasing the evolution of railway transport in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "A memorial museum located in the former apartment of Nobel laureate Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the life and works of the prominent Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private museum in Belgrade displaying a diverse collection of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "A museum documenting the history of postal, telegraph, and telephone services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RS",
     name: { de: "Militärmuseum Belgrad", hu: "Belgrádi Hadtörténeti Múzeum", ro: "Muzeul Militar din Belgrad", en: "Military Museum Belgrade" },
@@ -1983,7 +6735,268 @@ export const serbiaLandmarksV2: POI[] = [
     image: "/poi-images/serbia-kraljevo-monastery-zica-landmarks-v2.webp",
   },
   {
-    id: "serbia-subotica-city-museum-landmarks-v2",
+    id: "serbia-subotica-city-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Ein bedeutendes neoklassizistisches Theatergebäude in Subotica.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prachtvolles Jugendstil-Palais, entworfen von Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Das Stadtmuseum von Subotica beherbergt regionale historische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein Museum in Subotica, das verschiedenen Porzellansammlungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das monumentale Rathaus von Subotica ist ein Wahrzeichen des ungarischen Jugendstils.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Zentrum zur Pflege der Kultur und Traditionen der Bunjewatzen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Denkmal zu Ehren des Luftfahrtpioniers Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "Szabadka jelentős klasszicista színházépülete.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Pompás szecessziós palota, melyet Raichle Ferenc tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "A Szabadkai Városi Múzeum regionális történelmi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Különböző porcelángyűjteményeknek szentelt múzeum Szabadkán.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Szabadka monumentális városháza a magyar szecesszió egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A bunyevác kultúra és hagyományok ápolásának központja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Emlékmű Sarić János repülési úttörő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "O clădire teatrală neoclasică importantă din Subotica.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat spectaculos în stil Secession, proiectat de Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Muzeul Orașului Subotica găzduiește colecții istorice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu din Subotica dedicat diverselor colecții de porțelan.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria monumentală din Subotica este un simbol al stilului Secession maghiar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru pentru păstrarea culturii și tradițiilor bunjevačke.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Monument în cinstea pionierului aviației Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "A significant neoclassical theater building in Subotica.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace designed by Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "The Subotica City Museum houses regional historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A museum in Subotica dedicated to various porcelain collections.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The monumental Town Hall of Subotica is a landmark of Hungarian Art Nouveau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A center for preserving the culture and traditions of the Bunjevci people.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "Monument honoring the aviation pioneer Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "RS",
     name: { de: "Stadtmuseum Subotica", hu: "Szabadkai Városi Múzeum", ro: "Muzeul orașului Subotica", en: "City Museum Subotica" },

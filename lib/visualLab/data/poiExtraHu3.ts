@@ -986,7 +986,304 @@ export const poiExtraHu3: POI[] = [
       fr: ["Le roi Louis le Grand a fait transformer le château en château de chevaliers au XIVe siècle.", "Le château fut le cadeau traditionnel des reines hongroises pendant plus de 200 ans.", "En 1381, le traité de paix de Turin avec Venise y a été signé.", "La grande salle des chevaliers du château était autrefois l'une des plus grandes d'Europe centrale.", "Le château dispose d'un arsenal médiéval authentique pour les visiteurs.", "La première phase de la reconstruction globale moderne s'est achevée en 2014."],
     }, image: "/poi-images/historical-diosgyori-var-extra.webp"},
   {
-    id: "animal-habitat-miskolci-allatkert-extra",
+    id: "animal-habitat-miskolci-allatkert-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kohászati Múzeum",
+                  "text": "Ein Museum in Miskolc, das die Geschichte der Metallurgie und der ungarischen Eisenindustrie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.62766,
+                        48.106966
+                  ]
+            },
+            {
+                  "name": "Diósgyőri vár",
+                  "text": "Eine bedeutende mittelalterliche Burg in Miskolc, die einst als Morgengabe für ungarische Königinnen diente.",
+                  "category": "castle",
+                  "coords": [
+                        20.689338,
+                        48.097876
+                  ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "Ein Tierpark in Miskolc, der eine Vielzahl heimischer und exotischer Tierarten beheimatet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
+            },
+            {
+                  "name": "Diósgyőri Papíripari Múzeum",
+                  "text": "Ein Museum in Miskolc, das sich der Geschichte und den Traditionen der Papierherstellung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.662162,
+                        48.113417
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Eine Freilichtbühne in Miskolc, die für verschiedene kulturelle Aufführungen und Konzerte genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        20.66868,
+                        48.13167
+                  ]
+            },
+            {
+                  "name": "Kisvasút kiállítás",
+                  "text": "Eine Ausstellung in Miskolc, die sich der Geschichte der regionalen Schmalspurbahnen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.622368,
+                        48.103564
+                  ]
+            },
+            {
+                  "name": "Lillafuredi Sport - es Kalandpark",
+                  "text": "Ein Abenteuerpark in Miskolc-Lillafüred, der verschiedene sportliche Aktivitäten und Attraktionen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.620386,
+                        48.095574
+                  ]
+            },
+            {
+                  "name": "Szeleta Park Látogatóközpont",
+                  "text": "Ein Besucherzentrum in Miskolc, das über die prähistorische Szeleta-Höhle und deren archäologische Funde informiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.656042,
+                        48.115526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kohászati Múzeum",
+                  "text": "Miskolci múzeum, amely a magyarországi vaskohászat történetét és technológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.62766,
+                        48.106966
+                  ]
+            },
+            {
+                  "name": "Diósgyőri vár",
+                  "text": "Jelentős középkori vár Miskolcon, amely egykor a magyar királynék jegyajándéka volt.",
+                  "category": "castle",
+                  "coords": [
+                        20.689338,
+                        48.097876
+                  ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "Miskolc állatkertje, amely számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
+            },
+            {
+                  "name": "Diósgyőri Papíripari Múzeum",
+                  "text": "Miskolci múzeum, amely a papírgyártás történetét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.662162,
+                        48.113417
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad Miskolcon, amely kulturális előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.66868,
+                        48.13167
+                  ]
+            },
+            {
+                  "name": "Kisvasút kiállítás",
+                  "text": "Miskolci kiállítás, amely a helyi erdei vasutak történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.622368,
+                        48.103564
+                  ]
+            },
+            {
+                  "name": "Lillafuredi Sport - es Kalandpark",
+                  "text": "Sport- és kalandpark Miskolc-Lillafüreden, változatos kültéri aktivitásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        20.620386,
+                        48.095574
+                  ]
+            },
+            {
+                  "name": "Szeleta Park Látogatóközpont",
+                  "text": "Látogatóközpont Miskolcon, amely a Szeleta-barlang őskori kultúráját és leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.656042,
+                        48.115526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kohászati Múzeum",
+                  "text": "Un muzeu din Miskolc care prezintă istoria metalurgiei și a industriei fierului din Ungaria.",
+                  "category": "museum",
+                  "coords": [
+                        20.62766,
+                        48.106966
+                  ]
+            },
+            {
+                  "name": "Diósgyőri vár",
+                  "text": "Un castel medieval proeminent din Miskolc, care a fost istoric un cadou de nuntă pentru reginele maghiare.",
+                  "category": "castle",
+                  "coords": [
+                        20.689338,
+                        48.097876
+                  ]
+            },
+            {
+                  "name": "Miskolci Állatkert",
+                  "text": "O grădină zoologică din Miskolc care găzduiește o varietate de specii de animale locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
+            },
+            {
+                  "name": "Diósgyőri Papíripari Múzeum",
+                  "text": "Un muzeu din Miskolc dedicat istoriei și tradițiilor fabricării hârtiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.662162,
+                        48.113417
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "O scenă în aer liber din Miskolc utilizată pentru diverse spectacole culturale și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        20.66868,
+                        48.13167
+                  ]
+            },
+            {
+                  "name": "Kisvasút kiállítás",
+                  "text": "O expoziție în Miskolc dedicată istoriei căilor ferate cu ecartament îngust din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        20.622368,
+                        48.103564
+                  ]
+            },
+            {
+                  "name": "Lillafuredi Sport - es Kalandpark",
+                  "text": "Un parc de aventură în Miskolc-Lillafüred care oferă diverse activități sportive și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        20.620386,
+                        48.095574
+                  ]
+            },
+            {
+                  "name": "Szeleta Park Látogatóközpont",
+                  "text": "Un centru de vizitare din Miskolc care oferă informații despre peștera preistorică Szeleta și descoperirile sale.",
+                  "category": "museum",
+                  "coords": [
+                        20.656042,
+                        48.115526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kohászati Múzeum",
+                  "text": "A museum in Miskolc documenting the history and technology of Hungarian metallurgy and the iron industry.",
+                  "category": "museum",
+                  "coords": [
+                        20.62766,
+                        48.106966
+                  ]
+            },
+            {
+                  "name": "Diósgyőri vár",
+                  "text": "A prominent medieval castle in Miskolc, historically used as a wedding gift for Hungarian queens.",
+                  "category": "castle",
+                  "coords": [
+                        20.689338,
+                        48.097876
+                  ]
+            },
+            {
+                  "name": "Miskolc Zoo",
+                  "text": "A zoo in Miskolc featuring a variety of native and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        20.656273,
+                        48.126649
+                  ]
+            },
+            {
+                  "name": "Diósgyőri Papíripari Múzeum",
+                  "text": "A museum in Miskolc dedicated to the history and traditions of the paper industry.",
+                  "category": "museum",
+                  "coords": [
+                        20.662162,
+                        48.113417
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "An open-air stage in Miskolc used for various cultural performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        20.66868,
+                        48.13167
+                  ]
+            },
+            {
+                  "name": "Kisvasút kiállítás",
+                  "text": "An exhibition in Miskolc showcasing the history of the local narrow-gauge forest railways.",
+                  "category": "museum",
+                  "coords": [
+                        20.622368,
+                        48.103564
+                  ]
+            },
+            {
+                  "name": "Lillafuredi Sport - es Kalandpark",
+                  "text": "An adventure park in Miskolc-Lillafüred offering various sporting activities and outdoor attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        20.620386,
+                        48.095574
+                  ]
+            },
+            {
+                  "name": "Szeleta Park Látogatóközpont",
+                  "text": "A visitor center in Miskolc providing information about the prehistoric Szeleta cave and its archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        20.656042,
+                        48.115526
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "HU-BZ",
     coords: [20.645, 48.118],
@@ -1494,7 +1791,268 @@ export const poiExtraHu3: POI[] = [
       fr: ["Année de fondation : 1950.", "Nom d'origine : Dunai Vasmű (Siderurgie du Danube).", "Contexte urbanistique : Construction de la ville de Dunaújváros (Sztálinváros).", "Produits principaux : Acier brut, coke, produits laminés.", "Situation : Directement sur les rives du Danube pour le transport.", "Importance : La plus grande usine sidérurgique de Hongrie."],
     }, image: "/poi-images/industry-dunaujvarosi-vasmu-extra.webp"},
   {
-    id: "historical-pannonhalmi-apatsag-extra",
+    id: "historical-pannonhalmi-apatsag-extra", "sights": {
+      "de": [
+            {
+                  "name": "Illatmúzeum",
+                  "text": "Ein Museum in Pannonhalma, das sich der Geschichte der Düfte und Kräuter der Erzabtei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        17.767529,
+                        47.551779
+                  ]
+            },
+            {
+                  "name": "Apátsági Múzeum",
+                  "text": "Das Abteimuseum präsentiert religiöse Kunst und die lange Geschichte der Benediktiner in Pannonhalma.",
+                  "category": "museum",
+                  "coords": [
+                        17.755897,
+                        47.549035
+                  ]
+            },
+            {
+                  "name": "Éld át a történelmet!",
+                  "text": "Eine interaktive Ausstellung in Pannonhalma, die Besuchern die Geschichte der Abtei näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        17.756198,
+                        47.548103
+                  ]
+            },
+            {
+                  "name": "Kiállítótér (időszaki kiállítás)",
+                  "text": "Ein spezieller Ausstellungsraum in der Erzabtei Pannonhalma für wechselnde zeitgenössische und historische Themen.",
+                  "category": "museum",
+                  "coords": [
+                        17.760254,
+                        47.55316
+                  ]
+            },
+            {
+                  "name": "Hefter Üveggaléria",
+                  "text": "Eine Glasgalerie und ein Studio in Pannonhalma, das moderne Glaskunstwerke und Handwerkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.76196,
+                        47.555079
+                  ]
+            },
+            {
+                  "name": "\"A sípálya\" - kilátóhely",
+                  "text": "Ein beliebter Aussichtspunkt bei Pannonhalma, der einen weiten Blick über die hügelige Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.764278,
+                        47.561079
+                  ]
+            },
+            {
+                  "name": "Esterházy-kripta",
+                  "text": "Die Ruinen der Grabstätte der Familie Esterházy, gelegen in der Nähe der Abtei Pannonhalma.",
+                  "category": "historical",
+                  "coords": [
+                        17.758093,
+                        47.562832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Illatmúzeum",
+                  "text": "Múzeum Pannonhalmán, amely a főapátság illatainak és gyógynövényeinek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.767529,
+                        47.551779
+                  ]
+            },
+            {
+                  "name": "Apátsági Múzeum",
+                  "text": "Az apátsági múzeum vallási művészetet és a pannonhalmi bencések hosszú történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.755897,
+                        47.549035
+                  ]
+            },
+            {
+                  "name": "Éld át a történelmet!",
+                  "text": "Interaktív kiállítás Pannonhalmán, amely közelebb hozza az apátság történelmét a látogatókhoz.",
+                  "category": "museum",
+                  "coords": [
+                        17.756198,
+                        47.548103
+                  ]
+            },
+            {
+                  "name": "Kiállítótér (időszaki kiállítás)",
+                  "text": "A Pannonhalmi Főapátság különleges kiállítótere időszaki kortárs és történelmi tárlatok számára.",
+                  "category": "museum",
+                  "coords": [
+                        17.760254,
+                        47.55316
+                  ]
+            },
+            {
+                  "name": "Hefter Üveggaléria",
+                  "text": "Üvegstúdió és galéria Pannonhalmán, amely modern üvegművészeti alkotásokat és kézművességet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.76196,
+                        47.555079
+                  ]
+            },
+            {
+                  "name": "\"A sípálya\" - kilátóhely",
+                  "text": "Népszerű kilátóhely Pannonhalma közelében, amely széles kilátást nyújt a dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        17.764278,
+                        47.561079
+                  ]
+            },
+            {
+                  "name": "Esterházy-kripta",
+                  "text": "Az Esterházy család sírhelyének romjai, amelyek a Pannonhalmi Főapátság közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        17.758093,
+                        47.562832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Illatmúzeum",
+                  "text": "Un muzeu din Pannonhalma dedicat istoriei parfumurilor și ierburilor de la arhiabățía.",
+                  "category": "museum",
+                  "coords": [
+                        17.767529,
+                        47.551779
+                  ]
+            },
+            {
+                  "name": "Apátsági Múzeum",
+                  "text": "Muzeul abației prezintă artă religioasă și istoria lungă a benedictinilor din Pannonhalma.",
+                  "category": "museum",
+                  "coords": [
+                        17.755897,
+                        47.549035
+                  ]
+            },
+            {
+                  "name": "Éld át a történelmet!",
+                  "text": "O expoziție interactivă în Pannonhalma, care apropie istoria abației de vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        17.756198,
+                        47.548103
+                  ]
+            },
+            {
+                  "name": "Kiállítótér (időszaki kiállítás)",
+                  "text": "Un spațiu expozițional special în Arhiabățía Pannonhalma pentru teme contemporane și istorice temporare.",
+                  "category": "museum",
+                  "coords": [
+                        17.760254,
+                        47.55316
+                  ]
+            },
+            {
+                  "name": "Hefter Üveggaléria",
+                  "text": "O galerie de sticlă și un studio în Pannonhalma, care expune opere de artă modernă în sticlă și măiestrie artizanală.",
+                  "category": "museum",
+                  "coords": [
+                        17.76196,
+                        47.555079
+                  ]
+            },
+            {
+                  "name": "\"A sípálya\" - kilátóhely",
+                  "text": "Un punct de belvedere popular lângă Pannonhalma, oferind o vedere largă asupra peisajului deluros.",
+                  "category": "natural",
+                  "coords": [
+                        17.764278,
+                        47.561079
+                  ]
+            },
+            {
+                  "name": "Esterházy-kripta",
+                  "text": "Ruinele locului de înmormântare al familiei Esterházy, situate în apropierea Arhiabățíei Pannonhalma.",
+                  "category": "historical",
+                  "coords": [
+                        17.758093,
+                        47.562832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fragrance museum",
+                  "text": "A museum in Pannonhalma dedicated to the history of fragrances and herbs of the archabbey.",
+                  "category": "museum",
+                  "coords": [
+                        17.767529,
+                        47.551779
+                  ]
+            },
+            {
+                  "name": "Apátsági Múzeum",
+                  "text": "The abbey museum presents religious art and the long history of the Benedictines in Pannonhalma.",
+                  "category": "museum",
+                  "coords": [
+                        17.755897,
+                        47.549035
+                  ]
+            },
+            {
+                  "name": "Éld át a történelmet!",
+                  "text": "An interactive exhibition in Pannonhalma that brings the history of the abbey closer to visitors.",
+                  "category": "museum",
+                  "coords": [
+                        17.756198,
+                        47.548103
+                  ]
+            },
+            {
+                  "name": "Kiállítótér (időszaki kiállítás)",
+                  "text": "A special exhibition space in Pannonhalma Archabbey for rotating contemporary and historical displays.",
+                  "category": "museum",
+                  "coords": [
+                        17.760254,
+                        47.55316
+                  ]
+            },
+            {
+                  "name": "Hefter Glass Gallery & Studio",
+                  "text": "A glass gallery and studio in Pannonhalma showcasing modern glass artworks and craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        17.76196,
+                        47.555079
+                  ]
+            },
+            {
+                  "name": "\"A sípálya\" - kilátóhely",
+                  "text": "A popular viewpoint near Pannonhalma offering broad views over the hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.764278,
+                        47.561079
+                  ]
+            },
+            {
+                  "name": "Esterházy-kripta",
+                  "text": "The ruins of the Esterházy family burial site, located near the Pannonhalma Archabbey.",
+                  "category": "historical",
+                  "coords": [
+                        17.758093,
+                        47.562832
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "HU-GS",
     coords: [17.761, 47.552],
@@ -1746,7 +2304,304 @@ export const poiExtraHu3: POI[] = [
       fr: ["Le bâtiment a été conçu selon les plans de Flóris Korb.", "L'inauguration officielle du bâtiment principal a eu lieu en 1932.", "L'aula centrale dispose d'un impressionnant toit de verre.", "L'université remonte au collège réformé de 1538.", "Une fontaine de 2000 mètres carrés se trouve devant le bâtiment.", "Plus de 30 000 étudiants étudient aujourd'hui à l'université de Debrecen."],
     }, image: "/poi-images/historical-debreceni-egyetem-extra.webp"},
   {
-    id: "historical-hortobagyi-pasztormuzeum-extra",
+    id: "historical-hortobagyi-pasztormuzeum-extra", "sights": {
+      "de": [
+            {
+                  "name": "Pusztazoo",
+                  "text": "Der Puszta-Tierpark zeigt traditionelle ungarische Haustierrassen in der Hortobágy-Region.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Der Wildpark Hortobágy beherbergt Tiere, die ursprünglich in der ungarischen Steppe lebten.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Vízi színpad",
+                  "text": "Die Seebühne in Hortobágy wird für kulturelle Aufführungen und Veranstaltungen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        21.148013,
+                        47.580473
+                  ]
+            },
+            {
+                  "name": "Nagy Bivalyhalom régészeti terület",
+                  "text": "Nagy Bivalyhalom ist eine archäologische Ausgrabungsstätte in der ungarischen Puszta.",
+                  "category": "historical",
+                  "coords": [
+                        21.160089,
+                        47.586795
+                  ]
+            },
+            {
+                  "name": "Lovashintói kiállítás",
+                  "text": "Diese Ausstellung widmet sich der Geschichte der Pferdekutschen in der Hortobágy-Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.153912,
+                        47.594539
+                  ]
+            },
+            {
+                  "name": "Csárda Múzeum",
+                  "text": "Das Csárda-Museum zeigt die Geschichte der traditionellen ungarischen Wirtshäuser.",
+                  "category": "museum",
+                  "coords": [
+                        21.149176,
+                        47.582094
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
+                  "text": "Das Besucherzentrum informiert über die Natur und Kultur des Nationalparks Hortobágy.",
+                  "category": "museum",
+                  "coords": [
+                        21.15169,
+                        47.582392
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Madárpark",
+                  "text": "Der Vogelpark Hortobágy dient dem Schutz und der Rehabilitation verletzter Vögel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "A Pusztai Állatpark a Hortobágy hagyományos magyar háziállatfajtáit mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "A Hortobágyi Vadaspark az alföldi pusztán egykor őshonos állatvilágot mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Vízi színpad",
+                  "text": "A hortobágyi vízi színpad kulturális előadások és rendezvények helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        21.148013,
+                        47.580473
+                  ]
+            },
+            {
+                  "name": "Nagy Bivalyhalom régészeti terület",
+                  "text": "A Nagy Bivalyhalom egy régészeti lelőhely a magyar pusztán.",
+                  "category": "historical",
+                  "coords": [
+                        21.160089,
+                        47.586795
+                  ]
+            },
+            {
+                  "name": "Lovashintói kiállítás",
+                  "text": "Ez a kiállítás a hortobágyi lovaskocsik történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.153912,
+                        47.594539
+                  ]
+            },
+            {
+                  "name": "Csárda Múzeum",
+                  "text": "A Csárda Múzeum a hagyományos magyar vendégfogadók történetét ismerteti.",
+                  "category": "museum",
+                  "coords": [
+                        21.149176,
+                        47.582094
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
+                  "text": "A látogatóközpont a Hortobágyi Nemzeti Park természeti és kulturális értékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.15169,
+                        47.582392
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Madárpark",
+                  "text": "A Hortobágyi Madárpark a sérült madarak védelmével és rehabilitációjával foglalkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "Parcul de animale Puszta prezintă rase tradiționale de animale domestice maghiare din Hortobágy.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Parcul de animale sălbatice Hortobágy găzduiește specii care au trăit istoric în stepa maghiară.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Vízi színpad",
+                  "text": "Scena pe apă din Hortobágy este utilizată pentru spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.148013,
+                        47.580473
+                  ]
+            },
+            {
+                  "name": "Nagy Bivalyhalom régészeti terület",
+                  "text": "Nagy Bivalyhalom este un sit arheologic situat în pusta maghiară.",
+                  "category": "historical",
+                  "coords": [
+                        21.160089,
+                        47.586795
+                  ]
+            },
+            {
+                  "name": "Lovashintói kiállítás",
+                  "text": "Această expoziție este dedicată istoriei trăsurilor trase de cai din regiunea Hortobágy.",
+                  "category": "museum",
+                  "coords": [
+                        21.153912,
+                        47.594539
+                  ]
+            },
+            {
+                  "name": "Csárda Múzeum",
+                  "text": "Muzeul Csárda prezintă istoria hanurilor tradiționale maghiare.",
+                  "category": "museum",
+                  "coords": [
+                        21.149176,
+                        47.582094
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
+                  "text": "Centrul de vizitare oferă informații despre natura și cultura Parcului Național Hortobágy.",
+                  "category": "museum",
+                  "coords": [
+                        21.15169,
+                        47.582392
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Madárpark",
+                  "text": "Parcul de păsări Hortobágy este dedicat protecției și reabilitării păsărilor rănite.",
+                  "category": "recreational",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pusztai Állatpark",
+                  "text": "The Puszta Animal Park showcases traditional Hungarian domestic animal breeds in Hortobágy.",
+                  "category": "recreational",
+                  "coords": [
+                        21.143712,
+                        47.573171
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Vadaspark",
+                  "text": "Hortobágy Wildlife Park is home to animals that were originally native to the Hungarian steppe.",
+                  "category": "recreational",
+                  "coords": [
+                        21.136385,
+                        47.552353
+                  ]
+            },
+            {
+                  "name": "Vízi színpad",
+                  "text": "The water stage in Hortobágy is used for cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.148013,
+                        47.580473
+                  ]
+            },
+            {
+                  "name": "Nagy Bivalyhalom régészeti terület",
+                  "text": "Nagy Bivalyhalom is an archaeological site located in the Hungarian Puszta.",
+                  "category": "historical",
+                  "coords": [
+                        21.160089,
+                        47.586795
+                  ]
+            },
+            {
+                  "name": "Lovashintói kiállítás",
+                  "text": "This exhibition is dedicated to the history of horse-drawn carriages in the Hortobágy region.",
+                  "category": "museum",
+                  "coords": [
+                        21.153912,
+                        47.594539
+                  ]
+            },
+            {
+                  "name": "Csárda Múzeum",
+                  "text": "The Csárda Museum showcases the history of traditional Hungarian inns.",
+                  "category": "museum",
+                  "coords": [
+                        21.149176,
+                        47.582094
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
+                  "text": "The visitor center provides information about the nature and culture of the Hortobágy National Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.15169,
+                        47.582392
+                  ]
+            },
+            {
+                  "name": "Hortobágyi Madárpark",
+                  "text": "Hortobágy Bird Park is dedicated to the protection and rehabilitation of injured birds.",
+                  "category": "recreational",
+                  "coords": [
+                        21.152457,
+                        47.580772
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "HU-HB",
     coords: [21.148, 47.581],
@@ -2554,7 +3409,196 @@ export const poiExtraHu3: POI[] = [
 
   // HU-NO: Nógrád (2G, 2LN, 1W)
   {
-    id: "historical-hollokoi-var-extra",
+    id: "historical-hollokoi-var-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hollókői vár",
+                  "text": "Eine mittelalterliche Burg mit Panoramablick auf das UNESCO-geschützte Dorf.",
+                  "category": "castle",
+                  "coords": [
+                        19.581808,
+                        47.997745
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Eine Freilichtbühne für kulturelle Aufführungen in Hollókő.",
+                  "category": "cultural",
+                  "coords": [
+                        19.588627,
+                        47.995561
+                  ]
+            },
+            {
+                  "name": "Középkori templom",
+                  "text": "Archäologische Überreste einer mittelalterlichen Kirche im Burgbereich.",
+                  "category": "historical",
+                  "coords": [
+                        19.58239,
+                        47.994359
+                  ]
+            },
+            {
+                  "name": "Kézműves Nyomdaműhely",
+                  "text": "Eine Museumswerkstatt, die traditionelle manuelle Drucktechniken demonstriert.",
+                  "category": "museum",
+                  "coords": [
+                        19.587475,
+                        47.999133
+                  ]
+            },
+            {
+                  "name": "Palóc Baba Múzeum",
+                  "text": "Ein Museum, das eine Sammlung von Puppen in traditionellen Palóc-Trachten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.586336,
+                        47.999252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hollókői vár",
+                  "text": "Középkori vár, amely panorámás kilátást nyújt az UNESCO-listás falura.",
+                  "category": "castle",
+                  "coords": [
+                        19.581808,
+                        47.997745
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Kulturális előadásoknak helyet adó szabadtéri színpad Hollókőn.",
+                  "category": "cultural",
+                  "coords": [
+                        19.588627,
+                        47.995561
+                  ]
+            },
+            {
+                  "name": "Középkori templom",
+                  "text": "Egy középkori templom régészeti maradványai a vár területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.58239,
+                        47.994359
+                  ]
+            },
+            {
+                  "name": "Kézműves Nyomdaműhely",
+                  "text": "Hagyományos kézi nyomtatási technikákat bemutató múzeumi műhely.",
+                  "category": "museum",
+                  "coords": [
+                        19.587475,
+                        47.999133
+                  ]
+            },
+            {
+                  "name": "Palóc Baba Múzeum",
+                  "text": "Hagyományos palóc népviseletbe öltöztetett babákat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.586336,
+                        47.999252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hollókői vár",
+                  "text": "Un castel medieval care oferă vederi panoramice asupra satului inclus în patrimoniul UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        19.581808,
+                        47.997745
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "O scenă în aer liber utilizată pentru spectacole culturale în Hollókő.",
+                  "category": "cultural",
+                  "coords": [
+                        19.588627,
+                        47.995561
+                  ]
+            },
+            {
+                  "name": "Középkori templom",
+                  "text": "Rămășițele arheologice ale unei biserici medievale din zona castelului.",
+                  "category": "historical",
+                  "coords": [
+                        19.58239,
+                        47.994359
+                  ]
+            },
+            {
+                  "name": "Kézműves Nyomdaműhely",
+                  "text": "Un atelier muzeal care demonstrează tehnici tradiționale de tipărire manuală.",
+                  "category": "museum",
+                  "coords": [
+                        19.587475,
+                        47.999133
+                  ]
+            },
+            {
+                  "name": "Palóc Baba Múzeum",
+                  "text": "Un muzeu care expune o colecție de păpuși în costume tradiționale palóc.",
+                  "category": "museum",
+                  "coords": [
+                        19.586336,
+                        47.999252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hollókő Castle",
+                  "text": "A medieval castle offering panoramic views of the UNESCO-listed village.",
+                  "category": "castle",
+                  "coords": [
+                        19.581808,
+                        47.997745
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "An open-air stage used for cultural performances in Hollókő.",
+                  "category": "cultural",
+                  "coords": [
+                        19.588627,
+                        47.995561
+                  ]
+            },
+            {
+                  "name": "Középkori templom",
+                  "text": "Archaeological remains of a medieval church in the castle area.",
+                  "category": "historical",
+                  "coords": [
+                        19.58239,
+                        47.994359
+                  ]
+            },
+            {
+                  "name": "Kézműves Nyomdaműhely",
+                  "text": "A museum workshop demonstrating traditional manual printing techniques.",
+                  "category": "museum",
+                  "coords": [
+                        19.587475,
+                        47.999133
+                  ]
+            },
+            {
+                  "name": "Palóc Baba Múzeum",
+                  "text": "A museum displaying a collection of dolls in traditional Palóc costumes.",
+                  "category": "museum",
+                  "coords": [
+                        19.586336,
+                        47.999252
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "HU-NO",
     coords: [19.584, 47.994],
@@ -2682,7 +3726,304 @@ export const poiExtraHu3: POI[] = [
       fr: ["Âge des découvertes : 17-18 millions d'années", "Plus de 3000 empreintes identifiées", "Détient le Diplôme européen pour les zones protégées", "Comprend un arbre pétrifié de 100 mètres de long", "Fait partie du géoparc UNESCO Novohrad-Nógrád", "Restes de requins marins du Miocène trouvés"],
     }, image: "/poi-images/kid-landmark-ipolytarnoc-extra.webp"},
   {
-    id: "animal-habitat-nogradi-vadaspark-extra",
+    id: "animal-habitat-nogradi-vadaspark-extra", "sights": {
+      "de": [
+            {
+                  "name": "Nógrádi vár",
+                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem steilen Hügel in Nógrád.",
+                  "category": "castle",
+                  "coords": [
+                        19.045343,
+                        47.906554
+                  ]
+            },
+            {
+                  "name": "Falumúzeum",
+                  "text": "Ein Museum, das die lokale Geschichte und Traditionen von Nógrád zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.070779,
+                        47.888674
+                  ]
+            },
+            {
+                  "name": "Zamczok",
+                  "text": "Eine archäologische Stätte in der Nähe von Nógrád.",
+                  "category": "historical",
+                  "coords": [
+                        19.094857,
+                        47.895332
+                  ]
+            },
+            {
+                  "name": "Nógrádi Vadaspark",
+                  "text": "Ein Wildpark, in dem einheimische europäische Tierarten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.062843,
+                        47.908149
+                  ]
+            },
+            {
+                  "name": "Öl-hegy",
+                  "text": "Ein Berggipfel in der Nähe von Nógrád mit Blick auf die Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        19.01566,
+                        47.888975
+                  ]
+            },
+            {
+                  "name": "Kilátó",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Region Nógrád.",
+                  "category": "natural",
+                  "coords": [
+                        19.035683,
+                        47.879287
+                  ]
+            },
+            {
+                  "name": "Berkenyei vérszilvafasor",
+                  "text": "Eine Allee aus Kirschpflaumenbäumen in Berkenye.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080073,
+                        47.893475
+                  ]
+            },
+            {
+                  "name": "Csurgó forrás",
+                  "text": "Eine natürliche Wasserquelle in der Region Nógrád.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043328,
+                        47.903754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nógrádi vár",
+                  "text": "Középkori várrom egy meredek dombtetőn Nógrád községében.",
+                  "category": "castle",
+                  "coords": [
+                        19.045343,
+                        47.906554
+                  ]
+            },
+            {
+                  "name": "Falumúzeum",
+                  "text": "Nógrád helyi történelmét és hagyományait bemutató falumúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.070779,
+                        47.888674
+                  ]
+            },
+            {
+                  "name": "Zamczok",
+                  "text": "Régészeti lelőhely Nógrád közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.094857,
+                        47.895332
+                  ]
+            },
+            {
+                  "name": "Nógrádi Vadaspark",
+                  "text": "Vadaspark, ahol őshonos európai állatfajok láthatóak.",
+                  "category": "recreational",
+                  "coords": [
+                        19.062843,
+                        47.908149
+                  ]
+            },
+            {
+                  "name": "Öl-hegy",
+                  "text": "Hegycsúcs Nógrád közelében, kilátással a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.01566,
+                        47.888975
+                  ]
+            },
+            {
+                  "name": "Kilátó",
+                  "text": "Kilátópont panorámával a nógrádi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.035683,
+                        47.879287
+                  ]
+            },
+            {
+                  "name": "Berkenyei vérszilvafasor",
+                  "text": "Vérszilvafasor Berkenye településén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080073,
+                        47.893475
+                  ]
+            },
+            {
+                  "name": "Csurgó forrás",
+                  "text": "Természetes vízforrás a nógrádi vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043328,
+                        47.903754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nógrádi vár",
+                  "text": "Ruinele unui castel medieval situat pe un deal abrupt în Nógrád.",
+                  "category": "castle",
+                  "coords": [
+                        19.045343,
+                        47.906554
+                  ]
+            },
+            {
+                  "name": "Falumúzeum",
+                  "text": "Un muzeu care prezintă istoria și tradițiile locale din Nógrád.",
+                  "category": "museum",
+                  "coords": [
+                        19.070779,
+                        47.888674
+                  ]
+            },
+            {
+                  "name": "Zamczok",
+                  "text": "Un sit arheologic în apropiere de Nógrád.",
+                  "category": "historical",
+                  "coords": [
+                        19.094857,
+                        47.895332
+                  ]
+            },
+            {
+                  "name": "Nógrádi Vadaspark",
+                  "text": "Un parc de animale sălbatice care adăpostește specii europene native.",
+                  "category": "recreational",
+                  "coords": [
+                        19.062843,
+                        47.908149
+                  ]
+            },
+            {
+                  "name": "Öl-hegy",
+                  "text": "Un vârf muntos lângă Nógrád, oferind panorame asupra zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.01566,
+                        47.888975
+                  ]
+            },
+            {
+                  "name": "Kilátó",
+                  "text": "Un punct de belvedere cu vedere asupra regiunii Nógrád.",
+                  "category": "natural",
+                  "coords": [
+                        19.035683,
+                        47.879287
+                  ]
+            },
+            {
+                  "name": "Berkenyei vérszilvafasor",
+                  "text": "O alee de pruni roșii în localitatea Berkenye.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080073,
+                        47.893475
+                  ]
+            },
+            {
+                  "name": "Csurgó forrás",
+                  "text": "Un izvor natural de apă în regiunea Nógrád.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043328,
+                        47.903754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nógrádi vár",
+                  "text": "The ruins of a medieval castle situated on a steep hill in Nógrád.",
+                  "category": "castle",
+                  "coords": [
+                        19.045343,
+                        47.906554
+                  ]
+            },
+            {
+                  "name": "Falumúzeum",
+                  "text": "A village museum showcasing the local history and traditions of Nógrád.",
+                  "category": "museum",
+                  "coords": [
+                        19.070779,
+                        47.888674
+                  ]
+            },
+            {
+                  "name": "Zamczok",
+                  "text": "An archaeological site located near Nógrád.",
+                  "category": "historical",
+                  "coords": [
+                        19.094857,
+                        47.895332
+                  ]
+            },
+            {
+                  "name": "Nógrádi Vadaspark",
+                  "text": "A wildlife park home to native European animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        19.062843,
+                        47.908149
+                  ]
+            },
+            {
+                  "name": "Öl-hegy",
+                  "text": "A mountain peak near Nógrád offering views of the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.01566,
+                        47.888975
+                  ]
+            },
+            {
+                  "name": "Kilátó",
+                  "text": "A viewpoint overlooking the Nógrád region.",
+                  "category": "natural",
+                  "coords": [
+                        19.035683,
+                        47.879287
+                  ]
+            },
+            {
+                  "name": "Berkenyei vérszilvafasor",
+                  "text": "An avenue of cherry plum trees in Berkenye.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080073,
+                        47.893475
+                  ]
+            },
+            {
+                  "name": "Csurgó forrás",
+                  "text": "A natural water spring in the Nógrád area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043328,
+                        47.903754
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "HU-NO",
     coords: [19.047, 47.904],
@@ -3070,7 +4411,88 @@ export const poiExtraHu3: POI[] = [
       fr: ["Période de construction de 1902 à 1904 dans un style éclectique.", "Conçu par les architectes Ede Kopeczek et György Kertész.", "Les fenêtres de la salle d'apparat ont été conçues par Miksa Róth.", "La tour de l'hôtel de ville abrite un carillon automatique.", "Le bâtiment est classé monument historique national.", "Situé sur la place centrale Kossuth de Kaposvár."],
     }, image: "/poi-images/historical-kaposvari-varoshaza-extra.webp"},
   {
-    id: "kid-landmark-katica-tanya-extra",
+    id: "kid-landmark-katica-tanya-extra", "sights": {
+      "de": [
+            {
+                  "name": "Katica Tanya",
+                  "text": "Ein Erlebnispark und Bauernhof in Patca, der zahlreiche Freizeitaktivitäten für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715624,
+                        46.279253
+                  ]
+            },
+            {
+                  "name": "Kézi hajtású tűzoltókocsi",
+                  "text": "Ein historischer, handbetriebener Feuerwehrwagen, der in Patca ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723567,
+                        46.285093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Katica Tanya",
+                  "text": "Élményközpont és gazdaság Patcán, amely számos szabadidős tevékenységet kínál családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715624,
+                        46.279253
+                  ]
+            },
+            {
+                  "name": "Kézi hajtású tűzoltókocsi",
+                  "text": "Patcán kiállított történelmi, kézi hajtású tűzoltókocsi.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723567,
+                        46.285093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Katica Tanya",
+                  "text": "Un parc de distracții și fermă în Patca, oferind numeroase activități recreative pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715624,
+                        46.279253
+                  ]
+            },
+            {
+                  "name": "Kézi hajtású tűzoltókocsi",
+                  "text": "O mașină de pompieri istorică, acționată manual, expusă la Patca.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723567,
+                        46.285093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Katica Tanya",
+                  "text": "An adventure park and farm in Patca offering numerous leisure activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        17.715624,
+                        46.279253
+                  ]
+            },
+            {
+                  "name": "Kézi hajtású tűzoltókocsi",
+                  "text": "A historic hand-operated fire engine on display in Patca.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723567,
+                        46.285093
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "HU-SO",
     coords: [17.712, 46.257],
@@ -3412,7 +4834,232 @@ export const poiExtraHu3: POI[] = [
 
   // HU-TO: Tolna (2G, 1LN, 2W)
   {
-    id: "historical-simontornyai-var-extra",
+    id: "historical-simontornyai-var-extra", "sights": {
+      "de": [
+            {
+                  "name": "Simontornyai vár",
+                  "text": "Ein historisches Renaissanceschloss in Simontornya, das ursprünglich als Wohnturm errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        18.552491,
+                        46.752798
+                  ]
+            },
+            {
+                  "name": "Styrum-Linburg-kastély",
+                  "text": "Ein historisches Schlossgebäude in Simontornya, das mit der Familie Styrum-Limburg verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        18.554133,
+                        46.753383
+                  ]
+            },
+            {
+                  "name": "Simontornyai Városi Strand - Thermál Fürdő",
+                  "text": "Ein öffentliches Thermalbad und Schwimmbad in Simontornya, das Entspannung und Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549039,
+                        46.752112
+                  ]
+            },
+            {
+                  "name": "Teve Farm állatsimogató",
+                  "text": "Ein kleiner Bauernhof und Streichelzoo in Simontornya, beliebt bei Familien und Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        18.517242,
+                        46.740806
+                  ]
+            },
+            {
+                  "name": "Fried Schlosshotel Resort",
+                  "text": "Ein elegantes Resort im Schlossstil in Simontornya mit Hotel- und Wellnesseinrichtungen.",
+                  "category": "castle",
+                  "coords": [
+                        18.543047,
+                        46.748689
+                  ]
+            },
+            {
+                  "name": "Strasszer-kastély",
+                  "text": "Ein historisches Herrenhaus in Simontornya, das das architektonische Erbe der Stadt widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        18.502002,
+                        46.754631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simontornyai vár",
+                  "text": "Simontornya középkori eredetű vára, amely a reneszánsz idején érte el fénykorát.",
+                  "category": "castle",
+                  "coords": [
+                        18.552491,
+                        46.752798
+                  ]
+            },
+            {
+                  "name": "Styrum-Linburg-kastély",
+                  "text": "Simontornyai kastélyépület, amely a Styrum-Limburg családhoz köthető.",
+                  "category": "castle",
+                  "coords": [
+                        18.554133,
+                        46.753383
+                  ]
+            },
+            {
+                  "name": "Simontornyai Városi Strand - Thermál Fürdő",
+                  "text": "Simontornyai termálfürdő és strand, amely pihenési és kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549039,
+                        46.752112
+                  ]
+            },
+            {
+                  "name": "Teve Farm állatsimogató",
+                  "text": "Simontornyai állatsimogató és farm, amely népszerű a családok és a gyermekek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.517242,
+                        46.740806
+                  ]
+            },
+            {
+                  "name": "Fried Kastély",
+                  "text": "Elegáns kastélystílusú üdülőhely Simontornyán, szállodával és wellness-részleggel.",
+                  "category": "castle",
+                  "coords": [
+                        18.543047,
+                        46.748689
+                  ]
+            },
+            {
+                  "name": "Strasszer-kastély",
+                  "text": "Történelmi kúria Simontornyán, amely a város építészeti örökségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        18.502002,
+                        46.754631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simontornyai vár",
+                  "text": "Un castel renascentist istoric din Simontornya, construit inițial ca turn de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        18.552491,
+                        46.752798
+                  ]
+            },
+            {
+                  "name": "Styrum-Linburg-kastély",
+                  "text": "O clădire istorică de castel din Simontornya, asociată cu familia Styrum-Limburg.",
+                  "category": "castle",
+                  "coords": [
+                        18.554133,
+                        46.753383
+                  ]
+            },
+            {
+                  "name": "Simontornyai Városi Strand - Thermál Fürdő",
+                  "text": "O baie termală publică și facilitate de înot în Simontornya, care oferă relaxare și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549039,
+                        46.752112
+                  ]
+            },
+            {
+                  "name": "Teve Farm állatsimogató",
+                  "text": "O mică fermă de animale și grădină zoologică cu mângâiere în Simontornya, populară printre familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.517242,
+                        46.740806
+                  ]
+            },
+            {
+                  "name": "Fried Kastély",
+                  "text": "Un complex elegant în stil castel din Simontornya, care dispune de un hotel și facilități de wellness.",
+                  "category": "castle",
+                  "coords": [
+                        18.543047,
+                        46.748689
+                  ]
+            },
+            {
+                  "name": "Strasszer-kastély",
+                  "text": "Un conac istoric din Simontornya, care reflectă moștenirea arhitecturală a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        18.502002,
+                        46.754631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simontornyai vár",
+                  "text": "A historic Renaissance castle in Simontornya, originally built as a defensive tower.",
+                  "category": "castle",
+                  "coords": [
+                        18.552491,
+                        46.752798
+                  ]
+            },
+            {
+                  "name": "Styrum-Linburg-kastély",
+                  "text": "A historical castle building in Simontornya associated with the Styrum-Limburg family.",
+                  "category": "castle",
+                  "coords": [
+                        18.554133,
+                        46.753383
+                  ]
+            },
+            {
+                  "name": "Simontornyai Városi Strand - Thermál Fürdő",
+                  "text": "A public thermal bath and swimming facility in Simontornya offering relaxation and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549039,
+                        46.752112
+                  ]
+            },
+            {
+                  "name": "Teve Farm állatsimogató",
+                  "text": "A small animal farm and petting zoo in Simontornya, popular with families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        18.517242,
+                        46.740806
+                  ]
+            },
+            {
+                  "name": "Fried Castle Resort",
+                  "text": "An elegant castle-style resort in Simontornya, featuring a hotel and wellness facilities.",
+                  "category": "castle",
+                  "coords": [
+                        18.543047,
+                        46.748689
+                  ]
+            },
+            {
+                  "name": "Strasszer-kastély",
+                  "text": "A historical manor house in Simontornya, reflecting the town's architectural heritage.",
+                  "category": "castle",
+                  "coords": [
+                        18.502002,
+                        46.754631
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "HU-TO",
     coords: [18.552, 46.751],

@@ -1872,7 +1872,1110 @@ const citySeeds: CitySeed[] = [
       fr: ["Fondée en 1517 par François Ier", "Patrimoine mondial de l'UNESCO depuis 2005", "Centre conçu par Auguste Perret", "L'église Saint-Joseph mesure 107 mètres de haut", "Deuxième port de commerce de France", "Source d'inspiration pour l'impressionnisme de Monet"],
     },
     image: "/poi-images/le-havre.webp",
-    "sights": {"de": [{"name": "Le Volcan", "text": "Das vom Architekten Oscar Niemeyer entworfene Kulturzentrum besticht durch seine geschwungene, weiße Form.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Hôtel de Ville du Havre", "text": "Das Rathaus mit seinem markanten Turm ist Teil des UNESCO-Welterbes und ein Wahrzeichen des Wiederaufbaus.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Appartement Témoin Perret", "text": "Diese Musterwohnung zeigt originalgetreu das Wohndesign und den Komfort der 1950er Jahre in Le Havre.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Port du Havre", "text": "Einer der größten Häfen Europas, der das wirtschaftliche Herz und die Identität der Stadt prägt.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "Diese Kathedrale aus dem 16. Jahrhundert ist eines der wenigen Gebäude, die die Zerstörung der Stadt im Jahr 1944 überstanden haben.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Ehemalige historische Hafenspeicher, die zu einem modernen Einkaufs- und Freizeitzentrum mit Kinos und Restaurants umgebaut wurden.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "Eine romanische Abtei auf einem Hügel mit Blick auf die Seine, die eine bedeutende Sammlung religiöser Kunstgegenstände beherbergt.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "Ein prächtiges Kaufmannshaus aus dem 18. Jahrhundert, das Einblicke in das bürgerliche Leben und die maritime Geschichte der Stadt bietet.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Strand von Le Havre", "text": "Dieser weitläufige Kiesstrand in Le Havre bietet einen weiten Blick auf den Ärmelkanal. Besucher können die lebhafte Promenade mit ihren bunten Strandhütten genießen. Es ist ein großartiger Ort für ausgedehnte Spaziergänge oder zum Entspannen am Wasser. Ein Besuch in den wärmeren Monaten lohnt sich besonders.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "Ein riesiger Stadtwald im Herzen von Le Havre, der zahlreiche Wanderwege, Seen und Sportanlagen für die Erholung im Grünen bietet.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Ein modernes Öko-Stadion mit einer charakteristischen blauen Fassade, das für seine nachhaltige Bauweise und Architektur bekannt ist.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "Ein markantes Denkmal in Sainte-Adresse, das den Seeleuten gewidmet ist und einen Panoramablick über die gesamte Bucht bietet.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Ein spannendes Freizeitzentrum in Le Havre mit vielen Spielen für Kinder und Jugendliche.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Ein familienfreundliches Spielezentrum in Le Havre, das Spaß für alle Altersgruppen garantiert.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "Ein zentraler Spielbereich in Le Havre, ideal für eine aktive Pause.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Ein aufregendes Unterhaltungszentrum in Le Havre für gemeinsame Aktivitäten in der Familie.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Ein ruhiger, kleiner Spielplatz in Le Havre für Kinder aus der Nachbarschaft.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Ein großzügiger Spielplatz in Le Havre mit viel Platz für Bewegung im Freien.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Ein fantasievoll gestaltetes Kletter- oder Spielgerät in Le Havre für Kinder.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Ein beliebter Spielplatz in Le Havre auf einem ehemaligen Sportgelände.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "Ein naturnaher Spielbereich im Wald von Montgeon bei Le Havre für kleine Entdecker.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée in Le Havre ist ein Freizeitort mit Attraktionen, die Kinder magisch finden werden.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Die Piscine Edouard Thomas in Le Havre bietet verschiedene Wasseranlagen für Spaß und Bewegung.", "category": "family", "coords": [0.161631, 49.49857]}], "hu": [{"name": "Le Volcan", "text": "Oscar Niemeyer által tervezett futurisztikus kulturális központ, amely vulkánszerű formájáról kapta nevét.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Le Havre-i városháza", "text": "Az UNESCO világörökség részét képező épület a modern városépítészet egyik legfontosabb jelképe.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Perret mintaapartman", "text": "Egy 1950-es évekbeli lakás, amely bemutatja, hogyan éltek a város újjáépítése utáni első lakók.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Le Havre-i kikötő", "text": "Franciaország egyik legjelentősebb teherkikötője, amely meghatározza a város ipari és tengeri jellegét.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "A 16. századi székesegyház a város azon kevés épületeinek egyike, amely épségben túlélte az 1944-es pusztító bombázásokat.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "A korábbi kikötői raktárakból kialakított modern bevásárló- és szórakoztatóközpont megőrizte a történelmi téglafalakat.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "A Szajna torkolatára néző román stílusú apátság és múzeum, amely jelentős vallási és történeti gyűjteménnyel rendelkezik.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "A 18. századi ötszintes polgárház a hajótulajdonosok életmódját és a város tengeri kereskedelmének aranykorát mutatja be.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Le Havre strandja", "text": "Le Havre kavicsos strandja széles kilátást nyújt a La Manche csatornára. A látogatók élvezhetik a nyüzsgő sétányt és a színes tengerparti kabinokat. Kiváló hely egy hosszú sétára vagy a vízparti pihenésre. Érdemes a melegebb hónapokban felkeresni.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "Hatalmas városi erdő és park tóval, ahol tanösvények és sportpályák várják a természetbe vágyó látogatókat.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Ultramodern, kék színű üvegfaláról felismerhető öko-stadion, amely Európa egyik legfenntarthatóbb sportlétesítménye.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "A tengerészek emlékére állított, cukorsüveg alakú emlékmű Sainte-Adresse-ben, ahonnan páratlan kilátás nyílik a tengerre.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Egy izgalmas szabadidős központ Le Havre-ban, sok játékkal gyerekeknek és fiataloknak.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Egy családbarát játékcenter Le Havre-ban, amely minden korosztálynak szórakozást garantál.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "Egy központi játszóterület Le Havre-ban, ideális egy aktív pihenőhöz.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Egy izgalmas szórakoztató központ Le Havre-ban a közös családi tevékenységekhez.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Egy nyugodt, kis játszótér Le Havre-ban a környékbeli gyerekeknek.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Egy tágas játszótér Le Havre-ban, sok hellyel a szabadtéri mozgáshoz.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Egy fantáziadúsan kialakított mászó- vagy játékeszköz Le Havre-ban gyerekeknek.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Egy népszerű játszótér Le Havre-ban, egy egykori sportterületen.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "Természetközeli játszóterület a Montgeon erdőben Le Havre-nál a kis felfedezőknek.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "A Le Havre-i La Fontaine enchantée egy olyan szabadidős helyszín, amelyet a gyermekek varázslatosnak találnak majd.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "A Le Havre-i Piscine Edouard Thomas különféle vízi létesítményeket kínál szórakozáshoz és edzéshez.", "category": "family", "coords": [0.161631, 49.49857]}], "ro": [{"name": "Le Volcan", "text": "Centrul cultural proiectat de Oscar Niemeyer, recunoscut pentru formele sale albe și curbate neobișnuite.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Primăria orașului Le Havre", "text": "O piesă centrală a arhitecturii moderne de după război, parte a patrimoniului mondial UNESCO.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Apartamentul-Martor Perret", "text": "O reconstituire fidelă a unui apartament din anii '50, oferind o incursiune în viața cotidiană a acelei epoci.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Portul Le Havre", "text": "Unul dintre cele mai mari porturi comerciale din Europa, esențial pentru economia și istoria locală.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "Catedrală din secolul al XVI-lea, una dintre puținele clădiri care au supraviețuit distrugerii aproape totale a orașului în 1944.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Foste depozite portuare istorice transformate într-un centru comercial și de agrement modern, păstrând arhitectura de cărămidă.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "O mănăstire romanică situată pe un deal cu vedere la estuarul Senei, găzduind un muzeu de artă sacră și sculpturi.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "O casă de negustor din secolul al XVIII-lea ce prezintă stilul de viață burghez și istoria maritimă glorioasă a portului.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Plaja din Le Havre", "text": "Această plajă întinsă cu pietriș din Le Havre oferă o vedere largă asupra Canalului Mânecii. Vizitatorii se pot bucura de promenada animată și de cabanele de plajă colorate. Este un loc excelent pentru plimbări lungi sau pentru relaxare la malul apei. O vizită în lunile mai calde este recomandată.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "O pădure urbană întinsă în centrul orașului, oferind lacuri, trasee de drumeție și spații verzi pentru recreere în aer liber.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "Un stadion modern cu o fațadă albastră translucidă, remarcat pentru designul său ecologic și sustenabilitatea energetică.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "Monument distinctiv în Sainte-Adresse dedicat marinarilor, oferind o panoramă spectaculoasă asupra întregului golf.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "Un centru de divertisment captivant în Le Havre, cu multe jocuri pentru copii și tineri.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "Un centru de jocuri pentru familie în Le Havre, garantând distracție pentru toate vârstele.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "O zonă de joacă centrală în Le Havre, ideală pentru o pauză activă.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "Un centru de divertisment palpitant în Le Havre pentru activități de familie.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "Un loc de joacă mic și liniștit în Le Havre pentru copiii din vecinătate.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "Un loc de joacă generos în Le Havre cu mult spațiu pentru mișcare în aer liber.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "Un echipament de cățărat sau de joacă conceput cu imaginație în Le Havre.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "Un loc de joacă popular în Le Havre, pe un fost teren sportiv.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "O zonă de joacă în natură în pădurea Montgeon de lângă Le Havre pentru mici exploratori.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée din Le Havre este un loc de agrement cu elemente pe care copiii le vor găsi magice.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Piscina Edouard Thomas din Le Havre oferă diverse facilități acvatice pentru distracție și exerciții fizice.", "category": "family", "coords": [0.161631, 49.49857]}], "en": [{"name": "Le Volcan", "text": "The cultural venue designed by Oscar Niemeyer, shaped like a large white volcano in the city center.", "category": "cultural", "confidence": "high", "coords": [0.106945, 49.4904]}, {"name": "Le Havre City Hall", "text": "The centerpiece of the Perret reconstruction, this UNESCO-listed civic building features a tall watchtower.", "category": "civic", "confidence": "high", "coords": [0.1078, 49.4935]}, {"name": "Perret Show Flat", "text": "A meticulously preserved 1950s apartment showing the original layout and furniture from the reconstruction era.", "category": "historical", "confidence": "high", "coords": [0.10757, 49.49178]}, {"name": "Port of Le Havre", "text": "France's leading port for international trade, offering boat tours to see its massive industrial docks.", "category": "civic", "confidence": "high", "coords": [0.1569, 49.4705]}, {"name": "Cathédrale Notre-Dame du Havre", "text": "A 16th-century cathedral and one of the rare survivors of the 1944 bombings, featuring a mix of Gothic and Renaissance styles.", "category": "religious", "confidence": "high", "coords": [0.108333, 49.486944]}, {"name": "Docks Vauban", "text": "Former historic port warehouses converted into a modern shopping and leisure complex with cinemas and restaurants.", "category": "civic", "confidence": "high", "coords": [0.129537, 49.490201]}, {"name": "Abbaye de Graville", "text": "An ancient Romanesque abbey overlooking the Seine estuary, housing a museum with a significant collection of sacred art.", "category": "monastic", "confidence": "high", "coords": [0.164923, 49.503487]}, {"name": "Maison de l'Armateur", "text": "An 18th-century merchant's house that provides a glimpse into the bourgeois life and maritime history of Le Havre.", "category": "museum", "confidence": "high", "coords": [0.11275, 49.4869]}, {"name": "Le Havre Beach", "text": "This sweeping pebble beach in Le Havre offers expansive views over the English Channel. Visitors can enjoy the lively promenade lined with brightly colored beach huts. It serves as a wonderful spot for a long walk or relaxing by the water. Planning a visit during the warmer months is a great idea.", "category": "natural", "confidence": "high", "coords": [0.0912, 49.4961]}, {"name": "Forêt de Montgeon", "text": "A massive urban forest in the heart of the city, offering many trails, lakes, and sports facilities for outdoor recreation.", "category": "natural", "confidence": "high", "coords": [0.1435, 49.516]}, {"name": "Stade Océane", "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.", "category": "civic", "confidence": "high", "coords": [0.1697, 49.4988]}, {"name": "Le Pain de Sucre", "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.", "category": "historical", "confidence": "high", "coords": [0.083215, 49.504477]}, {"name": "Paradox", "text": "An exciting leisure center in Le Havre with many games for children and teens.", "category": "family", "coords": [0.134492, 49.492371]}, {"name": "Family's games", "text": "A family-friendly games center in Le Havre, guaranteeing fun for all ages.", "category": "family", "coords": [0.111725, 49.496004]}, {"name": "Le city", "text": "A central play area in Le Havre, ideal for an active break.", "category": "family", "coords": [0.148879, 49.497205]}, {"name": "Laser Game", "text": "An exciting entertainment center in Le Havre for joint family activities.", "category": "family", "coords": [0.137339, 49.492384]}, {"name": "Square Chillou", "text": "A quiet, small playground in Le Havre for neighborhood children.", "category": "family", "coords": [0.110592, 49.491981]}, {"name": "Aire de jeux du Grand hameau", "text": "A spacious playground in Le Havre with plenty of room for outdoor movement.", "category": "family", "coords": [0.093014, 49.52399]}, {"name": "Araignée", "text": "An imaginatively designed climbing or play structure in Le Havre for children.", "category": "family", "coords": [0.105272, 49.484469]}, {"name": "Aire de jeux pour enfant de Ex Vélodrome", "text": "A popular playground in Le Havre on a former sports site.", "category": "family", "coords": [0.149712, 49.5061]}, {"name": "Aire de jeux pour enfant de la foret de Montgeon", "text": "A nature-oriented play area in the Montgeon forest near Le Havre for little explorers.", "category": "family", "coords": [0.139547, 49.514171]}, {"name": "La Fontaine enchantée", "text": "La Fontaine enchantée in Le Havre is a leisure spot with features that children will find magical.", "category": "family", "coords": [0.143192, 49.529496]}, {"name": "Piscine Edouard Thomas", "text": "Piscine Edouard Thomas in Le Havre offers various aquatic facilities for fun and exercise.", "category": "family", "coords": [0.161631, 49.49857]}], "fr": [{"name": "Le Volcan", "text": "Le centre culturel conçu par l'architecte Oscar Niemeyer se distingue par sa forme blanche et courbe.", "category": "cultural", "coords": [0.106945, 49.4904]}, {"name": "Hôtel de Ville du Havre", "text": "L'hôtel de ville avec sa tour caractéristique est classé au patrimoine mondial de l'UNESCO et témoigne de la reconstruction.", "category": "civic", "coords": [0.1078, 49.4935]}, {"name": "Appartement témoin Perret", "text": "Cet appartement témoin montre fidèlement le design et le confort de vie dans les années 1950 au Havre.", "category": "historical", "coords": [0.10757, 49.49178]}, {"name": "Port du Havre", "text": "L'un des plus grands ports d'Europe, véritable moteur économique et identitaire de la ville.", "category": "civic", "coords": [0.1569, 49.4705]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Le Volcan",
+                  "text": "Das vom Architekten Oscar Niemeyer entworfene Kulturzentrum besticht durch seine geschwungene, weiße Form.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        0.106945,
+                        49.4904
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville du Havre",
+                  "text": "Das Rathaus mit seinem markanten Turm ist Teil des UNESCO-Welterbes und ein Wahrzeichen des Wiederaufbaus.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1078,
+                        49.4935
+                  ]
+            },
+            {
+                  "name": "Appartement Témoin Perret",
+                  "text": "Diese Musterwohnung zeigt originalgetreu das Wohndesign und den Komfort der 1950er Jahre in Le Havre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.10757,
+                        49.49178
+                  ]
+            },
+            {
+                  "name": "Port du Havre",
+                  "text": "Einer der größten Häfen Europas, der das wirtschaftliche Herz und die Identität der Stadt prägt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1569,
+                        49.4705
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame du Havre",
+                  "text": "Diese Kathedrale aus dem 16. Jahrhundert ist eines der wenigen Gebäude, die die Zerstörung der Stadt im Jahr 1944 überstanden haben.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        0.108333,
+                        49.486944
+                  ]
+            },
+            {
+                  "name": "Docks Vauban",
+                  "text": "Ehemalige historische Hafenspeicher, die zu einem modernen Einkaufs- und Freizeitzentrum mit Kinos und Restaurants umgebaut wurden.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.129537,
+                        49.490201
+                  ]
+            },
+            {
+                  "name": "Abbaye de Graville",
+                  "text": "Eine romanische Abtei auf einem Hügel mit Blick auf die Seine, die eine bedeutende Sammlung religiöser Kunstgegenstände beherbergt.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        0.164923,
+                        49.503487
+                  ]
+            },
+            {
+                  "name": "Maison de l'Armateur",
+                  "text": "Ein prächtiges Kaufmannshaus aus dem 18. Jahrhundert, das Einblicke in das bürgerliche Leben und die maritime Geschichte der Stadt bietet.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        0.11275,
+                        49.4869
+                  ]
+            },
+            {
+                  "name": "Strand von Le Havre",
+                  "text": "Dieser weitläufige Kiesstrand in Le Havre bietet einen weiten Blick auf den Ärmelkanal. Besucher können die lebhafte Promenade mit ihren bunten Strandhütten genießen. Es ist ein großartiger Ort für ausgedehnte Spaziergänge oder zum Entspannen am Wasser. Ein Besuch in den wärmeren Monaten lohnt sich besonders.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.0912,
+                        49.4961
+                  ]
+            },
+            {
+                  "name": "Forêt de Montgeon",
+                  "text": "Ein riesiger Stadtwald im Herzen von Le Havre, der zahlreiche Wanderwege, Seen und Sportanlagen für die Erholung im Grünen bietet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.1435,
+                        49.516
+                  ]
+            },
+            {
+                  "name": "Stade Océane",
+                  "text": "Ein modernes Öko-Stadion mit einer charakteristischen blauen Fassade, das für seine nachhaltige Bauweise und Architektur bekannt ist.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1697,
+                        49.4988
+                  ]
+            },
+            {
+                  "name": "Le Pain de Sucre",
+                  "text": "Ein markantes Denkmal in Sainte-Adresse, das den Seeleuten gewidmet ist und einen Panoramablick über die gesamte Bucht bietet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.083215,
+                        49.504477
+                  ]
+            },
+            {
+                  "name": "Paradox",
+                  "text": "Ein spannendes Freizeitzentrum in Le Havre mit vielen Spielen für Kinder und Jugendliche.",
+                  "category": "family",
+                  "coords": [
+                        0.134492,
+                        49.492371
+                  ]
+            },
+            {
+                  "name": "Family's games",
+                  "text": "Ein familienfreundliches Spielezentrum in Le Havre, das Spaß für alle Altersgruppen garantiert.",
+                  "category": "family",
+                  "coords": [
+                        0.111725,
+                        49.496004
+                  ]
+            },
+            {
+                  "name": "Le city",
+                  "text": "Ein zentraler Spielbereich in Le Havre, ideal für eine aktive Pause.",
+                  "category": "family",
+                  "coords": [
+                        0.148879,
+                        49.497205
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Ein aufregendes Unterhaltungszentrum in Le Havre für gemeinsame Aktivitäten in der Familie.",
+                  "category": "family",
+                  "coords": [
+                        0.137339,
+                        49.492384
+                  ]
+            },
+            {
+                  "name": "Square Chillou",
+                  "text": "Ein ruhiger, kleiner Spielplatz in Le Havre für Kinder aus der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        0.110592,
+                        49.491981
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Grand hameau",
+                  "text": "Ein großzügiger Spielplatz in Le Havre mit viel Platz für Bewegung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        0.093014,
+                        49.52399
+                  ]
+            },
+            {
+                  "name": "Araignée",
+                  "text": "Ein fantasievoll gestaltetes Kletter- oder Spielgerät in Le Havre für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        0.105272,
+                        49.484469
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
+                  "text": "Ein beliebter Spielplatz in Le Havre auf einem ehemaligen Sportgelände.",
+                  "category": "family",
+                  "coords": [
+                        0.149712,
+                        49.5061
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
+                  "text": "Ein naturnaher Spielbereich im Wald von Montgeon bei Le Havre für kleine Entdecker.",
+                  "category": "family",
+                  "coords": [
+                        0.139547,
+                        49.514171
+                  ]
+            },
+            {
+                  "name": "La Fontaine enchantée",
+                  "text": "La Fontaine enchantée in Le Havre ist ein Freizeitort mit Attraktionen, die Kinder magisch finden werden.",
+                  "category": "family",
+                  "coords": [
+                        0.143192,
+                        49.529496
+                  ]
+            },
+            {
+                  "name": "Piscine Edouard Thomas",
+                  "text": "Die Piscine Edouard Thomas in Le Havre bietet verschiedene Wasseranlagen für Spaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        0.161631,
+                        49.49857
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne Andre Malraux",
+                  "text": "Ein bedeutendes Kunstmuseum in Le Havre, das eine umfangreiche Sammlung impressionistischer Werke beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        0.102705,
+                        49.484966
+                  ]
+            },
+            {
+                  "name": "Phare de la Heve",
+                  "text": "Ein markanter Leuchtturm in Le Havre, der den Schiffen den Weg an der Küste weist.",
+                  "category": "landmark",
+                  "coords": [
+                        0.069249,
+                        49.512408
+                  ]
+            },
+            {
+                  "name": "Fort de Tourneville",
+                  "text": "Eine ehemalige Festung in Le Havre, die heute als kultureller Raum genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        0.121893,
+                        49.50421
+                  ]
+            },
+            {
+                  "name": "Salon des Navigateurs",
+                  "text": "Ein Museum in Le Havre, das sich der maritimen Geschichte und den Seefahrern widmet.",
+                  "category": "museum",
+                  "coords": [
+                        0.11343,
+                        49.488698
+                  ]
+            },
+            {
+                  "name": "Le Poulallier",
+                  "text": "Ein lokales Theater in Le Havre, das verschiedene Aufführungen und kulturelle Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        0.120139,
+                        49.492854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Volcan",
+                  "text": "Oscar Niemeyer által tervezett futurisztikus kulturális központ, amely vulkánszerű formájáról kapta nevét.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        0.106945,
+                        49.4904
+                  ]
+            },
+            {
+                  "name": "Le Havre-i városháza",
+                  "text": "Az UNESCO világörökség részét képező épület a modern városépítészet egyik legfontosabb jelképe.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1078,
+                        49.4935
+                  ]
+            },
+            {
+                  "name": "Perret mintaapartman",
+                  "text": "Egy 1950-es évekbeli lakás, amely bemutatja, hogyan éltek a város újjáépítése utáni első lakók.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.10757,
+                        49.49178
+                  ]
+            },
+            {
+                  "name": "Le Havre-i kikötő",
+                  "text": "Franciaország egyik legjelentősebb teherkikötője, amely meghatározza a város ipari és tengeri jellegét.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1569,
+                        49.4705
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame du Havre",
+                  "text": "A 16. századi székesegyház a város azon kevés épületeinek egyike, amely épségben túlélte az 1944-es pusztító bombázásokat.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        0.108333,
+                        49.486944
+                  ]
+            },
+            {
+                  "name": "Docks Vauban",
+                  "text": "A korábbi kikötői raktárakból kialakított modern bevásárló- és szórakoztatóközpont megőrizte a történelmi téglafalakat.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.129537,
+                        49.490201
+                  ]
+            },
+            {
+                  "name": "Abbaye de Graville",
+                  "text": "A Szajna torkolatára néző román stílusú apátság és múzeum, amely jelentős vallási és történeti gyűjteménnyel rendelkezik.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        0.164923,
+                        49.503487
+                  ]
+            },
+            {
+                  "name": "Maison de l'Armateur",
+                  "text": "A 18. századi ötszintes polgárház a hajótulajdonosok életmódját és a város tengeri kereskedelmének aranykorát mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        0.11275,
+                        49.4869
+                  ]
+            },
+            {
+                  "name": "Le Havre strandja",
+                  "text": "Le Havre kavicsos strandja széles kilátást nyújt a La Manche csatornára. A látogatók élvezhetik a nyüzsgő sétányt és a színes tengerparti kabinokat. Kiváló hely egy hosszú sétára vagy a vízparti pihenésre. Érdemes a melegebb hónapokban felkeresni.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.0912,
+                        49.4961
+                  ]
+            },
+            {
+                  "name": "Forêt de Montgeon",
+                  "text": "Hatalmas városi erdő és park tóval, ahol tanösvények és sportpályák várják a természetbe vágyó látogatókat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.1435,
+                        49.516
+                  ]
+            },
+            {
+                  "name": "Stade Océane",
+                  "text": "Ultramodern, kék színű üvegfaláról felismerhető öko-stadion, amely Európa egyik legfenntarthatóbb sportlétesítménye.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1697,
+                        49.4988
+                  ]
+            },
+            {
+                  "name": "Le Pain de Sucre",
+                  "text": "A tengerészek emlékére állított, cukorsüveg alakú emlékmű Sainte-Adresse-ben, ahonnan páratlan kilátás nyílik a tengerre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.083215,
+                        49.504477
+                  ]
+            },
+            {
+                  "name": "Paradox",
+                  "text": "Egy izgalmas szabadidős központ Le Havre-ban, sok játékkal gyerekeknek és fiataloknak.",
+                  "category": "family",
+                  "coords": [
+                        0.134492,
+                        49.492371
+                  ]
+            },
+            {
+                  "name": "Family's games",
+                  "text": "Egy családbarát játékcenter Le Havre-ban, amely minden korosztálynak szórakozást garantál.",
+                  "category": "family",
+                  "coords": [
+                        0.111725,
+                        49.496004
+                  ]
+            },
+            {
+                  "name": "Le city",
+                  "text": "Egy központi játszóterület Le Havre-ban, ideális egy aktív pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        0.148879,
+                        49.497205
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Egy izgalmas szórakoztató központ Le Havre-ban a közös családi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        0.137339,
+                        49.492384
+                  ]
+            },
+            {
+                  "name": "Square Chillou",
+                  "text": "Egy nyugodt, kis játszótér Le Havre-ban a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        0.110592,
+                        49.491981
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Grand hameau",
+                  "text": "Egy tágas játszótér Le Havre-ban, sok hellyel a szabadtéri mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        0.093014,
+                        49.52399
+                  ]
+            },
+            {
+                  "name": "Araignée",
+                  "text": "Egy fantáziadúsan kialakított mászó- vagy játékeszköz Le Havre-ban gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        0.105272,
+                        49.484469
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
+                  "text": "Egy népszerű játszótér Le Havre-ban, egy egykori sportterületen.",
+                  "category": "family",
+                  "coords": [
+                        0.149712,
+                        49.5061
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
+                  "text": "Természetközeli játszóterület a Montgeon erdőben Le Havre-nál a kis felfedezőknek.",
+                  "category": "family",
+                  "coords": [
+                        0.139547,
+                        49.514171
+                  ]
+            },
+            {
+                  "name": "La Fontaine enchantée",
+                  "text": "A Le Havre-i La Fontaine enchantée egy olyan szabadidős helyszín, amelyet a gyermekek varázslatosnak találnak majd.",
+                  "category": "family",
+                  "coords": [
+                        0.143192,
+                        49.529496
+                  ]
+            },
+            {
+                  "name": "Piscine Edouard Thomas",
+                  "text": "A Le Havre-i Piscine Edouard Thomas különféle vízi létesítményeket kínál szórakozáshoz és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        0.161631,
+                        49.49857
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne Andre Malraux",
+                  "text": "Le Havre jelentős művészeti múzeuma, amely az impresszionista alkotások gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        0.102705,
+                        49.484966
+                  ]
+            },
+            {
+                  "name": "Phare de la Heve",
+                  "text": "Jellegzetes világítótorony Le Havre-ban, amely az utat mutatja a hajóknak a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        0.069249,
+                        49.512408
+                  ]
+            },
+            {
+                  "name": "Fort de Tourneville",
+                  "text": "Egykori erődítmény Le Havre-ban, amelyet ma kulturális térként használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        0.121893,
+                        49.50421
+                  ]
+            },
+            {
+                  "name": "Salon des Navigateurs",
+                  "text": "Múzeum Le Havre-ban, amely a tengerészeti történelemnek és a hajósoknak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        0.11343,
+                        49.488698
+                  ]
+            },
+            {
+                  "name": "Le Poulallier",
+                  "text": "Helyi színház Le Havre-ban, amely különféle előadásokat és kulturális eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        0.120139,
+                        49.492854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Volcan",
+                  "text": "Centrul cultural proiectat de Oscar Niemeyer, recunoscut pentru formele sale albe și curbate neobișnuite.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        0.106945,
+                        49.4904
+                  ]
+            },
+            {
+                  "name": "Primăria orașului Le Havre",
+                  "text": "O piesă centrală a arhitecturii moderne de după război, parte a patrimoniului mondial UNESCO.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1078,
+                        49.4935
+                  ]
+            },
+            {
+                  "name": "Apartamentul-Martor Perret",
+                  "text": "O reconstituire fidelă a unui apartament din anii '50, oferind o incursiune în viața cotidiană a acelei epoci.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.10757,
+                        49.49178
+                  ]
+            },
+            {
+                  "name": "Portul Le Havre",
+                  "text": "Unul dintre cele mai mari porturi comerciale din Europa, esențial pentru economia și istoria locală.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1569,
+                        49.4705
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame du Havre",
+                  "text": "Catedrală din secolul al XVI-lea, una dintre puținele clădiri care au supraviețuit distrugerii aproape totale a orașului în 1944.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        0.108333,
+                        49.486944
+                  ]
+            },
+            {
+                  "name": "Docks Vauban",
+                  "text": "Foste depozite portuare istorice transformate într-un centru comercial și de agrement modern, păstrând arhitectura de cărămidă.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.129537,
+                        49.490201
+                  ]
+            },
+            {
+                  "name": "Abbaye de Graville",
+                  "text": "O mănăstire romanică situată pe un deal cu vedere la estuarul Senei, găzduind un muzeu de artă sacră și sculpturi.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        0.164923,
+                        49.503487
+                  ]
+            },
+            {
+                  "name": "Maison de l'Armateur",
+                  "text": "O casă de negustor din secolul al XVIII-lea ce prezintă stilul de viață burghez și istoria maritimă glorioasă a portului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        0.11275,
+                        49.4869
+                  ]
+            },
+            {
+                  "name": "Plaja din Le Havre",
+                  "text": "Această plajă întinsă cu pietriș din Le Havre oferă o vedere largă asupra Canalului Mânecii. Vizitatorii se pot bucura de promenada animată și de cabanele de plajă colorate. Este un loc excelent pentru plimbări lungi sau pentru relaxare la malul apei. O vizită în lunile mai calde este recomandată.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.0912,
+                        49.4961
+                  ]
+            },
+            {
+                  "name": "Forêt de Montgeon",
+                  "text": "O pădure urbană întinsă în centrul orașului, oferind lacuri, trasee de drumeție și spații verzi pentru recreere în aer liber.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.1435,
+                        49.516
+                  ]
+            },
+            {
+                  "name": "Stade Océane",
+                  "text": "Un stadion modern cu o fațadă albastră translucidă, remarcat pentru designul său ecologic și sustenabilitatea energetică.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1697,
+                        49.4988
+                  ]
+            },
+            {
+                  "name": "Le Pain de Sucre",
+                  "text": "Monument distinctiv în Sainte-Adresse dedicat marinarilor, oferind o panoramă spectaculoasă asupra întregului golf.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.083215,
+                        49.504477
+                  ]
+            },
+            {
+                  "name": "Paradox",
+                  "text": "Un centru de divertisment captivant în Le Havre, cu multe jocuri pentru copii și tineri.",
+                  "category": "family",
+                  "coords": [
+                        0.134492,
+                        49.492371
+                  ]
+            },
+            {
+                  "name": "Family's games",
+                  "text": "Un centru de jocuri pentru familie în Le Havre, garantând distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        0.111725,
+                        49.496004
+                  ]
+            },
+            {
+                  "name": "Le city",
+                  "text": "O zonă de joacă centrală în Le Havre, ideală pentru o pauză activă.",
+                  "category": "family",
+                  "coords": [
+                        0.148879,
+                        49.497205
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "Un centru de divertisment palpitant în Le Havre pentru activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        0.137339,
+                        49.492384
+                  ]
+            },
+            {
+                  "name": "Square Chillou",
+                  "text": "Un loc de joacă mic și liniștit în Le Havre pentru copiii din vecinătate.",
+                  "category": "family",
+                  "coords": [
+                        0.110592,
+                        49.491981
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Grand hameau",
+                  "text": "Un loc de joacă generos în Le Havre cu mult spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        0.093014,
+                        49.52399
+                  ]
+            },
+            {
+                  "name": "Araignée",
+                  "text": "Un echipament de cățărat sau de joacă conceput cu imaginație în Le Havre.",
+                  "category": "family",
+                  "coords": [
+                        0.105272,
+                        49.484469
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
+                  "text": "Un loc de joacă popular în Le Havre, pe un fost teren sportiv.",
+                  "category": "family",
+                  "coords": [
+                        0.149712,
+                        49.5061
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
+                  "text": "O zonă de joacă în natură în pădurea Montgeon de lângă Le Havre pentru mici exploratori.",
+                  "category": "family",
+                  "coords": [
+                        0.139547,
+                        49.514171
+                  ]
+            },
+            {
+                  "name": "La Fontaine enchantée",
+                  "text": "La Fontaine enchantée din Le Havre este un loc de agrement cu elemente pe care copiii le vor găsi magice.",
+                  "category": "family",
+                  "coords": [
+                        0.143192,
+                        49.529496
+                  ]
+            },
+            {
+                  "name": "Piscine Edouard Thomas",
+                  "text": "Piscina Edouard Thomas din Le Havre oferă diverse facilități acvatice pentru distracție și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        0.161631,
+                        49.49857
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne Andre Malraux",
+                  "text": "Un muzeu de artă important din Le Havre, care găzduiește o colecție bogată de lucrări impresioniste.",
+                  "category": "museum",
+                  "coords": [
+                        0.102705,
+                        49.484966
+                  ]
+            },
+            {
+                  "name": "Phare de la Heve",
+                  "text": "Un far distinctiv din Le Havre, care ghidează navele de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.069249,
+                        49.512408
+                  ]
+            },
+            {
+                  "name": "Fort de Tourneville",
+                  "text": "O fostă fortăreață din Le Havre, utilizată astăzi ca spațiu cultural.",
+                  "category": "fortress",
+                  "coords": [
+                        0.121893,
+                        49.50421
+                  ]
+            },
+            {
+                  "name": "Salon des Navigateurs",
+                  "text": "Un muzeu din Le Havre dedicat istoriei maritime și navigatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        0.11343,
+                        49.488698
+                  ]
+            },
+            {
+                  "name": "Le Poulallier",
+                  "text": "Un teatru local din Le Havre, care oferă diverse spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        0.120139,
+                        49.492854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Volcan",
+                  "text": "The cultural venue designed by Oscar Niemeyer, shaped like a large white volcano in the city center.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        0.106945,
+                        49.4904
+                  ]
+            },
+            {
+                  "name": "Le Havre City Hall",
+                  "text": "The centerpiece of the Perret reconstruction, this UNESCO-listed civic building features a tall watchtower.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1078,
+                        49.4935
+                  ]
+            },
+            {
+                  "name": "Perret Show Flat",
+                  "text": "A meticulously preserved 1950s apartment showing the original layout and furniture from the reconstruction era.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.10757,
+                        49.49178
+                  ]
+            },
+            {
+                  "name": "Port of Le Havre",
+                  "text": "France's leading port for international trade, offering boat tours to see its massive industrial docks.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1569,
+                        49.4705
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame du Havre",
+                  "text": "A 16th-century cathedral and one of the rare survivors of the 1944 bombings, featuring a mix of Gothic and Renaissance styles.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        0.108333,
+                        49.486944
+                  ]
+            },
+            {
+                  "name": "Docks Vauban",
+                  "text": "Former historic port warehouses converted into a modern shopping and leisure complex with cinemas and restaurants.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.129537,
+                        49.490201
+                  ]
+            },
+            {
+                  "name": "Abbaye de Graville",
+                  "text": "An ancient Romanesque abbey overlooking the Seine estuary, housing a museum with a significant collection of sacred art.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        0.164923,
+                        49.503487
+                  ]
+            },
+            {
+                  "name": "Maison de l'Armateur",
+                  "text": "An 18th-century merchant's house that provides a glimpse into the bourgeois life and maritime history of Le Havre.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        0.11275,
+                        49.4869
+                  ]
+            },
+            {
+                  "name": "Le Havre Beach",
+                  "text": "This sweeping pebble beach in Le Havre offers expansive views over the English Channel. Visitors can enjoy the lively promenade lined with brightly colored beach huts. It serves as a wonderful spot for a long walk or relaxing by the water. Planning a visit during the warmer months is a great idea.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.0912,
+                        49.4961
+                  ]
+            },
+            {
+                  "name": "Forêt de Montgeon",
+                  "text": "A massive urban forest in the heart of the city, offering many trails, lakes, and sports facilities for outdoor recreation.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        0.1435,
+                        49.516
+                  ]
+            },
+            {
+                  "name": "Stade Océane",
+                  "text": "A modern eco-stadium known for its distinctive blue translucent exterior and sustainable high-tech architectural design.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        0.1697,
+                        49.4988
+                  ]
+            },
+            {
+                  "name": "Le Pain de Sucre",
+                  "text": "A distinctive sugar-loaf shaped monument in Sainte-Adresse dedicated to sailors, offering panoramic sea views.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        0.083215,
+                        49.504477
+                  ]
+            },
+            {
+                  "name": "Paradox",
+                  "text": "An exciting leisure center in Le Havre with many games for children and teens.",
+                  "category": "family",
+                  "coords": [
+                        0.134492,
+                        49.492371
+                  ]
+            },
+            {
+                  "name": "Family's games",
+                  "text": "A family-friendly games center in Le Havre, guaranteeing fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        0.111725,
+                        49.496004
+                  ]
+            },
+            {
+                  "name": "Le city",
+                  "text": "A central play area in Le Havre, ideal for an active break.",
+                  "category": "family",
+                  "coords": [
+                        0.148879,
+                        49.497205
+                  ]
+            },
+            {
+                  "name": "Laser Game",
+                  "text": "An exciting entertainment center in Le Havre for joint family activities.",
+                  "category": "family",
+                  "coords": [
+                        0.137339,
+                        49.492384
+                  ]
+            },
+            {
+                  "name": "Square Chillou",
+                  "text": "A quiet, small playground in Le Havre for neighborhood children.",
+                  "category": "family",
+                  "coords": [
+                        0.110592,
+                        49.491981
+                  ]
+            },
+            {
+                  "name": "Aire de jeux du Grand hameau",
+                  "text": "A spacious playground in Le Havre with plenty of room for outdoor movement.",
+                  "category": "family",
+                  "coords": [
+                        0.093014,
+                        49.52399
+                  ]
+            },
+            {
+                  "name": "Araignée",
+                  "text": "An imaginatively designed climbing or play structure in Le Havre for children.",
+                  "category": "family",
+                  "coords": [
+                        0.105272,
+                        49.484469
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de Ex Vélodrome",
+                  "text": "A popular playground in Le Havre on a former sports site.",
+                  "category": "family",
+                  "coords": [
+                        0.149712,
+                        49.5061
+                  ]
+            },
+            {
+                  "name": "Aire de jeux pour enfant de la foret de Montgeon",
+                  "text": "A nature-oriented play area in the Montgeon forest near Le Havre for little explorers.",
+                  "category": "family",
+                  "coords": [
+                        0.139547,
+                        49.514171
+                  ]
+            },
+            {
+                  "name": "La Fontaine enchantée",
+                  "text": "La Fontaine enchantée in Le Havre is a leisure spot with features that children will find magical.",
+                  "category": "family",
+                  "coords": [
+                        0.143192,
+                        49.529496
+                  ]
+            },
+            {
+                  "name": "Piscine Edouard Thomas",
+                  "text": "Piscine Edouard Thomas in Le Havre offers various aquatic facilities for fun and exercise.",
+                  "category": "family",
+                  "coords": [
+                        0.161631,
+                        49.49857
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne Andre Malraux",
+                  "text": "A major art museum in Le Havre housing a rich collection of Impressionist works.",
+                  "category": "museum",
+                  "coords": [
+                        0.102705,
+                        49.484966
+                  ]
+            },
+            {
+                  "name": "Phare de la Heve",
+                  "text": "A prominent lighthouse in Le Havre that guides ships along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        0.069249,
+                        49.512408
+                  ]
+            },
+            {
+                  "name": "Fort de Tourneville",
+                  "text": "A former fortress in Le Havre, now used as a cultural space.",
+                  "category": "fortress",
+                  "coords": [
+                        0.121893,
+                        49.50421
+                  ]
+            },
+            {
+                  "name": "Salon des Navigateurs",
+                  "text": "A museum in Le Havre dedicated to maritime history and navigators.",
+                  "category": "museum",
+                  "coords": [
+                        0.11343,
+                        49.488698
+                  ]
+            },
+            {
+                  "name": "Le Poulallier",
+                  "text": "A local theatre in Le Havre offering various performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        0.120139,
+                        49.492854
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Le Volcan",
+                  "text": "Le centre culturel conçu par l'architecte Oscar Niemeyer se distingue par sa forme blanche et courbe.",
+                  "category": "cultural",
+                  "coords": [
+                        0.106945,
+                        49.4904
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville du Havre",
+                  "text": "L'hôtel de ville avec sa tour caractéristique est classé au patrimoine mondial de l'UNESCO et témoigne de la reconstruction.",
+                  "category": "civic",
+                  "coords": [
+                        0.1078,
+                        49.4935
+                  ]
+            },
+            {
+                  "name": "Appartement témoin Perret",
+                  "text": "Cet appartement témoin montre fidèlement le design et le confort de vie dans les années 1950 au Havre.",
+                  "category": "historical",
+                  "coords": [
+                        0.10757,
+                        49.49178
+                  ]
+            },
+            {
+                  "name": "Port du Havre",
+                  "text": "L'un des plus grands ports d'Europe, véritable moteur économique et identitaire de la ville.",
+                  "category": "civic",
+                  "coords": [
+                        0.1569,
+                        49.4705
+                  ]
+            }
+      ]
+}
   },
   {
     id: "angers", population: 159022,
@@ -2056,6 +3159,42 @@ const citySeeds: CitySeed[] = [
                         -0.61728,
                         47.462931
                   ]
+            },
+            {
+                  "name": "Galerie Sonore",
+                  "text": "Ein interaktives Museum in Angers, das der Welt der Klänge und Musikinstrumente gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.549822,
+                        47.458328
+                  ]
+            },
+            {
+                  "name": "Museum des Sciences Naturelles",
+                  "text": "Dieses Naturkundemuseum in Angers zeigt umfangreiche Sammlungen zur Zoologie, Botanik und Geologie.",
+                  "category": "museum",
+                  "coords": [
+                        -0.546449,
+                        47.473812
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des cordeliers de la Baumette",
+                  "text": "Ein historisches ehemaliges Kloster in Angers, das für seine Architektur und seine Gärten bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -0.58729,
+                        47.450536
+                  ]
+            },
+            {
+                  "name": "Musee du Genie",
+                  "text": "Dieses Museum in Angers widmet sich der Geschichte und den Errungenschaften der Pioniere und Militäringenieure.",
+                  "category": "museum",
+                  "coords": [
+                        -0.565099,
+                        47.457201
+                  ]
             }
       ],
       "hu": [
@@ -2205,6 +3344,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.61728,
                         47.462931
+                  ]
+            },
+            {
+                  "name": "Galerie Sonore",
+                  "text": "Interaktív múzeum Angers-ben, amely a hangok és a hangszerek világának szentelt hely.",
+                  "category": "museum",
+                  "coords": [
+                        -0.549822,
+                        47.458328
+                  ]
+            },
+            {
+                  "name": "Museum des Sciences Naturelles",
+                  "text": "Ez az angers-i természettudományi múzeum kiterjedt zoológiai, botanikai és geológiai gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.546449,
+                        47.473812
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des cordeliers de la Baumette",
+                  "text": "Történelmi egykori kolostor Angers-ben, amely építészetéről és kertjeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -0.58729,
+                        47.450536
+                  ]
+            },
+            {
+                  "name": "Musee du Genie",
+                  "text": "Ez az angers-i múzeum a katonai műszaki alakulatok és mérnökök történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.565099,
+                        47.457201
                   ]
             }
       ],
@@ -2356,6 +3531,42 @@ const citySeeds: CitySeed[] = [
                         -0.61728,
                         47.462931
                   ]
+            },
+            {
+                  "name": "Galerie Sonore",
+                  "text": "Un muzeu interactiv din Angers, dedicat lumii sunetelor și instrumentelor muzicale.",
+                  "category": "museum",
+                  "coords": [
+                        -0.549822,
+                        47.458328
+                  ]
+            },
+            {
+                  "name": "Museum des Sciences Naturelles",
+                  "text": "Acest muzeu de științe naturale din Angers prezintă colecții extinse de zoologie, botanică și geologie.",
+                  "category": "museum",
+                  "coords": [
+                        -0.546449,
+                        47.473812
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des cordeliers de la Baumette",
+                  "text": "O fostă mănăstire istorică din Angers, cunoscută pentru arhitectura și grădinile sale.",
+                  "category": "religious",
+                  "coords": [
+                        -0.58729,
+                        47.450536
+                  ]
+            },
+            {
+                  "name": "Musee du Genie",
+                  "text": "Acest muzeu din Angers este dedicat istoriei și realizărilor geniului militar.",
+                  "category": "museum",
+                  "coords": [
+                        -0.565099,
+                        47.457201
+                  ]
             }
       ],
       "en": [
@@ -2505,6 +3716,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.61728,
                         47.462931
+                  ]
+            },
+            {
+                  "name": "Galerie Sonore",
+                  "text": "An interactive museum in Angers dedicated to the world of sounds and musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -0.549822,
+                        47.458328
+                  ]
+            },
+            {
+                  "name": "Museum des Sciences Naturelles",
+                  "text": "This natural history museum in Angers displays extensive collections of zoology, botany, and geology.",
+                  "category": "museum",
+                  "coords": [
+                        -0.546449,
+                        47.473812
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des cordeliers de la Baumette",
+                  "text": "A historic former monastery in Angers known for its architecture and gardens.",
+                  "category": "religious",
+                  "coords": [
+                        -0.58729,
+                        47.450536
+                  ]
+            },
+            {
+                  "name": "Musee du Genie",
+                  "text": "This museum in Angers is dedicated to the history and achievements of military engineering.",
+                  "category": "museum",
+                  "coords": [
+                        -0.565099,
+                        47.457201
                   ]
             }
       ],
@@ -4558,6 +5805,24 @@ const citySeeds: CitySeed[] = [
                         -4.489455,
                         48.389535
                   ]
+            },
+            {
+                  "name": "Theatre de l'Instant",
+                  "text": "Ein kleines Theater in Brest, das Raum für darstellende Kunst und lokale Inszenierungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489378,
+                        48.405771
+                  ]
+            },
+            {
+                  "name": "Cabaret Le Vauban",
+                  "text": "Ein bekanntes Kabarett und Theater in Brest, das für seine Live-Konzerte und Unterhaltung geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.484083,
+                        48.389388
+                  ]
             }
       ],
       "hu": [
@@ -4952,6 +6217,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.489455,
                         48.389535
+                  ]
+            },
+            {
+                  "name": "Theatre de l'Instant",
+                  "text": "Kis színház Brestben, amely teret ad az előadóművészetnek és a helyi produkcióknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489378,
+                        48.405771
+                  ]
+            },
+            {
+                  "name": "Cabaret Le Vauban",
+                  "text": "Ismert kabaré és színház Brestben, amelyet élő koncertjei és szórakoztató műsorai miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.484083,
+                        48.389388
                   ]
             }
       ],
@@ -5348,6 +6631,24 @@ const citySeeds: CitySeed[] = [
                         -4.489455,
                         48.389535
                   ]
+            },
+            {
+                  "name": "Theatre de l'Instant",
+                  "text": "Un teatru mic din Brest, care oferă spațiu pentru artele spectacolului și producții locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489378,
+                        48.405771
+                  ]
+            },
+            {
+                  "name": "Cabaret Le Vauban",
+                  "text": "Un cabaret și teatru cunoscut din Brest, apreciat pentru concertele live și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.484083,
+                        48.389388
+                  ]
             }
       ],
       "en": [
@@ -5742,6 +7043,24 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.489455,
                         48.389535
+                  ]
+            },
+            {
+                  "name": "Theatre de l'Instant",
+                  "text": "A small theatre in Brest providing space for performing arts and local productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489378,
+                        48.405771
+                  ]
+            },
+            {
+                  "name": "Cabaret Le Vauban",
+                  "text": "A well-known cabaret and theatre in Brest, popular for its live concerts and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.484083,
+                        48.389388
                   ]
             }
       ],
@@ -6143,6 +7462,42 @@ const citySeeds: CitySeed[] = [
                         0.666864,
                         47.385383
                   ]
+            },
+            {
+                  "name": "Chateau de Bel-Air",
+                  "text": "Ein elegantes Schloss in der Nähe von Tours, das für seine klassische französische Architektur steht.",
+                  "category": "castle",
+                  "coords": [
+                        0.637582,
+                        47.393
+                  ]
+            },
+            {
+                  "name": "Manoir de Sapaille",
+                  "text": "Ein historisches Herrenhaus in Tours, das ein schönes Beispiel für die regionale Baukunst darstellt.",
+                  "category": "castle",
+                  "coords": [
+                        0.692619,
+                        47.428503
+                  ]
+            },
+            {
+                  "name": "Manoir de la Rabaterie",
+                  "text": "Ein denkmalgeschütztes Herrenhaus in Tours mit einer reichen Geschichte und traditionellem Design.",
+                  "category": "castle",
+                  "coords": [
+                        0.665766,
+                        47.385904
+                  ]
+            },
+            {
+                  "name": "Musee des Vins de Touraine",
+                  "text": "Dieses Museum in Tours präsentiert die Weinbautraditionen und die Geschichte der Weine der Touraine.",
+                  "category": "museum",
+                  "coords": [
+                        0.68696,
+                        47.396006
+                  ]
             }
       ],
       "hu": [
@@ -6450,6 +7805,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.666864,
                         47.385383
+                  ]
+            },
+            {
+                  "name": "Chateau de Bel-Air",
+                  "text": "Elegáns kastély Tours közelében, amely a klasszikus francia építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        0.637582,
+                        47.393
+                  ]
+            },
+            {
+                  "name": "Manoir de Sapaille",
+                  "text": "Történelmi udvarház Tours-ban, amely a regionális építészet szép példája.",
+                  "category": "castle",
+                  "coords": [
+                        0.692619,
+                        47.428503
+                  ]
+            },
+            {
+                  "name": "Manoir de la Rabaterie",
+                  "text": "Műemléki védelem alatt álló udvarház Tours-ban, gazdag történelemmel és hagyományos kialakítással.",
+                  "category": "castle",
+                  "coords": [
+                        0.665766,
+                        47.385904
+                  ]
+            },
+            {
+                  "name": "Musee des Vins de Touraine",
+                  "text": "Ez a tours-i múzeum a Touraine régió borászati hagyományait és borainak történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        0.68696,
+                        47.396006
                   ]
             }
       ],
@@ -6759,6 +8150,42 @@ const citySeeds: CitySeed[] = [
                         0.666864,
                         47.385383
                   ]
+            },
+            {
+                  "name": "Chateau de Bel-Air",
+                  "text": "Un castel elegant lângă Tours, reprezentativ pentru arhitectura clasică franceză.",
+                  "category": "castle",
+                  "coords": [
+                        0.637582,
+                        47.393
+                  ]
+            },
+            {
+                  "name": "Manoir de Sapaille",
+                  "text": "Un conac istoric din Tours, care reprezintă un exemplu frumos al arhitecturii regionale.",
+                  "category": "castle",
+                  "coords": [
+                        0.692619,
+                        47.428503
+                  ]
+            },
+            {
+                  "name": "Manoir de la Rabaterie",
+                  "text": "Un conac istoric din Tours, cu o istorie bogată și un design tradițional.",
+                  "category": "castle",
+                  "coords": [
+                        0.665766,
+                        47.385904
+                  ]
+            },
+            {
+                  "name": "Musee des Vins de Touraine",
+                  "text": "Acest muzeu din Tours prezintă tradițiile viticole și istoria vinurilor din Touraine.",
+                  "category": "museum",
+                  "coords": [
+                        0.68696,
+                        47.396006
+                  ]
             }
       ],
       "en": [
@@ -7066,6 +8493,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.666864,
                         47.385383
+                  ]
+            },
+            {
+                  "name": "Chateau de Bel-Air",
+                  "text": "An elegant castle near Tours, representative of classic French architecture.",
+                  "category": "castle",
+                  "coords": [
+                        0.637582,
+                        47.393
+                  ]
+            },
+            {
+                  "name": "Manoir de Sapaille",
+                  "text": "A historic manor house in Tours that is a fine example of regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        0.692619,
+                        47.428503
+                  ]
+            },
+            {
+                  "name": "Manoir de la Rabaterie",
+                  "text": "A listed manor house in Tours featuring a rich history and traditional design.",
+                  "category": "castle",
+                  "coords": [
+                        0.665766,
+                        47.385904
+                  ]
+            },
+            {
+                  "name": "Musee des Vins de Touraine",
+                  "text": "This museum in Tours presents the winemaking traditions and history of the wines of Touraine.",
+                  "category": "museum",
+                  "coords": [
+                        0.68696,
+                        47.396006
                   ]
             }
       ],
@@ -8917,6 +10380,60 @@ const citySeeds: CitySeed[] = [
                         1.217362,
                         45.808177
                   ]
+            },
+            {
+                  "name": "Espace Noriac",
+                  "text": "Ein vielseitiger Kulturraum und Theater in Limoges, der sich in einem historischen Gebäude befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        1.257557,
+                        45.834067
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Carmes",
+                  "text": "Ein ehemaliges Karmeliterkloster in Limoges, das von der religiösen Geschichte der Stadt zeugt.",
+                  "category": "religious",
+                  "coords": [
+                        1.249645,
+                        45.829448
+                  ]
+            },
+            {
+                  "name": "Chateau du Mas de l'Age",
+                  "text": "Ein historisches Schloss bei Limoges, das von einer malerischen Landschaft umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        1.246256,
+                        45.858495
+                  ]
+            },
+            {
+                  "name": "Ancienne abbaye Saint-Martial",
+                  "text": "Eine archäologische Stätte in Limoges, die die Überreste der einst bedeutenden Abtei Saint-Martial zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        1.259802,
+                        45.83151
+                  ]
+            },
+            {
+                  "name": "Fragment du mur gallo-romain",
+                  "text": "Ein erhaltenes Teilstück der antiken gallo-römischen Stadtmauer in Limoges.",
+                  "category": "historical",
+                  "coords": [
+                        1.256627,
+                        45.820498
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Sainte-Claire",
+                  "text": "Eine archäologische Stätte in Limoges, die die Überreste einer gallo-römischen Villa bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        1.240506,
+                        45.823679
+                  ]
             }
       ],
       "hu": [
@@ -9123,6 +10640,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.217362,
                         45.808177
+                  ]
+            },
+            {
+                  "name": "Espace Noriac",
+                  "text": "Sokoldalú kulturális tér és színház Limoges-ban, amely egy történelmi épületben található.",
+                  "category": "cultural",
+                  "coords": [
+                        1.257557,
+                        45.834067
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Carmes",
+                  "text": "Egykori karmelita kolostor Limoges-ban, amely a város vallástörténetéről tanúskodik.",
+                  "category": "religious",
+                  "coords": [
+                        1.249645,
+                        45.829448
+                  ]
+            },
+            {
+                  "name": "Chateau du Mas de l'Age",
+                  "text": "Történelmi kastély Limoges közelében, amelyet festői táj vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        1.246256,
+                        45.858495
+                  ]
+            },
+            {
+                  "name": "Ancienne abbaye Saint-Martial",
+                  "text": "Régészeti lelőhely Limoges-ban, amely az egykor jelentős Saint-Martial apátság maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        1.259802,
+                        45.83151
+                  ]
+            },
+            {
+                  "name": "Fragment du mur gallo-romain",
+                  "text": "Az ókori gall-római városfal egy fennmaradt darabja Limoges-ban.",
+                  "category": "historical",
+                  "coords": [
+                        1.256627,
+                        45.820498
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Sainte-Claire",
+                  "text": "Régészeti lelőhely Limoges-ban, amely egy gall-római villa maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        1.240506,
+                        45.823679
                   ]
             }
       ],
@@ -9331,6 +10902,60 @@ const citySeeds: CitySeed[] = [
                         1.217362,
                         45.808177
                   ]
+            },
+            {
+                  "name": "Espace Noriac",
+                  "text": "Un spațiu cultural și teatru versatil din Limoges, situat într-o clădire istorică.",
+                  "category": "cultural",
+                  "coords": [
+                        1.257557,
+                        45.834067
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Carmes",
+                  "text": "O fostă mănăstire a Carmeliților din Limoges, care atestă istoria religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        1.249645,
+                        45.829448
+                  ]
+            },
+            {
+                  "name": "Chateau du Mas de l'Age",
+                  "text": "Un castel istoric de lângă Limoges, înconjurat de un peisaj pitoresc.",
+                  "category": "castle",
+                  "coords": [
+                        1.246256,
+                        45.858495
+                  ]
+            },
+            {
+                  "name": "Ancienne abbaye Saint-Martial",
+                  "text": "Un sit arheologic din Limoges, care prezintă vestigiile fostei mănăstiri importante Saint-Martial.",
+                  "category": "historical",
+                  "coords": [
+                        1.259802,
+                        45.83151
+                  ]
+            },
+            {
+                  "name": "Fragment du mur gallo-romain",
+                  "text": "Un fragment păstrat din zidul antic gallo-roman al orașului Limoges.",
+                  "category": "historical",
+                  "coords": [
+                        1.256627,
+                        45.820498
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Sainte-Claire",
+                  "text": "Un sit arheologic din Limoges, care păstrează resturile unei vile gallo-romane.",
+                  "category": "historical",
+                  "coords": [
+                        1.240506,
+                        45.823679
+                  ]
             }
       ],
       "en": [
@@ -9537,6 +11162,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.217362,
                         45.808177
+                  ]
+            },
+            {
+                  "name": "Espace Noriac",
+                  "text": "A versatile cultural space and theatre in Limoges, located in a historical building.",
+                  "category": "cultural",
+                  "coords": [
+                        1.257557,
+                        45.834067
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Carmes",
+                  "text": "A former Carmelite monastery in Limoges, testifying to the city's religious history.",
+                  "category": "religious",
+                  "coords": [
+                        1.249645,
+                        45.829448
+                  ]
+            },
+            {
+                  "name": "Chateau du Mas de l'Age",
+                  "text": "A historical castle near Limoges, surrounded by a picturesque landscape.",
+                  "category": "castle",
+                  "coords": [
+                        1.246256,
+                        45.858495
+                  ]
+            },
+            {
+                  "name": "Ancienne abbaye Saint-Martial",
+                  "text": "An archaeological site in Limoges showcasing the remains of the once-important Saint-Martial Abbey.",
+                  "category": "historical",
+                  "coords": [
+                        1.259802,
+                        45.83151
+                  ]
+            },
+            {
+                  "name": "Fragment du mur gallo-romain",
+                  "text": "A preserved fragment of the ancient Gallo-Roman city wall in Limoges.",
+                  "category": "historical",
+                  "coords": [
+                        1.256627,
+                        45.820498
+                  ]
+            },
+            {
+                  "name": "Villa gallo-romaine de Sainte-Claire",
+                  "text": "An archaeological site in Limoges preserving the remains of a Gallo-Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        1.240506,
+                        45.823679
                   ]
             }
       ],
@@ -9837,6 +11516,42 @@ const citySeeds: CitySeed[] = [
                         6.16093,
                         49.104162
                   ]
+            },
+            {
+                  "name": "Abbaye Saint-Arnould",
+                  "text": "Eine ehemalige Benediktinerabtei in Metz, die eine lange religiöse und architektonische Geschichte besitzt.",
+                  "category": "religious",
+                  "coords": [
+                        6.171678,
+                        49.118068
+                  ]
+            },
+            {
+                  "name": "Ancien chateau Lasalle",
+                  "text": "Die Überreste eines historischen Schlosses in Metz, das einst Teil der städtischen Verteidigung war.",
+                  "category": "castle",
+                  "coords": [
+                        6.148365,
+                        49.123867
+                  ]
+            },
+            {
+                  "name": "Theatre Bernard-Marie Koltes",
+                  "text": "Ein modernes Theater in Metz, das nach dem bekannten Dramatiker benannt ist und zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.165643,
+                        49.119212
+                  ]
+            },
+            {
+                  "name": "Fort Queuleu",
+                  "text": "Eine bedeutende Festungsanlage in Metz, die im Zweiten Weltkrieg als Lager und Gefängnis genutzt wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        6.204042,
+                        49.095615
+                  ]
             }
       ],
       "hu": [
@@ -10043,6 +11758,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.16093,
                         49.104162
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Arnould",
+                  "text": "Egykori bencés apátság Metzben, amely hosszú vallási és építészeti múlttal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        6.171678,
+                        49.118068
+                  ]
+            },
+            {
+                  "name": "Ancien chateau Lasalle",
+                  "text": "Egy történelmi kastély maradványai Metzben, amely egykor a városi védelem része volt.",
+                  "category": "castle",
+                  "coords": [
+                        6.148365,
+                        49.123867
+                  ]
+            },
+            {
+                  "name": "Theatre Bernard-Marie Koltes",
+                  "text": "Modern színház Metzben, amelyet a neves drámaíróról neveztek el, és kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        6.165643,
+                        49.119212
+                  ]
+            },
+            {
+                  "name": "Fort Queuleu",
+                  "text": "Jelentős erődítmény Metzben, amelyet a második világháború alatt tábornak és börtönnek használtak.",
+                  "category": "fortress",
+                  "coords": [
+                        6.204042,
+                        49.095615
                   ]
             }
       ],
@@ -10251,6 +12002,42 @@ const citySeeds: CitySeed[] = [
                         6.16093,
                         49.104162
                   ]
+            },
+            {
+                  "name": "Abbaye Saint-Arnould",
+                  "text": "O fostă abație benedictină din Metz, cu o lungă istorie religioasă și arhitecturală.",
+                  "category": "religious",
+                  "coords": [
+                        6.171678,
+                        49.118068
+                  ]
+            },
+            {
+                  "name": "Ancien chateau Lasalle",
+                  "text": "Vestigiile unui castel istoric din Metz, care a făcut parte odinioară din apărarea orașului.",
+                  "category": "castle",
+                  "coords": [
+                        6.148365,
+                        49.123867
+                  ]
+            },
+            {
+                  "name": "Theatre Bernard-Marie Koltes",
+                  "text": "Un teatru modern din Metz, numit după cunoscutul dramaturg, care pune în scenă piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        6.165643,
+                        49.119212
+                  ]
+            },
+            {
+                  "name": "Fort Queuleu",
+                  "text": "O fortificație importantă din Metz, folosită ca lagăr și închisoare în timpul celui de-al Doilea Război Mondial.",
+                  "category": "fortress",
+                  "coords": [
+                        6.204042,
+                        49.095615
+                  ]
             }
       ],
       "en": [
@@ -10457,6 +12244,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.16093,
                         49.104162
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Arnould",
+                  "text": "A former Benedictine abbey in Metz with a long religious and architectural history.",
+                  "category": "religious",
+                  "coords": [
+                        6.171678,
+                        49.118068
+                  ]
+            },
+            {
+                  "name": "Ancien chateau Lasalle",
+                  "text": "The remains of a historic castle in Metz that was once part of the city's defenses.",
+                  "category": "castle",
+                  "coords": [
+                        6.148365,
+                        49.123867
+                  ]
+            },
+            {
+                  "name": "Theatre Bernard-Marie Koltes",
+                  "text": "A modern theatre in Metz named after the famous playwright, showcasing contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        6.165643,
+                        49.119212
+                  ]
+            },
+            {
+                  "name": "Fort Queuleu",
+                  "text": "A major fortification in Metz used as a camp and prison during World War II.",
+                  "category": "fortress",
+                  "coords": [
+                        6.204042,
+                        49.095615
                   ]
             }
       ],
@@ -11980,6 +13803,51 @@ const citySeeds: CitySeed[] = [
                         6.035421,
                         47.227956
                   ]
+            },
+            {
+                  "name": "Fort Benoit",
+                  "text": "Eine historische Befestigungsanlage in Besançon, die Teil des Verteidigungssystems der Stadt war.",
+                  "category": "fortress",
+                  "coords": [
+                        6.053502,
+                        47.259864
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "Eine Institution in Besançon, die zeitgenössische Kunst sammelt und in wechselnden Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Ein kleines Museum in der Nähe von Besançon, das sich dem Erbe und den Werken von Lucien Roy widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "Ein historisches Gebäude in Besançon, das einst als Kloster diente und heute soziale Einrichtungen beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Ein Regionalmuseum in Besançon, das die Volkskunst und Traditionen der Region Franche-Comté präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
+                  ]
             }
       ],
       "hu": [
@@ -12165,6 +14033,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.035421,
                         47.227956
+                  ]
+            },
+            {
+                  "name": "Fort Benoit",
+                  "text": "Történelmi erődítmény Besançonban, amely a város védelmi rendszerének része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.053502,
+                        47.259864
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "Besançon-i intézmény, amely kortárs művészeti alkotásokat gyűjt és mutat be időszaki kiállításokon.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Kis múzeum Besançon közelében, amely Lucien Roy örökségének és műveinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "Történelmi épület Besançonban, amely einekor kolostorként szolgált, ma pedig szociális intézményeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Regionális múzeum Besançonban, amely a Franche-Comté régió népművészetét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
                   ]
             }
       ],
@@ -12352,6 +14265,51 @@ const citySeeds: CitySeed[] = [
                         6.035421,
                         47.227956
                   ]
+            },
+            {
+                  "name": "Fort Benoit",
+                  "text": "O fortificație istorică din Besançon, care a făcut parte din sistemul defensiv al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        6.053502,
+                        47.259864
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "O instituție din Besançon care colectează și prezintă artă contemporană în expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Un mic muzeu de lângă Besançon, dedicat moștenirii și lucrărilor lui Lucien Roy.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "O clădire istorică din Besançon, care a servit odinioară drept mănăstire și găzduiește astăzi instituții sociale.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Un muzeu regional din Besançon, care prezintă arta populară și tradițiile regiunii Franche-Comté.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
+                  ]
             }
       ],
       "en": [
@@ -12537,6 +14495,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.035421,
                         47.227956
+                  ]
+            },
+            {
+                  "name": "Fort Benoit",
+                  "text": "A historical fortification in Besançon that was part of the city's defense system.",
+                  "category": "fortress",
+                  "coords": [
+                        6.053502,
+                        47.259864
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "An institution in Besançon that collects and presents contemporary art in rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "A small museum near Besançon dedicated to the heritage and works of Lucien Roy.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "A historical building in Besançon that once served as a monastery and now houses social institutions.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "A regional museum in Besançon presenting the folk art and traditions of the Franche-Comté region.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
                   ]
             }
       ],
@@ -12889,6 +14892,42 @@ const citySeeds: CitySeed[] = [
                         1.896086,
                         47.93934
                   ]
+            },
+            {
+                  "name": "Centre de Conferences",
+                  "text": "Ein modernes Veranstaltungszentrum in Orléans für Konferenzen, Tagungen und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.91753,
+                        47.904065
+                  ]
+            },
+            {
+                  "name": "Theatre de marionnettes",
+                  "text": "Ein charmantes Theater in Orléans, das sich auf traditionelle und moderne Puppenspiele spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        1.910554,
+                        47.906461
+                  ]
+            },
+            {
+                  "name": "Centre Charles Peguy",
+                  "text": "Dieses Museum in Orléans ist dem Leben und Werk des Schriftstellers und Dichters Charles Péguy gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        1.903432,
+                        47.900477
+                  ]
+            },
+            {
+                  "name": "Orleans Jazz Club",
+                  "text": "Ein lebendiger Veranstaltungsort in Orléans, der für Jazzkonzerte und musikalische Darbietungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        1.902735,
+                        47.903549
+                  ]
             }
       ],
       "hu": [
@@ -13165,6 +15204,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.896086,
                         47.93934
+                  ]
+            },
+            {
+                  "name": "Centre de Conferences",
+                  "text": "Modern rendezvényközpont Orléans-ban konferenciák, találkozók és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        1.91753,
+                        47.904065
+                  ]
+            },
+            {
+                  "name": "Theatre de marionnettes",
+                  "text": "Bájos színház Orléans-ban, amely hagyományos és modern bábelőadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        1.910554,
+                        47.906461
+                  ]
+            },
+            {
+                  "name": "Centre Charles Peguy",
+                  "text": "Ez az orléans-i múzeum Charles Péguy író és költő életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        1.903432,
+                        47.900477
+                  ]
+            },
+            {
+                  "name": "Orleans Jazz Club",
+                  "text": "Hangulatos orléans-i helyszín, amely jazzkoncertjeiről és zenei előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        1.902735,
+                        47.903549
                   ]
             }
       ],
@@ -13443,6 +15518,42 @@ const citySeeds: CitySeed[] = [
                         1.896086,
                         47.93934
                   ]
+            },
+            {
+                  "name": "Centre de Conferences",
+                  "text": "Un centru de evenimente modern din Orléans pentru conferințe, întâlniri și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.91753,
+                        47.904065
+                  ]
+            },
+            {
+                  "name": "Theatre de marionnettes",
+                  "text": "Un teatru fermecător din Orléans, specializat în spectacole de marionete tradiționale și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        1.910554,
+                        47.906461
+                  ]
+            },
+            {
+                  "name": "Centre Charles Peguy",
+                  "text": "Acest muzeu din Orléans este dedicat vieții și operei scriitorului și poetului Charles Péguy.",
+                  "category": "museum",
+                  "coords": [
+                        1.903432,
+                        47.900477
+                  ]
+            },
+            {
+                  "name": "Orleans Jazz Club",
+                  "text": "O locație plină de viață din Orléans, cunoscută pentru concertele de jazz și spectacolele muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.902735,
+                        47.903549
+                  ]
             }
       ],
       "en": [
@@ -13719,6 +15830,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.896086,
                         47.93934
+                  ]
+            },
+            {
+                  "name": "Centre de Conferences",
+                  "text": "A modern event center in Orléans for conferences, meetings, and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.91753,
+                        47.904065
+                  ]
+            },
+            {
+                  "name": "Theatre de marionnettes",
+                  "text": "A charming theatre in Orléans specializing in traditional and modern puppet shows.",
+                  "category": "cultural",
+                  "coords": [
+                        1.910554,
+                        47.906461
+                  ]
+            },
+            {
+                  "name": "Centre Charles Peguy",
+                  "text": "This museum in Orléans is dedicated to the life and work of the writer and poet Charles Péguy.",
+                  "category": "museum",
+                  "coords": [
+                        1.903432,
+                        47.900477
+                  ]
+            },
+            {
+                  "name": "Orleans Jazz Club",
+                  "text": "A lively venue in Orléans known for jazz concerts and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        1.902735,
+                        47.903549
                   ]
             }
       ],
@@ -16140,6 +18287,15 @@ const citySeeds: CitySeed[] = [
                         -0.376667,
                         49.177169
                   ]
+            },
+            {
+                  "name": "Monastere de la Visitation",
+                  "text": "Ein ehemaliges Kloster des Ordens von der Heimsuchung Mariens in Caen mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375148,
+                        49.181215
+                  ]
             }
       ],
       "hu": [
@@ -16624,6 +18780,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.376667,
                         49.177169
+                  ]
+            },
+            {
+                  "name": "Monastere de la Visitation",
+                  "text": "Egykori Vizitációs kolostor Caenben, amely történelmi jelentőséggel bír.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375148,
+                        49.181215
                   ]
             }
       ],
@@ -17110,6 +19275,15 @@ const citySeeds: CitySeed[] = [
                         -0.376667,
                         49.177169
                   ]
+            },
+            {
+                  "name": "Monastere de la Visitation",
+                  "text": "O fostă mănăstire a Vizitațiunii din Caen, cu o semnificație istorică importantă.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375148,
+                        49.181215
+                  ]
             }
       ],
       "en": [
@@ -17594,6 +19768,15 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.376667,
                         49.177169
+                  ]
+            },
+            {
+                  "name": "Monastere de la Visitation",
+                  "text": "A former Visitation monastery in Caen with historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375148,
+                        49.181215
                   ]
             }
       ],
@@ -18692,6 +20875,69 @@ const citySeeds: CitySeed[] = [
                         2.355305,
                         48.923639
                   ]
+            },
+            {
+                  "name": "Chateau de la Motte",
+                  "text": "Ein historisches Schlossgebäude in Saint-Denis, das heute als repräsentativer Ort für Veranstaltungen dient.",
+                  "category": "castle",
+                  "coords": [
+                        2.381638,
+                        48.958412
+                  ]
+            },
+            {
+                  "name": "Fort de l'Est",
+                  "text": "Ein bedeutendes Fort in Saint-Denis, das im 19. Jahrhundert als Teil des Verteidigungsgürtels von Paris errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        2.372433,
+                        48.930546
+                  ]
+            },
+            {
+                  "name": "Musee d'art et d'histoire de Saint-Denis",
+                  "text": "Dieses Museum in einem ehemaligen Karmeliterkloster in Saint-Denis zeigt lokale Kunst und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        2.356522,
+                        48.932462
+                  ]
+            },
+            {
+                  "name": "Theatre de la Commune",
+                  "text": "Ein renommiertes nationales Theater in Saint-Denis, das für seine innovativen Bühnenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        2.383582,
+                        48.91088
+                  ]
+            },
+            {
+                  "name": "Espace Paul-Eluard",
+                  "text": "Ein modernes Kultur- und Theaterzentrum in Saint-Denis, das nach dem berühmten französischen Dichter benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        2.381032,
+                        48.95166
+                  ]
+            },
+            {
+                  "name": "Le Theatre de Marionnettes des Chanteraines",
+                  "text": "Ein bekanntes Puppentheater in Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.317895,
+                        48.935611
+                  ]
+            },
+            {
+                  "name": "Maison Du Peuple - Salle de Spectacle Pierrefitte",
+                  "text": "Ein lokales Theater und Veranstaltungsort in Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.362047,
+                        48.965967
+                  ]
             }
       ],
       "hu": [
@@ -19077,6 +21323,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.355305,
                         48.923639
+                  ]
+            },
+            {
+                  "name": "Chateau de la Motte",
+                  "text": "Történelmi kastélyépület Saint-Denis-ben, amely ma reprezentatív rendezvényhelyszínként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        2.381638,
+                        48.958412
+                  ]
+            },
+            {
+                  "name": "Fort de l'Est",
+                  "text": "Jelentős erőd Saint-Denis-ben, amely a 19. században épült Párizs védelmi gyűrűjének részeként.",
+                  "category": "castle",
+                  "coords": [
+                        2.372433,
+                        48.930546
+                  ]
+            },
+            {
+                  "name": "Musee d'art et d'histoire de Saint-Denis",
+                  "text": "Ez a Saint-Denis-i múzeum egy egykori karmelita kolostorban mutatja be a helyi művészetet és történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        2.356522,
+                        48.932462
+                  ]
+            },
+            {
+                  "name": "Theatre de la Commune",
+                  "text": "Neves nemzeti színház Saint-Denis-ben, amely innovatív színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        2.383582,
+                        48.91088
+                  ]
+            },
+            {
+                  "name": "Espace Paul-Eluard",
+                  "text": "Modern kulturális és színházi központ Saint-Denis-ben, amelyet a híres francia költőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        2.381032,
+                        48.95166
+                  ]
+            },
+            {
+                  "name": "Le Theatre de Marionnettes des Chanteraines",
+                  "text": "Bábszínház Saint-Denis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.317895,
+                        48.935611
+                  ]
+            },
+            {
+                  "name": "Maison Du Peuple - Salle de Spectacle Pierrefitte",
+                  "text": "Színház és előadóterem Saint-Denis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.362047,
+                        48.965967
                   ]
             }
       ],
@@ -19464,6 +21773,69 @@ const citySeeds: CitySeed[] = [
                         2.355305,
                         48.923639
                   ]
+            },
+            {
+                  "name": "Chateau de la Motte",
+                  "text": "O clădire istorică de castel din Saint-Denis, care servește astăzi drept loc reprezentativ pentru evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        2.381638,
+                        48.958412
+                  ]
+            },
+            {
+                  "name": "Fort de l'Est",
+                  "text": "Un fort important din Saint-Denis, construit în secolul al XIX-lea ca parte a centurii de apărare a Parisului.",
+                  "category": "castle",
+                  "coords": [
+                        2.372433,
+                        48.930546
+                  ]
+            },
+            {
+                  "name": "Musee d'art et d'histoire de Saint-Denis",
+                  "text": "Acest muzeu dintr-o fostă mănăstire carmelită din Saint-Denis prezintă arta și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        2.356522,
+                        48.932462
+                  ]
+            },
+            {
+                  "name": "Theatre de la Commune",
+                  "text": "Un teatru național renumit din Saint-Denis, cunoscut pentru producțiile sale scenice inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        2.383582,
+                        48.91088
+                  ]
+            },
+            {
+                  "name": "Espace Paul-Eluard",
+                  "text": "Un centru cultural și teatral modern din Saint-Denis, numit după celebrul poet francez.",
+                  "category": "cultural",
+                  "coords": [
+                        2.381032,
+                        48.95166
+                  ]
+            },
+            {
+                  "name": "Le Theatre de Marionnettes des Chanteraines",
+                  "text": "Un teatru de marionete situat în Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.317895,
+                        48.935611
+                  ]
+            },
+            {
+                  "name": "Maison Du Peuple - Salle de Spectacle Pierrefitte",
+                  "text": "Un teatru și sală de spectacole în Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.362047,
+                        48.965967
+                  ]
             }
       ],
       "en": [
@@ -19849,6 +22221,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.355305,
                         48.923639
+                  ]
+            },
+            {
+                  "name": "Chateau de la Motte",
+                  "text": "A historic castle building in Saint-Denis, now serving as a prestigious venue for events.",
+                  "category": "castle",
+                  "coords": [
+                        2.381638,
+                        48.958412
+                  ]
+            },
+            {
+                  "name": "Fort de l'Est",
+                  "text": "A major fort in Saint-Denis built in the 19th century as part of the defensive ring of Paris.",
+                  "category": "castle",
+                  "coords": [
+                        2.372433,
+                        48.930546
+                  ]
+            },
+            {
+                  "name": "Musee d'art et d'histoire de Saint-Denis",
+                  "text": "Housed in a former Carmelite convent, this museum in Saint-Denis displays local art and history.",
+                  "category": "museum",
+                  "coords": [
+                        2.356522,
+                        48.932462
+                  ]
+            },
+            {
+                  "name": "Theatre de la Commune",
+                  "text": "A renowned national theatre in Saint-Denis known for its innovative stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.383582,
+                        48.91088
+                  ]
+            },
+            {
+                  "name": "Espace Paul-Eluard",
+                  "text": "A modern cultural and theatre center in Saint-Denis named after the famous French poet.",
+                  "category": "cultural",
+                  "coords": [
+                        2.381032,
+                        48.95166
+                  ]
+            },
+            {
+                  "name": "Le Theatre de Marionnettes des Chanteraines",
+                  "text": "A puppet theater located in Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.317895,
+                        48.935611
+                  ]
+            },
+            {
+                  "name": "Maison Du Peuple - Salle de Spectacle Pierrefitte",
+                  "text": "A local theater and performance venue in Saint-Denis.",
+                  "category": "cultural",
+                  "coords": [
+                        2.362047,
+                        48.965967
                   ]
             }
       ],
@@ -22372,6 +24807,51 @@ const citySeeds: CitySeed[] = [
                         4.068882,
                         48.318938
                   ]
+            },
+            {
+                  "name": "Le Cube",
+                  "text": "Ein modernes Theater und Veranstaltungszentrum in Troyes für zeitgenössische Kunstaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.071191,
+                        48.289821
+                  ]
+            },
+            {
+                  "name": "Musee de l'outil et de la pensee ouvriere",
+                  "text": "Ein einzigartiges Museum in Troyes, das eine riesige Sammlung historischer Handwerkswerkzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.073088,
+                        48.294694
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne",
+                  "text": "Ein bedeutendes Museum für moderne Kunst in Troyes, untergebracht im ehemaligen Bischofspalast.",
+                  "category": "museum",
+                  "coords": [
+                        4.08215,
+                        48.299938
+                  ]
+            },
+            {
+                  "name": "Theatre de Champagne",
+                  "text": "Ein historisches Theater in Troyes, das in einem ehemaligen festen Zirkusgebäude untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.07524,
+                        48.300358
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Hugo",
+                  "text": "Ein Schloss und Gartenanlage in Troyes, die als Ort der Erholung und Kultur dient.",
+                  "category": "castle",
+                  "coords": [
+                        4.028071,
+                        48.284616
+                  ]
             }
       ],
       "hu": [
@@ -22539,6 +25019,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.068882,
                         48.318938
+                  ]
+            },
+            {
+                  "name": "Le Cube",
+                  "text": "Modern színház és rendezvényközpont Troyes-ban, kortárs művészeti előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.071191,
+                        48.289821
+                  ]
+            },
+            {
+                  "name": "Musee de l'outil et de la pensee ouvriere",
+                  "text": "Egyedülálló múzeum Troyes-ban, amely történelmi kéziszerszámok hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.073088,
+                        48.294694
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne",
+                  "text": "Troyes jelentős modern művészeti múzeuma, amely az egykori püspöki palotában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        4.08215,
+                        48.299938
+                  ]
+            },
+            {
+                  "name": "Theatre de Champagne",
+                  "text": "Történelmi színház Troyes-ban, amely einekor állandó cirkuszépületben található.",
+                  "category": "cultural",
+                  "coords": [
+                        4.07524,
+                        48.300358
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Hugo",
+                  "text": "Kastély és kertrendszer Troyes-ban, amely kikapcsolódási és kulturális helyszínként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        4.028071,
+                        48.284616
                   ]
             }
       ],
@@ -22708,6 +25233,51 @@ const citySeeds: CitySeed[] = [
                         4.068882,
                         48.318938
                   ]
+            },
+            {
+                  "name": "Le Cube",
+                  "text": "Un teatru și centru de evenimente modern din Troyes, destinat spectacolelor de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        4.071191,
+                        48.289821
+                  ]
+            },
+            {
+                  "name": "Musee de l'outil et de la pensee ouvriere",
+                  "text": "Un muzeu unic din Troyes, care expune o colecție vastă de unelte meșteșugărești istorice.",
+                  "category": "museum",
+                  "coords": [
+                        4.073088,
+                        48.294694
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne",
+                  "text": "Un muzeu de artă modernă important din Troyes, situat în fostul palat episcopal.",
+                  "category": "museum",
+                  "coords": [
+                        4.08215,
+                        48.299938
+                  ]
+            },
+            {
+                  "name": "Theatre de Champagne",
+                  "text": "Un teatru istoric din Troyes, situat într-o fostă clădire de circ permanent.",
+                  "category": "cultural",
+                  "coords": [
+                        4.07524,
+                        48.300358
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Hugo",
+                  "text": "Un castel și complex de grădini din Troyes, care servește ca loc de recreere și cultură.",
+                  "category": "castle",
+                  "coords": [
+                        4.028071,
+                        48.284616
+                  ]
             }
       ],
       "en": [
@@ -22875,6 +25445,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.068882,
                         48.318938
+                  ]
+            },
+            {
+                  "name": "Le Cube",
+                  "text": "A modern theatre and event center in Troyes for contemporary arts performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.071191,
+                        48.289821
+                  ]
+            },
+            {
+                  "name": "Musee de l'outil et de la pensee ouvriere",
+                  "text": "A unique museum in Troyes showcasing a vast collection of historical hand tools.",
+                  "category": "museum",
+                  "coords": [
+                        4.073088,
+                        48.294694
+                  ]
+            },
+            {
+                  "name": "Musee d'Art Moderne",
+                  "text": "A major modern art museum in Troyes, housed in the former episcopal palace.",
+                  "category": "museum",
+                  "coords": [
+                        4.08215,
+                        48.299938
+                  ]
+            },
+            {
+                  "name": "Theatre de Champagne",
+                  "text": "A historical theatre in Troyes located in a former permanent circus building.",
+                  "category": "cultural",
+                  "coords": [
+                        4.07524,
+                        48.300358
+                  ]
+            },
+            {
+                  "name": "Les Jardins d'Hugo",
+                  "text": "A castle and garden complex in Troyes serving as a place of recreation and culture.",
+                  "category": "castle",
+                  "coords": [
+                        4.028071,
+                        48.284616
                   ]
             }
       ],
@@ -23237,6 +25852,60 @@ const citySeeds: CitySeed[] = [
                         4.379635,
                         45.432699
                   ]
+            },
+            {
+                  "name": "Musee d'Art moderne et contemporain",
+                  "text": "Ein bedeutendes Museum für moderne und zeitgenössische Kunst in Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.374212,
+                        45.469462
+                  ]
+            },
+            {
+                  "name": "Le Fil",
+                  "text": "Ein modernes Theater und Konzerthaus in Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.390749,
+                        45.44995
+                  ]
+            },
+            {
+                  "name": "Musee des Verts",
+                  "text": "Ein Museum, das der Geschichte des Fußballvereins AS Saint-Étienne gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.389261,
+                        45.460182
+                  ]
+            },
+            {
+                  "name": "Musee de la Mine Site Couriot",
+                  "text": "Ein Bergbaumuseum am Standort des ehemaligen Steinkohlebergwerks Couriot.",
+                  "category": "museum",
+                  "coords": [
+                        4.376219,
+                        45.438227
+                  ]
+            },
+            {
+                  "name": "La Rotonde",
+                  "text": "Ein Zentrum für wissenschaftliche Kultur und Museum in Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.407812,
+                        45.42337
+                  ]
+            },
+            {
+                  "name": "La Comedie de Saint-Etienne",
+                  "text": "Ein wichtiges nationales Theaterzentrum für dramatische Kunst in Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.391694,
+                        45.451783
+                  ]
             }
       ],
       "hu": [
@@ -23523,6 +26192,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.379635,
                         45.432699
+                  ]
+            },
+            {
+                  "name": "Musee d'Art moderne et contemporain",
+                  "text": "Modern és kortárs művészeti múzeum Saint-Étienne városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.374212,
+                        45.469462
+                  ]
+            },
+            {
+                  "name": "Le Fil",
+                  "text": "Modern színház és koncertterem Saint-Étienne-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.390749,
+                        45.44995
+                  ]
+            },
+            {
+                  "name": "Musee des Verts",
+                  "text": "Az AS Saint-Étienne labdarúgóklub történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.389261,
+                        45.460182
+                  ]
+            },
+            {
+                  "name": "Musee de la Mine Site Couriot",
+                  "text": "Bányászati múzeum az egykori Couriot szénbánya területén.",
+                  "category": "museum",
+                  "coords": [
+                        4.376219,
+                        45.438227
+                  ]
+            },
+            {
+                  "name": "La Rotonde",
+                  "text": "Tudományos kulturális központ és múzeum Saint-Étienne-ben.",
+                  "category": "museum",
+                  "coords": [
+                        4.407812,
+                        45.42337
+                  ]
+            },
+            {
+                  "name": "La Comedie de Saint-Etienne",
+                  "text": "Fontos nemzeti színházi központ Saint-Étienne városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.391694,
+                        45.451783
                   ]
             }
       ],
@@ -23811,6 +26534,60 @@ const citySeeds: CitySeed[] = [
                         4.379635,
                         45.432699
                   ]
+            },
+            {
+                  "name": "Musee d'Art moderne et contemporain",
+                  "text": "Un muzeu de artă modernă și contemporană în Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.374212,
+                        45.469462
+                  ]
+            },
+            {
+                  "name": "Le Fil",
+                  "text": "Un teatru și sală de concerte în Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.390749,
+                        45.44995
+                  ]
+            },
+            {
+                  "name": "Musee des Verts",
+                  "text": "Un muzeu dedicat istoriei clubului de fotbal AS Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.389261,
+                        45.460182
+                  ]
+            },
+            {
+                  "name": "Musee de la Mine Site Couriot",
+                  "text": "Un muzeu al minei situat pe locul fostei mine de cărbune Couriot.",
+                  "category": "museum",
+                  "coords": [
+                        4.376219,
+                        45.438227
+                  ]
+            },
+            {
+                  "name": "La Rotonde",
+                  "text": "Un centru de cultură științifică și muzeu în Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.407812,
+                        45.42337
+                  ]
+            },
+            {
+                  "name": "La Comedie de Saint-Etienne",
+                  "text": "Un important centru teatral național în Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.391694,
+                        45.451783
+                  ]
             }
       ],
       "en": [
@@ -24097,6 +26874,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.379635,
                         45.432699
+                  ]
+            },
+            {
+                  "name": "Musee d'Art moderne et contemporain",
+                  "text": "A major museum of modern and contemporary art in Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.374212,
+                        45.469462
+                  ]
+            },
+            {
+                  "name": "Le Fil",
+                  "text": "A modern theater and concert venue in Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.390749,
+                        45.44995
+                  ]
+            },
+            {
+                  "name": "Musee des Verts",
+                  "text": "A museum dedicated to the history of the AS Saint-Étienne football club.",
+                  "category": "museum",
+                  "coords": [
+                        4.389261,
+                        45.460182
+                  ]
+            },
+            {
+                  "name": "Musee de la Mine Site Couriot",
+                  "text": "A mining museum located on the site of the former Couriot coal mine.",
+                  "category": "museum",
+                  "coords": [
+                        4.376219,
+                        45.438227
+                  ]
+            },
+            {
+                  "name": "La Rotonde",
+                  "text": "A scientific culture center and museum in Saint-Étienne.",
+                  "category": "museum",
+                  "coords": [
+                        4.407812,
+                        45.42337
+                  ]
+            },
+            {
+                  "name": "La Comedie de Saint-Etienne",
+                  "text": "An important national theater center for dramatic arts in Saint-Étienne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.391694,
+                        45.451783
                   ]
             }
       ],
@@ -25270,6 +28101,42 @@ const citySeeds: CitySeed[] = [
                         4.884551,
                         44.895941
                   ]
+            },
+            {
+                  "name": "Chateau de Crussol",
+                  "text": "Die beeindruckende Ruine einer mittelalterlichen Burg, die auf einem Felsen über dem Rhonetal bei Valence thront.",
+                  "category": "castle",
+                  "coords": [
+                        4.852401,
+                        44.939225
+                  ]
+            },
+            {
+                  "name": "Chateau de Beauregard",
+                  "text": "Eine Schlossruine mit Blick auf das Rhône-Tal in der Nähe von Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.845576,
+                        44.94351
+                  ]
+            },
+            {
+                  "name": "Theatre Le Rhone",
+                  "text": "Ein modernes Theatergebäude in Valence, das verschiedene Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.886928,
+                        44.943898
+                  ]
+            },
+            {
+                  "name": "Chateau de Murat",
+                  "text": "Die Überreste eines historischen Schlosses in der Umgebung von Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.888794,
+                        44.907773
+                  ]
             }
       ],
       "hu": [
@@ -25493,6 +28360,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.884551,
                         44.895941
+                  ]
+            },
+            {
+                  "name": "Chateau de Crussol",
+                  "text": "Egy középkori vár lenyűgöző romja, amely a Rhône-völgy feletti sziklán magasodik Valence közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.852401,
+                        44.939225
+                  ]
+            },
+            {
+                  "name": "Chateau de Beauregard",
+                  "text": "Egy várrom Valence közelében, ahonnan kilátás nyílik a Rhône völgyére.",
+                  "category": "castle",
+                  "coords": [
+                        4.845576,
+                        44.94351
+                  ]
+            },
+            {
+                  "name": "Theatre Le Rhone",
+                  "text": "Modern színházépület Valence-ben, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.886928,
+                        44.943898
+                  ]
+            },
+            {
+                  "name": "Chateau de Murat",
+                  "text": "Egy történelmi vár maradványai Valence környékén.",
+                  "category": "castle",
+                  "coords": [
+                        4.888794,
+                        44.907773
                   ]
             }
       ],
@@ -25718,6 +28621,42 @@ const citySeeds: CitySeed[] = [
                         4.884551,
                         44.895941
                   ]
+            },
+            {
+                  "name": "Chateau de Crussol",
+                  "text": "Ruina impresionantă a unui castel medieval, cocoțată pe o stâncă deasupra văii Ronului, lângă Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.852401,
+                        44.939225
+                  ]
+            },
+            {
+                  "name": "Chateau de Beauregard",
+                  "text": "O ruină de castel cu vedere la valea Ronului, situată lângă Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.845576,
+                        44.94351
+                  ]
+            },
+            {
+                  "name": "Theatre Le Rhone",
+                  "text": "O clădire modernă de teatru din Valence care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        4.886928,
+                        44.943898
+                  ]
+            },
+            {
+                  "name": "Chateau de Murat",
+                  "text": "Resturile unui castel istoric din împrejurimile orașului Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.888794,
+                        44.907773
+                  ]
             }
       ],
       "en": [
@@ -25941,6 +28880,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.884551,
                         44.895941
+                  ]
+            },
+            {
+                  "name": "Chateau de Crussol",
+                  "text": "The impressive ruins of a medieval castle perched on a rock overlooking the Rhône valley near Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.852401,
+                        44.939225
+                  ]
+            },
+            {
+                  "name": "Chateau de Beauregard",
+                  "text": "A ruined castle overlooking the Rhône Valley near Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.845576,
+                        44.94351
+                  ]
+            },
+            {
+                  "name": "Theatre Le Rhone",
+                  "text": "A modern theatre building in Valence hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.886928,
+                        44.943898
+                  ]
+            },
+            {
+                  "name": "Chateau de Murat",
+                  "text": "The remains of a historic castle located in the vicinity of Valence.",
+                  "category": "castle",
+                  "coords": [
+                        4.888794,
+                        44.907773
                   ]
             }
       ],
@@ -26375,7 +29350,892 @@ const citySeeds: CitySeed[] = [
       fr: ["Plus de 338 000 soldats ont été évacués en 1940 lors de l'Opération Dynamo.", "Le port est le troisième de France en termes de volume.", "Le beffroi de Saint-Éloi culmine à 58 mètres de hauteur.", "Le carnaval de Dunkerque dure près de trois mois chaque année.", "La ville a été détruite à 80 % à la fin de la Seconde Guerre mondiale.", "Le célèbre corsaire Jean Bart est né ici en 1650."],
     },
     image: "/poi-images/dunkerque.webp",
-    "sights": {"de": [{"name": "Beffroi de Dunkerque", "text": "Dieser Backsteinturm aus dem 15. Jahrhundert gehört zum UNESCO-Weltkulturerbe und bietet einen Blick auf den Hafen.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Ein Museum in einem ehemaligen Tabaklager, das die Geschichte des Hafens von Dünkirchen und das Leben der Seeleute zeigt.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Eine imposante Backsteinkirche aus dem 16. Jahrhundert, die als „Kathedrale des Sandes“ bekannt ist.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Dieses Museum dokumentiert die dramatische „Operation Dynamo“ von 1940 während der Evakuierung der alliierten Truppen.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "In Dunkerque lädt dieser lange Sandstrand mit seiner charmanten Belle-Époque-Architektur zum Verweilen ein. Die angrenzende Promenade lockt mit zahlreichen Cafés und einer entspannten Atmosphäre. Hier lassen sich gemütliche Nachmittage beim Sonnenbaden oder Flanieren verbringen. Ein früher Spaziergang am Morgen bietet besondere Ruhe.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Der 1843 erbaute Leuchtturm ist 63 Meter hoch und leitet die Schiffe sicher in den Hafen von Dünkirchen.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Museum für moderne Kunst in einem Park am Meer, mit Werken aus den 1950er bis 1980er Jahren.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Zentrum für zeitgenössische Kunst in einem markanten Glasgebäude, einer ehemaligen Werftwerkstatt.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Hôtel de Ville de Dunkerque", "text": "Rathaus im neoflämischen Stil, eingeweiht 1901, bekannt für seine prächtige Fassade und Buntglasfenster.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Tour du Leughenaer", "text": "Das älteste Denkmal der Stadt, dieser achteckige Turm stammt aus dem Jahr 1405 und diente als Leuchtturm.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Musée de l'Opération Dynamo", "text": "Geschichtsmuseum in der Bastion 32, gewidmet der Evakuierung der alliierten Truppen im Jahr 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Authentischer Schaufelraddampfer, der während der Operation Dynamo eingesetzt wurde, heute ein Restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Unterirdische Befestigungsanlage von 1878 zum Schutz des Hafens, Schauplatz schwerer Kämpfe im Jahr 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Jardin des Sculptures", "text": "Freiluftgalerie rund um das LAAC mit monumentalen modernen Skulpturen in einer grünen Parklandschaft.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Gare de Dunkerque", "text": "Hauptbahnhof der Stadt, der nach dem Krieg im modernen Stil wiederaufgebaut wurde und den TGV bedient.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "Das Palais des Congrès der Stadt, ein wichtiges kulturelles Zentrum für Veranstaltungen direkt am Meer.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque ist ein Wildpark, in dem Familien etwas über die Artenvielfalt lernen und verschiedene Tiere sehen können.", "category": "family", "coords": [2.309729, 51.029878]}], "hu": [{"name": "Beffroi de Dunkerque", "text": "A 15. századi harangtorony az UNESCO Világörökség része, tetejéről lenyűgöző panoráma nyílik a városra és az Északi-tengerre.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "A kikötői múzeum egy régi dohányraktárban kapott helyet, és a város tengeri kereskedelmét és hajózási múltját mutatja be.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Egy hatalmas gótikus téglaépület a 16. századból, amelyet a helyiek gyakran a homok katedrálisaként emlegetnek.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "A múzeum az 1940-es Dynamo-hadműveletnek állít emléket, amikor a szövetséges csapatokat kimentették a tengerpartról.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "Dunkerque-ben ez a hosszú homokos tengerpart elbűvölő Belle-Époque építészetével hívogat. A szomszédos sétány számos kávézóval és nyugodt légkörrel várja a vendégeket. Kellemes délutánokat tölthetünk itt napozással vagy sétálgatással. Egy kora reggeli séta különleges nyugalmat kínál.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "A 63 méter magas világítótorony 1843 óta segíti a hajók navigálását Dunkerque fontos kikötőjének bejáratánál.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Modern művészeti múzeum egy tengerparti parkban, az 1950-es és 1980-as évek közötti művekkel.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Kortárs művészeti központ egy látványos üvegépületben, amely egykori hajógyári műhely volt.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Dunkerque-i városháza", "text": "1901-ben felavatott neoflamand stílusú városháza, amely homlokzatáról és üvegablakairól híres.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Leughenaer-torony", "text": "A város legrégebbi műemléke, ez a nyolcszögletű torony 1405-ből származik, és világítótoronyként szolgált.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Dinamó hadművelet múzeuma", "text": "A 32-es bástyában található történelmi múzeum, amely a szövetséges csapatok 1940-es evakuálásának állít emléket.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Az Operation Dynamo során használt eredeti lapátkerekes gőzhajó, amely ma étteremként üzemel.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "1878-ban épült föld alatti erődítmény a kikötő védelmére, 1940-ben súlyos harcok helyszíne volt.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Szoborkert", "text": "A LAAC-ot körülvevő szabadtéri galéria, amely monumentális modern szobrokat mutat be zöld környezetben.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Dunkerque vasútállomás", "text": "A város főpályaudvara, amelyet a háború után újjáépítettek, és ma TGV-összeköttetést biztosít.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "A város kongresszusi palotája, amely fontos kulturális eseményeknek ad otthont a tengerparton.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "A Bio-Topia Dunkerque egy vadaspark, ahol a családok tanulhatnak a biodiverzitásról és különféle állatokat láthatnak.", "category": "family", "coords": [2.309729, 51.029878]}], "ro": [{"name": "Beffroi de Dunkerque", "text": "Turnul cu clopotniță din secolul al XV-lea, inclus în patrimoniul UNESCO, oferă o panoramă superbă asupra mării și orașului.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Situat într-un depozit vechi de tutun, acest muzeu ilustrează istoria maritimă și vizitarea navelor istorice ancorate.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "O biserică impunătoare din secolul al XVI-lea construită din cărămidă, martoră a istoriei zbuciumate a orașului.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Un muzeu dedicat Bătăliei de la Dunkerque și Operațiunii Dynamo din 1940, esențial pentru înțelegerea celui de-al Doilea Război Mondial.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "În Dunkerque, această lungă plajă de nisip atrage prin arhitectura sa fermecătoare din perioada Belle-Époque. Promenada adiacentă este plină de cafenele și oferă o atmosferă relaxată. Aici se pot petrece după-amiezi plăcute la soare sau la plimbare. O plimbare dis-de-dimineață oferă o liniște deosebită.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Farul orașului, cu o înălțime de 63 de metri, este un monument istoric ce ghidează navele spre unul dintre cele mai mari porturi.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Muzeu de artă modernă situat într-un parc lângă mare, prezentând lucrări din anii 1950 până în 1980.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Centru de artă contemporană găzduit într-o clădire de sticlă impresionantă, fost atelier naval.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Primăria Dunkerque", "text": "Primăria în stil neoflamand inaugurată în 1901, renumită pentru fațada sa și vitralii.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Turnul Leughenaer", "text": "Cel mai vechi monument din oraș, acest turn octogonal datează din 1405 și a servit drept far.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Muzeul Operațiunii Dynamo", "text": "Muzeu de istorie situat în Bastionul 32, dedicat evacuării trupelor aliate în anul 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Vapor cu roți autentic folosit în timpul Operațiunii Dynamo, acum ancorat și servind drept restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Fortificație subterană construită în 1878 pentru protejarea portului, locul unor lupte grele în 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Grădina de Sculpturi", "text": "Galerie în aer liber care înconjoară LAAC, prezentând sculpturi moderne monumentale într-un cadru verde.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Gara Dunkerque", "text": "Gara principală a orașului, reconstruită în stil modern după război, deservind trenurile TGV.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "Palatul Congreselor din oraș, un centru cultural important pentru evenimente, situat pe malul mării.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque este un parc cu animale sălbatice unde familiile pot învăța despre biodiversitate și pot vedea diverse animale.", "category": "family", "coords": [2.309729, 51.029878]}], "en": [{"name": "Dunkirk Belfry", "text": "This 15th-century brick tower is part of a UNESCO World Heritage site and offers grand views of the harbor and North Sea.", "category": "historical", "confidence": "high", "coords": [2.37619, 51.035612]}, {"name": "Port Museum", "text": "Set in a former tobacco warehouse, this museum showcases the city's seafaring heritage and features historic ships to visit.", "category": "museum", "confidence": "high", "coords": [2.37168, 51.0379]}, {"name": "Saint-Eloi Church", "text": "A massive 16th-century Gothic brick church, often called the 'Cathedral of the Sands' due to its proximity to the coast.", "category": "religious", "confidence": "high", "coords": [2.377177, 51.035607]}, {"name": "Memorial of the Souvenir", "text": "A museum dedicated to 'Operation Dynamo' in 1940, telling the dramatic story of the evacuation of Allied troops.", "category": "historical", "confidence": "high", "coords": [2.381111, 51.046111]}, {"name": "Malo-les-Bains Beach", "text": "Situated in Dunkerque, this long sandy beach charms visitors with its Belle-Époque villas. The nearby promenade is bustling with numerous cafes and a relaxed atmosphere. It is the perfect place for a leisurely afternoon of sunbathing or strolling. Arriving early in the morning guarantees a peaceful experience.", "category": "recreational", "confidence": "high", "coords": [2.41333, 51.0556]}, {"name": "Risban Lighthouse", "text": "Standing 63 meters tall, this historic lighthouse built in 1843 guides vessels into the bustling port of Dunkirk.", "category": "historical", "confidence": "high", "coords": [2.364167, 51.048889]}, {"name": "LAAC", "text": "Modern art museum located in a park near the sea, featuring works from the 1950s to the 1980s.", "category": "museum", "confidence": "high", "coords": [2.38253, 51.0461]}, {"name": "FRAC Grand Large", "text": "Contemporary art center housed in a striking glass building, a former shipyard workshop.", "category": "museum", "confidence": "high", "coords": [2.380949, 51.046989]}, {"name": "Dunkerque Town Hall", "text": "Neo-Flemish style town hall inaugurated in 1901, famous for its facade and stained glass windows.", "category": "civic", "confidence": "high", "coords": [2.376755, 51.037662]}, {"name": "Leughenaer Tower", "text": "The oldest monument in the city, this octagonal tower dates back to 1405 and served as a lighthouse.", "category": "historical", "confidence": "high", "coords": [2.378569, 51.040157]}, {"name": "Operation Dynamo Museum", "text": "History museum located in the Bastion 32, dedicated to the evacuation of Allied troops in 1940.", "category": "museum", "confidence": "high", "coords": [2.381435, 51.046048]}, {"name": "Princess Elizabeth", "text": "Authentic paddle steamer used during Operation Dynamo, now docked and serving as a restaurant.", "category": "historical", "confidence": "high", "coords": [2.370626, 51.035242]}, {"name": "Fort des Dunes", "text": "Underground fortification built in 1878 to protect the port, site of heavy fighting in 1940.", "category": "fortress", "confidence": "high", "coords": [2.444498, 51.053975]}, {"name": "Sculpture Garden", "text": "Outdoor gallery surrounding the LAAC, featuring monumental modern sculptures in a green setting.", "category": "cultural", "confidence": "high", "coords": [2.373532, 51.034355]}, {"name": "Dunkerque Railway Station", "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.", "category": "station", "confidence": "high", "coords": [2.36876, 51.03038]}, {"name": "Kursaal", "text": "The city's congress center, a major cultural venue for events and performances right by the beach.", "category": "cultural", "confidence": "high", "coords": [2.38839, 51.049117]}, {"name": "Bio-Topia Dunkerque", "text": "Bio-Topia Dunkerque is a wildlife park where families can learn about biodiversity and see various animals.", "category": "family", "coords": [2.309729, 51.029878]}], "fr": [{"name": "Beffroi de Dunkerque", "text": "Ce beffroi en briques du XVe siècle est classé au patrimoine mondial de l'UNESCO et offre une vue sur le port.", "category": "historical", "coords": [2.37619, 51.035612]}, {"name": "Musée Portuaire", "text": "Installé dans un ancien entrepôt de tabac, il retrace l'histoire du port de Dunkerque et le quotidien des marins.", "category": "museum", "coords": [2.37168, 51.0379]}, {"name": "Église Saint-Éloi", "text": "Une imposante église en briques du XVIe siècle, surnommée la « cathédrale des sables ».", "category": "religious", "coords": [2.377177, 51.035607]}, {"name": "Mémorial du Souvenir", "text": "Musée documentant l'opération Dynamo de 1940 lors de l'évacuation historique des troupes alliées.", "category": "historical", "coords": [2.381111, 51.046111]}, {"name": "Plage de Malo-les-Bains", "text": "À Dunkerque, cette longue plage de sable séduit par son architecture Belle-Époque. La promenade adjacente regorge de cafés et offre une atmosphère détendue. On peut y passer d'agréables après-midis à bronzer ou à se promener. Une promenade tôt le matin offre une tranquillité particulière.", "category": "recreational", "coords": [2.41333, 51.0556]}, {"name": "Phare du Risban", "text": "Haut de 63 mètres et construit en 1843, ce phare guide les navires en toute sécurité vers le port de Dunkerque.", "category": "historical", "coords": [2.364167, 51.048889]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "Dieser Backsteinturm aus dem 15. Jahrhundert gehört zum UNESCO-Weltkulturerbe und bietet einen Blick auf den Hafen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.37619,
+                        51.035612
+                  ]
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "Ein Museum in einem ehemaligen Tabaklager, das die Geschichte des Hafens von Dünkirchen und das Leben der Seeleute zeigt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.37168,
+                        51.0379
+                  ]
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "Eine imposante Backsteinkirche aus dem 16. Jahrhundert, die als „Kathedrale des Sandes“ bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.377177,
+                        51.035607
+                  ]
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "Dieses Museum dokumentiert die dramatische „Operation Dynamo“ von 1940 während der Evakuierung der alliierten Truppen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.381111,
+                        51.046111
+                  ]
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "In Dunkerque lädt dieser lange Sandstrand mit seiner charmanten Belle-Époque-Architektur zum Verweilen ein. Die angrenzende Promenade lockt mit zahlreichen Cafés und einer entspannten Atmosphäre. Hier lassen sich gemütliche Nachmittage beim Sonnenbaden oder Flanieren verbringen. Ein früher Spaziergang am Morgen bietet besondere Ruhe.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.41333,
+                        51.0556
+                  ]
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "Der 1843 erbaute Leuchtturm ist 63 Meter hoch und leitet die Schiffe sicher in den Hafen von Dünkirchen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.364167,
+                        51.048889
+                  ]
+            },
+            {
+                  "name": "LAAC",
+                  "text": "Museum für moderne Kunst in einem Park am Meer, mit Werken aus den 1950er bis 1980er Jahren.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.38253,
+                        51.0461
+                  ]
+            },
+            {
+                  "name": "FRAC Grand Large",
+                  "text": "Zentrum für zeitgenössische Kunst in einem markanten Glasgebäude, einer ehemaligen Werftwerkstatt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.380949,
+                        51.046989
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville de Dunkerque",
+                  "text": "Rathaus im neoflämischen Stil, eingeweiht 1901, bekannt für seine prächtige Fassade und Buntglasfenster.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        2.376755,
+                        51.037662
+                  ]
+            },
+            {
+                  "name": "Tour du Leughenaer",
+                  "text": "Das älteste Denkmal der Stadt, dieser achteckige Turm stammt aus dem Jahr 1405 und diente als Leuchtturm.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.378569,
+                        51.040157
+                  ]
+            },
+            {
+                  "name": "Musée de l'Opération Dynamo",
+                  "text": "Geschichtsmuseum in der Bastion 32, gewidmet der Evakuierung der alliierten Truppen im Jahr 1940.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.381435,
+                        51.046048
+                  ]
+            },
+            {
+                  "name": "Princess Elizabeth",
+                  "text": "Authentischer Schaufelraddampfer, der während der Operation Dynamo eingesetzt wurde, heute ein Restaurant.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.370626,
+                        51.035242
+                  ]
+            },
+            {
+                  "name": "Fort des Dunes",
+                  "text": "Unterirdische Befestigungsanlage von 1878 zum Schutz des Hafens, Schauplatz schwerer Kämpfe im Jahr 1940.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        2.444498,
+                        51.053975
+                  ]
+            },
+            {
+                  "name": "Jardin des Sculptures",
+                  "text": "Freiluftgalerie rund um das LAAC mit monumentalen modernen Skulpturen in einer grünen Parklandschaft.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.373532,
+                        51.034355
+                  ]
+            },
+            {
+                  "name": "Gare de Dunkerque",
+                  "text": "Hauptbahnhof der Stadt, der nach dem Krieg im modernen Stil wiederaufgebaut wurde und den TGV bedient.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        2.36876,
+                        51.03038
+                  ]
+            },
+            {
+                  "name": "Kursaal",
+                  "text": "Das Palais des Congrès der Stadt, ein wichtiges kulturelles Zentrum für Veranstaltungen direkt am Meer.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.38839,
+                        51.049117
+                  ]
+            },
+            {
+                  "name": "Bio-Topia Dunkerque",
+                  "text": "Bio-Topia Dunkerque ist ein Wildpark, in dem Familien etwas über die Artenvielfalt lernen und verschiedene Tiere sehen können.",
+                  "category": "family",
+                  "coords": [
+                        2.309729,
+                        51.029878
+                  ]
+            },
+            {
+                  "name": "Feu de Saint-Pol",
+                  "text": "Ein markanter Leuchtturm im Art-déco-Stil im Hafen von Dünkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.34942,
+                        51.060566
+                  ]
+            },
+            {
+                  "name": "Frac Grand Large -- Hauts-de-France",
+                  "text": "Ein regionales Museum für zeitgenössische Kunst in Dünkirchen.",
+                  "category": "museum",
+                  "coords": [
+                        2.375823,
+                        51.048044
+                  ]
+            },
+            {
+                  "name": "Le Bateau Feu",
+                  "text": "Ein nationales Theater und Veranstaltungsort in Dünkirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380922,
+                        51.037119
+                  ]
+            },
+            {
+                  "name": "Le Chateau Coquelle",
+                  "text": "Ein historisches Schloss und Kulturzentrum in Dünkirchen.",
+                  "category": "castle",
+                  "coords": [
+                        2.413618,
+                        51.038808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "A 15. századi harangtorony az UNESCO Világörökség része, tetejéről lenyűgöző panoráma nyílik a városra és az Északi-tengerre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.37619,
+                        51.035612
+                  ]
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "A kikötői múzeum egy régi dohányraktárban kapott helyet, és a város tengeri kereskedelmét és hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.37168,
+                        51.0379
+                  ]
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "Egy hatalmas gótikus téglaépület a 16. századból, amelyet a helyiek gyakran a homok katedrálisaként emlegetnek.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.377177,
+                        51.035607
+                  ]
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "A múzeum az 1940-es Dynamo-hadműveletnek állít emléket, amikor a szövetséges csapatokat kimentették a tengerpartról.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.381111,
+                        51.046111
+                  ]
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "Dunkerque-ben ez a hosszú homokos tengerpart elbűvölő Belle-Époque építészetével hívogat. A szomszédos sétány számos kávézóval és nyugodt légkörrel várja a vendégeket. Kellemes délutánokat tölthetünk itt napozással vagy sétálgatással. Egy kora reggeli séta különleges nyugalmat kínál.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.41333,
+                        51.0556
+                  ]
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "A 63 méter magas világítótorony 1843 óta segíti a hajók navigálását Dunkerque fontos kikötőjének bejáratánál.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.364167,
+                        51.048889
+                  ]
+            },
+            {
+                  "name": "LAAC",
+                  "text": "Modern művészeti múzeum egy tengerparti parkban, az 1950-es és 1980-as évek közötti művekkel.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.38253,
+                        51.0461
+                  ]
+            },
+            {
+                  "name": "FRAC Grand Large",
+                  "text": "Kortárs művészeti központ egy látványos üvegépületben, amely egykori hajógyári műhely volt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.380949,
+                        51.046989
+                  ]
+            },
+            {
+                  "name": "Dunkerque-i városháza",
+                  "text": "1901-ben felavatott neoflamand stílusú városháza, amely homlokzatáról és üvegablakairól híres.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        2.376755,
+                        51.037662
+                  ]
+            },
+            {
+                  "name": "Leughenaer-torony",
+                  "text": "A város legrégebbi műemléke, ez a nyolcszögletű torony 1405-ből származik, és világítótoronyként szolgált.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.378569,
+                        51.040157
+                  ]
+            },
+            {
+                  "name": "Dinamó hadművelet múzeuma",
+                  "text": "A 32-es bástyában található történelmi múzeum, amely a szövetséges csapatok 1940-es evakuálásának állít emléket.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.381435,
+                        51.046048
+                  ]
+            },
+            {
+                  "name": "Princess Elizabeth",
+                  "text": "Az Operation Dynamo során használt eredeti lapátkerekes gőzhajó, amely ma étteremként üzemel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.370626,
+                        51.035242
+                  ]
+            },
+            {
+                  "name": "Fort des Dunes",
+                  "text": "1878-ban épült föld alatti erődítmény a kikötő védelmére, 1940-ben súlyos harcok helyszíne volt.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        2.444498,
+                        51.053975
+                  ]
+            },
+            {
+                  "name": "Szoborkert",
+                  "text": "A LAAC-ot körülvevő szabadtéri galéria, amely monumentális modern szobrokat mutat be zöld környezetben.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.373532,
+                        51.034355
+                  ]
+            },
+            {
+                  "name": "Dunkerque vasútállomás",
+                  "text": "A város főpályaudvara, amelyet a háború után újjáépítettek, és ma TGV-összeköttetést biztosít.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        2.36876,
+                        51.03038
+                  ]
+            },
+            {
+                  "name": "Kursaal",
+                  "text": "A város kongresszusi palotája, amely fontos kulturális eseményeknek ad otthont a tengerparton.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.38839,
+                        51.049117
+                  ]
+            },
+            {
+                  "name": "Bio-Topia Dunkerque",
+                  "text": "A Bio-Topia Dunkerque egy vadaspark, ahol a családok tanulhatnak a biodiverzitásról és különféle állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        2.309729,
+                        51.029878
+                  ]
+            },
+            {
+                  "name": "Feu de Saint-Pol",
+                  "text": "Jellegzetes Art Deco stílusú világítótorony Dunkerque kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.34942,
+                        51.060566
+                  ]
+            },
+            {
+                  "name": "Frac Grand Large -- Hauts-de-France",
+                  "text": "Regionális kortárs művészeti múzeum Dunkerque-ben.",
+                  "category": "museum",
+                  "coords": [
+                        2.375823,
+                        51.048044
+                  ]
+            },
+            {
+                  "name": "Le Bateau Feu",
+                  "text": "Nemzeti színház és előadóhely Dunkerque városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380922,
+                        51.037119
+                  ]
+            },
+            {
+                  "name": "Le Chateau Coquelle",
+                  "text": "Történelmi kastély és kulturális központ Dunkerque-ben.",
+                  "category": "castle",
+                  "coords": [
+                        2.413618,
+                        51.038808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "Turnul cu clopotniță din secolul al XV-lea, inclus în patrimoniul UNESCO, oferă o panoramă superbă asupra mării și orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.37619,
+                        51.035612
+                  ]
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "Situat într-un depozit vechi de tutun, acest muzeu ilustrează istoria maritimă și vizitarea navelor istorice ancorate.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.37168,
+                        51.0379
+                  ]
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "O biserică impunătoare din secolul al XVI-lea construită din cărămidă, martoră a istoriei zbuciumate a orașului.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.377177,
+                        51.035607
+                  ]
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "Un muzeu dedicat Bătăliei de la Dunkerque și Operațiunii Dynamo din 1940, esențial pentru înțelegerea celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.381111,
+                        51.046111
+                  ]
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "În Dunkerque, această lungă plajă de nisip atrage prin arhitectura sa fermecătoare din perioada Belle-Époque. Promenada adiacentă este plină de cafenele și oferă o atmosferă relaxată. Aici se pot petrece după-amiezi plăcute la soare sau la plimbare. O plimbare dis-de-dimineață oferă o liniște deosebită.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.41333,
+                        51.0556
+                  ]
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "Farul orașului, cu o înălțime de 63 de metri, este un monument istoric ce ghidează navele spre unul dintre cele mai mari porturi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.364167,
+                        51.048889
+                  ]
+            },
+            {
+                  "name": "LAAC",
+                  "text": "Muzeu de artă modernă situat într-un parc lângă mare, prezentând lucrări din anii 1950 până în 1980.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.38253,
+                        51.0461
+                  ]
+            },
+            {
+                  "name": "FRAC Grand Large",
+                  "text": "Centru de artă contemporană găzduit într-o clădire de sticlă impresionantă, fost atelier naval.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.380949,
+                        51.046989
+                  ]
+            },
+            {
+                  "name": "Primăria Dunkerque",
+                  "text": "Primăria în stil neoflamand inaugurată în 1901, renumită pentru fațada sa și vitralii.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        2.376755,
+                        51.037662
+                  ]
+            },
+            {
+                  "name": "Turnul Leughenaer",
+                  "text": "Cel mai vechi monument din oraș, acest turn octogonal datează din 1405 și a servit drept far.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.378569,
+                        51.040157
+                  ]
+            },
+            {
+                  "name": "Muzeul Operațiunii Dynamo",
+                  "text": "Muzeu de istorie situat în Bastionul 32, dedicat evacuării trupelor aliate în anul 1940.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.381435,
+                        51.046048
+                  ]
+            },
+            {
+                  "name": "Princess Elizabeth",
+                  "text": "Vapor cu roți autentic folosit în timpul Operațiunii Dynamo, acum ancorat și servind drept restaurant.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.370626,
+                        51.035242
+                  ]
+            },
+            {
+                  "name": "Fort des Dunes",
+                  "text": "Fortificație subterană construită în 1878 pentru protejarea portului, locul unor lupte grele în 1940.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        2.444498,
+                        51.053975
+                  ]
+            },
+            {
+                  "name": "Grădina de Sculpturi",
+                  "text": "Galerie în aer liber care înconjoară LAAC, prezentând sculpturi moderne monumentale într-un cadru verde.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.373532,
+                        51.034355
+                  ]
+            },
+            {
+                  "name": "Gara Dunkerque",
+                  "text": "Gara principală a orașului, reconstruită în stil modern după război, deservind trenurile TGV.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        2.36876,
+                        51.03038
+                  ]
+            },
+            {
+                  "name": "Kursaal",
+                  "text": "Palatul Congreselor din oraș, un centru cultural important pentru evenimente, situat pe malul mării.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.38839,
+                        51.049117
+                  ]
+            },
+            {
+                  "name": "Bio-Topia Dunkerque",
+                  "text": "Bio-Topia Dunkerque este un parc cu animale sălbatice unde familiile pot învăța despre biodiversitate și pot vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        2.309729,
+                        51.029878
+                  ]
+            },
+            {
+                  "name": "Feu de Saint-Pol",
+                  "text": "Un far distinctiv în stil Art Deco în portul Dunkerque.",
+                  "category": "landmark",
+                  "coords": [
+                        2.34942,
+                        51.060566
+                  ]
+            },
+            {
+                  "name": "Frac Grand Large -- Hauts-de-France",
+                  "text": "Un muzeu regional de artă contemporană în Dunkerque.",
+                  "category": "museum",
+                  "coords": [
+                        2.375823,
+                        51.048044
+                  ]
+            },
+            {
+                  "name": "Le Bateau Feu",
+                  "text": "Un teatru național și spațiu de spectacol în Dunkerque.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380922,
+                        51.037119
+                  ]
+            },
+            {
+                  "name": "Le Chateau Coquelle",
+                  "text": "Un castel istoric și centru cultural în Dunkerque.",
+                  "category": "castle",
+                  "coords": [
+                        2.413618,
+                        51.038808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunkirk Belfry",
+                  "text": "This 15th-century brick tower is part of a UNESCO World Heritage site and offers grand views of the harbor and North Sea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.37619,
+                        51.035612
+                  ]
+            },
+            {
+                  "name": "Port Museum",
+                  "text": "Set in a former tobacco warehouse, this museum showcases the city's seafaring heritage and features historic ships to visit.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.37168,
+                        51.0379
+                  ]
+            },
+            {
+                  "name": "Saint-Eloi Church",
+                  "text": "A massive 16th-century Gothic brick church, often called the 'Cathedral of the Sands' due to its proximity to the coast.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.377177,
+                        51.035607
+                  ]
+            },
+            {
+                  "name": "Memorial of the Souvenir",
+                  "text": "A museum dedicated to 'Operation Dynamo' in 1940, telling the dramatic story of the evacuation of Allied troops.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.381111,
+                        51.046111
+                  ]
+            },
+            {
+                  "name": "Malo-les-Bains Beach",
+                  "text": "Situated in Dunkerque, this long sandy beach charms visitors with its Belle-Époque villas. The nearby promenade is bustling with numerous cafes and a relaxed atmosphere. It is the perfect place for a leisurely afternoon of sunbathing or strolling. Arriving early in the morning guarantees a peaceful experience.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.41333,
+                        51.0556
+                  ]
+            },
+            {
+                  "name": "Risban Lighthouse",
+                  "text": "Standing 63 meters tall, this historic lighthouse built in 1843 guides vessels into the bustling port of Dunkirk.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.364167,
+                        51.048889
+                  ]
+            },
+            {
+                  "name": "LAAC",
+                  "text": "Modern art museum located in a park near the sea, featuring works from the 1950s to the 1980s.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.38253,
+                        51.0461
+                  ]
+            },
+            {
+                  "name": "FRAC Grand Large",
+                  "text": "Contemporary art center housed in a striking glass building, a former shipyard workshop.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.380949,
+                        51.046989
+                  ]
+            },
+            {
+                  "name": "Dunkerque Town Hall",
+                  "text": "Neo-Flemish style town hall inaugurated in 1901, famous for its facade and stained glass windows.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        2.376755,
+                        51.037662
+                  ]
+            },
+            {
+                  "name": "Leughenaer Tower",
+                  "text": "The oldest monument in the city, this octagonal tower dates back to 1405 and served as a lighthouse.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.378569,
+                        51.040157
+                  ]
+            },
+            {
+                  "name": "Operation Dynamo Museum",
+                  "text": "History museum located in the Bastion 32, dedicated to the evacuation of Allied troops in 1940.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        2.381435,
+                        51.046048
+                  ]
+            },
+            {
+                  "name": "Princess Elizabeth",
+                  "text": "Authentic paddle steamer used during Operation Dynamo, now docked and serving as a restaurant.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        2.370626,
+                        51.035242
+                  ]
+            },
+            {
+                  "name": "Fort des Dunes",
+                  "text": "Underground fortification built in 1878 to protect the port, site of heavy fighting in 1940.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        2.444498,
+                        51.053975
+                  ]
+            },
+            {
+                  "name": "Sculpture Garden",
+                  "text": "Outdoor gallery surrounding the LAAC, featuring monumental modern sculptures in a green setting.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.373532,
+                        51.034355
+                  ]
+            },
+            {
+                  "name": "Dunkerque Railway Station",
+                  "text": "The city's main station, rebuilt in a modern style after the war, connecting to Paris via TGV.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        2.36876,
+                        51.03038
+                  ]
+            },
+            {
+                  "name": "Kursaal",
+                  "text": "The city's congress center, a major cultural venue for events and performances right by the beach.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.38839,
+                        51.049117
+                  ]
+            },
+            {
+                  "name": "Bio-Topia Dunkerque",
+                  "text": "Bio-Topia Dunkerque is a wildlife park where families can learn about biodiversity and see various animals.",
+                  "category": "family",
+                  "coords": [
+                        2.309729,
+                        51.029878
+                  ]
+            },
+            {
+                  "name": "Feu de Saint-Pol",
+                  "text": "A distinctive Art Deco style lighthouse in the port of Dunkerque.",
+                  "category": "landmark",
+                  "coords": [
+                        2.34942,
+                        51.060566
+                  ]
+            },
+            {
+                  "name": "Frac Grand Large -- Hauts-de-France",
+                  "text": "A regional museum of contemporary art in Dunkerque.",
+                  "category": "museum",
+                  "coords": [
+                        2.375823,
+                        51.048044
+                  ]
+            },
+            {
+                  "name": "Le Bateau Feu",
+                  "text": "A national theater and performance venue in Dunkerque.",
+                  "category": "cultural",
+                  "coords": [
+                        2.380922,
+                        51.037119
+                  ]
+            },
+            {
+                  "name": "Le Chateau Coquelle",
+                  "text": "A historic castle and cultural center in Dunkerque.",
+                  "category": "castle",
+                  "coords": [
+                        2.413618,
+                        51.038808
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Beffroi de Dunkerque",
+                  "text": "Ce beffroi en briques du XVe siècle est classé au patrimoine mondial de l'UNESCO et offre une vue sur le port.",
+                  "category": "historical",
+                  "coords": [
+                        2.37619,
+                        51.035612
+                  ]
+            },
+            {
+                  "name": "Musée Portuaire",
+                  "text": "Installé dans un ancien entrepôt de tabac, il retrace l'histoire du port de Dunkerque et le quotidien des marins.",
+                  "category": "museum",
+                  "coords": [
+                        2.37168,
+                        51.0379
+                  ]
+            },
+            {
+                  "name": "Église Saint-Éloi",
+                  "text": "Une imposante église en briques du XVIe siècle, surnommée la « cathédrale des sables ».",
+                  "category": "religious",
+                  "coords": [
+                        2.377177,
+                        51.035607
+                  ]
+            },
+            {
+                  "name": "Mémorial du Souvenir",
+                  "text": "Musée documentant l'opération Dynamo de 1940 lors de l'évacuation historique des troupes alliées.",
+                  "category": "historical",
+                  "coords": [
+                        2.381111,
+                        51.046111
+                  ]
+            },
+            {
+                  "name": "Plage de Malo-les-Bains",
+                  "text": "À Dunkerque, cette longue plage de sable séduit par son architecture Belle-Époque. La promenade adjacente regorge de cafés et offre une atmosphère détendue. On peut y passer d'agréables après-midis à bronzer ou à se promener. Une promenade tôt le matin offre une tranquillité particulière.",
+                  "category": "recreational",
+                  "coords": [
+                        2.41333,
+                        51.0556
+                  ]
+            },
+            {
+                  "name": "Phare du Risban",
+                  "text": "Haut de 63 mètres et construit en 1843, ce phare guide les navires en toute sécurité vers le port de Dunkerque.",
+                  "category": "historical",
+                  "coords": [
+                        2.364167,
+                        51.048889
+                  ]
+            }
+      ]
+}
   },
   {
     id: "la-rochelle", population: 79961,
@@ -28218,6 +32078,42 @@ const citySeeds: CitySeed[] = [
                         -0.397221,
                         43.307706
                   ]
+            },
+            {
+                  "name": "Trinity Church",
+                  "text": "Ein ehemaliges Kirchengebäude in Pau, das heute als Theater genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.372264,
+                        43.301662
+                  ]
+            },
+            {
+                  "name": "Chateau de Franqueville",
+                  "text": "Ein elegantes Schloss aus dem 19. Jahrhundert in Pau mit Blick auf die Pyrenäen.",
+                  "category": "castle",
+                  "coords": [
+                        -0.346765,
+                        43.286304
+                  ]
+            },
+            {
+                  "name": "Haras National de Gelos",
+                  "text": "Ein historisches Nationalgestüt in Gelos bei Pau, das für seine Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -0.367851,
+                        43.283817
+                  ]
+            },
+            {
+                  "name": "Theatre Monte Charge",
+                  "text": "Ein lokales Theater in Pau, das zeitgenössische Stücke und Kunstprojekte präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.365086,
+                        43.298728
+                  ]
             }
       ],
       "hu": [
@@ -28426,6 +32322,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.397221,
                         43.307706
+                  ]
+            },
+            {
+                  "name": "Trinity Church",
+                  "text": "Egy egykori templomépület Pauban, amelyet ma színházként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.372264,
+                        43.301662
+                  ]
+            },
+            {
+                  "name": "Chateau de Franqueville",
+                  "text": "Egy elegáns, 19. századi kastély Pauban, kilátással a Pireneusokra.",
+                  "category": "castle",
+                  "coords": [
+                        -0.346765,
+                        43.286304
+                  ]
+            },
+            {
+                  "name": "Haras National de Gelos",
+                  "text": "Egy történelmi nemzeti ménesbirtok Gelos-ban, Pau közelében, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -0.367851,
+                        43.283817
+                  ]
+            },
+            {
+                  "name": "Theatre Monte Charge",
+                  "text": "Egy helyi színház Pauban, amely kortárs darabokat és művészeti projekteket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.365086,
+                        43.298728
                   ]
             }
       ],
@@ -28636,6 +32568,42 @@ const citySeeds: CitySeed[] = [
                         -0.397221,
                         43.307706
                   ]
+            },
+            {
+                  "name": "Trinity Church",
+                  "text": "O fostă clădire de biserică din Pau, utilizată astăzi ca teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.372264,
+                        43.301662
+                  ]
+            },
+            {
+                  "name": "Chateau de Franqueville",
+                  "text": "Un castel elegant din secolul al XIX-lea din Pau, cu vedere spre Pirinei.",
+                  "category": "castle",
+                  "coords": [
+                        -0.346765,
+                        43.286304
+                  ]
+            },
+            {
+                  "name": "Haras National de Gelos",
+                  "text": "O herghelie națională istorică din Gelos, lângă Pau, cunoscută pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        -0.367851,
+                        43.283817
+                  ]
+            },
+            {
+                  "name": "Theatre Monte Charge",
+                  "text": "Un teatru local din Pau care prezintă piese contemporane și proiecte artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.365086,
+                        43.298728
+                  ]
             }
       ],
       "en": [
@@ -28844,6 +32812,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.397221,
                         43.307706
+                  ]
+            },
+            {
+                  "name": "Trinity Church",
+                  "text": "A former church building in Pau that is now used as a theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.372264,
+                        43.301662
+                  ]
+            },
+            {
+                  "name": "Chateau de Franqueville",
+                  "text": "An elegant 19th-century castle in Pau offering views of the Pyrenees.",
+                  "category": "castle",
+                  "coords": [
+                        -0.346765,
+                        43.286304
+                  ]
+            },
+            {
+                  "name": "Haras National de Gelos",
+                  "text": "A historic national stud farm in Gelos near Pau, known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -0.367851,
+                        43.283817
+                  ]
+            },
+            {
+                  "name": "Theatre Monte Charge",
+                  "text": "A local theatre in Pau presenting contemporary plays and art projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.365086,
+                        43.298728
                   ]
             }
       ],
@@ -29106,6 +33110,51 @@ const citySeeds: CitySeed[] = [
                         -1.445778,
                         43.483084
                   ]
+            },
+            {
+                  "name": "Musee Basque et de l'histoire de Bayonne",
+                  "text": "Ein Museum, das der baskischen Kultur und der Geschichte von Bayonne gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473799,
+                        43.491085
+                  ]
+            },
+            {
+                  "name": "Chateau de Marracq",
+                  "text": "Die Ruinen eines Schlosses aus dem 18. Jahrhundert in Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.48347,
+                        43.479866
+                  ]
+            },
+            {
+                  "name": "Chateau du Vigneau",
+                  "text": "Ein historisches Schlossgebäude in der Stadt Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.469655,
+                        43.505615
+                  ]
+            },
+            {
+                  "name": "Luna Negra",
+                  "text": "Ein lokaler Kulturort und Theater in Bayonne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.475934,
+                        43.489128
+                  ]
+            },
+            {
+                  "name": "L'Art de l'Espadrille",
+                  "text": "Ein Museum, das dem traditionellen Handwerk der Espadrille-Herstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -1.452149,
+                        43.474018
+                  ]
             }
       ],
       "hu": [
@@ -29265,6 +33314,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.445778,
                         43.483084
+                  ]
+            },
+            {
+                  "name": "Musee Basque et de l'histoire de Bayonne",
+                  "text": "A baszk kultúrának és Bayonne történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473799,
+                        43.491085
+                  ]
+            },
+            {
+                  "name": "Chateau de Marracq",
+                  "text": "Egy 18. századi kastély romjai Bayonne-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -1.48347,
+                        43.479866
+                  ]
+            },
+            {
+                  "name": "Chateau du Vigneau",
+                  "text": "Történelmi kastélyépület Bayonne városában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.469655,
+                        43.505615
+                  ]
+            },
+            {
+                  "name": "Luna Negra",
+                  "text": "Helyi kulturális helyszín és színház Bayonne-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.475934,
+                        43.489128
+                  ]
+            },
+            {
+                  "name": "L'Art de l'Espadrille",
+                  "text": "A hagyományos espadrille-készítés mesterségének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.452149,
+                        43.474018
                   ]
             }
       ],
@@ -29426,6 +33520,51 @@ const citySeeds: CitySeed[] = [
                         -1.445778,
                         43.483084
                   ]
+            },
+            {
+                  "name": "Musee Basque et de l'histoire de Bayonne",
+                  "text": "Un muzeu dedicat culturii basce și istoriei orașului Bayonne.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473799,
+                        43.491085
+                  ]
+            },
+            {
+                  "name": "Chateau de Marracq",
+                  "text": "Ruinele unui castel din secolul al XVIII-lea în Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.48347,
+                        43.479866
+                  ]
+            },
+            {
+                  "name": "Chateau du Vigneau",
+                  "text": "O clădire istorică de castel în orașul Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.469655,
+                        43.505615
+                  ]
+            },
+            {
+                  "name": "Luna Negra",
+                  "text": "Un spațiu cultural local și teatru în Bayonne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.475934,
+                        43.489128
+                  ]
+            },
+            {
+                  "name": "L'Art de l'Espadrille",
+                  "text": "Un muzeu dedicat meșteșugului tradițional de fabricare a espadrilelor.",
+                  "category": "museum",
+                  "coords": [
+                        -1.452149,
+                        43.474018
+                  ]
             }
       ],
       "en": [
@@ -29585,6 +33724,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.445778,
                         43.483084
+                  ]
+            },
+            {
+                  "name": "Musee Basque et de l'histoire de Bayonne",
+                  "text": "A museum dedicated to Basque culture and the history of Bayonne.",
+                  "category": "museum",
+                  "coords": [
+                        -1.473799,
+                        43.491085
+                  ]
+            },
+            {
+                  "name": "Chateau de Marracq",
+                  "text": "The ruins of an 18th-century castle in Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.48347,
+                        43.479866
+                  ]
+            },
+            {
+                  "name": "Chateau du Vigneau",
+                  "text": "A historic castle building in the city of Bayonne.",
+                  "category": "castle",
+                  "coords": [
+                        -1.469655,
+                        43.505615
+                  ]
+            },
+            {
+                  "name": "Luna Negra",
+                  "text": "A local cultural venue and theater in Bayonne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.475934,
+                        43.489128
+                  ]
+            },
+            {
+                  "name": "L'Art de l'Espadrille",
+                  "text": "A museum dedicated to the traditional craft of espadrille making.",
+                  "category": "museum",
+                  "coords": [
+                        -1.452149,
+                        43.474018
                   ]
             }
       ],
@@ -32081,6 +36265,60 @@ const citySeeds: CitySeed[] = [
                         -2.780142,
                         47.62882
                   ]
+            },
+            {
+                  "name": "Temple Gallo-Romain(reste que les fondations)",
+                  "text": "Eine archäologische Stätte in Vannes, die die Fundamente eines antiken gallorömischen Tempels zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.750214,
+                        47.671445
+                  ]
+            },
+            {
+                  "name": "Le Zygo Comedie",
+                  "text": "Ein kleines Theater in Vannes, das auf Comedy und humoristische Aufführungen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.755294,
+                        47.659429
+                  ]
+            },
+            {
+                  "name": "Plage municipale de Conleau",
+                  "text": "Ein beliebter Stadtstrand im Viertel Conleau von Vannes am Golf von Morbihan.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.777655,
+                        47.627723
+                  ]
+            },
+            {
+                  "name": "Parc urbain du Pargo",
+                  "text": "Eine öffentliche Parkanlage in Vannes, die Grünflächen für Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        -2.778028,
+                        47.655342
+                  ]
+            },
+            {
+                  "name": "Jardin de la Prefecture",
+                  "text": "Die formalen Gärten der Präfektur von Vannes, die für ihre gepflegte Anlage bekannt sind.",
+                  "category": "park",
+                  "coords": [
+                        -2.754381,
+                        47.657841
+                  ]
+            },
+            {
+                  "name": "Parc de la Garenne",
+                  "text": "Ein historischer Stadtpark in Vannes, der ideal für Spaziergänge im Grünen ist.",
+                  "category": "park",
+                  "coords": [
+                        -2.753865,
+                        47.655781
+                  ]
             }
       ],
       "hu": [
@@ -32275,6 +36513,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.780142,
                         47.62882
+                  ]
+            },
+            {
+                  "name": "Temple Gallo-Romain(reste que les fondations)",
+                  "text": "Régészeti lelőhely Vannes-ban, amely egy ókori gall-római templom alapjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -2.750214,
+                        47.671445
+                  ]
+            },
+            {
+                  "name": "Le Zygo Comedie",
+                  "text": "Egy kis színház Vannes-ban, amely vígjátékokra és humoros előadásokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.755294,
+                        47.659429
+                  ]
+            },
+            {
+                  "name": "Plage municipale de Conleau",
+                  "text": "Népszerű városi strand Vannes Conleau negyedében, a Morbihan-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.777655,
+                        47.627723
+                  ]
+            },
+            {
+                  "name": "Parc urbain du Pargo",
+                  "text": "Egy nyilvános park Vannes-ban, amely zöldterületet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -2.778028,
+                        47.655342
+                  ]
+            },
+            {
+                  "name": "Jardin de la Prefecture",
+                  "text": "A vannes-i prefektúra formális kertjei, amelyek gondozott parkjukról ismertek.",
+                  "category": "park",
+                  "coords": [
+                        -2.754381,
+                        47.657841
+                  ]
+            },
+            {
+                  "name": "Parc de la Garenne",
+                  "text": "Egy történelmi városi park Vannes-ban, amely ideális zöldövezeti sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        -2.753865,
+                        47.655781
                   ]
             }
       ],
@@ -32471,6 +36763,60 @@ const citySeeds: CitySeed[] = [
                         -2.780142,
                         47.62882
                   ]
+            },
+            {
+                  "name": "Temple Gallo-Romain(reste que les fondations)",
+                  "text": "Un sit arheologic din Vannes care prezintă fundațiile unui vechi templu gallo-roman.",
+                  "category": "historical",
+                  "coords": [
+                        -2.750214,
+                        47.671445
+                  ]
+            },
+            {
+                  "name": "Le Zygo Comedie",
+                  "text": "Un teatru mic din Vannes specializat în comedie și spectacole umoristice.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.755294,
+                        47.659429
+                  ]
+            },
+            {
+                  "name": "Plage municipale de Conleau",
+                  "text": "O plajă municipală populară în cartierul Conleau din Vannes, pe malul golfului Morbihan.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.777655,
+                        47.627723
+                  ]
+            },
+            {
+                  "name": "Parc urbain du Pargo",
+                  "text": "Un parc public din Vannes care oferă spații verzi pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        -2.778028,
+                        47.655342
+                  ]
+            },
+            {
+                  "name": "Jardin de la Prefecture",
+                  "text": "Grădinile formale ale prefecturii din Vannes, cunoscute pentru amenajarea lor îngrijită.",
+                  "category": "park",
+                  "coords": [
+                        -2.754381,
+                        47.657841
+                  ]
+            },
+            {
+                  "name": "Parc de la Garenne",
+                  "text": "Un parc urban istoric din Vannes, ideal pentru plimbări în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -2.753865,
+                        47.655781
+                  ]
             }
       ],
       "en": [
@@ -32665,6 +37011,60 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.780142,
                         47.62882
+                  ]
+            },
+            {
+                  "name": "Temple Gallo-Romain(reste que les fondations)",
+                  "text": "An archaeological site in Vannes showing the foundations of an ancient Gallo-Roman temple.",
+                  "category": "historical",
+                  "coords": [
+                        -2.750214,
+                        47.671445
+                  ]
+            },
+            {
+                  "name": "Le Zygo Comedie",
+                  "text": "A small theatre in Vannes specializing in comedy and humorous performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.755294,
+                        47.659429
+                  ]
+            },
+            {
+                  "name": "Plage municipale de Conleau",
+                  "text": "A popular municipal beach in the Conleau district of Vannes on the Gulf of Morbihan.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.777655,
+                        47.627723
+                  ]
+            },
+            {
+                  "name": "Parc urbain du Pargo",
+                  "text": "A public park in Vannes providing green spaces for recreation.",
+                  "category": "park",
+                  "coords": [
+                        -2.778028,
+                        47.655342
+                  ]
+            },
+            {
+                  "name": "Jardin de la Prefecture",
+                  "text": "The formal gardens of the Vannes prefecture, known for their well-maintained grounds.",
+                  "category": "park",
+                  "coords": [
+                        -2.754381,
+                        47.657841
+                  ]
+            },
+            {
+                  "name": "Parc de la Garenne",
+                  "text": "A historic urban park in Vannes, ideal for walks in a green environment.",
+                  "category": "park",
+                  "coords": [
+                        -2.753865,
+                        47.655781
                   ]
             }
       ],
@@ -32899,6 +37299,42 @@ const citySeeds: CitySeed[] = [
                         -3.352551,
                         47.777781
                   ]
+            },
+            {
+                  "name": "Le cochon",
+                  "text": "Ein kleiner Leuchtturm, der die Schifffahrt bei Lorient leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.366678,
+                        47.713406
+                  ]
+            },
+            {
+                  "name": "Menhir de Sac'h Queven",
+                  "text": "Ein prähistorischer Menhir in der Nähe von Lorient.",
+                  "category": "historical",
+                  "coords": [
+                        -3.376315,
+                        47.776483
+                  ]
+            },
+            {
+                  "name": "Quai 9",
+                  "text": "Ein modernes Theater und Veranstaltungsort in Lorient.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.347369,
+                        47.762728
+                  ]
+            },
+            {
+                  "name": "Greve de la Nourriguel",
+                  "text": "Ein malerischer Strandabschnitt in der Nähe von Lorient.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.371348,
+                        47.714383
+                  ]
             }
       ],
       "hu": [
@@ -33039,6 +37475,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -3.352551,
                         47.777781
+                  ]
+            },
+            {
+                  "name": "Le cochon",
+                  "text": "Kisméretű világítótorony Lorient közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.366678,
+                        47.713406
+                  ]
+            },
+            {
+                  "name": "Menhir de Sac'h Queven",
+                  "text": "Prehisztorikus menhir Lorient közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -3.376315,
+                        47.776483
+                  ]
+            },
+            {
+                  "name": "Quai 9",
+                  "text": "Modern színház és előadóterem Lorient-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.347369,
+                        47.762728
+                  ]
+            },
+            {
+                  "name": "Greve de la Nourriguel",
+                  "text": "Gleccsercsiszolt tengerparti terület Lorient közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.371348,
+                        47.714383
                   ]
             }
       ],
@@ -33181,6 +37653,42 @@ const citySeeds: CitySeed[] = [
                         -3.352551,
                         47.777781
                   ]
+            },
+            {
+                  "name": "Le cochon",
+                  "text": "Un far mic care ghidează navigația lângă Lorient.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.366678,
+                        47.713406
+                  ]
+            },
+            {
+                  "name": "Menhir de Sac'h Queven",
+                  "text": "Un menhir preistoric situat lângă Lorient.",
+                  "category": "historical",
+                  "coords": [
+                        -3.376315,
+                        47.776483
+                  ]
+            },
+            {
+                  "name": "Quai 9",
+                  "text": "Un teatru modern și sală de spectacole în Lorient.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.347369,
+                        47.762728
+                  ]
+            },
+            {
+                  "name": "Greve de la Nourriguel",
+                  "text": "O zonă de plajă pitorească lângă Lorient.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.371348,
+                        47.714383
+                  ]
             }
       ],
       "en": [
@@ -33321,6 +37829,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -3.352551,
                         47.777781
+                  ]
+            },
+            {
+                  "name": "Le cochon",
+                  "text": "A small lighthouse guiding navigation near Lorient.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.366678,
+                        47.713406
+                  ]
+            },
+            {
+                  "name": "Menhir de Sac'h Queven",
+                  "text": "A prehistoric menhir located near Lorient.",
+                  "category": "historical",
+                  "coords": [
+                        -3.376315,
+                        47.776483
+                  ]
+            },
+            {
+                  "name": "Quai 9",
+                  "text": "A modern theater and performance space in Lorient.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.347369,
+                        47.762728
+                  ]
+            },
+            {
+                  "name": "Greve de la Nourriguel",
+                  "text": "A scenic beach area located near Lorient.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.371348,
+                        47.714383
                   ]
             }
       ],
@@ -36050,6 +40594,33 @@ const citySeeds: CitySeed[] = [
                         -0.931149,
                         47.0606
                   ]
+            },
+            {
+                  "name": "Menhir La Pierre Plate",
+                  "text": "Ein antiker Menhir in Cholet, der als historisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -0.854342,
+                        47.044112
+                  ]
+            },
+            {
+                  "name": "Jardin de Verre",
+                  "text": "Ein Kulturzentrum und Theater in Cholet, das für zeitgenössische Kunst und Musik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.880978,
+                        47.06268
+                  ]
+            },
+            {
+                  "name": "Le Theatre Interlude",
+                  "text": "Ein Theater in Cholet, das ein vielfältiges Programm an Bühnenaufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.889965,
+                        47.058234
+                  ]
             }
       ],
       "hu": [
@@ -36190,6 +40761,33 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.931149,
                         47.0606
+                  ]
+            },
+            {
+                  "name": "Menhir La Pierre Plate",
+                  "text": "Egy ősi menhir Cholet-ben, amely történelmi emlékként áll védelem alatt.",
+                  "category": "historical",
+                  "coords": [
+                        -0.854342,
+                        47.044112
+                  ]
+            },
+            {
+                  "name": "Jardin de Verre",
+                  "text": "Kulturális központ és színház Cholet-ben, amely kortárs művészetekről és zenéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.880978,
+                        47.06268
+                  ]
+            },
+            {
+                  "name": "Le Theatre Interlude",
+                  "text": "Egy színház Cholet-ben, amely változatos színpadi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.889965,
+                        47.058234
                   ]
             }
       ],
@@ -36332,6 +40930,33 @@ const citySeeds: CitySeed[] = [
                         -0.931149,
                         47.0606
                   ]
+            },
+            {
+                  "name": "Menhir La Pierre Plate",
+                  "text": "Un menhir antic din Cholet, protejat ca monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -0.854342,
+                        47.044112
+                  ]
+            },
+            {
+                  "name": "Jardin de Verre",
+                  "text": "Un centru cultural și teatru din Cholet, cunoscut pentru artă contemporană și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.880978,
+                        47.06268
+                  ]
+            },
+            {
+                  "name": "Le Theatre Interlude",
+                  "text": "Un teatru din Cholet care oferă un program variat de spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.889965,
+                        47.058234
+                  ]
             }
       ],
       "en": [
@@ -36473,6 +41098,33 @@ const citySeeds: CitySeed[] = [
                         -0.931149,
                         47.0606
                   ]
+            },
+            {
+                  "name": "Menhir La Pierre Plate",
+                  "text": "An ancient standing stone in Cholet protected as a historical monument.",
+                  "category": "historical",
+                  "coords": [
+                        -0.854342,
+                        47.044112
+                  ]
+            },
+            {
+                  "name": "Jardin de Verre",
+                  "text": "A cultural center and theatre in Cholet known for contemporary art and music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.880978,
+                        47.06268
+                  ]
+            },
+            {
+                  "name": "Le Theatre Interlude",
+                  "text": "A theatre in Cholet offering a diverse program of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.889965,
+                        47.058234
+                  ]
             }
       ],
       "fr": [
@@ -36566,7 +41218,1032 @@ const citySeeds: CitySeed[] = [
       fr: ["Le chantier naval Chantiers de l'Atlantique a été fondé dès 1861.", "La base sous-marine de Saint-Nazaire se compose de plus de 300 000 mètres cubes de béton.", "Le pont de Saint-Nazaire mesure 3 356 mètres et était le plus long de France à son ouverture en 1975.", "Le Queen Mary 2, l'un des plus grands paquebots, y fut achevé en 2003.", "Environ 85 % de la ville fut détruite par les bombardements durant la Seconde Guerre mondiale.", "Saint-Nazaire possède au total 20 plages différentes sur son territoire communal."],
     },
     image: "/poi-images/saint-nazaire.webp",
-    "sights": {"de": [{"name": "Escal'Atlantic", "text": "In der ehemaligen U-Boot-Basis untergebracht, entführt dieses Erlebnis-Museum die Besucher in die Welt der legendären Ozeandampfer.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "U-Boot Espadon", "text": "Das erste französische U-Boot, das unter das Packeis tauchte, kann heute im Hafenbecken von Saint-Nazaire besichtigt werden.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "U-Boot-Basis", "text": "Ein gewaltiges Betonbauwerk aus dem Zweiten Weltkrieg, das heute als Kulturzentrum und Ausstellungsraum für die Stadt dient.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Brücke von Saint-Nazaire", "text": "Die imposante Schrägseilbrücke überspannt die Loire-Mündung und bietet spektakuläre Ausblicke auf die Werften und den Ozean.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "Eine der größten Werften weltweit, auf der die berühmtesten Kreuzfahrtschiffe der Welt gebaut werden, bietet geführte Touren an.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Plage de Monsieur Hulot", "text": "Berühmt geworden durch Jacques Tatis Filmklassiker, ist der Plage de Monsieur Hulot ein charmanter Sandstrand in Saint-Marc-sur-Mer bei Saint Nazaire. Die Küstenkulisse strahlt eine nostalgische Meeresatmosphäre aus, die perfekt für entspannte Spaziergänge und sanftes Schwimmen ist. Besucher werden von der filmischen Geschichte, die an diesem Ufer verweilt, verzaubert sein. Ein Besuch an einem sonnigen Nachmittag fängt den zeitlosen Geist der französischen Küste perfekt ein.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Centre éolien", "text": "Ein interaktives Museum in der U-Boot-Basis, das die Technologie der Offshore-Windparks erklärt.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria-Denkmal", "text": "Ein bewegendes Denkmal, das an die Versenkung der RMS Lancastria im Jahr 1940 vor der Küste erinnert.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "Ein 50 Hektar großer Park im Stadtzentrum mit einem See, Gärten und verschiedenen Freizeitmöglichkeiten.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "Die älteste Mole des Hafens bietet einen weiten Blick über die Mündung der Loire.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "Das Museum zeigt die Geschichte des Schiffbaus und den Wiederaufbau der Stadt nach dem Krieg.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Rathaus (Hôtel de Ville)", "text": "Ein markantes Gebäude im modernistischen Stil, das das Verwaltungszentrum der Hafenstadt bildet.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando-Denkmal", "text": "Es ehrt die britischen Soldaten, die 1942 an der wagemutigen Operation Chariot teilgenommen haben.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "Eine ehemalige Verteidigungsanlage an der Küste, die heute als Wanderziel mit Meerblick dient.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Kirche Saint-Nazaire", "text": "Die Hauptkirche der Stadt, die nach dem Zweiten Weltkrieg im schlichten modernen Stil wiederaufgebaut wurde.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "Der Spielplatz Dragon des mers in Saint-Nazaire bietet maritimen Spielspaß für abenteuerlustige Kinder.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland in Saint-Nazaire ist ein Spielplatz, auf dem Kinder aktiv sein und neue Geräte entdecken können.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "Der Minigolfplatz in Saint-Nazaire bietet Familien ein unterhaltsames Erlebnis beim Einlochen im Freien.", "category": "family", "coords": [-2.221973, 47.269059]}], "hu": [{"name": "Escal'Atlantic", "text": "Az egykori tengeralattjáró-bázison található múzeum a nagy óceánjárók világát idézi meg interaktív módon.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Espadon tengeralattjáró", "text": "A látogatók bejárhatják az első francia tengeralattjárót, amely átkelt az északi sarkkör jege alatt.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Tengeralattjáró-bázis", "text": "Hatalmas betonbunker a második világháborúból, amely ma kulturális központként és múzeumként üzemel.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Saint-Nazaire-híd", "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "A világ egyik legnagyobb hajógyára, ahol vezetett túrák során ismerhető meg az óriási tengerjárók építése.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Monsieur Hulot strandja", "text": "A Jacques Tati klasszikus filmje által híressé vált Plage de Monsieur Hulot egy bájos homokos strand Saint-Marc-sur-Merben, Saint Nazaire közelében. A tengerparti környezet nosztalgikus hangulatot áraszt, amely tökéletes a nyugodt sétákhoz és a lágy úszáshoz. A látogatókat elvarázsolja a part mentén elterülő filmes történelem. Egy napos délutáni látogatás tökéletesen megragadja a francia tengerpart időtlen szellemét.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Szélenergia Központ", "text": "Interaktív múzeum a tengeralattjáró-bázison, amely a tengeri szélparkok technológiáját mutatja be.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria-emlékmű", "text": "Megható emlékmű, amely az RMS Lancastria 1940-es elsüllyedésének áldozataira emlékeztet a partoknál.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "50 hektáros park a városközpontban tóval, kertekkel és számos szabadidős sportolási lehetőséggel.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "A kikötő legrégebbi mólója, amely panorámás kilátást nyújt a hajókra és a Saint-Nazaire-hídra.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "A múzeum a helyi hajógyártás történetét és a város háború utáni újjáépítését mutatja be.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Városháza (Hôtel de Ville)", "text": "Jellegzetes modernista stílusú épület, amely a kikötőváros adminisztratív központja.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando-emlékmű", "text": "A brit katonák előtt tiszteleg, akik 1942-ben részt vettek a merész Operation Chariot akcióban.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "Egykori tengerparti védmű, amely ma kedvelt kirándulóhely az óceánra nyíló kilátással.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Saint-Nazaire-templom", "text": "A város főtemploma, amelyet a második világháború után egyszerű, modern stílusban építettek újjá.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "A Saint-Nazaire-i Dragon des mers játszótér tengeri tematikájú szórakozást kínál a kalandvágyó gyerekeknek.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "A Saint-Nazaire-i Geckoland játszótéren a gyerekek aktívan tölthetik az időt és új játékokat fedezhetnek fel.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "A Saint-Nazaire-i minigolfpálya szórakoztató szabadtéri élményt nyújt a családoknak.", "category": "family", "coords": [-2.221973, 47.269059]}], "ro": [{"name": "Escal'Atlantic", "text": "Situat în interiorul bazei de submarine, acest muzeu oferă o incursiune fascinantă în epoca marilor pacheboturi transatlantice.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Submarinul Espadon", "text": "Primul submarin francez care s-a scufundat sub gheața polară poate fi acum vizitat în portul orașului.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Baza de Submarine", "text": "O fortăreață gigantică de beton din al Doilea Război Mondial, transformată astăzi într-un hub cultural și turistic.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Podul din Saint-Nazaire", "text": "O capodoperă a ingineriei care traversează estuarul Loirei, oferind panorame superbe asupra zonei portuare.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "Unul dintre cele mai mari șantiere navale din lume, unde pot fi văzute în construcție cele mai mari nave de croazieră.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Plaja Monsieur Hulot", "text": "Renumită prin filmul clasic al lui Jacques Tati, Plage de Monsieur Hulot este o plajă de nisip fermecătoare situată în Saint-Marc-sur-Mer, lângă Saint Nazaire. Decorul de coastă emană o atmosferă nostalgică de litoral, perfectă pentru plimbări relaxate și înot liniștit. Vizitatorii vor fi fermecați de istoria cinematografică ce stăruie de-a lungul țărmului. O vizită într-o după-amiază însorită surprinde perfect spiritul atemporal al litoralului francez.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Centre éolien", "text": "Un muzeu interactiv situat în baza de submarine, care explică tehnologia parcurilor eoliene offshore.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Monumentul Lancastria", "text": "Un monument emoționant care comemorează scufundarea navei RMS Lancastria în 1940, lângă coastă.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "Un parc de 50 de hectare în centrul orașului, cu un lac, grădini și diverse facilități de recreere.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "Cel mai vechi dig al portului oferă o vedere panoramică asupra navelor și a podului Saint-Nazaire.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "Muzeul prezintă istoria construcțiilor navale și reconstrucția orașului după cel de-al Doilea Război Mondial.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Primăria (Hôtel de Ville)", "text": "O clădire marcantă în stil modernist, care constituie centrul administrativ al acestui oraș portuar.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Monumentul Commando", "text": "Onorează soldații britanici care au participat la îndrăzneața Operațiune Chariot în anul 1942.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "O fostă fortificație de apărare de coastă, care astăzi servește drept destinație de drumeție cu vedere la ocean.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Biserica Saint-Nazaire", "text": "Principala biserică a orașului, reconstruită după război într-un stil modern și sobru.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "Locul de joacă Dragon des mers din Saint-Nazaire oferă distracție maritimă pentru copiii dornici de aventură.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland din Saint-Nazaire este un loc de joacă unde copiii pot fi activi și pot descoperi noi echipamente.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "Terenul de minigolf din Saint-Nazaire oferă familiilor o experiență distractivă de joc în aer liber.", "category": "family", "coords": [-2.221973, 47.269059]}], "en": [{"name": "Escal'Atlantic", "text": "An immersive museum located within the submarine base that recreates the luxury and history of great ocean liners.", "category": "museum", "confidence": "high", "coords": [-2.2, 47.28]}, {"name": "Espadon Submarine", "text": "The first French submarine to dive under ice, now open to the public for a unique walkthrough experience in the harbor.", "category": "historical", "confidence": "high", "coords": [-2.202624, 47.275872]}, {"name": "Submarine Base", "text": "A massive WWII concrete bunker that has been repurposed into a creative cultural space and visitor attraction.", "category": "historical", "confidence": "high", "coords": [-2.2025, 47.275833]}, {"name": "Saint-Nazaire Bridge", "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.", "category": "civic", "confidence": "high", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "One of the world's largest shipyards, famous for building iconic cruise ships and offering guided industrial tours.", "category": "historical", "confidence": "high", "coords": [-2.195302, 47.285769]}, {"name": "Monsieur Hulot's Beach", "text": "Renowned through Jacques Tati's classic film, Plage de Monsieur Hulot is a charming sandy beach located in Saint-Marc-sur-Mer near Saint Nazaire. The coastal setting exudes a nostalgic seaside atmosphere perfect for relaxed walks and gentle swimming. Visitors will find themselves charmed by the cinematic history that lingers along the shore. Visiting on a sunny afternoon perfectly captures the timeless spirit of the French seaside.", "category": "recreational", "confidence": "high", "coords": [-2.2806, 47.2377]}, {"name": "EOL Wind Power Centre", "text": "An interactive museum inside the submarine base explaining the technology of offshore wind farms.", "category": "museum", "confidence": "high", "coords": [-2.198828, 47.275507]}, {"name": "Lancastria Memorial", "text": "A moving monument commemorating the sinking of the RMS Lancastria in 1940 off the coast of the city.", "category": "historical", "confidence": "high", "coords": [-2.204636, 47.271252]}, {"name": "Parc Paysager", "text": "A 50-hectare park in the city center featuring a lake, gardens, and various recreational opportunities.", "category": "natural", "confidence": "high", "coords": [-2.22774, 47.27194]}, {"name": "Vieux Môle", "text": "The port's oldest jetty offers a panoramic view of the ships and the impressive Saint-Nazaire Bridge.", "category": "historical", "confidence": "high", "coords": [-2.197335, 47.271378]}, {"name": "Écomusée de Saint-Nazaire", "text": "This museum showcases the history of shipbuilding and the city's post-war reconstruction.", "category": "museum", "confidence": "high", "coords": [-2.19851, 47.2742]}, {"name": "Town Hall (Hôtel de Ville)", "text": "A striking modernist building that serves as the administrative heart of this port city.", "category": "civic", "confidence": "high", "coords": [-2.213905, 47.273294]}, {"name": "Commando Monument", "text": "It honors the British soldiers who took part in the daring Operation Chariot raid in 1942.", "category": "historical", "confidence": "high", "coords": [-2.198663, 47.271801]}, {"name": "Fort de l'Eve", "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.", "category": "historical", "confidence": "high", "coords": [-2.26722, 47.2392]}, {"name": "Saint-Nazaire Church", "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.", "category": "religious", "confidence": "high", "coords": [-2.213891, 47.273352]}, {"name": "Dragon des mers", "text": "The Dragon des mers playground in Saint-Nazaire offers maritime-themed fun for adventurous children.", "category": "family", "coords": [-2.212758, 47.277507]}, {"name": "Geckoland", "text": "Geckoland in Saint-Nazaire is a playground where children can stay active and discover new equipment.", "category": "family", "coords": [-2.204014, 47.280748]}, {"name": "Golf miniature", "text": "The miniature golf course in Saint-Nazaire provides a fun outdoor experience for families.", "category": "family", "coords": [-2.221973, 47.269059]}], "fr": [{"name": "Escal'Atlantic", "text": "Installé dans l'ancienne base sous-marine, ce musée immersif transporte les visiteurs dans le monde des paquebots légendaires.", "category": "museum", "coords": [-2.2, 47.28]}, {"name": "Sous-marin Espadon", "text": "Le premier sous-marin français à avoir navigué sous la banquise peut être visité aujourd'hui dans le bassin portuaire de Saint-Nazaire.", "category": "historical", "coords": [-2.202624, 47.275872]}, {"name": "Base sous-marine", "text": "Une énorme structure en béton de la Seconde Guerre mondiale, servant aujourd'hui de centre culturel et d'espace d'exposition.", "category": "historical", "coords": [-2.2025, 47.275833]}, {"name": "Pont de Saint-Nazaire", "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.", "category": "civic", "coords": [-2.165681, 47.278764]}, {"name": "Chantiers de l'Atlantique", "text": "L'un des plus grands chantiers navals au monde, où sont construits les navires de croisière les plus célèbres, propose des visites guidées.", "category": "historical", "coords": [-2.195302, 47.285769]}, {"name": "Plage de Monsieur Hulot", "text": "Célèbre grâce au classique cinématographique de Jacques Tati, la Plage de Monsieur Hulot est une charmante étendue de sable située à Saint-Marc-sur-Mer près de Saint Nazaire. Le cadre côtier dégage une atmosphère balnéaire nostalgique, idéale pour des promenades détendues et des baignades en douceur. Les visiteurs seront séduits par l'histoire cinématographique qui imprègne le rivage. Une visite par un après-midi ensoleillé capture parfaitement l'esprit intemporel du bord de mer français.", "category": "recreational", "coords": [-2.2806, 47.2377]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "In der ehemaligen U-Boot-Basis untergebracht, entführt dieses Erlebnis-Museum die Besucher in die Welt der legendären Ozeandampfer.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2,
+                        47.28
+                  ]
+            },
+            {
+                  "name": "U-Boot Espadon",
+                  "text": "Das erste französische U-Boot, das unter das Packeis tauchte, kann heute im Hafenbecken von Saint-Nazaire besichtigt werden.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202624,
+                        47.275872
+                  ]
+            },
+            {
+                  "name": "U-Boot-Basis",
+                  "text": "Ein gewaltiges Betonbauwerk aus dem Zweiten Weltkrieg, das heute als Kulturzentrum und Ausstellungsraum für die Stadt dient.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2025,
+                        47.275833
+                  ]
+            },
+            {
+                  "name": "Brücke von Saint-Nazaire",
+                  "text": "Die imposante Schrägseilbrücke überspannt die Loire-Mündung und bietet spektakuläre Ausblicke auf die Werften und den Ozean.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.165681,
+                        47.278764
+                  ]
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "Eine der größten Werften weltweit, auf der die berühmtesten Kreuzfahrtschiffe der Welt gebaut werden, bietet geführte Touren an.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.195302,
+                        47.285769
+                  ]
+            },
+            {
+                  "name": "Plage de Monsieur Hulot",
+                  "text": "Berühmt geworden durch Jacques Tatis Filmklassiker, ist der Plage de Monsieur Hulot ein charmanter Sandstrand in Saint-Marc-sur-Mer bei Saint Nazaire. Die Küstenkulisse strahlt eine nostalgische Meeresatmosphäre aus, die perfekt für entspannte Spaziergänge und sanftes Schwimmen ist. Besucher werden von der filmischen Geschichte, die an diesem Ufer verweilt, verzaubert sein. Ein Besuch an einem sonnigen Nachmittag fängt den zeitlosen Geist der französischen Küste perfekt ein.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2806,
+                        47.2377
+                  ]
+            },
+            {
+                  "name": "EOL Centre éolien",
+                  "text": "Ein interaktives Museum in der U-Boot-Basis, das die Technologie der Offshore-Windparks erklärt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198828,
+                        47.275507
+                  ]
+            },
+            {
+                  "name": "Lancastria-Denkmal",
+                  "text": "Ein bewegendes Denkmal, das an die Versenkung der RMS Lancastria im Jahr 1940 vor der Küste erinnert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.204636,
+                        47.271252
+                  ]
+            },
+            {
+                  "name": "Parc Paysager",
+                  "text": "Ein 50 Hektar großer Park im Stadtzentrum mit einem See, Gärten und verschiedenen Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.22774,
+                        47.27194
+                  ]
+            },
+            {
+                  "name": "Vieux Môle",
+                  "text": "Die älteste Mole des Hafens bietet einen weiten Blick über die Mündung der Loire.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197335,
+                        47.271378
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saint-Nazaire",
+                  "text": "Das Museum zeigt die Geschichte des Schiffbaus und den Wiederaufbau der Stadt nach dem Krieg.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19851,
+                        47.2742
+                  ]
+            },
+            {
+                  "name": "Rathaus (Hôtel de Ville)",
+                  "text": "Ein markantes Gebäude im modernistischen Stil, das das Verwaltungszentrum der Hafenstadt bildet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213905,
+                        47.273294
+                  ]
+            },
+            {
+                  "name": "Commando-Denkmal",
+                  "text": "Es ehrt die britischen Soldaten, die 1942 an der wagemutigen Operation Chariot teilgenommen haben.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198663,
+                        47.271801
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eve",
+                  "text": "Eine ehemalige Verteidigungsanlage an der Küste, die heute als Wanderziel mit Meerblick dient.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.26722,
+                        47.2392
+                  ]
+            },
+            {
+                  "name": "Kirche Saint-Nazaire",
+                  "text": "Die Hauptkirche der Stadt, die nach dem Zweiten Weltkrieg im schlichten modernen Stil wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213891,
+                        47.273352
+                  ]
+            },
+            {
+                  "name": "Dragon des mers",
+                  "text": "Der Spielplatz Dragon des mers in Saint-Nazaire bietet maritimen Spielspaß für abenteuerlustige Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -2.212758,
+                        47.277507
+                  ]
+            },
+            {
+                  "name": "Geckoland",
+                  "text": "Geckoland in Saint-Nazaire ist ein Spielplatz, auf dem Kinder aktiv sein und neue Geräte entdecken können.",
+                  "category": "family",
+                  "coords": [
+                        -2.204014,
+                        47.280748
+                  ]
+            },
+            {
+                  "name": "Golf miniature",
+                  "text": "Der Minigolfplatz in Saint-Nazaire bietet Familien ein unterhaltsames Erlebnis beim Einlochen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -2.221973,
+                        47.269059
+                  ]
+            },
+            {
+                  "name": "Phare de Villes Martin",
+                  "text": "Ein historischer Leuchtturm, der die Einfahrt nach Saint-Nazaire markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.227575,
+                        47.255537
+                  ]
+            },
+            {
+                  "name": "Dolmen des Trois Pierres",
+                  "text": "Eine neolithische Grabanlage und archäologische Stätte in Saint-Nazaire.",
+                  "category": "historical",
+                  "coords": [
+                        -2.206035,
+                        47.279551
+                  ]
+            },
+            {
+                  "name": "Balise des Morees",
+                  "text": "Ein Leuchtfeuer zur Navigationsunterstützung in Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.216793,
+                        47.25015
+                  ]
+            },
+            {
+                  "name": "Plage de Porce",
+                  "text": "Ein ruhiger Sandstrand in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Fort de Villes-Martin",
+                  "text": "Eine historische Küstenbefestigung in Saint-Nazaire.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.229851,
+                        47.256363
+                  ]
+            },
+            {
+                  "name": "Musee de la Marine",
+                  "text": "Ein Museum, das der maritimen Geschichte von Saint-Nazaire gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -2.169719,
+                        47.268017
+                  ]
+            },
+            {
+                  "name": "Tour du Commerce",
+                  "text": "Ein historischer Turm und Leuchtturm im Hafen von Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.249243,
+                        47.257424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "Az egykori tengeralattjáró-bázison található múzeum a nagy óceánjárók világát idézi meg interaktív módon.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2,
+                        47.28
+                  ]
+            },
+            {
+                  "name": "Espadon tengeralattjáró",
+                  "text": "A látogatók bejárhatják az első francia tengeralattjárót, amely átkelt az északi sarkkör jege alatt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202624,
+                        47.275872
+                  ]
+            },
+            {
+                  "name": "Tengeralattjáró-bázis",
+                  "text": "Hatalmas betonbunker a második világháborúból, amely ma kulturális központként és múzeumként üzemel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2025,
+                        47.275833
+                  ]
+            },
+            {
+                  "name": "Saint-Nazaire-híd",
+                  "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.165681,
+                        47.278764
+                  ]
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "A világ egyik legnagyobb hajógyára, ahol vezetett túrák során ismerhető meg az óriási tengerjárók építése.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.195302,
+                        47.285769
+                  ]
+            },
+            {
+                  "name": "Monsieur Hulot strandja",
+                  "text": "A Jacques Tati klasszikus filmje által híressé vált Plage de Monsieur Hulot egy bájos homokos strand Saint-Marc-sur-Merben, Saint Nazaire közelében. A tengerparti környezet nosztalgikus hangulatot áraszt, amely tökéletes a nyugodt sétákhoz és a lágy úszáshoz. A látogatókat elvarázsolja a part mentén elterülő filmes történelem. Egy napos délutáni látogatás tökéletesen megragadja a francia tengerpart időtlen szellemét.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2806,
+                        47.2377
+                  ]
+            },
+            {
+                  "name": "EOL Szélenergia Központ",
+                  "text": "Interaktív múzeum a tengeralattjáró-bázison, amely a tengeri szélparkok technológiáját mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198828,
+                        47.275507
+                  ]
+            },
+            {
+                  "name": "Lancastria-emlékmű",
+                  "text": "Megható emlékmű, amely az RMS Lancastria 1940-es elsüllyedésének áldozataira emlékeztet a partoknál.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.204636,
+                        47.271252
+                  ]
+            },
+            {
+                  "name": "Parc Paysager",
+                  "text": "50 hektáros park a városközpontban tóval, kertekkel és számos szabadidős sportolási lehetőséggel.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.22774,
+                        47.27194
+                  ]
+            },
+            {
+                  "name": "Vieux Môle",
+                  "text": "A kikötő legrégebbi mólója, amely panorámás kilátást nyújt a hajókra és a Saint-Nazaire-hídra.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197335,
+                        47.271378
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saint-Nazaire",
+                  "text": "A múzeum a helyi hajógyártás történetét és a város háború utáni újjáépítését mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19851,
+                        47.2742
+                  ]
+            },
+            {
+                  "name": "Városháza (Hôtel de Ville)",
+                  "text": "Jellegzetes modernista stílusú épület, amely a kikötőváros adminisztratív központja.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213905,
+                        47.273294
+                  ]
+            },
+            {
+                  "name": "Commando-emlékmű",
+                  "text": "A brit katonák előtt tiszteleg, akik 1942-ben részt vettek a merész Operation Chariot akcióban.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198663,
+                        47.271801
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eve",
+                  "text": "Egykori tengerparti védmű, amely ma kedvelt kirándulóhely az óceánra nyíló kilátással.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.26722,
+                        47.2392
+                  ]
+            },
+            {
+                  "name": "Saint-Nazaire-templom",
+                  "text": "A város főtemploma, amelyet a második világháború után egyszerű, modern stílusban építettek újjá.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213891,
+                        47.273352
+                  ]
+            },
+            {
+                  "name": "Dragon des mers",
+                  "text": "A Saint-Nazaire-i Dragon des mers játszótér tengeri tematikájú szórakozást kínál a kalandvágyó gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -2.212758,
+                        47.277507
+                  ]
+            },
+            {
+                  "name": "Geckoland",
+                  "text": "A Saint-Nazaire-i Geckoland játszótéren a gyerekek aktívan tölthetik az időt és új játékokat fedezhetnek fel.",
+                  "category": "family",
+                  "coords": [
+                        -2.204014,
+                        47.280748
+                  ]
+            },
+            {
+                  "name": "Golf miniature",
+                  "text": "A Saint-Nazaire-i minigolfpálya szórakoztató szabadtéri élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -2.221973,
+                        47.269059
+                  ]
+            },
+            {
+                  "name": "Phare de Villes Martin",
+                  "text": "Történelmi világítótorony Saint-Nazaire bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.227575,
+                        47.255537
+                  ]
+            },
+            {
+                  "name": "Dolmen des Trois Pierres",
+                  "text": "Újkőkori dolmen és régészeti lelőhely Saint-Nazaire-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.206035,
+                        47.279551
+                  ]
+            },
+            {
+                  "name": "Balise des Morees",
+                  "text": "Navigációs jelzőfény Saint-Nazaire kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.216793,
+                        47.25015
+                  ]
+            },
+            {
+                  "name": "Plage de Porce",
+                  "text": "Csendes homokos strand Saint-Nazaire-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Fort de Villes-Martin",
+                  "text": "Történelmi parti erődítmény Saint-Nazaire-ben.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.229851,
+                        47.256363
+                  ]
+            },
+            {
+                  "name": "Musee de la Marine",
+                  "text": "Saint-Nazaire tengerészeti történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -2.169719,
+                        47.268017
+                  ]
+            },
+            {
+                  "name": "Tour du Commerce",
+                  "text": "Történelmi torony és világítótorony Saint-Nazaire kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.249243,
+                        47.257424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "Situat în interiorul bazei de submarine, acest muzeu oferă o incursiune fascinantă în epoca marilor pacheboturi transatlantice.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2,
+                        47.28
+                  ]
+            },
+            {
+                  "name": "Submarinul Espadon",
+                  "text": "Primul submarin francez care s-a scufundat sub gheața polară poate fi acum vizitat în portul orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202624,
+                        47.275872
+                  ]
+            },
+            {
+                  "name": "Baza de Submarine",
+                  "text": "O fortăreață gigantică de beton din al Doilea Război Mondial, transformată astăzi într-un hub cultural și turistic.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2025,
+                        47.275833
+                  ]
+            },
+            {
+                  "name": "Podul din Saint-Nazaire",
+                  "text": "O capodoperă a ingineriei care traversează estuarul Loirei, oferind panorame superbe asupra zonei portuare.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.165681,
+                        47.278764
+                  ]
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "Unul dintre cele mai mari șantiere navale din lume, unde pot fi văzute în construcție cele mai mari nave de croazieră.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.195302,
+                        47.285769
+                  ]
+            },
+            {
+                  "name": "Plaja Monsieur Hulot",
+                  "text": "Renumită prin filmul clasic al lui Jacques Tati, Plage de Monsieur Hulot este o plajă de nisip fermecătoare situată în Saint-Marc-sur-Mer, lângă Saint Nazaire. Decorul de coastă emană o atmosferă nostalgică de litoral, perfectă pentru plimbări relaxate și înot liniștit. Vizitatorii vor fi fermecați de istoria cinematografică ce stăruie de-a lungul țărmului. O vizită într-o după-amiază însorită surprinde perfect spiritul atemporal al litoralului francez.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2806,
+                        47.2377
+                  ]
+            },
+            {
+                  "name": "EOL Centre éolien",
+                  "text": "Un muzeu interactiv situat în baza de submarine, care explică tehnologia parcurilor eoliene offshore.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198828,
+                        47.275507
+                  ]
+            },
+            {
+                  "name": "Monumentul Lancastria",
+                  "text": "Un monument emoționant care comemorează scufundarea navei RMS Lancastria în 1940, lângă coastă.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.204636,
+                        47.271252
+                  ]
+            },
+            {
+                  "name": "Parc Paysager",
+                  "text": "Un parc de 50 de hectare în centrul orașului, cu un lac, grădini și diverse facilități de recreere.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.22774,
+                        47.27194
+                  ]
+            },
+            {
+                  "name": "Vieux Môle",
+                  "text": "Cel mai vechi dig al portului oferă o vedere panoramică asupra navelor și a podului Saint-Nazaire.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197335,
+                        47.271378
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saint-Nazaire",
+                  "text": "Muzeul prezintă istoria construcțiilor navale și reconstrucția orașului după cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19851,
+                        47.2742
+                  ]
+            },
+            {
+                  "name": "Primăria (Hôtel de Ville)",
+                  "text": "O clădire marcantă în stil modernist, care constituie centrul administrativ al acestui oraș portuar.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213905,
+                        47.273294
+                  ]
+            },
+            {
+                  "name": "Monumentul Commando",
+                  "text": "Onorează soldații britanici care au participat la îndrăzneața Operațiune Chariot în anul 1942.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198663,
+                        47.271801
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eve",
+                  "text": "O fostă fortificație de apărare de coastă, care astăzi servește drept destinație de drumeție cu vedere la ocean.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.26722,
+                        47.2392
+                  ]
+            },
+            {
+                  "name": "Biserica Saint-Nazaire",
+                  "text": "Principala biserică a orașului, reconstruită după război într-un stil modern și sobru.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213891,
+                        47.273352
+                  ]
+            },
+            {
+                  "name": "Dragon des mers",
+                  "text": "Locul de joacă Dragon des mers din Saint-Nazaire oferă distracție maritimă pentru copiii dornici de aventură.",
+                  "category": "family",
+                  "coords": [
+                        -2.212758,
+                        47.277507
+                  ]
+            },
+            {
+                  "name": "Geckoland",
+                  "text": "Geckoland din Saint-Nazaire este un loc de joacă unde copiii pot fi activi și pot descoperi noi echipamente.",
+                  "category": "family",
+                  "coords": [
+                        -2.204014,
+                        47.280748
+                  ]
+            },
+            {
+                  "name": "Golf miniature",
+                  "text": "Terenul de minigolf din Saint-Nazaire oferă familiilor o experiență distractivă de joc în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.221973,
+                        47.269059
+                  ]
+            },
+            {
+                  "name": "Phare de Villes Martin",
+                  "text": "Un far istoric care marchează intrarea în Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.227575,
+                        47.255537
+                  ]
+            },
+            {
+                  "name": "Dolmen des Trois Pierres",
+                  "text": "Un dolmen neolitic și sit arheologic în Saint-Nazaire.",
+                  "category": "historical",
+                  "coords": [
+                        -2.206035,
+                        47.279551
+                  ]
+            },
+            {
+                  "name": "Balise des Morees",
+                  "text": "Un far de navigație în Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.216793,
+                        47.25015
+                  ]
+            },
+            {
+                  "name": "Plage de Porce",
+                  "text": "O plajă liniștită de nisip în Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Fort de Villes-Martin",
+                  "text": "O fortificație istorică de coastă în Saint-Nazaire.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.229851,
+                        47.256363
+                  ]
+            },
+            {
+                  "name": "Musee de la Marine",
+                  "text": "Un muzeu dedicat istoriei maritime a orașului Saint-Nazaire.",
+                  "category": "museum",
+                  "coords": [
+                        -2.169719,
+                        47.268017
+                  ]
+            },
+            {
+                  "name": "Tour du Commerce",
+                  "text": "Un turn istoric și far în portul Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.249243,
+                        47.257424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "An immersive museum located within the submarine base that recreates the luxury and history of great ocean liners.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2,
+                        47.28
+                  ]
+            },
+            {
+                  "name": "Espadon Submarine",
+                  "text": "The first French submarine to dive under ice, now open to the public for a unique walkthrough experience in the harbor.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202624,
+                        47.275872
+                  ]
+            },
+            {
+                  "name": "Submarine Base",
+                  "text": "A massive WWII concrete bunker that has been repurposed into a creative cultural space and visitor attraction.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2025,
+                        47.275833
+                  ]
+            },
+            {
+                  "name": "Saint-Nazaire Bridge",
+                  "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.165681,
+                        47.278764
+                  ]
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "One of the world's largest shipyards, famous for building iconic cruise ships and offering guided industrial tours.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.195302,
+                        47.285769
+                  ]
+            },
+            {
+                  "name": "Monsieur Hulot's Beach",
+                  "text": "Renowned through Jacques Tati's classic film, Plage de Monsieur Hulot is a charming sandy beach located in Saint-Marc-sur-Mer near Saint Nazaire. The coastal setting exudes a nostalgic seaside atmosphere perfect for relaxed walks and gentle swimming. Visitors will find themselves charmed by the cinematic history that lingers along the shore. Visiting on a sunny afternoon perfectly captures the timeless spirit of the French seaside.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.2806,
+                        47.2377
+                  ]
+            },
+            {
+                  "name": "EOL Wind Power Centre",
+                  "text": "An interactive museum inside the submarine base explaining the technology of offshore wind farms.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198828,
+                        47.275507
+                  ]
+            },
+            {
+                  "name": "Lancastria Memorial",
+                  "text": "A moving monument commemorating the sinking of the RMS Lancastria in 1940 off the coast of the city.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.204636,
+                        47.271252
+                  ]
+            },
+            {
+                  "name": "Parc Paysager",
+                  "text": "A 50-hectare park in the city center featuring a lake, gardens, and various recreational opportunities.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.22774,
+                        47.27194
+                  ]
+            },
+            {
+                  "name": "Vieux Môle",
+                  "text": "The port's oldest jetty offers a panoramic view of the ships and the impressive Saint-Nazaire Bridge.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197335,
+                        47.271378
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saint-Nazaire",
+                  "text": "This museum showcases the history of shipbuilding and the city's post-war reconstruction.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19851,
+                        47.2742
+                  ]
+            },
+            {
+                  "name": "Town Hall (Hôtel de Ville)",
+                  "text": "A striking modernist building that serves as the administrative heart of this port city.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213905,
+                        47.273294
+                  ]
+            },
+            {
+                  "name": "Commando Monument",
+                  "text": "It honors the British soldiers who took part in the daring Operation Chariot raid in 1942.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198663,
+                        47.271801
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eve",
+                  "text": "A former coastal defense site that now serves as a hiking destination with wide ocean views.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.26722,
+                        47.2392
+                  ]
+            },
+            {
+                  "name": "Saint-Nazaire Church",
+                  "text": "The city's main church, rebuilt after World War II in a simple and dignified modern style.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.213891,
+                        47.273352
+                  ]
+            },
+            {
+                  "name": "Dragon des mers",
+                  "text": "The Dragon des mers playground in Saint-Nazaire offers maritime-themed fun for adventurous children.",
+                  "category": "family",
+                  "coords": [
+                        -2.212758,
+                        47.277507
+                  ]
+            },
+            {
+                  "name": "Geckoland",
+                  "text": "Geckoland in Saint-Nazaire is a playground where children can stay active and discover new equipment.",
+                  "category": "family",
+                  "coords": [
+                        -2.204014,
+                        47.280748
+                  ]
+            },
+            {
+                  "name": "Golf miniature",
+                  "text": "The miniature golf course in Saint-Nazaire provides a fun outdoor experience for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.221973,
+                        47.269059
+                  ]
+            },
+            {
+                  "name": "Phare de Villes Martin",
+                  "text": "A historic lighthouse marking the entrance to Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.227575,
+                        47.255537
+                  ]
+            },
+            {
+                  "name": "Dolmen des Trois Pierres",
+                  "text": "A Neolithic dolmen and archaeological site in Saint-Nazaire.",
+                  "category": "historical",
+                  "coords": [
+                        -2.206035,
+                        47.279551
+                  ]
+            },
+            {
+                  "name": "Balise des Morees",
+                  "text": "A lighthouse beacon used for navigation in Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.216793,
+                        47.25015
+                  ]
+            },
+            {
+                  "name": "Plage de Porce",
+                  "text": "A quiet sandy beach located in Saint-Nazaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.252115,
+                        47.25328
+                  ]
+            },
+            {
+                  "name": "Fort de Villes-Martin",
+                  "text": "A historic coastal fortification in Saint-Nazaire.",
+                  "category": "fortress",
+                  "coords": [
+                        -2.229851,
+                        47.256363
+                  ]
+            },
+            {
+                  "name": "Musee de la Marine",
+                  "text": "A museum dedicated to the maritime history of Saint-Nazaire.",
+                  "category": "museum",
+                  "coords": [
+                        -2.169719,
+                        47.268017
+                  ]
+            },
+            {
+                  "name": "Tour du Commerce",
+                  "text": "A historic tower and lighthouse in the port of Saint-Nazaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.249243,
+                        47.257424
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Escal'Atlantic",
+                  "text": "Installé dans l'ancienne base sous-marine, ce musée immersif transporte les visiteurs dans le monde des paquebots légendaires.",
+                  "category": "museum",
+                  "coords": [
+                        -2.2,
+                        47.28
+                  ]
+            },
+            {
+                  "name": "Sous-marin Espadon",
+                  "text": "Le premier sous-marin français à avoir navigué sous la banquise peut être visité aujourd'hui dans le bassin portuaire de Saint-Nazaire.",
+                  "category": "historical",
+                  "coords": [
+                        -2.202624,
+                        47.275872
+                  ]
+            },
+            {
+                  "name": "Base sous-marine",
+                  "text": "Une énorme structure en béton de la Seconde Guerre mondiale, servant aujourd'hui de centre culturel et d'espace d'exposition.",
+                  "category": "historical",
+                  "coords": [
+                        -2.2025,
+                        47.275833
+                  ]
+            },
+            {
+                  "name": "Pont de Saint-Nazaire",
+                  "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.",
+                  "category": "civic",
+                  "coords": [
+                        -2.165681,
+                        47.278764
+                  ]
+            },
+            {
+                  "name": "Chantiers de l'Atlantique",
+                  "text": "L'un des plus grands chantiers navals au monde, où sont construits les navires de croisière les plus célèbres, propose des visites guidées.",
+                  "category": "historical",
+                  "coords": [
+                        -2.195302,
+                        47.285769
+                  ]
+            },
+            {
+                  "name": "Plage de Monsieur Hulot",
+                  "text": "Célèbre grâce au classique cinématographique de Jacques Tati, la Plage de Monsieur Hulot est une charmante étendue de sable située à Saint-Marc-sur-Mer près de Saint Nazaire. Le cadre côtier dégage une atmosphère balnéaire nostalgique, idéale pour des promenades détendues et des baignades en douceur. Les visiteurs seront séduits par l'histoire cinématographique qui imprègne le rivage. Une visite par un après-midi ensoleillé capture parfaitement l'esprit intemporel du bord de mer français.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.2806,
+                        47.2377
+                  ]
+            }
+      ]
+}
   },
   {
     id: "chartres", population: 40361,
@@ -42541,6 +48218,51 @@ const citySeeds: CitySeed[] = [
                         3.213311,
                         43.342838
                   ]
+            },
+            {
+                  "name": "Theatre des Varietes",
+                  "text": "Ein kulturelles Theater und Veranstaltungsort in Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.219103,
+                        43.34123
+                  ]
+            },
+            {
+                  "name": "Amphitheatre Romain",
+                  "text": "Die Überreste eines antiken römischen Amphitheaters in Béziers.",
+                  "category": "historical",
+                  "coords": [
+                        3.214054,
+                        43.339543
+                  ]
+            },
+            {
+                  "name": "Zinga Zanga",
+                  "text": "Eine große Veranstaltungshalle und Theater in Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.190541,
+                        43.329199
+                  ]
+            },
+            {
+                  "name": "Musee Taurin",
+                  "text": "Ein Museum in Béziers, das der Geschichte des Stierkampfs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.212299,
+                        43.340934
+                  ]
+            },
+            {
+                  "name": "Theatre des Franciscains",
+                  "text": "Ein Theater und Kulturraum in der Stadt Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.223115,
+                        43.345112
+                  ]
             }
       ],
       "hu": [
@@ -42703,6 +48425,51 @@ const citySeeds: CitySeed[] = [
                         3.213311,
                         43.342838
                   ]
+            },
+            {
+                  "name": "Theatre des Varietes",
+                  "text": "Kulturális színház és előadóhely Béziers-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        3.219103,
+                        43.34123
+                  ]
+            },
+            {
+                  "name": "Amphitheatre Romain",
+                  "text": "Egy ókori római amfiteátrum maradványai Béziers-ben.",
+                  "category": "historical",
+                  "coords": [
+                        3.214054,
+                        43.339543
+                  ]
+            },
+            {
+                  "name": "Zinga Zanga",
+                  "text": "Nagy előadóterem és színház Béziers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.190541,
+                        43.329199
+                  ]
+            },
+            {
+                  "name": "Musee Taurin",
+                  "text": "A bikaviadalok történetének szentelt múzeum Béziers-ben.",
+                  "category": "museum",
+                  "coords": [
+                        3.212299,
+                        43.340934
+                  ]
+            },
+            {
+                  "name": "Theatre des Franciscains",
+                  "text": "Színház és kulturális tér Béziers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.223115,
+                        43.345112
+                  ]
             }
       ],
       "ro": [
@@ -42864,6 +48631,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.213311,
                         43.342838
+                  ]
+            },
+            {
+                  "name": "Theatre des Varietes",
+                  "text": "Un teatru cultural și spațiu de spectacole în Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.219103,
+                        43.34123
+                  ]
+            },
+            {
+                  "name": "Amphitheatre Romain",
+                  "text": "Vestigiile unui antic amfiteatru roman în Béziers.",
+                  "category": "historical",
+                  "coords": [
+                        3.214054,
+                        43.339543
+                  ]
+            },
+            {
+                  "name": "Zinga Zanga",
+                  "text": "O sală mare de spectacole și teatru în Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.190541,
+                        43.329199
+                  ]
+            },
+            {
+                  "name": "Musee Taurin",
+                  "text": "Un muzeu din Béziers dedicat istoriei luptelor cu tauri.",
+                  "category": "museum",
+                  "coords": [
+                        3.212299,
+                        43.340934
+                  ]
+            },
+            {
+                  "name": "Theatre des Franciscains",
+                  "text": "Un teatru și spațiu cultural în orașul Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.223115,
+                        43.345112
                   ]
             }
       ],
@@ -43036,6 +48848,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.213311,
                         43.342838
+                  ]
+            },
+            {
+                  "name": "Theatre des Varietes",
+                  "text": "A cultural theater and performance venue in Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.219103,
+                        43.34123
+                  ]
+            },
+            {
+                  "name": "Amphitheatre Romain",
+                  "text": "The remains of an ancient Roman amphitheater in Béziers.",
+                  "category": "historical",
+                  "coords": [
+                        3.214054,
+                        43.339543
+                  ]
+            },
+            {
+                  "name": "Zinga Zanga",
+                  "text": "A large performance hall and theater in Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.190541,
+                        43.329199
+                  ]
+            },
+            {
+                  "name": "Musee Taurin",
+                  "text": "A museum in Béziers dedicated to the history of bullfighting.",
+                  "category": "museum",
+                  "coords": [
+                        3.212299,
+                        43.340934
+                  ]
+            },
+            {
+                  "name": "Theatre des Franciscains",
+                  "text": "A theater and cultural space in the city of Béziers.",
+                  "category": "cultural",
+                  "coords": [
+                        3.223115,
+                        43.345112
                   ]
             }
       ],
@@ -51965,6 +57822,42 @@ const citySeeds: CitySeed[] = [
                         4.780531,
                         49.772835
                   ]
+            },
+            {
+                  "name": "Theatre de la Halle",
+                  "text": "Ein lokales Theater und eine Veranstaltungshalle in Charleville-Mézières.",
+                  "category": "cultural",
+                  "coords": [
+                        4.742676,
+                        49.775002
+                  ]
+            },
+            {
+                  "name": "Villa d'Aubilly",
+                  "text": "Ein historisches Villengebäude in Charleville-Mézières.",
+                  "category": "castle",
+                  "coords": [
+                        4.722958,
+                        49.774313
+                  ]
+            },
+            {
+                  "name": "Musee du linge",
+                  "text": "Ein Museum, das der Geschichte der Wäsche und Textilien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.743637,
+                        49.77335
+                  ]
+            },
+            {
+                  "name": "Reserve Naturelle de Cote de Bois-en-Val",
+                  "text": "Ein Naturschutzgebiet, das die lokale Flora und Fauna in Charleville-Mézières schützt.",
+                  "category": "natural",
+                  "coords": [
+                        4.732826,
+                        49.765644
+                  ]
             }
       ],
       "hu": [
@@ -52206,6 +58099,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.780531,
                         49.772835
+                  ]
+            },
+            {
+                  "name": "Theatre de la Halle",
+                  "text": "Helyi színház és előadóterem Charleville-Mézières-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.742676,
+                        49.775002
+                  ]
+            },
+            {
+                  "name": "Villa d'Aubilly",
+                  "text": "Történelmi villaépület Charleville-Mézières-ben.",
+                  "category": "castle",
+                  "coords": [
+                        4.722958,
+                        49.774313
+                  ]
+            },
+            {
+                  "name": "Musee du linge",
+                  "text": "A mosás és a textilek történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.743637,
+                        49.77335
+                  ]
+            },
+            {
+                  "name": "Reserve Naturelle de Cote de Bois-en-Val",
+                  "text": "A helyi növény- és állatvilágot védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        4.732826,
+                        49.765644
                   ]
             }
       ],
@@ -52449,6 +58378,42 @@ const citySeeds: CitySeed[] = [
                         4.780531,
                         49.772835
                   ]
+            },
+            {
+                  "name": "Theatre de la Halle",
+                  "text": "Un teatru local și sală de spectacole în Charleville-Mézières.",
+                  "category": "cultural",
+                  "coords": [
+                        4.742676,
+                        49.775002
+                  ]
+            },
+            {
+                  "name": "Villa d'Aubilly",
+                  "text": "O clădire istorică de vilă în Charleville-Mézières.",
+                  "category": "castle",
+                  "coords": [
+                        4.722958,
+                        49.774313
+                  ]
+            },
+            {
+                  "name": "Musee du linge",
+                  "text": "Un muzeu dedicat istoriei lenjeriei și textilelor.",
+                  "category": "museum",
+                  "coords": [
+                        4.743637,
+                        49.77335
+                  ]
+            },
+            {
+                  "name": "Reserve Naturelle de Cote de Bois-en-Val",
+                  "text": "O rezervație naturală care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        4.732826,
+                        49.765644
+                  ]
             }
       ],
       "en": [
@@ -52690,6 +58655,42 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.780531,
                         49.772835
+                  ]
+            },
+            {
+                  "name": "Theatre de la Halle",
+                  "text": "A local theater and performance hall in Charleville-Mézières.",
+                  "category": "cultural",
+                  "coords": [
+                        4.742676,
+                        49.775002
+                  ]
+            },
+            {
+                  "name": "Villa d'Aubilly",
+                  "text": "A historic villa building in Charleville-Mézières.",
+                  "category": "castle",
+                  "coords": [
+                        4.722958,
+                        49.774313
+                  ]
+            },
+            {
+                  "name": "Musee du linge",
+                  "text": "A museum dedicated to the history of laundry and textiles.",
+                  "category": "museum",
+                  "coords": [
+                        4.743637,
+                        49.77335
+                  ]
+            },
+            {
+                  "name": "Reserve Naturelle de Cote de Bois-en-Val",
+                  "text": "A nature reserve protecting local flora and fauna in Charleville-Mézières.",
+                  "category": "natural",
+                  "coords": [
+                        4.732826,
+                        49.765644
                   ]
             }
       ],

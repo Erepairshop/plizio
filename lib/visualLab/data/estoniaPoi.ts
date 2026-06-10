@@ -681,6 +681,42 @@ const estoniaAllPoiBase: POI[] = [
                         24.787704,
                         59.436981
                   ]
+            },
+            {
+                  "name": "Estonian Drama Theatre",
+                  "text": "Ein bedeutendes professionelles Theaterhaus im Zentrum von Tallinn.",
+                  "category": "cultural",
+                  "coords": [
+                        24.748734,
+                        59.434743
+                  ]
+            },
+            {
+                  "name": "Von Krahli Teater",
+                  "text": "Ein innovativer Ort für zeitgenössisches Theater und Kunst in der Altstadt von Tallinn.",
+                  "category": "cultural",
+                  "coords": [
+                        24.74281,
+                        59.43718
+                  ]
+            },
+            {
+                  "name": "Museum of Occupations",
+                  "text": "Ein Museum in Tallinn, das die Zeiten der fremden Besatzung in Estland dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.739423,
+                        59.4326
+                  ]
+            },
+            {
+                  "name": "Estonian Theatre And Music Museum",
+                  "text": "Ein Museum, das die Geschichte der darstellenden Künste und der Musik in Estland erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        24.745097,
+                        59.434797
+                  ]
             }
       ],
       "hu": [
@@ -1285,6 +1321,42 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.787704,
                         59.436981
+                  ]
+            },
+            {
+                  "name": "Estonian Drama Theatre",
+                  "text": "Kiváló professzionális színház Tallinn központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.748734,
+                        59.434743
+                  ]
+            },
+            {
+                  "name": "Von Krahli Teater",
+                  "text": "Innovatív kortárs színházi és művészeti helyszín Tallinn óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.74281,
+                        59.43718
+                  ]
+            },
+            {
+                  "name": "Museum of Occupations",
+                  "text": "Tallinni múzeum, amely az észtországi idegen megszállások időszakait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        24.739423,
+                        59.4326
+                  ]
+            },
+            {
+                  "name": "Estonian Theatre And Music Museum",
+                  "text": "Az észt előadó-művészet és zene történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.745097,
+                        59.434797
                   ]
             }
       ],
@@ -1891,6 +1963,42 @@ const estoniaAllPoiBase: POI[] = [
                         24.787704,
                         59.436981
                   ]
+            },
+            {
+                  "name": "Estonian Drama Theatre",
+                  "text": "O casă de teatru profesională proeminentă situată în centrul Tallinnului.",
+                  "category": "cultural",
+                  "coords": [
+                        24.748734,
+                        59.434743
+                  ]
+            },
+            {
+                  "name": "Von Krahli Teater",
+                  "text": "Un loc inovator de teatru contemporan și artă în centrul vechi al Tallinnului.",
+                  "category": "cultural",
+                  "coords": [
+                        24.74281,
+                        59.43718
+                  ]
+            },
+            {
+                  "name": "Museum of Occupations",
+                  "text": "Un muzeu din Tallinn care documentează perioadele de ocupație străină în Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.739423,
+                        59.4326
+                  ]
+            },
+            {
+                  "name": "Estonian Theatre And Music Museum",
+                  "text": "Un muzeu care explorează istoria artelor spectacolului și a muzicii în Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.745097,
+                        59.434797
+                  ]
             }
       ],
       "en": [
@@ -2495,6 +2603,42 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.787704,
                         59.436981
+                  ]
+            },
+            {
+                  "name": "Estonian Drama Theatre",
+                  "text": "A prominent professional theater house located in central Tallinn.",
+                  "category": "cultural",
+                  "coords": [
+                        24.748734,
+                        59.434743
+                  ]
+            },
+            {
+                  "name": "Von Krahli Teater",
+                  "text": "An innovative contemporary theater and art venue in Tallinn's Old Town.",
+                  "category": "cultural",
+                  "coords": [
+                        24.74281,
+                        59.43718
+                  ]
+            },
+            {
+                  "name": "Museum of Occupations",
+                  "text": "A museum in Tallinn documenting the periods of foreign occupation in Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.739423,
+                        59.4326
+                  ]
+            },
+            {
+                  "name": "Estonian Theatre And Music Museum",
+                  "text": "A museum exploring the history of performing arts and music in Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.745097,
+                        59.434797
                   ]
             }
       ]
@@ -3158,7 +3302,52 @@ const estoniaAllPoiBase: POI[] = [
     },
   },
   {
-    id: "ee-saaremaa",
+    id: "ee-saaremaa", "sights": {
+      "de": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "Eine estnisch-orthodoxe Kirche auf der Insel Saaremaa, gewidmet dem Erzengel Michael.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "Észt ortodox templom Saaremaa szigetén, amelyet Mihály arkangyal tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "O biserică ortodoxă estonă pe insula Saaremaa, dedicată Arhanghelului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "An Estonian Orthodox church on Saaremaa island, dedicated to the Archangel Michael.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [22.5000, 58.4000],
@@ -10267,7 +10456,268 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "cult-rakvere",
+    id: "cult-rakvere", "sights": {
+      "de": [
+            {
+                  "name": "Burg Wesenberg",
+                  "text": "Eine beeindruckende mittelalterliche Burgruine des Livländischen Ordens in Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "Ein dem Komponisten Arvo Pärt gewidmetes Musikhaus und Veranstaltungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "Ein historisches Gebäude in Rakvere, das heute als Museum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "Ein Museum, das das städtische Leben und Wohnen im 19. Jahrhundert veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Ein professionelles Theater in Rakvere mit einem vielfältigen Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "Ein modernes Wellness-Zentrum mit Wasserpark und Spa-Einrichtungen in Rakvere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "Ein historischer Hügel in Rakvere mit Überresten antiker Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "A Livóniai Lovagrend lenyűgöző középkori várromja Rakverében.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "Arvo Pärt zeneszerzőnek szentelt zeneművészeti ház és rendezvényhelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "Történelmi épület Rakverében, amely ma múzeumként üzemel.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "A 19. századi városi életet és lakáskultúrát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Profi színház Rakverében, amely változatos programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "Modern wellnessközpont élményfürdővel és gyógyfürdővel Rakverében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "Történelmi domb Rakverében, ókori erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "Ruinele impresionante ale unei cetăți medievale a Ordinului Livonian din Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "O casă de muzică și sală de spectacole dedicată compozitorului Arvo Pärt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "O clădire istorică din Rakvere, utilizată astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "Un muzeu care ilustrează viața urbană și locuințele din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Un teatru profesionist din Rakvere, cu un program diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "Un centru wellness modern, cu parc acvatic și facilități spa în Rakvere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "O colină istorică în Rakvere, cu vestigii ale unor fortificații antice.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "Impressive medieval castle ruins of the Livonian Order in Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "A music house and performance venue dedicated to the composer Arvo Pärt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinder's House",
+                  "text": "A historic building in Rakvere that is currently used as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere Citizen's Home Museum",
+                  "text": "A museum illustrating 19th-century urban life and housing.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "A professional theatre in Rakvere offering a diverse program.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "A modern wellness center with a water park and spa facilities in Rakvere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "A historical hill in Rakvere featuring remains of ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [26.355, 59.35],
@@ -10365,7 +10815,196 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "cult-kihnu",
+    id: "cult-kihnu", "sights": {
+      "de": [
+            {
+                  "name": "Kihnu Muuseum",
+                  "text": "Ein Museum, das der einzigartigen Kultur und Geschichte der Insel Kihnu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.982642,
+                        58.133153
+                  ]
+            },
+            {
+                  "name": "Kihnu sadamamuuli tulepaak",
+                  "text": "Ein Leuchtturm im Hafenbereich der estnischen Insel Kihnu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.022309,
+                        58.142165
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi alumine tulepaak",
+                  "text": "Ein Unterfeuer als Navigationshilfe auf der Insel Kihnu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.015167,
+                        58.142583
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi ülemine tulepaak",
+                  "text": "Ein Oberfeuer, das Schiffen den Weg zur Insel Kihnu weist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.013183,
+                        58.142633
+                  ]
+            },
+            {
+                  "name": "Linaküla supelrand",
+                  "text": "Ein beliebter Sandstrand im Dorf Linaküla auf der Insel Kihnu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.958275,
+                        58.1311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kihnu Muuseum",
+                  "text": "A Kihnu-sziget egyedi kultúráját és történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.982642,
+                        58.133153
+                  ]
+            },
+            {
+                  "name": "Kihnu sadamamuuli tulepaak",
+                  "text": "Világítótorony az észtországi Kihnu-sziget kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.022309,
+                        58.142165
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi alumine tulepaak",
+                  "text": "Alsó irányfény a hajózás segítésére Kihnu szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.015167,
+                        58.142583
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi ülemine tulepaak",
+                  "text": "Felső irányfény, amely a hajók útját segíti Kihnu szigete felé.",
+                  "category": "landmark",
+                  "coords": [
+                        24.013183,
+                        58.142633
+                  ]
+            },
+            {
+                  "name": "Linaküla supelrand",
+                  "text": "Népszerű homokos tengerpart Linaküla faluban, Kihnu szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.958275,
+                        58.1311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kihnu Muuseum",
+                  "text": "Un muzeu dedicat culturii și istoriei unice a insulei Kihnu.",
+                  "category": "museum",
+                  "coords": [
+                        23.982642,
+                        58.133153
+                  ]
+            },
+            {
+                  "name": "Kihnu sadamamuuli tulepaak",
+                  "text": "Un far situat în zona portului de pe insula estonă Kihnu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.022309,
+                        58.142165
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi alumine tulepaak",
+                  "text": "Un far de direcție inferior pentru navigație pe insula Kihnu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.015167,
+                        58.142583
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi ülemine tulepaak",
+                  "text": "Un far de direcție superior care ghidează navele spre insula Kihnu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.013183,
+                        58.142633
+                  ]
+            },
+            {
+                  "name": "Linaküla supelrand",
+                  "text": "O plajă de nisip populară în satul Linaküla de pe insula Kihnu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.958275,
+                        58.1311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kihnu Museum",
+                  "text": "A museum dedicated to the unique culture and history of Kihnu Island.",
+                  "category": "museum",
+                  "coords": [
+                        23.982642,
+                        58.133153
+                  ]
+            },
+            {
+                  "name": "Kihnu harbour",
+                  "text": "A lighthouse located in the harbour area of the Estonian Kihnu Island.",
+                  "category": "landmark",
+                  "coords": [
+                        24.022309,
+                        58.142165
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi alumine tulepaak",
+                  "text": "A lower leading light used for navigation on Kihnu Island.",
+                  "category": "landmark",
+                  "coords": [
+                        24.015167,
+                        58.142583
+                  ]
+            },
+            {
+                  "name": "Kihnu sihi ülemine tulepaak",
+                  "text": "An upper leading light guiding ships toward Kihnu Island.",
+                  "category": "landmark",
+                  "coords": [
+                        24.013183,
+                        58.142633
+                  ]
+            },
+            {
+                  "name": "Linaküla beach",
+                  "text": "A popular sandy beach in Linaküla village on Kihnu Island.",
+                  "category": "recreational",
+                  "coords": [
+                        23.958275,
+                        58.1311
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [24.0, 58.133],
@@ -10655,7 +11294,196 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "hist-padise-abbey",
+    id: "hist-padise-abbey", "sights": {
+      "de": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Ein bedeutendes mittelalterliches Kloster in Estland, bekannt für seine gotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Das Hauptgebäude des ehemaligen Gutshofes Padise in der Nähe der Abtei.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Rummu quarry",
+                  "text": "Ein ehemaliger Steinbruch, der heute ein beliebter Ort zum Schwimmen und Tauchen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        24.195121,
+                        59.22712
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Die Ruinen der alten Schnapsbrennerei des Gutshofes Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "Ein ehemaliges Gefängnis, das heute für Besichtigungen und Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Jelentős középkori kolostor Észtországban, amely gótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Az egykori padisei uradalom főépülete az apátság közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Rummu quarry",
+                  "text": "Egykori kőbánya, amely ma népszerű úszó- és búvárhely.",
+                  "category": "recreational",
+                  "coords": [
+                        24.195121,
+                        59.22712
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "A padisei uradalom egykori szeszfőzdéjének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "Egykori börtön, amelyet ma látogatásokra és rendezvényekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Padise klooster",
+                  "text": "O mănăstire medievală importantă din Estonia, cunoscută pentru arhitectura sa gotică.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Clădirea principală a fostului conac Padise, situată lângă abație.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Rummu quarry",
+                  "text": "O fostă carieră de piatră, acum un loc popular pentru înot și scufundări.",
+                  "category": "recreational",
+                  "coords": [
+                        24.195121,
+                        59.22712
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Ruinele vechii distilerii de vodcă a conacului Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "O fostă închisoare, utilizată acum pentru vizite și evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Padise klooster",
+                  "text": "An important medieval monastery in Estonia, known for its Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "The main building of the former Padise manor, located near the abbey.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Rummu quarry",
+                  "text": "A former quarry that is now a popular spot for swimming and diving.",
+                  "category": "recreational",
+                  "coords": [
+                        24.195121,
+                        59.22712
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "The ruins of the old vodka distillery of the Padise manor.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Former Murru Prison",
+                  "text": "A former prison, now used for tours and events.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [24.1444, 59.2247],
@@ -10699,7 +11527,52 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "hist-koluvere-castle",
+    id: "hist-koluvere-castle", "sights": {
+      "de": [
+            {
+                  "name": "Kullamaa Püha Nikolause kirik",
+                  "text": "Eine historische Kirche in Kullamaa, bekannt für ihre Architektur und alte Grabkreuze.",
+                  "category": "historical",
+                  "coords": [
+                        24.076221,
+                        58.861414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kullamaa Püha Nikolause kirik",
+                  "text": "Történelmi templom Kullamaában, építészetéről és régi sírkeresztjeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        24.076221,
+                        58.861414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kullamaa Püha Nikolause kirik",
+                  "text": "O biserică istorică în Kullamaa, cunoscută pentru arhitectura sa și crucile vechi de mormânt.",
+                  "category": "historical",
+                  "coords": [
+                        24.076221,
+                        58.861414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kullamaa Püha Nikolause kirik",
+                  "text": "A historic church in Kullamaa, known for its architecture and old stone crosses.",
+                  "category": "historical",
+                  "coords": [
+                        24.076221,
+                        58.861414
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [24.1180, 58.8329],
@@ -10753,6 +11626,60 @@ export const estoniaCulture: POI[] = [
                         27.878842,
                         59.400219
                   ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "Ein Museum, das die Geschichte und Kultur der Stadt Sillamäe dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Ein Denkmal zu Ehren des unbekannten Soldaten auf dem historischen Schlachtfeld.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "Ein Versammlungsort der Methodistenkirche in der Region Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "Ein sakrales Gebäude einer christlichen Gemeinde in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "Eine katholische Kirche, die den Heiligen Adalbert und Georg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "Eine orthodoxe Kirche, die nach dem Gnadenbild der Gottesmutter von Kasan benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
             }
       ],
       "hu": [
@@ -10763,6 +11690,60 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.878842,
                         59.400219
+                  ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "A Sillamäe városának történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Emlékmű az ismeretlen katona tiszteletére a történelmi csatatéren.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "A metodista egyház gyülekezeti helye Sillamäe régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "Egy keresztény gyülekezet szakrális épülete Sillamäe városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "Szent Adalbertnak és Szent Györgynek szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "Az Istenanya Kazanyi ikonjáról elnevezett ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
                   ]
             }
       ],
@@ -10775,6 +11756,60 @@ export const estoniaCulture: POI[] = [
                         27.878842,
                         59.400219
                   ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "Un muzeu care documentează istoria și cultura orașului Sillamäe.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Un monument în cinstea soldatului necunoscut pe câmpul de luptă istoric.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "Un loc de cult al bisericii metodiste în regiunea Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "O clădire sacră a unei comunități creștine din Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "O biserică catolică dedicată Sfinților Adalbert și Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "O biserică ortodoxă numită după icoana Maicii Domnului din Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
             }
       ],
       "en": [
@@ -10785,6 +11820,60 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.878842,
                         59.400219
+                  ]
+            },
+            {
+                  "name": "Sillamäe Museum",
+                  "text": "A museum documenting the history and culture of the town of Sillamäe.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "A monument honoring the unknown soldier on the historic battlefield.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "A place of worship for the Methodist church in the Sillamäe region.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "A sacred building of a Christian congregation in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "A Catholic church dedicated to Saints Adalbert and George.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "An Orthodox church named after the icon of Our Lady of Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
                   ]
             }
       ]
@@ -11353,7 +12442,52 @@ export const estoniaCulture: POI[] = [
 
 export const estoniaNature: POI[] = [
   {
-    id: "nat-saaremaa",
+    id: "nat-saaremaa", "sights": {
+      "de": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "Eine historische Holzkirche auf der estnischen Insel Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "Történelmi fatemplom az észtországi Saaremaa szigeten.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "O biserică istorică de lemn de pe insula estonă Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piila Peaingel Miikaeli kirik",
+                  "text": "A historic wooden church on the Estonian island of Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.545682,
+                        58.416048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [22.5, 58.4],
@@ -11596,6 +12730,33 @@ export const estoniaNature: POI[] = [
                         21.910962,
                         58.391448
                   ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Ein historischer Leuchtturm am westlichsten Punkt der Insel Vilsandi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Aaperse rand",
+                  "text": "Ein ruhiger Strand im Nationalpark Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.83063,
+                        58.373624
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "Ein kultureller Anziehungspunkt auf Vilsandi, der mit dem estnischen Künstler Jaan Tätte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
+                  ]
             }
       ],
       "hu": [
@@ -11606,6 +12767,33 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.910962,
                         58.391448
+                  ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Történelmi világítótorony Vilsandi szigetének legnyugatibb pontján.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Aaperse rand",
+                  "text": "Egy csendes tengerparti szakasz a Vilsandi Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.83063,
+                        58.373624
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "Jaan Tätte észt művészhez kötődő kulturális helyszín Vilsandiban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
                   ]
             }
       ],
@@ -11618,6 +12806,33 @@ export const estoniaNature: POI[] = [
                         21.910962,
                         58.391448
                   ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Un far istoric situat în cel mai vestic punct al insulei Vilsandi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Aaperse rand",
+                  "text": "O plajă liniștită situată în Parcul Național Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.83063,
+                        58.373624
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "Un punct de interes cultural legat de artistul estonian Jaan Tätte, pe insula Vilsandi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
+                  ]
             }
       ],
       "en": [
@@ -11628,6 +12843,33 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.910962,
                         58.391448
+                  ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "A historic lighthouse located on the westernmost point of Vilsandi island.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Aaperse rand",
+                  "text": "A quiet stretch of beach in Vilsandi National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.83063,
+                        58.373624
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "A cultural attraction on Vilsandi associated with the Estonian artist Jaan Tätte.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
                   ]
             }
       ]
@@ -11723,7 +12965,196 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-suur-munamagi",
+    id: "nat-suur-munamagi", "sights": {
+      "de": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Ein Naturschutzgebiet im Haanja-Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Eine historische archäologische Stätte in der Nähe des Suur Munamägi.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Ein Badestrand am Vaskna-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Der höchste Berg Estlands mit einem Aussichtsturm.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Ein gelber Fensterrahmen von National Geographic für Landschaftsfotos.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Természetvédelmi terület a Haanja-hátságon.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Történelmi régészeti lelőhely a Suur Munamägi közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Fürdőhely a Vaskna-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Észtország legmagasabb hegye kilátótoronnyal.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "A National Geographic sárga ablaka tájképfotózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "O rezervație naturală în podișul Haanja.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Un sit arheologic istoric în apropiere de Suur Munamägi.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "O plajă la lacul Vaskna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Cel mai înalt vârf din Estonia, dotat cu un turn de observație.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "O ramă galbenă National Geographic pentru fotografii de peisaj.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haanja Nature Park",
+                  "text": "A nature reserve in the Haanja Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "A historical archaeological site near Suur Munamägi.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "The beach Vaskna Lake",
+                  "text": "A swimming beach on the shores of Vaskna Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "The highest peak in Estonia, featuring an observation tower.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "A National Geographic yellow window frame for landscape photography.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ee-country",
     coords: [27.0526, 57.7135],
@@ -11891,7 +13322,268 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-puhajarv",
+    id: "nat-puhajarv", "sights": {
+      "de": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Ein Museum in Otepää, das sich der Geschichte des estnischen Wintersports widmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Die Ruinen einer mittelalterlichen Bischofsburg aus dem 13. Jahrhundert in Otepää.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Ein Museum, das dem Leben und Werk von Gustav Õie Wulf gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Ein Museum in Otepää, dem Ort, an dem die estnische Nationalflagge geweiht wurde.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Ein Abenteuerpark in Otepää mit verschiedenen Kletterparcours und Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Poslovitsa",
+                  "text": "Ein Strandabschnitt am Pühajärv-See, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465057,
+                        58.024256
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "Der Hauptstrand am malerischen Pühajärv-See in der Nähe von Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Múzeum Otepääben, amely az észt téli sportok történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Egy 13. századi középkori püspöki vár romjai Otepääben.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Gustav Õie Wulf életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Múzeum Otepääben, ahol az észt nemzeti lobogót felszentelték.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Kalandpark Otepääben különféle mászópályákkal és tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Poslovitsa",
+                  "text": "Strandszakasz a Pühajärv-tónál, amely ideális úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465057,
+                        58.024256
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "A festői Pühajärv-tó fő strandja Otepää közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Un muzeu în Otepää dedicat istoriei sporturilor de iarnă din Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Ruinele unui castel episcopal medieval din secolul al XIII-lea în Otepää.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Un muzeu dedicat vieții și operei lui Gustav Õie Wulf.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Un muzeu în Otepää, locul unde a fost sfințit drapelul național al Estoniei.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Un parc de aventură în Otepää, cu diverse trasee de cățărare și activități.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Poslovitsa",
+                  "text": "O porțiune de plajă la lacul Pühajärv, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465057,
+                        58.024256
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "Plaja principală de la lacul pitoresc Pühajärv, situată lângă Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otepää Winter Sports Museum",
+                  "text": "A museum in Otepää dedicated to the history of Estonian winter sports.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää Bishop's Castle",
+                  "text": "The ruins of a 13th-century medieval bishop's castle in Otepää.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Õie Wulf Museum",
+                  "text": "A museum dedicated to the life and work of Gustav Õie Wulf.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Estonian Flag Museum",
+                  "text": "A museum in Otepää, the place where the Estonian national flag was consecrated.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "An adventure park in Otepää featuring various climbing courses and activities.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Poslovitsa",
+                  "text": "A beach area on Lake Pühajärv, ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        26.465057,
+                        58.024256
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "The main beach at the scenic Lake Pühajärv near Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ee-country",
     coords: [26.4490, 58.0560],
@@ -12021,7 +13713,268 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-naissaar",
+    id: "nat-naissaar", "sights": {
+      "de": [
+            {
+                  "name": "Hülkari tulepaak",
+                  "text": "Ein Leuchtfeuer oder kleiner Leuchtturm auf der estnischen Insel Naissaar.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563383,
+                        59.540933
+                  ]
+            },
+            {
+                  "name": "Naissaare Muuseum",
+                  "text": "Ein Museum, das der Geschichte und Kultur der Insel Naissaar gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.547697,
+                        59.543352
+                  ]
+            },
+            {
+                  "name": "Omari Küün",
+                  "text": "Ein Kulturzentrum und Theater auf der Insel Naissaar.",
+                  "category": "cultural",
+                  "coords": [
+                        24.532239,
+                        59.540442
+                  ]
+            },
+            {
+                  "name": "Tähtkants ehk Vallimägi",
+                  "text": "Die historischen Überreste von Befestigungsanlagen auf der Insel Naissaar.",
+                  "category": "historical",
+                  "coords": [
+                        24.531313,
+                        59.538298
+                  ]
+            },
+            {
+                  "name": "Noodamajarand",
+                  "text": "Ein malerischer Strand auf der estnischen Insel Naissaar.",
+                  "category": "recreational",
+                  "coords": [
+                        24.553717,
+                        59.547846
+                  ]
+            },
+            {
+                  "name": "Kraanavedur",
+                  "text": "Eine historische Kranlokomotive, die als technische Sehenswürdigkeit auf der Insel Naissaar ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.548769,
+                        59.540535
+                  ]
+            },
+            {
+                  "name": "Naissaare Maarja kirik",
+                  "text": "Eine historische Holzkirche auf der Insel Naissaar, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.529491,
+                        59.540354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hülkari tulepaak",
+                  "text": "Egy jelzőfény vagy kis világítótorony az észtországi Naissaar-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563383,
+                        59.540933
+                  ]
+            },
+            {
+                  "name": "Naissaare Muuseum",
+                  "text": "Naissaar szigetének történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.547697,
+                        59.543352
+                  ]
+            },
+            {
+                  "name": "Omari Küün",
+                  "text": "Kulturális helyszín és színház Naissaar szigetén.",
+                  "category": "cultural",
+                  "coords": [
+                        24.532239,
+                        59.540442
+                  ]
+            },
+            {
+                  "name": "Tähtkants ehk Vallimägi",
+                  "text": "Erődítmények történelmi maradványai Naissaar szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        24.531313,
+                        59.538298
+                  ]
+            },
+            {
+                  "name": "Noodamajarand",
+                  "text": "Egy festői tengerpart az észtországi Naissaar-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        24.553717,
+                        59.547846
+                  ]
+            },
+            {
+                  "name": "Kraanavedur",
+                  "text": "Egy történelmi darus mozdony, amely technikai látványosságként látható Naissaar szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.548769,
+                        59.540535
+                  ]
+            },
+            {
+                  "name": "Naissaare Maarja kirik",
+                  "text": "Szűz Máriának szentelt történelmi fatemplom Naissaar szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        24.529491,
+                        59.540354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hülkari tulepaak",
+                  "text": "Un far mic sau un reper luminos situat pe insula estonă Naissaar.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563383,
+                        59.540933
+                  ]
+            },
+            {
+                  "name": "Naissaare Muuseum",
+                  "text": "Un muzeu dedicat istoriei și culturii insulei Naissaar.",
+                  "category": "museum",
+                  "coords": [
+                        24.547697,
+                        59.543352
+                  ]
+            },
+            {
+                  "name": "Omari Küün",
+                  "text": "Un loc cultural și teatru situat pe insula Naissaar.",
+                  "category": "cultural",
+                  "coords": [
+                        24.532239,
+                        59.540442
+                  ]
+            },
+            {
+                  "name": "Tähtkants ehk Vallimägi",
+                  "text": "Rămășițele istorice ale unor fortificații de pe insula Naissaar.",
+                  "category": "historical",
+                  "coords": [
+                        24.531313,
+                        59.538298
+                  ]
+            },
+            {
+                  "name": "Noodamajarand",
+                  "text": "O plajă pitorească situată pe insula estonă Naissaar.",
+                  "category": "recreational",
+                  "coords": [
+                        24.553717,
+                        59.547846
+                  ]
+            },
+            {
+                  "name": "Kraanavedur",
+                  "text": "O locomotivă-macara istorică expusă ca atracție tehnică pe insula Naissaar.",
+                  "category": "landmark",
+                  "coords": [
+                        24.548769,
+                        59.540535
+                  ]
+            },
+            {
+                  "name": "Naissaare Maarja kirik",
+                  "text": "O biserică istorică de lemn de pe insula Naissaar, dedicată Sfintei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        24.529491,
+                        59.540354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hülkari tulepaak",
+                  "text": "A beacon or small lighthouse located on the Estonian island of Naissaar.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563383,
+                        59.540933
+                  ]
+            },
+            {
+                  "name": "Naissaare Museum",
+                  "text": "A museum dedicated to the history and culture of Naissaar island.",
+                  "category": "museum",
+                  "coords": [
+                        24.547697,
+                        59.543352
+                  ]
+            },
+            {
+                  "name": "Omari Küün",
+                  "text": "A cultural venue and theatre located on the island of Naissaar.",
+                  "category": "cultural",
+                  "coords": [
+                        24.532239,
+                        59.540442
+                  ]
+            },
+            {
+                  "name": "Tähtkants ehk Vallimägi",
+                  "text": "The historical remains of fortifications on the island of Naissaar.",
+                  "category": "historical",
+                  "coords": [
+                        24.531313,
+                        59.538298
+                  ]
+            },
+            {
+                  "name": "Noodamajarand",
+                  "text": "A scenic beach located on the Estonian island of Naissaar.",
+                  "category": "recreational",
+                  "coords": [
+                        24.553717,
+                        59.547846
+                  ]
+            },
+            {
+                  "name": "Kraanavedur",
+                  "text": "A historic crane locomotive displayed as a technical attraction on Naissaar island.",
+                  "category": "landmark",
+                  "coords": [
+                        24.548769,
+                        59.540535
+                  ]
+            },
+            {
+                  "name": "Naissaare Maarja kirik",
+                  "text": "A historic wooden church on Naissaar island dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        24.529491,
+                        59.540354
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ee-country",
     coords: [24.5590, 59.5125],
@@ -12075,6 +14028,69 @@ export const estoniaNature: POI[] = [
                         23.273801,
                         57.798766
                   ]
+            },
+            {
+                  "name": "Buldersi talu ait",
+                  "text": "Ein traditioneller Speicherbau auf der estnischen Insel Ruhnu, der zum örtlichen Kulturerbe gehört.",
+                  "category": "museum",
+                  "coords": [
+                        23.243462,
+                        57.805226
+                  ]
+            },
+            {
+                  "name": "Ruhnu Muuseum",
+                  "text": "Das Museum beleuchtet die Geschichte und die besondere Kultur der Bewohner der Insel Ruhnu.",
+                  "category": "museum",
+                  "coords": [
+                        23.243072,
+                        57.801941
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Ruhnu",
+                  "text": "Ein markanter Metall-Leuchtturm auf Ruhnu, der vermutlich in Frankreich vorgefertigt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        23.260125,
+                        57.801337
+                  ]
+            },
+            {
+                  "name": "Korsi pikktalu kompleks",
+                  "text": "Ein historischer Langhof-Komplex auf Ruhnu, der die traditionelle Architektur der Insel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.241907,
+                        57.807673
+                  ]
+            },
+            {
+                  "name": "Kuunsi supelrand",
+                  "text": "Ein ruhiger Küstenabschnitt auf Ruhnu, bekannt für seine natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232162,
+                        57.824845
+                  ]
+            },
+            {
+                  "name": "Vana piirivalvetorn",
+                  "text": "Ein ehemaliger Grenzwachturm auf Ruhnu, der heute weite Ausblicke über die Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.226592,
+                        57.821472
+                  ]
+            },
+            {
+                  "name": "Sadama saun",
+                  "text": "Eine Sauna am Hafen von Ruhnu, die Besuchern eine traditionelle nordische Entspannung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.269665,
+                        57.781267
+                  ]
             }
       ],
       "hu": [
@@ -12085,6 +14101,69 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         23.273801,
                         57.798766
+                  ]
+            },
+            {
+                  "name": "Buldersi talu ait",
+                  "text": "Hagyományos gazdasági épület Ruhnu szigetén, amely a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.243462,
+                        57.805226
+                  ]
+            },
+            {
+                  "name": "Ruhnu Muuseum",
+                  "text": "A múzeum Ruhnu szigetének történelmét és különleges helyi kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.243072,
+                        57.801941
+                  ]
+            },
+            {
+                  "name": "Ruhnu tuletorn",
+                  "text": "Ruhnu jellegzetes fém világítótornya, amelyet feltehetően Franciaországban gyártottak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.260125,
+                        57.801337
+                  ]
+            },
+            {
+                  "name": "Korsi pikktalu kompleks",
+                  "text": "Történelmi hosszúház-komplexum Ruhnu szigetén, amely a hagyományos szigetvilági építészetet képviseli.",
+                  "category": "museum",
+                  "coords": [
+                        23.241907,
+                        57.807673
+                  ]
+            },
+            {
+                  "name": "Kuunsi supelrand",
+                  "text": "Nyugodt tengerparti szakasz Ruhnu szigetén, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232162,
+                        57.824845
+                  ]
+            },
+            {
+                  "name": "Vana piirivalvetorn",
+                  "text": "Korábbi határőr torony Ruhnun, amely ma széles kilátást nyújt a szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        23.226592,
+                        57.821472
+                  ]
+            },
+            {
+                  "name": "Sadama saun",
+                  "text": "Szauna Ruhnu kikötőjében, amely hagyományos északi kikapcsolódást kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.269665,
+                        57.781267
                   ]
             }
       ],
@@ -12097,6 +14176,69 @@ export const estoniaNature: POI[] = [
                         23.273801,
                         57.798766
                   ]
+            },
+            {
+                  "name": "Buldersi talu ait",
+                  "text": "O magazie tradițională de fermă pe insula Ruhnu, care face parte din patrimoniul cultural local.",
+                  "category": "museum",
+                  "coords": [
+                        23.243462,
+                        57.805226
+                  ]
+            },
+            {
+                  "name": "Ruhnu Muuseum",
+                  "text": "Muzeul prezintă istoria și cultura specifică a locuitorilor de pe insula Ruhnu.",
+                  "category": "museum",
+                  "coords": [
+                        23.243072,
+                        57.801941
+                  ]
+            },
+            {
+                  "name": "Ruhnu tuletorn",
+                  "text": "Un far metalic distinctiv pe Ruhnu, despre care se crede că a fost prefabricat în Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        23.260125,
+                        57.801337
+                  ]
+            },
+            {
+                  "name": "Korsi pikktalu kompleks",
+                  "text": "Un complex istoric de ferme pe insula Ruhnu, ilustrând arhitectura tradițională locală.",
+                  "category": "museum",
+                  "coords": [
+                        23.241907,
+                        57.807673
+                  ]
+            },
+            {
+                  "name": "Kuunsi supelrand",
+                  "text": "O porțiune liniștită de coastă pe insula Ruhnu, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232162,
+                        57.824845
+                  ]
+            },
+            {
+                  "name": "Vana piirivalvetorn",
+                  "text": "Un fost turn de pază al grănicerilor pe Ruhnu, oferind astăzi vederi panoramice asupra insulei.",
+                  "category": "natural",
+                  "coords": [
+                        23.226592,
+                        57.821472
+                  ]
+            },
+            {
+                  "name": "Sadama saun",
+                  "text": "O saună situată în portul din Ruhnu, oferind vizitatorilor relaxare tradițională nordică.",
+                  "category": "landmark",
+                  "coords": [
+                        23.269665,
+                        57.781267
+                  ]
             }
       ],
       "en": [
@@ -12107,6 +14249,69 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         23.273801,
                         57.798766
+                  ]
+            },
+            {
+                  "name": "Buldersi talu ait",
+                  "text": "A traditional farm storehouse on the Estonian island of Ruhnu, preserved as part of the local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        23.243462,
+                        57.805226
+                  ]
+            },
+            {
+                  "name": "Ruhnu Museum",
+                  "text": "The museum showcases the history and unique local culture of the island of Ruhnu.",
+                  "category": "museum",
+                  "coords": [
+                        23.243072,
+                        57.801941
+                  ]
+            },
+            {
+                  "name": "Ruhnu lighthouse",
+                  "text": "A distinctive metal lighthouse on Ruhnu, believed to have been prefabricated in France.",
+                  "category": "landmark",
+                  "coords": [
+                        23.260125,
+                        57.801337
+                  ]
+            },
+            {
+                  "name": "Korsi pikktalu kompleks",
+                  "text": "A historical longhouse farm complex on Ruhnu, representing the island's traditional architecture.",
+                  "category": "museum",
+                  "coords": [
+                        23.241907,
+                        57.807673
+                  ]
+            },
+            {
+                  "name": "Kuunsi beach",
+                  "text": "A quiet coastal stretch on Ruhnu, known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232162,
+                        57.824845
+                  ]
+            },
+            {
+                  "name": "Old border guard tower",
+                  "text": "A former border guard tower on Ruhnu, now offering wide views over the island.",
+                  "category": "natural",
+                  "coords": [
+                        23.226592,
+                        57.821472
+                  ]
+            },
+            {
+                  "name": "Harbours sauna",
+                  "text": "A sauna located at the Ruhnu harbour, offering traditional Nordic relaxation to visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        23.269665,
+                        57.781267
                   ]
             }
       ]
@@ -12247,7 +14452,304 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "port-muuga",
+    id: "port-muuga", "sights": {
+      "de": [
+            {
+                  "name": "Kallavere sihi alumine tulepaak",
+                  "text": "Ein Leuchtfeuer im Hafen von Muuga in Estland.",
+                  "category": "landmark",
+                  "coords": [
+                        25.027635,
+                        59.502623
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "Das obere Leuchtfeuer der Richtfeuerlinie in Muuga Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "Ein Leuchtfeuer für den Kohleterminal im Hafen von Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "Ein Museum, das der Geschichte des Dorfes Rootsi-Kallavere gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Einer der größten Findlinge Estlands in der Nähe des Hafens Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "Eine lokale Sehenswürdigkeit im Hafengebiet von Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "Eine historische lutherische Kirche in Randvere bei Muuga.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "Eine orthodoxe Kirche in Maardu in der Nähe des Hafens Muuga.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kallavere sihi alumine tulepaak",
+                  "text": "Világítótorony az észtországi Muuga kikötőben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.027635,
+                        59.502623
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "A Muuga kikötő felső irányfénye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "A Muuga kikötő széntermináljának világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "Rootsi-Kallavere falu történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Észtország egyik legnagyobb vándorköve a Muuga kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "Helyi látványosság a Muuga kikötő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "Történelmi evangélikus templom Randvere településen, Muuga közelében.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "Ortodox templom Maardu városában, a Muuga kikötő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kallavere sihi alumine tulepaak",
+                  "text": "Un far situat în portul Muuga din Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        25.027635,
+                        59.502623
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "Farul superior al liniei de ghidaj din portul Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "Un far pentru terminalul de cărbune din portul Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "Un muzeu dedicat istoriei satului Rootsi-Kallavere.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Unul dintre cei mai mari bolovani erratici din Estonia, lângă portul Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "O atracție locală în zona portului Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "O biserică luterană istorică în Randvere, lângă Muuga.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "O biserică ortodoxă în Maardu, lângă portul Muuga.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kallavere sihi alumine tulepaak",
+                  "text": "A lighthouse beacon in the Muuga Harbour, Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        25.027635,
+                        59.502623
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "The upper lighthouse beacon of the leading line in Muuga Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "A lighthouse for the coal terminal in Muuga Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Village Museum",
+                  "text": "A museum dedicated to the history of Rootsi-Kallavere village.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "One of the largest erratic boulders in Estonia, located near Muuga Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "A local attraction in the Muuga Harbour area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Randvere church",
+                  "text": "A historic Lutheran church in Randvere, near Muuga.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            },
+            {
+                  "name": "Church of Archangel Michael",
+                  "text": "An Orthodox church in Maardu, near the Muuga Harbour.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ee-country",
     coords: [24.9638, 59.4882],
@@ -12296,7 +14798,304 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "port-paldiski-south",
+    id: "port-paldiski-south", "sights": {
+      "de": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Ein Atelier und Museum, das dem estnischen Bildhauer Amandus Adamson in Paldiski gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Ein Leuchtfeuer an der Westmole des Nordhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Ein Navigationsfeuer im Südhafen von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Ein Leuchtfeuer am Kai Nr. 1 des Nordhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Das obere Richtfeuer des Südhafens von Paldiski zur Navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Ein Leuchtfeuer am Ölterminal des Südhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Ein Leuchtfeuer auf dem Wellenbrecher des Nordhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Ein Navigationsleuchtfeuer im Südhafen von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Amandus Adamson észt szobrászművésznek szentelt műterem és múzeum Paldiskiban.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Világítótorony Paldiski északi kikötőjének nyugati mólóján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Navigációs fényjelző Paldiski déli kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Világítótorony Paldiski északi kikötőjének 1-es számú rakpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Paldiski déli kikötőjének felső irányfénye a navigációhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Világítótorony Paldiski déli kikötőjének olajtermináljánál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Világítótorony Paldiski északi kikötőjének hullámtörőjén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Navigációs világítótorony Paldiski déli kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Un atelier și muzeu dedicat sculptorului estonian Amandus Adamson în Paldiski.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Un far situat pe digul de vest al portului de nord din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Un far de navigație situat în portul de sud din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Un far situat pe cheiul nr. 1 al portului de nord din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Farul superior de direcție al portului de sud din Paldiski pentru navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Un far situat la terminalul petrolier al portului de sud din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Un far situat pe spărgătorul de valuri al portului de nord din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Un far de navigație situat în portul de sud din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amandus Adamson Museum",
+                  "text": "A studio and museum dedicated to the Estonian sculptor Amandus Adamson in Paldiski.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "A light beacon on the western mole of the Paldiski North Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadam ldg.l. front light beacon",
+                  "text": "A navigational light beacon located in the Paldiski South Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadam quay No 1 light beacon",
+                  "text": "A light beacon on quay No 1 of the Paldiski North Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "The upper leading light beacon of the Paldiski South Harbour for navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "A light beacon at the oil terminal of the Paldiski South Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "A light beacon on the breakwater of the Paldiski North Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "A navigational light beacon located in the Paldiski South Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ee-country",
     coords: [24.0586, 59.3478],
@@ -12583,6 +15382,15 @@ export const estoniaNature: POI[] = [
                         25.723268,
                         59.585667
                   ]
+            },
+            {
+                  "name": "Loksa beach",
+                  "text": "Ein sandiger Küstenstrand am Finnischen Meerbusen in Loksa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.700806,
+                        59.574562
+                  ]
             }
       ],
       "hu": [
@@ -12674,6 +15482,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.723268,
                         59.585667
+                  ]
+            },
+            {
+                  "name": "Loksa beach",
+                  "text": "Homokos tengerparti strand a Finn-öböl partján, Loksában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.700806,
+                        59.574562
                   ]
             }
       ],
@@ -12767,6 +15584,15 @@ export const estoniaNature: POI[] = [
                         25.723268,
                         59.585667
                   ]
+            },
+            {
+                  "name": "Loksa beach",
+                  "text": "O plajă de coastă cu nisip la Golful Finlandei în Loksa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.700806,
+                        59.574562
+                  ]
             }
       ],
       "en": [
@@ -12858,6 +15684,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.723268,
                         59.585667
+                  ]
+            },
+            {
+                  "name": "Loksa beach",
+                  "text": "A sandy coastal beach on the Gulf of Finland in Loksa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.700806,
+                        59.574562
                   ]
             }
       ]
@@ -16555,7 +19390,88 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-purtse-castle",
+    id: "ee-r2big-purtse-castle", "sights": {
+      "de": [
+            {
+                  "name": "Purtse kindlus",
+                  "text": "Eine gut erhaltene mittelalterliche Vasallenfestung, die heute als Kulturzentrum dient.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Ein kleines Bakenfeuer an der estnischen Küste nahe der Burg Purtse.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Purtse kindlus",
+                  "text": "Jó állapotban fennmaradt középkori hűbéri vár, amely ma kulturális központként működik.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Kisméretű irányfény az észt tengerparton, a purtsei vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Purtse kindlus",
+                  "text": "O fortăreață medievală bine conservată, care astăzi servește ca centru cultural.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Un mic far de coastă pe litoralul estonian, în apropierea castelului Purtse.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Purtse kindlus",
+                  "text": "A well-preserved medieval vassal fortress that now serves as a cultural center.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "A small coastal beacon located on the Estonian coast near Purtse Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [27.0600, 59.4220],
@@ -16653,7 +19569,160 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-tammsaare-museum",
+    id: "ee-r2big-tammsaare-museum", "sights": {
+      "de": [
+            {
+                  "name": "A. H. Tammsaare muuseum",
+                  "text": "Museum im Geburtshaus des berühmten estnischen Schriftstellers A. H. Tammsaare.",
+                  "category": "museum",
+                  "coords": [
+                        25.589391,
+                        59.112288
+                  ]
+            },
+            {
+                  "name": "Albu mõisa peahoone",
+                  "text": "Das historische Herrenhaus von Albu in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        25.659288,
+                        59.153381
+                  ]
+            },
+            {
+                  "name": "Simisalu vaatetorn",
+                  "text": "Aussichtsturm mit Blick über das Hochmoor in der Nähe des Museums.",
+                  "category": "natural",
+                  "coords": [
+                        25.563355,
+                        59.107136
+                  ]
+            },
+            {
+                  "name": "Järva-Madise Püha Matteuse kirik",
+                  "text": "Eine historische lutherische Dorfkirche in der Region Järva.",
+                  "category": "religious",
+                  "coords": [
+                        25.655962,
+                        59.116052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A. H. Tammsaare muuseum",
+                  "text": "Múzeum a híres észt író, A. H. Tammsaare szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        25.589391,
+                        59.112288
+                  ]
+            },
+            {
+                  "name": "Albu mõisa peahoone",
+                  "text": "Az észtországi Albu történelmi kúriája.",
+                  "category": "historical",
+                  "coords": [
+                        25.659288,
+                        59.153381
+                  ]
+            },
+            {
+                  "name": "Simisalu vaatetorn",
+                  "text": "Kilátótorony, ahonnan kilátás nyílik a közeli lápvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.563355,
+                        59.107136
+                  ]
+            },
+            {
+                  "name": "Järva-Madise Püha Matteuse kirik",
+                  "text": "Történelmi evangélikus falusi templom Järva régióban.",
+                  "category": "religious",
+                  "coords": [
+                        25.655962,
+                        59.116052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A. H. Tammsaare muuseum",
+                  "text": "Muzeu situat în casa natală a celebrului scriitor eston A. H. Tammsaare.",
+                  "category": "museum",
+                  "coords": [
+                        25.589391,
+                        59.112288
+                  ]
+            },
+            {
+                  "name": "Albu mõisa peahoone",
+                  "text": "Conacul istoric din Albu, Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.659288,
+                        59.153381
+                  ]
+            },
+            {
+                  "name": "Simisalu vaatetorn",
+                  "text": "Turn de observație cu vedere asupra mlaștinii din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        25.563355,
+                        59.107136
+                  ]
+            },
+            {
+                  "name": "Järva-Madise Püha Matteuse kirik",
+                  "text": "O biserică istorică luterană de sat din regiunea Järva.",
+                  "category": "religious",
+                  "coords": [
+                        25.655962,
+                        59.116052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A. H. Tammsaare Museum",
+                  "text": "Museum located in the birthplace of the famous Estonian writer A. H. Tammsaare.",
+                  "category": "museum",
+                  "coords": [
+                        25.589391,
+                        59.112288
+                  ]
+            },
+            {
+                  "name": "Albu mõisa peahoone",
+                  "text": "The historic manor house of Albu in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.659288,
+                        59.153381
+                  ]
+            },
+            {
+                  "name": "Simisalu vaatetorn",
+                  "text": "Observation tower offering views over the surrounding bog landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.563355,
+                        59.107136
+                  ]
+            },
+            {
+                  "name": "Järva-Madise Püha Matteuse kirik",
+                  "text": "A historic Lutheran village church in the Järva region.",
+                  "category": "religious",
+                  "coords": [
+                        25.655962,
+                        59.116052
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [25.6210, 59.1240],
@@ -16702,7 +19771,268 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-puhajarv",
+    id: "ee-r2big-puhajarv", "sights": {
+      "de": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Dieses Museum in Otepää dokumentiert die reiche Geschichte des estnischen Wintersports.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Ruinen einer historischen Bischofsburg, die einst eine wichtige Festung in Südostestland war.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Ein Museum in Pühajärv, das dem Leben und Werk des estnischen Dichters Gustav Wulff-Õis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Dieses Museum zeigt die Geschichte der blau-schwarz-weißen estnischen Nationalflagge.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Ein beliebter Abenteuerpark in Pühajärv mit verschiedenen Kletterparcours und Seilrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "Ein schöner Badestrand am Pühajärv-See, der als einer der schönsten Seen Estlands gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            },
+            {
+                  "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
+                  "text": "Die Ruinen einer orthodoxen Kirche aus dem 19. Jahrhundert in der Nähe von Pühajärv.",
+                  "category": "historical",
+                  "coords": [
+                        26.482198,
+                        58.087237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Ez az otepääi múzeum az észt téli sportok gazdag történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Egy történelmi püspöki vár romjai, amely egykor fontos erődítmény volt Délkelet-Észtországban.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Egy múzeum Pühajärvben, amely Gustav Wulff-Õis észt költő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Ez a múzeum a kék-fekete-fehér észt nemzeti lobogó történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Népszerű kalandpark Pühajärvben, különféle mászópályákkal és kötélpályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "Egy szép strand a Pühajärv-tónál, amelyet Észtország egyik legszebb tavának tartanak.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            },
+            {
+                  "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
+                  "text": "Egy 19. századi ortodox templom romjai Pühajärv közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.482198,
+                        58.087237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otepää Talispordimuuseum",
+                  "text": "Acest muzeu din Otepää documentează istoria bogată a sporturilor de iarnă estoniene.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää piiskopilinnus",
+                  "text": "Ruinele unui castel episcopal istoric, care a fost odată o fortăreață importantă în sud-estul Estoniei.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Wulf-Õie Muuseum",
+                  "text": "Un muzeu în Pühajärv dedicat vieții și operei poetului estonian Gustav Wulff-Õis.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Eesti Lipu Muuseum",
+                  "text": "Acest muzeu prezintă istoria drapelului național estonian albastru-negru-alb.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "Un parc de aventură popular în Pühajärv, cu diverse trasee de cățărare și tiroliene.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "O plajă frumoasă pe malul lacului Pühajärv, considerat unul dintre cele mai frumoase lacuri din Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            },
+            {
+                  "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
+                  "text": "Ruinele unei biserici ortodoxe din secolul al XIX-lea, situată lângă Pühajärv.",
+                  "category": "historical",
+                  "coords": [
+                        26.482198,
+                        58.087237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otepää Winter Sports Museum",
+                  "text": "This museum in Otepää documents the rich history of Estonian winter sports.",
+                  "category": "museum",
+                  "coords": [
+                        26.501857,
+                        58.053325
+                  ]
+            },
+            {
+                  "name": "Otepää Bishop's Castle",
+                  "text": "Ruins of a historical bishop's castle that was once an important fortress in southeastern Estonia.",
+                  "category": "castle",
+                  "coords": [
+                        26.504062,
+                        58.05728
+                  ]
+            },
+            {
+                  "name": "Gustav Õie Wulf Museum",
+                  "text": "A museum in Pühajärv dedicated to the life and work of the Estonian poet Gustav Wulff-Õis.",
+                  "category": "museum",
+                  "coords": [
+                        26.490924,
+                        58.03423
+                  ]
+            },
+            {
+                  "name": "Estonian Flag Museum",
+                  "text": "This museum showcases the history of the blue-black-white Estonian national flag.",
+                  "category": "museum",
+                  "coords": [
+                        26.501468,
+                        58.060996
+                  ]
+            },
+            {
+                  "name": "Otepää Seikluspark",
+                  "text": "A popular adventure park in Pühajärv with various climbing courses and zip lines.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509066,
+                        58.053536
+                  ]
+            },
+            {
+                  "name": "Pühajärve",
+                  "text": "A beautiful swimming beach on Lake Pühajärv, considered one of Estonia's most beautiful lakes.",
+                  "category": "recreational",
+                  "coords": [
+                        26.46863,
+                        58.043469
+                  ]
+            },
+            {
+                  "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
+                  "text": "The ruins of a 19th-century Orthodox church located near Pühajärv.",
+                  "category": "historical",
+                  "coords": [
+                        26.482198,
+                        58.087237
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ee-country",
     coords: [26.4890, 58.0590],
@@ -16859,6 +20189,24 @@ export const estoniaNature: POI[] = [
                         21.830241,
                         58.373573
                   ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Ein markanter Leuchtturm auf der estnischen Insel Vilsandi, der den Seeweg markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "Eine Sehenswürdigkeit auf Vilsandi, die mit dem bekannten estnischen Künstler Jaan Tätte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
+                  ]
             }
       ],
       "hu": [
@@ -16869,6 +20217,24 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.830241,
                         58.373573
+                  ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Jellegzetes világítótorony az észtországi Vilsandi-szigeten, amely a hajózási útvonalat jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "Nevezetesség Vilsandin, amely Jaan Tätte ismert észt művészhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
                   ]
             }
       ],
@@ -16881,6 +20247,24 @@ export const estoniaNature: POI[] = [
                         21.830241,
                         58.373573
                   ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "Un far distinctiv pe insula estonă Vilsandi, marcând ruta maritimă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "O atracție pe Vilsandi asociată cu cunoscutul artist estonian Jaan Tätte.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
+                  ]
             }
       ],
       "en": [
@@ -16891,6 +20275,24 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.830241,
                         58.373573
+                  ]
+            },
+            {
+                  "name": "Vilsandi tuletorn",
+                  "text": "A prominent lighthouse on the Estonian island of Vilsandi, marking the sea route.",
+                  "category": "landmark",
+                  "coords": [
+                        21.812725,
+                        58.382872
+                  ]
+            },
+            {
+                  "name": "Jaan Tätte",
+                  "text": "An attraction on Vilsandi associated with the well-known Estonian artist Jaan Tätte.",
+                  "category": "landmark",
+                  "coords": [
+                        21.856361,
+                        58.385387
                   ]
             }
       ]
@@ -16943,7 +20345,124 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-vormsi-island",
+    id: "ee-r2big-vormsi-island", "sights": {
+      "de": [
+            {
+                  "name": "Vormsi Talumuuseum",
+                  "text": "Dieses Bauernhofmuseum auf der Insel Vormsi zeigt das traditionelle estnisch-schwedische Landleben.",
+                  "category": "museum",
+                  "coords": [
+                        23.301656,
+                        58.985298
+                  ]
+            },
+            {
+                  "name": "Rälby pukktuulik",
+                  "text": "Eine historische Bockwindmühle im Dorf Rälby auf der Insel Vormsi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283572,
+                        59.012001
+                  ]
+            },
+            {
+                  "name": "Olavi-Kirche auf Vormsi",
+                  "text": "Die Olai-Kirche auf Vormsi ist eine mittelalterliche Steinkirche, bekannt für ihre Radkreuze.",
+                  "category": "religious",
+                  "coords": [
+                        23.233303,
+                        58.999341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vormsi Talumuuseum",
+                  "text": "Ez a Vormsi-szigeten található parasztmúzeum a hagyományos észt-svéd vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.301656,
+                        58.985298
+                  ]
+            },
+            {
+                  "name": "Rälby pukktuulik",
+                  "text": "Történelmi bakpörgetős szélmalom Rälby faluban, Vormsi szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283572,
+                        59.012001
+                  ]
+            },
+            {
+                  "name": "Vormsi Olavi kirik",
+                  "text": "A vormsi Szent Olaf-templom egy középkori kőtemplom, amely gyűrűs keresztjeiről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        23.233303,
+                        58.999341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vormsi Talumuuseum",
+                  "text": "Acest muzeu al fermei de pe insula Vormsi prezintă viața rurală tradițională estono-suedeză.",
+                  "category": "museum",
+                  "coords": [
+                        23.301656,
+                        58.985298
+                  ]
+            },
+            {
+                  "name": "Rälby pukktuulik",
+                  "text": "O moară de vânt istorică în satul Rälby de pe insula Vormsi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283572,
+                        59.012001
+                  ]
+            },
+            {
+                  "name": "Vormsi Olavi kirik",
+                  "text": "Biserica Sfântul Olav din Vormsi este o biserică medievală de piatră, cunoscută pentru crucile sale solare.",
+                  "category": "religious",
+                  "coords": [
+                        23.233303,
+                        58.999341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vormsi Talumuuseum",
+                  "text": "This farm museum on Vormsi island showcases traditional Estonian-Swedish rural life.",
+                  "category": "museum",
+                  "coords": [
+                        23.301656,
+                        58.985298
+                  ]
+            },
+            {
+                  "name": "Rälby pukktuulik",
+                  "text": "A historical post windmill located in Rälby village on the island of Vormsi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283572,
+                        59.012001
+                  ]
+            },
+            {
+                  "name": "Vormsi Olavi Church",
+                  "text": "The St. Olav's Church on Vormsi is a medieval stone church known for its wheel crosses.",
+                  "category": "religious",
+                  "coords": [
+                        23.233303,
+                        58.999341
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ee-country",
     coords: [23.2500, 59.0000],
@@ -17243,6 +20762,42 @@ export const estoniaNature: POI[] = [
                         25.987346,
                         58.618455
                   ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Dieses Museum widmet sich der Geschichte des estnischen Pressewesens.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "Ein Museumszimmer, das der Geschichte der ersten estnischen höheren Schule gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "Ein öffentlicher Badestrand am Fluss Põltsamaa für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Ein weitläufiger Park, der zum historischen Herrenhaus von Uue-Põltsamaa gehört.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
             }
       ],
       "hu": [
@@ -17253,6 +20808,42 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.987346,
                         58.618455
+                  ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Ez a múzeum az észt sajtó történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "Az első észt felsőbb iskola történetének szentelt múzeumszoba.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "Nyilvános strand a Põltsamaa-folyónál a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Az új-põltsamaai uradalomhoz tartozó tágas park.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
                   ]
             }
       ],
@@ -17265,6 +20856,42 @@ export const estoniaNature: POI[] = [
                         25.987346,
                         58.618455
                   ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Acest muzeu este dedicat istoriei presei estoniene.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "O cameră muzeală dedicată istoriei primei școli superioare estoniene.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "O plajă publică pe râul Põltsamaa pentru recreere de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Un parc vast care aparține conacului istoric Uue-Põltsamaa.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
             }
       ],
       "en": [
@@ -17275,6 +20902,42 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         25.987346,
                         58.618455
+                  ]
+            },
+            {
+                  "name": "Estonian Press Museum",
+                  "text": "This museum is dedicated to the history of the Estonian press.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "A museum room dedicated to the history of the first Estonian higher school.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Põltsamaa beach",
+                  "text": "A public bathing beach on the Põltsamaa River for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "A spacious park belonging to the historic Uue-Põltsamaa manor.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
                   ]
             }
       ]
@@ -17327,7 +20990,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-estonian-dairy-museum",
+    id: "ee-r2big-estonian-dairy-museum", "sights": {
+      "de": [
+            {
+                  "name": "Eesti Piimandusmuuseum",
+                  "text": "Das Estnische Molkereimuseum in Imavere zeigt die Geschichte der lokalen Milchproduktion.",
+                  "category": "museum",
+                  "coords": [
+                        25.766621,
+                        58.733529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eesti Piimandusmuuseum",
+                  "text": "Az imaverei Észt Tejgazdasági Múzeum a helyi tejtermelés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.766621,
+                        58.733529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eesti Piimandusmuuseum",
+                  "text": "Muzeul Lactatelor din Estonia din Imavere prezintă istoria producției locale de lactate.",
+                  "category": "museum",
+                  "coords": [
+                        25.766621,
+                        58.733529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estonian Dairy Museum",
+                  "text": "Estonian Dairy Museum in Imavere exhibits the history of local dairy production.",
+                  "category": "museum",
+                  "coords": [
+                        25.766621,
+                        58.733529
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ee-country",
     coords: [25.7850, 58.7670],

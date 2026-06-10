@@ -325,7 +325,232 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
     },
     image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp",
 },  {
-    id: "greece-lindos-acropolis-landmarks-v2",
+    id: "greece-lindos-acropolis-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akropolis von Lindos",
+                  "text": "Eine antike Zitadelle auf einem Felsen in Lindos mit Überresten des Tempels der Athena Lindia.",
+                  "category": "historical",
+                  "coords": [
+                        28.08845,
+                        36.09137
+                  ]
+            },
+            {
+                  "name": "Antikes Theater",
+                  "text": "Die Überreste eines antiken Theaters in der Nähe der Akropolis von Lindos.",
+                  "category": "historical",
+                  "coords": [
+                        28.087136,
+                        36.08982
+                  ]
+            },
+            {
+                  "name": "Vlycha Strand",
+                  "text": "Ein beliebter Strand bei Lindos, bekannt für sein klares Wasser und seinen Kiesstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        28.068514,
+                        36.106777
+                  ]
+            },
+            {
+                  "name": "Strand von Lindos",
+                  "text": "Ein malerischer Sandstrand am Fuße der Akropolis von Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.085851,
+                        36.095194
+                  ]
+            },
+            {
+                  "name": "Pallas Strand",
+                  "text": "Ein kleiner Strand in Lindos, der eine entspannte Atmosphäre und ruhiges Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08903,
+                        36.09408
+                  ]
+            },
+            {
+                  "name": "Apostel Paulus Strand",
+                  "text": "Eine malerische Bucht in Lindos, berühmt für ihr türkisfarbenes Wasser und die Kapelle.",
+                  "category": "recreational",
+                  "coords": [
+                        28.087828,
+                        36.085871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ακρόπολη Λίνδου",
+                  "text": "Lindoszi ókori fellegvár egy sziklán, Athéné Lindia templomának romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        28.08845,
+                        36.09137
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο",
+                  "text": "A lindoszi Akropolisz közelében található ókori színház romjai.",
+                  "category": "historical",
+                  "coords": [
+                        28.087136,
+                        36.08982
+                  ]
+            },
+            {
+                  "name": "Παραλία Βλυχά",
+                  "text": "Népszerű strand Lindosznál, amely tiszta vizéről és kavicsos partjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        28.068514,
+                        36.106777
+                  ]
+            },
+            {
+                  "name": "Megali Paralia",
+                  "text": "Festői homokos strand a lindoszi Akropolisz lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.085851,
+                        36.095194
+                  ]
+            },
+            {
+                  "name": "Pallas Beach",
+                  "text": "Kicsi strand Lindosznál, amely nyugodt légkört és csendes vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08903,
+                        36.09408
+                  ]
+            },
+            {
+                  "name": "St. Paul's Beach",
+                  "text": "Festői öböl Lindosznál, amely türkizkék vizéről és kápolnájáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        28.087828,
+                        36.085871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul din Lindos",
+                  "text": "O cetate antică pe o stâncă din Lindos, care prezintă rămășițele templului Atenei Lindia.",
+                  "category": "historical",
+                  "coords": [
+                        28.08845,
+                        36.09137
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο",
+                  "text": "Rămășițele unui teatru antic situat lângă Acropola din Lindos.",
+                  "category": "historical",
+                  "coords": [
+                        28.087136,
+                        36.08982
+                  ]
+            },
+            {
+                  "name": "Παραλία Βλυχά",
+                  "text": "O plajă populară lângă Lindos, cunoscută pentru apele sale limpezi și țărmul cu pietriș.",
+                  "category": "recreational",
+                  "coords": [
+                        28.068514,
+                        36.106777
+                  ]
+            },
+            {
+                  "name": "Plaja din Lindos",
+                  "text": "O plajă pitorească cu nisip situată la poalele Acropolei din Lindos.",
+                  "category": "recreational",
+                  "coords": [
+                        28.085851,
+                        36.095194
+                  ]
+            },
+            {
+                  "name": "Pallas Beach",
+                  "text": "O plajă mică în Lindos, care oferă o atmosferă relaxată și ape calme.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08903,
+                        36.09408
+                  ]
+            },
+            {
+                  "name": "St. Paul's Beach",
+                  "text": "Un golf pitoresc în Lindos, faimos pentru apele sale turcoaz și capelă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.087828,
+                        36.085871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lindos Acropolis",
+                  "text": "An ancient citadel on a cliff in Lindos, featuring remains of the temple of Athena Lindia.",
+                  "category": "historical",
+                  "coords": [
+                        28.08845,
+                        36.09137
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "The remains of an ancient theatre located near the Lindos Acropolis.",
+                  "category": "historical",
+                  "coords": [
+                        28.087136,
+                        36.08982
+                  ]
+            },
+            {
+                  "name": "Vlycha Beach",
+                  "text": "A popular beach near Lindos known for its clear waters and pebble shore.",
+                  "category": "recreational",
+                  "coords": [
+                        28.068514,
+                        36.106777
+                  ]
+            },
+            {
+                  "name": "Lindos Beach",
+                  "text": "A scenic sandy beach located at the foot of the Lindos Acropolis.",
+                  "category": "recreational",
+                  "coords": [
+                        28.085851,
+                        36.095194
+                  ]
+            },
+            {
+                  "name": "Pallas Beach",
+                  "text": "A small beach in Lindos offering a relaxed atmosphere and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        28.08903,
+                        36.09408
+                  ]
+            },
+            {
+                  "name": "St. Paul's Beach",
+                  "text": "A picturesque bay in Lindos, famous for its turquoise waters and chapel.",
+                  "category": "recreational",
+                  "coords": [
+                        28.087828,
+                        36.085871
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "ruins",
     name: { de: "Akropolis von Lindos", hu: "Lindoszi Akropolisz", ro: "Acropola din Lindos", en: "Lindos Acropolis"},
@@ -417,7 +642,232 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
     },
     image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp",
 },  {
-    id: "greece-temple-apollo-delphi-landmarks-v2",
+    id: "greece-temple-apollo-delphi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Die Ruinen eines antiken Heiligtums innerhalb der archäologischen Stätte von Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Die weltberühmte antike Stätte von Delphi galt in der Antike als der Mittelpunkt der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "Dieses bedeutende Museum beherbergt wertvolle Fundstücke aus den Ausgrabungen von Delphi.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Überreste eines antiken Heiligtums, das dem Gott Dionysos in Delphi gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Überreste einer antiken Theaterstätte am historischen Ort Delphi.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Archäologische Überreste eines antiken Turms in der Umgebung von Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Egy ókori szentély romjai a delphoi régészeti területen belül.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Delphoi világhírű ókori lelőhelye, amelyet az antikvitásban a világ közepének tartottak.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "Ez a jelentős múzeum a delphoi ásatások legfontosabb leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Dionüszosznak szentelt ókori szentély maradványai Delphoiban.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Egy ókori színház maradványai a történelmi Delphoi területén.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Egy ókori torony régészeti maradványai Delphoi környékén.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Ruinele unui sanctuar antic în cadrul sitului arheologic din Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Situl antic de renume mondial Delphi, considerat în antichitate centrul lumii.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "Acest muzeu important adăpostește descoperiri valoroase din săpăturile de la Delphi.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Vestigiile unui sanctuar antic dedicat zeului Dionysos la Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Vestigiile unui teatru antic situat în cadrul sitului istoric Delphi.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Vestigii arheologice ale unui turn antic din proximitatea sitului Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "The ruins of an ancient sanctuary within the archaeological site of Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Delphi",
+                  "text": "The world-famous ancient site of Delphi, considered the center of the world in antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Delphi Museum",
+                  "text": "This important museum houses significant artifacts from the excavations at Delphi.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Remains of an ancient sanctuary dedicated to the god Dionysus in Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Frynihos",
+                  "text": "Remains of an ancient theatre site located within historical Delphi.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Archaeological remains of an ancient tower in the vicinity of Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "ruins",
     name: { de: "Apollon-Tempel von Delphi", hu: "Delphoi Apollón-templom", ro: "Templul lui Apollo din Delfi", en: "Temple of Apollo (Delphi)"},
@@ -463,7 +913,232 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
     },
     image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp",
 },  {
-    id: "greece-tholos-delphi-landmarks-v2",
+    id: "greece-tholos-delphi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Eine antike archäologische Stätte, die Teil des Heiligtums von Delphi ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Die antike Stadt Delphi, die einst als das Zentrum der Welt und Sitz des Orakels galt.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "Das Museum zeigt bedeutende Funde aus dem Heiligtum von Delphi, darunter den berühmten Wagenlenker.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Die archäologischen Überreste eines Heiligtums, das dem Gott Dionysos in Delphi gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Ein antikes Theater in Delphi, das für Aufführungen und kulturelle Veranstaltungen genutzt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Die Ruinen eines antiken Turms innerhalb des archäologischen Komplexes von Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Ókori régészeti helyszín, amely a delphoi szentélyegyüttes része.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Delphoi ókori városa, amelyet egykor a világ központjaként és a jósda székhelyeként tiszteltek.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "A múzeum a delphoi szentély jelentős leleteit mutatja be, köztük a híres kocsihajtót.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Dionüszosz istennek szentelt delphoi szentély régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Ókori színház Delphoiban, amelyet előadásokra és kulturális eseményekre használtak.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Egy ókori torony romjai a delphoi régészeti együttes területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "Un sit arheologic antic care face parte din sanctuarul de la Delfi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Δελφοί",
+                  "text": "Orașul antic Delfi, considerat odinioară centrul lumii și sediul celebrului oracol.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Μουσείο Δελφών",
+                  "text": "Muzeul expune descoperiri importante din sanctuarul Delfi, inclusiv faimosul Auriga.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "Resturile arheologice ale unui sanctuar dedicat zeului Dionysos la Delfi.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Φρύνιχος",
+                  "text": "Un teatru antic în Delfi, utilizat pentru spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "Ruinele unui turn antic în cadrul complexului arheologic de la Delfi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marmara Sanctuary",
+                  "text": "An ancient archaeological site that is part of the sanctuary complex of Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518138,
+                        38.482601
+                  ]
+            },
+            {
+                  "name": "Delphi",
+                  "text": "The ancient city of Delphi, once considered the center of the world and home to the oracle.",
+                  "category": "historical",
+                  "coords": [
+                        22.501761,
+                        38.481893
+                  ]
+            },
+            {
+                  "name": "Delphi Museum",
+                  "text": "The museum displays significant finds from the Delphi sanctuary, including the famous Charioteer.",
+                  "category": "museum",
+                  "coords": [
+                        22.4997,
+                        38.480235
+                  ]
+            },
+            {
+                  "name": "Santuario de Dionisio",
+                  "text": "The archaeological remains of a sanctuary dedicated to the god Dionysus in Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.500832,
+                        38.48266
+                  ]
+            },
+            {
+                  "name": "Frynihos",
+                  "text": "An ancient theatre in Delphi used for performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.487628,
+                        38.48361
+                  ]
+            },
+            {
+                  "name": "Delphi tower",
+                  "text": "The ruins of an ancient tower within the archaeological complex of Delphi.",
+                  "category": "historical",
+                  "coords": [
+                        22.518066,
+                        38.479561
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "landmark",
     name: { de: "Tholos von Delphi", hu: "Delphoi Tholosz", ro: "Tholos din Delfi", en: "Tholos of Delphi"},
@@ -509,7 +1184,268 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
     },
     image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp",
 },    {
-    id: "greece-lion-gate-mycenae-landmarks-v2",
+    id: "greece-lion-gate-mycenae-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ναός Αγαμνένων",
+                  "text": "Eine archäologische Stätte bei Mykene.",
+                  "category": "historical",
+                  "coords": [
+                        22.753468,
+                        37.72139
+                  ]
+            },
+            {
+                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "text": "Eine archäologische Fundstätte bei Mykene.",
+                  "category": "historical",
+                  "coords": [
+                        22.720658,
+                        37.744253
+                  ]
+            },
+            {
+                  "name": "Gräberrund A",
+                  "text": "Ein berühmter Grabzirkel aus der mykenischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        37.730493
+                  ]
+            },
+            {
+                  "name": "Akropolis von Mykene",
+                  "text": "Die Akropolis der antiken Stadt Mykene.",
+                  "category": "historical",
+                  "coords": [
+                        22.757713,
+                        37.730351
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Mykene",
+                  "text": "Museum mit Funden aus der antiken Stadt Mykene.",
+                  "category": "museum",
+                  "coords": [
+                        22.756526,
+                        37.731856
+                  ]
+            },
+            {
+                  "name": "Prosymna Tholos Tomb",
+                  "text": "Ein mykenisches Kuppelgrab bei Mykene.",
+                  "category": "historical",
+                  "coords": [
+                        22.769878,
+                        37.695972
+                  ]
+            },
+            {
+                  "name": "Οικία τών Σφιγγών",
+                  "text": "Ruinen eines antiken Hauses in Mykene.",
+                  "category": "historical",
+                  "coords": [
+                        22.754837,
+                        37.729977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ναός Αγαμνένων",
+                  "text": "Régészeti lelőhely Mükénénél.",
+                  "category": "historical",
+                  "coords": [
+                        22.753468,
+                        37.72139
+                  ]
+            },
+            {
+                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "text": "Régészeti helyszín Mükéné közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.720658,
+                        37.744253
+                  ]
+            },
+            {
+                  "name": "Ταφικός κύκλος Α΄",
+                  "text": "Híres mükénéi sírkör.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        37.730493
+                  ]
+            },
+            {
+                  "name": "Ακρόπολη των Μυκηνών",
+                  "text": "Az ókori Mükéné akropolisza.",
+                  "category": "historical",
+                  "coords": [
+                        22.757713,
+                        37.730351
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "text": "Múzeum a mükénéi ásatások leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        22.756526,
+                        37.731856
+                  ]
+            },
+            {
+                  "name": "Prosymna Tholos Tomb",
+                  "text": "Mükénéi tholosz-sírhely.",
+                  "category": "historical",
+                  "coords": [
+                        22.769878,
+                        37.695972
+                  ]
+            },
+            {
+                  "name": "Οικία τών Σφιγγών",
+                  "text": "Egy ókori ház romjai Mükénében.",
+                  "category": "historical",
+                  "coords": [
+                        22.754837,
+                        37.729977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ναός Αγαμνένων",
+                  "text": "Un sit arheologic lângă Micene.",
+                  "category": "historical",
+                  "coords": [
+                        22.753468,
+                        37.72139
+                  ]
+            },
+            {
+                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "text": "Un sit arheologic situat lângă Micene.",
+                  "category": "historical",
+                  "coords": [
+                        22.720658,
+                        37.744253
+                  ]
+            },
+            {
+                  "name": "Ταφικός κύκλος Α΄",
+                  "text": "Un cerc funerar celebru din perioada miceniană.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        37.730493
+                  ]
+            },
+            {
+                  "name": "Ακρόπολη των Μυκηνών",
+                  "text": "Acropola vechiului oraș Micene.",
+                  "category": "historical",
+                  "coords": [
+                        22.757713,
+                        37.730351
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "text": "Muzeu cu descoperiri din orașul antic Micene.",
+                  "category": "museum",
+                  "coords": [
+                        22.756526,
+                        37.731856
+                  ]
+            },
+            {
+                  "name": "Prosymna Tholos Tomb",
+                  "text": "Un mormânt micenian de tip tholos lângă Micene.",
+                  "category": "historical",
+                  "coords": [
+                        22.769878,
+                        37.695972
+                  ]
+            },
+            {
+                  "name": "Οικία τών Σφιγγών",
+                  "text": "Ruinele unei case antice în Micene.",
+                  "category": "historical",
+                  "coords": [
+                        22.754837,
+                        37.729977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agamemnoneion of Mycenae",
+                  "text": "An archaeological site located near Mycenae.",
+                  "category": "historical",
+                  "coords": [
+                        22.753468,
+                        37.72139
+                  ]
+            },
+            {
+                  "name": "Fichtia Blockhouse",
+                  "text": "An archaeological site located near Mycenae.",
+                  "category": "historical",
+                  "coords": [
+                        22.720658,
+                        37.744253
+                  ]
+            },
+            {
+                  "name": "Grave Circle A",
+                  "text": "A famous royal cemetery from the Mycenaean period.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        37.730493
+                  ]
+            },
+            {
+                  "name": "Acropolis of Mycenae",
+                  "text": "The acropolis of the ancient city of Mycenae.",
+                  "category": "historical",
+                  "coords": [
+                        22.757713,
+                        37.730351
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Mycenae",
+                  "text": "A museum showcasing artifacts from the ancient city of Mycenae.",
+                  "category": "museum",
+                  "coords": [
+                        22.756526,
+                        37.731856
+                  ]
+            },
+            {
+                  "name": "Prosymna Tholos Tomb",
+                  "text": "A Mycenaean tholos tomb located near Mycenae.",
+                  "category": "historical",
+                  "coords": [
+                        22.769878,
+                        37.695972
+                  ]
+            },
+            {
+                  "name": "Sphinx House",
+                  "text": "Ruins of an ancient house in Mycenae.",
+                  "category": "historical",
+                  "coords": [
+                        22.754837,
+                        37.729977
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "monument",
     name: { de: "Löwentor von Mykene", hu: "Oroszlános kapu", ro: "Poarta Leilor din Micene", en: "Lion Gate (Mycenae)"},
@@ -1060,7 +1996,160 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
     },
     image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp",
 },  {
-    id: "greece-methoni-castle-landmarks-v2",
+    id: "greece-methoni-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Methoni",
+                  "text": "Imposante venezianische Festung und eine der wichtigsten mittelalterlichen Burgen Griechenlands.",
+                  "category": "castle",
+                  "coords": [
+                        21.704581,
+                        36.815317
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι",
+                  "text": "Kleine achteckige Inselfestung, die mit der Hauptburg von Methoni verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        21.704775,
+                        36.811827
+                  ]
+            },
+            {
+                  "name": "Frühchristliche Gräber von St. Onuphrios",
+                  "text": "Antike Begräbnisstätte aus der frühchristlichen Zeit in Methoni.",
+                  "category": "historical",
+                  "coords": [
+                        21.709719,
+                        36.842965
+                  ]
+            },
+            {
+                  "name": "Πυργάκι Λίμνης Παπά",
+                  "text": "Überreste eines Verteidigungsturms in der Nähe des Gebiets Limni Papa.",
+                  "category": "castle",
+                  "coords": [
+                        21.696416,
+                        36.83617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Μεθώνης",
+                  "text": "Hatalmas velencei erőd, Görögország egyik legjelentősebb középkori vára.",
+                  "category": "castle",
+                  "coords": [
+                        21.704581,
+                        36.815317
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι",
+                  "text": "A methoni várral összeköttetésben álló kis nyolcszögletű szigeterőd.",
+                  "category": "castle",
+                  "coords": [
+                        21.704775,
+                        36.811827
+                  ]
+            },
+            {
+                  "name": "Κατακόμβες του Αγίου Ονούφριου",
+                  "text": "Ókori temetkezési hely a korai keresztény korszakból Methoniban.",
+                  "category": "historical",
+                  "coords": [
+                        21.709719,
+                        36.842965
+                  ]
+            },
+            {
+                  "name": "Πυργάκι Λίμνης Παπά",
+                  "text": "Egy védőtorony maradványai Limni Papa környékén.",
+                  "category": "castle",
+                  "coords": [
+                        21.696416,
+                        36.83617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Μεθώνης",
+                  "text": "Impresionantă fortăreață venețiană și unul dintre cele mai importante castele medievale din Grecia.",
+                  "category": "castle",
+                  "coords": [
+                        21.704581,
+                        36.815317
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι",
+                  "text": "Mică fortăreață insulară octogonală conectată de castelul principal din Methoni.",
+                  "category": "castle",
+                  "coords": [
+                        21.704775,
+                        36.811827
+                  ]
+            },
+            {
+                  "name": "Κατακόμβες του Αγίου Ονούφριου",
+                  "text": "Vechi sit funerar datând din perioada creștină timpurie în Methoni.",
+                  "category": "historical",
+                  "coords": [
+                        21.709719,
+                        36.842965
+                  ]
+            },
+            {
+                  "name": "Πυργάκι Λίμνης Παπά",
+                  "text": "Rămășițele unui turn defensiv situat în apropierea zonei Limni Papa.",
+                  "category": "castle",
+                  "coords": [
+                        21.696416,
+                        36.83617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Methoni Castle",
+                  "text": "Massive Venetian fortress and one of the most important medieval castles in Greece.",
+                  "category": "castle",
+                  "coords": [
+                        21.704581,
+                        36.815317
+                  ]
+            },
+            {
+                  "name": "Bourtzi",
+                  "text": "Small octagonal island fortress connected to the main Methoni Castle.",
+                  "category": "castle",
+                  "coords": [
+                        21.704775,
+                        36.811827
+                  ]
+            },
+            {
+                  "name": "Early Christian cemetery of Saint Onoufrios at Methoni",
+                  "text": "Ancient burial site dating back to the early Christian period in Methoni.",
+                  "category": "historical",
+                  "coords": [
+                        21.709719,
+                        36.842965
+                  ]
+            },
+            {
+                  "name": "Tower at Limni Papa",
+                  "text": "Remains of a defensive tower located near the Limni Papa area.",
+                  "category": "castle",
+                  "coords": [
+                        21.696416,
+                        36.83617
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "castle",
     name: { de: "Burg von Methoni", hu: "Methóni vára", ro: "Castelul Methoni", en: "Methoni Castle"},
@@ -1105,7 +2194,88 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
     },
   },
   {
-    id: "greece-hosios-loukas-monastery-landmarks-v2",
+    id: "greece-hosios-loukas-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Καστράκι Οσίου Λουκά",
+                  "text": "Eine historische Burgruine in der Nähe des Klosters Hosios Loukas.",
+                  "category": "castle",
+                  "coords": [
+                        22.743412,
+                        38.396636
+                  ]
+            },
+            {
+                  "name": "Kloster Hosios Lukas",
+                  "text": "Dieses byzantinische Kloster aus dem 10. Jahrhundert gehört zum UNESCO-Welterbe.",
+                  "category": "landmark",
+                  "coords": [
+                        22.746509,
+                        38.395108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Καστράκι Οσίου Λουκά",
+                  "text": "Történelmi várrom a Hosios Loukas kolostor közelében.",
+                  "category": "castle",
+                  "coords": [
+                        22.743412,
+                        38.396636
+                  ]
+            },
+            {
+                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "text": "Ez a 10. századi bizánci kolostor az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        22.746509,
+                        38.395108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Καστράκι Οσίου Λουκά",
+                  "text": "O ruină istorică de castel situată în apropierea mănăstirii Hosios Loukas.",
+                  "category": "castle",
+                  "coords": [
+                        22.743412,
+                        38.396636
+                  ]
+            },
+            {
+                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "text": "Această mănăstire bizantină din secolul al X-lea face parte din patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        22.746509,
+                        38.395108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Osios Loukas",
+                  "text": "A historic castle ruin located near the Hosios Loukas Monastery.",
+                  "category": "castle",
+                  "coords": [
+                        22.743412,
+                        38.396636
+                  ]
+            },
+            {
+                  "name": "Hosios Loukas",
+                  "text": "This 10th-century Byzantine monastery is a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        22.746509,
+                        38.395108
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "church",
     name: { de: "Kloster Hosios Loukas", hu: "Hosziosz Lukasz-kolostor", ro: "Mănăstirea Hosios Loukas", en: "Hosios Loukas Monastery"},
@@ -1285,7 +2455,304 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     },
     image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp",
 },  {
-    id: "greece-bridge-arta-landmarks-v2",
+    id: "greece-bridge-arta-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "text": "Die Überreste eines antiken Apollon-Tempels in der Nähe der historischen Brücke von Arta.",
+                  "category": "historical",
+                  "coords": [
+                        20.982748,
+                        39.160784
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "text": "Dieses Museum in Arta zeigt bedeutende archäologische Funde aus der antiken Stadt Ambrakia.",
+                  "category": "museum",
+                  "coords": [
+                        20.979477,
+                        39.149511
+                  ]
+            },
+            {
+                  "name": "Γαρουφάλειος Στέγη",
+                  "text": "Ein lokales Museum in Arta, das sich der Bewahrung des regionalen Kulturerbes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.98318,
+                        39.159156
+                  ]
+            },
+            {
+                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "text": "Ein bedeutender antiker Friedhof in Arta, der zur Stadt Ambrakia gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        20.982852,
+                        39.154862
+                  ]
+            },
+            {
+                  "name": "Το Γεφύρι της Άρτας",
+                  "text": "Die berühmte historische Steinbrücke von Arta ist bekannt für ihre Architektur und Legenden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.974272,
+                        39.151567
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παπακώστα",
+                  "text": "Ein historisches Herrenhaus in Arta, das die traditionelle lokale Architektur repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        20.985246,
+                        39.164884
+                  ]
+            },
+            {
+                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "text": "Eine historische osmanische Moschee und soziale Einrichtung in Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        20.972707,
+                        39.165964
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "text": "Eine bedeutende byzantinische Kirche in Arta, die der Schutzpatronin der Stadt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.983676,
+                        39.162715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "text": "Egy ókori Apollón-templom maradványai az artai történelmi híd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.982748,
+                        39.160784
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "text": "Ez az artai múzeum az ókori Amvrakia városából származó jelentős régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.979477,
+                        39.149511
+                  ]
+            },
+            {
+                  "name": "Γαρουφάλειος Στέγη",
+                  "text": "Helyi múzeum Artában, amely a regionális kulturális örökség megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        20.98318,
+                        39.159156
+                  ]
+            },
+            {
+                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "text": "Jelentős ókori temető Artában, amely az egykori Amvrakia városhoz tartozott.",
+                  "category": "historical",
+                  "coords": [
+                        20.982852,
+                        39.154862
+                  ]
+            },
+            {
+                  "name": "Το Γεφύρι της Άρτας",
+                  "text": "Arta híres történelmi kőhídja, amely építészetéről és a hozzá fűződő legendákról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.974272,
+                        39.151567
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παπακώστα",
+                  "text": "Történelmi udvarház Artában, amely a hagyományos helyi építészetet képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        20.985246,
+                        39.164884
+                  ]
+            },
+            {
+                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "text": "Történelmi oszmán mecset és szociális intézmény Artában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.972707,
+                        39.165964
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "text": "Jelentős bizánci templom Artában, amelyet a város védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.983676,
+                        39.162715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "text": "Vestigiile unui templu antic dedicat lui Apollo, situat lângă podul istoric din Arta.",
+                  "category": "historical",
+                  "coords": [
+                        20.982748,
+                        39.160784
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "text": "Acest muzeu din Arta expune descoperiri arheologice importante din orașul antic Amvrakia.",
+                  "category": "museum",
+                  "coords": [
+                        20.979477,
+                        39.149511
+                  ]
+            },
+            {
+                  "name": "Γαρουφάλειος Στέγη",
+                  "text": "Un muzeu local din Arta dedicat conservării moștenirii culturale regionale.",
+                  "category": "museum",
+                  "coords": [
+                        20.98318,
+                        39.159156
+                  ]
+            },
+            {
+                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "text": "Un cimitir antic important din Arta, care a aparținut orașului Amvrakia.",
+                  "category": "historical",
+                  "coords": [
+                        20.982852,
+                        39.154862
+                  ]
+            },
+            {
+                  "name": "Το Γεφύρι της Άρτας",
+                  "text": "Celebrul pod istoric din piatră din Arta este renumit pentru arhitectura sa și legendele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        20.974272,
+                        39.151567
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παπακώστα",
+                  "text": "Un conac istoric din Arta care reprezintă arhitectura locală tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        20.985246,
+                        39.164884
+                  ]
+            },
+            {
+                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "text": "O moschee istorică otomană și așezământ social din Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        20.972707,
+                        39.165964
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "text": "O biserică bizantină importantă din Arta, dedicată patroanei spirituale a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.983676,
+                        39.162715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Apollo",
+                  "text": "The remains of an ancient temple dedicated to Apollo near the historic bridge of Arta.",
+                  "category": "historical",
+                  "coords": [
+                        20.982748,
+                        39.160784
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Arta",
+                  "text": "This museum in Arta displays significant archaeological finds from the ancient city of Amvrakia.",
+                  "category": "museum",
+                  "coords": [
+                        20.979477,
+                        39.149511
+                  ]
+            },
+            {
+                  "name": "Garoufalios Stegi",
+                  "text": "A local museum in Arta dedicated to preserving the regional cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        20.98318,
+                        39.159156
+                  ]
+            },
+            {
+                  "name": "North-West Graveyard of the Ancient Amvrakia City",
+                  "text": "A significant ancient graveyard in Arta that belonged to the city of Amvrakia.",
+                  "category": "historical",
+                  "coords": [
+                        20.982852,
+                        39.154862
+                  ]
+            },
+            {
+                  "name": "The bridge of Arta",
+                  "text": "The famous historic stone bridge of Arta is known for its architecture and local legends.",
+                  "category": "landmark",
+                  "coords": [
+                        20.974272,
+                        39.151567
+                  ]
+            },
+            {
+                  "name": "Archontiko Papakosta",
+                  "text": "A historic manor in Arta representing traditional local architecture.",
+                  "category": "historical",
+                  "coords": [
+                        20.985246,
+                        39.164884
+                  ]
+            },
+            {
+                  "name": "Faik pasha mosque (Imaret)",
+                  "text": "A historic Ottoman mosque and social institution located in Arta.",
+                  "category": "landmark",
+                  "coords": [
+                        20.972707,
+                        39.165964
+                  ]
+            },
+            {
+                  "name": "Church of Saint Theodora",
+                  "text": "An important Byzantine church in Arta dedicated to the city's patron saint.",
+                  "category": "landmark",
+                  "coords": [
+                        20.983676,
+                        39.162715
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "bridge",
     name: { de: "Brücke von Arta", hu: "Ártai híd", ro: "Podul din Arta", en: "Bridge of Arta"},
@@ -1462,7 +2929,160 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       fr: ["Le musée a été officiellement ouvert au public le 20 juin 2009.", "La surface d'exposition totale est d'environ 14 000 mètres carrés.", "Plus de 4 000 artefacts antiques sont présentés dans le musée.", "La galerie du Parthénon est orientée selon un angle exact de 23 degrés par rapport à l'Acropole.", "Cinq des six cariatides originales de l'Érechthéion se trouvent au musée.", "Le bâtiment a été conçu pour résister à des séismes allant jusqu'à une magnitude de 10."],
     }, image: "/poi-images/greece-acropolis-museum-landmarks-v2.webp"},
   {
-    id: "greece-chlemoutsi-castle-landmarks-v2",
+    id: "greece-chlemoutsi-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο Χλεμούτσι",
+                  "text": "Eine bedeutende mittelalterliche Festung auf der Peloponnes in Griechenland.",
+                  "category": "castle",
+                  "coords": [
+                        21.141119,
+                        37.890327
+                  ]
+            },
+            {
+                  "name": "Römisches Theater",
+                  "text": "Überreste eines römischen Theaters in der Nähe der Burg Chlemoutsi.",
+                  "category": "cultural",
+                  "coords": [
+                        21.118968,
+                        37.85938
+                  ]
+            },
+            {
+                  "name": "Melissa",
+                  "text": "Ein Strandabschnitt in der Nähe der historischen Stätte von Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.108825,
+                        37.881051
+                  ]
+            },
+            {
+                  "name": "Μονή Βλαχερνών",
+                  "text": "Ein religiöser Ort in der Umgebung von Chlemoutsi Castle.",
+                  "category": "religious",
+                  "coords": [
+                        21.150141,
+                        37.918733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Χλεμούτσι",
+                  "text": "Jelentős középkori erődítmény a görögországi Peloponnészoszon.",
+                  "category": "castle",
+                  "coords": [
+                        21.141119,
+                        37.890327
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Θέατρο Λουτρών Κυλλήνης",
+                  "text": "Egy római színház maradványai a Chlemoutsi vár közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        21.118968,
+                        37.85938
+                  ]
+            },
+            {
+                  "name": "Melissa",
+                  "text": "Tengerparti szakasz a történelmi Chlemoutsi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.108825,
+                        37.881051
+                  ]
+            },
+            {
+                  "name": "Μονή Βλαχερνών",
+                  "text": "Vallási kegyhely Chlemoutsi várának környékén.",
+                  "category": "religious",
+                  "coords": [
+                        21.150141,
+                        37.918733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Χλεμούτσι",
+                  "text": "O fortăreață medievală importantă din Peloponez, Grecia.",
+                  "category": "castle",
+                  "coords": [
+                        21.141119,
+                        37.890327
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Θέατρο Λουτρών Κυλλήνης",
+                  "text": "Rămășițele unui teatru roman în apropierea castelului Chlemoutsi.",
+                  "category": "cultural",
+                  "coords": [
+                        21.118968,
+                        37.85938
+                  ]
+            },
+            {
+                  "name": "Melissa",
+                  "text": "O porțiune de plajă în apropierea sitului istoric Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.108825,
+                        37.881051
+                  ]
+            },
+            {
+                  "name": "Μονή Βλαχερνών",
+                  "text": "Un lăcaș de cult în împrejurimile castelului Chlemoutsi.",
+                  "category": "religious",
+                  "coords": [
+                        21.150141,
+                        37.918733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chlemoutsi castle",
+                  "text": "A significant medieval fortress in the Peloponnese, Greece.",
+                  "category": "castle",
+                  "coords": [
+                        21.141119,
+                        37.890327
+                  ]
+            },
+            {
+                  "name": "Roman Theater",
+                  "text": "Remains of a Roman theatre located near the Chlemoutsi castle.",
+                  "category": "cultural",
+                  "coords": [
+                        21.118968,
+                        37.85938
+                  ]
+            },
+            {
+                  "name": "Melissa",
+                  "text": "A stretch of beach located near the historical site of Chlemoutsi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.108825,
+                        37.881051
+                  ]
+            },
+            {
+                  "name": "Moni Vlachernon",
+                  "text": "A place of worship in the vicinity of Chlemoutsi Castle.",
+                  "category": "religious",
+                  "coords": [
+                        21.150141,
+                        37.918733
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "castle",
     name: { de: "Burg Chlemoutsi", hu: "Hlemúci vára", ro: "Castelul Chlemoutsi", en: "Chlemoutsi Castle" },
@@ -1548,7 +3168,304 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       fr: ["La forteresse se compose d'un total de cinq lignes de défense successives.", "Le port circulaire est protégé par deux tours de l'époque vénitienne.", "La célèbre bataille de Lépante a eu lieu le 7 octobre 1571 près de la ville.", "Les Vénitiens ont acheté Naupacte en 1407 pour 1 750 ducats.", "Le mur d'enceinte de la ville s'étend sur une longueur totale de près de 3 kilomètres.", "Le château a été construit sur les ruines d'une acropole antique."],
     }, image: "/poi-images/greece-castle-nafpaktos-landmarks-v2.webp"},
   {
-    id: "greece-panagia-ekatontapyliani-landmarks-v2",
+    id: "greece-panagia-ekatontapyliani-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asclepeion of Paros",
+                  "text": "Die archäologischen Überreste eines antiken Heiligtums des Asklepios auf Paros.",
+                  "category": "historical",
+                  "coords": [
+                        25.140765,
+                        37.078266
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Paros",
+                  "text": "Ein Museum auf Paros, das wichtige Funde aus der kykladischen Geschichte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        25.152979,
+                        37.084384
+                  ]
+            },
+            {
+                  "name": "Archilocheion",
+                  "text": "Eine antike Stätte auf Paros, die dem Dichter Archilochos gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        25.166118,
+                        37.088416
+                  ]
+            },
+            {
+                  "name": "Λιβάδια",
+                  "text": "Ein beliebter Sandstrand in der Nähe des Hafens von Parikia auf Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155194,
+                        37.093563
+                  ]
+            },
+            {
+                  "name": "Open Air Sanctuary",
+                  "text": "Überreste eines antiken griechischen Heiligtums unter freiem Himmel.",
+                  "category": "historical",
+                  "coords": [
+                        25.155135,
+                        37.084884
+                  ]
+            },
+            {
+                  "name": "Ancient Mosaic",
+                  "text": "Eine archäologische Fundstelle mit gut erhaltenen antiken Mosaikböden.",
+                  "category": "historical",
+                  "coords": [
+                        25.153648,
+                        37.083211
+                  ]
+            },
+            {
+                  "name": "Ancient pottery",
+                  "text": "Eine Ausgrabungsstätte, die antike Keramik und Töpferwaren zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        25.149571,
+                        37.081751
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Ein ruhiger Sandstrand in der Bucht von Parikia auf der Insel Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.145629,
+                        37.081874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asclepeion of Paros",
+                  "text": "Aszklépiosz ókori szentélyének régészeti maradványai Párosz szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        25.140765,
+                        37.078266
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Πάρου",
+                  "text": "Pároszi múzeum, amely a kükládi történelem fontos leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.152979,
+                        37.084384
+                  ]
+            },
+            {
+                  "name": "Archilocheion",
+                  "text": "Ókori emlékhely Pároszon, amelyet Arkhilokhosz költőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.166118,
+                        37.088416
+                  ]
+            },
+            {
+                  "name": "Λιβάδια",
+                  "text": "Népszerű homokos strand Párosz kikötője, Parikia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155194,
+                        37.093563
+                  ]
+            },
+            {
+                  "name": "Open Air Sanctuary",
+                  "text": "Egy ókori görög szabadtéri szentély maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        25.155135,
+                        37.084884
+                  ]
+            },
+            {
+                  "name": "Ancient Mosaic",
+                  "text": "Régészeti lelőhely jól megőrzött ókori mozaikpadlókkal.",
+                  "category": "historical",
+                  "coords": [
+                        25.153648,
+                        37.083211
+                  ]
+            },
+            {
+                  "name": "Ancient pottery",
+                  "text": "Régészeti feltárás, amely ókori kerámiákat és fazekasmunkákat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        25.149571,
+                        37.081751
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Csendes homokos strand a Párosz szigeti Parikia-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.145629,
+                        37.081874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asclepeion of Paros",
+                  "text": "Rămășițele arheologice ale unui sanctuar antic dedicat lui Asclepios pe Paros.",
+                  "category": "historical",
+                  "coords": [
+                        25.140765,
+                        37.078266
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Πάρου",
+                  "text": "Un muzeu pe Paros care expune descoperiri importante din istoria cicladică.",
+                  "category": "museum",
+                  "coords": [
+                        25.152979,
+                        37.084384
+                  ]
+            },
+            {
+                  "name": "Archilocheion",
+                  "text": "Un sit antic pe Paros dedicat poetului Archilochus.",
+                  "category": "historical",
+                  "coords": [
+                        25.166118,
+                        37.088416
+                  ]
+            },
+            {
+                  "name": "Λιβάδια",
+                  "text": "O plajă populară cu nisip situată lângă portul Parikia de pe Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155194,
+                        37.093563
+                  ]
+            },
+            {
+                  "name": "Open Air Sanctuary",
+                  "text": "Rămășițele unui sanctuar grecesc antic în aer liber.",
+                  "category": "historical",
+                  "coords": [
+                        25.155135,
+                        37.084884
+                  ]
+            },
+            {
+                  "name": "Ancient Mosaic",
+                  "text": "Un sit arheologic care prezintă pardoseli din mozaic antic bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        25.153648,
+                        37.083211
+                  ]
+            },
+            {
+                  "name": "Ancient pottery",
+                  "text": "Un sit de excavare care prezintă ceramică și olărit antic.",
+                  "category": "historical",
+                  "coords": [
+                        25.149571,
+                        37.081751
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "O plajă liniștită cu nisip situată în golful Parikia de pe insula Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.145629,
+                        37.081874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asclepeion of Paros",
+                  "text": "The archaeological remains of an ancient sanctuary dedicated to Asclepius on Paros.",
+                  "category": "historical",
+                  "coords": [
+                        25.140765,
+                        37.078266
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum Paros",
+                  "text": "A museum on Paros exhibiting important finds from Cycladic history.",
+                  "category": "museum",
+                  "coords": [
+                        25.152979,
+                        37.084384
+                  ]
+            },
+            {
+                  "name": "Archilocheion",
+                  "text": "An ancient site on Paros dedicated to the poet Archilochus.",
+                  "category": "historical",
+                  "coords": [
+                        25.166118,
+                        37.088416
+                  ]
+            },
+            {
+                  "name": "Livadia",
+                  "text": "A popular sandy beach located near the port of Parikia on Paros.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155194,
+                        37.093563
+                  ]
+            },
+            {
+                  "name": "Open Air Sanctuary",
+                  "text": "Remains of an ancient Greek open-air sanctuary.",
+                  "category": "historical",
+                  "coords": [
+                        25.155135,
+                        37.084884
+                  ]
+            },
+            {
+                  "name": "Ancient Mosaic",
+                  "text": "An archaeological site featuring well-preserved ancient mosaic floors.",
+                  "category": "historical",
+                  "coords": [
+                        25.153648,
+                        37.083211
+                  ]
+            },
+            {
+                  "name": "Ancient pottery",
+                  "text": "An excavation site showcasing ancient ceramics and pottery.",
+                  "category": "historical",
+                  "coords": [
+                        25.149571,
+                        37.081751
+                  ]
+            },
+            {
+                  "name": "krios Beach",
+                  "text": "A quiet sandy beach located in the bay of Parikia on Paros island.",
+                  "category": "recreational",
+                  "coords": [
+                        25.145629,
+                        37.081874
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "church",
     name: { de: "Panagia Ekatontapyliani", hu: "Panagia Ekatontapilianí", ro: "Panagia Ekatontapyliani", en: "Panagia Ekatontapyliani" },
@@ -1725,7 +3642,124 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     image: "/poi-images/greece-temple-athena-nike-landmarks-v2.webp",
   },
   {
-    id: "greece-filippi-archaeological-site-landmarks-v2",
+    id: "greece-filippi-archaeological-site-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dikili Tash",
+                  "text": "Ein bedeutender prähistorischer Siedlungshügel in der Nähe von Philippi, der wichtige archäologische Funde lieferte.",
+                  "category": "historical",
+                  "coords": [
+                        24.308773,
+                        41.010418
+                  ]
+            },
+            {
+                  "name": "Philippi Rock Art",
+                  "text": "Antike Felsritzungen in der Nähe von Philippi, die Einblicke in die frühe menschliche Kunst und Symbolik geben.",
+                  "category": "historical",
+                  "coords": [
+                        24.346653,
+                        41.016942
+                  ]
+            },
+            {
+                  "name": "Dikili Tash Caius Vibius Quartus Monument",
+                  "text": "Ein römisches Grabdenkmal in der Nähe von Dikili Tash, das einem hochrangigen Beamten gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        24.311247,
+                        41.012135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dikili Tash",
+                  "text": "Egy jelentős őskori településhalom Philippi közelében, amely fontos régészeti leletekkel szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        24.308773,
+                        41.010418
+                  ]
+            },
+            {
+                  "name": "Philippi Rock Art",
+                  "text": "Ősi sziklarajzok Philippi közelében, amelyek betekintést nyújtanak a korai emberi művészetbe és szimbolikába.",
+                  "category": "historical",
+                  "coords": [
+                        24.346653,
+                        41.016942
+                  ]
+            },
+            {
+                  "name": "Dikili Tash Caius Vibius Quartus Monument",
+                  "text": "Egy római síremlék Dikili Tash közelében, amelyet egy magas rangú tisztviselőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        24.311247,
+                        41.012135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dikili Tash",
+                  "text": "Un sit preistoric important de lângă Philippi, reprezentat de un dâmb care a oferit descoperiri arheologice valoroase.",
+                  "category": "historical",
+                  "coords": [
+                        24.308773,
+                        41.010418
+                  ]
+            },
+            {
+                  "name": "Philippi Rock Art",
+                  "text": "Gravuri rupestre antice lângă Philippi, care oferă o perspectivă asupra artei și simbolismului uman timpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        24.346653,
+                        41.016942
+                  ]
+            },
+            {
+                  "name": "Dikili Tash Caius Vibius Quartus Monument",
+                  "text": "Un monument funerar roman situat lângă Dikili Tash, dedicat unui oficial de rang înalt.",
+                  "category": "historical",
+                  "coords": [
+                        24.311247,
+                        41.012135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dikili Tash",
+                  "text": "A significant prehistoric settlement mound near Philippi that has yielded important archaeological finds.",
+                  "category": "historical",
+                  "coords": [
+                        24.308773,
+                        41.010418
+                  ]
+            },
+            {
+                  "name": "Philippi Rock Art",
+                  "text": "Ancient rock carvings near Philippi providing insight into early human art and symbolism.",
+                  "category": "historical",
+                  "coords": [
+                        24.346653,
+                        41.016942
+                  ]
+            },
+            {
+                  "name": "Dikili Tash Caius Vibius Quartus Monument",
+                  "text": "A Roman funerary monument located near Dikili Tash, dedicated to a high-ranking official.",
+                  "category": "historical",
+                  "coords": [
+                        24.311247,
+                        41.012135
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GR",
     name: { de: "Archäologische Stätte Philippi", hu: "Philippi régészeti lelőhely", ro: "Sit arheologic Philippi", en: "Archaeological Site of Philippi" },

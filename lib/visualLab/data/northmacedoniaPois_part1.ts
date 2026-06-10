@@ -137,7 +137,88 @@ export const mkPoisPart1: POI[] = [
     image: "/poi-images/MK-002-debar-lake.webp",
   },
   {
-    id: "MK-002-kodzadzik",
+    id: "MK-002-kodzadzik", "sights": {
+      "de": [
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Ein Gedenkzentrum zu Ehren der Familie von Mustafa Kemal Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "Historische Festungsruinen in der Nähe von Kodžadžik.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Musztafa Kemal Atatürk családjának emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "Történelmi várromok Kodžadžik közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Меморијален центар Коџаџик",
+                  "text": "Un centru memorial dedicat familiei lui Mustafa Kemal Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Свети Град",
+                  "text": "Ruinele unei cetăți istorice lângă Kodžadžik.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kodzhadzhik Memorial center",
+                  "text": "A memorial center dedicated to the family of Mustafa Kemal Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        20.600977,
+                        41.448223
+                  ]
+            },
+            {
+                  "name": "Sveti Grad",
+                  "text": "Historical fortress ruins located near Kodžadžik.",
+                  "category": "castle",
+                  "coords": [
+                        20.593339,
+                        41.448229
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-002",
     coords: [20.6083, 41.4422],
@@ -271,7 +352,124 @@ export const mkPoisPart1: POI[] = [
   },
   // MK-004: Mavrovo and Rostusa
   {
-    id: "MK-004-bigorski-monastery",
+    id: "MK-004-bigorski-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Меденица",
+                  "text": "Der höchste Gipfel des Bistra-Gebirges mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Дуф",
+                  "text": "Ein beeindruckender Wasserfall in der Nähe des Klosters Sveti Jovan Bigorski.",
+                  "category": "landmark",
+                  "coords": [
+                        20.595012,
+                        41.603043
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "Ein bedeutendes mazedonisch-orthodoxes Kloster, bekannt für seine exquisite holzgeschnitzte Ikonostase.",
+                  "category": "religious",
+                  "coords": [
+                        20.609492,
+                        41.621226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Меденица",
+                  "text": "A Bisztra-hegység legmagasabb csúcsa, ahonnan panorámás kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Дуф",
+                  "text": "Lenyűgöző vízesés a Szent János Bigorszki-kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.595012,
+                        41.603043
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "Jelentős macedón ortodox kolostor, amely kiváló fafaragású ikonosztázáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.609492,
+                        41.621226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Меденица",
+                  "text": "Cel mai înalt vârf al masivului muntos Bistra, oferind priveliști panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Дуф",
+                  "text": "O cascadă uimitoare situată în apropierea mănăstirii Sfântul Ioan Bigorski.",
+                  "category": "landmark",
+                  "coords": [
+                        20.595012,
+                        41.603043
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "O mănăstire ortodoxă macedoneană importantă, cunoscută pentru catapeteasma sa rafinată sculptată în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        20.609492,
+                        41.621226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medenica",
+                  "text": "The highest peak of the Bistra mountain range, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.657401,
+                        41.622867
+                  ]
+            },
+            {
+                  "name": "Duf",
+                  "text": "A stunning waterfall located in the vicinity of the Saint Jovan Bigorski Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        20.595012,
+                        41.603043
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist",
+                  "text": "A major Macedonian Orthodox monastery known for its exquisite wood-carved iconostasis.",
+                  "category": "religious",
+                  "coords": [
+                        20.609492,
+                        41.621226
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-004",
     coords: [20.6111, 41.6219],
@@ -315,7 +513,88 @@ export const mkPoisPart1: POI[] = [
     image: "/poi-images/MK-004-bigorski-monastery.webp",
   },
   {
-    id: "MK-004-mavrovo-lake",
+    id: "MK-004-mavrovo-lake", "sights": {
+      "de": [
+            {
+                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "text": "Ein Denkmal am Mavrovo-See zum Gedenken an die Erbauer des Wasserkraftwerks.",
+                  "category": "historical",
+                  "coords": [
+                        20.749057,
+                        41.697375
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Eine kleine orthodoxe Kirche in der Nähe des Mavrovo-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        20.686795,
+                        41.709896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "text": "Emlékmű a Mavrovo-tónál, a vízi erőmű építőinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        20.749057,
+                        41.697375
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Kisméretű ortodox templom a Mavrovo-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.686795,
+                        41.709896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "text": "Un monument la Lacul Mavrovo, ridicat în memoria constructorilor hidrocentralei.",
+                  "category": "historical",
+                  "coords": [
+                        20.749057,
+                        41.697375
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "O mică biserică ortodoxă situată în apropierea Lacului Mavrovo.",
+                  "category": "religious",
+                  "coords": [
+                        20.686795,
+                        41.709896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Builders who died building the Mavrovo HPP",
+                  "text": "A monument at Mavrovo Lake dedicated to the builders of the hydroelectric power plant.",
+                  "category": "historical",
+                  "coords": [
+                        20.749057,
+                        41.697375
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "A small Orthodox church located near Mavrovo Lake.",
+                  "category": "religious",
+                  "coords": [
+                        20.686795,
+                        41.709896
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MK-004",
     coords: [20.7333, 41.7167],
@@ -538,7 +817,88 @@ export const mkPoisPart1: POI[] = [
     image: "/poi-images/MK-006-vevcani-springs.webp",
   },
   {
-    id: "MK-006-vevcani-village",
+    id: "MK-006-vevcani-village", "sights": {
+      "de": [
+            {
+                  "name": "Вевчански Извори",
+                  "text": "Berühmte natürliche Quellen im Dorf Vevčani.",
+                  "category": "landmark",
+                  "coords": [
+                        20.584648,
+                        41.239443
+                  ]
+            },
+            {
+                  "name": "Starcha",
+                  "text": "Starcha ist ein Aussichtspunkt in Vevčani, der einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.581664,
+                        41.240721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вевчански Извори",
+                  "text": "Híres természetes források Vevčani falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.584648,
+                        41.239443
+                  ]
+            },
+            {
+                  "name": "Starcha",
+                  "text": "Starcha egy kilátópont Vevčani településen, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        20.581664,
+                        41.240721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вевчански Извори",
+                  "text": "Izvoare naturale renumite situate în satul Vevčani.",
+                  "category": "landmark",
+                  "coords": [
+                        20.584648,
+                        41.239443
+                  ]
+            },
+            {
+                  "name": "Starcha",
+                  "text": "Starcha este un punct de belvedere în Vevčani, oferind o vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        20.581664,
+                        41.240721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vevchani Springs",
+                  "text": "Famous natural springs located in the village of Vevčani.",
+                  "category": "landmark",
+                  "coords": [
+                        20.584648,
+                        41.239443
+                  ]
+            },
+            {
+                  "name": "Starcha",
+                  "text": "Starcha is a viewpoint in Vevčani offering broad views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        20.581664,
+                        41.240721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK-006",
     coords: [20.5928, 41.2408],
@@ -761,7 +1121,268 @@ export const mkPoisPart1: POI[] = [
   },
   // MK-009: Resen
   {
-    id: "MK-009-saraj-resen",
+    id: "MK-009-saraj-resen", "sights": {
+      "de": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "Dieses Gedenkhaus in Resen ist der Familie Tatarchev gewidmet, prominenten mazedonischen Persönlichkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "Das Saraj in Resen ist ein neoklassizistischer Palast, der heute ein Museum beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "Eine lokale religiöse Sehenswürdigkeit in der Gegend von Saraj of Resen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "Eine dem heiligen Georg gewidmete orthodoxe Kirche in Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "Eine historische Moschee in der nordmazedonischen Stadt Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "Eine traditionelle islamische Gebetsstätte in der Stadt Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "Eine nach den Slawenaposteln Kyrill und Method benannte Kirche in Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "Ez a reseni emlékház a Tatarchev családnak, neves macedón személyiségeknek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "A reseni Szaraj egy neoklasszicista palota, amely ma múzeumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "Helyi vallási nevezetesség és látnivaló Saraj of Resen területén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "Szent Györgynek szentelt ortodox templom Resenben.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "Történelmi mecset az észak-macedóniai Resen városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "Hagyományos iszlám istentiszteleti hely Resen városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "A szláv felvilágosítókról, Cirillről és Metódról elnevezett templom Resenben.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Спомен-куќа на Татарчеви",
+                  "text": "Această casă memorială din Resen este dedicată familiei Tatarchev, figuri proeminente macedonene.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Ресенски сарај",
+                  "text": "Sarajul din Resen este un palat neoclasic care adăpostește astăzi un muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Добровски Манастир",
+                  "text": "O atracție religioasă locală situată în zona Saraj of Resen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "Св. Ѓорѓи",
+                  "text": "O biserică ortodoxă închinată Sfântului Gheorghe, situată în Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Хаџимуратова џамија",
+                  "text": "O moschee istorică situată în orașul nord-macedonean Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Хаџирамаданова џамија",
+                  "text": "Un lăcaș de cult islamic tradițional în orașul Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Св. Кирил и Методиј",
+                  "text": "O biserică din Resen care poartă numele iluminiștilor slavi Chiril și Metodiu.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tatarchev House",
+                  "text": "This memorial house in Resen is dedicated to the Tatarchev family, prominent Macedonian figures.",
+                  "category": "museum",
+                  "coords": [
+                        21.013812,
+                        41.088372
+                  ]
+            },
+            {
+                  "name": "Saraj Resen",
+                  "text": "The Saraj in Resen is a beautiful Neoclassical palace that now houses a museum.",
+                  "category": "landmark",
+                  "coords": [
+                        21.015935,
+                        41.088155
+                  ]
+            },
+            {
+                  "name": "Monastery of Dobrovo",
+                  "text": "A local religious landmark and attraction in the Saraj of Resen area.",
+                  "category": "landmark",
+                  "coords": [
+                        21.030485,
+                        41.08301
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "An Orthodox church dedicated to Saint George, located in Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.00884,
+                        41.089676
+                  ]
+            },
+            {
+                  "name": "Hadji Murat Mosque",
+                  "text": "A historic mosque located in the North Macedonian town of Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.01124,
+                        41.092764
+                  ]
+            },
+            {
+                  "name": "Hadji Ramadan Mosque",
+                  "text": "A traditional Islamic place of worship in the town of Resen.",
+                  "category": "religious",
+                  "coords": [
+                        21.011495,
+                        41.090142
+                  ]
+            },
+            {
+                  "name": "Saints Cyril and Methodius",
+                  "text": "A church in Resen named after the Slavic enlighteners Cyril and Methodius.",
+                  "category": "religious",
+                  "coords": [
+                        21.009363,
+                        41.091707
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-009",
     coords: [21.0119, 41.0889],
@@ -805,7 +1426,196 @@ export const mkPoisPart1: POI[] = [
     image: "/poi-images/MK-009-saraj-resen.webp",
   },
   {
-    id: "MK-009-golem-grad",
+    id: "MK-009-golem-grad", "sights": {
+      "de": [
+            {
+                  "name": "Стара базилика",
+                  "text": "Die Old Basilica ist eine antike archäologische Ruine auf der Insel Golem Grad im Prespasee.",
+                  "category": "historical",
+                  "coords": [
+                        20.988744,
+                        40.867044
+                  ]
+            },
+            {
+                  "name": "Римска цистерна",
+                  "text": "Die Roman Cistern ist eine historische archäologische Stätte auf der Insel Golem Grad.",
+                  "category": "historical",
+                  "coords": [
+                        20.99044,
+                        40.868148
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Dieses Kulturdenkmal auf der Insel Golem Grad ist Teil des historischen Erbes der Prespa-Region.",
+                  "category": "historical",
+                  "coords": [
+                        20.972407,
+                        40.887855
+                  ]
+            },
+            {
+                  "name": "Monument Kulture \"Svjeta Bllashtoje\"",
+                  "text": "Das Denkmal „Svjeta Bllashtoje“ auf Golem Grad erinnert an die religiöse Geschichte der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        20.962622,
+                        40.843684
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja umfasst historische Ruinen auf der unbewohnten Insel Golem Grad.",
+                  "category": "historical",
+                  "coords": [
+                        20.947924,
+                        40.845048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Стара базилика",
+                  "text": "Az Old Basilica egy ókori régészeti maradvány a Preszpa-tóban található Golem Grad-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        20.988744,
+                        40.867044
+                  ]
+            },
+            {
+                  "name": "Римска цистерна",
+                  "text": "A Roman Cistern egy történelmi régészeti lelőhely a Golem Grad-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        20.99044,
+                        40.868148
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Ez a kulturális műemlék a Golem Grad-szigeten a Preszpa-vidék történelmi örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        20.972407,
+                        40.887855
+                  ]
+            },
+            {
+                  "name": "Monument Kulture \"Svjeta Bllashtoje\"",
+                  "text": "A Golem Grad-szigeti „Svjeta Bllashtoje” emlékmű a sziget vallástörténetére utal.",
+                  "category": "historical",
+                  "coords": [
+                        20.962622,
+                        40.843684
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja történelmi romokat jelöl a lakatlan Golem Grad-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        20.947924,
+                        40.845048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Стара базилика",
+                  "text": "Old Basilica este o ruină arheologică antică pe insula Golem Grad din Lacul Prespa.",
+                  "category": "historical",
+                  "coords": [
+                        20.988744,
+                        40.867044
+                  ]
+            },
+            {
+                  "name": "Римска цистерна",
+                  "text": "Roman Cistern este un sit arheologic istoric situat pe insula Golem Grad.",
+                  "category": "historical",
+                  "coords": [
+                        20.99044,
+                        40.868148
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Acest monument cultural de pe insula Golem Grad face parte din patrimoniul istoric al regiunii Prespa.",
+                  "category": "historical",
+                  "coords": [
+                        20.972407,
+                        40.887855
+                  ]
+            },
+            {
+                  "name": "Monument Kulture \"Svjeta Bllashtoje\"",
+                  "text": "Monumentul „Svjeta Bllashtoje” de pe insula Golem Grad amintește de istoria religioasă a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        20.962622,
+                        40.843684
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja cuprinde ruine istorice pe insula nelocuită Golem Grad.",
+                  "category": "historical",
+                  "coords": [
+                        20.947924,
+                        40.845048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Basilica",
+                  "text": "The Old Basilica is an ancient archaeological ruin on Golem Grad Island in Lake Prespa.",
+                  "category": "historical",
+                  "coords": [
+                        20.988744,
+                        40.867044
+                  ]
+            },
+            {
+                  "name": "Roman Cistern",
+                  "text": "The Roman Cistern is a historical archaeological site located on Golem Grad Island.",
+                  "category": "historical",
+                  "coords": [
+                        20.99044,
+                        40.868148
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "This cultural monument on Golem Grad Island is part of the historical heritage of the Prespa region.",
+                  "category": "historical",
+                  "coords": [
+                        20.972407,
+                        40.887855
+                  ]
+            },
+            {
+                  "name": "Monument Kulture \"Svjeta Bllashtoje\"",
+                  "text": "The \"Svjeta Bllashtoje\" monument on Golem Grad Island refers to the island's religious history.",
+                  "category": "historical",
+                  "coords": [
+                        20.962622,
+                        40.843684
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja comprises historical ruins on the uninhabited island of Golem Grad.",
+                  "category": "historical",
+                  "coords": [
+                        20.947924,
+                        40.845048
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-009",
     coords: [20.9858, 40.8653],
@@ -850,7 +1660,88 @@ export const mkPoisPart1: POI[] = [
   },
   // MK-010: Novo Selo
   {
-    id: "MK-010-kolesino-waterfall",
+    id: "MK-010-kolesino-waterfall", "sights": {
+      "de": [
+            {
+                  "name": "Колешински водопад",
+                  "text": "Ein beeindruckender Wasserfall bei Kolešino, der über mehrere Kaskaden in bewaldeter Umgebung herabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.806863,
+                        41.369436
+                  ]
+            },
+            {
+                  "name": "Gabrovo Waterfalls",
+                  "text": "Wasserfälle in der Nähe von Kolešino.",
+                  "category": "landmark",
+                  "coords": [
+                        22.789373,
+                        41.375616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Колешински водопад",
+                  "text": "Lenyűgöző vízesés Kolešino közelében, amely több kaskádon keresztül zúdul le erdős környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.806863,
+                        41.369436
+                  ]
+            },
+            {
+                  "name": "Gabrovo Waterfalls",
+                  "text": "Vízesések Kolešino közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.789373,
+                        41.375616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Колешински водопад",
+                  "text": "O cascadă impresionantă lângă Kolešino, care cade în mai multe trepte într-un cadru împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        22.806863,
+                        41.369436
+                  ]
+            },
+            {
+                  "name": "Gabrovo Waterfalls",
+                  "text": "Cascade în apropiere de Kolešino.",
+                  "category": "landmark",
+                  "coords": [
+                        22.789373,
+                        41.375616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koleshino Falls",
+                  "text": "An impressive waterfall near Kolešino that drops over several cascades in a forested setting.",
+                  "category": "landmark",
+                  "coords": [
+                        22.806863,
+                        41.369436
+                  ]
+            },
+            {
+                  "name": "Gabrovo Waterfalls",
+                  "text": "Waterfalls located near Kolešino.",
+                  "category": "landmark",
+                  "coords": [
+                        22.789373,
+                        41.375616
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-010",
     coords: [22.8114, 41.3822],
@@ -894,7 +1785,88 @@ export const mkPoisPart1: POI[] = [
     image: "/poi-images/MK-010-kolesino-waterfall.webp",
   },
   {
-    id: "MK-010-smolare-waterfall",
+    id: "MK-010-smolare-waterfall", "sights": {
+      "de": [
+            {
+                  "name": "Смоларски Водопади",
+                  "text": "Der höchste Wasserfall Nordmazedoniens, der am Berg Belasica herabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.899464,
+                        41.366006
+                  ]
+            },
+            {
+                  "name": "Тумба / Τούμπα",
+                  "text": "Ein Berggipfel, der den Grenzpunkt zwischen Nordmazedonien, Bulgarien und Griechenland markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.927551,
+                        41.338454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Смоларски Водопади",
+                  "text": "Észak-Macedónia legmagasabb vízesése a Belasica-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.899464,
+                        41.366006
+                  ]
+            },
+            {
+                  "name": "Тумба / Τούμπα",
+                  "text": "Hegyi csúcs, amely Észak-Macedónia, Bulgária és Görögország hármashatárát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.927551,
+                        41.338454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Смоларски Водопади",
+                  "text": "Cea mai înaltă cascadă din Macedonia de Nord, situată pe muntele Belasica.",
+                  "category": "landmark",
+                  "coords": [
+                        22.899464,
+                        41.366006
+                  ]
+            },
+            {
+                  "name": "Тумба / Τούμπα",
+                  "text": "Un vârf montan care marchează punctul de frontieră dintre Macedonia de Nord, Bulgaria și Grecia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.927551,
+                        41.338454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smolare Falls",
+                  "text": "The highest waterfall in North Macedonia, cascading down Mount Belasica.",
+                  "category": "landmark",
+                  "coords": [
+                        22.899464,
+                        41.366006
+                  ]
+            },
+            {
+                  "name": "Tumba",
+                  "text": "A mountain peak marking the border point between North Macedonia, Bulgaria, and Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        22.927551,
+                        41.338454
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-010",
     coords: [22.8983, 41.3653],

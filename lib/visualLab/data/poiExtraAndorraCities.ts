@@ -2402,6 +2402,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.59398,
                         42.560361
                   ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Eine bedeutende romanische Kirche in der Nähe von Meritxell.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
             }
       ],
       "hu": [
@@ -2610,6 +2619,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.59398,
                         42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Jelentős román stílusú templom Meritxell közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
                   ]
             }
       ],
@@ -2820,6 +2838,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.59398,
                         42.560361
                   ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "O biserică romanică importantă situată lângă Meritxell.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
             }
       ],
       "en": [
@@ -3028,6 +3055,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.59398,
                         42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "A significant Romanesque church located near Meritxell.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
                   ]
             }
       ]
@@ -6119,6 +6155,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Eine historische Sehenswürdigkeit in El Forn mit kultureller Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
             }
       ],
       "hu": [
@@ -6507,6 +6552,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Történelmi látnivaló El Fornban, amely kulturális jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
                   ]
             }
       ],
@@ -6897,6 +6951,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "O atracție istorică în El Forn cu importanță culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
             }
       ],
       "en": [
@@ -7285,6 +7348,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "A historical attraction in El Forn with cultural significance.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
                   ]
             }
       ]
@@ -11322,7 +11394,592 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["L'église romane Sant Vicenç date du XIIe siècle.", "Située sur la ligne de chemin de fer historique Transpirinenc.", "Altitude d'environ 1100 mètres dans la vallée de la rivière Rigard.", "Point de départ prisé pour l'ascension du mont Puigmal.", "Fait partie de la comarque du Ripollès dans la province de Gérone.", "L'architecture locale utilise traditionnellement le bois et la pierre."],
     }, image: "/poi-images/city-planoles-extra.webp"},
     {
-    id: "city-molleres-extra", "sights": {"de": [{"name": "Roc de les Bruixes", "text": "Eine archäologische Stätte mit bedeutenden prähistorischen Felsgravuren.", "category": "historical", "coords": [1.596624, 42.554187]}, {"name": "Museu de la Moto", "text": "Ein Museum, das eine umfangreiche Sammlung historischer Motorräder zeigt.", "category": "museum", "coords": [1.601206, 42.565871]}, {"name": "Pic de Torradella", "text": "Unweit der Ortschaft Molleres befindet sich der andorranische Berggipfel Pic de Torradella. Dieses lohnende Naturziel bietet Bergfreunden einen unverstellten Blick auf die imposante Gebirgskette der Pyrenäen. Besucher können sich auf majestätische Landschaften und raue alpine Schönheit einstellen.", "category": "natural", "coords": [1.624553, 42.593898]}, {"name": "Pic d'Encampadana", "text": "Ein markanter Gipfel, der weite Panoramablicke über die Region bietet.", "category": "natural", "coords": [1.633134, 42.557171]}, {"name": "Pic dels Maians", "text": "Ein Gipfel in der Gebirgslandschaft, ideal für Wanderungen.", "category": "natural", "coords": [1.627799, 42.552383]}, {"name": "Santuari vell de Meritxell", "text": "Die Ruinen des ursprünglichen Heiligtums, das 1972 durch ein Feuer zerstört wurde.", "category": "historical", "coords": [1.590784, 42.555198]}, {"name": "Santa Creu de Canillo", "text": "Ein historisches Steinkreuz und ein bekanntes Denkmal in Canillo.", "category": "landmark", "coords": [1.599751, 42.565846]}, {"name": "Mirador Roc del Quer", "text": "Ein Aussichtspunkt mit einer spektakulären Glasplattform über dem Abgrund.", "category": "natural", "coords": [1.591038, 42.567153]}, {"name": "Via ferrada Canal del Grau", "text": "Ein gesicherter Klettersteig für Abenteurer in den Bergen von Andorra.", "category": "landmark", "coords": [1.588518, 42.563777]}, {"name": "Mirador 1", "text": "Ein Haltepunkt, der einen weiten Blick auf das Tal bietet.", "category": "natural", "coords": [1.589435, 42.568341]}, {"name": "Pont Tibetà de Canillo", "text": "Eine der längsten tibetischen Hängebrücken in den Pyrenäen.", "category": "landmark", "coords": [1.610302, 42.576704]}, {"name": "Cruz de Meritxell", "text": "Ein Gedenkkreuz in der Nähe des Nationalheiligtums von Meritxell.", "category": "historical", "coords": [1.591693, 42.557215]}, {"name": "Sant Joan de Caselles", "text": "Eine romanische Kirche aus dem 11. Jahrhundert mit bedeutenden Wandmalereien.", "category": "religious", "coords": [1.607785, 42.570832]}, {"name": "Sant Pere del Tarter", "text": "Eine kleine romanische Kirche im traditionellen Bergdorf El Tarter.", "category": "religious", "coords": [1.653176, 42.578701]}, {"name": "Sant Miquel de Prats", "text": "Eine schlichte romanische Kapelle in der malerischen Siedlung Prats.", "category": "religious", "coords": [1.59398, 42.560361]}], "hu": [{"name": "Roc de les Bruixes", "text": "Jelentős őskori sziklavéseteket bemutató régészeti lelőhely.", "category": "historical", "coords": [1.596624, 42.554187]}, {"name": "Museu de la Moto", "text": "Történelmi motorkerékpárok széles gyűjteményét bemutató múzeum.", "category": "museum", "coords": [1.601206, 42.565871]}, {"name": "Pic de Torradella", "text": "A Molleres közelében emelkedő Pic de Torradella egy gyönyörű hegycsúcs Andorrában. Az ide látogató kirándulók lenyűgöző kilátást élvezhetnek a környező Pireneusok vonulataira. A csúcs meghódítása után a tiszta alpesi panoráma nyújt felejthetetlen élményt.", "category": "natural", "coords": [1.624553, 42.593898]}, {"name": "Pic d'Encampadana", "text": "Jellegzetes hegycsúcs, amely széles panorámát kínál a régióra.", "category": "natural", "coords": [1.633134, 42.557171]}, {"name": "Pic dels Maians", "text": "Hegycsúcs a hegyvidéki tájban, amely ideális túrázásra.", "category": "natural", "coords": [1.627799, 42.552383]}, {"name": "Santuari vell de Meritxell", "text": "Az eredeti szentély romjai, amely 1972-ben tűzvészben pusztult el.", "category": "historical", "coords": [1.590784, 42.555198]}, {"name": "Santa Creu de Canillo", "text": "Történelmi kőkereszt és ismert emlékmű Canillo településen.", "category": "landmark", "coords": [1.599751, 42.565846]}, {"name": "Mirador Roc del Quer", "text": "Kilátóhely látványos üvegplatformmal a szakadék felett.", "category": "natural", "coords": [1.591038, 42.567153]}, {"name": "Via ferrada Canal del Grau", "text": "Kiépített via ferrata útvonal kalandvágyóknak Andorra hegyeiben.", "category": "landmark", "coords": [1.588518, 42.563777]}, {"name": "Mirador 1", "text": "Megállóhely, amely széles kilátást nyújt a völgyre.", "category": "natural", "coords": [1.589435, 42.568341]}, {"name": "Pont Tibetà de Canillo", "text": "A Pireneusok egyik leghosszabb tibeti stílusú függőhídja.", "category": "landmark", "coords": [1.610302, 42.576704]}, {"name": "Cruz de Meritxell", "text": "Emlékkereszt a Meritxell-i nemzeti szentély közelében.", "category": "historical", "coords": [1.591693, 42.557215]}, {"name": "Sant Joan de Caselles", "text": "11. századi román stílusú templom jelentős falfestményekkel.", "category": "religious", "coords": [1.607785, 42.570832]}, {"name": "Sant Pere del Tarter", "text": "Kisméretű román stílusú templom El Tarter hagyományos hegyi faluban.", "category": "religious", "coords": [1.653176, 42.578701]}, {"name": "Sant Miquel de Prats", "text": "Egyszerű román stílusú kápolna Prats festői településén.", "category": "religious", "coords": [1.59398, 42.560361]}], "ro": [{"name": "Roc de les Bruixes", "text": "Un sit arheologic ce adăpostește importante gravuri rupestre preistorice.", "category": "historical", "coords": [1.596624, 42.554187]}, {"name": "Museu de la Moto", "text": "Un muzeu care expune o colecție vastă de motociclete istorice.", "category": "museum", "coords": [1.601206, 42.565871]}, {"name": "Pic de Torradella", "text": "Vârful montan Pic de Torradella veghează asupra așezării andorrane Molleres. Această destinație naturală este faimoasă printre pasionații de drumeții datorită priveliștii directe către Munții Pirinei. Călătorii sunt așteptați cu un peisaj alpin vast și plin de grandoare.", "category": "natural", "coords": [1.624553, 42.593898]}, {"name": "Pic d'Encampadana", "text": "Un vârf proeminent care oferă vederi panoramice largi asupra regiunii.", "category": "natural", "coords": [1.633134, 42.557171]}, {"name": "Pic dels Maians", "text": "Un vârf în peisajul montan, ideal pentru drumeții.", "category": "natural", "coords": [1.627799, 42.552383]}, {"name": "Santuari vell de Meritxell", "text": "Ruinele sanctuarului original, care a fost distrus de un incendiu în 1972.", "category": "historical", "coords": [1.590784, 42.555198]}, {"name": "Santa Creu de Canillo", "text": "O cruce de piatră istorică și un monument cunoscut în Canillo.", "category": "landmark", "coords": [1.599751, 42.565846]}, {"name": "Mirador Roc del Quer", "text": "Un punct de belvedere cu o platformă de sticlă spectaculoasă deasupra abisului.", "category": "natural", "coords": [1.591038, 42.567153]}, {"name": "Via ferrada Canal del Grau", "text": "O via ferrata securizată pentru aventurieri în munții Andorrei.", "category": "landmark", "coords": [1.588518, 42.563777]}, {"name": "Mirador 1", "text": "Un punct de oprire ce oferă o vedere largă asupra văii.", "category": "natural", "coords": [1.589435, 42.568341]}, {"name": "Pont Tibetà de Canillo", "text": "Unul dintre cele mai lungi poduri suspendate tibetane din Pirinei.", "category": "landmark", "coords": [1.610302, 42.576704]}, {"name": "Cruz de Meritxell", "text": "O cruce comemorativă situată în apropierea sanctuarului național Meritxell.", "category": "historical", "coords": [1.591693, 42.557215]}, {"name": "Sant Joan de Caselles", "text": "O biserică romanică din secolul al XI-lea, cu picturi murale importante.", "category": "religious", "coords": [1.607785, 42.570832]}, {"name": "Sant Pere del Tarter", "text": "O mică biserică romanică în satul montan tradițional El Tarter.", "category": "religious", "coords": [1.653176, 42.578701]}, {"name": "Sant Miquel de Prats", "text": "O capelă romanică simplă în așezarea pitorească Prats.", "category": "religious", "coords": [1.59398, 42.560361]}], "en": [{"name": "Roc de les Bruixes", "text": "An archaeological site featuring significant prehistoric rock engravings.", "category": "historical", "coords": [1.596624, 42.554187]}, {"name": "Museu de la Moto", "text": "A museum showcasing an extensive collection of historical motorcycles.", "category": "museum", "coords": [1.601206, 42.565871]}, {"name": "Pic de Torradella", "text": "Rising near the community of Molleres, the Pic de Torradella is a striking mountain peak in Andorra. Visitors reaching this natural vantage point are rewarded with magnificent, sweeping views over the Pyrenees. It provides an excellent outdoor experience for anyone wanting to take in the rugged alpine scenery.", "category": "natural", "coords": [1.624553, 42.593898]}, {"name": "Pic d'Encampadana", "text": "A prominent peak offering wide panoramic views over the region.", "category": "natural", "coords": [1.633134, 42.557171]}, {"name": "Pic dels Maians", "text": "A peak in the mountainous landscape, ideal for hiking.", "category": "natural", "coords": [1.627799, 42.552383]}, {"name": "Santuari vell de Meritxell", "text": "The ruins of the original sanctuary, which was destroyed by fire in 1972.", "category": "historical", "coords": [1.590784, 42.555198]}, {"name": "Santa Creu de Canillo", "text": "A historic stone cross and a well-known monument in Canillo.", "category": "landmark", "coords": [1.599751, 42.565846]}, {"name": "Mirador Roc del Quer", "text": "A viewpoint featuring a spectacular glass platform over the abyss.", "category": "natural", "coords": [1.591038, 42.567153]}, {"name": "Via ferrada Canal del Grau", "text": "A secured climbing route for adventurers in the mountains of Andorra.", "category": "landmark", "coords": [1.588518, 42.563777]}, {"name": "Mirador 1", "text": "A stopping point offering a broad view of the valley.", "category": "natural", "coords": [1.589435, 42.568341]}, {"name": "Pont Tibetà de Canillo", "text": "One of the longest Tibetan-style suspension bridges in the Pyrenees.", "category": "landmark", "coords": [1.610302, 42.576704]}, {"name": "Cruz de Meritxell", "text": "A commemorative cross located near the national sanctuary of Meritxell.", "category": "historical", "coords": [1.591693, 42.557215]}, {"name": "Sant Joan de Caselles", "text": "An 11th-century Romanesque church with important mural paintings.", "category": "religious", "coords": [1.607785, 42.570832]}, {"name": "Sant Pere del Tarter", "text": "A small Romanesque church in the traditional mountain village of El Tarter.", "category": "religious", "coords": [1.653176, 42.578701]}, {"name": "Sant Miquel de Prats", "text": "A simple Romanesque chapel in the picturesque settlement of Prats.", "category": "religious", "coords": [1.59398, 42.560361]}]},
+    id: "city-molleres-extra", "sights": {
+      "de": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Eine archäologische Stätte mit bedeutenden prähistorischen Felsgravuren.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "Ein Museum, das eine umfangreiche Sammlung historischer Motorräder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic de Torradella",
+                  "text": "Unweit der Ortschaft Molleres befindet sich der andorranische Berggipfel Pic de Torradella. Dieses lohnende Naturziel bietet Bergfreunden einen unverstellten Blick auf die imposante Gebirgskette der Pyrenäen. Besucher können sich auf majestätische Landschaften und raue alpine Schönheit einstellen.",
+                  "category": "natural",
+                  "coords": [
+                        1.624553,
+                        42.593898
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Ein markanter Gipfel, der weite Panoramablicke über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Ein Gipfel in der Gebirgslandschaft, ideal für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Die Ruinen des ursprünglichen Heiligtums, das 1972 durch ein Feuer zerstört wurde.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "Ein historisches Steinkreuz und ein bekanntes Denkmal in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Ein Aussichtspunkt mit einer spektakulären Glasplattform über dem Abgrund.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "Ein gesicherter Klettersteig für Abenteurer in den Bergen von Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Ein Haltepunkt, der einen weiten Blick auf das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "Eine der längsten tibetischen Hängebrücken in den Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "Ein Gedenkkreuz in der Nähe des Nationalheiligtums von Meritxell.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "Eine romanische Kirche aus dem 11. Jahrhundert mit bedeutenden Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Pere del Tarter",
+                  "text": "Eine kleine romanische Kirche im traditionellen Bergdorf El Tarter.",
+                  "category": "religious",
+                  "coords": [
+                        1.653176,
+                        42.578701
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Eine schlichte romanische Kapelle in der malerischen Siedlung Prats.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Eine kulturelle Sehenswürdigkeit in Molleres mit historischem Hintergrund.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Jelentős őskori sziklavéseteket bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "Történelmi motorkerékpárok széles gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic de Torradella",
+                  "text": "A Molleres közelében emelkedő Pic de Torradella egy gyönyörű hegycsúcs Andorrában. Az ide látogató kirándulók lenyűgöző kilátást élvezhetnek a környező Pireneusok vonulataira. A csúcs meghódítása után a tiszta alpesi panoráma nyújt felejthetetlen élményt.",
+                  "category": "natural",
+                  "coords": [
+                        1.624553,
+                        42.593898
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Jellegzetes hegycsúcs, amely széles panorámát kínál a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Hegycsúcs a hegyvidéki tájban, amely ideális túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Az eredeti szentély romjai, amely 1972-ben tűzvészben pusztult el.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "Történelmi kőkereszt és ismert emlékmű Canillo településen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Kilátóhely látványos üvegplatformmal a szakadék felett.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "Kiépített via ferrata útvonal kalandvágyóknak Andorra hegyeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Megállóhely, amely széles kilátást nyújt a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "A Pireneusok egyik leghosszabb tibeti stílusú függőhídja.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "Emlékkereszt a Meritxell-i nemzeti szentély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "11. századi román stílusú templom jelentős falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Pere del Tarter",
+                  "text": "Kisméretű román stílusú templom El Tarter hagyományos hegyi faluban.",
+                  "category": "religious",
+                  "coords": [
+                        1.653176,
+                        42.578701
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Egyszerű román stílusú kápolna Prats festői településén.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "Kulturális látnivaló Molleresben, történelmi háttérrel.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Un sit arheologic ce adăpostește importante gravuri rupestre preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "Un muzeu care expune o colecție vastă de motociclete istorice.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic de Torradella",
+                  "text": "Vârful montan Pic de Torradella veghează asupra așezării andorrane Molleres. Această destinație naturală este faimoasă printre pasionații de drumeții datorită priveliștii directe către Munții Pirinei. Călătorii sunt așteptați cu un peisaj alpin vast și plin de grandoare.",
+                  "category": "natural",
+                  "coords": [
+                        1.624553,
+                        42.593898
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Un vârf proeminent care oferă vederi panoramice largi asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Un vârf în peisajul montan, ideal pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Ruinele sanctuarului original, care a fost distrus de un incendiu în 1972.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "O cruce de piatră istorică și un monument cunoscut în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Un punct de belvedere cu o platformă de sticlă spectaculoasă deasupra abisului.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "O via ferrata securizată pentru aventurieri în munții Andorrei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Un punct de oprire ce oferă o vedere largă asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "Unul dintre cele mai lungi poduri suspendate tibetane din Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "O cruce comemorativă situată în apropierea sanctuarului național Meritxell.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "O biserică romanică din secolul al XI-lea, cu picturi murale importante.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Pere del Tarter",
+                  "text": "O mică biserică romanică în satul montan tradițional El Tarter.",
+                  "category": "religious",
+                  "coords": [
+                        1.653176,
+                        42.578701
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "O capelă romanică simplă în așezarea pitorească Prats.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "O atracție culturală în Molleres cu fundal istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "An archaeological site featuring significant prehistoric rock engravings.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "A museum showcasing an extensive collection of historical motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic de Torradella",
+                  "text": "Rising near the community of Molleres, the Pic de Torradella is a striking mountain peak in Andorra. Visitors reaching this natural vantage point are rewarded with magnificent, sweeping views over the Pyrenees. It provides an excellent outdoor experience for anyone wanting to take in the rugged alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.624553,
+                        42.593898
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "A prominent peak offering wide panoramic views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "A peak in the mountainous landscape, ideal for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "The ruins of the original sanctuary, which was destroyed by fire in 1972.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "A historic stone cross and a well-known monument in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "A viewpoint featuring a spectacular glass platform over the abyss.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "A secured climbing route for adventurers in the mountains of Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "A stopping point offering a broad view of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "One of the longest Tibetan-style suspension bridges in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "A commemorative cross located near the national sanctuary of Meritxell.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "An 11th-century Romanesque church with important mural paintings.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Pere del Tarter",
+                  "text": "A small Romanesque church in the traditional mountain village of El Tarter.",
+                  "category": "religious",
+                  "coords": [
+                        1.653176,
+                        42.578701
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "A simple Romanesque chapel in the picturesque settlement of Prats.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            },
+            {
+                  "name": "Sant Serni",
+                  "text": "A cultural attraction in Molleres with a historical background.",
+                  "category": "landmark",
+                  "coords": [
+                        1.597445,
+                        42.567521
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-02",
     coords: [1.62, 42.571],
@@ -24378,7 +25035,304 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["La vallée abrite la rivière Valira d'Orient, un affluent du Sègre.", "Le col d'Envalira est, avec 2 408 mètres, le col asphalté le plus haut des Pyrénées.", "Le domaine skiable de Grandvalira comprend plus de 210 kilomètres de pistes dans cette vallée.", "Le sanctuaire de Meritxell a été redessiné par Ricardo Bofill après un incendie en 1972.", "Canillo est le chef-lieu de la partie supérieure de la Vall d'Orient.", "Historiquement, les comtes de Foix contrôlaient l'accès à cette vallée."],
     }, image: "/poi-images/city-vall-dorient-extra.webp"},
   {
-    id: "city-riu-dels-llacs-extra",
+    id: "city-riu-dels-llacs-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alt del Griu",
+                  "text": "Ein markanter Gipfel in den andorranischen Pyrenäen mit herrlicher Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        1.651122,
+                        42.525406
+                  ]
+            },
+            {
+                  "name": "Montmalús",
+                  "text": "Ein bekannter Berg in der Nähe von Grau Roig, beliebt bei Skifahrern und Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        1.686563,
+                        42.508956
+                  ]
+            },
+            {
+                  "name": "Pessons",
+                  "text": "Ein felsiger Gipfel in der Region Encamp, bekannt für seine Seenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        1.664672,
+                        42.508131
+                  ]
+            },
+            {
+                  "name": "Ribuls",
+                  "text": "Ein Hochgebirgsgipfel in Andorra, der Teil der Pyrenäenkette ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.671709,
+                        42.506538
+                  ]
+            },
+            {
+                  "name": "Pic dels Colells",
+                  "text": "Ein Berg in der Nähe der französischen Grenze, ideal für Bergwanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.691999,
+                        42.506245
+                  ]
+            },
+            {
+                  "name": "Pic Alt del Cubil",
+                  "text": "Einer der höchsten Gipfel im Skigebiet Grandvalira in Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.670298,
+                        42.527799
+                  ]
+            },
+            {
+                  "name": "Pic Baix del Cubil",
+                  "text": "Ein kleinerer Nachbargipfel in der Gebirgsregion von Encamp.",
+                  "category": "landmark",
+                  "coords": [
+                        1.678307,
+                        42.530234
+                  ]
+            },
+            {
+                  "name": "Bony d'Envalira",
+                  "text": "Ein Gipfel an der Grenze zwischen Andorra und Frankreich.",
+                  "category": "landmark",
+                  "coords": [
+                        1.707321,
+                        42.518463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alt del Griu",
+                  "text": "Jellegzetes hegycsúcs az andorrai Pireneusokban, pazar kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        1.651122,
+                        42.525406
+                  ]
+            },
+            {
+                  "name": "Montmalús",
+                  "text": "Ismert hegy Grau Roig közelében, kedvelt a síelők és túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.686563,
+                        42.508956
+                  ]
+            },
+            {
+                  "name": "Pessons",
+                  "text": "Sziklás hegycsúcs Encamp régióban, amely a tavi tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        1.664672,
+                        42.508131
+                  ]
+            },
+            {
+                  "name": "Ribuls",
+                  "text": "Magashegyi csúcs Andorrában, a Pireneusok hegyláncának része.",
+                  "category": "landmark",
+                  "coords": [
+                        1.671709,
+                        42.506538
+                  ]
+            },
+            {
+                  "name": "Pic dels Colells",
+                  "text": "Hegy a francia határ közelében, amely ideális hegyi túrázáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        1.691999,
+                        42.506245
+                  ]
+            },
+            {
+                  "name": "Pic Alt del Cubil",
+                  "text": "Andorra egyik legmagasabb csúcsa a Grandvalira síterületen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.670298,
+                        42.527799
+                  ]
+            },
+            {
+                  "name": "Pic Baix del Cubil",
+                  "text": "Egy kisebb szomszédos csúcs Encamp hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.678307,
+                        42.530234
+                  ]
+            },
+            {
+                  "name": "Bony d'Envalira",
+                  "text": "Hegycsúcs Andorra és Franciaország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        1.707321,
+                        42.518463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alt del Griu",
+                  "text": "Un vârf proeminent în Pirineii andorrani, oferind vederi spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        1.651122,
+                        42.525406
+                  ]
+            },
+            {
+                  "name": "Montmalús",
+                  "text": "Un munte cunoscut lângă Grau Roig, popular printre schiori și drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        1.686563,
+                        42.508956
+                  ]
+            },
+            {
+                  "name": "Pessons",
+                  "text": "Un vârf stâncos în regiunea Encamp, cunoscut pentru peisajul său lacustru.",
+                  "category": "landmark",
+                  "coords": [
+                        1.664672,
+                        42.508131
+                  ]
+            },
+            {
+                  "name": "Ribuls",
+                  "text": "Un vârf montan înalt în Andorra, parte a lanțului Pirineilor.",
+                  "category": "landmark",
+                  "coords": [
+                        1.671709,
+                        42.506538
+                  ]
+            },
+            {
+                  "name": "Pic dels Colells",
+                  "text": "Un munte situat aproape de granița cu Franța, ideal pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        1.691999,
+                        42.506245
+                  ]
+            },
+            {
+                  "name": "Pic Alt del Cubil",
+                  "text": "Unul dintre cele mai înalte vârfuri din domeniul schiabil Grandvalira din Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.670298,
+                        42.527799
+                  ]
+            },
+            {
+                  "name": "Pic Baix del Cubil",
+                  "text": "Un vârf vecin mai mic în regiunea montană Encamp.",
+                  "category": "landmark",
+                  "coords": [
+                        1.678307,
+                        42.530234
+                  ]
+            },
+            {
+                  "name": "Bony d'Envalira",
+                  "text": "Un vârf situat la granița dintre Andorra și Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        1.707321,
+                        42.518463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alt del Griu",
+                  "text": "A prominent peak in the Andorran Pyrenees offering magnificent views.",
+                  "category": "landmark",
+                  "coords": [
+                        1.651122,
+                        42.525406
+                  ]
+            },
+            {
+                  "name": "Montmalús",
+                  "text": "A well-known mountain near Grau Roig, popular with skiers and hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        1.686563,
+                        42.508956
+                  ]
+            },
+            {
+                  "name": "Pessons",
+                  "text": "A rocky peak in the Encamp region, known for its surrounding lake landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        1.664672,
+                        42.508131
+                  ]
+            },
+            {
+                  "name": "Ribuls",
+                  "text": "A high mountain peak in Andorra, part of the Pyrenees mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        1.671709,
+                        42.506538
+                  ]
+            },
+            {
+                  "name": "Pic dels Colells",
+                  "text": "A mountain near the French border, ideal for alpine hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        1.691999,
+                        42.506245
+                  ]
+            },
+            {
+                  "name": "Pic Alt del Cubil",
+                  "text": "One of the highest peaks in the Grandvalira ski area of Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.670298,
+                        42.527799
+                  ]
+            },
+            {
+                  "name": "Pic Baix del Cubil",
+                  "text": "A smaller neighboring peak in the mountainous region of Encamp.",
+                  "category": "landmark",
+                  "coords": [
+                        1.678307,
+                        42.530234
+                  ]
+            },
+            {
+                  "name": "Bony d'Envalira",
+                  "text": "A mountain peak located on the border between Andorra and France.",
+                  "category": "landmark",
+                  "coords": [
+                        1.707321,
+                        42.518463
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-03",
     coords: [1.68, 42.525],
@@ -39402,7 +40356,304 @@ export const poiExtraAndorraCities: POI[] = [
     image: "/poi-images/city-borda-rossell-extra.webp",
   },
   {
-    id: "city-comapedrosa-base-extra",
+    id: "city-comapedrosa-base-extra", "sights": {
+      "de": [
+            {
+                  "name": "Parc Natural Comunal de les Valls del Comapedrosa",
+                  "text": "Dieser Naturpark in Andorra schützt die alpine Landschaft rund um den höchsten Gipfel des Landes.",
+                  "category": "natural",
+                  "coords": [
+                        1.463368,
+                        42.588028
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Die Agulla de Baiau ist ein markanter Felsgipfel in den Pyrenäen an der Grenze zwischen Andorra und Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Pic de Comapedrosa",
+                  "text": "Der Pic de Comapedrosa ist mit 2942 Metern der höchste Berg des Fürstentums Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.443661,
+                        42.591799
+                  ]
+            },
+            {
+                  "name": "Pic de Baiau",
+                  "text": "Der Pic de Baiau ist ein Berggipfel in den Pyrenäen, der spektakuläre Ausblicke über die Grenzregion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.440594,
+                        42.59444
+                  ]
+            },
+            {
+                  "name": "Roca Entravessada",
+                  "text": "Die Roca Entravessada ist ein beeindruckender Gipfel in den nordwestlichen Pyrenäen von Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.442188,
+                        42.598394
+                  ]
+            },
+            {
+                  "name": "Pic de les Fonts",
+                  "text": "Der Pic de les Fonts ist ein Gipfel in der Region Coma Pedrosa, bekannt für seine Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        1.478188,
+                        42.601146
+                  ]
+            },
+            {
+                  "name": "Pic dels Aspres",
+                  "text": "Der Pic dels Aspres ist ein markanter Berg in der Nähe der Grenze zu Frankreich in den Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.452583,
+                        42.57393
+                  ]
+            },
+            {
+                  "name": "Cap de les Canales de Ribanelles",
+                  "text": "Das Cap de les Canales de Ribanelles ist ein Gipfel im Hochgebirge von Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.457757,
+                        42.575196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Natural Comunal de les Valls del Comapedrosa",
+                  "text": "Ez az andorrai natúrpark az ország legmagasabb csúcsa körüli alpesi tájat védi.",
+                  "category": "natural",
+                  "coords": [
+                        1.463368,
+                        42.588028
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Az Agulla de Baiau egy jellegzetes sziklacsúcs a Pireneusokban, Andorra és Spanyolország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Pic de Comapedrosa",
+                  "text": "A Pic de Comapedrosa 2942 méteres magasságával Andorra legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        1.443661,
+                        42.591799
+                  ]
+            },
+            {
+                  "name": "Pic de Baiau",
+                  "text": "A Pic de Baiau egy hegycsúcs a Pireneusokban, amely látványos kilátást nyújt a határvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        1.440594,
+                        42.59444
+                  ]
+            },
+            {
+                  "name": "Roca Entravessada",
+                  "text": "A Roca Entravessada egy lenyűgöző hegycsúcs Andorra északnyugati Pireneusaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.442188,
+                        42.598394
+                  ]
+            },
+            {
+                  "name": "Pic de les Fonts",
+                  "text": "A Pic de les Fonts egy hegycsúcs a Coma Pedrosa régióban, amely túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        1.478188,
+                        42.601146
+                  ]
+            },
+            {
+                  "name": "Pic dels Aspres",
+                  "text": "A Pic dels Aspres egy jellegzetes hegy a francia határ közelében, a Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.452583,
+                        42.57393
+                  ]
+            },
+            {
+                  "name": "Cap de les Canales de Ribanelles",
+                  "text": "A Cap de les Canales de Ribanelles egy hegycsúcs Andorra magashegységi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.457757,
+                        42.575196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Natural Comunal de les Valls del Comapedrosa",
+                  "text": "Acest parc natural din Andorra protejează peisajul alpin din jurul celui mai înalt vârf al țării.",
+                  "category": "natural",
+                  "coords": [
+                        1.463368,
+                        42.588028
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Agulla de Baiau este un vârf stâncos proeminent din Pirinei, la granița dintre Andorra și Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Pic de Comapedrosa",
+                  "text": "Pic de Comapedrosa este cel mai înalt munte din Andorra, având o înălțime de 2942 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        1.443661,
+                        42.591799
+                  ]
+            },
+            {
+                  "name": "Pic de Baiau",
+                  "text": "Pic de Baiau este un vârf montan din Pirinei, oferind vederi spectaculoase asupra regiunii de graniță.",
+                  "category": "landmark",
+                  "coords": [
+                        1.440594,
+                        42.59444
+                  ]
+            },
+            {
+                  "name": "Roca Entravessada",
+                  "text": "Roca Entravessada este un vârf impresionant din Pirineii nord-vestici ai Andorrei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.442188,
+                        42.598394
+                  ]
+            },
+            {
+                  "name": "Pic de les Fonts",
+                  "text": "Pic de les Fonts este un vârf din regiunea Coma Pedrosa, cunoscut pentru traseele sale de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        1.478188,
+                        42.601146
+                  ]
+            },
+            {
+                  "name": "Pic dels Aspres",
+                  "text": "Pic dels Aspres este un munte proeminent în apropierea graniței cu Franța, în Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.452583,
+                        42.57393
+                  ]
+            },
+            {
+                  "name": "Cap de les Canales de Ribanelles",
+                  "text": "Cap de les Canales de Ribanelles este un vârf în zona montană înaltă a Andorrei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.457757,
+                        42.575196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Natural Comunal de les Valls del Comapedrosa",
+                  "text": "This nature park in Andorra protects the alpine landscape around the highest peak of the country.",
+                  "category": "natural",
+                  "coords": [
+                        1.463368,
+                        42.588028
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Agulla de Baiau is a prominent rocky peak in the Pyrenees on the border between Andorra and Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Pic de Comapedrosa",
+                  "text": "Pic de Comapedrosa is the highest mountain in Andorra, reaching an elevation of 2,942 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        1.443661,
+                        42.591799
+                  ]
+            },
+            {
+                  "name": "Pic de Baiau",
+                  "text": "Pic de Baiau is a mountain peak in the Pyrenees, offering spectacular views over the border region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.440594,
+                        42.59444
+                  ]
+            },
+            {
+                  "name": "Roca Entravessada",
+                  "text": "Roca Entravessada is an impressive peak in the northwestern Pyrenees of Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.442188,
+                        42.598394
+                  ]
+            },
+            {
+                  "name": "Pic de les Fonts",
+                  "text": "Pic de les Fonts is a peak in the Coma Pedrosa region, known for its hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        1.478188,
+                        42.601146
+                  ]
+            },
+            {
+                  "name": "Pic dels Aspres",
+                  "text": "Pic dels Aspres is a prominent mountain located near the French border in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.452583,
+                        42.57393
+                  ]
+            },
+            {
+                  "name": "Cap de les Canales de Ribanelles",
+                  "text": "Cap de les Canales de Ribanelles is a peak in the high mountain area of Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.457757,
+                        42.575196
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-04",
     coords: [1.46, 42.578],
@@ -40894,6 +42145,60 @@ export const poiExtraAndorraCities: POI[] = [
                         1.513472,
                         42.547043
                   ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Dieses Postmuseum in La Cortinada zeigt die Entwicklung der Kommunikation in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Mina de Llorts",
+                  "text": "Die Mina de Llorts in La Cortinada ist ein Museum, das Einblicke in den historischen Bergbau gibt.",
+                  "category": "museum",
+                  "coords": [
+                        1.532425,
+                        42.59956
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Der Pic del Sola d'Erts ist ein Berggipfel in der Umgebung von La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Der Roc de la Cauba ist eine Erhebung bei La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic del Clot del Cavall",
+                  "text": "Der Pic del Clot del Cavall ist ein Berggipfel in der Nähe von La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495582,
+                        42.594866
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Der Pic de Percanela ist ein Gipfel in der Berglandschaft von La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
+                  ]
             }
       ],
       "hu": [
@@ -41129,6 +42434,60 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.513472,
                         42.547043
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Ez a La Cortinada-i Postamúzeum az andorrai kommunikáció fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Mina de Llorts",
+                  "text": "A La Cortinada-i Mina de Llorts egy múzeum, amely a történelmi bányászatba enged betekintést.",
+                  "category": "museum",
+                  "coords": [
+                        1.532425,
+                        42.59956
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "A Pic del Sola d'Erts egy hegycsúcs La Cortinada környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "A Roc de la Cauba egy hegycsúcs La Cortinada közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic del Clot del Cavall",
+                  "text": "A Pic del Clot del Cavall egy hegycsúcs La Cortinada közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495582,
+                        42.594866
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "A Pic de Percanela egy hegycsúcs La Cortinada hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
                   ]
             }
       ],
@@ -41366,6 +42725,60 @@ export const poiExtraAndorraCities: POI[] = [
                         1.513472,
                         42.547043
                   ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Acest muzeu poștal din La Cortinada prezintă evoluția comunicațiilor în Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Mina de Llorts",
+                  "text": "Mina de Llorts din La Cortinada este un muzeu ce oferă informații despre mineritul istoric.",
+                  "category": "museum",
+                  "coords": [
+                        1.532425,
+                        42.59956
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Pic del Sola d'Erts este un vârf muntos în zona La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Roc de la Cauba este un vârf situat lângă La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic del Clot del Cavall",
+                  "text": "Pic del Clot del Cavall este un vârf muntos situat lângă La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495582,
+                        42.594866
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Pic de Percanela este un vârf situat în peisajul montan din La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
+                  ]
             }
       ],
       "en": [
@@ -41601,6 +43014,60 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.513472,
                         42.547043
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "This postal museum in La Cortinada showcases the evolution of communication in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Mina de Llorts",
+                  "text": "Mina de Llorts in La Cortinada is a museum providing insight into historical mining.",
+                  "category": "museum",
+                  "coords": [
+                        1.532425,
+                        42.59956
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Pic del Sola d'Erts is a mountain peak in the La Cortinada area.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Roc de la Cauba is a peak located near La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic del Clot del Cavall",
+                  "text": "Pic del Clot del Cavall is a mountain peak located near La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495582,
+                        42.594866
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Pic de Percanela is a peak in the mountain landscape of La Cortinada.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
                   ]
             }
       ]
@@ -43864,6 +45331,60 @@ export const poiExtraAndorraCities: POI[] = [
                         1.513472,
                         42.547043
                   ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Das Postmuseum in Ancodina widmet sich der Philatelie und Postgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Les Fontetes ist ein Theater- und Kulturzentrum in Ancodina.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Das Eisenmuseum in Ancodina zeigt die traditionelle Metallverarbeitung der Region.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Der Pic del Sola d'Erts ist ein markanter Gipfel nahe Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Der Roc de la Cauba ist ein Berg in der Umgebung von Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Der Pic de Percanela ist eine Erhebung in der Nähe von Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
+                  ]
             }
       ],
       "hu": [
@@ -44072,6 +45593,60 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.513472,
                         42.547043
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Az ancodinai Postamúzeum a filatéliának és a postatörténetnek szentelt helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "A Les Fontetes egy színház- és kulturális központ Ancodina településen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Az ancodinai Vasmúzeum a régió hagyományos fémfeldolgozását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "A Pic del Sola d'Erts egy jellegzetes hegycsúcs Ancodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "A Roc de la Cauba egy hegy Ancodina környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "A Pic de Percanela egy hegycsúcs Ancodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
                   ]
             }
       ],
@@ -44282,6 +45857,60 @@ export const poiExtraAndorraCities: POI[] = [
                         1.513472,
                         42.547043
                   ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Muzeul Poștal din Ancodina este dedicat filateliei și istoriei poștale.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Les Fontetes este un centru teatral și cultural din Ancodina.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Muzeul Fierului din Ancodina prezintă prelucrarea tradițională a metalelor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Pic del Sola d'Erts este un vârf proeminent situat lângă Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Roc de la Cauba este un munte situat în împrejurimile localității Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Pic de Percanela este un vârf muntos situat lângă Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
+                  ]
             }
       ],
       "en": [
@@ -44490,6 +46119,60 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.513472,
                         42.547043
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "The Postal Museum in Ancodina is dedicated to philately and postal history.",
+                  "category": "museum",
+                  "coords": [
+                        1.534147,
+                        42.556547
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Les Fontetes is a theatre and cultural centre in Ancodina.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "The Iron Museum in Ancodina showcases the traditional metalworking of the region.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Sola d'Erts",
+                  "text": "Pic del Sola d'Erts is a prominent peak near Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Roc de la Cauba is a mountain in the vicinity of Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de Percanela",
+                  "text": "Pic de Percanela is a mountain peak located near Ancodina.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496617,
+                        42.589551
                   ]
             }
       ]
@@ -50330,6 +52013,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Parc Natural de la Vall de Sorteny",
+                  "text": "Das Naturreservat Vall de Sorteny in Pont d'Arcalís ist bekannt für seine reiche Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        1.579876,
+                        42.619258
+                  ]
             }
       ],
       "hu": [
@@ -50610,6 +52302,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Vall de Sorteny",
+                  "text": "A Pont d'Arcalís-i Vall de Sorteny természetvédelmi terület gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        1.579876,
+                        42.619258
                   ]
             }
       ],
@@ -50892,6 +52593,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Parc Natural de la Vall de Sorteny",
+                  "text": "Rezervația naturală Vall de Sorteny din Pont d'Arcalís este cunoscută pentru biodiversitatea sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        1.579876,
+                        42.619258
+                  ]
             }
       ],
       "en": [
@@ -51172,6 +52882,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Parc Natural de la Vall de Sorteny",
+                  "text": "The Vall de Sorteny nature reserve in Pont d'Arcalís is known for its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        1.579876,
+                        42.619258
                   ]
             }
       ]
@@ -56106,6 +57825,69 @@ export const poiExtraAndorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Ein Museum in einer ehemaligen Fabrik, das die Geschichte der Tabakproduktion in Andorra zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Ein Berggipfel in der Nähe von Juberri im Süden von Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Ein Berggipfel in den Pyrenäen nahe der Grenze zwischen Andorra und Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Eine kleine religiöse Kapelle oder ein Denkmal in der Nähe von Juberri.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Ein Aussichtspunkt auf 1.500 Metern Höhe mit Blick auf das Tal des Riu Runer.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt in den Bergen bei Juberri.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Ein Gebirgspass und Aussichtspunkt mit weitem Blick über die andorranische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
             }
       ],
       "hu": [
@@ -56134,6 +57916,69 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Egy egykori gyárban berendezett múzeum, amely Andorra dohánytermelésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Hegyi csúcs Juberri közelében, Andorra déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Hegyi csúcs a Pireneusokban, az andorrai-spanyol határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Kis vallási kápolna vagy emlékmű Juberri közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "1500 méteres magasságban lévő kilátópont, ahonnan kilátás nyílik a Riu Runer völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Szép kilátást nyújtó pont a Juberri környéki hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Hegyi hágó és kilátópont, ahonnan széles kilátás nyílik az andorrai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
                   ]
             }
       ],
@@ -56164,6 +58009,69 @@ export const poiExtraAndorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Un muzeu situat într-o fostă fabrică, prezentând istoria producției de tutun în Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Un vârf montan situat lângă Juberri, în sudul Andorrei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Un vârf montan în Pirinei, lângă granița dintre Andorra și Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "O mică capelă religioasă sau monument situat lângă Juberri.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Un punct de observație la 1.500 de metri altitudine, oferind vederi asupra văii Riu Runer.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Un punct de observație pitoresc în munții de lângă Juberri.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "O trecătoare montană și punct de observație cu vederi ample asupra peisajului andorran.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
             }
       ],
       "en": [
@@ -56192,6 +58100,69 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "A museum housed in a former factory, showcasing the history of tobacco production in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "A mountain peak located near Juberri in southern Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "A mountain peak in the Pyrenees near the border between Andorra and Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "A small religious chapel or monument located near Juberri.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Riu Runer Viewpoint (1.500m)",
+                  "text": "A viewpoint at 1,500 meters altitude offering views over the Riu Runer valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "A scenic viewpoint in the mountains near Juberri.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "A mountain pass and viewpoint offering broad vistas of the Andorran landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
                   ]
             }
       ]
@@ -59484,6 +61455,69 @@ export const poiExtraAndorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Cap de Boloriu",
+                  "text": "Ein Berggipfel in Andorra mit weitem Blick über die Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.48213,
+                        42.416282
+                  ]
+            },
+            {
+                  "name": "Pujagalet",
+                  "text": "Ein malerischer Gipfel im südlichen Teil von Andorra in der Nähe von Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.437237,
+                        42.449438
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Ein markanter Felsgipfel in der Gebirgslandschaft bei Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "Santa Maria de Feners",
+                  "text": "Die Ruinen einer alten romanischen Kirche in Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.442595,
+                        42.438583
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Ein religiöses Denkmal und eine Kapelle in der Region Canòlic in Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Ein Aussichtspunkt auf 1.500 Metern mit Blick über das Tal des Riu Runer.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Ein Gebirgspass und Aussichtspunkt mit Blick auf die umliegende andorranische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
             }
       ],
       "hu": [
@@ -59503,6 +61537,69 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Cap de Boloriu",
+                  "text": "Hegyi csúcs Andorrában, amely széles kilátást nyújt a Pireneusokra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.48213,
+                        42.416282
+                  ]
+            },
+            {
+                  "name": "Pujagalet",
+                  "text": "Festői hegycsúcs Andorra déli részén, Canòlic közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.437237,
+                        42.449438
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Kiemelkedő sziklacsúcs a Canòlic környéki hegyvidéki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "Santa Maria de Feners",
+                  "text": "Egy régi román stílusú templom romjai Andorrában.",
+                  "category": "historical",
+                  "coords": [
+                        1.442595,
+                        42.438583
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Vallási emlékmű és kápolna Andorra Canòlic régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "1500 méteres magasságban található kilátópont, ahonnan kilátás nyílik a Riu Runer völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "Hegyi hágó és kilátópont, ahonnan kilátás nyílik a környező andorrai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
                   ]
             }
       ],
@@ -59524,6 +61621,69 @@ export const poiExtraAndorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Cap de Boloriu",
+                  "text": "Un vârf muntos din Andorra, care oferă vederi largi asupra Pirineilor.",
+                  "category": "landmark",
+                  "coords": [
+                        1.48213,
+                        42.416282
+                  ]
+            },
+            {
+                  "name": "Pujagalet",
+                  "text": "Un vârf pitoresc situat în partea de sud a Andorrei, lângă Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.437237,
+                        42.449438
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "Un vârf stâncos proeminent în peisajul montan de lângă Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "Santa Maria de Feners",
+                  "text": "Ruinele unei vechi biserici romanice situate în Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.442595,
+                        42.438583
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Un monument religios și o capelă în regiunea Canòlic din Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Mirador Riu Runer (1.500m)",
+                  "text": "Un punct de belvedere la 1.500 de metri, care oferă panorame asupra văii Riu Runer.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "O trecătoare montană și un punct de belvedere care oferă vederi asupra peisajului andorran din jur.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
+                  ]
             }
       ],
       "en": [
@@ -59543,6 +61703,69 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Cap de Boloriu",
+                  "text": "A mountain peak in Andorra offering expansive views of the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.48213,
+                        42.416282
+                  ]
+            },
+            {
+                  "name": "Pujagalet",
+                  "text": "A scenic peak located in the southern part of Andorra near Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.437237,
+                        42.449438
+                  ]
+            },
+            {
+                  "name": "Roca Major",
+                  "text": "A prominent rock peak in the mountainous landscape near Canòlic.",
+                  "category": "landmark",
+                  "coords": [
+                        1.499972,
+                        42.434789
+                  ]
+            },
+            {
+                  "name": "Santa Maria de Feners",
+                  "text": "The ruins of an ancient Romanesque church located in Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.442595,
+                        42.438583
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "A religious monument and chapel in the Canòlic region of Andorra.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Riu Runer Viewpoint (1.500m)",
+                  "text": "A scenic viewpoint at 1,500 meters offering vistas over the Riu Runer valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.493855,
+                        42.434849
+                  ]
+            },
+            {
+                  "name": "El Coll de Jou",
+                  "text": "A mountain pass and viewpoint providing views of the surrounding Andorran landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.479889,
+                        42.456721
                   ]
             }
       ]

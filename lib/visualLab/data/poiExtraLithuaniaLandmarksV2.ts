@@ -187,7 +187,268 @@ imageHint: "Kaunas Castle round tower and ruins",
     },
     image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp",
 },  {
-    id: "lithuania-hill-of-witches-landmarks-v2",
+    id: "lithuania-hill-of-witches-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Schwarzort",
+                  "text": "Ein 20 Meter hoher Leuchtturm auf der Kurischen Nehrung in Litauen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.115813,
+                        55.556411
+                  ]
+            },
+            {
+                  "name": "Juodkrantės aplinkos tyrimų laboratorija",
+                  "text": "Ein Museum für Umweltforschung in Juodkrantė auf der Kurischen Nehrung.",
+                  "category": "museum",
+                  "coords": [
+                        21.121061,
+                        55.545382
+                  ]
+            },
+            {
+                  "name": "Vėtrungių galerija",
+                  "text": "Eine Galerie in Juodkrantė, die sich der traditionellen Wetterfahnen-Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.117485,
+                        55.531367
+                  ]
+            },
+            {
+                  "name": "Juodkrantės paplūdymys",
+                  "text": "Der öffentliche Strand von Juodkrantė an der Ostsee.",
+                  "category": "recreational",
+                  "coords": [
+                        21.099096,
+                        55.543665
+                  ]
+            },
+            {
+                  "name": "Juodkrantės moterų paplūdymys",
+                  "text": "Ein ausgewiesener Frauenstrand in Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100887,
+                        55.556361
+                  ]
+            },
+            {
+                  "name": "Juodkrantės nudistų paplūdimys",
+                  "text": "Ein FKK-Strand in der Nähe von Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.097215,
+                        55.532779
+                  ]
+            },
+            {
+                  "name": "Kuršių Nerijos Nacionalinio parko lankytojų centras",
+                  "text": "Das Besucherzentrum für den Nationalpark Kurische Nehrung.",
+                  "category": "museum",
+                  "coords": [
+                        21.120717,
+                        55.542098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juodkrantės švyturys",
+                  "text": "Egy 20 méter magas világítótorony a litvániai Kur-földnyelven.",
+                  "category": "landmark",
+                  "coords": [
+                        21.115813,
+                        55.556411
+                  ]
+            },
+            {
+                  "name": "Juodkrantės aplinkos tyrimų laboratorija",
+                  "text": "Környezetkutatási múzeum Juodkrantėban, a Kur-földnyelven.",
+                  "category": "museum",
+                  "coords": [
+                        21.121061,
+                        55.545382
+                  ]
+            },
+            {
+                  "name": "Vėtrungių galerija",
+                  "text": "Galéria Juodkrantėban, amely a hagyományos szélkakas-művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.117485,
+                        55.531367
+                  ]
+            },
+            {
+                  "name": "Juodkrantės paplūdymys",
+                  "text": "Juodkrantė nyilvános strandja a Balti-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        21.099096,
+                        55.543665
+                  ]
+            },
+            {
+                  "name": "Juodkrantės moterų paplūdymys",
+                  "text": "Kijelölt női strand Juodkrantėban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100887,
+                        55.556361
+                  ]
+            },
+            {
+                  "name": "Juodkrantės nudistų paplūdimys",
+                  "text": "Nudista strand Juodkrantė közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.097215,
+                        55.532779
+                  ]
+            },
+            {
+                  "name": "Kuršių Nerijos Nacionalinio parko lankytojų centras",
+                  "text": "A Kur-földnyelv Nemzeti Park látogatóközpontja.",
+                  "category": "museum",
+                  "coords": [
+                        21.120717,
+                        55.542098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juodkrantės švyturys",
+                  "text": "Un far de 20 de metri înălțime situat pe Grindul Curonian din Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        21.115813,
+                        55.556411
+                  ]
+            },
+            {
+                  "name": "Juodkrantės aplinkos tyrimų laboratorija",
+                  "text": "Un muzeu de cercetare a mediului situat în Juodkrantė, pe Grindul Curonian.",
+                  "category": "museum",
+                  "coords": [
+                        21.121061,
+                        55.545382
+                  ]
+            },
+            {
+                  "name": "Vėtrungių galerija",
+                  "text": "O galerie din Juodkrantė dedicată artei tradiționale a giruetelor.",
+                  "category": "museum",
+                  "coords": [
+                        21.117485,
+                        55.531367
+                  ]
+            },
+            {
+                  "name": "Juodkrantės paplūdymys",
+                  "text": "Plaja publică din Juodkrantė la Marea Baltică.",
+                  "category": "recreational",
+                  "coords": [
+                        21.099096,
+                        55.543665
+                  ]
+            },
+            {
+                  "name": "Juodkrantės moterų paplūdymys",
+                  "text": "O plajă desemnată pentru femei în Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100887,
+                        55.556361
+                  ]
+            },
+            {
+                  "name": "Juodkrantės nudistų paplūdimys",
+                  "text": "O plajă de nudiști situată lângă Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.097215,
+                        55.532779
+                  ]
+            },
+            {
+                  "name": "Kuršių Nerijos Nacionalinio parko lankytojų centras",
+                  "text": "Centrul de vizitare al Parcului Național Grindul Curonian.",
+                  "category": "museum",
+                  "coords": [
+                        21.120717,
+                        55.542098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juodkrantės švyturys",
+                  "text": "A 20-meter tall lighthouse located on the Curonian Spit in Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        21.115813,
+                        55.556411
+                  ]
+            },
+            {
+                  "name": "Juodkrantės aplinkos tyrimų laboratorija",
+                  "text": "An environmental research museum located in Juodkrantė on the Curonian Spit.",
+                  "category": "museum",
+                  "coords": [
+                        21.121061,
+                        55.545382
+                  ]
+            },
+            {
+                  "name": "Vėtrungių galerija",
+                  "text": "A gallery in Juodkrantė dedicated to the traditional art of weather vanes.",
+                  "category": "museum",
+                  "coords": [
+                        21.117485,
+                        55.531367
+                  ]
+            },
+            {
+                  "name": "Juodkrantės paplūdymys",
+                  "text": "The public beach of Juodkrantė on the Baltic Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        21.099096,
+                        55.543665
+                  ]
+            },
+            {
+                  "name": "Juodkrantės moterų paplūdymys",
+                  "text": "A designated women's beach in Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.100887,
+                        55.556361
+                  ]
+            },
+            {
+                  "name": "Juodkrantė Nudist Beach",
+                  "text": "A nudist beach located near Juodkrantė.",
+                  "category": "recreational",
+                  "coords": [
+                        21.097215,
+                        55.532779
+                  ]
+            },
+            {
+                  "name": "Kuršių Nerijos Nacionalinio parko lankytojų centras",
+                  "text": "The visitor center for the Curonian Spit National Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.120717,
+                        55.542098
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "landmark",
     name: { de: "Hexenberg", hu: "Boszorkány-domb", ro: "Dealul Vrăjitoarelor", en: "Hill of Witches"},
@@ -325,7 +586,304 @@ imageHint: "Grutas Park Soviet statues and monuments",
     },
     image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp",
 },  {
-    id: "lithuania-open-air-museum-landmarks-v2",
+    id: "lithuania-open-air-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Litauisches Freilichtmuseum",
+                  "text": "Eines der größten ethnografischen Freilichtmuseen Europas in Rumšiškės.",
+                  "category": "museum",
+                  "coords": [
+                        24.201172,
+                        54.866425
+                  ]
+            },
+            {
+                  "name": "Rumšiškių piliakalnis",
+                  "text": "Eine antike Wallburg in der Umgebung von Rumšiškės.",
+                  "category": "historical",
+                  "coords": [
+                        24.19716,
+                        54.858318
+                  ]
+            },
+            {
+                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
+                  "text": "Eine Außenstelle des Museums in Rumšiškės, die dem litauischen Dichter Jonas Aistis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.221284,
+                        54.866837
+                  ]
+            },
+            {
+                  "name": "Rumšiškių apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm mit Panoramablick auf das Kaunaser Meer.",
+                  "category": "natural",
+                  "coords": [
+                        24.192479,
+                        54.859076
+                  ]
+            },
+            {
+                  "name": "Gastilonių atodanga",
+                  "text": "Eine malerische geologische Klippenformation am Ufer des Kaunaser Meeres.",
+                  "category": "natural",
+                  "coords": [
+                        24.148545,
+                        54.871961
+                  ]
+            },
+            {
+                  "name": "Rumšiškių miško pušis",
+                  "text": "Eine besonders alte und große Kiefer im Wald von Rumšiškės.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15394,
+                        54.875422
+                  ]
+            },
+            {
+                  "name": "Aristavėlės dvaro rūmai",
+                  "text": "Ein historisches Herrenhaus, das in das Freilichtmuseum von Litauen versetzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        24.184437,
+                        54.875443
+                  ]
+            },
+            {
+                  "name": "Gastilionių pažintinis takas",
+                  "text": "Ein Lehrpfad, der die Wälder und Ufer des Stausees bei Rumšiškės erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.154778,
+                        54.874029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lietuvos liaudies buities muziejus",
+                  "text": "Európa egyik legnagyobb szabadtéri néprajzi múzeuma Rumšiškėsben.",
+                  "category": "museum",
+                  "coords": [
+                        24.201172,
+                        54.866425
+                  ]
+            },
+            {
+                  "name": "Rumšiškių piliakalnis",
+                  "text": "Ősi várhely Rumšiškės környékén.",
+                  "category": "historical",
+                  "coords": [
+                        24.19716,
+                        54.858318
+                  ]
+            },
+            {
+                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
+                  "text": "A múzeum Rumšiškėsben található részlege, amely Jonas Aistis litván költőnek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        24.221284,
+                        54.866837
+                  ]
+            },
+            {
+                  "name": "Rumšiškių apžvalgos bokštas",
+                  "text": "Kilátótorony, ahonnan panorámás kilátás nyílik a Kaunasi-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        24.192479,
+                        54.859076
+                  ]
+            },
+            {
+                  "name": "Gastilonių atodanga",
+                  "text": "Látványos geológiai sziklafal a Kaunasi-víztározó partján.",
+                  "category": "natural",
+                  "coords": [
+                        24.148545,
+                        54.871961
+                  ]
+            },
+            {
+                  "name": "Rumšiškių miško pušis",
+                  "text": "Egy különösen idős és nagy erdeifenyő a Rumšiškės-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15394,
+                        54.875422
+                  ]
+            },
+            {
+                  "name": "Aristavėlės dvaro rūmai",
+                  "text": "Történelmi udvarház, amelyet a litván szabadtéri múzeumba szállítottak át.",
+                  "category": "historical",
+                  "coords": [
+                        24.184437,
+                        54.875443
+                  ]
+            },
+            {
+                  "name": "Gastilionių pažintinis takas",
+                  "text": "Tanösvény, amely a Rumšiškės közeli erdőket és a víztározó partját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        24.154778,
+                        54.874029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lietuvos liaudies buities muziejus",
+                  "text": "Unul dintre cele mai mari muzee etnografice în aer liber din Europa, situat în Rumšiškės.",
+                  "category": "museum",
+                  "coords": [
+                        24.201172,
+                        54.866425
+                  ]
+            },
+            {
+                  "name": "Rumšiškių piliakalnis",
+                  "text": "Un sit antic de cetate pe deal situat în apropiere de Rumšiškės.",
+                  "category": "historical",
+                  "coords": [
+                        24.19716,
+                        54.858318
+                  ]
+            },
+            {
+                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
+                  "text": "O secție a muzeului din Rumšiškės dedicată poetului lituanian Jonas Aistis.",
+                  "category": "museum",
+                  "coords": [
+                        24.221284,
+                        54.866837
+                  ]
+            },
+            {
+                  "name": "Rumšiškių apžvalgos bokštas",
+                  "text": "Un turn de observare care oferă vederi panoramice asupra rezervorului Kaunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.192479,
+                        54.859076
+                  ]
+            },
+            {
+                  "name": "Gastilonių atodanga",
+                  "text": "O formațiune geologică de faleză pe malul rezervorului Kaunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.148545,
+                        54.871961
+                  ]
+            },
+            {
+                  "name": "Rumšiškių miško pušis",
+                  "text": "Un pin remarcabil de vechi și mare situat în pădurea Rumšiškės.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15394,
+                        54.875422
+                  ]
+            },
+            {
+                  "name": "Aristavėlės dvaro rūmai",
+                  "text": "Un conac istoric mutat în cadrul Muzeului în Aer Liber al Lituaniei.",
+                  "category": "historical",
+                  "coords": [
+                        24.184437,
+                        54.875443
+                  ]
+            },
+            {
+                  "name": "Gastilionių pažintinis takas",
+                  "text": "Un traseu tematic care explorează pădurile și malurile rezervorului de lângă Rumšiškės.",
+                  "category": "landmark",
+                  "coords": [
+                        24.154778,
+                        54.874029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lietuvos liaudies buities muziejus",
+                  "text": "One of the largest open-air ethnographic museums in Europe, located in Rumšiškės.",
+                  "category": "museum",
+                  "coords": [
+                        24.201172,
+                        54.866425
+                  ]
+            },
+            {
+                  "name": "Rumšiškių piliakalnis",
+                  "text": "An ancient hillfort site located in the vicinity of Rumšiškės.",
+                  "category": "historical",
+                  "coords": [
+                        24.19716,
+                        54.858318
+                  ]
+            },
+            {
+                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
+                  "text": "A museum branch in Rumšiškės dedicated to the Lithuanian poet Jonas Aistis.",
+                  "category": "museum",
+                  "coords": [
+                        24.221284,
+                        54.866837
+                  ]
+            },
+            {
+                  "name": "Rumšiškių apžvalgos bokštas",
+                  "text": "An observation tower offering panoramic views of the Kaunas Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        24.192479,
+                        54.859076
+                  ]
+            },
+            {
+                  "name": "Gastilonys exposure",
+                  "text": "A scenic geological cliff formation on the shores of the Kaunas Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        24.148545,
+                        54.871961
+                  ]
+            },
+            {
+                  "name": "Rumšiškių miško pušis",
+                  "text": "A notably old and large pine tree located in the Rumšiškės forest.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15394,
+                        54.875422
+                  ]
+            },
+            {
+                  "name": "Aristavėlės dvaro rūmai",
+                  "text": "A historic manor house relocated to the Open-Air Museum of Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        24.184437,
+                        54.875443
+                  ]
+            },
+            {
+                  "name": "Gastilionių pažintinis takas",
+                  "text": "A nature trail exploring the forests and reservoir shores near Rumšiškės.",
+                  "category": "landmark",
+                  "coords": [
+                        24.154778,
+                        54.874029
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "museum",
     name: { de: "Litauisches Freilichtmuseum", hu: "Litván Szabadtéri Néprajzi Múzeum", ro: "Muzeul Satului Lituanian", en: "Open-Air Museum of Lithuania"},
@@ -646,7 +1204,304 @@ imageHint: "Christ's Resurrection Church Kaunas white modern architecture",
     },
     image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp",
 },  {
-    id: "lithuania-museum-ethnocosmology-landmarks-v2",
+    id: "lithuania-museum-ethnocosmology-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kulionių piliakalnis",
+                  "text": "Ein historischer Burghügel in Litauen, gelegen am Ufer des Želva-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        25.551,
+                        55.317167
+                  ]
+            },
+            {
+                  "name": "Želvų piliakalnis",
+                  "text": "Ein alter litauischer Burgwall, der Teil des archäologischen Erbes der Region Molėtai ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.549833,
+                        55.321278
+                  ]
+            },
+            {
+                  "name": "Čiulėnų piliakalnis",
+                  "text": "Eine archäologische Ausgrabungsstätte in Litauen, die die Überreste einer antiken Befestigung umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        25.516417,
+                        55.291528
+                  ]
+            },
+            {
+                  "name": "Lietuvos etnokosmologijos muziejaus apžvalgos aikštelė",
+                  "text": "Die Aussichtsplattform des litauischen Museums für Ethnokosmologie bietet einen Panoramablick auf die umliegende Seenlandschaft.",
+                  "category": "museum",
+                  "coords": [
+                        25.554881,
+                        55.315389
+                  ]
+            },
+            {
+                  "name": "Etnokosmologijos muziejus",
+                  "text": "Das Museum für Ethnokosmologie erforscht die Verbindung zwischen menschlicher Kultur und dem Universum.",
+                  "category": "museum",
+                  "coords": [
+                        25.556133,
+                        55.315083
+                  ]
+            },
+            {
+                  "name": "Etnografinė sodyba ir dangaus šviesulių stebykla",
+                  "text": "Dieses ethnografische Gehöft bietet traditionelle Einblicke in die Himmelsbeobachtung.",
+                  "category": "landmark",
+                  "coords": [
+                        25.555817,
+                        55.309942
+                  ]
+            },
+            {
+                  "name": "Čiulėnų vandens malūnas",
+                  "text": "Eine historische Wassermühle, die sich in der Nähe des Museums für Ethnokosmologie befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.514189,
+                        55.291625
+                  ]
+            },
+            {
+                  "name": "Suginčių Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "Die Kirche der Auffindung des Heiligen Kreuzes in Suginčiai ist ein lokales religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        25.524959,
+                        55.337047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kulionių piliakalnis",
+                  "text": "Történelmi várhalom Litvániában, a Želva-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        25.551,
+                        55.317167
+                  ]
+            },
+            {
+                  "name": "Želvų piliakalnis",
+                  "text": "Régi litván várhely, amely a Molėtai régió régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        25.549833,
+                        55.321278
+                  ]
+            },
+            {
+                  "name": "Čiulėnų piliakalnis",
+                  "text": "Régészeti lelőhely Litvániában, amely egy ókori erődítmény maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        25.516417,
+                        55.291528
+                  ]
+            },
+            {
+                  "name": "Lietuvos etnokosmologijos muziejaus apžvalgos aikštelė",
+                  "text": "A Litván Etnokozmológiai Múzeum kilátóterasza panorámás kilátást nyújt a környező tóvidékre.",
+                  "category": "museum",
+                  "coords": [
+                        25.554881,
+                        55.315389
+                  ]
+            },
+            {
+                  "name": "Etnokosmologijos muziejus",
+                  "text": "Az Etnokozmológiai Múzeum az emberi kultúra és a világegyetem közötti kapcsolatot vizsgálja.",
+                  "category": "museum",
+                  "coords": [
+                        25.556133,
+                        55.315083
+                  ]
+            },
+            {
+                  "name": "Etnografinė sodyba ir dangaus šviesulių stebykla",
+                  "text": "Ez az etnográfiai porta hagyományos égbolt-megfigyelési módszereket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.555817,
+                        55.309942
+                  ]
+            },
+            {
+                  "name": "Čiulėnų vandens malūnas",
+                  "text": "Egy történelmi vízimalom az Etnokozmológiai Múzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.514189,
+                        55.291625
+                  ]
+            },
+            {
+                  "name": "Suginčių Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "A suginčiai-i Szent Kereszt Megtalálása templom egy helyi vallási építmény.",
+                  "category": "religious",
+                  "coords": [
+                        25.524959,
+                        55.337047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kulionių piliakalnis",
+                  "text": "Un tumul istoric din Lituania, situat pe malul lacului Želva.",
+                  "category": "historical",
+                  "coords": [
+                        25.551,
+                        55.317167
+                  ]
+            },
+            {
+                  "name": "Želvų piliakalnis",
+                  "text": "Un vechi fort de pământ lituanian, parte a patrimoniului arheologic din regiunea Molėtai.",
+                  "category": "historical",
+                  "coords": [
+                        25.549833,
+                        55.321278
+                  ]
+            },
+            {
+                  "name": "Čiulėnų piliakalnis",
+                  "text": "Un sit arheologic din Lituania, cuprinzând rămășițele unei fortificații antice.",
+                  "category": "historical",
+                  "coords": [
+                        25.516417,
+                        55.291528
+                  ]
+            },
+            {
+                  "name": "Lietuvos etnokosmologijos muziejaus apžvalgos aikštelė",
+                  "text": "Platforma de observație a Muzeului Lituanian de Etnocosmologie oferă vederi panoramice asupra peisajului înconjurător cu lacuri.",
+                  "category": "museum",
+                  "coords": [
+                        25.554881,
+                        55.315389
+                  ]
+            },
+            {
+                  "name": "Etnokosmologijos muziejus",
+                  "text": "Muzeul de Etnocosmolgie explorează legătura dintre cultura umană și univers.",
+                  "category": "museum",
+                  "coords": [
+                        25.556133,
+                        55.315083
+                  ]
+            },
+            {
+                  "name": "Etnografinė sodyba ir dangaus šviesulių stebykla",
+                  "text": "Această gospodărie etnografică oferă perspective tradiționale asupra observării cerului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.555817,
+                        55.309942
+                  ]
+            },
+            {
+                  "name": "Čiulėnų vandens malūnas",
+                  "text": "O moară de apă istorică situată în apropierea Muzeului de Etnocosmolgie.",
+                  "category": "landmark",
+                  "coords": [
+                        25.514189,
+                        55.291625
+                  ]
+            },
+            {
+                  "name": "Suginčių Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "Biserica Descoperirea Sfintei Cruci din Suginčiai este un edificiu religios local.",
+                  "category": "religious",
+                  "coords": [
+                        25.524959,
+                        55.337047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kulionių piliakalnis",
+                  "text": "A historical hillfort in Lithuania, situated on the shores of Lake Želva.",
+                  "category": "historical",
+                  "coords": [
+                        25.551,
+                        55.317167
+                  ]
+            },
+            {
+                  "name": "Želvų piliakalnis",
+                  "text": "An ancient Lithuanian hillfort, part of the archaeological heritage of the Molėtai region.",
+                  "category": "historical",
+                  "coords": [
+                        25.549833,
+                        55.321278
+                  ]
+            },
+            {
+                  "name": "Čiulėnų piliakalnis",
+                  "text": "An archaeological site in Lithuania featuring the remains of an ancient fortification.",
+                  "category": "historical",
+                  "coords": [
+                        25.516417,
+                        55.291528
+                  ]
+            },
+            {
+                  "name": "Lietuvos etnokosmologijos muziejaus apžvalgos aikštelė",
+                  "text": "The observation deck of the Lithuanian Museum of Ethnocosmology offers panoramic views of the surrounding lake district.",
+                  "category": "museum",
+                  "coords": [
+                        25.554881,
+                        55.315389
+                  ]
+            },
+            {
+                  "name": "Etnokosmologijos muziejus",
+                  "text": "The Museum of Ethnocosmology explores the link between human culture and the universe.",
+                  "category": "museum",
+                  "coords": [
+                        25.556133,
+                        55.315083
+                  ]
+            },
+            {
+                  "name": "Etnografinė sodyba ir dangaus šviesulių stebykla",
+                  "text": "This ethnographic homestead provides traditional insights into celestial observation.",
+                  "category": "landmark",
+                  "coords": [
+                        25.555817,
+                        55.309942
+                  ]
+            },
+            {
+                  "name": "Čiulėnų vandens malūnas",
+                  "text": "A historic watermill located in the vicinity of the Museum of Ethnocosmology.",
+                  "category": "landmark",
+                  "coords": [
+                        25.514189,
+                        55.291625
+                  ]
+            },
+            {
+                  "name": "Suginčių Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "The Church of the Discovery of the Holy Cross in Suginčiai is a local religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        25.524959,
+                        55.337047
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "museum",
     name: { de: "Museum für Etnokosmologie", hu: "Etnokozmológiai Múzeum", ro: "Muzeul de Etnocosmologie", en: "Museum of Ethnocosmology"},
@@ -1530,7 +2385,232 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
       fr: ["Le pont a été officiellement ouvert le 6 juillet 2003.", "La longueur totale du pont est de 101 mètres.", "La largeur du pont est de 19,7 mètres.", "Le pont possède une structure en arc d'acier sans piliers dans la rivière.", "Les coûts de construction se sont élevés à environ 17 millions de litas.", "Le 6 juillet est la fête nationale en Lituanie (jour du couronnement de Mindaugas)."],
     }, image: "/poi-images/lithuania-mindaugas-bridge-landmarks-v2.webp"},
   {
-    id: "lithuania-tytuvenai-monastery-landmarks-v2",
+    id: "lithuania-tytuvenai-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Eine antike Wallburg bei Tytuvėnai, die die frühe Geschichte der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Ein bedeutender Bernardiner-Klosterkomplex aus dem 17. Jahrhundert mit Barockkirche.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "Ein Museum mit einer Privatsammlung ungewöhnlicher Naturformationen und Kuriositäten.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "Ein ethnografisches Gehöftmuseum, das lokale ländliche Traditionen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Ein Wakeboarding-Park an einem lokalen See, der Wassersportaktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Ein Waldmuseum, das der lokalen Waldökologie und Forstgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Egy ősi várhely Tytuvėnai közelében, amely a régió korai történelmét képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Egy jelentős 17. századi bernardin kolostorkomplexum barokk templommal.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "Múzeum, amely szokatlan természeti képződmények és érdekességek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "Néprajzi tanyamúzeum, amely a helyi vidéki hagyományokat őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Egy helyi tavon található wakeboard-park, amely vízisportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Erdészeti múzeum, amely a helyi erdők ökológiáját és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Un sit antic de cetate lângă Tytuvėnai, reprezentând istoria timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Un important complex monahal bernardin din secolul al XVII-lea, cu o biserică barocă.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "Un muzeu care prezintă o colecție privată de formațiuni naturale neobișnuite și curiozități.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "Un muzeu etnografic care păstrează tradițiile rurale locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Un parc de wakeboarding situat pe un lac local, oferind activități sportive nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Un muzeu forestier dedicat ecologiei locale a pădurilor și istoriei silviculturii.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "An ancient hillfort site near Tytuvėnai, representing the region's early history.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "A significant 17th-century Bernardine monastery complex with a stunning Baroque church.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "A museum featuring a private collection of unusual natural formations and curiosities.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "An ethnographic farmstead museum preserving local rural traditions and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "A wakeboarding park located on a local lake, offering water sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "A forest museum dedicated to the local woodland ecology and forestry history.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "church",
     name: { de: "Kloster Tytuvėnai", hu: "Tytuvėnai kolostor", ro: "Mănăstirea Tytuvėnai", en: "Tytuvėnai Monastery" },

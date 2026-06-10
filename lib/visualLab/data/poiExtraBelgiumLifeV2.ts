@@ -325,7 +325,268 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
     },
     image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp",
 },  {
-    id: "belgium-high-fens-life-v2",
+    id: "belgium-high-fens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Ein Dokumentationszentrum und Archiv zur Geschichte der Hohen Ardennen.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Baltia-Hügel",
+                  "text": "Ein künstlicher Hügel und Aussichtspunkt, der den höchsten Punkt Belgiens markiert.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Michelshütte",
+                  "text": "Ein hoher Punkt und historisches Gasthaus im Hohen Venn in Belgien.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "Ein malerischer Wasserfall im Naturschutzgebiet Hohes Venn.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Ein Denkmal zu Ehren von Henri Pietkin im Hohen Venn.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "Ein Denkmal im Hohen Venn, das an die Familie Dehousse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Ein Denkmal für den Comiczeichner Didier Comès im Hohen Venn.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Dokumentációs központ és archívum a Magas-Ardennek történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "Mesterséges domb és kilátó, amely Belgium legmagasabb pontját jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "Magaslati pont és történelmi fogadó a belgiumi Magas-Lápvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "Festői vízesés a Magas-Lápvidék természetvédelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Henri Pietkin tiszteletére emelt emlékmű a Magas-Láp területén.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "A Dehousse család emlékére állított emlékmű a Magas-Lápnál.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Didier Comès képregényrajzoló emlékműve a Magas-Lápnál.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Un centru de documentare și arhivă dedicat istoriei zonei Haute Ardenne.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "O movilă artificială și punct de belvedere care marchează cel mai înalt punct din Belgia.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "Un punct înalt și un han istoric în regiunea High Fens din Belgia.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "O cascadă pitorească situată în rezervația naturală High Fens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Un monument dedicat lui Henri Pietkin în regiunea High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "Un monument dedicat familiei Dehousse în High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Un monument dedicat artistului de benzi desenate Didier Comès în High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "A documentation center and archive dedicated to the history of the High Ardenne.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "An artificial mound and viewpoint marking the highest point in Belgium.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "A high point and historic hostel in the High Fens region of Belgium.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "A scenic waterfall located in the High Fens nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "A monument honoring Henri Pietkin located in the High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "A monument dedicated to the Dehousse family in the High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "A monument dedicated to the comic artist Didier Comès in the High Fens.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "wildlife",
     name: { de: "Hohes Venn", hu: "Hoge Venen", ro: "Hautes Fagnes", en: "High Fens"},
@@ -372,7 +633,304 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
     },
   },
   {
-    id: "belgium-kalmthoutse-heide-life-v2",
+    id: "belgium-kalmthoutse-heide-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalmthoutse Heide",
+                  "text": "Ein großes grenzüberschreitendes Naturschutzgebiet mit einzigartiger Heidelandschaft und Dünen.",
+                  "category": "natural",
+                  "coords": [
+                        4.425886,
+                        51.396588
+                  ]
+            },
+            {
+                  "name": "Bijenteeltmuseum",
+                  "text": "Ein Museum im Gebiet der Kalmthoutse Heide, das der Imkerei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.449461,
+                        51.375847
+                  ]
+            },
+            {
+                  "name": "Zuilen van Mont Noir",
+                  "text": "Archäologische Überreste historischer Säulen im Gebiet der Kalmthoutse Heide.",
+                  "category": "historical",
+                  "coords": [
+                        4.409148,
+                        51.400164
+                  ]
+            },
+            {
+                  "name": "Mont Noir",
+                  "text": "Eine archäologische Fundstätte in der Region Kalmthoutse Heide.",
+                  "category": "historical",
+                  "coords": [
+                        4.406589,
+                        51.400991
+                  ]
+            },
+            {
+                  "name": "Kerktheater",
+                  "text": "Ein lokales Theater, das in einem ehemaligen Kirchengebäude in Kalmthout untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        4.459032,
+                        51.365277
+                  ]
+            },
+            {
+                  "name": "Kasteel Boterberg",
+                  "text": "Ein lokales Schloss in der Nähe der Kalmthoutse Heide.",
+                  "category": "castle",
+                  "coords": [
+                        4.462627,
+                        51.406553
+                  ]
+            },
+            {
+                  "name": "Brabantse Wal",
+                  "text": "Ein natürlicher Steilhang und Naturschutzgebiet an der Grenze zur Kalmthoutse Heide.",
+                  "category": "natural",
+                  "coords": [
+                        4.386061,
+                        51.396232
+                  ]
+            },
+            {
+                  "name": "Stappersven",
+                  "text": "Ein großer See und Moorgebiet im Naturschutzgebiet Kalmthoutse Heide.",
+                  "category": "natural",
+                  "coords": [
+                        4.442537,
+                        51.411882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalmthoutse Heide",
+                  "text": "Nagy határ menti természetvédelmi terület egyedülálló fenyérrel és dűnékkel.",
+                  "category": "natural",
+                  "coords": [
+                        4.425886,
+                        51.396588
+                  ]
+            },
+            {
+                  "name": "Bijenteeltmuseum",
+                  "text": "A méhészetnek szentelt múzeum a Kalmthoutse Heide területén.",
+                  "category": "museum",
+                  "coords": [
+                        4.449461,
+                        51.375847
+                  ]
+            },
+            {
+                  "name": "Zuilen van Mont Noir",
+                  "text": "Történelmi oszlopok régészeti maradványai a Kalmthoutse Heide területén.",
+                  "category": "historical",
+                  "coords": [
+                        4.409148,
+                        51.400164
+                  ]
+            },
+            {
+                  "name": "Mont Noir",
+                  "text": "Régészeti lelőhely a Kalmthoutse Heide régióban.",
+                  "category": "historical",
+                  "coords": [
+                        4.406589,
+                        51.400991
+                  ]
+            },
+            {
+                  "name": "Kerktheater",
+                  "text": "Helyi színház egy egykori templomépületben Kalmthoutban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.459032,
+                        51.365277
+                  ]
+            },
+            {
+                  "name": "Kasteel Boterberg",
+                  "text": "Helyi kastély a Kalmthoutse Heide közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.462627,
+                        51.406553
+                  ]
+            },
+            {
+                  "name": "Brabantse Wal",
+                  "text": "Természetes domborzati lépcső és természetvédelmi terület a Kalmthoutse Heide határán.",
+                  "category": "natural",
+                  "coords": [
+                        4.386061,
+                        51.396232
+                  ]
+            },
+            {
+                  "name": "Stappersven",
+                  "text": "Nagy tó és mocsaras terület a Kalmthoutse Heide természetvédelmi területen belül.",
+                  "category": "natural",
+                  "coords": [
+                        4.442537,
+                        51.411882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalmthoutse Heide",
+                  "text": "O mare rezervație naturală transfrontalieră, cu terenuri de negară și dune unice.",
+                  "category": "natural",
+                  "coords": [
+                        4.425886,
+                        51.396588
+                  ]
+            },
+            {
+                  "name": "Bijenteeltmuseum",
+                  "text": "Un muzeu din zona Kalmthoutse Heide dedicat artei apiculturii.",
+                  "category": "museum",
+                  "coords": [
+                        4.449461,
+                        51.375847
+                  ]
+            },
+            {
+                  "name": "Zuilen van Mont Noir",
+                  "text": "Rămășițe arheologice ale unor coloane istorice în zona Kalmthoutse Heide.",
+                  "category": "historical",
+                  "coords": [
+                        4.409148,
+                        51.400164
+                  ]
+            },
+            {
+                  "name": "Mont Noir",
+                  "text": "Un sit arheologic situat în regiunea Kalmthoutse Heide.",
+                  "category": "historical",
+                  "coords": [
+                        4.406589,
+                        51.400991
+                  ]
+            },
+            {
+                  "name": "Kerktheater",
+                  "text": "Un teatru local găzduit într-o fostă clădire de biserică din Kalmthout.",
+                  "category": "cultural",
+                  "coords": [
+                        4.459032,
+                        51.365277
+                  ]
+            },
+            {
+                  "name": "Kasteel Boterberg",
+                  "text": "Un castel local situat în apropiere de Kalmthoutse Heide.",
+                  "category": "castle",
+                  "coords": [
+                        4.462627,
+                        51.406553
+                  ]
+            },
+            {
+                  "name": "Brabantse Wal",
+                  "text": "Un versant natural și rezervație naturală la granița cu Kalmthoutse Heide.",
+                  "category": "natural",
+                  "coords": [
+                        4.386061,
+                        51.396232
+                  ]
+            },
+            {
+                  "name": "Stappersven",
+                  "text": "Un lac mare și o zonă de mlaștină în cadrul rezervației naturale Kalmthoutse Heide.",
+                  "category": "natural",
+                  "coords": [
+                        4.442537,
+                        51.411882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalmthoutse Heide",
+                  "text": "A large cross-border nature reserve featuring unique heathland and dunes.",
+                  "category": "natural",
+                  "coords": [
+                        4.425886,
+                        51.396588
+                  ]
+            },
+            {
+                  "name": "Bijenteeltmuseum",
+                  "text": "A museum in the Kalmthoutse Heide area dedicated to the art of beekeeping.",
+                  "category": "museum",
+                  "coords": [
+                        4.449461,
+                        51.375847
+                  ]
+            },
+            {
+                  "name": "Zuilen van Mont Noir",
+                  "text": "Archaeological remains of historical columns in the Kalmthoutse Heide area.",
+                  "category": "historical",
+                  "coords": [
+                        4.409148,
+                        51.400164
+                  ]
+            },
+            {
+                  "name": "Mont Noir",
+                  "text": "An archaeological site located within the Kalmthoutse Heide region.",
+                  "category": "historical",
+                  "coords": [
+                        4.406589,
+                        51.400991
+                  ]
+            },
+            {
+                  "name": "Kerktheater",
+                  "text": "A local theatre housed in a former church building in Kalmthout.",
+                  "category": "cultural",
+                  "coords": [
+                        4.459032,
+                        51.365277
+                  ]
+            },
+            {
+                  "name": "Kasteel Boterberg",
+                  "text": "A local castle located in the vicinity of Kalmthoutse Heide.",
+                  "category": "castle",
+                  "coords": [
+                        4.462627,
+                        51.406553
+                  ]
+            },
+            {
+                  "name": "Brabantse Wal",
+                  "text": "A natural escarpment and nature reserve bordering Kalmthoutse Heide.",
+                  "category": "natural",
+                  "coords": [
+                        4.386061,
+                        51.396232
+                  ]
+            },
+            {
+                  "name": "Stappersven",
+                  "text": "A large lake and fen area within the Kalmthoutse Heide nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        4.442537,
+                        51.411882
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "wildlife",
     name: { de: "Kalmthoutse Heide", hu: "Kalmthoutse Heide", ro: "Kalmthoutse Heide", en: "Kalmthoutse Heide"},
@@ -513,7 +1071,304 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
     },
   },
   {
-    id: "belgium-wildlife-park-han-life-v2",
+    id: "belgium-wildlife-park-han-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "Eine mittelalterliche Burgruine in Rochefort, die ehemals die Residenz der Grafen von Rochefort war.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Ein Museum in Han-sur-Lesse, das das ländliche Leben und alte Handwerksberufe um das Jahr 1900 zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "Eine Ausstellung in Han-sur-Lesse, die archäologische Funde aus den berühmten Höhlen der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "Ein Naturschutzgebiet bei Han-sur-Lesse, das für seine Kalkmagerrasen und vielfältige Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "Ein historisches Schloss im Dorf Eprave, das für seine malerische Lage im Lesse-Tal bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "Ein bewaldetes Naturgebiet in der Nähe von Han-sur-Lesse, das Teil des Famenne-Ardenne Geoparks ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "Ein geschütztes Waldgebiet bei Han-sur-Lesse, das eine typische Flora und Fauna der Region beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            },
+            {
+                  "name": "Les Pairées Ouest",
+                  "text": "Ein Naturschutzgebiet in der Region Han-sur-Lesse, das wertvolle lokale Ökosysteme bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        5.1835,
+                        50.100108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "Középkori várrom Rochefortban, amely egykor a rochefort-i grófok rezidenciája volt.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Múzeum Han-sur-Lesse-ben, amely az 1900-as évek vidéki életét és régi mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "Kiállítás Han-sur-Lesse-ben, amely a régió híres barlangjaiból származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "Han-sur-Lesse melletti természetvédelmi terület, amely mészkőgyepeiről és változatos flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "Történelmi kastély Eprave faluban, amely a Lesse-völgyben fekvő festői elhelyezkedéséről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "Han-sur-Lesse közelében fekvő erdős természeti terület, a Famenne-Ardenne Geopark része.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "Han-sur-Lesse melletti védett erdőterület, amely a régióra jellemző növény- és állatvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            },
+            {
+                  "name": "Les Pairées Ouest",
+                  "text": "Természetvédelmi terület Han-sur-Lesse régiójában, amely értékes helyi ökoszisztémákat őriz.",
+                  "category": "natural",
+                  "coords": [
+                        5.1835,
+                        50.100108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "O ruină de castel medieval din Rochefort, care a fost fosta reședință a conților de Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Un muzeu din Han-sur-Lesse care prezintă viața rurală și meșteșugurile vechi din jurul anului 1900.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "O expoziție în Han-sur-Lesse care prezintă descoperiri arheologice din faimoasele peșteri ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "O rezervație naturală lângă Han-sur-Lesse, cunoscută pentru pajiștile calcaroase și flora diversă.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "Un castel istoric în satul Eprave, cunoscut pentru locația sa pitorească în valea Lesse.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "O zonă naturală împădurită lângă Han-sur-Lesse, parte a Geoparcului Famenne-Ardenne.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "O zonă forestieră protejată lângă Han-sur-Lesse, care găzduiește flora și fauna tipică regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            },
+            {
+                  "name": "Les Pairées Ouest",
+                  "text": "O rezervație naturală în regiunea Han-sur-Lesse, care conservă ecosisteme locale valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        5.1835,
+                        50.100108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château comtal de Rochefort",
+                  "text": "A medieval castle ruin in Rochefort, which was the former residence of the Counts of Rochefort.",
+                  "category": "castle",
+                  "coords": [
+                        5.22061,
+                        50.154942
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "A museum in Han-sur-Lesse showcasing rural life and old trades from around the year 1900.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "An exhibition in Han-sur-Lesse presenting archaeological finds from the region's famous caves.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "A nature reserve near Han-sur-Lesse, known for its calcareous grasslands and diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "A historic castle in the village of Eprave, known for its picturesque location in the Lesse valley.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "A wooded natural area near Han-sur-Lesse, part of the Famenne-Ardenne Geopark.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "A protected forest area near Han-sur-Lesse, home to typical flora and fauna of the region.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            },
+            {
+                  "name": "Les Pairées Ouest",
+                  "text": "A nature reserve in the Han-sur-Lesse region, preserving valuable local ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        5.1835,
+                        50.100108
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "wildlife",
     name: { de: "Wildtierpark Han-sur-Lesse", hu: "Han-sur-Lesse Vadaspark", ro: "Parcul de Animale Sălbatice Han-sur-Lesse", en: "Wildlife Park Han-sur-Lesse"},
@@ -605,7 +1460,52 @@ imageHint: "Birdwatching hut overlooking a wetland area",
     },
     image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp",
 },  {
-    id: "belgium-deux-ourthes-life-v2",
+    id: "belgium-deux-ourthes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Europalia Portugal",
+                  "text": "Ein Denkmal im Naturpark Deux Ourthes, das kulturellen Verbindungen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        5.69288,
+                        50.150637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Europalia Portugal",
+                  "text": "A Deux Ourthes Natúrparkban található emlékmű, amelyet kulturális kapcsolatoknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        5.69288,
+                        50.150637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Europalia Portugal",
+                  "text": "Un monument situat în Parcul Natural Deux Ourthes, dedicat legăturilor culturale.",
+                  "category": "historical",
+                  "coords": [
+                        5.69288,
+                        50.150637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Europalia Portugal",
+                  "text": "A monument located in the Deux Ourthes Natural Park, dedicated to cultural connections.",
+                  "category": "historical",
+                  "coords": [
+                        5.69288,
+                        50.150637
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "park",
     name: { de: "Naturpark Deux Ourthes", hu: "Deux Ourthes Natúrpark", ro: "Parcul Natural Deux Ourthes", en: "Deux Ourthes Natural Park"},
@@ -651,7 +1551,232 @@ imageHint: "Winding river through deep green forested valleys",
     },
     image: "/poi-images/belgium-deux-ourthes-life-v2.webp",
 },  {
-    id: "belgium-viroin-hermeton-life-v2",
+    id: "belgium-viroin-hermeton-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fondry des Chiens",
+                  "text": "Eine markante Karstsenke mit beeindruckenden Felsformationen im Naturpark Viroin-Hermeton.",
+                  "category": "natural",
+                  "coords": [
+                        4.558365,
+                        50.069648
+                  ]
+            },
+            {
+                  "name": "Maison du Bailli",
+                  "text": "Ein historisches Baudenkmal im Naturpark Viroin-Hermeton, das früher als Amtssitz diente.",
+                  "category": "castle",
+                  "coords": [
+                        4.54701,
+                        50.074175
+                  ]
+            },
+            {
+                  "name": "Les Abannets",
+                  "text": "Ein Naturschutzgebiet im Viroin-Hermeton Park, bekannt für seine Kalksteinplateaus und seltene Flora.",
+                  "category": "natural",
+                  "coords": [
+                        4.557793,
+                        50.075039
+                  ]
+            },
+            {
+                  "name": "Fond de Noye",
+                  "text": "Ein geschütztes Naturareal im Naturpark Viroin-Hermeton mit ökologisch wertvoller Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        4.599041,
+                        50.063837
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée du Fond de Noye",
+                  "text": "Ein anerkanntes Naturschutzgebiet im Fond de Noye, das dem Erhalt lokaler Biotope dient.",
+                  "category": "natural",
+                  "coords": [
+                        4.592954,
+                        50.055269
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Dourbes",
+                  "text": "Ein Naturschutzgebiet bei Dourbes mit bewaldeten Hängen und hoher biologischer Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        4.590717,
+                        50.078572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fondry des Chiens",
+                  "text": "Jellegzetes karsztmélyedés lenyűgöző sziklaalakzatokkal a Viroin-Hermeton Natúrparkban.",
+                  "category": "natural",
+                  "coords": [
+                        4.558365,
+                        50.069648
+                  ]
+            },
+            {
+                  "name": "Maison du Bailli",
+                  "text": "Történelmi műemlék épület a Viroin-Hermeton Natúrparkban, amely korábban hivatali székhelyként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        4.54701,
+                        50.074175
+                  ]
+            },
+            {
+                  "name": "Les Abannets",
+                  "text": "Természetvédelmi terület a Viroin-Hermeton parkban, amely mészkőfennsíkjairól és ritka flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.557793,
+                        50.075039
+                  ]
+            },
+            {
+                  "name": "Fond de Noye",
+                  "text": "Védett természeti terület a Viroin-Hermeton Natúrparkban, ökológiailag értékes vegetációval.",
+                  "category": "natural",
+                  "coords": [
+                        4.599041,
+                        50.063837
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée du Fond de Noye",
+                  "text": "Elismert természetvédelmi terület a Fond de Noye-ban, amely a helyi biotópok megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        4.592954,
+                        50.055269
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Dourbes",
+                  "text": "Dourbes melletti természetvédelmi terület erdős lejtőkkel és nagy biológiai sokféleséggel.",
+                  "category": "natural",
+                  "coords": [
+                        4.590717,
+                        50.078572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fondry des Chiens",
+                  "text": "O dolină carstică distinctivă cu formațiuni stâncoase impresionante în Parcul Natural Viroin-Hermeton.",
+                  "category": "natural",
+                  "coords": [
+                        4.558365,
+                        50.069648
+                  ]
+            },
+            {
+                  "name": "Maison du Bailli",
+                  "text": "Un monument istoric în Parcul Natural Viroin-Hermeton, care a servit anterior ca sediu oficial.",
+                  "category": "castle",
+                  "coords": [
+                        4.54701,
+                        50.074175
+                  ]
+            },
+            {
+                  "name": "Les Abannets",
+                  "text": "O rezervație naturală din parcul Viroin-Hermeton, cunoscută pentru platourile calcaroase și flora rară.",
+                  "category": "natural",
+                  "coords": [
+                        4.557793,
+                        50.075039
+                  ]
+            },
+            {
+                  "name": "Fond de Noye",
+                  "text": "O zonă naturală protejată în Parcul Natural Viroin-Hermeton, cu vegetație de valoare ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        4.599041,
+                        50.063837
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée du Fond de Noye",
+                  "text": "O rezervație naturală recunoscută în Fond de Noye, dedicată conservării biotopurilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        4.592954,
+                        50.055269
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Dourbes",
+                  "text": "O rezervație naturală lângă Dourbes, cu pante împădurite și o mare diversitate biologică.",
+                  "category": "natural",
+                  "coords": [
+                        4.590717,
+                        50.078572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fondry des Chiens",
+                  "text": "A distinctive karst sinkhole with impressive rock formations in the Viroin-Hermeton Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        4.558365,
+                        50.069648
+                  ]
+            },
+            {
+                  "name": "Maison du Bailli",
+                  "text": "A historic monument in the Viroin-Hermeton Natural Park, which formerly served as an official seat.",
+                  "category": "castle",
+                  "coords": [
+                        4.54701,
+                        50.074175
+                  ]
+            },
+            {
+                  "name": "Les Abannets",
+                  "text": "A nature reserve in the Viroin-Hermeton park, known for its limestone plateaus and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        4.557793,
+                        50.075039
+                  ]
+            },
+            {
+                  "name": "Fond de Noye",
+                  "text": "A protected natural area in the Viroin-Hermeton Natural Park with ecologically valuable vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        4.599041,
+                        50.063837
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée du Fond de Noye",
+                  "text": "A recognized nature reserve in Fond de Noye, dedicated to the preservation of local biotopes.",
+                  "category": "natural",
+                  "coords": [
+                        4.592954,
+                        50.055269
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Dourbes",
+                  "text": "A nature reserve near Dourbes featuring forested slopes and high biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        4.590717,
+                        50.078572
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "park",
     name: { de: "Naturpark Viroin-Hermeton", hu: "Viroin-Hermeton Natúrpark", ro: "Parcul Natural Viroin-Hermeton", en: "Viroin-Hermeton Natural Park"},
@@ -697,7 +1822,304 @@ imageHint: "Wild orchids growing on a limestone slope",
     },
     image: "/poi-images/belgium-viroin-hermeton-life-v2.webp",
 },  {
-    id: "belgium-westhoek-life-v2",
+    id: "belgium-westhoek-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "Ein dem Künstler Paul Delvaux gewidmetes Museum in Sint-Idesbald.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "'t Krekelhof",
+                  "text": "Ein Museum und Veranstaltungsort in der Nähe des Naturschutzgebiets Westhoek.",
+                  "category": "museum",
+                  "coords": [
+                        2.622307,
+                        51.111741
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Ein großer Wasserpark mit verschiedenen Rutschen und Themenbereichen in De Panne.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "Ein Dünengebiet und Naturschutzgebiet an der belgischen Küste.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Kerkepannebos",
+                  "text": "Ein Küstenwald und Naturschutzgebiet in der Nähe von De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.614359,
+                        51.096092
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Das älteste staatliche Naturschutzgebiet Belgiens mit einer ausgedehnten Dünenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Cabourduinen",
+                  "text": "Ein historisches Dünengebiet und Naturschutzgebiet in der Provinz Westflandern.",
+                  "category": "natural",
+                  "coords": [
+                        2.573982,
+                        51.064165
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Ein bekannter Themenpark für Familien in De Panne an der belgischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "Paul Delvaux művésznek szentelt múzeum Sint-Idesbald területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "'t Krekelhof",
+                  "text": "Múzeum és rendezvényhelyszín a Westhoek természetvédelmi terület közelében.",
+                  "category": "museum",
+                  "coords": [
+                        2.622307,
+                        51.111741
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Nagyméretű vízipark különböző csúszdákkal és tematikus részlegekkel De Panne-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "Dűnékben gazdag természetvédelmi terület a belga tengerparton.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Kerkepannebos",
+                  "text": "Partmenti erdő és természetvédelmi terület De Panne közelében.",
+                  "category": "natural",
+                  "coords": [
+                        2.614359,
+                        51.096092
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Belgium legrégebbi állami természetvédelmi területe kiterjedt dűnemezővel.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Cabourduinen",
+                  "text": "Történelmi dűneterület és természetvédelmi terület Nyugat-Flandria tartományban.",
+                  "category": "natural",
+                  "coords": [
+                        2.573982,
+                        51.064165
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Ismert családi élménypark De Panne-ban, a belga tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "Un muzeu dedicat artistului Paul Delvaux, situat în Sint-Idesbald.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "'t Krekelhof",
+                  "text": "Un muzeu și spațiu pentru evenimente situat lângă rezervația naturală Westhoek.",
+                  "category": "museum",
+                  "coords": [
+                        2.622307,
+                        51.111741
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Un parc acvatic mare, cu diverse tobogane și zone tematice în De Panne.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "O zonă de dune și rezervație naturală pe coasta belgiană.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Kerkepannebos",
+                  "text": "O pădure de coastă și rezervație naturală în apropiere de De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.614359,
+                        51.096092
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Cea mai veche rezervație naturală de stat din Belgia, cu un peisaj vast de dune.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Cabourduinen",
+                  "text": "O zonă istorică de dune și rezervație naturală în provincia Flandra de Vest.",
+                  "category": "natural",
+                  "coords": [
+                        2.573982,
+                        51.064165
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Un cunoscut parc de distracții pentru familii în De Panne, pe coasta belgiană.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "A museum dedicated to the artist Paul Delvaux, located in Sint-Idesbald.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "'t Krekelhof",
+                  "text": "A museum and event venue located near the Westhoek nature reserve.",
+                  "category": "museum",
+                  "coords": [
+                        2.622307,
+                        51.111741
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "A large water park with various slides and themed areas in De Panne.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "A coastal dune area and nature reserve on the Belgian coast.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Kerkepannebos",
+                  "text": "A coastal forest and nature reserve located near De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.614359,
+                        51.096092
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Belgium's oldest state nature reserve, featuring an extensive dune landscape.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Cabourduinen",
+                  "text": "A historical dune area and nature reserve in the province of West Flanders.",
+                  "category": "natural",
+                  "coords": [
+                        2.573982,
+                        51.064165
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "A well-known family theme park in De Panne on the Belgian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet De Westhoek", hu: "Westhoek Természetvédelmi Terület", ro: "Rezervația Naturală Westhoek", en: "Westhoek Nature Reserve"},
@@ -1116,7 +2538,160 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
     },
   },
   {
-    id: "belgium-foret-anlier-life-v2",
+    id: "belgium-foret-anlier-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château-Ferme du Monceau",
+                  "text": "Eine historische Schlossanlage im Naturpark Haute-Sûre Forêt d'Anlier.",
+                  "category": "castle",
+                  "coords": [
+                        5.552175,
+                        49.881139
+                  ]
+            },
+            {
+                  "name": "5. Eau ''Macho''",
+                  "text": "Ein Aussichtspunkt im Naturpark, der einen Blick auf die lokale Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.53254,
+                        49.897983
+                  ]
+            },
+            {
+                  "name": "2. Réserve naturelle de Juseret",
+                  "text": "Ein Aussichtspunkt, der Blicke auf das Naturschutzgebiet von Juseret ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.549471,
+                        49.888695
+                  ]
+            },
+            {
+                  "name": "4. Bois Ramon, Les Buissons, Bois l'Awaite",
+                  "text": "Ein Aussichtspunkt im Naturpark mit Blick auf die umliegenden Waldgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        5.533098,
+                        49.873372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château-Ferme du Monceau",
+                  "text": "Egy történelmi kastélyépület a Haute-Sûre Forêt d'Anlier Natúrpark területén.",
+                  "category": "castle",
+                  "coords": [
+                        5.552175,
+                        49.881139
+                  ]
+            },
+            {
+                  "name": "5. Eau ''Macho''",
+                  "text": "Kilátópont a natúrparkban, amely rálátást biztosít a helyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.53254,
+                        49.897983
+                  ]
+            },
+            {
+                  "name": "2. Réserve naturelle de Juseret",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a juseret-i természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        5.549471,
+                        49.888695
+                  ]
+            },
+            {
+                  "name": "4. Bois Ramon, Les Buissons, Bois l'Awaite",
+                  "text": "Kilátópont a natúrparkban, kilátással a környező erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        5.533098,
+                        49.873372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château-Ferme du Monceau",
+                  "text": "Un castel istoric situat în Parcul Natural Haute-Sûre Forêt d'Anlier.",
+                  "category": "castle",
+                  "coords": [
+                        5.552175,
+                        49.881139
+                  ]
+            },
+            {
+                  "name": "5. Eau ''Macho''",
+                  "text": "Un punct de belvedere în parcul natural, oferind o vedere asupra peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        5.53254,
+                        49.897983
+                  ]
+            },
+            {
+                  "name": "2. Réserve naturelle de Juseret",
+                  "text": "Un punct de belvedere care oferă priveliști asupra rezervației naturale Juseret.",
+                  "category": "natural",
+                  "coords": [
+                        5.549471,
+                        49.888695
+                  ]
+            },
+            {
+                  "name": "4. Bois Ramon, Les Buissons, Bois l'Awaite",
+                  "text": "Un punct de belvedere în parcul natural cu vedere spre zonele forestiere înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        5.533098,
+                        49.873372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château-Ferme du Monceau",
+                  "text": "A historic castle complex located within the Haute-Sûre Forêt d'Anlier Natural Park.",
+                  "category": "castle",
+                  "coords": [
+                        5.552175,
+                        49.881139
+                  ]
+            },
+            {
+                  "name": "5. Eau ''Macho''",
+                  "text": "A viewpoint in the natural park providing a view of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.53254,
+                        49.897983
+                  ]
+            },
+            {
+                  "name": "2. Réserve naturelle de Juseret",
+                  "text": "A viewpoint offering views over the Juseret nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.549471,
+                        49.888695
+                  ]
+            },
+            {
+                  "name": "4. Bois Ramon, Les Buissons, Bois l'Awaite",
+                  "text": "A viewpoint in the natural park with views of the surrounding forested areas.",
+                  "category": "natural",
+                  "coords": [
+                        5.533098,
+                        49.873372
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "forest",
     name: { de: "Naturpark Haute-Sûre Forêt d'Anlier", hu: "Haute-Sûre Forêt d'Anlier Natúrpark", ro: "Parcul Natural Haute-Sûre Forêt d'Anlier", en: "Haute-Sûre Forêt d'Anlier Natural Park"},
@@ -1350,7 +2925,304 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
     },
   },
   {
-    id: "belgium-park-tervuren-life-v2",
+    id: "belgium-park-tervuren-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "AfricaMuseum",
+                  "text": "Ein bedeutendes Museum in Tervuren, das der Naturgeschichte und Ethnografie Zentralafrikas gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.518344,
+                        50.829518
+                  ]
+            },
+            {
+                  "name": "Paden van de Waaienberg",
+                  "text": "Ein Museumsbereich im Park von Tervuren mit malerischen Wegen und lokaler Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        4.538154,
+                        50.802486
+                  ]
+            },
+            {
+                  "name": "Kasteel Ter Meeren",
+                  "text": "Ein historisches Schloss in der Gegend von Tervuren, das für sein architektonisches Erbe bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        4.508913,
+                        50.855296
+                  ]
+            },
+            {
+                  "name": "Villa Clémentine",
+                  "text": "Eine herrschaftliche Villa in Tervuren, die oft mit der belgischen Königsfamilie in Verbindung gebracht wird.",
+                  "category": "castle",
+                  "coords": [
+                        4.496075,
+                        50.810399
+                  ]
+            },
+            {
+                  "name": "Hertogelijk Kasteel",
+                  "text": "Eine archäologische Stätte mit den Überresten des ehemaligen herzoglichen Schlosses von Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.517141,
+                        50.824413
+                  ]
+            },
+            {
+                  "name": "Kasteel van Oppem",
+                  "text": "Ein historisches Schloss in der Region des Parks von Tervuren.",
+                  "category": "castle",
+                  "coords": [
+                        4.489326,
+                        50.842535
+                  ]
+            },
+            {
+                  "name": "Kapucijnenklooster",
+                  "text": "Eine archäologische Stätte am ehemaligen Standort eines Kapuzinerklosters in Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.520596,
+                        50.808964
+                  ]
+            },
+            {
+                  "name": "Verts de Terre ASBL",
+                  "text": "Ein kleiner Zoo oder Tierpark im Park von Tervuren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.563484,
+                        50.807951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AfricaMuseum",
+                  "text": "Jelentős múzeum Tervurenben, amely Közép-Afrika természetrajzával és néprajzával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        4.518344,
+                        50.829518
+                  ]
+            },
+            {
+                  "name": "Paden van de Waaienberg",
+                  "text": "Múzeumi terület a tervureni parkban, festői utakkal és helytörténeti érdekességekkel.",
+                  "category": "museum",
+                  "coords": [
+                        4.538154,
+                        50.802486
+                  ]
+            },
+            {
+                  "name": "Kasteel Ter Meeren",
+                  "text": "Történelmi kastély Tervuren környékén, amely építészeti örökségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        4.508913,
+                        50.855296
+                  ]
+            },
+            {
+                  "name": "Villa Clémentine",
+                  "text": "Elegáns villa Tervurenben, amelyet gyakran a belga királyi családdal hoznak összefüggésbe.",
+                  "category": "castle",
+                  "coords": [
+                        4.496075,
+                        50.810399
+                  ]
+            },
+            {
+                  "name": "Hertogelijk Kasteel",
+                  "text": "Régészeti lelőhely, amely a tervureni egykori hercegi kastély maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        4.517141,
+                        50.824413
+                  ]
+            },
+            {
+                  "name": "Kasteel van Oppem",
+                  "text": "Történelmi kastély a tervureni park régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        4.489326,
+                        50.842535
+                  ]
+            },
+            {
+                  "name": "Kapucijnenklooster",
+                  "text": "Régészeti lelőhely egy egykori kapucinus kolostor helyén Tervurenben.",
+                  "category": "historical",
+                  "coords": [
+                        4.520596,
+                        50.808964
+                  ]
+            },
+            {
+                  "name": "Verts de Terre ASBL",
+                  "text": "Kisebb állatkert vagy állatpark a tervureni parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.563484,
+                        50.807951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AfricaMuseum",
+                  "text": "Un muzeu proeminent din Tervuren dedicat istoriei naturale și etnografiei Africii Centrale.",
+                  "category": "museum",
+                  "coords": [
+                        4.518344,
+                        50.829518
+                  ]
+            },
+            {
+                  "name": "Paden van de Waaienberg",
+                  "text": "O zonă muzeală din Parcul Tervuren, cu trasee pitorești și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        4.538154,
+                        50.802486
+                  ]
+            },
+            {
+                  "name": "Kasteel Ter Meeren",
+                  "text": "Un castel istoric situat în zona Tervuren, cunoscut pentru moștenirea sa arhitecturală.",
+                  "category": "castle",
+                  "coords": [
+                        4.508913,
+                        50.855296
+                  ]
+            },
+            {
+                  "name": "Villa Clémentine",
+                  "text": "O vilă impunătoare din Tervuren, adesea asociată cu familia regală belgiană.",
+                  "category": "castle",
+                  "coords": [
+                        4.496075,
+                        50.810399
+                  ]
+            },
+            {
+                  "name": "Hertogelijk Kasteel",
+                  "text": "Un sit arheologic care prezintă rămășițele fostului castel ducal din Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.517141,
+                        50.824413
+                  ]
+            },
+            {
+                  "name": "Kasteel van Oppem",
+                  "text": "Un castel istoric situat în regiunea Parcului Tervuren.",
+                  "category": "castle",
+                  "coords": [
+                        4.489326,
+                        50.842535
+                  ]
+            },
+            {
+                  "name": "Kapucijnenklooster",
+                  "text": "Un sit arheologic situat pe locul unei foste mănăstiri capucine din Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.520596,
+                        50.808964
+                  ]
+            },
+            {
+                  "name": "Verts de Terre ASBL",
+                  "text": "O mică grădină zoologică sau parc de animale situat în Parcul Tervuren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.563484,
+                        50.807951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AfricaMuseum",
+                  "text": "A prominent museum in Tervuren dedicated to the natural history and ethnography of Central Africa.",
+                  "category": "museum",
+                  "coords": [
+                        4.518344,
+                        50.829518
+                  ]
+            },
+            {
+                  "name": "Paden van de Waaienberg",
+                  "text": "A museum area in the Park of Tervuren featuring scenic paths and local history.",
+                  "category": "museum",
+                  "coords": [
+                        4.538154,
+                        50.802486
+                  ]
+            },
+            {
+                  "name": "Kasteel Ter Meeren",
+                  "text": "A historic castle located in the Tervuren area, known for its architectural heritage.",
+                  "category": "castle",
+                  "coords": [
+                        4.508913,
+                        50.855296
+                  ]
+            },
+            {
+                  "name": "Villa Clémentine",
+                  "text": "A stately villa in Tervuren, often associated with the Belgian royal family.",
+                  "category": "castle",
+                  "coords": [
+                        4.496075,
+                        50.810399
+                  ]
+            },
+            {
+                  "name": "Hertogelijk Kasteel",
+                  "text": "An archaeological site featuring the remains of the former ducal castle of Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.517141,
+                        50.824413
+                  ]
+            },
+            {
+                  "name": "Kasteel van Oppem",
+                  "text": "A historic castle situated in the Park of Tervuren region.",
+                  "category": "castle",
+                  "coords": [
+                        4.489326,
+                        50.842535
+                  ]
+            },
+            {
+                  "name": "Kapucijnenklooster",
+                  "text": "An archaeological site at the former location of a Capuchin monastery in Tervuren.",
+                  "category": "historical",
+                  "coords": [
+                        4.520596,
+                        50.808964
+                  ]
+            },
+            {
+                  "name": "Verts de Terre ASBL",
+                  "text": "A small zoo or animal park located in the Park of Tervuren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.563484,
+                        50.807951
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "park",
     name: { de: "Park von Tervuren", hu: "Tervureni Park", ro: "Parcul din Tervuren", en: "Park of Tervuren"},
@@ -1444,7 +3316,304 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
   }
 ,
   {
-    id: "belgium-groenendaal-arboretum-life-v2",
+    id: "belgium-groenendaal-arboretum-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "Ein geschützter Bereich innerhalb des Zonienwaldes beim Arboretum Groenendaal.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château Charle-Albert — Charle-Albertkasteel",
+                  "text": "Ein im neoflämischen Renaissance-Stil erbautes Schloss aus dem 19. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        4.428081,
+                        50.800968
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "Teil des Naturschutzgebiets im Zonienwald bei Groenendaal.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            },
+            {
+                  "name": "Bosreservaat Joseph Zwaenepoel",
+                  "text": "Ein streng geschütztes Waldreservat innerhalb des Zonienwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        4.416503,
+                        50.756353
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Jan van Ruusbroec",
+                  "text": "Ein Waldmuseum, das sich der Ökologie und Geschichte des Zonienwaldes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        4.441508,
+                        50.768594
+                  ]
+            },
+            {
+                  "name": "Priorij Groenendaal",
+                  "text": "Archäologische Überreste einer bedeutenden ehemaligen Augustiner-Priorat.",
+                  "category": "historical",
+                  "coords": [
+                        4.435518,
+                        50.766151
+                  ]
+            },
+            {
+                  "name": "Vijverhof",
+                  "text": "Ein Gebäude oder eine Anlage beim Arboretum Groenendaal mit Bezug zu Wasserökosystemen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.478555,
+                        50.781053
+                  ]
+            },
+            {
+                  "name": "Bas Fournaux de la Forêt de Soignes",
+                  "text": "Eine archäologische Fundstätte im Zonienwald mit historischen Industriezeugnissen.",
+                  "category": "historical",
+                  "coords": [
+                        4.423457,
+                        50.78368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "Védett terület a Sonian-erdőben, a Groenendaal Arborétum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château Charle-Albert — Charle-Albertkasteel",
+                  "text": "19. századi, neoflandriai reneszánsz stílusú kastély.",
+                  "category": "castle",
+                  "coords": [
+                        4.428081,
+                        50.800968
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "A Sonian-erdő természetvédelmi területének része Groenendaal közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            },
+            {
+                  "name": "Bosreservaat Joseph Zwaenepoel",
+                  "text": "Szigorúan védett erdőrezervátum a Sonian-erdő területén.",
+                  "category": "natural",
+                  "coords": [
+                        4.416503,
+                        50.756353
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Jan van Ruusbroec",
+                  "text": "Erdészeti múzeum, amely a Sonian-erdő ökológiáját és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.441508,
+                        50.768594
+                  ]
+            },
+            {
+                  "name": "Priorij Groenendaal",
+                  "text": "Egy jelentős egykori ágoston-rendi per jelség régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        4.435518,
+                        50.766151
+                  ]
+            },
+            {
+                  "name": "Vijverhof",
+                  "text": "Létesítmény a Groenendaal Arborétum közelében, vízi ökoszisztémákhoz kapcsolódóan.",
+                  "category": "recreational",
+                  "coords": [
+                        4.478555,
+                        50.781053
+                  ]
+            },
+            {
+                  "name": "Bas Fournaux de la Forêt de Soignes",
+                  "text": "Régészeti lelőhely a Sonian-erdőben, történelmi ipari emlékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        4.423457,
+                        50.78368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "O zonă protejată în pădurea Sonian, lângă Arboretum Groenendaal.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château Charle-Albert — Charle-Albertkasteel",
+                  "text": "Un castel din secolul al XIX-lea, construit în stil neorenascentist flamand.",
+                  "category": "castle",
+                  "coords": [
+                        4.428081,
+                        50.800968
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "Parte a rezervației naturale din pădurea Sonian, lângă Groenendaal.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            },
+            {
+                  "name": "Bosreservaat Joseph Zwaenepoel",
+                  "text": "O rezervație forestieră strict protejată în cadrul pădurii Sonian.",
+                  "category": "natural",
+                  "coords": [
+                        4.416503,
+                        50.756353
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Jan van Ruusbroec",
+                  "text": "Un muzeu forestier dedicat ecologiei și istoriei pădurii Sonian.",
+                  "category": "museum",
+                  "coords": [
+                        4.441508,
+                        50.768594
+                  ]
+            },
+            {
+                  "name": "Priorij Groenendaal",
+                  "text": "Rămășițele arheologice ale unei foste priorități augustiniene importante.",
+                  "category": "historical",
+                  "coords": [
+                        4.435518,
+                        50.766151
+                  ]
+            },
+            {
+                  "name": "Vijverhof",
+                  "text": "O facilitate de lângă Arboretum Groenendaal, legată de ecosistemele acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        4.478555,
+                        50.781053
+                  ]
+            },
+            {
+                  "name": "Bas Fournaux de la Forêt de Soignes",
+                  "text": "Un sit arheologic în pădurea Sonian, cu dovezi industriale istorice.",
+                  "category": "historical",
+                  "coords": [
+                        4.423457,
+                        50.78368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sonian Forest - Grippensdelle A",
+                  "text": "A protected area within the Sonian Forest near the Groenendaal Arboretum.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château Charle-Albert — Charle-Albertkasteel",
+                  "text": "A 19th-century castle built in the Neo-Flemish Renaissance style.",
+                  "category": "castle",
+                  "coords": [
+                        4.428081,
+                        50.800968
+                  ]
+            },
+            {
+                  "name": "Sonian Forest - Grippensdelle B",
+                  "text": "Part of the nature reserve in the Sonian Forest near Groenendaal.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            },
+            {
+                  "name": "Bosreservaat Joseph Zwaenepoel",
+                  "text": "A strictly protected forest reserve within the Sonian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        4.416503,
+                        50.756353
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Jan van Ruusbroec",
+                  "text": "A forest museum dedicated to the ecology and history of the Sonian Forest.",
+                  "category": "museum",
+                  "coords": [
+                        4.441508,
+                        50.768594
+                  ]
+            },
+            {
+                  "name": "Priorij Groenendaal",
+                  "text": "Archaeological remains of a significant former Augustinian priory.",
+                  "category": "historical",
+                  "coords": [
+                        4.435518,
+                        50.766151
+                  ]
+            },
+            {
+                  "name": "Vijverhof",
+                  "text": "A facility near the Groenendaal Arboretum related to aquatic ecosystems.",
+                  "category": "recreational",
+                  "coords": [
+                        4.478555,
+                        50.781053
+                  ]
+            },
+            {
+                  "name": "Bas Fournaux de la Forêt de Soignes",
+                  "text": "An archaeological site in the Sonian Forest with historical industrial evidence.",
+                  "category": "historical",
+                  "coords": [
+                        4.423457,
+                        50.78368
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BE",
     name: { de: "Arboretum Groenendaal", hu: "Groenendaal Arborétum", ro: "Arboretum Groenendaal", en: "Groenendaal Arboretum" },
@@ -1534,7 +3703,268 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
     image: "/poi-images/belgium-knokke-zwin-dunes-life-v2.webp",
   },
   {
-    id: "belgium-torgny-nature-reserve-life-v2",
+    id: "belgium-torgny-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domaine de Mandville",
+                  "text": "Ein Schlossgut in der Nähe des Naturschutzgebiets Torgny.",
+                  "category": "castle",
+                  "coords": [
+                        5.490573,
+                        49.502331
+                  ]
+            },
+            {
+                  "name": "Château-fort de Montquintin",
+                  "text": "Ruinen einer mittelalterlichen Höhenburg in der Region Gaume.",
+                  "category": "castle",
+                  "coords": [
+                        5.472772,
+                        49.545572
+                  ]
+            },
+            {
+                  "name": "Visiorama",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das umliegende Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        5.47407,
+                        49.545101
+                  ]
+            },
+            {
+                  "name": "Le Pied en Coulisses",
+                  "text": "Ein lokales Kunst- und Kulturzentrum in der Umgebung von Torgny.",
+                  "category": "cultural",
+                  "coords": [
+                        5.485749,
+                        49.528153
+                  ]
+            },
+            {
+                  "name": "Vignes du Poirier du Loup",
+                  "text": "Lokale Weinberge, die für die Weinproduktion in dieser Region bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        5.477637,
+                        49.512342
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Eine historische Pfarrkirche, die dem heiligen Michael gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.455568,
+                        49.527302
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-la-Vierge",
+                  "text": "Eine lokale Kirche, die der Geburt der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.456313,
+                        49.506297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domaine de Mandville",
+                  "text": "Egy kastélybirtok a Torgny természetvédelmi terület közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.490573,
+                        49.502331
+                  ]
+            },
+            {
+                  "name": "Château-fort de Montquintin",
+                  "text": "Egy középkori hegyi vár romjai a Gaume régióban.",
+                  "category": "castle",
+                  "coords": [
+                        5.472772,
+                        49.545572
+                  ]
+            },
+            {
+                  "name": "Visiorama",
+                  "text": "Egy kilátóhely, ahonnan széles kilátás nyílik a környező természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        5.47407,
+                        49.545101
+                  ]
+            },
+            {
+                  "name": "Le Pied en Coulisses",
+                  "text": "Egy helyi művészeti és kulturális központ Torgny környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        5.485749,
+                        49.528153
+                  ]
+            },
+            {
+                  "name": "Vignes du Poirier du Loup",
+                  "text": "Helyi szőlőültetvények, amelyek a régió bortermeléséről ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        5.477637,
+                        49.512342
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Szent Mihálynak szentelt történelmi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        5.455568,
+                        49.527302
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-la-Vierge",
+                  "text": "A Szűz Mária születésének szentelt helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        5.456313,
+                        49.506297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domaine de Mandville",
+                  "text": "O proprietate cu castel situată în apropierea rezervației naturale Torgny.",
+                  "category": "castle",
+                  "coords": [
+                        5.490573,
+                        49.502331
+                  ]
+            },
+            {
+                  "name": "Château-fort de Montquintin",
+                  "text": "Ruinele unei cetăți medievale de pe deal din regiunea Gaume.",
+                  "category": "castle",
+                  "coords": [
+                        5.472772,
+                        49.545572
+                  ]
+            },
+            {
+                  "name": "Visiorama",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra rezervației naturale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        5.47407,
+                        49.545101
+                  ]
+            },
+            {
+                  "name": "Le Pied en Coulisses",
+                  "text": "Un centru local de artă și cultură din zona Torgny.",
+                  "category": "cultural",
+                  "coords": [
+                        5.485749,
+                        49.528153
+                  ]
+            },
+            {
+                  "name": "Vignes du Poirier du Loup",
+                  "text": "Podgorii locale cunoscute pentru producția de vin din această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        5.477637,
+                        49.512342
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "O biserică parohială istorică dedicată Sfântului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        5.455568,
+                        49.527302
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-la-Vierge",
+                  "text": "O biserică locală dedicată Nașterii Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        5.456313,
+                        49.506297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domaine de Mandville",
+                  "text": "A castle estate located near the Torgny Nature Reserve.",
+                  "category": "castle",
+                  "coords": [
+                        5.490573,
+                        49.502331
+                  ]
+            },
+            {
+                  "name": "Château-fort de Montquintin",
+                  "text": "Ruins of a medieval hilltop fortress in the Gaume region.",
+                  "category": "castle",
+                  "coords": [
+                        5.472772,
+                        49.545572
+                  ]
+            },
+            {
+                  "name": "Visiorama",
+                  "text": "A viewpoint offering broad vistas over the surrounding nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.47407,
+                        49.545101
+                  ]
+            },
+            {
+                  "name": "Le Pied en Coulisses",
+                  "text": "A local arts and cultural centre in the Torgny area.",
+                  "category": "cultural",
+                  "coords": [
+                        5.485749,
+                        49.528153
+                  ]
+            },
+            {
+                  "name": "Vignes du Poirier du Loup",
+                  "text": "Local vineyards known for wine production in this region.",
+                  "category": "landmark",
+                  "coords": [
+                        5.477637,
+                        49.512342
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "A historic parish church dedicated to Saint Michael.",
+                  "category": "religious",
+                  "coords": [
+                        5.455568,
+                        49.527302
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-la-Vierge",
+                  "text": "A local church dedicated to the Nativity of the Virgin.",
+                  "category": "religious",
+                  "coords": [
+                        5.456313,
+                        49.506297
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BE",
     name: { de: "Naturschutzgebiet Torgny", hu: "Torgny Természetvédelmi Terület", ro: "Rezervația Naturală Torgny", en: "Torgny Nature Reserve" },

@@ -13,6 +13,60 @@ export const finlandHistoryV2: POI[] = [
                         22.461511,
                         60.412711
                   ]
+            },
+            {
+                  "name": "Pukkilan kartanomuseo",
+                  "text": "Ein Herrenhaus-Museum in der Nähe der Schlossruine Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.468778,
+                        60.43208
+                  ]
+            },
+            {
+                  "name": "Kuusiston piispanlinna",
+                  "text": "Die Ruinen einer mittelalterlichen Bischofsburg auf der Insel Kuusisto.",
+                  "category": "castle",
+                  "coords": [
+                        22.474851,
+                        60.407718
+                  ]
+            },
+            {
+                  "name": "Sipilänmäen kesäteatteri",
+                  "text": "Ein Sommertheater in der historischen Umgebung von Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.48489,
+                        60.422714
+                  ]
+            },
+            {
+                  "name": "Avaruuspuisto Väisälä",
+                  "text": "Ein Museum und Wissenschaftszentrum bei Kuusisto Castle Ruins.",
+                  "category": "museum",
+                  "coords": [
+                        22.444771,
+                        60.415833
+                  ]
+            },
+            {
+                  "name": "Kuusiston kartano",
+                  "text": "Ein historisches Gutshaus und Museum in Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.466499,
+                        60.403874
+                  ]
+            },
+            {
+                  "name": "Kaarina-Teatteri",
+                  "text": "Ein lokales Theater in der Gemeinde Kaarina bei Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.373104,
+                        60.41032
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +77,60 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         22.461511,
                         60.412711
+                  ]
+            },
+            {
+                  "name": "Pukkilan kartanomuseo",
+                  "text": "Kúriamúzeum Kuusisto várromjainak közelében.",
+                  "category": "museum",
+                  "coords": [
+                        22.468778,
+                        60.43208
+                  ]
+            },
+            {
+                  "name": "Kuusiston piispanlinna",
+                  "text": "Egy középkori püspöki vár romjai Kuusisto szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        22.474851,
+                        60.407718
+                  ]
+            },
+            {
+                  "name": "Sipilänmäen kesäteatteri",
+                  "text": "Szabadtéri nyári színház Kuusisto történelmi környezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        22.48489,
+                        60.422714
+                  ]
+            },
+            {
+                  "name": "Avaruuspuisto Väisälä",
+                  "text": "Múzeum és tudományos központ a kuusistói várromoknál.",
+                  "category": "museum",
+                  "coords": [
+                        22.444771,
+                        60.415833
+                  ]
+            },
+            {
+                  "name": "Kuusiston kartano",
+                  "text": "Történelmi udvarház és múzeum Kuusistóban.",
+                  "category": "museum",
+                  "coords": [
+                        22.466499,
+                        60.403874
+                  ]
+            },
+            {
+                  "name": "Kaarina-Teatteri",
+                  "text": "Helyi színház Kaarina községben, Kuusisto közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        22.373104,
+                        60.41032
                   ]
             }
       ],
@@ -35,6 +143,60 @@ export const finlandHistoryV2: POI[] = [
                         22.461511,
                         60.412711
                   ]
+            },
+            {
+                  "name": "Pukkilan kartanomuseo",
+                  "text": "Un muzeu amenajat într-un conac lângă ruinele castelului Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.468778,
+                        60.43208
+                  ]
+            },
+            {
+                  "name": "Kuusiston piispanlinna",
+                  "text": "Ruinele unui castel episcopal medieval situat pe insula Kuusisto.",
+                  "category": "castle",
+                  "coords": [
+                        22.474851,
+                        60.407718
+                  ]
+            },
+            {
+                  "name": "Sipilänmäen kesäteatteri",
+                  "text": "Un teatru de vară situat în zona istorică a castelului Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.48489,
+                        60.422714
+                  ]
+            },
+            {
+                  "name": "Avaruuspuisto Väisälä",
+                  "text": "Un muzeu și centru spațial situat lângă ruinele castelului Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.444771,
+                        60.415833
+                  ]
+            },
+            {
+                  "name": "Kuusiston kartano",
+                  "text": "Un conac istoric și muzeu situat în Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.466499,
+                        60.403874
+                  ]
+            },
+            {
+                  "name": "Kaarina-Teatteri",
+                  "text": "Un teatru local în Kaarina, situat lângă Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.373104,
+                        60.41032
+                  ]
             }
       ],
       "en": [
@@ -45,6 +207,60 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         22.461511,
                         60.412711
+                  ]
+            },
+            {
+                  "name": "Pukkilan kartanomuseo",
+                  "text": "A manor house museum located near the Kuusisto Castle ruins.",
+                  "category": "museum",
+                  "coords": [
+                        22.468778,
+                        60.43208
+                  ]
+            },
+            {
+                  "name": "Kuusisto castle",
+                  "text": "The ruins of a medieval bishop's castle on Kuusisto island.",
+                  "category": "castle",
+                  "coords": [
+                        22.474851,
+                        60.407718
+                  ]
+            },
+            {
+                  "name": "Sipilänmäen kesäteatteri",
+                  "text": "A summer theatre located in the historic area of Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.48489,
+                        60.422714
+                  ]
+            },
+            {
+                  "name": "Space Park Väisälä",
+                  "text": "A museum and science center located near the Kuusisto Castle ruins.",
+                  "category": "museum",
+                  "coords": [
+                        22.444771,
+                        60.415833
+                  ]
+            },
+            {
+                  "name": "Kuusiston kartano",
+                  "text": "A historic manor and museum located in Kuusisto.",
+                  "category": "museum",
+                  "coords": [
+                        22.466499,
+                        60.403874
+                  ]
+            },
+            {
+                  "name": "Kaarina-Teatteri",
+                  "text": "A local theatre in Kaarina, near Kuusisto.",
+                  "category": "cultural",
+                  "coords": [
+                        22.373104,
+                        60.41032
                   ]
             }
       ]
@@ -103,6 +319,51 @@ export const finlandHistoryV2: POI[] = [
                         29.398828,
                         62.520241
                   ]
+            },
+            {
+                  "name": "Maatalousmuseo",
+                  "text": "Ein Landwirtschaftsmuseum in der Region Liperi.",
+                  "category": "museum",
+                  "coords": [
+                        29.369428,
+                        62.531781
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in der Region Liperi.",
+                  "category": "natural",
+                  "coords": [
+                        29.41803,
+                        62.546826
+                  ]
+            },
+            {
+                  "name": "Härkinlammen lintutorni",
+                  "text": "Ein Aussichtsturm zur Vogelbeobachtung am Härkinlampi in Liperi.",
+                  "category": "natural",
+                  "coords": [
+                        29.423591,
+                        62.545766
+                  ]
+            },
+            {
+                  "name": "Liperin kirkko",
+                  "text": "Die historische Hauptkirche der Gemeinde Liperi.",
+                  "category": "religious",
+                  "coords": [
+                        29.387896,
+                        62.528128
+                  ]
+            },
+            {
+                  "name": "Vainolampi lintutorni",
+                  "text": "Ein Beobachtungspunkt für Vögel am Vainolampi-See in Liperi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.392559,
+                        62.529416
+                  ]
             }
       ],
       "hu": [
@@ -113,6 +374,51 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         29.398828,
                         62.520241
+                  ]
+            },
+            {
+                  "name": "Maatalousmuseo",
+                  "text": "Mezőgazdasági múzeum Liperi térségében.",
+                  "category": "museum",
+                  "coords": [
+                        29.369428,
+                        62.531781
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Természetvédelmi terület Liperi térségében.",
+                  "category": "natural",
+                  "coords": [
+                        29.41803,
+                        62.546826
+                  ]
+            },
+            {
+                  "name": "Härkinlammen lintutorni",
+                  "text": "Madármegfigyelő torony a Liperi-beli Härkinlampi-nál.",
+                  "category": "natural",
+                  "coords": [
+                        29.423591,
+                        62.545766
+                  ]
+            },
+            {
+                  "name": "Liperin kirkko",
+                  "text": "Liperi község történelmi főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        29.387896,
+                        62.528128
+                  ]
+            },
+            {
+                  "name": "Vainolampi lintutorni",
+                  "text": "Madármegfigyelő hely a Liperi-beli Vainolampi-tónál.",
+                  "category": "landmark",
+                  "coords": [
+                        29.392559,
+                        62.529416
                   ]
             }
       ],
@@ -125,6 +431,51 @@ export const finlandHistoryV2: POI[] = [
                         29.398828,
                         62.520241
                   ]
+            },
+            {
+                  "name": "Maatalousmuseo",
+                  "text": "Un muzeu al agriculturii situat în regiunea Liperi.",
+                  "category": "museum",
+                  "coords": [
+                        29.369428,
+                        62.531781
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "O rezervație naturală situată în regiunea Liperi.",
+                  "category": "natural",
+                  "coords": [
+                        29.41803,
+                        62.546826
+                  ]
+            },
+            {
+                  "name": "Härkinlammen lintutorni",
+                  "text": "Un turn de observare a păsărilor situat la Härkinlampi, în Liperi.",
+                  "category": "natural",
+                  "coords": [
+                        29.423591,
+                        62.545766
+                  ]
+            },
+            {
+                  "name": "Liperin kirkko",
+                  "text": "Biserica principală istorică a municipiului Liperi.",
+                  "category": "religious",
+                  "coords": [
+                        29.387896,
+                        62.528128
+                  ]
+            },
+            {
+                  "name": "Vainolampi lintutorni",
+                  "text": "Un punct de observare a păsărilor la lacul Vainolampi din Liperi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.392559,
+                        62.529416
+                  ]
             }
       ],
       "en": [
@@ -135,6 +486,51 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         29.398828,
                         62.520241
+                  ]
+            },
+            {
+                  "name": "Maatalousmuseo",
+                  "text": "An agricultural museum located in the Liperi region.",
+                  "category": "museum",
+                  "coords": [
+                        29.369428,
+                        62.531781
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "A nature reserve located in the Liperi region.",
+                  "category": "natural",
+                  "coords": [
+                        29.41803,
+                        62.546826
+                  ]
+            },
+            {
+                  "name": "Härkinlammen birdwatching tower",
+                  "text": "A birdwatching tower located at Härkinlampi in Liperi.",
+                  "category": "natural",
+                  "coords": [
+                        29.423591,
+                        62.545766
+                  ]
+            },
+            {
+                  "name": "Liperin kirkko",
+                  "text": "The historic main church of the Liperi municipality.",
+                  "category": "religious",
+                  "coords": [
+                        29.387896,
+                        62.528128
+                  ]
+            },
+            {
+                  "name": "Vainolampi lintutorni",
+                  "text": "A birdwatching observation point at Lake Vainolampi in Liperi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.392559,
+                        62.529416
                   ]
             }
       ]
@@ -390,7 +786,124 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-suomussalmi-raate-road-history-v2.webp",
   },
   {
-    id: "finland-lapinlahti-church-history-v2",
+    id: "finland-lapinlahti-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linnansalmen lintutorni",
+                  "text": "Ein Beobachtungsturm in Lapinlahti, der ideale Bedingungen zur Vogelbeobachtung in der finnischen Seenplatte bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.368568,
+                        63.365546
+                  ]
+            },
+            {
+                  "name": "Lapinlahden helluntaiseurakunta",
+                  "text": "Die Räumlichkeiten der Pfingstgemeinde in Lapinlahti, die als Ort des Gebets und der Gemeinschaft dienen.",
+                  "category": "religious",
+                  "coords": [
+                        27.395133,
+                        63.363521
+                  ]
+            },
+            {
+                  "name": "Lapinlahden kirkko",
+                  "text": "Die lutherische Kirche von Lapinlahti, ein markantes religiöses Gebäude in der finnischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        27.39309,
+                        63.367178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linnansalmen lintutorni",
+                  "text": "Megfigyelőtorony Lapinlahtiban, amely ideális feltételeket biztosít a madármegfigyeléshez a finn tóvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        27.368568,
+                        63.365546
+                  ]
+            },
+            {
+                  "name": "Lapinlahden helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet helyiségei Lapinlahtiban, amelyek imádság és közösségi élet helyszíneként szolgálnak.",
+                  "category": "religious",
+                  "coords": [
+                        27.395133,
+                        63.363521
+                  ]
+            },
+            {
+                  "name": "Lapinlahden kirkko",
+                  "text": "Lapinlahti evangélikus temploma, a finn település egyik jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        27.39309,
+                        63.367178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linnansalmen lintutorni",
+                  "text": "Un turn de observare în Lapinlahti, oferind condiții ideale pentru observarea păsărilor în regiunea lacurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        27.368568,
+                        63.365546
+                  ]
+            },
+            {
+                  "name": "Lapinlahden helluntaiseurakunta",
+                  "text": "Sediul congregației penticostale din Lapinlahti, care servește ca loc de rugăciune și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        27.395133,
+                        63.363521
+                  ]
+            },
+            {
+                  "name": "Lapinlahden kirkko",
+                  "text": "Biserica luterană din Lapinlahti, o clădire religioasă distinctivă în comuna finlandeză.",
+                  "category": "religious",
+                  "coords": [
+                        27.39309,
+                        63.367178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linnansalmen lintutorni",
+                  "text": "An observation tower in Lapinlahti, providing ideal conditions for birdwatching in the Finnish Lakeland.",
+                  "category": "natural",
+                  "coords": [
+                        27.368568,
+                        63.365546
+                  ]
+            },
+            {
+                  "name": "Lapinlahden helluntaiseurakunta",
+                  "text": "The premises of the Pentecostal congregation in Lapinlahti, serving as a place of worship and community.",
+                  "category": "religious",
+                  "coords": [
+                        27.395133,
+                        63.363521
+                  ]
+            },
+            {
+                  "name": "Lapinlahden kirkko",
+                  "text": "The Lutheran church of Lapinlahti, a prominent religious building in the Finnish municipality.",
+                  "category": "religious",
+                  "coords": [
+                        27.39309,
+                        63.367178
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Lapinlahti", hu: "Lapinlahti templom", ro: "Biserica din Lapinlahti", en: "Lapinlahti Church" },
@@ -1030,6 +1543,78 @@ export const finlandHistoryV2: POI[] = [
                         28.335473,
                         64.140501
                   ]
+            },
+            {
+                  "name": "Huovishuone",
+                  "text": "Ein Museum in Sotkamo, das dem Leben und Werk des Schriftstellers Veikko Huovinen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        28.393088,
+                        64.133059
+                  ]
+            },
+            {
+                  "name": "SuperPark Vuokatti",
+                  "text": "Ein Indoor-Aktivitätspark in Vuokatti mit Spielen und Sport für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.289602,
+                        64.149328
+                  ]
+            },
+            {
+                  "name": "Vuokatin Vesielämyskeskus",
+                  "text": "Dieser Wasserpark in Sotkamo bietet verschiedene Schwimmbecken und Wellness-Einrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.280117,
+                        64.13742
+                  ]
+            },
+            {
+                  "name": "Vuokatin luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in der Region Vuokatti, das für seine bewaldeten Hügel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.271812,
+                        64.123314
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Dieses Naturschutzgebiet in Sotkamo bewahrt die lokale Artenvielfalt und Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.248501,
+                        64.110488
+                  ]
+            },
+            {
+                  "name": "Sotkamon Työväentalo",
+                  "text": "Ein lokales Theater und Gemeinschaftszentrum in Sotkamo für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.381011,
+                        64.131038
+                  ]
+            },
+            {
+                  "name": "Kuikkalammen ranta",
+                  "text": "Ein öffentlicher Badestrand am Seeufer in der Gegend von Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.274702,
+                        64.143612
+                  ]
+            },
+            {
+                  "name": "Vuokatin näköalapaikka",
+                  "text": "Ein Aussichtspunkt in Vuokatti, der weite Blicke über die finnische Seenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.270081,
+                        64.12709
+                  ]
             }
       ],
       "hu": [
@@ -1049,6 +1634,78 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         28.335473,
                         64.140501
+                  ]
+            },
+            {
+                  "name": "Huovishuone",
+                  "text": "Veikko Huovinen író életének és munkásságának szentelt múzeum Sotkamóban.",
+                  "category": "museum",
+                  "coords": [
+                        28.393088,
+                        64.133059
+                  ]
+            },
+            {
+                  "name": "SuperPark Vuokatti",
+                  "text": "Fedett szabadidőpark Vuokattiban, amely játékokat és sportokat kínál minden korosztálynak.",
+                  "category": "recreational",
+                  "coords": [
+                        28.289602,
+                        64.149328
+                  ]
+            },
+            {
+                  "name": "Vuokatin Vesielämyskeskus",
+                  "text": "Ez a sotkamói vízipark különféle medencékkel és wellness-szolgáltatásokkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.280117,
+                        64.13742
+                  ]
+            },
+            {
+                  "name": "Vuokatin luonnonsuojelualue",
+                  "text": "A Vuokatti régióban található természetvédelmi terület, amely erdős dombjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.271812,
+                        64.123314
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ez a sotkamói természetvédelmi terület a helyi biodiverzitást és erdős tájat őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        28.248501,
+                        64.110488
+                  ]
+            },
+            {
+                  "name": "Sotkamon Työväentalo",
+                  "text": "Helyi színház és közösségi ház Sotkamóban, amely kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.381011,
+                        64.131038
+                  ]
+            },
+            {
+                  "name": "Kuikkalammen ranta",
+                  "text": "Publikus fürdőstrand a tóparton, Sotkamo környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        28.274702,
+                        64.143612
+                  ]
+            },
+            {
+                  "name": "Vuokatin näköalapaikka",
+                  "text": "Kilátóhely Vuokattiban, amely széles rálátást nyújt a finn tóvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        28.270081,
+                        64.12709
                   ]
             }
       ],
@@ -1070,6 +1727,78 @@ export const finlandHistoryV2: POI[] = [
                         28.335473,
                         64.140501
                   ]
+            },
+            {
+                  "name": "Huovishuone",
+                  "text": "Un muzeu din Sotkamo dedicat vieții și operei scriitorului Veikko Huovinen.",
+                  "category": "museum",
+                  "coords": [
+                        28.393088,
+                        64.133059
+                  ]
+            },
+            {
+                  "name": "SuperPark Vuokatti",
+                  "text": "Un parc de activități în interior din Vuokatti, care oferă jocuri și sporturi pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        28.289602,
+                        64.149328
+                  ]
+            },
+            {
+                  "name": "Vuokatin Vesielämyskeskus",
+                  "text": "Acest parc acvatic din Sotkamo oferă diverse piscine și facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        28.280117,
+                        64.13742
+                  ]
+            },
+            {
+                  "name": "Vuokatin luonnonsuojelualue",
+                  "text": "O rezervație naturală din regiunea Vuokatti, cunoscută pentru dealurile sale împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        28.271812,
+                        64.123314
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Această rezervație naturală din Sotkamo conservă biodiversitatea locală și peisajul forestier.",
+                  "category": "natural",
+                  "coords": [
+                        28.248501,
+                        64.110488
+                  ]
+            },
+            {
+                  "name": "Sotkamon Työväentalo",
+                  "text": "Un teatru local și centru comunitar din Sotkamo pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.381011,
+                        64.131038
+                  ]
+            },
+            {
+                  "name": "Kuikkalammen ranta",
+                  "text": "O plajă publică pe malul lacului, situată în zona Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.274702,
+                        64.143612
+                  ]
+            },
+            {
+                  "name": "Vuokatin näköalapaikka",
+                  "text": "Un punct de observație în Vuokatti care oferă vederi panoramice asupra peisajului lacustru finlandez.",
+                  "category": "natural",
+                  "coords": [
+                        28.270081,
+                        64.12709
+                  ]
             }
       ],
       "en": [
@@ -1089,6 +1818,78 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         28.335473,
                         64.140501
+                  ]
+            },
+            {
+                  "name": "Huovishuone",
+                  "text": "A museum in Sotkamo dedicated to the life and works of writer Veikko Huovinen.",
+                  "category": "museum",
+                  "coords": [
+                        28.393088,
+                        64.133059
+                  ]
+            },
+            {
+                  "name": "SuperPark Vuokatti",
+                  "text": "An indoor activity park in Vuokatti offering games and sports for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        28.289602,
+                        64.149328
+                  ]
+            },
+            {
+                  "name": "Vuokatin Vesielämyskeskus",
+                  "text": "This water park in Sotkamo offers various pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        28.280117,
+                        64.13742
+                  ]
+            },
+            {
+                  "name": "Vuokatin luonnonsuojelualue",
+                  "text": "A nature reserve in the Vuokatti region known for its forested hills.",
+                  "category": "natural",
+                  "coords": [
+                        28.271812,
+                        64.123314
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "This nature reserve in Sotkamo preserves the local biodiversity and forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.248501,
+                        64.110488
+                  ]
+            },
+            {
+                  "name": "Sotkamon Työväentalo",
+                  "text": "A local theatre and community hall in Sotkamo used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.381011,
+                        64.131038
+                  ]
+            },
+            {
+                  "name": "Kuikkalammen ranta",
+                  "text": "A public swimming beach located on the lakeshore in the Sotkamo area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.274702,
+                        64.143612
+                  ]
+            },
+            {
+                  "name": "Vuokatin näköalapaikka",
+                  "text": "A viewpoint in Vuokatti offering wide views over the Finnish lake landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.270081,
+                        64.12709
                   ]
             }
       ]
@@ -3631,6 +4432,69 @@ export const finlandHistoryV2: POI[] = [
                         27.184119,
                         60.571938
                   ]
+            },
+            {
+                  "name": "RUK-museo",
+                  "text": "Ein Museum in Hamina, das der Geschichte der finnischen Reserveoffiziersschule gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "Ein historisches Feuerschiff in Hamina, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Das Stadtmuseum von Hamina, untergebracht in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Eine archäologische Stätte mit Überresten der historischen Festungsanlagen von Hamina.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Eine archäologische Stätte in Hamina mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Vehkalahden kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Hamina, das das traditionelle lokale Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.179054,
+                        60.60358
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "Dieses Museum in Hamina zeigt das Leben und die Geschichte der lokalen Kaufleute.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
             }
       ],
       "hu": [
@@ -3650,6 +4514,69 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         27.184119,
                         60.571938
+                  ]
+            },
+            {
+                  "name": "RUK-museo",
+                  "text": "A finn tartalékos tisztképző iskola történetének szentelt múzeum Haminában.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "Történelmi világítóhajó Haminában, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Hamina városi múzeuma, amely egy történelmi épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Régészeti lelőhely Hamina történelmi erődítményeinek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Régészeti lelőhely Haminában, amely történelmi jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Vehkalahden kotiseutumuseo",
+                  "text": "Helytörténeti múzeum Haminában, amely a hagyományos helyi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.179054,
+                        60.60358
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "A haminai kereskedőház-múzeum a helyi kereskedők életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
                   ]
             }
       ],
@@ -3671,6 +4598,69 @@ export const finlandHistoryV2: POI[] = [
                         27.184119,
                         60.571938
                   ]
+            },
+            {
+                  "name": "RUK-museo",
+                  "text": "Un muzeu în Hamina dedicat istoriei Școlii de Ofițeri în Rezervă din Finlanda.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "O navă-far istorică din Hamina, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Muzeul orașului Hamina, găzduit într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "Un sit arheologic cu vestigiile fortificațiilor istorice din Hamina.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "Un sit arheologic în Hamina cu semnificație istorică.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Vehkalahden kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală în Hamina, prezentând viața tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        27.179054,
+                        60.60358
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "Acest muzeu din Hamina prezintă viața și istoria comercianților locali.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
+                  ]
             }
       ],
       "en": [
@@ -3690,6 +4680,69 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         27.184119,
                         60.571938
+                  ]
+            },
+            {
+                  "name": "RUK-museo",
+                  "text": "A museum in Hamina dedicated to the history of the Finnish Reserve Officer School.",
+                  "category": "museum",
+                  "coords": [
+                        27.206191,
+                        60.567375
+                  ]
+            },
+            {
+                  "name": "S/S Hyöky",
+                  "text": "A historic lightship in Hamina that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        27.181094,
+                        60.561453
+                  ]
+            },
+            {
+                  "name": "Haminan kaupunginmuseo",
+                  "text": "Hamina's city museum, housed in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        27.199359,
+                        60.569321
+                  ]
+            },
+            {
+                  "name": "Hist. linnake",
+                  "text": "An archaeological site featuring remains of Hamina's historic fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        27.177679,
+                        60.563244
+                  ]
+            },
+            {
+                  "name": "Kiilinmäki",
+                  "text": "An archaeological site in Hamina with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        27.161661,
+                        60.58685
+                  ]
+            },
+            {
+                  "name": "Vehkalahden kotiseutumuseo",
+                  "text": "A local history museum in Hamina displaying traditional local life.",
+                  "category": "museum",
+                  "coords": [
+                        27.179054,
+                        60.60358
+                  ]
+            },
+            {
+                  "name": "Haminan kauppiaantalomuseo",
+                  "text": "This museum in Hamina showcases the life and history of local merchants.",
+                  "category": "museum",
+                  "coords": [
+                        27.19879,
+                        60.568112
                   ]
             }
       ]
@@ -3738,7 +4791,124 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-hamina-town-plan-history-v2.webp",
   },
   {
-    id: "finland-uukuniemi-church-history-v2",
+    id: "finland-uukuniemi-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirkkokalio",
+                  "text": "Ein markanter Felsen und lokales Ausflugsziel in der Nähe von Uukuniemi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.974659,
+                        61.799962
+                  ]
+            },
+            {
+                  "name": "Huttumalja",
+                  "text": "Eine natürliche geologische Formation in der Region Uukuniemi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984645,
+                        61.765552
+                  ]
+            },
+            {
+                  "name": "Uukuniemen kirkko",
+                  "text": "Die hölzerne Pfarrkirche von Uukuniemi, erbaut im späten 18. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        30.006003,
+                        61.787058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirkkokalio",
+                  "text": "Jellegzetes sziklaformáció és kedvelt kirándulóhely Uukuniemi közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.974659,
+                        61.799962
+                  ]
+            },
+            {
+                  "name": "Huttumalja",
+                  "text": "Természetes geológiai képződmény Uukuniemi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984645,
+                        61.765552
+                  ]
+            },
+            {
+                  "name": "Uukuniemen kirkko",
+                  "text": "Uukuniemi fatemploma, amely a 18. század végén épült.",
+                  "category": "religious",
+                  "coords": [
+                        30.006003,
+                        61.787058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirkkokalio",
+                  "text": "O stâncă proeminentă și o destinație locală de excursie lângă Uukuniemi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.974659,
+                        61.799962
+                  ]
+            },
+            {
+                  "name": "Huttumalja",
+                  "text": "O formațiune geologică naturală în regiunea Uukuniemi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984645,
+                        61.765552
+                  ]
+            },
+            {
+                  "name": "Uukuniemen kirkko",
+                  "text": "Biserica parohială din lemn din Uukuniemi, construită la sfârșitul secolului al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        30.006003,
+                        61.787058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirkkokalio",
+                  "text": "A prominent rock formation and local excursion destination near Uukuniemi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.974659,
+                        61.799962
+                  ]
+            },
+            {
+                  "name": "Huttumalja",
+                  "text": "A natural geological formation in the Uukuniemi region.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984645,
+                        61.765552
+                  ]
+            },
+            {
+                  "name": "Uukuniemen kirkko",
+                  "text": "The wooden parish church of Uukuniemi, built in the late 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        30.006003,
+                        61.787058
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Uukuniemi", hu: "Uukuniemi templom", ro: "Biserica din Uukuniemi", en: "Uukuniemi Church" },

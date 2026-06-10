@@ -93,7 +93,268 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-tana-valley-relief-v2.webp",
   },
   {
-    id: "finland-koli-vaara-relief-v2",
+    id: "finland-koli-vaara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kolin kansallispuisto",
+                  "text": "Ein finnischer Nationalpark, der für seine ikonischen Hügellandschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.879091,
+                        63.061584
+                  ]
+            },
+            {
+                  "name": "Likolahti",
+                  "text": "Ein ruhiger Badestrand am Seeufer im Koli-Gebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.832959,
+                        63.090255
+                  ]
+            },
+            {
+                  "name": "Ukko-Koli",
+                  "text": "Der höchste Gipfel im Koli-Nationalpark mit Panoramablick über den Pielinen-See.",
+                  "category": "landmark",
+                  "coords": [
+                        29.808864,
+                        63.09439
+                  ]
+            },
+            {
+                  "name": "Koli",
+                  "text": "Ein beliebtes Touristenziel in Finnland, bekannt für seine beeindruckende Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        29.805719,
+                        63.095225
+                  ]
+            },
+            {
+                  "name": "Ryläyksen kiviputous",
+                  "text": "Ein Aussichtspunkt, der für seine markanten Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.828251,
+                        63.044611
+                  ]
+            },
+            {
+                  "name": "Verkkovaara",
+                  "text": "Ein bewaldeter Hügel, der weite Ausblicke über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.787019,
+                        63.062328
+                  ]
+            },
+            {
+                  "name": "Ryläys näkötorni",
+                  "text": "Ein hölzerner Aussichtsturm, der einen weiten Blick über die finnischen Wälder ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        29.828307,
+                        63.040788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolin kansallispuisto",
+                  "text": "Finn nemzeti park, amely ikonikus dombos tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.879091,
+                        63.061584
+                  ]
+            },
+            {
+                  "name": "Likolahti",
+                  "text": "Nyugodt fürdőhely a tóparton, a Koli-régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.832959,
+                        63.090255
+                  ]
+            },
+            {
+                  "name": "Ukko-Koli",
+                  "text": "A Koli Nemzeti Park legmagasabb csúcsa, panorámás kilátással a Pielinen-tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        29.808864,
+                        63.09439
+                  ]
+            },
+            {
+                  "name": "Koli",
+                  "text": "Népszerű turisztikai célpont Finnországban, lenyűgöző természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.805719,
+                        63.095225
+                  ]
+            },
+            {
+                  "name": "Ryläyksen kiviputous",
+                  "text": "Kilátóhely, amely jellegzetes sziklaformációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.828251,
+                        63.044611
+                  ]
+            },
+            {
+                  "name": "Verkkovaara",
+                  "text": "Erdős domb, amely tágas kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        29.787019,
+                        63.062328
+                  ]
+            },
+            {
+                  "name": "Ryläys näkötorni",
+                  "text": "Fából készült kilátótorony, amely tágas kilátást nyújt a finn erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        29.828307,
+                        63.040788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolin kansallispuisto",
+                  "text": "Un parc național finlandez cunoscut pentru peisajele sale deluroase iconice.",
+                  "category": "natural",
+                  "coords": [
+                        29.879091,
+                        63.061584
+                  ]
+            },
+            {
+                  "name": "Likolahti",
+                  "text": "O plajă liniștită pe malul lacului în zona Koli.",
+                  "category": "recreational",
+                  "coords": [
+                        29.832959,
+                        63.090255
+                  ]
+            },
+            {
+                  "name": "Ukko-Koli",
+                  "text": "Cel mai înalt vârf din Parcul Național Koli, oferind vedere panoramică asupra lacului Pielinen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.808864,
+                        63.09439
+                  ]
+            },
+            {
+                  "name": "Koli",
+                  "text": "O destinație turistică populară în Finlanda, cunoscută pentru natura sa impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        29.805719,
+                        63.095225
+                  ]
+            },
+            {
+                  "name": "Ryläyksen kiviputous",
+                  "text": "Un punct de observație cunoscut pentru formațiunile sale stâncoase distinctive.",
+                  "category": "natural",
+                  "coords": [
+                        29.828251,
+                        63.044611
+                  ]
+            },
+            {
+                  "name": "Verkkovaara",
+                  "text": "Un deal împădurit care oferü perspective largi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        29.787019,
+                        63.062328
+                  ]
+            },
+            {
+                  "name": "Ryläys näkötorni",
+                  "text": "Un turn de observare din lemn care oferă o vedere largă asupra pădurilor finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        29.828307,
+                        63.040788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koli National Park",
+                  "text": "A Finnish national park known for its iconic hilly landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        29.879091,
+                        63.061584
+                  ]
+            },
+            {
+                  "name": "Likolahti",
+                  "text": "A peaceful swimming beach on the lakeshore in the Koli area.",
+                  "category": "recreational",
+                  "coords": [
+                        29.832959,
+                        63.090255
+                  ]
+            },
+            {
+                  "name": "Ukko-Koli",
+                  "text": "The highest peak in Koli National Park, offering panoramic views over Lake Pielinen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.808864,
+                        63.09439
+                  ]
+            },
+            {
+                  "name": "Koli",
+                  "text": "A popular tourist destination in Finland, known for its stunning nature.",
+                  "category": "landmark",
+                  "coords": [
+                        29.805719,
+                        63.095225
+                  ]
+            },
+            {
+                  "name": "Ryläyksen kiviputous",
+                  "text": "A viewpoint known for its striking rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        29.828251,
+                        63.044611
+                  ]
+            },
+            {
+                  "name": "Verkkovaara",
+                  "text": "A forested hill offering wide views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.787019,
+                        63.062328
+                  ]
+            },
+            {
+                  "name": "Ryläys näkötorni",
+                  "text": "A wooden observation tower providing a vast view over the Finnish forests.",
+                  "category": "natural",
+                  "coords": [
+                        29.828307,
+                        63.040788
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Koli-Hügel", hu: "Koli-domb", ro: "Dealul Koli", en: "Koli Hill" },
@@ -138,7 +399,268 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-koli-vaara-relief-v2.webp",
   },
   {
-    id: "finland-yllaastunturi-relief-v2",
+    id: "finland-yllaastunturi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ihmisen Rinki",
+                  "text": "Ein Freilichttheater in der Region des Fjälls Yllästunturi.",
+                  "category": "cultural",
+                  "coords": [
+                        24.207611,
+                        67.58414
+                  ]
+            },
+            {
+                  "name": "Meän Elämää",
+                  "text": "Ein Kulturmuseum in Yllästunturi, das das lokale Leben und die Traditionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.204627,
+                        67.589494
+                  ]
+            },
+            {
+                  "name": "Mustavuoman lehtojensuojelualue",
+                  "text": "Ein Naturschutzgebiet, bekannt für seine üppigen Haine in der Nähe von Yllästunturi.",
+                  "category": "natural",
+                  "coords": [
+                        24.183901,
+                        67.548
+                  ]
+            },
+            {
+                  "name": "Varkaankurun rajoitusvyöhyke",
+                  "text": "Ein geschütztes Naturgebiet in Varkaankuru zum Schutz der einzigartigen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        24.220763,
+                        67.589782
+                  ]
+            },
+            {
+                  "name": "Savottamuseo",
+                  "text": "Ein Museum, das der Geschichte der Forstwirtschaft in Lappland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.202944,
+                        67.589606
+                  ]
+            },
+            {
+                  "name": "Kellostapuli",
+                  "text": "Ein markanter Berggipfel mit Panoramablick in der Region Ylläs.",
+                  "category": "landmark",
+                  "coords": [
+                        24.233524,
+                        67.589609
+                  ]
+            },
+            {
+                  "name": "Yllästunturi",
+                  "text": "Ein beliebter Fjäll in Finnisch-Lappland, bekannt für Skifahren und Wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224625,
+                        67.564709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ihmisen Rinki",
+                  "text": "Szabadtéri színház az Yllästunturi-hegyvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        24.207611,
+                        67.58414
+                  ]
+            },
+            {
+                  "name": "Meän Elämää",
+                  "text": "Kulturális múzeum Yllästunturiban, amely a helyi életet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.204627,
+                        67.589494
+                  ]
+            },
+            {
+                  "name": "Mustavuoman lehtojensuojelualue",
+                  "text": "Természetvédelmi terület ligetekkel Yllästunturi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.183901,
+                        67.548
+                  ]
+            },
+            {
+                  "name": "Varkaankurun rajoitusvyöhyke",
+                  "text": "Védett természetvédelmi terület Varkaankuruban az egyedülálló flóra védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        24.220763,
+                        67.589782
+                  ]
+            },
+            {
+                  "name": "Savottamuseo",
+                  "text": "A lappföldi fakitermelés történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.202944,
+                        67.589606
+                  ]
+            },
+            {
+                  "name": "Kellostapuli",
+                  "text": "Jellegzetes hegycsúcs panorámás kilátással az Ylläs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.233524,
+                        67.589609
+                  ]
+            },
+            {
+                  "name": "Yllästunturi",
+                  "text": "Népszerű hegycsúcs a finn Lappföldön, amely síelésről és túrázásról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224625,
+                        67.564709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ihmisen Rinki",
+                  "text": "Un teatru în aer liber situat în regiunea muntoasă Yllästunturi.",
+                  "category": "cultural",
+                  "coords": [
+                        24.207611,
+                        67.58414
+                  ]
+            },
+            {
+                  "name": "Meän Elämää",
+                  "text": "Un muzeu cultural în Yllästunturi care prezintă viața și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.204627,
+                        67.589494
+                  ]
+            },
+            {
+                  "name": "Mustavuoman lehtojensuojelualue",
+                  "text": "O rezervație naturală cunoscută pentru dumbrăvile sale de lângă Yllästunturi.",
+                  "category": "natural",
+                  "coords": [
+                        24.183901,
+                        67.548
+                  ]
+            },
+            {
+                  "name": "Varkaankurun rajoitusvyöhyke",
+                  "text": "O zonă naturală protejată în Varkaankuru pentru conservarea florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        24.220763,
+                        67.589782
+                  ]
+            },
+            {
+                  "name": "Savottamuseo",
+                  "text": "Un muzeu dedicat istoriei exploatării lemnului din Laponia.",
+                  "category": "museum",
+                  "coords": [
+                        24.202944,
+                        67.589606
+                  ]
+            },
+            {
+                  "name": "Kellostapuli",
+                  "text": "Un vârf montan proeminent care oferă vederi panoramice în zona Ylläs.",
+                  "category": "landmark",
+                  "coords": [
+                        24.233524,
+                        67.589609
+                  ]
+            },
+            {
+                  "name": "Yllästunturi",
+                  "text": "Un munte popular din Laponia finlandeză, cunoscut pentru schi și drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224625,
+                        67.564709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ihmisen Rinki",
+                  "text": "An outdoor theatre area located in the Yllästunturi fell region.",
+                  "category": "cultural",
+                  "coords": [
+                        24.207611,
+                        67.58414
+                  ]
+            },
+            {
+                  "name": "Meän Elämää",
+                  "text": "A cultural museum in Yllästunturi showcasing local life and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        24.204627,
+                        67.589494
+                  ]
+            },
+            {
+                  "name": "Mustavuoman lehtojensuojelualue",
+                  "text": "A protected nature reserve known for its lush groves near Yllästunturi.",
+                  "category": "natural",
+                  "coords": [
+                        24.183901,
+                        67.548
+                  ]
+            },
+            {
+                  "name": "Restricted area: Varkaankuru",
+                  "text": "A protected nature area in Varkaankuru protecting unique flora.",
+                  "category": "natural",
+                  "coords": [
+                        24.220763,
+                        67.589782
+                  ]
+            },
+            {
+                  "name": "Logging Museum",
+                  "text": "A museum dedicated to the history of the logging industry in Lapland.",
+                  "category": "museum",
+                  "coords": [
+                        24.202944,
+                        67.589606
+                  ]
+            },
+            {
+                  "name": "Kellostapuli",
+                  "text": "A prominent fell peak offering panoramic views in the Ylläs area.",
+                  "category": "landmark",
+                  "coords": [
+                        24.233524,
+                        67.589609
+                  ]
+            },
+            {
+                  "name": "Yllästunturi",
+                  "text": "A popular fell in Finnish Lapland known for skiing and outdoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224625,
+                        67.564709
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Yllästunturi", hu: "Yllästunturi", ro: "Yllästunturi", en: "Yllästunturi" },
@@ -193,6 +715,69 @@ export const finlandReliefV2: POI[] = [
                         27.214475,
                         67.046448
                   ]
+            },
+            {
+                  "name": "Noitatunturi",
+                  "text": "Der höchste Gipfel des Pyhätunturi-Massivs, bekannt für seine weite Sicht über Lappland.",
+                  "category": "landmark",
+                  "coords": [
+                        27.14882,
+                        67.013777
+                  ]
+            },
+            {
+                  "name": "Kultakero",
+                  "text": "Ein bekannter Berggipfel in Pyhätunturi, der ein Zentrum für Wintersportaktivitäten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.218368,
+                        67.021947
+                  ]
+            },
+            {
+                  "name": "Uhriharju",
+                  "text": "Ein schmaler Grat in Pyhätunturi, der früher als heilige Opferstätte der Samen diente.",
+                  "category": "landmark",
+                  "coords": [
+                        27.185932,
+                        67.021476
+                  ]
+            },
+            {
+                  "name": "Uhrilampi",
+                  "text": "Ein kleiner, klarer Teich in Pyhätunturi, der einst als heiliger Ort für Opfergaben genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        27.194201,
+                        67.020848
+                  ]
+            },
+            {
+                  "name": "Isokuru",
+                  "text": "Finnlands tiefste Schlucht, die beeindruckende geologische Formationen in Pyhätunturi bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.209912,
+                        67.015924
+                  ]
+            },
+            {
+                  "name": "Tajukankaan jääputous",
+                  "text": "Ein spektakulärer gefrorener Wasserfall in Pyhätunturi, ein beliebtes Ziel für Eiskletterer.",
+                  "category": "landmark",
+                  "coords": [
+                        27.239344,
+                        67.026738
+                  ]
+            },
+            {
+                  "name": "Uhriharjun katselulava",
+                  "text": "Eine hölzerne Aussichtsplattform auf dem Uhriharju-Grat mit Panoramablick über den Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        27.184737,
+                        67.021228
+                  ]
             }
       ],
       "hu": [
@@ -203,6 +788,69 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         27.214475,
                         67.046448
+                  ]
+            },
+            {
+                  "name": "Noitatunturi",
+                  "text": "A Pyhätunturi-masszívum legmagasabb csúcsa, amely híres a Lappföldre nyíló kilátásáról.",
+                  "category": "landmark",
+                  "coords": [
+                        27.14882,
+                        67.013777
+                  ]
+            },
+            {
+                  "name": "Kultakero",
+                  "text": "Ismert hegycsúcs Pyhätunturi területén, amely a téli sportok egyik központja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.218368,
+                        67.021947
+                  ]
+            },
+            {
+                  "name": "Uhriharju",
+                  "text": "Keskeny gerinc Pyhätunturi területén, amely egykor a számi nép szent áldozati helye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.185932,
+                        67.021476
+                  ]
+            },
+            {
+                  "name": "Uhrilampi",
+                  "text": "Apró, tiszta vizű tó Pyhätunturi területén, amelyet régen áldozati helyként használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        27.194201,
+                        67.020848
+                  ]
+            },
+            {
+                  "name": "Isokuru",
+                  "text": "Finnország legmélyebb szurdoka, amely lenyűgöző geológiai formációkkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        27.209912,
+                        67.015924
+                  ]
+            },
+            {
+                  "name": "Tajukankaan jääputous",
+                  "text": "Látványos fagyott vízesés Pyhätunturi területén, amely a jégmászók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.239344,
+                        67.026738
+                  ]
+            },
+            {
+                  "name": "Uhriharjun katselulava",
+                  "text": "Fából készült kilátóterasz az Uhriharju-gerincen, panorámás kilátással a nemzeti parkra.",
+                  "category": "natural",
+                  "coords": [
+                        27.184737,
+                        67.021228
                   ]
             }
       ],
@@ -215,6 +863,69 @@ export const finlandReliefV2: POI[] = [
                         27.214475,
                         67.046448
                   ]
+            },
+            {
+                  "name": "Noitatunturi",
+                  "text": "Cel mai înalt vârf din masivul Pyhätunturi, cunoscut pentru priveliștile sale asupra Laponiei.",
+                  "category": "landmark",
+                  "coords": [
+                        27.14882,
+                        67.013777
+                  ]
+            },
+            {
+                  "name": "Kultakero",
+                  "text": "Un vârf montan cunoscut din Pyhätunturi, care servește drept centru pentru sporturile de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        27.218368,
+                        67.021947
+                  ]
+            },
+            {
+                  "name": "Uhriharju",
+                  "text": "O creastă îngustă din Pyhätunturi, care servea în trecut ca loc de sacrificiu sacru al samilor.",
+                  "category": "landmark",
+                  "coords": [
+                        27.185932,
+                        67.021476
+                  ]
+            },
+            {
+                  "name": "Uhrilampi",
+                  "text": "Un mic iaz cu apă limpede în Pyhätunturi, utilizat în trecut ca loc sacru pentru ofrande.",
+                  "category": "landmark",
+                  "coords": [
+                        27.194201,
+                        67.020848
+                  ]
+            },
+            {
+                  "name": "Isokuru",
+                  "text": "Cel mai adânc defileu din Finlanda, oferind formațiuni geologice impresionante în Pyhätunturi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.209912,
+                        67.015924
+                  ]
+            },
+            {
+                  "name": "Tajukankaan jääputous",
+                  "text": "O cascadă înghețată spectaculoasă în Pyhätunturi, o destinație populară pentru cățărătorii pe gheață.",
+                  "category": "landmark",
+                  "coords": [
+                        27.239344,
+                        67.026738
+                  ]
+            },
+            {
+                  "name": "Uhriharjun katselulava",
+                  "text": "O platformă de observație din lemn pe creasta Uhriharju, cu vedere panoramică asupra parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        27.184737,
+                        67.021228
+                  ]
             }
       ],
       "en": [
@@ -225,6 +936,69 @@ export const finlandReliefV2: POI[] = [
                   "coords": [
                         27.214475,
                         67.046448
+                  ]
+            },
+            {
+                  "name": "Noitatunturi",
+                  "text": "The highest peak of the Pyhätunturi massif, known for its extensive views over Lapland.",
+                  "category": "landmark",
+                  "coords": [
+                        27.14882,
+                        67.013777
+                  ]
+            },
+            {
+                  "name": "Kultakero",
+                  "text": "A well-known mountain peak in Pyhätunturi, serving as a hub for winter sports.",
+                  "category": "landmark",
+                  "coords": [
+                        27.218368,
+                        67.021947
+                  ]
+            },
+            {
+                  "name": "Uhriharju",
+                  "text": "A narrow ridge in Pyhätunturi that historically served as a sacred Saami sacrificial site.",
+                  "category": "landmark",
+                  "coords": [
+                        27.185932,
+                        67.021476
+                  ]
+            },
+            {
+                  "name": "Uhrilampi",
+                  "text": "A small, clear pond in Pyhätunturi that was once used as a sacred site for sacrifices.",
+                  "category": "landmark",
+                  "coords": [
+                        27.194201,
+                        67.020848
+                  ]
+            },
+            {
+                  "name": "Isokuru",
+                  "text": "Finland's deepest gorge, featuring impressive geological formations in Pyhätunturi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.209912,
+                        67.015924
+                  ]
+            },
+            {
+                  "name": "Ice Fall",
+                  "text": "A spectacular frozen waterfall in Pyhätunturi, popular among ice climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        27.239344,
+                        67.026738
+                  ]
+            },
+            {
+                  "name": "Uhriharjun katselulava",
+                  "text": "A wooden viewing platform on the Uhriharju ridge, providing panoramic views over the national park.",
+                  "category": "natural",
+                  "coords": [
+                        27.184737,
+                        67.021228
                   ]
             }
       ]
@@ -273,7 +1047,160 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-pyhatunturi-relief-v2.webp",
   },
   {
-    id: "finland-sana-peak-relief-v2",
+    id: "finland-sana-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lehtojensuojelualue",
+                  "text": "Dies ist ein Naturschutzgebiet in Finnland, das zum Schutz wertvoller Hainwälder dient.",
+                  "category": "natural",
+                  "coords": [
+                        20.833814,
+                        69.041962
+                  ]
+            },
+            {
+                  "name": "Saana",
+                  "text": "Ein markanter Berggipfel in der Region Sana Peak, der für seine charakteristische Form bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.856483,
+                        69.043704
+                  ]
+            },
+            {
+                  "name": "Saana 747 näköalatasanne 2",
+                  "text": "Eine Aussichtsplattform in der Nähe des Gipfels Sana Peak, die weite Panoramablicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.807812,
+                        69.054248
+                  ]
+            },
+            {
+                  "name": "Kilpisjärven kasvipolku",
+                  "text": "Ein Lehrpfad in der Region Sana Peak, der sich auf die lokale arktische Flora konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.869436,
+                        69.018673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lehtojensuojelualue",
+                  "text": "Ez egy finnországi természetvédelmi terület, amely értékes ligeterdők megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        20.833814,
+                        69.041962
+                  ]
+            },
+            {
+                  "name": "Saana",
+                  "text": "Jellegzetes hegycsúcs a Sana Peak régióban, amely egyedi formájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.856483,
+                        69.043704
+                  ]
+            },
+            {
+                  "name": "Saana 747 näköalatasanne 2",
+                  "text": "Kilátóterasz a Sana Peak csúcsa közelében, amely széles panorámát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        20.807812,
+                        69.054248
+                  ]
+            },
+            {
+                  "name": "Kilpisjärven kasvipolku",
+                  "text": "Tanösvény a Sana Peak régióban, amely a helyi sarkvidéki növényvilágra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        20.869436,
+                        69.018673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lehtojensuojelualue",
+                  "text": "Aceasta este o rezervație naturală din Finlanda, dedicată protejării pădurilor de luncă valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        20.833814,
+                        69.041962
+                  ]
+            },
+            {
+                  "name": "Saana",
+                  "text": "Un vârf muntos proeminent în regiunea Sana Peak, cunoscut pentru forma sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        20.856483,
+                        69.043704
+                  ]
+            },
+            {
+                  "name": "Saana 747 näköalatasanne 2",
+                  "text": "O platformă de observare lângă vârful Sana Peak, oferind vederi panoramice vaste.",
+                  "category": "natural",
+                  "coords": [
+                        20.807812,
+                        69.054248
+                  ]
+            },
+            {
+                  "name": "Kilpisjärven kasvipolku",
+                  "text": "O potecă tematică în regiunea Sana Peak, concentrată pe flora arctică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        20.869436,
+                        69.018673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lehtojensuojelualue",
+                  "text": "This is a nature reserve in Finland dedicated to protecting valuable grove forests.",
+                  "category": "natural",
+                  "coords": [
+                        20.833814,
+                        69.041962
+                  ]
+            },
+            {
+                  "name": "Saana fell",
+                  "text": "A prominent mountain peak in the Sana Peak region, known for its distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        20.856483,
+                        69.043704
+                  ]
+            },
+            {
+                  "name": "Saana 747 näköalatasanne 2",
+                  "text": "A viewing platform near the Sana Peak summit, offering wide panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        20.807812,
+                        69.054248
+                  ]
+            },
+            {
+                  "name": "Kilpisjärvi plant walk path",
+                  "text": "A nature trail in the Sana Peak region focused on local arctic flora.",
+                  "category": "landmark",
+                  "coords": [
+                        20.869436,
+                        69.018673
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Sana-Gipfel", hu: "Sana-csúcs", ro: "Vârful Sana", en: "Sana Peak" },
@@ -318,7 +1245,88 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-sana-peak-relief-v2.webp",
   },
   {
-    id: "finland-levi-fjaell-relief-v2",
+    id: "finland-levi-fjaell-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hotelli Levitunturi Spa",
+                  "text": "Ein bekannter Wellness- und Wasserpark im Skiresort Levi in Lappland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.803027,
+                        67.803924
+                  ]
+            },
+            {
+                  "name": "Levi Summit",
+                  "text": "Ein Kongress- und Kulturzentrum am Hang des Berges Levi mit Panoramablick.",
+                  "category": "cultural",
+                  "coords": [
+                        24.810724,
+                        67.800323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotelli Levitunturi Spa",
+                  "text": "Népszerű wellness központ és élményfürdő a lappföldi Levi síközpontban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.803027,
+                        67.803924
+                  ]
+            },
+            {
+                  "name": "Levi Summit",
+                  "text": "Kilátással rendelkező kongresszusi és kulturális központ a Levi-hegy lejtőjén.",
+                  "category": "cultural",
+                  "coords": [
+                        24.810724,
+                        67.800323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotelli Levitunturi Spa",
+                  "text": "Un centru spa și parc acvatic renumit situat în stațiunea Levi din Laponia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.803027,
+                        67.803924
+                  ]
+            },
+            {
+                  "name": "Levi Summit",
+                  "text": "Un centru cultural și de congrese situat pe muntele Levi, oferind vederi panoramice.",
+                  "category": "cultural",
+                  "coords": [
+                        24.810724,
+                        67.800323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotelli Levitunturi Spa",
+                  "text": "A popular spa and water park facility located in the Levi ski resort in Lapland.",
+                  "category": "recreational",
+                  "coords": [
+                        24.803027,
+                        67.803924
+                  ]
+            },
+            {
+                  "name": "Levi Summit",
+                  "text": "A congress and arts centre situated on Levi Mountain, offering scenic views of the area.",
+                  "category": "cultural",
+                  "coords": [
+                        24.810724,
+                        67.800323
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Levi-Fjäll", hu: "Levi-hegy", ro: "Muntele Levi", en: "Levi Mountain" },
@@ -363,7 +1371,52 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-levi-fjaell-relief-v2.webp",
   },
   {
-    id: "finland-taivaskero-peak-relief-v2",
+    id: "finland-taivaskero-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palkaskero",
+                  "text": "Ein Gipfel im Pallastunturi-Fjellmassiv in Finnisch-Lappland mit weiter Fernsicht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palkaskero",
+                  "text": "Hegycsúcs a Pallastunturi-hegységben, a finn Lappföldön, messzire nyúló kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palkaskero",
+                  "text": "Un vârf din masivul muntos Pallastunturi din Laponia finlandeză, cu vederi la distanță mare.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palkaskero",
+                  "text": "A peak in the Pallastunturi fell massif in Finnish Lapland with far-reaching views.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Taivaskero-Gipfel", hu: "Taivaskero-csúcs", ro: "Vârful Taivaskero", en: "Taivaskero Peak" },
@@ -408,7 +1461,124 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-taivaskero-peak-relief-v2.webp",
   },
   {
-    id: "finland-pallastunturi-relief-v2",
+    id: "finland-pallastunturi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Ein geschütztes Naturgebiet mit Seen im Pallastunturi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            },
+            {
+                  "name": "Laukukero",
+                  "text": "Ein Gipfel in der Pallastunturi-Kette in Finnisch-Lappland.",
+                  "category": "landmark",
+                  "coords": [
+                        24.033384,
+                        68.06392
+                  ]
+            },
+            {
+                  "name": "Palkaskero",
+                  "text": "Ein bekannter Berg im Pallas-Yllästunturi-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Védett természeti terület tavakkal a Pallastunturi-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            },
+            {
+                  "name": "Laukukero",
+                  "text": "A finnországi Pallastunturi-hegység egyik hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        24.033384,
+                        68.06392
+                  ]
+            },
+            {
+                  "name": "Palkaskero",
+                  "text": "Ismert hegycsúcs a Pallas-Yllästunturi Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "O zonă naturală protejată cu lacuri în regiunea dealurilor Pallastunturi.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            },
+            {
+                  "name": "Laukukero",
+                  "text": "Un vârf în lanțul muntos Pallastunturi din Laponia finlandeză.",
+                  "category": "landmark",
+                  "coords": [
+                        24.033384,
+                        68.06392
+                  ]
+            },
+            {
+                  "name": "Palkaskero",
+                  "text": "Un vârf montan cunoscut în Parcul Național Pallas-Yllästunturi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Restricted area: Killinpoikainjärvet",
+                  "text": "A protected natural area featuring lakes in the Pallastunturi hills region.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            },
+            {
+                  "name": "Laukukero",
+                  "text": "A peak in the Pallastunturi range in Finnish Lapland.",
+                  "category": "landmark",
+                  "coords": [
+                        24.033384,
+                        68.06392
+                  ]
+            },
+            {
+                  "name": "Palkaskero",
+                  "text": "A well-known fell peak in the Pallas-Yllästunturi National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.096137,
+                        68.053523
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Pallastunturi-Hügel", hu: "Pallastunturi-hegyek", ro: "Dealurile Pallastunturi", en: "Pallastunturi Hills" },
@@ -543,7 +1713,196 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-luostotunturi-relief-v2.webp",
   },
   {
-    id: "finland-olostunturi-relief-v2",
+    id: "finland-olostunturi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muonion kotiseutumuseo",
+                  "text": "Ein Museum, das die Lokalgeschichte und das traditionelle Leben in Muonio zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.667922,
+                        67.946544
+                  ]
+            },
+            {
+                  "name": "Pekosen ranta",
+                  "text": "Ein öffentlicher Strandbereich in der Region Muonio.",
+                  "category": "recreational",
+                  "coords": [
+                        23.672505,
+                        67.955344
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Rukomasaari lintutorni",
+                  "text": "Ein Aussichtsturm zur Beobachtung von Vögeln in ihrem natürlichen Lebensraum.",
+                  "category": "natural",
+                  "coords": [
+                        23.640339,
+                        67.974362
+                  ]
+            },
+            {
+                  "name": "Harriniva Huskyfarm",
+                  "text": "Eine Huskyfarm, die Schlittenhunde-Erlebnisse und Touren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.654848,
+                        67.931802
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Puthaanranta lintutorni",
+                  "text": "Ein Aussichtspunkt zur Vogelbeobachtung im Gebiet Olostunturi.",
+                  "category": "natural",
+                  "coords": [
+                        23.671072,
+                        67.960571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muonion kotiseutumuseo",
+                  "text": "Múzeum, amely Muonio helytörténetét és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.667922,
+                        67.946544
+                  ]
+            },
+            {
+                  "name": "Pekosen ranta",
+                  "text": "Nyilvános strandterület Muonio régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.672505,
+                        67.955344
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Rukomasaari lintutorni",
+                  "text": "Madármegfigyelő torony a madarak természetes élőhelyükön való megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.640339,
+                        67.974362
+                  ]
+            },
+            {
+                  "name": "Harriniva Huskyfarm",
+                  "text": "Husky-farm, amely szánhúzó kutyaélményeket és túrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.654848,
+                        67.931802
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Puthaanranta lintutorni",
+                  "text": "Madármegfigyelő kilátó az Olostunturi területén.",
+                  "category": "natural",
+                  "coords": [
+                        23.671072,
+                        67.960571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muonion kotiseutumuseo",
+                  "text": "Un muzeu care prezintă istoria locală și viața tradițională din Muonio.",
+                  "category": "museum",
+                  "coords": [
+                        23.667922,
+                        67.946544
+                  ]
+            },
+            {
+                  "name": "Pekosen ranta",
+                  "text": "O zonă de plajă publică în regiunea Muonio.",
+                  "category": "recreational",
+                  "coords": [
+                        23.672505,
+                        67.955344
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Rukomasaari lintutorni",
+                  "text": "Un turn de observație pentru monitorizarea păsărilor în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        23.640339,
+                        67.974362
+                  ]
+            },
+            {
+                  "name": "Harriniva Huskyfarm",
+                  "text": "O fermă de husky care oferă experiențe cu sănii trase de câini și tururi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.654848,
+                        67.931802
+                  ]
+            },
+            {
+                  "name": "Muonionjärvi Puthaanranta lintutorni",
+                  "text": "Un punct de observație pentru păsări în zona Olostunturi.",
+                  "category": "natural",
+                  "coords": [
+                        23.671072,
+                        67.960571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muonio local history museum",
+                  "text": "A museum showcasing the local history and traditional life of Muonio.",
+                  "category": "museum",
+                  "coords": [
+                        23.667922,
+                        67.946544
+                  ]
+            },
+            {
+                  "name": "Pekosen ranta",
+                  "text": "A public beach area in the Muonio region.",
+                  "category": "recreational",
+                  "coords": [
+                        23.672505,
+                        67.955344
+                  ]
+            },
+            {
+                  "name": "Rukomasaari birdwatching tower",
+                  "text": "A tower designed for observing birds in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        23.640339,
+                        67.974362
+                  ]
+            },
+            {
+                  "name": "Harriniva Huskyfarm",
+                  "text": "A husky farm offering sled dog experiences and tours.",
+                  "category": "landmark",
+                  "coords": [
+                        23.654848,
+                        67.931802
+                  ]
+            },
+            {
+                  "name": "Puthaanranta birdwatching tower",
+                  "text": "A viewpoint for birdwatching located in the Olostunturi area.",
+                  "category": "natural",
+                  "coords": [
+                        23.671072,
+                        67.960571
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Olostunturi", hu: "Olostunturi", ro: "Olostunturi", en: "Olostunturi" },
@@ -588,7 +1947,88 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-olostunturi-relief-v2.webp",
   },
   {
-    id: "finland-pallas-lake-plain-relief-v2",
+    id: "finland-pallas-lake-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Ein riesiger Nationalpark in Finnisch-Lappland, bekannt für seine Fjälls und die unberührte arktische Natur.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Eine geschützte Naturzone innerhalb des Nationalparks, die sich auf den Erhalt der Seenumgebung konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Hatalmas nemzeti park a finn Lappföldön, amely hegyeiről és érintetlen sarki természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "A nemzeti parkon belüli védett természeti övezet, amely a tavi környezet megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Un vast parc național din Laponia finlandeză, cunoscut pentru dealurile sale și natura arctică virgină.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "O zonă naturală protejată în cadrul parcului național, axată pe conservarea mediului lacustru.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pallas-Yllästunturi National Park",
+                  "text": "A vast national park in Finnish Lapland known for its fells and pristine arctic nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Restricted area: Killinpoikainjärvet",
+                  "text": "A protected nature zone within the national park, focusing on the preservation of the lake environment.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "FI",
     name: { de: "Pallas-Seen-Ebene", hu: "Pallas-tavi-alföld", ro: "Câmpia lacurilor Pallas", en: "Pallas Lake Plain" },
@@ -633,7 +2073,196 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-pallas-lake-plain-relief-v2.webp",
   },
   {
-    id: "finland-aavasaksa-vaara-relief-v2",
+    id: "finland-aavasaksa-vaara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aunesgården",
+                  "text": "Ein Museum in Aavasaksa, das Einblicke in die lokale Geschichte und Traditionen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Kaiserhütte",
+                  "text": "Das älteste Tourismusgebäude in Lappland, das ursprünglich für den Zaren erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "Eine Freilichtbühne auf dem Hügel Aavasaksa, die für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "BRO -stranden",
+                  "text": "Ein Strandbereich am Fluss, der zur Erholung und Entspannung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        23.67764,
+                        66.375468
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "Eine historische Kirche in der Nähe von Aavasaksa, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aunesgården",
+                  "text": "Múzeum Aavasaksában, amely betekintést nyújt a helyi történelembe és hagyományokba.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "Lappföld legrégebbi turisztikai épülete, amelyet eredetileg a cár számára építettek.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "Szabadtéri színpad az Aavasaksa-dombon, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "BRO -stranden",
+                  "text": "Folyóparti strandterület, amely pihenésre és kikapcsolódásra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.67764,
+                        66.375468
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "Történelmi templom Aavasaksa közelében, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aunesgården",
+                  "text": "Un muzeu în Aavasaksa care oferă perspective asupra istoriei și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "Cea mai veche clădire turistică din Laponia, construită inițial pentru țar.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "O scenă în aer liber pe dealul Aavasaksa, folosită pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "BRO -stranden",
+                  "text": "O zonă de plajă la râu, care invită la recreere și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.67764,
+                        66.375468
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "O biserică istorică în apropiere de Aavasaksa, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aunesgården",
+                  "text": "A museum in Aavasaksa offering insights into local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "The oldest tourist building in Lapland, originally built for the Tsar.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "An outdoor stage on Aavasaksa Hill used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "BRO -stranden",
+                  "text": "A beach area by the river, perfect for recreation and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.67764,
+                        66.375468
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "A historic church near Aavasaksa, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Aavasaksa-Hügel", hu: "Aavasaksa-domb", ro: "Dealul Aavasaksa", en: "Aavasaksa Hill" },
@@ -678,7 +2307,52 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-aavasaksa-vaara-relief-v2.webp",
   },
   {
-    id: "finland-pisavaara-ridge-relief-v2",
+    id: "finland-pisavaara-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pisavaaran luonnonpuisto",
+                  "text": "Ein streng geschütztes Naturreservat im Pisavaara-Höhenzug im Norden Finnlands.",
+                  "category": "natural",
+                  "coords": [
+                        25.091289,
+                        66.282328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pisavaaran luonnonpuisto",
+                  "text": "Szigorúan védett természetvédelmi terület az észak-finnországi Pisavaara-hátságon.",
+                  "category": "natural",
+                  "coords": [
+                        25.091289,
+                        66.282328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pisavaaran luonnonpuisto",
+                  "text": "O rezervație naturală strict protejată în creasta Pisavaara din nordul Finlandei.",
+                  "category": "natural",
+                  "coords": [
+                        25.091289,
+                        66.282328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pisavaara strict nature reserve",
+                  "text": "A strictly protected nature reserve in the Pisavaara Ridge of northern Finland.",
+                  "category": "natural",
+                  "coords": [
+                        25.091289,
+                        66.282328
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Pisavaara-Rücken", hu: "Pisavaara-gerinc", ro: "Creasta Pisavaara", en: "Pisavaara Ridge" },
@@ -768,7 +2442,124 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-saravaara-hill-relief-v2.webp",
   },
   {
-    id: "finland-kaunispää-relief-v2",
+    id: "finland-kaunispää-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaunispää",
+                  "text": "Ein markanter Berg in finnisch Lappland, bekannt für seine weite Aussicht über Saariselkä.",
+                  "category": "landmark",
+                  "coords": [
+                        27.444026,
+                        68.434142
+                  ]
+            },
+            {
+                  "name": "Kaunispään torni",
+                  "text": "Ein Aussichtsturm auf dem Gipfel des Kaunispää, der ein Panorama über die Tundra bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.442118,
+                        68.434225
+                  ]
+            },
+            {
+                  "name": "Saariselän tunturikappeli",
+                  "text": "Eine schlichte Holzkapelle in Saariselkä, die als Ort der Stille und Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        27.428967,
+                        68.422139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaunispää",
+                  "text": "Jellegzetes hegy a finn Lappföldön, amely a Saariselkä környéki kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.444026,
+                        68.434142
+                  ]
+            },
+            {
+                  "name": "Kaunispään torni",
+                  "text": "Kilátótorony a Kaunispää csúcsán, amely panorámát nyújt a tundrára.",
+                  "category": "natural",
+                  "coords": [
+                        27.442118,
+                        68.434225
+                  ]
+            },
+            {
+                  "name": "Saariselän tunturikappeli",
+                  "text": "Egyszerű fakápolna Saariselkában, amely a csend és az elmélyülés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        27.428967,
+                        68.422139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaunispää",
+                  "text": "Un munte proeminent în Laponia finlandeză, cunoscut pentru vederea asupra regiunii Saariselkä.",
+                  "category": "landmark",
+                  "coords": [
+                        27.444026,
+                        68.434142
+                  ]
+            },
+            {
+                  "name": "Kaunispään torni",
+                  "text": "Un turn de observație pe vârful Kaunispää, oferind o panoramă asupra tundrei.",
+                  "category": "natural",
+                  "coords": [
+                        27.442118,
+                        68.434225
+                  ]
+            },
+            {
+                  "name": "Saariselän tunturikappeli",
+                  "text": "O capelă simplă din lemn în Saariselkä, servind ca loc de liniște și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        27.428967,
+                        68.422139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaunispää Fell",
+                  "text": "A prominent fell in Finnish Lapland known for its expansive views over Saariselkä.",
+                  "category": "landmark",
+                  "coords": [
+                        27.444026,
+                        68.434142
+                  ]
+            },
+            {
+                  "name": "Kaunispään torni",
+                  "text": "An observation tower on the summit of Kaunispää offering a panorama over the tundra.",
+                  "category": "natural",
+                  "coords": [
+                        27.442118,
+                        68.434225
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Paul in Saariselkä",
+                  "text": "A simple wooden chapel in Saariselkä serving as a place of peace and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        27.428967,
+                        68.422139
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Kaunispää-Hügel", hu: "Kaunispää-domb", ro: "Dealul Kaunispää", en: "Kaunispää Hill" },
@@ -813,7 +2604,52 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-kaunispää-relief-v2.webp",
   },
   {
-    id: "finland-ahjokero-relief-v2",
+    id: "finland-ahjokero-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiilopää",
+                  "text": "Ein markanter Berggipfel und beliebtes Wanderziel in Finnisch-Lappland.",
+                  "category": "landmark",
+                  "coords": [
+                        27.502533,
+                        68.341441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiilopää",
+                  "text": "Jellegzetes hegycsúcs és népszerű túracélpont a finn Lappföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        27.502533,
+                        68.341441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiilopää",
+                  "text": "Un vârf muntos proeminent și o destinație populară de drumeție în Laponia finlandeză.",
+                  "category": "landmark",
+                  "coords": [
+                        27.502533,
+                        68.341441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiilopää",
+                  "text": "A prominent fell and popular hiking peak in Finnish Lapland.",
+                  "category": "landmark",
+                  "coords": [
+                        27.502533,
+                        68.341441
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Ahjokero", hu: "Ahjokero", ro: "Ahjokero", en: "Ahjokero" },
@@ -1308,7 +3144,88 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-korouoma-valley-relief-v2.webp",
   },
   {
-    id: "finland-valtavaara-hill-relief-v2",
+    id: "finland-valtavaara-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "Dieses Naturschutzgebiet am Valtavaara bietet unberührte Landschaften und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Ein markanter Berggipfel in Finnland, der für seine steilen Hänge und weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "Ez a valtavaarai természetvédelmi terület érintetlen tájakat és túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Jellegzetes hegycsúcs Finnországban, amely meredek lejtőiről és széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "Această rezervație naturală de pe Valtavaara oferă peisaje virgine și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Un vârf montan proeminent din Finnland, cunoscut pentru pantele sale abrupte și vederea largă.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "This nature reserve at Valtavaara offers pristine landscapes and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "A prominent mountain peak in Finland, known for its steep slopes and wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Valtavaara-Hügel", hu: "Valtavaara-domb", ro: "Dealul Valtavaara", en: "Valtavaara Hill" },
@@ -1353,7 +3270,196 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-valtavaara-hill-relief-v2.webp",
   },
   {
-    id: "finland-ruka-hill-relief-v2",
+    id: "finland-ruka-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet am Pyhävaara-Hügel in der Nähe des Skigebiets Ruka.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "Dieses Naturschutzgebiet schützt die Landschaft rund um den markanten Juhannuskallio-Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Ein bekannter Fjäll-Gipfel und beliebtes Skigebiet in der finnischen Gemeinde Kuusamo.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Ein Sport- und Freizeitzentrum im Resortgebiet Ruka.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "Eine Sommerrodelbahn, die Freizeitvergnügen am Hang von Ruka bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Pyhävaara-hegyen, Ruka közelében.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "Természetvédelmi terület, amely a jellegzetes Juhannuskallio-szikla környékét védi.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Ismert hegycsúcs és népszerű síközpont a finnországi Kuusamo községben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Sport- és szabadidős központ a Ruka üdülőhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "Nyári bobpálya, amely kikapcsolódást kínál a Ruka lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "O rezervație naturală pe dealul Pyhävaara, în apropiere de stațiunea Ruka.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "O rezervație naturală care protejează peisajul din jurul stâncii Juhannuskallio.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Un vârf muntos cunoscut și o stațiune de schi populară în comuna finlandeză Kuusamo.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Un centru de sport și recreere situat în zona stațiunii Ruka.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "O pistă de sănii de vară care oferă distracție pe versanții din Ruka.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "A nature reserve located on the Pyhävaara hill near the Ruka ski resort area.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "A nature reserve protecting the landscape around the prominent Juhannuskallio rock.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "A well-known fell peak and popular ski resort area in the municipality of Kuusamo, Finland.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "A sports and recreation facility located within the Ruka resort area.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "A summer sled track providing recreational fun on the slopes of Ruka.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Ruka-Hügel", hu: "Ruka-domb", ro: "Dealul Ruka", en: "Ruka Hill" },
@@ -1398,7 +3504,88 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-ruka-hill-relief-v2.webp",
   },
   {
-    id: "finland-oulanka-canyon-relief-v2",
+    id: "finland-oulanka-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Ein bekannter Nationalpark in Finnland, berühmt für seine Flusslandschaften und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            },
+            {
+                  "name": "Kiutaköngäs",
+                  "text": "Beeindruckende Stromschnellen des Flusses Oulankajoki im Oulanka-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        29.327667,
+                        66.367764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Ismert finnországi nemzeti park, amely folyóiról és túraútvonalairól nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            },
+            {
+                  "name": "Kiutaköngäs",
+                  "text": "Az Oulankajoki folyó látványos zúgói az Oulanka Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.327667,
+                        66.367764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Un parc național renumit din Finlanda, faimos pentru peisajele sale fluviale și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            },
+            {
+                  "name": "Kiutaköngäs",
+                  "text": "Vultori impresionante ale râului Oulankajoki în Parcul Național Oulanka.",
+                  "category": "landmark",
+                  "coords": [
+                        29.327667,
+                        66.367764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oulanka National Park",
+                  "text": "A well-known national park in Finland, famous for its river landscapes and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            },
+            {
+                  "name": "Kiutaköngäs",
+                  "text": "Impressive rapids of the Oulankajoki River located in Oulanka National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        29.327667,
+                        66.367764
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "FI",
     name: { de: "Oulanka-Schlucht", hu: "Oulanka-szurdok", ro: "Canionul Oulanka", en: "Oulanka Canyon" },
@@ -1443,7 +3630,88 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-oulanka-canyon-relief-v2.webp",
   },
   {
-    id: "finland-konttainen-hill-relief-v2",
+    id: "finland-konttainen-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet am Konttainen-Hügel, das für seine Wanderwege und unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Ein markanter Berggipfel in Kuusamo, der eine weite Aussicht auf die umliegende Seenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Konttainen-dombnál, amely túraútvonalairól és érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Jellegzetes hegycsúcs Kuusamo közelében, ahonnan pazar kilátás nyílik a környező tóvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "O rezervație naturală pe dealul Konttainen, cunoscută pentru traseele sale de drumeție și natura virgină.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "Un vârf montan proeminent care oferă o vedere panoramică asupra peisajului lacustru din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valtavaaran luonnonsuojelualue",
+                  "text": "A nature reserve on Konttainen Hill, known for its hiking trails and pristine northern landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.200533,
+                        66.188891
+                  ]
+            },
+            {
+                  "name": "Konttainen",
+                  "text": "A prominent fell peak offering expansive views of the surrounding lake landscape and forests.",
+                  "category": "landmark",
+                  "coords": [
+                        29.212335,
+                        66.212283
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Konttainen-Hügel", hu: "Konttainen-domb", ro: "Dealul Konttainen", en: "Konttainen Hill" },
@@ -1488,7 +3756,196 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-konttainen-hill-relief-v2.webp",
   },
   {
-    id: "finland-pyhavaara-relief-v2",
+    id: "finland-pyhavaara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet am Berg Pyhävaara, das für seine wertvolle nordische Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet am Juhannuskallio-Felsen, das seltene Pflanzenarten und weite Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Ein markanter Berg in Kuusamo, der als eines der bekanntesten Skigebiete Finnlands gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Ein Sport- und Freizeitzentrum in Ruka, das verschiedene Indoor-Aktivitäten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "Eine Sommerrodelbahn am Berg Ruka, die Besuchern eine rasante Abfahrt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Pyhävaara-hegyen, amely értékes északi élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "Védett terület a Juhannuskallio-sziklánál, amely ritka növényeket és szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Kuusamo egyik jellegzetes hegye, amely Finnország egyik legismertebb síközpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Sport- és szabadidőközpont Rukában, amely különféle beltéri programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "Nyári bobpálya a Ruka-hegyen, amely gyors leereszkedést kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "O rezervație naturală pe muntele Pyhävaara, cunoscută pentru natura sa nordică valoroasă.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "O rezervație naturală la stânca Juhannuskallio, care oferă plante rare și panorame largi.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "Un munte proeminent din Kuusamo, considerat una dintre cele mai renumite stațiuni de schi din Finlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "Un centru de sport și recreere în Ruka, oferind diverse activități de interior.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "O pistă de bob de vară pe muntele Ruka, care oferă vizitatorilor o coborâre rapidă.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyhävaaran luonnonsuojelualue",
+                  "text": "A nature reserve on Pyhävaara mountain, known for its valuable Nordic nature.",
+                  "category": "natural",
+                  "coords": [
+                        29.158004,
+                        66.138817
+                  ]
+            },
+            {
+                  "name": "Juhannuskallion luonnonsuojelualue",
+                  "text": "A nature reserve at the Juhannuskallio rock, offering rare plants and expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        29.153295,
+                        66.157854
+                  ]
+            },
+            {
+                  "name": "Ruka",
+                  "text": "A prominent mountain in Kuusamo, considered one of Finland's best-known ski resorts.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151491,
+                        66.165553
+                  ]
+            },
+            {
+                  "name": "Sport House Ruka",
+                  "text": "A sports and recreation center in Ruka offering various indoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123045,
+                        66.16537
+                  ]
+            },
+            {
+                  "name": "Rukan mäkiautorata",
+                  "text": "A summer sled track on Ruka mountain, offering visitors a fast descent.",
+                  "category": "landmark",
+                  "coords": [
+                        29.152433,
+                        66.165818
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FI",
     name: { de: "Pyhävaara", hu: "Pyhävaara", ro: "Pyhävaara", en: "Pyhävaara" },

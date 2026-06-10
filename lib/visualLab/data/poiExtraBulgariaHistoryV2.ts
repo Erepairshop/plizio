@@ -93,7 +93,52 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-kalofer-monastery-history-v2.webp",
   },
   {
-    id: "bulgaria-mezek-fortress-history-v2",
+    id: "bulgaria-mezek-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Мезешка крепост",
+                  "text": "Eine der am besten erhaltenen mittelalterlichen Festungen Bulgariens aus dem 11. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        26.083663,
+                        41.737506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Мезешка крепост",
+                  "text": "Bulgária egyik legjobb állapotban fennmaradt középkori erődje a 11. századból.",
+                  "category": "castle",
+                  "coords": [
+                        26.083663,
+                        41.737506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Мезешка крепост",
+                  "text": "Una dintre cele mai bine conservate cetăți medievale din Bulgaria, datând din secolul al XI-lea.",
+                  "category": "castle",
+                  "coords": [
+                        26.083663,
+                        41.737506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Neutzikon (Mezek Fortress)",
+                  "text": "One of the best-preserved medieval fortresses in Bulgaria, dating back to the 11th century.",
+                  "category": "castle",
+                  "coords": [
+                        26.083663,
+                        41.737506
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "BG",
     name: { de: "Festung Mezek", hu: "Mezek erőd", ro: "Cetatea Mezek", en: "Mezek Fortress" },
@@ -138,7 +183,160 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-mezek-fortress-history-v2.webp",
   },
   {
-    id: "bulgaria-magura-cave-paintings-history-v2",
+    id: "bulgaria-magura-cave-paintings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Ein historisches Museum in der Nähe der berühmten Höhlenmalereien von Magura.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "Eine beeindruckende Festung, die in die bizarren Felsformationen von Belogradtschik integriert ist.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Überreste einer mittelalterlichen Festung in der Region Magura.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "Ein Aussichtspunkt mit Blick auf markante Felsformationen in der Nähe von Magura.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Történeti múzeum a híres magurai barlangrajzok közelében.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "Lenyűgöző erődítmény, amely a belogradcsiki különleges sziklaalakzatok közé épült.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Egy középkori erőd maradványai a Magura régióban.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik a Magura közeli jellegzetes sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Исторически музей Белоградчик",
+                  "text": "Un muzeu de istorie situat în apropierea celebrelor picturi rupestre de la Magura.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Белоградчишка крепост",
+                  "text": "O fortăreață impresionantă integrată în formațiunile stâncoase unice de la Belogradcik.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Rămășițele unei cetăți medievale în regiunea Magura.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Богинята Майка",
+                  "text": "Un punct de belvedere cu vedere spre formațiunile stâncoase de lângă Magura.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "History Museum",
+                  "text": "A history museum located near the famous Magura Cave paintings.",
+                  "category": "museum",
+                  "coords": [
+                        22.681527,
+                        43.624882
+                  ]
+            },
+            {
+                  "name": "Belogradchik Fortress",
+                  "text": "An impressive fortress integrated into the unique rock formations of Belogradchik.",
+                  "category": "castle",
+                  "coords": [
+                        22.678036,
+                        43.623123
+                  ]
+            },
+            {
+                  "name": "Latin fortress",
+                  "text": "Remains of a medieval fortress in the Magura region.",
+                  "category": "castle",
+                  "coords": [
+                        22.675532,
+                        43.621837
+                  ]
+            },
+            {
+                  "name": "Goddess Mother",
+                  "text": "A viewpoint offering vistas of prominent rock formations near Magura.",
+                  "category": "natural",
+                  "coords": [
+                        22.68947,
+                        43.615575
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BG",
     name: { de: "Magura-Höhlenmalereien", hu: "Magura-barlangi festmények", ro: "Picturile rupestre de la peștera Magura", en: "Magura Cave Paintings" },
@@ -273,7 +471,124 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-shumen-fortress-history-v2.webp",
   },
   {
-    id: "bulgaria-perushtitsa-monument-history-v2",
+    id: "bulgaria-perushtitsa-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Червената църква",
+                  "text": "Die beeindruckenden Ruinen einer spätantiken frühchristlichen Basilika aus dem 5. bis 6. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        24.55611,
+                        42.074079
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "Das Museum dokumentiert die Geschichte der Stadt Peruschtiza, insbesondere die Ereignisse des Aprilaufstands von 1876.",
+                  "category": "museum",
+                  "coords": [
+                        24.545557,
+                        42.055652
+                  ]
+            },
+            {
+                  "name": "Паметник на трите поколения",
+                  "text": "Ein monumentales Denkmal, das den revolutionären Kampf dreier Generationen für die Freiheit Bulgariens ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        24.549203,
+                        42.051442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Червената църква",
+                  "text": "Egy 5-6. századi kora keresztény bazilika lenyűgöző vörös téglás romjai.",
+                  "category": "religious",
+                  "coords": [
+                        24.55611,
+                        42.074079
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "A múzeum Perustica történelmét, különösen az 1876-os áprilisi felkelés eseményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.545557,
+                        42.055652
+                  ]
+            },
+            {
+                  "name": "Паметник на трите поколения",
+                  "text": "Monumentális emlékmű, amely a bolgár szabadságért küzdő három generációnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        24.549203,
+                        42.051442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Червената църква",
+                  "text": "Ruinele impresionante ale unei bazilici timpurii creștine din secolele V-VI, construită din cărămidă roșie.",
+                  "category": "religious",
+                  "coords": [
+                        24.55611,
+                        42.074079
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "Muzeul documentează istoria orașului Peruștița, punând accent pe evenimentele Răscoalei din Aprilie 1876.",
+                  "category": "museum",
+                  "coords": [
+                        24.545557,
+                        42.055652
+                  ]
+            },
+            {
+                  "name": "Паметник на трите поколения",
+                  "text": "Un monument grandios dedicat luptei revoluționare a trei generații pentru libertatea Bulgariei.",
+                  "category": "historical",
+                  "coords": [
+                        24.549203,
+                        42.051442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Red Church",
+                  "text": "The impressive ruins of a late antique early Christian basilica dating from the 5th to 6th centuries.",
+                  "category": "religious",
+                  "coords": [
+                        24.55611,
+                        42.074079
+                  ]
+            },
+            {
+                  "name": "Perushtitsa Museum of History",
+                  "text": "The museum documents the history of Perushtitsa, focusing on the events of the 1876 April Uprising.",
+                  "category": "museum",
+                  "coords": [
+                        24.545557,
+                        42.055652
+                  ]
+            },
+            {
+                  "name": "The Three Generations Memorial",
+                  "text": "A monumental memorial honoring the revolutionary struggle of three generations for Bulgaria's freedom.",
+                  "category": "historical",
+                  "coords": [
+                        24.549203,
+                        42.051442
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BG",
     name: { de: "Denkmal von Peruschtiza", hu: "Perushticai emlékmű", ro: "Monumentul din Peruștita", en: "Perushtitsa Monument" },
@@ -408,7 +723,268 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-pliska-ruins-history-v2.webp",
   },
   {
-    id: "bulgaria-preslav-ruins-history-v2",
+    id: "bulgaria-preslav-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Кръгла църква",
+                  "text": "Die Ruinen einer bedeutenden frühmittelalterlichen Rundkirche in Weliki Preslaw.",
+                  "category": "religious",
+                  "coords": [
+                        26.813277,
+                        43.142257
+                  ]
+            },
+            {
+                  "name": "Археологически музей \"Велики Преслав\"",
+                  "text": "Ein Museum, das Funde aus der antiken bulgarischen Hauptstadt Preslaw ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.814964,
+                        43.153374
+                  ]
+            },
+            {
+                  "name": "Външен град",
+                  "text": "Die archäologischen Überreste der Außenstadt der mittelalterlichen Hauptstadt Preslaw.",
+                  "category": "historical",
+                  "coords": [
+                        26.814904,
+                        43.145542
+                  ]
+            },
+            {
+                  "name": "Александър Стамболийски",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Politikers Aleksandar Stambolijski.",
+                  "category": "historical",
+                  "coords": [
+                        26.809845,
+                        43.159433
+                  ]
+            },
+            {
+                  "name": "Климент Охридски",
+                  "text": "Ein Denkmal für den heiligen Clemens von Ohrid in den Ruinen von Preslaw.",
+                  "category": "historical",
+                  "coords": [
+                        26.811046,
+                        43.161192
+                  ]
+            },
+            {
+                  "name": "Феодално имение",
+                  "text": "Die Ruinen eines mittelalterlichen Herrenhauses in der archäologischen Stätte Preslaw.",
+                  "category": "historical",
+                  "coords": [
+                        26.817005,
+                        43.143347
+                  ]
+            },
+            {
+                  "name": "Дворцова базилика",
+                  "text": "Die Überreste einer großen Basilika, die Teil des Palastkomplexes in Preslaw war.",
+                  "category": "historical",
+                  "coords": [
+                        26.812947,
+                        43.145514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кръгла църква",
+                  "text": "Egy jelentős kora középkori kerek templom romjai Veliki Preszlávban.",
+                  "category": "religious",
+                  "coords": [
+                        26.813277,
+                        43.142257
+                  ]
+            },
+            {
+                  "name": "Археологически музей \"Велики Преслав\"",
+                  "text": "Múzeum, amely az egykori bolgár főváros, Preszláv leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.814964,
+                        43.153374
+                  ]
+            },
+            {
+                  "name": "Външен град",
+                  "text": "A középkori főváros, Preszláv külső városának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        26.814904,
+                        43.145542
+                  ]
+            },
+            {
+                  "name": "Александър Стамболийски",
+                  "text": "Emlékmű Alekszandar Sztambolijszki bolgár politikus tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.809845,
+                        43.159433
+                  ]
+            },
+            {
+                  "name": "Климент Охридски",
+                  "text": "Ohridi Szent Kelemen emlékműve Preszláv romjai között.",
+                  "category": "historical",
+                  "coords": [
+                        26.811046,
+                        43.161192
+                  ]
+            },
+            {
+                  "name": "Феодално имение",
+                  "text": "Egy középkori nemesi udvarház romjai a preszláv régészeti területen.",
+                  "category": "historical",
+                  "coords": [
+                        26.817005,
+                        43.143347
+                  ]
+            },
+            {
+                  "name": "Дворцова базилика",
+                  "text": "Egy nagy bazilika maradványai, amely a preszláv palotakomplexum része volt.",
+                  "category": "historical",
+                  "coords": [
+                        26.812947,
+                        43.145514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кръгла църква",
+                  "text": "Ruinele unei importante biserici rotunde din epoca medievală timpurie în Preslav.",
+                  "category": "religious",
+                  "coords": [
+                        26.813277,
+                        43.142257
+                  ]
+            },
+            {
+                  "name": "Археологически музей \"Велики Преслав\"",
+                  "text": "Un muzeu care expune descoperiri din vechea capitală bulgară Preslav.",
+                  "category": "museum",
+                  "coords": [
+                        26.814964,
+                        43.153374
+                  ]
+            },
+            {
+                  "name": "Външен град",
+                  "text": "Vestigiile arheologice ale orașului exterior din fosta capitală medievală Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.814904,
+                        43.145542
+                  ]
+            },
+            {
+                  "name": "Александър Стамболийски",
+                  "text": "Un monument ridicat în onoarea politicianului bulgar Aleksandar Stamboliyski.",
+                  "category": "historical",
+                  "coords": [
+                        26.809845,
+                        43.159433
+                  ]
+            },
+            {
+                  "name": "Климент Охридски",
+                  "text": "Un monument dedicat Sfântului Clement de Ohrid în ruinele de la Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.811046,
+                        43.161192
+                  ]
+            },
+            {
+                  "name": "Феодално имение",
+                  "text": "Ruinele unui conac feudal din cadrul sitului arheologic Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.817005,
+                        43.143347
+                  ]
+            },
+            {
+                  "name": "Дворцова базилика",
+                  "text": "Vestigiile unei mari bazilici care a făcut parte din complexul palatului din Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.812947,
+                        43.145514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Round Church, Preslav",
+                  "text": "The ruins of a significant early medieval round church in Veliki Preslav.",
+                  "category": "religious",
+                  "coords": [
+                        26.813277,
+                        43.142257
+                  ]
+            },
+            {
+                  "name": "\"Veliki Preslav\" Archeological Museum",
+                  "text": "A museum exhibiting finds from the ancient Bulgarian capital of Preslav.",
+                  "category": "museum",
+                  "coords": [
+                        26.814964,
+                        43.153374
+                  ]
+            },
+            {
+                  "name": "Outer town",
+                  "text": "The archaeological remains of the outer town of the medieval capital Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.814904,
+                        43.145542
+                  ]
+            },
+            {
+                  "name": "Aleksandar Stamboliyski",
+                  "text": "A monument dedicated to the Bulgarian politician Aleksandar Stamboliyski.",
+                  "category": "historical",
+                  "coords": [
+                        26.809845,
+                        43.159433
+                  ]
+            },
+            {
+                  "name": "Clement of Ohrid",
+                  "text": "A monument to Saint Clement of Ohrid located within the ruins of Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.811046,
+                        43.161192
+                  ]
+            },
+            {
+                  "name": "Feudal Manor",
+                  "text": "The ruins of a medieval feudal manor within the Preslav archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        26.817005,
+                        43.143347
+                  ]
+            },
+            {
+                  "name": "Palace basilica",
+                  "text": "The remains of a large basilica that was part of the palace complex in Preslav.",
+                  "category": "historical",
+                  "coords": [
+                        26.812947,
+                        43.145514
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BG",
     name: { de: "Ruinen von Preslaw", hu: "Preszlav romjai", ro: "Ruinele de la Preslav", en: "Preslav Ruins" },
@@ -858,7 +1434,88 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-nesebar-ruins-history-v2.webp",
   },
   {
-    id: "bulgaria-shipka-memorial-history-v2",
+    id: "bulgaria-shipka-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Орлово гнездо",
+                  "text": "Ein geschichtsträchtiger Berggipfel am Schipkapass, bekannt als Adlerhorst.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "Diese markante orthodoxe Kirche mit ihren goldenen Kuppeln erinnert an die Gefallenen der Kämpfe am Schipkapass.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sasfészek",
+                  "text": "Történelmi jelentőségű hegycsúcs a Sipka-szorosnál, Sasfészek néven ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "Ez a jellegzetes aranykupolás ortodox templom a Sipka-szorosnál vívott harcok elesett katonáinak állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Орлово гнездо",
+                  "text": "Un vârf montan încărcat de istorie în Pasul Șipka, cunoscut sub numele de Cuibul Vulturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "Această biserică ortodoxă remarcabilă, cu cupole aurii, este dedicată memoriei celor căzuți în luptele din Pasul Șipka.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eagle's Nest",
+                  "text": "A mountain peak steeped in history at the Shipka Pass, known as the Eagle's Nest.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Shipka Memorial Church",
+                  "text": "This striking Orthodox church with golden domes commemorates those who fell during the battles at Shipka Pass.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "BG",
     name: { de: "Denkmal am Schipkapass", hu: "Sipka-emlékmű", ro: "Memorialul de la Pasul Șipka", en: "Shipka Pass Memorial" },
@@ -1083,7 +1740,88 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-aladzha-monastery-history-v2.webp",
   },
   {
-    id: "bulgaria-ivanovo-rock-churches-history-v2",
+    id: "bulgaria-ivanovo-rock-churches-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peșteră mică -- Kitchiaita",
+                  "text": "Eine interessante Felsformation und Sehenswürdigkeit bei den Felskirchen von Iwanowo.",
+                  "category": "landmark",
+                  "coords": [
+                        25.981711,
+                        43.672601
+                  ]
+            },
+            {
+                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "text": "Ein UNESCO-Weltkulturerbe bestehend aus mittelalterlichen Kirchen, die in den Fels gehauen wurden.",
+                  "category": "religious",
+                  "coords": [
+                        25.987764,
+                        43.694671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peșteră mică -- Kitchiaita",
+                  "text": "Egy érdekes sziklaképződmény és látnivaló az ivanovói sziklatemplomoknál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.981711,
+                        43.672601
+                  ]
+            },
+            {
+                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "text": "Középkori sziklába vájt templomokból álló UNESCO világörökségi helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        25.987764,
+                        43.694671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peșteră mică -- Kitchiaita",
+                  "text": "O formațiune stâncoasă interesantă și o atracție lângă bisericile săpate în stâncă din Ivanovo.",
+                  "category": "landmark",
+                  "coords": [
+                        25.981711,
+                        43.672601
+                  ]
+            },
+            {
+                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "text": "Un sit inclus în patrimoniul mondial UNESCO, format din biserici medievale săpate în stâncă.",
+                  "category": "religious",
+                  "coords": [
+                        25.987764,
+                        43.694671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave \"Kitchiata\"",
+                  "text": "An interesting rock formation and attraction near the rock-hewn churches of Ivanovo.",
+                  "category": "landmark",
+                  "coords": [
+                        25.981711,
+                        43.672601
+                  ]
+            },
+            {
+                  "name": "Rock-Hewn Churches of Ivanovo",
+                  "text": "A UNESCO World Heritage site consisting of medieval churches carved into the rock.",
+                  "category": "religious",
+                  "coords": [
+                        25.987764,
+                        43.694671
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BG",
     name: { de: "Felsenkirchen von Iwanowo", hu: "Ivanovói sziklatemplomok", ro: "Bisericile rupestre de la Ivanovo", en: "Rock-hewn Churches of Ivanovo" },

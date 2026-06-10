@@ -49,7 +49,124 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-hancu-monastery-landmarks-v2",
+    id: "moldova-hancu-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mănăstirea Hîncu",
+                  "text": "Ein bedeutendes orthodoxes Kloster in Moldawien, das von malerischen Wäldern umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.322129,
+                        47.079197
+                  ]
+            },
+            {
+                  "name": "Izvorul tămăduirii (în cinstea Icoanei Maicii Domnului)",
+                  "text": "Eine heilige Quelle beim Hâncu-Kloster, der heilende Kräfte zugeschrieben werden.",
+                  "category": "landmark",
+                  "coords": [
+                        28.325637,
+                        47.076983
+                  ]
+            },
+            {
+                  "name": "Catedrala „Sfinții Apostoli Petru și Pavel”",
+                  "text": "Ein monumentales Kirchengebäude, das den Aposteln Petrus und Paulus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        28.322644,
+                        47.078168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mănăstirea Hîncu",
+                  "text": "Egy jelentős ortodox kolostor Moldovában, festői erdőkkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        28.322129,
+                        47.079197
+                  ]
+            },
+            {
+                  "name": "Izvorul tămăduirii (în cinstea Icoanei Maicii Domnului)",
+                  "text": "Szent forrás a Hâncu-kolostornál, amelynek gyógyító erőt tulajdonítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.325637,
+                        47.076983
+                  ]
+            },
+            {
+                  "name": "Catedrala „Sfinții Apostoli Petru și Pavel”",
+                  "text": "Egy monumentális templomépület, amelyet Szent Péter és Pál apostoloknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        28.322644,
+                        47.078168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Hîncu",
+                  "text": "O mănăstire ortodoxă importantă din Republica Moldova, înconjurată de păduri pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.322129,
+                        47.079197
+                  ]
+            },
+            {
+                  "name": "Izvorul tămăduirii (în cinstea Icoanei Maicii Domnului)",
+                  "text": "Un izvor sacru la mănăstirea Hâncu, despre care se crede că are proprietăți tămăduitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        28.325637,
+                        47.076983
+                  ]
+            },
+            {
+                  "name": "Catedrala „Sfinții Apostoli Petru și Pavel”",
+                  "text": "O construcție bisericească monumentală dedicată Sfinților Apostoli Petru și Pavel.",
+                  "category": "historical",
+                  "coords": [
+                        28.322644,
+                        47.078168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hincu monastery",
+                  "text": "A significant Orthodox monastery in Moldova, surrounded by picturesque forests.",
+                  "category": "landmark",
+                  "coords": [
+                        28.322129,
+                        47.079197
+                  ]
+            },
+            {
+                  "name": "Izvorul tămăduirii (în cinstea Icoanei Maicii Domnului)",
+                  "text": "A sacred spring at the Hâncu monastery, believed to have healing properties.",
+                  "category": "landmark",
+                  "coords": [
+                        28.325637,
+                        47.076983
+                  ]
+            },
+            {
+                  "name": "Catedrala „Sfinții Apostoli Petru și Pavel”",
+                  "text": "A monumental church building dedicated to the Holy Apostles Peter and Paul.",
+                  "category": "historical",
+                  "coords": [
+                        28.322644,
+                        47.078168
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "monastery",
     name: { de: "Kloster Hâncu", hu: "Hancu kolostor", ro: "Mănăstirea Hâncu", en: "Hâncu Monastery"},
@@ -95,7 +212,304 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-tipova-monastery-landmarks-v2",
+    id: "moldova-tipova-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Antike geto-dakische Festungsruinen in der Nähe des Klosters Țipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Kloster Țipova",
+                  "text": "Eines der größten Höhlenklöster Osteuropas, direkt in eine Felswand am Dnister geschlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Eine antike orthodoxe Höhlenkirche, die Teil des Klosterkomplexes von Țipova ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Ein pittoresker Wasserfall im Naturschutzgebiet von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Der größte Wasserfall in der Țipova-Schlucht, ein Ziel für Naturliebhaber.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Ein malerischer Doppelwasserfall entlang der Wanderwege von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Ein Wasserfall im felsigen Gelände unweit des Klosters Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Ein periodischer Wasserfall in der Region Țipova, der saisonal austrocknen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ókori geto-dák erődítmény romjai a Țipova-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Kelet-Európa egyik legnagyobb sziklakolostora a Dnyeszter partján.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Régi ortodox sziklatemplom, amely a Țipova-kolostorkomplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Festői vízesés a Țipova természetvédelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "A Țipova-szurdok legnagyobb vízesése, kedvelt kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Festői kettős vízesés a Țipova túraútvonalai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Vízesés a Țipova-kolostor közeli sziklás terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Időszakos vízesés a Țipova régióban, amely időnként kiszáradhat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ruinele unei vechi fortificații geto-dacice din apropierea mănăstirii Țipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Una dintre cele mai mari mănăstiri rupestre din Europa de Est, săpată într-o stâncă pe malul Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "O veche biserică ortodoxă rupestră care face parte din complexul mănăstiresc Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "O cascadă pitorească situată în zona rezervației naturale Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Cea mai mare cascadă din defileul Țipova, o destinație pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "O cascadă dublă pitorească situată de-a lungul traseelor de drumeție din Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "O cascadă situată în terenul stâncos de lângă mănăstirea Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "O cascadă intermitentă din regiunea Țipova, care poate seca sezonier.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ancient Geto-Dacian fortification ruins near the Țipova monastery.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Țipova Monastery",
+                  "text": "One of the largest cave monasteries in Eastern Europe, carved into a cliff by the Dniester River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "An ancient Orthodox cave church that is part of the Țipova monastery complex.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "A picturesque waterfall located in the Țipova nature reserve area.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "The largest waterfall in the Țipova gorge, a destination for nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "A scenic double waterfall situated along the hiking trails of Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "A waterfall located in the rocky terrain near the Țipova monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "An intermittent waterfall in the Țipova region that may dry up seasonally.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "monastery",
     name: { de: "Kloster Țipova", hu: "Tipova sziklakolostor", ro: "Mănăstirea Țipova", en: "Țipova Monastery"},
@@ -377,7 +791,52 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-purcari-castle-landmarks-v2",
+    id: "moldova-purcari-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumentul eroilor căzuți în al Doilea Război Mondial",
+                  "text": "Denkmal für die im Zweiten Weltkrieg gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        29.825556,
+                        46.545952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumentul eroilor căzuți în al Doilea Război Mondial",
+                  "text": "A második világháborúban elesett katonák emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        29.825556,
+                        46.545952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul eroilor căzuți în al Doilea Război Mondial",
+                  "text": "Monument dedicat soldaților căzuți în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        29.825556,
+                        46.545952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumentul eroilor căzuți în al Doilea Război Mondial",
+                  "text": "Memorial dedicated to the soldiers who fell during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        29.825556,
+                        46.545952
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "palace",
     name: { de: "Château Purcari", hu: "Purcari-birtok", ro: "Castelul Purcari", en: "Purcari Castle"},
@@ -518,7 +977,304 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-struve-geodetic-arc-rudi-landmarks-v2",
+    id: "moldova-struve-geodetic-arc-rudi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "Eine archäologische Stätte, die aus einer kreisförmigen Erdbefestigung besteht.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Ein Denkmal, das einen Punkt des zum UNESCO-Welterbe gehörenden Struve-Bogens markiert.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "Ein historisches orthodoxes Kloster, das für seine Architektur und Lage bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Ein malerischer Wasserfall in der Naturlandschaft in der Nähe von Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "Eine Naturhöhle in der Nähe des Struve-Bogens in Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "Ein historischer Stein mit Inschriften in der Gegend von Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Eine malerische Naturschlucht in der Nähe des Dorfes Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "Eine traditionelle Holzkirche aus dem Jahr 1870 in Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "Régészeti lelőhely, amely egy kör alakú földvárból áll.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Az UNESCO világörökséghez tartozó Struve földmérő ív egyik pontját jelölő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "Történelmi ortodox kolostor, amely építészetéről és szép fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "Festői vízesés a természetben, Rudi településének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "Természetes barlang a Struve földmérő vonal közelében, Rudi falunál.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "Történelmi feliratos kő Rudi környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Festői szurdokvölgy Rudi falu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "Hagyományos fatemplom 1870-ből Rudi településen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "Un sit arheologic format dintr-o fortificație de pământ de formă circulară.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Punct al Arcului Geodezic Struve",
+                  "text": "Un monument care marchează un punct din Arcul Geodezic Struve, inclus în patrimoniul UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "O mănăstire ortodoxă istorică, cunoscută pentru arhitectura sa și cadrul natural frumos.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "O cascadă pitorească situată în peisajul natural de lângă Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "O peșteră naturală situată în apropierea Arcului Geodezic Struve din Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "O piatră istorică cu inscripții situată în zona localității Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "Un defileu natural pitoresc situat în apropierea satului Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "O biserică de lemn tradițională ce datează din anul 1870, situată în Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farfuria Turcească",
+                  "text": "An archaeological site consisting of a circular earthwork fortification.",
+                  "category": "historical",
+                  "coords": [
+                        27.904416,
+                        48.350295
+                  ]
+            },
+            {
+                  "name": "Struve Geodetic Arc Point",
+                  "text": "A monument marking a point of the Struve Geodetic Arc, a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        27.876446,
+                        48.318763
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Rudi",
+                  "text": "A historic Orthodox monastery known for its architecture and beautiful natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        27.8921,
+                        48.346025
+                  ]
+            },
+            {
+                  "name": "Cascada Bulboana",
+                  "text": "A scenic waterfall located in the natural landscape near Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.884795,
+                        48.340885
+                  ]
+            },
+            {
+                  "name": "Peștera Răposaților",
+                  "text": "A natural cave located near the Struve Geodetic Arc in Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888559,
+                        48.339767
+                  ]
+            },
+            {
+                  "name": "Piatră cu inscripții",
+                  "text": "A historic stone with inscriptions located in the Rudi area.",
+                  "category": "landmark",
+                  "coords": [
+                        27.903902,
+                        48.347339
+                  ]
+            },
+            {
+                  "name": "Defileul Rudi",
+                  "text": "A scenic natural gorge located near the village of Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.895552,
+                        48.345334
+                  ]
+            },
+            {
+                  "name": "Biserica din lemn „Preasfintei Fecioare” (1870)",
+                  "text": "A traditional wooden church dating back to 1870 in Rudi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.861927,
+                        48.331194
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Struve-Bogen in Rudi", hu: "Struve földmérő ív (Rudi)", ro: "Arcul Geodezic Struve de la Rudi", en: "Struve Geodetic Arc (Rudi)"},
@@ -751,7 +1507,124 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-pommer-mansion-taul-landmarks-v2",
+    id: "moldova-pommer-mansion-taul-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Ein historisches Herrenhaus in Țaul, bekannt für seine Architektur und seinen Park.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "Der größte Landschaftspark Moldawiens, der das Herrenhaus Pommer umgibt.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "Der historische Wasserturm, der zum Anwesen des Pommer-Herrenhauses gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Történelmi kúria Taulban, amely építészetéről és parkjáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "Moldova legnagyobb tájképi parkja, amely a Pommer-kúriát veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "A Pommer-kúria birtokához tartozó történelmi víztorony.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "Un conac istoric din Țaul, renumit pentru arhitectura sa și parcul adiacent.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Țaul",
+                  "text": "Cel mai mare parc peisagistic din Moldova, care înconjoară conacul Pommer.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "Turnul de apă istoric care aparține domeniului conacului Pommer.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conacul Pommer",
+                  "text": "A historic manor house in Țaul, known for its architecture and park.",
+                  "category": "historical",
+                  "coords": [
+                        27.673711,
+                        48.207885
+                  ]
+            },
+            {
+                  "name": "Parcul Ţaul",
+                  "text": "The largest landscape park in Moldova, surrounding the Pommer manor.",
+                  "category": "park",
+                  "coords": [
+                        27.671725,
+                        48.204622
+                  ]
+            },
+            {
+                  "name": "Turnul de apă al conacului",
+                  "text": "The historic water tower belonging to the Pommer manor estate.",
+                  "category": "landmark",
+                  "coords": [
+                        27.675349,
+                        48.207118
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "palace",
     name: { de: "Herrenhaus Pommer in Taul", hu: "Pommer-kastély (Țaul)", ro: "Conacul Pommer din Țaul", en: "Pommer Mansion (Țaul)"},
@@ -1073,7 +1946,88 @@ export const moldovaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "moldova-besalma-museum-landmarks-v2",
+    id: "moldova-besalma-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Гагаузский этнографический музей",
+                  "text": "Ein Museum, das der Geschichte und der reichen Kultur des gagausischen Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        28.644426,
+                        46.168791
+                  ]
+            },
+            {
+                  "name": "Moara veche de vânt",
+                  "text": "Eine historische Windmühle in Beșalma, die ein lokales Wahrzeichen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.651964,
+                        46.164766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Гагаузский этнографический музей",
+                  "text": "A gagauz nép történelmének és gazdag kultúrájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        28.644426,
+                        46.168791
+                  ]
+            },
+            {
+                  "name": "Moara veche de vânt",
+                  "text": "Történelmi szélmalom Besalmában, amely helyi nevezetességnek számít.",
+                  "category": "landmark",
+                  "coords": [
+                        28.651964,
+                        46.164766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Național Găgăuz de Istorie și Etnografie „Dimitri Karacioban”",
+                  "text": "Un muzeu dedicat istoriei și culturii bogate a poporului găgăuz.",
+                  "category": "museum",
+                  "coords": [
+                        28.644426,
+                        46.168791
+                  ]
+            },
+            {
+                  "name": "Moara veche de vânt",
+                  "text": "O moară de vânt istorică în Beșalma, reprezentând un reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        28.651964,
+                        46.164766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Gagauz History and Ethnographic Museum",
+                  "text": "A museum dedicated to the history and rich culture of the Gagauz people.",
+                  "category": "museum",
+                  "coords": [
+                        28.644426,
+                        46.168791
+                  ]
+            },
+            {
+                  "name": "Moara veche de vânt",
+                  "text": "A historic windmill in Besalma, representing a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        28.651964,
+                        46.164766
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "museum",
     name: { de: "Gagauzien-Museum Beșalma", hu: "Beșalmai Gagauz Múzeum", ro: "Muzeul din Beșalma", en: "Besalma Gagauz Museum"},

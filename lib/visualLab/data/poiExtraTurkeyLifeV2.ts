@@ -360,7 +360,232 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "rize-tea-plantations-life-v2",
+    id: "rize-tea-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rize Atatürk Evi Müzesi",
+                  "text": "Ein Museum in Rize, das Mustafa Kemal Atatürk gewidmet ist und persönliche Gegenstände ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        40.534151,
+                        41.023391
+                  ]
+            },
+            {
+                  "name": "Rize Kalesi",
+                  "text": "Eine teilweise verfallene Burg in Rize, die ursprünglich aus der byzantinischen Zeit stammt.",
+                  "category": "castle",
+                  "coords": [
+                        40.510146,
+                        41.027509
+                  ]
+            },
+            {
+                  "name": "Isırlık Tabiat Parkı",
+                  "text": "Ein Naturpark in Rize mit Grünflächen und Möglichkeiten zur Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        40.512312,
+                        40.991398
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Ein Museum in Rize, das der Geschichte und dem Gedenken an Atatürk gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        40.515404,
+                        41.024949
+                  ]
+            },
+            {
+                  "name": "🌿🌿🌿",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die üppigen Teeplantagen von Rize.",
+                  "category": "natural",
+                  "coords": [
+                        40.546949,
+                        41.015161
+                  ]
+            },
+            {
+                  "name": "Çay Carşısı",
+                  "text": "Eine markante Sehenswürdigkeit in Rize, die das Erbe des Teeanbaus feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        40.518442,
+                        41.028776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rize Atatürk Evi Müzesi",
+                  "text": "Mustafa Kemal Atatürknek szentelt múzeum Rizében, amely személyes tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.534151,
+                        41.023391
+                  ]
+            },
+            {
+                  "name": "Rize Kalesi",
+                  "text": "Rize részben romos vára, amely eredetileg a bizánci korszakban épült.",
+                  "category": "castle",
+                  "coords": [
+                        40.510146,
+                        41.027509
+                  ]
+            },
+            {
+                  "name": "Isırlık Tabiat Parkı",
+                  "text": "Természetvédelmi terület Rizében, amely zöldterületeket és szabadtéri kikapocsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        40.512312,
+                        40.991398
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Atatürk történetének és emlékének szentelt múzeum Rizében.",
+                  "category": "museum",
+                  "coords": [
+                        40.515404,
+                        41.024949
+                  ]
+            },
+            {
+                  "name": "🌿🌿🌿",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik Rize buja teaültetvényeire.",
+                  "category": "natural",
+                  "coords": [
+                        40.546949,
+                        41.015161
+                  ]
+            },
+            {
+                  "name": "Çay Carşısı",
+                  "text": "Jellegzetes látnivaló Rizében, amely a teatermesztés hagyományait ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        40.518442,
+                        41.028776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rize Atatürk Evi Müzesi",
+                  "text": "Un muzeu dedicat lui Mustafa Kemal Atatürk în Rize, expunând obiecte personale.",
+                  "category": "museum",
+                  "coords": [
+                        40.534151,
+                        41.023391
+                  ]
+            },
+            {
+                  "name": "Rize Kalesi",
+                  "text": "Un castel parțial ruinat din Rize, construit inițial în perioada bizantină.",
+                  "category": "castle",
+                  "coords": [
+                        40.510146,
+                        41.027509
+                  ]
+            },
+            {
+                  "name": "Isırlık Tabiat Parkı",
+                  "text": "O rezervație naturală din Rize care oferă spații verzi și recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        40.512312,
+                        40.991398
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Un muzeu din Rize dedicat istoriei și memoriei lui Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        40.515404,
+                        41.024949
+                  ]
+            },
+            {
+                  "name": "🌿🌿🌿",
+                  "text": "Un punct de belvedere care oferă vedere panoramică asupra plantațiilor de ceai din Rize.",
+                  "category": "natural",
+                  "coords": [
+                        40.546949,
+                        41.015161
+                  ]
+            },
+            {
+                  "name": "Çay Carşısı",
+                  "text": "O atracție emblematică din Rize, care celebrează moștenirea cultivării ceaiului.",
+                  "category": "landmark",
+                  "coords": [
+                        40.518442,
+                        41.028776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rize Atatürk Evi Müzesi",
+                  "text": "A museum dedicated to Mustafa Kemal Atatürk in Rize, showcasing personal items.",
+                  "category": "museum",
+                  "coords": [
+                        40.534151,
+                        41.023391
+                  ]
+            },
+            {
+                  "name": "Rize castle",
+                  "text": "A partly ruined castle in Rize, originally built during the Byzantine period.",
+                  "category": "castle",
+                  "coords": [
+                        40.510146,
+                        41.027509
+                  ]
+            },
+            {
+                  "name": "Isırlık Tabiat Parkı",
+                  "text": "A nature reserve in Rize offering green spaces and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        40.512312,
+                        40.991398
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "A museum in Rize dedicated to the history and memory of Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        40.515404,
+                        41.024949
+                  ]
+            },
+            {
+                  "name": "Organic Tea Gardens",
+                  "text": "A viewpoint offering panoramic views over the lush tea plantations of Rize.",
+                  "category": "natural",
+                  "coords": [
+                        40.546949,
+                        41.015161
+                  ]
+            },
+            {
+                  "name": "Tea Tower",
+                  "text": "A landmark attraction in Rize celebrating the region's tea heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        40.518442,
+                        41.028776
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TR-53",
     coords: [40.5219, 41.0201],
@@ -540,7 +765,304 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "emirgan-park-life-v2",
+    id: "emirgan-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+                  "text": "Ein bedeutendes Museum für bildende Kunst in einer Villa mit Blick auf den Bosporus.",
+                  "category": "museum",
+                  "coords": [
+                        29.055629,
+                        41.106019
+                  ]
+            },
+            {
+                  "name": "Aşiyan Müzesi",
+                  "text": "Das ehemalige Wohnhaus des Dichters Tevfik Fikret, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        29.053452,
+                        41.082658
+                  ]
+            },
+            {
+                  "name": "Rumeli Hisarı",
+                  "text": "Eine imposante osmanische Festung, die im 15. Jahrhundert am Bosporus errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        29.056009,
+                        41.084788
+                  ]
+            },
+            {
+                  "name": "Anadolu Hisarı",
+                  "text": "Eine historische Festung am asiatischen Ufer des Bosporus aus dem 14. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        29.067041,
+                        41.082097
+                  ]
+            },
+            {
+                  "name": "Maslak Kasrı",
+                  "text": "Ein ehemaliger kaiserlicher osmanischer Jagdpavillon und Sommerresidenz in Istanbul.",
+                  "category": "castle",
+                  "coords": [
+                        29.025897,
+                        41.119274
+                  ]
+            },
+            {
+                  "name": "Küçüksu Kasrı",
+                  "text": "Ein prunkvoller ehemaliger Sommerpalast der osmanischen Sultane am Ufer des Bosporus.",
+                  "category": "museum",
+                  "coords": [
+                        29.064885,
+                        41.078411
+                  ]
+            },
+            {
+                  "name": "Süvari Birliği Nalbanthanesi",
+                  "text": "Ein historisches Gebäude der Kavallerie in der Nähe des Emirgan-Parks.",
+                  "category": "fortress",
+                  "coords": [
+                        29.010698,
+                        41.10859
+                  ]
+            },
+            {
+                  "name": "Borusan Holding",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in einem markanten roten Gebäude am Bosporus.",
+                  "category": "museum",
+                  "coords": [
+                        29.056572,
+                        41.089253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+                  "text": "Jelentős szépművészeti múzeum egy Boszporuszra néző villában.",
+                  "category": "museum",
+                  "coords": [
+                        29.055629,
+                        41.106019
+                  ]
+            },
+            {
+                  "name": "Aşiyan Müzesi",
+                  "text": "Tevfik Fikret költő egykori lakóháza, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        29.053452,
+                        41.082658
+                  ]
+            },
+            {
+                  "name": "Rumeli Hisarı",
+                  "text": "Impozáns oszmán erőd, amelyet a 15. században építettek a Boszporusznál.",
+                  "category": "castle",
+                  "coords": [
+                        29.056009,
+                        41.084788
+                  ]
+            },
+            {
+                  "name": "Anadolu Hisarı",
+                  "text": "14. századi történelmi erőd a Boszporusz ázsiai partján.",
+                  "category": "castle",
+                  "coords": [
+                        29.067041,
+                        41.082097
+                  ]
+            },
+            {
+                  "name": "Maslak Kasrı",
+                  "text": "Eykori oszmán császári vadászkastély és nyári rezidencia Isztambulban.",
+                  "category": "castle",
+                  "coords": [
+                        29.025897,
+                        41.119274
+                  ]
+            },
+            {
+                  "name": "Küçüksu Kasrı",
+                  "text": "Az oszmán szultánok egykori díszes nyári palotája a Boszporusz partján.",
+                  "category": "museum",
+                  "coords": [
+                        29.064885,
+                        41.078411
+                  ]
+            },
+            {
+                  "name": "Süvari Birliği Nalbanthanesi",
+                  "text": "A lovasság történelmi épülete az Emirgan park közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        29.010698,
+                        41.10859
+                  ]
+            },
+            {
+                  "name": "Borusan Holding",
+                  "text": "Kortárs művészeti központ egy jellegzetes vörös épületben a Boszporusz mentén.",
+                  "category": "museum",
+                  "coords": [
+                        29.056572,
+                        41.089253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+                  "text": "Un important muzeu de arte plastice situat într-o vilă cu vedere la Bosfor.",
+                  "category": "museum",
+                  "coords": [
+                        29.055629,
+                        41.106019
+                  ]
+            },
+            {
+                  "name": "Aşiyan Müzesi",
+                  "text": "Fosta reședință a poetului Tevfik Fikret, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        29.053452,
+                        41.082658
+                  ]
+            },
+            {
+                  "name": "Rumeli Hisarı",
+                  "text": "O impunătoare fortăreață otomană construită în secolul al XV-lea pe malul Bosforului.",
+                  "category": "castle",
+                  "coords": [
+                        29.056009,
+                        41.084788
+                  ]
+            },
+            {
+                  "name": "Anadolu Hisarı",
+                  "text": "O fortăreață istorică din secolul al XIV-lea pe malul asiatic al Bosforului.",
+                  "category": "castle",
+                  "coords": [
+                        29.067041,
+                        41.082097
+                  ]
+            },
+            {
+                  "name": "Maslak Kasrı",
+                  "text": "Un fost pavilion imperial de vânătoare otoman și reședință de vară în Istanbul.",
+                  "category": "castle",
+                  "coords": [
+                        29.025897,
+                        41.119274
+                  ]
+            },
+            {
+                  "name": "Küçüksu Kasrı",
+                  "text": "Un fost palat de vară somptuos al sultanilor otomani, situat pe malul Bosforului.",
+                  "category": "museum",
+                  "coords": [
+                        29.064885,
+                        41.078411
+                  ]
+            },
+            {
+                  "name": "Süvari Birliği Nalbanthanesi",
+                  "text": "O clădire istorică a cavaleriei situată în apropierea Parcului Emirgan.",
+                  "category": "fortress",
+                  "coords": [
+                        29.010698,
+                        41.10859
+                  ]
+            },
+            {
+                  "name": "Borusan Holding",
+                  "text": "Un centru de artă contemporană situat într-o clădire roșie distinctivă de pe Bosfor.",
+                  "category": "museum",
+                  "coords": [
+                        29.056572,
+                        41.089253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sakıp Sabancı Museum",
+                  "text": "A major fine arts museum housed in a villa overlooking the Bosphorus.",
+                  "category": "museum",
+                  "coords": [
+                        29.055629,
+                        41.106019
+                  ]
+            },
+            {
+                  "name": "Aşiyan Museum",
+                  "text": "The former home of poet Tevfik Fikret, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        29.053452,
+                        41.082658
+                  ]
+            },
+            {
+                  "name": "Rumeli Fortress",
+                  "text": "An imposing Ottoman fortress built in the 15th century on the Bosphorus.",
+                  "category": "castle",
+                  "coords": [
+                        29.056009,
+                        41.084788
+                  ]
+            },
+            {
+                  "name": "Anadoluhisarı",
+                  "text": "A historic 14th-century fortress on the Asian shore of the Bosphorus.",
+                  "category": "castle",
+                  "coords": [
+                        29.067041,
+                        41.082097
+                  ]
+            },
+            {
+                  "name": "Maslak Pavilion",
+                  "text": "A former imperial Ottoman hunting pavilion and summer residence in Istanbul.",
+                  "category": "castle",
+                  "coords": [
+                        29.025897,
+                        41.119274
+                  ]
+            },
+            {
+                  "name": "Kucuksu Pavilion",
+                  "text": "An ornate former summer palace of Ottoman sultans on the Bosphorus shore.",
+                  "category": "museum",
+                  "coords": [
+                        29.064885,
+                        41.078411
+                  ]
+            },
+            {
+                  "name": "Süvari Birliği Nalbanthanesi",
+                  "text": "A historic cavalry building located near Emirgan Park.",
+                  "category": "fortress",
+                  "coords": [
+                        29.010698,
+                        41.10859
+                  ]
+            },
+            {
+                  "name": "Borusan contemporary",
+                  "text": "A contemporary art centre located in a distinctive red building along the Bosphorus.",
+                  "category": "museum",
+                  "coords": [
+                        29.056572,
+                        41.089253
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TR-34",
     coords: [29.0531, 41.1086],
@@ -660,7 +1182,88 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "giresun-hazelnut-life-v2",
+    id: "giresun-hazelnut-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Giresun Çınarlar Camii",
+                  "text": "Eine Moschee in Giresun, die ein wichtiger Ort für die lokale Religionsausübung ist.",
+                  "category": "religious",
+                  "coords": [
+                        38.389392,
+                        40.917729
+                  ]
+            },
+            {
+                  "name": "Şeyh Keramettin Camii",
+                  "text": "Eine historische Moschee in Giresun, bekannt für ihre traditionelle osmanische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        38.386311,
+                        40.916978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Giresun Çınarlar Camii",
+                  "text": "Mecset Giresunban, amely a helyi hitélet egyik fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        38.389392,
+                        40.917729
+                  ]
+            },
+            {
+                  "name": "Şeyh Keramettin Camii",
+                  "text": "Történelmi mecset Giresunban, amely hagyományos oszmán építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        38.386311,
+                        40.916978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Giresun Çınarlar Camii",
+                  "text": "O moschee din Giresun, care este un loc important pentru viața religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        38.389392,
+                        40.917729
+                  ]
+            },
+            {
+                  "name": "Şeyh Keramettin Camii",
+                  "text": "O moschee istorică din Giresun, cunoscută pentru arhitectura sa tradițională otomană.",
+                  "category": "religious",
+                  "coords": [
+                        38.386311,
+                        40.916978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Giresun Çınarlar Camii",
+                  "text": "A mosque in Giresun that is an important site for local religious practice.",
+                  "category": "religious",
+                  "coords": [
+                        38.389392,
+                        40.917729
+                  ]
+            },
+            {
+                  "name": "Şeyh Keramettin Camii",
+                  "text": "A historical mosque in Giresun known for its traditional Ottoman architecture.",
+                  "category": "religious",
+                  "coords": [
+                        38.386311,
+                        40.916978
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TR-28",
     coords: [38.3833, 40.9167],
@@ -900,7 +1503,304 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "aydin-fig-orchards-life-v2",
+    id: "aydin-fig-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aydın Arkeoloji Müzesi",
+                  "text": "Dieses Museum in Aydın beherbergt bedeutende archäologische Funde aus den antiken Städten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        27.862785,
+                        37.846924
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Kenti",
+                  "text": "Eine bedeutende antike Stadt und archäologische Stätte in Aydın, bekannt für ihre monumentalen Bögen und Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        27.835383,
+                        37.85989
+                  ]
+            },
+            {
+                  "name": "Dedekuyusu Höyüğü",
+                  "text": "Ein prähistorischer Siedlungshügel in Aydın, der Einblicke in die frühe Geschichte der Region bietet.",
+                  "category": "historical",
+                  "coords": [
+                        27.809188,
+                        37.858178
+                  ]
+            },
+            {
+                  "name": "Arsenal",
+                  "text": "Eine archäologische Fundstätte, die Reste eines antiken Arsenals oder Lagers in der Region Aydın bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        27.836669,
+                        37.863001
+                  ]
+            },
+            {
+                  "name": "Açık Hava Tiyatrosu",
+                  "text": "Ein Freilichttheater in Aydın, das für Aufführungen und kulturelle Veranstaltungen im Freien genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.844984,
+                        37.855177
+                  ]
+            },
+            {
+                  "name": "Çok Amaçlı Salon (ÇAS)",
+                  "text": "Ein moderner Mehrzwecksaal für Theateraufführungen, Konzerte und verschiedene kulturelle Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        27.823555,
+                        37.859792
+                  ]
+            },
+            {
+                  "name": "Şükran Güngör Gösteri Merkezi",
+                  "text": "Ein kulturelles Theater und Veranstaltungsort für darstellende Künste in Aydın.",
+                  "category": "cultural",
+                  "coords": [
+                        27.837503,
+                        37.837263
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Tiyatro",
+                  "text": "Antike Ruinen eines römischen Theaters in der historischen Stadt Tralleis.",
+                  "category": "historical",
+                  "coords": [
+                        27.84401,
+                        37.867649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aydın Arkeoloji Müzesi",
+                  "text": "Az aydıni múzeum a régió ókori városaiból származó jelentős régészeti leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        27.862785,
+                        37.846924
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Kenti",
+                  "text": "Jelentős ókori város és régészeti lelőhely Aydınban, amely monumentális boltíveiről és romjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        27.835383,
+                        37.85989
+                  ]
+            },
+            {
+                  "name": "Dedekuyusu Höyüğü",
+                  "text": "Prehisztorikus lakóhalom Aydınban, amely betekintést nyújt a régió korai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        27.809188,
+                        37.858178
+                  ]
+            },
+            {
+                  "name": "Arsenal",
+                  "text": "Régészeti lelőhely, amely egy ókori arzenál vagy raktár maradványait őrzi Aydın régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        27.836669,
+                        37.863001
+                  ]
+            },
+            {
+                  "name": "Açık Hava Tiyatrosu",
+                  "text": "Szabadtéri színház Aydınban, amelyet előadásokhoz és szabadtéri kulturális eseményekhez használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        27.844984,
+                        37.855177
+                  ]
+            },
+            {
+                  "name": "Çok Amaçlı Salon (ÇAS)",
+                  "text": "Modern többfunkciós terem színházi előadások, koncertek és különféle kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.823555,
+                        37.859792
+                  ]
+            },
+            {
+                  "name": "Şükran Güngör Gösteri Merkezi",
+                  "text": "Kulturális színház és előadóművészeti központ Aydın városában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.837503,
+                        37.837263
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Tiyatro",
+                  "text": "Egy római kori színház ókori romjai Tralleis történelmi városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.84401,
+                        37.867649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aydın Arkeoloji Müzesi",
+                  "text": "Acest muzeu din Aydın adăpostește descoperiri arheologice semnificative din orașele antice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        27.862785,
+                        37.846924
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Kenti",
+                  "text": "Un important oraș antic și sit arheologic în Aydın, cunoscut pentru arcadele sale monumentale și ruine.",
+                  "category": "historical",
+                  "coords": [
+                        27.835383,
+                        37.85989
+                  ]
+            },
+            {
+                  "name": "Dedekuyusu Höyüğü",
+                  "text": "O movilă de așezare preistorică în Aydın, care oferă perspective asupra istoriei timpurii a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        27.809188,
+                        37.858178
+                  ]
+            },
+            {
+                  "name": "Arsenal",
+                  "text": "Un sit arheologic care conservă resturile unui arsenal sau depozit antic în regiunea Aydın.",
+                  "category": "historical",
+                  "coords": [
+                        27.836669,
+                        37.863001
+                  ]
+            },
+            {
+                  "name": "Açık Hava Tiyatrosu",
+                  "text": "Un teatru în aer liber în Aydın, utilizat pentru spectacole și evenimente culturale în exterior.",
+                  "category": "cultural",
+                  "coords": [
+                        27.844984,
+                        37.855177
+                  ]
+            },
+            {
+                  "name": "Çok Amaçlı Salon (ÇAS)",
+                  "text": "O sală multifuncțională modernă pentru spectacole de teatru, concerte și diverse adunări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.823555,
+                        37.859792
+                  ]
+            },
+            {
+                  "name": "Şükran Güngör Gösteri Merkezi",
+                  "text": "Un teatru cultural și centru pentru artele spectacolului în Aydın.",
+                  "category": "cultural",
+                  "coords": [
+                        27.837503,
+                        37.837263
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Tiyatro",
+                  "text": "Ruinele antice ale unui teatru roman din orașul istoric Tralleis.",
+                  "category": "historical",
+                  "coords": [
+                        27.84401,
+                        37.867649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aydın Arkeoloji Müzesi",
+                  "text": "This museum in Aydın houses significant archaeological finds from the region's ancient cities.",
+                  "category": "museum",
+                  "coords": [
+                        27.862785,
+                        37.846924
+                  ]
+            },
+            {
+                  "name": "Tralleis",
+                  "text": "An important ancient city and archaeological site in Aydın, known for its monumental arches and ruins.",
+                  "category": "historical",
+                  "coords": [
+                        27.835383,
+                        37.85989
+                  ]
+            },
+            {
+                  "name": "Dedekuyusu Höyüğü",
+                  "text": "A prehistoric settlement mound in Aydın providing insights into the region's early history.",
+                  "category": "historical",
+                  "coords": [
+                        27.809188,
+                        37.858178
+                  ]
+            },
+            {
+                  "name": "Arsenal",
+                  "text": "An archaeological site preserving the remains of an ancient arsenal or storehouse in the Aydın region.",
+                  "category": "historical",
+                  "coords": [
+                        27.836669,
+                        37.863001
+                  ]
+            },
+            {
+                  "name": "Açık Hava Tiyatrosu",
+                  "text": "An open-air theatre in Aydın used for performances and outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.844984,
+                        37.855177
+                  ]
+            },
+            {
+                  "name": "Çok Amaçlı Salon (ÇAS)",
+                  "text": "A modern multi-purpose hall for theatre performances, concerts, and various cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        27.823555,
+                        37.859792
+                  ]
+            },
+            {
+                  "name": "Şükran Güngör Gösteri Merkezi",
+                  "text": "A cultural theatre and performing arts venue in Aydın.",
+                  "category": "cultural",
+                  "coords": [
+                        27.837503,
+                        37.837263
+                  ]
+            },
+            {
+                  "name": "Tralleis Antik Tiyatro",
+                  "text": "Ancient ruins of a Roman theatre in the historic city of Tralleis.",
+                  "category": "historical",
+                  "coords": [
+                        27.84401,
+                        37.867649
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TR-09",
     coords: [27.8333, 37.8333],
@@ -960,7 +1860,124 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "soguksu-nationalpark-life-v2",
+    id: "soguksu-nationalpark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ankara Kara Akbaba Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ein Wildschutzgebiet bei Ankara, das dem Schutz des Mönchsgeiers gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.59022,
+                        40.473419
+                  ]
+            },
+            {
+                  "name": "Soğuksu Millî Parkı",
+                  "text": "Ein Nationalpark, der für seine Thermalquellen und seine vielfältige Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.612054,
+                        40.457883
+                  ]
+            },
+            {
+                  "name": "Şehitlik Anıtı",
+                  "text": "Ein Denkmal im Park, das dem Gedenken an gefallene Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.650485,
+                        40.486336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ankara Kara Akbaba Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ankara közeli természetvédelmi terület, amelyet a barátkeselyűk védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        32.59022,
+                        40.473419
+                  ]
+            },
+            {
+                  "name": "Soğuksu Millî Parkı",
+                  "text": "Termálforrásairól, valamint változatos növény- és állatvilágáról ismert nemzeti park.",
+                  "category": "natural",
+                  "coords": [
+                        32.612054,
+                        40.457883
+                  ]
+            },
+            {
+                  "name": "Şehitlik Anıtı",
+                  "text": "A parkban található emlékmű, amelyet az elesett katonák emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.650485,
+                        40.486336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ankara Kara Akbaba Yaban Hayatı Geliştirme Sahası",
+                  "text": "O rezervație de viață sălbatică lângă Ankara, dedicată protejării vulturului negru.",
+                  "category": "natural",
+                  "coords": [
+                        32.59022,
+                        40.473419
+                  ]
+            },
+            {
+                  "name": "Soğuksu Millî Parkı",
+                  "text": "Un parc național cunoscut pentru izvoarele sale termale și flora și fauna diversă.",
+                  "category": "natural",
+                  "coords": [
+                        32.612054,
+                        40.457883
+                  ]
+            },
+            {
+                  "name": "Şehitlik Anıtı",
+                  "text": "Un monument din cadrul parcului dedicat memoriei soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        32.650485,
+                        40.486336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ankara Kara Akbaba Yaban Hayatı Geliştirme Sahası",
+                  "text": "A wildlife reserve near Ankara dedicated to the protection of the cinereous vulture.",
+                  "category": "natural",
+                  "coords": [
+                        32.59022,
+                        40.473419
+                  ]
+            },
+            {
+                  "name": "Soğuksu National Park",
+                  "text": "A national park known for its thermal springs and diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        32.612054,
+                        40.457883
+                  ]
+            },
+            {
+                  "name": "Şehitlik Anıtı",
+                  "text": "A monument within the park dedicated to the memory of fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        32.650485,
+                        40.486336
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TR-06",
     coords: [32.6167, 40.4667],
@@ -1341,7 +2358,52 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "karagol-sahara-life-v2",
+    id: "karagol-sahara-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karagöl Sahara Millî Parkı",
+                  "text": "Ein türkischer Nationalpark, der für seine malerischen Seen und dichten Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        42.464827,
+                        41.239639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karagöl Sahara Millî Parkı",
+                  "text": "Török nemzeti park, amely festői tavairól és sűrű erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        42.464827,
+                        41.239639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karagöl Sahara Millî Parkı",
+                  "text": "Un parc național turcesc cunoscut pentru lacurile sale pitorești și pădurile dese.",
+                  "category": "natural",
+                  "coords": [
+                        42.464827,
+                        41.239639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karagöl Sahara National Park",
+                  "text": "A Turkish national park known for its scenic lakes and dense forests.",
+                  "category": "natural",
+                  "coords": [
+                        42.464827,
+                        41.239639
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TR-08",
     coords: [42.4500, 41.2333],

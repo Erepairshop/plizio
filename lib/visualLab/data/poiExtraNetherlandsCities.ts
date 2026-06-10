@@ -21,6 +21,42 @@ export const poiExtraNetherlandsCities: POI[] = [
                         4.10808,
                         51.990984
                   ]
+            },
+            {
+                  "name": "Maasmond Laag",
+                  "text": "Ein moderner Leuchtturm in der Maasvlakte 2, der zur Sicherung des Schiffsverkehrs dient.",
+                  "category": "landmark",
+                  "coords": [
+                        4.081407,
+                        51.981382
+                  ]
+            },
+            {
+                  "name": "Maasmond Hoog",
+                  "text": "Ein markanter Leuchtturm im Hafengebiet Maasvlakte 2 zur Unterstützung der Navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        4.096723,
+                        51.977559
+                  ]
+            },
+            {
+                  "name": "Leuchtturm an der Maasebene",
+                  "text": "Der höchste Leuchtturm der Niederlande in der Maasvlakte, ein wichtiges Seezeichen an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        4.014296,
+                        51.970049
+                  ]
+            },
+            {
+                  "name": "Edisonbaai",
+                  "text": "Eine Bucht im Bereich der Maasvlakte 2, die Teil der modernen Hafenerweiterung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.039697,
+                        51.985351
+                  ]
             }
       ],
       "hu": [
@@ -31,6 +67,42 @@ export const poiExtraNetherlandsCities: POI[] = [
                   "coords": [
                         4.10808,
                         51.990984
+                  ]
+            },
+            {
+                  "name": "Maasmond Laag",
+                  "text": "Modern világítótorony a Maasvlakte 2 területén, amely a hajóforgalom biztonságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        4.081407,
+                        51.981382
+                  ]
+            },
+            {
+                  "name": "Maasmond Hoog",
+                  "text": "Jelentős világítótorony a Maasvlakte 2 kikötői területén a navigáció segítésére.",
+                  "category": "landmark",
+                  "coords": [
+                        4.096723,
+                        51.977559
+                  ]
+            },
+            {
+                  "name": "Maasvlakte",
+                  "text": "Hollandia legmagasabb világítótoronya a Maasvlakte területén, fontos tengeri jelzés a parton.",
+                  "category": "landmark",
+                  "coords": [
+                        4.014296,
+                        51.970049
+                  ]
+            },
+            {
+                  "name": "Edisonbaai",
+                  "text": "Öböl a Maasvlakte 2 területén, amely a modern kikötőbővítés része.",
+                  "category": "landmark",
+                  "coords": [
+                        4.039697,
+                        51.985351
                   ]
             }
       ],
@@ -43,6 +115,42 @@ export const poiExtraNetherlandsCities: POI[] = [
                         4.10808,
                         51.990984
                   ]
+            },
+            {
+                  "name": "Maasmond Laag",
+                  "text": "Un far modern în Maasvlakte 2, servind la siguranța traficului maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        4.081407,
+                        51.981382
+                  ]
+            },
+            {
+                  "name": "Maasmond Hoog",
+                  "text": "Un far proeminent în zona portuară Maasvlakte 2 pentru sprijinirea navigației.",
+                  "category": "landmark",
+                  "coords": [
+                        4.096723,
+                        51.977559
+                  ]
+            },
+            {
+                  "name": "Maasvlakte",
+                  "text": "Cel mai înalt far din Țările de Jos, situat în Maasvlakte, un reper maritim important pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        4.014296,
+                        51.970049
+                  ]
+            },
+            {
+                  "name": "Edisonbaai",
+                  "text": "Un golf în zona Maasvlakte 2, care face parte din extinderea modernă a portului.",
+                  "category": "landmark",
+                  "coords": [
+                        4.039697,
+                        51.985351
+                  ]
             }
       ],
       "en": [
@@ -53,6 +161,42 @@ export const poiExtraNetherlandsCities: POI[] = [
                   "coords": [
                         4.10808,
                         51.990984
+                  ]
+            },
+            {
+                  "name": "Maasmond Laag",
+                  "text": "A modern lighthouse in Maasvlakte 2, serving to ensure maritime traffic safety.",
+                  "category": "landmark",
+                  "coords": [
+                        4.081407,
+                        51.981382
+                  ]
+            },
+            {
+                  "name": "Maasmond Hoog",
+                  "text": "A prominent lighthouse in the Maasvlakte 2 port area to assist navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        4.096723,
+                        51.977559
+                  ]
+            },
+            {
+                  "name": "Maasvlakte",
+                  "text": "The tallest lighthouse in the Netherlands, located in Maasvlakte, an important maritime landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        4.014296,
+                        51.970049
+                  ]
+            },
+            {
+                  "name": "Edisonbaai",
+                  "text": "A bay in the Maasvlakte 2 area, part of the modern port expansion.",
+                  "category": "landmark",
+                  "coords": [
+                        4.039697,
+                        51.985351
                   ]
             }
       ]

@@ -6438,7 +6438,196 @@ export const albaniaCities: POI[] = [
       fr: ["Patrimoine mondial de l'UNESCO.", "Maisons ottomanes uniques.", "Château habité."],
     }, image: "/poi-images/city-berat.webp"},
   {
-    id: "city-gjirokaster",
+    id: "city-gjirokaster", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Gjirokastrës",
+                  "text": "Diese beeindruckende Festung thront über der historischen Stadt Gjirokastra und beherbergt mehrere Museen.",
+                  "category": "castle",
+                  "coords": [
+                        20.140306,
+                        40.073437
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Das Museum in einem traditionellen Haus zeigt die ethnografische Vielfalt und Kultur von Gjirokastra.",
+                  "category": "museum",
+                  "coords": [
+                        20.1348,
+                        40.075658
+                  ]
+            },
+            {
+                  "name": "Muza Ime Musine Kokalari",
+                  "text": "Dieses Museum in Gjirokastra ist dem Leben und Werk der Schriftstellerin Musine Kokalari gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.135586,
+                        40.073983
+                  ]
+            },
+            {
+                  "name": "Tunnel Nostalgia",
+                  "text": "Ein in einem ehemaligen Bunker untergebrachter Tunnel, der die Geschichte des Kalten Krieges in Albanien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.139198,
+                        40.073804
+                  ]
+            },
+            {
+                  "name": "Festivali Folklorik Kombëtar i Gjirokastrës",
+                  "text": "Der Veranstaltungsort für das nationale Folklorfestival von Gjirokastra bietet Einblicke in albanische Traditionen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.14136,
+                        40.074218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Gjirokastrës",
+                  "text": "Ez a lenyűgöző erődítmény Gjirokastra történelmi városa fölé magasodik, és több múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        20.140306,
+                        40.073437
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "A hagyományos házban kialakított múzeum Gjirokastra néprajzi sokszínűségét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.1348,
+                        40.075658
+                  ]
+            },
+            {
+                  "name": "Muza Ime Musine Kokalari",
+                  "text": "Ez a gjirokastrai múzeum Musine Kokalari írónő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.135586,
+                        40.073983
+                  ]
+            },
+            {
+                  "name": "Tunnel Nostalgia",
+                  "text": "Egy egykori bunkerben kialakított alagút, amely az albániai hidegháború történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.139198,
+                        40.073804
+                  ]
+            },
+            {
+                  "name": "Festivali Folklorik Kombëtar i Gjirokastrës",
+                  "text": "A gjirokastrai nemzeti népművészeti fesztivál helyszíne betekintést nyújt az albán hagyományokba.",
+                  "category": "cultural",
+                  "coords": [
+                        20.14136,
+                        40.074218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Gjirokastrës",
+                  "text": "Această fortăreață impresionantă domină orașul istoric Gjirokastra și găzduiește mai multe muzee.",
+                  "category": "castle",
+                  "coords": [
+                        20.140306,
+                        40.073437
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Muzeul situat într-o casă tradițională prezintă diversitatea etnografică și cultura din Gjirokastra.",
+                  "category": "museum",
+                  "coords": [
+                        20.1348,
+                        40.075658
+                  ]
+            },
+            {
+                  "name": "Muza Ime Musine Kokalari",
+                  "text": "Acest muzeu din Gjirokastra este dedicat vieții și operei scriitoarei Musine Kokalari.",
+                  "category": "museum",
+                  "coords": [
+                        20.135586,
+                        40.073983
+                  ]
+            },
+            {
+                  "name": "Tunnel Nostalgia",
+                  "text": "Un tunel amenajat într-un fost buncăr, care documentează istoria Războiului Rece în Albania.",
+                  "category": "museum",
+                  "coords": [
+                        20.139198,
+                        40.073804
+                  ]
+            },
+            {
+                  "name": "Festivali Folklorik Kombëtar i Gjirokastrës",
+                  "text": "Locul de desfășurare a festivalului național de folclor din Gjirokastra oferă perspective asupra tradițiilor albaneze.",
+                  "category": "cultural",
+                  "coords": [
+                        20.14136,
+                        40.074218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gjirokastër Castle",
+                  "text": "This impressive fortress overlooks the historic city of Gjirokastra and houses several museums.",
+                  "category": "castle",
+                  "coords": [
+                        20.140306,
+                        40.073437
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The museum in a traditional house showcases the ethnographic diversity and culture of Gjirokastra.",
+                  "category": "museum",
+                  "coords": [
+                        20.1348,
+                        40.075658
+                  ]
+            },
+            {
+                  "name": "Muza Ime Musine Kokalari",
+                  "text": "This museum in Gjirokastra is dedicated to the life and work of the writer Musine Kokalari.",
+                  "category": "museum",
+                  "coords": [
+                        20.135586,
+                        40.073983
+                  ]
+            },
+            {
+                  "name": "Tunnel Nostalgia",
+                  "text": "A tunnel housed in a former bunker that documents the history of the Cold War in Albania.",
+                  "category": "museum",
+                  "coords": [
+                        20.139198,
+                        40.073804
+                  ]
+            },
+            {
+                  "name": "Festivali Folklorik Kombëtar i Gjirokastrës",
+                  "text": "The venue for the national folklore festival of Gjirokastra offers insights into Albanian traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        20.14136,
+                        40.074218
+                  ]
+            }
+      ]
+},
     name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastra", en: "Gjirokastra" },
     description: { de: "Gjirokastra ist eine historische Stadt im Süden Albaniens, die für ihre gut erhaltene osmanische Architektur bekannt ist.", hu: "Gjirokastra egy történelmi város Albánia déli részén, amely jól karbantartott oszmán építészetéről híres.", ro: "Gjirokastra este un oraș istoric din sudul Albaniei, renumit pentru arhitectura sa otomană bine conservată.", en: "Gjirokaster is a historic city in southern Albania, renowned for its well-preserved Ottoman architecture." , es: "Gjirokastra es una ciudad histórica en el sur de Albania, conocida por su arquitectura otomana bien conservada.", pt: "Gjirokastra é uma cidade histórica no sul da Albânia, conhecida pela sua arquitetura otomana bem preservada.", fr: "Gjirokastra est une ville historique du sud de l'Albanie, connue pour son architecture ottomane bien conservée."},
     descriptionAdvanced: {
@@ -6491,6 +6680,60 @@ export const albaniaCities: POI[] = [
                         20.003513,
                         39.87296
                   ]
+            },
+            {
+                  "name": "Kalaja e Lëkurësit",
+                  "text": "Eine strategische Burg auf einem Hügel mit Blick auf die Stadt Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.025754,
+                        39.865855
+                  ]
+            },
+            {
+                  "name": "Wall Remains of Ancient Onchesmus",
+                  "text": "Archäologische Überreste der Befestigungsanlagen der antiken Stadt Onchesmus.",
+                  "category": "historical",
+                  "coords": [
+                        20.005282,
+                        39.872958
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik",
+                  "text": "Ein Museum in Saranda, das die antike Geschichte der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.009076,
+                        39.874227
+                  ]
+            },
+            {
+                  "name": "Onhezmus Castle",
+                  "text": "Überreste einer antiken Festung in der albanischen Stadt Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.006684,
+                        39.874716
+                  ]
+            },
+            {
+                  "name": "Tempulli Antik",
+                  "text": "Eine antike archäologische Stätte in der Stadt Saranda.",
+                  "category": "historical",
+                  "coords": [
+                        20.033632,
+                        39.872293
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Ein beliebter öffentlicher Strand an der Küste von Saranda.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
+                  ]
             }
       ],
       "hu": [
@@ -6510,6 +6753,60 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         20.003513,
                         39.87296
+                  ]
+            },
+            {
+                  "name": "Kalaja e Lëkurësit",
+                  "text": "Stratégiai fekvésű vár egy dombtetőn, ahonnan kilátás nyílik Saranda városára.",
+                  "category": "castle",
+                  "coords": [
+                        20.025754,
+                        39.865855
+                  ]
+            },
+            {
+                  "name": "Wall Remains of Ancient Onchesmus",
+                  "text": "Az ókori Onchesmus város erődítményeinek régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.005282,
+                        39.872958
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik",
+                  "text": "Saranda múzeuma, amely a régió ókori történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.009076,
+                        39.874227
+                  ]
+            },
+            {
+                  "name": "Onhezmus Castle",
+                  "text": "Egy ókori erődítmény maradványai az albániai Saranda városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.006684,
+                        39.874716
+                  ]
+            },
+            {
+                  "name": "Tempulli Antik",
+                  "text": "Ókori régészeti lelőhely Saranda városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.033632,
+                        39.872293
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "Népszerű nyilvános strand Saranda tengerpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
                   ]
             }
       ],
@@ -6531,6 +6828,60 @@ export const albaniaCities: POI[] = [
                         20.003513,
                         39.87296
                   ]
+            },
+            {
+                  "name": "Kalaja e Lëkurësit",
+                  "text": "Un castel strategic situat pe un deal, oferind o panoramă asupra orașului Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.025754,
+                        39.865855
+                  ]
+            },
+            {
+                  "name": "Wall Remains of Ancient Onchesmus",
+                  "text": "Vestigii arheologice ale fortificațiilor orașului antic Onchesmus.",
+                  "category": "historical",
+                  "coords": [
+                        20.005282,
+                        39.872958
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik",
+                  "text": "Un muzeu din Saranda care prezintă istoria antică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.009076,
+                        39.874227
+                  ]
+            },
+            {
+                  "name": "Onhezmus Castle",
+                  "text": "Rămășițele unei fortificații antice în orașul albanez Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.006684,
+                        39.874716
+                  ]
+            },
+            {
+                  "name": "Tempulli Antik",
+                  "text": "Un sit arheologic antic situat în orașul Saranda.",
+                  "category": "historical",
+                  "coords": [
+                        20.033632,
+                        39.872293
+                  ]
+            },
+            {
+                  "name": "Plazh publik",
+                  "text": "O plajă publică populară pe coasta orașului Saranda.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
+                  ]
             }
       ],
       "en": [
@@ -6550,6 +6901,60 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         20.003513,
                         39.87296
+                  ]
+            },
+            {
+                  "name": "Lëkurësi Castle",
+                  "text": "A strategic hilltop castle overlooking the city of Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.025754,
+                        39.865855
+                  ]
+            },
+            {
+                  "name": "Wall Remains of Ancient Onchesmus",
+                  "text": "Archaeological remains of the ancient city of Onchesmus' fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        20.005282,
+                        39.872958
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "A museum in Saranda presenting the ancient history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        20.009076,
+                        39.874227
+                  ]
+            },
+            {
+                  "name": "Onhezmus Castle",
+                  "text": "Remains of an ancient fortification in the Albanian city of Saranda.",
+                  "category": "castle",
+                  "coords": [
+                        20.006684,
+                        39.874716
+                  ]
+            },
+            {
+                  "name": "Tempulli Antik",
+                  "text": "An ancient archaeological site located in the city of Saranda.",
+                  "category": "historical",
+                  "coords": [
+                        20.033632,
+                        39.872293
+                  ]
+            },
+            {
+                  "name": "Public beach",
+                  "text": "A popular public beach on the coast of Saranda.",
+                  "category": "recreational",
+                  "coords": [
+                        20.01229,
+                        39.872988
                   ]
             }
       ]
@@ -6937,7 +7342,196 @@ export const albaniaNature: POI[] = [
       fr: ["Espèces de poissons uniques.", "Eau cristalline.", "Protection de l'UNESCO."],
     }, image: "/poi-images/nat-lake-ohrid.webp"},
   {
-    id: "nat-valbone",
+    id: "nat-valbone", "sights": {
+      "de": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Ein geschützter Nationalpark in den Albanischen Alpen, der für seine unberührten Alpenlandschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja e Thatë",
+                  "text": "Ein markanter Berggipfel im Valbona-Tal, der Teil der Albanischen Alpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.869091,
+                        42.468072
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Einer der höchsten und markantesten Gipfel in der Region des Valbona-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ein historischer Militärbunker, der heute als Sehenswürdigkeit im Valbona-Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Alte Wassermühle",
+                  "text": "Die Überreste einer historischen Wassermühle, die sich im malerischen Valbona-Tal befinden.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Az Albán-Alpokban található védett nemzeti park, amely érintetlen alpesi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja e Thatë",
+                  "text": "Egy jellegzetes hegycsúcs a Valbona-völgyben, az Albán-Alpok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.869091,
+                        42.468072
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "A Valbona-völgy régiójának egyik legmagasabb és legjellegzetesebb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Egy történelmi katonai bunker, amely ma látnivalóként szolgál a Valbona-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Egy történelmi vízimalom maradványai, amelyek a festői Valbona-völgyben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parku Kombëtar Lugina e Valbonës",
+                  "text": "Un parc național protejat din Alpii Albanezi, cunoscut pentru peisajele sale alpine virgine.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja e Thatë",
+                  "text": "Un vârf muntos proeminent din Valea Valbona, care face parte din Alpii Albanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.869091,
+                        42.468072
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Unul dintre cele mai înalte și mai distinctive vârfuri din regiunea Văii Valbona.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Un buncăr militar istoric care servește astăzi ca punct de interes în Valea Valbona.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Ruinele unei mori de apă istorice situate în pitoreasca Vale Valbona.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valbona Valley National Park",
+                  "text": "A protected national park in the Albanian Alps known for its pristine alpine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        19.934352,
+                        42.440812
+                  ]
+            },
+            {
+                  "name": "Maja e Thatë",
+                  "text": "A prominent mountain peak in the Valbona Valley, part of the Albanian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.869091,
+                        42.468072
+                  ]
+            },
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "One of the highest and most distinctive peaks in the Valbona Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "A historic military bunker that now serves as a point of interest in Valbona Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Old Watermill",
+                  "text": "The remains of a historic watermill located in the scenic Valbona Valley.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ]
+},
     name: { de: "Valbona-Tal", hu: "Valbona-völgy", ro: "Valea Valbone", en: "Valbona Valley" },
     description: { de: "Albanische Alpen", hu: "Albán Alpok", ro: "Alpii Albanezi", en: "Albanian Alps" , es: "Alpes albaneses", pt: "Alpes Albaneses", fr: "Alpes albanaises"},
     descriptionAdvanced: {
@@ -7005,7 +7599,232 @@ export const albaniaNature: POI[] = [
       fr: ["Plus de 50 mètres de profondeur.", "Température constante de 10 degrés.", "Couleur bleu saphir."],
     }, image: "/poi-images/nat-blue-eye.webp"},
   {
-    id: "nat-llogara",
+    id: "nat-llogara", "sights": {
+      "de": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "Ein Strand am Ionischen Meer unterhalb des Llogara-Passes in Albanien.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "Ein weitläufiger Strand in Albanien, wo der Llogara-Pass auf das Meer trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Ein Aussichtspunkt am Llogara-Pass mit Blick auf die albanische Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ein großer Bunker aus der Zeit des Kommunismus am Llogara-Pass.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Eine Attraktion am Llogara-Pass, die oft als Startplatz für Paraglider genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Ein Denkmal am Llogara-Pass zur Erinnerung an historische Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "Strand a Jón-tenger partján, az albániai Llogara-hágó alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "Tágas tengerparti strand Albániában, ahol a Llogara-hágó eléri a tengert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Kilátópont a Llogara-hágónál, rálátással az albán riviérára.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Egy hatalmas bunker a kommunista korszakból a Llogara-hágónál.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "Turisztikai attrakció a Llogara-hágónál, gyakran siklóernyős felszállóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Emlékmű a Llogara-hágónál a történelmi események emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "O plajă la Marea Ionică situată la poalele pasului Llogara din Albania.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "O plajă extinsă din Albania, situată în locul unde pasul Llogara întâlnește marea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "Un punct de belvedere în pasul Llogara cu vedere spre Riviera Albaneză.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Un buncăr mare din perioada comunistă situat în pasul Llogara.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "O atracție în pasul Llogara, utilizată adesea ca punct de lansare pentru parapantă.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "Un monument în pasul Llogara care comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhrale Beach",
+                  "text": "A beach on the Ionian Sea located below the Llogara Pass in Albania.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58773,
+                        40.166175
+                  ]
+            },
+            {
+                  "name": "Plazhi i Palasës",
+                  "text": "A wide beach in Albania where the Llogara Pass meets the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.58551,
+                        40.168145
+                  ]
+            },
+            {
+                  "name": "Cesar-Pass",
+                  "text": "A viewpoint at the Llogara Pass with views over the Albanian Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        19.582662,
+                        40.217051
+                  ]
+            },
+            {
+                  "name": "Big bunker",
+                  "text": "A large bunker from the communist era located at the Llogara Pass.",
+                  "category": "historical",
+                  "coords": [
+                        19.592743,
+                        40.184301
+                  ]
+            },
+            {
+                  "name": "Flying Mammut",
+                  "text": "An attraction at the Llogara Pass, often used as a paragliding launch site.",
+                  "category": "landmark",
+                  "coords": [
+                        19.599128,
+                        40.188293
+                  ]
+            },
+            {
+                  "name": "Llogora 1912-1913",
+                  "text": "A monument at the Llogara Pass commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        19.598476,
+                        40.195882
+                  ]
+            }
+      ]
+},
     name: { de: "Llogara-Pass", hu: "Llogara-hágó", ro: "Pasul Llogara", en: "Llogara Pass" },
     description: { de: "Gebirgspass zur Riviera", hu: "Hágó a riviérára", ro: "Pas montan spre rivieră", en: "Mountain pass to the Riviera" , es: "Paso de montaña hacia la Riviera", pt: "Passo de montanha para a Riviera", fr: "Col de montagne vers la Riviera"},
     descriptionAdvanced: {
@@ -7073,7 +7892,88 @@ export const albaniaNature: POI[] = [
       fr: ["Possibilité de rafting.", "Hautes parois rocheuses.", "Nombreuses cascades."],
     }, image: "/poi-images/nat-osum-canyon.webp"},
   {
-    id: "nat-korab",
+    id: "nat-korab", "sights": {
+      "de": [
+            {
+                  "name": "Голем Кораб",
+                  "text": "Der Korab ist der höchste Berg Albaniens und Nordmazedoniens und bietet weite Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        20.546858,
+                        41.790343
+                  ]
+            },
+            {
+                  "name": "Maja e Radomirës",
+                  "text": "Der höchste Gipfel des Korab-Massivs, bekannt für seine alpine Landschaft und Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544306,
+                        41.8028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Голем Кораб",
+                  "text": "A Korab-hegy Albánia és Észak-Macedónia legmagasabb pontja, ahonnan pazar kilátás nyílik.",
+                  "category": "natural",
+                  "coords": [
+                        20.546858,
+                        41.790343
+                  ]
+            },
+            {
+                  "name": "Maja e Radomirës",
+                  "text": "A Korab-masszívum legmagasabb csúcsa, amely alpesi tájairól és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544306,
+                        41.8028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Голем Кораб",
+                  "text": "Muntele Korab este cel mai înalt vârf din Albania și Macedonia de Nord, oferind vederi vaste.",
+                  "category": "natural",
+                  "coords": [
+                        20.546858,
+                        41.790343
+                  ]
+            },
+            {
+                  "name": "Maja e Radomirës",
+                  "text": "Cel mai înalt vârf al masivului Korab, cunoscut pentru peisajul alpin și traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544306,
+                        41.8028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Korab",
+                  "text": "Mount Korab is the highest peak in Albania and North Macedonia, offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        20.546858,
+                        41.790343
+                  ]
+            },
+            {
+                  "name": "Maja e Radomirës",
+                  "text": "The highest peak of the Korab massif, known for its alpine landscape and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544306,
+                        41.8028
+                  ]
+            }
+      ]
+},
     name: { de: "Berg Korab", hu: "Korab-hegy", ro: "Muntele Korab", en: "Mount Korab" },
     description: { de: "Höchster Berg", hu: "Legmagasabb hegy", ro: "Cel mai înalt munte", en: "Highest mountain" , es: "Montaña más alta", pt: "Montanha mais alta", fr: "Plus haute montagne"},
     descriptionAdvanced: {
@@ -7107,7 +8007,304 @@ export const albaniaNature: POI[] = [
       fr: ["2 764 mètres d'altitude.", "Montagne frontalière.", "Randonnée exigeante."],
     }, image: "/poi-images/nat-korab.webp"},
   {
-    id: "nat-theth",
+    id: "nat-theth", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Museum zur Kultur und Geschichte der Region Dukagjin.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Archäologische Fundstätte einer prähistorischen Siedlung mit Terrassenanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Hoher Berggipfel im albanischen Nationalpark Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Wasserfall",
+                  "text": "Beeindruckender Wasserfall in den albanischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Markanter Gipfel in der Bergwelt von Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Historische Wassermühle im Theth-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Malerischer Wasserfall in der unberührten Natur Nordalbaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Spektakuläre Felsschlucht im Nationalpark Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "A Dukagjin régió kultúráját és történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Egy teraszos őskori település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Magas hegycsúcs az albániai Theth Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "Lenyűgöző vízesés az Albán-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Jellegzetes hegycsúcs Theth hegyvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Történelmi vízimalom a Theth Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Festői vízesés Észak-Albánia érintetlen természetében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Látványos szurdok a Theth Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Muzeu dedicat culturii și istoriei regiunii Dukagjin.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Sit arheologic al unei așezări preistorice cu terase.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Vârf muntos înalt în Parcul Național Theth din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "Cascadă impresionantă în Alpii Albanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Vârf proeminent în munții din Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Moară de apă istorică în Parcul Național Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Cascadă pitorească în natura virgină a Albaniei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Canion spectaculos în Parcul Național Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum of Dukagjin",
+                  "text": "Museum dedicated to the culture and history of the Dukagjin region.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Prehistoric Settlement with Terraces",
+                  "text": "Archaeological site of a prehistoric settlement with terraces.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "High mountain peak in the Theth National Park in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Waterfall",
+                  "text": "Impressive waterfall in the Albanian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Prominent peak in the mountains of Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Historic water mill in the Theth National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Valbona's Waterfall",
+                  "text": "Picturesque waterfall in the untouched nature of Northern Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Spectacular canyon in the Theth National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ]
+},
     name: { de: "Theth Nationalpark", hu: "Thethi Nemzeti Park", ro: "Parcul Național Theth", en: "Theth National Park" },
     description: { de: "Herz der Alpen", hu: "Az Alpok szíve", ro: "Inima Alpilor", en: "Heart of the Alps" , es: "El corazón de los Alpes", pt: "O coração dos Alpes", fr: "Le cœur des Alpes"},
     descriptionAdvanced: {

@@ -4,7 +4,52 @@ import type { POI } from "./poi";
 export const mkPoisPart3: POI[] = [
   // MK-031: Staro Nagoričane
   {
-    id: "MK-031-st-george-church",
+    id: "MK-031-st-george-church", "sights": {
+      "de": [
+            {
+                  "name": "Св. Великомаченик Георгиј",
+                  "text": "Eine historische Kirche aus dem 14. Jahrhundert in Staro Nagoričane, bekannt für ihre gut erhaltenen byzantinischen Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        21.828192,
+                        42.19831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Св. Великомаченик Георгиј",
+                  "text": "Staro Nagoričane 14. századi történelmi temploma, amely jól megőrzött bizánci freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.828192,
+                        42.19831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Св. Великомаченик Георгиј",
+                  "text": "O biserică istorică din secolul al XIV-lea din Staro Nagoričane, cunoscută pentru frescele sale bizantine bine conservate.",
+                  "category": "religious",
+                  "coords": [
+                        21.828192,
+                        42.19831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of St. George",
+                  "text": "A historic 14th-century church in Staro Nagoričane known for its well-preserved Byzantine frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        21.828192,
+                        42.19831
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-031",
     coords: [21.8286, 42.1989],
@@ -93,7 +138,52 @@ export const mkPoisPart3: POI[] = [
   },
   // MK-032: Kumanovo
   {
-    id: "MK-032-kokino-observatory",
+    id: "MK-032-kokino-observatory", "sights": {
+      "de": [
+            {
+                  "name": "Кокино - Мегалитска опсерваторија",
+                  "text": "Ein bedeutendes megalithisches Observatorium aus der Bronzezeit in der Nähe von Kokino.",
+                  "category": "historical",
+                  "coords": [
+                        21.953118,
+                        42.263382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кокино - Мегалитска опсерваторија",
+                  "text": "Jelentős bronzkori megalitikus obszervatórium Kokino közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.953118,
+                        42.263382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кокино - Мегалитска опсерваторија",
+                  "text": "Un important observator megalitic din epoca bronzului, situat lângă Kokino.",
+                  "category": "historical",
+                  "coords": [
+                        21.953118,
+                        42.263382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kokino - Megalithic observatory",
+                  "text": "A significant Bronze Age megalithic observatory located near Kokino.",
+                  "category": "historical",
+                  "coords": [
+                        21.953118,
+                        42.263382
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-032",
     coords: [21.9472, 42.2611],
@@ -137,7 +227,88 @@ export const mkPoisPart3: POI[] = [
     image: "/poi-images/MK-032-kokino-observatory.webp",
   },
   {
-    id: "MK-032-kumanovo-city-square",
+    id: "MK-032-kumanovo-city-square", "sights": {
+      "de": [
+            {
+                  "name": "Zena",
+                  "text": "Ein Denkmal auf dem Stadtplatz von Kumanovo, das die Frauen ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "Eine historische Moschee aus dem 16. Jahrhundert am Stadtplatz von Kumanovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zena",
+                  "text": "A nők előtt tisztelgő emlékmű Kumanovó főterén.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "Egy 16. századi történelmi mecset Kumanovó főterén.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zena",
+                  "text": "Un monument situat în piața centrală din Kumanovo, dedicat femeilor.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "O moschee istorică din secolul al XVI-lea, situată în piața orașului Kumanovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zena",
+                  "text": "A monument on the Kumanovo City Square, honoring women.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Tatar Sinan Pasha Mosque",
+                  "text": "A historic 16th-century mosque located at the Kumanovo City Square.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-032",
     coords: [21.7167, 42.1333],
@@ -226,7 +397,160 @@ export const mkPoisPart3: POI[] = [
     image: "/poi-images/MK-033-golak-mountain.webp",
   },
   {
-    id: "MK-033-delcevo-city-park",
+    id: "MK-033-delcevo-city-park", "sights": {
+      "de": [
+            {
+                  "name": "Музеј на град Делчево",
+                  "text": "Das Stadtmuseum dokumentiert die Geschichte und Entwicklung der Stadt Delčevo.",
+                  "category": "museum",
+                  "coords": [
+                        22.773121,
+                        41.966535
+                  ]
+            },
+            {
+                  "name": "Гоце Делчев (Биста)",
+                  "text": "Ein Denkmal in Delčevo zu Ehren des revolutionären Anführers Goce Delčev.",
+                  "category": "historical",
+                  "coords": [
+                        22.776872,
+                        41.966861
+                  ]
+            },
+            {
+                  "name": "КУД Гоце Делчев",
+                  "text": "Ein Kulturzentrum in Delčevo, das lokale künstlerische und folkloristische Aktivitäten fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        22.772116,
+                        41.966362
+                  ]
+            },
+            {
+                  "name": "Кула",
+                  "text": "Ein markantes Denkmal oder historisches Bauwerk im Stadtpark von Delčevo.",
+                  "category": "historical",
+                  "coords": [
+                        22.795441,
+                        41.942536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј на град Делчево",
+                  "text": "A városi múzeum Delčevo történelmét és fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        22.773121,
+                        41.966535
+                  ]
+            },
+            {
+                  "name": "Гоце Делчев (Биста)",
+                  "text": "Emlékmű Delčevóban Goce Delčev forradalmi vezető tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.776872,
+                        41.966861
+                  ]
+            },
+            {
+                  "name": "КУД Гоце Делчев",
+                  "text": "Kulturális központ Delčevóban, amely a helyi művészeti és folklór tevékenységeket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        22.772116,
+                        41.966362
+                  ]
+            },
+            {
+                  "name": "Кула",
+                  "text": "Jellegzetes emlékmű vagy történelmi építmény Delčevo városi parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        22.795441,
+                        41.942536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј на град Делчево",
+                  "text": "Muzeul orașului documentează istoria și dezvoltarea orașului Delčevo.",
+                  "category": "museum",
+                  "coords": [
+                        22.773121,
+                        41.966535
+                  ]
+            },
+            {
+                  "name": "Гоце Делчев (Биста)",
+                  "text": "Un monument în Delčevo ridicat în onoarea liderului revoluționar Goce Delčev.",
+                  "category": "historical",
+                  "coords": [
+                        22.776872,
+                        41.966861
+                  ]
+            },
+            {
+                  "name": "КУД Гоце Делчев",
+                  "text": "Un centru cultural din Delčevo, care promovează activitățile artistice și folclorice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.772116,
+                        41.966362
+                  ]
+            },
+            {
+                  "name": "Кула",
+                  "text": "Un monument proeminent sau o structură istorică în parcul central din Delčevo.",
+                  "category": "historical",
+                  "coords": [
+                        22.795441,
+                        41.942536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Museum",
+                  "text": "The city museum documents the history and development of Delčevo.",
+                  "category": "museum",
+                  "coords": [
+                        22.773121,
+                        41.966535
+                  ]
+            },
+            {
+                  "name": "Goce Delchev",
+                  "text": "A monument in Delčevo honoring the revolutionary leader Goce Delchev.",
+                  "category": "historical",
+                  "coords": [
+                        22.776872,
+                        41.966861
+                  ]
+            },
+            {
+                  "name": "KUD Goce Delchev",
+                  "text": "A cultural center in Delčevo promoting local artistic and folkloric activities.",
+                  "category": "cultural",
+                  "coords": [
+                        22.772116,
+                        41.966362
+                  ]
+            },
+            {
+                  "name": "Kula",
+                  "text": "A prominent monument or historical structure in the Delčevo city park.",
+                  "category": "historical",
+                  "coords": [
+                        22.795441,
+                        41.942536
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-033",
     coords: [22.7667, 41.9667],
@@ -704,7 +1028,232 @@ export const mkPoisPart3: POI[] = [
   },
   // MK-039: Brod (Makedonski Brod)
   {
-    id: "MK-039-pesna-cave",
+    id: "MK-039-pesna-cave", "sights": {
+      "de": [
+            {
+                  "name": "Асаноец",
+                  "text": "Eine natürliche Quelle in der Nähe der beeindruckenden Pesna-Höhle in Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил",
+                  "text": "Eine historische orthodoxe Kirche in Devič, die dem Erzengel Michael gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.24999,
+                        41.546826
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "Eine dem heiligen Georg gewidmete traditionelle Kirche in der Nähe des Dorfes Devič.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Атанасиј Велики",
+                  "text": "Eine orthodoxe Kirche in Lokvica, die dem heiligen Athanasius dem Großen geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.276799,
+                        41.57678
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј Солунски",
+                  "text": "Eine Kirche in Lokvica, gewidmet dem heiligen Demetrius von Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        21.275317,
+                        41.577431
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Ein Sakralbau im Dorf Suvodol, der dem heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.242439,
+                        41.520523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Асаноец",
+                  "text": "Természetes forrás a lenyűgöző észak-macedóniai Pesna-barlang közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил",
+                  "text": "Szent Mihály arkangyalnak szentelt történelmi ortodox templom Devičben.",
+                  "category": "religious",
+                  "coords": [
+                        21.24999,
+                        41.546826
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "Szent György tiszteletére szentelt hagyományos templom Devič falu közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Атанасиј Велики",
+                  "text": "Szent Atanáz tiszteletére szentelt ortodox templom Lokvicában.",
+                  "category": "religious",
+                  "coords": [
+                        21.276799,
+                        41.57678
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј Солунски",
+                  "text": "Szent Demeter tiszteletére szentelt templom Lokvicában.",
+                  "category": "religious",
+                  "coords": [
+                        21.275317,
+                        41.577431
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Szent Miklósnak szentelt vallási épület Suvodol faluban.",
+                  "category": "religious",
+                  "coords": [
+                        21.242439,
+                        41.520523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Асаноец",
+                  "text": "Un izvor natural situat lângă impresionanta peșteră Pesna din Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил",
+                  "text": "O biserică ortodoxă istorică din Devič, dedicată Arhanghelului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        21.24999,
+                        41.546826
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "O biserică tradițională dedicată Sfântului Gheorghe, situată lângă satul Devič.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Атанасиј Велики",
+                  "text": "O biserică ortodoxă din Lokvica, sfințită în cinstea Sfântului Atanasie cel Mare.",
+                  "category": "religious",
+                  "coords": [
+                        21.276799,
+                        41.57678
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј Солунски",
+                  "text": "O biserică din Lokvica, dedicată Sfântului Dumitru din Salonic.",
+                  "category": "religious",
+                  "coords": [
+                        21.275317,
+                        41.577431
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Un lăcaș de cult în satul Suvodol, dedicat Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        21.242439,
+                        41.520523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asanoec",
+                  "text": "A natural spring located near the impressive Pesna Cave in North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "St. Archangel Michael",
+                  "text": "A historic Orthodox church in Devič dedicated to Archangel Michael.",
+                  "category": "religious",
+                  "coords": [
+                        21.24999,
+                        41.546826
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "A traditional church dedicated to Saint George located near the village of Devič.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "St. Athanasius the Great",
+                  "text": "An Orthodox church in Lokvica dedicated to Saint Athanasius the Great.",
+                  "category": "religious",
+                  "coords": [
+                        21.276799,
+                        41.57678
+                  ]
+            },
+            {
+                  "name": "St. Demetrius of Salonica",
+                  "text": "A church in Lokvica dedicated to Saint Demetrius of Salonica.",
+                  "category": "religious",
+                  "coords": [
+                        21.275317,
+                        41.577431
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "A religious building dedicated to Saint Nicholas in the village of Suvodol.",
+                  "category": "religious",
+                  "coords": [
+                        21.242439,
+                        41.520523
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-039",
     coords: [21.2500, 41.5500],
@@ -748,7 +1297,268 @@ export const mkPoisPart3: POI[] = [
     image: "/poi-images/MK-039-pesna-cave.webp",
   },
   {
-    id: "MK-039-st-mother-of-god-brod",
+    id: "MK-039-st-mother-of-god-brod", "sights": {
+      "de": [
+            {
+                  "name": "Aquamarine bazen",
+                  "text": "Das Aquamarine-Schwimmbad ist ein Wasserpark in Makedonski Brod.",
+                  "category": "recreational",
+                  "coords": [
+                        21.219729,
+                        41.509911
+                  ]
+            },
+            {
+                  "name": "Асаноец",
+                  "text": "Asanoec ist eine natürliche Quelle und wichtige Wasserquelle in Makedonski Brod.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "St. Nikolaus ist eine orthodoxe Kirche in Makedonski Brod aus dem 19. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        21.214979,
+                        41.508606
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј",
+                  "text": "St. Demetrius von Saloniki in Trebino ist eine Kirche mit traditionellen Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        21.206982,
+                        41.527768
+                  ]
+            },
+            {
+                  "name": "Пресвета Богородица",
+                  "text": "Die Kirche der Heiligen Gottesmutter in Makedonski Brod hat eine schöne Ikonostase.",
+                  "category": "religious",
+                  "coords": [
+                        21.214143,
+                        41.513676
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "St. Georg ist eine Kirche in Makedonski Brod nahe der Ruinen der Festung Devič.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "St. Eliyah ist eine Kirche in Slansko, die im August ihren Schutzpatron feiert.",
+                  "category": "religious",
+                  "coords": [
+                        21.226966,
+                        41.492575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquamarine bazen",
+                  "text": "Az Aquamarine úszómedence egy vízi park Makedonski Brodban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.219729,
+                        41.509911
+                  ]
+            },
+            {
+                  "name": "Асаноец",
+                  "text": "Az Asanoec egy természetes forrás és létfontosságú vízforrás Makedonski Brodban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "A Szent Miklós-templom egy 19. századi ortodox templom Makedonski Brodban.",
+                  "category": "religious",
+                  "coords": [
+                        21.214979,
+                        41.508606
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј",
+                  "text": "A trebinói Szent Demeter-templom hagyományos freskókkal díszített épület.",
+                  "category": "religious",
+                  "coords": [
+                        21.206982,
+                        41.527768
+                  ]
+            },
+            {
+                  "name": "Пресвета Богородица",
+                  "text": "A Makedonski Brodban található Szent Istenanya-templom szép ikonosztázzal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        21.214143,
+                        41.513676
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "A Szent György-templom a Devič-erőd romjainak közelében található Makedonski Brodban.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "A szlanszkói Szent Illés-templom augusztusban ünnepli védőszentjét.",
+                  "category": "religious",
+                  "coords": [
+                        21.226966,
+                        41.492575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquamarine bazen",
+                  "text": "Piscina Aquamarine este un parc acvatic din Makedonski Brod.",
+                  "category": "recreational",
+                  "coords": [
+                        21.219729,
+                        41.509911
+                  ]
+            },
+            {
+                  "name": "Асаноец",
+                  "text": "Asanoec este un izvor natural și o sursă de apă vitală din Makedonski Brod.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Sfântul Nicolae este o biserică ortodoxă din Makedonski Brod, construită în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        21.214979,
+                        41.508606
+                  ]
+            },
+            {
+                  "name": "Св. Димитриј",
+                  "text": "Sfântul Dumitru din Salonic din Trebino este o biserică cu fresce tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        21.206982,
+                        41.527768
+                  ]
+            },
+            {
+                  "name": "Пресвета Богородица",
+                  "text": "Sfânta Născătoare de Dumnezeu este o biserică din Makedonski Brod cu o catapeteasmă frumoasă.",
+                  "category": "religious",
+                  "coords": [
+                        21.214143,
+                        41.513676
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "Sfântul Gheorghe este o biserică din Makedonski Brod situată lângă ruinele cetății Devič.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "Sfântul Ilie este o biserică din Slansko care își sărbătorește hramul în august.",
+                  "category": "religious",
+                  "coords": [
+                        21.226966,
+                        41.492575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquamarine swimming pool",
+                  "text": "Aquamarine swimming pool is a water park in Makedonski Brod.",
+                  "category": "recreational",
+                  "coords": [
+                        21.219729,
+                        41.509911
+                  ]
+            },
+            {
+                  "name": "Asanoec",
+                  "text": "Asanoec is a natural spring and vital water source in Makedonski Brod.",
+                  "category": "landmark",
+                  "coords": [
+                        21.236065,
+                        41.542394
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "St. Nicholas is an Orthodox church in Makedonski Brod built in the 1800s.",
+                  "category": "religious",
+                  "coords": [
+                        21.214979,
+                        41.508606
+                  ]
+            },
+            {
+                  "name": "St. Demetrius of Salonica",
+                  "text": "St. Demetrius of Salonica in Trebino is a church featuring traditional frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        21.206982,
+                        41.527768
+                  ]
+            },
+            {
+                  "name": "Holy Mother of God",
+                  "text": "Holy Mother of God is a church in Makedonski Brod with a beautiful iconostasis.",
+                  "category": "religious",
+                  "coords": [
+                        21.214143,
+                        41.513676
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "St. George is a church in Makedonski Brod near the Devič fortress ruins.",
+                  "category": "religious",
+                  "coords": [
+                        21.224048,
+                        41.550787
+                  ]
+            },
+            {
+                  "name": "St. Eliyah",
+                  "text": "St. Eliyah is a church in Slansko that celebrates its patron in August.",
+                  "category": "religious",
+                  "coords": [
+                        21.226966,
+                        41.492575
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-039",
     coords: [21.2167, 41.5167],

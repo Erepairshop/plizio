@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const serbiaHistoryV2: POI[] = [
 
   {
-    id: "serbia-mediana-history-v2",
+    id: "serbia-mediana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Eine gut erhaltene osmanische Festung im Zentrum von Niš.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte mit den Überresten eines spätrömischen Palastes.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Ein historischer Hamam innerhalb der Festung von Niš aus der osmanischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archäologische Sammlung des Nationalmuseum Niš",
+                  "text": "Diese archäologische Halle in Mediana präsentiert bedeutende Funde aus der römischen Kaiserzeit.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Mediana",
+                  "text": "Mediana ist eine bedeutende spätantike archäologische Stätte und ehemalige Residenz von Konstantin dem Großen.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "Jó állapotban fennmaradt oszmán erődítmény Niš központjában.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Jelentős régészeti lelőhely egy késő római palota maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Történelmi hamam a niši erődben, az oszmán korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "Ez a madiánai (Mediana) régészeti csarnok a római korból származó jelentős leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Медијана",
+                  "text": "Mediana egy jelentős késő antik régészeti lelőhely, amely Nagy Konstantin egykori rezidenciája volt.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нишка тврђава",
+                  "text": "O cetate otomană bine conservată, situată în centrul orașului Niš.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "Палата са октогоном",
+                  "text": "Un sit arheologic important ce cuprinde vestigiile unui palat roman târziu.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Хамам у нишкој тврђави",
+                  "text": "Un hamam istoric din interiorul cetății Niš, datând din perioada otomană.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Народни музеј",
+                  "text": "Această sală arheologică din Mediana prezintă descoperiri semnificative din epoca romană.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Медијана",
+                  "text": "Mediana este un important sit arheologic din antichitatea târzie și fosta reședință a lui Constantin cel Mare.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niš Fortress",
+                  "text": "A well-preserved Ottoman fortress located in the center of Niš.",
+                  "category": "castle",
+                  "coords": [
+                        21.895447,
+                        43.325772
+                  ]
+            },
+            {
+                  "name": "The Octagon Palace",
+                  "text": "An important archaeological site featuring the remains of a late Roman palace.",
+                  "category": "historical",
+                  "coords": [
+                        21.892931,
+                        43.328275
+                  ]
+            },
+            {
+                  "name": "Turkish bath",
+                  "text": "A historical hammam within the Niš Fortress, dating back to the Ottoman period.",
+                  "category": "historical",
+                  "coords": [
+                        21.895043,
+                        43.323494
+                  ]
+            },
+            {
+                  "name": "Archaeological Hall",
+                  "text": "This archaeological hall in Mediana displays significant finds from the Roman imperial period.",
+                  "category": "museum",
+                  "coords": [
+                        21.893301,
+                        43.318336
+                  ]
+            },
+            {
+                  "name": "Mediana",
+                  "text": "Mediana is a major Late Antique archaeological site and the former residence of Constantine the Great.",
+                  "category": "historical",
+                  "coords": [
+                        21.948682,
+                        43.309932
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "RS",
     name: { de: "Mediana", hu: "Mediana", ro: "Mediana", en: "Mediana" },
@@ -48,7 +237,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-mediana-history-v2.webp",
   },
   {
-    id: "serbia-bac-fortress-history-v2",
+    id: "serbia-bac-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бачка тврђава",
+                  "text": "Eine bedeutende mittelalterliche Festungsanlage in der serbischen Vojvodina.",
+                  "category": "castle",
+                  "coords": [
+                        19.221606,
+                        45.393074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bácsi vár",
+                  "text": "Jelentős középkori erődítmény a szerbiai Vajdaságban.",
+                  "category": "castle",
+                  "coords": [
+                        19.221606,
+                        45.393074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бачка тврђава",
+                  "text": "O importantă fortăreață medievală situată în Voivodina, Serbia.",
+                  "category": "castle",
+                  "coords": [
+                        19.221606,
+                        45.393074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bač Fortress",
+                  "text": "A significant medieval fortress located in the Vojvodina province of Serbia.",
+                  "category": "castle",
+                  "coords": [
+                        19.221606,
+                        45.393074
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RS",
     name: { de: "Festung Bač", hu: "Bácsi vár", ro: "Cetatea Bač", en: "Bač Fortress" },
@@ -93,7 +327,304 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-bac-fortress-history-v2.webp",
   },
   {
-    id: "serbia-kosancic-venac-history-v2",
+    id: "serbia-kosancic-venac-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein geheimnisvoller historischer Brunnen in der Belgrader Festung, der trotz seines Namens wahrscheinlich aus dem 18. Jahrhundert stammt.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ausgrabungsstätte mit den Überresten der mittelalterlichen Residenz des serbischen Herrschers Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Museum dokumentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Dieses Museum in Belgrad zeigt die Entwicklung des Schienenverkehrs und historische Lokomotiven in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Das Museum ist dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić in seiner ehemaligen Belgrader Wohnung gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ein Museum, das dem berühmten serbischen Maler Paja Jovanović gewidmet ist und eine Auswahl seiner bedeutenden Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Dieses Privatmuseum in Belgrad präsentiert eine bedeutende Sammlung moderner und zeitgenössischer serbischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Das Museum beleuchtet die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Rejtélyes történelmi kút a belgrádi erődben, amely neve ellenére valószínűleg a 18. századból származik.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Régészeti lelőhely Stefan Lazarević szerb uralkodó középkori rezidenciájának maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "A múzeum Szerbia gazdag történelmét dokumentálja az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ez a belgrádi múzeum a vasúti közlekedés fejlődését és a szerbiai történelmi mozdonyokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "A múzeum az irodalmi Nobel-díjas Ivo Andrić életének és munkásságának állít emléket egykori belgrádi lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "A híres szerb festő, Paja Jovanović munkásságának szentelt múzeum, amely jelentős alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ez a belgrádi magánmúzeum a modern és kortárs szerb művészet jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A múzeum a szerbiai posta-, távíró- és telefonhálózat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică misterioasă în cetatea Belgradului, care, în ciuda numelui, datează probabil din secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Sit arheologic cu rămășițele reședinței medievale a domnitorului sârb Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul documentează istoria bogată a Serbiei, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Acest muzeu din Belgrad prezintă evoluția transportului feroviar și locomotive istorice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeul este dedicat vieții și operei laureatului Premiului Nobel pentru literatură, Ivo Andrić, în fostul său apartament din Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Un muzeu dedicat celebrului pictor sârb Paja Jovanović, expunând o selecție a operelor sale importante.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Acest muzeu privat din Belgrad prezintă o colecție importantă de artă sârbă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Muzeul prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A mysterious historical well in the Belgrade Fortress which, despite its name, likely dates to the 18th century.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological site featuring the remains of the medieval residence of the Serbian ruler Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "The museum documents the rich history of Serbia from antiquity to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "This museum in Belgrade showcases the development of rail transport and historic locomotives in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "The museum is dedicated to the life and work of Nobel Prize-winning author Ivo Andrić in his former Belgrade apartment.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "A museum dedicated to the famous Serbian painter Paja Jovanović, showcasing a selection of his significant works.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "This private museum in Belgrade presents a significant collection of modern and contemporary Serbian art.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "The museum highlights the history of postal, telegraph, and telephone services in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Kosančićev venac", hu: "Kosančićev venac", ro: "Kosančićev venac", en: "Kosančićev venac" },
@@ -183,7 +714,160 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-stari-ras-history-v2.webp",
   },
   {
-    id: "serbia-pet-crkava-history-v2",
+    id: "serbia-pet-crkava-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "Serbisch-orthodoxes Kloster aus dem 12. Jahrhundert bei Novi Pazar.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Ein Aussichtspunkt, an dem der Zugang durch einen Zaun begrenzt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Aussichtspunkt an einem zugewachsenen und schwer passierbaren Pfad.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Eine der ältesten Kirchen Serbiens, deren Ursprünge bis ins 9. Jahrhundert zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "12. századi szerb ortodox kolostor Novi Pazar közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Kilátópont, ahol a hozzáférést kerítés korlátozza.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Kilátópont egy benőtt, nehezen járható ösvény mentén.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Szerbia egyik legrégebbi temploma, amely a 9. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XII-lea, lângă Novi Pazar.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Un punct de belvedere unde accesul este restricționat de un gard.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Punct de belvedere situat pe o potecă năpădită de vegetație și dificilă.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Una dintre cele mai vechi biserici din Serbia, datând din secolul al IX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Tracts of Saint George",
+                  "text": "A 12th-century Serbian Orthodox monastery near Novi Pazar.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "A viewpoint where access is restricted by a fence.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "A viewpoint located along an overgrown, difficult trail.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Church of Saint Apostles Peter and Paul",
+                  "text": "One of the oldest churches in Serbia, dating back to the 9th century.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Petrova crkva", hu: "Péter-templom", ro: "Biserica Sfântului Petru", en: "Church of Saints Peter and Paul" },
@@ -228,7 +912,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-pet-crkava-history-v2.webp",
   },
   {
-    id: "serbia-maglic-fortress-history-v2",
+    id: "serbia-maglic-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Маглич",
+                  "text": "Eine gut erhaltene mittelalterliche Festung aus dem 13. Jahrhundert auf einem Hügel in Serbien.",
+                  "category": "castle",
+                  "coords": [
+                        20.552355,
+                        43.613764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Маглич",
+                  "text": "Jó állapotban fennmaradt 13. századi középkori erőd egy dombtetőn Szerbiában.",
+                  "category": "castle",
+                  "coords": [
+                        20.552355,
+                        43.613764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Маглич",
+                  "text": "O fortăreață medievală bine conservată din secolul al XIII-lea, situată pe un deal din Serbia.",
+                  "category": "castle",
+                  "coords": [
+                        20.552355,
+                        43.613764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maglič",
+                  "text": "A well-preserved 13th-century medieval fortress situated on a hilltop in Serbia.",
+                  "category": "castle",
+                  "coords": [
+                        20.552355,
+                        43.613764
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RS",
     name: { de: "Festung Maglič", hu: "Maglič vára", ro: "Cetatea Maglič", en: "Maglič Fortress" },
@@ -273,7 +1002,304 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-maglic-fortress-history-v2.webp",
   },
   {
-    id: "serbia-kula-nebojsa-history-v2",
+    id: "serbia-kula-nebojsa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Ein historischer Brunnen in der Belgrader Festung, der trotz seines Namens aus dem 18. Jahrhundert stammt.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Archäologische Überreste der mittelalterlichen Residenz des serbischen Despoten Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Nationalmuseum in Belgrad, das die reiche Geschichte des serbischen Staates dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Ein Museum in Belgrad, das die Geschichte des Schienenverkehrs in Serbien präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ein Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Dieses Museum am Nebojša-Turm ist dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein Kunstmuseum am Nebojša-Turm, das eine bedeutende Sammlung moderner und zeitgenössischer Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Dieses Museum am Nebojša-Turm dokumentiert die Geschichte des Post-, Telegrafen- und Telefonwesens in Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Történelmi kút a belgrádi várban, amely neve ellenére a 18. századból származik.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević szerb despota középkori rezidenciájának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Belgrádi nemzeti múzeum, amely a szerb állam gazdag történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Belgrádi múzeum, amely a szerbiai vasúti közlekedés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma az egykori belgrádi lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ez a Nebojša-toronynál található múzeum a híres szerb festő, Paja Jovanović életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Művészeti múzeum a Nebojša-toronynál, amely modern és kortárs művek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ez a Nebojša-toronynál található múzeum a belgrádi posta, távíró és telefon történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "O fântână istorică din cetatea Belgradului, care, în ciuda numelui, datează din secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Vestigii arheologice ale reședinței medievale a despotului sârb Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul național din Belgrad care documentează istoria bogată a statului sârb.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Un muzeu din Belgrad care prezintă istoria transportului feroviar în Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Un muzeu memorial dedicat laureatului Nobel Ivo Andrić, situat în fostul său apartament din Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Acest muzeu de la Turnul Nebojșa este dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă de la Turnul Nebojșa, care expune o colecție importantă de opere moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Acest muzeu de la Turnul Nebojșa documentează istoria poștei, telegrafiei și telefoniei din Belgrad.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "A historic well in the Belgrade Fortress which, despite its name, dates back to the 18th century.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological remains of the medieval residence of the Serbian Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "The national museum in Belgrade documenting the rich history of the Serbian state.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A museum in Belgrade presenting the history of rail transport in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "A memorial museum dedicated to Nobel laureate Ivo Andrić, located in his former Belgrade apartment.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "Located at the Nebojša Tower, this museum is dedicated to the life and works of the famous Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "An art museum at the Nebojša Tower showcasing a significant collection of modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "Located at the Nebojša Tower, this museum documents the history of postal, telegraph, and telephone services in Belgrade.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "RS",
     name: { de: "Nebojša-Turm", hu: "Nebojša-torony", ro: "Turnul Nebojša", en: "Nebojša Tower" },
@@ -408,7 +1434,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-pavlica-history-v2.webp",
   },
   {
-    id: "serbia-priboj-banja-history-v2",
+    id: "serbia-priboj-banja-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бања",
+                  "text": "Eine archäologische Stätte in der Nähe des Klosters Banja mit Überresten historischer Bauwerke.",
+                  "category": "historical",
+                  "coords": [
+                        19.560016,
+                        43.548269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бања",
+                  "text": "Régészeti lelőhely a Banja-kolostor közelében, ahol történelmi építmények maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        19.560016,
+                        43.548269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бања",
+                  "text": "Un sit arheologic lângă Mănăstirea Banja, cuprinzând vestigii ale unor structuri istorice.",
+                  "category": "historical",
+                  "coords": [
+                        19.560016,
+                        43.548269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banja",
+                  "text": "An archaeological site near the Banja Monastery featuring remains of historic structures.",
+                  "category": "historical",
+                  "coords": [
+                        19.560016,
+                        43.548269
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Banja", hu: "Banja kolostor", ro: "Mănăstirea Banja", en: "Banja Monastery" },
@@ -498,7 +1569,124 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-staro-selo-history-v2.webp",
   },
   {
-    id: "serbia-hopovo-history-v2",
+    id: "serbia-hopovo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Ein beliebter Aussichtspunkt im Nationalpark Fruška Gora in Serbien.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Ein Denkmal in der Nähe des Iriški Venac, das dem Kampf für die Freiheit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Ein markanter Fernsehturm auf dem Iriški Venac im Gebirge Fruška Gora.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Népszerű kilátópont a szerbiai Fruška Gora Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Szabadság-emlékmű",
+                  "text": "A szabadságért vívott harcnak szentelt emlékmű az Iriški Venac közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Jellegzetes tévétorony az Iriški Venac-csúcson, a Fruška Gora-hegységben.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Un punct de belvedere popular în Parcul Național Fruška Gora din Serbia.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Un monument situat lângă Iriški Venac, dedicat luptei pentru libertate.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Un turn de televiziune proeminent pe Iriški Venac, în munții Fruška Gora.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orlovo bojiste",
+                  "text": "A popular viewpoint in the Fruška Gora National Park in Serbia.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Freedom",
+                  "text": "A monument located near Iriški Venac, dedicated to the struggle for freedom.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Iriški Venac Tower",
+                  "text": "A prominent television tower on Iriški Venac in the Fruška Gora mountains.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Staro Hopovo", hu: "Staro Hopovo kolostor", ro: "Mănăstirea Staro Hopovo", en: "Staro Hopovo Monastery" },
@@ -543,7 +1731,160 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-hopovo-history-v2.webp",
   },
   {
-    id: "serbia-djurdjevi-stupovi-history-v2",
+    id: "serbia-djurdjevi-stupovi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "Ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert, das zum UNESCO-Welterbe gehört.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Ein Punkt beim Kloster, an dem ein Zaun den Zugang zu bestimmten Bereichen beschränkt.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Ein Standort am Kloster mit einem überwachsenen Pfad, der nicht begangen werden sollte.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Diese Kirche aus dem 9. Jahrhundert ist eines der ältesten erhaltenen Gotteshäuser in Serbien.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "12. századi szerb ortodox kolostor, amely az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Egy pont a kolostornál, ahol kerítés korlátozza a bejutást bizonyos területekre.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Helyszín a kolostornál elvadult ösvénnyel, amelyen nem javasolt az áthaladás.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Ez a 9. századi templom Szerbia egyik legrégebbi épségben maradt keresztény építménye.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Un punct lângă mănăstire unde un gard restricționează accesul în anumite zone.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "O locație la mănăstire cu o potecă năpădită de vegetație care nu trebuie traversată.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Această biserică din secolul al IX-lea este una dintre cele mai vechi lăcașuri de cult conservate din Serbia.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Tracts of Saint George",
+                  "text": "A 12th-century Serbian Orthodox monastery that is part of a UNESCO World Heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "A point near the monastery where a fence restricts access to certain areas.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "A location at the monastery with an overgrown path that should not be crossed.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Church of Saint Apostles Peter and Paul",
+                  "text": "This 9th-century church is one of the oldest surviving Christian places of worship in Serbia.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Đurđevi Stupovi", hu: "Đurđevi Stupovi kolostor", ro: "Mănăstirea Đurđevi Stupovi", en: "Đurđevi Stupovi Monastery" },
@@ -588,7 +1929,304 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-djurdjevi-stupovi-history-v2.webp",
   },
   {
-    id: "serbia-pec-patriarchate-history-v2",
+    id: "serbia-pec-patriarchate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hamami i Haxhi Beut",
+                  "text": "Eine historische osmanische Badeanlage in der Stadt Peja.",
+                  "category": "historical",
+                  "coords": [
+                        20.296782,
+                        42.658557
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pejës",
+                  "text": "Das ethnographische Museum von Peja, untergebracht in einem traditionellen osmanischen Haus.",
+                  "category": "museum",
+                  "coords": [
+                        20.292203,
+                        42.658704
+                  ]
+            },
+            {
+                  "name": "Mulliri i Haxhi Zekës",
+                  "text": "Eine historische Mühle in Peja, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        20.299485,
+                        42.662971
+                  ]
+            },
+            {
+                  "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
+                  "text": "Ein strenges Naturschutzgebiet in der Nähe von Peja.",
+                  "category": "natural",
+                  "coords": [
+                        20.263114,
+                        42.650154
+                  ]
+            },
+            {
+                  "name": "Istref Begolli",
+                  "text": "Das Stadttheater von Peja, benannt nach dem bekannten albanischen Schauspieler Istref Begolli.",
+                  "category": "cultural",
+                  "coords": [
+                        20.287238,
+                        42.65825
+                  ]
+            },
+            {
+                  "name": "Koproniku",
+                  "text": "Ein markanter Berggipfel im Prokletije-Gebirge bei Peja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233123,
+                        42.652708
+                  ]
+            },
+            {
+                  "name": "Kulla e Zenel Beut",
+                  "text": "Ein historisches Turmhaus (Kulla) in Peja, ein Beispiel für traditionelle Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        20.28546,
+                        42.660925
+                  ]
+            },
+            {
+                  "name": "Zip Line Marimangat",
+                  "text": "Eine Seilrutsche in der Rugova-Schlucht, die ein spektakuläres Erlebnis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235319,
+                        42.662278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hamami i Haxhi Beut",
+                  "text": "Történelmi oszmán fürdő Peja városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.296782,
+                        42.658557
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pejës",
+                  "text": "Peja néprajzi múzeuma, amely egy hagyományos oszmán házban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        20.292203,
+                        42.658704
+                  ]
+            },
+            {
+                  "name": "Mulliri i Haxhi Zekës",
+                  "text": "Történelmi malom Pejában, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        20.299485,
+                        42.662971
+                  ]
+            },
+            {
+                  "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
+                  "text": "Szigorúan védett természetvédelmi terület Peja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.263114,
+                        42.650154
+                  ]
+            },
+            {
+                  "name": "Istref Begolli",
+                  "text": "Peja városi színháza, amely a híres albán színészről, Istref Begolliról kapta nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        20.287238,
+                        42.65825
+                  ]
+            },
+            {
+                  "name": "Koproniku",
+                  "text": "A Prokletije-hegység egyik jellegzetes csúcsa Peja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233123,
+                        42.652708
+                  ]
+            },
+            {
+                  "name": "Kulla e Zenel Beut",
+                  "text": "Történelmi toronyház (kulla) Pejában, a hagyományos építészet példája.",
+                  "category": "historical",
+                  "coords": [
+                        20.28546,
+                        42.660925
+                  ]
+            },
+            {
+                  "name": "Zip Line Marimangat",
+                  "text": "Zipline pálya a Rugova-szurdokban, amely látványos élményt nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235319,
+                        42.662278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hamami i Haxhi Beut",
+                  "text": "O baie otomană istorică situată în orașul Peja.",
+                  "category": "historical",
+                  "coords": [
+                        20.296782,
+                        42.658557
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pejës",
+                  "text": "Muzeul etnografic din Peja, găzduit într-o casă tradițională otomană.",
+                  "category": "museum",
+                  "coords": [
+                        20.292203,
+                        42.658704
+                  ]
+            },
+            {
+                  "name": "Mulliri i Haxhi Zekës",
+                  "text": "O moară istorică în Peja, care astăzi funcționează ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        20.299485,
+                        42.662971
+                  ]
+            },
+            {
+                  "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
+                  "text": "O rezervație naturală strictă situată în apropiere de Peja.",
+                  "category": "natural",
+                  "coords": [
+                        20.263114,
+                        42.650154
+                  ]
+            },
+            {
+                  "name": "Istref Begolli",
+                  "text": "Teatrul orășenesc din Peja, numit după cunoscutul actor albanez Istref Begolli.",
+                  "category": "cultural",
+                  "coords": [
+                        20.287238,
+                        42.65825
+                  ]
+            },
+            {
+                  "name": "Koproniku",
+                  "text": "Un vârf montan proeminent în Munții Prokletije, lângă Peja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233123,
+                        42.652708
+                  ]
+            },
+            {
+                  "name": "Kulla e Zenel Beut",
+                  "text": "O casă turn istorică (kulla) în Peja, un exemplu de arhitectură tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        20.28546,
+                        42.660925
+                  ]
+            },
+            {
+                  "name": "Zip Line Marimangat",
+                  "text": "O tiroliană în defileul Rugova, oferind o experiență spectaculoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235319,
+                        42.662278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hamami i Haxhi Beut",
+                  "text": "A historical Ottoman bathhouse located in the city of Peja.",
+                  "category": "historical",
+                  "coords": [
+                        20.296782,
+                        42.658557
+                  ]
+            },
+            {
+                  "name": "Peja Museum",
+                  "text": "The ethnographic museum of Peja, housed in a traditional Ottoman house.",
+                  "category": "museum",
+                  "coords": [
+                        20.292203,
+                        42.658704
+                  ]
+            },
+            {
+                  "name": "Mulliri i Haxhi Zekës",
+                  "text": "A historic mill in Peja that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        20.299485,
+                        42.662971
+                  ]
+            },
+            {
+                  "name": "Rezervat Strikt i Natyrës \"Gubavc\"",
+                  "text": "A strict nature reserve located near Peja.",
+                  "category": "natural",
+                  "coords": [
+                        20.263114,
+                        42.650154
+                  ]
+            },
+            {
+                  "name": "Istref Begolli",
+                  "text": "The city theatre of Peja, named after the prominent Albanian actor Istref Begolli.",
+                  "category": "cultural",
+                  "coords": [
+                        20.287238,
+                        42.65825
+                  ]
+            },
+            {
+                  "name": "Kopranik",
+                  "text": "A prominent mountain peak in the Prokletije range near Peja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.233123,
+                        42.652708
+                  ]
+            },
+            {
+                  "name": "Kulla e Zenel Beut",
+                  "text": "A historical tower house (kulla) in Peja, an example of traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        20.28546,
+                        42.660925
+                  ]
+            },
+            {
+                  "name": "Zip Line Marimangat",
+                  "text": "A zip line in the Rugova Canyon, offering a spectacular adventure experience.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235319,
+                        42.662278
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Patriarchat von Peć", hu: "Peći patriarchátus", ro: "Patriarhatul din Peć", en: "Patriarchate of Peć" },
@@ -633,7 +2271,196 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-pec-patriarchate-history-v2.webp",
   },
   {
-    id: "serbia-gracanica-history-v2",
+    id: "serbia-gracanica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parku Arkeologjik Ulpiana",
+                  "text": "Archäologische Ausgrabungsstätte einer antiken römischen Stadt bei Gračanica.",
+                  "category": "historical",
+                  "coords": [
+                        21.174387,
+                        42.596892
+                  ]
+            },
+            {
+                  "name": "Bazilika Peshkopale me Pagëzimore",
+                  "text": "Ruinen einer frühchristlichen Basilika im Archäologischen Park von Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174465,
+                        42.594873
+                  ]
+            },
+            {
+                  "name": "Zona e Mbrojtur e Kishnicës",
+                  "text": "Geschütztes Naturgebiet in der Nähe des Klosters Gračanica.",
+                  "category": "natural",
+                  "coords": [
+                        21.209014,
+                        42.617564
+                  ]
+            },
+            {
+                  "name": "Nekropoli Verior",
+                  "text": "Antike Begräbnisstätte der römischen Stadt Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174045,
+                        42.598702
+                  ]
+            },
+            {
+                  "name": "Miloš Obilić",
+                  "text": "Denkmal für den legendären serbischen Ritter Miloš Obilić.",
+                  "category": "historical",
+                  "coords": [
+                        21.19341,
+                        42.596946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parku Arkeologjik Ulpiana",
+                  "text": "Egy ókori római város régészeti lelőhelye Gračanica közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.174387,
+                        42.596892
+                  ]
+            },
+            {
+                  "name": "Bazilika Peshkopale me Pagëzimore",
+                  "text": "Korai keresztény bazilika romjai Ulpiana régészeti parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        21.174465,
+                        42.594873
+                  ]
+            },
+            {
+                  "name": "Zona e Mbrojtur e Kishnicës",
+                  "text": "Védett természeti terület a Gračanica-kolostor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.209014,
+                        42.617564
+                  ]
+            },
+            {
+                  "name": "Nekropoli Verior",
+                  "text": "Ulpiana római városának ókori temetkezési helye.",
+                  "category": "historical",
+                  "coords": [
+                        21.174045,
+                        42.598702
+                  ]
+            },
+            {
+                  "name": "Miloš Obilić",
+                  "text": "A legendás szerb lovag, Miloš Obilić emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        21.19341,
+                        42.596946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parku Arkeologjik Ulpiana",
+                  "text": "Sit arheologic al unui oraș roman antic lângă Gračanica.",
+                  "category": "historical",
+                  "coords": [
+                        21.174387,
+                        42.596892
+                  ]
+            },
+            {
+                  "name": "Bazilika Peshkopale me Pagëzimore",
+                  "text": "Ruinele unei basilici creștine timpurii în parcul arheologic Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174465,
+                        42.594873
+                  ]
+            },
+            {
+                  "name": "Zona e Mbrojtur e Kishnicës",
+                  "text": "Zonă naturală protejată lângă mănăstirea Gračanica.",
+                  "category": "natural",
+                  "coords": [
+                        21.209014,
+                        42.617564
+                  ]
+            },
+            {
+                  "name": "Nekropoli Verior",
+                  "text": "Necropolă antică a orașului roman Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174045,
+                        42.598702
+                  ]
+            },
+            {
+                  "name": "Miloš Obilić",
+                  "text": "Monument dedicat legendarului cavaler sârb Miloš Obilić.",
+                  "category": "historical",
+                  "coords": [
+                        21.19341,
+                        42.596946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeoligocal Park Ulpiana",
+                  "text": "Archaeological site of an ancient Roman city near Gračanica.",
+                  "category": "historical",
+                  "coords": [
+                        21.174387,
+                        42.596892
+                  ]
+            },
+            {
+                  "name": "Episcopal Basilica with Baptistry",
+                  "text": "Ruins of an early Christian basilica in the archaeological park of Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174465,
+                        42.594873
+                  ]
+            },
+            {
+                  "name": "Zona e Mbrojtur e Kishnicës",
+                  "text": "Protected natural area near Gračanica Monastery.",
+                  "category": "natural",
+                  "coords": [
+                        21.209014,
+                        42.617564
+                  ]
+            },
+            {
+                  "name": "Northern Necropolis",
+                  "text": "Ancient burial site of the Roman city of Ulpiana.",
+                  "category": "historical",
+                  "coords": [
+                        21.174045,
+                        42.598702
+                  ]
+            },
+            {
+                  "name": "Milos Obilic",
+                  "text": "Monument dedicated to the legendary Serbian knight Miloš Obilić.",
+                  "category": "historical",
+                  "coords": [
+                        21.19341,
+                        42.596946
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Gračanica", hu: "Gračanica kolostor", ro: "Mănăstirea Gračanica", en: "Gračanica Monastery" },
@@ -768,7 +2595,88 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-radoštica-history-v2.webp",
   },
   {
-    id: "serbia-studenica-history-v2",
+    id: "serbia-studenica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Studenica",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster aus dem 12. Jahrhundert, das zum UNESCO-Welterbe gehört.",
+                  "category": "religious",
+                  "coords": [
+                        20.531662,
+                        43.486538
+                  ]
+            },
+            {
+                  "name": "Голо брдо",
+                  "text": "Ein Berggipfel in der Nähe des Studenica-Klosters, der weite Ausblicke über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.569867,
+                        43.490381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Студеница",
+                  "text": "Fontos 12. századi szerb ortodox kolostor, amely az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "coords": [
+                        20.531662,
+                        43.486538
+                  ]
+            },
+            {
+                  "name": "Голо брдо",
+                  "text": "Hegyi csúcs a Studenica-kolostor közelében, ahonnan kilátás nyílik a környező vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.569867,
+                        43.490381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Студеница",
+                  "text": "O importantă mănăstire ortodoxă sârbă din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        20.531662,
+                        43.486538
+                  ]
+            },
+            {
+                  "name": "Голо брдо",
+                  "text": "Un vârf montan în apropierea mănăstirii Studenica, oferind vederi panoramice asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        20.569867,
+                        43.490381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Studenica Monastery",
+                  "text": "A significant 12th-century Serbian Orthodox monastery and a UNESCO World Heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        20.531662,
+                        43.486538
+                  ]
+            },
+            {
+                  "name": "Golo Brdo",
+                  "text": "A mountain peak near the Studenica Monastery, offering views over the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.569867,
+                        43.490381
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Studenica", hu: "Studenica kolostor", ro: "Mănăstirea Studenica", en: "Studenica Monastery" },
@@ -858,7 +2766,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-gradac-history-v2.webp",
   },
   {
-    id: "serbia-kalenic-history-v2",
+    id: "serbia-kalenic-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Географски центар централне Србије",
+                  "text": "Ein markierter Punkt bei Kalenić Monastery, der den geografischen Mittelpunkt von Zentralserbien kennzeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.088347,
+                        43.766375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Географски центар централне Србије",
+                  "text": "Kalenić-kolostor közelében lévő jelölt pont, amely Szerbia központi részének földrajzi középpontját jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.088347,
+                        43.766375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Географски центар централне Србије",
+                  "text": "Un punct marcat lângă mănăstirea Kalenić care indică centrul geografic al Serbiei centrale.",
+                  "category": "landmark",
+                  "coords": [
+                        21.088347,
+                        43.766375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geographical centre of central Serbia",
+                  "text": "A marked point near Kalenić Monastery indicating the geographical centre of central Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.088347,
+                        43.766375
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kalenić", hu: "Kalenić kolostor", ro: "Mănăstirea Kalenić", en: "Kalenić Monastery" },
@@ -993,7 +2946,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-pustinja-history-v2.webp",
   },
   {
-    id: "serbia-kopo-history-v2",
+    id: "serbia-kopo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gardinovci Sign",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe des Klosters Kovilj, die als markanter Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.133735,
+                        45.19987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gardinovci Sign",
+                  "text": "Helyi látnivaló a Kovilj-kolostor közelében, amely jellegzetes tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        20.133735,
+                        45.19987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gardinovci Sign",
+                  "text": "Un punct de interes local situat lângă mănăstirea Kovilj, care servește ca reper distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        20.133735,
+                        45.19987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gardinovci Sign",
+                  "text": "A local point of interest near the Kovilj Monastery that serves as a distinctive landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        20.133735,
+                        45.19987
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kovilj", hu: "Kovilj kolostor", ro: "Mănăstirea Kovilj", en: "Kovilj Monastery" },
@@ -1083,7 +3081,232 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-fenek-history-v2.webp",
   },
   {
-    id: "serbia-hopovo-novo-history-v2",
+    id: "serbia-hopovo-novo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Aussichtspunkt in der Nähe des Klosters Novo Hopovo mit weitem Blick.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "Eine historische Einsiedelei in der Region des Klosters Novo Hopovo.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Манастир Савинац",
+                  "text": "Überreste einer mittelalterlichen Kirche in der Nähe von Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.805823,
+                        45.184192
+                  ]
+            },
+            {
+                  "name": "Rudarska kruna",
+                  "text": "Ein Denkmal in der Umgebung des Klosters Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Ein Denkmal namens Freiheit bei Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Historischer Turm und Ruine einer mittelalterlichen Festung bei Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Kilátóhely a Novo Hopovo-kolostor közelében, szép panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "Történelmi remetelak a Novo Hopovo-kolostor régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Манастир Савинац",
+                  "text": "Egy középkori templom maradványai Novo Hopovo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.805823,
+                        45.184192
+                  ]
+            },
+            {
+                  "name": "Rudarska kruna",
+                  "text": "Emlékmű a Novo Hopovo-kolostor környékén.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Szabadság-emlékmű",
+                  "text": "Szabadság nevű emlékmű Novo Hopovo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Történelmi torony és egy középkori erőd romjai Vrdnik közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Un punct de observație situat lângă mănăstirea Novo Hopovo, oferind o panoramă vastă.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Испосница Исаије Париводског",
+                  "text": "O sihăstrie istorică situată în regiunea mănăstirii Novo Hopovo.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Манастир Савинац",
+                  "text": "Rămășițele unei biserici medievale situate în apropiere de Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.805823,
+                        45.184192
+                  ]
+            },
+            {
+                  "name": "Rudarska kruna",
+                  "text": "Un monument situat în vecinătatea mănăstirii Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Un monument numit Libertate situat lângă Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Un turn istoric și ruinele unei fortărețe medievale situat lângă Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orlovo bojiste",
+                  "text": "A viewpoint near the Novo Hopovo Monastery offering expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Hermitage of Isaija Parivodski",
+                  "text": "A historical hermitage located in the region of the Novo Hopovo Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        19.790625,
+                        45.18104
+                  ]
+            },
+            {
+                  "name": "Savinac Monastery",
+                  "text": "The remains of a medieval church located near Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.805823,
+                        45.184192
+                  ]
+            },
+            {
+                  "name": "Rudarska kruna",
+                  "text": "A monument located in the vicinity of the Novo Hopovo Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Freedom",
+                  "text": "A monument named Freedom located near Novo Hopovo.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Tower of Vrdnik",
+                  "text": "A historical tower and the ruins of a medieval fortress near Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Novo Hopovo", hu: "Novo Hopovo kolostor", ro: "Mănăstirea Novo Hopovo", en: "Novo Hopovo Monastery" },
@@ -1128,7 +3351,124 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-hopovo-novo-history-v2.webp",
   },
   {
-    id: "serbia-jazak-history-v2",
+    id: "serbia-jazak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rudarska kruna",
+                  "text": "Ein Denkmal für das Bergbauerbe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Überreste einer mittelalterlichen Festung und eines Turms über Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            },
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "Eine historische serbisch-orthodoxe Kirche im Dorf Jazak.",
+                  "category": "religious",
+                  "coords": [
+                        19.765413,
+                        45.10458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rudarska kruna",
+                  "text": "A régió bányászati örökségének szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Egy középkori erőd és torony maradványai Vrdnik felett.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            },
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "Történelmi szerb ortodox templom Jazak faluban.",
+                  "category": "religious",
+                  "coords": [
+                        19.765413,
+                        45.10458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rudarska kruna",
+                  "text": "Un monument dedicat moștenirii miniere a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Врдничка кула",
+                  "text": "Rămășițele unei cetăți și ale unui turn medieval deasupra localității Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            },
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "O biserică ortodoxă sârbă istorică situată în satul Jazak.",
+                  "category": "religious",
+                  "coords": [
+                        19.765413,
+                        45.10458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rudarska kruna",
+                  "text": "A monument dedicated to the mining heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        19.787046,
+                        45.124351
+                  ]
+            },
+            {
+                  "name": "Tower of Vrdnik",
+                  "text": "Remains of a medieval fortress and tower overlooking Vrdnik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.775246,
+                        45.143991
+                  ]
+            },
+            {
+                  "name": "St. Nicholas church",
+                  "text": "A historic Serbian Orthodox church located in the village of Jazak.",
+                  "category": "religious",
+                  "coords": [
+                        19.765413,
+                        45.10458
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Jazak", hu: "Jazak kolostor", ro: "Mănăstirea Jazak", en: "Jazak Monastery" },
@@ -1173,7 +3513,124 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-jazak-history-v2.webp",
   },
   {
-    id: "serbia-beocin-history-v2",
+    id: "serbia-beocin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Ein historisches Herrenhaus in Beočin, bekannt für seine eklektische Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Region Beočin.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Црква Преображења Господњег",
+                  "text": "Eine serbisch-orthodoxe Kirche in der Stadt Beočin.",
+                  "category": "religious",
+                  "coords": [
+                        19.725101,
+                        45.193606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Történelmi udvarház Belcsényben (Beočin), amely eklektikus építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Kilátópont, ahonnan kilátás nyílik Belcsény (Beočin) környékére.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Црква Преображења Господњег",
+                  "text": "Szerb ortodox templom Belcsény (Beočin) városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.725101,
+                        45.193606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шпицеров дворац",
+                  "text": "Un conac istoric din Beočin, cunoscut pentru arhitectura sa eclectică.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Видиковац Кобилица",
+                  "text": "Un punct de observație panoramic ce oferă vederi asupra zonei înconjurătoare a Beočinului.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Црква Преображења Господњег",
+                  "text": "O biserică ortodoxă sârbă situată în orașul Beočin.",
+                  "category": "religious",
+                  "coords": [
+                        19.725101,
+                        45.193606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Špicer castle",
+                  "text": "A historic manor house in Beočin known for its eclectic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        19.719942,
+                        45.203623
+                  ]
+            },
+            {
+                  "name": "Kobilica viewpoint",
+                  "text": "A scenic viewpoint offering views of the surrounding Beočin area.",
+                  "category": "natural",
+                  "coords": [
+                        19.747183,
+                        45.16406
+                  ]
+            },
+            {
+                  "name": "Transfiguration Church",
+                  "text": "A Serbian Orthodox church located in the town of Beočin.",
+                  "category": "religious",
+                  "coords": [
+                        19.725101,
+                        45.193606
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Beočin", hu: "Beočin kolostor", ro: "Mănăstirea Beočin", en: "Beočin Monastery" },
@@ -1218,7 +3675,124 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-beocin-history-v2.webp",
   },
   {
-    id: "serbia-sisatovac-history-v2",
+    id: "serbia-sisatovac-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Остаци манастира Светог Гргура",
+                  "text": "Die archäologischen Überreste eines alten Klosters in der Nähe von Šišatovac.",
+                  "category": "historical",
+                  "coords": [
+                        19.64557,
+                        45.101699
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Ein historisches Herrenhaus auf der Fruška Gora, das als Regierungsresidenz dient.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела Гаврила",
+                  "text": "Eine serbisch-orthodoxe Kirche in Grgurevci, die dem Erzengel Gabriel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.644263,
+                        45.105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Остаци манастира Светог Гргура",
+                  "text": "Egy régi kolostor régészeti maradványai Šišatovac közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.64557,
+                        45.101699
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Történelmi udvarház a Fruška Gorán, amely kormányzati rezidenciaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела Гаврила",
+                  "text": "Gábriel arkangyalnak szentelt szerb ortodox templom Grgurevciben.",
+                  "category": "religious",
+                  "coords": [
+                        19.644263,
+                        45.105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Остаци манастира Светог Гргура",
+                  "text": "Vestigiile arheologice ale unei vechi mănăstiri în apropiere de Šišatovac.",
+                  "category": "historical",
+                  "coords": [
+                        19.64557,
+                        45.101699
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Un conac istoric pe Fruška Gora, care servește drept reședință guvernamentală.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела Гаврила",
+                  "text": "O biserică ortodoxă sârbă din Grgurevci, închinată Sfântului Arhanghel Gavriil.",
+                  "category": "religious",
+                  "coords": [
+                        19.644263,
+                        45.105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Remains of St. Gregorius Monastery",
+                  "text": "The archaeological remains of an ancient monastery located near Šišatovac.",
+                  "category": "historical",
+                  "coords": [
+                        19.64557,
+                        45.101699
+                  ]
+            },
+            {
+                  "name": "Vila Ravne",
+                  "text": "A historic manor house on Fruška Gora that serves as a government residence.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Church of St. Archangel Gabriel",
+                  "text": "A Serbian Orthodox church in Grgurevci dedicated to Saint Archangel Gabriel.",
+                  "category": "religious",
+                  "coords": [
+                        19.644263,
+                        45.105
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Šišatovac", hu: "Šišatovac kolostor", ro: "Mănăstirea Šišatovac", en: "Šišatovac Monastery" },
@@ -1263,7 +3837,88 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-sisatovac-history-v2.webp",
   },
   {
-    id: "serbia-petkovica-history-v2",
+    id: "serbia-petkovica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Вила Равне",
+                  "text": "Eine elegante historische Residenz am Fruška Gora in der Nähe des Klosters Petkovica.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Ein Aussichtspunkt im Nationalpark Fruška Gora mit Blick auf das Dorf Grabovo und die Donau.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вила Равне",
+                  "text": "Elegáns történelmi rezidencia a Fruška Gora hegységben, a Petkovica-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Kilátópont a Fruška Gora Nemzeti Parkban, ahonnan kilátás nyílik Grabovo falura és a Dunára.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вила Равне",
+                  "text": "O reședință istorică elegantă situată pe Fruška Gora, lângă Mănăstirea Petkovica.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Un punct de belvedere din Parcul Național Fruška Gora, care oferă priveliști asupra satului Grabovo și a Dunării.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vila Ravne",
+                  "text": "An elegant historical residence located on Fruška Gora near the Petkovica Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Grabovo viewpoint",
+                  "text": "A viewpoint in the Fruška Gora National Park offering views over the Grabovo village and the Danube.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Petkovica", hu: "Petkovica kolostor", ro: "Mănăstirea Petkovica", en: "Petkovica Monastery" },
@@ -1308,7 +3963,124 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-petkovica-history-v2.webp",
   },
   {
-    id: "serbia-divsa-history-v2",
+    id: "serbia-divsa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Вила Равне",
+                  "text": "Ein repräsentatives Herrenhaus in der Nähe des Klosters Divša.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Лежимир",
+                  "text": "Eine serbisch-orthodoxe Kirche im Dorf Ležimir, dem Heiligen Georg gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        19.57075,
+                        45.124588
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "Eine orthodoxe Kirche in Grabovo, die den Heiligen Erzengeln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вила Равне",
+                  "text": "Reprezentatív udvarház a Divša-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Лежимир",
+                  "text": "Szent Györgynek szentelt szerb ortodox templom Ležimir faluban.",
+                  "category": "religious",
+                  "coords": [
+                        19.57075,
+                        45.124588
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "A Szent Arkangyaloknak szentelt ortodox templom Grabovóban.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вила Равне",
+                  "text": "Un conac reprezentativ situat lângă Mănăstirea Divša.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Црква Лежимир",
+                  "text": "O biserică ortodoxă sârbă din satul Ležimir, dedicată Sfântului Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        19.57075,
+                        45.124588
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "O biserică ortodoxă din Grabovo, dedicată Sfinților Arhangheli.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vila Ravne",
+                  "text": "A representative manor house located near the Divša Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Church Lezimir",
+                  "text": "A Serbian Orthodox church in the village of Ležimir, dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        19.57075,
+                        45.124588
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels",
+                  "text": "An Orthodox church in Grabovo, dedicated to the Holy Archangels.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Divša", hu: "Divša kolostor", ro: "Mănăstirea Divša", en: "Divša Monastery" },
@@ -1353,7 +4125,160 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-divsa-history-v2.webp",
   },
   {
-    id: "serbia-kuvezdin-history-v2",
+    id: "serbia-kuvezdin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Градац",
+                  "text": "Eine archäologische Stätte in der Nähe des Klosters Kuveždin mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        19.68115,
+                        45.149761
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Ein historisches Herrenhaus in der Nähe des Klosters Kuveždin in einer natürlichen Umgebung.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Landschaft rund um das Kloster Kuveždin.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "Eine Kultstätte in der Nähe des Klosters Kuveždin, die den heiligen Erzengeln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Градац",
+                  "text": "A Kuveždin-kolostor közelében található régészeti lelőhely ősi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        19.68115,
+                        45.149761
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Történelmi kúria a Kuveždin-kolostor közelében, természeti környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Kilátópont, amely széles kilátást nyújt a Kuveždin-kolostor környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "A Kuveždin-kolostor közelében található istentiszteleti hely, amelyet a Szent Arkangyaloknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Градац",
+                  "text": "Un sit arheologic lângă Mănăstirea Kuveždin, cu vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.68115,
+                        45.149761
+                  ]
+            },
+            {
+                  "name": "Вила Равне",
+                  "text": "Un conac istoric situat lângă Mănăstirea Kuveždin, într-un cadru natural.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Видиковац Грабово",
+                  "text": "Un punct de belvedere care oferă vederi asupra peisajului din jurul Mănăstirii Kuveždin.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            },
+            {
+                  "name": "Црква Светог архангела",
+                  "text": "Un lăcaș de cult lângă Mănăstirea Kuveždin, dedicat Sfinților Arhangheli.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradac",
+                  "text": "An archaeological site near the Kuveždin Monastery featuring ancient remains of historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        19.68115,
+                        45.149761
+                  ]
+            },
+            {
+                  "name": "Vila Ravne",
+                  "text": "A historic manor house located near the Kuveždin Monastery, set within a scenic natural environment.",
+                  "category": "historical",
+                  "coords": [
+                        19.619368,
+                        45.144848
+                  ]
+            },
+            {
+                  "name": "Grabovo viewpoint",
+                  "text": "A scenic viewpoint offering broad views of the landscape surrounding the Kuveždin Monastery area.",
+                  "category": "natural",
+                  "coords": [
+                        19.631945,
+                        45.175921
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels",
+                  "text": "A place of worship near the Kuveždin Monastery dedicated to the Holy Archangels.",
+                  "category": "religious",
+                  "coords": [
+                        19.613696,
+                        45.173797
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kuveždin", hu: "Kuveždin kolostor", ro: "Mănăstirea Kuveždin", en: "Kuveždin Monastery" },
@@ -1488,7 +4413,52 @@ export const serbiaHistoryV2: POI[] = [
     image: "/poi-images/serbia-raska-crkva-history-v2.webp",
   },
   {
-    id: "serbia-sopotnica-history-v2",
+    id: "serbia-sopotnica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ПИО Озрен-Јадовник",
+                  "text": "Ein geschütztes Landschaftsgebiet in Serbien, bekannt für seine natürliche Schönheit.",
+                  "category": "natural",
+                  "coords": [
+                        19.787866,
+                        43.241626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ПИО Озрен-Јадовник",
+                  "text": "Védett tájegység Szerbiában, amely természeti szépségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.787866,
+                        43.241626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ПИО Озрен-Јадовник",
+                  "text": "O zonă de peisaj protejat din Serbia, cunoscută pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        19.787866,
+                        43.241626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PIO Ozren-Jadovnik",
+                  "text": "A protected landscape area in Serbia known for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        19.787866,
+                        43.241626
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RS",
     name: { de: "Kloster Sopotnica", hu: "Sopotnica kolostor", ro: "Mănăstirea Sopotnica", en: "Sopotnica Monastery" },

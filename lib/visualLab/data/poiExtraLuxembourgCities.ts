@@ -715,6 +715,15 @@ export const luxembourgExtraCities: POI[] = [
                         6.151855,
                         49.623368
                   ]
+            },
+            {
+                  "name": "Fort Wallis",
+                  "text": "Ein historischer Teil der ehemaligen Festungswälle von Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.134458,
+                        49.604048
+                  ]
             }
       ],
       "hu": [
@@ -1427,6 +1436,15 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.151855,
                         49.623368
+                  ]
+            },
+            {
+                  "name": "Fort Wallis",
+                  "text": "Luxemburg város egykori erődítményeinek történelmi része.",
+                  "category": "fortress",
+                  "coords": [
+                        6.134458,
+                        49.604048
                   ]
             }
       ],
@@ -2141,6 +2159,15 @@ export const luxembourgExtraCities: POI[] = [
                         6.151855,
                         49.623368
                   ]
+            },
+            {
+                  "name": "Fort Wallis",
+                  "text": "O secțiune istorică a fostelor ziduri ale cetății din orașul Luxemburg.",
+                  "category": "fortress",
+                  "coords": [
+                        6.134458,
+                        49.604048
+                  ]
             }
       ],
       "en": [
@@ -2853,6 +2880,15 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.151855,
                         49.623368
+                  ]
+            },
+            {
+                  "name": "Fort Wallis",
+                  "text": "A historic section of the former fortress walls of Luxembourg City.",
+                  "category": "fortress",
+                  "coords": [
+                        6.134458,
+                        49.604048
                   ]
             }
       ]

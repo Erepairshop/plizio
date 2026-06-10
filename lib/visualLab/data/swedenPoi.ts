@@ -3650,6 +3650,15 @@ export const swedenRegions: POI[] = [
                         11.936392,
                         57.684844
                   ]
+            },
+            {
+                  "name": "City Museum of Gothenburg",
+                  "text": "Das Stadtmuseum von Göteborg zeigt die Geschichte der Region von der Wikingerzeit bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        11.963313,
+                        57.706553
+                  ]
             }
       ],
       "hu": [
@@ -4164,6 +4173,15 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         11.936392,
                         57.684844
+                  ]
+            },
+            {
+                  "name": "City Museum of Gothenburg",
+                  "text": "Göteborg városi múzeuma, amely a régió történelmét mutatja be a viking kortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        11.963313,
+                        57.706553
                   ]
             }
       ],
@@ -4680,6 +4698,15 @@ export const swedenRegions: POI[] = [
                         11.936392,
                         57.684844
                   ]
+            },
+            {
+                  "name": "City Museum of Gothenburg",
+                  "text": "Muzeul orașului Göteborg prezintă istoria regiunii din epoca vikingă până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        11.963313,
+                        57.706553
+                  ]
             }
       ],
       "en": [
@@ -5194,6 +5221,15 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         11.936392,
                         57.684844
+                  ]
+            },
+            {
+                  "name": "City Museum of Gothenburg",
+                  "text": "The Gothenburg City Museum showcases the region's history from the Viking Age to the present.",
+                  "category": "museum",
+                  "coords": [
+                        11.963313,
+                        57.706553
                   ]
             }
       ]
@@ -19831,6 +19867,24 @@ export const swedenCities: POI[] = [
                         12.885885,
                         56.674106
                   ]
+            },
+            {
+                  "name": "Halmstads slott",
+                  "text": "Ein Schloss aus dem 17. Jahrhundert in Halmstad, das heute als Residenz des Gouverneurs dient.",
+                  "category": "castle",
+                  "coords": [
+                        12.857656,
+                        56.67154
+                  ]
+            },
+            {
+                  "name": "Vastra stranden",
+                  "text": "Ein beliebter Sandstrand in Halmstad, ideal für Spaziergänge und Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.839821,
+                        56.66266
+                  ]
             }
       ],
       "hu": [
@@ -20030,6 +20084,24 @@ export const swedenCities: POI[] = [
                   "coords": [
                         12.885885,
                         56.674106
+                  ]
+            },
+            {
+                  "name": "Halmstads slott",
+                  "text": "17. századi kastély Halmstadban, amely ma a kormányzó rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        12.857656,
+                        56.67154
+                  ]
+            },
+            {
+                  "name": "Vastra stranden",
+                  "text": "Halmstad népszerű homokos strandja, amely ideális sétákhoz és tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.839821,
+                        56.66266
                   ]
             }
       ],
@@ -20231,6 +20303,24 @@ export const swedenCities: POI[] = [
                         12.885885,
                         56.674106
                   ]
+            },
+            {
+                  "name": "Halmstads slott",
+                  "text": "Un castel din secolul al XVII-lea în Halmstad, care servește astăzi drept reședință a guvernatorului.",
+                  "category": "castle",
+                  "coords": [
+                        12.857656,
+                        56.67154
+                  ]
+            },
+            {
+                  "name": "Vastra stranden",
+                  "text": "O plajă de nisip populară în Halmstad, ideală pentru plimbări și relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.839821,
+                        56.66266
+                  ]
             }
       ],
       "en": [
@@ -20430,6 +20520,24 @@ export const swedenCities: POI[] = [
                   "coords": [
                         12.885885,
                         56.674106
+                  ]
+            },
+            {
+                  "name": "Halmstads slott",
+                  "text": "A 17th-century castle in Halmstad, currently serving as the governor's residence.",
+                  "category": "castle",
+                  "coords": [
+                        12.857656,
+                        56.67154
+                  ]
+            },
+            {
+                  "name": "Vastra stranden",
+                  "text": "A popular sandy beach in Halmstad, ideal for walks and seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.839821,
+                        56.66266
                   ]
             }
       ]
@@ -24412,6 +24520,15 @@ export const swedenCities: POI[] = [
                         13.519898,
                         59.405031
                   ]
+            },
+            {
+                  "name": "Varmlands museum",
+                  "text": "Ein bedeutendes Regionalmuseum in Karlstad, das sich der Kunst und Kulturgeschichte Värmlands widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.501139,
+                        59.385272
+                  ]
             }
       ],
       "hu": [
@@ -24710,6 +24827,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         13.519898,
                         59.405031
+                  ]
+            },
+            {
+                  "name": "Varmlands museum",
+                  "text": "Karlstad jelentős regionális múzeuma, amely Värmland művészetét és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.501139,
+                        59.385272
                   ]
             }
       ],
@@ -25010,6 +25136,15 @@ export const swedenCities: POI[] = [
                         13.519898,
                         59.405031
                   ]
+            },
+            {
+                  "name": "Varmlands museum",
+                  "text": "Un muzeu regional important în Karlstad, dedicat artei și istoriei culturale din Värmland.",
+                  "category": "museum",
+                  "coords": [
+                        13.501139,
+                        59.385272
+                  ]
             }
       ],
       "en": [
@@ -25308,6 +25443,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         13.519898,
                         59.405031
+                  ]
+            },
+            {
+                  "name": "Varmlands museum",
+                  "text": "A major regional museum in Karlstad dedicated to the art and cultural history of Värmland.",
+                  "category": "museum",
+                  "coords": [
+                        13.501139,
+                        59.385272
                   ]
             }
       ]
@@ -26337,7 +26481,268 @@ export const swedenCities: POI[] = [
 
 export const swedenCulture: POI[] = [
   {
-    id: "cult-visby",
+    id: "cult-visby", "sights": {
+      "de": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "Ein Kunstmuseum in Visby, das regionale und zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Naturschutzgebiet südlich von Visby mit beeindruckenden Klippen und Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "Ein geschütztes Naturgebiet bei Visby, bekannt für seine Kalksteinfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Das Regionaltheater von Gotland in der historischen Altstadt von Visby.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Ein interaktives Wissenschaftszentrum und Erlebnismuseum in Visby.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "Das Hauptmuseum von Gotland, das sich mit der Geschichte und Archäologie der Insel befasst.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "Eine Sammlung historischer Fahrzeuge und Oldtimer auf der Insel Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "Művészeti múzeum Visbyben, amely regionális és kortárs műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Természetvédelmi terület Visby-től délre, lenyűgöző sziklákkal és tengerparti tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "Védett természeti terület Visby közelében, amely mészkőszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Gotland regionális színháza Visby történelmi óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Interaktív tudományos központ és élménymúzeum Visbyben.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "Gotland főmúzeuma, amely a sziget történelmével és régészetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "Történelmi járművek és veterán autók gyűjteménye Gotland szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "Un muzeu de artă în Visby, care expune lucrări regionale și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Rezervație naturală la sud de Visby, cu faleze impresionante și peisaj costier.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "O zonă naturală protejată lângă Visby, cunoscută pentru stâncile sale de calcar.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Teatrul regional din Gotland, situat în centrul istoric al orașului Visby.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Un centru științific interactiv și muzeu al experiențelor în Visby.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "Principalul muzeu din Gotland, dedicat istoriei și arheologiei insulei.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "O colecție de vehicule istorice și mașini de epocă pe insula Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gotland art museum",
+                  "text": "An art museum in Visby exhibiting regional and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Nature reserve south of Visby featuring impressive cliffs and coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "A protected natural area near Visby known for its limestone cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "The regional theatre of Gotland, located in the historic old town of Visby.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "An interactive science center and experience museum in Visby.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "The primary museum of Gotland, focusing on the history and archaeology of the island.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "A collection of historic vehicles and vintage cars on the island of Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "sweden",
     coords: [18.2948, 57.6348],
@@ -26546,7 +26951,196 @@ export const swedenCulture: POI[] = [
     image: "/geo-images/sweden/drottningholm.webp",
   },
   {
-    id: "cult-icehotel",
+    id: "cult-icehotel", "sights": {
+      "de": [
+            {
+                  "name": "Nutti Sámi Siida - Márkanbáiki",
+                  "text": "Ein Museum und Rentierpark, der der samischen Kultur und Tradition gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.620001,
+                        67.846982
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi hembygdsgård",
+                  "text": "Ein Heimatmuseum, das die lokale Geschichte und das traditionelle Leben in Jukkasjärvi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.616499,
+                        67.847015
+                  ]
+            },
+            {
+                  "name": "Ice Hotel Winter",
+                  "text": "Das weltberühmte Hotel, das jedes Jahr neu aus Eis und Schnee aufgebaut wird.",
+                  "category": "landmark",
+                  "coords": [
+                        20.594946,
+                        67.849674
+                  ]
+            },
+            {
+                  "name": "Ice Hotel 365",
+                  "text": "Eine ganzjährig geöffnete Eis-Erlebniswelt mit Eiszimmern und einer Bar.",
+                  "category": "landmark",
+                  "coords": [
+                        20.596879,
+                        67.849799
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi kyrka",
+                  "text": "Eine historische Holzkirche, bekannt für ihren kunstvollen Altar und ihre samischen Motive.",
+                  "category": "religious",
+                  "coords": [
+                        20.621282,
+                        67.846629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nutti Sámi Siida - Márkanbáiki",
+                  "text": "A számi kultúrát és hagyományokat bemutató múzeum és rénszarvaspark.",
+                  "category": "museum",
+                  "coords": [
+                        20.620001,
+                        67.846982
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi hembygdsgård",
+                  "text": "Helytörténeti múzeum, amely Jukkasjärvi múltját és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.616499,
+                        67.847015
+                  ]
+            },
+            {
+                  "name": "Ice Hotel Winter",
+                  "text": "A világhírű szálloda, amelyet minden évben újraépítenek jégből és hóból.",
+                  "category": "landmark",
+                  "coords": [
+                        20.594946,
+                        67.849674
+                  ]
+            },
+            {
+                  "name": "Ice Hotel 365",
+                  "text": "Egész évben nyitva tartó jégélményközpont jégszobákkal és bárral.",
+                  "category": "landmark",
+                  "coords": [
+                        20.596879,
+                        67.849799
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi kyrka",
+                  "text": "Történelmi fatemplom, amely díszes oltáráról és számi motívumairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.621282,
+                        67.846629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nutti Sámi Siida - Márkanbáiki",
+                  "text": "Un muzeu și parc de reni dedicat culturii și tradițiilor sami.",
+                  "category": "museum",
+                  "coords": [
+                        20.620001,
+                        67.846982
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi hembygdsgård",
+                  "text": "Un muzeu de istorie locală ce prezintă trecutul și viața tradițională din Jukkasjärvi.",
+                  "category": "museum",
+                  "coords": [
+                        20.616499,
+                        67.847015
+                  ]
+            },
+            {
+                  "name": "Ice Hotel Winter",
+                  "text": "Hotelul de renume mondial, reconstruit în fiecare an din gheață și zăpadă.",
+                  "category": "landmark",
+                  "coords": [
+                        20.594946,
+                        67.849674
+                  ]
+            },
+            {
+                  "name": "Ice Hotel 365",
+                  "text": "O experiență de gheață deschisă tot anul, cu camere de gheață și un bar.",
+                  "category": "landmark",
+                  "coords": [
+                        20.596879,
+                        67.849799
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi kyrka",
+                  "text": "O biserică istorică din lemn, cunoscută pentru altarul său decorat și motivele sami.",
+                  "category": "religious",
+                  "coords": [
+                        20.621282,
+                        67.846629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nutti Sámi Siida - Márkanbáiki",
+                  "text": "A museum and reindeer park dedicated to Sami culture and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        20.620001,
+                        67.846982
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi hembygdsgård",
+                  "text": "A local history museum showcasing the past and traditional life in Jukkasjärvi.",
+                  "category": "museum",
+                  "coords": [
+                        20.616499,
+                        67.847015
+                  ]
+            },
+            {
+                  "name": "Ice Hotel Winter",
+                  "text": "The world-famous hotel rebuilt every year from ice and snow.",
+                  "category": "landmark",
+                  "coords": [
+                        20.594946,
+                        67.849674
+                  ]
+            },
+            {
+                  "name": "Ice Hotel 365",
+                  "text": "A year-round ice experience featuring ice rooms and a bar.",
+                  "category": "landmark",
+                  "coords": [
+                        20.596879,
+                        67.849799
+                  ]
+            },
+            {
+                  "name": "Jukkasjärvi kyrka",
+                  "text": "A historic wooden church known for its ornate altar and Sami motifs.",
+                  "category": "religious",
+                  "coords": [
+                        20.621282,
+                        67.846629
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "sweden",
     coords: [20.5956, 67.8508],
@@ -26587,7 +27181,304 @@ export const swedenCulture: POI[] = [
     image: "/geo-images/sweden/icehotel.webp",
   },
   {
-    id: "cult-dalarna",
+    id: "cult-dalarna", "sights": {
+      "de": [
+            {
+                  "name": "Zorngården",
+                  "text": "Das historische Wohnhaus des schwedischen Malers Anders Zorn in Dalarna.",
+                  "category": "museum",
+                  "coords": [
+                        14.539167,
+                        61.007603
+                  ]
+            },
+            {
+                  "name": "Hemus",
+                  "text": "Ein Naturschutzgebiet in der Region Dalarna mit unberührter Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.483474,
+                        61.002457
+                  ]
+            },
+            {
+                  "name": "Vasaloppets Hus",
+                  "text": "Ein Museum in Dalarna, das dem berühmten Vasaloppet-Skilanglauf gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.544989,
+                        61.007673
+                  ]
+            },
+            {
+                  "name": "Sandholmens naturreservat",
+                  "text": "Ein geschütztes Naturareal bei Dalarna, das zur Erhaltung der lokalen Flora dient.",
+                  "category": "natural",
+                  "coords": [
+                        14.571593,
+                        60.996763
+                  ]
+            },
+            {
+                  "name": "Vinäsgraven",
+                  "text": "Ein Naturschutzgebiet in Dalarna, bekannt für seine geologische Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        14.524723,
+                        60.973813
+                  ]
+            },
+            {
+                  "name": "Zornmuseet",
+                  "text": "Das Zorn-Museum zeigt eine bedeutende Sammlung von Werken des Künstlers Anders Zorn.",
+                  "category": "museum",
+                  "coords": [
+                        14.537933,
+                        61.006996
+                  ]
+            },
+            {
+                  "name": "Zorns Gammelgård",
+                  "text": "Ein Freilichtmuseum in Dalarna mit historischen Gebäuden aus der Zorn-Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        14.545921,
+                        60.998336
+                  ]
+            },
+            {
+                  "name": "Åmåsängsbadet",
+                  "text": "Ein beliebter Badestrand am Siljansee in der Region Dalarna.",
+                  "category": "recreational",
+                  "coords": [
+                        14.569271,
+                        60.980261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zorngården",
+                  "text": "Anders Zorn svéd festőművész történelmi lakóháza Dalarnában.",
+                  "category": "museum",
+                  "coords": [
+                        14.539167,
+                        61.007603
+                  ]
+            },
+            {
+                  "name": "Hemus",
+                  "text": "Természetvédelmi terület Dalarna régióban, érintetlen tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        14.483474,
+                        61.002457
+                  ]
+            },
+            {
+                  "name": "Vasaloppets Hus",
+                  "text": "A híres Vasaloppet sífutóversenynek szentelt múzeum Dalarnában.",
+                  "category": "museum",
+                  "coords": [
+                        14.544989,
+                        61.007673
+                  ]
+            },
+            {
+                  "name": "Sandholmens naturreservat",
+                  "text": "Védett természeti terület Dalarna mellett, a helyi flóra megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        14.571593,
+                        60.996763
+                  ]
+            },
+            {
+                  "name": "Vinäsgraven",
+                  "text": "Természetvédelmi terület Dalarnában, amely geológiai jelentőségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.524723,
+                        60.973813
+                  ]
+            },
+            {
+                  "name": "Zornmuseet",
+                  "text": "A Zorn-múzeum Anders Zorn művész alkotásainak jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.537933,
+                        61.006996
+                  ]
+            },
+            {
+                  "name": "Zorns Gammelgård",
+                  "text": "Szabadtéri múzeum Dalarnában, a Zorn-gyűjteményből származó történelmi épületekkel.",
+                  "category": "museum",
+                  "coords": [
+                        14.545921,
+                        60.998336
+                  ]
+            },
+            {
+                  "name": "Åmåsängsbadet",
+                  "text": "Népszerű fürdőhely a Siljan-tó partján, Dalarna régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.569271,
+                        60.980261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zorngården",
+                  "text": "Casa istorică a pictorului suedez Anders Zorn din Dalarna.",
+                  "category": "museum",
+                  "coords": [
+                        14.539167,
+                        61.007603
+                  ]
+            },
+            {
+                  "name": "Hemus",
+                  "text": "O rezervație naturală în regiunea Dalarna, cu peisaje virgine.",
+                  "category": "natural",
+                  "coords": [
+                        14.483474,
+                        61.002457
+                  ]
+            },
+            {
+                  "name": "Vasaloppets Hus",
+                  "text": "Un muzeu în Dalarna dedicat celebrei curse de schi fond Vasaloppet.",
+                  "category": "museum",
+                  "coords": [
+                        14.544989,
+                        61.007673
+                  ]
+            },
+            {
+                  "name": "Sandholmens naturreservat",
+                  "text": "O zonă naturală protejată lângă Dalarna, servind la conservarea florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        14.571593,
+                        60.996763
+                  ]
+            },
+            {
+                  "name": "Vinäsgraven",
+                  "text": "O rezervație naturală în Dalarna, cunoscută pentru importanța sa geologică.",
+                  "category": "natural",
+                  "coords": [
+                        14.524723,
+                        60.973813
+                  ]
+            },
+            {
+                  "name": "Zornmuseet",
+                  "text": "Muzeul Zorn expune o colecție importantă de lucrări ale artistului Anders Zorn.",
+                  "category": "museum",
+                  "coords": [
+                        14.537933,
+                        61.006996
+                  ]
+            },
+            {
+                  "name": "Zorns Gammelgård",
+                  "text": "Un muzeu în aer liber în Dalarna, cu clădiri istorice din colecția Zorn.",
+                  "category": "museum",
+                  "coords": [
+                        14.545921,
+                        60.998336
+                  ]
+            },
+            {
+                  "name": "Åmåsängsbadet",
+                  "text": "O plajă populară pe malul lacului Siljan, în regiunea Dalarna.",
+                  "category": "recreational",
+                  "coords": [
+                        14.569271,
+                        60.980261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zorn house",
+                  "text": "The historic home of the Swedish painter Anders Zorn in Dalarna.",
+                  "category": "museum",
+                  "coords": [
+                        14.539167,
+                        61.007603
+                  ]
+            },
+            {
+                  "name": "Hemus",
+                  "text": "A nature reserve in the Dalarna region with untouched landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        14.483474,
+                        61.002457
+                  ]
+            },
+            {
+                  "name": "Vasaloppets Hus",
+                  "text": "A museum in Dalarna dedicated to the famous Vasaloppet cross-country ski race.",
+                  "category": "museum",
+                  "coords": [
+                        14.544989,
+                        61.007673
+                  ]
+            },
+            {
+                  "name": "Sandholmens naturreservat",
+                  "text": "A protected natural area near Dalarna serving to preserve local flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.571593,
+                        60.996763
+                  ]
+            },
+            {
+                  "name": "Vinäsgraven",
+                  "text": "A nature reserve in Dalarna known for its geological significance.",
+                  "category": "natural",
+                  "coords": [
+                        14.524723,
+                        60.973813
+                  ]
+            },
+            {
+                  "name": "Zornmuseet",
+                  "text": "The Zorn Museum displays a significant collection of works by artist Anders Zorn.",
+                  "category": "museum",
+                  "coords": [
+                        14.537933,
+                        61.006996
+                  ]
+            },
+            {
+                  "name": "Zorns Gammelgård",
+                  "text": "An open-air museum in Dalarna featuring historical buildings from the Zorn collection.",
+                  "category": "museum",
+                  "coords": [
+                        14.545921,
+                        60.998336
+                  ]
+            },
+            {
+                  "name": "Åmåsängsbadet",
+                  "text": "A popular bathing beach on the shores of Lake Siljan in the Dalarna region.",
+                  "category": "recreational",
+                  "coords": [
+                        14.569271,
+                        60.980261
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "sweden",
     coords: [14.5390, 60.9923],
@@ -26631,7 +27522,304 @@ export const swedenCulture: POI[] = [
 
 export const swedenNature: POI[] = [
   {
-    id: "nat-abisko",
+    id: "nat-abisko", "sights": {
+      "de": [
+            {
+                  "name": "Abisko Naturvetenskapliga Station",
+                  "text": "Eine Forschungsstation im Abisko-Nationalpark, die sich mit der arktischen Umwelt befasst.",
+                  "category": "natural",
+                  "coords": [
+                        18.821912,
+                        68.355579
+                  ]
+            },
+            {
+                  "name": "Rallar- & gränsförsvarsmuseet",
+                  "text": "Ein Museum, das Exponate zur Marine- und Grenzverteidigungsgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.777305,
+                        68.359461
+                  ]
+            },
+            {
+                  "name": "Samevistet",
+                  "text": "Eine kulturelle Attraktion, die Einblicke in die traditionelle Lebensweise der Samen gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.786036,
+                        68.355642
+                  ]
+            },
+            {
+                  "name": "Canyon Abiskojakka",
+                  "text": "Ein spektakulärer Aussichtspunkt über den Canyon des Flusses Abiskojákka.",
+                  "category": "natural",
+                  "coords": [
+                        18.7667,
+                        68.355364
+                  ]
+            },
+            {
+                  "name": "Utsiktskullen",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Blick über die Landschaft des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        18.787127,
+                        68.36088
+                  ]
+            },
+            {
+                  "name": "Paddus",
+                  "text": "Ein heiliger Ort der Samen und Aussichtspunkt mit Blick auf das Torneträsk-Becken.",
+                  "category": "natural",
+                  "coords": [
+                        18.865438,
+                        68.318916
+                  ]
+            },
+            {
+                  "name": "Rävnabben",
+                  "text": "Ein schöner Aussichtspunkt im Nationalpark, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.822407,
+                        68.336222
+                  ]
+            },
+            {
+                  "name": "Kransnabben",
+                  "text": "Ein Aussichtspunkt, der weite Panoramablicke auf die arktische Wildnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.821455,
+                        68.330479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abisko Naturvetenskapliga Station",
+                  "text": "Kutatóállomás az Abisko Nemzeti Parkban, amely az arktikus környezetet tanulmányozza.",
+                  "category": "natural",
+                  "coords": [
+                        18.821912,
+                        68.355579
+                  ]
+            },
+            {
+                  "name": "Rallar- & gränsförsvarsmuseet",
+                  "text": "A haditengerészeti és határvédelmi múlt emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.777305,
+                        68.359461
+                  ]
+            },
+            {
+                  "name": "Samevistet",
+                  "text": "Kulturális látnivaló, amely betekintést nyújt a számi nép hagyományos életmódjába.",
+                  "category": "landmark",
+                  "coords": [
+                        18.786036,
+                        68.355642
+                  ]
+            },
+            {
+                  "name": "Canyon Abiskojakka",
+                  "text": "Látványos kilátópont az Abiskojákka-folyó szurdoka felett.",
+                  "category": "natural",
+                  "coords": [
+                        18.7667,
+                        68.355364
+                  ]
+            },
+            {
+                  "name": "Utsiktskullen",
+                  "text": "Magaslati kilátóhely, ahonnan tágas panoráma nyílik a nemzeti park tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        18.787127,
+                        68.36088
+                  ]
+            },
+            {
+                  "name": "Paddus",
+                  "text": "Szent számi helyszín és kilátópont, ahonnan rálátni a Torneträsk-medencére.",
+                  "category": "natural",
+                  "coords": [
+                        18.865438,
+                        68.318916
+                  ]
+            },
+            {
+                  "name": "Rävnabben",
+                  "text": "Szép kilátóhely a nemzeti parkban, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.822407,
+                        68.336222
+                  ]
+            },
+            {
+                  "name": "Kransnabben",
+                  "text": "Kilátópont, amely tágas panorámát kínál az arktikus vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        18.821455,
+                        68.330479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abisko Naturvetenskapliga Station",
+                  "text": "O stație de cercetare din Parcul Național Abisko, axată pe studiul mediului arctic.",
+                  "category": "natural",
+                  "coords": [
+                        18.821912,
+                        68.355579
+                  ]
+            },
+            {
+                  "name": "Rallar- & gränsförsvarsmuseet",
+                  "text": "Un muzeu care expune piese legate de istoria apărării navale și de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        18.777305,
+                        68.359461
+                  ]
+            },
+            {
+                  "name": "Samevistet",
+                  "text": "O atracție culturală care oferă perspective asupra modului de viață tradițional al samilor.",
+                  "category": "landmark",
+                  "coords": [
+                        18.786036,
+                        68.355642
+                  ]
+            },
+            {
+                  "name": "Canyon Abiskojakka",
+                  "text": "Un punct de observație spectaculos deasupra canionului râului Abiskojákka.",
+                  "category": "natural",
+                  "coords": [
+                        18.7667,
+                        68.355364
+                  ]
+            },
+            {
+                  "name": "Utsiktskullen",
+                  "text": "Un punct de belvedere ridicat, oferind vederi panoramice asupra peisajului parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        18.787127,
+                        68.36088
+                  ]
+            },
+            {
+                  "name": "Paddus",
+                  "text": "Un loc sacru al samilor și punct de observație cu vedere spre bazinul Torneträsk.",
+                  "category": "natural",
+                  "coords": [
+                        18.865438,
+                        68.318916
+                  ]
+            },
+            {
+                  "name": "Rävnabben",
+                  "text": "Un punct de belvedere frumos în parcul național, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.822407,
+                        68.336222
+                  ]
+            },
+            {
+                  "name": "Kransnabben",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra sălbăticiei arctice.",
+                  "category": "natural",
+                  "coords": [
+                        18.821455,
+                        68.330479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abisko Naturvetenskapliga Station",
+                  "text": "A research station in Abisko National Park focused on arctic environmental studies.",
+                  "category": "natural",
+                  "coords": [
+                        18.821912,
+                        68.355579
+                  ]
+            },
+            {
+                  "name": "Navy & border defence museum",
+                  "text": "A museum displaying exhibits related to naval and border defense history.",
+                  "category": "museum",
+                  "coords": [
+                        18.777305,
+                        68.359461
+                  ]
+            },
+            {
+                  "name": "Sami camp",
+                  "text": "A cultural attraction providing insight into the traditional Sami way of life.",
+                  "category": "landmark",
+                  "coords": [
+                        18.786036,
+                        68.355642
+                  ]
+            },
+            {
+                  "name": "Canyon Abiskojakka",
+                  "text": "A spectacular viewpoint overlooking the canyon of the Abiskojákka River.",
+                  "category": "natural",
+                  "coords": [
+                        18.7667,
+                        68.355364
+                  ]
+            },
+            {
+                  "name": "Utsiktskullen",
+                  "text": "An elevated viewpoint offering panoramic views over the national park landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.787127,
+                        68.36088
+                  ]
+            },
+            {
+                  "name": "Paddus",
+                  "text": "A sacred Sami site and viewpoint overlooking the Torneträsk basin.",
+                  "category": "natural",
+                  "coords": [
+                        18.865438,
+                        68.318916
+                  ]
+            },
+            {
+                  "name": "Rävnabben",
+                  "text": "A scenic viewpoint within the national park, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        18.822407,
+                        68.336222
+                  ]
+            },
+            {
+                  "name": "Kransnabben",
+                  "text": "A viewpoint offering panoramic vistas of the arctic wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        18.821455,
+                        68.330479
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "sweden",
     coords: [18.8312, 68.3495],
@@ -26672,7 +27860,268 @@ export const swedenNature: POI[] = [
     image: "/geo-images/sweden/abisko.webp",
   },
   {
-    id: "nat-gotland",
+    id: "nat-gotland", "sights": {
+      "de": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "Das Kunstmuseum in Visby präsentiert zeitgenössische und historische Kunstwerke von der Insel Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Ein Naturschutzgebiet auf Gotland, das für seine Klippen, Küstenlandschaften und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "Ein Naturschutzgebiet in Visby, das seltene Pflanzenarten und eine geschützte Küstenflora beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Das Regionaltheater von Gotland in Visby bietet ein vielfältiges Programm an Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Ein interaktives Wissenschaftszentrum in Visby, das spielerisches Lernen für Kinder und Familien ermöglicht.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "Das Museum vermittelt einen umfassenden Einblick in die reiche Geschichte und Kultur der Insel Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "Ein Museum auf Gotland, das eine Sammlung historischer Fahrzeuge und Oldtimer aus verschiedenen Epochen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "A visby-i művészeti múzeum Gotland szigetéről származó kortárs és történelmi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "Természetvédelmi terület Gotlandon, amely szikláiról, tengerparti tájairól és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "Természetvédelmi terület Visbyben, amely ritka növényfajoknak és védett parti flórának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Gotland regionális színháza Visbyben, amely változatos színpadi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Interaktív tudományos központ Visbyben, amely játékos tanulási lehetőséget kínál gyerekeknek és családoknak.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "A múzeum átfogó betekintést nyújt Gotland szigetének gazdag történelmébe és kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "Gotlandi múzeum, amely különböző korszakokból származó veterán járműveket és autókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gotlands konstmuseum",
+                  "text": "Muzeul de artă din Visby prezintă opere de artă contemporane și istorice de pe insula Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "O rezervație naturală pe Gotland, cunoscută pentru faleza sa, peisajele de coastă și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "O rezervație naturală din Visby care adăpostește specii rare de plante și o floră de coastă protejată.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "Teatrul regional din Gotland, situat în Visby, oferă un program variat de spectacole scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "Un centru științific interactiv din Visby care oferă experiențe de învățare ludice pentru copii și familii.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "Muzeul oferă o perspectivă cuprinzătoare asupra istoriei și culturii bogate a insulei Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "Un muzeu de pe Gotland care expune o colecție de vehicule istorice și mașini de epocă din diverse perioade.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gotland art museum",
+                  "text": "The art museum in Visby showcases contemporary and historical artworks from the island of Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.29363,
+                        57.63942
+                  ]
+            },
+            {
+                  "name": "Södra hällarnas naturreservat",
+                  "text": "A nature reserve on Gotland known for its cliffs, coastal landscapes, and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        18.260766,
+                        57.616486
+                  ]
+            },
+            {
+                  "name": "Bergbetningen",
+                  "text": "A nature reserve in Visby that is home to rare plant species and protected coastal flora.",
+                  "category": "natural",
+                  "coords": [
+                        18.326066,
+                        57.662982
+                  ]
+            },
+            {
+                  "name": "Länsteatern",
+                  "text": "The regional theatre of Gotland in Visby offers a diverse program of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292121,
+                        57.636613
+                  ]
+            },
+            {
+                  "name": "Fenomenalen",
+                  "text": "An interactive science center in Visby providing playful learning experiences for children and families.",
+                  "category": "museum",
+                  "coords": [
+                        18.287053,
+                        57.636887
+                  ]
+            },
+            {
+                  "name": "Gotlands Museum",
+                  "text": "The museum provides a comprehensive insight into the rich history and culture of the island of Gotland.",
+                  "category": "museum",
+                  "coords": [
+                        18.292413,
+                        57.639641
+                  ]
+            },
+            {
+                  "name": "Bilmuseum Gotland",
+                  "text": "A museum on Gotland displaying a collection of historical vehicles and vintage cars from different eras.",
+                  "category": "museum",
+                  "coords": [
+                        18.251428,
+                        57.607681
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "sweden",
     coords: [18.2948, 57.6348],

@@ -49,7 +49,88 @@ imageHint: "Mljet island monastery on lake",
     },
     image: "/poi-images/croatia-mljet-island-nature-v2.webp",
 },  {
-    id: "croatia-kornati-islands-nature-v2",
+    id: "croatia-kornati-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Eine malerische Bucht auf der Insel Kornat im Nationalpark Kornaten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            },
+            {
+                  "name": "Metlina",
+                  "text": "Der höchste Gipfel der Kornaten mit Blick über die gesamte Inselgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289527,
+                        43.829564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Festői öböl Kornat szigetén, a Kornati Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            },
+            {
+                  "name": "Metlina",
+                  "text": "A Kornati-szigetek legmagasabb csúcsa, kilátással az egész szigetvilágra.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289527,
+                        43.829564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "Un golf pitoresc pe insula Kornat, în cadrul Parcului Național Kornati.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            },
+            {
+                  "name": "Metlina",
+                  "text": "Cel mai înalt vârf din insulele Kornati, oferind vederi asupra arhipelagului.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289527,
+                        43.829564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uvala Stiniva",
+                  "text": "A scenic bay on the island of Kornat within the Kornati National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.339663,
+                        43.808945
+                  ]
+            },
+            {
+                  "name": "Metlina",
+                  "text": "The highest peak in the Kornati Islands, offering views over the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        15.289527,
+                        43.829564
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Kornati-Inseln", hu: "Kornati-szigetek", ro: "Insulele Kornati", en: "Kornati Islands"},
@@ -279,7 +360,268 @@ imageHint: "Lonjsko Polje wooden houses and storks",
     },
     image: "/poi-images/croatia-lonjsko-polje-nature-v2.webp",
 },  {
-    id: "croatia-medvednica-mountain-nature-v2",
+    id: "croatia-medvednica-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Bärenberg",
+                  "text": "Ein bewaldeter Naturpark in der Nähe von Zagreb, beliebt für Wandern und Wintersport.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Ein barockes Schloss in Gornja Bistra am Fuße des Medvednica-Gebirges.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "Der höchste Gipfel des Medvednica-Gebirges und ein bekanntes Ausflugsziel bei Zagreb.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "Ein historisches Silberbergwerk auf der Medvednica, das heute für Besucher zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Ein Aussichtspunkt im Naturpark Medvednica mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Ein bekannter Aussichtspunkt nahe der Grafičar-Hütte auf der Medvednica.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "Diese katholische Kirche befindet sich auf dem Berg Medvednica bei Zagreb.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Erdős természetvédelmi terület Zágráb közelében, kedvelt túrázó- és télisport-helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Barokk kastély Felsőbisztrán (Gornja Bistra), a Medvednica-hegység lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "A Medvednica-hegység legmagasabb csúcsa és Zágráb környékének kedvelt kirándulóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "Történelmi ezüstbánya a Medvednicán, amely ma látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Kilátópont a Medvednica Natúrparkban, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Ismert kilátóhely a Medvednicán, a Grafičar-menedékház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "Ez a katolikus templom a Zágráb melletti Medvednica-hegyen található.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Un parc natural împădurit de lângă Zagreb, popular pentru drumeții și sporturi de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Un castel baroc în Gornja Bistra, situat la poalele munților Medvednica.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "Cel mai înalt vârf al munților Medvednica și o destinație populară de excursie lângă Zagreb.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "O mină istorică de argint pe Medvednica, deschisă astăzi vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Un punct de belvedere în parcul natural Medvednica, oferind vedere spre peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Un punct de belvedere cunoscut lângă cabana Grafičar de pe Medvednica.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "Această biserică catolică este situată pe muntele Medvednica, lângă Zagreb.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "A forested nature park near Zagreb, popular for hiking and winter sports.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "A Baroque castle in Gornja Bistra, located at the foot of the Medvednica mountains.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "The highest summit of the Medvednica mountains and a popular excursion spot near Zagreb.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "A historic silver mine on Medvednica, now open to visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "A viewpoint in the Medvednica Nature Park offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "A well-known viewpoint located near the Grafičar mountain hut on Medvednica.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "This Catholic church is located on the Medvednica mountain near Zagreb.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Medvednica", hu: "Medve-hegysÃ©g", ro: "Medvednica", en: "Medvednica"},
@@ -693,7 +1035,232 @@ imageHint: "Neretva delta mandarin fields",
     },
     image: "/poi-images/croatia-neretva-delta-nature-v2.webp",
 },  {
-    id: "croatia-rastoke-falls-nature-v2",
+    id: "croatia-rastoke-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Sluin",
+                  "text": "Die historischen Überreste der Altstadt und Befestigungsanlagen von Slunj bei Rastoke.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Ein Berggipfel in der malerischen Region Rastoke, der einen Blick auf die Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Ein Totempfahl in Rastoke, der an die Dreharbeiten der Winnetou-Filme in dieser Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "Die Ruinen der mittelalterlichen Festung Slunj, die einen Panoramablick über Rastoke bieten.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Ein Aussichtspunkt auf das historische Dorf Rastoke, das für seine Wassermühlen und Wasserfälle bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Getreidelager aus napoleonischen Zeiten",
+                  "text": "Überreste eines alten Lagers aus der napoleonischen Zeit in der Nähe von Rastoke.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Slovin",
+                  "text": "Slunj történelmi óvárosának és erődítményeinek maradványai Rastoke közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Egy hegycsúcs a festői Rastoke régióban, amely kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Egy Winnetou-totemoszlop Rastokéban, amely a régióban forgatott Winnetou-filmeknek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "A középkori Szluin várának romjai, ahonnan panorámás kilátás nyílik Rastoke környékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Kilátópont Rastoke történelmi falujára, amely vízimalmairól és vízeséseiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Napoleonov magazin",
+                  "text": "Egy régi napóleoni korabeli raktár maradványai Rastoke közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Slovin",
+                  "text": "Rămășițele istorice ale orașului vechi și fortificațiile din Slunj, lângă Rastoke.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Un vârf muntos în regiunea pitorească Rastoke, oferind o panoramă asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Un totem în Rastoke ce amintește de ecranizările filmelor Winnetou realizate în această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "Ruinele cetății medievale Slunj, oferind o vedere panoramică asupra zonei Rastoke.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Un punct de observație asupra satului istoric Rastoke, cunoscut pentru morile de apă și cascadele sale.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Napoleonov magazin",
+                  "text": "Rămășițele unui vechi depozit din epoca napoleoniană situat lângă Rastoke.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Town of Slunj",
+                  "text": "The historical remains of the old town and fortifications of Slunj near Rastoke.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "A mountain peak in the scenic Rastoke region offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "A totem pole in Rastoke commemorating the filming of Winnetou movies in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "The ruins of the medieval Slunj fortress, offering a panoramic view over the Rastoke area.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "A viewpoint overlooking the historic village of Rastoke, famous for its watermills and waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Ancient Napoleonic warehouse",
+                  "text": "Remains of an old warehouse dating back to the Napoleonic era near Rastoke.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "landmark",
     name: { de: "Rastoke", hu: "Rastoke", ro: "Rastoke", en: "Rastoke"},
@@ -1103,7 +1670,268 @@ imageHint: "Stiniva cove Vis island cliffs beach",
     },
     image: "/poi-images/croatia-stiniva-cove-nature-v2.webp",
 },  {
-    id: "croatia-bijele-samarske-rocks-nature-v2",
+    id: "croatia-bijele-samarske-rocks-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bijele i Samarske stijene",
+                  "text": "Ein strenges Naturreservat in Kroatien, bekannt für seine beeindruckenden weißen Karstfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        14.950315,
+                        45.226702
+                  ]
+            },
+            {
+                  "name": "Slonova brada",
+                  "text": "Eine markante Felsformation im Gebiet der Bijele und Samarske stijene.",
+                  "category": "landmark",
+                  "coords": [
+                        14.974628,
+                        45.21972
+                  ]
+            },
+            {
+                  "name": "Ačkova dolina",
+                  "text": "Ein malerischer Ort in der Karstlandschaft des Naturreservats.",
+                  "category": "landmark",
+                  "coords": [
+                        14.960331,
+                        45.228846
+                  ]
+            },
+            {
+                  "name": "Amfiteatar",
+                  "text": "Eine natürliche Felsformation im Reservat, die einem Amphitheater ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948475,
+                        45.217276
+                  ]
+            },
+            {
+                  "name": "Južna barijera",
+                  "text": "Eine natürliche Barriereformation, die Teil des Karstreliefs in diesem Gebiet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948118,
+                        45.216063
+                  ]
+            },
+            {
+                  "name": "Dolina Mira",
+                  "text": "Ein ruhiges Talgebiet innerhalb des Naturreservats Bijele und Samarske stijene.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948626,
+                        45.221106
+                  ]
+            },
+            {
+                  "name": "Frižider",
+                  "text": "Eine lokale Naturbesonderheit oder ein Aussichtspunkt im Gebiet der Bijele und Samarske stijene.",
+                  "category": "landmark",
+                  "coords": [
+                        14.976555,
+                        45.218567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bijele i Samarske stijene",
+                  "text": "Szigorú természetvédelmi terület Horvátországban, amely lenyűgöző fehér karsztszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.950315,
+                        45.226702
+                  ]
+            },
+            {
+                  "name": "Slonova brada",
+                  "text": "Egy jellegzetes sziklaalakzat a Bijele i Samarske stijene területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.974628,
+                        45.21972
+                  ]
+            },
+            {
+                  "name": "Ačkova dolina",
+                  "text": "Egy festői hely a természetvédelmi terület karsztvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.960331,
+                        45.228846
+                  ]
+            },
+            {
+                  "name": "Amfiteatar",
+                  "text": "Egy amfiteátrumra emlékeztető természetes sziklaalakzat a rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948475,
+                        45.217276
+                  ]
+            },
+            {
+                  "name": "Južna barijera",
+                  "text": "A környék karsztos domborzatának részét képező természetes gátalakzat.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948118,
+                        45.216063
+                  ]
+            },
+            {
+                  "name": "Dolina Mira",
+                  "text": "Egy nyugodt völgy a Bijele i Samarske stijene természetvédelmi területen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948626,
+                        45.221106
+                  ]
+            },
+            {
+                  "name": "Frižider",
+                  "text": "Helyi természeti jelenség vagy kilátópont a Bijele i Samarske stijene területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.976555,
+                        45.218567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bijele i Samarske stijene",
+                  "text": "O rezervație naturală strictă din Croația, cunoscută pentru formațiunile sale impresionante de stânci carstice albe.",
+                  "category": "natural",
+                  "coords": [
+                        14.950315,
+                        45.226702
+                  ]
+            },
+            {
+                  "name": "Slonova brada",
+                  "text": "O formațiune stâncoasă distinctivă în zona Bijele și Samarske Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        14.974628,
+                        45.21972
+                  ]
+            },
+            {
+                  "name": "Ačkova dolina",
+                  "text": "Un loc pitoresc situat în peisajul carstic al rezervației naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        14.960331,
+                        45.228846
+                  ]
+            },
+            {
+                  "name": "Amfiteatar",
+                  "text": "O formațiune stâncoasă naturală care seamănă cu un amfiteatru în rezervație.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948475,
+                        45.217276
+                  ]
+            },
+            {
+                  "name": "Južna barijera",
+                  "text": "O formațiune de barieră naturală, parte a reliefului carstic din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948118,
+                        45.216063
+                  ]
+            },
+            {
+                  "name": "Dolina Mira",
+                  "text": "O vale liniștită în cadrul rezervației naturale Bijele și Samarske Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948626,
+                        45.221106
+                  ]
+            },
+            {
+                  "name": "Frižider",
+                  "text": "O caracteristică naturală locală sau un punct de belvedere în zona Bijele și Samarske Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        14.976555,
+                        45.218567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bijele i Samarske stijene",
+                  "text": "A strict nature reserve in Croatia known for its impressive white karst rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        14.950315,
+                        45.226702
+                  ]
+            },
+            {
+                  "name": "Slonova brada",
+                  "text": "A distinctive rock formation within the Bijele and Samarske rocks area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.974628,
+                        45.21972
+                  ]
+            },
+            {
+                  "name": "Ačkova dolina",
+                  "text": "A scenic spot located within the karst landscape of the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        14.960331,
+                        45.228846
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A natural rock formation resembling an amphitheatre in the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948475,
+                        45.217276
+                  ]
+            },
+            {
+                  "name": "Južna barijera",
+                  "text": "A natural barrier formation part of the karst relief in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948118,
+                        45.216063
+                  ]
+            },
+            {
+                  "name": "Peace Valley",
+                  "text": "A tranquil valley area within the Bijele and Samarske rocks nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        14.948626,
+                        45.221106
+                  ]
+            },
+            {
+                  "name": "Fridge",
+                  "text": "A local natural feature or viewpoint in the Bijele and Samarske rocks area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.976555,
+                        45.218567
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Bijele und Samarske stijene", hu: "Bijele Ã©s Samarske stijene", ro: "StÃ¢ncile Bijele È™i Samarske", en: "Bijele and Samarske Rocks"},
@@ -1546,7 +2374,196 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
       fr: ["La surface de l'eau se situe à 13 mètres au-dessus du niveau de la mer.", "Le point le plus profond du lac se trouve à 74 mètres sous la surface de l'eau.", "Le fond du lac est à 61 mètres sous le niveau de la mer (cryptodépression).", "Le plan d'eau s'étend sur une superficie de 5,5 kilomètres carrés.", "Le lac contient un volume d'eau d'environ 220 millions de mètres cubes.", "L'accès à la zone rive est strictement interdit pour des raisons de protection de l'eau potable."],
     }, image: "/poi-images/croatia-vrana-lake-cres-nature-v2.webp"},
   {
-    id: "croatia-jankovac-valley-nature-v2",
+    id: "croatia-jankovac-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Papuk",
+                  "text": "Ein geschütztes Gebiet in Slawonien, das für seine dichten Wälder und geologische Vielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Tisovac",
+                  "text": "Ein markanter Gipfel im Papuk-Gebirge, der Wanderern weite Ausblicke über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.687616,
+                        45.494947
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Ein Gedenkort im Jankovac-Tal, der an die Partisanenbewegungen der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Klak",
+                  "text": "Die ruinen einer mittelalterlichen Befestigungsanlage auf einem Hügel im Papuk-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        17.708141,
+                        45.539137
+                  ]
+            },
+            {
+                  "name": "crkva svetog Georgija",
+                  "text": "Eine historische orthodoxe Kirche in Slatinski Drenovac, ein kulturelles Erbe der Region.",
+                  "category": "religious",
+                  "coords": [
+                        17.704439,
+                        45.546131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "Védett terület Szlavóniában, amely sűrű erdőiről és geológiai sokszínűségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Tisovac",
+                  "text": "A Papuk-hegység egyik csúcsa, amely tágas kilátást nyújt a túrázóknak a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        17.687616,
+                        45.494947
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Emlékhely a Jankovac-völgyben, amely a régió partizánmozgalmaira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Klak",
+                  "text": "Egy középkori erődítmény romjai a Papuk-hegység egyik dombján.",
+                  "category": "historical",
+                  "coords": [
+                        17.708141,
+                        45.539137
+                  ]
+            },
+            {
+                  "name": "crkva svetog Georgija",
+                  "text": "Történelmi ortodox templom Slatinski Drenovacban, a régió kulturális öröksége.",
+                  "category": "religious",
+                  "coords": [
+                        17.704439,
+                        45.546131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "O zonă protejată din Slavonia, cunoscută pentru pădurile sale dese și diversitatea geologică.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Tisovac",
+                  "text": "Un vârf proeminent din munții Papuk, oferind drumeților vederi largi asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        17.687616,
+                        45.494947
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Un loc memorial în Valea Jankovac, care amintește de mișcările de partizani din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Klak",
+                  "text": "Ruinele unei fortificații medievale situate pe un deal din munții Papuk.",
+                  "category": "historical",
+                  "coords": [
+                        17.708141,
+                        45.539137
+                  ]
+            },
+            {
+                  "name": "crkva svetog Georgija",
+                  "text": "O biserică ortodoxă istorică din Slatinski Drenovac, un monument de patrimoniu al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        17.704439,
+                        45.546131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nature Park Papuk",
+                  "text": "A protected area in Slavonia known for its dense forests and geological diversity.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Tisovac",
+                  "text": "A prominent peak in the Papuk mountains, offering hikers wide views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.687616,
+                        45.494947
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "A memorial site in the Jankovac Valley commemorating the partisan movements of the region.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Klak",
+                  "text": "The ruins of a medieval fortification situated on a hill in the Papuk mountains.",
+                  "category": "historical",
+                  "coords": [
+                        17.708141,
+                        45.539137
+                  ]
+            },
+            {
+                  "name": "crkva svetog Georgija",
+                  "text": "A historic Orthodox church in Slatinski Drenovac, a heritage site of the region.",
+                  "category": "religious",
+                  "coords": [
+                        17.704439,
+                        45.546131
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "valley",
     name: { de: "Jankovac-Tal", hu: "Jankovác-völgy", ro: "Valea Jankovac", en: "Jankovac Valley" },

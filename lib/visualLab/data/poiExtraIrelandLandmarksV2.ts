@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const irelandLandmarksV2: POI[] = [
 
   {
-    id: "ireland-dunguaire-castle-landmarks-v2",
+    id: "ireland-dunguaire-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunguaire Castle",
+                  "text": "Ein malerisches Turmhaus aus dem 16. Jahrhundert an der Galway Bay in Irland.",
+                  "category": "castle",
+                  "coords": [
+                        -8.926289,
+                        53.142184
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Eine katholische Kirche in Kinvara, in unmittelbarer Nähe zum historischen Dunguaire Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.941384,
+                        53.13955
+                  ]
+            },
+            {
+                  "name": "Saint Colman's",
+                  "text": "Eine religiöse Stätte in der Nähe von Kinvara und Dunguaire Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.955287,
+                        53.140369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunguaire Castle",
+                  "text": "Festői 16. századi toronyház a Galway-öböl partján, Írországban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.926289,
+                        53.142184
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Katolikus templom Kinvarában, a történelmi Dunguaire-vár közvetlen közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.941384,
+                        53.13955
+                  ]
+            },
+            {
+                  "name": "Saint Colman's",
+                  "text": "Vallási helyszín Kinvara és a Dunguaire-vár közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.955287,
+                        53.140369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunguaire Castle",
+                  "text": "O casă-turn pitorească din secolul al XVI-lea, pe malul golfului Galway din Irlanda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.926289,
+                        53.142184
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "O biserică catolică din Kinvara, în imediata apropiere a castelului istoric Dunguaire.",
+                  "category": "religious",
+                  "coords": [
+                        -8.941384,
+                        53.13955
+                  ]
+            },
+            {
+                  "name": "Saint Colman's",
+                  "text": "Un lăcaș de cult situat în apropiere de Kinvara și castelul Dunguaire.",
+                  "category": "religious",
+                  "coords": [
+                        -8.955287,
+                        53.140369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunguaire Castle",
+                  "text": "A picturesque 16th-century tower house on the shores of Galway Bay in Ireland.",
+                  "category": "castle",
+                  "coords": [
+                        -8.926289,
+                        53.142184
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "A Catholic church in Kinvara, in the immediate vicinity of the historic Dunguaire Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.941384,
+                        53.13955
+                  ]
+            },
+            {
+                  "name": "Saint Colman's",
+                  "text": "A religious site located near Kinvara and Dunguaire Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.955287,
+                        53.140369
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Dunguaire Castle", hu: "Dunguaire kastély", ro: "Castelul Dunguaire", en: "Dunguaire Castle" },
@@ -183,7 +300,232 @@ export const irelandLandmarksV2: POI[] = [
     image: "/poi-images/ireland-tall-ship-jeanie-johnston-landmarks-v2.webp",
   },
   {
-    id: "ireland-lismore-castle-landmarks-v2",
+    id: "ireland-lismore-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballysaggartmore Towers",
+                  "text": "Zwei kunstvolle gotische Torbauten in der Nähe von Lismore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.969729,
+                        52.152504
+                  ]
+            },
+            {
+                  "name": "Lismore Castle",
+                  "text": "Ein historisches Schloss in Irland und Sitz der Herzöge von Devonshire.",
+                  "category": "castle",
+                  "coords": [
+                        -7.932505,
+                        52.140724
+                  ]
+            },
+            {
+                  "name": "Gatehouse Ruins",
+                  "text": "Überreste eines historischen Torhauses in Lismore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.963055,
+                        52.147257
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "Ein herrschaftliches Anwesen in der Nähe von Lismore Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Church",
+                  "text": "Eine Kirche, die dem heiligen Carthach in Lismore gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930469,
+                        52.135903
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Cathedral",
+                  "text": "Eine bedeutende Kathedrale der Church of Ireland in Lismore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.929304,
+                        52.139803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballysaggartmore Towers",
+                  "text": "Két díszes gótikus kapuépítmény Lismore közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.969729,
+                        52.152504
+                  ]
+            },
+            {
+                  "name": "Lismore Castle",
+                  "text": "Történelmi vár Írországban, a Devonshire-i hercegek székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        -7.932505,
+                        52.140724
+                  ]
+            },
+            {
+                  "name": "Gatehouse Ruins",
+                  "text": "Egy történelmi kapuépület maradványai Lismore-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.963055,
+                        52.147257
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "Uradalmi birtok a Lismore-i vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Church",
+                  "text": "Szent Carthachnak szentelt templom Lismore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930469,
+                        52.135903
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Cathedral",
+                  "text": "Az Ír Egyház jelentős székesegyháza Lismore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.929304,
+                        52.139803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballysaggartmore Towers",
+                  "text": "Două porți gotice elaborate situate lângă Lismore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.969729,
+                        52.152504
+                  ]
+            },
+            {
+                  "name": "Lismore Castle",
+                  "text": "Un castel istoric din Irlanda și reședința ducilor de Devonshire.",
+                  "category": "castle",
+                  "coords": [
+                        -7.932505,
+                        52.140724
+                  ]
+            },
+            {
+                  "name": "Gatehouse Ruins",
+                  "text": "Rămășițele unei porți istorice în Lismore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.963055,
+                        52.147257
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "O reședință nobiliară în apropiere de Castelul Lismore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Church",
+                  "text": "O biserică dedicată Sfântului Carthach în Lismore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930469,
+                        52.135903
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Cathedral",
+                  "text": "O catedrală importantă a Bisericii Irlandei din Lismore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.929304,
+                        52.139803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballysaggartmore Towers",
+                  "text": "Two ornate Gothic gate lodges located near Lismore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.969729,
+                        52.152504
+                  ]
+            },
+            {
+                  "name": "Lismore Castle",
+                  "text": "A historic castle in Ireland and the seat of the Dukes of Devonshire.",
+                  "category": "castle",
+                  "coords": [
+                        -7.932505,
+                        52.140724
+                  ]
+            },
+            {
+                  "name": "Gatehouse Ruins",
+                  "text": "The remains of a historic gatehouse in Lismore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.963055,
+                        52.147257
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "A manor house located near Lismore Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Church",
+                  "text": "A church dedicated to Saint Carthage in Lismore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930469,
+                        52.135903
+                  ]
+            },
+            {
+                  "name": "Saint Carthage's Cathedral",
+                  "text": "A significant Church of Ireland cathedral in Lismore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.929304,
+                        52.139803
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Lismore Castle", hu: "Lismore kastély", ro: "Castelul Lismore", en: "Lismore Castle" },
@@ -948,7 +1290,304 @@ export const irelandLandmarksV2: POI[] = [
     image: "/poi-images/ireland-tralee-friary-landmarks-v2.webp",
   },
   {
-    id: "ireland-ross-abbey-landmarks-v2",
+    id: "ireland-ross-abbey-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinlough Castle",
+                  "text": "Ein spätmittelalterliches Turmhaus aus dem 16. Jahrhundert in der Nähe von Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.116504,
+                        53.498541
+                  ]
+            },
+            {
+                  "name": "Ross Errilly Friary",
+                  "text": "Ein bemerkenswert gut erhaltenes mittelalterliches Franziskanerkloster und Nationaldenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        -9.131634,
+                        53.47966
+                  ]
+            },
+            {
+                  "name": "Moyne Castle",
+                  "text": "Eine historische Burgruine in der Umgebung von Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.120458,
+                        53.488595
+                  ]
+            },
+            {
+                  "name": "Cloghanower Castle (ruins)",
+                  "text": "Die Überreste einer alten Burg in der Nähe von Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.091002,
+                        53.450977
+                  ]
+            },
+            {
+                  "name": "Headford Castle",
+                  "text": "Ein historisches Schlossgebäude im Zentrum von Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.099562,
+                        53.468011
+                  ]
+            },
+            {
+                  "name": "Killursa Church",
+                  "text": "Eine alte kirchliche Stätte mit Ruinen aus dem frühen Mittelalter.",
+                  "category": "religious",
+                  "coords": [
+                        -9.144924,
+                        53.467738
+                  ]
+            },
+            {
+                  "name": "John the Baptist Church",
+                  "text": "Eine dem heiligen Johannes dem Täufer geweihte Kirche in der Nähe von Ross Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -9.09311,
+                        53.473843
+                  ]
+            },
+            {
+                  "name": "Kinlough Church",
+                  "text": "Ein historisches Kirchengebäude in der Gegend von Kinlough.",
+                  "category": "religious",
+                  "coords": [
+                        -9.114877,
+                        53.498375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinlough Castle",
+                  "text": "16. századi késő középkori toronyház Headford közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.116504,
+                        53.498541
+                  ]
+            },
+            {
+                  "name": "Ross Errilly Friary",
+                  "text": "Kiváló állapotban fennmaradt középkori ferences kolostor és nemzeti műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        -9.131634,
+                        53.47966
+                  ]
+            },
+            {
+                  "name": "Moyne Castle",
+                  "text": "Történelmi várrom Ross Abbey környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -9.120458,
+                        53.488595
+                  ]
+            },
+            {
+                  "name": "Cloghanower Castle (ruins)",
+                  "text": "Egy régi vár maradványai Ross Abbey közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.091002,
+                        53.450977
+                  ]
+            },
+            {
+                  "name": "Headford Castle",
+                  "text": "Történelmi várkastély Headford központjában.",
+                  "category": "castle",
+                  "coords": [
+                        -9.099562,
+                        53.468011
+                  ]
+            },
+            {
+                  "name": "Killursa Church",
+                  "text": "Ősi egyházi helyszín kora középkori romokkal.",
+                  "category": "religious",
+                  "coords": [
+                        -9.144924,
+                        53.467738
+                  ]
+            },
+            {
+                  "name": "John the Baptist Church",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom Ross Abbey közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.09311,
+                        53.473843
+                  ]
+            },
+            {
+                  "name": "Kinlough Church",
+                  "text": "Történelmi templomépület Kinlough környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.114877,
+                        53.498375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinlough Castle",
+                  "text": "O casă-turn medievală târzie din secolul al XVI-lea situată lângă Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.116504,
+                        53.498541
+                  ]
+            },
+            {
+                  "name": "Ross Errilly Friary",
+                  "text": "O mănăstire franciscană medievală remarcabil de bine conservată și monument național.",
+                  "category": "religious",
+                  "coords": [
+                        -9.131634,
+                        53.47966
+                  ]
+            },
+            {
+                  "name": "Moyne Castle",
+                  "text": "O ruină de castel istoric în împrejurimile Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.120458,
+                        53.488595
+                  ]
+            },
+            {
+                  "name": "Cloghanower Castle (ruins)",
+                  "text": "Resturile unui vechi castel situat lângă Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.091002,
+                        53.450977
+                  ]
+            },
+            {
+                  "name": "Headford Castle",
+                  "text": "O clădire istorică de castel în centrul localității Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.099562,
+                        53.468011
+                  ]
+            },
+            {
+                  "name": "Killursa Church",
+                  "text": "Un vechi sit ecleziastic cu ruine ce datează din perioada medievală timpurie.",
+                  "category": "religious",
+                  "coords": [
+                        -9.144924,
+                        53.467738
+                  ]
+            },
+            {
+                  "name": "John the Baptist Church",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul situată lângă Ross Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -9.09311,
+                        53.473843
+                  ]
+            },
+            {
+                  "name": "Kinlough Church",
+                  "text": "O clădire istorică de biserică în zona Kinlough.",
+                  "category": "religious",
+                  "coords": [
+                        -9.114877,
+                        53.498375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinlough Castle",
+                  "text": "A late medieval 16th-century tower house located near Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.116504,
+                        53.498541
+                  ]
+            },
+            {
+                  "name": "Ross Errilly Friary",
+                  "text": "A remarkably well-preserved medieval Franciscan friary and National Monument.",
+                  "category": "religious",
+                  "coords": [
+                        -9.131634,
+                        53.47966
+                  ]
+            },
+            {
+                  "name": "Moyne Castle",
+                  "text": "A historic castle ruin in the surroundings of Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.120458,
+                        53.488595
+                  ]
+            },
+            {
+                  "name": "Cloghanower Castle (ruins)",
+                  "text": "The remains of an old castle located near Ross Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -9.091002,
+                        53.450977
+                  ]
+            },
+            {
+                  "name": "Headford Castle",
+                  "text": "A historic castle building in the center of Headford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.099562,
+                        53.468011
+                  ]
+            },
+            {
+                  "name": "Killursa Church",
+                  "text": "An ancient ecclesiastical site with ruins dating back to the early medieval period.",
+                  "category": "religious",
+                  "coords": [
+                        -9.144924,
+                        53.467738
+                  ]
+            },
+            {
+                  "name": "John the Baptist Church",
+                  "text": "A church dedicated to Saint John the Baptist located near Ross Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -9.09311,
+                        53.473843
+                  ]
+            },
+            {
+                  "name": "Kinlough Church",
+                  "text": "A historic church building in the Kinlough area.",
+                  "category": "religious",
+                  "coords": [
+                        -9.114877,
+                        53.498375
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Ross Abbey", hu: "Ross apátság", ro: "Abația Ross", en: "Ross Abbey" },

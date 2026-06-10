@@ -48,7 +48,196 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-kongernes-jelling-center-history-v2.webp",
   },
   {
-    id: "denmark-borreby-castle-history-v2",
+    id: "denmark-borreby-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holsteinborg Gods",
+                  "text": "Holsteinborg Gods ist ein historisches Herrenhaus bei Borreby Castle, das oft von Hans Christian Andersen besucht wurde.",
+                  "category": "castle",
+                  "coords": [
+                        11.464253,
+                        55.214523
+                  ]
+            },
+            {
+                  "name": "Holsteinborg Nor Vildtreservat",
+                  "text": "Das Holsteinborg Nor Vildtreservat ist ein Naturschutzgebiet, das Lebensraum für zahlreiche Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.454305,
+                        55.205131
+                  ]
+            },
+            {
+                  "name": "Fuirendal",
+                  "text": "Fuirendal ist ein historisches Herrenhaus in der Region Borreby Castle mit einer langen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        11.511928,
+                        55.249251
+                  ]
+            },
+            {
+                  "name": "Snedinge",
+                  "text": "Snedinge ist ein dänisches Herrenhaus in der Nähe von Borreby Castle, das für seine traditionelle Architektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.426766,
+                        55.224946
+                  ]
+            },
+            {
+                  "name": "Ørslev Kirke",
+                  "text": "Die Kirche von Ørslev ist ein Sakralbau bei Borreby Castle, der für seine mittelalterlichen Wandmalereien bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.405762,
+                        55.223932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holsteinborg Gods",
+                  "text": "A Holsteinborg Gods egy történelmi kastély Borreby Castle közelében, amelyet gyakran látogatott Hans Christian Andersen.",
+                  "category": "castle",
+                  "coords": [
+                        11.464253,
+                        55.214523
+                  ]
+            },
+            {
+                  "name": "Holsteinborg Nor Vildtreservat",
+                  "text": "A Holsteinborg Nor Vildtreservat egy természetvédelmi terület, amely számos madárfaj számára nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        11.454305,
+                        55.205131
+                  ]
+            },
+            {
+                  "name": "Fuirendal",
+                  "text": "Fuirendal egy történelmi udvarház Borreby Castle régiójában, amely jelentős múltra tekint vissza.",
+                  "category": "historical",
+                  "coords": [
+                        11.511928,
+                        55.249251
+                  ]
+            },
+            {
+                  "name": "Snedinge",
+                  "text": "Snedinge egy dán udvarház Borreby Castle közelében, amely hagyományos építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.426766,
+                        55.224946
+                  ]
+            },
+            {
+                  "name": "Ørslev Kirke",
+                  "text": "Az Ørslev templom egy szakrális épület Borreby Castle közelében, amely középkori falfestményeiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        11.405762,
+                        55.223932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holsteinborg Gods",
+                  "text": "Holsteinborg Gods este un conac istoric de lângă Borreby Castle, vizitat adesea de Hans Christian Andersen.",
+                  "category": "castle",
+                  "coords": [
+                        11.464253,
+                        55.214523
+                  ]
+            },
+            {
+                  "name": "Holsteinborg Nor Vildtreservat",
+                  "text": "Holsteinborg Nor Vildtreservat este o rezervație naturală care oferă habitat pentru numeroase specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        11.454305,
+                        55.205131
+                  ]
+            },
+            {
+                  "name": "Fuirendal",
+                  "text": "Fuirendal este un conac istoric din regiunea Borreby Castle, având o istorie îndelungată.",
+                  "category": "historical",
+                  "coords": [
+                        11.511928,
+                        55.249251
+                  ]
+            },
+            {
+                  "name": "Snedinge",
+                  "text": "Snedinge este un conac danez de lângă Borreby Castle, cunoscut pentru arhitectura sa tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        11.426766,
+                        55.224946
+                  ]
+            },
+            {
+                  "name": "Ørslev Kirke",
+                  "text": "Biserica Ørslev este un lăcaș de cult de lângă Borreby Castle, renumit pentru picturile sale murale medievale.",
+                  "category": "religious",
+                  "coords": [
+                        11.405762,
+                        55.223932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holsteinborg Gods",
+                  "text": "Holsteinborg Gods is a historic manor house near Borreby Castle, frequently visited by Hans Christian Andersen.",
+                  "category": "castle",
+                  "coords": [
+                        11.464253,
+                        55.214523
+                  ]
+            },
+            {
+                  "name": "Holsteinborg Nor Vildtreservat",
+                  "text": "Holsteinborg Nor Vildtreservat is a nature reserve providing habitat for numerous bird species.",
+                  "category": "natural",
+                  "coords": [
+                        11.454305,
+                        55.205131
+                  ]
+            },
+            {
+                  "name": "Fuirendal",
+                  "text": "Fuirendal is a historic manor house in the Borreby Castle region with a long-standing history.",
+                  "category": "historical",
+                  "coords": [
+                        11.511928,
+                        55.249251
+                  ]
+            },
+            {
+                  "name": "Snedinge",
+                  "text": "Snedinge is a Danish manor house near Borreby Castle, known for its traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        11.426766,
+                        55.224946
+                  ]
+            },
+            {
+                  "name": "Ørslev Kirke",
+                  "text": "Ørslev Church is a religious building near Borreby Castle, famous for its medieval murals.",
+                  "category": "religious",
+                  "coords": [
+                        11.405762,
+                        55.223932
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Borreby", hu: "Borreby kastély", ro: "Castelul Borreby", en: "Borreby Castle" },
@@ -138,7 +327,376 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-svendborg-history-museum-v2.webp",
   },
   {
-    id: "denmark-spottrup-castle-history-v2", "sights": {"de": [{"name": "Nymølle Strand", "text": "Versteckt in der Umgebung von Schloss Spøttrup entfaltet sich der Nymølle Strand als ein ruhiger und rustikaler Küstenhafen. Die abgeschiedene Umgebung bietet ein tiefes Gefühl von Frieden und spricht diejenigen an, die eine Reise in die Vergangenheit machen möchten. Man kann friedlich im flachen Wasser waten, die Küste erkunden oder einfach die historische Ruhe in sich aufnehmen. Ein heiterer Nachmittagsspaziergang fühlt sich hier an wie ein Spaziergang durch ein lebendiges Gemälde.", "category": "recreational", "coords": [8.789732, 56.678092]}, {"name": "Vadum Strand", "text": "Der Vadum Strand liegt in der Nähe des historischen Geländes von Schloss Spøttrup und ist ein unberührter Abschnitt maritimer Natur. Ein Gefühl zeitloser Ruhe durchdringt die Luft und macht ihn wunderbar für eine Pause von modernen Ablenkungen. Das Ufer eignet sich hervorragend für erfrischende Bäder, das Beobachten von Küstenvögeln und ruhiges Sonnenbaden. Ein wärmeres Kleidungsstück einzupacken, ist ratsam, wenn man bis in die kühleren Küstenabende bleiben möchte.", "category": "recreational", "coords": [8.758379, 56.641488]}, {"name": "Ålbæk Strand", "text": "Als weiteres reizvolles Küstenfenster in der Nähe von Schloss Spøttrup lädt der Ålbæk Strand Besucher in seine natürliche Umarmung ein. Die Atmosphäre ist entschieden ruhig und erdig und spiegelt den ländlichen Charme der Umgebung wider. Gäste sind willkommen, in den kühlen Küstengewässern zu schwimmen, den Strand nach Muscheln abzusuchen oder sich einfach im Sand zu entspannen. Es ist ein fantastischer Ort, um nach einer Burgbesichtigung die salzige Luft einzuatmen.", "category": "recreational", "coords": [8.728049, 56.625132]}], "hu": [{"name": "Nymølle Strand", "text": "A Spøttrup kastély környékén elrejtett Nymølle Strand csendes és rusztikus tengerparti menedékként tárul elénk. Az eldugott környezet a béke mély érzését nyújtja, ami vonzza azokat, akik szeretnének visszalépni az időben. Békésen gázolhat a sekély vízben, felfedezheti a partvonalat, vagy egyszerűen csak magába szívhatja a történelmi nyugalmat. Egy derűs délutáni séta itt olyan érzés, mintha egy élő festményen barangolnánk.", "category": "recreational", "coords": [8.789732, 56.678092]}, {"name": "Vadum Strand", "text": "A Spøttrup kastély történelmi területéhez közel fekvő Vadum Strand a tengerparti természet érintetlen szakasza. Az időtlen nyugalom érzése hatja át a levegőt, ami csodálatossá teszi a modern zavaró tényezőktől való elszakadáshoz. A part kiválóan alkalmas frissítő csobbanásokra, parti madarak megfigyelésére és csendes napozásra. Érdemes egy meleg réteget is becsomagolni, ha a hűvösebb tengerparti estéken is maradni szeretnénk.", "category": "recreational", "coords": [8.758379, 56.641488]}, {"name": "Ålbæk Strand", "text": "A Spøttrup kastély közelében egy újabb elragadó tengerparti ablakot nyitó Ålbæk Strand természetes ölelésébe invitálja a látogatókat. A légkör határozottan nyugodt és földhözragadt, tükrözve a környék vidéki báját. A vendégek szívesen úsznak a hűvös parti vizekben, kagylókat keresnek a tengerparton, vagy egyszerűen csak lazítanak a homokban. Fantasztikus hely, hogy a kastély bejárása után belélegezzük a sós levegőt.", "category": "recreational", "coords": [8.728049, 56.625132]}], "ro": [{"name": "Nymølle Strand", "text": "Ascunsă în vecinătatea Castelului Spøttrup, Nymølle Strand se desfășoară ca un refugiu de coastă liniștit și rustic. Mediul retras oferă un sentiment profund de pace, atrăgând pe cei care doresc să facă un pas înapoi în timp. Puteți să vă plimbați liniștit în apele puțin adânci, să explorați țărmul sau pur și simplu să absorbiți liniștea istorică. O plimbare senină de după-amiază aici se simte ca și cum ai rătăci printr-o pictură vie.", "category": "recreational", "coords": [8.789732, 56.678092]}, {"name": "Vadum Strand", "text": "Așezată aproape de terenurile istorice ale Castelului Spøttrup, Vadum Strand este o porțiune imaculată a naturii la malul mării. Un sentiment de calm atemporal pătrunde în aer, făcându-l minunat pentru o pauză de la distragerile moderne. Țărmul este excelent pentru băi răcoritoare, observarea păsărilor de coastă și plajă liniștită. Împachetarea unui strat cald este recomandabilă pentru a zăbovi în serile de coastă mai răcoroase.", "category": "recreational", "coords": [8.758379, 56.641488]}, {"name": "Ålbæk Strand", "text": "Oferind încă o fereastră de coastă încântătoare lângă Castelul Spøttrup, Ålbæk Strand invită vizitatorii în îmbrățișarea sa naturală. Atmosfera este hotărât calmă și pământească, reflectând farmecul rural al zonei înconjurătoare. Oaspeții sunt bineveniți să înoate în apele răcoroase ale coastei, să caute scoici pe plajă sau pur și simplu să se relaxeze pe nisip. Este un loc fantastic pentru a respira aerul sărat după un tur al castelului.", "category": "recreational", "coords": [8.728049, 56.625132]}], "en": [{"name": "Nymølle Strand", "text": "Hidden away in the vicinity of Spøttrup Castle, Nymølle Strand unfolds as a quiet and rustic coastal haven. The secluded environment offers a profound sense of peace, appealing to those who wish to step back in time. You can peacefully wade in the shallow waters, explore the shoreline, or simply absorb the historical tranquility. A serene afternoon walk here feels like wandering through a living painting.", "category": "recreational", "coords": [8.789732, 56.678092]}, {"name": "Vadum Strand", "text": "Resting close to the historic grounds of Spøttrup Castle, Vadum Strand is a pristine stretch of seaside nature. A feeling of timeless calmness permeates the air, making it wonderful for a break from modern distractions. The shore is excellent for refreshing dips, observing coastal birds, and quiet sunbathing. Packing a warm layer is advisable for lingering into the cooler coastal evenings.", "category": "recreational", "coords": [8.758379, 56.641488]}, {"name": "Ålbæk Strand", "text": "Providing yet another delightful coastal window near Spøttrup Castle, Ålbæk Strand invites visitors into its natural embrace. The atmosphere is resolutely calm and earthy, reflecting the rural charm of the surrounding area. Guests are welcome to swim in the cool coastal waters, comb the beach for shells, or simply unwind on the sand. It is a fantastic spot to breathe in the salty air after a tour of the castle.", "category": "recreational", "coords": [8.728049, 56.625132]}]},
+    id: "denmark-spottrup-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "Versteckt in der Umgebung von Schloss Spøttrup entfaltet sich der Nymølle Strand als ein ruhiger und rustikaler Küstenhafen. Die abgeschiedene Umgebung bietet ein tiefes Gefühl von Frieden und spricht diejenigen an, die eine Reise in die Vergangenheit machen möchten. Man kann friedlich im flachen Wasser waten, die Küste erkunden oder einfach die historische Ruhe in sich aufnehmen. Ein heiterer Nachmittagsspaziergang fühlt sich hier an wie ein Spaziergang durch ein lebendiges Gemälde.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "Der Vadum Strand liegt in der Nähe des historischen Geländes von Schloss Spøttrup und ist ein unberührter Abschnitt maritimer Natur. Ein Gefühl zeitloser Ruhe durchdringt die Luft und macht ihn wunderbar für eine Pause von modernen Ablenkungen. Das Ufer eignet sich hervorragend für erfrischende Bäder, das Beobachten von Küstenvögeln und ruhiges Sonnenbaden. Ein wärmeres Kleidungsstück einzupacken, ist ratsam, wenn man bis in die kühleren Küstenabende bleiben möchte.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Als weiteres reizvolles Küstenfenster in der Nähe von Schloss Spøttrup lädt der Ålbæk Strand Besucher in seine natürliche Umarmung ein. Die Atmosphäre ist entschieden ruhig und erdig und spiegelt den ländlichen Charme der Umgebung wider. Gäste sind willkommen, in den kühlen Küstengewässern zu schwimmen, den Strand nach Muscheln abzusuchen oder sich einfach im Sand zu entspannen. Es ist ein fantastischer Ort, um nach einer Burgbesichtigung die salzige Luft einzuatmen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Antike Grabhügel oder Versammlungsstätte in der Nähe von Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812279,
+                        56.61727
+                  ]
+            },
+            {
+                  "name": "Valshedehøje",
+                  "text": "Gruppe prähistorischer Grabhügel in der Region Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.808671,
+                        56.633341
+                  ]
+            },
+            {
+                  "name": "Uglhøj",
+                  "text": "Prähistorischer Grabhügel in der Umgebung von Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812658,
+                        56.643695
+                  ]
+            },
+            {
+                  "name": "Røgel",
+                  "text": "Archäologische Überreste einer prähistorischen Stätte bei Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.81421,
+                        56.642872
+                  ]
+            },
+            {
+                  "name": "Dybdalshøje",
+                  "text": "Antike Hügel von archäologischem Interesse im Gebiet von Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.815968,
+                        56.644099
+                  ]
+            },
+            {
+                  "name": "Vieshøj",
+                  "text": "Prähistorischer Hügel, der als archäologisches Denkmal erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.81368,
+                        56.651304
+                  ]
+            },
+            {
+                  "name": "Rishøj",
+                  "text": "Bedeutender prähistorischer Grabhügel in der Landschaft von Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.814702,
+                        56.651631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "A Spøttrup kastély környékén elrejtett Nymølle Strand csendes és rusztikus tengerparti menedékként tárul elénk. Az eldugott környezet a béke mély érzését nyújtja, ami vonzza azokat, akik szeretnének visszalépni az időben. Békésen gázolhat a sekély vízben, felfedezheti a partvonalat, vagy egyszerűen csak magába szívhatja a történelmi nyugalmat. Egy derűs délutáni séta itt olyan érzés, mintha egy élő festményen barangolnánk.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "A Spøttrup kastély történelmi területéhez közel fekvő Vadum Strand a tengerparti természet érintetlen szakasza. Az időtlen nyugalom érzése hatja át a levegőt, ami csodálatossá teszi a modern zavaró tényezőktől való elszakadáshoz. A part kiválóan alkalmas frissítő csobbanásokra, parti madarak megfigyelésére és csendes napozásra. Érdemes egy meleg réteget is becsomagolni, ha a hűvösebb tengerparti estéken is maradni szeretnénk.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "A Spøttrup kastély közelében egy újabb elragadó tengerparti ablakot nyitó Ålbæk Strand természetes ölelésébe invitálja a látogatókat. A légkör határozottan nyugodt és földhözragadt, tükrözve a környék vidéki báját. A vendégek szívesen úsznak a hűvös parti vizekben, kagylókat keresnek a tengerparton, vagy egyszerűen csak lazítanak a homokban. Fantasztikus hely, hogy a kastély bejárása után belélegezzük a sós levegőt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Ókori sírhalmok vagy gyülekezőhely Spøttrup közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.812279,
+                        56.61727
+                  ]
+            },
+            {
+                  "name": "Valshedehøje",
+                  "text": "Prehisztorikus sírhalmok csoportja a Spøttrup régióban.",
+                  "category": "historical",
+                  "coords": [
+                        8.808671,
+                        56.633341
+                  ]
+            },
+            {
+                  "name": "Uglhøj",
+                  "text": "Prehisztorikus sírhalom Spøttrup környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.812658,
+                        56.643695
+                  ]
+            },
+            {
+                  "name": "Røgel",
+                  "text": "Egy prehisztorikus lelőhely régészeti maradványai Spøttrup közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.81421,
+                        56.642872
+                  ]
+            },
+            {
+                  "name": "Dybdalshøje",
+                  "text": "Régészeti jelentőségű ókori halmok Spøttrup területén.",
+                  "category": "historical",
+                  "coords": [
+                        8.815968,
+                        56.644099
+                  ]
+            },
+            {
+                  "name": "Vieshøj",
+                  "text": "Régészeti műemlékként megőrzött prehisztorikus halom.",
+                  "category": "historical",
+                  "coords": [
+                        8.81368,
+                        56.651304
+                  ]
+            },
+            {
+                  "name": "Rishøj",
+                  "text": "Nevezetes prehisztorikus sírhalom a Spøttrup környéki tájon.",
+                  "category": "historical",
+                  "coords": [
+                        8.814702,
+                        56.651631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "Ascunsă în vecinătatea Castelului Spøttrup, Nymølle Strand se desfășoară ca un refugiu de coastă liniștit și rustic. Mediul retras oferă un sentiment profund de pace, atrăgând pe cei care doresc să facă un pas înapoi în timp. Puteți să vă plimbați liniștit în apele puțin adânci, să explorați țărmul sau pur și simplu să absorbiți liniștea istorică. O plimbare senină de după-amiază aici se simte ca și cum ai rătăci printr-o pictură vie.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "Așezată aproape de terenurile istorice ale Castelului Spøttrup, Vadum Strand este o porțiune imaculată a naturii la malul mării. Un sentiment de calm atemporal pătrunde în aer, făcându-l minunat pentru o pauză de la distragerile moderne. Țărmul este excelent pentru băi răcoritoare, observarea păsărilor de coastă și plajă liniștită. Împachetarea unui strat cald este recomandabilă pentru a zăbovi în serile de coastă mai răcoroase.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Oferind încă o fereastră de coastă încântătoare lângă Castelul Spøttrup, Ålbæk Strand invită vizitatorii în îmbrățișarea sa naturală. Atmosfera este hotărât calmă și pământească, reflectând farmecul rural al zonei înconjurătoare. Oaspeții sunt bineveniți să înoate în apele răcoroase ale coastei, să caute scoici pe plajă sau pur și simplu să se relaxeze pe nisip. Este un loc fantastic pentru a respira aerul sărat după un tur al castelului.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Tumuli antici sau loc de adunare situat lângă Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812279,
+                        56.61727
+                  ]
+            },
+            {
+                  "name": "Valshedehøje",
+                  "text": "Grup de tumuli preistorici în regiunea Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.808671,
+                        56.633341
+                  ]
+            },
+            {
+                  "name": "Uglhøj",
+                  "text": "Tumul preistoric situat în vecinătatea localității Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812658,
+                        56.643695
+                  ]
+            },
+            {
+                  "name": "Røgel",
+                  "text": "Vestigii arheologice ale unui sit preistoric lângă Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.81421,
+                        56.642872
+                  ]
+            },
+            {
+                  "name": "Dybdalshøje",
+                  "text": "Tumuli antici de interes arheologic în zona Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.815968,
+                        56.644099
+                  ]
+            },
+            {
+                  "name": "Vieshøj",
+                  "text": "Tumul preistoric conservat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        8.81368,
+                        56.651304
+                  ]
+            },
+            {
+                  "name": "Rishøj",
+                  "text": "Tumul preistoric remarcabil în peisajul din Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.814702,
+                        56.651631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "Hidden away in the vicinity of Spøttrup Castle, Nymølle Strand unfolds as a quiet and rustic coastal haven. The secluded environment offers a profound sense of peace, appealing to those who wish to step back in time. You can peacefully wade in the shallow waters, explore the shoreline, or simply absorb the historical tranquility. A serene afternoon walk here feels like wandering through a living painting.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "Resting close to the historic grounds of Spøttrup Castle, Vadum Strand is a pristine stretch of seaside nature. A feeling of timeless calmness permeates the air, making it wonderful for a break from modern distractions. The shore is excellent for refreshing dips, observing coastal birds, and quiet sunbathing. Packing a warm layer is advisable for lingering into the cooler coastal evenings.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Providing yet another delightful coastal window near Spøttrup Castle, Ålbæk Strand invites visitors into its natural embrace. The atmosphere is resolutely calm and earthy, reflecting the rural charm of the surrounding area. Guests are welcome to swim in the cool coastal waters, comb the beach for shells, or simply unwind on the sand. It is a fantastic spot to breathe in the salty air after a tour of the castle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Ancient burial mounds or assembly site located near Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812279,
+                        56.61727
+                  ]
+            },
+            {
+                  "name": "Valshedehøje",
+                  "text": "Group of prehistoric burial mounds in the Spøttrup region.",
+                  "category": "historical",
+                  "coords": [
+                        8.808671,
+                        56.633341
+                  ]
+            },
+            {
+                  "name": "Uglhøj",
+                  "text": "Prehistoric burial mound situated in the vicinity of Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.812658,
+                        56.643695
+                  ]
+            },
+            {
+                  "name": "Røgel",
+                  "text": "Archaeological remains of a prehistoric site near Spøttrup.",
+                  "category": "historical",
+                  "coords": [
+                        8.81421,
+                        56.642872
+                  ]
+            },
+            {
+                  "name": "Dybdalshøje",
+                  "text": "Ancient mounds of archaeological interest in the Spøttrup area.",
+                  "category": "historical",
+                  "coords": [
+                        8.815968,
+                        56.644099
+                  ]
+            },
+            {
+                  "name": "Vieshøj",
+                  "text": "Prehistoric mound preserved as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        8.81368,
+                        56.651304
+                  ]
+            },
+            {
+                  "name": "Rishøj",
+                  "text": "Notable prehistoric burial mound in the Spøttrup landscape.",
+                  "category": "historical",
+                  "coords": [
+                        8.814702,
+                        56.651631
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Burg Spøttrup", hu: "Spøttrup vár", ro: "Castelul Spøttrup", en: "Spøttrup Castle" },
@@ -183,7 +741,232 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-spottrup-castle-history-v2.webp",
   },
   {
-    id: "denmark-viking-ring-fortress-aggersborg-history-v2",
+    id: "denmark-viking-ring-fortress-aggersborg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bavnehøj",
+                  "text": "Eine archäologische Ausgrabungsstätte bei der Wikingerburg Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.45545,
+                        56.987345
+                  ]
+            },
+            {
+                  "name": "Rakkerhøj",
+                  "text": "Eine historische archäologische Stätte in der Nähe von Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.461217,
+                        57.002705
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Eine archäologische Fundstätte im Bereich der Wikingerfestung Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.431139,
+                        56.985015
+                  ]
+            },
+            {
+                  "name": "Krastrup",
+                  "text": "Ein historisches Herrenhaus in der Nähe der Wikingerburg Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.419781,
+                        56.970307
+                  ]
+            },
+            {
+                  "name": "Vår",
+                  "text": "Ein altes dänisches Herrenhaus in der Region Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.452,
+                        57.001674
+                  ]
+            },
+            {
+                  "name": "Farstrup Kirke",
+                  "text": "Eine Dorfkirche in der Nähe der historischen Wikingerburg Aggersborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.462319,
+                        56.983361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bavnehøj",
+                  "text": "Régészeti lelőhely az aggersborgi viking gyűrűvárnál.",
+                  "category": "historical",
+                  "coords": [
+                        9.45545,
+                        56.987345
+                  ]
+            },
+            {
+                  "name": "Rakkerhøj",
+                  "text": "Történelmi régészeti helyszín Aggersborg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.461217,
+                        57.002705
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Régészeti lelőhely az Aggersborg viking erőd területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.431139,
+                        56.985015
+                  ]
+            },
+            {
+                  "name": "Krastrup",
+                  "text": "Történelmi kúria az aggersborgi viking vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.419781,
+                        56.970307
+                  ]
+            },
+            {
+                  "name": "Vår",
+                  "text": "Régi dán kúria Aggersborg régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        9.452,
+                        57.001674
+                  ]
+            },
+            {
+                  "name": "Farstrup Kirke",
+                  "text": "Falusi templom a történelmi Aggersborg viking vár közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.462319,
+                        56.983361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bavnehøj",
+                  "text": "Un sit arheologic lângă fortăreața vikingă Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.45545,
+                        56.987345
+                  ]
+            },
+            {
+                  "name": "Rakkerhøj",
+                  "text": "Un sit arheologic istoric în apropiere de Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.461217,
+                        57.002705
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Un sit arheologic în zona fortăreței vikinge Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.431139,
+                        56.985015
+                  ]
+            },
+            {
+                  "name": "Krastrup",
+                  "text": "Un conac istoric situat lângă fortăreața vikingă Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.419781,
+                        56.970307
+                  ]
+            },
+            {
+                  "name": "Vår",
+                  "text": "Un vechi conac danez în regiunea Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.452,
+                        57.001674
+                  ]
+            },
+            {
+                  "name": "Farstrup Kirke",
+                  "text": "O biserică sătească în apropierea istoricei fortărețe vikinge Aggersborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.462319,
+                        56.983361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bavnehøj",
+                  "text": "An archaeological site near the Aggersborg Viking ring fortress.",
+                  "category": "historical",
+                  "coords": [
+                        9.45545,
+                        56.987345
+                  ]
+            },
+            {
+                  "name": "Rakkerhøj",
+                  "text": "A historical archaeological site located near Aggersborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.461217,
+                        57.002705
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "An archaeological site in the area of the Aggersborg Viking fortress.",
+                  "category": "historical",
+                  "coords": [
+                        9.431139,
+                        56.985015
+                  ]
+            },
+            {
+                  "name": "Krastrup",
+                  "text": "A historical manor house located near the Aggersborg Viking fortress.",
+                  "category": "historical",
+                  "coords": [
+                        9.419781,
+                        56.970307
+                  ]
+            },
+            {
+                  "name": "Vår",
+                  "text": "An old Danish manor house in the Aggersborg region.",
+                  "category": "historical",
+                  "coords": [
+                        9.452,
+                        57.001674
+                  ]
+            },
+            {
+                  "name": "Farstrup Kirke",
+                  "text": "A village church located near the historical Aggersborg Viking fortress.",
+                  "category": "religious",
+                  "coords": [
+                        9.462319,
+                        56.983361
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "DK",
     name: { de: "Wikinger-Ringburg Aggersborg", hu: "Aggersborg viking körvár", ro: "Fortăreața inelară vikingă Aggersborg", en: "Viking Ring Fortress Aggersborg" },
@@ -228,7 +1011,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-viking-ring-fortress-aggersborg-history-v2.webp",
   },
   {
-    id: "denmark-dragsholm-castle-history-v2",
+    id: "denmark-dragsholm-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kæmpebakken",
+                  "text": "Eine prähistorische Grabstätte in der Nähe des Schlosses Dragsholm.",
+                  "category": "historical",
+                  "coords": [
+                        11.393914,
+                        55.803744
+                  ]
+            },
+            {
+                  "name": "Vejrhøj Skov",
+                  "text": "Ein Waldgebiet mit archäologischen Überresten aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        11.395404,
+                        55.790362
+                  ]
+            },
+            {
+                  "name": "Barnehøi",
+                  "text": "Ein alter Grabhügel, der Teil der historischen Landschaft ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.446216,
+                        55.763002
+                  ]
+            },
+            {
+                  "name": "Kjendshøi",
+                  "text": "Eine archäologische Stätte, die einen antiken Grabhügel markiert.",
+                  "category": "historical",
+                  "coords": [
+                        11.40531,
+                        55.760675
+                  ]
+            },
+            {
+                  "name": "Tværhøi",
+                  "text": "Ein prähistorischer Hügel, der für seine archäologische Bedeutung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.401748,
+                        55.758862
+                  ]
+            },
+            {
+                  "name": "Barnet",
+                  "text": "Eine Fundstätte mit Überresten aus der dänischen Vorzeit.",
+                  "category": "historical",
+                  "coords": [
+                        11.414726,
+                        55.742709
+                  ]
+            },
+            {
+                  "name": "Hanghøi",
+                  "text": "Ein historischer Grabhügel in der Umgebung von Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.416243,
+                        55.746914
+                  ]
+            },
+            {
+                  "name": "Sandgravshøjen",
+                  "text": "Ein prähistorisches Denkmal, das von der frühen Besiedlung zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        11.409715,
+                        55.80843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kæmpebakken",
+                  "text": "Egy őskori sírhalom a Dragsholm-kastély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.393914,
+                        55.803744
+                  ]
+            },
+            {
+                  "name": "Vejrhøj Skov",
+                  "text": "Régészeti maradványokat rejtő erdős terület a bronzkorból.",
+                  "category": "historical",
+                  "coords": [
+                        11.395404,
+                        55.790362
+                  ]
+            },
+            {
+                  "name": "Barnehøi",
+                  "text": "Egy ősi sírhalom, amely a történelmi táj részét képezi.",
+                  "category": "historical",
+                  "coords": [
+                        11.446216,
+                        55.763002
+                  ]
+            },
+            {
+                  "name": "Kjendshøi",
+                  "text": "Egy régészeti lelőhely, amely egy antik sírhalmot jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        11.40531,
+                        55.760675
+                  ]
+            },
+            {
+                  "name": "Tværhøi",
+                  "text": "Egy őskori halom, amely régészeti jelentőségéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.401748,
+                        55.758862
+                  ]
+            },
+            {
+                  "name": "Barnet",
+                  "text": "Egy lelőhely dániai őskori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        11.414726,
+                        55.742709
+                  ]
+            },
+            {
+                  "name": "Hanghøi",
+                  "text": "Egy történelmi sírhalom Odsherred környékén.",
+                  "category": "historical",
+                  "coords": [
+                        11.416243,
+                        55.746914
+                  ]
+            },
+            {
+                  "name": "Sandgravshøjen",
+                  "text": "Egy őskori műemlék, amely a korai letelepedésről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        11.409715,
+                        55.80843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kæmpebakken",
+                  "text": "Un sit funerar preistoric situat în apropierea castelului Dragsholm.",
+                  "category": "historical",
+                  "coords": [
+                        11.393914,
+                        55.803744
+                  ]
+            },
+            {
+                  "name": "Vejrhøj Skov",
+                  "text": "O zonă împădurită care conține rămășițe arheologice din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        11.395404,
+                        55.790362
+                  ]
+            },
+            {
+                  "name": "Barnehøi",
+                  "text": "Un vechi tumul funerar care face parte din peisajul istoric.",
+                  "category": "historical",
+                  "coords": [
+                        11.446216,
+                        55.763002
+                  ]
+            },
+            {
+                  "name": "Kjendshøi",
+                  "text": "Un sit arheologic care marchează un tumul funerar antic.",
+                  "category": "historical",
+                  "coords": [
+                        11.40531,
+                        55.760675
+                  ]
+            },
+            {
+                  "name": "Tværhøi",
+                  "text": "Un tumul preistoric cunoscut pentru importanța sa arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        11.401748,
+                        55.758862
+                  ]
+            },
+            {
+                  "name": "Barnet",
+                  "text": "Un sit cu rămășițe din preistoria daneză.",
+                  "category": "historical",
+                  "coords": [
+                        11.414726,
+                        55.742709
+                  ]
+            },
+            {
+                  "name": "Hanghøi",
+                  "text": "Un tumul funerar istoric situat în zona Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.416243,
+                        55.746914
+                  ]
+            },
+            {
+                  "name": "Sandgravshøjen",
+                  "text": "Un monument preistoric ce atestă așezările timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        11.409715,
+                        55.80843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kæmpebakken",
+                  "text": "A prehistoric burial site located near Dragsholm Castle.",
+                  "category": "historical",
+                  "coords": [
+                        11.393914,
+                        55.803744
+                  ]
+            },
+            {
+                  "name": "Vejrhøj Skov",
+                  "text": "A wooded area containing archaeological remains from the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        11.395404,
+                        55.790362
+                  ]
+            },
+            {
+                  "name": "Barnehøi",
+                  "text": "An ancient burial mound that is part of the historical landscape.",
+                  "category": "historical",
+                  "coords": [
+                        11.446216,
+                        55.763002
+                  ]
+            },
+            {
+                  "name": "Kjendshøi",
+                  "text": "An archaeological site marking an ancient burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        11.40531,
+                        55.760675
+                  ]
+            },
+            {
+                  "name": "Tværhøi",
+                  "text": "A prehistoric mound known for its archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        11.401748,
+                        55.758862
+                  ]
+            },
+            {
+                  "name": "Barnet",
+                  "text": "A site featuring remains from Danish prehistory.",
+                  "category": "historical",
+                  "coords": [
+                        11.414726,
+                        55.742709
+                  ]
+            },
+            {
+                  "name": "Hanghøi",
+                  "text": "A historical burial mound located in the Odsherred area.",
+                  "category": "historical",
+                  "coords": [
+                        11.416243,
+                        55.746914
+                  ]
+            },
+            {
+                  "name": "Sandgravshøjen",
+                  "text": "A prehistoric monument witnessing early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        11.409715,
+                        55.80843
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Dragsholm", hu: "Dragsholm kastély", ro: "Castelul Dragsholm", en: "Dragsholm Castle" },
@@ -273,7 +1353,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-dragsholm-castle-history-v2.webp",
   },
   {
-    id: "denmark-nysoe-manor-history-v2",
+    id: "denmark-nysoe-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "Eine antike archäologische Stätte in der Nähe von Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.14452,
+                        55.020389
+                  ]
+            },
+            {
+                  "name": "Dyrehøi",
+                  "text": "Ein prähistorischer Grabhügel oder eine archäologische Stätte bei Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.147513,
+                        55.016417
+                  ]
+            },
+            {
+                  "name": "Lotsenhäuschen",
+                  "text": "Ein Lotsenmuseum auf der Insel Nyord bei Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.191838,
+                        55.042502
+                  ]
+            },
+            {
+                  "name": "Empiregården",
+                  "text": "Ein Museum in einem historischen Gebäude in der Nähe von Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.194742,
+                        55.04231
+                  ]
+            },
+            {
+                  "name": "Ulvshale-Nyord Vildtreservat",
+                  "text": "Ein Wildschutzgebiet zum Schutz der Küstenlandschaften bei Nysø Manor.",
+                  "category": "natural",
+                  "coords": [
+                        12.208691,
+                        55.042103
+                  ]
+            },
+            {
+                  "name": "Dronning Alexandrines Bro",
+                  "text": "Eine elegante Brücke, die die Inseln Seeland und Møn bei Nysø Manor verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.164684,
+                        54.989382
+                  ]
+            },
+            {
+                  "name": "Kalvehave Kirke",
+                  "text": "Eine historische Pfarrkirche in Kalvehave bei Nysø Manor.",
+                  "category": "religious",
+                  "coords": [
+                        12.144103,
+                        54.997803
+                  ]
+            },
+            {
+                  "name": "Nyord Kirke",
+                  "text": "Eine kleine Kirche auf der Insel Nyord, Teil des Gebiets von Nysø Manor.",
+                  "category": "religious",
+                  "coords": [
+                        12.194635,
+                        55.041406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "Ősi régészeti lelőhely Nysø Manor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.14452,
+                        55.020389
+                  ]
+            },
+            {
+                  "name": "Dyrehøi",
+                  "text": "Prehisztorikus sírhalom vagy régészeti lelőhely Nysø Manor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.147513,
+                        55.016417
+                  ]
+            },
+            {
+                  "name": "Nyord Lodseri",
+                  "text": "Révészmúzeum Nyord szigetén, Nysø Manor közelében.",
+                  "category": "museum",
+                  "coords": [
+                        12.191838,
+                        55.042502
+                  ]
+            },
+            {
+                  "name": "Empiregården",
+                  "text": "Történelmi épületben helyet kapott múzeum Nysø Manor környékén.",
+                  "category": "museum",
+                  "coords": [
+                        12.194742,
+                        55.04231
+                  ]
+            },
+            {
+                  "name": "Ulvshale-Nyord Vildtreservat",
+                  "text": "Vadvédelmi terület a tengerparti táj védelmére Nysø Manor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.208691,
+                        55.042103
+                  ]
+            },
+            {
+                  "name": "Dronning Alexandrines Bro",
+                  "text": "Elegáns híd, amely Sjælland és Møn szigetét köti össze Nysø Manor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.164684,
+                        54.989382
+                  ]
+            },
+            {
+                  "name": "Kalvehave Kirke",
+                  "text": "Történelmi plébániatemplom Kalvehave-ban, Nysø Manor közelében.",
+                  "category": "religious",
+                  "coords": [
+                        12.144103,
+                        54.997803
+                  ]
+            },
+            {
+                  "name": "Nyord Kirke",
+                  "text": "Kis templom Nyord szigetén, Nysø Manor térségében.",
+                  "category": "religious",
+                  "coords": [
+                        12.194635,
+                        55.041406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "Un sit arheologic antic situat lângă Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.14452,
+                        55.020389
+                  ]
+            },
+            {
+                  "name": "Dyrehøi",
+                  "text": "Un tumul preistoric sau sit arheologic lângă Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.147513,
+                        55.016417
+                  ]
+            },
+            {
+                  "name": "Nyord Lodseri",
+                  "text": "Un muzeu al pilotajului pe insula Nyord, lângă Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.191838,
+                        55.042502
+                  ]
+            },
+            {
+                  "name": "Empiregården",
+                  "text": "Un muzeu găzduit într-o clădire istorică în vecinătatea Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.194742,
+                        55.04231
+                  ]
+            },
+            {
+                  "name": "Ulvshale-Nyord Vildtreservat",
+                  "text": "O rezervație naturală care protejează peisajele de coastă de lângă Nysø Manor.",
+                  "category": "natural",
+                  "coords": [
+                        12.208691,
+                        55.042103
+                  ]
+            },
+            {
+                  "name": "Dronning Alexandrines Bro",
+                  "text": "Un pod elegant care leagă insulele Zealand și Møn lângă Nysø Manor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.164684,
+                        54.989382
+                  ]
+            },
+            {
+                  "name": "Kalvehave Kirke",
+                  "text": "O biserică parohială istorică situată în Kalvehave lângă Nysø Manor.",
+                  "category": "religious",
+                  "coords": [
+                        12.144103,
+                        54.997803
+                  ]
+            },
+            {
+                  "name": "Nyord Kirke",
+                  "text": "O mică biserică pe insula Nyord, parte a zonei Nysø Manor.",
+                  "category": "religious",
+                  "coords": [
+                        12.194635,
+                        55.041406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "An ancient archaeological site located near Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.14452,
+                        55.020389
+                  ]
+            },
+            {
+                  "name": "Dyrehøi",
+                  "text": "A prehistoric burial mound or archaeological site near Nysø Manor.",
+                  "category": "historical",
+                  "coords": [
+                        12.147513,
+                        55.016417
+                  ]
+            },
+            {
+                  "name": "Nyord Lodseri",
+                  "text": "A pilotage museum on the island of Nyord near Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.191838,
+                        55.042502
+                  ]
+            },
+            {
+                  "name": "Empiregården",
+                  "text": "A museum housed in a historic building in the vicinity of Nysø Manor.",
+                  "category": "museum",
+                  "coords": [
+                        12.194742,
+                        55.04231
+                  ]
+            },
+            {
+                  "name": "Ulvshale-Nyord Vildtreservat",
+                  "text": "A wildlife reserve protecting coastal landscapes near Nysø Manor.",
+                  "category": "natural",
+                  "coords": [
+                        12.208691,
+                        55.042103
+                  ]
+            },
+            {
+                  "name": "Queen Alexandrine Bridge",
+                  "text": "An elegant bridge connecting the islands of Zealand and Møn near Nysø Manor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.164684,
+                        54.989382
+                  ]
+            },
+            {
+                  "name": "Kalvehave Kirke",
+                  "text": "A historic parish church located in Kalvehave near Nysø Manor.",
+                  "category": "religious",
+                  "coords": [
+                        12.144103,
+                        54.997803
+                  ]
+            },
+            {
+                  "name": "Nyord Kirke",
+                  "text": "A small church on the island of Nyord, part of the Nysø Manor area.",
+                  "category": "religious",
+                  "coords": [
+                        12.194635,
+                        55.041406
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Gut Nysø", hu: "Nysø kúria", ro: "Conacul Nysø", en: "Nysø Manor" },
@@ -408,7 +1785,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-viborg-cathedral-history-v2.webp",
   },
   {
-    id: "denmark-hjerl-hede-history-v2",
+    id: "denmark-hjerl-hede-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "SandHøj",
+                  "text": "Eine archäologische Ausgrabungsstätte beim Freilichtmuseum Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.849911,
+                        56.480953
+                  ]
+            },
+            {
+                  "name": "Hjerl Hede",
+                  "text": "Ein bekanntes dänisches Freilichtmuseum, das die ländliche Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.87247,
+                        56.483201
+                  ]
+            },
+            {
+                  "name": "Tykhøje",
+                  "text": "Eine historische archäologische Stätte auf dem Gelände von Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.870239,
+                        56.447629
+                  ]
+            },
+            {
+                  "name": "Haldshøj",
+                  "text": "Eine archäologische Stätte beim Freilichtmuseum Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.872158,
+                        56.448815
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Eine archäologische Ausgrabungsstätte im Bereich von Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.945275,
+                        56.451438
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Eine archäologische Stätte in der Nähe des Museums Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.873643,
+                        56.477264
+                  ]
+            },
+            {
+                  "name": "Axelhøj",
+                  "text": "Eine archäologische Ausgrabungsstätte beim Hjerl Hede Freilichtmuseum.",
+                  "category": "historical",
+                  "coords": [
+                        8.947851,
+                        56.474068
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Eine historische archäologische Stätte in Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.936296,
+                        56.493167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SandHøj",
+                  "text": "Régészeti lelőhely a Hjerl Hede Szabadtéri Múzeumnál.",
+                  "category": "historical",
+                  "coords": [
+                        8.849911,
+                        56.480953
+                  ]
+            },
+            {
+                  "name": "Hjerl Hede",
+                  "text": "Ismert dán szabadtéri múzeum, amely a vidéki történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.87247,
+                        56.483201
+                  ]
+            },
+            {
+                  "name": "Tykhøje",
+                  "text": "Történelmi régészeti helyszín a Hjerl Hede területén.",
+                  "category": "historical",
+                  "coords": [
+                        8.870239,
+                        56.447629
+                  ]
+            },
+            {
+                  "name": "Haldshøj",
+                  "text": "Régészeti lelőhely a Hjerl Hede Szabadtéri Múzeumnál.",
+                  "category": "historical",
+                  "coords": [
+                        8.872158,
+                        56.448815
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Régészeti lelőhely Hjerl Hede területén.",
+                  "category": "historical",
+                  "coords": [
+                        8.945275,
+                        56.451438
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Régészeti lelőhely a Hjerl Hede múzeum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.873643,
+                        56.477264
+                  ]
+            },
+            {
+                  "name": "Axelhøj",
+                  "text": "Régészeti lelőhely a Hjerl Hede Szabadtéri Múzeumnál.",
+                  "category": "historical",
+                  "coords": [
+                        8.947851,
+                        56.474068
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Történelmi régészeti helyszín Hjerl Hede területén.",
+                  "category": "historical",
+                  "coords": [
+                        8.936296,
+                        56.493167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SandHøj",
+                  "text": "Un sit arheologic situat la Muzeul în aer liber Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.849911,
+                        56.480953
+                  ]
+            },
+            {
+                  "name": "Hjerl Hede",
+                  "text": "Un cunoscut muzeu în aer liber din Danemarca, prezentând istoria rurală.",
+                  "category": "museum",
+                  "coords": [
+                        8.87247,
+                        56.483201
+                  ]
+            },
+            {
+                  "name": "Tykhøje",
+                  "text": "Un sit arheologic istoric aflat pe teritoriul Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.870239,
+                        56.447629
+                  ]
+            },
+            {
+                  "name": "Haldshøj",
+                  "text": "Un sit arheologic la Muzeul în aer liber Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.872158,
+                        56.448815
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Un sit arheologic în zona Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.945275,
+                        56.451438
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "Un sit arheologic în apropierea muzeului Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.873643,
+                        56.477264
+                  ]
+            },
+            {
+                  "name": "Axelhøj",
+                  "text": "Un sit arheologic la Muzeul în aer liber Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.947851,
+                        56.474068
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Un sit arheologic istoric în Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.936296,
+                        56.493167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SandHøj",
+                  "text": "An archaeological site located at the Hjerl Hede Open Air Museum.",
+                  "category": "historical",
+                  "coords": [
+                        8.849911,
+                        56.480953
+                  ]
+            },
+            {
+                  "name": "Hjerl Hede",
+                  "text": "A well-known Danish open-air museum showcasing rural history.",
+                  "category": "museum",
+                  "coords": [
+                        8.87247,
+                        56.483201
+                  ]
+            },
+            {
+                  "name": "Tykhøje",
+                  "text": "A historical archaeological site located on the grounds of Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.870239,
+                        56.447629
+                  ]
+            },
+            {
+                  "name": "Haldshøj",
+                  "text": "An archaeological site at the Hjerl Hede Open Air Museum.",
+                  "category": "historical",
+                  "coords": [
+                        8.872158,
+                        56.448815
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "An archaeological site in the Hjerl Hede area.",
+                  "category": "historical",
+                  "coords": [
+                        8.945275,
+                        56.451438
+                  ]
+            },
+            {
+                  "name": "Thinghøje",
+                  "text": "An archaeological site located near the Hjerl Hede museum.",
+                  "category": "historical",
+                  "coords": [
+                        8.873643,
+                        56.477264
+                  ]
+            },
+            {
+                  "name": "Axelhøj",
+                  "text": "An archaeological site at the Hjerl Hede Open Air Museum.",
+                  "category": "historical",
+                  "coords": [
+                        8.947851,
+                        56.474068
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "A historical archaeological site in Hjerl Hede.",
+                  "category": "historical",
+                  "coords": [
+                        8.936296,
+                        56.493167
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Freilichtmuseum Hjerl Hede", hu: "Hjerl Hede szabadtéri múzeum", ro: "Muzeul în aer liber Hjerl Hede", en: "Hjerl Hede Open Air Museum" },
@@ -543,7 +2217,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-valdemars-castle-history-v2.webp",
   },
   {
-    id: "denmark-voergaard-castle-history-v2",
+    id: "denmark-voergaard-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bolleshøi",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe von Schloss Voergaard.",
+                  "category": "historical",
+                  "coords": [
+                        10.233501,
+                        57.266294
+                  ]
+            },
+            {
+                  "name": "Dalhøj",
+                  "text": "Ein antiker dänischer Grabhügel aus der Vorzeit.",
+                  "category": "historical",
+                  "coords": [
+                        10.239396,
+                        57.274456
+                  ]
+            },
+            {
+                  "name": "Kæmpehøjen",
+                  "text": "Ein markanter Hügel aus der Bronzezeit in der dänischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.229657,
+                        57.265604
+                  ]
+            },
+            {
+                  "name": "Skottehøje",
+                  "text": "Ein archäologischer Fundplatz mit Überresten alter Grabanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        10.266457,
+                        57.224012
+                  ]
+            },
+            {
+                  "name": "Knysterhøj",
+                  "text": "Ein geschütztes Bodendenkmal und prähistorischer Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        10.269634,
+                        57.225354
+                  ]
+            },
+            {
+                  "name": "Hvesselhøj",
+                  "text": "Ein historisches Grabmonument in der Region Nordjütland.",
+                  "category": "historical",
+                  "coords": [
+                        10.272576,
+                        57.223671
+                  ]
+            },
+            {
+                  "name": "Schloss Voergaard",
+                  "text": "Ein prächtiges Renaissanceschloss in Dänemark, bekannt für seine Kunstsammlung.",
+                  "category": "castle",
+                  "coords": [
+                        10.335289,
+                        57.242598
+                  ]
+            },
+            {
+                  "name": "Dannerhøj",
+                  "text": "Ein antiker Hügel in der Umgebung des Schlosses Voergaard.",
+                  "category": "historical",
+                  "coords": [
+                        10.229005,
+                        57.225778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bolleshøi",
+                  "text": "Őskori sírhalom Voergaard kastélya közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.233501,
+                        57.266294
+                  ]
+            },
+            {
+                  "name": "Dalhøj",
+                  "text": "Egy ősi dán sírhalom a régmúltból.",
+                  "category": "historical",
+                  "coords": [
+                        10.239396,
+                        57.274456
+                  ]
+            },
+            {
+                  "name": "Kæmpehøjen",
+                  "text": "Jellegzetes bronzkori halom a dán tájban.",
+                  "category": "historical",
+                  "coords": [
+                        10.229657,
+                        57.265604
+                  ]
+            },
+            {
+                  "name": "Skottehøje",
+                  "text": "Régészeti lelőhely ősi sírok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        10.266457,
+                        57.224012
+                  ]
+            },
+            {
+                  "name": "Knysterhøj",
+                  "text": "Védett régészeti lelőhely és őskori halom.",
+                  "category": "historical",
+                  "coords": [
+                        10.269634,
+                        57.225354
+                  ]
+            },
+            {
+                  "name": "Hvesselhøj",
+                  "text": "Történelmi síremlék Észak-Jütland régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        10.272576,
+                        57.223671
+                  ]
+            },
+            {
+                  "name": "Voergaard Slot",
+                  "text": "Pompás reneszánsz kastély Dániában, híres művészeti gyűjteményéről.",
+                  "category": "castle",
+                  "coords": [
+                        10.335289,
+                        57.242598
+                  ]
+            },
+            {
+                  "name": "Dannerhøj",
+                  "text": "Ősi domb a Voergaard-kastély környékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.229005,
+                        57.225778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bolleshøi",
+                  "text": "Un tumul preistoric situat în apropierea castelului Voergaard.",
+                  "category": "historical",
+                  "coords": [
+                        10.233501,
+                        57.266294
+                  ]
+            },
+            {
+                  "name": "Dalhøj",
+                  "text": "Un tumul antic danez din preistorie.",
+                  "category": "historical",
+                  "coords": [
+                        10.239396,
+                        57.274456
+                  ]
+            },
+            {
+                  "name": "Kæmpehøjen",
+                  "text": "Un dâmb distinctiv din epoca bronzului în peisajul danez.",
+                  "category": "historical",
+                  "coords": [
+                        10.229657,
+                        57.265604
+                  ]
+            },
+            {
+                  "name": "Skottehøje",
+                  "text": "Un sit arheologic cu vestigii ale unor vechi morminte.",
+                  "category": "historical",
+                  "coords": [
+                        10.266457,
+                        57.224012
+                  ]
+            },
+            {
+                  "name": "Knysterhøj",
+                  "text": "Un monument arheologic protejat și tumul preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        10.269634,
+                        57.225354
+                  ]
+            },
+            {
+                  "name": "Hvesselhøj",
+                  "text": "Un monument funerar istoric în regiunea Iutlanda de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        10.272576,
+                        57.223671
+                  ]
+            },
+            {
+                  "name": "Voergaard Slot",
+                  "text": "Un castel renascentist magnific din Danemarca, faimos pentru colecția sa de artă.",
+                  "category": "castle",
+                  "coords": [
+                        10.335289,
+                        57.242598
+                  ]
+            },
+            {
+                  "name": "Dannerhøj",
+                  "text": "Un dâmb antic în împrejurimile castelului Voergaard.",
+                  "category": "historical",
+                  "coords": [
+                        10.229005,
+                        57.225778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bolleshøi",
+                  "text": "A prehistoric burial mound located near Voergaard Castle.",
+                  "category": "historical",
+                  "coords": [
+                        10.233501,
+                        57.266294
+                  ]
+            },
+            {
+                  "name": "Dalhøj",
+                  "text": "An ancient Danish burial mound from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        10.239396,
+                        57.274456
+                  ]
+            },
+            {
+                  "name": "Kæmpehøjen",
+                  "text": "A prominent Bronze Age mound in the Danish landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.229657,
+                        57.265604
+                  ]
+            },
+            {
+                  "name": "Skottehøje",
+                  "text": "An archaeological site containing remains of ancient burials.",
+                  "category": "historical",
+                  "coords": [
+                        10.266457,
+                        57.224012
+                  ]
+            },
+            {
+                  "name": "Knysterhøj",
+                  "text": "A protected archaeological monument and prehistoric mound.",
+                  "category": "historical",
+                  "coords": [
+                        10.269634,
+                        57.225354
+                  ]
+            },
+            {
+                  "name": "Hvesselhøj",
+                  "text": "A historic funerary monument in the North Jutland region.",
+                  "category": "historical",
+                  "coords": [
+                        10.272576,
+                        57.223671
+                  ]
+            },
+            {
+                  "name": "Voergaard Castle",
+                  "text": "A magnificent Renaissance castle in Denmark, famous for its art collection.",
+                  "category": "castle",
+                  "coords": [
+                        10.335289,
+                        57.242598
+                  ]
+            },
+            {
+                  "name": "Dannerhøj",
+                  "text": "An ancient mound in the vicinity of Voergaard Castle.",
+                  "category": "historical",
+                  "coords": [
+                        10.229005,
+                        57.225778
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Voergaard", hu: "Voergaard kastély", ro: "Castelul Voergaard", en: "Voergaard Castle" },
@@ -588,7 +2559,268 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-voergaard-castle-history-v2.webp",
   },
   {
-    id: "denmark-knud-rasmussen-house-history-v2",
+    id: "denmark-knud-rasmussen-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krudt",
+                  "text": "Dieses Museum befindet sich beim Haus des berühmten Polarforschers Knud Rasmussen.",
+                  "category": "museum",
+                  "coords": [
+                        12.018049,
+                        55.975328
+                  ]
+            },
+            {
+                  "name": "Møllehøi",
+                  "text": "Møllehøi ist ein prähistorischer Grabhügel in der Nähe des Knud-Rasmussen-Hauses.",
+                  "category": "historical",
+                  "coords": [
+                        12.068174,
+                        55.969591
+                  ]
+            },
+            {
+                  "name": "Buskhøj",
+                  "text": "Buskhøj ist eine archäologische Stätte mit einem antiken Grabhügel in der Region Hundested.",
+                  "category": "historical",
+                  "coords": [
+                        12.040694,
+                        55.962931
+                  ]
+            },
+            {
+                  "name": "Lille Maglehøj",
+                  "text": "Lille Maglehøj ist ein geschützter prähistorischer Grabhügel in Dänemark.",
+                  "category": "historical",
+                  "coords": [
+                        12.037228,
+                        55.964708
+                  ]
+            },
+            {
+                  "name": "Tvillinghøiene",
+                  "text": "Tvillinghøiene bezeichnet ein Paar benachbarter archäologischer Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        11.980861,
+                        55.995692
+                  ]
+            },
+            {
+                  "name": "Traphøi",
+                  "text": "Traphøi ist eine antike Grabstätte und Teil des archäologischen Erbes von Nordseeland.",
+                  "category": "historical",
+                  "coords": [
+                        12.063648,
+                        55.960736
+                  ]
+            },
+            {
+                  "name": "Præstehøi",
+                  "text": "Præstehøi ist ein historischer Grabhügel, der von der frühen Besiedlung Dänemarks zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        12.025565,
+                        55.945487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krudt",
+                  "text": "Ez a múzeum a híres sarkkutató, Knud Rasmussen háza mellett található.",
+                  "category": "museum",
+                  "coords": [
+                        12.018049,
+                        55.975328
+                  ]
+            },
+            {
+                  "name": "Møllehøi",
+                  "text": "Møllehøi egy őskori sírhalom a Knud Rasmussen-ház közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.068174,
+                        55.969591
+                  ]
+            },
+            {
+                  "name": "Buskhøj",
+                  "text": "Buskhøj egy régészeti lelőhely egy ősi sírhalommal a Hundested régióban.",
+                  "category": "historical",
+                  "coords": [
+                        12.040694,
+                        55.962931
+                  ]
+            },
+            {
+                  "name": "Lille Maglehøj",
+                  "text": "Lille Maglehøj egy védett őskori sírhalom Dániában.",
+                  "category": "historical",
+                  "coords": [
+                        12.037228,
+                        55.964708
+                  ]
+            },
+            {
+                  "name": "Tvillinghøiene",
+                  "text": "A Tvillinghøiene egy pár szomszédos régészeti sírhalom elnevezése.",
+                  "category": "historical",
+                  "coords": [
+                        11.980861,
+                        55.995692
+                  ]
+            },
+            {
+                  "name": "Traphøi",
+                  "text": "Traphøi egy ősi temetkezési hely és Észak-Sjáland régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        12.063648,
+                        55.960736
+                  ]
+            },
+            {
+                  "name": "Præstehøi",
+                  "text": "Præstehøi egy történelmi sírhalom, amely Dánia korai benépesüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        12.025565,
+                        55.945487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krudt",
+                  "text": "Acest muzeu este situat lângă casa celebrului explorator polar Knud Rasmussen.",
+                  "category": "museum",
+                  "coords": [
+                        12.018049,
+                        55.975328
+                  ]
+            },
+            {
+                  "name": "Møllehøi",
+                  "text": "Møllehøi este o tumulă preistorică situată în apropierea Casei lui Knud Rasmussen.",
+                  "category": "historical",
+                  "coords": [
+                        12.068174,
+                        55.969591
+                  ]
+            },
+            {
+                  "name": "Buskhøj",
+                  "text": "Buskhøj este un sit arheologic cu o tumulă antică în regiunea Hundested.",
+                  "category": "historical",
+                  "coords": [
+                        12.040694,
+                        55.962931
+                  ]
+            },
+            {
+                  "name": "Lille Maglehøj",
+                  "text": "Lille Maglehøj este o tumulă preistorică protejată din Danemarca.",
+                  "category": "historical",
+                  "coords": [
+                        12.037228,
+                        55.964708
+                  ]
+            },
+            {
+                  "name": "Tvillinghøiene",
+                  "text": "Tvillinghøiene desemnează o pereche de tumule arheologice adiacente.",
+                  "category": "historical",
+                  "coords": [
+                        11.980861,
+                        55.995692
+                  ]
+            },
+            {
+                  "name": "Traphøi",
+                  "text": "Traphøi este un loc de înmormântare antic și face parte din moștenirea arheologică a Zeelandei de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        12.063648,
+                        55.960736
+                  ]
+            },
+            {
+                  "name": "Præstehøi",
+                  "text": "Præstehøi este o tumulă istorică ce atestă popularea timpurie a Danemarcei.",
+                  "category": "historical",
+                  "coords": [
+                        12.025565,
+                        55.945487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krudt",
+                  "text": "This museum is located at the house of the famous polar explorer Knud Rasmussen.",
+                  "category": "museum",
+                  "coords": [
+                        12.018049,
+                        55.975328
+                  ]
+            },
+            {
+                  "name": "Møllehøi",
+                  "text": "Møllehøi is a prehistoric burial mound located near Knud Rasmussen's House.",
+                  "category": "historical",
+                  "coords": [
+                        12.068174,
+                        55.969591
+                  ]
+            },
+            {
+                  "name": "Buskhøj",
+                  "text": "Buskhøj is an archaeological site featuring an ancient burial mound in the Hundested region.",
+                  "category": "historical",
+                  "coords": [
+                        12.040694,
+                        55.962931
+                  ]
+            },
+            {
+                  "name": "Lille Maglehøj",
+                  "text": "Lille Maglehøj is a protected prehistoric burial mound in Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        12.037228,
+                        55.964708
+                  ]
+            },
+            {
+                  "name": "Tvillinghøiene",
+                  "text": "Tvillinghøiene refers to a pair of adjacent archaeological burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        11.980861,
+                        55.995692
+                  ]
+            },
+            {
+                  "name": "Traphøi",
+                  "text": "Traphøi is an ancient burial site and part of North Zealand's archaeological heritage.",
+                  "category": "historical",
+                  "coords": [
+                        12.063648,
+                        55.960736
+                  ]
+            },
+            {
+                  "name": "Præstehøi",
+                  "text": "Præstehøi is a historic burial mound testifying to the early settlement of Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        12.025565,
+                        55.945487
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Knud Rasmussens Haus", hu: "Knud Rasmussen háza", ro: "Casa lui Knud Rasmussen", en: "Knud Rasmussen's House" },
@@ -678,7 +2910,232 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-trelleborg-history-museum-v2.webp",
   },
   {
-    id: "denmark-gl-estrup-history-v2",
+    id: "denmark-gl-estrup-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe von Gammel Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Antike Grabhügel in der Nähe des Schlosses Gl. Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Ein historisches Herrenhaus und Anwesen in der Region Djursland.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Eine Pfarrkirche im Dorf Pindstrup.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "Eine lokale Kirche, die das Gebiet von Pindstrup bedient.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "Eine historische Kirche in der Stadt Auning.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Gammel Estrup közelében található őskori sírhalom.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Ősi sírhalmok Gl. Estrup kastélyának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Történelmi udvarház és birtok a Djursland régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Pindstrup faluban található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "A pindstrupi területet kiszolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "Történelmi templom Auning városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Un tumul preistoric situat lângă Gammel Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Tumuli antici situați în vecinătatea castelului Gl. Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Un conac și o proprietate istorică în regiunea Djursland.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "O biserică parohială situată în satul Pindstrup.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "O biserică locală care deservește zona Pindstrup.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "O biserică istorică situată în orașul Auning.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "A prehistoric burial mound located near Gammel Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Ancient burial mounds situated in the vicinity of Gl. Estrup Castle.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "A historic manor house and estate in the Djursland region.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "A parish church located in the village of Pindstrup.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "A local church serving the Pindstrup area.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "A historic church located in the town of Auning.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Gl. Estrup", hu: "Gl. Estrup kastély", ro: "Castelul Gl. Estrup", en: "Gl. Estrup Castle" },
@@ -858,7 +3315,268 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-roskilde-viking-ship-museum-history-v2.webp",
   },
   {
-    id: "denmark-liselund-castle-history-v2",
+    id: "denmark-liselund-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Eine prähistorische archäologische Stätte in der Nähe von Schloss Liselund auf der Insel Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "Ein historischer Grabhügel auf der Insel Møn, der Teil der antiken dänischen Kulturlandschaft ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Eine antike Stätte in Dänemark, die für ihre archäologischen Funde aus der Vorzeit bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "Ein archäologisch bedeutsames Gebiet in der Nähe von Liselund, das Zeugnisse früherer Besiedlung bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Ein prähistorischer Fundplatz bei Liselund, der als wichtiger Teil des regionalen Erbes gilt.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Ein markanter Grabhügel aus der Vorzeit in der hügeligen Landschaft der Insel Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Somarke Dolmen",
+                  "text": "Ein beeindruckendes prähistorisches Ganggrab auf der dänischen Insel Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.501001,
+                        54.991109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Őskori régészeti lelőhely a Liselund-kastély közelében, Møn szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "Történelmi sírhalom Møn szigetén, amely az ősi dán kultúrtáj része.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Ókori lelőhely Dániában, amely az őskorból származó régészeti leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "Régészeti szempontból jelentős terület Liselund közelében, amely korai települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Őskori lelőhely Liselund közelében, amely a regionális örökség fontos része.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Jellegzetes őskori sírhalom Møn szigetének dombos táján.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Somarke dolmen",
+                  "text": "Lenyűgöző őskori folyosósír a dániai Møn szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        12.501001,
+                        54.991109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Un sit arheologic preistoric situat lângă Castelul Liselund de pe insula Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "O movilă funerară istorică de pe insula Møn, care face parte din peisajul cultural danez antic.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Un sit antic din Danemarca, cunoscut pentru descoperirile sale arheologice din preistorie.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "O zonă importantă din punct de vedere arheologic lângă Liselund, care păstrează dovezi ale locuirii timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Un sit preistoric lângă Liselund, considerat o parte importantă a patrimoniului regional.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "O movilă funerară preistorică proeminentă în peisajul deluros al insulei Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Sømarkedyssen",
+                  "text": "Un mormânt preistoric impresionant pe insula daneză Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.501001,
+                        54.991109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "A prehistoric archaeological site located near Liselund Castle on the island of Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "A historic burial mound on the island of Møn, part of the ancient Danish cultural landscape.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "An ancient site in Denmark, known for its archaeological finds from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "An archaeologically significant area near Liselund that preserves evidence of early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "A prehistoric site near Liselund, considered an important part of the regional heritage.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "A prominent prehistoric burial mound in the hilly landscape of Møn island.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Somarke Dolmen",
+                  "text": "An impressive prehistoric passage grave on the Danish island of Møn.",
+                  "category": "historical",
+                  "coords": [
+                        12.501001,
+                        54.991109
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Liselund", hu: "Liselund kastély", ro: "Castelul Liselund", en: "Liselund Castle" },
@@ -993,7 +3711,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-nyborg-castle-history-v2.webp",
   },
   {
-    id: "denmark-hammel-water-mill-history-v2",
+    id: "denmark-hammel-water-mill-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klovhøj",
+                  "text": "Ein prähistorischer Grabhügel und eine archäologische Stätte bei Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.81482,
+                        56.232072
+                  ]
+            },
+            {
+                  "name": "Skaghøi",
+                  "text": "Ein antiker Grabhügel in der Umgebung von Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.862576,
+                        56.252009
+                  ]
+            },
+            {
+                  "name": "Frijsenborg",
+                  "text": "Ein großes Herrenhaus im Neorenaissance-Stil und Anwesen in der Nähe von Hammel.",
+                  "category": "castle",
+                  "coords": [
+                        9.89379,
+                        56.264868
+                  ]
+            },
+            {
+                  "name": "Hammel Svømmehal",
+                  "text": "Ein örtliches öffentliches Schwimmbad und Freizeiteinrichtung in Hammel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.868758,
+                        56.260559
+                  ]
+            },
+            {
+                  "name": "Søbygaard",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Favrskov bei Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.795986,
+                        56.254218
+                  ]
+            },
+            {
+                  "name": "Frijsendal",
+                  "text": "Ein traditionelles dänisches Herrenhaus in der Gegend von Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.877275,
+                        56.281661
+                  ]
+            },
+            {
+                  "name": "Sall Kirke",
+                  "text": "Eine historische Pfarrkirche im Dorf Sall bei Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.825035,
+                        56.278765
+                  ]
+            },
+            {
+                  "name": "Sporup Kirke",
+                  "text": "Eine mittelalterliche Kirche der Kirchengemeinde Sporup bei Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.82443,
+                        56.226391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klovhøj",
+                  "text": "Egy őskori sírhalom és régészeti lelőhely Hammel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.81482,
+                        56.232072
+                  ]
+            },
+            {
+                  "name": "Skaghøi",
+                  "text": "Egy ősi sírhalom Hammel környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.862576,
+                        56.252009
+                  ]
+            },
+            {
+                  "name": "Frijsenborg",
+                  "text": "Egy impozáns neoreneszánsz udvarház és birtok Hammel közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.89379,
+                        56.264868
+                  ]
+            },
+            {
+                  "name": "Hammel Svømmehal",
+                  "text": "Egy helyi közösségi uszoda és szabadidős létesítmény Hammelben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.868758,
+                        56.260559
+                  ]
+            },
+            {
+                  "name": "Søbygaard",
+                  "text": "Egy történelmi udvarház Favrskov községben, Hammel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.795986,
+                        56.254218
+                  ]
+            },
+            {
+                  "name": "Frijsendal",
+                  "text": "Egy hagyományos dán udvarház Hammel környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.877275,
+                        56.281661
+                  ]
+            },
+            {
+                  "name": "Sall Kirke",
+                  "text": "Egy történelmi plébániatemplom Sall faluban, Hammel közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.825035,
+                        56.278765
+                  ]
+            },
+            {
+                  "name": "Sporup Kirke",
+                  "text": "Egy középkori templom, amely a Sporup plébániát szolgálja Hammel közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.82443,
+                        56.226391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klovhøj",
+                  "text": "Un tumul preistoric și sit arheologic lângă Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.81482,
+                        56.232072
+                  ]
+            },
+            {
+                  "name": "Skaghøi",
+                  "text": "Un tumul antic situat în vecinătatea localității Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.862576,
+                        56.252009
+                  ]
+            },
+            {
+                  "name": "Frijsenborg",
+                  "text": "Un mare conac în stil neorenascentist și domeniu situat lângă Hammel.",
+                  "category": "castle",
+                  "coords": [
+                        9.89379,
+                        56.264868
+                  ]
+            },
+            {
+                  "name": "Hammel Svømmehal",
+                  "text": "O piscină publică locală și facilitate de agrement în Hammel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.868758,
+                        56.260559
+                  ]
+            },
+            {
+                  "name": "Søbygaard",
+                  "text": "Un conac istoric situat în municipalitatea Favrskov, lângă Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.795986,
+                        56.254218
+                  ]
+            },
+            {
+                  "name": "Frijsendal",
+                  "text": "Un conac danez tradițional situat în zona Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.877275,
+                        56.281661
+                  ]
+            },
+            {
+                  "name": "Sall Kirke",
+                  "text": "O biserică parohială istorică situată în satul Sall, lângă Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.825035,
+                        56.278765
+                  ]
+            },
+            {
+                  "name": "Sporup Kirke",
+                  "text": "O biserică medievală care deservește parohia Sporup, lângă Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.82443,
+                        56.226391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klovhøj",
+                  "text": "A prehistoric burial mound and archaeological site near Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.81482,
+                        56.232072
+                  ]
+            },
+            {
+                  "name": "Skaghøi",
+                  "text": "An ancient burial mound located in the vicinity of Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.862576,
+                        56.252009
+                  ]
+            },
+            {
+                  "name": "Frijsenborg",
+                  "text": "A grand Neo-Renaissance manor house and estate located near Hammel.",
+                  "category": "castle",
+                  "coords": [
+                        9.89379,
+                        56.264868
+                  ]
+            },
+            {
+                  "name": "Hammel Svømmehal",
+                  "text": "A local public swimming pool and leisure facility in Hammel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.868758,
+                        56.260559
+                  ]
+            },
+            {
+                  "name": "Søbygaard",
+                  "text": "A historic manor house located in the Favrskov municipality near Hammel.",
+                  "category": "historical",
+                  "coords": [
+                        9.795986,
+                        56.254218
+                  ]
+            },
+            {
+                  "name": "Frijsendal",
+                  "text": "A traditional Danish manor house situated in the Hammel area.",
+                  "category": "historical",
+                  "coords": [
+                        9.877275,
+                        56.281661
+                  ]
+            },
+            {
+                  "name": "Sall Kirke",
+                  "text": "A historic parish church located in the village of Sall near Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.825035,
+                        56.278765
+                  ]
+            },
+            {
+                  "name": "Sporup Kirke",
+                  "text": "A medieval church serving the Sporup parish near Hammel.",
+                  "category": "religious",
+                  "coords": [
+                        9.82443,
+                        56.226391
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Wassermühle Hammel", hu: "Hammeli vízimalom", ro: "Moara de apă Hammel", en: "Hammel Water Mill" },
@@ -1038,7 +4053,268 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-hammel-water-mill-history-v2.webp",
   },
   {
-    id: "denmark-gammel-estrup-manor-history-v2",
+    id: "denmark-gammel-estrup-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Eine archäologische Stätte bei Gammel Estrup Manor, die historische Grabhügel umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Randershøj",
+                  "text": "Eine historische Ausgrabungsstätte in der Nähe von Gammel Estrup Manor.",
+                  "category": "historical",
+                  "coords": [
+                        10.475167,
+                        56.392528
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Diese archäologische Stätte bei Gammel Estrup Manor besteht aus markanten Zwillingshügeln.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Ein historisches Herrenhaus in der Nähe von Gammel Estrup Manor, umgeben von einer weitläufigen Parkanlage.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Eine traditionelle Kirche in der Nähe von Gammel Estrup Manor, die als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "Eine Kirche in der Region Gammel Estrup Manor, die für religiöse Zeremonien genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "Eine historische Kirche bei Gammel Estrup Manor, die ein wichtiger religiöser Treffpunkt der Gemeinde ist.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Régészeti lelőhely a Gammel Estrup kúria közelében, amely történelmi sírhalmokat foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Randershøj",
+                  "text": "Történelmi régészeti lelőhely Gammel Estrup kúria szomszédságában.",
+                  "category": "historical",
+                  "coords": [
+                        10.475167,
+                        56.392528
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Ez a Gammel Estrup kúriánál található régészeti lelőhely jellegzetes ikerhalmokból áll.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Történelmi udvarház a Gammel Estrup kúria közelében, amelyet kiterjedt park vesz körül.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Hagyományos templom a Gammel Estrup kúria közelében, amely istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "Templom a Gammel Estrup kúria régiójában, amelyet vallási szertartásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "Történelmi templom a Gammel Estrup kúria közelében, amely a közösség fontos vallási találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "Un sit arheologic lângă Conacul Gammel Estrup, ce cuprinde tumuli istorici.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Randershøj",
+                  "text": "Un sit arheologic istoric situat în apropierea Conacului Gammel Estrup.",
+                  "category": "historical",
+                  "coords": [
+                        10.475167,
+                        56.392528
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Acest sit arheologic de lângă Conacul Gammel Estrup este format din tumuli gemeni.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "Un conac istoric situat lângă Gammel Estrup Manor, înconjurat de un domeniu vast.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "O biserică tradițională în apropiere de Conacul Gammel Estrup, servind ca loc de cult.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "O biserică din regiunea Conacului Gammel Estrup, utilizată pentru ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "O biserică istorică lângă Conacul Gammel Estrup, fiind un important punct de întâlnire religios pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Langdalshøj",
+                  "text": "An archaeological site near Gammel Estrup Manor featuring historical burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        10.456599,
+                        56.393166
+                  ]
+            },
+            {
+                  "name": "Randershøj",
+                  "text": "A historical archaeological site located near Gammel Estrup Manor.",
+                  "category": "historical",
+                  "coords": [
+                        10.475167,
+                        56.392528
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "This archaeological site near Gammel Estrup Manor consists of distinct twin mounds.",
+                  "category": "historical",
+                  "coords": [
+                        10.388027,
+                        56.436148
+                  ]
+            },
+            {
+                  "name": "Løvenholm",
+                  "text": "A historical manor house near Gammel Estrup Manor, surrounded by extensive grounds.",
+                  "category": "historical",
+                  "coords": [
+                        10.444131,
+                        56.45155
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "A traditional church near Gammel Estrup Manor, serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        10.401634,
+                        56.38931
+                  ]
+            },
+            {
+                  "name": "Pindstrup Kirke",
+                  "text": "A church in the Gammel Estrup Manor region, used for religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        10.418942,
+                        56.392208
+                  ]
+            },
+            {
+                  "name": "Auning Kirke",
+                  "text": "A historical church near Gammel Estrup Manor, serving as an important religious gathering place for the community.",
+                  "category": "religious",
+                  "coords": [
+                        10.376134,
+                        56.433821
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Gut Gammel Estrup", hu: "Gammel Estrup kúria", ro: "Conacul Gammel Estrup", en: "Gammel Estrup Manor" },
@@ -1128,7 +4404,160 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-holmens-church-history-v2.webp",
   },
   {
-    id: "denmark-kristiansfeld-history-v2",
+    id: "denmark-kristiansfeld-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grenzmuseum",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Wiedervereinigung Nordschleswigs mit Dänemark im Jahr 1920.",
+                  "category": "museum",
+                  "coords": [
+                        9.481318,
+                        55.380401
+                  ]
+            },
+            {
+                  "name": "Museum Kolding",
+                  "text": "Ein lokalgeschichtliches Museum, das das kulturelle Erbe und die Entwicklung der Region Kolding zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.481503,
+                        55.356139
+                  ]
+            },
+            {
+                  "name": "Aller Kirke",
+                  "text": "Eine historische Pfarrkirche in der Nähe der Herrnhuter Siedlung Christiansfeld.",
+                  "category": "religious",
+                  "coords": [
+                        9.531672,
+                        55.361491
+                  ]
+            },
+            {
+                  "name": "Tyrstrup Kirke",
+                  "text": "Eine prominente Kirche aus dem 19. Jahrhundert in Christiansfeld, bekannt für ihre charakteristische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        9.485131,
+                        55.352483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Genforenings- og Grænsemuseet",
+                  "text": "Ez a múzeum Dél-Jütland Dániával való 1920-as egyesítésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.481318,
+                        55.380401
+                  ]
+            },
+            {
+                  "name": "Museum Kolding",
+                  "text": "Helytörténeti múzeum, amely Kolding régió kulturális örökségét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.481503,
+                        55.356139
+                  ]
+            },
+            {
+                  "name": "Aller Kirke",
+                  "text": "Történelmi plébániatemplom a hernhuti Christiansfeld település közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.531672,
+                        55.361491
+                  ]
+            },
+            {
+                  "name": "Tyrstrup Kirke",
+                  "text": "Jelentős 19. századi templom Christiansfeldben, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.485131,
+                        55.352483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Genforenings- og Grænsemuseet",
+                  "text": "Acest muzeu documentează istoria reunificării Iutlandei de Sud cu Danemarca în 1920.",
+                  "category": "museum",
+                  "coords": [
+                        9.481318,
+                        55.380401
+                  ]
+            },
+            {
+                  "name": "Museum Kolding",
+                  "text": "Un muzeu de istorie locală care prezintă moștenirea culturală și dezvoltarea regiunii Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.481503,
+                        55.356139
+                  ]
+            },
+            {
+                  "name": "Aller Kirke",
+                  "text": "O biserică parohială istorică situată lângă așezarea moravă Christiansfeld.",
+                  "category": "religious",
+                  "coords": [
+                        9.531672,
+                        55.361491
+                  ]
+            },
+            {
+                  "name": "Tyrstrup Kirke",
+                  "text": "O biserică proeminentă din secolul al XIX-lea din zona Christiansfeld, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        9.485131,
+                        55.352483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Genforenings- og Grænsemuseet",
+                  "text": "This museum documents the history of the reunification of Southern Jutland with Denmark in 1920.",
+                  "category": "museum",
+                  "coords": [
+                        9.481318,
+                        55.380401
+                  ]
+            },
+            {
+                  "name": "Museum Kolding",
+                  "text": "A local history museum showcasing the cultural heritage and development of the Kolding region.",
+                  "category": "museum",
+                  "coords": [
+                        9.481503,
+                        55.356139
+                  ]
+            },
+            {
+                  "name": "Aller Kirke",
+                  "text": "A historic parish church located near the Moravian settlement of Christiansfeld.",
+                  "category": "religious",
+                  "coords": [
+                        9.531672,
+                        55.361491
+                  ]
+            },
+            {
+                  "name": "Tyrstrup Kirke",
+                  "text": "A prominent 19th-century church in the Christiansfeld area, known for its distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        9.485131,
+                        55.352483
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Museum Christiansfeld", hu: "Christiansfeld Múzeum", ro: "Muzeul Christiansfeld", en: "Christiansfeld Museum" },
@@ -1263,7 +4692,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-kalundborg-church-history-v2.webp",
   },
   {
-    id: "denmark-skagen-old-lighthouse-history-v2",
+    id: "denmark-skagen-old-lighthouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Ein Freilichtmuseum in Skagen, das Besuchern Einblicke in das Leben der Fischer und Seeleute gewährt.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Ein Museum in einem originalen Bunker aus dem Zweiten Weltkrieg, das die Besatzungszeit thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Das ehemalige Wohnhaus des Dichters Holger Drachmann in Skagen, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Ein von Jørn Utzon entworfenes Naturzentrum, das die Entstehung der Skagen-Halbinsel erklärt.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Ein Kunstmuseum an der Nordspitze Dänemarks, das Werke dänischer und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Ein Leuchtturm im Westen von Skagen, der die Schifffahrt an der dänischen Küste unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Ein historischer weißer Leuchtturm in Skagen, der zu den ältesten Bauwerken dieser Art in Dänemark zählt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Das einstige Heim des Künstlerehepaars Ancher, in dem ihre Werke und Einrichtungsgegenstände ausgestellt sind.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Szabadtéri múzeum Skagenben, amely betekintést nyújt a halászok és tengerészek életébe.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Egy eredeti második világháborús bunkerben kialakított múzeum, amely a megszállás idejét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Holger Drachmann költő egykori lakóháza Skagenben, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Jørn Utzon által tervezett természetvédelmi központ, amely a Skagen-félsziget kialakulását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Művészeti múzeum Dánia északi csücskénél, amely dán és nemzetközi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Skagen nyugati részén található világítótorony, amely a dán partvidék hajózását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Történelmi fehér világítótorony Skagenben, amely Dánia egyik legrégebbi ilyen jellegű építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Az Ancher művészházaspár egykori otthona, ahol alkotásaikat és bútoraikat mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Un muzeu în aer liber din Skagen, care oferă vizitatorilor o imagine asupra vieții pescarilor și marinarilor.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Un muzeu amenajat într-un buncăr original din Al Doilea Război Mondial, care abordează perioada ocupației.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Fosta casă a poetului Holger Drachmann din Skagen, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Un centru de natură proiectat de Jørn Utzon, care explică formarea peninsulei Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Un muzeu de artă situat în vârful nordic al Danemarcei, care expune lucrări ale artiștilor danezi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Un far situat în vestul orașului Skagen, care sprijină navigația pe coasta daneză.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Un far alb istoric din Skagen, printre cele mai vechi structuri de acest tip din Danemarca.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Fosta casă a cuplului de artiști Ancher, unde sunt expuse lucrările și obiectele lor de mobilier.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "An open-air museum in Skagen providing visitors with insights into the lives of fishermen and sailors.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "A museum located in an original WWII bunker, focusing on the period of occupation.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "The former home of the poet Holger Drachmann in Skagen, which now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "A nature centre designed by Jørn Utzon that explains the formation of the Skagen peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "An art museum at the northern tip of Denmark exhibiting works by Danish and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "A lighthouse in the west of Skagen that aids navigation along the Danish coast.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "A historic white lighthouse in Skagen, one of the oldest structures of its kind in Denmark.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "The former home of the artist couple Ancher, where their works and furnishings are on display.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "DK",
     name: { de: "Alter Leuchtturm Skagen", hu: "Skageni régi világítótorony", ro: "Vechiul far din Skagen", en: "Skagen Old Lighthouse" },
@@ -1398,7 +5124,268 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-faaborg-museum-history-v2.webp",
   },
   {
-    id: "denmark-soro-monastery-church-history-v2",
+    id: "denmark-soro-monastery-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barnedys",
+                  "text": "Archäologische Fundstätte mit historischen Überresten bei Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Regionalmuseum zur Geschichte und Kultur von Sorø.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "Ein markanter historischer Grabhügel in der Nähe von Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Museum mit einer Sammlung historischer physikalischer Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Restaurierte historische Tankstelle, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            },
+            {
+                  "name": "Akademihaven",
+                  "text": "Historischer Landschaftsgarten der Sorø Akademie.",
+                  "category": "park",
+                  "coords": [
+                        11.553895,
+                        55.429944
+                  ]
+            },
+            {
+                  "name": "Store Ladegaard",
+                  "text": "Historisches Herrenhaus und ehemaliger Gutshof bei Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.607834,
+                        55.437501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barnedys",
+                  "text": "Régészeti lelőhely történelmi maradványokkal Sorø közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Sorø történetét és kultúráját bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "Jelentős történelmi halomsír Sorø közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Történelmi fizikai eszközök gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Restaurált történelmi benzinkút, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            },
+            {
+                  "name": "Akademihaven",
+                  "text": "A Sorøi Akadémia történelmi tájképi kertje.",
+                  "category": "park",
+                  "coords": [
+                        11.553895,
+                        55.429944
+                  ]
+            },
+            {
+                  "name": "Store Ladegaard",
+                  "text": "Történelmi udvarház és egykori birtok Sorø közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.607834,
+                        55.437501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barnedys",
+                  "text": "Sit arheologic cu vestigii istorice situat lângă Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Muzeu regional despre istoria și cultura orașului Sorø.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "O movilă funerară istorică proeminentă lângă Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Muzeu cu o colecție de instrumente fizice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Stație de benzină istorică restaurată, folosită azi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            },
+            {
+                  "name": "Akademihaven",
+                  "text": "Grădina peisagistică istorică a Academiei din Sorø.",
+                  "category": "park",
+                  "coords": [
+                        11.553895,
+                        55.429944
+                  ]
+            },
+            {
+                  "name": "Store Ladegaard",
+                  "text": "Conac istoric și fostă moșie situată lângă Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.607834,
+                        55.437501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barnedys",
+                  "text": "Archaeological site with historical remains near Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Regional museum about the history and culture of Sorø.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "A prominent historical burial mound located near Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Museum featuring a collection of historical physical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Restored historic gas station now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            },
+            {
+                  "name": "Akademihaven",
+                  "text": "Historical landscaped garden of the Sorø Academy.",
+                  "category": "park",
+                  "coords": [
+                        11.553895,
+                        55.429944
+                  ]
+            },
+            {
+                  "name": "Store Ladegaard",
+                  "text": "Historical manor house and former estate near Sorø.",
+                  "category": "historical",
+                  "coords": [
+                        11.607834,
+                        55.437501
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "DK",
     name: { de: "Klosterkirche Sorø", hu: "Sorøi kolostortemplom", ro: "Biserica mănăstirii din Sorø", en: "Sorø Monastery Church" },
@@ -1533,7 +5520,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-stenstrup-mill-history-v2.webp",
   },
   {
-    id: "denmark-skanderborg-castle-ruins-history-v2",
+    id: "denmark-skanderborg-castle-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Eine archäologische Fundstätte in der Nähe der Schlossruine von Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Lille Høj",
+                  "text": "Ein prähistorischer Grabhügel in der Umgebung von Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.994268,
+                        56.027367
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Eine antike Landmarke oder archäologische Stätte bei Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Ein Museum in ehemaligen deutschen Bunkern aus dem Zweiten Weltkrieg in Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Ein antiker Grabhügel im dänischen Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Ein Museum in einer historischen Mühle am Skanderborg-See.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "Eine kleine Galerie oder ein Museum im Bahnhof von Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "Ein Museum, das sich mit der Geschichte der Sølund-Institution befasst.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Régészeti lelőhely a skanderborgi várromok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Lille Høj",
+                  "text": "Prehisztorikus sírhalom Skanderborg környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.994268,
+                        56.027367
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Ókori tájékozódási pont vagy régészeti helyszín Skanderborgnál.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Múzeum a második világháborús német bunkerekben Skanderborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Ókori sírhalom a dániai Skanderborgban.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Múzeum egy történelmi malomban a Skanderborg-tó partján.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "Kis galéria vagy múzeum a skanderborgi vasútállomáson.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "A Sølund intézmény történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Un sit arheologic situat lângă ruinele castelului Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Lille Høj",
+                  "text": "Un tumul preistoric în împrejurimile orașului Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.994268,
+                        56.027367
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Un reper antic sau sit arheologic de lângă Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Un muzeu amenajat în foste buncăre germane din al Doilea Război Mondial în Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Un tumul antic în Skanderborg, Danemarca.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Un muzeu într-o moară istorică de pe malul lacului Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "O mică galerie sau muzeu în gara din Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "Un muzeu care prezintă istoria instituției Sølund.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "An archaeological site located near the Skanderborg castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Lille Høj",
+                  "text": "A prehistoric burial mound in the surroundings of Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.994268,
+                        56.027367
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "An ancient landmark or archaeological site near Skanderborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "A museum housed in former World War II German bunkers in Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "An ancient burial mound in Skanderborg, Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "A museum located in a historic mill on the shores of Lake Skanderborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "A small gallery or museum located at the Skanderborg railway station.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "A museum dedicated to the history of the Sølund institution.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "DK",
     name: { de: "Burgruinen Skanderborg", hu: "Skanderborg várromok", ro: "Ruinele castelului Skanderborg", en: "Skanderborg Castle Ruins" },
@@ -1848,7 +6132,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-hvidovre-church-history-v2.webp",
   },
   {
-    id: "denmark-skagen-church-history-v2",
+    id: "denmark-skagen-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Ein Freilichtmuseum in Skagen, das die maritime Geschichte und das Leben der Fischer zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Ein Museum in Skagen, das sich in einem Bunker aus dem Zweiten Weltkrieg befindet.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Das ehemalige Wohnhaus des Dichters und Malers Holger Drachmann in Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Ein Naturzentrum in Skagen, das sich mit der Natur und Geologie der Landspitze Skagen Odde befasst.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Ein Kunstmuseum in Skagen, das Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Ein Leuchtturm in der Nähe von Skagen, der zur Navigation an der dänischen Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Ein historischer weißer Leuchtturm in Skagen, der heute als Ausstellungsraum genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Das ehemalige Wohnhaus der Maler Anna und Michael Ancher in Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Szabadtéri múzeum Skagenben, amely a tengeri történelmet és a halászok életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Skageni múzeum, amely egy második világháborús bunkerben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Holger Drachmann költő és festő egykori lakóháza Skagenben.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Természeti központ Skagenben, amely a Skagen Odde félsziget természetével és geológiájával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Művészeti múzeum Skagenben, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Skagen közelében található világítótorony, amely a dán partvidék navigációját segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Történelmi fehér világítótorony Skagenben, amely ma kiállítótérként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Anna és Michael Ancher festők egykori lakóháza Skagenben.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "Un muzeu în aer liber din Skagen, care prezintă istoria maritimă și viața pescarilor.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "Un muzeu din Skagen, situat într-un buncăr din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "Fosta reședință a poetului și pictorului Holger Drachmann din Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "Un centru natural din Skagen dedicat naturii și geologiei peninsulei Skagen Odde.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "Un muzeu de artă din Skagen care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "Un far situat lângă Skagen, utilizat pentru navigația pe coasta daneză.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "Un far alb istoric din Skagen, utilizat în prezent ca spațiu expozițional.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "Fosta casă a pictorilor Anna și Michael Ancher din Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kystmuseet Skagen",
+                  "text": "An open-air museum in Skagen showcasing maritime history and the life of fishermen.",
+                  "category": "museum",
+                  "coords": [
+                        10.574626,
+                        57.716361
+                  ]
+            },
+            {
+                  "name": "Skagen Bunkermuseum",
+                  "text": "A museum in Skagen located within a World War II bunker.",
+                  "category": "museum",
+                  "coords": [
+                        10.631822,
+                        57.738913
+                  ]
+            },
+            {
+                  "name": "Villa Pax",
+                  "text": "The former home of poet and painter Holger Drachmann in Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.577809,
+                        57.718777
+                  ]
+            },
+            {
+                  "name": "Skagen Odde Naturcenter",
+                  "text": "A nature center in Skagen focusing on the natural history and geology of the Skagen Odde peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        10.595546,
+                        57.739979
+                  ]
+            },
+            {
+                  "name": "Grenen Kunstmuseum",
+                  "text": "An art museum in Skagen exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        10.634035,
+                        57.739738
+                  ]
+            },
+            {
+                  "name": "Skagen Vest",
+                  "text": "A lighthouse near Skagen used for navigation along the Danish coast.",
+                  "category": "landmark",
+                  "coords": [
+                        10.595155,
+                        57.748764
+                  ]
+            },
+            {
+                  "name": "Hvide Fyr",
+                  "text": "A historic white lighthouse in Skagen, now used as an exhibition space.",
+                  "category": "landmark",
+                  "coords": [
+                        10.606728,
+                        57.729053
+                  ]
+            },
+            {
+                  "name": "Anchers Hus",
+                  "text": "The former home of painters Anna and Michael Ancher in Skagen.",
+                  "category": "museum",
+                  "coords": [
+                        10.596901,
+                        57.726114
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "DK",
     name: { de: "Kirche von Skagen", hu: "Skageni templom", ro: "Biserica din Skagen", en: "Church of Skagen" },
@@ -1893,7 +6474,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-skagen-church-history-v2.webp",
   },
   {
-    id: "denmark-viking-stone-glavendrup-history-v2",
+    id: "denmark-viking-stone-glavendrup-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gåsesten",
+                  "text": "Ein markanter Findling auf Fünen, der mit lokalen Sagen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.372968,
+                        55.540641
+                  ]
+            },
+            {
+                  "name": "Pengesten",
+                  "text": "Ein Findling in Dänemark, dem in der Volksüberlieferung besondere Kräfte zugeschrieben wurden.",
+                  "category": "historical",
+                  "coords": [
+                        10.336822,
+                        55.514123
+                  ]
+            },
+            {
+                  "name": "Nislevgård",
+                  "text": "Ein historisches Herrenhaus auf der dänischen Insel Fünen.",
+                  "category": "castle",
+                  "coords": [
+                        10.385745,
+                        55.508943
+                  ]
+            },
+            {
+                  "name": "Ørritslevgaard",
+                  "text": "Ein traditionsreiches dänisches Herrenhaus in der Nähe von Otterup.",
+                  "category": "castle",
+                  "coords": [
+                        10.419215,
+                        55.524101
+                  ]
+            },
+            {
+                  "name": "Otterup Museum",
+                  "text": "Ein Heimatmuseum, das die lokale Geschichte und Kultur von Otterup zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.401192,
+                        55.51864
+                  ]
+            },
+            {
+                  "name": "Jeppeshøje",
+                  "text": "Eine Gruppe von Grabhügeln in der dänischen Landschaft bei Glavendrup.",
+                  "category": "landmark",
+                  "coords": [
+                        10.39216,
+                        55.537275
+                  ]
+            },
+            {
+                  "name": "Uggerslev Mølle",
+                  "text": "Eine gut erhaltene historische Windmühle in der Region Nordfünen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.313991,
+                        55.528597
+                  ]
+            },
+            {
+                  "name": "Bederslev Kirke",
+                  "text": "Eine mittelalterliche Dorfkirche in Bederslev mit traditioneller dänischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        10.343622,
+                        55.550965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gåsesten",
+                  "text": "Egy jellegzetes vándorkő Fyn szigetén, amelyhez helyi legendák fűződnek.",
+                  "category": "historical",
+                  "coords": [
+                        10.372968,
+                        55.540641
+                  ]
+            },
+            {
+                  "name": "Pengesten",
+                  "text": "Dániai vándorkő, amelynek a néphagyomány különleges erőt tulajdonított.",
+                  "category": "historical",
+                  "coords": [
+                        10.336822,
+                        55.514123
+                  ]
+            },
+            {
+                  "name": "Nislevgård",
+                  "text": "Történelmi udvarház a dániai Fyn szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        10.385745,
+                        55.508943
+                  ]
+            },
+            {
+                  "name": "Ørritslevgaard",
+                  "text": "Hagyományőrző dán udvarház Otterup közelében.",
+                  "category": "castle",
+                  "coords": [
+                        10.419215,
+                        55.524101
+                  ]
+            },
+            {
+                  "name": "Otterup Museum",
+                  "text": "Helytörténeti múzeum, amely Otterup múltját és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.401192,
+                        55.51864
+                  ]
+            },
+            {
+                  "name": "Jeppeshøje",
+                  "text": "Halomsírok csoportja a Glavendrup környéki dán tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.39216,
+                        55.537275
+                  ]
+            },
+            {
+                  "name": "Uggerslev Mølle",
+                  "text": "Jó állapotban megőrzött történelmi szélmalom Észak-Fyn régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.313991,
+                        55.528597
+                  ]
+            },
+            {
+                  "name": "Bederslev Kirke",
+                  "text": "Középkori falusi templom Bederslevben, hagyományos dán építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.343622,
+                        55.550965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gåsesten",
+                  "text": "Un bloc erratic proeminent din Fionia, legat de legende locale.",
+                  "category": "historical",
+                  "coords": [
+                        10.372968,
+                        55.540641
+                  ]
+            },
+            {
+                  "name": "Pengesten",
+                  "text": "Un bloc erratic din Danemarca, căruia tradiția populară îi atribuia puteri speciale.",
+                  "category": "historical",
+                  "coords": [
+                        10.336822,
+                        55.514123
+                  ]
+            },
+            {
+                  "name": "Nislevgård",
+                  "text": "Un conac istoric situat pe insula daneză Fionia.",
+                  "category": "castle",
+                  "coords": [
+                        10.385745,
+                        55.508943
+                  ]
+            },
+            {
+                  "name": "Ørritslevgaard",
+                  "text": "Un conac danez cu o istorie bogată, situat lângă Otterup.",
+                  "category": "castle",
+                  "coords": [
+                        10.419215,
+                        55.524101
+                  ]
+            },
+            {
+                  "name": "Otterup Museum",
+                  "text": "Un muzeu local care prezintă istoria și cultura orașului Otterup.",
+                  "category": "museum",
+                  "coords": [
+                        10.401192,
+                        55.51864
+                  ]
+            },
+            {
+                  "name": "Jeppeshøje",
+                  "text": "Un grup de tumuli funerari din peisajul danez de lângă Glavendrup.",
+                  "category": "landmark",
+                  "coords": [
+                        10.39216,
+                        55.537275
+                  ]
+            },
+            {
+                  "name": "Uggerslev Mølle",
+                  "text": "O moară de vânt istorică bine conservată în regiunea Funen de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        10.313991,
+                        55.528597
+                  ]
+            },
+            {
+                  "name": "Bederslev Kirke",
+                  "text": "O biserică sătească medievală din Bederslev, cu arhitectură tradițională daneză.",
+                  "category": "religious",
+                  "coords": [
+                        10.343622,
+                        55.550965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gåsesten",
+                  "text": "A prominent glacial erratic on Funen associated with local legends.",
+                  "category": "historical",
+                  "coords": [
+                        10.372968,
+                        55.540641
+                  ]
+            },
+            {
+                  "name": "Pengesten",
+                  "text": "A glacial erratic in Denmark to which folk tradition attributed special powers.",
+                  "category": "historical",
+                  "coords": [
+                        10.336822,
+                        55.514123
+                  ]
+            },
+            {
+                  "name": "Nislevgård",
+                  "text": "A historic manor house located on the Danish island of Funen.",
+                  "category": "castle",
+                  "coords": [
+                        10.385745,
+                        55.508943
+                  ]
+            },
+            {
+                  "name": "Ørritslevgaard",
+                  "text": "A traditional Danish manor house located near Otterup.",
+                  "category": "castle",
+                  "coords": [
+                        10.419215,
+                        55.524101
+                  ]
+            },
+            {
+                  "name": "Otterup Museum",
+                  "text": "A local history museum showcasing the heritage and culture of Otterup.",
+                  "category": "museum",
+                  "coords": [
+                        10.401192,
+                        55.51864
+                  ]
+            },
+            {
+                  "name": "Jeppeshøje",
+                  "text": "A group of burial mounds in the Danish countryside near Glavendrup.",
+                  "category": "landmark",
+                  "coords": [
+                        10.39216,
+                        55.537275
+                  ]
+            },
+            {
+                  "name": "Uggerslev Mølle",
+                  "text": "A well-preserved historic windmill located in the North Funen region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.313991,
+                        55.528597
+                  ]
+            },
+            {
+                  "name": "Bederslev Kirke",
+                  "text": "A medieval village church in Bederslev featuring traditional Danish architecture.",
+                  "category": "religious",
+                  "coords": [
+                        10.343622,
+                        55.550965
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "DK",
     name: { de: "Glavendrup-Runenstein", hu: "Glavendrup-rúnakő", ro: "Piatra runică Glavendrup", en: "Glavendrup Runestone" },

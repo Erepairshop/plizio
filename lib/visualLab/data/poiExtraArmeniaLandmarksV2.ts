@@ -507,7 +507,88 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/armenia-symphony-of-stones-landmarks-v2.webp"},
   {
-    id: "armenia-akhtala-fortress-landmarks-v2",
+    id: "armenia-akhtala-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "Ein prächtiges Herrenhaus aus dem frühen 20. Jahrhundert, erbaut von Mikael Aramyants.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "Ein befestigtes Kloster aus dem 10. Jahrhundert, bekannt für seine byzantinischen Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "Mikael Aramyants által épített, 20. század eleji pompás kastély.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "10. századi erődített kolostor, amely bizánci freskóiról híres.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "Un conac magnific de la începutul secolului al XX-lea, construit de Mikael Aramyants.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գևորգ Եկեղեցի",
+                  "text": "O mănăstire fortificată din secolul al X-lea, renumită pentru frescele sale bizantine.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aramyants Castle / Mansion",
+                  "text": "A magnificent early 20th-century manor built by Mikael Aramyants.",
+                  "category": "historical",
+                  "coords": [
+                        44.788783,
+                        41.152303
+                  ]
+            },
+            {
+                  "name": "Akhtala Monastery",
+                  "text": "A 10th-century fortified monastery famous for its Byzantine frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        44.764525,
+                        41.150564
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AM-LO",
     coords: [44.7601, 41.1505],

@@ -4055,7 +4055,160 @@ export const poiExtraDe4b: POI[] = [
   },
 
   {
-    id: "island-neuwerk-hh-extra",
+    id: "island-neuwerk-hh-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bernsteinzimmer",
+                  "text": "Ein Museum auf der Insel Neuwerk, das sich der Geschichte und Bearbeitung von Bernstein widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.492546,
+                        53.920813
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Neuwerk",
+                  "text": "Das älteste Gebäude der Insel und einer der ältesten Leuchttürme an der deutschen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        8.495859,
+                        53.915254
+                  ]
+            },
+            {
+                  "name": "Wattfahrten",
+                  "text": "Traditionelle Kutschfahrten durch das Wattenmeer zwischen Cuxhaven und der Insel Neuwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        8.489897,
+                        53.914291
+                  ]
+            },
+            {
+                  "name": "Radarturm Neuwerk",
+                  "text": "Ein moderner Turm auf Neuwerk, der der Schifffahrtssicherheit und Radarkontrolle dient.",
+                  "category": "tower",
+                  "coords": [
+                        8.488441,
+                        53.924821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bernsteinzimmer",
+                  "text": "Múzeum Neuwerk szigetén, amely a borostyán történetének és megmunkálásának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.492546,
+                        53.920813
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Neuwerk",
+                  "text": "A sziget legrégebbi épülete és a német tengerpart egyik legöregebb világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        8.495859,
+                        53.915254
+                  ]
+            },
+            {
+                  "name": "Wattfahrten",
+                  "text": "Hagyományos kocsikázás a Watt-tengeren keresztül Cuxhaven és Neuwerk szigete között.",
+                  "category": "landmark",
+                  "coords": [
+                        8.489897,
+                        53.914291
+                  ]
+            },
+            {
+                  "name": "Radarturm Neuwerk",
+                  "text": "Modern torony Neuwerken, amely a hajózási biztonságot és a radarellenőrzést szolgálja.",
+                  "category": "tower",
+                  "coords": [
+                        8.488441,
+                        53.924821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bernsteinzimmer",
+                  "text": "Un muzeu pe insula Neuwerk, dedicat istoriei și prelucrării chihlimbarului.",
+                  "category": "museum",
+                  "coords": [
+                        8.492546,
+                        53.920813
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Neuwerk",
+                  "text": "Cea mai veche clădire de pe insulă și unul dintre cele mai vechi faruri de pe coasta germană.",
+                  "category": "landmark",
+                  "coords": [
+                        8.495859,
+                        53.915254
+                  ]
+            },
+            {
+                  "name": "Wattfahrten",
+                  "text": "Plimbări tradiționale cu trăsura prin Marea Wadden între Cuxhaven și insula Neuwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        8.489897,
+                        53.914291
+                  ]
+            },
+            {
+                  "name": "Radarturm Neuwerk",
+                  "text": "Un turn modern pe Neuwerk, care servește siguranței navigației și controlului radar.",
+                  "category": "tower",
+                  "coords": [
+                        8.488441,
+                        53.924821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bernsteinzimmer",
+                  "text": "A museum on Neuwerk Island dedicated to the history and processing of amber.",
+                  "category": "museum",
+                  "coords": [
+                        8.492546,
+                        53.920813
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Neuwerk",
+                  "text": "The oldest building on the island and one of the oldest lighthouses on the German coast.",
+                  "category": "landmark",
+                  "coords": [
+                        8.495859,
+                        53.915254
+                  ]
+            },
+            {
+                  "name": "Wattfahrten",
+                  "text": "Traditional carriage rides through the Wadden Sea between Cuxhaven and Neuwerk Island.",
+                  "category": "landmark",
+                  "coords": [
+                        8.489897,
+                        53.914291
+                  ]
+            },
+            {
+                  "name": "Radarturm Neuwerk",
+                  "text": "A modern tower on Neuwerk used for maritime safety and radar control.",
+                  "category": "tower",
+                  "coords": [
+                        8.488441,
+                        53.924821
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-HH",
     coords: [8.4966, 53.9158],
@@ -7441,7 +7594,268 @@ export const poiExtraDe4b: POI[] = [
     }, image: "/poi-images/mountain-schaumberg-sl-extra.webp"},
 
   {
-    id: "lake-bostalsee-sl-extra",
+    id: "lake-bostalsee-sl-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "Ein geschützter Erlenbruchwald südlich von Selbach, der seltene Pflanzen- und Tierarten beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "Ein bedeutendes Naturschutzgebiet am Bostalsee, das wichtige Lebensräume für Wasservögel schützt.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Die Überreste einer ehemaligen Wasserburg, die von der historischen Befestigung der Region zeugen.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "Ein kleines Tiergehege am Bostalsee, in dem Besucher Ziegen beobachten und füttern können.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Ein großer tropischer Wasserpark am Bostalsee mit verschiedenen Rutschen und Badebecken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "Ein Hügel in der Nähe des Bostalsees, der Ausblicke auf die umliegende Landschaft des Saarlandes bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Ein Kulturzentrum in einer historischen Mühle, das Kunstausstellungen und kreative Workshops anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "Selbachtól délre fekvő védett égerláp-erdő, amely ritka növény- és állatfajoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "Jelentős természetvédelmi terület a Bostalsee-nél, amely fontos élőhelyeket biztosít a vízimadaraknak.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Egy egykori vízi vár maradványai, amelyek a régió történelmi erődítményeiről tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "Kis állatkifutó a Bostalsee-nél, ahol a látogatók kecskéket figyelhetnek meg és etethetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Nagy trópusi vízi park a Bostalsee-nél, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "Domb a Bostalsee közelében, amely kilátást nyújt a környező saar-vidéki tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Kulturális központ egy történelmi malomban, amely művészeti kiállításokat és kreatív műhelyeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "O pădure de mlaștină protejată la sud de Selbach, care adăpostește specii rare de plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "O rezervație naturală importantă la Bostalsee, care protejează habitate esențiale pentru păsările de apă.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Rămășițele unei foste cetăți pe apă, care atestă fortificațiile istorice ale regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "Un mic țarc de animale la Bostalsee, unde vizitatorii pot observa și hrăni capre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Un mare parc acvatic tropical la Bostalsee, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "Un deal în apropiere de Bostalsee, care oferă panorame asupra peisajului înconjurător din Saarland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Un centru cultural într-o moară istorică, ce oferă expoziții de artă și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "A protected alder carr forest south of Selbach, home to rare plant and animal species.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "A significant nature reserve at Bostalsee, protecting important habitats for waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "The remains of a former water castle, testifying to the historical fortifications of the region.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Ziegengehege",
+                  "text": "A small animal enclosure at Bostalsee where visitors can observe and feed goats.",
+                  "category": "recreational",
+                  "coords": [
+                        7.028124,
+                        49.539455
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "A large tropical water park at Bostalsee featuring various slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "A hill near Bostalsee offering views of the surrounding Saarland landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "A cultural center in a historic mill offering art exhibitions and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-SL",
     coords: [7.0600, 49.5630],

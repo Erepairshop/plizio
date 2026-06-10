@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const irelandNatureV2: POI[] = [
 
   {
-    id: "ireland-silvermines-mountains-nature-v2",
+    id: "ireland-silvermines-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ein prähistorisches Megalithgrab in den Silvermines Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.145158,
+                        52.763771
+                  ]
+            },
+            {
+                  "name": "Knockane",
+                  "text": "Ein Hügel in der irischen Grafschaft Tipperary.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230453,
+                        52.752834
+                  ]
+            },
+            {
+                  "name": "Knockteige",
+                  "text": "Ein Gipfel in der Region der Silvermines Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16396,
+                        52.731438
+                  ]
+            },
+            {
+                  "name": "Knockbrack",
+                  "text": "Ein Berggipfel in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.20653,
+                        52.783246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Preshistorikus megalitikus sír a Silvermines-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.145158,
+                        52.763771
+                  ]
+            },
+            {
+                  "name": "Knockane",
+                  "text": "Domb az írországi Tipperary megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230453,
+                        52.752834
+                  ]
+            },
+            {
+                  "name": "Knockteige",
+                  "text": "Hegycsúcs a Silvermines-hegység régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16396,
+                        52.731438
+                  ]
+            },
+            {
+                  "name": "Knockbrack",
+                  "text": "Hegycsúcs Írországban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.20653,
+                        52.783246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un mormânt megalitic preistoric în munții Silvermines.",
+                  "category": "historical",
+                  "coords": [
+                        -8.145158,
+                        52.763771
+                  ]
+            },
+            {
+                  "name": "Knockane",
+                  "text": "Un deal în comitatul Tipperary, Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230453,
+                        52.752834
+                  ]
+            },
+            {
+                  "name": "Knockteige",
+                  "text": "Un vârf în regiunea munților Silvermines.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16396,
+                        52.731438
+                  ]
+            },
+            {
+                  "name": "Knockbrack",
+                  "text": "Un vârf muntos în Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.20653,
+                        52.783246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A prehistoric megalithic tomb in the Silvermines Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.145158,
+                        52.763771
+                  ]
+            },
+            {
+                  "name": "Knockane",
+                  "text": "A hill in County Tipperary, Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230453,
+                        52.752834
+                  ]
+            },
+            {
+                  "name": "Knockteige",
+                  "text": "A peak in the Silvermines Mountains region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16396,
+                        52.731438
+                  ]
+            },
+            {
+                  "name": "Knockbrack",
+                  "text": "A mountain peak in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.20653,
+                        52.783246
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Silvermines Mountains", hu: "Silvermines-hegység", ro: "Munții Silvermines", en: "Silvermines Mountains" },
@@ -48,7 +201,196 @@ export const irelandNatureV2: POI[] = [
     image: "/poi-images/ireland-silvermines-mountains-nature-v2.webp",
   },
   {
-    id: "ireland-lough-gowna-nature-v2",
+    id: "ireland-lough-gowna-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Eine antike archäologische Stätte und ein Megalithgrab bei Lough Gowna.",
+                  "category": "historical",
+                  "coords": [
+                        -7.596195,
+                        53.856868
+                  ]
+            },
+            {
+                  "name": "Scrabby Hill Fort",
+                  "text": "Die Überreste einer antiken Wallburg mit Blick auf das Gebiet von Lough Gowna.",
+                  "category": "historical",
+                  "coords": [
+                        -7.536856,
+                        53.880334
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Eine lokale katholische Kirche, die der Gemeinde in der Region Lough Gowna dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.535371,
+                        53.87506
+                  ]
+            },
+            {
+                  "name": "St. Thomas's Church",
+                  "text": "Ein Gotteshaus in der Gegend von Lough Gowna.",
+                  "category": "religious",
+                  "coords": [
+                        -7.611864,
+                        53.853708
+                  ]
+            },
+            {
+                  "name": "Saint Colmcille's Church",
+                  "text": "Ein religiöses Gebäude und Gotteshaus, das dem Heiligen Colmcille gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.604286,
+                        53.845505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ősi régészeti lelőhely és megalitikus sír a Gowna-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.596195,
+                        53.856868
+                  ]
+            },
+            {
+                  "name": "Scrabby Hill Fort",
+                  "text": "Egy ősi dombvár maradványai, amelyek a Lough Gowna környékére néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -7.536856,
+                        53.880334
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Helyi katolikus templom a Lough Gowna-i közösség szolgálatában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.535371,
+                        53.87506
+                  ]
+            },
+            {
+                  "name": "St. Thomas's Church",
+                  "text": "Templom Lough Gowna területén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.611864,
+                        53.853708
+                  ]
+            },
+            {
+                  "name": "Saint Colmcille's Church",
+                  "text": "Szent Kolumba tiszteletére szentelt vallási épület és templom.",
+                  "category": "religious",
+                  "coords": [
+                        -7.604286,
+                        53.845505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un sit arheologic antic și mormânt megalitic lângă Lough Gowna.",
+                  "category": "historical",
+                  "coords": [
+                        -7.596195,
+                        53.856868
+                  ]
+            },
+            {
+                  "name": "Scrabby Hill Fort",
+                  "text": "Rămășițele unei vechi cetăți de deal cu vedere spre zona Lough Gowna.",
+                  "category": "historical",
+                  "coords": [
+                        -7.536856,
+                        53.880334
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "O biserică catolică locală care deservește comunitatea din regiunea Lough Gowna.",
+                  "category": "religious",
+                  "coords": [
+                        -7.535371,
+                        53.87506
+                  ]
+            },
+            {
+                  "name": "St. Thomas's Church",
+                  "text": "Un lăcaș de cult situat în zona Lough Gowna.",
+                  "category": "religious",
+                  "coords": [
+                        -7.611864,
+                        53.853708
+                  ]
+            },
+            {
+                  "name": "Saint Colmcille's Church",
+                  "text": "O clădire religioasă și lăcaș de cult dedicat Sfântului Colmcille.",
+                  "category": "religious",
+                  "coords": [
+                        -7.604286,
+                        53.845505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "An ancient archaeological site and megalithic tomb near Lough Gowna.",
+                  "category": "historical",
+                  "coords": [
+                        -7.596195,
+                        53.856868
+                  ]
+            },
+            {
+                  "name": "Scrabby Hill Fort",
+                  "text": "The remains of an ancient hill fort overlooking the Lough Gowna area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.536856,
+                        53.880334
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "A local Catholic church serving the community in the Lough Gowna region.",
+                  "category": "religious",
+                  "coords": [
+                        -7.535371,
+                        53.87506
+                  ]
+            },
+            {
+                  "name": "St. Thomas's Church",
+                  "text": "A place of worship located in the Lough Gowna area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.611864,
+                        53.853708
+                  ]
+            },
+            {
+                  "name": "Saint Colmcille's Church",
+                  "text": "A religious building and place of worship dedicated to Saint Colmcille.",
+                  "category": "religious",
+                  "coords": [
+                        -7.604286,
+                        53.845505
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IE",
     name: { de: "Lough Gowna", hu: "Lough Gowna-tó", ro: "Lacul Gowna", en: "Lough Gowna" },
@@ -138,7 +480,52 @@ export const irelandNatureV2: POI[] = [
     image: "/poi-images/ireland-river-suir-nature-v2.webp",
   },
   {
-    id: "ireland-slieve-anierin-nature-v2",
+    id: "ireland-slieve-anierin-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sliabh an Iarainn",
+                  "text": "Ein Berg in Irland, der für seine Bergbaugeschichte und seine Bedeutung in der lokalen Folklore bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.972035,
+                        54.092553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sliabh an Iarainn",
+                  "text": "Írországi hegycsúcs, amely bányászati múltjáról és a helyi folklórban betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.972035,
+                        54.092553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sliabh an Iarainn",
+                  "text": "Un vârf muntos din Irlanda, cunoscut pentru istoria sa minieră și importanța în folclorul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.972035,
+                        54.092553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sliabh an Iarainn",
+                  "text": "A mountain peak in Ireland known for its mining history and significance in local folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.972035,
+                        54.092553
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Anierin", hu: "Slieve Anierin-hegység", ro: "Munții Slieve Anierin", en: "Slieve Anierin" },
@@ -183,7 +570,124 @@ export const irelandNatureV2: POI[] = [
     image: "/poi-images/ireland-slieve-anierin-nature-v2.webp",
   },
   {
-    id: "ireland-galtee-mountains-nature-v2",
+    id: "ireland-galtee-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galtymore",
+                  "text": "Der höchste Gipfel der Galtee Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Ein Berggipfel in den Galtee Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Historische Ruinen in der Region der Galtee Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galtymore",
+                  "text": "Az írországi Galtee-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Egy hegycsúcs a Galtee-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Történelmi romok a Galtee-hegység vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galtymore",
+                  "text": "Cel mai înalt vârf din Munții Galtee, în Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Un vârf montan în Munții Galtee.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Ruine istorice în regiunea Munților Galtee.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galtymore",
+                  "text": "The highest peak in the Galtee Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "A mountain peak located within the Galtee Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Historical ruins located in the Galtee Mountains region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Galtee Mountains", hu: "Galtee-hegység", ro: "Munții Galtee", en: "Galtee Mountains" },
@@ -318,7 +822,304 @@ export const irelandNatureV2: POI[] = [
     image: "/poi-images/ireland-lough-ergne-nature-v2.webp",
   },
   {
-    id: "ireland-macgillycuddy-reeks-nature-v2",
+    id: "ireland-macgillycuddy-reeks-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Der zweithöchste Berg Irlands im MacGillycuddy’s Reeks Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Der höchste Berg Irlands, gelegen in der Grafschaft Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Der dritthöchste Berg Irlands im MacGillycuddy’s Reeks Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Ein Berggipfel im MacGillycuddy’s Reeks Gebirge, westlich des Caher-Hauptgipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Ein Gipfel in der Gebirgskette der MacGillycuddy’s Reeks in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Ein markanter Berggipfel im Gebirge der MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Ein Gipfel in den MacGillycuddy’s Reeks, der Teil der höchsten Bergkette Irlands ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Ein steiler Berggipfel in den MacGillycuddy’s Reeks im Südwesten Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Írország második legmagasabb hegycsúcsa a MacGillycuddy’s Reeks hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Írország legmagasabb hegycsúcsa Kerry megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Írország harmadik legmagasabb hegye a MacGillycuddy’s Reeks hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegységben, a Caher-főcsúcstól nyugatra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Hegycsúcs az írországi MacGillycuddy’s Reeks hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Jellegzetes hegycsúcs a MacGillycuddy’s Reeks hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegységben, Írország legmagasabb láncának része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Meredek hegycsúcs a MacGillycuddy’s Reeks hegységben, Írország délnyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Al doilea cel mai înalt vârf din Irlanda, în munții MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Cel mai înalt munte din Irlanda, situat în comitatul Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Al treilea cel mai înalt munte din Irlanda, în munții MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Un vârf montan în munții MacGillycuddy’s Reeks, la vest de vârful principal Caher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Un vârf din lanțul muntos MacGillycuddy’s Reeks din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Un vârf montan distinctiv în munții MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Un vârf în MacGillycuddy’s Reeks, parte din cel mai înalt lanț muntos al Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Un vârf montan abrupt în MacGillycuddy’s Reeks, în sud-vestul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "The second-highest mountain in Ireland, located in the MacGillycuddy’s Reeks range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "The highest mountain in Ireland, located in County Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Ireland's third-highest mountain, situated in the MacGillycuddy’s Reeks range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "A mountain peak in the MacGillycuddy’s Reeks range, located west of the main Caher summit.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "A peak in the MacGillycuddy’s Reeks mountain range in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "A distinctive mountain peak within the MacGillycuddy’s Reeks range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "A peak in the MacGillycuddy’s Reeks, part of Ireland's highest mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "A steep mountain peak in the MacGillycuddy’s Reeks in southwest Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "MacGillycuddy's Reeks", hu: "MacGillycuddy's Reeks-hegység", ro: "Munții MacGillycuddy's Reeks", en: "MacGillycuddy's Reeks" },

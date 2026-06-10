@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const romaniaHistoryV2: POI[] = [
 
   {
-    id: "romania-cetatea-capidava-history-v2",
+    id: "romania-cetatea-capidava-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Situl arheologic „Cetatea Capidava”",
+                  "text": "Eine bedeutende römische und byzantinische Festung am Ufer der Donau in Rumänien.",
+                  "category": "historical",
+                  "coords": [
+                        28.090425,
+                        44.493829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Situl arheologic „Cetatea Capidava”",
+                  "text": "Jelentős római és bizánci erődítmény a Duna partján, Romániában.",
+                  "category": "historical",
+                  "coords": [
+                        28.090425,
+                        44.493829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Situl arheologic „Cetatea Capidava”",
+                  "text": "O importantă cetate romană și bizantină situată pe malul Dunării, în județul Constanța.",
+                  "category": "historical",
+                  "coords": [
+                        28.090425,
+                        44.493829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Situl arheologic „Cetatea Capidava”",
+                  "text": "An important Roman and Byzantine fortress located on the banks of the Danube in Romania.",
+                  "category": "historical",
+                  "coords": [
+                        28.090425,
+                        44.493829
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "RO",
     name: { de: "Burg Capidava", hu: "Capidava vára", ro: "Cetatea Capidava", en: "Capidava Fortress" },
@@ -48,7 +93,52 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-cetatea-capidava-history-v2.webp",
   },
   {
-    id: "romania-mausoleul-eroilor-mateias-history-v2",
+    id: "romania-mausoleul-eroilor-mateias-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puțișorului",
+                  "text": "Ein Berggipfel in der Nähe des Helden-Mausoleums von Mateiaș.",
+                  "category": "landmark",
+                  "coords": [
+                        25.196498,
+                        45.274057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puțișorului",
+                  "text": "Hegycúcs a Mateiaș-hősök mauzóleumának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.196498,
+                        45.274057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puțișorului",
+                  "text": "Un vârf montan situat în apropierea Mausoleului Eroilor de la Mateiaș.",
+                  "category": "landmark",
+                  "coords": [
+                        25.196498,
+                        45.274057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puțișorului",
+                  "text": "A mountain peak located near the Mateiaș Heroes Mausoleum.",
+                  "category": "landmark",
+                  "coords": [
+                        25.196498,
+                        45.274057
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "RO",
     name: { de: "Mausoleum von Mateiaș", hu: "Mateiaș-hősi emlékmű", ro: "Mausoleul Eroilor de la Mateiaș", en: "Mateiaș Heroes Mausoleum" },
@@ -183,7 +273,88 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-palatul-vechi-curtea-domneasca-bacau-history-v2.webp",
   },
   {
-    id: "romania-biserica-fortificata-mosna-history-v2",
+    id: "romania-biserica-fortificata-mosna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirchenburg Meschen",
+                  "text": "Eine bedeutende sächsische Kirchenburg in Moșna, bekannt für ihre gotische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        24.395296,
+                        46.091903
+                  ]
+            },
+            {
+                  "name": "Biserică cetate",
+                  "text": "Ein historischer Kirchenburgkomplex im Dorf Moșna.",
+                  "category": "landmark",
+                  "coords": [
+                        24.342761,
+                        46.060534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica fortificată din Moșna",
+                  "text": "Jelentős szász erődtemplom Muzsnán, amely gótikus építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.395296,
+                        46.091903
+                  ]
+            },
+            {
+                  "name": "Biserică cetate",
+                  "text": "Történelmi erődtemplom-együttes Muzsna faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.342761,
+                        46.060534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica fortificată din Moșna",
+                  "text": "O importantă biserică evanghelică fortificată săsească din Moșna, cunoscută pentru arhitectura sa gotică.",
+                  "category": "landmark",
+                  "coords": [
+                        24.395296,
+                        46.091903
+                  ]
+            },
+            {
+                  "name": "Biserică cetate",
+                  "text": "Un complex istoric de biserică fortificată situat în satul Moșna.",
+                  "category": "landmark",
+                  "coords": [
+                        24.342761,
+                        46.060534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Fortified Church of Moșna",
+                  "text": "A significant Saxon fortified Lutheran church in Moșna, known for its Gothic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        24.395296,
+                        46.091903
+                  ]
+            },
+            {
+                  "name": "Biserică cetate",
+                  "text": "A historical fortified church complex located in the village of Moșna.",
+                  "category": "landmark",
+                  "coords": [
+                        24.342761,
+                        46.060534
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RO",
     name: { de: "Kirchenburg Mosna", hu: "Muzsnai erődtemplom", ro: "Biserica fortificată Moșna", en: "Moșna Fortified Church" },
@@ -228,7 +399,52 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-biserica-fortificata-mosna-history-v2.webp",
   },
   {
-    id: "romania-castelul-teleki-gornesti-history-v2",
+    id: "romania-castelul-teleki-gornesti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelul Teleki",
+                  "text": "Ein bedeutendes Barockschloss, bekannt als die „Perle Siebenbürgens“, umgeben von einem Landschaftspark.",
+                  "category": "castle",
+                  "coords": [
+                        24.645397,
+                        46.669587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teleki-kastély",
+                  "text": "Jelentős barokk kastély, amelyet „Erdély gyöngyszemeként” ismernek, tájképi parkkal körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        24.645397,
+                        46.669587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Teleki",
+                  "text": "Un castel baroc semnificativ cunoscut sub numele de „Perla Transilvaniei”, înconjurat de un parc dendrologic.",
+                  "category": "castle",
+                  "coords": [
+                        24.645397,
+                        46.669587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelul Teleki",
+                  "text": "A significant Baroque castle known as the 'Pearl of Transylvania,' surrounded by a landscape park.",
+                  "category": "castle",
+                  "coords": [
+                        24.645397,
+                        46.669587
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RO",
     name: { de: "Schloss Teleki Gornesti", hu: "Gernyeszegi Teleki-kastély", ro: "Castelul Teleki din Gornești", en: "Teleki Castle in Gornești" },
@@ -453,7 +669,124 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-golescu-history-v2.webp",
   },
     {
-    id: "romania-biserica-fortificata-calnic-history-v2",
+    id: "romania-biserica-fortificata-calnic-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Die Burg Kelling ist ein UNESCO-Weltkulturerbe und eine bedeutende sächsische Kirchenburg.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Dieses Museum zeigt traditionelle Gegenstände und das lokale Erbe von Kelling.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Ein antikes Denkmal in Kelling, das dem Titus Flavius Rufus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Kelnek vára az UNESCO Világörökség része és egy jelentős szász erődtemplom.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Ez a múzeum Kelnek hagyományos tárgyait és helyi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Egy ókori emlékmű Kelnekben, amelyet Titus Flavius Rufusnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea din Câlnic",
+                  "text": "Cetatea Câlnic este inclusă în patrimoniul UNESCO și este o importantă biserică fortificată săsească.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Această expoziție muzeală prezintă obiecte tradiționale și moștenirea locală din Câlnic.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "Un monument antic din Câlnic dedicat lui Titus Flavius Rufus.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Câlnic Citadel",
+                  "text": "Câlnic Citadel is a UNESCO World Heritage Site and a significant Saxon fortified church.",
+                  "category": "castle",
+                  "coords": [
+                        23.660453,
+                        45.889055
+                  ]
+            },
+            {
+                  "name": "Ethnographic exhibition",
+                  "text": "This museum exhibition showcases traditional objects and the local heritage of Câlnic.",
+                  "category": "museum",
+                  "coords": [
+                        23.658325,
+                        45.888519
+                  ]
+            },
+            {
+                  "name": "tomb of Titus Flavius Rufus",
+                  "text": "An ancient monument in Câlnic dedicated to Titus Flavius Rufus.",
+                  "category": "historical",
+                  "coords": [
+                        23.625241,
+                        45.903739
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RO",
     name: { de: "Kirchenburg Kelling", hu: "Kelneki erődtemplom", ro: "Biserica fortificată Câlnic", en: "Câlnic Fortified Church" },
@@ -633,7 +966,52 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-bellu-history-v2.webp",
   },
   {
-    id: "romania-manastirea-vorona-history-v2",
+    id: "romania-manastirea-vorona-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Vorona",
+                  "text": "Ein Gedenkmonument in der Nähe des Vorona-Klosters in einem ruhigen Waldgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        26.639497,
+                        47.581686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Vorona",
+                  "text": "Emlékmű a Vorona-kolostor közelében, egy csendes, erdős területen.",
+                  "category": "historical",
+                  "coords": [
+                        26.639497,
+                        47.581686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Vorona",
+                  "text": "Un monument comemorativ situat lângă Mănăstirea Vorona, într-o zonă împădurită liniștită.",
+                  "category": "historical",
+                  "coords": [
+                        26.639497,
+                        47.581686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Vorona",
+                  "text": "A memorial monument located near the Vorona Monastery in a peaceful wooded area.",
+                  "category": "historical",
+                  "coords": [
+                        26.639497,
+                        47.581686
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "RO",
     name: { de: "Kloster Vorona", hu: "Vorona kolostor", ro: "Mănăstirea Vorona", en: "Vorona Monastery" },
@@ -723,7 +1101,52 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-malaxa-history-v2.webp",
   },
   {
-    id: "romania-conacul-logofat-history-v2",
+    id: "romania-conacul-logofat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Nucet",
+                  "text": "Eine Sammlung religiöser Artefakte im Kloster Nucet.",
+                  "category": "museum",
+                  "coords": [
+                        25.540904,
+                        44.782805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Nucet",
+                  "text": "Vallási artefaktumok gyűjteménye a Nucet kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        25.540904,
+                        44.782805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Muzeală a Mănăstirii Nucet",
+                  "text": "O colecție de artefacte religioase de la Mănăstirea Nucet.",
+                  "category": "museum",
+                  "coords": [
+                        25.540904,
+                        44.782805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Collection of Nucet Monastery",
+                  "text": "A collection of religious artifacts at the Nucet Monastery.",
+                  "category": "museum",
+                  "coords": [
+                        25.540904,
+                        44.782805
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Logofăt", hu: "Logofăt-kúria", ro: "Conacul Logofăt", en: "Logofăt Manor" },
@@ -768,7 +1191,124 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-logofat-history-v2.webp",
   },
   {
-    id: "romania-conacul-archim-history-v2",
+    id: "romania-conacul-archim-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Căminul Cultural din Cezieni",
+                  "text": "Ein lokales Kulturzentrum in Cezieni, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        24.268816,
+                        44.186871
+                  ]
+            },
+            {
+                  "name": "Conacul Cesianu-Brâncoveanu",
+                  "text": "Ein historisches Herrenhaus in Cezieni, das ein Beispiel lokaler Architektur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        24.270201,
+                        44.189064
+                  ]
+            },
+            {
+                  "name": "Conacul Oteteleșanu",
+                  "text": "Ein bedeutendes historisches Herrenhaus in der Gemeinde Cezieni.",
+                  "category": "historical",
+                  "coords": [
+                        24.266221,
+                        44.189632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Căminul Cultural din Cezieni",
+                  "text": "Cezieni helyi kulturális központja, amely közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.268816,
+                        44.186871
+                  ]
+            },
+            {
+                  "name": "Conacul Cesianu-Brâncoveanu",
+                  "text": "Történelmi kúria Cezieniben, amely a helyi építészet egyik példája.",
+                  "category": "historical",
+                  "coords": [
+                        24.270201,
+                        44.189064
+                  ]
+            },
+            {
+                  "name": "Conacul Oteteleșanu",
+                  "text": "Jelentős történelmi kúria Cezieni községben.",
+                  "category": "historical",
+                  "coords": [
+                        24.266221,
+                        44.189632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Căminul Cultural din Cezieni",
+                  "text": "Un centru cultural local din Cezieni, folosit pentru evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        24.268816,
+                        44.186871
+                  ]
+            },
+            {
+                  "name": "Conacul Cesianu-Brâncoveanu",
+                  "text": "Un conac istoric din Cezieni, reprezentativ pentru arhitectura locală.",
+                  "category": "historical",
+                  "coords": [
+                        24.270201,
+                        44.189064
+                  ]
+            },
+            {
+                  "name": "Conacul Oteteleșanu",
+                  "text": "Un conac istoric important situat în comuna Cezieni.",
+                  "category": "historical",
+                  "coords": [
+                        24.266221,
+                        44.189632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Căminul Cultural din Cezieni",
+                  "text": "A local cultural center in Cezieni used for community events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.268816,
+                        44.186871
+                  ]
+            },
+            {
+                  "name": "Conacul Cesianu-Brâncoveanu",
+                  "text": "A historical manor house in Cezieni, representing local architecture.",
+                  "category": "historical",
+                  "coords": [
+                        24.270201,
+                        44.189064
+                  ]
+            },
+            {
+                  "name": "Conacul Oteteleșanu",
+                  "text": "A significant historical manor house located in the Cezieni commune.",
+                  "category": "historical",
+                  "coords": [
+                        24.266221,
+                        44.189632
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Archim", hu: "Archim-kúria", ro: "Conacul Archim", en: "Archim Manor" },
@@ -813,7 +1353,88 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-archim-history-v2.webp",
   },
   {
-    id: "romania-cetatea-capalna-history-v2",
+    id: "romania-cetatea-capalna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea dacică de la Căpâlna",
+                  "text": "Eine antike dakische Festung, die zum UNESCO-Welterbe gehört.",
+                  "category": "historical",
+                  "coords": [
+                        23.603412,
+                        45.822201
+                  ]
+            },
+            {
+                  "name": "troița",
+                  "text": "Ein religiöses Denkmal in Form eines verzierten Wegkreuzes bei der Festung Căpâlna.",
+                  "category": "historical",
+                  "coords": [
+                        23.608162,
+                        45.831031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetatea dacică de la Căpâlna",
+                  "text": "Az UNESCO Világörökség részét képező ókori dák erődítmény.",
+                  "category": "historical",
+                  "coords": [
+                        23.603412,
+                        45.822201
+                  ]
+            },
+            {
+                  "name": "troița",
+                  "text": "Díszített útmenti kereszt (troița) a Căpâlna erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.608162,
+                        45.831031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea dacică de la Căpâlna",
+                  "text": "O fortăreață dacică antică inclusă în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        23.603412,
+                        45.822201
+                  ]
+            },
+            {
+                  "name": "troița",
+                  "text": "O troiță sculptată situată în apropierea cetății Căpâlna.",
+                  "category": "historical",
+                  "coords": [
+                        23.608162,
+                        45.831031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dacian fortress of Căpâlna",
+                  "text": "An ancient Dacian fortress that is part of the UNESCO World Heritage list.",
+                  "category": "historical",
+                  "coords": [
+                        23.603412,
+                        45.822201
+                  ]
+            },
+            {
+                  "name": "troița",
+                  "text": "A traditional religious roadside cross (troița) located near Căpâlna Fortress.",
+                  "category": "historical",
+                  "coords": [
+                        23.608162,
+                        45.831031
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "RO",
     name: { de: "Burg Căpâlna", hu: "Kápolnai vár", ro: "Cetatea Căpâlna", en: "Căpâlna Fortress" },
@@ -993,7 +1614,196 @@ export const romaniaHistoryV2: POI[] = [
     image: "/poi-images/romania-conacul-golescu-grant-history-v2.webp",
   },
   {
-    id: "romania-cetatea-coltesti-history-v2",
+    id: "romania-cetatea-coltesti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "Eine eindrucksvolle mittelalterliche Festungsruine bei Colțești, die auf einem Kalksteinfelsen thront.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Ein Museum in Colțești, das die traditionelle Volkskunst und ländliche Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Die historischen Überreste der Burg von Colțești, die Zeugnis von der regionalen Vergangenheit ablegen.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "Eine historische Wassermühle in Colțești, die als Beispiel für traditionelle Technik erhalten blieb.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Ein Startplatz für Gleitschirmflieger mit hervorragender Aussicht auf das Umland von Colțești.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torockószentgyörgyi vár",
+                  "text": "Lenyűgöző középkori várrom Torockószentgyörgy (Colțești) közelében, egy mészkősziklán.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Néprajzi Múzeum",
+                  "text": "Múzeum Torockószentgyörgyön (Colțești), amely a régió népművészetét és vidéki kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "A torockószentgyörgyi vár történelmi maradványai, amelyek a régió múltjáról tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Malom",
+                  "text": "Történelmi vízimalom Torockószentgyörgyön (Colțești), amely a hagyományos technika példájaként maradt fenn.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Siklóernyős starthely, ahonnan kiváló kilátás nyílik Torockószentgyörgy (Colțești) környékére.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "O ruină impresionantă de cetate medievală de lângă Colțești, situată pe o stâncă de calcar.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Un muzeu din Colțești care prezintă arta populară tradițională și cultura rurală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Vestigiile istorice ale castelului din Colțești, care stau mărturie pentru trecutul regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "O moară de apă istorică din Colțești, conservată ca exemplu de tehnologie tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Un loc de lansare pentru parapantă, cu vederi excelente asupra împrejurimilor localității Colțești.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trascău Citadel",
+                  "text": "An impressive medieval fortress ruin near Colțești, perched on a limestone rock.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum in Colțești presenting the traditional folk art and rural culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "The historical remains of the castle in Colțești, bearing witness to the regional past.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "A historic water mill in Colțești, preserved as an example of traditional technology.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "A paragliding launch site with excellent views of the surroundings of Colțești.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "RO",
     name: { de: "Burg Colțești", hu: "Torockószentgyörgyi vár", ro: "Cetatea Colțești", en: "Colțești Fortress" },

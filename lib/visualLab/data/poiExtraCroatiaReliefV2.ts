@@ -141,7 +141,196 @@ imageHint: "Ucka mountain tower Vojak",
     },
     image: "/poi-images/croatia-ucka-relief-v2.webp",
 },  {
-    id: "croatia-papuk-relief-v2",
+    id: "croatia-papuk-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Papuk",
+                  "text": "Der Naturpark Papuk ist ein Schutzgebiet in Kroatien, das für seine geologische Vielfalt und Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Lapjak",
+                  "text": "Lapjak ist ein Berggipfel im Papuk-Gebirge, der bei Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.653894,
+                        45.484674
+                  ]
+            },
+            {
+                  "name": "Lipovac",
+                  "text": "Lipovac ist einer der markanten Gipfel in der Bergregion Papuk.",
+                  "category": "landmark",
+                  "coords": [
+                        17.620156,
+                        45.493219
+                  ]
+            },
+            {
+                  "name": "Papuk",
+                  "text": "Der Papuk ist der höchste Gipfel des Papuk-Gebirges im Osten Kroatiens.",
+                  "category": "landmark",
+                  "coords": [
+                        17.603338,
+                        45.522393
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Dieser Partisanenfriedhof im Papuk-Gebirge dient als Gedenkstätte.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "A Papuk Natúrpark egy horvátországi védett terület, amely geológiai sokszínűségéről és erdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Lapjak",
+                  "text": "A Lapjak a Papuk-hegység egyik hegycsúcsa, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.653894,
+                        45.484674
+                  ]
+            },
+            {
+                  "name": "Lipovac",
+                  "text": "A Lipovac a Papuk hegyvidék egyik nevezetes csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.620156,
+                        45.493219
+                  ]
+            },
+            {
+                  "name": "Papuk",
+                  "text": "A Papuk a kelet-horvátországi Papuk-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.603338,
+                        45.522393
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Ez a Papuk-hegységben található partizán temető emlékhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Papuk",
+                  "text": "Parcul Natural Papuk este o arie protejată din Croația, cunoscută pentru diversitatea sa geologică și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Lapjak",
+                  "text": "Lapjak este un vârf muntos din lanțul Papuk, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        17.653894,
+                        45.484674
+                  ]
+            },
+            {
+                  "name": "Lipovac",
+                  "text": "Lipovac este unul dintre vârfurile notabile situate în regiunea muntoasă Papuk.",
+                  "category": "landmark",
+                  "coords": [
+                        17.620156,
+                        45.493219
+                  ]
+            },
+            {
+                  "name": "Papuk",
+                  "text": "Papuk este cel mai înalt vârf al lanțului muntos Papuk din estul Croației.",
+                  "category": "landmark",
+                  "coords": [
+                        17.603338,
+                        45.522393
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Acest cimitir al partizanilor din munții Papuk servește ca monument memorial.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nature Park Papuk",
+                  "text": "Papuk Nature Park is a protected area in Croatia known for its geological diversity and forests.",
+                  "category": "natural",
+                  "coords": [
+                        17.684376,
+                        45.51208
+                  ]
+            },
+            {
+                  "name": "Lapjak",
+                  "text": "Lapjak is a mountain peak within the Papuk range, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        17.653894,
+                        45.484674
+                  ]
+            },
+            {
+                  "name": "Lipovac",
+                  "text": "Lipovac is one of the notable peaks located in the Papuk mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.620156,
+                        45.493219
+                  ]
+            },
+            {
+                  "name": "Papuk",
+                  "text": "Papuk is the highest peak of the Papuk mountain range in eastern Croatia.",
+                  "category": "landmark",
+                  "coords": [
+                        17.603338,
+                        45.522393
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "This partisan cemetery in the Papuk mountains serves as a memorial monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Papuk", hu: "Papuk-hegység", ro: "Munții Papuk", en: "Papuk"},
@@ -325,7 +514,196 @@ imageHint: "Lika plateau landscape Croatia",
     },
     image: "/poi-images/croatia-lika-relief-v2.webp",
 },  {
-    id: "croatia-moslavacka-gora-relief-v2",
+    id: "croatia-moslavacka-gora-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionalpark Moslavačka gora",
+                  "text": "Ein Naturpark in Kroatien, der für seine Hügellandschaften und Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.718454,
+                        45.628952
+                  ]
+            },
+            {
+                  "name": "Bršljanac",
+                  "text": "Eine archäologische Fundstätte in der Region Moslavačka gora.",
+                  "category": "historical",
+                  "coords": [
+                        16.789204,
+                        45.621342
+                  ]
+            },
+            {
+                  "name": "Denkmal für die Revolution der Einwohner von Moslavina",
+                  "text": "Ein monumentales Denkmal in Kroatien, das der Revolution von Moslavina gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.777772,
+                        45.640816
+                  ]
+            },
+            {
+                  "name": "Bela Crkva",
+                  "text": "Historische Ruinen in der hügeligen Landschaft der Moslavačka gora.",
+                  "category": "historical",
+                  "coords": [
+                        16.74836,
+                        45.597552
+                  ]
+            },
+            {
+                  "name": "Manastir Bršljanac",
+                  "text": "Ein historisches Kloster in der Region der Moslavačka gora.",
+                  "category": "religious",
+                  "coords": [
+                        16.795859,
+                        45.618026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moslavačka gora regionális park",
+                  "text": "Természetvédelmi terület Horvátországban, amely dombjairól és erdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.718454,
+                        45.628952
+                  ]
+            },
+            {
+                  "name": "Brestyanóc",
+                  "text": "Régészeti lelőhely a Moslavina-hegység régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        16.789204,
+                        45.621342
+                  ]
+            },
+            {
+                  "name": "Spomenik revolucije naroda Moslavine",
+                  "text": "Hatalmas emlékmű Horvátországban, amely a moslavinai forradalomnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        16.777772,
+                        45.640816
+                  ]
+            },
+            {
+                  "name": "Bela Crkva",
+                  "text": "Történelmi romok a Moslavina-hegység dombos táján.",
+                  "category": "historical",
+                  "coords": [
+                        16.74836,
+                        45.597552
+                  ]
+            },
+            {
+                  "name": "Manastir Bršljanac",
+                  "text": "Történelmi kolostor a Moslavina-hegység régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        16.795859,
+                        45.618026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regionalni park Moslavačka gora",
+                  "text": "Un parc natural în Croația, cunoscut pentru dealurile și pădurile sale.",
+                  "category": "natural",
+                  "coords": [
+                        16.718454,
+                        45.628952
+                  ]
+            },
+            {
+                  "name": "Bršljanac",
+                  "text": "Un sit arheologic în regiunea Moslavačka gora.",
+                  "category": "historical",
+                  "coords": [
+                        16.789204,
+                        45.621342
+                  ]
+            },
+            {
+                  "name": "Spomenik revolucije naroda Moslavine",
+                  "text": "Un monument monumental în Croația, dedicat revoluției din Moslavina.",
+                  "category": "historical",
+                  "coords": [
+                        16.777772,
+                        45.640816
+                  ]
+            },
+            {
+                  "name": "Bela Crkva",
+                  "text": "Ruine istorice în peisajul colinar din Moslavačka gora.",
+                  "category": "historical",
+                  "coords": [
+                        16.74836,
+                        45.597552
+                  ]
+            },
+            {
+                  "name": "Manastir Bršljanac",
+                  "text": "O mănăstire istorică în regiunea Moslavačka gora.",
+                  "category": "religious",
+                  "coords": [
+                        16.795859,
+                        45.618026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional park Moslavačka gora",
+                  "text": "A regional park in Croatia known for its hilly landscapes and forests.",
+                  "category": "natural",
+                  "coords": [
+                        16.718454,
+                        45.628952
+                  ]
+            },
+            {
+                  "name": "Bršljanac",
+                  "text": "An archaeological site in the Moslavačka gora region.",
+                  "category": "historical",
+                  "coords": [
+                        16.789204,
+                        45.621342
+                  ]
+            },
+            {
+                  "name": "Monument to the Revolution of the people of Moslavina",
+                  "text": "A monumental landmark in Croatia dedicated to the Revolution of Moslavina.",
+                  "category": "historical",
+                  "coords": [
+                        16.777772,
+                        45.640816
+                  ]
+            },
+            {
+                  "name": "Bela Crkva",
+                  "text": "Historical ruins in the hilly landscape of Moslavačka gora.",
+                  "category": "historical",
+                  "coords": [
+                        16.74836,
+                        45.597552
+                  ]
+            },
+            {
+                  "name": "Manastir Bršljanac",
+                  "text": "A historical monastery in the Moslavačka gora region.",
+                  "category": "religious",
+                  "coords": [
+                        16.795859,
+                        45.618026
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Moslavačka gora", hu: "Monoszlói-hegység", ro: "Munții Moslavačka", en: "Moslavačka gora"},
@@ -555,7 +933,52 @@ imageHint: "Sveti Jure peak Biokovo antenna",
     },
     image: "/poi-images/croatia-sveti-jure-relief-v2.webp",
 },  {
-    id: "croatia-velika-kapela-relief-v2",
+    id: "croatia-velika-kapela-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miškovica",
+                  "text": "Miškovica ist ein Gipfel im Gebirgszug Velika Kapela in Kroatien.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005516,
+                        45.077493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miškovica",
+                  "text": "A Miškovica egy hegycsúcs a horvátországi Velika Kapela hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005516,
+                        45.077493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miškovica",
+                  "text": "Miškovica este un vârf din lanțul muntos Velika Kapela din Croația.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005516,
+                        45.077493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miškovica",
+                  "text": "Miškovica is a peak in the Velika Kapela mountain range in Croatia.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005516,
+                        45.077493
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Velika Kapela", hu: "Nagy-Kapela", ro: "Munții Velika Kapela", en: "Velika Kapela"},
@@ -739,7 +1162,160 @@ imageHint: "Samoborsko gorje hills landscape",
     },
     image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp",
 },  {
-    id: "croatia-zumberak-relief-v2",
+    id: "croatia-zumberak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Sichelgebirge und die Samobor-Berge",
+                  "text": "Ein Naturpark in Kroatien, der für seine sanften Hügel, dichten Wälder und traditionelle Architektur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Überreste einer mittelalterlichen Burg in der malerischen Region des Žumberak-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "Stari grad Žumberak",
+                  "text": "Die historischen Ruinen einer alten Festungsanlage in der Gebirgsregion Žumberak.",
+                  "category": "historical",
+                  "coords": [
+                        15.418746,
+                        45.758151
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Eine griechisch-katholische Kirche in Žumberak, die ein bedeutendes religiöses Erbe der Region darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "Horvátországi natúrpark, amely lankás dombjairól, sűrű erdőiről és hagyományos építészetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Egy középkori vár maradványai a Zumberak-hegység festői vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "Stari grad Žumberak",
+                  "text": "Egy régi erődítmény történelmi romjai a Zumberak hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.418746,
+                        45.758151
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Görögkatolikus templom Zumberakban, amely a régió jelentős vallási örökségét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "Un parc natural din Croația, cunoscut pentru dealurile sale domoale, pădurile dese și arhitectura tradițională.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Rămășițele unui castel medieval din regiunea pitorească a Munților Žumberak.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "Stari grad Žumberak",
+                  "text": "Ruinele istorice ale unei vechi fortificații din zona montană Žumberak.",
+                  "category": "historical",
+                  "coords": [
+                        15.418746,
+                        45.758151
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "O biserică greco-catolică din Žumberak, care reprezintă o moștenire religioasă importantă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "A nature park in Croatia known for its rolling hills, dense forests, and traditional architecture.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Remains of a medieval castle in the scenic region of the Žumberak mountains.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "Stari grad Žumberak",
+                  "text": "The historical ruins of an old fortification in the mountainous Žumberak area.",
+                  "category": "historical",
+                  "coords": [
+                        15.418746,
+                        45.758151
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "A Greek Catholic church in Žumberak, representing an important religious heritage of the region.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Žumberak", hu: "Zumberaki-hegység", ro: "Munții Žumberak", en: "Žumberak"},
@@ -785,7 +1361,304 @@ imageHint: "Zumberak mountain range border",
     },
     image: "/poi-images/croatia-zumberak-relief-v2.webp",
 },  {
-    id: "croatia-kalnik-relief-v2",
+    id: "croatia-kalnik-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stari grad Veliki Kalnik",
+                  "text": "Die Ruinen einer mittelalterlichen Burg auf dem Berg Kalnik.",
+                  "category": "castle",
+                  "coords": [
+                        16.464086,
+                        46.133178
+                  ]
+            },
+            {
+                  "name": "Vuklec",
+                  "text": "Ein Berggipfel im Kalnik-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47039,
+                        46.13388
+                  ]
+            },
+            {
+                  "name": "Škrinja",
+                  "text": "Ein markanter Berggipfel des Kalnik-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        16.50327,
+                        46.134518
+                  ]
+            },
+            {
+                  "name": "Vranilac",
+                  "text": "Der höchste Gipfel des Kalnik-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45467,
+                        46.131257
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Aussichtspunkt am Kalnik, der weite Blicke über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.475094,
+                        46.134643
+                  ]
+            },
+            {
+                  "name": "1. zub",
+                  "text": "Ein Aussichtspunkt und markanter Felsen im Kalnik-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        16.461861,
+                        46.132903
+                  ]
+            },
+            {
+                  "name": "Rinkov",
+                  "text": "Historische Ruinen in der Umgebung von Kalnik.",
+                  "category": "historical",
+                  "coords": [
+                        16.513678,
+                        46.135656
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Odašiljač",
+                  "text": "Ein Aussichtspunkt in der Nähe eines Sendemastes auf dem Kalnik.",
+                  "category": "natural",
+                  "coords": [
+                        16.456737,
+                        46.13109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Veliki Kalnik",
+                  "text": "Egy középkori vár romjai a Kalnik-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        16.464086,
+                        46.133178
+                  ]
+            },
+            {
+                  "name": "Vuklec",
+                  "text": "Egy hegycsúcs a Kalnik-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47039,
+                        46.13388
+                  ]
+            },
+            {
+                  "name": "Škrinja",
+                  "text": "A Kalnik-masszívum egyik jellegzetes hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        16.50327,
+                        46.134518
+                  ]
+            },
+            {
+                  "name": "Vranilac",
+                  "text": "A Kalnik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45467,
+                        46.131257
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Kilátópont a Kalnikon, ahonnan széles kilátás nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        16.475094,
+                        46.134643
+                  ]
+            },
+            {
+                  "name": "1. zub",
+                  "text": "Kilátópont és jellegzetes sziklaalakzat a Kalnik-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        16.461861,
+                        46.132903
+                  ]
+            },
+            {
+                  "name": "Rinkov",
+                  "text": "Történelmi romok Kalnik környékén.",
+                  "category": "historical",
+                  "coords": [
+                        16.513678,
+                        46.135656
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Odašiljač",
+                  "text": "Kilátó egy adótorony közelében a Kalnikon.",
+                  "category": "natural",
+                  "coords": [
+                        16.456737,
+                        46.13109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Veliki Kalnik",
+                  "text": "Ruinele unei cetăți medievale pe muntele Kalnik.",
+                  "category": "castle",
+                  "coords": [
+                        16.464086,
+                        46.133178
+                  ]
+            },
+            {
+                  "name": "Vuklec",
+                  "text": "Un vârf muntos în masivul Kalnik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47039,
+                        46.13388
+                  ]
+            },
+            {
+                  "name": "Škrinja",
+                  "text": "Un vârf muntos distinctiv în masivul Kalnik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.50327,
+                        46.134518
+                  ]
+            },
+            {
+                  "name": "Vranilac",
+                  "text": "Cel mai înalt vârf din munții Kalnik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45467,
+                        46.131257
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un punct de belvedere pe Kalnik, oferind vederi largi asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        16.475094,
+                        46.134643
+                  ]
+            },
+            {
+                  "name": "1. zub",
+                  "text": "Un punct de belvedere și o formațiune stâncoasă în munții Kalnik.",
+                  "category": "natural",
+                  "coords": [
+                        16.461861,
+                        46.132903
+                  ]
+            },
+            {
+                  "name": "Rinkov",
+                  "text": "Ruine istorice în împrejurimile localității Kalnik.",
+                  "category": "historical",
+                  "coords": [
+                        16.513678,
+                        46.135656
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Odašiljač",
+                  "text": "Un punct de belvedere lângă un turn de transmisie pe muntele Kalnik.",
+                  "category": "natural",
+                  "coords": [
+                        16.456737,
+                        46.13109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stari grad Veliki Kalnik",
+                  "text": "The ruins of a medieval castle located on Kalnik mountain.",
+                  "category": "castle",
+                  "coords": [
+                        16.464086,
+                        46.133178
+                  ]
+            },
+            {
+                  "name": "Vuklec",
+                  "text": "A mountain peak in the Kalnik range.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47039,
+                        46.13388
+                  ]
+            },
+            {
+                  "name": "Škrinja",
+                  "text": "A distinctive mountain peak of the Kalnik massif.",
+                  "category": "landmark",
+                  "coords": [
+                        16.50327,
+                        46.134518
+                  ]
+            },
+            {
+                  "name": "Vranilac",
+                  "text": "The highest peak of the Kalnik mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45467,
+                        46.131257
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A viewpoint on Kalnik offering wide views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        16.475094,
+                        46.134643
+                  ]
+            },
+            {
+                  "name": "1. zub",
+                  "text": "A viewpoint and distinctive rock formation in the Kalnik mountains.",
+                  "category": "natural",
+                  "coords": [
+                        16.461861,
+                        46.132903
+                  ]
+            },
+            {
+                  "name": "Rinkov",
+                  "text": "Historic ruins located in the vicinity of Kalnik.",
+                  "category": "historical",
+                  "coords": [
+                        16.513678,
+                        46.135656
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Odašiljač",
+                  "text": "A viewpoint near a transmitter tower on Kalnik mountain.",
+                  "category": "natural",
+                  "coords": [
+                        16.456737,
+                        46.13109
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Kalnik", hu: "Kalnik-hegység", ro: "Munții Kalnik", en: "Kalnik"},
@@ -831,7 +1704,52 @@ imageHint: "Kalnik mountain rocks and castle",
     },
     image: "/poi-images/croatia-kalnik-relief-v2.webp",
 },  {
-    id: "croatia-psunj-relief-v2",
+    id: "croatia-psunj-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zidine planinarskog doma Jospia Svobode",
+                  "text": "Die Überreste einer Berghütte auf dem Berg Psunj, die Einblicke in die lokale Wandergeschichte geben.",
+                  "category": "historical",
+                  "coords": [
+                        17.284455,
+                        45.395472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zidine planinarskog doma Jospia Svobode",
+                  "text": "Egy hegyi menedékház maradványai a Psunj-hegyen, bepillantást engedve a helyi túrázás történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        17.284455,
+                        45.395472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zidine planinarskog doma Jospia Svobode",
+                  "text": "Rămășițele unei cabane montane de pe muntele Psunj, oferind o privire în istoria drumețiilor locale.",
+                  "category": "historical",
+                  "coords": [
+                        17.284455,
+                        45.395472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zidine planinarskog doma Jospia Svobode",
+                  "text": "The remnants of a mountain lodge on Mt. Psunj, offering a glimpse into local hiking history.",
+                  "category": "historical",
+                  "coords": [
+                        17.284455,
+                        45.395472
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Psunj", hu: "Psunj-hegység", ro: "Munții Psunj", en: "Psunj"},
@@ -969,7 +1887,196 @@ imageHint: "Pozeska gora vineyards and hills",
     },
     image: "/poi-images/croatia-pozeska-gora-relief-v2.webp",
 },  {
-    id: "croatia-bilogora-relief-v2",
+    id: "croatia-bilogora-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drveno raspelo",
+                  "text": "Ein religiöses Holzkreuz in Bilogora, das als lokales Denkmal der christlichen Hingabe dient.",
+                  "category": "historical",
+                  "coords": [
+                        17.028692,
+                        45.918626
+                  ]
+            },
+            {
+                  "name": "Raspelo Suha Katalena",
+                  "text": "Ein Flurkreuz in der Nähe von Suha Katalena in der Region Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.095701,
+                        45.949506
+                  ]
+            },
+            {
+                  "name": "Raspelo Jasenička",
+                  "text": "Ein traditionelles Flurkreuz in der Jasenička-Gegend innerhalb der Bilogora-Region.",
+                  "category": "historical",
+                  "coords": [
+                        17.071665,
+                        45.944395
+                  ]
+            },
+            {
+                  "name": "Raspelo Kozarevac",
+                  "text": "Ein religiöses Denkmal in Form eines Kreuzes im Dorf Kozarevac in der Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.122394,
+                        45.934135
+                  ]
+            },
+            {
+                  "name": "Bilogorski čardak",
+                  "text": "Ein hölzerner Aussichtsturm und eine touristische Attraktion in der Bilogora-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.046003,
+                        45.90589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drveno raspelo",
+                  "text": "Fából készült kereszt Bilogorában, amely a keresztény vallásosság helyi emléke.",
+                  "category": "historical",
+                  "coords": [
+                        17.028692,
+                        45.918626
+                  ]
+            },
+            {
+                  "name": "Raspelo Suha Katalena",
+                  "text": "Útszéli kereszt Suha Katalena közelében, a Bilogora régióban.",
+                  "category": "historical",
+                  "coords": [
+                        17.095701,
+                        45.949506
+                  ]
+            },
+            {
+                  "name": "Raspelo Jasenička",
+                  "text": "Hagyományos útszéli kereszt a Jasenička területen, a Bilogora régióban.",
+                  "category": "historical",
+                  "coords": [
+                        17.071665,
+                        45.944395
+                  ]
+            },
+            {
+                  "name": "Raspelo Kozarevac",
+                  "text": "Kereszt alakú vallási emlékmű Kozarevac faluban, a Bilogora területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.122394,
+                        45.934135
+                  ]
+            },
+            {
+                  "name": "Bilogorski čardak",
+                  "text": "Fából készült kilátótorony és turisztikai látványosság a Bilogora régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.046003,
+                        45.90589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drveno raspelo",
+                  "text": "O cruce de lemn religioasă în Bilogora, care servește ca monument local al devotamentului creștin.",
+                  "category": "historical",
+                  "coords": [
+                        17.028692,
+                        45.918626
+                  ]
+            },
+            {
+                  "name": "Raspelo Suha Katalena",
+                  "text": "O cruce monumentală situată lângă Suha Katalena, în regiunea Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.095701,
+                        45.949506
+                  ]
+            },
+            {
+                  "name": "Raspelo Jasenička",
+                  "text": "O cruce tradițională situată în zona Jasenička, în cadrul regiunii Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.071665,
+                        45.944395
+                  ]
+            },
+            {
+                  "name": "Raspelo Kozarevac",
+                  "text": "Un monument religios sub formă de cruce în satul Kozarevac din Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.122394,
+                        45.934135
+                  ]
+            },
+            {
+                  "name": "Bilogorski čardak",
+                  "text": "Un turn de observație din lemn și o atracție turistică în regiunea Bilogora.",
+                  "category": "landmark",
+                  "coords": [
+                        17.046003,
+                        45.90589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drveno raspelo",
+                  "text": "A religious wooden crucifix in Bilogora that serves as a local monument of Christian devotion.",
+                  "category": "historical",
+                  "coords": [
+                        17.028692,
+                        45.918626
+                  ]
+            },
+            {
+                  "name": "Raspelo Suha Katalena",
+                  "text": "A wayside crucifix located near Suha Katalena in the Bilogora region.",
+                  "category": "historical",
+                  "coords": [
+                        17.095701,
+                        45.949506
+                  ]
+            },
+            {
+                  "name": "Raspelo Jasenička",
+                  "text": "A traditional wayside crucifix in the Jasenička area within the Bilogora region.",
+                  "category": "historical",
+                  "coords": [
+                        17.071665,
+                        45.944395
+                  ]
+            },
+            {
+                  "name": "Raspelo Kozarevac",
+                  "text": "A religious monument in the form of a cross in the village of Kozarevac in Bilogora.",
+                  "category": "historical",
+                  "coords": [
+                        17.122394,
+                        45.934135
+                  ]
+            },
+            {
+                  "name": "Bilogorski čardak",
+                  "text": "A wooden lookout tower and tourist attraction in the Bilogora region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.046003,
+                        45.90589
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "mountain",
     name: { de: "Bilogora", hu: "Bilogora-hegység", ro: "Colinele Bilogora", en: "Bilogora"},
@@ -1335,7 +2442,52 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
     image: "/poi-images/croatia-kamenjak-relief-v2.webp",
   },
   {
-    id: "croatia-javorje-relief-v2",
+    id: "croatia-javorje-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stari grad Stelnik",
+                  "text": "Die historischen Überreste einer alten befestigten Siedlung in Javorje.",
+                  "category": "historical",
+                  "coords": [
+                        15.301045,
+                        45.418113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Stelnik",
+                  "text": "Egy régi megerősített település történelmi maradványai Javorjéban.",
+                  "category": "historical",
+                  "coords": [
+                        15.301045,
+                        45.418113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Stelnik",
+                  "text": "Rămășițele istorice ale unei vechi așezări fortificate din Javorje.",
+                  "category": "historical",
+                  "coords": [
+                        15.301045,
+                        45.418113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stari grad Stelnik",
+                  "text": "The historical remains of an ancient fortified settlement in Javorje.",
+                  "category": "historical",
+                  "coords": [
+                        15.301045,
+                        45.418113
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "HR",
     name: { de: "Javorje", hu: "Javorje", ro: "Javorje", en: "Javorje" },
@@ -1560,7 +2712,268 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
     image: "/poi-images/croatia-hrvatski-kras-relief-v2.webp",
   },
   {
-    id: "croatia-slunjcica-plateau-relief-v2",
+    id: "croatia-slunjcica-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Sluin",
+                  "text": "Die Überreste einer alten Festungsanlage in der Nähe von Slunj, Kroatien.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Ein Berggipfel auf dem Slunjčica-Plateau in Kroatien.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Ein Totempfahl, der an die Dreharbeiten der Winnetou-Filme in dieser Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "Ein Aussichtspunkt an den Ruinen der mittelalterlichen Festung von Slunj.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "izvor Sljunjčice",
+                  "text": "Ein Aussichtspunkt in der Nähe der Quelle des Flusses Slunjčica.",
+                  "category": "natural",
+                  "coords": [
+                        15.587529,
+                        45.079085
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Ein historisches Dorf mit Wassermühlen und Wasserfällen an der Mündung der Slunjčica.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Getreidelager aus napoleonischen Zeiten",
+                  "text": "Die Ruinen eines ehemaligen Lagers aus der napoleonischen Ära in Kroatien.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stari grad Slovin",
+                  "text": "Egy régi erődítmény maradványai a horvátországi Szluin (Slunj) közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Hegycsúcs a horvátországi Slunjčica-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Egy totemoszlop, amely a Winnetou-filmek ezen a vidéken történt forgatásának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "Kilátópont Szluin (Slunj) középkori várának romjainál.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "izvor Sljunjčice",
+                  "text": "Kilátópont a Slunjčica folyó forrásának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.587529,
+                        45.079085
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Történelmi falu vízimalmokkal és vízesésekkel a Slunjčica torkolatánál.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Napoleonov magazin",
+                  "text": "Egy egykori napóleoni korszakból származó raktár romjai Horvátországban.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stari grad Slovin",
+                  "text": "Rămășițele unei vechi fortificații de lângă Slunj, Croația.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "Un vârf muntos de pe podișul Slunjčica din Croația.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "Un totem care comemorează filmările pentru filmele Winnetou în această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "Un punct de belvedere situat la ruinele cetății medievale din Slunj.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "izvor Sljunjčice",
+                  "text": "Un punct de belvedere situat în apropierea izvorului râului Slunjčica.",
+                  "category": "natural",
+                  "coords": [
+                        15.587529,
+                        45.079085
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "Un sat istoric cu mori de apă și cascade la vărsarea râului Slunjčica.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Napoleonov magazin",
+                  "text": "Ruinele unui fost depozit din epoca napoleoniană în Croația.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Town of Slunj",
+                  "text": "The remains of an old fortification near Slunj, Croatia.",
+                  "category": "fortress",
+                  "coords": [
+                        15.587993,
+                        45.117474
+                  ]
+            },
+            {
+                  "name": "Pliš",
+                  "text": "A mountain peak on the Slunjčica Plateau in Croatia.",
+                  "category": "landmark",
+                  "coords": [
+                        15.562047,
+                        45.112049
+                  ]
+            },
+            {
+                  "name": "Winnetou Totem",
+                  "text": "A totem pole commemorating the filming of Winnetou movies in this region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.585795,
+                        45.120667
+                  ]
+            },
+            {
+                  "name": "Slunj Fortress",
+                  "text": "A viewpoint located at the ruins of the medieval fortress of Slunj.",
+                  "category": "natural",
+                  "coords": [
+                        15.586195,
+                        45.118238
+                  ]
+            },
+            {
+                  "name": "Slunjčica Well",
+                  "text": "A viewpoint located near the source of the Slunjčica river.",
+                  "category": "natural",
+                  "coords": [
+                        15.587529,
+                        45.079085
+                  ]
+            },
+            {
+                  "name": "Rastoke",
+                  "text": "A historical village with watermills and waterfalls at the mouth of the Slunjčica.",
+                  "category": "natural",
+                  "coords": [
+                        15.584399,
+                        45.121028
+                  ]
+            },
+            {
+                  "name": "Ancient Napoleonic warehouse",
+                  "text": "The ruins of a former warehouse from the Napoleonic era in Croatia.",
+                  "category": "historical",
+                  "coords": [
+                        15.589072,
+                        45.119835
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "HR",
     name: { de: "Slunjčica-Plateau", hu: "Slunjčica-fennsík", ro: "Platoul Slunjčica", en: "Slunjčica Plateau" },
@@ -1740,7 +3153,88 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
     image: "/poi-images/croatia-kozjak-relief-v2.webp",
   },
   {
-    id: "croatia-zrinska-gora-relief-v2",
+    id: "croatia-zrinska-gora-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petrovića brdo",
+                  "text": "Petrovića brdo ist ein Gipfel in der Region Zrinska Gora.",
+                  "category": "landmark",
+                  "coords": [
+                        16.469334,
+                        45.214814
+                  ]
+            },
+            {
+                  "name": "Crnobrnjsko brdo",
+                  "text": "Crnobrnjsko brdo ist ein markanter Gipfel in der Zrinska Gora.",
+                  "category": "landmark",
+                  "coords": [
+                        16.439929,
+                        45.164634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petrovića brdo",
+                  "text": "Petrovića brdo egy hegycsúcs a Zrinska Gora vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.469334,
+                        45.214814
+                  ]
+            },
+            {
+                  "name": "Crnobrnjsko brdo",
+                  "text": "Crnobrnjsko brdo egy hegycsúcs a Zrinska Gora területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.439929,
+                        45.164634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petrovića brdo",
+                  "text": "Petrovića brdo este un vârf muntos în regiunea Zrinska Gora.",
+                  "category": "landmark",
+                  "coords": [
+                        16.469334,
+                        45.214814
+                  ]
+            },
+            {
+                  "name": "Crnobrnjsko brdo",
+                  "text": "Crnobrnjsko brdo este un vârf muntos situat în Zrinska Gora.",
+                  "category": "landmark",
+                  "coords": [
+                        16.439929,
+                        45.164634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petrovića brdo",
+                  "text": "Petrovića brdo is a mountain peak located in the Zrinska Gora region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.469334,
+                        45.214814
+                  ]
+            },
+            {
+                  "name": "Crnobrnjsko brdo",
+                  "text": "Crnobrnjsko brdo is a mountain peak in the Zrinska Gora area.",
+                  "category": "landmark",
+                  "coords": [
+                        16.439929,
+                        45.164634
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "HR",
     name: { de: "Zrinska Gora", hu: "Zrinska Gora", ro: "Zrinska Gora", en: "Zrinska Gora" },

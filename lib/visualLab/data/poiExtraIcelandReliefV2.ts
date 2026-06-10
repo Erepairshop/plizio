@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const icelandReliefV2: POI[] = [
 
   {
-    id: "iceland-hvannadalshnukur-relief-v2",
+    id: "iceland-hvannadalshnukur-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Der Hvannadalshnúkur ist mit 2110 Metern der höchste Berggipfel Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "A Hvannadalshnúkur Izland legmagasabb hegycsúcsa, tengerszint feletti magassága 2110 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Hvannadalshnúkur este cel mai înalt vârf montan din Islanda, având o altitudine de 2110 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Hvannadalshnúkur is the highest mountain peak in Iceland, reaching an elevation of 2,110 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Hvannadalshnúkur", hu: "Hvannadalshnúkur", ro: "Hvannadalshnúkur", en: "Hvannadalshnúkur"},
@@ -141,7 +186,124 @@ imageHint: "Esja mountain range seen from Reykjavik",
     },
     image: "/poi-images/iceland-esja-relief-v2.webp",
 },  {
-    id: "iceland-kerlingarfjoll-relief-v2",
+    id: "iceland-kerlingarfjoll-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kerlingarfjöll",
+                  "text": "Ein Hochgebirge und Naturschutzgebiet im isländischen Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -19.275029,
+                        64.625281
+                  ]
+            },
+            {
+                  "name": "Snækollur",
+                  "text": "Der höchste Gipfel des Kerlingarfjöll-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.228755,
+                        64.643708
+                  ]
+            },
+            {
+                  "name": "Ögmundur",
+                  "text": "Ein markanter Berggipfel in der Region Kerlingarfjöll.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.35564,
+                        64.62547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kerlingarfjöll",
+                  "text": "Magashegyi hegylánc és természetvédelmi terület Izland felföldjén.",
+                  "category": "natural",
+                  "coords": [
+                        -19.275029,
+                        64.625281
+                  ]
+            },
+            {
+                  "name": "Snækollur",
+                  "text": "A Kerlingarfjöll-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.228755,
+                        64.643708
+                  ]
+            },
+            {
+                  "name": "Ögmundur",
+                  "text": "Jellegzetes hegycsúcs a Kerlingarfjöll régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.35564,
+                        64.62547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kerlingarfjöll",
+                  "text": "Un lanț muntos de mare altitudine și rezervație naturală în zonele înalte ale Islandei.",
+                  "category": "natural",
+                  "coords": [
+                        -19.275029,
+                        64.625281
+                  ]
+            },
+            {
+                  "name": "Snækollur",
+                  "text": "Cel mai înalt vârf din lanțul muntos Kerlingarfjöll.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.228755,
+                        64.643708
+                  ]
+            },
+            {
+                  "name": "Ögmundur",
+                  "text": "Un vârf muntos proeminent situat în regiunea Kerlingarfjöll.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.35564,
+                        64.62547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kerlingarfjöll",
+                  "text": "A high-altitude mountain range and nature reserve in the Highlands of Iceland.",
+                  "category": "natural",
+                  "coords": [
+                        -19.275029,
+                        64.625281
+                  ]
+            },
+            {
+                  "name": "Snækollur",
+                  "text": "The highest peak of the Kerlingarfjöll mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.228755,
+                        64.643708
+                  ]
+            },
+            {
+                  "name": "Ögmundur",
+                  "text": "A prominent mountain peak located in the Kerlingarfjöll region.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.35564,
+                        64.62547
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Kerlingarfjöll", hu: "Kerlingarfjöll", ro: "Kerlingarfjöll", en: "Kerlingarfjöll"},
@@ -187,7 +349,52 @@ imageHint: "Kerlingarfjöll rhyolite mountains and steam",
     },
     image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp",
 },  {
-    id: "iceland-latrabjarg-relief-v2",
+    id: "iceland-latrabjarg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bjargtangaviti",
+                  "text": "Ein abgelegener Leuchtturm, der den westlichsten Punkt Islands und Europas markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.531576,
+                        65.50256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bjargtangaviti",
+                  "text": "Távoli világítótorony, amely Izland és Európa legnyugatibb pontját jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.531576,
+                        65.50256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bjargtangaviti",
+                  "text": "Un far izolat care marchează cel mai vestic punct al Islandei și al Europei.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.531576,
+                        65.50256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bjargtangaviti",
+                  "text": "A remote lighthouse marking the westernmost point of Iceland and Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.531576,
+                        65.50256
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Látrabjarg", hu: "Látrabjarg", ro: "Látrabjarg", en: "Látrabjarg"},
@@ -233,7 +440,232 @@ imageHint: "Látrabjarg bird cliffs and puffins",
     },
     image: "/poi-images/iceland-latrabjarg-relief-v2.webp",
 },  {
-    id: "iceland-almannagja-relief-v2",
+    id: "iceland-almannagja-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "Eine Ausstellung im Þingvellir-Nationalpark, die die geologische und historische Bedeutung der Region erklärt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Eine archäologische Stätte bei Almannagjá mit Überresten historischer Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Historischer Ort in der Almannagjá-Schlucht, der mit der frühen isländischen Rechtsgeschichte verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Die Überreste eines alten Bauernhofs oder Wohnplatzes in der Nähe des historischen Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Eine kleine historische Fundstelle in der Region Almannagjá, die auf frühere Besiedlung hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Ruinen einer historischen Residenz oder eines Gebäudes im Þingvellir-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "Kiállítás a Þingvellir Nemzeti Parkban, amely bemutatja a régió geológiai és történelmi jelentőségét.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Régészeti lelőhely Almannagjá közelében, történelmi települések maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Történelmi helyszín az Almannagjá-szurdokban, amely a korai izlandi jogtörténethez kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Egy régi farm vagy lakóhely maradványai a történelmi Þingvellir közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Kisméretű történelmi lelőhely Almannagjá régiójában, amely korábbi benépesülésre utal.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Egy történelmi rezidencia vagy épület romjai a Þingvellir Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "O expoziție în Parcul Național Þingvellir, care explică importanța geologică și istorică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Un sit arheologic lângă Almannagjá, conținând vestigii ale unor așezări istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Un sit istoric în defileul Almannagjá, legat de istoria juridică timpurie a Islandei.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Vestigiile unei vechi ferme sau așezări în apropierea sitului istoric Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Un mic sit istoric în regiunea Almannagjá, care indică o locuire timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Ruinele unei reședințe sau clădiri istorice în cadrul Parcului Național Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Þingvellir Exhibition: Heart of Iceland",
+                  "text": "An exhibition in Þingvellir National Park explaining the geological and historical significance of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "An archaeological site near Almannagjá featuring remains of historical settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "A historical site in the Almannagjá gorge linked to early Icelandic legal history.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "The remains of an old farm or dwelling site located near historical Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "A small historical site in the Almannagjá region indicating early habitation.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Ruins of a historical residence or building within the Þingvellir National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Almannagjá", hu: "Almannagjá", ro: "Almannagjá", en: "Almannagjá"},
@@ -279,7 +711,88 @@ imageHint: "Almannagjá fissure in Þingvellir National Park",
     },
     image: "/poi-images/iceland-almannagja-relief-v2.webp",
 },  {
-    id: "iceland-baula-relief-v2",
+    id: "iceland-baula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baula",
+                  "text": "Ein markanter, kegelförmiger Berggipfel im Westen Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.4392,
+                        64.8489
+                  ]
+            },
+            {
+                  "name": "Bjarnafoss",
+                  "text": "Ein malerischer Wasserfall auf der Halbinsel Snæfellsnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.48055,
+                        64.85045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baula",
+                  "text": "Jellegzetes kúp alakú hegycsúcs Izland nyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.4392,
+                        64.8489
+                  ]
+            },
+            {
+                  "name": "Bjarnafoss",
+                  "text": "Gleccserfolyó táplálta festői vízesés Izlandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.48055,
+                        64.85045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baula",
+                  "text": "Un vârf muntos distinctiv în formă de con din vestul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.4392,
+                        64.8489
+                  ]
+            },
+            {
+                  "name": "Bjarnafoss",
+                  "text": "O cascadă pitorească situată în peninsula Snæfellsnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.48055,
+                        64.85045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baula",
+                  "text": "A distinctive cone-shaped mountain peak in western Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.4392,
+                        64.8489
+                  ]
+            },
+            {
+                  "name": "Bjarnafoss",
+                  "text": "A picturesque waterfall located on the Snæfellsnes peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.48055,
+                        64.85045
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Baula", hu: "Baula", ro: "Baula", en: "Baula"},
@@ -325,7 +838,196 @@ imageHint: "Baula conical rhyolite mountain",
     },
     image: "/poi-images/iceland-baula-relief-v2.webp",
 },  {
-    id: "iceland-thorsmork-relief-v2",
+    id: "iceland-thorsmork-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valahnúkur",
+                  "text": "Ein Gipfel in der isländischen Region Þórsmörk mit herrlicher Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.531143,
+                        63.683277
+                  ]
+            },
+            {
+                  "name": "Gráfell",
+                  "text": "Ein Berg in der Þórsmörk-Region im Süden Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.46417,
+                        63.71186
+                  ]
+            },
+            {
+                  "name": "Hátindar",
+                  "text": "Ein markanter Berggipfel in der Þórsmörk-Wildnis.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.50734,
+                        63.66236
+                  ]
+            },
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Ein steiler Berggipfel im Þórsmörk-Naturschutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            },
+            {
+                  "name": "Stakkholtsgjá",
+                  "text": "Eine beeindruckende Schlucht in der Nähe von Þórsmörk in Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.540245,
+                        63.670888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valahnúkur",
+                  "text": "Csúcs az izlandi Þórsmörk régióban, ahonnan remek kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.531143,
+                        63.683277
+                  ]
+            },
+            {
+                  "name": "Gráfell",
+                  "text": "Hegy az izlandi Þórsmörk régióban, az ország déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.46417,
+                        63.71186
+                  ]
+            },
+            {
+                  "name": "Hátindar",
+                  "text": "Jellegzetes hegycsúcs a Þórsmörk vadonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.50734,
+                        63.66236
+                  ]
+            },
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Meredek hegycsúcs a Þórsmörk természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            },
+            {
+                  "name": "Stakkholtsgjá",
+                  "text": "Látványos szurdok Izlandon, Þórsmörk közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.540245,
+                        63.670888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valahnúkur",
+                  "text": "Un vârf în regiunea islandeză Þórsmörk, oferind o priveliște panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.531143,
+                        63.683277
+                  ]
+            },
+            {
+                  "name": "Gráfell",
+                  "text": "Un munte în regiunea Þórsmörk din sudul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.46417,
+                        63.71186
+                  ]
+            },
+            {
+                  "name": "Hátindar",
+                  "text": "Un vârf muntos distinctiv în zona sălbatică Þórsmörk.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.50734,
+                        63.66236
+                  ]
+            },
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Un vârf muntos abrupt în rezervația naturală Þórsmörk.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            },
+            {
+                  "name": "Stakkholtsgjá",
+                  "text": "Un canion impresionant situat lângă Þórsmörk, în Islanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.540245,
+                        63.670888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valahnúkur",
+                  "text": "A peak in the Icelandic Þórsmörk region offering great panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.531143,
+                        63.683277
+                  ]
+            },
+            {
+                  "name": "Gráfell",
+                  "text": "A mountain in the Þórsmörk region of southern Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.46417,
+                        63.71186
+                  ]
+            },
+            {
+                  "name": "Hátindar",
+                  "text": "A distinctive mountain peak in the Þórsmörk wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.50734,
+                        63.66236
+                  ]
+            },
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "A steep mountain peak in the Þórsmörk nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            },
+            {
+                  "name": "Stakkholtsgjá",
+                  "text": "An impressive canyon located near Þórsmörk in Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.540245,
+                        63.670888
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "valley",
     name: { de: "Þórsmörk", hu: "Þórsmörk", ro: "Þórsmörk", en: "Þórsmörk"},
@@ -371,7 +1073,52 @@ imageHint: "Þórsmörk valley landscape with glaciers",
     },
     image: "/poi-images/iceland-thorsmork-relief-v2.webp",
 },  {
-    id: "iceland-fimmvorduhals-relief-v2",
+    id: "iceland-fimmvorduhals-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Ein Tuffgipfel mit Aussicht an einem berühmten Wanderweg auf Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Kilátást nyújtó tufahegycsúcs egy híres izlandi túraútvonalon.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "Un vârf de tuf care oferă priveliști pe un traseu de drumeție celebru din Islanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Útigönguhöfði",
+                  "text": "A tuff peak offering views on a famous hiking trail in Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.458333,
+                        63.665717
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Fimmvörðuháls", hu: "Fimmvörðuháls", ro: "Fimmvörðuháls", en: "Fimmvörðuháls"},
@@ -417,7 +1164,196 @@ imageHint: "Fimmvörðuháls mountain pass hiking trail",
     },
     image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp",
 },  {
-    id: "iceland-dimmuborgir-relief-v2",
+    id: "iceland-dimmuborgir-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dimmuborgir",
+                  "text": "Ein Gebiet in Island mit bizarren Lavaformationen, das für seine mystische Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.894466,
+                        65.585916
+                  ]
+            },
+            {
+                  "name": "Hallarflöt",
+                  "text": "Eine markante vulkanische Felsformation im Lavafeld von Dimmuborgir.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.908981,
+                        65.590583
+                  ]
+            },
+            {
+                  "name": "Kirkja",
+                  "text": "Eine bekannte höhlenartige Felsformation in Dimmuborgir, die einer Kirche ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.902467,
+                        65.585708
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Eine Ansammlung beeindruckender Lavaformationen in der Region Dimmuborgir.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "Ein natürlicher Lavabogen in Dimmuborgir, der für seine markante Öffnung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.904153,
+                        65.590358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dimmuborgir",
+                  "text": "Különös lávaalakzatokkal teli terület Izlandon, amely misztikus hangulatáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -16.894466,
+                        65.585916
+                  ]
+            },
+            {
+                  "name": "Hallarflöt",
+                  "text": "Egy jellegzetes vulkáni kőzetképződmény Dimmuborgir lávamezőjén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.908981,
+                        65.590583
+                  ]
+            },
+            {
+                  "name": "Kirkja",
+                  "text": "Ismert barlangszerű kőzetképződmény Dimmuborgirban, amely egy templomra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.902467,
+                        65.585708
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Lenyűgöző lávaalakzatok csoportja Dimmuborgir régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "Természetes lávaboltozat Dimmuborgirban, amely jellegzetes nyílásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.904153,
+                        65.590358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dimmuborgir",
+                  "text": "O zonă din Islanda cu formațiuni de lavă bizare, cunoscută pentru atmosfera sa mistică.",
+                  "category": "natural",
+                  "coords": [
+                        -16.894466,
+                        65.585916
+                  ]
+            },
+            {
+                  "name": "Hallarflöt",
+                  "text": "O formațiune stâncoasă vulcanică distinctivă în câmpul de lavă Dimmuborgir.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.908981,
+                        65.590583
+                  ]
+            },
+            {
+                  "name": "Kirkja",
+                  "text": "O cunoscută formațiune stâncoasă de tip peșteră din Dimmuborgir, care seamănă cu o biserică.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.902467,
+                        65.585708
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Un grup de formațiuni de lavă impresionante în regiunea Dimmuborgir.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "O arcadă naturală de lavă în Dimmuborgir, cunoscută pentru deschiderea sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.904153,
+                        65.590358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dimmuborgir",
+                  "text": "An area in Iceland featuring bizarre lava formations, known for its mystical atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -16.894466,
+                        65.585916
+                  ]
+            },
+            {
+                  "name": "Hallarflöt",
+                  "text": "A striking volcanic rock formation located within the Dimmuborgir lava field.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.908981,
+                        65.590583
+                  ]
+            },
+            {
+                  "name": "Kirkja",
+                  "text": "A well-known cave-like rock formation in Dimmuborgir that resembles a church.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.902467,
+                        65.585708
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "A cluster of impressive lava formations located in the Dimmuborgir region.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "A natural lava arch in Dimmuborgir known for its distinctive opening.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.904153,
+                        65.590358
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Dimmuborgir", hu: "Dimmuborgir", ro: "Dimmuborgir", en: "Dimmuborgir"},
@@ -555,7 +1491,52 @@ imageHint: "Bárðarbunga volcano under glacier",
     },
     image: "/poi-images/iceland-bardarbunga-relief-v2.webp",
 },  {
-    id: "iceland-oraefajokull-relief-v2",
+    id: "iceland-oraefajokull-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Der höchste Gipfel Islands, gelegen auf dem Öræfajökull-Gletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Izland legmagasabb pontja, amely az Öræfajökull-gleccseren található.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "Cel mai înalt vârf din Islanda, situat pe ghețarul Öræfajökull.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvannadalshnúkur",
+                  "text": "The highest peak in Iceland, located on the Öræfajökull glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.67696,
+                        64.01415
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Öræfajökull", hu: "Öræfajökull", ro: "Öræfajökull", en: "Öræfajökull"},
@@ -785,7 +1766,52 @@ imageHint: "Eyjafjallajökull volcano eruption clouds",
     },
     image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp",
 },  {
-    id: "iceland-drangajokull-relief-v2",
+    id: "iceland-drangajokull-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrolleifsborg",
+                  "text": "Ein Berg in Island in der Nähe des Gletschers Drangajökull.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.1845,
+                        66.164333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrolleifsborg",
+                  "text": "Izlandi hegycsúcs a Drangajökull-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.1845,
+                        66.164333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrolleifsborg",
+                  "text": "Un vârf muntos din Islanda, situat în apropierea ghețarului Drangajökull.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.1845,
+                        66.164333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrolleifsborg",
+                  "text": "A mountain peak in Iceland located near the Drangajökull glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.1845,
+                        66.164333
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Drangajökull", hu: "Drangajökull", ro: "Drangajökull", en: "Drangajökull"},
@@ -831,7 +1857,88 @@ imageHint: "Drangajökull glacier landscape Westfjords",
     },
     image: "/poi-images/iceland-drangajokull-relief-v2.webp",
 },  {
-    id: "iceland-burfell-relief-v2",
+    id: "iceland-burfell-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Búrfell",
+                  "text": "Ein markanter Berg in Island, der für seine flache Gipfelform bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "Ein malerischer Wasserfall in der Nähe des Berges Búrfell im Süden Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Búrfell",
+                  "text": "Jellegzetes izlandi hegycsúcs, amely lapos formájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "Festői vízesés Izland déli részén, a Búrfell-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Búrfell",
+                  "text": "Un vârf muntos distinctiv din Islanda, cunoscut pentru forma sa plată.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "O cascadă pitorească situată în apropierea muntelui Búrfell din sudul Islandei.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Búrfell",
+                  "text": "A distinctive mountain peak in Iceland known for its flat-topped shape.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "A picturesque waterfall located near Mount Búrfell in southern Iceland.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Búrfell", hu: "Búrfell", ro: "Búrfell", en: "Búrfell"},
@@ -923,7 +2030,88 @@ imageHint: "Búrfell table mountain in south Iceland",
     },
   },
   {
-    id: "iceland-blafjoll-relief-v2",
+    id: "iceland-blafjoll-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eldborg",
+                  "text": "Ein isländisches Naturschutzgebiet mit beeindruckenden vulkanischen Formationen.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Ein markanter Gipfel in der Bláfjöll-Region, bekannt für seinen erloschenen Vulkan.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eldborg",
+                  "text": "Izlandi természetvédelmi terület lenyűgöző vulkáni képződményekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Jellegzetes csúcs a Bláfjöll régióban, amely kialudt vulkánjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eldborg",
+                  "text": "O rezervație naturală islandeză cu formațiuni vulcanice impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Un vârf proeminent în regiunea Bláfjöll, cunoscut pentru vulcanul său adormit.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eldborg",
+                  "text": "An Icelandic nature reserve featuring impressive volcanic formations.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "A prominent peak in the Bláfjöll region, known for its dormant volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Bláfjöll", hu: "Bláfjöll", ro: "Bláfjöll", en: "Bláfjöll"},
@@ -1013,7 +2201,124 @@ imageHint: "Eiriksjokull table mountain Iceland",
     },
     image: "/poi-images/iceland-eiriksjokull-relief-v2.webp",
 },  {
-    id: "iceland-torfajokull-relief-v2",
+    id: "iceland-torfajokull-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrafntinnusker",
+                  "text": "Ein Rhyolith-Berg und Gletschergebiet im Torfajökull-Massiv in Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.18084,
+                        63.93298
+                  ]
+            },
+            {
+                  "name": "Háskerðingur",
+                  "text": "Der höchste Gipfel im Torfajökull-Gebiet, bekannt für seine farbigen Gesteine.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.12252,
+                        63.89333
+                  ]
+            },
+            {
+                  "name": "Kaldaklofsfjöll",
+                  "text": "Ein zerklüfteter Gebirgszug im isländischen Hochland nahe Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.14288,
+                        63.88668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrafntinnusker",
+                  "text": "Riolithegy és gleccserterület az izlandi Torfajökull-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.18084,
+                        63.93298
+                  ]
+            },
+            {
+                  "name": "Háskerðingur",
+                  "text": "A Torfajökull terület legmagasabb csúcsa, amely színes kőzeteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.12252,
+                        63.89333
+                  ]
+            },
+            {
+                  "name": "Kaldaklofsfjöll",
+                  "text": "Tagolt hegylánc az izlandi felföldön, Landmannalaugar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.14288,
+                        63.88668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrafntinnusker",
+                  "text": "Un munte de riolit și o zonă glaciară în masivul Torfajökull din Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.18084,
+                        63.93298
+                  ]
+            },
+            {
+                  "name": "Háskerðingur",
+                  "text": "Cel mai înalt vârf din zona Torfajökull, cunoscut pentru rocile sale colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.12252,
+                        63.89333
+                  ]
+            },
+            {
+                  "name": "Kaldaklofsfjöll",
+                  "text": "Un lanț muntos accidentat în zonele înalte ale Islandei, lângă Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.14288,
+                        63.88668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrafntinnusker",
+                  "text": "A rhyolite mountain and glacier area in the Torfajökull Massif of Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.18084,
+                        63.93298
+                  ]
+            },
+            {
+                  "name": "Háskerðingur",
+                  "text": "The highest peak in the Torfajökull area, known for its colorful rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.12252,
+                        63.89333
+                  ]
+            },
+            {
+                  "name": "Kaldaklofsfjöll",
+                  "text": "A rugged mountain range in the Icelandic Highlands near Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.14288,
+                        63.88668
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Torfajökull-Massiv", hu: "Torfajökull-masszívum", ro: "Masivul Torfajökull", en: "Torfajökull Massif"},
@@ -1193,7 +2498,52 @@ imageHint: "Snaefell mountain East Iceland",
     },
     image: "/poi-images/iceland-snaefell-east-relief-v2.webp",
 },  {
-    id: "iceland-maelifell-relief-v2",
+    id: "iceland-maelifell-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mælifell",
+                  "text": "Ein markanter grüner Vulkanberg inmitten der kargen Landschaft des isländischen Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.93858,
+                        63.79957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mælifell",
+                  "text": "Egy jellegzetes zöld vulkáni csúcs az izlandi felföld kopár vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.93858,
+                        63.79957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mælifell",
+                  "text": "Un vârf vulcanic verde proeminent situat în peisajul arid din zonele înalte ale Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.93858,
+                        63.79957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mælifell",
+                  "text": "A prominent green volcanic peak situated in the barren landscape of the Icelandic highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.93858,
+                        63.79957
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Mælifell", hu: "Mælifell", ro: "Mælifell", en: "Mælifell"},
@@ -1238,7 +2588,124 @@ imageHint: "Maelifell green volcano cone",
     },
     image: "/poi-images/iceland-maelifell-relief-v2.webp",
 },  {
-    id: "iceland-thrihnukagigur-relief-v2",
+    id: "iceland-thrihnukagigur-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eldborg",
+                  "text": "Eldborg ist ein Naturschutzgebiet bei Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Bláfjallafólkvangur",
+                  "text": "Bláfjallafólkvangur ist ein Naturschutzgebiet bei Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.688026,
+                        64.014373
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Þríhnúkar ist ein Berggipfel in der Nähe von Þríhnúkagígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eldborg",
+                  "text": "A Eldborg egy természetvédelmi terület Þríhnúkagígur közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Bláfjallafólkvangur",
+                  "text": "A Bláfjallafólkvangur egy természetvédelmi terület Þríhnúkagígur közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -21.688026,
+                        64.014373
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "A Þríhnúkar egy hegycsúcs Þríhnúkagígur közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eldborg",
+                  "text": "Eldborg este o rezervație naturală lângă Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Bláfjallafólkvangur",
+                  "text": "Bláfjallafólkvangur este o rezervație naturală lângă Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.688026,
+                        64.014373
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Þríhnúkar este un vârf muntos lângă Þríhnúkagígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eldborg",
+                  "text": "Eldborg is a nature reserve near Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.638267,
+                        63.998413
+                  ]
+            },
+            {
+                  "name": "Bláfjallafólkvangur",
+                  "text": "Bláfjallafólkvangur is a nature reserve near Þríhnúkagígur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.688026,
+                        64.014373
+                  ]
+            },
+            {
+                  "name": "Þríhnúkar",
+                  "text": "Þríhnúkar is a mountain peak near Þríhnúkagígur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.703027,
+                        63.996159
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Þríhnúkagígur", hu: "Þríhnúkagígur", ro: "Þríhnúkagígur", en: "Þríhnúkagígur"},
@@ -1328,7 +2795,52 @@ imageHint: "Kaldidalur highland road landscape",
     },
     image: "/poi-images/iceland-kaldidalur-relief-v2.webp",
 },  {
-    id: "iceland-oksnadalsheidi-relief-v2",
+    id: "iceland-oksnadalsheidi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Ein Berggipfel in der Region Öksnadalsheiði.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Egy hegycsúcs Öksnadalsheiði régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Un vârf montan în regiunea Öksnadalsheiði.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "A mountain peak in the Öksnadalsheiði region.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "mountain",
     name: { de: "Öksnadalsheiði", hu: "Öksnadalsheiði", ro: "Öksnadalsheiði", en: "Öksnadalsheiði"},

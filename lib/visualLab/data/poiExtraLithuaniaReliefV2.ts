@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const lithuaniaReliefV2: POI[] = [
 
   {
-    id: "lithuania-juozapine-hill-relief-v2",
+    id: "lithuania-juozapine-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Medinkai",
+                  "text": "Die Burg Medininkai ist eine bedeutende mittelalterliche Festung in der Nähe des Juozapinė-Hügels in Litauen.",
+                  "category": "castle",
+                  "coords": [
+                        25.650005,
+                        54.539627
+                  ]
+            },
+            {
+                  "name": "Pasieniečių muziejus",
+                  "text": "Ein Museum beim Juozapinė-Hügel, das der Geschichte und Arbeit des Grenzschutzes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.667053,
+                        54.551175
+                  ]
+            },
+            {
+                  "name": "Aukštojas",
+                  "text": "Der Aukštojas ist mit 293,84 Metern der höchste Punkt Litauens.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Josephinenberg",
+                  "text": "Der Juozapinė-Hügel galt lange Zeit als die höchste Erhebung Litauens und bietet eine weite Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Ein weiterer Aussichtspunkt auf dem Juozapinė-Hügel, der den Blick auf die litauische Landschaft ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Dieser Aussichtspunkt am Juozapinė-Hügel bietet Besuchern eine zusätzliche Perspektive auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Ein Aussichtspunkt in der Nähe des Juozapinė-Hügels, der für seine natürliche Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medininkų pilis",
+                  "text": "A Medininkai vár egy jelentős középkori erődítmény Litvániában, a Juozapinė-domb közelében.",
+                  "category": "castle",
+                  "coords": [
+                        25.650005,
+                        54.539627
+                  ]
+            },
+            {
+                  "name": "Pasieniečių muziejus",
+                  "text": "A határőrség történetének és munkájának szentelt múzeum a Juozapinė-dombnál.",
+                  "category": "museum",
+                  "coords": [
+                        25.667053,
+                        54.551175
+                  ]
+            },
+            {
+                  "name": "Aukštojas",
+                  "text": "Az Aukštojas 293,84 méteres magasságával Litvánia legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "A Juozapinė-dombot sokáig Litvánia legmagasabb pontjának tartották, és széles kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Egy másik kilátópont a Juozapinė-dombon, ahonnan a litván tájra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Ez a kilátópont a Juozapinė-dombon további perspektívát kínál a látogatóknak a környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Kilátópont a Juozapinė-domb közelében, amely természeti panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medininkų pilis",
+                  "text": "Castelul Medininkai este o importantă fortăreață medievală din Lituania, situată lângă dealul Juozapinė.",
+                  "category": "castle",
+                  "coords": [
+                        25.650005,
+                        54.539627
+                  ]
+            },
+            {
+                  "name": "Pasieniečių muziejus",
+                  "text": "Un muzeu situat pe dealul Juozapinė, dedicat istoriei și activității poliției de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        25.667053,
+                        54.551175
+                  ]
+            },
+            {
+                  "name": "Aukštojas",
+                  "text": "Aukštojas este cel mai înalt punct din Lituania, având o altitudine de 293,84 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "Dealul Juozapinė a fost considerat mult timp cel mai înalt punct din Lituania și oferă o vedere largă.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Un alt punct de belvedere pe dealul Juozapinė, oferind o vedere asupra peisajului lituanian.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Acest punct de belvedere de pe dealul Juozapinė oferă vizitatorilor o perspectivă suplimentară asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Un punct de belvedere lângă dealul Juozapinė, cunoscut pentru vederea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medininkų pilis",
+                  "text": "Medininkai Castle is a significant medieval fortress in Lithuania, located near Juozapinė Hill.",
+                  "category": "castle",
+                  "coords": [
+                        25.650005,
+                        54.539627
+                  ]
+            },
+            {
+                  "name": "Borderguard museum",
+                  "text": "A museum located at Juozapinė Hill dedicated to the history and work of the border guard.",
+                  "category": "museum",
+                  "coords": [
+                        25.667053,
+                        54.551175
+                  ]
+            },
+            {
+                  "name": "Aukštojas",
+                  "text": "Aukštojas is the highest point in Lithuania, reaching an elevation of 293.84 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinė Hill",
+                  "text": "Juozapinė Hill was long considered the highest point in Lithuania and offers a wide view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Another viewpoint on Juozapinė Hill, offering a look at the Lithuanian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "This viewpoint at Juozapinė Hill provides visitors with an additional perspective on the area.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "A viewpoint near Juozapinė Hill known for its natural vista.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Juozapinė", hu: "Juozapinė-domb", ro: "Dealul Juozapinė", en: "Juozapinė Hill"},
@@ -95,7 +356,88 @@ imageHint: "Kruopine hill landscape Lithuania",
     },
     image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp",
 },  {
-    id: "lithuania-nevaisiai-hill-relief-v2",
+    id: "lithuania-nevaisiai-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minčios vandens malūnas",
+                  "text": "Eine historische Wassermühle in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.980239,
+                        55.476443
+                  ]
+            },
+            {
+                  "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine hölzerne katholische Kirche in Švedriškė.",
+                  "category": "religious",
+                  "coords": [
+                        26.073301,
+                        55.490818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minčios vandens malūnas",
+                  "text": "Történelmi vízimalom a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.980239,
+                        55.476443
+                  ]
+            },
+            {
+                  "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Fából készült katolikus templom Švedriškėben.",
+                  "category": "religious",
+                  "coords": [
+                        26.073301,
+                        55.490818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minčios vandens malūnas",
+                  "text": "O moară de apă istorică în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        25.980239,
+                        55.476443
+                  ]
+            },
+            {
+                  "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică de lemn în Švedriškė.",
+                  "category": "religious",
+                  "coords": [
+                        26.073301,
+                        55.490818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minčios vandens malūnas",
+                  "text": "A historic water mill in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.980239,
+                        55.476443
+                  ]
+            },
+            {
+                  "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A wooden Catholic church in Švedriškė.",
+                  "category": "religious",
+                  "coords": [
+                        26.073301,
+                        55.490818
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Nevaišiai", hu: "Nevaišiai-domb", ro: "Dealul Nevaišiai", en: "Nevaišiai Hill"},
@@ -187,7 +529,124 @@ imageHint: "Medvegalis hill fort and landscape Lithuania",
     },
     image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp",
 },  {
-    id: "lithuania-satrija-hill-relief-v2",
+    id: "lithuania-satrija-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šatrijos kalnas",
+                  "text": "Ein legendärer Hügel in Samogitien, bekannt für Hexengeschichten und einen antiken Burgwall.",
+                  "category": "historical",
+                  "coords": [
+                        22.558117,
+                        55.87264
+                  ]
+            },
+            {
+                  "name": "Luokės Visų Šventųjų bažnyčia",
+                  "text": "Die hölzerne Allerheiligenkirche in Luokė ist ein markantes Sakralbauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        22.526792,
+                        55.891341
+                  ]
+            },
+            {
+                  "name": "Luokės koplyčia",
+                  "text": "Eine kleine Kapelle im historischen Ort Luokė in der Nähe des Šatrija-Hügels.",
+                  "category": "religious",
+                  "coords": [
+                        22.530174,
+                        55.889397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šatrijos kalnas",
+                  "text": "Legendás domb Szamogitiában, amely boszorkánytörténetekről és egy ősi várhelyről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        22.558117,
+                        55.87264
+                  ]
+            },
+            {
+                  "name": "Luokės Visų Šventųjų bažnyčia",
+                  "text": "A luokėi fából készült Mindenszentek-templom egy jelentős szakrális épület.",
+                  "category": "religious",
+                  "coords": [
+                        22.526792,
+                        55.891341
+                  ]
+            },
+            {
+                  "name": "Luokės koplyčia",
+                  "text": "Kis kápolna a történelmi Luokė településen, a Šatrija-domb közelében.",
+                  "category": "religious",
+                  "coords": [
+                        22.530174,
+                        55.889397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šatrijos kalnas",
+                  "text": "Un deal legendar din Samogitia, cunoscut pentru povești cu vrăjitoare și un sit antic.",
+                  "category": "historical",
+                  "coords": [
+                        22.558117,
+                        55.87264
+                  ]
+            },
+            {
+                  "name": "Luokės Visų Šventųjų bažnyčia",
+                  "text": "Biserica din lemn Toți Sfinții din Luokė este un edificiu religios remarcabil.",
+                  "category": "religious",
+                  "coords": [
+                        22.526792,
+                        55.891341
+                  ]
+            },
+            {
+                  "name": "Luokės koplyčia",
+                  "text": "O mică capelă în localitatea istorică Luokė, lângă dealul Šatrija.",
+                  "category": "religious",
+                  "coords": [
+                        22.530174,
+                        55.889397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šatrijos kalnas",
+                  "text": "A legendary hill in Samogitia, known for witch lore and an ancient hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        22.558117,
+                        55.87264
+                  ]
+            },
+            {
+                  "name": "Luokės Visų Šventųjų bažnyčia",
+                  "text": "The wooden All Saints' Church in Luokė is a notable religious building.",
+                  "category": "religious",
+                  "coords": [
+                        22.526792,
+                        55.891341
+                  ]
+            },
+            {
+                  "name": "Luokė Chapel",
+                  "text": "A small chapel in the historic town of Luokė near Šatrija Hill.",
+                  "category": "religious",
+                  "coords": [
+                        22.530174,
+                        55.889397
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Šatrija", hu: "Šatrija-domb", ro: "Dealul Šatrija", en: "Šatrija Hill"},
@@ -233,7 +692,196 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
     },
     image: "/poi-images/lithuania-satrija-hill-relief-v2.webp",
 },  {
-    id: "lithuania-pavistytis-hill-relief-v2",
+    id: "lithuania-pavistytis-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Takas „Šaltinėlis“",
+                  "text": "Ein Naturlehrpfad in der Nähe des Pavištytis-Hügels in Litauen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768883,
+                        54.399304
+                  ]
+            },
+            {
+                  "name": "Šilelio pažintinis takas",
+                  "text": "Ein Wanderpfad, der durch die Wälder am Pavištytis-Hügel führt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.763734,
+                        54.407702
+                  ]
+            },
+            {
+                  "name": "Žvilgsnis į Romintą",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Rominter Heide.",
+                  "category": "natural",
+                  "coords": [
+                        22.7724,
+                        54.3966
+                  ]
+            },
+            {
+                  "name": "Skardis ir Vištyčio vaizdas",
+                  "text": "Aussichtspunkt mit Blick auf das Kliff und den Wystiter See.",
+                  "category": "natural",
+                  "coords": [
+                        22.760452,
+                        54.40633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Eine Kirche, die dem Heiligen Michael dem Erzengel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.695786,
+                        54.355696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Takas „Šaltinėlis“",
+                  "text": "Természeti tanösvény a litvániai Pavištytis-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768883,
+                        54.399304
+                  ]
+            },
+            {
+                  "name": "Šilelio pažintinis takas",
+                  "text": "Vándorút, amely a Pavištytis-hegy környéki erdőkön vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        22.763734,
+                        54.407702
+                  ]
+            },
+            {
+                  "name": "Žvilgsnis į Romintą",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Romintai-erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        22.7724,
+                        54.3966
+                  ]
+            },
+            {
+                  "name": "Skardis ir Vištyčio vaizdas",
+                  "text": "Kilátóhely, ahonnan rálátni a meredek partra és a Vištytis-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        22.760452,
+                        54.40633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Szent Mihály arkangyalnak szentelt templom a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        22.695786,
+                        54.355696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Takas „Šaltinėlis“",
+                  "text": "Un traseu educațional natural în apropierea dealului Pavištytis din Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768883,
+                        54.399304
+                  ]
+            },
+            {
+                  "name": "Šilelio pažintinis takas",
+                  "text": "Un traseu de drumeție care străbate pădurile de lângă dealul Pavištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.763734,
+                        54.407702
+                  ]
+            },
+            {
+                  "name": "Žvilgsnis į Romintą",
+                  "text": "Un punct de belvedere cu o vedere panoramică asupra pădurii Rominta.",
+                  "category": "natural",
+                  "coords": [
+                        22.7724,
+                        54.3966
+                  ]
+            },
+            {
+                  "name": "Skardis ir Vištyčio vaizdas",
+                  "text": "Punct de belvedere care oferă o vedere asupra falezei și a lacului Vištytis.",
+                  "category": "natural",
+                  "coords": [
+                        22.760452,
+                        54.40633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "O biserică dedicată Sfântului Arhanghel Mihail în această zonă.",
+                  "category": "religious",
+                  "coords": [
+                        22.695786,
+                        54.355696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Takas „Šaltinėlis“",
+                  "text": "A nature educational trail near the Pavištytis Hill in Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768883,
+                        54.399304
+                  ]
+            },
+            {
+                  "name": "Šilelio pažintinis takas",
+                  "text": "A hiking trail leading through the forests by the Pavištytis Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        22.763734,
+                        54.407702
+                  ]
+            },
+            {
+                  "name": "Žvilgsnis į Romintą",
+                  "text": "A viewpoint offering a wide view over the Rominta Forest.",
+                  "category": "natural",
+                  "coords": [
+                        22.7724,
+                        54.3966
+                  ]
+            },
+            {
+                  "name": "Skardis ir Vištyčio vaizdas",
+                  "text": "Viewpoint overlooking the cliff and Lake Vištytis.",
+                  "category": "natural",
+                  "coords": [
+                        22.760452,
+                        54.40633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "A church dedicated to Saint Michael the Archangel in the area.",
+                  "category": "religious",
+                  "coords": [
+                        22.695786,
+                        54.355696
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Pavištytis", hu: "Pavištytis-domb", ro: "Dealul Pavištytis", en: "Pavištytis Hill"},
@@ -325,7 +973,268 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
     },
     image: "/poi-images/lithuania-girniu-hill-relief-v2.webp",
 },  {
-    id: "lithuania-ladakalnis-hill-relief-v2",
+    id: "lithuania-ladakalnis-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Der Staniuliškės-Burghügel ist eine historische befestigte Stätte in Litauen.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučiai-Hügel",
+                  "text": "Der Ginučiai-Burghügel ist eine bedeutende archäologische Stätte im Aukštaitija-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalne-Hügel",
+                  "text": "Papiliakalnė ist ein historischer litauischer Burghügel in der Nähe des Ladakalnis.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Der Linkmenys-Burghügel ist ein archäologisches Denkmal in der Nähe des Dorfes Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Der Puziniškis-Burghügel ist eine antike Verteidigungsanlage in der Region Ignalina.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Die Siedlung Kimbariškės ist eine archäologische Fundstätte aus der Steinzeit.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Ein malerischer Strand in der Nähe der historischen Wassermühle von Ginučiai bei Ladakalnis Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994654,
+                        55.385604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "A Staniuliškės-várhegy egy történelmi erődített hely Litvániában.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "A Ginučiai-várhegy az Aukštaitija Nemzeti Park egyik jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "A Papiliakalnė egy történelmi litván várhegy a Ladakalnis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "A Linkmenys-várhegy egy régészeti műemlék Ginučiai falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "A Puziniškis-várhegy egy ókori védelmi építmény az Ignalina régióban.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "A Kimbariškés település egy kőkorszaki régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Festői strand a történelmi Ginučiai vízimolnár közelében, a Ladakalnis-dombnál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994654,
+                        55.385604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Fortăreața Staniuliškės este un sit istoric fortificat din Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "Fortăreața Ginučiai este un sit arheologic important din Parcul Național Aukštaitija.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "Papiliakalnė este o colină fortificată istorică din Lituania, situată lângă Ladakalnis.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Fortăreața Linkmenys este un monument arheologic situat în apropierea satului Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Fortăreața Puziniškis este o structură defensivă antică din regiunea Ignalina.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Așezarea Kimbariškės este un sit arheologic ce datează din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "O plajă pitorească situată lângă moara de apă istorică din Ginučiai, la dealul Ladakalnis.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994654,
+                        55.385604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Staniuliškės hillfort is a historical fortified site in Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "Ginučiai hillfort is a significant archaeological site in the Aukštaitija National Park.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "Papiliakalnė is a historic Lithuanian hillfort located near Ladakalnis.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Linkmenys hillfort is an archaeological monument located near the village of Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Puziniškis hillfort is an ancient defensive structure in the Ignalina region.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "The Kimbariškės settlement is an archaeological site dating back to the Stone Age.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "A scenic beach located near the historic Ginučiai water mill at Ladakalnis Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994654,
+                        55.385604
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Ladakalnis", hu: "Ladakalnis", ro: "Ladakalnis", en: "Ladakalnis Hill"},
@@ -509,7 +1418,124 @@ imageHint: "Dzukija highland forest and hills Lithuania",
     },
     image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
 },  {
-    id: "lithuania-medininkai-upland-relief-v2",
+    id: "lithuania-medininkai-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Der Aukštojas ist mit 293,84 Metern der höchste Berg Litauens.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Josephinenberg",
+                  "text": "Ein bekannter Hügel im Medininkai-Hochland, der früher als höchster Punkt Litauens galt.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Ein schöner Aussichtspunkt mit Blick auf die umliegende Landschaft des Medininkai-Hochlands.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Az Aukštojas Litvánia legmagasabb pontja, tengerszint feletti magassága 293,84 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "Ismert domb a Medininkai-hátságon, amelyet korábban Litvánia legmagasabb pontjának hittek.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Szép kilátópont, ahonnan panoráma nyílik a Medininkai-hátság vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Aukštojas este cel mai înalt punct din Lituania, având o altitudine de 293,84 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "O colină cunoscută din Podișul Medininkai, considerată anterior cel mai înalt punct din Lituania.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Un punct de observație ce oferă o panoramă asupra peisajului din Podișul Medininkai.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Aukštojas is the highest point in Lithuania, reaching an elevation of 293,84 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinė Hill",
+                  "text": "A prominent hill in the Medininkai Highland, formerly believed to be the highest point in Lithuania.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "A scenic viewpoint offering vistas of the surrounding Medininkai Highland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "mountain",
     name: { de: "Medininkai-Hochland", hu: "Medininkai-felföld", ro: "Podișul Medininkai", en: "Medininkai Highland"},
@@ -555,7 +1581,88 @@ imageHint: "Dzukija highland forest and hills Lithuania",
     }
   },
   {
-    id: "lithuania-suduva-upland-relief-v2",
+    id: "lithuania-suduva-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vartelių liepa",
+                  "text": "Bemerkenswerte historische Linde in der Region Sūduva.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980292,
+                        54.390411
+                  ]
+            },
+            {
+                  "name": "Pagraužių dvaras",
+                  "text": "Historisches Herrenhaus und Gutshof in der Region Sūduva.",
+                  "category": "historical",
+                  "coords": [
+                        23.03756,
+                        54.390277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vartelių liepa",
+                  "text": "Nevezetes történelmi hársfa a Sūduva-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980292,
+                        54.390411
+                  ]
+            },
+            {
+                  "name": "Pagraužių dvaras",
+                  "text": "Történelmi kúria és birtok a Sūduva-felföldön.",
+                  "category": "historical",
+                  "coords": [
+                        23.03756,
+                        54.390277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vartelių liepa",
+                  "text": "Tei istoric remarcabil din regiunea muntoasă Sūduva.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980292,
+                        54.390411
+                  ]
+            },
+            {
+                  "name": "Pagraužių dvaras",
+                  "text": "Conac istoric și domeniu în regiunea muntoasă Sūduva.",
+                  "category": "historical",
+                  "coords": [
+                        23.03756,
+                        54.390277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vartelių liepa",
+                  "text": "Notable historic lime tree in the Sūduva Highland region.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980292,
+                        54.390411
+                  ]
+            },
+            {
+                  "name": "Pagraužių dvaras",
+                  "text": "Historic manor house and estate in the Sūduva Highland.",
+                  "category": "historical",
+                  "coords": [
+                        23.03756,
+                        54.390277
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "mountain",
     name: { de: "Sūduva-Hochland", hu: "Sūduva-felföld", ro: "Podișul Sūduva", en: "Sūduva Highland"},
@@ -693,7 +1800,124 @@ imageHint: "Pajuris lowland coastal landscape Lithuania",
     },
     image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp",
 },  {
-    id: "lithuania-nemunas-delta-relief-v2",
+    id: "lithuania-nemunas-delta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rusnės apžvalgos bokštas",
+                  "text": "Ein hölzerner Aussichtsturm im Nemunas-Delta, der ideal zur Vogelbeobachtung und Naturerkundung ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.280372,
+                        55.32632
+                  ]
+            },
+            {
+                  "name": "Rusnės regykla",
+                  "text": "Ein Aussichtspunkt im Nemunas-Delta, der weite Ausblicke über die Flusslandschaft bei Rusnė bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.297015,
+                        55.307578
+                  ]
+            },
+            {
+                  "name": "Pakalnės pažintinis takas",
+                  "text": "Ein Lehrpfad im Nemunas-Delta, der Besuchern die einzigartige Flora und Fauna der Region näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.309388,
+                        55.316268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rusnės apžvalgos bokštas",
+                  "text": "Fából készült kilátótorony a Nyeman-deltában, amely kiváló madármegfigyelésre és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        21.280372,
+                        55.32632
+                  ]
+            },
+            {
+                  "name": "Rusnės regykla",
+                  "text": "Kilátóhely a Nyeman-deltában, ahonnan tágas kilátás nyílik a folyami tájra Rusnė közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.297015,
+                        55.307578
+                  ]
+            },
+            {
+                  "name": "Pakalnės pažintinis takas",
+                  "text": "Tanösvény a Nyeman-deltában, amely bemutatja a régió egyedülálló növény- és állatvilágát.",
+                  "category": "landmark",
+                  "coords": [
+                        21.309388,
+                        55.316268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rusnės apžvalgos bokštas",
+                  "text": "Un turn de observare din lemn în Delta Nemunas, ideal pentru observarea păsărilor și a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        21.280372,
+                        55.32632
+                  ]
+            },
+            {
+                  "name": "Rusnės regykla",
+                  "text": "Un punct de observație în Delta Nemunas ce oferă vederi spre peisajul fluvial de lângă Rusnė.",
+                  "category": "natural",
+                  "coords": [
+                        21.297015,
+                        55.307578
+                  ]
+            },
+            {
+                  "name": "Pakalnės pažintinis takas",
+                  "text": "Un traseu educativ în Delta Nemunas care prezintă vizitatorilor flora și fauna unică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        21.309388,
+                        55.316268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "wooden lookout tower",
+                  "text": "A wooden observation tower in the Nemunas Delta, ideal for birdwatching and exploring nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.280372,
+                        55.32632
+                  ]
+            },
+            {
+                  "name": "Rusnės regykla",
+                  "text": "A viewpoint in the Nemunas Delta offering views over the river landscape near Rusnė.",
+                  "category": "natural",
+                  "coords": [
+                        21.297015,
+                        55.307578
+                  ]
+            },
+            {
+                  "name": "Educational trail",
+                  "text": "An educational trail in the Nemunas Delta that introduces visitors to the region's unique flora and fauna.",
+                  "category": "landmark",
+                  "coords": [
+                        21.309388,
+                        55.316268
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "valley",
     name: { de: "Memel-Delta", hu: "Nyeman-delta", ro: "Delta râului Nemunas", en: "Nemunas Delta"},
@@ -923,7 +2147,52 @@ imageHint: "Zeimena plain pine forest Lithuania",
     },
     image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp",
 },  {
-    id: "lithuania-dysna-plain-relief-v2",
+    id: "lithuania-dysna-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paringio Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Eine katholische Holzkirche in der litauischen Region Paringys, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.346552,
+                        55.318874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paringio Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Jézus Szíve tiszteletére szentelt katolikus fatemplom a litvániai Paringys régióban.",
+                  "category": "religious",
+                  "coords": [
+                        26.346552,
+                        55.318874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paringio Švč. Jėzaus Širdies bažnyčia",
+                  "text": "O biserică catolică de lemn din regiunea lituaniană Paringys, dedicată Preasfintei Inimi a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        26.346552,
+                        55.318874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paringio Švč. Jėzaus Širdies bažnyčia",
+                  "text": "A Catholic wooden church in the Lithuanian region of Paringys, dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        26.346552,
+                        55.318874
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "valley",
     name: { de: "Dysna-Ebene", hu: "Dysna-síkság", ro: "Câmpia Dysna", en: "Dysna Plain"},
@@ -1015,7 +2284,52 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
     },
     image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp",
 },  {
-    id: "lithuania-sesupe-lowland-relief-v2",
+    id: "lithuania-sesupe-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
+                  "text": "Eine Holzkirche in Litauen, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.028537,
+                        54.795688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
+                  "text": "Jézus Szent Szívének szentelt fatemplom Litvániában.",
+                  "category": "religious",
+                  "coords": [
+                        23.028537,
+                        54.795688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Žvirgždaičių Švč. Jėzaus Širdies naujoji bažnyčia",
+                  "text": "O biserică de lemn din Lituania, dedicată Inimii Sacre a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        23.028537,
+                        54.795688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Žvirgždaičiai St. Sacred Heart of Jesus Church",
+                  "text": "A wooden church in Lithuania dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        23.028537,
+                        54.795688
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "valley",
     name: { de: "Šešupė-Tiefland", hu: "Šešupė-alföld", ro: "Câmpia Šešupė", en: "Šešupė Lowland"},
@@ -1117,6 +2431,60 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                         25.994645,
                         55.385602
                   ]
+            },
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Eine antike Wallburg in Litauen, die Zeugnis von frühen Siedlungen ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučiai-Hügel",
+                  "text": "Eine bedeutende Wallburg im Nationalpark Aukštaitija, historisch ein wichtiger Verteidigungsort.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalne-Hügel",
+                  "text": "Eine archäologische Stätte in Litauen mit den Überresten einer alten Wallanlage.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Eine historische Wallburg mit malerischem Blick auf die umliegenden litauischen Seen.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Ein antiker Hügel und archäologische Stätte in der Region Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Archäologische Stätte einer steinzeitlichen Siedlung in der Nähe von Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
             }
       ],
       "hu": [
@@ -1127,6 +2495,60 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.994645,
                         55.385602
+                  ]
+            },
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Egy ősi várhely Litvániában, amely korai települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "Jelentős várhely az Aukštaitija Nemzeti Parkban, történelmileg fontos védelmi helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "Régészeti lelőhely Litvániában, amely egy régi dombi erődítmény maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Történelmi várhely, amely festői kilátást nyújt a környező litván tavakra.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Ókori halom és régészeti lelőhely a Ginučiai régióban.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Kőkorszaki település régészeti lelőhelye Ginučiai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
                   ]
             }
       ],
@@ -1139,6 +2561,60 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                         25.994645,
                         55.385602
                   ]
+            },
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "Un sit antic de fortificație pe deal din Lituania care oferă dovezi ale așezărilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "O fortificație pe deal semnificativă din Parcul Național Aukštaitija, istoric un sit defensiv important.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "Un sit arheologic din Lituania care prezintă resturile unei vechi fortificații pe deal.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Un sit istoric de fortificație pe deal care oferă vederi panoramice asupra lacurilor lituaniene din jur.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Un tumul antic și sit arheologic situat în regiunea Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Sit arheologic al unei așezări din epoca pietrei situat lângă Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
             }
       ],
       "en": [
@@ -1149,6 +2625,60 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.994645,
                         55.385602
+                  ]
+            },
+            {
+                  "name": "Staniuliškių piliakalnis",
+                  "text": "An ancient hill fort site in Lithuania providing evidence of early settlements.",
+                  "category": "historical",
+                  "coords": [
+                        25.930583,
+                        55.363083
+                  ]
+            },
+            {
+                  "name": "Ginučių piliakalnis",
+                  "text": "A significant hill fort in Aukštaitija National Park, historically an important defensive site.",
+                  "category": "historical",
+                  "coords": [
+                        25.985028,
+                        55.373694
+                  ]
+            },
+            {
+                  "name": "Papiliakalnės piliakalnis",
+                  "text": "An archaeological site in Lithuania featuring the remains of an old hill fortification.",
+                  "category": "historical",
+                  "coords": [
+                        25.983472,
+                        55.375222
+                  ]
+            },
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "A historical hill fort site offering scenic views of the surrounding Lithuanian lakes.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "An ancient mound and archaeological site located in the Ginučiai region.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Archaeological site of a Stone Age settlement located near Ginučiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
                   ]
             }
       ]
@@ -1198,7 +2728,124 @@ imageHint: "Ginuciai hill fort and lakes Lithuania",
     },
     image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp",
 },  {
-    id: "lithuania-dyburiai-escarpment-relief-v2",
+    id: "lithuania-dyburiai-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dyburių atodanga",
+                  "text": "Ein markanter geologischer Aufschluss und Aussichtspunkt über dem Fluss Minija.",
+                  "category": "natural",
+                  "coords": [
+                        21.597021,
+                        55.939824
+                  ]
+            },
+            {
+                  "name": "Dauginčių atodanga",
+                  "text": "Ein Aussichtspunkt am Steilufer, der weite Ausblicke auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.5505,
+                        55.9512
+                  ]
+            },
+            {
+                  "name": "Gaudučių buv. dvaro sodyba",
+                  "text": "Überreste eines ehemaligen Herrenhauses in der Nähe der Dyburiai-Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        21.546614,
+                        55.917961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dyburių atodanga",
+                  "text": "Jelentős geológiai feltárás és kilátóhely a Minija-folyó felett.",
+                  "category": "natural",
+                  "coords": [
+                        21.597021,
+                        55.939824
+                  ]
+            },
+            {
+                  "name": "Dauginčių atodanga",
+                  "text": "Kilátóhely a meredek parton, amely széles kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        21.5505,
+                        55.9512
+                  ]
+            },
+            {
+                  "name": "Gaudučių buv. dvaro sodyba",
+                  "text": "Egy egykori nemesi udvarház maradványai a Dyburiai-sziklafal közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.546614,
+                        55.917961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dyburių atodanga",
+                  "text": "Un afloriment geologic spectaculos și punct de observație deasupra râului Minija.",
+                  "category": "natural",
+                  "coords": [
+                        21.597021,
+                        55.939824
+                  ]
+            },
+            {
+                  "name": "Dauginčių atodanga",
+                  "text": "Un punct de observație situat pe malul abrupt, oferind vederi panoramice asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        21.5505,
+                        55.9512
+                  ]
+            },
+            {
+                  "name": "Gaudučių buv. dvaro sodyba",
+                  "text": "Rămășițele unui fost conac situat în apropierea falezei Dyburiai.",
+                  "category": "historical",
+                  "coords": [
+                        21.546614,
+                        55.917961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dyburių atodanga",
+                  "text": "A significant geological outcrop and viewpoint overlooking the Minija River.",
+                  "category": "natural",
+                  "coords": [
+                        21.597021,
+                        55.939824
+                  ]
+            },
+            {
+                  "name": "Dauginčių atodanga",
+                  "text": "A scenic viewpoint on the escarpment offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.5505,
+                        55.9512
+                  ]
+            },
+            {
+                  "name": "Gaudučių buv. dvaro sodyba",
+                  "text": "The remains of a former manor estate located near the Dyburiai Escarpment.",
+                  "category": "historical",
+                  "coords": [
+                        21.546614,
+                        55.917961
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Dyburiai-Schleife", hu: "Dyburiai-kanyarulat", ro: "Escarpamentul Dyburiai", en: "Dyburiai Escarpment"},
@@ -1471,7 +3118,52 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-traku-voke-valley-relief-v2.webp",
   },
   {
-    id: "lithuania-sventoji-escarpment-relief-v2",
+    id: "lithuania-sventoji-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daubariškių piliakalnis",
+                  "text": "Ein alter litauischer Burgberg an der Šventoji-Eskarpment.",
+                  "category": "historical",
+                  "coords": [
+                        25.159944,
+                        55.231528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daubariškių piliakalnis",
+                  "text": "Ősi litván várhely a Šventoji-partfal mentén.",
+                  "category": "historical",
+                  "coords": [
+                        25.159944,
+                        55.231528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daubariškių piliakalnis",
+                  "text": "O veche așezare fortificată lituaniană pe versantul Šventoji.",
+                  "category": "historical",
+                  "coords": [
+                        25.159944,
+                        55.231528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daubariškių piliakalnis",
+                  "text": "An ancient Lithuanian hillfort located on the Šventoji Escarpment.",
+                  "category": "historical",
+                  "coords": [
+                        25.159944,
+                        55.231528
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "LT",
     name: { de: "Šventoji-Steilhang", hu: "Šventoji-meredély", ro: "Povârnișul Šventoji", en: "Šventoji Escarpment" },
@@ -1516,7 +3208,196 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-sventoji-escarpment-relief-v2.webp",
   },
   {
-    id: "lithuania-juozapine-ridge-relief-v2",
+    id: "lithuania-juozapine-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Der höchste Punkt Litauens, gelegen auf dem Juozapinė-Rücken.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Josephinenberg",
+                  "text": "Ein Hügel und Aussichtspunkt, der früher als der höchste Punkt Litauens galt.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Ein markierter Aussichtspunkt auf dem Juozapinė-Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Ein weiterer Aussichtspunkt auf dem Juozapinė-Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf dem Juozapinė-Rücken.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Litvánia legmagasabb pontja, amely a Juozapinė-hátságon található.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "Egy domb és kilátópont, amelyet korábban Litvánia legmagasabb pontjának tartottak.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Kijelölt kilátópont a Juozapinė-dombon.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Egy másik kilátópont a Juozapinė-dombon.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Kilátópont panorámás kilátással a Juozapinė-hátságon.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aukštojas",
+                  "text": "Cel mai înalt punct din Lituania, situat pe culmea Juozapinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalnas",
+                  "text": "Un deal și punct de belvedere, considerat anterior cel mai înalt punct din Lituania.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "Un punct de belvedere amenajat pe dealul Juozapinė.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Un alt punct de belvedere situat pe dealul Juozapinė.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "Un punct de belvedere cu vedere panoramică pe culmea Juozapinė.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aukštojas",
+                  "text": "The highest point in Lithuania, located on the Juozapinė Ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.625687,
+                        54.526959
+                  ]
+            },
+            {
+                  "name": "Juozapinė Hill",
+                  "text": "A hill and viewpoint formerly considered the highest point in Lithuania.",
+                  "category": "natural",
+                  "coords": [
+                        25.627783,
+                        54.531068
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno II regykla",
+                  "text": "A designated viewpoint located on the Juozapinė Hill.",
+                  "category": "natural",
+                  "coords": [
+                        25.629523,
+                        54.532234
+                  ]
+            },
+            {
+                  "name": "Juozapinės kalno III regykla",
+                  "text": "Another viewpoint located on the Juozapinė Hill.",
+                  "category": "natural",
+                  "coords": [
+                        25.627874,
+                        54.53248
+                  ]
+            },
+            {
+                  "name": "Atodanga",
+                  "text": "A viewpoint with panoramic views on the Juozapinė Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        25.622715,
+                        54.526298
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LT",
     name: { de: "Juozapinė-Rücken", hu: "Juozapinė-gerinc", ro: "Creasta Juozapinė", en: "Juozapinė Ridge" },
@@ -1606,7 +3487,268 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-akmena-lowland-relief-v2.webp",
   },
   {
-    id: "lithuania-dubysa-escarpment-relief-v2",
+    id: "lithuania-dubysa-escarpment-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Betygalos I piliakalnis",
+                  "text": "Ein historischer Burghügel in der Nähe des Dubysa-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        23.371611,
+                        55.351139
+                  ]
+            },
+            {
+                  "name": "Betygalos II piliakalnis",
+                  "text": "Eine weitere archäologische Stätte eines ehemaligen Burghügels in der Dubysa-Region.",
+                  "category": "historical",
+                  "coords": [
+                        23.376056,
+                        55.349972
+                  ]
+            },
+            {
+                  "name": "Kejėnų piliakalnis",
+                  "text": "Eine archäologische Ausgrabungsstätte eines Burghügels am Dubysa-Hang.",
+                  "category": "historical",
+                  "coords": [
+                        23.324083,
+                        55.306833
+                  ]
+            },
+            {
+                  "name": "Betygalos muziejus",
+                  "text": "Ein lokales Museum im Dubysa-Hanggebiet.",
+                  "category": "museum",
+                  "coords": [
+                        23.370281,
+                        55.359458
+                  ]
+            },
+            {
+                  "name": "Burbiškių dvaro sodybos fragmentų Trečio tvarto vieta",
+                  "text": "Überreste und Fragmente eines historischen Gutshofes in der Dubysa-Region.",
+                  "category": "historical",
+                  "coords": [
+                        23.344563,
+                        55.364128
+                  ]
+            },
+            {
+                  "name": "Šv. Jono šaltinis",
+                  "text": "Eine lokale Sehenswürdigkeit, bekannt als St.-Johannes-Quelle, am Dubysa-Hang.",
+                  "category": "landmark",
+                  "coords": [
+                        23.354131,
+                        55.35752
+                  ]
+            },
+            {
+                  "name": "Palukščio dvaro sodybos fragmentai",
+                  "text": "Fragmente eines ehemaligen Herrenhauses in der Dubysa-Region.",
+                  "category": "historical",
+                  "coords": [
+                        23.32774,
+                        55.337639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Betygalos I piliakalnis",
+                  "text": "Történelmi várhely a Dubysa-völgy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.371611,
+                        55.351139
+                  ]
+            },
+            {
+                  "name": "Betygalos II piliakalnis",
+                  "text": "Egy másik egykori várhely régészeti lelőhelye a Dubysa-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        23.376056,
+                        55.349972
+                  ]
+            },
+            {
+                  "name": "Kejėnų piliakalnis",
+                  "text": "Várhely régészeti lelőhelye a Dubysa-lejtőnél.",
+                  "category": "historical",
+                  "coords": [
+                        23.324083,
+                        55.306833
+                  ]
+            },
+            {
+                  "name": "Betygalos muziejus",
+                  "text": "Helyi múzeum a Dubysa-lejtő területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.370281,
+                        55.359458
+                  ]
+            },
+            {
+                  "name": "Burbiškių dvaro sodybos fragmentų Trečio tvarto vieta",
+                  "text": "Egy történelmi udvarház maradványai és töredékei a Dubysa-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        23.344563,
+                        55.364128
+                  ]
+            },
+            {
+                  "name": "Šv. Jono šaltinis",
+                  "text": "Szent János-forrásként ismert helyi látnivaló a Dubysa-lejtőnél.",
+                  "category": "landmark",
+                  "coords": [
+                        23.354131,
+                        55.35752
+                  ]
+            },
+            {
+                  "name": "Palukščio dvaro sodybos fragmentai",
+                  "text": "Egy egykori udvarház maradványai a Dubysa-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        23.32774,
+                        55.337639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Betygalos I piliakalnis",
+                  "text": "O colină fortificată istorică lângă valea Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.371611,
+                        55.351139
+                  ]
+            },
+            {
+                  "name": "Betygalos II piliakalnis",
+                  "text": "Un alt sit arheologic al unei foste cetăți în regiunea Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.376056,
+                        55.349972
+                  ]
+            },
+            {
+                  "name": "Kejėnų piliakalnis",
+                  "text": "Un sit arheologic al unei coline fortificate pe versantul Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.324083,
+                        55.306833
+                  ]
+            },
+            {
+                  "name": "Betygalos muziejus",
+                  "text": "Un muzeu local în zona versantului Dubysa.",
+                  "category": "museum",
+                  "coords": [
+                        23.370281,
+                        55.359458
+                  ]
+            },
+            {
+                  "name": "Burbiškių dvaro sodybos fragmentų Trečio tvarto vieta",
+                  "text": "Rămășițe și fragmente ale unui conac istoric în regiunea Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.344563,
+                        55.364128
+                  ]
+            },
+            {
+                  "name": "Šv. Jono šaltinis",
+                  "text": "O atracție locală cunoscută sub numele de Izvorul Sfântului Ioan, pe versantul Dubysa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.354131,
+                        55.35752
+                  ]
+            },
+            {
+                  "name": "Palukščio dvaro sodybos fragmentai",
+                  "text": "Fragmente ale unui fost conac în regiunea Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.32774,
+                        55.337639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Betygalos I piliakalnis",
+                  "text": "A historic hillfort site near the Dubysa valley.",
+                  "category": "historical",
+                  "coords": [
+                        23.371611,
+                        55.351139
+                  ]
+            },
+            {
+                  "name": "Betygalos II piliakalnis",
+                  "text": "Another archaeological site of a former hillfort in the Dubysa region.",
+                  "category": "historical",
+                  "coords": [
+                        23.376056,
+                        55.349972
+                  ]
+            },
+            {
+                  "name": "Kejėnų piliakalnis",
+                  "text": "An archaeological hillfort site on the Dubysa Escarpment.",
+                  "category": "historical",
+                  "coords": [
+                        23.324083,
+                        55.306833
+                  ]
+            },
+            {
+                  "name": "Betygalos muziejus",
+                  "text": "A local museum in the Dubysa Escarpment area.",
+                  "category": "museum",
+                  "coords": [
+                        23.370281,
+                        55.359458
+                  ]
+            },
+            {
+                  "name": "Burbiškių dvaro sodybos fragmentų Trečio tvarto vieta",
+                  "text": "Remains and fragments of a historic manor estate in the Dubysa region.",
+                  "category": "historical",
+                  "coords": [
+                        23.344563,
+                        55.364128
+                  ]
+            },
+            {
+                  "name": "Šv. Jono šaltinis",
+                  "text": "A local attraction known as St. John's Spring on the Dubysa Escarpment.",
+                  "category": "landmark",
+                  "coords": [
+                        23.354131,
+                        55.35752
+                  ]
+            },
+            {
+                  "name": "Palukščio dvaro sodybos fragmentai",
+                  "text": "Fragments of a former manor estate in the Dubysa region.",
+                  "category": "historical",
+                  "coords": [
+                        23.32774,
+                        55.337639
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "LT",
     name: { de: "Dubysa-Steilhang", hu: "Dubysa-meredély", ro: "Povârnișul Dubysa", en: "Dubysa Escarpment" },
@@ -1651,7 +3793,196 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-dubysa-escarpment-relief-v2.webp",
   },
   {
-    id: "lithuania-linkuva-hill-ridge-relief-v2",
+    id: "lithuania-linkuva-hill-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tričių piliakalnis",
+                  "text": "Eine alte Wallburg auf dem Hügelrücken von Linkuva.",
+                  "category": "historical",
+                  "coords": [
+                        24.023222,
+                        56.107944
+                  ]
+            },
+            {
+                  "name": "Linkuvos karmelitų vienuolynas",
+                  "text": "Ein historisches Karmeliterkloster in der Region Linkuva.",
+                  "category": "religious",
+                  "coords": [
+                        23.975173,
+                        56.084387
+                  ]
+            },
+            {
+                  "name": "Piemenėlių ąžuolas",
+                  "text": "Eine bemerkenswerte alte Eiche, die als lokales Wahrzeichen auf dem Hügelrücken von Linkuva dient.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9476,
+                        56.1073
+                  ]
+            },
+            {
+                  "name": "Dovydiškio dvaro sodybos fragmentai",
+                  "text": "Die verbliebenen Gebäude des historischen Gutshofs Dovydiškis.",
+                  "category": "historical",
+                  "coords": [
+                        24.012573,
+                        56.097735
+                  ]
+            },
+            {
+                  "name": "Linkuvos kapinių koplyčia",
+                  "text": "Eine Friedhofskapelle, die einen Ort der Besinnung in Linkuva bietet.",
+                  "category": "religious",
+                  "coords": [
+                        23.963836,
+                        56.089125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tričių piliakalnis",
+                  "text": "Egy ősi várhely a Linkuva-dombságon.",
+                  "category": "historical",
+                  "coords": [
+                        24.023222,
+                        56.107944
+                  ]
+            },
+            {
+                  "name": "Linkuvos karmelitų vienuolynas",
+                  "text": "Egy történelmi karmelita kolostor Linkuva régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        23.975173,
+                        56.084387
+                  ]
+            },
+            {
+                  "name": "Piemenėlių ąžuolas",
+                  "text": "Egy nevezetes öreg tölgyfa, amely helyi nevezetesség a Linkuva-dombságon.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9476,
+                        56.1073
+                  ]
+            },
+            {
+                  "name": "Dovydiškio dvaro sodybos fragmentai",
+                  "text": "A történelmi Dovydiškis udvarház fennmaradt részei.",
+                  "category": "historical",
+                  "coords": [
+                        24.012573,
+                        56.097735
+                  ]
+            },
+            {
+                  "name": "Linkuvos kapinių koplyčia",
+                  "text": "Temetőkápolna Linkuvában, amely a megemlékezés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        23.963836,
+                        56.089125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tričių piliakalnis",
+                  "text": "Un sit antic de fortificație situat pe culmea Linkuva.",
+                  "category": "historical",
+                  "coords": [
+                        24.023222,
+                        56.107944
+                  ]
+            },
+            {
+                  "name": "Linkuvos karmelitų vienuolynas",
+                  "text": "O mănăstire carmelită istorică situată în regiunea Linkuva.",
+                  "category": "religious",
+                  "coords": [
+                        23.975173,
+                        56.084387
+                  ]
+            },
+            {
+                  "name": "Piemenėlių ąžuolas",
+                  "text": "Un stejar vechi remarcabil care servește drept punct de reper local pe culmea Linkuva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9476,
+                        56.1073
+                  ]
+            },
+            {
+                  "name": "Dovydiškio dvaro sodybos fragmentai",
+                  "text": "Fragmentele rămase ale conacului istoric Dovydiškis.",
+                  "category": "historical",
+                  "coords": [
+                        24.012573,
+                        56.097735
+                  ]
+            },
+            {
+                  "name": "Linkuvos kapinių koplyčia",
+                  "text": "O capelă de cimitir care oferă un loc de reculegere în Linkuva.",
+                  "category": "religious",
+                  "coords": [
+                        23.963836,
+                        56.089125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tričių piliakalnis",
+                  "text": "An ancient hillfort site located on the Linkuva Hill Ridge.",
+                  "category": "historical",
+                  "coords": [
+                        24.023222,
+                        56.107944
+                  ]
+            },
+            {
+                  "name": "Linkuvos karmelitų vienuolynas",
+                  "text": "A historic Carmelite monastery situated in the Linkuva region.",
+                  "category": "religious",
+                  "coords": [
+                        23.975173,
+                        56.084387
+                  ]
+            },
+            {
+                  "name": "Piemenėlių ąžuolas",
+                  "text": "A notable old oak tree serving as a local landmark on the Linkuva Hill Ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9476,
+                        56.1073
+                  ]
+            },
+            {
+                  "name": "Dovydiškio dvaro sodybos fragmentai",
+                  "text": "The remaining structures of the historic Dovydiškis manor estate.",
+                  "category": "historical",
+                  "coords": [
+                        24.012573,
+                        56.097735
+                  ]
+            },
+            {
+                  "name": "Linkuvos kapinių koplyčia",
+                  "text": "A cemetery chapel providing a place for reflection in Linkuva.",
+                  "category": "religious",
+                  "coords": [
+                        23.963836,
+                        56.089125
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LT",
     name: { de: "Linkuva-Hügelrücken", hu: "Linkuva-dombhát", ro: "Creasta deluroasă Linkuva", en: "Linkuva Hill Ridge" },
@@ -1741,7 +4072,52 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-suduva-plain-relief-v2.webp",
   },
   {
-    id: "lithuania-dysna-lowland-relief-v2",
+    id: "lithuania-dysna-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lukošiškės Švč. Dievo Motinos Užtarėjos sentikių cerkvė",
+                  "text": "Eine traditionelle Holzkirche der Altgläubigen in Lukošiškės.",
+                  "category": "religious",
+                  "coords": [
+                        26.494812,
+                        55.33107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lukošiškės Švč. Dievo Motinos Užtarėjos sentikių cerkvė",
+                  "text": "Hagyományos óhitű fatemplom Lukošiškės településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.494812,
+                        55.33107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lukošiškės Švč. Dievo Motinos Užtarėjos sentikių cerkvė",
+                  "text": "O biserică tradițională din lemn a credincioșilor de rit vechi din Lukošiškės.",
+                  "category": "religious",
+                  "coords": [
+                        26.494812,
+                        55.33107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lukošiškės Švč. Dievo Motinos Užtarėjos sentikių cerkvė",
+                  "text": "A traditional Old Believers' wooden church in Lukošiškės.",
+                  "category": "religious",
+                  "coords": [
+                        26.494812,
+                        55.33107
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "LT",
     name: { de: "Dysna-Tiefland", hu: "Dysna-alföld", ro: "Câmpia Dysna", en: "Dysna Lowland" },

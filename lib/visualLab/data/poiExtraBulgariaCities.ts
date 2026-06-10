@@ -2294,6 +2294,42 @@ export const poiExtraBulgariaCities: POI[] = [
                         22.886341,
                         43.991596
                   ]
+            },
+            {
+                  "name": "Кръстата казарма",
+                  "text": "Ein Museum in einem markanten kreuzförmigen ehemaligen Kasernengebäude.",
+                  "category": "museum",
+                  "coords": [
+                        22.881645,
+                        43.99034
+                  ]
+            },
+            {
+                  "name": "Баба Вида",
+                  "text": "Eine beeindruckende mittelalterliche Festung am Ufer der Donau in Widin.",
+                  "category": "castle",
+                  "coords": [
+                        22.886365,
+                        43.992979
+                  ]
+            },
+            {
+                  "name": "Конака",
+                  "text": "Ein Geschichtsmuseum, das in einem ehemaligen osmanischen Verwaltungsgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.874678,
+                        43.988977
+                  ]
+            },
+            {
+                  "name": "Художествена галерия Никола Петров",
+                  "text": "Eine Kunstgalerie in Widin, die bedeutende Werke regionaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.878958,
+                        43.98551
+                  ]
             }
       ],
       "hu": [
@@ -2304,6 +2340,42 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         22.886341,
                         43.991596
+                  ]
+            },
+            {
+                  "name": "Кръстата казарма",
+                  "text": "Múzeum egy jellegzetes, kereszt alakú egykori laktanyaépületben.",
+                  "category": "museum",
+                  "coords": [
+                        22.881645,
+                        43.99034
+                  ]
+            },
+            {
+                  "name": "Баба Вида",
+                  "text": "Lenyűgöző középkori erőd a Duna partján, Vidinben.",
+                  "category": "castle",
+                  "coords": [
+                        22.886365,
+                        43.992979
+                  ]
+            },
+            {
+                  "name": "Конака",
+                  "text": "Történelmi múzeum, amely egy egykori oszmán közigazgatási épületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        22.874678,
+                        43.988977
+                  ]
+            },
+            {
+                  "name": "Художествена галерия Никола Петров",
+                  "text": "Művészeti galéria Vidinben, amely regionális művészek jelentős alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.878958,
+                        43.98551
                   ]
             }
       ],
@@ -2316,6 +2388,42 @@ export const poiExtraBulgariaCities: POI[] = [
                         22.886341,
                         43.991596
                   ]
+            },
+            {
+                  "name": "Baraca încrucișată",
+                  "text": "Un muzeu situat într-o fostă cazarmă distinctivă în formă de cruce.",
+                  "category": "museum",
+                  "coords": [
+                        22.881645,
+                        43.99034
+                  ]
+            },
+            {
+                  "name": "Baba Vida",
+                  "text": "O cetate medievală impresionantă pe malul Dunării, în Vidin.",
+                  "category": "castle",
+                  "coords": [
+                        22.886365,
+                        43.992979
+                  ]
+            },
+            {
+                  "name": "Конака",
+                  "text": "Un muzeu de istorie găzduit într-o fostă clădire administrativă otomană.",
+                  "category": "museum",
+                  "coords": [
+                        22.874678,
+                        43.988977
+                  ]
+            },
+            {
+                  "name": "Galeria de artă Nikola Petrov",
+                  "text": "O galerie de artă din Vidin care expune lucrări importante ale artiștilor regionali.",
+                  "category": "museum",
+                  "coords": [
+                        22.878958,
+                        43.98551
+                  ]
             }
       ],
       "en": [
@@ -2326,6 +2434,42 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         22.886341,
                         43.991596
+                  ]
+            },
+            {
+                  "name": "Cruciform barrack",
+                  "text": "A museum located in a distinctive cruciform-shaped former barrack building.",
+                  "category": "museum",
+                  "coords": [
+                        22.881645,
+                        43.99034
+                  ]
+            },
+            {
+                  "name": "Baba Vida",
+                  "text": "An impressive medieval fortress on the banks of the Danube in Vidin.",
+                  "category": "castle",
+                  "coords": [
+                        22.886365,
+                        43.992979
+                  ]
+            },
+            {
+                  "name": "Konaka",
+                  "text": "A history museum housed in a former Ottoman administrative building.",
+                  "category": "museum",
+                  "coords": [
+                        22.874678,
+                        43.988977
+                  ]
+            },
+            {
+                  "name": "Art gallery Nikola Petrov",
+                  "text": "An art gallery in Vidin displaying significant works by regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        22.878958,
+                        43.98551
                   ]
             }
       ]
@@ -4022,7 +4166,448 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-haskovo.webp"
   },
   {
-    id: "city-pazardzhik", "sights": {"de": [{"name": "Konstantin Velichkov", "text": "Константин Величков ist ein bekanntes Theater in der Stadt Pasardschik. Es fungiert als Schauspiel- und Puppentheater.", "category": "cultural", "coords": [24.331496, 42.191614]}, {"name": "Kashta-muzei \"Stanislav Dospevski\"", "text": "Das Museum House of Stanislav Dospevski ist ein Museum in der Stadt Pasardschik. Es ist dem Leben und Werk des bekannten bulgarischen Künstlers gewidmet.", "category": "museum", "coords": [24.325236, 42.186428]}, {"name": "Dinozavarski park", "text": "Динозавърски парк ist ein Themenpark in der Stadt Pasardschik.", "category": "family", "coords": [24.327035, 42.183055]}, {"name": "Kuklen tetar \"K. Velichkov\"", "text": "Куклен тетър \"К. Величков\" ist ein Theater in der Stadt Pasardschik.", "category": "cultural", "coords": [24.333909, 42.199878]}, {"name": "Kolonata", "text": "Колоната ist ein Denkmal in der Stadt Pasardschik.", "category": "historical", "coords": [24.333871, 42.192465]}, {"name": "Pametnik na Septemvriiskoto vastanie", "text": "Паметник на Септемврийското въстание ist ein Denkmal in der Stadt Pasardschik.", "category": "historical", "coords": [24.32127, 42.18589]}, {"name": "Pazardzhik", "text": "Pazardzhik ist ein Denkmal in der Stadt Pasardschik.", "category": "historical", "coords": [24.320045, 42.183146]}, {"name": "Sveti ravnoapostolni tsare Konstantin i Elena", "text": "Свети равноапостолни царе Константин и Елена ist ein Denkmal in der Stadt Pasardschik.", "category": "historical", "coords": [24.320987, 42.183983]}, {"name": "Chasovnikova kula", "text": "Der Clocktower ist ein bekannter Turm in der Stadt Pasardschik. Er dient als historisches Wahrzeichen der Zeitmessung für die Region.", "category": "tower", "coords": [24.33494, 42.193836]}, {"name": "Kurshumlu Mosque", "text": "Die Kurshumlu Mosque ist eine Kultstätte in der Stadt Pasardschik. Sie ist als historische Moschee aus der osmanischen Zeit bekannt.", "category": "religious", "coords": [24.337573, 42.193275]}], "hu": [{"name": "Konstantin Velichkov", "text": "A Константин Величков egy színház Pasardschik városában. Dráma- és bábszínházként működik.", "category": "cultural", "coords": [24.331496, 42.191614]}, {"name": "Kashta-muzei \"Stanislav Dospevski\"", "text": "A Museum House of Stanislav Dospevski egy múzeum Pasardschik városában. A híres bolgár művész életének és munkásságának állít emléket.", "category": "museum", "coords": [24.325236, 42.186428]}, {"name": "Dinozavarski park", "text": "A Динозавърски парк egy vidámpark Pasardschik városában.", "category": "family", "coords": [24.327035, 42.183055]}, {"name": "Kuklen tetar \"K. Velichkov\"", "text": "A Куклен тетър \"К. Величков\" egy színház Pasardschik városában.", "category": "cultural", "coords": [24.333909, 42.199878]}, {"name": "Kolonata", "text": "A Колоната egy emlékmű Pasardschik városában.", "category": "historical", "coords": [24.333871, 42.192465]}, {"name": "Pametnik na Septemvriiskoto vastanie", "text": "A Паметник на Септемврийското въстание egy emlékmű Pasardschik városában.", "category": "historical", "coords": [24.32127, 42.18589]}, {"name": "Pazardzhik", "text": "A Pazardzhik egy emlékmű Pasardschik városában.", "category": "historical", "coords": [24.320045, 42.183146]}, {"name": "Sveti ravnoapostolni tsare Konstantin i Elena", "text": "A Свети равноапостолни царе Константин и Елена egy emlékmű Pasardschik városában.", "category": "historical", "coords": [24.320987, 42.183983]}, {"name": "Chasovnikova kula", "text": "A Clocktower egy nevezetes torony Pasardschik városában. A környék történelmi időmérő nevezetességeként szolgál.", "category": "tower", "coords": [24.33494, 42.193836]}, {"name": "Kurshumlu Mosque", "text": "A Kurshumlu Mosque egy istentiszteleti hely Pasardschik városában. Történelmi, oszmán kori mecsetként ismert.", "category": "religious", "coords": [24.337573, 42.193275]}], "ro": [{"name": "Konstantin Velichkov", "text": "Константин Величков este un teatru situat în orașul Pasardschik. Acesta funcționează ca teatru dramatic și de păpuși.", "category": "cultural", "coords": [24.331496, 42.191614]}, {"name": "Kashta-muzei \"Stanislav Dospevski\"", "text": "Museum House of Stanislav Dospevski este un muzeu situat în orașul Pasardschik. Este dedicat vieții și operei celebrului artist bulgar.", "category": "museum", "coords": [24.325236, 42.186428]}, {"name": "Dinozavarski park", "text": "Динозавърски парк este un parc tematic situat în orașul Pasardschik.", "category": "family", "coords": [24.327035, 42.183055]}, {"name": "Kuklen tetar \"K. Velichkov\"", "text": "Куклен тетър \"К. Величков\" este un teatru situat în orașul Pasardschik.", "category": "cultural", "coords": [24.333909, 42.199878]}, {"name": "Kolonata", "text": "Колоната este un monument situat în orașul Pasardschik.", "category": "historical", "coords": [24.333871, 42.192465]}, {"name": "Pametnik na Septemvriiskoto vastanie", "text": "Паметник на Септемврийското въстание este un monument situat în orașul Pasardschik.", "category": "historical", "coords": [24.32127, 42.18589]}, {"name": "Pazardzhik", "text": "Pazardzhik este un monument situat în orașul Pasardschik.", "category": "historical", "coords": [24.320045, 42.183146]}, {"name": "Sveti ravnoapostolni tsare Konstantin i Elena", "text": "Свети равноапостолни царе Константин и Елена este un monument situat în orașul Pasardschik.", "category": "historical", "coords": [24.320987, 42.183983]}, {"name": "Chasovnikova kula", "text": "Clocktower este un turn notabil situat în orașul Pasardschik. Acesta servește ca un punct de reper istoric pentru zonă.", "category": "tower", "coords": [24.33494, 42.193836]}, {"name": "Kurshumlu Mosque", "text": "Kurshumlu Mosque este un lăcaș de cult situat în orașul Pasardschik. Este recunoscută ca o moschee istorică din epoca otomană.", "category": "religious", "coords": [24.337573, 42.193275]}], "en": [{"name": "Konstantin Velichkov", "text": "Константин Величков is a prominent theatre located in the city of Pasardschik. It functions as a drama and puppet theatre.", "category": "cultural", "coords": [24.331496, 42.191614]}, {"name": "Museum House of Stanislav Dospevski", "text": "The Museum House of Stanislav Dospevski is a museum located in Pasardschik. It is dedicated to the life and work of the notable Bulgarian artist.", "category": "museum", "coords": [24.325236, 42.186428]}, {"name": "Dinozavarski park", "text": "Динозавърски парк is a theme park located in the city of Pasardschik.", "category": "family", "coords": [24.327035, 42.183055]}, {"name": "Kuklen tetar \"K. Velichkov\"", "text": "Куклен тетър \"К. Величков\" is a theatre located in the city of Pasardschik.", "category": "cultural", "coords": [24.333909, 42.199878]}, {"name": "Kolonata", "text": "Колоната is a monument located in the city of Pasardschik.", "category": "historical", "coords": [24.333871, 42.192465]}, {"name": "Pametnik na Septemvriiskoto vastanie", "text": "Паметник на Септемврийското въстание is a monument located in the city of Pasardschik.", "category": "historical", "coords": [24.32127, 42.18589]}, {"name": "Pazardzhik", "text": "Pazardzhik is a monument located in the city of Pasardschik.", "category": "historical", "coords": [24.320045, 42.183146]}, {"name": "Sveti ravnoapostolni tsare Konstantin i Elena", "text": "Свети равноапостолни царе Константин и Елена is a monument located in the city of Pasardschik.", "category": "historical", "coords": [24.320987, 42.183983]}, {"name": "Clocktower", "text": "The Clocktower is a notable tower located in the city of Pasardschik. It serves as a historic timekeeping landmark for the area.", "category": "tower", "coords": [24.33494, 42.193836]}, {"name": "Kurshumlu Mosque", "text": "Kurshumlu Mosque is a place of worship located in the city of Pasardschik. It is recognized as a historic Ottoman-era mosque.", "category": "religious", "coords": [24.337573, 42.193275]}]},
+    id: "city-pazardzhik", "sights": {
+      "de": [
+            {
+                  "name": "Konstantin Velichkov",
+                  "text": "Константин Величков ist ein bekanntes Theater in der Stadt Pasardschik. Es fungiert als Schauspiel- und Puppentheater.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331496,
+                        42.191614
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Stanislav Dospevski\"",
+                  "text": "Das Museum House of Stanislav Dospevski ist ein Museum in der Stadt Pasardschik. Es ist dem Leben und Werk des bekannten bulgarischen Künstlers gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.325236,
+                        42.186428
+                  ]
+            },
+            {
+                  "name": "Dinozavarski park",
+                  "text": "Динозавърски парк ist ein Themenpark in der Stadt Pasardschik.",
+                  "category": "family",
+                  "coords": [
+                        24.327035,
+                        42.183055
+                  ]
+            },
+            {
+                  "name": "Kuklen tetar \"K. Velichkov\"",
+                  "text": "Куклен тетър \"К. Величков\" ist ein Theater in der Stadt Pasardschik.",
+                  "category": "cultural",
+                  "coords": [
+                        24.333909,
+                        42.199878
+                  ]
+            },
+            {
+                  "name": "Kolonata",
+                  "text": "Колоната ist ein Denkmal in der Stadt Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.333871,
+                        42.192465
+                  ]
+            },
+            {
+                  "name": "Pametnik na Septemvriiskoto vastanie",
+                  "text": "Паметник на Септемврийското въстание ist ein Denkmal in der Stadt Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.32127,
+                        42.18589
+                  ]
+            },
+            {
+                  "name": "Pazardzhik",
+                  "text": "Pazardzhik ist ein Denkmal in der Stadt Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320045,
+                        42.183146
+                  ]
+            },
+            {
+                  "name": "Sveti ravnoapostolni tsare Konstantin i Elena",
+                  "text": "Свети равноапостолни царе Константин и Елена ist ein Denkmal in der Stadt Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320987,
+                        42.183983
+                  ]
+            },
+            {
+                  "name": "Chasovnikova kula",
+                  "text": "Der Clocktower ist ein bekannter Turm in der Stadt Pasardschik. Er dient als historisches Wahrzeichen der Zeitmessung für die Region.",
+                  "category": "tower",
+                  "coords": [
+                        24.33494,
+                        42.193836
+                  ]
+            },
+            {
+                  "name": "Kurshumlu Mosque",
+                  "text": "Die Kurshumlu Mosque ist eine Kultstätte in der Stadt Pasardschik. Sie ist als historische Moschee aus der osmanischen Zeit bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        24.337573,
+                        42.193275
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum",
+                  "text": "Historisches Museum mit Exponaten von der Vorgeschichte bis zur Moderne in Pasardschik.",
+                  "category": "museum",
+                  "coords": [
+                        24.332722,
+                        42.190682
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Lokaler Tiergarten auf der Mariza-Insel in Pasardschik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.329516,
+                        42.181304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Konstantin Velichkov",
+                  "text": "A Константин Величков egy színház Pasardschik városában. Dráma- és bábszínházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331496,
+                        42.191614
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Stanislav Dospevski\"",
+                  "text": "A Museum House of Stanislav Dospevski egy múzeum Pasardschik városában. A híres bolgár művész életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        24.325236,
+                        42.186428
+                  ]
+            },
+            {
+                  "name": "Dinozavarski park",
+                  "text": "A Динозавърски парк egy vidámpark Pasardschik városában.",
+                  "category": "family",
+                  "coords": [
+                        24.327035,
+                        42.183055
+                  ]
+            },
+            {
+                  "name": "Kuklen tetar \"K. Velichkov\"",
+                  "text": "A Куклен тетър \"К. Величков\" egy színház Pasardschik városában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.333909,
+                        42.199878
+                  ]
+            },
+            {
+                  "name": "Kolonata",
+                  "text": "A Колоната egy emlékmű Pasardschik városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.333871,
+                        42.192465
+                  ]
+            },
+            {
+                  "name": "Pametnik na Septemvriiskoto vastanie",
+                  "text": "A Паметник на Септемврийското въстание egy emlékmű Pasardschik városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.32127,
+                        42.18589
+                  ]
+            },
+            {
+                  "name": "Pazardzhik",
+                  "text": "A Pazardzhik egy emlékmű Pasardschik városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.320045,
+                        42.183146
+                  ]
+            },
+            {
+                  "name": "Sveti ravnoapostolni tsare Konstantin i Elena",
+                  "text": "A Свети равноапостолни царе Константин и Елена egy emlékmű Pasardschik városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.320987,
+                        42.183983
+                  ]
+            },
+            {
+                  "name": "Chasovnikova kula",
+                  "text": "A Clocktower egy nevezetes torony Pasardschik városában. A környék történelmi időmérő nevezetességeként szolgál.",
+                  "category": "tower",
+                  "coords": [
+                        24.33494,
+                        42.193836
+                  ]
+            },
+            {
+                  "name": "Kurshumlu Mosque",
+                  "text": "A Kurshumlu Mosque egy istentiszteleti hely Pasardschik városában. Történelmi, oszmán kori mecsetként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.337573,
+                        42.193275
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum",
+                  "text": "Paszardzsik történelmi múzeuma az őskortól a modern korig terjedő gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        24.332722,
+                        42.190682
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Paszardzsik állatkertje a városi szigeti parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.329516,
+                        42.181304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Konstantin Velichkov",
+                  "text": "Константин Величков este un teatru situat în orașul Pasardschik. Acesta funcționează ca teatru dramatic și de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331496,
+                        42.191614
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Stanislav Dospevski\"",
+                  "text": "Museum House of Stanislav Dospevski este un muzeu situat în orașul Pasardschik. Este dedicat vieții și operei celebrului artist bulgar.",
+                  "category": "museum",
+                  "coords": [
+                        24.325236,
+                        42.186428
+                  ]
+            },
+            {
+                  "name": "Dinozavarski park",
+                  "text": "Динозавърски парк este un parc tematic situat în orașul Pasardschik.",
+                  "category": "family",
+                  "coords": [
+                        24.327035,
+                        42.183055
+                  ]
+            },
+            {
+                  "name": "Kuklen tetar \"K. Velichkov\"",
+                  "text": "Куклен тетър \"К. Величков\" este un teatru situat în orașul Pasardschik.",
+                  "category": "cultural",
+                  "coords": [
+                        24.333909,
+                        42.199878
+                  ]
+            },
+            {
+                  "name": "Kolonata",
+                  "text": "Колоната este un monument situat în orașul Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.333871,
+                        42.192465
+                  ]
+            },
+            {
+                  "name": "Pametnik na Septemvriiskoto vastanie",
+                  "text": "Паметник на Септемврийското въстание este un monument situat în orașul Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.32127,
+                        42.18589
+                  ]
+            },
+            {
+                  "name": "Pazardzhik",
+                  "text": "Pazardzhik este un monument situat în orașul Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320045,
+                        42.183146
+                  ]
+            },
+            {
+                  "name": "Sveti ravnoapostolni tsare Konstantin i Elena",
+                  "text": "Свети равноапостолни царе Константин и Елена este un monument situat în orașul Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320987,
+                        42.183983
+                  ]
+            },
+            {
+                  "name": "Chasovnikova kula",
+                  "text": "Clocktower este un turn notabil situat în orașul Pasardschik. Acesta servește ca un punct de reper istoric pentru zonă.",
+                  "category": "tower",
+                  "coords": [
+                        24.33494,
+                        42.193836
+                  ]
+            },
+            {
+                  "name": "Kurshumlu Mosque",
+                  "text": "Kurshumlu Mosque este un lăcaș de cult situat în orașul Pasardschik. Este recunoscută ca o moschee istorică din epoca otomană.",
+                  "category": "religious",
+                  "coords": [
+                        24.337573,
+                        42.193275
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum",
+                  "text": "Muzeu care expune artefacte din preistoria până în perioada modernă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        24.332722,
+                        42.190682
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Grădină zoologică locală situată în parcul de pe insulă din Pazardzhik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.329516,
+                        42.181304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Konstantin Velichkov",
+                  "text": "Константин Величков is a prominent theatre located in the city of Pasardschik. It functions as a drama and puppet theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331496,
+                        42.191614
+                  ]
+            },
+            {
+                  "name": "Museum House of Stanislav Dospevski",
+                  "text": "The Museum House of Stanislav Dospevski is a museum located in Pasardschik. It is dedicated to the life and work of the notable Bulgarian artist.",
+                  "category": "museum",
+                  "coords": [
+                        24.325236,
+                        42.186428
+                  ]
+            },
+            {
+                  "name": "Dinozavarski park",
+                  "text": "Динозавърски парк is a theme park located in the city of Pasardschik.",
+                  "category": "family",
+                  "coords": [
+                        24.327035,
+                        42.183055
+                  ]
+            },
+            {
+                  "name": "Kuklen tetar \"K. Velichkov\"",
+                  "text": "Куклен тетър \"К. Величков\" is a theatre located in the city of Pasardschik.",
+                  "category": "cultural",
+                  "coords": [
+                        24.333909,
+                        42.199878
+                  ]
+            },
+            {
+                  "name": "Kolonata",
+                  "text": "Колоната is a monument located in the city of Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.333871,
+                        42.192465
+                  ]
+            },
+            {
+                  "name": "Pametnik na Septemvriiskoto vastanie",
+                  "text": "Паметник на Септемврийското въстание is a monument located in the city of Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.32127,
+                        42.18589
+                  ]
+            },
+            {
+                  "name": "Pazardzhik",
+                  "text": "Pazardzhik is a monument located in the city of Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320045,
+                        42.183146
+                  ]
+            },
+            {
+                  "name": "Sveti ravnoapostolni tsare Konstantin i Elena",
+                  "text": "Свети равноапостолни царе Константин и Елена is a monument located in the city of Pasardschik.",
+                  "category": "historical",
+                  "coords": [
+                        24.320987,
+                        42.183983
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "The Clocktower is a notable tower located in the city of Pasardschik. It serves as a historic timekeeping landmark for the area.",
+                  "category": "tower",
+                  "coords": [
+                        24.33494,
+                        42.193836
+                  ]
+            },
+            {
+                  "name": "Kurshumlu Mosque",
+                  "text": "Kurshumlu Mosque is a place of worship located in the city of Pasardschik. It is recognized as a historic Ottoman-era mosque.",
+                  "category": "religious",
+                  "coords": [
+                        24.337573,
+                        42.193275
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum",
+                  "text": "Museum displaying artifacts from the region's prehistoric to modern history.",
+                  "category": "museum",
+                  "coords": [
+                        24.332722,
+                        42.190682
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Local city zoo situated in the Island Park of Pazardzhik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.329516,
+                        42.181304
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [24.3336, 42.1928],

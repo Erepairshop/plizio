@@ -46,7 +46,160 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le zoo de Limassol est situé à Chypre et est facilement accessible en voiture.", "L'installation présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'affichage expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-limassol-zoo-extra.webp"},
   {
-    id: "animal-habitat-pafos-zoo-extra",
+    id: "animal-habitat-pafos-zoo-extra", "sights": {
+      "de": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Ein thematisches Museum, das sich mit der lokalen Geschichte und Mythologie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Wine Museum in Kathikas",
+                  "text": "Dieses Museum in Kathikas präsentiert die traditionelle Weinherstellung der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.435952,
+                        34.917361
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "Das Museum stellt traditionelle Handwerkskunst und Volkskunst aus der Gegend von Paphos aus.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein Freilichttheater, das für kulturelle Vorführungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Tematikus múzeum, amely a helyi történelemmel és mitológiával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Wine Museum in Kathikas",
+                  "text": "Ez a Kathikaszban található múzeum a régió hagyományos borászatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.435952,
+                        34.917361
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "A múzeum Paphos környékének hagyományos mesterségeit és népművészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Kulturális előadásokra és eseményekre használt szabadtéri színház.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Un muzeu tematic care se ocupă de istoria și mitologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Wine Museum in Kathikas",
+                  "text": "Acest muzeu din Kathikas prezintă tradiția viticolă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.435952,
+                        34.917361
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "Muzeul expune meșteșuguri tradiționale și artă populară din zona Paphos.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un teatru în aer liber utilizat pentru spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Adonis",
+                  "text": "A thematic museum dealing with local history and mythology.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Wine Museum in Kathikas",
+                  "text": "This museum in Kathikas showcases the traditional winemaking of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.435952,
+                        34.917361
+                  ]
+            },
+            {
+                  "name": "Folks Art Museum",
+                  "text": "The museum exhibits traditional crafts and folk art from the Paphos area.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "An open-air theatre used for cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.44, 34.89],
@@ -84,7 +237,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le zoo de Paphos est situé à Chypre et est facilement accessible en voiture.", "L'installation présente des espèces animales indigènes, introduites et exotiques.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'affichage expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-pafos-zoo-extra.webp"},
   {
-    id: "animal-habitat-camel-park-mazotos-extra",
+    id: "animal-habitat-camel-park-mazotos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Ein Museum, das die Werke des zyprischen Volkskünstlers Costas Argyrou ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Ein familienfreundlicher Tierpark und Zoo in der Nähe von Mazotos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Múzeum, amely Costas Argyrou ciprusi népművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Családbarát állatpark és állatkert Mazotos közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Un muzeu care expune lucrările artistului popular cipriot Costas Argyrou.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Un parc de animale și grădină zoologică pentru familii, situat lângă Mazotos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Costas Argyrou Museum",
+                  "text": "A museum showcasing the works of Cypriot folk artist Costas Argyrou.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "A family-friendly animal park and zoo located near Mazotos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [33.485, 34.815],
@@ -170,7 +404,88 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "animal-habitat-cyprus-donkey-sanctuary-extra",
+    id: "animal-habitat-cyprus-donkey-sanctuary-extra", "sights": {
+      "de": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "Ein Museum und Restaurant, das sich der traditionellen Olivenölproduktion widmet.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Anogyra.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "A hagyományos olívaolaj-termelésnek szentelt múzeum és étterem.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Régészeti lelőhely Anogyra közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "Un muzeu și restaurant dedicat producției tradiționale de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Un sit arheologic situat în apropiere de Anogyra.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "A museum and restaurant dedicated to traditional olive oil production.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "An archaeological site located near Anogyra.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.74, 34.78],
@@ -380,7 +695,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Petrides Farm Park est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux explicatifs présentent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-petrides-farm-park-extra.webp"},
   {
-    id: "animal-habitat-melios-pet-park-extra",
+    id: "animal-habitat-melios-pet-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Perátis",
+                  "text": "Ein Gipfel in der Nähe des Melios Pet Parks auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Ein Bio-Bauernhof und Ausflugsziel mit Schwerpunkt auf nachhaltiger Landwirtschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Perátis",
+                  "text": "Hegycsúcs a ciprusi Melios Pet Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Biofarm és kirándulóhely, amely a fenntartható mezőgazdaságra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Perátis",
+                  "text": "Un vârf muntos situat în apropierea parcului Melios Pet Park din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "O fermă bio și destinație turistică axată pe agricultura sustenabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Perátis",
+                  "text": "A mountain peak located near Melios Pet Park in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "An organic farm and attraction focused on sustainable agriculture.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [33.2, 35.0],
@@ -456,7 +852,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Riverland Bio Farm est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux explicatifs présentent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-riverland-bio-farm-extra.webp"},
   {
-    id: "animal-habitat-sayious-adventure-park-animals-extra",
+    id: "animal-habitat-sayious-adventure-park-animals-extra", "sights": {
+      "de": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Eine historische Steinbrücke aus der venezianischen Zeit in der Nähe des Dorfes Akapnou.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Történelmi kőhíd a velencei korszakból, Akapnou falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Un pod istoric din piatră din perioada venețiană, situat lângă satul Akapnou.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "A historical stone bridge from the Venetian period located near Akapnou village.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [33.15, 34.85],
@@ -542,7 +983,268 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "animal-habitat-white-river-beach-turtles-extra",
+    id: "animal-habitat-white-river-beach-turtles-extra", "sights": {
+      "de": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "Ein Zoo in der Nähe der Küste, der eine Vielfalt an Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Ein Strandabschnitt, der als wichtiger Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Eine antike archäologische Stätte mit Grabanlagen im Meletis-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Ein malerischer Strand in der Nähe der Brutgebiete von Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Reste antiker frühchristlicher Basiliken an der Küste.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Ein Museum, das traditionelle Kleidung und regionales Kulturerbe ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "Ein Bereich des Zoos, der spezielle Begegnungen mit asiatischen Elefanten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "A tengerparthoz közeli állatkert, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Tengerparti szakasz, amely a tengeri teknősök fontos fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Ókori régészeti lelőhely temetkezési helyekkel a Meletis-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Festői tengerpart a tengeri teknősök szaporodási helyeinek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Ókori kora keresztény bazilikák maradványai a tengerparton.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "A hagyományos ruházatot és a regionális kulturális örökséget bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "Az állatkert területe, amely különleges találkozásokat kínál ázsiai elefántokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "O grădină zoologică lângă coastă, care găzduiește o varietate de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "O secțiune de plajă cunoscută ca un loc important de cuibărit pentru broaștele țestoase marine.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Un sit arheologic antic cu morminte în pădurea Meletis.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "O plajă pitorească situată în apropierea zonelor de reproducere a țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Rămășițele unor bazilici creștine timpurii pe coastă.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Un muzeu care expune îmbrăcăminte tradițională și patrimoniul cultural regional.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "O zonă a grădinii zoologice care oferă întâlniri speciale cu elefanți asiatici.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "A zoo near the coast that houses a variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "White River Beach",
+                  "text": "A beach section known as an important nesting site for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "An ancient archaeological site featuring burial grounds in the Meletis Forest.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "A scenic beach located near the sea turtle breeding grounds.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Remains of ancient early Christian basilicas on the coast.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "A museum exhibiting traditional clothing and regional cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "An area of the zoo offering special encounters with Asian elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.36, 34.9],
@@ -580,7 +1282,268 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le lieu de nidification des tortues à White River Beach est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux explicatifs présentent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-white-river-beach-turtles-extra.webp"},
   {
-    id: "animal-habitat-latsi-sea-turtles-extra", "sights": {"de": [{"name": "Latsi", "text": "Latsi ist ein Strand in der Nähe von Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}], "hu": [{"name": "Latsi", "text": "Latsi egy strand Latsi közelében.", "category": "recreational", "coords": [32.410502, 35.042019]}], "ro": [{"name": "Latsi", "text": "Latsi este o plajă lângă Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}], "en": [{"name": "Latsi", "text": "Latsi is a beach near Latsi.", "category": "recreational", "coords": [32.410502, 35.042019]}]},
+    id: "animal-habitat-latsi-sea-turtles-extra", "sights": {
+      "de": [
+            {
+                  "name": "Latsi",
+                  "text": "Latsi ist ein Strand in der Nähe von Latsi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.410502,
+                        35.042019
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Ein Museum in Polis, das archäologische Funde der antiken Städte Marion und Arsinoe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Überreste der antiken zyprischen Stadt Marion nahe Polis.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Archäologische Stätte eines antiken Heiligtums im Bereich von Marion.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "Ein ruhiger Strandabschnitt in der Nähe des Hafens von Latchi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Anbieter für verschiedene Wassersportaktivitäten in der Bucht von Chrysochous.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "Ein altes Schiff, das als Denkmal am Hafen von Latchi aufgestellt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Latsi",
+                  "text": "Latsi egy strand Latsi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.410502,
+                        35.042019
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Múzeum Poliszban, amely Marion és Arszinoé ókori városainak leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Az ókori ciprusi város, Marion romjai Polisz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Egy ókori szentély régészeti lelőhelye Marion területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "Csendes tengerparti szakasz Latchi kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Különböző vízi sportokat kínáló központ a Chrysochous-öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "Egy régi hajó, amelyet emlékműként állítottak fel Latchi kikötőjében.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Latsi",
+                  "text": "Latsi este o plajă lângă Latsi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.410502,
+                        35.042019
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Un muzeu în Polis care expune descoperiri arheologice din orașele antice Marion și Arsinoe.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Vestigiile orașului antic cipriot Marion, situat lângă Polis.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Situl arheologic al unui sanctuar antic în zona Marion.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "O porțiune de plajă liniștită lângă portul Latchi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Furnizor de diverse activități nautice în golful Chrysochous.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "O navă veche expusă ca monument în portul Latchi.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latsi",
+                  "text": "Latsi is a beach near Latsi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.410502,
+                        35.042019
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Marion-Arsinoe",
+                  "text": "A museum in Polis displaying archaeological finds from the ancient cities of Marion and Arsinoe.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Remains of the ancient Cypriot city of Marion near Polis.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Archaeological site of an ancient sanctuary in the Marion area.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "A quiet stretch of beach located near the Latchi harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Provider for various water sports activities in Chrysochous Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "An old ship placed as a monument at the Latchi harbor.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.4, 35.04],
@@ -758,6 +1721,33 @@ export const cyprusOtherPoi: POI[] = [
                         34.368887,
                         35.626873
                   ]
+            },
+            {
+                  "name": "Ayios Philon Roman harbor",
+                  "text": "Antike Ruinen eines Hafens aus der Römerzeit im Karpas-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        34.397938,
+                        35.634728
+                  ]
+            },
+            {
+                  "name": "Dipkarpaz Zeytinyaği Müzesi",
+                  "text": "Ein Museum, das der Geschichte und der traditionellen Herstellung von Olivenöl gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.381321,
+                        35.606615
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Archäologische Überreste einer antiken Siedlung in der Region Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
             }
       ],
       "hu": [
@@ -777,6 +1767,33 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         34.368887,
                         35.626873
+                  ]
+            },
+            {
+                  "name": "Ayios Philon Roman harbor",
+                  "text": "Római kori kikötő ókori romjai a Karpasz Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        34.397938,
+                        35.634728
+                  ]
+            },
+            {
+                  "name": "Dipkarpaz Zeytinyaği Müzesi",
+                  "text": "Az olívaolaj történetének és hagyományos előállításának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        34.381321,
+                        35.606615
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Egy ókori település régészeti maradványai a Karpasz-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
                   ]
             }
       ],
@@ -798,6 +1815,33 @@ export const cyprusOtherPoi: POI[] = [
                         34.368887,
                         35.626873
                   ]
+            },
+            {
+                  "name": "Ayios Philon Roman harbor",
+                  "text": "Ruinele antice ale unui port din epoca romană, situate în Parcul Național Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.397938,
+                        35.634728
+                  ]
+            },
+            {
+                  "name": "Dipkarpaz Zeytinyaği Müzesi",
+                  "text": "Un muzeu dedicat istoriei și producției tradiționale de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        34.381321,
+                        35.606615
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Rămășițe arheologice ale unei așezări antice din regiunea Karpas.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
+                  ]
             }
       ],
       "en": [
@@ -817,6 +1861,33 @@ export const cyprusOtherPoi: POI[] = [
                   "coords": [
                         34.368887,
                         35.626873
+                  ]
+            },
+            {
+                  "name": "Ayios Philon Roman harbor",
+                  "text": "Ancient ruins of a Roman-era harbor located in the Karpas National Park.",
+                  "category": "historical",
+                  "coords": [
+                        34.397938,
+                        35.634728
+                  ]
+            },
+            {
+                  "name": "Dipkarpaz Zeytinyaği Müzesi",
+                  "text": "A museum dedicated to the history and traditional production of olive oil.",
+                  "category": "museum",
+                  "coords": [
+                        34.381321,
+                        35.606615
+                  ]
+            },
+            {
+                  "name": "Asprokolymbos",
+                  "text": "Archaeological remains of an ancient settlement in the Karpas region.",
+                  "category": "historical",
+                  "coords": [
+                        34.358146,
+                        35.605063
                   ]
             }
       ]
@@ -896,7 +1967,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le centre se situe à Chypre et est facilement accessible en voiture.", "L'installation présente des espèces indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles étrangères.", "Des panneaux expliquent les programmes de protection et d'élevage.", "Des zones ombragées et des points d'eau assurent le confort en été.", "Des aires de jeux et de pique-nique sont intégrées au site.", "Ouvert toute l'année avec une politique d'entrée équitable."],
     }, image: "/poi-images/animal-habitat-akrotiri-environmental-centre-extra.webp"},
   {
-    id: "animal-habitat-asprokremmos-dam-birds-extra",
+    id: "animal-habitat-asprokremmos-dam-birds-extra", "sights": {
+      "de": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Ein botanischer Themenpark in der Nähe des Asprokremmos-Damms mit vielfältiger Flora.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "Ein antikes Denkmal in Nikokleia, das die historische Wassermühlentechnik der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Botanikai élménypark az Asprokremmos-gát közelében, változatos növényvilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "Ősi műemlék Nikokleia faluban, amely a régió történelmi vízimalom-technológiáját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Un parc tematic botanic lângă barajul Asprokremmos, cu o floră diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "Un monument antic în Nikokleia, care prezintă tehnologia istorică a morilor de apă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "A botanical theme park near the Asprokremmos Dam featuring diverse flora.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "An ancient monument in Nikokleia showcasing the region's historical watermill technology.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.55, 34.75],
@@ -934,7 +2086,304 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le site d'Asprokremmos est facilement accessible en voiture.", "Le barrage accueille des espèces d'oiseaux locales et migratrices.", "La signalisation multilingue aide les visiteurs internationaux.", "Des panneaux expliquent les programmes de protection de la faune.", "Des zones ombragées assurent le confort pendant l'été.", "Des aires de pique-nique sont intégrées à l'installation.", "Ouvert toute l'année avec une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-asprokremmos-dam-birds-extra.webp"},
   {
-    id: "animal-habitat-troodos-environmental-info-centre-extra",
+    id: "animal-habitat-troodos-environmental-info-centre-extra", "sights": {
+      "de": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Ein großes geschütztes Waldgebiet im Troodos-Gebirge, das für seine reiche Flora und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympos",
+                  "text": "Mit 1.952 Metern ist der Olympus der höchste Gipfel Zyperns und befindet sich im Troodos-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Malerische Wasserfälle im Troodos-Gebirge, die über einen beliebten Wanderweg erreichbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Ein Aussichtspunkt im Troodos-Gebirge, der einen weiten Panoramablick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Panoramapunkt in der Troodos-Region, bekannt für seine beeindruckende Aussicht auf das Bergland.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Gedenkdenkmal im Troodos-Gebirge, das dem Andenken an Andreas Paraskevas gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Eine ehemalige Chromit-Mine in der Nähe des Troodos Environmental Information Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Ein Aussichtspunkt mit einem Fernrohr beim Troodos Environmental Information Centre.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "A Troodos-hegység nagy kiterjedésű védett erdőterülete, amely gazdag növényvilágáról és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Az 1952 méter magas Olümposz Ciprus legmagasabb hegycsúcsa, amely a Troodos-hegységben található.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Festői vízesések a Troodos-hegységben, amelyek egy népszerű túraútvonalon keresztül érhetők el.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kilátópont a Troodos-hegységben, ahonnan széles panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Panorámás kilátóhely a Troodos-régióban, amely lenyűgöző hegyvidéki kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Emlékmű a Troodos-hegységben, amelyet Andreas Paraskevas emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Egy korábbi kromitbánya a Troodosi Környezetvédelmi Információs Központ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Kilátó távcsővel a Troodosi Környezetvédelmi Információs Központnál.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "O zonă forestieră protejată vastă în Munții Troodos, cunoscută pentru flora sa bogată și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Cu o înălțime de 1.952 de metri, Olimp este cel mai înalt vârf din Cipru, situat în Munții Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Cascade pitorești în Munții Troodos, accesibile printr-un traseu de drumeție popular.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Un punct de observație în Munții Troodos, oferind o vedere panoramică vastă asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct panoramic în regiunea Troodos, cunoscut pentru vederile sale impresionante asupra munților.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument comemorativ în Munții Troodos, dedicat memoriei lui Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "O fostă mină de cromit situată în apropierea Centrului de Informare Turistică Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "Un punct de belvedere dotat cu telescop lângă Centrul de Informare Turistică Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos National Forest Park",
+                  "text": "A large protected forest area in the Troodos Mountains, known for its rich flora and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympus",
+                  "text": "At 1,952 metres, Olympus is the highest peak in Cyprus, located within the Troodos Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Scenic waterfalls in the Troodos Mountains, accessible via a popular hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "A viewpoint in the Troodos Mountains offering a wide panoramic view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A panoramic point in the Troodos region, known for its impressive views of the mountain terrain.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A memorial monument in the Troodos Mountains, dedicated to the memory of Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Chromite mine",
+                  "text": "A former chromite mine located near the Troodos Environmental Information Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Viewpoint with telescope",
+                  "text": "A scenic viewpoint equipped with a telescope near the Troodos Environmental Information Centre.",
+                  "category": "natural",
+                  "coords": [
+                        32.873455,
+                        34.93557
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.86, 34.92],
@@ -972,7 +2421,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Centre d'information environnementale du Troodos est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux explicatifs présentent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-troodos-environmental-info-centre-extra.webp"},
   {
-    id: "animal-habitat-cyprus-reptile-park-extra",
+    id: "animal-habitat-cyprus-reptile-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Ein Museum im Bereich des Reptilienparks bei Paphos.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "Ein Museum, das Volkskunst und kulturelle Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein Veranstaltungsort im Cyprus Reptile Park.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Múzeum a Páfosz közeli hüllőpark területén.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "Népművészeti és kulturális kiállításokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Előadóhely a Ciprusi Hüllőpark területén.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Adonis",
+                  "text": "Un muzeu situat în zona parcului de reptile de lângă Paphos.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "text": "Un muzeu care prezintă artă populară și exponate culturale.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un loc de spectacole situat în cadrul Parcului de Reptile din Cipru.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Adonis",
+                  "text": "A museum located within the reptile park area near Paphos.",
+                  "category": "museum",
+                  "coords": [
+                        32.435885,
+                        34.87141
+                  ]
+            },
+            {
+                  "name": "Folks Art Museum",
+                  "text": "A museum showcasing folk art and cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        32.42539,
+                        34.912282
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A performance venue located within the Cyprus Reptile Park.",
+                  "category": "cultural",
+                  "coords": [
+                        32.433844,
+                        34.870373
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.44, 34.88],
@@ -1012,7 +2578,52 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/animal-habitat-cyprus-reptile-park-extra.webp",
   },
   {
-    id: "animal-habitat-paramali-turtle-beach-extra",
+    id: "animal-habitat-paramali-turtle-beach-extra", "sights": {
+      "de": [
+            {
+                  "name": "Avdimou Bay",
+                  "text": "Ein ruhiger Küstenort mit einem Sandstrand in Zypern.",
+                  "category": "recreational",
+                  "coords": [
+                        32.767291,
+                        34.657462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Avdimou Bay",
+                  "text": "Csendes tengerparti üdülőhely homokos stranddal Cipruson.",
+                  "category": "recreational",
+                  "coords": [
+                        32.767291,
+                        34.657462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Avdimou Bay",
+                  "text": "O stațiune de coastă liniștită, cu o plajă de nisip în Cipru.",
+                  "category": "recreational",
+                  "coords": [
+                        32.767291,
+                        34.657462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avdimou Bay",
+                  "text": "A quiet coastal resort with a sandy beach in Cyprus.",
+                  "category": "recreational",
+                  "coords": [
+                        32.767291,
+                        34.657462
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.8, 34.66],
@@ -1126,7 +2737,268 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Centre environnemental du Cap Greco est situé à Chypre et est facilement accessible en voiture.", "Le site présente des espèces animales indigènes et introduites.", "Une signalisation multilingue facilite la visite des familles locales et étrangères.", "Des panneaux d'information expliquent les programmes de protection, d'élevage et de réintroduction.", "Des zones couvertes et des points d'eau potable assurent le confort même en été.", "Des zones de jeux pour enfants et des aires de pique-nique sont intégrées au site.", "Ouvert toute l'année, avec une politique d'entrée équitable et une infrastructure bien organisée."],
     }, image: "/poi-images/animal-habitat-cape-greco-environmental-centre-extra.webp"},
   {
-    id: "animal-habitat-episkopi-bay-griffon-vultures-extra",
+    id: "animal-habitat-episkopi-bay-griffon-vultures-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "Ein Strand an der Episkopi-Bucht, der für seine Aussicht und das klare Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            },
+            {
+                  "name": "Kourion Stadium",
+                  "text": "Die Überreste eines antiken Stadions in der Nähe der archäologischen Stätte Kourion.",
+                  "category": "historical",
+                  "coords": [
+                        32.87631,
+                        34.670696
+                  ]
+            },
+            {
+                  "name": "Κούριο",
+                  "text": "Eine bedeutende archäologische Stätte, die die Überreste einer antiken zyprischen Stadtkönigreichs zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        32.885714,
+                        34.665169
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo",
+                  "text": "Ein antikes Heiligtum, das Apollo Hylates, dem Gott der Wälder, gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        32.863561,
+                        34.672946
+                  ]
+            },
+            {
+                  "name": "Small Basilica At Maydan",
+                  "text": "Überreste einer kleinen frühchristlichen Basilika an der Ausgrabungsstätte Maydan.",
+                  "category": "historical",
+                  "coords": [
+                        32.878758,
+                        34.6706
+                  ]
+            },
+            {
+                  "name": "Ancient Basilica",
+                  "text": "Die Ruinen einer antiken Basilika innerhalb des archäologischen Komplexes von Kourion.",
+                  "category": "historical",
+                  "coords": [
+                        32.883353,
+                        34.663443
+                  ]
+            },
+            {
+                  "name": "Κourion Ancient Amphitheater",
+                  "text": "Ein restauriertes antikes griechisch-römisches Theater mit Blick auf das Meer.",
+                  "category": "historical",
+                  "coords": [
+                        32.887946,
+                        34.664235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "Strand az Episkopi-öbölben, amely kilátásáról és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            },
+            {
+                  "name": "Kourion Stadium",
+                  "text": "Egy ókori stadion maradványai a Kourion régészeti lelőhely közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.87631,
+                        34.670696
+                  ]
+            },
+            {
+                  "name": "Κούριο",
+                  "text": "Jelentős régészeti lelőhely, amely egy ókori ciprusi városkirályság maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        32.885714,
+                        34.665169
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo",
+                  "text": "Ókori szentély, amelyet Apollo Hylatesnek, az erdők istenének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.863561,
+                        34.672946
+                  ]
+            },
+            {
+                  "name": "Small Basilica At Maydan",
+                  "text": "Egy kis kora keresztény bazilika maradványai a Maydan ásatási területen.",
+                  "category": "historical",
+                  "coords": [
+                        32.878758,
+                        34.6706
+                  ]
+            },
+            {
+                  "name": "Ancient Basilica",
+                  "text": "Egy antik bazilika romjai a kourioni régészeti komplexum területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.883353,
+                        34.663443
+                  ]
+            },
+            {
+                  "name": "Kourion Theatre",
+                  "text": "Restaurált ókori görög-római színház, amely a tengerre néz.",
+                  "category": "historical",
+                  "coords": [
+                        32.887946,
+                        34.664235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "O plajă la Golful Episkopi, cunoscută pentru priveliștile sale și apa curată.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            },
+            {
+                  "name": "Kourion Stadium",
+                  "text": "Rămășițele unui stadion antic situat lângă situl arheologic Kourion.",
+                  "category": "historical",
+                  "coords": [
+                        32.87631,
+                        34.670696
+                  ]
+            },
+            {
+                  "name": "Κούριο",
+                  "text": "Un sit arheologic important care prezintă rămășițele unui antic regat-oraș cipriot.",
+                  "category": "historical",
+                  "coords": [
+                        32.885714,
+                        34.665169
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo",
+                  "text": "Un sanctuar antic dedicat lui Apollo Hylates, zeul pădurilor.",
+                  "category": "historical",
+                  "coords": [
+                        32.863561,
+                        34.672946
+                  ]
+            },
+            {
+                  "name": "Small Basilica At Maydan",
+                  "text": "Rămășițele unei mici bazilici timpurii creștine de la situl Maydan.",
+                  "category": "historical",
+                  "coords": [
+                        32.878758,
+                        34.6706
+                  ]
+            },
+            {
+                  "name": "Ancient Basilica",
+                  "text": "Ruinele unei bazilici antice din cadrul complexului arheologic Kourion.",
+                  "category": "historical",
+                  "coords": [
+                        32.883353,
+                        34.663443
+                  ]
+            },
+            {
+                  "name": "Kourion Theatre",
+                  "text": "Un teatru antic greco-roman restaurat, cu vedere la mare.",
+                  "category": "historical",
+                  "coords": [
+                        32.887946,
+                        34.664235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kourion Beach",
+                  "text": "A beach at Episkopi Bay, known for its views and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        32.884463,
+                        34.660054
+                  ]
+            },
+            {
+                  "name": "Kourion Stadium",
+                  "text": "The remains of an ancient stadium located near the Kourion archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        32.87631,
+                        34.670696
+                  ]
+            },
+            {
+                  "name": "Curium",
+                  "text": "A major archaeological site featuring the remains of an ancient Cypriot city-kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        32.885714,
+                        34.665169
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo",
+                  "text": "An ancient sanctuary dedicated to Apollo Hylates, the god of the woodlands.",
+                  "category": "historical",
+                  "coords": [
+                        32.863561,
+                        34.672946
+                  ]
+            },
+            {
+                  "name": "Small Basilica At Maydan",
+                  "text": "Remains of a small early Christian basilica at the Maydan excavation site.",
+                  "category": "historical",
+                  "coords": [
+                        32.878758,
+                        34.6706
+                  ]
+            },
+            {
+                  "name": "Ancient Basilica",
+                  "text": "The ruins of an ancient basilica within the Kourion archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        32.883353,
+                        34.663443
+                  ]
+            },
+            {
+                  "name": "Curium Ancient Theatre",
+                  "text": "A restored ancient Greco-Roman theatre overlooking the sea.",
+                  "category": "historical",
+                  "coords": [
+                        32.887946,
+                        34.664235
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [32.85, 34.65],
@@ -1202,7 +3074,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La promenade Molos est située à Limassol, Chypre, et est facilement accessible en voiture.", "Le site permet d'observer des espèces d'oiseaux indigènes et migratrices.", "Une signalisation multilingue facilite la visite des familles et des touristes.", "Des panneaux d'affichage expliquent la biodiversité marine et les programmes de protection.", "Des zones ombragées et des points d'eau assurent le confort des promeneurs.", "Des aires de jeux et des zones de pique-nique sont intégrées à la promenade.", "Ouvert toute l'année, avec un accès libre et une infrastructure de qualité."],
     }, image: "/poi-images/animal-habitat-molos-park-promenade-birds-extra.webp"},
   {
-    id: "animal-habitat-cyherbia-botanical-park-animals-extra",
+    id: "animal-habitat-cyherbia-botanical-park-animals-extra", "sights": {
+      "de": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Ein botanischer Garten mit einem großen Heckenlabyrinth und verschiedenen Kräutergärten.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Botanikus kert nagy sövénylabirintussal és különböző fűszerkerttel.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "O grădină botanică cu un labirint mare de gard viu și diverse grădini de plante aromatice.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CyHerbia Botanical Park and Labyrinth",
+                  "text": "A botanical garden featuring a large hedge labyrinth and various herbal gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CY",
     coords: [33.82, 34.99],
@@ -1569,7 +3486,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Parko Paliatso est la plus grande fête foraine adaptée à tous les âges.", "Sa grande roue offre une vue panoramique spectaculaire sur Ayia Napa.", "Des packs de tickets et des offres familiales sont proposés à l'entrée.", "Des zones de restauration et de repos assurent le confort des visiteurs.", "On peut tester des dizaines d'attractions différentes en une seule soirée.", "L'accès est très facile en voiture ou à pied depuis le centre d'Ayia Napa.", "Le parc s'anime particulièrement le soir avec ses illuminations grandioses."],
     }, image: "/poi-images/kid-landmark-parko-paliatso-luna-park-ayia-napa-extra.webp"},
   {
-    id: "kid-landmark-adventure-mountain-park-kyperounta-extra",
+    id: "kid-landmark-adventure-mountain-park-kyperounta-extra", "sights": {
+      "de": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Ein Gehege für Mufflons im Adventure Mountain Park.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Geological museum",
+                  "text": "Ein Museum im Adventure Mountain Park, das die geologische Geschichte erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Eine astronomische Sternwarte in der Gegend des Adventure Mountain Park.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Ein historisches Kloster, das der Jungfrau Maria gewidmet ist, in der Nähe des Adventure Mountain Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Nordwesten Zyperns.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Eine religiöse Stätte, die dem Heiligen Kreuz gewidmet ist, im Adventure Mountain Park.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Muflon-kifutó az Adventure Mountain Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Geological museum",
+                  "text": "Múzeum az Adventure Mountain Parkban, amely a földtani történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Csillagászati obszervatórium az Adventure Mountain Park környékén.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Szűz Máriának szentelt történelmi kolostor az Adventure Mountain Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátóhely, ahonnan kilátás nyílik Ciprus északnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A Szent Keresztnek szentelt vallási helyszín az Adventure Mountain Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Un țarc pentru mufloni situat în Adventure Mountain Park.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Geological museum",
+                  "text": "Un muzeu în Adventure Mountain Park, care explorează istoria geologică.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator astronomic situat în zona Adventure Mountain Park.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "O mănăstire istorică dedicată Fecioarei Maria, lângă Adventure Mountain Park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra nord-vestului Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Un sit religios dedicat Sfintei Cruci în Adventure Mountain Park.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "An enclosure for mouflons located in Adventure Mountain Park.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Geological museum",
+                  "text": "A museum in Adventure Mountain Park exploring geological history.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Troodos Observatory",
+                  "text": "An astronomical observatory located in the Adventure Mountain Park area.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
+                  "text": "A historic monastery dedicated to the Virgin Mary near Adventure Mountain Park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A scenic viewpoint offering vistas over the northwest of Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A religious site dedicated to the Holy Cross in Adventure Mountain Park.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [32.96, 34.94],
@@ -1607,7 +3749,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["L'Adventure Mountain Park est spécifiquement conçu pour les familles avec enfants et adolescents.", "Des zones thématiques et des stations interactives assurent la diversité.", "Des offres pour les écoles et les anniversaires complètent le programme.", "Des zones ombragées, des coins bébé et des snack-bars augmentent le confort.", "Plusieurs activités peuvent être combinées facilement en une journée.", "Le site est bien accessible en voiture et partiellement en bus.", "Des événements saisonniers enrichissent l'offre tout au long de l'année."],
     }, image: "/poi-images/kid-landmark-adventure-mountain-park-kyperounta-extra.webp"},
   {
-    id: "kid-landmark-sayious-adventure-park-asgata-extra",
+    id: "kid-landmark-sayious-adventure-park-asgata-extra", "sights": {
+      "de": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Diese gut erhaltene venezianische Steinbrücke bei Akapnou ist ein Zeugnis historischer Ingenieurskunst.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Ez a jó állapotban lévő velencei kőhíd Akapnou közelében a történelmi mérnöki munka emléke.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "Acest pod venețian de piatră bine conservat de lângă Akapnou este o dovadă a ingineriei istorice.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akapnou ancient Venetian bridge",
+                  "text": "This well-preserved Venetian stone bridge near Akapnou is a testament to historical engineering.",
+                  "category": "historical",
+                  "coords": [
+                        33.185614,
+                        34.841441
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.15, 34.85],
@@ -1645,7 +3832,160 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Sayious Adventure Park est spécifiquement conçu pour les familles avec enfants et adolescents.", "Des zones thématiques et des stations interactives garantissent la variété.", "Des offres scolaires et d'anniversaire complètent le programme.", "Les zones d'ombre, les tables à langer et les snacks augmentent le confort.", "Plusieurs activités peuvent être combinées facilement en une seule journée.", "Le site est facilement accessible en voiture et, en partie, en bus.", "Des événements saisonniers élargissent l'offre tout au long de l'année."],
     }, image: "/poi-images/kid-landmark-sayious-adventure-park-asgata-extra.webp"},
   {
-    id: "kid-landmark-sparti-platres-rope-adventure-park-extra",
+    id: "kid-landmark-sparti-platres-rope-adventure-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ein malerischer Wasserfall in der Nähe von Platres auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Region Platres.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein kleiner See und eine Attraktion im Platres Rope Adventure Park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Festői vízesés a ciprusi Platres közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Kilátópont panorámás kilátással Platres környékére.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Andreasz Paraszkevasz tiszteletére emelt emlékmű Platresben.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Kisebb tó és látványosság a Platres kötélpályás kalandparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "O cascadă pitorească situată în apropiere de Platres, Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de observație cu vedere panoramică asupra regiunii Platres.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument ridicat în onoarea lui Andreas Paraskevas în Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Un lac mic și o atracție în cadrul parcului de aventură din Platres.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "A scenic waterfall located near Platres in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A viewpoint offering panoramic vistas of the Platres region.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A memorial monument dedicated to Andreas Paraskevas in Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A small lake and attraction within the Platres rope adventure park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [32.86, 34.88],
@@ -1989,7 +4329,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Dolfins Luna Park est particulièrement adapté aux jeunes enfants.", "Les zones de jeux offrent de la diversité dans un cadre sécurisé.", "Sa proximité avec le port permet de varier les activités de la journée.", "Des zones ombragées et des snacks sont disponibles pour le confort.", "C'est une destination parfaite pour une sortie familiale rapide.", "Le site est accessible à pied depuis le port ou en voiture.", "Des événements saisonniers sont proposés durant la période estivale."],
     }, image: "/poi-images/kid-landmark-dolfins-luna-park-ayia-napa-extra.webp"},
   {
-    id: "kid-landmark-cyprus-planetarium-tamasos-extra",
+    id: "kid-landmark-cyprus-planetarium-tamasos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Tamassos",
+                  "text": "Tamassos war ein bedeutendes antikes Stadtkönigreich auf Zypern, bekannt für seine Kupferminen.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Ein Gipfel in der Nähe des zypriotischen Planetariums und Observatoriums.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Ein ökologischer Bauernhof, der Besuchern Einblicke in nachhaltige Landwirtschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ταμασσός",
+                  "text": "Tamassosz egy jelentős ókori városkirályság volt Cipruson, amely rézbányáiról volt ismert.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Egy hegycsúcs a ciprusi planetárium és obszervatórium közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "Ökológiai gazdaság, amely betekintést nyújt a látogatóknak a fenntartható mezőgazdaságba.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ταμασσός",
+                  "text": "Tamassos a fost un important regat antic din Cipru, cunoscut pentru minele sale de cupru.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "Un vârf situat în apropierea Planetariului și Observatorului din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "O fermă ecologică ce oferă vizitatorilor o perspectivă asupra agriculturii durabile.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamassos",
+                  "text": "Tamassos was an important ancient city-kingdom in Cyprus, known for its copper mines.",
+                  "category": "historical",
+                  "coords": [
+                        33.244385,
+                        35.02964
+                  ]
+            },
+            {
+                  "name": "Perátis",
+                  "text": "A peak located near the Cyprus Planetarium & Observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        33.211398,
+                        35.034458
+                  ]
+            },
+            {
+                  "name": "Riverland bio farm",
+                  "text": "An ecological farm that offers visitors insights into sustainable agriculture.",
+                  "category": "landmark",
+                  "coords": [
+                        33.241421,
+                        35.008272
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.25, 35.03],
@@ -2103,7 +4560,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Karting-Center de Paphos offre des sensations fortes aux enfants et adolescents.", "Différents types de karts assurent une sécurité adaptée à chaque âge.", "Des offres pour groupes et anniversaires sont disponibles sur réservation.", "Des zones ombragées et des snacks améliorent le confort des spectateurs.", "Plusieurs sessions de course peuvent être effectuées lors d'une même visite.", "Le centre est facilement accessible en voiture avec un grand parking.", "Des événements de course spéciaux sont organisés tout au long de l'année."],
     }, image: "/poi-images/kid-landmark-pafos-karting-centre-extra.webp"},
   {
-    id: "kid-landmark-cyprus-maze-extra",
+    id: "kid-landmark-cyprus-maze-extra", "sights": {
+      "de": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Ein botanischer Garten mit einem großen Heckenlabyrinth auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Botanikus kert nagy sövénylabirintussal Cipruson.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "O grădină botanică cu un labirint mare de gard viu în Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CyHerbia Botanical Park and Labyrinth",
+                  "text": "A botanical garden featuring a large hedge labyrinth in Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.82, 34.99],
@@ -2472,7 +4974,124 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "kid-landmark-camel-park-playground-mazotos-extra",
+    id: "kid-landmark-camel-park-playground-mazotos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Ein Kunstmuseum in Mazotos, das die Werke von Costas Argyrou zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Ein Tierpark in Mazotos, der vor allem für seine Kamele bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            },
+            {
+                  "name": "Πύργος Αλαμινου",
+                  "text": "Ein historischer venezianischer Wachturm in Alaminos.",
+                  "category": "landmark",
+                  "coords": [
+                        33.438203,
+                        34.806147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Costas Argyrou műveit bemutató múvészeti múzeum Mazotoszban.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Mazotoszi állatpark, amely elsősorban tevéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            },
+            {
+                  "name": "Πύργος Αλαμινου",
+                  "text": "Történelmi velencei őrtorony Alaminoszban.",
+                  "category": "landmark",
+                  "coords": [
+                        33.438203,
+                        34.806147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Κώστα Αργυρού",
+                  "text": "Un muzeu de artă din Mazotos care expune lucrările lui Costas Argyrou.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "Un parc zoologic din Mazotos, cunoscut în special pentru cămilele sale.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            },
+            {
+                  "name": "Πύργος Αλαμινου",
+                  "text": "Un turn de veghe venețian istoric în Alaminos.",
+                  "category": "landmark",
+                  "coords": [
+                        33.438203,
+                        34.806147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Costas Argyrou Museum",
+                  "text": "An art museum in Mazotos displaying the works of Costas Argyrou.",
+                  "category": "museum",
+                  "coords": [
+                        33.499773,
+                        34.804097
+                  ]
+            },
+            {
+                  "name": "Camel Park",
+                  "text": "A zoo in Mazotos, known primarily for its camels.",
+                  "category": "recreational",
+                  "coords": [
+                        33.507453,
+                        34.80005
+                  ]
+            },
+            {
+                  "name": "Alaminos Tower",
+                  "text": "A historical Venetian watchtower in Alaminos.",
+                  "category": "landmark",
+                  "coords": [
+                        33.438203,
+                        34.806147
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CY",
     coords: [33.48, 34.81],
@@ -2592,7 +5211,88 @@ export const cyprusOtherPoi: POI[] = [
    *
    */
   {
-    id: "agriculture-ktima-gerolemo-winery-omosdos-extra",
+    id: "agriculture-ktima-gerolemo-winery-omosdos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Ein Museum, das das traditionelle häusliche Leben in einem historischen zyprischen Haus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Ein historisches Versteck und Museum im Zusammenhang mit Ereignissen des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Egy ciprusi ház hagyományos életmódját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Történelmi rejtekhely és múzeum a 20. század közepének eseményeihez kapcsolódóan.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Un muzeu care înfățișează viața casnică tradițională într-o casă cipriotă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "O ascunzătoare istorică și un muzeu legat de evenimentele de la mijlocul secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "A museum depicting traditional domestic life in a historic Cypriot house.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "A historic hideout and museum related to mid-20th-century events.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.8, 34.84],
@@ -2632,7 +5332,88 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/agriculture-ktima-gerolemo-winery-omosdos-extra.webp",
   },
   {
-    id: "agriculture-tsiakkas-winery-pelendri-extra",
+    id: "agriculture-tsiakkas-winery-pelendri-extra", "sights": {
+      "de": [
+            {
+                  "name": "Geological museum",
+                  "text": "Ein Museum, das die geologische Vielfalt und Gesteine der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "Eine religiöse oder historische Sehenswürdigkeit beim Weingut Tsiakkas.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geological museum",
+                  "text": "A régió geológiai sokféleségét és kőzeteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "Vallási vagy történelmi látnivaló a Tsiakkas borászatnál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geological museum",
+                  "text": "Un muzeu care expune diversitatea geologică și rocile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "Un obiectiv religios sau istoric lângă crama Tsiakkas.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geological museum",
+                  "text": "A museum displaying the geological diversity and rocks of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.938344,
+                        34.917166
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A religious or historical attraction at the Tsiakkas Winery.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.96, 34.89],
@@ -2670,7 +5451,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Domaine Tsiakkas illustre l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et technologie moderne.", "L'irrigation goutte à goutte et la protection intégrée sont pratiquées.", "Les récoltes saisonnières offrent des dégustations exclusives.", "L'exploitation respecte les normes de qualité de l'Union Européenne.", "Des sentiers et tavernes à proximité enrichissent l'expérience.", "Les entreprises familiales sont le moteur de la communauté rurale."],
     }, image: "/poi-images/agriculture-tsiakkas-winery-pelendri-extra.webp"},
   {
-    id: "agriculture-vouni-panayia-winery-extra",
+    id: "agriculture-vouni-panayia-winery-extra", "sights": {
+      "de": [
+            {
+                  "name": "Roudia bridge",
+                  "text": "Eine historische Brücke in der Region Vouni Panayia.",
+                  "category": "landmark",
+                  "coords": [
+                        32.684608,
+                        34.889862
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Ruinen einer alten Wassermühle in der Nähe von Vouni Panayia.",
+                  "category": "historical",
+                  "coords": [
+                        32.67734,
+                        34.88678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roudia bridge",
+                  "text": "Történelmi híd a Vouni Panayia régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.684608,
+                        34.889862
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Egy régi vízimalom romjai Vouni Panayia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.67734,
+                        34.88678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roudia bridge",
+                  "text": "Un pod istoric situat în regiunea Vouni Panayia.",
+                  "category": "landmark",
+                  "coords": [
+                        32.684608,
+                        34.889862
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Ruinele unei vechi mori de apă de lângă Vouni Panayia.",
+                  "category": "historical",
+                  "coords": [
+                        32.67734,
+                        34.88678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roudia bridge",
+                  "text": "A historic bridge located in the Vouni Panayia region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.684608,
+                        34.889862
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Ruins of an old water mill near Vouni Panayia.",
+                  "category": "historical",
+                  "coords": [
+                        32.67734,
+                        34.88678
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.68, 34.9],
@@ -2708,7 +5570,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Vouni Panayia est une référence de l'agriculture méditerranéenne chypriote.", "Le domaine unit tradition agricole et processus techniques modernes.", "Il utilise l'irrigation goutte à goutte et la protection intégrée.", "Des dégustations et ventes de produits de saison sont disponibles.", "La production respecte les normes de qualité de l'UE.", "Les environs incluent des sentiers de randonnée et des tavernes.", "Le caractère familial est essentiel pour la communauté locale."],
     }, image: "/poi-images/agriculture-vouni-panayia-winery-extra.webp"},
   {
-    id: "agriculture-zambartas-wineries-agios-ambrosios-extra",
+    id: "agriculture-zambartas-wineries-agios-ambrosios-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Eine archäologische Stätte in der Nähe des Weinguts Zambartas auf Zypern.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das traditionelle Dorf Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Régészeti lelőhely a ciprusi Zambartas borászat közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Kilátópont, ahonnan panoráma nyílik Lofou hagyományos falujára.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Un sit arheologic situat în apropierea cramei Zambartas din Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra satului tradițional Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The cave of Hadrirousos",
+                  "text": "An archaeological site located near the Zambartas Wineries in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "A viewpoint offering scenic vistas over the traditional village of Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.87, 34.78],
@@ -2784,7 +5727,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le domaine viticole Kolios illustre parfaitement l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la lutte intégrée contre les parasites sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses entreprises.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-kolios-winery-statos-agios-fotios-extra.webp"},
   {
-    id: "agriculture-oleastro-olive-park-anogyra-extra",
+    id: "agriculture-oleastro-olive-park-anogyra-extra", "sights": {
+      "de": [
+            {
+                  "name": "Carob mill",
+                  "text": "Museum zur traditionellen Johannisbrotverarbeitung auf Zypern.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Archäologische Stätte einer antiken Siedlung im Oleastro Olive Park.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Aussichtspunkt über die Hügel und das Mittelmeer.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carob mill",
+                  "text": "A hagyományos szentjánoskenyér-feldolgozást bemutató múzeum Cipruson.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Egy ókori település régészeti lelőhelye az Oleastro Olívaparkban.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Kilátópont a dombokra és a Földközi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carob mill",
+                  "text": "Muzeu care prezintă prelucrarea tradițională a roscovelor în Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Sit arheologic al unei așezări antice în Oleastro Olive Park.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Punct de belvedere asupra dealurilor și a Mării Mediterane.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carob mill",
+                  "text": "Museum showcasing traditional carob processing in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Archaeological site of an ancient settlement in the Oleastro Olive Park.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Viewpoint overlooking the hills and the Mediterranean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.73, 34.73],
@@ -2822,7 +5882,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le parc oléicole et musée Oleastro illustre parfaitement l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la lutte intégrée contre les parasites sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses entreprises.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-oleastro-olive-park-anogyra-extra.webp"},
   {
-    id: "agriculture-agros-rose-factory-extra",
+    id: "agriculture-agros-rose-factory-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Ein Observatorium und Museum in der Nähe der Rosenfabrik in Agros.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "Eine religiöse Sehenswürdigkeit in Agros.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Ein historisches Versteck der EOKA-Kämpfer in der Region Agros.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Obszervatórium és múzeum az agrosi rózsagyár közelében.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "Vallási jellegű látnivaló Agrosban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Az EOKA harcosok egykori történelmi rejtekhelye Agros régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator și muzeu situat lângă fabrica de trandafiri din Agros.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Τιμίου Σταυρού",
+                  "text": "O atracție religioasă situată în Agros.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "O ascunzătoare istorică a luptătorilor EOKA din regiunea Agros.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos Observatory",
+                  "text": "An observatory and museum located near the Rose Factory in Agros.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A religious attraction located in Agros.",
+                  "category": "landmark",
+                  "coords": [
+                        32.966331,
+                        34.89302
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "A historical hideout used by EOKA fighters in the Agros region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.99, 34.92],
@@ -2862,7 +6039,160 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/agriculture-agros-rose-factory-extra.webp",
   },
   {
-    id: "agriculture-anogyra-carob-museum-extra",
+    id: "agriculture-anogyra-carob-museum-extra", "sights": {
+      "de": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "Ein Museum und Restaurant in Anogyra, das sich der traditionellen Olivenölproduktion widmet.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Carob mill",
+                  "text": "Ein Museum in Anogyra, das die Verarbeitung von Johannisbrot in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Eine archäologische Stätte bei Anogyra mit Überresten aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft bei Plataniskia bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "Múzeum és étterem Anogyrában, amely a hagyományos olívaolaj-termelésnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Carob mill",
+                  "text": "Múzeum Anogyrában, amely a régió szentjánoskenyér-feldolgozását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Régészeti lelőhely Anogyra közelében, különböző korszakokból származó maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Kilátópont, amelyről széles körkilátás nyílik a Plataniskia környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "Un muzeu și restaurant în Anogyra dedicat producției tradiționale de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Carob mill",
+                  "text": "Un muzeu din Anogyra care prezintă prelucrarea roscovelor în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "Un sit arheologic lângă Anogyra cu vestigii din diferite epoci.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra peisajului de lângă Plataniskia.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oleastro Olive Mill, And Restaurant",
+                  "text": "A museum and restaurant in Anogyra dedicated to traditional olive oil production.",
+                  "category": "museum",
+                  "coords": [
+                        32.75991,
+                        34.756891
+                  ]
+            },
+            {
+                  "name": "Carob mill",
+                  "text": "A museum in Anogyra showcasing the region's carob processing history.",
+                  "category": "museum",
+                  "coords": [
+                        32.733432,
+                        34.739453
+                  ]
+            },
+            {
+                  "name": "Anogyra-Vlou Archeological Site",
+                  "text": "An archaeological site near Anogyra featuring remains from various periods.",
+                  "category": "historical",
+                  "coords": [
+                        32.752785,
+                        34.754136
+                  ]
+            },
+            {
+                  "name": "Plataniskia Overlook",
+                  "text": "An overlook offering wide views of the landscape near Plataniskia.",
+                  "category": "natural",
+                  "coords": [
+                        32.711561,
+                        34.707361
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.73, 34.74],
@@ -2900,7 +6230,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Musée de la caroube et fabrique d'Anogyra est un exemple de l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et technologie moderne.", "L'irrigation au goutte-à-goutte et la protection intégrée des cultures sont répandues.", "Les périodes de récolte saisonnières proposent de la vente à la ferme et des dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses exploitations.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle important dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-anogyra-carob-museum-extra.webp"},
   {
-    id: "agriculture-cyherbia-botanical-park-avgorou-extra",
+    id: "agriculture-cyherbia-botanical-park-avgorou-extra", "sights": {
+      "de": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Ein botanischer Garten mit Kräutergärten, einem Lavendel-Labyrinth und Naturpfaden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "Botanikus kert fűszerkertekkel, levendula-labirintussal és tanösvényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "text": "O grădină botanică cu grădini de plante aromatice, un labirint de lavandă și trasee în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CyHerbia Botanical Park and Labyrinth",
+                  "text": "A botanical garden featuring herb gardens, a lavender labyrinth, and nature trails.",
+                  "category": "landmark",
+                  "coords": [
+                        33.831496,
+                        35.01339
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.82, 34.99],
@@ -2938,7 +6313,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Cyherbia se concentre sur les plantes médicinales et aromatiques.", "Le parc privilégie les méthodes bio et la lutte antiparasitaire naturelle.", "L'irrigation goutte-à-goutte moderne préserve les ressources hydriques.", "La boutique propose des produits issus de la propre récolte du parc.", "L'exploitation répond aux critères de durabilité de l'UE.", "Le labyrinthe de lavande offre une expérience sensorielle unique.", "Le site sensibilise les visiteurs à la flore endémique de l'île."],
     }, image: "/poi-images/agriculture-cyherbia-botanical-park-avgorou-extra.webp"},
   {
-    id: "agriculture-letymbou-vines-extra",
+    id: "agriculture-letymbou-vines-extra", "sights": {
+      "de": [
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Die Ruinen einer alten Kirche inmitten der Weinberge von Letymbou.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "Die Überreste eines historischen Klosters in der ländlichen Gegend von Letymbou.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Egy régi templom romjai Letymbou szőlőültetvényei között.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "Egy történelmi kolostor maradványai Letymbou vidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Ruinele unei vechi biserici situate în mijlocul podgoriilor din Letymbou.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "Rămășițele unei mănăstiri istorice situate în zona rurală Letymbou.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "The ruins of an old church located amidst the vineyards of Letymbou.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Kato Pangias Monastery",
+                  "text": "The remains of a historical monastery situated in the rural Letymbou area.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.55, 34.85],
@@ -2976,7 +6432,160 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Les vignobles du village de Letymbou illustrent parfaitement l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la lutte intégrée contre les parasites sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses entreprises.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-letymbou-vines-extra.webp"},
   {
-    id: "agriculture-krasochoria-wine-villages-extra",
+    id: "agriculture-krasochoria-wine-villages-extra", "sights": {
+      "de": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Ein Museum in einem traditionellen Haus in den Weindörfern von Krasochoria, das den lokalen Lebensstil zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Ein historisches Versteck der EOKA-Bewegung aus den Jahren 1955-59, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Museen für Kirchengeschichte und Weinbau in den Weindörfern von Krasochoria.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein lokaler Ort namens Schwanensee in den Weindörfern von Krasochoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Hagyományos házban berendezett múzeum Krasochoria borvidékén, amely a helyi életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Az EOKA mozgalom történelmi rejtekhelye 1955-59-ből, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Egyházi és szőlészeti múzeumok Krasochoria borvidékén, bemutatva a helyi hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Egy Hattyú-tó néven ismert helyi látványosság Krasochoria borvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Un muzeu amenajat într-o casă tradițională din satele viticole Krasochoria, prezentând stilul de viață local.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "O ascunzătoare istorică a mișcării EOKA din perioada 1955-59, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Muzee de istorie ecleziastică și viticultură în satele viticole Krasochoria.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "O atracție locală numită Lacul Lebedelor, situată în satele viticole Krasochoria.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "A museum in a traditional house in the Krasochoria wine villages, showcasing the local lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "A historic hideout of the EOKA movement from 1955-59, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "Ecclesiastical and viticulture museums in the Krasochoria wine villages, showcasing local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A local spot known as Swan Lake located in the Krasochoria wine villages.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.85, 34.85],
@@ -3016,7 +6625,232 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/agriculture-krasochoria-wine-villages-extra.webp",
   },
   {
-    id: "agriculture-hadjiantonas-farm-dali-extra",
+    id: "agriculture-hadjiantonas-farm-dali-extra", "sights": {
+      "de": [
+            {
+                  "name": "Idalion",
+                  "text": "Bedeutende archäologische Ausgrabungsstätte einer antiken Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Archäologische Überreste eines antiken Heiligtums der Athene.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Archäologische Fundstelle im antiken Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Museum mit Funden aus der antiken Stadt Idalion.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Point 1: The Lower City, Section A",
+                  "text": "Archäologischer Bereich der Unterstadt von Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.423093,
+                        35.017334
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "text": "Antikes Theater in der Nähe der Ausgrabungen von Dali.",
+                  "category": "cultural",
+                  "coords": [
+                        33.428541,
+                        35.017713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Idalion",
+                  "text": "Egy ókori város jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Athénének szentelt ókori szentély régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Régészeti lelőhely az ókori Idalionban.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Az ókori Idalion városából származó leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Point 1: The Lower City, Section A",
+                  "text": "Idalion alsóvárosának régészeti területe.",
+                  "category": "historical",
+                  "coords": [
+                        33.423093,
+                        35.017334
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "text": "Ókori színház a dali ásatások közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        33.428541,
+                        35.017713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Idalion",
+                  "text": "Sit arheologic important al unui oraș antic.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Rămășițe arheologice ale unui sanctuar antic dedicat Atenei.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Sit arheologic în anticul Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "text": "Muzeu cu descoperiri din orașul antic Idalion.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Point 1: The Lower City, Section A",
+                  "text": "Zona arheologică a orașului de jos din Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.423093,
+                        35.017334
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "text": "Teatru antic lângă săpăturile din Dali.",
+                  "category": "cultural",
+                  "coords": [
+                        33.428541,
+                        35.017713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Idalion",
+                  "text": "Important archaeological site of an ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        33.423019,
+                        35.015857
+                  ]
+            },
+            {
+                  "name": "Point 6: Sanctuary of Athena",
+                  "text": "Archaeological remains of an ancient sanctuary of Athena.",
+                  "category": "historical",
+                  "coords": [
+                        33.424418,
+                        35.014203
+                  ]
+            },
+            {
+                  "name": "Point 3",
+                  "text": "Archaeological site within ancient Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.425027,
+                        35.016639
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Ancient Idalion",
+                  "text": "Museum featuring finds from the ancient city of Idalion.",
+                  "category": "museum",
+                  "coords": [
+                        33.423296,
+                        35.019225
+                  ]
+            },
+            {
+                  "name": "Point 1: The Lower City, Section A",
+                  "text": "Archaeological area of the lower city of Idalion.",
+                  "category": "historical",
+                  "coords": [
+                        33.423093,
+                        35.017334
+                  ]
+            },
+            {
+                  "name": "Dali Amphitheatre",
+                  "text": "Ancient theatre near the Dali excavations.",
+                  "category": "cultural",
+                  "coords": [
+                        33.428541,
+                        35.017713
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.42, 35.02],
@@ -3094,7 +6928,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Golden Donkeys Farm Olivenöl illustre parfaitement l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la lutte intégrée contre les parasites sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses entreprises.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-golden-donkeys-olive-oil-extra.webp"},
   {
-    id: "agriculture-dafermou-winery-lefkara-extra",
+    id: "agriculture-dafermou-winery-lefkara-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Ein Museum in Lefkara, das traditionelles Kunsthandwerk wie Spitze und Silberarbeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Ein Spezialmuseum in Kato Drys, das sich auf die Geschichte der Imkerei und lokale Stickerei konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Ein Volkskundemuseum in einem traditionellen Wohnhaus, das das alte ländliche Leben in Zypern darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Ein traditionelles Haus, das als Museum dient, um das lokale Kulturerbe und die Bräuche zu bewahren.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ein ökotouristisches Erlebnis, das sich mit der Natur und der Bienenzucht beschäftigt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Lefkarai múzeum, amely a hagyományos kézművességet, például a csipkét és az ezüstművességet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Speciális múzeum Kato Drysben, amely a méhészet történetére és a helyi hímzésre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Hagyományos lakóházban kialakított néprajzi múzeum, amely Ciprus egykori vidéki életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Hagyományos ház, amely múzeumként szolgál a helyi kulturális örökség és szokások megőrzésére.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ökoturisztikai élményprogram, amely a természettel és a méhészettel foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Un muzeu din Lefkara care prezintă meșteșuguri tradiționale, cum ar fi dantela și argintăria.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Un muzeu specializat din Kato Drys, axat pe istoria apiculturii și a broderiei locale.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Un muzeu de artă populară găzduit într-o reședință tradițională, care înfățișează vechea viață rurală din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "O casă tradițională care servește drept muzeu pentru conservarea moștenirii culturale și a obiceiurilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "O experiență ecoturistică axată pe natură și apicultură.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
+                  "text": "A museum in Lefkara showcasing traditional handicrafts like lace and silverwork.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A specialized museum in Kato Drys focusing on the history of beekeeping and local embroidery.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "A folk museum housed in a traditional residence, depicting old rural life in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "A traditional house that serves as a museum to preserve local cultural heritage and customs.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "An eco-tourism experience focusing on nature and beekeeping.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.3, 34.86],
@@ -3132,7 +7155,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le domaine est spécialisé dans les vins biologiques certifiés.", "L'architecture du site allie esthétique moderne et éco-conception.", "Des technologies d'irrigation de pointe minimisent l'empreinte hydrique.", "Les dégustations offrent un panorama exceptionnel sur les vallées.", "La production respecte scrupuleusement le cahier des charges bio de l'UE.", "La proximité de Lefkara facilite les visites culturelles et artisanales.", "Le domaine valorise les cépages traditionnels de l'île."],
     }, image: "/poi-images/agriculture-dafermou-winery-lefkara-extra.webp"},
   {
-    id: "agriculture-vlasides-winery-kilani-extra",
+    id: "agriculture-vlasides-winery-kilani-extra", "sights": {
+      "de": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Ein Museum in einem traditionellen Haus, das das ländliche Leben in der Region Omodos zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Eine historische Olivenmühle, die heute als Museum für traditionelle Ölgewinnung dient.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Eine archäologische Fundstätte in einer Höhle in der Gegend von Omodos.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Ein historisches Versteck, das während des zyprischen Unabhängigkeitskampfes genutzt wurde und heute ein Museum ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Ausstellungen zur Kirchengeschichte und zum Weinbau in der Region Omodos.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über das malerische Dorf Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Egy hagyományos házban berendezett múzeum, amely a régió vidéki életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Történelmi olajbogyó-prés, amely ma a hagyományos olajkészítést bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Egy barlangban található régészeti lelőhely Omodos környékén.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "A ciprusi függetlenségi harc idején használt történelmi rejtekhely, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Az egyháztörténetet és a szőlőtermesztést bemutató kiállítások Omodos környékén.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a festői Lofou falura.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Un muzeu amenajat într-o casă tradițională, ce prezintă viața rurală din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "O moară de măsline istorică, transformată în muzeu al metodelor tradiționale de producție a uleiului.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Un sit arheologic situat într-o peșteră din zona Omodos.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "O ascunzătoare istorică folosită în timpul luptei pentru independență a Ciprului, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Expoziții dedicate istoriei bisericești și viticulturii din regiunea Omodos.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra satului pitoresc Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "A museum in a traditional house showcasing rural life in the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "Old Olive Mill",
+                  "text": "A historic olive mill now serving as a museum for traditional oil production.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "The cave of Hadrirousos",
+                  "text": "An archaeological site located in a cave in the Omodos area.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "A historic hideout used during the Cypriot struggle for independence, now functioning as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "Exhibitions dedicated to ecclesiastical history and viticulture in the Omodos region.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "A viewpoint offering panoramic views over the picturesque village of Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.85, 34.84],
@@ -3246,7 +7494,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Les champs de Kokkinochoria illustrent l'agriculture méditerranéenne de Chypre.", "La culture et la transformation combinent tradition et technologie moderne.", "L'irrigation goutte à goutte et la protection intégrée des cultures sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses exploitations.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-red-soil-potatoes-kokkinochoria-extra.webp"},
   {
-    id: "agriculture-tsangarides-winery-lemone-extra",
+    id: "agriculture-tsangarides-winery-lemone-extra", "sights": {
+      "de": [
+            {
+                  "name": "Monastiraki",
+                  "text": "Eine archäologische Fundstätte mit Überresten antiker Siedlungsstrukturen in dieser Region.",
+                  "category": "historical",
+                  "coords": [
+                        32.501766,
+                        34.846317
+                  ]
+            },
+            {
+                  "name": "Folklore",
+                  "text": "Ein lokales Museum, das Einblicke in die ländliche Kultur und Geschichte der Region gibt.",
+                  "category": "museum",
+                  "coords": [
+                        32.49444,
+                        34.851069
+                  ]
+            },
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Die Ruinen der Agios-Theodoros-Kirche, ein Zeugnis religiöser Architektur in dieser Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "Historische Überreste des Kato-Pangias-Klosters, die an die monastische Tradition erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            },
+            {
+                  "name": "Agios Gennadios Church",
+                  "text": "Die Ruinen der dem heiligen Gennadios geweihten Kirche in der Nähe der Weinkellerei.",
+                  "category": "historical",
+                  "coords": [
+                        32.524778,
+                        34.815127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monastiraki",
+                  "text": "Régészeti lelőhely ókori településszerkezetek maradványaival ebben a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        32.501766,
+                        34.846317
+                  ]
+            },
+            {
+                  "name": "Folklore",
+                  "text": "Helyi múzeum, amely betekintést nyújt a régió vidéki kultúrájába és történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        32.49444,
+                        34.851069
+                  ]
+            },
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Az Agios Theodoros-templom romjai, a környék vallási építészetének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "A Kato Pangias-kolostor történelmi maradványai, amelyek a szerzetesi múltat idézik.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            },
+            {
+                  "name": "Agios Gennadios Church",
+                  "text": "Szent Gennádiosznak szentelt templom romjai a borászat közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.524778,
+                        34.815127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monastiraki",
+                  "text": "Un sit arheologic cu rămășițe ale unor structuri de așezări antice din această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        32.501766,
+                        34.846317
+                  ]
+            },
+            {
+                  "name": "Folklore",
+                  "text": "Un muzeu local care oferă perspective asupra culturii rurale și istoriei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.49444,
+                        34.851069
+                  ]
+            },
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "Ruinele bisericii Agios Theodoros, o mărturie a arhitecturii religioase din această zonă.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "text": "Rămășițele istorice ale mănăstirii Kato Pangias, amintind de tradiția monastică.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            },
+            {
+                  "name": "Agios Gennadios Church",
+                  "text": "Ruinele bisericii dedicate Sfântului Gennadios, situate în apropierea cramei.",
+                  "category": "historical",
+                  "coords": [
+                        32.524778,
+                        34.815127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastiraki",
+                  "text": "An archaeological site featuring remains of ancient settlement structures in this region.",
+                  "category": "historical",
+                  "coords": [
+                        32.501766,
+                        34.846317
+                  ]
+            },
+            {
+                  "name": "Folklore",
+                  "text": "A local museum providing insight into the rural culture and history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.49444,
+                        34.851069
+                  ]
+            },
+            {
+                  "name": "Agios Theodoros Church",
+                  "text": "The ruins of Agios Theodoros Church, a testament to religious architecture in this area.",
+                  "category": "historical",
+                  "coords": [
+                        32.51016,
+                        34.83875
+                  ]
+            },
+            {
+                  "name": "Kato Pangias Monastery",
+                  "text": "Historic remains of the Kato Pangias Monastery, reflecting the local monastic tradition.",
+                  "category": "historical",
+                  "coords": [
+                        32.546306,
+                        34.836397
+                  ]
+            },
+            {
+                  "name": "Agios Gennadios Church",
+                  "text": "The ruins of the church dedicated to Agios Gennadios, located near the winery.",
+                  "category": "historical",
+                  "coords": [
+                        32.524778,
+                        34.815127
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.53, 34.85],
@@ -3284,7 +7721,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Domaine Tsangarides illustre l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la protection intégrée sont utilisées.", "Les périodes de récolte proposent vente directe et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui l'exploitation.", "Des sentiers et tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales sont essentielles à la cohésion rurale."],
     }, image: "/poi-images/agriculture-tsangarides-winery-lemone-extra.webp"},
   {
-    id: "agriculture-christoudia-winery-kato-drys-extra",
+    id: "agriculture-christoudia-winery-kato-drys-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Ein Museum in Lefkara, das der traditionellen Volkskunst, Stickerei und Silberschmiedekunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Ein Museum, das die Geschichte der Bienenzucht und der traditionellen Stickerei in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Ein Museum in Kato Drys, das den traditionellen ländlichen Lebensstil und die landwirtschaftliche Geschichte darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Ein traditionelles Haus in der Gegend von Lefkara, das als Museum für Lokalgeschichte erhalten ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "Eine Attraktion in Skarinou, wo Besucher Esel sehen und mit ihnen interagieren können.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Eine Bildungsattraktion, die Touren mit Schwerpunkt auf Ökologie und Bienenzucht anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Lefkarai múzeum, amely a hagyományos népművészetnek, a hímzésnek és az ezüstművességnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A régió méhészetének és hagyományos hímzésének történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Kato Drys-i múzeum, amely a hagyományos vidéki életmódot és a mezőgazdaság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Hagyományos ház Lefkara környékén, amely helytörténeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "Skarinoui látványosság, ahol a látogatók szamarakat láthatnak és ismerkedhetnek velük.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Oktatási célú látványosság, amely az ökológiára és a méhészetre összpontosító túrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Un muzeu din Lefkara dedicat artei populare tradiționale, broderiei și argintăriei.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Un muzeu care prezintă istoria apiculturii și a broderiei tradiționale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Un muzeu din Kato Drys care ilustrează stilul de viață rural tradițional și istoria agricolă.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "O casă tradițională din zona Lefkara păstrată ca muzeu de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "O atracție în Skarinou unde vizitatorii pot vedea și interacționa cu măgari.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "O atracție educațională care oferă tururi axate pe ecologie și apicultură.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
+                  "text": "A museum in Lefkara dedicated to traditional folk art, embroidery, and silver craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A museum showcasing the history of beekeeping and traditional embroidery in the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "A museum in Kato Drys depicting the traditional rural lifestyle and agricultural history.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "A traditional house in the Lefkara area preserved as a museum of local history.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "An attraction in Skarinou where visitors can see and interact with donkeys.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "An educational attraction offering tours focused on ecology and beekeeping.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.31, 34.84],
@@ -3398,7 +8060,160 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Fasouri est le centre névralgique des agrumes dans le sud de Chypre.", "Le microclimat local est parfait pour les oranges et les pamplemousses.", "Des systèmes d'irrigation modernes assurent une gestion durable de l'eau.", "Les récoltes saisonnières garantissent des produits d'une grande fraîcheur.", "L'exploitation respecte les normes de sécurité alimentaire de l'UE.", "Les vergers créent un paysage verdoyant unique dans la région.", "L'activité agricole soutient de nombreux emplois dans les villages voisins."],
     }, image: "/poi-images/agriculture-citrus-groves-fasouri-extra.webp"},
   {
-    id: "agriculture-agrovino-lofou-extra",
+    id: "agriculture-agrovino-lofou-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Eine restaurierte traditionelle Ölmühle in Lofou, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Eine natürliche Höhle und archäologische Fundstätte in der Nähe des Dorfes Lofou.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Museen in Lofou, die der Religionsgeschichte und der Weinbautradition gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das traditionelle Dorf Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "Restaurált hagyományos olajprés Lofouban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "Természetes barlang és régészeti lelőhely Lofou falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Lofou múzeumai, amelyek a vallástörténetnek és a borászati hagyományoknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Kilátópont, ahonnan széles kilátás nyílik Lofou hagyományos falujára.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Αλευρομύλου",
+                  "text": "O presă de ulei tradițională restaurată în Lofou, care acum servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "text": "O peșteră naturală și sit arheologic lângă satul Lofou.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Muzee din Lofou dedicate istoriei religioase și tradițiilor viticole.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "Un punct de belvedere cu o vedere largă asupra satului tradițional Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Olive Mill",
+                  "text": "A restored traditional olive mill in Lofou that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        32.87373,
+                        34.816937
+                  ]
+            },
+            {
+                  "name": "The cave of Hadrirousos",
+                  "text": "A natural cave and archaeological site near the village of Lofou.",
+                  "category": "historical",
+                  "coords": [
+                        32.874516,
+                        34.815502
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "Museums in Lofou dedicated to ecclesiastical history and viticulture traditions.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "View over Lofou",
+                  "text": "A viewpoint offering a wide vista over the traditional village of Lofou.",
+                  "category": "natural",
+                  "coords": [
+                        32.875771,
+                        34.81552
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.86, 34.81],
@@ -3438,7 +8253,160 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/agriculture-agrovino-lofou-extra.webp",
   },
   {
-    id: "agriculture-commandaria-museum-zoopigi-extra",
+    id: "agriculture-commandaria-museum-zoopigi-extra", "sights": {
+      "de": [
+            {
+                  "name": "Wine press museum",
+                  "text": "Ein Museum, das die traditionelle Weinherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Eine historische Brücke aus der venezianischen Zeit.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "Eine architektonisch interessante Brücke in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Agiou Epifaniou",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        32.958456,
+                        34.818109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wine press museum",
+                  "text": "A hagyományos borkészítést bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Egy történelmi híd a velencei korszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "Egy építészetileg érdekes híd a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Agiou Epifaniou",
+                  "text": "Kilátópont, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.958456,
+                        34.818109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wine press museum",
+                  "text": "Un muzeu care prezintă fabricarea tradițională a vinului.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "Un pod istoric din perioada venețiană.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "Un pod interesant din punct de vedere arhitectural în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Agiou Epifaniou",
+                  "text": "Un punct de observație cu vedere la peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.958456,
+                        34.818109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wine press museum",
+                  "text": "A museum showcasing traditional winemaking.",
+                  "category": "museum",
+                  "coords": [
+                        32.92103,
+                        34.825529
+                  ]
+            },
+            {
+                  "name": "Venetian bridge",
+                  "text": "A historic bridge dating from the Venetian period.",
+                  "category": "landmark",
+                  "coords": [
+                        32.911254,
+                        34.856895
+                  ]
+            },
+            {
+                  "name": "Two-Level Bridge",
+                  "text": "An architecturally interesting bridge in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.912438,
+                        34.860413
+                  ]
+            },
+            {
+                  "name": "Agiou Epifaniou",
+                  "text": "A viewpoint offering vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.958456,
+                        34.818109
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.95, 34.85],
@@ -3514,7 +8482,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le moulin à farine Mitsides illustre parfaitement l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte à goutte et la lutte intégrée contre les parasites sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE marquent aujourd'hui de nombreuses entreprises.", "Des sentiers de randonnée et des tavernes à proximité complètent l'expérience culinaire.", "Les entreprises familiales jouent un rôle majeur dans la cohésion rurale."],
     }, image: "/poi-images/agriculture-mitsides-flour-mill-nicosia-extra.webp"},
   {
-    id: "agriculture-drapia-farm-kato-drys-extra",
+    id: "agriculture-drapia-farm-kato-drys-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Ein Museum in Lefkara, das die Traditionen der Stickerei und Silberschmiedekunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Dieses Museum in Drapia Farm zeigt die lokalen Traditionen der Bienenzucht und handgefertigter Stickerei.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Ein Heimatmuseum, das dem traditionellen ländlichen Leben und dem kulturellen Erbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Ein traditionelles Hausmuseum, das die lokale Architektur und die häusliche Geschichte der Gegend zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "Eine familienfreundliche Attraktion in Drapia Farm mit Eselreiten und ländlichen Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Eine Bildungsattraktion, die sich auf das Umweltbewusstsein und die faszinierende Welt der Bienen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Lefkarai múzeum, amely a hímzés és az ezüstművesség hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Ez a Drapia Farmon található múzeum a helyi méhészeti és hímzési hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Helytörténeti múzeum, amely a régió hagyományos vidéki életét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Hagyományos házmúzeum, amely a környék helyi építészetét és háztartási történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "Családbarát látványosság a Drapia Farmon, ahol szamárlovaglás és vidéki programok várják a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Környezettudatosságra és a méhek lenyűgöző világára összpontosító oktatási jellegű látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Un muzeu în Lefkara care prezintă tradițiile broderiei și argintăriei.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Acest muzeu din Drapia Farm prezintă tradițiile locale de apicultură și broderie realizată manual.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Un muzeu de istorie locală dedicat vieții rurale tradiționale și moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "O casă-muzeu tradițională care prezintă arhitectura locală și istoria domestică a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "O atracție pentru familii în Drapia Farm, cu plimbări cu măgari și activități rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "O atracție educațională axată pe conștientizarea mediului și pe lumea fascinantă a albinelor.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
+                  "text": "A museum in Lefkara showcasing the traditions of embroidery and silversmithing.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "This museum in Drapia Farm showcases the local traditions of apiculture and handcrafted embroidery.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "A local history museum dedicated to the traditional rural life and cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "A traditional house museum showcasing the local architecture and domestic history of the area.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Golden Donkeys Farm",
+                  "text": "A family-friendly attraction in Drapia Farm featuring donkey rides and rural activities.",
+                  "category": "landmark",
+                  "coords": [
+                        33.333837,
+                        34.818042
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "An educational attraction focused on environmental awareness and the fascinating world of bees.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.31, 34.83],
@@ -3592,7 +8785,124 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/agriculture-bio-land-products-larnaca-extra.webp",
   },
   {
-    id: "agriculture-fito-winery-kato-platres-extra",
+    id: "agriculture-fito-winery-kato-platres-extra", "sights": {
+      "de": [
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Ein Museum im Dorf Fikardou, das sich mit Kirchengeschichte und Weinbau befasst.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zur Erinnerung an Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein malerischer Teich oder See, der für seine Schwäne bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Fikardou faluban található múzeum, amely az egyháztörténettel és borászattal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Emlékmű Andreasz Paraszkevasz emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Festői tó vagy tavacska, amely hattyúiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "text": "Un muzeu din satul Fikardou care se ocupă de istoria bisericească și viticultură.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument ridicat în memoria lui Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Un iaz sau lac pitoresc cunoscut pentru lebedele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecclesiastical and Viticulture Museums",
+                  "text": "A museum in Fikardou village focused on ecclesiastical history and viticulture.",
+                  "category": "museum",
+                  "coords": [
+                        32.859861,
+                        34.843655
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A monument dedicated to the memory of Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A scenic pond or lake known for its swans.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.85, 34.87],
@@ -3630,7 +8940,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Fikardos est l'un des domaines familiaux les plus célèbres de Paphos.", "Il produit des cuvées primées grâce à des technologies de pointe.", "Une gestion raisonnée de l'eau est assurée par le goutte-à-goutte.", "Les dégustations mettent en avant le potentiel des cépages chypriotes.", "Le domaine applique rigoureusement les directives de qualité de l'UE.", "Sa situation à Mesogi facilite l'accès depuis la zone côtière.", "L'exploitation soutient de nombreuses initiatives culturelles locales."],
     }, image: "/poi-images/agriculture-fito-winery-kato-platres-extra.webp"},
   {
-    id: "agriculture-bee-and-embroidery-museum-kato-drys-extra",
+    id: "agriculture-bee-and-embroidery-museum-kato-drys-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Ein Museum, das sich dem traditionellen Kunsthandwerk der Stickerei und Silberschmiedekunst in Lefkara widmet.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Ein Museum, das die Geschichte der Imkerei und der lokalen Stickkunst in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Ein Heimatmuseum in Kato Drys, das das traditionelle ländliche Leben in Zypern veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Ein traditionelles Wohnhaus, das als Museum dient und Einblicke in die lokale Architektur gewährt.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ein ökologisches Erlebniszentrum, das Touren rund um Bienen und Naturprodukte anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "A lefkari hímzés és ezüstművesség hagyományos mesterségeinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A környékbeli méhészet és a helyi hímzőművészet történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Néprajzi múzeum Kato Drysben, amely a hagyományos ciprusi falusi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Múzeumként működő hagyományos lakóház, amely betekintést nyújt a helyi építészetbe.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ökológiai élményközpont, amely a méhekkel és natúrtermékekkel kapcsolatos túrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Un muzeu dedicat meșteșugurilor tradiționale de broderie și argintărie din Lefkara.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Un muzeu care prezintă istoria apiculturii și a artei locale a broderiei din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Un muzeu rural din Kato Drys care ilustrează viața tradițională de la sat din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "O casă tradițională care servește drept muzeu, oferind perspective asupra arhitecturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Un centru de experiențe ecologice care oferă tururi despre albine și produse naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
+                  "text": "A museum dedicated to the traditional crafts of embroidery and silversmithing in Lefkara.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A museum showcasing the history of beekeeping and local embroidery art in the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "A rural museum in Kato Drys illustrating traditional village life in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "A traditional house serving as a museum, offering insights into local architecture.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "An ecological experience center offering tours focused on bees and natural products.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [33.31, 34.85],
@@ -3668,7 +9167,160 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Musée de l'Abeille et de la Broderie illustre l'agriculture méditerranéenne de Chypre.", "La culture et la transformation allient tradition et techniques modernes.", "L'irrigation goutte-à-goutte et la protection intégrée des cultures sont répandues.", "Les périodes de récolte saisonnières proposent vente à la ferme et dégustations.", "Les normes de qualité de l'UE régissent aujourd'hui de nombreuses exploitations.", "Des sentiers de randonnée et des tavernes à proximité complètent l'offre culinaire.", "Les entreprises familiales sont essentielles pour la cohésion rurale."],
     }, image: "/poi-images/agriculture-bee-and-embroidery-museum-kato-drys-extra.webp"},
   {
-    id: "agriculture-ekfraseis-winery-chandria-extra",
+    id: "agriculture-ekfraseis-winery-chandria-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Ein modernes astronomisches Observatorium in den Troodos-Bergen auf Zypern.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die nordwestliche Landschaft Zyperns bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Eine dem Heiligen Kreuz gewidmete religiöse Stätte, die als Ort der Verehrung und des Nachdenkens dient.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Ein historisches Militärversteck, das während des Zypernkonflikts in den 1950er Jahren genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Modern csillagászati obszervatórium a ciprusi Troodos-hegységben.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátóhely, amely széles perspektívát nyújt Ciprus északnyugati tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A Szent Keresztnek szentelt vallási helyszín, amely az istentisztelet és az elmélkedés helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "Történelmi katonai rejtekhely, amelyet az 1950-es évek ciprusi válsága idején használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αστεροσκοπείο Τροόδους",
+                  "text": "Un observator astronomic modern situat în Munții Troodos din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de observație care oferă o perspectivă largă asupra peisajului din nord-vestul Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "Un sit religios dedicat Sfintei Cruci, servind ca loc de închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "O ascunzătoare militară istorică folosită în timpul perioadei de urgență din Cipru, în anii 1950.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos Observatory",
+                  "text": "A modern astronomical observatory located in the Troodos Mountains of Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        32.998946,
+                        34.926266
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A viewpoint offering a broad perspective over the northwestern landscape of Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Timios Stavros",
+                  "text": "A religious site dedicated to the Holy Cross, serving as a place of worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        32.976265,
+                        34.939255
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout",
+                  "text": "A historic military hideout used during the Cyprus emergency period in the 1950s.",
+                  "category": "landmark",
+                  "coords": [
+                        32.99961,
+                        34.915308
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.99, 34.93],
@@ -3706,7 +9358,268 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le domaine compte parmi les plus hauts vignobles de Chypre.", "Il produit des vins réputés pour leur fraîcheur et leur minéralité.", "La culture en terrasses exige un travail manuel minutieux.", "Le site propose une immersion mêlant création artistique et œnologie.", "Le processus de production est certifié selon les normes de l'UE.", "Le panorama sur le massif de Pitsilia est saisissant depuis le domaine.", "L'exploitation cultive des cépages rares et des variétés locales."],
     }, image: "/poi-images/agriculture-ekfraseis-winery-chandria-extra.webp"},
   {
-    id: "agriculture-kalopanayiotis-dam-fishery-extra",
+    id: "agriculture-kalopanayiotis-dam-fishery-extra", "sights": {
+      "de": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Ein lokales Museum in Kalopanayiotis, das Einblicke in die regionale Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Ein Museum in Kalopanayiotis, das bedeutende byzantinische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Ein Museum in Kalopanayiotis mit einer Sammlung religiöser Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Ein Volkskundemuseum, das das traditionelle Leben in Kalopanayiotis zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe von Kalopanayiotis.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Ein religiöser Ort und eine Sehenswürdigkeit in Kalopanayiotis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Ein Denkmal zu Ehren des Helden Charalambos Casparis in Kalopanayiotis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Helyi múzeum Kalopanayiotisban, amely betekintést nyújt a régió kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Múzeum Kalopanayiotisban, amely jelentős bizánci művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Múzeum Kalopanayiotisban vallási tárgyak gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Néprajzi múzeum, amely a hagyományos életmódot mutatja be Kalopanayiotisban.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Festői kilátóhely Kalopanayiotis környékén.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Vallási helyszín és turisztikai látnivaló Kalopanayiotisban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Emlékmű Charalambos Casparis hős tiszteletére Kalopanayiotisban.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "Un muzeu local în Kalopanayiotis ce oferă perspective asupra culturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "Un muzeu în Kalopanayiotis care expune opere de artă bizantină semnificative.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "Un muzeu în Kalopanayiotis cu o colecție de exponate religioase.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Un muzeu de artă populară ce prezintă viața tradițională din Kalopanayiotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Αγίας Πέτρας",
+                  "text": "Un punct de observație pitoresc în apropiere de Kalopanayiotis.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "Un loc religios și atracție turistică în Kalopanayiotis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "Un monument dedicat eroului Charalambos Casparis în Kalopanayiotis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Lavrentios",
+                  "text": "A local museum in Kalopanayiotis offering insights into regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        32.829215,
+                        34.99334
+                  ]
+            },
+            {
+                  "name": "Byzantine Art Museum",
+                  "text": "A museum in Kalopanayiotis exhibiting significant Byzantine artworks.",
+                  "category": "museum",
+                  "coords": [
+                        32.830537,
+                        34.991934
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum in Kalopanayiotis featuring a collection of religious exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        32.831145,
+                        34.967602
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A folk museum showcasing traditional life in Kalopanayiotis.",
+                  "category": "museum",
+                  "coords": [
+                        32.829799,
+                        34.966726
+                  ]
+            },
+            {
+                  "name": "Agias Petras",
+                  "text": "A scenic viewpoint located near Kalopanayiotis.",
+                  "category": "natural",
+                  "coords": [
+                        32.794985,
+                        35.000475
+                  ]
+            },
+            {
+                  "name": "Holy Cross",
+                  "text": "A religious site and attraction in Kalopanayiotis.",
+                  "category": "landmark",
+                  "coords": [
+                        32.824137,
+                        34.970438
+                  ]
+            },
+            {
+                  "name": "Monument dedicated to hero Charalambos Casparis",
+                  "text": "A monument dedicated to the hero Charalambos Casparis in Kalopanayiotis.",
+                  "category": "historical",
+                  "coords": [
+                        32.83022,
+                        35.000282
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CY",
     coords: [32.83, 34.99],
@@ -3750,7 +9663,304 @@ export const cyprusOtherPoi: POI[] = [
    *
    */
   {
-    id: "industry-vassiliko-cement-works-extra", "sights": {"de": [{"name": "Agia Barbara municipal beach", "text": "Der Agia Barbara Strand erstreckt sich in der Nähe von Vassiliko entlang der südlichen Küste Zyperns. Die von der lokalen Industrie geprägte Umgebung bildet einen interessanten Kontrast zum blauen Meerwasser. Besucher nutzen den Küstenstreifen gerne für eine kurze Erfrischung oder einen Spaziergang am Ufer. Ein ruhiger Ort, der besonders für Individualisten geeignet ist.", "category": "recreational", "coords": [33.153953, 34.712693]}], "hu": [{"name": "Agia Barbara municipal beach", "text": "Az Agia Barbara városi strand Vassiliko közelében húzódik Ciprus déli partvonalán. A helyi ipar által formált környezet érdekes és szokatlan kontrasztot alkot a kék tengervízzel. A látogatók szívesen használják ezt a partszakaszt egy rövid felfrissülésre vagy egy parti sétára. Ez egy igazán csendes hely, amely kifejezetten az egyéni utazóknak ajánlott.", "category": "recreational", "coords": [33.153953, 34.712693]}], "ro": [{"name": "Agia Barbara municipal beach", "text": "Plaja municipală Agia Barbara se întinde în apropiere de Vassiliko, de-a lungul coastei sudice a Ciprului. Împrejurimile, marcate de industria locală, formează un contrast interesant cu apa albastră a mării. Vizitatorii preferă această fâșie de coastă pentru o scurtă răcorire sau o plimbare pe țărm. Un loc tăcut, care este potrivit în mod special pentru cei cu spirit independent.", "category": "recreational", "coords": [33.153953, 34.712693]}], "en": [{"name": "Agia Barbara municipal beach", "text": "The Agia Barbara municipal beach stretches out near Vassiliko along the southern coast of Cyprus. The surroundings, influenced by local industry, create an interesting contrast with the blue sea water. Visitors often use this coastal strip for a quick, refreshing dip or a walk along the shore. It is a quiet location that is particularly well-suited for independent-minded travelers.", "category": "recreational", "coords": [33.153953, 34.712693]}]},
+    id: "industry-vassiliko-cement-works-extra", "sights": {
+      "de": [
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Der Agia Barbara Strand erstreckt sich in der Nähe von Vassiliko entlang der südlichen Küste Zyperns. Die von der lokalen Industrie geprägte Umgebung bildet einen interessanten Kontrast zum blauen Meerwasser. Besucher nutzen den Küstenstreifen gerne für eine kurze Erfrischung oder einen Spaziergang am Ufer. Ein ruhiger Ort, der besonders für Individualisten geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        33.153953,
+                        34.712693
+                  ]
+            },
+            {
+                  "name": "Amathous",
+                  "text": "Eine antike Stadtruine an der Südküste Zyperns mit bedeutenden Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Eine antike Begräbnisstätte, die zur archäologischen Stätte von Amathus gehört.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Eine Fundstätte aus der Bronzezeit, bekannt für antike industrielle Aktivitäten.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Ein beliebter Sandstrand an der Küste in der Nähe von Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Ein Strandabschnitt in der Nähe der archäologischen Stätte von Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Unterwasser- und Küstenreste des antiken Hafens von Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Vouppa Beach ist ein beliebter Strand in der Nähe der Vassiliko-Zementwerke.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Az Agia Barbara városi strand Vassiliko közelében húzódik Ciprus déli partvonalán. A helyi ipar által formált környezet érdekes és szokatlan kontrasztot alkot a kék tengervízzel. A látogatók szívesen használják ezt a partszakaszt egy rövid felfrissülésre vagy egy parti sétára. Ez egy igazán csendes hely, amely kifejezetten az egyéni utazóknak ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        33.153953,
+                        34.712693
+                  ]
+            },
+            {
+                  "name": "Αμαθούντα",
+                  "text": "Ókori városállam Ciprus déli partján, jelentős régészeti maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Az amathusi régészeti lelőhelyhez kapcsolódó ókori temetkezési hely.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Fontos bronzkori régészeti lelőhely, amely ókori ipari tevékenységéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Népszerű homokos tengerparti strand Amathus közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Tengerparti szakasz az amathusi régészeti lelőhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Amathus ókori kikötőjének víz alatti és parti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "A Vouppa Beach egy népszerű strand a Vassiliko cementgyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Plaja municipală Agia Barbara se întinde în apropiere de Vassiliko, de-a lungul coastei sudice a Ciprului. Împrejurimile, marcate de industria locală, formează un contrast interesant cu apa albastră a mării. Vizitatorii preferă această fâșie de coastă pentru o scurtă răcorire sau o plimbare pe țărm. Un loc tăcut, care este potrivit în mod special pentru cei cu spirit independent.",
+                  "category": "recreational",
+                  "coords": [
+                        33.153953,
+                        34.712693
+                  ]
+            },
+            {
+                  "name": "Αμαθούντα",
+                  "text": "Un oraș-stat antic pe coasta de sud a Ciprului, cu vestigii arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Un vechi loc de înmormântare asociat cu situl arheologic Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Un sit arheologic din Epoca Bronzului, cunoscut pentru activități industriale.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "O plajă de nisip populară situată de-a lungul coastei, lângă Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "O zonă de plajă de coastă situată lângă situl arheologic Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Vestigii submerse și de coastă ale vechiului port Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Vouppa Beach este o plajă populară situată în apropierea fabricii de ciment Vassiliko.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "The Agia Barbara municipal beach stretches out near Vassiliko along the southern coast of Cyprus. The surroundings, influenced by local industry, create an interesting contrast with the blue sea water. Visitors often use this coastal strip for a quick, refreshing dip or a walk along the shore. It is a quiet location that is particularly well-suited for independent-minded travelers.",
+                  "category": "recreational",
+                  "coords": [
+                        33.153953,
+                        34.712693
+                  ]
+            },
+            {
+                  "name": "Amathus",
+                  "text": "An ancient city-state on the southern coast of Cyprus with significant remains.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "An ancient burial ground associated with the archaeological site of Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "An important Bronze Age archaeological site known for ancient industrial activity.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "A popular sandy beach located along the coast near Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "A coastal beach area situated near the Amathus archaeological site.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Submerged and coastal remains of the ancient harbour of Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Vouppa Beach is a popular beach located near the Vassiliko Cement Works.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.15, 34.72],
@@ -3790,7 +10000,268 @@ export const cyprusOtherPoi: POI[] = [
     image: "/poi-images/industry-vassiliko-cement-works-extra.webp",
   },
   {
-    id: "industry-vasilikos-power-station-extra",
+    id: "industry-vasilikos-power-station-extra", "sights": {
+      "de": [
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Eine antike Nekropole in der Nähe der Ausgrabungsstätte von Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Ein öffentlicher Strand in der Nähe des Kraftwerks Vasilikos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Eine bedeutende bronzezeitliche Ausgrabungsstätte auf Zypern.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Ein Sandstrand an der Südküste Zyperns, ideal zum Ausruhen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Ein Berggipfel in der Region, der Wanderer anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Ein Denkmal, das einer lokalen Persönlichkeit oder einem Ereignis gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Ein Monument oder eine markante Felsformation in der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Ókori nekropolisz az amathusi régészeti lelőhely közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Nyilvános strand a Vasilikos erőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Jelentős bronzkori régészeti lelőhely Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Homokos strand Ciprus déli partján, ideális a pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Egy hegycsúcs a régióban, amely vonzza a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Emlékmű, amelyet egy helyi személyiségnek vagy eseménynek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Emlékmű vagy jellegzetes sziklaképződmény a környéken.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amathus necropolis",
+                  "text": "O necropolă antică situată lângă situl arheologic Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "O plajă publică situată în apropierea centralei electrice Vasilikos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Un sit arheologic important din epoca bronzului în Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "O plajă cu nisip pe coasta de sud a Ciprului, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Un vârf muntos din regiune care atrage turiștii pasionați de drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Un monument dedicat unei personalități sau unui eveniment local.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Un monument sau o formațiune stâncoasă distinctivă în zonă.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amathus necropolis",
+                  "text": "An ancient necropolis located near the Amathus archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "A public beach located near the Vasilikos power station.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "An important Bronze Age archaeological site in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "A sandy beach on the southern coast of Cyprus, ideal for relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "A mountain peak in the region that attracts hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "A monument dedicated to a local personality or event.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "A monument or a distinctive rock formation in the area.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.19, 34.72],
@@ -3838,7 +10309,124 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "industry-dhekelia-power-station-extra",
+    id: "industry-dhekelia-power-station-extra", "sights": {
+      "de": [
+            {
+                  "name": "Pyla-Kokkinokremos",
+                  "text": "Eine bedeutende archäologische Stätte aus der späten Bronzezeit in der Nähe von Dhekelia.",
+                  "category": "historical",
+                  "coords": [
+                        33.702601,
+                        34.985047
+                  ]
+            },
+            {
+                  "name": "CTO Beach",
+                  "text": "Ein beliebter öffentlicher Sandstrand an der Bucht von Larnaka bei Dhekelia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.698877,
+                        34.978309
+                  ]
+            },
+            {
+                  "name": "Anemos watersports",
+                  "text": "Ein Zentrum für Wassersportaktivitäten am Strand von Dhekelia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.690131,
+                        34.976061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyla-Kokkinokremos",
+                  "text": "Késő bronzkori régészeti lelőhely Dhekelia közelében, Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        33.702601,
+                        34.985047
+                  ]
+            },
+            {
+                  "name": "CTO Beach",
+                  "text": "Népszerű nyilvános homokos strand a Larnaca-öbölben, Dhekelia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.698877,
+                        34.978309
+                  ]
+            },
+            {
+                  "name": "Anemos watersports",
+                  "text": "Vízisport-központ, amely különféle tevékenységeket kínál Dhekelia strandján.",
+                  "category": "landmark",
+                  "coords": [
+                        33.690131,
+                        34.976061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyla-Kokkinokremos",
+                  "text": "Un sit arheologic important din epoca târzie a bronzului, situat lângă Dhekelia.",
+                  "category": "historical",
+                  "coords": [
+                        33.702601,
+                        34.985047
+                  ]
+            },
+            {
+                  "name": "CTO Beach",
+                  "text": "O plajă publică populară cu nisip, situată în golful Larnaca, lângă Dhekelia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.698877,
+                        34.978309
+                  ]
+            },
+            {
+                  "name": "Anemos watersports",
+                  "text": "Un centru de sporturi nautice care oferă diverse activități pe plaja din Dhekelia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.690131,
+                        34.976061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyla-Kokkinokremos",
+                  "text": "An important Late Bronze Age archaeological site located near Dhekelia.",
+                  "category": "historical",
+                  "coords": [
+                        33.702601,
+                        34.985047
+                  ]
+            },
+            {
+                  "name": "CTO Beach",
+                  "text": "A popular public sandy beach located on Larnaca Bay near Dhekelia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.698877,
+                        34.978309
+                  ]
+            },
+            {
+                  "name": "Anemos watersports",
+                  "text": "A water sports center offering various activities at the beach in Dhekelia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.690131,
+                        34.976061
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.72, 34.97],
@@ -4077,7 +10665,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La zone industrielle de Strovolos illustre la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des normes environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné de manière détaillée dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-strovolos-industrial-zone-extra.webp"},
   {
-    id: "industry-vttv-vasiliko-oil-terminal-extra",
+    id: "industry-vttv-vasiliko-oil-terminal-extra", "sights": {
+      "de": [
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Eine archäologische Ausgrabungsstätte aus der Bronzezeit in der Nähe des Vasiliko-Terminals.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Ein lokaler Strand im Gebiet von Vasiliko.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Ein Berggipfel in der Nähe des Vasiliko-Ölterminals.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Ein lokales Denkmal, das Kostaki Panagiotou gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Ein als „The Rock“ bekanntes Denkmal in der Gegend von Vasiliko.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Egy bronzkori régészeti lelőhely a Vasiliko olajterminál közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "Helyi tengerpart Vasiliko környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Hegycsúcs a Vasiliko olajterminál közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Kostaki Panagiotou emlékére állított helyi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "A Vasiliko környékén található, The Rock néven ismert emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Un sit arheologic din epoca bronzului situat în apropierea terminalului petrolier Vasiliko.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "O plajă locală situată în zona Vasiliko.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "Un vârf montan situat în vecinătatea terminalului petrolier Vasiliko.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Un monument local dedicat lui Kostaki Panagiotou.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Un monument cunoscut sub numele de „The Rock”, situat în zona Vasiliko.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "A Bronze Age archaeological site located near the Vasiliko Oil Terminal.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Panagies Beach",
+                  "text": "A local beach situated in the Vasiliko area.",
+                  "category": "recreational",
+                  "coords": [
+                        33.168556,
+                        34.711432
+                  ]
+            },
+            {
+                  "name": "Oxyes",
+                  "text": "A mountain peak located in the vicinity of the Vasiliko Oil Terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.17213,
+                        34.722945
+                  ]
+            },
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "A local monument dedicated to Kostaki Panagiotou.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "A monument known as The Rock located in the Vasiliko area.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.21, 34.72],
@@ -4421,7 +11198,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La zone industrielle de Paphos illustre la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des normes environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné de manière détaillée dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-pafos-industrial-area-extra.webp"},
   {
-    id: "industry-moni-power-station-extra",
+    id: "industry-moni-power-station-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Ein Denkmal für Kostaki Panagiotou in der Nähe des Kraftwerks Moni.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Eine Gedenkstätte namens „The Rock“ beim Kraftwerk Moni.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Kostaki Panagiotou tiszteletére állított emlékmű a Moni erőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "„The Rock” néven ismert emlékmű a Moni erőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "Un monument dedicat lui Kostaki Panagiotou lângă centrala electrică Moni.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "Un monument cunoscut sub numele de „The Rock” lângă centrala electrică Moni.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kostaki Panagiotou",
+                  "text": "A monument dedicated to Kostaki Panagiotou near the Moni Power Station.",
+                  "category": "historical",
+                  "coords": [
+                        33.201696,
+                        34.737733
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "A memorial monument known as \"The Rock\" situated near the Moni Power Station.",
+                  "category": "historical",
+                  "coords": [
+                        33.202922,
+                        34.737497
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.22, 34.71],
@@ -4545,7 +11403,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La zone industrielle de Dali illustre la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient de grandes installations modernes.", "La numérisation et des normes environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches.", "Le site est rarement mentionné en détail dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-dali-industrial-area-extra.webp"},
   {
-    id: "industry-athienou-industrial-area-extra",
+    id: "industry-athienou-industrial-area-extra", "sights": {
+      "de": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Die archäologische Stätte Malloura befindet sich in der Nähe des Industriegebiets von Athienou.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Bamboulari tis Koukouninas (Golgoi)",
+                  "text": "Bamboulari tis Koukouninas ist eine archäologische Stätte der antiken Stadt Golgoi.",
+                  "category": "historical",
+                  "coords": [
+                        33.548086,
+                        35.073151
+                  ]
+            },
+            {
+                  "name": "Agios Epiphanos",
+                  "text": "Agios Epiphanos sind historische Ruinen im Industriegebiet von Athienou.",
+                  "category": "historical",
+                  "coords": [
+                        33.513941,
+                        35.086489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "A Malloura régészeti lelőhely Athienou ipari negyedének közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Bamboulari tis Koukouninas (Golgoi)",
+                  "text": "A Bamboulari tis Koukouninas az ókori Golgoi városának régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        33.548086,
+                        35.073151
+                  ]
+            },
+            {
+                  "name": "Agios Epiphanos",
+                  "text": "Az Agios Epiphanos történelmi romok Athienou ipari negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        33.513941,
+                        35.086489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Situl arheologic Malloura este situat în zona industrială Athienou.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Bamboulari tis Koukouninas (Golgoi)",
+                  "text": "Bamboulari tis Koukouninas este situl arheologic al vechiului oraș Golgoi.",
+                  "category": "historical",
+                  "coords": [
+                        33.548086,
+                        35.073151
+                  ]
+            },
+            {
+                  "name": "Agios Epiphanos",
+                  "text": "Agios Epiphanos reprezintă ruinele unei structuri istorice din zona industrială Athienou.",
+                  "category": "historical",
+                  "coords": [
+                        33.513941,
+                        35.086489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Malloura Archaeological Site is located in the Athienou Industrial Area.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Bamboulari tis Koukouninas (Golgoi)",
+                  "text": "Bamboulari tis Koukouninas is the archaeological site of the ancient city of Golgoi.",
+                  "category": "historical",
+                  "coords": [
+                        33.548086,
+                        35.073151
+                  ]
+            },
+            {
+                  "name": "Agios Epiphanos",
+                  "text": "Agios Epiphanos consists of historical ruins located in the Athienou Industrial Area.",
+                  "category": "historical",
+                  "coords": [
+                        33.513941,
+                        35.086489
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.53, 35.06],
@@ -4621,7 +11596,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Sopharma Trading Cyprus illustre la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des normes environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné de manière détaillée dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-sopharma-trading-cyprus-extra.webp"},
   {
-    id: "industry-helios-solar-power-plant-extra",
+    id: "industry-helios-solar-power-plant-extra", "sights": {
+      "de": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Eine Ausgrabungsstätte, die antike Siedlungsreste auf Zypern zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Malloura",
+                  "text": "Ein bedeutendes archäologisches Areal mit antiken Strukturen.",
+                  "category": "historical",
+                  "coords": [
+                        33.512703,
+                        35.025309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Egy ásatási terület, amely ókori településmaradványokat mutat be Cipruson.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Malloura",
+                  "text": "Egy jelentős régészeti terület ókori építményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        33.512703,
+                        35.025309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "Un sit de excavare care prezintă vestigii ale unor așezări antice în Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Malloura",
+                  "text": "O zonă arheologică importantă cu structuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        33.512703,
+                        35.025309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malloura Archaeological Site",
+                  "text": "An excavation site showcasing ancient settlement remains in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        33.511814,
+                        35.02864
+                  ]
+            },
+            {
+                  "name": "Malloura",
+                  "text": "A significant archaeological area featuring ancient structures.",
+                  "category": "historical",
+                  "coords": [
+                        33.512703,
+                        35.025309
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.5, 35.0],
@@ -4783,7 +11839,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le Synergas LPG Terminal symbolise la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient de grandes installations modernes.", "La numérisation et des normes environnementales strictes marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones résidentielles et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné en détail dans les guides touristiques classiques."],
     }, image: "/poi-images/industry-synergas-lpg-terminal-extra.webp"},
   {
-    id: "industry-asgata-industrial-area-extra",
+    id: "industry-asgata-industrial-area-extra", "sights": {
+      "de": [
+            {
+                  "name": "Old brige",
+                  "text": "Ein Aussichtspunkt an einer alten Brücke im Industriegebiet von Asgata.",
+                  "category": "natural",
+                  "coords": [
+                        33.240808,
+                        34.788843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old brige",
+                  "text": "Kilátópont egy régi hídnál az Asgata ipari negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        33.240808,
+                        34.788843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old brige",
+                  "text": "Un punct de observație situat lângă un pod vechi în zona industrială Asgata.",
+                  "category": "natural",
+                  "coords": [
+                        33.240808,
+                        34.788843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old brige",
+                  "text": "A viewpoint located at an old bridge in the Asgata Industrial Area.",
+                  "category": "natural",
+                  "coords": [
+                        33.240808,
+                        34.788843
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.2, 34.78],
@@ -4859,7 +11960,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le dépôt Petrolina illustre la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des normes environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné de manière détaillée dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-petrolina-larnaca-depot-extra.webp"},
   {
-    id: "industry-aphrodite-hills-wastewater-treatment-extra",
+    id: "industry-aphrodite-hills-wastewater-treatment-extra", "sights": {
+      "de": [
+            {
+                  "name": "Palaipaphos",
+                  "text": "Eine antike Ausgrabungsstätte, die als bedeutendes Pilgerzentrum der Göttin Aphrodite galt.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Eine antike archäologische Stätte in der Nähe von Kouklia in Zypern.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Dieses Museum zeigt Funde aus der antiken Stadt Palaipafos und dem Aphrodite-Heiligtum.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "Ein Naturschutzgebiet, das für seine Küstenlandschaft und geologischen Formationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Aphrodite's Rock - Petra Tou Romiou",
+                  "text": "Eine berühmte Felsformation an der Küste, die als legendärer Geburtsort der Aphrodite gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.627071,
+                        34.664091
+                  ]
+            },
+            {
+                  "name": "Angriffsrampe und Tunnel",
+                  "text": "Historische Belagerungsanlagen und Tunnel aus der Antike, die Teil der Befestigungen waren.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palaipaphos",
+                  "text": "Egy ókori régészeti lelőhely, amely Aphrodité istennő jelentős zarándokközpontja volt.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Egy ókori régészeti lelőhely a ciprusi Kouklia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Ez a múzeum az ókori Palaipafosz városából és az Aphrodité-szentélyből származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "Egy természetvédelmi terület, amely tengerparti tájáról és geológiai képződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Πέτρα του Ρωμιού",
+                  "text": "Egy híres tengerparti sziklaképződmény, amelyet Aphrodité legendás szülőhelyeként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        32.627071,
+                        34.664091
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Történelmi ostromművek és alagutak az ókorból, amelyek az erődítmények részét képezték.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palaipaphos",
+                  "text": "Un sit arheologic antic care a fost un important centru de pelerinaj al zeiței Afrodita.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Un sit arheologic antic situat lângă Kouklia, în Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Acest muzeu expune descoperiri din orașul antic Palaipafos și din sanctuarul Afroditei.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "O rezervație naturală cunoscută pentru peisajul său de coastă și formațiunile geologice.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Πέτρα του Ρωμιού",
+                  "text": "O faimoasă formațiune stâncoasă de pe coastă, considerată locul legendar de naștere al Afroditei.",
+                  "category": "landmark",
+                  "coords": [
+                        32.627071,
+                        34.664091
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Lucrări de asediu și tuneluri istorice din antichitate, care făceau parte din fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanctuary of the paphian Aphrodite",
+                  "text": "An ancient archaeological site that was a major pilgrimage center for the goddess Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "An ancient archaeological site located near Kouklia in Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Palaipafos",
+                  "text": "This museum displays finds from the ancient city of Palaipafos and the sanctuary of Aphrodite.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Petra tou Romiou National Forest Park",
+                  "text": "A nature reserve known for its coastal scenery and geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Petra tou Romiou",
+                  "text": "A famous coastal rock formation considered the legendary birthplace of Aphrodite.",
+                  "category": "landmark",
+                  "coords": [
+                        32.627071,
+                        34.664091
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Historic siege works and tunnels from antiquity that were part of the fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [32.61, 34.69],
@@ -4897,7 +12223,52 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La Station d'épuration d'Aphrodite Hills représente la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient des installations modernes plus importantes.", "La numérisation et des réglementations environnementales claires marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones d'habitation et de travail sont souvent très proches les unes des autres.", "Le site est rarement mentionné en détail dans les guides de voyage classiques."],
     }, image: "/poi-images/industry-aphrodite-hills-wastewater-treatment-extra.webp"},
   {
-    id: "industry-tersefanou-solar-park-extra",
+    id: "industry-tersefanou-solar-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alethriko Venetian Bridge",
+                  "text": "Eine historische Brücke aus venezianischer Zeit bei Alethriko.",
+                  "category": "landmark",
+                  "coords": [
+                        33.493376,
+                        34.856439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alethriko Venetian Bridge",
+                  "text": "Történelmi híd a velencei korból Alethriko közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.493376,
+                        34.856439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alethriko Venetian Bridge",
+                  "text": "Un pod istoric din perioada venețiană, situat lângă Alethriko.",
+                  "category": "landmark",
+                  "coords": [
+                        33.493376,
+                        34.856439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alethriko Venetian Bridge",
+                  "text": "A historic bridge from the Venetian period located near Alethriko.",
+                  "category": "landmark",
+                  "coords": [
+                        33.493376,
+                        34.856439
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [33.52, 34.87],
@@ -4935,7 +12306,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le parc solaire de Tersefanou symbolise la diversité économique de Chypre au-delà du tourisme.", "La transformation, la logistique et l'artisanat sont les piliers centraux du site.", "De petites entreprises familiales côtoient de grandes installations modernes.", "La numérisation et des normes environnementales strictes marquent le quotidien.", "Des axes de transport relient efficacement le site aux ports et aux villes.", "Les zones résidentielles et de travail sont souvent très proches les unes des autres.", "Le lieu est rarement mentionné en détail dans les guides touristiques classiques."],
     }, image: "/poi-images/industry-tersefanou-solar-park-extra.webp"},
   {
-    id: "industry-kivides-poultry-extra",
+    id: "industry-kivides-poultry-extra", "sights": {
+      "de": [
+            {
+                  "name": "Paliotaverna",
+                  "text": "Eine archäologische Ausgrabungsstätte in Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.921923,
+                        34.758333
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "text": "Die Ruinen der St.-Nikolaus-Kirche in Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.92111,
+                        34.756747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paliotaverna",
+                  "text": "Régészeti lelőhely Kivides Poultry Production területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.921923,
+                        34.758333
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "text": "A Szent Miklós-templom romjai Kivides Poultry Production területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.92111,
+                        34.756747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paliotaverna",
+                  "text": "Un sit arheologic în Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.921923,
+                        34.758333
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "text": "Ruinele bisericii Sfântul Nicolae din Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.92111,
+                        34.756747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paliotaverna",
+                  "text": "An archaeological site in Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.921923,
+                        34.758333
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "The ruins of the Church of Saint Nicholas in Kivides Poultry Production.",
+                  "category": "historical",
+                  "coords": [
+                        32.92111,
+                        34.756747
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CY",
     coords: [32.88, 34.75],
@@ -5191,7 +12643,268 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-latsi-port-extra",
+    id: "port-latsi-port-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Ein Museum, das Artefakte aus den antiken Königreichen Marion und Arsinoe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Die Überreste des antiken Stadtkönigreichs Marion, die seine historische Bedeutung widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Eine archäologische Stätte mit den Fundamenten eines Heiligtums aus der antiken Stadt Marion.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Λατσί",
+                  "text": "Ein beliebter Kiesstrand bei Latsi Port, bekannt für sein klares Wasser und seine Fischrestaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4104,
+                        35.04122
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "Ein malerischer Strandabschnitt in Latsi, der Möglichkeiten zum Schwimmen und Entspannen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Ein Zentrum am Hafen von Latsi, das verschiedene Wassersportaktivitäten und Bootsvermietungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "Ein erhaltenes altes Schiff, das als maritimes Denkmal im Hafenbereich ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Múzeum, amely az ókori Marion és Arszinoé királyságokból származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Az ókori Marion városkirályság maradványai, amelyek tükrözik történelmi jelentőségét.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Régészeti lelőhely, amely az ókori Marion város egyik szentélyének alapjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Λατσί",
+                  "text": "Népszerű kavicsos strand Latsi Port közelében, tiszta vizéről és tengeri ételeket kínáló éttermeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4104,
+                        35.04122
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "Festői tengerparti rész Latsiban, amely úszási és pihenési lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Különféle vízi tevékenységeket és hajóbérlést kínáló központ Latsi kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "Régi hajó, amelyet tengerészeti emlékműként állítottak ki a kikötő területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "text": "Un muzeu care expune artefacte din vechile regate Marion și Arsinoe.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "Rămășițele anticului oraș-regat Marion, reflectând importanța sa istorică.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "Un sit arheologic care prezintă fundațiile unui sanctuar din orașul antic Marion.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Λατσί",
+                  "text": "O plajă populară de prundiş lângă portul Latsi, cunoscută pentru apele sale limpezi și restaurantele cu fructe de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4104,
+                        35.04122
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "O zonă de plajă pitorească în Latsi, care oferă posibilități de înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "Un centru care oferă diverse activități nautice și închirieri de bărci în portul Latsi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "O navă veche conservată, expusă ca monument maritim în zona portului.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Local Archaeological Museum of Marion-Arsinoe",
+                  "text": "A museum displaying artifacts from the ancient kingdoms of Marion and Arsinoe.",
+                  "category": "museum",
+                  "coords": [
+                        32.427082,
+                        35.035532
+                  ]
+            },
+            {
+                  "name": "Marion Ruins",
+                  "text": "The remains of the ancient city-kingdom of Marion, reflecting its historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        32.425507,
+                        35.039027
+                  ]
+            },
+            {
+                  "name": "Ancient Sanctuary at Marion",
+                  "text": "An archaeological site featuring the foundations of a sanctuary from the ancient city of Marion.",
+                  "category": "historical",
+                  "coords": [
+                        32.424634,
+                        35.037306
+                  ]
+            },
+            {
+                  "name": "Latchi Beach",
+                  "text": "A popular pebble beach near Latsi Port known for its clear waters and seafood restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        32.4104,
+                        35.04122
+                  ]
+            },
+            {
+                  "name": "Yialos",
+                  "text": "A scenic beach area in Latsi offering opportunities for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        32.386331,
+                        35.041211
+                  ]
+            },
+            {
+                  "name": "Latchi Watersports",
+                  "text": "A center offering various water-based activities and boat rentals at Latsi Port.",
+                  "category": "landmark",
+                  "coords": [
+                        32.370287,
+                        35.044689
+                  ]
+            },
+            {
+                  "name": "Old ship \"Maria\"",
+                  "text": "A preserved old ship displayed as a maritime monument in the harbor area.",
+                  "category": "historical",
+                  "coords": [
+                        32.405173,
+                        35.039505
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [32.4, 35.04],
@@ -5229,7 +12942,124 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Latsi est le principal point d'accès à la réserve naturelle d'Akamas.", "Il combine un port de pêche traditionnel et une marina moderne.", "Célèbre pour ses tavernes de poisson frais au bord de l'eau.", "Point de départ des bateaux visitant le Lagon bleu.", "Des systèmes de gestion locaux encadrent le flux des navires.", "Le port souligne l'importance de l'écotourisme sur la côte ouest.", "Offre des vues superbes sur la Méditerranée et la nature environnante."],
     }, image: "/poi-images/port-latsi-port-extra.webp"},
   {
-    id: "port-zygi-fishing-shelter-extra",
+    id: "port-zygi-fishing-shelter-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Ein öffentlicher Sandstrand im Küstengebiet von Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340374,
+                        34.728416
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Ein ruhiger Strandabschnitt bei Maroni, der eine friedliche Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365139,
+                        34.731481
+                  ]
+            },
+            {
+                  "name": "Old Beach Hut",
+                  "text": "Ein lokaler Anziehungspunkt an der Küste von Zygi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.370243,
+                        34.731236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Nyilvános homokos strand Zygi tengerparti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340374,
+                        34.728416
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Csendes tengerparti rész Maroni közelében, amely nyugodt légkört kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365139,
+                        34.731481
+                  ]
+            },
+            {
+                  "name": "Old Beach Hut",
+                  "text": "Helyi látnivaló Zygi tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        33.370243,
+                        34.731236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "O plajă publică cu nisip situată în zona de coastă din Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340374,
+                        34.728416
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "O zonă de plajă liniștită lângă Maroni, care oferă o atmosferă pașnică.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365139,
+                        34.731481
+                  ]
+            },
+            {
+                  "name": "Old Beach Hut",
+                  "text": "Un punct de interes local situat de-a lungul coastei în Zygi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.370243,
+                        34.731236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zygi Public Beach",
+                  "text": "A public sandy beach located in the coastal area of Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340374,
+                        34.728416
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "A quiet beach area near Maroni, offering a peaceful atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365139,
+                        34.731481
+                  ]
+            },
+            {
+                  "name": "Old Beach Hut",
+                  "text": "A local point of interest situated along the coast in Zygi.",
+                  "category": "landmark",
+                  "coords": [
+                        33.370243,
+                        34.731236
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [33.34, 34.73],
@@ -5461,7 +13291,196 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-pomos-fishing-shelter-extra", "sights": {"de": [{"name": "Pomos Municipal Beach", "text": "Direkt am malerischen Fischerhafen von Pomos gelegen, versprüht der städtische Strand einen authentischen, maritimen Charme. Die ruhige Küstenlinie lädt zu ungestörten Momenten abseits der großen Touristenströme ein. Badegäste können hier im klaren Wasser schwimmen und die beschauliche Atmosphäre des Fischerdorfes auf sich wirken lassen. Für einen authentischen Eindruck der zypriotischen Küste ist dieser Ort perfekt geeignet.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Der Strand Pachyamos liegt eingebettet in die ruhige Küstenlandschaft beim Fischerhafen von Pomos. Diese friedliche Bucht besticht durch ihre natürliche Umgebung und das sanfte Rauschen der Wellen. Ein idealer Ort für alle, die das Schwimmen in einer abgeschiedenen, idyllischen Atmosphäre bevorzugen. Ein Besuch hier verspricht Entschleunigung pur, ideal für entspannte Lesestunden am Strand.", "category": "recreational", "coords": [32.585044, 35.174644]}], "hu": [{"name": "Pomos Municipal Beach", "text": "Közvetlenül a festői Pomos halászkikötője mellett elterülő városi strand autentikus tengeri bájjal rendelkezik. A békés partvonal zavartalan pillanatokra hívogat, távol a nagy turistatömegektől. A fürdőzők tiszta vízben úszhatnak, miközben átadják magukat a halászfalu csendes hangulatának. Ez a helyszín tökéletes választás a ciprusi partok őszinte és hagyományos arcának megismeréséhez.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "A Pachyamos strand a Pomos halászkikötő melletti békés parti tájba simul. Ez a nyugodt öböl lenyűgöző természeti környezetével és a hullámok lágy morajlásával varázsolja el a látogatókat. Ideális hely mindazoknak, akik egy eldugott, idilli atmoszférában szeretnének úszni. Az itteni látogatás a tiszta lelassulás élményét ígéri, amely tökéletes egy tengerparti olvasáshoz.", "category": "recreational", "coords": [32.585044, 35.174644]}], "ro": [{"name": "Pomos Municipal Beach", "text": "Situată chiar la pitorescul port pescăresc din Pomos, plaja municipală emană un farmec maritim autentic. Linia de coastă liniștită te invită la momente netulburate, departe de marile fluxuri de turiști. Cei care se scaldă pot înota aici în ape limpezi și pot lăsa atmosfera pașnică a satului de pescari să îi învăluie. Acest loc este absolut perfect pentru o impresie autentică a coastei cipriote.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Plaja Pachyamos este cuibărită în peisajul liniștit de coastă de lângă portul pescăresc din Pomos. Acest golf pașnic impresionează prin împrejurimile sale naturale și sunetul blând al valurilor. Un loc ideal pentru toți cei care preferă să înoate într-o atmosferă retrasă, idilică. O vizită aici promite relaxare absolută, fiind ideală pentru ore de lectură tihnită pe plajă.", "category": "recreational", "coords": [32.585044, 35.174644]}], "en": [{"name": "Pomos Municipal Beach", "text": "Set right by the picturesque Pomos fishing shelter, the municipal beach exudes a genuine, maritime charm. The quiet coastline invites visitors to enjoy undisturbed moments away from the major tourist streams. Swimmers can take a dip in the clear waters while taking in the tranquil atmosphere of the fishing village. This location is perfectly suited for experiencing an authentic side of the Cypriot coast.", "category": "recreational", "coords": [32.555623, 35.175592]}, {"name": "Pachyamos Beach", "text": "Pachyamos Beach is nestled into the quiet coastal landscape near the Pomos fishing shelter. This peaceful bay captivates with its natural surroundings and the gentle sound of the waves. It is an ideal location for anyone who prefers swimming in a secluded, idyllic atmosphere. A visit here promises pure relaxation, making it perfect for quiet hours reading on the beach.", "category": "recreational", "coords": [32.585044, 35.174644]}]},
+    id: "port-pomos-fishing-shelter-extra", "sights": {
+      "de": [
+            {
+                  "name": "Pomos Municipal Beach",
+                  "text": "Direkt am malerischen Fischerhafen von Pomos gelegen, versprüht der städtische Strand einen authentischen, maritimen Charme. Die ruhige Küstenlinie lädt zu ungestörten Momenten abseits der großen Touristenströme ein. Badegäste können hier im klaren Wasser schwimmen und die beschauliche Atmosphäre des Fischerdorfes auf sich wirken lassen. Für einen authentischen Eindruck der zypriotischen Küste ist dieser Ort perfekt geeignet.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555623,
+                        35.175592
+                  ]
+            },
+            {
+                  "name": "Pachyamos Beach",
+                  "text": "Der Strand Pachyamos liegt eingebettet in die ruhige Küstenlandschaft beim Fischerhafen von Pomos. Diese friedliche Bucht besticht durch ihre natürliche Umgebung und das sanfte Rauschen der Wellen. Ein idealer Ort für alle, die das Schwimmen in einer abgeschiedenen, idyllischen Atmosphäre bevorzugen. Ein Besuch hier verspricht Entschleunigung pur, ideal für entspannte Lesestunden am Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        32.585044,
+                        35.174644
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "text": "Ein Museum in Pachyammos, das die lokale Geschichte und Kultur der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        32.585166,
+                        35.171469
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Ein malerischer Strand in der Nähe von Pomos, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        32.536022,
+                        35.149602
+                  ]
+            },
+            {
+                  "name": "Tpoulorotsos Beach",
+                  "text": "Ein ruhiger Kieselstrand in der Nähe des Fischerhafens von Pomos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542065,
+                        35.156608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pomos Municipal Beach",
+                  "text": "Közvetlenül a festői Pomos halászkikötője mellett elterülő városi strand autentikus tengeri bájjal rendelkezik. A békés partvonal zavartalan pillanatokra hívogat, távol a nagy turistatömegektől. A fürdőzők tiszta vízben úszhatnak, miközben átadják magukat a halászfalu csendes hangulatának. Ez a helyszín tökéletes választás a ciprusi partok őszinte és hagyományos arcának megismeréséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555623,
+                        35.175592
+                  ]
+            },
+            {
+                  "name": "Pachyamos Beach",
+                  "text": "A Pachyamos strand a Pomos halászkikötő melletti békés parti tájba simul. Ez a nyugodt öböl lenyűgöző természeti környezetével és a hullámok lágy morajlásával varázsolja el a látogatókat. Ideális hely mindazoknak, akik egy eldugott, idilli atmoszférában szeretnének úszni. Az itteni látogatás a tiszta lelassulás élményét ígéri, amely tökéletes egy tengerparti olvasáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        32.585044,
+                        35.174644
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "text": "Pachyammosi múzeum, amely a régió helyi történelmét és kultúráját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        32.585166,
+                        35.171469
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Gleccserkék vizéről ismert festői strand Pomos közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.536022,
+                        35.149602
+                  ]
+            },
+            {
+                  "name": "Tpoulorotsos Beach",
+                  "text": "Csendes kavicsos strand Pomos halászkikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542065,
+                        35.156608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pomos Municipal Beach",
+                  "text": "Situată chiar la pitorescul port pescăresc din Pomos, plaja municipală emană un farmec maritim autentic. Linia de coastă liniștită te invită la momente netulburate, departe de marile fluxuri de turiști. Cei care se scaldă pot înota aici în ape limpezi și pot lăsa atmosfera pașnică a satului de pescari să îi învăluie. Acest loc este absolut perfect pentru o impresie autentică a coastei cipriote.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555623,
+                        35.175592
+                  ]
+            },
+            {
+                  "name": "Pachyamos Beach",
+                  "text": "Plaja Pachyamos este cuibărită în peisajul liniștit de coastă de lângă portul pescăresc din Pomos. Acest golf pașnic impresionează prin împrejurimile sale naturale și sunetul blând al valurilor. Un loc ideal pentru toți cei care preferă să înoate într-o atmosferă retrasă, idilică. O vizită aici promite relaxare absolută, fiind ideală pentru ore de lectură tihnită pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        32.585044,
+                        35.174644
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "text": "Un muzeu din Pachyammos care documentează istoria și cultura locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.585166,
+                        35.171469
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "O plajă pitorească lângă Pomos, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.536022,
+                        35.149602
+                  ]
+            },
+            {
+                  "name": "Tpoulorotsos Beach",
+                  "text": "O plajă liniștită cu pietriș în apropierea portului de pescuit Pomos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542065,
+                        35.156608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pomos Municipal Beach",
+                  "text": "Set right by the picturesque Pomos fishing shelter, the municipal beach exudes a genuine, maritime charm. The quiet coastline invites visitors to enjoy undisturbed moments away from the major tourist streams. Swimmers can take a dip in the clear waters while taking in the tranquil atmosphere of the fishing village. This location is perfectly suited for experiencing an authentic side of the Cypriot coast.",
+                  "category": "recreational",
+                  "coords": [
+                        32.555623,
+                        35.175592
+                  ]
+            },
+            {
+                  "name": "Pachyamos Beach",
+                  "text": "Pachyamos Beach is nestled into the quiet coastal landscape near the Pomos fishing shelter. This peaceful bay captivates with its natural surroundings and the gentle sound of the waves. It is an ideal location for anyone who prefers swimming in a secluded, idyllic atmosphere. A visit here promises pure relaxation, making it perfect for quiet hours reading on the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        32.585044,
+                        35.174644
+                  ]
+            },
+            {
+                  "name": "Pachyammos History Museum",
+                  "text": "A museum in Pachyammos documenting the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.585166,
+                        35.171469
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "A picturesque beach near Pomos, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        32.536022,
+                        35.149602
+                  ]
+            },
+            {
+                  "name": "Tpoulorotsos Beach",
+                  "text": "A quiet pebble beach near the Pomos fishing shelter.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542065,
+                        35.156608
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [32.55, 35.17],
@@ -5691,7 +13710,304 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le port de Pernera est un nœud maritime important à Chypre.", "La navigation, la pêche et le tourisme se rejoignent ici.", "Des quais, des bassins de pêche et des postes d'amarrage sont présents.", "Des promenades et des restaurants de poisson caractérisent le quartier.", "Des systèmes de navigation modernes soutiennent les opérations.", "Le port illustre l'importance de la mer pour l'approvisionnement de l'île.", "Les sorties en bateau et les points de vue attirent les touristes."],
     }, image: "/poi-images/port-pernera-harbour-extra.webp"},
   {
-    id: "port-st-raphael-marina-limassol-extra", "sights": {"de": [{"name": "Panagies Beach", "text": "Eingebettet in die Nachbarschaft der exklusiven St. Raphael Marina, präsentiert sich der Panagies Beach als reizvoller Rückzugsort auf Zypern. Die Kulisse verbindet maritimes Flair mit entspanntem Strandvergnügen, was sowohl Familien als auch Ruhesuchende anzieht. Hier lässt es sich wunderbar im Wasser planschen oder einfach die vorbeiziehenden Boote beobachten. An sonnigen Wochenenden empfiehlt es sich, zeitig vor Ort zu sein, um das beste Plätzchen zu sichern.", "category": "recreational", "coords": [33.169232, 34.711318]}], "hu": [{"name": "Panagies Beach", "text": "Az exkluzív St. Raphael Marina szomszédságában elterülő Panagies Beach varázslatos menedékként szolgál Cipruson. A környezet a tengeri hangulatot ötvözi a pihentető strandolás örömével, ami a családokat és a nyugalomra vágyókat egyaránt vonzza. Itt csodálatosan lehet fürdőzni, vagy egyszerűen csak figyelni az elhaladó hajókat. Napsütéses hétvégéken érdemes időben érkezni, hogy biztosítsa a legjobb helyet magának.", "category": "recreational", "coords": [33.169232, 34.711318]}], "ro": [{"name": "Panagies Beach", "text": "Amplasată în vecinătatea exclusivistei St. Raphael Marina, Panagies Beach se prezintă ca un refugiu fermecător în Cipru. Decorul îmbină flerul maritim cu bucuria relaxantă a plajei, atrăgând deopotrivă familiile și pe cei ce caută liniștea. Aici este minunat să te bălăcești în apă sau pur și simplu să urmărești bărcile trecând. În weekendurile însorite, este recomandat să sosiți devreme pentru a vă asigura cel mai bun loc.", "category": "recreational", "coords": [33.169232, 34.711318]}], "en": [{"name": "Panagies Beach", "text": "Nestled in the vicinity of the exclusive St Raphael Marina, Panagies Beach presents itself as a charming retreat in Cyprus. The setting effortlessly combines maritime flair with relaxed beachside leisure, attracting both families and those seeking tranquility. It is a wonderful spot for splashing in the water or simply watching the passing boats. On sunny weekends, it is advisable to arrive early to secure the best possible spot.", "category": "recreational", "coords": [33.169232, 34.711318]}]},
+    id: "port-st-raphael-marina-limassol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Panagies Beach",
+                  "text": "Eingebettet in die Nachbarschaft der exklusiven St. Raphael Marina, präsentiert sich der Panagies Beach als reizvoller Rückzugsort auf Zypern. Die Kulisse verbindet maritimes Flair mit entspanntem Strandvergnügen, was sowohl Familien als auch Ruhesuchende anzieht. Hier lässt es sich wunderbar im Wasser planschen oder einfach die vorbeiziehenden Boote beobachten. An sonnigen Wochenenden empfiehlt es sich, zeitig vor Ort zu sein, um das beste Plätzchen zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169232,
+                        34.711318
+                  ]
+            },
+            {
+                  "name": "Amathous",
+                  "text": "Ruinen einer der ältesten antiken Königsstädte Zyperns.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Ein antikes Gräberfeld, das zur archäologischen Stätte von Amathus gehört.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Ein beliebter öffentlicher Strand in der Nähe der antiken Stätte Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Ein Sandstrand an der Küste von Limassol, benannt nach der Göttin Aphrodite.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Überreste der antiken Hafenanlagen der Stadt Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Ein gut ausgestatteter Sandstrand in der touristischen Zone von Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panagies Beach",
+                  "text": "Az exkluzív St. Raphael Marina szomszédságában elterülő Panagies Beach varázslatos menedékként szolgál Cipruson. A környezet a tengeri hangulatot ötvözi a pihentető strandolás örömével, ami a családokat és a nyugalomra vágyókat egyaránt vonzza. Itt csodálatosan lehet fürdőzni, vagy egyszerűen csak figyelni az elhaladó hajókat. Napsütéses hétvégéken érdemes időben érkezni, hogy biztosítsa a legjobb helyet magának.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169232,
+                        34.711318
+                  ]
+            },
+            {
+                  "name": "Αμαθούντα",
+                  "text": "Ciprus egyik legősibb királyi városának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "Amathus régészeti lelőhelyéhez tartozó ókori temetkezési hely.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "Népszerű nyilvános strand az antik Amathus közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Jelentős bronzkori régészeti lelőhely és ásatási terület.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Homokos tengerpart Limassol partjainál, Aphrodité istennőről elnevezve.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Amathus városának ókori kikötői építményeinek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Jól felszerelt homokos strand Limassol turisztikai övezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panagies Beach",
+                  "text": "Amplasată în vecinătatea exclusivistei St. Raphael Marina, Panagies Beach se prezintă ca un refugiu fermecător în Cipru. Decorul îmbină flerul maritim cu bucuria relaxantă a plajei, atrăgând deopotrivă familiile și pe cei ce caută liniștea. Aici este minunat să te bălăcești în apă sau pur și simplu să urmărești bărcile trecând. În weekendurile însorite, este recomandat să sosiți devreme pentru a vă asigura cel mai bun loc.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169232,
+                        34.711318
+                  ]
+            },
+            {
+                  "name": "Αμαθούντα",
+                  "text": "Ruinele unuia dintre cele mai vechi orașe regale din Cipru.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "O veche necropolă ce aparține sitului arheologic Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "O plajă publică populară situată în apropierea sitului antic Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "Un sit arheologic important datând din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "O plajă de nisip pe coasta Limassolului, numită după zeița Afrodita.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Vestigiile vechilor structuri portuare ale orașului Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "O plajă de nisip bine amenajată în zona turistică a Limassolului.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panagies Beach",
+                  "text": "Nestled in the vicinity of the exclusive St Raphael Marina, Panagies Beach presents itself as a charming retreat in Cyprus. The setting effortlessly combines maritime flair with relaxed beachside leisure, attracting both families and those seeking tranquility. It is a wonderful spot for splashing in the water or simply watching the passing boats. On sunny weekends, it is advisable to arrive early to secure the best possible spot.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169232,
+                        34.711318
+                  ]
+            },
+            {
+                  "name": "Amathus",
+                  "text": "Ruins of one of the most ancient royal cities of Cyprus.",
+                  "category": "historical",
+                  "coords": [
+                        33.142204,
+                        34.710226
+                  ]
+            },
+            {
+                  "name": "Amathus necropolis",
+                  "text": "An ancient burial site belonging to the Amathus archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        33.148989,
+                        34.713329
+                  ]
+            },
+            {
+                  "name": "Agia Barbara municipal beach",
+                  "text": "A popular public beach located near the ancient site of Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.154113,
+                        34.712804
+                  ]
+            },
+            {
+                  "name": "Pyrgos-Mavrorarki Bronze Age archaeological site",
+                  "text": "A significant archaeological excavation site dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        33.178777,
+                        34.744112
+                  ]
+            },
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "A sandy beach on the Limassol coast, named after the goddess Aphrodite.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126935,
+                        34.707703
+                  ]
+            },
+            {
+                  "name": "Amathus Port Buildings",
+                  "text": "Remains of the ancient port structures of the city of Amathus.",
+                  "category": "historical",
+                  "coords": [
+                        33.146273,
+                        34.711993
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "A well-equipped sandy beach in the tourist zone of Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130113,
+                        34.708298
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [33.17, 34.71],
@@ -5729,7 +14045,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La marina St. Raphael est un centre nautique de luxe majeur à Chypre.", "Elle allie services hôteliers haut de gamme et plaisance.", "L'infrastructure propose des amarrages modernes pour les yachts.", "Des promenades et des restaurants de standing bordent la marina.", "Des systèmes de sécurité et de navigation avancés sont en place.", "Le site est réputé pour sa plage certifiée Pavillon Bleu.", "Les sorties en mer privées font partie de l'attrait touristique du lieu."],
     }, image: "/poi-images/port-st-raphael-marina-limassol-extra.webp"},
   {
-    id: "port-liopetri-river-fishing-shelter-extra",
+    id: "port-liopetri-river-fishing-shelter-extra", "sights": {
+      "de": [
+            {
+                  "name": "Nationaler Waldpark Liopetri",
+                  "text": "Ein Küsten-Nationalpark in Zypern, bekannt für seine Wanderwege und die Nähe zum Fischerhafen.",
+                  "category": "natural",
+                  "coords": [
+                        33.89428,
+                        34.969725
+                  ]
+            },
+            {
+                  "name": "Xylophagou Tower",
+                  "text": "Ein historischer venezianischer Wachturm in Ruinenform an der Küste von Xylophagou.",
+                  "category": "historical",
+                  "coords": [
+                        33.85514,
+                        34.950289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Λιοπετρίου",
+                  "text": "Tengerparti nemzeti park Cipruson, amely túraútvonalairól és a halászkikötő közelségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        33.89428,
+                        34.969725
+                  ]
+            },
+            {
+                  "name": "Xylophagou Tower",
+                  "text": "Történelmi velencei őrtorony romjai Xylophagou tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        33.85514,
+                        34.950289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Λιοπετρίου",
+                  "text": "Un parc forestier național de coastă în Cipru, cunoscut pentru traseele sale și proximitatea față de adăpostul de pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        33.89428,
+                        34.969725
+                  ]
+            },
+            {
+                  "name": "Xylophagou Tower",
+                  "text": "Ruinele unui turn de veghe venețian istoric pe coasta localității Xylophagou.",
+                  "category": "historical",
+                  "coords": [
+                        33.85514,
+                        34.950289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liopetri National Forest Park",
+                  "text": "A coastal national forest park in Cyprus, known for its trails and proximity to the fishing shelter.",
+                  "category": "natural",
+                  "coords": [
+                        33.89428,
+                        34.969725
+                  ]
+            },
+            {
+                  "name": "Xylophagou Tower",
+                  "text": "The ruins of a historic Venetian watchtower located on the Xylophagou coast.",
+                  "category": "historical",
+                  "coords": [
+                        33.85514,
+                        34.950289
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [33.89, 34.96],
@@ -6005,7 +14402,268 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "port-agios-georgios-peyias-harbour-extra", "sights": {"de": [{"name": "Kafizis Beach", "text": "Nahe dem Hafen von Agios Georgios Pegeias lockt der Kafizis Beach mit seiner natürlichen Küstenschönheit. Die Umgebung ist geprägt von einer eher ruhigen, authentischen Atmosphäre, die zum Verweilen und Durchatmen einlädt. Besucher können hier entspannte Stunden beim Baden verbringen und die zypriotische Sonne genießen. Für einen ungestörten Aufenthalt fernab des großen Trubels ist dieser Strandabschnitt besonders in den frühen Abendstunden ein Geheimtipp.", "category": "recreational", "coords": [32.322783, 34.894578]}], "hu": [{"name": "Kafizis Beach", "text": "Az Agios Georgios Pegeias kikötő közelében található Kafizis Beach természetes parti szépségével csábítja a látogatókat. A környéket inkább egy nyugodt, autentikus légkör jellemzi, amely elidőzésre és kikapcsolódásra hívogat. A vendégek itt pihentető órákat tölthetnek fürdőzéssel, és élvezhetik a ciprusi napsütést. A nagy nyüzsgéstől távoli, zavartalan pihenéshez ez a partszakasz különösen a kora esti órákban számít titkos tippnek.", "category": "recreational", "coords": [32.322783, 34.894578]}], "ro": [{"name": "Kafizis Beach", "text": "Aproape de portul Agios Georgios Pegeias, Kafizis Beach atrage prin frumusețea sa naturală de coastă. Împrejurimile sunt caracterizate de o atmosferă mai degrabă liniștită și autentică, care te invită să zăbovești și să te relaxezi. Vizitatorii pot petrece ore odihnitoare înotând și bucurându-se de soarele cipriot. Pentru o ședere netulburată, departe de agitația mare, această porțiune de plajă este un pont secret, mai ales la orele timpurii ale serii.", "category": "recreational", "coords": [32.322783, 34.894578]}], "en": [{"name": "Kafizis Beach", "text": "Near the Agios Georgios Pegeias Harbour, Kafizis Beach allures visitors with its natural coastal beauty. The surrounding area is characterized by a rather quiet, authentic atmosphere that invites you to linger and take a deep breath. Guests can spend relaxing hours swimming and basking in the Cypriot sun. For an undisturbed stay away from the major hustle and bustle, this stretch of beach is a hidden gem, especially in the early evening hours.", "category": "recreational", "coords": [32.322783, 34.894578]}]},
+    id: "port-agios-georgios-peyias-harbour-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Nahe dem Hafen von Agios Georgios Pegeias lockt der Kafizis Beach mit seiner natürlichen Küstenschönheit. Die Umgebung ist geprägt von einer eher ruhigen, authentischen Atmosphäre, die zum Verweilen und Durchatmen einlädt. Besucher können hier entspannte Stunden beim Baden verbringen und die zypriotische Sonne genießen. Für einen ungestörten Aufenthalt fernab des großen Trubels ist dieser Strandabschnitt besonders in den frühen Abendstunden ein Geheimtipp.",
+                  "category": "recreational",
+                  "coords": [
+                        32.322783,
+                        34.894578
+                  ]
+            },
+            {
+                  "name": "Pafos Zoo",
+                  "text": "Ein großer Tierpark in der Nähe von Paphos, der eine Vielzahl exotischer Tiere und Vögel beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Ein naturbelassener Sandstrand in der Nähe des Hafens von Agios Georgios Pegeias.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Eine antike Begräbnisstätte im Meletis-Wald mit in den Fels gehauenen Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Die Ruinen frühchristlicher Basiliken aus dem 6. Jahrhundert in der Nähe von Agios Georgios.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Ein Museum, das der traditionellen zypriotischen Kleidung und dem lokalen Handwerk gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "Ein Bereich im Zoo von Paphos, der Interaktionen mit asiatischen Elefanten ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Az Agios Georgios Pegeias kikötő közelében található Kafizis Beach természetes parti szépségével csábítja a látogatókat. A környéket inkább egy nyugodt, autentikus légkör jellemzi, amely elidőzésre és kikapcsolódásra hívogat. A vendégek itt pihentető órákat tölthetnek fürdőzéssel, és élvezhetik a ciprusi napsütést. A nagy nyüzsgéstől távoli, zavartalan pihenéshez ez a partszakasz különösen a kora esti órákban számít titkos tippnek.",
+                  "category": "recreational",
+                  "coords": [
+                        32.322783,
+                        34.894578
+                  ]
+            },
+            {
+                  "name": "Pafos Zoo",
+                  "text": "Paphos közelében található nagy állatkert, amely számos egzotikus állatnak és madárnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Természetes homokos tengerpart Agios Georgios Pegeias kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Ókori temetkezési hely a Meletis-erdőben, sziklába vájt sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "6. századi kora keresztény bazilikák romjai Agios Georgios közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "A hagyományos ciprusi viseleteknek és a helyi kézművességnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "A Paphos Zoo területe, ahol ázsiai elefántokkal lehet találkozni.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Aproape de portul Agios Georgios Pegeias, Kafizis Beach atrage prin frumusețea sa naturală de coastă. Împrejurimile sunt caracterizate de o atmosferă mai degrabă liniștită și autentică, care te invită să zăbovești și să te relaxezi. Vizitatorii pot petrece ore odihnitoare înotând și bucurându-se de soarele cipriot. Pentru o ședere netulburată, departe de agitația mare, această porțiune de plajă este un pont secret, mai ales la orele timpurii ale serii.",
+                  "category": "recreational",
+                  "coords": [
+                        32.322783,
+                        34.894578
+                  ]
+            },
+            {
+                  "name": "Pafos Zoo",
+                  "text": "O grădină zoologică mare lângă Paphos, care găzduiește o varietate de animale și păsări exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "O plajă naturală de nisip situată lângă portul Agios Georgios Pegeias.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Un loc de înmormântare antic în pădurea Meletis, cu morminte săpate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Ruinele unor bazilici creștine timpurii din secolul al VI-lea, situate lângă Agios Georgios.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Un muzeu dedicat îmbrăcămintei tradiționale cipriote și meșteșugurilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "O secțiune a grăinii zoologice din Paphos care permite interacțiunea cu elefanții asiatici.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Near the Agios Georgios Pegeias Harbour, Kafizis Beach allures visitors with its natural coastal beauty. The surrounding area is characterized by a rather quiet, authentic atmosphere that invites you to linger and take a deep breath. Guests can spend relaxing hours swimming and basking in the Cypriot sun. For an undisturbed stay away from the major hustle and bustle, this stretch of beach is a hidden gem, especially in the early evening hours.",
+                  "category": "recreational",
+                  "coords": [
+                        32.322783,
+                        34.894578
+                  ]
+            },
+            {
+                  "name": "Pafos Zoo",
+                  "text": "A large zoo near Paphos, home to a wide variety of exotic animals and birds.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "White River Beach",
+                  "text": "A natural sandy beach located near the Agios Georgios Pegeias harbour.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "An ancient burial site in the Meletis forest featuring rock-cut tombs.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "The ruins of early Christian basilicas from the 6th century located near Agios Georgios.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "A museum dedicated to traditional Cypriot clothing and local craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "An area within the Paphos Zoo that allows for interactions with Asian elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CY",
     coords: [32.33, 34.88],
@@ -6252,7 +14910,304 @@ export const cyprusOtherPoi: POI[] = [
    *
    */
   {
-    id: "landscape-troodos-mountains-extra",
+    id: "landscape-troodos-mountains-extra", "sights": {
+      "de": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Ein weitläufiges Schutzgebiet, das die höchsten Teile des Troodos-Gebirges auf Zypern umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympos",
+                  "text": "Der höchste Punkt Zyperns mit einer Höhe von 1.952 Metern über dem Meeresspiegel.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Einer der höchsten Wasserfälle Zyperns, gelegen an einem beliebten Naturpfad im Troodos-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Ein Aussichtspunkt im Troodos-Gebirge mit Panoramablick auf die Landschaft der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt im Troodos-Gebirge mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in der Bergregion des Troodos.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Ein Aussichtspunkt, der den Blick auf das Gelände eines ehemaligen Asbestbergwerks im Troodos-Gebirge freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Ein Aussichtspunkt im Troodos-Gebirge mit Panoramablick auf Limassol.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "Hatalmas védett terület, amely Ciprus Troodos-hegységének legmagasabb részeit fedi le.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Ciprus legmagasabb pontja, tengerszint felett 1952 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ciprus egyik legmagasabb vízesése, amely egy népszerű tanösvény mentén található a Troodos-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kilátóhely a Troodos-hegységben, amely panorámás kilátást nyújt a sziget tájára.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A Troodos-hegységben található kilátóhely, amely a környező természetre nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Andreas Paraskevas emlékének szentelt emlékmű a Troodos hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Kilátóhely, amely egy korábbi azbesztbánya területére néz a Troodos-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Kilátópont a Tróodosz-hegységben, ahonnan panorámás kilátás nyílik Limassolra.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "text": "O zonă protejată vastă care acoperă cele mai înalte părți ale munților Troodos din Cipru.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Όλυμπος",
+                  "text": "Cel mai înalt punct din Cipru, atingând o altitudine de 1.952 de metri deasupra nivelului mării.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Una dintre cele mai înalte cascade din Cipru, situată de-a lungul unui traseu natural popular.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Un punct de belvedere în munții Troodos care oferă vederi panoramice asupra peisajului insulei.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de belvedere situat în munții Troodos, oferind vederi asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument dedicat lui Andreas Paraskevas, situat în regiunea montană Troodos.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Un punct de belvedere spre locul unei foste mine de azbest din munții Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Un punct de observație în Munții Troodos care oferă o vedere panoramică asupra Limassolului.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troodos National Forest Park",
+                  "text": "A vast protected area covering the highest parts of the Troodos mountain range in Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.882021,
+                        34.931155
+                  ]
+            },
+            {
+                  "name": "Olympus",
+                  "text": "The highest point in Cyprus, reaching an elevation of 1,952 meters above sea level.",
+                  "category": "landmark",
+                  "coords": [
+                        32.86495,
+                        34.936613
+                  ]
+            },
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "One of the highest waterfalls in Cyprus, located along a popular nature trail in the Troodos forest.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "A scenic viewpoint in the Troodos Mountains offering panoramic views of the island.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A viewpoint located in the Troodos Mountains providing vistas of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A monument dedicated to Andreas Paraskevas, located in the Troodos mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "A viewpoint overlooking the site of a former asbestos mine in the Troodos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "A viewpoint in the Troodos Mountains offering a panoramic view of Limassol.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     coords: [32.87, 34.92],
@@ -6368,7 +15323,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le barrage de Kouris est un habitat vital pour les oiseaux d'eau.", "La salinité et le niveau d'eau varient nettement au fil de l'année.", "Les roselières et les vasières offrent nourriture et sites de nidification.", "Des points de vue permettent l'observation sans déranger la faune.", "De grands vols d'oiseaux sont visibles au printemps et en automne.", "La région est particulièrement intéressante pour la photographie.", "Le lac fait partie d'un concept de protection de la nature surveillé."],
     }, image: "/poi-images/landscape-kouris-dam-extra.webp"},
   {
-    id: "landscape-millomeris-waterfall-extra",
+    id: "landscape-millomeris-waterfall-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ein malerischer Wasserfall in den Troodos-Bergen auf Zypern.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Troodos-Region.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "Ein Wasserfall inmitten der üppigen Vegetation der Mesa Potamos Region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in der Nähe von Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Ein Aussichtspunkt mit Panorama auf die Stadt Limassol und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein lokales Ausflugsziel in der Natur der Troodos-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Festői vízesés a ciprusi Tróodosz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Kilátópont széles körkilátással a Tróodosz-régióra.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "Vízesés a Mesa Potamos régió buja növényzete között.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Andreas Paraskevas tiszteletére emelt emlékmű Platres közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Kilátópont panorámával Limassol városára és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Helyi kirándulóhely a Tróodosz-hegység természetében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "O cascadă pitorească în Munții Troodos din Cipru.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de observație cu o vedere largă asupra regiunii Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "O cascadă în mijlocul vegetației luxuriante din regiunea Mesa Potamos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument în onoarea lui Andreas Paraskevas lângă Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Un punct de belvedere cu o panoramă asupra orașului Limassol și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "O destinație locală în natura Munților Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "A scenic waterfall in the Troodos Mountains of Cyprus.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A viewpoint offering wide vistas over the Troodos region.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Mesa Potamos waterfall",
+                  "text": "A waterfall set amidst the lush vegetation of the Mesa Potamos region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A monument honoring Andreas Paraskevas near Platres.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "A viewpoint with a panorama of Limassol city and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A local attraction in the nature of the Troodos Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     coords: [32.87, 34.88],
@@ -6416,7 +15596,304 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "landscape-caledonia-waterfall-extra",
+    id: "landscape-caledonia-waterfall-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Einer der bekanntesten Wasserfälle Zyperns, gelegen in einer malerischen Waldschlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt in der Nähe der Caledonia-Wasserfälle mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "Ein kaskadierender Wasserfall in der Nähe der Mesa Potamos-Picknickstelle im Troodos-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas in der Bergregion bei den Wasserfällen.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Ein Aussichtspunkt, der einen Blick auf einen stillgelegten Asbest-Tagebau ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Ein erhöhter Standort mit Panoramablick über die Stadt Limassol und die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein kleiner, friedlicher See in der Natur der Troodos-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            },
+            {
+                  "name": "Persephone trail",
+                  "text": "Ein Wanderweg, der spektakuläre Ausblicke auf die Gipfel des Troodos-Gebirges bietet.",
+                  "category": "natural",
+                  "coords": [
+                        32.903735,
+                        34.908287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ciprus egyik legismertebb vízesése, amely egy festői erdei szurdokban található.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Kilátópont a Caledonia-vízesés közelében, kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "Egy lépcsőzetes vízesés a Mesa Potamos pihenőhely közelében a Troodos-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Andreas Paraskevas tiszteletére emelt emlékmű a vízesések közeli hegyvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Kilátópont, ahonnan rálátás nyílik egy elhagyatott azbesztbányára.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "Egy magaslati pont, ahonnan panorámás kilátás nyílik Limassol városára és a partra.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Egy kis, békés tó a Troodos-régió természetében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            },
+            {
+                  "name": "Persephone trail",
+                  "text": "Egy túraútvonal, amely látványos kilátást nyújt a Troodos-hegység csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        32.903735,
+                        34.908287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Una dintre cele mai faimoase cascade din Cipru, situată într-un defileu forestier pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de observație lângă cascada Caledonia, oferind vedere spre natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "text": "O cascadă în trepte lângă locul de picnic Mesa Potamos din Munții Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument ridicat în onoarea lui Andreas Paraskevas în regiunea montană de lângă cascade.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "Un punct de observație care oferă o vedere spre o carieră de azbest abandonată.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "O locație elevată cu vedere panoramică asupra orașului Limassol și a coastei.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Un lac mic și liniștit în natura din regiunea Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            },
+            {
+                  "name": "Persephone trail",
+                  "text": "Un traseu de drumeție care oferă vederi spectaculoase asupra vârfurilor Munților Troodos.",
+                  "category": "natural",
+                  "coords": [
+                        32.903735,
+                        34.908287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "One of Cyprus's most famous waterfalls, located in a picturesque forest gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A viewpoint near the Caledonia Waterfall offering views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Mesa Potamos waterfall",
+                  "text": "A cascading waterfall near the Mesa Potamos picnic area in the Troodos Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.907366,
+                        34.892776
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A memorial honoring Andreas Paraskevas in the mountain region near the waterfalls.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "View of abandoned asbestos quarry",
+                  "text": "A viewpoint providing a look at an abandoned asbestos quarry.",
+                  "category": "natural",
+                  "coords": [
+                        32.910466,
+                        34.90949
+                  ]
+            },
+            {
+                  "name": "View of Limassol",
+                  "text": "An elevated spot with panoramic views over the city of Limassol and the coast.",
+                  "category": "natural",
+                  "coords": [
+                        32.898221,
+                        34.900438
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A small, peaceful lake located in the nature of the Troodos region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            },
+            {
+                  "name": "Persephone trail",
+                  "text": "A hiking trail offering spectacular views of the Troodos Mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        32.903735,
+                        34.908287
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     coords: [32.88, 34.89],
@@ -6709,7 +16186,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le massif de Pentadaktylos (Kyrenia) est l'une des destinations de montagne les plus marquantes de Chypre.", "L'altitude et le climat créent des habitats variés.", "Les plantes et animaux endémiques sont ici particulièrement présents.", "Des sentiers balisés, des refuges et des points de vue facilitent l'accès.", "En été, les hauts plateaux sont une alternative fraîche à la côte.", "Pendant les mois d'hiver, il peut y avoir de la neige en altitude.", "Des villages et des tavernes autour de la montagne complètent l'expérience."],
     }, image: "/poi-images/landscape-pentadaktylos-mountains-extra.webp"},
   {
-    id: "landscape-asprokremmos-dam-extra",
+    id: "landscape-asprokremmos-dam-extra", "sights": {
+      "de": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Ein botanischer Themenpark, der die vielfältige Flora Zyperns zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "Eine antike Wassermühle, die als historisches Monument in Nikokleia erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Botanikus élménypark, amely Ciprus változatos növényvilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "Nikokleiában található, történelmi műemlékként megőrzött ősi vízimalom.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "Un parc tematic botanic ce prezintă flora diversă a Ciprului.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "O moară de apă antică păstrată ca monument istoric în Nikokleia.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eleouthikia park",
+                  "text": "A botanical theme park showcasing the diverse flora of Cyprus.",
+                  "category": "recreational",
+                  "coords": [
+                        32.528858,
+                        34.723061
+                  ]
+            },
+            {
+                  "name": "Nikokleia's Watermill (Ancient Monument)",
+                  "text": "An ancient watermill preserved as a historic monument in Nikokleia.",
+                  "category": "landmark",
+                  "coords": [
+                        32.578433,
+                        34.727979
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CY",
     coords: [32.55, 34.75],
@@ -6795,7 +16353,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Les Roches Blanches de Governor's Beach illustrent l'histoire de la Terre à Chypre.", "La tectonique et l'érosion ont façonné cette formation unique.", "Des panneaux expliquent les types de roches et les successions de couches.", "Les photographes apprécient les ambiances lumineuses particulières du site.", "Des sentiers balisés protègent les structures sensibles du piétinement.", "Des journées portes ouvertes scientifiques y sont parfois organisées.", "Le site offre un contraste appréciable avec les journées en ville ou à la plage."],
     }, image: "/poi-images/landscape-governor-s-beach-white-rocks-extra.webp"},
   {
-    id: "landscape-chantara-waterfall-foini-extra",
+    id: "landscape-chantara-waterfall-foini-extra", "sights": {
+      "de": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Socrates Traditional House ist ein Museum, das Einblicke in die traditionelle zypriotische Lebensweise bietet.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Das EOKA-Versteck von 1955-59 ist eine historische Stätte, die an den zyprischen Unabhängigkeitskampf erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kokkini ist ein malerischer Aussichtspunkt in der Nähe des Chantara-Wasserfalls mit Blick auf das Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein Denkmal zu Ehren von Andreas Paraskevas beim Chantara-Wasserfall.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein malerischer See in der Nähe des Chantara-Wasserfalls, der oft Schwäne beheimatet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "A Szókratész Hagyományos Ház egy múzeum, amely betekintést nyújt a hagyományos ciprusi életmódba.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Az 1955-59-es EOKA-rejtekhely egy történelmi helyszín, amely a ciprusi függetlenségi harcnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kokkini egy festői kilátópont a Chantara-vízesés közelében, kilátással a hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Andreas Paraskevas tiszteletére emelt emlékmű a Chantara-vízesésnél.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Festői tó a Chantara-vízesés közelében, amely gyakran hattyúknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Socrates Traditional House este un muzeu care oferă o incursiune în modul de viață tradițional cipriot.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "Ascunzătoarea EOKA din 1955-59 este un sit istoric ce comemorează lupta pentru independență a Ciprului.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kokkini este un punct de observație pitoresc lângă cascada Chantara, oferind vederi spre munți.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument în cinstea lui Andreas Paraskevas, situat la Cascada Chantara.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Un lac pitoresc lângă Cascada Chantara, unde pot fi văzute adesea lebede.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Socrates Traditional House",
+                  "text": "Socrates Traditional House is a museum offering insights into the traditional Cypriot way of life.",
+                  "category": "museum",
+                  "coords": [
+                        32.809476,
+                        34.848513
+                  ]
+            },
+            {
+                  "name": "EOKA Hideout 1955-59",
+                  "text": "The EOKA Hideout 1955-59 is a historical site commemorating the Cypriot struggle for independence.",
+                  "category": "museum",
+                  "coords": [
+                        32.81068,
+                        34.848508
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kokkini is a scenic viewpoint near Chantara Waterfall offering views of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A monument honoring Andreas Paraskevas located at the Chantara Waterfall.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A scenic lake near the Chantara Waterfall that often hosts swans.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     coords: [32.83, 34.88],
@@ -6881,7 +16628,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La forêt de Paphos est l'une des zones forestières les plus précieuses de Chypre sur le plan écologique.", "Le pin d'Alep, les chênes et le maquis caractérisent la végétation.", "Des routes forestières et des sentiers de randonnée permettent une découverte respectueuse de la zone.", "Des panneaux d'information expliquent la géologie, la flore et la faune sur place.", "En été, la forêt agit comme un système de climatisation naturelle.", "Des mesures de protection contre les incendies et de recherche sont systématiquement mises en œuvre.", "Des aires de pique-nique sont intégrées au site."],
     }, image: "/poi-images/landscape-pafos-forest-extra.webp"},
   {
-    id: "landscape-trooditissa-waterfall-extra",
+    id: "landscape-trooditissa-waterfall-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Einer der höchsten Wasserfälle Zyperns, gelegen im Troodos-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Ein Aussichtspunkt mit malerischem Blick auf die umliegende Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Ein Aussichtspunkt in den Bergen mit weitem Blick über die Region.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Ein lokales Denkmal, das dem Gedenken an Andreas Paraskevas gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Ein stillgelegtes Bergwerk, das einst dem Chromitabbau in der Troodos-Region diente.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Ein ruhiges Gewässer im Gebiet von Mesa Potamos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Ciprus egyik legmagasabb vízesése a Troodos-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Kilátópont, ahonnan festői kilátás nyílik a környező természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Hegyi kilátóhely, ahonnan széles kilátás nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Helyi emlékmű, amelyet Andreasz Paraszkevasz emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "Egy elhagyatott bánya, ahol egykor krómot bányásztak a Troodos-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "Nyugodt vízfelület Mesa Potamos területén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "Una dintre cele mai înalte cascade din Cipru, situată în Munții Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "Un punct de belvedere care oferă priveliști pitorești ale peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "Un punct de belvedere montan care oferă o perspectivă largă asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "Un monument local dedicat memoriei lui Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "chromium mine",
+                  "text": "O fostă mină folosită odată pentru extracția cromitului în regiunea Troodos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "O întindere de apă liniștită situată în zona Mesa Potamos.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaledonian Waterfalls",
+                  "text": "One of the highest waterfalls in Cyprus, located in the Troodos Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        32.870001,
+                        34.903055
+                  ]
+            },
+            {
+                  "name": "Kokkini",
+                  "text": "A viewpoint offering scenic vistas of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        32.829833,
+                        34.915452
+                  ]
+            },
+            {
+                  "name": "Gerokamina",
+                  "text": "A mountain viewpoint providing a broad outlook over the region.",
+                  "category": "natural",
+                  "coords": [
+                        32.860617,
+                        34.909247
+                  ]
+            },
+            {
+                  "name": "Andreas Paraskevas Memorial",
+                  "text": "A local monument dedicated to the memory of Andreas Paraskevas.",
+                  "category": "historical",
+                  "coords": [
+                        32.865512,
+                        34.888839
+                  ]
+            },
+            {
+                  "name": "Chromite mine",
+                  "text": "An abandoned mine site once used for extracting chromite in the Troodos region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.860436,
+                        34.924428
+                  ]
+            },
+            {
+                  "name": "Swan lake",
+                  "text": "A peaceful body of water located within the Mesa Potamos area.",
+                  "category": "landmark",
+                  "coords": [
+                        32.865335,
+                        34.871578
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     coords: [32.84, 34.9],
@@ -6958,7 +16930,88 @@ export const cyprusOtherPoi: POI[] = [
       en: ["The peninsula is approximately 80 km long and up to 15 km wide.", "Golden Beach is a major nesting site for the endangered Green Turtle.", "Apostolos Andreas Monastery is often called the 'Lourdes of Cyprus'.", "The region contains the ruins of the ancient city of Carpasia.", "There are roughly 1,000 wild donkeys living in the protected area.", "The area was designated as a National Park in the early 2000s.", "It is the easternmost point of the island of Cyprus.", "The peninsula features over 46 different types of wild orchids."],
     }, image: "/poi-images/landscape-karpasia-peninsula-extra.webp"},
   {
-    id: "landscape-evretou-dam-extra",
+    id: "landscape-evretou-dam-extra", "sights": {
+      "de": [
+            {
+                  "name": "Democracy building",
+                  "text": "Ein markantes Gebäude in der Nähe des Evretou-Staudamms.",
+                  "category": "landmark",
+                  "coords": [
+                        32.511528,
+                        34.995774
+                  ]
+            },
+            {
+                  "name": "White stone",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in der Nähe des Evretou-Staudamms.",
+                  "category": "natural",
+                  "coords": [
+                        32.51621,
+                        34.987271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Democracy building",
+                  "text": "Egy jellegzetes épület az Evretou-gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.511528,
+                        34.995774
+                  ]
+            },
+            {
+                  "name": "White stone",
+                  "text": "Kilátópont panorámás kilátással az Evretou-gát közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.51621,
+                        34.987271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Democracy building",
+                  "text": "O clădire proeminentă situată lângă barajul Evretou.",
+                  "category": "landmark",
+                  "coords": [
+                        32.511528,
+                        34.995774
+                  ]
+            },
+            {
+                  "name": "White stone",
+                  "text": "Un punct de belvedere cu vedere panoramică lângă barajul Evretou.",
+                  "category": "natural",
+                  "coords": [
+                        32.51621,
+                        34.987271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Democracy building",
+                  "text": "A prominent building located near the Evretou Dam.",
+                  "category": "landmark",
+                  "coords": [
+                        32.511528,
+                        34.995774
+                  ]
+            },
+            {
+                  "name": "White stone",
+                  "text": "A viewpoint with panoramic views near the Evretou Dam.",
+                  "category": "natural",
+                  "coords": [
+                        32.51621,
+                        34.987271
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CY",
     coords: [32.53, 34.97],
@@ -6996,7 +17049,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le barrage d'Evretou est un habitat vital pour les oiseaux d'eau.", "La salinité et le niveau d'eau varient nettement au fil de l'année.", "Les roselières et les vasières offrent nourriture et sites de nidification.", "Des points de vue permettent l'observation sans déranger la faune.", "De grands vols d'oiseaux sont visibles au printemps et en automne.", "La région est particulièrement intéressante pour la photographie.", "Le lac fait partie d'un concept de protection de la nature surveillé."],
     }, image: "/poi-images/landscape-evretou-dam-extra.webp"},
   {
-    id: "landscape-aderfi-forest-extra",
+    id: "landscape-aderfi-forest-extra", "sights": {
+      "de": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Ein spezielles Gehege zur Beobachtung von Mufflons im Adelfoi-Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Ein historisches Kloster in der malerischen Umgebung des Adelfoi-Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Speciális vadaskert muflonok megfigyelésére az Adelfoi-erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "Történelmi kolostor az Adelfoi-erdő festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "Un țarc special pentru observarea muflonilor în pădurea Adelfoi.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "text": "O mănăstire istorică situată în cadrul pitoresc al pădurii Adelfoi.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouflon Enclosure",
+                  "text": "A specialized enclosure for observing mouflons in the Adelfoi Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        32.930782,
+                        34.947761
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
+                  "text": "A historic monastery located within the scenic setting of the Adelfoi Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        32.950684,
+                        34.97435
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CY",
     coords: [32.95, 34.98],
@@ -7034,7 +17168,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La forêt d'Adelfoi est l'une des zones forestières les plus précieuses de Chypre sur le plan écologique.", "Le pin d'Alep, les chênes et le maquis caractérisent la végétation.", "Des routes forestières et des sentiers de randonnée permettent de découvrir la zone en douceur.", "Des panneaux d'affichage expliquent la géologie, la flore et la faune locales.", "La forêt agit comme une climatisation naturelle en été.", "Des mesures de protection contre les incendies et de recherche sont systématiquement mises en œuvre.", "Des aires de pique-nique sont intégrées dans le site."],
     }, image: "/poi-images/landscape-aderfi-forest-extra.webp"},
   {
-    id: "landscape-madari-peak-extra",
+    id: "landscape-madari-peak-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Ein Museum in der Nähe des Madari-Gipfels, das sich der traditionellen Volkskunst Zyperns widmet.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "Eine byzantinische Kirche aus dem 12. Jahrhundert, die zum UNESCO-Weltkulturerbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Ein Denkmal in der Madari-Region, das zum Gedenken an gefallene Soldaten errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Ein Aussichtspunkt auf dem Madari-Gipfel mit spektakulärem Blick über den Nordwesten Zyperns.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "text": "Eine bedeutende byzantinische Scheunendachkirche, die zum UNESCO-Weltkulturerbe zählt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.046979,
+                        34.979077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "A Madari-csúcs közelében található múzeum, amely Ciprus hagyományos népművészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "12. századi bizánci templom, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Emlékmű a Madari-régióban, amelyet az elesett katonák tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Kilátóhely a Madari-csúcson, ahonnan látványos panoráma nyílik Ciprus északnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "text": "Jelentős bizánci, fatetős templom, amely az UNESCO Világörökség listáján szerepel.",
+                  "category": "landmark",
+                  "coords": [
+                        33.046979,
+                        34.979077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "text": "Un muzeu situat lângă vârful Madari, dedicat artei populare tradiționale din Ciprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Παναγίας του Άρακα",
+                  "text": "O biserică bizantină din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Un monument în regiunea Madari, ridicat în memoria soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "Un punct de observație pe vârful Madari, oferind o vedere spectaculoasă asupra nord-vestului Ciprului.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "text": "O importantă biserică bizantină cu acoperiș de lemn, parte a patrimoniului mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        33.046979,
+                        34.979077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art",
+                  "text": "A museum near Madari Peak dedicated to the traditional folk art of Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.047589,
+                        34.945745
+                  ]
+            },
+            {
+                  "name": "Panagia tou Araka",
+                  "text": "A 12th-century Byzantine church and a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        33.007201,
+                        34.965445
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A memorial in the Madari region, erected in honor of fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        33.00813,
+                        34.963944
+                  ]
+            },
+            {
+                  "name": "View over north west Cyprus",
+                  "text": "A viewpoint on Madari Peak offering spectacular views over northwest Cyprus.",
+                  "category": "natural",
+                  "coords": [
+                        32.993982,
+                        34.958061
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross of Agiasmati",
+                  "text": "A significant Byzantine barn-roofed church and a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        33.046979,
+                        34.979077
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     coords: [33.02, 34.96],
@@ -7224,7 +17547,232 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le barrage de Kannaviou est un habitat vital pour les oiseaux d'eau.", "La salinité et le niveau d'eau varient nettement au fil de l'année.", "Les roselières et les vasières offrent nourriture et sites de nidification.", "Des points de vue permettent l'observation sans déranger la faune.", "De grands vols d'oiseaux sont visibles au printemps et en automne.", "La région est particulièrement intéressante pour la photographie.", "Le lac fait partie d'un concept de protection de la nature surveillé."],
     }, image: "/poi-images/landscape-kannaviou-dam-extra.webp"},
   {
-    id: "landscape-diarizos-river-extra",
+    id: "landscape-diarizos-river-extra", "sights": {
+      "de": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Ein bedeutendes chalkolithisches Gräberfeld am Fluss Diarizos.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Ein bedeutendes antikes Heiligtum, das der Göttin Aphrodite gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe des Flusses Diarizos.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Das Museum zeigt Funde aus der antiken Stadt Palaipafos.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "Ein Naturschutzgebiet in der Nähe des legendären Geburtsortes der Aphrodite.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Angriffsrampe und Tunnel",
+                  "text": "Überreste von antiken Belagerungsanlagen in der Nähe von Palaipafos.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Jelentős rézkori temetkezési hely a Diarizos-folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Aphrodité istennőnek szentelt jelentős ókori szentély.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Régészeti lelőhely a Diarizos-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "A múzeum az ókori Palaipafos városából származó leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "Természetvédelmi terület Aphrodité legendás születési helyének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Ókori ostromművek maradványai Palaipafos közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "Un sit funerar calcolitic important situat de-a lungul râului Diarizos.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Palaipaphos",
+                  "text": "Un important sanctuar antic dedicat zeiței Afrodita.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "Un sit arheologic situat în apropierea râului Diarizos.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "text": "Muzeul expune descoperiri din orașul antic Palaipafos.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "text": "O rezervație naturală situată lângă locul legendar de naștere al Afroditei.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Rămășițe ale unor structuri de asediu antice lângă Palaipafos.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souskiou-Vathyrkakas Cemetery",
+                  "text": "An important Chalcolithic cemetery site located along the Diarizos River.",
+                  "category": "historical",
+                  "coords": [
+                        32.586437,
+                        34.72425
+                  ]
+            },
+            {
+                  "name": "Sanctuary of the paphian Aphrodite",
+                  "text": "A major ancient sanctuary dedicated to the goddess Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        32.573279,
+                        34.706841
+                  ]
+            },
+            {
+                  "name": "Ligrin tou Digeni",
+                  "text": "An archaeological site located near the Diarizos River.",
+                  "category": "historical",
+                  "coords": [
+                        32.624028,
+                        34.690466
+                  ]
+            },
+            {
+                  "name": "Local Archaeological Museum of Palaipafos",
+                  "text": "The museum displays finds from the ancient city of Palaipafos.",
+                  "category": "museum",
+                  "coords": [
+                        32.573013,
+                        34.705917
+                  ]
+            },
+            {
+                  "name": "Petra tou Romiou National Forest Park",
+                  "text": "A nature reserve located near the legendary birthplace of Aphrodite.",
+                  "category": "natural",
+                  "coords": [
+                        32.621171,
+                        34.671501
+                  ]
+            },
+            {
+                  "name": "Siege ramp and tunnels",
+                  "text": "Remains of ancient siege works located near Palaipafos.",
+                  "category": "historical",
+                  "coords": [
+                        32.580936,
+                        34.711597
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CY",
     coords: [32.6, 34.7],
@@ -7262,7 +17810,196 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["La rivière Diarizos relie les régions montagneuses et la plaine côtière de Chypre.", "La source, le cours moyen et l'embouchure créent des habitats diversifiés.", "Les gorges et les forêts galeries servent de corridors écologiques.", "Des ponts, de vieux moulins et des systèmes d'irrigation jalonnent le parcours.", "En été, le niveau d'eau baisse, typiquement pour les rivières méditerranéennes.", "Les randonneurs et cyclistes trouvent des étapes pittoresques le long des rives.", "Le cours d'eau est un nerf vital central pour la région."],
     }, image: "/poi-images/landscape-diarizos-river-extra.webp"},
   {
-    id: "landscape-lefkara-dam-extra",
+    id: "landscape-lefkara-dam-extra", "sights": {
+      "de": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Museum für traditionelle Volkskunst und Handwerk in Lefkara.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Museum für lokale Honigproduktion und traditionelle Stickerei.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Museum über das ländliche Leben und traditionelle Werkzeuge in Kato Drys.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Traditionelles Hausmuseum, das die lokale Geschichte und Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ökologische Attraktion mit Fokus auf Bienenkunde und die lokale Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Lefkarai hagyományos népművészeti és kézműves múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A helyi méztermelésnek és a hagyományos hímzésnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "A vidéki életet és a hagyományos eszközöket bemutató múzeum Kato Drys-ben.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Hagyományos házmúzeum, amely a helyi történelmet és építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ökológiai látványosság, amely a méhekkel kapcsolatos ismeretterjesztésre és a természetre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "text": "Muzeu care prezintă arta populară și meșteșugurile tradiționale din Lefkara.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Muzeu dedicat producției locale de miere și broderiei tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Muzeu care expune viața rurală și unelte tradiționale în Kato Drys.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Casă muzeu tradițională care prezintă istoria și arhitectura locală.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Atracție ecologică axată pe educația despre albine și natura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
+                  "text": "Museum showcasing traditional folk art and crafts of Lefkara.",
+                  "category": "museum",
+                  "coords": [
+                        33.306159,
+                        34.865245
+                  ]
+            },
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Museum dedicated to local honey production and traditional embroidery.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Rural Museum of Kato Drys",
+                  "text": "Museum exhibiting rural life and traditional tools in Kato Drys.",
+                  "category": "museum",
+                  "coords": [
+                        33.305038,
+                        34.850742
+                  ]
+            },
+            {
+                  "name": "Chrisalkora Traditional House",
+                  "text": "Traditional house museum showcasing local history and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        33.307948,
+                        34.865303
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ecological attraction focusing on bee education and local nature.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CY",
     coords: [33.28, 34.87],
@@ -7376,7 +18113,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le pic Tripylos est l'une des destinations de montagne les plus marquantes de Chypre.", "L'altitude et le climat génèrent des habitats diversifiés.", "Les plantes et animaux endémiques y sont particulièrement présents.", "Des sentiers balisés, des refuges et des points de vue facilitent l'accès.", "En été, les hauts plateaux sont une alternative fraîche à la côte.", "Pendant les mois d'hiver, la neige peut faire son apparition sur les hauteurs.", "Les villages et tavernes autour de la montagne complètent l'expérience."],
     }, image: "/poi-images/landscape-tripylos-peak-extra.webp"},
   {
-    id: "landscape-kantara-castle-viewpoint-extra",
+    id: "landscape-kantara-castle-viewpoint-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kantara Burg",
+                  "text": "Eine mittelalterliche Burgruine in Zypern mit beeindruckender Aussicht.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe der Burg Kantara.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kantara Kalesi",
+                  "text": "Középkori várrom Cipruson, lenyűgöző kilátással.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "Helyi látnivaló a Kantara-vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kantara Kalesi",
+                  "text": "Ruinele unui castel medieval din Cipru cu vederi impresionante.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "O atracție locală situată în apropierea castelului Kantara.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kantara Castle",
+                  "text": "A medieval castle ruin in Cyprus with impressive panoramic views.",
+                  "category": "castle",
+                  "coords": [
+                        33.923253,
+                        35.406402
+                  ]
+            },
+            {
+                  "name": "Kaplca chipre",
+                  "text": "A local attraction located near the Kantara Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        33.918585,
+                        35.430989
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     coords: [33.9, 35.4],
@@ -7414,7 +18232,88 @@ export const cyprusOtherPoi: POI[] = [
       fr: ["Le point de vue du château de Kantara est l'un des monuments les plus célèbres de Chypre.", "Son architecture et sa valeur symbolique en font un lieu privilégié pour la photographie.", "Des panneaux et des visites guidées expliquent le contexte et les phases de construction.", "Des cafés et des points de vue à proximité invitent à la détente.", "L'accès est aisé en voiture, en bus ou à pied.", "Des travaux de conservation et d'entretien sont effectués régulièrement.", "Le site contribue de manière importante à l'identité régionale."],
     }, image: "/poi-images/landscape-kantara-castle-viewpoint-extra.webp"},
   {
-    id: "landscape-dipotamos-dam-extra",
+    id: "landscape-dipotamos-dam-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Ein Museum in der Nähe des Dipotamos-Damms, das die Traditionen der Imkerei und Stickerei auf Zypern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ein ökotouristisches Ausflugsziel, das Einblicke in die Bienenhaltung und die lokale Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Múzeum a Dipotamos-gát közelében, amely a ciprusi méhészet és hímzés hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "Ökoturisztikai kirándulóhely, amely betekintést nyújt a méhészetbe és a helyi természetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "Un muzeu lângă barajul Dipotamos, care prezintă tradițiile apiculturii și broderiei din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "O destinație de excursie ecoturistică, oferind informații despre apicultură și natura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bee & embroidery museum",
+                  "text": "A museum near the Dipotamos Dam, showcasing the traditions of beekeeping and embroidery in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.303697,
+                        34.850606
+                  ]
+            },
+            {
+                  "name": "Ecophysis Eco and Bee Tour",
+                  "text": "An eco-tourism destination offering insights into beekeeping and local nature.",
+                  "category": "landmark",
+                  "coords": [
+                        33.275851,
+                        34.840338
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CY",
     coords: [33.26, 34.85],
@@ -7462,7 +18361,160 @@ export const cyprusOtherPoi: POI[] = [
     },
   },
   {
-    id: "landscape-macheras-forest-extra",
+    id: "landscape-macheras-forest-extra", "sights": {
+      "de": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Ein Museum im Dorf Fikardou, das die traditionelle ländliche Architektur und Lebensweise Zyperns zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Ein Museum in der Nähe des Machairas-Klosters, das dem EOKA-Helden Grigoris Afxentiou gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Ein markanter Berggipfel im Gebiet des Machairas-Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Ein Aussichtspunkt, der weite Panoramablicke über den Machairas-Wald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Fikardou faluban található múzeum, amely Ciprus hagyományos vidéki építészetét és életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "A Machairas-kolostor közelében található múzeum, amelyet Grigoris Afxentiou EOKA-hős emlékének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Egy jelentős hegycsúcs a Machairas-erdő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a Machairas-erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "text": "Un muzeu din satul Fikardou care prezintă arhitectura rurală tradițională și modul de viață din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Γρηγόρης Αυξεντίου",
+                  "text": "Un muzeu situat lângă mănăstirea Machairas, dedicat eroului EOKA Grigoris Afxentiou.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Μαχαιράς",
+                  "text": "Un vârf montan proeminent situat în zona pădurii Machairas.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra pădurii Machairas.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikardou Rural Museum",
+                  "text": "A museum in Fikardou village showcasing traditional rural architecture and the way of life in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.171466,
+                        34.960126
+                  ]
+            },
+            {
+                  "name": "Grigoris Afxentiou",
+                  "text": "A museum located near the Machairas Monastery dedicated to the EOKA hero Grigoris Afxentiou.",
+                  "category": "museum",
+                  "coords": [
+                        33.192022,
+                        34.940594
+                  ]
+            },
+            {
+                  "name": "Kionia peak",
+                  "text": "A prominent mountain peak located within the Machairas Forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        33.191811,
+                        34.920343
+                  ]
+            },
+            {
+                  "name": "Kakokefalos View Point",
+                  "text": "A scenic vantage point offering panoramic views over the Machairas Forest.",
+                  "category": "natural",
+                  "coords": [
+                        33.204322,
+                        34.920397
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CY",
     coords: [33.18, 34.95],

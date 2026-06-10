@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const greeceLifeV2: POI[] = [
 
   {
-    id: "greece-mount-olympus-national-park-life-v2",
+    id: "greece-mount-olympus-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μύτικας",
+                  "text": "Der Mytikas ist der höchste Gipfel des Olymp-Massivs in Griechenland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μύτικας",
+                  "text": "A Mütikasz az Olümposz-hegység legmagasabb csúcsa Görögországban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μύτικας",
+                  "text": "Mytikas este cel mai înalt vârf al masivului Olimp din Grecia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mytikas",
+                  "text": "Mytikas is the highest peak of the Mount Olympus massif in Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Olymp", hu: "Olümposz Nemzeti Park", ro: "Parcul Național Olimp", en: "Mount Olympus National Park"},
@@ -49,7 +94,304 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
     },
     image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp",
 },  {
-    id: "greece-samaria-gorge-national-park-life-v2",
+    id: "greece-samaria-gorge-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Überreste einer historischen Befestigungsanlage im Nationalpark Samaria-Schlucht.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "Ein lokales Museum im Nationalpark Samaria-Schlucht, das der Natur und Geologie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Ein thematisches Museum zur Geschichte und Umwelt der Samaria-Schlucht.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "Eine venezianische Festungsanlage im Gebiet der Samaria-Schlucht auf Kreta.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Historische Festungsruinen oberhalb von Agia Roumeli im Nationalpark Samaria-Schlucht.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Samaria Nationalpark",
+                  "text": "Eines der bekanntesten Naturschutzgebiete Griechenlands mit einer beeindruckenden Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Volakias",
+                  "text": "Ein markanter Berggipfel in den Weißen Bergen in der Nähe der Samaria-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Ein Berggipfel im Nationalpark Samaria-Schlucht auf der Insel Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Egy történelmi erődítmény maradványai a Szamaria-szurdok Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "Helyi múzeum a Szamaria-szurdok Nemzeti Parkban, amely a természetnek és geológiának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Tematikus múzeum a Szamaria-szurdok történelméről és környezetéről.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "Velencei erődítmény a krétai Szamaria-szurdok területén.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Történelmi erődromok Agia Roumeli felett a Szamaria-szurdok Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "text": "Görögország egyik legismertebb természetvédelmi területe egy lenyűgöző szurdokkal.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Βολακιάς",
+                  "text": "Jellegzetes hegycsúcs a Fehér-hegységben, a Szamaria-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Hegycsúcs a Szamaria-szurdok Nemzeti Parkban, Kréta szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Rămășițele unei fortificații istorice în Parcul Național Cheile Samariei.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "Un muzeu local în Parcul Național Cheile Samariei, dedicat naturii și geologiei.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Un muzeu tematic despre istoria și mediul înconjurător al Cheilor Samariei.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "O fortificație venețiană situată în zona Cheilor Samariei din Creta.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Ruinele unei fortărețe istorice deasupra localității Agia Roumeli în Cheile Samariei.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "text": "Una dintre cele mai faimoase rezervații naturale din Grecia, cu un defileu impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Βολακιάς",
+                  "text": "Un vârf montan proeminent în Munții Albi, situat lângă Cheile Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Un vârf muntos în Parcul Național Cheile Samariei de pe insula Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Remains of a historical fortification located within the Samaria Gorge National Park.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "A local museum in the Samaria Gorge National Park dedicated to nature and geology.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "A thematic museum focused on the history and environment of the Samaria Gorge.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Koules Angelokambi",
+                  "text": "A Venetian fortification located in the area of the Samaria Gorge in Crete.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Historical fort ruins located above Agia Roumeli in the Samaria Gorge National Park.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Samaria National Park",
+                  "text": "One of Greece's most famous nature reserves, featuring an impressive gorge.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Volakiás",
+                  "text": "A prominent mountain peak in the White Mountains near the Samaria Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Psirístra",
+                  "text": "A mountain peak within the Samaria Gorge National Park on the island of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Samaria-Schlucht", hu: "Szamaria-szurdok Nemzeti Park", ro: "Parcul Național Cheile Samariei", en: "Samaria Gorge National Park"},
@@ -95,7 +437,52 @@ imageHint: "Samaria Gorge narrow passage Iron Gates",
     },
     image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp",
 },  {
-    id: "greece-alonissos-marine-park-life-v2",
+    id: "greece-alonissos-marine-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meeres-Nationalpark Alonissos-Nördliche Sporaden",
+                  "text": "Griechenlands erster Meeresnationalpark, Schutzgebiet für die Mittelmeer-Mönchsrobbe.",
+                  "category": "natural",
+                  "coords": [
+                        24.09587,
+                        39.266853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικό Θαλάσσιο Πάρκο Β. Σποράδων",
+                  "text": "Görögország első tengeri nemzeti parkja, a mediterrán barátfóka élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        24.09587,
+                        39.266853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικό Θαλάσσιο Πάρκο Β. Σποράδων",
+                  "text": "Primul parc național marin al Greciei, habitat protejat pentru foca-monah mediteraneană.",
+                  "category": "natural",
+                  "coords": [
+                        24.09587,
+                        39.266853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Marine Park of Alonissos, Northern Sporades (NMPANS)",
+                  "text": "Greece's first national marine park, protecting the Mediterranean monk seal.",
+                  "category": "natural",
+                  "coords": [
+                        24.09587,
+                        39.266853
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Meeresnationalpark Alonissos", hu: "Alonisszoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Alonissos", en: "Alonissos Marine Park"},
@@ -187,7 +574,52 @@ imageHint: "Loggerhead sea turtle Caretta caretta underwater",
     },
     image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp",
 },  {
-    id: "greece-lake-kerkini-life-v2",
+    id: "greece-lake-kerkini-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αγγελοχώρι (κινηματογραφικό χωριό)",
+                  "text": "Angelochori bei Lake Kerkini beherbergt Überreste historischer Siedlungen in einer naturnahen Umgebung.",
+                  "category": "historical",
+                  "coords": [
+                        23.182371,
+                        41.226157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αγγελοχώρι (κινηματογραφικό χωριό)",
+                  "text": "Angelochori a Kerkini-tó közelében történelmi településmaradványoknak ad otthont természetközeli környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        23.182371,
+                        41.226157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αγγελοχώρι (κινηματογραφικό χωριό)",
+                  "text": "Angelochori, lângă Lacul Kerkini, găzduiește vestigii ale unor așezări istorice într-un cadru natural.",
+                  "category": "historical",
+                  "coords": [
+                        23.182371,
+                        41.226157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Angelochori",
+                  "text": "Angelochori near Lake Kerkini houses remains of historical settlements in a natural setting.",
+                  "category": "historical",
+                  "coords": [
+                        23.182371,
+                        41.226157
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Kerkini-See", hu: "Kerkini-tó", ro: "Lacul Kerkini", en: "Lake Kerkini"},
@@ -233,7 +665,88 @@ imageHint: "Water buffalos in Lake Kerkini with birds",
     },
     image: "/poi-images/greece-lake-kerkini-life-v2.webp",
 },  {
-    id: "greece-vikos-aoos-national-park-life-v2",
+    id: "greece-vikos-aoos-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papingo",
+                  "text": "Ein Naturschutzgebiet in der Nähe des malerischen Dorfes Papingo im Vikos-Aoos-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        20.749806,
+                        39.989183
+                  ]
+            },
+            {
+                  "name": "Rogovos Becken",
+                  "text": "Natürliche Felsbecken mit klarem Wasser im Vikos-Aoos-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        20.725635,
+                        39.973752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πάπιγκο",
+                  "text": "Természetvédelmi terület a festői Papingo falu közelében a Vikos–Aóosz Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        20.749806,
+                        39.989183
+                  ]
+            },
+            {
+                  "name": "Οβίρες Ρογκοβού",
+                  "text": "Természetes sziklamedencék tiszta vízzel a Vikos–Aóosz Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.725635,
+                        39.973752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πάπιγκο",
+                  "text": "O rezervație naturală lângă satul pitoresc Papingo din Parcul Național Vikos-Aoos.",
+                  "category": "natural",
+                  "coords": [
+                        20.749806,
+                        39.989183
+                  ]
+            },
+            {
+                  "name": "Οβίρες Ρογκοβού",
+                  "text": "Bazine naturale din stâncă cu apă limpede în Parcul Național Vikos-Aoos.",
+                  "category": "landmark",
+                  "coords": [
+                        20.725635,
+                        39.973752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papingo",
+                  "text": "A nature reserve near the picturesque village of Papingo in the Vikos–Aoos National Park.",
+                  "category": "natural",
+                  "coords": [
+                        20.749806,
+                        39.989183
+                  ]
+            },
+            {
+                  "name": "Rogovos Basins",
+                  "text": "Natural rock pools with clear water located in the Vikos–Aoos National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        20.725635,
+                        39.973752
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Vikos-Aoos", hu: "Vikosz-Aóosz Nemzeti Park", ro: "Parcul Național Vikos-Aoos", en: "Vikos-Aoos National Park"},
@@ -279,7 +792,52 @@ imageHint: "Vikos Gorge viewpoint panoramic landscape",
     },
     image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp",
 },  {
-    id: "greece-dadia-forest-life-v2",
+    id: "greece-dadia-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο της Γκίμπραινας",
+                  "text": "Historische Burgruine im Dadia-Wald.",
+                  "category": "castle",
+                  "coords": [
+                        26.19069,
+                        41.111019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο της Γκίμπραινας",
+                  "text": "Történelmi várrom a Dadia-erdőben.",
+                  "category": "castle",
+                  "coords": [
+                        26.19069,
+                        41.111019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο της Γκίμπραινας",
+                  "text": "Ruinele unui castel istoric situat în pădurea Dadia.",
+                  "category": "castle",
+                  "coords": [
+                        26.19069,
+                        41.111019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Gimbrena",
+                  "text": "Historical castle ruins located within the Dadia Forest area.",
+                  "category": "castle",
+                  "coords": [
+                        26.19069,
+                        41.111019
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "forest",
     name: { de: "Wald von Dadia", hu: "Dadia-erdő", ro: "Pădurea Dadia", en: "Dadia Forest"},
@@ -371,7 +929,160 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
     },
     image: "/poi-images/greece-evros-delta-life-v2.webp",
 },  {
-    id: "greece-parnitha-national-park-life-v2",
+    id: "greece-parnitha-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Parnitha",
+                  "text": "Ein weitläufiger Nationalpark nördlich von Athen mit reicher Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Ein markanter Berggipfel im Parnitha-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Ein markanter Kreuzungspunkt im Parnitha-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Überreste historischer Gebäude im Parnitha-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Πάρνηθας",
+                  "text": "Kiterjedt nemzeti park Athéntól északra, gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Egy jellegzetes hegycsúcs a Parnitha Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Egy jellegzetes kereszteződés a Parnitha Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Történelmi épületek maradványai a Parnitha Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Πάρνηθας",
+                  "text": "Un parc național vast la nord de Atena, cu o floră și faună bogată.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Un vârf montan proeminent în Parcul Național Parnitha.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Un punct de trecere sau intersecție în Parcul Național Parnitha.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Rămășițele unor clădiri istorice din Parcul Național Parnitha.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Parnitha National Park",
+                  "text": "A vast national park north of Athens known for its rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Xerovouni",
+                  "text": "A prominent mountain peak within the Parnitha National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "A notable crossing point within the Parnitha National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ntrasiza",
+                  "text": "Remains of historical buildings in the Parnitha National Park.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Parnitha", hu: "Parnisza Nemzeti Park", ro: "Parcul Național Parnitha", en: "Parnitha National Park"},
@@ -417,7 +1128,232 @@ imageHint: "Red deer in the fir forest of Parnitha",
     },
     image: "/poi-images/greece-parnitha-national-park-life-v2.webp",
 },  {
-    id: "greece-rhodes-butterfly-valley-life-v2",
+    id: "greece-rhodes-butterfly-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gizani Fish Basin",
+                  "text": "Ein Schutzgebiet für die seltene Fischart Gizani auf Rhodos.",
+                  "category": "natural",
+                  "coords": [
+                        28.097117,
+                        36.311387
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "Ein Museum im Schmetterlingstal, das die lokale Flora und Fauna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.059922,
+                        36.340103
+                  ]
+            },
+            {
+                  "name": "Straußenfarm",
+                  "text": "Ein Tierpark auf Rhodos, der auf Strauße und andere Tiere spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045693,
+                        36.352112
+                  ]
+            },
+            {
+                  "name": "Schmetterlingstal",
+                  "text": "Ein berühmtes Naturtal auf Rhodos, bekannt für seine Schmetterlingspopulation.",
+                  "category": "landmark",
+                  "coords": [
+                        28.060294,
+                        36.338847
+                  ]
+            },
+            {
+                  "name": "Κοιλάδα της πεταλούδας",
+                  "text": "Ein malerisches Naturgebiet, das für seine Schmetterlinge bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.061896,
+                        36.337617
+                  ]
+            },
+            {
+                  "name": "Mega Dasos, Ano Kalamonas",
+                  "text": "Ein Informationspunkt für Besucher des Schmetterlingstals auf Rhodos.",
+                  "category": "landmark",
+                  "coords": [
+                        28.045249,
+                        36.315868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gizani Fish Basin",
+                  "text": "A ritka gizani hal védelmére létrehozott terület Rodoszon.",
+                  "category": "natural",
+                  "coords": [
+                        28.097117,
+                        36.311387
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "A Pillangók völgyében található, a helyi élővilágot bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        28.059922,
+                        36.340103
+                  ]
+            },
+            {
+                  "name": "Φάρμα Στρουθοκαμήλων",
+                  "text": "Struccokra és más állatokra specializálódott állatpark Rodoszon.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045693,
+                        36.352112
+                  ]
+            },
+            {
+                  "name": "Πεταλούδες",
+                  "text": "Híres természetvédelmi terület Rodoszon, amely pillangóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.060294,
+                        36.338847
+                  ]
+            },
+            {
+                  "name": "Κοιλάδα της πεταλούδας",
+                  "text": "Gleccservölgy jellegű terület, amely pillangóiról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        28.061896,
+                        36.337617
+                  ]
+            },
+            {
+                  "name": "Μέγα Δάσος, Άνω Καλαμώνας",
+                  "text": "Információs pont a rodoszi Pillangók völgyébe látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        28.045249,
+                        36.315868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gizani Fish Basin",
+                  "text": "O zonă protejată pentru specia rară de pești Gizani din Rodos.",
+                  "category": "natural",
+                  "coords": [
+                        28.097117,
+                        36.311387
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "Un muzeu în Valea Fluturilor care prezintă flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        28.059922,
+                        36.340103
+                  ]
+            },
+            {
+                  "name": "Φάρμα Στρουθοκαμήλων",
+                  "text": "Un parc zoologic din Rodos specializat în struți și alte animale.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045693,
+                        36.352112
+                  ]
+            },
+            {
+                  "name": "Πεταλούδες",
+                  "text": "O celebră vale naturală din Rodos, cunoscută pentru populația de fluturi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.060294,
+                        36.338847
+                  ]
+            },
+            {
+                  "name": "Κοιλάδα της πεταλούδας",
+                  "text": "O zonă naturală pitorească renumită pentru prezența fluturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        28.061896,
+                        36.337617
+                  ]
+            },
+            {
+                  "name": "Μέγα Δάσος, Άνω Καλαμώνας",
+                  "text": "Un punct de informare pentru vizitatorii Văii Fluturilor din Rodos.",
+                  "category": "landmark",
+                  "coords": [
+                        28.045249,
+                        36.315868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gizani Fish Basin",
+                  "text": "A protected area for the rare Gizani fish species on Rhodes.",
+                  "category": "natural",
+                  "coords": [
+                        28.097117,
+                        36.311387
+                  ]
+            },
+            {
+                  "name": "Museum of Natural History",
+                  "text": "A museum in the Butterfly Valley showcasing local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        28.059922,
+                        36.340103
+                  ]
+            },
+            {
+                  "name": "Rhodes Ostrich Farm & Park",
+                  "text": "A zoo on Rhodes specializing in ostriches and other animals.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045693,
+                        36.352112
+                  ]
+            },
+            {
+                  "name": "Petaloudes (Valley of the Butterflies)",
+                  "text": "A famous natural valley on Rhodes, known for its butterfly population.",
+                  "category": "landmark",
+                  "coords": [
+                        28.060294,
+                        36.338847
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley",
+                  "text": "A scenic natural area famous for its butterfly population.",
+                  "category": "landmark",
+                  "coords": [
+                        28.061896,
+                        36.337617
+                  ]
+            },
+            {
+                  "name": "Ano Kalamonas",
+                  "text": "An information point for visitors to the Butterfly Valley on Rhodes.",
+                  "category": "landmark",
+                  "coords": [
+                        28.045249,
+                        36.315868
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Schmetterlingstal von Rhodos", hu: "Pillangók völgye - Rodosz", ro: "Valea Fluturilor din Rodos", en: "Butterfly Valley of Rhodes"},
@@ -463,7 +1399,88 @@ imageHint: "Red deer in the fir forest of Parnitha",
     },
   },
   {
-    id: "greece-arcturos-bear-sanctuary-life-v2",
+    id: "greece-arcturos-bear-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Καταφύγιο Άγριας Ζωής \"Αρκτούρος\"",
+                  "text": "Ein Schutzzentrum, das sich dem Schutz von Braunbären und Wölfen widmet.",
+                  "category": "park",
+                  "coords": [
+                        21.503232,
+                        40.652356
+                  ]
+            },
+            {
+                  "name": "Οικία Παπαδόπουλου",
+                  "text": "Ein historisches Herrenhaus im Bereich des Arcturos-Schutzzentrums.",
+                  "category": "historical",
+                  "coords": [
+                        21.492043,
+                        40.645319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Καταφύγιο Άγριας Ζωής \"Αρκτούρος\"",
+                  "text": "Menedékhely, amely a barna medvék és farkasok védelmére irányul.",
+                  "category": "park",
+                  "coords": [
+                        21.503232,
+                        40.652356
+                  ]
+            },
+            {
+                  "name": "Οικία Παπαδόπουλου",
+                  "text": "Történelmi udvarház az Arcturos menedékhely területén.",
+                  "category": "historical",
+                  "coords": [
+                        21.492043,
+                        40.645319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Καταφύγιο Άγριας Ζωής \"Αρκτούρος\"",
+                  "text": "Un sanctuar dedicat protecției urșilor bruni și a lupilor.",
+                  "category": "park",
+                  "coords": [
+                        21.503232,
+                        40.652356
+                  ]
+            },
+            {
+                  "name": "Οικία Παπαδόπουλου",
+                  "text": "Un conac istoric situat în zona sanctuarului Arcturos.",
+                  "category": "historical",
+                  "coords": [
+                        21.492043,
+                        40.645319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arcturos",
+                  "text": "A sanctuary dedicated to the protection of brown bears and wolves.",
+                  "category": "park",
+                  "coords": [
+                        21.503232,
+                        40.652356
+                  ]
+            },
+            {
+                  "name": "Papadopoulos House",
+                  "text": "A historic manor house located within the Arcturos sanctuary area.",
+                  "category": "historical",
+                  "coords": [
+                        21.492043,
+                        40.645319
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Arcturos Bärenschutzzentrum", hu: "Arcturos Medveotthon", ro: "Sanctuarul de urși Arcturos", en: "Arcturos Brown Bear Sanctuary"},
@@ -509,7 +1526,88 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
     },
     image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp",
 },  {
-    id: "greece-attica-zoological-park-life-v2",
+    id: "greece-attica-zoological-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smart Playland",
+                  "text": "Ein Indoor-Spielplatz und Unterhaltungsbereich für Kinder beim Attica Zoological Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912859,
+                        37.984135
+                  ]
+            },
+            {
+                  "name": "Attica Park Aquapolis",
+                  "text": "Ein moderner Wasserpark neben dem Attica Zoological Park mit verschiedenen Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.911485,
+                        37.978673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smart Playland",
+                  "text": "Beltéri játszóház és szórakoztató központ gyermekeknek az Attika Állatkertnél.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912859,
+                        37.984135
+                  ]
+            },
+            {
+                  "name": "Attica Park Aquapolis",
+                  "text": "Az Attika Állatkert mellett található modern vízi park különféle csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        23.911485,
+                        37.978673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smart Playland",
+                  "text": "Un loc de joacă interior și zonă de divertisment pentru copii lângă Parcul Zoologic Attica.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912859,
+                        37.984135
+                  ]
+            },
+            {
+                  "name": "Attica Park Aquapolis",
+                  "text": "Un parc acvatic modern lângă Parcul Zoologic Attica, cu diverse tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        23.911485,
+                        37.978673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smart Playland",
+                  "text": "An indoor playground and entertainment area for children at the Attica Zoological Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912859,
+                        37.984135
+                  ]
+            },
+            {
+                  "name": "Attica Park Aquapolis",
+                  "text": "A modern water park adjacent to the Attica Zoological Park featuring various slides.",
+                  "category": "recreational",
+                  "coords": [
+                        23.911485,
+                        37.978673
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Attischer Zoologischer Park", hu: "Attikai Állatkert", ro: "Parcul Zoologic Attica", en: "Attica Zoological Park"},
@@ -555,7 +1653,52 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
     },
     image: "/poi-images/greece-attica-zoological-park-life-v2.webp",
 },  {
-    id: "greece-nestos-delta-life-v2",
+    id: "greece-nestos-delta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monastiraki Beach",
+                  "text": "Sandstrand in der Region des Nestos-Deltas.",
+                  "category": "recreational",
+                  "coords": [
+                        24.749693,
+                        40.8585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monastiraki Beach",
+                  "text": "Homokos tengerpart a Nesztosz-delta régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.749693,
+                        40.8585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monastiraki Beach",
+                  "text": "Plajă cu nisip situată în regiunea deltei Nestos.",
+                  "category": "recreational",
+                  "coords": [
+                        24.749693,
+                        40.8585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastiraki Beach",
+                  "text": "Sandy beach located in the Nestos Delta region.",
+                  "category": "recreational",
+                  "coords": [
+                        24.749693,
+                        40.8585
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Nestos-Delta", hu: "Nesztosz-delta", ro: "Delta Nestosului", en: "Nestos Delta"},
@@ -601,7 +1744,196 @@ imageHint: "Nestos river winding through green delta landscape",
     },
     image: "/poi-images/greece-nestos-delta-life-v2.webp",
 },  {
-    id: "greece-cretaquarium-life-v2",
+    id: "greece-cretaquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Watercity Waterpark",
+                  "text": "Ein großer Wasserpark auf Kreta mit zahlreichen Rutschen und Pools für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        25.250742,
+                        35.310928
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Νίρου",
+                  "text": "Eine Ausgrabungsstätte auf Kreta, die Überreste einer minoischen Villa und Zeremonienstätte zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        25.250834,
+                        35.330937
+                  ]
+            },
+            {
+                  "name": "Cretaquarium",
+                  "text": "Eines der größten Aquarien Europas, das die vielfältige Unterwasserwelt des Mittelmeers präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.282456,
+                        35.332276
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο της Αγίας Παρασκευής",
+                  "text": "Eine beeindruckende Höhle auf Kreta, die seit der Antike als religiöse Kultstätte genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.297591,
+                        35.304711
+                  ]
+            },
+            {
+                  "name": "Dinosauria park",
+                  "text": "Ein Themenpark auf Kreta mit lebensgroßen Dinosauriermodellen und lehrreichen Ausstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.287811,
+                        35.32681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Watercity Waterpark",
+                  "text": "Nagy vízipark Krétán, számos csúszdával és medencével az egész család számára.",
+                  "category": "recreational",
+                  "coords": [
+                        25.250742,
+                        35.310928
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Νίρου",
+                  "text": "Régészeti lelőhely Krétán, amely egy minószi villa és szertartási hely maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        25.250834,
+                        35.330937
+                  ]
+            },
+            {
+                  "name": "Cretaquarium",
+                  "text": "Európa egyik legnagyobb akváriuma, amely a Földközi-tenger változatos víz alatti világát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        25.282456,
+                        35.332276
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο της Αγίας Παρασκευής",
+                  "text": "Lenyűgöző barlang Krétán, amelyet az ókor óta vallási kultuszhelyként használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.297591,
+                        35.304711
+                  ]
+            },
+            {
+                  "name": "Dinosauria park",
+                  "text": "Tematikus park Krétán életnagyságú dinoszaurusz-modellekkel és oktató jellegű kiállításokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        25.287811,
+                        35.32681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Watercity Waterpark",
+                  "text": "Un parc acvatic mare din Creta, cu numeroase tobogane și piscine pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        25.250742,
+                        35.310928
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Νίρου",
+                  "text": "Un sit arheologic din Creta care prezintă rămășițele unei vile minoice și ale unui loc de ceremonii.",
+                  "category": "historical",
+                  "coords": [
+                        25.250834,
+                        35.330937
+                  ]
+            },
+            {
+                  "name": "Cretaquarium",
+                  "text": "Unul dintre cele mai mari acvarii din Europa, care prezintă diversitatea vieții marine din Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        25.282456,
+                        35.332276
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο της Αγίας Παρασκευής",
+                  "text": "O peșteră impresionantă din Creta, utilizată ca loc de cult religios încă din antichitate.",
+                  "category": "landmark",
+                  "coords": [
+                        25.297591,
+                        35.304711
+                  ]
+            },
+            {
+                  "name": "Dinosauria park",
+                  "text": "Un parc tematic din Creta cu modele de dinozauri în mărime naturală și expoziții educative.",
+                  "category": "landmark",
+                  "coords": [
+                        25.287811,
+                        35.32681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Watercity Waterpark",
+                  "text": "A large water park in Crete featuring numerous slides and pools for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        25.250742,
+                        35.310928
+                  ]
+            },
+            {
+                  "name": "Niros Archaeological Site",
+                  "text": "An archaeological site in Crete showing the remains of a Minoan villa and ceremonial site.",
+                  "category": "historical",
+                  "coords": [
+                        25.250834,
+                        35.330937
+                  ]
+            },
+            {
+                  "name": "Cretaquarium",
+                  "text": "One of the largest aquariums in Europe, showcasing the diverse marine life of the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        25.282456,
+                        35.332276
+                  ]
+            },
+            {
+                  "name": "Agia Paraskevi Cave at Skotino",
+                  "text": "An impressive cave in Crete that has been used as a place of religious worship since ancient times.",
+                  "category": "landmark",
+                  "coords": [
+                        25.297591,
+                        35.304711
+                  ]
+            },
+            {
+                  "name": "Dinosauria park",
+                  "text": "A theme park in Crete featuring life-size dinosaur models and educational exhibits.",
+                  "category": "landmark",
+                  "coords": [
+                        25.287811,
+                        35.32681
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "museum",
     name: { de: "Cretaquarium", hu: "Krétai Akvárium", ro: "Acvariul din Creta", en: "Crete Aquarium"},
@@ -647,7 +1979,52 @@ imageHint: "Large shark swimming in Cretaquarium tank",
     },
     image: "/poi-images/greece-cretaquarium-life-v2.webp",
 },  {
-    id: "greece-ainos-national-park-life-v2",
+    id: "greece-ainos-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Enos",
+                  "text": "Ein Nationalpark auf Kefalonia, der die einzigartige griechische Tanne schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.64704,
+                        38.160744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Αίνου",
+                  "text": "Nemzeti park Kefalónián, amely az egyedülálló görög jegenyefenyőt védi.",
+                  "category": "natural",
+                  "coords": [
+                        20.64704,
+                        38.160744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Αίνου",
+                  "text": "Un parc național în Kefalonia, care protejează bradul grecesc unic.",
+                  "category": "natural",
+                  "coords": [
+                        20.64704,
+                        38.160744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Ainos National Park",
+                  "text": "A national park on Kefalonia, protecting the unique Greek fir trees.",
+                  "category": "natural",
+                  "coords": [
+                        20.64704,
+                        38.160744
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Ainos", hu: "Enosz Nemzeti Park", ro: "Parcul Național Ainos", en: "Ainos National Park"},
@@ -693,7 +2070,160 @@ imageHint: "Ancient Greek fir forest on Mount Ainos",
     },
     image: "/poi-images/greece-ainos-national-park-life-v2.webp",
 },  {
-    id: "greece-amvrakikos-gulf-life-v2",
+    id: "greece-amvrakikos-gulf-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Kopraina",
+                  "text": "Dieser historische Leuchtturm befindet sich an den Ufern des Amvrakischen Golfs.",
+                  "category": "landmark",
+                  "coords": [
+                        21.075629,
+                        39.02984
+                  ]
+            },
+            {
+                  "name": "Traganas Bucht",
+                  "text": "Eine malerische Bucht in der Region des Amvrakischen Golfs.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052502,
+                        39.022149
+                  ]
+            },
+            {
+                  "name": "Arapissas Bucht",
+                  "text": "Eine natürliche Bucht mit Küstenausblick im Bereich des Amvrakischen Golfs.",
+                  "category": "landmark",
+                  "coords": [
+                        21.065855,
+                        39.031048
+                  ]
+            },
+            {
+                  "name": "Naturkundemuseum Arachthos - Artas",
+                  "text": "Ein Museum, das der Naturgeschichte des Flusses Arachthos und der umliegenden Region gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.07425,
+                        39.038704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Φάρος Κόπραινας",
+                  "text": "Ez a történelmi világítótorony az Amvrakikoszi-öböl partján található.",
+                  "category": "landmark",
+                  "coords": [
+                        21.075629,
+                        39.02984
+                  ]
+            },
+            {
+                  "name": "Όρμος Τραγάνας",
+                  "text": "Egy festői öböl az Amvrakikoszi-öböl térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052502,
+                        39.022149
+                  ]
+            },
+            {
+                  "name": "Όρμος Αράπισσας",
+                  "text": "Egy természetes öböl az Amvrakikoszi-öböl területén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.065855,
+                        39.031048
+                  ]
+            },
+            {
+                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Αράχθου- Άρτας",
+                  "text": "Az Arachthos-folyó és a környező régió természetrajzát bemutató múzeum.",
+                  "category": "landmark",
+                  "coords": [
+                        21.07425,
+                        39.038704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Φάρος Κόπραινας",
+                  "text": "Acest far istoric este situat pe țărmul Golfului Amvrakikos.",
+                  "category": "landmark",
+                  "coords": [
+                        21.075629,
+                        39.02984
+                  ]
+            },
+            {
+                  "name": "Όρμος Τραγάνας",
+                  "text": "Un golf pitoresc situat în regiunea Golfului Amvrakikos.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052502,
+                        39.022149
+                  ]
+            },
+            {
+                  "name": "Όρμος Αράπισσας",
+                  "text": "Un golf natural care oferă vederi spre coastă în zona Golfului Amvrakikos.",
+                  "category": "landmark",
+                  "coords": [
+                        21.065855,
+                        39.031048
+                  ]
+            },
+            {
+                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Αράχθου- Άρτας",
+                  "text": "Un muzeu dedicat istoriei naturale a râului Arachthos și a regiunii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        21.07425,
+                        39.038704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse Kopraina",
+                  "text": "This historic lighthouse is located on the shores of the Amvrakikos Gulf.",
+                  "category": "landmark",
+                  "coords": [
+                        21.075629,
+                        39.02984
+                  ]
+            },
+            {
+                  "name": "Traganas Bay",
+                  "text": "A scenic bay located within the Amvrakikos Gulf region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052502,
+                        39.022149
+                  ]
+            },
+            {
+                  "name": "Arapissas Bay",
+                  "text": "A natural bay providing coastal views in the Amvrakikos Gulf area.",
+                  "category": "landmark",
+                  "coords": [
+                        21.065855,
+                        39.031048
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Arachthos - Artas",
+                  "text": "A museum dedicated to the natural history of the Arachthos river and the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.07425,
+                        39.038704
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Amvrakischer Golf", hu: "Amvrakikosz-öböl", ro: "Golful Amvrakikos", en: "Amvrakikos Gulf"},
@@ -877,7 +2407,52 @@ imageHint: "Lush green paths in the National Garden of Athens",
     },
     image: "/poi-images/greece-athens-national-garden-life-v2.webp",
 },  {
-    id: "greece-parnassus-national-park-life-v2",
+    id: "greece-parnassus-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "Ein Naturschutzgebiet im Parnass-Nationalpark, das für seine alpine Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "Természetvédelmi terület a Parnasszosz Nemzeti Parkban, amely alpesi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "O rezervație naturală în Parcul Național Parnassus, cunoscută pentru peisajele sale alpine.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asprochoma - Psilo - Prondoli - Kelari (Arachovas)",
+                  "text": "A nature reserve within the Parnassus National Park, known for its alpine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Parnass", hu: "Parnasszosz Nemzeti Park", ro: "Parcul Național Parnassus", en: "Parnassus National Park"},
@@ -923,7 +2498,196 @@ imageHint: "Lush green paths in the National Garden of Athens",
     },
   },
   {
-    id: "greece-vravrona-wetland-life-v2", "sights": {"de": [{"name": "Agios Spyridonas Beach", "text": "In der Nähe des Vravrona Wetland gelegen, stellt Agios Spyridonas Beach einen reizvollen lokalen Badestrand in Markopoulo Mesogaias dar. Besucher können sich am griechischen Gewässer erfrischen und die angenehme Küstenatmosphäre auf sich wirken lassen. Der Strand eignet sich gut, um nach einer Erkundung der nahegelegenen Naturgebiete etwas zu ents বিবেচনায়.", "category": "recreational", "coords": [24.024752, 37.891443]}], "hu": [{"name": "Agios Spyridonas Beach", "text": "A Vravrona vizes élőhely közelében fekvő Agios Spyridonas Beach egy vonzó helyi fürdőstrand Markopoulo Mesogaias térségében. A látogatók felfrissülhetnek a görög vizekben, és átadhatják magukat a kellemes tengerparti hangulatnak. A strand remekül megfelel egy kis lazításra a közeli természeti területek felfedezése után.", "category": "recreational", "coords": [24.024752, 37.891443]}], "ro": [{"name": "Agios Spyridonas Beach", "text": "Situată în apropiere de zonele umede din Vravrona, plaja Agios Spyridonas este o plajă locală atrăgătoare pentru înot în Markopoulo Mesogaias. Vizitatorii se pot răcori în apele grecești și se pot lăsa cuprinși de atmosfera plăcută a coastei. Plaja este potrivită pentru a vă relaxa după ce ați explorat zonele naturale din apropiere.", "category": "recreational", "coords": [24.024752, 37.891443]}], "en": [{"name": "Agios Spyridonas Beach", "text": "Located near the Vravrona Wetland, Agios Spyridonas Beach serves as an appealing local swimming spot in Markopoulo Mesogaias. Visitors can cool off in the Greek waters and absorb the pleasant coastal atmosphere. The beach is a fine place to unwind after exploring the nearby natural reserves.", "category": "recreational", "coords": [24.024752, 37.891443]}]},
+    id: "greece-vravrona-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "In der Nähe des Vravrona Wetland gelegen, stellt Agios Spyridonas Beach einen reizvollen lokalen Badestrand in Markopoulo Mesogaias dar. Besucher können sich am griechischen Gewässer erfrischen und die angenehme Küstenatmosphäre auf sich wirken lassen. Der Strand eignet sich gut, um nach einer Erkundung der nahegelegenen Naturgebiete etwas zu ents বিবেচনায়.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "text": "Museum mit Fundstücken aus dem antiken Heiligtum der Artemis in Brauron.",
+                  "category": "museum",
+                  "coords": [
+                        23.997031,
+                        37.924553
+                  ]
+            },
+            {
+                  "name": "Stoa of Artemis at Brauron",
+                  "text": "Überreste der antiken Säulenhalle im Heiligtum der Artemis in Brauron.",
+                  "category": "historical",
+                  "coords": [
+                        23.993602,
+                        37.926275
+                  ]
+            },
+            {
+                  "name": "Beach Vravrona",
+                  "text": "Ein schöner Sandstrand in der Nähe der archäologischen Stätte von Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013158,
+                        37.936974
+                  ]
+            },
+            {
+                  "name": "Αρχαία Βραυρώνα",
+                  "text": "Bedeutende archäologische Ausgrabungsstätte eines antiken Heiligtums der Artemis.",
+                  "category": "historical",
+                  "coords": [
+                        23.995213,
+                        37.924163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "A Vravrona vizes élőhely közelében fekvő Agios Spyridonas Beach egy vonzó helyi fürdőstrand Markopoulo Mesogaias térségében. A látogatók felfrissülhetnek a görög vizekben, és átadhatják magukat a kellemes tengerparti hangulatnak. A strand remekül megfelel egy kis lazításra a közeli természeti területek felfedezése után.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "text": "A brauroni Artemisz-szentélyből származó leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.997031,
+                        37.924553
+                  ]
+            },
+            {
+                  "name": "Stoa of Artemis at Brauron",
+                  "text": "Az ókori Artemisz-szentély oszlopcsarnokának maradványai Brauronban.",
+                  "category": "historical",
+                  "coords": [
+                        23.993602,
+                        37.926275
+                  ]
+            },
+            {
+                  "name": "Beach Vravrona",
+                  "text": "Kellemes homokos tengerpart Vravrona régészeti lelőhelyének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013158,
+                        37.936974
+                  ]
+            },
+            {
+                  "name": "Αρχαία Βραυρώνα",
+                  "text": "Jelentős régészeti lelőhely, amely egy ókori Artemisz-szentélynek adott otthont.",
+                  "category": "historical",
+                  "coords": [
+                        23.995213,
+                        37.924163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Situată în apropiere de zonele umede din Vravrona, plaja Agios Spyridonas este o plajă locală atrăgătoare pentru înot în Markopoulo Mesogaias. Vizitatorii se pot răcori în apele grecești și se pot lăsa cuprinși de atmosfera plăcută a coastei. Plaja este potrivită pentru a vă relaxa după ce ați explorat zonele naturale din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "text": "Muzeu care expune artefacte descoperite în sanctuarul antic al Artemidei din Brauron.",
+                  "category": "museum",
+                  "coords": [
+                        23.997031,
+                        37.924553
+                  ]
+            },
+            {
+                  "name": "Stoa of Artemis at Brauron",
+                  "text": "Vestigiile porticului antic din sanctuarul Artemidei de la Brauron.",
+                  "category": "historical",
+                  "coords": [
+                        23.993602,
+                        37.926275
+                  ]
+            },
+            {
+                  "name": "Beach Vravrona",
+                  "text": "O plajă frumoasă de nisip situată în apropierea sitului arheologic Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013158,
+                        37.936974
+                  ]
+            },
+            {
+                  "name": "Αρχαία Βραυρώνα",
+                  "text": "Important sit arheologic ce cuprinde vestigiile unui vechi sanctuar dedicat Artemidei.",
+                  "category": "historical",
+                  "coords": [
+                        23.995213,
+                        37.924163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Located near the Vravrona Wetland, Agios Spyridonas Beach serves as an appealing local swimming spot in Markopoulo Mesogaias. Visitors can cool off in the Greek waters and absorb the pleasant coastal atmosphere. The beach is a fine place to unwind after exploring the nearby natural reserves.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Brauron",
+                  "text": "Museum housing finds from the ancient sanctuary of Artemis at Brauron.",
+                  "category": "museum",
+                  "coords": [
+                        23.997031,
+                        37.924553
+                  ]
+            },
+            {
+                  "name": "Stoa of Artemis at Brauron",
+                  "text": "Remains of the ancient stoa within the sanctuary of Artemis at Brauron.",
+                  "category": "historical",
+                  "coords": [
+                        23.993602,
+                        37.926275
+                  ]
+            },
+            {
+                  "name": "Beach Vravrona",
+                  "text": "A pleasant sandy beach located near the archaeological site of Vravrona.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013158,
+                        37.936974
+                  ]
+            },
+            {
+                  "name": "Ancient Brauron",
+                  "text": "Significant archaeological site featuring the remains of an ancient sanctuary of Artemis.",
+                  "category": "historical",
+                  "coords": [
+                        23.995213,
+                        37.924163
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Feuchtgebiet von Vravrona", hu: "Vravronai vizes élőhely", ro: "Zona umedă Vravrona", en: "Vravrona Wetland"},
@@ -969,7 +2733,304 @@ imageHint: "Marshy wetland area near the sea coast",
     },
     image: "/poi-images/greece-vravrona-wetland-life-v2.webp",
 },  {
-    id: "greece-archelon-rescue-centre-life-v2",
+    id: "greece-archelon-rescue-centre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voula Beach",
+                  "text": "Ein malerischer Küstenabschnitt in der Nähe der Auffangstation für Meeresschildkröten.",
+                  "category": "recreational",
+                  "coords": [
+                        23.750389,
+                        37.849764
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Β",
+                  "text": "Ein breiter Sandstrand im Stadtteil Glyfada, der beliebt zum Schwimmen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.73616,
+                        37.868886
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Α",
+                  "text": "Ein bekannter Stadtstrand, der verschiedene Annehmlichkeiten für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732348,
+                        37.873525
+                  ]
+            },
+            {
+                  "name": "Balux - The house project",
+                  "text": "Ein moderner Strandkomplex, der Freizeit- und Erholungsdienste anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.75008,
+                        37.857063
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Γ",
+                  "text": "Ein Küstengebiet in Glyfada, das für seine Zugänglichkeit und Einrichtungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740428,
+                        37.865325
+                  ]
+            },
+            {
+                  "name": "Πάρκο Εμπειρίας Ελληνικού",
+                  "text": "Ein innovativer Stadtpark mit Grünflächen und interaktiven Installationen.",
+                  "category": "park",
+                  "coords": [
+                        23.737281,
+                        37.89574
+                  ]
+            },
+            {
+                  "name": "Sea-Turtle Rescue Centre",
+                  "text": "Eine spezielle Einrichtung für die Rehabilitation und den Schutz von Meeresschildkröten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.741774,
+                        37.863737
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωνσταντίνος",
+                  "text": "Eine lokale Kirche oder Gebetsstätte in der Küstenregion.",
+                  "category": "religious",
+                  "coords": [
+                        23.745574,
+                        37.864963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Voula Beach",
+                  "text": "Festői tengerparti szakasz a tengeriteknős-mentő központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.750389,
+                        37.849764
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Β",
+                  "text": "Széles homokos strand Glyfada negyedében, kedvelt fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        23.73616,
+                        37.868886
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Α",
+                  "text": "Jelentős városi strand, amely különféle szolgáltatásokat kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732348,
+                        37.873525
+                  ]
+            },
+            {
+                  "name": "Balux - The house project",
+                  "text": "Modern strandkomplexum, amely szabadidős és rekreációs szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.75008,
+                        37.857063
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Γ",
+                  "text": "Tengerparti terület Glyfada városában, amely akadálymentességéről és létesítményeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740428,
+                        37.865325
+                  ]
+            },
+            {
+                  "name": "Πάρκο Εμπειρίας Ελληνικού",
+                  "text": "Innovatív városi park zöldfelületekkel és interaktív installációkkal.",
+                  "category": "park",
+                  "coords": [
+                        23.737281,
+                        37.89574
+                  ]
+            },
+            {
+                  "name": "Sea-Turtle Rescue Centre",
+                  "text": "A tengeri teknősök rehabilitációjával és védelmével foglalkozó létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        23.741774,
+                        37.863737
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωνσταντίνος",
+                  "text": "Helyi templom vagy istentiszteleti hely a tengerparti régióban.",
+                  "category": "religious",
+                  "coords": [
+                        23.745574,
+                        37.864963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Voula Beach",
+                  "text": "O porțiune pitorească de coastă situată lângă facilitățile de salvare a țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.750389,
+                        37.849764
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Β",
+                  "text": "O plajă largă de nisip în districtul Glyfada, populară pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        23.73616,
+                        37.868886
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Α",
+                  "text": "O plajă urbană proeminentă care oferă diverse facilități pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732348,
+                        37.873525
+                  ]
+            },
+            {
+                  "name": "Balux - The house project",
+                  "text": "Un complex modern de plajă care oferă servicii de agrement și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.75008,
+                        37.857063
+                  ]
+            },
+            {
+                  "name": "Παραλία Γλυφάδας Ακτή Γ",
+                  "text": "O zonă de coastă din Glyfada cunoscută pentru accesibilitate și facilități.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740428,
+                        37.865325
+                  ]
+            },
+            {
+                  "name": "Πάρκο Εμπειρίας Ελληνικού",
+                  "text": "Un parc urban inovator, cu spații verzi și instalații interactive.",
+                  "category": "park",
+                  "coords": [
+                        23.737281,
+                        37.89574
+                  ]
+            },
+            {
+                  "name": "Sea-Turtle Rescue Centre",
+                  "text": "O unitate dedicată reabilitării și protecției țestoaselor marine.",
+                  "category": "landmark",
+                  "coords": [
+                        23.741774,
+                        37.863737
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωνσταντίνος",
+                  "text": "O biserică locală sau lăcaș de cult situat în regiunea de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        23.745574,
+                        37.864963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Voula Beach",
+                  "text": "A scenic coastal stretch near the sea turtle rescue facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        23.750389,
+                        37.849764
+                  ]
+            },
+            {
+                  "name": "2nd Glyfada Beach",
+                  "text": "A wide sandy beach in the Glyfada district popular for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        23.73616,
+                        37.868886
+                  ]
+            },
+            {
+                  "name": "1st Glyfada Beach",
+                  "text": "A prominent urban beach offering various amenities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732348,
+                        37.873525
+                  ]
+            },
+            {
+                  "name": "Balux - The house project",
+                  "text": "A modern beach complex providing leisure and recreational services.",
+                  "category": "recreational",
+                  "coords": [
+                        23.75008,
+                        37.857063
+                  ]
+            },
+            {
+                  "name": "3rd Glyfada Beach",
+                  "text": "A coastal area in Glyfada known for its accessibility and facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        23.740428,
+                        37.865325
+                  ]
+            },
+            {
+                  "name": "The Ellinikon Experience Park",
+                  "text": "An innovative urban park featuring green spaces and interactive installations.",
+                  "category": "park",
+                  "coords": [
+                        23.737281,
+                        37.89574
+                  ]
+            },
+            {
+                  "name": "Sea-Turtle Rescue Centre",
+                  "text": "A dedicated facility for the rehabilitation and protection of sea turtles.",
+                  "category": "landmark",
+                  "coords": [
+                        23.741774,
+                        37.863737
+                  ]
+            },
+            {
+                  "name": "Agios Konstantinos",
+                  "text": "A local church or place of worship situated in the coastal region.",
+                  "category": "religious",
+                  "coords": [
+                        23.745574,
+                        37.864963
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Archelon Schildkröten-Rettungszentrum", hu: "Archelon Teknősmentő Központ", ro: "Centrul de salvare Archelon", en: "Archelon Sea Turtle Rescue Centre"},
@@ -1015,7 +3076,88 @@ imageHint: "Sea turtle being treated in a rescue tank",
     },
     image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp",
 },  {
-    id: "greece-rodopi-national-park-life-v2",
+    id: "greece-rodopi-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αυγό",
+                  "text": "Überreste einer historischen Siedlung im Rhodopen-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        24.459809,
+                        41.455419
+                  ]
+            },
+            {
+                  "name": "Φαρασσηνό",
+                  "text": "Die Ruinen eines verlassenen Dorfes inmitten der unberührten Natur der Rhodopen.",
+                  "category": "historical",
+                  "coords": [
+                        24.51692,
+                        41.459114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αυγό",
+                  "text": "Egy történelmi település maradványai a Rodope-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        24.459809,
+                        41.455419
+                  ]
+            },
+            {
+                  "name": "Φαρασσηνό",
+                  "text": "Egy elhagyatott falu romjai a Rodope érintetlen természetében.",
+                  "category": "historical",
+                  "coords": [
+                        24.51692,
+                        41.459114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αυγό",
+                  "text": "Rămășițele unei așezări istorice în munții Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.459809,
+                        41.455419
+                  ]
+            },
+            {
+                  "name": "Φαρασσηνό",
+                  "text": "Ruinele unui sat părăsit în mijlocul naturii virgine din Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.51692,
+                        41.459114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avgo (Tomal)",
+                  "text": "The remains of a historical settlement in the Rhodope Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        24.459809,
+                        41.455419
+                  ]
+            },
+            {
+                  "name": "Farassino (Leshten)",
+                  "text": "The ruins of an abandoned village amidst the untouched nature of the Rhodopes.",
+                  "category": "historical",
+                  "coords": [
+                        24.51692,
+                        41.459114
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Rhodopen", hu: "Rodopé Nemzeti Park", ro: "Parcul Național Rodopi", en: "Rodopi Mountain Range National Park"},
@@ -1107,7 +3249,52 @@ imageHint: "Art deco building of the Rhodes aquarium by the sea",
     },
     image: "/poi-images/greece-rhodes-aquarium-life-v2.webp",
 },  {
-    id: "greece-oeta-national-park-life-v2",
+    id: "greece-oeta-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Iti",
+                  "text": "Ein Informationszentrum und Waldpark im Oiti-Nationalpark, das über die lokale Flora und Fauna informiert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Οίτης",
+                  "text": "Információs központ és erdei park az Oiti Nemzeti Parkban, amely a helyi élővilágot mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Οίτης",
+                  "text": "Un parc forestier și centru de informare în Parcul Național Oiti, oferind detalii despre flora și fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oiti National Woodland Park",
+                  "text": "An information center and woodland park in the Oeta National Park, providing details on local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Oeta", hu: "Oiti Nemzeti Park", ro: "Parcul Național Oeta", en: "Oeta National Park"},
@@ -1153,7 +3340,304 @@ imageHint: "Balkan chamois on a rocky mountain slope",
     },
     image: "/poi-images/greece-oeta-national-park-life-v2.webp",
 },  {
-    id: "greece-sounion-national-park-life-v2",
+    id: "greece-sounion-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanctuary of Athena",
+                  "text": "Die Überreste eines antiken griechischen Heiligtums für die Göttin Athene in Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.026974,
+                        37.652956
+                  ]
+            },
+            {
+                  "name": "Πύργος της Βασιλοπούλας",
+                  "text": "Eine archäologische Stätte mit den Überresten eines antiken Turms oder Wirtschaftsgebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        24.027818,
+                        37.6702
+                  ]
+            },
+            {
+                  "name": "Ναός Ποσειδώνα",
+                  "text": "Ein berühmter antiker griechischer Tempel für Poseidon auf den Klippen von Kap Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.024633,
+                        37.650292
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sounio",
+                  "text": "Das gesamte archäologische Areal am Kap Sounion mit antiken Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        24.0235,
+                        37.651633
+                  ]
+            },
+            {
+                  "name": "Unofficial Nudist Beach",
+                  "text": "Ein Strandabschnitt im Sounion-Nationalpark, der für informelle FKK-Nutzung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.977765,
+                        37.659874
+                  ]
+            },
+            {
+                  "name": "Cliff tower/farm (Attica)",
+                  "text": "Überreste eines antiken befestigten Bauernhofs oder Turms auf der Halbinsel Attika.",
+                  "category": "historical",
+                  "coords": [
+                        24.02683,
+                        37.67571
+                  ]
+            },
+            {
+                  "name": "Legrena",
+                  "text": "Ein beliebter Sandstrand im Gebiet des Sounion-Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983409,
+                        37.661247
+                  ]
+            },
+            {
+                  "name": "Sounion Beach",
+                  "text": "Ein malerischer Strand in der Nähe der antiken archäologischen Stätte von Sounion.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024738,
+                        37.65417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanctuary of Athena",
+                  "text": "Athéna istennőnek szentelt ókori görög szentély maradványai Szúnionban.",
+                  "category": "historical",
+                  "coords": [
+                        24.026974,
+                        37.652956
+                  ]
+            },
+            {
+                  "name": "Πύργος της Βασιλοπούλας",
+                  "text": "Régészeti lelőhely egy ókori torony vagy gazdasági épület maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        24.027818,
+                        37.6702
+                  ]
+            },
+            {
+                  "name": "Ναός Ποσειδώνα",
+                  "text": "Poszeidónnak szentelt híres ókori görög templom a Szúnion-fok szikláin.",
+                  "category": "historical",
+                  "coords": [
+                        24.024633,
+                        37.650292
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sounio",
+                  "text": "A Szúnion-fok teljes régészeti területe az ókori romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        24.0235,
+                        37.651633
+                  ]
+            },
+            {
+                  "name": "Unofficial Nudist Beach",
+                  "text": "A Szúnioni Nemzeti Park egyik strandja, amely informális nudista helyként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.977765,
+                        37.659874
+                  ]
+            },
+            {
+                  "name": "Cliff tower/farm (Attica)",
+                  "text": "Egy ókori erődített tanya vagy torony maradványai az Attikai-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        24.02683,
+                        37.67571
+                  ]
+            },
+            {
+                  "name": "Legrena",
+                  "text": "Népszerű homokos strand a Szúnioni Nemzeti Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983409,
+                        37.661247
+                  ]
+            },
+            {
+                  "name": "Sounion Beach",
+                  "text": "Festői tengerpart a szúnioni ókori régészeti lelőhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024738,
+                        37.65417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanctuary of Athena",
+                  "text": "Rămășițele unui sanctuar antic grec dedicat zeiței Atena la Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.026974,
+                        37.652956
+                  ]
+            },
+            {
+                  "name": "Πύργος της Βασιλοπούλας",
+                  "text": "Un sit arheologic care cuprinde rămășițele unui turn antic sau ale unei clădiri de fermă.",
+                  "category": "historical",
+                  "coords": [
+                        24.027818,
+                        37.6702
+                  ]
+            },
+            {
+                  "name": "Ναός Ποσειδώνα",
+                  "text": "Un faimos templu antic grec dedicat lui Poseidon, situat pe stâncile Capului Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.024633,
+                        37.650292
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sounio",
+                  "text": "Zona arheologică cuprinzătoare de la Capul Sounion, incluzând ruine antice.",
+                  "category": "historical",
+                  "coords": [
+                        24.0235,
+                        37.651633
+                  ]
+            },
+            {
+                  "name": "Unofficial Nudist Beach",
+                  "text": "O zonă de plajă din Parcul Național Sounion, cunoscută pentru utilizarea informală de către nudiști.",
+                  "category": "recreational",
+                  "coords": [
+                        23.977765,
+                        37.659874
+                  ]
+            },
+            {
+                  "name": "Cliff tower/farm (Attica)",
+                  "text": "Rămășițele unei ferme fortificate antice sau ale unui turn situat în peninsula Attica.",
+                  "category": "historical",
+                  "coords": [
+                        24.02683,
+                        37.67571
+                  ]
+            },
+            {
+                  "name": "Legrena",
+                  "text": "O plajă de nisip populară situată în zona Parcului Național Sounion.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983409,
+                        37.661247
+                  ]
+            },
+            {
+                  "name": "Sounion Beach",
+                  "text": "O plajă pitorească situată lângă situl arheologic antic de la Sounion.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024738,
+                        37.65417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanctuary of Athena",
+                  "text": "The remains of an ancient Greek sanctuary dedicated to the goddess Athena at Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.026974,
+                        37.652956
+                  ]
+            },
+            {
+                  "name": "Princess tower/farm",
+                  "text": "An archaeological site featuring the remains of an ancient tower or farm building.",
+                  "category": "historical",
+                  "coords": [
+                        24.027818,
+                        37.6702
+                  ]
+            },
+            {
+                  "name": "Temple of Poseidon",
+                  "text": "A famous ancient Greek temple dedicated to Poseidon, situated on the cliffs of Cape Sounion.",
+                  "category": "historical",
+                  "coords": [
+                        24.024633,
+                        37.650292
+                  ]
+            },
+            {
+                  "name": "Archaeological Site of Sounio",
+                  "text": "The comprehensive archaeological area at Cape Sounion, including ancient ruins.",
+                  "category": "historical",
+                  "coords": [
+                        24.0235,
+                        37.651633
+                  ]
+            },
+            {
+                  "name": "Unofficial Nudist Beach",
+                  "text": "A beach area in Sounion National Park known for informal nudist use.",
+                  "category": "recreational",
+                  "coords": [
+                        23.977765,
+                        37.659874
+                  ]
+            },
+            {
+                  "name": "Cliff tower/farm (Attica)",
+                  "text": "Remains of an ancient fortified farm or tower located on the Attica peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        24.02683,
+                        37.67571
+                  ]
+            },
+            {
+                  "name": "Legrena",
+                  "text": "A popular sandy beach located within the Sounion National Park area.",
+                  "category": "recreational",
+                  "coords": [
+                        23.983409,
+                        37.661247
+                  ]
+            },
+            {
+                  "name": "Sounion Beach",
+                  "text": "A scenic beach situated near the ancient archaeological site of Sounion.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024738,
+                        37.65417
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Nationalpark Sounion", hu: "Szunion Nemzeti Park", ro: "Parcul Național Sounion", en: "Sounion National Park"},
@@ -1291,7 +3775,268 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
     },
   },
   {
-    id: "greece-monachus-conservation-center-life-v2",
+    id: "greece-monachus-conservation-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirate Museum",
+                  "text": "Ein kleines Museum in Patitiri, das der Geschichte der Piraterie in der Ägäis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.863149,
+                        39.143342
+                  ]
+            },
+            {
+                  "name": "Παραλία Βύθισμα",
+                  "text": "Ein abgelegener und ruhiger Strand auf der Insel Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.847524,
+                        39.137112
+                  ]
+            },
+            {
+                  "name": "Κοκκινοκαστρο",
+                  "text": "Ein markanter Strand auf Alonissos, der für seine roten Felsen und den Kiefernwald bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.903992,
+                        39.164557
+                  ]
+            },
+            {
+                  "name": "Traditional House",
+                  "text": "Ein Museum in einem traditionellen Haus, das das Leben auf der Insel Alonissos dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.843912,
+                        39.149312
+                  ]
+            },
+            {
+                  "name": "Τουρκονέρι",
+                  "text": "Ein kleiner, ruhiger Kieselstrand in einer Bucht auf Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.880007,
+                        39.176572
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "Ein felsiger Küstenabschnitt auf Alonissos, der sich gut zum Schwimmen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        23.857188,
+                        39.135485
+                  ]
+            },
+            {
+                  "name": "Elias Cove",
+                  "text": "Eine kleine, malerische Bucht auf der Insel Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.864414,
+                        39.137623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirate Museum",
+                  "text": "Egy kis múzeum Patitiriben, amely az égei-tengeri kalózkodás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.863149,
+                        39.143342
+                  ]
+            },
+            {
+                  "name": "Παραλία Βύθισμα",
+                  "text": "Egy eldugott és nyugodt tengerpart Alonisszosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.847524,
+                        39.137112
+                  ]
+            },
+            {
+                  "name": "Κοκκινοκαστρο",
+                  "text": "Alonisszosz egyik jellegzetes strandja, amely vörös szikláiról és fenyőerdőjéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.903992,
+                        39.164557
+                  ]
+            },
+            {
+                  "name": "Traditional House",
+                  "text": "Egy tradicionális házban berendezett múzeum, amely az alonisszoszi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.843912,
+                        39.149312
+                  ]
+            },
+            {
+                  "name": "Τουρκονέρι",
+                  "text": "Egy kicsi, csendes kavicsos strand egy öbölben Alonisszosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.880007,
+                        39.176572
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "Sziklás tengerparti szakasz Alonisszoszon, amely kiválóan alkalmas úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.857188,
+                        39.135485
+                  ]
+            },
+            {
+                  "name": "Elias Cove",
+                  "text": "Egy kicsi, festői öböl Alonisszosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.864414,
+                        39.137623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirate Museum",
+                  "text": "Un mic muzeu în Patitiri dedicat istoriei pirateriei în Marea Egee.",
+                  "category": "museum",
+                  "coords": [
+                        23.863149,
+                        39.143342
+                  ]
+            },
+            {
+                  "name": "Παραλία Βύθισμα",
+                  "text": "O plajă retrasă și liniștită de pe insula Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.847524,
+                        39.137112
+                  ]
+            },
+            {
+                  "name": "Κοκκινοκαστρο",
+                  "text": "O plajă distinctivă pe Alonissos, cunoscută pentru stâncile roșii și pădurea de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        23.903992,
+                        39.164557
+                  ]
+            },
+            {
+                  "name": "Traditional House",
+                  "text": "Un muzeu amenajat într-o casă tradițională, ce documentează viața pe insula Alonissos.",
+                  "category": "museum",
+                  "coords": [
+                        23.843912,
+                        39.149312
+                  ]
+            },
+            {
+                  "name": "Τουρκονέρι",
+                  "text": "O plajă mică și liniștită cu pietriș, situată într-un golf pe Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.880007,
+                        39.176572
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "O porțiune de coastă stâncoasă pe Alonissos, potrivită pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        23.857188,
+                        39.135485
+                  ]
+            },
+            {
+                  "name": "Elias Cove",
+                  "text": "Un mic golf pitoresc pe insula Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.864414,
+                        39.137623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirate Museum",
+                  "text": "A small museum in Patitiri dedicated to the history of piracy in the Aegean.",
+                  "category": "museum",
+                  "coords": [
+                        23.863149,
+                        39.143342
+                  ]
+            },
+            {
+                  "name": "Vithisma",
+                  "text": "A secluded and quiet beach on the island of Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.847524,
+                        39.137112
+                  ]
+            },
+            {
+                  "name": "Kokkinokastro",
+                  "text": "A distinctive beach on Alonissos known for its red cliffs and pine forest.",
+                  "category": "recreational",
+                  "coords": [
+                        23.903992,
+                        39.164557
+                  ]
+            },
+            {
+                  "name": "Traditional House",
+                  "text": "A museum set in a traditional house documenting life on Alonissos island.",
+                  "category": "museum",
+                  "coords": [
+                        23.843912,
+                        39.149312
+                  ]
+            },
+            {
+                  "name": "Tourkoneri",
+                  "text": "A small, quiet pebble beach located in a cove on Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.880007,
+                        39.176572
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "A rocky coastal area on Alonissos suitable for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        23.857188,
+                        39.135485
+                  ]
+            },
+            {
+                  "name": "Elias Cove",
+                  "text": "A small, picturesque cove on the island of Alonissos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.864414,
+                        39.137623
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "MOM Mönchsrobben-Zentrum", hu: "MOM Barátfóka-védelmi Központ", ro: "Centrul de conservare MOM", en: "Monachus monachus Conservation Center"},
@@ -1384,7 +4129,88 @@ imageHint: "Information center and seal rescue equipment",
   }
 ,
   {
-    id: "greece-koroneia-lake-life-v2",
+    id: "greece-koroneia-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πύργος Αγίου Βασιλείου",
+                  "text": "Ein byzantinischer Wehrturm in der Nähe des Koroneia-Sees, der zur Überwachung der Region diente.",
+                  "category": "castle",
+                  "coords": [
+                        23.117759,
+                        40.667686
+                  ]
+            },
+            {
+                  "name": "Ναός Αγίου Γεωργίου",
+                  "text": "Ein christianisiertes Gotteshaus in der Nähe des Koroneia-Sees, das dem Heiligen Georg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.117787,
+                        40.665716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πύργος Αγίου Βασιλείου",
+                  "text": "Bizánci védőtorony a Koroneia-tó közelében, amely a régió ellenőrzésére szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        23.117759,
+                        40.667686
+                  ]
+            },
+            {
+                  "name": "Ναός Αγίου Γεωργίου",
+                  "text": "Szent Györgynek szentelt keresztény templom a Koroneia-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        23.117787,
+                        40.665716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πύργος Αγίου Βασιλείου",
+                  "text": "Un turn defensiv bizantin lângă lacul Koroneia, folosit pentru monitorizarea regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        23.117759,
+                        40.667686
+                  ]
+            },
+            {
+                  "name": "Ναός Αγίου Γεωργίου",
+                  "text": "Un lăcaș de cult creștin lângă lacul Koroneia, dedicat Sfântului Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        23.117787,
+                        40.665716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Tower of Agios Vassilios",
+                  "text": "A Byzantine defensive tower near Lake Koroneia, used for monitoring the region.",
+                  "category": "castle",
+                  "coords": [
+                        23.117759,
+                        40.667686
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "A Christian place of worship near Lake Koroneia, dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        23.117787,
+                        40.665716
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GR",
     name: { de: "See Koroneia", hu: "Koroneia-tó", ro: "Lacul Koroneia", en: "Lake Koroneia" },
@@ -1429,7 +4255,268 @@ imageHint: "Information center and seal rescue equipment",
     image: "/poi-images/greece-koroneia-lake-life-v2.webp",
   },
   {
-    id: "greece-schinias-national-park-life-v2",
+    id: "greece-schinias-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πύργος Κτήματος Μπενάκη",
+                  "text": "Dieser historische Turm im Schinias-Nationalpark war einst Teil eines größeren Landgutes.",
+                  "category": "castle",
+                  "coords": [
+                        24.005674,
+                        38.160533
+                  ]
+            },
+            {
+                  "name": "Πύργος Τροπαίου Μαραθώνος",
+                  "text": "Der Turm steht als historisches Monument in der Nähe der berühmten Ebene von Marathon.",
+                  "category": "castle",
+                  "coords": [
+                        23.999941,
+                        38.140872
+                  ]
+            },
+            {
+                  "name": "Πύργος Μαραθώνα Β",
+                  "text": "Ein weiterer historischer Wehrturm, der die antike Landschaft von Marathon im Schinias-Nationalpark prägt.",
+                  "category": "castle",
+                  "coords": [
+                        23.977758,
+                        38.123783
+                  ]
+            },
+            {
+                  "name": "Τύμβος Αθηναίων",
+                  "text": "Der Grabhügel von Marathon birgt die sterblichen Überreste der in der Schlacht von Marathon gefallenen Athener.",
+                  "category": "historical",
+                  "coords": [
+                        23.978345,
+                        38.117925
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Πλάσι Μαραθώνος",
+                  "text": "Die Ausgrabungsstätte bei Plasi zeigt Siedlungsreste aus verschiedenen Epochen der griechischen Antike.",
+                  "category": "historical",
+                  "coords": [
+                        23.994772,
+                        38.123204
+                  ]
+            },
+            {
+                  "name": "Tsepi Early Helladic cemetery",
+                  "text": "Tsepi ist ein bedeutendes Gräberfeld aus der frühhelladischen Zeit in der Nähe von Marathon.",
+                  "category": "historical",
+                  "coords": [
+                        23.966333,
+                        38.128762
+                  ]
+            },
+            {
+                  "name": "Όρμος Μαραθώνος",
+                  "text": "Die Bucht von Marathon bietet eine malerische Küstenlandschaft am Rande des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        24.016737,
+                        38.113691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πύργος Κτήματος Μπενάκη",
+                  "text": "Ez a történelmi torony a Schinias Nemzeti Parkban egykor egy nagyobb birtok része volt.",
+                  "category": "castle",
+                  "coords": [
+                        24.005674,
+                        38.160533
+                  ]
+            },
+            {
+                  "name": "Πύργος Τροπαίου Μαραθώνος",
+                  "text": "A torony történelmi emlékműként áll a híres Marathóni-síkság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        23.999941,
+                        38.140872
+                  ]
+            },
+            {
+                  "name": "Πύργος Μαραθώνα Β",
+                  "text": "Egy másik történelmi őrtorony, amely a Schinias Nemzeti Park marathóni tájképét díszíti.",
+                  "category": "castle",
+                  "coords": [
+                        23.977758,
+                        38.123783
+                  ]
+            },
+            {
+                  "name": "Τύμβος Αθηναίων",
+                  "text": "A marathóni sírhalom a marathóni csatában elesett athéni harcosok földi maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        23.978345,
+                        38.117925
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Πλάσι Μαραθώνος",
+                  "text": "A Plasi melletti régészeti terület a görög antikvitás különböző korszakaiból származó településmaradványokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        23.994772,
+                        38.123204
+                  ]
+            },
+            {
+                  "name": "Tsepi Early Helladic cemetery",
+                  "text": "Tsepi egy jelentős kora helladikus kori temető Marathón közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.966333,
+                        38.128762
+                  ]
+            },
+            {
+                  "name": "Όρμος Μαραθώνος",
+                  "text": "A Marathóni-öböl festői tengerparti tájat kínál a nemzeti park szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.016737,
+                        38.113691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πύργος Κτήματος Μπενάκη",
+                  "text": "Acest turn istoric din Parcul Național Schinias a făcut parte odinioară dintr-o proprietate mai mare.",
+                  "category": "castle",
+                  "coords": [
+                        24.005674,
+                        38.160533
+                  ]
+            },
+            {
+                  "name": "Πύργος Τροπαίου Μαραθώνος",
+                  "text": "Turnul se ridică ca un monument istoric în apropierea faimoasei câmpii de la Maraton.",
+                  "category": "castle",
+                  "coords": [
+                        23.999941,
+                        38.140872
+                  ]
+            },
+            {
+                  "name": "Πύργος Μαραθώνα Β",
+                  "text": "Un alt turn istoric de apărare care marchează peisajul antic de la Maraton în Parcul Național Schinias.",
+                  "category": "castle",
+                  "coords": [
+                        23.977758,
+                        38.123783
+                  ]
+            },
+            {
+                  "name": "Τύμβος Αθηναίων",
+                  "text": "Tumulul de la Maraton adăpostește rămășițele pământești ale atenienilor căzuți în bătălia de la Maraton.",
+                  "category": "historical",
+                  "coords": [
+                        23.978345,
+                        38.117925
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Πλάσι Μαραθώνος",
+                  "text": "Situl arheologic de la Plasi prezintă resturi de așezări din diferite epoci ale antichității grecești.",
+                  "category": "historical",
+                  "coords": [
+                        23.994772,
+                        38.123204
+                  ]
+            },
+            {
+                  "name": "Tsepi Early Helladic cemetery",
+                  "text": "Tsepi este un cimitir important din perioada heladică timpurie, situat lângă Maraton.",
+                  "category": "historical",
+                  "coords": [
+                        23.966333,
+                        38.128762
+                  ]
+            },
+            {
+                  "name": "Όρμος Μαραθώνος",
+                  "text": "Golful Maraton oferă un peisaj de coastă pitoresc la marginea parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        24.016737,
+                        38.113691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of the Benakis Estate",
+                  "text": "This historical tower in Schinias National Park was once part of a larger estate.",
+                  "category": "castle",
+                  "coords": [
+                        24.005674,
+                        38.160533
+                  ]
+            },
+            {
+                  "name": "Tower of Marathon Monument",
+                  "text": "The tower stands as a historical monument near the famous plain of Marathon.",
+                  "category": "castle",
+                  "coords": [
+                        23.999941,
+                        38.140872
+                  ]
+            },
+            {
+                  "name": "Tower of Marathon B",
+                  "text": "Another historical defensive tower marking the ancient landscape of Marathon in Schinias National Park.",
+                  "category": "castle",
+                  "coords": [
+                        23.977758,
+                        38.123783
+                  ]
+            },
+            {
+                  "name": "Tomb of the Athenians",
+                  "text": "The Marathon tumulus holds the remains of the Athenians who fell at the Battle of Marathon.",
+                  "category": "historical",
+                  "coords": [
+                        23.978345,
+                        38.117925
+                  ]
+            },
+            {
+                  "name": "Archaeological Site at Plasi of Marathon",
+                  "text": "The archaeological site at Plasi displays settlement remains from various periods of Greek antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        23.994772,
+                        38.123204
+                  ]
+            },
+            {
+                  "name": "Tsepi Early Helladic cemetery",
+                  "text": "Tsepi is an important cemetery from the Early Helladic period located near Marathon.",
+                  "category": "historical",
+                  "coords": [
+                        23.966333,
+                        38.128762
+                  ]
+            },
+            {
+                  "name": "Marathon Bay",
+                  "text": "Marathon Bay offers a picturesque coastal landscape at the edge of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.016737,
+                        38.113691
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GR",
     name: { de: "Nationalpark Schinias", hu: "Schinias Nemzeti Park", ro: "Parcul Național Schinias", en: "Schinias National Park" },

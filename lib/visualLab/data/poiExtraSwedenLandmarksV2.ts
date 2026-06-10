@@ -349,7 +349,88 @@ imageHint: "Turning Torso skyscraper Malmö",
     },
     image: "/poi-images/sweden-turning-torso-landmarks-v2.webp",
 },  {
-    id: "sweden-oresund-bridge-landmarks-v2",
+    id: "sweden-oresund-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flyktingmonumentet",
+                  "text": "Ein Denkmal in der Nähe der Öresundbrücke, das an Flüchtlinge erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        12.901132,
+                        55.572654
+                  ]
+            },
+            {
+                  "name": "Öresundbrücke",
+                  "text": "Eine kombinierte Eisenbahn- und Straßenbrücke, die Dänemark und Schweden verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.863452,
+                        55.568672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flyktingmonumentet",
+                  "text": "Menekülteknek emléket állító emlékmű az Öresund híd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.901132,
+                        55.572654
+                  ]
+            },
+            {
+                  "name": "Øresundsbron",
+                  "text": "Dániát és Svédországot összekötő közúti és vasúti híd az Öresund felett.",
+                  "category": "landmark",
+                  "coords": [
+                        12.863452,
+                        55.568672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flyktingmonumentet",
+                  "text": "Un monument situat lângă Podul Øresund, ridicat în memoria refugiaților.",
+                  "category": "historical",
+                  "coords": [
+                        12.901132,
+                        55.572654
+                  ]
+            },
+            {
+                  "name": "Øresundsbron",
+                  "text": "Un pod combinat feroviar și rutier care leagă Danemarca de Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.863452,
+                        55.568672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flyktingmonumentet",
+                  "text": "A monument located near the Øresund Bridge dedicated to refugees.",
+                  "category": "historical",
+                  "coords": [
+                        12.901132,
+                        55.572654
+                  ]
+            },
+            {
+                  "name": "Øresund Bridge",
+                  "text": "A combined railway and motorway bridge connecting Denmark and Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        12.863452,
+                        55.568672
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "bridge",
     name: { de: "Öresundbrücke", hu: "Öresund híd", ro: "Podul Øresund", en: "Öresund Bridge"},
@@ -578,7 +659,304 @@ imageHint: "Kiruna Church red wooden building",
     },
     image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp",
 },  {
-    id: "sweden-carlsten-fortress-landmarks-v2",
+    id: "sweden-carlsten-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stora Sillesund",
+                  "text": "Ein Navigationsfeuer im Sillesund nahe der Festung Carlsten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.551214,
+                        57.858147
+                  ]
+            },
+            {
+                  "name": "Lönnbäcken fyr",
+                  "text": "Ein kleiner Leuchtturm im Schärengarten vor Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.553028,
+                        57.855336
+                  ]
+            },
+            {
+                  "name": "Övre Ramholmen",
+                  "text": "Ein Leuchtfeuer auf der Insel Ramholmen in den westschwedischen Schären.",
+                  "category": "landmark",
+                  "coords": [
+                        11.550583,
+                        57.860148
+                  ]
+            },
+            {
+                  "name": "Nedre Ramholmen",
+                  "text": "Ein Navigationslicht im Schärengebiet nahe der Festung Carlsten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.554922,
+                        57.858033
+                  ]
+            },
+            {
+                  "name": "Gråberget fyr",
+                  "text": "Ein Leuchtturm am Rande des Marstrandsfjords in Schweden.",
+                  "category": "landmark",
+                  "coords": [
+                        11.583346,
+                        57.879171
+                  ]
+            },
+            {
+                  "name": "Skallen fyr",
+                  "text": "Ein Leuchtfeuer an der schwedischen Westküste bei Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.558283,
+                        57.890439
+                  ]
+            },
+            {
+                  "name": "Carlstens Fästning",
+                  "text": "Eine imposante Steinfestung auf der Insel Marstrand aus dem 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        11.578594,
+                        57.886181
+                  ]
+            },
+            {
+                  "name": "Marstrands naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Marstrand mit abwechslungsreicher Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        11.600452,
+                        57.890734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stora Sillesund",
+                  "text": "Navigációs fény a Sillesundban, a Carlsten-erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.551214,
+                        57.858147
+                  ]
+            },
+            {
+                  "name": "Lönnbäcken fyr",
+                  "text": "Kisméretű világítótorony a Marstrand előtti szigetvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.553028,
+                        57.855336
+                  ]
+            },
+            {
+                  "name": "Övre Ramholmen",
+                  "text": "Világítótorony a nyugat-svédországi Ramholmen-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.550583,
+                        57.860148
+                  ]
+            },
+            {
+                  "name": "Nedre Ramholmen",
+                  "text": "Navigációs fény a Carlsten-erőd közelében lévő szigetvilágban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.554922,
+                        57.858033
+                  ]
+            },
+            {
+                  "name": "Gråberget fyr",
+                  "text": "Világítótorony a svédországi Marstrandsfjord szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.583346,
+                        57.879171
+                  ]
+            },
+            {
+                  "name": "Skallen fyr",
+                  "text": "Világítótorony a svéd nyugati parton, Marstrand közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.558283,
+                        57.890439
+                  ]
+            },
+            {
+                  "name": "Carlstens Fästning",
+                  "text": "Impozáns 17. századi kőerőd Marstrand szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        11.578594,
+                        57.886181
+                  ]
+            },
+            {
+                  "name": "Marstrands naturreservat",
+                  "text": "Természetvédelmi terület Marstrand szigetén változatos tengerparti tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        11.600452,
+                        57.890734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stora Sillesund",
+                  "text": "Un far de navigație în Sillesund, lângă fortăreața Carlsten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.551214,
+                        57.858147
+                  ]
+            },
+            {
+                  "name": "Lönnbäcken fyr",
+                  "text": "Un far mic în arhipelagul de lângă Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.553028,
+                        57.855336
+                  ]
+            },
+            {
+                  "name": "Övre Ramholmen",
+                  "text": "Un far pe insula Ramholmen din arhipelagul suedez de vest.",
+                  "category": "landmark",
+                  "coords": [
+                        11.550583,
+                        57.860148
+                  ]
+            },
+            {
+                  "name": "Nedre Ramholmen",
+                  "text": "O lumină de navigație în zona arhipelagului de lângă fortăreața Carlsten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.554922,
+                        57.858033
+                  ]
+            },
+            {
+                  "name": "Gråberget fyr",
+                  "text": "Un far la marginea Marstrandsfjord din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        11.583346,
+                        57.879171
+                  ]
+            },
+            {
+                  "name": "Skallen fyr",
+                  "text": "Un far pe coasta de vest a Suediei, lângă Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.558283,
+                        57.890439
+                  ]
+            },
+            {
+                  "name": "Carlstens Fästning",
+                  "text": "O fortăreață impunătoare de piatră din secolul al XVII-lea pe insula Marstrand.",
+                  "category": "castle",
+                  "coords": [
+                        11.578594,
+                        57.886181
+                  ]
+            },
+            {
+                  "name": "Marstrands naturreservat",
+                  "text": "O rezervație naturală pe insula Marstrand, cu un peisaj costier variat.",
+                  "category": "natural",
+                  "coords": [
+                        11.600452,
+                        57.890734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stora Sillesund",
+                  "text": "A navigation light in the Sillesund near Carlsten Fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        11.551214,
+                        57.858147
+                  ]
+            },
+            {
+                  "name": "Lönnbäcken fyr",
+                  "text": "A small lighthouse in the archipelago off Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.553028,
+                        57.855336
+                  ]
+            },
+            {
+                  "name": "Övre Ramholmen",
+                  "text": "A lighthouse on Ramholmen island in the West Swedish archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        11.550583,
+                        57.860148
+                  ]
+            },
+            {
+                  "name": "Nedre Ramholmen",
+                  "text": "A navigation light in the archipelago area near Carlsten Fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        11.554922,
+                        57.858033
+                  ]
+            },
+            {
+                  "name": "Gråberget fyr",
+                  "text": "A lighthouse on the edge of the Marstrandsfjord in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        11.583346,
+                        57.879171
+                  ]
+            },
+            {
+                  "name": "Skallen fyr",
+                  "text": "A lighthouse on the Swedish west coast near Marstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.558283,
+                        57.890439
+                  ]
+            },
+            {
+                  "name": "Carlstens Fästning",
+                  "text": "An imposing 17th-century stone fortress on the island of Marstrand.",
+                  "category": "castle",
+                  "coords": [
+                        11.578594,
+                        57.886181
+                  ]
+            },
+            {
+                  "name": "Marstrands naturreservat",
+                  "text": "A nature reserve on Marstrand island with a diverse coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.600452,
+                        57.890734
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Festung Carlsten", hu: "Carlsten erőd", ro: "Cetatea Carlsten", en: "Carlsten Fortress"},
@@ -898,7 +1276,88 @@ imageHint: "Vadstena Castle and moat in summer",
     },
     image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp",
 },  {
-    id: "sweden-high-coast-bridge-landmarks-v2",
+    id: "sweden-high-coast-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Högakustenbron",
+                  "text": "Eine große Hängebrücke über den Fluss Ångermanälven im Norden Schwedens.",
+                  "category": "landmark",
+                  "coords": [
+                        17.938405,
+                        62.797968
+                  ]
+            },
+            {
+                  "name": "Hornöviken",
+                  "text": "Ein Buchtenbereich an der Hohen Küste in der Nähe der Höga-Kusten-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        17.945743,
+                        62.808757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Högakustenbron",
+                  "text": "Észak-Svédországban az Ångermanälven folyót átívelő nagy függőhíd.",
+                  "category": "landmark",
+                  "coords": [
+                        17.938405,
+                        62.797968
+                  ]
+            },
+            {
+                  "name": "Hornöviken",
+                  "text": "Az Ångermanälven torkolatánál, a Höga Kusten híd közelében fekvő öböl.",
+                  "category": "landmark",
+                  "coords": [
+                        17.945743,
+                        62.808757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Högakustenbron",
+                  "text": "Un pod suspendat mare care traversează râul Ångermanälven în nordul Suediei.",
+                  "category": "landmark",
+                  "coords": [
+                        17.938405,
+                        62.797968
+                  ]
+            },
+            {
+                  "name": "Hornöviken",
+                  "text": "O zonă de golf situată de-a lungul Coastei Înalte, lângă podul Höga Kusten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.945743,
+                        62.808757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Höga Kusten Bridge",
+                  "text": "A large suspension bridge crossing the Ångermanälven river in northern Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        17.938405,
+                        62.797968
+                  ]
+            },
+            {
+                  "name": "Hornöviken",
+                  "text": "A bay area located along the High Coast near the Höga Kusten Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        17.945743,
+                        62.808757
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "bridge",
     name: { de: "Högakustenbrücke", hu: "Höga Kusten híd", ro: "Podul Coasta Înaltă", en: "High Coast Bridge"},
@@ -988,7 +1447,232 @@ imageHint: "Skara Cathedral twin towers and facade",
     },
     image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp",
 },  {
-    id: "sweden-stromsholm-palace-landmarks-v2",
+    id: "sweden-stromsholm-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strömsholm",
+                  "text": "Ein Naturschutzgebiet, das die naturbelassene Landschaft rund um das Schloss Strömsholm umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        16.255036,
+                        59.49627
+                  ]
+            },
+            {
+                  "name": "Strömsholms slott",
+                  "text": "Ein königliches Schloss in Schweden, bekannt für seine barocke Architektur und Pferdezucht.",
+                  "category": "castle",
+                  "coords": [
+                        16.269842,
+                        59.524849
+                  ]
+            },
+            {
+                  "name": "Häggholmen",
+                  "text": "Ein kleines Naturschutzgebiet bei Strömsholm, das wichtige lokale Ökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        16.230854,
+                        59.502666
+                  ]
+            },
+            {
+                  "name": "Ekholmen",
+                  "text": "Ein geschütztes Naturareal bei Strömsholm, das für seine alten Eichenbestände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.229454,
+                        59.495435
+                  ]
+            },
+            {
+                  "name": "Hornåsens gravfält",
+                  "text": "Ein bedeutendes prähistorisches Gräberfeld mit Steinsetzungen in der Nähe von Strömsholm.",
+                  "category": "historical",
+                  "coords": [
+                        16.280841,
+                        59.498754
+                  ]
+            },
+            {
+                  "name": "Strömsholms Kungsladugård",
+                  "text": "Dieses Naturschutzgebiet bewahrt die historische Kulturlandschaft und Weiden bei Strömsholm.",
+                  "category": "natural",
+                  "coords": [
+                        16.236399,
+                        59.519094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strömsholm",
+                  "text": "Természetvédelmi terület, amely a Strömsholm-kastély körüli érintetlen tájat öleli fel.",
+                  "category": "natural",
+                  "coords": [
+                        16.255036,
+                        59.49627
+                  ]
+            },
+            {
+                  "name": "Strömsholms slott",
+                  "text": "Svéd királyi kastély, amely barokk építészetéről és lovas hagyományairól nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        16.269842,
+                        59.524849
+                  ]
+            },
+            {
+                  "name": "Häggholmen",
+                  "text": "Kis természetvédelmi terület Strömsholmnál, amely fontos helyi ökoszisztémákat óv.",
+                  "category": "natural",
+                  "coords": [
+                        16.230854,
+                        59.502666
+                  ]
+            },
+            {
+                  "name": "Ekholmen",
+                  "text": "Védett természeti terület Strömsholmnál, amely öreg tölgyeseiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        16.229454,
+                        59.495435
+                  ]
+            },
+            {
+                  "name": "Hornåsens gravfält",
+                  "text": "Jelentős őskori sírmező kőalakzatokkal Strömsholm közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.280841,
+                        59.498754
+                  ]
+            },
+            {
+                  "name": "Strömsholms Kungsladugård",
+                  "text": "Ez a természetvédelmi terület megőrzi a Strömsholm környéki történelmi kultúrtájat és legelőket.",
+                  "category": "natural",
+                  "coords": [
+                        16.236399,
+                        59.519094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strömsholm",
+                  "text": "O rezervație naturală care cuprinde peisajul natural din jurul castelului Strömsholm.",
+                  "category": "natural",
+                  "coords": [
+                        16.255036,
+                        59.49627
+                  ]
+            },
+            {
+                  "name": "Strömsholms slott",
+                  "text": "Un castel regal din Suedia, cunoscut pentru arhitectura barocă și tradițiile ecvestre.",
+                  "category": "castle",
+                  "coords": [
+                        16.269842,
+                        59.524849
+                  ]
+            },
+            {
+                  "name": "Häggholmen",
+                  "text": "O mică rezervație naturală lângă Strömsholm, care protejează ecosisteme locale importante.",
+                  "category": "natural",
+                  "coords": [
+                        16.230854,
+                        59.502666
+                  ]
+            },
+            {
+                  "name": "Ekholmen",
+                  "text": "O zonă naturală protejată lângă Strömsholm, renumită pentru stejarii săi seculari.",
+                  "category": "natural",
+                  "coords": [
+                        16.229454,
+                        59.495435
+                  ]
+            },
+            {
+                  "name": "Hornåsens gravfält",
+                  "text": "Un câmp funerar preistoric important cu ansambluri de piatră situat lângă Strömsholm.",
+                  "category": "historical",
+                  "coords": [
+                        16.280841,
+                        59.498754
+                  ]
+            },
+            {
+                  "name": "Strömsholms Kungsladugård",
+                  "text": "Această rezervație naturală conservă peisajul cultural istoric și pășunile de lângă Strömsholm.",
+                  "category": "natural",
+                  "coords": [
+                        16.236399,
+                        59.519094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strömsholm",
+                  "text": "A nature reserve encompassing the natural landscape around Strömsholm Castle.",
+                  "category": "natural",
+                  "coords": [
+                        16.255036,
+                        59.49627
+                  ]
+            },
+            {
+                  "name": "Strömsholm Castle",
+                  "text": "A royal castle in Sweden, known for its Baroque architecture and equestrian traditions.",
+                  "category": "castle",
+                  "coords": [
+                        16.269842,
+                        59.524849
+                  ]
+            },
+            {
+                  "name": "Häggholmen",
+                  "text": "A small nature reserve near Strömsholm protecting important local ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        16.230854,
+                        59.502666
+                  ]
+            },
+            {
+                  "name": "Ekholmen",
+                  "text": "A protected natural area near Strömsholm, famous for its old oak trees.",
+                  "category": "natural",
+                  "coords": [
+                        16.229454,
+                        59.495435
+                  ]
+            },
+            {
+                  "name": "Hornåsens gravfält",
+                  "text": "A significant prehistoric burial ground with stone settings located near Strömsholm.",
+                  "category": "historical",
+                  "coords": [
+                        16.280841,
+                        59.498754
+                  ]
+            },
+            {
+                  "name": "Strömsholms Kungsladugård",
+                  "text": "This nature reserve preserves the historic cultural landscape and pastures near Strömsholm.",
+                  "category": "natural",
+                  "coords": [
+                        16.236399,
+                        59.519094
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "palace",
     name: { de: "Schloss Strömsholm", hu: "Strömsholmi palota", ro: "Palatul Strömsholm", en: "Strömsholm Palace"},
@@ -1123,7 +1807,304 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
     },
     image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp",
 },  {
-    id: "sweden-svaneholm-castle-landmarks-v2",
+    id: "sweden-svaneholm-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Svaneholm Vassen",
+                  "text": "Svaneholm Vassen ist ein Feuchtgebiet und Naturreservat beim Schloss Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.470734,
+                        55.498111
+                  ]
+            },
+            {
+                  "name": "Svaneholm",
+                  "text": "Svaneholm ist ein Naturreservat, das den See beim gleichnamigen Schloss umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        13.47728,
+                        55.503115
+                  ]
+            },
+            {
+                  "name": "Svaneholms slott",
+                  "text": "Das Schloss Svaneholm ist ein Renaissanceschloss in Schonen, das heute ein Museum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        13.478094,
+                        55.500833
+                  ]
+            },
+            {
+                  "name": "Zimmermans backe",
+                  "text": "Zimmermans backe ist ein geschütztes Waldgebiet in der Nähe von Schloss Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.495812,
+                        55.491224
+                  ]
+            },
+            {
+                  "name": "Hästhagen",
+                  "text": "Hästhagen ist ein waldreiches Naturreservat in der Nähe des Schlosses Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.494175,
+                        55.502697
+                  ]
+            },
+            {
+                  "name": "Näsbyholms slott",
+                  "text": "Das Schloss Näsbyholm ist ein historisches Gut und eine Schlossruine in der Gemeinde Skurup.",
+                  "category": "castle",
+                  "coords": [
+                        13.460504,
+                        55.468287
+                  ]
+            },
+            {
+                  "name": "Johannamuseet",
+                  "text": "Das Johannamuseum zeigt Oldtimer und historische Alltagsgegenstände in der Region Skurup.",
+                  "category": "museum",
+                  "coords": [
+                        13.521948,
+                        55.500098
+                  ]
+            },
+            {
+                  "name": "Flygmuseum Stenbäcks",
+                  "text": "Das Flygmuseum Stenbäcks ist ein Luftfahrtmuseum in der Nähe von Skurup.",
+                  "category": "museum",
+                  "coords": [
+                        13.437614,
+                        55.497845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svaneholm Vassen",
+                  "text": "Svaneholm Vassen egy mocsaras természetvédelmi terület a Svaneholm-kastélynál.",
+                  "category": "natural",
+                  "coords": [
+                        13.470734,
+                        55.498111
+                  ]
+            },
+            {
+                  "name": "Svaneholm",
+                  "text": "Svaneholm egy természetvédelmi terület, amely a hasonló nevű kastély melletti tavat veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        13.47728,
+                        55.503115
+                  ]
+            },
+            {
+                  "name": "Svaneholms slott",
+                  "text": "A Svaneholm-kastély egy reneszánsz kastély Skåne tartományban, amely ma múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        13.478094,
+                        55.500833
+                  ]
+            },
+            {
+                  "name": "Zimmermans backe",
+                  "text": "Zimmermans backe egy védett erdős terület a Svaneholm-kastély közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.495812,
+                        55.491224
+                  ]
+            },
+            {
+                  "name": "Hästhagen",
+                  "text": "Hästhagen egy erdős természetvédelmi terület a Svaneholm-kastély közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.494175,
+                        55.502697
+                  ]
+            },
+            {
+                  "name": "Näsbyholms slott",
+                  "text": "A Näsbyholm-kastély egy történelmi birtok és kastélyrom Skurup községben.",
+                  "category": "castle",
+                  "coords": [
+                        13.460504,
+                        55.468287
+                  ]
+            },
+            {
+                  "name": "Johannamuseet",
+                  "text": "A Johanna múzeum veterán autókat és történelmi használati tárgyakat mutat be Skurup környékén.",
+                  "category": "museum",
+                  "coords": [
+                        13.521948,
+                        55.500098
+                  ]
+            },
+            {
+                  "name": "Flygmuseum Stenbäcks",
+                  "text": "A Flygmuseum Stenbäcks egy repülési múzeum Skurup közelében.",
+                  "category": "museum",
+                  "coords": [
+                        13.437614,
+                        55.497845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svaneholm Vassen",
+                  "text": "Svaneholm Vassen este o zonă umedă și rezervație naturală de lângă castelul Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.470734,
+                        55.498111
+                  ]
+            },
+            {
+                  "name": "Svaneholm",
+                  "text": "Svaneholm este o rezervație naturală care înconjoară lacul de lângă castelul cu același nume.",
+                  "category": "natural",
+                  "coords": [
+                        13.47728,
+                        55.503115
+                  ]
+            },
+            {
+                  "name": "Svaneholms slott",
+                  "text": "Castelul Svaneholm este un castel renascentist din Scania, care astăzi găzduiește un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        13.478094,
+                        55.500833
+                  ]
+            },
+            {
+                  "name": "Zimmermans backe",
+                  "text": "Zimmermans backe este o zonă forestieră protejată situată lângă castelul Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.495812,
+                        55.491224
+                  ]
+            },
+            {
+                  "name": "Hästhagen",
+                  "text": "Hästhagen este o rezervație naturală împădurită situată lângă castelul Svaneholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.494175,
+                        55.502697
+                  ]
+            },
+            {
+                  "name": "Näsbyholms slott",
+                  "text": "Castelul Näsbyholm este o moșie istorică și o ruină de castel din comuna Skurup.",
+                  "category": "castle",
+                  "coords": [
+                        13.460504,
+                        55.468287
+                  ]
+            },
+            {
+                  "name": "Johannamuseet",
+                  "text": "Muzeul Johanna expune mașini de epocă și obiecte istorice cotidiene în regiunea Skurup.",
+                  "category": "museum",
+                  "coords": [
+                        13.521948,
+                        55.500098
+                  ]
+            },
+            {
+                  "name": "Flygmuseum Stenbäcks",
+                  "text": "Muzeul Aviației Stenbäcks este un muzeu de profil situat lângă Skurup.",
+                  "category": "museum",
+                  "coords": [
+                        13.437614,
+                        55.497845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svaneholm Vassen",
+                  "text": "Svaneholm Vassen is a wetland area and nature reserve near Svaneholm Castle.",
+                  "category": "natural",
+                  "coords": [
+                        13.470734,
+                        55.498111
+                  ]
+            },
+            {
+                  "name": "Svaneholm",
+                  "text": "Svaneholm is a nature reserve surrounding the lake at the castle of the same name.",
+                  "category": "natural",
+                  "coords": [
+                        13.47728,
+                        55.503115
+                  ]
+            },
+            {
+                  "name": "Svaneholms slott",
+                  "text": "Svaneholm Castle is a Renaissance castle in Scania that now houses a museum.",
+                  "category": "castle",
+                  "coords": [
+                        13.478094,
+                        55.500833
+                  ]
+            },
+            {
+                  "name": "Zimmermans backe",
+                  "text": "Zimmermans backe is a protected forested area located near Svaneholm Castle.",
+                  "category": "natural",
+                  "coords": [
+                        13.495812,
+                        55.491224
+                  ]
+            },
+            {
+                  "name": "Hästhagen",
+                  "text": "Hästhagen is a forested nature reserve located near Svaneholm Castle.",
+                  "category": "natural",
+                  "coords": [
+                        13.494175,
+                        55.502697
+                  ]
+            },
+            {
+                  "name": "Näsbyholms slott",
+                  "text": "Näsbyholm Castle is a historic estate and castle ruin in the Skurup municipality.",
+                  "category": "castle",
+                  "coords": [
+                        13.460504,
+                        55.468287
+                  ]
+            },
+            {
+                  "name": "Johannamuseet",
+                  "text": "Johanna Museum displays vintage cars and historical everyday objects in the Skurup region.",
+                  "category": "museum",
+                  "coords": [
+                        13.521948,
+                        55.500098
+                  ]
+            },
+            {
+                  "name": "Flygmuseum Stenbäcks",
+                  "text": "Flygmuseum Stenbäcks is an aviation museum located near Skurup.",
+                  "category": "museum",
+                  "coords": [
+                        13.437614,
+                        55.497845
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Schloss Svaneholm", hu: "Svaneholmi kastély", ro: "Castelul Svaneholm", en: "Svaneholm Castle"},
@@ -1638,7 +2619,268 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       fr: ["Année de construction 1864", "Reconstruction entre 1874-1876", "Plus de 10 000 rhododendrons", "Superficie du parc de 15 hectares", "Don à Helsingborg en 1973", "Festival annuel des jardins"],
     }, image: "/poi-images/sweden-sofiero-palace-landmarks-v2.webp"},
   {
-    id: "sweden-eketorp-fortress-landmarks-v2",
+    id: "sweden-eketorp-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lastficka",
+                  "text": "Eine archäologische Stätte mit historischen Überresten in der Nähe der Festung.",
+                  "category": "historical",
+                  "coords": [
+                        16.413859,
+                        56.352438
+                  ]
+            },
+            {
+                  "name": "Scenen Södra Bruket",
+                  "text": "Eine Bühne für kulturelle Veranstaltungen und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.408573,
+                        56.343092
+                  ]
+            },
+            {
+                  "name": "Albrunna naturreservat",
+                  "text": "Ein Naturschutzgebiet mit einer vielfältigen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.430823,
+                        56.318196
+                  ]
+            },
+            {
+                  "name": "Albrunna lunds naturreservat",
+                  "text": "Ein geschütztes Waldgebiet mit wertvollem Baumbestand.",
+                  "category": "natural",
+                  "coords": [
+                        16.415546,
+                        56.316281
+                  ]
+            },
+            {
+                  "name": "Strandhagen",
+                  "text": "Ein Küstennaturschutzgebiet mit typischer Strandvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.398918,
+                        56.305297
+                  ]
+            },
+            {
+                  "name": "Stormarens naturreservat",
+                  "text": "Ein geschütztes Gebiet zur Erhaltung der lokalen Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        16.447397,
+                        56.342866
+                  ]
+            },
+            {
+                  "name": "Södra Möckleby kyrka",
+                  "text": "Eine historische Dorfkirche, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.421599,
+                        56.356509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lastficka",
+                  "text": "Régészeti lelőhely történelmi maradványokkal az erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.413859,
+                        56.352438
+                  ]
+            },
+            {
+                  "name": "Scenen Södra Bruket",
+                  "text": "Kulturális események és színházi előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.408573,
+                        56.343092
+                  ]
+            },
+            {
+                  "name": "Albrunna naturreservat",
+                  "text": "Változatos flórával és faunával rendelkező természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        16.430823,
+                        56.318196
+                  ]
+            },
+            {
+                  "name": "Albrunna lunds naturreservat",
+                  "text": "Védett erdei terület értékes faállománnyal.",
+                  "category": "natural",
+                  "coords": [
+                        16.415546,
+                        56.316281
+                  ]
+            },
+            {
+                  "name": "Strandhagen",
+                  "text": "Part menti természetvédelmi terület jellemző strandnövényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        16.398918,
+                        56.305297
+                  ]
+            },
+            {
+                  "name": "Stormarens naturreservat",
+                  "text": "Védett terület a helyi biodiverzitás megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        16.447397,
+                        56.342866
+                  ]
+            },
+            {
+                  "name": "Södra Möckleby kyrka",
+                  "text": "Történelmi falusi templom, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        16.421599,
+                        56.356509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lastficka",
+                  "text": "Un sit arheologic cu rămășițe istorice lângă fortăreață.",
+                  "category": "historical",
+                  "coords": [
+                        16.413859,
+                        56.352438
+                  ]
+            },
+            {
+                  "name": "Scenen Södra Bruket",
+                  "text": "O scenă pentru evenimente culturale și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        16.408573,
+                        56.343092
+                  ]
+            },
+            {
+                  "name": "Albrunna naturreservat",
+                  "text": "O rezervație naturală cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        16.430823,
+                        56.318196
+                  ]
+            },
+            {
+                  "name": "Albrunna lunds naturreservat",
+                  "text": "O zonă forestieră protejată cu arbori valoroși.",
+                  "category": "natural",
+                  "coords": [
+                        16.415546,
+                        56.316281
+                  ]
+            },
+            {
+                  "name": "Strandhagen",
+                  "text": "O rezervație naturală de coastă cu vegetație tipică de plajă.",
+                  "category": "natural",
+                  "coords": [
+                        16.398918,
+                        56.305297
+                  ]
+            },
+            {
+                  "name": "Stormarens naturreservat",
+                  "text": "O zonă protejată pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        16.447397,
+                        56.342866
+                  ]
+            },
+            {
+                  "name": "Södra Möckleby kyrka",
+                  "text": "O biserică istorică de sat care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        16.421599,
+                        56.356509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lastficka",
+                  "text": "An archaeological site with historical remains near the fortress.",
+                  "category": "historical",
+                  "coords": [
+                        16.413859,
+                        56.352438
+                  ]
+            },
+            {
+                  "name": "Scenen Södra Bruket",
+                  "text": "A stage for cultural events and theater performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.408573,
+                        56.343092
+                  ]
+            },
+            {
+                  "name": "Albrunna naturreservat",
+                  "text": "A nature reserve featuring a diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.430823,
+                        56.318196
+                  ]
+            },
+            {
+                  "name": "Albrunna lunds naturreservat",
+                  "text": "A protected woodland area with valuable tree stands.",
+                  "category": "natural",
+                  "coords": [
+                        16.415546,
+                        56.316281
+                  ]
+            },
+            {
+                  "name": "Strandhagen",
+                  "text": "A coastal nature reserve with typical beach vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.398918,
+                        56.305297
+                  ]
+            },
+            {
+                  "name": "Stormarens naturreservat",
+                  "text": "A protected area for the conservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        16.447397,
+                        56.342866
+                  ]
+            },
+            {
+                  "name": "Södra Möckleby kyrka",
+                  "text": "A historical village church serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        16.421599,
+                        56.356509
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SE",
     name: { de: "Festung Eketorp", hu: "Eketorp erőd", ro: "Cetatea Eketorp", en: "Eketorp Fortress" },
@@ -1810,7 +3052,304 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       fr: ["Construite au XIIIe siècle", "Tour du XVIe siècle", "Longueur 92 m", "Hauteur de la tour 91 m", "Tombe d'Erik XIV", "Retable médiéval"],
     }, image: "/poi-images/sweden-vasteras-cathedral-landmarks-v2.webp"},
   {
-    id: "sweden-borgholm-castle-landmarks-v2",
+    id: "sweden-borgholm-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borga hage",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Schloss Borgholm, das für seine reiche Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.636217,
+                        56.873994
+                  ]
+            },
+            {
+                  "name": "Strandtorp",
+                  "text": "Dieses Naturschutzgebiet bei Schloss Borgholm schützt die typische Küstenlandschaft der Insel Öland.",
+                  "category": "natural",
+                  "coords": [
+                        16.613153,
+                        56.846941
+                  ]
+            },
+            {
+                  "name": "Sollidens slott",
+                  "text": "Die Sommerresidenz der schwedischen Königsfamilie auf der Insel Öland.",
+                  "category": "castle",
+                  "coords": [
+                        16.634595,
+                        56.865399
+                  ]
+            },
+            {
+                  "name": "Borgholm fyr",
+                  "text": "Ein Leuchtturm in der Nähe von Schloss Borgholm, der die Seefahrt an der Küste von Öland unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633216,
+                        56.876124
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Ein öffentliches Hallenbad in Borgholm, das Freizeitaktivitäten für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655363,
+                        56.883102
+                  ]
+            },
+            {
+                  "name": "Borgholms Slott",
+                  "text": "Die imposante Ruine einer historischen Festung und ein Museum auf der Insel Öland.",
+                  "category": "museum",
+                  "coords": [
+                        16.643757,
+                        56.870794
+                  ]
+            },
+            {
+                  "name": "Borgholms Stadsmuseum",
+                  "text": "Ein Museum in Borgholm, das die Stadtgeschichte und das lokale Kulturerbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.659195,
+                        56.877589
+                  ]
+            },
+            {
+                  "name": "Mejeriviken",
+                  "text": "Ein beliebter Strandabschnitt in der Nähe von Schloss Borgholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.669995,
+                        56.883043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borga hage",
+                  "text": "Természetvédelmi terület a Borgholm vár közelében, amely gazdag flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.636217,
+                        56.873994
+                  ]
+            },
+            {
+                  "name": "Strandtorp",
+                  "text": "Ez a Borgholm vár melletti természetvédelmi terület Öland szigetének jellegzetes parti táját védi.",
+                  "category": "natural",
+                  "coords": [
+                        16.613153,
+                        56.846941
+                  ]
+            },
+            {
+                  "name": "Sollidens slott",
+                  "text": "A svéd királyi család nyári rezidenciája Öland szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        16.634595,
+                        56.865399
+                  ]
+            },
+            {
+                  "name": "Borgholm fyr",
+                  "text": "Leírt világítótorony Borgholm vára közelében, amely az ölandi partok hajózását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633216,
+                        56.876124
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "Nyilvános fedett uszoda Borgholmban, amely szabadidős tevékenységeket kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655363,
+                        56.883102
+                  ]
+            },
+            {
+                  "name": "Borgholms Slott",
+                  "text": "Egy történelmi erőd impozáns romjai és múzeuma Öland szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        16.643757,
+                        56.870794
+                  ]
+            },
+            {
+                  "name": "Borgholms Stadsmuseum",
+                  "text": "Múzeum Borgholmban, amely a város történelmét és a helyi kulturális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.659195,
+                        56.877589
+                  ]
+            },
+            {
+                  "name": "Mejeriviken",
+                  "text": "Népszerű strand szakasz a Borgholm vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.669995,
+                        56.883043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borga hage",
+                  "text": "O rezervație naturală lângă castelul Borgholm, cunoscută pentru flora sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        16.636217,
+                        56.873994
+                  ]
+            },
+            {
+                  "name": "Strandtorp",
+                  "text": "Această rezervație naturală de lângă castelul Borgholm protejează peisajul de coastă tipic al insulei Öland.",
+                  "category": "natural",
+                  "coords": [
+                        16.613153,
+                        56.846941
+                  ]
+            },
+            {
+                  "name": "Sollidens slott",
+                  "text": "Reședința de vară a familiei regale suedeze pe insula Öland.",
+                  "category": "castle",
+                  "coords": [
+                        16.634595,
+                        56.865399
+                  ]
+            },
+            {
+                  "name": "Borgholm fyr",
+                  "text": "Un far lângă castelul Borgholm care ajută navigația pe coasta insulei Öland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633216,
+                        56.876124
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "O piscină publică acoperită în Borgholm, care oferă activități de agrement pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655363,
+                        56.883102
+                  ]
+            },
+            {
+                  "name": "Borgholms Slott",
+                  "text": "Ruinele impunătoare ale unei cetăți istorice și un muzeu pe insula Öland.",
+                  "category": "museum",
+                  "coords": [
+                        16.643757,
+                        56.870794
+                  ]
+            },
+            {
+                  "name": "Borgholms Stadsmuseum",
+                  "text": "Un muzeu în Borgholm care prezintă istoria orașului și moștenirea culturală locală.",
+                  "category": "museum",
+                  "coords": [
+                        16.659195,
+                        56.877589
+                  ]
+            },
+            {
+                  "name": "Mejeriviken",
+                  "text": "O secțiune de plajă populară lângă castelul Borgholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.669995,
+                        56.883043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borga hage",
+                  "text": "A nature reserve near Borgholm Castle known for its rich flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.636217,
+                        56.873994
+                  ]
+            },
+            {
+                  "name": "Strandtorp",
+                  "text": "This nature reserve near Borgholm Castle protects the typical coastal landscape of Öland island.",
+                  "category": "natural",
+                  "coords": [
+                        16.613153,
+                        56.846941
+                  ]
+            },
+            {
+                  "name": "Sollidens slott",
+                  "text": "The summer residence of the Swedish Royal Family on the island of Öland.",
+                  "category": "castle",
+                  "coords": [
+                        16.634595,
+                        56.865399
+                  ]
+            },
+            {
+                  "name": "Borgholm fyr",
+                  "text": "A lighthouse near Borgholm Castle that assists navigation along the coast of Öland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633216,
+                        56.876124
+                  ]
+            },
+            {
+                  "name": "Hallenbad",
+                  "text": "A public indoor swimming pool in Borgholm offering leisure activities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        16.655363,
+                        56.883102
+                  ]
+            },
+            {
+                  "name": "Borgholms Slott",
+                  "text": "The imposing ruins of a historic fortress and a museum on the island of Öland.",
+                  "category": "museum",
+                  "coords": [
+                        16.643757,
+                        56.870794
+                  ]
+            },
+            {
+                  "name": "Borgholms Stadsmuseum",
+                  "text": "A museum in Borgholm presenting the city history and local cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        16.659195,
+                        56.877589
+                  ]
+            },
+            {
+                  "name": "Mejeriviken",
+                  "text": "A popular beach section near Borgholm Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        16.669995,
+                        56.883043
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SE",
     name: { de: "Schloss Borgholm", hu: "Borgholmi vár", ro: "Castelul Borgholm", en: "Borgholm Castle" },

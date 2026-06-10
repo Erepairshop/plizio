@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const irelandReliefV2: POI[] = [
 
   {
-    id: "ireland-knockmealdown-mountains-relief-v2",
+    id: "ireland-knockmealdown-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sugarloaf Hill",
+                  "text": "Ein markanter Berggipfel in den Knockmealdown Mountains im Süden Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.942515,
+                        52.246325
+                  ]
+            },
+            {
+                  "name": "Knockshanahullion",
+                  "text": "Ein Berggipfel in den Knockmealdown Mountains an der Grenze zwischen Tipperary und Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.001382,
+                        52.246194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sugarloaf Hill",
+                  "text": "Jellegzetes hegycsúcs az írországi Knockmealdown-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.942515,
+                        52.246325
+                  ]
+            },
+            {
+                  "name": "Knockshanahullion",
+                  "text": "Hegycsúcs a Knockmealdown-hegységben, Tipperary és Waterford megye határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.001382,
+                        52.246194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sugarloaf Hill",
+                  "text": "Un vârf montan proeminent situat în munții Knockmealdown din sudul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.942515,
+                        52.246325
+                  ]
+            },
+            {
+                  "name": "Knockshanahullion",
+                  "text": "Un vârf montan din munții Knockmealdown, la granița dintre comitatele Tipperary și Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.001382,
+                        52.246194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sugarloaf Hill",
+                  "text": "A prominent mountain peak in the Knockmealdown Mountains of southern Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.942515,
+                        52.246325
+                  ]
+            },
+            {
+                  "name": "Knockshanahullion",
+                  "text": "A mountain peak in the Knockmealdown Mountains on the Tipperary and Waterford border.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.001382,
+                        52.246194
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Knockmealdown-Gebirge", hu: "Knockmealdown-hegység", ro: "Munții Knockmealdown", en: "Knockmealdown Mountains" },
@@ -93,7 +174,124 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-bluestack-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-bloom-relief-v2",
+    id: "ireland-slieve-bloom-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "Mit 481 Metern ist der Stillbrook Hill einer der höchsten Gipfel in den Slieve Bloom Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Ein markanter Gipfel in den Slieve Bloom Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Wolftrap Mountain",
+                  "text": "Der Wolftrap Mountain ist eine bedeutende Erhebung in den Slieve Bloom Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.587459,
+                        53.099603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "A 481 méter magas Stillbrook Hill a Slieve Bloom-hegység egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Egy jellegzetes hegycsúcs az írországi Slieve Bloom-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Wolftrap Mountain",
+                  "text": "A Wolftrap Mountain a Slieve Bloom-hegység egyik jelentős magaslata.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.587459,
+                        53.099603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "Cu 481 de metri, Stillbrook Hill este unul dintre cele mai înalte vârfuri din munții Slieve Bloom.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Un vârf proeminent din munții Slieve Bloom din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Wolftrap Mountain",
+                  "text": "Wolftrap Mountain este o înălțime semnificativă în munții Slieve Bloom.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.587459,
+                        53.099603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "At 481 meters, Stillbrook Hill is one of the highest peaks in the Slieve Bloom Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "A prominent peak in the Slieve Bloom Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Wolftrap Mountain",
+                  "text": "Wolftrap Mountain is a significant elevation in the Slieve Bloom Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.587459,
+                        53.099603
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Bloom", hu: "Slieve Bloom", ro: "Slieve Bloom", en: "Slieve Bloom" },
@@ -138,7 +336,268 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-bloom-relief-v2.webp",
   },
   {
-    id: "ireland-nephin-mountain-relief-v2",
+    id: "ireland-nephin-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inishcoe Castle",
+                  "text": "Burgruine in der Nähe des Berges Nephin.",
+                  "category": "castle",
+                  "coords": [
+                        -9.299759,
+                        54.077129
+                  ]
+            },
+            {
+                  "name": "Rathleenan",
+                  "text": "Antike Erdbefestigung in der Nephin-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.363122,
+                        54.074131
+                  ]
+            },
+            {
+                  "name": "Rathnaboogh",
+                  "text": "Historische archäologische Stätte in der Grafschaft Mayo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364961,
+                        54.071492
+                  ]
+            },
+            {
+                  "name": "Rathmore",
+                  "text": "Überreste einer alten Ringfestung bei Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364094,
+                        54.070102
+                  ]
+            },
+            {
+                  "name": "Rathmacostello",
+                  "text": "Archäologischer Fundplatz in der ländlichen Gegend von Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.370302,
+                        54.069959
+                  ]
+            },
+            {
+                  "name": "Skehanagh Fort",
+                  "text": "Historische Wallanlage in der Nähe des Berges Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.352553,
+                        54.058508
+                  ]
+            },
+            {
+                  "name": "Raheen",
+                  "text": "Eine antike archäologische Stätte in der Region Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364958,
+                        54.056046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inishcoe Castle",
+                  "text": "Várrom a Nephin-hegy közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.299759,
+                        54.077129
+                  ]
+            },
+            {
+                  "name": "Rathleenan",
+                  "text": "Ősi földvár a Nephin-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -9.363122,
+                        54.074131
+                  ]
+            },
+            {
+                  "name": "Rathnaboogh",
+                  "text": "Történelmi régészeti lelőhely Mayo megyében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364961,
+                        54.071492
+                  ]
+            },
+            {
+                  "name": "Rathmore",
+                  "text": "Egy ősi gyűrűerőd maradványai Nephin közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364094,
+                        54.070102
+                  ]
+            },
+            {
+                  "name": "Rathmacostello",
+                  "text": "Régészeti lelőhely Nephin vidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.370302,
+                        54.069959
+                  ]
+            },
+            {
+                  "name": "Skehanagh Fort",
+                  "text": "Történelmi erődítmény a Nephin-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.352553,
+                        54.058508
+                  ]
+            },
+            {
+                  "name": "Raheen",
+                  "text": "Egy ősi régészeti lelőhely Nephin területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364958,
+                        54.056046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inishcoe Castle",
+                  "text": "Ruinele unui castel lângă muntele Nephin.",
+                  "category": "castle",
+                  "coords": [
+                        -9.299759,
+                        54.077129
+                  ]
+            },
+            {
+                  "name": "Rathleenan",
+                  "text": "Veche fortificație de pământ în regiunea Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.363122,
+                        54.074131
+                  ]
+            },
+            {
+                  "name": "Rathnaboogh",
+                  "text": "Sit arheologic istoric în comitatul Mayo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364961,
+                        54.071492
+                  ]
+            },
+            {
+                  "name": "Rathmore",
+                  "text": "Rămășițele unui vechi fort circular lângă Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364094,
+                        54.070102
+                  ]
+            },
+            {
+                  "name": "Rathmacostello",
+                  "text": "Sit arheologic în zona rurală din Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.370302,
+                        54.069959
+                  ]
+            },
+            {
+                  "name": "Skehanagh Fort",
+                  "text": "Fortificație istorică lângă muntele Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.352553,
+                        54.058508
+                  ]
+            },
+            {
+                  "name": "Raheen",
+                  "text": "Un sit arheologic antic situat în zona Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364958,
+                        54.056046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inishcoe Castle",
+                  "text": "Ruined castle located near Nephin mountain.",
+                  "category": "castle",
+                  "coords": [
+                        -9.299759,
+                        54.077129
+                  ]
+            },
+            {
+                  "name": "Rathleenan",
+                  "text": "Ancient earthwork fortification in the Nephin region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.363122,
+                        54.074131
+                  ]
+            },
+            {
+                  "name": "Rathnaboogh",
+                  "text": "Historic archaeological site in County Mayo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364961,
+                        54.071492
+                  ]
+            },
+            {
+                  "name": "Rathmore",
+                  "text": "Remains of an ancient ringfort near Nephin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364094,
+                        54.070102
+                  ]
+            },
+            {
+                  "name": "Rathmacostello",
+                  "text": "Archaeological site in the rural Nephin area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.370302,
+                        54.069959
+                  ]
+            },
+            {
+                  "name": "Skehanagh Fort",
+                  "text": "Historic fortification near Nephin mountain.",
+                  "category": "historical",
+                  "coords": [
+                        -9.352553,
+                        54.058508
+                  ]
+            },
+            {
+                  "name": "Raheen",
+                  "text": "An ancient archaeological site located in the Nephin area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.364958,
+                        54.056046
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IE",
     name: { de: "Nephin", hu: "Nephin", ro: "Nephin", en: "Nephin" },
@@ -183,7 +642,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-nephin-mountain-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-gamph-relief-v2",
+    id: "ireland-slieve-gamph-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caltragh",
+                  "text": "Eine archäologische Stätte in den Slieve Gamph Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ein megalithisches Grab in den Slieve Gamph Bergen, verbunden mit lokaler Folklore.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862348,
+                        54.071968
+                  ]
+            },
+            {
+                  "name": "St Barbara's Well",
+                  "text": "Eine traditionelle heilige Quelle in der Region Slieve Gamph.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.901508,
+                        54.069265
+                  ]
+            },
+            {
+                  "name": "Toberaraght",
+                  "text": "Eine historische Quelle und religiöse Stätte in den Slieve Gamph Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899497,
+                        54.067922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caltragh",
+                  "text": "Régészeti lelőhely a Slieve Gamph-hegység területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Megalitikus sír a Slieve Gamph-hegységben, helyi legendákhoz kötődve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862348,
+                        54.071968
+                  ]
+            },
+            {
+                  "name": "St Barbara's Well",
+                  "text": "Hagyományos szent kút a Slieve Gamph régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.901508,
+                        54.069265
+                  ]
+            },
+            {
+                  "name": "Toberaraght",
+                  "text": "Történelmi forrás és vallási kegyhely a Slieve Gamph-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899497,
+                        54.067922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caltragh",
+                  "text": "Un sit arheologic situat în munții Slieve Gamph.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un mormânt megalitic în munții Slieve Gamph, legat de folclorul local.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862348,
+                        54.071968
+                  ]
+            },
+            {
+                  "name": "St Barbara's Well",
+                  "text": "Un izvor tradițional considerat sfânt în regiunea Slieve Gamph.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.901508,
+                        54.069265
+                  ]
+            },
+            {
+                  "name": "Toberaraght",
+                  "text": "Un izvor istoric și sit religios în munții Slieve Gamph.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899497,
+                        54.067922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caltragh",
+                  "text": "An archaeological site located in the Slieve Gamph mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A megalithic tomb in the Slieve Gamph mountains linked to local folklore.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862348,
+                        54.071968
+                  ]
+            },
+            {
+                  "name": "St Barbara's Well",
+                  "text": "A traditional holy well located in the Slieve Gamph region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.901508,
+                        54.069265
+                  ]
+            },
+            {
+                  "name": "Toberaraght",
+                  "text": "A historic spring and religious site in the Slieve Gamph mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899497,
+                        54.067922
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Gamph", hu: "Slieve Gamph", ro: "Slieve Gamph", en: "Slieve Gamph" },
@@ -228,7 +840,196 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-gamph-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-mish-relief-v2",
+    id: "ireland-slieve-mish-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Killeen Old Burial Ground",
+                  "text": "Eine archäologische Ausgrabungsstätte und ein alter Friedhof bei Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.724981,
+                        52.166035
+                  ]
+            },
+            {
+                  "name": "Lisnahown",
+                  "text": "Eine antike archäologische Stätte in der Region Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.7152,
+                        52.187491
+                  ]
+            },
+            {
+                  "name": "Lissymaddigan",
+                  "text": "Ein historischer Ort mit archäologischen Überresten bei Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.72055,
+                        52.182866
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Eine archäologische Stätte in der malerischen Umgebung von Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Killagha Abbey of Our Lady of Bello Loco",
+                  "text": "Die Ruinen einer ehemaligen Augustiner-Abtei in der Nähe von Slieve Mish.",
+                  "category": "religious",
+                  "coords": [
+                        -9.730516,
+                        52.14968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Killeen Old Burial Ground",
+                  "text": "Régészeti lelőhely és régi temetkezési hely Slieve Mish közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.724981,
+                        52.166035
+                  ]
+            },
+            {
+                  "name": "Lisnahown",
+                  "text": "Ókori régészeti lelőhely Slieve Mish környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.7152,
+                        52.187491
+                  ]
+            },
+            {
+                  "name": "Lissymaddigan",
+                  "text": "Történelmi helyszín régészeti maradványokkal Slieve Mish közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.72055,
+                        52.182866
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Régészeti lelőhely Slieve Mish festői környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Killagha Abbey of Our Lady of Bello Loco",
+                  "text": "Egy egykori Ágoston-rendi apátság romjai Slieve Mish közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.730516,
+                        52.14968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Killeen Old Burial Ground",
+                  "text": "Un sit arheologic și un vechi loc de înmormântare lângă Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.724981,
+                        52.166035
+                  ]
+            },
+            {
+                  "name": "Lisnahown",
+                  "text": "Un sit arheologic antic situat în regiunea Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.7152,
+                        52.187491
+                  ]
+            },
+            {
+                  "name": "Lissymaddigan",
+                  "text": "Un sit istoric cu vestigii arheologice lângă Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.72055,
+                        52.182866
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Un sit arheologic aflat în cadrul natural de la Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Killagha Abbey of Our Lady of Bello Loco",
+                  "text": "Ruinele unei foste abații augustiniene din apropiere de Slieve Mish.",
+                  "category": "religious",
+                  "coords": [
+                        -9.730516,
+                        52.14968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Killeen Old Burial Ground",
+                  "text": "An archaeological site and ancient burial ground located near Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.724981,
+                        52.166035
+                  ]
+            },
+            {
+                  "name": "Lisnahown",
+                  "text": "An ancient archaeological site situated in the Slieve Mish area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.7152,
+                        52.187491
+                  ]
+            },
+            {
+                  "name": "Lissymaddigan",
+                  "text": "A historical site featuring archaeological remains near Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.72055,
+                        52.182866
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "An archaeological site located within the scenic area of Slieve Mish.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Killagha Abbey of Our Lady of Bello Loco",
+                  "text": "The ruins of a former Augustinian priory located near Slieve Mish.",
+                  "category": "religious",
+                  "coords": [
+                        -9.730516,
+                        52.14968
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Mish", hu: "Slieve Mish", ro: "Slieve Mish", en: "Slieve Mish" },
@@ -273,7 +1074,268 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-mish-relief-v2.webp",
   },
   {
-    id: "ireland-commeragh-mountains-relief-v2",
+    id: "ireland-commeragh-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilclooney Mountain",
+                  "text": "Bergspitze mit Panoramablick in den Comeragh Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.536825,
+                        52.245878
+                  ]
+            },
+            {
+                  "name": "Coumfea",
+                  "text": "Hoher Gipfel in den Comeragh Mountains, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.568792,
+                        52.2389
+                  ]
+            },
+            {
+                  "name": "Knockaunapeebra",
+                  "text": "Malerischer Berggipfel in den Comeragh Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.544039,
+                        52.237738
+                  ]
+            },
+            {
+                  "name": "Mahon Falls",
+                  "text": "Aussichtspunkt mit Blick auf die beeindruckenden Mahon Falls Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        -7.548338,
+                        52.233798
+                  ]
+            },
+            {
+                  "name": "Magic Road (finish)",
+                  "text": "Berühmte Attraktion, bei der Autos aufgrund einer optischen Täuschung bergauf zu rollen scheinen.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.530074,
+                        52.215718
+                  ]
+            },
+            {
+                  "name": "Magic Road (start)",
+                  "text": "Ausgangspunkt der berühmten Magic Road, an der eine optische Täuschung auftritt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.5311,
+                        52.216285
+                  ]
+            },
+            {
+                  "name": "Palliser Mill",
+                  "text": "Historische Ruinen einer alten Mühle in den Comeragh Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -7.505607,
+                        52.210636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilclooney Mountain",
+                  "text": "Hegycsúcs panorámás kilátással a Comeragh-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.536825,
+                        52.245878
+                  ]
+            },
+            {
+                  "name": "Coumfea",
+                  "text": "Magas hegycsúcs a Comeragh-hegységben, népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.568792,
+                        52.2389
+                  ]
+            },
+            {
+                  "name": "Knockaunapeebra",
+                  "text": "Festői hegycsúcs az írországi Comeragh-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.544039,
+                        52.237738
+                  ]
+            },
+            {
+                  "name": "Mahon Falls",
+                  "text": "Kilátóhely a lenyűgöző Mahon-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.548338,
+                        52.233798
+                  ]
+            },
+            {
+                  "name": "Magic Road (finish)",
+                  "text": "Híres látványosság, ahol az autók egy optikai csalódás miatt felfelé gurulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.530074,
+                        52.215718
+                  ]
+            },
+            {
+                  "name": "Magic Road (start)",
+                  "text": "A híres Magic Road kezdőpontja, ahol az optikai csalódás tapasztalható.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.5311,
+                        52.216285
+                  ]
+            },
+            {
+                  "name": "Palliser Mill",
+                  "text": "Egy régi malom történelmi romjai a Comeragh-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.505607,
+                        52.210636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilclooney Mountain",
+                  "text": "Vârf montan ce oferă vederi panoramice în Munții Comeragh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.536825,
+                        52.245878
+                  ]
+            },
+            {
+                  "name": "Coumfea",
+                  "text": "Vârf înalt situat în Munții Comeragh, popular pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.568792,
+                        52.2389
+                  ]
+            },
+            {
+                  "name": "Knockaunapeebra",
+                  "text": "Vârf montan pitoresc situat în Munții Comeragh din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.544039,
+                        52.237738
+                  ]
+            },
+            {
+                  "name": "Mahon Falls",
+                  "text": "Punct de belvedere cu vedere la spectaculoasa cascadă Mahon Falls.",
+                  "category": "natural",
+                  "coords": [
+                        -7.548338,
+                        52.233798
+                  ]
+            },
+            {
+                  "name": "Magic Road (finish)",
+                  "text": "Atracție faimoasă unde mașinile par să urce dealul singure din cauza unei iluzii optice.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.530074,
+                        52.215718
+                  ]
+            },
+            {
+                  "name": "Magic Road (start)",
+                  "text": "Punctul de plecare al faimosului Magic Road, unde are loc o iluzie optică.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.5311,
+                        52.216285
+                  ]
+            },
+            {
+                  "name": "Palliser Mill",
+                  "text": "Ruinele istorice ale unei vechi mori situate în Munții Comeragh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.505607,
+                        52.210636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilclooney Mountain",
+                  "text": "Mountain peak offering scenic views within the Comeragh Mountains range.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.536825,
+                        52.245878
+                  ]
+            },
+            {
+                  "name": "Coumfea",
+                  "text": "High peak located in the Comeragh Mountains, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.568792,
+                        52.2389
+                  ]
+            },
+            {
+                  "name": "Knockaunapeebra",
+                  "text": "Scenic mountain peak situated in the Comeragh Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.544039,
+                        52.237738
+                  ]
+            },
+            {
+                  "name": "Mahon Falls",
+                  "text": "Scenic viewpoint overlooking the dramatic Mahon Falls waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -7.548338,
+                        52.233798
+                  ]
+            },
+            {
+                  "name": "Magic Road (finish)",
+                  "text": "Famous tourist attraction where cars appear to roll uphill due to an optical illusion.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.530074,
+                        52.215718
+                  ]
+            },
+            {
+                  "name": "Magic Road (start)",
+                  "text": "Starting point of the famous Magic Road where an optical illusion occurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.5311,
+                        52.216285
+                  ]
+            },
+            {
+                  "name": "Palliser Mill",
+                  "text": "Historical ruins of an old mill located in the Comeragh Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -7.505607,
+                        52.210636
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Comeragh-Gebirge", hu: "Comeragh-hegység", ro: "Munții Comeragh", en: "Comeragh Mountains" },
@@ -318,7 +1380,124 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-commeragh-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-na-mon-relief-v2",
+    id: "ireland-slieve-na-mon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "Die Ruine einer mittelalterlichen Burg am Fuße des Slievenamon.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Region Slievenamon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Eine religiöse Stätte in der Nähe von Slievenamon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "Középkori várrom a Slievenamon-hegy lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Régészeti lelőhely a Slievenamon régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Vallási helyszín Slievenamon közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "Ruinele unui castel medieval situat la poalele muntelui Slievenamon.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Un sit arheologic în regiunea Slievenamon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Un lăcaș de cult situat în apropiere de Slievenamon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "The ruins of a medieval castle located at the foot of Slievenamon mountain.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "An archaeological site situated in the Slievenamon region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "A place of worship located near Slievenamon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve na mon", hu: "Slieve na mon", ro: "Slieve na mon", en: "Slievenamon" },
@@ -363,7 +1542,124 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-na-mon-relief-v2.webp",
   },
   {
-    id: "ireland-Twelve-Bens-relief-v2",
+    id: "ireland-Twelve-Bens-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Naturschutzgebiet in den Twelve Bens Bergen in Irland.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Derryclare",
+                  "text": "Ein Berggipfel in der Twelve Bens Gebirgskette.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.785826,
+                        53.496342
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Ein markanter Gipfel in der Region Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Természetvédelmi terület az írországi Twelve Bens hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Derryclare",
+                  "text": "Hegycsúcs a Twelve Bens hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.785826,
+                        53.496342
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Jellegzetes hegycsúcs a Twelve Bens régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Rezervație naturală în munții Twelve Bens din Irlanda.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Derryclare",
+                  "text": "Un vârf muntos în lanțul Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.785826,
+                        53.496342
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Un vârf proeminent în regiunea Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Nature reserve located in the Twelve Bens mountains in Ireland.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Derryclare",
+                  "text": "A mountain peak in the Twelve Bens range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.785826,
+                        53.496342
+                  ]
+            },
+            {
+                  "name": "Lissaughter",
+                  "text": "A prominent peak in the Twelve Bens region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Twelve Bens", hu: "Twelve Bens", ro: "Twelve Bens", en: "Twelve Bens" },
@@ -408,7 +1704,88 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-Twelve-Bens-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-callan-relief-v2",
+    id: "ireland-slieve-callan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slievecallan",
+                  "text": "Der Slievecallan ist der höchste Gipfel im Westen der irischen Grafschaft Clare.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.270725,
+                        52.840719
+                  ]
+            },
+            {
+                  "name": "Inagh Church",
+                  "text": "Die Inagh Church ist ein lokales Gotteshaus im Gebiet von Slieve Callan.",
+                  "category": "religious",
+                  "coords": [
+                        -9.17666,
+                        52.87614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slievecallan",
+                  "text": "A Slievecallan Clare megye nyugati részének legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.270725,
+                        52.840719
+                  ]
+            },
+            {
+                  "name": "Inagh Church",
+                  "text": "Az Inagh-templom egy helyi vallási épület Slieve Callan környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.17666,
+                        52.87614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slievecallan",
+                  "text": "Slievecallan este cel mai înalt vârf din vestul comitatului Clare.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.270725,
+                        52.840719
+                  ]
+            },
+            {
+                  "name": "Inagh Church",
+                  "text": "Biserica Inagh este un lăcaș de cult local situat în zona Slieve Callan.",
+                  "category": "religious",
+                  "coords": [
+                        -9.17666,
+                        52.87614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slievecallan",
+                  "text": "Slievecallan is the highest peak in western County Clare, Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.270725,
+                        52.840719
+                  ]
+            },
+            {
+                  "name": "Inagh Church",
+                  "text": "Inagh Church is a local place of worship located in the Slieve Callan area.",
+                  "category": "religious",
+                  "coords": [
+                        -9.17666,
+                        52.87614
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Callan", hu: "Slieve Callan", ro: "Slieve Callan", en: "Slieve Callan" },
@@ -498,7 +1875,232 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-bernagh-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-ardagh-relief-v2",
+    id: "ireland-slieve-ardagh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballingarry Castle (ruins)",
+                  "text": "Die Überreste einer historischen Burg in der Region Slieve Ardagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.561744,
+                        52.590145
+                  ]
+            },
+            {
+                  "name": "Rathroe",
+                  "text": "Eine archäologische Stätte mit historischen Überresten in Slieve Ardagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.575135,
+                        52.572476
+                  ]
+            },
+            {
+                  "name": "Crohane Castle",
+                  "text": "Eine historische Befestigungsanlage in der hügeligen Landschaft von Slieve Ardagh.",
+                  "category": "castle",
+                  "coords": [
+                        -7.58503,
+                        52.558407
+                  ]
+            },
+            {
+                  "name": "Lismalin Castle (ruins)",
+                  "text": "Burgruinen in Slieve Ardagh, die von der mittelalterlichen Geschichte zeugen.",
+                  "category": "castle",
+                  "coords": [
+                        -7.539789,
+                        52.548318
+                  ]
+            },
+            {
+                  "name": "Toberone",
+                  "text": "Eine natürliche Quelle in der Region Slieve Ardagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.591674,
+                        52.561545
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Eine lokale Kirche in Slieve Ardagh, die Mariä Himmelfahrt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.540707,
+                        52.587648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballingarry Castle (ruins)",
+                  "text": "Egy történelmi vár romjai Slieve Ardagh régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.561744,
+                        52.590145
+                  ]
+            },
+            {
+                  "name": "Rathroe",
+                  "text": "Régészeti lelőhely történelmi maradványokkal Slieve Ardagh területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.575135,
+                        52.572476
+                  ]
+            },
+            {
+                  "name": "Crohane Castle",
+                  "text": "Történelmi erődítmény Slieve Ardagh dombos vidékén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.58503,
+                        52.558407
+                  ]
+            },
+            {
+                  "name": "Lismalin Castle (ruins)",
+                  "text": "Középkori történelemről tanúskodó várromok Slieve Ardagh-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.539789,
+                        52.548318
+                  ]
+            },
+            {
+                  "name": "Toberone",
+                  "text": "Természetes forrás Slieve Ardagh régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.591674,
+                        52.561545
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Nagyboldogasszonynak szentelt helyi templom Slieve Ardagh-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.540707,
+                        52.587648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballingarry Castle (ruins)",
+                  "text": "Ruinele unui castel istoric situat în regiunea Slieve Ardagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.561744,
+                        52.590145
+                  ]
+            },
+            {
+                  "name": "Rathroe",
+                  "text": "Un sit arheologic cu vestigii istorice în Slieve Ardagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.575135,
+                        52.572476
+                  ]
+            },
+            {
+                  "name": "Crohane Castle",
+                  "text": "O fortificație istorică situată în peisajul deluros din Slieve Ardagh.",
+                  "category": "castle",
+                  "coords": [
+                        -7.58503,
+                        52.558407
+                  ]
+            },
+            {
+                  "name": "Lismalin Castle (ruins)",
+                  "text": "Ruine de castel în Slieve Ardagh, atestând istoria medievală.",
+                  "category": "castle",
+                  "coords": [
+                        -7.539789,
+                        52.548318
+                  ]
+            },
+            {
+                  "name": "Toberone",
+                  "text": "Un izvor natural situat în regiunea Slieve Ardagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.591674,
+                        52.561545
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "O biserică locală în Slieve Ardagh, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -7.540707,
+                        52.587648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballingarry Castle (ruins)",
+                  "text": "The ruins of a historic castle in the Slieve Ardagh region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.561744,
+                        52.590145
+                  ]
+            },
+            {
+                  "name": "Rathroe",
+                  "text": "An archaeological site with historic remains in Slieve Ardagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.575135,
+                        52.572476
+                  ]
+            },
+            {
+                  "name": "Crohane Castle",
+                  "text": "A historic fortification in the hilly landscape of Slieve Ardagh.",
+                  "category": "castle",
+                  "coords": [
+                        -7.58503,
+                        52.558407
+                  ]
+            },
+            {
+                  "name": "Lismalin Castle (ruins)",
+                  "text": "Castle ruins in Slieve Ardagh, witnessing medieval history.",
+                  "category": "castle",
+                  "coords": [
+                        -7.539789,
+                        52.548318
+                  ]
+            },
+            {
+                  "name": "Toberone",
+                  "text": "A natural spring located in the Slieve Ardagh region.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.591674,
+                        52.561545
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "A local church in Slieve Ardagh dedicated to the Assumption.",
+                  "category": "religious",
+                  "coords": [
+                        -7.540707,
+                        52.587648
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Ardagh", hu: "Slieve Ardagh", ro: "Slieve Ardagh", en: "Slieve Ardagh" },
@@ -543,7 +2145,304 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-ardagh-relief-v2.webp",
   },
   {
-    id: "ireland-mount-leinstar-relief-v2",
+    id: "ireland-mount-leinstar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rathnageeragh castle",
+                  "text": "Die Überreste einer historischen Burganlage bei Mount Leinster.",
+                  "category": "castle",
+                  "coords": [
+                        -6.823277,
+                        52.655542
+                  ]
+            },
+            {
+                  "name": "Mount Leinster",
+                  "text": "Der höchste Gipfel der Blackstairs Mountains an der Grenze der Grafschaften Carlow und Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780344,
+                        52.618158
+                  ]
+            },
+            {
+                  "name": "Slievebawn",
+                  "text": "Ein prominenter Gipfel in der Bergregion des Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.809545,
+                        52.638912
+                  ]
+            },
+            {
+                  "name": "Kilbrannish Hill",
+                  "text": "Ein malerischer Hügel in der Nähe des Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750831,
+                        52.661632
+                  ]
+            },
+            {
+                  "name": "Scratoe",
+                  "text": "Ein Berggipfel in der Gegend von Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.763727,
+                        52.682737
+                  ]
+            },
+            {
+                  "name": "Croaghaun",
+                  "text": "Ein Gipfel in den Blackstairs Mountains nahe dem Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.767874,
+                        52.663646
+                  ]
+            },
+            {
+                  "name": "Saint Finian's Church",
+                  "text": "Eine lokale Kirche in der Gemeinde Mount Leinster.",
+                  "category": "religious",
+                  "coords": [
+                        -6.780298,
+                        52.685145
+                  ]
+            },
+            {
+                  "name": "Saint Laserian's Church",
+                  "text": "Eine historische Kirche in der Gegend von Mount Leinster.",
+                  "category": "religious",
+                  "coords": [
+                        -6.839644,
+                        52.659191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rathnageeragh castle",
+                  "text": "Egy történelmi vár maradványai a Mount Leinster közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.823277,
+                        52.655542
+                  ]
+            },
+            {
+                  "name": "Mount Leinster",
+                  "text": "A Blackstairs-hegység legmagasabb pontja Carlow és Wexford megye határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780344,
+                        52.618158
+                  ]
+            },
+            {
+                  "name": "Slievebawn",
+                  "text": "Kiemelkedő hegycsúcs a Mount Leinster vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.809545,
+                        52.638912
+                  ]
+            },
+            {
+                  "name": "Kilbrannish Hill",
+                  "text": "Festői domb a Mount Leinster környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750831,
+                        52.661632
+                  ]
+            },
+            {
+                  "name": "Scratoe",
+                  "text": "Hegycsúcs a Mount Leinster területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.763727,
+                        52.682737
+                  ]
+            },
+            {
+                  "name": "Croaghaun",
+                  "text": "A Blackstairs-hegység egyik csúcsa a Mount Leinster közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.767874,
+                        52.663646
+                  ]
+            },
+            {
+                  "name": "Saint Finian's Church",
+                  "text": "Helyi templom Mount Leinster községében.",
+                  "category": "religious",
+                  "coords": [
+                        -6.780298,
+                        52.685145
+                  ]
+            },
+            {
+                  "name": "Saint Laserian's Church",
+                  "text": "Történelmi templom a Mount Leinster környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.839644,
+                        52.659191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rathnageeragh castle",
+                  "text": "Rămășițele unei fortificații istorice lângă Mount Leinster.",
+                  "category": "castle",
+                  "coords": [
+                        -6.823277,
+                        52.655542
+                  ]
+            },
+            {
+                  "name": "Mount Leinster",
+                  "text": "Cel mai înalt vârf din munții Blackstairs, la granița județelor Carlow și Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780344,
+                        52.618158
+                  ]
+            },
+            {
+                  "name": "Slievebawn",
+                  "text": "Un vârf proeminent în regiunea montană Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.809545,
+                        52.638912
+                  ]
+            },
+            {
+                  "name": "Kilbrannish Hill",
+                  "text": "Un deal pitoresc situat în apropiere de Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750831,
+                        52.661632
+                  ]
+            },
+            {
+                  "name": "Scratoe",
+                  "text": "Un vârf montan în zona Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.763727,
+                        52.682737
+                  ]
+            },
+            {
+                  "name": "Croaghaun",
+                  "text": "Un vârf din munții Blackstairs situat lângă Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.767874,
+                        52.663646
+                  ]
+            },
+            {
+                  "name": "Saint Finian's Church",
+                  "text": "O biserică locală în comunitatea Mount Leinster.",
+                  "category": "religious",
+                  "coords": [
+                        -6.780298,
+                        52.685145
+                  ]
+            },
+            {
+                  "name": "Saint Laserian's Church",
+                  "text": "O biserică istorică în zona Mount Leinster.",
+                  "category": "religious",
+                  "coords": [
+                        -6.839644,
+                        52.659191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rathnageeragh castle",
+                  "text": "The remains of a historic castle fortification near Mount Leinster.",
+                  "category": "castle",
+                  "coords": [
+                        -6.823277,
+                        52.655542
+                  ]
+            },
+            {
+                  "name": "Mount Leinster",
+                  "text": "The highest peak in the Blackstairs Mountains on the border of counties Carlow and Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780344,
+                        52.618158
+                  ]
+            },
+            {
+                  "name": "Slievebawn",
+                  "text": "A prominent peak in the Mount Leinster mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.809545,
+                        52.638912
+                  ]
+            },
+            {
+                  "name": "Kilbrannish Hill",
+                  "text": "A scenic hill located in the vicinity of Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750831,
+                        52.661632
+                  ]
+            },
+            {
+                  "name": "Scratoe",
+                  "text": "A mountain peak in the Mount Leinster area.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.763727,
+                        52.682737
+                  ]
+            },
+            {
+                  "name": "Croaghaun",
+                  "text": "A peak in the Blackstairs Mountains located near Mount Leinster.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.767874,
+                        52.663646
+                  ]
+            },
+            {
+                  "name": "Saint Finian's Church",
+                  "text": "A local church serving the Mount Leinster community.",
+                  "category": "religious",
+                  "coords": [
+                        -6.780298,
+                        52.685145
+                  ]
+            },
+            {
+                  "name": "Saint Laserian's Church",
+                  "text": "A historic church located in the Mount Leinster area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.839644,
+                        52.659191
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IE",
     name: { de: "Mount Leinster", hu: "Mount Leinster", ro: "Mount Leinster", en: "Mount Leinster" },
@@ -588,7 +2487,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mount-leinstar-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-league-relief-v2",
+    id: "ireland-slieve-league-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slieve League",
+                  "text": "Ein beeindruckender Berggipfel und eine der höchsten Meeresklippen Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Ein malerischer Berggipfel in der Region Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruinen eines historischen Signalturms aus der napoleonischen Ära an der Küste.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Eine lokale Quelle und ein Ort von natürlichem Interesse in Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slieve League",
+                  "text": "Lenyűgöző hegycsúcs és Írország egyik legmagasabb tengeri sziklafala.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Festői hegycsúcs a Slieve League területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Egy napóleoni korszakból származó történelmi jelzőtorony romjai a parton.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Egy helyi forrás és természeti látnivaló a Slieve League-nél.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slieve League",
+                  "text": "Un vârf muntos spectaculos și unele dintre cele mai înalte faleză marine din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Un vârf muntos pitoresc situat în zona Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruinele unui turn de semnalizare istoric din epoca napoleoniană de pe coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Un izvor local și un sit de interes natural în Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slieve League",
+                  "text": "Magnificent mountain peak and some of the highest sea cliffs in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Crockrawer",
+                  "text": "A scenic mountain peak located in the Slieve League area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruins of a historic Napoleonic-era signal tower on the coast.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "A local spring and site of natural interest in Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve League", hu: "Slieve League", ro: "Slieve League", en: "Slieve League" },
@@ -633,7 +2685,268 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-league-relief-v2.webp",
   },
   {
-    id: "ireland-mount-brandon-relief-v2",
+    id: "ireland-mount-brandon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tearmann Dúlra Cnoc Bréanainn / Mount Brandon Nature Reserve",
+                  "text": "Ein Naturschutzgebiet in der Nähe des Berges Mount Brandon, das für seine Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -10.237203,
+                        52.26761
+                  ]
+            },
+            {
+                  "name": "Cnoc Bréanainn",
+                  "text": "Einer der höchsten Berge Irlands, der weite Ausblicke über die Dingle-Halbinsel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.25435,
+                        52.235188
+                  ]
+            },
+            {
+                  "name": "Más an Tiompáin",
+                  "text": "Ein Berggipfel im Mount-Brandon-Massiv, der bei Wanderern sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.24846,
+                        52.261681
+                  ]
+            },
+            {
+                  "name": "An Sliabh Glas",
+                  "text": "Ein Gipfel in den Bergen von Kerry, der charakteristisch für die irische Küstenlandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.203655,
+                        52.277916
+                  ]
+            },
+            {
+                  "name": "Binn na mBan",
+                  "text": "Ein markanter Bergpunkt auf der Dingle-Halbinsel in der Nähe der Atlantikküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.285224,
+                        52.254243
+                  ]
+            },
+            {
+                  "name": "Brandon Head Signal Tower",
+                  "text": "Die Ruinen eines historischen Signalturms an der Küste am Fuße des Mount Brandon.",
+                  "category": "historical",
+                  "coords": [
+                        -10.249278,
+                        52.2563
+                  ]
+            },
+            {
+                  "name": "World War II plane crash site: Engine of Focke-Wulf Fw 200 Condor",
+                  "text": "Die Absturzstelle eines Flugzeugs aus dem Zweiten Weltkrieg, an der noch Motorenteile sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.232718,
+                        52.234572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tearmann Dúlra Cnoc Bréanainn / Mount Brandon Nature Reserve",
+                  "text": "Természetvédelmi terület a Mount Brandon közelében, amely gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -10.237203,
+                        52.26761
+                  ]
+            },
+            {
+                  "name": "Cnoc Bréanainn",
+                  "text": "Írország egyik legmagasabb csúcsa, amely széles kilátást nyújt a Dingle-félszigetre.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.25435,
+                        52.235188
+                  ]
+            },
+            {
+                  "name": "Más an Tiompáin",
+                  "text": "Hegycsúcs a Mount Brandon-masszívumban, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.24846,
+                        52.261681
+                  ]
+            },
+            {
+                  "name": "An Sliabh Glas",
+                  "text": "Egy csúcs a Kerry-hegységben, amely jellemző az ír tengerparti tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.203655,
+                        52.277916
+                  ]
+            },
+            {
+                  "name": "Binn na mBan",
+                  "text": "Egy jellegzetes hegyi pont a Dingle-félszigeten, az Atlanti-óceán partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.285224,
+                        52.254243
+                  ]
+            },
+            {
+                  "name": "Brandon Head Signal Tower",
+                  "text": "Egy történelmi part menti jelzőtorony romjai a Mount Brandon lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        -10.249278,
+                        52.2563
+                  ]
+            },
+            {
+                  "name": "World War II plane crash site: Engine of Focke-Wulf Fw 200 Condor",
+                  "text": "Egy második világháborús repülőgép-szerencsétlenség helyszíne, ahol ma is láthatók motoralkatrészek.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.232718,
+                        52.234572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tearmann Dúlra Cnoc Bréanainn / Mount Brandon Nature Reserve",
+                  "text": "O rezervație naturală lângă muntele Brandon, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -10.237203,
+                        52.26761
+                  ]
+            },
+            {
+                  "name": "Cnoc Bréanainn",
+                  "text": "Unul dintre cei mai înalți munți din Irlanda, oferind vederi largi asupra peninsulei Dingle.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.25435,
+                        52.235188
+                  ]
+            },
+            {
+                  "name": "Más an Tiompáin",
+                  "text": "Un vârf montan în masivul Mount Brandon, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.24846,
+                        52.261681
+                  ]
+            },
+            {
+                  "name": "An Sliabh Glas",
+                  "text": "Un vârf în munții din Kerry, caracteristic peisajului de coastă irlandez.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.203655,
+                        52.277916
+                  ]
+            },
+            {
+                  "name": "Binn na mBan",
+                  "text": "Un punct montan distinctiv pe peninsula Dingle, în apropierea coastei atlantice.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.285224,
+                        52.254243
+                  ]
+            },
+            {
+                  "name": "Brandon Head Signal Tower",
+                  "text": "Ruinele unui turn de semnalizare istoric situat pe coastă, la poalele muntelui Brandon.",
+                  "category": "historical",
+                  "coords": [
+                        -10.249278,
+                        52.2563
+                  ]
+            },
+            {
+                  "name": "World War II plane crash site: Engine of Focke-Wulf Fw 200 Condor",
+                  "text": "Locul prăbușirii unui avion din al Doilea Război Mondial, unde resturi de motor sunt încă vizibile.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.232718,
+                        52.234572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tearmann Dúlra Cnoc Bréanainn / Mount Brandon Nature Reserve",
+                  "text": "A nature reserve near Mount Brandon known for its diverse local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -10.237203,
+                        52.26761
+                  ]
+            },
+            {
+                  "name": "Mount Brandon",
+                  "text": "One of the highest peaks in Ireland, offering expansive views over the Dingle Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.25435,
+                        52.235188
+                  ]
+            },
+            {
+                  "name": "Masatiompan",
+                  "text": "A mountain peak within the Mount Brandon massif, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.24846,
+                        52.261681
+                  ]
+            },
+            {
+                  "name": "Slieveglass",
+                  "text": "A peak in the Kerry mountains characteristic of the Irish coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.203655,
+                        52.277916
+                  ]
+            },
+            {
+                  "name": "Beennaman",
+                  "text": "A distinctive mountain point on the Dingle Peninsula near the Atlantic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.285224,
+                        52.254243
+                  ]
+            },
+            {
+                  "name": "Brandon Head Signal Tower",
+                  "text": "The ruins of a historic coastal signal tower located at the base of Mount Brandon.",
+                  "category": "historical",
+                  "coords": [
+                        -10.249278,
+                        52.2563
+                  ]
+            },
+            {
+                  "name": "World War II plane crash site: Engine of Focke-Wulf Fw 200 Condor",
+                  "text": "A World War II aircraft crash site where parts of an engine remain visible.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.232718,
+                        52.234572
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IE",
     name: { de: "Mount Brandon", hu: "Mount Brandon", ro: "Mount Brandon", en: "Mount Brandon" },
@@ -723,7 +3036,52 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mangerton-mountain-relief-v2.webp",
   },
   {
-    id: "ireland-mount-eric-relief-v2",
+    id: "ireland-mount-eric-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inishmurray Island Monastic Site",
+                  "text": "Die Überreste einer bedeutenden frühchristlichen Klostersiedlung auf der Insel Inishmurray.",
+                  "category": "religious",
+                  "coords": [
+                        -8.656937,
+                        54.431033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inishmurray Island Monastic Site",
+                  "text": "Egy jelentős korai keresztény kolostorváros maradványai az Inishmurray-szigeten.",
+                  "category": "religious",
+                  "coords": [
+                        -8.656937,
+                        54.431033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inishmurray Island Monastic Site",
+                  "text": "Rămășițele unei așezări monahale timpurii importante pe insula Inishmurray.",
+                  "category": "religious",
+                  "coords": [
+                        -8.656937,
+                        54.431033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inishmurray Island Monastic Site",
+                  "text": "The remains of a significant early Christian monastic settlement on Inishmurray Island.",
+                  "category": "religious",
+                  "coords": [
+                        -8.656937,
+                        54.431033
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Mount Eric", hu: "Mount Eric", ro: "Mount Eric", en: "Mount Eric" },
@@ -768,7 +3126,340 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mount-eric-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-more-relief-v2", "sights": {"de": [{"name": "Doogort Beach", "text": "Eingebettet in den imposanten Schatten des Slievemore, ist Doogort Beach ein dramatisches Küstenhighlight in Irland. Der wunderschöne Sandstrand bietet einen wunderbaren Ort für entspannte Spaziergänge mit einer außergewöhnlichen Bergkulisse im Rücken. Die raue und dennoch einladende Umgebung spiegelt den wahren, wilden Charakter der lokalen Küste wider. Ein Besuch an einem klaren Tag gewährt spektakuläre Aussichten entlang der Inselküste.", "category": "recreational", "coords": [-10.023435, 54.012577]}, {"name": "Trá Ghob na hAirde", "text": "Trá Ghob na hAirde liegt bei Slieve More.", "category": "recreational", "coords": [-9.979435, 54.022947]}], "hu": [{"name": "Doogort Beach", "text": "A Slievemore hegy impozáns árnyékában megbúvó Doogort Beach Írország egyik drámai tengerparti fénypontja. A gyönyörű homokos szakasz csodálatos helyet kínál a kényelmes sétákhoz, melyekhez egy különleges hegyvidéki háttér társul. Zordnak, mégis hívogatónak hat, bemutatva a helyi partvonal valódi vad karakterét. Tiszta időben érkezve látványos kilátás nyílik a sziget partjaira.", "category": "recreational", "coords": [-10.023435, 54.012577]}, {"name": "Trá Ghob na hAirde", "text": "A Trá Ghob na hAirde a Slieve More közelében található.", "category": "recreational", "coords": [-9.979435, 54.022947]}], "ro": [{"name": "Doogort Beach", "text": "Amplasată sub umbra impunătoare a muntelui Slievemore, plaja Doogort este un punct de atracție dramatic pe coasta irlandeză. Frumoasa întindere de nisip oferă un loc minunat pentru plimbări relaxante, cu un fundal montan extraordinar. Pare aspră, dar primitoare, reprezentând adevăratul caracter sălbatic al țărmului local. O vizită într-o zi senină oferă priveliști spectaculoase asupra țărmurilor insulei.", "category": "recreational", "coords": [-10.023435, 54.012577]}, {"name": "Trá Ghob na hAirde", "text": "Trá Ghob na hAirde este situată lângă Slieve More.", "category": "recreational", "coords": [-9.979435, 54.022947]}], "en": [{"name": "Doogort Beach", "text": "Nestled under the imposing shadow of Slievemore, Doogort Beach is a dramatic coastal highlight in Ireland. The beautiful stretch of sand offers a wonderful place for leisurely walks with an extraordinary mountain backdrop. It feels rugged yet welcoming, representing the true wild character of the local coastline. Visiting on a clear day provides spectacular views spanning the island's shores.", "category": "recreational", "coords": [-10.023435, 54.012577]}, {"name": "Trá Ghob na hAirde", "text": "Trá Ghob na hAirde is located near Slieve More.", "category": "recreational", "coords": [-9.979435, 54.022947]}]},
+    id: "ireland-slieve-more-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Eingebettet in den imposanten Schatten des Slievemore, ist Doogort Beach ein dramatisches Küstenhighlight in Irland. Der wunderschöne Sandstrand bietet einen wunderbaren Ort für entspannte Spaziergänge mit einer außergewöhnlichen Bergkulisse im Rücken. Die raue und dennoch einladende Umgebung spiegelt den wahren, wilden Charakter der lokalen Küste wider. Ein Besuch an einem klaren Tag gewährt spektakuläre Aussichten entlang der Inselküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde liegt bei Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            },
+            {
+                  "name": "Deserted Village",
+                  "text": "Eine archäologische Stätte auf Achill Island mit den Überresten von über 80 Steinhütten.",
+                  "category": "historical",
+                  "coords": [
+                        -10.082098,
+                        53.995597
+                  ]
+            },
+            {
+                  "name": "Megalithic Tomb",
+                  "text": "Eine antike megalithische Grabstätte an den Hängen des Slievemore.",
+                  "category": "historical",
+                  "coords": [
+                        -10.060154,
+                        54.000002
+                  ]
+            },
+            {
+                  "name": "Achill Experience",
+                  "text": "Ein Aquarium und Besucherzentrum auf Achill Island, das die lokale Meeresfauna zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.080577,
+                        53.983851
+                  ]
+            },
+            {
+                  "name": "Golden Strand",
+                  "text": "Ein ruhiger Strandabschnitt auf Achill Island mit Blick auf die umliegende Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.991109,
+                        54.014237
+                  ]
+            },
+            {
+                  "name": "Slievemore",
+                  "text": "Der zweithöchste Gipfel auf Achill Island mit Panoramablick auf den Atlantik.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.058993,
+                        54.009744
+                  ]
+            },
+            {
+                  "name": "Heinrich-Böll-Cottage",
+                  "text": "Das ehemalige Wohnhaus des deutschen Nobelpreisträgers Heinrich Böll auf Achill Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.029205,
+                        54.002527
+                  ]
+            },
+            {
+                  "name": "Western Light Art Gallery",
+                  "text": "Eine Kunstgalerie in Slievemore, die Werke lokaler und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -10.075113,
+                        53.977241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "A Slievemore hegy impozáns árnyékában megbúvó Doogort Beach Írország egyik drámai tengerparti fénypontja. A gyönyörű homokos szakasz csodálatos helyet kínál a kényelmes sétákhoz, melyekhez egy különleges hegyvidéki háttér társul. Zordnak, mégis hívogatónak hat, bemutatva a helyi partvonal valódi vad karakterét. Tiszta időben érkezve látványos kilátás nyílik a sziget partjaira.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "A Trá Ghob na hAirde a Slieve More közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            },
+            {
+                  "name": "Deserted Village",
+                  "text": "Régészeti lelőhely az Achill-szigeten, amely több mint 80 kőkunyhó maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -10.082098,
+                        53.995597
+                  ]
+            },
+            {
+                  "name": "Megalithic Tomb",
+                  "text": "Ősi megalitikus sírhely a Slievemore lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.060154,
+                        54.000002
+                  ]
+            },
+            {
+                  "name": "Achill Experience",
+                  "text": "Akvárium és látogatóközpont az Achill-szigeten, amely a helyi tengeri élővilágot mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.080577,
+                        53.983851
+                  ]
+            },
+            {
+                  "name": "Golden Strand",
+                  "text": "Nyugodt tengerparti szakasz az Achill-szigeten, kilátással a környező partvidékre.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.991109,
+                        54.014237
+                  ]
+            },
+            {
+                  "name": "Slievemore",
+                  "text": "Az Achill-sziget második legmagasabb csúcsa, panorámás kilátással az Atlanti-óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.058993,
+                        54.009744
+                  ]
+            },
+            {
+                  "name": "Heinrich-Böll-Cottage",
+                  "text": "Heinrich Böll Nobel-díjas német író egykori lakóháza az Achill-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.029205,
+                        54.002527
+                  ]
+            },
+            {
+                  "name": "Western Light Art Gallery",
+                  "text": "Művészeti galéria Slievemore-ban, helyi és nemzetközi művészek alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        -10.075113,
+                        53.977241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Amplasată sub umbra impunătoare a muntelui Slievemore, plaja Doogort este un punct de atracție dramatic pe coasta irlandeză. Frumoasa întindere de nisip oferă un loc minunat pentru plimbări relaxante, cu un fundal montan extraordinar. Pare aspră, dar primitoare, reprezentând adevăratul caracter sălbatic al țărmului local. O vizită într-o zi senină oferă priveliști spectaculoase asupra țărmurilor insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde este situată lângă Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            },
+            {
+                  "name": "Deserted Village",
+                  "text": "Sit arheologic pe insula Achill, cuprinzând ruinele a peste 80 de colibe de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -10.082098,
+                        53.995597
+                  ]
+            },
+            {
+                  "name": "Megalithic Tomb",
+                  "text": "Un mormânt megalitic antic situat pe pantele muntelui Slievemore.",
+                  "category": "historical",
+                  "coords": [
+                        -10.060154,
+                        54.000002
+                  ]
+            },
+            {
+                  "name": "Achill Experience",
+                  "text": "Un acvariu și centru pentru vizitatori pe insula Achill, prezentând fauna marină locală.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.080577,
+                        53.983851
+                  ]
+            },
+            {
+                  "name": "Golden Strand",
+                  "text": "O zonă de plajă liniștită pe insula Achill, oferind vedere spre coasta înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.991109,
+                        54.014237
+                  ]
+            },
+            {
+                  "name": "Slievemore",
+                  "text": "Al doilea cel mai înalt vârf de pe insula Achill, oferind vedere panoramică asupra Atlanticului.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.058993,
+                        54.009744
+                  ]
+            },
+            {
+                  "name": "Heinrich-Böll-Cottage",
+                  "text": "Fosta reședință a laureatului Nobel german Heinrich Böll pe insula Achill.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.029205,
+                        54.002527
+                  ]
+            },
+            {
+                  "name": "Western Light Art Gallery",
+                  "text": "O galerie de artă în Slievemore, care expune lucrări ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        -10.075113,
+                        53.977241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Nestled under the imposing shadow of Slievemore, Doogort Beach is a dramatic coastal highlight in Ireland. The beautiful stretch of sand offers a wonderful place for leisurely walks with an extraordinary mountain backdrop. It feels rugged yet welcoming, representing the true wild character of the local coastline. Visiting on a clear day provides spectacular views spanning the island's shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde is located near Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            },
+            {
+                  "name": "Deserted Village",
+                  "text": "An archaeological site on Achill Island featuring the remains of over 80 stone cottages.",
+                  "category": "historical",
+                  "coords": [
+                        -10.082098,
+                        53.995597
+                  ]
+            },
+            {
+                  "name": "Megalithic Tomb",
+                  "text": "An ancient megalithic burial site located on the slopes of Slievemore.",
+                  "category": "historical",
+                  "coords": [
+                        -10.060154,
+                        54.000002
+                  ]
+            },
+            {
+                  "name": "Achill Experience",
+                  "text": "An aquarium and visitor centre on Achill Island showcasing local marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.080577,
+                        53.983851
+                  ]
+            },
+            {
+                  "name": "Barnynagappul Strand",
+                  "text": "A tranquil beach area on Achill Island offering views of the surrounding coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.991109,
+                        54.014237
+                  ]
+            },
+            {
+                  "name": "Slievemore",
+                  "text": "The second highest peak on Achill Island, offering panoramic views of the Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.058993,
+                        54.009744
+                  ]
+            },
+            {
+                  "name": "Heinrich-Böll-Cottage",
+                  "text": "The former residence of the German Nobel laureate Heinrich Böll on Achill Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.029205,
+                        54.002527
+                  ]
+            },
+            {
+                  "name": "Western Light Art Gallery",
+                  "text": "An art gallery in Slievemore showcasing works by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        -10.075113,
+                        53.977241
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve More", hu: "Slieve More", ro: "Slieve More", en: "Slievemore" },
@@ -813,7 +3504,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-more-relief-v2.webp",
   },
   {
-    id: "ireland-killary-valley-relief-v2",
+    id: "ireland-killary-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ben Gorm",
+                  "text": "Ein majestätischer Berggipfel an der Nordseite des Killary Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720969,
+                        53.624693
+                  ]
+            },
+            {
+                  "name": "Leenaun Hill",
+                  "text": "Ein Berggipfel in der Region Connemara mit Blick auf den Killary Fjord.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.699847,
+                        53.572144
+                  ]
+            },
+            {
+                  "name": "The Sheep And Wool Heritage Centre",
+                  "text": "Eine Besucherattraktion in Leenaun, die die Geschichte der Schafzucht und Wollproduktion zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.693792,
+                        53.596426
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Ein malerischer natürlicher Wasserfall im Gebiet des Killary Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.686706,
+                        53.581446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ben Gorm",
+                  "text": "Egy fenséges hegycsúcs a Killary Harbour északi oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720969,
+                        53.624693
+                  ]
+            },
+            {
+                  "name": "Leenaun Hill",
+                  "text": "Hegycsúcs a Connemara régióban, ahonnan kilátás nyílik a Killary-fjordra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.699847,
+                        53.572144
+                  ]
+            },
+            {
+                  "name": "The Sheep And Wool Heritage Centre",
+                  "text": "Turisztikai látványosság Leenaunban, amely a juhászat és a gyapjútermelés történetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.693792,
+                        53.596426
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Egy festői természetes vízesés a Killary-völgy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.686706,
+                        53.581446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ben Gorm",
+                  "text": "Un vârf muntos maiestuos situat pe partea de nord a portului Killary.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720969,
+                        53.624693
+                  ]
+            },
+            {
+                  "name": "Leenaun Hill",
+                  "text": "Un vârf muntos din regiunea Connemara care oferă vederi spre Killary Fjord.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.699847,
+                        53.572144
+                  ]
+            },
+            {
+                  "name": "The Sheep And Wool Heritage Centre",
+                  "text": "O atracție turistică din Leenaun care prezintă istoria creșterii oilor și a producției de lână.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.693792,
+                        53.596426
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "O cascadă naturală pitorească situată în zona Văii Killary.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.686706,
+                        53.581446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ben Gorm",
+                  "text": "A majestic mountain peak located on the northern side of Killary Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720969,
+                        53.624693
+                  ]
+            },
+            {
+                  "name": "Leenaun Hill",
+                  "text": "A mountain peak in the Connemara region providing views of the Killary Fjord.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.699847,
+                        53.572144
+                  ]
+            },
+            {
+                  "name": "The Sheep And Wool Heritage Centre",
+                  "text": "A visitor attraction in Leenaun showcasing the history of sheep farming and wool production.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.693792,
+                        53.596426
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "A scenic natural waterfall located in the Killary Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.686706,
+                        53.581446
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IE",
     name: { de: "Killary-Tal", hu: "Killary-völgy", ro: "Valea Killary", en: "Killary Valley" },
@@ -858,7 +3702,304 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-killary-valley-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-mis-relief-v2",
+    id: "ireland-slieve-mis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lissaroe",
+                  "text": "Lissaroe ist eine antike archäologische Stätte in Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.809337,
+                        52.167265
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Lisnagrave ist eine archäologische Fundstätte in Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Baurtregaum",
+                  "text": "Der Baurtregaum ist der höchste Berg in der Slieve-Mis-Kette.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829501,
+                        52.207056
+                  ]
+            },
+            {
+                  "name": "Caherconree",
+                  "text": "Der Caherconree ist ein Berg in Slieve Mis, der für sein antikes Steinfort bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.853695,
+                        52.203029
+                  ]
+            },
+            {
+                  "name": "Gearhane",
+                  "text": "Gearhane ist ein markanter Berggipfel in der Slieve-Mis-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.854309,
+                        52.21122
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill ist ein Gipfel in den Slieve-Mis-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.819697,
+                        52.195443
+                  ]
+            },
+            {
+                  "name": "Glanbrack Mountain",
+                  "text": "Der Glanbrack Mountain ist ein Teil des Slieve-Mis-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.796784,
+                        52.2097
+                  ]
+            },
+            {
+                  "name": "Knockauncorragh",
+                  "text": "Knockauncorragh ist ein Berggipfel in Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771664,
+                        52.218322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lissaroe",
+                  "text": "Lissaroe egy ókori régészeti lelőhely Slieve Mis területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.809337,
+                        52.167265
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Lisnagrave egy régészeti lelőhely Slieve Mis területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Baurtregaum",
+                  "text": "A Baurtregaum a Slieve Mis-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829501,
+                        52.207056
+                  ]
+            },
+            {
+                  "name": "Caherconree",
+                  "text": "A Caherconree egy hegycsúcs Slieve Misnél, amely ősi kőerődjéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.853695,
+                        52.203029
+                  ]
+            },
+            {
+                  "name": "Gearhane",
+                  "text": "Gearhane egy jellegzetes hegycsúcs Slieve Mis régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.854309,
+                        52.21122
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill egy hegycsúcs a Slieve Mis-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.819697,
+                        52.195443
+                  ]
+            },
+            {
+                  "name": "Glanbrack Mountain",
+                  "text": "A Glanbrack Mountain a Slieve Mis-hegylánc egyik csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.796784,
+                        52.2097
+                  ]
+            },
+            {
+                  "name": "Knockauncorragh",
+                  "text": "Knockauncorragh egy hegycsúcs Slieve Mis területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771664,
+                        52.218322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lissaroe",
+                  "text": "Lissaroe este un sit arheologic antic situat în Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.809337,
+                        52.167265
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Lisnagrave este un sit arheologic situat în Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Baurtregaum",
+                  "text": "Baurtregaum este cel mai înalt vârf din munții Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829501,
+                        52.207056
+                  ]
+            },
+            {
+                  "name": "Caherconree",
+                  "text": "Caherconree este un vârf din Slieve Mis, cunoscut pentru fortăreața sa antică de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.853695,
+                        52.203029
+                  ]
+            },
+            {
+                  "name": "Gearhane",
+                  "text": "Gearhane este un vârf muntos proeminent în regiunea Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.854309,
+                        52.21122
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill este un vârf în munții Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.819697,
+                        52.195443
+                  ]
+            },
+            {
+                  "name": "Glanbrack Mountain",
+                  "text": "Glanbrack Mountain este un vârf care face parte din munții Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.796784,
+                        52.2097
+                  ]
+            },
+            {
+                  "name": "Knockauncorragh",
+                  "text": "Knockauncorragh este un vârf muntos în Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771664,
+                        52.218322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lissaroe",
+                  "text": "Lissaroe is an ancient archaeological site located in Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.809337,
+                        52.167265
+                  ]
+            },
+            {
+                  "name": "Lisnagrave",
+                  "text": "Lisnagrave is an archaeological site located in Slieve Mis.",
+                  "category": "historical",
+                  "coords": [
+                        -9.785054,
+                        52.177488
+                  ]
+            },
+            {
+                  "name": "Baurtregaum",
+                  "text": "Baurtregaum is the highest peak in the Slieve Mis Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829501,
+                        52.207056
+                  ]
+            },
+            {
+                  "name": "Caherconree",
+                  "text": "Caherconree is a peak in Slieve Mis known for its ancient stone fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.853695,
+                        52.203029
+                  ]
+            },
+            {
+                  "name": "Gearhane",
+                  "text": "Gearhane is a prominent mountain peak in the Slieve Mis region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.854309,
+                        52.21122
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill is a peak in the Slieve Mis mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.819697,
+                        52.195443
+                  ]
+            },
+            {
+                  "name": "Glanbrack Mountain",
+                  "text": "Glanbrack Mountain is a peak part of the Slieve Mis mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.796784,
+                        52.2097
+                  ]
+            },
+            {
+                  "name": "Knockauncorragh",
+                  "text": "Knockauncorragh is a mountain peak in Slieve Mis.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771664,
+                        52.218322
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Mis", hu: "Slieve Mis", ro: "Slieve Mis", en: "Slieve Mis" },
@@ -903,7 +4044,268 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-mis-relief-v2.webp",
   },
   {
-    id: "ireland-mount-Gabriel-relief-v2",
+    id: "ireland-mount-Gabriel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Copper Point Lighthouse",
+                  "text": "Ein Küstenleuchtturm am Mount Gabriel, der Schiffen bei der Navigation hilft.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.534227,
+                        51.504115
+                  ]
+            },
+            {
+                  "name": "Rossbrin Castle",
+                  "text": "Die Ruinen einer mittelalterlichen Küstenburg in der Nähe des Mount Gabriel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.473032,
+                        51.526562
+                  ]
+            },
+            {
+                  "name": "Trá na hAidhleann",
+                  "text": "Ein malerischer Strand am Mount Gabriel, der zum Entspannen an der Küste einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.534649,
+                        51.530274
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel",
+                  "text": "Ein markanter Berggipfel in West Cork, bekannt für seine weite Aussicht und Radarantennen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.541851,
+                        51.556845
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel View Point toward North",
+                  "text": "Dieser Aussichtspunkt bietet Besuchern einen freien Blick nach Norden vom Mount Gabriel aus.",
+                  "category": "natural",
+                  "coords": [
+                        -9.543671,
+                        51.555898
+                  ]
+            },
+            {
+                  "name": "Pierre levée",
+                  "text": "Ein antikes megalithisches Monument, das in der Gegend des Mount Gabriel zu finden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.535875,
+                        51.530104
+                  ]
+            },
+            {
+                  "name": "St. Mary’s church",
+                  "text": "Die Überreste einer historischen Kirche, die sich in der Nähe des Mount Gabriel befinden.",
+                  "category": "historical",
+                  "coords": [
+                        -9.546527,
+                        51.519767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Copper Point Lighthouse",
+                  "text": "Parti világítótorony a Mount Gabriel közelében, amely segíti a hajók navigációját.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.534227,
+                        51.504115
+                  ]
+            },
+            {
+                  "name": "Rossbrin Castle",
+                  "text": "Egy középkori parti vár romjai a Mount Gabriel közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.473032,
+                        51.526562
+                  ]
+            },
+            {
+                  "name": "Trá na hAidhleann",
+                  "text": "Gleccser vájta festői tengerpart a Mount Gabriel lábánál, ideális a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.534649,
+                        51.530274
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel",
+                  "text": "Jellegzetes hegycsúcs West Corkban, amely kilátásáról és radarantennáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.541851,
+                        51.556845
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel View Point toward North",
+                  "text": "Ez a kilátópont északi irányú kilátást nyújt a látogatóknak a Mount Gabrielről.",
+                  "category": "natural",
+                  "coords": [
+                        -9.543671,
+                        51.555898
+                  ]
+            },
+            {
+                  "name": "Pierre levée",
+                  "text": "Ősi megalitikus emlékmű, amely a Mount Gabriel környékén található.",
+                  "category": "historical",
+                  "coords": [
+                        -9.535875,
+                        51.530104
+                  ]
+            },
+            {
+                  "name": "St. Mary’s church",
+                  "text": "Egy történelmi templom maradványai, amelyek a Mount Gabriel közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -9.546527,
+                        51.519767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Copper Point Lighthouse",
+                  "text": "Un far de coastă la Mount Gabriel, care ajută navele în navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.534227,
+                        51.504115
+                  ]
+            },
+            {
+                  "name": "Rossbrin Castle",
+                  "text": "Ruinele unui castel medieval de coastă, situat în apropiere de Mount Gabriel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.473032,
+                        51.526562
+                  ]
+            },
+            {
+                  "name": "Trá na hAidhleann",
+                  "text": "O plajă pitorească la Mount Gabriel, ideală pentru relaxare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.534649,
+                        51.530274
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel",
+                  "text": "Un vârf muntos proeminent în West Cork, cunoscut pentru panorama sa și antenele radar.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.541851,
+                        51.556845
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel View Point toward North",
+                  "text": "Acest punct de belvedere oferă vizitatorilor o vedere degajată spre nord de pe Mount Gabriel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.543671,
+                        51.555898
+                  ]
+            },
+            {
+                  "name": "Pierre levée",
+                  "text": "Un monument megalitic antic care se găsește în zona Mount Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.535875,
+                        51.530104
+                  ]
+            },
+            {
+                  "name": "St. Mary’s church",
+                  "text": "Rămășițele unei biserici istorice, situate în apropiere de Mount Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.546527,
+                        51.519767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Copper Point Lighthouse",
+                  "text": "A coastal lighthouse at Mount Gabriel that aids ships with navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.534227,
+                        51.504115
+                  ]
+            },
+            {
+                  "name": "Rossbrin Castle",
+                  "text": "The ruins of a medieval coastal castle located near Mount Gabriel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.473032,
+                        51.526562
+                  ]
+            },
+            {
+                  "name": "Trá na hAidhleann",
+                  "text": "A scenic beach at Mount Gabriel, perfect for coastal relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.534649,
+                        51.530274
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel",
+                  "text": "A prominent mountain peak in West Cork, known for its wide views and radar domes.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.541851,
+                        51.556845
+                  ]
+            },
+            {
+                  "name": "Mount Gabriel View Point toward North",
+                  "text": "This viewpoint offers visitors an unobstructed view toward the north from Mount Gabriel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.543671,
+                        51.555898
+                  ]
+            },
+            {
+                  "name": "Pierre levée",
+                  "text": "An ancient megalithic monument found in the Mount Gabriel area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.535875,
+                        51.530104
+                  ]
+            },
+            {
+                  "name": "St. Mary’s church",
+                  "text": "The remains of a historical church located near Mount Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.546527,
+                        51.519767
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Mount Gabriel", hu: "Mount Gabriel", ro: "Mount Gabriel", en: "Mount Gabriel" },
@@ -1173,7 +4575,304 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-croob-relief-v2.webp",
   },
   {
-    id: "ireland-cahas-mountains-relief-v2",
+    id: "ireland-cahas-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knockanoughanish",
+                  "text": "Ein Berggipfel in der malerischen Bergkette der Caha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737974,
+                        51.779549
+                  ]
+            },
+            {
+                  "name": "Knockowen",
+                  "text": "Ein markanter Gipfel in den Caha Mountains, der für sein schroffes Gelände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725259,
+                        51.738861
+                  ]
+            },
+            {
+                  "name": "Coomnadiha",
+                  "text": "Ein abgelegener Gipfel in den Caha Mountains, der Wandermöglichkeiten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.671013,
+                        51.781322
+                  ]
+            },
+            {
+                  "name": "Cushnaficulla",
+                  "text": "Ein Gipfel in den Caha Mountains an der Grenze zwischen Cork und Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.706004,
+                        51.743466
+                  ]
+            },
+            {
+                  "name": "Knockreagh",
+                  "text": "Ein Gipfel in den Caha Mountains, der weite Ausblicke auf die umliegende Berglandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700917,
+                        51.792722
+                  ]
+            },
+            {
+                  "name": "Knockeirky",
+                  "text": "Dieser Gipfel in den Caha Mountains ist ein markanter Punkt für Wanderer in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.6915,
+                        51.742335
+                  ]
+            },
+            {
+                  "name": "Eagles Nest",
+                  "text": "Ein Berggipfel in den Caha Mountains, bekannt für seine natürliche Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.667877,
+                        51.768142
+                  ]
+            },
+            {
+                  "name": "Pookeen",
+                  "text": "Ein Gipfel in den Caha Mountains, der Teil der zerklüfteten irischen Gebirgslandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720625,
+                        51.756479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knockanoughanish",
+                  "text": "Hegycsúcs a festői Caha-hegység vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737974,
+                        51.779549
+                  ]
+            },
+            {
+                  "name": "Knockowen",
+                  "text": "A Caha-hegység egyik jellegzetes csúcsa, amely zord terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725259,
+                        51.738861
+                  ]
+            },
+            {
+                  "name": "Coomnadiha",
+                  "text": "Távoli hegycsúcs a Caha-hegységben, amely túrázási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.671013,
+                        51.781322
+                  ]
+            },
+            {
+                  "name": "Cushnaficulla",
+                  "text": "Hegycsúcs a Caha-hegységben, Cork és Kerry megye határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.706004,
+                        51.743466
+                  ]
+            },
+            {
+                  "name": "Knockreagh",
+                  "text": "A Caha-hegység egyik csúcsa, ahonnan tágas kilátás nyílik a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700917,
+                        51.792722
+                  ]
+            },
+            {
+                  "name": "Knockeirky",
+                  "text": "A Caha-hegység egyik csúcsa, a környék túrázóinak kedvelt pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.6915,
+                        51.742335
+                  ]
+            },
+            {
+                  "name": "Eagles Nest",
+                  "text": "Hegycsúcs a Caha-hegységben, amely természetes környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.667877,
+                        51.768142
+                  ]
+            },
+            {
+                  "name": "Pookeen",
+                  "text": "A Caha-hegység egyik csúcsa, az ír hegyvidéki táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720625,
+                        51.756479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knockanoughanish",
+                  "text": "Un vârf montan situat în lanțul muntos pitoresc al Munților Caha.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737974,
+                        51.779549
+                  ]
+            },
+            {
+                  "name": "Knockowen",
+                  "text": "Un vârf proeminent din Munții Caha, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725259,
+                        51.738861
+                  ]
+            },
+            {
+                  "name": "Coomnadiha",
+                  "text": "Un vârf izolat din Munții Caha care oferă oportunități de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.671013,
+                        51.781322
+                  ]
+            },
+            {
+                  "name": "Cushnaficulla",
+                  "text": "Un vârf din Munții Caha, situat la granița dintre Cork și Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.706004,
+                        51.743466
+                  ]
+            },
+            {
+                  "name": "Knockreagh",
+                  "text": "Un vârf în Munții Caha, oferind vederi panoramice asupra peisajului montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700917,
+                        51.792722
+                  ]
+            },
+            {
+                  "name": "Knockeirky",
+                  "text": "Acest vârf din Munții Caha este un punct de reper pentru drumeții din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.6915,
+                        51.742335
+                  ]
+            },
+            {
+                  "name": "Eagles Nest",
+                  "text": "Un vârf montan în Munții Caha, cunoscut pentru cadrul său natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.667877,
+                        51.768142
+                  ]
+            },
+            {
+                  "name": "Pookeen",
+                  "text": "Un vârf în Munții Caha, făcând parte din peisajul montan accidentat al Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720625,
+                        51.756479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knockanoughanish",
+                  "text": "A mountain peak located within the scenic Caha Mountains range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737974,
+                        51.779549
+                  ]
+            },
+            {
+                  "name": "Knockowen",
+                  "text": "A prominent peak in the Caha Mountains known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.725259,
+                        51.738861
+                  ]
+            },
+            {
+                  "name": "Coomnadiha",
+                  "text": "A remote peak offering hiking opportunities in the Caha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.671013,
+                        51.781322
+                  ]
+            },
+            {
+                  "name": "Cushnaficulla",
+                  "text": "A summit in the Caha Mountains on the boundary between Cork and Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.706004,
+                        51.743466
+                  ]
+            },
+            {
+                  "name": "Knockreagh",
+                  "text": "A peak in the Caha Mountains, offering expansive views of the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700917,
+                        51.792722
+                  ]
+            },
+            {
+                  "name": "Knockeirky",
+                  "text": "This peak in the Caha Mountains is a notable point for hikers in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.6915,
+                        51.742335
+                  ]
+            },
+            {
+                  "name": "Eagles Nest",
+                  "text": "A mountain peak in the Caha Mountains, known for its natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.667877,
+                        51.768142
+                  ]
+            },
+            {
+                  "name": "Pookeen",
+                  "text": "A peak in the Caha Mountains, forming part of the rugged Irish mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.720625,
+                        51.756479
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Caha Mountains", hu: "Caha-hegység", ro: "Munții Caha", en: "Caha Mountains" },
@@ -1218,7 +4917,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-cahas-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-shehy-mountains-relief-v2",
+    id: "ireland-shehy-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Douce Mountain",
+                  "text": "Ein Berggipfel in den Shehy Mountains in der Grafschaft Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.272134,
+                        51.79887
+                  ]
+            },
+            {
+                  "name": "Carriganine",
+                  "text": "Ein Gipfel in den Shehy Mountains an der Grenze zwischen Cork und Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.205234,
+                        51.810844
+                  ]
+            },
+            {
+                  "name": "Carrigmount",
+                  "text": "Ein markanter Berggipfel innerhalb der Shehy Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.202048,
+                        51.790953
+                  ]
+            },
+            {
+                  "name": "Knockrour",
+                  "text": "Ein Berggipfel im Südwesten Irlands in der Region der Shehy Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.210808,
+                        51.798348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Douce Mountain",
+                  "text": "Hegycsúcs a Shehy-hegységben, Cork megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.272134,
+                        51.79887
+                  ]
+            },
+            {
+                  "name": "Carriganine",
+                  "text": "Csúcs a Shehy-hegységben, Cork és Kerry határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.205234,
+                        51.810844
+                  ]
+            },
+            {
+                  "name": "Carrigmount",
+                  "text": "Jellegzetes hegycsúcs az írországi Shehy-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.202048,
+                        51.790953
+                  ]
+            },
+            {
+                  "name": "Knockrour",
+                  "text": "Hegycsúcs Írország délnyugati részén, a Shehy-hegység régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.210808,
+                        51.798348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Douce Mountain",
+                  "text": "Un vârf muntos din Munții Shehy, situat în comitatul Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.272134,
+                        51.79887
+                  ]
+            },
+            {
+                  "name": "Carriganine",
+                  "text": "Un vârf din Munții Shehy, aflat la granița dintre Cork și Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.205234,
+                        51.810844
+                  ]
+            },
+            {
+                  "name": "Carrigmount",
+                  "text": "Un vârf muntos proeminent din Munții Shehy, în Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.202048,
+                        51.790953
+                  ]
+            },
+            {
+                  "name": "Knockrour",
+                  "text": "Un vârf muntos din sud-vestul Irlandei, în regiunea Munților Shehy.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.210808,
+                        51.798348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Douce Mountain",
+                  "text": "A mountain peak in the Shehy Mountains of County Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.272134,
+                        51.79887
+                  ]
+            },
+            {
+                  "name": "Carriganine",
+                  "text": "A peak in the Shehy Mountains on the border of Cork and Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.205234,
+                        51.810844
+                  ]
+            },
+            {
+                  "name": "Carrigmount",
+                  "text": "A prominent mountain peak within the Shehy Mountains in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.202048,
+                        51.790953
+                  ]
+            },
+            {
+                  "name": "Knockrour",
+                  "text": "A mountain peak in southwest Ireland, in the Shehy Mountains region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.210808,
+                        51.798348
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Shehy-Gebirge", hu: "Shehy-hegység", ro: "Munții Shehy", en: "Shehy Mountains" },
@@ -1263,7 +5115,196 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-shehy-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-dartry-mountains-relief-v2",
+    id: "ireland-dartry-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castle Car",
+                  "text": "Eine markante Sehenswürdigkeit in der Region der Dartry Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        -8.248856,
+                        54.319902
+                  ]
+            },
+            {
+                  "name": "Keelogyboy Mountain",
+                  "text": "Ein Berggipfel in den Dartry Mountains im County Sligo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.352611,
+                        54.299265
+                  ]
+            },
+            {
+                  "name": "Leean Mountain",
+                  "text": "Ein Gipfel in den Dartry Mountains, bekannt für sein zerklüftetes Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.299091,
+                        54.297814
+                  ]
+            },
+            {
+                  "name": "Fawnlion Hillfort",
+                  "text": "Archäologische Überreste einer alten Höhensiedlung in den Dartry Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318373,
+                        54.283141
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Table",
+                  "text": "Ein markanter Tafelberg mit Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -8.297465,
+                        54.265642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castle Car",
+                  "text": "Egy nevezetesség a Dartry-hegység régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -8.248856,
+                        54.319902
+                  ]
+            },
+            {
+                  "name": "Keelogyboy Mountain",
+                  "text": "Egy hegycsúcs a Dartry-hegységben, Sligo megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.352611,
+                        54.299265
+                  ]
+            },
+            {
+                  "name": "Leean Mountain",
+                  "text": "A Dartry-hegység egyik csúcsa, amely egyenetlen terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.299091,
+                        54.297814
+                  ]
+            },
+            {
+                  "name": "Fawnlion Hillfort",
+                  "text": "Egy ősi földvár régészeti maradványai a Dartry-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318373,
+                        54.283141
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Table",
+                  "text": "Egy jellegzetes lapos tetejű hegy, amely panorámás kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.297465,
+                        54.265642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castle Car",
+                  "text": "Un punct de interes în regiunea Munților Dartry.",
+                  "category": "castle",
+                  "coords": [
+                        -8.248856,
+                        54.319902
+                  ]
+            },
+            {
+                  "name": "Keelogyboy Mountain",
+                  "text": "Un vârf montan în Munții Dartry din comitatul Sligo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.352611,
+                        54.299265
+                  ]
+            },
+            {
+                  "name": "Leean Mountain",
+                  "text": "Un vârf din Munții Dartry, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.299091,
+                        54.297814
+                  ]
+            },
+            {
+                  "name": "Fawnlion Hillfort",
+                  "text": "Rămășițele arheologice ale unei vechi cetăți de deal în Munții Dartry.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318373,
+                        54.283141
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Table",
+                  "text": "Un munte distinctiv cu vârf plat care oferă vederi panoramice asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -8.297465,
+                        54.265642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Car",
+                  "text": "A landmark site in the Dartry Mountains region.",
+                  "category": "castle",
+                  "coords": [
+                        -8.248856,
+                        54.319902
+                  ]
+            },
+            {
+                  "name": "Keelogyboy Mountain",
+                  "text": "A mountain peak in the Dartry Mountains of County Sligo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.352611,
+                        54.299265
+                  ]
+            },
+            {
+                  "name": "Leean Mountain",
+                  "text": "A peak in the Dartry Mountains known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.299091,
+                        54.297814
+                  ]
+            },
+            {
+                  "name": "Fawnlion Hillfort",
+                  "text": "Archaeological remains of an ancient hillfort in the Dartry Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318373,
+                        54.283141
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Table",
+                  "text": "A distinctive flat-topped mountain offering panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -8.297465,
+                        54.265642
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Dartry-Gebirge", hu: "Dartry-hegység", ro: "Munții Dartry", en: "Dartry Mountains" },
@@ -1308,7 +5349,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-dartry-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-felim-relief-v2",
+    id: "ireland-slieve-felim-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ein prähistorisches Megalithgrab in den Slieve Felim Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.227628,
+                        52.691803
+                  ]
+            },
+            {
+                  "name": "Cullaun",
+                  "text": "Ein Berggipfel in der Slieve Felim Gebirgskette.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.260532,
+                        52.667935
+                  ]
+            },
+            {
+                  "name": "Knockastanna",
+                  "text": "Eine Erhebung in den Slieve Felim Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.203218,
+                        52.655543
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Visitation Church",
+                  "text": "Eine Kirche in der ländlichen Gegend der Slieve Felim Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        -8.237985,
+                        52.686723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Prehisztorikus megalitikus sír a Slieve Felim-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.227628,
+                        52.691803
+                  ]
+            },
+            {
+                  "name": "Cullaun",
+                  "text": "Hegyi csúcs a Slieve Felim-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.260532,
+                        52.667935
+                  ]
+            },
+            {
+                  "name": "Knockastanna",
+                  "text": "Kiemelkedés a Slieve Felim-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.203218,
+                        52.655543
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Visitation Church",
+                  "text": "Templom a Slieve Felim-hegység vidéki területén.",
+                  "category": "religious",
+                  "coords": [
+                        -8.237985,
+                        52.686723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un mormânt megalitic prehistoric în munții Slieve Felim.",
+                  "category": "historical",
+                  "coords": [
+                        -8.227628,
+                        52.691803
+                  ]
+            },
+            {
+                  "name": "Cullaun",
+                  "text": "Un vârf montan în lanțul muntos Slieve Felim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.260532,
+                        52.667935
+                  ]
+            },
+            {
+                  "name": "Knockastanna",
+                  "text": "O colină în munții Slieve Felim.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.203218,
+                        52.655543
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Visitation Church",
+                  "text": "O biserică situată în zona rurală a munților Slieve Felim.",
+                  "category": "religious",
+                  "coords": [
+                        -8.237985,
+                        52.686723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A prehistoric megalithic tomb located in the Slieve Felim Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.227628,
+                        52.691803
+                  ]
+            },
+            {
+                  "name": "Cullaun",
+                  "text": "A mountain peak in the Slieve Felim mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.260532,
+                        52.667935
+                  ]
+            },
+            {
+                  "name": "Knockastanna",
+                  "text": "An elevation in the Slieve Felim Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.203218,
+                        52.655543
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Visitation Church",
+                  "text": "A church located in the rural area of the Slieve Felim Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        -8.237985,
+                        52.686723
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Felim", hu: "Slieve Felim", ro: "Slieve Felim", en: "Slieve Felim Mountains" },
@@ -1353,7 +5547,268 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-felim-relief-v2.webp",
   },
   {
-    id: "ireland-mount-luggala-relief-v2",
+    id: "ireland-mount-luggala-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Coffin Stone",
+                  "text": "Eine megalithische Ausgrabungsstätte in der Nähe von Luggala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.24982,
+                        53.132483
+                  ]
+            },
+            {
+                  "name": "Powerscourt Waterfall",
+                  "text": "Mit 121 Metern ist dies der höchste Wasserfall Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211455,
+                        53.146042
+                  ]
+            },
+            {
+                  "name": "Djouce",
+                  "text": "Ein markanter Gipfel in den Wicklow Mountains mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.239912,
+                        53.130859
+                  ]
+            },
+            {
+                  "name": "War Hill",
+                  "text": "Ein Gipfel in den Wicklow Mountains, der für Wanderungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.253959,
+                        53.140002
+                  ]
+            },
+            {
+                  "name": "Maulin",
+                  "text": "Ein Berg an der Grenze des Wicklow-Mountains-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.230288,
+                        53.155382
+                  ]
+            },
+            {
+                  "name": "Tonduff",
+                  "text": "Ein Hochmoor-Gipfel in den irischen Wicklow Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267349,
+                        53.161303
+                  ]
+            },
+            {
+                  "name": "Ride Rock",
+                  "text": "Ein Aussichtspunkt mit Blick auf den See Lough Tay und das Luggala-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -6.206345,
+                        53.15297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Coffin Stone",
+                  "text": "Megalitikus régészeti lelőhely Luggala közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.24982,
+                        53.132483
+                  ]
+            },
+            {
+                  "name": "Powerscourt Waterfall",
+                  "text": "Írország legmagasabb vízesése, amely 121 méter magasból zúdul le.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211455,
+                        53.146042
+                  ]
+            },
+            {
+                  "name": "Djouce",
+                  "text": "A Wicklow-hegység egyik népszerű csúcsa, ahonnan pazar kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.239912,
+                        53.130859
+                  ]
+            },
+            {
+                  "name": "War Hill",
+                  "text": "A Wicklow-hegység egyik túrázásra alkalmas hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.253959,
+                        53.140002
+                  ]
+            },
+            {
+                  "name": "Maulin",
+                  "text": "Hegycsúcs a Wicklow-hegység Nemzeti Park határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.230288,
+                        53.155382
+                  ]
+            },
+            {
+                  "name": "Tonduff",
+                  "text": "Magaslati mocsaras hegycsúcs az írországi Wicklow-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267349,
+                        53.161303
+                  ]
+            },
+            {
+                  "name": "Ride Rock",
+                  "text": "Kilátóhely, ahonnan rálátni a Lough Tay tóra és a Luggala-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -6.206345,
+                        53.15297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Coffin Stone",
+                  "text": "Un sit arheologic megalitic situat în apropiere de Luggala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.24982,
+                        53.132483
+                  ]
+            },
+            {
+                  "name": "Powerscourt Waterfall",
+                  "text": "Cea mai înaltă cascadă din Irlanda, având o înălțime de 121 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211455,
+                        53.146042
+                  ]
+            },
+            {
+                  "name": "Djouce",
+                  "text": "Un vârf proeminent în Munții Wicklow, oferind panorame extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.239912,
+                        53.130859
+                  ]
+            },
+            {
+                  "name": "War Hill",
+                  "text": "Un vârf în Munții Wicklow, cunoscut pentru traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.253959,
+                        53.140002
+                  ]
+            },
+            {
+                  "name": "Maulin",
+                  "text": "Un vârf montan la granița Parcului Național Wicklow Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.230288,
+                        53.155382
+                  ]
+            },
+            {
+                  "name": "Tonduff",
+                  "text": "Un vârf montan cu turbărie în Munții Wicklow din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267349,
+                        53.161303
+                  ]
+            },
+            {
+                  "name": "Ride Rock",
+                  "text": "Un punct de belvedere cu vedere spre lacul Lough Tay și valea Luggala.",
+                  "category": "natural",
+                  "coords": [
+                        -6.206345,
+                        53.15297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Coffin Stone",
+                  "text": "A megalithic archaeological site located near Luggala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.24982,
+                        53.132483
+                  ]
+            },
+            {
+                  "name": "Powerscourt Waterfall",
+                  "text": "Ireland's highest waterfall, cascading from a height of 121 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.211455,
+                        53.146042
+                  ]
+            },
+            {
+                  "name": "Djouce",
+                  "text": "A prominent peak in the Wicklow Mountains offering expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.239912,
+                        53.130859
+                  ]
+            },
+            {
+                  "name": "War Hill",
+                  "text": "A peak in the Wicklow Mountains known for its hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.253959,
+                        53.140002
+                  ]
+            },
+            {
+                  "name": "Maulin",
+                  "text": "A mountain peak on the edge of the Wicklow Mountains National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.230288,
+                        53.155382
+                  ]
+            },
+            {
+                  "name": "Tonduff",
+                  "text": "A high boggy peak in the Wicklow Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267349,
+                        53.161303
+                  ]
+            },
+            {
+                  "name": "Ride Rock",
+                  "text": "A viewpoint overlooking Lough Tay and the Luggala valley.",
+                  "category": "natural",
+                  "coords": [
+                        -6.206345,
+                        53.15297
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Luggala Mountain", hu: "Luggala-hegy", ro: "Muntele Luggala", en: "Luggala" },
@@ -1443,7 +5898,52 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-guilty-relief-v2.webp",
   },
   {
-    id: "ireland-ox-mountains-relief-v2",
+    id: "ireland-ox-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caltragh",
+                  "text": "Eine historische archäologische Stätte in den malerischen Ox Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caltragh",
+                  "text": "Történelmi régészeti lelőhely a festői Ox-hegység területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caltragh",
+                  "text": "Un sit arheologic istoric situat în peisajul pitoresc al munților Ox.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caltragh",
+                  "text": "A historic archaeological site located within the scenic Ox Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.825508,
+                        54.079377
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Ox-Gebirge", hu: "Ox-hegység", ro: "Munții Ox", en: "Ox Mountains" },
@@ -1488,7 +5988,304 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-ox-mountains-relief-v2.webp",
   },
   {
-    id: "ireland-mullagh-mountain-relief-v2",
+    id: "ireland-mullagh-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballyportry Castle",
+                  "text": "Ein restauriertes irisches Turmhaus aus dem 15. Jahrhundert, das als Unterkunft genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        -9.042749,
+                        52.957894
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Eine prähistorische Megalithanlage, die mit der irischen Mythologie von Diarmuid und Gráinne verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.125945,
+                        52.967086
+                  ]
+            },
+            {
+                  "name": "Parkahilly Children's Burial Ground",
+                  "text": "Ein historischer Begräbnisplatz für Kinder in der Nähe des Mullagh Mountain.",
+                  "category": "historical",
+                  "coords": [
+                        -9.130702,
+                        52.971419
+                  ]
+            },
+            {
+                  "name": "Rath Castle",
+                  "text": "Die Ruine einer historischen Befestigungsanlage in der Grafschaft Clare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.088188,
+                        52.918872
+                  ]
+            },
+            {
+                  "name": "Ballyculleeny Fort",
+                  "text": "Eine archäologische Stätte, die Überreste eines alten Ringforts umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        -9.156104,
+                        52.938269
+                  ]
+            },
+            {
+                  "name": "Knockalunkard",
+                  "text": "Ein Hügel oder kleiner Gipfel in der Region Mullagh Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.150946,
+                        52.945961
+                  ]
+            },
+            {
+                  "name": "Killinaboy Church Ruins",
+                  "text": "Die Überreste einer mittelalterlichen Kirche, die für ihre architektonischen Details bekannt sind.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085514,
+                        52.97027
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Ein Aussichtspunkt, der einen Blick auf einen lokalen Wasserfall bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.101994,
+                        52.957178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballyportry Castle",
+                  "text": "Egy 15. századi, restaurált ír toronyház, amely szálláshelyként működik.",
+                  "category": "castle",
+                  "coords": [
+                        -9.042749,
+                        52.957894
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Egy őskori megalitikus építmény, amely Diarmuid és Gráinne ír mitológiai alakjaihoz kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        -9.125945,
+                        52.967086
+                  ]
+            },
+            {
+                  "name": "Parkahilly Children's Burial Ground",
+                  "text": "Történelmi gyermektemető a Mullagh-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.130702,
+                        52.971419
+                  ]
+            },
+            {
+                  "name": "Rath Castle",
+                  "text": "Egy történelmi erődítmény romjai Clare megyében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.088188,
+                        52.918872
+                  ]
+            },
+            {
+                  "name": "Ballyculleeny Fort",
+                  "text": "Régészeti lelőhely, amely egy ősi gyűrűvár maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.156104,
+                        52.938269
+                  ]
+            },
+            {
+                  "name": "Knockalunkard",
+                  "text": "Egy domb vagy kisebb csúcs a Mullagh-hegy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.150946,
+                        52.945961
+                  ]
+            },
+            {
+                  "name": "Killinaboy Church Ruins",
+                  "text": "Egy középkori templom maradványai, amely építészeti részleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085514,
+                        52.97027
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Kilátópont, ahonnan rálátás nyílik egy helyi vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.101994,
+                        52.957178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballyportry Castle",
+                  "text": "O casă-turn irlandeză restaurată, datând din secolul al XV-lea, utilizată ca spațiu de cazare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.042749,
+                        52.957894
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un sit megalitic preistoric asociat cu mitologia irlandeză a lui Diarmuid și Gráinne.",
+                  "category": "historical",
+                  "coords": [
+                        -9.125945,
+                        52.967086
+                  ]
+            },
+            {
+                  "name": "Parkahilly Children's Burial Ground",
+                  "text": "Un sit istoric de înmormântare pentru copii, situat lângă muntele Mullagh.",
+                  "category": "historical",
+                  "coords": [
+                        -9.130702,
+                        52.971419
+                  ]
+            },
+            {
+                  "name": "Rath Castle",
+                  "text": "Ruinele unei fortificații istorice din comitatul Clare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.088188,
+                        52.918872
+                  ]
+            },
+            {
+                  "name": "Ballyculleeny Fort",
+                  "text": "Un sit arheologic care cuprinde resturile unui vechi fort circular.",
+                  "category": "historical",
+                  "coords": [
+                        -9.156104,
+                        52.938269
+                  ]
+            },
+            {
+                  "name": "Knockalunkard",
+                  "text": "Un deal sau un mic vârf în regiunea muntelui Mullagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.150946,
+                        52.945961
+                  ]
+            },
+            {
+                  "name": "Killinaboy Church Ruins",
+                  "text": "Rămășițele unei biserici medievale, cunoscută pentru detaliile sale arhitecturale.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085514,
+                        52.97027
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Un punct de observație care oferă o vedere asupra unei cascade locale.",
+                  "category": "natural",
+                  "coords": [
+                        -9.101994,
+                        52.957178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballyportry Castle",
+                  "text": "A restored 15th-century Irish tower house used as accommodation.",
+                  "category": "castle",
+                  "coords": [
+                        -9.042749,
+                        52.957894
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A prehistoric megalithic site associated with the Irish mythology of Diarmuid and Gráinne.",
+                  "category": "historical",
+                  "coords": [
+                        -9.125945,
+                        52.967086
+                  ]
+            },
+            {
+                  "name": "Parkahilly Children's Burial Ground",
+                  "text": "A historical children's burial ground located near Mullagh Mountain.",
+                  "category": "historical",
+                  "coords": [
+                        -9.130702,
+                        52.971419
+                  ]
+            },
+            {
+                  "name": "Rath Castle",
+                  "text": "The ruins of a historical fortification in County Clare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.088188,
+                        52.918872
+                  ]
+            },
+            {
+                  "name": "Ballyculleeny Fort",
+                  "text": "An archaeological site comprising the remains of an ancient ringfort.",
+                  "category": "historical",
+                  "coords": [
+                        -9.156104,
+                        52.938269
+                  ]
+            },
+            {
+                  "name": "Knockalunkard",
+                  "text": "A hill or small peak in the Mullagh Mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.150946,
+                        52.945961
+                  ]
+            },
+            {
+                  "name": "Killinaboy Church Ruins",
+                  "text": "The remains of a medieval church known for its architectural details.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085514,
+                        52.97027
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "A viewpoint offering a look at a local waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -9.101994,
+                        52.957178
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Mullagh Mountain", hu: "Mullagh-hegy", ro: "Muntele Mullagh", en: "Mullagh Mountain" },
@@ -1533,7 +6330,160 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mullagh-mountain-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-league-peak-relief-v2",
+    id: "ireland-slieve-league-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slieve League",
+                  "text": "Beeindruckende Seeklippen in Irland, die zu den höchsten in Europa gehören.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Ein Gipfel, der Teil des Slieve-League-Massivs an der Küste von Donegal ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruinen eines Signalturms aus der napoleonischen Ära am Carrigan Head.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Eine natürliche Quelle in der Nähe des Slieve League Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slieve League",
+                  "text": "Lenyűgöző tengeri sziklák Írországban, amelyek Európa legmagasabbjai közé tartoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "A Donegal partjainál fekvő Slieve League-masszívum egyik hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Napóleoni korszakból származó jelzőtorony romjai a Carrigan Head-foknál.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Természetes forrás a Slieve League-csúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slieve League",
+                  "text": "Faleze spectaculoase în Irlanda, printre cele mai înalte din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Un vârf care face parte din masivul Slieve League de pe coasta Donegal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruinele unui turn de semnalizare din epoca napoleoniană, situat la Carrigan Head.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Un izvor natural situat lângă vârful Slieve League.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slieve League",
+                  "text": "Impressive sea cliffs in Ireland, which are among the highest in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Crockrawer",
+                  "text": "A peak that is part of the Slieve League massif on the Donegal coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruins of a Napoleonic-era signal tower located at Carrigan Head.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "A natural spring located near the Slieve League Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IE",
     name: { de: "Slieve League Peak", hu: "Slieve League csúcs", ro: "Vârful Slieve League", en: "Slieve League Peak" },
@@ -1578,7 +6528,124 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-slieve-league-peak-relief-v2.webp",
   },
   {
-    id: "ireland-mount-galtymore-relief-v2",
+    id: "ireland-mount-galtymore-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galtymore",
+                  "text": "Der höchste Gipfel der Galty Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Ein Berggipfel in der Gebirgskette der Galty Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Historische Ruinen eines Gebäudes im Galtymore-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galtymore",
+                  "text": "Az írországi Galty-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Hegycsúcs a Galty-hegység vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Egy építmény történelmi romjai a Galtymore területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galtymore",
+                  "text": "Cel mai înalt vârf din munții Galty din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "Un vârf muntos din lanțul munților Galty.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Ruinele istorice ale unei clădiri din zona Galtymore.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galtymore",
+                  "text": "The highest peak of the Galty Mountains in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.179176,
+                        52.366003
+                  ]
+            },
+            {
+                  "name": "Knockeenatoung",
+                  "text": "A mountain peak in the Galty Mountains range.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.155049,
+                        52.349322
+                  ]
+            },
+            {
+                  "name": "O'Loughman's Castle",
+                  "text": "Historical ruins of a building in the Galtymore area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.124025,
+                        52.366894
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IE",
     name: { de: "Galtymore", hu: "Galtymore", ro: "Galtymore", en: "Galtymore" },
@@ -1623,7 +6690,196 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mount-galtymore-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-bloom-plateau-relief-v2",
+    id: "ireland-slieve-bloom-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seir Kieran's Abbey",
+                  "text": "Eine frühchristliche Klosterstätte, die mit dem heiligen Kieran verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.792337,
+                        53.0708
+                  ]
+            },
+            {
+                  "name": "Tulla Castle (site of)",
+                  "text": "Archäologische Ausgrabungsstätte, an der einst das historische Schloss Tulla stand.",
+                  "category": "historical",
+                  "coords": [
+                        -7.719843,
+                        53.051294
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Bush",
+                  "text": "Ein heiliger Weißdornbaum, der mit lokalen religiösen Traditionen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.794467,
+                        53.06714
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "Ein nach dem heiligen Kieran benannter heiliger Brunnen, der oft von Pilgern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.790283,
+                        53.066065
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's RC Church",
+                  "text": "Eine römisch-katholische Kirche, die dem heiligen Kieran auf dem Plateau gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.787686,
+                        53.072215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seir Kieran's Abbey",
+                  "text": "Szent Kieranhoz köthető kora keresztény kolostori helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        -7.792337,
+                        53.0708
+                  ]
+            },
+            {
+                  "name": "Tulla Castle (site of)",
+                  "text": "Régészeti lelőhely, ahol egykor a történelmi Tulla-vár állt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.719843,
+                        53.051294
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Bush",
+                  "text": "Helyi vallási hagyományokhoz köthető szent galagonyafa.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.794467,
+                        53.06714
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "Szent Kieranról elnevezett szent kút, amelyet gyakran látogatnak zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.790283,
+                        53.066065
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's RC Church",
+                  "text": "Szent Kieran tiszteletére szentelt római katolikus templom a fennsíkon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.787686,
+                        53.072215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seir Kieran's Abbey",
+                  "text": "Un sit monahal creștin timpuriu asociat cu Sfântul Kieran.",
+                  "category": "historical",
+                  "coords": [
+                        -7.792337,
+                        53.0708
+                  ]
+            },
+            {
+                  "name": "Tulla Castle (site of)",
+                  "text": "Situl arheologic unde s-a aflat odinioară castelul istoric Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -7.719843,
+                        53.051294
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Bush",
+                  "text": "Un păducel sacru asociat cu tradițiile religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.794467,
+                        53.06714
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "O fântână sfântă numită după Sfântul Kieran, vizitată adesea de pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.790283,
+                        53.066065
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's RC Church",
+                  "text": "O biserică romano-catolică dedicată Sfântului Kieran pe platou.",
+                  "category": "religious",
+                  "coords": [
+                        -7.787686,
+                        53.072215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seir Kieran's Abbey",
+                  "text": "An early Christian monastic site associated with Saint Kieran.",
+                  "category": "historical",
+                  "coords": [
+                        -7.792337,
+                        53.0708
+                  ]
+            },
+            {
+                  "name": "Tulla Castle (site of)",
+                  "text": "The archaeological site where the historic Tulla Castle once stood.",
+                  "category": "historical",
+                  "coords": [
+                        -7.719843,
+                        53.051294
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Bush",
+                  "text": "A sacred whitethorn tree associated with local religious traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.794467,
+                        53.06714
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "A holy well named after Saint Kieran, often visited by pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.790283,
+                        53.066065
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's RC Church",
+                  "text": "A Roman Catholic church dedicated to Saint Kieran on the plateau.",
+                  "category": "religious",
+                  "coords": [
+                        -7.787686,
+                        53.072215
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Bloom Plateau", hu: "Slieve Bloom fennsík", ro: "Platoul Slieve Bloom", en: "Slieve Bloom Plateau" },

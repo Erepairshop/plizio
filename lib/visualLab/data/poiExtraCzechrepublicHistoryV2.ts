@@ -473,7 +473,268 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-rip-rotunda-history-v2",
+    id: "czechrepublic-rip-rotunda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "NPP Kleneč",
+                  "text": "Ein Naturschutzgebiet, das für seine seltene Flora, einschließlich der Sand-Nelke, bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.256568,
+                        50.388944
+                  ]
+            },
+            {
+                  "name": "Sankt Georgsberg",
+                  "text": "Ein Basaltberg von großer historischer und legendärer Bedeutung für die Tschechen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.289623,
+                        50.386536
+                  ]
+            },
+            {
+                  "name": "Pražská vyhlídka",
+                  "text": "Ein malerischer Aussichtspunkt auf dem Berg Říp mit Blick in Richtung Prag.",
+                  "category": "natural",
+                  "coords": [
+                        14.288637,
+                        50.384105
+                  ]
+            },
+            {
+                  "name": "vyhlídka na České středohoří (západní část)",
+                  "text": "Ein Aussichtspunkt mit Panorama auf das westliche Böhmische Mittelgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        14.287955,
+                        50.389104
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na jihozápad",
+                  "text": "Ein Aussichtspunkt auf dem Berg Říp mit Blick auf die südwestliche Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.287808,
+                        50.385176
+                  ]
+            },
+            {
+                  "name": "Vyhlídka",
+                  "text": "Ein allgemeiner Aussichtspunkt mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.291064,
+                        50.385399
+                  ]
+            },
+            {
+                  "name": "Mělnická vyhlídka",
+                  "text": "Ein Aussichtspunkt auf dem Berg Říp mit Blick in Richtung Mělník.",
+                  "category": "natural",
+                  "coords": [
+                        14.292297,
+                        50.387985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NPP Kleneč",
+                  "text": "Ritka flórájáról, többek között a homoki szegfűről ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        14.256568,
+                        50.388944
+                  ]
+            },
+            {
+                  "name": "Říp",
+                  "text": "A csehek számára nagy történelmi és legendás jelentőséggel bíró bazalthegy.",
+                  "category": "landmark",
+                  "coords": [
+                        14.289623,
+                        50.386536
+                  ]
+            },
+            {
+                  "name": "Pražská vyhlídka",
+                  "text": "Festői kilátópont a Říp-hegyen, ahonnan kilátás nyílik Prága irányába.",
+                  "category": "natural",
+                  "coords": [
+                        14.288637,
+                        50.384105
+                  ]
+            },
+            {
+                  "name": "vyhlídka na České středohoří (západní část)",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a Cseh-középhegység nyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        14.287955,
+                        50.389104
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na jihozápad",
+                  "text": "Kilátópont a Říp-hegyen, ahonnan kilátás nyílik a délnyugati tájra.",
+                  "category": "natural",
+                  "coords": [
+                        14.287808,
+                        50.385176
+                  ]
+            },
+            {
+                  "name": "Vyhlídka",
+                  "text": "Általános megfigyelőpont, ahonnan kilátás nyílik a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        14.291064,
+                        50.385399
+                  ]
+            },
+            {
+                  "name": "Mělnická vyhlídka",
+                  "text": "Kilátópont a Říp-hegyen, amely Mělník városa felé kínál kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        14.292297,
+                        50.387985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NPP Kleneč",
+                  "text": "O arie protejată cunoscută pentru flora sa rară, inclusiv garofița de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        14.256568,
+                        50.388944
+                  ]
+            },
+            {
+                  "name": "Říp",
+                  "text": "Un munte de bazalt de mare importanță istorică și legendară pentru cehi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.289623,
+                        50.386536
+                  ]
+            },
+            {
+                  "name": "Pražská vyhlídka",
+                  "text": "Un punct de belvedere pitoresc pe muntele Říp, cu vedere spre Praga.",
+                  "category": "natural",
+                  "coords": [
+                        14.288637,
+                        50.384105
+                  ]
+            },
+            {
+                  "name": "vyhlídka na České středohoří (západní část)",
+                  "text": "Un punct de belvedere ce oferă panoramă asupra părții de vest a Munților Centrali Boemi.",
+                  "category": "natural",
+                  "coords": [
+                        14.287955,
+                        50.389104
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na jihozápad",
+                  "text": "Un punct de belvedere pe muntele Říp, oferind priveliști asupra peisajului din sud-vest.",
+                  "category": "natural",
+                  "coords": [
+                        14.287808,
+                        50.385176
+                  ]
+            },
+            {
+                  "name": "Vyhlídka",
+                  "text": "Un punct de observație general care oferă priveliști asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        14.291064,
+                        50.385399
+                  ]
+            },
+            {
+                  "name": "Mělnická vyhlídka",
+                  "text": "Un punct de belvedere pe muntele Říp, oferind vederi spre orașul Mělník.",
+                  "category": "natural",
+                  "coords": [
+                        14.292297,
+                        50.387985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NPP Kleneč",
+                  "text": "A protected area known for its rare flora, including the sand pink.",
+                  "category": "natural",
+                  "coords": [
+                        14.256568,
+                        50.388944
+                  ]
+            },
+            {
+                  "name": "Říp",
+                  "text": "A basalt mountain of great historical and legendary significance to the Czechs.",
+                  "category": "landmark",
+                  "coords": [
+                        14.289623,
+                        50.386536
+                  ]
+            },
+            {
+                  "name": "Pražská vyhlídka",
+                  "text": "A scenic viewpoint on Mount Říp offering views towards Prague.",
+                  "category": "natural",
+                  "coords": [
+                        14.288637,
+                        50.384105
+                  ]
+            },
+            {
+                  "name": "vyhlídka na České středohoří (západní část)",
+                  "text": "A viewpoint offering panoramas of the western Bohemian Central Uplands.",
+                  "category": "natural",
+                  "coords": [
+                        14.287955,
+                        50.389104
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na jihozápad",
+                  "text": "A viewpoint on Mount Říp offering vistas of the southwestern landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.287808,
+                        50.385176
+                  ]
+            },
+            {
+                  "name": "Vyhlídka",
+                  "text": "A general observation point offering views of the surrounding countryside.",
+                  "category": "natural",
+                  "coords": [
+                        14.291064,
+                        50.385399
+                  ]
+            },
+            {
+                  "name": "Mělnická vyhlídka",
+                  "text": "A viewpoint on Mount Říp providing views toward the town of Mělník.",
+                  "category": "natural",
+                  "coords": [
+                        14.292297,
+                        50.387985
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "church",
     name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp"},
@@ -520,7 +781,196 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-pernstejn-castle-history-v2",
+    id: "czechrepublic-pernstejn-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pernštejn",
+                  "text": "Eine beeindruckende mährische Burg, die für ihre gotische und Renaissance-Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        16.318373,
+                        49.45086
+                  ]
+            },
+            {
+                  "name": "PP Svratka",
+                  "text": "Ein Naturschutzgebiet entlang des Flusses Svratka mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.35,
+                        49.471218
+                  ]
+            },
+            {
+                  "name": "PR Nad horou",
+                  "text": "Ein lokales Naturreservat, das die hügelige Landschaft und die Artenvielfalt der Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        16.345287,
+                        49.456869
+                  ]
+            },
+            {
+                  "name": "Galerie z ruky",
+                  "text": "Eine gemütliche Kunstgalerie, die zeitgenössische Werke in einer malerischen Umgebung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.362327,
+                        49.440029
+                  ]
+            },
+            {
+                  "name": "Pivovar Doubravník",
+                  "text": "Das historische Gebäude einer ehemaligen Brauerei in der Nähe von Pernštejn.",
+                  "category": "historical",
+                  "coords": [
+                        16.357771,
+                        49.427301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pernštejn",
+                  "text": "Egy lenyűgöző morva vár, amely gótikus és reneszánsz építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        16.318373,
+                        49.45086
+                  ]
+            },
+            {
+                  "name": "PP Svratka",
+                  "text": "Természetvédelmi terület a Svratka folyó mentén, változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        16.35,
+                        49.471218
+                  ]
+            },
+            {
+                  "name": "PR Nad horou",
+                  "text": "Helyi természetvédelmi terület, amely a régió dombos táját és biológiai sokféleségét védi.",
+                  "category": "natural",
+                  "coords": [
+                        16.345287,
+                        49.456869
+                  ]
+            },
+            {
+                  "name": "Galerie z ruky",
+                  "text": "Egy hangulatos művészeti galéria, amely kortárs műveket mutat be festői környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        16.362327,
+                        49.440029
+                  ]
+            },
+            {
+                  "name": "Pivovar Doubravník",
+                  "text": "Egy egykori sörfőzde történelmi épülete Pernštejn közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.357771,
+                        49.427301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pernštejn",
+                  "text": "Un castel morav impresionant, cunoscut pentru arhitectura sa gotică și renascentistă.",
+                  "category": "castle",
+                  "coords": [
+                        16.318373,
+                        49.45086
+                  ]
+            },
+            {
+                  "name": "PP Svratka",
+                  "text": "O rezervație naturală de-a lungul râului Svratka, cu floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        16.35,
+                        49.471218
+                  ]
+            },
+            {
+                  "name": "PR Nad horou",
+                  "text": "O rezervație naturală locală care protejează peisajul colinar și biodiversitatea regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        16.345287,
+                        49.456869
+                  ]
+            },
+            {
+                  "name": "Galerie z ruky",
+                  "text": "O galerie de artă primitoare care prezintă lucrări contemporane într-un cadru pitoresc.",
+                  "category": "museum",
+                  "coords": [
+                        16.362327,
+                        49.440029
+                  ]
+            },
+            {
+                  "name": "Pivovar Doubravník",
+                  "text": "Clădirea istorică a unei foste berării situată lângă Pernštejn.",
+                  "category": "historical",
+                  "coords": [
+                        16.357771,
+                        49.427301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pernštejn",
+                  "text": "An impressive Moravian castle known for its Gothic and Renaissance architecture.",
+                  "category": "castle",
+                  "coords": [
+                        16.318373,
+                        49.45086
+                  ]
+            },
+            {
+                  "name": "PP Svratka",
+                  "text": "A nature reserve along the Svratka river with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.35,
+                        49.471218
+                  ]
+            },
+            {
+                  "name": "PR Nad horou",
+                  "text": "A local nature reserve protecting the region's hilly landscape and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        16.345287,
+                        49.456869
+                  ]
+            },
+            {
+                  "name": "Galerie z ruky",
+                  "text": "A cozy art gallery presenting contemporary works in a picturesque setting.",
+                  "category": "museum",
+                  "coords": [
+                        16.362327,
+                        49.440029
+                  ]
+            },
+            {
+                  "name": "Pivovar Doubravník",
+                  "text": "The historic building of a former brewery located near Pernštejn.",
+                  "category": "historical",
+                  "coords": [
+                        16.357771,
+                        49.427301
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle"},
@@ -1221,7 +1671,268 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-litomysl-castle-history-v2",
+    id: "czechrepublic-litomysl-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionální museum v Litomyšli",
+                  "text": "Ein Regionalmuseum in Litomyšl, das sich mit der Geschichte der Stadt befasst.",
+                  "category": "museum",
+                  "coords": [
+                        16.311761,
+                        49.872406
+                  ]
+            },
+            {
+                  "name": "Zámek Litomyšl",
+                  "text": "Ein prächtiges Renaissance-Schloss, das zum UNESCO-Welterbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        16.312753,
+                        49.873318
+                  ]
+            },
+            {
+                  "name": "Portmoneum",
+                  "text": "Ein Museum in Litomyšl, bekannt für seine einzigartigen Wandmalereien von Josef Váchal.",
+                  "category": "museum",
+                  "coords": [
+                        16.316317,
+                        49.870574
+                  ]
+            },
+            {
+                  "name": "Muzeum domečků panenek a hraček Litomyšl",
+                  "text": "Ein Museum in Litomyšl, das eine Sammlung von Puppenhäusern und Spielzeug ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.314054,
+                        49.872673
+                  ]
+            },
+            {
+                  "name": "hradiště Hrutov",
+                  "text": "Überreste einer historischen Befestigungsanlage in der Nähe von Litomyšl.",
+                  "category": "fortress",
+                  "coords": [
+                        16.329072,
+                        49.854693
+                  ]
+            },
+            {
+                  "name": "Plovárna",
+                  "text": "Eine öffentliche Badeanstalt und Wasserpark in Litomyšl.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318101,
+                        49.866977
+                  ]
+            },
+            {
+                  "name": "PP Nedošínský háj",
+                  "text": "Ein Naturschutzgebiet in einem historischen Waldgebiet bei Litomyšl.",
+                  "category": "natural",
+                  "coords": [
+                        16.267423,
+                        49.882358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Regionální museum v Litomyšli",
+                  "text": "Regionális múzeum Litomyšlben, amely a város történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.311761,
+                        49.872406
+                  ]
+            },
+            {
+                  "name": "Zámek Litomyšl",
+                  "text": "Pompás reneszánsz kastély, amely az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        16.312753,
+                        49.873318
+                  ]
+            },
+            {
+                  "name": "Portmoneum",
+                  "text": "Múzeum Litomyšlben, amely Josef Váchal egyedülálló falfestményeiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        16.316317,
+                        49.870574
+                  ]
+            },
+            {
+                  "name": "Muzeum domečků panenek a hraček Litomyšl",
+                  "text": "Babaházakat és játékokat bemutató múzeum Litomyšlben.",
+                  "category": "museum",
+                  "coords": [
+                        16.314054,
+                        49.872673
+                  ]
+            },
+            {
+                  "name": "hradiště Hrutov",
+                  "text": "Egy történelmi erődítmény maradványai Litomyšl közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        16.329072,
+                        49.854693
+                  ]
+            },
+            {
+                  "name": "Plovárna",
+                  "text": "Nyilvános fürdőhely és vízi park Litomyšlben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318101,
+                        49.866977
+                  ]
+            },
+            {
+                  "name": "PP Nedošínský háj",
+                  "text": "Természetvédelmi terület egy történelmi erdőben Litomyšl mellett.",
+                  "category": "natural",
+                  "coords": [
+                        16.267423,
+                        49.882358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regionální museum v Litomyšli",
+                  "text": "Un muzeu regional din Litomyšl care prezintă istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        16.311761,
+                        49.872406
+                  ]
+            },
+            {
+                  "name": "Zámek Litomyšl",
+                  "text": "Un splendid castel renascentist înscris în patrimoniul mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        16.312753,
+                        49.873318
+                  ]
+            },
+            {
+                  "name": "Portmoneum",
+                  "text": "Un muzeu din Litomyšl, cunoscut pentru picturile murale unice ale lui Josef Váchal.",
+                  "category": "museum",
+                  "coords": [
+                        16.316317,
+                        49.870574
+                  ]
+            },
+            {
+                  "name": "Muzeum domečků panenek a hraček Litomyšl",
+                  "text": "Un muzeu din Litomyšl care expune o colecție de căsuțe pentru păpuși și jucării.",
+                  "category": "museum",
+                  "coords": [
+                        16.314054,
+                        49.872673
+                  ]
+            },
+            {
+                  "name": "hradiště Hrutov",
+                  "text": "Resturile unei fortificații istorice situate lângă Litomyšl.",
+                  "category": "fortress",
+                  "coords": [
+                        16.329072,
+                        49.854693
+                  ]
+            },
+            {
+                  "name": "Plovárna",
+                  "text": "O facilitate de scăldat publică și parc acvatic în Litomyšl.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318101,
+                        49.866977
+                  ]
+            },
+            {
+                  "name": "PP Nedošínský háj",
+                  "text": "O rezervație naturală într-o zonă forestieră istorică de lângă Litomyšl.",
+                  "category": "natural",
+                  "coords": [
+                        16.267423,
+                        49.882358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regionální museum v Litomyšli",
+                  "text": "A regional museum in Litomyšl covering the history of the town.",
+                  "category": "museum",
+                  "coords": [
+                        16.311761,
+                        49.872406
+                  ]
+            },
+            {
+                  "name": "Litomyšl Castle",
+                  "text": "A magnificent Renaissance castle listed as a UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        16.312753,
+                        49.873318
+                  ]
+            },
+            {
+                  "name": "Portmoneum",
+                  "text": "A museum in Litomyšl known for its unique murals by Josef Váchal.",
+                  "category": "museum",
+                  "coords": [
+                        16.316317,
+                        49.870574
+                  ]
+            },
+            {
+                  "name": "Muzeum domečků panenek a hraček Litomyšl",
+                  "text": "A museum in Litomyšl exhibiting a collection of dollhouses and toys.",
+                  "category": "museum",
+                  "coords": [
+                        16.314054,
+                        49.872673
+                  ]
+            },
+            {
+                  "name": "hradiště Hrutov",
+                  "text": "Remains of a historic fortification located near Litomyšl.",
+                  "category": "fortress",
+                  "coords": [
+                        16.329072,
+                        49.854693
+                  ]
+            },
+            {
+                  "name": "Plovárna",
+                  "text": "A public bathing facility and water park in Litomyšl.",
+                  "category": "recreational",
+                  "coords": [
+                        16.318101,
+                        49.866977
+                  ]
+            },
+            {
+                  "name": "PP Nedošínský háj",
+                  "text": "A nature reserve located in a historic wooded area near Litomyšl.",
+                  "category": "natural",
+                  "coords": [
+                        16.267423,
+                        49.882358
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle"},
@@ -1315,7 +2026,304 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-bezdez-castle-history-v2",
+    id: "czechrepublic-bezdez-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturreservat Neuberg und Bösig",
+                  "text": "Ein Naturschutzgebiet, das die bewaldeten Hügel des Großen und Kleinen Bezděz umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        14.717025,
+                        50.539403
+                  ]
+            },
+            {
+                  "name": "Burg Bösig",
+                  "text": "Eine bedeutende gotische Burgruine aus dem 13. Jahrhundert auf einem hohen Phonolith-Hügel in Nordböhmen.",
+                  "category": "castle",
+                  "coords": [
+                        14.719863,
+                        50.539103
+                  ]
+            },
+            {
+                  "name": "přírodní anfiteátr",
+                  "text": "Ein natürliches Freiluft-Amphitheater in der malerischen Landschaft in der Nähe der Burg Bezděz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.719869,
+                        50.535654
+                  ]
+            },
+            {
+                  "name": "Minizoo Vrchbělá",
+                  "text": "Ein kleiner Zoo und Erholungsgebiet für Familien in der Nähe der Stadt Bělá pod Bezdězem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.770682,
+                        50.525736
+                  ]
+            },
+            {
+                  "name": "Královský kámen",
+                  "text": "Ein markanter Gipfel im Ralsko-Hügelland, der Naturschönheiten und Wanderwege bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.684412,
+                        50.561643
+                  ]
+            },
+            {
+                  "name": "Neuberg",
+                  "text": "Ein Aussichtspunkt auf dem kleineren der beiden Bezděz-Hügel, bekannt für sein zerklüftetes Gelände und die Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        14.713734,
+                        50.539919
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na Bezděz",
+                  "text": "Ein ausgewiesener Punkt, der einen klaren und schönen fotografischen Blick auf die Silhouette der Burg Bezděz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.687428,
+                        50.525542
+                  ]
+            },
+            {
+                  "name": "Králův stolec",
+                  "text": "Ein historischer Aussichtspunkt in der Nähe von Bezděz, der traditionell mit Entspannung und Ausblicken verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.686237,
+                        50.56674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NPR Velký a Malý Bezděz",
+                  "text": "Természetvédelmi terület, amely a Nagy- és Kis-Bezděz csúcsok erdős dombjait foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        14.717025,
+                        50.539403
+                  ]
+            },
+            {
+                  "name": "Hrad Bezděz",
+                  "text": "Jelentős 13. századi gótikus várrom egy magas fonolit dombon, Észak-Csehországban.",
+                  "category": "castle",
+                  "coords": [
+                        14.719863,
+                        50.539103
+                  ]
+            },
+            {
+                  "name": "přírodní anfiteátr",
+                  "text": "Természetes szabadtéri amfiteátrum a Bezděz-vár közeli festői tájon.",
+                  "category": "cultural",
+                  "coords": [
+                        14.719869,
+                        50.535654
+                  ]
+            },
+            {
+                  "name": "Minizoo Vrchbělá",
+                  "text": "Kis állatkert és családi szabadidős terület Bělá pod Bezdězem városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.770682,
+                        50.525736
+                  ]
+            },
+            {
+                  "name": "Královský kámen",
+                  "text": "Kiemelkedő csúcs a Ralsko-dombságban, amely természeti szépségeket és túrázási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.684412,
+                        50.561643
+                  ]
+            },
+            {
+                  "name": "Malý Bezděz",
+                  "text": "Kilátópont a két Bezděz-domb közül a kisebbiken, amely egyenetlen terepéről és kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.713734,
+                        50.539919
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na Bezděz",
+                  "text": "Kijelölt hely, ahonnan tiszta és szép fotózási lehetőség nyílik a Bezděz-vár sziluettjére.",
+                  "category": "natural",
+                  "coords": [
+                        14.687428,
+                        50.525542
+                  ]
+            },
+            {
+                  "name": "Králův stolec",
+                  "text": "Történelmi kilátópont Bezděz közelében, amely hagyományosan a pihenéshez és a szép kilátáshoz kötődik.",
+                  "category": "natural",
+                  "coords": [
+                        14.686237,
+                        50.56674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NPR Velký a Malý Bezděz",
+                  "text": "O rezervație naturală protejată care cuprinde dealurile împădurite ale vârfurilor Bezděz Mare și Mic.",
+                  "category": "natural",
+                  "coords": [
+                        14.717025,
+                        50.539403
+                  ]
+            },
+            {
+                  "name": "Hrad Bezděz",
+                  "text": "O ruină semnificativă de castel gotic din secolul al XIII-lea, situată pe un deal înalt de fonolit din Boemia de Nord.",
+                  "category": "castle",
+                  "coords": [
+                        14.719863,
+                        50.539103
+                  ]
+            },
+            {
+                  "name": "přírodní anfiteátr",
+                  "text": "Un amfiteatru natural în aer liber situat în peisajul pitoresc de lângă castelul Bezděz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.719869,
+                        50.535654
+                  ]
+            },
+            {
+                  "name": "Minizoo Vrchbělá",
+                  "text": "O mică grădină zoologică și zonă de recreere pentru familii situată lângă orașul Bělá pod Bezdězem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.770682,
+                        50.525736
+                  ]
+            },
+            {
+                  "name": "Královský kámen",
+                  "text": "Un vârf proeminent în zonele înalte Ralsko, oferind frumusețe naturală și oportunități de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        14.684412,
+                        50.561643
+                  ]
+            },
+            {
+                  "name": "Malý Bezděz",
+                  "text": "Un punct de belvedere pe cel mai mic dintre cele două dealuri Bezděz, cunoscut pentru terenul său accidentat și priveliști.",
+                  "category": "natural",
+                  "coords": [
+                        14.713734,
+                        50.539919
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na Bezděz",
+                  "text": "Un loc desemnat care oferă o vedere fotografică clară și frumoasă asupra siluetei castelului Bezděz.",
+                  "category": "natural",
+                  "coords": [
+                        14.687428,
+                        50.525542
+                  ]
+            },
+            {
+                  "name": "Králův stolec",
+                  "text": "Un punct de belvedere istoric lângă Bezděz, asociat tradițional cu relaxarea și panoramele pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.686237,
+                        50.56674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NPR Velký a Malý Bezděz",
+                  "text": "A protected nature reserve encompassing the forested hills of the Great and Small Bezděz peaks.",
+                  "category": "natural",
+                  "coords": [
+                        14.717025,
+                        50.539403
+                  ]
+            },
+            {
+                  "name": "Bezděz Castle",
+                  "text": "A significant 13th-century Gothic castle ruin set atop a high phonolite hill in Northern Bohemia.",
+                  "category": "castle",
+                  "coords": [
+                        14.719863,
+                        50.539103
+                  ]
+            },
+            {
+                  "name": "přírodní anfiteátr",
+                  "text": "A natural outdoor amphitheater located in the picturesque landscape near Bezděz Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        14.719869,
+                        50.535654
+                  ]
+            },
+            {
+                  "name": "Minizoo Vrchbělá",
+                  "text": "A small zoo and family recreational area located near the town of Bělá pod Bezdězem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.770682,
+                        50.525736
+                  ]
+            },
+            {
+                  "name": "Královský kámen",
+                  "text": "A prominent peak in the Ralsko Uplands, offering natural beauty and hiking opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        14.684412,
+                        50.561643
+                  ]
+            },
+            {
+                  "name": "Malý Bezděz",
+                  "text": "A viewpoint on the smaller of the two Bezděz hills, known for its rugged terrain and views.",
+                  "category": "natural",
+                  "coords": [
+                        14.713734,
+                        50.539919
+                  ]
+            },
+            {
+                  "name": "Vyhlídka na Bezděz",
+                  "text": "A designated spot providing a clear and beautiful photographic view of the Bezděz Castle silhouette.",
+                  "category": "natural",
+                  "coords": [
+                        14.687428,
+                        50.525542
+                  ]
+            },
+            {
+                  "name": "Králův stolec",
+                  "text": "A historic viewpoint near Bezděz, traditionally associated with relaxation and scenic overlooks.",
+                  "category": "natural",
+                  "coords": [
+                        14.686237,
+                        50.56674
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle"},
@@ -2617,7 +3625,268 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-rabi-ruins-history-v2",
+    id: "czechrepublic-rabi-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "Ein barockes Schloss in Žichovice, das auf den Fundamenten einer älteren Festung errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "Ein Naturschutzgebiet mit wertvollen Kalkstein-Pflanzengesellschaften in der Nähe der Burgruine Rabí.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Ein Naturpark in der Region Budětice, der für seine malerische Landschaft und Artenvielfalt geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Die Ruine der Burg Rabí ist die größte Burganlage ihrer Art in Böhmen.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Ein Handwerksmuseum in der Nähe der Burg Rabí, das traditionelle lokale Berufe vorstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "Das Naturschutzgebiet Pučanka ist bekannt für seine geologischen Formationen und seltene Flora.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Ein markanter Gipfel in der Region Rabí, der Teil eines geschützten Naturgebiets ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "Barokk kastély Žichovicében, amely egy régebbi erődítmény alapjaira épült.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "Természetvédelmi terület értékes mészkő-növénytársulásokkal a Rabí várrom közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Természetvédelmi park Budětice térségében, amely festői tájáról és biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Rabí várának romjai Csehország legnagyobb ilyen jellegű váregyüttesét alkotják.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Mesterségek múzeuma a Rabí vár közelében, amely a hagyományos helyi szakmákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "A Pučanka természetvédelmi terület geológiai képződményeiről és ritka flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Jellegzetes hegycsúcs Rabí térségében, amely egy védett természeti terület része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "Un castel baroc în Žichovice, construit pe fundațiile unei fortărețe mai vechi.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "O rezervație naturală cu comunități valoroase de plante calcaroase lângă ruinele castelului Rabí.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Un parc natural în regiunea Budětice, protejat pentru peisajul său pitoresc și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Ruinele castelului Rabí reprezintă cel mai mare complex de acest tip din Boemia.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Un muzeu al meșteșugurilor lângă castelul Rabí, care prezintă ocupațiile tradiționale locale.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "Rezervația naturală Pučanka este cunoscută pentru formațiunile sale geologice și flora rară.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Un vârf proeminent în regiunea Rabí, care face parte dintr-o zonă naturală protejată.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "A Baroque castle in Žichovice built on the foundations of an older fortress.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "A nature reserve featuring valuable limestone plant communities near the Rabí castle ruins.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "A nature park in the Budětice area, protected for its picturesque landscape and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "The ruins of Rabí Castle constitute the largest castle complex of its kind in Bohemia.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "A museum of crafts near Rabí Castle showcasing traditional local professions.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "The Pučanka nature reserve is known for its geological formations and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "A prominent peak in the Rabí area, part of a protected natural site.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "ruins",
     name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins"},
@@ -2758,7 +4027,304 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-cheb-castle-history-v2",
+    id: "czechrepublic-cheb-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Cheb",
+                  "text": "Eine gut erhaltene Kaiserburg in Cheb, die ein wichtiges Denkmal romanischer Architektur ist.",
+                  "category": "castle",
+                  "coords": [
+                        12.366091,
+                        50.081248
+                  ]
+            },
+            {
+                  "name": "Nationales Naturdenkmal Kammerbühl",
+                  "text": "Ein nationales Naturdenkmal, das den jüngsten Vulkan in Tschechien schützt.",
+                  "category": "natural",
+                  "coords": [
+                        12.337604,
+                        50.100655
+                  ]
+            },
+            {
+                  "name": "Západočeské divadlo v Chebu",
+                  "text": "Ein bedeutendes Regionaltheater in der Stadt Cheb.",
+                  "category": "cultural",
+                  "coords": [
+                        12.367243,
+                        50.076637
+                  ]
+            },
+            {
+                  "name": "Chebské muzeum",
+                  "text": "Ein Regionalmuseum, das die Geschichte und Kultur der Region Cheb präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.37002,
+                        50.080098
+                  ]
+            },
+            {
+                  "name": "Retromuseum",
+                  "text": "Ein spezialisiertes Museum für Design und Lebensstil der tschechoslowakischen Ära.",
+                  "category": "museum",
+                  "coords": [
+                        12.371333,
+                        50.078647
+                  ]
+            },
+            {
+                  "name": "Auto-Motorrad Museum",
+                  "text": "Ein Museum, das eine Sammlung historischer Kraftfahrzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.350234,
+                        50.11303
+                  ]
+            },
+            {
+                  "name": "Kammerbühl",
+                  "text": "Der jüngste Vulkan in der Tschechischen Republik und ein beliebtes Ausflugsziel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.336674,
+                        50.100937
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm",
+                  "text": "Ein Aussichtspunkt mit einer romantisierenden künstlichen Burgruine.",
+                  "category": "natural",
+                  "coords": [
+                        12.360142,
+                        50.109768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chebský hrad",
+                  "text": "Jól megőrzött császári vár Chebben, amely a román építészet fontos emléke.",
+                  "category": "castle",
+                  "coords": [
+                        12.366091,
+                        50.081248
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Komorní hůrka",
+                  "text": "Csehország legfiatalabb vulkánját védő nemzeti természeti emlékhely.",
+                  "category": "natural",
+                  "coords": [
+                        12.337604,
+                        50.100655
+                  ]
+            },
+            {
+                  "name": "Západočeské divadlo v Chebu",
+                  "text": "Eger (Cheb) városának jelentős regionális színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        12.367243,
+                        50.076637
+                  ]
+            },
+            {
+                  "name": "Chebské muzeum",
+                  "text": "Regionális múzeum, amely a chebi régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.37002,
+                        50.080098
+                  ]
+            },
+            {
+                  "name": "Retromuseum",
+                  "text": "A csehszlovák korszak designjára és életmódjára szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.371333,
+                        50.078647
+                  ]
+            },
+            {
+                  "name": "Auto-moto muzeum",
+                  "text": "Történelmi gépjárművek gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.350234,
+                        50.11303
+                  ]
+            },
+            {
+                  "name": "Komorní hůrka",
+                  "text": "A Cseh Köztársaság legfiatalabb vulkánja és népszerű kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        12.336674,
+                        50.100937
+                  ]
+            },
+            {
+                  "name": "Salingburg",
+                  "text": "Kilátóhely egy romantikus stílusú mesterséges várrommal.",
+                  "category": "natural",
+                  "coords": [
+                        12.360142,
+                        50.109768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chebský hrad",
+                  "text": "Un castel imperial bine conservat în Cheb, fiind un monument important al arhitecturii romanice.",
+                  "category": "castle",
+                  "coords": [
+                        12.366091,
+                        50.081248
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Komorní hůrka",
+                  "text": "Un monument natural național care protejează cel mai tânăr vulcan din Cehia.",
+                  "category": "natural",
+                  "coords": [
+                        12.337604,
+                        50.100655
+                  ]
+            },
+            {
+                  "name": "Západočeské divadlo v Chebu",
+                  "text": "Un teatru regional important situat în orașul Cheb.",
+                  "category": "cultural",
+                  "coords": [
+                        12.367243,
+                        50.076637
+                  ]
+            },
+            {
+                  "name": "Chebské muzeum",
+                  "text": "Un muzeu regional care prezintă istoria și cultura regiunii Cheb.",
+                  "category": "museum",
+                  "coords": [
+                        12.37002,
+                        50.080098
+                  ]
+            },
+            {
+                  "name": "Retromuseum",
+                  "text": "Un muzeu specializat în designul și stilul de viață din epoca cehoslovacă.",
+                  "category": "museum",
+                  "coords": [
+                        12.371333,
+                        50.078647
+                  ]
+            },
+            {
+                  "name": "Auto-moto muzeum",
+                  "text": "Un muzeu care expune o colecție de autovehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.350234,
+                        50.11303
+                  ]
+            },
+            {
+                  "name": "Komorní hůrka",
+                  "text": "Cel mai tânăr vulcan din Republica Cehă și o destinație populară pentru excursii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.336674,
+                        50.100937
+                  ]
+            },
+            {
+                  "name": "Salingburg",
+                  "text": "Un punct de observație cu o ruină de castel artificială în stil romantic.",
+                  "category": "natural",
+                  "coords": [
+                        12.360142,
+                        50.109768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheb Castle",
+                  "text": "A well-preserved imperial castle in Cheb, which is an important monument of Romanesque architecture.",
+                  "category": "castle",
+                  "coords": [
+                        12.366091,
+                        50.081248
+                  ]
+            },
+            {
+                  "name": "národní přírodní památka Komorní hůrka",
+                  "text": "A national natural monument protecting the youngest volcano in the Czech Republic.",
+                  "category": "natural",
+                  "coords": [
+                        12.337604,
+                        50.100655
+                  ]
+            },
+            {
+                  "name": "Západočeské divadlo v Chebu",
+                  "text": "An important regional theatre located in the city of Cheb.",
+                  "category": "cultural",
+                  "coords": [
+                        12.367243,
+                        50.076637
+                  ]
+            },
+            {
+                  "name": "Chebské muzeum",
+                  "text": "A regional museum presenting the history and culture of the Cheb region.",
+                  "category": "museum",
+                  "coords": [
+                        12.37002,
+                        50.080098
+                  ]
+            },
+            {
+                  "name": "Retromuseum",
+                  "text": "A specialized museum dedicated to the design and lifestyle of the Czechoslovak era.",
+                  "category": "museum",
+                  "coords": [
+                        12.371333,
+                        50.078647
+                  ]
+            },
+            {
+                  "name": "Auto-moto muzeum",
+                  "text": "A museum exhibiting a collection of historic motor vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        12.350234,
+                        50.11303
+                  ]
+            },
+            {
+                  "name": "Komorní hůrka",
+                  "text": "The youngest volcano in the Czech Republic and a popular excursion destination.",
+                  "category": "landmark",
+                  "coords": [
+                        12.336674,
+                        50.100937
+                  ]
+            },
+            {
+                  "name": "Salingburg",
+                  "text": "A viewpoint featuring a romanticized artificial castle ruin.",
+                  "category": "natural",
+                  "coords": [
+                        12.360142,
+                        50.109768
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle"},
@@ -2852,7 +4418,88 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-orlik-castle-history-v2",
+    id: "czechrepublic-orlik-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Worlik",
+                  "text": "Ein prächtiges Schloss auf einem Felsen über der Moldau in Tschechien.",
+                  "category": "castle",
+                  "coords": [
+                        14.170393,
+                        49.512946
+                  ]
+            },
+            {
+                  "name": "Konzentrationslager Lety",
+                  "text": "Eine Gedenkstätte am Ort eines ehemaligen Konzentrationslagers für Roma.",
+                  "category": "historical",
+                  "coords": [
+                        14.121763,
+                        49.507588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Orlík",
+                  "text": "Pompás kastély egy sziklán a Moldva folyó felett Csehországban.",
+                  "category": "castle",
+                  "coords": [
+                        14.170393,
+                        49.512946
+                  ]
+            },
+            {
+                  "name": "Koncentrační tábor Lety",
+                  "text": "Emlékhely egy egykori roma koncentrációs tábor helyén.",
+                  "category": "historical",
+                  "coords": [
+                        14.121763,
+                        49.507588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Orlík",
+                  "text": "Un castel splendid situat pe o stâncă deasupra râului Vltava în Cehia.",
+                  "category": "castle",
+                  "coords": [
+                        14.170393,
+                        49.512946
+                  ]
+            },
+            {
+                  "name": "Koncentrační tábor Lety",
+                  "text": "Un monument comemorativ pe locul unui fost lagăr de concentrare pentru romi.",
+                  "category": "historical",
+                  "coords": [
+                        14.121763,
+                        49.507588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Orlík",
+                  "text": "A splendid castle on a rock above the Vltava River in the Czech Republic.",
+                  "category": "castle",
+                  "coords": [
+                        14.170393,
+                        49.512946
+                  ]
+            },
+            {
+                  "name": "Koncentrační tábor Lety",
+                  "text": "A memorial at the site of a former concentration camp for Roma people.",
+                  "category": "historical",
+                  "coords": [
+                        14.121763,
+                        49.507588
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle"},
@@ -2946,7 +4593,268 @@ export const czechrepublicHistoryV2: POI[] = [
   }
 ,
   {
-    id: "czechrepublic-hrazany-oppidum-history-v2",
+    id: "czechrepublic-hrazany-oppidum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Městské muzeum Sedlčany",
+                  "text": "Ein Museum in Sedlčany, das Sammlungen zur Archäologie, Geschichte und Volkskunde der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.42639,
+                        49.658428
+                  ]
+            },
+            {
+                  "name": "Červený Hrádek",
+                  "text": "Ein malerisches Schloss in der Nähe von Sedlčany, das für sein neugotisches Erscheinungsbild bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        14.453233,
+                        49.658857
+                  ]
+            },
+            {
+                  "name": "Jezero",
+                  "text": "Ein geschütztes Naturschutzgebiet, das ein wichtiges Biotop für die lokale Flora und Fauna darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        14.360285,
+                        49.679417
+                  ]
+            },
+            {
+                  "name": "Kňovice",
+                  "text": "Ein Barockschloss in Kňovice, das auf den Fundamenten einer älteren Festung errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        14.39934,
+                        49.688657
+                  ]
+            },
+            {
+                  "name": "Zámek Příčovy",
+                  "text": "Ein Barockschloss in Příčovy, das für seine markante Architektur und Geschichte bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        14.389192,
+                        49.672091
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Josefa Suka",
+                  "text": "Ein nach dem Komponisten Josef Suk benanntes Kulturhaus, das als Zentrum für Kunst und Theater dient.",
+                  "category": "cultural",
+                  "coords": [
+                        14.420637,
+                        49.659708
+                  ]
+            },
+            {
+                  "name": "Zaniklá tvrz Ústupenice",
+                  "text": "Die Überreste einer mittelalterlichen Festung in Ústupenice, die heute eine archäologische Stätte sind.",
+                  "category": "historical",
+                  "coords": [
+                        14.394303,
+                        49.633622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Městské muzeum Sedlčany",
+                  "text": "Sedlčany városi múzeuma, amely helyi régészeti, történelmi és néprajzi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.42639,
+                        49.658428
+                  ]
+            },
+            {
+                  "name": "Červený Hrádek",
+                  "text": "Gidres-gödrös neogótikus kastély Sedlčany közelében, festői környezetben.",
+                  "category": "castle",
+                  "coords": [
+                        14.453233,
+                        49.658857
+                  ]
+            },
+            {
+                  "name": "Jezero",
+                  "text": "Védett természetvédelmi terület, amely fontos élőhelyet biztosít a helyi élővilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        14.360285,
+                        49.679417
+                  ]
+            },
+            {
+                  "name": "Kňovice",
+                  "text": "Barokk kastély Kňovicében, amely egy korábbi erődítmény alapjaira épült.",
+                  "category": "castle",
+                  "coords": [
+                        14.39934,
+                        49.688657
+                  ]
+            },
+            {
+                  "name": "Zámek Příčovy",
+                  "text": "Barokk kastély Příčovy faluban, amely jellegzetes építészetéről és történelméről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        14.389192,
+                        49.672091
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Josefa Suka",
+                  "text": "Josef Suk zeneszerzőről elnevezett művelődési ház, amely művészeti és színházi központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.420637,
+                        49.659708
+                  ]
+            },
+            {
+                  "name": "Zaniklá tvrz Ústupenice",
+                  "text": "Egy középkori erődítmény maradványai Ústupenicében, amely ma régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        14.394303,
+                        49.633622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Městské muzeum Sedlčany",
+                  "text": "Un muzeu în Sedlčany care expune colecții de arheologie, istorie și etnografie locală.",
+                  "category": "museum",
+                  "coords": [
+                        14.42639,
+                        49.658428
+                  ]
+            },
+            {
+                  "name": "Červený Hrádek",
+                  "text": "Un castel pitoresc lângă Sedlčany, cunoscut pentru aspectul său neogotic.",
+                  "category": "castle",
+                  "coords": [
+                        14.453233,
+                        49.658857
+                  ]
+            },
+            {
+                  "name": "Jezero",
+                  "text": "O rezervație naturală protejată, reprezentând un biotop important pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        14.360285,
+                        49.679417
+                  ]
+            },
+            {
+                  "name": "Kňovice",
+                  "text": "Un castel baroc în Kňovice, construit pe fundațiile unei fortificații mai vechi.",
+                  "category": "castle",
+                  "coords": [
+                        14.39934,
+                        49.688657
+                  ]
+            },
+            {
+                  "name": "Zámek Příčovy",
+                  "text": "Un castel baroc în Příčovy, cunoscut pentru arhitectura și istoria sa distinctivă.",
+                  "category": "castle",
+                  "coords": [
+                        14.389192,
+                        49.672091
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Josefa Suka",
+                  "text": "O casă de cultură numită după compozitorul Josef Suk, servind drept centru pentru artă și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.420637,
+                        49.659708
+                  ]
+            },
+            {
+                  "name": "Zaniklá tvrz Ústupenice",
+                  "text": "Rămășițele unei fortificații medievale în Ústupenice, care reprezintă astăzi un sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        14.394303,
+                        49.633622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Městské muzeum Sedlčany",
+                  "text": "A museum in Sedlčany displaying local archaeological, historical, and ethnographic collections.",
+                  "category": "museum",
+                  "coords": [
+                        14.42639,
+                        49.658428
+                  ]
+            },
+            {
+                  "name": "Červený Hrádek",
+                  "text": "A picturesque castle near Sedlčany, known for its neo-Gothic appearance.",
+                  "category": "castle",
+                  "coords": [
+                        14.453233,
+                        49.658857
+                  ]
+            },
+            {
+                  "name": "Jezero",
+                  "text": "A protected nature reserve providing an important biotope for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        14.360285,
+                        49.679417
+                  ]
+            },
+            {
+                  "name": "Kňovice",
+                  "text": "A Baroque chateau in Kňovice, built on the foundations of an older fortress.",
+                  "category": "castle",
+                  "coords": [
+                        14.39934,
+                        49.688657
+                  ]
+            },
+            {
+                  "name": "Zámek Příčovy",
+                  "text": "A Baroque chateau in Příčovy, known for its distinctive architecture and history.",
+                  "category": "castle",
+                  "coords": [
+                        14.389192,
+                        49.672091
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Josefa Suka",
+                  "text": "A cultural house named after composer Josef Suk, serving as a center for arts and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        14.420637,
+                        49.659708
+                  ]
+            },
+            {
+                  "name": "Zaniklá tvrz Ústupenice",
+                  "text": "The remains of a medieval fortress in Ústupenice, which are now an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        14.394303,
+                        49.633622
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CZ",
     name: { de: "Oppidum Hrazany", hu: "Hrazany oppidum", ro: "Oppidum Hrazany", en: "Hrazany Oppidum" },
@@ -3171,7 +5079,304 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-lipnice-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-valec-chateau-history-v2",
+    id: "czechrepublic-valec-chateau-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "tvrz Lina",
+                  "text": "Überreste einer mittelalterlichen Festung in der Nähe von Valeč.",
+                  "category": "castle",
+                  "coords": [
+                        13.276459,
+                        50.186019
+                  ]
+            },
+            {
+                  "name": "vodní tvrz Jeřeň",
+                  "text": "Archäologische Stätte einer ehemaligen Wasserburg.",
+                  "category": "historical",
+                  "coords": [
+                        13.257519,
+                        50.165706
+                  ]
+            },
+            {
+                  "name": "Zámek Valeč",
+                  "text": "Barocke Schlossanlage mit einem großen Park und Skulpturen.",
+                  "category": "castle",
+                  "coords": [
+                        13.252022,
+                        50.174773
+                  ]
+            },
+            {
+                  "name": "Prokopy",
+                  "text": "Ein Gipfel mit Blick auf die umliegende Landschaft bei Valeč.",
+                  "category": "landmark",
+                  "coords": [
+                        13.226756,
+                        50.184614
+                  ]
+            },
+            {
+                  "name": "Hoppova kaple",
+                  "text": "Historische Kapelle auf dem Gelände des Schlosses Valeč.",
+                  "category": "religious",
+                  "coords": [
+                        13.24788,
+                        50.16973
+                  ]
+            },
+            {
+                  "name": "sv. Markéta",
+                  "text": "Eine der heiligen Margareta gewidmete Kultstätte.",
+                  "category": "religious",
+                  "coords": [
+                        13.299599,
+                        50.168395
+                  ]
+            },
+            {
+                  "name": "Narození sv. Jana Křtitele",
+                  "text": "Kirche, die der Geburt des heiligen Johannes des Täufers gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.254311,
+                        50.174292
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Barockkirche, die der Heiligsten Dreifaltigkeit in Valeč gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.250529,
+                        50.17286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "tvrz Lina",
+                  "text": "Egy középkori erődítmény maradványai Valeč közelében.",
+                  "category": "castle",
+                  "coords": [
+                        13.276459,
+                        50.186019
+                  ]
+            },
+            {
+                  "name": "vodní tvrz Jeřeň",
+                  "text": "Egy egykori vízi vár régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        13.257519,
+                        50.165706
+                  ]
+            },
+            {
+                  "name": "Zámek Valeč",
+                  "text": "Barokk kastélyegyüttes nagy parkkal és szobrokkal.",
+                  "category": "castle",
+                  "coords": [
+                        13.252022,
+                        50.174773
+                  ]
+            },
+            {
+                  "name": "Prokopy",
+                  "text": "Egy hegycsúcs, amely kilátást nyújt a Valeč környéki tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.226756,
+                        50.184614
+                  ]
+            },
+            {
+                  "name": "Hoppova kaple",
+                  "text": "Történelmi kápolna a valeči kastély területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.24788,
+                        50.16973
+                  ]
+            },
+            {
+                  "name": "sv. Markéta",
+                  "text": "Szent Margitnak szentelt vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        13.299599,
+                        50.168395
+                  ]
+            },
+            {
+                  "name": "Narození sv. Jana Křtitele",
+                  "text": "Keresztelő Szent János születésének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        13.254311,
+                        50.174292
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "A Szentháromságnak szentelt barokk templom Valečben.",
+                  "category": "religious",
+                  "coords": [
+                        13.250529,
+                        50.17286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "tvrz Lina",
+                  "text": "Rămășițele unei cetăți medievale situată lângă Valeč.",
+                  "category": "castle",
+                  "coords": [
+                        13.276459,
+                        50.186019
+                  ]
+            },
+            {
+                  "name": "vodní tvrz Jeřeň",
+                  "text": "Situl arheologic al unei foste cetăți de apă.",
+                  "category": "historical",
+                  "coords": [
+                        13.257519,
+                        50.165706
+                  ]
+            },
+            {
+                  "name": "Zámek Valeč",
+                  "text": "Complex de castel baroc cu un parc mare și sculpturi.",
+                  "category": "castle",
+                  "coords": [
+                        13.252022,
+                        50.174773
+                  ]
+            },
+            {
+                  "name": "Prokopy",
+                  "text": "Un vârf care oferă priveliști asupra peisajului din jur lângă Valeč.",
+                  "category": "landmark",
+                  "coords": [
+                        13.226756,
+                        50.184614
+                  ]
+            },
+            {
+                  "name": "Hoppova kaple",
+                  "text": "Capelă istorică situată pe domeniul castelului Valeč.",
+                  "category": "religious",
+                  "coords": [
+                        13.24788,
+                        50.16973
+                  ]
+            },
+            {
+                  "name": "sv. Markéta",
+                  "text": "Lăcaș de cult dedicat Sfintei Margareta.",
+                  "category": "religious",
+                  "coords": [
+                        13.299599,
+                        50.168395
+                  ]
+            },
+            {
+                  "name": "Narození sv. Jana Křtitele",
+                  "text": "Biserică dedicată Nașterii Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        13.254311,
+                        50.174292
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Biserică barocă dedicată Sfintei Treimi în Valeč.",
+                  "category": "religious",
+                  "coords": [
+                        13.250529,
+                        50.17286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "tvrz Lina",
+                  "text": "Remains of a medieval fortress near Valeč.",
+                  "category": "castle",
+                  "coords": [
+                        13.276459,
+                        50.186019
+                  ]
+            },
+            {
+                  "name": "vodní tvrz Jeřeň",
+                  "text": "Archaeological site of a former water fortress.",
+                  "category": "historical",
+                  "coords": [
+                        13.257519,
+                        50.165706
+                  ]
+            },
+            {
+                  "name": "Zámek Valeč",
+                  "text": "Baroque castle complex with a large park and sculptures.",
+                  "category": "castle",
+                  "coords": [
+                        13.252022,
+                        50.174773
+                  ]
+            },
+            {
+                  "name": "Prokopy",
+                  "text": "A peak offering views of the surrounding landscape near Valeč.",
+                  "category": "landmark",
+                  "coords": [
+                        13.226756,
+                        50.184614
+                  ]
+            },
+            {
+                  "name": "Hoppova kaple",
+                  "text": "Historic chapel located on the grounds of the Valeč castle.",
+                  "category": "religious",
+                  "coords": [
+                        13.24788,
+                        50.16973
+                  ]
+            },
+            {
+                  "name": "sv. Markéta",
+                  "text": "A place of worship dedicated to Saint Margaret.",
+                  "category": "religious",
+                  "coords": [
+                        13.299599,
+                        50.168395
+                  ]
+            },
+            {
+                  "name": "Narození sv. Jana Křtitele",
+                  "text": "Church dedicated to the Nativity of Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        13.254311,
+                        50.174292
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Baroque church dedicated to the Holy Trinity in Valeč.",
+                  "category": "religious",
+                  "coords": [
+                        13.250529,
+                        50.17286
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Valeč", hu: "Valeč kastély", ro: "Castelul Valeč", en: "Valeč Chateau" },
@@ -3351,7 +5556,304 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-kunetice-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-veve-castle-history-v2",
+    id: "czechrepublic-veve-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Přírodní park Podkomorské lesy",
+                  "text": "Ein weitläufiger Naturpark in der Nähe der Burg Veveří, der zum Wandern und zur Erholung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        16.472864,
+                        49.24849
+                  ]
+            },
+            {
+                  "name": "Burg Eichhorn",
+                  "text": "Eine der ältesten und größten Burgen Mährens, die malerisch auf einem Felsen über der Brünner Talsperre liegt.",
+                  "category": "castle",
+                  "coords": [
+                        16.461554,
+                        49.256599
+                  ]
+            },
+            {
+                  "name": "přírodní památka Junácká louka",
+                  "text": "Ein geschütztes Naturdenkmal bei der Burg Veveří, das wertvolle Wiesenökosysteme bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        16.46004,
+                        49.260067
+                  ]
+            },
+            {
+                  "name": "přírodní památka Na Skalách",
+                  "text": "Ein Naturschutzgebiet an den Hängen über dem Fluss Svratka, bekannt für seine Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        16.458009,
+                        49.263987
+                  ]
+            },
+            {
+                  "name": "přírodní památka Kůlny",
+                  "text": "Ein kleines Naturschutzgebiet bei der Burg Veveří, das dem Schutz der lokalen Flora und Fauna dient.",
+                  "category": "natural",
+                  "coords": [
+                        16.473645,
+                        49.261124
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Jelení žlíbek",
+                  "text": "Ein Waldreservat in der Nähe von Brünn, das natürliche Eichen- und Hainbuchenwälder schützt.",
+                  "category": "natural",
+                  "coords": [
+                        16.484397,
+                        49.237714
+                  ]
+            },
+            {
+                  "name": "PP Žebětínský rybník",
+                  "text": "Ein geschütztes Teichgebiet, das ein wichtiges Refugium für Amphibien und Wasservögel darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        16.49033,
+                        49.214488
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Břenčák",
+                  "text": "Ein Naturschutzgebiet an den steilen Hängen des Svratka-Tals mit wertvoller Waldvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.458426,
+                        49.273093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Přírodní park Podkomorské lesy",
+                  "text": "A Veveří-vár közelében fekvő kiterjedt natúrpark, amely kiválóan alkalmas túrázásra és kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.472864,
+                        49.24849
+                  ]
+            },
+            {
+                  "name": "Veveří",
+                  "text": "Morvaország egyik legrégebbi és legnagyobb vára, amely festői környezetben, a Brnói-víztározó feletti sziklán magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        16.461554,
+                        49.256599
+                  ]
+            },
+            {
+                  "name": "přírodní památka Junácká louka",
+                  "text": "A Veveří-vár melletti védett természeti emlékhely, amely értékes réti ökoszisztémákat őriz.",
+                  "category": "natural",
+                  "coords": [
+                        16.46004,
+                        49.260067
+                  ]
+            },
+            {
+                  "name": "přírodní památka Na Skalách",
+                  "text": "Természeti emlékhely a Svratka folyó feletti lejtőkön, amely sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.458009,
+                        49.263987
+                  ]
+            },
+            {
+                  "name": "přírodní památka Kůlny",
+                  "text": "Kisméretű természetvédelmi terület a Veveří-vár közelében, a helyi növény- és állatvilág védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        16.473645,
+                        49.261124
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Jelení žlíbek",
+                  "text": "Brno közeli erdőrezervátum, amely természetes tölgy- és gyertyánerdőket óv.",
+                  "category": "natural",
+                  "coords": [
+                        16.484397,
+                        49.237714
+                  ]
+            },
+            {
+                  "name": "PP Žebětínský rybník",
+                  "text": "Védett tavas terület, amely fontos menedékhelyet nyújt kétéltűek és vízimadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        16.49033,
+                        49.214488
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Břenčák",
+                  "text": "Természetvédelmi terület a Svratka-völgy meredek lejtőin, értékes erdei növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        16.458426,
+                        49.273093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Přírodní park Podkomorské lesy",
+                  "text": "Un parc natural extins în apropierea Castelului Veveří, ideal pentru drumeții și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        16.472864,
+                        49.24849
+                  ]
+            },
+            {
+                  "name": "Veveří",
+                  "text": "Unul dintre cele mai vechi și mari castele din Moravia, situat pitoresc pe o stâncă deasupra rezervorului Brno.",
+                  "category": "castle",
+                  "coords": [
+                        16.461554,
+                        49.256599
+                  ]
+            },
+            {
+                  "name": "přírodní památka Junácká louka",
+                  "text": "Un monument natural protejat de lângă Castelul Veveří, care conservă ecosisteme de pajiști valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        16.46004,
+                        49.260067
+                  ]
+            },
+            {
+                  "name": "přírodní památka Na Skalách",
+                  "text": "Un monument natural pe versanții de deasupra râului Svratka, cunoscut pentru formațiunile sale stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        16.458009,
+                        49.263987
+                  ]
+            },
+            {
+                  "name": "přírodní památka Kůlny",
+                  "text": "O mică rezervație naturală lângă Castelul Veveří, dedicată protejării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        16.473645,
+                        49.261124
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Jelení žlíbek",
+                  "text": "O rezervație forestieră lângă Brno, care protejează păduri naturale de stejar și carpen.",
+                  "category": "natural",
+                  "coords": [
+                        16.484397,
+                        49.237714
+                  ]
+            },
+            {
+                  "name": "PP Žebětínský rybník",
+                  "text": "O zonă de iaz protejată, care reprezintă un refugiu important pentru amfibieni și păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        16.49033,
+                        49.214488
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Břenčák",
+                  "text": "O rezervație naturală pe versanții abrupți ai văii Svratka, cu vegetație forestieră valoroasă.",
+                  "category": "natural",
+                  "coords": [
+                        16.458426,
+                        49.273093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Přírodní park Podkomorské lesy",
+                  "text": "A large nature park near Veveří Castle, popular for hiking and outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        16.472864,
+                        49.24849
+                  ]
+            },
+            {
+                  "name": "Veveří",
+                  "text": "One of the oldest and largest castles in Moravia, picturesquely situated on a rock above the Brno Reservoir.",
+                  "category": "castle",
+                  "coords": [
+                        16.461554,
+                        49.256599
+                  ]
+            },
+            {
+                  "name": "přírodní památka Junácká louka",
+                  "text": "A protected nature monument near Veveří Castle, preserving valuable meadow ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        16.46004,
+                        49.260067
+                  ]
+            },
+            {
+                  "name": "přírodní památka Na Skalách",
+                  "text": "A nature monument on the slopes above the Svratka River, known for its rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        16.458009,
+                        49.263987
+                  ]
+            },
+            {
+                  "name": "přírodní památka Kůlny",
+                  "text": "A small nature reserve near Veveří Castle dedicated to the protection of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.473645,
+                        49.261124
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Jelení žlíbek",
+                  "text": "A forest reserve near Brno protecting natural oak and hornbeam woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        16.484397,
+                        49.237714
+                  ]
+            },
+            {
+                  "name": "PP Žebětínský rybník",
+                  "text": "A protected pond area that serves as an important refuge for amphibians and waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        16.49033,
+                        49.214488
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Břenčák",
+                  "text": "A nature reserve on the steep slopes of the Svratka valley with valuable forest vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        16.458426,
+                        49.273093
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Veveří", hu: "Veveří vár", ro: "Castelul Veveří", en: "Veveří Castle" },
@@ -3396,7 +5898,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-veve-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-kokorin-castle-history-v2",
+    id: "czechrepublic-kokorin-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturreservat Kokorschiner Tal",
+                  "text": "Ein geschütztes Naturgebiet im Tal unterhalb der Burg Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.590306,
+                        50.440666
+                  ]
+            },
+            {
+                  "name": "Kokořín",
+                  "text": "Eine markante gotische Burg in Mittelböhmen, die in einem Sandsteintal liegt.",
+                  "category": "castle",
+                  "coords": [
+                        14.576695,
+                        50.440357
+                  ]
+            },
+            {
+                  "name": "Zámek Kokořín",
+                  "text": "Die Schlossanlage von Kokořín in der Tschechischen Republik.",
+                  "category": "castle",
+                  "coords": [
+                        14.568582,
+                        50.429901
+                  ]
+            },
+            {
+                  "name": "Stráně Truskavenského dolu",
+                  "text": "Ein Naturschutzgebiet mit geschützter Flora in der Nähe von Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.533974,
+                        50.435287
+                  ]
+            },
+            {
+                  "name": "Skalní Bludiště",
+                  "text": "Ein natürliches Labyrinth aus Sandsteinfelsen in der Nähe der Burg Kokořín.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618709,
+                        50.456872
+                  ]
+            },
+            {
+                  "name": "Nedamy (skalní hrad)",
+                  "text": "Eine historische Felsenburg mit Höhlensystem in der Nähe der Burg Kokořín.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575659,
+                        50.446672
+                  ]
+            },
+            {
+                  "name": "Pokličky",
+                  "text": "Markante pilzförmige Sandsteinfelsformationen und ein beliebter Aussichtspunkt bei Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.589361,
+                        50.455241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PR Kokořínský důl",
+                  "text": "Védett természeti terület a Kokořín vára alatti völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        14.590306,
+                        50.440666
+                  ]
+            },
+            {
+                  "name": "Kokořín",
+                  "text": "Jellegzetes gótikus vár Közép-Csehországban, egy homokkő völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        14.576695,
+                        50.440357
+                  ]
+            },
+            {
+                  "name": "Zámek Kokořín",
+                  "text": "A csehországi Kokořín várkastélya.",
+                  "category": "castle",
+                  "coords": [
+                        14.568582,
+                        50.429901
+                  ]
+            },
+            {
+                  "name": "Stráně Truskavenského dolu",
+                  "text": "Természetvédelmi terület védett növényvilággal Kokořín közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.533974,
+                        50.435287
+                  ]
+            },
+            {
+                  "name": "Skalní Bludiště",
+                  "text": "Homokkő sziklákból álló természetes labirintus Kokořín vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618709,
+                        50.456872
+                  ]
+            },
+            {
+                  "name": "Nedamy (skalní hrad)",
+                  "text": "Kokořín vára közelében található történelmi sziklavár és barlangrendszer.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575659,
+                        50.446672
+                  ]
+            },
+            {
+                  "name": "Pokličky",
+                  "text": "Jellegzetes gomba alakú homokkő sziklák és népszerű kilátóhely Kokořín közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.589361,
+                        50.455241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PR Kokořínský důl",
+                  "text": "O zonă naturală protejată situată în valea de sub castelul Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.590306,
+                        50.440666
+                  ]
+            },
+            {
+                  "name": "Kokořín",
+                  "text": "Un castel gotic distinctiv din Boemia Centrală, situat într-o vale de gresie.",
+                  "category": "castle",
+                  "coords": [
+                        14.576695,
+                        50.440357
+                  ]
+            },
+            {
+                  "name": "Zámek Kokořín",
+                  "text": "Complexul castelului Kokořín din Republica Cehă.",
+                  "category": "castle",
+                  "coords": [
+                        14.568582,
+                        50.429901
+                  ]
+            },
+            {
+                  "name": "Stráně Truskavenského dolu",
+                  "text": "O rezervație naturală cu floră protejată situată lângă Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.533974,
+                        50.435287
+                  ]
+            },
+            {
+                  "name": "Skalní Bludiště",
+                  "text": "Un labirint natural format din stânci de gresie lângă castelul Kokořín.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618709,
+                        50.456872
+                  ]
+            },
+            {
+                  "name": "Nedamy (skalní hrad)",
+                  "text": "Un castel istoric de stâncă cu un sistem de peșteri lângă Castelul Kokořín.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575659,
+                        50.446672
+                  ]
+            },
+            {
+                  "name": "Pokličky",
+                  "text": "Formațiuni stâncoase de gresie în formă de ciupercă și un punct de belvedere popular lângă Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.589361,
+                        50.455241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PR Kokořínský důl",
+                  "text": "A protected nature area located in the valley below Kokořín Castle.",
+                  "category": "natural",
+                  "coords": [
+                        14.590306,
+                        50.440666
+                  ]
+            },
+            {
+                  "name": "Kokořín",
+                  "text": "A distinctive Gothic castle in Central Bohemia, situated in a sandstone valley.",
+                  "category": "castle",
+                  "coords": [
+                        14.576695,
+                        50.440357
+                  ]
+            },
+            {
+                  "name": "Zámek Kokořín",
+                  "text": "The castle complex of Kokořín in the Czech Republic.",
+                  "category": "castle",
+                  "coords": [
+                        14.568582,
+                        50.429901
+                  ]
+            },
+            {
+                  "name": "Stráně Truskavenského dolu",
+                  "text": "A nature reserve featuring protected flora near Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.533974,
+                        50.435287
+                  ]
+            },
+            {
+                  "name": "Skalní Bludiště",
+                  "text": "A natural labyrinth of sandstone rocks located near Kokořín Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618709,
+                        50.456872
+                  ]
+            },
+            {
+                  "name": "Nedamy (skalní hrad)",
+                  "text": "A historic rock castle and cave system located near Kokořín Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575659,
+                        50.446672
+                  ]
+            },
+            {
+                  "name": "Pokličky",
+                  "text": "Distinctive mushroom-shaped sandstone rock formations and a popular viewpoint near Kokořín.",
+                  "category": "natural",
+                  "coords": [
+                        14.589361,
+                        50.455241
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Kokořín", hu: "Kokořín vár", ro: "Castelul Kokořín", en: "Kokořín Castle" },
@@ -3441,7 +6204,88 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-kokorin-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-selmburk-castle-history-v2",
+    id: "czechrepublic-selmburk-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Schellenberg",
+                  "text": "Die Ruinen einer mittelalterlichen Burg mit einem markanten runden Turm.",
+                  "category": "castle",
+                  "coords": [
+                        14.826775,
+                        49.549956
+                  ]
+            },
+            {
+                  "name": "Centrum Šelmberk",
+                  "text": "Ein historisch-pädagogisches Zentrum in der Nähe der Burgruine Šelmberk.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825736,
+                        49.54842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zřícenina hradu Šelmberk",
+                  "text": "Egy középkori vár romjai jellegzetes kerek toronnyal.",
+                  "category": "castle",
+                  "coords": [
+                        14.826775,
+                        49.549956
+                  ]
+            },
+            {
+                  "name": "Centrum Šelmberk",
+                  "text": "Történelmi és oktatási központ a Šelmberk várrom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825736,
+                        49.54842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zřícenina hradu Šelmberk",
+                  "text": "Ruinele unui castel medieval cu un turn rotund proeminent.",
+                  "category": "castle",
+                  "coords": [
+                        14.826775,
+                        49.549956
+                  ]
+            },
+            {
+                  "name": "Centrum Šelmberk",
+                  "text": "Un centru istoric și educațional situat în apropierea ruinelor castelului Šelmberk.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825736,
+                        49.54842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zřícenina hradu Šelmberk",
+                  "text": "The ruins of a medieval castle featuring a prominent round tower.",
+                  "category": "castle",
+                  "coords": [
+                        14.826775,
+                        49.549956
+                  ]
+            },
+            {
+                  "name": "Centrum Šelmberk",
+                  "text": "A historical and educational center located near the Šelmberk castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825736,
+                        49.54842
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CZ",
     name: { de: "Burgruine Šelmberk", hu: "Šelmberk várrom", ro: "Ruinele castelului Šelmberk", en: "Šelmberk Castle Ruins" },
@@ -3621,7 +6465,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-kralov-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-hradiste-u-znojma-history-v2",
+    id: "czechrepublic-hradiste-u-znojma-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Das Stadttheater von Znojmo, das eine Vielzahl von dramatischen Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "Eine Galerie und ein Kunstzentrum in Znojmo, das regionale Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Ein historischer Burg- und Schlosskomplex mit Blick auf den Fluss Thaya in Znojmo.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "Eine großmährische Wallburg und archäologische Stätte in der Nähe von Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "Eine lokale Brauerei in Znojmo, die Einblicke in die traditionelle Bierherstellung bietet.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Ein weitläufiges System historischer unterirdischer Keller und Tunnel in Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Ein lokales Museum oder eine kulturelle Ausstellungsstätte in der Region Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Znojmo városi színháza, amely különféle drámai előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "Galéria és művészeti központ Znojmóban, amely regionális művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Történelmi vár- és kastélykomplexum, amely a Dyje folyóra néz Znojmóban.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "Nagymorva erődített település és régészeti lelőhely Znojmo közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "Helyi sörfőzde Znojmóban, amely betekintést nyújt a hagyományos sörfőzésbe.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Történelmi földalatti pincék és alagutak kiterjedt rendszere Znojmóban.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Helyi múzeum vagy kulturális kiállítóhely Znojmo régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Teatrul municipal din Znojmo, care oferă o varietate de spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "O galerie și centru de artă din Znojmo care expune artă regională.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Un castel istoric și complex de palate cu vedere la râul Dyje din Znojmo.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "O așezare fortificată din Moravia Mare și sit arheologic lângă Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "O fabrică de bere locală din Znojmo, care oferă informații despre fabricarea tradițională a berii.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Un sistem vast de pivnițe și tuneluri subterane istorice situate în Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Un muzeu local sau sit de expoziție culturală din regiunea Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "The municipal theater of Znojmo, offering a variety of dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "A gallery and arts center in Znojmo showcasing regional art.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "A historic castle and chateau complex overlooking the Dyje river in Znojmo.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "A Great Moravian fortified settlement and archaeological site near Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "A local brewery site in Znojmo, offering insights into traditional beer making.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "A large system of historical underground cellars and tunnels located in Znojmo.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "A local museum or cultural exhibition site in the Znojmo region.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CZ",
     name: { de: "Burgstätte Hradiště u Znojma", hu: "Hradiště u Znojma várhely", ro: "Situl fortificat Hradiště u Znojma", en: "Hradiště u Znojma Hillfort" },
@@ -3666,7 +6771,232 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-hradiste-u-znojma-history-v2.webp",
   },
   {
-    id: "czechrepublic-zruc-castle-history-v2",
+    id: "czechrepublic-zruc-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodní dům",
+                  "text": "Ein interaktives Bildungsmuseum in Zruč nad Sázavou, das sich auf Wasserökologie und das Leben im Fluss konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        15.086425,
+                        49.718629
+                  ]
+            },
+            {
+                  "name": "Zámek Zruč nad Sázavou",
+                  "text": "Ein malerisches Renaissanceschloss in Zruč nad Sázavou mit historischen Ausstellungen und einem großen Park.",
+                  "category": "castle",
+                  "coords": [
+                        15.101471,
+                        49.744365
+                  ]
+            },
+            {
+                  "name": "Vodácké muzeum",
+                  "text": "Ein spezialisiertes Museum, das der Geschichte des Kanusports und des Wassersports auf der Sázava gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.0994,
+                        49.744822
+                  ]
+            },
+            {
+                  "name": "Vyhlídka Chabeřické skály",
+                  "text": "Ein malerischer Aussichtspunkt mit schöner Aussicht auf die Chabeřice-Felsen und das Sázava-Flusstal.",
+                  "category": "natural",
+                  "coords": [
+                        15.087833,
+                        49.751002
+                  ]
+            },
+            {
+                  "name": "Rozhledna Babka",
+                  "text": "Ein hölzerner Aussichtsturm, der weite Blicke über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.098727,
+                        49.758566
+                  ]
+            },
+            {
+                  "name": "Na zaniklém hrádku",
+                  "text": "Die Ruinen einer kleinen mittelalterlichen Befestigungsanlage.",
+                  "category": "historical",
+                  "coords": [
+                        15.095807,
+                        49.743681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodní dům",
+                  "text": "Interaktív oktatási múzeum Zruč nad Sázavouban, amely a vízökológiára és a folyóparti életre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        15.086425,
+                        49.718629
+                  ]
+            },
+            {
+                  "name": "Zámek Zruč nad Sázavou",
+                  "text": "Festői reneszánsz kastély Zruč nad Sázavouban, történelmi kiállításokkal és nagy parkkal.",
+                  "category": "castle",
+                  "coords": [
+                        15.101471,
+                        49.744365
+                  ]
+            },
+            {
+                  "name": "Vodácké muzeum",
+                  "text": "Speciális múzeum, amelyet a Sázava folyón zajló kenuzás és vízi sportok történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        15.0994,
+                        49.744822
+                  ]
+            },
+            {
+                  "name": "Vyhlídka Chabeřické skály",
+                  "text": "Festői kilátópont, ahonnan gyönyörű kilátás nyílik a Chabeřice-sziklákra és a Sázava-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        15.087833,
+                        49.751002
+                  ]
+            },
+            {
+                  "name": "Rozhledna Babka",
+                  "text": "Fából készült kilátótorony, amely széles kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.098727,
+                        49.758566
+                  ]
+            },
+            {
+                  "name": "Na zaniklém hrádku",
+                  "text": "Egy kis középkori erődítmény maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        15.095807,
+                        49.743681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodní dům",
+                  "text": "Un muzeu educațional interactiv în Zruč nad Sázavou, axat pe ecologia apei și viața râului.",
+                  "category": "museum",
+                  "coords": [
+                        15.086425,
+                        49.718629
+                  ]
+            },
+            {
+                  "name": "Zámek Zruč nad Sázavou",
+                  "text": "Un castel pitoresc în stil renascentist în Zruč nad Sázavou, oferind expoziții istorice și un parc mare.",
+                  "category": "castle",
+                  "coords": [
+                        15.101471,
+                        49.744365
+                  ]
+            },
+            {
+                  "name": "Vodácké muzeum",
+                  "text": "Un muzeu specializat dedicat istoriei canoei și sporturilor nautice pe râul Sázava.",
+                  "category": "museum",
+                  "coords": [
+                        15.0994,
+                        49.744822
+                  ]
+            },
+            {
+                  "name": "Vyhlídka Chabeřické skály",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi frumoase asupra stâncilor Chabeřice și a văii râului Sázava.",
+                  "category": "natural",
+                  "coords": [
+                        15.087833,
+                        49.751002
+                  ]
+            },
+            {
+                  "name": "Rozhledna Babka",
+                  "text": "Un turn de observație din lemn care oferă vederi largi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.098727,
+                        49.758566
+                  ]
+            },
+            {
+                  "name": "Na zaniklém hrádku",
+                  "text": "Ruinele unei mici fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        15.095807,
+                        49.743681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodní dům",
+                  "text": "An interactive educational museum in Zruč nad Sázavou focused on water ecology and river life.",
+                  "category": "museum",
+                  "coords": [
+                        15.086425,
+                        49.718629
+                  ]
+            },
+            {
+                  "name": "Zámek Zruč nad Sázavou",
+                  "text": "A picturesque Renaissance castle in Zruč nad Sázavou, featuring historical exhibitions and a large park.",
+                  "category": "castle",
+                  "coords": [
+                        15.101471,
+                        49.744365
+                  ]
+            },
+            {
+                  "name": "Vodácké muzeum",
+                  "text": "A specialized museum dedicated to the history of canoeing and water sports on the Sázava river.",
+                  "category": "museum",
+                  "coords": [
+                        15.0994,
+                        49.744822
+                  ]
+            },
+            {
+                  "name": "Vyhlídka Chabeřické skály",
+                  "text": "A scenic viewpoint offering beautiful vistas of the Chabeřice rocks and the Sázava river valley.",
+                  "category": "natural",
+                  "coords": [
+                        15.087833,
+                        49.751002
+                  ]
+            },
+            {
+                  "name": "Rozhledna Babka",
+                  "text": "A wooden observation tower offering wide views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.098727,
+                        49.758566
+                  ]
+            },
+            {
+                  "name": "Na zaniklém hrádku",
+                  "text": "The ruins of a small medieval fortification.",
+                  "category": "historical",
+                  "coords": [
+                        15.095807,
+                        49.743681
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Zruč nad Sázavou", hu: "Zruč nad Sázavou vár", ro: "Castelul Zruč nad Sázavou", en: "Zruč nad Sázavou Castle" },
@@ -3711,7 +7041,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-zruc-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-bilina-castle-history-v2",
+    id: "czechrepublic-bilina-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "PR Trupelník",
+                  "text": "Ein Naturschutzgebiet in Böhmen, bekannt für seine geologischen Besonderheiten.",
+                  "category": "natural",
+                  "coords": [
+                        13.801275,
+                        50.535978
+                  ]
+            },
+            {
+                  "name": "Zámek Bílina",
+                  "text": "Ein barockes Schloss in der tschechischen Stadt Bílina.",
+                  "category": "castle",
+                  "coords": [
+                        13.776228,
+                        50.548299
+                  ]
+            },
+            {
+                  "name": "Husitská bašta",
+                  "text": "Ein historischer Verteidigungsbau, der zum Komplex des Schlosses Bílina gehört.",
+                  "category": "castle",
+                  "coords": [
+                        13.772693,
+                        50.547242
+                  ]
+            },
+            {
+                  "name": "Kulturní Dům Bílina",
+                  "text": "Ein lokales Kulturzentrum und Theater beim Schloss Bílina.",
+                  "category": "cultural",
+                  "coords": [
+                        13.774534,
+                        50.549633
+                  ]
+            },
+            {
+                  "name": "Koupaliště Na Kyselce",
+                  "text": "Eine Freibadanlage in der Nähe des Schlosses Bílina.",
+                  "category": "recreational",
+                  "coords": [
+                        13.760806,
+                        50.540788
+                  ]
+            },
+            {
+                  "name": "PR Dřínek",
+                  "text": "Ein Naturschutzgebiet mit geschützter Flora beim Schloss Bílina.",
+                  "category": "natural",
+                  "coords": [
+                        13.813683,
+                        50.531598
+                  ]
+            },
+            {
+                  "name": "Borschen",
+                  "text": "Ein markanter Phonolith-Hügel bei Bílina, bekannt für seine charakteristische Form.",
+                  "category": "landmark",
+                  "coords": [
+                        13.763863,
+                        50.527797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PR Trupelník",
+                  "text": "Csehországi természetvédelmi terület, amely geológiai különlegességeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.801275,
+                        50.535978
+                  ]
+            },
+            {
+                  "name": "Zámek Bílina",
+                  "text": "Barokk kastély a csehországi Bílina városában.",
+                  "category": "castle",
+                  "coords": [
+                        13.776228,
+                        50.548299
+                  ]
+            },
+            {
+                  "name": "Husitská bašta",
+                  "text": "A bílinai kastélykomplexumhoz tartozó történelmi védmű.",
+                  "category": "castle",
+                  "coords": [
+                        13.772693,
+                        50.547242
+                  ]
+            },
+            {
+                  "name": "Kulturní Dům Bílina",
+                  "text": "Helyi kulturális központ és színház a bílinai kastélynál.",
+                  "category": "cultural",
+                  "coords": [
+                        13.774534,
+                        50.549633
+                  ]
+            },
+            {
+                  "name": "Koupaliště Na Kyselce",
+                  "text": "Szabadtéri strand és fürdőhely a bílinai kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.760806,
+                        50.540788
+                  ]
+            },
+            {
+                  "name": "PR Dřínek",
+                  "text": "Természetvédelmi terület védett növényvilággal a bílinai kastélynál.",
+                  "category": "natural",
+                  "coords": [
+                        13.813683,
+                        50.531598
+                  ]
+            },
+            {
+                  "name": "Bořeň",
+                  "text": "Jellegzetes fonolit hegy Bílina közelében, amely különleges alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.763863,
+                        50.527797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PR Trupelník",
+                  "text": "O rezervație naturală din Boemia, cunoscută pentru caracteristicile sale geologice.",
+                  "category": "natural",
+                  "coords": [
+                        13.801275,
+                        50.535978
+                  ]
+            },
+            {
+                  "name": "Zámek Bílina",
+                  "text": "Un castel baroc situat în orașul ceh Bílina.",
+                  "category": "castle",
+                  "coords": [
+                        13.776228,
+                        50.548299
+                  ]
+            },
+            {
+                  "name": "Husitská bašta",
+                  "text": "O structură defensivă istorică aparținând complexului Castelului Bílina.",
+                  "category": "castle",
+                  "coords": [
+                        13.772693,
+                        50.547242
+                  ]
+            },
+            {
+                  "name": "Kulturní Dům Bílina",
+                  "text": "Un centru cultural local și teatru de lângă Castelul Bílina.",
+                  "category": "cultural",
+                  "coords": [
+                        13.774534,
+                        50.549633
+                  ]
+            },
+            {
+                  "name": "Koupaliště Na Kyselce",
+                  "text": "Un parc acvatic și zonă de înot în apropierea Castelului Bílina.",
+                  "category": "recreational",
+                  "coords": [
+                        13.760806,
+                        50.540788
+                  ]
+            },
+            {
+                  "name": "PR Dřínek",
+                  "text": "O rezervație naturală cu floră protejată lângă Castelul Bílina.",
+                  "category": "natural",
+                  "coords": [
+                        13.813683,
+                        50.531598
+                  ]
+            },
+            {
+                  "name": "Bořeň",
+                  "text": "Un deal de fonolit proeminent lângă Bílina, cunoscut pentru forma sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.763863,
+                        50.527797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PR Trupelník",
+                  "text": "A nature reserve in Bohemia known for its geological features.",
+                  "category": "natural",
+                  "coords": [
+                        13.801275,
+                        50.535978
+                  ]
+            },
+            {
+                  "name": "Zámek Bílina",
+                  "text": "A Baroque chateau located in the Czech town of Bílina.",
+                  "category": "castle",
+                  "coords": [
+                        13.776228,
+                        50.548299
+                  ]
+            },
+            {
+                  "name": "Husitská bašta",
+                  "text": "A historical defensive structure belonging to the Bílina Chateau complex.",
+                  "category": "castle",
+                  "coords": [
+                        13.772693,
+                        50.547242
+                  ]
+            },
+            {
+                  "name": "Kulturní Dům Bílina",
+                  "text": "A local cultural center and theatre located by the Bílina Chateau.",
+                  "category": "cultural",
+                  "coords": [
+                        13.774534,
+                        50.549633
+                  ]
+            },
+            {
+                  "name": "Koupaliště Na Kyselce",
+                  "text": "An outdoor swimming facility and water park near the Bílina Chateau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.760806,
+                        50.540788
+                  ]
+            },
+            {
+                  "name": "PR Dřínek",
+                  "text": "A nature reserve featuring protected flora near the Bílina Chateau.",
+                  "category": "natural",
+                  "coords": [
+                        13.813683,
+                        50.531598
+                  ]
+            },
+            {
+                  "name": "Bořeň",
+                  "text": "A prominent phonolite hill near Bílina, known for its distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.763863,
+                        50.527797
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Schloss Bílina", hu: "Bílina kastély", ro: "Castelul Bílina", en: "Bílina Chateau" },
@@ -3801,7 +7392,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-cesky-sternberk-history-v2.webp",
   },
   {
-    id: "czechrepublic-zbiroh-castle-history-v2",
+    id: "czechrepublic-zbiroh-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Zbiroh",
+                  "text": "Ein markantes Schloss in Böhmen, das auf einer mittelalterlichen Burg basiert.",
+                  "category": "castle",
+                  "coords": [
+                        13.762054,
+                        49.858394
+                  ]
+            },
+            {
+                  "name": "přírodní památka Studánky u Cerhovic",
+                  "text": "Ein geschütztes Naturdenkmal mit Quellen in der Nähe von Cerhovice.",
+                  "category": "natural",
+                  "coords": [
+                        13.808607,
+                        49.846267
+                  ]
+            },
+            {
+                  "name": "Expozice požární ochrany Zbiroh",
+                  "text": "Eine Ausstellung im Schloss Zbiroh, die der Geschichte des Brandschutzes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.752794,
+                        49.85795
+                  ]
+            },
+            {
+                  "name": "Městské muzeum Josefa Václava Sládka",
+                  "text": "Ein Stadtmuseum, das dem Werk und Leben des Dichters Josef Václav Sládek gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.770444,
+                        49.859189
+                  ]
+            },
+            {
+                  "name": "Světovina",
+                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen weiten Blick über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.742327,
+                        49.868261
+                  ]
+            },
+            {
+                  "name": "svatý Mikuláš",
+                  "text": "Eine dem heiligen Nikolaus geweihte Kirche oder Kapelle in Zbiroh.",
+                  "category": "religious",
+                  "coords": [
+                        13.768777,
+                        49.858494
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Ein sakrales Bauwerk zu Ehren des heiligen Johannes von Nepomuk.",
+                  "category": "religious",
+                  "coords": [
+                        13.783901,
+                        49.821329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Zbiroh",
+                  "text": "Jellegzetes csehországi kastély, amely egy középkori vár alapjaira épült.",
+                  "category": "castle",
+                  "coords": [
+                        13.762054,
+                        49.858394
+                  ]
+            },
+            {
+                  "name": "přírodní památka Studánky u Cerhovic",
+                  "text": "Védett természeti emlékhely forrásokkal Cerhovice közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.808607,
+                        49.846267
+                  ]
+            },
+            {
+                  "name": "Expozice požární ochrany Zbiroh",
+                  "text": "A zbirohi kastélyban található kiállítás, amely a tűzvédelem történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.752794,
+                        49.85795
+                  ]
+            },
+            {
+                  "name": "Městské muzeum Josefa Václava Sládka",
+                  "text": "Városi múzeum, amely Josef Václav Sládek költő életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        13.770444,
+                        49.859189
+                  ]
+            },
+            {
+                  "name": "Světovina",
+                  "text": "Kilátópont egy dombtetőn, ahonnan széles körpanoráma nyílik a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.742327,
+                        49.868261
+                  ]
+            },
+            {
+                  "name": "svatý Mikuláš",
+                  "text": "Szent Miklósnak szentelt templom vagy kápolna Zbirohban.",
+                  "category": "religious",
+                  "coords": [
+                        13.768777,
+                        49.858494
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Nepomuki Szent János tiszteletére emelt szakrális építmény.",
+                  "category": "religious",
+                  "coords": [
+                        13.783901,
+                        49.821329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Zbiroh",
+                  "text": "Un castel distinctiv din Boemia, construit pe locul unei fortărețe medievale.",
+                  "category": "castle",
+                  "coords": [
+                        13.762054,
+                        49.858394
+                  ]
+            },
+            {
+                  "name": "přírodní památka Studánky u Cerhovic",
+                  "text": "Un monument natural protejat cu izvoare, situat în apropiere de Cerhovice.",
+                  "category": "natural",
+                  "coords": [
+                        13.808607,
+                        49.846267
+                  ]
+            },
+            {
+                  "name": "Expozice požární ochrany Zbiroh",
+                  "text": "O expoziție în cadrul castelului Zbiroh, dedicată istoriei protecției împotriva incendiilor.",
+                  "category": "museum",
+                  "coords": [
+                        13.752794,
+                        49.85795
+                  ]
+            },
+            {
+                  "name": "Městské muzeum Josefa Václava Sládka",
+                  "text": "Un muzeu municipal dedicat vieții și operei poetului Josef Václav Sládek.",
+                  "category": "museum",
+                  "coords": [
+                        13.770444,
+                        49.859189
+                  ]
+            },
+            {
+                  "name": "Světovina",
+                  "text": "Un punct de belvedere situat pe un deal, oferind o vedere panoramică asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        13.742327,
+                        49.868261
+                  ]
+            },
+            {
+                  "name": "svatý Mikuláš",
+                  "text": "O biserică sau capelă închinată Sfântului Nicolae, situată în Zbiroh.",
+                  "category": "religious",
+                  "coords": [
+                        13.768777,
+                        49.858494
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Un edificiu sacru ridicat în onoarea Sfântului Ioan Nepomuk.",
+                  "category": "religious",
+                  "coords": [
+                        13.783901,
+                        49.821329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Zbiroh",
+                  "text": "A distinctive castle in Bohemia, built on the site of a medieval fortress.",
+                  "category": "castle",
+                  "coords": [
+                        13.762054,
+                        49.858394
+                  ]
+            },
+            {
+                  "name": "přírodní památka Studánky u Cerhovic",
+                  "text": "A protected natural monument featuring springs near Cerhovice.",
+                  "category": "natural",
+                  "coords": [
+                        13.808607,
+                        49.846267
+                  ]
+            },
+            {
+                  "name": "Expozice požární ochrany Zbiroh",
+                  "text": "An exhibition at Zbiroh Castle dedicated to the history of fire protection.",
+                  "category": "museum",
+                  "coords": [
+                        13.752794,
+                        49.85795
+                  ]
+            },
+            {
+                  "name": "Městské muzeum Josefa Václava Sládka",
+                  "text": "A municipal museum dedicated to the life and work of the poet Josef Václav Sládek.",
+                  "category": "museum",
+                  "coords": [
+                        13.770444,
+                        49.859189
+                  ]
+            },
+            {
+                  "name": "Světovina",
+                  "text": "A viewpoint located on a hill, offering broad views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.742327,
+                        49.868261
+                  ]
+            },
+            {
+                  "name": "svatý Mikuláš",
+                  "text": "A church or chapel dedicated to Saint Nicholas, located in Zbiroh.",
+                  "category": "religious",
+                  "coords": [
+                        13.768777,
+                        49.858494
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "A sacred building erected in honor of Saint John of Nepomuk.",
+                  "category": "religious",
+                  "coords": [
+                        13.783901,
+                        49.821329
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Zbiroh", hu: "Zbiroh vár", ro: "Castelul Zbiroh", en: "Zbiroh Castle" },
@@ -3846,7 +7698,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-zbiroh-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-rabi-castle-history-v2",
+    id: "czechrepublic-rabi-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "Ein historisches Schlossgebäude in Žichovice, das sich in unmittelbarer Nähe der Burg Rabí befindet.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "Ein Naturschutzgebiet bei Rabí, das für seine Kalksteinhänge und seltene Pflanzenarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Ein Naturpark in der Nähe von Rabí, der die malerische Hügellandschaft der Region Buděticko schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Die Burg Rabí ist die größte Burgruine in Böhmen und verfügt über ein massives Befestigungssystem.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Ein Museum in der Nähe der Burg Rabí, das traditionelle Handwerkstechniken der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "Ein botanisch wertvolles Naturschutzgebiet bei Rabí, das wichtige Kalkstein-Lebensräume schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Ein markanter Kalksteingipfel bei Rabí, der Teil des gleichnamigen Naturschutzgebietes ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "Történelmi kastélyépület Žichovicében, amely a Rabí-vár közvetlen közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "Természetvédelmi terület Rabí közelében, amely mészkőlejtőiről és ritka növényfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Természetvédelmi park Rabí közelében, amely a Buděticko-régió festői dombvidékét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "A Rabí-vár Csehország legnagyobb várromja, amely hatalmas erődítményrendszerrel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Múzeum a Rabí-vár közelében, amely a régió hagyományos kézműves mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "Botanikai szempontból értékes természetvédelmi terület Rabí közelében, amely fontos mészkő-élőhelyeket véd.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Jellegzetes mészkőcsúcs Rabí közelében, amely az azonos nevű természetvédelmi terület része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "O clădire istorică de castel din Žichovice, situată în imediata apropiere a cetății Rabí.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "O rezervație naturală lângă Rabí, cunoscută pentru versanții de calcar și speciile de plante rare.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "Un parc natural lângă Rabí, care protejează peisajul deluros pitoresc al regiunii Buděticko.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Cetatea Rabí este cea mai mare ruină de castel din Boemia, având un sistem masiv de fortificații.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "Un muzeu lângă cetatea Rabí, care expune meșteșugurile tradiționale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "O rezervație naturală valoroasă din punct de vedere botanic lângă Rabí, ce protejează habitate calcaroase importante.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "Un vârf calcaros proeminent lângă Rabí, care face parte din rezervația naturală cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Žichovice",
+                  "text": "A historic castle building in Žichovice, located in the immediate vicinity of Rabí Castle.",
+                  "category": "castle",
+                  "coords": [
+                        13.625457,
+                        49.266681
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Čepičná",
+                  "text": "A nature reserve near Rabí known for its limestone slopes and rare plant species.",
+                  "category": "natural",
+                  "coords": [
+                        13.587347,
+                        49.272409
+                  ]
+            },
+            {
+                  "name": "Přírodní park Budětice",
+                  "text": "A nature park near Rabí protecting the scenic hilly landscape of the Buděticko region.",
+                  "category": "natural",
+                  "coords": [
+                        13.566945,
+                        49.282663
+                  ]
+            },
+            {
+                  "name": "hrad Rabí",
+                  "text": "Rabí Castle is the largest castle ruin in Bohemia, featuring a massive fortification system.",
+                  "category": "castle",
+                  "coords": [
+                        13.618349,
+                        49.279147
+                  ]
+            },
+            {
+                  "name": "Muzeum remesel",
+                  "text": "A museum near Rabí Castle showcasing the traditional crafts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.619082,
+                        49.280564
+                  ]
+            },
+            {
+                  "name": "PR Pučanka",
+                  "text": "A botanically valuable nature reserve near Rabí, protecting important limestone habitats.",
+                  "category": "natural",
+                  "coords": [
+                        13.669218,
+                        49.283746
+                  ]
+            },
+            {
+                  "name": "Čepičná",
+                  "text": "A prominent limestone peak near Rabí, which is part of the nature reserve of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        13.582326,
+                        49.271667
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CZ",
     name: { de: "Burg Rabí", hu: "Rabí vár", ro: "Castelul Rabí", en: "Rabí Castle" },
@@ -3981,7 +8094,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-ostroh-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-buchlovice-palace-history-v2",
+    id: "czechrepublic-buchlovice-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "PP Kazatelna",
+                  "text": "Ein Naturdenkmal in der Nähe von Buchlovice, das für seine markanten Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.226662,
+                        49.095877
+                  ]
+            },
+            {
+                  "name": "PP Kozel",
+                  "text": "Ein Naturschutzgebiet bei Buchlovice mit einer charakteristischen isolierten Felsformation.",
+                  "category": "natural",
+                  "coords": [
+                        17.216677,
+                        49.09754
+                  ]
+            },
+            {
+                  "name": "PR Moravanské lúky",
+                  "text": "Ein Naturschutzgebiet bei Buchlovice, das für seine wertvollen Wiesenökosysteme bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.193714,
+                        49.087297
+                  ]
+            },
+            {
+                  "name": "Bradlo",
+                  "text": "Ein markanter Berggipfel in der hügeligen Landschaft bei Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.195595,
+                        49.078439
+                  ]
+            },
+            {
+                  "name": "Hora sv. Klimenta",
+                  "text": "Ein historisch bedeutender Hügel mit archäologischen Überresten bei Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.217553,
+                        49.085842
+                  ]
+            },
+            {
+                  "name": "Špidlák",
+                  "text": "Ein Gipfel in der Region Buchlovice, der Teil der lokalen Hügellandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.202816,
+                        49.087322
+                  ]
+            },
+            {
+                  "name": "Velká Ostrá",
+                  "text": "Eine Erhebung in der Nähe von Buchlovice, die Wanderern Ausblicke auf die Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.165848,
+                        49.081561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PP Kazatelna",
+                  "text": "Buchlovice közelében található természetvédelmi terület, amely jellegzetes szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.226662,
+                        49.095877
+                  ]
+            },
+            {
+                  "name": "PP Kozel",
+                  "text": "Buchlovice melletti természetvédelmi terület egy jellegzetes, magányos sziklával.",
+                  "category": "natural",
+                  "coords": [
+                        17.216677,
+                        49.09754
+                  ]
+            },
+            {
+                  "name": "PR Moravanské lúky",
+                  "text": "Buchlovice közeli természetvédelmi terület, amely értékes réti ökoszisztémájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.193714,
+                        49.087297
+                  ]
+            },
+            {
+                  "name": "Bradlo",
+                  "text": "Jellegzetes hegycsúcs a Buchlovice környéki dombos vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        17.195595,
+                        49.078439
+                  ]
+            },
+            {
+                  "name": "Hora sv. Klimenta",
+                  "text": "Történelmileg jelentős domb régészeti maradványokkal Buchlovice közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.217553,
+                        49.085842
+                  ]
+            },
+            {
+                  "name": "Špidlák",
+                  "text": "Egy hegycsúcs a Buchlovice-i régióban, a helyi dombvidék része.",
+                  "category": "landmark",
+                  "coords": [
+                        17.202816,
+                        49.087322
+                  ]
+            },
+            {
+                  "name": "Velká Ostrá",
+                  "text": "Buchlovice közelében található magaslat, amely kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        17.165848,
+                        49.081561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PP Kazatelna",
+                  "text": "Un monument al naturii lângă Buchlovice, cunoscut pentru formațiunile sale stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        17.226662,
+                        49.095877
+                  ]
+            },
+            {
+                  "name": "PP Kozel",
+                  "text": "O rezervație naturală lângă Buchlovice, având o formațiune stâncoasă izolată.",
+                  "category": "natural",
+                  "coords": [
+                        17.216677,
+                        49.09754
+                  ]
+            },
+            {
+                  "name": "PR Moravanské lúky",
+                  "text": "O rezervație naturală lângă Buchlovice, cunoscută pentru ecosistemele sale de pajiște.",
+                  "category": "natural",
+                  "coords": [
+                        17.193714,
+                        49.087297
+                  ]
+            },
+            {
+                  "name": "Bradlo",
+                  "text": "Un vârf muntos proeminent în peisajul deluros de lângă Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.195595,
+                        49.078439
+                  ]
+            },
+            {
+                  "name": "Hora sv. Klimenta",
+                  "text": "Un deal cu importanță istorică și vestigii arheologice lângă Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.217553,
+                        49.085842
+                  ]
+            },
+            {
+                  "name": "Špidlák",
+                  "text": "Un vârf din regiunea Buchlovice, parte a peisajului deluros local.",
+                  "category": "landmark",
+                  "coords": [
+                        17.202816,
+                        49.087322
+                  ]
+            },
+            {
+                  "name": "Velká Ostrá",
+                  "text": "O colină lângă Buchlovice, care oferă vizitatorilor panorame asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        17.165848,
+                        49.081561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PP Kazatelna",
+                  "text": "A natural monument near Buchlovice known for its distinctive rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        17.226662,
+                        49.095877
+                  ]
+            },
+            {
+                  "name": "PP Kozel",
+                  "text": "A nature reserve near Buchlovice featuring a characteristic isolated rock formation.",
+                  "category": "natural",
+                  "coords": [
+                        17.216677,
+                        49.09754
+                  ]
+            },
+            {
+                  "name": "PR Moravanské lúky",
+                  "text": "A nature reserve near Buchlovice known for its valuable meadow ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        17.193714,
+                        49.087297
+                  ]
+            },
+            {
+                  "name": "Bradlo",
+                  "text": "A prominent mountain peak in the hilly landscape near Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.195595,
+                        49.078439
+                  ]
+            },
+            {
+                  "name": "Hora sv. Klimenta",
+                  "text": "A historically significant hill with archaeological remains near Buchlovice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.217553,
+                        49.085842
+                  ]
+            },
+            {
+                  "name": "Špidlák",
+                  "text": "A peak in the Buchlovice region, part of the local hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        17.202816,
+                        49.087322
+                  ]
+            },
+            {
+                  "name": "Velká Ostrá",
+                  "text": "An elevation near Buchlovice offering views of the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        17.165848,
+                        49.081561
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Buchlovice", hu: "Buchlovice kastély", ro: "Castelul Buchlovice", en: "Buchlovice Chateau" },
@@ -4116,7 +8490,160 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-drinov-fortress-history-v2.webp",
   },
   {
-    id: "czechrepublic-kolinec-castle-history-v2",
+    id: "czechrepublic-kolinec-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zámek Ujčín",
+                  "text": "Ein historisches Herrenhaus im Dorf Ujčín bei Kolinec.",
+                  "category": "historical",
+                  "coords": [
+                        13.419587,
+                        49.284419
+                  ]
+            },
+            {
+                  "name": "Zámek Mlázovy",
+                  "text": "Ein Barockschloss in Mlázovy, das heute als Unterkunft dient.",
+                  "category": "historical",
+                  "coords": [
+                        13.405601,
+                        49.313999
+                  ]
+            },
+            {
+                  "name": "Jindřichovice (nový zámek)",
+                  "text": "Das sogenannte Neue Schloss in Jindřichovice, ein klassizistisches Herrenhaus.",
+                  "category": "historical",
+                  "coords": [
+                        13.393771,
+                        49.297201
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Václava",
+                  "text": "Eine kleine Kapelle in Jindřichovice, die dem heiligen Wenzel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.395145,
+                        49.297232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zámek Ujčín",
+                  "text": "Történelmi kúria az Ujčín faluban, Kolinec közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.419587,
+                        49.284419
+                  ]
+            },
+            {
+                  "name": "Zámek Mlázovy",
+                  "text": "Barokk kastély Mlázovyban, amely ma szálláshelyként működik.",
+                  "category": "historical",
+                  "coords": [
+                        13.405601,
+                        49.313999
+                  ]
+            },
+            {
+                  "name": "Jindřichovice (nový zámek)",
+                  "text": "Az úgynevezett Új kastély Jindřichovicében, egy klasszicista kúria.",
+                  "category": "historical",
+                  "coords": [
+                        13.393771,
+                        49.297201
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Václava",
+                  "text": "Szent Vencelnek szentelt kis kápolna Jindřichovicében.",
+                  "category": "religious",
+                  "coords": [
+                        13.395145,
+                        49.297232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zámek Ujčín",
+                  "text": "Un conac istoric situat în satul Ujčín, lângă Kolinec.",
+                  "category": "historical",
+                  "coords": [
+                        13.419587,
+                        49.284419
+                  ]
+            },
+            {
+                  "name": "Zámek Mlázovy",
+                  "text": "Un castel baroc în Mlázovy, care astăzi funcționează ca unitate de cazare.",
+                  "category": "historical",
+                  "coords": [
+                        13.405601,
+                        49.313999
+                  ]
+            },
+            {
+                  "name": "Jindřichovice (nový zámek)",
+                  "text": "Așa-numitul Castel Nou din Jindřichovice, un conac în stil clasicist.",
+                  "category": "historical",
+                  "coords": [
+                        13.393771,
+                        49.297201
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Václava",
+                  "text": "O mică capelă în Jindřichovice, dedicată Sfântului Vaclav.",
+                  "category": "religious",
+                  "coords": [
+                        13.395145,
+                        49.297232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zámek Ujčín",
+                  "text": "A historic manor house located in the village of Ujčín near Kolinec.",
+                  "category": "historical",
+                  "coords": [
+                        13.419587,
+                        49.284419
+                  ]
+            },
+            {
+                  "name": "Zámek Mlázovy",
+                  "text": "A Baroque manor in Mlázovy that currently serves as accommodation.",
+                  "category": "historical",
+                  "coords": [
+                        13.405601,
+                        49.313999
+                  ]
+            },
+            {
+                  "name": "Jindřichovice (nový zámek)",
+                  "text": "The so-called New Castle in Jindřichovice, a Neoclassical manor house.",
+                  "category": "historical",
+                  "coords": [
+                        13.393771,
+                        49.297201
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Václava",
+                  "text": "A small chapel in Jindřichovice dedicated to Saint Wenceslaus.",
+                  "category": "religious",
+                  "coords": [
+                        13.395145,
+                        49.297232
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Kolinec", hu: "Kolinec vár", ro: "Castelul Kolinec", en: "Kolinec Castle" },
@@ -4206,7 +8733,304 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-tabor-fortifications-history-v2.webp",
   },
   {
-    id: "czechrepublic-bechyne-castle-history-v2",
+    id: "czechrepublic-bechyne-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum turistiky",
+                  "text": "Ein Museum in Bechyně, das der Geschichte des Tourismus und der Wanderbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.469281,
+                        49.296562
+                  ]
+            },
+            {
+                  "name": "Schloss Bechin",
+                  "text": "Ein Renaissanceschloss auf einem Felsvorsprung über dem Fluss Lainsitz.",
+                  "category": "castle",
+                  "coords": [
+                        14.468002,
+                        49.291449
+                  ]
+            },
+            {
+                  "name": "PP Židova strouha",
+                  "text": "Ein Naturdenkmal bestehend aus einer romantischen Felsschlucht am Bach Židova strouha.",
+                  "category": "natural",
+                  "coords": [
+                        14.466906,
+                        49.273263
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Das Stadtmuseum von Bechyně zeigt Ausstellungen zur lokalen Geschichte und Keramiktradition.",
+                  "category": "museum",
+                  "coords": [
+                        14.467732,
+                        49.294455
+                  ]
+            },
+            {
+                  "name": "Hradiště Hradec u Nuzic",
+                  "text": "Eine prähistorische Wallanlage auf einem Hügel in der Nähe von Bechyně.",
+                  "category": "historical",
+                  "coords": [
+                        14.461811,
+                        49.277913
+                  ]
+            },
+            {
+                  "name": "Přírodní památka Židova strouha",
+                  "text": "Ein geschütztes Naturgebiet, bekannt für sein malerisches Tal mit Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        14.460298,
+                        49.278375
+                  ]
+            },
+            {
+                  "name": "Mezinárodní muzeum keramiky",
+                  "text": "Ein Museum in der ehemaligen Schlossreitschule, das moderne internationale Keramikkunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.468946,
+                        49.298311
+                  ]
+            },
+            {
+                  "name": "Hasičské muzeum Bechyně",
+                  "text": "Ein Museum, das die Geschichte des Feuerwehrwesens mit historischen Geräten und Fahrzeugen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.47537,
+                        49.302184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum turistiky",
+                  "text": "Bechyněi múzeum, amely a turizmus és a természetjárás történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        14.469281,
+                        49.296562
+                  ]
+            },
+            {
+                  "name": "Zámek Bechyně",
+                  "text": "Reneszánsz kastély egy sziklaszirten a Lužnice-folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        14.468002,
+                        49.291449
+                  ]
+            },
+            {
+                  "name": "PP Židova strouha",
+                  "text": "Természeti emlékhely, amely egy romantikus szurdokvölgy a Židova strouha-patak mentén.",
+                  "category": "natural",
+                  "coords": [
+                        14.466906,
+                        49.273263
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Bechyně városi múzeuma a helyi történelmet és a kerámiahagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.467732,
+                        49.294455
+                  ]
+            },
+            {
+                  "name": "Hradiště Hradec u Nuzic",
+                  "text": "Egy őskori földvár maradványai egy dombon Bechyně közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.461811,
+                        49.277913
+                  ]
+            },
+            {
+                  "name": "Přírodní památka Židova strouha",
+                  "text": "Védett természeti terület, amely sziklás alakzatokkal tarkított festői völgyéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.460298,
+                        49.278375
+                  ]
+            },
+            {
+                  "name": "Mezinárodní muzeum keramiky",
+                  "text": "Az egykori kastélylovardában működő múzeum modern nemzetközi kerámiaművészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.468946,
+                        49.298311
+                  ]
+            },
+            {
+                  "name": "Hasičské muzeum Bechyně",
+                  "text": "A tűzoltóság történetét dokumentáló múzeum történelmi eszközökkel és járművekkel.",
+                  "category": "museum",
+                  "coords": [
+                        14.47537,
+                        49.302184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum turistiky",
+                  "text": "Un muzeu din Bechyně dedicat istoriei turismului și mișcării de drumeție.",
+                  "category": "museum",
+                  "coords": [
+                        14.469281,
+                        49.296562
+                  ]
+            },
+            {
+                  "name": "Zámek Bechyně",
+                  "text": "Un castel renascentist situat pe un promontoriu stâncos deasupra râului Lužnice.",
+                  "category": "castle",
+                  "coords": [
+                        14.468002,
+                        49.291449
+                  ]
+            },
+            {
+                  "name": "PP Židova strouha",
+                  "text": "Un monument natural format dintr-un canion stâncos romantic de-a lungul pârâului Židova strouha.",
+                  "category": "natural",
+                  "coords": [
+                        14.466906,
+                        49.273263
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Muzeul orășenesc din Bechyně prezintă expoziții despre istoria locală și tradiția ceramicii.",
+                  "category": "museum",
+                  "coords": [
+                        14.467732,
+                        49.294455
+                  ]
+            },
+            {
+                  "name": "Hradiště Hradec u Nuzic",
+                  "text": "Rămășițele unei fortificații preistorice pe un deal din apropiere de Bechyně.",
+                  "category": "historical",
+                  "coords": [
+                        14.461811,
+                        49.277913
+                  ]
+            },
+            {
+                  "name": "Přírodní památka Židova strouha",
+                  "text": "O arie naturală protejată, cunoscută pentru valea sa pitorească cu formațiuni stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.460298,
+                        49.278375
+                  ]
+            },
+            {
+                  "name": "Mezinárodní muzeum keramiky",
+                  "text": "Un muzeu situat în fostul manej al castelului, care expune artă ceramică internațională modernă.",
+                  "category": "museum",
+                  "coords": [
+                        14.468946,
+                        49.298311
+                  ]
+            },
+            {
+                  "name": "Hasičské muzeum Bechyně",
+                  "text": "Un muzeu care documentează istoria pompierilor cu echipamente și vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        14.47537,
+                        49.302184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum turistiky",
+                  "text": "A museum in Bechyně dedicated to the history of tourism and the hiking movement.",
+                  "category": "museum",
+                  "coords": [
+                        14.469281,
+                        49.296562
+                  ]
+            },
+            {
+                  "name": "Zámek Bechyně",
+                  "text": "A Renaissance castle situated on a rocky promontory above the Lužnice River.",
+                  "category": "castle",
+                  "coords": [
+                        14.468002,
+                        49.291449
+                  ]
+            },
+            {
+                  "name": "PP Židova strouha",
+                  "text": "A natural monument consisting of a romantic rocky canyon along the Židova strouha stream.",
+                  "category": "natural",
+                  "coords": [
+                        14.466906,
+                        49.273263
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "The city museum of Bechyně features exhibits on local history and the ceramic tradition.",
+                  "category": "museum",
+                  "coords": [
+                        14.467732,
+                        49.294455
+                  ]
+            },
+            {
+                  "name": "Hradiště Hradec u Nuzic",
+                  "text": "The remains of a prehistoric hillfort located on a hill near Bechyně.",
+                  "category": "historical",
+                  "coords": [
+                        14.461811,
+                        49.277913
+                  ]
+            },
+            {
+                  "name": "Přírodní památka Židova strouha",
+                  "text": "A protected natural area known for its picturesque valley with rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        14.460298,
+                        49.278375
+                  ]
+            },
+            {
+                  "name": "Mezinárodní muzeum keramiky",
+                  "text": "A museum located in the former castle riding school, exhibiting modern international ceramic art.",
+                  "category": "museum",
+                  "coords": [
+                        14.468946,
+                        49.298311
+                  ]
+            },
+            {
+                  "name": "Hasičské muzeum Bechyně",
+                  "text": "A museum documenting the history of firefighting with historical equipment and vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        14.47537,
+                        49.302184
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Schloss Bechyně", hu: "Bechyně kastély", ro: "Castelul Bechyně", en: "Bechyně Chateau" },
@@ -4251,7 +9075,232 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-bechyne-castle-history-v2.webp",
   },
   {
-    id: "czechrepublic-svihov-fortress-history-v2",
+    id: "czechrepublic-svihov-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Švihov",
+                  "text": "Eine bedeutende gotische Wasserburg aus dem 15. Jahrhundert, bekannt für ihre Architektur und Befestigungen.",
+                  "category": "castle",
+                  "coords": [
+                        13.285304,
+                        49.478725
+                  ]
+            },
+            {
+                  "name": "Kokšín",
+                  "text": "Die Überreste einer mittelalterlichen Befestigungsanlage auf dem gleichnamigen Hügel nahe Švihov.",
+                  "category": "castle",
+                  "coords": [
+                        13.278178,
+                        49.466549
+                  ]
+            },
+            {
+                  "name": "Stará Úhlava",
+                  "text": "Ein Naturschutzgebiet, das den alten Flusslauf der Úhlava mit seinen Auenlandschaften schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.276143,
+                        49.466767
+                  ]
+            },
+            {
+                  "name": "Bělč",
+                  "text": "Ein geschütztes Waldgebiet auf dem Hügel Bělč, das für seine wertvollen Buchenbestände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.247456,
+                        49.476776
+                  ]
+            },
+            {
+                  "name": "Zámek Červené Poříčí",
+                  "text": "Ein Renaissance-Schloss, das für seine einzigartige Dekoration und seine architektonische Bedeutung bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        13.295339,
+                        49.501141
+                  ]
+            },
+            {
+                  "name": "Stramchyně",
+                  "text": "Ein markanter Hügel in der Nähe von Švihov, der einen Ausblick auf die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.286668,
+                        49.508824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodní hrad Švihov",
+                  "text": "Jelentős 15. századi gótikus vízi vár, amely lenyűgöző építészetéről és erődrendszeréről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        13.285304,
+                        49.478725
+                  ]
+            },
+            {
+                  "name": "Kokšín",
+                  "text": "Egy középkori erődítmény maradványai a Švihov közelében található azonos nevű dombon.",
+                  "category": "castle",
+                  "coords": [
+                        13.278178,
+                        49.466549
+                  ]
+            },
+            {
+                  "name": "Stará Úhlava",
+                  "text": "Természetvédelmi terület, amely az Úhlava-folyó régi medrét és annak ártéri élővilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        13.276143,
+                        49.466767
+                  ]
+            },
+            {
+                  "name": "Bělč",
+                  "text": "A Bělč-dombon található védett erdőterület, amely értékes bükkösöiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        13.247456,
+                        49.476776
+                  ]
+            },
+            {
+                  "name": "Zámek Červené Poříčí",
+                  "text": "Reneszánsz kastély, amely egyedülálló díszítéséről és építészeti jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        13.295339,
+                        49.501141
+                  ]
+            },
+            {
+                  "name": "Stramchyně",
+                  "text": "Švihov közelében található domb, ahonran kilátás nyílik a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.286668,
+                        49.508824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodní hrad Švihov",
+                  "text": "O importantă cetate gotică de apă din secolul al XV-lea, cunoscută pentru arhitectura și fortificațiile sale.",
+                  "category": "castle",
+                  "coords": [
+                        13.285304,
+                        49.478725
+                  ]
+            },
+            {
+                  "name": "Kokšín",
+                  "text": "Rămășițele unei fortificații medievale situate pe dealul cu același nume de lângă Švihov.",
+                  "category": "castle",
+                  "coords": [
+                        13.278178,
+                        49.466549
+                  ]
+            },
+            {
+                  "name": "Stará Úhlava",
+                  "text": "O rezervație naturală care protejează vechea albie a râului Úhlava și peisajele sale de luncă.",
+                  "category": "natural",
+                  "coords": [
+                        13.276143,
+                        49.466767
+                  ]
+            },
+            {
+                  "name": "Bělč",
+                  "text": "O zonă forestieră protejată pe dealul Bělč, cunoscută pentru populațiile sale valoroase de fagi.",
+                  "category": "natural",
+                  "coords": [
+                        13.247456,
+                        49.476776
+                  ]
+            },
+            {
+                  "name": "Zámek Červené Poříčí",
+                  "text": "Un castel renascentist cunoscut pentru decorațiunile sale unice și importanța arhitecturală.",
+                  "category": "castle",
+                  "coords": [
+                        13.295339,
+                        49.501141
+                  ]
+            },
+            {
+                  "name": "Stramchyně",
+                  "text": "Un deal proeminent lângă Švihov, oferind o vedere asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        13.286668,
+                        49.508824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Švihov Castle",
+                  "text": "A significant 15th-century Gothic water castle known for its impressive architecture and fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        13.285304,
+                        49.478725
+                  ]
+            },
+            {
+                  "name": "Kokšín",
+                  "text": "The remains of a medieval fortification located on the hill of the same name near Švihov.",
+                  "category": "castle",
+                  "coords": [
+                        13.278178,
+                        49.466549
+                  ]
+            },
+            {
+                  "name": "Stará Úhlava",
+                  "text": "A nature reserve protecting the old riverbed of the Úhlava and its riparian habitats.",
+                  "category": "natural",
+                  "coords": [
+                        13.276143,
+                        49.466767
+                  ]
+            },
+            {
+                  "name": "Bělč",
+                  "text": "A protected forest area on Bělč hill, known for its valuable beech tree populations.",
+                  "category": "natural",
+                  "coords": [
+                        13.247456,
+                        49.476776
+                  ]
+            },
+            {
+                  "name": "Červené Poříčí Castle",
+                  "text": "A Renaissance castle known for its unique decoration and architectural significance.",
+                  "category": "castle",
+                  "coords": [
+                        13.295339,
+                        49.501141
+                  ]
+            },
+            {
+                  "name": "Stramchyně",
+                  "text": "A prominent hill near Švihov, offering a view over the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.286668,
+                        49.508824
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CZ",
     name: { de: "Feste Švihov", hu: "Švihov erőd", ro: "Fortăreața Švihov", en: "Švihov Fortress" },
@@ -4296,7 +9345,232 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-svihov-fortress-history-v2.webp",
   },
   {
-    id: "czechrepublic-trebon-fortifications-history-v2",
+    id: "czechrepublic-trebon-fortifications-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Ein prächtiges Renaissanceschloss in Třeboň, das zu den größten in der Tschechischen Republik gehört.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Soví les",
+                  "text": "Ein Naturdenkmal bei Třeboň, das wertvolle Moorwald-Ökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        14.81654,
+                        48.98395
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "Ein geschützter Eichenhain bei Třeboň mit sehr alten, monumentalen Bäumen.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "Ein bedeutendes ehemaliges Augustinerkloster in Třeboň mit einer wertvollen gotischen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Ein Museum in Třeboň, das kunstvolle Figuren und Szenen aus Marzipan zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Charakteristische historische Heustadel in den Wiesen rund um die Stadt Třeboň.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Impozáns reneszánsz kastély Třeboňban, Csehország egyik legnagyobb ilyen építménye.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Soví les",
+                  "text": "Természeti emlékhely Třeboň közelében, amely értékes láperdei ökoszisztémát véd.",
+                  "category": "natural",
+                  "coords": [
+                        14.81654,
+                        48.98395
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "Védett tölgyes Třeboň közelében, ahol igen idős, monumentális fák találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "Jelentős egykori Ágoston-rendi kolostor Třeboňban, értékes gótikus templommal.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Třeboňi múzeum, amely marcipánból készült művészi figurákat és jeleneteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Jellegzetes történelmi szénapadlások a Třeboň várost körülvevő réteken.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "Un castel renascentist impunător din Třeboň, unul dintre cele mai mari din Republica Cehă.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Soví les",
+                  "text": "Un monument al naturii de lângă Třeboň, care protejează un ecosistem valoros de pădure mlăștinoasă.",
+                  "category": "natural",
+                  "coords": [
+                        14.81654,
+                        48.98395
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "O dumbravă de stejari protejată lângă Třeboň, cu arbori seculari monumentali.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "O importantă fostă mănăstire augustiniană din Třeboň, cu o biserică gotică remarcabilă.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "Un muzeu din Třeboň care expune figurine și scene artistice realizate din marțipan.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Șoproane istorice pentru fân, caracteristice pentru câmpiile din jurul orașului Třeboň.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Třeboň",
+                  "text": "A magnificent Renaissance castle in Třeboň, one of the largest in the Czech Republic.",
+                  "category": "castle",
+                  "coords": [
+                        14.76944,
+                        49.003282
+                  ]
+            },
+            {
+                  "name": "přírodní památka Soví les",
+                  "text": "A natural monument near Třeboň protecting valuable swamp forest ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        14.81654,
+                        48.98395
+                  ]
+            },
+            {
+                  "name": "přírodní památka Branské doubí",
+                  "text": "A protected oak grove near Třeboň featuring very old, monumental trees.",
+                  "category": "natural",
+                  "coords": [
+                        14.782467,
+                        48.97607
+                  ]
+            },
+            {
+                  "name": "klášter Augustiniánů",
+                  "text": "A significant former Augustinian monastery in Třeboň featuring a notable Gothic church.",
+                  "category": "religious",
+                  "coords": [
+                        14.768986,
+                        49.005364
+                  ]
+            },
+            {
+                  "name": "Třeboň v marcipánu",
+                  "text": "A museum in Třeboň displaying artistic figures and scenes made entirely from marzipan.",
+                  "category": "museum",
+                  "coords": [
+                        14.771206,
+                        49.003779
+                  ]
+            },
+            {
+                  "name": "Třeboňské seníky",
+                  "text": "Characteristic historic hay barns located in the meadows surrounding Třeboň.",
+                  "category": "landmark",
+                  "coords": [
+                        14.7681,
+                        49.016188
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Třeboň", hu: "Třeboň városfalai", ro: "Fortificațiile orașului Třeboň", en: "Třeboň City Fortifications" },
@@ -4341,7 +9615,304 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-trebon-fortifications-history-v2.webp",
   },
   {
-    id: "czechrepublic-vranov-castle-history-v2",
+    id: "czechrepublic-vranov-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Ein prächtiges Barockschloss auf einem Felsen über der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Lusthaus",
+                  "text": "Ein historisches Lustschloss im Nationalpark Podyjí nahe Vranov.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "Ein Museum, das die Geschichte der tschechoslowakischen Grenzbefestigungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Ein spezialisiertes Museum in Vranov, das der Kunst der Perlmuttverarbeitung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "Ein historisches Denkmal in der Nähe des Schlosses Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Eine historische Brücke und Sehenswürdigkeit im Gebiet von Vranov.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Landschaft um Vranov nad Dyjí.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein markantes Denkmal in der Nähe von Schloss Vranov.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Pompás barokk kastély egy sziklán a Thaya folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "Történelmi mulatókastély a Podyjí Nemzeti Parkban, Vranov közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "A csehszlovák határvédelmi erődrendszer történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Speciális múzeum Vranovban, amely a gyöngyházmegmunkálás művészetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "Történelmi emlékmű a Vranov nad Dyjí-i kastély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Történelmi híd és látnivaló Vranov környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Kilátópont, ahonnan tágas kilátás nyílik Vranov nad Dyjí környékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Egy jellegzetes emlékmű a vranovi vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Un castel baroc magnific situat pe o stâncă deasupra râului Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "Un pavilion istoric de vânătoare în Parcul Național Podyjí, lângă Vranov.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "Un muzeu dedicat istoriei fortificațiilor de frontieră cehoslovace.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Un muzeu specializat în Vranov dedicat artei prelucrării sidefului.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "Un monument istoric situat în apropierea castelului Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Un pod istoric și atracție turistică în zona Vranov.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Un punct de belvedere cu o vedere largă asupra peisajului din jurul Vranov nad Dyjí.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument remarcabil situat în apropierea Castelului Vranov.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "A magnificent Baroque castle perched on a rock overlooking the Thaya river.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "A historic summer palace located in the Podyjí National Park near Vranov.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "A museum showcasing the history of the Czechoslovak border fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "A specialized museum in Vranov dedicated to the art of mother-of-pearl design.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "A historic monument located near the Vranov nad Dyjí castle.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "A historic stone bridge and attraction in the Vranov area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "A scenic viewpoint offering broad views of the landscape around Vranov nad Dyjí.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A prominent monument located near Vranov Castle.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Vranov", hu: "Vranov vár", ro: "Castelul Vranov", en: "Vranov Castle" },
@@ -4431,7 +10002,304 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-cheb-fortifications-history-v2.webp",
   },
   {
-    id: "czechrepublic-zbraslav-monastery-history-v2",
+    id: "czechrepublic-zbraslav-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "přírodní rezervace Slavičí údolí",
+                  "text": "Ein Naturschutzgebiet in einem engen Tal, das für seine reiche Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.357613,
+                        49.99614
+                  ]
+            },
+            {
+                  "name": "přírodní památka U Závisti",
+                  "text": "Ein geschütztes Naturdenkmal in der Nähe einer antiken keltischen befestigten Siedlung.",
+                  "category": "natural",
+                  "coords": [
+                        14.400438,
+                        49.973192
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Zvolská homole",
+                  "text": "Ein Felsgipfel über der Moldau, der seltene Steppenvegetation beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        14.398195,
+                        49.939345
+                  ]
+            },
+            {
+                  "name": "přírodní památka Krňák",
+                  "text": "Ein Naturschutzgebiet in einem Altwasserarm der Berounka mit bedeutender Auenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.388524,
+                        49.975759
+                  ]
+            },
+            {
+                  "name": "přírodní památka Nad Závodištěm",
+                  "text": "Ein Naturschutzgebiet an den Hängen über dem Prager Stadtteil Velká Chuchle.",
+                  "category": "natural",
+                  "coords": [
+                        14.383093,
+                        50.004804
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Šance",
+                  "text": "Ein Naturschutzgebiet an steilen Hängen mit Resten einer prähistorischen befestigten Siedlung.",
+                  "category": "natural",
+                  "coords": [
+                        14.413737,
+                        49.972116
+                  ]
+            },
+            {
+                  "name": "přírodní památka Břežanské údolí",
+                  "text": "Ein geschütztes Tal mit bewaldeten Hängen und einer vielfältigen Insektenpopulation.",
+                  "category": "natural",
+                  "coords": [
+                        14.411277,
+                        49.958536
+                  ]
+            },
+            {
+                  "name": "zámek Komořany",
+                  "text": "Ein Barockschloss in Prag, das heute als Sitz verschiedener öffentlicher Institutionen dient.",
+                  "category": "castle",
+                  "coords": [
+                        14.404406,
+                        49.988221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "přírodní rezervace Slavičí údolí",
+                  "text": "Természetvédelmi terület egy szűk völgyben, amely gazdag növény- és állatvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.357613,
+                        49.99614
+                  ]
+            },
+            {
+                  "name": "přírodní památka U Závisti",
+                  "text": "Védett természeti emlék egy ősi kelta erődített település közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.400438,
+                        49.973192
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Zvolská homole",
+                  "text": "Egy sziklás csúcs a Moldva felett, amely ritka sztyeppei növényzetnek ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        14.398195,
+                        49.939345
+                  ]
+            },
+            {
+                  "name": "přírodní památka Krňák",
+                  "text": "Természetvédelmi terület a Berounka holtágában, jelentős ártéri tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        14.388524,
+                        49.975759
+                  ]
+            },
+            {
+                  "name": "přírodní památka Nad Závodištěm",
+                  "text": "Természetvédelmi terület a prágai Velká Chuchle negyed feletti lejtőkön.",
+                  "category": "natural",
+                  "coords": [
+                        14.383093,
+                        50.004804
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Šance",
+                  "text": "Meredek lejtőkön fekvő természetvédelmi terület egy őskori erődített település maradványaival.",
+                  "category": "natural",
+                  "coords": [
+                        14.413737,
+                        49.972116
+                  ]
+            },
+            {
+                  "name": "přírodní památka Břežanské údolí",
+                  "text": "Védett völgy erdős lejtőkkel és változatos rovarvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        14.411277,
+                        49.958536
+                  ]
+            },
+            {
+                  "name": "zámek Komořany",
+                  "text": "Prágai barokk kastély, amely ma különféle közintézmények székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        14.404406,
+                        49.988221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "přírodní rezervace Slavičí údolí",
+                  "text": "O rezervație naturală într-o vale îngustă, cunoscută pentru flora și fauna sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        14.357613,
+                        49.99614
+                  ]
+            },
+            {
+                  "name": "přírodní památka U Závisti",
+                  "text": "Un monument natural protejat situat în apropierea unei vechi așezări celtice fortificate.",
+                  "category": "natural",
+                  "coords": [
+                        14.400438,
+                        49.973192
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Zvolská homole",
+                  "text": "Un vârf stâncos deasupra Vltavei, care adăpostește vegetație rară de stepă.",
+                  "category": "natural",
+                  "coords": [
+                        14.398195,
+                        49.939345
+                  ]
+            },
+            {
+                  "name": "přírodní památka Krňák",
+                  "text": "O rezervație naturală într-un braț mort al râului Berounka, cu un peisaj luncii semnificativ.",
+                  "category": "natural",
+                  "coords": [
+                        14.388524,
+                        49.975759
+                  ]
+            },
+            {
+                  "name": "přírodní památka Nad Závodištěm",
+                  "text": "O rezervație naturală pe versanții de deasupra cartierului Velká Chuchle din Praga.",
+                  "category": "natural",
+                  "coords": [
+                        14.383093,
+                        50.004804
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Šance",
+                  "text": "O rezervație naturală pe versanți abrupți, cu resturi ale unei așezări fortificate preistorice.",
+                  "category": "natural",
+                  "coords": [
+                        14.413737,
+                        49.972116
+                  ]
+            },
+            {
+                  "name": "přírodní památka Břežanské údolí",
+                  "text": "O vale protejată cu versanți împăduriți și o populație diversă de insecte.",
+                  "category": "natural",
+                  "coords": [
+                        14.411277,
+                        49.958536
+                  ]
+            },
+            {
+                  "name": "zámek Komořany",
+                  "text": "Un castel baroc din Praga, care servește astăzi drept sediu pentru diverse instituții publice.",
+                  "category": "castle",
+                  "coords": [
+                        14.404406,
+                        49.988221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "přírodní rezervace Slavičí údolí",
+                  "text": "A nature reserve in a narrow valley known for its rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        14.357613,
+                        49.99614
+                  ]
+            },
+            {
+                  "name": "přírodní památka U Závisti",
+                  "text": "A protected natural monument located near an ancient Celtic fortified settlement.",
+                  "category": "natural",
+                  "coords": [
+                        14.400438,
+                        49.973192
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Zvolská homole",
+                  "text": "A rocky peak above the Vltava river hosting rare steppe vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        14.398195,
+                        49.939345
+                  ]
+            },
+            {
+                  "name": "přírodní památka Krňák",
+                  "text": "A nature reserve in an oxbow of the Berounka river with significant floodplain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.388524,
+                        49.975759
+                  ]
+            },
+            {
+                  "name": "přírodní památka Nad Závodištěm",
+                  "text": "A nature reserve on the slopes above the Velká Chuchle district of Prague.",
+                  "category": "natural",
+                  "coords": [
+                        14.383093,
+                        50.004804
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Šance",
+                  "text": "A nature reserve on steep slopes with remains of a prehistoric fortified settlement.",
+                  "category": "natural",
+                  "coords": [
+                        14.413737,
+                        49.972116
+                  ]
+            },
+            {
+                  "name": "přírodní památka Břežanské údolí",
+                  "text": "A protected valley with forested slopes and a diverse insect population.",
+                  "category": "natural",
+                  "coords": [
+                        14.411277,
+                        49.958536
+                  ]
+            },
+            {
+                  "name": "zámek Komořany",
+                  "text": "A Baroque chateau in Prague that now serves as the seat for various public institutions.",
+                  "category": "castle",
+                  "coords": [
+                        14.404406,
+                        49.988221
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CZ",
     name: { de: "Kloster Zbraslav", hu: "Zbraslav kolostor", ro: "Mănăstirea Zbraslav", en: "Zbraslav Monastery" },
@@ -4656,7 +10524,268 @@ export const czechrepublicHistoryV2: POI[] = [
     image: "/poi-images/czechrepublic-plzen-fortifications-history-v2.webp",
   },
   {
-    id: "czechrepublic-znojmo-fortifications-history-v2",
+    id: "czechrepublic-znojmo-fortifications-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Das Stadttheater von Znaim, in dem verschiedene kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "Ein Kunstmuseum in Znaim, das zeitgenössische und historische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Eine historische Burg in Znaim, die ursprünglich zum Schutz der böhmischen Grenzen errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "Eine bedeutende archäologische Stätte und ein Museum in Znaim mit großmährischen Überresten.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "Eine Brauerei in Znaim, in der sich auch ein Museum für die Bierherstellung befindet.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Eines der größten Systeme von unterirdischen Kellern und Gängen in Mitteleuropa.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Ein lokales Museum in Znaim, das historische Exponate präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Znojmo városi színháza, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "Znojmói művészeti múzeum, amely kortárs és történelmi műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Znojmo történelmi vára, amely eredetileg a cseh határok védelmére épült.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "Fontos régészeti lelőhely és múzeum Znojmóban, nagymorva maradványokkal.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "Znojmói sörfőzde, amely a sörfőzésnek szentelt múzeumnak is otthont ad.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Közép-Európa egyik legnagyobb földalatti pince- és alagútrendszere.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Helyi múzeum Znojmóban, amely történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "Teatrul municipal din Znojmo, care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "Un muzeu de artă din Znojmo care expune lucrări contemporane și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "Un castel istoric din Znojmo, construit inițial pentru a proteja granițele cehe.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "Un sit arheologic important și un muzeu din Znojmo, care prezintă vestigii ale Marii Moravii.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "O berărie din Znojmo care găzduiește și un muzeu dedicat fabricării berii.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "Unul dintre cele mai mari sisteme de pivnițe și tuneluri subterane din Europa Centrală.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "Un muzeu local din Znojmo care prezintă exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Městské divadlo Znojmo",
+                  "text": "The municipal theatre of Znojmo, hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.054024,
+                        48.85324
+                  ]
+            },
+            {
+                  "name": "Dům umění",
+                  "text": "An art museum in Znojmo showcasing contemporary and historical works.",
+                  "category": "museum",
+                  "coords": [
+                        16.050713,
+                        48.854159
+                  ]
+            },
+            {
+                  "name": "Znojemský hrad",
+                  "text": "A historic castle in Znojmo originally built to protect the Czech borders.",
+                  "category": "castle",
+                  "coords": [
+                        16.042438,
+                        48.855647
+                  ]
+            },
+            {
+                  "name": "Hradiště sv. Hypolita",
+                  "text": "An important archaeological site and museum in Znojmo featuring Great Moravian remains.",
+                  "category": "museum",
+                  "coords": [
+                        16.033194,
+                        48.858902
+                  ]
+            },
+            {
+                  "name": "Pivovar",
+                  "text": "A brewery in Znojmo that also houses a museum dedicated to beer making.",
+                  "category": "museum",
+                  "coords": [
+                        16.044275,
+                        48.85567
+                  ]
+            },
+            {
+                  "name": "Znojemské podzemí",
+                  "text": "One of the largest systems of underground cellars and tunnels in Central Europe.",
+                  "category": "museum",
+                  "coords": [
+                        16.049229,
+                        48.855838
+                  ]
+            },
+            {
+                  "name": "Alšovka",
+                  "text": "A local museum in Znojmo presenting historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        16.05577,
+                        48.857476
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Znojmo", hu: "Znojmo városfalai", ro: "Fortificațiile orașului Znojmo", en: "Znojmo City Fortifications" },

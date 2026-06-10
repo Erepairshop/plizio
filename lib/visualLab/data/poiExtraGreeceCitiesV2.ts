@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const greeceCitiesV2: POI[] = [
 
   {
-    id: "greece-patras-cities-v2",
+    id: "greece-patras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αρχ. Μουσείο Πατρών",
+                  "text": "Archäologisches Museum mit Funden aus Patras und der Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        21.752088,
+                        38.26335
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκή Γέφυρα Πατρών",
+                  "text": "Überreste einer Brücke aus der römischen Zeit in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.75508,
+                        38.267426
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Ruinen eines monumentalen römischen Brunnens in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Gut erhaltenes antikes römisches Theater für Musikaufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Schloss Patras",
+                  "text": "Mittelalterliche Festung auf dem Gelände der antiken Akropolis von Patras.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Archäologische Stätte einer ehemaligen Industrieanlage in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Überreste eines antiken römischen Stadions für sportliche Wettkämpfe.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "Historisches Theatergebäude aus dem 19. Jahrhundert in Patras, entworfen von Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχ. Μουσείο Πατρών",
+                  "text": "Régészeti múzeum Patrasz és környéke leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        21.752088,
+                        38.26335
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκή Γέφυρα Πατρών",
+                  "text": "Egy római kori híd maradványai Patraszban.",
+                  "category": "historical",
+                  "coords": [
+                        21.75508,
+                        38.267426
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Egy monumentális római kút vagy nymphaeum romjai Patraszban.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Jól megőrzött ókori római színház, amelyet zenei előadásokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Κάστρο της Πάτρας",
+                  "text": "Középkori erőd Patrasz ókori akropoliszának helyén.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Egy egykori ipari létesítmény régészeti lelőhelye Patraszban.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Egy ókori római stadion maradványai, amelyet sportversenyekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "Történelmi, 19. századi színházépület Patraszban, amelyet Ernst Ziller tervezett.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχ. Μουσείο Πατρών",
+                  "text": "Muzeu arheologic care expune descoperiri din Patras și regiunea înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        21.752088,
+                        38.26335
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκή Γέφυρα Πατρών",
+                  "text": "Rămășițele unui pod din perioada romană în Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.75508,
+                        38.267426
+                  ]
+            },
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Ruinele unei fântâni romane monumentale în Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Teatru roman antic bine conservat, folosit pentru spectacole muzicale și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Κάστρο της Πάτρας",
+                  "text": "Fortăreață medievală construită pe locul vechii acropole din Patras.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Situl arheologic al unei foste facilități industriale din Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Rămășițele unui stadion roman antic folosit pentru competiții atletice.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "Clădire istorică de teatru din secolul al XIX-lea din Patras, proiectată de Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Patras Museum",
+                  "text": "Archaeological museum exhibiting finds from Patras and the surrounding region.",
+                  "category": "museum",
+                  "coords": [
+                        21.752088,
+                        38.26335
+                  ]
+            },
+            {
+                  "name": "Roman Bridge of Patras",
+                  "text": "Remains of a bridge from the Roman period in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.75508,
+                        38.267426
+                  ]
+            },
+            {
+                  "name": "Roman Nymphaio",
+                  "text": "Ruins of a monumental Roman fountain or nymphaeum in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "Well-preserved ancient Roman theatre used for musical performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Castle of Patra",
+                  "text": "Medieval fortress built on the site of the ancient acropolis of Patras.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Vourloumis raisin factory",
+                  "text": "Archaeological site of a former industrial facility in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Roman Stadium",
+                  "text": "Remains of an ancient Roman stadium used for athletic competitions in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Apollon Theater",
+                  "text": "Historic 19th-century theater building in Patras, designed by Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Patras", hu: "Pátra", ro: "Patras", en: "Patras"},
@@ -1009,7 +1306,268 @@ imageHint: "Trikala river Lithaios and central bridge",
     },
     image: "/poi-images/greece-trikala-cities-v2.webp",
 },  {
-    id: "greece-serres-cities-v2",
+    id: "greece-serres-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ακρόπολη Σερρών",
+                  "text": "Ruinen einer byzantinischen Festung auf einem Hügel über der Stadt Serres.",
+                  "category": "historical",
+                  "coords": [
+                        23.550931,
+                        41.097481
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Ein Museum in Serres, das bedeutende archäologische Funde aus der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.549365,
+                        41.090918
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Σαρακατσάνων",
+                  "text": "Ein Volkskundemuseum, das der Kultur und Geschichte der Sarakatsani gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.554901,
+                        41.094016
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Σιμαντώβ",
+                  "text": "Die Überreste eines historischen Herrenhauses, die die Architektur von Serres widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        23.555823,
+                        41.092183
+                  ]
+            },
+            {
+                  "name": "Παρεκκλήσι Αγίου Μηνά & Αγίας Κυριακής",
+                  "text": "Eine historische Kapelle in Serres, die den Heiligen Minas und Kyriaki geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.55169,
+                        41.094001
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος & Αγία Μαρίνα",
+                  "text": "Ein traditionelles christliches Gotteshaus in der Stadt Serres.",
+                  "category": "religious",
+                  "coords": [
+                        23.555979,
+                        41.093897
+                  ]
+            },
+            {
+                  "name": "Άγιος Παντελεήμονας",
+                  "text": "Eine dem heiligen Panteleimon geweihte Kirche in Serres.",
+                  "category": "religious",
+                  "coords": [
+                        23.549103,
+                        41.095389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ακρόπολη Σερρών",
+                  "text": "Bizánci erőd romjai a Szerresz városa feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        23.550931,
+                        41.097481
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Múzeum Szerreszben, amely a régió jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.549365,
+                        41.090918
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Σαρακατσάνων",
+                  "text": "Néprajzi múzeum, amely a szarakacsani nép kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.554901,
+                        41.094016
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Σιμαντώβ",
+                  "text": "Egy történelmi udvarház maradványai, amelyek Szerresz építészetét idézik.",
+                  "category": "historical",
+                  "coords": [
+                        23.555823,
+                        41.092183
+                  ]
+            },
+            {
+                  "name": "Παρεκκλήσι Αγίου Μηνά & Αγίας Κυριακής",
+                  "text": "Szent Ménásznak és Szent Küriakénak szentelt történelmi kápolna Szerreszben.",
+                  "category": "religious",
+                  "coords": [
+                        23.55169,
+                        41.094001
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος & Αγία Μαρίνα",
+                  "text": "Hagyományos keresztény templom Szerresz városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.555979,
+                        41.093897
+                  ]
+            },
+            {
+                  "name": "Άγιος Παντελεήμονας",
+                  "text": "Szent Panteleimonnak szentelt templom Szerresz városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.549103,
+                        41.095389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ακρόπολη Σερρών",
+                  "text": "Ruinele unei cetăți bizantine situate pe un deal deasupra orașului Serres.",
+                  "category": "historical",
+                  "coords": [
+                        23.550931,
+                        41.097481
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Un muzeu din Serres care prezintă descoperiri arheologice importante din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        23.549365,
+                        41.090918
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Σαρακατσάνων",
+                  "text": "Un muzeu de folclor dedicat culturii și istoriei poporului Sarakatsani.",
+                  "category": "museum",
+                  "coords": [
+                        23.554901,
+                        41.094016
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Σιμαντώβ",
+                  "text": "Rămășițele unui conac istoric ce reflectă arhitectura orașului Serres.",
+                  "category": "historical",
+                  "coords": [
+                        23.555823,
+                        41.092183
+                  ]
+            },
+            {
+                  "name": "Παρεκκλήσι Αγίου Μηνά & Αγίας Κυριακής",
+                  "text": "O capelă istorică din Serres dedicată Sfinților Mina și Chiriachi.",
+                  "category": "religious",
+                  "coords": [
+                        23.55169,
+                        41.094001
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος & Αγία Μαρίνα",
+                  "text": "Un lăcaș de cult creștin tradițional din orașul Serres.",
+                  "category": "religious",
+                  "coords": [
+                        23.555979,
+                        41.093897
+                  ]
+            },
+            {
+                  "name": "Άγιος Παντελεήμονας",
+                  "text": "O biserică din Serres dedicată Sfântului Pantelimon.",
+                  "category": "religious",
+                  "coords": [
+                        23.549103,
+                        41.095389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acropolis of Serres",
+                  "text": "Ruins of a Byzantine fortress located on a hill overlooking the city of Serres.",
+                  "category": "historical",
+                  "coords": [
+                        23.550931,
+                        41.097481
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Serres",
+                  "text": "A museum in Serres displaying significant archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.549365,
+                        41.090918
+                  ]
+            },
+            {
+                  "name": "Sarakatsani Folk Museum",
+                  "text": "A folk museum dedicated to the culture and history of the Sarakatsani people.",
+                  "category": "museum",
+                  "coords": [
+                        23.554901,
+                        41.094016
+                  ]
+            },
+            {
+                  "name": "Simandov Mansion",
+                  "text": "The remains of a historic mansion reflecting the architecture of Serres.",
+                  "category": "historical",
+                  "coords": [
+                        23.555823,
+                        41.092183
+                  ]
+            },
+            {
+                  "name": "Chapel of Agios Minas & Agia Kyriaki",
+                  "text": "A historic chapel in Serres dedicated to Saint Menas and Saint Kyriaki.",
+                  "category": "religious",
+                  "coords": [
+                        23.55169,
+                        41.094001
+                  ]
+            },
+            {
+                  "name": ":Saint Marina and Saint Anthonius",
+                  "text": "A traditional Christian place of worship in the city of Serres.",
+                  "category": "religious",
+                  "coords": [
+                        23.555979,
+                        41.093897
+                  ]
+            },
+            {
+                  "name": "Saint Panteleimon",
+                  "text": "A church in Serres dedicated to Saint Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        23.549103,
+                        41.095389
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Serres", hu: "Szerresz", ro: "Serres", en: "Serres"},
@@ -1111,6 +1669,51 @@ imageHint: "Alexandroupoli lighthouse at sunset",
                         24.892318,
                         41.142042
                   ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Ξάνθης",
+                  "text": "Ein Museum in Xanthi, das das traditionelle Leben und die Architektur Thrakiens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.887752,
+                        41.143553
+                  ]
+            },
+            {
+                  "name": "Κάστρο Ξάνθης",
+                  "text": "Die Ruinen einer mittelalterlichen Festung, die einen Panoramablick über Xanthi bieten.",
+                  "category": "castle",
+                  "coords": [
+                        24.883183,
+                        41.149457
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αυγού",
+                  "text": "Eine historische Festungsanlage in der Nähe von Xanthi aus der byzantinischen Zeit.",
+                  "category": "castle",
+                  "coords": [
+                        24.86193,
+                        41.149814
+                  ]
+            },
+            {
+                  "name": "Κέντρο Πολιτισμού Δήμου Ξάνθης",
+                  "text": "Ein lebendiges Kulturzentrum in Xanthi, das lokale Kunst und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        24.886382,
+                        41.137311
+                  ]
+            },
+            {
+                  "name": "Κονάκι Μουζαφέρ Μπέη",
+                  "text": "Ein bedeutendes historisches Gebäude und eine Sehenswürdigkeit in der Stadt Xanthi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88456,
+                        41.141648
+                  ]
             }
       ],
       "hu": [
@@ -1121,6 +1724,51 @@ imageHint: "Alexandroupoli lighthouse at sunset",
                   "coords": [
                         24.892318,
                         41.142042
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Ξάνθης",
+                  "text": "Múzeum Xanthiban, amely Thrákia hagyományos életmódját és építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.887752,
+                        41.143553
+                  ]
+            },
+            {
+                  "name": "Κάστρο Ξάνθης",
+                  "text": "Egy középkori erőd romjai, amely panorámás kilátást nyújt Xanthi városára.",
+                  "category": "castle",
+                  "coords": [
+                        24.883183,
+                        41.149457
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αυγού",
+                  "text": "Történelmi erődítmény Xanthi közelében, a bizánci korszakból.",
+                  "category": "castle",
+                  "coords": [
+                        24.86193,
+                        41.149814
+                  ]
+            },
+            {
+                  "name": "Κέντρο Πολιτισμού Δήμου Ξάνθης",
+                  "text": "Xanthi városának kulturális központja, amely helyi művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.886382,
+                        41.137311
+                  ]
+            },
+            {
+                  "name": "Κονάκι Μουζαφέρ Μπέη",
+                  "text": "Xanthi városának egyik jelentős történelmi épülete és turisztikai látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88456,
+                        41.141648
                   ]
             }
       ],
@@ -1133,6 +1781,51 @@ imageHint: "Alexandroupoli lighthouse at sunset",
                         24.892318,
                         41.142042
                   ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Ξάνθης",
+                  "text": "Un muzeu din Xanthi care prezintă viața tradițională și arhitectura Thraciei.",
+                  "category": "museum",
+                  "coords": [
+                        24.887752,
+                        41.143553
+                  ]
+            },
+            {
+                  "name": "Κάστρο Ξάνθης",
+                  "text": "Ruinele unei cetăți medievale care oferă o vedere panoramică asupra orașului Xanthi.",
+                  "category": "castle",
+                  "coords": [
+                        24.883183,
+                        41.149457
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αυγού",
+                  "text": "O fortificație istorică lângă Xanthi, datând din perioada bizantină.",
+                  "category": "castle",
+                  "coords": [
+                        24.86193,
+                        41.149814
+                  ]
+            },
+            {
+                  "name": "Κέντρο Πολιτισμού Δήμου Ξάνθης",
+                  "text": "Centrul cultural al municipalității Xanthi, care găzduiește evenimente artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.886382,
+                        41.137311
+                  ]
+            },
+            {
+                  "name": "Κονάκι Μουζαφέρ Μπέη",
+                  "text": "O clădire istorică importantă și o atracție turistică situată în orașul Xanthi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88456,
+                        41.141648
+                  ]
             }
       ],
       "en": [
@@ -1143,6 +1836,51 @@ imageHint: "Alexandroupoli lighthouse at sunset",
                   "coords": [
                         24.892318,
                         41.142042
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Xanthi",
+                  "text": "A museum in Xanthi presenting the traditional life and architecture of Thrace.",
+                  "category": "museum",
+                  "coords": [
+                        24.887752,
+                        41.143553
+                  ]
+            },
+            {
+                  "name": "Xanthi Castle",
+                  "text": "The ruins of a medieval fortress offering panoramic views over the city of Xanthi.",
+                  "category": "castle",
+                  "coords": [
+                        24.883183,
+                        41.149457
+                  ]
+            },
+            {
+                  "name": "Fortress of Avgo",
+                  "text": "A historic fortification near Xanthi dating back to the Byzantine period.",
+                  "category": "castle",
+                  "coords": [
+                        24.86193,
+                        41.149814
+                  ]
+            },
+            {
+                  "name": "Cultural Center of the Municipality of Xanthi",
+                  "text": "A cultural hub in the city of Xanthi that hosts various local arts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.886382,
+                        41.137311
+                  ]
+            },
+            {
+                  "name": "Mousafer Bey Konak",
+                  "text": "A significant historic building and attraction located in the city of Xanthi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88456,
+                        41.141648
                   ]
             }
       ]
@@ -1377,7 +2115,196 @@ imageHint: "Agrinio central square and public buildings",
     },
     image: "/poi-images/greece-agrinio-cities-v2.webp",
 },  {
-    id: "greece-katerini-cities-v2",
+    id: "greece-katerini-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πτηνά",
+                  "text": "Eine Voliere oder ein kleiner Tierpark in Katerini, der verschiedenen Vögeln gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        22.499574,
+                        40.27048
+                  ]
+            },
+            {
+                  "name": "Ελληνική Ευαγγελική Εκκλησία",
+                  "text": "Ein Kirchengebäude der evangelischen Gemeinde in Katerini.",
+                  "category": "religious",
+                  "coords": [
+                        22.501725,
+                        40.276803
+                  ]
+            },
+            {
+                  "name": "Theatro Pegasos",
+                  "text": "Ein lokales Theater in Katerini, das verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.50711,
+                        40.269092
+                  ]
+            },
+            {
+                  "name": "Theatro Commedia",
+                  "text": "Ein kleines Theater in Katerini für lokale Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.496951,
+                        40.280363
+                  ]
+            },
+            {
+                  "name": "Astike Skhole Katerines",
+                  "text": "Ein historisches Schulgebäude in Katerini mit architektonischer Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510707,
+                        40.270429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πτηνά",
+                  "text": "Különféle madaraknak otthont adó röpde vagy kis állatkert Kateriniben.",
+                  "category": "recreational",
+                  "coords": [
+                        22.499574,
+                        40.27048
+                  ]
+            },
+            {
+                  "name": "Ελληνική Ευαγγελική Εκκλησία",
+                  "text": "A katerini görög evangélikus közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        22.501725,
+                        40.276803
+                  ]
+            },
+            {
+                  "name": "Theatro Pegasos",
+                  "text": "Helyi színház Kateriniben, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.50711,
+                        40.269092
+                  ]
+            },
+            {
+                  "name": "Theatro Commedia",
+                  "text": "Kisméretű színház Kateriniben helyi színpadi produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        22.496951,
+                        40.280363
+                  ]
+            },
+            {
+                  "name": "Astike Skhole Katerines",
+                  "text": "Történelmi iskolaépület Kateriniben, amely építészeti jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510707,
+                        40.270429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πτηνά",
+                  "text": "O volieră sau un mic parc zoologic din Katerini dedicat diverselor specii de păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        22.499574,
+                        40.27048
+                  ]
+            },
+            {
+                  "name": "Ελληνική Ευαγγελική Εκκλησία",
+                  "text": "O biserică a comunității evanghelice grecești din Katerini.",
+                  "category": "religious",
+                  "coords": [
+                        22.501725,
+                        40.276803
+                  ]
+            },
+            {
+                  "name": "Theatro Pegasos",
+                  "text": "Un teatru local în Katerini, care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.50711,
+                        40.269092
+                  ]
+            },
+            {
+                  "name": "Theatro Commedia",
+                  "text": "Un teatru mic în Katerini pentru producții scenice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.496951,
+                        40.280363
+                  ]
+            },
+            {
+                  "name": "Astike Skhole Katerines",
+                  "text": "O clădire școlară istorică în Katerini, cu importanță arhitecturală.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510707,
+                        40.270429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birds",
+                  "text": "An aviary or small zoo in Katerini dedicated to various bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        22.499574,
+                        40.27048
+                  ]
+            },
+            {
+                  "name": "Greek Evangelical Church",
+                  "text": "A place of worship for the Greek Evangelical community in Katerini.",
+                  "category": "religious",
+                  "coords": [
+                        22.501725,
+                        40.276803
+                  ]
+            },
+            {
+                  "name": "Theatro Pegasos",
+                  "text": "A local theatre in Katerini hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.50711,
+                        40.269092
+                  ]
+            },
+            {
+                  "name": "Theatro Commedia",
+                  "text": "A small theatre in Katerini used for local stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        22.496951,
+                        40.280363
+                  ]
+            },
+            {
+                  "name": "Astike Skhole Katerines",
+                  "text": "A historic school building in Katerini with architectural significance.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510707,
+                        40.270429
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Katerini", hu: "Kateríni", ro: "Katerini", en: "Katerini"},
@@ -1442,6 +2369,69 @@ imageHint: "Katerini city park and Olympus in background",
                         24.017346,
                         35.514255
                   ]
+            },
+            {
+                  "name": "Schifffahrtsmuseum von Kreta",
+                  "text": "Ein Museum in Chania, das die reiche Seefahrtsgeschichte Kretas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.023449,
+                        35.519251
+                  ]
+            },
+            {
+                  "name": "Οικία Ελευθερίου Βενιζέλου",
+                  "text": "Ein Museum in Chania, das dem Leben des griechischen Staatsmannes Eleftherios Venizelos gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.038697,
+                        35.518346
+                  ]
+            },
+            {
+                  "name": "Κυδωνία",
+                  "text": "Eine bedeutende antike Ausgrabungsstätte in Chania.",
+                  "category": "historical",
+                  "coords": [
+                        24.019478,
+                        35.517381
+                  ]
+            },
+            {
+                  "name": "Πύργος Χαλέπας",
+                  "text": "Ein historischer Turm in Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.045942,
+                        35.514338
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χανίων",
+                  "text": "Ein Museum in Chania, das bedeutende archäologische Funde der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        24.036744,
+                        35.516604
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φιρκά",
+                  "text": "Eine historische Festung auf einem Hügel in der Nähe von Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.015519,
+                        35.518743
+                  ]
+            },
+            {
+                  "name": "Nea Chora beach",
+                  "text": "Ein beliebter Stadtstrand in Chania.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006215,
+                        35.51387
+                  ]
             }
       ],
       "hu": [
@@ -1461,6 +2451,69 @@ imageHint: "Katerini city park and Olympus in background",
                   "coords": [
                         24.017346,
                         35.514255
+                  ]
+            },
+            {
+                  "name": "Ναυτικό Μουσείο Κρήτης",
+                  "text": "Egy múzeum Chaniában, amely Kréta gazdag tengerészeti történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        24.023449,
+                        35.519251
+                  ]
+            },
+            {
+                  "name": "Οικία Ελευθερίου Βενιζέλου",
+                  "text": "Egy múzeum Chaniában, amely Eleftherios Venizelos görög államférfi életének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        24.038697,
+                        35.518346
+                  ]
+            },
+            {
+                  "name": "Κυδωνία",
+                  "text": "Jelentős ókori régészeti lelőhely Haniában.",
+                  "category": "historical",
+                  "coords": [
+                        24.019478,
+                        35.517381
+                  ]
+            },
+            {
+                  "name": "Πύργος Χαλέπας",
+                  "text": "Történelmi torony Hánia városában.",
+                  "category": "castle",
+                  "coords": [
+                        24.045942,
+                        35.514338
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χανίων",
+                  "text": "Hánia múzeuma, amely a régió jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.036744,
+                        35.516604
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φιρκά",
+                  "text": "Történelmi erőd egy dombtetőn Hánia közelében.",
+                  "category": "castle",
+                  "coords": [
+                        24.015519,
+                        35.518743
+                  ]
+            },
+            {
+                  "name": "Nea Chora beach",
+                  "text": "Népszerű városi strand Hánia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006215,
+                        35.51387
                   ]
             }
       ],
@@ -1482,6 +2535,69 @@ imageHint: "Katerini city park and Olympus in background",
                         24.017346,
                         35.514255
                   ]
+            },
+            {
+                  "name": "Ναυτικό Μουσείο Κρήτης",
+                  "text": "Un muzeu din Chania care documentează bogata istorie maritimă a Cretei.",
+                  "category": "museum",
+                  "coords": [
+                        24.023449,
+                        35.519251
+                  ]
+            },
+            {
+                  "name": "Οικία Ελευθερίου Βενιζέλου",
+                  "text": "Un muzeu din Chania dedicat vieții omului de stat grec Eleftherios Venizelos.",
+                  "category": "museum",
+                  "coords": [
+                        24.038697,
+                        35.518346
+                  ]
+            },
+            {
+                  "name": "Κυδωνία",
+                  "text": "Un sit arheologic antic important situat în Chania.",
+                  "category": "historical",
+                  "coords": [
+                        24.019478,
+                        35.517381
+                  ]
+            },
+            {
+                  "name": "Πύργος Χαλέπας",
+                  "text": "Un turn istoric situat în orașul Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.045942,
+                        35.514338
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χανίων",
+                  "text": "Un muzeu din Chania care expune descoperiri arheologice importante din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        24.036744,
+                        35.516604
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φιρκά",
+                  "text": "O fortăreață istorică situată pe un deal lângă Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.015519,
+                        35.518743
+                  ]
+            },
+            {
+                  "name": "Nea Chora beach",
+                  "text": "O plajă urbană populară situată în Chania.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006215,
+                        35.51387
+                  ]
             }
       ],
       "en": [
@@ -1501,6 +2617,69 @@ imageHint: "Katerini city park and Olympus in background",
                   "coords": [
                         24.017346,
                         35.514255
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of Crete",
+                  "text": "A museum in Chania documenting the rich maritime history of Crete.",
+                  "category": "museum",
+                  "coords": [
+                        24.023449,
+                        35.519251
+                  ]
+            },
+            {
+                  "name": "Eleftherios Venizelos 'Museum",
+                  "text": "A museum in Chania dedicated to the life of the Greek statesman Eleftherios Venizelos.",
+                  "category": "museum",
+                  "coords": [
+                        24.038697,
+                        35.518346
+                  ]
+            },
+            {
+                  "name": "Kydonia",
+                  "text": "An important ancient archaeological site located in Chania.",
+                  "category": "historical",
+                  "coords": [
+                        24.019478,
+                        35.517381
+                  ]
+            },
+            {
+                  "name": "Tower of Chalepa",
+                  "text": "A historical tower located in the city of Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.045942,
+                        35.514338
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Chania",
+                  "text": "A museum in Chania displaying significant archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.036744,
+                        35.516604
+                  ]
+            },
+            {
+                  "name": "Gramvousa Fortress",
+                  "text": "A historical fortress situated on a hilltop near Chania.",
+                  "category": "castle",
+                  "coords": [
+                        24.015519,
+                        35.518743
+                  ]
+            },
+            {
+                  "name": "Nea Chora beach",
+                  "text": "A popular city beach located in Chania.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006215,
+                        35.51387
                   ]
             }
       ]
@@ -1616,6 +2795,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         24.46277,
                         35.364342
                   ]
+            },
+            {
+                  "name": "Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Ein Museum für zeitgenössische Kunst in Rethymno, das Werke griechischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        24.474114,
+                        35.371025
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φορτέτζα",
+                  "text": "Eine massive venezianische Zitadelle, die auf einem Hügel über dem Hafen von Rethymno thront.",
+                  "category": "castle",
+                  "coords": [
+                        24.470831,
+                        35.37217
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Rethymno",
+                  "text": "Das Museum zeigt Funde aus der Region Rethymno von der Jungsteinzeit bis zur Römerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        24.474386,
+                        35.368403
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαoγραφικό Μουσείο Ρεθύμνης",
+                  "text": "Ein Museum in Rethymno, das kretisches Kunsthandwerk und traditionelle Lebensweisen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.473589,
+                        35.369325
+                  ]
+            },
+            {
+                  "name": "Paläontologisches Museum Rethymno",
+                  "text": "Das Museum befindet sich in einer ehemaligen Moschee und zeigt lokale Fossilfunde.",
+                  "category": "museum",
+                  "coords": [
+                        24.477693,
+                        35.363594
+                  ]
+            },
+            {
+                  "name": "Παραλία Ρεθύμνου",
+                  "text": "Ein langer Sandstrand, der sich entlang der Küste der Stadt Rethymno erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.503919,
+                        35.368702
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Ρεθύμνης",
+                  "text": "Ein öffentlicher Park im Zentrum von Rethymno, der auf dem Gelände eines ehemaligen osmanischen Friedhofs angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        24.473095,
+                        35.366311
+                  ]
+            },
+            {
+                  "name": "Biotopoi Nature park",
+                  "text": "Ein Naturpark in Rethymno, der die reiche Flora und Fauna Kretas präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.495967,
+                        35.359823
+                  ]
             }
       ],
       "hu": [
@@ -1635,6 +2886,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         24.46277,
                         35.364342
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Kortárs művészeti múzeum Rethymnóban, amely görög művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.474114,
+                        35.371025
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φορτέτζα",
+                  "text": "Hatalmas velencei citadella, amely a rethymnói kikötő feletti dombon magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        24.470831,
+                        35.37217
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Ρεθύμνου",
+                  "text": "A múzeum a Rethymno környéki leleteket mutatja be az újkőkorszaktól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        24.474386,
+                        35.368403
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαoγραφικό Μουσείο Ρεθύμνης",
+                  "text": "Múzeum Rethymnóban, amely a krétai kézművességet és a hagyományos életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.473589,
+                        35.369325
+                  ]
+            },
+            {
+                  "name": "Παλαιοντολογικό Μουσείο Ρεθύμνου",
+                  "text": "A múzeum egy egykori mecsetben található, és helyi fosszilis leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        24.477693,
+                        35.363594
+                  ]
+            },
+            {
+                  "name": "Παραλία Ρεθύμνου",
+                  "text": "Hosszú homokos tengerpart, amely Rethymno városa mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.503919,
+                        35.368702
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Ρεθύμνης",
+                  "text": "Nyilvános park Rethymno központjában, amelyet egy egykori oszmán temető helyén alakítottak ki.",
+                  "category": "park",
+                  "coords": [
+                        24.473095,
+                        35.366311
+                  ]
+            },
+            {
+                  "name": "Biotopoi Nature park",
+                  "text": "Természeti park Rethymnóban, amely Kréta gazdag növény- és állatvilágát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        24.495967,
+                        35.359823
                   ]
             }
       ],
@@ -1656,6 +2979,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         24.46277,
                         35.364342
                   ]
+            },
+            {
+                  "name": "Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Un muzeu de artă contemporană din Rethymno, care expune lucrări ale artiștilor greci.",
+                  "category": "museum",
+                  "coords": [
+                        24.474114,
+                        35.371025
+                  ]
+            },
+            {
+                  "name": "Φρούριο Φορτέτζα",
+                  "text": "O cetate venețiană masivă, cocoțată pe un deal care domină portul din Rethymno.",
+                  "category": "castle",
+                  "coords": [
+                        24.470831,
+                        35.37217
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Ρεθύμνου",
+                  "text": "Muzeul expune descoperiri din regiunea Rethymno, din neolitic până în perioada romană.",
+                  "category": "museum",
+                  "coords": [
+                        24.474386,
+                        35.368403
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαoγραφικό Μουσείο Ρεθύμνης",
+                  "text": "Un muzeu din Rethymno care documentează meșteșugurile cretane și modul de viață tradițional.",
+                  "category": "museum",
+                  "coords": [
+                        24.473589,
+                        35.369325
+                  ]
+            },
+            {
+                  "name": "Παλαιοντολογικό Μουσείο Ρεθύμνου",
+                  "text": "Muzeul este situat într-o fostă moschee și prezintă descoperiri fosile locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.477693,
+                        35.363594
+                  ]
+            },
+            {
+                  "name": "Παραλία Ρεθύμνου",
+                  "text": "O plajă lungă de nisip care se întinde de-a lungul coastei orașului Rethymno.",
+                  "category": "recreational",
+                  "coords": [
+                        24.503919,
+                        35.368702
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Ρεθύμνης",
+                  "text": "Un parc public din centrul orașului Rethymno, amenajat pe locul unui fost cimitir otoman.",
+                  "category": "park",
+                  "coords": [
+                        24.473095,
+                        35.366311
+                  ]
+            },
+            {
+                  "name": "Biotopoi Nature park",
+                  "text": "Un parc natural din Rethymno care prezintă flora și fauna bogată a Cretei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.495967,
+                        35.359823
+                  ]
             }
       ],
       "en": [
@@ -1675,6 +3070,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         24.46277,
                         35.364342
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art",
+                  "text": "A museum of contemporary art in Rethymno, exhibiting works by Greek artists.",
+                  "category": "museum",
+                  "coords": [
+                        24.474114,
+                        35.371025
+                  ]
+            },
+            {
+                  "name": "Fortezza Fortress",
+                  "text": "A massive Venetian citadel perched on a hill overlooking the harbor of Rethymno.",
+                  "category": "castle",
+                  "coords": [
+                        24.470831,
+                        35.37217
+                  ]
+            },
+            {
+                  "name": "Archeological museum of Rethymno",
+                  "text": "The museum displays finds from the Rethymno region ranging from the Neolithic to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        24.474386,
+                        35.368403
+                  ]
+            },
+            {
+                  "name": "Historical folk-art museum of Rethymno",
+                  "text": "A museum in Rethymno documenting Cretan crafts and traditional ways of life.",
+                  "category": "museum",
+                  "coords": [
+                        24.473589,
+                        35.369325
+                  ]
+            },
+            {
+                  "name": "Paleontological Museum of Rethymno",
+                  "text": "The museum is located in a former mosque and displays local fossil finds.",
+                  "category": "museum",
+                  "coords": [
+                        24.477693,
+                        35.363594
+                  ]
+            },
+            {
+                  "name": "Rethymnon Beach",
+                  "text": "A long sandy beach stretching along the coast of Rethymno city.",
+                  "category": "recreational",
+                  "coords": [
+                        24.503919,
+                        35.368702
+                  ]
+            },
+            {
+                  "name": "Municipal Garden of Rethymno",
+                  "text": "A public park in the center of Rethymno, established on the site of a former Ottoman cemetery.",
+                  "category": "park",
+                  "coords": [
+                        24.473095,
+                        35.366311
+                  ]
+            },
+            {
+                  "name": "Biotopoi Nature park",
+                  "text": "A nature park in Rethymno showcasing the rich flora and fauna of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.495967,
+                        35.359823
                   ]
             }
       ]
@@ -1753,6 +3220,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.783776,
                         40.327446
                   ]
+            },
+            {
+                  "name": "Δημοτική Χαρτοθήκη Κοζάνης",
+                  "text": "Ein spezialisiertes Museum in Kozani, das sich auf die Geschichte der Kartografie und Landkarten konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        21.790165,
+                        40.299089
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαογραφικό Μουσείο Κοζάνης",
+                  "text": "Ein Museum in Kozani, das die Folklore, Geschichte und das kulturelle Erbe der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.785356,
+                        40.301354
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Γρηγ. Βούρκα",
+                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert in Kozani, das die lokale traditionelle Architektur repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        21.786499,
+                        40.299906
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Βούρκα-Κατσικά",
+                  "text": "Ein elegantes historisches Herrenhaus in Kozani, das das architektonische Erbe der Stadt zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        21.788097,
+                        40.298259
+                  ]
             }
       ],
       "hu": [
@@ -1781,6 +3284,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.783776,
                         40.327446
+                  ]
+            },
+            {
+                  "name": "Δημοτική Χαρτοθήκη Κοζάνης",
+                  "text": "Speciális múzeum Kozániban, amely a térképészet és a térképek történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.790165,
+                        40.299089
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαογραφικό Μουσείο Κοζάνης",
+                  "text": "Kozáni múzeuma, amely a régió néprajzát, történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.785356,
+                        40.301354
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Γρηγ. Βούρκα",
+                  "text": "Történelmi, 18. századi udvarház Kozániban, amely a helyi hagyományos építészetet képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        21.786499,
+                        40.299906
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Βούρκα-Κατσικά",
+                  "text": "Elegáns történelmi kúria Kozániban, amely a város építészeti örökségét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        21.788097,
+                        40.298259
                   ]
             }
       ],
@@ -1811,6 +3350,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.783776,
                         40.327446
                   ]
+            },
+            {
+                  "name": "Δημοτική Χαρτοθήκη Κοζάνης",
+                  "text": "Un muzeu specializat din Kozani, axat pe istoria cartografiei și a hărților.",
+                  "category": "museum",
+                  "coords": [
+                        21.790165,
+                        40.299089
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Λαογραφικό Μουσείο Κοζάνης",
+                  "text": "Un muzeu din Kozani care prezintă folclorul, istoria și moștenirea culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.785356,
+                        40.301354
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Γρηγ. Βούρκα",
+                  "text": "Un conac istoric din secolul al XVIII-lea din Kozani, care reprezintă arhitectura tradițională locală.",
+                  "category": "historical",
+                  "coords": [
+                        21.786499,
+                        40.299906
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Βούρκα-Κατσικά",
+                  "text": "Un conac istoric elegant din Kozani care pune în valoare moștenirea arhitecturală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        21.788097,
+                        40.298259
+                  ]
             }
       ],
       "en": [
@@ -1839,6 +3414,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.783776,
                         40.327446
+                  ]
+            },
+            {
+                  "name": "Cartographic Museum",
+                  "text": "A specialized museum in Kozani focusing on the history of cartography and maps.",
+                  "category": "museum",
+                  "coords": [
+                        21.790165,
+                        40.299089
+                  ]
+            },
+            {
+                  "name": "Historic Laographic Museum of Kozani",
+                  "text": "A museum in Kozani showcasing the folklore, history, and cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.785356,
+                        40.301354
+                  ]
+            },
+            {
+                  "name": "Gregorios Vourkas Mansion",
+                  "text": "A historic 18th-century manor house in Kozani representing local traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        21.786499,
+                        40.299906
+                  ]
+            },
+            {
+                  "name": "Vourkas-Katsikas Mansion",
+                  "text": "An elegant historic mansion in Kozani that showcases the city's architectural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        21.788097,
+                        40.298259
                   ]
             }
       ]
@@ -1994,6 +3605,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.43681,
                         37.081247
                   ]
+            },
+            {
+                  "name": "Μενελάειον",
+                  "text": "Ein antikes Heiligtum in der Nähe von Sparta, das Menelaos und Helena gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.454066,
+                        37.066033
+                  ]
+            },
+            {
+                  "name": "Σπάρτη",
+                  "text": "Die archäologischen Überreste des antiken griechischen Stadtstaates Sparta.",
+                  "category": "historical",
+                  "coords": [
+                        22.424696,
+                        37.081416
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σπάρτης",
+                  "text": "Ein Museum mit Fundstücken aus den antiken Stätten von Sparta und Lakonien.",
+                  "category": "museum",
+                  "coords": [
+                        22.431528,
+                        37.074283
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ελιάς",
+                  "text": "Ein Museum in Sparta, das die Geschichte und Herstellung von Olivenöl in Griechenland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.426269,
+                        37.070436
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Athena Chalkioikos",
+                  "text": "Die Ruinen eines antiken Tempels für Athene auf der Akropolis von Sparta.",
+                  "category": "historical",
+                  "coords": [
+                        22.423382,
+                        37.0827
+                  ]
+            },
+            {
+                  "name": "Ακρόπολη",
+                  "text": "Die antike Akropolis von Sparta mit den Überresten mehrerer öffentlicher Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        22.426537,
+                        37.081564
+                  ]
+            },
+            {
+                  "name": "Ναός της Ορθίας Αρτέμιδος",
+                  "text": "Die Ruinen eines bedeutenden Heiligtums der Artemis am Fluss Eurotas.",
+                  "category": "historical",
+                  "coords": [
+                        22.435114,
+                        37.082868
+                  ]
+            },
+            {
+                  "name": "Κενοτάφιο Λεωνίδα",
+                  "text": "Ein Denkmal in Sparta zur Erinnerung an den berühmten König und Helden von Thermopylae.",
+                  "category": "historical",
+                  "coords": [
+                        22.42545,
+                        37.076768
+                  ]
             }
       ],
       "hu": [
@@ -2004,6 +3687,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.43681,
                         37.081247
+                  ]
+            },
+            {
+                  "name": "Μενελάειον",
+                  "text": "Spárta közeli ókori szentély, amelyet Menelaosznak és Helenének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        22.454066,
+                        37.066033
+                  ]
+            },
+            {
+                  "name": "Σπάρτη",
+                  "text": "Az ókori görög városállam, Spárta régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        22.424696,
+                        37.081416
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σπάρτης",
+                  "text": "Múzeum, amely Spárta és Lakónia ókori lelőhelyeiről származó leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        22.431528,
+                        37.074283
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ελιάς",
+                  "text": "Spártai múzeum, amely az olívaolaj-gyártás görögországi történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.426269,
+                        37.070436
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Athena Chalkioikos",
+                  "text": "Athénének szentelt ókori templom romjai Spárta akropoliszán.",
+                  "category": "historical",
+                  "coords": [
+                        22.423382,
+                        37.0827
+                  ]
+            },
+            {
+                  "name": "Ακρόπολη",
+                  "text": "Spárta ókori akropolisza, ahol számos középület maradványa található.",
+                  "category": "historical",
+                  "coords": [
+                        22.426537,
+                        37.081564
+                  ]
+            },
+            {
+                  "name": "Ναός της Ορθίας Αρτέμιδος",
+                  "text": "Artemisz fontos szentélyének romjai az Eurotas folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.435114,
+                        37.082868
+                  ]
+            },
+            {
+                  "name": "Κενοτάφιο Λεωνίδα",
+                  "text": "Emlékmű Spártában, amely a thermopülai csata híres királyának és hősének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.42545,
+                        37.076768
                   ]
             }
       ],
@@ -2016,6 +3771,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         22.43681,
                         37.081247
                   ]
+            },
+            {
+                  "name": "Μενελάειον",
+                  "text": "Un sanctuar antic lângă Sparta, dedicat lui Menelaus și Elenei.",
+                  "category": "historical",
+                  "coords": [
+                        22.454066,
+                        37.066033
+                  ]
+            },
+            {
+                  "name": "Σπάρτη",
+                  "text": "Vestigiile arheologice ale vechiului oraș-stat grec Sparta.",
+                  "category": "historical",
+                  "coords": [
+                        22.424696,
+                        37.081416
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σπάρτης",
+                  "text": "Un muzeu care adăpostește artefacte găsite în siturile antice din Sparta și Laconia.",
+                  "category": "museum",
+                  "coords": [
+                        22.431528,
+                        37.074283
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ελιάς",
+                  "text": "Un muzeu în Sparta care explorează istoria și producția de ulei de măsline în Grecia.",
+                  "category": "museum",
+                  "coords": [
+                        22.426269,
+                        37.070436
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Athena Chalkioikos",
+                  "text": "Ruinele unui templu antic dedicat Atenei pe acropola Spartei.",
+                  "category": "historical",
+                  "coords": [
+                        22.423382,
+                        37.0827
+                  ]
+            },
+            {
+                  "name": "Ακρόπολη",
+                  "text": "Vechea acropolă a Spartei, care conține rămășițele mai multor clădiri publice.",
+                  "category": "historical",
+                  "coords": [
+                        22.426537,
+                        37.081564
+                  ]
+            },
+            {
+                  "name": "Ναός της Ορθίας Αρτέμιδος",
+                  "text": "Ruinele unui sanctuar important dedicat Artemisei, lângă râul Eurotas.",
+                  "category": "historical",
+                  "coords": [
+                        22.435114,
+                        37.082868
+                  ]
+            },
+            {
+                  "name": "Κενοτάφιο Λεωνίδα",
+                  "text": "Un monument în Sparta care îl comemorează pe celebrul rege și erou de la Termopile.",
+                  "category": "historical",
+                  "coords": [
+                        22.42545,
+                        37.076768
+                  ]
             }
       ],
       "en": [
@@ -2026,6 +3853,78 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         22.43681,
                         37.081247
+                  ]
+            },
+            {
+                  "name": "Menelaion",
+                  "text": "An ancient sanctuary near Sparta dedicated to Menelaus and Helen.",
+                  "category": "historical",
+                  "coords": [
+                        22.454066,
+                        37.066033
+                  ]
+            },
+            {
+                  "name": "Sparta",
+                  "text": "The archaeological remains of the ancient Greek city-state of Sparta.",
+                  "category": "historical",
+                  "coords": [
+                        22.424696,
+                        37.081416
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Sparta",
+                  "text": "A museum housing artifacts found at the ancient sites of Sparta and Laconia.",
+                  "category": "museum",
+                  "coords": [
+                        22.431528,
+                        37.074283
+                  ]
+            },
+            {
+                  "name": "Olive Museum",
+                  "text": "A museum in Sparta exploring the history and production of olive oil in Greece.",
+                  "category": "museum",
+                  "coords": [
+                        22.426269,
+                        37.070436
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Athena Chalkioikos",
+                  "text": "The ruins of an ancient temple dedicated to Athena on the acropolis of Sparta.",
+                  "category": "historical",
+                  "coords": [
+                        22.423382,
+                        37.0827
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "The ancient acropolis of Sparta, containing the remains of several public buildings.",
+                  "category": "historical",
+                  "coords": [
+                        22.426537,
+                        37.081564
+                  ]
+            },
+            {
+                  "name": "Temple of Artemis Orthia",
+                  "text": "The ruins of an important sanctuary dedicated to Artemis near the river Eurotas.",
+                  "category": "historical",
+                  "coords": [
+                        22.435114,
+                        37.082868
+                  ]
+            },
+            {
+                  "name": "Cenotaph of Leonidas",
+                  "text": "A monument in Sparta commemorating the famous king and hero of Thermopylae.",
+                  "category": "historical",
+                  "coords": [
+                        22.42545,
+                        37.076768
                   ]
             }
       ]
@@ -2133,6 +4032,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.384802,
                         40.779532
                   ]
+            },
+            {
+                  "name": "Κουλές Φλώρινας",
+                  "text": "Ruinen einer Befestigungsanlage aus der osmanischen Zeit auf einem Hügel über Florina.",
+                  "category": "castle",
+                  "coords": [
+                        21.405293,
+                        40.778082
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λέσχης Πολιτισμού Φλώρινας",
+                  "text": "Ein Museum, das den lokalen Traditionen und der Volkskunst der Region Florina gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.402488,
+                        40.778814
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Florina",
+                  "text": "Ein Museum, das archäologische Funde von der Vorgeschichte bis zur Römerzeit in Florina zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.413746,
+                        40.780803
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Παντελεήμονα",
+                  "text": "Eine bedeutende orthodoxe Kirche, die der Gemeinde von Florina dient.",
+                  "category": "religious",
+                  "coords": [
+                        21.406264,
+                        40.778367
+                  ]
             }
       ],
       "hu": [
@@ -2143,6 +4078,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.384802,
                         40.779532
+                  ]
+            },
+            {
+                  "name": "Κουλές Φλώρινας",
+                  "text": "Oszmán kori erődítmény romjai a Florinára néző dombon.",
+                  "category": "castle",
+                  "coords": [
+                        21.405293,
+                        40.778082
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λέσχης Πολιτισμού Φλώρινας",
+                  "text": "Florina vidékének helyi hagyományait és népművészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.402488,
+                        40.778814
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Φλώρινας",
+                  "text": "Florina régészeti leleteit mutatja be az őskortól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        21.413746,
+                        40.780803
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Παντελεήμονα",
+                  "text": "Florina közösségét szolgáló jelentős ortodox keresztény templom.",
+                  "category": "religious",
+                  "coords": [
+                        21.406264,
+                        40.778367
                   ]
             }
       ],
@@ -2155,6 +4126,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.384802,
                         40.779532
                   ]
+            },
+            {
+                  "name": "Κουλές Φλώρινας",
+                  "text": "Ruinele unei fortificații din epoca otomană situate pe un deal care domină Florina.",
+                  "category": "castle",
+                  "coords": [
+                        21.405293,
+                        40.778082
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λέσχης Πολιτισμού Φλώρινας",
+                  "text": "Un muzeu dedicat tradițiilor locale și artei populare din regiunea Florina.",
+                  "category": "museum",
+                  "coords": [
+                        21.402488,
+                        40.778814
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Φλώρινας",
+                  "text": "Un muzeu care prezintă descoperiri arheologice din vremuri preistorice până în epoca romană în Florina.",
+                  "category": "museum",
+                  "coords": [
+                        21.413746,
+                        40.780803
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Αγίου Παντελεήμονα",
+                  "text": "O biserică ortodoxă importantă care deservește comunitatea din Florina.",
+                  "category": "religious",
+                  "coords": [
+                        21.406264,
+                        40.778367
+                  ]
             }
       ],
       "en": [
@@ -2165,6 +4172,42 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.384802,
                         40.779532
+                  ]
+            },
+            {
+                  "name": "Koules of Florina",
+                  "text": "Ruins of an Ottoman-era fortification located on a hill overlooking Florina.",
+                  "category": "castle",
+                  "coords": [
+                        21.405293,
+                        40.778082
+                  ]
+            },
+            {
+                  "name": "Folclore Museum of Culture Club of Florina",
+                  "text": "A museum dedicated to the local traditions and folk art of the Florina region.",
+                  "category": "museum",
+                  "coords": [
+                        21.402488,
+                        40.778814
+                  ]
+            },
+            {
+                  "name": "Archeological Museum of Florina",
+                  "text": "A museum showcasing archaeological finds from prehistoric to Roman times in Florina.",
+                  "category": "museum",
+                  "coords": [
+                        21.413746,
+                        40.780803
+                  ]
+            },
+            {
+                  "name": "Saint Pantaleon Church",
+                  "text": "A significant Orthodox Christian church serving the community of Florina.",
+                  "category": "religious",
+                  "coords": [
+                        21.406264,
+                        40.778367
                   ]
             }
       ]
@@ -3529,7 +5572,232 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-mesolonghi-cities-v2", "sights": {"de": [{"name": "Limnothalassa Kleisovas", "text": "Die Lagune von Klisova in Mesolonghi ist ein malerisches Küstenseengebiet, das sich wunderbar zur Beobachtung der lokalen Naturschönheiten eignet.", "category": "natural", "coords": [21.453996, 38.336039]}, {"name": "Limnothalassa Mesologgioy", "text": "Die Lagune von Mesolonghi ist ein wichtiger See in Mesolonghi, der für seine weite Naturlandschaft und ruhigen Gewässer bekannt ist.", "category": "natural", "coords": [21.313442, 38.370037]}], "hu": [{"name": "Limnothalassa Kleisovas", "text": "A meszolonghi Klisova-lagúna egy festői partmenti tóvidék, amely csodálatos helyi természeti szépségek megfigyelésére ad lehetőséget.", "category": "natural", "coords": [21.453996, 38.336039]}, {"name": "Limnothalassa Mesologgioy", "text": "A Meszolonghi-lagúna egy fontos tó Meszolonghiban, amely hatalmas természeti tájáról és nyugodt vizeiről ismert.", "category": "natural", "coords": [21.313442, 38.370037]}], "ro": [{"name": "Limnothalassa Kleisovas", "text": "Laguna Klisova din Mesolonghi este o zonă pitorească a lacului de coastă, minunată pentru a observa frumusețea naturală locală.", "category": "natural", "coords": [21.453996, 38.336039]}, {"name": "Limnothalassa Mesologgioy", "text": "Laguna Messolongi este un lac important situat în Mesolonghi, cunoscut pentru peisajele sale naturale vaste și apele calme.", "category": "natural", "coords": [21.313442, 38.370037]}], "en": [{"name": "Klisova Lagoon", "text": "Klisova Lagoon in Mesolonghi is a scenic coastal lake area, wonderful for observing the local natural beauty.", "category": "natural", "coords": [21.453996, 38.336039]}, {"name": "Messolongi Lagoon", "text": "Messolongi Lagoon is an important lake located in Mesolonghi, known for its vast natural scenery and calm waters.", "category": "natural", "coords": [21.313442, 38.370037]}]},
+    id: "greece-mesolonghi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Limnothalassa Kleisovas",
+                  "text": "Die Lagune von Klisova in Mesolonghi ist ein malerisches Küstenseengebiet, das sich wunderbar zur Beobachtung der lokalen Naturschönheiten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Mesologgioy",
+                  "text": "Die Lagune von Mesolonghi ist ein wichtiger See in Mesolonghi, der für seine weite Naturlandschaft und ruhigen Gewässer bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            },
+            {
+                  "name": "Οικία Κ. Παλαμά",
+                  "text": "Das Geburtshaus des Dichters Kostis Palamas, das heute ein Museum in Mesolonghi ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.426707,
+                        38.367625
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Πινακοθήκης",
+                  "text": "Ein städtisches Museum in Mesolonghi, das eine collection lokaler Kunstwerke beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        21.430764,
+                        38.369104
+                  ]
+            },
+            {
+                  "name": "Φρούριο Μεσολογγίου",
+                  "text": "Die historische Befestigungsanlage von Mesolonghi, bekannt für ihre Rolle im griechischen Unabhängigkeitskrieg.",
+                  "category": "castle",
+                  "coords": [
+                        21.432294,
+                        38.374343
+                  ]
+            },
+            {
+                  "name": "Diexodos Diexodos",
+                  "text": "Ein Kulturzentrum und Museum in Mesolonghi mit Ausstellungen zur lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        21.427915,
+                        38.368405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limnothalassa Kleisovas",
+                  "text": "A meszolonghi Klisova-lagúna egy festői partmenti tóvidék, amely csodálatos helyi természeti szépségek megfigyelésére ad lehetőséget.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Mesologgioy",
+                  "text": "A Meszolonghi-lagúna egy fontos tó Meszolonghiban, amely hatalmas természeti tájáról és nyugodt vizeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            },
+            {
+                  "name": "Οικία Κ. Παλαμά",
+                  "text": "Kosztísz Palamasz költő szülőháza, amely ma múzeum Mesolonghiben.",
+                  "category": "museum",
+                  "coords": [
+                        21.426707,
+                        38.367625
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Πινακοθήκης",
+                  "text": "Mesolonghi városi múzeuma, amely helyi műalkotások gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.430764,
+                        38.369104
+                  ]
+            },
+            {
+                  "name": "Φρούριο Μεσολογγίου",
+                  "text": "Mesolonghi történelmi erődítménye, amely a görög szabadságharcban betöltött szerepéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        21.432294,
+                        38.374343
+                  ]
+            },
+            {
+                  "name": "Diexodos Diexodos",
+                  "text": "Kulturális központ és múzeum Mesolonghiban, helytörténeti kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        21.427915,
+                        38.368405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limnothalassa Kleisovas",
+                  "text": "Laguna Klisova din Mesolonghi este o zonă pitorească a lacului de coastă, minunată pentru a observa frumusețea naturală locală.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Limnothalassa Mesologgioy",
+                  "text": "Laguna Messolongi este un lac important situat în Mesolonghi, cunoscut pentru peisajele sale naturale vaste și apele calme.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            },
+            {
+                  "name": "Οικία Κ. Παλαμά",
+                  "text": "Casa natală a poetului Kostis Palamas, care astăzi este un muzeu în Mesolonghi.",
+                  "category": "museum",
+                  "coords": [
+                        21.426707,
+                        38.367625
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Πινακοθήκης",
+                  "text": "Un muzeu municipal din Mesolonghi care găzduiește o colecție de opere de artă locale.",
+                  "category": "museum",
+                  "coords": [
+                        21.430764,
+                        38.369104
+                  ]
+            },
+            {
+                  "name": "Φρούριο Μεσολογγίου",
+                  "text": "Fortificația istorică din Mesolonghi, cunoscută pentru rolul său în Războiul de Independență al Greciei.",
+                  "category": "castle",
+                  "coords": [
+                        21.432294,
+                        38.374343
+                  ]
+            },
+            {
+                  "name": "Diexodos Diexodos",
+                  "text": "Un centru cultural și muzeu în Mesolonghi, cu expoziții de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        21.427915,
+                        38.368405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klisova Lagoon",
+                  "text": "Klisova Lagoon in Mesolonghi is a scenic coastal lake area, wonderful for observing the local natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        21.453996,
+                        38.336039
+                  ]
+            },
+            {
+                  "name": "Messolongi Lagoon",
+                  "text": "Messolongi Lagoon is an important lake located in Mesolonghi, known for its vast natural scenery and calm waters.",
+                  "category": "natural",
+                  "coords": [
+                        21.313442,
+                        38.370037
+                  ]
+            },
+            {
+                  "name": "Palamas House",
+                  "text": "The birthplace of the poet Kostis Palamas, now a museum in Mesolonghi.",
+                  "category": "museum",
+                  "coords": [
+                        21.426707,
+                        38.367625
+                  ]
+            },
+            {
+                  "name": "Municipal Museum of Artwork",
+                  "text": "A municipal museum in Mesolonghi housing a collection of local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        21.430764,
+                        38.369104
+                  ]
+            },
+            {
+                  "name": "Fort of Mesolonghi",
+                  "text": "The historical fortification of Mesolonghi, known for its role in the Greek War of Independence.",
+                  "category": "castle",
+                  "coords": [
+                        21.432294,
+                        38.374343
+                  ]
+            },
+            {
+                  "name": "Diexodos Diexodos",
+                  "text": "A cultural center and museum in Mesolonghi featuring local history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        21.427915,
+                        38.368405
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Messolongi", hu: "Meszolóngi", ro: "Mesolonghi", en: "Mesolonghi"},
@@ -4241,7 +6509,520 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-naoussa-cities-v2.webp",
   },
   {
-    id: "greece-salamina-cities-v2", "sights": {"de": [{"name": "Paralia Agiou Nikolaou", "text": "Sanft an den Ufern der Insel Salamina ruhend, bietet die Paralia Agiou Nikolaou eine beruhigende mediterrane Zuflucht. Die einladende Küstenlinie eignet sich hervorragend für ruhige Schwimmzüge und ausgiebige Sonnenbäder in der warmen griechischen Sonne. Man trifft hier meist auf eine beschauliche Atmosphäre, die ideal ist, um Abstand zum hektischen Festland zu gewinnen. Vergessen Sie nicht, ein gutes Buch und ein paar lokale Snacks für Ihren Besuch einzupacken.", "category": "recreational", "coords": [23.462222, 37.879484]}, {"name": "Paralia Peramatos", "text": "Die Paralia Peramatos liegt direkt am Meer in Salamina und ist ein charmanter Küstenort voller Inselleben. Die sanften Wasserbedingungen laden die Besucher zu erfrischenden Badeinlagen oder entspannten Spaziergängen am Rand der Wellen ein. Sie bietet eine unaufgeregte Umgebung, die sich sehr authentisch und gemächlich anfühlt. Eine Strandmatte mitzubringen und einfach nur dem Meer zuzuhören, ist für einen erholsamen Nachmittag sehr zu empfehlen.", "category": "recreational", "coords": [23.556164, 37.965585]}, {"name": "Dimitrani", "text": "Dimitrani ist ein Strand in Salamina.", "category": "recreational", "coords": [23.494182, 37.900724]}, {"name": "Charoupias", "text": "Charoupias ist ein Strand in Salamina.", "category": "recreational", "coords": [23.513685, 37.903695]}, {"name": "Porto Fino", "text": "Porto Fino ist ein Küstenstrand in Salamina.", "category": "recreational", "coords": [23.514758, 37.905001]}, {"name": "Ntoulapi", "text": "Ntoulapi ist ein Strand in der Gegend von Salamina.", "category": "recreational", "coords": [23.512831, 37.901232]}, {"name": "Perani", "text": "Perani ist ein Strand am Meer in Salamina.", "category": "recreational", "coords": [23.485124, 37.897359]}, {"name": "Kyriza", "text": "Kyriza ist ein Strandziel in Salamina.", "category": "recreational", "coords": [23.489278, 37.900235]}, {"name": "Kaki Vigla", "text": "Kaki Vigla ist ein Strand in der Stadt Salamina.", "category": "recreational", "coords": [23.512317, 37.912803]}], "hu": [{"name": "Paralia Agiou Nikolaou", "text": "A Salamina szigetének partjainál elterülő Paralia Agiou Nikolaou nyugtató mediterrán menedéket nyújt. A hívogató tengerpart kiválóan alkalmas egy csendes úszáshoz és a meleg görög napfény begyűjtéséhez. Valószínűleg békés atmoszférával találkozik majd itt, amely tökéletes a nyüzsgő szárazföldtől való elszakadáshoz. Ne felejtsen el magával hozni egy jó könyvet és néhány helyi harapnivalót a látogatás teljessé tételéhez.", "category": "recreational", "coords": [23.462222, 37.879484]}, {"name": "Paralia Peramatos", "text": "A Salamina tengerpartján található Paralia Peramatos egy bájos parti helyszín, amelyet átitat a szigeti életérzés. A szelíd vizek frissítő úszásra vagy a hullámok szélén tett kényelmes sétákra hívogatják a látogatókat. Visszafogott, autentikus és sietség nélküli környezetet kínál a kikapcsolódni vágyóknak. Egy pihentető délutánhoz erősen ajánlott egy strandmatracot vinni és egyszerűen csak a tengert hallgatni.", "category": "recreational", "coords": [23.556164, 37.965585]}, {"name": "Dimitrani", "text": "Dimitrani egy strand Salamina területén.", "category": "recreational", "coords": [23.494182, 37.900724]}, {"name": "Charoupias", "text": "Charoupias egy strand Salaminában.", "category": "recreational", "coords": [23.513685, 37.903695]}, {"name": "Porto Fino", "text": "Porto Fino egy tengerparti strand Salaminában.", "category": "recreational", "coords": [23.514758, 37.905001]}, {"name": "Ntoulapi", "text": "Ntoulapi egy strand Salamina térségében.", "category": "recreational", "coords": [23.512831, 37.901232]}, {"name": "Perani", "text": "Perani egy tengerparti strand Salaminában.", "category": "recreational", "coords": [23.485124, 37.897359]}, {"name": "Kyriza", "text": "Kyriza egy strand Salamina területén.", "category": "recreational", "coords": [23.489278, 37.900235]}, {"name": "Kaki Vigla", "text": "Kaki Vigla egy strand Salamina városában.", "category": "recreational", "coords": [23.512317, 37.912803]}], "ro": [{"name": "Paralia Agiou Nikolaou", "text": "Odihnindu-se ușor pe țărmurile insulei Salamina, Paralia Agiou Nikolaou oferă o evadare mediteraneană liniștitoare. Litoralul primitor este superb pentru sesiuni liniștite de înot și pentru a face plajă la soarele cald al Greciei. Cel mai probabil veți întâlni o atmosferă liniștită, perfectă pentru a vă distanța de continentul plin de agitație. Nu uitați să aduceți o carte bună și câteva gustări locale pentru a vă completa vizita.", "category": "recreational", "coords": [23.462222, 37.879484]}, {"name": "Paralia Peramatos", "text": "Situată la malul mării în Salamina, Paralia Peramatos este un loc de coastă fermecător, pătruns de viața insulară. Condițiile blânde ale apei invită vizitatorii la înot răcoritor sau la plimbări pe îndelete de-a lungul marginii valurilor. Oferă un mediu discret, care se simte autentic și lipsit de grabă. Aducerea unei rogojini de plajă și simpla ascultare a mării este foarte recomandată pentru o după-amiază relaxantă.", "category": "recreational", "coords": [23.556164, 37.965585]}, {"name": "Dimitrani", "text": "Dimitrani este o plajă aflată în Salamina.", "category": "recreational", "coords": [23.494182, 37.900724]}, {"name": "Charoupias", "text": "Charoupias este o plajă situată în Salamina.", "category": "recreational", "coords": [23.513685, 37.903695]}, {"name": "Porto Fino", "text": "Porto Fino este o plajă de coastă situată în Salamina.", "category": "recreational", "coords": [23.514758, 37.905001]}, {"name": "Ntoulapi", "text": "Ntoulapi este o plajă aflată în zona Salamina.", "category": "recreational", "coords": [23.512831, 37.901232]}, {"name": "Perani", "text": "Perani este o plajă la malul mării situată în Salamina.", "category": "recreational", "coords": [23.485124, 37.897359]}, {"name": "Kyriza", "text": "Kyriza este o destinație de plajă aflată în Salamina.", "category": "recreational", "coords": [23.489278, 37.900235]}, {"name": "Kaki Vigla", "text": "Kaki Vigla este o plajă situată în orașul Salamina.", "category": "recreational", "coords": [23.512317, 37.912803]}], "en": [{"name": "Paralia Agiou Nikolaou", "text": "Resting softly on the shores of Salamina island, Paralia Agiou Nikolaou provides a calming Mediterranean escape. The inviting coastline is superb for quiet swimming sessions and laying out to catch the warm Greek sun. You will likely encounter a tranquil atmosphere, perfect for distancing yourself from the bustling mainland. Remember to bring a good book and some local snacks to complete your visit.", "category": "recreational", "coords": [23.462222, 37.879484]}, {"name": "Paralia Peramatos", "text": "Located by the sea in Salamina, Paralia Peramatos is a charming coastal spot steeped in island life. The gentle water conditions invite visitors for refreshing swims or leisurely walks along the edge of the waves. It offers a low-key environment that feels authentic and unhurried. Bringing a beach mat and simply listening to the sea is highly recommended for a relaxing afternoon.", "category": "recreational", "coords": [23.556164, 37.965585]}, {"name": "Dimitrani", "text": "Dimitrani is a beach located in Salamina.", "category": "recreational", "coords": [23.494182, 37.900724]}, {"name": "Charoupias", "text": "Charoupias is a beach situated in Salamina.", "category": "recreational", "coords": [23.513685, 37.903695]}, {"name": "Porto Fino", "text": "Porto Fino is a coastal beach located in Salamina.", "category": "recreational", "coords": [23.514758, 37.905001]}, {"name": "Ntoulapi", "text": "Ntoulapi is a beach found in the area of Salamina.", "category": "recreational", "coords": [23.512831, 37.901232]}, {"name": "Perani", "text": "Perani is a seaside beach located in Salamina.", "category": "recreational", "coords": [23.485124, 37.897359]}, {"name": "Kyriza", "text": "Kyriza is a beach destination located in Salamina.", "category": "recreational", "coords": [23.489278, 37.900235]}, {"name": "Kaki Vigla", "text": "Kaki Vigla is a beach located in the city of Salamina.", "category": "recreational", "coords": [23.512317, 37.912803]}]},
+    id: "greece-salamina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Sanft an den Ufern der Insel Salamina ruhend, bietet die Paralia Agiou Nikolaou eine beruhigende mediterrane Zuflucht. Die einladende Küstenlinie eignet sich hervorragend für ruhige Schwimmzüge und ausgiebige Sonnenbäder in der warmen griechischen Sonne. Man trifft hier meist auf eine beschauliche Atmosphäre, die ideal ist, um Abstand zum hektischen Festland zu gewinnen. Vergessen Sie nicht, ein gutes Buch und ein paar lokale Snacks für Ihren Besuch einzupacken.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Die Paralia Peramatos liegt direkt am Meer in Salamina und ist ein charmanter Küstenort voller Inselleben. Die sanften Wasserbedingungen laden die Besucher zu erfrischenden Badeinlagen oder entspannten Spaziergängen am Rand der Wellen ein. Sie bietet eine unaufgeregte Umgebung, die sich sehr authentisch und gemächlich anfühlt. Eine Strandmatte mitzubringen und einfach nur dem Meer zuzuhören, ist für einen erholsamen Nachmittag sehr zu empfehlen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani ist ein Strand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias ist ein Strand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino ist ein Küstenstrand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi ist ein Strand in der Gegend von Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani ist ein Strand am Meer in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza ist ein Strandziel in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla ist ein Strand in der Stadt Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Salamina",
+                  "text": "Ein Museum in Salamina, das archäologische Funde von der Insel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.490527,
+                        37.96341
+                  ]
+            },
+            {
+                  "name": "Euripideio Theatro",
+                  "text": "Ein Freilichttheater in Salamina, das nach dem antiken Dramatiker Euripides benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        23.490817,
+                        37.97177
+                  ]
+            },
+            {
+                  "name": "Palio arkhaiologiko mouseio",
+                  "text": "Das alte archäologische Museum von Salamina in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        23.4867,
+                        37.962431
+                  ]
+            },
+            {
+                  "name": "Ieros naos prophete elia",
+                  "text": "Eine Kirche in Salamina, die dem Propheten Elias gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.496305,
+                        37.966658
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "Ein religiöses Bauwerk in Salamina, das dem heiligen Menas geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.492756,
+                        37.964801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "A Salamina szigetének partjainál elterülő Paralia Agiou Nikolaou nyugtató mediterrán menedéket nyújt. A hívogató tengerpart kiválóan alkalmas egy csendes úszáshoz és a meleg görög napfény begyűjtéséhez. Valószínűleg békés atmoszférával találkozik majd itt, amely tökéletes a nyüzsgő szárazföldtől való elszakadáshoz. Ne felejtsen el magával hozni egy jó könyvet és néhány helyi harapnivalót a látogatás teljessé tételéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "A Salamina tengerpartján található Paralia Peramatos egy bájos parti helyszín, amelyet átitat a szigeti életérzés. A szelíd vizek frissítő úszásra vagy a hullámok szélén tett kényelmes sétákra hívogatják a látogatókat. Visszafogott, autentikus és sietség nélküli környezetet kínál a kikapcsolódni vágyóknak. Egy pihentető délutánhoz erősen ajánlott egy strandmatracot vinni és egyszerűen csak a tengert hallgatni.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani egy strand Salamina területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias egy strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino egy tengerparti strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi egy strand Salamina térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani egy tengerparti strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza egy strand Salamina területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla egy strand Salamina városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Salamina",
+                  "text": "Múzeum Szalamina szigetén, amely a környék régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.490527,
+                        37.96341
+                  ]
+            },
+            {
+                  "name": "Euripideio Theatro",
+                  "text": "Szabadtéri színház Szalaminában, amelyet Euripidész ókori drámaíróról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        23.490817,
+                        37.97177
+                  ]
+            },
+            {
+                  "name": "Palio arkhaiologiko mouseio",
+                  "text": "Szalamina régi régészeti múzeuma, amely egy történelmi épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        23.4867,
+                        37.962431
+                  ]
+            },
+            {
+                  "name": "Ieros naos prophete elia",
+                  "text": "Szalaminai templom, amelyet Illés prófétának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.496305,
+                        37.966658
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "Vallási épület Szalaminában, amelyet Szent Ménasznak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.492756,
+                        37.964801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Odihnindu-se ușor pe țărmurile insulei Salamina, Paralia Agiou Nikolaou oferă o evadare mediteraneană liniștitoare. Litoralul primitor este superb pentru sesiuni liniștite de înot și pentru a face plajă la soarele cald al Greciei. Cel mai probabil veți întâlni o atmosferă liniștită, perfectă pentru a vă distanța de continentul plin de agitație. Nu uitați să aduceți o carte bună și câteva gustări locale pentru a vă completa vizita.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Situată la malul mării în Salamina, Paralia Peramatos este un loc de coastă fermecător, pătruns de viața insulară. Condițiile blânde ale apei invită vizitatorii la înot răcoritor sau la plimbări pe îndelete de-a lungul marginii valurilor. Oferă un mediu discret, care se simte autentic și lipsit de grabă. Aducerea unei rogojini de plajă și simpla ascultare a mării este foarte recomandată pentru o după-amiază relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani este o plajă aflată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias este o plajă situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino este o plajă de coastă situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi este o plajă aflată în zona Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani este o plajă la malul mării situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza este o destinație de plajă aflată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla este o plajă situată în orașul Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Salamina",
+                  "text": "Un muzeu în Salamina, care expune descoperiri arheologice de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        23.490527,
+                        37.96341
+                  ]
+            },
+            {
+                  "name": "Euripideio Theatro",
+                  "text": "Un teatru în aer liber în Salamina, numit după dramaturgul antic Euripide.",
+                  "category": "cultural",
+                  "coords": [
+                        23.490817,
+                        37.97177
+                  ]
+            },
+            {
+                  "name": "Palio arkhaiologiko mouseio",
+                  "text": "Vechiul muzeu arheologic din Salamina, situat într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        23.4867,
+                        37.962431
+                  ]
+            },
+            {
+                  "name": "Ieros naos prophete elia",
+                  "text": "O biserică în Salamina, dedicată Sfântului Proroc Ilie.",
+                  "category": "religious",
+                  "coords": [
+                        23.496305,
+                        37.966658
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "Un lăcaș de cult în Salamina, dedicat Sfântului Mina.",
+                  "category": "religious",
+                  "coords": [
+                        23.492756,
+                        37.964801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Resting softly on the shores of Salamina island, Paralia Agiou Nikolaou provides a calming Mediterranean escape. The inviting coastline is superb for quiet swimming sessions and laying out to catch the warm Greek sun. You will likely encounter a tranquil atmosphere, perfect for distancing yourself from the bustling mainland. Remember to bring a good book and some local snacks to complete your visit.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Located by the sea in Salamina, Paralia Peramatos is a charming coastal spot steeped in island life. The gentle water conditions invite visitors for refreshing swims or leisurely walks along the edge of the waves. It offers a low-key environment that feels authentic and unhurried. Bringing a beach mat and simply listening to the sea is highly recommended for a relaxing afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani is a beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias is a beach situated in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino is a coastal beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi is a beach found in the area of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani is a seaside beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza is a beach destination located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla is a beach located in the city of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Salamina",
+                  "text": "A museum in Salamina displaying archaeological finds from the island.",
+                  "category": "museum",
+                  "coords": [
+                        23.490527,
+                        37.96341
+                  ]
+            },
+            {
+                  "name": "Euripideio Theatro",
+                  "text": "An open-air theatre in Salamina named after the ancient dramatist Euripides.",
+                  "category": "cultural",
+                  "coords": [
+                        23.490817,
+                        37.97177
+                  ]
+            },
+            {
+                  "name": "Palio arkhaiologiko mouseio",
+                  "text": "The old archaeological museum of Salamina, housed in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        23.4867,
+                        37.962431
+                  ]
+            },
+            {
+                  "name": "Ieros naos prophete elia",
+                  "text": "A church in Salamina dedicated to the Prophet Elijah.",
+                  "category": "religious",
+                  "coords": [
+                        23.496305,
+                        37.966658
+                  ]
+            },
+            {
+                  "name": "Agios Menas",
+                  "text": "A religious building in Salamina dedicated to Saint Menas.",
+                  "category": "religious",
+                  "coords": [
+                        23.492756,
+                        37.964801
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Salamina", hu: "Szalamína", ro: "Salamina", en: "Salamina" },
@@ -5358,6 +8139,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.628295,
                         39.705154
                   ]
+            },
+            {
+                  "name": "Ασκηταριά Αγίου Γρηγορίου του Θεολόγου",
+                  "text": "Eine einsame religiöse Stätte in den Felsen von Meteora, dem Heiligen Gregor gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        21.62153,
+                        39.712398
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Στεφάνου",
+                  "text": "Ein bedeutendes Meteora-Kloster, das über eine Brücke leicht erreichbar ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.638612,
+                        39.709207
+                  ]
+            },
+            {
+                  "name": "Kloster Agia Triada",
+                  "text": "Dieses berühmte Meteora-Kloster thront spektakulär auf einer isolierten Felsnadel.",
+                  "category": "religious",
+                  "coords": [
+                        21.635529,
+                        39.713269
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Ρουσάνου",
+                  "text": "Ein malerisches Kloster in Meteora, das für seine wunderschönen Gärten und Fresken bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.63218,
+                        39.72161
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Νικολάου Αναπαυσά",
+                  "text": "Dieses kleine Kloster in der Nähe von Kalambaka ist Teil der Meteora-Anlage.",
+                  "category": "religious",
+                  "coords": [
+                        21.624592,
+                        39.723902
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Βαρλαάμ",
+                  "text": "Das Kloster Varlaam ist eines der größten und bedeutendsten Klöster der Meteora-Region.",
+                  "category": "religious",
+                  "coords": [
+                        21.629838,
+                        39.725065
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου Μπάντοβα",
+                  "text": "Ein historisches Kloster in den Felsen der Meteora-Region bei Kalambaka.",
+                  "category": "religious",
+                  "coords": [
+                        21.6218,
+                        39.710784
+                  ]
             }
       ],
       "hu": [
@@ -5368,6 +8212,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.628295,
                         39.705154
+                  ]
+            },
+            {
+                  "name": "Ασκηταριά Αγίου Γρηγορίου του Θεολόγου",
+                  "text": "Magányos vallási hely a Meteora sziklái között, Szent Gergelynek szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        21.62153,
+                        39.712398
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Στεφάνου",
+                  "text": "Jelentős Meteora-kolostor, amely egy hídon keresztül könnyen megközelíthető.",
+                  "category": "religious",
+                  "coords": [
+                        21.638612,
+                        39.709207
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίας Τριάδος",
+                  "text": "Ez a híres Meteora-kolostor látványosan trónol egy elszigetelt sziklatű tetején.",
+                  "category": "religious",
+                  "coords": [
+                        21.635529,
+                        39.713269
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Ρουσάνου",
+                  "text": "Festői kolostor Meteorában, amely gyönyörű kertjeiről és freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.63218,
+                        39.72161
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Νικολάου Αναπαυσά",
+                  "text": "Ez a kisméretű kolostor Kalambaka közelében a Meteóra-kolostorrendszer része.",
+                  "category": "religious",
+                  "coords": [
+                        21.624592,
+                        39.723902
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Βαρλαάμ",
+                  "text": "A Varlaam-kolostor a Meteóra-vidék egyik legnagyobb és legjelentősebb kolostora.",
+                  "category": "religious",
+                  "coords": [
+                        21.629838,
+                        39.725065
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου Μπάντοβα",
+                  "text": "Történelmi kolostor a Meteóra sziklái között, Kalambaka közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.6218,
+                        39.710784
                   ]
             }
       ],
@@ -5380,6 +8287,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.628295,
                         39.705154
                   ]
+            },
+            {
+                  "name": "Ασκηταριά Αγίου Γρηγορίου του Θεολόγου",
+                  "text": "Un lăcaș religios retras în stâncile Meteorei, dedicat Sfântului Grigore.",
+                  "category": "religious",
+                  "coords": [
+                        21.62153,
+                        39.712398
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfântul Ștefan” Meteora",
+                  "text": "O mănăstire importantă din Meteora, ușor accesibilă prin intermediul unui pod.",
+                  "category": "religious",
+                  "coords": [
+                        21.638612,
+                        39.709207
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfânta Treime” Meteora",
+                  "text": "Această faimoasă mănăstire din Meteora este cocoțată spectaculos pe un vârf de stâncă izolat.",
+                  "category": "religious",
+                  "coords": [
+                        21.635529,
+                        39.713269
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Rusanu” Meteora",
+                  "text": "O mănăstire pitorească din Meteora, cunoscută pentru grădinile și frescele sale frumoase.",
+                  "category": "religious",
+                  "coords": [
+                        21.63218,
+                        39.72161
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfântul Nicolae Anapafsas” Meteora",
+                  "text": "Această mănăstire mică de lângă Kalambaka face parte din complexul Meteora.",
+                  "category": "religious",
+                  "coords": [
+                        21.624592,
+                        39.723902
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Varlaam” Meteora",
+                  "text": "Mănăstirea Varlaam este una dintre cele mai mari și importante mănăstiri din regiunea Meteora.",
+                  "category": "religious",
+                  "coords": [
+                        21.629838,
+                        39.725065
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου Μπάντοβα",
+                  "text": "O mănăstire istorică situată printre stâncile din regiunea Meteora, lângă Kalambaka.",
+                  "category": "religious",
+                  "coords": [
+                        21.6218,
+                        39.710784
+                  ]
             }
       ],
       "en": [
@@ -5390,6 +8360,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.628295,
                         39.705154
+                  ]
+            },
+            {
+                  "name": "Hermitage of Saint Gregory the Theologian",
+                  "text": "A secluded religious site nestled in the rocks of Meteora, dedicated to Saint Gregory.",
+                  "category": "religious",
+                  "coords": [
+                        21.62153,
+                        39.712398
+                  ]
+            },
+            {
+                  "name": "St Stephen's Holy Monastery",
+                  "text": "A significant Meteora monastery that is easily accessible via a bridge.",
+                  "category": "religious",
+                  "coords": [
+                        21.638612,
+                        39.709207
+                  ]
+            },
+            {
+                  "name": "The Holy Trinity Monastery",
+                  "text": "This famous Meteora monastery is perched spectacularly atop an isolated rock pinnacle.",
+                  "category": "religious",
+                  "coords": [
+                        21.635529,
+                        39.713269
+                  ]
+            },
+            {
+                  "name": "The Holy Monastery of Roussanou",
+                  "text": "A picturesque monastery in Meteora known for its beautiful gardens and frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        21.63218,
+                        39.72161
+                  ]
+            },
+            {
+                  "name": "Holy Monastery of St. Nikolaos of Anapafsas",
+                  "text": "This small monastery near Kalambaka is part of the Meteora monastic complex.",
+                  "category": "religious",
+                  "coords": [
+                        21.624592,
+                        39.723902
+                  ]
+            },
+            {
+                  "name": "The Holy Monastery of Varlaam",
+                  "text": "The Monastery of Varlaam is one of the largest and most important monasteries in the Meteora region.",
+                  "category": "religious",
+                  "coords": [
+                        21.629838,
+                        39.725065
+                  ]
+            },
+            {
+                  "name": "Monastery of St Nicholas Badovas",
+                  "text": "A historical monastery nestled among the rocks of the Meteora region near Kalambaka.",
+                  "category": "religious",
+                  "coords": [
+                        21.6218,
+                        39.710784
                   ]
             }
       ]
@@ -5448,6 +8481,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.487832,
                         41.330908
                   ]
+            },
+            {
+                  "name": "Πλωτινόπολη",
+                  "text": "Plotinopolis ist eine bedeutende archäologische Ausgrabungsstätte bei Didymoteicho aus der römischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        26.504456,
+                        41.344285
+                  ]
+            },
+            {
+                  "name": "Κάστρο Διδυμοτείχου",
+                  "text": "Die Burg von Didymoteicho ist eine imposante byzantinische Festungsanlage auf einem Hügel.",
+                  "category": "castle",
+                  "coords": [
+                        26.487766,
+                        41.350215
+                  ]
+            },
+            {
+                  "name": "Χαμάμ του Ορούτς Πασά",
+                  "text": "Das Hamam von Oruç Paşa ist eine historische archäologische Stätte eines osmanischen Bades in Didymoteicho.",
+                  "category": "historical",
+                  "coords": [
+                        26.490975,
+                        41.346478
+                  ]
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "Das Stadttheater von Didymoteicho ist ein kulturelles Zentrum für lokale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.497807,
+                        41.349835
+                  ]
+            },
+            {
+                  "name": "Theater Orfeas",
+                  "text": "Das Orfeas-Theater in Didymoteicho bietet Bühne für verschiedene kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.496158,
+                        41.350515
+                  ]
+            },
+            {
+                  "name": "Byzantine Pentazone",
+                  "text": "Das byzantinische Pentazone ist eine archäologische Stätte in Didymoteicho, die Teil der alten Stadtmauern ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.48708,
+                        41.352741
+                  ]
+            },
+            {
+                  "name": "Κρήνη",
+                  "text": "Dieser Brunnen in Didymoteicho ist ein historisches Denkmal im Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        26.500964,
+                        41.345346
+                  ]
             }
       ],
       "hu": [
@@ -5458,6 +8554,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.487832,
                         41.330908
+                  ]
+            },
+            {
+                  "name": "Πλωτινόπολη",
+                  "text": "Plotinopolis egy jelentős római kori régészeti lelőhely Didymoteicho közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.504456,
+                        41.344285
+                  ]
+            },
+            {
+                  "name": "Κάστρο Διδυμοτείχου",
+                  "text": "Didymoteicho vára egy impozáns bizánci erődítmény, amely egy dombtetőn helyezkedik el.",
+                  "category": "castle",
+                  "coords": [
+                        26.487766,
+                        41.350215
+                  ]
+            },
+            {
+                  "name": "Χαμάμ του Ορούτς Πασά",
+                  "text": "Oruç Paşa hamamja egy oszmán fürdő történelmi régészeti maradványa Didymoteichóban.",
+                  "category": "historical",
+                  "coords": [
+                        26.490975,
+                        41.346478
+                  ]
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "Didymoteicho városi színháza a helyi előadások és kulturális élet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        26.497807,
+                        41.349835
+                  ]
+            },
+            {
+                  "name": "Theater Orfeas",
+                  "text": "Az Orfeas színház Didymoteichóban különféle kulturális eseményeknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.496158,
+                        41.350515
+                  ]
+            },
+            {
+                  "name": "Byzantine Pentazone",
+                  "text": "A bizánci Pentazone egy régészeti helyszín Didymoteichóban, amely a régi városfalak része.",
+                  "category": "historical",
+                  "coords": [
+                        26.48708,
+                        41.352741
+                  ]
+            },
+            {
+                  "name": "Κρήνη",
+                  "text": "Ez a didymoteichói szökőkút egy történelmi emlékmű a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        26.500964,
+                        41.345346
                   ]
             }
       ],
@@ -5470,6 +8629,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.487832,
                         41.330908
                   ]
+            },
+            {
+                  "name": "Πλωτινόπολη",
+                  "text": "Plotinopolis este un sit arheologic important de lângă Didymoteicho, datând din perioada romană.",
+                  "category": "historical",
+                  "coords": [
+                        26.504456,
+                        41.344285
+                  ]
+            },
+            {
+                  "name": "Κάστρο Διδυμοτείχου",
+                  "text": "Castelul din Didymoteicho este o fortificație bizantină impunătoare situată pe un deal.",
+                  "category": "castle",
+                  "coords": [
+                        26.487766,
+                        41.350215
+                  ]
+            },
+            {
+                  "name": "Χαμάμ του Ορούτς Πασά",
+                  "text": "Hamamul lui Oruç Paşa este un sit arheologic istoric al unei băi otomane din Didymoteicho.",
+                  "category": "historical",
+                  "coords": [
+                        26.490975,
+                        41.346478
+                  ]
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "Teatrul Municipal din Didymoteicho este un centru cultural pentru spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.497807,
+                        41.349835
+                  ]
+            },
+            {
+                  "name": "Theater Orfeas",
+                  "text": "Teatrul Orfeas din Didymoteicho găzduiește diverse evenimente și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.496158,
+                        41.350515
+                  ]
+            },
+            {
+                  "name": "Byzantine Pentazone",
+                  "text": "Pentazonul bizantin este un sit arheologic din Didymoteicho, făcând parte din vechile ziduri ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.48708,
+                        41.352741
+                  ]
+            },
+            {
+                  "name": "Κρήνη",
+                  "text": "Această fântână din Didymoteicho este un monument istoric situat în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.500964,
+                        41.345346
+                  ]
             }
       ],
       "en": [
@@ -5480,6 +8702,69 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.487832,
                         41.330908
+                  ]
+            },
+            {
+                  "name": "Plotinopolis (excavation site). Hagia Petra.",
+                  "text": "Plotinopolis is a significant Roman archaeological excavation site located near Didymoteicho.",
+                  "category": "historical",
+                  "coords": [
+                        26.504456,
+                        41.344285
+                  ]
+            },
+            {
+                  "name": "Castle of Didymoteichon",
+                  "text": "The Castle of Didymoteichon is an impressive Byzantine fortress situated on a hill.",
+                  "category": "castle",
+                  "coords": [
+                        26.487766,
+                        41.350215
+                  ]
+            },
+            {
+                  "name": "Hamam of Oruç Paşa",
+                  "text": "The Hamam of Oruç Paşa is a historical archaeological site of an Ottoman bath in Didymoteicho.",
+                  "category": "historical",
+                  "coords": [
+                        26.490975,
+                        41.346478
+                  ]
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "The Municipal Theater of Didymoteicho is a cultural venue for local theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.497807,
+                        41.349835
+                  ]
+            },
+            {
+                  "name": "Theater Orfeas",
+                  "text": "Theater Orfeas in Didymoteicho is a venue for various cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.496158,
+                        41.350515
+                  ]
+            },
+            {
+                  "name": "Byzantine Pentazone",
+                  "text": "The Byzantine Pentazone is an archaeological site in Didymoteicho, part of the city's old fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        26.48708,
+                        41.352741
+                  ]
+            },
+            {
+                  "name": "Fountain",
+                  "text": "The fountain in Didymoteicho is a historical monument located in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        26.500964,
+                        41.345346
                   ]
             }
       ]
@@ -5664,7 +8949,160 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-neanemoudania-cities-v2.webp",
   },
   {
-    id: "greece-farsala-cities-v2",
+    id: "greece-farsala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο Φαρσάλων",
+                  "text": "Überreste der antiken und mittelalterlichen Befestigungsanlagen von Farsala.",
+                  "category": "castle",
+                  "coords": [
+                        22.387374,
+                        39.288489
+                  ]
+            },
+            {
+                  "name": "Θολωτός τάφος",
+                  "text": "Eine antike mykenische Grabstätte in der Nähe von Farsala.",
+                  "category": "historical",
+                  "coords": [
+                        22.371126,
+                        39.295023
+                  ]
+            },
+            {
+                  "name": "Apidanos Springs",
+                  "text": "Natürliche Quellen, die in der griechischen Mythologie von Bedeutung sind.",
+                  "category": "historical",
+                  "coords": [
+                        22.380922,
+                        39.2959
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικό Κέντρο Φαρσάλων",
+                  "text": "Ein Zentrum für lokale Kunst, Ausstellungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.385916,
+                        39.298974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Φαρσάλων",
+                  "text": "Pharszalosz ókori és középkori erődítményeinek maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        22.387374,
+                        39.288489
+                  ]
+            },
+            {
+                  "name": "Θολωτός τάφος",
+                  "text": "Ókori mükénéi sírhely Farszala közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.371126,
+                        39.295023
+                  ]
+            },
+            {
+                  "name": "Apidanos Springs",
+                  "text": "Természetes források, amelyek jelentősek a görög mitológiában.",
+                  "category": "historical",
+                  "coords": [
+                        22.380922,
+                        39.2959
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικό Κέντρο Φαρσάλων",
+                  "text": "Helyi művészeti központ kiállítások és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        22.385916,
+                        39.298974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Φαρσάλων",
+                  "text": "Rămășițele fortificațiilor antice și medievale din Farsala.",
+                  "category": "castle",
+                  "coords": [
+                        22.387374,
+                        39.288489
+                  ]
+            },
+            {
+                  "name": "Θολωτός τάφος",
+                  "text": "Un sit funerar micenian antic situat lângă Farsala.",
+                  "category": "historical",
+                  "coords": [
+                        22.371126,
+                        39.295023
+                  ]
+            },
+            {
+                  "name": "Apidanos Springs",
+                  "text": "Izvoare naturale cu semnificație în mitologia greacă.",
+                  "category": "historical",
+                  "coords": [
+                        22.380922,
+                        39.2959
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικό Κέντρο Φαρσάλων",
+                  "text": "Un centru pentru arte locale, expoziții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.385916,
+                        39.298974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Farsala",
+                  "text": "Remains of the ancient and medieval fortifications of Farsala.",
+                  "category": "castle",
+                  "coords": [
+                        22.387374,
+                        39.288489
+                  ]
+            },
+            {
+                  "name": "Tholos tomb",
+                  "text": "An ancient Mycenaean tholos tomb site near Farsala.",
+                  "category": "historical",
+                  "coords": [
+                        22.371126,
+                        39.295023
+                  ]
+            },
+            {
+                  "name": "Apidanos Springs",
+                  "text": "Natural springs with significance in Greek mythology.",
+                  "category": "historical",
+                  "coords": [
+                        22.380922,
+                        39.2959
+                  ]
+            },
+            {
+                  "name": "Cultural Center of Farsala",
+                  "text": "A center for local arts, exhibitions, and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.385916,
+                        39.298974
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Farsala", hu: "Farszala", ro: "Farsala", en: "Farsala" },
@@ -5754,7 +9192,232 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-almyros-cities-v2.webp",
   },
   {
-    id: "greece-sitia-cities-v2",
+    id: "greece-sitia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piskokefalo Minoan villa",
+                  "text": "Die Überreste einer minoischen Villa bei Sitia, die wichtige archäologische Funde geliefert hat.",
+                  "category": "historical",
+                  "coords": [
+                        26.103667,
+                        35.19076
+                  ]
+            },
+            {
+                  "name": "Kazarma Festung",
+                  "text": "Eine venezianische Festung in Sitia, die einst zum Schutz der Stadt vor Piratenüberfällen diente.",
+                  "category": "castle",
+                  "coords": [
+                        26.107505,
+                        35.21114
+                  ]
+            },
+            {
+                  "name": "Petras",
+                  "text": "Eine bedeutende archäologische Stätte bei Sitia mit den Ruinen einer minoischen Siedlung und eines Palastes.",
+                  "category": "historical",
+                  "coords": [
+                        26.115092,
+                        35.197496
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Τρυπητού",
+                  "text": "Eine hellenistische archäologische Stätte auf einer Halbinsel bei Sitia, die Reste einer antiken Stadt zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        26.129881,
+                        35.198782
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Sitia",
+                  "text": "Ein Museum in Sitia, das Fundstücke aus der Region von der minoischen bis zur römischen Zeit ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.105197,
+                        35.204629
+                  ]
+            },
+            {
+                  "name": "Πολύκεντρο",
+                  "text": "Ein kulturelles Zentrum und Veranstaltungsort in Sitia, in dem Theateraufführungen und Konzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        26.105905,
+                        35.20892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piskokefalo Minoan villa",
+                  "text": "Egy minószi villa maradványai Sitia közelében, amely fontos régészeti leletekkel szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        26.103667,
+                        35.19076
+                  ]
+            },
+            {
+                  "name": "Καζάρμα",
+                  "text": "Velencei erőd Sitiában, amely egykor a város kalóztámadások elleni védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        26.107505,
+                        35.21114
+                  ]
+            },
+            {
+                  "name": "Πετράς Αρχαιολογικός χώρος",
+                  "text": "Jelentős régészeti lelőhely Sitia közelében, egy minószi település és palota romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        26.115092,
+                        35.197496
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Τρυπητού",
+                  "text": "Hellenisztikus régészeti lelőhely egy félszigeten Sitia közelében, egy ókori város maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        26.129881,
+                        35.198782
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σητείας",
+                  "text": "Sitiában található múzeum, amely a régió minószi és római kor közötti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.105197,
+                        35.204629
+                  ]
+            },
+            {
+                  "name": "Πολύκεντρο",
+                  "text": "Kulturális központ és rendezvényhelyszín Sitiában, ahol színházi előadásokat és koncerteket tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        26.105905,
+                        35.20892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piskokefalo Minoan villa",
+                  "text": "Vestigiile unei vile minoice lângă Sitia, care au oferit descoperiri arheologice importante.",
+                  "category": "historical",
+                  "coords": [
+                        26.103667,
+                        35.19076
+                  ]
+            },
+            {
+                  "name": "Καζάρμα",
+                  "text": "O fortăreață venețiană în Sitia, care serveva odinioară la protejarea orașului împotriva atacurilor piraterești.",
+                  "category": "castle",
+                  "coords": [
+                        26.107505,
+                        35.21114
+                  ]
+            },
+            {
+                  "name": "Πετράς Αρχαιολογικός χώρος",
+                  "text": "Un sit arheologic important lângă Sitia, cu ruinele unei așezări și ale unui palat minoic.",
+                  "category": "historical",
+                  "coords": [
+                        26.115092,
+                        35.197496
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός Χώρος Τρυπητού",
+                  "text": "Un sit arheologic elenistic pe o peninsulă lângă Sitia, care prezintă resturile unui oraș antic.",
+                  "category": "historical",
+                  "coords": [
+                        26.129881,
+                        35.198782
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σητείας",
+                  "text": "Un muzeu în Sitia care expune descoperiri din regiune, din perioada minoică până în cea romană.",
+                  "category": "museum",
+                  "coords": [
+                        26.105197,
+                        35.204629
+                  ]
+            },
+            {
+                  "name": "Πολύκεντρο",
+                  "text": "Un centru cultural și loc de desfășurare a evenimentelor în Sitia, unde au loc spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        26.105905,
+                        35.20892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piskokefalo Minoan villa",
+                  "text": "The remains of a Minoan villa near Sitia, which has provided important archaeological findings.",
+                  "category": "historical",
+                  "coords": [
+                        26.103667,
+                        35.19076
+                  ]
+            },
+            {
+                  "name": "Kazarma fortress",
+                  "text": "A Venetian fortress in Sitia that once served to protect the town from pirate raids.",
+                  "category": "castle",
+                  "coords": [
+                        26.107505,
+                        35.21114
+                  ]
+            },
+            {
+                  "name": "Petras",
+                  "text": "An important archaeological site near Sitia featuring the ruins of a Minoan settlement and palace.",
+                  "category": "historical",
+                  "coords": [
+                        26.115092,
+                        35.197496
+                  ]
+            },
+            {
+                  "name": "Trypitos",
+                  "text": "A Hellenistic archaeological site on a peninsula near Sitia, showing the remains of an ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        26.129881,
+                        35.198782
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Sitia",
+                  "text": "A museum in Sitia exhibiting finds from the region ranging from the Minoan to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        26.105197,
+                        35.204629
+                  ]
+            },
+            {
+                  "name": "Polikentro",
+                  "text": "A cultural centre and venue in Sitia hosting theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        26.105905,
+                        35.20892
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Sitia", hu: "Szitia", ro: "Sitia", en: "Sitia" },
@@ -5908,6 +9571,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.845994,
                         38.384335
                   ]
+            },
+            {
+                  "name": "Κάστρο της Ναυπάκτου",
+                  "text": "Eine gut erhaltene venezianische Burg mit Blick auf den Hafen und den Golf von Korinth.",
+                  "category": "castle",
+                  "coords": [
+                        21.824974,
+                        38.396263
+                  ]
+            },
+            {
+                  "name": "Φετιχέ Τζαμί",
+                  "text": "Eine historische osmanische Moschee im Hafen von Nafpaktos, die heute als Kulturraum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        21.829892,
+                        38.392512
+                  ]
+            },
+            {
+                  "name": "Ottoman bath",
+                  "text": "Die Überreste eines traditionellen türkischen Badehauses aus der osmanischen Zeit in Nafpaktos.",
+                  "category": "historical",
+                  "coords": [
+                        21.828349,
+                        38.395469
+                  ]
+            },
+            {
+                  "name": "Παπαχαραλάμπειος Αίθουσα",
+                  "text": "Ein lokales Kulturzentrum und Theater, in dem verschiedene Aufführungen und Veranstaltungen in Nafpaktos stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        21.824477,
+                        38.391709
+                  ]
+            },
+            {
+                  "name": "Όρμος Ναυπάκτου",
+                  "text": "Eine malerische Bucht am Golf von Korinth, bekannt für ihren pittoresken Hafen und die Küstenaussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        21.834755,
+                        38.384243
+                  ]
+            },
+            {
+                  "name": "Πάπιες",
+                  "text": "Ein lokaler Ort im Hafenbereich, wo Enten ein gewohnter und beliebter Anblick sind.",
+                  "category": "landmark",
+                  "coords": [
+                        21.835681,
+                        38.392438
+                  ]
             }
       ],
       "hu": [
@@ -5927,6 +9644,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.845994,
                         38.384335
+                  ]
+            },
+            {
+                  "name": "Κάστρο της Ναυπάκτου",
+                  "text": "Jó állapotban fennmaradt velencei vár, amely a kikötőre és a Korintoszi-öbölre néz.",
+                  "category": "castle",
+                  "coords": [
+                        21.824974,
+                        38.396263
+                  ]
+            },
+            {
+                  "name": "Φετιχέ Τζαμί",
+                  "text": "Történelmi oszmán mecset Nafpaktos kikötőjében, amely ma kulturális térként működik.",
+                  "category": "museum",
+                  "coords": [
+                        21.829892,
+                        38.392512
+                  ]
+            },
+            {
+                  "name": "Ottoman bath",
+                  "text": "Egy hagyományos török fürdő maradványai az oszmán korszakból Nafpaktosban.",
+                  "category": "historical",
+                  "coords": [
+                        21.828349,
+                        38.395469
+                  ]
+            },
+            {
+                  "name": "Παπαχαραλάμπειος Αίθουσα",
+                  "text": "Helyi kulturális központ és színház, amely különféle előadásoknak és eseményeknek ad otthont Nafpaktosban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.824477,
+                        38.391709
+                  ]
+            },
+            {
+                  "name": "Όρμος Ναυπάκτου",
+                  "text": "Festői öböl a Korintoszi-öbölben, amely festői kikötőjéről és tengerparti kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.834755,
+                        38.384243
+                  ]
+            },
+            {
+                  "name": "Πάπιες",
+                  "text": "Helyi pont a kikötő környékén, ahol a kacsák megszokott és népszerű látványnak számítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.835681,
+                        38.392438
                   ]
             }
       ],
@@ -5948,6 +9719,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         21.845994,
                         38.384335
                   ]
+            },
+            {
+                  "name": "Κάστρο της Ναυπάκτου",
+                  "text": "Un castel venețian bine conservat care domină portul și Golful Corint.",
+                  "category": "castle",
+                  "coords": [
+                        21.824974,
+                        38.396263
+                  ]
+            },
+            {
+                  "name": "Φετιχέ Τζαμί",
+                  "text": "O geamie otomană istorică din portul Nafpaktos, folosită acum ca spațiu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        21.829892,
+                        38.392512
+                  ]
+            },
+            {
+                  "name": "Ottoman bath",
+                  "text": "Rămășițele unei băi turcești tradiționale din perioada otomană în Nafpaktos.",
+                  "category": "historical",
+                  "coords": [
+                        21.828349,
+                        38.395469
+                  ]
+            },
+            {
+                  "name": "Παπαχαραλάμπειος Αίθουσα",
+                  "text": "Un centru cultural local și teatru care găzduiește diverse spectacole și evenimente în Nafpaktos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.824477,
+                        38.391709
+                  ]
+            },
+            {
+                  "name": "Όρμος Ναυπάκτου",
+                  "text": "Un golf pitoresc în Golful Corint, cunoscut pentru portul său încântător și vederile de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.834755,
+                        38.384243
+                  ]
+            },
+            {
+                  "name": "Πάπιες",
+                  "text": "Un loc local în zona portului unde rațele sunt o vedere comună și populară.",
+                  "category": "landmark",
+                  "coords": [
+                        21.835681,
+                        38.392438
+                  ]
             }
       ],
       "en": [
@@ -5967,6 +9792,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         21.845994,
                         38.384335
+                  ]
+            },
+            {
+                  "name": "Castle of Nafpaktos",
+                  "text": "A well-preserved Venetian castle overlooking the harbor and the Gulf of Corinth.",
+                  "category": "castle",
+                  "coords": [
+                        21.824974,
+                        38.396263
+                  ]
+            },
+            {
+                  "name": "Fethiye Mosque",
+                  "text": "A historic Ottoman mosque in the port of Nafpaktos, now used as a cultural space.",
+                  "category": "museum",
+                  "coords": [
+                        21.829892,
+                        38.392512
+                  ]
+            },
+            {
+                  "name": "Ottoman bath",
+                  "text": "The remains of a traditional Turkish bathhouse from the Ottoman period in Nafpaktos.",
+                  "category": "historical",
+                  "coords": [
+                        21.828349,
+                        38.395469
+                  ]
+            },
+            {
+                  "name": "Papacharalambeios Hall",
+                  "text": "A local cultural venue and theater hosting various performances and events in Nafpaktos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.824477,
+                        38.391709
+                  ]
+            },
+            {
+                  "name": "Nafpaktos Bay",
+                  "text": "A scenic bay on the Gulf of Corinth, known for its picturesque port and coastal views.",
+                  "category": "landmark",
+                  "coords": [
+                        21.834755,
+                        38.384243
+                  ]
+            },
+            {
+                  "name": "Ducks",
+                  "text": "A local spot in the harbor area where ducks are a common and popular sight.",
+                  "category": "landmark",
+                  "coords": [
+                        21.835681,
+                        38.392438
                   ]
             }
       ]
@@ -6015,7 +9894,124 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-nafpaktos-cities-v2.webp",
   },
   {
-    id: "greece-atalea-cities-v2",
+    id: "greece-atalea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πύργος Αταλάντης",
+                  "text": "Überreste einer historischen Befestigungsanlage in Atalanti.",
+                  "category": "castle",
+                  "coords": [
+                        22.994105,
+                        38.65294
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αταλάντης",
+                  "text": "Ein Museum in Atalanti, das lokale archäologische Funde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        22.997227,
+                        38.653168
+                  ]
+            },
+            {
+                  "name": "Karagkiozes-Asprogies (Atalantes)",
+                  "text": "Ein lokaler Orientierungspunkt oder Informationsort in Atalanti.",
+                  "category": "landmark",
+                  "coords": [
+                        22.999635,
+                        38.629927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πύργος Αταλάντης",
+                  "text": "Egy történelmi erődítmény maradványai Atalantiban.",
+                  "category": "castle",
+                  "coords": [
+                        22.994105,
+                        38.65294
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αταλάντης",
+                  "text": "Múzeum Atalantiban, amely helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.997227,
+                        38.653168
+                  ]
+            },
+            {
+                  "name": "Karagkiozes-Asprogies (Atalantes)",
+                  "text": "Helyi tájékozódási pont vagy információs hely Atalantiban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.999635,
+                        38.629927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πύργος Αταλάντης",
+                  "text": "Rămășițele unei fortificații istorice în Atalanti.",
+                  "category": "castle",
+                  "coords": [
+                        22.994105,
+                        38.65294
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αταλάντης",
+                  "text": "Un muzeu în Atalanti care expune descoperiri arheologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.997227,
+                        38.653168
+                  ]
+            },
+            {
+                  "name": "Karagkiozes-Asprogies (Atalantes)",
+                  "text": "Un punct de informare sau reper local în Atalanti.",
+                  "category": "landmark",
+                  "coords": [
+                        22.999635,
+                        38.629927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of Atalanti",
+                  "text": "Remains of a historical fortification in Atalanti.",
+                  "category": "castle",
+                  "coords": [
+                        22.994105,
+                        38.65294
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Atalanti",
+                  "text": "A museum in Atalanti displaying local archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        22.997227,
+                        38.653168
+                  ]
+            },
+            {
+                  "name": "Karagkiozes-Asprogies (Atalantes)",
+                  "text": "A local landmark or information point located in Atalanti.",
+                  "category": "landmark",
+                  "coords": [
+                        22.999635,
+                        38.629927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Atalanti", hu: "Atalanti", ro: "Atalanti", en: "Atalanti" },
@@ -6375,7 +10371,196 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-metsovo-cities-v2.webp",
   },
   {
-    id: "greece-amfilochia-cities-v2", "sights": {"de": [{"name": "Paralia Amfilochias", "text": "Direkt in Amfilochia gelegen, ermöglicht die Paralia Amfilochias einen unkomplizierten Zugang zum griechischen Meer. Die typisch lokale Strandatmosphäre lädt zu entspannten Schwimmrunden oder zum Verweilen am Wasser ein. Ein kurzer Besuch am Morgen bietet oft die meiste Ruhe.", "category": "recreational", "coords": [21.174976, 38.867765]}, {"name": "Amvrakia-See", "text": "Der Lake Amvrakia in Amfilochia lädt zu entspannten Spaziergängen am Wasser ein.", "category": "natural", "coords": [21.188843, 38.791896]}], "hu": [{"name": "Paralia Amfilochias", "text": "Közvetlenül Amfilochia városában található a Paralia Amfilochias, amely könnyű hozzáférést biztosít a görög tengerhez. A jellegzetes helyi strandhangulat nyugodt úszásra vagy a vízparti pihenésre csábít. Egy kora reggeli látogatás gyakran a legbékésebb élményt nyújtja.", "category": "recreational", "coords": [21.174976, 38.867765]}, {"name": "Limni Amvrakia", "text": "Az Amfilochia közelében fekvő Lake Amvrakia békés környezetet kínál egy vízparti sétához.", "category": "natural", "coords": [21.188843, 38.791896]}], "ro": [{"name": "Paralia Amfilochias", "text": "Situată direct în Amfilochia, Paralia Amfilochias oferă un acces simplu la marea grecească. Atmosfera locală tipică a plajei vă invită la o sesiune relaxantă de înot sau la odihnă lângă apă. O vizită scurtă dimineața devreme aduce adesea cea mai multă liniște.", "category": "recreational", "coords": [21.174976, 38.867765]}, {"name": "Limni Amvrakia", "text": "Lake Amvrakia din Amfilochia oferă un cadru liniștit pentru plimbări relaxante pe malul apei.", "category": "natural", "coords": [21.188843, 38.791896]}], "en": [{"name": "Paralia Amfilochias", "text": "Located right in Amfilochia, Paralia Amfilochias provides easy access to the Greek sea. The typical local beach vibe invites you for a relaxing swim or some downtime by the water. An early morning visit often offers the most peaceful experience.", "category": "recreational", "coords": [21.174976, 38.867765]}, {"name": "Lake Amvrakia", "text": "Lake Amvrakia in Amfilochia offers a peaceful setting for relaxing walks by the water.", "category": "natural", "coords": [21.188843, 38.791896]}]},
+    id: "greece-amfilochia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Direkt in Amfilochia gelegen, ermöglicht die Paralia Amfilochias einen unkomplizierten Zugang zum griechischen Meer. Die typisch lokale Strandatmosphäre lädt zu entspannten Schwimmrunden oder zum Verweilen am Wasser ein. Ein kurzer Besuch am Morgen bietet oft die meiste Ruhe.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            },
+            {
+                  "name": "Amvrakia-See",
+                  "text": "Der Lake Amvrakia in Amfilochia lädt zu entspannten Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
+            },
+            {
+                  "name": "Arkhaia Limnaia",
+                  "text": "Die Ausgrabungsstätte der antiken Stadt Limnaia in Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168321,
+                        38.858725
+                  ]
+            },
+            {
+                  "name": "Akropole Arkhaias Limnaias",
+                  "text": "Überreste der antiken Akropolis von Limnaia in Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168357,
+                        38.857647
+                  ]
+            },
+            {
+                  "name": "Ereipomeno Mesaioniko Khorio tes Ambrakias",
+                  "text": "Ruinen eines mittelalterlichen Dorfes in der Region Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.160341,
+                        38.82447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Közvetlenül Amfilochia városában található a Paralia Amfilochias, amely könnyű hozzáférést biztosít a görög tengerhez. A jellegzetes helyi strandhangulat nyugodt úszásra vagy a vízparti pihenésre csábít. Egy kora reggeli látogatás gyakran a legbékésebb élményt nyújtja.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            },
+            {
+                  "name": "Limni Amvrakia",
+                  "text": "Az Amfilochia közelében fekvő Lake Amvrakia békés környezetet kínál egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
+            },
+            {
+                  "name": "Arkhaia Limnaia",
+                  "text": "Limnaia ókori városának régészeti lelőhelye Amfilochiában.",
+                  "category": "historical",
+                  "coords": [
+                        21.168321,
+                        38.858725
+                  ]
+            },
+            {
+                  "name": "Akropole Arkhaias Limnaias",
+                  "text": "Limnaia ókori fellegvárának romjai Amfilochiában.",
+                  "category": "historical",
+                  "coords": [
+                        21.168357,
+                        38.857647
+                  ]
+            },
+            {
+                  "name": "Ereipomeno Mesaioniko Khorio tes Ambrakias",
+                  "text": "Egy középkori falu romjai Amfilochia környékén.",
+                  "category": "historical",
+                  "coords": [
+                        21.160341,
+                        38.82447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Situată direct în Amfilochia, Paralia Amfilochias oferă un acces simplu la marea grecească. Atmosfera locală tipică a plajei vă invită la o sesiune relaxantă de înot sau la odihnă lângă apă. O vizită scurtă dimineața devreme aduce adesea cea mai multă liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            },
+            {
+                  "name": "Limni Amvrakia",
+                  "text": "Lake Amvrakia din Amfilochia oferă un cadru liniștit pentru plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
+            },
+            {
+                  "name": "Arkhaia Limnaia",
+                  "text": "Situl arheologic al orașului antic Limnaia în Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168321,
+                        38.858725
+                  ]
+            },
+            {
+                  "name": "Akropole Arkhaias Limnaias",
+                  "text": "Rămășițele acropolei antice Limnaia din Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168357,
+                        38.857647
+                  ]
+            },
+            {
+                  "name": "Ereipomeno Mesaioniko Khorio tes Ambrakias",
+                  "text": "Ruinele unui sat medieval din regiunea Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.160341,
+                        38.82447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Located right in Amfilochia, Paralia Amfilochias provides easy access to the Greek sea. The typical local beach vibe invites you for a relaxing swim or some downtime by the water. An early morning visit often offers the most peaceful experience.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            },
+            {
+                  "name": "Lake Amvrakia",
+                  "text": "Lake Amvrakia in Amfilochia offers a peaceful setting for relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        21.188843,
+                        38.791896
+                  ]
+            },
+            {
+                  "name": "Arkhaia Limnaia",
+                  "text": "The archaeological site of the ancient city of Limnaea in Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168321,
+                        38.858725
+                  ]
+            },
+            {
+                  "name": "Akropole Arkhaias Limnaias",
+                  "text": "Remains of the ancient acropolis of Limnaia in Amfilochia.",
+                  "category": "historical",
+                  "coords": [
+                        21.168357,
+                        38.857647
+                  ]
+            },
+            {
+                  "name": "Ereipomeno Mesaioniko Khorio tes Ambrakias",
+                  "text": "Ruins of a medieval village in the Amfilochia region.",
+                  "category": "historical",
+                  "coords": [
+                        21.160341,
+                        38.82447
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Amfilochia", hu: "Amfilohía", ro: "Amfilochia", en: "Amfilochia" },
@@ -6600,7 +10785,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-patmos-cities-v2.webp",
   },
   {
-    id: "greece-samos-vathy-cities-v2",
+    id: "greece-samos-vathy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaeological Museum of Vathy",
+                  "text": "Das Museum beherbergt bedeutende Funde von Samos, darunter die berühmte Kouros-Statue.",
+                  "category": "museum",
+                  "coords": [
+                        26.978634,
+                        37.754585
+                  ]
+            },
+            {
+                  "name": "Samos Wine Museum",
+                  "text": "Das Museum widmet sich der Geschichte und Produktion der berühmten Samos-Weine.",
+                  "category": "museum",
+                  "coords": [
+                        26.961434,
+                        37.750048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaeological Museum of Vathy",
+                  "text": "A múzeum Szamosz jelentős leleteit őrzi, köztük a híres kurosz-szobrot.",
+                  "category": "museum",
+                  "coords": [
+                        26.978634,
+                        37.754585
+                  ]
+            },
+            {
+                  "name": "Samos Wine Museum",
+                  "text": "A múzeum a híres szamoszi borok történetének és előállításának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.961434,
+                        37.750048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaeological Museum of Vathy",
+                  "text": "Muzeul adăpostește descoperiri importante din Samos, inclusiv celebra statuie Kouros.",
+                  "category": "museum",
+                  "coords": [
+                        26.978634,
+                        37.754585
+                  ]
+            },
+            {
+                  "name": "Samos Wine Museum",
+                  "text": "Muzeul este dedicat istoriei și producției faimoaselor vinuri de Samos.",
+                  "category": "museum",
+                  "coords": [
+                        26.961434,
+                        37.750048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Vathy",
+                  "text": "The museum houses significant finds from Samos, including the famous Kouros statue.",
+                  "category": "museum",
+                  "coords": [
+                        26.978634,
+                        37.754585
+                  ]
+            },
+            {
+                  "name": "Samos Wine Museum",
+                  "text": "The museum is dedicated to the history and production of the famous Samos wines.",
+                  "category": "museum",
+                  "coords": [
+                        26.961434,
+                        37.750048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Vathy", hu: "Vathi", ro: "Vathy", en: "Vathy" },
@@ -6799,6 +11065,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.473917,
                         37.509197
                   ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Πόρου",
+                  "text": "Dieses Museum in Poros-Stadt zeigt Funde aus dem Poseidon-Heiligtum und anderen lokalen antiken Stätten.",
+                  "category": "museum",
+                  "coords": [
+                        23.454672,
+                        37.498439
+                  ]
+            },
+            {
+                  "name": "Megali Magoula",
+                  "text": "Eine archäologische Stätte bei Poros-Stadt mit antiken Befestigungsanlagen und historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        23.424758,
+                        37.500825
+                  ]
+            },
+            {
+                  "name": "Mycenean tomb",
+                  "text": "Eine antike mykenische Grabstätte bei Poros, die die Geschichte der Region in der Bronzezeit widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        23.423546,
+                        37.501962
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Νεώριο",
+                  "text": "Ein beliebter Sandstrand auf der Insel Poros, umgeben von Pinien und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        23.443923,
+                        37.512717
+                  ]
+            },
+            {
+                  "name": "Μικρό Νεώριο",
+                  "text": "Ein kleinerer, ruhigerer Strandabschnitt bei Poros-Stadt, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.447616,
+                        37.5085
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι Πόρου",
+                  "text": "Eine kleine Festung auf einer Insel am Eingang des Hafens von Poros.",
+                  "category": "castle",
+                  "coords": [
+                        23.474877,
+                        37.490377
+                  ]
             }
       ],
       "hu": [
@@ -6818,6 +11138,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.473917,
                         37.509197
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Πόρου",
+                  "text": "Ez a Porosz városában található múzeum a Poszeidón-szentélyből és más helyi ókori lelőhelyekről származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.454672,
+                        37.498439
+                  ]
+            },
+            {
+                  "name": "Megali Magoula",
+                  "text": "Régészeti lelőhely Porosz városa közelében, ókori erődítményekkel és történelmi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        23.424758,
+                        37.500825
+                  ]
+            },
+            {
+                  "name": "Mycenean tomb",
+                  "text": "Porosz közelében található ókori mükénéi temetkezési hely, amely a terület bronzkori történelmét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        23.423546,
+                        37.501962
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Νεώριο",
+                  "text": "Népszerű homokos strand Porosz szigetén, fenyőfákkal és tiszta vízzel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        23.443923,
+                        37.512717
+                  ]
+            },
+            {
+                  "name": "Μικρό Νεώριο",
+                  "text": "Kisebb, csendesebb strandrész Porosz városa közelében, amely ideális úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        23.447616,
+                        37.5085
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι Πόρου",
+                  "text": "Kicsiny erőd egy szigeten a poroszzi kikötő bejáratánál.",
+                  "category": "castle",
+                  "coords": [
+                        23.474877,
+                        37.490377
                   ]
             }
       ],
@@ -6839,6 +11213,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.473917,
                         37.509197
                   ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Πόρου",
+                  "text": "Acest muzeu din orașul Poros expune descoperiri de la Sanctuarul lui Poseidon și din alte situri antice locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.454672,
+                        37.498439
+                  ]
+            },
+            {
+                  "name": "Megali Magoula",
+                  "text": "Un sit arheologic lângă orașul Poros, cu fortificații antice și rămășițe istorice.",
+                  "category": "historical",
+                  "coords": [
+                        23.424758,
+                        37.500825
+                  ]
+            },
+            {
+                  "name": "Mycenean tomb",
+                  "text": "Un sit funerar micenian antic situat lângă Poros, care reflectă istoria epocii bronzului din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        23.423546,
+                        37.501962
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Νεώριο",
+                  "text": "O plajă populară cu nisip de pe insula Poros, înconjurată de pini și ape clare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.443923,
+                        37.512717
+                  ]
+            },
+            {
+                  "name": "Μικρό Νεώριο",
+                  "text": "O zonă de plajă mai mică și mai liniștită lângă orașul Poros, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        23.447616,
+                        37.5085
+                  ]
+            },
+            {
+                  "name": "Μπούρτζι Πόρου",
+                  "text": "O mică fortăreață construită pe o insulă la intrarea în portul Poros.",
+                  "category": "castle",
+                  "coords": [
+                        23.474877,
+                        37.490377
+                  ]
             }
       ],
       "en": [
@@ -6858,6 +11286,60 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.473917,
                         37.509197
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Poros",
+                  "text": "This museum in Poros Town displays finds from the Sanctuary of Poseidon and other local ancient sites.",
+                  "category": "museum",
+                  "coords": [
+                        23.454672,
+                        37.498439
+                  ]
+            },
+            {
+                  "name": "Megali Magoula",
+                  "text": "An archaeological site near Poros Town featuring ancient fortifications and historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        23.424758,
+                        37.500825
+                  ]
+            },
+            {
+                  "name": "Mycenean tomb",
+                  "text": "An ancient Mycenaean burial site located near Poros, reflecting the area's Bronze Age history.",
+                  "category": "historical",
+                  "coords": [
+                        23.423546,
+                        37.501962
+                  ]
+            },
+            {
+                  "name": "Neorio Beach",
+                  "text": "A popular sandy beach on Poros island, surrounded by pine trees and clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        23.443923,
+                        37.512717
+                  ]
+            },
+            {
+                  "name": "Small Neorio Beach",
+                  "text": "A smaller, quieter beach area near Poros Town, ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.447616,
+                        37.5085
+                  ]
+            },
+            {
+                  "name": "Burtzi of Poros",
+                  "text": "A small fortress built on an islet at the entrance of Poros harbor.",
+                  "category": "castle",
+                  "coords": [
+                        23.474877,
+                        37.490377
                   ]
             }
       ]
@@ -6906,7 +11388,304 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-poros-town-cities-v2.webp",
   },
   {
-    id: "greece-spetses-town-cities-v2", "sights": {"de": [{"name": "Ververonta", "text": "Der See Ververonda in Spetses Town besticht durch seine schöne Landschaft, die ideal für Naturbeobachtungen ist.", "category": "natural", "coords": [23.13052, 37.330878]}], "hu": [{"name": "Ververonta", "text": "A Spetses Town mellett található Ververonda tó gyönyörű tájával ideális helyszín a természet kedvelőinek.", "category": "natural", "coords": [23.13052, 37.330878]}], "ro": [{"name": "Ververonta", "text": "Lacul Ververonda din Spetses Town se bucură de un peisaj frumos, perfect pentru cei care iubesc natura.", "category": "natural", "coords": [23.13052, 37.330878]}], "en": [{"name": "Ververonda", "text": "Ververonda lake in Spetses Town features a beautiful landscape that is ideal for nature lovers.", "category": "natural", "coords": [23.13052, 37.330878]}]},
+    id: "greece-spetses-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ververonta",
+                  "text": "Der See Ververonda in Spetses Town besticht durch seine schöne Landschaft, die ideal für Naturbeobachtungen ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            },
+            {
+                  "name": "Οικία Λασκαρίνας Μπουμπουλίνας",
+                  "text": "Das Museum im ehemaligen Wohnhaus ist der griechischen Revolutionsheldin Laskarina Bouboulina gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        23.154344,
+                        37.26762
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών",
+                  "text": "Das Museum befindet sich im historischen Mexi-Herrenhaus und zeigt lokale archäologische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        23.155864,
+                        37.264299
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών-Αρχοντικό Χατζηγιάννη Μέξη",
+                  "text": "Ein Museum auf der Insel Spetses, das die Seefahrtsgeschichte und Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.149665,
+                        37.268153
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Ein beliebter Sandstrand in der Nähe von Spetses mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        23.163296,
+                        37.252671
+                  ]
+            },
+            {
+                  "name": "Spetses creek anchorage, Sperses",
+                  "text": "Ein malerischer Ankerplatz für Boote in einer Bucht bei Spetses.",
+                  "category": "landmark",
+                  "coords": [
+                        23.165875,
+                        37.262667
+                  ]
+            },
+            {
+                  "name": "Sound of the sea",
+                  "text": "Ein Aussichtspunkt am Meer, der für seine ruhige Atmosphäre in Spetses bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.159866,
+                        37.265937
+                  ]
+            },
+            {
+                  "name": "Iason Orlandos Studio  -  Art Space",
+                  "text": "Ein Kunstraum und Atelier, das zeitgenössische Werke lokaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.15714,
+                        37.26451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ververonta",
+                  "text": "A Spetses Town mellett található Ververonda tó gyönyörű tájával ideális helyszín a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            },
+            {
+                  "name": "Οικία Λασκαρίνας Μπουμπουλίνας",
+                  "text": "A görög forradalmi hős, Laszkarína Bubulína egykori lakóházában berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.154344,
+                        37.26762
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών",
+                  "text": "A múzeum a történelmi Mexi-kúriában található, és helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.155864,
+                        37.264299
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών-Αρχοντικό Χατζηγιάννη Μέξη",
+                  "text": "Múzeum Szpécesz szigetén, amely a régió tengerészeti történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.149665,
+                        37.268153
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Népszerű homokos strand Szpécesz közelében, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        23.163296,
+                        37.252671
+                  ]
+            },
+            {
+                  "name": "Spetses creek anchorage, Sperses",
+                  "text": "Festői horgonyzóhely hajók számára egy öbölben Szpécesz közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.165875,
+                        37.262667
+                  ]
+            },
+            {
+                  "name": "Sound of the sea",
+                  "text": "Tengerparti kilátóhely, amely nyugodt hangulatáról ismert Szpéceszen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.159866,
+                        37.265937
+                  ]
+            },
+            {
+                  "name": "Iason Orlandos Studio  -  Art Space",
+                  "text": "Művészeti stúdió és kiállítótér, ahol helyi művészek kortárs alkotásait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        23.15714,
+                        37.26451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ververonta",
+                  "text": "Lacul Ververonda din Spetses Town se bucură de un peisaj frumos, perfect pentru cei care iubesc natura.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            },
+            {
+                  "name": "Οικία Λασκαρίνας Μπουμπουλίνας",
+                  "text": "Muzeul amenajat în fosta reședință a eroinei revoluționare elene Laskarina Bouboulina.",
+                  "category": "museum",
+                  "coords": [
+                        23.154344,
+                        37.26762
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών",
+                  "text": "Muzeul este găzduit în conacul istoric Mexi și expune descoperiri arheologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.155864,
+                        37.264299
+                  ]
+            },
+            {
+                  "name": "Μουσείο Σπετσών-Αρχοντικό Χατζηγιάννη Μέξη",
+                  "text": "Un muzeu pe insula Spetses care prezintă istoria maritimă și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        23.149665,
+                        37.268153
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "O plajă de nisip populară lângă Spetses, cu ape de cristal.",
+                  "category": "recreational",
+                  "coords": [
+                        23.163296,
+                        37.252671
+                  ]
+            },
+            {
+                  "name": "Spetses creek anchorage, Sperses",
+                  "text": "Un loc pitoresc de ancorare pentru ambarcațiuni într-un golf de lângă Spetses.",
+                  "category": "landmark",
+                  "coords": [
+                        23.165875,
+                        37.262667
+                  ]
+            },
+            {
+                  "name": "Sound of the sea",
+                  "text": "Un punct de observație la malul mării, cunoscut pentru atmosfera sa liniștită în Spetses.",
+                  "category": "landmark",
+                  "coords": [
+                        23.159866,
+                        37.265937
+                  ]
+            },
+            {
+                  "name": "Iason Orlandos Studio  -  Art Space",
+                  "text": "Un spațiu de artă și studio care expune lucrări contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        23.15714,
+                        37.26451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ververonda",
+                  "text": "Ververonda lake in Spetses Town features a beautiful landscape that is ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        23.13052,
+                        37.330878
+                  ]
+            },
+            {
+                  "name": "Laskarina Bouboulina museum",
+                  "text": "The museum, housed in the former residence of the Greek revolutionary heroine Laskarina Bouboulina.",
+                  "category": "museum",
+                  "coords": [
+                        23.154344,
+                        37.26762
+                  ]
+            },
+            {
+                  "name": "Museum of Spetses",
+                  "text": "The museum is housed in the historic Mexi mansion and displays local archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        23.155864,
+                        37.264299
+                  ]
+            },
+            {
+                  "name": "Spetses Museum",
+                  "text": "A museum on Spetses island showcasing the maritime history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.149665,
+                        37.268153
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "A popular sandy beach near Spetses Town featuring crystal-clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        23.163296,
+                        37.252671
+                  ]
+            },
+            {
+                  "name": "Spetses creek anchorage, Sperses",
+                  "text": "A scenic anchorage spot for boats in a cove near Spetses Town.",
+                  "category": "landmark",
+                  "coords": [
+                        23.165875,
+                        37.262667
+                  ]
+            },
+            {
+                  "name": "Sound of the sea",
+                  "text": "A seaside viewpoint known for its peaceful atmosphere in Spetses Town.",
+                  "category": "landmark",
+                  "coords": [
+                        23.159866,
+                        37.265937
+                  ]
+            },
+            {
+                  "name": "Iason Orlandos Studio  -  Art Space",
+                  "text": "An art space and studio exhibiting contemporary works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        23.15714,
+                        37.26451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Spetses Stadt", hu: "Szpécesz város", ro: "Spetses Town", en: "Spetses Town" },
@@ -6951,7 +11730,304 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-spetses-town-cities-v2.webp",
   },
   {
-    id: "greece-hydra-town-cities-v2",
+    id: "greece-hydra-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αρχοντικό Παύλου Κουντουριώτη",
+                  "text": "Das Herrenhaus des griechischen Helden Pavlos Kountouriotis dient heute als Museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.463515,
+                        37.350945
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Αρχείο - Μουσείο Ύδρας",
+                  "text": "Das Historische Archiv und Museum von Hydra dokumentiert die maritime Geschichte der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        23.467039,
+                        37.351745
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "Ein charmanter Kiesstrand in der Nähe der Stadt Hydra mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        23.457421,
+                        37.347606
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "Ein entspannter Strandabschnitt auf der Insel Hydra, ideal zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.439708,
+                        37.3378
+                  ]
+            },
+            {
+                  "name": "Mandraki",
+                  "text": "Ein organisierter Sandstrand in einer geschützten Bucht auf Hydra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485463,
+                        37.35414
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "Ein kleiner, felsiger Strand mit klarem Wasser und herrlicher Aussicht.",
+                  "category": "recreational",
+                  "coords": [
+                        23.461699,
+                        37.35048
+                  ]
+            },
+            {
+                  "name": "Έρες",
+                  "text": "Der höchste Gipfel der Insel Hydra bietet einen weiten Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        23.459075,
+                        37.328247
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου",
+                  "text": "Ein friedliches orthodoxes Kloster, das dem heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.496385,
+                        37.346875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχοντικό Παύλου Κουντουριώτη",
+                  "text": "Pavlosz Kunturiotisz görög hős kúriája ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.463515,
+                        37.350945
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Αρχείο - Μουσείο Ύδρας",
+                  "text": "Ídra Történeti Archívuma és Múzeuma a sziget tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.467039,
+                        37.351745
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "Egy bájos kavicsos strand Ídra városa közelében, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        23.457421,
+                        37.347606
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "Egy nyugodt strand Ídra szigetén, amely ideális úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.439708,
+                        37.3378
+                  ]
+            },
+            {
+                  "name": "Mandraki",
+                  "text": "Egy kiépített homokos strand egy védett öbölben Ídrán.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485463,
+                        37.35414
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "Egy kis, sziklás strand tiszta vízzel és gyönyörű kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        23.461699,
+                        37.35048
+                  ]
+            },
+            {
+                  "name": "Έρες",
+                  "text": "Ídra szigetének legmagasabb csúcsa, amely széles körpanorámát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.459075,
+                        37.328247
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου",
+                  "text": "Egy békés ortodox kolostor, amelyet Szent Miklósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.496385,
+                        37.346875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχοντικό Παύλου Κουντουριώτη",
+                  "text": "Conacul eroului grec Pavlos Kountouriotis funcționează astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        23.463515,
+                        37.350945
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Αρχείο - Μουσείο Ύδρας",
+                  "text": "Arhivele Istorice și Muzeul din Hydra documentează istoria maritimă a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        23.467039,
+                        37.351745
+                  ]
+            },
+            {
+                  "name": "Καμίνια",
+                  "text": "O plajă cu pietriș fermecătoare lângă orașul Hydra, cu ape cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        23.457421,
+                        37.347606
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "O zonă de plajă relaxantă pe insula Hydra, ideală pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        23.439708,
+                        37.3378
+                  ]
+            },
+            {
+                  "name": "Mandraki",
+                  "text": "O plajă cu nisip amenajată într-un golf protejat pe Hydra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485463,
+                        37.35414
+                  ]
+            },
+            {
+                  "name": "Αυλάκι",
+                  "text": "O mică plajă stâncoasă cu apă limpede și vederi frumoase.",
+                  "category": "recreational",
+                  "coords": [
+                        23.461699,
+                        37.35048
+                  ]
+            },
+            {
+                  "name": "Έρες",
+                  "text": "Cel mai înalt vârf de pe insula Hydra, oferind o panoramă vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        23.459075,
+                        37.328247
+                  ]
+            },
+            {
+                  "name": "Μονή Αγίου Νικολάου",
+                  "text": "O mănăstire ortodoxă liniștită dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        23.496385,
+                        37.346875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pavlos Kountouriotis Mansion",
+                  "text": "The mansion of the Greek hero Pavlos Kountouriotis now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.463515,
+                        37.350945
+                  ]
+            },
+            {
+                  "name": "Museum of Hydra",
+                  "text": "The Historical Archives and Museum of Hydra documents the island's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        23.467039,
+                        37.351745
+                  ]
+            },
+            {
+                  "name": "Kamínia",
+                  "text": "A charming pebbly beach near Hydra Town with crystal clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        23.457421,
+                        37.347606
+                  ]
+            },
+            {
+                  "name": "Plakes",
+                  "text": "A relaxed beach area on the island of Hydra, ideal for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        23.439708,
+                        37.3378
+                  ]
+            },
+            {
+                  "name": "Mandraki",
+                  "text": "An organized sandy beach located in a sheltered bay on Hydra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485463,
+                        37.35414
+                  ]
+            },
+            {
+                  "name": "Avlaki",
+                  "text": "A small, rocky beach with clear water and beautiful views.",
+                  "category": "recreational",
+                  "coords": [
+                        23.461699,
+                        37.35048
+                  ]
+            },
+            {
+                  "name": "Eros",
+                  "text": "The highest peak on the island of Hydra, offering a wide panoramic view.",
+                  "category": "landmark",
+                  "coords": [
+                        23.459075,
+                        37.328247
+                  ]
+            },
+            {
+                  "name": "Monastery of Agios Nikolaos",
+                  "text": "A peaceful Orthodox monastery dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        23.496385,
+                        37.346875
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Hydra Stadt", hu: "Hüdra város", ro: "Hydra Town", en: "Hydra Town" },
@@ -7041,7 +12117,124 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-agios-kirykos-cities-v2.webp",
   },
   {
-    id: "greece-karpathos-town-cities-v2",
+    id: "greece-karpathos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cavetomb",
+                  "text": "Eine antike Grabstätte in Karpathos-Stadt mit in den Fels gehauenen Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        27.197616,
+                        35.500827
+                  ]
+            },
+            {
+                  "name": "Little Amoopi Beach",
+                  "text": "Ein beliebter Sandstrand bei Karpathos-Stadt, der für sein klares türkisfarbenes Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        27.197724,
+                        35.479037
+                  ]
+            },
+            {
+                  "name": "Platon",
+                  "text": "Eine lokale Sehenswürdigkeit in Karpathos-Stadt, die Besucher zur Erkundung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.211922,
+                        35.507593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cavetomb",
+                  "text": "Karpathosz városában található ősi temetkezési hely sziklába vájt sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        27.197616,
+                        35.500827
+                  ]
+            },
+            {
+                  "name": "Little Amoopi Beach",
+                  "text": "Karpathosz város közeli népszerű homokos strand, amely tiszta, türkizkék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.197724,
+                        35.479037
+                  ]
+            },
+            {
+                  "name": "Platon",
+                  "text": "Helyi látnivaló Karpathosz városában, amely felfedezésre várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        27.211922,
+                        35.507593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cavetomb",
+                  "text": "Un sit funerar antic situat în orașul Karpathos, care prezintă morminte săpate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        27.197616,
+                        35.500827
+                  ]
+            },
+            {
+                  "name": "Little Amoopi Beach",
+                  "text": "O plajă cu nisip populară lângă orașul Karpathos, cunoscută pentru apele sale turcoaz limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.197724,
+                        35.479037
+                  ]
+            },
+            {
+                  "name": "Platon",
+                  "text": "Un punct de interes local în orașul Karpathos, care invită la explorare.",
+                  "category": "landmark",
+                  "coords": [
+                        27.211922,
+                        35.507593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cavetomb",
+                  "text": "An ancient burial site located in Karpathos Town featuring rock-cut tombs.",
+                  "category": "historical",
+                  "coords": [
+                        27.197616,
+                        35.500827
+                  ]
+            },
+            {
+                  "name": "Little Amoopi Beach",
+                  "text": "A popular sandy beach near Karpathos Town known for its clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        27.197724,
+                        35.479037
+                  ]
+            },
+            {
+                  "name": "Platon",
+                  "text": "A local point of interest in Karpathos Town that invites visitors to explore.",
+                  "category": "landmark",
+                  "coords": [
+                        27.211922,
+                        35.507593
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Karpathos Stadt", hu: "Kárpathosz város", ro: "Karpathos Town", en: "Karpathos Town" },
@@ -7086,7 +12279,268 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-karpathos-town-cities-v2.webp",
   },
   {
-    id: "greece-leros-town-cities-v2",
+    id: "greece-leros-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λέρου",
+                  "text": "Museum in Agia Marina, das archäologische Funde aus der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.853683,
+                        37.155338
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παντελίου",
+                  "text": "Eine historische Burg mit Blick auf die Stadt Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.859442,
+                        37.156202
+                  ]
+            },
+            {
+                  "name": "Βρομόλιθος",
+                  "text": "Ein beliebter Strand bei Agia Marina, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        26.859857,
+                        37.144059
+                  ]
+            },
+            {
+                  "name": "Μπούρτσι Αγίας Μαρίνας",
+                  "text": "Kleine Befestigungsanlage am Meer in Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.854675,
+                        37.160306
+                  ]
+            },
+            {
+                  "name": "Dyo Liskaria",
+                  "text": "Ein Küstenstrandabschnitt in Agia Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.848473,
+                        37.169915
+                  ]
+            },
+            {
+                  "name": "Μουσείο Λεριακού Τύπου",
+                  "text": "Museum in Agia Marina, das der Geschichte der Presse und des Drucks gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.835693,
+                        37.16372
+                  ]
+            },
+            {
+                  "name": "Kryfos",
+                  "text": "Ein abgelegener Strand in der Gegend von Agia Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.850002,
+                        37.175729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λέρου",
+                  "text": "Régészeti múzeum Agia Marinában, amely a régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.853683,
+                        37.155338
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παντελίου",
+                  "text": "Történelmi vár, amely Agia Marina városára néz.",
+                  "category": "castle",
+                  "coords": [
+                        26.859442,
+                        37.156202
+                  ]
+            },
+            {
+                  "name": "Βρομόλιθος",
+                  "text": "Népszerű strand Agia Marina közelében, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        26.859857,
+                        37.144059
+                  ]
+            },
+            {
+                  "name": "Μπούρτσι Αγίας Μαρίνας",
+                  "text": "Kis tengerparti erődítmény Agia Marinában.",
+                  "category": "castle",
+                  "coords": [
+                        26.854675,
+                        37.160306
+                  ]
+            },
+            {
+                  "name": "Dyo Liskaria",
+                  "text": "Tengerparti strand Agia Marinában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.848473,
+                        37.169915
+                  ]
+            },
+            {
+                  "name": "Μουσείο Λεριακού Τύπου",
+                  "text": "A sajtó és a nyomtatás történetének szentelt múzeum Agia Marinában.",
+                  "category": "museum",
+                  "coords": [
+                        26.835693,
+                        37.16372
+                  ]
+            },
+            {
+                  "name": "Kryfos",
+                  "text": "Egy eldugott strand Agia Marina környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.850002,
+                        37.175729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λέρου",
+                  "text": "Muzeu din Agia Marina care expune descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        26.853683,
+                        37.155338
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παντελίου",
+                  "text": "Un castel istoric care domină orașul Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.859442,
+                        37.156202
+                  ]
+            },
+            {
+                  "name": "Βρομόλιθος",
+                  "text": "O plajă populară lângă Agia Marina, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.859857,
+                        37.144059
+                  ]
+            },
+            {
+                  "name": "Μπούρτσι Αγίας Μαρίνας",
+                  "text": "Mică fortificație de coastă situată în Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.854675,
+                        37.160306
+                  ]
+            },
+            {
+                  "name": "Dyo Liskaria",
+                  "text": "O zonă de plajă situată în Agia Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.848473,
+                        37.169915
+                  ]
+            },
+            {
+                  "name": "Μουσείο Λεριακού Τύπου",
+                  "text": "Muzeu dedicat istoriei presei și tiparului în Agia Marina.",
+                  "category": "museum",
+                  "coords": [
+                        26.835693,
+                        37.16372
+                  ]
+            },
+            {
+                  "name": "Kryfos",
+                  "text": "O plajă retrasă situată în zona Agia Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.850002,
+                        37.175729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Museum in Agia Marina displaying archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.853683,
+                        37.155338
+                  ]
+            },
+            {
+                  "name": "Pantelio Castle",
+                  "text": "A historic castle overlooking the town of Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.859442,
+                        37.156202
+                  ]
+            },
+            {
+                  "name": "Vromolithos",
+                  "text": "A popular beach near Agia Marina known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        26.859857,
+                        37.144059
+                  ]
+            },
+            {
+                  "name": "Bourtsi of Agia Marina",
+                  "text": "Small seaside fortification located in Agia Marina.",
+                  "category": "castle",
+                  "coords": [
+                        26.854675,
+                        37.160306
+                  ]
+            },
+            {
+                  "name": "Dyo Liskaria",
+                  "text": "A coastal beach area situated in Agia Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.848473,
+                        37.169915
+                  ]
+            },
+            {
+                  "name": "Press Museum",
+                  "text": "Museum dedicated to the history of the press and printing in Agia Marina.",
+                  "category": "museum",
+                  "coords": [
+                        26.835693,
+                        37.16372
+                  ]
+            },
+            {
+                  "name": "Kryfos",
+                  "text": "A secluded beach located in the Agia Marina area.",
+                  "category": "recreational",
+                  "coords": [
+                        26.850002,
+                        37.175729
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Agia Marina", hu: "Ajía Marína", ro: "Agia Marina", en: "Agia Marina" },
@@ -7195,6 +12649,51 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.352214,
                         36.542356
                   ]
+            },
+            {
+                  "name": "Κάστρο Αστυπάλαιας",
+                  "text": "Eine venezianische Burgruine, die den Hauptort der Insel Astypalaia überragt.",
+                  "category": "castle",
+                  "coords": [
+                        26.355518,
+                        36.544286
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum von Astypalea",
+                  "text": "Ein Museum in Astypalaia, das Fundstücke von der prähistorischen bis zur mittelalterlichen Zeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.352384,
+                        36.548659
+                  ]
+            },
+            {
+                  "name": "The Steno",
+                  "text": "Ein schmaler Strandabschnitt an der engsten Stelle der Insel Astypalaia.",
+                  "category": "recreational",
+                  "coords": [
+                        26.354243,
+                        36.566441
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωσταντίνος",
+                  "text": "Ein ruhiger Kieselstrand auf Astypalaia mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        26.353273,
+                        36.528066
+                  ]
+            },
+            {
+                  "name": "windmill",
+                  "text": "Historische Windmühle in der Stadt Astypalaia.",
+                  "category": "landmark",
+                  "coords": [
+                        26.351691,
+                        36.545758
+                  ]
             }
       ],
       "hu": [
@@ -7214,6 +12713,51 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.352214,
                         36.542356
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αστυπάλαιας",
+                  "text": "Velencei várrom, amely Astypalaia szigetének fő települése fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        26.355518,
+                        36.544286
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αστυπάλαιας",
+                  "text": "Astypalaia múzeuma, amely őskori és középkori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.352384,
+                        36.548659
+                  ]
+            },
+            {
+                  "name": "The Steno",
+                  "text": "Keskeny strandszakasz Astypalaia szigetének legszűkebb pontján.",
+                  "category": "recreational",
+                  "coords": [
+                        26.354243,
+                        36.566441
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωσταντίνος",
+                  "text": "Nyugodt kavicsos strand Astypalaián, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.353273,
+                        36.528066
+                  ]
+            },
+            {
+                  "name": "windmill",
+                  "text": "Történelmi szélmalom Asztipalea városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.351691,
+                        36.545758
                   ]
             }
       ],
@@ -7235,6 +12779,51 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.352214,
                         36.542356
                   ]
+            },
+            {
+                  "name": "Κάστρο Αστυπάλαιας",
+                  "text": "Ruinele unui castel venețian care domină localitatea principală de pe insula Astypalaia.",
+                  "category": "castle",
+                  "coords": [
+                        26.355518,
+                        36.544286
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αστυπάλαιας",
+                  "text": "Un muzeu în Astypalaia care expune descoperiri din preistorie până în epoca medievală.",
+                  "category": "museum",
+                  "coords": [
+                        26.352384,
+                        36.548659
+                  ]
+            },
+            {
+                  "name": "The Steno",
+                  "text": "O fâșie îngustă de plajă în cel mai îngust punct al insulei Astypalaia.",
+                  "category": "recreational",
+                  "coords": [
+                        26.354243,
+                        36.566441
+                  ]
+            },
+            {
+                  "name": "Άγιος Κωσταντίνος",
+                  "text": "O plajă liniștită cu pietriș pe Astypalaia, cu apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        26.353273,
+                        36.528066
+                  ]
+            },
+            {
+                  "name": "windmill",
+                  "text": "Moară de vânt istorică în orașul Astypalaia.",
+                  "category": "landmark",
+                  "coords": [
+                        26.351691,
+                        36.545758
+                  ]
             }
       ],
       "en": [
@@ -7254,6 +12843,51 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.352214,
                         36.542356
+                  ]
+            },
+            {
+                  "name": "Castle of Astypalaia",
+                  "text": "A Venetian castle ruin overlooking the main town of Astypalaia island.",
+                  "category": "castle",
+                  "coords": [
+                        26.355518,
+                        36.544286
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Astypalaia",
+                  "text": "A museum in Astypalaia displaying finds from prehistoric to medieval times.",
+                  "category": "museum",
+                  "coords": [
+                        26.352384,
+                        36.548659
+                  ]
+            },
+            {
+                  "name": "The Steno",
+                  "text": "A narrow beach section at the narrowest point of Astypalaia island.",
+                  "category": "recreational",
+                  "coords": [
+                        26.354243,
+                        36.566441
+                  ]
+            },
+            {
+                  "name": "Ag Konstantinos",
+                  "text": "A quiet pebble beach on Astypalaia with clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        26.353273,
+                        36.528066
+                  ]
+            },
+            {
+                  "name": "windmill",
+                  "text": "A historic windmill located in Astypalaia Town.",
+                  "category": "landmark",
+                  "coords": [
+                        26.351691,
+                        36.545758
                   ]
             }
       ]
@@ -7833,7 +13467,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-fira-cities-v2.webp",
   },
   {
-    id: "greece-kimolos-town-cities-v2",
+    id: "greece-kimolos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο της Κιμώλου",
+                  "text": "Die Überreste einer mittelalterlichen venezianischen Festung im Hauptort der Insel Kimolos.",
+                  "category": "castle",
+                  "coords": [
+                        24.574612,
+                        36.79192
+                  ]
+            },
+            {
+                  "name": "Παραλία Πήγαδος",
+                  "text": "Ein ruhiger Strand mit klarem Wasser in der Nähe des Hauptortes von Kimolos.",
+                  "category": "recreational",
+                  "coords": [
+                        24.592603,
+                        36.81618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο της Κιμώλου",
+                  "text": "Egy középkori velencei erőd maradványai Kimolos szigetének fő településén.",
+                  "category": "castle",
+                  "coords": [
+                        24.574612,
+                        36.79192
+                  ]
+            },
+            {
+                  "name": "Παραλία Πήγαδος",
+                  "text": "Nyugodt strand tiszta vízzel Kimolos fő településének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.592603,
+                        36.81618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο της Κιμώλου",
+                  "text": "Rămășițele unei fortificații venețiene medievale din localitatea principală a insulei Kimolos.",
+                  "category": "castle",
+                  "coords": [
+                        24.574612,
+                        36.79192
+                  ]
+            },
+            {
+                  "name": "Παραλία Πήγαδος",
+                  "text": "O plajă liniștită cu apă limpede, situată în apropierea localității principale din Kimolos.",
+                  "category": "recreational",
+                  "coords": [
+                        24.592603,
+                        36.81618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Kimolos",
+                  "text": "The remains of a medieval Venetian fortress in the main town of Kimolos island.",
+                  "category": "castle",
+                  "coords": [
+                        24.574612,
+                        36.79192
+                  ]
+            },
+            {
+                  "name": "Pigados Beach",
+                  "text": "A quiet beach with clear water located near the main town of Kimolos.",
+                  "category": "recreational",
+                  "coords": [
+                        24.592603,
+                        36.81618
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Kimolos Stadt", hu: "Kimólosz város", ro: "Kimolos Town", en: "Kimolos Town" },
@@ -7924,6 +13639,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.110795,
                         36.652202
                   ]
+            },
+            {
+                  "name": "Tower of Alopronoia",
+                  "text": "Historischer Turm in Sikinos-Stadt, der einen Teil der lokalen Befestigungsanlagen darstellt.",
+                  "category": "castle",
+                  "coords": [
+                        25.145923,
+                        36.675737
+                  ]
+            },
+            {
+                  "name": "Chrysopigi Monastery",
+                  "text": "Ein befestigtes Kloster in Sikinos-Stadt, bekannt für seine beeindruckende Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        25.124116,
+                        36.6984
+                  ]
+            },
+            {
+                  "name": "Panagia Pantanassa",
+                  "text": "Eine bedeutende Kirche in Sikinos-Stadt, die religiöse und historische Bedeutung hat.",
+                  "category": "religious",
+                  "coords": [
+                        25.119351,
+                        36.695972
+                  ]
             }
       ],
       "hu": [
@@ -7970,6 +13712,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.110795,
                         36.652202
+                  ]
+            },
+            {
+                  "name": "Tower of Alopronoia",
+                  "text": "Történelmi torony Szikinosz városában, a helyi erődítmények része.",
+                  "category": "castle",
+                  "coords": [
+                        25.145923,
+                        36.675737
+                  ]
+            },
+            {
+                  "name": "Chrysopigi Monastery",
+                  "text": "Megerősített kolostor Szikinosz városában, amely lenyűgöző építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        25.124116,
+                        36.6984
+                  ]
+            },
+            {
+                  "name": "Panagia Pantanassa",
+                  "text": "Jelentős templom Szikinosz városában, amely vallási és történelmi fontossággal bír.",
+                  "category": "religious",
+                  "coords": [
+                        25.119351,
+                        36.695972
                   ]
             }
       ],
@@ -8018,6 +13787,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         25.110795,
                         36.652202
                   ]
+            },
+            {
+                  "name": "Tower of Alopronoia",
+                  "text": "Turn istoric în orașul Sikinos, făcând parte din fortificațiile locale.",
+                  "category": "castle",
+                  "coords": [
+                        25.145923,
+                        36.675737
+                  ]
+            },
+            {
+                  "name": "Chrysopigi Monastery",
+                  "text": "O mănăstire fortificată din orașul Sikinos, cunoscută pentru arhitectura sa impresionantă.",
+                  "category": "castle",
+                  "coords": [
+                        25.124116,
+                        36.6984
+                  ]
+            },
+            {
+                  "name": "Panagia Pantanassa",
+                  "text": "O biserică importantă din orașul Sikinos, cu semnificație religioasă și istorică.",
+                  "category": "religious",
+                  "coords": [
+                        25.119351,
+                        36.695972
+                  ]
             }
       ],
       "en": [
@@ -8064,6 +13860,33 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         25.110795,
                         36.652202
+                  ]
+            },
+            {
+                  "name": "Tower of Alopronoia",
+                  "text": "Historical tower in Sikinos Town, part of the local fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        25.145923,
+                        36.675737
+                  ]
+            },
+            {
+                  "name": "Chrysopigi Monastery",
+                  "text": "A fortified monastery in Sikinos Town, known for its impressive architecture.",
+                  "category": "castle",
+                  "coords": [
+                        25.124116,
+                        36.6984
+                  ]
+            },
+            {
+                  "name": "Panagia Pantanassa",
+                  "text": "An important church in Sikinos Town with religious and historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        25.119351,
+                        36.695972
                   ]
             }
       ]
@@ -8202,7 +14025,304 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-anafi-town-cities-v2.webp",
   },
   {
-    id: "greece-ios-town-cities-v2", "sights": {"de": [{"name": "Fragµa Mylopotaµoy", "text": "Φράγµα Μυλοποτάµου in Ios Stadt ist eine Staudamm- und Seenlandschaft mit beeindruckender Kulisse zum Spazierengehen und Entspannen.", "category": "natural", "coords": [25.310525, 36.714515]}], "hu": [{"name": "Fragµa Mylopotaµoy", "text": "A Φράγµα Μυλοποτάµου Ios Townban egy gát és tóvidék, amely lenyűgöző tájjal szolgál a sétáláshoz és a kikapcsolódáshoz.", "category": "natural", "coords": [25.310525, 36.714515]}], "ro": [{"name": "Fragµa Mylopotaµoy", "text": "Φράγµα Μυλοποτάµου din orașul Ios este un baraj și o zonă de lac cu un peisaj impresionant pentru plimbări și relaxare.", "category": "natural", "coords": [25.310525, 36.714515]}], "en": [{"name": "Fragµa Mylopotaµoy", "text": "Φράγµα Μυλοποτάµου in Ios Town is a dam and lake area with impressive scenery for walking and relaxation.", "category": "natural", "coords": [25.310525, 36.714515]}]},
+    id: "greece-ios-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fragµa Mylopotaµoy",
+                  "text": "Φράγµα Μυλοποτάµου in Ios Stadt ist eine Staudamm- und Seenlandschaft mit beeindruckender Kulisse zum Spazierengehen und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Ίου",
+                  "text": "Ein Museum in Ios, das Funde aus der kykladischen und römischen Zeit präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.280966,
+                        36.721763
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art - Jean-Marie Drot",
+                  "text": "Ein Museum für moderne Kunst in Ios, gegründet von Jean-Marie Drot.",
+                  "category": "museum",
+                  "coords": [
+                        25.286334,
+                        36.714532
+                  ]
+            },
+            {
+                  "name": "Προϊστορικός οικισμός Σκάρκου",
+                  "text": "Eine bedeutende bronzezeitliche Siedlung auf Ios, eine der wichtigsten der Kykladen.",
+                  "category": "historical",
+                  "coords": [
+                        25.282986,
+                        36.731601
+                  ]
+            },
+            {
+                  "name": "Giannis Gaitis – Gabriella Simosis museum",
+                  "text": "Ein Kunstmuseum in Ios, das den Werken von Giannis Gaitis und Gabriella Simosis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.289271,
+                        36.723387
+                  ]
+            },
+            {
+                  "name": "Κολιτσάνι",
+                  "text": "Ein ruhiger und abgeschiedener Strand in der Nähe von Ios-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.279215,
+                        36.715989
+                  ]
+            },
+            {
+                  "name": "Τζαμαρία",
+                  "text": "Ein kleiner, windgeschützter Sandstrand mit klarem Wasser auf Ios.",
+                  "category": "recreational",
+                  "coords": [
+                        25.264647,
+                        36.724513
+                  ]
+            },
+            {
+                  "name": "Σαπουνόχωμα",
+                  "text": "Ein unberührter Strand auf Ios, bekannt für seine natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        25.301893,
+                        36.694261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fragµa Mylopotaµoy",
+                  "text": "A Φράγµα Μυλοποτάµου Ios Townban egy gát és tóvidék, amely lenyűgöző tájjal szolgál a sétáláshoz és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Ίου",
+                  "text": "Múzeum Iosz szigetén, amely kükládikus és római kori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        25.280966,
+                        36.721763
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art - Jean-Marie Drot",
+                  "text": "Modern művészeti múzeum Iosz szigetén, amelyet Jean-Marie Drot alapított.",
+                  "category": "museum",
+                  "coords": [
+                        25.286334,
+                        36.714532
+                  ]
+            },
+            {
+                  "name": "Προϊστορικός οικισμός Σκάρκου",
+                  "text": "Fontos bronzkori település Iosz szigetén, a Kükládok egyik legjelentősebb lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        25.282986,
+                        36.731601
+                  ]
+            },
+            {
+                  "name": "Giannis Gaitis – Gabriella Simosis museum",
+                  "text": "Ioszi művészeti múzeum, amely Giannis Gaitis és Gabriella Simosis műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.289271,
+                        36.723387
+                  ]
+            },
+            {
+                  "name": "Κολιτσάνι",
+                  "text": "Csendes és eldugott tengerparti strand Iosz városának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.279215,
+                        36.715989
+                  ]
+            },
+            {
+                  "name": "Τζαμαρία",
+                  "text": "Kicsi, széltől védett homokos strand tiszta vízzel Iosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.264647,
+                        36.724513
+                  ]
+            },
+            {
+                  "name": "Σαπουνόχωμα",
+                  "text": "Érintetlen tengerpart Iosz szigetén, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.301893,
+                        36.694261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fragµa Mylopotaµoy",
+                  "text": "Φράγµα Μυλοποτάµου din orașul Ios este un baraj și o zonă de lac cu un peisaj impresionant pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Ίου",
+                  "text": "Un muzeu din Ios care prezintă artefacte din perioadele cicladică și romană.",
+                  "category": "museum",
+                  "coords": [
+                        25.280966,
+                        36.721763
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art - Jean-Marie Drot",
+                  "text": "Un muzeu de artă modernă în Ios, fondat de Jean-Marie Drot.",
+                  "category": "museum",
+                  "coords": [
+                        25.286334,
+                        36.714532
+                  ]
+            },
+            {
+                  "name": "Προϊστορικός οικισμός Σκάρκου",
+                  "text": "O așezare importantă din epoca bronzului pe insula Ios, una dintre cele mai relevante din Ciclade.",
+                  "category": "historical",
+                  "coords": [
+                        25.282986,
+                        36.731601
+                  ]
+            },
+            {
+                  "name": "Giannis Gaitis – Gabriella Simosis museum",
+                  "text": "Un muzeu de artă în Ios dedicat operelor lui Giannis Gaitis și Gabriella Simosis.",
+                  "category": "museum",
+                  "coords": [
+                        25.289271,
+                        36.723387
+                  ]
+            },
+            {
+                  "name": "Κολιτσάνι",
+                  "text": "O plajă liniștită și retrasă situată în apropiere de orașul Ios.",
+                  "category": "recreational",
+                  "coords": [
+                        25.279215,
+                        36.715989
+                  ]
+            },
+            {
+                  "name": "Τζαμαρία",
+                  "text": "O plajă mică cu nisip și ape limpezi, protejată de vânt, pe insula Ios.",
+                  "category": "recreational",
+                  "coords": [
+                        25.264647,
+                        36.724513
+                  ]
+            },
+            {
+                  "name": "Σαπουνόχωμα",
+                  "text": "O plajă virgină pe insula Ios, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        25.301893,
+                        36.694261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fragµa Mylopotaµoy",
+                  "text": "Φράγµα Μυλοποτάµου in Ios Town is a dam and lake area with impressive scenery for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.310525,
+                        36.714515
+                  ]
+            },
+            {
+                  "name": "Archaeological museum of Ios",
+                  "text": "A museum in Ios displaying finds from the Cycladic and Roman periods.",
+                  "category": "museum",
+                  "coords": [
+                        25.280966,
+                        36.721763
+                  ]
+            },
+            {
+                  "name": "Museum of Modern Art - Jean-Marie Drot",
+                  "text": "A museum of modern art in Ios, established by Jean-Marie Drot.",
+                  "category": "museum",
+                  "coords": [
+                        25.286334,
+                        36.714532
+                  ]
+            },
+            {
+                  "name": "Pre-historic settlement of Skarkos",
+                  "text": "A significant Bronze Age settlement on Ios, one of the most important in the Cyclades.",
+                  "category": "historical",
+                  "coords": [
+                        25.282986,
+                        36.731601
+                  ]
+            },
+            {
+                  "name": "Giannis Gaitis – Gabriella Simosis museum",
+                  "text": "An art museum in Ios dedicated to the works of Giannis Gaitis and Gabriella Simosis.",
+                  "category": "museum",
+                  "coords": [
+                        25.289271,
+                        36.723387
+                  ]
+            },
+            {
+                  "name": "Kolitsani",
+                  "text": "A quiet and secluded beach located near Ios Town.",
+                  "category": "recreational",
+                  "coords": [
+                        25.279215,
+                        36.715989
+                  ]
+            },
+            {
+                  "name": "Tzamaria",
+                  "text": "A small, sheltered sandy beach with clear waters on the island of Ios.",
+                  "category": "recreational",
+                  "coords": [
+                        25.264647,
+                        36.724513
+                  ]
+            },
+            {
+                  "name": "Sapounochoma",
+                  "text": "A pristine beach on Ios known for its natural beauty and calm atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        25.301893,
+                        36.694261
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Ios Stadt", hu: "Iosz város", ro: "Ios Town", en: "Ios Town" },

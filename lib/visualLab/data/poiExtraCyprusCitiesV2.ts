@@ -3,7 +3,1996 @@ import { POI } from './poi';
 export const cyprusCitiesV2: POI[] = [
 
   {
-    id: "cyprus-strovolos-cities-v2", "sights": {"de": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Ein Museum in Strovolos, das eine umfangreiche Sammlung klassischer Motorräder zeigt.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert, das heute als Museum dient.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Ein ethnographisches Museum in einem restaurierten osmanischen Herrenhaus.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "Eine bedeutende Kunstgalerie in Nicosia mit Werken europäischer und zypriotischer Künstler.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Dimotiko Theatro Leykosias", "text": "Das wichtigste Theatergebäude der Stadt, ein Zentrum für darstellende Künste.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Tzami Mpairaktari", "text": "Eine bedeutende Moschee auf der Bairaktar-Bastion der venezianischen Mauern.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "Eine römisch-katholische Kirche in der Nähe des Paphos-Tors.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Büyük Hamam", "text": "Ein historisches türkisches Bad in einem ehemaligen mittelalterlichen Kirchengebäude.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "Ein traditioneller Marktplatz in der Altstadt von Nicosia.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Laiki Geitonia", "text": "Ein restauriertes Viertel mit traditioneller Architektur und Handwerksläden.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Zypernmuseum", "text": "Das größte und älteste archäologische Museum Zyperns.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Moyseio Astynomias Kyproy", "text": "Ein Museum, das sich der Geschichte der zypriotischen Polizei widmet.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Ein Denkmal und Friedhof für während des Unabhängigkeitskampfes hingerichtete Kämpfer.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "Eine mittelalterliche Halle, die heute als Kultur- und Ausstellungszentrum genutzt wird.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Ekklisia Faneromenis", "text": "Eine bedeutende orthodoxe Kirche im Herzen der Altstadt von Nicosia.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "Eine historische armenisch-apostolische Kirche in Nicosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "Eine dem Heiligen Antonius gewidmete Kirche in der Stadt.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Archaggelos Michail Trypiotis", "text": "Eine byzantinische Kirche mit beeindruckenden Schnitzereien und Ikonen.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "Die größte öffentliche Parkanlage in Nicosia, ideal zur Erholung.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "Die nationale Kunstgalerie, die Werke bedeutender zypriotischer Künstler ausstellt.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Tower Museum & Observatory", "text": "Ein Observatorium mit Museum, das einen Panoramablick über Nicosia bietet.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "Ein Freilichtmuseum, das sich mit der Geschichte der Wasserwirtschaft befasst.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY", "text": "Ein Museum zu Ehren des Erzbischofs Kyprianos, einem nationalen Märtyrer.", "category": "museum", "coords": [33.340049, 35.146191]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "Ein Zentrum zur Bewahrung und Ausstellung traditioneller zypriotischer Handwerkskunst.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Vyzantino Moyseio", "text": "Ein Museum mit einer reichen Sammlung byzantinischer Kunst und Ikonen.", "category": "museum", "coords": [33.367273, 35.173349]}, {"name": "Neo Kypriako Moyseio", "text": "Das Projekt für ein neues, modernes archäologisches Nationalmuseum in Nicosia.", "category": "museum", "coords": [33.353167, 35.171494]}, {"name": "Modern Gallery", "text": "Eine Galerie, die zeitgenössische und moderne Kunstwerke präsentiert.", "category": "museum", "coords": [33.317684, 35.161833]}, {"name": "Iron Art Gallery", "text": "Eine spezialisierte Kunstgalerie in Strovolos.", "category": "museum", "coords": [33.3378, 35.140808]}, {"name": "The Collection Gallery", "text": "Eine Galerie, die verschiedene Kunstsammlungen und Ausstellungen zeigt.", "category": "museum", "coords": [33.374932, 35.152099]}, {"name": "Out of Limits", "text": "Ein Ausstellungsraum für moderne Kunst in Strovolos.", "category": "museum", "coords": [33.353954, 35.157792]}, {"name": "ARUCAD Art Space", "text": "Ein kreativer Raum für Ausstellungen zeitgenössischer Kunst.", "category": "museum", "coords": [33.35989, 35.177294]}, {"name": "Nicholas Ladommatos", "text": "Eine Galerie, die Werke des Künstlers Nicholas Ladommatos präsentiert.", "category": "museum", "coords": [33.336016, 35.168797]}, {"name": "Vartan", "text": "Eine private Kunstgalerie in der Gegend von Nicosia.", "category": "museum", "coords": [33.351157, 35.148854]}, {"name": "Marginalia", "text": "Eine Galerie für zeitgenössische Kunst und kulturelle Veranstaltungen.", "category": "museum", "coords": [33.344131, 35.150156]}, {"name": "Kyklades", "text": "Eine Galerie in Strovolos, benannt nach den Kykladen.", "category": "museum", "coords": [33.36026, 35.172965]}, {"name": "Golden Gallery", "text": "Eine Kunstgalerie, die sich auf hochwertige zeitgenössische Werke spezialisiert hat.", "category": "museum", "coords": [33.360811, 35.166344]}, {"name": "Agios Georgios Archaeological site - Ledroi", "text": "Eine archäologische Stätte, die Überreste der antiken Stadt Ledroi zeigt.", "category": "historical", "coords": [33.35592, 35.164898]}, {"name": "Archaeological Park of the old Nicosia town hall", "text": "Ein archäologischer Park an der Stelle des alten Rathauses von Nicosia.", "category": "historical", "coords": [33.366066, 35.17355]}, {"name": "Markos Drakos Statue", "text": "Ein Denkmal in Strovolos, das dem zyprischen EOKA-Helden Markos Drakos gewidmet ist.", "category": "historical", "coords": [33.356012, 35.173617]}, {"name": "PsIFISMA", "text": "Ein Denkmal in Strovolos, das dem Thema Frieden gewidmet ist.", "category": "historical", "coords": [33.361433, 35.174427]}, {"name": "Zodia - Epistrofi Sylloros Apofoiton", "text": "Ein lokales Denkmal der Zodia Alumni Association in Strovolos.", "category": "historical", "coords": [33.358872, 35.140944]}, {"name": "José Martí 1853-1895 National Hero of the Republic of Cuba", "text": "Ein Denkmal in Strovolos zu Ehren des kubanischen Nationalhelden José Martí.", "category": "historical", "coords": [33.367276, 35.16844]}, {"name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS", "text": "Ein Denkmal am Kostas Papellinas Sportzentrum in Strovolos.", "category": "historical", "coords": [33.339588, 35.151333]}, {"name": "Monument to the Fallen and Missing", "text": "Ein Denkmal in Strovolos für die Gefallenen und Vermissten.", "category": "historical", "coords": [33.358618, 35.142425]}, {"name": "Russian Cultural Centre", "text": "Ein Kulturzentrum und Veranstaltungsort in Strovolos, der die russische Kultur fördert.", "category": "cultural", "coords": [33.362758, 35.160891]}, {"name": "Makarios III Amphitheatre", "text": "Ein Freiluft-Amphitheater in Strovolos, benannt nach Erzbischof Makarios III.", "category": "cultural", "coords": [33.355611, 35.150226]}, {"name": "Agios Georgios", "text": "Ein See bei Strovolos, der eine ruhige Oase in der Stadt bietet.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Ein kleiner See bei Strovolos, ideal für kurze Spaziergänge.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Ein bekannter See bei Strovolos in einem beliebten Erholungsgebiet.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Zembilas Park", "text": "Ein Park in Strovolos mit Spielbereichen für Kinder.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Papafilipou Luna Park", "text": "Ein Freizeitpark in Strovolos, der Unterhaltung für Kinder bietet.", "category": "family", "coords": [33.317663, 35.164158]}, {"name": "Bubble", "text": "Ein schöner Spielplatz in Strovolos für Kinder zum Austoben.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Hamam Omerye in Strovolos ist ein öffentliches Bad für Entspannung und Wellness.", "category": "family", "coords": [33.365357, 35.172563]}, {"name": "Tivoli Luna Park", "text": "Ein Freizeitpark in Strovolos mit verschiedenen Attraktionen für die ganze Familie.", "category": "family", "coords": [33.316931, 35.152055]}], "hu": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Klasszikus motorkerékpárok gyűjteményét bemutató múzeum Strovolosban.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "18. századi történelmi kúria, amely ma múzeumként működik.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Néprajzi múzeum egy restaurált oszmán kori kúriában.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "Jelentős művészeti galéria Nicosiában, európai és ciprusi művészek alkotásaival.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Dimotiko Theatro Leykosias", "text": "A város legfontosabb színházépülete, az előadóművészetek központja.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Tzami Mpairaktari", "text": "Fontos mecset a velencei falak Bayraktar-bástyáján.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "Római katolikus templom a Paphos-kapu közelében.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Büyük Hamam", "text": "Történelmi törökfürdő egy egykori középkori templomépületben.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "Hagyományos piactér Nicosia óvárosában.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Laiki Geitonia", "text": "Hagyományos építészetű, restaurált negyed kézműves boltokkal.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Kypriako Moyseio", "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Moyseio Astynomias Kyproy", "text": "A ciprusi rendőrség történetének szentelt múzeum.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Emlékmű és temető a függetlenségi harc során kivégzett harcosoknak.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "Középkori csarnok, amelyet ma kulturális és kiállítási központként használnak.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Ekklisia Faneromenis", "text": "Jelentős ortodox templom Nicosia óvárosának szívében.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "Történelmi örmény apostoli templom Nicosiában.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "Szent Antalnak szentelt templom a városban.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Archaggelos Michail Trypiotis", "text": "Bizánci templom lenyűgöző faragványokkal és ikonokkal.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "Nicosia legnagyobb közparkja, ideális kikapcsolódásra.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "A nemzeti művészeti galéria, amely jelentős ciprusi művészek alkotásait mutatja be.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "Csillagvizsgáló és múzeum, amely panorámás kilátást nyújt Nicosiára.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "A vízgazdálkodás történetével foglalkozó szabadtéri múzeum.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY", "text": "Kyprianos érseknek, a nemzeti mártírnak szentelt múzeum.", "category": "museum", "coords": [33.340049, 35.146191]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "A hagyományos ciprusi kézművesség megőrzésére és bemutatására szolgáló központ.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Vyzantino Moyseio", "text": "Bizánci művészeti alkotások és ikonok gazdag gyűjteményét bemutató múzeum.", "category": "museum", "coords": [33.367273, 35.173349]}, {"name": "Neo Kypriako Moyseio", "text": "Egy új, modern nemzeti régészeti múzeum projektje Nicosiában.", "category": "museum", "coords": [33.353167, 35.171494]}, {"name": "Modern Gallery", "text": "Kortárs és modern művészeti alkotásokat bemutató galéria.", "category": "museum", "coords": [33.317684, 35.161833]}, {"name": "Iron Art Gallery", "text": "Speciális művészeti galéria Strovolosban.", "category": "museum", "coords": [33.3378, 35.140808]}, {"name": "The Collection Gallery", "text": "Különféle művészeti gyűjteményeket és kiállításokat bemutató galéria.", "category": "museum", "coords": [33.374932, 35.152099]}, {"name": "Out of Limits", "text": "Modern művészeti kiállítótér Strovolosban.", "category": "museum", "coords": [33.353954, 35.157792]}, {"name": "ARUCAD Art Space", "text": "Kreatív tér kortárs művészeti kiállítások számára.", "category": "museum", "coords": [33.35989, 35.177294]}, {"name": "Nicholas Ladommatos", "text": "Nicholas Ladommatos művész alkotásait bemutató galéria.", "category": "museum", "coords": [33.336016, 35.168797]}, {"name": "Vartan", "text": "Magán művészeti galéria Nicosia környékén.", "category": "museum", "coords": [33.351157, 35.148854]}, {"name": "Marginalia", "text": "Kortárs művészeti galéria és kulturális rendezvények helyszíne.", "category": "museum", "coords": [33.344131, 35.150156]}, {"name": "Kyklades", "text": "A Kükládokról elnevezett galéria Strovolosban.", "category": "museum", "coords": [33.36026, 35.172965]}, {"name": "Golden Gallery", "text": "Kiváló minőségű kortárs művekre szakosodott művészeti galéria.", "category": "museum", "coords": [33.360811, 35.166344]}, {"name": "Agios Georgios Archaeological site - Ledroi", "text": "Régészeti lelőhely, amely az ókori Ledroi város maradványait mutatja be.", "category": "historical", "coords": [33.35592, 35.164898]}, {"name": "Archaeological Park of the old Nicosia town hall", "text": "Régészeti park Nicosia régi városházájának helyén.", "category": "historical", "coords": [33.366066, 35.17355]}, {"name": "Markos Drakos Statue", "text": "Markos Drakos EOKA-hősnek szentelt emlékmű Strovolosban.", "category": "historical", "coords": [33.356012, 35.173617]}, {"name": "PsIFISMA", "text": "A békének szentelt emlékmű Strovolosban.", "category": "historical", "coords": [33.361433, 35.174427]}, {"name": "Zodia - Epistrofi Sylloros Apofoiton", "text": "A Zodia Öregdiák Szövetség helyi emlékműve Strovolosban.", "category": "historical", "coords": [33.358872, 35.140944]}, {"name": "José Martí 1853-1895 National Hero of the Republic of Cuba", "text": "José Martí kubai nemzeti hős tiszteletére emelt emlékmű Strovolosban.", "category": "historical", "coords": [33.367276, 35.16844]}, {"name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS", "text": "Emlékmű a Kostas Papellinas Sportközpontnál Strovolosban.", "category": "historical", "coords": [33.339588, 35.151333]}, {"name": "Monument to the Fallen and Missing", "text": "Az elesetteknek és eltűnteknek szentelt emlékmű Strovolosban.", "category": "historical", "coords": [33.358618, 35.142425]}, {"name": "Russian Cultural Centre", "text": "Orosz kultúrát népszerűsítő kulturális központ és színház Strovolosban.", "category": "cultural", "coords": [33.362758, 35.160891]}, {"name": "Makarios III Amphitheatre", "text": "III. Makariosz érsekről elnevezett szabadtéri amfiteátrum Strovolosban.", "category": "cultural", "coords": [33.355611, 35.150226]}, {"name": "Agios Georgios", "text": "Tó Strovolos közelében, amely csendes oázist kínál a városban.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Kicsi tó Strovolos közelében, ideális rövid sétákhoz.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Ismert tó Strovolos közelében, egy népszerű üdülőövezetben.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Zembilas Park", "text": "Park Strovolos területén játszóhelyekkel a gyerekek számára.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Papafilipou Luna Park", "text": "Szórakoztató központ Strovolosban, amely játékos időtöltést kínál.", "category": "family", "coords": [33.317663, 35.164158]}, {"name": "Bubble", "text": "Kedves játszótér Strovolosban a gyerekek kikapcsolódásához.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "A strovolosi Hamam Omerye egy nyilvános fürdő a pihenéshez és wellnesshez.", "category": "family", "coords": [33.365357, 35.172563]}, {"name": "Tivoli Luna Park", "text": "Vidámpark Strovolos városában, változatos játékokkal az egész család számára.", "category": "family", "coords": [33.316931, 35.152055]}], "ro": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Un muzeu din Strovolos care expune o colecție vastă de motociclete clasice.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "Un conac istoric din secolul al XVIII-lea care servește acum ca muzeu.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Un muzeu etnografic situat într-un conac otoman restaurat.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "O galerie de artă importantă din Nicosia, cu lucrări ale artiștilor europeni și ciprioți.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Dimotiko Theatro Leykosias", "text": "Cea mai importantă clădire de teatru din oraș, un centru pentru artele spectacolului.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Tzami Mpairaktari", "text": "O moschee importantă situată pe bastionul Bayraktar al zidurilor venețiene.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "O biserică romano-catolică situată lângă Poarta Paphos.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Büyük Hamam", "text": "O baie turcească istorică situată într-o fostă clădire de biserică medievală.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "O piață tradițională situată în orașul vechi al Nicosiei.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Laiki Geitonia", "text": "Un cartier restaurat cu arhitectură tradițională și magazine de meșteșuguri.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Kypriako Moyseio", "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Moyseio Astynomias Kyproy", "text": "Un muzeu dedicat istoriei poliției cipriote.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Un monument și cimitir pentru luptătorii executați în timpul luptei pentru independență.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "O sală medievală utilizată astăzi ca centru cultural și de expoziții.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Ekklisia Faneromenis", "text": "O biserică ortodoxă importantă în inima orașului vechi din Nicosia.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia", "text": "O biserică apostolică armeană istorică din Nicosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "O biserică dedicată Sfântului Antonie situată în oraș.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Archaggelos Michail Trypiotis", "text": "O biserică bizantină cu sculpturi și icoane impresionante.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "Cel mai mare parc public din Nicosia, ideal pentru recreere.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "Galeria națională de artă, care expune lucrări ale unor importanți artiști ciprioți.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "Un observator și muzeu care oferă o vedere panoramică asupra Nicosiei.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "Un muzeu în aer liber care se ocupă de istoria gestionării apei.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY", "text": "Un muzeu în onoarea arhiepiscopului Kyprianos, un martir național.", "category": "museum", "coords": [33.340049, 35.146191]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "Un centru pentru conservarea și expunerea meșteșugurilor tradiționale cipriote.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Vyzantino Moyseio", "text": "Un muzeu cu o bogată colecție de artă bizantină și icoane.", "category": "museum", "coords": [33.367273, 35.173349]}, {"name": "Neo Kypriako Moyseio", "text": "Proiectul pentru un nou muzeu arheologic național modern în Nicosia.", "category": "museum", "coords": [33.353167, 35.171494]}, {"name": "Modern Gallery", "text": "O galerie care prezintă opere de artă contemporană și modernă.", "category": "museum", "coords": [33.317684, 35.161833]}, {"name": "Iron Art Gallery", "text": "O galerie de artă specializată situată în Strovolos.", "category": "museum", "coords": [33.3378, 35.140808]}, {"name": "The Collection Gallery", "text": "O galerie care prezintă diverse colecții de artă și expoziții.", "category": "museum", "coords": [33.374932, 35.152099]}, {"name": "Out of Limits", "text": "Un spațiu de expoziție pentru artă modernă în Strovolos.", "category": "museum", "coords": [33.353954, 35.157792]}, {"name": "ARUCAD Art Space", "text": "Un spațiu creativ pentru expoziții de artă contemporană.", "category": "museum", "coords": [33.35989, 35.177294]}, {"name": "Nicholas Ladommatos", "text": "O galerie care prezintă lucrările artistului Nicholas Ladommatos.", "category": "museum", "coords": [33.336016, 35.168797]}, {"name": "Vartan", "text": "O galerie de artă privată în zona Nicosia.", "category": "museum", "coords": [33.351157, 35.148854]}, {"name": "Marginalia", "text": "O galerie pentru artă contemporană și evenimente culturale.", "category": "museum", "coords": [33.344131, 35.150156]}, {"name": "Kyklades", "text": "O galerie din Strovolos numită după Ciclade.", "category": "museum", "coords": [33.36026, 35.172965]}, {"name": "Golden Gallery", "text": "O galerie de artă specializată în lucrări contemporane de înaltă calitate.", "category": "museum", "coords": [33.360811, 35.166344]}, {"name": "Agios Georgios Archaeological site - Ledroi", "text": "Un sit arheologic care prezintă vestigii ale vechiului oraș Ledroi.", "category": "historical", "coords": [33.35592, 35.164898]}, {"name": "Archaeological Park of the old Nicosia town hall", "text": "Un parc arheologic situat pe locul vechii primării din Nicosia.", "category": "historical", "coords": [33.366066, 35.17355]}, {"name": "Markos Drakos Statue", "text": "Un monument în Strovolos dedicat eroului cipriot EOKA Markos Drakos.", "category": "historical", "coords": [33.356012, 35.173617]}, {"name": "PsIFISMA", "text": "Un monument în Strovolos dedicat păcii.", "category": "historical", "coords": [33.361433, 35.174427]}, {"name": "Zodia - Epistrofi Sylloros Apofoiton", "text": "Un monument local al Asociației foștilor elevi din Zodia în Strovolos.", "category": "historical", "coords": [33.358872, 35.140944]}, {"name": "José Martí 1853-1895 National Hero of the Republic of Cuba", "text": "Un monument în Strovolos ridicat în onoarea eroului național cubanez José Martí.", "category": "historical", "coords": [33.367276, 35.16844]}, {"name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS", "text": "Un monument la Centrul Sportiv Kostas Papellinas din Strovolos.", "category": "historical", "coords": [33.339588, 35.151333]}, {"name": "Monument to the Fallen and Missing", "text": "Un monument în Strovolos dedicat celor căzuți și dispăruți.", "category": "historical", "coords": [33.358618, 35.142425]}, {"name": "Russian Cultural Centre", "text": "Un centru cultural și teatru în Strovolos care promovează cultura rusă.", "category": "cultural", "coords": [33.362758, 35.160891]}, {"name": "Makarios III Amphitheatre", "text": "Un amfiteatru în aer liber din Strovolos, numit după Arhiepiscopul Makarios al III-lea.", "category": "cultural", "coords": [33.355611, 35.150226]}, {"name": "Agios Georgios", "text": "Un lac lângă Strovolos, care oferă o oază de liniște în oraș.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Un lac mic lângă Strovolos, ideal pentru scurte plimbări.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Un lac cunoscut lângă Strovolos, situat într-o zonă de recreere populară.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Zembilas Park", "text": "Un parc în Strovolos cu zone de joacă pentru copii.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Papafilipou Luna Park", "text": "Un parc de distracții în Strovolos, care oferă divertisment pentru copii.", "category": "family", "coords": [33.317663, 35.164158]}, {"name": "Bubble", "text": "Un loc de joacă plăcut în Strovolos pentru distracția copiilor.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Hamam Omerye din Strovolos este o baie publică pentru relaxare și wellness.", "category": "family", "coords": [33.365357, 35.172563]}, {"name": "Tivoli Luna Park", "text": "Un parc de distracții în Strovolos cu diverse atracții pentru întreaga familie.", "category": "family", "coords": [33.316931, 35.152055]}], "en": [{"name": "Cyprus Classic Motorcycle Museum", "text": "A museum in Strovolos displaying an extensive collection of classic motorcycles.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Hadjigeorgakis Kornesios Mansion", "text": "An 18th-century historic mansion that now serves as a museum.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Dervish Pasha Mansion", "text": "An ethnographic museum housed in a restored Ottoman mansion.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "A major art gallery in Nicosia featuring works by European and Cypriot artists.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Nicosia Municipal Theater", "text": "The city's primary theater building, a center for performing arts.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Bairaktar Mosque", "text": "An important mosque located on the Bayraktar bastion of the Venetian walls.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "A Roman Catholic church situated near the Paphos Gate.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Büyük Hamam", "text": "A historic Turkish bath located in a former medieval church building.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Municipal Market", "text": "A traditional marketplace located in the old town of Nicosia.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Laiki Geitonia", "text": "A restored neighborhood with traditional architecture and craft shops.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Cyprus Museum", "text": "The largest and oldest archaeological museum in Cyprus.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Cyprus Police Museum", "text": "A museum dedicated to the history of the Cypriot police.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "The Imprisoned Graves", "text": "A monument and cemetery for fighters executed during the struggle for independence.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "A medieval hall now used as a cultural and exhibition center.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Faneroumeni Church", "text": "A major Orthodox church in the heart of Nicosia's old town.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "A historic Armenian Apostolic church in Nicosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "A church dedicated to Saint Anthony located in the city.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Archaggelos Michail Trypiotis", "text": "A Byzantine church featuring impressive carvings and icons.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Nicosia Municipal Gardens", "text": "The largest public park in Nicosia, ideal for recreation.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "The national art gallery exhibiting works by prominent Cypriot artists.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "An observatory and museum offering panoramic views over Nicosia.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Outdoor Water Museum", "text": "An outdoor museum dealing with the history of water management.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "MUSEUM OF ETHNOMARTYR ARCHBISHOP KYPRIANOS", "text": "A museum honoring Archbishop Kyprianos, a national martyr.", "category": "museum", "coords": [33.340049, 35.146191]}, {"name": "Cyprus Handicrafts Centre", "text": "A center for preserving and exhibiting traditional Cypriot handicrafts.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Byzantine Museum", "text": "A museum with a rich collection of Byzantine art and icons.", "category": "museum", "coords": [33.367273, 35.173349]}, {"name": "New Cyprus Museum", "text": "The project for a new, modern national archaeological museum in Nicosia.", "category": "museum", "coords": [33.353167, 35.171494]}, {"name": "Modern Gallery", "text": "A gallery showcasing contemporary and modern artworks.", "category": "museum", "coords": [33.317684, 35.161833]}, {"name": "Iron Art Gallery", "text": "A specialized art gallery located in Strovolos.", "category": "museum", "coords": [33.3378, 35.140808]}, {"name": "The Collection Gallery", "text": "A gallery displaying various art collections and exhibitions.", "category": "museum", "coords": [33.374932, 35.152099]}, {"name": "Out of Limits", "text": "An exhibition space for modern art in Strovolos.", "category": "museum", "coords": [33.353954, 35.157792]}, {"name": "ARUCAD Art Space", "text": "A creative space for contemporary art exhibitions.", "category": "museum", "coords": [33.35989, 35.177294]}, {"name": "Nicholas Ladommatos", "text": "A gallery presenting the works of artist Nicholas Ladommatos.", "category": "museum", "coords": [33.336016, 35.168797]}, {"name": "Vartan", "text": "A private art gallery in the Nicosia area.", "category": "museum", "coords": [33.351157, 35.148854]}, {"name": "Marginalia", "text": "A gallery for contemporary art and cultural events.", "category": "museum", "coords": [33.344131, 35.150156]}, {"name": "Kyklades", "text": "A gallery in Strovolos named after the Cyclades.", "category": "museum", "coords": [33.36026, 35.172965]}, {"name": "Golden Gallery", "text": "An art gallery specializing in high-quality contemporary works.", "category": "museum", "coords": [33.360811, 35.166344]}, {"name": "Agios Georgios Archaeological site - Ledroi", "text": "An archaeological site showing remains of the ancient city of Ledroi.", "category": "historical", "coords": [33.35592, 35.164898]}, {"name": "Archaeological Park of the old Nicosia town hall", "text": "An archaeological park located at the site of the old Nicosia town hall.", "category": "historical", "coords": [33.366066, 35.17355]}, {"name": "Markos Drakos Statue", "text": "A monument in Strovolos dedicated to the Cypriot EOKA hero Markos Drakos.", "category": "historical", "coords": [33.356012, 35.173617]}, {"name": "Peace", "text": "A monument in Strovolos dedicated to the theme of peace.", "category": "historical", "coords": [33.361433, 35.174427]}, {"name": "Zodia Alumni Association", "text": "A local monument of the Zodia Alumni Association in Strovolos.", "category": "historical", "coords": [33.358872, 35.140944]}, {"name": "José Martí 1853-1895 National Hero of the Republic of Cuba", "text": "A monument in Strovolos honoring the Cuban national hero José Martí.", "category": "historical", "coords": [33.367276, 35.16844]}, {"name": "Kostas Papellinas Sports Center", "text": "A monument located at the Kostas Papellinas Sports Center in Strovolos.", "category": "historical", "coords": [33.339588, 35.151333]}, {"name": "Monument to the Fallen and Missing", "text": "A monument in Strovolos dedicated to the fallen and missing.", "category": "historical", "coords": [33.358618, 35.142425]}, {"name": "Russian Cultural Centre", "text": "A cultural centre and theatre in Strovolos promoting Russian culture.", "category": "cultural", "coords": [33.362758, 35.160891]}, {"name": "Makarios III Amphitheatre", "text": "An open-air amphitheatre in Strovolos named after Archbishop Makarios III.", "category": "cultural", "coords": [33.355611, 35.150226]}, {"name": "Agios Georgios", "text": "A lake near Strovolos providing a quiet oasis in the city.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Maglee Lake", "text": "A small lake near Strovolos, ideal for short walks.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Athalassa Lake", "text": "A well-known lake near Strovolos in a popular recreation area.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Zembilas Park", "text": "A park in Strovolos with play areas for children.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Papafilipou Luna Park", "text": "An amusement park in Strovolos offering entertainment for children.", "category": "family", "coords": [33.317663, 35.164158]}, {"name": "Bubble", "text": "A nice playground in Strovolos for children to enjoy and play.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Hamam Omerye in Strovolos is a public bath for relaxation and wellness.", "category": "family", "coords": [33.365357, 35.172563]}, {"name": "Tivoli Luna Park", "text": "An amusement park in Strovolos with various attractions for the whole family.", "category": "family", "coords": [33.316931, 35.152055]}]},
+    id: "cyprus-strovolos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Ein Museum in Strovolos, das eine umfangreiche Sammlung klassischer Motorräder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Ein ethnographisches Museum in einem restaurierten osmanischen Herrenhaus.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Eine bedeutende Kunstgalerie in Nicosia mit Werken europäischer und zypriotischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "Das wichtigste Theatergebäude der Stadt, ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "Eine bedeutende Moschee auf der Bairaktar-Bastion der venezianischen Mauern.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Eine römisch-katholische Kirche in der Nähe des Paphos-Tors.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Ein historisches türkisches Bad in einem ehemaligen mittelalterlichen Kirchengebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Ein traditioneller Marktplatz in der Altstadt von Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Ein restauriertes Viertel mit traditioneller Architektur und Handwerksläden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Zypernmuseum",
+                  "text": "Das größte und älteste archäologische Museum Zyperns.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "Ein Museum, das sich der Geschichte der zypriotischen Polizei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Ein Denkmal und Friedhof für während des Unabhängigkeitskampfes hingerichtete Kämpfer.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Eine mittelalterliche Halle, die heute als Kultur- und Ausstellungszentrum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "Eine bedeutende orthodoxe Kirche im Herzen der Altstadt von Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Eine historische armenisch-apostolische Kirche in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Eine dem Heiligen Antonius gewidmete Kirche in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "Eine byzantinische Kirche mit beeindruckenden Schnitzereien und Ikonen.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "Die größte öffentliche Parkanlage in Nicosia, ideal zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Die nationale Kunstgalerie, die Werke bedeutender zypriotischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Tower Museum & Observatory",
+                  "text": "Ein Observatorium mit Museum, das einen Panoramablick über Nicosia bietet.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Ypaithrio Moyseio Neroy",
+                  "text": "Ein Freilichtmuseum, das sich mit der Geschichte der Wasserwirtschaft befasst.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
+                  "text": "Ein Museum zu Ehren des Erzbischofs Kyprianos, einem nationalen Märtyrer.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "Ein Zentrum zur Bewahrung und Ausstellung traditioneller zypriotischer Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Vyzantino Moyseio",
+                  "text": "Ein Museum mit einer reichen Sammlung byzantinischer Kunst und Ikonen.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Neo Kypriako Moyseio",
+                  "text": "Das Projekt für ein neues, modernes archäologisches Nationalmuseum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "Eine Galerie, die zeitgenössische und moderne Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "Eine spezialisierte Kunstgalerie in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "Eine Galerie, die verschiedene Kunstsammlungen und Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Ein Ausstellungsraum für moderne Kunst in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Ein kreativer Raum für Ausstellungen zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "Eine Galerie, die Werke des Künstlers Nicholas Ladommatos präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "Eine private Kunstgalerie in der Gegend von Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "Eine Galerie für zeitgenössische Kunst und kulturelle Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Kyklades",
+                  "text": "Eine Galerie in Strovolos, benannt nach den Kykladen.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Eine Kunstgalerie, die sich auf hochwertige zeitgenössische Werke spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Eine archäologische Stätte, die Überreste der antiken Stadt Ledroi zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Ein archäologischer Park an der Stelle des alten Rathauses von Nicosia.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Ein Denkmal in Strovolos, das dem zyprischen EOKA-Helden Markos Drakos gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "PsIFISMA",
+                  "text": "Ein Denkmal in Strovolos, das dem Thema Frieden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Zodia - Epistrofi Sylloros Apofoiton",
+                  "text": "Ein lokales Denkmal der Zodia Alumni Association in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "Ein Denkmal in Strovolos zu Ehren des kubanischen Nationalhelden José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
+                  "text": "Ein Denkmal am Kostas Papellinas Sportzentrum in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Ein Denkmal in Strovolos für die Gefallenen und Vermissten.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort in Strovolos, der die russische Kultur fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "Ein Freiluft-Amphitheater in Strovolos, benannt nach Erzbischof Makarios III.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Ein See bei Strovolos, der eine ruhige Oase in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "Ein kleiner See bei Strovolos, ideal für kurze Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "Ein bekannter See bei Strovolos in einem beliebten Erholungsgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Ein Park in Strovolos mit Spielbereichen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Ein Freizeitpark in Strovolos, der Unterhaltung für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Ein schöner Spielplatz in Strovolos für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Hamam Omerye in Strovolos ist ein öffentliches Bad für Entspannung und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            },
+            {
+                  "name": "Tivoli Luna Park",
+                  "text": "Ein Freizeitpark in Strovolos mit verschiedenen Attraktionen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        33.316931,
+                        35.152055
+                  ]
+            },
+            {
+                  "name": "The Cyprus National Theatre",
+                  "text": "Die staatliche Institution für Theateraufführungen in Strovolos.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355445,
+                        35.168208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Klasszikus motorkerékpárok gyűjteményét bemutató múzeum Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "18. századi történelmi kúria, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Néprajzi múzeum egy restaurált oszmán kori kúriában.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Jelentős művészeti galéria Nicosiában, európai és ciprusi művészek alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "A város legfontosabb színházépülete, az előadóművészetek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "Fontos mecset a velencei falak Bayraktar-bástyáján.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Római katolikus templom a Paphos-kapu közelében.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Történelmi törökfürdő egy egykori középkori templomépületben.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Hagyományos piactér Nicosia óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Hagyományos építészetű, restaurált negyed kézműves boltokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Kypriako Moyseio",
+                  "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "A ciprusi rendőrség történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Emlékmű és temető a függetlenségi harc során kivégzett harcosoknak.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Középkori csarnok, amelyet ma kulturális és kiállítási központként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "Jelentős ortodox templom Nicosia óvárosának szívében.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Történelmi örmény apostoli templom Nicosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Szent Antalnak szentelt templom a városban.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "Bizánci templom lenyűgöző faragványokkal és ikonokkal.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "Nicosia legnagyobb közparkja, ideális kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "A nemzeti művészeti galéria, amely jelentős ciprusi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Csillagvizsgáló és múzeum, amely panorámás kilátást nyújt Nicosiára.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Ypaithrio Moyseio Neroy",
+                  "text": "A vízgazdálkodás történetével foglalkozó szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
+                  "text": "Kyprianos érseknek, a nemzeti mártírnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "A hagyományos ciprusi kézművesség megőrzésére és bemutatására szolgáló központ.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Vyzantino Moyseio",
+                  "text": "Bizánci művészeti alkotások és ikonok gazdag gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Neo Kypriako Moyseio",
+                  "text": "Egy új, modern nemzeti régészeti múzeum projektje Nicosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "Kortárs és modern művészeti alkotásokat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "Speciális művészeti galéria Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "Különféle művészeti gyűjteményeket és kiállításokat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Modern művészeti kiállítótér Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Kreatív tér kortárs művészeti kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "Nicholas Ladommatos művész alkotásait bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "Magán művészeti galéria Nicosia környékén.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "Kortárs művészeti galéria és kulturális rendezvények helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Kyklades",
+                  "text": "A Kükládokról elnevezett galéria Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Kiváló minőségű kortárs művekre szakosodott művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Régészeti lelőhely, amely az ókori Ledroi város maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Régészeti park Nicosia régi városházájának helyén.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Markos Drakos EOKA-hősnek szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "PsIFISMA",
+                  "text": "A békének szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Zodia - Epistrofi Sylloros Apofoiton",
+                  "text": "A Zodia Öregdiák Szövetség helyi emlékműve Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "José Martí kubai nemzeti hős tiszteletére emelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
+                  "text": "Emlékmű a Kostas Papellinas Sportközpontnál Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Az elesetteknek és eltűnteknek szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Orosz kultúrát népszerűsítő kulturális központ és színház Strovolosban.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "III. Makariosz érsekről elnevezett szabadtéri amfiteátrum Strovolosban.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Tó Strovolos közelében, amely csendes oázist kínál a városban.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "Kicsi tó Strovolos közelében, ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "Ismert tó Strovolos közelében, egy népszerű üdülőövezetben.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Park Strovolos területén játszóhelyekkel a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Szórakoztató központ Strovolosban, amely játékos időtöltést kínál.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Kedves játszótér Strovolosban a gyerekek kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "A strovolosi Hamam Omerye egy nyilvános fürdő a pihenéshez és wellnesshez.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            },
+            {
+                  "name": "Tivoli Luna Park",
+                  "text": "Vidámpark Strovolos városában, változatos játékokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        33.316931,
+                        35.152055
+                  ]
+            },
+            {
+                  "name": "The Cyprus National Theatre",
+                  "text": "A színházi előadások állami intézménye Strovolosban.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355445,
+                        35.168208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Un muzeu din Strovolos care expune o colecție vastă de motociclete clasice.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "Un conac istoric din secolul al XVIII-lea care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Un muzeu etnografic situat într-un conac otoman restaurat.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "O galerie de artă importantă din Nicosia, cu lucrări ale artiștilor europeni și ciprioți.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "Cea mai importantă clădire de teatru din oraș, un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "O moschee importantă situată pe bastionul Bayraktar al zidurilor venețiene.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "O biserică romano-catolică situată lângă Poarta Paphos.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "O baie turcească istorică situată într-o fostă clădire de biserică medievală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "O piață tradițională situată în orașul vechi al Nicosiei.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Un cartier restaurat cu arhitectură tradițională și magazine de meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Kypriako Moyseio",
+                  "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "Un muzeu dedicat istoriei poliției cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Un monument și cimitir pentru luptătorii executați în timpul luptei pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "O sală medievală utilizată astăzi ca centru cultural și de expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "O biserică ortodoxă importantă în inima orașului vechi din Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia",
+                  "text": "O biserică apostolică armeană istorică din Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "O biserică dedicată Sfântului Antonie situată în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "O biserică bizantină cu sculpturi și icoane impresionante.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "Cel mai mare parc public din Nicosia, ideal pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Galeria națională de artă, care expune lucrări ale unor importanți artiști ciprioți.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Un observator și muzeu care oferă o vedere panoramică asupra Nicosiei.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Ypaithrio Moyseio Neroy",
+                  "text": "Un muzeu în aer liber care se ocupă de istoria gestionării apei.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "MOYSEIO EThNOMARTYRA ARChIEPISKOPOY KYPRIANOY",
+                  "text": "Un muzeu în onoarea arhiepiscopului Kyprianos, un martir național.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "Un centru pentru conservarea și expunerea meșteșugurilor tradiționale cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Vyzantino Moyseio",
+                  "text": "Un muzeu cu o bogată colecție de artă bizantină și icoane.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Neo Kypriako Moyseio",
+                  "text": "Proiectul pentru un nou muzeu arheologic național modern în Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "O galerie care prezintă opere de artă contemporană și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "O galerie de artă specializată situată în Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "O galerie care prezintă diverse colecții de artă și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Un spațiu de expoziție pentru artă modernă în Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Un spațiu creativ pentru expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "O galerie care prezintă lucrările artistului Nicholas Ladommatos.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "O galerie de artă privată în zona Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "O galerie pentru artă contemporană și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Kyklades",
+                  "text": "O galerie din Strovolos numită după Ciclade.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "O galerie de artă specializată în lucrări contemporane de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Un sit arheologic care prezintă vestigii ale vechiului oraș Ledroi.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Un parc arheologic situat pe locul vechii primării din Nicosia.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Un monument în Strovolos dedicat eroului cipriot EOKA Markos Drakos.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "PsIFISMA",
+                  "text": "Un monument în Strovolos dedicat păcii.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Zodia - Epistrofi Sylloros Apofoiton",
+                  "text": "Un monument local al Asociației foștilor elevi din Zodia în Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "Un monument în Strovolos ridicat în onoarea eroului național cubanez José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "AThLITIKO KENTRO KOSTAS PAPAELLINAS",
+                  "text": "Un monument la Centrul Sportiv Kostas Papellinas din Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Un monument în Strovolos dedicat celor căzuți și dispăruți.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Un centru cultural și teatru în Strovolos care promovează cultura rusă.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "Un amfiteatru în aer liber din Strovolos, numit după Arhiepiscopul Makarios al III-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Un lac lângă Strovolos, care oferă o oază de liniște în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "Un lac mic lângă Strovolos, ideal pentru scurte plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "Un lac cunoscut lângă Strovolos, situat într-o zonă de recreere populară.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "Un parc în Strovolos cu zone de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "Un parc de distracții în Strovolos, care oferă divertisment pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "Un loc de joacă plăcut în Strovolos pentru distracția copiilor.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Hamam Omerye din Strovolos este o baie publică pentru relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            },
+            {
+                  "name": "Tivoli Luna Park",
+                  "text": "Un parc de distracții în Strovolos cu diverse atracții pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        33.316931,
+                        35.152055
+                  ]
+            },
+            {
+                  "name": "The Cyprus National Theatre",
+                  "text": "Instituția de stat pentru spectacole de teatru în Strovolos.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355445,
+                        35.168208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyprus Classic Motorcycle Museum",
+                  "text": "A museum in Strovolos displaying an extensive collection of classic motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Hadjigeorgakis Kornesios Mansion",
+                  "text": "An 18th-century historic mansion that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Dervish Pasha Mansion",
+                  "text": "An ethnographic museum housed in a restored Ottoman mansion.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "A major art gallery in Nicosia featuring works by European and Cypriot artists.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Theater",
+                  "text": "The city's primary theater building, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Bairaktar Mosque",
+                  "text": "An important mosque located on the Bayraktar bastion of the Venetian walls.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "A Roman Catholic church situated near the Paphos Gate.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "A historic Turkish bath located in a former medieval church building.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Municipal Market",
+                  "text": "A traditional marketplace located in the old town of Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "A restored neighborhood with traditional architecture and craft shops.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Cyprus Museum",
+                  "text": "The largest and oldest archaeological museum in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Cyprus Police Museum",
+                  "text": "A museum dedicated to the history of the Cypriot police.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "The Imprisoned Graves",
+                  "text": "A monument and cemetery for fighters executed during the struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "A medieval hall now used as a cultural and exhibition center.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Faneroumeni Church",
+                  "text": "A major Orthodox church in the heart of Nicosia's old town.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "A historic Armenian Apostolic church in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "A church dedicated to Saint Anthony located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "A Byzantine church featuring impressive carvings and icons.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Gardens",
+                  "text": "The largest public park in Nicosia, ideal for recreation.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "The national art gallery exhibiting works by prominent Cypriot artists.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "An observatory and museum offering panoramic views over Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Outdoor Water Museum",
+                  "text": "An outdoor museum dealing with the history of water management.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "MUSEUM OF ETHNOMARTYR ARCHBISHOP KYPRIANOS",
+                  "text": "A museum honoring Archbishop Kyprianos, a national martyr.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Cyprus Handicrafts Centre",
+                  "text": "A center for preserving and exhibiting traditional Cypriot handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum with a rich collection of Byzantine art and icons.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "New Cyprus Museum",
+                  "text": "The project for a new, modern national archaeological museum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "A gallery showcasing contemporary and modern artworks.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "A specialized art gallery located in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "A gallery displaying various art collections and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "An exhibition space for modern art in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "A creative space for contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "A gallery presenting the works of artist Nicholas Ladommatos.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "A private art gallery in the Nicosia area.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "A gallery for contemporary art and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Kyklades",
+                  "text": "A gallery in Strovolos named after the Cyclades.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "An art gallery specializing in high-quality contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "An archaeological site showing remains of the ancient city of Ledroi.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "An archaeological park located at the site of the old Nicosia town hall.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "A monument in Strovolos dedicated to the Cypriot EOKA hero Markos Drakos.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "Peace",
+                  "text": "A monument in Strovolos dedicated to the theme of peace.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Zodia Alumni Association",
+                  "text": "A local monument of the Zodia Alumni Association in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "A monument in Strovolos honoring the Cuban national hero José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "Kostas Papellinas Sports Center",
+                  "text": "A monument located at the Kostas Papellinas Sports Center in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "A monument in Strovolos dedicated to the fallen and missing.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "A cultural centre and theatre in Strovolos promoting Russian culture.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "An open-air amphitheatre in Strovolos named after Archbishop Makarios III.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "A lake near Strovolos providing a quiet oasis in the city.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "A small lake near Strovolos, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Athalassa Lake",
+                  "text": "A well-known lake near Strovolos in a popular recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "Zembilas Park",
+                  "text": "A park in Strovolos with play areas for children.",
+                  "category": "family",
+                  "coords": [
+                        33.34221,
+                        35.156117
+                  ]
+            },
+            {
+                  "name": "Papafilipou Luna Park",
+                  "text": "An amusement park in Strovolos offering entertainment for children.",
+                  "category": "family",
+                  "coords": [
+                        33.317663,
+                        35.164158
+                  ]
+            },
+            {
+                  "name": "Bubble",
+                  "text": "A nice playground in Strovolos for children to enjoy and play.",
+                  "category": "family",
+                  "coords": [
+                        33.335295,
+                        35.166844
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Hamam Omerye in Strovolos is a public bath for relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            },
+            {
+                  "name": "Tivoli Luna Park",
+                  "text": "An amusement park in Strovolos with various attractions for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        33.316931,
+                        35.152055
+                  ]
+            },
+            {
+                  "name": "The Cyprus National Theatre",
+                  "text": "The national institution for theatrical performances in Strovolos.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355445,
+                        35.168208
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Strovolos", hu: "Sztrovólosz", ro: "Strovolos", en: "Strovolos" },
@@ -48,7 +2037,340 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-strovolos-cities-v2.webp",
   },
   {
-    id: "cyprus-latsia-cities-v2", "sights": {"de": [{"name": "Agios Georgios", "text": "Der See Agios Georgios in Latsia bietet eine ruhige Atmosphäre für entspannte Spaziergänge.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Der Maglee Lake in Latsia ist ein See, der eine friedliche Umgebung für Naturfreunde bietet.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Der Athalassa Lake in Latsia ist ein beliebtes Ziel für Naturbeobachtungen und ruhige Momente.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "PAPAFiLiPOU Luna Park Latsia", "text": "Der PAPAFiLiPOU Luna Park Latsia ist eine Spielhalle mit verschiedenen Unterhaltungsangeboten für Familien.", "category": "family", "coords": [33.376312, 35.114535]}, {"name": "Mall Kiddy Rides", "text": "Mall Kiddy Rides in Latsia bietet verschiedene Spielgeräte für Kinder in einer Einkaufsumgebung.", "category": "family", "coords": [33.371622, 35.130083]}, {"name": "PLAY3R5", "text": "PLAY3R5 in Latsia ist eine moderne Spielhalle, die Spaß und Unterhaltung für die ganze Familie bietet.", "category": "family", "coords": [33.370507, 35.129875]}], "hu": [{"name": "Agios Georgios", "text": "A Latsia településen található Agios Georgios tó nyugodt légkört biztosít a pihentető sétákhoz.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "A Latsia-i Maglee Lake egy tó, amely békés környezetet kínál a természetbarátoknak.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "A Latsia-i Athalassa Lake kedvelt célpont a természet megfigyelésére és a csendes pillanatokhoz.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "PAPAFiLiPOU Luna Park Latsia", "text": "A PAPAFiLiPOU Luna Park Latsia egy szórakoztató központ különféle játékokkal a családok számára.", "category": "family", "coords": [33.376312, 35.114535]}, {"name": "Mall Kiddy Rides", "text": "A Latsia-i Mall Kiddy Rides különféle játékokat kínál a gyerekeknek egy bevásárlóközpont környezetében.", "category": "family", "coords": [33.371622, 35.130083]}, {"name": "PLAY3R5", "text": "A Latsia-i PLAY3R5 egy modern szórakoztató központ, amely szórakozást nyújt az egész családnak.", "category": "family", "coords": [33.370507, 35.129875]}], "ro": [{"name": "Agios Georgios", "text": "Lacul Agios Georgios din Latsia oferă o atmosferă liniștită pentru plimbări relaxante.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Maglee Lake din Latsia este un lac ce oferă un mediu liniștit pentru iubitorii de natură.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Lacul Athalassa din Latsia este o destinație populară pentru observarea naturii și momente de liniște.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "PAPAFiLiPOU Luna Park Latsia", "text": "PAPAFiLiPOU Luna Park Latsia este o sală de jocuri cu diverse oferte de divertisment pentru familii.", "category": "family", "coords": [33.376312, 35.114535]}, {"name": "Mall Kiddy Rides", "text": "Mall Kiddy Rides din Latsia oferă diverse echipamente de joacă pentru copii într-un cadru comercial.", "category": "family", "coords": [33.371622, 35.130083]}, {"name": "PLAY3R5", "text": "PLAY3R5 din Latsia este o sală de jocuri modernă care oferă distracție și divertisment pentru întreaga familie.", "category": "family", "coords": [33.370507, 35.129875]}], "en": [{"name": "Agios Georgios", "text": "The Agios Georgios lake in Latsia offers a calm atmosphere for relaxed walks.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Maglee Lake", "text": "The Maglee Lake in Latsia is a lake offering a peaceful environment for nature lovers.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Athalassa Lake", "text": "The Athalassa Lake in Latsia is a popular destination for nature observation and quiet moments.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "PAPAFiLiPOU Luna Park Latsia", "text": "The PAPAFiLiPOU Luna Park Latsia is an amusement arcade with various entertainment options for families.", "category": "family", "coords": [33.376312, 35.114535]}, {"name": "Mall Kiddy Rides", "text": "The Mall Kiddy Rides in Latsia offers various play equipment for children in a shopping environment.", "category": "family", "coords": [33.371622, 35.130083]}, {"name": "PLAY3R5", "text": "PLAY3R5 in Latsia is a modern amusement arcade offering fun and entertainment for the whole family.", "category": "family", "coords": [33.370507, 35.129875]}]},
+    id: "cyprus-latsia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "Der See Agios Georgios in Latsia bietet eine ruhige Atmosphäre für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "Der Maglee Lake in Latsia ist ein See, der eine friedliche Umgebung für Naturfreunde bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "Der Athalassa Lake in Latsia ist ein beliebtes Ziel für Naturbeobachtungen und ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "Der PAPAFiLiPOU Luna Park Latsia ist eine Spielhalle mit verschiedenen Unterhaltungsangeboten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "Mall Kiddy Rides in Latsia bietet verschiedene Spielgeräte für Kinder in einer Einkaufsumgebung.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 in Latsia ist eine moderne Spielhalle, die Spaß und Unterhaltung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            },
+            {
+                  "name": "Theatro Apothekes ThOK",
+                  "text": "Das Theatro Apothekes ThOK ist eine Kultureinrichtung in Latsia, die verschiedene Theateraufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        33.371131,
+                        35.126323
+                  ]
+            },
+            {
+                  "name": "Theatro Maskarini",
+                  "text": "Das Theatro Maskarini in Latsia ist ein lokales Theater, das für seine Bühnenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        33.378055,
+                        35.11886
+                  ]
+            },
+            {
+                  "name": "Theatro Anemona",
+                  "text": "Das Theatro Anemona ist ein Theater in Latsia, das zur lokalen Kulturszene beiträgt.",
+                  "category": "cultural",
+                  "coords": [
+                        33.380217,
+                        35.118915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "A Latsia településen található Agios Georgios tó nyugodt légkört biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "A Latsia-i Maglee Lake egy tó, amely békés környezetet kínál a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "A Latsia-i Athalassa Lake kedvelt célpont a természet megfigyelésére és a csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "A PAPAFiLiPOU Luna Park Latsia egy szórakoztató központ különféle játékokkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "A Latsia-i Mall Kiddy Rides különféle játékokat kínál a gyerekeknek egy bevásárlóközpont környezetében.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "A Latsia-i PLAY3R5 egy modern szórakoztató központ, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            },
+            {
+                  "name": "Theatro Apothekes ThOK",
+                  "text": "A Theatro Apothekes ThOK egy kulturális intézmény Latsiában, amely különféle színházi előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        33.371131,
+                        35.126323
+                  ]
+            },
+            {
+                  "name": "Theatro Maskarini",
+                  "text": "A latsiai Theatro Maskarini egy helyi színház, amely színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        33.378055,
+                        35.11886
+                  ]
+            },
+            {
+                  "name": "Theatro Anemona",
+                  "text": "A Theatro Anemona egy színház Latsiában, amely a helyi kulturális életet gazdagítja.",
+                  "category": "cultural",
+                  "coords": [
+                        33.380217,
+                        35.118915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "Lacul Agios Georgios din Latsia oferă o atmosferă liniștită pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Limni toy Magli",
+                  "text": "Maglee Lake din Latsia este un lac ce oferă un mediu liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Limni Athalassas",
+                  "text": "Lacul Athalassa din Latsia este o destinație populară pentru observarea naturii și momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "PAPAFiLiPOU Luna Park Latsia este o sală de jocuri cu diverse oferte de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "Mall Kiddy Rides din Latsia oferă diverse echipamente de joacă pentru copii într-un cadru comercial.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 din Latsia este o sală de jocuri modernă care oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            },
+            {
+                  "name": "Theatro Apothekes ThOK",
+                  "text": "Theatro Apothekes ThOK este o instituție culturală din Latsia care prezintă diverse spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        33.371131,
+                        35.126323
+                  ]
+            },
+            {
+                  "name": "Theatro Maskarini",
+                  "text": "Theatro Maskarini din Latsia este un teatru local cunoscut pentru producțiile sale scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        33.378055,
+                        35.11886
+                  ]
+            },
+            {
+                  "name": "Theatro Anemona",
+                  "text": "Theatro Anemona este un teatru din Latsia care contribuie la scena culturală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        33.380217,
+                        35.118915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Georgios",
+                  "text": "The Agios Georgios lake in Latsia offers a calm atmosphere for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Maglee Lake",
+                  "text": "The Maglee Lake in Latsia is a lake offering a peaceful environment for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        33.308401,
+                        35.127047
+                  ]
+            },
+            {
+                  "name": "Athalassa Lake",
+                  "text": "The Athalassa Lake in Latsia is a popular destination for nature observation and quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        33.387377,
+                        35.127679
+                  ]
+            },
+            {
+                  "name": "PAPAFiLiPOU Luna Park Latsia",
+                  "text": "The PAPAFiLiPOU Luna Park Latsia is an amusement arcade with various entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        33.376312,
+                        35.114535
+                  ]
+            },
+            {
+                  "name": "Mall Kiddy Rides",
+                  "text": "The Mall Kiddy Rides in Latsia offers various play equipment for children in a shopping environment.",
+                  "category": "family",
+                  "coords": [
+                        33.371622,
+                        35.130083
+                  ]
+            },
+            {
+                  "name": "PLAY3R5",
+                  "text": "PLAY3R5 in Latsia is a modern amusement arcade offering fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        33.370507,
+                        35.129875
+                  ]
+            },
+            {
+                  "name": "Theatro Apothekes ThOK",
+                  "text": "Theatro Apothekes ThOK is a cultural institution in Latsia presenting various theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        33.371131,
+                        35.126323
+                  ]
+            },
+            {
+                  "name": "Theatro Maskarini",
+                  "text": "Theatro Maskarini in Latsia is a local theatre known for its stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        33.378055,
+                        35.11886
+                  ]
+            },
+            {
+                  "name": "Theatro Anemona",
+                  "text": "Theatro Anemona is a theatre in Latsia that contributes to the local cultural scene.",
+                  "category": "cultural",
+                  "coords": [
+                        33.380217,
+                        35.118915
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Latsia", hu: "Látzia", ro: "Latsia", en: "Latsia" },

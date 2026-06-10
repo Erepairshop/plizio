@@ -18103,7 +18103,304 @@ export const czechrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-most-cities-v2",
+    id: "czechrepublic-most-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Městské divadlo v Mostě",
+                  "text": "Das städtische Haupttheater von Most, in dem verschiedene Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64192,
+                        50.501638
+                  ]
+            },
+            {
+                  "name": "Divadlo rozmanitostí",
+                  "text": "Ein Theater in Most, das auf Puppenspiele und Varieté-Aufführungen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        13.649624,
+                        50.495784
+                  ]
+            },
+            {
+                  "name": "Oblastní muzeum a galerie",
+                  "text": "Ein regionales Museum und eine Kunstgalerie in der Stadt Most.",
+                  "category": "museum",
+                  "coords": [
+                        13.638939,
+                        50.517477
+                  ]
+            },
+            {
+                  "name": "Schlossberg",
+                  "text": "Ein markanter Hügel über Most, auf dem sich eine Burg und ein Aussichtsturm befinden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.63299,
+                        50.520329
+                  ]
+            },
+            {
+                  "name": "Rössel",
+                  "text": "Ein bewaldeter Gipfel bei Most, beliebt zum Wandern und zur Erholung im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        13.617173,
+                        50.506962
+                  ]
+            },
+            {
+                  "name": "Breiter Berg",
+                  "text": "Ein Hügel in der Region Most mit Panoramablick auf die Stadt und die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.623333,
+                        50.517222
+                  ]
+            },
+            {
+                  "name": "Špičák",
+                  "text": "Ein lokaler Gipfel in der Nähe von Most, charakteristisch für die regionale Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667778,
+                        50.519722
+                  ]
+            },
+            {
+                  "name": "Šibeník",
+                  "text": "Ein öffentlicher Park in Most mit Grünflächen und Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        13.651202,
+                        50.501503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Městské divadlo v Mostě",
+                  "text": "Most városának fő önkormányzati színháza, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64192,
+                        50.501638
+                  ]
+            },
+            {
+                  "name": "Divadlo rozmanitostí",
+                  "text": "Bábjátékokra és varieté-előadásokra szakosodott színház Mostban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.649624,
+                        50.495784
+                  ]
+            },
+            {
+                  "name": "Oblastní muzeum a galerie",
+                  "text": "Regionális múzeum és művészeti galéria Most városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.638939,
+                        50.517477
+                  ]
+            },
+            {
+                  "name": "Hněvín",
+                  "text": "Kiemelkedő domb Most felett, tetején várral és kilátóval.",
+                  "category": "landmark",
+                  "coords": [
+                        13.63299,
+                        50.520329
+                  ]
+            },
+            {
+                  "name": "Ressl",
+                  "text": "Erdős hegycsúcs Most közelében, népszerű kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        13.617173,
+                        50.506962
+                  ]
+            },
+            {
+                  "name": "Široký vrch",
+                  "text": "Domb a Most régióban, ahonnan panorámás kilátás nyílik a városra és környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        13.623333,
+                        50.517222
+                  ]
+            },
+            {
+                  "name": "Špičák",
+                  "text": "Helyi hegycsúcs Most környékén, a táj jellegzetes eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667778,
+                        50.519722
+                  ]
+            },
+            {
+                  "name": "Šibeník",
+                  "text": "Nyilvános park Mostban, amely zöldfelületet és kikapcsolódási lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        13.651202,
+                        50.501503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Městské divadlo v Mostě",
+                  "text": "Teatrul municipal principal din orașul Most, care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64192,
+                        50.501638
+                  ]
+            },
+            {
+                  "name": "Divadlo rozmanitostí",
+                  "text": "Un teatru din Most specializat în spectacole de păpuși și varietăți.",
+                  "category": "cultural",
+                  "coords": [
+                        13.649624,
+                        50.495784
+                  ]
+            },
+            {
+                  "name": "Oblastní muzeum a galerie",
+                  "text": "Un muzeu regional și galerie de artă situat în orașul Most.",
+                  "category": "museum",
+                  "coords": [
+                        13.638939,
+                        50.517477
+                  ]
+            },
+            {
+                  "name": "Hněvín",
+                  "text": "Un deal proeminent care domină orașul Most, având în vârf un castel și un turn de observare.",
+                  "category": "landmark",
+                  "coords": [
+                        13.63299,
+                        50.520329
+                  ]
+            },
+            {
+                  "name": "Ressl",
+                  "text": "Un vârf împădurit lângă Most, popular pentru drumeții și recreere în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        13.617173,
+                        50.506962
+                  ]
+            },
+            {
+                  "name": "Široký vrch",
+                  "text": "Un deal din regiunea Most care oferă vedere panoramică asupra orașului și a împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        13.623333,
+                        50.517222
+                  ]
+            },
+            {
+                  "name": "Špičák",
+                  "text": "Un vârf local în vecinătatea orașului Most, caracteristic peisajului regional.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667778,
+                        50.519722
+                  ]
+            },
+            {
+                  "name": "Šibeník",
+                  "text": "Un parc public din Most care oferă spațiu verde și facilități de recreere.",
+                  "category": "park",
+                  "coords": [
+                        13.651202,
+                        50.501503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Městské divadlo v Mostě",
+                  "text": "The main municipal theatre in the city of Most, hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64192,
+                        50.501638
+                  ]
+            },
+            {
+                  "name": "Divadlo rozmanitostí",
+                  "text": "A theatre in Most specializing in puppet shows and variety performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.649624,
+                        50.495784
+                  ]
+            },
+            {
+                  "name": "Oblastní muzeum a galerie",
+                  "text": "A regional museum and art gallery located in the city of Most.",
+                  "category": "museum",
+                  "coords": [
+                        13.638939,
+                        50.517477
+                  ]
+            },
+            {
+                  "name": "Hněvín",
+                  "text": "A prominent hill overlooking Most, topped with a castle and observation tower.",
+                  "category": "landmark",
+                  "coords": [
+                        13.63299,
+                        50.520329
+                  ]
+            },
+            {
+                  "name": "Ressl",
+                  "text": "A forested peak near Most, popular for hiking and outdoor recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        13.617173,
+                        50.506962
+                  ]
+            },
+            {
+                  "name": "Široký vrch",
+                  "text": "A hill in the Most region offering panoramic views of the city and surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        13.623333,
+                        50.517222
+                  ]
+            },
+            {
+                  "name": "Špičák",
+                  "text": "A local peak in the vicinity of Most, characteristic of the regional landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667778,
+                        50.519722
+                  ]
+            },
+            {
+                  "name": "Šibeník",
+                  "text": "A public park in Most providing green space and recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        13.651202,
+                        50.501503
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "city",
     name: { de: "Most", hu: "Most", ro: "Most", en: "Most"},
@@ -27765,6 +28062,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.118563,
                         49.467808
                   ]
+            },
+            {
+                  "name": "Klaster augustinianu kanovniku",
+                  "text": "Das Augustiner-Chorherrenstift in Prostějov ist ein historisches Kloster mit bedeutender Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.112288,
+                        49.471662
+                  ]
+            },
+            {
+                  "name": "Zamek Prostejov",
+                  "text": "Das Schloss Prostějov ist eine historische Residenz im Stadtzentrum mit Renaissance-Elementen.",
+                  "category": "castle",
+                  "coords": [
+                        17.108786,
+                        49.474011
+                  ]
+            },
+            {
+                  "name": "Kapucinsky klaster",
+                  "text": "Das Kapuzinerkloster in Prostějov ist ein geistliches Gebäude mit einer langen Geschichte in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        17.11204,
+                        49.466582
+                  ]
+            },
+            {
+                  "name": "Narodni dum",
+                  "text": "Das Narodni dum (Nationalhaus) in Prostějov ist ein bedeutendes Jugendstilgebäude und kulturelles Zentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        17.11437,
+                        49.473604
+                  ]
+            },
+            {
+                  "name": "Aquapark Koupelky",
+                  "text": "Der Aquapark Koupelky in Prostějov ist ein modernes Freibad mit verschiedenen Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.089609,
+                        49.467708
+                  ]
+            },
+            {
+                  "name": "Botanicka zahrada Petra Albrechta",
+                  "text": "Der Botanische Garten Petra Albrechta in Prostějov beherbergt eine Sammlung vielfältiger Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        17.117649,
+                        49.467033
+                  ]
             }
       ],
       "hu": [
@@ -27829,6 +28180,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.118563,
                         49.467808
+                  ]
+            },
+            {
+                  "name": "Klaster augustinianu kanovniku",
+                  "text": "A prostějovi ágostonos kanonokrendi kolostor jelentős építészeti jegyekkel bíró történelmi épületegyüttes.",
+                  "category": "religious",
+                  "coords": [
+                        17.112288,
+                        49.471662
+                  ]
+            },
+            {
+                  "name": "Zamek Prostejov",
+                  "text": "A prostějovi kastély a városközpont egyik történelmi rezidenciája reneszánsz stílusjegyekkel.",
+                  "category": "castle",
+                  "coords": [
+                        17.108786,
+                        49.474011
+                  ]
+            },
+            {
+                  "name": "Kapucinsky klaster",
+                  "text": "A prostějovi kapucinus kolostor egy egyházi épület, amely hosszú múltra tekint vissza a városban.",
+                  "category": "religious",
+                  "coords": [
+                        17.11204,
+                        49.466582
+                  ]
+            },
+            {
+                  "name": "Narodni dum",
+                  "text": "A prostějovi Narodni dum (Nemzeti Ház) egy jelentős szecessziós épület és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        17.11437,
+                        49.473604
+                  ]
+            },
+            {
+                  "name": "Aquapark Koupelky",
+                  "text": "A prostějovi Koupelky Aquapark egy modern strandfürdő különféle vízi élményelemekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.089609,
+                        49.467708
+                  ]
+            },
+            {
+                  "name": "Botanicka zahrada Petra Albrechta",
+                  "text": "A prostějovi Petra Albrechta Botanikus Kert különféle növényfajok gyűjteményének ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        17.117649,
+                        49.467033
                   ]
             }
       ],
@@ -27895,6 +28300,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.118563,
                         49.467808
                   ]
+            },
+            {
+                  "name": "Klaster augustinianu kanovniku",
+                  "text": "Mănăstirea Canonicilor Augustinieni din Prostějov este un lăcaș istoric cu o arhitectură semnificativă.",
+                  "category": "religious",
+                  "coords": [
+                        17.112288,
+                        49.471662
+                  ]
+            },
+            {
+                  "name": "Zamek Prostejov",
+                  "text": "Castelul Prostějov este o reședință istorică din centrul orașului, cu elemente renascentiste.",
+                  "category": "castle",
+                  "coords": [
+                        17.108786,
+                        49.474011
+                  ]
+            },
+            {
+                  "name": "Kapucinsky klaster",
+                  "text": "Mănăstirea Capucinilor din Prostějov este o clădire spirituală cu o istorie îndelungată în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        17.11204,
+                        49.466582
+                  ]
+            },
+            {
+                  "name": "Narodni dum",
+                  "text": "Narodni dum (Casa Națională) din Prostějov este o clădire Art Nouveau importantă și un centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        17.11437,
+                        49.473604
+                  ]
+            },
+            {
+                  "name": "Aquapark Koupelky",
+                  "text": "Aquapark Koupelky din Prostějov este un parc acvatic modern cu diverse atracții cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.089609,
+                        49.467708
+                  ]
+            },
+            {
+                  "name": "Botanicka zahrada Petra Albrechta",
+                  "text": "Grădina Botanică Petra Albrechta din Prostějov găzduiește o colecție de diverse specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        17.117649,
+                        49.467033
+                  ]
             }
       ],
       "en": [
@@ -27959,6 +28418,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.118563,
                         49.467808
+                  ]
+            },
+            {
+                  "name": "Klaster augustinianu kanovniku",
+                  "text": "The Augustinian Canons Monastery in Prostějov is a historical monastery with significant architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.112288,
+                        49.471662
+                  ]
+            },
+            {
+                  "name": "Zamek Prostejov",
+                  "text": "Prostějov Castle is a historical residence in the city center with Renaissance elements.",
+                  "category": "castle",
+                  "coords": [
+                        17.108786,
+                        49.474011
+                  ]
+            },
+            {
+                  "name": "Kapucinsky klaster",
+                  "text": "The Capuchin Monastery in Prostějov is a religious building with a long history in the city.",
+                  "category": "religious",
+                  "coords": [
+                        17.11204,
+                        49.466582
+                  ]
+            },
+            {
+                  "name": "Narodni dum",
+                  "text": "The Narodni dum (National House) in Prostějov is a significant Art Nouveau building and cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        17.11437,
+                        49.473604
+                  ]
+            },
+            {
+                  "name": "Aquapark Koupelky",
+                  "text": "Aquapark Koupelky in Prostějov is a modern water park with various water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        17.089609,
+                        49.467708
+                  ]
+            },
+            {
+                  "name": "Botanicka zahrada Petra Albrechta",
+                  "text": "The Petra Albrechta Botanical Garden in Prostějov is home to a collection of diverse plant species.",
+                  "category": "park",
+                  "coords": [
+                        17.117649,
+                        49.467033
                   ]
             }
       ]
@@ -28795,6 +29308,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.540187,
                         50.681616
                   ]
+            },
+            {
+                  "name": "Jiraskovo divadlo",
+                  "text": "Ein nach dem Schriftsteller Alois Jirásek benanntes lokales Theater, das verschiedene kulturelle Bühnenveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        14.538697,
+                        50.686667
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum a galerie",
+                  "text": "Dieses in einem ehemaligen Kloster untergebrachte Museum zeigt Ausstellungen zur Regionalgeschichte und Naturwissenschaft.",
+                  "category": "museum",
+                  "coords": [
+                        14.534404,
+                        50.685869
+                  ]
+            },
+            {
+                  "name": "Archeologicke muzeum Satlava v Ceske Lipe",
+                  "text": "Ein archäologisches Museum in einem ehemaligen Gefängnis, das sich auf die Geschichte der Stadt konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        14.537397,
+                        50.687366
+                  ]
+            },
+            {
+                  "name": "Centrum textilniho tisku",
+                  "text": "Ein Museum, das dem traditionellen Handwerk und der Geschichte des Textildrucks in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.539616,
+                        50.68428
+                  ]
+            },
+            {
+                  "name": "Ruins of Holy vrch Restaurant",
+                  "text": "Die historischen Überreste eines ehemaligen Restaurants und Aussichtspunkts auf dem Heiligen Berg.",
+                  "category": "historical",
+                  "coords": [
+                        14.516097,
+                        50.681107
+                  ]
+            },
+            {
+                  "name": "svata Mari Magdalena",
+                  "text": "Eine bedeutende Barockkirche, die der heiligen Maria Magdalena gewidmet ist, im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.536271,
+                        50.682815
+                  ]
             }
       ],
       "hu": [
@@ -28949,6 +29516,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.540187,
                         50.681616
+                  ]
+            },
+            {
+                  "name": "Jiraskovo divadlo",
+                  "text": "Alois Jirásek íróról elnevezett helyi színház, amely különféle kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        14.538697,
+                        50.686667
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum a galerie",
+                  "text": "Az egykori kolostorban található múzeum regionális történeti és természettudományi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.534404,
+                        50.685869
+                  ]
+            },
+            {
+                  "name": "Archeologicke muzeum Satlava v Ceske Lipe",
+                  "text": "Egy korábbi börtönben kialakított régészeti múzeum, amely a város történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        14.537397,
+                        50.687366
+                  ]
+            },
+            {
+                  "name": "Centrum textilniho tisku",
+                  "text": "A régió textilnyomtatásának hagyományos mesterségével és történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.539616,
+                        50.68428
+                  ]
+            },
+            {
+                  "name": "Ruins of Holy vrch Restaurant",
+                  "text": "Egy egykori étterem és kilátó történelmi maradványai a Szent-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        14.516097,
+                        50.681107
+                  ]
+            },
+            {
+                  "name": "svata Mari Magdalena",
+                  "text": "Szent Mária Magdolnának szentelt jelentős barokk templom a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        14.536271,
+                        50.682815
                   ]
             }
       ],
@@ -29105,6 +29726,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.540187,
                         50.681616
                   ]
+            },
+            {
+                  "name": "Jiraskovo divadlo",
+                  "text": "Un teatru local numit după scriitorul Alois Jirásek, care găzduiește diverse evenimente culturale pe scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        14.538697,
+                        50.686667
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum a galerie",
+                  "text": "Situat într-o fostă mănăstire, acest muzeu prezintă exponate de istorie regională și științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        14.534404,
+                        50.685869
+                  ]
+            },
+            {
+                  "name": "Archeologicke muzeum Satlava v Ceske Lipe",
+                  "text": "Un muzeu arheologic găzduit într-o fostă închisoare, axat pe istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        14.537397,
+                        50.687366
+                  ]
+            },
+            {
+                  "name": "Centrum textilniho tisku",
+                  "text": "Un muzeu dedicat meșteșugului tradițional și istoriei imprimării textile în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.539616,
+                        50.68428
+                  ]
+            },
+            {
+                  "name": "Ruins of Holy vrch Restaurant",
+                  "text": "Rămășițele istorice ale unui fost restaurant și punct de belvedere situat pe Dealul Sfânt.",
+                  "category": "historical",
+                  "coords": [
+                        14.516097,
+                        50.681107
+                  ]
+            },
+            {
+                  "name": "svata Mari Magdalena",
+                  "text": "O biserică barocă semnificativă dedicată Sfintei Maria Magdalena, situată în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        14.536271,
+                        50.682815
+                  ]
             }
       ],
       "en": [
@@ -29259,6 +29934,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.540187,
                         50.681616
+                  ]
+            },
+            {
+                  "name": "Jiraskovo divadlo",
+                  "text": "A local theater named after writer Alois Jirásek, hosting various cultural stage events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.538697,
+                        50.686667
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum a galerie",
+                  "text": "Located in a former monastery, this museum features regional history and natural science exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        14.534404,
+                        50.685869
+                  ]
+            },
+            {
+                  "name": "Archeologicke muzeum Satlava v Ceske Lipe",
+                  "text": "An archaeological museum housed in a former prison, focusing on the history of the town.",
+                  "category": "museum",
+                  "coords": [
+                        14.537397,
+                        50.687366
+                  ]
+            },
+            {
+                  "name": "Centrum textilniho tisku",
+                  "text": "A museum dedicated to the traditional craft and history of textile printing in the region.",
+                  "category": "museum",
+                  "coords": [
+                        14.539616,
+                        50.68428
+                  ]
+            },
+            {
+                  "name": "Ruins of Holy vrch Restaurant",
+                  "text": "The historical remains of a former restaurant and viewpoint located on the Holy Hill.",
+                  "category": "historical",
+                  "coords": [
+                        14.516097,
+                        50.681107
+                  ]
+            },
+            {
+                  "name": "svata Mari Magdalena",
+                  "text": "A significant Baroque church dedicated to Saint Mary Magdalene in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        14.536271,
+                        50.682815
                   ]
             }
       ]
@@ -31562,6 +32291,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.644121,
                         49.405808
                   ]
+            },
+            {
+                  "name": "prirodni pamatka Granatova skala",
+                  "text": "Dieses Naturdenkmal bei Tábor ist eine markante Felsformation aus Granat-Glimmerschiefer.",
+                  "category": "natural",
+                  "coords": [
+                        14.656447,
+                        49.410493
+                  ]
+            },
+            {
+                  "name": "Divadlo Oskara Nedbala",
+                  "text": "Das Haupttheater der Stadt Tábor bietet ein vielfältiges Programm an Schauspiel- und Musikaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.662,
+                        49.413097
+                  ]
+            },
+            {
+                  "name": "Vodarenska vez",
+                  "text": "Dieser ehemalige Wasserturm in Tábor dient heute als Galerie und Ausstellungsraum.",
+                  "category": "museum",
+                  "coords": [
+                        14.66042,
+                        49.415032
+                  ]
+            },
+            {
+                  "name": "Zoo Tabor",
+                  "text": "Der Zoo in Tábor konzentriert sich auf den Schutz gefährdeter Arten und ist einer der jüngsten Tierparks in Tschechien.",
+                  "category": "recreational",
+                  "coords": [
+                        14.650339,
+                        49.388151
+                  ]
+            },
+            {
+                  "name": "Muzeum cokolady a marcipanu",
+                  "text": "Dieses Museum in Tábor zeigt die Geschichte und Herstellung von Schokolade und Marzipan.",
+                  "category": "museum",
+                  "coords": [
+                        14.658266,
+                        49.412966
+                  ]
+            },
+            {
+                  "name": "Strasidelne podzemi a muzeum starych remesel",
+                  "text": "Das Museum bietet einen Rundgang durch historische Keller und Ausstellungen zu alten Handwerksberufen.",
+                  "category": "museum",
+                  "coords": [
+                        14.658582,
+                        49.414751
+                  ]
             }
       ],
       "hu": [
@@ -31707,6 +32490,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.644121,
                         49.405808
+                  ]
+            },
+            {
+                  "name": "prirodni pamatka Granatova skala",
+                  "text": "Ez a Tábor közeli természeti emlék egy jellegzetes gránátcsillámpala sziklaalakzat.",
+                  "category": "natural",
+                  "coords": [
+                        14.656447,
+                        49.410493
+                  ]
+            },
+            {
+                  "name": "Divadlo Oskara Nedbala",
+                  "text": "Tábor városának fő színháza színdarabok és zenés előadások változatos programját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.662,
+                        49.413097
+                  ]
+            },
+            {
+                  "name": "Vodarenska vez",
+                  "text": "Ez az egykori tábori víztorony ma galériaként és kiállítótérként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        14.66042,
+                        49.415032
+                  ]
+            },
+            {
+                  "name": "Zoo Tabor",
+                  "text": "A tábori állatkert a veszélyeztetett fajok védelmére összpontosít, és Csehország egyik legfiatalabb állatkertje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.650339,
+                        49.388151
+                  ]
+            },
+            {
+                  "name": "Muzeum cokolady a marcipanu",
+                  "text": "Ez a tábori múzeum a csokoládé és a marcipán történetét és készítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.658266,
+                        49.412966
+                  ]
+            },
+            {
+                  "name": "Strasidelne podzemi a muzeum starych remesel",
+                  "text": "A múzeum körutat kínál a történelmi pincékben, és régi mesterségeket bemutató kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        14.658582,
+                        49.414751
                   ]
             }
       ],
@@ -31854,6 +32691,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.644121,
                         49.405808
                   ]
+            },
+            {
+                  "name": "prirodni pamatka Granatova skala",
+                  "text": "Acest monument natural de lângă Tábor este o formațiune stâncoasă distinctivă din micașist cu granat.",
+                  "category": "natural",
+                  "coords": [
+                        14.656447,
+                        49.410493
+                  ]
+            },
+            {
+                  "name": "Divadlo Oskara Nedbala",
+                  "text": "Teatrul principal din orașul Tábor oferă un program diversificat de spectacole de teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        14.662,
+                        49.413097
+                  ]
+            },
+            {
+                  "name": "Vodarenska vez",
+                  "text": "Acest fost turn de apă din Tábor servește astăzi ca galerie și spațiu de expoziție.",
+                  "category": "museum",
+                  "coords": [
+                        14.66042,
+                        49.415032
+                  ]
+            },
+            {
+                  "name": "Zoo Tabor",
+                  "text": "Grădina Zoologică din Tábor se concentrează pe protejarea speciilor pe cale de dispariție și este una dintre cele mai noi din Cehia.",
+                  "category": "recreational",
+                  "coords": [
+                        14.650339,
+                        49.388151
+                  ]
+            },
+            {
+                  "name": "Muzeum cokolady a marcipanu",
+                  "text": "Acest muzeu din Tábor prezintă istoria și fabricarea ciocolatei și a marțipanului.",
+                  "category": "museum",
+                  "coords": [
+                        14.658266,
+                        49.412966
+                  ]
+            },
+            {
+                  "name": "Strasidelne podzemi a muzeum starych remesel",
+                  "text": "Muzeul oferă un tur prin pivnițe istorice și expoziții dedicate meșteșugurilor vechi.",
+                  "category": "museum",
+                  "coords": [
+                        14.658582,
+                        49.414751
+                  ]
             }
       ],
       "en": [
@@ -31999,6 +32890,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.644121,
                         49.405808
+                  ]
+            },
+            {
+                  "name": "prirodni pamatka Granatova skala",
+                  "text": "This natural monument near Tábor is a prominent rock formation made of garnet mica schist.",
+                  "category": "natural",
+                  "coords": [
+                        14.656447,
+                        49.410493
+                  ]
+            },
+            {
+                  "name": "Divadlo Oskara Nedbala",
+                  "text": "The main theatre in the city of Tábor offers a diverse program of drama and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        14.662,
+                        49.413097
+                  ]
+            },
+            {
+                  "name": "Vodarenska vez",
+                  "text": "This former water tower in Tábor now serves as a gallery and exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        14.66042,
+                        49.415032
+                  ]
+            },
+            {
+                  "name": "Zoo Tabor",
+                  "text": "The zoo in Tábor focuses on the protection of endangered species and is one of the newest zoos in the Czech Republic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.650339,
+                        49.388151
+                  ]
+            },
+            {
+                  "name": "Muzeum cokolady a marcipanu",
+                  "text": "This museum in Tábor showcases the history and production of chocolate and marzipan.",
+                  "category": "museum",
+                  "coords": [
+                        14.658266,
+                        49.412966
+                  ]
+            },
+            {
+                  "name": "Strasidelne podzemi a muzeum starych remesel",
+                  "text": "The museum offers a tour of historical cellars and exhibitions dedicated to old crafts.",
+                  "category": "museum",
+                  "coords": [
+                        14.658582,
+                        49.414751
                   ]
             }
       ]
@@ -41587,6 +42532,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.13024,
                         48.844022
                   ]
+            },
+            {
+                  "name": "prirodni pamatka Ocovske louky",
+                  "text": "Dieses Naturschutzgebiet bei Hodonín schützt wertvolle Wiesen-Ökosysteme in der March-Aue.",
+                  "category": "natural",
+                  "coords": [
+                        17.154032,
+                        48.859206
+                  ]
+            },
+            {
+                  "name": "Muzeum naftoveho dobyvani a geologie",
+                  "text": "Das Museum dokumentiert die Geschichte der Erdölförderung und die geologischen Besonderheiten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.121184,
+                        48.856956
+                  ]
+            },
+            {
+                  "name": "Masarykovo Muzeum v Hodonine",
+                  "text": "Das Museum in Hodonín widmet sich dem Leben und Werk von Tomáš Garrigue Masaryk.",
+                  "category": "museum",
+                  "coords": [
+                        17.127293,
+                        48.846704
+                  ]
+            },
+            {
+                  "name": "Dum prirody Hodoninske Dubravy",
+                  "text": "Das Naturzentrum bietet Informationen über die Flora und Fauna der Hodoníner Eichenwälder.",
+                  "category": "museum",
+                  "coords": [
+                        17.111862,
+                        48.861642
+                  ]
+            },
+            {
+                  "name": "pavilon opic",
+                  "text": "Diese Anlage beherbergt verschiedene Primatenarten und ist Teil des örtlichen Zoos.",
+                  "category": "landmark",
+                  "coords": [
+                        17.106965,
+                        48.864246
+                  ]
             }
       ],
       "hu": [
@@ -41669,6 +42659,51 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.13024,
                         48.844022
+                  ]
+            },
+            {
+                  "name": "prirodni pamatka Ocovske louky",
+                  "text": "Ez a Hodonín közeli természetvédelmi terület értékes réti ökoszisztémákat véd a Morva folyó árterében.",
+                  "category": "natural",
+                  "coords": [
+                        17.154032,
+                        48.859206
+                  ]
+            },
+            {
+                  "name": "Muzeum naftoveho dobyvani a geologie",
+                  "text": "A múzeum dokumentálja a kőolajbányászat történetét és a régió geológiai sajátosságait.",
+                  "category": "museum",
+                  "coords": [
+                        17.121184,
+                        48.856956
+                  ]
+            },
+            {
+                  "name": "Masarykovo Muzeum v Hodonine",
+                  "text": "A hodoníni múzeum Tomáš Garrigue Masaryk életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        17.127293,
+                        48.846704
+                  ]
+            },
+            {
+                  "name": "Dum prirody Hodoninske Dubravy",
+                  "text": "A természet háza információkat nyújt a hodoníni tölgyerdők növény- és állatvilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        17.111862,
+                        48.861642
+                  ]
+            },
+            {
+                  "name": "pavilon opic",
+                  "text": "Ez a létesítmény különböző majomfajoknak ad otthont, és a helyi állatkert része.",
+                  "category": "landmark",
+                  "coords": [
+                        17.106965,
+                        48.864246
                   ]
             }
       ],
@@ -41753,6 +42788,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.13024,
                         48.844022
                   ]
+            },
+            {
+                  "name": "prirodni pamatka Ocovske louky",
+                  "text": "Această rezervație naturală de lângă Hodonín protejează ecosisteme valoroase de luncă în lunca râului Morava.",
+                  "category": "natural",
+                  "coords": [
+                        17.154032,
+                        48.859206
+                  ]
+            },
+            {
+                  "name": "Muzeum naftoveho dobyvani a geologie",
+                  "text": "Muzeul documentează istoria extracției petrolului și particularitățile geologice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.121184,
+                        48.856956
+                  ]
+            },
+            {
+                  "name": "Masarykovo Muzeum v Hodonine",
+                  "text": "Muzeul din Hodonín este dedicat vieții și operei lui Tomáš Garrigue Masaryk.",
+                  "category": "museum",
+                  "coords": [
+                        17.127293,
+                        48.846704
+                  ]
+            },
+            {
+                  "name": "Dum prirody Hodoninske Dubravy",
+                  "text": "Centrul naturii oferă informații despre flora și fauna pădurilor de stejar din Hodonín.",
+                  "category": "museum",
+                  "coords": [
+                        17.111862,
+                        48.861642
+                  ]
+            },
+            {
+                  "name": "pavilon opic",
+                  "text": "Această facilitate găzduiește diverse specii de primate și face parte din grădina zoologică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        17.106965,
+                        48.864246
+                  ]
             }
       ],
       "en": [
@@ -41835,6 +42915,51 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.13024,
                         48.844022
+                  ]
+            },
+            {
+                  "name": "prirodni pamatka Ocovske louky",
+                  "text": "This nature reserve near Hodonín protects valuable meadow ecosystems in the Morava river floodplain.",
+                  "category": "natural",
+                  "coords": [
+                        17.154032,
+                        48.859206
+                  ]
+            },
+            {
+                  "name": "Muzeum naftoveho dobyvani a geologie",
+                  "text": "The museum documents the history of oil extraction and the geological features of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.121184,
+                        48.856956
+                  ]
+            },
+            {
+                  "name": "Masarykovo Muzeum v Hodonine",
+                  "text": "The museum in Hodonín is dedicated to the life and work of Tomáš Garrigue Masaryk.",
+                  "category": "museum",
+                  "coords": [
+                        17.127293,
+                        48.846704
+                  ]
+            },
+            {
+                  "name": "Dum prirody Hodoninske Dubravy",
+                  "text": "The nature center provides information about the flora and fauna of the Hodonín oak forests.",
+                  "category": "museum",
+                  "coords": [
+                        17.111862,
+                        48.861642
+                  ]
+            },
+            {
+                  "name": "pavilon opic",
+                  "text": "This facility houses various primate species and is part of the local zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        17.106965,
+                        48.864246
                   ]
             }
       ]
@@ -54521,6 +55646,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.422487,
                         50.476828
                   ]
+            },
+            {
+                  "name": "Schloss Rothenhaus",
+                  "text": "Ein historisches Schloss in Jirkov mit klassischer Architektur, umgeben von einer Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        13.444354,
+                        50.512368
+                  ]
+            },
+            {
+                  "name": "Galerie Jirkov",
+                  "text": "Eine lokale Kunstgalerie in Jirkov, die Werke verschiedener Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.447859,
+                        50.49887
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Jirkov",
+                  "text": "Ein Kulturhaus und Theater in Jirkov, das lokale Veranstaltungen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        13.449476,
+                        50.498385
+                  ]
+            },
+            {
+                  "name": "Městské sklepy",
+                  "text": "Historische unterirdische Keller in Jirkov, die Einblick in die mittelalterlichen Lagersysteme der Stadt bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.446044,
+                        50.499966
+                  ]
+            },
+            {
+                  "name": "Karlshohe",
+                  "text": "Ein malerischer Aussichtspunkt in Jirkov, der Ausblicke auf die Stadt und die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.410925,
+                        50.511336
+                  ]
+            },
+            {
+                  "name": "Kaple Panny Marie Pomocné",
+                  "text": "Eine friedliche Kapelle in Jirkov, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.431504,
+                        50.503942
+                  ]
             }
       ],
       "hu": [
@@ -54549,6 +55728,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.422487,
                         50.476828
+                  ]
+            },
+            {
+                  "name": "zámek Červený Hrádek",
+                  "text": "Történelmi kastély Jirkovban, amely klasszikus építészettel és parkkal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        13.444354,
+                        50.512368
+                  ]
+            },
+            {
+                  "name": "Galerie Jirkov",
+                  "text": "Helyi művészeti galéria Jirkovban, amely különféle művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.447859,
+                        50.49887
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Jirkov",
+                  "text": "Kulturház és színház Jirkovban, amely helyi rendezvényeknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.449476,
+                        50.498385
+                  ]
+            },
+            {
+                  "name": "Městské sklepy",
+                  "text": "Történelmi föld alatti pincék Jirkovban, amelyek betekintést nyújtanak a város középkori tárolórendszereibe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.446044,
+                        50.499966
+                  ]
+            },
+            {
+                  "name": "Karlova Výšina",
+                  "text": "Festői kilátópont Jirkovban, ahonnan kilátás nyílik a városra és a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.410925,
+                        50.511336
+                  ]
+            },
+            {
+                  "name": "Kaple Panny Marie Pomocné",
+                  "text": "Békés kápolna Jirkovban, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        13.431504,
+                        50.503942
                   ]
             }
       ],
@@ -54579,6 +55812,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.422487,
                         50.476828
                   ]
+            },
+            {
+                  "name": "zámek Červený Hrádek",
+                  "text": "Un castel istoric din Jirkov, cu arhitectură clasică și înconjurat de un parc.",
+                  "category": "castle",
+                  "coords": [
+                        13.444354,
+                        50.512368
+                  ]
+            },
+            {
+                  "name": "Galerie Jirkov",
+                  "text": "O galerie de artă locală din Jirkov care expune lucrări ale diverșilor artiști.",
+                  "category": "museum",
+                  "coords": [
+                        13.447859,
+                        50.49887
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Jirkov",
+                  "text": "O casă de cultură și teatru din Jirkov care găzduiește evenimente și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.449476,
+                        50.498385
+                  ]
+            },
+            {
+                  "name": "Městské sklepy",
+                  "text": "Pivnițe subterane istorice în Jirkov, care oferă o incursiune în sistemele de depozitare medievale ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        13.446044,
+                        50.499966
+                  ]
+            },
+            {
+                  "name": "Karlova Výšina",
+                  "text": "Un punct de observație pitoresc din Jirkov care oferă priveliști asupra orașului și a peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        13.410925,
+                        50.511336
+                  ]
+            },
+            {
+                  "name": "Kaple Panny Marie Pomocné",
+                  "text": "O capelă liniștită din Jirkov dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        13.431504,
+                        50.503942
+                  ]
             }
       ],
       "en": [
@@ -54607,6 +55894,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.422487,
                         50.476828
+                  ]
+            },
+            {
+                  "name": "zámek Červený Hrádek",
+                  "text": "A historic castle in Jirkov, featuring classic architecture and surrounded by parkland.",
+                  "category": "castle",
+                  "coords": [
+                        13.444354,
+                        50.512368
+                  ]
+            },
+            {
+                  "name": "Galerie Jirkov",
+                  "text": "A local art gallery in Jirkov exhibiting works by various artists.",
+                  "category": "museum",
+                  "coords": [
+                        13.447859,
+                        50.49887
+                  ]
+            },
+            {
+                  "name": "Kulturní dům Jirkov",
+                  "text": "A cultural center and theater in Jirkov that hosts local events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.449476,
+                        50.498385
+                  ]
+            },
+            {
+                  "name": "Městské sklepy",
+                  "text": "Historic underground cellars in Jirkov, offering insight into the town's medieval storage systems.",
+                  "category": "landmark",
+                  "coords": [
+                        13.446044,
+                        50.499966
+                  ]
+            },
+            {
+                  "name": "Karlova Výšina",
+                  "text": "A scenic viewpoint in Jirkov providing views of the town and surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.410925,
+                        50.511336
+                  ]
+            },
+            {
+                  "name": "Kaple Panny Marie Pomocné",
+                  "text": "A peaceful chapel in Jirkov dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        13.431504,
+                        50.503942
                   ]
             }
       ]
@@ -58232,6 +59573,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.158439,
                         50.420579
                   ]
+            },
+            {
+                  "name": "Dr. Josefa Cizka",
+                  "text": "Das Stadttheater und Sozialzentrum, das eine Vielzahl von Kulturaufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.162184,
+                        50.417096
+                  ]
+            },
+            {
+                  "name": "Divadelko pod Zamkem",
+                  "text": "Ein kleiner Theaterort direkt unterhalb des Schlosskomplexes Náchod.",
+                  "category": "cultural",
+                  "coords": [
+                        16.161147,
+                        50.416154
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 81 Lom",
+                  "text": "Teil eines Militärmuseums mit einem erhaltenen Infanteriebunker aus den Befestigungsanlagen des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        16.199938,
+                        50.413309
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 82 Brezinka",
+                  "text": "Ein rekonstruierter Bunker, der als militärhistorisches Museum für Grenzbefestigungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        16.197934,
+                        50.415409
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 84 Voda",
+                  "text": "Ein Freilichtmuseum für Befestigungsanlagen in Náchod.",
+                  "category": "museum",
+                  "coords": [
+                        16.189927,
+                        50.421649
+                  ]
             }
       ],
       "hu": [
@@ -58323,6 +59709,51 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.158439,
                         50.420579
+                  ]
+            },
+            {
+                  "name": "Dr. Josefa Cizka",
+                  "text": "A városi színház és társadalmi központ, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.162184,
+                        50.417096
+                  ]
+            },
+            {
+                  "name": "Divadelko pod Zamkem",
+                  "text": "Kicsi színház közvetlenül a náchodi várkomplexum alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.161147,
+                        50.416154
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 81 Lom",
+                  "text": "Egy katonai múzeum része, amely a második világháborús erődítmények egyik megőrzött gyalogsági bunkerét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.199938,
+                        50.413309
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 82 Brezinka",
+                  "text": "Rekonstruált bunker, amely a határmenti erődítmények hadtörténeti múzeumaként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        16.197934,
+                        50.415409
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 84 Voda",
+                  "text": "Erődítményeket bemutató szabadtéri múzeum Náchodban.",
+                  "category": "museum",
+                  "coords": [
+                        16.189927,
+                        50.421649
                   ]
             }
       ],
@@ -58416,6 +59847,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.158439,
                         50.420579
                   ]
+            },
+            {
+                  "name": "Dr. Josefa Cizka",
+                  "text": "Teatrul municipal și centrul social, care găzduiește o varietate de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.162184,
+                        50.417096
+                  ]
+            },
+            {
+                  "name": "Divadelko pod Zamkem",
+                  "text": "O mică sală de teatru situată chiar sub complexul castelului Náchod.",
+                  "category": "cultural",
+                  "coords": [
+                        16.161147,
+                        50.416154
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 81 Lom",
+                  "text": "Parte a unui muzeu militar care prezintă un buncăr de infanterie păstrat din fortificațiile celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        16.199938,
+                        50.413309
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 82 Brezinka",
+                  "text": "Un buncăr reconstruit care servește drept muzeu de istorie militară a fortificațiilor de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        16.197934,
+                        50.415409
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 84 Voda",
+                  "text": "Un muzeu în aer liber al fortificațiilor situat în Náchod.",
+                  "category": "museum",
+                  "coords": [
+                        16.189927,
+                        50.421649
+                  ]
             }
       ],
       "en": [
@@ -58508,6 +59984,51 @@ export const czechrepublicCitiesV2: POI[] = [
                         16.158439,
                         50.420579
                   ]
+            },
+            {
+                  "name": "Dr. Josefa Cizka",
+                  "text": "The municipal theater and social center, hosting a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.162184,
+                        50.417096
+                  ]
+            },
+            {
+                  "name": "Divadelko pod Zamkem",
+                  "text": "A small theater venue located just below the Náchod castle complex.",
+                  "category": "cultural",
+                  "coords": [
+                        16.161147,
+                        50.416154
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 81 Lom",
+                  "text": "Part of a military museum featuring a preserved infantry blockhouse from WWII fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        16.199938,
+                        50.413309
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 82 Brezinka",
+                  "text": "A reconstructed bunker serving as a military history museum of border fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        16.197934,
+                        50.415409
+                  ]
+            },
+            {
+                  "name": "Belovesky pevnostni skanzen, N-S 84 Voda",
+                  "text": "An open-air museum of fortifications located in Náchod.",
+                  "category": "museum",
+                  "coords": [
+                        16.189927,
+                        50.421649
+                  ]
             }
       ]
 },
@@ -58567,6 +60088,69 @@ export const czechrepublicCitiesV2: POI[] = [
                         12.720045,
                         49.971188
                   ]
+            },
+            {
+                  "name": "přírodní rezervace Hamrnický mokřad",
+                  "text": "Dieses Naturschutzgebiet in Mariánské Lázně schützt wertvolle Feuchtgebiete und deren Flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.678632,
+                        49.950305
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Žižkův vrch",
+                  "text": "Žižkův vrch ist ein geschütztes Waldgebiet in Mariánské Lázně mit markantem Baumbestand.",
+                  "category": "natural",
+                  "coords": [
+                        12.705736,
+                        49.981397
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Mariánské Lázně",
+                  "text": "Das Stadttheater von Mariánské Lázně ist ein bedeutender Jugendstilbau, in dem kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        12.702445,
+                        49.977897
+                  ]
+            },
+            {
+                  "name": "Hammerhof",
+                  "text": "Das Hamrnický zámeček ist ein historisches Herrenhaus im Stadtteil Hamrníky von Mariánské Lázně.",
+                  "category": "castle",
+                  "coords": [
+                        12.688003,
+                        49.954295
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Das Stadtmuseum in Mariánské Lázně zeigt die Geschichte des Kurortes und seiner berühmten Gäste.",
+                  "category": "museum",
+                  "coords": [
+                        12.708487,
+                        49.977001
+                  ]
+            },
+            {
+                  "name": "Srnčí hřbet",
+                  "text": "Der Srnčí hřbet ist ein bewaldeter Bergrücken bei Mariánské Lázně mit Wanderwegen durch die Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        12.686521,
+                        49.980915
+                  ]
+            },
+            {
+                  "name": "Singende Fontäne",
+                  "text": "Dieser berühmte Brunnen in Mariánské Lázně spielt Musikkompositionen mit synchronisierten Wasserstrahlen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.70616,
+                        49.976583
+                  ]
             }
       ],
       "hu": [
@@ -58577,6 +60161,69 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         12.720045,
                         49.971188
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Hamrnický mokřad",
+                  "text": "Ez a természetvédelmi terület Mariánské Lázněban értékes mocsaras élőhelyeket és növényvilágot óv.",
+                  "category": "natural",
+                  "coords": [
+                        12.678632,
+                        49.950305
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Žižkův vrch",
+                  "text": "A Žižkův vrch egy védett erdős terület Mariánské Lázněban, jellegzetes faállománnyal.",
+                  "category": "natural",
+                  "coords": [
+                        12.705736,
+                        49.981397
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Mariánské Lázně",
+                  "text": "Mariánské Lázně városi színháza egy jelentős szecessziós épület, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.702445,
+                        49.977897
+                  ]
+            },
+            {
+                  "name": "Hamrnický zámeček",
+                  "text": "A Hamrnický zámeček egy történelmi kastély Mariánské Lázně Hamrníky városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        12.688003,
+                        49.954295
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Mariánské Lázně városi múzeuma a fürdőváros történetét és híres vendégeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.708487,
+                        49.977001
+                  ]
+            },
+            {
+                  "name": "Srnčí hřbet",
+                  "text": "A Srnčí hřbet egy erdős magaslat Mariánské Lázně közelében, ahol tanösvények várják a kirándulókat.",
+                  "category": "landmark",
+                  "coords": [
+                        12.686521,
+                        49.980915
+                  ]
+            },
+            {
+                  "name": "Zpívající fontána",
+                  "text": "Ez a híres szökőkút Mariánské Lázněban zenei kompozíciókat ad elő szinkronizált vízsugarakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.70616,
+                        49.976583
                   ]
             }
       ],
@@ -58589,6 +60236,69 @@ export const czechrepublicCitiesV2: POI[] = [
                         12.720045,
                         49.971188
                   ]
+            },
+            {
+                  "name": "přírodní rezervace Hamrnický mokřad",
+                  "text": "Această rezervație naturală din Mariánské Lázně protejează zone umede valoroase și flora acestora.",
+                  "category": "natural",
+                  "coords": [
+                        12.678632,
+                        49.950305
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Žižkův vrch",
+                  "text": "Žižkův vrch este o zonă forestieră protejată în Mariánské Lázně, cu un fond forestier remarcabil.",
+                  "category": "natural",
+                  "coords": [
+                        12.705736,
+                        49.981397
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Mariánské Lázně",
+                  "text": "Teatrul orășenesc din Mariánské Lázně este o clădire Art Nouveau remarcabilă care găzduiește spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.702445,
+                        49.977897
+                  ]
+            },
+            {
+                  "name": "Hamrnický zámeček",
+                  "text": "Hamrnický zámeček este un conac istoric situat în cartierul Hamrníky din Mariánské Lázně.",
+                  "category": "castle",
+                  "coords": [
+                        12.688003,
+                        49.954295
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "Muzeul municipal din Mariánské Lázně prezintă istoria orașului balnear și a oaspeților săi celebri.",
+                  "category": "museum",
+                  "coords": [
+                        12.708487,
+                        49.977001
+                  ]
+            },
+            {
+                  "name": "Srnčí hřbet",
+                  "text": "Srnčí hřbet este o culme împădurită lângă Mariánské Lázně, oferind poteci de drumeție prin natură.",
+                  "category": "landmark",
+                  "coords": [
+                        12.686521,
+                        49.980915
+                  ]
+            },
+            {
+                  "name": "Zpívající fontána",
+                  "text": "Această fântână faimoasă din Mariánské Lázně interpretează compoziții muzicale cu jeturi de apă sincronizate.",
+                  "category": "landmark",
+                  "coords": [
+                        12.70616,
+                        49.976583
+                  ]
             }
       ],
       "en": [
@@ -58599,6 +60309,69 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         12.720045,
                         49.971188
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Hamrnický mokřad",
+                  "text": "This nature reserve in Mariánské Lázně protects valuable wetlands and their flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.678632,
+                        49.950305
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Žižkův vrch",
+                  "text": "Žižkův vrch is a protected forest area in Mariánské Lázně with notable tree specimens.",
+                  "category": "natural",
+                  "coords": [
+                        12.705736,
+                        49.981397
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Mariánské Lázně",
+                  "text": "The city theatre of Mariánské Lázně is a prominent Art Nouveau building hosting cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.702445,
+                        49.977897
+                  ]
+            },
+            {
+                  "name": "Hamrnický zámeček",
+                  "text": "Hamrnický zámeček is a historic manor house in the Hamrníky district of Mariánské Lázně.",
+                  "category": "castle",
+                  "coords": [
+                        12.688003,
+                        49.954295
+                  ]
+            },
+            {
+                  "name": "Městské muzeum",
+                  "text": "The municipal museum in Mariánské Lázně showcases the history of the spa town and its famous guests.",
+                  "category": "museum",
+                  "coords": [
+                        12.708487,
+                        49.977001
+                  ]
+            },
+            {
+                  "name": "Srnčí hřbet",
+                  "text": "Srnčí hřbet is a forested ridge near Mariánské Lázně offering walking paths through nature.",
+                  "category": "landmark",
+                  "coords": [
+                        12.686521,
+                        49.980915
+                  ]
+            },
+            {
+                  "name": "Singing Fountain",
+                  "text": "This famous fountain in Mariánské Lázně performs musical compositions with synchronized water jets.",
+                  "category": "landmark",
+                  "coords": [
+                        12.70616,
+                        49.976583
                   ]
             }
       ]
@@ -65707,6 +67480,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.078418,
                         50.92062
                   ]
+            },
+            {
+                  "name": "PR Krizovy vrch",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Frýdlant.",
+                  "category": "natural",
+                  "coords": [
+                        15.079562,
+                        50.913366
+                  ]
             }
       ],
       "hu": [
@@ -65825,6 +67607,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.078418,
                         50.92062
+                  ]
+            },
+            {
+                  "name": "PR Krizovy vrch",
+                  "text": "Természetvédelmi terület Frýdlant közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.079562,
+                        50.913366
                   ]
             }
       ],
@@ -65945,6 +67736,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.078418,
                         50.92062
                   ]
+            },
+            {
+                  "name": "PR Krizovy vrch",
+                  "text": "O rezervație naturală situată în apropiere de Frýdlant.",
+                  "category": "natural",
+                  "coords": [
+                        15.079562,
+                        50.913366
+                  ]
             }
       ],
       "en": [
@@ -66063,6 +67863,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.078418,
                         50.92062
+                  ]
+            },
+            {
+                  "name": "PR Krizovy vrch",
+                  "text": "A nature reserve located near Frýdlant.",
+                  "category": "natural",
+                  "coords": [
+                        15.079562,
+                        50.913366
                   ]
             }
       ]
@@ -67381,6 +69190,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.798016,
                         50.431769
                   ]
+            },
+            {
+                  "name": "ZOO Dvur Kralove",
+                  "text": "Dieser Tierpark ist besonders für seine Safari-Anlagen und die bedeutende Nashornzucht bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.800061,
+                        50.433953
+                  ]
+            },
+            {
+                  "name": "Detska zoo",
+                  "text": "Dieser Bereich des Zoos ermöglicht Kindern direkten Kontakt mit zahmen Haustieren.",
+                  "category": "recreational",
+                  "coords": [
+                        15.802218,
+                        50.43487
+                  ]
+            },
+            {
+                  "name": "Galerie mineralu",
+                  "text": "Die Galerie zeigt eine beeindruckende Sammlung von Mineralien und Edelsteinen aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        15.815763,
+                        50.416446
+                  ]
+            },
+            {
+                  "name": "Mestske muzeum - Spychar",
+                  "text": "Ein historischer Getreidespeicher, der heute für museale Ausstellungen der Stadt genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        15.816138,
+                        50.435023
+                  ]
+            },
+            {
+                  "name": "Hankuv dum",
+                  "text": "Dieses Kulturhaus in Dvůr Králové ist ein Zentrum für Theateraufführungen und gesellschaftliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        15.811939,
+                        50.431003
+                  ]
+            },
+            {
+                  "name": "Na Borkach",
+                  "text": "Ein markanter Hügel in der Umgebung von Dvůr Králové, der als Ziel für Wanderungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        15.823654,
+                        50.419597
+                  ]
             }
       ],
       "hu": [
@@ -67463,6 +69326,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.798016,
                         50.431769
+                  ]
+            },
+            {
+                  "name": "ZOO Dvur Kralove",
+                  "text": "Ez az állatkert különösen a szafari létesítményeiről és jelentős orrszarvútenyésztéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.800061,
+                        50.433953
+                  ]
+            },
+            {
+                  "name": "Detska zoo",
+                  "text": "Az állatkert ezen része lehetővé teszi a gyermekek számára a közvetlen érintkezést a szelíd háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        15.802218,
+                        50.43487
+                  ]
+            },
+            {
+                  "name": "Galerie mineralu",
+                  "text": "A galéria ásványok és drágakövek lenyűgöző gyűjteményét mutatja be a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        15.815763,
+                        50.416446
+                  ]
+            },
+            {
+                  "name": "Mestske muzeum - Spychar",
+                  "text": "Egy történelmi magtár, amelyet ma a város múzeumi kiállításaihoz használnak.",
+                  "category": "museum",
+                  "coords": [
+                        15.816138,
+                        50.435023
+                  ]
+            },
+            {
+                  "name": "Hankuv dum",
+                  "text": "Ez a Dvůr Králové-i kultúrház színházi előadások és társadalmi események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.811939,
+                        50.431003
+                  ]
+            },
+            {
+                  "name": "Na Borkach",
+                  "text": "Egy jellegzetes domb Dvůr Králové környékén, amely túrák célpontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.823654,
+                        50.419597
                   ]
             }
       ],
@@ -67547,6 +69464,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.798016,
                         50.431769
                   ]
+            },
+            {
+                  "name": "ZOO Dvur Kralove",
+                  "text": "Această grădină zoologică este cunoscută în special pentru facilitățile de safari și creșterea importantă a rinocerilor.",
+                  "category": "recreational",
+                  "coords": [
+                        15.800061,
+                        50.433953
+                  ]
+            },
+            {
+                  "name": "Detska zoo",
+                  "text": "Această zonă a grădinii zoologice permite copiilor contactul direct cu animale domestice blânde.",
+                  "category": "recreational",
+                  "coords": [
+                        15.802218,
+                        50.43487
+                  ]
+            },
+            {
+                  "name": "Galerie mineralu",
+                  "text": "Galeria prezintă o colecție impresionantă de minerale și pietre prețioase din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        15.815763,
+                        50.416446
+                  ]
+            },
+            {
+                  "name": "Mestske muzeum - Spychar",
+                  "text": "Un hambar istoric, folosit astăzi pentru expozițiile muzeale ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        15.816138,
+                        50.435023
+                  ]
+            },
+            {
+                  "name": "Hankuv dum",
+                  "text": "Această casă de cultură din Dvůr Králové este un centru pentru spectacole de teatru și evenimente sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.811939,
+                        50.431003
+                  ]
+            },
+            {
+                  "name": "Na Borkach",
+                  "text": "Un deal proeminent în împrejurimile orașului Dvůr Králové, care servește ca destinație pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        15.823654,
+                        50.419597
+                  ]
             }
       ],
       "en": [
@@ -67629,6 +69600,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.798016,
                         50.431769
+                  ]
+            },
+            {
+                  "name": "ZOO Dvur Kralove",
+                  "text": "This zoo is especially known for its safari facilities and significant rhinoceros breeding.",
+                  "category": "recreational",
+                  "coords": [
+                        15.800061,
+                        50.433953
+                  ]
+            },
+            {
+                  "name": "Detska zoo",
+                  "text": "This section of the zoo allows children direct contact with tame domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        15.802218,
+                        50.43487
+                  ]
+            },
+            {
+                  "name": "Galerie mineralu",
+                  "text": "The gallery showcases an impressive collection of minerals and gemstones from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        15.815763,
+                        50.416446
+                  ]
+            },
+            {
+                  "name": "Mestske muzeum - Spychar",
+                  "text": "A historical granary now used for the city's museum exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        15.816138,
+                        50.435023
+                  ]
+            },
+            {
+                  "name": "Hankuv dum",
+                  "text": "This cultural house in Dvůr Králové is a center for theatrical performances and social events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.811939,
+                        50.431003
+                  ]
+            },
+            {
+                  "name": "Na Borkach",
+                  "text": "A prominent hill in the surroundings of Dvůr Králové that serves as a destination for hikes.",
+                  "category": "landmark",
+                  "coords": [
+                        15.823654,
+                        50.419597
                   ]
             }
       ]
@@ -74374,6 +76399,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.729296,
                         49.561687
                   ]
+            },
+            {
+                  "name": "NPR Hurka u Hranic",
+                  "text": "Ein Naturschutzgebiet, in dem sich der tiefste Abgrund Tschechiens befindet.",
+                  "category": "natural",
+                  "coords": [
+                        17.748424,
+                        49.538585
+                  ]
+            },
+            {
+                  "name": "NPP Zbrasovske aragonitove jeskyne",
+                  "text": "Einzigartige Aragonithöhlen in der Nähe von Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.745328,
+                        49.529507
+                  ]
+            },
+            {
+                  "name": "PP Nad Kostelickem",
+                  "text": "Ein Naturdenkmal in der Region Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.759747,
+                        49.550772
+                  ]
+            },
+            {
+                  "name": "PR Mala Kobylanka",
+                  "text": "Ein kleines Naturschutzgebiet bei Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.760305,
+                        49.542899
+                  ]
+            },
+            {
+                  "name": "PR Velka Kobylanka",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.756015,
+                        49.543582
+                  ]
+            },
+            {
+                  "name": "PP V obore",
+                  "text": "Ein geschütztes Naturgebiet in Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.769153,
+                        49.556013
+                  ]
             }
       ],
       "hu": [
@@ -74519,6 +76598,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.729296,
                         49.561687
+                  ]
+            },
+            {
+                  "name": "NPR Hurka u Hranic",
+                  "text": "Természetvédelmi terület, ahol Csehország legmélyebb szakadéka található.",
+                  "category": "natural",
+                  "coords": [
+                        17.748424,
+                        49.538585
+                  ]
+            },
+            {
+                  "name": "NPP Zbrasovske aragonitove jeskyne",
+                  "text": "Különleges aragonit barlangok Hranice na Moravě közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.745328,
+                        49.529507
+                  ]
+            },
+            {
+                  "name": "PP Nad Kostelickem",
+                  "text": "Természeti emlékhely Hranice na Moravě régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        17.759747,
+                        49.550772
+                  ]
+            },
+            {
+                  "name": "PR Mala Kobylanka",
+                  "text": "Kis természetvédelmi terület Hranice na Moravě mellett.",
+                  "category": "natural",
+                  "coords": [
+                        17.760305,
+                        49.542899
+                  ]
+            },
+            {
+                  "name": "PR Velka Kobylanka",
+                  "text": "Természetvédelmi terület Hranice na Moravě közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.756015,
+                        49.543582
+                  ]
+            },
+            {
+                  "name": "PP V obore",
+                  "text": "Védett természeti terület Hranice na Moravě városában.",
+                  "category": "natural",
+                  "coords": [
+                        17.769153,
+                        49.556013
                   ]
             }
       ],
@@ -74666,6 +76799,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.729296,
                         49.561687
                   ]
+            },
+            {
+                  "name": "NPR Hurka u Hranic",
+                  "text": "O rezervație naturală care adăpostește cea mai adâncă prăpastie din Cehia.",
+                  "category": "natural",
+                  "coords": [
+                        17.748424,
+                        49.538585
+                  ]
+            },
+            {
+                  "name": "NPP Zbrasovske aragonitove jeskyne",
+                  "text": "Peșteri unice de aragonit situate lângă Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.745328,
+                        49.529507
+                  ]
+            },
+            {
+                  "name": "PP Nad Kostelickem",
+                  "text": "Un monument al naturii în regiunea Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.759747,
+                        49.550772
+                  ]
+            },
+            {
+                  "name": "PR Mala Kobylanka",
+                  "text": "O mică rezervație naturală lângă Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.760305,
+                        49.542899
+                  ]
+            },
+            {
+                  "name": "PR Velka Kobylanka",
+                  "text": "O rezervație naturală situată în apropiere de Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.756015,
+                        49.543582
+                  ]
+            },
+            {
+                  "name": "PP V obore",
+                  "text": "O zonă naturală protejată din Hranice na Moravă.",
+                  "category": "natural",
+                  "coords": [
+                        17.769153,
+                        49.556013
+                  ]
             }
       ],
       "en": [
@@ -74811,6 +76998,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.729296,
                         49.561687
+                  ]
+            },
+            {
+                  "name": "NPR Hurka u Hranic",
+                  "text": "A nature reserve home to the deepest abyss in the Czech Republic.",
+                  "category": "natural",
+                  "coords": [
+                        17.748424,
+                        49.538585
+                  ]
+            },
+            {
+                  "name": "NPP Zbrasovske aragonitove jeskyne",
+                  "text": "Unique aragonite caves located near Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.745328,
+                        49.529507
+                  ]
+            },
+            {
+                  "name": "PP Nad Kostelickem",
+                  "text": "A natural monument in the Hranice na Moravě region.",
+                  "category": "natural",
+                  "coords": [
+                        17.759747,
+                        49.550772
+                  ]
+            },
+            {
+                  "name": "PR Mala Kobylanka",
+                  "text": "A small nature reserve near Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.760305,
+                        49.542899
+                  ]
+            },
+            {
+                  "name": "PR Velka Kobylanka",
+                  "text": "A nature reserve located near Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.756015,
+                        49.543582
+                  ]
+            },
+            {
+                  "name": "PP V obore",
+                  "text": "A protected natural area in Hranice na Moravě.",
+                  "category": "natural",
+                  "coords": [
+                        17.769153,
+                        49.556013
                   ]
             }
       ]

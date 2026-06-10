@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const austriaLandmarksV2: POI[] = [
 
   {
-    id: "austria-burg-gudenstein-landmarks-v2",
+    id: "austria-burg-gudenstein-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leonhardikreuz",
+                  "text": "Ein religiöses Flurkreuz in der Nähe von Schloss Gudenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085723,
+                        47.804303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leonhardikreuz",
+                  "text": "Vallási útszéli kereszt a Gudenstein-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085723,
+                        47.804303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leonhardikreuz",
+                  "text": "O cruce monumentală situată lângă castelul Gudenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085723,
+                        47.804303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leonhardikreuz",
+                  "text": "A religious wayside cross located near Gudenstein Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085723,
+                        47.804303
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Gudenstein", hu: "Gudenstein vára", ro: "Castelul Gudenstein", en: "Gudenstein Castle" },

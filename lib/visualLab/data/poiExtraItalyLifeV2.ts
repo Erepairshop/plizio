@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const italyLifeV2: POI[] = [
 
   {
-    id: "italy-parco-nazionale-circeo-life-v2",
+    id: "italy-parco-nazionale-circeo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro di Capo Circeo",
+                  "text": "Ein markanter Leuchtturm an der Küste des Nationalparks Circeo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.068564,
+                        41.222337
+                  ]
+            },
+            {
+                  "name": "\"Casarina” Sito Archeologico",
+                  "text": "Eine archäologische Stätte im Nationalpark Circeo mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        13.046752,
+                        41.254036
+                  ]
+            },
+            {
+                  "name": "Villa dei Quattro Venti",
+                  "text": "Überreste einer antiken römischen Villa im Nationalpark Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.09206,
+                        41.232334
+                  ]
+            },
+            {
+                  "name": "Cisterna di Terra Rossa",
+                  "text": "Ruinen einer antiken Zisterne im Nationalpark Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.051485,
+                        41.254326
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Überreste einer napoleonischen Befestigung im Nationalpark Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.04734,
+                        41.226963
+                  ]
+            },
+            {
+                  "name": "Cisterna Romana delle 10 Camere",
+                  "text": "Eine antike römische Zisterne mit zehn Kammern im Nationalpark Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.054937,
+                        41.241527
+                  ]
+            },
+            {
+                  "name": "Fontana Romana di Mezzomonte",
+                  "text": "Historische römische Brunnenanlage im Nationalpark Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.069364,
+                        41.240953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro di Capo Circeo",
+                  "text": "Jellegzetes világítótorony a Circeo Nemzeti Park partvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.068564,
+                        41.222337
+                  ]
+            },
+            {
+                  "name": "\"Casarina” Sito Archeologico",
+                  "text": "Régészeti lelőhely a Circeo Nemzeti Parkban, ókori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        13.046752,
+                        41.254036
+                  ]
+            },
+            {
+                  "name": "Villa dei Quattro Venti",
+                  "text": "Egy ókori római villa maradványai a Circeo Nemzeti Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.09206,
+                        41.232334
+                  ]
+            },
+            {
+                  "name": "Cisterna di Terra Rossa",
+                  "text": "Egy ókori ciszterna romjai a Circeo Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.051485,
+                        41.254326
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Napóleoni erődítmény maradványai a Circeo Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.04734,
+                        41.226963
+                  ]
+            },
+            {
+                  "name": "Cisterna Romana delle 10 Camere",
+                  "text": "Tíz kamrából álló ókori római ciszterna a Circeo Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.054937,
+                        41.241527
+                  ]
+            },
+            {
+                  "name": "Fontana Romana di Mezzomonte",
+                  "text": "Történelmi római kori kút lelőhelye a Circeo Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.069364,
+                        41.240953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro di Capo Circeo",
+                  "text": "Un far distinctiv situat pe coasta Parcului Național Circeo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.068564,
+                        41.222337
+                  ]
+            },
+            {
+                  "name": "\"Casarina” Sito Archeologico",
+                  "text": "Un sit arheologic din Parcul Național Circeo, ce păstrează vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        13.046752,
+                        41.254036
+                  ]
+            },
+            {
+                  "name": "Villa dei Quattro Venti",
+                  "text": "Ruinele unei vechi vile romane situate în Parcul Național Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.09206,
+                        41.232334
+                  ]
+            },
+            {
+                  "name": "Cisterna di Terra Rossa",
+                  "text": "Ruinele unei vechi cisterne situate în Parcul Național Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.051485,
+                        41.254326
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Vestigiile unei fortificații napoleoniene din Parcul Național Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.04734,
+                        41.226963
+                  ]
+            },
+            {
+                  "name": "Cisterna Romana delle 10 Camere",
+                  "text": "O veche cisternă romană cu zece camere situată în Parcul Național Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.054937,
+                        41.241527
+                  ]
+            },
+            {
+                  "name": "Fontana Romana di Mezzomonte",
+                  "text": "Un vechi sit cu o fântână romană în Parcul Național Circeo.",
+                  "category": "historical",
+                  "coords": [
+                        13.069364,
+                        41.240953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro di Capo Circeo",
+                  "text": "A distinctive lighthouse located on the coast of the Circeo National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.068564,
+                        41.222337
+                  ]
+            },
+            {
+                  "name": "\"Casarina” Sito Archeologico",
+                  "text": "An archaeological site in the Circeo National Park featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        13.046752,
+                        41.254036
+                  ]
+            },
+            {
+                  "name": "Villa dei Quattro Venti",
+                  "text": "Remains of an ancient Roman villa located within the Circeo National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.09206,
+                        41.232334
+                  ]
+            },
+            {
+                  "name": "Cisterna di Terra Rossa",
+                  "text": "Ruins of an ancient cistern located in the Circeo National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.051485,
+                        41.254326
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Remains of a Napoleonic fortification in the Circeo National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.04734,
+                        41.226963
+                  ]
+            },
+            {
+                  "name": "Cisterna Romana delle 10 Camere",
+                  "text": "An ancient Roman cistern with ten chambers in the Circeo National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.054937,
+                        41.241527
+                  ]
+            },
+            {
+                  "name": "Fontana Romana di Mezzomonte",
+                  "text": "Historical site of a Roman fountain in the Circeo National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.069364,
+                        41.240953
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Circeo Nationalpark", hu: "Circeo Nemzeti Park", ro: "Parcul Național Circeo", en: "Circeo National Park" },
@@ -48,7 +309,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-circeo-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-cilento-life-v2",
+    id: "italy-parco-nazionale-cilento-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Ein Museum im Nationalpark Cilento, das religiöse Kunst und Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.26453,
+                        40.227643
+                  ]
+            },
+            {
+                  "name": "Museo della Civiltà Contadina",
+                  "text": "Ein Museum, das der ländlichen Geschichte und Kultur des Cilento gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.268621,
+                        40.245732
+                  ]
+            },
+            {
+                  "name": "Badia di San Filadelfo",
+                  "text": "Die Ruinen einer ehemaligen Abtei im Nationalpark Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.238906,
+                        40.231367
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Ein Denkmal zu Ehren der Gefallenen im Nationalpark Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.272305,
+                        40.243519
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio",
+                  "text": "Die Ruinen einer historischen Kirche im Nationalpark Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.260137,
+                        40.225203
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Ein historischer Adelspalast im Cilento Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        15.293419,
+                        40.244441
+                  ]
+            },
+            {
+                  "name": "Statua di Padre Pio",
+                  "text": "Ein Denkmal für den Heiligen Padre Pio im Nationalpark Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.268383,
+                        40.231352
+                  ]
+            },
+            {
+                  "name": "Acquedotto",
+                  "text": "Ein historisches Aquädukt im Nationalpark Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.26815,
+                        40.248184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Egy múzeum a Cilento Nemzeti Parkban, amely vallási művészeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.26453,
+                        40.227643
+                  ]
+            },
+            {
+                  "name": "Museo della Civiltà Contadina",
+                  "text": "A Cilento vidéki történelmének és kultúrájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.268621,
+                        40.245732
+                  ]
+            },
+            {
+                  "name": "Badia di San Filadelfo",
+                  "text": "Egy egykori apátság romjai a Cilento Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        15.238906,
+                        40.231367
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Az elesett katonák tiszteletére emelt emlékmű a Cilento Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        15.272305,
+                        40.243519
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio",
+                  "text": "Egy történelmi templom romjai a Cilento Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        15.260137,
+                        40.225203
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Egy történelmi nemesi palota a Cilento Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.293419,
+                        40.244441
+                  ]
+            },
+            {
+                  "name": "Statua di Padre Pio",
+                  "text": "Padre Pio szentnek szentelt emlékmű a Cilento Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        15.268383,
+                        40.231352
+                  ]
+            },
+            {
+                  "name": "Acquedotto",
+                  "text": "Egy történelmi vízvezeték a Cilento Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        15.26815,
+                        40.248184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Un muzeu din Parcul Național Cilento care expune artă și artefacte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        15.26453,
+                        40.227643
+                  ]
+            },
+            {
+                  "name": "Museo della Civiltà Contadina",
+                  "text": "Un muzeu dedicat istoriei și culturii rurale din Cilento.",
+                  "category": "museum",
+                  "coords": [
+                        15.268621,
+                        40.245732
+                  ]
+            },
+            {
+                  "name": "Badia di San Filadelfo",
+                  "text": "Ruinele unei foste abații situate în Parcul Național Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.238906,
+                        40.231367
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Un monument ridicat în onoarea soldaților căzuți în Parcul Național Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.272305,
+                        40.243519
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio",
+                  "text": "Ruinele unei biserici istorice din Parcul Național Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.260137,
+                        40.225203
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Un palat nobiliar istoric situat în Parcul Național Cilento.",
+                  "category": "landmark",
+                  "coords": [
+                        15.293419,
+                        40.244441
+                  ]
+            },
+            {
+                  "name": "Statua di Padre Pio",
+                  "text": "Un monument dedicat Sfântului Padre Pio în Parcul Național Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.268383,
+                        40.231352
+                  ]
+            },
+            {
+                  "name": "Acquedotto",
+                  "text": "Un apeduct istoric situat în Parcul Național Cilento.",
+                  "category": "historical",
+                  "coords": [
+                        15.26815,
+                        40.248184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A museum in the Cilento National Park exhibiting religious art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        15.26453,
+                        40.227643
+                  ]
+            },
+            {
+                  "name": "Museo della Civiltà Contadina",
+                  "text": "A museum dedicated to the rural history and culture of Cilento.",
+                  "category": "museum",
+                  "coords": [
+                        15.268621,
+                        40.245732
+                  ]
+            },
+            {
+                  "name": "Badia di San Filadelfo",
+                  "text": "The ruins of a former abbey located in the Cilento National Park.",
+                  "category": "historical",
+                  "coords": [
+                        15.238906,
+                        40.231367
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "A monument honoring the fallen soldiers in the Cilento National Park.",
+                  "category": "historical",
+                  "coords": [
+                        15.272305,
+                        40.243519
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio",
+                  "text": "The ruins of a historical church in the Cilento National Park.",
+                  "category": "historical",
+                  "coords": [
+                        15.260137,
+                        40.225203
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "A historic noble palace located in the Cilento National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.293419,
+                        40.244441
+                  ]
+            },
+            {
+                  "name": "Statua di Padre Pio",
+                  "text": "A monument dedicated to Saint Padre Pio in the Cilento National Park.",
+                  "category": "historical",
+                  "coords": [
+                        15.268383,
+                        40.231352
+                  ]
+            },
+            {
+                  "name": "Acquedotto",
+                  "text": "A historic aqueduct located in the Cilento National Park.",
+                  "category": "historical",
+                  "coords": [
+                        15.26815,
+                        40.248184
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Cilento Nationalpark", hu: "Cilento Nemzeti Park", ro: "Parcul Național Cilento", en: "Cilento National Park" },
@@ -93,7 +651,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-cilento-life-v2.webp",
   },
   {
-    id: "italy-riserva-naturale-torre-guaceto-life-v2",
+    id: "italy-riserva-naturale-torre-guaceto-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riserva Naturale Statale di Torre Guaceto",
+                  "text": "Ein staatliches Naturschutzgebiet an der Küste Apuliens mit einer reichen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.784086,
+                        40.704277
+                  ]
+            },
+            {
+                  "name": "Apani",
+                  "text": "Ein Sandstrand im Naturschutzgebiet Torre Guaceto, ideal zur Erholung in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        17.800024,
+                        40.709535
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Penna Grossa",
+                  "text": "Ein bekannter Strandabschnitt im Naturschutzgebiet Torre Guaceto an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        17.77511,
+                        40.720464
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona B (riserva generale)",
+                  "text": "Eine allgemeine Schutzzone innerhalb des Meeresreservats von Torre Guaceto.",
+                  "category": "natural",
+                  "coords": [
+                        17.782797,
+                        40.722973
+                  ]
+            },
+            {
+                  "name": "Castello di Seranova",
+                  "text": "Eine historische Burg in der Nähe des Naturschutzgebiets Torre Guaceto.",
+                  "category": "castle",
+                  "coords": [
+                        17.762441,
+                        40.698766
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona A (riserva integrale)",
+                  "text": "Eine streng geschützte Kernzone des Meeresreservats Torre Guaceto.",
+                  "category": "natural",
+                  "coords": [
+                        17.810119,
+                        40.710076
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona C (riserva parziale)",
+                  "text": "Eine partielle Schutzzone im Meeresreservat Torre Guaceto zur nachhaltigen Nutzung.",
+                  "category": "natural",
+                  "coords": [
+                        17.803231,
+                        40.729895
+                  ]
+            },
+            {
+                  "name": "Ulivo del Crocifisso",
+                  "text": "Ein jahrhundertealter, monumentaler Olivenbaum im Gebiet von Torre Guaceto.",
+                  "category": "landmark",
+                  "coords": [
+                        17.762057,
+                        40.700295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riserva Naturale Statale di Torre Guaceto",
+                  "text": "Állami természetvédelmi terület Puglia partvidékén, gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        17.784086,
+                        40.704277
+                  ]
+            },
+            {
+                  "name": "Apani",
+                  "text": "Homokos tengerpart a Torre Guaceto természetvédelmi területen, ideális a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.800024,
+                        40.709535
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Penna Grossa",
+                  "text": "Ismert tengerparti szakasz az adriai Torre Guaceto természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.77511,
+                        40.720464
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona B (riserva generale)",
+                  "text": "Általános védelmi zóna a Torre Guaceto tengeri rezervátumon belül.",
+                  "category": "natural",
+                  "coords": [
+                        17.782797,
+                        40.722973
+                  ]
+            },
+            {
+                  "name": "Castello di Seranova",
+                  "text": "Történelmi vár a Torre Guaceto természetvédelmi terület közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.762441,
+                        40.698766
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona A (riserva integrale)",
+                  "text": "Szigorúan védett magzóna a Torre Guaceto tengeri rezervátumban.",
+                  "category": "natural",
+                  "coords": [
+                        17.810119,
+                        40.710076
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona C (riserva parziale)",
+                  "text": "Részleges védelmi zóna a Torre Guaceto tengeri rezervátumban a fenntartható használatért.",
+                  "category": "natural",
+                  "coords": [
+                        17.803231,
+                        40.729895
+                  ]
+            },
+            {
+                  "name": "Ulivo del Crocifisso",
+                  "text": "Évszázados, monumentális olajfa Torre Guaceto területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.762057,
+                        40.700295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riserva Naturale Statale di Torre Guaceto",
+                  "text": "O rezervație naturală de stat situată pe coasta regiunii Puglia, cu o floră și faună bogată.",
+                  "category": "natural",
+                  "coords": [
+                        17.784086,
+                        40.704277
+                  ]
+            },
+            {
+                  "name": "Apani",
+                  "text": "O plajă cu nisip în rezervația naturală Torre Guaceto, ideală pentru relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        17.800024,
+                        40.709535
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Penna Grossa",
+                  "text": "O porțiune cunoscută de plajă în rezervația naturală Torre Guaceto de la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        17.77511,
+                        40.720464
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona B (riserva generale)",
+                  "text": "O zonă de rezervă generală în cadrul ariei marine protejate Torre Guaceto.",
+                  "category": "natural",
+                  "coords": [
+                        17.782797,
+                        40.722973
+                  ]
+            },
+            {
+                  "name": "Castello di Seranova",
+                  "text": "Un castel istoric situat în apropierea rezervației naturale Torre Guaceto.",
+                  "category": "castle",
+                  "coords": [
+                        17.762441,
+                        40.698766
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona A (riserva integrale)",
+                  "text": "O zonă de protecție integrală în cadrul ariei marine protejate Torre Guaceto.",
+                  "category": "natural",
+                  "coords": [
+                        17.810119,
+                        40.710076
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona C (riserva parziale)",
+                  "text": "O zonă de rezervă parțială în aria marină protejată Torre Guaceto pentru utilizare durabilă.",
+                  "category": "natural",
+                  "coords": [
+                        17.803231,
+                        40.729895
+                  ]
+            },
+            {
+                  "name": "Ulivo del Crocifisso",
+                  "text": "Un măslin monumental, vechi de secole, situat în zona Torre Guaceto.",
+                  "category": "landmark",
+                  "coords": [
+                        17.762057,
+                        40.700295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riserva Naturale Statale di Torre Guaceto",
+                  "text": "A state-run nature reserve on the coast of Puglia, home to diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.784086,
+                        40.704277
+                  ]
+            },
+            {
+                  "name": "Apani",
+                  "text": "A sandy beach within the Torre Guaceto nature reserve, ideal for relaxation in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        17.800024,
+                        40.709535
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Penna Grossa",
+                  "text": "A well-known stretch of beach in the Torre Guaceto nature reserve on the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        17.77511,
+                        40.720464
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona B (riserva generale)",
+                  "text": "A general reserve zone within the Torre Guaceto marine protected area.",
+                  "category": "natural",
+                  "coords": [
+                        17.782797,
+                        40.722973
+                  ]
+            },
+            {
+                  "name": "Castello di Seranova",
+                  "text": "A historic castle located near the Torre Guaceto nature reserve.",
+                  "category": "castle",
+                  "coords": [
+                        17.762441,
+                        40.698766
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona A (riserva integrale)",
+                  "text": "A strictly protected integral reserve zone of the Torre Guaceto marine area.",
+                  "category": "natural",
+                  "coords": [
+                        17.810119,
+                        40.710076
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta di Torre Guaceto - Zona C (riserva parziale)",
+                  "text": "A partial reserve zone in the Torre Guaceto marine protected area for sustainable use.",
+                  "category": "natural",
+                  "coords": [
+                        17.803231,
+                        40.729895
+                  ]
+            },
+            {
+                  "name": "Ulivo del Crocifisso",
+                  "text": "A centuries-old, monumental olive tree located in the Torre Guaceto area.",
+                  "category": "landmark",
+                  "coords": [
+                        17.762057,
+                        40.700295
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Torre Guaceto", hu: "Torre Guaceto Természetvédelmi Terület", ro: "Rezervația Naturală Torre Guaceto", en: "Torre Guaceto Nature Reserve" },
@@ -183,7 +1038,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-orto-botanico-di-padova-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-val-grande-life-v2",
+    id: "italy-parco-nazionale-val-grande-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Val Grande",
+                  "text": "Ein Wildnis-Nationalpark in den italienischen Alpen an der Grenze zur Schweiz.",
+                  "category": "natural",
+                  "coords": [
+                        8.451131,
+                        46.03019
+                  ]
+            },
+            {
+                  "name": "Masso Coppellato",
+                  "text": "Eine archäologische Stätte mit historischen Felsritzungen im Nationalpark Val Grande.",
+                  "category": "historical",
+                  "coords": [
+                        8.482138,
+                        46.007099
+                  ]
+            },
+            {
+                  "name": "Cima della Laurasca",
+                  "text": "Ein markanter Berggipfel in den Lepontinischen Alpen im Nationalpark Val Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        8.475734,
+                        46.058191
+                  ]
+            },
+            {
+                  "name": "Pizzo Marona",
+                  "text": "Ein Gipfel im Nationalpark Val Grande, der für seine weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.531918,
+                        46.032671
+                  ]
+            },
+            {
+                  "name": "Cima Sasso",
+                  "text": "Ein bedeutender Berggipfel innerhalb des Nationalparks Val Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        8.465887,
+                        46.030384
+                  ]
+            },
+            {
+                  "name": "Cima Marsicce",
+                  "text": "Ein Berggipfel im Nationalpark Val Grande, der Teil des schroffen Gebirgszuges ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.491848,
+                        46.059793
+                  ]
+            },
+            {
+                  "name": "La Piota",
+                  "text": "Ein Berggipfel im Nationalpark Val Grande, nahe dem Cannobina-Tal gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53038,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Pizzo Pernice",
+                  "text": "Ein Berg im Nationalpark Val Grande, der einen Panoramablick auf die Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519277,
+                        46.000655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco Nazionale della Val Grande",
+                  "text": "Vadon jellegű nemzeti park az olasz Alpokban, a svájci határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.451131,
+                        46.03019
+                  ]
+            },
+            {
+                  "name": "Masso Coppellato",
+                  "text": "Régészeti lelőhely történelmi sziklavésetekkel a Val Grande Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        8.482138,
+                        46.007099
+                  ]
+            },
+            {
+                  "name": "Cima della Laurasca",
+                  "text": "Egy jellegzetes hegycsúcs a Lepontini-Alpokban, a Val Grande Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.475734,
+                        46.058191
+                  ]
+            },
+            {
+                  "name": "Pizzo Marona",
+                  "text": "A Val Grande Nemzeti Park egyik csúcsa, amely széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.531918,
+                        46.032671
+                  ]
+            },
+            {
+                  "name": "Cima Sasso",
+                  "text": "Egy jelentős hegycsúcs a Val Grande Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.465887,
+                        46.030384
+                  ]
+            },
+            {
+                  "name": "Cima Marsicce",
+                  "text": "Hegycsúcs a Val Grande Nemzeti Parkban, a sziklás hegylánc része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.491848,
+                        46.059793
+                  ]
+            },
+            {
+                  "name": "La Piota",
+                  "text": "Hegycsúcs a Val Grande Nemzeti Parkban, a Cannobina-völgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53038,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Pizzo Pernice",
+                  "text": "Hegy a Val Grande Nemzeti Parkban, amely panorámás kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519277,
+                        46.000655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco Nazionale della Val Grande",
+                  "text": "Un parc național sălbatic în Alpii italieni, la granița cu Elveția.",
+                  "category": "natural",
+                  "coords": [
+                        8.451131,
+                        46.03019
+                  ]
+            },
+            {
+                  "name": "Masso Coppellato",
+                  "text": "Un sit arheologic cu incizii rupestre istorice în Parcul Național Val Grande.",
+                  "category": "historical",
+                  "coords": [
+                        8.482138,
+                        46.007099
+                  ]
+            },
+            {
+                  "name": "Cima della Laurasca",
+                  "text": "Un vârf muntos proeminent în Alpii Lepontini din Parcul Național Val Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        8.475734,
+                        46.058191
+                  ]
+            },
+            {
+                  "name": "Pizzo Marona",
+                  "text": "Un vârf din Parcul Național Val Grande, cunoscut pentru vederile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.531918,
+                        46.032671
+                  ]
+            },
+            {
+                  "name": "Cima Sasso",
+                  "text": "Un vârf montan semnificativ în cadrul Parcului Național Val Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        8.465887,
+                        46.030384
+                  ]
+            },
+            {
+                  "name": "Cima Marsicce",
+                  "text": "Un vârf montan în Parcul Național Val Grande, parte a lanțului muntos accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        8.491848,
+                        46.059793
+                  ]
+            },
+            {
+                  "name": "La Piota",
+                  "text": "Un vârf montan în Parcul Național Val Grande, situat lângă Valea Cannobina.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53038,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Pizzo Pernice",
+                  "text": "Un munte în Parcul Național Val Grande, oferind o vedere panoramică asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519277,
+                        46.000655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Val Grande National Park",
+                  "text": "A wilderness national park in the Italian Alps near the Swiss border.",
+                  "category": "natural",
+                  "coords": [
+                        8.451131,
+                        46.03019
+                  ]
+            },
+            {
+                  "name": "Masso Coppellato",
+                  "text": "An archaeological site featuring historical rock carvings in the Val Grande National Park.",
+                  "category": "historical",
+                  "coords": [
+                        8.482138,
+                        46.007099
+                  ]
+            },
+            {
+                  "name": "Cima della Laurasca",
+                  "text": "A prominent mountain peak in the Lepontine Alps within the Val Grande National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.475734,
+                        46.058191
+                  ]
+            },
+            {
+                  "name": "Pizzo Marona",
+                  "text": "A peak in the Val Grande National Park known for its wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        8.531918,
+                        46.032671
+                  ]
+            },
+            {
+                  "name": "Cima Sasso",
+                  "text": "A significant mountain peak within the Val Grande National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.465887,
+                        46.030384
+                  ]
+            },
+            {
+                  "name": "Cima Marsicce",
+                  "text": "A mountain peak in the Val Grande National Park, part of the rugged mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        8.491848,
+                        46.059793
+                  ]
+            },
+            {
+                  "name": "La Piota",
+                  "text": "A mountain peak in the Val Grande National Park, located near the Cannobina Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53038,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Pizzo Pernice",
+                  "text": "A mountain in the Val Grande National Park offering a panoramic view of the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519277,
+                        46.000655
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Val Grande", hu: "Val Grande Nemzeti Park", ro: "Parcul Național Val Grande", en: "Val Grande National Park" },
@@ -228,7 +1380,124 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-val-grande-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-sila-life-v2",
+    id: "italy-parco-nazionale-sila-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raccolta Barracco",
+                  "text": "Ein Museum im Sila-Nationalpark, das archäologische Funde und das lokale Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.467852,
+                        39.3415
+                  ]
+            },
+            {
+                  "name": "La Nave della Sila",
+                  "text": "Ein Museum, das der Geschichte der Auswanderung gewidmet ist und in einem einzigartigen Bauwerk untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.464025,
+                        39.345627
+                  ]
+            },
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Ein majestätischer Hain jahrhundertealter Schwarzkiefern, der im Sila-Nationalpark geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raccolta Barracco",
+                  "text": "A Sila Nemzeti Parkban található múzeum, amely régészeti leleteket és a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.467852,
+                        39.3415
+                  ]
+            },
+            {
+                  "name": "La Nave della Sila",
+                  "text": "A kivándorlás történetének szentelt múzeum, amely egy egyedi építészeti struktúrában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        16.464025,
+                        39.345627
+                  ]
+            },
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Évszázados feketefenyők fenséges ligete, amely a Sila Nemzeti Park védelme alatt áll.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raccolta Barracco",
+                  "text": "Un muzeu în Parcul Național Sila care prezintă descoperiri arheologice și moștenirea locală.",
+                  "category": "museum",
+                  "coords": [
+                        16.467852,
+                        39.3415
+                  ]
+            },
+            {
+                  "name": "La Nave della Sila",
+                  "text": "Un muzeu dedicat istoriei emigrării, găzduit într-o structură arhitecturală unică.",
+                  "category": "museum",
+                  "coords": [
+                        16.464025,
+                        39.345627
+                  ]
+            },
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "O dumbravă maiestuoasă de pini negri seculari, protejată în cadrul Parcului Național Sila.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raccolta Barracco",
+                  "text": "A museum in the Sila National Park showcasing archaeological findings and local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        16.467852,
+                        39.3415
+                  ]
+            },
+            {
+                  "name": "La Nave della Sila",
+                  "text": "A museum dedicated to the history of emigration, housed in a unique architectural structure.",
+                  "category": "museum",
+                  "coords": [
+                        16.464025,
+                        39.345627
+                  ]
+            },
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "A majestic grove of centuries-old black pines protected within the Sila National Park.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Sila Nationalpark", hu: "Sila Nemzeti Park", ro: "Parcul Național Sila", en: "Sila National Park" },
@@ -273,7 +1542,160 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-sila-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-aspromonte-life-v2",
+    id: "italy-parco-nazionale-aspromonte-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montalto",
+                  "text": "Der höchste Gipfel des Aspromonte-Massivs in Kalabrien mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        15.919951,
+                        38.158584
+                  ]
+            },
+            {
+                  "name": "Guardia di Pompeo",
+                  "text": "Ein Aussichtspunkt im Aspromonte-Nationalpark mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.937277,
+                        38.173534
+                  ]
+            },
+            {
+                  "name": "Belvedere 1833",
+                  "text": "Ein hoher Aussichtspunkt im Aspromonte, der weite Sichten über Süditalien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.876926,
+                        38.166541
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna di Polsi",
+                  "text": "Ein bedeutender Wallfahrtsort tief in den Bergen des Aspromonte-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        15.960575,
+                        38.164899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montalto",
+                  "text": "Az Aspromonte-hegység legmagasabb csúcsa Calabriában, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        15.919951,
+                        38.158584
+                  ]
+            },
+            {
+                  "name": "Guardia di Pompeo",
+                  "text": "Kilátópont az Aspromonte Nemzeti Parkban, rálátással a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.937277,
+                        38.173534
+                  ]
+            },
+            {
+                  "name": "Belvedere 1833",
+                  "text": "Magaslati kilátóhely az Aspromontéban, ahonnan belátni Dél-Olaszország tájait.",
+                  "category": "natural",
+                  "coords": [
+                        15.876926,
+                        38.166541
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna di Polsi",
+                  "text": "Jelentős zarándokhely az Aspromonte Nemzeti Park hegyei között.",
+                  "category": "religious",
+                  "coords": [
+                        15.960575,
+                        38.164899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montalto",
+                  "text": "Cel mai înalt vârf al masivului Aspromonte din Calabria, oferind o vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.919951,
+                        38.158584
+                  ]
+            },
+            {
+                  "name": "Guardia di Pompeo",
+                  "text": "Un punct de belvedere în Parcul Național Aspromonte, cu vedere spre peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.937277,
+                        38.173534
+                  ]
+            },
+            {
+                  "name": "Belvedere 1833",
+                  "text": "Un punct de belvedere situat la înălțime în Aspromonte, oferind priveliști largi asupra Italiei de Sud.",
+                  "category": "natural",
+                  "coords": [
+                        15.876926,
+                        38.166541
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna di Polsi",
+                  "text": "Un important loc de pelerinaj situat adânc în munții Parcului Național Aspromonte.",
+                  "category": "religious",
+                  "coords": [
+                        15.960575,
+                        38.164899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montalto",
+                  "text": "The highest peak of the Aspromonte massif in Calabria, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        15.919951,
+                        38.158584
+                  ]
+            },
+            {
+                  "name": "Guardia di Pompeo",
+                  "text": "A viewpoint in the Aspromonte National Park overlooking the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.937277,
+                        38.173534
+                  ]
+            },
+            {
+                  "name": "Belvedere 1833",
+                  "text": "A high-altitude viewpoint in the Aspromonte offering wide views over Southern Italy.",
+                  "category": "natural",
+                  "coords": [
+                        15.876926,
+                        38.166541
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna di Polsi",
+                  "text": "An important pilgrimage site located deep in the mountains of the Aspromonte National Park.",
+                  "category": "religious",
+                  "coords": [
+                        15.960575,
+                        38.164899
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Aspromonte Nationalpark", hu: "Aspromonte Nemzeti Park", ro: "Parcul Național Aspromonte", en: "Aspromonte National Park" },
@@ -318,7 +1740,52 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-aspromonte-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-gargano-life-v2",
+    id: "italy-parco-nazionale-gargano-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Spigno",
+                  "text": "Ein Berggipfel im Herzen des Nationalparks Gargano.",
+                  "category": "landmark",
+                  "coords": [
+                        15.909033,
+                        41.762862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Spigno",
+                  "text": "Hegycsúcs a Gargano Nemzeti Park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.909033,
+                        41.762862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Spigno",
+                  "text": "Un vârf muntos în inima Parcului Național Gargano.",
+                  "category": "landmark",
+                  "coords": [
+                        15.909033,
+                        41.762862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Spigno",
+                  "text": "A mountain peak in the heart of the Gargano National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.909033,
+                        41.762862
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Gargano Nationalpark", hu: "Gargano Nemzeti Park", ro: "Parcul Național Gargano", en: "Gargano National Park" },
@@ -363,7 +1830,232 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-gargano-life-v2.webp",
   },
   {
-    id: "italy-oasi-di-bolgheri-life-v2",
+    id: "italy-oasi-di-bolgheri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte",
+                  "text": "Das Forte di Marina di Bibbona ist eine Küstenfestung aus dem 18. Jahrhundert in der Toskana.",
+                  "category": "fortress",
+                  "coords": [
+                        10.528006,
+                        43.237957
+                  ]
+            },
+            {
+                  "name": "Padule di Bolgheri",
+                  "text": "Ein Naturschutzgebiet in der Toskana, das wichtige Feuchtgebiete für die lokale Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        10.545139,
+                        43.223173
+                  ]
+            },
+            {
+                  "name": "Bibbona",
+                  "text": "Ein Sandstrand bei Bibbona, der für sein sauberes Wasser und die umliegenden Pinienwälder bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.524452,
+                        43.245312
+                  ]
+            },
+            {
+                  "name": "Puplic Beach",
+                  "text": "Ein öffentlicher Badestrand im Naturschutzgebiet Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522987,
+                        43.249185
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Ein Freizeitpark für Familien im Naturschutzgebiet Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.531327,
+                        43.241794
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Guido",
+                  "text": "Eine bekannte kleine Kapelle an der berühmten Zypressenallee von Bolgheri.",
+                  "category": "religious",
+                  "coords": [
+                        10.55941,
+                        43.226626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte",
+                  "text": "A Forte di Marina di Bibbona egy 18. századi tengerparti erőd Toszkánában.",
+                  "category": "fortress",
+                  "coords": [
+                        10.528006,
+                        43.237957
+                  ]
+            },
+            {
+                  "name": "Padule di Bolgheri",
+                  "text": "Toszkánai természetvédelmi terület, amely fontos mocsaras élőhelyeket óv a helyi élővilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        10.545139,
+                        43.223173
+                  ]
+            },
+            {
+                  "name": "Bibbona",
+                  "text": "Homokos strand Bibbona közelében, amely tiszta vizéről és a környező fenyvesekről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.524452,
+                        43.245312
+                  ]
+            },
+            {
+                  "name": "Puplic Beach",
+                  "text": "Nyilvános strand a Bolgheri Természetvédelmi Területen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522987,
+                        43.249185
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Családi vidámpark a Bolgheri Természetvédelmi Területen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.531327,
+                        43.241794
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Guido",
+                  "text": "Híres kis kápolna a bolgheri ciprusfasor mentén.",
+                  "category": "religious",
+                  "coords": [
+                        10.55941,
+                        43.226626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte",
+                  "text": "Forte di Marina di Bibbona este o fortificație de coastă din secolul al XVIII-lea, situată în Toscana.",
+                  "category": "fortress",
+                  "coords": [
+                        10.528006,
+                        43.237957
+                  ]
+            },
+            {
+                  "name": "Padule di Bolgheri",
+                  "text": "O rezervație naturală din Toscana care protejează zone umede importante pentru fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        10.545139,
+                        43.223173
+                  ]
+            },
+            {
+                  "name": "Bibbona",
+                  "text": "O plajă cu nisip lângă Bibbona, cunoscută pentru apele sale curate și pădurile de pini din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        10.524452,
+                        43.245312
+                  ]
+            },
+            {
+                  "name": "Puplic Beach",
+                  "text": "O plajă publică în Rezervația Naturală Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522987,
+                        43.249185
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "Un parc de distracții pentru familii în Rezervația Naturală Bolgheri.",
+                  "category": "recreational",
+                  "coords": [
+                        10.531327,
+                        43.241794
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Guido",
+                  "text": "O mică capelă celebră situată de-a lungul aleii de chiparoși din Bolgheri.",
+                  "category": "religious",
+                  "coords": [
+                        10.55941,
+                        43.226626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte",
+                  "text": "The Forte di Marina di Bibbona is an 18th-century coastal fort located in Tuscany.",
+                  "category": "fortress",
+                  "coords": [
+                        10.528006,
+                        43.237957
+                  ]
+            },
+            {
+                  "name": "Padule di Bolgheri",
+                  "text": "A nature reserve in Tuscany protecting important wetlands for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        10.545139,
+                        43.223173
+                  ]
+            },
+            {
+                  "name": "Bibbona",
+                  "text": "A sandy beach near Bibbona known for its clear waters and surrounding pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        10.524452,
+                        43.245312
+                  ]
+            },
+            {
+                  "name": "Puplic Beach",
+                  "text": "A public beach located within the Bolgheri Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        10.522987,
+                        43.249185
+                  ]
+            },
+            {
+                  "name": "Luna Park",
+                  "text": "A theme park offering family entertainment in the Bolgheri Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        10.531327,
+                        43.241794
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Guido",
+                  "text": "A famous small chapel located along the iconic cypress avenue of Bolgheri.",
+                  "category": "religious",
+                  "coords": [
+                        10.55941,
+                        43.226626
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Bolgheri", hu: "Bolgheri Természetvédelmi Terület", ro: "Rezervația Naturală Bolgheri", en: "Bolgheri Nature Reserve" },
@@ -408,7 +2100,160 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-oasi-di-bolgheri-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-maiella-life-v2",
+    id: "italy-parco-nazionale-maiella-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pescofalcone",
+                  "text": "Ein markanter Berggipfel im Nationalpark Maiella.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084393,
+                        42.104863
+                  ]
+            },
+            {
+                  "name": "Monte Focalone",
+                  "text": "Ein Berggipfel im Nationalpark Maiella mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115031,
+                        42.107154
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "Der höchste Gipfel des Maiella-Massivs mit einer Höhe von 2.793 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.085911,
+                        42.086332
+                  ]
+            },
+            {
+                  "name": "Capanna",
+                  "text": "Ein interessanter Ort oder ein Bauwerk im Nationalpark Maiella.",
+                  "category": "landmark",
+                  "coords": [
+                        14.057298,
+                        42.053361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pescofalcone",
+                  "text": "Kiemelkedő hegycsúcs a Maiella Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084393,
+                        42.104863
+                  ]
+            },
+            {
+                  "name": "Monte Focalone",
+                  "text": "Hegycsúcs a Maiella Nemzeti Parkban, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115031,
+                        42.107154
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "A Maiella-masszívum legmagasabb csúcsa, amely 2793 méteres magasságot ér el.",
+                  "category": "landmark",
+                  "coords": [
+                        14.085911,
+                        42.086332
+                  ]
+            },
+            {
+                  "name": "Capanna",
+                  "text": "Érdekes helyszín vagy építmény a Maiella Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.057298,
+                        42.053361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pescofalcone",
+                  "text": "Un vârf muntos proeminent situat în Parcul Național Maiella.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084393,
+                        42.104863
+                  ]
+            },
+            {
+                  "name": "Monte Focalone",
+                  "text": "Un vârf muntos din Parcul Național Maiella, oferind vederi asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115031,
+                        42.107154
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "Cel mai înalt vârf al masivului Maiella, atingând o altitudine de 2.793 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        14.085911,
+                        42.086332
+                  ]
+            },
+            {
+                  "name": "Capanna",
+                  "text": "Un punct de interes sau o structură situată în Parcul Național Maiella.",
+                  "category": "landmark",
+                  "coords": [
+                        14.057298,
+                        42.053361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pescofalcone",
+                  "text": "A prominent mountain peak located within the Maiella National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.084393,
+                        42.104863
+                  ]
+            },
+            {
+                  "name": "Monte Focalone",
+                  "text": "A mountain peak in the Maiella National Park offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        14.115031,
+                        42.107154
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "The highest peak of the Maiella massif, reaching an elevation of 2,793 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        14.085911,
+                        42.086332
+                  ]
+            },
+            {
+                  "name": "Capanna",
+                  "text": "A point of interest or structure located in the Maiella National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.057298,
+                        42.053361
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Maiella Nationalpark", hu: "Maiella Nemzeti Park", ro: "Parcul Național Maiella", en: "Maiella National Park" },
@@ -498,7 +2343,232 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-giardino-botanico-hanbury-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-foreste-casentinesi-life-v2",
+    id: "italy-parco-nazionale-foreste-casentinesi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eremo di Camaldoli",
+                  "text": "Ein historisches Kloster und spirituelles Zentrum in den toskanischen Bergen.",
+                  "category": "religious",
+                  "coords": [
+                        11.816676,
+                        43.810641
+                  ]
+            },
+            {
+                  "name": "Monte Penna",
+                  "text": "Ein markanter Berggipfel, der weite Ausblicke über den Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.84457,
+                        43.819416
+                  ]
+            },
+            {
+                  "name": "Poggio Cornacchia",
+                  "text": "Ein Berggipfel im Apennin-Gebirge des Nationalparks Foreste Casentinesi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.823904,
+                        43.828327
+                  ]
+            },
+            {
+                  "name": "Poggio Scali",
+                  "text": "Einer der höchsten Gipfel im Nationalpark Foreste Casentinesi mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        11.788503,
+                        43.844955
+                  ]
+            },
+            {
+                  "name": "Poggio della Bertesca",
+                  "text": "Ein Gipfel in der bewaldeten Berglandschaft des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        11.874274,
+                        43.825557
+                  ]
+            },
+            {
+                  "name": "Poggio Rovino",
+                  "text": "Ein Berg im Nationalpark Foreste Casentinesi, ideal für Wanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.873574,
+                        43.812801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eremo di Camaldoli",
+                  "text": "Történelmi kolostor és spirituális központ a toszkán hegyekben.",
+                  "category": "religious",
+                  "coords": [
+                        11.816676,
+                        43.810641
+                  ]
+            },
+            {
+                  "name": "Monte Penna",
+                  "text": "Jellegzetes hegycsúcs, amely széles kilátást nyújt a nemzeti parkra.",
+                  "category": "landmark",
+                  "coords": [
+                        11.84457,
+                        43.819416
+                  ]
+            },
+            {
+                  "name": "Poggio Cornacchia",
+                  "text": "Hegycsúcs az Appenninekben, a Foreste Casentinesi Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.823904,
+                        43.828327
+                  ]
+            },
+            {
+                  "name": "Poggio Scali",
+                  "text": "A Foreste Casentinesi Nemzeti Park egyik legmagasabb csúcsa, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        11.788503,
+                        43.844955
+                  ]
+            },
+            {
+                  "name": "Poggio della Bertesca",
+                  "text": "Egy hegycsúcs a nemzeti park erdős hegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        11.874274,
+                        43.825557
+                  ]
+            },
+            {
+                  "name": "Poggio Rovino",
+                  "text": "Hegy a Foreste Casentinesi Nemzeti Parkban, amely ideális túrázásra.",
+                  "category": "landmark",
+                  "coords": [
+                        11.873574,
+                        43.812801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eremo di Camaldoli",
+                  "text": "O mănăstire istorică și un centru spiritual în munții toscani.",
+                  "category": "religious",
+                  "coords": [
+                        11.816676,
+                        43.810641
+                  ]
+            },
+            {
+                  "name": "Monte Penna",
+                  "text": "Un vârf montan proeminent care oferă vederi largi asupra parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        11.84457,
+                        43.819416
+                  ]
+            },
+            {
+                  "name": "Poggio Cornacchia",
+                  "text": "Un vârf montan în munții Apenini din Parcul Național Foreste Casentinesi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.823904,
+                        43.828327
+                  ]
+            },
+            {
+                  "name": "Poggio Scali",
+                  "text": "Unul dintre cele mai înalte vârfuri din Parcul Național Foreste Casentinesi, cu vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        11.788503,
+                        43.844955
+                  ]
+            },
+            {
+                  "name": "Poggio della Bertesca",
+                  "text": "Un vârf în peisajul montan împădurit al parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        11.874274,
+                        43.825557
+                  ]
+            },
+            {
+                  "name": "Poggio Rovino",
+                  "text": "Un munte în Parcul Național Foreste Casentinesi, ideal pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        11.873574,
+                        43.812801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eremo di Camaldoli",
+                  "text": "A historic monastery and spiritual center in the Tuscan mountains.",
+                  "category": "religious",
+                  "coords": [
+                        11.816676,
+                        43.810641
+                  ]
+            },
+            {
+                  "name": "Monte Penna",
+                  "text": "A prominent mountain peak offering wide views over the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.84457,
+                        43.819416
+                  ]
+            },
+            {
+                  "name": "Poggio Cornacchia",
+                  "text": "A mountain peak in the Apennine range of the Foreste Casentinesi National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.823904,
+                        43.828327
+                  ]
+            },
+            {
+                  "name": "Poggio Scali",
+                  "text": "One of the highest peaks in the Foreste Casentinesi National Park, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        11.788503,
+                        43.844955
+                  ]
+            },
+            {
+                  "name": "Poggio della Bertesca",
+                  "text": "A peak in the forested mountain landscape of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.874274,
+                        43.825557
+                  ]
+            },
+            {
+                  "name": "Poggio Rovino",
+                  "text": "A mountain in the Foreste Casentinesi National Park, ideal for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        11.873574,
+                        43.812801
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Foreste Casentinesi", hu: "Foreste Casentinesi Nemzeti Park", ro: "Parcul Național Foreste Casentinesi", en: "Foreste Casentinesi National Park" },
@@ -588,7 +2658,196 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-naturale-regionale-migliarino-san-rossore-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-abruzzo-lazio-molise-life-v2",
+    id: "italy-parco-nazionale-abruzzo-lazio-molise-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del camoscio",
+                  "text": "Ein Museum im Nationalpark, das der Biologie und dem Schutz der Abruzzen-Gämse gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.829238,
+                        41.782073
+                  ]
+            },
+            {
+                  "name": "Nationalpark Abruzzen, Latium und Molise",
+                  "text": "Einer der ältesten Nationalparks Italiens, bekannt für seine unberührte Natur und den Schutz von Braunbären und Wölfen.",
+                  "category": "natural",
+                  "coords": [
+                        13.845749,
+                        41.788545
+                  ]
+            },
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "Dieses Museum thematisiert die historische Beziehung zwischen den Menschen der Region und den umliegenden Wäldern.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "Eine markante natürliche Felsformation im Nationalpark, die ein beliebtes Ziel für Wanderer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "Eine historische religiöse Stätte im Gebiet des Nationalparks, die für die lokale Gemeinschaft von Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.829474,
+                        41.7811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del camoscio",
+                  "text": "A nemzeti parkban található múzeum, amely a zergék biológiájának és védelmének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.829238,
+                        41.782073
+                  ]
+            },
+            {
+                  "name": "Abruzzók Nemzeti Park",
+                  "text": "Olaszország egyik legrégebbi nemzeti parkja, amely érintetlen természetéről, valamint a barna medvék és farkasok védelméről híres.",
+                  "category": "natural",
+                  "coords": [
+                        13.845749,
+                        41.788545
+                  ]
+            },
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "Ez a múzeum a régió lakói és a környező erdők közötti történelmi kapcsolatot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "A nemzeti park jellegzetes természetes sziklaalakzata, amely a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "Történelmi vallási helyszín a nemzeti park területén, amely fontos szerepet tölt be a helyi közösség életében.",
+                  "category": "religious",
+                  "coords": [
+                        13.829474,
+                        41.7811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del camoscio",
+                  "text": "Un muzeu situat în parcul național, dedicat biologiei și conservării caprei negre de Abruzzo.",
+                  "category": "museum",
+                  "coords": [
+                        13.829238,
+                        41.782073
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+                  "text": "Unul dintre cele mai vechi parcuri naționale din Italia, renumit pentru natura sa virgină și protejarea urșilor bruni și a lupilor.",
+                  "category": "natural",
+                  "coords": [
+                        13.845749,
+                        41.788545
+                  ]
+            },
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "Acest muzeu explorează relația istorică dintre locuitorii regiunii și pădurile înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "O formațiune stâncoasă naturală distinctivă din parcul național, fiind o destinație populară pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "Un lăcaș de cult istoric situat în zona parcului național, având o importanță semnificativă pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        13.829474,
+                        41.7811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del camoscio",
+                  "text": "A museum located within the national park dedicated to the biology and conservation of the Abruzzo chamois.",
+                  "category": "museum",
+                  "coords": [
+                        13.829238,
+                        41.782073
+                  ]
+            },
+            {
+                  "name": "National Park of Abruzzo, Lazio and Molise",
+                  "text": "One of Italy's oldest national parks, famous for its pristine wilderness and the protection of brown bears and wolves.",
+                  "category": "natural",
+                  "coords": [
+                        13.845749,
+                        41.788545
+                  ]
+            },
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "This museum focuses on the historical relationship between the local people and the surrounding forests.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "A distinctive natural rock formation in the national park that is a popular destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "A historic religious site within the national park area that holds significance for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        13.829474,
+                        41.7811
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Abruzzen, Latium und Molise", hu: "Abruzzo, Lazio és Molise Nemzeti Park", ro: "Parcul Național Abruzzo, Lazio și Molise", en: "Abruzzo, Lazio and Molise National Park" },
@@ -633,7 +2892,160 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-abruzzo-lazio-molise-life-v2.webp",
   },
   {
-    id: "italy-oasi-wwe-le-cesine-life-v2",
+    id: "italy-oasi-wwe-le-cesine-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riserva Naturale Statale di Popolamento Animale Le Cesine",
+                  "text": "Ein staatliches Naturschutzgebiet und WWF-Oase, das ein wichtiges Feuchtgebiet schützt.",
+                  "category": "natural",
+                  "coords": [
+                        18.339231,
+                        40.351861
+                  ]
+            },
+            {
+                  "name": "Castello di Acaya",
+                  "text": "Eine befestigte Renaissance-Burg in der Ortschaft Acaya in Apulien.",
+                  "category": "castle",
+                  "coords": [
+                        18.296074,
+                        40.333511
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Statale Biogenetica San Cataldo",
+                  "text": "Ein Naturschutzgebiet, das für seine Küstenkiefernwälder und die biologische Vielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.307054,
+                        40.379848
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Cesine",
+                  "text": "Ein natürlicher Strandabschnitt innerhalb des Schutzgebiets Le Cesine.",
+                  "category": "recreational",
+                  "coords": [
+                        18.343127,
+                        40.356056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riserva Naturale Statale di Popolamento Animale Le Cesine",
+                  "text": "Állami természetvédelmi terület és WWF-oázis, amely egy fontos vizes élőhelyet védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        18.339231,
+                        40.351861
+                  ]
+            },
+            {
+                  "name": "Castello di Acaya",
+                  "text": "Megerősített reneszánsz vár az apuliai Acaya településen.",
+                  "category": "castle",
+                  "coords": [
+                        18.296074,
+                        40.333511
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Statale Biogenetica San Cataldo",
+                  "text": "Partmenti fenyőerdőiről és biológiai sokféleségéről ismert természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        18.307054,
+                        40.379848
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Cesine",
+                  "text": "Természetes tengerparti szakasz a Le Cesine védett területén belül.",
+                  "category": "recreational",
+                  "coords": [
+                        18.343127,
+                        40.356056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riserva Naturale Statale di Popolamento Animale Le Cesine",
+                  "text": "O rezervație naturală de stat și oază WWF care protejează o zonă umedă importantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.339231,
+                        40.351861
+                  ]
+            },
+            {
+                  "name": "Castello di Acaya",
+                  "text": "Un castel renascentist fortificat situat în localitatea Acaya din Puglia.",
+                  "category": "castle",
+                  "coords": [
+                        18.296074,
+                        40.333511
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Statale Biogenetica San Cataldo",
+                  "text": "O rezervație naturală cunoscută pentru pădurile sale de pini de coastă și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        18.307054,
+                        40.379848
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Cesine",
+                  "text": "O porțiune de plajă naturală aflată în cadrul zonei protejate Le Cesine.",
+                  "category": "recreational",
+                  "coords": [
+                        18.343127,
+                        40.356056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riserva Naturale Statale di Popolamento Animale Le Cesine",
+                  "text": "A state nature reserve and WWF oasis protecting an important wetland area.",
+                  "category": "natural",
+                  "coords": [
+                        18.339231,
+                        40.351861
+                  ]
+            },
+            {
+                  "name": "Castello di Acaya",
+                  "text": "A fortified Renaissance castle located in the village of Acaya in Puglia.",
+                  "category": "castle",
+                  "coords": [
+                        18.296074,
+                        40.333511
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Statale Biogenetica San Cataldo",
+                  "text": "A nature reserve known for its coastal pine forests and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        18.307054,
+                        40.379848
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Cesine",
+                  "text": "A natural stretch of beach located within the Le Cesine protected area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.343127,
+                        40.356056
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "IT",
     name: { de: "WWF-Oase Le Cesine", hu: "Le Cesine WWF Oázis", ro: "Oaza WWF Le Cesine", en: "WWF Oasis Le Cesine" },
@@ -678,7 +3090,160 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-oasi-wwe-le-cesine-life-v2.webp",
   },
   {
-    id: "italy-parco-regionale-dell-etna-life-v2",
+    id: "italy-parco-regionale-dell-etna-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park des Ätna",
+                  "text": "Ein Naturschutzgebiet rund um den Ätna, den höchsten aktiven Vulkan Europas.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Ein hoher Berggipfel im Ätna-Massiv auf Sizilien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "Ein markantes Lavafeld am westlichen Rand des Ätna-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "Stätte eines Lavastroms aus dem Ausbruch des Ätna im Jahr 2019.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco dell'Etna",
+                  "text": "Természetvédelmi terület az Etna, Európa legmagasabb aktív vulkánja körül.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Magas hegycsúcs az Etna-masszívumban, Szicíliában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "Jellegzetes lávamező az Etna Park nyugati szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "Az Etna 2019-es kitöréséből származó lávafolyam helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco dell'Etna",
+                  "text": "O rezervație naturală în jurul Muntelui Etna, cel mai înalt vulcan activ din Europa.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "Un vârf muntos înalt în masivul Etna din Sicilia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Versante occidentale colata lavica 2015",
+                  "text": "Un câmp de lavă distinctiv la marginea vestică a Parcului Etna.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Colata lavica 2019",
+                  "text": "Locul unui flux de lavă provenit din erupția Etnei din anul 2019.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Etna",
+                  "text": "A protected nature reserve surrounding Mount Etna, Europe's highest active volcano.",
+                  "category": "natural",
+                  "coords": [
+                        14.982056,
+                        37.755196
+                  ]
+            },
+            {
+                  "name": "Punta Lucia",
+                  "text": "A high mountain peak within the Mount Etna massif in Sicily.",
+                  "category": "landmark",
+                  "coords": [
+                        14.985847,
+                        37.764782
+                  ]
+            },
+            {
+                  "name": "Lava Field West Margin",
+                  "text": "A notable lava field located on the western margin of the Etna Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.991551,
+                        37.741351
+                  ]
+            },
+            {
+                  "name": "Lava stream 2019",
+                  "text": "Site of a lava stream from the 2019 eruption of Mount Etna.",
+                  "category": "landmark",
+                  "coords": [
+                        14.997871,
+                        37.737939
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Ätna", hu: "Etna Regionális Park", ro: "Parcul Regional Etna", en: "Etna Regional Park" },
@@ -723,7 +3288,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-regionale-dell-etna-life-v2.webp",
   },
   {
-    id: "italy-riserva-di-vendicari-life-v2",
+    id: "italy-riserva-di-vendicari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+                  "text": "Ein bedeutendes Naturschutzgebiet und Feuchtgebiet an der Küste Siziliens.",
+                  "category": "natural",
+                  "coords": [
+                        15.092059,
+                        36.808171
+                  ]
+            },
+            {
+                  "name": "Ecomuseo",
+                  "text": "Ein Museum, das die Umwelt und Traditionen im Reservat von Vendicari zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.100002,
+                        36.80278
+                  ]
+            },
+            {
+                  "name": "Carraie Balsamo - Pantano Piccolo",
+                  "text": "Eine archäologische Stätte mit antiken Wagenspuren in Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.106419,
+                        36.813709
+                  ]
+            },
+            {
+                  "name": "Vendicari - Sichilli",
+                  "text": "Ein Bereich mit archäologischen Überresten innerhalb des Vendicari-Reservats.",
+                  "category": "historical",
+                  "coords": [
+                        15.086578,
+                        36.792298
+                  ]
+            },
+            {
+                  "name": "Abitato Cittadella dei Maccari",
+                  "text": "Die Überreste einer antiken Siedlung und Nekropole in Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.091353,
+                        36.782948
+                  ]
+            },
+            {
+                  "name": "Insediamento Pantano Sichilli",
+                  "text": "Eine antike Siedlungsstätte im Feuchtgebiet von Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.083794,
+                        36.784896
+                  ]
+            },
+            {
+                  "name": "Insediamento Cozzo Gerbi",
+                  "text": "Eine archäologische Fundstelle in der Hügellandschaft von Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.070952,
+                        36.788318
+                  ]
+            },
+            {
+                  "name": "Ipogeo Case San Lorenzo",
+                  "text": "Ein antikes unterirdisches Grabgewölbe in der Nähe von Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.077734,
+                        36.747262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+                  "text": "Jelentős természetvédelmi terület és vizes élőhely Szicília partjainál.",
+                  "category": "natural",
+                  "coords": [
+                        15.092059,
+                        36.808171
+                  ]
+            },
+            {
+                  "name": "Ecomuseo",
+                  "text": "Múzeum, amely a környezetet és hagyományokat mutatja be a Vendicari rezervátumban.",
+                  "category": "museum",
+                  "coords": [
+                        15.100002,
+                        36.80278
+                  ]
+            },
+            {
+                  "name": "Carraie Balsamo - Pantano Piccolo",
+                  "text": "Régészeti lelőhely ókori kocsivágányokkal Vendicariban.",
+                  "category": "historical",
+                  "coords": [
+                        15.106419,
+                        36.813709
+                  ]
+            },
+            {
+                  "name": "Vendicari - Sichilli",
+                  "text": "Régészeti maradványokat tartalmazó terület a Vendicari rezervátumon belül.",
+                  "category": "historical",
+                  "coords": [
+                        15.086578,
+                        36.792298
+                  ]
+            },
+            {
+                  "name": "Abitato Cittadella dei Maccari",
+                  "text": "Egy ókori település és nekropolisz maradványai Vendicariban.",
+                  "category": "historical",
+                  "coords": [
+                        15.091353,
+                        36.782948
+                  ]
+            },
+            {
+                  "name": "Insediamento Pantano Sichilli",
+                  "text": "Ókori településmaradványok a Vendicari vizes élőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        15.083794,
+                        36.784896
+                  ]
+            },
+            {
+                  "name": "Insediamento Cozzo Gerbi",
+                  "text": "Régészeti lelőhely Vendicari dombos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.070952,
+                        36.788318
+                  ]
+            },
+            {
+                  "name": "Ipogeo Case San Lorenzo",
+                  "text": "Ókori föld alatti sírkamra Vendicari közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.077734,
+                        36.747262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+                  "text": "O rezervație naturală importantă și zonă umedă pe coasta Siciliei.",
+                  "category": "natural",
+                  "coords": [
+                        15.092059,
+                        36.808171
+                  ]
+            },
+            {
+                  "name": "Ecomuseo",
+                  "text": "Un muzeu care prezintă mediul și tradițiile din rezervația Vendicari.",
+                  "category": "museum",
+                  "coords": [
+                        15.100002,
+                        36.80278
+                  ]
+            },
+            {
+                  "name": "Carraie Balsamo - Pantano Piccolo",
+                  "text": "Un sit arheologic cu urme de care antice în Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.106419,
+                        36.813709
+                  ]
+            },
+            {
+                  "name": "Vendicari - Sichilli",
+                  "text": "O zonă cu vestigii arheologice în cadrul rezervației Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.086578,
+                        36.792298
+                  ]
+            },
+            {
+                  "name": "Abitato Cittadella dei Maccari",
+                  "text": "Vestigiile unei așezări antice și ale unei necropole în Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.091353,
+                        36.782948
+                  ]
+            },
+            {
+                  "name": "Insediamento Pantano Sichilli",
+                  "text": "Un sit cu așezări antice situat în zona umedă din Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.083794,
+                        36.784896
+                  ]
+            },
+            {
+                  "name": "Insediamento Cozzo Gerbi",
+                  "text": "Un sit arheologic situat în zona colinară din Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.070952,
+                        36.788318
+                  ]
+            },
+            {
+                  "name": "Ipogeo Case San Lorenzo",
+                  "text": "O structură funerară subterană antică situată lângă Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.077734,
+                        36.747262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vendicari Nature Reserve",
+                  "text": "A significant nature reserve and wetland area on the coast of Sicily.",
+                  "category": "natural",
+                  "coords": [
+                        15.092059,
+                        36.808171
+                  ]
+            },
+            {
+                  "name": "Ecomuseo",
+                  "text": "A museum showcasing the environment and traditions within the Vendicari reserve.",
+                  "category": "museum",
+                  "coords": [
+                        15.100002,
+                        36.80278
+                  ]
+            },
+            {
+                  "name": "Carraie Balsamo - Pantano Piccolo",
+                  "text": "An archaeological site featuring ancient cart tracks in Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.106419,
+                        36.813709
+                  ]
+            },
+            {
+                  "name": "Vendicari - Sichilli",
+                  "text": "An area containing archaeological remains within the Vendicari reserve.",
+                  "category": "historical",
+                  "coords": [
+                        15.086578,
+                        36.792298
+                  ]
+            },
+            {
+                  "name": "Abitato Cittadella dei Maccari",
+                  "text": "The remains of an ancient settlement and necropolis in Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.091353,
+                        36.782948
+                  ]
+            },
+            {
+                  "name": "Insediamento Pantano Sichilli",
+                  "text": "An ancient settlement site located in the Vendicari wetland area.",
+                  "category": "historical",
+                  "coords": [
+                        15.083794,
+                        36.784896
+                  ]
+            },
+            {
+                  "name": "Insediamento Cozzo Gerbi",
+                  "text": "An archaeological site situated in the hilly landscape of Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.070952,
+                        36.788318
+                  ]
+            },
+            {
+                  "name": "Ipogeo Case San Lorenzo",
+                  "text": "An ancient underground burial chamber located near Vendicari.",
+                  "category": "historical",
+                  "coords": [
+                        15.077734,
+                        36.747262
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Vendicari", hu: "Vendicari Természetvédelmi Terület", ro: "Rezervația Naturală Vendicari", en: "Vendicari Nature Reserve" },
@@ -768,7 +3630,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-riserva-di-vendicari-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-gran-sasso-life-v2",
+    id: "italy-parco-nazionale-gran-sasso-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "Ein markanter Berggipfel im Nationalpark Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "Einer der Hauptgipfel des Corno Grande im Gran Sasso Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "Ein Berg im Gran-Sasso-Massiv mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "Ein felsiger Berggipfel im Nationalpark Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Ein markanter Berg im Nationalpark Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "Ein Berggipfel im Gran Sasso Massiv in der Region Abruzzen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "Der Nordgipfel des Pizzo d'Intermesoli im Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "Der höchste Gipfel des Gran Sasso Massivs in den Apenninen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "Egy jellegzetes hegycsúcs a Gran Sasso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "A Corno Grande egyik fő csúcsa a Gran Sasso-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "Egy hegy a Gran Sasso-hegységben, ahonnan széles kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "Egy sziklás hegycsúcs a Gran Sasso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Egy jellegzetes hegy a Gran Sasso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "Egy hegycsúcs a Gran Sasso-hegységben, Abruzzo régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "A Pizzo d'Intermesoli északi csúcsa a Gran Sasso-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "A Gran Sasso-hegység legmagasabb csúcsa az Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "Un vârf muntos proeminent în Parcul Național Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "Unul dintre vârfurile principale ale masivului Corno Grande din Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "Un munte în masivul Gran Sasso, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "Un vârf muntos stâncos în Parcul Național Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Un munte proeminent în Parcul Național Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "Un vârf muntos în masivul Gran Sasso din regiunea Abruzzo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "Vârful nordic al masivului Pizzo d'Intermesoli din Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "Cel mai înalt vârf din masivul Gran Sasso din Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "A prominent mountain peak in the Gran Sasso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "One of the main peaks of the Corno Grande in the Gran Sasso massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "A mountain in the Gran Sasso massif offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "A rocky mountain peak in the Gran Sasso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "A prominent mountain in the Gran Sasso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "A mountain peak in the Gran Sasso massif in the Abruzzo region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "The northern peak of the Pizzo d'Intermesoli in the Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "The highest peak of the Gran Sasso massif in the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Gran Sasso", hu: "Gran Sasso Nemzeti Park", ro: "Parcul Național Gran Sasso", en: "Gran Sasso National Park" },
@@ -813,7 +3972,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-gran-sasso-life-v2.webp",
   },
   {
-    id: "italy-parco-regionale-maremma-life-v2",
+    id: "italy-parco-regionale-maremma-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco Naturale della Maremma",
+                  "text": "Ein großes Schutzgebiet an der tyrrhenischen Küste in der Toskana.",
+                  "category": "natural",
+                  "coords": [
+                        11.085976,
+                        42.641799
+                  ]
+            },
+            {
+                  "name": "Pineta Granducale dell'Uccellina",
+                  "text": "Ein historischer Pinienwald im Regionalpark Maremma.",
+                  "category": "natural",
+                  "coords": [
+                        11.048017,
+                        42.653449
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Rabano",
+                  "text": "Die Ruinen eines mittelalterlichen Benediktinerklosters in den Uccellina-Bergen.",
+                  "category": "religious",
+                  "coords": [
+                        11.096728,
+                        42.635142
+                  ]
+            },
+            {
+                  "name": "Area dei templi dello Scoglietto",
+                  "text": "Eine archäologische Stätte mit Ruinen antiker Tempel in Küstennähe.",
+                  "category": "historical",
+                  "coords": [
+                        11.051202,
+                        42.672993
+                  ]
+            },
+            {
+                  "name": "sito archeologico di Spolverino - Alberese",
+                  "text": "Eine archäologische Stätte im Gebiet Alberese des Parks.",
+                  "category": "historical",
+                  "coords": [
+                        11.070698,
+                        42.688681
+                  ]
+            },
+            {
+                  "name": "Torre di Collelungo",
+                  "text": "Ein historischer Küstenwachturm mit Blick auf das Meer im Maremma-Park.",
+                  "category": "tower",
+                  "coords": [
+                        11.068869,
+                        42.639405
+                  ]
+            },
+            {
+                  "name": "Torre di Castel Marino",
+                  "text": "Ein historischer Wachturm im Regionalpark Maremma.",
+                  "category": "tower",
+                  "coords": [
+                        11.066006,
+                        42.646713
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Maria alla Trappola",
+                  "text": "Eine kleine historische Kapelle im Regionalpark Maremma.",
+                  "category": "religious",
+                  "coords": [
+                        11.065333,
+                        42.698556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco Naturale della Maremma",
+                  "text": "Nagy kiterjedésű védett terület a toszkánai Tirrén-tenger partján.",
+                  "category": "natural",
+                  "coords": [
+                        11.085976,
+                        42.641799
+                  ]
+            },
+            {
+                  "name": "Pineta Granducale dell'Uccellina",
+                  "text": "Történelmi fenyőerdő a Maremma Regionális Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        11.048017,
+                        42.653449
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Rabano",
+                  "text": "Egy középkori bencés kolostor romjai az Uccellina-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        11.096728,
+                        42.635142
+                  ]
+            },
+            {
+                  "name": "Area dei templi dello Scoglietto",
+                  "text": "Régészeti lelőhely ókori templomok romjaival a part közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.051202,
+                        42.672993
+                  ]
+            },
+            {
+                  "name": "sito archeologico di Spolverino - Alberese",
+                  "text": "Régészeti lelőhely a park Alberese területén.",
+                  "category": "historical",
+                  "coords": [
+                        11.070698,
+                        42.688681
+                  ]
+            },
+            {
+                  "name": "Torre di Collelungo",
+                  "text": "Történelmi tengerparti őrtorony a Maremma Parkban, kilátással a tengerre.",
+                  "category": "tower",
+                  "coords": [
+                        11.068869,
+                        42.639405
+                  ]
+            },
+            {
+                  "name": "Torre di Castel Marino",
+                  "text": "Történelmi őrtorony a Maremma Regionális Parkban.",
+                  "category": "tower",
+                  "coords": [
+                        11.066006,
+                        42.646713
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Maria alla Trappola",
+                  "text": "Kis történelmi kápolna a Maremma Regionális Park területén.",
+                  "category": "religious",
+                  "coords": [
+                        11.065333,
+                        42.698556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco Naturale della Maremma",
+                  "text": "O mare arie protejată de-a lungul coastei tireniene în Toscana.",
+                  "category": "natural",
+                  "coords": [
+                        11.085976,
+                        42.641799
+                  ]
+            },
+            {
+                  "name": "Pineta Granducale dell'Uccellina",
+                  "text": "O pădure istorică de pini în cadrul Parcului Regional Maremma.",
+                  "category": "natural",
+                  "coords": [
+                        11.048017,
+                        42.653449
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Rabano",
+                  "text": "Ruinele unei mănăstiri benedictine medievale din munții Uccellina.",
+                  "category": "religious",
+                  "coords": [
+                        11.096728,
+                        42.635142
+                  ]
+            },
+            {
+                  "name": "Area dei templi dello Scoglietto",
+                  "text": "Un sit arheologic care prezintă ruinele unor temple antice lângă coastă.",
+                  "category": "historical",
+                  "coords": [
+                        11.051202,
+                        42.672993
+                  ]
+            },
+            {
+                  "name": "sito archeologico di Spolverino - Alberese",
+                  "text": "Un sit arheologic situat în zona Alberese a parcului.",
+                  "category": "historical",
+                  "coords": [
+                        11.070698,
+                        42.688681
+                  ]
+            },
+            {
+                  "name": "Torre di Collelungo",
+                  "text": "Un turn istoric de veghe de coastă, cu vedere la mare, în Parcul Maremma.",
+                  "category": "tower",
+                  "coords": [
+                        11.068869,
+                        42.639405
+                  ]
+            },
+            {
+                  "name": "Torre di Castel Marino",
+                  "text": "Un turn de veghe istoric situat în Parcul Regional Maremma.",
+                  "category": "tower",
+                  "coords": [
+                        11.066006,
+                        42.646713
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Maria alla Trappola",
+                  "text": "O mică capelă istorică situată în Parcul Regional Maremma.",
+                  "category": "religious",
+                  "coords": [
+                        11.065333,
+                        42.698556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco Naturale della Maremma",
+                  "text": "A large protected area along the Tyrrhenian coast in Tuscany.",
+                  "category": "natural",
+                  "coords": [
+                        11.085976,
+                        42.641799
+                  ]
+            },
+            {
+                  "name": "Pineta Granducale dell'Uccellina",
+                  "text": "A historic pine forest within the Maremma Regional Park.",
+                  "category": "natural",
+                  "coords": [
+                        11.048017,
+                        42.653449
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Rabano",
+                  "text": "The ruins of a medieval Benedictine monastery in the Uccellina mountains.",
+                  "category": "religious",
+                  "coords": [
+                        11.096728,
+                        42.635142
+                  ]
+            },
+            {
+                  "name": "Area dei templi dello Scoglietto",
+                  "text": "An archaeological site featuring ruins of ancient temples near the coast.",
+                  "category": "historical",
+                  "coords": [
+                        11.051202,
+                        42.672993
+                  ]
+            },
+            {
+                  "name": "sito archeologico di Spolverino - Alberese",
+                  "text": "An archaeological site located in the Alberese area of the park.",
+                  "category": "historical",
+                  "coords": [
+                        11.070698,
+                        42.688681
+                  ]
+            },
+            {
+                  "name": "Torre di Collelungo",
+                  "text": "A historic coastal watchtower overlooking the sea in the Maremma Park.",
+                  "category": "tower",
+                  "coords": [
+                        11.068869,
+                        42.639405
+                  ]
+            },
+            {
+                  "name": "Torre di Castel Marino",
+                  "text": "A historic watchtower located in the Maremma Regional Park.",
+                  "category": "tower",
+                  "coords": [
+                        11.066006,
+                        42.646713
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Maria alla Trappola",
+                  "text": "A small historic chapel located within the Maremma Regional Park.",
+                  "category": "religious",
+                  "coords": [
+                        11.065333,
+                        42.698556
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Maremma", hu: "Maremma Regionális Park", ro: "Parcul Regional Maremma", en: "Maremma Regional Park" },
@@ -903,7 +4359,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-giardino-botanico-di-napoli-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-monti-sibillini-life-v2",
+    id: "italy-parco-nazionale-monti-sibillini-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Ein markanter Berggipfel im Nationalpark Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "Mit 2448 Metern einer der höchsten Gipfel im Nationalpark Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Ein imposanter Berggipfel im Monti Sibillini Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Ein Berggipfel in den Monti Sibillini, der über dem Lago di Pilato thront.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Ein Aussichtsgipfel im Herzen des Nationalparks Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Ein Gipfel im Gebirgszug der Monti Sibillini in Mittelitalien.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "Der höchste Gipfel des Monti-Sibillini-Massivs mit einer Höhe von 2476 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Überreste eines historischen Bauwerks im Nationalpark Monti Sibillini.",
+                  "category": "historical",
+                  "coords": [
+                        13.207414,
+                        42.82861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Jellegzetes hegycsúcs a Monti Sibillini Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "A Monti Sibillini Nemzeti Park egyik legmagasabb csúcsa, magassága 2448 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Impozáns hegycsúcs a Monti Sibillini Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Hegycsúcs a Monti Sibillini hegységben, amely a Pilátus-tó felett magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Kilátópontként is szolgáló hegycsúcs a Monti Sibillini Nemzeti Park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Hegycsúcs a közép-olaszországi Monti Sibillini hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "A Monti Sibillini-hegység legmagasabb csúcsa, 2476 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Történelmi épület maradványai a Monti Sibillini Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.207414,
+                        42.82861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Un vârf muntos proeminent situat în Parcul Național Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "Unul dintre cele mai înalte vârfuri din Parcul Național Monti Sibillini, având 2448 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Un vârf muntos impunător situat în Parcul Național Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Un vârf muntos din Monti Sibillini, situat deasupra lacului Pilato.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Un vârf montan situat în inima Parcului Național Monti Sibillini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Un vârf din lanțul muntos Monti Sibillini, situat în centrul Italiei.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "Cel mai înalt vârf din masivul Monti Sibillini, având o înălțime de 2476 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "Ruinele unei structuri istorice situate în Parcul Național Monti Sibillini.",
+                  "category": "historical",
+                  "coords": [
+                        13.207414,
+                        42.82861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "A prominent mountain peak located in the Monti Sibillini National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "One of the highest peaks in the Monti Sibillini National Park, reaching 2,448 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "An impressive mountain peak within the Monti Sibillini National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "A mountain peak in the Monti Sibillini, overlooking the Pilato Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "A mountain peak located in the heart of the Monti Sibillini National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "A peak in the Monti Sibillini mountain range in central Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "The highest peak of the Monti Sibillini massif, reaching an elevation of 2,476 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            },
+            {
+                  "name": "Santa Maria",
+                  "text": "The ruins of a historical structure located within the Monti Sibillini National Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.207414,
+                        42.82861
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Monti Sibillini", hu: "Monti Sibillini Nemzeti Park", ro: "Parcul Național Monti Sibillini", en: "Monti Sibillini National Park" },
@@ -948,7 +4701,232 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-monti-sibillini-life-v2.webp",
   },
   {
-    id: "italy-parco-regionale-lago-di-bracciano-life-v2",
+    id: "italy-parco-regionale-lago-di-bracciano-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Storico dell’Aeronautica Militare",
+                  "text": "Ein bedeutendes Luftfahrtmuseum, das historische Flugzeuge und die Geschichte der italienischen Luftwaffe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.216814,
+                        42.085611
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale di Bracciano - Martignano",
+                  "text": "Ein regionaler Naturpark, der das Ökosystem um die Vulkanseen von Bracciano und Martignano schützt.",
+                  "category": "natural",
+                  "coords": [
+                        12.245486,
+                        42.132745
+                  ]
+            },
+            {
+                  "name": "ZPS Comprensorio Bracciano-Martignano",
+                  "text": "Ein geschütztes Vogelschutzgebiet innerhalb des Naturkomplexes Bracciano-Martignano.",
+                  "category": "natural",
+                  "coords": [
+                        12.246656,
+                        42.132152
+                  ]
+            },
+            {
+                  "name": "Zona archeologica",
+                  "text": "Eine archäologische Ausgrabungsstätte im Regionalpark Bracciano-See mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        12.270452,
+                        42.093858
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei gabbiani",
+                  "text": "Ein ruhiger Strand am Bracciano-See, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.21386,
+                        42.087365
+                  ]
+            },
+            {
+                  "name": "Porta Maggiore",
+                  "text": "Ein historisches Tor, das Zugang zu einer Siedlung in der Nähe des Bracciano-Sees bietet.",
+                  "category": "fortress",
+                  "coords": [
+                        12.269749,
+                        42.092773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Storico dell’Aeronautica Militare",
+                  "text": "Jelentős repülési múzeum, amely történelmi repülőgépeket és az olasz légierő történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.216814,
+                        42.085611
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale di Bracciano - Martignano",
+                  "text": "Regionális natúrpark, amely a Bracciano- és Martignano-vulkáni tavak körüli ökoszisztémát védi.",
+                  "category": "natural",
+                  "coords": [
+                        12.245486,
+                        42.132745
+                  ]
+            },
+            {
+                  "name": "ZPS Comprensorio Bracciano-Martignano",
+                  "text": "Védett madárvédelmi terület a Bracciano-Martignano természetvédelmi komplexumon belül.",
+                  "category": "natural",
+                  "coords": [
+                        12.246656,
+                        42.132152
+                  ]
+            },
+            {
+                  "name": "Zona archeologica",
+                  "text": "Régészeti lelőhely a Bracciano-tó Regionális Parkban, ókori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        12.270452,
+                        42.093858
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei gabbiani",
+                  "text": "Csendes tóparti strand a Bracciano-tónál, amely természetes környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.21386,
+                        42.087365
+                  ]
+            },
+            {
+                  "name": "Porta Maggiore",
+                  "text": "Történelmi kapu, amely hozzáférést biztosít a Bracciano-tó közeli településhez.",
+                  "category": "fortress",
+                  "coords": [
+                        12.269749,
+                        42.092773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Storico dell’Aeronautica Militare",
+                  "text": "Un muzeu important de aviație care prezintă aeronave istorice și istoria forțelor aeriene italiene.",
+                  "category": "museum",
+                  "coords": [
+                        12.216814,
+                        42.085611
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale di Bracciano - Martignano",
+                  "text": "Un parc natural regional care protejează ecosistemul din jurul lacurilor vulcanice Bracciano și Martignano.",
+                  "category": "natural",
+                  "coords": [
+                        12.245486,
+                        42.132745
+                  ]
+            },
+            {
+                  "name": "ZPS Comprensorio Bracciano-Martignano",
+                  "text": "O zonă protejată de protecție a păsărilor în cadrul complexului natural Bracciano-Martignano.",
+                  "category": "natural",
+                  "coords": [
+                        12.246656,
+                        42.132152
+                  ]
+            },
+            {
+                  "name": "Zona archeologica",
+                  "text": "Un sit arheologic în Parcul Regional Lacul Bracciano, care prezintă vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        12.270452,
+                        42.093858
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei gabbiani",
+                  "text": "O plajă liniștită pe malul lacului Bracciano, cunoscută pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        12.21386,
+                        42.087365
+                  ]
+            },
+            {
+                  "name": "Porta Maggiore",
+                  "text": "O poartă istorică ce oferă acces la o așezare din apropierea lacului Bracciano.",
+                  "category": "fortress",
+                  "coords": [
+                        12.269749,
+                        42.092773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Storico dell’Aeronautica Militare",
+                  "text": "A major aviation museum showcasing historic aircraft and the history of the Italian Air Force.",
+                  "category": "museum",
+                  "coords": [
+                        12.216814,
+                        42.085611
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale di Bracciano - Martignano",
+                  "text": "A regional natural park protecting the ecosystem around the volcanic lakes of Bracciano and Martignano.",
+                  "category": "natural",
+                  "coords": [
+                        12.245486,
+                        42.132745
+                  ]
+            },
+            {
+                  "name": "ZPS Comprensorio Bracciano-Martignano",
+                  "text": "A protected bird sanctuary area within the Bracciano-Martignano natural complex.",
+                  "category": "natural",
+                  "coords": [
+                        12.246656,
+                        42.132152
+                  ]
+            },
+            {
+                  "name": "Zona archeologica",
+                  "text": "An archaeological site within the Bracciano Lake Regional Park featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        12.270452,
+                        42.093858
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei gabbiani",
+                  "text": "A quiet lakefront beach on Lake Bracciano, known for its natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        12.21386,
+                        42.087365
+                  ]
+            },
+            {
+                  "name": "Porta Maggiore",
+                  "text": "A historic gateway providing access to a settlement near Lake Bracciano.",
+                  "category": "fortress",
+                  "coords": [
+                        12.269749,
+                        42.092773
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IT",
     name: { de: "Regionalpark Bracciano-See", hu: "Bracciano-tó Regionális Park", ro: "Parcul Regional Lacul Bracciano", en: "Bracciano Lake Regional Park" },
@@ -993,7 +4971,268 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-regionale-lago-di-bracciano-life-v2.webp",
   },
   {
-    id: "italy-riserva-naturale-foce-fiume-po-life-v2",
+    id: "italy-riserva-naturale-foce-fiume-po-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palazzo Protti",
+                  "text": "Palazzo Protti ist ein historisches Gebäude im Regionalpark des Po-Deltas.",
+                  "category": "castle",
+                  "coords": [
+                        12.333637,
+                        44.951476
+                  ]
+            },
+            {
+                  "name": "Antonio Farsetti",
+                  "text": "Das Denkmal für Antonio Farsetti befindet sich im Gebiet des Po-Deltas.",
+                  "category": "historical",
+                  "coords": [
+                        12.331494,
+                        44.932396
+                  ]
+            },
+            {
+                  "name": "Monumento ai Marinai d'Italia",
+                  "text": "Das Monumento ai Marinai d'Italia ehrt die italienischen Seeleute im Po-Delta.",
+                  "category": "historical",
+                  "coords": [
+                        12.335587,
+                        44.945776
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti di Donzella",
+                  "text": "Dieses Denkmal ist den Gefallenen von Donzella im Po-Delta gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        12.329838,
+                        44.930807
+                  ]
+            },
+            {
+                  "name": "Chiesa della Beata Vergine del Carmine",
+                  "text": "Die Chiesa della Beata Vergine del Carmine ist eine religiöse Stätte im Po-Delta.",
+                  "category": "religious",
+                  "coords": [
+                        12.325337,
+                        44.935915
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Cuore di Gesù",
+                  "text": "Die Chiesa del Santissimo Cuore di Gesù ist ein Kirchengebäude im Po-Delta.",
+                  "category": "religious",
+                  "coords": [
+                        12.335875,
+                        44.951345
+                  ]
+            },
+            {
+                  "name": "San Nicolò Vescovo",
+                  "text": "Die San Nicolò Vescovo ist eine dem heiligen Nikolaus geweihte Kirche im Po-Delta.",
+                  "category": "religious",
+                  "coords": [
+                        12.33464,
+                        44.958838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazzo Protti",
+                  "text": "A Palazzo Protti egy történelmi épület a Pó-delta természetvédelmi területén.",
+                  "category": "castle",
+                  "coords": [
+                        12.333637,
+                        44.951476
+                  ]
+            },
+            {
+                  "name": "Antonio Farsetti",
+                  "text": "Antonio Farsetti emlékműve a Pó-delta területén található.",
+                  "category": "historical",
+                  "coords": [
+                        12.331494,
+                        44.932396
+                  ]
+            },
+            {
+                  "name": "Monumento ai Marinai d'Italia",
+                  "text": "A Monumento ai Marinai d'Italia az olasz tengerészek előtt tiszteleg a Pó-deltában.",
+                  "category": "historical",
+                  "coords": [
+                        12.335587,
+                        44.945776
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti di Donzella",
+                  "text": "Ez az emlékmű Donzella elesett hőseinek állít emléket a Pó-deltában.",
+                  "category": "historical",
+                  "coords": [
+                        12.329838,
+                        44.930807
+                  ]
+            },
+            {
+                  "name": "Chiesa della Beata Vergine del Carmine",
+                  "text": "A Chiesa della Beata Vergine del Carmine egy templom a Pó-delta területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.325337,
+                        44.935915
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Cuore di Gesù",
+                  "text": "A Chiesa del Santissimo Cuore di Gesù egy templom a Pó-delta környékén.",
+                  "category": "religious",
+                  "coords": [
+                        12.335875,
+                        44.951345
+                  ]
+            },
+            {
+                  "name": "San Nicolò Vescovo",
+                  "text": "A San Nicolò Vescovo egy Szent Miklós tiszteletére szentelt templom a Pó-deltában.",
+                  "category": "religious",
+                  "coords": [
+                        12.33464,
+                        44.958838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazzo Protti",
+                  "text": "Palazzo Protti este o clădire istorică situată în Rezervația Naturală Delta Po.",
+                  "category": "castle",
+                  "coords": [
+                        12.333637,
+                        44.951476
+                  ]
+            },
+            {
+                  "name": "Antonio Farsetti",
+                  "text": "Monumentul lui Antonio Farsetti se află în zona Rezervației Naturale Delta Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.331494,
+                        44.932396
+                  ]
+            },
+            {
+                  "name": "Monumento ai Marinai d'Italia",
+                  "text": "Monumento ai Marinai d'Italia onorează marinarii italieni în zona Deltei Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.335587,
+                        44.945776
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti di Donzella",
+                  "text": "Acest monument este dedicat eroilor căzuți din Donzella, în regiunea Deltei Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.329838,
+                        44.930807
+                  ]
+            },
+            {
+                  "name": "Chiesa della Beata Vergine del Carmine",
+                  "text": "Chiesa della Beata Vergine del Carmine este un lăcaș de cult situat în Delta Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.325337,
+                        44.935915
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Cuore di Gesù",
+                  "text": "Chiesa del Santissimo Cuore di Gesù este o biserică situată în zona Deltei Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.335875,
+                        44.951345
+                  ]
+            },
+            {
+                  "name": "San Nicolò Vescovo",
+                  "text": "San Nicolò Vescovo este o biserică dedicată Sfântului Nicolae în Rezervația Delta Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.33464,
+                        44.958838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palazzo Protti",
+                  "text": "Palazzo Protti is a historic building located within the Po Delta Nature Reserve.",
+                  "category": "castle",
+                  "coords": [
+                        12.333637,
+                        44.951476
+                  ]
+            },
+            {
+                  "name": "Antonio Farsetti",
+                  "text": "The monument to Antonio Farsetti is located in the Po Delta area.",
+                  "category": "historical",
+                  "coords": [
+                        12.331494,
+                        44.932396
+                  ]
+            },
+            {
+                  "name": "Monumento ai Marinai d'Italia",
+                  "text": "The Monumento ai Marinai d'Italia honors Italian sailors in the Po Delta region.",
+                  "category": "historical",
+                  "coords": [
+                        12.335587,
+                        44.945776
+                  ]
+            },
+            {
+                  "name": "Monumento ai Caduti di Donzella",
+                  "text": "This monument is dedicated to the fallen of Donzella in the Po Delta region.",
+                  "category": "historical",
+                  "coords": [
+                        12.329838,
+                        44.930807
+                  ]
+            },
+            {
+                  "name": "Chiesa della Beata Vergine del Carmine",
+                  "text": "The Chiesa della Beata Vergine del Carmine is a place of worship in the Po Delta region.",
+                  "category": "religious",
+                  "coords": [
+                        12.325337,
+                        44.935915
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Cuore di Gesù",
+                  "text": "The Chiesa del Santissimo Cuore di Gesù is a church located in the Po Delta area.",
+                  "category": "religious",
+                  "coords": [
+                        12.335875,
+                        44.951345
+                  ]
+            },
+            {
+                  "name": "San Nicolò Vescovo",
+                  "text": "San Nicolò Vescovo is a church dedicated to Saint Nicholas in the Po Delta region.",
+                  "category": "religious",
+                  "coords": [
+                        12.33464,
+                        44.958838
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IT",
     name: { de: "Naturschutzgebiet Po-Delta", hu: "Po-delta Természetvédelmi Terület", ro: "Rezervația Naturală Delta Padului", en: "Po Delta Nature Reserve" },
@@ -1038,7 +5277,52 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-riserva-naturale-foce-fiume-po-life-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-della-val-d-agri-life-v2",
+    id: "italy-parco-nazionale-della-val-d-agri-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese",
+                  "text": "Ein weitläufiges Naturschutzgebiet in der italienischen Region Basilikata.",
+                  "category": "natural",
+                  "coords": [
+                        15.8668,
+                        40.338377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese",
+                  "text": "Egy kiterjedt természetvédelmi terület az olaszországi Basilicata régióban.",
+                  "category": "natural",
+                  "coords": [
+                        15.8668,
+                        40.338377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese",
+                  "text": "O rezervație naturală vastă în regiunea italiană Basilicata.",
+                  "category": "natural",
+                  "coords": [
+                        15.8668,
+                        40.338377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco Nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese",
+                  "text": "A vast nature reserve in the Italian region of Basilicata.",
+                  "category": "natural",
+                  "coords": [
+                        15.8668,
+                        40.338377
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Val d'Agri", hu: "Val d'Agri Nemzeti Park", ro: "Parcul Național Val d'Agri", en: "Val d'Agri National Park" },
@@ -1128,7 +5412,196 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-parco-regionale-monte-subasio-life-v2.webp",
   },
   {
-    id: "italy-riserva-naturale-tasso-di-monte-life-v2",
+    id: "italy-riserva-naturale-tasso-di-monte-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico",
+                  "text": "Dieses Museum im Naturschutzgebiet Monte Tasso präsentiert lokale archäologische und historische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        14.473135,
+                        41.482417
+                  ]
+            },
+            {
+                  "name": "Teatro Area Verde - Ex Cava di Civita",
+                  "text": "Ein Freilichttheater in einem ehemaligen Steinbruch, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.475472,
+                        41.475836
+                  ]
+            },
+            {
+                  "name": "Castello Pandone",
+                  "text": "Eine mittelalterliche Burg auf einem Hügel, die die Umgebung von Bojano überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        14.470606,
+                        41.477654
+                  ]
+            },
+            {
+                  "name": "Santi Erasmo e Martino",
+                  "text": "Eine sehenswerte Kirche im Gebiet von Bojano, die den Heiligen Erasmus und Martin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.469917,
+                        41.482525
+                  ]
+            },
+            {
+                  "name": "Belvedere di Civita",
+                  "text": "Ein beliebter Aussichtspunkt in Civita, der einen Panoramablick auf die umliegende Bergwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.473539,
+                        41.477579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico",
+                  "text": "Ez a Monte Tasso természetvédelmi területen található múzeum helyi régészeti és történelmi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.473135,
+                        41.482417
+                  ]
+            },
+            {
+                  "name": "Teatro Area Verde - Ex Cava di Civita",
+                  "text": "Szabadtéri színház egy egykori kőfejtőben, amelyet kulturális rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.475472,
+                        41.475836
+                  ]
+            },
+            {
+                  "name": "Castello Pandone",
+                  "text": "Egy dombtetőn álló középkori vár, amely Bojano környékére néz.",
+                  "category": "castle",
+                  "coords": [
+                        14.470606,
+                        41.477654
+                  ]
+            },
+            {
+                  "name": "Santi Erasmo e Martino",
+                  "text": "Látványos templom Bojano környékén, amelyet Szent Erasmusnak és Mártonnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.469917,
+                        41.482525
+                  ]
+            },
+            {
+                  "name": "Belvedere di Civita",
+                  "text": "Népszerű kilátópont Civitában, amely panorámás kilátást nyújt a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        14.473539,
+                        41.477579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico",
+                  "text": "Acest muzeu din rezervația Monte Tasso prezintă descoperiri arheologice și istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        14.473135,
+                        41.482417
+                  ]
+            },
+            {
+                  "name": "Teatro Area Verde - Ex Cava di Civita",
+                  "text": "Un teatru în aer liber amenajat într-o fostă carieră, utilizat pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.475472,
+                        41.475836
+                  ]
+            },
+            {
+                  "name": "Castello Pandone",
+                  "text": "Un castel medieval situat pe un deal, ce domină împrejurimile localității Bojano.",
+                  "category": "castle",
+                  "coords": [
+                        14.470606,
+                        41.477654
+                  ]
+            },
+            {
+                  "name": "Santi Erasmo e Martino",
+                  "text": "O biserică demnă de vizitat în zona Bojano, dedicată Sfinților Erasm și Martin.",
+                  "category": "landmark",
+                  "coords": [
+                        14.469917,
+                        41.482525
+                  ]
+            },
+            {
+                  "name": "Belvedere di Civita",
+                  "text": "Un punct de belvedere popular în Civita, oferind o vedere panoramică asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        14.473539,
+                        41.477579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico",
+                  "text": "This museum in the Monte Tasso Nature Reserve displays local archaeological and historical finds.",
+                  "category": "museum",
+                  "coords": [
+                        14.473135,
+                        41.482417
+                  ]
+            },
+            {
+                  "name": "Teatro Area Verde - Ex Cava di Civita",
+                  "text": "An open-air theatre located in a former quarry, used for various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.475472,
+                        41.475836
+                  ]
+            },
+            {
+                  "name": "Castello Pandone",
+                  "text": "A medieval castle situated on a hill, overlooking the area surrounding Bojano.",
+                  "category": "castle",
+                  "coords": [
+                        14.470606,
+                        41.477654
+                  ]
+            },
+            {
+                  "name": "Santi Erasmo e Martino",
+                  "text": "A noteworthy church in the Bojano area, dedicated to Saints Erasmus and Martin.",
+                  "category": "landmark",
+                  "coords": [
+                        14.469917,
+                        41.482525
+                  ]
+            },
+            {
+                  "name": "Belvedere di Civita",
+                  "text": "A popular viewpoint in Civita offering panoramic views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        14.473539,
+                        41.477579
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Naturschutzgebiet Monte Tasso", hu: "Monte Tasso Természetvédelmi Terület", ro: "Rezervația Naturală Monte Tasso", en: "Monte Tasso Nature Reserve" },
@@ -1218,7 +5691,304 @@ export const italyLifeV2: POI[] = [
     image: "/poi-images/italy-giardino-botanico-di-catania-life-v2.webp",
   },
   {
-    id: "italy-parco-regionale-del-conero-life-v2",
+    id: "italy-parco-regionale-del-conero-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Cortesi",
+                  "text": "Ein historisches Theater in Sirolo, das sich im Regionalpark Conero befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.620221,
+                        43.52155
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vela",
+                  "text": "Ein malerischer Strand im Regionalpark Conero, bekannt für seine charakteristische Felsformation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604944,
+                        43.559707
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Mezzavalle",
+                  "text": "Ein naturbelassener weißer Sandstrand im Herzen des Conero Regionalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        13.573293,
+                        43.571102
+                  ]
+            },
+            {
+                  "name": "Area archeologica \"I Pini\"",
+                  "text": "Eine archäologische Ausgrabungsstätte im Conero Regionalpark mit antiken Funden.",
+                  "category": "historical",
+                  "coords": [
+                        13.611428,
+                        43.51796
+                  ]
+            },
+            {
+                  "name": "Teatro alle Cave",
+                  "text": "Ein Freilichttheater im Regionalpark Conero, das in einem ehemaligen Steinbruch angelegt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        13.604189,
+                        43.535303
+                  ]
+            },
+            {
+                  "name": "Grotte romane",
+                  "text": "Antike römische Grotten und archäologische Ausgrabungsstätte im Regionalpark Conero.",
+                  "category": "historical",
+                  "coords": [
+                        13.596194,
+                        43.547485
+                  ]
+            },
+            {
+                  "name": "Incisioni rupestri",
+                  "text": "Antike Felsritzungen und archäologische Stätte im Regionalpark Conero.",
+                  "category": "historical",
+                  "coords": [
+                        13.60136,
+                        43.548149
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Ein historisches napoleonisches Fort an der Küste des Regionalparks Conero.",
+                  "category": "fortress",
+                  "coords": [
+                        13.592413,
+                        43.565423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Cortesi",
+                  "text": "Történelmi színház Sirólóban, amely a Conero Regionális Park területén található.",
+                  "category": "cultural",
+                  "coords": [
+                        13.620221,
+                        43.52155
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vela",
+                  "text": "Festői tengerpart a Conero Regionális Parkban, amely jellegzetes sziklaképződményéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604944,
+                        43.559707
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Mezzavalle",
+                  "text": "Természetes, fehér homokos tengerpart a Conero Regionális Park szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.573293,
+                        43.571102
+                  ]
+            },
+            {
+                  "name": "Area archeologica \"I Pini\"",
+                  "text": "Régészeti feltárási terület a Conero Regionális Parkban, ókori leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        13.611428,
+                        43.51796
+                  ]
+            },
+            {
+                  "name": "Teatro alle Cave",
+                  "text": "Szabadtéri színház a Conero Regionális Parkban, amelyet egy egykori kőfejtőben alakítottak ki.",
+                  "category": "cultural",
+                  "coords": [
+                        13.604189,
+                        43.535303
+                  ]
+            },
+            {
+                  "name": "Grotte romane",
+                  "text": "Ókori római barlangok és régészeti lelőhely a Conero Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.596194,
+                        43.547485
+                  ]
+            },
+            {
+                  "name": "Incisioni rupestri",
+                  "text": "Ősi sziklarajzok és régészeti lelőhely a Conero Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        13.60136,
+                        43.548149
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Történelmi napóleoni erőd a Conero Regionális Park tengerpartján.",
+                  "category": "fortress",
+                  "coords": [
+                        13.592413,
+                        43.565423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Cortesi",
+                  "text": "Un teatru istoric din Sirolo, situat în Parcul Regional Conero.",
+                  "category": "cultural",
+                  "coords": [
+                        13.620221,
+                        43.52155
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vela",
+                  "text": "O plajă pitorească în Parcul Regional Conero, cunoscută pentru formațiunea sa stâncoasă caracteristică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604944,
+                        43.559707
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Mezzavalle",
+                  "text": "O plajă naturală cu nisip alb în inima Parcului Regional Conero.",
+                  "category": "recreational",
+                  "coords": [
+                        13.573293,
+                        43.571102
+                  ]
+            },
+            {
+                  "name": "Area archeologica \"I Pini\"",
+                  "text": "Un sit de excavări arheologice în Parcul Regional Conero, cu descoperiri antice.",
+                  "category": "historical",
+                  "coords": [
+                        13.611428,
+                        43.51796
+                  ]
+            },
+            {
+                  "name": "Teatro alle Cave",
+                  "text": "Un teatru în aer liber în Parcul Regional Conero, amenajat într-o fostă carieră de piatră.",
+                  "category": "cultural",
+                  "coords": [
+                        13.604189,
+                        43.535303
+                  ]
+            },
+            {
+                  "name": "Grotte romane",
+                  "text": "Grote romane antice și sit arheologic situat în Parcul Regional Conero.",
+                  "category": "historical",
+                  "coords": [
+                        13.596194,
+                        43.547485
+                  ]
+            },
+            {
+                  "name": "Incisioni rupestri",
+                  "text": "Gravuri rupestre antice și sit arheologic în Parcul Regional Conero.",
+                  "category": "historical",
+                  "coords": [
+                        13.60136,
+                        43.548149
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "Un fort napoleonian istoric situat pe coasta Parcului Regional Conero.",
+                  "category": "fortress",
+                  "coords": [
+                        13.592413,
+                        43.565423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Cortesi",
+                  "text": "A historical theatre in Sirolo, located within the Conero Regional Park.",
+                  "category": "cultural",
+                  "coords": [
+                        13.620221,
+                        43.52155
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vela",
+                  "text": "A scenic beach in the Conero Regional Park, known for its characteristic rock formation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604944,
+                        43.559707
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Mezzavalle",
+                  "text": "A natural white sand beach in the heart of the Conero Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.573293,
+                        43.571102
+                  ]
+            },
+            {
+                  "name": "Area archeologica \"I Pini\"",
+                  "text": "An archaeological excavation site in the Conero Regional Park featuring ancient finds.",
+                  "category": "historical",
+                  "coords": [
+                        13.611428,
+                        43.51796
+                  ]
+            },
+            {
+                  "name": "Teatro alle Cave",
+                  "text": "An open-air theatre in the Conero Regional Park set within a former quarry.",
+                  "category": "cultural",
+                  "coords": [
+                        13.604189,
+                        43.535303
+                  ]
+            },
+            {
+                  "name": "Grotte romane",
+                  "text": "Ancient Roman caves and archaeological site located in the Conero Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.596194,
+                        43.547485
+                  ]
+            },
+            {
+                  "name": "Incisioni rupestri",
+                  "text": "Ancient rock carvings and archaeological site found in the Conero Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        13.60136,
+                        43.548149
+                  ]
+            },
+            {
+                  "name": "Fortino Napoleonico",
+                  "text": "A historic Napoleonic fort located on the coast of the Conero Regional Park.",
+                  "category": "fortress",
+                  "coords": [
+                        13.592413,
+                        43.565423
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Conero", hu: "Conero Regionális Park", ro: "Parcul Regional Conero", en: "Conero Regional Park" },

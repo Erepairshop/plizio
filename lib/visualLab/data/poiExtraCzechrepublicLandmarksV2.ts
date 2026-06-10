@@ -191,7 +191,304 @@ export const czechrepublicLandmarksV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-cesky-krumlov-castle-landmarks-v2",
+    id: "czechrepublic-cesky-krumlov-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Graphitbergwerk",
+                  "text": "Das Graphitbergwerk in Český Krumlov bietet Besuchern Einblicke in den historischen Bergbau.",
+                  "category": "museum",
+                  "coords": [
+                        14.304771,
+                        48.816972
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Český Krumlov",
+                  "text": "Das Stadttheater Český Krumlov ist ein kulturelles Zentrum in der historischen Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        14.318904,
+                        48.810527
+                  ]
+            },
+            {
+                  "name": "Film legends muzeum",
+                  "text": "Dieses Museum in Český Krumlov widmet sich berühmten Filmlegenden und Charakteren.",
+                  "category": "museum",
+                  "coords": [
+                        14.315848,
+                        48.810788
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum in Český Krumlov",
+                  "text": "Das Regionalmuseum in Český Krumlov präsentiert die Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.317792,
+                        48.810687
+                  ]
+            },
+            {
+                  "name": "Schloss und Burg Krumau",
+                  "text": "Das Schloss Český Krumlov ist eine weitläufige Burganlage und gehört zum UNESCO-Welterbe.",
+                  "category": "castle",
+                  "coords": [
+                        14.315428,
+                        48.812866
+                  ]
+            },
+            {
+                  "name": "Minoritenkloster Krumau",
+                  "text": "Das Minoritenkloster ist eine bedeutende sakrale Anlage in Český Krumlov.",
+                  "category": "religious",
+                  "coords": [
+                        14.318917,
+                        48.812988
+                  ]
+            },
+            {
+                  "name": "Nationales Naturreservat Hügel bei Weichseln",
+                  "text": "Vyšenské kopce ist ein nationales Naturreservat mit seltener Flora bei Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.297847,
+                        48.822991
+                  ]
+            },
+            {
+                  "name": "PP Cvičák",
+                  "text": "PP Cvičák ist ein geschütztes Naturgebiet in der Umgebung von Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.318389,
+                        48.827768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grafitový důl",
+                  "text": "A Český Krumlov-i grafitbánya bepillantást enged a látogatóknak a történelmi bányászatba.",
+                  "category": "museum",
+                  "coords": [
+                        14.304771,
+                        48.816972
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Český Krumlov",
+                  "text": "A Český Krumlov-i Városi Színház a történelmi óváros egyik kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.318904,
+                        48.810527
+                  ]
+            },
+            {
+                  "name": "Film legends muzeum",
+                  "text": "Ez a Český Krumlov-i múzeum híres filmlegendáknak és karaktereknek szentelt kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.315848,
+                        48.810788
+                  ]
+            },
+            {
+                  "name": "Regionální muzeum v Českém Krumlově",
+                  "text": "A Český Krumlov-i Regionális Múzeum a térség történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.317792,
+                        48.810687
+                  ]
+            },
+            {
+                  "name": "hrad a zámek Český Krumlov",
+                  "text": "A Český Krumlov-i vár és kastély egy hatalmas épületegyüttes, az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        14.315428,
+                        48.812866
+                  ]
+            },
+            {
+                  "name": "Egykori minorita kolostor",
+                  "text": "A minorita kolostor egy jelentős egyházi épületegyüttes Český Krumlovban.",
+                  "category": "religious",
+                  "coords": [
+                        14.318917,
+                        48.812988
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Vyšenské kopce",
+                  "text": "A Vyšenské kopce egy nemzeti természetvédelmi terület ritka növényvilággal Český Krumlov közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.297847,
+                        48.822991
+                  ]
+            },
+            {
+                  "name": "PP Cvičák",
+                  "text": "A PP Cvičák egy védett természeti terület Český Krumlov környékén.",
+                  "category": "natural",
+                  "coords": [
+                        14.318389,
+                        48.827768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grafitový důl",
+                  "text": "Mina de grafit din Český Krumlov oferă vizitatorilor o incursiune în istoria mineritului.",
+                  "category": "museum",
+                  "coords": [
+                        14.304771,
+                        48.816972
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Český Krumlov",
+                  "text": "Teatrul Municipal din Český Krumlov este un centru cultural în centrul istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        14.318904,
+                        48.810527
+                  ]
+            },
+            {
+                  "name": "Film legends muzeum",
+                  "text": "Acest muzeu din Český Krumlov este dedicat legendelor cinematografiei și personajelor celebre.",
+                  "category": "museum",
+                  "coords": [
+                        14.315848,
+                        48.810788
+                  ]
+            },
+            {
+                  "name": "Regionální muzeum v Českém Krumlově",
+                  "text": "Muzeul Regional din Český Krumlov prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        14.317792,
+                        48.810687
+                  ]
+            },
+            {
+                  "name": "hrad a zámek Český Krumlov",
+                  "text": "Castelul din Český Krumlov este un complex vast, inclus în patrimoniul mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        14.315428,
+                        48.812866
+                  ]
+            },
+            {
+                  "name": "Minoritský klášter",
+                  "text": "Mănăstirea Minorită este un important ansamblu religios din Český Krumlov.",
+                  "category": "religious",
+                  "coords": [
+                        14.318917,
+                        48.812988
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Vyšenské kopce",
+                  "text": "Vyšenské kopce este o rezervație naturală națională cu floră rară, situată lângă Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.297847,
+                        48.822991
+                  ]
+            },
+            {
+                  "name": "PP Cvičák",
+                  "text": "PP Cvičák este o arie naturală protejată din împrejurimile orașului Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.318389,
+                        48.827768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Graphite Mine",
+                  "text": "The Graphite Mine in Český Krumlov offers visitors a look into historical mining operations.",
+                  "category": "museum",
+                  "coords": [
+                        14.304771,
+                        48.816972
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Český Krumlov",
+                  "text": "The Municipal Theatre in Český Krumlov is a cultural hub in the historical old town.",
+                  "category": "cultural",
+                  "coords": [
+                        14.318904,
+                        48.810527
+                  ]
+            },
+            {
+                  "name": "Film legends muzeum",
+                  "text": "This museum in Český Krumlov is dedicated to famous film legends and characters.",
+                  "category": "museum",
+                  "coords": [
+                        14.315848,
+                        48.810788
+                  ]
+            },
+            {
+                  "name": "Regional Museum in Český Krumlov",
+                  "text": "The Regional Museum in Český Krumlov displays the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        14.317792,
+                        48.810687
+                  ]
+            },
+            {
+                  "name": "Castle and Chateau Český Krumlov",
+                  "text": "The Český Krumlov Castle is an extensive complex and a UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        14.315428,
+                        48.812866
+                  ]
+            },
+            {
+                  "name": "Minoritský klášter",
+                  "text": "The Minorite Monastery is a significant religious complex in Český Krumlov.",
+                  "category": "religious",
+                  "coords": [
+                        14.318917,
+                        48.812988
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Vyšenské kopce",
+                  "text": "Vyšenské kopce is a national nature reserve featuring rare flora near Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.297847,
+                        48.822991
+                  ]
+            },
+            {
+                  "name": "PP Cvičák",
+                  "text": "PP Cvičák is a protected natural area in the vicinity of Český Krumlov.",
+                  "category": "natural",
+                  "coords": [
+                        14.318389,
+                        48.827768
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle"},
@@ -379,7 +676,304 @@ export const czechrepublicLandmarksV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-bouzov-castle-landmarks-v2",
+    id: "czechrepublic-bouzov-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrad Bouzov",
+                  "text": "Eine malerische mährische Burg, die im romantischen Stil umgebaut wurde und oft als Filmkulisse dient.",
+                  "category": "castle",
+                  "coords": [
+                        16.889477,
+                        49.705099
+                  ]
+            },
+            {
+                  "name": "Hradiště Obersko",
+                  "text": "Eine archäologische Stätte, die Überreste einer vorzeitlichen Wallburg zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        16.893434,
+                        49.725681
+                  ]
+            },
+            {
+                  "name": "PP Rodlen",
+                  "text": "Ein Naturschutzgebiet, das wertvolle lokale Ökosysteme und Artenvielfalt bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        16.894534,
+                        49.735993
+                  ]
+            },
+            {
+                  "name": "Trojský kůň",
+                  "text": "Eine beeindruckende Holzkonstruktion eines Trojanischen Pferdes als lokale Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        16.891959,
+                        49.70566
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Gottharda",
+                  "text": "Eine historische Kirche in der Nähe von Bouzov, die dem heiligen Gotthard gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.890511,
+                        49.704272
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Máří Magdalény",
+                  "text": "Eine kleine religiöse Stätte, die der heiligen Maria Magdalena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.904957,
+                        49.696489
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Václava",
+                  "text": "Eine dem heiligen Wenzel gewidmete Kirche, ein Ort des Glaubens und der Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        16.93023,
+                        49.681186
+                  ]
+            },
+            {
+                  "name": "Kaple Nejsvětější Trojice",
+                  "text": "Eine kleine Kapelle, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.928927,
+                        49.688754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrad Bouzov",
+                  "text": "Festői morvaországi vár, amelyet romantikus stílusban építettek át és gyakran látható filmekben.",
+                  "category": "castle",
+                  "coords": [
+                        16.889477,
+                        49.705099
+                  ]
+            },
+            {
+                  "name": "Hradiště Obersko",
+                  "text": "Régészeti lelőhely, amely egy őskori földvár maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        16.893434,
+                        49.725681
+                  ]
+            },
+            {
+                  "name": "PP Rodlen",
+                  "text": "Természetvédelmi terület, amely értékes helyi ökoszisztémákat és élővilágot óv.",
+                  "category": "natural",
+                  "coords": [
+                        16.894534,
+                        49.735993
+                  ]
+            },
+            {
+                  "name": "Trojský kůň",
+                  "text": "Egy hatalmas fából készült trójai faló, amely különleges látványosság a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        16.891959,
+                        49.70566
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Gottharda",
+                  "text": "Történelmi templom Bouzov közelében, amelyet Szent Gotthárd tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        16.890511,
+                        49.704272
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Máří Magdalény",
+                  "text": "Szent Mária Magdolna tiszteletére szentelt kisebb templom vagy kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        16.904957,
+                        49.696489
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Václava",
+                  "text": "Szent Vencel tiszteletére szentelt templom, amely a hit és a történelem helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        16.93023,
+                        49.681186
+                  ]
+            },
+            {
+                  "name": "Kaple Nejsvětější Trojice",
+                  "text": "A Szentháromság tiszteletére szentelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        16.928927,
+                        49.688754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrad Bouzov",
+                  "text": "Un castel morav pitoresc, reconstruit în stil romantic, fiind o locație frecventă pentru filmări.",
+                  "category": "castle",
+                  "coords": [
+                        16.889477,
+                        49.705099
+                  ]
+            },
+            {
+                  "name": "Hradiště Obersko",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unei așezări fortificate preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        16.893434,
+                        49.725681
+                  ]
+            },
+            {
+                  "name": "PP Rodlen",
+                  "text": "O rezervație naturală ce protejează ecosistemele locale și biodiversitatea zonei.",
+                  "category": "natural",
+                  "coords": [
+                        16.894534,
+                        49.735993
+                  ]
+            },
+            {
+                  "name": "Trojský kůň",
+                  "text": "O construcție impresionantă din lemn a unui cal troian, reprezentând o atracție turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        16.891959,
+                        49.70566
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Gottharda",
+                  "text": "O biserică istorică din apropiere de Bouzov, dedicată Sfântului Gotthard.",
+                  "category": "religious",
+                  "coords": [
+                        16.890511,
+                        49.704272
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Máří Magdalény",
+                  "text": "Un lăcaș de cult de dimensiuni mici, dedicat Sfintei Maria Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        16.904957,
+                        49.696489
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Václava",
+                  "text": "O biserică dedicată Sfântului Vaclav, reprezentând un loc de credință și istorie.",
+                  "category": "religious",
+                  "coords": [
+                        16.93023,
+                        49.681186
+                  ]
+            },
+            {
+                  "name": "Kaple Nejsvětější Trojice",
+                  "text": "O mică capelă dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        16.928927,
+                        49.688754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrad Bouzov",
+                  "text": "A picturesque Moravian castle rebuilt in a romantic style, often used as a film location.",
+                  "category": "castle",
+                  "coords": [
+                        16.889477,
+                        49.705099
+                  ]
+            },
+            {
+                  "name": "Hradiště Obersko",
+                  "text": "An archaeological site featuring the remains of a prehistoric hillfort settlement.",
+                  "category": "historical",
+                  "coords": [
+                        16.893434,
+                        49.725681
+                  ]
+            },
+            {
+                  "name": "PP Rodlen",
+                  "text": "A nature reserve dedicated to preserving local ecosystems and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        16.894534,
+                        49.735993
+                  ]
+            },
+            {
+                  "name": "Trojský kůň",
+                  "text": "An impressive wooden structure of a Trojan Horse, serving as a unique local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        16.891959,
+                        49.70566
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Gottharda",
+                  "text": "A historical church near Bouzov dedicated to Saint Gotthard.",
+                  "category": "religious",
+                  "coords": [
+                        16.890511,
+                        49.704272
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Máří Magdalény",
+                  "text": "A small religious site dedicated to Saint Mary Magdalene.",
+                  "category": "religious",
+                  "coords": [
+                        16.904957,
+                        49.696489
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Václava",
+                  "text": "A church dedicated to Saint Wenceslaus, serving as a place of worship and history.",
+                  "category": "religious",
+                  "coords": [
+                        16.93023,
+                        49.681186
+                  ]
+            },
+            {
+                  "name": "Kaple Nejsvětější Trojice",
+                  "text": "A small chapel dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        16.928927,
+                        49.688754
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle"},
@@ -708,7 +1302,304 @@ export const czechrepublicLandmarksV2: POI[] = [
   }
 ,
   {
-    id: "czechrepublic-vranov-nad-dyji-chateau-landmarks-v2",
+    id: "czechrepublic-vranov-nad-dyji-chateau-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Ein monumentales Barockschloss, das auf einem Felsen über der Thaya thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Lusthaus",
+                  "text": "Ein historisches Lustschloss in der Nähe von Vranov nad Dyjí.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "Ein Museum, das den historischen Grenzbefestigungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Ein Museum, das sich auf Perlmuttdesign und Handwerkskunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "Ein historisches Steinkreuz und Denkmal in Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Eine historische Steinbrücke in der Umgebung von Vranov nad Dyjí.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Landschaft von Vranov.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Gedenkobelisk in der Nähe des Schlosses Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Monumentális barokk kastély, amely a Thaya folyó feletti sziklán trónol.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "Történelmi vadászkastély Vranov nad Dyjí közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "A történelmi határ menti erődítményeknek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "A gyöngyház-tervezésre és kézművességre összpontosító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "Történelmi kőkereszt és emlékmű Vranov nad Dyjíben.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Történelmi kőhíd Vranov nad Dyjí környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik a vranovi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Emlékoszlop a Vranov nad Dyjí-i kastély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "Un castel baroc monumental situat pe o stâncă deasupra râului Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "Un castel istoric de vânătoare situat lângă Vranov nad Dyjí.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "Un muzeu dedicat fortificațiilor istorice de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "Un muzeu axat pe designul și măiestria sidefului.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "O cruce istorică de piatră și monument în Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "Un pod istoric de piatră în zona Vranov nad Dyjí.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "Un punct de observație cu vedere largă asupra peisajului din Vranov.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un obelisc comemorativ în apropierea castelului Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zámek Vranov nad Dyjí",
+                  "text": "A monumental Baroque castle perched on a rock above the Thaya river.",
+                  "category": "castle",
+                  "coords": [
+                        15.811139,
+                        48.892592
+                  ]
+            },
+            {
+                  "name": "Letohrádek",
+                  "text": "A historic summer palace or hunting lodge near Vranov nad Dyjí.",
+                  "category": "castle",
+                  "coords": [
+                        15.856353,
+                        48.898358
+                  ]
+            },
+            {
+                  "name": "Muzeum Pohraničního opevnění",
+                  "text": "A museum dedicated to historical border fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        15.800968,
+                        48.894565
+                  ]
+            },
+            {
+                  "name": "RM Perlmuttdesign GmbH",
+                  "text": "A museum focusing on mother-of-pearl design and craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        15.799744,
+                        48.864184
+                  ]
+            },
+            {
+                  "name": "Mniszkův kříž",
+                  "text": "A historic stone cross and monument in Vranov nad Dyjí.",
+                  "category": "historical",
+                  "coords": [
+                        15.817041,
+                        48.895806
+                  ]
+            },
+            {
+                  "name": "kamenný most",
+                  "text": "A historic stone bridge in the Vranov nad Dyjí area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.793622,
+                        48.898216
+                  ]
+            },
+            {
+                  "name": "Hallamasskova vyhlídka",
+                  "text": "A viewpoint offering broad vistas of the Vranov landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.810079,
+                        48.893495
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A commemorative obelisk located near the Vranov nad Dyjí chateau.",
+                  "category": "historical",
+                  "coords": [
+                        15.84453,
+                        48.88416
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "palace",
     name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau"},
@@ -983,7 +1874,304 @@ export const czechrepublicLandmarksV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-buchlov-castle-landmarks-v2",
+    id: "czechrepublic-buchlov-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hradiště na Velkém kopci",
+                  "text": "Hradiště na Velkém kopci ist eine archäologische Stätte bei der Burg Buchlov mit alten Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        17.282961,
+                        49.103413
+                  ]
+            },
+            {
+                  "name": "PP Barborka",
+                  "text": "Barborka ist ein Naturschutzgebiet bei der Burg Buchlov, das für seine Sandsteinformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.319098,
+                        49.107899
+                  ]
+            },
+            {
+                  "name": "PP Maršava",
+                  "text": "Das Schutzgebiet Maršava bei der Burg Buchlov bewahrt die natürliche Artenvielfalt der Region.",
+                  "category": "natural",
+                  "coords": [
+                        17.271428,
+                        49.101206
+                  ]
+            },
+            {
+                  "name": "PP Makovica",
+                  "text": "Makovica ist ein Naturschutzgebiet bei der Burg Buchlov, das den lokalen Buchenwald schützt.",
+                  "category": "natural",
+                  "coords": [
+                        17.275852,
+                        49.089878
+                  ]
+            },
+            {
+                  "name": "PP Břestecká skála",
+                  "text": "Břestecká skála ist ein Naturdenkmal bei der Burg Buchlov, das markante Felswände umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        17.335088,
+                        49.110632
+                  ]
+            },
+            {
+                  "name": "PR Holý kopec",
+                  "text": "Holý kopec ist ein bedeutendes Naturschutzgebiet im Chřiby-Gebirge in der Nähe der Burg Buchlov.",
+                  "category": "natural",
+                  "coords": [
+                        17.285167,
+                        49.103425
+                  ]
+            },
+            {
+                  "name": "Muzeum lesnictví a myslivosti Chřibů",
+                  "text": "Dieses Museum bei der Burg Buchlov widmet sich der Geschichte der Forstwirtschaft und Jagd in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.301797,
+                        49.11436
+                  ]
+            },
+            {
+                  "name": "Muzeum Podhradí",
+                  "text": "Das Muzeum Podhradí zeigt die lokale Geschichte und Kultur der Gemeinde unterhalb der Burg Buchlov.",
+                  "category": "museum",
+                  "coords": [
+                        17.336436,
+                        49.084925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hradiště na Velkém kopci",
+                  "text": "Hradiště na Velkém kopci egy régészeti lelőhely Buchlov vára közelében, ahol egykori erődítmény maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        17.282961,
+                        49.103413
+                  ]
+            },
+            {
+                  "name": "PP Barborka",
+                  "text": "A Barborka egy természetvédelmi terület Buchlov vára közelében, amely homokkő szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.319098,
+                        49.107899
+                  ]
+            },
+            {
+                  "name": "PP Maršava",
+                  "text": "A Maršava védett terület Buchlov vára közelében a régió természetes élővilágát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        17.271428,
+                        49.101206
+                  ]
+            },
+            {
+                  "name": "PP Makovica",
+                  "text": "A Makovica egy természetvédelmi terület Buchlov vára közelében, amely a helyi bükkösöket védi.",
+                  "category": "natural",
+                  "coords": [
+                        17.275852,
+                        49.089878
+                  ]
+            },
+            {
+                  "name": "PP Břestecká skála",
+                  "text": "A Břestecká skála egy természeti műemlék Buchlov vára közelében, amely jellegzetes sziklafalakból áll.",
+                  "category": "natural",
+                  "coords": [
+                        17.335088,
+                        49.110632
+                  ]
+            },
+            {
+                  "name": "PR Holý kopec",
+                  "text": "A Holý kopec egy jelentős természetvédelmi terület a Chřiby-hegységben, Buchlov vára közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.285167,
+                        49.103425
+                  ]
+            },
+            {
+                  "name": "Muzeum lesnictví a myslivosti Chřibů",
+                  "text": "Ez a múzeum Buchlov vára közelében a régió erdészeti és vadászati múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.301797,
+                        49.11436
+                  ]
+            },
+            {
+                  "name": "Muzeum Podhradí",
+                  "text": "A Muzeum Podhradí a Buchlov vára alatti település helytörténetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.336436,
+                        49.084925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hradiště na Velkém kopci",
+                  "text": "Hradiště na Velkém kopci este un sit arheologic lângă Castelul Buchlov, cuprinzând vestigii ale unor fortificații vechi.",
+                  "category": "historical",
+                  "coords": [
+                        17.282961,
+                        49.103413
+                  ]
+            },
+            {
+                  "name": "PP Barborka",
+                  "text": "Barborka este o rezervație naturală lângă Castelul Buchlov, cunoscută pentru formațiunile sale de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        17.319098,
+                        49.107899
+                  ]
+            },
+            {
+                  "name": "PP Maršava",
+                  "text": "Aria protejată Maršava de lângă Castelul Buchlov conservă biodiversitatea naturală a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        17.271428,
+                        49.101206
+                  ]
+            },
+            {
+                  "name": "PP Makovica",
+                  "text": "Makovica este o rezervație naturală lângă Castelul Buchlov, care protejează pădurea de fag locală.",
+                  "category": "natural",
+                  "coords": [
+                        17.275852,
+                        49.089878
+                  ]
+            },
+            {
+                  "name": "PP Břestecká skála",
+                  "text": "Břestecká skála este un monument natural lângă Castelul Buchlov, cuprinzând pereți stâncoși proeminenți.",
+                  "category": "natural",
+                  "coords": [
+                        17.335088,
+                        49.110632
+                  ]
+            },
+            {
+                  "name": "PR Holý kopec",
+                  "text": "Holý kopec este o rezervație naturală importantă în munții Chřiby, situată lângă Castelul Buchlov.",
+                  "category": "natural",
+                  "coords": [
+                        17.285167,
+                        49.103425
+                  ]
+            },
+            {
+                  "name": "Muzeum lesnictví a myslivosti Chřibů",
+                  "text": "Acest muzeu de lângă Castelul Buchlov este dedicat istoriei silviculturii și vânătorii din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        17.301797,
+                        49.11436
+                  ]
+            },
+            {
+                  "name": "Muzeum Podhradí",
+                  "text": "Muzeum Podhradí prezintă istoria și cultura locală a așezării de la poalele Castelului Buchlov.",
+                  "category": "museum",
+                  "coords": [
+                        17.336436,
+                        49.084925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hradiště na Velkém kopci",
+                  "text": "Hradiště na Velkém kopci is an archaeological site near Buchlov Castle containing ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        17.282961,
+                        49.103413
+                  ]
+            },
+            {
+                  "name": "PP Barborka",
+                  "text": "Barborka is a nature reserve near Buchlov Castle, known for its sandstone formations.",
+                  "category": "natural",
+                  "coords": [
+                        17.319098,
+                        49.107899
+                  ]
+            },
+            {
+                  "name": "PP Maršava",
+                  "text": "The Maršava protected area near Buchlov Castle preserves the natural biodiversity of the region.",
+                  "category": "natural",
+                  "coords": [
+                        17.271428,
+                        49.101206
+                  ]
+            },
+            {
+                  "name": "PP Makovica",
+                  "text": "Makovica is a nature reserve near Buchlov Castle, protecting the local beech forest.",
+                  "category": "natural",
+                  "coords": [
+                        17.275852,
+                        49.089878
+                  ]
+            },
+            {
+                  "name": "PP Břestecká skála",
+                  "text": "Břestecká skála is a natural monument near Buchlov Castle, featuring prominent rock walls.",
+                  "category": "natural",
+                  "coords": [
+                        17.335088,
+                        49.110632
+                  ]
+            },
+            {
+                  "name": "PR Holý kopec",
+                  "text": "Holý kopec is a significant nature reserve in the Chřiby mountains near Buchlov Castle.",
+                  "category": "natural",
+                  "coords": [
+                        17.285167,
+                        49.103425
+                  ]
+            },
+            {
+                  "name": "Muzeum lesnictví a myslivosti Chřibů",
+                  "text": "This museum near Buchlov Castle is dedicated to the history of forestry and hunting in the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.301797,
+                        49.11436
+                  ]
+            },
+            {
+                  "name": "Muzeum Podhradí",
+                  "text": "Muzeum Podhradí showcases the local history and culture of the village below Buchlov Castle.",
+                  "category": "museum",
+                  "coords": [
+                        17.336436,
+                        49.084925
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "castle",
     name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle"},

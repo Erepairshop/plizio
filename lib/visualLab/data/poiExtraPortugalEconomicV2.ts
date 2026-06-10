@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const portugalEconomicV2: POI[] = [
 
   {
-    id: "portugal-alverca-aerospace-economic-v2",
+    id: "portugal-alverca-aerospace-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "Eine archäologische Stätte bei Alverca, Teil der Verteidigungslinien von Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Grande",
+                  "text": "Überreste einer historischen Befestigungsanlage in der Nähe von Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.071919,
+                        38.899846
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Pequeno",
+                  "text": "Ein kleinerer Festungsstandort in der Nähe des Luftfahrtclusters Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070593,
+                        38.898785
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Ein Luftfahrtmuseum in Alverca, das die Geschichte der portugiesischen Luftwaffe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Serra da Aguieira",
+                  "text": "Eine historische Verteidigungsanlage auf dem Hügel Serra da Aguieira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.07154,
+                        38.901194
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "Eine archäologische Fundstätte eines ehemaligen Forts in der Region Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Überreste einer größeren Befestigungsanlage aus den Napoleonischen Kriegen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "Eine historische Befestigung, die Teil des Schutzes von Lissabon war.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "Régészeti lelőhely Alverca közelében, a Torres Vedras-vonalak része.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Grande",
+                  "text": "Egy történelmi erődítmény maradványai Alverca közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.071919,
+                        38.899846
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Pequeno",
+                  "text": "Kisebb erődítmény Alverca repülési csomópontjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070593,
+                        38.898785
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Repülési múzeum Alvercában, amely a portugál légierő történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Serra da Aguieira",
+                  "text": "Történelmi védmű a Serra da Aguieira dombon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.07154,
+                        38.901194
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "Egy egykori erőd régészeti lelőhelye Alverca régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Egy nagyobb, napóleoni háborúk idejéből származó erődítmény maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "Történelmi erődítmény, amely Lisszabon védelmének része volt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "Un sit arheologic lângă Alverca, parte din liniile de apărare Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Grande",
+                  "text": "Rămășițele unei fortificații istorice în apropiere de Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.071919,
+                        38.899846
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Pequeno",
+                  "text": "Un sit fortificat mai mic situat lângă clusterul aerospațial Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070593,
+                        38.898785
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Un muzeu al aviației din Alverca, prezentând istoria forțelor aeriene portugheze.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Serra da Aguieira",
+                  "text": "O structură defensivă istorică pe dealul Serra da Aguieira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.07154,
+                        38.901194
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "Un sit arheologic al unui fost fort în regiunea Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Rămășițele unei fortificații mai mari din timpul războaielor napoleoniene.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "O fortificație istorică ce a făcut parte din sistemul de apărare al Lisabonei.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "An archaeological site near Alverca, part of the Lines of Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Grande",
+                  "text": "Remains of a historic fortification located near Alverca.",
+                  "category": "historical",
+                  "coords": [
+                        -9.071919,
+                        38.899846
+                  ]
+            },
+            {
+                  "name": "Forte da Portela Pequeno",
+                  "text": "A smaller fortified site located near the Alverca aerospace cluster.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070593,
+                        38.898785
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "An aviation museum in Alverca showcasing the history of the Portuguese Air Force.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Serra da Aguieira",
+                  "text": "A historic defensive structure located on the Serra da Aguieira hill.",
+                  "category": "historical",
+                  "coords": [
+                        -9.07154,
+                        38.901194
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "An archaeological site of a former fort in the Alverca region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Remains of a larger fortification dating back to the Napoleonic Wars.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "A historic fortification that was part of the defense of Lisbon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Luftfahrtcluster Alverca", hu: "Alverca Repülési Klaszter", ro: "Clusterul Aerospațial Alverca", en: "Alverca Aerospace Cluster" },
@@ -93,7 +390,232 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-lousa-paper-mill-economic-v2.webp",
   },
   {
-    id: "portugal-marinha-grande-glass-economic-v2",
+    id: "portugal-marinha-grande-glass-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Ein Museum in Marinha Grande, das der Geschichte und Kunst der Glasherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Ein Museum in Marinha Grande, das Werke des portugiesischen Bildhauers Joaquim Correia ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "Eine beliebte Panorama-Schaukelattraktion mit Blick über das Gebiet von Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "Eine malerische Freizeitattraktion in der Region Marinha Grande mit einer Panorama-Schaukel.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Eine hundertjährige Kiefer im Nationalwald von Leiria, die als Naturdenkmal eingestuft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "Ein historisches Küstenausguckgebäude bei Boavista im Gebiet von Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Múzeum Marinha Grandéban, amely az üvegkészítés történetének és művészetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Múzeum Marinha Grandéban, amely Joaquim Correia portugál szobrász műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "Népszerű panorámás hinta, amely kilátást nyújt Marinha Grande környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "Festői szabadidős attrakció Marinha Grande régiójában, egy panorámás hintával.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Százéves fenyőfa a Leiria Nemzeti Erdőben, amelyet természeti emlékké nyilvánítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "Történelmi parti figyelőépület Boavista közelében, Marinha Grande területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Un muzeu din Marinha Grande dedicat istoriei și artei fabricării sticlei.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Un muzeu din Marinha Grande care expune lucrări ale sculptorului portughez Joaquim Correia.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "O atracție populară cu leagăn panoramic care oferă vedere asupra zonei Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "O atracție pitorească de agrement din regiunea Marinha Grande, cu un leagăn panoramic.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Un pin centenar din Pădurea Națională Leiria, clasificat ca monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "O clădire istorică de observație de coastă lângă Boavista, în zona Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "A museum in Marinha Grande dedicated to the history and art of glass making.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "A museum in Marinha Grande exhibiting works by the Portuguese sculptor Joaquim Correia.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "A popular panoramic swing attraction offering views over the Marinha Grande area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "A scenic leisure attraction in the Marinha Grande region featuring a panoramic swing.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "A centennial pine tree in the National Forest of Leiria, classified as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "A historic coastal lookout building near Boavista in the Marinha Grande area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Glasindustrie Marinha Grande", hu: "Marinha Grande Üvegipar", ro: "Industria Sticlei Marinha Grande", en: "Marinha Grande Glass Industry" },
@@ -138,7 +660,88 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-marinha-grande-glass-economic-v2.webp",
   },
   {
-    id: "portugal-vendas-novas-food-economic-v2",
+    id: "portugal-vendas-novas-food-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Escola Prática de Artilharia",
+                  "text": "Ein Militärmuseum in Vendas Novas, das sich der Geschichte der Artillerie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.457516,
+                        38.678921
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vendas Novas",
+                  "text": "Das Rathaus von Vendas Novas, Sitz der lokalen Stadtverwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.455147,
+                        38.677904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Escola Prática de Artilharia",
+                  "text": "Katonai múzeum Vendas Novasban, amely a tüzérség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.457516,
+                        38.678921
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vendas Novas",
+                  "text": "Vendas Novas városházája, a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.455147,
+                        38.677904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Escola Prática de Artilharia",
+                  "text": "Un muzeu militar în Vendas Novas, dedicat istoriei artileriei.",
+                  "category": "museum",
+                  "coords": [
+                        -8.457516,
+                        38.678921
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vendas Novas",
+                  "text": "Primăria din Vendas Novas, sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.455147,
+                        38.677904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Escola Prática de Artilharia",
+                  "text": "A military museum in Vendas Novas dedicated to the history of artillery.",
+                  "category": "museum",
+                  "coords": [
+                        -8.457516,
+                        38.678921
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vendas Novas",
+                  "text": "The town hall of Vendas Novas, home to the local municipal administration.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.455147,
+                        38.677904
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Lebensmittelindustrie Vendas Novas", hu: "Vendas Novas Élelmiszeripar", ro: "Industria Alimentară Vendas Novas", en: "Vendas Novas Food Industry" },
@@ -408,7 +1011,196 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-valenca-trade-economic-v2.webp",
   },
   {
-    id: "portugal-viana-do-alentejo-agriculture-economic-v2",
+    id: "portugal-viana-do-alentejo-agriculture-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Viana do Alentejo",
+                  "text": "Eine mittelalterliche Burg in Viana do Alentejo, die für ihre seltene fünfeckige Anlage bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -8.001677,
+                        38.332168
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Vianense",
+                  "text": "Ein lokaler Kulturort und Theater, das der Gemeinde Viana do Alentejo dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.003653,
+                        38.335085
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "Ein traditionelles Kirchengebäude in Viana do Alentejo, das die lokale religiöse Architektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.005999,
+                        38.336468
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Viana do Alentejo",
+                  "text": "Der Verwaltungssitz der örtlichen Gemeinde in Viana do Alentejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.000784,
+                        38.334306
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Aires",
+                  "text": "Ein Heiligtum und Wallfahrtsort in Viana do Alentejo, bekannt für seine Barockarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        -7.985303,
+                        38.340803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Viana do Alentejo",
+                  "text": "Középkori vár Viana do Alentejóban, amely ritka ötszögletű alaprajzáról nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        -8.001677,
+                        38.332168
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Vianense",
+                  "text": "Helyi kulturális helyszín és színház Viana do Alentejo közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.003653,
+                        38.335085
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "Hagyományos templomépület Viana do Alentejóban, amely a helyi vallási építészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.005999,
+                        38.336468
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Viana do Alentejo",
+                  "text": "Viana do Alentejo helyi önkormányzatának adminisztratív székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.000784,
+                        38.334306
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Aires",
+                  "text": "Szentély és zarándokhely Viana do Alentejóban, amely barokk építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.985303,
+                        38.340803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Viana do Alentejo",
+                  "text": "Un castel medieval din Viana do Alentejo, remarcabil pentru incinta sa pentagonală rară.",
+                  "category": "castle",
+                  "coords": [
+                        -8.001677,
+                        38.332168
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Vianense",
+                  "text": "Un loc cultural și teatru local care deservește comunitatea din Viana do Alentejo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.003653,
+                        38.335085
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "O clădire tradițională de biserică din Viana do Alentejo care prezintă arhitectura religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.005999,
+                        38.336468
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Viana do Alentejo",
+                  "text": "Sediul administrativ al municipalității locale din Viana do Alentejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.000784,
+                        38.334306
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Aires",
+                  "text": "Un sanctuar și loc de pelerinaj din Viana do Alentejo, cunoscut pentru arhitectura sa barocă.",
+                  "category": "religious",
+                  "coords": [
+                        -7.985303,
+                        38.340803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Viana do Alentejo",
+                  "text": "A medieval castle in Viana do Alentejo, notable for its rare pentagonal enclosure.",
+                  "category": "castle",
+                  "coords": [
+                        -8.001677,
+                        38.332168
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro Vianense",
+                  "text": "A local cultural venue and theater serving the community of Viana do Alentejo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.003653,
+                        38.335085
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "A traditional church building in Viana do Alentejo showcasing local religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.005999,
+                        38.336468
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Viana do Alentejo",
+                  "text": "The administrative headquarters of the local municipality in Viana do Alentejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.000784,
+                        38.334306
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Aires",
+                  "text": "A sanctuary and pilgrimage site in Viana do Alentejo known for its Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -7.985303,
+                        38.340803
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Agrarzentrum Viana do Alentejo", hu: "Viana do Alentejo Agrárközpont", ro: "Centru Agricol Viana do Alentejo", en: "Viana do Alentejo Agriculture Center" },
@@ -453,7 +1245,268 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-viana-do-alentejo-agriculture-economic-v2.webp",
   },
   {
-    id: "portugal-esposende-fishery-economic-v2",
+    id: "portugal-esposende-fishery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Ein markanter roter Leuchtturm an der Mündung des Flusses Cávado.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "Ein Schutzgebiet, das Küstendünen und die lokale Meeresfauna bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Praia de Cepães",
+                  "text": "Ein Sandstrand an der Atlantikküste bei Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.793217,
+                        41.554052
+                  ]
+            },
+            {
+                  "name": "Castro de São Lourenço",
+                  "text": "Eine befestigte Siedlung aus der Eisenzeit auf einem Hügel über dem Meer.",
+                  "category": "historical",
+                  "coords": [
+                        -8.762164,
+                        41.556362
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "Ein Museum, das die Geschichte und das maritime Erbe von Esposende zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "Ein ökologisch bedeutendes Flussdelta und Teil des Naturparks Litoral Norte.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "Ein beliebter Badestrand im nördlichen Teil von Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Jellegzetes vörös világítótorony a Cávado folyó torkolatánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "Természetvédelmi terület, amely a parti dűnéket és a tengeri élővilágot őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Praia de Cepães",
+                  "text": "Homokos tengerpart az atlanti-parton, Esposende közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.793217,
+                        41.554052
+                  ]
+            },
+            {
+                  "name": "Castro de São Lourenço",
+                  "text": "Vaskori erődített település egy tenger feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        -8.762164,
+                        41.556362
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "Esposende történelmét és tengeri örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "Ökológiailag jelentős folyótorkolat, a Litoral Norte natúrpark része.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "Népszerű strand Esposende északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Un far roșu distinctiv situat la gura de vărsare a râului Cávado.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "O zonă protejată care conservă dunele de coastă și fauna marină locală.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Praia de Cepães",
+                  "text": "O plajă cu nisip pe coasta Atlanticului, lângă Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.793217,
+                        41.554052
+                  ]
+            },
+            {
+                  "name": "Castro de São Lourenço",
+                  "text": "O așezare fortificată din epoca fierului pe un deal deasupra mării.",
+                  "category": "historical",
+                  "coords": [
+                        -8.762164,
+                        41.556362
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "Un muzeu care prezintă istoria și moștenirea maritimă a orașului Esposende.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "Un estuar de importanță ecologică, parte a Parcului Natural Litoral Norte.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "O plajă populară situată în partea de nord a orașului Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "A distinctive red lighthouse located at the mouth of the Cávado River.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Litoral Norte Nature Reserve",
+                  "text": "A protected area preserving coastal dunes and local marine wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Praia de Cepães",
+                  "text": "A sandy beach on the Atlantic coast near Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.793217,
+                        41.554052
+                  ]
+            },
+            {
+                  "name": "Castro de São Lourenço",
+                  "text": "An Iron Age fortified settlement situated on a hill overlooking the sea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.762164,
+                        41.556362
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "A museum showcasing the history and maritime heritage of Esposende.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "An ecologically significant estuary and part of the Litoral Norte Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "A popular swimming beach located in the northern part of Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PT",
     name: { de: "Fischereihafen Esposende", hu: "Esposende Halászat", ro: "Port Pescăresc Esposende", en: "Esposende Fisheries" },
@@ -543,7 +1596,124 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-beja-aero-economic-v2.webp",
   },
   {
-    id: "portugal-santar-wine-economic-v2",
+    id: "portugal-santar-wine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das städtische Theater in der Region Santar, ein Ort für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.853043,
+                        40.534604
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vilar Seco",
+                  "text": "Eine historische Schandsäule im Dorf Vilar Seco, ein Symbol lokaler Gerichtsbarkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.865267,
+                        40.560267
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Nelas",
+                  "text": "Das Rathaus von Nelas, Sitz der lokalen Stadtverwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.85196,
+                        40.533982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Santar régió városi színháza, kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.853043,
+                        40.534604
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vilar Seco",
+                  "text": "Történelmi szégyenoszlop Vilar Seco faluban, a helyi igazságszolgáltatás jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.865267,
+                        40.560267
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Nelas",
+                  "text": "Nelas városháza, a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.85196,
+                        40.533982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatrul municipal din regiunea Santar, un loc pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.853043,
+                        40.534604
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vilar Seco",
+                  "text": "Un stâlp al infamiei istoric în satul Vilar Seco, simbol al jurisdicției locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.865267,
+                        40.560267
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Nelas",
+                  "text": "Primăria din Nelas, sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.85196,
+                        40.533982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "The municipal theatre in the Santar region, a venue for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.853043,
+                        40.534604
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vilar Seco",
+                  "text": "A historical pillory in the village of Vilar Seco, a symbol of local jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.865267,
+                        40.560267
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Nelas",
+                  "text": "The town hall of Nelas, seat of the local municipal government.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.85196,
+                        40.533982
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Weinbauzentrum Santar", hu: "Santar Borászati Központ", ro: "Centru Viticol Santar", en: "Santar Wine Center" },
@@ -678,7 +1848,160 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-gouveia-mining-economic-v2.webp",
   },
   {
-    id: "portugal-vagos-renewables-economic-v2",
+    id: "portugal-vagos-renewables-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "Ein historisches Herrenhaus in Vagos, das für seine Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "Eine lokale Sehenswürdigkeit in Vagos, die Besuchern einen Ort zur Entspannung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Ein traditionelles Herrenhaus in der Region Vagos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Das Rathaus von Vagos, das als administratives Zentrum der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "Történelmi kastély Vagosban, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "Helyi látványosság Vagosban, amely kikapcsolódási lehetőséget kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Hagyományos nemesi udvarház Vagos régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Vagos városházája, amely a község adminisztratív központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "Un conac istoric din Vagos, cunoscut pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "O atracție locală din Vagos care oferă vizitatorilor un loc de relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Un conac tradițional situat în regiunea Vagos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Primăria din Vagos, care servește drept centru administrativ al municipalității.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "A historic manor house in Vagos known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "A local attraction in Vagos providing a spot for relaxation for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "A traditional manor house located in the Vagos region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "The town hall of Vagos, serving as the administrative center of the municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Erneuerbare Energien Vagos", hu: "Vagos Megújuló Energia", ro: "Energie Regenerabilă Vagos", en: "Vagos Renewable Energy" },
@@ -768,7 +2091,268 @@ export const portugalEconomicV2: POI[] = [
     image: "/poi-images/portugal-paredes-furniture-economic-v2.webp",
   },
   {
-    id: "portugal-agueda-cycling-industry-economic-v2",
+    id: "portugal-agueda-cycling-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa da Carapeteira",
+                  "text": "Ein historisches Gebäude oder Burgstandort in der Region Águeda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.441029,
+                        40.573936
+                  ]
+            },
+            {
+                  "name": "Casa da Borralha",
+                  "text": "Ein traditionelles Herrenhaus oder schlossähnliches Gebäude in Águeda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.439439,
+                        40.56023
+                  ]
+            },
+            {
+                  "name": "D'Orfeu Associação Cultural",
+                  "text": "Ein lokales Kulturzentrum und Veranstaltungsort für Theater in Águeda.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.446163,
+                        40.573989
+                  ]
+            },
+            {
+                  "name": "Teatro de Bolso",
+                  "text": "Ein kleines, intimes Theater im Bezirk Águeda.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.447219,
+                        40.573037
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial",
+                  "text": "Ein natürlicher Flussstrand und Badebereich in der Region Águeda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446557,
+                        40.57079
+                  ]
+            },
+            {
+                  "name": "Fundação Dionísio e Alice Pinheiro",
+                  "text": "Ein Museum und eine Kulturstiftung, die Kunst und lokale Geschichte in Águeda präsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -8.440724,
+                        40.576458
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico da Região do Vouga",
+                  "text": "Ein ethnographisches Museum, das den Traditionen der Region Vouga gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462433,
+                        40.609444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa da Carapeteira",
+                  "text": "Történelmi épület vagy várhelyszín Águeda környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -8.441029,
+                        40.573936
+                  ]
+            },
+            {
+                  "name": "Casa da Borralha",
+                  "text": "Hagyományos udvarház vagy kastélyszerű épület Águedában.",
+                  "category": "castle",
+                  "coords": [
+                        -8.439439,
+                        40.56023
+                  ]
+            },
+            {
+                  "name": "D'Orfeu Associação Cultural",
+                  "text": "Helyi kulturális központ és színházi helyszín Águedában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.446163,
+                        40.573989
+                  ]
+            },
+            {
+                  "name": "Teatro de Bolso",
+                  "text": "Kisméretű, meghitt hangulatú színház Águeda körzetében.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.447219,
+                        40.573037
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial",
+                  "text": "Természetes folyóparti strand és fürdőhely Águeda környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446557,
+                        40.57079
+                  ]
+            },
+            {
+                  "name": "Fundação Dionísio e Alice Pinheiro",
+                  "text": "Águeda művészetét és helytörténetét bemutató múzeum és kulturális alapítvány.",
+                  "category": "museum",
+                  "coords": [
+                        -8.440724,
+                        40.576458
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico da Região do Vouga",
+                  "text": "A Vouga-vidék hagyományait bemutató néprajzi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462433,
+                        40.609444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa da Carapeteira",
+                  "text": "O clădire istorică sau sit de castel în regiunea Águeda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.441029,
+                        40.573936
+                  ]
+            },
+            {
+                  "name": "Casa da Borralha",
+                  "text": "Un conac tradițional sau o clădire asemănătoare unui castel în Águeda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.439439,
+                        40.56023
+                  ]
+            },
+            {
+                  "name": "D'Orfeu Associação Cultural",
+                  "text": "Un centru cultural local și spațiu pentru spectacole de teatru în Águeda.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.446163,
+                        40.573989
+                  ]
+            },
+            {
+                  "name": "Teatro de Bolso",
+                  "text": "Un teatru mic și intim situat în districtul Águeda.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.447219,
+                        40.573037
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial",
+                  "text": "O plajă fluvială naturală și zonă de scăldat în regiunea Águeda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446557,
+                        40.57079
+                  ]
+            },
+            {
+                  "name": "Fundação Dionísio e Alice Pinheiro",
+                  "text": "Un muzeu și fundație culturală care prezintă arta și istoria locală în Águeda.",
+                  "category": "museum",
+                  "coords": [
+                        -8.440724,
+                        40.576458
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico da Região do Vouga",
+                  "text": "Muzeu etnografic dedicat tradițiilor din regiunea Vouga.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462433,
+                        40.609444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa da Carapeteira",
+                  "text": "A historic building or castle site in the Águeda region.",
+                  "category": "castle",
+                  "coords": [
+                        -8.441029,
+                        40.573936
+                  ]
+            },
+            {
+                  "name": "Casa da Borralha",
+                  "text": "A traditional manor or castle-like building in Águeda.",
+                  "category": "castle",
+                  "coords": [
+                        -8.439439,
+                        40.56023
+                  ]
+            },
+            {
+                  "name": "D'Orfeu Associação Cultural",
+                  "text": "A local cultural center and theatre venue in Águeda.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.446163,
+                        40.573989
+                  ]
+            },
+            {
+                  "name": "Teatro de Bolso",
+                  "text": "A small, intimate theatre located in the Águeda district.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.447219,
+                        40.573037
+                  ]
+            },
+            {
+                  "name": "Piscina Fluvial",
+                  "text": "A natural river beach and swimming area in the Águeda region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.446557,
+                        40.57079
+                  ]
+            },
+            {
+                  "name": "Fundação Dionísio e Alice Pinheiro",
+                  "text": "A museum and cultural foundation showcasing art and local history in Águeda.",
+                  "category": "museum",
+                  "coords": [
+                        -8.440724,
+                        40.576458
+                  ]
+            },
+            {
+                  "name": "Museu Etnográfico da Região do Vouga",
+                  "text": "An ethnographic museum dedicated to the traditions of the Vouga region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462433,
+                        40.609444
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PT",
     name: { de: "Fahrradindustrie Águeda", hu: "Águeda Kerékpáripar", ro: "Industria de Biciclete Águeda", en: "Águeda Bicycle Industry" },

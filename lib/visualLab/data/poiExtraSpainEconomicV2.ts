@@ -49,7 +49,304 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
     },
     image: "/poi-images/spain-port-algeciras-economic-v2.webp",
 },  {
-    id: "spain-port-valencia-economic-v2",
+    id: "spain-port-valencia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de l'Arròs de València",
+                  "text": "Ein Museum in einer alten mühle, das der Geschichte des Reisanbaus in Valencia gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.331922,
+                        39.463284
+                  ]
+            },
+            {
+                  "name": "Teatre El Musical",
+                  "text": "Ein Kulturzentrum und Theater im Stadtviertel El Cabanyal in Valencia.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.332119,
+                        39.464648
+                  ]
+            },
+            {
+                  "name": "Museu Faller",
+                  "text": "Ein Museum, das die begnadigten Figuren (ninots) des berühmten Las Fallas-Festivals ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.359148,
+                        39.458842
+                  ]
+            },
+            {
+                  "name": "Casa-Museo Blasco Ibañez",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Vicente Blasco Ibáñez, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.325976,
+                        39.482676
+                  ]
+            },
+            {
+                  "name": "Platja de Pinedo",
+                  "text": "Ein weitläufiger Sandstrand südlich des Hafens von Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.333353,
+                        39.420817
+                  ]
+            },
+            {
+                  "name": "Museu de les Ciències «Príncep Felip»",
+                  "text": "Ein interaktives Wissenschaftsmuseum in der Stadt der Künste und Wissenschaften.",
+                  "category": "museum",
+                  "coords": [
+                        -0.351663,
+                        39.455781
+                  ]
+            },
+            {
+                  "name": "Palauet d'Aiora",
+                  "text": "Ein kleiner neoklassizistischer Palast mit angrenzendem Garten in Valencia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.344005,
+                        39.46837
+                  ]
+            },
+            {
+                  "name": "Königin Sofia Palast der Künste",
+                  "text": "Ein majestätisches Opernhaus und Kulturzentrum, entworfen von Santiago Calatrava.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.355916,
+                        39.458044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de l'Arròs de València",
+                  "text": "Egy régi malomban kialakított múzeum, amely a valenciai rizstermesztés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.331922,
+                        39.463284
+                  ]
+            },
+            {
+                  "name": "Teatre El Musical",
+                  "text": "Kulturális központ és színház Valencia El Cabanyal negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.332119,
+                        39.464648
+                  ]
+            },
+            {
+                  "name": "Museu Faller",
+                  "text": "Múzeum, amely a híres Las Fallas fesztivál megkímélt figuráit (ninots) mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.359148,
+                        39.458842
+                  ]
+            },
+            {
+                  "name": "Casa-Museo Blasco Ibañez",
+                  "text": "Vicente Blasco Ibáñez író egykori lakóháza, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -0.325976,
+                        39.482676
+                  ]
+            },
+            {
+                  "name": "Platja de Pinedo",
+                  "text": "Tágas homokos tengerpart Valencia kikötőjétől délre.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.333353,
+                        39.420817
+                  ]
+            },
+            {
+                  "name": "Museu de les Ciències «Príncep Felip»",
+                  "text": "Interaktív természettudományi múzeum a Művészetek és Tudományok Városában.",
+                  "category": "museum",
+                  "coords": [
+                        -0.351663,
+                        39.455781
+                  ]
+            },
+            {
+                  "name": "Palauet d'Aiora",
+                  "text": "Kisméretű neoklasszicista palota a hozzá tartozó kerttel Valenciában.",
+                  "category": "castle",
+                  "coords": [
+                        -0.344005,
+                        39.46837
+                  ]
+            },
+            {
+                  "name": "Palau de les Arts Reina Sofia",
+                  "text": "Santiago Calatrava által tervezett fenséges operaház és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.355916,
+                        39.458044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de l'Arròs de València",
+                  "text": "Un muzeu situat într-o veche moară, dedicat istoriei cultivării orezului în Valencia.",
+                  "category": "museum",
+                  "coords": [
+                        -0.331922,
+                        39.463284
+                  ]
+            },
+            {
+                  "name": "Teatre El Musical",
+                  "text": "Un centru cultural și teatru situat în cartierul El Cabanyal din Valencia.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.332119,
+                        39.464648
+                  ]
+            },
+            {
+                  "name": "Museu Faller",
+                  "text": "Un muzeu care expune figurinele salvate (ninots) de la celebrul festival Las Fallas.",
+                  "category": "museum",
+                  "coords": [
+                        -0.359148,
+                        39.458842
+                  ]
+            },
+            {
+                  "name": "Casa-Museo Blasco Ibañez",
+                  "text": "Fosta casă a scriitorului Vicente Blasco Ibáñez, transformată astăzi în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -0.325976,
+                        39.482676
+                  ]
+            },
+            {
+                  "name": "Platja de Pinedo",
+                  "text": "O plajă de nisip întinsă situată la sud de portul din Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.333353,
+                        39.420817
+                  ]
+            },
+            {
+                  "name": "Museu de les Ciències «Príncep Felip»",
+                  "text": "Un muzeu interactiv de știință situat în Orașul Artelor și Științelor.",
+                  "category": "museum",
+                  "coords": [
+                        -0.351663,
+                        39.455781
+                  ]
+            },
+            {
+                  "name": "Palauet d'Aiora",
+                  "text": "Un mic palat neoclasic cu o grădină adiacentă în Valencia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.344005,
+                        39.46837
+                  ]
+            },
+            {
+                  "name": "Palau de les Arts Reina Sofia",
+                  "text": "O operă și un centru cultural maiestuos, proiectat de Santiago Calatrava.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.355916,
+                        39.458044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu de l'Arròs de València",
+                  "text": "A museum housed in an old mill dedicated to the history of rice cultivation in Valencia.",
+                  "category": "museum",
+                  "coords": [
+                        -0.331922,
+                        39.463284
+                  ]
+            },
+            {
+                  "name": "Teatre El Musical",
+                  "text": "A cultural center and theatre located in the El Cabanyal neighborhood of Valencia.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.332119,
+                        39.464648
+                  ]
+            },
+            {
+                  "name": "Museu Faller",
+                  "text": "A museum exhibiting the pardoned figures (ninots) from the famous Las Fallas festival.",
+                  "category": "museum",
+                  "coords": [
+                        -0.359148,
+                        39.458842
+                  ]
+            },
+            {
+                  "name": "Casa-Museo Blasco Ibañez",
+                  "text": "The former home of writer Vicente Blasco Ibáñez, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.325976,
+                        39.482676
+                  ]
+            },
+            {
+                  "name": "Platja de Pinedo",
+                  "text": "A spacious sandy beach located south of the Port of Valencia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.333353,
+                        39.420817
+                  ]
+            },
+            {
+                  "name": "Príncipe Felipe Science Museum",
+                  "text": "An interactive science museum located in the City of Arts and Sciences.",
+                  "category": "museum",
+                  "coords": [
+                        -0.351663,
+                        39.455781
+                  ]
+            },
+            {
+                  "name": "Palauet d'Aiora",
+                  "text": "A small neoclassical palace with an adjacent garden in Valencia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.344005,
+                        39.46837
+                  ]
+            },
+            {
+                  "name": "Reina Sofia Palace of the Arts",
+                  "text": "A majestic opera house and cultural center designed by Santiago Calatrava.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.355916,
+                        39.458044
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "port",
     name: { de: "Hafen von Valencia", hu: "Valenciai kikötő", ro: "Portul Valencia", en: "Port of Valencia"},
@@ -505,7 +802,196 @@ imageHint: "Stellantis Vigo automobile factory exterior",
     },
     image: "/poi-images/spain-stellantis-vigo-economic-v2.webp",
 },  {
-    id: "spain-almeria-greenhouses-economic-v2",
+    id: "spain-almeria-greenhouses-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murgi",
+                  "text": "Archäologische Stätte einer antiken Siedlung, die Einblicke in die römische Vergangenheit der Region bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -2.800953,
+                        36.776776
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de El Ejido",
+                  "text": "Das Stadttheater von El Ejido, ein kulturelles Zentrum für Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.811853,
+                        36.776168
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Eine Veranstaltungsstätte unter freiem Himmel für kulturelle Darbietungen und lokale Versammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.808596,
+                        36.767736
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de El Ejido",
+                  "text": "Ein modernes Theater und Auditorium, das als wichtiger Veranstaltungsort für Musik und Schauspiel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.81093,
+                        36.772558
+                  ]
+            },
+            {
+                  "name": "Tumbas romanas de Ciavieja",
+                  "text": "Überreste antiker Grabstätten aus der römischen Epoche in der Nähe von El Ejido.",
+                  "category": "historical",
+                  "coords": [
+                        -2.79741,
+                        36.775915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murgi",
+                  "text": "Egy ókori település régészeti lelőhelye, amely betekintést nyújt a régió római múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -2.800953,
+                        36.776776
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de El Ejido",
+                  "text": "El Ejido városi színháza, az előadások és rendezvények kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.811853,
+                        36.776168
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri helyszín kulturális előadások és helyi összejövetelek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.808596,
+                        36.767736
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de El Ejido",
+                  "text": "Modern színház és auditórium, amely fontos zenei és színházi helyszínként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.81093,
+                        36.772558
+                  ]
+            },
+            {
+                  "name": "Tumbas romanas de Ciavieja",
+                  "text": "Római kori ókori sírhelyek maradványai El Ejido közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.79741,
+                        36.775915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murgi",
+                  "text": "Situl arheologic al unei așezări antice, care oferă informații despre trecutul roman al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -2.800953,
+                        36.776776
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de El Ejido",
+                  "text": "Teatrul municipal din El Ejido, un centru cultural pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.811853,
+                        36.776168
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un spațiu în aer liber pentru spectacole culturale și adunări locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.808596,
+                        36.767736
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de El Ejido",
+                  "text": "Un teatru și auditoriu modern, care servește ca loc important pentru spectacole de muzică și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.81093,
+                        36.772558
+                  ]
+            },
+            {
+                  "name": "Tumbas romanas de Ciavieja",
+                  "text": "Rămășițele unor morminte antice din epoca romană, situate lângă El Ejido.",
+                  "category": "historical",
+                  "coords": [
+                        -2.79741,
+                        36.775915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murgi",
+                  "text": "Archaeological site of an ancient settlement providing insights into the region's Roman past.",
+                  "category": "historical",
+                  "coords": [
+                        -2.800953,
+                        36.776776
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de El Ejido",
+                  "text": "The municipal theatre of El Ejido, a cultural hub for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.811853,
+                        36.776168
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air venue for cultural performances and local gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.808596,
+                        36.767736
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de El Ejido",
+                  "text": "A modern theatre and auditorium serving as a major venue for music and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.81093,
+                        36.772558
+                  ]
+            },
+            {
+                  "name": "Tumbas romanas de Ciavieja",
+                  "text": "Remains of ancient burial sites from the Roman era located near El Ejido.",
+                  "category": "historical",
+                  "coords": [
+                        -2.79741,
+                        36.775915
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "industry",
     name: { de: "Gewächshäuser von Almería", hu: "Almería üvegházai", ro: "Serele din Almería", en: "Almería Greenhouses"},
@@ -874,7 +1360,52 @@ imageHint: "Industrial skyline of Huelva chemical plants",
     },
     image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp",
 },  {
-    id: "spain-solar-platform-almeria-economic-v2",
+    id: "spain-solar-platform-almeria-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cortijo los Retamares",
+                  "text": "Historische Ruinen eines ländlichen Gehöfts in der Nähe der Solarplattform von Almería.",
+                  "category": "historical",
+                  "coords": [
+                        -2.367515,
+                        37.081071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cortijo los Retamares",
+                  "text": "Egy vidéki gazdaság történelmi romjai az almeríai naperőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.367515,
+                        37.081071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cortijo los Retamares",
+                  "text": "Ruinele istorice ale unei ferme rurale lângă Platforma Solară din Almería.",
+                  "category": "historical",
+                  "coords": [
+                        -2.367515,
+                        37.081071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cortijo los Retamares",
+                  "text": "Historical ruins of a rural farmhouse near the Solar Platform of Almería.",
+                  "category": "historical",
+                  "coords": [
+                        -2.367515,
+                        37.081071
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "industry",
     name: { de: "Solarplattform von Almería", hu: "Almeríai Napenergia Platform", ro: "Platforma Solară din Almería", en: "Solar Platform of Almería"},
@@ -1380,7 +1911,304 @@ imageHint: "Entrance to historical Almadén mercury mine",
     },
     image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp",
 },  {
-    id: "spain-sagunto-industrial-port-economic-v2",
+    id: "spain-sagunto-industrial-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Platja del Port de Sagunt",
+                  "text": "Ein beliebter Sandstrand in der Nähe des Hafens von Sagunt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.20958,
+                        39.659056
+                  ]
+            },
+            {
+                  "name": "Far de Canet",
+                  "text": "Ein markanter Leuchtturm an der Küste von Canet d'en Berenguer.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.20775,
+                        39.674504
+                  ]
+            },
+            {
+                  "name": "Auditori Plaça Doctor Peset Aleixandre",
+                  "text": "Ein städtisches Auditorium in Sagunt für Konzerte und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.230619,
+                        39.664524
+                  ]
+            },
+            {
+                  "name": "Auditori Municipal",
+                  "text": "Ein lokales Theater und Veranstaltungszentrum im Hafen von Sagunt.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.220688,
+                        39.678169
+                  ]
+            },
+            {
+                  "name": "Grau Romà",
+                  "text": "Eine archäologische Stätte mit Überresten aus der römischen Epoche.",
+                  "category": "historical",
+                  "coords": [
+                        -0.234887,
+                        39.637686
+                  ]
+            },
+            {
+                  "name": "Torre del Grau Vell",
+                  "text": "Ein historischer Wehrturm an der Küste in der Nähe des alten Hafens.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.239671,
+                        39.635332
+                  ]
+            },
+            {
+                  "name": "Monument als perseguits pel franquisme",
+                  "text": "Ein Denkmal in Sagunt zur Erinnerung an die Verfolgten des Franco-Regimes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.223248,
+                        39.657528
+                  ]
+            },
+            {
+                  "name": "Església de Sant Pere Apòstol",
+                  "text": "Eine katholische Pfarrkirche im Hafenviertel von Sagunt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.220389,
+                        39.679526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Platja del Port de Sagunt",
+                  "text": "Népszerű homokos strand Sagunt kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.20958,
+                        39.659056
+                  ]
+            },
+            {
+                  "name": "Far de Canet",
+                  "text": "Jellegzetes világítótorony Canet d'en Berenguer partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.20775,
+                        39.674504
+                  ]
+            },
+            {
+                  "name": "Auditori Plaça Doctor Peset Aleixandre",
+                  "text": "Sagunt városi auditóriuma koncertek és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.230619,
+                        39.664524
+                  ]
+            },
+            {
+                  "name": "Auditori Municipal",
+                  "text": "Helyi színház és rendezvényközpont Sagunt kikötőjében.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.220688,
+                        39.678169
+                  ]
+            },
+            {
+                  "name": "Grau Romà",
+                  "text": "Régészeti lelőhely a római korból származó maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -0.234887,
+                        39.637686
+                  ]
+            },
+            {
+                  "name": "Torre del Grau Vell",
+                  "text": "Történelmi őrtorony a tengerparton, a régi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.239671,
+                        39.635332
+                  ]
+            },
+            {
+                  "name": "Monument als perseguits pel franquisme",
+                  "text": "Emlékmű Saguntban a Franco-rezsim üldözötteinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -0.223248,
+                        39.657528
+                  ]
+            },
+            {
+                  "name": "Església de Sant Pere Apòstol",
+                  "text": "Katolikus plébániatemplom Sagunt kikötői negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -0.220389,
+                        39.679526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Platja del Port de Sagunt",
+                  "text": "O plajă de nisip populară situată lângă portul din Sagunt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.20958,
+                        39.659056
+                  ]
+            },
+            {
+                  "name": "Far de Canet",
+                  "text": "Un far proeminent situat pe coasta din Canet d'en Berenguer.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.20775,
+                        39.674504
+                  ]
+            },
+            {
+                  "name": "Auditori Plaça Doctor Peset Aleixandre",
+                  "text": "Un auditoriu municipal din Sagunt pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.230619,
+                        39.664524
+                  ]
+            },
+            {
+                  "name": "Auditori Municipal",
+                  "text": "Un teatru local și centru de evenimente în portul Sagunt.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.220688,
+                        39.678169
+                  ]
+            },
+            {
+                  "name": "Grau Romà",
+                  "text": "Un sit arheologic cu vestigii din epoca romană.",
+                  "category": "historical",
+                  "coords": [
+                        -0.234887,
+                        39.637686
+                  ]
+            },
+            {
+                  "name": "Torre del Grau Vell",
+                  "text": "Un turn de apărare istoric pe coastă, lângă portul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.239671,
+                        39.635332
+                  ]
+            },
+            {
+                  "name": "Monument als perseguits pel franquisme",
+                  "text": "Un monument în Sagunt dedicat memoriei celor persecutați de regimul Franco.",
+                  "category": "historical",
+                  "coords": [
+                        -0.223248,
+                        39.657528
+                  ]
+            },
+            {
+                  "name": "Església de Sant Pere Apòstol",
+                  "text": "O biserică parohială catolică din cartierul portuar al Saguntului.",
+                  "category": "religious",
+                  "coords": [
+                        -0.220389,
+                        39.679526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Platja del Port de Sagunt",
+                  "text": "A popular sandy beach located near the port of Sagunt.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.20958,
+                        39.659056
+                  ]
+            },
+            {
+                  "name": "Far de Canet",
+                  "text": "A prominent lighthouse on the coast of Canet d'en Berenguer.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.20775,
+                        39.674504
+                  ]
+            },
+            {
+                  "name": "Auditori Plaça Doctor Peset Aleixandre",
+                  "text": "A municipal auditorium in Sagunt for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.230619,
+                        39.664524
+                  ]
+            },
+            {
+                  "name": "Auditori Municipal",
+                  "text": "A local theatre and event center in the Sagunt port area.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.220688,
+                        39.678169
+                  ]
+            },
+            {
+                  "name": "Grau Romà",
+                  "text": "An archaeological site featuring remains from the Roman era.",
+                  "category": "historical",
+                  "coords": [
+                        -0.234887,
+                        39.637686
+                  ]
+            },
+            {
+                  "name": "Torre del Grau Vell",
+                  "text": "A historic defensive tower on the coast near the old port.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.239671,
+                        39.635332
+                  ]
+            },
+            {
+                  "name": "Monument als perseguits pel franquisme",
+                  "text": "A monument in Sagunt dedicated to the memory of those persecuted by the Franco regime.",
+                  "category": "historical",
+                  "coords": [
+                        -0.223248,
+                        39.657528
+                  ]
+            },
+            {
+                  "name": "Església de Sant Pere Apòstol",
+                  "text": "A Catholic parish church in the port district of Sagunt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.220389,
+                        39.679526
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "port",
     name: { de: "Industriehafen von Sagunto", hu: "Saguntói ipari kikötő", ro: "Portul Industrial Sagunto", en: "Sagunto Industrial Port"},

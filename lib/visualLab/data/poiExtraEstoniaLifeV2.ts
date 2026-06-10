@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const estoniaLifeV2: POI[] = [
 
   {
-    id: "estonia-karula-park-life-v2",
+    id: "estonia-karula-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mäekonnu vaatetorn",
+                  "text": "Ein Aussichtsturm im Karula-Nationalpark mit Panoramablick auf die hügelige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.49005,
+                        57.732545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mäekonnu vaatetorn",
+                  "text": "Kilátótorony a Karula Nemzeti Parkban, amely panorámás kilátást nyújt a dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        26.49005,
+                        57.732545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mäekonnu vaatetorn",
+                  "text": "Un turn de observare din Parcul Național Karula, oferind vederi panoramice asupra peisajului deluros.",
+                  "category": "natural",
+                  "coords": [
+                        26.49005,
+                        57.732545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mäekonnu vaatetorn",
+                  "text": "An observation tower in Karula National Park offering panoramic views of the hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.49005,
+                        57.732545
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Karula Nationalpark", hu: "Karula Nemzeti Park", ro: "Parcul Național Karula", en: "Karula National Park" },
@@ -93,7 +138,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-endla-wetland-life-v2.webp",
   },
   {
-    id: "estonia-alam-pedja-life-v2",
+    id: "estonia-alam-pedja-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Alam-Pedja",
+                  "text": "Eines der größten Naturschutzgebiete Estlands, bekannt für seine weiten Moore und Auen.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alam-Pedja looduskaitseala",
+                  "text": "Észtország egyik legnagyobb természetvédelmi területe, amely kiterjedt lápjairól és ártéri erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alam-Pedja looduskaitseala",
+                  "text": "Una dintre cele mai mari rezervații naturale din Estonia, cunoscută pentru mlaștinile și luncile sale vaste.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alam-Pedja Nature Reserve",
+                  "text": "One of Estonia's largest nature reserves, known for its extensive bogs and floodplains.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "EE",
     name: { de: "Alam-Pedja Naturschutzgebiet", hu: "Alam-Pedja Természetvédelmi Terület", ro: "Rezervația Naturală Alam-Pedja", en: "Alam-Pedja Nature Reserve" },
@@ -399,7 +489,124 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-viljandi-lake-park-life-v2.webp",
   },
   {
-    id: "estonia-mustoja-park-life-v2",
+    id: "estonia-mustoja-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Võmmorski vana tsässon",
+                  "text": "Ein kleines, historisches orthodoxes Gebetshaus aus Holz im Dorf Võmmorski.",
+                  "category": "religious",
+                  "coords": [
+                        27.536213,
+                        57.830094
+                  ]
+            },
+            {
+                  "name": "Võmmorski uus tsässon",
+                  "text": "Eine kleine hölzerne orthodoxe Seto-Kapelle im Landschaftsschutzgebiet Mustoja.",
+                  "category": "religious",
+                  "coords": [
+                        27.53466,
+                        57.830442
+                  ]
+            },
+            {
+                  "name": "Säpina tsässon",
+                  "text": "Eine traditionelle Seto-Dorfkapelle im Landschaftsschutzgebiet Mustoja.",
+                  "category": "religious",
+                  "coords": [
+                        27.583753,
+                        57.852224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Võmmorski vana tsässon",
+                  "text": "Kicsi, történelmi ortodox fából készült imaház Võmmorski faluban.",
+                  "category": "religious",
+                  "coords": [
+                        27.536213,
+                        57.830094
+                  ]
+            },
+            {
+                  "name": "Võmmorski uus tsässon",
+                  "text": "Kicsi fából készült ortodox szetu kápolna a Mustoja tájvédelmi körzetben.",
+                  "category": "religious",
+                  "coords": [
+                        27.53466,
+                        57.830442
+                  ]
+            },
+            {
+                  "name": "Säpina tsässon",
+                  "text": "Hagyományos szetu falusi kápolna a Mustoja tájvédelmi körzetben.",
+                  "category": "religious",
+                  "coords": [
+                        27.583753,
+                        57.852224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Võmmorski vana tsässon",
+                  "text": "O mică casă de rugăciune ortodoxă istorică din lemn în satul Võmmorski.",
+                  "category": "religious",
+                  "coords": [
+                        27.536213,
+                        57.830094
+                  ]
+            },
+            {
+                  "name": "Võmmorski uus tsässon",
+                  "text": "O mică capelă ortodoxă seto din lemn situată în Rezervația Peisagistică Mustoja.",
+                  "category": "religious",
+                  "coords": [
+                        27.53466,
+                        57.830442
+                  ]
+            },
+            {
+                  "name": "Säpina tsässon",
+                  "text": "O capelă tradițională dintr-un sat seto din Rezervația Peisagistică Mustoja.",
+                  "category": "religious",
+                  "coords": [
+                        27.583753,
+                        57.852224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Võmmorski Old Eukterion",
+                  "text": "A small, historic Orthodox wooden prayer house in the village of Võmmorski.",
+                  "category": "religious",
+                  "coords": [
+                        27.536213,
+                        57.830094
+                  ]
+            },
+            {
+                  "name": "Võmmorski New Eukterion",
+                  "text": "A small wooden Seto Orthodox chapel located in the Mustoja Landscape Reserve.",
+                  "category": "religious",
+                  "coords": [
+                        27.53466,
+                        57.830442
+                  ]
+            },
+            {
+                  "name": "Säpina Eukterion",
+                  "text": "A traditional Seto village chapel in the Mustoja Landscape Reserve.",
+                  "category": "religious",
+                  "coords": [
+                        27.583753,
+                        57.852224
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Mustoja Landschaftsschutzgebiet", hu: "Mustoja tájvédelmi körzet", ro: "Rezervația peisagistică Mustoja", en: "Mustoja Landscape Reserve" },
@@ -444,7 +651,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-mustoja-park-life-v2.webp",
   },
   {
-    id: "estonia-neeruti-park-life-v2",
+    id: "estonia-neeruti-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vohnja mõisa peahoone",
+                  "text": "Hauptgebäude des historischen Gutshofs Vohnja.",
+                  "category": "historical",
+                  "coords": [
+                        26.04218,
+                        59.374221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vohnja mõisa peahoone",
+                  "text": "A történelmi Vohnja-kúria főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        26.04218,
+                        59.374221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vohnja mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Vohnja.",
+                  "category": "historical",
+                  "coords": [
+                        26.04218,
+                        59.374221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vohnja mõisa peahoone",
+                  "text": "Main building of the historical Vohnja manor.",
+                  "category": "historical",
+                  "coords": [
+                        26.04218,
+                        59.374221
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Neeruti Landschaftsschutzgebiet", hu: "Neeruti tájvédelmi körzet", ro: "Rezervația peisagistică Neeruti", en: "Neeruti Landscape Reserve" },
@@ -489,7 +741,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-neeruti-park-life-v2.webp",
   },
   {
-    id: "estonia-tolkuse-bog-life-v2",
+    id: "estonia-tolkuse-bog-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rannametsa-Tolkuse looduse õpperada",
+                  "text": "Naturlehrpfad und Aussichtspunkt im Tolkuse-Moor.",
+                  "category": "natural",
+                  "coords": [
+                        24.510806,
+                        58.139202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rannametsa-Tolkuse looduse õpperada",
+                  "text": "Tanösvény és kilátópont a Tolkuse-láp területén.",
+                  "category": "natural",
+                  "coords": [
+                        24.510806,
+                        58.139202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rannametsa-Tolkuse looduse õpperada",
+                  "text": "Traseu tematic și punct de belvedere în mlaștina Tolkuse.",
+                  "category": "natural",
+                  "coords": [
+                        24.510806,
+                        58.139202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rannametsa-Tolkuse looduse õpperada",
+                  "text": "A nature trail and viewpoint located in the Tolkuse Bog.",
+                  "category": "natural",
+                  "coords": [
+                        24.510806,
+                        58.139202
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "EE",
     name: { de: "Tolkuse Hochmoor", hu: "Tolkuse láp", ro: "Mlaștina Tolkuse", en: "Tolkuse Bog" },
@@ -553,6 +850,15 @@ export const estoniaLifeV2: POI[] = [
                         25.650703,
                         59.265381
                   ]
+            },
+            {
+                  "name": "Aegviidu Aleksandri kirik",
+                  "text": "Eine historische Holzkirche in Aegviidu, die der örtlichen lutherischen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.603591,
+                        59.289777
+                  ]
             }
       ],
       "hu": [
@@ -572,6 +878,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         25.650703,
                         59.265381
+                  ]
+            },
+            {
+                  "name": "Aegviidu Aleksandri kirik",
+                  "text": "Történelmi fatemplom Aegviiduban, amely a helyi evangélikus gyülekezetet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        25.603591,
+                        59.289777
                   ]
             }
       ],
@@ -593,6 +908,15 @@ export const estoniaLifeV2: POI[] = [
                         25.650703,
                         59.265381
                   ]
+            },
+            {
+                  "name": "Aegviidu Aleksandri kirik",
+                  "text": "O biserică istorică din lemn din Aegviidu, care deservește congregația luterană locală.",
+                  "category": "religious",
+                  "coords": [
+                        25.603591,
+                        59.289777
+                  ]
             }
       ],
       "en": [
@@ -612,6 +936,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         25.650703,
                         59.265381
+                  ]
+            },
+            {
+                  "name": "Aegviidu Aleksandri kirik",
+                  "text": "A historic wooden church in Aegviidu, serving the local Lutheran congregation.",
+                  "category": "religious",
+                  "coords": [
+                        25.603591,
+                        59.289777
                   ]
             }
       ]
@@ -660,7 +993,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-aegviidu-forest-life-v2.webp",
   },
   {
-    id: "estonia-viidumae-life-v2",
+    id: "estonia-viidumae-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viidumäe looduskaitseala püsiekspositsioon",
+                  "text": "Diese Dauerausstellung im Naturschutzgebiet Viidumäe informiert über die lokale Natur und Ökologie.",
+                  "category": "museum",
+                  "coords": [
+                        22.099748,
+                        58.29807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viidumäe looduskaitseala püsiekspositsioon",
+                  "text": "A Viidumäe természetvédelmi terület állandó kiállítása a helyi élővilágot és ökológiát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.099748,
+                        58.29807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viidumäe looduskaitseala püsiekspositsioon",
+                  "text": "Această expoziție permanentă din Rezervația Naturală Viidumäe oferă informații despre natura și ecologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        22.099748,
+                        58.29807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viidumäe looduskaitseala püsiekspositsioon",
+                  "text": "This permanent exhibition at Viidumäe Nature Reserve provides information about local nature and ecology.",
+                  "category": "museum",
+                  "coords": [
+                        22.099748,
+                        58.29807
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "EE",
     name: { de: "Viidumäe Naturreservat", hu: "Viidumäe Természetvédelmi Terület", ro: "Rezervația Naturală Viidumäe", en: "Viidumäe Nature Reserve" },
@@ -715,6 +1093,69 @@ export const estoniaLifeV2: POI[] = [
                         23.552021,
                         58.570187
                   ]
+            },
+            {
+                  "name": "Virtsu tuletorn",
+                  "text": "Ein aktiver Leuchtturm an der Westküste Estlands.",
+                  "category": "landmark",
+                  "coords": [
+                        23.5016,
+                        58.56725
+                  ]
+            },
+            {
+                  "name": "Virtsu sadamakai tulepaak",
+                  "text": "Ein kleines Molenfeuer am Hafen von Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.508233,
+                        58.5762
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi alumine tulepaak",
+                  "text": "Ein Leitfeuer zur Navigation in der Nähe von Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.523033,
+                        58.576383
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi ülemine tulepaak",
+                  "text": "Ein oberes Leitfeuer für die Schifffahrt bei Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.52805,
+                        58.576483
+                  ]
+            },
+            {
+                  "name": "Rame laht",
+                  "text": "Eine flache Bucht an der Westküste Estlands, Teil eines Naturschutzgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        23.570647,
+                        58.576491
+                  ]
+            },
+            {
+                  "name": "Virtsu vasallilinnus",
+                  "text": "Ruinen einer mittelalterlichen Vasallenburg in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        23.524269,
+                        58.58884
+                  ]
+            },
+            {
+                  "name": "Puhtu mõis",
+                  "text": "Ein historisches Herrenhaus in einem Naturschutzgebiet in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        23.551384,
+                        58.562801
+                  ]
             }
       ],
       "hu": [
@@ -725,6 +1166,69 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         23.552021,
                         58.570187
+                  ]
+            },
+            {
+                  "name": "Virtsu tuletorn",
+                  "text": "Aktív világítótorony Észtország nyugati partján.",
+                  "category": "landmark",
+                  "coords": [
+                        23.5016,
+                        58.56725
+                  ]
+            },
+            {
+                  "name": "Virtsu sadamakai tulepaak",
+                  "text": "Kisméretű kikötői jelzőfény Virtsu mólójánál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.508233,
+                        58.5762
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi alumine tulepaak",
+                  "text": "Navigációs jelzőfény Virtsu kikötője közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.523033,
+                        58.576383
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi ülemine tulepaak",
+                  "text": "Felső navigációs jelzőfény Virtsu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.52805,
+                        58.576483
+                  ]
+            },
+            {
+                  "name": "Rame laht",
+                  "text": "Sekély öböl Észtország nyugati részén, egy természetvédelmi terület része.",
+                  "category": "landmark",
+                  "coords": [
+                        23.570647,
+                        58.576491
+                  ]
+            },
+            {
+                  "name": "Virtsu vasallilinnus",
+                  "text": "Egy középkori hűbéri vár romjai Észtországban.",
+                  "category": "historical",
+                  "coords": [
+                        23.524269,
+                        58.58884
+                  ]
+            },
+            {
+                  "name": "Puhtu mõis",
+                  "text": "Történelmi kúria egy észtországi természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        23.551384,
+                        58.562801
                   ]
             }
       ],
@@ -737,6 +1241,69 @@ export const estoniaLifeV2: POI[] = [
                         23.552021,
                         58.570187
                   ]
+            },
+            {
+                  "name": "Virtsu tuletorn",
+                  "text": "Un far activ situat pe coasta de vest a Estoniei.",
+                  "category": "landmark",
+                  "coords": [
+                        23.5016,
+                        58.56725
+                  ]
+            },
+            {
+                  "name": "Virtsu sadamakai tulepaak",
+                  "text": "Un mic far situat pe debarcaderul portului Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.508233,
+                        58.5762
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi alumine tulepaak",
+                  "text": "Un far de direcție inferior pentru navigație lângă Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.523033,
+                        58.576383
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi ülemine tulepaak",
+                  "text": "Un far de direcție superior pentru navigație lângă Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.52805,
+                        58.576483
+                  ]
+            },
+            {
+                  "name": "Rame laht",
+                  "text": "Un golf puțin adânc în vestul Estoniei, parte a unei rezervații naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        23.570647,
+                        58.576491
+                  ]
+            },
+            {
+                  "name": "Virtsu vasallilinnus",
+                  "text": "Ruinele unei cetăți vasale medievale din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        23.524269,
+                        58.58884
+                  ]
+            },
+            {
+                  "name": "Puhtu mõis",
+                  "text": "Un conac istoric situat într-o rezervație naturală din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        23.551384,
+                        58.562801
+                  ]
             }
       ],
       "en": [
@@ -747,6 +1314,69 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         23.552021,
                         58.570187
+                  ]
+            },
+            {
+                  "name": "Virtsu tuletorn",
+                  "text": "An active lighthouse on the western coast of Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        23.5016,
+                        58.56725
+                  ]
+            },
+            {
+                  "name": "Virtsu sadamakai tulepaak",
+                  "text": "A small lighthouse beacon at the Virtsu harbor pier.",
+                  "category": "landmark",
+                  "coords": [
+                        23.508233,
+                        58.5762
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi alumine tulepaak",
+                  "text": "A lower range light beacon for navigation near Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.523033,
+                        58.576383
+                  ]
+            },
+            {
+                  "name": "Virtsu sihi ülemine tulepaak",
+                  "text": "An upper range light beacon for navigation near Virtsu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.52805,
+                        58.576483
+                  ]
+            },
+            {
+                  "name": "Rame laht",
+                  "text": "A shallow bay in western Estonia, part of a nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        23.570647,
+                        58.576491
+                  ]
+            },
+            {
+                  "name": "Virtsu vasallilinnus",
+                  "text": "Ruins of a medieval vassal castle in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        23.524269,
+                        58.58884
+                  ]
+            },
+            {
+                  "name": "Puhtu mõis",
+                  "text": "A historic manor house located in an Estonian nature reserve.",
+                  "category": "historical",
+                  "coords": [
+                        23.551384,
+                        58.562801
                   ]
             }
       ]
@@ -931,6 +1561,24 @@ export const estoniaLifeV2: POI[] = [
                         22.324026,
                         58.211536
                   ]
+            },
+            {
+                  "name": "Järve luidete maastikukaitseala",
+                  "text": "Ein Naturschutzgebiet mit Küstendünen in der Nähe des Waldgebiets Tehumardi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.299588,
+                        58.205572
+                  ]
+            },
+            {
+                  "name": "Mändjala kämping",
+                  "text": "Ein Campingplatz in Küstennähe im Waldgebiet Tehumardi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.332405,
+                        58.216665
+                  ]
             }
       ],
       "hu": [
@@ -941,6 +1589,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.324026,
                         58.211536
+                  ]
+            },
+            {
+                  "name": "Järve luidete maastikukaitseala",
+                  "text": "Part menti dűnéket védő tájvédelmi körzet a Tehumardi erdőterület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.299588,
+                        58.205572
+                  ]
+            },
+            {
+                  "name": "Mändjala kämping",
+                  "text": "Tengerparthoz közeli kemping a Tehumardi erdőterületen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.332405,
+                        58.216665
                   ]
             }
       ],
@@ -953,6 +1619,24 @@ export const estoniaLifeV2: POI[] = [
                         22.324026,
                         58.211536
                   ]
+            },
+            {
+                  "name": "Järve luidete maastikukaitseala",
+                  "text": "O rezervație naturală care protejează dunele de coastă din apropierea zonei forestiere Tehumardi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.299588,
+                        58.205572
+                  ]
+            },
+            {
+                  "name": "Mändjala kämping",
+                  "text": "Un loc de camping situat aproape de coastă în zona forestieră Tehumardi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.332405,
+                        58.216665
+                  ]
             }
       ],
       "en": [
@@ -963,6 +1647,24 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.324026,
                         58.211536
+                  ]
+            },
+            {
+                  "name": "Järve luidete maastikukaitseala",
+                  "text": "A landscape protection area featuring coastal dunes near the Tehumardi Forest Area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.299588,
+                        58.205572
+                  ]
+            },
+            {
+                  "name": "Mändjala kämping",
+                  "text": "A campsite located near the coast in the Tehumardi Forest Area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.332405,
+                        58.216665
                   ]
             }
       ]
@@ -1219,6 +1921,15 @@ export const estoniaLifeV2: POI[] = [
                         25.331162,
                         59.247679
                   ]
+            },
+            {
+                  "name": "Palvere mõisa park",
+                  "text": "Ein historischer Park, der zum ehemaligen Gutshof Palvere gehört.",
+                  "category": "park",
+                  "coords": [
+                        25.258971,
+                        59.207233
+                  ]
             }
       ],
       "hu": [
@@ -1229,6 +1940,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         25.331162,
                         59.247679
+                  ]
+            },
+            {
+                  "name": "Palvere mõisa park",
+                  "text": "A hajdani Palvere uradalomhoz tartozó történelmi park.",
+                  "category": "park",
+                  "coords": [
+                        25.258971,
+                        59.207233
                   ]
             }
       ],
@@ -1241,6 +1961,15 @@ export const estoniaLifeV2: POI[] = [
                         25.331162,
                         59.247679
                   ]
+            },
+            {
+                  "name": "Palvere mõisa park",
+                  "text": "Un parc istoric care aparține fostului conac Palvere.",
+                  "category": "park",
+                  "coords": [
+                        25.258971,
+                        59.207233
+                  ]
             }
       ],
       "en": [
@@ -1251,6 +1980,15 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         25.331162,
                         59.247679
+                  ]
+            },
+            {
+                  "name": "Palvere mõisa park",
+                  "text": "A historic park belonging to the former Palvere manor estate.",
+                  "category": "park",
+                  "coords": [
+                        25.258971,
+                        59.207233
                   ]
             }
       ]
@@ -1344,7 +2082,124 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-veski-park-life-v2.webp",
   },
   {
-    id: "estonia-kurkse-park-life-v2",
+    id: "estonia-kurkse-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Eine eindrucksvolle Ruine eines Zisterzienserklosters in Estland, die auf das 14. Jahrhundert zurückgeht.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs Padise, das heute als Hotel und Veranstaltungsort dient.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Die Ruinen der ehemaligen Brennerei des Gutshofs Padise in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Egy ciszterci kolostor lenyűgöző romjai Észtországban, amelyek a 14. századból származnak.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "A történelmi padisei uradalom főépülete, amely ma szállodaként és rendezvényhelyszínként működik.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Az észtországi padisei uradalom egykori szeszfőzdéjének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Ruinele impresionante ale unei mănăstiri cisterciene din Estonia, datând din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Padise, care astăzi servește ca hotel și spațiu de evenimente.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Ruinele fostei distilerii a conacului Padise din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Padise klooster",
+                  "text": "Impressive ruins of a Cistercian monastery in Estonia, dating back to the 14th century.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "The main building of the historic Padise manor, which now serves as a hotel and event venue.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "The ruins of the former distillery of the Padise manor in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Kurkse Küstenpark", hu: "Kurkse tengerparti park", ro: "Parcul de coastă Kurkse", en: "Kurkse Coastal Park" },
@@ -1434,7 +2289,160 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-ranna-forest-life-v2.webp",
   },
   {
-    id: "estonia-kaldase-park-life-v2",
+    id: "estonia-kaldase-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shloss Fall",
+                  "text": "Dieses neugotische Herrenhaus in Keila-Joa beherbergt heute ein Museum und ein Hotel.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "Dieses Landschaftsschutzgebiet ist für seine markanten Steilklippen an der estnischen Küste bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "Die Klippe von Türisalu bietet einen beeindruckenden Panoramablick über die Ostsee.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Diese Ruinen gehören zum ehemaligen Gutshof Meremõisa in der Nähe der Küste.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shloss Fall",
+                  "text": "Ez a Keila-Joa-i neogótikus kúria ma múzeumnak és szállodának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "Ez a tájvédelmi körzet az észt tengerpart jellegzetes meredek szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "A Türisalu-szikla lenyűgöző panorámát nyújt a Balti-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Ezek a romok az egykori Meremõisa kúriához tartoznak a tengerpart közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shloss Fall",
+                  "text": "Acest conac neogotic din Keila-Joa găzduiește astăzi un muzeu și un hotel.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "Această rezervație peisajistică este cunoscută pentru stâncile sale abrupte de pe coasta estonă.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "Faleza Türisalu oferă o vedere panoramică impresionantă asupra Mării Baltice.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Aceste ruine aparțin fostului conac Meremõisa situat în apropierea coastei.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shloss Fall",
+                  "text": "This neo-Gothic manor house in Keila-Joa now houses a museum and a hotel.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "This landscape protection area is known for its prominent steep cliffs on the Estonian coast.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "The Türisalu cliff offers an impressive panoramic view over the Baltic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "These ruins belong to the former Meremõisa manor located near the coast.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Kaldase Park", hu: "Kaldase park", ro: "Parcul Kaldase", en: "Kaldase Park" },
@@ -1498,6 +2506,33 @@ export const estoniaLifeV2: POI[] = [
                         22.260173,
                         58.137802
                   ]
+            },
+            {
+                  "name": "Salme muinaslaevade leiukoht",
+                  "text": "Eine archäologische Fundstelle zweier Wikingerschiffe aus dem 8. Jahrhundert in Salme.",
+                  "category": "historical",
+                  "coords": [
+                        22.251554,
+                        58.167275
+                  ]
+            },
+            {
+                  "name": "Salme kirik",
+                  "text": "Eine evangelisch-lutherische Kirche im Dorf Salme auf der Insel Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.251039,
+                        58.161473
+                  ]
+            },
+            {
+                  "name": "Tiirimetsa palvemaja",
+                  "text": "Ein historisches Gebetshaus im Dorf Tiirimetsa auf der estnischen Insel Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.182305,
+                        58.181774
+                  ]
             }
       ],
       "hu": [
@@ -1517,6 +2552,33 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.260173,
                         58.137802
+                  ]
+            },
+            {
+                  "name": "Salme muinaslaevade leiukoht",
+                  "text": "Két 8. századi viking hajó régészeti lelőhelye Salmében.",
+                  "category": "historical",
+                  "coords": [
+                        22.251554,
+                        58.167275
+                  ]
+            },
+            {
+                  "name": "Salme kirik",
+                  "text": "Evangélikus templom Salme faluban, Saaremaa szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        22.251039,
+                        58.161473
+                  ]
+            },
+            {
+                  "name": "Tiirimetsa palvemaja",
+                  "text": "Történelmi imaház Tiirimetsa faluban, az észtországi Saaremaa szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        22.182305,
+                        58.181774
                   ]
             }
       ],
@@ -1538,6 +2600,33 @@ export const estoniaLifeV2: POI[] = [
                         22.260173,
                         58.137802
                   ]
+            },
+            {
+                  "name": "Salme muinaslaevade leiukoht",
+                  "text": "Un sit arheologic unde au fost descoperite două nave vikinge din secolul al VIII-lea, în Salme.",
+                  "category": "historical",
+                  "coords": [
+                        22.251554,
+                        58.167275
+                  ]
+            },
+            {
+                  "name": "Salme kirik",
+                  "text": "O biserică evanghelică luterană din satul Salme, pe insula Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.251039,
+                        58.161473
+                  ]
+            },
+            {
+                  "name": "Tiirimetsa palvemaja",
+                  "text": "O casă de rugăciune istorică din satul Tiirimetsa, pe insula estonă Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.182305,
+                        58.181774
+                  ]
             }
       ],
       "en": [
@@ -1557,6 +2646,33 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         22.260173,
                         58.137802
+                  ]
+            },
+            {
+                  "name": "Salme ancient ships",
+                  "text": "An archaeological site of two 8th-century Viking ships discovered in Salme.",
+                  "category": "historical",
+                  "coords": [
+                        22.251554,
+                        58.167275
+                  ]
+            },
+            {
+                  "name": "Salme kirik",
+                  "text": "An Evangelical Lutheran church in the village of Salme on Saaremaa island.",
+                  "category": "religious",
+                  "coords": [
+                        22.251039,
+                        58.161473
+                  ]
+            },
+            {
+                  "name": "Tiirimetsa palvemaja",
+                  "text": "A historical prayer house in the village of Tiirimetsa on the Estonian island of Saaremaa.",
+                  "category": "religious",
+                  "coords": [
+                        22.182305,
+                        58.181774
                   ]
             }
       ]

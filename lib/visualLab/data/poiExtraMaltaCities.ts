@@ -586,6 +586,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "Der Ricasoli-Leuchtturm ist ein markantes maritimes Bauwerk in der Nähe von Sliema.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
             }
       ],
       "hu": [
@@ -1127,6 +1136,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "A Ricasoli-világítótorony egy jellegzetes tengeri építmény Sliema közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
                   ]
             }
       ],
@@ -1670,6 +1688,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "Farul Ricasoli este o structură maritimă distinctivă situată în apropiere de Sliema.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
             }
       ],
       "en": [
@@ -2211,6 +2238,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "The Ricasoli Lighthouse is a prominent maritime landmark located near Sliema.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
                   ]
             }
       ]
@@ -7552,6 +7588,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Fond Ghadir Beach",
+                  "text": "Fond Ghadir Beach ist ein felsiger Strandabschnitt in Msida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505552,
+                        35.915448
+                  ]
             }
       ],
       "hu": [
@@ -8138,6 +8183,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Fond Ghadir Beach",
+                  "text": "A Fond Ghadir egy sziklás strandrész Msida területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505552,
+                        35.915448
                   ]
             }
       ],
@@ -8726,6 +8780,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.510507,
                         35.910449
                   ]
+            },
+            {
+                  "name": "Fond Ghadir Beach",
+                  "text": "Plaja Fond Ghadir este o zonă de coastă stâncoasă în Msida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505552,
+                        35.915448
+                  ]
             }
       ],
       "en": [
@@ -9312,6 +9375,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.510507,
                         35.910449
+                  ]
+            },
+            {
+                  "name": "Fond Ghadir Beach",
+                  "text": "Fond Ghadir Beach is a rocky coastal area located in Msida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505552,
+                        35.915448
                   ]
             }
       ]
@@ -28207,6 +28279,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Ein Privatmuseum in einem historischen Haus, das die lokale Sozialgeschichte beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
             }
       ],
       "hu": [
@@ -28685,6 +28766,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Egy történelmi házban kialakított magánmúzeum, amely a helyi társadalomtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
                   ]
             }
       ],
@@ -29165,6 +29255,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Un muzeu privat amenajat într-o casă istorică, ce ilustrează istoria socială locală.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
             }
       ],
       "en": [
@@ -29643,6 +29742,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "A private museum in a historic house highlighting local social history.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
                   ]
             }
       ]
@@ -33204,6 +33312,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Ein kulturelles Zentrum und Museum, das in einem der ältesten Häuser von Bormla untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
             }
       ],
       "hu": [
@@ -33736,6 +33853,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.517244,
                         35.888912
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Kulturális központ és múzeum Bormla egyik legrégebbi házában.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
                   ]
             }
       ],
@@ -34270,6 +34396,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Un centru cultural și muzeu găzduit în una dintre cele mai vechi case din Bormla.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
             }
       ],
       "en": [
@@ -34802,6 +34937,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.517244,
                         35.888912
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "A cultural hub and museum housed in one of the oldest residences in Bormla.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
                   ]
             }
       ]
@@ -51082,6 +51226,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Ein historischer Palast und Museum, das der Geschichte der Inquisition auf Malta gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Ein Fort aus der viktorianischen Ära, das für das größte Vorderladergeschütz der Welt bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Ein Museum, das das Leben und die Widerstandsfähigkeit Maltas während des Zweiten Weltkriegs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Ein sozialgeschichtliches Museum in einem alten Gebäude mit Ursprüngen in der Vorgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "Ein markanter Leuchtturm, der den Eingang zum Grand Harbour markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
+            },
+            {
+                  "name": "Il-Bidni Dolmen",
+                  "text": "Eine prähistorische Steinstruktur aus der Bronzezeit in der maltesischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        14.55475,
+                        35.86773
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "Eine massive Befestigungsanlage aus dem 18. Jahrhundert zum Schutz der Cottonera-Region.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528397,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Briconet Redoubt",
+                  "text": "Eine Küstenbefestigungsanlage, die vom Johanniterorden in Marsaskala errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        14.565212,
+                        35.865587
+                  ]
             }
       ],
       "hu": [
@@ -51128,6 +51344,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Történelmi palota és múzeum, amelyet a máltai inkvizíció történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Viktoriánus kori erőd, amely a világ legnagyobb elöltöltős ágyújáról nevezetes.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Múzeum, amely Málta második világháborús életét és ellenállóképességét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Társadalomtörténeti múzeum egy ősi épületben, amelynek eredete a prehisztorikus időkig nyúlik vissza.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "Jellegzetes világítótorony, amely a Nagy Kikötő bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
+            },
+            {
+                  "name": "Il-Bidni Dolmen",
+                  "text": "Bronzkori prehisztorikus kőépítmény a máltai vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        14.55475,
+                        35.86773
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "Hatalmas, 18. századi erődítmény, amelyet a Cottonera régió védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528397,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Briconet Redoubt",
+                  "text": "Part menti védelmi erődítmény, amelyet a Szent János-rend épített Marsaskalában.",
+                  "category": "fortress",
+                  "coords": [
+                        14.565212,
+                        35.865587
                   ]
             }
       ],
@@ -51176,6 +51464,78 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Un palat istoric și muzeu dedicat istoriei Inchiziției în Malta.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Un fort din epoca victoriană, faimos pentru că găzduiește cel mai mare tun cu încărcare pe la gură din lume.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Un muzeu care documentează viața și reziliența Maltei în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "Un muzeu de istorie socială situat într-o clădire veche cu origini în vremuri preistorice.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "Un far proeminent care marchează intrarea în Marele Port.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
+            },
+            {
+                  "name": "Il-Bidni Dolmen",
+                  "text": "O structură de piatră prehistorică din Epoca Bronzului, situată în mediul rural maltez.",
+                  "category": "historical",
+                  "coords": [
+                        14.55475,
+                        35.86773
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "O fortificație masivă din secolul al XVIII-lea, construită pentru a apăra regiunea Cottonera.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528397,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Briconet Redoubt",
+                  "text": "O fortificație defensivă de coastă construită de Ordinul Sfântului Ioan în Marsaskala.",
+                  "category": "fortress",
+                  "coords": [
+                        14.565212,
+                        35.865587
+                  ]
             }
       ],
       "en": [
@@ -51222,6 +51582,78 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "A historic palace and museum dedicated to the history of the Inquisition in Malta.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "A Victorian-era fort famous for housing the world's largest muzzle-loading gun.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "A museum documenting the life and resilience of Malta during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Bir Mula Heritage",
+                  "text": "A social history museum located in an ancient building with origins in prehistoric times.",
+                  "category": "museum",
+                  "coords": [
+                        14.523667,
+                        35.883005
+                  ]
+            },
+            {
+                  "name": "Ricasoli Lighthouse",
+                  "text": "A prominent lighthouse marking the entrance to the Grand Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522982,
+                        35.899329
+                  ]
+            },
+            {
+                  "name": "Il-Bidni Dolmen",
+                  "text": "A prehistoric stone structure from the Bronze Age located in the Maltese countryside.",
+                  "category": "historical",
+                  "coords": [
+                        14.55475,
+                        35.86773
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "A massive 18th-century fortification built to defend the Cottonera region.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528397,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Briconet Redoubt",
+                  "text": "A coastal defensive fortification built by the Order of St. John in Marsaskala.",
+                  "category": "fortress",
+                  "coords": [
+                        14.565212,
+                        35.865587
                   ]
             }
       ]
@@ -69621,6 +70053,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.417643,
                         35.954472
                   ]
+            },
+            {
+                  "name": "Fort Mosta",
+                  "text": "Ein polygonales Fort aus dem 19. Jahrhundert, das zur Verteidigung der Victoria Lines diente.",
+                  "category": "fortress",
+                  "coords": [
+                        14.426628,
+                        35.922578
+                  ]
             }
       ],
       "hu": [
@@ -70063,6 +70504,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.417643,
                         35.954472
+                  ]
+            },
+            {
+                  "name": "Fort Mosta",
+                  "text": "19. századi poligonális erőd, amely a Victoria Lines védelmi vonal részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        14.426628,
+                        35.922578
                   ]
             }
       ],
@@ -70507,6 +70957,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.417643,
                         35.954472
                   ]
+            },
+            {
+                  "name": "Fort Mosta",
+                  "text": "Un fort poligonal din secolul al XIX-lea care a servit la apărarea liniei Victoria Lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.426628,
+                        35.922578
+                  ]
             }
       ],
       "en": [
@@ -70949,6 +71408,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.417643,
                         35.954472
+                  ]
+            },
+            {
+                  "name": "Fort Mosta",
+                  "text": "A 19th-century polygonal fort used to defend the Victoria Lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.426628,
+                        35.922578
                   ]
             }
       ]
@@ -74310,6 +74778,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.389209,
                         35.951829
                   ]
+            },
+            {
+                  "name": "Simar Nature Reserve",
+                  "text": "Ein Naturschutzgebiet mit Feuchtgebieten, das vielen Zugvögeln als Rückzugsort dient.",
+                  "category": "natural",
+                  "coords": [
+                        14.382269,
+                        35.945566
+                  ]
             }
       ],
       "hu": [
@@ -74680,6 +75157,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.389209,
                         35.951829
+                  ]
+            },
+            {
+                  "name": "Simar Nature Reserve",
+                  "text": "Vizes élőhelyeket magában foglaló természetvédelmi terület, amely számos vándormadárnak nyújt menedéket.",
+                  "category": "natural",
+                  "coords": [
+                        14.382269,
+                        35.945566
                   ]
             }
       ],
@@ -75052,6 +75538,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.389209,
                         35.951829
                   ]
+            },
+            {
+                  "name": "Simar Nature Reserve",
+                  "text": "O rezervație naturală cu zone umede care oferă refugiu pentru numeroase păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        14.382269,
+                        35.945566
+                  ]
             }
       ],
       "en": [
@@ -75422,6 +75917,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.389209,
                         35.951829
+                  ]
+            },
+            {
+                  "name": "Simar Nature Reserve",
+                  "text": "A nature reserve featuring wetlands that provide a sanctuary for many migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        14.382269,
+                        35.945566
                   ]
             }
       ]
@@ -85484,6 +85988,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.19118,
                         36.053757
                   ]
+            },
+            {
+                  "name": "Fanal tal-Ġordan",
+                  "text": "Ein markanter Leuchtturm auf einem Hügel über dem Dorf Għarb auf Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.218429,
+                        36.072227
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Ein Museum in Għarb, das das traditionelle Leben und Handwerk auf Gozo zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.209272,
+                        36.059749
+                  ]
+            },
+            {
+                  "name": "Żebbuġ War Shelters",
+                  "text": "Ehemalige Luftschutzbunker aus dem Zweiten Weltkrieg, die heute als Museum dienen.",
+                  "category": "museum",
+                  "coords": [
+                        14.235058,
+                        36.066539
+                  ]
+            },
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Ein schmaler, fjordähnlicher Meeresarm mit einem kleinen Kieselstrand auf Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228217,
+                        36.078684
+                  ]
+            },
+            {
+                  "name": "Tieqa ta' Wied il-Mielaħ",
+                  "text": "Ein natürliches Felstor aus Kalkstein an der Nordküste von Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.212893,
+                        36.079672
+                  ]
+            },
+            {
+                  "name": "Ta’ Dbieġi",
+                  "text": "Der höchste Punkt der Insel Gozo mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213219,
+                        36.051911
+                  ]
+            },
+            {
+                  "name": "It-Tieqa tad-Dwejra",
+                  "text": "Die Überreste des berühmten Felsentors, das 2017 nach einem Sturm einstürzte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.188258,
+                        36.053562
+                  ]
             }
       ],
       "hu": [
@@ -85494,6 +86061,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.19118,
                         36.053757
+                  ]
+            },
+            {
+                  "name": "Fanal tal-Ġordan",
+                  "text": "Jellegzetes világítótorony egy dombtetőn Għarb falu felett, Gozo szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.218429,
+                        36.072227
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Għarbi múzeum, amely a gozói hagyományos életmódot és mesterségeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.209272,
+                        36.059749
+                  ]
+            },
+            {
+                  "name": "Żebbuġ War Shelters",
+                  "text": "Második világháborús óvóhelyek, amelyek ma múzeumként működnek.",
+                  "category": "museum",
+                  "coords": [
+                        14.235058,
+                        36.066539
+                  ]
+            },
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Keskeny, fjordszerű öböl kis kavicsos stranddal Gozo szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228217,
+                        36.078684
+                  ]
+            },
+            {
+                  "name": "Tieqa ta' Wied il-Mielaħ",
+                  "text": "Természetes mészkő sziklakapu Gozo északi partján.",
+                  "category": "landmark",
+                  "coords": [
+                        14.212893,
+                        36.079672
+                  ]
+            },
+            {
+                  "name": "Ta’ Dbieġi",
+                  "text": "Gozo szigetének legmagasabb pontja, ahonnan pazar kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213219,
+                        36.051911
+                  ]
+            },
+            {
+                  "name": "az összeomlott kék ablak",
+                  "text": "A híres sziklakapu maradványai, amely 2017-ben egy vihar után összeomlott.",
+                  "category": "landmark",
+                  "coords": [
+                        14.188258,
+                        36.053562
                   ]
             }
       ],
@@ -85506,6 +86136,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.19118,
                         36.053757
                   ]
+            },
+            {
+                  "name": "Fanal tal-Ġordan",
+                  "text": "Un far proeminent situat pe un deal deasupra satului Għarb din Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.218429,
+                        36.072227
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Un muzeu în Għarb care prezintă viața tradițională și meșteșugurile din Gozo.",
+                  "category": "museum",
+                  "coords": [
+                        14.209272,
+                        36.059749
+                  ]
+            },
+            {
+                  "name": "Żebbuġ War Shelters",
+                  "text": "Foste adăposturi antiaeriene din al Doilea Război Mondial, astăzi transformate în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        14.235058,
+                        36.066539
+                  ]
+            },
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Un golf îngust, asemănător unui fiord, cu o mică plajă de pietriș în Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228217,
+                        36.078684
+                  ]
+            },
+            {
+                  "name": "Tieqa ta' Wied il-Mielaħ",
+                  "text": "O fereastră naturală din calcar situată pe coasta de nord a insulei Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.212893,
+                        36.079672
+                  ]
+            },
+            {
+                  "name": "Ta’ Dbieġi",
+                  "text": "Cel mai înalt punct de pe insula Gozo, oferind o vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213219,
+                        36.051911
+                  ]
+            },
+            {
+                  "name": "It-Tieqa tad-Dwejra",
+                  "text": "Rămășițele faimoasei arcade naturale care s-a prăbușit în 2017 după o furtună.",
+                  "category": "landmark",
+                  "coords": [
+                        14.188258,
+                        36.053562
+                  ]
             }
       ],
       "en": [
@@ -85516,6 +86209,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.19118,
                         36.053757
+                  ]
+            },
+            {
+                  "name": "Ġordan Lighthouse",
+                  "text": "A prominent lighthouse situated on a hill above the village of Għarb on Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.218429,
+                        36.072227
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A museum in Għarb showcasing traditional life and crafts on Gozo.",
+                  "category": "museum",
+                  "coords": [
+                        14.209272,
+                        36.059749
+                  ]
+            },
+            {
+                  "name": "Żebbuġ War Shelters",
+                  "text": "Former World War II air raid shelters that now serve as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.235058,
+                        36.066539
+                  ]
+            },
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "A narrow, fjord-like inlet with a small pebble beach on Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228217,
+                        36.078684
+                  ]
+            },
+            {
+                  "name": "Wied il-Mielaħ Window",
+                  "text": "A natural limestone arch located on the northern coast of Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.212893,
+                        36.079672
+                  ]
+            },
+            {
+                  "name": "Ta’ Dbieġi",
+                  "text": "The highest point on the island of Gozo, offering wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213219,
+                        36.051911
+                  ]
+            },
+            {
+                  "name": "Collapsed Azure Window",
+                  "text": "The remains of the famous natural arch that collapsed in 2017 after a storm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.188258,
+                        36.053562
                   ]
             }
       ]

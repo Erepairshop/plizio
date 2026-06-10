@@ -48,7 +48,304 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-novozymes-bagsvaerd-economic-v2.webp",
   },
   {
-    id: "denmark-danfoss-nordborg-economic-v2",
+    id: "denmark-danfoss-nordborg-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vagns Saab Museum",
+                  "text": "Ein Museum in Nordborg, das eine Sammlung klassischer Saab-Automobile präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.829049,
+                        55.029445
+                  ]
+            },
+            {
+                  "name": "Brokhøj",
+                  "text": "Eine archäologische Stätte in Nordborg mit Überresten aus der dänischen Vorzeit.",
+                  "category": "historical",
+                  "coords": [
+                        9.828987,
+                        55.040893
+                  ]
+            },
+            {
+                  "name": "Sandershøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe von Nordborg auf der Insel Als.",
+                  "category": "historical",
+                  "coords": [
+                        9.796355,
+                        55.005991
+                  ]
+            },
+            {
+                  "name": "Kragehøj",
+                  "text": "Ein antiker Grabhügel in der Region Nordborg, der Teil des dänischen Kulturerbes ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.810401,
+                        55.028694
+                  ]
+            },
+            {
+                  "name": "Langhøj",
+                  "text": "Eine archäologische Stätte in Nordborg, bestehend aus einem markanten Langhügel.",
+                  "category": "historical",
+                  "coords": [
+                        9.778274,
+                        55.013258
+                  ]
+            },
+            {
+                  "name": "Brandhøj",
+                  "text": "Ein historischer Grabhügel bei Nordborg, der für seine archäologische Bedeutung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.80652,
+                        55.013682
+                  ]
+            },
+            {
+                  "name": "Havnbjerg Mølle",
+                  "text": "Eine historische Windmühle in Nordborg, die heute als Museum und Wahrzeichen dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.798832,
+                        55.039869
+                  ]
+            },
+            {
+                  "name": "Universe",
+                  "text": "Ein Wissenschafts- und Erlebnispark in Nordborg, der Besucher für Naturwissenschaften und Technik begeistern soll.",
+                  "category": "recreational",
+                  "coords": [
+                        9.810177,
+                        55.041097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vagns Saab Museum",
+                  "text": "Nordborgi múzeum, amely klasszikus Saab gépkocsik gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.829049,
+                        55.029445
+                  ]
+            },
+            {
+                  "name": "Brokhøj",
+                  "text": "Régészeti lelőhely Nordborgban, dán őskori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        9.828987,
+                        55.040893
+                  ]
+            },
+            {
+                  "name": "Sandershøj",
+                  "text": "Őskori halomsír Nordborg közelében, Als szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        9.796355,
+                        55.005991
+                  ]
+            },
+            {
+                  "name": "Kragehøj",
+                  "text": "Ókori halomsír Nordborg régiójában, amely a dán kulturális örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        9.810401,
+                        55.028694
+                  ]
+            },
+            {
+                  "name": "Langhøj",
+                  "text": "Régészeti lelőhely Nordborgban, amely egy jellegzetes hosszúdombból áll.",
+                  "category": "historical",
+                  "coords": [
+                        9.778274,
+                        55.013258
+                  ]
+            },
+            {
+                  "name": "Brandhøj",
+                  "text": "Történelmi halomsír Nordborg közelében, amely régészeti jelentőségéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        9.80652,
+                        55.013682
+                  ]
+            },
+            {
+                  "name": "Havnbjerg Mølle",
+                  "text": "Történelmi szélmalom Nordborgban, amely ma múzeumként és helyi jelképként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        9.798832,
+                        55.039869
+                  ]
+            },
+            {
+                  "name": "Universe",
+                  "text": "Nordborgi tudományos élménypark, amelynek célja a természettudományok és a technológia népszerűsítése.",
+                  "category": "recreational",
+                  "coords": [
+                        9.810177,
+                        55.041097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vagns Saab Museum",
+                  "text": "Un muzeu în Nordborg care prezintă o colecție de automobile Saab clasice.",
+                  "category": "museum",
+                  "coords": [
+                        9.829049,
+                        55.029445
+                  ]
+            },
+            {
+                  "name": "Brokhøj",
+                  "text": "Un sit arheologic în Nordborg, conținând vestigii din preistoria daneză.",
+                  "category": "historical",
+                  "coords": [
+                        9.828987,
+                        55.040893
+                  ]
+            },
+            {
+                  "name": "Sandershøj",
+                  "text": "Un tumul preistoric lângă Nordborg, pe insula Als.",
+                  "category": "historical",
+                  "coords": [
+                        9.796355,
+                        55.005991
+                  ]
+            },
+            {
+                  "name": "Kragehøj",
+                  "text": "Un tumul antic în regiunea Nordborg, făcând parte din moștenirea culturală daneză.",
+                  "category": "historical",
+                  "coords": [
+                        9.810401,
+                        55.028694
+                  ]
+            },
+            {
+                  "name": "Langhøj",
+                  "text": "Un sit arheologic în Nordborg, format dintr-un tumul lung proeminent.",
+                  "category": "historical",
+                  "coords": [
+                        9.778274,
+                        55.013258
+                  ]
+            },
+            {
+                  "name": "Brandhøj",
+                  "text": "Un tumul istoric lângă Nordborg, cunoscut pentru importanța sa arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        9.80652,
+                        55.013682
+                  ]
+            },
+            {
+                  "name": "Havnbjerg Mølle",
+                  "text": "O moară de vânt istorică în Nordborg, care funcționează astăzi ca muzeu și punct de reper.",
+                  "category": "museum",
+                  "coords": [
+                        9.798832,
+                        55.039869
+                  ]
+            },
+            {
+                  "name": "Universe",
+                  "text": "Un parc de distracții științific în Nordborg, menit să entuziasmeze vizitatorii pentru știință și tehnologie.",
+                  "category": "recreational",
+                  "coords": [
+                        9.810177,
+                        55.041097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vagns Saab Museum",
+                  "text": "A museum in Nordborg showcasing a collection of classic Saab automobiles.",
+                  "category": "museum",
+                  "coords": [
+                        9.829049,
+                        55.029445
+                  ]
+            },
+            {
+                  "name": "Brokhøj",
+                  "text": "An archaeological site in Nordborg containing remains from Danish prehistory.",
+                  "category": "historical",
+                  "coords": [
+                        9.828987,
+                        55.040893
+                  ]
+            },
+            {
+                  "name": "Sandershøj",
+                  "text": "A prehistoric burial mound near Nordborg on the island of Als.",
+                  "category": "historical",
+                  "coords": [
+                        9.796355,
+                        55.005991
+                  ]
+            },
+            {
+                  "name": "Kragehøj",
+                  "text": "An ancient burial mound in the Nordborg region, part of the Danish cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        9.810401,
+                        55.028694
+                  ]
+            },
+            {
+                  "name": "Langhøj",
+                  "text": "An archaeological site in Nordborg consisting of a prominent long barrow.",
+                  "category": "historical",
+                  "coords": [
+                        9.778274,
+                        55.013258
+                  ]
+            },
+            {
+                  "name": "Brandhøj",
+                  "text": "A historic burial mound near Nordborg, known for its archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        9.80652,
+                        55.013682
+                  ]
+            },
+            {
+                  "name": "Havnbjerg Mølle",
+                  "text": "A historic windmill in Nordborg that now serves as a museum and local landmark.",
+                  "category": "museum",
+                  "coords": [
+                        9.798832,
+                        55.039869
+                  ]
+            },
+            {
+                  "name": "Universe",
+                  "text": "A science-based theme park in Nordborg designed to inspire visitors with science and technology.",
+                  "category": "recreational",
+                  "coords": [
+                        9.810177,
+                        55.041097
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DK",
     name: { de: "Danfoss Nordborg", hu: "Danfoss Nordborg", ro: "Danfoss Nordborg", en: "Danfoss Nordborg" },
@@ -183,7 +480,268 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-grundfos-bjerringbro-economic-v2.webp",
   },
   {
-    id: "denmark-port-hirtshals-economic-v2",
+    id: "denmark-port-hirtshals-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nordsøen Oceanarium",
+                  "text": "Eines der größten Aquarien Nordeuropas mit Fokus auf das Ökosystem der Nordsee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.980224,
+                        57.58669
+                  ]
+            },
+            {
+                  "name": "Hellekisten i Horne",
+                  "text": "Eine archäologische Stätte mit einer gut erhaltenen steinzeitlichen Grabkammer.",
+                  "category": "historical",
+                  "coords": [
+                        9.978594,
+                        57.559399
+                  ]
+            },
+            {
+                  "name": "Leuchtturm von Hirtshals",
+                  "text": "Ein markanter Leuchtturm an der dänischen Nordseeküste, der 1863 in Betrieb genommen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        9.941901,
+                        57.584736
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum",
+                  "text": "Ein Museum in einer ehemaligen Bunkeranlage aus dem Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        9.942807,
+                        57.584951
+                  ]
+            },
+            {
+                  "name": "Kringelhøi",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe von Hirtshals aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        9.9863,
+                        57.563719
+                  ]
+            },
+            {
+                  "name": "Husmoderstranden",
+                  "text": "Ein beliebter, breiter Sandstrand in Hirtshals, der für Familien geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        9.948624,
+                        57.589864
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fun-Park",
+                  "text": "Ein Freizeitpark mit Tieren und Aktivitäten für Kinder in der Nähe des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        9.943223,
+                        57.563476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nordsøen Oceanarium",
+                  "text": "Észak-Európa egyik legnagyobb akváriuma, amely az Északi-tenger élővilágára összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        9.980224,
+                        57.58669
+                  ]
+            },
+            {
+                  "name": "Hellekisten i Horne",
+                  "text": "Régészeti lelőhely egy jól megőrzött kőkorszaki sírkamrával.",
+                  "category": "historical",
+                  "coords": [
+                        9.978594,
+                        57.559399
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fyr",
+                  "text": "Jellegzetes világítótorony a dán északi-tengeri parton, amelyet 1863-ban helyeztek üzembe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.941901,
+                        57.584736
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum",
+                  "text": "A második világháború egykori bunkereiben kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.942807,
+                        57.584951
+                  ]
+            },
+            {
+                  "name": "Kringelhøi",
+                  "text": "Bronzkori történelem előtti sírhalom Hirtshals közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.9863,
+                        57.563719
+                  ]
+            },
+            {
+                  "name": "Husmoderstranden",
+                  "text": "Népszerű, széles homokos strand Hirtshalsban, amely családok számára is kiváló.",
+                  "category": "recreational",
+                  "coords": [
+                        9.948624,
+                        57.589864
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fun-Park",
+                  "text": "Állatokkal és gyerekprogramokkal teli szabadidőpark a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.943223,
+                        57.563476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nordsøen Oceanarium",
+                  "text": "Unul dintre cele mai mari acvarii din Europa de Nord, axat pe ecosistemul Mării Nordului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.980224,
+                        57.58669
+                  ]
+            },
+            {
+                  "name": "Hellekisten i Horne",
+                  "text": "Un sit arheologic care prezintă o cameră funerară bine conservată din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        9.978594,
+                        57.559399
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fyr",
+                  "text": "Un far proeminent pe coasta daneză a Mării Nordului, dat în folosință în 1863.",
+                  "category": "landmark",
+                  "coords": [
+                        9.941901,
+                        57.584736
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum",
+                  "text": "Un muzeu amenajat într-un fost complex de buncăre din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        9.942807,
+                        57.584951
+                  ]
+            },
+            {
+                  "name": "Kringelhøi",
+                  "text": "O tumulă preistorică de lângă Hirtshals, datând din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        9.9863,
+                        57.563719
+                  ]
+            },
+            {
+                  "name": "Husmoderstranden",
+                  "text": "O plajă de nisip populară și lată în Hirtshals, potrivită pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        9.948624,
+                        57.589864
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fun-Park",
+                  "text": "Un parc de distracții cu animale și activități pentru copii, situat lângă port.",
+                  "category": "recreational",
+                  "coords": [
+                        9.943223,
+                        57.563476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nordsøen Oceanarium",
+                  "text": "One of the largest aquariums in Northern Europe, focusing on the ecosystem of the North Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        9.980224,
+                        57.58669
+                  ]
+            },
+            {
+                  "name": "Hellekisten i Horne",
+                  "text": "An archaeological site featuring a well-preserved Stone Age burial chamber.",
+                  "category": "historical",
+                  "coords": [
+                        9.978594,
+                        57.559399
+                  ]
+            },
+            {
+                  "name": "Hirtshals Lighthouse",
+                  "text": "A prominent lighthouse on the Danish North Sea coast, commissioned in 1863.",
+                  "category": "landmark",
+                  "coords": [
+                        9.941901,
+                        57.584736
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum",
+                  "text": "A museum located within a former WWII bunker complex.",
+                  "category": "museum",
+                  "coords": [
+                        9.942807,
+                        57.584951
+                  ]
+            },
+            {
+                  "name": "Kringelhøi",
+                  "text": "A prehistoric burial mound near Hirtshals dating from the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        9.9863,
+                        57.563719
+                  ]
+            },
+            {
+                  "name": "Husmoderstranden",
+                  "text": "A popular wide sandy beach in Hirtshals, well-suited for families.",
+                  "category": "recreational",
+                  "coords": [
+                        9.948624,
+                        57.589864
+                  ]
+            },
+            {
+                  "name": "Hirtshals Fun-Park",
+                  "text": "An activity park featuring farm animals and various attractions for children near the port.",
+                  "category": "recreational",
+                  "coords": [
+                        9.943223,
+                        57.563476
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DK",
     name: { de: "Hafen Hirtshals", hu: "Hirtshalsi kikötő", ro: "Portul Hirtshals", en: "Port of Hirtshals" },
@@ -318,7 +876,268 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-danish-crown-randers-economic-v2.webp",
   },
   {
-    id: "denmark-billund-airport-economic-v2",
+    id: "denmark-billund-airport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dronning Amlets Høj",
+                  "text": "Ein historischer Grabhügel in der Nähe von Billund.",
+                  "category": "historical",
+                  "coords": [
+                        9.165999,
+                        55.738305
+                  ]
+            },
+            {
+                  "name": "Staghøi",
+                  "text": "Ein alter Grabhügel in der Umgebung von Billund.",
+                  "category": "historical",
+                  "coords": [
+                        9.122197,
+                        55.718205
+                  ]
+            },
+            {
+                  "name": "Legoland",
+                  "text": "Der ursprüngliche Legoland-Freizeitpark, der 1968 in Billund eröffnet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.125647,
+                        55.735888
+                  ]
+            },
+            {
+                  "name": "Atlantis",
+                  "text": "Ein großes Aquarium im Legoland Billund mit Meeresbewohnern und Lego-Modellen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.127769,
+                        55.734173
+                  ]
+            },
+            {
+                  "name": "Legorado scenen",
+                  "text": "Eine Bühne für Aufführungen im Western-Themenbereich von Legoland.",
+                  "category": "cultural",
+                  "coords": [
+                        9.1274,
+                        55.735283
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Art Museum",
+                  "text": "Ein Museum in Billund, das der Kunst und Geschichte von Teddybären gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.116993,
+                        55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Ein Abenteuer-Freizeitpark im Wald mit Baumwipfelpfaden und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dronning Amlets Høj",
+                  "text": "Történelmi sírhalom Billund közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.165999,
+                        55.738305
+                  ]
+            },
+            {
+                  "name": "Staghøi",
+                  "text": "Egy ősi sírhalom Billund környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.122197,
+                        55.718205
+                  ]
+            },
+            {
+                  "name": "Legoland",
+                  "text": "Az eredeti Legoland vidámpark, amely 1968-ban nyílt meg Billundban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.125647,
+                        55.735888
+                  ]
+            },
+            {
+                  "name": "Atlantis",
+                  "text": "Nagyméretű akvárium a billundi Legolandben tengeri élőlényekkel és Lego-modellekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.127769,
+                        55.734173
+                  ]
+            },
+            {
+                  "name": "Legorado scenen",
+                  "text": "Előadások helyszíne a Legoland vadnyugati témájú részlegében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.1274,
+                        55.735283
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Art Museum",
+                  "text": "A mackók művészetének és történetének szentelt múzeum Billundban.",
+                  "category": "museum",
+                  "coords": [
+                        9.116993,
+                        55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Erdei kalandpark lombkorona-ösvényekkel és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dronning Amlets Høj",
+                  "text": "O movilă funerară istorică situată lângă Billund.",
+                  "category": "historical",
+                  "coords": [
+                        9.165999,
+                        55.738305
+                  ]
+            },
+            {
+                  "name": "Staghøi",
+                  "text": "O veche movilă funerară în împrejurimile Billundului.",
+                  "category": "historical",
+                  "coords": [
+                        9.122197,
+                        55.718205
+                  ]
+            },
+            {
+                  "name": "Legoland",
+                  "text": "Parcul tematic original Legoland, deschis în 1968 în Billund.",
+                  "category": "recreational",
+                  "coords": [
+                        9.125647,
+                        55.735888
+                  ]
+            },
+            {
+                  "name": "Atlantis",
+                  "text": "Un acvariu mare în Legoland Billund, cu creaturi marine și modele Lego.",
+                  "category": "recreational",
+                  "coords": [
+                        9.127769,
+                        55.734173
+                  ]
+            },
+            {
+                  "name": "Legorado scenen",
+                  "text": "O scenă pentru spectacole în zona cu tematică western din Legoland.",
+                  "category": "cultural",
+                  "coords": [
+                        9.1274,
+                        55.735283
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Art Museum",
+                  "text": "Un muzeu în Billund dedicat artei și istoriei urșilor de pluș.",
+                  "category": "museum",
+                  "coords": [
+                        9.116993,
+                        55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "Un parc de aventură în pădure, cu trasee printre copaci și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dronning Amlets Høj",
+                  "text": "A historic burial mound located near Billund.",
+                  "category": "historical",
+                  "coords": [
+                        9.165999,
+                        55.738305
+                  ]
+            },
+            {
+                  "name": "Staghøi",
+                  "text": "An ancient burial mound in the vicinity of Billund.",
+                  "category": "historical",
+                  "coords": [
+                        9.122197,
+                        55.718205
+                  ]
+            },
+            {
+                  "name": "Legoland",
+                  "text": "The original Legoland theme park, which opened in Billund in 1968.",
+                  "category": "recreational",
+                  "coords": [
+                        9.125647,
+                        55.735888
+                  ]
+            },
+            {
+                  "name": "Atlantis",
+                  "text": "A large aquarium in Legoland Billund featuring marine life and Lego models.",
+                  "category": "recreational",
+                  "coords": [
+                        9.127769,
+                        55.734173
+                  ]
+            },
+            {
+                  "name": "Legorado Scene",
+                  "text": "A performance stage located in the Western-themed area of Legoland.",
+                  "category": "cultural",
+                  "coords": [
+                        9.1274,
+                        55.735283
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Art Museum",
+                  "text": "A museum in Billund dedicated to the art and history of teddy bears.",
+                  "category": "museum",
+                  "coords": [
+                        9.116993,
+                        55.731411
+                  ]
+            },
+            {
+                  "name": "WOW PARK Billund",
+                  "text": "An adventure theme park in the forest featuring treetop paths and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        9.142637,
+                        55.718172
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DK",
     name: { de: "Flughafen Billund", hu: "Billundi repülőtér", ro: "Aeroportul Billund", en: "Billund Airport" },
@@ -3342,7 +4161,268 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-aarhus-tech-hub-economic-v2.webp",
   },
   {
-    id: "denmark-odsherred-agri-economic-v2",
+    id: "denmark-odsherred-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Troldskindsbakken",
+                  "text": "Prähistorische archäologische Stätte in der Region Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.599488,
+                        55.85992
+                  ]
+            },
+            {
+                  "name": "Kræmmerstenen",
+                  "text": "Historische archäologische Stätte in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.599476,
+                        55.847048
+                  ]
+            },
+            {
+                  "name": "Partes Høj",
+                  "text": "Archäologische Stätte in der landwirtschaftlich geprägten Gegend von Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.678377,
+                        55.867964
+                  ]
+            },
+            {
+                  "name": "Femhøvene",
+                  "text": "Eine Gruppe historischer Grabhügel in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.589699,
+                        55.85553
+                  ]
+            },
+            {
+                  "name": "Kæmpegrav",
+                  "text": "Alte Grabstätte in der Region Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.653861,
+                        55.868489
+                  ]
+            },
+            {
+                  "name": "Udstilling Ulkerup Skovlandsby",
+                  "text": "Ausstellung über das ehemalige Walddorf Ulkerup.",
+                  "category": "museum",
+                  "coords": [
+                        11.657283,
+                        55.868207
+                  ]
+            },
+            {
+                  "name": "Teglværksegen",
+                  "text": "Eine markante historische Eiche in der Nähe des Ulkerup-Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651602,
+                        55.864042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Troldskindsbakken",
+                  "text": "Őskori régészeti lelőhely Odsherred területén.",
+                  "category": "historical",
+                  "coords": [
+                        11.599488,
+                        55.85992
+                  ]
+            },
+            {
+                  "name": "Kræmmerstenen",
+                  "text": "Történelmi régészeti lelőhely Odsherredben.",
+                  "category": "historical",
+                  "coords": [
+                        11.599476,
+                        55.847048
+                  ]
+            },
+            {
+                  "name": "Partes Høj",
+                  "text": "Régészeti lelőhely Odsherred mezőgazdasági vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        11.678377,
+                        55.867964
+                  ]
+            },
+            {
+                  "name": "Femhøvene",
+                  "text": "Történelmi sírhalmok csoportja Odsherredben.",
+                  "category": "historical",
+                  "coords": [
+                        11.589699,
+                        55.85553
+                  ]
+            },
+            {
+                  "name": "Kæmpegrav",
+                  "text": "Ősi temetkezési hely Odsherred régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        11.653861,
+                        55.868489
+                  ]
+            },
+            {
+                  "name": "Udstilling Ulkerup Skovlandsby",
+                  "text": "Kiállítás az egykori Ulkerup erdei faluról.",
+                  "category": "museum",
+                  "coords": [
+                        11.657283,
+                        55.868207
+                  ]
+            },
+            {
+                  "name": "Teglværksegen",
+                  "text": "Egy nevezetes történelmi tölgyfa az Ulkerup-erdő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651602,
+                        55.864042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Troldskindsbakken",
+                  "text": "Sit arheologic preistoric în regiunea Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.599488,
+                        55.85992
+                  ]
+            },
+            {
+                  "name": "Kræmmerstenen",
+                  "text": "Sit arheologic istoric în Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.599476,
+                        55.847048
+                  ]
+            },
+            {
+                  "name": "Partes Høj",
+                  "text": "Sit arheologic în zona agricolă Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.678377,
+                        55.867964
+                  ]
+            },
+            {
+                  "name": "Femhøvene",
+                  "text": "Un grup de movile funerare istorice în Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.589699,
+                        55.85553
+                  ]
+            },
+            {
+                  "name": "Kæmpegrav",
+                  "text": "Situl unui mormânt antic în regiunea Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.653861,
+                        55.868489
+                  ]
+            },
+            {
+                  "name": "Udstilling Ulkerup Skovlandsby",
+                  "text": "Expoziție despre fostul sat forestier Ulkerup.",
+                  "category": "museum",
+                  "coords": [
+                        11.657283,
+                        55.868207
+                  ]
+            },
+            {
+                  "name": "Teglværksegen",
+                  "text": "Un stejar istoric remarcabil lângă pădurea Ulkerup.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651602,
+                        55.864042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troldskindsbakken",
+                  "text": "Prehistoric archaeological site located in the Odsherred region.",
+                  "category": "historical",
+                  "coords": [
+                        11.599488,
+                        55.85992
+                  ]
+            },
+            {
+                  "name": "Kræmmerstenen",
+                  "text": "Historic archaeological site in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.599476,
+                        55.847048
+                  ]
+            },
+            {
+                  "name": "Partes Høj",
+                  "text": "Archaeological site in the Odsherred agricultural area.",
+                  "category": "historical",
+                  "coords": [
+                        11.678377,
+                        55.867964
+                  ]
+            },
+            {
+                  "name": "Femhøvene",
+                  "text": "A group of historic burial mounds in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.589699,
+                        55.85553
+                  ]
+            },
+            {
+                  "name": "Kæmpegrav",
+                  "text": "Ancient burial site in the Odsherred region.",
+                  "category": "historical",
+                  "coords": [
+                        11.653861,
+                        55.868489
+                  ]
+            },
+            {
+                  "name": "Udstilling Ulkerup Skovlandsby",
+                  "text": "Exhibition about the former forest village of Ulkerup.",
+                  "category": "museum",
+                  "coords": [
+                        11.657283,
+                        55.868207
+                  ]
+            },
+            {
+                  "name": "Teglværksegen",
+                  "text": "A prominent historic oak tree located near the Ulkerup forest.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651602,
+                        55.864042
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DK",
     name: { de: "Odsherred Landwirtschaft", hu: "Odsherred mezőgazdaság", ro: "Agricultura Odsherred", en: "Odsherred Agriculture" },
@@ -3477,7 +4557,304 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-svendborg-shipyard-economic-v2.webp",
   },
   {
-    id: "denmark-bornholm-power-economic-v2",
+    id: "denmark-bornholm-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Røser i Vestermarie plantage",
+                  "text": "Prähistorische Grabhügel in der Vestermarie-Plantage auf Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.850015,
+                        55.109118
+                  ]
+            },
+            {
+                  "name": "Rapshøi",
+                  "text": "Prähistorischer Grabhügel auf der Insel Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Hjorthøj",
+                  "text": "Alter Grabhügel auf Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.855177,
+                        55.10263
+                  ]
+            },
+            {
+                  "name": "Store Bjergegårdsbakken",
+                  "text": "Archäologische Fundstätte mit Grabhügeln auf Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.824904,
+                        55.118624
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Ruinen einer Wikingerburg im Almindingen-Wald auf Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Enesbjerg",
+                  "text": "Archäologische Ausgrabungsstätte auf der Insel Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.843087,
+                        55.111655
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arborétum und botanische Sammlung auf Bornholm.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Höchster Punkt Bornholms mit einem Aussichtsturm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Røser i Vestermarie plantage",
+                  "text": "Prehisztorikus halomsírok a bornholmi Vestermarie ültetvény területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.850015,
+                        55.109118
+                  ]
+            },
+            {
+                  "name": "Rapshøi",
+                  "text": "Prehisztorikus halomsír Bornholm szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Hjorthøj",
+                  "text": "Ősi halomsír Bornholm szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.855177,
+                        55.10263
+                  ]
+            },
+            {
+                  "name": "Store Bjergegårdsbakken",
+                  "text": "Régészeti lelőhely halomsírokkal Bornholm szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.824904,
+                        55.118624
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Viking kori erőd romjai a bornholmi Almindingen-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Enesbjerg",
+                  "text": "Régészeti lelőhely Bornholm szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.843087,
+                        55.111655
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arborétum és botanikai gyűjtemény Bornholm szigetén.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Bornholm legmagasabb pontja egy kilátótoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Røser i Vestermarie plantage",
+                  "text": "Tumuli preistorici în plantația Vestermarie de pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.850015,
+                        55.109118
+                  ]
+            },
+            {
+                  "name": "Rapshøi",
+                  "text": "Tumul preistoric pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Hjorthøj",
+                  "text": "Tumul străvechi pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.855177,
+                        55.10263
+                  ]
+            },
+            {
+                  "name": "Store Bjergegårdsbakken",
+                  "text": "Sit arheologic cu tumuli pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.824904,
+                        55.118624
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Ruinele unei cetăți din epoca vikingă în pădurea Almindingen de pe Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Enesbjerg",
+                  "text": "Sit arheologic pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.843087,
+                        55.111655
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arboretum și colecție botanică pe insula Bornholm.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Cel mai înalt punct de pe Bornholm, dotat cu un turn de observație.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Røser i Vestermarie plantage",
+                  "text": "Prehistoric burial mounds located in the Vestermarie plantation on Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.850015,
+                        55.109118
+                  ]
+            },
+            {
+                  "name": "Rapshøi",
+                  "text": "Prehistoric burial mound on the island of Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Hjorthøj",
+                  "text": "Ancient burial mound on Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.855177,
+                        55.10263
+                  ]
+            },
+            {
+                  "name": "Store Bjergegårdsbakken",
+                  "text": "Archaeological site featuring burial mounds on Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.824904,
+                        55.118624
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Ruins of a Viking Age fortress in the Almindingen forest on Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Enesbjerg",
+                  "text": "Archaeological site on the island of Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.843087,
+                        55.111655
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arboretum and botanical collection on Bornholm.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "The highest point on Bornholm, featuring a lookout tower.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DK",
     name: { de: "Bornholm Energiezentrum", hu: "Bornholmi energiaközpont", ro: "Centrul energetic Bornholm", en: "Bornholm Energy Hub" },

@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const lithuaniaLifeV2: POI[] = [
 
   {
-    id: "lithuania-aukstaitija-national-park-life-v2",
+    id: "lithuania-aukstaitija-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Ein antiker litauischer Burgberg mit archäologischer Bedeutung im Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Eine archäologische Stätte, die einen ehemaligen Burgberg im Aukštaitija-Nationalpark markiert.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Plaktukų muziejus",
+                  "text": "Ein ungewöhnliches Museum, das eine vielfältige Sammlung von Hämmern ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        25.953264,
+                        55.316365
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Ein Park und Zoo, der verschiedenen Vogelarten gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Überreste einer Siedlung aus der Steinzeit, die Einblicke in die frühe Geschichte geben.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Pabiržės senovės gyvenvietė",
+                  "text": "Eine archäologische Fundstätte einer antiken Siedlung in der Region Pabiržė.",
+                  "category": "historical",
+                  "coords": [
+                        26.030528,
+                        55.336502
+                  ]
+            },
+            {
+                  "name": "Ladakalnis",
+                  "text": "Ein berühmter Hügel im Nationalpark, der einen weiten Blick auf sechs umliegende Seen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.990572,
+                        55.366346
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Kaukiškė",
+                  "text": "Eine Aussichtsplattform, die weite Blicke über die Landschaft des Nationalparks ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        26.01441,
+                        55.339065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "Ősi litván várhegy régészeti jelentőséggel a nemzeti parkban.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Régészeti lelőhely, amely egy egykori várhalmot jelöl az Aukštaitija Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Plaktukų muziejus",
+                  "text": "Szokatlan múzeum, amely kalapácsok változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.953264,
+                        55.316365
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Különböző madárfajoknak szentelt park és állatkert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Kőkorszaki település maradványai, amelyek betekintést nyújtanak a korai történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Pabiržės senovės gyvenvietė",
+                  "text": "Ősi település régészeti lelőhelye Pabiržė régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        26.030528,
+                        55.336502
+                  ]
+            },
+            {
+                  "name": "Ladakalnis",
+                  "text": "Híres domb a nemzeti parkban, ahonnan kilátás nyílik hat környező tóra.",
+                  "category": "natural",
+                  "coords": [
+                        25.990572,
+                        55.366346
+                  ]
+            },
+            {
+                  "name": "Kaukiškės apžvalgos aikštelė",
+                  "text": "Kilátóterasz, ahonnan széles rálátás nyílik a nemzeti park tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        26.01441,
+                        55.339065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "O veche așezare fortificată lituaniană cu importanță arheologică în parcul național.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "Un sit arheologic care marchează o fostă așezare fortificată în Parcul Național Aukštaitija.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Plaktukų muziejus",
+                  "text": "Un muzeu neobișnuit care expune o colecție diversă de ciocane.",
+                  "category": "museum",
+                  "coords": [
+                        25.953264,
+                        55.316365
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "Un parc și grădină zoologică dedicată diverselor specii de păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Rămășițele unei așezări din epoca pietrei, oferind perspective asupra istoriei timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Pabiržės senovės gyvenvietė",
+                  "text": "Un sit arheologic al unei așezări antice din regiunea Pabiržė.",
+                  "category": "historical",
+                  "coords": [
+                        26.030528,
+                        55.336502
+                  ]
+            },
+            {
+                  "name": "Ladakalnis",
+                  "text": "Un deal faimos în parcul național care oferă o vedere asupra a șase lacuri învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        25.990572,
+                        55.366346
+                  ]
+            },
+            {
+                  "name": "Kaukiškės apžvalgos aikštelė",
+                  "text": "O platformă de observație care oferă vederi largi asupra peisajului parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        26.01441,
+                        55.339065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linkmenių piliakalnis",
+                  "text": "An ancient Lithuanian hillfort with archaeological significance in the national park.",
+                  "category": "historical",
+                  "coords": [
+                        25.967583,
+                        55.343444
+                  ]
+            },
+            {
+                  "name": "Puziniškio piliakalnis",
+                  "text": "An archaeological site marking a former hillfort in Aukštaitija National Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.013972,
+                        55.361111
+                  ]
+            },
+            {
+                  "name": "Plaktukų muziejus",
+                  "text": "An unusual museum displaying a diverse collection of hammers.",
+                  "category": "museum",
+                  "coords": [
+                        25.953264,
+                        55.316365
+                  ]
+            },
+            {
+                  "name": "Paukščių kaimas",
+                  "text": "A park and zoo dedicated to various bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        25.988435,
+                        55.324478
+                  ]
+            },
+            {
+                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
+                  "text": "Remains of a Stone Age settlement providing insights into early history.",
+                  "category": "historical",
+                  "coords": [
+                        25.983653,
+                        55.359847
+                  ]
+            },
+            {
+                  "name": "Pabiržės senovės gyvenvietė",
+                  "text": "An archaeological site of an ancient settlement in the Pabiržė region.",
+                  "category": "historical",
+                  "coords": [
+                        26.030528,
+                        55.336502
+                  ]
+            },
+            {
+                  "name": "Ladakalnis",
+                  "text": "A famous hill in the national park offering views of six surrounding lakes.",
+                  "category": "natural",
+                  "coords": [
+                        25.990572,
+                        55.366346
+                  ]
+            },
+            {
+                  "name": "Kaukiškės apžvalgos aikštelė",
+                  "text": "A viewing platform providing broad views over the national park landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.01441,
+                        55.339065
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Aukštaitija Nationalpark", hu: "Aukštaitija Nemzeti Park", ro: "Parcul Național Aukštaitija", en: "Aukštaitija National Park"},
@@ -49,7 +346,268 @@ imageHint: "Aukštaitija National Park lake and forest",
     },
     image: "/poi-images/lithuania-aukstaitija-national-park-life-v2.webp",
 },  {
-    id: "lithuania-dzukija-national-park-life-v2",
+    id: "lithuania-dzukija-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muziejus Čepkelių valstybiniame gamtiniame rezervate",
+                  "text": "Museum im staatlichen Naturreservat Čepkeliai im Nationalpark Dzūkija.",
+                  "category": "museum",
+                  "coords": [
+                        24.404612,
+                        54.046165
+                  ]
+            },
+            {
+                  "name": "Dzūkijos nacionalinio parko etnografinė sodyba-muziejus",
+                  "text": "Ein ethnografisches Museum in einem traditionellen Gehöft im Nationalpark Dzūkija.",
+                  "category": "museum",
+                  "coords": [
+                        24.407939,
+                        54.054363
+                  ]
+            },
+            {
+                  "name": "Dziackagirio gamtinis pažintinis takas",
+                  "text": "Ein Naturlehrpfad im Nationalpark Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399168,
+                        54.060982
+                  ]
+            },
+            {
+                  "name": "Šaudzyklos kalnas",
+                  "text": "Ein Aussichtspunkt im Nationalpark Dzūkija.",
+                  "category": "natural",
+                  "coords": [
+                        24.377271,
+                        54.063056
+                  ]
+            },
+            {
+                  "name": "Dravės",
+                  "text": "Traditionelle Bienenstöcke in Baumhöhlen im Nationalpark Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.373873,
+                        54.063391
+                  ]
+            },
+            {
+                  "name": "Kepimo pamokos",
+                  "text": "Backkurse als touristische Attraktion im Nationalpark Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.387851,
+                        54.062826
+                  ]
+            },
+            {
+                  "name": "Dravė",
+                  "text": "Eine Sehenswürdigkeit zur traditionellen Waldbienenzucht im Nationalpark Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.388396,
+                        54.072434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muziejus Čepkelių valstybiniame gamtiniame rezervate",
+                  "text": "Múzeum a Dzūkija Nemzeti Park Čepkeliai természetvédelmi területén.",
+                  "category": "museum",
+                  "coords": [
+                        24.404612,
+                        54.046165
+                  ]
+            },
+            {
+                  "name": "Dzūkijos nacionalinio parko etnografinė sodyba-muziejus",
+                  "text": "Néprajzi múzeum egy hagyományos tanyán a Dzūkija Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        24.407939,
+                        54.054363
+                  ]
+            },
+            {
+                  "name": "Dziackagirio gamtinis pažintinis takas",
+                  "text": "Természeti tanösvény a Dzūkija Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399168,
+                        54.060982
+                  ]
+            },
+            {
+                  "name": "Šaudzyklos kalnas",
+                  "text": "Kilátópont a Dzūkija Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        24.377271,
+                        54.063056
+                  ]
+            },
+            {
+                  "name": "Dravės",
+                  "text": "Hagyományos odvasfa-méhészet a Dzūkija Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.373873,
+                        54.063391
+                  ]
+            },
+            {
+                  "name": "Kepimo pamokos",
+                  "text": "Sütési tanfolyamok mint turisztikai látványosság a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.387851,
+                        54.062826
+                  ]
+            },
+            {
+                  "name": "Dravė",
+                  "text": "A hagyományos erdei méhészetet bemutató látnivaló a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.388396,
+                        54.072434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muziejus Čepkelių valstybiniame gamtiniame rezervate",
+                  "text": "Muzeu în Rezervația Naturală de Stat Čepkeliai din Parcul Național Dzūkija.",
+                  "category": "museum",
+                  "coords": [
+                        24.404612,
+                        54.046165
+                  ]
+            },
+            {
+                  "name": "Dzūkijos nacionalinio parko etnografinė sodyba-muziejus",
+                  "text": "Muzeu etnografic într-o gospodărie tradițională din Parcul Național Dzūkija.",
+                  "category": "museum",
+                  "coords": [
+                        24.407939,
+                        54.054363
+                  ]
+            },
+            {
+                  "name": "Dziackagirio gamtinis pažintinis takas",
+                  "text": "Un traseu educativ natural în Parcul Național Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399168,
+                        54.060982
+                  ]
+            },
+            {
+                  "name": "Šaudzyklos kalnas",
+                  "text": "Un punct de belvedere în Parcul Național Dzūkija.",
+                  "category": "natural",
+                  "coords": [
+                        24.377271,
+                        54.063056
+                  ]
+            },
+            {
+                  "name": "Dravės",
+                  "text": "Scorburi tradiționale pentru apicultură în Parcul Național Dzūkija.",
+                  "category": "landmark",
+                  "coords": [
+                        24.373873,
+                        54.063391
+                  ]
+            },
+            {
+                  "name": "Kepimo pamokos",
+                  "text": "Lecții de copt ca atracție turistică în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        24.387851,
+                        54.062826
+                  ]
+            },
+            {
+                  "name": "Dravė",
+                  "text": "O atracție despre apicultura tradițională în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        24.388396,
+                        54.072434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muziejus Čepkelių valstybiniame gamtiniame rezervate",
+                  "text": "A museum in the Čepkeliai State Nature Reserve in Dzūkija National Park.",
+                  "category": "museum",
+                  "coords": [
+                        24.404612,
+                        54.046165
+                  ]
+            },
+            {
+                  "name": "Dzūkijos nacionalinio parko etnografinė sodyba-muziejus",
+                  "text": "An ethnographic museum in a traditional homestead in Dzūkija National Park.",
+                  "category": "museum",
+                  "coords": [
+                        24.407939,
+                        54.054363
+                  ]
+            },
+            {
+                  "name": "Dziackagirio gamtinis pažintinis takas",
+                  "text": "A nature educational trail in Dzūkija National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.399168,
+                        54.060982
+                  ]
+            },
+            {
+                  "name": "Shooting-range mountain",
+                  "text": "A viewpoint in the Dzūkija National Park.",
+                  "category": "natural",
+                  "coords": [
+                        24.377271,
+                        54.063056
+                  ]
+            },
+            {
+                  "name": "Dravės",
+                  "text": "Traditional tree hollows for beekeeping in Dzūkija National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.373873,
+                        54.063391
+                  ]
+            },
+            {
+                  "name": "Kepimo pamokos",
+                  "text": "Baking lessons as a tourist attraction in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.387851,
+                        54.062826
+                  ]
+            },
+            {
+                  "name": "Dravė",
+                  "text": "An attraction featuring traditional forest beekeeping in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.388396,
+                        54.072434
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Dzūkija Nationalpark", hu: "Dzūkija Nemzeti Park", ro: "Parcul Național Dzūkija", en: "Dzūkija National Park"},
@@ -95,7 +653,232 @@ imageHint: "Dzūkija National Park pine forest and river",
     },
     image: "/poi-images/lithuania-dzukija-national-park-life-v2.webp",
 },  {
-    id: "lithuania-zemaitija-national-park-life-v2",
+    id: "lithuania-zemaitija-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Užpelkių piliakalnis",
+                  "text": "Ein alter Burgberg im Nationalpark Žemaitija, der Zeugnis von früherer Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        21.823556,
+                        56.071306
+                  ]
+            },
+            {
+                  "name": "Die Scheune des Platelia-Herrenhauses",
+                  "text": "Ein Museum in einem ehemaligen Speichergebäude des Gutshofs von Plateliai.",
+                  "category": "museum",
+                  "coords": [
+                        21.814317,
+                        56.03825
+                  ]
+            },
+            {
+                  "name": "Paplatelės tako apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm am Paplatelė-Pfad mit Blick auf die umliegenden Wälder und Seen.",
+                  "category": "natural",
+                  "coords": [
+                        21.895352,
+                        56.045571
+                  ]
+            },
+            {
+                  "name": "Platelių ežero apžvalgos aikštelė",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Plateliai-See im Nationalpark Žemaitija bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.82827,
+                        56.046954
+                  ]
+            },
+            {
+                  "name": "Siberijos (Cidabro kalno) apžvalgos bokštas",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Cidabras-Hügel mit Panorama über das Sėleniai-Feuchtgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        21.814455,
+                        56.030468
+                  ]
+            },
+            {
+                  "name": "Šeirės gamtos takas",
+                  "text": "Ein Naturlehrpfad im Nationalpark Žemaitija, der durch abwechslungsreiche Landschaften führt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.8273,
+                        56.0484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Užpelkių piliakalnis",
+                  "text": "Ősi várhely a Žemaitija Nemzeti Parkban, amely a korai betelepülés nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        21.823556,
+                        56.071306
+                  ]
+            },
+            {
+                  "name": "Platelių dvaro svirnas",
+                  "text": "A plateliai udvarház egykori magtárában kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.814317,
+                        56.03825
+                  ]
+            },
+            {
+                  "name": "Paplatelės tako apžvalgos bokštas",
+                  "text": "Kilátótorony a Paplatelė-ösvény mentén, kilátással a környező erdőkre és tavakra.",
+                  "category": "natural",
+                  "coords": [
+                        21.895352,
+                        56.045571
+                  ]
+            },
+            {
+                  "name": "Platelių ežero apžvalgos aikštelė",
+                  "text": "Kilátóhely, ahonnan szép kilátás nyílik a Žemaitija Nemzeti Parkban található Plateliai-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        21.82827,
+                        56.046954
+                  ]
+            },
+            {
+                  "name": "Siberijos (Cidabro kalno) apžvalgos bokštas",
+                  "text": "Fából készült kilátótorony a Cidabras-dombon, panorámával a Sėleniai-lápvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        21.814455,
+                        56.030468
+                  ]
+            },
+            {
+                  "name": "Šeirės gamtos takas",
+                  "text": "Tanösvény a Žemaitija Nemzeti Parkban, amely változatos tájakon vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        21.8273,
+                        56.0484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Užpelkių piliakalnis",
+                  "text": "Un vechi sit de cetate în Parcul Național Žemaitija, care atestă așezările timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        21.823556,
+                        56.071306
+                  ]
+            },
+            {
+                  "name": "Platelių dvaro svirnas",
+                  "text": "Un muzeu amenajat în fosta magazie de cereale a conacului din Plateliai.",
+                  "category": "museum",
+                  "coords": [
+                        21.814317,
+                        56.03825
+                  ]
+            },
+            {
+                  "name": "Paplatelės tako apžvalgos bokštas",
+                  "text": "Turn de observare pe traseul Paplatelė, oferind vederi asupra pădurilor și lacurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        21.895352,
+                        56.045571
+                  ]
+            },
+            {
+                  "name": "Platelių ežero apžvalgos aikštelė",
+                  "text": "Punct de belvedere care oferă o panoramă asupra lacului Plateliai din Parcul Național Žemaitija.",
+                  "category": "natural",
+                  "coords": [
+                        21.82827,
+                        56.046954
+                  ]
+            },
+            {
+                  "name": "Siberijos (Cidabro kalno) apžvalgos bokštas",
+                  "text": "Un turn de observare din lemn pe dealul Cidabras, cu panoramă asupra zonelor umede Sėleniai.",
+                  "category": "natural",
+                  "coords": [
+                        21.814455,
+                        56.030468
+                  ]
+            },
+            {
+                  "name": "Šeirės gamtos takas",
+                  "text": "Un traseu tematic natural în Parcul Național Žemaitija, care trece prin peisaje variate.",
+                  "category": "landmark",
+                  "coords": [
+                        21.8273,
+                        56.0484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Užpelkių piliakalnis",
+                  "text": "An ancient hillfort in Žemaitija National Park, testifying to early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        21.823556,
+                        56.071306
+                  ]
+            },
+            {
+                  "name": "Platelių dvaro svirnas",
+                  "text": "A museum housed in a former granary of the Plateliai manor.",
+                  "category": "museum",
+                  "coords": [
+                        21.814317,
+                        56.03825
+                  ]
+            },
+            {
+                  "name": "Paplatelės tako apžvalgos bokštas",
+                  "text": "An observation tower on the Paplatelė trail with views of the surrounding forests and lakes.",
+                  "category": "natural",
+                  "coords": [
+                        21.895352,
+                        56.045571
+                  ]
+            },
+            {
+                  "name": "Platelių ežero apžvalgos aikštelė",
+                  "text": "A viewpoint offering a wide view over Lake Plateliai in Žemaitija National Park.",
+                  "category": "natural",
+                  "coords": [
+                        21.82827,
+                        56.046954
+                  ]
+            },
+            {
+                  "name": "Siberijos (Cidabro kalno) apžvalgos bokštas",
+                  "text": "A wooden observation tower on Cidabras Hill with a panorama over the Sėleniai wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        21.814455,
+                        56.030468
+                  ]
+            },
+            {
+                  "name": "Šeirės gamtos takas",
+                  "text": "A nature trail in Žemaitija National Park that passes through diverse landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        21.8273,
+                        56.0484
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Žemaitija Nationalpark", hu: "Žemaitija Nemzeti Park", ro: "Parcul Național Žemaitija", en: "Žemaitija National Park"},
@@ -187,7 +970,88 @@ imageHint: "Trakai lakes and nature landscape",
     },
     image: "/poi-images/lithuania-trakai-historical-national-park-life-v2.webp",
 },  {
-    id: "lithuania-cepkeliai-nature-reserve-life-v2",
+    id: "lithuania-cepkeliai-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drevinės bitininkystės takas",
+                  "text": "Ein spezialisierter Lehrpfad, der die traditionelle Zeidlerei zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.4367,
+                        53.9627
+                  ]
+            },
+            {
+                  "name": "Miško drevė",
+                  "text": "Ein traditioneller Wald-Bienenstock, der in der alten Bienenzucht verwendet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        24.44675,
+                        53.965225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drevinės bitininkystės takas",
+                  "text": "Hagyományos odvasfás méhészetet bemutató tanösvény.",
+                  "category": "landmark",
+                  "coords": [
+                        24.4367,
+                        53.9627
+                  ]
+            },
+            {
+                  "name": "Miško drevė",
+                  "text": "Hagyományos erdei méhkas, amelyet az ősi méhészetben használtak a rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.44675,
+                        53.965225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drevinės bitininkystės takas",
+                  "text": "Un traseu specializat care prezintă practicile tradiționale de apicultură în scorburi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.4367,
+                        53.9627
+                  ]
+            },
+            {
+                  "name": "Miško drevė",
+                  "text": "Un stup forestier tradițional folosit în apicultura veche din cadrul rezervației.",
+                  "category": "landmark",
+                  "coords": [
+                        24.44675,
+                        53.965225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drevinės bitininkystės takas",
+                  "text": "A specialized trail showcasing traditional tree-hollow beekeeping practices.",
+                  "category": "landmark",
+                  "coords": [
+                        24.4367,
+                        53.9627
+                  ]
+            },
+            {
+                  "name": "Forest beehive",
+                  "text": "A traditional forest hive used in ancient beekeeping within the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        24.44675,
+                        53.965225
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "wildlife",
     name: { de: "Naturreservat Čepkeliai", hu: "Čepkeliai Természetvédelmi Terület", ro: "Rezervația Naturală Čepkeliai", en: "Čepkeliai Nature Reserve"},
@@ -279,7 +1143,52 @@ imageHint: "Žuvintas lake and wetlands birds",
     },
     image: "/poi-images/lithuania-zhuvintas-biosphere-reserve-life-v2.webp",
 },  {
-    id: "lithuania-kamanos-nature-reserve-life-v2",
+    id: "lithuania-kamanos-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamanų apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm im Kamanos-Naturschutzgebiet mit Blick über die Moorlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.65186,
+                        56.313176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamanų apžvalgos bokštas",
+                  "text": "Kilátótorony a Kamanos természetvédelmi területen, ahonnan kilátás nyílik a mocsaras vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        22.65186,
+                        56.313176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamanų apžvalgos bokštas",
+                  "text": "Un turn de observare în Rezervația Naturală Kamanos, care oferă vedere asupra zonelor umede.",
+                  "category": "natural",
+                  "coords": [
+                        22.65186,
+                        56.313176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamanų apžvalgos bokštas",
+                  "text": "An observation tower in the Kamanos Nature Reserve providing views over the wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        22.65186,
+                        56.313176
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "wildlife",
     name: { de: "Naturreservat Kamanos", hu: "Kamanos Természetvédelmi Terület", ro: "Rezervația Naturală Kamanos", en: "Kamanos Nature Reserve"},
@@ -371,7 +1280,124 @@ imageHint: "Viešvilė river in forest",
     },
     image: "/poi-images/lithuania-viesvile-nature-reserve-life-v2.webp",
 },  {
-    id: "lithuania-vente-cape-ornithological-station-life-v2",
+    id: "lithuania-vente-cape-ornithological-station-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paukščių migracijos muziejus",
+                  "text": "Ein Museum über den Vogelzug an der Ornithologischen Station Ventė Cape.",
+                  "category": "museum",
+                  "coords": [
+                        21.190195,
+                        55.342504
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Windenburger Eck",
+                  "text": "Ein historischer Leuchtturm am Kap Ventė, der die Schifffahrt im Kurischen Haff unterstützt.",
+                  "category": "natural",
+                  "coords": [
+                        21.189884,
+                        55.340937
+                  ]
+            },
+            {
+                  "name": "Bokštelis su vaizdu į Kuršių marias",
+                  "text": "Ein kleiner Aussichtsturm mit weitem Blick über die Gewässer des Kurischen Haffs.",
+                  "category": "natural",
+                  "coords": [
+                        21.192663,
+                        55.344721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paukščių migracijos muziejus",
+                  "text": "A madárvonulásnak szentelt múzeum a Ventė-foki ornitológiai állomáson.",
+                  "category": "museum",
+                  "coords": [
+                        21.190195,
+                        55.342504
+                  ]
+            },
+            {
+                  "name": "Ventės rago švyturys",
+                  "text": "Történelmi világítótorony a Ventė-fokon, amely a Kur-öböl hajózását segíti.",
+                  "category": "natural",
+                  "coords": [
+                        21.189884,
+                        55.340937
+                  ]
+            },
+            {
+                  "name": "Bokštelis su vaizdu į Kuršių marias",
+                  "text": "Kilátótorony, ahonnan tágas kilátás nyílik a Kur-öböl vizére.",
+                  "category": "natural",
+                  "coords": [
+                        21.192663,
+                        55.344721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paukščių migracijos muziejus",
+                  "text": "Un muzeu dedicat migrației păsărilor, situat la Stația Ornitologică de la Capul Ventė.",
+                  "category": "museum",
+                  "coords": [
+                        21.190195,
+                        55.342504
+                  ]
+            },
+            {
+                  "name": "Ventės rago švyturys",
+                  "text": "Un far istoric la Capul Ventė, care sprijină navigația în Laguna Curoniană.",
+                  "category": "natural",
+                  "coords": [
+                        21.189884,
+                        55.340937
+                  ]
+            },
+            {
+                  "name": "Bokštelis su vaizdu į Kuršių marias",
+                  "text": "Un turn de observare cu o vedere largă asupra apelor Lagunei Curoniene.",
+                  "category": "natural",
+                  "coords": [
+                        21.192663,
+                        55.344721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paukščių migracijos muziejus",
+                  "text": "A museum dedicated to bird migration located at the Ventė Cape Ornithological Station.",
+                  "category": "museum",
+                  "coords": [
+                        21.190195,
+                        55.342504
+                  ]
+            },
+            {
+                  "name": "Ventės rago švyturys",
+                  "text": "A historic lighthouse at Ventė Cape that supports navigation in the Curonian Lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        21.189884,
+                        55.340937
+                  ]
+            },
+            {
+                  "name": "Bokštelis su vaizdu į Kuršių marias",
+                  "text": "A small observation tower with a wide view over the waters of the Curonian Lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        21.192663,
+                        55.344721
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "wildlife",
     name: { de: "Vogelwarte Ventė", hu: "Ventė-fok Madártani Állomás", ro: "Stația Ornitologică Capul Ventė", en: "Ventė Cape Ornithological Station"},
@@ -600,7 +1626,160 @@ imageHint: "Kaunas Botanical Garden greenhouse",
     },
     image: "/poi-images/lithuania-kaunas-botanical-garden-life-v2.webp",
 },  {
-    id: "lithuania-labanoras-regional-park-life-v2",
+    id: "lithuania-labanoras-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Labanoro pilkapynas",
+                  "text": "Ein antikes Hügelgrabfeld im Regionalpark Labanoras.",
+                  "category": "historical",
+                  "coords": [
+                        25.812864,
+                        55.264471
+                  ]
+            },
+            {
+                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
+                  "text": "Ein historischer Ort, der an die Partisanenaktivitäten in Labanoras erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.73458,
+                        55.28247
+                  ]
+            },
+            {
+                  "name": "Labanoro pažintinis takas",
+                  "text": "Ein Lehrpfad, der durch die Natur des Regionalparks Labanoras führt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.821196,
+                        55.263664
+                  ]
+            },
+            {
+                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
+                  "text": "Eine historische Holzkirche im Regionalpark Labanoras in Litauen.",
+                  "category": "religious",
+                  "coords": [
+                        25.774737,
+                        55.266124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Labanoro pilkapynas",
+                  "text": "Ősi halomsíros temetkezési hely a Labanoras Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        25.812864,
+                        55.264471
+                  ]
+            },
+            {
+                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
+                  "text": "A labanorasi partizántevékenységnek emléket állító történelmi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        25.73458,
+                        55.28247
+                  ]
+            },
+            {
+                  "name": "Labanoro pažintinis takas",
+                  "text": "Tanösvény, amely a Labanoras Regionális Park természetén vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        25.821196,
+                        55.263664
+                  ]
+            },
+            {
+                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
+                  "text": "Történelmi fatemplom a litvániai Labanoras Regionális Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        25.774737,
+                        55.266124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Labanoro pilkapynas",
+                  "text": "Un vechi sit de movile funerare în Parcul Regional Labanoras.",
+                  "category": "historical",
+                  "coords": [
+                        25.812864,
+                        55.264471
+                  ]
+            },
+            {
+                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
+                  "text": "Un loc istoric ce comemorează activitatea partizanilor din Labanoras.",
+                  "category": "landmark",
+                  "coords": [
+                        25.73458,
+                        55.28247
+                  ]
+            },
+            {
+                  "name": "Labanoro pažintinis takas",
+                  "text": "Un traseu educativ care traversează natura Parcului Regional Labanoras.",
+                  "category": "landmark",
+                  "coords": [
+                        25.821196,
+                        55.263664
+                  ]
+            },
+            {
+                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
+                  "text": "O biserică istorică din lemn din Parcul Regional Labanoras, Lituania.",
+                  "category": "religious",
+                  "coords": [
+                        25.774737,
+                        55.266124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Labanoro pilkapynas",
+                  "text": "An ancient tumulus burial site in the Labanoras Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        25.812864,
+                        55.264471
+                  ]
+            },
+            {
+                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
+                  "text": "A historical site commemorating partisan activities in Labanoras.",
+                  "category": "landmark",
+                  "coords": [
+                        25.73458,
+                        55.28247
+                  ]
+            },
+            {
+                  "name": "Labanoro pažintinis takas",
+                  "text": "An educational trail leading through the nature of Labanoras Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        25.821196,
+                        55.263664
+                  ]
+            },
+            {
+                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
+                  "text": "A historic wooden church in the Labanoras Regional Park, Lithuania.",
+                  "category": "religious",
+                  "coords": [
+                        25.774737,
+                        55.266124
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Labanoras", hu: "Labanoras Regionális Park", ro: "Parcul Regional Labanoras", en: "Labanoras Regional Park"},
@@ -738,7 +1917,304 @@ imageHint: "Biržai karst sinkhole landscape",
     },
     image: "/poi-images/lithuania-birzai-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-neris-regional-park-life-v2",
+    id: "lithuania-neris-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bradeliškių piliakalnis",
+                  "text": "Eine antike Wallburg innerhalb des Neris-Regionalparks.",
+                  "category": "historical",
+                  "coords": [
+                        24.943151,
+                        54.825169
+                  ]
+            },
+            {
+                  "name": "Buivydų piliakalnis",
+                  "text": "Archäologische Stätte einer ehemaligen Wallburg über dem Neris-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        24.940434,
+                        54.822354
+                  ]
+            },
+            {
+                  "name": "Karmazinų piliakalnis",
+                  "text": "Eine der prähistorischen Wallburgen im Neris-Regionalpark.",
+                  "category": "historical",
+                  "coords": [
+                        24.931139,
+                        54.819278
+                  ]
+            },
+            {
+                  "name": "Karageliškių piliakalnis",
+                  "text": "Überreste einer antiken baltischen Wallburg in der Neris-Region.",
+                  "category": "historical",
+                  "coords": [
+                        24.949586,
+                        54.787997
+                  ]
+            },
+            {
+                  "name": "Karmazinų pilkapynas",
+                  "text": "Antike Grabstättenhügel aus der späten Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        24.966505,
+                        54.811714
+                  ]
+            },
+            {
+                  "name": "Ąžuolų karalienė",
+                  "text": "Eine massive, jahrhundertealte Eiche, die als Naturdenkmal geschützt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004534,
+                        54.809844
+                  ]
+            },
+            {
+                  "name": "Dūkštų ąžuolyno pažintinis takas",
+                  "text": "Ein Wanderweg durch einen alten Eichenwald im Regionalpark Neris.",
+                  "category": "landmark",
+                  "coords": [
+                        24.951043,
+                        54.833361
+                  ]
+            },
+            {
+                  "name": "Airėnų akmuo su ženklais",
+                  "text": "Ein historischer Stein mit geheimnisvollen Symbolen im Regionalpark Neris.",
+                  "category": "landmark",
+                  "coords": [
+                        24.950046,
+                        54.834938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bradeliškių piliakalnis",
+                  "text": "Ősi várhelyszín a Neris Regionális Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.943151,
+                        54.825169
+                  ]
+            },
+            {
+                  "name": "Buivydų piliakalnis",
+                  "text": "Egy egykori földvár régészeti lelőhelye a Neris-völgy felett.",
+                  "category": "historical",
+                  "coords": [
+                        24.940434,
+                        54.822354
+                  ]
+            },
+            {
+                  "name": "Karmazinų piliakalnis",
+                  "text": "A Neris Regionális Park egyik őskori földvára.",
+                  "category": "historical",
+                  "coords": [
+                        24.931139,
+                        54.819278
+                  ]
+            },
+            {
+                  "name": "Karageliškių piliakalnis",
+                  "text": "Egy ősi balti földvár maradványai a Neris-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        24.949586,
+                        54.787997
+                  ]
+            },
+            {
+                  "name": "Karmazinų pilkapynas",
+                  "text": "Ősi halomsíros temető a késő vaskorból.",
+                  "category": "historical",
+                  "coords": [
+                        24.966505,
+                        54.811714
+                  ]
+            },
+            {
+                  "name": "Ąžuolų karalienė",
+                  "text": "Hatalmas, évszázados tölgyfa, amelyet természeti emlékként védenek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004534,
+                        54.809844
+                  ]
+            },
+            {
+                  "name": "Dūkštų ąžuolyno pažintinis takas",
+                  "text": "Tanösvény egy öreg tölgyerdőben a Neris Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.951043,
+                        54.833361
+                  ]
+            },
+            {
+                  "name": "Airėnų akmuo su ženklais",
+                  "text": "Történelmi kő titokzatos jelekkel a Neris Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.950046,
+                        54.834938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bradeliškių piliakalnis",
+                  "text": "Un sit de cetate antică situat în Parcul Regional Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.943151,
+                        54.825169
+                  ]
+            },
+            {
+                  "name": "Buivydų piliakalnis",
+                  "text": "Sit arheologic al unei foste cetăți care domină valea Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.940434,
+                        54.822354
+                  ]
+            },
+            {
+                  "name": "Karmazinų piliakalnis",
+                  "text": "Una dintre cetățile preistorice din Parcul Regional Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.931139,
+                        54.819278
+                  ]
+            },
+            {
+                  "name": "Karageliškių piliakalnis",
+                  "text": "Rămășițele unei cetăți antice baltice în regiunea Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.949586,
+                        54.787997
+                  ]
+            },
+            {
+                  "name": "Karmazinų pilkapynas",
+                  "text": "Sit cu tumuli funerari antici datând din epoca târzie a fierului.",
+                  "category": "historical",
+                  "coords": [
+                        24.966505,
+                        54.811714
+                  ]
+            },
+            {
+                  "name": "Ąžuolų karalienė",
+                  "text": "Un stejar masiv, vechi de secole, protejat ca monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004534,
+                        54.809844
+                  ]
+            },
+            {
+                  "name": "Dūkštų ąžuolyno pažintinis takas",
+                  "text": "Un traseu tematic printr-o pădure veche de stejari în Parcul Regional Neris.",
+                  "category": "landmark",
+                  "coords": [
+                        24.951043,
+                        54.833361
+                  ]
+            },
+            {
+                  "name": "Airėnų akmuo su ženklais",
+                  "text": "O piatră istorică cu simboluri misterioase în Parcul Regional Neris.",
+                  "category": "landmark",
+                  "coords": [
+                        24.950046,
+                        54.834938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bradeliškių piliakalnis",
+                  "text": "An ancient hillfort site located within the Neris Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        24.943151,
+                        54.825169
+                  ]
+            },
+            {
+                  "name": "Buivydų piliakalnis",
+                  "text": "Archaeological site of a former hillfort overlooking the Neris valley.",
+                  "category": "historical",
+                  "coords": [
+                        24.940434,
+                        54.822354
+                  ]
+            },
+            {
+                  "name": "Karmazinų piliakalnis",
+                  "text": "One of the prehistoric hillforts in the Neris Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        24.931139,
+                        54.819278
+                  ]
+            },
+            {
+                  "name": "Karageliškių piliakalnis",
+                  "text": "Remains of an ancient Baltic hillfort in the Neris region.",
+                  "category": "historical",
+                  "coords": [
+                        24.949586,
+                        54.787997
+                  ]
+            },
+            {
+                  "name": "Karmazinų pilkapynas",
+                  "text": "An ancient burial mound site dating back to the late Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        24.966505,
+                        54.811714
+                  ]
+            },
+            {
+                  "name": "Ąžuolų karalienė",
+                  "text": "A massive, centuries-old oak tree protected as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004534,
+                        54.809844
+                  ]
+            },
+            {
+                  "name": "The oak-wood of Dūkštos cognitive walkway",
+                  "text": "A cognitive walkway through an old oak forest in the Neris Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.951043,
+                        54.833361
+                  ]
+            },
+            {
+                  "name": "Airėnų akmuo su ženklais",
+                  "text": "A historical stone with mysterious markings in the Neris Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.950046,
+                        54.834938
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Neris", hu: "Neris Regionális Park", ro: "Parcul Regional Neris", en: "Neris Regional Park"},
@@ -784,7 +2260,88 @@ imageHint: "Neris River valley and oak forest",
     },
     image: "/poi-images/lithuania-neris-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-grazute-regional-park-life-v2",
+    id: "lithuania-grazute-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samaukos pilkapynas",
+                  "text": "Eine archäologische Ausgrabungsstätte in Form eines Grabhügels im Regionalpark Gražutė.",
+                  "category": "historical",
+                  "coords": [
+                        26.15094,
+                        55.632419
+                  ]
+            },
+            {
+                  "name": "Eglės sesės",
+                  "text": "Eine Naturattraktion im Regionalpark Gražutė, bestehend aus zwei zusammengewachsenen Fichten.",
+                  "category": "landmark",
+                  "coords": [
+                        26.111731,
+                        55.646934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samaukos pilkapynas",
+                  "text": "Egy halomsír típusú régészeti lelőhely a Gražutė Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.15094,
+                        55.632419
+                  ]
+            },
+            {
+                  "name": "Eglės sesės",
+                  "text": "Természeti látnivaló a Gražutė Regionális Parkban, amely két összenőtt lucfenyőből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        26.111731,
+                        55.646934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samaukos pilkapynas",
+                  "text": "Un sit arheologic sub formă de tumul situat în Parcul Regional Gražutė.",
+                  "category": "historical",
+                  "coords": [
+                        26.15094,
+                        55.632419
+                  ]
+            },
+            {
+                  "name": "Eglės sesės",
+                  "text": "O atracție naturală în Parcul Regional Gražutė, formată din doi molizi îngemănați.",
+                  "category": "landmark",
+                  "coords": [
+                        26.111731,
+                        55.646934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samauka tumulus",
+                  "text": "An archaeological site consisting of a burial mound in Gražutė Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.15094,
+                        55.632419
+                  ]
+            },
+            {
+                  "name": "Eglės sesės",
+                  "text": "A natural attraction in Gražutė Regional Park consisting of two fused spruce trees.",
+                  "category": "landmark",
+                  "coords": [
+                        26.111731,
+                        55.646934
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Gražutė", hu: "Gražutė Regionális Park", ro: "Parcul Regional Gražutė", en: "Gražutė Regional Park"},
@@ -1013,7 +2570,304 @@ imageHint: "Verkiai Green Lakes landscape",
     },
     image: "/poi-images/lithuania-verkiu-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-sartai-regional-park-life-v2",
+    id: "lithuania-sartai-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliukiškių I piliakalnis",
+                  "text": "Ein alter litauischer Burgberg, der als bedeutende archäologische Stätte in der Region gilt.",
+                  "category": "historical",
+                  "coords": [
+                        25.847528,
+                        55.833611
+                  ]
+            },
+            {
+                  "name": "Pakačinių piliakalnis",
+                  "text": "Ein historischer Siedlungshügel und eine archäologische Stätte im Sartai-Regionalpark.",
+                  "category": "historical",
+                  "coords": [
+                        25.885194,
+                        55.813417
+                  ]
+            },
+            {
+                  "name": "Velikuškių II piliakalnis",
+                  "text": "Eine weitere archäologisch bedeutsame Wallburg in der malerischen Umgebung des Sartai-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        25.868056,
+                        55.827194
+                  ]
+            },
+            {
+                  "name": "Bradesių ąžuolas",
+                  "text": "Eine beeindruckende alte Eiche, die als Naturdenkmal im Sartai-Regionalpark geschützt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.877468,
+                        55.831608
+                  ]
+            },
+            {
+                  "name": "Ilgašilio pažintinis takas",
+                  "text": "Ein Naturlehrpfad, der Wanderer durch die abwechslungsreichen Landschaften und Wälder führt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.874667,
+                        55.778163
+                  ]
+            },
+            {
+                  "name": "Jaskoniškių pažintinis takas",
+                  "text": "Ein Wanderweg mit Informationstafeln zur lokalen Flora, Fauna und Geologie der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822935,
+                        55.774054
+                  ]
+            },
+            {
+                  "name": "Marimonto vandens malūno liekanos",
+                  "text": "Die Überreste einer historischen Wassermühle, die einst für die lokale Wirtschaft wichtig war.",
+                  "category": "historical",
+                  "coords": [
+                        25.898631,
+                        55.821925
+                  ]
+            },
+            {
+                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
+                  "text": "Ein historischer Ort, an dem Kämpfe stattfanden und heute noch Partisanen-Erdhütten zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8951,
+                        55.8151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliukiškių I piliakalnis",
+                  "text": "Ősi litván várhegy, amely a régió jelentős régészeti lelőhelyének számít.",
+                  "category": "historical",
+                  "coords": [
+                        25.847528,
+                        55.833611
+                  ]
+            },
+            {
+                  "name": "Pakačinių piliakalnis",
+                  "text": "Történelmi településhalom és régészeti lelőhely a Sartai Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        25.885194,
+                        55.813417
+                  ]
+            },
+            {
+                  "name": "Velikuškių II piliakalnis",
+                  "text": "Újabb régészetileg jelentős földvár a Sartai-tó festői környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        25.868056,
+                        55.827194
+                  ]
+            },
+            {
+                  "name": "Bradesių ąžuolas",
+                  "text": "Lenyűgöző öreg tölgyfa, amely természeti emlékként védett a Sartai Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.877468,
+                        55.831608
+                  ]
+            },
+            {
+                  "name": "Ilgašilio pažintinis takas",
+                  "text": "Tanösvény, amely változatos tájakon és erdőkön vezeti keresztül a kirándulókat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.874667,
+                        55.778163
+                  ]
+            },
+            {
+                  "name": "Jaskoniškių pažintinis takas",
+                  "text": "Információs táblákkal ellátott túraútvonal a régió helyi növény- és állatvilágáról, valamint geológiájáról.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822935,
+                        55.774054
+                  ]
+            },
+            {
+                  "name": "Marimonto vandens malūno liekanos",
+                  "text": "Egy történelmi vízimalom maradványai, amely egykor fontos volt a helyi gazdaság számára.",
+                  "category": "historical",
+                  "coords": [
+                        25.898631,
+                        55.821925
+                  ]
+            },
+            {
+                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
+                  "text": "Történelmi helyszín, ahol harcok folytak, és ahol ma is láthatók a partizánok földkunyhói.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8951,
+                        55.8151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliukiškių I piliakalnis",
+                  "text": "Un vechi dâmb de cetate lituanian, considerat un sit arheologic important în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        25.847528,
+                        55.833611
+                  ]
+            },
+            {
+                  "name": "Pakačinių piliakalnis",
+                  "text": "O movilă istorică de așezare și sit arheologic în Parcul Regional Sartai.",
+                  "category": "historical",
+                  "coords": [
+                        25.885194,
+                        55.813417
+                  ]
+            },
+            {
+                  "name": "Velikuškių II piliakalnis",
+                  "text": "O altă cetate de pământ importantă arheologic în cadrul pitoresc al lacului Sartai.",
+                  "category": "historical",
+                  "coords": [
+                        25.868056,
+                        55.827194
+                  ]
+            },
+            {
+                  "name": "Bradesių ąžuolas",
+                  "text": "Un stejar vechi impresionant, protejat ca monument al naturii în Parcul Regional Sartai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.877468,
+                        55.831608
+                  ]
+            },
+            {
+                  "name": "Ilgašilio pažintinis takas",
+                  "text": "Un traseu educativ natural care ghidează drumeții prin peisaje și păduri diverse.",
+                  "category": "landmark",
+                  "coords": [
+                        25.874667,
+                        55.778163
+                  ]
+            },
+            {
+                  "name": "Jaskoniškių pažintinis takas",
+                  "text": "Un traseu de drumeție cu panouri informative despre flora, fauna și geologia locală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822935,
+                        55.774054
+                  ]
+            },
+            {
+                  "name": "Marimonto vandens malūno liekanos",
+                  "text": "Resturile unei mori de apă istorice, care a fost cândva importantă pentru economia locală.",
+                  "category": "historical",
+                  "coords": [
+                        25.898631,
+                        55.821925
+                  ]
+            },
+            {
+                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
+                  "text": "Un sit istoric unde au avut loc lupte și unde se mai pot vedea bordeie ale partizanilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8951,
+                        55.8151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliukiškių I piliakalnis",
+                  "text": "An ancient Lithuanian hillfort site, considered a significant archaeological site in the region.",
+                  "category": "historical",
+                  "coords": [
+                        25.847528,
+                        55.833611
+                  ]
+            },
+            {
+                  "name": "Pakačinių piliakalnis",
+                  "text": "A historic settlement mound and archaeological site located within the Sartai Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        25.885194,
+                        55.813417
+                  ]
+            },
+            {
+                  "name": "Velikuškių II piliakalnis",
+                  "text": "Another archaeologically significant hillfort situated in the scenic surroundings of Lake Sartai.",
+                  "category": "historical",
+                  "coords": [
+                        25.868056,
+                        55.827194
+                  ]
+            },
+            {
+                  "name": "Bradesių ąžuolas",
+                  "text": "An impressive ancient oak tree protected as a natural monument in the Sartai Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        25.877468,
+                        55.831608
+                  ]
+            },
+            {
+                  "name": "Ilgašilio pažintinis takas",
+                  "text": "A nature educational trail that guides hikers through diverse landscapes and forests.",
+                  "category": "landmark",
+                  "coords": [
+                        25.874667,
+                        55.778163
+                  ]
+            },
+            {
+                  "name": "Jaskoniškių pažintinis takas",
+                  "text": "A hiking trail featuring information boards about the local flora, fauna, and geology of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.822935,
+                        55.774054
+                  ]
+            },
+            {
+                  "name": "Marimonto vandens malūno liekanos",
+                  "text": "The remains of a historic water mill that was once vital to the local economy.",
+                  "category": "historical",
+                  "coords": [
+                        25.898631,
+                        55.821925
+                  ]
+            },
+            {
+                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
+                  "text": "A historic site where battles occurred, featuring preserved partisan bunkers and earthworks.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8951,
+                        55.8151
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Sartai", hu: "Sartai Regionális Park", ro: "Parcul Regional Sartai", en: "Sartai Regional Park"},
@@ -1053,7 +2907,232 @@ imageHint: "Sartai lake and islands aerial",
     },
     image: "/poi-images/lithuania-sartai-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-dubysa-regional-park-life-v2",
+    id: "lithuania-dubysa-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šiaulelių piliakalnis",
+                  "text": "Ein alter Burgwall im Regionalpark Dubysa in Litauen.",
+                  "category": "historical",
+                  "coords": [
+                        23.228778,
+                        55.510361
+                  ]
+            },
+            {
+                  "name": "Skaraitiškės dvaro sodyba",
+                  "text": "Ein historisches Gutshaus im Gebiet des Regionalparks Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.211687,
+                        55.471435
+                  ]
+            },
+            {
+                  "name": "Katauskių dvaro sodybos fragmentai",
+                  "text": "Die erhaltenen Fragmente eines Gutshofes im Regionalpark Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.173122,
+                        55.478483
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Šiluvą",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Stadt Šiluva und deren Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        23.21361,
+                        55.53278
+                  ]
+            },
+            {
+                  "name": "Šiluvos Švč. Mergelės Marijos Gimimo bazilika",
+                  "text": "Eine bedeutende Barockbasilika in Šiluva, einer der wichtigsten Wallfahrtsorte Litauens.",
+                  "category": "religious",
+                  "coords": [
+                        23.224735,
+                        55.530195
+                  ]
+            },
+            {
+                  "name": "Švč. Mergelės Marijos apsireiškimo koplyčia",
+                  "text": "Eine markante Kapelle in Šiluva, die am Ort von Marienerscheinungen errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        23.21986,
+                        55.530614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šiaulelių piliakalnis",
+                  "text": "Ősi várhely a litvániai Dubysa Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        23.228778,
+                        55.510361
+                  ]
+            },
+            {
+                  "name": "Skaraitiškės dvaro sodyba",
+                  "text": "Történelmi kúria és uradalom a Dubysa Regionális Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        23.211687,
+                        55.471435
+                  ]
+            },
+            {
+                  "name": "Katauskių dvaro sodybos fragmentai",
+                  "text": "Egy egykori udvarház fennmaradt részletei a Dubysa Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        23.173122,
+                        55.478483
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Šiluvą",
+                  "text": "Kilátópont, ahonnan panoráma nyílik Šiluva városára és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        23.21361,
+                        55.53278
+                  ]
+            },
+            {
+                  "name": "Šiluvos Švč. Mergelės Marijos Gimimo bazilika",
+                  "text": "Jelentős barokk bazilika Šiluvában, Litvánia egyik legfontosabb zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        23.224735,
+                        55.530195
+                  ]
+            },
+            {
+                  "name": "Švč. Mergelės Marijos apsireiškimo koplyčia",
+                  "text": "Jelentős kápolna Šiluvában, amelyet a Mária-jelenések helyszínén építettek.",
+                  "category": "religious",
+                  "coords": [
+                        23.21986,
+                        55.530614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šiaulelių piliakalnis",
+                  "text": "O veche așezare fortificată situată în Parcul Regional Dubysa din Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        23.228778,
+                        55.510361
+                  ]
+            },
+            {
+                  "name": "Skaraitiškės dvaro sodyba",
+                  "text": "Un conac istoric situat în zona Parcului Regional Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.211687,
+                        55.471435
+                  ]
+            },
+            {
+                  "name": "Katauskių dvaro sodybos fragmentai",
+                  "text": "Fragmentele rămase ale unui conac situat în Parcul Regional Dubysa.",
+                  "category": "historical",
+                  "coords": [
+                        23.173122,
+                        55.478483
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Šiluvą",
+                  "text": "Un punct de observație care oferă vederi asupra orașului Šiluva și a împrejurimilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        23.21361,
+                        55.53278
+                  ]
+            },
+            {
+                  "name": "Šiluvos Švč. Mergelės Marijos Gimimo bazilika",
+                  "text": "O bazilică barocă importantă în Šiluva, unul dintre cele mai importante locuri de pelerinaj din Lituania.",
+                  "category": "religious",
+                  "coords": [
+                        23.224735,
+                        55.530195
+                  ]
+            },
+            {
+                  "name": "Švč. Mergelės Marijos apsireiškimo koplyčia",
+                  "text": "O capelă proeminentă în Šiluva, construită pe locul unde se spune că a avut loc o apariție mariană.",
+                  "category": "religious",
+                  "coords": [
+                        23.21986,
+                        55.530614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šiaulelių piliakalnis",
+                  "text": "An ancient hillfort located within the Dubysa Regional Park in Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        23.228778,
+                        55.510361
+                  ]
+            },
+            {
+                  "name": "Skaraitiškės dvaro sodyba",
+                  "text": "A historical manor estate located in the Dubysa Regional Park area.",
+                  "category": "historical",
+                  "coords": [
+                        23.211687,
+                        55.471435
+                  ]
+            },
+            {
+                  "name": "Katauskių dvaro sodybos fragmentai",
+                  "text": "The remaining fragments of a manor estate located in the Dubysa Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        23.173122,
+                        55.478483
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Šiluvą",
+                  "text": "A scenic viewpoint offering vistas of the town of Šiluva and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        23.21361,
+                        55.53278
+                  ]
+            },
+            {
+                  "name": "Šiluvos Švč. Mergelės Marijos Gimimo bazilika",
+                  "text": "A significant Baroque basilica in Šiluva, one of Lithuania's most important pilgrimage sites.",
+                  "category": "religious",
+                  "coords": [
+                        23.224735,
+                        55.530195
+                  ]
+            },
+            {
+                  "name": "Švč. Mergelės Marijos apsireiškimo koplyčia",
+                  "text": "A prominent chapel in Šiluva built on the site of reported Marian apparitions.",
+                  "category": "religious",
+                  "coords": [
+                        23.21986,
+                        55.530614
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Dubysa", hu: "Dubysa Regionális Park", ro: "Parcul Regional Dubysa", en: "Dubysa Regional Park"},
@@ -1099,7 +3178,304 @@ imageHint: "Dubysa river valley landscape",
     },
     image: "/poi-images/lithuania-dubysa-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-pagramantis-regional-park-life-v2",
+    id: "lithuania-pagramantis-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pagramančio piliakalnis",
+                  "text": "Ein historischer Burghügel in der Nähe von Pagramantis, ein Zeugnis alter litauischer Verteidigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        22.235222,
+                        55.369083
+                  ]
+            },
+            {
+                  "name": "Naujininkų piliakalnis",
+                  "text": "Ein archäologischer Burghügel im Regionalpark Pagramantis.",
+                  "category": "historical",
+                  "coords": [
+                        22.221944,
+                        55.361833
+                  ]
+            },
+            {
+                  "name": "Pagramančio Kultūros Namai",
+                  "text": "Das Kulturhaus in Pagramantis, ein Zentrum für lokale Veranstaltungen und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.23344,
+                        55.365535
+                  ]
+            },
+            {
+                  "name": "Pagramančio atodanga",
+                  "text": "Ein Aussichtspunkt am Fluss Akmena, bekannt für seine geologischen Aufschlüsse.",
+                  "category": "natural",
+                  "coords": [
+                        22.230962,
+                        55.373783
+                  ]
+            },
+            {
+                  "name": "Jūros ir Akmenos santakos regykla",
+                  "text": "Ein Aussichtspunkt, der den Zusammenfluss der Flüsse Jūra und Akmena zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        22.229852,
+                        55.351353
+                  ]
+            },
+            {
+                  "name": "Akmuo „Milžinas“",
+                  "text": "Ein großer sagenumwobener Findling im Regionalpark Pagramantis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.17256,
+                        55.368818
+                  ]
+            },
+            {
+                  "name": "Gudlaukio ąžuolas",
+                  "text": "Eine jahrhundertealte Eiche im Regionalpark Pagramantis, die als Naturdenkmal geschützt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.244964,
+                        55.346284
+                  ]
+            },
+            {
+                  "name": "Molotovo gynybinės linijos įtvirtinimų takas",
+                  "text": "Ein Lehrpfad, der entlang der Befestigungen der Molotow-Linie im Regionalpark Pagramantis führt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.224219,
+                        55.356051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pagramančio piliakalnis",
+                  "text": "Történelmi várhely Pagramantis közelében, a régi litván védelmi rendszer egyik emléke.",
+                  "category": "historical",
+                  "coords": [
+                        22.235222,
+                        55.369083
+                  ]
+            },
+            {
+                  "name": "Naujininkų piliakalnis",
+                  "text": "Régészeti lelőhelyként nyilvántartott várhely a Pagramantis Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        22.221944,
+                        55.361833
+                  ]
+            },
+            {
+                  "name": "Pagramančio Kultūros Namai",
+                  "text": "Pagramantis művelődési háza, amely helyi rendezvények és színházi előadások központja.",
+                  "category": "cultural",
+                  "coords": [
+                        22.23344,
+                        55.365535
+                  ]
+            },
+            {
+                  "name": "Pagramančio atodanga",
+                  "text": "Kilátóhely az Akmena folyónál, amely geológiai feltárulásairól nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        22.230962,
+                        55.373783
+                  ]
+            },
+            {
+                  "name": "Jūros ir Akmenos santakos regykla",
+                  "text": "Kilátóhely, ahonnan látható a Jūra és az Akmena folyók összefolyása.",
+                  "category": "natural",
+                  "coords": [
+                        22.229852,
+                        55.351353
+                  ]
+            },
+            {
+                  "name": "Akmuo „Milžinas“",
+                  "text": "Hatalmas, legendákkal övezett sziklatömb a Pagramantis Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.17256,
+                        55.368818
+                  ]
+            },
+            {
+                  "name": "Gudlaukio ąžuolas",
+                  "text": "Több évszázados tölgyfa a Pagramantis Regionális Parkban, amely védett természeti emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        22.244964,
+                        55.346284
+                  ]
+            },
+            {
+                  "name": "Molotovo gynybinės linijos įtvirtinimų takas",
+                  "text": "Tanösvény a Pagramantis Regionális Parkban, amely a Molotov-vonal erődítményei mentén halad.",
+                  "category": "landmark",
+                  "coords": [
+                        22.224219,
+                        55.356051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pagramančio piliakalnis",
+                  "text": "O colină fortificată istorică lângă Pagramantis, mărturie a vechilor fortificații lituaniene.",
+                  "category": "historical",
+                  "coords": [
+                        22.235222,
+                        55.369083
+                  ]
+            },
+            {
+                  "name": "Naujininkų piliakalnis",
+                  "text": "Un sit arheologic de tip colină fortificată în Parcul Regional Pagramantis.",
+                  "category": "historical",
+                  "coords": [
+                        22.221944,
+                        55.361833
+                  ]
+            },
+            {
+                  "name": "Pagramančio Kultūros Namai",
+                  "text": "Casa de cultură din Pagramantis, un centru pentru evenimente locale și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        22.23344,
+                        55.365535
+                  ]
+            },
+            {
+                  "name": "Pagramančio atodanga",
+                  "text": "Un punct de belvedere la râul Akmena, cunoscut pentru aflorimentele sale geologice.",
+                  "category": "natural",
+                  "coords": [
+                        22.230962,
+                        55.373783
+                  ]
+            },
+            {
+                  "name": "Jūros ir Akmenos santakos regykla",
+                  "text": "Un punct de observație care oferă vederea asupra confluenței râurilor Jūra și Akmena.",
+                  "category": "natural",
+                  "coords": [
+                        22.229852,
+                        55.351353
+                  ]
+            },
+            {
+                  "name": "Akmuo „Milžinas“",
+                  "text": "O piatră de mari dimensiuni, învăluită în legende, situată în Parcul Regional Pagramantis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.17256,
+                        55.368818
+                  ]
+            },
+            {
+                  "name": "Gudlaukio ąžuolas",
+                  "text": "Un stejar secular în Parcul Regional Pagramantis, protejat ca monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        22.244964,
+                        55.346284
+                  ]
+            },
+            {
+                  "name": "Molotovo gynybinės linijos įtvirtinimų takas",
+                  "text": "Un traseu educațional care trece pe lângă fortificațiile Liniei Molotov în Parcul Regional Pagramantis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.224219,
+                        55.356051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pagramančio piliakalnis",
+                  "text": "A historical hillfort near Pagramantis, reflecting ancient Lithuanian defense structures.",
+                  "category": "historical",
+                  "coords": [
+                        22.235222,
+                        55.369083
+                  ]
+            },
+            {
+                  "name": "Naujininkų piliakalnis",
+                  "text": "An archaeological hillfort site located within the Pagramantis Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        22.221944,
+                        55.361833
+                  ]
+            },
+            {
+                  "name": "Pagramančio Kultūros Namai",
+                  "text": "The culture house in Pagramantis, a center for local events and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.23344,
+                        55.365535
+                  ]
+            },
+            {
+                  "name": "Pagramančio atodanga",
+                  "text": "A viewpoint by the Akmena river known for its geological outcrops.",
+                  "category": "natural",
+                  "coords": [
+                        22.230962,
+                        55.373783
+                  ]
+            },
+            {
+                  "name": "Jūros ir Akmenos santakos regykla",
+                  "text": "A viewpoint offering views of the confluence of the Jūra and Akmena rivers.",
+                  "category": "natural",
+                  "coords": [
+                        22.229852,
+                        55.351353
+                  ]
+            },
+            {
+                  "name": "Akmuo „Milžinas“",
+                  "text": "A large legendary boulder located in the Pagramantis Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.17256,
+                        55.368818
+                  ]
+            },
+            {
+                  "name": "Gudlaukio ąžuolas",
+                  "text": "A centuries-old oak tree in the Pagramantis Regional Park, protected as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        22.244964,
+                        55.346284
+                  ]
+            },
+            {
+                  "name": "Molotovo gynybinės linijos įtvirtinimų takas",
+                  "text": "An educational trail running along the fortifications of the Molotov Line in the Pagramantis Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.224219,
+                        55.356051
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Pagramantis", hu: "Pagramantis Regionális Park", ro: "Parcul Regional Pagramantis", en: "Pagramantis Regional Park"},
@@ -1145,7 +3521,304 @@ imageHint: "Akmena river valley Pagramantis",
     },
     image: "/poi-images/lithuania-pagramantis-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-rambynas-regional-park-life-v2",
+    id: "lithuania-rambynas-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rambyno piliakalnis",
+                  "text": "Eine alte Wallburg im Regionalpark Rambynas.",
+                  "category": "historical",
+                  "coords": [
+                        22.020915,
+                        55.086716
+                  ]
+            },
+            {
+                  "name": "Martyno Jankaus muziejus",
+                  "text": "Ein Museum, das Martynas Jankas, einem bekannten litauischen Sozialaktivisten, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.047767,
+                        55.082884
+                  ]
+            },
+            {
+                  "name": "Rombinus",
+                  "text": "Ein heiliger Hügel und Aussichtspunkt mit Blick auf die Memel.",
+                  "category": "natural",
+                  "coords": [
+                        22.02113,
+                        55.087757
+                  ]
+            },
+            {
+                  "name": "Krakeniškių dvaras",
+                  "text": "Ein historisches Herrenhaus im Bereich des Regionalparks Rambynas.",
+                  "category": "historical",
+                  "coords": [
+                        21.987259,
+                        55.10054
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė II",
+                  "text": "Ein Aussichtspunkt mit malerischem Blick über die Memel.",
+                  "category": "natural",
+                  "coords": [
+                        22.030073,
+                        55.086261
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė I",
+                  "text": "Eine Aussichtsplattform mit Blick auf die Landschaften der Memel.",
+                  "category": "natural",
+                  "coords": [
+                        22.027798,
+                        55.086648
+                  ]
+            },
+            {
+                  "name": "Gandru kolonija",
+                  "text": "Eine bekannte Storchenkolonie und Nistplatz im Regionalpark Rambynas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.04376,
+                        55.081267
+                  ]
+            },
+            {
+                  "name": "Bitėnų apžvalgos aikštelė III",
+                  "text": "Einer der Aussichtspunkte in der Gegend von Bitėnai mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.038649,
+                        55.083536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rambyno piliakalnis",
+                  "text": "Ősi földvárhelyszín a Rambynas Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        22.020915,
+                        55.086716
+                  ]
+            },
+            {
+                  "name": "Martyno Jankaus muziejus",
+                  "text": "Martynas Jankas neves litván társadalmi aktivistának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.047767,
+                        55.082884
+                  ]
+            },
+            {
+                  "name": "Rambynas",
+                  "text": "Szent domb és kilátóhely, ahonnan kilátás nyílik a Nyeman folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        22.02113,
+                        55.087757
+                  ]
+            },
+            {
+                  "name": "Krakeniškių dvaras",
+                  "text": "Történelmi kúria a Rambynas Regionális Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        21.987259,
+                        55.10054
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė II",
+                  "text": "Kilátóhely, ahonnan szép kilátás nyílik a Nyeman folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        22.030073,
+                        55.086261
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė I",
+                  "text": "Kilátóterasz, ahonnan rálátni a Nyeman folyó vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        22.027798,
+                        55.086648
+                  ]
+            },
+            {
+                  "name": "Gandru kolonija",
+                  "text": "Ismert gólyakolónia és fészkelőhely a Rambynas Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.04376,
+                        55.081267
+                  ]
+            },
+            {
+                  "name": "Bitėnų apžvalgos aikštelė III",
+                  "text": "Az egyik kilátóhely Bitėnai környékén, kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        22.038649,
+                        55.083536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rambyno piliakalnis",
+                  "text": "Un sit antic de fortificație situat în Parcul Regional Rambynas.",
+                  "category": "historical",
+                  "coords": [
+                        22.020915,
+                        55.086716
+                  ]
+            },
+            {
+                  "name": "Martyno Jankaus muziejus",
+                  "text": "Un muzeu dedicat lui Martynas Jankas, un proeminent activist social lituanian.",
+                  "category": "museum",
+                  "coords": [
+                        22.047767,
+                        55.082884
+                  ]
+            },
+            {
+                  "name": "Rambynas",
+                  "text": "Un deal sacru și un punct de belvedere cu vedere la râul Nemunas.",
+                  "category": "natural",
+                  "coords": [
+                        22.02113,
+                        55.087757
+                  ]
+            },
+            {
+                  "name": "Krakeniškių dvaras",
+                  "text": "Un conac istoric situat în zona Parcului Regional Rambynas.",
+                  "category": "historical",
+                  "coords": [
+                        21.987259,
+                        55.10054
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė II",
+                  "text": "Un punct de belvedere care oferă vederi pitorești asupra râului Nemunas.",
+                  "category": "natural",
+                  "coords": [
+                        22.030073,
+                        55.086261
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė I",
+                  "text": "O platformă de observare cu vedere la peisajele râului Nemunas.",
+                  "category": "natural",
+                  "coords": [
+                        22.027798,
+                        55.086648
+                  ]
+            },
+            {
+                  "name": "Gandru kolonija",
+                  "text": "O colonie de berze și un loc de cuibărit bine cunoscut în Parcul Regional Rambynas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.04376,
+                        55.081267
+                  ]
+            },
+            {
+                  "name": "Bitėnų apžvalgos aikštelė III",
+                  "text": "Unul dintre punctele de belvedere din zona Bitėnai, oferind priveliști asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        22.038649,
+                        55.083536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rambyno piliakalnis",
+                  "text": "An ancient hillfort site located within the Rambynas Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        22.020915,
+                        55.086716
+                  ]
+            },
+            {
+                  "name": "Martyno Jankaus muziejus",
+                  "text": "A museum dedicated to Martynas Jankas, a prominent Lithuanian social activist.",
+                  "category": "museum",
+                  "coords": [
+                        22.047767,
+                        55.082884
+                  ]
+            },
+            {
+                  "name": "Rambynas",
+                  "text": "A sacred hill and scenic viewpoint overlooking the Neman River.",
+                  "category": "natural",
+                  "coords": [
+                        22.02113,
+                        55.087757
+                  ]
+            },
+            {
+                  "name": "Krakeniškių dvaras",
+                  "text": "A historic manor house located in the Rambynas Regional Park area.",
+                  "category": "historical",
+                  "coords": [
+                        21.987259,
+                        55.10054
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė II",
+                  "text": "A viewpoint providing scenic vistas over the Neman River.",
+                  "category": "natural",
+                  "coords": [
+                        22.030073,
+                        55.086261
+                  ]
+            },
+            {
+                  "name": "Nemuno apžvalgos aikštelė I",
+                  "text": "A viewing platform overlooking the landscapes of the Neman River.",
+                  "category": "natural",
+                  "coords": [
+                        22.027798,
+                        55.086648
+                  ]
+            },
+            {
+                  "name": "Gandru kolonija",
+                  "text": "A well-known stork colony and nesting site in the Rambynas Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.04376,
+                        55.081267
+                  ]
+            },
+            {
+                  "name": "Bitėnų apžvalgos aikštelė III",
+                  "text": "One of the viewpoints in the Bitėnai area offering views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.038649,
+                        55.083536
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Rambynas", hu: "Rambynas Regionális Park", ro: "Parcul Regional Rambynas", en: "Rambynas Regional Park"},
@@ -1191,7 +3864,268 @@ imageHint: "Nemunas river floodplains Rambynas",
     },
     image: "/poi-images/lithuania-rambynas-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-sirveta-regional-park-life-v2",
+    id: "lithuania-sirveta-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aučynų piliakalnis",
+                  "text": "Ein historischer Burgwall und eine archäologische Stätte im Regionalpark Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.227083,
+                        55.202111
+                  ]
+            },
+            {
+                  "name": "Stūglių piliakalnis",
+                  "text": "Ein alter Burgwall im malerischen Regionalpark Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.221472,
+                        55.188444
+                  ]
+            },
+            {
+                  "name": "Šventos pilkapynas",
+                  "text": "Eine Gruppe alter Grabhügel und eine archäologische Stätte in Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.207817,
+                        55.199243
+                  ]
+            },
+            {
+                  "name": "Bėlio paplūdimys",
+                  "text": "Ein Erholungsstrand im Regionalpark Sirvėta.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214824,
+                        55.162903
+                  ]
+            },
+            {
+                  "name": "Švenčionių apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm, der einen weiten Blick über den Regionalpark Sirvėta bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.210332,
+                        55.165545
+                  ]
+            },
+            {
+                  "name": "Šventos dvarvietė",
+                  "text": "Der Standort eines ehemaligen Herrenhauses in der Region Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.203026,
+                        55.193284
+                  ]
+            },
+            {
+                  "name": "Šventos pažintinis mitologinis takas",
+                  "text": "Ein mythologischer Lehrpfad, der die lokalen Legenden in Sirvėta erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.205468,
+                        55.194272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aučynų piliakalnis",
+                  "text": "Történelmi várhely és régészeti lelőhely a Sirvėta Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.227083,
+                        55.202111
+                  ]
+            },
+            {
+                  "name": "Stūglių piliakalnis",
+                  "text": "Ősi várhely a festői Sirvėta Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.221472,
+                        55.188444
+                  ]
+            },
+            {
+                  "name": "Šventos pilkapynas",
+                  "text": "Ősi halomsírok csoportja és régészeti lelőhely Sirvėtában.",
+                  "category": "historical",
+                  "coords": [
+                        26.207817,
+                        55.199243
+                  ]
+            },
+            {
+                  "name": "Bėlio paplūdimys",
+                  "text": "Szabadidős strandterület a Sirvėta Regionális Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214824,
+                        55.162903
+                  ]
+            },
+            {
+                  "name": "Švenčionių apžvalgos bokštas",
+                  "text": "Kilátótorony, amely tágas kilátást nyújt a Sirvėta Regionális Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        26.210332,
+                        55.165545
+                  ]
+            },
+            {
+                  "name": "Šventos dvarvietė",
+                  "text": "Egy egykori udvarház helyszíne a Sirvėta régióban.",
+                  "category": "historical",
+                  "coords": [
+                        26.203026,
+                        55.193284
+                  ]
+            },
+            {
+                  "name": "Šventos pažintinis mitologinis takas",
+                  "text": "Tanösvény és mitológiai ösvény, amely a helyi legendákat mutatja be Sirvėtában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.205468,
+                        55.194272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aučynų piliakalnis",
+                  "text": "Un sit arheologic și o fortificație istorică în Parcul Regional Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.227083,
+                        55.202111
+                  ]
+            },
+            {
+                  "name": "Stūglių piliakalnis",
+                  "text": "O veche fortificație situată în pitorescul Parc Regional Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.221472,
+                        55.188444
+                  ]
+            },
+            {
+                  "name": "Šventos pilkapynas",
+                  "text": "Un grup de tumuli vechi și un sit arheologic în Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.207817,
+                        55.199243
+                  ]
+            },
+            {
+                  "name": "Bėlio paplūdimys",
+                  "text": "O zonă de plajă recreativă situată în Parcul Regional Sirvėta.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214824,
+                        55.162903
+                  ]
+            },
+            {
+                  "name": "Švenčionių apžvalgos bokštas",
+                  "text": "Un turn de observare care oferă vederi largi asupra Parcului Regional Sirvėta.",
+                  "category": "natural",
+                  "coords": [
+                        26.210332,
+                        55.165545
+                  ]
+            },
+            {
+                  "name": "Šventos dvarvietė",
+                  "text": "Locul unui fost conac situat în regiunea Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.203026,
+                        55.193284
+                  ]
+            },
+            {
+                  "name": "Šventos pažintinis mitologinis takas",
+                  "text": "Un traseu mitologic educațional care explorează legendele locale din Sirvėta.",
+                  "category": "landmark",
+                  "coords": [
+                        26.205468,
+                        55.194272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aučynų piliakalnis",
+                  "text": "A historic hillfort and archaeological site within the Sirvėta Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.227083,
+                        55.202111
+                  ]
+            },
+            {
+                  "name": "Stūglių piliakalnis",
+                  "text": "An ancient hillfort located in the scenic Sirvėta Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.221472,
+                        55.188444
+                  ]
+            },
+            {
+                  "name": "Šventos pilkapynas",
+                  "text": "A group of ancient burial mounds and an archaeological site in Sirvėta.",
+                  "category": "historical",
+                  "coords": [
+                        26.207817,
+                        55.199243
+                  ]
+            },
+            {
+                  "name": "Bėlio paplūdimys",
+                  "text": "A recreational beach area located within the Sirvėta Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214824,
+                        55.162903
+                  ]
+            },
+            {
+                  "name": "Švenčionių apžvalgos bokštas",
+                  "text": "An observation tower offering expansive views of the Sirvėta Regional Park.",
+                  "category": "natural",
+                  "coords": [
+                        26.210332,
+                        55.165545
+                  ]
+            },
+            {
+                  "name": "Šventos dvarvietė",
+                  "text": "The site of a former manor house located in the Sirvėta region.",
+                  "category": "historical",
+                  "coords": [
+                        26.203026,
+                        55.193284
+                  ]
+            },
+            {
+                  "name": "Šventos pažintinis mitologinis takas",
+                  "text": "An educational mythological trail exploring local legends in Sirvėta.",
+                  "category": "landmark",
+                  "coords": [
+                        26.205468,
+                        55.194272
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Sirvėta", hu: "Sirvėta Regionális Park", ro: "Parcul Regional Sirveta", en: "Sirvėta Regional Park"},
@@ -1247,6 +4181,60 @@ imageHint: "Sirvėta hilly landscape and forest",
                         23.19721,
                         55.605655
                   ]
+            },
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Eine archäologische Ausgrabungsstätte in Form eines historischen Burgwalls in Litauen.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Ein bedeutendes Bernhardiner-Klosterkomplex im Regionalpark Tytuvėnai.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "Ein Museum für Kuriositäten aus der Natur im Regionalpark Tytuvėnai.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "Ein ethnografisches Gehöft, das das ländliche Erbe der Region Tytuvėnai zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Ein Wassersportpark für Wakeboarding im Regionalpark Tytuvėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Ein Museum, das sich der Waldwirtschaft und Natur in Tytuvėnai widmet.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
             }
       ],
       "hu": [
@@ -1257,6 +4245,60 @@ imageHint: "Sirvėta hilly landscape and forest",
                   "coords": [
                         23.19721,
                         55.605655
+                  ]
+            },
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Egy történelmi várhelyszín és régészeti lelőhely Litvániában.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Jelentős bernátrendi kolostoregyüttes a Tytuvėnai Regionális Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "A természet furcsaságait bemutató múzeum a Tytuvėnai Regionális Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "Néprajzi tanya, amely a Tytuvėnai régió vidéki örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Wakeboardozásra alkalmas vízisport-park a Tytuvėnai Regionális Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Az erdőgazdálkodásnak és a természetnek szentelt múzeum Tytuvėnaiban.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
                   ]
             }
       ],
@@ -1269,6 +4311,60 @@ imageHint: "Sirvėta hilly landscape and forest",
                         23.19721,
                         55.605655
                   ]
+            },
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "Un sit arheologic sub forma unei cetăți istorice în Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "Un complex monahal bernardin important în Parcul Regional Tytuvėnai.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "Un muzeu dedicat curiozităților naturii în Parcul Regional Tytuvėnai.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "O gospodărie etnografică ce prezintă moștenirea rurală a regiunii Tytuvėnai.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "Un parc de sporturi nautice pentru wakeboarding în Parcul Regional Tytuvėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "Un muzeu dedicat silviculturii și naturii din Tytuvėnai.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
+                  ]
             }
       ],
       "en": [
@@ -1279,6 +4375,60 @@ imageHint: "Sirvėta hilly landscape and forest",
                   "coords": [
                         23.19721,
                         55.605655
+                  ]
+            },
+            {
+                  "name": "Bridvaišio piliakalnis",
+                  "text": "An archaeological site featuring a historical hillfort in Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        23.216,
+                        55.594
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų bernardinų vienuolynas",
+                  "text": "A significant Bernardine monastery complex located in the Tytuvėnai Regional Park.",
+                  "category": "religious",
+                  "coords": [
+                        23.200447,
+                        55.596836
+                  ]
+            },
+            {
+                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
+                  "text": "A museum dedicated to the curiosities of nature in the Tytuvėnai Regional Park.",
+                  "category": "museum",
+                  "coords": [
+                        23.203333,
+                        55.600791
+                  ]
+            },
+            {
+                  "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
+                  "text": "An ethnographic farmstead showcasing the rural heritage of the Tytuvėnai region.",
+                  "category": "museum",
+                  "coords": [
+                        23.196616,
+                        55.597296
+                  ]
+            },
+            {
+                  "name": "Wakepark vandenlenčių parkas",
+                  "text": "A water sports park for wakeboarding located in the Tytuvėnai Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.21041,
+                        55.593867
+                  ]
+            },
+            {
+                  "name": "Tytuvėnų miško muziejus",
+                  "text": "A museum dedicated to forestry and nature in Tytuvėnai.",
+                  "category": "museum",
+                  "coords": [
+                        23.190062,
+                        55.608909
                   ]
             }
       ]
@@ -1328,7 +4478,268 @@ imageHint: "Tytuvėnai bog and lake landscape",
     },
     image: "/poi-images/lithuania-tytuvenai-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-vistytis-regional-park-life-v2",
+    id: "lithuania-vistytis-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vištyčio Lauko II piliakalnis",
+                  "text": "Ein alter Burghügel im Regionalpark Vištytis.",
+                  "category": "historical",
+                  "coords": [
+                        22.775611,
+                        54.444667
+                  ]
+            },
+            {
+                  "name": "Metalo Fantazijos",
+                  "text": "Ein Museum für Metallkunst im Regionalpark Vištytis.",
+                  "category": "museum",
+                  "coords": [
+                        22.750137,
+                        54.427953
+                  ]
+            },
+            {
+                  "name": "Vištyčio akmuo",
+                  "text": "Einer der größten Findlinge Litauens im Regionalpark Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.705117,
+                        54.470292
+                  ]
+            },
+            {
+                  "name": "Vištyčio vėjo malūnas",
+                  "text": "Eine traditionelle Windmühle im Regionalpark Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.739458,
+                        54.454648
+                  ]
+            },
+            {
+                  "name": "Vištyčio seniūnija",
+                  "text": "Das Verwaltungsgebäude der Gemeinde Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.711609,
+                        54.454414
+                  ]
+            },
+            {
+                  "name": "Vištyčio Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Dreifaltigkeitskirche in Vištytis.",
+                  "category": "religious",
+                  "coords": [
+                        22.70972,
+                        54.456178
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Vištytis",
+                  "text": "Eine evangelisch-lutherische Kirche im Regionalpark Vištytis.",
+                  "category": "religious",
+                  "coords": [
+                        22.730659,
+                        54.454723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vištyčio Lauko II piliakalnis",
+                  "text": "Egy ősi várhely a Vištytis Regionális Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        22.775611,
+                        54.444667
+                  ]
+            },
+            {
+                  "name": "Metalo Fantazijos",
+                  "text": "Fémművészeti múzeum a Vištytis Regionális Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        22.750137,
+                        54.427953
+                  ]
+            },
+            {
+                  "name": "Vištyčio akmuo",
+                  "text": "Litvánia egyik legnagyobb vándorköve a Vištytis Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.705117,
+                        54.470292
+                  ]
+            },
+            {
+                  "name": "Vištyčio vėjo malūnas",
+                  "text": "Egy hagyományos szélmalom a Vištytis Regionális Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.739458,
+                        54.454648
+                  ]
+            },
+            {
+                  "name": "Vištyčio seniūnija",
+                  "text": "Vištytis község közigazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        22.711609,
+                        54.454414
+                  ]
+            },
+            {
+                  "name": "Vištyčio Švč. Trejybės bažnyčia",
+                  "text": "A Szentháromság tiszteletére szentelt katolikus templom Vištytisben.",
+                  "category": "religious",
+                  "coords": [
+                        22.70972,
+                        54.456178
+                  ]
+            },
+            {
+                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom a Vištytis Regionális Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        22.730659,
+                        54.454723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vištyčio Lauko II piliakalnis",
+                  "text": "O veche movilă fortificată în Parcul Regional Vištytis.",
+                  "category": "historical",
+                  "coords": [
+                        22.775611,
+                        54.444667
+                  ]
+            },
+            {
+                  "name": "Metalo Fantazijos",
+                  "text": "Un muzeu de artă în metal în Parcul Regional Vištytis.",
+                  "category": "museum",
+                  "coords": [
+                        22.750137,
+                        54.427953
+                  ]
+            },
+            {
+                  "name": "Vištyčio akmuo",
+                  "text": "Una dintre cele mai mari pietre rătăcitoare din Lituania, situată în Parcul Regional Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.705117,
+                        54.470292
+                  ]
+            },
+            {
+                  "name": "Vištyčio vėjo malūnas",
+                  "text": "O moară de vânt tradițională în Parcul Regional Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.739458,
+                        54.454648
+                  ]
+            },
+            {
+                  "name": "Vištyčio seniūnija",
+                  "text": "Clădirea administrativă a comunei Vištytis.",
+                  "category": "landmark",
+                  "coords": [
+                        22.711609,
+                        54.454414
+                  ]
+            },
+            {
+                  "name": "Vištyčio Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică Sfânta Treime din Vištytis.",
+                  "category": "religious",
+                  "coords": [
+                        22.70972,
+                        54.456178
+                  ]
+            },
+            {
+                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană în Parcul Regional Vištytis.",
+                  "category": "religious",
+                  "coords": [
+                        22.730659,
+                        54.454723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vištyčio Lauko II piliakalnis",
+                  "text": "An ancient hillfort located within the Vištytis Regional Park.",
+                  "category": "historical",
+                  "coords": [
+                        22.775611,
+                        54.444667
+                  ]
+            },
+            {
+                  "name": "Metalo Fantazijos",
+                  "text": "A museum featuring metal art located in the Vištytis Regional Park.",
+                  "category": "museum",
+                  "coords": [
+                        22.750137,
+                        54.427953
+                  ]
+            },
+            {
+                  "name": "Vyštitis stone",
+                  "text": "One of the largest boulders in Lithuania, located in the Vištytis Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.705117,
+                        54.470292
+                  ]
+            },
+            {
+                  "name": "Vištyčio vėjo malūnas",
+                  "text": "A traditional windmill situated in the Vištytis Regional Park.",
+                  "category": "landmark",
+                  "coords": [
+                        22.739458,
+                        54.454648
+                  ]
+            },
+            {
+                  "name": "Vištyčio seniūnija",
+                  "text": "The administrative building for the Vištytis eldership.",
+                  "category": "landmark",
+                  "coords": [
+                        22.711609,
+                        54.454414
+                  ]
+            },
+            {
+                  "name": "Vištyčio Švč. Trejybės bažnyčia",
+                  "text": "The Catholic Church of the Holy Trinity located in Vištytis.",
+                  "category": "religious",
+                  "coords": [
+                        22.70972,
+                        54.456178
+                  ]
+            },
+            {
+                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church situated in the Vištytis Regional Park.",
+                  "category": "religious",
+                  "coords": [
+                        22.730659,
+                        54.454723
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Vištytis", hu: "Vištytis Regionális Park", ro: "Parcul Regional Vistytis", en: "Vištytis Regional Park"},

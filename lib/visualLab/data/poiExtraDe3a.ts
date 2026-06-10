@@ -1450,6 +1450,24 @@ export const poiExtraDe3a: POI[] = [
                         12.519921,
                         54.483429
                   ]
+            },
+            {
+                  "name": "Natureum",
+                  "text": "Ein Naturkundemuseum am Leuchtturm Darßer Ort, das Einblicke in die lokale Fauna bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.502731,
+                        54.47272
+                  ]
+            },
+            {
+                  "name": "Kutsch-& Kremserfahrten Ralf-Dieter Bergmann",
+                  "text": "Anbieter von Kutschfahrten durch die geschützte Natur der Halbinsel Darß.",
+                  "category": "landmark",
+                  "coords": [
+                        12.503717,
+                        54.472147
+                  ]
             }
       ],
       "hu": [
@@ -1460,6 +1478,24 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         12.519921,
                         54.483429
+                  ]
+            },
+            {
+                  "name": "Natureum",
+                  "text": "Természettudományi múzeum a Darßer Ort világítótoronynál, a helyi élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.502731,
+                        54.47272
+                  ]
+            },
+            {
+                  "name": "Kutsch-& Kremserfahrten Ralf-Dieter Bergmann",
+                  "text": "Lovaskocsi-túrákat kínáló szolgáltató a Darß-félsziget védett területein.",
+                  "category": "landmark",
+                  "coords": [
+                        12.503717,
+                        54.472147
                   ]
             }
       ],
@@ -1472,6 +1508,24 @@ export const poiExtraDe3a: POI[] = [
                         12.519921,
                         54.483429
                   ]
+            },
+            {
+                  "name": "Natureum",
+                  "text": "Un muzeu de istorie naturală de lângă farul Darßer Ort, care oferă informații despre fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        12.502731,
+                        54.47272
+                  ]
+            },
+            {
+                  "name": "Kutsch-& Kremserfahrten Ralf-Dieter Bergmann",
+                  "text": "Oferă plimbări cu trăsura prin natura protejată a peninsulei Darß.",
+                  "category": "landmark",
+                  "coords": [
+                        12.503717,
+                        54.472147
+                  ]
             }
       ],
       "en": [
@@ -1482,6 +1536,24 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         12.519921,
                         54.483429
+                  ]
+            },
+            {
+                  "name": "Natureum",
+                  "text": "A natural history museum by the Darßer Ort lighthouse, offering insights into local wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        12.502731,
+                        54.47272
+                  ]
+            },
+            {
+                  "name": "Kutsch-& Kremserfahrten Ralf-Dieter Bergmann",
+                  "text": "Offers horse-drawn carriage rides through the protected nature of the Darß Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        12.503717,
+                        54.472147
                   ]
             }
       ]
@@ -2173,6 +2245,60 @@ export const poiExtraDe3a: POI[] = [
                         8.537763,
                         54.680755
                   ]
+            },
+            {
+                  "name": "Sektorenleitfeuer Nieblum (Kedewin)",
+                  "text": "Ein historischer kleiner Leuchtturm im Süden der Nordseeinsel Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.485669,
+                        54.684421
+                  ]
+            },
+            {
+                  "name": "Museum Kunst der Westküste",
+                  "text": "Ein Museum auf Föhr, das sich der Kunst mit Bezug zur Nordsee und Westküste widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.509749,
+                        54.708215
+                  ]
+            },
+            {
+                  "name": "Dr.-Carl-Häberlin-Friesen-Museum",
+                  "text": "Das Museum widmet sich der Geschichte und der frisischen Kultur der Insel Föhr.",
+                  "category": "museum",
+                  "coords": [
+                        8.562495,
+                        54.686923
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Olhörn",
+                  "text": "Ein kleiner, rot-weißer Leuchtturm am Südufer von Wyk auf Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.566301,
+                        54.680781
+                  ]
+            },
+            {
+                  "name": "FKK-Strand Goting",
+                  "text": "Ein Strandabschnitt in Goting auf der Insel Föhr, der für Freikörperkultur ausgewiesen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460689,
+                        54.687311
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Ein spezieller Strandabschnitt auf der Insel Föhr, an dem Hunde erlaubt sind.",
+                  "category": "recreational",
+                  "coords": [
+                        8.57495,
+                        54.691649
+                  ]
             }
       ],
       "hu": [
@@ -2192,6 +2318,60 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         8.537763,
                         54.680755
+                  ]
+            },
+            {
+                  "name": "Sektorenleitfeuer Nieblum (Kedewin)",
+                  "text": "Történelmi kis világítótorony a Föhr-sziget déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.485669,
+                        54.684421
+                  ]
+            },
+            {
+                  "name": "Museum Kunst der Westküste",
+                  "text": "Múzeum Föhr szigetén, amely az Északi-tengerrel és a nyugati parttal kapcsolatos művészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.509749,
+                        54.708215
+                  ]
+            },
+            {
+                  "name": "Dr.-Carl-Häberlin-Friesen-Museum",
+                  "text": "A múzeum Föhr szigetének történetét és a fríz kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.562495,
+                        54.686923
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Olhörn",
+                  "text": "Egy kis piros-fehér világítótorony a Föhr szigetén található Wyk déli partján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.566301,
+                        54.680781
+                  ]
+            },
+            {
+                  "name": "FKK-Strand Goting",
+                  "text": "Föhr szigetén, Gotingban található strand szakasz, amelyet naturisták számára jelöltek ki.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460689,
+                        54.687311
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Speciális strand szakasz Föhr szigetén, ahol a kutyák engedélyezettek.",
+                  "category": "recreational",
+                  "coords": [
+                        8.57495,
+                        54.691649
                   ]
             }
       ],
@@ -2213,6 +2393,60 @@ export const poiExtraDe3a: POI[] = [
                         8.537763,
                         54.680755
                   ]
+            },
+            {
+                  "name": "Sektorenleitfeuer Nieblum (Kedewin)",
+                  "text": "Un mic far istoric situat în partea de sud a insulei Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.485669,
+                        54.684421
+                  ]
+            },
+            {
+                  "name": "Museum Kunst der Westküste",
+                  "text": "Un muzeu pe insula Föhr dedicat artei legate de Marea Nordului și coasta de vest.",
+                  "category": "museum",
+                  "coords": [
+                        8.509749,
+                        54.708215
+                  ]
+            },
+            {
+                  "name": "Dr.-Carl-Häberlin-Friesen-Museum",
+                  "text": "Muzeul este dedicat istoriei și culturii frizone de pe insula Föhr.",
+                  "category": "museum",
+                  "coords": [
+                        8.562495,
+                        54.686923
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Olhörn",
+                  "text": "Un far mic, roșu și alb, situat pe malul sudic al localității Wyk de pe insula Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.566301,
+                        54.680781
+                  ]
+            },
+            {
+                  "name": "FKK-Strand Goting",
+                  "text": "O secțiune de plajă în Goting, pe insula Föhr, destinată nudiștilor.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460689,
+                        54.687311
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "O secțiune specială de plajă pe insula Föhr unde câinii sunt permiși.",
+                  "category": "recreational",
+                  "coords": [
+                        8.57495,
+                        54.691649
+                  ]
             }
       ],
       "en": [
@@ -2232,6 +2466,60 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         8.537763,
                         54.680755
+                  ]
+            },
+            {
+                  "name": "Sektorenleitfeuer Nieblum (Kedewin)",
+                  "text": "A historic small lighthouse located on the south of the island of Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.485669,
+                        54.684421
+                  ]
+            },
+            {
+                  "name": "Museum Kunst der Westküste",
+                  "text": "A museum on Föhr dedicated to art related to the North Sea and the west coast.",
+                  "category": "museum",
+                  "coords": [
+                        8.509749,
+                        54.708215
+                  ]
+            },
+            {
+                  "name": "Dr.-Carl-Häberlin-Friesen-Museum",
+                  "text": "The museum is dedicated to the history and Frisian culture of Föhr island.",
+                  "category": "museum",
+                  "coords": [
+                        8.562495,
+                        54.686923
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Olhörn",
+                  "text": "A small red and white lighthouse on the southern shore of Wyk on Föhr.",
+                  "category": "landmark",
+                  "coords": [
+                        8.566301,
+                        54.680781
+                  ]
+            },
+            {
+                  "name": "FKK-Strand Goting",
+                  "text": "A beach section in Goting on Föhr island designated for naturists.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460689,
+                        54.687311
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "A special beach section on Föhr island where dogs are allowed.",
+                  "category": "recreational",
+                  "coords": [
+                        8.57495,
+                        54.691649
                   ]
             }
       ]
@@ -2528,7 +2816,52 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Sachsenwald, yaklaşık 60 kilometrekare ile Schleswig-Holstein'daki en büyük orman alanıdır.", "Otto von Bismarck, ormanı 1871'de imparatorluğun kuruluşu vesilesiyle bir imparatorluk hediyesi olarak aldı.", "Orman, bugün hala büyük ölçüde von Bismarck ailesinin özel mülkiyetindedir.", "Friedrichsruh kasabasında, Şansölye'nin mezarı olan Bismarck-Mausoleum bulunmaktadır.", "Orman ağırlıklı olarak eski kayın ve meşe ağaçlarından oluşmaktadır.", "Ormanda çok sayıda tarih öncesi höyük mezar ('Hünengräber') saklıdır."]}, image: "/poi-images/forest-sachsenwald-extra.webp"},
   {
-    id: "sea-wattenmeer-sh-extra",
+    id: "sea-wattenmeer-sh-extra", "sights": {
+      "de": [
+            {
+                  "name": "Boldixumer Vogelkoje",
+                  "text": "Eine historische Entenkoje im Nationalpark Schleswig-Holsteinisches Wattenmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        8.587289,
+                        54.72241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boldixumer Vogelkoje",
+                  "text": "Történelmi kacsafogó hely a Schleswig-Holstein-i Wattenmeer Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.587289,
+                        54.72241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boldixumer Vogelkoje",
+                  "text": "O capcană istorică pentru rațe sălbatice în Parcul Național al Mării Wadden din Schleswig-Holstein.",
+                  "category": "landmark",
+                  "coords": [
+                        8.587289,
+                        54.72241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boldixumer Vogelkoje",
+                  "text": "A historical duck decoy located in the Schleswig-Holstein Wadden Sea National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.587289,
+                        54.72241
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "DE-SH",
     coords: [8.6000, 54.7500],

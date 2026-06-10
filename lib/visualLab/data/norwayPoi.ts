@@ -10617,7 +10617,232 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/lofoten.webp",
   },
   {
-    id: "nat-geirangerfjord",
+    id: "nat-geirangerfjord", "sights": {
+      "de": [
+            {
+                  "name": "Hyskjet naturreservat",
+                  "text": "Ein Naturschutzgebiet am Geirangerfjord, das für seine reiche Flora und steilen Hänge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.164669,
+                        62.123723
+                  ]
+            },
+            {
+                  "name": "Keipen",
+                  "text": "Ein hoher Berggipfel, der spektakuläre Ausblicke über den weltberühmten Geirangerfjord bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.166092,
+                        62.090245
+                  ]
+            },
+            {
+                  "name": "De syv søstre",
+                  "text": "Eine Gruppe von sieben beeindruckenden Wasserfällen, die direkt in den Geirangerfjord stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.093346,
+                        62.107482
+                  ]
+            },
+            {
+                  "name": "Homlungsætra",
+                  "text": "Ein historischer Bergbauernhof am Geirangerfjord, der über einen Wanderweg erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.133342,
+                        62.112183
+                  ]
+            },
+            {
+                  "name": "Skageflå",
+                  "text": "Ein berühmter Aussichtspunkt und ehemaliger Bergbauernhof hoch über dem Geirangerfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.121077,
+                        62.110487
+                  ]
+            },
+            {
+                  "name": "Bringa",
+                  "text": "Überreste alter Siedlungen in der malerischen Umgebung des Geirangerfjords.",
+                  "category": "historical",
+                  "coords": [
+                        7.120675,
+                        62.123962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hyskjet naturreservat",
+                  "text": "Természetvédelmi terület a Geiranger-fjordnál, amely gazdag flórájáról és meredek lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.164669,
+                        62.123723
+                  ]
+            },
+            {
+                  "name": "Keipen",
+                  "text": "Magas hegycsúcs, amely látványos kilátást nyújt a világhírű Geiranger-fjordra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.166092,
+                        62.090245
+                  ]
+            },
+            {
+                  "name": "De syv søstre",
+                  "text": "Hét lenyűgöző vízesés csoportja, amelyek közvetlenül a Geiranger-fjordba zúdulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        7.093346,
+                        62.107482
+                  ]
+            },
+            {
+                  "name": "Homlungsætra",
+                  "text": "Történelmi hegyi farm a Geiranger-fjordnál, amely egy túraútvonalon keresztül érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        7.133342,
+                        62.112183
+                  ]
+            },
+            {
+                  "name": "Skageflå",
+                  "text": "Híres kilátóhely és egykori hegyi farm magasan a Geiranger-fjord felett.",
+                  "category": "natural",
+                  "coords": [
+                        7.121077,
+                        62.110487
+                  ]
+            },
+            {
+                  "name": "Bringa",
+                  "text": "Régi települések maradványai a Geiranger-fjord festői környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        7.120675,
+                        62.123962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hyskjet naturreservat",
+                  "text": "O rezervație naturală pe Geirangerfjord, cunoscută pentru flora sa bogată și pantele abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        7.164669,
+                        62.123723
+                  ]
+            },
+            {
+                  "name": "Keipen",
+                  "text": "Un vârf muntos înalt care oferă vederi spectaculoase asupra celebrului Geirangerfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.166092,
+                        62.090245
+                  ]
+            },
+            {
+                  "name": "De syv søstre",
+                  "text": "Un grup de șapte cascade impresionante care se varsă direct în Geirangerfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.093346,
+                        62.107482
+                  ]
+            },
+            {
+                  "name": "Homlungsætra",
+                  "text": "O fermă montană istorică pe malul Geirangerfjord, accesibilă printr-o potecă de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        7.133342,
+                        62.112183
+                  ]
+            },
+            {
+                  "name": "Skageflå",
+                  "text": "Un punct de belvedere faimos și o fostă fermă montană, situată sus deasupra Geirangerfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.121077,
+                        62.110487
+                  ]
+            },
+            {
+                  "name": "Bringa",
+                  "text": "Rămășițele unor așezări vechi în împrejurimile pitorești ale Geirangerfjord.",
+                  "category": "historical",
+                  "coords": [
+                        7.120675,
+                        62.123962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyskjet naturreservat",
+                  "text": "A nature reserve by Geirangerfjord, known for its rich flora and steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        7.164669,
+                        62.123723
+                  ]
+            },
+            {
+                  "name": "Keipen",
+                  "text": "A high mountain peak offering spectacular views over the world-famous Geirangerfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.166092,
+                        62.090245
+                  ]
+            },
+            {
+                  "name": "The Seven Sisters Waterfall",
+                  "text": "A group of seven impressive waterfalls cascading directly into Geirangerfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.093346,
+                        62.107482
+                  ]
+            },
+            {
+                  "name": "Homlungsætra",
+                  "text": "A historic mountain farm by Geirangerfjord reachable via a hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        7.133342,
+                        62.112183
+                  ]
+            },
+            {
+                  "name": "Skageflå",
+                  "text": "A famous viewpoint and former mountain farm situated high above Geirangerfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.121077,
+                        62.110487
+                  ]
+            },
+            {
+                  "name": "Bringa",
+                  "text": "Remains of old settlements in the picturesque surroundings of Geirangerfjord.",
+                  "category": "historical",
+                  "coords": [
+                        7.120675,
+                        62.123962
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "norway",
     coords: [7.1050, 62.1047],
@@ -10661,7 +10886,52 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/geirangerfjord.webp",
   },
   {
-    id: "nat-sognefjord",
+    id: "nat-sognefjord", "sights": {
+      "de": [
+            {
+                  "name": "Kvamsøy kyrkje",
+                  "text": "Eine charmante Kirche auf der Insel Kvamsøy im Sognefjord, bekannt für ihre malerische Lage am Wasser.",
+                  "category": "religious",
+                  "coords": [
+                        6.484559,
+                        61.128745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kvamsøy kyrkje",
+                  "text": "Bájos templom a Sognefjordban található Kvamsøy-szigeten, amely festői vízparti elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        6.484559,
+                        61.128745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kvamsøy kyrkje",
+                  "text": "O biserică fermecătoare pe insula Kvamsøy din Sognefjord, cunoscută pentru amplasarea sa pitorească pe malul apei.",
+                  "category": "religious",
+                  "coords": [
+                        6.484559,
+                        61.128745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kvamsøy kyrkje",
+                  "text": "A charming church on Kvamsøy island in the Sognefjord, known for its scenic waterside location.",
+                  "category": "religious",
+                  "coords": [
+                        6.484559,
+                        61.128745
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "norway",
     coords: [6.5000, 61.1000],
@@ -10749,7 +11019,232 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/preikestolen.webp",
   },
   {
-    id: "nat-north-cape",
+    id: "nat-north-cape", "sights": {
+      "de": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Ein kleines Museum am Nordkap, das an den Besuch von König Chulalongkorn von Siam im Jahr 1907 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Besucherzentrum Nordkaphalle",
+                  "text": "Ein großes Besucherzentrum am Nordkap mit Ausstellungen, einem Kino und Serviceleistungen für Touristen.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Nordkap",
+                  "text": "Eine majestätische Klippe und ein beliebtes Touristenziel, das einen der nördlichsten Punkte Europas markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "Meridiankugel",
+                  "text": "Ein ikonisches, globusförmiges Denkmal auf dem Nordkap-Plateau, das die Begegnung der Welten symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Ein malerischer Aussichtspunkt am Nordkap mit beeindruckendem Blick auf das Nordpolarmeer und die Küstenfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Ein Aussichtspunkt am Nordkap, bekannt für seine spektakuläre Aussicht über die dramatische Nordküste.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Kismúzeum az Északi-foknál, amely Sziám királyának, Csulalongkornnak 1907-es látogatására emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Északi-fok Látogatóközpont",
+                  "text": "Nagy látogatóközpont az Északi-foknál kiállításokkal, mozival és turisztikai szolgáltatásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Északi-fok",
+                  "text": "Fenséges sziklafal és népszerű úti cél, amely Európa egyik legészakibb pontját jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "Földgömb",
+                  "text": "Ikonikus földgömb emlékmű az Északi-fok fennsíkján, amely a világok találkozását szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Panorámás kilátóhely az Északi-foknál, ahonnan lenyűgöző kilátás nyílik a Jeges-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Kilátóhely az Északi-foknál, amely látványos panorámát nyújt a drámai északi partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Un mic muzeu la Capul Nord care comemorează vizita regelui Chulalongkorn al Siamului în 1907.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Nordkapphallen",
+                  "text": "Un centru mare de vizitatori la Capul Nord, cu expoziții, un cinematograf și servicii pentru turiști.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Nordkapp",
+                  "text": "O stâncă maiestuoasă și o destinație turistică populară care marchează unul dintre cele mai nordice puncte ale Europei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "The Globe",
+                  "text": "Un monument iconic în formă de glob situat pe platoul Capului Nord, simbolizând întâlnirea lumilor.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Un punct de belvedere pitoresc la Capul Nord care oferă vederi impresionante asupra Oceanului Arctic.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Un punct de belvedere la Capul Nord cunoscut pentru priveliștile spectaculoase asupra coastei nordice dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "A small museum at the North Cape commemorating the visit of King Chulalongkorn of Siam in 1907.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Visitor Centre North Cape Hall",
+                  "text": "A large visitor centre at the North Cape featuring exhibits, a cinema, and services for tourists.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "North Cape",
+                  "text": "A majestic cliff and popular tourist destination marking one of the northernmost points of Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "The Globe",
+                  "text": "An iconic globe-shaped monument located on the North Cape plateau, symbolizing the meeting of the worlds.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "A scenic viewpoint at the North Cape offering impressive vistas of the Arctic Ocean and coastal cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "A viewpoint at the North Cape known for its spectacular views over the dramatic northern coastline.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "norway",
     coords: [25.7833, 71.1725],
@@ -10793,7 +11288,304 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/north-cape.webp",
   },
   {
-    id: "mountain-galdhopiggen",
+    id: "mountain-galdhopiggen", "sights": {
+      "de": [
+            {
+                  "name": "Keilhaus topp",
+                  "text": "Ein Berggipfel im Jotunheimen-Gebirge, unweit des Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.326378,
+                        61.634949
+                  ]
+            },
+            {
+                  "name": "Galdhøe",
+                  "text": "Ein markanter Gipfel in der Nähe des Galdhøpiggen im norwegischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.318389,
+                        61.64978
+                  ]
+            },
+            {
+                  "name": "Vesle Galdhøpiggen",
+                  "text": "Ein Nebengipfel des Galdhøpiggen, der Teil des höchsten Gebirgsmassivs Norwegens ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306013,
+                        61.640684
+                  ]
+            },
+            {
+                  "name": "Skardstinden",
+                  "text": "Ein anspruchsvoller Berggipfel in der Region Galdhøpiggen in Norwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.265785,
+                        61.633462
+                  ]
+            },
+            {
+                  "name": "Bakarste Storgrovhøe",
+                  "text": "Ein hoher Berggipfel im Jotunheimen-Nationalpark bei Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.26733,
+                        61.643389
+                  ]
+            },
+            {
+                  "name": "Storgrovtinden",
+                  "text": "Ein zerklüfteter Gipfel in der norwegischen Hochgebirgslandschaft von Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.266514,
+                        61.641392
+                  ]
+            },
+            {
+                  "name": "Lindbergtinden",
+                  "text": "Ein beeindruckender Berggipfel in der Nähe von Norwegens höchstem Punkt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.280203,
+                        61.604366
+                  ]
+            },
+            {
+                  "name": "Svellnosbreahesten",
+                  "text": "Ein scharfkantiger Gipfel in der Gletscherregion um den Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306976,
+                        61.621246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keilhaus topp",
+                  "text": "Hegycsúcs a Jotunheimen-hegységben, nem messze a Galdhøpiggental.",
+                  "category": "landmark",
+                  "coords": [
+                        8.326378,
+                        61.634949
+                  ]
+            },
+            {
+                  "name": "Galdhøe",
+                  "text": "Jellegzetes hegycsúcs a norvég Galdhøpiggen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.318389,
+                        61.64978
+                  ]
+            },
+            {
+                  "name": "Vesle Galdhøpiggen",
+                  "text": "A Galdhøpiggen egyik mellékcsúcsa, Norvégia legmagasabb hegységének része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306013,
+                        61.640684
+                  ]
+            },
+            {
+                  "name": "Skardstinden",
+                  "text": "Kihívást jelentő hegycsúcs a norvégiai Galdhøpiggen régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.265785,
+                        61.633462
+                  ]
+            },
+            {
+                  "name": "Bakarste Storgrovhøe",
+                  "text": "Magas hegycsúcs a Jotunheimen Nemzeti Parkban, Galdhøpiggen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.26733,
+                        61.643389
+                  ]
+            },
+            {
+                  "name": "Storgrovtinden",
+                  "text": "Tagolt hegycsúcs a Galdhøpiggen környéki norvég magashegyi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        8.266514,
+                        61.641392
+                  ]
+            },
+            {
+                  "name": "Lindbergtinden",
+                  "text": "Lenyűgöző hegycsúcs Norvégia legmagasabb pontjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.280203,
+                        61.604366
+                  ]
+            },
+            {
+                  "name": "Svellnosbreahesten",
+                  "text": "Éles sziklacsúcs a Galdhøpiggen környéki gleccseres régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306976,
+                        61.621246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keilhaus topp",
+                  "text": "Un vârf montan din munții Jotunheimen, situat în apropiere de Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.326378,
+                        61.634949
+                  ]
+            },
+            {
+                  "name": "Galdhøe",
+                  "text": "Un vârf proeminent situat lângă Galdhøpiggen, în zonele muntoase ale Norvegiei.",
+                  "category": "landmark",
+                  "coords": [
+                        8.318389,
+                        61.64978
+                  ]
+            },
+            {
+                  "name": "Vesle Galdhøpiggen",
+                  "text": "Un vârf secundar al Galdhøpiggen, făcând parte din cel mai înalt masiv montan din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306013,
+                        61.640684
+                  ]
+            },
+            {
+                  "name": "Skardstinden",
+                  "text": "Un vârf montan provocator din regiunea Galdhøpiggen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.265785,
+                        61.633462
+                  ]
+            },
+            {
+                  "name": "Bakarste Storgrovhøe",
+                  "text": "Un vârf montan înalt din Parcul Național Jotunheimen, lângă Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.26733,
+                        61.643389
+                  ]
+            },
+            {
+                  "name": "Storgrovtinden",
+                  "text": "Un vârf accidentat din peisajul montan înalt al Norvegiei, lângă Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.266514,
+                        61.641392
+                  ]
+            },
+            {
+                  "name": "Lindbergtinden",
+                  "text": "Un vârf montan impresionant situat în apropierea celui mai înalt punct din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.280203,
+                        61.604366
+                  ]
+            },
+            {
+                  "name": "Svellnosbreahesten",
+                  "text": "Un vârf ascuțit din regiunea glaciară din jurul Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306976,
+                        61.621246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keilhaus topp",
+                  "text": "A mountain peak in the Jotunheimen mountains, located near Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.326378,
+                        61.634949
+                  ]
+            },
+            {
+                  "name": "Galdhøe",
+                  "text": "A prominent peak located near Galdhøpiggen in the Norwegian highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        8.318389,
+                        61.64978
+                  ]
+            },
+            {
+                  "name": "Vesle Galdhøpiggen",
+                  "text": "A secondary peak of Galdhøpiggen, part of Norway's highest mountain massif.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306013,
+                        61.640684
+                  ]
+            },
+            {
+                  "name": "Skardstinden",
+                  "text": "A challenging mountain peak in the Galdhøpiggen region of Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        8.265785,
+                        61.633462
+                  ]
+            },
+            {
+                  "name": "Bakarste Storgrovhøe",
+                  "text": "A high mountain peak in the Jotunheimen National Park near Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.26733,
+                        61.643389
+                  ]
+            },
+            {
+                  "name": "Storgrovtinden",
+                  "text": "A rugged peak in the Norwegian high-mountain landscape of Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.266514,
+                        61.641392
+                  ]
+            },
+            {
+                  "name": "Lindbergtinden",
+                  "text": "An impressive mountain peak located near Norway's highest point.",
+                  "category": "landmark",
+                  "coords": [
+                        8.280203,
+                        61.604366
+                  ]
+            },
+            {
+                  "name": "Svellnosbreahesten",
+                  "text": "A sharp-edged peak in the glacier region around Galdhøpiggen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306976,
+                        61.621246
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "norway",
     coords: [8.3120, 61.6360],
@@ -10837,7 +11629,268 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/galdhopiggen.webp",
   },
   {
-    id: "mountain-glittertind",
+    id: "mountain-glittertind", "sights": {
+      "de": [
+            {
+                  "name": "Nørdre Trollsteinhøe",
+                  "text": "Ein markanter Berggipfel im Jotunheimen-Gebirge in der Nähe des Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.58238,
+                        61.701353
+                  ]
+            },
+            {
+                  "name": "Gråhøe",
+                  "text": "Ein Berggipfel in der Region Glittertind, der Teil des Jotunheimen-Massivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.562019,
+                        61.690178
+                  ]
+            },
+            {
+                  "name": "Svartholshøe",
+                  "text": "Ein hoher Gipfel in der norwegischen Gebirgslandschaft des Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.561952,
+                        61.680798
+                  ]
+            },
+            {
+                  "name": "Trollsteinrundhøe",
+                  "text": "Ein Gipfel im Jotunheimen-Nationalpark, gelegen in der Umgebung des Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55706,
+                        61.674781
+                  ]
+            },
+            {
+                  "name": "Trollsteineggje",
+                  "text": "Ein Gebirgsgrat im Jotunheimen-Gebirge, der sich in der Nähe des Glittertind befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55846,
+                        61.660355
+                  ]
+            },
+            {
+                  "name": "Grjotbreahesten",
+                  "text": "Ein felsiger Berggipfel in der norwegischen Region Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577824,
+                        61.674684
+                  ]
+            },
+            {
+                  "name": "Glittertinden",
+                  "text": "Mit 2465 Metern ist dies der zweithöchste Berg Norwegens.",
+                  "category": "landmark",
+                  "coords": [
+                        8.557548,
+                        61.651283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nørdre Trollsteinhøe",
+                  "text": "Egy jellegzetes hegycsúcs a Jotunheimen-hegységben, a Glittertind közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.58238,
+                        61.701353
+                  ]
+            },
+            {
+                  "name": "Gråhøe",
+                  "text": "Hegycsúcs a Glittertind régióban, amely a Jotunheimen-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.562019,
+                        61.690178
+                  ]
+            },
+            {
+                  "name": "Svartholshøe",
+                  "text": "Magas hegycsúcs a norvégiai Jotunheimen-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.561952,
+                        61.680798
+                  ]
+            },
+            {
+                  "name": "Trollsteinrundhøe",
+                  "text": "Hegycsúcs a Jotunheimen Nemzeti Parkban, a Glittertind környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55706,
+                        61.674781
+                  ]
+            },
+            {
+                  "name": "Trollsteineggje",
+                  "text": "Hegyi gerinc a Jotunheimen-hegységben, a Glittertind közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55846,
+                        61.660355
+                  ]
+            },
+            {
+                  "name": "Grjotbreahesten",
+                  "text": "Sziklás hegycsúcs a norvégiai Glittertind régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577824,
+                        61.674684
+                  ]
+            },
+            {
+                  "name": "Glittertinden",
+                  "text": "2465 méteres magasságával ez Norvégia második legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        8.557548,
+                        61.651283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nørdre Trollsteinhøe",
+                  "text": "Un vârf muntos din masivul Jotunheimen, situat în apropiere de Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.58238,
+                        61.701353
+                  ]
+            },
+            {
+                  "name": "Gråhøe",
+                  "text": "Un vârf muntos din regiunea Glittertind, parte a masivului Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.562019,
+                        61.690178
+                  ]
+            },
+            {
+                  "name": "Svartholshøe",
+                  "text": "Un vârf înalt din peisajul montan norvegian al Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.561952,
+                        61.680798
+                  ]
+            },
+            {
+                  "name": "Trollsteinrundhøe",
+                  "text": "Un vârf din Parcul Național Jotunheimen, situat în zona Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55706,
+                        61.674781
+                  ]
+            },
+            {
+                  "name": "Trollsteineggje",
+                  "text": "O creastă muntoasă din Jotunheimen, situată în apropiere de Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55846,
+                        61.660355
+                  ]
+            },
+            {
+                  "name": "Grjotbreahesten",
+                  "text": "Un vârf muntos stâncos din regiunea norvegiană Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577824,
+                        61.674684
+                  ]
+            },
+            {
+                  "name": "Glittertinden",
+                  "text": "Cu o înălțime de 2465 de metri, acesta este al doilea cel mai înalt munte din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.557548,
+                        61.651283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nørdre Trollsteinhøe",
+                  "text": "A prominent mountain peak in the Jotunheimen range near Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.58238,
+                        61.701353
+                  ]
+            },
+            {
+                  "name": "Gråhøe",
+                  "text": "A mountain peak in the Glittertind region, part of the Jotunheimen massif.",
+                  "category": "landmark",
+                  "coords": [
+                        8.562019,
+                        61.690178
+                  ]
+            },
+            {
+                  "name": "Svartholshøe",
+                  "text": "A high peak in the Norwegian mountain landscape of Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.561952,
+                        61.680798
+                  ]
+            },
+            {
+                  "name": "Trollsteinrundhøe",
+                  "text": "A peak in the Jotunheimen National Park, located in the vicinity of Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55706,
+                        61.674781
+                  ]
+            },
+            {
+                  "name": "Trollsteineggje",
+                  "text": "A mountain ridge in the Jotunheimen range, located near Glittertind.",
+                  "category": "landmark",
+                  "coords": [
+                        8.55846,
+                        61.660355
+                  ]
+            },
+            {
+                  "name": "Grjotbreahesten",
+                  "text": "A rocky mountain peak in the Norwegian Glittertind region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.577824,
+                        61.674684
+                  ]
+            },
+            {
+                  "name": "Glittertinden",
+                  "text": "At 2,465 meters, this is the second highest mountain in Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        8.557548,
+                        61.651283
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "norway",
     coords: [8.5650, 61.6720],
@@ -10925,7 +11978,88 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/lake-mjosa.webp",
   },
   {
-    id: "river-glomma",
+    id: "river-glomma", "sights": {
+      "de": [
+            {
+                  "name": "Festningsberget bygdeborg",
+                  "text": "Überreste einer prähistorischen Wallburg am Fluss Glomma.",
+                  "category": "historical",
+                  "coords": [
+                        11.402,
+                        60.6746
+                  ]
+            },
+            {
+                  "name": "Kvennstuguteatret",
+                  "text": "Freilichtbühne in der Nähe des Flusses Glomma.",
+                  "category": "cultural",
+                  "coords": [
+                        11.365789,
+                        60.670106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Festningsberget bygdeborg",
+                  "text": "Egy őskori erődítmény maradványai a Glomma folyónál.",
+                  "category": "historical",
+                  "coords": [
+                        11.402,
+                        60.6746
+                  ]
+            },
+            {
+                  "name": "Kvennstuguteatret",
+                  "text": "Szabadtéri színpad a Glomma folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        11.365789,
+                        60.670106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Festningsberget bygdeborg",
+                  "text": "Rămășițele unei cetăți preistorice lângă râul Glomma.",
+                  "category": "historical",
+                  "coords": [
+                        11.402,
+                        60.6746
+                  ]
+            },
+            {
+                  "name": "Kvennstuguteatret",
+                  "text": "Scenă în aer liber situată lângă râul Glomma.",
+                  "category": "cultural",
+                  "coords": [
+                        11.365789,
+                        60.670106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Festningsberget bygdeborg",
+                  "text": "Remains of a prehistoric hillfort by the Glomma river.",
+                  "category": "historical",
+                  "coords": [
+                        11.402,
+                        60.6746
+                  ]
+            },
+            {
+                  "name": "Kvennstuguteatret",
+                  "text": "Open-air theatre venue located near the Glomma river.",
+                  "category": "cultural",
+                  "coords": [
+                        11.365789,
+                        60.670106
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "norway",
     coords: [11.4000, 60.6500],
@@ -11013,7 +12147,124 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/hinnoya.webp",
   },
   {
-    id: "island-senja",
+    id: "island-senja", "sights": {
+      "de": [
+            {
+                  "name": "Brannmyra naturreservat",
+                  "text": "Ein geschütztes Feuchtgebiet auf der Insel Senja, bekannt für seine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        17.565358,
+                        69.1974
+                  ]
+            },
+            {
+                  "name": "Skatvikfjellet naturreservat",
+                  "text": "Ein Naturreservat in Senja, das alpine Küstenlandschaften und seltene Pflanzen schützt.",
+                  "category": "natural",
+                  "coords": [
+                        17.557874,
+                        69.1798
+                  ]
+            },
+            {
+                  "name": "Sážža / Senja natur- og kultursenter",
+                  "text": "Ein Zentrum für samische Kultur und Naturgeschichte in der Region Senja.",
+                  "category": "museum",
+                  "coords": [
+                        17.617747,
+                        69.211106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brannmyra naturreservat",
+                  "text": "Védett mocsaras terület Senja szigetén, amely biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.565358,
+                        69.1974
+                  ]
+            },
+            {
+                  "name": "Skatvikfjellet naturreservat",
+                  "text": "Természetvédelmi terület Senján, amely az alpesi tengerparti tájat és ritka növényeket védi.",
+                  "category": "natural",
+                  "coords": [
+                        17.557874,
+                        69.1798
+                  ]
+            },
+            {
+                  "name": "Sážža / Senja natur- og kultursenter",
+                  "text": "Számi kulturális és természettudományi központ Senja régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        17.617747,
+                        69.211106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brannmyra naturreservat",
+                  "text": "O zonă umedă protejată de pe insula Senja, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        17.565358,
+                        69.1974
+                  ]
+            },
+            {
+                  "name": "Skatvikfjellet naturreservat",
+                  "text": "Rezervație naturală în Senja care protejează peisajele de coastă alpine și plantele rare.",
+                  "category": "natural",
+                  "coords": [
+                        17.557874,
+                        69.1798
+                  ]
+            },
+            {
+                  "name": "Sážža / Senja natur- og kultursenter",
+                  "text": "Un centru pentru cultura sami și istoria naturală din regiunea Senja.",
+                  "category": "museum",
+                  "coords": [
+                        17.617747,
+                        69.211106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brannmyra naturreservat",
+                  "text": "A protected wetland area on Senja island known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        17.565358,
+                        69.1974
+                  ]
+            },
+            {
+                  "name": "Skatvikfjellet naturreservat",
+                  "text": "A nature reserve in Senja protecting alpine coastal landscapes and rare plants.",
+                  "category": "natural",
+                  "coords": [
+                        17.557874,
+                        69.1798
+                  ]
+            },
+            {
+                  "name": "Sážža / Senja natur- og kultursenter",
+                  "text": "A center for Sami culture and natural history in the Senja region.",
+                  "category": "museum",
+                  "coords": [
+                        17.617747,
+                        69.211106
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "norway",
     coords: [17.6000, 69.2000],
@@ -11057,7 +12308,304 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/senja.webp",
   },
   {
-    id: "forest-nordmarka",
+    id: "forest-nordmarka", "sights": {
+      "de": [
+            {
+                  "name": "Mellomkollen naturreservat",
+                  "text": "Ein Naturschutzgebiet im Nordmarka-Wald, das für seine ursprüngliche Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.774627,
+                        60.044527
+                  ]
+            },
+            {
+                  "name": "Lørenskoghøgda",
+                  "text": "Ein Gipfel im Nordmarka-Waldgebiet nördlich von Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.808557,
+                        60.057391
+                  ]
+            },
+            {
+                  "name": "Vindernhøgda",
+                  "text": "Ein bewaldeter Hügel in der Region Nordmarka, ideal zum Wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        10.688499,
+                        60.04073
+                  ]
+            },
+            {
+                  "name": "Glotjernskollen",
+                  "text": "Ein markanter Punkt in der Nordmarka mit Aussicht auf die umliegenden Seen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.763497,
+                        60.081495
+                  ]
+            },
+            {
+                  "name": "Gaupekollen",
+                  "text": "Ein Gipfel in der Nordmarka, der ein beliebtes Ziel für Outdoor-Aktivitäten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.781605,
+                        60.048614
+                  ]
+            },
+            {
+                  "name": "Øyungskollen",
+                  "text": "Ein bewaldeter Gipfel in der Nähe des Sees Øyungen in der Nordmarka.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755536,
+                        60.044813
+                  ]
+            },
+            {
+                  "name": "Dølerudhøgda",
+                  "text": "Eine Anhöhe in der Region Nordmarka, die Teil des ausgedehnten Wegenetzes ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.6911,
+                        60.030002
+                  ]
+            },
+            {
+                  "name": "Rådalshøgda",
+                  "text": "Ein Berg im Nordmarka-Waldgebiet, bekannt für seine ruhige Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.691335,
+                        60.064517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mellomkollen naturreservat",
+                  "text": "Természetvédelmi terület a Nordmarka erdőben, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.774627,
+                        60.044527
+                  ]
+            },
+            {
+                  "name": "Lørenskoghøgda",
+                  "text": "Hegycsúcs az Oslótól északra fekvő Nordmarka erdőterületen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.808557,
+                        60.057391
+                  ]
+            },
+            {
+                  "name": "Vindernhøgda",
+                  "text": "Erdős domb a Nordmarka régióban, amely kiválóan alkalmas túrázásra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.688499,
+                        60.04073
+                  ]
+            },
+            {
+                  "name": "Glotjernskollen",
+                  "text": "Jellegzetes pont a Nordmarka területén, kilátással a környező tavakra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.763497,
+                        60.081495
+                  ]
+            },
+            {
+                  "name": "Gaupekollen",
+                  "text": "A Nordmarka egyik csúcsa, amely kedvelt célpont a szabadtéri tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        10.781605,
+                        60.048614
+                  ]
+            },
+            {
+                  "name": "Øyungskollen",
+                  "text": "Erdős hegycsúcs a Nordmarka területén, az Øyungen-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755536,
+                        60.044813
+                  ]
+            },
+            {
+                  "name": "Dølerudhøgda",
+                  "text": "Magaslat a Nordmarka régióban, amely a kiterjedt túraútvonal-hálózat része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.6911,
+                        60.030002
+                  ]
+            },
+            {
+                  "name": "Rådalshøgda",
+                  "text": "Hegy a Nordmarka erdőben, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.691335,
+                        60.064517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mellomkollen naturreservat",
+                  "text": "O rezervație naturală din pădurea Nordmarka, cunoscută pentru natura sa virgină.",
+                  "category": "natural",
+                  "coords": [
+                        10.774627,
+                        60.044527
+                  ]
+            },
+            {
+                  "name": "Lørenskoghøgda",
+                  "text": "Un vârf din zona împădurită Nordmarka, la nord de Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.808557,
+                        60.057391
+                  ]
+            },
+            {
+                  "name": "Vindernhøgda",
+                  "text": "Un deal împădurit în regiunea Nordmarka, ideal pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        10.688499,
+                        60.04073
+                  ]
+            },
+            {
+                  "name": "Glotjernskollen",
+                  "text": "Un punct proeminent în Nordmarka cu vedere spre lacurile din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        10.763497,
+                        60.081495
+                  ]
+            },
+            {
+                  "name": "Gaupekollen",
+                  "text": "Un vârf din Nordmarka, care este o destinație populară pentru activități în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        10.781605,
+                        60.048614
+                  ]
+            },
+            {
+                  "name": "Øyungskollen",
+                  "text": "Un vârf împădurit situat lângă lacul Øyungen în Nordmarka.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755536,
+                        60.044813
+                  ]
+            },
+            {
+                  "name": "Dølerudhøgda",
+                  "text": "O înălțime în regiunea Nordmarka, care face parte din rețeaua extinsă de trasee.",
+                  "category": "landmark",
+                  "coords": [
+                        10.6911,
+                        60.030002
+                  ]
+            },
+            {
+                  "name": "Rådalshøgda",
+                  "text": "Un munte din zona împădurită Nordmarka, cunoscut pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        10.691335,
+                        60.064517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mellomkollen naturreservat",
+                  "text": "A nature reserve in the Nordmarka forest, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.774627,
+                        60.044527
+                  ]
+            },
+            {
+                  "name": "Lørenskoghøgda",
+                  "text": "A peak in the Nordmarka forest area north of Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.808557,
+                        60.057391
+                  ]
+            },
+            {
+                  "name": "Vindernhøgda",
+                  "text": "A forested hill in the Nordmarka region, ideal for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        10.688499,
+                        60.04073
+                  ]
+            },
+            {
+                  "name": "Glotjernskollen",
+                  "text": "A prominent point in Nordmarka with views of the surrounding lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.763497,
+                        60.081495
+                  ]
+            },
+            {
+                  "name": "Gaupekollen",
+                  "text": "A peak in Nordmarka that is a popular destination for outdoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        10.781605,
+                        60.048614
+                  ]
+            },
+            {
+                  "name": "Øyungskollen",
+                  "text": "A forested peak located near Lake Øyungen in Nordmarka.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755536,
+                        60.044813
+                  ]
+            },
+            {
+                  "name": "Dølerudhøgda",
+                  "text": "An elevation in the Nordmarka region that is part of the extensive trail network.",
+                  "category": "landmark",
+                  "coords": [
+                        10.6911,
+                        60.030002
+                  ]
+            },
+            {
+                  "name": "Rådalshøgda",
+                  "text": "A mountain in the Nordmarka forest area, known for its peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        10.691335,
+                        60.064517
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "norway",
     coords: [10.7390, 60.0500],
@@ -11101,7 +12649,124 @@ export const norwayNature: POI[] = [
     image: "/geo-images/norway/nordmarka.webp",
   },
   {
-    id: "forest-finnskogen",
+    id: "forest-finnskogen", "sights": {
+      "de": [
+            {
+                  "name": "Havsjöskogens naturreservat",
+                  "text": "Ein Naturschutzgebiet im Finnskogen-Wald, bekannt für seine unberührte nadelwaldgeprägte Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.705276,
+                        60.912642
+                  ]
+            },
+            {
+                  "name": "Båtstadknallen",
+                  "text": "Ein Naturschutzgebiet im Finnskogen-Wald, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        12.700037,
+                        60.871866
+                  ]
+            },
+            {
+                  "name": "Granberget",
+                  "text": "Mit 701 Metern ist dies der höchste Gipfel in der Region Värmland.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742035,
+                        60.897398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havsjöskogens naturreservat",
+                  "text": "Természetvédelmi terület a Finnskogen-erdőben, amely érintetlen fenyőerdei tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.705276,
+                        60.912642
+                  ]
+            },
+            {
+                  "name": "Båtstadknallen",
+                  "text": "Természetvédelmi terület a Finnskogen-erdőben, amely a helyi élővilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        12.700037,
+                        60.871866
+                  ]
+            },
+            {
+                  "name": "Granberget",
+                  "text": "701 méteres magasságával ez Värmland régió legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742035,
+                        60.897398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havsjöskogens naturreservat",
+                  "text": "O rezervație naturală în pădurea Finnskogen, cunoscută pentru peisajul său nealterat de conifere.",
+                  "category": "natural",
+                  "coords": [
+                        12.705276,
+                        60.912642
+                  ]
+            },
+            {
+                  "name": "Båtstadknallen",
+                  "text": "O rezervație naturală în pădurea Finnskogen, care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        12.700037,
+                        60.871866
+                  ]
+            },
+            {
+                  "name": "Granberget",
+                  "text": "Cu o înălțime de 701 metri, acesta este cel mai înalt vârf din regiunea Värmland.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742035,
+                        60.897398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havsjöskogens naturreservat",
+                  "text": "A nature reserve in the Finnskogen Forest known for its untouched coniferous forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.705276,
+                        60.912642
+                  ]
+            },
+            {
+                  "name": "Båtstadknallen",
+                  "text": "A nature reserve in the Finnskogen Forest protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        12.700037,
+                        60.871866
+                  ]
+            },
+            {
+                  "name": "Granberget",
+                  "text": "At 701 meters, this is the highest peak in the Värmland region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742035,
+                        60.897398
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "norway",
     coords: [12.7000, 60.9000],
@@ -12193,6 +13858,78 @@ export const norwayCities: POI[] = [
                         6.095152,
                         62.465559
                   ]
+            },
+            {
+                  "name": "Kunstmuseet Kube",
+                  "text": "Kunstmuseum in Ålesund mit Fokus auf bildende Kunst und Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        6.150916,
+                        62.470891
+                  ]
+            },
+            {
+                  "name": "Alesund museum",
+                  "text": "Ein Museum in Ålesund, das die Geschichte und Entwicklung der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.156963,
+                        62.471608
+                  ]
+            },
+            {
+                  "name": "Arbeideren kulturhus",
+                  "text": "Ein Kulturhaus und Theater in Ålesund, das verschiedene Aufführungen und Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152701,
+                        62.470692
+                  ]
+            },
+            {
+                  "name": "Ellingsoya kystfort",
+                  "text": "Eine Küstenfestung auf der Insel Ellingsøya in der Nähe von Ålesund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.174045,
+                        62.493245
+                  ]
+            },
+            {
+                  "name": "Parken kulturhus",
+                  "text": "Ein Veranstaltungsort und Theater in Ålesund, bekannt für seine vielfältigen Bühnenproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.160332,
+                        62.472925
+                  ]
+            },
+            {
+                  "name": "Molja fyr",
+                  "text": "Ein historischer Leuchtturm am Ende des Wellenbrechers im Hafen von Ålesund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.150124,
+                        62.474535
+                  ]
+            },
+            {
+                  "name": "Ingrid's Glass Workshop",
+                  "text": "Eine Glasbläserei in Ålesund, in der Besucher handwerkliche Glaskunst sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        6.148836,
+                        62.473415
+                  ]
+            },
+            {
+                  "name": "Studio Hugo Opdal",
+                  "text": "Eine Kunstgalerie in Ålesund, die zeitgenössische Werke und lokale Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.156892,
+                        62.473571
+                  ]
             }
       ],
       "hu": [
@@ -12248,6 +13985,78 @@ export const norwayCities: POI[] = [
                   "coords": [
                         6.095152,
                         62.465559
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Kube",
+                  "text": "Ålesundi művészeti múzeum, amely a képzőművészetre és az építészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        6.150916,
+                        62.470891
+                  ]
+            },
+            {
+                  "name": "Alesund museum",
+                  "text": "Múzeum Ålesundban, amely a város történelmét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.156963,
+                        62.471608
+                  ]
+            },
+            {
+                  "name": "Arbeideren kulturhus",
+                  "text": "Kulturális központ és színház Ålesundban, amely különféle előadásoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152701,
+                        62.470692
+                  ]
+            },
+            {
+                  "name": "Ellingsoya kystfort",
+                  "text": "Partmenti erőd az Ålesund melletti Ellingsøya szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        6.174045,
+                        62.493245
+                  ]
+            },
+            {
+                  "name": "Parken kulturhus",
+                  "text": "Kulturális helyszín és színház Ålesundban, amely változatos színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.160332,
+                        62.472925
+                  ]
+            },
+            {
+                  "name": "Molja fyr",
+                  "text": "Történelmi világítótorony az ålesundi kikötő hullámtörőjének végén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.150124,
+                        62.474535
+                  ]
+            },
+            {
+                  "name": "Ingrid's Glass Workshop",
+                  "text": "Üvegfúvó műhely Ålesundban, ahol a látogatók kézműves üvegművészeti alkotásokat tekinthetnek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        6.148836,
+                        62.473415
+                  ]
+            },
+            {
+                  "name": "Studio Hugo Opdal",
+                  "text": "Művészeti galéria Ålesundban, amely kortárs műveket és helyi művészeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.156892,
+                        62.473571
                   ]
             }
       ],
@@ -12305,6 +14114,78 @@ export const norwayCities: POI[] = [
                         6.095152,
                         62.465559
                   ]
+            },
+            {
+                  "name": "Kunstmuseet Kube",
+                  "text": "Muzeu de artă din Ålesund, axat pe artele vizuale și arhitectură.",
+                  "category": "museum",
+                  "coords": [
+                        6.150916,
+                        62.470891
+                  ]
+            },
+            {
+                  "name": "Alesund museum",
+                  "text": "Un muzeu în Ålesund care documentează istoria și dezvoltarea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        6.156963,
+                        62.471608
+                  ]
+            },
+            {
+                  "name": "Arbeideren kulturhus",
+                  "text": "Un centru cultural și teatru în Ålesund care găzduiește diverse spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152701,
+                        62.470692
+                  ]
+            },
+            {
+                  "name": "Ellingsoya kystfort",
+                  "text": "Un fort de coastă situat pe insula Ellingsøya de lângă Ålesund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.174045,
+                        62.493245
+                  ]
+            },
+            {
+                  "name": "Parken kulturhus",
+                  "text": "O locație culturală și teatru în Ålesund, cunoscut pentru diversele sale producții scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        6.160332,
+                        62.472925
+                  ]
+            },
+            {
+                  "name": "Molja fyr",
+                  "text": "Un far istoric situat la capătul digului din portul Ålesund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.150124,
+                        62.474535
+                  ]
+            },
+            {
+                  "name": "Ingrid's Glass Workshop",
+                  "text": "Un atelier de suflare a sticlei în Ålesund, unde vizitatorii pot vedea artă artizanală din sticlă.",
+                  "category": "landmark",
+                  "coords": [
+                        6.148836,
+                        62.473415
+                  ]
+            },
+            {
+                  "name": "Studio Hugo Opdal",
+                  "text": "O galerie de artă în Ålesund care expune lucrări contemporane și artiști locali.",
+                  "category": "museum",
+                  "coords": [
+                        6.156892,
+                        62.473571
+                  ]
             }
       ],
       "en": [
@@ -12360,6 +14241,78 @@ export const norwayCities: POI[] = [
                   "coords": [
                         6.095152,
                         62.465559
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Kube",
+                  "text": "Art museum in Ålesund focused on visual arts and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        6.150916,
+                        62.470891
+                  ]
+            },
+            {
+                  "name": "Alesund museum",
+                  "text": "A museum in Ålesund documenting the history and development of the city.",
+                  "category": "museum",
+                  "coords": [
+                        6.156963,
+                        62.471608
+                  ]
+            },
+            {
+                  "name": "Arbeideren kulturhus",
+                  "text": "A cultural center and theatre in Ålesund hosting various performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152701,
+                        62.470692
+                  ]
+            },
+            {
+                  "name": "Ellingsoya kystfort",
+                  "text": "A coastal fort located on the island of Ellingsøya near Ålesund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.174045,
+                        62.493245
+                  ]
+            },
+            {
+                  "name": "Parken kulturhus",
+                  "text": "A cultural venue and theatre in Ålesund known for its diverse stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.160332,
+                        62.472925
+                  ]
+            },
+            {
+                  "name": "Molja fyr",
+                  "text": "A historic lighthouse located at the end of the breakwater in Ålesund's harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        6.150124,
+                        62.474535
+                  ]
+            },
+            {
+                  "name": "Ingrid's Glass Workshop",
+                  "text": "A glassblowing workshop in Ålesund where visitors can see artisanal glass art.",
+                  "category": "landmark",
+                  "coords": [
+                        6.148836,
+                        62.473415
+                  ]
+            },
+            {
+                  "name": "Studio Hugo Opdal",
+                  "text": "An art gallery in Ålesund showcasing contemporary works and local artists.",
+                  "category": "museum",
+                  "coords": [
+                        6.156892,
+                        62.473571
                   ]
             }
       ]
@@ -13432,6 +15385,15 @@ export const norwayCities: POI[] = [
                         10.8987,
                         59.218575
                   ]
+            },
+            {
+                  "name": "Huth fort",
+                  "text": "Eine historische Befestigungsanlage auf einer Insel vor Fredrikstad.",
+                  "category": "castle",
+                  "coords": [
+                        10.901249,
+                        59.204914
+                  ]
             }
       ],
       "hu": [
@@ -13712,6 +15674,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.8987,
                         59.218575
+                  ]
+            },
+            {
+                  "name": "Huth fort",
+                  "text": "Történelmi erődítmény egy Fredrikstad melletti szigeten.",
+                  "category": "castle",
+                  "coords": [
+                        10.901249,
+                        59.204914
                   ]
             }
       ],
@@ -13994,6 +15965,15 @@ export const norwayCities: POI[] = [
                         10.8987,
                         59.218575
                   ]
+            },
+            {
+                  "name": "Huth fort",
+                  "text": "O fortificație istorică situată pe o insulă în afara Fredrikstadului.",
+                  "category": "castle",
+                  "coords": [
+                        10.901249,
+                        59.204914
+                  ]
             }
       ],
       "en": [
@@ -14274,6 +16254,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.8987,
                         59.218575
+                  ]
+            },
+            {
+                  "name": "Huth fort",
+                  "text": "A historic fortification located on an island outside Fredrikstad.",
+                  "category": "castle",
+                  "coords": [
+                        10.901249,
+                        59.204914
                   ]
             }
       ]
@@ -14698,6 +16687,24 @@ export const norwayCities: POI[] = [
                         10.415981,
                         59.294961
                   ]
+            },
+            {
+                  "name": "Gullkronene naturreservat",
+                  "text": "Ein geschütztes Wald- und Naturschutzgebiet in Tønsberg.",
+                  "category": "natural",
+                  "coords": [
+                        10.377806,
+                        59.286567
+                  ]
+            },
+            {
+                  "name": "Presterodkilen naturreservat",
+                  "text": "Ein Naturschutzgebiet in Tønsberg, das aus seichtem Wasser und Küstenlebensräumen besteht.",
+                  "category": "natural",
+                  "coords": [
+                        10.434868,
+                        59.26489
+                  ]
             }
       ],
       "hu": [
@@ -14987,6 +16994,24 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.415981,
                         59.294961
+                  ]
+            },
+            {
+                  "name": "Gullkronene naturreservat",
+                  "text": "Védett erdő és természetvédelmi terület Tønsbergben.",
+                  "category": "natural",
+                  "coords": [
+                        10.377806,
+                        59.286567
+                  ]
+            },
+            {
+                  "name": "Presterodkilen naturreservat",
+                  "text": "Természetvédelmi terület Tønsbergben, amely sekély vizekből és parti élőhelyekből áll.",
+                  "category": "natural",
+                  "coords": [
+                        10.434868,
+                        59.26489
                   ]
             }
       ],
@@ -15278,6 +17303,24 @@ export const norwayCities: POI[] = [
                         10.415981,
                         59.294961
                   ]
+            },
+            {
+                  "name": "Gullkronene naturreservat",
+                  "text": "O pădure protejată și zonă de rezervație naturală situată în Tønsberg.",
+                  "category": "natural",
+                  "coords": [
+                        10.377806,
+                        59.286567
+                  ]
+            },
+            {
+                  "name": "Presterodkilen naturreservat",
+                  "text": "O rezervație naturală în Tønsberg, formată din ape puțin adânci și habitate de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        10.434868,
+                        59.26489
+                  ]
             }
       ],
       "en": [
@@ -15567,6 +17610,24 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.415981,
                         59.294961
+                  ]
+            },
+            {
+                  "name": "Gullkronene naturreservat",
+                  "text": "A protected forest and nature reserve area located in Tønsberg.",
+                  "category": "natural",
+                  "coords": [
+                        10.377806,
+                        59.286567
+                  ]
+            },
+            {
+                  "name": "Presterodkilen naturreservat",
+                  "text": "A nature reserve in Tønsberg comprising shallow waters and coastal habitats.",
+                  "category": "natural",
+                  "coords": [
+                        10.434868,
+                        59.26489
                   ]
             }
       ]
@@ -17896,7 +19957,268 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/oslo-opera.webp",
   },
   {
-    id: "cult-roros",
+    id: "cult-roros", "sights": {
+      "de": [
+            {
+                  "name": "Kvitsanden landskapsvernområde",
+                  "text": "Ein Naturschutzgebiet bei Røros, das für seine ungewöhnlichen Binnensanddünen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.361684,
+                        62.582582
+                  ]
+            },
+            {
+                  "name": "Doktortjønna friluftspark",
+                  "text": "Ein Familienpark in Røros mit Aktivitäten im Freien und Einblicken in die Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        11.373067,
+                        62.578136
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Smelthytta",
+                  "text": "Dieses Museum in der alten Schmelzhütte von Røros dokumentiert die Geschichte des Kupferbergbaus.",
+                  "category": "museum",
+                  "coords": [
+                        11.39125,
+                        62.577185
+                  ]
+            },
+            {
+                  "name": "Storstuggu",
+                  "text": "Das moderne Kultur- und Theaterzentrum von Røros, Austragungsort verschiedener Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.381065,
+                        62.579072
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Bygningsvernsenteret",
+                  "text": "Ein Zentrum des Røros-Museums, das sich dem Erhalt traditioneller Handwerkstechniken widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.390343,
+                        62.576519
+                  ]
+            },
+            {
+                  "name": "Pressemuseet Fjeld-Ljom",
+                  "text": "Ein Pressemuseum in Røros, das eine authentische historische Zeitungsredaktion und Druckerei zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.387041,
+                        62.573958
+                  ]
+            },
+            {
+                  "name": "Stenbrottet",
+                  "text": "Die Überreste eines historischen Steinbruchs in Røros, die von früherer industrieller Nutzung zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        11.371517,
+                        62.54653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kvitsanden landskapsvernområde",
+                  "text": "Természetvédelmi terület Røros közelében, amely szokatlan belföldi homokdűnéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        11.361684,
+                        62.582582
+                  ]
+            },
+            {
+                  "name": "Doktortjønna friluftspark",
+                  "text": "Családi park Rørosban szabadtéri tevékenységekkel és természeti ismeretterjesztéssel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.373067,
+                        62.578136
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Smelthytta",
+                  "text": "A rørosi régi olvasztóban található múzeum a rézbányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.39125,
+                        62.577185
+                  ]
+            },
+            {
+                  "name": "Storstuggu",
+                  "text": "Røros modern kulturális és színházi központja, amely különféle rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.381065,
+                        62.579072
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Bygningsvernsenteret",
+                  "text": "A Røros Múzeum központja, amely a hagyományos kézműves technikák megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        11.390343,
+                        62.576519
+                  ]
+            },
+            {
+                  "name": "Pressemuseet Fjeld-Ljom",
+                  "text": "Sajtómúzeum Rørosban, amely hiteles történelmi szerkesztőséget és nyomdát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.387041,
+                        62.573958
+                  ]
+            },
+            {
+                  "name": "Stenbrottet",
+                  "text": "Egy történelmi kőbánya maradványai Rørosban, amelyek a korábbi ipari tevékenységről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        11.371517,
+                        62.54653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kvitsanden landskapsvernområde",
+                  "text": "O rezervație naturală lângă Røros, cunoscută pentru dunele sale de nisip continentale neobișnuite.",
+                  "category": "natural",
+                  "coords": [
+                        11.361684,
+                        62.582582
+                  ]
+            },
+            {
+                  "name": "Doktortjønna friluftspark",
+                  "text": "Un parc pentru familii în Røros, cu activități în aer liber și informații despre natură.",
+                  "category": "recreational",
+                  "coords": [
+                        11.373067,
+                        62.578136
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Smelthytta",
+                  "text": "Acest muzeu situat în vechea topitorie din Røros documentează istoria mineritului de cupru.",
+                  "category": "museum",
+                  "coords": [
+                        11.39125,
+                        62.577185
+                  ]
+            },
+            {
+                  "name": "Storstuggu",
+                  "text": "Centrul cultural și teatral modern din Røros, gazdă a diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        11.381065,
+                        62.579072
+                  ]
+            },
+            {
+                  "name": "Rørosmuseet Bygningsvernsenteret",
+                  "text": "Un centru al Muzeului Røros dedicat conservării tehnicilor meșteșugărești tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        11.390343,
+                        62.576519
+                  ]
+            },
+            {
+                  "name": "Pressemuseet Fjeld-Ljom",
+                  "text": "Un muzeu al presei în Røros, care prezintă o redacție și o tipografie istorică autentică.",
+                  "category": "museum",
+                  "coords": [
+                        11.387041,
+                        62.573958
+                  ]
+            },
+            {
+                  "name": "Stenbrottet",
+                  "text": "Vestigiile unei cariere de piatră istorice din Røros, care atestă activitatea industrială din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        11.371517,
+                        62.54653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kvitsanden landskapsvernområde",
+                  "text": "A nature reserve near Røros, known for its unusual inland sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        11.361684,
+                        62.582582
+                  ]
+            },
+            {
+                  "name": "Doktortjønna friluftspark",
+                  "text": "A family park in Røros with outdoor activities and insights into nature.",
+                  "category": "recreational",
+                  "coords": [
+                        11.373067,
+                        62.578136
+                  ]
+            },
+            {
+                  "name": "Røros Museum Smeltery",
+                  "text": "This museum in the old smeltery of Røros documents the history of copper mining.",
+                  "category": "museum",
+                  "coords": [
+                        11.39125,
+                        62.577185
+                  ]
+            },
+            {
+                  "name": "Storstuggu",
+                  "text": "The modern cultural and theatre center of Røros, host to various events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.381065,
+                        62.579072
+                  ]
+            },
+            {
+                  "name": "Røros Museum Preservation Centre",
+                  "text": "A center of the Røros Museum dedicated to preserving traditional craft techniques.",
+                  "category": "museum",
+                  "coords": [
+                        11.390343,
+                        62.576519
+                  ]
+            },
+            {
+                  "name": "Pressemuseet Fjeld-Ljom",
+                  "text": "A press museum in Røros showcasing an authentic historic newspaper office and printing house.",
+                  "category": "museum",
+                  "coords": [
+                        11.387041,
+                        62.573958
+                  ]
+            },
+            {
+                  "name": "Stenbrottet",
+                  "text": "The remains of a historic stone quarry in Røros, reflecting past industrial activity.",
+                  "category": "historical",
+                  "coords": [
+                        11.371517,
+                        62.54653
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "norway",
     coords: [11.3848, 62.5748],
@@ -18072,7 +20394,52 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/gamlebyen-fredrikstad.webp",
   },
   {
-    id: "hist-stiklestad-battlefield",
+    id: "hist-stiklestad-battlefield", "sights": {
+      "de": [
+            {
+                  "name": "Jotulstein",
+                  "text": "Ein markanter Stein auf dem historischen Schlachtfeld von Stiklestad.",
+                  "category": "landmark",
+                  "coords": [
+                        11.508515,
+                        63.531826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jotulstein",
+                  "text": "Jellegzetes kő a stiklestadi történelmi csatamezőn.",
+                  "category": "landmark",
+                  "coords": [
+                        11.508515,
+                        63.531826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jotulstein",
+                  "text": "O piatră distinctivă pe câmpul de luptă istoric de la Stiklestad.",
+                  "category": "landmark",
+                  "coords": [
+                        11.508515,
+                        63.531826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jotulstein",
+                  "text": "A prominent stone on the historic Stiklestad battlefield.",
+                  "category": "landmark",
+                  "coords": [
+                        11.508515,
+                        63.531826
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "norway",
     coords: [11.4310, 63.5262],
@@ -18248,7 +20615,304 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/kongsberg-silver-mines.webp",
   },
   {
-    id: "hist-vardohus-fortress",
+    id: "hist-vardohus-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Vardøhus festning",
+                  "text": "Eine historische Küstenfestung in Vardø, die nördlichste Festung der Welt.",
+                  "category": "fortress",
+                  "coords": [
+                        31.095307,
+                        70.372114
+                  ]
+            },
+            {
+                  "name": "Hornøya og Reinøya naturreservat",
+                  "text": "Ein Naturschutzgebiet auf nördlichen Inseln, bekannt für große Seevogelkolonien.",
+                  "category": "natural",
+                  "coords": [
+                        31.141891,
+                        70.390386
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Vardø",
+                  "text": "Ein Leuchtturm in Vardø, der Schiffen den Weg durch die Barentssee weist.",
+                  "category": "landmark",
+                  "coords": [
+                        31.156764,
+                        70.388736
+                  ]
+            },
+            {
+                  "name": "Renøsund kystfort",
+                  "text": "Die Überreste einer Küstenbefestigung in der Nähe von Vardø.",
+                  "category": "fortress",
+                  "coords": [
+                        31.071289,
+                        70.398704
+                  ]
+            },
+            {
+                  "name": "Pomormuseet",
+                  "text": "Ein Museum in Vardø, das dem historischen Pomor-Handel mit Russland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.105056,
+                        70.371123
+                  ]
+            },
+            {
+                  "name": "Vardø museum",
+                  "text": "Ein Heimatmuseum, das das kulturelle und natürliche Erbe von Vardø zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        31.112997,
+                        70.369176
+                  ]
+            },
+            {
+                  "name": "Hexenmahnmal",
+                  "text": "Ein Denkmal in Vardø zum Gedenken an die Opfer der Hexenprozesse im 17. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        31.093308,
+                        70.368806
+                  ]
+            },
+            {
+                  "name": "Östlichster Punkt Norwegens",
+                  "text": "Norwegens östlichste Insel, bekannt für ihre reiche Vogelwelt und ihren Leuchtturm.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168583,
+                        70.386833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vardøhus festning",
+                  "text": "Történelmi tengerparti erőd Vardøban, a világ legészakibb erődítménye.",
+                  "category": "fortress",
+                  "coords": [
+                        31.095307,
+                        70.372114
+                  ]
+            },
+            {
+                  "name": "Hornøya og Reinøya naturreservat",
+                  "text": "Északi szigeteken található természetvédelmi terület, amely tengeri madárkolóniáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        31.141891,
+                        70.390386
+                  ]
+            },
+            {
+                  "name": "Vardø fyr",
+                  "text": "Vardøban található világítótorony, amely a Barents-tengeren segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        31.156764,
+                        70.388736
+                  ]
+            },
+            {
+                  "name": "Renøsund kystfort",
+                  "text": "Partmenti erődítmény maradványai Vardø közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        31.071289,
+                        70.398704
+                  ]
+            },
+            {
+                  "name": "Pomormuseet",
+                  "text": "Vardøi múzeum, amely a történelmi orosz-norvég Pomor-kereskedelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.105056,
+                        70.371123
+                  ]
+            },
+            {
+                  "name": "Vardø museum",
+                  "text": "Helytörténeti múzeum, amely Vardø kulturális és természeti örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.112997,
+                        70.369176
+                  ]
+            },
+            {
+                  "name": "Steilneset Minnested",
+                  "text": "Emlékmű Vardøban, amely a 17. századi boszorkányperek áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        31.093308,
+                        70.368806
+                  ]
+            },
+            {
+                  "name": "Hornøy",
+                  "text": "Norvégia legkeletibb szigete, amely gazdag madárvilágáról és világítótornyáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168583,
+                        70.386833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vardøhus festning",
+                  "text": "O cetate de coastă istorică din Vardø, cea mai nordică fortăreață din lume.",
+                  "category": "fortress",
+                  "coords": [
+                        31.095307,
+                        70.372114
+                  ]
+            },
+            {
+                  "name": "Hornøya og Reinøya naturreservat",
+                  "text": "O rezervație naturală pe insulele nordice, cunoscută pentru coloniile mari de păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        31.141891,
+                        70.390386
+                  ]
+            },
+            {
+                  "name": "Vardø fyr",
+                  "text": "Un far situat în Vardø, care ghidează navele prin Marea Barents.",
+                  "category": "landmark",
+                  "coords": [
+                        31.156764,
+                        70.388736
+                  ]
+            },
+            {
+                  "name": "Renøsund kystfort",
+                  "text": "Vestigiile unei fortificații de coastă situate lângă Vardø.",
+                  "category": "fortress",
+                  "coords": [
+                        31.071289,
+                        70.398704
+                  ]
+            },
+            {
+                  "name": "Pomormuseet",
+                  "text": "Un muzeu din Vardø dedicat comerțului istoric Pomor cu Rusia.",
+                  "category": "museum",
+                  "coords": [
+                        31.105056,
+                        70.371123
+                  ]
+            },
+            {
+                  "name": "Vardø museum",
+                  "text": "Un muzeu de istorie locală care prezintă moștenirea culturală și naturală din Vardø.",
+                  "category": "museum",
+                  "coords": [
+                        31.112997,
+                        70.369176
+                  ]
+            },
+            {
+                  "name": "Steilneset Minnested",
+                  "text": "Un memorial din Vardø dedicat victimelor proceselor vrăjitoarelor din secolul al XVII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        31.093308,
+                        70.368806
+                  ]
+            },
+            {
+                  "name": "Hornøy",
+                  "text": "Cea mai estică insulă a Norvegiei, faimoasă pentru fauna sa bogată de păsări și farul său.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168583,
+                        70.386833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vardøhus Fortress",
+                  "text": "A historic coastal fortress in Vardø, the northernmost fort in the world.",
+                  "category": "fortress",
+                  "coords": [
+                        31.095307,
+                        70.372114
+                  ]
+            },
+            {
+                  "name": "Hornøya og Reinøya naturreservat",
+                  "text": "A nature reserve on northern islands, known for large colonies of seabirds.",
+                  "category": "natural",
+                  "coords": [
+                        31.141891,
+                        70.390386
+                  ]
+            },
+            {
+                  "name": "Vardø Lighthouse",
+                  "text": "A lighthouse situated in Vardø, guiding ships through the Barents Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        31.156764,
+                        70.388736
+                  ]
+            },
+            {
+                  "name": "Renøsund kystfort",
+                  "text": "The remains of a coastal fortification located near Vardø.",
+                  "category": "fortress",
+                  "coords": [
+                        31.071289,
+                        70.398704
+                  ]
+            },
+            {
+                  "name": "Pomormuseet",
+                  "text": "A museum in Vardø dedicated to the historic Pomor trade with Russia.",
+                  "category": "museum",
+                  "coords": [
+                        31.105056,
+                        70.371123
+                  ]
+            },
+            {
+                  "name": "Vardø museum",
+                  "text": "A local history museum showcasing the cultural and natural heritage of Vardø.",
+                  "category": "museum",
+                  "coords": [
+                        31.112997,
+                        70.369176
+                  ]
+            },
+            {
+                  "name": "Steilneset Memorial",
+                  "text": "A memorial in Vardø commemorating the victims of the 17th-century witch trials.",
+                  "category": "historical",
+                  "coords": [
+                        31.093308,
+                        70.368806
+                  ]
+            },
+            {
+                  "name": "Hornøy",
+                  "text": "Norway's easternmost island, famous for its rich birdlife and lighthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168583,
+                        70.386833
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "norway",
     coords: [31.1050, 70.3700],
@@ -18644,7 +21308,52 @@ export const norwayCulture: POI[] = [
     image: "/geo-images/norway/heroya-industrial-park.webp",
   },
   {
-    id: "industry-mongstad-refinery",
+    id: "industry-mongstad-refinery", "sights": {
+      "de": [
+            {
+                  "name": "Håvarden og Klubben naturreservat",
+                  "text": "Ein Küstennaturschutzgebiet in der Nähe des Industriegebiets Mongstad.",
+                  "category": "natural",
+                  "coords": [
+                        4.988848,
+                        60.824149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Håvarden og Klubben naturreservat",
+                  "text": "Tengerparti természetvédelmi terület a Mongstad ipari övezet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.988848,
+                        60.824149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Håvarden og Klubben naturreservat",
+                  "text": "O rezervație naturală de coastă situată în apropierea zonei industriale Mongstad.",
+                  "category": "natural",
+                  "coords": [
+                        4.988848,
+                        60.824149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Håvarden og Klubben naturreservat",
+                  "text": "A coastal nature reserve located near the Mongstad industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        4.988848,
+                        60.824149
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "norway",
     coords: [5.0190, 60.8015],

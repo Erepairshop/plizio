@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const czechrepublicEconomicV2: POI[] = [
 
   {
-    id: "czechrepublic-temelin-nuclear-plant-economic-v2",
+    id: "czechrepublic-temelin-nuclear-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Hohen-Hradek",
+                  "text": "Ein Schloss bei Temelín, das heute ein Informationszentrum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        14.38638,
+                        49.18126
+                  ]
+            },
+            {
+                  "name": "tvrz Býšov",
+                  "text": "Überreste einer mittelalterlichen Festung in der Nähe von Temelín.",
+                  "category": "castle",
+                  "coords": [
+                        14.400135,
+                        49.159661
+                  ]
+            },
+            {
+                  "name": "Alej rodáka Našince",
+                  "text": "Eine Gedenkallee in der Nähe des Kraftwerks Temelín.",
+                  "category": "historical",
+                  "coords": [
+                        14.336253,
+                        49.195205
+                  ]
+            },
+            {
+                  "name": "svatý Prokop",
+                  "text": "Ein lokaler Ort der Andacht, der dem heiligen Prokop gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.365602,
+                        49.160715
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Ein lokaler Ort der Andacht, der dem heiligen Johannes von Nepomuk gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.389563,
+                        49.180635
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Ein lokaler religiöser Ort, der der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.326323,
+                        49.173701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zámek Vysoký Hrádek",
+                  "text": "Kastély Temelín mellett, amely ma információs központnak ad helyet.",
+                  "category": "castle",
+                  "coords": [
+                        14.38638,
+                        49.18126
+                  ]
+            },
+            {
+                  "name": "tvrz Býšov",
+                  "text": "Egy középkori erőd maradványai Temelín közelében.",
+                  "category": "castle",
+                  "coords": [
+                        14.400135,
+                        49.159661
+                  ]
+            },
+            {
+                  "name": "Alej rodáka Našince",
+                  "text": "Emlékfasor a temelíni erőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.336253,
+                        49.195205
+                  ]
+            },
+            {
+                  "name": "svatý Prokop",
+                  "text": "Szent Prokopnak szentelt helyi vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        14.365602,
+                        49.160715
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Nepomuki Szent Jánosnak szentelt helyi vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        14.389563,
+                        49.180635
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "A Szentháromságnak szentelt helyi vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        14.326323,
+                        49.173701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zámek Vysoký Hrádek",
+                  "text": "Un castel de lângă Temelín, care găzduiește astăzi un centru de informare.",
+                  "category": "castle",
+                  "coords": [
+                        14.38638,
+                        49.18126
+                  ]
+            },
+            {
+                  "name": "tvrz Býšov",
+                  "text": "Rămășițele unei cetăți medievale situate în apropiere de Temelín.",
+                  "category": "castle",
+                  "coords": [
+                        14.400135,
+                        49.159661
+                  ]
+            },
+            {
+                  "name": "Alej rodáka Našince",
+                  "text": "O alee memorială situată în apropierea centralei de la Temelín.",
+                  "category": "historical",
+                  "coords": [
+                        14.336253,
+                        49.195205
+                  ]
+            },
+            {
+                  "name": "svatý Prokop",
+                  "text": "Un lăcaș de cult local dedicat Sfântului Procopie.",
+                  "category": "religious",
+                  "coords": [
+                        14.365602,
+                        49.160715
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "Un lăcaș de cult local dedicat Sfântului Ioan Nepomuk.",
+                  "category": "religious",
+                  "coords": [
+                        14.389563,
+                        49.180635
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Un lăcaș de cult local dedicat Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        14.326323,
+                        49.173701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zámek Vysoký Hrádek",
+                  "text": "A castle near Temelín that now houses an information center.",
+                  "category": "castle",
+                  "coords": [
+                        14.38638,
+                        49.18126
+                  ]
+            },
+            {
+                  "name": "tvrz Býšov",
+                  "text": "The remains of a medieval fortress located near Temelín.",
+                  "category": "castle",
+                  "coords": [
+                        14.400135,
+                        49.159661
+                  ]
+            },
+            {
+                  "name": "Alej rodáka Našince",
+                  "text": "A memorial avenue located near the Temelín power plant.",
+                  "category": "historical",
+                  "coords": [
+                        14.336253,
+                        49.195205
+                  ]
+            },
+            {
+                  "name": "svatý Prokop",
+                  "text": "A local place of worship dedicated to Saint Procopius.",
+                  "category": "religious",
+                  "coords": [
+                        14.365602,
+                        49.160715
+                  ]
+            },
+            {
+                  "name": "svatý Jan Nepomucký",
+                  "text": "A local place of worship dedicated to Saint John of Nepomuk.",
+                  "category": "religious",
+                  "coords": [
+                        14.389563,
+                        49.180635
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "A local religious site dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        14.326323,
+                        49.173701
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Temelín", hu: "Temelíni atomerőmű", ro: "Centrala nucleară de la Temelín", en: "Temelín Nuclear Power Station"},
@@ -143,7 +368,304 @@ export const czechrepublicEconomicV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-dukovany-nuclear-plant-economic-v2",
+    id: "czechrepublic-dukovany-nuclear-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rabštejn",
+                  "text": "Ruinen einer mittelalterlichen Burg in der Nähe des Kraftwerks Dukovany.",
+                  "category": "castle",
+                  "coords": [
+                        16.153596,
+                        49.097028
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Mohelenská hadcová step",
+                  "text": "Ein Naturschutzgebiet mit einer einzigartigen Serpentin-Steppenflora.",
+                  "category": "natural",
+                  "coords": [
+                        16.182434,
+                        49.105446
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Dukovanský mlýn",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.176607,
+                        49.096486
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Jezera",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.16656,
+                        49.10259
+                  ]
+            },
+            {
+                  "name": "zámek Dukovany",
+                  "text": "Ein historisches Schloss in Dukovany.",
+                  "category": "castle",
+                  "coords": [
+                        16.194751,
+                        49.081886
+                  ]
+            },
+            {
+                  "name": "galerie Čertův ocas",
+                  "text": "Eine Kunstgalerie und ein Museum in Dukovany.",
+                  "category": "museum",
+                  "coords": [
+                        16.189269,
+                        49.102953
+                  ]
+            },
+            {
+                  "name": "PR Dukovanský mlýn",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.179906,
+                        49.09517
+                  ]
+            },
+            {
+                  "name": "Nanebevzetí Panny Marie",
+                  "text": "Eine religiöse Gebetsstätte in Dukovany.",
+                  "category": "religious",
+                  "coords": [
+                        16.144064,
+                        49.093551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabštejn",
+                  "text": "Középkori vár romjai a dukovanyi erőmű közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.153596,
+                        49.097028
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Mohelenská hadcová step",
+                  "text": "Természetvédelmi terület egyedülálló szerpentin-sztyeppei flórával.",
+                  "category": "natural",
+                  "coords": [
+                        16.182434,
+                        49.105446
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Dukovanský mlýn",
+                  "text": "Természetvédelmi terület Dukovany közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.176607,
+                        49.096486
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Jezera",
+                  "text": "Természetvédelmi terület Dukovany közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.16656,
+                        49.10259
+                  ]
+            },
+            {
+                  "name": "zámek Dukovany",
+                  "text": "Történelmi kastély Dukovany településen.",
+                  "category": "castle",
+                  "coords": [
+                        16.194751,
+                        49.081886
+                  ]
+            },
+            {
+                  "name": "galerie Čertův ocas",
+                  "text": "Művészeti galéria és múzeum Dukovanyban.",
+                  "category": "museum",
+                  "coords": [
+                        16.189269,
+                        49.102953
+                  ]
+            },
+            {
+                  "name": "PR Dukovanský mlýn",
+                  "text": "Védett természeti terület Dukovany közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.179906,
+                        49.09517
+                  ]
+            },
+            {
+                  "name": "Nanebevzetí Panny Marie",
+                  "text": "Vallási kegyhely Dukovanyban.",
+                  "category": "religious",
+                  "coords": [
+                        16.144064,
+                        49.093551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabštejn",
+                  "text": "Ruinele unui castel medieval în apropierea centralei Dukovany.",
+                  "category": "castle",
+                  "coords": [
+                        16.153596,
+                        49.097028
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Mohelenská hadcová step",
+                  "text": "O rezervație naturală cu o floră unică de stepă pe serpentinit.",
+                  "category": "natural",
+                  "coords": [
+                        16.182434,
+                        49.105446
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Dukovanský mlýn",
+                  "text": "O rezervație naturală în apropiere de Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.176607,
+                        49.096486
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Jezera",
+                  "text": "O rezervație naturală în apropiere de Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.16656,
+                        49.10259
+                  ]
+            },
+            {
+                  "name": "zámek Dukovany",
+                  "text": "Un castel istoric situat în Dukovany.",
+                  "category": "castle",
+                  "coords": [
+                        16.194751,
+                        49.081886
+                  ]
+            },
+            {
+                  "name": "galerie Čertův ocas",
+                  "text": "O galerie de artă și muzeu în Dukovany.",
+                  "category": "museum",
+                  "coords": [
+                        16.189269,
+                        49.102953
+                  ]
+            },
+            {
+                  "name": "PR Dukovanský mlýn",
+                  "text": "O zonă naturală protejată în apropiere de Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.179906,
+                        49.09517
+                  ]
+            },
+            {
+                  "name": "Nanebevzetí Panny Marie",
+                  "text": "Un lăcaș de cult în Dukovany.",
+                  "category": "religious",
+                  "coords": [
+                        16.144064,
+                        49.093551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabštejn",
+                  "text": "Ruins of a medieval castle located near the Dukovany power station.",
+                  "category": "castle",
+                  "coords": [
+                        16.153596,
+                        49.097028
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Mohelenská hadcová step",
+                  "text": "A nature reserve featuring unique serpentine steppe flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.182434,
+                        49.105446
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace Dukovanský mlýn",
+                  "text": "A nature reserve located near Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.176607,
+                        49.096486
+                  ]
+            },
+            {
+                  "name": "přírodní rezervace U Jezera",
+                  "text": "A nature reserve located near Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.16656,
+                        49.10259
+                  ]
+            },
+            {
+                  "name": "zámek Dukovany",
+                  "text": "A historic castle located in Dukovany.",
+                  "category": "castle",
+                  "coords": [
+                        16.194751,
+                        49.081886
+                  ]
+            },
+            {
+                  "name": "galerie Čertův ocas",
+                  "text": "An art gallery and museum located in Dukovany.",
+                  "category": "museum",
+                  "coords": [
+                        16.189269,
+                        49.102953
+                  ]
+            },
+            {
+                  "name": "PR Dukovanský mlýn",
+                  "text": "A protected nature area located near Dukovany.",
+                  "category": "natural",
+                  "coords": [
+                        16.179906,
+                        49.09517
+                  ]
+            },
+            {
+                  "name": "Nanebevzetí Panny Marie",
+                  "text": "A place of worship located in Dukovany.",
+                  "category": "religious",
+                  "coords": [
+                        16.144064,
+                        49.093551
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Dukovany", hu: "Dukovanyi atomerőmű", ro: "Centrala nucleară de la Dukovany", en: "Dukovany Nuclear Power Station"},

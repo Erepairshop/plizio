@@ -4,7 +4,124 @@ import type { POI } from "./poi";
 
 export const poiExtraAustriaNature: POI[] = [
   {
-    id: "nature-nationalpark-kalkalpen-extra",
+    id: "nature-nationalpark-kalkalpen-extra", "sights": {
+      "de": [
+            {
+                  "name": "Vorderreuterstein",
+                  "text": "Ein Berggipfel im Nationalpark Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.355953,
+                        47.817559
+                  ]
+            },
+            {
+                  "name": "Zöbel",
+                  "text": "Ein Gipfel in der malerischen Region des Nationalparks Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.385464,
+                        47.822294
+                  ]
+            },
+            {
+                  "name": "Karstquelle Maulaufloch",
+                  "text": "Eine natürliche Karstquelle im Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.386167,
+                        47.800305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vorderreuterstein",
+                  "text": "Hegycsúcs a Kalkalpen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.355953,
+                        47.817559
+                  ]
+            },
+            {
+                  "name": "Zöbel",
+                  "text": "Egy csúcs a Kalkalpen Nemzeti Park festői régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.385464,
+                        47.822294
+                  ]
+            },
+            {
+                  "name": "Karstquelle Maulaufloch",
+                  "text": "Természetes karsztforrás a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.386167,
+                        47.800305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vorderreuterstein",
+                  "text": "Un vârf montan în Parcul Național Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.355953,
+                        47.817559
+                  ]
+            },
+            {
+                  "name": "Zöbel",
+                  "text": "Un vârf în regiunea pitorească a Parcului Național Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.385464,
+                        47.822294
+                  ]
+            },
+            {
+                  "name": "Karstquelle Maulaufloch",
+                  "text": "O sursă carstică naturală situată în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        14.386167,
+                        47.800305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vorderreuterstein",
+                  "text": "A mountain peak in the Kalkalpen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.355953,
+                        47.817559
+                  ]
+            },
+            {
+                  "name": "Zöbel",
+                  "text": "A peak within the scenic Kalkalpen National Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.385464,
+                        47.822294
+                  ]
+            },
+            {
+                  "name": "Karstquelle Maulaufloch",
+                  "text": "A natural karst spring located in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.386167,
+                        47.800305
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "AT-4",
     coords: [14.40, 47.80],
@@ -46,7 +163,232 @@ export const poiExtraAustriaNature: POI[] = [
       fr: ["Environ quatre cinquièmes de la surface du parc national sont recouverts de forêts denses.", "La zone abrite une diversité d'insectes exceptionnelle avec environ 1500 espèces de papillons.", "En raison des règles strictes de protection, les arbres morts sont laissés sur place pour favoriser la biodiversité.", "Le Wurbauerkogel offre un point de vue panoramique spectaculaire sur l'ensemble du territoire."],
     }, image: "/poi-images/nature-nationalpark-kalkalpen-extra.webp"},
   {
-    id: "lake-attersee-extra",
+    id: "lake-attersee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Gale Warning Seefeld Iso Y 2s",
+                  "text": "Ein Sturmwarnsignal-Turm am Attersee in Seefeld.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54333,
+                        47.840439
+                  ]
+            },
+            {
+                  "name": "Gale Warning Nußdorf Iso Y 2s",
+                  "text": "Ein Sturmwarnsignal-Turm für Segler am Attersee in Nußdorf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.530704,
+                        47.880016
+                  ]
+            },
+            {
+                  "name": "Auf dem Laufsteg ins Zwetschkenreich",
+                  "text": "Ein Heimatmuseum am Attersee, das dem kulturellen Erbe und dem Zwetschkenanbau der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.549251,
+                        47.831098
+                  ]
+            },
+            {
+                  "name": "Bramhosen",
+                  "text": "Ein Berggipfel in der Nähe des Attersees, der schöne Wandermöglichkeiten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.587418,
+                        47.858548
+                  ]
+            },
+            {
+                  "name": "Gustav Mahler Komponierhäuschen",
+                  "text": "Ein kleines Häuschen am Attersee, in dem der Komponist Gustav Mahler einige seiner Werke schuf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54486,
+                        47.840642
+                  ]
+            },
+            {
+                  "name": "Dachsteinblick",
+                  "text": "Ein beliebter Aussichtspunkt am Attersee mit herrlichem Blick auf das Dachsteinmassiv.",
+                  "category": "natural",
+                  "coords": [
+                        13.507783,
+                        47.868052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gale Warning Seefeld Iso Y 2s",
+                  "text": "Viharjelző fénytorony az Attersee-tónál, Seefeldben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54333,
+                        47.840439
+                  ]
+            },
+            {
+                  "name": "Gale Warning Nußdorf Iso Y 2s",
+                  "text": "Viharjelző fénytorony hajósok számára az Attersee-tónál, Nußdorfban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.530704,
+                        47.880016
+                  ]
+            },
+            {
+                  "name": "Auf dem Laufsteg ins Zwetschkenreich",
+                  "text": "Helytörténeti múzeum az Attersee-nél, amely a régió kulturális örökségét és a szilvatermesztést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.549251,
+                        47.831098
+                  ]
+            },
+            {
+                  "name": "Bramhosen",
+                  "text": "Hegycsúcs az Attersee közelében, amely szép túrázási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.587418,
+                        47.858548
+                  ]
+            },
+            {
+                  "name": "Gustav Mahler Komponierhäuschen",
+                  "text": "Kis kunyhó az Attersee-nél, ahol Gustav Mahler zeneszerző több művét is alkotta.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54486,
+                        47.840642
+                  ]
+            },
+            {
+                  "name": "Dachsteinblick",
+                  "text": "Népszerű kilátó az Attersee-nél, ahonnan lenyűgöző panoráma nyílik a Dachstein-hegység felé.",
+                  "category": "natural",
+                  "coords": [
+                        13.507783,
+                        47.868052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gale Warning Seefeld Iso Y 2s",
+                  "text": "Un turn de semnalizare pentru avertizare de furtună situat pe lacul Attersee, în Seefeld.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54333,
+                        47.840439
+                  ]
+            },
+            {
+                  "name": "Gale Warning Nußdorf Iso Y 2s",
+                  "text": "Un turn de semnalizare pentru avertizare de furtună pentru marinari pe lacul Attersee, în Nußdorf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.530704,
+                        47.880016
+                  ]
+            },
+            {
+                  "name": "Auf dem Laufsteg ins Zwetschkenreich",
+                  "text": "Un muzeu local de la lacul Attersee, dedicat moștenirii culturale a regiunii și producției de prune.",
+                  "category": "museum",
+                  "coords": [
+                        13.549251,
+                        47.831098
+                  ]
+            },
+            {
+                  "name": "Bramhosen",
+                  "text": "Un vârf montan care oferă oportunități pitorești de drumeție lângă lacul Attersee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.587418,
+                        47.858548
+                  ]
+            },
+            {
+                  "name": "Gustav Mahler Komponierhäuschen",
+                  "text": "O mică colibă de la lacul Attersee, unde compozitorul Gustav Mahler a creat câteva dintre lucrările sale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54486,
+                        47.840642
+                  ]
+            },
+            {
+                  "name": "Dachsteinblick",
+                  "text": "Un punct de belvedere popular de la lacul Attersee, care oferă o vedere uimitoare spre masivul Dachstein.",
+                  "category": "natural",
+                  "coords": [
+                        13.507783,
+                        47.868052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gale Warning Seefeld Iso Y 2s",
+                  "text": "A gale warning signal tower located on Lake Attersee in Seefeld.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54333,
+                        47.840439
+                  ]
+            },
+            {
+                  "name": "Gale Warning Nußdorf Iso Y 2s",
+                  "text": "A gale warning signal tower for sailors on Lake Attersee in Nußdorf.",
+                  "category": "landmark",
+                  "coords": [
+                        13.530704,
+                        47.880016
+                  ]
+            },
+            {
+                  "name": "Auf dem Laufsteg ins Zwetschkenreich",
+                  "text": "A local museum at Lake Attersee dedicated to the region's cultural heritage and plum production.",
+                  "category": "museum",
+                  "coords": [
+                        13.549251,
+                        47.831098
+                  ]
+            },
+            {
+                  "name": "Bramhosen",
+                  "text": "A mountain peak offering scenic hiking opportunities near Lake Attersee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.587418,
+                        47.858548
+                  ]
+            },
+            {
+                  "name": "Gustav Mahler Komponierhäuschen",
+                  "text": "A small hut at Lake Attersee where the composer Gustav Mahler created several of his works.",
+                  "category": "landmark",
+                  "coords": [
+                        13.54486,
+                        47.840642
+                  ]
+            },
+            {
+                  "name": "Dachsteinblick",
+                  "text": "A popular viewpoint at Lake Attersee offering a stunning vista towards the Dachstein massif.",
+                  "category": "natural",
+                  "coords": [
+                        13.507783,
+                        47.868052
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AT-4",
     coords: [13.54, 47.86],
@@ -88,7 +430,304 @@ export const poiExtraAustriaNature: POI[] = [
       fr: ["Avec une profondeur maximale de 169 mètres, le lac est idéal pour la plongée technique exigeante.", "Le célèbre thermique 'Rosenwind' fait du lac l'un des plans d'eau les plus fiables d'Autriche en été.", "Le sentier thématique Klimt sur la rive nord retrace les séjours estivaux de l'artiste via des panneaux d'information.", "En raison de l'excellente visibilité sous-marine, le lac est très fréquenté par les archéologues subaquatiques."],
     }, image: "/poi-images/lake-attersee-extra.webp"},
   {
-    id: "mountain-dachstein-massiv-extra",
+    id: "mountain-dachstein-massiv-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Das Alpin-Museum Ramsau Dachstein zeigt die Geschichte des Bergsteigens und das regionale alpine Leben.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Die Hohe Gamsfeldspitze ist ein Berggipfel im Dachsteinmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Der Große Koppenkarstein ist ein 2.863 Meter hoher Gipfel im Dachsteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Der Hintere Türlspitz ist ein Alpengipfel im Dachsteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Der Hunerkogel ist eine Bergstation und ein Gipfel im Dachsteinmassiv, der mit der Seilbahn erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Der Kleine Koppenkarstein ist ein Gipfel in den österreichischen Alpen, Teil der Dachsteingruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Der Marstein ist einer der Gipfel im Dachsteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Der Mitterspitz ist der mittlere der drei Hauptgipfel des Dachsteins und erreicht eine Höhe von 2.925 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Az Alpin-Museum Ramsau Dachstein a hegymászás történetét és a regionális alpesi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "A Hohe Gamsfeldspitze egy hegycsúcs a Dachstein-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "A Großer Koppenkarstein egy 2863 méter magas csúcs a Dachstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "A Hinterer Türlspitz egy alpesi csúcs a Dachstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "A Hunerkogel egy hegyi állomás és csúcs a Dachstein-masszívumban, amely felvonóval érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "A Kleiner Koppenkarstein egy csúcs az osztrák Alpokban, a Dachstein-csoport része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "A Marstein a Dachstein-hegység egyik csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "A Mitterspitz a három fő Dachstein-csúcs középső tagja, 2925 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Alpin-Museum Ramsau Dachstein prezintă istoria alpinismului și viața alpină regională.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Hohe Gamsfeldspitze este un vârf montan situat în Masivul Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Großer Koppenkarstein este un vârf de 2.863 de metri înălțime din Munții Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Hinterer Türlspitz este un vârf alpin din lanțul muntos Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Hunerkogel este o stație montană și un vârf din Masivul Dachstein, accesibil cu telecabina.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Kleiner Koppenkarstein este un vârf din Alpii Austrieci, parte a grupului Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Marstein este unul dintre vârfurile situate în zona muntoasă Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Mitterspitz este vârful central al celor trei culmi principale ale Dachsteinului, atingând 2.925 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "The Alpin-Museum Ramsau Dachstein showcases the history of mountaineering and regional alpine life.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Hohe Gamsfeldspitze is a mountain peak located in the Dachstein Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Großer Koppenkarstein is a 2,863-meter high peak in the Dachstein Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Hinterer Türlspitz is an alpine peak within the Dachstein mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Hunerkogel is a mountain station and peak in the Dachstein Massif, accessible by cable car.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Kleiner Koppenkarstein is a peak in the Austrian Alps, part of the Dachstein group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Marstein is one of the summits located in the Dachstein mountain area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Mitterspitz is the central peak of the three main Dachstein summits, reaching 2,925 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT-6",
     coords: [13.60, 47.47],
@@ -121,7 +760,304 @@ export const poiExtraAustriaNature: POI[] = [
       fr: ["Le Hoher Dachstein est, avec 2995 mètres, le point culminant de la Styrie et de la Haute-Autriche.", "Le vaste réseau souterrain de la grotte des Mammouths s'étend sur plus de 70 kilomètres sous la montagne.", "La paroi sud du Dachstein est réputée chez les alpinistes comme l'une des parois les plus difficiles d'Autriche.", "Le téléphérique du Dachstein franchit un dénivelé massif sans aucun pylône intermédiaire."],
     }, image: "/poi-images/mountain-dachstein-massiv-extra.webp"},
   {
-    id: "river-donau-auen-nationalpark-extra",
+    id: "river-donau-auen-nationalpark-extra", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Eines der größten verbliebenen Donau-Auwaldgebiete in Mitteleuropa.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Dampfmaschinenmuseum",
+                  "text": "Ein Museum, das der Geschichte und Technik historischer Dampfmaschinen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.710826,
+                        48.199347
+                  ]
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "Ein religiöses Denkmal zu Ehren der Jungfrau Maria in der Nationalparkregion.",
+                  "category": "historical",
+                  "coords": [
+                        16.701736,
+                        48.144749
+                  ]
+            },
+            {
+                  "name": "Hl. Gertrud und Mechthild",
+                  "text": "Eine traditionelle Gebetsstätte, die den Heiligen Gertrud und Mechthild gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.746342,
+                        48.199948
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Eine historische religiöse Stätte, die der Heiligen Dreifaltigkeit im Donau-Auen-Gebiet gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.75574,
+                        48.164073
+                  ]
+            },
+            {
+                  "name": "Hl. Rosalia",
+                  "text": "Eine lokale Kapelle oder Kirche, die der Heiligen Rosalia gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.740629,
+                        48.182809
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Breitstetten",
+                  "text": "Eine römisch-katholische Pfarrkirche im Dorf Breitstetten.",
+                  "category": "religious",
+                  "coords": [
+                        16.710864,
+                        48.195648
+                  ]
+            },
+            {
+                  "name": "Mariä Geburt",
+                  "text": "Ein Sakralbau, der der Geburt der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.664141,
+                        48.179526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Közép-Európa egyik legnagyobb épen maradt ártéri vizes élőhelye a Duna mentén.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Dampfmaschinenmuseum",
+                  "text": "A történelmi gőzgépek történetének és technológiájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.710826,
+                        48.199347
+                  ]
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "Szűz Máriának szentelt vallási emlékmű a nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.701736,
+                        48.144749
+                  ]
+            },
+            {
+                  "name": "Hl. Gertrud und Mechthild",
+                  "text": "Szent Gertrúdnak és Mechtildnek szentelt hagyományos templom.",
+                  "category": "religious",
+                  "coords": [
+                        16.746342,
+                        48.199948
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "A Szentháromságnak szentelt történelmi egyházi helyszín a Duna-ártér területén.",
+                  "category": "religious",
+                  "coords": [
+                        16.75574,
+                        48.164073
+                  ]
+            },
+            {
+                  "name": "Hl. Rosalia",
+                  "text": "Szent Rozáliának szentelt helyi kápolna vagy templom.",
+                  "category": "religious",
+                  "coords": [
+                        16.740629,
+                        48.182809
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Breitstetten",
+                  "text": "Római katolikus plébániatemplom Breitstetten falujában.",
+                  "category": "religious",
+                  "coords": [
+                        16.710864,
+                        48.195648
+                  ]
+            },
+            {
+                  "name": "Mariä Geburt",
+                  "text": "Szűz Mária születésének szentelt egyházi épület.",
+                  "category": "religious",
+                  "coords": [
+                        16.664141,
+                        48.179526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Una dintre cele mai mari zone umede de luncă rămase în Europa Centrală.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Dampfmaschinenmuseum",
+                  "text": "Un muzeu dedicat istoriei și tehnologiei mașinilor cu aburi istorice.",
+                  "category": "museum",
+                  "coords": [
+                        16.710826,
+                        48.199347
+                  ]
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "Un monument religios dedicat Fecioarei Maria, situat în regiunea parcului național.",
+                  "category": "historical",
+                  "coords": [
+                        16.701736,
+                        48.144749
+                  ]
+            },
+            {
+                  "name": "Hl. Gertrud und Mechthild",
+                  "text": "Un lăcaș de cult tradițional dedicat Sfintelor Gertruda și Mechthild.",
+                  "category": "religious",
+                  "coords": [
+                        16.746342,
+                        48.199948
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Un sit religios istoric dedicat Sfintei Treimi în zona luncii Dunării.",
+                  "category": "religious",
+                  "coords": [
+                        16.75574,
+                        48.164073
+                  ]
+            },
+            {
+                  "name": "Hl. Rosalia",
+                  "text": "O capelă sau biserică locală dedicată Sfintei Rozalia.",
+                  "category": "religious",
+                  "coords": [
+                        16.740629,
+                        48.182809
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Breitstetten",
+                  "text": "O biserică parohială romano-catolică situată în satul Breitstetten.",
+                  "category": "religious",
+                  "coords": [
+                        16.710864,
+                        48.195648
+                  ]
+            },
+            {
+                  "name": "Mariä Geburt",
+                  "text": "Un lăcaș de cult dedicat Nașterii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        16.664141,
+                        48.179526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Donau-Auen National Park",
+                  "text": "One of the largest remaining floodplain wetlands in Central Europe.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Dampfmaschinenmuseum",
+                  "text": "A museum dedicated to the history and technology of historical steam engines.",
+                  "category": "museum",
+                  "coords": [
+                        16.710826,
+                        48.199347
+                  ]
+            },
+            {
+                  "name": "Mariensäule",
+                  "text": "A religious monument dedicated to the Virgin Mary, located in the national park region.",
+                  "category": "historical",
+                  "coords": [
+                        16.701736,
+                        48.144749
+                  ]
+            },
+            {
+                  "name": "Hl. Gertrud und Mechthild",
+                  "text": "A traditional place of worship dedicated to Saints Gertrude and Mechthild.",
+                  "category": "religious",
+                  "coords": [
+                        16.746342,
+                        48.199948
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "A historic religious site dedicated to the Holy Trinity in the Donau-Auen area.",
+                  "category": "religious",
+                  "coords": [
+                        16.75574,
+                        48.164073
+                  ]
+            },
+            {
+                  "name": "Hl. Rosalia",
+                  "text": "A local chapel or church dedicated to Saint Rosalia, a patron saint against plagues.",
+                  "category": "religious",
+                  "coords": [
+                        16.740629,
+                        48.182809
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Breitstetten",
+                  "text": "A Roman Catholic parish church located in the village of Breitstetten.",
+                  "category": "religious",
+                  "coords": [
+                        16.710864,
+                        48.195648
+                  ]
+            },
+            {
+                  "name": "Mariä Geburt",
+                  "text": "A religious building dedicated to the Nativity of the Blessed Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        16.664141,
+                        48.179526
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AT-3",
     coords: [16.71, 48.18],
@@ -187,7 +1123,304 @@ export const poiExtraAustriaNature: POI[] = [
       fr: ["La découverte officielle de la grotte est attribuée au naturaliste Anton von Posselt-Czorich en 1879.", "L'accès à la grotte se fait via un téléphérique extrêmement raide offrant des vues impressionnantes.", "Pour protéger le microclimat naturel, l'éclairage électrique permanent est proscrit à l'intérieur.", "Lors de la visite guidée, les visiteurs franchissent un total de 1400 marches par des températures négatives."],
     }, image: "/poi-images/nature-eisriesenwelt-werfen-extra.webp"},
   {
-    id: "lake-grüner-see-extra",
+    id: "lake-grüner-see-extra", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Grüner See",
+                  "text": "Ein geschütztes Gebiet rund um den landschaftlich reizvollen Grünen See.",
+                  "category": "natural",
+                  "coords": [
+                        15.056278,
+                        47.54252
+                  ]
+            },
+            {
+                  "name": "Edelweißboden",
+                  "text": "Ein Hochplateau, das für sein reiches Vorkommen an Edelweiß bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.037068,
+                        47.530791
+                  ]
+            },
+            {
+                  "name": "Pribitz",
+                  "text": "Ein markanter Berggipfel in der Hochschwabgruppe nahe dem Grünen See.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053892,
+                        47.550978
+                  ]
+            },
+            {
+                  "name": "Hochturm",
+                  "text": "Ein Gipfel im Trenchtling-Massiv oberhalb von Tragöß.",
+                  "category": "landmark",
+                  "coords": [
+                        15.006653,
+                        47.533723
+                  ]
+            },
+            {
+                  "name": "Marienklamm",
+                  "text": "Eine sehenswerte, enge Felsklamm in der Nähe des Grünen Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        15.093251,
+                        47.543776
+                  ]
+            },
+            {
+                  "name": "Messnerin",
+                  "text": "Ein Aussichtsgipfel in der Hochschwabgruppe, der das Tragöß-Tal überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085412,
+                        47.559823
+                  ]
+            },
+            {
+                  "name": "Grüner See Blick",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf den berühmten Grünen See.",
+                  "category": "natural",
+                  "coords": [
+                        15.033347,
+                        47.533392
+                  ]
+            },
+            {
+                  "name": "Blick zum grünen See",
+                  "text": "Ein Standort, der einen weiten Blick über den kristallklaren See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.070607,
+                        47.545453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturschutzgebiet Grüner See",
+                  "text": "A festői zöld tó (Grüner See) körüli védett természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        15.056278,
+                        47.54252
+                  ]
+            },
+            {
+                  "name": "Edelweißboden",
+                  "text": "Magaslati fennsík, amely a havasi gyopárok bőséges előfordulásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.037068,
+                        47.530791
+                  ]
+            },
+            {
+                  "name": "Pribitz",
+                  "text": "Jellegzetes hegycsúcs a Hochschwab-csoportban, a Zöld-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053892,
+                        47.550978
+                  ]
+            },
+            {
+                  "name": "Hochturm",
+                  "text": "Hegycsúcs a Trenchtling-masszívumban, Tragöß felett.",
+                  "category": "landmark",
+                  "coords": [
+                        15.006653,
+                        47.533723
+                  ]
+            },
+            {
+                  "name": "Marienklamm",
+                  "text": "Látványos, szűk szurdok a Zöld-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.093251,
+                        47.543776
+                  ]
+            },
+            {
+                  "name": "Messnerin",
+                  "text": "Kilátópontként is népszerű hegycsúcs a Hochschwab-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085412,
+                        47.559823
+                  ]
+            },
+            {
+                  "name": "Grüner See Blick",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a híres Zöld-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        15.033347,
+                        47.533392
+                  ]
+            },
+            {
+                  "name": "Blick zum grünen See",
+                  "text": "Helyszín, amely tágas kilátást nyújt a kristálytiszta tóra.",
+                  "category": "natural",
+                  "coords": [
+                        15.070607,
+                        47.545453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturschutzgebiet Grüner See",
+                  "text": "O zonă protejată în jurul pitorescului Lac Verde (Grüner See).",
+                  "category": "natural",
+                  "coords": [
+                        15.056278,
+                        47.54252
+                  ]
+            },
+            {
+                  "name": "Edelweißboden",
+                  "text": "Un platou înalt cunoscut pentru prezența abundentă a florilor de colț.",
+                  "category": "landmark",
+                  "coords": [
+                        15.037068,
+                        47.530791
+                  ]
+            },
+            {
+                  "name": "Pribitz",
+                  "text": "Un vârf montan proeminent în grupul Hochschwab, situat lângă Lacul Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053892,
+                        47.550978
+                  ]
+            },
+            {
+                  "name": "Hochturm",
+                  "text": "Un vârf în masivul Trenchtling, deasupra localității Tragöß.",
+                  "category": "landmark",
+                  "coords": [
+                        15.006653,
+                        47.533723
+                  ]
+            },
+            {
+                  "name": "Marienklamm",
+                  "text": "Un defileu îngust și pitoresc situat în apropierea Lacului Verde.",
+                  "category": "landmark",
+                  "coords": [
+                        15.093251,
+                        47.543776
+                  ]
+            },
+            {
+                  "name": "Messnerin",
+                  "text": "Un vârf panoramic în grupul Hochschwab care domină valea Tragöß.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085412,
+                        47.559823
+                  ]
+            },
+            {
+                  "name": "Grüner See Blick",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra faimosului Lac Verde.",
+                  "category": "natural",
+                  "coords": [
+                        15.033347,
+                        47.533392
+                  ]
+            },
+            {
+                  "name": "Blick zum grünen See",
+                  "text": "Un loc care oferă o perspectivă largă asupra lacului cu ape cristaline.",
+                  "category": "natural",
+                  "coords": [
+                        15.070607,
+                        47.545453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturschutzgebiet Grüner See",
+                  "text": "A protected area surrounding the scenic Green Lake.",
+                  "category": "natural",
+                  "coords": [
+                        15.056278,
+                        47.54252
+                  ]
+            },
+            {
+                  "name": "Edelweißboden",
+                  "text": "A high plateau known for its abundant occurrence of edelweiss flowers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.037068,
+                        47.530791
+                  ]
+            },
+            {
+                  "name": "Pribitz",
+                  "text": "A prominent mountain peak in the Hochschwab group near the Green Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053892,
+                        47.550978
+                  ]
+            },
+            {
+                  "name": "Hochturm",
+                  "text": "A peak in the Trenchtling massif overlooking the village of Tragöß.",
+                  "category": "landmark",
+                  "coords": [
+                        15.006653,
+                        47.533723
+                  ]
+            },
+            {
+                  "name": "Marienklamm",
+                  "text": "A scenic, narrow gorge located near the famous Green Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        15.093251,
+                        47.543776
+                  ]
+            },
+            {
+                  "name": "Messnerin",
+                  "text": "A mountain peak in the Hochschwab group offering views over the Tragöß valley.",
+                  "category": "landmark",
+                  "coords": [
+                        15.085412,
+                        47.559823
+                  ]
+            },
+            {
+                  "name": "Grüner See Blick",
+                  "text": "A viewpoint offering a panoramic view of the famous Green Lake.",
+                  "category": "natural",
+                  "coords": [
+                        15.033347,
+                        47.533392
+                  ]
+            },
+            {
+                  "name": "Blick zum grünen See",
+                  "text": "A location providing a wide view over the crystal-clear lake.",
+                  "category": "natural",
+                  "coords": [
+                        15.070607,
+                        47.545453
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AT-6",
     coords: [15.05, 47.54],

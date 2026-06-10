@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const romaniaLifeV2: POI[] = [
 
   {
-    id: "romania-parcul-national-muntii-macinului-life-v2",
+    id: "romania-parcul-national-muntii-macinului-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tumulul de la Turcoaia",
+                  "text": "Eine antike Grabstätte im Gebiet von Turcoaia im Nationalpark Măcin-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        28.212553,
+                        45.148646
+                  ]
+            },
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Eine markante Felswand im Măcin-Gebirge, die bei Kletterern und Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Gorunul Secular",
+                  "text": "Eine jahrhundertealte Traubeneiche, die als Naturdenkmal im Măcin-Gebirge geschützt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.296974,
+                        45.161296
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Ein den lokalen Helden gewidmetes Denkmal im Nationalpark Măcin-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        28.233785,
+                        45.189563
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "Eine bekannte Felsformation im Măcin-Gebirge, die oft als Ziel für Bergsport dient.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Ein Naturstandort im Măcin-Gebirge, der für seine biologische Vielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tumulul de la Turcoaia",
+                  "text": "Egy ősi temetkezési hely Turcoaia környékén, a Măcin-hegységi Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        28.212553,
+                        45.148646
+                  ]
+            },
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Jellegzetes sziklafal a Măcin-hegységben, amely népszerű a mászók és túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Gorunul Secular",
+                  "text": "Egy évszázados kocsánytalan tölgy, amely természeti emlékként védett a Măcin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.296974,
+                        45.161296
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A helyi hősöknek szentelt emlékmű a Măcin-hegységi Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        28.233785,
+                        45.189563
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "Ismert sziklaalakzat a Măcin-hegységben, amely gyakori célpontja a hegyi sportoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Természeti helyszín a Măcin-hegységben, amely biológiai sokféleségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tumulul de la Turcoaia",
+                  "text": "Un sit arheologic antic situat în zona Turcoaia din Parcul Național Munții Măcin.",
+                  "category": "historical",
+                  "coords": [
+                        28.212553,
+                        45.148646
+                  ]
+            },
+            {
+                  "name": "Peretele Taberei",
+                  "text": "Un perete stâncos distinctiv din Munții Măcin, popular printre alpiniști și turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Gorunul Secular",
+                  "text": "Un stejar secular protejat ca monument al naturii în Munții Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.296974,
+                        45.161296
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Un monument dedicat eroilor locali din Parcul Național Munții Măcin.",
+                  "category": "historical",
+                  "coords": [
+                        28.233785,
+                        45.189563
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "O formațiune stâncoasă cunoscută din Munții Măcin, adesea o destinație pentru sporturi montane.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "Un sit natural din Munții Măcin, cunoscut pentru biodiversitatea sa.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tumulul de la Turcoaia",
+                  "text": "An ancient burial site located in the Turcoaia area of the Măcin Mountains National Park.",
+                  "category": "historical",
+                  "coords": [
+                        28.212553,
+                        45.148646
+                  ]
+            },
+            {
+                  "name": "Peretele Taberei",
+                  "text": "A distinctive rock wall in the Măcin Mountains, popular among climbers and hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        28.272341,
+                        45.18503
+                  ]
+            },
+            {
+                  "name": "Gorunul Secular",
+                  "text": "A centuries-old sessile oak protected as a natural monument in the Măcin Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        28.296974,
+                        45.161296
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A monument dedicated to local heroes in the Măcin Mountains National Park.",
+                  "category": "historical",
+                  "coords": [
+                        28.233785,
+                        45.189563
+                  ]
+            },
+            {
+                  "name": "Peretele 3M",
+                  "text": "A known rock formation in the Măcin Mountains, often a destination for mountain sports.",
+                  "category": "landmark",
+                  "coords": [
+                        28.261386,
+                        45.201627
+                  ]
+            },
+            {
+                  "name": "La Insecte",
+                  "text": "A natural site in the Măcin Mountains known for its biological diversity.",
+                  "category": "landmark",
+                  "coords": [
+                        28.268858,
+                        45.190002
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RO",
     name: { de: "Nationalpark Măcin-Gebirge", hu: "Măcin-hegységi Nemzeti Park", ro: "Parcul Național Munții Măcinului", en: "Măcin Mountains National Park" },
@@ -138,7 +363,232 @@ export const romaniaLifeV2: POI[] = [
     image: "/poi-images/romania-parcul-national-semic-cheile-cara-life-v2.webp",
   },
   {
-    id: "romania-rezervatia-tinovul-mohos-life-v2",
+    id: "romania-rezervatia-tinovul-mohos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "Ein Schutzgebiet, das das Mohos-Torfmoor und den St.-Anna-See umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "Der höchste Gipfel des Ciomatu-Massivs in den Ostkarpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "Ein einzigartiges Hochmoor in einem Vulkankrater in Siebenbürgen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Ruinen und eine Felsformation mit Panoramablick im Mohos-Schutzgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "Ein Ort mit natürlichen Kohlendioxidaustritten im vulkanischen Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "Eine mofetteartige Einrichtung zur Nutzung vulkanischer Gase für Heilzwecke.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohos-tözegláp - Szent Anna-tó",
+                  "text": "A Mohos-tőzeglápot és a Szent Anna-tavat magában foglaló természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Nagy Csomád",
+                  "text": "A Csomád-hegység legmagasabb csúcsa a Keleti-Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Mohos-tőzegláp",
+                  "text": "Különleges magasláp egy egykori vulkáni kráterben, Erdélyben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Alsó-Sólyomkő",
+                  "text": "Romok és sziklaalakzat kilátással a Mohos természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "Természetes szén-dioxid-feltörés egy vulkanikus területen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Vallató-mofetta",
+                  "text": "Vulkáni gázok gyógyászati célú hasznosítására szolgáló mofetta.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "O arie protejată ce cuprinde Tinovul Mohoș și Lacul Sfânta Ana.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "Cel mai înalt vârf al masivului Ciomatu din Carpații Orientali.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "O mlaștină de turbă unică situată într-un crater vulcanic din Transilvania.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Ruine și o formațiune stâncoasă cu vedere panoramică în rezervația Mohoș.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "Un loc cu emanații naturale de dioxid de carbon în zonă vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "O mofetă utilizată pentru proprietățile terapeutice ale gazelor vulcanice.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
+                  "text": "A protected area encompassing the Mohos peat bog and Saint Anne Lake.",
+                  "category": "natural",
+                  "coords": [
+                        25.895974,
+                        46.130873
+                  ]
+            },
+            {
+                  "name": "Ciomatul Mare",
+                  "text": "The highest peak of the Ciomatu massif in the Eastern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.888832,
+                        46.136557
+                  ]
+            },
+            {
+                  "name": "Tinovul Mohoș",
+                  "text": "A unique peat bog located within a volcanic crater in Transylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        25.904176,
+                        46.133695
+                  ]
+            },
+            {
+                  "name": "Piatra Șoimilor",
+                  "text": "Ruins and a rock formation offering panoramic views in the Mohoș reserve.",
+                  "category": "historical",
+                  "coords": [
+                        25.847804,
+                        46.1131
+                  ]
+            },
+            {
+                  "name": "Széndioxid kiáramlás",
+                  "text": "A site featuring natural carbon dioxide emissions in a volcanic area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.893618,
+                        46.130997
+                  ]
+            },
+            {
+                  "name": "Mofet",
+                  "text": "A mofetta facility using volcanic gases for therapeutic purposes.",
+                  "category": "recreational",
+                  "coords": [
+                        25.928479,
+                        46.118218
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "RO",
     name: { de: "Naturschutzgebiet Tinovul Mohoș", hu: "Mohos-tőzegláp Természetvédelmi Terület", ro: "Rezervația Tinovul Mohoș", en: "Tinovul Mohoș Nature Reserve" },

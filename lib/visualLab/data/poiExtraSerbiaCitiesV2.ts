@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const serbiaCitiesV2: POI[] = [
 
   {
-    id: "serbia-prijepolje-cities-v2",
+    id: "serbia-prijepolje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј у Пријепољу",
+                  "text": "Ein Regionalmuseum in Prijepolje, das das kulturelle Erbe der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.649595,
+                        43.389163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј у Пријепољу",
+                  "text": "Prijepoljei regionális múzeum, amely a környék kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.649595,
+                        43.389163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј у Пријепољу",
+                  "text": "Un muzeu regional din Prijepolje care prezintă patrimoniul cultural al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        19.649595,
+                        43.389163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum in Prijepolje",
+                  "text": "A regional museum in Prijepolje showcasing the cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        19.649595,
+                        43.389163
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Prijepolje", hu: "Prijepolje", ro: "Prijepolje", en: "Prijepolje" },
@@ -93,7 +138,124 @@ export const serbiaCitiesV2: POI[] = [
     image: "/poi-images/serbia-loznica-cities-v2.webp",
   },
   {
-    id: "serbia-vladicin-han-cities-v2", "sights": {"de": [{"name": "Igralište osnovne škole „Branko Radičević”", "text": "Der Spielplatz der Grundschule „Branko Radičević“ in Vladicin Han bietet Kindern einen sicheren Platz zum Spielen.", "category": "family", "coords": [22.056703, 42.685721]}], "hu": [{"name": "Igralište osnovne škole „Branko Radičević”", "text": "A Vladičin Han-i „Branko Radičević” általános iskola játszótere biztonságos helyet nyújt a gyermekeknek a játékhoz.", "category": "family", "coords": [22.056703, 42.685721]}], "ro": [{"name": "Igralište osnovne škole „Branko Radičević”", "text": "Locul de joacă al școlii primare „Branko Radičević” din Vladicin Han oferă copiilor un spațiu sigur pentru joacă.", "category": "family", "coords": [22.056703, 42.685721]}], "en": [{"name": "Igralište osnovne škole „Branko Radičević”", "text": "The playground of the \"Branko Radičević\" primary school in Vladicin Han provides a safe place for children to play.", "category": "family", "coords": [22.056703, 42.685721]}]},
+    id: "serbia-vladicin-han-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igralište osnovne škole „Branko Radičević”",
+                  "text": "Der Spielplatz der Grundschule „Branko Radičević“ in Vladicin Han bietet Kindern einen sicheren Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            },
+            {
+                  "name": "Ograđeno stanište divljih svinja",
+                  "text": "Ein spezielles Naturgebiet bei Vladičin Han, in dem Wildschweine in einer kontrollierten Umgebung beobachtet werden können.",
+                  "category": "natural",
+                  "coords": [
+                        22.063389,
+                        42.700866
+                  ]
+            },
+            {
+                  "name": "Spomenik zhrtvama fashistichkog terora",
+                  "text": "Ein Denkmal in Vladičin Han zum Gedenken an die Opfer des faschistischen Terrors.",
+                  "category": "historical",
+                  "coords": [
+                        22.064219,
+                        42.719362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igralište osnovne škole „Branko Radičević”",
+                  "text": "A Vladičin Han-i „Branko Radičević” általános iskola játszótere biztonságos helyet nyújt a gyermekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            },
+            {
+                  "name": "Ograđeno stanište divljih svinja",
+                  "text": "Különleges terület Vladičin Han közelében, ahol vaddisznókat lehet megfigyelni ellenőrzött környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.063389,
+                        42.700866
+                  ]
+            },
+            {
+                  "name": "Spomenik zhrtvama fashistichkog terora",
+                  "text": "Vladičin Han-i emlékmű a fasiszta terror áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        22.064219,
+                        42.719362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igralište osnovne škole „Branko Radičević”",
+                  "text": "Locul de joacă al școlii primare „Branko Radičević” din Vladicin Han oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            },
+            {
+                  "name": "Ograđeno stanište divljih svinja",
+                  "text": "O zonă naturală specială lângă Vladičin Han, unde porcii mistreți pot fi observați într-un mediu controlat.",
+                  "category": "natural",
+                  "coords": [
+                        22.063389,
+                        42.700866
+                  ]
+            },
+            {
+                  "name": "Spomenik zhrtvama fashistichkog terora",
+                  "text": "Un monument în Vladičin Han dedicat victimelor terorii fasciste.",
+                  "category": "historical",
+                  "coords": [
+                        22.064219,
+                        42.719362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igralište osnovne škole „Branko Radičević”",
+                  "text": "The playground of the \"Branko Radičević\" primary school in Vladicin Han provides a safe place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        22.056703,
+                        42.685721
+                  ]
+            },
+            {
+                  "name": "Fenced habitat of wild pigs",
+                  "text": "A dedicated nature area near Vladičin Han where wild boars can be observed in a controlled environment.",
+                  "category": "natural",
+                  "coords": [
+                        22.063389,
+                        42.700866
+                  ]
+            },
+            {
+                  "name": "Spomenik zhrtvama fashistichkog terora",
+                  "text": "A monument in Vladičin Han commemorating the victims of fascist terror.",
+                  "category": "historical",
+                  "coords": [
+                        22.064219,
+                        42.719362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Vladičin Han", hu: "Vladičin Han", ro: "Vladičin Han", en: "Vladičin Han" },

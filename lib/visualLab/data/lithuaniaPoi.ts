@@ -5614,7 +5614,88 @@ export const lithuaniaAllPoi = [
     image: "/images/visualLab/lithuania/trakai.jpg"
   },
 {
-    id: "lt-hill-of-crosses",
+    id: "lt-hill-of-crosses", "sights": {
+      "de": [
+            {
+                  "name": "Jurgaičių piliakalnis",
+                  "text": "Ein historischer Burghügel in der Nähe des Berg der Kreuze.",
+                  "category": "historical",
+                  "coords": [
+                        23.41675,
+                        56.015361
+                  ]
+            },
+            {
+                  "name": "Kryžių kalno koplyčia",
+                  "text": "Eine kleine Kapelle auf dem Berg der Kreuze in Litauen.",
+                  "category": "religious",
+                  "coords": [
+                        23.415546,
+                        56.015861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jurgaičių piliakalnis",
+                  "text": "Történelmi várhely a Keresztek hegye közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.41675,
+                        56.015361
+                  ]
+            },
+            {
+                  "name": "Kryžių kalno koplyčia",
+                  "text": "Egy kis kápolna a litvániai Keresztek hegyén.",
+                  "category": "religious",
+                  "coords": [
+                        23.415546,
+                        56.015861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jurgaičių piliakalnis",
+                  "text": "Un sit istoric de tip cetate situat lângă Dealul Crucilor.",
+                  "category": "historical",
+                  "coords": [
+                        23.41675,
+                        56.015361
+                  ]
+            },
+            {
+                  "name": "Kryžių kalno koplyčia",
+                  "text": "O mică capelă situată pe Dealul Crucilor din Lituania.",
+                  "category": "religious",
+                  "coords": [
+                        23.415546,
+                        56.015861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jurgaičių piliakalnis",
+                  "text": "A historic hillfort site located near the Hill of Crosses.",
+                  "category": "historical",
+                  "coords": [
+                        23.41675,
+                        56.015361
+                  ]
+            },
+            {
+                  "name": "Kryžių kalno koplyčia",
+                  "text": "A small chapel located on the Hill of Crosses in Lithuania.",
+                  "category": "religious",
+                  "coords": [
+                        23.415546,
+                        56.015861
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lt-country",
     coords: [23.4167, 56.0153],
@@ -5663,7 +5744,52 @@ export const lithuaniaAllPoi = [
     image: "/images/visualLab/lithuania/hill-of-crosses.jpg"
   },
 {
-    id: "lt-curonian-spit",
+    id: "lt-curonian-spit", "sights": {
+      "de": [
+            {
+                  "name": "Naglių gamtinio rezervato pažintinis takas",
+                  "text": "Ein Naturlehrpfad im Naturschutzgebiet Nagliai auf der Kurischen Nehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        21.072241,
+                        55.441689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naglių gamtinio rezervato pažintinis takas",
+                  "text": "Tanösvény a Nagliai Természetvédelmi Területen, a Kur-földnyelven.",
+                  "category": "landmark",
+                  "coords": [
+                        21.072241,
+                        55.441689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naglių gamtinio rezervato pažintinis takas",
+                  "text": "Un traseu educativ în Rezervația Naturală Nagliai de pe Grindul Curonian.",
+                  "category": "landmark",
+                  "coords": [
+                        21.072241,
+                        55.441689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naglių gamtinio rezervato pažintinis takas",
+                  "text": "An educational nature trail in the Nagliai Nature Reserve on the Curonian Spit.",
+                  "category": "landmark",
+                  "coords": [
+                        21.072241,
+                        55.441689
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lt-country",
     coords: [21.0167, 55.4500],
@@ -5712,7 +5838,304 @@ export const lithuaniaAllPoi = [
     image: "/images/visualLab/lithuania/curonian-spit.jpg"
   },
 {
-    id: "lt-kernave",
+    id: "lt-kernave", "sights": {
+      "de": [
+            {
+                  "name": "Aukuro kalnas",
+                  "text": "Eine der fünf historischen Wallburgen in Kernavė, auch bekannt als Altarhügel.",
+                  "category": "historical",
+                  "coords": [
+                        24.85112,
+                        54.882093
+                  ]
+            },
+            {
+                  "name": "Kriveikiškio piliakalnis",
+                  "text": "Eine archäologische Stätte in Kernavė, Teil des UNESCO-gelisteten Kulturreservats.",
+                  "category": "historical",
+                  "coords": [
+                        24.858028,
+                        54.878222
+                  ]
+            },
+            {
+                  "name": "Lizdeikos kalnas",
+                  "text": "Eine historische Wallburg in Kernavė, benannt nach dem legendären Hohepriester Lizdeika.",
+                  "category": "historical",
+                  "coords": [
+                        24.852735,
+                        54.882025
+                  ]
+            },
+            {
+                  "name": "Latvių piliakalnis",
+                  "text": "Eine archäologische Wallburg in Kernavė, die Teil des antiken Verteidigungssystems war.",
+                  "category": "historical",
+                  "coords": [
+                        24.803306,
+                        54.868833
+                  ]
+            },
+            {
+                  "name": "Paalkių piliakalnis",
+                  "text": "Eine historische Wallburg in Kernavė am Ufer des Flusses Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.857694,
+                        54.847889
+                  ]
+            },
+            {
+                  "name": "Pilies kalnas",
+                  "text": "Bekannt als Schlossberg, ist dies eine bedeutende archäologische Stätte im Kernavė-Komplex.",
+                  "category": "historical",
+                  "coords": [
+                        24.851173,
+                        54.883398
+                  ]
+            },
+            {
+                  "name": "Mindaugo sostas",
+                  "text": "Einer der bedeutenden Wallberge in der archäologischen Stätte von Kernavė.",
+                  "category": "historical",
+                  "coords": [
+                        24.852421,
+                        54.883168
+                  ]
+            },
+            {
+                  "name": "Kernavės archeologijos ir istorijos muziejus",
+                  "text": "Ein Museum, das dem archäologischen und historischen Erbe von Kernavė gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.853817,
+                        54.885587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aukuro kalnas",
+                  "text": "Az öt történelmi várhely egyike Kernavėban, más néven az Oltár-hegy.",
+                  "category": "historical",
+                  "coords": [
+                        24.85112,
+                        54.882093
+                  ]
+            },
+            {
+                  "name": "Kriveikiškio piliakalnis",
+                  "text": "Régészeti lelőhely Kernavėban, az UNESCO kulturális rezervátum része.",
+                  "category": "historical",
+                  "coords": [
+                        24.858028,
+                        54.878222
+                  ]
+            },
+            {
+                  "name": "Lizdeikos kalnas",
+                  "text": "Történelmi várhely Kernavėban, amelyet a legendás főpap, Lizdeika után neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        24.852735,
+                        54.882025
+                  ]
+            },
+            {
+                  "name": "Latvių piliakalnis",
+                  "text": "Régészeti várhely Kernavėban, amely az ősi védelmi rendszer része volt.",
+                  "category": "historical",
+                  "coords": [
+                        24.803306,
+                        54.868833
+                  ]
+            },
+            {
+                  "name": "Paalkių piliakalnis",
+                  "text": "Történelmi várhely Kernavėban, a Neris-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        24.857694,
+                        54.847889
+                  ]
+            },
+            {
+                  "name": "Pilies kalnas",
+                  "text": "Várhegyként ismert, kiemelkedő régészeti lelőhely a kernavėi komplexumban.",
+                  "category": "historical",
+                  "coords": [
+                        24.851173,
+                        54.883398
+                  ]
+            },
+            {
+                  "name": "Mindaugo sostas",
+                  "text": "Kernavė régészeti lelőhelyének egyik jelentős várhelye.",
+                  "category": "historical",
+                  "coords": [
+                        24.852421,
+                        54.883168
+                  ]
+            },
+            {
+                  "name": "Kernavės archeologijos ir istorijos muziejus",
+                  "text": "Kernavė régészeti és történelmi örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.853817,
+                        54.885587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aukuro kalnas",
+                  "text": "Unul dintre cele cinci fortificații istorice din Kernavė, cunoscut și sub numele de Dealul Altarului.",
+                  "category": "historical",
+                  "coords": [
+                        24.85112,
+                        54.882093
+                  ]
+            },
+            {
+                  "name": "Kriveikiškio piliakalnis",
+                  "text": "Un sit arheologic din Kernavė, parte a rezervației culturale incluse în patrimoniul UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        24.858028,
+                        54.878222
+                  ]
+            },
+            {
+                  "name": "Lizdeikos kalnas",
+                  "text": "O fortificație istorică din Kernavė, numită după legendarul mare preot Lizdeika.",
+                  "category": "historical",
+                  "coords": [
+                        24.852735,
+                        54.882025
+                  ]
+            },
+            {
+                  "name": "Latvių piliakalnis",
+                  "text": "O fortificație arheologică din Kernavė care făcea parte din vechiul sistem defensiv.",
+                  "category": "historical",
+                  "coords": [
+                        24.803306,
+                        54.868833
+                  ]
+            },
+            {
+                  "name": "Paalkių piliakalnis",
+                  "text": "Un sit istoric de fortificație din Kernavė, situat pe malul râului Neris.",
+                  "category": "historical",
+                  "coords": [
+                        24.857694,
+                        54.847889
+                  ]
+            },
+            {
+                  "name": "Pilies kalnas",
+                  "text": "Cunoscut sub numele de Dealul Castelului, acesta este un sit arheologic proeminent din complexul Kernavė.",
+                  "category": "historical",
+                  "coords": [
+                        24.851173,
+                        54.883398
+                  ]
+            },
+            {
+                  "name": "Mindaugo sostas",
+                  "text": "Unul dintre siturile arheologice proeminente de tip așezare fortificată din Kernavė.",
+                  "category": "historical",
+                  "coords": [
+                        24.852421,
+                        54.883168
+                  ]
+            },
+            {
+                  "name": "Kernavės archeologijos ir istorijos muziejus",
+                  "text": "Un muzeu dedicat patrimoniului arheologic și istoric din Kernavė.",
+                  "category": "museum",
+                  "coords": [
+                        24.853817,
+                        54.885587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aukuro kalnas",
+                  "text": "One of the five historic hillforts in Kernavė, also known as the Altar Hill.",
+                  "category": "historical",
+                  "coords": [
+                        24.85112,
+                        54.882093
+                  ]
+            },
+            {
+                  "name": "Kriveikiškio piliakalnis",
+                  "text": "An archaeological site in Kernavė part of the UNESCO-listed cultural reserve.",
+                  "category": "historical",
+                  "coords": [
+                        24.858028,
+                        54.878222
+                  ]
+            },
+            {
+                  "name": "Lizdeikos kalnas",
+                  "text": "A historical hillfort in Kernavė named after the legendary high priest Lizdeika.",
+                  "category": "historical",
+                  "coords": [
+                        24.852735,
+                        54.882025
+                  ]
+            },
+            {
+                  "name": "Latvių piliakalnis",
+                  "text": "An archaeological hillfort in Kernavė that was part of the ancient defensive system.",
+                  "category": "historical",
+                  "coords": [
+                        24.803306,
+                        54.868833
+                  ]
+            },
+            {
+                  "name": "Paalkių piliakalnis",
+                  "text": "A historic hillfort site in Kernavė located along the banks of the Neris River.",
+                  "category": "historical",
+                  "coords": [
+                        24.857694,
+                        54.847889
+                  ]
+            },
+            {
+                  "name": "Pilies kalnas",
+                  "text": "Known as Castle Hill, this is a prominent archaeological site in the Kernavė complex.",
+                  "category": "historical",
+                  "coords": [
+                        24.851173,
+                        54.883398
+                  ]
+            },
+            {
+                  "name": "Mindaugo sostas",
+                  "text": "One of the significant hillforts within the Kernavė archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        24.852421,
+                        54.883168
+                  ]
+            },
+            {
+                  "name": "Kernavės archeologijos ir istorijos muziejus",
+                  "text": "A museum dedicated to the archaeological and historical heritage of Kernavė.",
+                  "category": "museum",
+                  "coords": [
+                        24.853817,
+                        54.885587
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lt-country",
     coords: [24.8500, 54.8833],

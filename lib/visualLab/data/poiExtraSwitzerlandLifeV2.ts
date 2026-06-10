@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const switzerlandLifeV2: POI[] = [
 
   {
-    id: "switzerland-swiss-national-park-life-v2",
+    id: "switzerland-swiss-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schweizerischer Nationalpark",
+                  "text": "Der älteste Nationalpark der Alpen und das einzige große Schutzgebiet der Schweiz.",
+                  "category": "natural",
+                  "coords": [
+                        10.172717,
+                        46.659119
+                  ]
+            },
+            {
+                  "name": "Piz Terza",
+                  "text": "Ein Berggipfel in den Bündner Alpen an der Grenze zu Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        10.132772,
+                        46.668794
+                  ]
+            },
+            {
+                  "name": "Piz dal Fuorn",
+                  "text": "Ein markanter Gipfel im Gebiet des Schweizer Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        10.212402,
+                        46.679556
+                  ]
+            },
+            {
+                  "name": "Muottas Champlönch",
+                  "text": "Ein Gipfel in der Engadiner Region des Schweizer Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        10.178189,
+                        46.672115
+                  ]
+            },
+            {
+                  "name": "Piz Ivraina",
+                  "text": "Ein Alpengipfel im Südosten der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.168739,
+                        46.701362
+                  ]
+            },
+            {
+                  "name": "Muottas Champsech",
+                  "text": "Ein Berggipfel im Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.155842,
+                        46.679096
+                  ]
+            },
+            {
+                  "name": "Piz Murter",
+                  "text": "Ein Aussichtsgipfel im Herzen des Schweizer Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141699,
+                        46.645814
+                  ]
+            },
+            {
+                  "name": "Muottas da Grimmels",
+                  "text": "Ein malerischer Berggipfel im Schweizerischen Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184638,
+                        46.662878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schweizerischer Nationalpark",
+                  "text": "Az Alpok legrégebbi nemzeti parkja és Svájc egyetlen nagy védett területe.",
+                  "category": "natural",
+                  "coords": [
+                        10.172717,
+                        46.659119
+                  ]
+            },
+            {
+                  "name": "Piz Terza",
+                  "text": "Hegycsúcs a Graubündeni-Alpokban, az olasz határ mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.132772,
+                        46.668794
+                  ]
+            },
+            {
+                  "name": "Piz dal Fuorn",
+                  "text": "Jellegzetes csúcs a Svájci Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.212402,
+                        46.679556
+                  ]
+            },
+            {
+                  "name": "Muottas Champlönch",
+                  "text": "Hegycsúcs a Svájci Nemzeti Park Engadin régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.178189,
+                        46.672115
+                  ]
+            },
+            {
+                  "name": "Piz Ivraina",
+                  "text": "Alpesi hegycsúcs Svájc délkeleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.168739,
+                        46.701362
+                  ]
+            },
+            {
+                  "name": "Muottas Champsech",
+                  "text": "Hegycsúcs Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.155842,
+                        46.679096
+                  ]
+            },
+            {
+                  "name": "Piz Murter",
+                  "text": "Kilátást nyújtó hegycsúcs a Svájci Nemzeti Park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141699,
+                        46.645814
+                  ]
+            },
+            {
+                  "name": "Muottas da Grimmels",
+                  "text": "Egy festői hegycsúcs a Svájci Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184638,
+                        46.662878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schweizerischer Nationalpark",
+                  "text": "Cel mai vechi parc național din Alpi și singura zonă protejată majoră din Elveția.",
+                  "category": "natural",
+                  "coords": [
+                        10.172717,
+                        46.659119
+                  ]
+            },
+            {
+                  "name": "Piz Terza",
+                  "text": "Un vârf montan din Alpii Grizoni, la granița cu Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        10.132772,
+                        46.668794
+                  ]
+            },
+            {
+                  "name": "Piz dal Fuorn",
+                  "text": "Un vârf proeminent situat în zona Parcului Național Elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.212402,
+                        46.679556
+                  ]
+            },
+            {
+                  "name": "Muottas Champlönch",
+                  "text": "Un vârf montan în regiunea Engadina a Parcului Național Elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.178189,
+                        46.672115
+                  ]
+            },
+            {
+                  "name": "Piz Ivraina",
+                  "text": "Un vârf alpin situat în sud-estul Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        10.168739,
+                        46.701362
+                  ]
+            },
+            {
+                  "name": "Muottas Champsech",
+                  "text": "Un vârf montan în cantonul Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        10.155842,
+                        46.679096
+                  ]
+            },
+            {
+                  "name": "Piz Murter",
+                  "text": "Un vârf panoramic situat în inima Parcului Național Elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141699,
+                        46.645814
+                  ]
+            },
+            {
+                  "name": "Muottas da Grimmels",
+                  "text": "Un vârf muntos pitoresc situat în Parcul Național Elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184638,
+                        46.662878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swiss National Park",
+                  "text": "The oldest national park in the Alps and Switzerland's only major protected area.",
+                  "category": "natural",
+                  "coords": [
+                        10.172717,
+                        46.659119
+                  ]
+            },
+            {
+                  "name": "Piz Terza",
+                  "text": "A mountain peak in the Grisons Alps on the border with Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        10.132772,
+                        46.668794
+                  ]
+            },
+            {
+                  "name": "Piz dal Fuorn",
+                  "text": "A prominent peak located within the Swiss National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.212402,
+                        46.679556
+                  ]
+            },
+            {
+                  "name": "Muottas Champlönch",
+                  "text": "A mountain peak in the Engadine region of the Swiss National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.178189,
+                        46.672115
+                  ]
+            },
+            {
+                  "name": "Piz Ivraina",
+                  "text": "An Alpine mountain peak located in southeastern Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.168739,
+                        46.701362
+                  ]
+            },
+            {
+                  "name": "Muottas Champsech",
+                  "text": "A mountain peak located in the canton of Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        10.155842,
+                        46.679096
+                  ]
+            },
+            {
+                  "name": "Piz Murter",
+                  "text": "A panoramic mountain peak in the heart of the Swiss National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141699,
+                        46.645814
+                  ]
+            },
+            {
+                  "name": "Muottas da Grimmels",
+                  "text": "A scenic mountain peak located within the Swiss National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184638,
+                        46.662878
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "CH",
     name: { de: "Schweizer Nationalpark", hu: "Svájci Nemzeti Park", ro: "Parcul Național Elvețian", en: "Swiss National Park" },
@@ -273,7 +570,196 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-botanical-garden-basel-life-v2.webp",
   },
   {
-    id: "switzerland-niederried-wetland-life-v2",
+    id: "switzerland-niederried-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Oltigen",
+                  "text": "Ehemalige Burganlage im Kanton Bern in der Schweiz.",
+                  "category": "castle",
+                  "coords": [
+                        7.261947,
+                        46.984378
+                  ]
+            },
+            {
+                  "name": "Papiliorama",
+                  "text": "Ein Schmetterlingshaus und Tropengarten in Kerzers.",
+                  "category": "recreational",
+                  "coords": [
+                        7.200384,
+                        46.989704
+                  ]
+            },
+            {
+                  "name": "Faverried",
+                  "text": "Ein geschütztes Naturgebiet in der Region Niederried.",
+                  "category": "natural",
+                  "coords": [
+                        7.229239,
+                        46.961752
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Radelfingen",
+                  "text": "Der Sitz der lokalen Gemeindeverwaltung in Radelfingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269635,
+                        47.001196
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung",
+                  "text": "Das Gebäude der lokalen Gemeindeverwaltung in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.235979,
+                        47.01813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Oltigen",
+                  "text": "Egykori várhelyszín Svájcban, Bern kantonban.",
+                  "category": "castle",
+                  "coords": [
+                        7.261947,
+                        46.984378
+                  ]
+            },
+            {
+                  "name": "Papiliorama",
+                  "text": "Pillangóház és trópusi kert Kerzers közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.200384,
+                        46.989704
+                  ]
+            },
+            {
+                  "name": "Faverried",
+                  "text": "Védett természeti terület a Niederried régióban.",
+                  "category": "natural",
+                  "coords": [
+                        7.229239,
+                        46.961752
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Radelfingen",
+                  "text": "A helyi önkormányzat székhelye Radelfingenben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269635,
+                        47.001196
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung",
+                  "text": "A helyi önkormányzati hivatal épülete a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.235979,
+                        47.01813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Oltigen",
+                  "text": "Situl unei foste cetăți în cantonul Berna din Elveția.",
+                  "category": "castle",
+                  "coords": [
+                        7.261947,
+                        46.984378
+                  ]
+            },
+            {
+                  "name": "Papiliorama",
+                  "text": "O grădină de fluturi și grădină tropicală în Kerzers.",
+                  "category": "recreational",
+                  "coords": [
+                        7.200384,
+                        46.989704
+                  ]
+            },
+            {
+                  "name": "Faverried",
+                  "text": "O zonă naturală protejată în regiunea Niederried.",
+                  "category": "natural",
+                  "coords": [
+                        7.229239,
+                        46.961752
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Radelfingen",
+                  "text": "Sediul administrației locale din Radelfingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269635,
+                        47.001196
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung",
+                  "text": "Clădirea administrației locale din această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        7.235979,
+                        47.01813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Oltigen",
+                  "text": "Former castle site in the canton of Bern, Switzerland.",
+                  "category": "castle",
+                  "coords": [
+                        7.261947,
+                        46.984378
+                  ]
+            },
+            {
+                  "name": "Papiliorama",
+                  "text": "A butterfly house and tropical garden in Kerzers.",
+                  "category": "recreational",
+                  "coords": [
+                        7.200384,
+                        46.989704
+                  ]
+            },
+            {
+                  "name": "Faverried",
+                  "text": "A protected natural area in the Niederried region.",
+                  "category": "natural",
+                  "coords": [
+                        7.229239,
+                        46.961752
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung Radelfingen",
+                  "text": "The seat of the local municipal administration in Radelfingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269635,
+                        47.001196
+                  ]
+            },
+            {
+                  "name": "Gemeindeverwaltung",
+                  "text": "The local municipal administration building in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.235979,
+                        47.01813
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "CH",
     name: { de: "Naturschutzgebiet Niederried", hu: "Niederriedi Természetvédelmi Terület", ro: "Rezervația Naturală Niederried", en: "Niederried Nature Reserve" },
@@ -498,7 +984,304 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-kaltbrunner-ried-life-v2.webp",
   },
   {
-    id: "switzerland-zoo-servion-life-v2",
+    id: "switzerland-zoo-servion-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Café-théâtre Barnabé",
+                  "text": "Ein bekanntes Privattheater in Servion, das für seine musikalischen Aufführungen geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        6.778219,
+                        46.572419
+                  ]
+            },
+            {
+                  "name": "Tropiquarium de Servion",
+                  "text": "Ein spezialisierter Zoo in Servion, der sich auf tropische Tiere und Reptilien konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.772028,
+                        46.565459
+                  ]
+            },
+            {
+                  "name": "Zoo de Servion",
+                  "text": "Ein beliebter regionaler Zoo in der Schweiz mit einer Vielzahl von nordischen und exotischen Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        6.773645,
+                        46.564586
+                  ]
+            },
+            {
+                  "name": "Château d'Ussières",
+                  "text": "Ein historisches Schlossgebäude in der ländlichen Umgebung von Servion.",
+                  "category": "castle",
+                  "coords": [
+                        6.755577,
+                        46.601162
+                  ]
+            },
+            {
+                  "name": "Menhir d'Essertes-Auboranges",
+                  "text": "Ein prähistorischer Menhir, der als archäologisches Denkmal in der Nähe von Servion steht.",
+                  "category": "historical",
+                  "coords": [
+                        6.794839,
+                        46.575386
+                  ]
+            },
+            {
+                  "name": "Théâtre du Jorat",
+                  "text": "Ein bedeutendes Holztheater in Mézières, das für seine ländliche Architektur bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        6.77137,
+                        46.598068
+                  ]
+            },
+            {
+                  "name": "Ferme des Troncs",
+                  "text": "Ein denkmalgeschütztes Bauernhaus, das die traditionelle Architektur der Region zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        6.760626,
+                        46.589159
+                  ]
+            },
+            {
+                  "name": "Polarfuchs",
+                  "text": "Eine Attraktion im Zoo von Servion, die den Besuchern den Polarfuchs näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.774719,
+                        46.565156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Café-théâtre Barnabé",
+                  "text": "Ismert magánszínház Servionban, amely zenés előadásairól nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        6.778219,
+                        46.572419
+                  ]
+            },
+            {
+                  "name": "Tropiquarium de Servion",
+                  "text": "Trópusi állatokra és hüllőkre szakosodott állatkert Servionban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.772028,
+                        46.565459
+                  ]
+            },
+            {
+                  "name": "Zoo de Servion",
+                  "text": "Népszerű svájci állatkert, ahol számos északi és egzotikus állatfaj látható.",
+                  "category": "recreational",
+                  "coords": [
+                        6.773645,
+                        46.564586
+                  ]
+            },
+            {
+                  "name": "Château d'Ussières",
+                  "text": "Történelmi kastélyépület Servion vidéki környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        6.755577,
+                        46.601162
+                  ]
+            },
+            {
+                  "name": "Menhir d'Essertes-Auboranges",
+                  "text": "Prehisztorikus menhir, amely régészeti műemlékként áll Servion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        6.794839,
+                        46.575386
+                  ]
+            },
+            {
+                  "name": "Théâtre du Jorat",
+                  "text": "Jelentős fából készült színház Mézières-ben, amely vidéki építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.77137,
+                        46.598068
+                  ]
+            },
+            {
+                  "name": "Ferme des Troncs",
+                  "text": "Műemléki védettségű parasztház, amely a régió hagyományos építészetét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        6.760626,
+                        46.589159
+                  ]
+            },
+            {
+                  "name": "Renard polaire",
+                  "text": "A servioni állatkert egyik látványossága, amely a sarki rókát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        6.774719,
+                        46.565156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Café-théâtre Barnabé",
+                  "text": "Un teatru privat cunoscut în Servion, apreciat pentru spectacolele sale muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.778219,
+                        46.572419
+                  ]
+            },
+            {
+                  "name": "Tropiquarium de Servion",
+                  "text": "O grădină zoologică specializată în Servion, concentrată pe animale tropicale și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        6.772028,
+                        46.565459
+                  ]
+            },
+            {
+                  "name": "Zoo de Servion",
+                  "text": "O grădină zoologică regională populară în Elveția, cu o varietate de animale nordice și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        6.773645,
+                        46.564586
+                  ]
+            },
+            {
+                  "name": "Château d'Ussières",
+                  "text": "O clădire istorică de castel în împrejurimile rurale din Servion.",
+                  "category": "castle",
+                  "coords": [
+                        6.755577,
+                        46.601162
+                  ]
+            },
+            {
+                  "name": "Menhir d'Essertes-Auboranges",
+                  "text": "Un menhir preistoric care stă ca monument arheologic lângă Servion.",
+                  "category": "historical",
+                  "coords": [
+                        6.794839,
+                        46.575386
+                  ]
+            },
+            {
+                  "name": "Théâtre du Jorat",
+                  "text": "Un teatru de lemn important în Mézières, cunoscut pentru arhitectura sa rurală.",
+                  "category": "cultural",
+                  "coords": [
+                        6.77137,
+                        46.598068
+                  ]
+            },
+            {
+                  "name": "Ferme des Troncs",
+                  "text": "O fermă monument istoric care prezintă arhitectura tradițională a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        6.760626,
+                        46.589159
+                  ]
+            },
+            {
+                  "name": "Renard polaire",
+                  "text": "O atracție la grădina zoologică din Servion care prezintă vulpea polară.",
+                  "category": "landmark",
+                  "coords": [
+                        6.774719,
+                        46.565156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Café-théâtre Barnabé",
+                  "text": "A well-known private theatre in Servion, noted for its musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.778219,
+                        46.572419
+                  ]
+            },
+            {
+                  "name": "Tropiquarium de Servion",
+                  "text": "A specialized zoo in Servion focusing on tropical animals and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        6.772028,
+                        46.565459
+                  ]
+            },
+            {
+                  "name": "Zoo de Servion",
+                  "text": "A popular regional zoo in Switzerland featuring a variety of Nordic and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        6.773645,
+                        46.564586
+                  ]
+            },
+            {
+                  "name": "Château d'Ussières",
+                  "text": "A historic castle building in the rural surroundings of Servion.",
+                  "category": "castle",
+                  "coords": [
+                        6.755577,
+                        46.601162
+                  ]
+            },
+            {
+                  "name": "Menhir d'Essertes-Auboranges",
+                  "text": "A prehistoric menhir standing as an archaeological monument near Servion.",
+                  "category": "historical",
+                  "coords": [
+                        6.794839,
+                        46.575386
+                  ]
+            },
+            {
+                  "name": "Théâtre du Jorat",
+                  "text": "A significant wooden theatre in Mézières, known for its rural architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        6.77137,
+                        46.598068
+                  ]
+            },
+            {
+                  "name": "Ferme des Troncs",
+                  "text": "A listed farmhouse monument showcasing the traditional architecture of the region.",
+                  "category": "historical",
+                  "coords": [
+                        6.760626,
+                        46.589159
+                  ]
+            },
+            {
+                  "name": "Arctic fox",
+                  "text": "An attraction at the Servion Zoo featuring the Arctic fox.",
+                  "category": "landmark",
+                  "coords": [
+                        6.774719,
+                        46.565156
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "CH",
     name: { de: "Zoo de Servion", hu: "Servioni Állatkert", ro: "Grădina Zoologică Servion", en: "Servion Zoo" },
@@ -543,7 +1326,304 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-zoo-servion-life-v2.webp",
   },
   {
-    id: "switzerland-gruyere-pays-d-enhaut-life-v2",
+    id: "switzerland-gruyere-pays-d-enhaut-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionaler Naturpark Gruyère Pays-d'Enhaut",
+                  "text": "Regionaler Naturpark in den Schweizer Alpen, bekannt für seine Berglandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        7.124337,
+                        46.512203
+                  ]
+            },
+            {
+                  "name": "Tsermon",
+                  "text": "Ein Berggipfel im regionalen Naturpark Gruyère Pays-d'Enhaut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140056,
+                        46.537715
+                  ]
+            },
+            {
+                  "name": "Le Van",
+                  "text": "Ein Gipfel in der Gebirgslandschaft des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1298,
+                        46.54339
+                  ]
+            },
+            {
+                  "name": "Pra de Cray",
+                  "text": "Ein markanter Alpengipfel in der Region Gruyère.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114497,
+                        46.496039
+                  ]
+            },
+            {
+                  "name": "Vanil Carré",
+                  "text": "Ein Gipfel im Kanton Freiburg innerhalb des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.118106,
+                        46.497411
+                  ]
+            },
+            {
+                  "name": "Gros Perré",
+                  "text": "Ein Berg im Herzen des regionalen Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.126337,
+                        46.503156
+                  ]
+            },
+            {
+                  "name": "Le Curtillet",
+                  "text": "Ein Berggipfel, der Teil der Freiburger Voralpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.132879,
+                        46.525498
+                  ]
+            },
+            {
+                  "name": "Pointe de Paray",
+                  "text": "Ein felsiger Berggipfel im Naturpark Gruyère Pays-d'Enhaut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137082,
+                        46.513159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc naturel régional Gruyère Pays-d'Enhaut",
+                  "text": "Regionális natúrpark a Svájci-Alpokban, amely hegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.124337,
+                        46.512203
+                  ]
+            },
+            {
+                  "name": "Tsermon",
+                  "text": "Hegycsúcs a Gruyère Pays-d'Enhaut regionális natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140056,
+                        46.537715
+                  ]
+            },
+            {
+                  "name": "Le Van",
+                  "text": "Hegycsúcs a natúrpark hegyvidéki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1298,
+                        46.54339
+                  ]
+            },
+            {
+                  "name": "Pra de Cray",
+                  "text": "Jellegzetes alpesi csúcs a Gruyère régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114497,
+                        46.496039
+                  ]
+            },
+            {
+                  "name": "Vanil Carré",
+                  "text": "Hegycsúcs Fribourg kantonban, a natúrpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.118106,
+                        46.497411
+                  ]
+            },
+            {
+                  "name": "Gros Perré",
+                  "text": "Hegy a regionális natúrpark szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.126337,
+                        46.503156
+                  ]
+            },
+            {
+                  "name": "Le Curtillet",
+                  "text": "A fribourgi Elő-Alpokhoz tartozó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.132879,
+                        46.525498
+                  ]
+            },
+            {
+                  "name": "Pointe de Paray",
+                  "text": "Sziklás hegycsúcs a Gruyère Pays-d'Enhaut natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137082,
+                        46.513159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc naturel régional Gruyère Pays-d'Enhaut",
+                  "text": "Parc natural regional în Alpii Elvețieni, cunoscut pentru peisajele montane.",
+                  "category": "natural",
+                  "coords": [
+                        7.124337,
+                        46.512203
+                  ]
+            },
+            {
+                  "name": "Tsermon",
+                  "text": "Un vârf montan în parcul natural regional Gruyère Pays-d'Enhaut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140056,
+                        46.537715
+                  ]
+            },
+            {
+                  "name": "Le Van",
+                  "text": "Un vârf în peisajul montan al parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1298,
+                        46.54339
+                  ]
+            },
+            {
+                  "name": "Pra de Cray",
+                  "text": "Un vârf alpin proeminent în regiunea Gruyère.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114497,
+                        46.496039
+                  ]
+            },
+            {
+                  "name": "Vanil Carré",
+                  "text": "Un vârf în cantonul Fribourg, situat în cadrul parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        7.118106,
+                        46.497411
+                  ]
+            },
+            {
+                  "name": "Gros Perré",
+                  "text": "Un munte în inima parcului natural regional.",
+                  "category": "landmark",
+                  "coords": [
+                        7.126337,
+                        46.503156
+                  ]
+            },
+            {
+                  "name": "Le Curtillet",
+                  "text": "Un vârf montan care face parte din Prealpii friburghezi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.132879,
+                        46.525498
+                  ]
+            },
+            {
+                  "name": "Pointe de Paray",
+                  "text": "Un vârf montan stâncos în parcul natural Gruyère Pays-d'Enhaut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137082,
+                        46.513159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruyère Pays-d'Enhaut Regional Nature Park",
+                  "text": "Regional nature park in the Swiss Alps, known for its mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        7.124337,
+                        46.512203
+                  ]
+            },
+            {
+                  "name": "Tsermon",
+                  "text": "A mountain peak within the Gruyère Pays-d'Enhaut Regional Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140056,
+                        46.537715
+                  ]
+            },
+            {
+                  "name": "Le Van",
+                  "text": "A peak in the mountainous landscape of the nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1298,
+                        46.54339
+                  ]
+            },
+            {
+                  "name": "Pra de Cray",
+                  "text": "A prominent alpine peak in the Gruyère region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114497,
+                        46.496039
+                  ]
+            },
+            {
+                  "name": "Vanil Carré",
+                  "text": "A peak in the canton of Fribourg, located within the nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.118106,
+                        46.497411
+                  ]
+            },
+            {
+                  "name": "Gros Perré",
+                  "text": "A mountain in the heart of the regional nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.126337,
+                        46.503156
+                  ]
+            },
+            {
+                  "name": "Le Curtillet",
+                  "text": "A mountain peak that is part of the Fribourg Prealps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.132879,
+                        46.525498
+                  ]
+            },
+            {
+                  "name": "Pointe de Paray",
+                  "text": "A rocky mountain peak in the Gruyère Pays-d'Enhaut Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.137082,
+                        46.513159
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "CH",
     name: { de: "Naturpark Gruyère Pays-d'Enhaut", hu: "Gruyère Pays-d'Enhaut Természetpark", ro: "Parcul Natural Gruyère Pays-d'Enhaut", en: "Gruyère Pays-d'Enhaut Nature Park" },
@@ -768,7 +1848,304 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-botanical-garden-fribourg-life-v2.webp",
   },
   {
-    id: "switzerland-thal-nature-park-life-v2",
+    id: "switzerland-thal-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Neu-Falkenstein",
+                  "text": "Die markante Ruine einer Höhenburg im Naturpark Thal.",
+                  "category": "castle",
+                  "coords": [
+                        7.710536,
+                        47.322716
+                  ]
+            },
+            {
+                  "name": "Ruine Alt Bechburg",
+                  "text": "Eine historische Burgruine im Naturpark Thal mit weitem Ausblick.",
+                  "category": "castle",
+                  "coords": [
+                        7.771825,
+                        47.332425
+                  ]
+            },
+            {
+                  "name": "Ehem. Kloster Schönthal",
+                  "text": "Ein ehemaliges Kloster im Naturpark Thal, das heute als Kunst- und Kulturort genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        7.773444,
+                        47.359649
+                  ]
+            },
+            {
+                  "name": "A3669 Lobisei",
+                  "text": "Ein kleines Museum im Naturpark Thal, das lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.709411,
+                        47.329848
+                  ]
+            },
+            {
+                  "name": "Museum Haar und Kamm",
+                  "text": "Dieses einzigartige Museum im Naturpark Thal widmet sich der Geschichte von Haaren und Kämmen.",
+                  "category": "museum",
+                  "coords": [
+                        7.705116,
+                        47.338181
+                  ]
+            },
+            {
+                  "name": "Roggenflue",
+                  "text": "Ein Aussichtspunkt im Naturpark Thal, der einen Panoramablick über die Jurakette bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.723158,
+                        47.305886
+                  ]
+            },
+            {
+                  "name": "Beretenchopf",
+                  "text": "Ein Berggipfel im Naturpark Thal, ein Ziel für Wanderer und Naturliebhaber.",
+                  "category": "landmark",
+                  "coords": [
+                        7.746409,
+                        47.342903
+                  ]
+            },
+            {
+                  "name": "Chräiegg",
+                  "text": "Ein weiterer Gipfel im Naturpark Thal, bekannt für seine ruhige Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767715,
+                        47.356233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Neu-Falkenstein",
+                  "text": "Egy dombtetőn lévő erőd látványos romjai a Thal Natúrparkban.",
+                  "category": "castle",
+                  "coords": [
+                        7.710536,
+                        47.322716
+                  ]
+            },
+            {
+                  "name": "Ruine Alt Bechburg",
+                  "text": "Történelmi várrom a Thal Natúrparkban, messzire nyúló kilátással.",
+                  "category": "castle",
+                  "coords": [
+                        7.771825,
+                        47.332425
+                  ]
+            },
+            {
+                  "name": "Ehem. Kloster Schönthal",
+                  "text": "Egykori kolostor a Thal Natúrparkban, amely ma művészeti és kulturális helyszínként működik.",
+                  "category": "religious",
+                  "coords": [
+                        7.773444,
+                        47.359649
+                  ]
+            },
+            {
+                  "name": "A3669 Lobisei",
+                  "text": "Kismúzeum a Thal Natúrparkban, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.709411,
+                        47.329848
+                  ]
+            },
+            {
+                  "name": "Museum Haar und Kamm",
+                  "text": "Ez az egyedülálló múzeum a Thal Natúrparkban a haj és a fésűk történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        7.705116,
+                        47.338181
+                  ]
+            },
+            {
+                  "name": "Roggenflue",
+                  "text": "Kilátópont a Thal Natúrparkban, amely panorámás kilátást nyújt a Jura-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        7.723158,
+                        47.305886
+                  ]
+            },
+            {
+                  "name": "Beretenchopf",
+                  "text": "Hegycsúcs a Thal Natúrparkban, a túrázók és a természetbarátok célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.746409,
+                        47.342903
+                  ]
+            },
+            {
+                  "name": "Chräiegg",
+                  "text": "Egy másik csúcs a Thal Natúrparkban, amely csendes környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767715,
+                        47.356233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Neu-Falkenstein",
+                  "text": "Ruina proeminentă a unei cetăți de pe deal din Parcul Natural Thal.",
+                  "category": "castle",
+                  "coords": [
+                        7.710536,
+                        47.322716
+                  ]
+            },
+            {
+                  "name": "Ruine Alt Bechburg",
+                  "text": "O ruină istorică de castel din Parcul Natural Thal, cu vederi largi.",
+                  "category": "castle",
+                  "coords": [
+                        7.771825,
+                        47.332425
+                  ]
+            },
+            {
+                  "name": "Ehem. Kloster Schönthal",
+                  "text": "O fostă mănăstire din Parcul Natural Thal, folosită astăzi ca loc de artă și cultură.",
+                  "category": "religious",
+                  "coords": [
+                        7.773444,
+                        47.359649
+                  ]
+            },
+            {
+                  "name": "A3669 Lobisei",
+                  "text": "Un mic muzeu din Parcul Natural Thal care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        7.709411,
+                        47.329848
+                  ]
+            },
+            {
+                  "name": "Museum Haar und Kamm",
+                  "text": "Acest muzeu unic din Parcul Natural Thal este dedicat istoriei părului și pieptenilor.",
+                  "category": "museum",
+                  "coords": [
+                        7.705116,
+                        47.338181
+                  ]
+            },
+            {
+                  "name": "Roggenflue",
+                  "text": "Un punct de belvedere din Parcul Natural Thal, oferind o vedere panoramică asupra munților Jura.",
+                  "category": "natural",
+                  "coords": [
+                        7.723158,
+                        47.305886
+                  ]
+            },
+            {
+                  "name": "Beretenchopf",
+                  "text": "Un vârf muntos din Parcul Natural Thal, o destinație pentru drumeți și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        7.746409,
+                        47.342903
+                  ]
+            },
+            {
+                  "name": "Chräiegg",
+                  "text": "Un alt vârf din Parcul Natural Thal, cunoscut pentru împrejurimile sale liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767715,
+                        47.356233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Neu-Falkenstein",
+                  "text": "The prominent ruins of a hill castle in the Thal Nature Park.",
+                  "category": "castle",
+                  "coords": [
+                        7.710536,
+                        47.322716
+                  ]
+            },
+            {
+                  "name": "Ruine Alt Bechburg",
+                  "text": "A historic castle ruin in the Thal Nature Park with far-reaching views.",
+                  "category": "castle",
+                  "coords": [
+                        7.771825,
+                        47.332425
+                  ]
+            },
+            {
+                  "name": "Ehem. Kloster Schönthal",
+                  "text": "A former monastery in the Thal Nature Park, now used as a site for art and culture.",
+                  "category": "religious",
+                  "coords": [
+                        7.773444,
+                        47.359649
+                  ]
+            },
+            {
+                  "name": "A3669 Lobisei",
+                  "text": "A small museum in the Thal Nature Park presenting local history.",
+                  "category": "museum",
+                  "coords": [
+                        7.709411,
+                        47.329848
+                  ]
+            },
+            {
+                  "name": "Museum Haar und Kamm",
+                  "text": "This unique museum in the Thal Nature Park is dedicated to the history of hair and combs.",
+                  "category": "museum",
+                  "coords": [
+                        7.705116,
+                        47.338181
+                  ]
+            },
+            {
+                  "name": "Roggenflue",
+                  "text": "A viewpoint in the Thal Nature Park offering a panoramic view of the Jura mountains.",
+                  "category": "natural",
+                  "coords": [
+                        7.723158,
+                        47.305886
+                  ]
+            },
+            {
+                  "name": "Beretenchopf",
+                  "text": "A mountain peak in the Thal Nature Park, a destination for hikers and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.746409,
+                        47.342903
+                  ]
+            },
+            {
+                  "name": "Chräiegg",
+                  "text": "Another peak in the Thal Nature Park, known for its quiet surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767715,
+                        47.356233
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "CH",
     name: { de: "Naturpark Thal", hu: "Thal Természetpark", ro: "Parcul Natural Thal", en: "Thal Nature Park" },
@@ -903,7 +2280,268 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-botanical-garden-neuchatel-life-v2.webp",
   },
   {
-    id: "switzerland-biosphere-entlebuch-life-v2",
+    id: "switzerland-biosphere-entlebuch-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farneren",
+                  "text": "Ein Aussichtsgipfel im UNESCO-Biosphärenreservat Entlebuch mit Blick auf die Schweizer Alpenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041478,
+                        46.934238
+                  ]
+            },
+            {
+                  "name": "Voglisbergegg",
+                  "text": "Ein Berggipfel in der Biosphäre Entlebuch, der Teil der sanften voralpinen Hügellandschaft der Schweiz ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01594,
+                        46.973147
+                  ]
+            },
+            {
+                  "name": "Hornbüelchnubel",
+                  "text": "Ein markanter Hügelgipfel im Entlebuch, der für Wanderungen in der geschützten Biosphärenregion beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.071892,
+                        46.95798
+                  ]
+            },
+            {
+                  "name": "Kraftbaum",
+                  "text": "Ein besonderer Kraftort in der Biosphäre Entlebuch, der Besucher zur Erholung und Naturerfahrung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046211,
+                        46.951591
+                  ]
+            },
+            {
+                  "name": "St. Johannes und Paulus",
+                  "text": "Eine religiöse Stätte in der Biosphäre Entlebuch, die den Heiligen Johannes und Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.019627,
+                        46.953057
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Martin",
+                  "text": "Die katholische Kirche St. Martin in Entlebuch, ein wichtiges spirituelles Zentrum der Region.",
+                  "category": "religious",
+                  "coords": [
+                        8.064586,
+                        46.992123
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Heiligkreuz",
+                  "text": "Eine bekannte Wallfahrtskirche in Heiligkreuz, die eingebettet in die Natur der Biosphäre Entlebuch liegt.",
+                  "category": "religious",
+                  "coords": [
+                        8.048468,
+                        46.94954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farneren",
+                  "text": "Kilátást nyújtó hegycsúcs az UNESCO Entlebuch Bioszféra-rezervátumban, rálátással a svájci alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041478,
+                        46.934238
+                  ]
+            },
+            {
+                  "name": "Voglisbergegg",
+                  "text": "Hegycsúcs az Entlebuch bioszférában, amely Svájc lankás előalpesi dombvidékének része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01594,
+                        46.973147
+                  ]
+            },
+            {
+                  "name": "Hornbüelchnubel",
+                  "text": "Jellegzetes dombtető Entlebuchban, amely kedvelt túracélpont a védett bioszféra-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.071892,
+                        46.95798
+                  ]
+            },
+            {
+                  "name": "Kraftbaum",
+                  "text": "Különleges energiapont az Entlebuch bioszférában, amely pihenésre és természetközeli élményekre hívja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046211,
+                        46.951591
+                  ]
+            },
+            {
+                  "name": "St. Johannes und Paulus",
+                  "text": "Szent Jánosnak és Pálnak szentelt vallási hely az Entlebuch bioszférában.",
+                  "category": "religious",
+                  "coords": [
+                        8.019627,
+                        46.953057
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Martin",
+                  "text": "A Szent Márton katolikus templom Entlebuchban, a régió egyik fontos spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.064586,
+                        46.992123
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Heiligkreuz",
+                  "text": "Ismert zarándoktemplom Heiligkreuzban, amely az Entlebuch bioszféra természetvédelmi területén található.",
+                  "category": "religious",
+                  "coords": [
+                        8.048468,
+                        46.94954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farneren",
+                  "text": "Un vârf cu vedere panoramică în Rezervația Biosferei UNESCO Entlebuch, cu vedere spre peisajul alpin elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041478,
+                        46.934238
+                  ]
+            },
+            {
+                  "name": "Voglisbergegg",
+                  "text": "Un vârf montan din biosfera Entlebuch, făcând parte din peisajul deluros prealpin al Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01594,
+                        46.973147
+                  ]
+            },
+            {
+                  "name": "Hornbüelchnubel",
+                  "text": "Un vârf de deal distinctiv în Entlebuch, popular pentru drumeții în regiunea protejată a biosferei.",
+                  "category": "landmark",
+                  "coords": [
+                        8.071892,
+                        46.95798
+                  ]
+            },
+            {
+                  "name": "Kraftbaum",
+                  "text": "Un loc special de energie în biosfera Entlebuch, care invită vizitatorii la relaxare și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046211,
+                        46.951591
+                  ]
+            },
+            {
+                  "name": "St. Johannes und Paulus",
+                  "text": "Un lăcaș de cult în biosfera Entlebuch, dedicat Sfinților Ioan și Paul.",
+                  "category": "religious",
+                  "coords": [
+                        8.019627,
+                        46.953057
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Martin",
+                  "text": "Biserica catolică Sfântul Martin din Entlebuch, un centru spiritual important al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        8.064586,
+                        46.992123
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Heiligkreuz",
+                  "text": "O cunoscută biserică de pelerinaj în Heiligkreuz, situată în natura rezervației Entlebuch.",
+                  "category": "religious",
+                  "coords": [
+                        8.048468,
+                        46.94954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farneren",
+                  "text": "A panoramic peak in the UNESCO Biosphere Entlebuch, offering views of the Swiss alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041478,
+                        46.934238
+                  ]
+            },
+            {
+                  "name": "Voglisbergegg",
+                  "text": "A mountain peak in the Entlebuch biosphere, part of Switzerland's rolling pre-alpine hill country.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01594,
+                        46.973147
+                  ]
+            },
+            {
+                  "name": "Hornbüelchnubel",
+                  "text": "A distinctive hilltop in Entlebuch, popular for hiking in the protected biosphere region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.071892,
+                        46.95798
+                  ]
+            },
+            {
+                  "name": "Kraftbaum",
+                  "text": "A special 'power spot' in the Entlebuch biosphere, inviting visitors for relaxation and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046211,
+                        46.951591
+                  ]
+            },
+            {
+                  "name": "St. Johannes und Paulus",
+                  "text": "A religious site in the Entlebuch biosphere, dedicated to Saints John and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        8.019627,
+                        46.953057
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Martin",
+                  "text": "The Catholic Church of St. Martin in Entlebuch, an important spiritual center in the region.",
+                  "category": "religious",
+                  "coords": [
+                        8.064586,
+                        46.992123
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Heiligkreuz",
+                  "text": "A well-known pilgrimage church in Heiligkreuz, nestled in the nature of the Entlebuch biosphere.",
+                  "category": "religious",
+                  "coords": [
+                        8.048468,
+                        46.94954
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "CH",
     name: { de: "UNESCO Biosphäre Entlebuch", hu: "UNESCO Entlebuch Bioszféra", ro: "Rezervația Biosferei UNESCO Entlebuch", en: "UNESCO Biosphere Entlebuch" },
@@ -1128,7 +2766,304 @@ export const switzerlandLifeV2: POI[] = [
     image: "/poi-images/switzerland-zoo-langenberg-life-v2.webp",
   },
   {
-    id: "switzerland-botanical-garden-porrentruy-life-v2",
+    id: "switzerland-botanical-garden-porrentruy-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Dieses Museum in Porrentruy zeigt historische Sammlungen in einem ehemaligen Krankenhausgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "Das JURASSICA Museum widmet sich der Naturgeschichte und dem paläontologischen Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Eine prähistorische Megalithanlage in der Nähe von Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Das Schloss Porrentruy ist eine historische Burganlage, die einst als Residenz der Fürstbischöfe von Basel diente.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Le Point Jazz",
+                  "text": "Ein lokaler Veranstaltungsort für Konzerte und kulturelle Darbietungen in Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.124387,
+                        47.40499
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "Ein Mehrzwecksaal für kulturelle Veranstaltungen und Theateraufführungen in Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von Porrentruy, das für seine lokale Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "Ein Naturschutzgebiet rund um einen Teich bei Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Ez a múzeum Porrentruy-ban található, és egy egykori kórházépületben mutat be gyűjteményeket.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "A JURASSICA Múzeum a régió természetrajzával és őslénytani örökségével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Egy őskori megalitikus emlék Porrentruy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "A porrentruy-i kastély egy történelmi erődítmény, amely egykor a bázeli hercegpüspökök rezidenciája volt.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Le Point Jazz",
+                  "text": "Helyi kulturális és zenei rendezvényhelyszín Porrentruy-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.124387,
+                        47.40499
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "Porrentruy kulturális és színházi rendezvényeinek helyszínt adó többfunkciós terem.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "Védett természeti terület Porrentruy közelében, amely helyi élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "Egy tó körüli természetvédelmi terület Porrentruy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Acest muzeu din Porrentruy prezintă colecții istorice într-o fostă clădire de spital.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "Muzeul JURASSICA este dedicat istoriei naturale și patrimoniului paleontologic al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Un monument megalitic preistoric situat în apropiere de Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Castelul Porrentruy este o fortificație istorică ce a servit drept reședință pentru prinții-episcopi de Basel.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Le Point Jazz",
+                  "text": "O locație locală pentru concerte și spectacole culturale în Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.124387,
+                        47.40499
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "O sală polivalentă pentru evenimente culturale și spectacole de teatru în Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "O rezervă naturală protejată lângă Porrentruy, cunoscută pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "O rezervă naturală situată în jurul unui iaz lângă Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musee de l'Hotel-Dieu",
+                  "text": "This museum in Porrentruy displays historical collections within a former hospital building.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "The JURASSICA Museum is dedicated to the natural history and paleontological heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "A prehistoric megalithic monument located near Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Porrentruy Castle is a historic fortress that once served as the residence of the Prince-Bishops of Basel.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Le Point Jazz",
+                  "text": "A local venue for concerts and cultural performances in Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.124387,
+                        47.40499
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "A multi-purpose hall for cultural events and theatrical performances in Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "A protected natural area near Porrentruy, known for its local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "A nature reserve centered around a pond near Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Porrentruy", hu: "Porrentruy-i Botanikus Kert", ro: "Grădina Botanică Porrentruy", en: "Botanical Garden of Porrentruy" },

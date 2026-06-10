@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraGeorgiaNatureV2: POI[] = [
   {
-    id: "shkhara-nature-v2",
+    id: "shkhara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schchara",
+                  "text": "Der höchste Berg Georgiens, gelegen im Hauptkamm des Großen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113133,
+                        42.999316
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Ein Berggipfel im Kaukasus, benannt nach dem berühmten georgischen Dichter Schota Rustaweli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "შხარა - Шхара",
+                  "text": "Grúzia legmagasabb hegycsúcsa a Nagy-Kaukázus hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113133,
+                        42.999316
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Hegycsúcs a Kaukázusban, amelyet a híres középkori grúz költőről, Sota Rusztaveliről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Șhara",
+                  "text": "Cel mai înalt vârf muntos din Georgia, situat în lanțul muntos Caucazul Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113133,
+                        42.999316
+                  ]
+            },
+            {
+                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "text": "Un vârf muntos din Caucaz, numit după celebrul poet georgian medieval Shota Rustaveli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shkhara",
+                  "text": "The highest point in Georgia, located in the Greater Caucasus mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113133,
+                        42.999316
+                  ]
+            },
+            {
+                  "name": "Peak Shota Rustaveli",
+                  "text": "A mountain peak named after the famous medieval Georgian poet Shota Rustaveli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.071697,
+                        43.007798
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-SZ",
     coords: [43.1122, 43.0005],
@@ -39,7 +120,52 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kazbek-nature-v2",
+    id: "kazbek-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasbek",
+                  "text": "Ein markanter Berggipfel im Kaukasus, auch als Mkinvartsveri bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.518111,
+                        42.696941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kazbek",
+                  "text": "A Kaukázus egyik jellegzetes hegycsúcsa, más néven Mkinvarccveri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.518111,
+                        42.696941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "მყინვარწვერი - Казбек",
+                  "text": "Un vârf muntos proeminent din Caucaz, cunoscut și sub numele de Mkinvartsveri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.518111,
+                        42.696941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kazbegi",
+                  "text": "A prominent mountain peak in the Caucasus, also known as Mkinvartsveri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.518111,
+                        42.696941
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-MM",
     coords: [44.5186, 42.6975],
@@ -75,7 +201,124 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "ushba-nature-v2",
+    id: "ushba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Щуровского / შჩუროვსკის",
+                  "text": "Ein markanter Berggipfel im Kaukasus in der Nähe des Mount Ushba.",
+                  "category": "landmark",
+                  "coords": [
+                        42.672202,
+                        43.142616
+                  ]
+            },
+            {
+                  "name": "Süd-Ushba",
+                  "text": "Der Südgipfel des Mount Ushba, bekannt für seine charakteristische Doppelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        42.658557,
+                        43.124292
+                  ]
+            },
+            {
+                  "name": "ჩრდილოეთი უშბა",
+                  "text": "Der Nordgipfel des Mount Ushba, einer der bekanntesten Berge im Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.664814,
+                        43.127676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Щуровского / შჩუროვსკის",
+                  "text": "Egy jellegzetes hegycsúcs a Kaukázusban, az Usba-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.672202,
+                        43.142616
+                  ]
+            },
+            {
+                  "name": "სამხრეთ უშბა",
+                  "text": "Az Usba-hegy déli csúcsa, amely jellegzetes kettős csúcsáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.658557,
+                        43.124292
+                  ]
+            },
+            {
+                  "name": "ჩრდილოეთი უშბა",
+                  "text": "Az Usba-hegy északi csúcsa, a Kaukázus egyik leglátványosabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        42.664814,
+                        43.127676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Щуровского / შჩუროვსკის",
+                  "text": "Un vârf montan proeminent în Caucaz, situat lângă muntele Ushba.",
+                  "category": "landmark",
+                  "coords": [
+                        42.672202,
+                        43.142616
+                  ]
+            },
+            {
+                  "name": "სამხრეთ უშბა",
+                  "text": "Vârful sudic al muntelui Ushba, cunoscut pentru forma sa caracteristică cu două vârfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        42.658557,
+                        43.124292
+                  ]
+            },
+            {
+                  "name": "ჩრდილოეთი უშბა",
+                  "text": "Vârful nordic al muntelui Ushba, unul dintre cei mai spectaculoși munți din Caucaz.",
+                  "category": "landmark",
+                  "coords": [
+                        42.664814,
+                        43.127676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schurovskoy",
+                  "text": "A prominent mountain peak in the Caucasus, located near Mount Ushba.",
+                  "category": "landmark",
+                  "coords": [
+                        42.672202,
+                        43.142616
+                  ]
+            },
+            {
+                  "name": "Southern Ushba",
+                  "text": "The southern peak of Mount Ushba, known for its iconic double-summit shape.",
+                  "category": "landmark",
+                  "coords": [
+                        42.658557,
+                        43.124292
+                  ]
+            },
+            {
+                  "name": "North Ushba",
+                  "text": "The northern peak of Mount Ushba, one of the most striking mountains in the Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.664814,
+                        43.127676
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-SZ",
     coords: [42.6653, 43.1256],
@@ -111,7 +354,88 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-ritsa-nature-v2",
+    id: "lake-ritsa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Milk Waterfall",
+                  "text": "Ein malerischer Wasserfall in der Nähe des Riza-Sees, bekannt für sein milchig-weißes Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        40.559123,
+                        43.481841
+                  ]
+            },
+            {
+                  "name": "Stalins und Chrustschows Landhaus",
+                  "text": "Ehemalige Sommerresidenz sowjetischer Staatschefs am Ufer des Riza-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        40.538768,
+                        43.486221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Milk Waterfall",
+                  "text": "Gleccserolvadék táplálta vízesés a Ricca-tó közelében, amely nevét fehérlő vizéről kapta.",
+                  "category": "natural",
+                  "coords": [
+                        40.559123,
+                        43.481841
+                  ]
+            },
+            {
+                  "name": "სტალინის აგარაკები",
+                  "text": "Szovjet vezetők egykori nyári rezidenciája és nyaralója a Ricca-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        40.538768,
+                        43.486221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Milk Waterfall",
+                  "text": "O cascadă pitorească lângă lacul Rița, cunoscută pentru aspectul lăptos al apei sale.",
+                  "category": "natural",
+                  "coords": [
+                        40.559123,
+                        43.481841
+                  ]
+            },
+            {
+                  "name": "სტალინის აგარაკები",
+                  "text": "Fosta reședință de vară a liderilor sovietici, situată pe malul lacului Rița.",
+                  "category": "landmark",
+                  "coords": [
+                        40.538768,
+                        43.486221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Milk Waterfall",
+                  "text": "A scenic waterfall near Lake Ritsa, known for the milky white appearance of its water.",
+                  "category": "natural",
+                  "coords": [
+                        40.559123,
+                        43.481841
+                  ]
+            },
+            {
+                  "name": "Stalin and Khrushchev Cottage",
+                  "text": "Former summer residence and dacha of Soviet leaders on the shores of Lake Ritsa.",
+                  "category": "landmark",
+                  "coords": [
+                        40.538768,
+                        43.486221
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GE-AB",
     coords: [40.5333, 43.4833],
@@ -147,7 +471,124 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "paravani-lake-nature-v2",
+    id: "paravani-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ფარავნის კარვასლა",
+                  "text": "Ruinen einer historischen Karawanserei am Parawani-See.",
+                  "category": "historical",
+                  "coords": [
+                        43.849044,
+                        41.451508
+                  ]
+            },
+            {
+                  "name": "ფარავნის ტბის აღკვეთილი",
+                  "text": "Ein Naturschutzgebiet rund um den größten See Georgiens, den Parawani-See.",
+                  "category": "natural",
+                  "coords": [
+                        43.810184,
+                        41.444356
+                  ]
+            },
+            {
+                  "name": "ობსიდიანის ბილიკი",
+                  "text": "Ein Wanderweg am Parawani-See, der für seine Obsidianvorkommen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.846954,
+                        41.445743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ფარავნის კარვასლა",
+                  "text": "Egy történelmi karavánszeráj romjai a Paravani-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        43.849044,
+                        41.451508
+                  ]
+            },
+            {
+                  "name": "ფარავნის ტბის აღკვეთილი",
+                  "text": "Természetvédelmi terület Grúzia legnagyobb tava, a Paravani-tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        43.810184,
+                        41.444356
+                  ]
+            },
+            {
+                  "name": "ობსიდიანის ბილიკი",
+                  "text": "Túraútvonal a Paravani-tónál, amely obszidiánlelőhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.846954,
+                        41.445743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ფარავნის კარვასლა",
+                  "text": "Ruinele unui han istoric (caravanserai) pe malul lacului Paravani.",
+                  "category": "historical",
+                  "coords": [
+                        43.849044,
+                        41.451508
+                  ]
+            },
+            {
+                  "name": "ფარავნის ტბის აღკვეთილი",
+                  "text": "O rezervație naturală în jurul celui mai mare lac din Georgia, lacul Paravani.",
+                  "category": "natural",
+                  "coords": [
+                        43.810184,
+                        41.444356
+                  ]
+            },
+            {
+                  "name": "ობსიდიანის ბილიკი",
+                  "text": "Un traseu turistic la lacul Paravani, cunoscut pentru zăcămintele de obsidian.",
+                  "category": "landmark",
+                  "coords": [
+                        43.846954,
+                        41.445743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paravani caravanserai",
+                  "text": "Ruins of a historical caravanserai on the shores of Paravani Lake.",
+                  "category": "historical",
+                  "coords": [
+                        43.849044,
+                        41.451508
+                  ]
+            },
+            {
+                  "name": "Paravani Lake Managed Reserve",
+                  "text": "A nature reserve surrounding Georgia's largest lake, Paravani Lake.",
+                  "category": "natural",
+                  "coords": [
+                        43.810184,
+                        41.444356
+                  ]
+            },
+            {
+                  "name": "Obsidian path",
+                  "text": "A trail at Paravani Lake known for its obsidian deposits.",
+                  "category": "landmark",
+                  "coords": [
+                        43.846954,
+                        41.445743
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GE-SJ",
     coords: [43.8219, 41.4464],
@@ -269,7 +710,52 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "enguri-river-nature-v2",
+    id: "enguri-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ენგურის ჰიდროელექტროსადგური",
+                  "text": "Eine der weltweit höchsten Bogenstaumauern am Fluss Enguri.",
+                  "category": "natural",
+                  "coords": [
+                        42.036148,
+                        42.760516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ენგურის ჰიდროელექტროსადგური",
+                  "text": "A világ egyik legmagasabb íves gátja az Enguri-folyón.",
+                  "category": "natural",
+                  "coords": [
+                        42.036148,
+                        42.760516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ენგურის ჰიდროელექტროსადგური",
+                  "text": "Unul dintre cele mai înalte baraje în arc din lume, situat pe râul Enguri.",
+                  "category": "natural",
+                  "coords": [
+                        42.036148,
+                        42.760516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enguri dam",
+                  "text": "One of the world's highest arch dams, located on the Enguri River.",
+                  "category": "natural",
+                  "coords": [
+                        42.036148,
+                        42.760516
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GE-SZ",
     coords: [42.0324, 42.7682],
@@ -557,7 +1043,124 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "tetnuldi-nature-v2",
+    id: "tetnuldi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Ein markanter Gipfel im Großen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Ein hoher Berggipfel im zentralen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "Tetnuldi",
+                  "text": "Ein markanter Gipfel und Wahrzeichen in der Region Swanetien.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Kiemelkedő hegycsúcs a Nagy-Kaukázusban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Magas hegycsúcs a központi Kaukázusban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "თეთნულდი",
+                  "text": "Kiemelkedő hegycsúcs és nevezetesség Szvanéti régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "გისტოლა - Гестола",
+                  "text": "Un vârf proeminent din munții Caucazul Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Катынтау / კათინთაუ",
+                  "text": "Un vârf montan înalt în lanțul muntos al Caucazului central.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "თეთნულდი",
+                  "text": "Un vârf proeminent și un reper în regiunea Svaneti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gistola",
+                  "text": "A prominent peak in the Greater Caucasus mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        43.025768,
+                        43.048008
+                  ]
+            },
+            {
+                  "name": "Katintayu",
+                  "text": "A high mountain peak in the central Caucasus range.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036344,
+                        43.029604
+                  ]
+            },
+            {
+                  "name": "Tetnuldi",
+                  "text": "A prominent peak and landmark in the Svaneti region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.993294,
+                        43.030674
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GE-SZ",
     coords: [42.9967, 43.0303],
@@ -593,7 +1196,52 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     },
   },
   {
-    id: "kintrishi-nature-v2",
+    id: "kintrishi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Eine historische Steinbogenbrücke über den Fluss im Kintrishi-Naturschutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Történelmi kőboltozatos híd a Kintrishi természetvédelmi terület egyik folyója felett.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Un pod istoric din piatră în arc de cerc peste râul din Rezervația Naturală Kintrishi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tskhemvana Bridge",
+                  "text": "A historic stone arch bridge spanning the river in the Kintrishi Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GE-AJ",
     coords: [41.9833, 41.7333],

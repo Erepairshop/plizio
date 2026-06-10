@@ -248,7 +248,268 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     
   },
   {
-    id: "ma-nador-port-economic-v2",
+    id: "ma-nador-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuerte de San Carlos",
+                  "text": "Diese historische Festungsanlage ist Teil der Verteidigungsbauwerke von Melilla.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937746,
+                        35.294826
+                  ]
+            },
+            {
+                  "name": "Fuerte de María Cristina",
+                  "text": "Eine historische Festung in der Nähe des Hafens, die zur Verteidigung der Region diente.",
+                  "category": "castle",
+                  "coords": [
+                        -2.944712,
+                        35.299245
+                  ]
+            },
+            {
+                  "name": "Museo Militar de Melilla",
+                  "text": "Dieses Militärmuseum in Melilla präsentiert eine Sammlung zur lokalen Verteidigungsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -2.933952,
+                        35.295169
+                  ]
+            },
+            {
+                  "name": "Museo Ibáñez de Melilla",
+                  "text": "Ein Kunstmuseum in Melilla, das zeitgenössische und moderne Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.934414,
+                        35.293778
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Ein Museum in Melilla, das eine Sammlung historischer Kraftfahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -2.955509,
+                        35.296249
+                  ]
+            },
+            {
+                  "name": "Fuerte de Victoria Grande",
+                  "text": "Eine imposante historische Festung, die einen weiten Blick über die Umgebung bietet.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937064,
+                        35.296672
+                  ]
+            },
+            {
+                  "name": "Baluarte de San Fernando",
+                  "text": "Teil der historischen Befestigungsanlagen von Melilla, bekannt für seine massive Bauweise.",
+                  "category": "castle",
+                  "coords": [
+                        -2.936537,
+                        35.294079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuerte de San Carlos",
+                  "text": "Ez a történelmi erődítmény Melilla védelmi rendszerének egyik jelentős építménye.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937746,
+                        35.294826
+                  ]
+            },
+            {
+                  "name": "Fuerte de María Cristina",
+                  "text": "Történelmi erőd a kikötő közelében, amely a régió védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        -2.944712,
+                        35.299245
+                  ]
+            },
+            {
+                  "name": "Museo Militar de Melilla",
+                  "text": "Ez a melillai katonai múzeum a helyi hadtörténeti emlékeket és védelmi eszközöket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.933952,
+                        35.295169
+                  ]
+            },
+            {
+                  "name": "Museo Ibáñez de Melilla",
+                  "text": "Melillai művészeti múzeum, amely kortárs és modern alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.934414,
+                        35.293778
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Melillai múzeum, amely történelmi gépjárművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.955509,
+                        35.296249
+                  ]
+            },
+            {
+                  "name": "Fuerte de Victoria Grande",
+                  "text": "Impozáns történelmi erőd, amely tágas kilátást nyújt a környező területre.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937064,
+                        35.296672
+                  ]
+            },
+            {
+                  "name": "Baluarte de San Fernando",
+                  "text": "Melilla történelmi erődítményrendszerének része, amely masszív építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -2.936537,
+                        35.294079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuerte de San Carlos",
+                  "text": "Această fortificație istorică face parte din structurile defensive ale orașului Melilla.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937746,
+                        35.294826
+                  ]
+            },
+            {
+                  "name": "Fuerte de María Cristina",
+                  "text": "O fortăreață istorică situată lângă port, utilizată pentru apărarea regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        -2.944712,
+                        35.299245
+                  ]
+            },
+            {
+                  "name": "Museo Militar de Melilla",
+                  "text": "Acest muzeu militar din Melilla prezintă o colecție dedicată istoriei defensive locale.",
+                  "category": "museum",
+                  "coords": [
+                        -2.933952,
+                        35.295169
+                  ]
+            },
+            {
+                  "name": "Museo Ibáñez de Melilla",
+                  "text": "Un muzeu de artă din Melilla care expune lucrări de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -2.934414,
+                        35.293778
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Un muzeu din Melilla care prezintă o colecție de vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -2.955509,
+                        35.296249
+                  ]
+            },
+            {
+                  "name": "Fuerte de Victoria Grande",
+                  "text": "O fortăreață istorică impunătoare care oferă o vedere panoramică asupra împrejurimilor.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937064,
+                        35.296672
+                  ]
+            },
+            {
+                  "name": "Baluarte de San Fernando",
+                  "text": "Parte a fortificațiilor istorice din Melilla, cunoscută pentru construcția sa masivă.",
+                  "category": "castle",
+                  "coords": [
+                        -2.936537,
+                        35.294079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuerte de San Carlos",
+                  "text": "This historic fortification is part of the defensive structures of Melilla.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937746,
+                        35.294826
+                  ]
+            },
+            {
+                  "name": "Fuerte de María Cristina",
+                  "text": "A historic fortress located near the port, used for the defense of the region.",
+                  "category": "castle",
+                  "coords": [
+                        -2.944712,
+                        35.299245
+                  ]
+            },
+            {
+                  "name": "Museo Militar de Melilla",
+                  "text": "This military museum in Melilla displays a collection dedicated to local defensive history.",
+                  "category": "museum",
+                  "coords": [
+                        -2.933952,
+                        35.295169
+                  ]
+            },
+            {
+                  "name": "Museo Ibáñez de Melilla",
+                  "text": "An art museum in Melilla exhibiting modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -2.934414,
+                        35.293778
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "A museum in Melilla presenting a collection of historic motor vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        -2.955509,
+                        35.296249
+                  ]
+            },
+            {
+                  "name": "Fuerte de Victoria Grande",
+                  "text": "An imposing historic fortress offering a wide view over the surrounding area.",
+                  "category": "castle",
+                  "coords": [
+                        -2.937064,
+                        35.296672
+                  ]
+            },
+            {
+                  "name": "Baluarte de San Fernando",
+                  "text": "Part of the historic fortifications of Melilla, known for its massive construction.",
+                  "category": "castle",
+                  "coords": [
+                        -2.936537,
+                        35.294079
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MA-02",
     coords: [-2.934, 35.267],

@@ -255,7 +255,52 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/hrazdan-river-nature-v2.webp"},
   {
-    id: "aras-river-nature-v2",
+    id: "aras-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Վազգեն Սարգսյանի տուն-թանգարան",
+                  "text": "Ein Museum, das dem Leben und Wirken des armenischen Politikers Vazgen Sargsyan gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        44.705555,
+                        39.82227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Վազգեն Սարգսյանի տուն-թանգարան",
+                  "text": "Vazgen Szargszjan örmény politikus életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        44.705555,
+                        39.82227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Վազգեն Սարգսյանի տուն-թանգարան",
+                  "text": "Un muzeu dedicat vieții și activității politicianului armean Vazgen Sargsyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.705555,
+                        39.82227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vazgen Sargsyan House-Museum",
+                  "text": "A museum dedicated to the life and work of the Armenian politician Vazgen Sargsyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.705555,
+                        39.82227
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AM-AR",
     coords: [44.7500, 39.8167],
@@ -543,7 +588,124 @@ export const poiExtraArmeniaNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-akna-nature-v2.webp"},
   {
-    id: "debed-river-nature-v2",
+    id: "debed-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ნასოფლარი",
+                  "text": "Überreste einer verlassenen Siedlung am Fluss Debed.",
+                  "category": "historical",
+                  "coords": [
+                        44.807813,
+                        41.217495
+                  ]
+            },
+            {
+                  "name": "სადახლოს ხიდის ნანგრევები",
+                  "text": "Ruinen einer alten Brücke über den Fluss Debed bei Sadakhlo.",
+                  "category": "historical",
+                  "coords": [
+                        44.808003,
+                        41.248889
+                  ]
+            },
+            {
+                  "name": "მუჰამედ მუსტაფას მეჩეთი",
+                  "text": "Ein islamisches Gotteshaus am Debed-Fluss, das der lokalen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797913,
+                        41.242654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ნასოფლარი",
+                  "text": "Egy elhagyatott település maradványai a Debed-folyónál.",
+                  "category": "historical",
+                  "coords": [
+                        44.807813,
+                        41.217495
+                  ]
+            },
+            {
+                  "name": "სადახლოს ხიდის ნანგრევები",
+                  "text": "Egy régi híd maradványai a Debed-folyónál, Sadakhlo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.808003,
+                        41.248889
+                  ]
+            },
+            {
+                  "name": "მუჰამედ მუსტაფას მეჩეთი",
+                  "text": "Iszlám imaház a Debed-folyónál, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797913,
+                        41.242654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ნასოფლარი",
+                  "text": "Rămășițele unei așezări abandonate pe râul Debed.",
+                  "category": "historical",
+                  "coords": [
+                        44.807813,
+                        41.217495
+                  ]
+            },
+            {
+                  "name": "სადახლოს ხიდის ნანგრევები",
+                  "text": "Ruinele unui vechi pod peste râul Debed, lângă Sadakhlo.",
+                  "category": "historical",
+                  "coords": [
+                        44.808003,
+                        41.248889
+                  ]
+            },
+            {
+                  "name": "მუჰამედ მუსტაფას მეჩეთი",
+                  "text": "Un lăcaș de cult islamic pe râul Debed, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797913,
+                        41.242654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ნასოფლარი",
+                  "text": "Remains of an abandoned settlement located along the Debed River.",
+                  "category": "historical",
+                  "coords": [
+                        44.807813,
+                        41.217495
+                  ]
+            },
+            {
+                  "name": "Sadakhlo Bridge ruins",
+                  "text": "Ruins of an old bridge over the Debed River near Sadakhlo.",
+                  "category": "historical",
+                  "coords": [
+                        44.808003,
+                        41.248889
+                  ]
+            },
+            {
+                  "name": "Muhammad Mustafa Mosque",
+                  "text": "An Islamic place of worship on the Debed River serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797913,
+                        41.242654
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AM-LO",
     coords: [44.8167, 41.2500],

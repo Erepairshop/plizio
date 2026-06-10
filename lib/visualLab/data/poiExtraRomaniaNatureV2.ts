@@ -93,7 +93,232 @@ export const romaniaNatureV2: POI[] = [
     image: "/poi-images/romania-valea-vaserului-nature-v2.webp",
   },
   {
-    id: "romania-cheile-galbenei-nature-v2",
+    id: "romania-cheile-galbenei-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peștera Ghețarul de la Focul Viu",
+                  "text": "Eine beeindruckende Eishöhle im Apuseni-Gebirge, bekannt für ihre fossilen Eisformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "Der Eingang zu einem komplexen Höhlensystem in der Galbena-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "Eine monumentale Karstformation mit riesigen Höhlenportalen und unterirdischen Flüssen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Groapa Ruginoasa",
+                  "text": "Eine durch Erosion entstandene, rötliche Schlucht mit beeindruckender Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.653003,
+                        46.523847
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "Ein Aussichtspunkt, der weite Panoramablicke über das Glăvoaia-Plateau bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Cheile Galbenei",
+                  "text": "Eine spektakuläre, wilde Schlucht mit Wasserfällen und steilen Felswänden.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eszkimó-jégbarlang",
+                  "text": "Látványos jégbarlang az Erdélyi-szigethegységben, amely fosszilis jégképződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Hamlet-kapu barlang",
+                  "text": "Egy komplex barlangrendszer bejárata a Galbena-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Csodavár",
+                  "text": "Hatalmas karsztképződmény óriási barlangkapukkal és föld alatti folyókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Groapa Ruginoasa",
+                  "text": "Erózió által kialakult vöröses színű árok lenyűgöző tájképpel.",
+                  "category": "natural",
+                  "coords": [
+                        22.653003,
+                        46.523847
+                  ]
+            },
+            {
+                  "name": "Glăvoaia-kilátó",
+                  "text": "Kilátópont, amely széles panorámát nyújt a Glăvoaia-fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Galbina-szoros",
+                  "text": "Látványos, vadregényes szurdok vízesésekkel és meredek sziklafalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peștera Ghețarul de la Focul Viu",
+                  "text": "O peșteră de gheață impresionantă din Munții Apuseni, cunoscută pentru formațiunile sale de gheață fosilă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "Intrarea într-un sistem peșteră complex situat în Cheile Galbenei.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "O formațiune carstică monumentală cu portaluri de peșteră uriașe și râuri subterane.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Groapa Ruginoasa",
+                  "text": "O ravină de un roșu aprins formată prin eroziune, cu un peisaj impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        22.653003,
+                        46.523847
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "Un punct de observație care oferă vederi panoramice largi asupra platoului Glăvoaia.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Cheile Galbenei",
+                  "text": "Chei spectaculoase și sălbatice cu cascade și pereți stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Focul Viu Glacier Cave",
+                  "text": "An impressive ice cave in the Apuseni Mountains, known for its fossil ice formations.",
+                  "category": "landmark",
+                  "coords": [
+                        22.679876,
+                        46.575322
+                  ]
+            },
+            {
+                  "name": "Peștera Căput",
+                  "text": "The entrance to a complex cave system located in the Galbena Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.712774,
+                        46.56432
+                  ]
+            },
+            {
+                  "name": "Cetățile Ponorului",
+                  "text": "A monumental karst formation featuring giant cave portals and underground rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        22.701418,
+                        46.563357
+                  ]
+            },
+            {
+                  "name": "Groapa Ruginoasa",
+                  "text": "A reddish-colored ravine formed by erosion, offering a striking landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.653003,
+                        46.523847
+                  ]
+            },
+            {
+                  "name": "Belvedere Glăvoaia",
+                  "text": "A viewpoint providing broad panoramic views over the Glăvoaia plateau.",
+                  "category": "natural",
+                  "coords": [
+                        22.71417,
+                        46.552564
+                  ]
+            },
+            {
+                  "name": "Galbena Gorge",
+                  "text": "A spectacular, wild gorge featuring waterfalls and steep rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        22.677814,
+                        46.555333
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "RO",
     name: { de: "Galbena-Schlucht", hu: "Galbena-szurdok", ro: "Cheile Galbenei", en: "Galbena Gorges" },

@@ -44,7 +44,232 @@ export const poiExtraIrelandOther: POI[] = [
     },
   },
   {
-    id: "animal-habitat-secret-valley-extra", type: "animal-habitat", parent: "IE", coords: [-6.7725, 52.3456],
+    id: "animal-habitat-secret-valley-extra", "sights": {
+      "de": [
+            {
+                  "name": "Carrickbyrne Hill",
+                  "text": "Ein Hügel in der Nähe des Secret Valley Wildlife Park, der für Wanderungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.781613,
+                        52.370186
+                  ]
+            },
+            {
+                  "name": "hedge school",
+                  "text": "Die Ruinen einer ehemaligen Hecken-Schule in der Gegend von Secret Valley Wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        -6.774406,
+                        52.37557
+                  ]
+            },
+            {
+                  "name": "Castle (In Ruins)",
+                  "text": "Die historischen Überreste einer alten Burgruine in Secret Valley Wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        -6.78799,
+                        52.345543
+                  ]
+            },
+            {
+                  "name": "The Browne-Clayton Monument",
+                  "text": "Ein markantes Turmdenkmal in Form einer korinthischen Säule, das an General Robert Browne-Clayton erinnert.",
+                  "category": "tower",
+                  "coords": [
+                        -6.804847,
+                        52.359857
+                  ]
+            },
+            {
+                  "name": "Tobermurry",
+                  "text": "Eine lokale Quelle in der Nähe von Secret Valley Wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.798212,
+                        52.376316
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Eine katholische Kirche in der Gegend von Secret Valley Wildlife.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790947,
+                        52.3431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrickbyrne Hill",
+                  "text": "A Secret Valley Wildlife Park közelében fekvő, kirándulóhelyként ismert domb.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.781613,
+                        52.370186
+                  ]
+            },
+            {
+                  "name": "hedge school",
+                  "text": "Egy egykori zugiskola (hedge school) maradványai a Secret Valley Wildlife környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.774406,
+                        52.37557
+                  ]
+            },
+            {
+                  "name": "Castle (In Ruins)",
+                  "text": "Egy régi várrom történelmi maradványai Secret Valley Wildlife területén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.78799,
+                        52.345543
+                  ]
+            },
+            {
+                  "name": "The Browne-Clayton Monument",
+                  "text": "Egy korinthoszi oszlop formájú emlékmű, amely Robert Browne-Clayton tábornoknak állít emléket.",
+                  "category": "tower",
+                  "coords": [
+                        -6.804847,
+                        52.359857
+                  ]
+            },
+            {
+                  "name": "Tobermurry",
+                  "text": "Egy helyi forrás Secret Valley Wildlife közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.798212,
+                        52.376316
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Római katolikus templom Secret Valley Wildlife környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790947,
+                        52.3431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrickbyrne Hill",
+                  "text": "Un deal situat în apropierea Secret Valley Wildlife Park, cunoscut pentru traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.781613,
+                        52.370186
+                  ]
+            },
+            {
+                  "name": "hedge school",
+                  "text": "Ruinele unei foste școli clandestine (hedge school) din zona Secret Valley Wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        -6.774406,
+                        52.37557
+                  ]
+            },
+            {
+                  "name": "Castle (In Ruins)",
+                  "text": "Rămășițele istorice ale unei vechi cetăți în ruină din Secret Valley Wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        -6.78799,
+                        52.345543
+                  ]
+            },
+            {
+                  "name": "The Browne-Clayton Monument",
+                  "text": "Un monument sub formă de coloană corintică ridicat în memoria generalului Robert Browne-Clayton.",
+                  "category": "tower",
+                  "coords": [
+                        -6.804847,
+                        52.359857
+                  ]
+            },
+            {
+                  "name": "Tobermurry",
+                  "text": "O sursă locală de apă situată în apropiere de Secret Valley Wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.798212,
+                        52.376316
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "O biserică romano-catolică situată în zona Secret Valley Wildlife.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790947,
+                        52.3431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrickbyrne Hill",
+                  "text": "A hill near Secret Valley Wildlife Park known for its scenic views and hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.781613,
+                        52.370186
+                  ]
+            },
+            {
+                  "name": "hedge school",
+                  "text": "The ruins of a historical hedge school located in the Secret Valley Wildlife area.",
+                  "category": "historical",
+                  "coords": [
+                        -6.774406,
+                        52.37557
+                  ]
+            },
+            {
+                  "name": "Castle (In Ruins)",
+                  "text": "The historical remains of an old castle ruin located in Secret Valley Wildlife.",
+                  "category": "historical",
+                  "coords": [
+                        -6.78799,
+                        52.345543
+                  ]
+            },
+            {
+                  "name": "The Browne-Clayton Monument",
+                  "text": "A prominent monument in the form of a Corinthian column, dedicated to General Robert Browne-Clayton.",
+                  "category": "tower",
+                  "coords": [
+                        -6.804847,
+                        52.359857
+                  ]
+            },
+            {
+                  "name": "Tobermurry",
+                  "text": "A local natural spring located in the vicinity of Secret Valley Wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.798212,
+                        52.376316
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Roman Catholic church serving the Secret Valley Wildlife area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790947,
+                        52.3431
+                  ]
+            }
+      ]
+}, type: "animal-habitat", parent: "IE", coords: [-6.7725, 52.3456],
     name: { de: "Secret Valley Wildlife", hu: "Secret Valley Vadaspark", ro: "Secret Valley Wildlife", en: "Secret Valley Wildlife" },
     description: {
       de: "Ein familienfreundlicher Tierpark in Wexford mit Pumas, Affen und Erdmännchen.",

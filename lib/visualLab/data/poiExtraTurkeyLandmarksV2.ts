@@ -111,7 +111,160 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
   {
-    id: "pamukkale-landmarks-v2",
+    id: "pamukkale-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumental Nymphaeum",
+                  "text": "Ein monumentaler Brunnen in der antiken Stadt Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.126306,
+                        37.92693
+                  ]
+            },
+            {
+                  "name": "Hierapolis",
+                  "text": "Eine antike griechische Stadt auf den Kalksinterterrassen von Pamukkale.",
+                  "category": "historical",
+                  "coords": [
+                        29.126279,
+                        37.929203
+                  ]
+            },
+            {
+                  "name": "Latrinae",
+                  "text": "Die Ruinen der antiken Latrinen von Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.122228,
+                        37.931626
+                  ]
+            },
+            {
+                  "name": "Hamam - Kilise",
+                  "text": "Die Ruinen einer römischen Therme, die später als Basilika genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        29.121413,
+                        37.933459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumental Nymphaeum",
+                  "text": "Monumentális kútépítmény Hierapolisz ókori városában.",
+                  "category": "historical",
+                  "coords": [
+                        29.126306,
+                        37.92693
+                  ]
+            },
+            {
+                  "name": "Hierapolis",
+                  "text": "Pamukkale mészkőteraszainál fekvő ókori görög város.",
+                  "category": "historical",
+                  "coords": [
+                        29.126279,
+                        37.929203
+                  ]
+            },
+            {
+                  "name": "Latrinae",
+                  "text": "Hierapolisz ókori nyilvános illemhelyeinek romjai.",
+                  "category": "historical",
+                  "coords": [
+                        29.122228,
+                        37.931626
+                  ]
+            },
+            {
+                  "name": "Hamam - Kilise",
+                  "text": "Római fürdő romjai, amelyet később bazilikaként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        29.121413,
+                        37.933459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumental Nymphaeum",
+                  "text": "O fântână monumentală în orașul antic Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.126306,
+                        37.92693
+                  ]
+            },
+            {
+                  "name": "Hierapolis",
+                  "text": "Un oraș antic grecesc situat deasupra teraselor de calcar de la Pamukkale.",
+                  "category": "historical",
+                  "coords": [
+                        29.126279,
+                        37.929203
+                  ]
+            },
+            {
+                  "name": "Latrinae",
+                  "text": "Ruinele latrinelor antice din Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.122228,
+                        37.931626
+                  ]
+            },
+            {
+                  "name": "Hamam - Kilise",
+                  "text": "Ruinele unor băi romane, folosite ulterior ca bazilică.",
+                  "category": "historical",
+                  "coords": [
+                        29.121413,
+                        37.933459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumental Nymphaeum",
+                  "text": "A monumental fountain building in the ancient city of Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.126306,
+                        37.92693
+                  ]
+            },
+            {
+                  "name": "Hierapolis",
+                  "text": "An ancient Greek city located atop the limestone terraces of Pamukkale.",
+                  "category": "historical",
+                  "coords": [
+                        29.126279,
+                        37.929203
+                  ]
+            },
+            {
+                  "name": "Latrinae",
+                  "text": "The ruins of the ancient public latrines in Hierapolis.",
+                  "category": "historical",
+                  "coords": [
+                        29.122228,
+                        37.931626
+                  ]
+            },
+            {
+                  "name": "Baths - Basilica",
+                  "text": "The ruins of Roman baths that were later used as a basilica.",
+                  "category": "historical",
+                  "coords": [
+                        29.121413,
+                        37.933459
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-20",
     coords: [29.1193, 37.9253],
@@ -183,7 +336,304 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
   {
-    id: "goreme-national-park-landmarks-v2",
+    id: "goreme-national-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Etnoğrafya Müzesi",
+                  "text": "Ein Museum im Ortahisar, das sich der lokalen Kultur Kappadokiens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        34.864852,
+                        38.621304
+                  ]
+            },
+            {
+                  "name": "Historischer Nationalpark Göreme",
+                  "text": "Ein UNESCO-Weltkulturerbe mit faszinierenden Felsformationen und Höhlenkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        34.854196,
+                        38.65148
+                  ]
+            },
+            {
+                  "name": "Freilichtmuseum Göreme",
+                  "text": "Ein berühmtes Freilichtmuseum mit byzantinischen Felsenkirchen und Fresken.",
+                  "category": "museum",
+                  "coords": [
+                        34.845535,
+                        38.639083
+                  ]
+            },
+            {
+                  "name": "Kekligin Kale",
+                  "text": "Eine historische Felsenfestung im Nationalpark Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.806601,
+                        38.631632
+                  ]
+            },
+            {
+                  "name": "Tiraz Kale",
+                  "text": "Eine in den Fels gehauene Burgruine in der Region Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.808497,
+                        38.630002
+                  ]
+            },
+            {
+                  "name": "Roma Kalesi",
+                  "text": "Eine markante Felsenburg im Herzen von Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.82962,
+                        38.642458
+                  ]
+            },
+            {
+                  "name": "Perili Ozanlar Vadisi",
+                  "text": "Ein Gebiet im Nationalpark Göreme, das für seine Landschaft bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.822729,
+                        38.64646
+                  ]
+            },
+            {
+                  "name": "Çavuşin Kalesi",
+                  "text": "Eine beeindruckende, in den Fels gehauene Festung in Çavuşin.",
+                  "category": "castle",
+                  "coords": [
+                        34.842496,
+                        38.667772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Etnoğrafya Müzesi",
+                  "text": "Ortahisari múzeum, amely Kappadókia helyi kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.864852,
+                        38.621304
+                  ]
+            },
+            {
+                  "name": "Göreme Nemzeti Park és Kappadókia sziklatemplomai",
+                  "text": "UNESCO világörökségi helyszín lenyűgöző sziklaformációkkal és barlangtemplomokkal.",
+                  "category": "natural",
+                  "coords": [
+                        34.854196,
+                        38.65148
+                  ]
+            },
+            {
+                  "name": "Göreme Açık Hava Müzesi",
+                  "text": "Híres szabadtéri múzeum bizánci sziklatemplomokkal és freskókkal.",
+                  "category": "museum",
+                  "coords": [
+                        34.845535,
+                        38.639083
+                  ]
+            },
+            {
+                  "name": "Kekligin Kale",
+                  "text": "Történelmi sziklavár a Göreme Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        34.806601,
+                        38.631632
+                  ]
+            },
+            {
+                  "name": "Tiraz Kale",
+                  "text": "Sziklába vájt várrom a Göreme régióban.",
+                  "category": "castle",
+                  "coords": [
+                        34.808497,
+                        38.630002
+                  ]
+            },
+            {
+                  "name": "Roma Kalesi",
+                  "text": "Jellegzetes sziklavár Göreme szívében.",
+                  "category": "castle",
+                  "coords": [
+                        34.82962,
+                        38.642458
+                  ]
+            },
+            {
+                  "name": "Perili Ozanlar Vadisi",
+                  "text": "A Göreme Nemzeti Park tájáról ismert területe.",
+                  "category": "recreational",
+                  "coords": [
+                        34.822729,
+                        38.64646
+                  ]
+            },
+            {
+                  "name": "Çavuşin Kalesi",
+                  "text": "Lenyűgöző, sziklába vájt erődítmény Çavuşinban.",
+                  "category": "castle",
+                  "coords": [
+                        34.842496,
+                        38.667772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Etnoğrafya Müzesi",
+                  "text": "Un muzeu din Ortahisar dedicat culturii locale din Cappadocia.",
+                  "category": "museum",
+                  "coords": [
+                        34.864852,
+                        38.621304
+                  ]
+            },
+            {
+                  "name": "Göreme Millî Parkı",
+                  "text": "Un sit din patrimoniul mondial UNESCO cu formațiuni stâncoase fascinante și biserici rupestre.",
+                  "category": "natural",
+                  "coords": [
+                        34.854196,
+                        38.65148
+                  ]
+            },
+            {
+                  "name": "Göreme Açık Hava Müzesi",
+                  "text": "Un celebru muzeu în aer liber cu biserici bizantine în stâncă și fresce.",
+                  "category": "museum",
+                  "coords": [
+                        34.845535,
+                        38.639083
+                  ]
+            },
+            {
+                  "name": "Kekligin Kale",
+                  "text": "O fortăreață istorică în stâncă în Parcul Național Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.806601,
+                        38.631632
+                  ]
+            },
+            {
+                  "name": "Tiraz Kale",
+                  "text": "O ruină de castel săpată în stâncă în regiunea Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.808497,
+                        38.630002
+                  ]
+            },
+            {
+                  "name": "Roma Kalesi",
+                  "text": "Un castel de stâncă proeminent în inima localității Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.82962,
+                        38.642458
+                  ]
+            },
+            {
+                  "name": "Perili Ozanlar Vadisi",
+                  "text": "O zonă din Parcul Național Göreme cunoscută pentru peisajul său.",
+                  "category": "recreational",
+                  "coords": [
+                        34.822729,
+                        38.64646
+                  ]
+            },
+            {
+                  "name": "Çavuşin Kalesi",
+                  "text": "O fortăreață impresionantă săpată în stâncă în Çavuşin.",
+                  "category": "castle",
+                  "coords": [
+                        34.842496,
+                        38.667772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum in Ortahisar dedicated to the local culture of Cappadocia.",
+                  "category": "museum",
+                  "coords": [
+                        34.864852,
+                        38.621304
+                  ]
+            },
+            {
+                  "name": "Göreme Historical National Park",
+                  "text": "A UNESCO World Heritage site featuring fascinating rock formations and cave churches.",
+                  "category": "natural",
+                  "coords": [
+                        34.854196,
+                        38.65148
+                  ]
+            },
+            {
+                  "name": "Göreme Open Air Museum",
+                  "text": "A famous open-air museum with Byzantine rock-cut churches and frescoes.",
+                  "category": "museum",
+                  "coords": [
+                        34.845535,
+                        38.639083
+                  ]
+            },
+            {
+                  "name": "Kekligin Kale",
+                  "text": "A historical rock fortress in the Göreme National Park.",
+                  "category": "castle",
+                  "coords": [
+                        34.806601,
+                        38.631632
+                  ]
+            },
+            {
+                  "name": "Tiraz Kale",
+                  "text": "A rock-cut castle ruin in the Göreme region.",
+                  "category": "castle",
+                  "coords": [
+                        34.808497,
+                        38.630002
+                  ]
+            },
+            {
+                  "name": "Roman Castle",
+                  "text": "A prominent rock castle in the heart of Göreme.",
+                  "category": "castle",
+                  "coords": [
+                        34.82962,
+                        38.642458
+                  ]
+            },
+            {
+                  "name": "Perili Ozanlar Vadisi",
+                  "text": "An area within the Göreme National Park known for its landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        34.822729,
+                        38.64646
+                  ]
+            },
+            {
+                  "name": "Çavuşin Castle",
+                  "text": "An impressive rock-cut fortress in Çavuşin.",
+                  "category": "castle",
+                  "coords": [
+                        34.842496,
+                        38.667772
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-50",
     coords: [34.8288, 38.6430],
@@ -219,7 +669,124 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sumela-monastery-landmarks-v2",
+    id: "sumela-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Sumela",
+                  "text": "Das Sümela-Kloster ist ein spektakuläres griechisch-orthodoxes Kloster, das in eine steile Felswand gehauen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "Ein Nationalpark im Nordosten der Türkei, der das Sümela-Kloster umgibt und für seine dichten Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "Eine kleine Kirche in der Nähe des Sümela-Klosters, die der Heiligen Barbara gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sümela Manastırı",
+                  "text": "A Sümela-kolostor egy látványos görög ortodox kolostor, amelyet egy meredek sziklafalba vájtak.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "Nemzeti park Törökország északkeleti részén, amely a Sümela-kolostort veszi körül és sűrű erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "A Sümela-kolostor közelében található kis templom, amelyet Szent Borbálának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sümela Manastırı",
+                  "text": "Mănăstirea Sümela este o spectaculoasă mănăstire ortodoxă greacă, construită direct într-o stâncă abruptă.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Vadisi Millî Parkı",
+                  "text": "Un parc național în nord-estul Turciei, care înconjoară Mănăstirea Sümela și este cunoscut pentru pădurile sale dese.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "O mică biserică situată lângă Mănăstirea Sümela, dedicată Sfintei Varvara.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sümela Monastery",
+                  "text": "Sümela Monastery is a spectacular Greek Orthodox monastery carved into a steep cliff face.",
+                  "category": "religious",
+                  "coords": [
+                        39.658374,
+                        40.6901
+                  ]
+            },
+            {
+                  "name": "Altındere Valley National Park",
+                  "text": "A national park in northeastern Turkey surrounding the Sümela Monastery, known for its dense forests.",
+                  "category": "natural",
+                  "coords": [
+                        39.653247,
+                        40.701775
+                  ]
+            },
+            {
+                  "name": "Aya Varvara Kilisesi",
+                  "text": "A small church located near the Sümela Monastery, dedicated to Saint Barbara.",
+                  "category": "religious",
+                  "coords": [
+                        39.659571,
+                        40.687138
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-61",
     coords: [39.6582, 40.6901],
@@ -291,7 +858,52 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
     {
-    id: "mount-ararat-landmarks-v2",
+    id: "mount-ararat-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ağrı Dağı Millî Parkı",
+                  "text": "Ein Nationalpark, der den höchsten Gipfel der Türkei und seine Umgebung umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        44.298323,
+                        39.691391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ağrı Dağı Millî Parkı",
+                  "text": "Nemzeti park, amely Törökország legmagasabb csúcsát és környékét foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        44.298323,
+                        39.691391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ağrı Dağı Millî Parkı",
+                  "text": "Un parc național care cuprinde cel mai înalt vârf din Turcia și împrejurimile sale.",
+                  "category": "natural",
+                  "coords": [
+                        44.298323,
+                        39.691391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Ararat National Park",
+                  "text": "A national park encompassing Turkey's highest peak and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        44.298323,
+                        39.691391
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-04",
     coords: [44.2980, 39.7020],
@@ -399,7 +1011,232 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
     {
-    id: "aspendos-theater-landmarks-v2",
+    id: "aspendos-theater-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater",
+                  "text": "Das antike römische Theater von Aspendos, eines der am besten erhaltenen.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Eine antike griechisch-römische Stadt, bekannt für ihr gut erhaltenes Theater.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "Eine moderne Arena für kulturelle Veranstaltungen bei Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Überreste einer antiken Wasserzisterne in Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Die Akropolis von Aspendos mit Ruinen öffentlicher Gebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Aquaeduct",
+                  "text": "Beeindruckende Ruinen eines römischen Aquädukts bei Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aspendos Amfi Tiyatrosu",
+                  "text": "Aspendos ókori római színháza, az egyik legjobb állapotban fennmaradt.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Ókori görög-római város, amely jól megőrzött színházáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "Modern kulturális rendezvényhelyszín Aspendos közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Ókori víztározó maradványai Aspendosban.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Aspendos akropolisza középületek romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Su kemeri",
+                  "text": "Egy római vízvezeték lenyűgöző romjai Aspendos közelében.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aspendos Amfi Tiyatrosu",
+                  "text": "Teatrul antic roman din Aspendos, unul dintre cele mai bine conservate.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "Un oraș antic greco-roman, cunoscut pentru teatrul său bine conservat.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "O arenă modernă pentru evenimente culturale lângă Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Rămășițele unei cisterne antice de apă în Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "Acropola din Aspendos, cuprinzând ruine ale clădirilor publice.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Su kemeri",
+                  "text": "Ruine impresionante ale unui apeduct roman lângă Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre",
+                  "text": "The ancient Roman theatre of Aspendos, one of the best preserved.",
+                  "category": "cultural",
+                  "coords": [
+                        31.172229,
+                        36.938971
+                  ]
+            },
+            {
+                  "name": "Aspendos",
+                  "text": "An ancient Greco-Roman city known for its well-preserved theatre.",
+                  "category": "historical",
+                  "coords": [
+                        31.169658,
+                        36.94036
+                  ]
+            },
+            {
+                  "name": "Gloria Aspendos Arena",
+                  "text": "A modern arena for cultural events near Aspendos.",
+                  "category": "cultural",
+                  "coords": [
+                        31.166902,
+                        36.932174
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Remains of an ancient water cistern in Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.169273,
+                        36.94326
+                  ]
+            },
+            {
+                  "name": "Akropolis",
+                  "text": "The acropolis of Aspendos featuring ruins of public buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        31.170577,
+                        36.941283
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Impressive ruins of a Roman aqueduct near Aspendos.",
+                  "category": "historical",
+                  "coords": [
+                        31.167529,
+                        36.94832
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-07",
     coords: [31.1724, 36.9388],

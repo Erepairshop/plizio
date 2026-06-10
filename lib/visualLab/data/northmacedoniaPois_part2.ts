@@ -4,7 +4,160 @@ import type { POI } from "./poi";
 export const mkPoisPart2: POI[] = [
   // MK-011: Dojran
   {
-    id: "MK-011-dojran-lake",
+    id: "MK-011-dojran-lake", "sights": {
+      "de": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Ein Heimatmuseum am Dojran-See, das über die lokale Geschichte und Natur informiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Ein Strand am Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Николиќ плажа",
+                  "text": "Ein Strand am Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.755093,
+                        41.247255
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Ein Strandresort am Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Helytörténeti múzeum a Dojrani-tónál, amely a környék múltját és természetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Egy strand a Dojran Lake-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Николиќ плажа",
+                  "text": "Egy strand a Dojran Lake-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.755093,
+                        41.247255
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Egy üdülőhely a Dojran Lake-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Un muzeu local la Lacul Dojran, prezentând istoria și natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "O plajă situată la Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Николиќ плажа",
+                  "text": "O plajă situată la Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.755093,
+                        41.247255
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "O stațiune de plajă la Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dojran Museum",
+                  "text": "A local museum at Dojran Lake showcasing the region's history and natural environment.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "A beach located at Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Nikolich Beach",
+                  "text": "A beach located at Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.755093,
+                        41.247255
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "A beach resort at Dojran Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "MK-011",
     coords: [22.7447, 41.2181],
@@ -48,7 +201,232 @@ export const mkPoisPart2: POI[] = [
     image: "/poi-images/MK-011-dojran-lake.webp",
   },
   {
-    id: "MK-011-st-elijah-church",
+    id: "MK-011-st-elijah-church", "sights": {
+      "de": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Ein lokales Museum in Dojran, das die Geschichte und Natur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Ein beliebter Strandabschnitt am Ufer des Dojran-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Мрдаја",
+                  "text": "Ein Sandstrand am Dojran-See, der zum Entspannen und Schwimmen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.743044,
+                        41.172354
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Ein Berggipfel in der Nähe von Dojran mit Panoramablick auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Ein Denkmal zur Erinnerung an die Soldaten der Saloniki-Front im Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Eine Ferienanlage am Dojran-See mit Strandzugang und Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Helyi múzeum Dojranban, amely a régió történelmét és természetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "Egy népszerű strandszakasz a Dojrani-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Мрдаја",
+                  "text": "Egy homokos strand a Dojrani-tónál, amely kikapcsolódásra és úszásra hív.",
+                  "category": "recreational",
+                  "coords": [
+                        22.743044,
+                        41.172354
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Egy hegycsúcs Dojran közelében, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Az első világháborús szaloniki front katonáinak emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "Egy üdülőhely a Dojrani-tónál stranddal és szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј на Дојран",
+                  "text": "Un muzeu local din Dojran care prezintă istoria și natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "O secțiune populară de plajă pe malul lacului Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Мрдаја",
+                  "text": "O plajă cu nisip la lacul Dojran, ideală pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        22.743044,
+                        41.172354
+                  ]
+            },
+            {
+                  "name": "Кале Тепе",
+                  "text": "Un vârf montan lângă Dojran, oferind vedere panoramică asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "text": "Un monument dedicat soldaților de pe frontul din Salonic din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "O stațiune la lacul Dojran cu acces la plajă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dojran Museum",
+                  "text": "A local museum in Dojran showcasing the history and nature of the region.",
+                  "category": "museum",
+                  "coords": [
+                        22.722073,
+                        41.187034
+                  ]
+            },
+            {
+                  "name": "STAGE BEACH",
+                  "text": "A popular beach area on the shores of Lake Dojran.",
+                  "category": "recreational",
+                  "coords": [
+                        22.716742,
+                        41.194896
+                  ]
+            },
+            {
+                  "name": "Mrdaja",
+                  "text": "A sandy beach on Lake Dojran, ideal for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        22.743044,
+                        41.172354
+                  ]
+            },
+            {
+                  "name": "Kale Tepe",
+                  "text": "A mountain peak near Dojran offering panoramic views of the surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        22.68649,
+                        41.190956
+                  ]
+            },
+            {
+                  "name": "World War I Salonica Front memorial",
+                  "text": "A monument commemorating the soldiers of the Salonica Front during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        22.687845,
+                        41.194994
+                  ]
+            },
+            {
+                  "name": "Alex-Beach",
+                  "text": "A resort area on Lake Dojran with beach access and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        22.710967,
+                        41.205172
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-011",
     coords: [22.7214, 41.1864],
@@ -271,7 +649,88 @@ export const mkPoisPart2: POI[] = [
   },
   // MK-014: Bogdanci
   {
-    id: "MK-014-bogdanci-wind-park",
+    id: "MK-014-bogdanci-wind-park", "sights": {
+      "de": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Archäologische Stätte mit Siedlungsspuren aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "Eine orthodoxe Kirche im Dorf Bogorodica bei Bogdanci.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Régészeti lelőhely különböző korszakokból származó településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "Ortodox templom Bogorodica faluban, Bogdanci közelében.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Sit arheologic cu urme de așezări din diverse epoci.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "O biserică ortodoxă în satul Bogorodica, lângă Bogdanci.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vardar Hill",
+                  "text": "Archaeological site with settlement traces from various periods.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Nativity of the Holy Mother of God",
+                  "text": "An Orthodox church in the village of Bogorodica near Bogdanci.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-014",
     coords: [22.5500, 41.1667],
@@ -361,7 +820,124 @@ export const mkPoisPart2: POI[] = [
   },
   // MK-015: Gevgelija
   {
-    id: "MK-015-vardarski-rid",
+    id: "MK-015-vardarski-rid", "sights": {
+      "de": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Eine bedeutende archäologische Stätte in Nordmazedonien, die die Überreste einer antiken Siedlung am Vardar-Fluss umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Споменик на слободата",
+                  "text": "Ein monumentales Denkmal bei Gevgelija, das dem Widerstand und der Freiheit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.500679,
+                        41.158263
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "Eine orthodoxe Kirche in Bogorodica, bekannt für ihre traditionelle Architektur und religiöse Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Jelentős régészeti lelőhely Észak-Macedóniában, amely egy ősi település maradványait foglalja magában a Vardar folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Споменик на слободата",
+                  "text": "Gevgelija közelében található monumentális emlékmű, amelyet az ellenállásnak és a szabadságnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        22.500679,
+                        41.158263
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "Ortodox templom Bogorodica faluban, amely hagyományos építészetéről és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Вардарски Рид",
+                  "text": "Un sit arheologic important din Macedonia de Nord, cuprinzând vestigiile unei așezări antice de pe malul râului Vardar.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Споменик на слободата",
+                  "text": "Un monument monumental situat lângă Gevgelija, dedicat rezistenței și libertății.",
+                  "category": "historical",
+                  "coords": [
+                        22.500679,
+                        41.158263
+                  ]
+            },
+            {
+                  "name": "Рождество на Пресвета Богородица",
+                  "text": "O biserică ortodoxă din Bogorodica, cunoscută pentru arhitectura sa tradițională și importanța sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vardar Hill",
+                  "text": "A significant archaeological site in North Macedonia, encompassing the remains of an ancient settlement along the Vardar River.",
+                  "category": "historical",
+                  "coords": [
+                        22.521904,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Monument of freedom",
+                  "text": "A monumental monument near Gevgelija, dedicated to resistance and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        22.500679,
+                        41.158263
+                  ]
+            },
+            {
+                  "name": "Nativity of the Holy Mother of God",
+                  "text": "An Orthodox church in Bogorodica, known for its traditional architecture and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        22.548031,
+                        41.140654
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-015",
     coords: [22.5050, 41.1550],
@@ -539,7 +1115,52 @@ export const mkPoisPart2: POI[] = [
   },
   // MK-017: Novaci
   {
-    id: "MK-017-kajmakcalan",
+    id: "MK-017-kajmakcalan", "sights": {
+      "de": [
+            {
+                  "name": "Св. Петар",
+                  "text": "Eine Gedenkkirche auf dem Berg Kajmakčalan zur Erinnerung an den Ersten Weltkrieg.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Св. Петар",
+                  "text": "Emléktemplom a Kajmakcsalan-hegyen az első világháború emlékére.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Св. Петар",
+                  "text": "O biserică memorială pe muntele Kajmakčalan, ridicată în memoria Primului Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Peter",
+                  "text": "A memorial church on Kajmakčalan mountain commemorating World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MK-017",
     coords: [21.7833, 40.9167],
@@ -583,7 +1204,88 @@ export const mkPoisPart2: POI[] = [
     image: "/poi-images/MK-017-kajmakcalan.webp",
   },
   {
-    id: "MK-017-suvodol-monastery",
+    id: "MK-017-suvodol-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Суводолски Манастир",
+                  "text": "Ein orthodoxes Kloster in der Nähe von Bitola, das der Geburt der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.539873,
+                        41.074579
+                  ]
+            },
+            {
+                  "name": "Суво Дол",
+                  "text": "Historische archäologische Überreste in der Gegend von Suvo Dol.",
+                  "category": "historical",
+                  "coords": [
+                        21.53828,
+                        41.066083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Суводолски Манастир",
+                  "text": "Bitola melletti ortodox kolostor, amelyet Szűz Mária születésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        21.539873,
+                        41.074579
+                  ]
+            },
+            {
+                  "name": "Суво Дол",
+                  "text": "Történelmi régészeti maradványok Suvo Dol területén.",
+                  "category": "historical",
+                  "coords": [
+                        21.53828,
+                        41.066083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Суводолски Манастир",
+                  "text": "O mănăstire ortodoxă de lângă Bitola, dedicată Nașterii Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.539873,
+                        41.074579
+                  ]
+            },
+            {
+                  "name": "Суво Дол",
+                  "text": "Vestigii arheologice istorice situate în zona Suvo Dol.",
+                  "category": "historical",
+                  "coords": [
+                        21.53828,
+                        41.066083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Suvodol",
+                  "text": "An Orthodox monastery near Bitola dedicated to the Nativity of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        21.539873,
+                        41.074579
+                  ]
+            },
+            {
+                  "name": "Suvo Dol",
+                  "text": "Historic archaeological remains located in the Suvo Dol area.",
+                  "category": "historical",
+                  "coords": [
+                        21.53828,
+                        41.066083
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-017",
     coords: [21.5333, 41.0667],
@@ -628,7 +1330,268 @@ export const mkPoisPart2: POI[] = [
   },
   // MK-018: Prilep
   {
-    id: "MK-018-markos-towers",
+    id: "MK-018-markos-towers", "sights": {
+      "de": [
+            {
+                  "name": "Војдан Чернодрински",
+                  "text": "Das Nationaltheater in Prilep, benannt nach dem Dramatiker Chernodrinski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.558054,
+                        41.341637
+                  ]
+            },
+            {
+                  "name": "Куќата на Ѓошеви",
+                  "text": "Eine archäologische Stätte und ein historisches Haus im Stadtteil Varoš.",
+                  "category": "historical",
+                  "coords": [
+                        21.532954,
+                        41.358818
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "text": "Ein Gedenkmuseum für den makedonischen Widerstandskämpfer Josifoski-Pitu.",
+                  "category": "museum",
+                  "coords": [
+                        21.559707,
+                        41.342511
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Mittelalterliche Festungsruinen auf einem Hügel über Prilep.",
+                  "category": "castle",
+                  "coords": [
+                        21.538839,
+                        41.361635
+                  ]
+            },
+            {
+                  "name": "Куќата на Мантови",
+                  "text": "Überreste eines historischen Hauses in der Nähe der Marko-Türme.",
+                  "category": "historical",
+                  "coords": [
+                        21.540446,
+                        41.355355
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "text": "Ein Museum, das dem antifaschistischen Aufstand von 1941 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.552359,
+                        41.345014
+                  ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Ein Themenpark in der Nähe der Markos-Türme, der verschiedene Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Војдан Чернодрински",
+                  "text": "Prilepi nemzeti színház, amely Chernodrinski drámaíró nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        21.558054,
+                        41.341637
+                  ]
+            },
+            {
+                  "name": "Куќата на Ѓошеви",
+                  "text": "Régészeti lelőhely és történelmi ház Varoš negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        21.532954,
+                        41.358818
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "text": "Emlékmúzeum Josifoski-Pitu macedón ellenálló tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        21.559707,
+                        41.342511
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Középkori várromok a Prilep feletti dombon.",
+                  "category": "castle",
+                  "coords": [
+                        21.538839,
+                        41.361635
+                  ]
+            },
+            {
+                  "name": "Куќата на Мантови",
+                  "text": "Történelmi ház maradványai a Markovi Kuli közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.540446,
+                        41.355355
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "text": "Az 1941-es antifasiszta felkelésnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.552359,
+                        41.345014
+                  ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Egy szabadidőpark a Márkó-tornyok közelében, amely különféle kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Војдан Чернодрински",
+                  "text": "Teatrul național din Prilep, numit după dramaturgul Cernodrinski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.558054,
+                        41.341637
+                  ]
+            },
+            {
+                  "name": "Куќата на Ѓошеви",
+                  "text": "Un sit arheologic și o casă istorică în cartierul Varoș.",
+                  "category": "historical",
+                  "coords": [
+                        21.532954,
+                        41.358818
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "text": "Un muzeu memorial dedicat luptătorului macedonean de rezistență Josifoski-Pitu.",
+                  "category": "museum",
+                  "coords": [
+                        21.559707,
+                        41.342511
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Ruinele unei cetăți medievale pe un deal deasupra orașului Prilep.",
+                  "category": "castle",
+                  "coords": [
+                        21.538839,
+                        41.361635
+                  ]
+            },
+            {
+                  "name": "Куќата на Мантови",
+                  "text": "Rămășițele unei case istorice în apropierea turnurilor lui Marko.",
+                  "category": "historical",
+                  "coords": [
+                        21.540446,
+                        41.355355
+                  ]
+            },
+            {
+                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "text": "Un muzeu dedicat insurecției antifasciste din 1941.",
+                  "category": "museum",
+                  "coords": [
+                        21.552359,
+                        41.345014
+                  ]
+            },
+            {
+                  "name": "Комплекс Варош",
+                  "text": "Un parc tematic situat lângă Turnurile lui Marko, oferind diverse activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vojdan Chernodrinski",
+                  "text": "The national theatre in Prilep, named after the playwright Chernodrinski.",
+                  "category": "cultural",
+                  "coords": [
+                        21.558054,
+                        41.341637
+                  ]
+            },
+            {
+                  "name": "House of Gjoshev",
+                  "text": "An archaeological site and historic house in the Varoš neighborhood.",
+                  "category": "historical",
+                  "coords": [
+                        21.532954,
+                        41.358818
+                  ]
+            },
+            {
+                  "name": "People's hero Kuzman Josifoski-Pitu Memorial museum",
+                  "text": "A memorial museum dedicated to the Macedonian resistance fighter Josifoski-Pitu.",
+                  "category": "museum",
+                  "coords": [
+                        21.559707,
+                        41.342511
+                  ]
+            },
+            {
+                  "name": "Marko's Towers",
+                  "text": "Medieval fortress ruins located on a hill above Prilep.",
+                  "category": "castle",
+                  "coords": [
+                        21.538839,
+                        41.361635
+                  ]
+            },
+            {
+                  "name": "House of Mantov",
+                  "text": "Remains of a historic house near Marko's Towers.",
+                  "category": "historical",
+                  "coords": [
+                        21.540446,
+                        41.355355
+                  ]
+            },
+            {
+                  "name": "11 October 1941 Memorial Museum",
+                  "text": "A museum dedicated to the anti-fascist uprising of 1941.",
+                  "category": "museum",
+                  "coords": [
+                        21.552359,
+                        41.345014
+                  ]
+            },
+            {
+                  "name": "Complex Varosh",
+                  "text": "A theme park near Marko's Towers offering various recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530998,
+                        41.35746
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-018",
     coords: [21.5369, 41.3603],
@@ -672,7 +1635,124 @@ export const mkPoisPart2: POI[] = [
     image: "/poi-images/MK-018-markos-towers.webp",
   },
   {
-    id: "MK-018-monastery-treskavec",
+    id: "MK-018-monastery-treskavec", "sights": {
+      "de": [
+            {
+                  "name": "Трескавец",
+                  "text": "Eine archäologische Stätte mit antiken Überresten beim Kloster Treskavec.",
+                  "category": "historical",
+                  "coords": [
+                        21.537617,
+                        41.405557
+                  ]
+            },
+            {
+                  "name": "Манастир Трескавец",
+                  "text": "Ein historisches orthodoxes Kloster, das auf dem Berg Zlatovrv erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        21.538251,
+                        41.403842
+                  ]
+            },
+            {
+                  "name": "Св. Богородица",
+                  "text": "Eine der Gottesmutter gewidmete Kirche innerhalb des Klosterkomplexes.",
+                  "category": "religious",
+                  "coords": [
+                        21.499788,
+                        41.383538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Трескавец",
+                  "text": "Régészeti lelőhely ókori maradványokkal a Treskavec-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.537617,
+                        41.405557
+                  ]
+            },
+            {
+                  "name": "Манастир Трескавец",
+                  "text": "Történelmi ortodox kolostor a Zlatovrv-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.538251,
+                        41.403842
+                  ]
+            },
+            {
+                  "name": "Св. Богородица",
+                  "text": "Az Istenszülőnek szentelt templom a kolostoregyüttes területén.",
+                  "category": "religious",
+                  "coords": [
+                        21.499788,
+                        41.383538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Трескавец",
+                  "text": "Un sit arheologic cu vestigii antice lângă Mănăstirea Treskavec.",
+                  "category": "historical",
+                  "coords": [
+                        21.537617,
+                        41.405557
+                  ]
+            },
+            {
+                  "name": "Манастир Трескавец",
+                  "text": "O mănăstire ortodoxă istorică construită pe muntele Zlatovrv.",
+                  "category": "landmark",
+                  "coords": [
+                        21.538251,
+                        41.403842
+                  ]
+            },
+            {
+                  "name": "Св. Богородица",
+                  "text": "O biserică dedicată Maicii Domnului în cadrul complexului mănăstiresc.",
+                  "category": "religious",
+                  "coords": [
+                        21.499788,
+                        41.383538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Treskavec",
+                  "text": "An archaeological site with ancient remains near the Treskavec Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        21.537617,
+                        41.405557
+                  ]
+            },
+            {
+                  "name": "Monastery of Treskavec",
+                  "text": "A historic Eastern Orthodox monastery built on Mount Zlatovrv.",
+                  "category": "landmark",
+                  "coords": [
+                        21.538251,
+                        41.403842
+                  ]
+            },
+            {
+                  "name": "Holy Mother of God",
+                  "text": "A church dedicated to the Holy Mother of God within the monastery complex.",
+                  "category": "religious",
+                  "coords": [
+                        21.499788,
+                        41.383538
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-018",
     coords: [21.5336, 41.3986],
@@ -717,7 +1797,304 @@ export const mkPoisPart2: POI[] = [
   },
   // MK-019: Bitola
   {
-    id: "MK-019-heraclea-lyncestis",
+    id: "MK-019-heraclea-lyncestis", "sights": {
+      "de": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Ein städtischer Zoo in Bitola, in dem verschiedene Tierarten beheimatet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Die Überreste einer mittelalterlichen Festung, die die Stadt Bitola überragt.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Ein Museum, das dem Leben und Werk des mazedonischen Revolutionärs Goce Delchev gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Das Hauptmuseum von Bitola, untergebracht in einer historischen ehemaligen Kaserne.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Eine antike griechische und römische Stadt, die von Philipp II. von Mazedonien gegründet wurde und für ihre Mosaike bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Ein Museum in der Neuen Moschee von Bitola, das religiöse und kulturelle Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Ein Gedenkmuseum in Bitola, das an historische Ereignisse und Persönlichkeiten erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Eine religiöse und kulturelle Attraktion in Bitola, die oft mit historischen Kirchen in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Bitola városi állatkertje, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Bitola városa fölé magasodó középkori erődítmény maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "A macedón forradalmár, Goce Delcsev életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Bitola fő múzeuma, amely egy történelmi egykori katonai laktanyában található.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "II. Philipposz macedón király által alapított ókori görög és római város, amely mozaikjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Bitola Új mecsetében berendezett múzeum, amely vallási és kultúrtörténeti emlékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Emlékmúzeum Bitolában, amely történelmi eseményeknek és személyiségeknek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Vallási és kulturális látnivaló Bitolában, amelyet gyakran történelmi templomokkal társítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "O grădină zoologică municipală din Bitola, unde trăiesc diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Rămășițele unei cetăți medievale care domină orașul Bitola.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Un muzeu dedicat vieții și activității revolționarului macedonean Goce Delcev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Principalul muzeu din Bitola, situat într-o fostă cazarmă militară istorică.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Un oraș antic grec și roman fondat de Filip al II-lea al Macedoniei, cunoscut pentru mozaicurile sale.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Un muzeu găzduit în Noua Moschee din Bitola, care prezintă istoria religioasă și culturală.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Un muzeu memorial din Bitola, care comemorează evenimente și figuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "O atracție religioasă și culturală din Bitola, adesea asociată cu biserici istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bitola Zoo",
+                  "text": "A municipal zoo in Bitola home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Fortress of Bitola",
+                  "text": "The remains of a medieval fortress overlooking the city of Bitola.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "A museum dedicated to the life and work of the Macedonian revolutionary Goce Delchev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Museum of Bitola",
+                  "text": "The primary museum of Bitola, located in a historic former military barracks.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Heraclea Lyncestis",
+                  "text": "An ancient Greek and Roman city founded by Philip II of Macedon, known for its mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Museum of christian and muslim culture",
+                  "text": "A museum housed in the New Mosque of Bitola, showcasing religious and cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "A memorial museum in Bitola commemorating historical events and figures.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "St. Trinity",
+                  "text": "A religious and cultural attraction in Bitola, often associated with historic churches.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-019",
     coords: [21.3425, 41.0111],
@@ -761,7 +2138,304 @@ export const mkPoisPart2: POI[] = [
     image: "/poi-images/MK-019-heraclea-lyncestis.webp",
   },
   {
-    id: "MK-019-sirok-sokak",
+    id: "MK-019-sirok-sokak", "sights": {
+      "de": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Ein städtischer Zoo, der verschiedenen Tierarten ein Zuhause bietet und ein Erholungsgebiet für Familien darstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Die Überreste einer Festung aus der osmanischen Zeit, die einst als Verteidigungsanlage für die Stadt diente.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Ein Gedenkmuseum, das dem Leben und den revolutionären Aktivitäten des Nationalhelden Goce Delchev gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Dieses Museum ist in der ehemaligen osmanischen Militärakademie untergebracht und zeigt regionale archäologische und historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Eine von Philipp II. von Makedonien gegründete antike Stadt, berühmt für ihre gut erhaltenen Bodenmosaike und ihr Theater.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Ein Museum im historischen Gebäude der Neuen Moschee, das die religiöse Vielfalt und Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Ein Museum und Denkmal, das den historischen Ereignissen und Persönlichkeiten der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Ein bedeutendes religiöses Gebäude oder eine Attraktion in Bitola, die das spirituelle Erbe der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Városi állatkert, amely különböző állatfajoknak ad otthont, és szabadidős területet biztosít a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Egy oszmán kori erőd maradványai, amely egykor a város védelmi építményeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Emlékmúzeum, amelyet Goce Delcsev nemzeti hős életének és forradalmi tevékenységének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Az egykori oszmán katonai akadémián helyet kapó múzeum regionális régészeti és történelmi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "II. Philipposz makedón király által alapított ókori város, amely jól megőrzött padlómozaikjairól és színházáról híres.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "A történelmi Új-mecset épületében található múzeum, amely a vallási sokszínűséget és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "A városhoz kapcsolódó történelmi eseményeknek és alakoknak szentelt múzeum és emlékmű.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Jelentős vallási épület vagy látnivaló Bitolában, amely a város szellemi örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "O grădină zoologică municipală care oferă adăpost diverselor specii de animale și o zonă de recreere pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Rămășițele unei cetăți din epoca otomană care a servit odată ca structură defensivă pentru oraș.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Un muzeu memorial dedicat vieții și activităților revoluționare ale eroului național Goce Delchev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Găzduit în fosta academie militară otomană, acest muzeu expune artefacte arheologice și istorice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Un oraș antic fondat de Filip al II-lea al Macedoniei, renumit pentru mozaicurile sale de pardoseală bine conservate și pentru teatru.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Un muzeu situat în clădirea istorică a Noii Moschei, care prezintă diversitatea religioasă și istoria.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Un muzeu și monument dedicat evenimentelor istorice și personalităților asociate cu orașul.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "O clădire religioasă sau o atracție semnificativă din Bitola, care reflectă moștenirea spirituală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bitola Zoo",
+                  "text": "A municipal zoo providing a home to various animal species and a recreation area for families.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Fortress of Bitola",
+                  "text": "The remains of an Ottoman-era fortress that once served as a defensive structure for the city.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "A memorial museum dedicated to the life and revolutionary activities of the national hero Goce Delchev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Museum of Bitola",
+                  "text": "Housed in the former Ottoman military academy, this museum displays regional archaeological and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Heraclea Lyncestis",
+                  "text": "An ancient city founded by Philip II of Macedon, famous for its well-preserved floor mosaics and theater.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Museum of christian and muslim culture",
+                  "text": "A museum located within the historic New Mosque building, showcasing religious diversity and history.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "A museum and monument dedicated to the historical events and figures associated with the city.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "St. Trinity",
+                  "text": "A significant religious building or attraction in Bitola, reflecting the city's spiritual heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-019",
     coords: [21.3361, 41.0294],

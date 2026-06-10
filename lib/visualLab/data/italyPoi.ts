@@ -1143,6 +1143,78 @@ export const italyCities: POI[] = [
                         12.334722,
                         45.364202
                   ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Dieses im historischen Ghetto gelegene Museum dokumentiert die lange Geschichte und Kultur der jüdischen Gemeinde in Venedig.",
+                  "category": "museum",
+                  "coords": [
+                        12.327181,
+                        45.445135
+                  ]
+            },
+            {
+                  "name": "Gallerie dell'Accademia",
+                  "text": "Diese bedeutende Kunstgalerie in Venedig beherbergt eine weltberühmte Sammlung venezianischer Gemälde aus dem 14. bis 18. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        12.328092,
+                        45.431366
+                  ]
+            },
+            {
+                  "name": "Teatro stabile del Veneto Carlo Goldoni",
+                  "text": "Venedigs ältestes erhaltenes Theater, benannt nach dem Dramatiker Carlo Goldoni, in dem klassische Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        12.335219,
+                        45.436346
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Dieses in einem ehemaligen Kloster untergebrachte Museum zeigt sakrale Kunst und religiöse Artefakte aus der Diözese Venedig.",
+                  "category": "museum",
+                  "coords": [
+                        12.340813,
+                        45.434673
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale di Venezia",
+                  "text": "Dieses im historischen Fondaco dei Turchi untergebrachte Museum erforscht die Naturgeschichte und die Artenvielfalt der venezianischen Lagune.",
+                  "category": "museum",
+                  "coords": [
+                        12.328536,
+                        45.441665
+                  ]
+            },
+            {
+                  "name": "Museo Correr",
+                  "text": "Dieses am Markusplatz gelegene Museum bietet einen umfassenden Überblick über die Geschichte, Kunst und Kultur Venedigs.",
+                  "category": "museum",
+                  "coords": [
+                        12.337184,
+                        45.4336
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Venezia",
+                  "text": "Ein Museum am Markusplatz mit einer bedeutenden Sammlung antiker griechischer und römischer Skulpturen und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        12.338889,
+                        45.43372
+                  ]
+            },
+            {
+                  "name": "Istituto Veneto di Scienze Lettere ed Arti",
+                  "text": "Eine renommierte Kulturakademie und ein Museum im historischen Palazzo Loredan in Venedig.",
+                  "category": "museum",
+                  "coords": [
+                        12.329633,
+                        45.431949
+                  ]
             }
       ],
       "hu": [
@@ -1153,6 +1225,78 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.334722,
                         45.364202
+                  ]
+            },
+            {
+                  "name": "Zsidó Múzeum",
+                  "text": "A történelmi Gettóban található múzeum a velencei zsidó közösség hosszú történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.327181,
+                        45.445135
+                  ]
+            },
+            {
+                  "name": "Gallerie dell'Accademia",
+                  "text": "Ez a jelentős velencei művészeti galéria a velencei festészet világhírű gyűjteményének ad otthont a 14. és 18. század közötti időszakból.",
+                  "category": "museum",
+                  "coords": [
+                        12.328092,
+                        45.431366
+                  ]
+            },
+            {
+                  "name": "Teatro stabile del Veneto Carlo Goldoni",
+                  "text": "Velence legrégebbi fennmaradt színháza, amely Carlo Goldoni drámaíróról kapta a nevét, és klasszikus előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.335219,
+                        45.436346
+                  ]
+            },
+            {
+                  "name": "Egyházmegyei Múzeum",
+                  "text": "Az egykori kolostorban elhelyezett múzeum a Velencei Egyházmegye szakrális művészetét és vallási tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.340813,
+                        45.434673
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale di Venezia",
+                  "text": "A történelmi Fondaco dei Turchi épületében található múzeum a természetrajzot és a velencei lagúna biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.328536,
+                        45.441665
+                  ]
+            },
+            {
+                  "name": "Museo Correr",
+                  "text": "A Szent Márk téren található múzeum átfogó áttekintést nyújt Velence történelméről, művészetéről és kultúrájáról.",
+                  "category": "museum",
+                  "coords": [
+                        12.337184,
+                        45.4336
+                  ]
+            },
+            {
+                  "name": "Velencei Nemzeti Régészeti Múzeum",
+                  "text": "A Szent Márk téren található múzeum az ókori görög és római szobrok és műtárgyak jelentős gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        12.338889,
+                        45.43372
+                  ]
+            },
+            {
+                  "name": "Istituto Veneto di Scienze Lettere ed Arti",
+                  "text": "Rangos kulturális akadémia és múzeum a velencei történelmi Palazzo Loredan épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.329633,
+                        45.431949
                   ]
             }
       ],
@@ -1165,6 +1309,78 @@ export const italyCities: POI[] = [
                         12.334722,
                         45.364202
                   ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Situat în ghetoul istoric, acest muzeu documentează istoria lungă și cultura comunității evreiești din Veneția.",
+                  "category": "museum",
+                  "coords": [
+                        12.327181,
+                        45.445135
+                  ]
+            },
+            {
+                  "name": "Gallerie dell'Accademia",
+                  "text": "Această galerie de artă majoră din Veneția găzduiește o colecție de pictură venețiană de renume mondial din secolele XIV-XVIII.",
+                  "category": "museum",
+                  "coords": [
+                        12.328092,
+                        45.431366
+                  ]
+            },
+            {
+                  "name": "Teatro stabile del Veneto Carlo Goldoni",
+                  "text": "Cel mai vechi teatru supraviețuitor din Veneția, numit după dramaturgul Carlo Goldoni și care găzduiește spectacole clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        12.335219,
+                        45.436346
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Găzduit într-o fostă mănăstire, acest muzeu expune artă sacră și artefacte religioase din Dieceza de Veneția.",
+                  "category": "museum",
+                  "coords": [
+                        12.340813,
+                        45.434673
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale di Venezia",
+                  "text": "Situat în istoricul Fondaco dei Turchi, acest muzeu explorează istoria naturală și biodiversitatea lagunei venețiene.",
+                  "category": "museum",
+                  "coords": [
+                        12.328536,
+                        45.441665
+                  ]
+            },
+            {
+                  "name": "Museo Correr",
+                  "text": "Situat în Piața San Marco, acest muzeu oferă o imagine de ansamblu extinsă asupra istoriei, artei și culturii Veneției.",
+                  "category": "museum",
+                  "coords": [
+                        12.337184,
+                        45.4336
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Venezia",
+                  "text": "Un muzeu din Piața San Marco care prezintă o colecție semnificativă de sculpturi și artefacte antice grecești și romane.",
+                  "category": "museum",
+                  "coords": [
+                        12.338889,
+                        45.43372
+                  ]
+            },
+            {
+                  "name": "Istituto Veneto di Scienze Lettere ed Arti",
+                  "text": "O academie culturală și un muzeu de prestigiu situate în istoricul Palazzo Loredan din Veneția.",
+                  "category": "museum",
+                  "coords": [
+                        12.329633,
+                        45.431949
+                  ]
             }
       ],
       "en": [
@@ -1175,6 +1391,78 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.334722,
                         45.364202
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Located in the historic Ghetto, this museum documents the long history and culture of the Jewish community in Venice.",
+                  "category": "museum",
+                  "coords": [
+                        12.327181,
+                        45.445135
+                  ]
+            },
+            {
+                  "name": "Accademia Gallery",
+                  "text": "This major art gallery in Venice houses a world-renowned collection of Venetian paintings from the 14th to 18th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        12.328092,
+                        45.431366
+                  ]
+            },
+            {
+                  "name": "Teatro stabile del Veneto Carlo Goldoni",
+                  "text": "Venice's oldest surviving theatre, named after the playwright Carlo Goldoni and hosting classic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.335219,
+                        45.436346
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Housed in a former monastery, this museum displays sacred art and religious artifacts from the Diocese of Venice.",
+                  "category": "museum",
+                  "coords": [
+                        12.340813,
+                        45.434673
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "Located in the historic Fondaco dei Turchi, this museum explores natural history and the biodiversity of the Venetian lagoon.",
+                  "category": "museum",
+                  "coords": [
+                        12.328536,
+                        45.441665
+                  ]
+            },
+            {
+                  "name": "Museo Correr",
+                  "text": "Situated on St. Mark's Square, this museum offers an extensive overview of the history, art, and culture of Venice.",
+                  "category": "museum",
+                  "coords": [
+                        12.337184,
+                        45.4336
+                  ]
+            },
+            {
+                  "name": "Venice National Archaeological Museum",
+                  "text": "A museum on St. Mark's Square featuring a significant collection of ancient Greek and Roman sculptures and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.338889,
+                        45.43372
+                  ]
+            },
+            {
+                  "name": "Istituto Veneto di Scienze Lettere ed Arti",
+                  "text": "A prestigious cultural academy and museum located in the historic Palazzo Loredan in Venice.",
+                  "category": "museum",
+                  "coords": [
+                        12.329633,
+                        45.431949
                   ]
             }
       ]
@@ -1455,7 +1743,304 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "naples",
+    id: "naples", "sights": {
+      "de": [
+            {
+                  "name": "Faro di Molo San Vincenzo",
+                  "text": "Ein historischer Leuchtturm auf dem Molo San Vincenzo im Hafen von Neapel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.27213,
+                        40.832849
+                  ]
+            },
+            {
+                  "name": "Chiostro delle Clarisse",
+                  "text": "Ein berühmter Kreuzgang, der für seine prächtigen Majolika-Fliesen bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.253269,
+                        40.846032
+                  ]
+            },
+            {
+                  "name": "ARCA - Arte Religiosa Contemporanea",
+                  "text": "Museum für zeitgenössische religiöse Kunst in Neapel.",
+                  "category": "museum",
+                  "coords": [
+                        14.252936,
+                        40.843969
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Neapolis",
+                  "text": "Die Überreste eines antiken römischen Theaters im Zentrum von Neapel.",
+                  "category": "historical",
+                  "coords": [
+                        14.256523,
+                        40.852313
+                  ]
+            },
+            {
+                  "name": "Museum der Anatomie",
+                  "text": "Ein Museum in Neapel mit einer bedeutenden Sammlung anatomischer Präparate.",
+                  "category": "museum",
+                  "coords": [
+                        14.255558,
+                        40.853369
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gennaro",
+                  "text": "Bedeutende frühchristliche Katakomben, die dem Schutzpatron Neapels gewidmet sind.",
+                  "category": "historical",
+                  "coords": [
+                        14.247058,
+                        40.863784
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gaudiosio",
+                  "text": "Alte christliche Katakomben unter dem Viertel Sanità in Neapel.",
+                  "category": "historical",
+                  "coords": [
+                        14.248574,
+                        40.859464
+                  ]
+            },
+            {
+                  "name": "Scavi di Santa Maria di Agnone",
+                  "text": "Archäologische Ausgrabungen der ehemaligen Kirche Santa Maria di Agnone.",
+                  "category": "historical",
+                  "coords": [
+                        14.261684,
+                        40.853803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro di Molo San Vincenzo",
+                  "text": "Történelmi világítótorony a nápolyi kikötő San Vincenzo mólóján.",
+                  "category": "landmark",
+                  "coords": [
+                        14.27213,
+                        40.832849
+                  ]
+            },
+            {
+                  "name": "Chiostro delle Clarisse",
+                  "text": "Híres kolostorkert, amely pompás majolika csempéiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        14.253269,
+                        40.846032
+                  ]
+            },
+            {
+                  "name": "ARCA - Arte Religiosa Contemporanea",
+                  "text": "Kortárs vallási művészeti múzeum Nápolyban.",
+                  "category": "museum",
+                  "coords": [
+                        14.252936,
+                        40.843969
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Neapolis",
+                  "text": "Egy ókori római színház maradványai Nápoly központjában.",
+                  "category": "historical",
+                  "coords": [
+                        14.256523,
+                        40.852313
+                  ]
+            },
+            {
+                  "name": "Museo di anatomia umana",
+                  "text": "Nápolyi múzeum jelentős anatómiai preparátumgyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        14.255558,
+                        40.853369
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gennaro",
+                  "text": "Jelentős kora keresztény katakombák Nápoly védőszentjének szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        14.247058,
+                        40.863784
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gaudiosio",
+                  "text": "Ősi keresztény katakombák a nápolyi Sanità negyed alatt.",
+                  "category": "historical",
+                  "coords": [
+                        14.248574,
+                        40.859464
+                  ]
+            },
+            {
+                  "name": "Scavi di Santa Maria di Agnone",
+                  "text": "Az egykori Santa Maria di Agnone-templom régészeti feltárásai.",
+                  "category": "historical",
+                  "coords": [
+                        14.261684,
+                        40.853803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro di Molo San Vincenzo",
+                  "text": "Un far istoric situat pe Molo San Vincenzo în portul Napoli.",
+                  "category": "landmark",
+                  "coords": [
+                        14.27213,
+                        40.832849
+                  ]
+            },
+            {
+                  "name": "Chiostro delle Clarisse",
+                  "text": "O mănăstire celebră cunoscută pentru plăcile sale magnifice de maiolică.",
+                  "category": "museum",
+                  "coords": [
+                        14.253269,
+                        40.846032
+                  ]
+            },
+            {
+                  "name": "ARCA - Arte Religiosa Contemporanea",
+                  "text": "Muzeu de artă religioasă contemporană din Napoli.",
+                  "category": "museum",
+                  "coords": [
+                        14.252936,
+                        40.843969
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Neapolis",
+                  "text": "Rămășițele unui teatru roman antic situat în centrul orașului Napoli.",
+                  "category": "historical",
+                  "coords": [
+                        14.256523,
+                        40.852313
+                  ]
+            },
+            {
+                  "name": "Museo di anatomia umana",
+                  "text": "Un muzeu din Napoli care deține o colecție importantă de preparate anatomice.",
+                  "category": "museum",
+                  "coords": [
+                        14.255558,
+                        40.853369
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gennaro",
+                  "text": "Catacombe paleocreștine importante dedicate patronului spiritual al orașului Napoli.",
+                  "category": "historical",
+                  "coords": [
+                        14.247058,
+                        40.863784
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gaudiosio",
+                  "text": "Catacombe creștine antice situate sub cartierul Sanità din Napoli.",
+                  "category": "historical",
+                  "coords": [
+                        14.248574,
+                        40.859464
+                  ]
+            },
+            {
+                  "name": "Scavi di Santa Maria di Agnone",
+                  "text": "Săpături arheologice ale fostei biserici Santa Maria di Agnone.",
+                  "category": "historical",
+                  "coords": [
+                        14.261684,
+                        40.853803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro di Molo San Vincenzo",
+                  "text": "A historic lighthouse on the Molo San Vincenzo in the port of Naples.",
+                  "category": "landmark",
+                  "coords": [
+                        14.27213,
+                        40.832849
+                  ]
+            },
+            {
+                  "name": "Chiostro delle Clarisse",
+                  "text": "A famous cloister known for its magnificent majolica tiles.",
+                  "category": "museum",
+                  "coords": [
+                        14.253269,
+                        40.846032
+                  ]
+            },
+            {
+                  "name": "ARCA - Arte Religiosa Contemporanea",
+                  "text": "Museum of contemporary religious art in Naples.",
+                  "category": "museum",
+                  "coords": [
+                        14.252936,
+                        40.843969
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Neapolis",
+                  "text": "The remains of an ancient Roman theater in the center of Naples.",
+                  "category": "historical",
+                  "coords": [
+                        14.256523,
+                        40.852313
+                  ]
+            },
+            {
+                  "name": "Museo di anatomia umana",
+                  "text": "A museum in Naples with a significant collection of anatomical specimens.",
+                  "category": "museum",
+                  "coords": [
+                        14.255558,
+                        40.853369
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gennaro",
+                  "text": "Important early Christian catacombs dedicated to the patron saint of Naples.",
+                  "category": "historical",
+                  "coords": [
+                        14.247058,
+                        40.863784
+                  ]
+            },
+            {
+                  "name": "Catacombe di San Gaudiosio",
+                  "text": "Ancient Christian catacombs located beneath the Sanità district in Naples.",
+                  "category": "historical",
+                  "coords": [
+                        14.248574,
+                        40.859464
+                  ]
+            },
+            {
+                  "name": "Scavi di Santa Maria di Agnone",
+                  "text": "Archaeological excavations of the former church of Santa Maria di Agnone.",
+                  "category": "historical",
+                  "coords": [
+                        14.261684,
+                        40.853803
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-campania",
     coords: [14.2681, 40.8518],
@@ -1947,7 +2532,232 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-ostia-antica",
+    id: "it-ostia-antica", "sights": {
+      "de": [
+            {
+                  "name": "Mitreo delle Terme del Mitra",
+                  "text": "Ein antikes Mithräum, das in den Kellerräumen der Mithra-Thermen in Ostia Antica eingerichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        12.285121,
+                        41.754248
+                  ]
+            },
+            {
+                  "name": "Magazzini Repubblicani (II,II,1-2)",
+                  "text": "Antike Lagerhäuser aus der Zeit der Römischen Republik in der Ausgrabungsstätte von Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.295241,
+                        41.757258
+                  ]
+            },
+            {
+                  "name": "Campo della Magna Mater",
+                  "text": "Ein heiliger Bezirk in Ostia Antica, der der Verehrung der Göttin Kybele, der Magna Mater, gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        12.290831,
+                        41.752548
+                  ]
+            },
+            {
+                  "name": "Terme dei Sette Sapienti",
+                  "text": "Eine römische Thermenanlage in Ostia Antica, berühmt für ihre Mosaike und Wandmalereien der sieben Weisen.",
+                  "category": "historical",
+                  "coords": [
+                        12.285151,
+                        41.75321
+                  ]
+            },
+            {
+                  "name": "Terme di Porta Marina",
+                  "text": "Eine große Thermenanlage direkt am ehemaligen Stadttor von Ostia Antica zum Meer hin.",
+                  "category": "historical",
+                  "coords": [
+                        12.286441,
+                        41.749887
+                  ]
+            },
+            {
+                  "name": "Domus della Fortuna Annonaria (V,II,8)",
+                  "text": "Ein bedeutendes antikes Wohnhaus in der Ausgrabungsstätte von Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.290517,
+                        41.754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mitreo delle Terme del Mitra",
+                  "text": "Egy ókori Mithreum, amelyet az Ostia Antica-i Mithra-termák alagsorában alakítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        12.285121,
+                        41.754248
+                  ]
+            },
+            {
+                  "name": "Magazzini Repubblicani (II,II,1-2)",
+                  "text": "A Római Köztársaság korából származó ókori raktárépületek Ostia Antica régészeti területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.295241,
+                        41.757258
+                  ]
+            },
+            {
+                  "name": "Campo della Magna Mater",
+                  "text": "Ostia Antica egyik szent területe, amelyet Kübelé istennő, a Magna Mater tiszteletének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        12.290831,
+                        41.752548
+                  ]
+            },
+            {
+                  "name": "Terme dei Sette Sapienti",
+                  "text": "Ostia Antica római fürdője, amely a hét bölcset ábrázoló mozaikjairól és falfestményeiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        12.285151,
+                        41.75321
+                  ]
+            },
+            {
+                  "name": "Terme di Porta Marina",
+                  "text": "Nagyméretű termálfürdő-komplexum Ostia Antica egykori tengeri kapujánál.",
+                  "category": "historical",
+                  "coords": [
+                        12.286441,
+                        41.749887
+                  ]
+            },
+            {
+                  "name": "Domus della Fortuna Annonaria (V,II,8)",
+                  "text": "Egy jelentős ókori lakóház Ostia Antica régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        12.290517,
+                        41.754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mitreo delle Terme del Mitra",
+                  "text": "Un mitreum antic amenajat în subsolul termelor lui Mithra din Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.285121,
+                        41.754248
+                  ]
+            },
+            {
+                  "name": "Magazzini Repubblicani (II,II,1-2)",
+                  "text": "Depozite antice din perioada Republicii Romane în situl arheologic Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.295241,
+                        41.757258
+                  ]
+            },
+            {
+                  "name": "Campo della Magna Mater",
+                  "text": "O zonă sacră în Ostia Antica, dedicată cultului zeiței Cibele, Magna Mater.",
+                  "category": "historical",
+                  "coords": [
+                        12.290831,
+                        41.752548
+                  ]
+            },
+            {
+                  "name": "Terme dei Sette Sapienti",
+                  "text": "Un complex termal roman în Ostia Antica, faimos pentru mozaicurile și frescele sale reprezentând cei șapte înțelepți.",
+                  "category": "historical",
+                  "coords": [
+                        12.285151,
+                        41.75321
+                  ]
+            },
+            {
+                  "name": "Terme di Porta Marina",
+                  "text": "Un complex termal mare situat lângă fosta poartă spre mare a orașului Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.286441,
+                        41.749887
+                  ]
+            },
+            {
+                  "name": "Domus della Fortuna Annonaria (V,II,8)",
+                  "text": "O casă antică importantă în situl arheologic Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.290517,
+                        41.754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mithraeum at the Baths of Mithra",
+                  "text": "An ancient Mithraeum established in the basement of the Baths of Mithra in Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.285121,
+                        41.754248
+                  ]
+            },
+            {
+                  "name": "Magazzini Repubblicani (II,II,1-2)",
+                  "text": "Ancient warehouses dating back to the Roman Republic in the archaeological site of Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.295241,
+                        41.757258
+                  ]
+            },
+            {
+                  "name": "Campo della Magna Mater",
+                  "text": "A sacred area in Ostia Antica dedicated to the worship of the goddess Cybele, the Magna Mater.",
+                  "category": "historical",
+                  "coords": [
+                        12.290831,
+                        41.752548
+                  ]
+            },
+            {
+                  "name": "Terme dei Sette Sapienti",
+                  "text": "A Roman bath complex in Ostia Antica, famous for its mosaics and frescoes of the Seven Sages.",
+                  "category": "historical",
+                  "coords": [
+                        12.285151,
+                        41.75321
+                  ]
+            },
+            {
+                  "name": "Terme di Porta Marina",
+                  "text": "A large thermal bath complex located near the former sea gate of Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.286441,
+                        41.749887
+                  ]
+            },
+            {
+                  "name": "Domus della Fortuna Annonaria (V,II,8)",
+                  "text": "A significant ancient residence within the archaeological site of Ostia Antica.",
+                  "category": "historical",
+                  "coords": [
+                        12.290517,
+                        41.754
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "IT-62",
     coords: [12.290, 41.755],
@@ -2521,7 +3331,232 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-pietraperla",
+    id: "it-pietraperla", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Nicola Vaccaj",
+                  "text": "Ein elegantes historisches Theater, das für seine Architektur und Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        13.281693,
+                        43.211256
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arciconfraternita del Sacro Cuore di Gesù",
+                  "text": "Ein Museum, das religiöse Kunst und die Geschichte der lokalen Bruderschaft zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.282795,
+                        43.21156
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale dell'Umorismo nell'Arte",
+                  "text": "Ein einzigartiges Museum, das dem Humor und der Karikatur in der bildenden Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.285071,
+                        43.209023
+                  ]
+            },
+            {
+                  "name": "Castello di Carpignano",
+                  "text": "Überreste einer historischen Befestigungsanlage in der Region Marken.",
+                  "category": "historical",
+                  "coords": [
+                        13.228888,
+                        43.193996
+                  ]
+            },
+            {
+                  "name": "Porta Adriana",
+                  "text": "Ein monumentales Stadttor, das einst Teil der Verteidigungsmauern war.",
+                  "category": "fortress",
+                  "coords": [
+                        13.281602,
+                        43.20915
+                  ]
+            },
+            {
+                  "name": "Chiesa dello Spirito Santo",
+                  "text": "Eine historische Kirche mit einer schlichten Fassade und einem ruhigen Innenraum.",
+                  "category": "religious",
+                  "coords": [
+                        13.297531,
+                        43.214566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Nicola Vaccaj",
+                  "text": "Elegáns történelmi színház, amely építészetéről és előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.281693,
+                        43.211256
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arciconfraternita del Sacro Cuore di Gesù",
+                  "text": "A helyi testvériség vallási művészetét és történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.282795,
+                        43.21156
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale dell'Umorismo nell'Arte",
+                  "text": "Egyedülálló múzeum, amelyet a képzőművészeti humornak és karikatúrának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        13.285071,
+                        43.209023
+                  ]
+            },
+            {
+                  "name": "Castello di Carpignano",
+                  "text": "Egy történelmi erődítmény maradványai Marche régióban.",
+                  "category": "historical",
+                  "coords": [
+                        13.228888,
+                        43.193996
+                  ]
+            },
+            {
+                  "name": "Porta Adriana",
+                  "text": "Monumentális városkapu, amely egykor a védőfalak része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        13.281602,
+                        43.20915
+                  ]
+            },
+            {
+                  "name": "Chiesa dello Spirito Santo",
+                  "text": "Történelmi templom egyszerű homlokzattal és nyugodt belső térrel.",
+                  "category": "religious",
+                  "coords": [
+                        13.297531,
+                        43.214566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Nicola Vaccaj",
+                  "text": "Un teatru istoric elegant, cunoscut pentru arhitectura și spectacolele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.281693,
+                        43.211256
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arciconfraternita del Sacro Cuore di Gesù",
+                  "text": "Un muzeu care prezintă arta religioasă și istoria confreriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        13.282795,
+                        43.21156
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale dell'Umorismo nell'Arte",
+                  "text": "Un muzeu unic dedicat umorului și caricaturii în artele vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        13.285071,
+                        43.209023
+                  ]
+            },
+            {
+                  "name": "Castello di Carpignano",
+                  "text": "Rămășițele unei fortificații istorice din regiunea Marche.",
+                  "category": "historical",
+                  "coords": [
+                        13.228888,
+                        43.193996
+                  ]
+            },
+            {
+                  "name": "Porta Adriana",
+                  "text": "O poartă monumentală a orașului, care a făcut parte din zidurile de apărare.",
+                  "category": "fortress",
+                  "coords": [
+                        13.281602,
+                        43.20915
+                  ]
+            },
+            {
+                  "name": "Chiesa dello Spirito Santo",
+                  "text": "O biserică istorică cu o fațadă simplă și un interior liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        13.297531,
+                        43.214566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Nicola Vaccaj",
+                  "text": "An elegant historic theatre known for its architecture and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.281693,
+                        43.211256
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arciconfraternita del Sacro Cuore di Gesù",
+                  "text": "A museum displaying religious art and the history of the local brotherhood.",
+                  "category": "museum",
+                  "coords": [
+                        13.282795,
+                        43.21156
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale dell'Umorismo nell'Arte",
+                  "text": "A unique museum dedicated to humor and caricature in the fine arts.",
+                  "category": "museum",
+                  "coords": [
+                        13.285071,
+                        43.209023
+                  ]
+            },
+            {
+                  "name": "Castello di Carpignano",
+                  "text": "The remains of a historical fortification in the Marche region.",
+                  "category": "historical",
+                  "coords": [
+                        13.228888,
+                        43.193996
+                  ]
+            },
+            {
+                  "name": "Porta Adriana",
+                  "text": "A monumental city gate that was once part of the defensive walls.",
+                  "category": "fortress",
+                  "coords": [
+                        13.281602,
+                        43.20915
+                  ]
+            },
+            {
+                  "name": "Chiesa dello Spirito Santo",
+                  "text": "A historic church featuring a simple facade and a peaceful interior.",
+                  "category": "religious",
+                  "coords": [
+                        13.297531,
+                        43.214566
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT-57",
     coords: [13.250, 43.220],
@@ -2603,7 +3638,304 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-gran-paradiso",
+    id: "it-gran-paradiso", "sights": {
+      "de": [
+            {
+                  "name": "Herbetet",
+                  "text": "Ein markanter Berggipfel in den Grajischen Alpen im Nationalpark Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "Ein felsiger Berggrat im Gran Paradiso Massiv an der Grenze zum Piemont.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "Ein hoher Gipfel im Gran Paradiso Massiv in den italienischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "Ein formschöner Berg im Nationalpark Gran Paradiso, beliebt bei Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Ciarforon",
+                  "text": "Ein markanter eisbedeckter Gipfel im Nationalpark Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.247232,
+                        45.493899
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Ein Berggipfel in den Grajischen Alpen im Nationalpark Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Ein Gipfel im Herzen des Gran Paradiso Massivs in Norditalien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Montcorvè",
+                  "text": "Ein hoher Berg im Gran Paradiso Nationalpark, nahe dem Hauptgipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266472,
+                        45.51194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herbetet",
+                  "text": "Egy jellegzetes hegycsúcs a Graji-Alpokban, a Gran Paradiso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "Egy sziklás hegygerinc a Gran Paradiso-masszívumban, Piemont határán.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "A Gran Paradiso-masszívum egyik magas csúcsa az olasz Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "Egy szép formájú hegy a Gran Paradiso Nemzeti Parkban, a hegymászók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Ciarforon",
+                  "text": "Egy jellegzetes, jéggel borított hegycsúcs a Gran Paradiso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.247232,
+                        45.493899
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Egy hegycsúcs a Graji-Alpokban, a Gran Paradiso Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Egy hegycsúcs a Gran Paradiso-masszívum szívében, Észak-Olaszországban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Montcorvè",
+                  "text": "Egy magas hegy a Gran Paradiso Nemzeti Parkban, a főcsúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266472,
+                        45.51194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Herbetet",
+                  "text": "Un vârf muntos proeminent în Alpii Graici, în Parcul Național Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "O creastă muntoasă stâncoasă în masivul Gran Paradiso, la granița cu Piemont.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "Un vârf înalt în masivul Gran Paradiso din Alpii Italieni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "Un munte frumos în Parcul Național Gran Paradiso, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Ciarforon",
+                  "text": "Un vârf muntos proeminent acoperit de gheață în Parcul Național Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.247232,
+                        45.493899
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Un vârf muntos în Alpii Graici, în Parcul Național Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Un vârf în inima masivului Gran Paradiso din nordul Italiei.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Montcorvè",
+                  "text": "Un munte înalt în Parcul Național Gran Paradiso, aproape de vârful principal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266472,
+                        45.51194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Herbetet",
+                  "text": "A prominent mountain peak in the Graian Alps within the Gran Paradiso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "A rocky mountain ridge in the Gran Paradiso massif on the border with Piedmont.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "A high peak in the Gran Paradiso massif within the Italian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "A well-shaped mountain in the Gran Paradiso National Park, popular with climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Ciarforon",
+                  "text": "A prominent ice-covered mountain peak in the Gran Paradiso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.247232,
+                        45.493899
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "A mountain peak in the Graian Alps within the Gran Paradiso National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "A peak in the heart of the Gran Paradiso massif in northern Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Montcorvè",
+                  "text": "A high mountain in the Gran Paradiso National Park, near the main peak.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266472,
+                        45.51194
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT-23",
     coords: [7.267, 45.517],
@@ -2685,7 +4017,88 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-abruzzo-np",
+    id: "it-abruzzo-np", "sights": {
+      "de": [
+            {
+                  "name": "Chiesa di San Vincenzo",
+                  "text": "Eine historische Kirche im Gebiet des Nationalparks Abruzzen, Latium und Molise.",
+                  "category": "religious",
+                  "coords": [
+                        13.733276,
+                        41.900372
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giovanni",
+                  "text": "Ein religiöses Gebäude in den malerischen Bergen des Abruzzen-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        13.752226,
+                        41.894628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiesa di San Vincenzo",
+                  "text": "Történelmi templom az Abruzzo, Lazio és Molise Nemzeti Park területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.733276,
+                        41.900372
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giovanni",
+                  "text": "Vallási épület az Abruzzo Nemzeti Park festői hegyei között.",
+                  "category": "religious",
+                  "coords": [
+                        13.752226,
+                        41.894628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiesa di San Vincenzo",
+                  "text": "O biserică istorică situată în zona Parcului Național Abruzzo, Lazio și Molise.",
+                  "category": "religious",
+                  "coords": [
+                        13.733276,
+                        41.900372
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giovanni",
+                  "text": "Un lăcaș de cult situat în munții pitorești ai Parcului Național Abruzzo.",
+                  "category": "religious",
+                  "coords": [
+                        13.752226,
+                        41.894628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiesa di San Vincenzo",
+                  "text": "A historical church located within the Abruzzo, Lazio, and Molise National Park area.",
+                  "category": "religious",
+                  "coords": [
+                        13.733276,
+                        41.900372
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giovanni",
+                  "text": "A religious building situated in the scenic mountains of the Abruzzo National Park.",
+                  "category": "religious",
+                  "coords": [
+                        13.752226,
+                        41.894628
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT-65",
     coords: [13.750, 41.883],
@@ -2767,7 +4180,124 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-pollino-np",
+    id: "it-pollino-np", "sights": {
+      "de": [
+            {
+                  "name": "Museo della civiltà contadina",
+                  "text": "Dieses Museum im Pollino-Nationalpark dokumentiert das traditionelle bäuerliche Leben der Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.136166,
+                        40.022407
+                  ]
+            },
+            {
+                  "name": "Fontana Gentilizia della famiglia Gioia",
+                  "text": "Ein historischer Brunnen im Pollino-Nationalpark, der mit der Familie Gioia verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.088656,
+                        39.971982
+                  ]
+            },
+            {
+                  "name": "Viggianello - Nella lista I Borghi più belli d'Italia",
+                  "text": "Viggianello gilt offiziell als eines der schönsten Dörfer Italiens.",
+                  "category": "landmark",
+                  "coords": [
+                        16.085134,
+                        39.973373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo della civiltà contadina",
+                  "text": "Ez a Pollino Nemzeti Parkban található múzeum a régió hagyományos paraszti életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.136166,
+                        40.022407
+                  ]
+            },
+            {
+                  "name": "Fontana Gentilizia della famiglia Gioia",
+                  "text": "Történelmi szökőkút a Pollino Nemzeti Parkban, amely a Gioia családhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.088656,
+                        39.971982
+                  ]
+            },
+            {
+                  "name": "Viggianello - Nella lista I Borghi più belli d'Italia",
+                  "text": "Viggianello hivatalosan is Olaszország egyik legszebb falvai közé tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.085134,
+                        39.973373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo della civiltà contadina",
+                  "text": "Acest muzeu din Parcul Național Pollino documentează viața rurală tradițională a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.136166,
+                        40.022407
+                  ]
+            },
+            {
+                  "name": "Fontana Gentilizia della famiglia Gioia",
+                  "text": "O fântână istorică în Parcul Național Pollino, legată de familia Gioia.",
+                  "category": "landmark",
+                  "coords": [
+                        16.088656,
+                        39.971982
+                  ]
+            },
+            {
+                  "name": "Viggianello - Nella lista I Borghi più belli d'Italia",
+                  "text": "Viggianello este inclus oficial pe lista celor mai frumoase sate din Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        16.085134,
+                        39.973373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo della civiltà contadina",
+                  "text": "This museum in the Pollino National Park documents the traditional rural life of the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.136166,
+                        40.022407
+                  ]
+            },
+            {
+                  "name": "Fontana Gentilizia della famiglia Gioia",
+                  "text": "A historic fountain in the Pollino National Park associated with the Gioia family.",
+                  "category": "landmark",
+                  "coords": [
+                        16.088656,
+                        39.971982
+                  ]
+            },
+            {
+                  "name": "Viggianello - Nella lista I Borghi più belli d'Italia",
+                  "text": "Viggianello is officially listed as one of the most beautiful villages in Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        16.085134,
+                        39.973373
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT-78",
     coords: [16.100, 40.000],
@@ -3013,7 +4543,304 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-lago-maggiore",
+    id: "it-lago-maggiore", "sights": {
+      "de": [
+            {
+                  "name": "Museo dell'Arte del Cappello",
+                  "text": "Ein Museum am Lago Maggiore, das der Kunst der Hutmacherei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.621963,
+                        45.962099
+                  ]
+            },
+            {
+                  "name": "Sacro Monte della SS Trinità di Ghiffa",
+                  "text": "Eine bedeutende Pilgerstätte und UNESCO-Weltkulturerbe am Lago Maggiore.",
+                  "category": "natural",
+                  "coords": [
+                        8.605552,
+                        45.963058
+                  ]
+            },
+            {
+                  "name": "Panizza",
+                  "text": "Ein Museum in einer ehemaligen Hutfabrik am Lago Maggiore.",
+                  "category": "museum",
+                  "coords": [
+                        8.622588,
+                        45.963102
+                  ]
+            },
+            {
+                  "name": "Public Beach Spiaggia Oggebbio",
+                  "text": "Ein öffentlicher Badestrand am Ufer des Lago Maggiore in Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649906,
+                        45.991268
+                  ]
+            },
+            {
+                  "name": "Spiaggia Oggebbio",
+                  "text": "Ein malerischer Strand am Lago Maggiore in der Gemeinde Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.642126,
+                        45.986112
+                  ]
+            },
+            {
+                  "name": "Monte Cimolo",
+                  "text": "Ein Gipfel oberhalb des Lago Maggiore mit beeindruckender Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574179,
+                        45.970166
+                  ]
+            },
+            {
+                  "name": "Monumento agli Alpini",
+                  "text": "Ein Denkmal zur Erinnerung an die Gebirgstruppen der Alpini am Lago Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.591855,
+                        45.976772
+                  ]
+            },
+            {
+                  "name": "Monumento Ai Caduti",
+                  "text": "Ein Gefallenendenkmal zur Ehre der Kriegsopfer am Lago Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.617898,
+                        45.956714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dell'Arte del Cappello",
+                  "text": "A kalapkészítés művészetének szentelt múzeum a Lago Maggiore mentén.",
+                  "category": "museum",
+                  "coords": [
+                        8.621963,
+                        45.962099
+                  ]
+            },
+            {
+                  "name": "Sacro Monte della SS Trinità di Ghiffa",
+                  "text": "Jelentős zarándokhely és UNESCO világörökségi helyszín a Lago Maggiore mentén.",
+                  "category": "natural",
+                  "coords": [
+                        8.605552,
+                        45.963058
+                  ]
+            },
+            {
+                  "name": "Panizza",
+                  "text": "Múzeum egy egykori kalapgyár épületében a Lago Maggiore partján.",
+                  "category": "museum",
+                  "coords": [
+                        8.622588,
+                        45.963102
+                  ]
+            },
+            {
+                  "name": "Public Beach Spiaggia Oggebbio",
+                  "text": "Nyilvános strand a Lago Maggiore partján, Oggebbio településen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649906,
+                        45.991268
+                  ]
+            },
+            {
+                  "name": "Spiaggia Oggebbio",
+                  "text": "Festői strand a Lago Maggiore partján Oggebbio községben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.642126,
+                        45.986112
+                  ]
+            },
+            {
+                  "name": "Monte Cimolo",
+                  "text": "A Lago Maggiore felett magasodó hegycsúcs lenyűgöző kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574179,
+                        45.970166
+                  ]
+            },
+            {
+                  "name": "Monumento agli Alpini",
+                  "text": "Az alpini hegyivadászok emlékére állított emlékmű a Lago Maggiore mentén.",
+                  "category": "historical",
+                  "coords": [
+                        8.591855,
+                        45.976772
+                  ]
+            },
+            {
+                  "name": "Monumento Ai Caduti",
+                  "text": "A háborúk áldozatainak tiszteletére állított emlékmű a Lago Maggiore mentén.",
+                  "category": "historical",
+                  "coords": [
+                        8.617898,
+                        45.956714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dell'Arte del Cappello",
+                  "text": "Un muzeu de pe malul Lacului Maggiore dedicat artei fabricării pălăriilor.",
+                  "category": "museum",
+                  "coords": [
+                        8.621963,
+                        45.962099
+                  ]
+            },
+            {
+                  "name": "Sacro Monte della SS Trinità di Ghiffa",
+                  "text": "Un loc de pelerinaj important și sit UNESCO pe malul Lacului Maggiore.",
+                  "category": "natural",
+                  "coords": [
+                        8.605552,
+                        45.963058
+                  ]
+            },
+            {
+                  "name": "Panizza",
+                  "text": "Un muzeu situat într-o fostă fabrică de pălării de pe malul Lacului Maggiore.",
+                  "category": "museum",
+                  "coords": [
+                        8.622588,
+                        45.963102
+                  ]
+            },
+            {
+                  "name": "Public Beach Spiaggia Oggebbio",
+                  "text": "O plajă publică pe malul Lacului Maggiore în Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649906,
+                        45.991268
+                  ]
+            },
+            {
+                  "name": "Spiaggia Oggebbio",
+                  "text": "O plajă pitorească pe malul Lacului Maggiore în comuna Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.642126,
+                        45.986112
+                  ]
+            },
+            {
+                  "name": "Monte Cimolo",
+                  "text": "Un vârf de munte deasupra Lacului Maggiore cu vederi impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574179,
+                        45.970166
+                  ]
+            },
+            {
+                  "name": "Monumento agli Alpini",
+                  "text": "Un monument dedicat trupelor montane Alpini de pe malul Lacului Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.591855,
+                        45.976772
+                  ]
+            },
+            {
+                  "name": "Monumento Ai Caduti",
+                  "text": "Un monument dedicat eroilor căzuți în război pe malul Lacului Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.617898,
+                        45.956714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dell'Arte del Cappello",
+                  "text": "A museum on Lake Maggiore dedicated to the art of hat-making.",
+                  "category": "museum",
+                  "coords": [
+                        8.621963,
+                        45.962099
+                  ]
+            },
+            {
+                  "name": "Sacro Monte della SS Trinità di Ghiffa",
+                  "text": "An important pilgrimage site and UNESCO World Heritage site on Lake Maggiore.",
+                  "category": "natural",
+                  "coords": [
+                        8.605552,
+                        45.963058
+                  ]
+            },
+            {
+                  "name": "Panizza",
+                  "text": "A museum located in a former hat factory on Lake Maggiore.",
+                  "category": "museum",
+                  "coords": [
+                        8.622588,
+                        45.963102
+                  ]
+            },
+            {
+                  "name": "Public Beach Spiaggia Oggebbio",
+                  "text": "A public beach on the shores of Lake Maggiore in Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.649906,
+                        45.991268
+                  ]
+            },
+            {
+                  "name": "Spiaggia Oggebbio",
+                  "text": "A picturesque beach on Lake Maggiore in the municipality of Oggebbio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.642126,
+                        45.986112
+                  ]
+            },
+            {
+                  "name": "Monte Cimolo",
+                  "text": "A mountain peak above Lake Maggiore offering impressive views.",
+                  "category": "landmark",
+                  "coords": [
+                        8.574179,
+                        45.970166
+                  ]
+            },
+            {
+                  "name": "Monumento agli Alpini",
+                  "text": "A monument dedicated to the Alpini mountain troops on Lake Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.591855,
+                        45.976772
+                  ]
+            },
+            {
+                  "name": "Monumento Ai Caduti",
+                  "text": "A war memorial dedicated to the fallen soldiers on Lake Maggiore.",
+                  "category": "historical",
+                  "coords": [
+                        8.617898,
+                        45.956714
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IT-21",
     coords: [8.617, 45.983],
@@ -9852,7 +11679,52 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "castel-del-monte",
+    id: "castel-del-monte", "sights": {
+      "de": [
+            {
+                  "name": "Castel del Monte",
+                  "text": "Ein berühmtes achteckiges Schloss in Apulien, das zum UNESCO-Welterbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        16.270936,
+                        41.084753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castel del Monte",
+                  "text": "Híres nyolcszögletű vár Apuliában, amely az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        16.270936,
+                        41.084753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castel del Monte",
+                  "text": "Un faimos castel octogonal din Puglia, inclus în patrimoniul mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        16.270936,
+                        41.084753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castel del Monte",
+                  "text": "A famous 13th-century octagonal castle in Puglia, part of the UNESCO World Heritage list.",
+                  "category": "castle",
+                  "coords": [
+                        16.270936,
+                        41.084753
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "reg-puglia",
     coords: [16.269, 41.084],
@@ -10028,7 +11900,304 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "reggia-di-caserta",
+    id: "reggia-di-caserta", "sights": {
+      "de": [
+            {
+                  "name": "Teatro di Corte",
+                  "text": "Ein exquisites Theater aus dem 18. Jahrhundert im Königspalast von Caserta.",
+                  "category": "cultural",
+                  "coords": [
+                        14.325899,
+                        41.073212
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Ein Museum im Komplex des Königspalastes von Caserta, das religiöse Kunst und Artefakte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        14.332128,
+                        41.07415
+                  ]
+            },
+            {
+                  "name": "Oasi Bosco di San Silvestro",
+                  "text": "Ein Naturschutzgebiet in der Nähe des Schlosses von Caserta, das Wanderwege und eine vielfältige lokale Flora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.33146,
+                        41.102602
+                  ]
+            },
+            {
+                  "name": "Palast von Caserta",
+                  "text": "Eine monumentale ehemalige königliche Residenz und UNESCO-Welterbestätte, bekannt für ihre riesigen Gärten und Barockarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        14.327104,
+                        41.073174
+                  ]
+            },
+            {
+                  "name": "Carceri Vecchie (monumento funerario)",
+                  "text": "Ein antikes römisches Grabmonument in der Umgebung von Caserta.",
+                  "category": "historical",
+                  "coords": [
+                        14.272124,
+                        41.080795
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea della Città di Caserta",
+                  "text": "Ein Museum in Caserta, das der zeitgenössischen Kunst und dem lokalen kreativen Schaffen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.331374,
+                        41.073081
+                  ]
+            },
+            {
+                  "name": "Museo della Seta",
+                  "text": "Ein Museum, das die Geschichte und Tradition der Seidenproduktion in der Region Caserta zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.316497,
+                        41.100906
+                  ]
+            },
+            {
+                  "name": "Teatro Civico 14",
+                  "text": "Ein lokales Theater in Caserta, das zeitgenössische Aufführungen und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        14.360085,
+                        41.072597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro di Corte",
+                  "text": "Különleges, 18. századi színház a casertai királyi palotán belül.",
+                  "category": "cultural",
+                  "coords": [
+                        14.325899,
+                        41.073212
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "A casertai királyi palota komplexumában található múzeum, amely vallási művészeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.332128,
+                        41.07415
+                  ]
+            },
+            {
+                  "name": "Oasi Bosco di San Silvestro",
+                  "text": "Természetvédelmi terület a Casertai királyi palota közelében, túraútvonalakkal és változatos helyi flórával.",
+                  "category": "natural",
+                  "coords": [
+                        14.33146,
+                        41.102602
+                  ]
+            },
+            {
+                  "name": "Reggia di Caserta",
+                  "text": "Monumentális egykori királyi rezidencia és UNESCO Világörökségi helyszín, amely hatalmas kertjeiről és barokk építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        14.327104,
+                        41.073174
+                  ]
+            },
+            {
+                  "name": "Carceri Vecchie (monumento funerario)",
+                  "text": "Egy ókori római síremlék Caserta környékén.",
+                  "category": "historical",
+                  "coords": [
+                        14.272124,
+                        41.080795
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea della Città di Caserta",
+                  "text": "Kortárs művészeti múzeum Casertában, amely a modern alkotásoknak és a helyi művészetnek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.331374,
+                        41.073081
+                  ]
+            },
+            {
+                  "name": "Museo della Seta",
+                  "text": "A selyemgyártás történetét és hagyományait bemutató múzeum Caserta régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        14.316497,
+                        41.100906
+                  ]
+            },
+            {
+                  "name": "Teatro Civico 14",
+                  "text": "Helyi színház Casertában, amely kortárs előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        14.360085,
+                        41.072597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro di Corte",
+                  "text": "Un teatru rafinat din secolul al XVIII-lea situat în Palatul Regal din Caserta.",
+                  "category": "cultural",
+                  "coords": [
+                        14.325899,
+                        41.073212
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Un muzeu din complexul Palatului Regal din Caserta, care găzduiește artă și artefacte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        14.332128,
+                        41.07415
+                  ]
+            },
+            {
+                  "name": "Oasi Bosco di San Silvestro",
+                  "text": "O rezervație naturală situată lângă Palatul Regal din Caserta, oferind trasee și o floră locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        14.33146,
+                        41.102602
+                  ]
+            },
+            {
+                  "name": "Reggia di Caserta",
+                  "text": "O fostă reședință regală monumentală și sit al Patrimoniului Mondial UNESCO, cunoscută pentru grădinile sale vaste și arhitectura barocă.",
+                  "category": "castle",
+                  "coords": [
+                        14.327104,
+                        41.073174
+                  ]
+            },
+            {
+                  "name": "Carceri Vecchie (monumento funerario)",
+                  "text": "Un vechi monument funerar roman situat în apropiere de Caserta.",
+                  "category": "historical",
+                  "coords": [
+                        14.272124,
+                        41.080795
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea della Città di Caserta",
+                  "text": "Un muzeu din Caserta dedicat artei contemporane și expresiilor creative locale.",
+                  "category": "museum",
+                  "coords": [
+                        14.331374,
+                        41.073081
+                  ]
+            },
+            {
+                  "name": "Museo della Seta",
+                  "text": "Un muzeu care prezintă istoria și tradiția producției de mătase din regiunea Caserta.",
+                  "category": "museum",
+                  "coords": [
+                        14.316497,
+                        41.100906
+                  ]
+            },
+            {
+                  "name": "Teatro Civico 14",
+                  "text": "Un teatru local din Caserta care găzduiește spectacole contemporane și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.360085,
+                        41.072597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Court Theatre",
+                  "text": "An exquisite 18th-century theatre located within the Royal Palace of Caserta.",
+                  "category": "cultural",
+                  "coords": [
+                        14.325899,
+                        41.073212
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "A museum in the Royal Palace of Caserta complex, housing religious art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        14.332128,
+                        41.07415
+                  ]
+            },
+            {
+                  "name": "Oasi Bosco di San Silvestro",
+                  "text": "A nature reserve located near the Royal Palace of Caserta, offering trails and diverse local flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.33146,
+                        41.102602
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Caserta",
+                  "text": "A monumental former royal residence and UNESCO World Heritage site known for its vast gardens and baroque architecture.",
+                  "category": "castle",
+                  "coords": [
+                        14.327104,
+                        41.073174
+                  ]
+            },
+            {
+                  "name": "Carceri Vecchie (monumento funerario)",
+                  "text": "An ancient Roman funerary monument located in the vicinity of Caserta.",
+                  "category": "historical",
+                  "coords": [
+                        14.272124,
+                        41.080795
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea della Città di Caserta",
+                  "text": "A museum in Caserta dedicated to contemporary art and local creative expressions.",
+                  "category": "museum",
+                  "coords": [
+                        14.331374,
+                        41.073081
+                  ]
+            },
+            {
+                  "name": "Museo della Seta",
+                  "text": "A museum showcasing the history and tradition of silk production in the Caserta region.",
+                  "category": "museum",
+                  "coords": [
+                        14.316497,
+                        41.100906
+                  ]
+            },
+            {
+                  "name": "Teatro Civico 14",
+                  "text": "A local theatre in Caserta hosting contemporary performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.360085,
+                        41.072597
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "reg-campania",
     coords: [14.3142, 41.0731],
@@ -10160,7 +12329,304 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "dolomiti",
+    id: "dolomiti", "sights": {
+      "de": [
+            {
+                  "name": "Cima Bocche - Cimon de Boce",
+                  "text": "Ein bekannter Berggipfel in den Dolomiten mit historischer Bedeutung aus dem Ersten Weltkrieg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.752708,
+                        46.354216
+                  ]
+            },
+            {
+                  "name": "Col Margherita - Col de Margarita",
+                  "text": "Ein Gipfel in den Dolomiten, der für seine weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.791549,
+                        46.366305
+                  ]
+            },
+            {
+                  "name": "Baracche Italiane",
+                  "text": "Historische Überreste italienischer Militärbaracken aus der Zeit des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        11.77212,
+                        46.352681
+                  ]
+            },
+            {
+                  "name": "Postazione italiana",
+                  "text": "Eine ehemalige italienische Militärstellung im Hochgebirge der Dolomiten.",
+                  "category": "historical",
+                  "coords": [
+                        11.76242,
+                        46.368253
+                  ]
+            },
+            {
+                  "name": "Trincee Italiane",
+                  "text": "Erhaltene italienische Schützengräben als Zeugnisse des Gebirgskriegs in den Dolomiten.",
+                  "category": "historical",
+                  "coords": [
+                        11.765301,
+                        46.359343
+                  ]
+            },
+            {
+                  "name": "Chiesetta Alpina",
+                  "text": "Eine kleine Bergkapelle, die Wanderern in den Dolomiten einen Ort der Andacht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        11.800053,
+                        46.338299
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio da Padova",
+                  "text": "Eine dem Heiligen Antonius gewidmete Kirche in der Berglandschaft der Dolomiten.",
+                  "category": "religious",
+                  "coords": [
+                        11.794563,
+                        46.378562
+                  ]
+            },
+            {
+                  "name": "Cima Valles o Venegia",
+                  "text": "Ein Informationspunkt zur Orientierung in der Umgebung der Cima Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        11.802836,
+                        46.33311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cima Bocche - Cimon de Boce",
+                  "text": "A Dolomitok egyik ismert hegycsúcsa, amely az első világháborúból származó történelmi jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        11.752708,
+                        46.354216
+                  ]
+            },
+            {
+                  "name": "Col Margherita - Col de Margarita",
+                  "text": "A Dolomitok egyik csúcsa, amely tágas kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.791549,
+                        46.366305
+                  ]
+            },
+            {
+                  "name": "Baracche Italiane",
+                  "text": "Az első világháború idejéből származó olasz katonai barakkok történelmi maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        11.77212,
+                        46.352681
+                  ]
+            },
+            {
+                  "name": "Postazione italiana",
+                  "text": "Egykori olasz katonai állás a Dolomitok magashegységében.",
+                  "category": "historical",
+                  "coords": [
+                        11.76242,
+                        46.368253
+                  ]
+            },
+            {
+                  "name": "Trincee Italiane",
+                  "text": "Megmaradt olasz lövészárkok, amelyek a dolomitoki hegyi háború emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        11.765301,
+                        46.359343
+                  ]
+            },
+            {
+                  "name": "Chiesetta Alpina",
+                  "text": "Kis hegyi kápolna, amely az áhítat helyét kínálja a túrázóknak a Dolomitokban.",
+                  "category": "religious",
+                  "coords": [
+                        11.800053,
+                        46.338299
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio da Padova",
+                  "text": "Páduai Szent Antalnak szentelt templom a Dolomitok hegyi táján.",
+                  "category": "religious",
+                  "coords": [
+                        11.794563,
+                        46.378562
+                  ]
+            },
+            {
+                  "name": "Cima Valles o Venegia",
+                  "text": "Tájékoztató pont a Cima Valles környékén való eligazodáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        11.802836,
+                        46.33311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cima Bocche - Cimon de Boce",
+                  "text": "Un vârf montan cunoscut din Dolomiți, cu semnificație istorică din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        11.752708,
+                        46.354216
+                  ]
+            },
+            {
+                  "name": "Col Margherita - Col de Margarita",
+                  "text": "Un vârf din Dolomiți, cunoscut pentru vederile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.791549,
+                        46.366305
+                  ]
+            },
+            {
+                  "name": "Baracche Italiane",
+                  "text": "Rămășițe istorice ale barăcilor militare italiene din timpul Primului Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        11.77212,
+                        46.352681
+                  ]
+            },
+            {
+                  "name": "Postazione italiana",
+                  "text": "O fostă poziție militară italiană în munții înalți ai Dolomiților.",
+                  "category": "historical",
+                  "coords": [
+                        11.76242,
+                        46.368253
+                  ]
+            },
+            {
+                  "name": "Trincee Italiane",
+                  "text": "Tranșee italiene conservate, mărturii ale războiului montan din Dolomiți.",
+                  "category": "historical",
+                  "coords": [
+                        11.765301,
+                        46.359343
+                  ]
+            },
+            {
+                  "name": "Chiesetta Alpina",
+                  "text": "O mică capelă montană care oferă un loc de reculegere drumeților din Dolomiți.",
+                  "category": "religious",
+                  "coords": [
+                        11.800053,
+                        46.338299
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio da Padova",
+                  "text": "O biserică dedicată Sfântului Anton în peisajul montan al Dolomiților.",
+                  "category": "religious",
+                  "coords": [
+                        11.794563,
+                        46.378562
+                  ]
+            },
+            {
+                  "name": "Cima Valles o Venegia",
+                  "text": "Un punct de informare pentru orientare în împrejurimile Cima Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        11.802836,
+                        46.33311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cima Bocche - Cimon de Boce",
+                  "text": "A well-known mountain peak in the Dolomites with historical significance from World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        11.752708,
+                        46.354216
+                  ]
+            },
+            {
+                  "name": "Col Margherita - Col de Margarita",
+                  "text": "A peak in the Dolomites known for its expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        11.791549,
+                        46.366305
+                  ]
+            },
+            {
+                  "name": "Baracche Italiane",
+                  "text": "Historical remains of Italian military barracks from the First World War period.",
+                  "category": "historical",
+                  "coords": [
+                        11.77212,
+                        46.352681
+                  ]
+            },
+            {
+                  "name": "Postazione italiana",
+                  "text": "A former Italian military position in the high mountains of the Dolomites.",
+                  "category": "historical",
+                  "coords": [
+                        11.76242,
+                        46.368253
+                  ]
+            },
+            {
+                  "name": "Trincee Italiane",
+                  "text": "Preserved Italian trenches serving as witnesses to the mountain warfare in the Dolomites.",
+                  "category": "historical",
+                  "coords": [
+                        11.765301,
+                        46.359343
+                  ]
+            },
+            {
+                  "name": "Chiesetta Alpina",
+                  "text": "A small mountain chapel providing a place of devotion for hikers in the Dolomites.",
+                  "category": "religious",
+                  "coords": [
+                        11.800053,
+                        46.338299
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio da Padova",
+                  "text": "A church dedicated to Saint Anthony in the mountain landscape of the Dolomites.",
+                  "category": "religious",
+                  "coords": [
+                        11.794563,
+                        46.378562
+                  ]
+            },
+            {
+                  "name": "Cima Valles o Venegia",
+                  "text": "An information point for orientation in the surroundings of Cima Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        11.802836,
+                        46.33311
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-veneto",
     coords: [11.8, 46.35],

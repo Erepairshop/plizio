@@ -2438,7 +2438,304 @@ imageHint: "Panoramic view of the Eisch valley",
       fr: ["Situation : Près de Rosport-Dickweiler (est du Luxembourg)", "Attraction : Girsterklaus (plus ancienne chapelle de pèlerinage du pays)", "Altitude : env. 320 mètres au-dessus du niveau de la mer", "Vue : Panorama sur la vallée de la Sûre", "Habitat : Anciens vergers et pelouses sèches", "Sentiers : Rosport Local Trails (par ex. R7)", "Importance : Centre spirituel et culturel de la région", "Flore : Coucous et diverses espèces d'orchidées"],
     }, image: "/poi-images/luxembourg-girsterklaus-hill-nature-v2.webp"},
   {
-    id: "luxembourg-tretterbaach-nature-v2",
+    id: "luxembourg-tretterbaach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Sënnesräich",
+                  "text": "Ein interaktives Museum in Luxemburg, das sich der Entdeckung der fünf Sinne widmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.939371,
+                        50.058528
+                  ]
+            },
+            {
+                  "name": "Plateau de Wincrange",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die hügelige Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.944829,
+                        50.089271
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Eine Attraktion im Freien, die Besuchern ein klassisches Labyrinth zum Erkunden bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938227,
+                        50.059355
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "Eine lokale Kirche, die als wichtiger Ort der Andacht für die Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.933452,
+                        50.045647
+                  ]
+            },
+            {
+                  "name": "Eligiuskierch",
+                  "text": "Ein historisches Kirchengebäude im Dorf Hoffelt in der Gemeinde Wintger.",
+                  "category": "religious",
+                  "coords": [
+                        5.920809,
+                        50.098791
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Eine kleine Kapelle, die der Erhöhung des Heiligen Kreuzes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.956804,
+                        50.078217
+                  ]
+            },
+            {
+                  "name": "Saint-Bernard",
+                  "text": "Ein religiöser Ort und eine Kapelle in der Gemeinde Wintger.",
+                  "category": "religious",
+                  "coords": [
+                        5.918979,
+                        50.052157
+                  ]
+            },
+            {
+                  "name": "Nikloskierch",
+                  "text": "Eine traditionelle Kirche, die das Ortsbild des Dorfes Heisdorf prägt.",
+                  "category": "religious",
+                  "coords": [
+                        5.902513,
+                        50.045356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Sënnesräich",
+                  "text": "Interaktív múzeum Luxemburgban, amely az öt érzékszerv felfedezésére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        5.939371,
+                        50.058528
+                  ]
+            },
+            {
+                  "name": "Plateau de Wincrange",
+                  "text": "Kilátópont, amely széles körpanorámát nyújt a dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.944829,
+                        50.089271
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Szabadtéri látványosság, amely egy felfedezésre váró klasszikus labirintust kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938227,
+                        50.059355
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "Helyi templom, amely a közösség fontos hitéleti helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        5.933452,
+                        50.045647
+                  ]
+            },
+            {
+                  "name": "Eligiuskierch",
+                  "text": "Történelmi templomépület Hoffelt faluban, Wincrange községben.",
+                  "category": "religious",
+                  "coords": [
+                        5.920809,
+                        50.098791
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Egy kis kápolna, amelyet a Szent Kereszt felmagasztalásának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        5.956804,
+                        50.078217
+                  ]
+            },
+            {
+                  "name": "Saint-Bernard",
+                  "text": "Vallási helyszín és kápolna Wincrange községben.",
+                  "category": "religious",
+                  "coords": [
+                        5.918979,
+                        50.052157
+                  ]
+            },
+            {
+                  "name": "Nikloskierch",
+                  "text": "Hagyományos templom, amely meghatározza Heisdorf falu utcaképét.",
+                  "category": "religious",
+                  "coords": [
+                        5.902513,
+                        50.045356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Sënnesräich",
+                  "text": "Un muzeu interactiv din Luxemburg, dedicat descoperirii celor cinci simțuri.",
+                  "category": "museum",
+                  "coords": [
+                        5.939371,
+                        50.058528
+                  ]
+            },
+            {
+                  "name": "Plateau de Wincrange",
+                  "text": "Un punct de observare care oferă o vedere panoramică asupra peisajului deluros.",
+                  "category": "natural",
+                  "coords": [
+                        5.944829,
+                        50.089271
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "O atracție în aer liber care oferă vizitatorilor un labirint clasic de explorat.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938227,
+                        50.059355
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "O biserică locală care servește ca important loc de rugăciune pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        5.933452,
+                        50.045647
+                  ]
+            },
+            {
+                  "name": "Eligiuskierch",
+                  "text": "O clădire istorică de biserică în satul Hoffelt din comuna Wincrange.",
+                  "category": "religious",
+                  "coords": [
+                        5.920809,
+                        50.098791
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "O mică capelă dedicată Înălțării Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        5.956804,
+                        50.078217
+                  ]
+            },
+            {
+                  "name": "Saint-Bernard",
+                  "text": "Un sit religios și o capelă în comuna Wincrange.",
+                  "category": "religious",
+                  "coords": [
+                        5.918979,
+                        50.052157
+                  ]
+            },
+            {
+                  "name": "Nikloskierch",
+                  "text": "O biserică tradițională care definește aspectul satului Heisdorf.",
+                  "category": "religious",
+                  "coords": [
+                        5.902513,
+                        50.045356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Sënnesräich",
+                  "text": "An interactive museum in Luxembourg dedicated to the discovery of the five senses.",
+                  "category": "museum",
+                  "coords": [
+                        5.939371,
+                        50.058528
+                  ]
+            },
+            {
+                  "name": "Plateau de Wincrange",
+                  "text": "A viewpoint offering a wide panoramic view over the hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.944829,
+                        50.089271
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "An outdoor attraction offering a classic labyrinth for visitors to explore.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938227,
+                        50.059355
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "A local church that serves as an important place of worship for the community.",
+                  "category": "religious",
+                  "coords": [
+                        5.933452,
+                        50.045647
+                  ]
+            },
+            {
+                  "name": "Eligiuskierch",
+                  "text": "A historic church building in the village of Hoffelt in the municipality of Wincrange.",
+                  "category": "religious",
+                  "coords": [
+                        5.920809,
+                        50.098791
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "A small chapel dedicated to the Exaltation of the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        5.956804,
+                        50.078217
+                  ]
+            },
+            {
+                  "name": "Saint-Bernard",
+                  "text": "A religious site and chapel in the municipality of Wincrange.",
+                  "category": "religious",
+                  "coords": [
+                        5.918979,
+                        50.052157
+                  ]
+            },
+            {
+                  "name": "Nikloskierch",
+                  "text": "A traditional church that defines the appearance of the village of Heisdorf.",
+                  "category": "religious",
+                  "coords": [
+                        5.902513,
+                        50.045356
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "river",
     name: { de: "Trëtterbaach", hu: "Trëtterbaach-patak", ro: "Pârâul Trëtterbaach", en: "Trëtterbaach Stream" },
@@ -2525,7 +2822,304 @@ imageHint: "Panoramic view of the Eisch valley",
       fr: ["Situation : Centre du Luxembourg (Gutland)", "Type : Ruisseau de plaine en milieu agricole", "Flore : Bordures de rives avec aulnes et saules", "Faune : Habitat pour le martin-pêcheur et le cincle plongeur", "Écologie : Mise en réseau des biotopes locaux", "Utilisation : Partiellement pour l'irrigation et le drainage", "Paysage : Vergers traditionnels", "Caractère : Cours d'eau calme et paisible"],
     }, image: "/poi-images/luxembourg-eltz-river-nature-v2.webp"},
   {
-    id: "luxembourg-mont-st-nicolas-nature-v2",
+    id: "luxembourg-mont-st-nicolas-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viktor-Hugo-Haus",
+                  "text": "Ein Literaturmuseum in Vianden, gewidmet dem Aufenthalt des berühmten Schriftstellers Victor Hugo.",
+                  "category": "museum",
+                  "coords": [
+                        6.207755,
+                        49.933932
+                  ]
+            },
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "Die Ruine einer Hangburg in der Nähe von Vianden im Ourtal.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Burg Stolzemburg",
+                  "text": "Eine historische Burgruine in Stolzemburg, die über dem Ourtal thront.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Schloss Roth",
+                  "text": "Ein historisches Schloss in der Gemeinde Roth an der Our.",
+                  "category": "castle",
+                  "coords": [
+                        6.221687,
+                        49.925543
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "Ein Naturschutzgebiet an einer markanten Schleife des Flusses Our.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville de Vianden et du Jouet",
+                  "text": "Ein Museum in Vianden, das die Stadtgeschichte und eine Spielzeugsammlung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.202521,
+                        49.933587
+                  ]
+            },
+            {
+                  "name": "Museum of Caricature et Cartoon",
+                  "text": "Ein Museum in Vianden, das der Kunst der Karikatur und des Cartoons gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.204982,
+                        49.933453
+                  ]
+            },
+            {
+                  "name": "Museum Kupfermine Stolzemburg",
+                  "text": "Ein Museum, das die Geschichte des Kupferbergbaus in der Region Stolzemburg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Victor Hugo",
+                  "text": "Irodalmi múzeum Viandenben, amely a híres író, Victor Hugo tartózkodásának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        6.207755,
+                        49.933932
+                  ]
+            },
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "Egy domboldali vár romja Vianden közelében, az Our-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "Történelmi várrom Stolzemburgban, amely az Our-völgy fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Schloss Roth",
+                  "text": "Történelmi kastély Roth an der Our községben.",
+                  "category": "castle",
+                  "coords": [
+                        6.221687,
+                        49.925543
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "Természetvédelmi terület az Our folyó egyik jellegzetes kanyarulatánál.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville de Vianden et du Jouet",
+                  "text": "Viandeni múzeum, amely a város történelmét és egy játékgyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.202521,
+                        49.933587
+                  ]
+            },
+            {
+                  "name": "Museum of Caricature et Cartoon",
+                  "text": "Viandeni múzeum, amelyet a karikatúra és a rajzfilm művészetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        6.204982,
+                        49.933453
+                  ]
+            },
+            {
+                  "name": "Musée Koffergrouf Stolzembourg",
+                  "text": "Múzeum, amely a stolzemburgi régió rézbányászatának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Victor Hugo",
+                  "text": "Un muzeu literar în Vianden, dedicat șederii celebrului scriitor Victor Hugo.",
+                  "category": "museum",
+                  "coords": [
+                        6.207755,
+                        49.933932
+                  ]
+            },
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "Ruinele unui castel situat pe un versant lângă Vianden, în valea râului Our.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "O ruină istorică de castel în Stolzemburg, care domină valea râului Our.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Schloss Roth",
+                  "text": "Un castel istoric în comuna Roth an der Our.",
+                  "category": "castle",
+                  "coords": [
+                        6.221687,
+                        49.925543
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "O rezervație naturală situată pe o buclă distinctivă a râului Our.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville de Vianden et du Jouet",
+                  "text": "Un muzeu în Vianden care prezintă istoria orașului și o colecție de jucării.",
+                  "category": "museum",
+                  "coords": [
+                        6.202521,
+                        49.933587
+                  ]
+            },
+            {
+                  "name": "Museum of Caricature et Cartoon",
+                  "text": "Un muzeu în Vianden dedicat artei caricaturii și desenului animat.",
+                  "category": "museum",
+                  "coords": [
+                        6.204982,
+                        49.933453
+                  ]
+            },
+            {
+                  "name": "Musée Koffergrouf Stolzembourg",
+                  "text": "Un muzeu care prezintă istoria minelor de cupru din regiunea Stolzemburg.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Victor Hugo",
+                  "text": "A literary museum in Vianden dedicated to the stay of the famous writer Victor Hugo.",
+                  "category": "museum",
+                  "coords": [
+                        6.207755,
+                        49.933932
+                  ]
+            },
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "The ruins of a hillside castle located near Vianden in the Our valley.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "A historical castle ruin in Stolzemburg overlooking the Our valley.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Schloss Roth",
+                  "text": "A historical castle in the municipality of Roth an der Our.",
+                  "category": "castle",
+                  "coords": [
+                        6.221687,
+                        49.925543
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "A nature reserve located at a prominent loop of the Our river.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville de Vianden et du Jouet",
+                  "text": "A museum in Vianden presenting city history and a toy collection.",
+                  "category": "museum",
+                  "coords": [
+                        6.202521,
+                        49.933587
+                  ]
+            },
+            {
+                  "name": "Museum of Caricature et Cartoon",
+                  "text": "A museum in Vianden dedicated to the art of caricature and cartoon.",
+                  "category": "museum",
+                  "coords": [
+                        6.204982,
+                        49.933453
+                  ]
+            },
+            {
+                  "name": "Museum of the copper mines",
+                  "text": "A museum showcasing the history of copper mining in the Stolzemburg region.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "peak",
     name: { de: "Mont Saint-Nicolas", hu: "Szent Miklós-hegy", ro: "Muntele Saint-Nicolas", en: "Mont Saint-Nicolas" },

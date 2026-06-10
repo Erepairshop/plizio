@@ -371,7 +371,52 @@ imageHint: "Large rocket components inside Yuzhmash factory",
     },
     image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp",
 },  {
-    id: "ukraine-port-pivdennyi-economic-v2",
+    id: "ukraine-port-pivdennyi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Малий Аджалицький лиман",
+                  "text": "Ein Brackwasser-Ästuar an der Nordküste des Schwarzen Meeres in der Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015926,
+                        46.627918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Малий Аджалицький лиман",
+                  "text": "Brakkvizes torkolat a Fekete-tenger északi partján, Ukrajnában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015926,
+                        46.627918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Малий Аджалицький лиман",
+                  "text": "Un estuar cu apă salmastră pe coasta de nord a Mării Negre în Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015926,
+                        46.627918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Small Adzhalyk Estuary",
+                  "text": "A brackish water estuary on the northern coast of the Black Sea in Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        31.015926,
+                        46.627918
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "port",
     name: { de: "Hafen Piwdennyj", hu: "Pivdennyij kikötő", ro: "Portul Pivdennîi", en: "Port Pivdennyi"},
@@ -509,7 +554,52 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
     },
     image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp",
 },  {
-    id: "ukraine-burshtyn-tpp-economic-v2",
+    id: "ukraine-burshtyn-tpp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Касова",
+                  "text": "Ein malerischer Aussichtspunkt auf dem Kasova-Hügel bei Burschtyn.",
+                  "category": "natural",
+                  "coords": [
+                        24.694365,
+                        49.226836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Касова",
+                  "text": "Festői kilátóhely a Burshtyn melletti Kasova-dombon.",
+                  "category": "natural",
+                  "coords": [
+                        24.694365,
+                        49.226836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Касова",
+                  "text": "Un punct de belvedere pitoresc situat pe dealul Kasova, lângă Burștîn.",
+                  "category": "natural",
+                  "coords": [
+                        24.694365,
+                        49.226836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasova",
+                  "text": "A scenic viewpoint located on Kasova Hill near Burshtyn.",
+                  "category": "natural",
+                  "coords": [
+                        24.694365,
+                        49.226836
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "industry",
     name: { de: "Wärmekraftwerk Burschtyn", hu: "Bustyini hőerőmű", ro: "Termocentrala Burștîn", en: "Burshtyn Thermal Power Plant"},
@@ -923,7 +1013,268 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
     },
   },
   {
-    id: "ukraine-chornobyl-solar-economic-v2",
+    id: "ukraine-chornobyl-solar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "text": "Eine Gedenkstätte am Ort der Nuklearkatastrophe von Tschernobyl von 1986.",
+                  "category": "historical",
+                  "coords": [
+                        30.099362,
+                        51.389773
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Der ehemalige Vergnügungspark von Pripjat mit dem bekannten verlassenen Riesenrad.",
+                  "category": "park",
+                  "coords": [
+                        30.057762,
+                        51.408298
+                  ]
+            },
+            {
+                  "name": "Зона підвищеної радіації",
+                  "text": "Ein markierter Punkt in der Sperrzone von Tschernobyl mit erhöhten Strahlungswerten.",
+                  "category": "natural",
+                  "coords": [
+                        30.085397,
+                        51.385333
+                  ]
+            },
+            {
+                  "name": "Дерево Дружби народів",
+                  "text": "Ein symbolisches Denkmal in der Nähe des Kraftwerks Tschernobyl.",
+                  "category": "historical",
+                  "coords": [
+                        30.065302,
+                        51.40149
+                  ]
+            },
+            {
+                  "name": "Міст Смерті",
+                  "text": "Eine Brücke in Pripjat, die für ihre Aussicht auf das Kraftwerk während der Katastrophe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        30.069475,
+                        51.394929
+                  ]
+            },
+            {
+                  "name": "Вантажівка на даху",
+                  "text": "Ein auf einem Dach zurückgelassenes Fahrzeug in der Sperrzone von Tschernobyl.",
+                  "category": "landmark",
+                  "coords": [
+                        30.050548,
+                        51.400462
+                  ]
+            },
+            {
+                  "name": "Schießbude",
+                  "text": "Ein Überrest des ehemaligen Schießstandes im Vergnügungspark von Pripjat.",
+                  "category": "landmark",
+                  "coords": [
+                        30.055206,
+                        51.407366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "text": "Emlékhely az 1986-os csernobili atomkatasztrófa helyszínén.",
+                  "category": "historical",
+                  "coords": [
+                        30.099362,
+                        51.389773
+                  ]
+            },
+            {
+                  "name": "Міський парк",
+                  "text": "Pripjaty egykori vidámparkja a jól ismert elhagyatott óriáskerékkel.",
+                  "category": "park",
+                  "coords": [
+                        30.057762,
+                        51.408298
+                  ]
+            },
+            {
+                  "name": "Зона підвищеної радіації",
+                  "text": "Kijelölt pont a csernobili tilalmi zónában, megemelkedett sugárzási szintekkel.",
+                  "category": "natural",
+                  "coords": [
+                        30.085397,
+                        51.385333
+                  ]
+            },
+            {
+                  "name": "Дерево Дружби народів",
+                  "text": "Szimbolikus emlékmű a csernobili erőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        30.065302,
+                        51.40149
+                  ]
+            },
+            {
+                  "name": "Міст Смерті",
+                  "text": "Híd Pripjatyban, amely a katasztrófa idején az erőműre nyíló kilátásáról vált ismertté.",
+                  "category": "landmark",
+                  "coords": [
+                        30.069475,
+                        51.394929
+                  ]
+            },
+            {
+                  "name": "Вантажівка на даху",
+                  "text": "Egy tetőn hagyott jármű a csernobili tilalmi zónában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.050548,
+                        51.400462
+                  ]
+            },
+            {
+                  "name": "Тир",
+                  "text": "Az egykori lőtér maradványa a pripjatyi vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.055206,
+                        51.407366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "text": "Un loc de comemorare la locul dezastrului nuclear de la Cernobîl din 1986.",
+                  "category": "historical",
+                  "coords": [
+                        30.099362,
+                        51.389773
+                  ]
+            },
+            {
+                  "name": "Міський парк",
+                  "text": "Fostul parc de distracții din Pripeat, cunoscut pentru faimoasa roată abandonată.",
+                  "category": "park",
+                  "coords": [
+                        30.057762,
+                        51.408298
+                  ]
+            },
+            {
+                  "name": "Зона підвищеної радіації",
+                  "text": "Un punct marcat în zona de excludere de la Cernobîl cu niveluri ridicate de radiații.",
+                  "category": "natural",
+                  "coords": [
+                        30.085397,
+                        51.385333
+                  ]
+            },
+            {
+                  "name": "Дерево Дружби народів",
+                  "text": "Un monument simbolic situat în apropierea centralei de la Cernobîl.",
+                  "category": "historical",
+                  "coords": [
+                        30.065302,
+                        51.40149
+                  ]
+            },
+            {
+                  "name": "Міст Смерті",
+                  "text": "Un pod din Pripeat, cunoscut pentru vederea spre centrală în timpul dezastrului.",
+                  "category": "landmark",
+                  "coords": [
+                        30.069475,
+                        51.394929
+                  ]
+            },
+            {
+                  "name": "Вантажівка на даху",
+                  "text": "Un vehicul abandonat pe un acoperiș în zona de excludere de la Cernobîl.",
+                  "category": "landmark",
+                  "coords": [
+                        30.050548,
+                        51.400462
+                  ]
+            },
+            {
+                  "name": "Тир",
+                  "text": "O rămășiță a fostului stand de tragere din parcul de distracții din Pripeat.",
+                  "category": "landmark",
+                  "coords": [
+                        30.055206,
+                        51.407366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site of the Chernobyl nuclear disaster",
+                  "text": "A memorial site at the location of the 1986 Chernobyl nuclear disaster.",
+                  "category": "historical",
+                  "coords": [
+                        30.099362,
+                        51.389773
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "The former amusement park of Pripyat, featuring the iconic abandoned Ferris wheel.",
+                  "category": "park",
+                  "coords": [
+                        30.057762,
+                        51.408298
+                  ]
+            },
+            {
+                  "name": "High radiation place",
+                  "text": "A marked spot within the Chernobyl exclusion zone with elevated radiation levels.",
+                  "category": "natural",
+                  "coords": [
+                        30.085397,
+                        51.385333
+                  ]
+            },
+            {
+                  "name": "Friendship of Nations Monument",
+                  "text": "A symbolic monument located near the Chernobyl power plant.",
+                  "category": "historical",
+                  "coords": [
+                        30.065302,
+                        51.40149
+                  ]
+            },
+            {
+                  "name": "Bridge of Death",
+                  "text": "A bridge in Pripyat known for its view of the power plant during the disaster.",
+                  "category": "landmark",
+                  "coords": [
+                        30.069475,
+                        51.394929
+                  ]
+            },
+            {
+                  "name": "Truck on Roof",
+                  "text": "A vehicle left on a roof within the Chernobyl exclusion zone.",
+                  "category": "landmark",
+                  "coords": [
+                        30.050548,
+                        51.400462
+                  ]
+            },
+            {
+                  "name": "Pneumatic Shooting Booth",
+                  "text": "A remnant of the former shooting gallery in the Pripyat amusement park.",
+                  "category": "landmark",
+                  "coords": [
+                        30.055206,
+                        51.407366
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "industry",
     name: { de: "Solarkraftwerk Tschornobyl", hu: "Csernobili naperőmű", ro: "Centrala solară Cernobîl", en: "Chornobyl Solar Farm"},
@@ -969,7 +1320,88 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
     },
     image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp",
 },  {
-    id: "ukraine-port-reni-economic-v2",
+    id: "ukraine-port-reni-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Морський Вокзал",
+                  "text": "Ein Schiffsterminal und lokales Wahrzeichen in der ukrainischen Hafenstadt Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.275813,
+                        45.453157
+                  ]
+            },
+            {
+                  "name": "Я люблю Рені",
+                  "text": "Ein beliebter Fotopunkt und symbolisches Zeichen in der Stadt Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.283495,
+                        45.451987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Морський Вокзал",
+                  "text": "Hajóállomás és helyi nevezetesség az ukrajnai Reni kikötővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.275813,
+                        45.453157
+                  ]
+            },
+            {
+                  "name": "Я люблю Рені",
+                  "text": "Népszerű fotópont és szimbolikus felirat Reni városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.283495,
+                        45.451987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Морський Вокзал",
+                  "text": "Un terminal maritim și un punct de reper local în orașul-port ucrainean Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.275813,
+                        45.453157
+                  ]
+            },
+            {
+                  "name": "Я люблю Рені",
+                  "text": "Un punct popular pentru fotografii și un semn simbolic situat în orașul Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.283495,
+                        45.451987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sea Station",
+                  "text": "A maritime terminal and local landmark in the Ukrainian port city of Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.275813,
+                        45.453157
+                  ]
+            },
+            {
+                  "name": "I love Reni",
+                  "text": "A popular photo spot and symbolic sign located in the city of Reni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.283495,
+                        45.451987
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "port",
     name: { de: "Hafen von Reni", hu: "Reni kikötője", ro: "Portul Reni", en: "Port of Reni"},

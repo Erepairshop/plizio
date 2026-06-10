@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const serbiaNatureV2: POI[] = [
 
   {
-    id: "serbia-raska-river-nature-v2",
+    id: "serbia-raska-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "Das Kloster Đurđevi stupovi ist ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Ein Aussichtspunkt am Fluss Raška, der durch einen Zaun begrenzt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Ein Aussichtspunkt in der Natur, der über einen überwucherten Pfad erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Eine der ältesten Kirchen Serbiens und Teil der UNESCO-geschützten Stätte Stari Ras.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "A Đurđevi stupovi egy 12. századi szerb ortodox kolostor a Raška-folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Egy kerítéssel elzárt kilátópont a Raška-folyónál.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Egy természetközeli kilátópont, amely egy benőtt ösvényen keresztül érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Szerbia egyik legrégebbi temploma, az UNESCO által védett Ó-Ras régészeti terület része.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Ђурђеви Ступови",
+                  "text": "Mănăstirea Đurđevi stupovi este o mănăstire ortodoxă sârbă din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "Un punct de belvedere de lângă râul Raška, limitat de un gard.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "Un punct de belvedere în natură, accesibil printr-o potecă acoperită de vegetație.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Црква Светих апостола Петра и Павла",
+                  "text": "Una dintre cele mai vechi biserici din Serbia și parte a sitului Stari Ras protejat de UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Tracts of Saint George",
+                  "text": "Đurđevi Stupovi is a 12th-century Serbian Orthodox monastery near the Raška River.",
+                  "category": "religious",
+                  "coords": [
+                        20.497666,
+                        43.165844
+                  ]
+            },
+            {
+                  "name": "Fence - not possible to cross",
+                  "text": "A viewpoint near the Raška River that is restricted by a fence.",
+                  "category": "natural",
+                  "coords": [
+                        20.501952,
+                        43.163513
+                  ]
+            },
+            {
+                  "name": "Overgrown path. Don't cross",
+                  "text": "A viewpoint in nature accessible via an overgrown path.",
+                  "category": "natural",
+                  "coords": [
+                        20.506192,
+                        43.163696
+                  ]
+            },
+            {
+                  "name": "Church of Saint Apostles Peter and Paul",
+                  "text": "One of the oldest churches in Serbia and part of the UNESCO-protected Stari Ras site.",
+                  "category": "religious",
+                  "coords": [
+                        20.527643,
+                        43.161378
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "RS",
     name: { de: "Raška (Fluss)", hu: "Raška-folyó", ro: "Râul Raška", en: "Raška River" },
@@ -138,7 +291,88 @@ export const serbiaNatureV2: POI[] = [
     image: "/poi-images/serbia-tamis-river-nature-v2.webp",
   },
   {
-    id: "serbia-cer-mountain-nature-v2",
+    id: "serbia-cer-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Спомен-костурница на Церу",
+                  "text": "Ein Denkmal und Beinhaus auf dem Berg Cer, das an die Gefallenen der Schlacht von Cer erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        19.528191,
+                        44.554529
+                  ]
+            },
+            {
+                  "name": "Krst",
+                  "text": "Ein monumentales Kreuz auf dem Berg Cer, das als Gedenkstätte dient.",
+                  "category": "historical",
+                  "coords": [
+                        19.533086,
+                        44.565784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Спомен-костурница на Церу",
+                  "text": "A Cer-hegyen található emlékmű és csontház, amely a ceri csata elesett katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        19.528191,
+                        44.554529
+                  ]
+            },
+            {
+                  "name": "Krst",
+                  "text": "Egy monumentális kereszt a Cer-hegyen, amely emlékhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        19.533086,
+                        44.565784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Спомен-костурница на Церу",
+                  "text": "Un monument și osuar de pe muntele Cer, dedicat soldaților căzuți în bătălia de la Cer.",
+                  "category": "historical",
+                  "coords": [
+                        19.528191,
+                        44.554529
+                  ]
+            },
+            {
+                  "name": "Krst",
+                  "text": "O cruce monumentală pe muntele Cer, care servește ca loc de comemorare.",
+                  "category": "historical",
+                  "coords": [
+                        19.533086,
+                        44.565784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial Ossuary, Cer",
+                  "text": "A memorial ossuary on Mount Cer commemorating the fallen soldiers of the Battle of Cer.",
+                  "category": "historical",
+                  "coords": [
+                        19.528191,
+                        44.554529
+                  ]
+            },
+            {
+                  "name": "Krst",
+                  "text": "A monumental cross located on Mount Cer serving as a site of remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        19.533086,
+                        44.565784
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Cer", hu: "Cer", ro: "Cer", en: "Cer" },
@@ -588,7 +822,124 @@ export const serbiaNatureV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-sum-nature-v2.webp",
   },
   {
-    id: "serbia-babina-zub-nature-v2",
+    id: "serbia-babina-zub-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Ein prominenter Gipfel im Stara-Planina-Gebirge in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Der höchste Gipfel des Balkangebirges, an der Grenze zwischen Serbien und Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das umliegende Babin-Zub-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Kiemelkedő hegycsúcs a szerbiai Stara Planina-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "A Balkán-hegység legmagasabb csúcsa Szerbia és Bulgária határán.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a környező Babin Zub-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Un vârf proeminent din lanțul muntos Stara Planina din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Миджур / Миџор",
+                  "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Un punct de observație care oferă vederi asupra munților Babin Zub din jur.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babin Zub",
+                  "text": "A prominent peak in the Stara Planina mountain range of Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Midzhur / Midžor",
+                  "text": "The highest peak of the Balkan Mountains, located on the border between Serbia and Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        22.67757,
+                        43.395246
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "A scenic viewpoint offering vistas of the surrounding Babin Zub mountains.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RS",
     name: { de: "Babin Zub", hu: "Babin Zub", ro: "Babin Zub", en: "Babin Zub" },
@@ -678,7 +1029,52 @@ export const serbiaNatureV2: POI[] = [
     image: "/poi-images/serbia-juzna-morava-nature-v2.webp",
   },
   {
-    id: "serbia-raska-mountain-nature-v2",
+    id: "serbia-raska-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Koznik",
+                  "text": "Eine mittelalterliche Burgruine in Serbien, die auf einem Berggipfel über dem Fluss Rasina thront.",
+                  "category": "castle",
+                  "coords": [
+                        20.940702,
+                        43.455106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Тврђава Козник",
+                  "text": "Középkori várrom Szerbiában, amely egy hegycsúcson magasodik a Rasina-folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        20.940702,
+                        43.455106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Тврђава Козник",
+                  "text": "O ruină de cetate medievală din Serbia, situată pe un vârf de munte deasupra râului Rasina.",
+                  "category": "castle",
+                  "coords": [
+                        20.940702,
+                        43.455106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortress Koznik",
+                  "text": "A medieval fortress ruin in Serbia, perched on a mountain top overlooking the Rasina River.",
+                  "category": "castle",
+                  "coords": [
+                        20.940702,
+                        43.455106
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Željin", hu: "Željin", ro: "Željin", en: "Željin" },
@@ -723,7 +1119,304 @@ export const serbiaNatureV2: POI[] = [
     image: "/poi-images/serbia-raska-mountain-nature-v2.webp",
   },
   {
-    id: "serbia-kosutnjak-forest-nature-v2",
+    id: "serbia-kosutnjak-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Културни центар Чукарица",
+                  "text": "Ein Kulturzentrum in Belgrad, das Theateraufführungen und künstlerische Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        20.417517,
+                        44.78324
+                  ]
+            },
+            {
+                  "name": "Плаво позориште",
+                  "text": "Ein unabhängiges zeitgenössisches Theaterlabor und Performance-Raum in Belgrad.",
+                  "category": "cultural",
+                  "coords": [
+                        20.44173,
+                        44.793951
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "Ein spezialisiertes Museum, das der Geschichte der Vespa-Motorroller in Serbien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Ein öffentliches Aquarium in Belgrad mit einer Vielzahl von tropischen Fischen und Reptilien.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Музеј Томе Росандића",
+                  "text": "Ein Museum im ehemaligen Atelier des berühmten jugoslawischen Bildhauers Toma Rosandić.",
+                  "category": "museum",
+                  "coords": [
+                        20.442672,
+                        44.792904
+                  ]
+            },
+            {
+                  "name": "Музеј афричке уметности",
+                  "text": "Ein bedeutendes Museum in Belgrad, das der Kunst und Kultur des afrikanischen Kontinents gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.435087,
+                        44.789175
+                  ]
+            },
+            {
+                  "name": "Музеј Југославије",
+                  "text": "Ein Museumskomplex, der die Geschichte und das Erbe Jugoslawiens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.45249,
+                        44.788337
+                  ]
+            },
+            {
+                  "name": "Краљевски двор",
+                  "text": "Der ehemalige königliche Palast in Belgrad, ein wichtiges Beispiel serbisch-byzantinischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        20.449112,
+                        44.770184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Културни центар Чукарица",
+                  "text": "Belgrádi kulturális központ, amely színházi előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.417517,
+                        44.78324
+                  ]
+            },
+            {
+                  "name": "Плаво позориште",
+                  "text": "Független kortárs színházi laboratórium és előadóhely Belgrádban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.44173,
+                        44.793951
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "A szerbiai Vespa robogók történetének szentelt szakmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Belgrádi nyilvános akvárium trópusi halak és hüllők széles választékával.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Музеј Томе Росандића",
+                  "text": "Múzeum a híres jugoszláv szobrász, Toma Rosandić egykori műtermében.",
+                  "category": "museum",
+                  "coords": [
+                        20.442672,
+                        44.792904
+                  ]
+            },
+            {
+                  "name": "Музеј афричке уметности",
+                  "text": "Jelentős belgrádi múzeum, amelyet az afrikai kontinens művészetének és kultúrájának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        20.435087,
+                        44.789175
+                  ]
+            },
+            {
+                  "name": "Музеј Југославије",
+                  "text": "Múzeumi komplexum, amely Jugoszlávia történelmét és örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.45249,
+                        44.788337
+                  ]
+            },
+            {
+                  "name": "Краљевски двор",
+                  "text": "Az egykori királyi palota Belgrádban, a szerb-bizánci építészet jelentős példája.",
+                  "category": "castle",
+                  "coords": [
+                        20.449112,
+                        44.770184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Културни центар Чукарица",
+                  "text": "Un centru cultural din Belgrad care găzduiește spectacole de teatru și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        20.417517,
+                        44.78324
+                  ]
+            },
+            {
+                  "name": "Плаво позориште",
+                  "text": "Un laborator de teatru contemporan independent și spațiu de spectacol din Belgrad.",
+                  "category": "cultural",
+                  "coords": [
+                        20.44173,
+                        44.793951
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "Un muzeu specializat dedicat istoriei scuterelor Vespa în Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Јавни акваријум и тропикаријум",
+                  "text": "Un acvariu public din Belgrad cu o varietate de pești tropicali și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Музеј Томе Росандића",
+                  "text": "Un muzeu situat în fostul atelier al celebrului sculptor iugoslav Toma Rosandić.",
+                  "category": "museum",
+                  "coords": [
+                        20.442672,
+                        44.792904
+                  ]
+            },
+            {
+                  "name": "Музеј афричке уметности",
+                  "text": "Un muzeu important din Belgrad dedicat artei și culturii continentului african.",
+                  "category": "museum",
+                  "coords": [
+                        20.435087,
+                        44.789175
+                  ]
+            },
+            {
+                  "name": "Музеј Југославије",
+                  "text": "Un complex muzeal care documentează istoria și moștenirea Iugoslaviei.",
+                  "category": "museum",
+                  "coords": [
+                        20.45249,
+                        44.788337
+                  ]
+            },
+            {
+                  "name": "Краљевски двор",
+                  "text": "Fostul palat regal din Belgrad, un exemplu important de arhitectură sârbo-bizantină.",
+                  "category": "castle",
+                  "coords": [
+                        20.449112,
+                        44.770184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Čukarica Cultural Center",
+                  "text": "A cultural center in Belgrade hosting theater performances and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        20.417517,
+                        44.78324
+                  ]
+            },
+            {
+                  "name": "Plavo pozorište",
+                  "text": "An independent contemporary theater laboratory and performance space in Belgrade.",
+                  "category": "cultural",
+                  "coords": [
+                        20.44173,
+                        44.793951
+                  ]
+            },
+            {
+                  "name": "Vespa Museum Serbia",
+                  "text": "A specialized museum dedicated to the history of Vespa scooters in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Public Aquarium and Tropicarium",
+                  "text": "A public aquarium in Belgrade featuring a variety of tropical fish and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        20.450379,
+                        44.784244
+                  ]
+            },
+            {
+                  "name": "Museum of Toma Rosandić",
+                  "text": "A museum located in the former studio of the famous Yugoslav sculptor Toma Rosandić.",
+                  "category": "museum",
+                  "coords": [
+                        20.442672,
+                        44.792904
+                  ]
+            },
+            {
+                  "name": "Muzei afričke umetnosti",
+                  "text": "A significant Belgrade museum dedicated to the art and culture of the African continent.",
+                  "category": "museum",
+                  "coords": [
+                        20.435087,
+                        44.789175
+                  ]
+            },
+            {
+                  "name": "Museum of Yugoslavia",
+                  "text": "A museum complex documenting the history and heritage of Yugoslavia.",
+                  "category": "museum",
+                  "coords": [
+                        20.45249,
+                        44.788337
+                  ]
+            },
+            {
+                  "name": "Kraljevski dvor",
+                  "text": "The former royal palace in Belgrade, an important example of Serbo-Byzantine architecture.",
+                  "category": "castle",
+                  "coords": [
+                        20.449112,
+                        44.770184
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "RS",
     name: { de: "Košutnjak", hu: "Košutnjak", ro: "Košutnjak", en: "Košutnjak" },

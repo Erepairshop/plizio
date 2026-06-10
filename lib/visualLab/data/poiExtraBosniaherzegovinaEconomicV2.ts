@@ -470,7 +470,196 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-ugljevik-power-plant-economic-v2",
+    id: "bosniaherzegovina-ugljevik-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mišljenac",
+                  "text": "Eine archäologische Stätte in der Nähe des Kraftwerks Ugljevik.",
+                  "category": "historical",
+                  "coords": [
+                        18.936204,
+                        44.706429
+                  ]
+            },
+            {
+                  "name": "Rimska vila",
+                  "text": "Überreste einer antiken römischen Villa im Gebiet von Ugljevik.",
+                  "category": "historical",
+                  "coords": [
+                        18.923597,
+                        44.703408
+                  ]
+            },
+            {
+                  "name": "FAUN K 85",
+                  "text": "Ein massiver Muldenkipper, der als technisches Denkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.993199,
+                        44.694886
+                  ]
+            },
+            {
+                  "name": "Crkva Svetih apostola Petra i Pavla",
+                  "text": "Eine orthodoxe Kirche, die den Aposteln Petrus und Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.993542,
+                        44.706468
+                  ]
+            },
+            {
+                  "name": "Hram Svetih besrebrenika Kozme i Damjana",
+                  "text": "Ein orthodoxes Gotteshaus zu Ehren der Heiligen Kosmas und Damian.",
+                  "category": "religious",
+                  "coords": [
+                        18.999225,
+                        44.698034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mišljenac",
+                  "text": "Régészeti lelőhely az ugljeviki hőerőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.936204,
+                        44.706429
+                  ]
+            },
+            {
+                  "name": "Rimska vila",
+                  "text": "Egy ókori római villa maradványai Ugljevik térségében.",
+                  "category": "historical",
+                  "coords": [
+                        18.923597,
+                        44.703408
+                  ]
+            },
+            {
+                  "name": "FAUN K 85",
+                  "text": "Műszaki emlékként kiállított hatalmas bányászati teherautó.",
+                  "category": "landmark",
+                  "coords": [
+                        18.993199,
+                        44.694886
+                  ]
+            },
+            {
+                  "name": "Crkva Svetih apostola Petra i Pavla",
+                  "text": "Szent Péter és Pál apostoloknak szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        18.993542,
+                        44.706468
+                  ]
+            },
+            {
+                  "name": "Hram Svetih besrebrenika Kozme i Damjana",
+                  "text": "Szent Kozma és Damján tiszteletére emelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        18.999225,
+                        44.698034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mišljenac",
+                  "text": "Un sit arheologic situat în apropierea centralei termice Ugljevik.",
+                  "category": "historical",
+                  "coords": [
+                        18.936204,
+                        44.706429
+                  ]
+            },
+            {
+                  "name": "Rimska vila",
+                  "text": "Vestigiile unei vechi vile romane în zona Ugljevik.",
+                  "category": "historical",
+                  "coords": [
+                        18.923597,
+                        44.703408
+                  ]
+            },
+            {
+                  "name": "FAUN K 85",
+                  "text": "Un camion minier masiv expus ca monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        18.993199,
+                        44.694886
+                  ]
+            },
+            {
+                  "name": "Crkva Svetih apostola Petra i Pavla",
+                  "text": "O biserică ortodoxă dedicată Sfinților Apostoli Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        18.993542,
+                        44.706468
+                  ]
+            },
+            {
+                  "name": "Hram Svetih besrebrenika Kozme i Damjana",
+                  "text": "Un lăcaș de cult ortodox închinat Sfinților Cozma și Damian.",
+                  "category": "religious",
+                  "coords": [
+                        18.999225,
+                        44.698034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mišljenac",
+                  "text": "An archaeological site located near the Ugljevik thermal power plant.",
+                  "category": "historical",
+                  "coords": [
+                        18.936204,
+                        44.706429
+                  ]
+            },
+            {
+                  "name": "Rimska vila",
+                  "text": "Remains of an ancient Roman villa in the Ugljevik area.",
+                  "category": "historical",
+                  "coords": [
+                        18.923597,
+                        44.703408
+                  ]
+            },
+            {
+                  "name": "FAUN K 85",
+                  "text": "A massive mining truck displayed as a technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        18.993199,
+                        44.694886
+                  ]
+            },
+            {
+                  "name": "Crkva Svetih apostola Petra i Pavla",
+                  "text": "An Orthodox church dedicated to Saints Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        18.993542,
+                        44.706468
+                  ]
+            },
+            {
+                  "name": "Hram Svetih besrebrenika Kozme i Damjana",
+                  "text": "An Orthodox place of worship dedicated to Saints Cosmas and Damian.",
+                  "category": "religious",
+                  "coords": [
+                        18.999225,
+                        44.698034
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Ugljevik", hu: "Ugljeviki Hőerőmű", ro: "Termocentrala Ugljevik", en: "Ugljevik Thermal Power Plant"},
@@ -3449,7 +3638,124 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-gracanica-industrial-park-economic-v2.webp",
   },
   {
-    id: "bosniaherzegovina-sokolac-timber-industry-economic-v2",
+    id: "bosniaherzegovina-sokolac-timber-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "Ein Denkmal, das den gefallenen Kämpfern der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Eine mittelalterliche Nekropole mit den charakteristischen Stećak-Grabsteinen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "Eine historische Stätte mit mittelalterlichen Grabsteinen in der Nähe von Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "A régió elesett harcosainak szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "Középkori nekropolisz jellegzetes stecsak sírkövekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "Középkori sírköveket bemutató történelmi helyszín Sokolac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "Un monument dedicat luptătorilor căzuți din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "O necropolă medievală cu pietre funerare caracteristice de tip stećak.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "Un sit istoric cu pietre funerare medievale lângă Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spomenik palim borcima",
+                  "text": "A monument dedicated to the fallen fighters of the region.",
+                  "category": "historical",
+                  "coords": [
+                        18.794409,
+                        43.932932
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 1",
+                  "text": "A medieval necropolis featuring characteristic stećak tombstones.",
+                  "category": "landmark",
+                  "coords": [
+                        18.845728,
+                        43.956523
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Bare 2",
+                  "text": "A historical site with medieval tombstones near Sokolac.",
+                  "category": "landmark",
+                  "coords": [
+                        18.842871,
+                        43.957821
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BA",
     name: { de: "Holzindustrie Sokolac", hu: "Sokolac Faipar", ro: "Industria Lemnului Sokolac", en: "Sokolac Timber Industry" },

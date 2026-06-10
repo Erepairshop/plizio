@@ -93,7 +93,52 @@ export const polandEconomicV2: POI[] = [
       fr: ["Le plus grand port de Pologne par volume de transbordement.", "Situation stratégique sur la baie de Gdańsk.", "Abrite le DCT Gdańsk, le plus grand terminal à conteneurs de la Baltique.", "L'histoire du port remonte au Xe siècle.", "Libre de glaces toute l'année.", "Connexion directe aux réseaux autoroutiers et ferroviaires européens.", "Traite plus de 50 millions de tonnes de fret par an.", "Important centre de transbordement de pétrole brut et de carburants pour la Pologne.", "Le port intérieur est spécialisé dans les marchandises diverses et le vrac.", "Le port extérieur (Port du Nord) est conçu pour les plus grands navires.", "Nœud important pour le commerce avec l'Asie.", "Un employeur majeur dans la région de Poméranie."],
     }, image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"},
   {
-    id: "poland-belchatow-power-station-economic-v2",
+    id: "poland-belchatow-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wiejski Ośrodek Kultury",
+                  "text": "Ein ländliches Kulturzentrum, das kulturelle Aktivitäten in der Nähe von Bełchatów anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.306255,
+                        51.275475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wiejski Ośrodek Kultury",
+                  "text": "Vidéki kulturális központ, amely közösségi művészeti tevékenységeket kínál Bełchatów közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.306255,
+                        51.275475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wiejski Ośrodek Kultury",
+                  "text": "Un centru cultural rural care oferă activități artistice comunitare lângă Bełchatów.",
+                  "category": "cultural",
+                  "coords": [
+                        19.306255,
+                        51.275475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wiejski Ośrodek Kultury",
+                  "text": "A rural cultural center providing community arts activities near Bełchatów.",
+                  "category": "cultural",
+                  "coords": [
+                        19.306255,
+                        51.275475
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Bełchatów", hu: "Bełchatówi erőmű", ro: "Centrala electrică Bełchatów", en: "Bełchatów Power Station"},
@@ -364,7 +409,268 @@ export const polandEconomicV2: POI[] = [
       fr: ["Forme avec Świnoujście le complexe portuaire Szczecin-Świnoujście.", "Situé sur l'Oder, à environ 65 km de la mer Baltique.", "Port important pour le commerce extérieur tchèque et slovaque.", "Spécialisé dans le vrac et les marchandises diverses.", "Important point de transbordement pour les engrais et les produits agricoles.", "Historiquement un port allemand majeur (Stettin).", "Connexion aux réseaux autoroutiers allemand et polonais.", "Employeur majeur dans la voïvodie de Poméranie occidentale.", "Transbordement de plus de 20 millions de tonnes de fret par an (au sein du complexe).", "Site important pour l'industrie éolienne offshore.", "Dispose de terminaux spéciaux pour le charbon, le minerai et les céréales.", "Porte d'entrée vers la région métropolitaine de Berlin-Brandebourg."],
     }, image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"},
   {
-    id: "poland-swinoujscie-lng-terminal-economic-v2",
+    id: "poland-swinoujscie-lng-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ostfort",
+                  "text": "Eine gut erhaltene Küstenfestung aus dem 19. Jahrhundert, die heute als Museum dient.",
+                  "category": "fortress",
+                  "coords": [
+                        14.285733,
+                        53.917572
+                  ]
+            },
+            {
+                  "name": "Latarnia morska Świnoujście",
+                  "text": "Einer der höchsten Backsteinleuchttürme der Welt an der polnischen Ostseeküste.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284202,
+                        53.916001
+                  ]
+            },
+            {
+                  "name": "Podziemne Miasto na Wyspie Wolin",
+                  "text": "Ein Museum in einem ehemaligen militärischen Bunkerkomplex auf der Insel Wolin.",
+                  "category": "museum",
+                  "coords": [
+                        14.333503,
+                        53.902408
+                  ]
+            },
+            {
+                  "name": "Park Linowy Bluszcz",
+                  "text": "Ein Abenteuer-Seilpark, der verschiedene Kletterrouten für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.244687,
+                        53.917104
+                  ]
+            },
+            {
+                  "name": "sala teatralna",
+                  "text": "Ein lokaler Ort für Theateraufführungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.240944,
+                        53.912921
+                  ]
+            },
+            {
+                  "name": "Baltic Park Molo Aquapark",
+                  "text": "Ein moderner Indoor-Wasserpark mit Rutschen, Pools und Wellnesseinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.261024,
+                        53.920404
+                  ]
+            },
+            {
+                  "name": "Muzeum statków na wodzie",
+                  "text": "Ein Schifffahrtsmuseum mit einer Sammlung historischer Schiffe auf dem Wasser.",
+                  "category": "museum",
+                  "coords": [
+                        14.243982,
+                        53.921505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Gerharda",
+                  "text": "Egy jól megőrzött 19. századi parti erőd, amely ma múzeumként működik.",
+                  "category": "fortress",
+                  "coords": [
+                        14.285733,
+                        53.917572
+                  ]
+            },
+            {
+                  "name": "Latarnia morska Świnoujście",
+                  "text": "A világ egyik legmagasabb téglaépítésű világítótornya a lengyel tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284202,
+                        53.916001
+                  ]
+            },
+            {
+                  "name": "Podziemne Miasto na Wyspie Wolin",
+                  "text": "Egy korábbi katonai bunkerrendszerben kialakított múzeum a Wolin-szigeten.",
+                  "category": "museum",
+                  "coords": [
+                        14.333503,
+                        53.902408
+                  ]
+            },
+            {
+                  "name": "Park Linowy Bluszcz",
+                  "text": "Kalandpark különböző mászóútvonalakkal a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.244687,
+                        53.917104
+                  ]
+            },
+            {
+                  "name": "sala teatralna",
+                  "text": "Színházi előadások és kulturális események helyi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        14.240944,
+                        53.912921
+                  ]
+            },
+            {
+                  "name": "Baltic Park Molo Aquapark",
+                  "text": "Modern fedett vízipark csúszdákkal, medencékkel és wellness szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.261024,
+                        53.920404
+                  ]
+            },
+            {
+                  "name": "Muzeum statków na wodzie",
+                  "text": "Tengerészeti múzeum történelmi hajók gyűjteményével a vízen.",
+                  "category": "museum",
+                  "coords": [
+                        14.243982,
+                        53.921505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Gerharda",
+                  "text": "Un fort de coastă din secolul al XIX-lea bine conservat, care servește acum ca muzeu.",
+                  "category": "fortress",
+                  "coords": [
+                        14.285733,
+                        53.917572
+                  ]
+            },
+            {
+                  "name": "Latarnia morska Świnoujście",
+                  "text": "Unul dintre cele mai înalte faruri de cărămidă din lume, situat pe coasta poloneză.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284202,
+                        53.916001
+                  ]
+            },
+            {
+                  "name": "Podziemne Miasto na Wyspie Wolin",
+                  "text": "Un muzeu situat într-un fost complex de buncăre militare de pe insula Wolin.",
+                  "category": "museum",
+                  "coords": [
+                        14.333503,
+                        53.902408
+                  ]
+            },
+            {
+                  "name": "Park Linowy Bluszcz",
+                  "text": "Un parc de aventură cu frânghii care oferă diverse trasee de cățărare pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        14.244687,
+                        53.917104
+                  ]
+            },
+            {
+                  "name": "sala teatralna",
+                  "text": "O locație locală pentru spectacole de teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.240944,
+                        53.912921
+                  ]
+            },
+            {
+                  "name": "Baltic Park Molo Aquapark",
+                  "text": "Un parc acvatic modern acoperit, cu tobogane, piscine și facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        14.261024,
+                        53.920404
+                  ]
+            },
+            {
+                  "name": "Muzeum statków na wodzie",
+                  "text": "Un muzeu maritim care prezintă o colecție de nave istorice pe apă.",
+                  "category": "museum",
+                  "coords": [
+                        14.243982,
+                        53.921505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Gerharda",
+                  "text": "A well-preserved 19th-century coastal fort that now serves as a museum.",
+                  "category": "fortress",
+                  "coords": [
+                        14.285733,
+                        53.917572
+                  ]
+            },
+            {
+                  "name": "Latarnia morska Świnoujście",
+                  "text": "One of the tallest brick lighthouses in the world, located on the Polish coast.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284202,
+                        53.916001
+                  ]
+            },
+            {
+                  "name": "Podziemne Miasto na Wyspie Wolin",
+                  "text": "A museum located in a former military bunker complex on Wolin Island.",
+                  "category": "museum",
+                  "coords": [
+                        14.333503,
+                        53.902408
+                  ]
+            },
+            {
+                  "name": "Park Linowy Bluszcz",
+                  "text": "An adventure rope park offering various climbing routes for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        14.244687,
+                        53.917104
+                  ]
+            },
+            {
+                  "name": "sala teatralna",
+                  "text": "A local venue for theatrical performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.240944,
+                        53.912921
+                  ]
+            },
+            {
+                  "name": "Baltic Park Molo Aquapark",
+                  "text": "A modern indoor water park with slides, pools, and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        14.261024,
+                        53.920404
+                  ]
+            },
+            {
+                  "name": "Muzeum statków na wodzie",
+                  "text": "A maritime museum featuring a collection of historic ships on the water.",
+                  "category": "museum",
+                  "coords": [
+                        14.243982,
+                        53.921505
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "industry",
     name: { de: "LNG-Terminal Swinemünde", hu: "Świnoujściei LNG-terminál", ro: "Terminalul LNG Świnoujście", en: "Świnoujście LNG Terminal"},
@@ -950,7 +1256,88 @@ export const polandEconomicV2: POI[] = [
       fr: ["Située dans le bassin houiller de Turoszów, à la frontière polono-tchéco-allemande.", "Alimente directement la centrale électrique PGE Turów en lignite.", "La mine atteint une profondeur de plus de 200 mètres.", "A fait l'objet d'une procédure devant la Cour de justice de l'Union européenne.", "Un pilier économique important pour la ville de Bogatynia.", "La durée d'exploitation prévue pour l'extraction du charbon s'étend jusqu'en 2044."],
     }, image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"},
   {
-    id: "poland-kozienice-power-station-economic-v2",
+    id: "poland-kozienice-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "użytek 30",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe des Kraftwerks Kozienice.",
+                  "category": "natural",
+                  "coords": [
+                        21.481513,
+                        51.645835
+                  ]
+            },
+            {
+                  "name": "Dzwonnica kościelna",
+                  "text": "Ein Glockenturm in der Nähe des Gebiets des Kraftwerks Kozienice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.484302,
+                        51.656733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "użytek 30",
+                  "text": "Védett természeti terület a Kozienicei Erőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.481513,
+                        51.645835
+                  ]
+            },
+            {
+                  "name": "Dzwonnica kościelna",
+                  "text": "Egy templomi harangtorony a Kozienicei Erőmű környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.484302,
+                        51.656733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "użytek 30",
+                  "text": "O zonă naturală protejată lângă Centrala Electrică Kozienice.",
+                  "category": "natural",
+                  "coords": [
+                        21.481513,
+                        51.645835
+                  ]
+            },
+            {
+                  "name": "Dzwonnica kościelna",
+                  "text": "O clădire cu clopotniță situată în apropierea zonei Centralei Electrice Kozienice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.484302,
+                        51.656733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "użytek 30",
+                  "text": "A protected natural area near the Kozienice Power Station.",
+                  "category": "natural",
+                  "coords": [
+                        21.481513,
+                        51.645835
+                  ]
+            },
+            {
+                  "name": "Dzwonnica kościelna",
+                  "text": "A church bell tower building located in the vicinity of the Kozienice Power Station area.",
+                  "category": "landmark",
+                  "coords": [
+                        21.484302,
+                        51.656733
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Kozienice", hu: "Kozienicei erőmű", ro: "Centrala electrică Kozienice", en: "Kozienice Power Station"},

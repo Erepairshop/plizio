@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const norwayEconomicV2: POI[] = [
 
   {
-    id: "norway-kollsnes-gas-plant-economic-v2",
+    id: "norway-kollsnes-gas-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Greipingen naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Nähe der Gasanlage Kollsnes.",
+                  "category": "natural",
+                  "coords": [
+                        4.831884,
+                        60.48997
+                  ]
+            },
+            {
+                  "name": "Ullebroten naturreservat",
+                  "text": "Ein geschütztes Naturareal bei der Kollsnes-Gasanlage.",
+                  "category": "natural",
+                  "coords": [
+                        4.85038,
+                        60.505647
+                  ]
+            },
+            {
+                  "name": "Rambogen",
+                  "text": "Ein Aussichtspunkt in der Nähe der Kollsnes-Gasanlage.",
+                  "category": "natural",
+                  "coords": [
+                        4.860071,
+                        60.521473
+                  ]
+            },
+            {
+                  "name": "Blomvåg kyrkje",
+                  "text": "Eine Kirche in der Nähe der Kollsnes-Gasanlage.",
+                  "category": "religious",
+                  "coords": [
+                        4.877181,
+                        60.530288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greipingen naturreservat",
+                  "text": "Természetvédelmi terület a Kollsnes gázüzem közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.831884,
+                        60.48997
+                  ]
+            },
+            {
+                  "name": "Ullebroten naturreservat",
+                  "text": "Védett természeti terület a Kollsnes gázüzemnél.",
+                  "category": "natural",
+                  "coords": [
+                        4.85038,
+                        60.505647
+                  ]
+            },
+            {
+                  "name": "Rambogen",
+                  "text": "Kilátópont a Kollsnes gázüzem közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.860071,
+                        60.521473
+                  ]
+            },
+            {
+                  "name": "Blomvåg kyrkje",
+                  "text": "Templom a Kollsnes gázüzem közelében.",
+                  "category": "religious",
+                  "coords": [
+                        4.877181,
+                        60.530288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greipingen naturreservat",
+                  "text": "O rezervație naturală în apropierea stației de gaz Kollsnes.",
+                  "category": "natural",
+                  "coords": [
+                        4.831884,
+                        60.48997
+                  ]
+            },
+            {
+                  "name": "Ullebroten naturreservat",
+                  "text": "O zonă naturală protejată lângă stația de gaz Kollsnes.",
+                  "category": "natural",
+                  "coords": [
+                        4.85038,
+                        60.505647
+                  ]
+            },
+            {
+                  "name": "Rambogen",
+                  "text": "Un punct de belvedere în apropierea stației de gaz Kollsnes.",
+                  "category": "natural",
+                  "coords": [
+                        4.860071,
+                        60.521473
+                  ]
+            },
+            {
+                  "name": "Blomvåg kyrkje",
+                  "text": "O biserică situată în apropierea stației de gaz Kollsnes.",
+                  "category": "religious",
+                  "coords": [
+                        4.877181,
+                        60.530288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greipingen naturreservat",
+                  "text": "A nature reserve located near the Kollsnes Gas Plant.",
+                  "category": "natural",
+                  "coords": [
+                        4.831884,
+                        60.48997
+                  ]
+            },
+            {
+                  "name": "Ullebroten naturreservat",
+                  "text": "A protected nature area by the Kollsnes Gas Plant.",
+                  "category": "natural",
+                  "coords": [
+                        4.85038,
+                        60.505647
+                  ]
+            },
+            {
+                  "name": "Rambogen",
+                  "text": "A viewpoint located near the Kollsnes Gas Plant.",
+                  "category": "natural",
+                  "coords": [
+                        4.860071,
+                        60.521473
+                  ]
+            },
+            {
+                  "name": "Blomvåg kyrkje",
+                  "text": "A church situated near the Kollsnes Gas Plant.",
+                  "category": "religious",
+                  "coords": [
+                        4.877181,
+                        60.530288
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Gasanlage Kollsnes", hu: "Kollsnesi gázüzem", ro: "Uzina de gaze Kollsnes", en: "Kollsnes Gas Plant" },
@@ -93,7 +246,304 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-karmoy-aluminum-plant-economic-v2.webp",
   },
   {
-    id: "norway-orkanger-industry-park-economic-v2",
+    id: "norway-orkanger-industry-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thamspaviljongen",
+                  "text": "Ein einzigartiges Gebäude im Stabkirchenstil, das für die Weltausstellung 1893 in Chicago gebaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        9.845705,
+                        63.299913
+                  ]
+            },
+            {
+                  "name": "Geitryggen",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Gegend von Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.849002,
+                        63.270741
+                  ]
+            },
+            {
+                  "name": "Buvikløypa",
+                  "text": "Ein Aussichtspunkt an einem Wanderweg in der Region Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.881853,
+                        63.313488
+                  ]
+            },
+            {
+                  "name": "Ustsætra",
+                  "text": "Die Überreste eines historischen Bergbauernhofs in der Nähe von Orkanger.",
+                  "category": "historical",
+                  "coords": [
+                        9.812545,
+                        63.292106
+                  ]
+            },
+            {
+                  "name": "Raudhåmmåren",
+                  "text": "Ein natürlicher Aussichtspunkt mit Blick auf die Landschaft bei Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.865648,
+                        63.298002
+                  ]
+            },
+            {
+                  "name": "Rokollen",
+                  "text": "Ein Aussichtspunkt auf einem Hügel mit Blick auf die norwegische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.833805,
+                        63.330952
+                  ]
+            },
+            {
+                  "name": "Hvilebenken",
+                  "text": "Ein Rastplatz und Aussichtspunkt mit Blick auf die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.857881,
+                        63.290686
+                  ]
+            },
+            {
+                  "name": "Rødåsen",
+                  "text": "Eine lokale Naturattraktion in der Gegend von Orkanger.",
+                  "category": "landmark",
+                  "coords": [
+                        9.873246,
+                        63.293507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thamspaviljongen",
+                  "text": "Egyedülálló dongatemplom stílusú épület, amelyet az 1893-as chicagói világkiállításra építettek.",
+                  "category": "museum",
+                  "coords": [
+                        9.845705,
+                        63.299913
+                  ]
+            },
+            {
+                  "name": "Geitryggen",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik Orkanger környékére.",
+                  "category": "natural",
+                  "coords": [
+                        9.849002,
+                        63.270741
+                  ]
+            },
+            {
+                  "name": "Buvikløypa",
+                  "text": "Kilátóhely egy túraútvonal mentén Orkanger régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        9.881853,
+                        63.313488
+                  ]
+            },
+            {
+                  "name": "Ustsætra",
+                  "text": "Egy történelmi hegyi tanya maradványai Orkanger közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.812545,
+                        63.292106
+                  ]
+            },
+            {
+                  "name": "Raudhåmmåren",
+                  "text": "Természetes kilátóhely, ahonnan rálátni az Orkanger környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.865648,
+                        63.298002
+                  ]
+            },
+            {
+                  "name": "Rokollen",
+                  "text": "Dombvidéki kilátóhely, amely rálátást biztosít a norvég tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.833805,
+                        63.330952
+                  ]
+            },
+            {
+                  "name": "Hvilebenken",
+                  "text": "Pihenő- és kilátóhely, ahonnan rálátni a helyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.857881,
+                        63.290686
+                  ]
+            },
+            {
+                  "name": "Rødåsen",
+                  "text": "Helyi természeti látványosság Orkanger környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.873246,
+                        63.293507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thamspaviljongen",
+                  "text": "O clădire unică în stilul unei biserici de lemn, construită pentru Expoziția Mondială din 1893 de la Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        9.845705,
+                        63.299913
+                  ]
+            },
+            {
+                  "name": "Geitryggen",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra zonei Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.849002,
+                        63.270741
+                  ]
+            },
+            {
+                  "name": "Buvikløypa",
+                  "text": "Un punct de observație situat pe un traseu din regiunea Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.881853,
+                        63.313488
+                  ]
+            },
+            {
+                  "name": "Ustsætra",
+                  "text": "Rămășițele unei ferme montane istorice situate lângă Orkanger.",
+                  "category": "historical",
+                  "coords": [
+                        9.812545,
+                        63.292106
+                  ]
+            },
+            {
+                  "name": "Raudhåmmåren",
+                  "text": "Un punct de belvedere natural cu vedere la peisajul de lângă Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.865648,
+                        63.298002
+                  ]
+            },
+            {
+                  "name": "Rokollen",
+                  "text": "Un punct de belvedere pe un deal care oferă vederi asupra peisajului norvegian.",
+                  "category": "natural",
+                  "coords": [
+                        9.833805,
+                        63.330952
+                  ]
+            },
+            {
+                  "name": "Hvilebenken",
+                  "text": "Un loc de odihnă și belvedere care oferă vederi asupra peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        9.857881,
+                        63.290686
+                  ]
+            },
+            {
+                  "name": "Rødåsen",
+                  "text": "O atracție naturală locală în zona Orkanger.",
+                  "category": "landmark",
+                  "coords": [
+                        9.873246,
+                        63.293507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thamspaviljongen",
+                  "text": "A unique stave-church style building originally built for the 1893 World's Fair in Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        9.845705,
+                        63.299913
+                  ]
+            },
+            {
+                  "name": "Geitryggen",
+                  "text": "A scenic viewpoint offering panoramic views of the Orkanger area.",
+                  "category": "natural",
+                  "coords": [
+                        9.849002,
+                        63.270741
+                  ]
+            },
+            {
+                  "name": "Buvikløypa",
+                  "text": "A viewpoint located along a trail in the Orkanger region.",
+                  "category": "natural",
+                  "coords": [
+                        9.881853,
+                        63.313488
+                  ]
+            },
+            {
+                  "name": "Ustsætra",
+                  "text": "The remains of a historic mountain farm located near Orkanger.",
+                  "category": "historical",
+                  "coords": [
+                        9.812545,
+                        63.292106
+                  ]
+            },
+            {
+                  "name": "Raudhåmmåren",
+                  "text": "A natural viewpoint overlooking the landscape near Orkanger.",
+                  "category": "natural",
+                  "coords": [
+                        9.865648,
+                        63.298002
+                  ]
+            },
+            {
+                  "name": "Rokollen",
+                  "text": "A hilltop viewpoint providing vistas of the surrounding Norwegian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.833805,
+                        63.330952
+                  ]
+            },
+            {
+                  "name": "Hvilebenken",
+                  "text": "A resting spot and viewpoint offering views of the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.857881,
+                        63.290686
+                  ]
+            },
+            {
+                  "name": "Rødåsen",
+                  "text": "A local natural attraction in the Orkanger area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.873246,
+                        63.293507
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Gewerbepark Orkanger", hu: "Orkangeri ipari park", ro: "Parcul industrial Orkanger", en: "Orkanger Industrial Park" },
@@ -138,7 +588,52 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-orkanger-industry-park-economic-v2.webp",
   },
   {
-    id: "norway-glomfjord-industrial-site-economic-v2",
+    id: "norway-glomfjord-industrial-site-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glomfjord kirke",
+                  "text": "Eine moderne Kirche für die Gemeinde des norwegischen Ortes Glomfjord.",
+                  "category": "religious",
+                  "coords": [
+                        13.958915,
+                        66.816457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glomfjord kirke",
+                  "text": "Modern templom a norvégiai Glomfjord település közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        13.958915,
+                        66.816457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glomfjord kirke",
+                  "text": "O biserică modernă pentru comunitatea din localitatea norvegiană Glomfjord.",
+                  "category": "religious",
+                  "coords": [
+                        13.958915,
+                        66.816457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glomfjord kirke",
+                  "text": "A modern church serving the community of Glomfjord in Norway.",
+                  "category": "religious",
+                  "coords": [
+                        13.958915,
+                        66.816457
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Industriegebiet Glomfjord", hu: "Glomfjord ipari övezet", ro: "Zona industrială Glomfjord", en: "Glomfjord Industrial Site" },
@@ -228,7 +723,52 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-skjervoy-fishing-port-economic-v2.webp",
   },
   {
-    id: "norway-hitra-salmon-farm-economic-v2",
+    id: "norway-hitra-salmon-farm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sjømyråsen naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Hitra, das für seine Moorlandschaften und Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.731625,
+                        63.625963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sjømyråsen naturreservat",
+                  "text": "Természetvédelmi terület Hitra szigetén, amely lápvidékeiről és biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.731625,
+                        63.625963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sjømyråsen naturreservat",
+                  "text": "O rezervație naturală de pe insula Hitra, cunoscută pentru zonele sale mlăștinoase și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        8.731625,
+                        63.625963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sjømyråsen naturreservat",
+                  "text": "A nature reserve on Hitra island known for its mire landscapes and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        8.731625,
+                        63.625963
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Lachsfarm Hitra", hu: "Hitrai lazacfarm", ro: "Ferma de somon Hitra", en: "Hitra Salmon Farm" },
@@ -363,7 +903,268 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-molde-industrial-cluster-economic-v2.webp",
   },
   {
-    id: "norway-kongsvinger-business-park-economic-v2",
+    id: "norway-kongsvinger-business-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Die Festung Kongsvinger ist eine historische Verteidigungsanlage, die über der Stadt Kongsvinger thront.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "Die Tråstad skanse ist ein ehemaliges Verteidigungswerk in Kongsvinger mit historischer Bedeutung.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Aamodtgården ist ein lokales Museum in Kongsvinger, das Einblicke in die regionale Geschichte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Das Kongsvinger Museum dokumentiert das kulturelle Erbe und die Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Das Rådhusteatret in Kongsvinger dient als Theater und Kino für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Das Kvinnemuseet in Kongsvinger ist ein Museum, das der Geschichte und den Rechten der Frauen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "SceneU ist ein Kulturzentrum in Kongsvinger, das Raum für verschiedene künstlerische Darbietungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Kongsvinger erődítménye egy történelmi védmű, amely Kongsvinger városa felett magasodik.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "A Tråstad skanse egy egykori védelmi sánc Kongsvingerben, amely fontos történelmi emlékhely.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Az Aamodtgården egy helyi múzeum Kongsvingerben, amely a környék történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "A Kongsvinger múzeum a régió kulturális örökségét és történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "A Kongsvingerben található Rådhusteatret színházként és moziként is működik, kulturális eseményeknek adva otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "A kongsvingeri Kvinnemuseet a nők történelmének és jogainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "A SceneU egy művészeti központ Kongsvingerben, amely helyszínt biztosít különféle előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Cetatea Kongsvinger este o fortificație istorică ce domină orașul Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "Tråstad skanse este o fostă lucrare de apărare din Kongsvinger, având o însemnătate istorică deosebită.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Aamodtgården este un muzeu local din Kongsvinger care oferă perspective asupra istoriei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Muzeul Kongsvinger documentează moștenirea culturală și istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Rådhusteatret din Kongsvinger funcționează ca teatru și cinematograf pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Kvinnemuseet din Kongsvinger este un muzeu dedicat istoriei și drepturilor femeilor.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "SceneU este un centru de artă din Kongsvinger care oferă spațiu pentru diverse spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Kongsvinger festning is a historic fortress overlooking the town of Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "Tråstad skanse is a former defensive fortification in Kongsvinger with historical significance.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Aamodtgården is a museum in Kongsvinger showcasing regional history and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Kongsvinger museum documents the cultural heritage and history of the local area.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Rådhusteatret Kongsvinger is a venue serving as both a theatre and a cinema for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Kvinnemuseet in Kongsvinger is a museum dedicated to the history and roles of women in society.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "SceneU is an arts centre in Kongsvinger providing space for various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Gewerbepark Kongsvinger", hu: "Kongsvingeri üzleti park", ro: "Parcul de afaceri Kongsvinger", en: "Kongsvinger Business Park" },
@@ -408,7 +1209,304 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-kongsvinger-business-park-economic-v2.webp",
   },
   {
-    id: "norway-stord-maritime-industry-economic-v2",
+    id: "norway-stord-maritime-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglatjødno naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Stord, das für seine feuchten Moorlandschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.454793,
+                        59.806324
+                  ]
+            },
+            {
+                  "name": "Hystad naturreservat",
+                  "text": "Naturschutzgebiet auf Stord mit einem der nördlichsten Küsten-Eichenwälder Norwegens.",
+                  "category": "natural",
+                  "coords": [
+                        5.534219,
+                        59.79348
+                  ]
+            },
+            {
+                  "name": "Stord maritime museum",
+                  "text": "Ein Museum in Stord, das die maritime Geschichte und Industriekultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.503804,
+                        59.781641
+                  ]
+            },
+            {
+                  "name": "Gruvemuseet på Litlabø",
+                  "text": "Ein Bergbaumuseum in Litlabø, das die Geschichte des Schwefelkiesabbaus auf Stord dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.421673,
+                        59.790822
+                  ]
+            },
+            {
+                  "name": "Aker Stord industrimuseum",
+                  "text": "Ein Industriemuseum in Stord, das sich auf die Geschichte der lokalen Werft- und Ölindustrie konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        5.496557,
+                        59.766339
+                  ]
+            },
+            {
+                  "name": "Sponavikjo",
+                  "text": "Ein beliebter kleiner Strand und Badeplatz in der Nähe von Leirvik auf Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.515044,
+                        59.774439
+                  ]
+            },
+            {
+                  "name": "Leirvik kystfort",
+                  "text": "Überreste einer Küstenfestung aus dem Zweiten Weltkrieg in Leirvik auf Stord.",
+                  "category": "fortress",
+                  "coords": [
+                        5.493887,
+                        59.768964
+                  ]
+            },
+            {
+                  "name": "Apalvika",
+                  "text": "Ein idyllischer Strandabschnitt auf der Insel Stord, ideal zum Entspannen und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.535865,
+                        59.791264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglatjødno naturreservat",
+                  "text": "Természetvédelmi terület Stord szigetén, amely nedves lápos vidékeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.454793,
+                        59.806324
+                  ]
+            },
+            {
+                  "name": "Hystad naturreservat",
+                  "text": "Természetvédelmi terület Stord szigetén, Norvégia egyik legészakibb parti tölgyerdőjével.",
+                  "category": "natural",
+                  "coords": [
+                        5.534219,
+                        59.79348
+                  ]
+            },
+            {
+                  "name": "Stord maritime museum",
+                  "text": "Múzeum Stordban, amely a régió tengerészeti történelmét és ipari kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.503804,
+                        59.781641
+                  ]
+            },
+            {
+                  "name": "Gruvemuseet på Litlabø",
+                  "text": "Bányászati múzeum Litlabőben, amely a kénkovand-bányászat történetét mutatja be Stord szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        5.421673,
+                        59.790822
+                  ]
+            },
+            {
+                  "name": "Aker Stord industrimuseum",
+                  "text": "Ipari múzeum Stordban, amely a helyi hajógyártás és olajipar történetére fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        5.496557,
+                        59.766339
+                  ]
+            },
+            {
+                  "name": "Sponavikjo",
+                  "text": "Népszerű kis strand és fürdőhely Leirvik közelében, Stord szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.515044,
+                        59.774439
+                  ]
+            },
+            {
+                  "name": "Leirvik kystfort",
+                  "text": "Egy második világháborús tengerparti erőd maradványai Leirvikben, Stord szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        5.493887,
+                        59.768964
+                  ]
+            },
+            {
+                  "name": "Apalvika",
+                  "text": "Idilli tengerparti szakasz Stord szigetén, amely ideális pihenésre és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        5.535865,
+                        59.791264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglatjødno naturreservat",
+                  "text": "O rezervație naturală pe insula Stord, cunoscută pentru peisajele sale de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        5.454793,
+                        59.806324
+                  ]
+            },
+            {
+                  "name": "Hystad naturreservat",
+                  "text": "Rezervație naturală pe Stord, care adăpostește una dintre cele mai nordice păduri de stejar din Norvegia.",
+                  "category": "natural",
+                  "coords": [
+                        5.534219,
+                        59.79348
+                  ]
+            },
+            {
+                  "name": "Stord maritime museum",
+                  "text": "Un muzeu în Stord care prezintă istoria maritimă și cultura industrială a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        5.503804,
+                        59.781641
+                  ]
+            },
+            {
+                  "name": "Gruvemuseet på Litlabø",
+                  "text": "Un muzeu al mineritului în Litlabø, care documentează istoria extracției de pirită pe Stord.",
+                  "category": "museum",
+                  "coords": [
+                        5.421673,
+                        59.790822
+                  ]
+            },
+            {
+                  "name": "Aker Stord industrimuseum",
+                  "text": "Un muzeu industrial în Stord, axat pe istoria șantierului naval local și a industriei petroliere.",
+                  "category": "museum",
+                  "coords": [
+                        5.496557,
+                        59.766339
+                  ]
+            },
+            {
+                  "name": "Sponavikjo",
+                  "text": "O mică plajă populară și loc de scăldat lângă Leirvik pe insula Stord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.515044,
+                        59.774439
+                  ]
+            },
+            {
+                  "name": "Leirvik kystfort",
+                  "text": "Resturile unei fortificații de coastă din al Doilea Război Mondial în Leirvik, pe Stord.",
+                  "category": "fortress",
+                  "coords": [
+                        5.493887,
+                        59.768964
+                  ]
+            },
+            {
+                  "name": "Apalvika",
+                  "text": "O porțiune de plajă idilică pe insula Stord, ideală pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        5.535865,
+                        59.791264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglatjødno naturreservat",
+                  "text": "A nature reserve on Stord island known for its wetland and marsh landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        5.454793,
+                        59.806324
+                  ]
+            },
+            {
+                  "name": "Hystad naturreservat",
+                  "text": "Nature reserve on Stord containing one of the northernmost coastal oak forests in Norway.",
+                  "category": "natural",
+                  "coords": [
+                        5.534219,
+                        59.79348
+                  ]
+            },
+            {
+                  "name": "Stord maritime museum",
+                  "text": "A museum in Stord presenting the maritime history and industrial culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        5.503804,
+                        59.781641
+                  ]
+            },
+            {
+                  "name": "Gruvemuseet på Litlabø",
+                  "text": "A mining museum in Litlabø documenting the history of pyrite mining on Stord.",
+                  "category": "museum",
+                  "coords": [
+                        5.421673,
+                        59.790822
+                  ]
+            },
+            {
+                  "name": "Aker Stord industrimuseum",
+                  "text": "An industrial museum in Stord focusing on the history of the local shipyard and oil industry.",
+                  "category": "museum",
+                  "coords": [
+                        5.496557,
+                        59.766339
+                  ]
+            },
+            {
+                  "name": "Sponavikjo",
+                  "text": "A popular small beach and swimming spot near Leirvik on Stord island.",
+                  "category": "recreational",
+                  "coords": [
+                        5.515044,
+                        59.774439
+                  ]
+            },
+            {
+                  "name": "Leirvik kystfort",
+                  "text": "Remains of a World War II coastal fortification in Leirvik on Stord.",
+                  "category": "fortress",
+                  "coords": [
+                        5.493887,
+                        59.768964
+                  ]
+            },
+            {
+                  "name": "Apalvika",
+                  "text": "An idyllic beach area on Stord island, ideal for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        5.535865,
+                        59.791264
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Maritime Industrie Stord", hu: "Stordi tengerészeti ipar", ro: "Industria maritimă Stord", en: "Stord Maritime Industry" },
@@ -678,7 +1776,304 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-skien-industrial-site-economic-v2.webp",
   },
   {
-    id: "norway-notodden-industrial-cluster-economic-v2",
+    id: "norway-notodden-industrial-cluster-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Notodden, das wichtige lokale Ökosysteme bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Telemark Kunstmuseum - Verdensarvsenteret",
+                  "text": "Kunstmuseum und Welterbezentrum in Notodden, das Kunst und Industriegeschichte verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        9.261997,
+                        59.567482
+                  ]
+            },
+            {
+                  "name": "Bok & Blueshuset",
+                  "text": "Ein Kulturzentrum in Notodden, das eine Bibliothek, ein Kino und ein Blues-Museum beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        9.254312,
+                        59.556101
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Ein Aussichtspunkt in der Nähe des Industriekomplexes von Notodden mit weitem Panorama.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Eikeskardet",
+                  "text": "Ein Aussichtspunkt bei Notodden, der einen Blick über die Stadt und die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.302539,
+                        59.553088
+                  ]
+            },
+            {
+                  "name": "Mikrofonen",
+                  "text": "Ein Denkmal in Notodden, das oft mit der bedeutenden Blues-Tradition der Stadt assoziiert wird.",
+                  "category": "historical",
+                  "coords": [
+                        9.255512,
+                        59.55749
+                  ]
+            },
+            {
+                  "name": "Galleri Grette",
+                  "text": "Eine Kunstgalerie in Notodden, die Werke lokaler und nationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.258397,
+                        59.558427
+                  ]
+            },
+            {
+                  "name": "Tre",
+                  "text": "Ein markanter Baum oder eine Naturattraktion im Bereich des Notodden-Industrieclusters.",
+                  "category": "landmark",
+                  "coords": [
+                        9.248639,
+                        59.556498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "Természetvédelmi terület Notodden közelében, amely megőrzi a fontos helyi ökoszisztémákat.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Telemark Kunstmuseum - Verdensarvsenteret",
+                  "text": "Művészeti múzeum és világörökségi központ Notoddenben, amely a művészetet és az ipartörténetet ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        9.261997,
+                        59.567482
+                  ]
+            },
+            {
+                  "name": "Bok & Blueshuset",
+                  "text": "Kulturális központ Notoddenben, amely könyvtárnak, mozinak és egy blues-múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.254312,
+                        59.556101
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Kilátóhely a notoddeni ipari terület közelében, széles panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Eikeskardet",
+                  "text": "Kilátóhely Notodden közelében, ahonnan rálátás nyílik a városra és a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.302539,
+                        59.553088
+                  ]
+            },
+            {
+                  "name": "Mikrofonen",
+                  "text": "Emlékmű Notoddenben, amelyet gyakran a város jelentős blues-hagyományaival azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        9.255512,
+                        59.55749
+                  ]
+            },
+            {
+                  "name": "Galleri Grette",
+                  "text": "Művészeti galéria Notoddenben, amely helyi és nemzeti művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.258397,
+                        59.558427
+                  ]
+            },
+            {
+                  "name": "Tre",
+                  "text": "Egy jellegzetes fa vagy természeti látványosság a notoddeni ipari területen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.248639,
+                        59.556498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "O rezervație naturală lângă Notodden, care conservă ecosisteme locale importante.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Telemark Kunstmuseum - Verdensarvsenteret",
+                  "text": "Muzeu de artă și centru al patrimoniului mondial în Notodden, care îmbină arta cu istoria industrială.",
+                  "category": "museum",
+                  "coords": [
+                        9.261997,
+                        59.567482
+                  ]
+            },
+            {
+                  "name": "Bok & Blueshuset",
+                  "text": "Un centru cultural în Notodden care găzduiește o bibliotecă, un cinematograf și un muzeu de blues.",
+                  "category": "museum",
+                  "coords": [
+                        9.254312,
+                        59.556101
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Un punct de observație lângă complexul industrial din Notodden, oferind o panoramă largă.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Eikeskardet",
+                  "text": "Un punct de belvedere lângă Notodden, oferind vedere asupra orașului și a peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        9.302539,
+                        59.553088
+                  ]
+            },
+            {
+                  "name": "Mikrofonen",
+                  "text": "Un monument în Notodden, adesea asociat cu importanta tradiție blues a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.255512,
+                        59.55749
+                  ]
+            },
+            {
+                  "name": "Galleri Grette",
+                  "text": "O galerie de artă în Notodden care expune lucrări ale artiștilor locali și naționali.",
+                  "category": "museum",
+                  "coords": [
+                        9.258397,
+                        59.558427
+                  ]
+            },
+            {
+                  "name": "Tre",
+                  "text": "Un arbore proeminent sau o atracție naturală în zona complexului industrial Notodden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.248639,
+                        59.556498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "A nature reserve near Notodden preserving important local ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Telemark Art Museum - World Heritage Centre",
+                  "text": "Art museum and world heritage centre in Notodden combining art and industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        9.261997,
+                        59.567482
+                  ]
+            },
+            {
+                  "name": "Bok & Blueshuset",
+                  "text": "A cultural center in Notodden housing a library, cinema, and a blues museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.254312,
+                        59.556101
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "An observation point near the Notodden industrial cluster with a wide panorama.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Eikeskardet",
+                  "text": "A viewpoint near Notodden offering views over the town and the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.302539,
+                        59.553088
+                  ]
+            },
+            {
+                  "name": "Mikrofonen",
+                  "text": "A monument in Notodden, often associated with the town's significant blues tradition.",
+                  "category": "historical",
+                  "coords": [
+                        9.255512,
+                        59.55749
+                  ]
+            },
+            {
+                  "name": "Galleri Grette",
+                  "text": "An art gallery in Notodden exhibiting works by local and national artists.",
+                  "category": "museum",
+                  "coords": [
+                        9.258397,
+                        59.558427
+                  ]
+            },
+            {
+                  "name": "Tree",
+                  "text": "A prominent tree or natural attraction within the Notodden industrial cluster area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.248639,
+                        59.556498
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Industriecluster Notodden", hu: "Notoddeni ipari klaszter", ro: "Clusterul industrial Notodden", en: "Notodden Industrial Cluster" },
@@ -1038,7 +2433,268 @@ export const norwayEconomicV2: POI[] = [
     image: "/poi-images/norway-trondheim-tech-park-economic-v2.webp",
   },
   {
-    id: "norway-elverum-industry-hub-economic-v2",
+    id: "norway-elverum-industry-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terningen skanse",
+                  "text": "Eine historische Verteidigungsanlage bei Elverum aus dem späten 17. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        11.508334,
+                        60.88339
+                  ]
+            },
+            {
+                  "name": "Norsk Skogmuseum",
+                  "text": "Ein Museum in Elverum, das der Jagd, dem Fischfang und der Forstwirtschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.559806,
+                        60.870106
+                  ]
+            },
+            {
+                  "name": "Christiansfjeld festning",
+                  "text": "Die Überreste einer Festung auf einem Hügel mit Blick auf Elverum.",
+                  "category": "fortress",
+                  "coords": [
+                        11.570482,
+                        60.883891
+                  ]
+            },
+            {
+                  "name": "Grindalen Skanse",
+                  "text": "Eine ehemalige militärische Schanze zur Verteidigung der Region Elverum.",
+                  "category": "fortress",
+                  "coords": [
+                        11.549104,
+                        60.887138
+                  ]
+            },
+            {
+                  "name": "Glomdalsmuseet",
+                  "text": "Eines der größten Freilichtmuseen Norwegens mit Fokus auf die regionale Kulturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        11.552537,
+                        60.8743
+                  ]
+            },
+            {
+                  "name": "Gaarder gård",
+                  "text": "Ein historisches Herrenhaus in Elverum mit einer bedeutenden Architekturgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        11.562593,
+                        60.879052
+                  ]
+            },
+            {
+                  "name": "Pin, Red",
+                  "text": "Ein Aussichtspunkt bei Elverum, der weite Blicke über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.574315,
+                        60.888678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terningen skanse",
+                  "text": "Történelmi védmű Elverum mellett a 17. század végéről.",
+                  "category": "fortress",
+                  "coords": [
+                        11.508334,
+                        60.88339
+                  ]
+            },
+            {
+                  "name": "Norsk Skogmuseum",
+                  "text": "Elverumi múzeum, amely a vadászatnak, halászatnak és erdőgazdálkodásnak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        11.559806,
+                        60.870106
+                  ]
+            },
+            {
+                  "name": "Christiansfjeld festning",
+                  "text": "Egy dombtetőn lévő erőd maradványai, kilátással Elverumra.",
+                  "category": "fortress",
+                  "coords": [
+                        11.570482,
+                        60.883891
+                  ]
+            },
+            {
+                  "name": "Grindalen Skanse",
+                  "text": "Egykori katonai sánc az elverumi régió védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        11.549104,
+                        60.887138
+                  ]
+            },
+            {
+                  "name": "Glomdalsmuseet",
+                  "text": "Norvégia egyik legnagyobb szabadtéri múzeuma, a regionális kultúrtörténetre összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        11.552537,
+                        60.8743
+                  ]
+            },
+            {
+                  "name": "Gaarder gård",
+                  "text": "Történelmi udvarház Elverumban, jelentős építészeti múlttal.",
+                  "category": "historical",
+                  "coords": [
+                        11.562593,
+                        60.879052
+                  ]
+            },
+            {
+                  "name": "Pin, Red",
+                  "text": "Kilátópont Elverum közelében, amely széles kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        11.574315,
+                        60.888678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terningen skanse",
+                  "text": "O fortificație istorică lângă Elverum de la sfârșitul secolului al XVII-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        11.508334,
+                        60.88339
+                  ]
+            },
+            {
+                  "name": "Norsk Skogmuseum",
+                  "text": "Un muzeu în Elverum dedicat vânătorii, pescuitului și silviculturii.",
+                  "category": "museum",
+                  "coords": [
+                        11.559806,
+                        60.870106
+                  ]
+            },
+            {
+                  "name": "Christiansfjeld festning",
+                  "text": "Resturile unei fortărețe pe un deal cu vedere spre Elverum.",
+                  "category": "fortress",
+                  "coords": [
+                        11.570482,
+                        60.883891
+                  ]
+            },
+            {
+                  "name": "Grindalen Skanse",
+                  "text": "O fostă fortificație militară pentru apărarea regiunii Elverum.",
+                  "category": "fortress",
+                  "coords": [
+                        11.549104,
+                        60.887138
+                  ]
+            },
+            {
+                  "name": "Glomdalsmuseet",
+                  "text": "Unul dintre cele mai mari muzee în aer liber din Norvegia, axat pe istoria culturală regională.",
+                  "category": "museum",
+                  "coords": [
+                        11.552537,
+                        60.8743
+                  ]
+            },
+            {
+                  "name": "Gaarder gård",
+                  "text": "Un conac istoric în Elverum cu o istorie arhitecturală semnificativă.",
+                  "category": "historical",
+                  "coords": [
+                        11.562593,
+                        60.879052
+                  ]
+            },
+            {
+                  "name": "Pin, Red",
+                  "text": "Un punct de belvedere lângă Elverum care oferă vederi largi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        11.574315,
+                        60.888678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terningen skanse",
+                  "text": "A historical fortification near Elverum dating from the late 17th century.",
+                  "category": "fortress",
+                  "coords": [
+                        11.508334,
+                        60.88339
+                  ]
+            },
+            {
+                  "name": "Norsk Skogmuseum",
+                  "text": "A museum in Elverum dedicated to hunting, fishing, and forestry.",
+                  "category": "museum",
+                  "coords": [
+                        11.559806,
+                        60.870106
+                  ]
+            },
+            {
+                  "name": "Christiansfjeld festning",
+                  "text": "The remains of a fortress on a hill overlooking Elverum.",
+                  "category": "fortress",
+                  "coords": [
+                        11.570482,
+                        60.883891
+                  ]
+            },
+            {
+                  "name": "Grindalen Skanse",
+                  "text": "A former military fort built for the defense of the Elverum region.",
+                  "category": "fortress",
+                  "coords": [
+                        11.549104,
+                        60.887138
+                  ]
+            },
+            {
+                  "name": "Glomdalsmuseet",
+                  "text": "One of Norway's largest open-air museums, focusing on regional cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        11.552537,
+                        60.8743
+                  ]
+            },
+            {
+                  "name": "Gaarder gård",
+                  "text": "A historical manor house in Elverum with significant architectural history.",
+                  "category": "historical",
+                  "coords": [
+                        11.562593,
+                        60.879052
+                  ]
+            },
+            {
+                  "name": "Pin, Red",
+                  "text": "A viewpoint near Elverum offering wide views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.574315,
+                        60.888678
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NO",
     name: { de: "Industriezentrum Elverum", hu: "Elverumi ipari központ", ro: "Centrul industrial Elverum", en: "Elverum Industry Hub" },

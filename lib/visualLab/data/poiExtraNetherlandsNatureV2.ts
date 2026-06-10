@@ -48,7 +48,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-veluwezoom-nature-v2.webp",
   },
   {
-    id: "netherlands-oostvaardersplassen-nature-v2",
+    id: "netherlands-oostvaardersplassen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "Ein großes Naturschutzgebiet in den Niederlanden, bekannt für seine Wildpferde und seltene Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Ein abwechslungsreiches Naturgebiet mit Seen und Wäldern, das ideal zur Naturbeobachtung ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Kotterbos",
+                  "text": "Ein Waldgebiet am Rande der Oostvaardersplassen, das Lebensraum für viele Wildtiere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.34035,
+                        52.410223
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Eine Vogelbeobachtungshütte, die einen weiten Blick über die Sumpfgebiete des Reservats bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Ein erhöhter Aussichtspunkt, von dem aus man Wildtiere wie Hirsche und Heckrinder beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Ein Aussichtspunkt, der einen guten Überblick über die weiten Graslandschaften des Gebiets bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Eine versteckte Beobachtungshütte zur Beobachtung von Wasservögeln in ihrer natürlichen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Ein Aussichtspunkt am Wasser, ideal für die Beobachtung von Watvögeln und Enten.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "Egy hatalmas természetvédelmi terület Hollandiában, amely vadlovairól és ritka madárfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Változatos természeti terület tavakkal és erdőkkel, amely kiválóan alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Kotterbos",
+                  "text": "Az Oostvaardersplassen szélén elterülő erdő, amely számos vadállatnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        5.34035,
+                        52.410223
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Egy madármegfigyelő kunyhó, amely széles kilátást nyújt a rezervátum mocsaras területeire.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Egy megemelt kilátópont, ahonnan vadon élő állatokat, például szarvasokat és őstulok-típusú marhákat lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Egy kilátópont, amely jó rálátást biztosít a terület tágas füves pusztáira.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Egy rejtett megfigyelőhely a vízimadarak természetes környezetükben való megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Vízparti kilátópont, amely ideális a gázlómadarak és kacsák megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "O rezervație naturală vastă din Țările de Jos, renumită pentru caii sălbatici și speciile rare de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "O zonă naturală diversificată cu lacuri și păduri, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Kotterbos",
+                  "text": "O zonă împădurită la marginea Oostvaardersplassen, care oferă habitat pentru multe animale sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        5.34035,
+                        52.410223
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Un adăpost pentru observarea păsărilor, oferind o vedere largă asupra zonelor mlaștoase ale rezervației.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Un punct de observare ridicat de unde pot fi văzute animale sălbatice precum cerbii și vitele Heck.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Un punct de belvedere care oferă o perspectivă bună asupra pășunilor vaste din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Un punct de observare ascuns pentru vizionarea păsărilor de apă în mediul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Un punct de observare la marginea apei, ideal pentru vizionarea păsărilor de țărm și a rațelor.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "A large nature reserve in the Netherlands, famous for its wild horses and rare bird species.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "A diverse natural area with lakes and woods, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Kotterbos",
+                  "text": "A forested area on the edge of the Oostvaardersplassen, providing habitat for many wild animals.",
+                  "category": "natural",
+                  "coords": [
+                        5.34035,
+                        52.410223
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "A birdwatching hide providing a wide view over the marshy areas of the reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "An elevated viewpoint from which wild animals such as deer and Heck cattle can be observed.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "A viewpoint offering a good overview of the area's vast grasslands.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "A hidden observation hide for watching waterfowl in their natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "A waterside viewpoint ideal for observing wading birds and ducks.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "NL",
     name: { de: "Oostvaardersplassen", hu: "Oostvaardersplassen", ro: "Oostvaardersplassen", en: "Oostvaardersplassen" },
@@ -93,7 +390,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-oostvaardersplassen-nature-v2.webp",
   },
   {
-    id: "netherlands-schiermonnikoog-nature-v2",
+    id: "netherlands-schiermonnikoog-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Ein spezialisiertes Museum auf Schiermonnikoog, das eine umfangreiche Muschelsammlung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Ein in einem ehemaligen Bunker untergebrachtes Museum zur Geschichte des Zweiten Weltkriegs auf Schiermonnikoog.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "Ein geschütztes Dünengebiet und Naturreservat auf der Insel Schiermonnikoog.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Westerstrand",
+                  "text": "Ein weiter Sandstrand an der Westküste der Insel Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.126957,
+                        53.47707
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Ein markanter roter Leuchtturm, der als eines der Wahrzeichen von Schiermonnikoog gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Ein ehemaliger weißer Leuchtturm auf Schiermonnikoog, der heute als Antennenturm genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Ein kleines Museum für Kuriositäten und Raritäten auf Schiermonnikoog.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "Ein weitläufiger Strandabschnitt an der Nordseeküste von Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Speciális múzeum Schiermonnikoog szigetén, amely hatalmas kagylógyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Egy egykori bunkerben kialakított múzeum Schiermonnikoog szigetén, amely a második világháború emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "Védett dűnerendszer és természetvédelmi terület Schiermonnikoog szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Westerstrand",
+                  "text": "Széles homokos tengerpart Schiermonnikoog szigetének nyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.126957,
+                        53.47707
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Jellegzetes vörös világítótorony, Schiermonnikoog egyik fő jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Egykori fehér világítótorony Schiermonnikoog szigetén, amely ma antennatoronyként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Különleges ritkaságokat és érdekességeket bemutató kis múzeum Schiermonnikoogban.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "Kiterjedt strand szakasz Schiermonnikoog északi-tengeri partján.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Un muzeu specializat din Schiermonnikoog ce expune o colecție vastă de scoici.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Un muzeu amenajat într-un fost buncăr pe insula Schiermonnikoog, dedicat celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "O zonă protejată de dune și rezervație naturală pe insula Schiermonnikoog.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Westerstrand",
+                  "text": "O plajă largă de nisip situată pe coasta de vest a insulei Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.126957,
+                        53.47707
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Un far roșu distinctiv, considerat unul dintre simbolurile insulei Schiermonnikoog.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Un fost far alb pe insula Schiermonnikoog, utilizat în prezent ca turn de comunicații.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Un mic muzeu de curiozități și raritati situat în Schiermonnikoog.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "O porțiune extinsă de plajă la Marea Nordului, pe insula Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "A specialized museum on Schiermonnikoog showcasing an extensive collection of shells.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "A museum housed in a former bunker on Schiermonnikoog, focusing on World War II history.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "A protected dune area and nature reserve on the island of Schiermonnikoog.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Westerstrand",
+                  "text": "A wide sandy beach located on the western coast of Schiermonnikoog island.",
+                  "category": "recreational",
+                  "coords": [
+                        6.126957,
+                        53.47707
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "A prominent red lighthouse that serves as one of the landmarks of Schiermonnikoog.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "A former white lighthouse on Schiermonnikoog, currently used as an antenna tower.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "A small museum of curiosities and rarities located on Schiermonnikoog.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "An expansive beach section on the North Sea coast of Schiermonnikoog.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "NL",
     name: { de: "Schiermonnikoog", hu: "Schiermonnikoog", ro: "Schiermonnikoog", en: "Schiermonnikoog" },
@@ -228,7 +822,124 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-sallandse-heuvelrug-nature-v2.webp",
   },
   {
-    id: "netherlands-weerribben-wieden-nature-v2",
+    id: "netherlands-weerribben-wieden-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Weerribben",
+                  "text": "Ein bedeutendes Naturschutzgebiet und Nationalpark in den Niederlanden, geprägt von Kanälen und Mooren.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Ein lokales Museum in Blokzijl, das die Geschichte und das maritime Erbe der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Eine Vogelbeobachtungshütte im Weerribben-Wieden, ideal zur Entdeckung der lokalen Wasservögel.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weerribben",
+                  "text": "Jelentős természetvédelmi terület és nemzeti park Hollandiában, amelyet csatornák és mocsarak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Helyi múzeum Blokzijlban, amely a város történelmét és tengerészeti örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Madármegfigyelő kunyhó a Weerribben-Wieden területén, amely ideális a helyi vízimadarak felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weerribben",
+                  "text": "O rezervație naturală importantă și parc național în Țările de Jos, caracterizată prin canale și mlaștini.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Un muzeu local în Blokzijl, care documentează istoria și moștenirea maritimă a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "O colibă de observare a păsărilor în Weerribben-Wieden, ideală pentru descoperirea păsărilor acvatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weerribben",
+                  "text": "An important nature reserve and national park in the Netherlands, characterized by canals and marshes.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "A local museum in Blokzijl documenting the town's history and maritime heritage.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "A birdwatching hut in Weerribben-Wieden, ideal for spotting local water birds.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NL",
     name: { de: "Weerribben-Wieden", hu: "Weerribben-Wieden", ro: "Weerribben-Wieden", en: "Weerribben-Wieden" },
@@ -273,7 +984,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-weerribben-wieden-nature-v2.webp",
   },
   {
-    id: "netherlands-dwingelderveld-nature-v2",
+    id: "netherlands-dwingelderveld-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Ein ehemaliges Rittergut bei Dwingeloo, das auf eine lange Geschichte als lokaler Herrensitz zurückblickt.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Ein gut erhaltenes historisches Landgut in Dwingeloo, bekannt für sein herrschaftliches Erscheinungsbild.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Ein bedeutendes historisches Herrenhaus in der Ortschaft Dwingeloo in den Niederlanden.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "Ein prähistorischer Grabhügel im Dwingelderveld, der von der frühen Besiedlung der Region zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Ein interaktives Museum in Dwingeloo, das sich der Wissenschaft und der Astronomie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Ein traditioneller Schafstall in Ruinen, in dem eine Herde Drenther Heideschafe beheimatet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Ein Aussichtspunkt im Nationalpark Dwingelderveld, der einen weiten Blick über die Heidelandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "Das Besucherzentrum des Nationalparks Dwingelderveld informiert über die lokale Natur und Tierwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Egykori nemesi udvarház Dwingeloo közelében, amely hosszú múltra tekint vissza helyi uradalmi székhelyként.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Jó állapotban fennmaradt történelmi birtok Dwingeloo-ban, amely impozáns megjelenéséről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Jelentős történelmi udvarház a hollandiai Dwingeloo településen.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "Prehisztorikus sírhalom a Dwingelderveld területén, amely a régió korai betelepüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Interaktív múzeum Dwingeloo-ban, amely a tudománynak és a csillagászatnak szenteli tevékenységét.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Hagyományos juhakol Ruinenben, amely egy drenthei népi juhnyájnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Kilátópont a Dwingelderveld Nemzeti Parkban, ahonnan tágas kilátás nyílik a pusztaságra.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "A Dwingelderveld Nemzeti Park látogatóközpontja tájékoztatást nyújt a helyi természetről és vadvilágról.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Un fost conac nobiliar lângă Dwingeloo, cu o istorie îndelungată ca reședință nobiliară locală.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "O moșie istorică bine conservată în Dwingeloo, cunoscută pentru aspectul său nobiliar.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Un conac istoric important situat în localitatea Dwingeloo din Țările de Jos.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "O gorgană preistorică în Dwingelderveld, care atestă așezarea timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Un muzeu interactiv în Dwingeloo, dedicat științei și astronomiei.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Un staul tradițional de oi în Ruinen, care găzduiește o turmă de oi de stepă din Drenthe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Un punct de belvedere în Parcul Național Dwingelderveld, oferind o vedere largă asupra câmpiei de iarbă neagră.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "Centrul de vizitatori al Parcului Național Dwingelderveld oferă informații despre natura și fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "A former manor house near Dwingeloo with a long history as a local seigneurial seat.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "A well-preserved historic estate in Dwingeloo, known for its stately appearance.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "A significant historic manor house located in the village of Dwingeloo in the Netherlands.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "A prehistoric burial mound in the Dwingelderveld, testifying to the early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "An interactive museum in Dwingeloo dedicated to science and astronomy.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "A traditional sheepfold in Ruinen, home to a flock of Drenthe heath sheep.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "A viewpoint in the Dwingelderveld National Park, offering a wide view over the heathland.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "The visitor center of the Dwingelderveld National Park provides information about local nature and wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Dwingelderveld", hu: "Dwingelderveld", ro: "Dwingelderveld", en: "Dwingelderveld" },
@@ -318,7 +1326,160 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-dwingelderveld-nature-v2.webp",
   },
   {
-    id: "netherlands-lauwersmeer-nature-v2",
+    id: "netherlands-lauwersmeer-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Westermolen",
+                  "text": "Eine historische Windmühle in der Nähe des Lauwersmeer-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        6.196181,
+                        53.30607
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Ein Aussichtsturm mit Panoramablick auf das Lauwersmeer-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "Ein Aussichtspunkt im Nationalpark Lauwersmeer, ideal zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk",
+                  "text": "Eine reformierte Kirche, die der Gemeinde in der Region Lauwersmeer dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.189994,
+                        53.303949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Westermolen",
+                  "text": "Történelmi szélmalom a Lauwersmeer közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.196181,
+                        53.30607
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Kilátótorony, amely panorámás kilátást nyújt a Lauwersmeer vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "Kilátópont a Lauwersmeer Nemzeti Parkban, amely ideális madármegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk",
+                  "text": "Református templom, amely a Lauwersmeer régió közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.189994,
+                        53.303949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Westermolen",
+                  "text": "O moară de vânt istorică situată lângă zona Lauwersmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        6.196181,
+                        53.30607
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Un turn de observație care oferă vederi panoramice asupra zonei Lauwersmeer.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "Un punct de observare în Parcul Național Lauwersmeer, ideal pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk",
+                  "text": "O biserică reformată care deservește comunitatea din regiunea Lauwersmeer.",
+                  "category": "religious",
+                  "coords": [
+                        6.189994,
+                        53.303949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Westermolen",
+                  "text": "A historic windmill located near the Lauwersmeer area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.196181,
+                        53.30607
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "An observation tower offering panoramic views of the Lauwersmeer area.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "A viewpoint in the Lauwersmeer National Park, ideal for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Gereformeerde kerk",
+                  "text": "A Reformed church serving the community in the Lauwersmeer region.",
+                  "category": "religious",
+                  "coords": [
+                        6.189994,
+                        53.303949
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NL",
     name: { de: "Lauwersmeer", hu: "Lauwersmeer", ro: "Lauwersmeer", en: "Lauwersmeer" },
@@ -498,7 +1659,160 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-geulvallei-nature-v2.webp",
   },
   {
-    id: "netherlands-oostvaardersbos-nature-v2",
+    id: "netherlands-oostvaardersbos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Ein Naturschutzgebiet in den Niederlanden, das Teil des weitläufigen Oostvaardersplassen-Gebiets ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Ein beliebter Aussichtspunkt zur Beobachtung von Wildtieren im Naturschutzgebiet Oostvaardersbos.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Ein kleiner Aussichtspunkt, der weite Ausblicke über die Naturlandschaft des Oostvaardersveld bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Ein hölzerner Beobachtungspunkt für Vögel in der Sumpflandschaft der Oostvaardersplassen.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Hollandiai természetvédelmi terület, amely a kiterjedt Oostvaardersplassen régió része.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Népszerű kilátópont vadmegfigyeléshez az Oostvaardersbos természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Kisebb kilátópont, amely tágas kilátást nyújt az Oostvaardersveld természeti tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Fából készült madármegfigyelő hely az Oostvaardersplassen mocsaras vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "O rezervație naturală în Țările de Jos, care face parte din vasta zonă Oostvaardersplassen.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Un punct de observație popular pentru fauna sălbatică în rezervația Oostvaardersbos.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Un punct de observație mai mic ce oferă vederi panoramice asupra peisajului natural din Oostvaardersveld.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Un punct de observație din lemn pentru păsări în peisajul mlăștinos din Oostvaardersplassen.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "A nature reserve in the Netherlands, part of the extensive Oostvaardersplassen area.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "A popular viewpoint for wildlife observation in the Oostvaardersbos nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "A smaller viewpoint offering wide views over the natural landscape of Oostvaardersveld.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "A wooden birdwatching point located in the marshy landscape of Oostvaardersplassen.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NL",
     name: { de: "Oostvaardersbos", hu: "Oostvaardersbos", ro: "Oostvaardersbos", en: "Oostvaardersbos" },
@@ -543,7 +1857,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-oostvaardersbos-nature-v2.webp",
   },
   {
-    id: "netherlands-waterdunen-nature-v2",
+    id: "netherlands-waterdunen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waterdunen",
+                  "text": "Ein bedeutendes Naturschutz- und Erholungsgebiet an der niederländischen Küste.",
+                  "category": "natural",
+                  "coords": [
+                        3.51779,
+                        51.398109
+                  ]
+            },
+            {
+                  "name": "Herdijkte Zwarte Polder",
+                  "text": "Ein Küstennaturschutzgebiet in Zeeland, geprägt von Salzwiesen.",
+                  "category": "natural",
+                  "coords": [
+                        3.43026,
+                        51.387153
+                  ]
+            },
+            {
+                  "name": "De Reep",
+                  "text": "Ein ruhiges Naturschutzgebiet innerhalb des Waterdunen-Areals.",
+                  "category": "natural",
+                  "coords": [
+                        3.495147,
+                        51.347195
+                  ]
+            },
+            {
+                  "name": "De Blikken",
+                  "text": "Ein geschütztes Naturgebiet in Waterdunen, ideal für Vogelbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        3.495803,
+                        51.356812
+                  ]
+            },
+            {
+                  "name": "Verdronken Zwarte Polder",
+                  "text": "Ein einzigartiges Gezeitengebiet und Naturschutzgebiet in Zeeland.",
+                  "category": "natural",
+                  "coords": [
+                        3.440678,
+                        51.385986
+                  ]
+            },
+            {
+                  "name": "Zwembad",
+                  "text": "Ein Schwimmbad und Wasserpark für Freizeitaktivitäten in Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.440558,
+                        51.382678
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "Ein ausgewiesener FKK-Strand für hüllenloses Baden in Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.497853,
+                        51.402591
+                  ]
+            },
+            {
+                  "name": "Hertenpark",
+                  "text": "Ein Hirschpark in Waterdunen, der zur Beobachtung von Tieren einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        3.495846,
+                        51.384314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waterdunen",
+                  "text": "Jelentős természetvédelmi és pihenőterület a holland tengerparton.",
+                  "category": "natural",
+                  "coords": [
+                        3.51779,
+                        51.398109
+                  ]
+            },
+            {
+                  "name": "Herdijkte Zwarte Polder",
+                  "text": "Tengerparti természetvédelmi terület Zeelandban, sós mocsarakkal.",
+                  "category": "natural",
+                  "coords": [
+                        3.43026,
+                        51.387153
+                  ]
+            },
+            {
+                  "name": "De Reep",
+                  "text": "Nyugodt természetvédelmi terület a Waterdunen térségében.",
+                  "category": "natural",
+                  "coords": [
+                        3.495147,
+                        51.347195
+                  ]
+            },
+            {
+                  "name": "De Blikken",
+                  "text": "Védett természeti terület Waterdunenben, ideális madármegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        3.495803,
+                        51.356812
+                  ]
+            },
+            {
+                  "name": "Verdronken Zwarte Polder",
+                  "text": "Egyedülálló árapályterület és természetvédelmi övezet Zeelandban.",
+                  "category": "natural",
+                  "coords": [
+                        3.440678,
+                        51.385986
+                  ]
+            },
+            {
+                  "name": "Zwembad",
+                  "text": "Uszoda és vízipark szabadidős tevékenységekhez Waterdunenben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.440558,
+                        51.382678
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "Kijelölt nudista strand a ruhátlan fürdőzéshez Waterdunenben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.497853,
+                        51.402591
+                  ]
+            },
+            {
+                  "name": "Hertenpark",
+                  "text": "Szarvaspark Waterdunenben, ahol állatmegfigyelésre van lehetőség.",
+                  "category": "recreational",
+                  "coords": [
+                        3.495846,
+                        51.384314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waterdunen",
+                  "text": "O rezervație naturală și zonă de recreere importantă pe coasta olandeză.",
+                  "category": "natural",
+                  "coords": [
+                        3.51779,
+                        51.398109
+                  ]
+            },
+            {
+                  "name": "Herdijkte Zwarte Polder",
+                  "text": "O rezervație naturală de coastă în Zeeland, caracterizată prin mlaștini sărate.",
+                  "category": "natural",
+                  "coords": [
+                        3.43026,
+                        51.387153
+                  ]
+            },
+            {
+                  "name": "De Reep",
+                  "text": "O rezervație naturală liniștită în cadrul zonei Waterdunen.",
+                  "category": "natural",
+                  "coords": [
+                        3.495147,
+                        51.347195
+                  ]
+            },
+            {
+                  "name": "De Blikken",
+                  "text": "O zonă naturală protejată în Waterdunen, ideală pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        3.495803,
+                        51.356812
+                  ]
+            },
+            {
+                  "name": "Verdronken Zwarte Polder",
+                  "text": "O zonă de maree unică și rezervație naturală în Zeeland.",
+                  "category": "natural",
+                  "coords": [
+                        3.440678,
+                        51.385986
+                  ]
+            },
+            {
+                  "name": "Zwembad",
+                  "text": "O piscină și parc acvatic pentru activități recreative în Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.440558,
+                        51.382678
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "O plajă de nudiști desemnată pentru scăldat fără haine în Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.497853,
+                        51.402591
+                  ]
+            },
+            {
+                  "name": "Hertenpark",
+                  "text": "Un parc cu cerbi în Waterdunen, ce invită la observarea animalelor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.495846,
+                        51.384314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waterdunen",
+                  "text": "A significant nature reserve and recreation area on the Dutch coast.",
+                  "category": "natural",
+                  "coords": [
+                        3.51779,
+                        51.398109
+                  ]
+            },
+            {
+                  "name": "Herdijkte Zwarte Polder",
+                  "text": "A coastal nature reserve in Zeeland, characterized by salt marshes.",
+                  "category": "natural",
+                  "coords": [
+                        3.43026,
+                        51.387153
+                  ]
+            },
+            {
+                  "name": "De Reep",
+                  "text": "A peaceful nature reserve within the Waterdunen area.",
+                  "category": "natural",
+                  "coords": [
+                        3.495147,
+                        51.347195
+                  ]
+            },
+            {
+                  "name": "De Blikken",
+                  "text": "A protected natural area in Waterdunen, ideal for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        3.495803,
+                        51.356812
+                  ]
+            },
+            {
+                  "name": "Verdronken Zwarte Polder",
+                  "text": "A unique tidal area and nature reserve located in Zeeland.",
+                  "category": "natural",
+                  "coords": [
+                        3.440678,
+                        51.385986
+                  ]
+            },
+            {
+                  "name": "Zwembad",
+                  "text": "A swimming pool and water park for leisure activities in Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.440558,
+                        51.382678
+                  ]
+            },
+            {
+                  "name": "Naaktstrand",
+                  "text": "A designated nudist beach for clothes-free bathing in Waterdunen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.497853,
+                        51.402591
+                  ]
+            },
+            {
+                  "name": "Hertenpark",
+                  "text": "A deer park in Waterdunen, inviting visitors to observe wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        3.495846,
+                        51.384314
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Waterdunen", hu: "Waterdunen", ro: "Waterdunen", en: "Waterdunen" },
@@ -768,7 +2379,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-oostelijk-vechtplassen-nature-v2.webp",
   },
   {
-    id: "netherlands-kampina-nature-v2",
+    id: "netherlands-kampina-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kampina",
+                  "text": "Ein großes Naturschutzgebiet in Nordbrabant mit einer abwechslungsreichen Landschaft aus feuchten Heiden, Wäldern und Mooren.",
+                  "category": "natural",
+                  "coords": [
+                        5.266349,
+                        51.56942
+                  ]
+            },
+            {
+                  "name": "Oisterwijkse Bossen en Vennen",
+                  "text": "Ein malerisches Naturschutzgebiet, das für seine zahlreichen Moore und ausgedehnten Kiefernwälder bei Oisterwijk bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.205785,
+                        51.561261
+                  ]
+            },
+            {
+                  "name": "Ezelfarm Oisterwijk",
+                  "text": "Eine charmante Eselstation, die Besuchern die Möglichkeit bietet, mit diesen freundlichen Tieren in Kontakt zu treten.",
+                  "category": "recreational",
+                  "coords": [
+                        5.241751,
+                        51.556623
+                  ]
+            },
+            {
+                  "name": "Balsvoort Boerderijen",
+                  "text": "Eine archäologische Stätte mit den Überresten historischer Gehöfte im Naturschutzgebiet Kampina.",
+                  "category": "historical",
+                  "coords": [
+                        5.265464,
+                        51.555213
+                  ]
+            },
+            {
+                  "name": "Natuurtheater Oisterwijk",
+                  "text": "Ein Freilichttheater in einem natürlichen Waldgebiet, in dem verschiedene kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.21743,
+                        51.570545
+                  ]
+            },
+            {
+                  "name": "Moddervelden",
+                  "text": "Ein ruhiges Naturgebiet in Kampina, das durch seine sumpfigen Felder und die vielfältige lokale Tierwelt geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.231627,
+                        51.58329
+                  ]
+            },
+            {
+                  "name": "Kogelvangersven",
+                  "text": "Ein ruhiger Aussichtspunkt mit Blick auf eines der charakteristischen Moore im Naturschutzgebiet Kampina.",
+                  "category": "natural",
+                  "coords": [
+                        5.272297,
+                        51.580113
+                  ]
+            },
+            {
+                  "name": "Palingven",
+                  "text": "Ein malerischer Ort mit Blick auf das Palingven-Moor, Teil der abwechslungsreichen Landschaft des Kampina-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        5.250995,
+                        51.579452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kampina",
+                  "text": "Észak-Brabant nagyméretű természetvédelmi területe, amely nedves fenyéreket, erdőket és lápokat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        5.266349,
+                        51.56942
+                  ]
+            },
+            {
+                  "name": "Oisterwijkse Bossen en Vennen",
+                  "text": "Festői természetvédelmi terület, amely számos lápjáról és kiterjedt fenyőerdőiről ismert Oisterwijk közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.205785,
+                        51.561261
+                  ]
+            },
+            {
+                  "name": "Ezelfarm Oisterwijk",
+                  "text": "Kedves szamárfarm, ahol a látogatóknak lehetőségük nyílik megismerni ezeket a barátságos állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        5.241751,
+                        51.556623
+                  ]
+            },
+            {
+                  "name": "Balsvoort Boerderijen",
+                  "text": "Régészeti lelőhely, amely történelmi tanyák maradványait mutatja be a Kampina természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        5.265464,
+                        51.555213
+                  ]
+            },
+            {
+                  "name": "Natuurtheater Oisterwijk",
+                  "text": "Természetes erdei környezetben található szabadtéri színház, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.21743,
+                        51.570545
+                  ]
+            },
+            {
+                  "name": "Moddervelden",
+                  "text": "Kampina egyik nyugodt természeti területe, amelyet mocsaras mezők és változatos helyi vadvilág jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        5.231627,
+                        51.58329
+                  ]
+            },
+            {
+                  "name": "Kogelvangersven",
+                  "text": "Nyugodt kilátóhely, amely a Kampina természetvédelmi terület egyik jellegzetes lápjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        5.272297,
+                        51.580113
+                  ]
+            },
+            {
+                  "name": "Palingven",
+                  "text": "Festői hely, ahonnan kilátás nyílik a Palingven-lápra, a Kampina rezervátum változatos tájának részére.",
+                  "category": "natural",
+                  "coords": [
+                        5.250995,
+                        51.579452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kampina",
+                  "text": "O rezervație naturală mare din Brabantul de Nord, cu un peisaj divers de mlaștini, păduri și fântâni.",
+                  "category": "natural",
+                  "coords": [
+                        5.266349,
+                        51.56942
+                  ]
+            },
+            {
+                  "name": "Oisterwijkse Bossen en Vennen",
+                  "text": "O rezervație naturală pitorească cunoscută pentru numeroasele sale mlaștini și pădurile întinse de pini de lângă Oisterwijk.",
+                  "category": "natural",
+                  "coords": [
+                        5.205785,
+                        51.561261
+                  ]
+            },
+            {
+                  "name": "Ezelfarm Oisterwijk",
+                  "text": "O fermă de măgari fermecătoare care oferă vizitatorilor șansa de a interacționa cu aceste animale prietenoase.",
+                  "category": "recreational",
+                  "coords": [
+                        5.241751,
+                        51.556623
+                  ]
+            },
+            {
+                  "name": "Balsvoort Boerderijen",
+                  "text": "Un sit arheologic care prezintă rămășițele unor ferme istorice din cadrul rezervației naturale Kampina.",
+                  "category": "historical",
+                  "coords": [
+                        5.265464,
+                        51.555213
+                  ]
+            },
+            {
+                  "name": "Natuurtheater Oisterwijk",
+                  "text": "Un teatru în aer liber situat într-un mediu forestier natural, care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.21743,
+                        51.570545
+                  ]
+            },
+            {
+                  "name": "Moddervelden",
+                  "text": "O zonă naturală liniștită din Kampina, caracterizată prin câmpuri mlaștinoase și o faună locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        5.231627,
+                        51.58329
+                  ]
+            },
+            {
+                  "name": "Kogelvangersven",
+                  "text": "Un punct de belvedere liniștit, cu vedere la una dintre mlaștinile caracteristice din rezervația naturală Kampina.",
+                  "category": "natural",
+                  "coords": [
+                        5.272297,
+                        51.580113
+                  ]
+            },
+            {
+                  "name": "Palingven",
+                  "text": "Un loc pitoresc care oferă vederi asupra mlaștinii Palingven, parte a peisajului divers al rezervației Kampina.",
+                  "category": "natural",
+                  "coords": [
+                        5.250995,
+                        51.579452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampina",
+                  "text": "A large nature reserve in North Brabant featuring a diverse landscape of wet heathlands, forests, and fens.",
+                  "category": "natural",
+                  "coords": [
+                        5.266349,
+                        51.56942
+                  ]
+            },
+            {
+                  "name": "Oisterwijkse Bossen en Vennen",
+                  "text": "A scenic nature reserve known for its numerous fens and expansive pine forests near Oisterwijk.",
+                  "category": "natural",
+                  "coords": [
+                        5.205785,
+                        51.561261
+                  ]
+            },
+            {
+                  "name": "Ezelfarm Oisterwijk",
+                  "text": "A charming donkey farm offering visitors the chance to interact with and learn about these friendly animals.",
+                  "category": "recreational",
+                  "coords": [
+                        5.241751,
+                        51.556623
+                  ]
+            },
+            {
+                  "name": "Balsvoort Boerderijen",
+                  "text": "An archaeological site featuring the remains of historic farmsteads within the Kampina nature reserve.",
+                  "category": "historical",
+                  "coords": [
+                        5.265464,
+                        51.555213
+                  ]
+            },
+            {
+                  "name": "Natuurtheater Oisterwijk",
+                  "text": "An open-air theater set in a natural forest environment, hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.21743,
+                        51.570545
+                  ]
+            },
+            {
+                  "name": "Moddervelden",
+                  "text": "A serene nature area within Kampina characterized by its marshy fields and diverse local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.231627,
+                        51.58329
+                  ]
+            },
+            {
+                  "name": "Kogelvangersven",
+                  "text": "A peaceful viewpoint overlooking one of the characteristic fens in the Kampina nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.272297,
+                        51.580113
+                  ]
+            },
+            {
+                  "name": "Palingven",
+                  "text": "A scenic spot offering views of the Palingven fen, part of the diverse landscape of the Kampina reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.250995,
+                        51.579452
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Kampina", hu: "Kampina", ro: "Kampina", en: "Kampina" },
@@ -948,7 +2856,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-wieden-nature-v2.webp",
   },
   {
-    id: "netherlands-bossen-van-schouwen-nature-v2",
+    id: "netherlands-bossen-van-schouwen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kop van Schouwen",
+                  "text": "Ein Küstennaturgebiet mit Dünen und Wäldern auf der Insel Schouwen-Duiveland.",
+                  "category": "natural",
+                  "coords": [
+                        3.720105,
+                        51.709848
+                  ]
+            },
+            {
+                  "name": "Slot Haamstede",
+                  "text": "Ein historisches Schloss in Haamstede mit einer bis ins 13. Jahrhundert zurückreichenden Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        3.74187,
+                        51.697712
+                  ]
+            },
+            {
+                  "name": "Westerlichttoren",
+                  "text": "Ein ikonischer rot-weiß gestreifter Leuchtturm in Haamstede, einer der höchsten der Niederlande.",
+                  "category": "landmark",
+                  "coords": [
+                        3.691609,
+                        51.708871
+                  ]
+            },
+            {
+                  "name": "De Graanhalm",
+                  "text": "Eine historische Windmühle und Museum in Burgh-Haamstede, die noch in Betrieb ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.738113,
+                        51.69361
+                  ]
+            },
+            {
+                  "name": "Ringwalburg (Reconstructie)",
+                  "text": "Eine Rekonstruktion einer mittelalterlichen Ringwallburg in Burgh-Haamstede.",
+                  "category": "historical",
+                  "coords": [
+                        3.736955,
+                        51.690349
+                  ]
+            },
+            {
+                  "name": "Slot Crayenstein",
+                  "text": "Eine historische Schlossanlage im Gebiet von Westerschouwen.",
+                  "category": "castle",
+                  "coords": [
+                        3.73455,
+                        51.685875
+                  ]
+            },
+            {
+                  "name": "Museum de Burghse Schoole",
+                  "text": "Ein lokales Geschichtsmuseum in einem ehemaligen Schulgebäude in Burgh.",
+                  "category": "museum",
+                  "coords": [
+                        3.735186,
+                        51.691658
+                  ]
+            },
+            {
+                  "name": "De Zeepeduinen - Vogelkijkscherm",
+                  "text": "Ein Vogelbeobachtungsstand im Naturgebiet Zeepeduinen.",
+                  "category": "natural",
+                  "coords": [
+                        3.722102,
+                        51.694138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kop van Schouwen",
+                  "text": "Parti természetvédelmi terület dűnékkel és erdőkkel Schouwen-Duiveland szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        3.720105,
+                        51.709848
+                  ]
+            },
+            {
+                  "name": "Slot Haamstede",
+                  "text": "Történelmi kastély Haamstede-ben, melynek története a 13. századig nyúlik vissza.",
+                  "category": "castle",
+                  "coords": [
+                        3.74187,
+                        51.697712
+                  ]
+            },
+            {
+                  "name": "Westerlichttoren",
+                  "text": "Jellegzetes piros-fehér csíkos világítótorony Haamstede-ben, Hollandia egyik legmagasabbja.",
+                  "category": "landmark",
+                  "coords": [
+                        3.691609,
+                        51.708871
+                  ]
+            },
+            {
+                  "name": "De Graanhalm",
+                  "text": "Történelmi szélmalom és múzeum Burgh-Haamstede-ben, amely még ma is működik.",
+                  "category": "museum",
+                  "coords": [
+                        3.738113,
+                        51.69361
+                  ]
+            },
+            {
+                  "name": "Ringwalburg (Reconstructie)",
+                  "text": "Egy középkori gyűrűsvár rekonstrukciója Burgh-Haamstede-ben.",
+                  "category": "historical",
+                  "coords": [
+                        3.736955,
+                        51.690349
+                  ]
+            },
+            {
+                  "name": "Slot Crayenstein",
+                  "text": "Történelmi kastélyhelyszín Westerschouwen területén.",
+                  "category": "castle",
+                  "coords": [
+                        3.73455,
+                        51.685875
+                  ]
+            },
+            {
+                  "name": "Museum de Burghse Schoole",
+                  "text": "Helytörténeti múzeum egy egykori iskolaépületben Burgh-ban.",
+                  "category": "museum",
+                  "coords": [
+                        3.735186,
+                        51.691658
+                  ]
+            },
+            {
+                  "name": "De Zeepeduinen - Vogelkijkscherm",
+                  "text": "Madármegfigyelő hely a Zeepeduinen természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        3.722102,
+                        51.694138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kop van Schouwen",
+                  "text": "O rezervație naturală de coastă cu dune și păduri de pe insula Schouwen-Duiveland.",
+                  "category": "natural",
+                  "coords": [
+                        3.720105,
+                        51.709848
+                  ]
+            },
+            {
+                  "name": "Slot Haamstede",
+                  "text": "Un castel istoric din Haamstede, cu o istorie care datează din secolul al XIII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        3.74187,
+                        51.697712
+                  ]
+            },
+            {
+                  "name": "Westerlichttoren",
+                  "text": "Un far iconic în dungi roșii și albe din Haamstede, unul dintre cele mai înalte din Țările de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        3.691609,
+                        51.708871
+                  ]
+            },
+            {
+                  "name": "De Graanhalm",
+                  "text": "O moară de vânt istorică și muzeu în Burgh-Haamstede, care este încă operațională.",
+                  "category": "museum",
+                  "coords": [
+                        3.738113,
+                        51.69361
+                  ]
+            },
+            {
+                  "name": "Ringwalburg (Reconstructie)",
+                  "text": "O reconstrucție a unei cetăți medievale circulare situată în Burgh-Haamstede.",
+                  "category": "historical",
+                  "coords": [
+                        3.736955,
+                        51.690349
+                  ]
+            },
+            {
+                  "name": "Slot Crayenstein",
+                  "text": "Un sit de castel istoric situat în zona Westerschouwen.",
+                  "category": "castle",
+                  "coords": [
+                        3.73455,
+                        51.685875
+                  ]
+            },
+            {
+                  "name": "Museum de Burghse Schoole",
+                  "text": "Un muzeu de istorie locală găzduit într-o fostă clădire școlară din Burgh.",
+                  "category": "museum",
+                  "coords": [
+                        3.735186,
+                        51.691658
+                  ]
+            },
+            {
+                  "name": "De Zeepeduinen - Vogelkijkscherm",
+                  "text": "Un paravan pentru observarea păsărilor situat în zona naturală Zeepeduinen.",
+                  "category": "natural",
+                  "coords": [
+                        3.722102,
+                        51.694138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kop van Schouwen",
+                  "text": "A coastal nature reserve featuring dunes and forests on the island of Schouwen-Duiveland.",
+                  "category": "natural",
+                  "coords": [
+                        3.720105,
+                        51.709848
+                  ]
+            },
+            {
+                  "name": "Slot Haamstede",
+                  "text": "A historic castle in Haamstede with a history dating back to the 13th century.",
+                  "category": "castle",
+                  "coords": [
+                        3.74187,
+                        51.697712
+                  ]
+            },
+            {
+                  "name": "Westerlichttoren",
+                  "text": "An iconic red and white striped lighthouse in Haamstede, one of the tallest in the Netherlands.",
+                  "category": "landmark",
+                  "coords": [
+                        3.691609,
+                        51.708871
+                  ]
+            },
+            {
+                  "name": "De Graanhalm",
+                  "text": "A historic windmill and museum in Burgh-Haamstede that is still operational.",
+                  "category": "museum",
+                  "coords": [
+                        3.738113,
+                        51.69361
+                  ]
+            },
+            {
+                  "name": "Ringwalburg (Reconstructie)",
+                  "text": "A reconstruction of a medieval ring fort located in Burgh-Haamstede.",
+                  "category": "historical",
+                  "coords": [
+                        3.736955,
+                        51.690349
+                  ]
+            },
+            {
+                  "name": "Slot Crayenstein",
+                  "text": "A historic castle site located in the Westerschouwen area.",
+                  "category": "castle",
+                  "coords": [
+                        3.73455,
+                        51.685875
+                  ]
+            },
+            {
+                  "name": "Museum de Burghse Schoole",
+                  "text": "A local history museum housed in a former school building in Burgh.",
+                  "category": "museum",
+                  "coords": [
+                        3.735186,
+                        51.691658
+                  ]
+            },
+            {
+                  "name": "De Zeepeduinen - Vogelkijkscherm",
+                  "text": "A bird watching screen located in the Zeepeduinen nature area.",
+                  "category": "natural",
+                  "coords": [
+                        3.722102,
+                        51.694138
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NL",
     name: { de: "Boswachterij Westerschouwen", hu: "Boswachterij Westerschouwen", ro: "Boswachterij Westerschouwen", en: "Boswachterij Westerschouwen" },
@@ -993,7 +3198,196 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-bossen-van-schouwen-nature-v2.webp",
   },
   {
-    id: "netherlands-groote-peel-nature-v2",
+    id: "netherlands-groote-peel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Starkriet",
+                  "text": "Ein Feuchtgebiet und Naturschutzgebiet im Nationalpark De Groote Peel.",
+                  "category": "natural",
+                  "coords": [
+                        5.749563,
+                        51.357672
+                  ]
+            },
+            {
+                  "name": "Amsloberg",
+                  "text": "Ein erhöhter Aussichtspunkt in Groote Peel, ideal für die Beobachtung der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        5.82825,
+                        51.336693
+                  ]
+            },
+            {
+                  "name": "Uitzichttoren Groote Peel",
+                  "text": "Ein hölzerner Aussichtsturm, der Besuchern einen Panoramablick über die Moorlandschaft von Groote Peel ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.802047,
+                        51.335841
+                  ]
+            },
+            {
+                  "name": "Dood doet leven",
+                  "text": "Ein speziell angelegter Aussichtspunkt in Groote Peel, der die Natur des Nationalparks hervorhebt.",
+                  "category": "natural",
+                  "coords": [
+                        5.789624,
+                        51.33754
+                  ]
+            },
+            {
+                  "name": "Belfort De Vossenberg",
+                  "text": "Ein hölzerner Aussichtsturm in der Nähe von Meijel, der weite Blicke über das Naturschutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.84776,
+                        51.348126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Starkriet",
+                  "text": "Vizes élőhely és természetvédelmi terület a De Groote Peel nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        5.749563,
+                        51.357672
+                  ]
+            },
+            {
+                  "name": "Amsloberg",
+                  "text": "Magaslati kilátópont Groote Peel területén, amely ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.82825,
+                        51.336693
+                  ]
+            },
+            {
+                  "name": "Uitzichttoren Groote Peel",
+                  "text": "Fából készült kilátótorony, amely panorámás kilátást nyújt a Groote Peel lápos vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        5.802047,
+                        51.335841
+                  ]
+            },
+            {
+                  "name": "Dood doet leven",
+                  "text": "Speciálisan kialakított kilátóhely Groote Peelben, amely a nemzeti park természetét mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        5.789624,
+                        51.33754
+                  ]
+            },
+            {
+                  "name": "Belfort De Vossenberg",
+                  "text": "Meijel közelében található fa kilátótorony, amely széles kilátást nyújt a természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        5.84776,
+                        51.348126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Starkriet",
+                  "text": "O zonă umedă și rezervație naturală în cadrul parcului național De Groote Peel.",
+                  "category": "natural",
+                  "coords": [
+                        5.749563,
+                        51.357672
+                  ]
+            },
+            {
+                  "name": "Amsloberg",
+                  "text": "Un punct de observație înălțat în Groote Peel, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        5.82825,
+                        51.336693
+                  ]
+            },
+            {
+                  "name": "Uitzichttoren Groote Peel",
+                  "text": "Un turn de observare din lemn care oferă vizitatorilor o vedere panoramică asupra peisajului mlăștinos din Groote Peel.",
+                  "category": "natural",
+                  "coords": [
+                        5.802047,
+                        51.335841
+                  ]
+            },
+            {
+                  "name": "Dood doet leven",
+                  "text": "Un punct de observație amenajat în Groote Peel, evidențiind natura parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        5.789624,
+                        51.33754
+                  ]
+            },
+            {
+                  "name": "Belfort De Vossenberg",
+                  "text": "Un turn de observare din lemn lângă Meijel, oferind vederi largi asupra rezervației naturale.",
+                  "category": "natural",
+                  "coords": [
+                        5.84776,
+                        51.348126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starkriet",
+                  "text": "A wetland area and nature reserve located within the De Groote Peel national park.",
+                  "category": "natural",
+                  "coords": [
+                        5.749563,
+                        51.357672
+                  ]
+            },
+            {
+                  "name": "Amsloberg",
+                  "text": "An elevated viewpoint in Groote Peel, ideal for observing the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        5.82825,
+                        51.336693
+                  ]
+            },
+            {
+                  "name": "Uitzichttoren Groote Peel",
+                  "text": "A wooden observation tower providing visitors with a panoramic view over the marshy landscape of Groote Peel.",
+                  "category": "natural",
+                  "coords": [
+                        5.802047,
+                        51.335841
+                  ]
+            },
+            {
+                  "name": "Dood doet leven",
+                  "text": "A specially designed viewpoint in Groote Peel, highlighting the nature of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        5.789624,
+                        51.33754
+                  ]
+            },
+            {
+                  "name": "Belfort De Vossenberg",
+                  "text": "A wooden watchtower near Meijel, offering extensive views over the nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.84776,
+                        51.348126
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Groote Peel", hu: "Groote Peel", ro: "Groote Peel", en: "Groote Peel" },
@@ -1173,7 +3567,196 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-bergse-plas-nature-v2.webp",
   },
   {
-    id: "netherlands-maasduinen-nature-v2",
+    id: "netherlands-maasduinen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasteel Well",
+                  "text": "Ein historisches Wasserschloss in der Region Maasduinen.",
+                  "category": "castle",
+                  "coords": [
+                        6.088709,
+                        51.552489
+                  ]
+            },
+            {
+                  "name": "De Baend",
+                  "text": "Ein Naturschutzgebiet in der Region Maasduinen, bekannt für seine lokale Flora.",
+                  "category": "natural",
+                  "coords": [
+                        6.079281,
+                        51.550435
+                  ]
+            },
+            {
+                  "name": "More2bfit",
+                  "text": "Ein Wasserpark und eine Freizeiteinrichtung in Maasduinen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.061493,
+                        51.567306
+                  ]
+            },
+            {
+                  "name": "De Groote Muijs",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Region Maasduinen.",
+                  "category": "natural",
+                  "coords": [
+                        6.076191,
+                        51.58837
+                  ]
+            },
+            {
+                  "name": "Sint-Vituskerk",
+                  "text": "Eine katholische Kirche in Well, die dem Heiligen Vitus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.090299,
+                        51.549965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasteel Well",
+                  "text": "Történelmi vízi vár a Maasduinen területén.",
+                  "category": "castle",
+                  "coords": [
+                        6.088709,
+                        51.552489
+                  ]
+            },
+            {
+                  "name": "De Baend",
+                  "text": "Természetvédelmi terület a Maasduinen régióban, amely a helyi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.079281,
+                        51.550435
+                  ]
+            },
+            {
+                  "name": "More2bfit",
+                  "text": "Vízi park és szabadidős létesítmény Maasduinenben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.061493,
+                        51.567306
+                  ]
+            },
+            {
+                  "name": "De Groote Muijs",
+                  "text": "Védett természetvédelmi terület a Maasduinen régióban.",
+                  "category": "natural",
+                  "coords": [
+                        6.076191,
+                        51.58837
+                  ]
+            },
+            {
+                  "name": "Sint-Vituskerk",
+                  "text": "Szent Vitusnak szentelt katolikus templom Well településen.",
+                  "category": "religious",
+                  "coords": [
+                        6.090299,
+                        51.549965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasteel Well",
+                  "text": "Un castel istoric cu șanț de apă situat în zona Maasduinen.",
+                  "category": "castle",
+                  "coords": [
+                        6.088709,
+                        51.552489
+                  ]
+            },
+            {
+                  "name": "De Baend",
+                  "text": "O zonă de rezervație naturală din regiunea Maasduinen, cunoscută pentru flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        6.079281,
+                        51.550435
+                  ]
+            },
+            {
+                  "name": "More2bfit",
+                  "text": "Un parc acvatic și o facilitate de recreere în Maasduinen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.061493,
+                        51.567306
+                  ]
+            },
+            {
+                  "name": "De Groote Muijs",
+                  "text": "O zonă protejată de rezervație naturală din regiunea Maasduinen.",
+                  "category": "natural",
+                  "coords": [
+                        6.076191,
+                        51.58837
+                  ]
+            },
+            {
+                  "name": "Sint-Vituskerk",
+                  "text": "O biserică catolică din Well, dedicată Sfântului Vitus.",
+                  "category": "religious",
+                  "coords": [
+                        6.090299,
+                        51.549965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasteel Well",
+                  "text": "A historic moated castle located in the Maasduinen area.",
+                  "category": "castle",
+                  "coords": [
+                        6.088709,
+                        51.552489
+                  ]
+            },
+            {
+                  "name": "De Baend",
+                  "text": "A nature reserve area within the Maasduinen region known for its local flora.",
+                  "category": "natural",
+                  "coords": [
+                        6.079281,
+                        51.550435
+                  ]
+            },
+            {
+                  "name": "More2bfit",
+                  "text": "A water park and recreational facility in Maasduinen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.061493,
+                        51.567306
+                  ]
+            },
+            {
+                  "name": "De Groote Muijs",
+                  "text": "A protected nature reserve area in the Maasduinen region.",
+                  "category": "natural",
+                  "coords": [
+                        6.076191,
+                        51.58837
+                  ]
+            },
+            {
+                  "name": "Sint-Vituskerk",
+                  "text": "A Catholic church in Well, dedicated to Saint Vitus.",
+                  "category": "religious",
+                  "coords": [
+                        6.090299,
+                        51.549965
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Maasduinen", hu: "Maasduinen", ro: "Maasduinen", en: "Maasduinen" },
@@ -1308,7 +3891,304 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-kruisbergse-bos-nature-v2.webp",
   },
   {
-    id: "netherlands-dwingelo-nature-v2",
+    id: "netherlands-dwingelo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Ein ehemaliger Herrensitz, von dem heute noch historische Überreste existieren.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Wittelterberg",
+                  "text": "Ein archäologisch bedeutsamer Grabhügel in der Nähe von Dwingeloo.",
+                  "category": "historical",
+                  "coords": [
+                        6.310061,
+                        52.829294
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Einer der am besten erhaltenen historischen Herrensitze in der Provinz Drenthe.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Ein historisches Anwesen in Dwingeloo, das ein bedeutendes Kulturdenkmal darstellt.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Ein Wissenschaftszentrum, das Besuchern die Astronomie und Radioteleskopie näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Vogelobservatiehut",
+                  "text": "Ein Beobachtungspunkt zur Entdeckung der lokalen Vogelwelt in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.37389,
+                        52.805752
+                  ]
+            },
+            {
+                  "name": "Escaperoom Drenthe",
+                  "text": "Eine beliebte Freizeiteinrichtung mit spannenden Rätseln in Dwingeloo.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310291,
+                        52.825163
+                  ]
+            },
+            {
+                  "name": "Windmotor",
+                  "text": "Eine historische Windpumpe, die typisch für die niederländische Wasserwirtschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.341993,
+                        52.823813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Egykori nemesi kúria, amelynek ma is léteznek történelmi maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Wittelterberg",
+                  "text": "Régészetileg jelentős sírhalom Dwingeloo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        6.310061,
+                        52.829294
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Drenthe tartomány egyik legjobb állapotban fennmaradt történelmi kúriája.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Történelmi birtok Dwingelóban, amely jelentős kulturális műemlék.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Tudományos központ, amely az asztronómiát és a rádióteleszkópiát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Vogelobservatiehut",
+                  "text": "Megfigyelőpont a helyi madárvilág felfedezéséhez a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.37389,
+                        52.805752
+                  ]
+            },
+            {
+                  "name": "Escaperoom Drenthe",
+                  "text": "Népszerű szabadidős létesítmény izgalmas rejtvényekkel Dwingelóban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310291,
+                        52.825163
+                  ]
+            },
+            {
+                  "name": "Windmotor",
+                  "text": "Történelmi szélkerék, amely a holland vízgazdálkodás jellegzetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        6.341993,
+                        52.823813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Un fost conac boieresc din care astăzi mai există vestigii istorice.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Wittelterberg",
+                  "text": "Un tumul de înmormântare cu semnificație arheologică lângă Dwingeloo.",
+                  "category": "historical",
+                  "coords": [
+                        6.310061,
+                        52.829294
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Unul dintre cele mai bine conservate conace istorice din provincia Drenthe.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "O proprietate istorică din Dwingeloo, care reprezintă un monument cultural important.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Un centru științific care apropie vizitatorii de astronomie și radiotelescopie.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Vogelobservatiehut",
+                  "text": "Un punct de observare pentru descoperirea păsărilor locale în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.37389,
+                        52.805752
+                  ]
+            },
+            {
+                  "name": "Escaperoom Drenthe",
+                  "text": "O facilitate de agrement populară cu puzzle-uri incitante în Dwingeloo.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310291,
+                        52.825163
+                  ]
+            },
+            {
+                  "name": "Windmotor",
+                  "text": "O pompă eoliană istorică, tipică pentru managementul apei din Olanda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.341993,
+                        52.823813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "A former manor house of which historic remains still exist today.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Wittelterberg",
+                  "text": "An archaeologically significant burial mound near Dwingeloo.",
+                  "category": "historical",
+                  "coords": [
+                        6.310061,
+                        52.829294
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "One of the best-preserved historic manor houses in the province of Drenthe.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "A historic estate in Dwingeloo that represents a significant cultural monument.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "A science center that brings astronomy and radio telescopy closer to visitors.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Vogelobservatiehut",
+                  "text": "An observation point for discovering local birdlife in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.37389,
+                        52.805752
+                  ]
+            },
+            {
+                  "name": "Escaperoom Drenthe",
+                  "text": "A popular leisure facility with exciting puzzles in Dwingeloo.",
+                  "category": "landmark",
+                  "coords": [
+                        6.310291,
+                        52.825163
+                  ]
+            },
+            {
+                  "name": "Windmotor",
+                  "text": "A historic wind pump typical of Dutch water management.",
+                  "category": "landmark",
+                  "coords": [
+                        6.341993,
+                        52.823813
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Dwingelo", hu: "Dwingelo", ro: "Dwingelo", en: "Dwingelo" },
@@ -1353,7 +4233,124 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-dwingelo-nature-v2.webp",
   },
   {
-    id: "netherlands-oostwaard-nature-v2",
+    id: "netherlands-oostwaard-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Weerribben",
+                  "text": "Ein weitläufiges Naturschutzgebiet in den Niederlanden, geprägt von Sumpf- und Moorlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren",
+                  "text": "Ein Aussichtsturm im Naturschutzgebiet Weerribben zur Beobachtung der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.893035,
+                        52.787438
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Eine Vogelbeobachtungshütte im Weerribben-Gebiet, ideal für Naturbeobachter.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weerribben",
+                  "text": "Kiterjedt hollandiai természetvédelmi terület, amelyet mocsaras és lápos tájak jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren",
+                  "text": "Kilátótorony a Weerribben természetvédelmi területen a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.893035,
+                        52.787438
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Madármegfigyelő kunyhó a Weerribben területén, ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weerribben",
+                  "text": "O rezervație naturală vastă din Țările de Jos, caracterizată prin peisaje de mlaștină și turbărie.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren",
+                  "text": "Un turn de observare în rezervația Weerribben pentru vizualizarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        5.893035,
+                        52.787438
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "O colibă pentru observarea păsărilor în zona Weerribben, ideală pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weerribben",
+                  "text": "An extensive nature reserve in the Netherlands, characterized by marsh and peat landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren",
+                  "text": "An observation tower in the Weerribben reserve for viewing the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.893035,
+                        52.787438
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "A bird hide in the Weerribben area, ideal for birdwatching and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Oostwaard", hu: "Oostwaard", ro: "Oostwaard", en: "Oostwaard" },
@@ -1398,7 +4395,52 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-oostwaard-nature-v2.webp",
   },
   {
-    id: "netherlands-boschplaat-nature-v2",
+    id: "netherlands-boschplaat-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noordkaap",
+                  "text": "Ein markantes maritimes Seezeichen auf der Insel Terschelling.",
+                  "category": "tower",
+                  "coords": [
+                        5.515086,
+                        53.440922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noordkaap",
+                  "text": "Jellegzetes tengeri jelzőtorony Terschelling szigetén.",
+                  "category": "tower",
+                  "coords": [
+                        5.515086,
+                        53.440922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noordkaap",
+                  "text": "Un reper maritim distinctiv situat pe insula Terschelling.",
+                  "category": "tower",
+                  "coords": [
+                        5.515086,
+                        53.440922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noordkaap",
+                  "text": "A distinctive maritime beacon located on the island of Terschelling.",
+                  "category": "tower",
+                  "coords": [
+                        5.515086,
+                        53.440922
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "De Boschplaat", hu: "De Boschplaat", ro: "De Boschplaat", en: "De Boschplaat" },

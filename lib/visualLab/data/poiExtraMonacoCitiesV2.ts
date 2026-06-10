@@ -436,6 +436,15 @@ export const monacoCitiesV2: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Die prachtvolle offizielle Residenz des Fürsten in Val Thore mit Blick über die Region.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "hu": [
@@ -869,6 +878,15 @@ export const monacoCitiesV2: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "A herceg pompás hivatalos rezidenciája Val Thore-ban, kilátással a régióra.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ],
@@ -1304,6 +1322,15 @@ export const monacoCitiesV2: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Splendida reședință oficială a prințului în Val Thore, cu vedere peste regiune.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "en": [
@@ -1737,6 +1764,15 @@ export const monacoCitiesV2: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "The magnificent official residence of the prince in Val Thore, overlooking the region.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ]

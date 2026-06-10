@@ -138,7 +138,196 @@ export const italyLandmarksV2: POI[] = [
     image: "/poi-images/italy-mole-antonelliana-landmarks-v2.webp",
   },
   {
-    id: "italy-abbazia-di-san-galgano-landmarks-v2",
+    id: "italy-abbazia-di-san-galgano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco di Sculture Kurt Laurenz Metzler",
+                  "text": "Ein privater Skulpturenpark des Schweizer Künstlers Metzler in der Nähe der Abtei San Galgano.",
+                  "category": "museum",
+                  "coords": [
+                        11.179789,
+                        43.139644
+                  ]
+            },
+            {
+                  "name": "Poggio del Casino",
+                  "text": "Eine bewaldete Anhöhe in der Toskana, die die Umgebung der Abtei San Galgano überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.154646,
+                        43.120851
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Galgano",
+                  "text": "Eine berühmte dachlose Zisterzienserabtei aus dem 13. Jahrhundert in der Nähe von Siena.",
+                  "category": "historical",
+                  "coords": [
+                        11.155336,
+                        43.14943
+                  ]
+            },
+            {
+                  "name": "Spada nella Roccia di San Galgano",
+                  "text": "Das legendäre im Fels steckende Schwert in der Rotunde von Montesiepi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.155487,
+                        43.152454
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Lorenzo",
+                  "text": "Eine historische Kirche in der Nähe der berühmten Abtei San Galgano in der Toskana.",
+                  "category": "religious",
+                  "coords": [
+                        11.115878,
+                        43.175096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco di Sculture Kurt Laurenz Metzler",
+                  "text": "Kurt Laurenz Metzler svájci művész magánszoborparkja a San Galgano-apátság közelében.",
+                  "category": "museum",
+                  "coords": [
+                        11.179789,
+                        43.139644
+                  ]
+            },
+            {
+                  "name": "Poggio del Casino",
+                  "text": "Erdős magaslat Toszkánában, amely a San Galgano-apátság környéke fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.154646,
+                        43.120851
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Galgano",
+                  "text": "Egy híres tető nélküli, 13. századi ciszterci apátság Siena közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.155336,
+                        43.14943
+                  ]
+            },
+            {
+                  "name": "Spada nella Roccia di San Galgano",
+                  "text": "A legendás, sziklába szúrt kard, amely a Montesiepi-rotundában található.",
+                  "category": "landmark",
+                  "coords": [
+                        11.155487,
+                        43.152454
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Lorenzo",
+                  "text": "Történelmi templom a híres toszkánai San Galgano-apátság közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.115878,
+                        43.175096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco di Sculture Kurt Laurenz Metzler",
+                  "text": "Un parc de sculpturi privat al artistului elvețian Metzler, situat lângă abația San Galgano.",
+                  "category": "museum",
+                  "coords": [
+                        11.179789,
+                        43.139644
+                  ]
+            },
+            {
+                  "name": "Poggio del Casino",
+                  "text": "O colină împădurită din Toscana, care domină împrejurimile abației San Galgano.",
+                  "category": "landmark",
+                  "coords": [
+                        11.154646,
+                        43.120851
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Galgano",
+                  "text": "O celebră abație cisterciană din secolul al XIII-lea, cunoscută pentru faptul că nu are acoperiș.",
+                  "category": "historical",
+                  "coords": [
+                        11.155336,
+                        43.14943
+                  ]
+            },
+            {
+                  "name": "Spada nella Roccia di San Galgano",
+                  "text": "Legendara sabie înfiptă în stâncă, păstrată în incinta rotondei de la Montesiepi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.155487,
+                        43.152454
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Lorenzo",
+                  "text": "O biserică istorică situată în apropierea faimoasei abații San Galgano din Toscana.",
+                  "category": "religious",
+                  "coords": [
+                        11.115878,
+                        43.175096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco di Sculture Kurt Laurenz Metzler",
+                  "text": "A private sculpture park by Swiss artist Metzler, located near the Abbey of San Galgano.",
+                  "category": "museum",
+                  "coords": [
+                        11.179789,
+                        43.139644
+                  ]
+            },
+            {
+                  "name": "Poggio del Casino",
+                  "text": "A wooded hill in Tuscany overlooking the surroundings of the San Galgano Abbey.",
+                  "category": "landmark",
+                  "coords": [
+                        11.154646,
+                        43.120851
+                  ]
+            },
+            {
+                  "name": "Abbazia di San Galgano",
+                  "text": "A famous 13th-century roofless Cistercian abbey located near Siena.",
+                  "category": "historical",
+                  "coords": [
+                        11.155336,
+                        43.14943
+                  ]
+            },
+            {
+                  "name": "Spada nella Roccia di San Galgano",
+                  "text": "The legendary sword in the stone, preserved inside the Montesiepi Rotunda.",
+                  "category": "landmark",
+                  "coords": [
+                        11.155487,
+                        43.152454
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Lorenzo",
+                  "text": "A historic church located near the famous San Galgano Abbey in Tuscany.",
+                  "category": "religious",
+                  "coords": [
+                        11.115878,
+                        43.175096
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IT",
     name: { de: "Abtei San Galgano", hu: "San Galgano-apátság", ro: "Abația San Galgano", en: "Abbey of San Galgano" },
@@ -408,7 +597,160 @@ export const italyLandmarksV2: POI[] = [
     image: "/poi-images/italy-basilica-di-san-giorgio-maggiore-landmarks-v2.webp",
   },
   {
-    id: "italy-abbazia-di-fossanova-landmarks-v2",
+    id: "italy-abbazia-di-fossanova-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"La Torretta\"",
+                  "text": "Ein historischer Verteidigungsturm oder ein kleines Fort in der Nähe der Abtei von Fossanova.",
+                  "category": "fortress",
+                  "coords": [
+                        13.205496,
+                        41.436218
+                  ]
+            },
+            {
+                  "name": "Castello di San Martino",
+                  "text": "Eine historische Burg in der unmittelbaren Umgebung der Abtei von Fossanova.",
+                  "category": "castle",
+                  "coords": [
+                        13.19613,
+                        41.456845
+                  ]
+            },
+            {
+                  "name": "Museo Medioevale",
+                  "text": "Ein Museum für mittelalterliche Geschichte und Artefakte in der Abtei von Fossanova.",
+                  "category": "museum",
+                  "coords": [
+                        13.195979,
+                        41.437493
+                  ]
+            },
+            {
+                  "name": "Antica fontanella di Bagnoli",
+                  "text": "Ein historischer Brunnen und lokales Wahrzeichen in der Nähe der Abtei von Fossanova.",
+                  "category": "landmark",
+                  "coords": [
+                        13.213946,
+                        41.43557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"La Torretta\"",
+                  "text": "Egy történelmi őrtorony vagy kis erőd a Fossanova-apátság közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        13.205496,
+                        41.436218
+                  ]
+            },
+            {
+                  "name": "Castello di San Martino",
+                  "text": "Egy történelmi vár a Fossanova-apátság környékén.",
+                  "category": "castle",
+                  "coords": [
+                        13.19613,
+                        41.456845
+                  ]
+            },
+            {
+                  "name": "Museo Medioevale",
+                  "text": "A Fossanova-apátságnál található múzeum, amely a középkori történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.195979,
+                        41.437493
+                  ]
+            },
+            {
+                  "name": "Antica fontanella di Bagnoli",
+                  "text": "Történelmi kút és helyi nevezetesség a Fossanova-apátság közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.213946,
+                        41.43557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"La Torretta\"",
+                  "text": "Un turn defensiv istoric sau un mic fort situat lângă Abația din Fossanova.",
+                  "category": "fortress",
+                  "coords": [
+                        13.205496,
+                        41.436218
+                  ]
+            },
+            {
+                  "name": "Castello di San Martino",
+                  "text": "Un castel istoric situat în apropierea Abației din Fossanova.",
+                  "category": "castle",
+                  "coords": [
+                        13.19613,
+                        41.456845
+                  ]
+            },
+            {
+                  "name": "Museo Medioevale",
+                  "text": "Un muzeu dedicat istoriei și artefactelor medievale la Abația din Fossanova.",
+                  "category": "museum",
+                  "coords": [
+                        13.195979,
+                        41.437493
+                  ]
+            },
+            {
+                  "name": "Antica fontanella di Bagnoli",
+                  "text": "O fântână istorică și un punct de reper local lângă Abația din Fossanova.",
+                  "category": "landmark",
+                  "coords": [
+                        13.213946,
+                        41.43557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"La Torretta\"",
+                  "text": "A historic defensive tower or small fort located near the Abbey of Fossanova.",
+                  "category": "fortress",
+                  "coords": [
+                        13.205496,
+                        41.436218
+                  ]
+            },
+            {
+                  "name": "Castello di San Martino",
+                  "text": "A historic castle situated in the vicinity of the Abbey of Fossanova.",
+                  "category": "castle",
+                  "coords": [
+                        13.19613,
+                        41.456845
+                  ]
+            },
+            {
+                  "name": "Museo Medioevale",
+                  "text": "A museum dedicated to medieval history and artifacts at the Abbey of Fossanova.",
+                  "category": "museum",
+                  "coords": [
+                        13.195979,
+                        41.437493
+                  ]
+            },
+            {
+                  "name": "Antica fontanella di Bagnoli",
+                  "text": "A historic local fountain and landmark near the Abbey of Fossanova.",
+                  "category": "landmark",
+                  "coords": [
+                        13.213946,
+                        41.43557
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "IT",
     name: { de: "Abtei Fossanova", hu: "Fossanova-apátság", ro: "Abația Fossanova", en: "Abbey of Fossanova" },

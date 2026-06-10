@@ -93,7 +93,196 @@ export const latviaEconomicV2: POI[] = [
     image: "/poi-images/latvia-broceni-cement-economic-v2.webp",
   },
   {
-    id: "latvia-olaine-pharmaceutical-economic-v2",
+    id: "latvia-olaine-pharmaceutical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olaines Vēstures un Mākslas muzejs",
+                  "text": "Museum für Geschichte und Kunst in Olaine.",
+                  "category": "museum",
+                  "coords": [
+                        23.936799,
+                        56.790353
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara vēstures izziņas maršruts",
+                  "text": "Ein historischer Lehrpfad zur Geschichte des Ersten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        23.937303,
+                        56.792372
+                  ]
+            },
+            {
+                  "name": "Krievijas armijas dzelzbetona ugunspunkti WW1",
+                  "text": "Stahlbeton-Bunker der russischen Armee aus dem Ersten Weltkrieg.",
+                  "category": "landmark",
+                  "coords": [
+                        23.979189,
+                        56.798963
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara nocietinājumu līnija",
+                  "text": "Überreste einer Verteidigungslinie aus dem Ersten Weltkrieg.",
+                  "category": "landmark",
+                  "coords": [
+                        23.930251,
+                        56.783539
+                  ]
+            },
+            {
+                  "name": "Olaines luterāņu baznīca",
+                  "text": "Eine evangelisch-lutherische Kirche in Olaine.",
+                  "category": "religious",
+                  "coords": [
+                        23.982984,
+                        56.799644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olaines Vēstures un Mākslas muzejs",
+                  "text": "Olaine történelmi és művészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        23.936799,
+                        56.790353
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara vēstures izziņas maršruts",
+                  "text": "Az első világháború történetét bemutató oktatási útvonal.",
+                  "category": "museum",
+                  "coords": [
+                        23.937303,
+                        56.792372
+                  ]
+            },
+            {
+                  "name": "Krievijas armijas dzelzbetona ugunspunkti WW1",
+                  "text": "Az orosz hadsereg vasbeton bunkerei az első világháborúból.",
+                  "category": "landmark",
+                  "coords": [
+                        23.979189,
+                        56.798963
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara nocietinājumu līnija",
+                  "text": "Egy első világháborús védelmi vonal maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.930251,
+                        56.783539
+                  ]
+            },
+            {
+                  "name": "Olaines luterāņu baznīca",
+                  "text": "Evangélikus-lutheránus templom Olaine városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.982984,
+                        56.799644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olaines Vēstures un Mākslas muzejs",
+                  "text": "Muzeul de istorie și artă din Olaine.",
+                  "category": "museum",
+                  "coords": [
+                        23.936799,
+                        56.790353
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara vēstures izziņas maršruts",
+                  "text": "Un traseu educațional istoric despre primul război mondial.",
+                  "category": "museum",
+                  "coords": [
+                        23.937303,
+                        56.792372
+                  ]
+            },
+            {
+                  "name": "Krievijas armijas dzelzbetona ugunspunkti WW1",
+                  "text": "Bunchere din beton armat ale armatei ruse din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        23.979189,
+                        56.798963
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara nocietinājumu līnija",
+                  "text": "Rămășițele unei linii de fortificații din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        23.930251,
+                        56.783539
+                  ]
+            },
+            {
+                  "name": "Olaines luterāņu baznīca",
+                  "text": "O biserică evanghelică luterană din Olaine.",
+                  "category": "religious",
+                  "coords": [
+                        23.982984,
+                        56.799644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of History And Art of Olaine",
+                  "text": "Museum of history and art located in Olaine.",
+                  "category": "museum",
+                  "coords": [
+                        23.936799,
+                        56.790353
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara vēstures izziņas maršruts",
+                  "text": "A historical educational trail about World War I history.",
+                  "category": "museum",
+                  "coords": [
+                        23.937303,
+                        56.792372
+                  ]
+            },
+            {
+                  "name": "Krievijas armijas dzelzbetona ugunspunkti WW1",
+                  "text": "Reinforced concrete bunkers of the Russian army from World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        23.979189,
+                        56.798963
+                  ]
+            },
+            {
+                  "name": "Pirmā pasaules kara nocietinājumu līnija",
+                  "text": "Remains of a defense line from World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        23.930251,
+                        56.783539
+                  ]
+            },
+            {
+                  "name": "Olaines luterāņu baznīca",
+                  "text": "An Evangelical Lutheran church in Olaine.",
+                  "category": "religious",
+                  "coords": [
+                        23.982984,
+                        56.799644
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LV",
     name: { de: "Olaine Pharmahub", hu: "Olainei gyógyszeripari központ", ro: "Hub farmaceutic Olaine", en: "Olaine Pharmaceutical Hub" },

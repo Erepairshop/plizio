@@ -5862,6 +5862,69 @@ export const andorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Museum in Sant Julià de Lòria über die Geschichte der Tabakproduktion.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Ein Berggipfel in der Region Sant Julià de Lòria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "Ein Klettersteig (Via Ferrata) in Sant Julià de Lòria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488634,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Ein religiöses Denkmal und Kapelle in Sant Julià de Lòria.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Historische Brücke, bekannt als das größte mittelalterliche Bauwerk dieser Art in Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Ein Bergaussichtspunkt auf 1727 Metern Höhe in Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
             }
       ],
       "hu": [
@@ -5872,6 +5935,69 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "A dohánygyártás történetét bemutató múzeum Sant Julià de Lòriában.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Hegyi csúcs Sant Julià de Lòria régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "Via ferrata útvonal Sant Julià de Lòriában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488634,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Vallási emlékmű és kápolna Sant Julià de Lòriában.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Történelmi híd, amely Andorra legnagyobb középkori hídjaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Hegyi kilátópont 1727 méteres magasságban Sant Julià de Lòriában.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Panorámás kilátópont Sant Julià de Lòriában.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
                   ]
             }
       ],
@@ -5884,6 +6010,69 @@ export const andorraCities: POI[] = [
                         1.50324,
                         42.442506
                   ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Muzeu în Sant Julià de Lòria despre istoria producției de tutun.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Un vârf montan în regiunea Sant Julià de Lòria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "Un traseu de via ferrata situat în Sant Julià de Lòria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488634,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "Un monument religios și capelă în Sant Julià de Lòria.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Pod istoric cunoscut ca fiind cea mai mare structură medievală de acest tip din Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Un punct de belvedere montan la 1727 de metri altitudine în Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Un punct de belvedere panoramic în Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
             }
       ],
       "en": [
@@ -5894,6 +6083,69 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.50324,
                         42.442506
+                  ]
+            },
+            {
+                  "name": "Museu del Tabac",
+                  "text": "A museum in Sant Julià de Lòria about the history of tobacco production.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464504
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "A mountain peak located in the Sant Julià de Lòria region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "A via ferrata climbing route located in Sant Julià de Lòria.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488634,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Ermita Mare de Deu",
+                  "text": "A religious monument and chapel in Sant Julià de Lòria.",
+                  "category": "historical",
+                  "coords": [
+                        1.465038,
+                        42.44679
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "A historic bridge known as the largest medieval structure of its kind in Andorra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "A mountain viewpoint at 1727 meters altitude in Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "A scenic viewpoint offering panoramic vistas in Sant Julià de Lòria.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
                   ]
             }
       ]

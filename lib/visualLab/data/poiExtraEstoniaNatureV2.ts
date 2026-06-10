@@ -363,7 +363,52 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-parnu-river-nature-v2.webp",
   },
   {
-    id: "estonia-endla-mire-nature-v2",
+    id: "estonia-endla-mire-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Männikjärve raba vaatetorn",
+                  "text": "Ein hölzerner Aussichtsturm mit Blick über die Moorlandschaft von Männikjärve.",
+                  "category": "natural",
+                  "coords": [
+                        26.24737,
+                        58.875916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Männikjärve raba vaatetorn",
+                  "text": "Fából készült kilátótorony, ahonnan rálátni a Männikjärve-láp vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        26.24737,
+                        58.875916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Männikjärve raba vaatetorn",
+                  "text": "Un turn de observație din lemn cu vedere peste peisajul de mlaștină Männikjärve.",
+                  "category": "natural",
+                  "coords": [
+                        26.24737,
+                        58.875916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Männikjärve raba vaatetorn",
+                  "text": "A wooden observation tower overlooking the Männikjärve bog landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.24737,
+                        58.875916
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EE",
     name: { de: "Endla-Moor", hu: "Endla-láp", ro: "Mlaștina Endla", en: "Endla Mire" },
@@ -408,7 +453,196 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-endla-mire-nature-v2.webp",
   },
   {
-    id: "estonia-haanja-upland-nature-v2",
+    id: "estonia-haanja-upland-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Naturschutzgebiet in Estland, das die Landschaft des Haanja-Hochlandes bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Archäologische Stätte und historischer Hügel im Haanja-Hochland.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Strand am See, der Erholung in der Region Haanja bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Der höchste Gipfel Estlands und des Baltikums mit einem Aussichtsturm.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Ikonischer gelber Rahmen, der einen malerischen Blick auf die estnische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Természetvédelmi terület Észtországban, amely a Haanja-hátság tájképét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Régészeti lelőhely és történelmi domb a Haanja-hátságon.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Tóparti strand, amely kikapcsolódást kínál a Haanja régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Észtország és a balti államok legmagasabb csúcsa, kilátóval.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Ikonikus sárga keret, amely festői kilátást nyújt az észt tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Arie protejată din Estonia care conservă peisajul podișului Haanja.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Sit arheologic și deal istoric în podișul Haanja.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Plajă pe malul lacului care oferă recreere în regiunea Haanja.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Cel mai înalt vârf din Estonia și statele baltice, dotat cu un turn de observare.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Cadru galben emblematic care oferă o vedere pitorească asupra peisajului estonian.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haanja Nature Park",
+                  "text": "Protected area in Estonia preserving the landscape of the Haanja Upland.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Archaeological site and historical hill in the Haanja Upland.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "The beach Vaskna Lake",
+                  "text": "The beach at Vaskna Lake offers recreation in the Haanja region.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "The highest peak in Estonia and the Baltic states, featuring an observation tower.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Iconic yellow frame offering a scenic view of the Estonian landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Haanja-Hochland", hu: "Haanja-felföld", ro: "Podișul Haanja", en: "Haanja Upland" },
@@ -517,6 +751,42 @@ export const estoniaNatureV2: POI[] = [
                         27.382638,
                         58.138551
                   ]
+            },
+            {
+                  "name": "Räpina Koduloo- ja Aiandusmuuseum",
+                  "text": "Ein Museum in Räpina, das Lokalgeschichte und die Tradition des Gartenbaus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.450709,
+                        58.09742
+                  ]
+            },
+            {
+                  "name": "Räpina Miikaeli kirik",
+                  "text": "Die lutherische Hauptkirche von Räpina, ein markantes weißes Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        27.458113,
+                        58.099368
+                  ]
+            },
+            {
+                  "name": "Räpina metodisti kirik",
+                  "text": "Ein modernes Gotteshaus der methodistischen Gemeinde in Räpina.",
+                  "category": "religious",
+                  "coords": [
+                        27.452389,
+                        58.104488
+                  ]
+            },
+            {
+                  "name": "Räpina Püha Sakariase ja Elisabeti kirik",
+                  "text": "Eine farbenfrohe orthodoxe Kirche in Räpina mit klassizistischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        27.454355,
+                        58.092565
+                  ]
             }
       ],
       "hu": [
@@ -536,6 +806,42 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         27.382638,
                         58.138551
+                  ]
+            },
+            {
+                  "name": "Räpina Koduloo- ja Aiandusmuuseum",
+                  "text": "Räpinai múzeum, amely a helytörténetet és a kertészeti hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.450709,
+                        58.09742
+                  ]
+            },
+            {
+                  "name": "Räpina Miikaeli kirik",
+                  "text": "Räpina evangélikus főtemploma, egy jellegzetes fehér épület.",
+                  "category": "religious",
+                  "coords": [
+                        27.458113,
+                        58.099368
+                  ]
+            },
+            {
+                  "name": "Räpina metodisti kirik",
+                  "text": "A räpinai metodista közösség modern temploma.",
+                  "category": "religious",
+                  "coords": [
+                        27.452389,
+                        58.104488
+                  ]
+            },
+            {
+                  "name": "Räpina Püha Sakariase ja Elisabeti kirik",
+                  "text": "Színes ortodox templom Räpinában, klasszicista stílusjegyekkel.",
+                  "category": "religious",
+                  "coords": [
+                        27.454355,
+                        58.092565
                   ]
             }
       ],
@@ -557,6 +863,42 @@ export const estoniaNatureV2: POI[] = [
                         27.382638,
                         58.138551
                   ]
+            },
+            {
+                  "name": "Räpina Koduloo- ja Aiandusmuuseum",
+                  "text": "Muzeu în Räpina care prezintă istoria locală și tradiția grădinăritului.",
+                  "category": "museum",
+                  "coords": [
+                        27.450709,
+                        58.09742
+                  ]
+            },
+            {
+                  "name": "Räpina Miikaeli kirik",
+                  "text": "Biserica luterană principală din Räpina, o structură albă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        27.458113,
+                        58.099368
+                  ]
+            },
+            {
+                  "name": "Räpina metodisti kirik",
+                  "text": "Un lăcaș de cult modern al comunității metodiste din Räpina.",
+                  "category": "religious",
+                  "coords": [
+                        27.452389,
+                        58.104488
+                  ]
+            },
+            {
+                  "name": "Räpina Püha Sakariase ja Elisabeti kirik",
+                  "text": "O biserică ortodoxă colorată în Räpina, cu elemente neoclasice.",
+                  "category": "religious",
+                  "coords": [
+                        27.454355,
+                        58.092565
+                  ]
             }
       ],
       "en": [
@@ -576,6 +918,42 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         27.382638,
                         58.138551
+                  ]
+            },
+            {
+                  "name": "Räpina Local Lore And Gardening Museum",
+                  "text": "A museum in Räpina showcasing local history and gardening traditions.",
+                  "category": "museum",
+                  "coords": [
+                        27.450709,
+                        58.09742
+                  ]
+            },
+            {
+                  "name": "Räpina Miikaeli kirik",
+                  "text": "The main Lutheran church of Räpina, a distinctive white building.",
+                  "category": "religious",
+                  "coords": [
+                        27.458113,
+                        58.099368
+                  ]
+            },
+            {
+                  "name": "Räpina metodisti kirik",
+                  "text": "A modern place of worship for the Methodist community in Räpina.",
+                  "category": "religious",
+                  "coords": [
+                        27.452389,
+                        58.104488
+                  ]
+            },
+            {
+                  "name": "Räpina Püha Sakariase ja Elisabeti kirik",
+                  "text": "A colorful Orthodox church in Räpina featuring neoclassical elements.",
+                  "category": "religious",
+                  "coords": [
+                        27.454355,
+                        58.092565
                   ]
             }
       ]
@@ -669,7 +1047,124 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-laeva-bog-nature-v2.webp",
   },
   {
-    id: "estonia-jagal-river-nature-v2",
+    id: "estonia-jagal-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Ein alter heiliger Hain und eine archäologische Stätte in der Nähe des Flusses Jägala.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Haljava mõisa peahoone",
+                  "text": "Das historische Hauptgebäude des Gutshofs Haljava in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        25.184566,
+                        59.398182
+                  ]
+            },
+            {
+                  "name": "Harju-Jaani kirik",
+                  "text": "Eine lutherische Kirche am Jägala-Fluss, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        25.189142,
+                        59.374358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Ősi szent liget és régészeti lelőhely a Jägala-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Haljava mõisa peahoone",
+                  "text": "A haljavai uradalom történelmi főépülete Észtországban.",
+                  "category": "historical",
+                  "coords": [
+                        25.184566,
+                        59.398182
+                  ]
+            },
+            {
+                  "name": "Harju-Jaani kirik",
+                  "text": "Evangélikus templom a Jägala-folyónál, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        25.189142,
+                        59.374358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Un vechi dumbravă sacră și sit arheologic lângă râul Jägala.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Haljava mõisa peahoone",
+                  "text": "Clădirea principală istorică a conacului Haljava din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.184566,
+                        59.398182
+                  ]
+            },
+            {
+                  "name": "Harju-Jaani kirik",
+                  "text": "O biserică luterană situată pe râul Jägala, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        25.189142,
+                        59.374358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "An ancient sacred grove and archaeological site near the Jägala River.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Haljava mõisa peahoone",
+                  "text": "The historic main building of the Haljava manor in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.184566,
+                        59.398182
+                  ]
+            },
+            {
+                  "name": "Harju-Jaani kirik",
+                  "text": "A Lutheran church located by the Jägala River, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        25.189142,
+                        59.374358
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EE",
     name: { de: "Jägala-Fluss", hu: "Jägala-folyó", ro: "Râul Jägala", en: "Jägala River" },

@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const latviaReliefV2: POI[] = [
 
   {
-    id: "latvia-luznava-hill-relief-v2",
+    id: "latvia-luznava-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lūznavas muiža",
+                  "text": "Ein historisches Herrenhaus im Jugendstil, das heute als Kulturzentrum dient.",
+                  "category": "museum",
+                  "coords": [
+                        27.260407,
+                        56.35775
+                  ]
+            },
+            {
+                  "name": "Maltas novadpētniecības muzejs",
+                  "text": "Ein lokales Museum, das der Geschichte und den Traditionen der Region Malta gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.159829,
+                        56.343859
+                  ]
+            },
+            {
+                  "name": "Maltas Vēstures muzejs",
+                  "text": "Ein Museum zur Bewahrung des historischen Erbes der Stadt Malta.",
+                  "category": "museum",
+                  "coords": [
+                        27.15813,
+                        56.351279
+                  ]
+            },
+            {
+                  "name": "Rozentovas Svētā Krusta pagodināšanas baznīca;Rozentovas",
+                  "text": "Eine historische hölzerne römisch-katholische Kirche in Rozentova.",
+                  "category": "religious",
+                  "coords": [
+                        27.18375,
+                        56.341313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lūznavas muiža",
+                  "text": "Történelmi szecessziós kastély, amely ma kulturális központként működik.",
+                  "category": "museum",
+                  "coords": [
+                        27.260407,
+                        56.35775
+                  ]
+            },
+            {
+                  "name": "Maltas novadpētniecības muzejs",
+                  "text": "A máltai régió történelmét és hagyományait bemutató helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.159829,
+                        56.343859
+                  ]
+            },
+            {
+                  "name": "Maltas Vēstures muzejs",
+                  "text": "Málta város történelmi örökségét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.15813,
+                        56.351279
+                  ]
+            },
+            {
+                  "name": "Rozentovas Svētā Krusta pagodināšanas baznīca;Rozentovas",
+                  "text": "Történelmi római katolikus fatemplom Rozentovában.",
+                  "category": "religious",
+                  "coords": [
+                        27.18375,
+                        56.341313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lūznavas muiža",
+                  "text": "Un conac istoric în stil Art Nouveau, care servește acum ca centru cultural.",
+                  "category": "museum",
+                  "coords": [
+                        27.260407,
+                        56.35775
+                  ]
+            },
+            {
+                  "name": "Maltas novadpētniecības muzejs",
+                  "text": "Un muzeu local dedicat istoriei și tradițiilor regiunii Malta.",
+                  "category": "museum",
+                  "coords": [
+                        27.159829,
+                        56.343859
+                  ]
+            },
+            {
+                  "name": "Maltas Vēstures muzejs",
+                  "text": "Un muzeu care păstrează moștenirea istorică a orașului Malta.",
+                  "category": "museum",
+                  "coords": [
+                        27.15813,
+                        56.351279
+                  ]
+            },
+            {
+                  "name": "Rozentovas Svētā Krusta pagodināšanas baznīca;Rozentovas",
+                  "text": "O biserică romano-catolică istorică din lemn în Rozentova.",
+                  "category": "religious",
+                  "coords": [
+                        27.18375,
+                        56.341313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lūznavas muiža",
+                  "text": "A historical Art Nouveau manor house that now serves as a cultural center.",
+                  "category": "museum",
+                  "coords": [
+                        27.260407,
+                        56.35775
+                  ]
+            },
+            {
+                  "name": "Maltas novadpētniecības muzejs",
+                  "text": "A local museum dedicated to the history and traditions of the Malta region.",
+                  "category": "museum",
+                  "coords": [
+                        27.159829,
+                        56.343859
+                  ]
+            },
+            {
+                  "name": "Maltas Vēstures muzejs",
+                  "text": "A museum preserving the historical heritage of the town of Malta.",
+                  "category": "museum",
+                  "coords": [
+                        27.15813,
+                        56.351279
+                  ]
+            },
+            {
+                  "name": "Rozentovas Svētā Krusta pagodināšanas baznīca;Rozentovas",
+                  "text": "A historical wooden Roman Catholic church in Rozentova.",
+                  "category": "religious",
+                  "coords": [
+                        27.18375,
+                        56.341313
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Lūznava-Hügel", hu: "Lūznava-domb", ro: "Dealul Lūznava", en: "Lūznava Hill" },
@@ -228,7 +381,196 @@ export const latviaReliefV2: POI[] = [
     image: "/poi-images/latvia-iecalas-pauguraine-relief-v2.webp",
   },
   {
-    id: "latvia-zilaiskalns-ridge-relief-v2",
+    id: "latvia-zilaiskalns-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Eine antike Begräbnisstätte auf dem Zilaiskalns-Rücken, die die frühe Geschichte der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "Eine historische Burgwallanlage auf dem Zilaiskalns-Rücken, die in der Antike zur Verteidigung diente.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "Ein lokales Kulturzentrum und Theater, in dem verschiedene Aufführungen und Veranstaltungen in der Gegend von Zilaiskalns stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Ein elegantes historisches Herrenhaus in Dikļi, bekannt für seine klassizistische Architektur und seine schönen Gärten.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Ein traditionelles Herrenhaus in der Region Zilaiskalns, das historische ländliche Architektur zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "A Zilaiskalns-gerincen található ősi temetkezési hely, amely a régió korai történelmét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "Történelmi várhely a Zilaiskalns-gerincen, amely az ókorban védelmi célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "Helyi kulturális központ és színház, amely különféle előadásoknak és eseményeknek ad otthont a Zilaiskalns környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Elegáns történelmi kúria Dikļiben, amely neoklasszicista építészetéről és gyönyörű kertjeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Hagyományos kúria a Zilaiskalns régióban, amely a történelmi vidéki építészetet mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Un sit funerar antic situat pe creasta Zilaiskalns, reflectând istoria timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "Un sit istoric de cetate pe creasta Zilaiskalns, folosit pentru apărare în antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "Un centru cultural local și teatru care găzduiește diverse spectacole și evenimente în zona Zilaiskalns.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Un conac istoric elegant în Dikļi, cunoscut pentru arhitectura sa neoclasică și grădinile frumoase.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Un conac tradițional din regiunea Zilaiskalns, care prezintă arhitectura rurală istorică.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "An ancient burial site located on the Zilaiskalns Ridge, reflecting the region's early history.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "A historical hillfort site on the Zilaiskalns Ridge, used for defense in ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "A local cultural center and theatre hosting various performances and events in the Zilaiskalns area.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "An elegant historic manor in Dikļi, known for its neoclassical architecture and beautiful gardens.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "A traditional manor house in the Zilaiskalns region, showcasing historic rural architecture.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Zilaiskalns-Kamm", hu: "Zilaiskalns-gerinc", ro: "Creasta Zilaiskalns", en: "Zilaiskalns Ridge" },
@@ -363,7 +705,160 @@ export const latviaReliefV2: POI[] = [
     image: "/poi-images/latvia-brivkalni-hill-relief-v2.webp",
   },
   {
-    id: "latvia-daugavas-loki-ridge-relief-v2",
+    id: "latvia-daugavas-loki-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Ein Naturpark, der die markanten und malerischen Mäander des Flusses Düna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        26.910393,
+                        55.891932
+                  ]
+            },
+            {
+                  "name": "Slutišķu vecticībnieku māja",
+                  "text": "Ein Museum in einem traditionellen Haus, das das Leben der Altgläubigen in der Region Daugavas loki zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.885589,
+                        55.913762
+                  ]
+            },
+            {
+                  "name": "Slutišķu krauja",
+                  "text": "Ein Aussichtspunkt an einer hohen Klippe mit Panoramablick über die Windungen der Düna.",
+                  "category": "natural",
+                  "coords": [
+                        26.873099,
+                        55.902459
+                  ]
+            },
+            {
+                  "name": "Lazdukalna skatu tornis",
+                  "text": "Ein Aussichtsturm, der einen weiten Blick über die bewaldete Landschaft des Naturparks Daugavas loki bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.862976,
+                        55.871639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Természeti park, amely a Daugava folyó jellegzetes és festői kanyarulatait védi.",
+                  "category": "natural",
+                  "coords": [
+                        26.910393,
+                        55.891932
+                  ]
+            },
+            {
+                  "name": "Slutišķu vecticībnieku māja",
+                  "text": "Hagyományos házban kialakított múzeum, amely az óhitűek életét mutatja be a Daugavas loki régióban.",
+                  "category": "museum",
+                  "coords": [
+                        26.885589,
+                        55.913762
+                  ]
+            },
+            {
+                  "name": "Slutišķu krauja",
+                  "text": "Kilátópont egy magas sziklánál, ahonnan panorámás kilátás nyílik a Daugava kanyarulataira.",
+                  "category": "natural",
+                  "coords": [
+                        26.873099,
+                        55.902459
+                  ]
+            },
+            {
+                  "name": "Lazdukalna skatu tornis",
+                  "text": "Kilátótorony, amely tágas kilátást nyújt a Daugavas loki természetvédelmi park erdős tájára.",
+                  "category": "natural",
+                  "coords": [
+                        26.862976,
+                        55.871639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Un parc natural care protejează meandrele distinctive și pitorești ale râului Daugava.",
+                  "category": "natural",
+                  "coords": [
+                        26.910393,
+                        55.891932
+                  ]
+            },
+            {
+                  "name": "Slutišķu vecticībnieku māja",
+                  "text": "Un muzeu amenajat într-o casă tradițională, care prezintă viața staroverilor din regiunea Daugavas loki.",
+                  "category": "museum",
+                  "coords": [
+                        26.885589,
+                        55.913762
+                  ]
+            },
+            {
+                  "name": "Slutišķu krauja",
+                  "text": "Un punct de observație pe o stâncă înaltă, oferind o vedere panoramică asupra coturilor râului Daugava.",
+                  "category": "natural",
+                  "coords": [
+                        26.873099,
+                        55.902459
+                  ]
+            },
+            {
+                  "name": "Lazdukalna skatu tornis",
+                  "text": "Un turn de observare care oferă o vedere largă asupra peisajului împădurit al parcului natural Daugavas loki.",
+                  "category": "natural",
+                  "coords": [
+                        26.862976,
+                        55.871639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daugava river bends nature park",
+                  "text": "A nature park protecting the distinctive and scenic meanders of the Daugava River.",
+                  "category": "natural",
+                  "coords": [
+                        26.910393,
+                        55.891932
+                  ]
+            },
+            {
+                  "name": "Slutišķu vecticībnieku māja",
+                  "text": "A museum in a traditional house showcasing the life of Old Believers in the Daugavas loki region.",
+                  "category": "museum",
+                  "coords": [
+                        26.885589,
+                        55.913762
+                  ]
+            },
+            {
+                  "name": "Slutišķu krauja",
+                  "text": "A viewpoint at a high cliff offering panoramic views over the bends of the Daugava River.",
+                  "category": "natural",
+                  "coords": [
+                        26.873099,
+                        55.902459
+                  ]
+            },
+            {
+                  "name": "Lazdukalna skatu tornis",
+                  "text": "An observation tower providing a broad view over the forested landscape of the Daugavas loki nature park.",
+                  "category": "natural",
+                  "coords": [
+                        26.862976,
+                        55.871639
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Daugava-Bogenrücken", hu: "Daugava-kanyarulat-hát", ro: "Cresta Cotiturilor Daugavei", en: "Daugava Bend Ridge" },
@@ -408,7 +903,88 @@ export const latviaReliefV2: POI[] = [
     image: "/poi-images/latvia-daugavas-loki-ridge-relief-v2.webp",
   },
   {
-    id: "latvia-galdnieki-hill-relief-v2",
+    id: "latvia-galdnieki-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "Ein Naturschutzgebiet in Lettland, das zum Schutz des Ökosystems des Blažģis-Sees eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "Eine Außenstelle des Rigaer Zoos mit Tiergehegen in natürlicher Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "Lettországi természetvédelmi terület, amelyet a Blažģis-tó ökoszisztémájának védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "A Rigai Állatkert kihelyezett részlege, amely természetes környezetben mutatja be az állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "O rezervație naturală din Letonia, creată pentru a proteja ecosistemul lacului Blažģis.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "O filială a Grădinii Zoologice din Riga, care prezintă animale într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "A nature reserve in Latvia established to protect the ecosystem of Lake Blažģis.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "A branch of the Riga Zoo offering animal exhibits in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Galdnieki-Hügel", hu: "Galdnieki-domb", ro: "Dealul Galdnieki", en: "Galdnieki Hill" },
@@ -543,7 +1119,124 @@ export const latviaReliefV2: POI[] = [
     image: "/poi-images/latvia-sauka-ridge-relief-v2.webp",
   },
   {
-    id: "latvia-priedaine-hill-relief-v2",
+    id: "latvia-priedaine-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Līvbērzes liekņa”",
+                  "text": "Ein Naturschutzgebiet in Lettland, das wertvolle Auenwiesen und Biotope schützt.",
+                  "category": "natural",
+                  "coords": [
+                        23.509739,
+                        56.75159
+                  ]
+            },
+            {
+                  "name": "Līves miuža",
+                  "text": "Ein historisches Herrenhaus in der Region Priedaine, das Zeugnis der ländlichen Geschichte ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.4954,
+                        56.716947
+                  ]
+            },
+            {
+                  "name": "bij. Veļas",
+                  "text": "Die Überreste eines alten Gebäudes in Priedaine, das einst praktischen Zwecken diente.",
+                  "category": "historical",
+                  "coords": [
+                        23.522599,
+                        56.764347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Līvbērzes liekņa”",
+                  "text": "Természetvédelmi terület Lettországban, amely értékes ártéri réteket és biotópokat véd.",
+                  "category": "natural",
+                  "coords": [
+                        23.509739,
+                        56.75159
+                  ]
+            },
+            {
+                  "name": "Līves miuža",
+                  "text": "Történelmi kúria a Priedaine régióban, amely a vidéki múlt emléke.",
+                  "category": "historical",
+                  "coords": [
+                        23.4954,
+                        56.716947
+                  ]
+            },
+            {
+                  "name": "bij. Veļas",
+                  "text": "Egy régi épület maradványai Priedaine-ben, amely egykor gyakorlati célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        23.522599,
+                        56.764347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Līvbērzes liekņa”",
+                  "text": "O rezervație naturală în Letonia, care protejează pajiști inundabile și biotopuri valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        23.509739,
+                        56.75159
+                  ]
+            },
+            {
+                  "name": "Līves miuža",
+                  "text": "Un conac istoric în regiunea Priedaine, martor al istoriei rurale.",
+                  "category": "historical",
+                  "coords": [
+                        23.4954,
+                        56.716947
+                  ]
+            },
+            {
+                  "name": "bij. Veļas",
+                  "text": "Rămășițele unei clădiri vechi în Priedaine, care a servit odată unor scopuri practice.",
+                  "category": "historical",
+                  "coords": [
+                        23.522599,
+                        56.764347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Līvbērzes liekņa”",
+                  "text": "A nature reserve in Latvia protecting valuable floodplain meadows and biotopes.",
+                  "category": "natural",
+                  "coords": [
+                        23.509739,
+                        56.75159
+                  ]
+            },
+            {
+                  "name": "Līves miuža",
+                  "text": "A historical manor in the Priedaine region, serving as a witness to rural history.",
+                  "category": "historical",
+                  "coords": [
+                        23.4954,
+                        56.716947
+                  ]
+            },
+            {
+                  "name": "bij. Veļas",
+                  "text": "The remains of an old building in Priedaine that once served practical purposes.",
+                  "category": "historical",
+                  "coords": [
+                        23.522599,
+                        56.764347
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Priedaine-Hügel", hu: "Priedaine-domb", ro: "Dealul Priedaine", en: "Priedaine Hill" },
@@ -1893,7 +2586,88 @@ export const latviaReliefV2: POI[] = [
     image: "/poi-images/latvia-kaleti-ridge-relief-v2.webp",
   },
   {
-    id: "latvia-galdnieki-ridge-relief-v2",
+    id: "latvia-galdnieki-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "Ein Naturschutzgebiet, das den Blažģis-See und die umliegende Landschaft schützt.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "Ein Außenstandort des Rigaer Zoos, der einheimische Tiere in einer natürlichen Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "Természetvédelmi terület, amely a Blažģis-tavat és a környező tájat óvja.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "A Rigai Állatkert kihelyezett részlege, ahol őshonos állatokat mutatnak be természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "O rezervație naturală care protejează lacul Blažģis și peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "O filială a Grădinii Zoologice din Riga, care prezintă animale native într-un mediu natural.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Blažģa ezers”",
+                  "text": "A nature reserve protecting Lake Blažģis and its surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        21.710023,
+                        56.549818
+                  ]
+            },
+            {
+                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
+                  "text": "A branch of the Riga Zoo showcasing native animals in a natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        21.610995,
+                        56.570857
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "LV",
     name: { de: "Galdnieki-Rücken", hu: "Galdnieki-hát", ro: "Cresta Galdnieki", en: "Galdnieki Ridge" },

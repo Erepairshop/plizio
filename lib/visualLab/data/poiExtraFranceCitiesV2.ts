@@ -46,7 +46,1011 @@ export const franceCitiesV2: POI[] = [
       fr: ["Fondée au Ve siècle av. J.-C. comme colonie grecque d'Antipolis", "Le Port Vauban est le premier port de plaisance d'Europe avec 1 500 postes", "Le musée Picasso abrite 245 œuvres de l'artiste", "Le Fort Carré servit de prison à Napoléon au XVIIIe siècle", "Le marché provençal se tient tous les jours sauf le lundi", "Le sentier du littoral mesure 3,7 km de long"],
     },
     image: "/poi-images/france-antibes-cities-v2.webp",
-    "sights": {"de": [{"name": "Picasso-Museum", "text": "Dieses Museum im Château Grimaldi beherbergt eine erstklassige Sammlung von Werken des berühmten Künstlers.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Eine sternförmige Festung aus dem 16. Jahrhundert mit Panoramablick auf das Mittelmeer und den Luxushafen.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Einer der größten Freizeithäfen Europas, berühmt für seinen Milliardärskai und die prächtigen Yachten.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Eine atemberaubende Halbinsel, bekannt für ihre Luxusvillen, versteckten Buchten und den Küstenwanderweg.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Kathedrale von Antibes", "text": "Eine wunderschöne Kathedrale mit markanter Ockerfassade an der Stelle eines antiken griechischen Tempels.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Berühmter Meeres-Themenpark mit Shows von Schwertwalen, Delfinen und vielen anderen Meerestieren.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Phare de la Garoupe", "text": "Ein leistungsstarker Leuchtturm auf dem Gipfel des Kaps, der eine weite Sicht über die Riviera bietet.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Kapelle von La Garoupe", "text": "Eine malerische Wallfahrtskapelle, die für ihre wertvolle Sammlung von Votivgaben der Seefahrer bekannt ist.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Jardin Botanique de la Villa Thuret", "text": "Botanischer Garten mit exotischen Pflanzenarten, der von staatlichen Forschungsinstituten verwaltet wird.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "Mit einem wunderbaren Blick auf die historische Altstadt von Antibes lädt dieser beliebte Sandstrand zum Verweilen ein. Das flache Wasser sorgt für eine einladende Umgebung, die besonders bei Familien und entspannten Badegästen großen Anklang findet. Man kann hier die malerische Aussicht genießen, gemütlich planschen oder sich einfach im warmen Sand sonnen. An sonnigen Tagen füllt sich der Strand schnell, weshalb ein morgendlicher Besuch ratsam ist.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Ein spektakulärer Küstenpfad, der rund um das malerische Cap d'Antibes entlang der Klippen führt.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Prachtvolle neoklassizistische Villa mit weitläufigen Gärten, die für die Öffentlichkeit zugänglich sind.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Ein See in Antibes, der eine ruhige Atmosphäre für Besucher bietet.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Ein spannender Abenteuerspielplatz in Antibes für aktive Familien und Kinder.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Ein herausfordernder Minigolfplatz in Antibes, ideal für einen spaßigen Familienausflug.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Ein freundlicher Stadtspielplatz in Antibes, der zum Verweilen und Spielen einlädt.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Diese Spielmöglichkeiten am städtischen Schwimmbad in Antibes bieten Spaß für Kinder.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "Ein schöner Spielbereich in Antibes, ideal für eine pause mit den kindern im freien.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra ist ein Strandresort in Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Der Antibes Land Park ist ein Freizeitpark in Antibes. Hier gibt es viele Attraktionen für Familien mit Kindern.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Die Piscine Les Mimosas ist ein Schwimmbad in Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié ist ein Schwimmbad in Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "hu": [{"name": "Picasso Múzeum", "text": "A Château Grimaldi épületében található múzeum a híres művész alkotásainak világszínvonalú gyűjteményét őrzi.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "16. századi csillag alakú erőd, amely panorámás kilátást nyújt a Földközi-tengerre és a luxuskikötőre.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Európa egyik legnagyobb jachtkikötője, amely a Milliárdosok rakpartjáról és lenyűgöző jachtjairól híres.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Lenyűgöző félsziget, amely luxusvilláiról, rejtett öbleiről és a látványos tengerparti ösvényről ismert.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Antibes-i katedrális", "text": "Gyönyörű katedrális jellegzetes okkersárga homlokzattal, amely egy ókori görög templom helyén áll.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Európa egyik legnagyobb tengeri vidámparkja gyilkos bálna- és delfinshow-kkal.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Garoupe-világítótorony", "text": "A félsziget legmagasabb pontján álló jelzőtorony, ahonnan belátható az egész francia Riviéra.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Garoupe-kápolna", "text": "Történelmi zarándokhely, ahol a tengerészek által felajánlott különleges fogadalmi ajándékok láthatók.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Villa Thuret botanikus kert", "text": "Egzotikus növényfajokat bemutató tudományos kert, amelyet még a 19. században alapítottak.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "Az Antibes történelmi óvárosára nyíló csodálatos kilátással ez a népszerű homokos strand maradásra csábít. A sekély víz hívogató környezetet teremt, amely különösen a családok és a pihenni vágyó fürdőzők körében örvend nagy népszerűségnek. Itt élvezheti a festői kilátást, kényelmesen pancsolhat, vagy egyszerűen csak napozhat a meleg homokban. Napsütéses napokon a strand gyorsan megtelik, ezért érdemes reggel érkezni.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Part menti sétány", "text": "Látványos gyalogút a sziklák mentén, amely megkerüli a Cap d'Antibes luxusvillákkal övezett partját.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Pazar neoklasszicista kastély és kert, amely a Riviéra aranykorának eleganciáját idézi.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Egy tó Antibes-ben, amely nyugodt légkört kínál a látogatóknak.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Egy izgalmas kalandjátszótér Antibes-ben az aktív családok és gyerekek számára.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Egy kihívást jelentő minigolfpálya Antibes-ben, ideális egy vidám családi kiránduláshoz.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Egy barátságos városi játszótér Antibes-ben, amely pihenésre és játékra hív.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Az antibes-i városi uszodánál található játéklehetőségek szórakozást nyújtanak a gyerekeknek.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "Egy szép játszóhely Antibes-ben, ideális egy szabadtéri pihenőhöz a gyerekekkel.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "A Hydra egy tengerparti üdülőhely Antibes városában.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Az Antibes Land Park egy vidámpark Antibes városában. Számos látnivalót kínál a gyermekes családok számára.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "A Piscine Les Mimosas egy uszoda Antibes városában.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "A Le Moustié egy uszoda Antibes városában.", "category": "family", "coords": [7.0971, 43.592315]}], "ro": [{"name": "Muzeul Picasso", "text": "Situat în Château Grimaldi, acest muzeu găzduiește o colecție de clasă mondială a operelor celebrului artist.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "O fortăreață în formă de stea din secolul al XVI-lea, oferind vederi panoramice asupra Mediteranei.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "Unul dintre cele mai mari porturi de agrement din Europa, faimos pentru Digul Miliardarilor și iahturile sale.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "O peninsulă uimitoare cunoscută pentru vilele sale de lux, golfurile ascunse și poteca Sentier du Littoral.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Catedrala din Antibes", "text": "O catedrală frumoasă cu o fațadă ocru distinctivă, ridicată pe locul unui vechi templu grecesc.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Un faimos parc marin ce oferă spectacole cu balene ucigașe, delfini și o varietate de specii marine.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Farul Garoupe", "text": "Un far maritim puternic situat pe colina Cap d'Antibes, oferind o panoramă vastă asupra Rivierei.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Capela Garoupe", "text": "Lăcaș de cult istoric, renumit pentru colecția sa de ofrande votive lăsate de marinarii locali.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Grădina Botanică Villa Thuret", "text": "Spațiu științific ce găzduiește numeroase specii de plante exotice aclimatizate pe Coasta de Azur.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plaja Salis", "text": "Cu o vedere minunată asupra centrului istoric din Antibes, această plajă populară cu nisip vă invită să zăboviți. Apa puțin adâncă creează un mediu primitor, care este deosebit de apreciat de familii și de cei care doresc să se relaxeze. Aici vă puteți bucura de priveliștea pitorească, vă puteți bălăci în voie sau pur și simplu puteți face plajă pe nisipul cald. În zilele însorite plaja se umple rapid, așa că o vizită matinală este recomandabilă.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Potecă de coastă impresionantă ce șerpuiește de-a lungul stâncilor din jurul Cap d'Antibes.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Vila neoclasică magnifică, înconjurată de grădini luxuriante deschise vizitatorilor în anumite zile.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "Un lac în Antibes, care oferă o atmosferă liniștită pentru vizitatori.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "Un loc de joacă de aventură interesant în Antibes pentru familii și copii activi.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "Un teren de minigolf provocator în Antibes, ideal pentru o excursie distractivă în familie.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "Un loc de joacă urban prietenos în Antibes, care invită la relaxare și joacă.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "Aceste facilități de joacă de la piscina municipală din Antibes oferă distracție pentru copii.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "O zonă de joacă frumoasă în Antibes, ideală pentru o pauză în aer liber cu copiii.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra este o stațiune balneară situată în Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Antibes Land Park este un parc tematic în Antibes. Există multe atracții pentru familiile cu copii.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Piscine Les Mimosas este un bazin de înot situat în Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié este un bazin de înot situat în Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "en": [{"name": "Picasso Museum", "text": "Located in the Château Grimaldi, this museum houses a world-class collection of works by the famous artist.", "category": "museum", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "A 16th-century star-shaped fortress offering panoramic views of the Mediterranean and the luxury harbor.", "category": "fortress", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "One of the largest pleasure ports in Europe, famous for its Billionaires' Quay and magnificent yachts.", "category": "civic", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "A stunning peninsula known for its luxury villas, hidden coves, and the scenic Sentier du Littoral path.", "category": "natural", "confidence": "high", "coords": [7.123056, 43.58]}, {"name": "Antibes Cathedral", "text": "A beautiful cathedral with a distinctive ochre facade, standing on the site of an ancient Greek temple.", "category": "religious", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Marineland Antibes", "text": "Famous marine theme park featuring shows with killer whales, dolphins, and diverse sea life.", "category": "recreational", "confidence": "high", "coords": [7.125, 43.615]}, {"name": "Phare de la Garoupe", "text": "A powerful lighthouse situated at the top of the cape, offering vast views over the Riviera.", "category": "historical", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Chapelle de la Garoupe", "text": "A picturesque pilgrimage chapel known for its collection of maritime ex-voto offerings.", "category": "religious", "confidence": "high", "coords": [7.132108, 43.564218]}, {"name": "Villa Thuret Botanical Garden", "text": "Scientific garden managed by INRA, hosting a wide variety of exotic and rare plant species.", "category": "natural", "confidence": "high", "coords": [7.124444, 43.563889]}, {"name": "Plage de la Salis", "text": "With a wonderful view of the historic old town of Antibes, this popular sandy beach invites you to linger. The shallow water ensures a welcoming environment that is especially well-received by families and relaxed bathers. You can enjoy the picturesque outlook, splash around comfortably, or simply sunbathe on the warm sand. On sunny days, the beach fills up quickly, making a morning visit advisable.", "category": "natural", "confidence": "high", "coords": [7.12872, 43.57056]}, {"name": "Sentier du Littoral", "text": "Stunning coastal walking path that winds along the cliffs around the scenic Cap d'Antibes.", "category": "natural", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Villa Eilenroc", "text": "Magnificent neoclassical villa with beautiful public gardens representing the Belle Époque.", "category": "historical", "confidence": "high", "coords": [7.130054, 43.547828]}, {"name": "Otaries de Stellers", "text": "A lake in Antibes, offering a peaceful atmosphere for visitors.", "category": "natural", "coords": [7.12573, 43.613153]}, {"name": "Urban Aventure", "text": "An exciting adventure playground in Antibes for active families and children.", "category": "family", "coords": [7.123408, 43.614674]}, {"name": "Adventure Golf", "text": "A challenging mini golf course in Antibes, ideal for a fun family outing.", "category": "family", "coords": [7.123851, 43.613605]}, {"name": "Square Lutetia", "text": "A friendly urban playground in Antibes, inviting for relaxation and play.", "category": "family", "coords": [7.102205, 43.571047]}, {"name": "Jeux Piscine Municipale", "text": "These play facilities at the municipal swimming pool in Antibes offer fun for children.", "category": "family", "coords": [7.119417, 43.589079]}, {"name": "Aire de jeux des roses", "text": "A beautiful play area in Antibes, ideal for an outdoor break with the children.", "category": "family", "coords": [7.099158, 43.587834]}, {"name": "Hydra", "text": "Hydra is a beach resort located in Antibes.", "category": "family", "coords": [7.098479, 43.571209]}, {"name": "Antibes Land Park", "text": "Antibes Land Park is a theme park located in Antibes. There are many attractions for families with children here.", "category": "family", "coords": [7.122314, 43.612789]}, {"name": "Piscine Les Mimosas", "text": "Piscine Les Mimosas is a swimming pool located in Antibes.", "category": "family", "coords": [7.095614, 43.591821]}, {"name": "Le Moustié", "text": "Le Moustié is a swimming pool located in Antibes.", "category": "family", "coords": [7.0971, 43.592315]}], "fr": [{"name": "Musée Picasso", "text": "Installé au château Grimaldi, ce musée présente une collection de premier plan des œuvres du célèbre artiste.", "category": "museum", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Forteresse en forme d'étoile du XVIe siècle, offrant une vue panoramique sur la Méditerranée et le port de luxe.", "category": "fortress", "coords": [7.127222, 43.590278]}, {"name": "Port Vauban", "text": "L'un des plus grands ports de plaisance d'Europe, célèbre pour son quai des milliardaires et ses yachts somptueux.", "category": "civic", "coords": [7.126944, 43.586667]}, {"name": "Cap d'Antibes", "text": "Presqu'île éblouissante, réputée pour ses villas de luxe, ses criques cachées et son sentier littoral.", "category": "natural", "coords": [7.123056, 43.58]}, {"name": "Cathédrale d'Antibes", "text": "Belle cathédrale à la façade ocre caractéristique, bâtie sur les ruines d'un ancien temple grec.", "category": "religious", "coords": [7.128333, 43.581111]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Picasso-Museum",
+                  "text": "Dieses Museum im Château Grimaldi beherbergt eine erstklassige Sammlung von Werken des berühmten Künstlers.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.580833
+                  ]
+            },
+            {
+                  "name": "Fort Carré",
+                  "text": "Eine sternförmige Festung aus dem 16. Jahrhundert mit Panoramablick auf das Mittelmeer und den Luxushafen.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        7.127222,
+                        43.590278
+                  ]
+            },
+            {
+                  "name": "Port Vauban",
+                  "text": "Einer der größten Freizeithäfen Europas, berühmt für seinen Milliardärskai und die prächtigen Yachten.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.126944,
+                        43.586667
+                  ]
+            },
+            {
+                  "name": "Cap d'Antibes",
+                  "text": "Eine atemberaubende Halbinsel, bekannt für ihre Luxusvillen, versteckten Buchten und den Küstenwanderweg.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.123056,
+                        43.58
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Antibes",
+                  "text": "Eine wunderschöne Kathedrale mit markanter Ockerfassade an der Stelle eines antiken griechischen Tempels.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Marineland Antibes",
+                  "text": "Berühmter Meeres-Themenpark mit Shows von Schwertwalen, Delfinen und vielen anderen Meerestieren.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        7.125,
+                        43.615
+                  ]
+            },
+            {
+                  "name": "Phare de la Garoupe",
+                  "text": "Ein leistungsstarker Leuchtturm auf dem Gipfel des Kaps, der eine weite Sicht über die Riviera bietet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.13306,
+                        43.5642
+                  ]
+            },
+            {
+                  "name": "Kapelle von La Garoupe",
+                  "text": "Eine malerische Wallfahrtskapelle, die für ihre wertvolle Sammlung von Votivgaben der Seefahrer bekannt ist.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.132108,
+                        43.564218
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique de la Villa Thuret",
+                  "text": "Botanischer Garten mit exotischen Pflanzenarten, der von staatlichen Forschungsinstituten verwaltet wird.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.124444,
+                        43.563889
+                  ]
+            },
+            {
+                  "name": "Plage de la Salis",
+                  "text": "Mit einem wunderbaren Blick auf die historische Altstadt von Antibes lädt dieser beliebte Sandstrand zum Verweilen ein. Das flache Wasser sorgt für eine einladende Umgebung, die besonders bei Familien und entspannten Badegästen großen Anklang findet. Man kann hier die malerische Aussicht genießen, gemütlich planschen oder sich einfach im warmen Sand sonnen. An sonnigen Tagen füllt sich der Strand schnell, weshalb ein morgendlicher Besuch ratsam ist.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.12872,
+                        43.57056
+                  ]
+            },
+            {
+                  "name": "Sentier du Littoral",
+                  "text": "Ein spektakulärer Küstenpfad, der rund um das malerische Cap d'Antibes entlang der Klippen führt.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.139687,
+                        43.555293
+                  ]
+            },
+            {
+                  "name": "Villa Eilenroc",
+                  "text": "Prachtvolle neoklassizistische Villa mit weitläufigen Gärten, die für die Öffentlichkeit zugänglich sind.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.130054,
+                        43.547828
+                  ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Ein See in Antibes, der eine ruhige Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Urban Aventure",
+                  "text": "Ein spannender Abenteuerspielplatz in Antibes für aktive Familien und Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.123408,
+                        43.614674
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Ein herausfordernder Minigolfplatz in Antibes, ideal für einen spaßigen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        7.123851,
+                        43.613605
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Ein freundlicher Stadtspielplatz in Antibes, der zum Verweilen und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "Diese Spielmöglichkeiten am städtischen Schwimmbad in Antibes bieten Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "Ein schöner Spielbereich in Antibes, ideal für eine pause mit den kindern im freien.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra ist ein Strandresort in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Antibes Land Park",
+                  "text": "Der Antibes Land Park ist ein Freizeitpark in Antibes. Hier gibt es viele Attraktionen für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        7.122314,
+                        43.612789
+                  ]
+            },
+            {
+                  "name": "Piscine Les Mimosas",
+                  "text": "Die Piscine Les Mimosas ist ein Schwimmbad in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.095614,
+                        43.591821
+                  ]
+            },
+            {
+                  "name": "Le Moustié",
+                  "text": "Le Moustié ist ein Schwimmbad in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.0971,
+                        43.592315
+                  ]
+            },
+            {
+                  "name": "Plage de Ponteil",
+                  "text": "Ein Sandstrand in Antibes mit flachem Wasser, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        7.12574,
+                        43.573376
+                  ]
+            },
+            {
+                  "name": "Musee Peynet",
+                  "text": "Ein Museum in Antibes, das die Werke des Illustrators Raymond Peynet ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.125901,
+                        43.580941
+                  ]
+            },
+            {
+                  "name": "Chateau Sale",
+                  "text": "Ein historisches Anwesen in Antibes, bekannt für seine Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        7.112083,
+                        43.585079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picasso Múzeum",
+                  "text": "A Château Grimaldi épületében található múzeum a híres művész alkotásainak világszínvonalú gyűjteményét őrzi.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.580833
+                  ]
+            },
+            {
+                  "name": "Fort Carré",
+                  "text": "16. századi csillag alakú erőd, amely panorámás kilátást nyújt a Földközi-tengerre és a luxuskikötőre.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        7.127222,
+                        43.590278
+                  ]
+            },
+            {
+                  "name": "Port Vauban",
+                  "text": "Európa egyik legnagyobb jachtkikötője, amely a Milliárdosok rakpartjáról és lenyűgöző jachtjairól híres.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.126944,
+                        43.586667
+                  ]
+            },
+            {
+                  "name": "Cap d'Antibes",
+                  "text": "Lenyűgöző félsziget, amely luxusvilláiról, rejtett öbleiről és a látványos tengerparti ösvényről ismert.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.123056,
+                        43.58
+                  ]
+            },
+            {
+                  "name": "Antibes-i katedrális",
+                  "text": "Gyönyörű katedrális jellegzetes okkersárga homlokzattal, amely egy ókori görög templom helyén áll.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Marineland Antibes",
+                  "text": "Európa egyik legnagyobb tengeri vidámparkja gyilkos bálna- és delfinshow-kkal.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        7.125,
+                        43.615
+                  ]
+            },
+            {
+                  "name": "Garoupe-világítótorony",
+                  "text": "A félsziget legmagasabb pontján álló jelzőtorony, ahonnan belátható az egész francia Riviéra.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.13306,
+                        43.5642
+                  ]
+            },
+            {
+                  "name": "Garoupe-kápolna",
+                  "text": "Történelmi zarándokhely, ahol a tengerészek által felajánlott különleges fogadalmi ajándékok láthatók.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.132108,
+                        43.564218
+                  ]
+            },
+            {
+                  "name": "Villa Thuret botanikus kert",
+                  "text": "Egzotikus növényfajokat bemutató tudományos kert, amelyet még a 19. században alapítottak.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.124444,
+                        43.563889
+                  ]
+            },
+            {
+                  "name": "Plage de la Salis",
+                  "text": "Az Antibes történelmi óvárosára nyíló csodálatos kilátással ez a népszerű homokos strand maradásra csábít. A sekély víz hívogató környezetet teremt, amely különösen a családok és a pihenni vágyó fürdőzők körében örvend nagy népszerűségnek. Itt élvezheti a festői kilátást, kényelmesen pancsolhat, vagy egyszerűen csak napozhat a meleg homokban. Napsütéses napokon a strand gyorsan megtelik, ezért érdemes reggel érkezni.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.12872,
+                        43.57056
+                  ]
+            },
+            {
+                  "name": "Part menti sétány",
+                  "text": "Látványos gyalogút a sziklák mentén, amely megkerüli a Cap d'Antibes luxusvillákkal övezett partját.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.139687,
+                        43.555293
+                  ]
+            },
+            {
+                  "name": "Villa Eilenroc",
+                  "text": "Pazar neoklasszicista kastély és kert, amely a Riviéra aranykorának eleganciáját idézi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.130054,
+                        43.547828
+                  ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Egy tó Antibes-ben, amely nyugodt légkört kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Urban Aventure",
+                  "text": "Egy izgalmas kalandjátszótér Antibes-ben az aktív családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        7.123408,
+                        43.614674
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Egy kihívást jelentő minigolfpálya Antibes-ben, ideális egy vidám családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.123851,
+                        43.613605
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Egy barátságos városi játszótér Antibes-ben, amely pihenésre és játékra hív.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "Az antibes-i városi uszodánál található játéklehetőségek szórakozást nyújtanak a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "Egy szép játszóhely Antibes-ben, ideális egy szabadtéri pihenőhöz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "A Hydra egy tengerparti üdülőhely Antibes városában.",
+                  "category": "family",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Antibes Land Park",
+                  "text": "Az Antibes Land Park egy vidámpark Antibes városában. Számos látnivalót kínál a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        7.122314,
+                        43.612789
+                  ]
+            },
+            {
+                  "name": "Piscine Les Mimosas",
+                  "text": "A Piscine Les Mimosas egy uszoda Antibes városában.",
+                  "category": "family",
+                  "coords": [
+                        7.095614,
+                        43.591821
+                  ]
+            },
+            {
+                  "name": "Le Moustié",
+                  "text": "A Le Moustié egy uszoda Antibes városában.",
+                  "category": "family",
+                  "coords": [
+                        7.0971,
+                        43.592315
+                  ]
+            },
+            {
+                  "name": "Plage de Ponteil",
+                  "text": "Homokos strand Antibes-ban, sekély vízzel, ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.12574,
+                        43.573376
+                  ]
+            },
+            {
+                  "name": "Musee Peynet",
+                  "text": "Raymond Peynet illusztrátor műveit bemutató múzeum Antibes-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.125901,
+                        43.580941
+                  ]
+            },
+            {
+                  "name": "Chateau Sale",
+                  "text": "Történelmi udvarház Antibes-ban, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.112083,
+                        43.585079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Picasso",
+                  "text": "Situat în Château Grimaldi, acest muzeu găzduiește o colecție de clasă mondială a operelor celebrului artist.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.580833
+                  ]
+            },
+            {
+                  "name": "Fort Carré",
+                  "text": "O fortăreață în formă de stea din secolul al XVI-lea, oferind vederi panoramice asupra Mediteranei.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        7.127222,
+                        43.590278
+                  ]
+            },
+            {
+                  "name": "Port Vauban",
+                  "text": "Unul dintre cele mai mari porturi de agrement din Europa, faimos pentru Digul Miliardarilor și iahturile sale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.126944,
+                        43.586667
+                  ]
+            },
+            {
+                  "name": "Cap d'Antibes",
+                  "text": "O peninsulă uimitoare cunoscută pentru vilele sale de lux, golfurile ascunse și poteca Sentier du Littoral.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.123056,
+                        43.58
+                  ]
+            },
+            {
+                  "name": "Catedrala din Antibes",
+                  "text": "O catedrală frumoasă cu o fațadă ocru distinctivă, ridicată pe locul unui vechi templu grecesc.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Marineland Antibes",
+                  "text": "Un faimos parc marin ce oferă spectacole cu balene ucigașe, delfini și o varietate de specii marine.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        7.125,
+                        43.615
+                  ]
+            },
+            {
+                  "name": "Farul Garoupe",
+                  "text": "Un far maritim puternic situat pe colina Cap d'Antibes, oferind o panoramă vastă asupra Rivierei.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.13306,
+                        43.5642
+                  ]
+            },
+            {
+                  "name": "Capela Garoupe",
+                  "text": "Lăcaș de cult istoric, renumit pentru colecția sa de ofrande votive lăsate de marinarii locali.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.132108,
+                        43.564218
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Villa Thuret",
+                  "text": "Spațiu științific ce găzduiește numeroase specii de plante exotice aclimatizate pe Coasta de Azur.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.124444,
+                        43.563889
+                  ]
+            },
+            {
+                  "name": "Plaja Salis",
+                  "text": "Cu o vedere minunată asupra centrului istoric din Antibes, această plajă populară cu nisip vă invită să zăboviți. Apa puțin adâncă creează un mediu primitor, care este deosebit de apreciat de familii și de cei care doresc să se relaxeze. Aici vă puteți bucura de priveliștea pitorească, vă puteți bălăci în voie sau pur și simplu puteți face plajă pe nisipul cald. În zilele însorite plaja se umple rapid, așa că o vizită matinală este recomandabilă.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.12872,
+                        43.57056
+                  ]
+            },
+            {
+                  "name": "Sentier du Littoral",
+                  "text": "Potecă de coastă impresionantă ce șerpuiește de-a lungul stâncilor din jurul Cap d'Antibes.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.139687,
+                        43.555293
+                  ]
+            },
+            {
+                  "name": "Villa Eilenroc",
+                  "text": "Vila neoclasică magnifică, înconjurată de grădini luxuriante deschise vizitatorilor în anumite zile.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.130054,
+                        43.547828
+                  ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "Un lac în Antibes, care oferă o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Urban Aventure",
+                  "text": "Un loc de joacă de aventură interesant în Antibes pentru familii și copii activi.",
+                  "category": "family",
+                  "coords": [
+                        7.123408,
+                        43.614674
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "Un teren de minigolf provocator în Antibes, ideal pentru o excursie distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.123851,
+                        43.613605
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "Un loc de joacă urban prietenos în Antibes, care invită la relaxare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "Aceste facilități de joacă de la piscina municipală din Antibes oferă distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "O zonă de joacă frumoasă în Antibes, ideală pentru o pauză în aer liber cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra este o stațiune balneară situată în Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Antibes Land Park",
+                  "text": "Antibes Land Park este un parc tematic în Antibes. Există multe atracții pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        7.122314,
+                        43.612789
+                  ]
+            },
+            {
+                  "name": "Piscine Les Mimosas",
+                  "text": "Piscine Les Mimosas este un bazin de înot situat în Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.095614,
+                        43.591821
+                  ]
+            },
+            {
+                  "name": "Le Moustié",
+                  "text": "Le Moustié este un bazin de înot situat în Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.0971,
+                        43.592315
+                  ]
+            },
+            {
+                  "name": "Plage de Ponteil",
+                  "text": "O plajă de nisip în Antibes cu ape puțin adânci, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        7.12574,
+                        43.573376
+                  ]
+            },
+            {
+                  "name": "Musee Peynet",
+                  "text": "Un muzeu în Antibes ce expune lucrările ilustratorului Raymond Peynet.",
+                  "category": "museum",
+                  "coords": [
+                        7.125901,
+                        43.580941
+                  ]
+            },
+            {
+                  "name": "Chateau Sale",
+                  "text": "O proprietate istorică în Antibes, cunoscută pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        7.112083,
+                        43.585079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picasso Museum",
+                  "text": "Located in the Château Grimaldi, this museum houses a world-class collection of works by the famous artist.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.580833
+                  ]
+            },
+            {
+                  "name": "Fort Carré",
+                  "text": "A 16th-century star-shaped fortress offering panoramic views of the Mediterranean and the luxury harbor.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        7.127222,
+                        43.590278
+                  ]
+            },
+            {
+                  "name": "Port Vauban",
+                  "text": "One of the largest pleasure ports in Europe, famous for its Billionaires' Quay and magnificent yachts.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.126944,
+                        43.586667
+                  ]
+            },
+            {
+                  "name": "Cap d'Antibes",
+                  "text": "A stunning peninsula known for its luxury villas, hidden coves, and the scenic Sentier du Littoral path.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.123056,
+                        43.58
+                  ]
+            },
+            {
+                  "name": "Antibes Cathedral",
+                  "text": "A beautiful cathedral with a distinctive ochre facade, standing on the site of an ancient Greek temple.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Marineland Antibes",
+                  "text": "Famous marine theme park featuring shows with killer whales, dolphins, and diverse sea life.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        7.125,
+                        43.615
+                  ]
+            },
+            {
+                  "name": "Phare de la Garoupe",
+                  "text": "A powerful lighthouse situated at the top of the cape, offering vast views over the Riviera.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.13306,
+                        43.5642
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Garoupe",
+                  "text": "A picturesque pilgrimage chapel known for its collection of maritime ex-voto offerings.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.132108,
+                        43.564218
+                  ]
+            },
+            {
+                  "name": "Villa Thuret Botanical Garden",
+                  "text": "Scientific garden managed by INRA, hosting a wide variety of exotic and rare plant species.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.124444,
+                        43.563889
+                  ]
+            },
+            {
+                  "name": "Plage de la Salis",
+                  "text": "With a wonderful view of the historic old town of Antibes, this popular sandy beach invites you to linger. The shallow water ensures a welcoming environment that is especially well-received by families and relaxed bathers. You can enjoy the picturesque outlook, splash around comfortably, or simply sunbathe on the warm sand. On sunny days, the beach fills up quickly, making a morning visit advisable.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.12872,
+                        43.57056
+                  ]
+            },
+            {
+                  "name": "Sentier du Littoral",
+                  "text": "Stunning coastal walking path that winds along the cliffs around the scenic Cap d'Antibes.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.139687,
+                        43.555293
+                  ]
+            },
+            {
+                  "name": "Villa Eilenroc",
+                  "text": "Magnificent neoclassical villa with beautiful public gardens representing the Belle Époque.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.130054,
+                        43.547828
+                  ]
+            },
+            {
+                  "name": "Otaries de Stellers",
+                  "text": "A lake in Antibes, offering a peaceful atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        7.12573,
+                        43.613153
+                  ]
+            },
+            {
+                  "name": "Urban Aventure",
+                  "text": "An exciting adventure playground in Antibes for active families and children.",
+                  "category": "family",
+                  "coords": [
+                        7.123408,
+                        43.614674
+                  ]
+            },
+            {
+                  "name": "Adventure Golf",
+                  "text": "A challenging mini golf course in Antibes, ideal for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        7.123851,
+                        43.613605
+                  ]
+            },
+            {
+                  "name": "Square Lutetia",
+                  "text": "A friendly urban playground in Antibes, inviting for relaxation and play.",
+                  "category": "family",
+                  "coords": [
+                        7.102205,
+                        43.571047
+                  ]
+            },
+            {
+                  "name": "Jeux Piscine Municipale",
+                  "text": "These play facilities at the municipal swimming pool in Antibes offer fun for children.",
+                  "category": "family",
+                  "coords": [
+                        7.119417,
+                        43.589079
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des roses",
+                  "text": "A beautiful play area in Antibes, ideal for an outdoor break with the children.",
+                  "category": "family",
+                  "coords": [
+                        7.099158,
+                        43.587834
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra is a beach resort located in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Antibes Land Park",
+                  "text": "Antibes Land Park is a theme park located in Antibes. There are many attractions for families with children here.",
+                  "category": "family",
+                  "coords": [
+                        7.122314,
+                        43.612789
+                  ]
+            },
+            {
+                  "name": "Piscine Les Mimosas",
+                  "text": "Piscine Les Mimosas is a swimming pool located in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.095614,
+                        43.591821
+                  ]
+            },
+            {
+                  "name": "Le Moustié",
+                  "text": "Le Moustié is a swimming pool located in Antibes.",
+                  "category": "family",
+                  "coords": [
+                        7.0971,
+                        43.592315
+                  ]
+            },
+            {
+                  "name": "Plage de Ponteil",
+                  "text": "A sandy beach in Antibes with shallow waters, ideal for families.",
+                  "category": "recreational",
+                  "coords": [
+                        7.12574,
+                        43.573376
+                  ]
+            },
+            {
+                  "name": "Musee Peynet",
+                  "text": "A museum in Antibes exhibiting the works of illustrator Raymond Peynet.",
+                  "category": "museum",
+                  "coords": [
+                        7.125901,
+                        43.580941
+                  ]
+            },
+            {
+                  "name": "Chateau Sale",
+                  "text": "A historic estate in Antibes known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        7.112083,
+                        43.585079
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Musée Picasso",
+                  "text": "Installé au château Grimaldi, ce musée présente une collection de premier plan des œuvres du célèbre artiste.",
+                  "category": "museum",
+                  "coords": [
+                        7.128333,
+                        43.580833
+                  ]
+            },
+            {
+                  "name": "Fort Carré",
+                  "text": "Forteresse en forme d'étoile du XVIe siècle, offrant une vue panoramique sur la Méditerranée et le port de luxe.",
+                  "category": "fortress",
+                  "coords": [
+                        7.127222,
+                        43.590278
+                  ]
+            },
+            {
+                  "name": "Port Vauban",
+                  "text": "L'un des plus grands ports de plaisance d'Europe, célèbre pour son quai des milliardaires et ses yachts somptueux.",
+                  "category": "civic",
+                  "coords": [
+                        7.126944,
+                        43.586667
+                  ]
+            },
+            {
+                  "name": "Cap d'Antibes",
+                  "text": "Presqu'île éblouissante, réputée pour ses villas de luxe, ses criques cachées et son sentier littoral.",
+                  "category": "natural",
+                  "coords": [
+                        7.123056,
+                        43.58
+                  ]
+            },
+            {
+                  "name": "Cathédrale d'Antibes",
+                  "text": "Belle cathédrale à la façade ocre caractéristique, bâtie sur les ruines d'un ancien temple grec.",
+                  "category": "religious",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            }
+      ]
+}
   },
   
   {
@@ -18151,7 +19155,721 @@ export const franceCitiesV2: POI[] = [
       fr: ["La Cité de l'Automobile expose plus de 400 véhicules.", "Mulhouse a rejoint la République française en 1798.", "La ville compte environ 110 000 habitants.", "Le Musée de l'Impression sur Étoffes a été fondé en 1955."],
     },
     image: "/poi-images/france-mulhouse-south-cities-v2.webp",
-    "sights": {"de": [{"name": "Cité de l'Automobile", "text": "Das größte Automobilmuseum der Welt beherbergt die berühmte Sammlung Schlumpf mit über 400 Luxus- und Rennwagen.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "Das nationale Eisenbahnmuseum zeigt die Geschichte der Schiene in Europa mit einer beeindruckenden Sammlung historischer Loks.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "Die protestantische Kirche am Place de la Réunion ist bekannt für ihre prächtigen Glasmalereien aus dem 14. Jahrhundert.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "Die Place de la Réunion bildet das bunte Zentrum im Bereich Mulhouse Sud in Frankreich. Typisch für diesen zivilen Treffpunkt sind die farbenfrohen Bauwerke, zu denen auch das Rathaus und der Tempel Saint-Étienne zählen. Bei einem Rundgang über den zentralen Platz lässt sich diese Architektur wunderbar bewundern.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Hôtel de Ville", "text": "Das Rathaus im Renaissancestil ist berühmt für seine reich verzierten Fassadenmalereien und beherbergt das Historische Museum.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Musée de l'Impression sur Étoffes", "text": "Dieses weltweit einzigartige Museum dokumentiert die Geschichte der Stoffdruckindustrie, die Mulhouse reich gemacht hat.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Zoologischer und Botanischer Garten", "text": "Ein wunderschöner Park, der sich dem Schutz bedrohter Tierarten und der Erhaltung seltener Pflanzen widmet.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Dieser Ort in Mulhouse Sud bietet eine ruhige Kulisse für einen Spaziergang am Wasser.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Minigolf", "text": "Diese Minigolfanlage in Mulhouse Sud ist ein tolles Ziel für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Ein schöner Spielplatz in Mulhouse Sud, der Kindern viel Platz zum Toben und Spielen bietet.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Familienbecken", "text": "Das Familienbecken in Mulhouse Sud ist so konzipiert, dass Schwimmer jeden Alters es gemeinsam genießen können.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Sprungturm", "text": "Diese Schwimmanlage in Mulhouse Sud verfügt über ein Sprungbrett für aktiven Familienspaß.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Streichelzoo", "text": "Dieser Kinderzoo in Mulhouse Sud bietet hautnahe Begegnungen mit freundlichen Tieren in einer sicheren Umgebung.", "category": "family", "coords": [7.352023, 47.737158]}], "hu": [{"name": "Autómúzeum (Cité de l'Automobile)", "text": "A világ legnagyobb autómúzeuma, amely a Schlumpf-fivérek elképesztő, több mint 400 darabos veteránautó-gyűjteményét őrzi.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Vasúti Múzeum (Cité du Train)", "text": "Franciaország nemzeti vasúti múzeuma, ahol hatalmas csarnokokban ismerhetjük meg a vasútfejlődés történetét és a híres mozdonyokat.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Szent István-templom", "text": "A főtéren álló protestáns templom Mulhouse egyik jelképe, amely 14. századi eredeti színes üvegablakairól nevezetes.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "A Place de la Réunion alkotja a franciaországi Mulhouse Sud színes központját. Erre a közösségi találkozóhelyre jellemzőek a festői épületek, amelyek közé tartozik a városháza és a Saint-Étienne templom is. A központi téren sétálva nagyszerűen megcsodálható ez a lenyűgöző építészet.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Városháza", "text": "A reneszánsz épület különlegessége a külső falakon látható élénk festés, belső termeiben pedig a városi történeti múzeum működik.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Textilmúzeum", "text": "A szövetnyomás történetét bemutató intézmény Mulhouse ipari múltjára emlékeztet, hatalmas mintagyűjteménnyel rendelkezik.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Állat- és Növénykert", "text": "Egy hatalmas zöld terület, amely különleges fajokat mutat be és fontos szerepet játszik a természetvédelemben.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Ez a Mulhouse Sud-i helyszín nyugodt környezetet biztosít egy vízparti sétához.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "Ez a Mulhouse Sud területén található minigolfpálya remek helyszín egy vidám családi kikapcsolódáshoz.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Egy kedves játszótér Mulhouse Sud területén, amely tágas helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "A Mulhouse Sud-i családi medencét úgy alakították ki, hogy minden korosztály együtt élvezhesse az úszást.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "Ez a Mulhouse Sud-i úszólétesítmény ugródeszkával várja az aktív családi szórakozást.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "Ez a Mulhouse Sud-i gyermekállatkert közeli találkozást kínál barátságos állatokkal, biztonságos környezetben.", "category": "family", "coords": [7.352023, 47.737158]}], "ro": [{"name": "Orașul Automobilului", "text": "Cel mai mare muzeu auto din lume, adăpostind colecția Schlumpf cu peste 400 de modele rare, inclusiv faimoasele Bugatti Royale.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Orașul Trenului", "text": "Muzeul Național al Căilor Ferate din Franța, prezentând o colecție vastă de locomotive și vagoane care au marcat istoria transportului.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Templul Saint-Étienne", "text": "O biserică protestantă impunătoare situată în inima orașului, celebră pentru vitraliile sale medievale conservate perfect.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Piața Reuniunii", "text": "Place de la Réunion formează centrul colorat din zona Mulhouse Sud din Franța. Acest punct de întâlnire civic se caracterizează prin clădirile sale viu colorate, care includ primăria și Templul Saint-Étienne. La o plimbare prin piața centrală, această arhitectură poate fi admirată în voie.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Primăria (Hôtel de Ville)", "text": "O clădire în stil renascentist rhenan, renumită pentru frescele exterioare care ilustrează virtuțile și istoria orașului.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Muzeul Imprimeurilor pe Țesături", "text": "Un muzeu unic care explorează arta designului textil și istoria industrială bogată a orașului Mulhouse.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Grădina Zoologică și Botanică", "text": "Un parc vast fondat în 1868, adăpostind peste 1200 de animale și grădini tematice cu specii de plante rare.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "Această locație din Mulhouse Sud oferă un cadru liniștit pentru o plimbare lângă apă.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "Acest teren de minigolf din Mulhouse Sud este o destinație excelentă pentru o ieșire distractivă în familie.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "Un loc de joacă plăcut în Mulhouse Sud, oferind copiilor spațiu generos pentru joacă și relaxare.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "Piscina familială din Mulhouse Sud este concepută pentru ca înotătorii de toate vârstele să se bucure împreună.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "Această bază de înot din Mulhouse Sud are o trambulină pentru distracție activă în familie.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "Această grădină zoologică pentru copii din Mulhouse Sud oferă întâlniri apropiate cu animale prietenoase într-un cadru sigur.", "category": "family", "coords": [7.352023, 47.737158]}], "en": [{"name": "Cité de l'Automobile", "text": "The world's largest car museum, featuring the legendary Schlumpf collection with over 400 vintage and luxury vehicles.", "category": "museum", "confidence": "high", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "The French national railway museum, showcasing a huge collection of historic locomotives and carriages in grand halls.", "category": "museum", "confidence": "high", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "The main Protestant church of Mulhouse, noted for its exceptional 14th-century stained glass windows and high spire.", "category": "religious", "confidence": "high", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "The Place de la Réunion forms the vibrant center in the Mulhouse Sud area of France. This civic meeting point is characterized by its brightly colored buildings, which include the town hall and the Saint-Étienne Temple. While walking across the central square, this architecture can be wonderfully admired.", "category": "civic", "confidence": "high", "coords": [7.338614, 47.746833]}, {"name": "Town Hall (Hôtel de Ville)", "text": "A stunning Renaissance building famous for its painted exterior walls, now housing the city's historical museum.", "category": "historical", "confidence": "high", "coords": [7.339277, 47.746602]}, {"name": "Museum of Printed Textiles", "text": "This museum preserves the artistic and industrial heritage of textile printing, a craft that defined the city's history.", "category": "museum", "confidence": "high", "coords": [7.3446, 47.7451]}, {"name": "Zoological and Botanical Garden", "text": "A large urban park dedicated to the conservation of endangered animal species and the preservation of rare flora.", "category": "natural", "confidence": "high", "coords": [7.350487, 47.734652]}, {"name": "Bassin d'orage Bruebach", "text": "This location in Mulhouse Sud offers a quiet setting for a walk by the water.", "category": "natural", "coords": [7.3289, 47.691713]}, {"name": "Mini Golf", "text": "This mini-golf course in Mulhouse Sud is a great destination for a fun family outing.", "category": "family", "coords": [7.321219, 47.735262]}, {"name": "Aire de jeux des Berges de l'Ill", "text": "A lovely playground in Mulhouse Sud, offering children plenty of space to run and play.", "category": "family", "coords": [7.324488, 47.737943]}, {"name": "Bassin familial", "text": "The family pool in Mulhouse Sud is designed for swimmers of all ages to enjoy together.", "category": "family", "coords": [7.319876, 47.734458]}, {"name": "Plongeoir", "text": "This swimming facility in Mulhouse Sud features a diving board for active family fun.", "category": "family", "coords": [7.319248, 47.732954]}, {"name": "Zoo pour enfant", "text": "This children's zoo in Mulhouse Sud offers close encounters with friendly animals in a safe setting.", "category": "family", "coords": [7.352023, 47.737158]}], "fr": [{"name": "Cité de l'Automobile", "text": "Le plus grand musée automobile au monde, abritant la célèbre collection Schlumpf avec plus de 400 voitures de luxe et de course.", "category": "museum", "coords": [7.328611, 47.760833]}, {"name": "Cité du Train", "text": "Le musée ferroviaire national retrace l'histoire du rail en Europe avec une impressionnante collection de locomotives historiques.", "category": "museum", "coords": [7.293889, 47.750556]}, {"name": "Temple Saint-Étienne", "text": "Église protestante sur la place de la Réunion, connue pour ses magnifiques vitraux du XIVe siècle.", "category": "religious", "coords": [7.338889, 47.747222]}, {"name": "Place de la Réunion", "text": "La Place de la Réunion constitue le centre coloré de la zone de Mulhouse Sud en France. Ce point de rencontre civique se caractérise par ses bâtiments aux couleurs vives, parmi lesquels on compte l'hôtel de ville et le temple Saint-Étienne. Lors d'une promenade sur la place centrale, on peut y admirer à merveille cette architecture.", "category": "civic", "coords": [7.338614, 47.746833]}, {"name": "Hôtel de Ville", "text": "Hôtel de ville de style Renaissance, célèbre pour ses façades richement peintes, abritant le musée historique.", "category": "historical", "coords": [7.339277, 47.746602]}, {"name": "Musée de l'Impression sur Étoffes", "text": "Musée unique au monde documentant l'histoire de l'industrie textile imprimée qui a fait la richesse de Mulhouse.", "category": "museum", "coords": [7.3446, 47.7451]}, {"name": "Parc Zoologique et Botanique", "text": "Jardin magnifique dédié à la protection des espèces animales menacées et à la préservation de plantes rares.", "category": "natural", "coords": [7.350487, 47.734652]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "Das größte Automobilmuseum der Welt beherbergt die berühmte Sammlung Schlumpf mit über 400 Luxus- und Rennwagen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.328611,
+                        47.760833
+                  ]
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "Das nationale Eisenbahnmuseum zeigt die Geschichte der Schiene in Europa mit einer beeindruckenden Sammlung historischer Loks.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.293889,
+                        47.750556
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Étienne",
+                  "text": "Die protestantische Kirche am Place de la Réunion ist bekannt für ihre prächtigen Glasmalereien aus dem 14. Jahrhundert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.338889,
+                        47.747222
+                  ]
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "Die Place de la Réunion bildet das bunte Zentrum im Bereich Mulhouse Sud in Frankreich. Typisch für diesen zivilen Treffpunkt sind die farbenfrohen Bauwerke, zu denen auch das Rathaus und der Tempel Saint-Étienne zählen. Bei einem Rundgang über den zentralen Platz lässt sich diese Architektur wunderbar bewundern.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.338614,
+                        47.746833
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus im Renaissancestil ist berühmt für seine reich verzierten Fassadenmalereien und beherbergt das Historische Museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.339277,
+                        47.746602
+                  ]
+            },
+            {
+                  "name": "Musée de l'Impression sur Étoffes",
+                  "text": "Dieses weltweit einzigartige Museum dokumentiert die Geschichte der Stoffdruckindustrie, die Mulhouse reich gemacht hat.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.3446,
+                        47.7451
+                  ]
+            },
+            {
+                  "name": "Zoologischer und Botanischer Garten",
+                  "text": "Ein wunderschöner Park, der sich dem Schutz bedrohter Tierarten und der Erhaltung seltener Pflanzen widmet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.350487,
+                        47.734652
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage Bruebach",
+                  "text": "Dieser Ort in Mulhouse Sud bietet eine ruhige Kulisse für einen Spaziergang am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        7.3289,
+                        47.691713
+                  ]
+            },
+            {
+                  "name": "Minigolf",
+                  "text": "Diese Minigolfanlage in Mulhouse Sud ist ein tolles Ziel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        7.321219,
+                        47.735262
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Berges de l'Ill",
+                  "text": "Ein schöner Spielplatz in Mulhouse Sud, der Kindern viel Platz zum Toben und Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.324488,
+                        47.737943
+                  ]
+            },
+            {
+                  "name": "Familienbecken",
+                  "text": "Das Familienbecken in Mulhouse Sud ist so konzipiert, dass Schwimmer jeden Alters es gemeinsam genießen können.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Sprungturm",
+                  "text": "Diese Schwimmanlage in Mulhouse Sud verfügt über ein Sprungbrett für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Dieser Kinderzoo in Mulhouse Sud bietet hautnahe Begegnungen mit freundlichen Tieren in einer sicheren Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
+            },
+            {
+                  "name": "Theatre de la Sinne",
+                  "text": "Ein elegantes historisches Theater in Mulhouse, das ein Zentrum für Oper und Schauspiel ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.339306,
+                        47.745277
+                  ]
+            },
+            {
+                  "name": "Tummulus, Tombe Celtique",
+                  "text": "Ein archäologischer Fund eines prähistorischen Grabhügels, der Zeugnis von der keltischen Kultur ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        7.369565,
+                        47.720502
+                  ]
+            },
+            {
+                  "name": "La Kunsthalle - Centre d'art contemporain",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Mulhouse, das in einer ehemaligen Fabrik innovative Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.331896,
+                        47.739155
+                  ]
+            },
+            {
+                  "name": "ancienne leproserie",
+                  "text": "Historische Überreste einer ehemaligen Lepra-Kolonie in der Region Mulhouse.",
+                  "category": "historical",
+                  "coords": [
+                        7.329528,
+                        47.708173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Autómúzeum (Cité de l'Automobile)",
+                  "text": "A világ legnagyobb autómúzeuma, amely a Schlumpf-fivérek elképesztő, több mint 400 darabos veteránautó-gyűjteményét őrzi.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.328611,
+                        47.760833
+                  ]
+            },
+            {
+                  "name": "Vasúti Múzeum (Cité du Train)",
+                  "text": "Franciaország nemzeti vasúti múzeuma, ahol hatalmas csarnokokban ismerhetjük meg a vasútfejlődés történetét és a híres mozdonyokat.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.293889,
+                        47.750556
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "A főtéren álló protestáns templom Mulhouse egyik jelképe, amely 14. századi eredeti színes üvegablakairól nevezetes.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.338889,
+                        47.747222
+                  ]
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "A Place de la Réunion alkotja a franciaországi Mulhouse Sud színes központját. Erre a közösségi találkozóhelyre jellemzőek a festői épületek, amelyek közé tartozik a városháza és a Saint-Étienne templom is. A központi téren sétálva nagyszerűen megcsodálható ez a lenyűgöző építészet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.338614,
+                        47.746833
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A reneszánsz épület különlegessége a külső falakon látható élénk festés, belső termeiben pedig a városi történeti múzeum működik.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.339277,
+                        47.746602
+                  ]
+            },
+            {
+                  "name": "Textilmúzeum",
+                  "text": "A szövetnyomás történetét bemutató intézmény Mulhouse ipari múltjára emlékeztet, hatalmas mintagyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.3446,
+                        47.7451
+                  ]
+            },
+            {
+                  "name": "Állat- és Növénykert",
+                  "text": "Egy hatalmas zöld terület, amely különleges fajokat mutat be és fontos szerepet játszik a természetvédelemben.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.350487,
+                        47.734652
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage Bruebach",
+                  "text": "Ez a Mulhouse Sud-i helyszín nyugodt környezetet biztosít egy vízparti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        7.3289,
+                        47.691713
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Ez a Mulhouse Sud területén található minigolfpálya remek helyszín egy vidám családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        7.321219,
+                        47.735262
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Berges de l'Ill",
+                  "text": "Egy kedves játszótér Mulhouse Sud területén, amely tágas helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.324488,
+                        47.737943
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "A Mulhouse Sud-i családi medencét úgy alakították ki, hogy minden korosztály együtt élvezhesse az úszást.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Ez a Mulhouse Sud-i úszólétesítmény ugródeszkával várja az aktív családi szórakozást.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Ez a Mulhouse Sud-i gyermekállatkert közeli találkozást kínál barátságos állatokkal, biztonságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
+            },
+            {
+                  "name": "Theatre de la Sinne",
+                  "text": "Elegáns történelmi színház Mulhouse-ban, amely az opera és a színjátszás központja.",
+                  "category": "cultural",
+                  "coords": [
+                        7.339306,
+                        47.745277
+                  ]
+            },
+            {
+                  "name": "Tummulus, Tombe Celtique",
+                  "text": "Őstörténeti sírhalom régészeti lelete, amely a kelta kultúráról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        7.369565,
+                        47.720502
+                  ]
+            },
+            {
+                  "name": "La Kunsthalle - Centre d'art contemporain",
+                  "text": "Kortárs művészeti központ Mulhouse-ban, amely egy egykori gyárban mutat be innovatív kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        7.331896,
+                        47.739155
+                  ]
+            },
+            {
+                  "name": "ancienne leproserie",
+                  "text": "Egy egykori lepratelep történelmi maradványai Mulhouse régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        7.329528,
+                        47.708173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orașul Automobilului",
+                  "text": "Cel mai mare muzeu auto din lume, adăpostind colecția Schlumpf cu peste 400 de modele rare, inclusiv faimoasele Bugatti Royale.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.328611,
+                        47.760833
+                  ]
+            },
+            {
+                  "name": "Orașul Trenului",
+                  "text": "Muzeul Național al Căilor Ferate din Franța, prezentând o colecție vastă de locomotive și vagoane care au marcat istoria transportului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.293889,
+                        47.750556
+                  ]
+            },
+            {
+                  "name": "Templul Saint-Étienne",
+                  "text": "O biserică protestantă impunătoare situată în inima orașului, celebră pentru vitraliile sale medievale conservate perfect.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.338889,
+                        47.747222
+                  ]
+            },
+            {
+                  "name": "Piața Reuniunii",
+                  "text": "Place de la Réunion formează centrul colorat din zona Mulhouse Sud din Franța. Acest punct de întâlnire civic se caracterizează prin clădirile sale viu colorate, care includ primăria și Templul Saint-Étienne. La o plimbare prin piața centrală, această arhitectură poate fi admirată în voie.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.338614,
+                        47.746833
+                  ]
+            },
+            {
+                  "name": "Primăria (Hôtel de Ville)",
+                  "text": "O clădire în stil renascentist rhenan, renumită pentru frescele exterioare care ilustrează virtuțile și istoria orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.339277,
+                        47.746602
+                  ]
+            },
+            {
+                  "name": "Muzeul Imprimeurilor pe Țesături",
+                  "text": "Un muzeu unic care explorează arta designului textil și istoria industrială bogată a orașului Mulhouse.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.3446,
+                        47.7451
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică și Botanică",
+                  "text": "Un parc vast fondat în 1868, adăpostind peste 1200 de animale și grădini tematice cu specii de plante rare.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.350487,
+                        47.734652
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage Bruebach",
+                  "text": "Această locație din Mulhouse Sud oferă un cadru liniștit pentru o plimbare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        7.3289,
+                        47.691713
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "Acest teren de minigolf din Mulhouse Sud este o destinație excelentă pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.321219,
+                        47.735262
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Berges de l'Ill",
+                  "text": "Un loc de joacă plăcut în Mulhouse Sud, oferind copiilor spațiu generos pentru joacă și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        7.324488,
+                        47.737943
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "Piscina familială din Mulhouse Sud este concepută pentru ca înotătorii de toate vârstele să se bucure împreună.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "Această bază de înot din Mulhouse Sud are o trambulină pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "Această grădină zoologică pentru copii din Mulhouse Sud oferă întâlniri apropiate cu animale prietenoase într-un cadru sigur.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
+            },
+            {
+                  "name": "Theatre de la Sinne",
+                  "text": "Un teatru istoric elegant în Mulhouse, care este un centru pentru operă și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        7.339306,
+                        47.745277
+                  ]
+            },
+            {
+                  "name": "Tummulus, Tombe Celtique",
+                  "text": "O descoperire arheologică a unui tumul preistoric, care atestă cultura celtică.",
+                  "category": "historical",
+                  "coords": [
+                        7.369565,
+                        47.720502
+                  ]
+            },
+            {
+                  "name": "La Kunsthalle - Centre d'art contemporain",
+                  "text": "Un centru de artă contemporană în Mulhouse, care prezintă expoziții inovatoare într-o fostă fabrică.",
+                  "category": "museum",
+                  "coords": [
+                        7.331896,
+                        47.739155
+                  ]
+            },
+            {
+                  "name": "ancienne leproserie",
+                  "text": "Rămășițele istorice ale unei foste colonii de leproși din regiunea Mulhouse.",
+                  "category": "historical",
+                  "coords": [
+                        7.329528,
+                        47.708173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "The world's largest car museum, featuring the legendary Schlumpf collection with over 400 vintage and luxury vehicles.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.328611,
+                        47.760833
+                  ]
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "The French national railway museum, showcasing a huge collection of historic locomotives and carriages in grand halls.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.293889,
+                        47.750556
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Étienne",
+                  "text": "The main Protestant church of Mulhouse, noted for its exceptional 14th-century stained glass windows and high spire.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        7.338889,
+                        47.747222
+                  ]
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "The Place de la Réunion forms the vibrant center in the Mulhouse Sud area of France. This civic meeting point is characterized by its brightly colored buildings, which include the town hall and the Saint-Étienne Temple. While walking across the central square, this architecture can be wonderfully admired.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        7.338614,
+                        47.746833
+                  ]
+            },
+            {
+                  "name": "Town Hall (Hôtel de Ville)",
+                  "text": "A stunning Renaissance building famous for its painted exterior walls, now housing the city's historical museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        7.339277,
+                        47.746602
+                  ]
+            },
+            {
+                  "name": "Museum of Printed Textiles",
+                  "text": "This museum preserves the artistic and industrial heritage of textile printing, a craft that defined the city's history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        7.3446,
+                        47.7451
+                  ]
+            },
+            {
+                  "name": "Zoological and Botanical Garden",
+                  "text": "A large urban park dedicated to the conservation of endangered animal species and the preservation of rare flora.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        7.350487,
+                        47.734652
+                  ]
+            },
+            {
+                  "name": "Bassin d'orage Bruebach",
+                  "text": "This location in Mulhouse Sud offers a quiet setting for a walk by the water.",
+                  "category": "natural",
+                  "coords": [
+                        7.3289,
+                        47.691713
+                  ]
+            },
+            {
+                  "name": "Mini Golf",
+                  "text": "This mini-golf course in Mulhouse Sud is a great destination for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        7.321219,
+                        47.735262
+                  ]
+            },
+            {
+                  "name": "Aire de jeux des Berges de l'Ill",
+                  "text": "A lovely playground in Mulhouse Sud, offering children plenty of space to run and play.",
+                  "category": "family",
+                  "coords": [
+                        7.324488,
+                        47.737943
+                  ]
+            },
+            {
+                  "name": "Bassin familial",
+                  "text": "The family pool in Mulhouse Sud is designed for swimmers of all ages to enjoy together.",
+                  "category": "family",
+                  "coords": [
+                        7.319876,
+                        47.734458
+                  ]
+            },
+            {
+                  "name": "Plongeoir",
+                  "text": "This swimming facility in Mulhouse Sud features a diving board for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        7.319248,
+                        47.732954
+                  ]
+            },
+            {
+                  "name": "Zoo pour enfant",
+                  "text": "This children's zoo in Mulhouse Sud offers close encounters with friendly animals in a safe setting.",
+                  "category": "family",
+                  "coords": [
+                        7.352023,
+                        47.737158
+                  ]
+            },
+            {
+                  "name": "Theatre de la Sinne",
+                  "text": "An elegant historic theatre in Mulhouse, serving as a center for opera and drama.",
+                  "category": "cultural",
+                  "coords": [
+                        7.339306,
+                        47.745277
+                  ]
+            },
+            {
+                  "name": "Tummulus, Tombe Celtique",
+                  "text": "An archaeological find of a prehistoric burial mound, bearing witness to Celtic culture.",
+                  "category": "historical",
+                  "coords": [
+                        7.369565,
+                        47.720502
+                  ]
+            },
+            {
+                  "name": "La Kunsthalle - Centre d'art contemporain",
+                  "text": "A contemporary art centre in Mulhouse showcasing innovative exhibitions in a former factory.",
+                  "category": "museum",
+                  "coords": [
+                        7.331896,
+                        47.739155
+                  ]
+            },
+            {
+                  "name": "ancienne leproserie",
+                  "text": "Historic remains of a former leper colony in the Mulhouse region.",
+                  "category": "historical",
+                  "coords": [
+                        7.329528,
+                        47.708173
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Cité de l'Automobile",
+                  "text": "Le plus grand musée automobile au monde, abritant la célèbre collection Schlumpf avec plus de 400 voitures de luxe et de course.",
+                  "category": "museum",
+                  "coords": [
+                        7.328611,
+                        47.760833
+                  ]
+            },
+            {
+                  "name": "Cité du Train",
+                  "text": "Le musée ferroviaire national retrace l'histoire du rail en Europe avec une impressionnante collection de locomotives historiques.",
+                  "category": "museum",
+                  "coords": [
+                        7.293889,
+                        47.750556
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Étienne",
+                  "text": "Église protestante sur la place de la Réunion, connue pour ses magnifiques vitraux du XIVe siècle.",
+                  "category": "religious",
+                  "coords": [
+                        7.338889,
+                        47.747222
+                  ]
+            },
+            {
+                  "name": "Place de la Réunion",
+                  "text": "La Place de la Réunion constitue le centre coloré de la zone de Mulhouse Sud en France. Ce point de rencontre civique se caractérise par ses bâtiments aux couleurs vives, parmi lesquels on compte l'hôtel de ville et le temple Saint-Étienne. Lors d'une promenade sur la place centrale, on peut y admirer à merveille cette architecture.",
+                  "category": "civic",
+                  "coords": [
+                        7.338614,
+                        47.746833
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de ville de style Renaissance, célèbre pour ses façades richement peintes, abritant le musée historique.",
+                  "category": "historical",
+                  "coords": [
+                        7.339277,
+                        47.746602
+                  ]
+            },
+            {
+                  "name": "Musée de l'Impression sur Étoffes",
+                  "text": "Musée unique au monde documentant l'histoire de l'industrie textile imprimée qui a fait la richesse de Mulhouse.",
+                  "category": "museum",
+                  "coords": [
+                        7.3446,
+                        47.7451
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique",
+                  "text": "Jardin magnifique dédié à la protection des espèces animales menacées et à la préservation de plantes rares.",
+                  "category": "natural",
+                  "coords": [
+                        7.350487,
+                        47.734652
+                  ]
+            }
+      ]
+}
   },
   {
     id: "france-besancon-west-cities-v2",
@@ -18295,6 +20013,51 @@ export const franceCitiesV2: POI[] = [
                         6.035421,
                         47.227956
                   ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "Ein regionales Zentrum für zeitgenössische Kunst in Besançon.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Fort de Chaudanne",
+                  "text": "Eine Festungsanlage aus dem 19. Jahrhundert, die die Stadt Besançon schützt.",
+                  "category": "castle",
+                  "coords": [
+                        6.023666,
+                        47.226963
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Ein kleines Museum in Beure bei Besançon, das lokales Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "Ein historisches Gebäude in Besançon, das mit der religiösen Geschichte der Stadt verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Dieses Museum in der Zitadelle von Besançon präsentiert die regionale Geschichte und die Traditionen der Franche-Comté.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
+                  ]
             }
       ],
       "hu": [
@@ -18392,6 +20155,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.035421,
                         47.227956
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "Kortárs művészeti regionális központ Besançonban.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Fort de Chaudanne",
+                  "text": "19. századi erődítmény, amely Besançon városát védi.",
+                  "category": "castle",
+                  "coords": [
+                        6.023666,
+                        47.226963
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Kis múzeum Beure-ben, Besançon közelében, amely a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "Történelmi épület Besançonban, amely a város vallási múltjához kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "A besançoni citadellában található múzeum a Franche-Comté régió történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
                   ]
             }
       ],
@@ -18491,6 +20299,51 @@ export const franceCitiesV2: POI[] = [
                         6.035421,
                         47.227956
                   ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "Un centru regional de artă contemporană situat în Besançon.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Fort de Chaudanne",
+                  "text": "O fortificație din secolul al XIX-lea care protejează orașul Besançon.",
+                  "category": "castle",
+                  "coords": [
+                        6.023666,
+                        47.226963
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "Un mic muzeu în Beure, lângă Besançon, ce prezintă patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "O clădire istorică în Besançon, legată de istoria religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Acest muzeu din cetatea Besançon prezintă istoria regională și tradițiile din Franche-Comté.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
+                  ]
             }
       ],
       "en": [
@@ -18588,6 +20441,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.035421,
                         47.227956
+                  ]
+            },
+            {
+                  "name": "Fonds regional d'art contemporain (FRAC)",
+                  "text": "A regional center for contemporary art located in Besançon.",
+                  "category": "museum",
+                  "coords": [
+                        6.033958,
+                        47.235881
+                  ]
+            },
+            {
+                  "name": "Fort de Chaudanne",
+                  "text": "A 19th-century fortification protecting the city of Besançon.",
+                  "category": "castle",
+                  "coords": [
+                        6.023666,
+                        47.226963
+                  ]
+            },
+            {
+                  "name": "Musee Lucien Roy",
+                  "text": "A small museum in Beure near Besançon presenting local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        6.004835,
+                        47.207036
+                  ]
+            },
+            {
+                  "name": "Maison dite Maison espagnole (Institut de Notre-Dame du Refuge)",
+                  "text": "A historic building in Besançon linked to the city's religious history.",
+                  "category": "religious",
+                  "coords": [
+                        6.027394,
+                        47.232924
+                  ]
+            },
+            {
+                  "name": "Musee Comtois",
+                  "text": "Located in the Citadel of Besançon, this museum showcases the regional history and traditions of Franche-Comté.",
+                  "category": "museum",
+                  "coords": [
+                        6.034391,
+                        47.229809
                   ]
             }
       ],

@@ -49,7 +49,304 @@ imageHint: "Pindus mountain range landscape overview",
     },
     image: "/poi-images/greece-pindus-range-relief-v2.webp",
 },  {
-    id: "greece-lefka-ori-relief-v2",
+    id: "greece-lefka-ori-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pachnes",
+                  "text": "Der Pachnes ist der höchste Gipfel der Weißen Berge auf Kreta und bietet eine weite Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        24.032113,
+                        35.291932
+                  ]
+            },
+            {
+                  "name": "Τρόχαρης",
+                  "text": "Ein markanter Berggipfel in den Weißen Bergen auf der griechischen Insel Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054409,
+                        35.280569
+                  ]
+            },
+            {
+                  "name": "Βορεινό",
+                  "text": "Ein Berggipfel in den Lefka Ori (Weiße Berge) auf der Insel Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.990256,
+                        35.288619
+                  ]
+            },
+            {
+                  "name": "Ζαρανοκεφάλα",
+                  "text": "Ein Gipfel in der Gebirgskette der Weißen Berge auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.009582,
+                        35.269462
+                  ]
+            },
+            {
+                  "name": "Δίπλι Θοδωρή",
+                  "text": "Ein Berggipfel in den kretischen Weißen Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052033,
+                        35.276315
+                  ]
+            },
+            {
+                  "name": "Μεσοκεφάλες",
+                  "text": "Ein Gipfel in den Lefka Ori (Weiße Berge) auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.019178,
+                        35.275639
+                  ]
+            },
+            {
+                  "name": "Κούτσακας",
+                  "text": "Ein Berggipfel in der Region der Weißen Berge auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.028895,
+                        35.257468
+                  ]
+            },
+            {
+                  "name": "Στέρνες",
+                  "text": "Ein bedeutender Höhlenschacht in den kretischen Weißen Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.059689,
+                        35.292488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πάχνες",
+                  "text": "A Lefka Ori legmagasabb csúcsa Krétán, ahonnan lenyűgöző kilátás nyílik a Fehér-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        24.032113,
+                        35.291932
+                  ]
+            },
+            {
+                  "name": "Τρόχαρης",
+                  "text": "Egy hegycsúcs a Fehér-hegységben (Lefka Ori), Kréta szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054409,
+                        35.280569
+                  ]
+            },
+            {
+                  "name": "Βορεινό",
+                  "text": "Hegycsúcs a krétai Fehér-hegységben (Lefka Ori).",
+                  "category": "landmark",
+                  "coords": [
+                        23.990256,
+                        35.288619
+                  ]
+            },
+            {
+                  "name": "Ζαρανοκεφάλα",
+                  "text": "Egy hegycsúcs a Fehér-hegység vonulatában, Kréta szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.009582,
+                        35.269462
+                  ]
+            },
+            {
+                  "name": "Δίπλι Θοδωρή",
+                  "text": "Hegycsúcs a krétai Fehér-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052033,
+                        35.276315
+                  ]
+            },
+            {
+                  "name": "Μεσοκεφάλες",
+                  "text": "Egy csúcs a krétai Lefka Ori (Fehér-hegység) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.019178,
+                        35.275639
+                  ]
+            },
+            {
+                  "name": "Κούτσακας",
+                  "text": "Hegycsúcs a Fehér-hegység régiójában, Krétán.",
+                  "category": "landmark",
+                  "coords": [
+                        24.028895,
+                        35.257468
+                  ]
+            },
+            {
+                  "name": "Στέρνες",
+                  "text": "Egy jelentős barlangbejárat és zsomboly a krétai Fehér-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.059689,
+                        35.292488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πάχνες",
+                  "text": "Cel mai înalt vârf din Munții Albi din Creta, oferind o panoramă spectaculoasă asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        24.032113,
+                        35.291932
+                  ]
+            },
+            {
+                  "name": "Τρόχαρης",
+                  "text": "Un vârf montan situat în Munții Albi de pe insula Creta, Grecia.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054409,
+                        35.280569
+                  ]
+            },
+            {
+                  "name": "Βορεινό",
+                  "text": "Un vârf montan în Munții Albi (Lefka Ori) de pe insula Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.990256,
+                        35.288619
+                  ]
+            },
+            {
+                  "name": "Ζαρανοκεφάλα",
+                  "text": "Un vârf în masivul Munților Albi de pe insula Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.009582,
+                        35.269462
+                  ]
+            },
+            {
+                  "name": "Δίπλι Θοδωρή",
+                  "text": "Un vârf montan în Munții Albi din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052033,
+                        35.276315
+                  ]
+            },
+            {
+                  "name": "Μεσοκεφάλες",
+                  "text": "Un vârf în Munții Albi (Lefka Ori) din insula Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.019178,
+                        35.275639
+                  ]
+            },
+            {
+                  "name": "Κούτσακας",
+                  "text": "Un vârf montan în regiunea Munților Albi din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.028895,
+                        35.257468
+                  ]
+            },
+            {
+                  "name": "Στέρνες",
+                  "text": "O intrare într-o peșteră verticală (aven) situată în Munții Albi din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.059689,
+                        35.292488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pachnes",
+                  "text": "The highest peak of the White Mountains in Crete, offering panoramic views over the range.",
+                  "category": "natural",
+                  "coords": [
+                        24.032113,
+                        35.291932
+                  ]
+            },
+            {
+                  "name": "Trocharis",
+                  "text": "A mountain peak located in the White Mountains on the island of Crete, Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054409,
+                        35.280569
+                  ]
+            },
+            {
+                  "name": "Voreino",
+                  "text": "A mountain peak in the White Mountains (Lefka Ori) on the island of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        23.990256,
+                        35.288619
+                  ]
+            },
+            {
+                  "name": "Zaranokefála",
+                  "text": "A peak in the White Mountains range on the island of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.009582,
+                        35.269462
+                  ]
+            },
+            {
+                  "name": "Dipli Thodori",
+                  "text": "A mountain peak in the Cretan White Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052033,
+                        35.276315
+                  ]
+            },
+            {
+                  "name": "Mesokefáles",
+                  "text": "A peak in the Lefka Ori (White Mountains) on the island of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.019178,
+                        35.275639
+                  ]
+            },
+            {
+                  "name": "Koútsakas",
+                  "text": "A mountain peak in the White Mountains region of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.028895,
+                        35.257468
+                  ]
+            },
+            {
+                  "name": "Sternes",
+                  "text": "A significant cave entrance and pothole located in the Cretan White Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.059689,
+                        35.292488
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Weiße Berge (Lefka Ori)", hu: "Fehér-hegység (Lefka Ori)", ro: "Munții Albi (Lefka Ori)", en: "White Mountains (Lefka Ori)"},
@@ -95,7 +392,52 @@ imageHint: "White Mountains Lefka Ori Crete landscape",
     },
     image: "/poi-images/greece-lefka-ori-relief-v2.webp",
 },  {
-    id: "greece-thessalian-plain-relief-v2",
+    id: "greece-thessalian-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κραννώνα",
+                  "text": "Die Ruinen einer bedeutenden antiken Stadt in der thessalischen Ebene.",
+                  "category": "historical",
+                  "coords": [
+                        22.305743,
+                        39.499687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κραννώνα",
+                  "text": "Egy jelentős ókori város romjai a Thesszáliai-alföldön.",
+                  "category": "historical",
+                  "coords": [
+                        22.305743,
+                        39.499687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κραννώνα",
+                  "text": "Ruinele unui important oraș antic în câmpia Tesaliei.",
+                  "category": "historical",
+                  "coords": [
+                        22.305743,
+                        39.499687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krannon",
+                  "text": "The ruins of an important ancient city in the Thessalian Plain.",
+                  "category": "historical",
+                  "coords": [
+                        22.305743,
+                        39.499687
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Thessalische Ebene", hu: "Thesszáliai-alföld", ro: "Câmpia Tesaliei", en: "Thessalian Plain"},
@@ -187,7 +529,52 @@ imageHint: "Mount Tymfi Gamila peak and cliffs",
     },
     image: "/poi-images/greece-mount-tymfi-relief-v2.webp",
 },  {
-    id: "greece-mount-oeta-relief-v2",
+    id: "greece-mount-oeta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Iti",
+                  "text": "Ein Informationspunkt im Nationalpark Oiti, der Details über die lokale Waldlandschaft vermittelt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Οίτης",
+                  "text": "Információs pont az Oiti Nemzeti Parkban, amely részleteket nyújt a helyi erdei tájról.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Οίτης",
+                  "text": "Un punct de informare în Parcul Național Oiti, care oferă detalii despre peisajul forestier local.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oiti National Woodland Park",
+                  "text": "An information point in the Oiti National Park providing details about the local woodland landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        22.279064,
+                        38.79904
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Oite", hu: "Oiti-hegység", ro: "Muntele Oeta", en: "Mount Oeta"},
@@ -233,7 +620,124 @@ imageHint: "Mount Oeta mountain landscape",
     },
     image: "/poi-images/greece-mount-oeta-relief-v2.webp",
 },  {
-    id: "greece-rhodope-mountains-relief-v2",
+    id: "greece-rhodope-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "old bridge",
+                  "text": "Überreste einer historischen Brücke, die von antiker Baukunst im Rhodopen-Gebirge zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        24.466957,
+                        41.417446
+                  ]
+            },
+            {
+                  "name": "Πεύκοι",
+                  "text": "Ruinen des ehemaligen Dorfes Pevki in den Rhodopen.",
+                  "category": "historical",
+                  "coords": [
+                        24.506795,
+                        41.412004
+                  ]
+            },
+            {
+                  "name": "Τρίγωνο",
+                  "text": "Ruinen der verlassenen Siedlung Trigono in den Rhodopen.",
+                  "category": "historical",
+                  "coords": [
+                        24.484687,
+                        41.411146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "old bridge",
+                  "text": "Egy történelmi híd maradványai, amelyek az ókori építészetről tanúskodnak a Rodope-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        24.466957,
+                        41.417446
+                  ]
+            },
+            {
+                  "name": "Πεύκοι",
+                  "text": "Pevki egykori falu romjai a Rodope-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        24.506795,
+                        41.412004
+                  ]
+            },
+            {
+                  "name": "Τρίγωνο",
+                  "text": "Trigono elhagyatott településének romjai a Rodope-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        24.484687,
+                        41.411146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "old bridge",
+                  "text": "Rămășițele unui pod istoric, care atestă arhitectura antică din Munții Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.466957,
+                        41.417446
+                  ]
+            },
+            {
+                  "name": "Πεύκοι",
+                  "text": "Ruinele fostului sat Pevki din Munții Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.506795,
+                        41.412004
+                  ]
+            },
+            {
+                  "name": "Τρίγωνο",
+                  "text": "Ruinele așezării părăsite Trigono din Munții Rodopi.",
+                  "category": "historical",
+                  "coords": [
+                        24.484687,
+                        41.411146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "old bridge",
+                  "text": "Remains of a historic bridge testifying to ancient construction in the Rhodope Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        24.466957,
+                        41.417446
+                  ]
+            },
+            {
+                  "name": "Pevki (Konitsa)",
+                  "text": "Ruins of the former village of Pevki in the Rhodope Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        24.506795,
+                        41.412004
+                  ]
+            },
+            {
+                  "name": "Trigono (Bahan)",
+                  "text": "Ruins of the abandoned settlement of Trigono in the Rhodope Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        24.484687,
+                        41.411146
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Rhodopen", hu: "Rodope-hegység", ro: "Munții Rodopi", en: "Rhodope Mountains"},
@@ -325,7 +829,88 @@ imageHint: "Mount Falakro barren rocky peaks",
     },
     image: "/poi-images/greece-mount-falakro-relief-v2.webp",
 },  {
-    id: "greece-mount-ossa-relief-v2",
+    id: "greece-mount-ossa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ossa",
+                  "text": "Ein prominenter Gipfel in Griechenland, auch als Kissavos bekannt, der der griechischen Mythologie nach eine Rolle spielte.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685157,
+                        39.79571
+                  ]
+            },
+            {
+                  "name": "Δασικό σύμπλεγμα Όσσας Λάρισας",
+                  "text": "Ein weitläufiges Waldgebiet am Berg Ossa, das für seine reiche Flora und Fauna geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        22.69025,
+                        39.82457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Όσσα-Κίσσαβος",
+                  "text": "Kiemelkedő hegycsúcs Görögországban, más néven Kisszavosz, amely a görög mitológiában is szerepet játszott.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685157,
+                        39.79571
+                  ]
+            },
+            {
+                  "name": "Δασικό σύμπλεγμα Όσσας Λάρισας",
+                  "text": "Kiterjedt erdőterület az Ossza-hegyen, amely gazdag növény- és állatvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.69025,
+                        39.82457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Όσσα-Κίσσαβος",
+                  "text": "Un vârf proeminent din Grecia, cunoscut și sub numele de Kissavos, care a jucat un rol în mitologia greacă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685157,
+                        39.79571
+                  ]
+            },
+            {
+                  "name": "Δασικό σύμπλεγμα Όσσας Λάρισας",
+                  "text": "O zonă forestieră vastă pe Muntele Ossa, apreciată pentru flora și fauna sa bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        22.69025,
+                        39.82457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ossa",
+                  "text": "A prominent peak in Greece, also known as Kissavos, which played a role in Greek mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        22.685157,
+                        39.79571
+                  ]
+            },
+            {
+                  "name": "Mount Ossa Forest Complex",
+                  "text": "An extensive forest area on Mount Ossa, valued for its rich flora and fauna.",
+                  "category": "landmark",
+                  "coords": [
+                        22.69025,
+                        39.82457
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Ossa (Kissavos)", hu: "Ossza-hegy (Kisszavosz)", ro: "Muntele Ossa (Kissavos)", en: "Mount Ossa (Kissavos)"},
@@ -417,7 +1002,196 @@ imageHint: "Mount Paiko forested slopes",
     },
     image: "/poi-images/greece-mount-paiko-relief-v2.webp",
 },  {
-    id: "greece-mount-parnitha-relief-v2",
+    id: "greece-mount-parnitha-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Parnitha",
+                  "text": "Ein bewaldeter Nationalpark im Parnitha-Gebirge nördlich von Athen.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Ein Berggipfel im Parnitha-Massiv, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Ein Punkt von Interesse oder Orientierungspunkt im Parnitha-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Überreste einer alten Siedlung oder Struktur im Parnitha-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοιμικού",
+                  "text": "Ruinen eines antiken Wachturms im Parnitha-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        23.6926,
+                        38.201846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Πάρνηθας",
+                  "text": "Erdős nemzeti park az Athéntól északra fekvő Parnitha-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Hegycsúcs a Parnitha-masszívumban, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Érdekes pont vagy tájékozódási pont a Parnitha Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Egykori település vagy építmény maradványai a Parnitha-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοιμικού",
+                  "text": "Egy ókori őrtorony romjai a Parnitha-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        23.6926,
+                        38.201846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Πάρνηθας",
+                  "text": "Un parc național împădurit în munții Parnitha, la nord de Atena.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Ξεροβούνι",
+                  "text": "Un vârf muntos în masivul Parnitha, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "Un punct de interes sau de reper în Parcul Național Parnitha.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ντράσιζα;Πύργος Κατσιμίδι",
+                  "text": "Vestigiile unei vechi așezări sau structuri în munții Parnitha.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοιμικού",
+                  "text": "Ruinele unui turn de veghe antic în munții Parnitha.",
+                  "category": "historical",
+                  "coords": [
+                        23.6926,
+                        38.201846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Parnitha National Park",
+                  "text": "A forested national park in the Parnitha mountains north of Athens.",
+                  "category": "natural",
+                  "coords": [
+                        23.71683,
+                        38.174792
+                  ]
+            },
+            {
+                  "name": "Xerovouni",
+                  "text": "A mountain peak in the Parnitha massif, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        23.757556,
+                        38.174787
+                  ]
+            },
+            {
+                  "name": "Crossing",
+                  "text": "A point of interest or landmark within the Mount Parnitha National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.730017,
+                        38.163457
+                  ]
+            },
+            {
+                  "name": "Ntrasiza",
+                  "text": "Remains of an old settlement or structure in the Parnitha mountains.",
+                  "category": "historical",
+                  "coords": [
+                        23.678266,
+                        38.181609
+                  ]
+            },
+            {
+                  "name": "Limiko Tower",
+                  "text": "Ruins of an ancient watchtower located in the Parnitha mountains.",
+                  "category": "historical",
+                  "coords": [
+                        23.6926,
+                        38.201846
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Parnitha", hu: "Parnitha-hegység", ro: "Muntele Parnitha", en: "Mount Parnitha"},
@@ -463,7 +1237,160 @@ imageHint: "Mount Parnitha peaks near Athens",
     },
     image: "/poi-images/greece-mount-parnitha-relief-v2.webp",
 },  {
-    id: "greece-mount-pentelicus-relief-v2",
+    id: "greece-mount-pentelicus-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαίο θέατρο Ικαρίας Αττικής",
+                  "text": "Die Ruinen eines antiken Theaters, das dem Gott Dionysos gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        23.900479,
+                        38.095623
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό Μουσείο Λατομείου",
+                  "text": "Ein Freilichtmuseum in einem historischen Marmorbruch am Berg Pentelikon.",
+                  "category": "museum",
+                  "coords": [
+                        23.870978,
+                        38.092352
+                  ]
+            },
+            {
+                  "name": "Νυμφαίο Πεντέλης",
+                  "text": "Ein antikes Höhlenheiligtum am Pentelikon, das den Nymphen gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        23.881201,
+                        38.072552
+                  ]
+            },
+            {
+                  "name": "Deutscher Soldatenfriedhof 1939-1945 Dionyssos - Rapendoza",
+                  "text": "Ein deutscher Soldatenfriedhof für die Gefallenen des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        23.917934,
+                        38.091233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαίο θέατρο Ικαρίας Αττικής",
+                  "text": "Egy Dionüszosznak szentelt ókori színház romjai.",
+                  "category": "historical",
+                  "coords": [
+                        23.900479,
+                        38.095623
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό Μουσείο Λατομείου",
+                  "text": "Szabadtéri múzeum egy történelmi márványbányában a Pentelikon-hegyen.",
+                  "category": "museum",
+                  "coords": [
+                        23.870978,
+                        38.092352
+                  ]
+            },
+            {
+                  "name": "Νυμφαίο Πεντέλης",
+                  "text": "Egy ókori barlangi szentély a Pentelikon-hegyen, amelyet a ninfáknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        23.881201,
+                        38.072552
+                  ]
+            },
+            {
+                  "name": "Γερμανικό στρατιωτικό νεκροταφείο Διονύσου - Ραπεντόζης 1939-1945",
+                  "text": "Német katonai temető a második világháború elesettjei számára.",
+                  "category": "historical",
+                  "coords": [
+                        23.917934,
+                        38.091233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαίο θέατρο Ικαρίας Αττικής",
+                  "text": "Ruinele unui teatru antic dedicat zeului Dionysos.",
+                  "category": "historical",
+                  "coords": [
+                        23.900479,
+                        38.095623
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό Μουσείο Λατομείου",
+                  "text": "Un muzeu în aer liber într-o carieră istorică de marmură de pe muntele Pentelicus.",
+                  "category": "museum",
+                  "coords": [
+                        23.870978,
+                        38.092352
+                  ]
+            },
+            {
+                  "name": "Νυμφαίο Πεντέλης",
+                  "text": "Un sanctuar antic într-o peșteră de pe muntele Pentelicus, dedicat nimfelor.",
+                  "category": "historical",
+                  "coords": [
+                        23.881201,
+                        38.072552
+                  ]
+            },
+            {
+                  "name": "Γερμανικό στρατιωτικό νεκροταφείο Διονύσου - Ραπεντόζης 1939-1945",
+                  "text": "Un cimitir militar german pentru cei căzuți în al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        23.917934,
+                        38.091233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of ancient theater of Icarion Aegeidas (Attica)",
+                  "text": "The ruins of an ancient theater dedicated to the god Dionysus.",
+                  "category": "historical",
+                  "coords": [
+                        23.900479,
+                        38.095623
+                  ]
+            },
+            {
+                  "name": "Open Quarry Museum",
+                  "text": "An open-air museum located in a historic marble quarry on Mount Pentelicus.",
+                  "category": "museum",
+                  "coords": [
+                        23.870978,
+                        38.092352
+                  ]
+            },
+            {
+                  "name": "Nymphaeum of Penteli",
+                  "text": "An ancient cave shrine on Mount Pentelicus dedicated to the Nymphs.",
+                  "category": "historical",
+                  "coords": [
+                        23.881201,
+                        38.072552
+                  ]
+            },
+            {
+                  "name": "German military cemetery of Dionysus - Rapentose 1939-1945",
+                  "text": "A German military cemetery for those fallen during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        23.917934,
+                        38.091233
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Pentelikon", hu: "Pentelikon-hegy", ro: "Muntele Pentelic", en: "Mount Pentelicus"},
@@ -555,7 +1482,52 @@ imageHint: "Mount Hymettus ridge near Athens",
     },
     image: "/poi-images/greece-mount-hymettus-relief-v2.webp",
 },  {
-    id: "greece-mount-voras-relief-v2",
+    id: "greece-mount-voras-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Св. Петар",
+                  "text": "Eine Gedenkkirche auf dem Gipfel des Mount Voras, die an die Kämpfe im Ersten Weltkrieg erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Св. Петар",
+                  "text": "Emléktemplom a Voras-hegy csúcsán, amely az első világháborús harcokra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Св. Петар",
+                  "text": "O biserică memorială pe vârful muntelui Voras, care comemorează luptele din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Peter",
+                  "text": "A memorial church on the summit of Mount Voras, commemorating WWI battles.",
+                  "category": "landmark",
+                  "coords": [
+                        21.786055,
+                        40.9307
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Voras (Kaimaktsalan)", hu: "Vorasz-hegység (Kajmakcsalan)", ro: "Muntele Voras (Kaimaktsalan)", en: "Mount Voras (Kaimaktsalan)"},
@@ -739,7 +1711,52 @@ imageHint: "Mount Erymanthos rocky peaks",
     },
     image: "/poi-images/greece-mount-erymanthos-relief-v2.webp",
 },  {
-    id: "greece-mount-kyllini-relief-v2",
+    id: "greece-mount-kyllini-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyllini (Ziria)",
+                  "text": "Der zweithöchste Berg des Peloponnes, bekannt aus der griechischen Mythologie.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395827,
+                        37.939054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κυλλήνη",
+                  "text": "A Peloponnészosz második legmagasabb hegye, amely a görög mitológiából ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395827,
+                        37.939054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κυλλήνη",
+                  "text": "Al doilea cel mai înalt munte din Peloponez, cunoscut din mitologia greacă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395827,
+                        37.939054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kyllini (Ziria)",
+                  "text": "The second highest mountain in the Peloponnese, known from Greek mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        22.395827,
+                        37.939054
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Kyllini (Ziria)", hu: "Küllini-hegység (Ziria)", ro: "Muntele Kyllini (Ziria)", en: "Mount Kyllini (Ziria)"},
@@ -785,7 +1802,52 @@ imageHint: "Mount Kyllini Ziria mountain landscape",
     },
     image: "/poi-images/greece-mount-kyllini-relief-v2.webp",
 },  {
-    id: "greece-mount-dikti-relief-v2",
+    id: "greece-mount-dikti-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spathi",
+                  "text": "Der höchste Gipfel des Dikti-Gebirges auf der Insel Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        25.497234,
+                        35.118057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Σπαθί",
+                  "text": "A Kréta szigetén található Dikti-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.497234,
+                        35.118057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Σπαθί",
+                  "text": "Cel mai înalt vârf al masivului muntos Dikti de pe insula Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        25.497234,
+                        35.118057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spathi",
+                  "text": "The highest peak of the Dikti mountain range on the island of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        25.497234,
+                        35.118057
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Dikti-Gebirge", hu: "Dikti-hegység", ro: "Munții Dikti", en: "Mount Dikti"},
@@ -1059,7 +2121,88 @@ imageHint: "Mount Vermio ski resort and slopes",
     },
     image: "/poi-images/greece-mount-vermio-relief-v2.webp",
 },  {
-    id: "greece-mount-parnon-relief-v2",
+    id: "greece-mount-parnon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο Καστανίτσας",
+                  "text": "Die Ruinen dieser mittelalterlichen Burg thronen über dem malerischen Dorf Kastanitsa am Parnon-Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        22.648807,
+                        37.26636
+                  ]
+            },
+            {
+                  "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Σπάρτης",
+                  "text": "Diese Sonnenuhr ist eine astronomische Attraktion der Sparta Astronomical Union im Parnon-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.585468,
+                        37.260964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Καστανίτσας",
+                  "text": "Ennek a középkori várnak a romjai a Parnon-hegységben található festői Kastanitsa falu felett magasodnak.",
+                  "category": "castle",
+                  "coords": [
+                        22.648807,
+                        37.26636
+                  ]
+            },
+            {
+                  "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Σπάρτης",
+                  "text": "Ez a napóra a Sparta Astronomical Union csillagászati látványossága a Parnon-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.585468,
+                        37.260964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Καστανίτσας",
+                  "text": "Ruinele acestui castel medieval tronează deasupra satului pitoresc Kastanitsa din Munții Parnon.",
+                  "category": "castle",
+                  "coords": [
+                        22.648807,
+                        37.26636
+                  ]
+            },
+            {
+                  "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Σπάρτης",
+                  "text": "Acest cadran solar este o atracție astronomică a Uniunii Astronomice din Sparta, situată în Munții Parnon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.585468,
+                        37.260964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Kastanitsa",
+                  "text": "The ruins of this medieval castle tower over the picturesque village of Kastanitsa on Mount Parnon.",
+                  "category": "castle",
+                  "coords": [
+                        22.648807,
+                        37.26636
+                  ]
+            },
+            {
+                  "name": "Sparta Astronomical Union Sundial",
+                  "text": "This sundial is an astronomical attraction of the Sparta Astronomical Union located on Mount Parnon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.585468,
+                        37.260964
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Parnon-Gebirge", hu: "Parnon-hegység", ro: "Munții Parnon", en: "Mount Parnon"},
@@ -1149,7 +2292,196 @@ imageHint: "Mount Menalon forest trail Arcadia",
     },
     image: "/poi-images/greece-mount-menalon-relief-v2.webp",
 },  {
-    id: "greece-lassithi-plateau-relief-v2",
+    id: "greece-lassithi-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papoura",
+                  "text": "Archäologische Stätte einer spätminoischen Siedlung auf dem Lassithi-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        25.476805,
+                        35.209887
+                  ]
+            },
+            {
+                  "name": "Greek mythology park",
+                  "text": "Themenpark auf Kreta, der den Figuren der griechischen Mythologie gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        25.446579,
+                        35.165159
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Τραπέζας",
+                  "text": "Eingang zu einer Höhle auf dem Lassithi-Plateau, die als Kultstätte genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.493859,
+                        35.197787
+                  ]
+            },
+            {
+                  "name": "Karphi",
+                  "text": "Ein Aussichtspunkt an der Stelle einer antiken minoischen Höhensiedlung.",
+                  "category": "natural",
+                  "coords": [
+                        25.471469,
+                        35.217958
+                  ]
+            },
+            {
+                  "name": "Lasinthos ECO Park",
+                  "text": "Ein Ökopark auf dem Lassithi-Plateau, der kretische Traditionen und Natur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.487582,
+                        35.161877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Papoura",
+                  "text": "Késő minószi település régészeti lelőhelye a Laszithi-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        25.476805,
+                        35.209887
+                  ]
+            },
+            {
+                  "name": "Greek mythology park",
+                  "text": "Krétai tematikus park, amelyet a görög mitológia alakjainak szenteltek.",
+                  "category": "recreational",
+                  "coords": [
+                        25.446579,
+                        35.165159
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Τραπέζας",
+                  "text": "Barlangbejárat a Laszithi-fennsíkon, amely egykor kultuszhelyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        25.493859,
+                        35.197787
+                  ]
+            },
+            {
+                  "name": "Καρφί",
+                  "text": "Kilátópont egy ókori minószi hegyi település helyén.",
+                  "category": "natural",
+                  "coords": [
+                        25.471469,
+                        35.217958
+                  ]
+            },
+            {
+                  "name": "Lasinthos ECO Park",
+                  "text": "Ökopark a Laszithi-fennsíkon, amely krétai hagyományokat és a természetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.487582,
+                        35.161877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Papoura",
+                  "text": "Sit arheologic al unei așezări minoice târzii pe Podișul Lassithi.",
+                  "category": "historical",
+                  "coords": [
+                        25.476805,
+                        35.209887
+                  ]
+            },
+            {
+                  "name": "Greek mythology park",
+                  "text": "Parc tematic din Creta dedicat personajelor din mitologia greacă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.446579,
+                        35.165159
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Τραπέζας",
+                  "text": "Intrarea unei peșteri de pe Podișul Lassithi, folosită în antichitate ca loc de cult.",
+                  "category": "landmark",
+                  "coords": [
+                        25.493859,
+                        35.197787
+                  ]
+            },
+            {
+                  "name": "Καρφί",
+                  "text": "Un punct de belvedere pe locul unei foste așezări minoice montane.",
+                  "category": "natural",
+                  "coords": [
+                        25.471469,
+                        35.217958
+                  ]
+            },
+            {
+                  "name": "Lasinthos ECO Park",
+                  "text": "Un parc ecologic pe Podișul Lassithi, care prezintă tradițiile și natura cretană.",
+                  "category": "landmark",
+                  "coords": [
+                        25.487582,
+                        35.161877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papoura",
+                  "text": "Archaeological site of a Late Minoan settlement on the Lassithi Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        25.476805,
+                        35.209887
+                  ]
+            },
+            {
+                  "name": "Greek mythology park",
+                  "text": "Theme park in Crete dedicated to the figures of Greek mythology.",
+                  "category": "recreational",
+                  "coords": [
+                        25.446579,
+                        35.165159
+                  ]
+            },
+            {
+                  "name": "Trapeza cave",
+                  "text": "Entrance to a cave on the Lassithi Plateau used as a cult site in antiquity.",
+                  "category": "landmark",
+                  "coords": [
+                        25.493859,
+                        35.197787
+                  ]
+            },
+            {
+                  "name": "Karfi",
+                  "text": "A viewpoint located on the site of an ancient Minoan mountain settlement.",
+                  "category": "natural",
+                  "coords": [
+                        25.471469,
+                        35.217958
+                  ]
+            },
+            {
+                  "name": "Lasinthos ECO Park",
+                  "text": "An eco-park on the Lassithi Plateau showcasing Cretan traditions and nature.",
+                  "category": "landmark",
+                  "coords": [
+                        25.487582,
+                        35.161877
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Lassithi-Hochebene", hu: "Laszithi-fennsík", ro: "Podișul Lassithi", en: "Lassithi Plateau"},
@@ -1194,7 +2526,52 @@ imageHint: "Lassithi Plateau windmills and mountains Crete",
     },
     image: "/poi-images/greece-lassithi-plateau-relief-v2.webp",
 },  {
-    id: "greece-mount-athamanika-relief-v2",
+    id: "greece-mount-athamanika-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sklava",
+                  "text": "Ein Berggipfel im Athamanika-Gebirge in Mittelgriechenland.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164174,
+                        39.396385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Σκλάβα",
+                  "text": "Hegycsúcs a közép-görögországi Athamanika-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164174,
+                        39.396385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Σκλάβα",
+                  "text": "Un vârf muntos situat în lanțul Athamanika din centrul Greciei.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164174,
+                        39.396385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sklava",
+                  "text": "A mountain peak located in the Athamanika range of central Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        21.164174,
+                        39.396385
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Athamanika-Gebirge", hu: "Athamanika-hegység", ro: "Munții Athamanika", en: "Mount Athamanika"},
@@ -1239,7 +2616,52 @@ imageHint: "Tzoumerka mountains rugged peaks Greece",
     },
     image: "/poi-images/greece-mount-athamanika-relief-v2.webp",
 },  {
-    id: "greece-mount-helicon-relief-v2",
+    id: "greece-mount-helicon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πύργος Υψηλάντη",
+                  "text": "Ein mittelalterlicher Wehrturm am Fuße des Berges Helikon.",
+                  "category": "castle",
+                  "coords": [
+                        23.014501,
+                        38.364245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πύργος Υψηλάντη",
+                  "text": "Középkori erődített torony a Helikon-hegy lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        23.014501,
+                        38.364245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πύργος Υψηλάντη",
+                  "text": "Un turn medieval fortificat situat la poalele Muntelui Helicon.",
+                  "category": "castle",
+                  "coords": [
+                        23.014501,
+                        38.364245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of Ypsilanti",
+                  "text": "A medieval fortified tower situated at the foot of Mount Helicon.",
+                  "category": "castle",
+                  "coords": [
+                        23.014501,
+                        38.364245
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Helikon-Gebirge", hu: "Helikon-hegység", ro: "Muntele Helicon", en: "Mount Helicon"},
@@ -1284,7 +2706,52 @@ imageHint: "Mount Helicon slopes and valley Boeotia",
     },
     image: "/poi-images/greece-mount-helicon-relief-v2.webp",
 },  {
-    id: "greece-mount-agrafa-relief-v2",
+    id: "greece-mount-agrafa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πετρογέφυρο Αγράφων",
+                  "text": "Eine Brücke in den Agrafa-Bergen, die als lokales Ausflugsziel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        21.641362,
+                        39.137378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πετρογέφυρο Αγράφων",
+                  "text": "Egy híd az Agrafa-hegységben, amely helyi látnivalóként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        21.641362,
+                        39.137378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πετρογέφυρο Αγράφων",
+                  "text": "Un pod în Munții Agrafa, care servește ca punct de interes local.",
+                  "category": "landmark",
+                  "coords": [
+                        21.641362,
+                        39.137378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agrafa bridge",
+                  "text": "A bridge in the Agrafa mountains that serves as a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        21.641362,
+                        39.137378
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Agrafa-Gebirge", hu: "Agrafa-hegység", ro: "Munții Agrafa", en: "Mount Agrafa"},
@@ -1329,7 +2796,88 @@ imageHint: "Agrafa mountains remote landscape Greece",
     },
     image: "/poi-images/greece-mount-agrafa-relief-v2.webp",
 },  {
-    id: "greece-messara-plain-relief-v2",
+    id: "greece-messara-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "text": "Eine historische Burgruine in der Messara-Ebene.",
+                  "category": "castle",
+                  "coords": [
+                        24.909745,
+                        35.063146
+                  ]
+            },
+            {
+                  "name": "Rouvas Wohnhöhlen",
+                  "text": "Archäologische Fundstätte in den Höhlen von Rouvas.",
+                  "category": "historical",
+                  "coords": [
+                        24.895489,
+                        35.075633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "text": "Történelmi várrom a Messzara-alföldön.",
+                  "category": "castle",
+                  "coords": [
+                        24.909745,
+                        35.063146
+                  ]
+            },
+            {
+                  "name": "Σπήλαια Ρουβά",
+                  "text": "Régészeti lelőhely a rouvasi barlangokban.",
+                  "category": "historical",
+                  "coords": [
+                        24.895489,
+                        35.075633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "text": "O ruină istorică de castel în câmpia Messara.",
+                  "category": "castle",
+                  "coords": [
+                        24.909745,
+                        35.063146
+                  ]
+            },
+            {
+                  "name": "Σπήλαια Ρουβά",
+                  "text": "Sit arheologic situat în peșterile din Rouvas.",
+                  "category": "historical",
+                  "coords": [
+                        24.895489,
+                        35.075633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castel Nuovo",
+                  "text": "A historical castle ruin in the Messara Plain.",
+                  "category": "castle",
+                  "coords": [
+                        24.909745,
+                        35.063146
+                  ]
+            },
+            {
+                  "name": "Rouvas caves",
+                  "text": "Archaeological site located in the Rouvas caves.",
+                  "category": "historical",
+                  "coords": [
+                        24.895489,
+                        35.075633
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Messara-Ebene", hu: "Messzara-síkság", ro: "Câmpia Messara", en: "Messara Plain"},
@@ -1375,7 +2923,52 @@ imageHint: "Agrafa mountains remote landscape Greece",
   }
 ,
   {
-    id: "greece-mount-othrys-relief-v2",
+    id: "greece-mount-othrys-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gerakovouni (Othrys)",
+                  "text": "Gerakovouni ist ein Berggipfel im Othrys-Massiv in Griechenland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.710819,
+                        39.018891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Γερακοβούνι (Όθρυς)",
+                  "text": "A Gerakovouni egy hegycsúcs a görögországi Othrisz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.710819,
+                        39.018891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Γερακοβούνι (Όθρυς)",
+                  "text": "Gerakovouni este un vârf muntos situat în masivul Othrys din Grecia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.710819,
+                        39.018891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gerakovouni (Othrys)",
+                  "text": "Gerakovouni is a mountain peak located in the Othrys massif in Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        22.710819,
+                        39.018891
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Othrys-Gebirge", hu: "Othrisz-hegység", ro: "Munții Othrys", en: "Mount Othrys" },
@@ -1463,7 +3056,52 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Le sommet le plus haut, le Radomir, se situe à 2 029 mètres.", "Le massif mesure environ 60 km de long et jusqu'à 9 km de large.", "Il forme un point de triple frontière entre la Grèce, la Bulgarie et la Macédoine du Nord.", "La bataille de Kleidion s'est déroulée en 1014 au pied de la montagne.", "La région est protégée en tant que parc national depuis 2003.", "On trouve d'impressionnantes cascades sur le versant près du village d'Ano Poroia."],
     }, image: "/poi-images/greece-mount-belles-relief-v2.webp"},
   {
-    id: "greece-mount-lykaion-relief-v2",
+    id: "greece-mount-lykaion-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Λαογραφικό Μουσείο Ανδρίτσαινας",
+                  "text": "Ein Museum, das das traditionelle Leben und die Kultur der Region Andritsaina zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.905921,
+                        37.483705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λαογραφικό Μουσείο Ανδρίτσαινας",
+                  "text": "Andritsaina vidékének hagyományos életmódját és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.905921,
+                        37.483705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λαογραφικό Μουσείο Ανδρίτσαινας",
+                  "text": "Un muzeu care prezintă viața tradițională și cultura regiunii Andritsaina.",
+                  "category": "museum",
+                  "coords": [
+                        21.905921,
+                        37.483705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Folk Museum of Andritsaina",
+                  "text": "A museum showcasing the traditional life and culture of the Andritsaina region.",
+                  "category": "museum",
+                  "coords": [
+                        21.905921,
+                        37.483705
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Lykaion-Gebirge", hu: "Lükaion-hegység", ro: "Muntele Lykaion", en: "Mount Lykaion" },
@@ -1549,7 +3187,52 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Le sommet le plus élevé atteint 1 810 mètres.", "Le massif mesure environ 35 kilomètres de long.", "Il est principalement composé de calcaire sédimentaire.", "Il se situe directement au bord du lac Pamvotis, près d'Ioannina.", "Son nom slave signifie littéralement « Petit Pont ».", "Habitat important pour les oiseaux de proie et les loups."],
     }, image: "/poi-images/greece-mount-mitsikeli-relief-v2.webp"},
   {
-    id: "greece-mount-cithaeron-relief-v2",
+    id: "greece-mount-cithaeron-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panoramic View",
+                  "text": "Ein Aussichtspunkt am Berg Kithairon mit weitem Blick über die griechische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.246784,
+                        38.146075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panoramic View",
+                  "text": "Kilátóhely a Kithairon-hegyen, ahonnan messzire ellátni a görög táj felett.",
+                  "category": "natural",
+                  "coords": [
+                        23.246784,
+                        38.146075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panoramic View",
+                  "text": "Un punct de belvedere pe muntele Cithaeron, oferind vederi spectaculoase asupra peisajului grecesc.",
+                  "category": "natural",
+                  "coords": [
+                        23.246784,
+                        38.146075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panoramic View",
+                  "text": "A viewpoint on Mount Cithaeron offering sweeping views of the Greek landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.246784,
+                        38.146075
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Kithairon-Gebirge", hu: "Kithairón-hegység", ro: "Munții Cithaeron", en: "Mount Cithaeron" },
@@ -1592,7 +3275,124 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Le point culminant se situe à 1 409 mètres.", "Forme la frontière entre l'Attique et la Béotie.", "Lieu de la bataille de Platées en 479 av. J.-C.", "Lié à Œdipe dans la mythologie.", "Caractérisé par des forêts denses de sapins et de pins.", "Centre réputé pour le parapente en Grèce."],
     }, image: "/poi-images/greece-mount-cithaeron-relief-v2.webp"},
   {
-    id: "greece-mount-saos-relief-v2",
+    id: "greece-mount-saos-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Φεγγάρι",
+                  "text": "Der höchste Gipfel des Saos-Gebirges auf der griechischen Insel Samothraki.",
+                  "category": "landmark",
+                  "coords": [
+                        25.587498,
+                        40.461663
+                  ]
+            },
+            {
+                  "name": "κορυφή (1584μ)",
+                  "text": "Ein Aussichtspunkt in großer Höhe auf dem Berg Saos mit Blick auf die Ägäis.",
+                  "category": "natural",
+                  "coords": [
+                        25.582083,
+                        40.46545
+                  ]
+            },
+            {
+                  "name": "κορυφή Φεγγαρι (1611μ)",
+                  "text": "Der Hauptgipfel des Berges Saos, der weite Panoramablicke über die Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.584703,
+                        40.462385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Φεγγάρι",
+                  "text": "A Száosz-hegység legmagasabb csúcsa a görög Szamothráki szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.587498,
+                        40.461663
+                  ]
+            },
+            {
+                  "name": "κορυφή (1584μ)",
+                  "text": "Nagy magasságban fekvő kilátópont a Száosz-hegyen, kilátással az Égei-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        25.582083,
+                        40.46545
+                  ]
+            },
+            {
+                  "name": "κορυφή Φεγγαρι (1611μ)",
+                  "text": "A Száosz-hegy főcsúcsa, amely széles panorámát nyújt a szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        25.584703,
+                        40.462385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Φεγγάρι",
+                  "text": "Cel mai înalt vârf al masivului Saos de pe insula grecească Samothraki.",
+                  "category": "landmark",
+                  "coords": [
+                        25.587498,
+                        40.461663
+                  ]
+            },
+            {
+                  "name": "κορυφή (1584μ)",
+                  "text": "Un punct de observație la mare altitudine pe muntele Saos, cu vedere spre Marea Egee.",
+                  "category": "natural",
+                  "coords": [
+                        25.582083,
+                        40.46545
+                  ]
+            },
+            {
+                  "name": "κορυφή Φεγγαρι (1611μ)",
+                  "text": "Vârful principal al muntelui Saos, oferind o panoramă vastă asupra insulei.",
+                  "category": "natural",
+                  "coords": [
+                        25.584703,
+                        40.462385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fengari",
+                  "text": "The highest peak of the Saos mountain range on the Greek island of Samothrace.",
+                  "category": "landmark",
+                  "coords": [
+                        25.587498,
+                        40.461663
+                  ]
+            },
+            {
+                  "name": "peak (1584m)",
+                  "text": "A high-altitude viewpoint on Mount Saos overlooking the Aegean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        25.582083,
+                        40.46545
+                  ]
+            },
+            {
+                  "name": "peak Fengari (1611m)",
+                  "text": "The main peak of Mount Saos, providing wide panoramic views over the island.",
+                  "category": "natural",
+                  "coords": [
+                        25.584703,
+                        40.462385
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Saos-Gebirge (Fengari)", hu: "Szaosz-hegység (Fengari)", ro: "Muntele Saos", en: "Mount Saos (Fengari)" },
@@ -1635,7 +3435,88 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Altitude : 1 611 m", "Superficie de la zone Natura 2000 : env. 50 km²", "Superficie de l'île de Samothrace : 178 km²", "Nombre d'espèces végétales endémiques : au moins 5", "Vitesse maximale du vent au sommet : 120 km/h", "Première ascension par des alpinistes modernes : XIXe siècle"],
     }, image: "/poi-images/greece-mount-saos-relief-v2.webp"},
   {
-    id: "greece-mount-zas-relief-v2",
+    id: "greece-mount-zas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Olive Press",
+                  "text": "Ein traditionelles Ölmühlenmuseum, das historische Methoden der Ölherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.469076,
+                        37.051126
+                  ]
+            },
+            {
+                  "name": "Zeus Höhle",
+                  "text": "Eine große Höhle am Berg Zas, in der laut griechischer Mythologie Zeus aufgewachsen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.498916,
+                        37.034906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Olive Press",
+                  "text": "Hagyományos olajprés múzeum, amely a történelmi olajtermelési módszereket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.469076,
+                        37.051126
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Ζα",
+                  "text": "Egy nagy barlang a Zas-hegyen, ahol a görög mitológia szerint Zeusz nevelkedett.",
+                  "category": "landmark",
+                  "coords": [
+                        25.498916,
+                        37.034906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Olive Press",
+                  "text": "Un muzeu tradițional al presei de măsline care prezintă metode istorice de producție a uleiului.",
+                  "category": "museum",
+                  "coords": [
+                        25.469076,
+                        37.051126
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Ζα",
+                  "text": "O peșteră mare pe muntele Zas unde, conform mitologiei grecești, a fost crescut Zeus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.498916,
+                        37.034906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Olive Press",
+                  "text": "A traditional olive press museum showcasing historical oil production methods.",
+                  "category": "museum",
+                  "coords": [
+                        25.469076,
+                        37.051126
+                  ]
+            },
+            {
+                  "name": "Zas Cave",
+                  "text": "A large cave on Mount Zas where, according to Greek mythology, Zeus was raised.",
+                  "category": "landmark",
+                  "coords": [
+                        25.498916,
+                        37.034906
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Berg Zas", hu: "Zeusz-hegy (Zasz)", ro: "Muntele Zas", en: "Mount Zas" },
@@ -1678,7 +3559,304 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Point culminant des Cyclades avec 1 004 mètres.", "Nommé d'après Zeus, le roi des dieux.", "Abrite la grotte de Zas, d'une grande importance historique.", "Lieu de découverte d'inscriptions archaïques au pied du mont.", "Site majeur d'extraction du marbre de Naxos.", "Vue panoramique jusqu'à Santorin par temps clair."],
     }, image: "/poi-images/greece-mount-zas-relief-v2.webp"},
   {
-    id: "greece-mount-kerkis-relief-v2",
+    id: "greece-mount-kerkis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Psili Ammos",
+                  "text": "Ein flach abfallender Sandstrand, der besonders bei Familien sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.643679,
+                        37.703021
+                  ]
+            },
+            {
+                  "name": "Plaka Beach",
+                  "text": "Ein ruhiger Küstenabschnitt am Fuße des Berges Kerkis mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        26.58547,
+                        37.704752
+                  ]
+            },
+            {
+                  "name": "Ag. Nikolaos",
+                  "text": "Ein malerischer Strand in der Nähe von Kallithea, ideal zum Entspannen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        26.620276,
+                        37.68521
+                  ]
+            },
+            {
+                  "name": "Beach Limnionas",
+                  "text": "Eine idyllische Bucht mit Kiesstrand und klarem Wasser auf der Westseite von Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.631514,
+                        37.693492
+                  ]
+            },
+            {
+                  "name": "Beach Aspres",
+                  "text": "Ein abgelegener Strandabschnitt, der Ruhe und eine naturbelassene Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        26.661261,
+                        37.705324
+                  ]
+            },
+            {
+                  "name": "Aspres",
+                  "text": "Ein kleiner, ruhiger Strand mit hellem Kies am Fuße des imposanten Berges Kerkis.",
+                  "category": "recreational",
+                  "coords": [
+                        26.658198,
+                        37.705227
+                  ]
+            },
+            {
+                  "name": "Handaki",
+                  "text": "Ein naturbelassener Küstenabschnitt in der bergigen Landschaft im Westen von Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.653832,
+                        37.705017
+                  ]
+            },
+            {
+                  "name": "Kerkis",
+                  "text": "Der höchste Gipfel der Insel Samos, bekannt für seine anspruchsvollen Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        26.622059,
+                        37.726374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Psili Ammos",
+                  "text": "Lassan mélyülő homokos strand, amely különösen népszerű a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.643679,
+                        37.703021
+                  ]
+            },
+            {
+                  "name": "Plaka Beach",
+                  "text": "Csendes tengerparti szakasz a Kerkis-hegy lábánál, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.58547,
+                        37.704752
+                  ]
+            },
+            {
+                  "name": "Ag. Nikolaos",
+                  "text": "Festői tengerpart Kallithea közelében, ideális a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        26.620276,
+                        37.68521
+                  ]
+            },
+            {
+                  "name": "Beach Limnionas",
+                  "text": "Idilli öböl kavicsos stranddal és tiszta vízzel Samos nyugati oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        26.631514,
+                        37.693492
+                  ]
+            },
+            {
+                  "name": "Beach Aspres",
+                  "text": "Elszigetelt tengerparti szakasz, amely nyugalmat és természetes környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.661261,
+                        37.705324
+                  ]
+            },
+            {
+                  "name": "Aspres",
+                  "text": "Kicsi, csendes strand világos kavicsokkal az impozáns Kerkis-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.658198,
+                        37.705227
+                  ]
+            },
+            {
+                  "name": "Handaki",
+                  "text": "Természetes tengerparti szakasz Samos nyugati, hegyvidéki táján.",
+                  "category": "recreational",
+                  "coords": [
+                        26.653832,
+                        37.705017
+                  ]
+            },
+            {
+                  "name": "Κέρκης",
+                  "text": "Samos szigetének legmagasabb csúcsa, amely kihívást jelentő túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.622059,
+                        37.726374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Psili Ammos",
+                  "text": "O plajă cu nisip fin și intrare lină în apă, fiind foarte populară în rândul familiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        26.643679,
+                        37.703021
+                  ]
+            },
+            {
+                  "name": "Plaka Beach",
+                  "text": "O porțiune liniștită de coastă la poalele muntelui Kerkis, cu ape limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.58547,
+                        37.704752
+                  ]
+            },
+            {
+                  "name": "Ag. Nikolaos",
+                  "text": "O plajă pitorească situată lângă Kallithea, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        26.620276,
+                        37.68521
+                  ]
+            },
+            {
+                  "name": "Beach Limnionas",
+                  "text": "Un golf idilic cu plajă de pietriș și ape limpezi pe partea de vest a insulei Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.631514,
+                        37.693492
+                  ]
+            },
+            {
+                  "name": "Beach Aspres",
+                  "text": "O porțiune de plajă izolată, care oferă liniște și un cadru natural nealterat.",
+                  "category": "recreational",
+                  "coords": [
+                        26.661261,
+                        37.705324
+                  ]
+            },
+            {
+                  "name": "Aspres",
+                  "text": "O plajă mică și liniștită cu pietriș deschis la culoare, la poalele muntelui Kerkis.",
+                  "category": "recreational",
+                  "coords": [
+                        26.658198,
+                        37.705227
+                  ]
+            },
+            {
+                  "name": "Handaki",
+                  "text": "O zonă de coastă naturală în peisajul muntos din vestul insulei Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.653832,
+                        37.705017
+                  ]
+            },
+            {
+                  "name": "Κέρκης",
+                  "text": "Cel mai înalt vârf de pe insula Samos, cunoscut pentru traseele sale de drumeție solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        26.622059,
+                        37.726374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Psili Ammos",
+                  "text": "A gently sloping sandy beach that is particularly popular with families.",
+                  "category": "recreational",
+                  "coords": [
+                        26.643679,
+                        37.703021
+                  ]
+            },
+            {
+                  "name": "Plaka Beach",
+                  "text": "A quiet stretch of coastline at the foot of Mount Kerkis with clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        26.58547,
+                        37.704752
+                  ]
+            },
+            {
+                  "name": "Ag. Nikolaos",
+                  "text": "A picturesque beach located near Kallithea, ideal for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        26.620276,
+                        37.68521
+                  ]
+            },
+            {
+                  "name": "Beach Limnionas",
+                  "text": "An idyllic bay with a pebble beach and clear water on the western side of Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.631514,
+                        37.693492
+                  ]
+            },
+            {
+                  "name": "Beach Aspres",
+                  "text": "A secluded stretch of beach offering peace and a natural, untouched environment.",
+                  "category": "recreational",
+                  "coords": [
+                        26.661261,
+                        37.705324
+                  ]
+            },
+            {
+                  "name": "Aspres",
+                  "text": "A small, quiet beach with light-colored pebbles at the foot of Mount Kerkis.",
+                  "category": "recreational",
+                  "coords": [
+                        26.658198,
+                        37.705227
+                  ]
+            },
+            {
+                  "name": "Handaki",
+                  "text": "A natural coastal area set within the mountainous landscape of western Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.653832,
+                        37.705017
+                  ]
+            },
+            {
+                  "name": "Kerkis",
+                  "text": "The highest peak on Samos island, renowned for its challenging hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        26.622059,
+                        37.726374
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Berg Kerkis", hu: "Kerkisz-hegy", ro: "Muntele Kerkis", en: "Mount Kerkis" },
@@ -1721,7 +3899,52 @@ imageHint: "Agrafa mountains remote landscape Greece",
       fr: ["Point culminant de Samos avec 1 434 mètres.", "Composé presque entièrement de marbre blanc.", "Abrite la célèbre grotte de Pythagore.", "Volcan éteint à la forme caractéristique.", "Foyer de plus de 50 espèces végétales endémiques.", "Deuxième plus haute montagne des îles d'Égée orientale."],
     }, image: "/poi-images/greece-mount-kerkis-relief-v2.webp"},
   {
-    id: "greece-mount-kallidromo-relief-v2",
+    id: "greece-mount-kallidromo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο Μενδενίτσας Μαρκιωνίας Βοδονίτσας",
+                  "text": "Eine mittelalterliche Burg auf dem Berg Kallidromo.",
+                  "category": "castle",
+                  "coords": [
+                        22.615672,
+                        38.752747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Μενδενίτσας Μαρκιωνίας Βοδονίτσας",
+                  "text": "Középkori vár a Kallidromo-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        22.615672,
+                        38.752747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Μενδενίτσας Μαρκιωνίας Βοδονίτσας",
+                  "text": "Un castel medieval situat pe muntele Kallidromo.",
+                  "category": "castle",
+                  "coords": [
+                        22.615672,
+                        38.752747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Mendenitsa",
+                  "text": "A medieval castle located on Mount Kallidromo.",
+                  "category": "castle",
+                  "coords": [
+                        22.615672,
+                        38.752747
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Kallidromo-Gebirge", hu: "Kallidromo-hegység", ro: "Munții Kallidromo", en: "Mount Kallidromo" },

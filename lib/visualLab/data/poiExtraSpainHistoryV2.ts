@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const spainHistoryV2: POI[] = [
 
   {
-    id: "spain-sagunto-ruins-history-v2",
+    id: "spain-sagunto-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro romano de Sagunto",
+                  "text": "Dieses antike römische Theater wurde im 1. Jahrhundert erbaut und ist für seine Akustik bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        -0.278011,
+                        39.676824
+                  ]
+            },
+            {
+                  "name": "Museu Arqueològic de Sagunt",
+                  "text": "Das Museum stellt archäologische Funde aus der Burg und dem römischen Theater aus.",
+                  "category": "museum",
+                  "coords": [
+                        -0.277889,
+                        39.678499
+                  ]
+            },
+            {
+                  "name": "Museu de Petrés",
+                  "text": "Ein lokales Museum, das der Geschichte und dem kulturellen Erbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.309612,
+                        39.683329
+                  ]
+            },
+            {
+                  "name": "Plaça del Sant Ferran",
+                  "text": "Ein historischer Platz innerhalb des Burgkomplexes, benannt nach dem Heiligen Ferran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.279816,
+                        39.675603
+                  ]
+            },
+            {
+                  "name": "Plaça de la ciutadela de Sagunt",
+                  "text": "Der Platz der Zitadelle markiert einen zentralen Punkt in der weitläufigen Festungsanlage.",
+                  "category": "historical",
+                  "coords": [
+                        -0.281881,
+                        39.676345
+                  ]
+            },
+            {
+                  "name": "Plaça del Dos de Maig",
+                  "text": "Ein historischer Platz auf dem Burggelände, der an wichtige Ereignisse der lokalen Geschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -0.283188,
+                        39.67686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro romano de Sagunto",
+                  "text": "Ez az ókori római színház az 1. században épült, és híres az akusztikájáról.",
+                  "category": "historical",
+                  "coords": [
+                        -0.278011,
+                        39.676824
+                  ]
+            },
+            {
+                  "name": "Museu Arqueològic de Sagunt",
+                  "text": "A múzeum a várból és a római színházból származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.277889,
+                        39.678499
+                  ]
+            },
+            {
+                  "name": "Museu de Petrés",
+                  "text": "A régió történelmének és kulturális örökségének szentelt helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.309612,
+                        39.683329
+                  ]
+            },
+            {
+                  "name": "Plaça del Sant Ferran",
+                  "text": "Történelmi tér a várkomplexumon belül, amelyet Szent Ferranról neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        -0.279816,
+                        39.675603
+                  ]
+            },
+            {
+                  "name": "Plaça de la ciutadela de Sagunt",
+                  "text": "A citadella tere központi pontot jelöl a kiterjedt erődítményrendszerben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.281881,
+                        39.676345
+                  ]
+            },
+            {
+                  "name": "Plaça del Dos de Maig",
+                  "text": "Történelmi tér a vár területén, amely a helyi történelem fontos eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -0.283188,
+                        39.67686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro romano de Sagunto",
+                  "text": "Acest teatru roman antic a fost construit în secolul I și este cunoscut pentru acustica sa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.278011,
+                        39.676824
+                  ]
+            },
+            {
+                  "name": "Museu Arqueològic de Sagunt",
+                  "text": "Muzeul expune descoperiri arheologice provenite din castel și din teatrul roman.",
+                  "category": "museum",
+                  "coords": [
+                        -0.277889,
+                        39.678499
+                  ]
+            },
+            {
+                  "name": "Museu de Petrés",
+                  "text": "Un muzeu local dedicat istoriei și moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -0.309612,
+                        39.683329
+                  ]
+            },
+            {
+                  "name": "Plaça del Sant Ferran",
+                  "text": "O piață istorică în cadrul complexului cetății, numită după Sfântul Ferran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.279816,
+                        39.675603
+                  ]
+            },
+            {
+                  "name": "Plaça de la ciutadela de Sagunt",
+                  "text": "Piața citadelei marchează un punct central în cadrul sistemului vast de fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        -0.281881,
+                        39.676345
+                  ]
+            },
+            {
+                  "name": "Plaça del Dos de Maig",
+                  "text": "O piață istorică din zona castelului, care amintește de evenimente importante din istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        -0.283188,
+                        39.67686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro romano de Sagunto",
+                  "text": "This ancient Roman theatre was built in the 1st century and is known for its acoustics.",
+                  "category": "historical",
+                  "coords": [
+                        -0.278011,
+                        39.676824
+                  ]
+            },
+            {
+                  "name": "Museu Arqueològic de Sagunt",
+                  "text": "The museum exhibits archaeological finds from the castle and the Roman theatre.",
+                  "category": "museum",
+                  "coords": [
+                        -0.277889,
+                        39.678499
+                  ]
+            },
+            {
+                  "name": "Museu de Petrés",
+                  "text": "A local museum dedicated to the history and cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -0.309612,
+                        39.683329
+                  ]
+            },
+            {
+                  "name": "Saint Ferran's Square",
+                  "text": "A historic square within the castle complex, named after Saint Ferran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.279816,
+                        39.675603
+                  ]
+            },
+            {
+                  "name": "Sagunt's citidel square",
+                  "text": "The citadel square marks a central point within the extensive fortification system.",
+                  "category": "historical",
+                  "coords": [
+                        -0.281881,
+                        39.676345
+                  ]
+            },
+            {
+                  "name": "May 2nd square",
+                  "text": "A historic square on the castle grounds, commemorating important events in local history.",
+                  "category": "historical",
+                  "coords": [
+                        -0.283188,
+                        39.67686
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Burg von Sagunto", hu: "Sagunto vára", ro: "Castelul Sagunto", en: "Sagunto Castle"},
@@ -142,7 +367,268 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
     },
     image: "/poi-images/spain-italica-ruins-history-v2.webp",
 },  {
-    id: "spain-merida-theatre-history-v2",
+    id: "spain-merida-theatre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Arte Visigodo",
+                  "text": "Museum für westgotische Kunst und Kultur in Mérida.",
+                  "category": "museum",
+                  "coords": [
+                        -6.346724,
+                        38.917056
+                  ]
+            },
+            {
+                  "name": "Alcazaba de Mérida",
+                  "text": "Muslimische Festung aus dem 9. Jahrhundert im historischen Mérida.",
+                  "category": "historical",
+                  "coords": [
+                        -6.34679,
+                        38.914723
+                  ]
+            },
+            {
+                  "name": "Castellum Aquae",
+                  "text": "Ein römisches Wasserkastell, das Teil des archäologischen Ensembles von Mérida ist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.349794,
+                        38.92113
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Ein antikes römisches Amphitheater in Mérida, das für Gladiatorenkämpfe genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -6.33792,
+                        38.916177
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Arte Romano",
+                  "text": "Dieses Museum in Mérida zeigt eine bedeutende Sammlung römischer Kunst und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -6.339819,
+                        38.917295
+                  ]
+            },
+            {
+                  "name": "Casa del Mitreo",
+                  "text": "Die Überreste eines römischen Hauses in Mérida, bekannt für seine gut erhaltenen Mosaike.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341102,
+                        38.911173
+                  ]
+            },
+            {
+                  "name": "Casa del Anfiteatro",
+                  "text": "Eine archäologische Ausgrabungsstätte in Mérida mit den Ruinen eines römischen Wohnhauses.",
+                  "category": "historical",
+                  "coords": [
+                        -6.337369,
+                        38.917434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Arte Visigodo",
+                  "text": "Westgót művészeti és kulturális múzeum Méridában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.346724,
+                        38.917056
+                  ]
+            },
+            {
+                  "name": "Alcazaba de Mérida",
+                  "text": "9. századi muszlim erőd a történelmi Méridában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.34679,
+                        38.914723
+                  ]
+            },
+            {
+                  "name": "Castellum Aquae",
+                  "text": "Római vízelosztó építmény, amely Mérida régészeti együttesének része.",
+                  "category": "historical",
+                  "coords": [
+                        -6.349794,
+                        38.92113
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Mérida ókori római amfiteátruma, amelyet egykor gladiátorküzdelmekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -6.33792,
+                        38.916177
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Arte Romano",
+                  "text": "Ez a méridai múzeum a római művészet és tárgyi emlékek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.339819,
+                        38.917295
+                  ]
+            },
+            {
+                  "name": "Casa del Mitreo",
+                  "text": "Egy méridai római ház maradványai, amely jól megőrzött mozaikjairól nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341102,
+                        38.911173
+                  ]
+            },
+            {
+                  "name": "Casa del Anfiteatro",
+                  "text": "Régészeti lelőhely Méridában, egy római lakóház romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        -6.337369,
+                        38.917434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Arte Visigodo",
+                  "text": "Muzeu de artă și cultură vizigotă în Mérida.",
+                  "category": "museum",
+                  "coords": [
+                        -6.346724,
+                        38.917056
+                  ]
+            },
+            {
+                  "name": "Alcazaba de Mérida",
+                  "text": "Cetate musulmană din secolul al IX-lea în Mérida istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -6.34679,
+                        38.914723
+                  ]
+            },
+            {
+                  "name": "Castellum Aquae",
+                  "text": "Un castel de apă roman care face parte din ansamblul arheologic din Mérida.",
+                  "category": "historical",
+                  "coords": [
+                        -6.349794,
+                        38.92113
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Un amfiteatru roman antic din Mérida, folosit odinioară pentru lupte de gladiatori.",
+                  "category": "historical",
+                  "coords": [
+                        -6.33792,
+                        38.916177
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Arte Romano",
+                  "text": "Acest muzeu din Mérida expune o colecție importantă de artă și artefacte romane.",
+                  "category": "museum",
+                  "coords": [
+                        -6.339819,
+                        38.917295
+                  ]
+            },
+            {
+                  "name": "Casa del Mitreo",
+                  "text": "Ruinele unei case romane din Mérida, cunoscută pentru mozaicurile sale bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341102,
+                        38.911173
+                  ]
+            },
+            {
+                  "name": "Casa del Anfiteatro",
+                  "text": "Un sit arheologic din Mérida ce cuprinde ruinele unei case romane.",
+                  "category": "historical",
+                  "coords": [
+                        -6.337369,
+                        38.917434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Arte Visigodo",
+                  "text": "Museum of Visigothic art and culture in Mérida.",
+                  "category": "museum",
+                  "coords": [
+                        -6.346724,
+                        38.917056
+                  ]
+            },
+            {
+                  "name": "Alcazaba de Mérida",
+                  "text": "9th-century Muslim fortress in historic Mérida.",
+                  "category": "historical",
+                  "coords": [
+                        -6.34679,
+                        38.914723
+                  ]
+            },
+            {
+                  "name": "Castellum Aquae",
+                  "text": "A Roman water distribution structure that is part of the archaeological ensemble of Mérida.",
+                  "category": "historical",
+                  "coords": [
+                        -6.349794,
+                        38.92113
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "An ancient Roman amphitheater in Mérida, once used for gladiatorial contests.",
+                  "category": "historical",
+                  "coords": [
+                        -6.33792,
+                        38.916177
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Arte Romano",
+                  "text": "This museum in Mérida displays an important collection of Roman art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -6.339819,
+                        38.917295
+                  ]
+            },
+            {
+                  "name": "Casa del Mitreo",
+                  "text": "The remains of a Roman house in Mérida, notable for its well-preserved mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341102,
+                        38.911173
+                  ]
+            },
+            {
+                  "name": "Casa del Anfiteatro",
+                  "text": "An archaeological site in Mérida featuring the ruins of a Roman residence.",
+                  "category": "historical",
+                  "coords": [
+                        -6.337369,
+                        38.917434
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Römisches Theater von Mérida", hu: "Méridai római színház", ro: "Teatrul Roman din Mérida", en: "Roman Theatre of Mérida"},
@@ -328,7 +814,304 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     },
   },
   {
-    id: "spain-el-escorial-palace-history-v2",
+    id: "spain-el-escorial-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casita del Príncipe",
+                  "text": "Dieses neoklassizistische Lustschloss wurde im 18. Jahrhundert für den Prinzen von Asturien erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        -4.136522,
+                        40.584369
+                  ]
+            },
+            {
+                  "name": "Königliches Kloster Sankt Laurentius",
+                  "text": "Dieses monumentale Kloster ist ein UNESCO-Welterbe und Ruhestätte spanischer Könige.",
+                  "category": "religious",
+                  "coords": [
+                        -4.147849,
+                        40.589043
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de San Lorenzo de El Escorial",
+                  "text": "Ein modernes Theater und Auditorium, das bedeutende musikalische und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.142763,
+                        40.590481
+                  ]
+            },
+            {
+                  "name": "Real Coliseo Carlos III",
+                  "text": "Eines der ältesten überdachten Theater Spaniens, erbaut auf Befehl von König Karl III.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.147167,
+                        40.590975
+                  ]
+            },
+            {
+                  "name": "Museo Cocheras del Rey",
+                  "text": "Das Museum zeigt historische königliche Kutschen und die Logistik des spanischen Hofes.",
+                  "category": "museum",
+                  "coords": [
+                        -4.145159,
+                        40.591198
+                  ]
+            },
+            {
+                  "name": "InsectPark",
+                  "text": "Ein spezialisiertes Museum, das der Erforschung und Ausstellung der weltweiten Insektenvielfalt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.118173,
+                        40.609234
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Manguilla",
+                  "text": "Ein lokales Auditorium, das für kulturelle Aufführungen und Gemeindeveranstaltungen in El Escorial genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.136662,
+                        40.578844
+                  ]
+            },
+            {
+                  "name": "La Silla de Felipe II",
+                  "text": "Von diesem Felsvorsprung aus soll König Philipp II. den Bau des Escorial-Klosters beobachtet haben.",
+                  "category": "natural",
+                  "coords": [
+                        -4.152541,
+                        40.568537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casita del Príncipe",
+                  "text": "Ez a neoklasszicista kastély a 18. században épült az asztúriai herceg számára.",
+                  "category": "historical",
+                  "coords": [
+                        -4.136522,
+                        40.584369
+                  ]
+            },
+            {
+                  "name": "Real Monasterio de San Lorenzo de El Escorial",
+                  "text": "A monumentális kolostor az UNESCO Világörökség része és spanyol királyok temetkezőhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -4.147849,
+                        40.589043
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de San Lorenzo de El Escorial",
+                  "text": "Modern színház és auditórium, amely jelentős zenei és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.142763,
+                        40.590481
+                  ]
+            },
+            {
+                  "name": "Real Coliseo Carlos III",
+                  "text": "Spanyolország egyik legrégebbi fedett színháza, amely III. Károly király parancsára épült.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.147167,
+                        40.590975
+                  ]
+            },
+            {
+                  "name": "Museo Cocheras del Rey",
+                  "text": "A múzeum történelmi királyi kocsikat és a spanyol udvar logisztikáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.145159,
+                        40.591198
+                  ]
+            },
+            {
+                  "name": "InsectPark",
+                  "text": "A világ rovarvilágának tanulmányozására és bemutatására szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -4.118173,
+                        40.609234
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Manguilla",
+                  "text": "Helyi auditórium, amelyet kulturális előadásokra és közösségi eseményekre használnak El Escorialban.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.136662,
+                        40.578844
+                  ]
+            },
+            {
+                  "name": "La Silla de Felipe II",
+                  "text": "A legenda szerint II. Fülöp király erről a szikláról figyelte az Escorial kolostor építését.",
+                  "category": "natural",
+                  "coords": [
+                        -4.152541,
+                        40.568537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casita del Príncipe",
+                  "text": "Acest pavilion neoclasic a fost construit în secolul al XVIII-lea pentru prințul de Asturia.",
+                  "category": "historical",
+                  "coords": [
+                        -4.136522,
+                        40.584369
+                  ]
+            },
+            {
+                  "name": "Real Monasterio de San Lorenzo de El Escorial",
+                  "text": "Mănăstirea monumentală face parte din patrimoniul mondial UNESCO și este locul de odihnă al regilor spanioli.",
+                  "category": "religious",
+                  "coords": [
+                        -4.147849,
+                        40.589043
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de San Lorenzo de El Escorial",
+                  "text": "Un teatru și auditoriu modern care găzduiește evenimente muzicale și culturale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.142763,
+                        40.590481
+                  ]
+            },
+            {
+                  "name": "Real Coliseo Carlos III",
+                  "text": "Unul dintre cele mai vechi teatre acoperite din Spania, construit la ordinul regelui Carol al III-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.147167,
+                        40.590975
+                  ]
+            },
+            {
+                  "name": "Museo Cocheras del Rey",
+                  "text": "Muzeul prezintă trăsuri regale istorice și logistica curții spaniole.",
+                  "category": "museum",
+                  "coords": [
+                        -4.145159,
+                        40.591198
+                  ]
+            },
+            {
+                  "name": "InsectPark",
+                  "text": "Un muzeu specializat dedicat studiului și expunerii diversității insectelor din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        -4.118173,
+                        40.609234
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Manguilla",
+                  "text": "Un auditoriu local folosit pentru spectacole culturale și evenimente comunitare în El Escorial.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.136662,
+                        40.578844
+                  ]
+            },
+            {
+                  "name": "La Silla de Felipe II",
+                  "text": "De pe acest afloriment stâncos se spune că regele Filip al II-lea a urmărit construcția mănăstirii Escorial.",
+                  "category": "natural",
+                  "coords": [
+                        -4.152541,
+                        40.568537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casita del Príncipe",
+                  "text": "This neoclassical lodge was built in the 18th century for the Prince of Asturias.",
+                  "category": "historical",
+                  "coords": [
+                        -4.136522,
+                        40.584369
+                  ]
+            },
+            {
+                  "name": "Real Monasterio de San Lorenzo de El Escorial",
+                  "text": "The monumental monastery is a UNESCO World Heritage site and the burial place of Spanish kings.",
+                  "category": "religious",
+                  "coords": [
+                        -4.147849,
+                        40.589043
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorio de San Lorenzo de El Escorial",
+                  "text": "A modern theatre and auditorium that hosts major musical and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.142763,
+                        40.590481
+                  ]
+            },
+            {
+                  "name": "Real Coliseo Carlos III",
+                  "text": "One of the oldest indoor theatres in Spain, built by order of King Charles III.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.147167,
+                        40.590975
+                  ]
+            },
+            {
+                  "name": "Museo Cocheras del Rey",
+                  "text": "The museum displays historical royal carriages and the logistics of the Spanish court.",
+                  "category": "museum",
+                  "coords": [
+                        -4.145159,
+                        40.591198
+                  ]
+            },
+            {
+                  "name": "InsectPark",
+                  "text": "A specialized museum dedicated to the study and display of global insect biodiversity.",
+                  "category": "museum",
+                  "coords": [
+                        -4.118173,
+                        40.609234
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Manguilla",
+                  "text": "A local auditorium used for cultural performances and community events in El Escorial.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.136662,
+                        40.578844
+                  ]
+            },
+            {
+                  "name": "La Silla de Felipe II",
+                  "text": "From this rocky outcrop, King Philip II is said to have watched the construction of the Escorial monastery.",
+                  "category": "natural",
+                  "coords": [
+                        -4.152541,
+                        40.568537
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "palace",
     name: { de: "El Escorial", hu: "Escorial", ro: "El Escorial", en: "El Escorial"},
@@ -422,7 +1205,304 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     },
   },
   {
-    id: "spain-valley-fallen-monument-history-v2",
+    id: "spain-valley-fallen-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Posición Picazuelo",
+                  "text": "Eine historische Verteidigungsstellung aus der Zeit des Spanischen Bürgerkriegs in der Nähe des Tals der Gefallenen.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.129662,
+                        40.663528
+                  ]
+            },
+            {
+                  "name": "Abantos",
+                  "text": "Ein markanter Berggipfel in der Sierra de Guadarrama mit weitem Blick auf die Umgebung von San Lorenzo de El Escorial.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.150844,
+                        40.616087
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carrasqueta",
+                  "text": "Ein Gipfel in der Gebirgskette nahe dem Tal der Gefallenen, der beliebt für Wanderungen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.167329,
+                        40.654508
+                  ]
+            },
+            {
+                  "name": "Cruz del Valle de Cuelgamuros",
+                  "text": "Ein monumentales Steinkreuz, das als weithin sichtbares Wahrzeichen über dem Tal der Gefallenen thront.",
+                  "category": "historical",
+                  "coords": [
+                        -4.155286,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Cruz del Despeñadero",
+                  "text": "Ein Aussichtspunkt in der Nähe des großen Kreuzes, der weite Panoramablicke über die umliegende Bergwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -4.167096,
+                        40.608303
+                  ]
+            },
+            {
+                  "name": "Los Juanelos",
+                  "text": "Massive Granitsäulen im Tal der Gefallenen, die ursprünglich für ein Bauprojekt von Juan de Herrera vorgesehen waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.119658,
+                        40.646254
+                  ]
+            },
+            {
+                  "name": "Casa del Renegado",
+                  "text": "Die Ruinen eines historischen Gebäudes in der kargen Gebirgslandschaft nahe dem Tal der Gefallenen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.149441,
+                        40.613126
+                  ]
+            },
+            {
+                  "name": "Mirador de la Barranquilla",
+                  "text": "Ein Aussichtspunkt, der Besuchern einen weiten Blick über die Täler und Wälder der Sierra de Guadarrama ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -4.149927,
+                        40.607074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Posición Picazuelo",
+                  "text": "Történelmi védelmi állás a spanyol polgárháború idejéből, az Elesettek Völgye közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.129662,
+                        40.663528
+                  ]
+            },
+            {
+                  "name": "Abantos",
+                  "text": "Jellegzetes hegycsúcs a Sierra de Guadarrama hegységben, kilátással San Lorenzo de El Escorial környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.150844,
+                        40.616087
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carrasqueta",
+                  "text": "Hegycsúcs az Elesettek Völgye közeli hegyláncban, amely kedvelt túrázóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.167329,
+                        40.654508
+                  ]
+            },
+            {
+                  "name": "Cruz del Valle de Cuelgamuros",
+                  "text": "Monumentális kőkereszt, amely az Elesettek Völgye felett magasodva messziről is látható jelkép.",
+                  "category": "historical",
+                  "coords": [
+                        -4.155286,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Cruz del Despeñadero",
+                  "text": "Kilátópont a nagy kereszt közelében, amely panorámás kilátást nyújt a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.167096,
+                        40.608303
+                  ]
+            },
+            {
+                  "name": "Los Juanelos",
+                  "text": "Masszív gránitoszlopok az Elesettek Völgyében, amelyeket eredetileg Juan de Herrera egyik építkezéséhez szántak.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.119658,
+                        40.646254
+                  ]
+            },
+            {
+                  "name": "Casa del Renegado",
+                  "text": "Egy történelmi épület romjai a kopár hegyi tájban, az Elesettek Völgye közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -4.149441,
+                        40.613126
+                  ]
+            },
+            {
+                  "name": "Mirador de la Barranquilla",
+                  "text": "Kilátóhely, ahonnan tágas kilátás nyílik a Sierra de Guadarrama völgyeire és erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        -4.149927,
+                        40.607074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Posición Picazuelo",
+                  "text": "O poziție defensivă istorică din timpul Războiului Civil Spaniol, situată lângă Valea celor Căzuți.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.129662,
+                        40.663528
+                  ]
+            },
+            {
+                  "name": "Abantos",
+                  "text": "Un vârf muntos proeminent în Sierra de Guadarrama, cu vederi asupra împrejurimilor San Lorenzo de El Escorial.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.150844,
+                        40.616087
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carrasqueta",
+                  "text": "Un vârf din lanțul muntos de lângă Valea celor Căzuți, popular pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.167329,
+                        40.654508
+                  ]
+            },
+            {
+                  "name": "Cruz del Valle de Cuelgamuros",
+                  "text": "O cruce monumentală de piatră care domină Valea celor Căzuți, fiind un simbol vizibil de la distanță.",
+                  "category": "historical",
+                  "coords": [
+                        -4.155286,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Cruz del Despeñadero",
+                  "text": "Un punct de observație lângă marea cruce, oferind vederi panoramice asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -4.167096,
+                        40.608303
+                  ]
+            },
+            {
+                  "name": "Los Juanelos",
+                  "text": "Coloane masive de granit în Valea celor Căzuți, destinate inițial unui proiect de construcție al lui Juan de Herrera.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.119658,
+                        40.646254
+                  ]
+            },
+            {
+                  "name": "Casa del Renegado",
+                  "text": "Ruinele unei clădiri istorice în peisajul montan arid de lângă Valea celor Căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        -4.149441,
+                        40.613126
+                  ]
+            },
+            {
+                  "name": "Mirador de la Barranquilla",
+                  "text": "Un punct de belvedere care oferă vizitatorilor o vedere largă asupra văilor și pădurilor din Sierra de Guadarrama.",
+                  "category": "natural",
+                  "coords": [
+                        -4.149927,
+                        40.607074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Posición Picazuelo",
+                  "text": "A historical defensive position from the Spanish Civil War era, located near the Valley of the Fallen.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.129662,
+                        40.663528
+                  ]
+            },
+            {
+                  "name": "Abantos",
+                  "text": "A prominent mountain peak in the Sierra de Guadarrama, with views over the surroundings of San Lorenzo de El Escorial.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.150844,
+                        40.616087
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carrasqueta",
+                  "text": "A peak in the mountain range near the Valley of the Fallen, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.167329,
+                        40.654508
+                  ]
+            },
+            {
+                  "name": "Cruz del Valle de Cuelgamuros",
+                  "text": "A monumental stone cross that towers over the Valley of the Fallen as a landmark visible from afar.",
+                  "category": "historical",
+                  "coords": [
+                        -4.155286,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Cruz del Despeñadero",
+                  "text": "A viewpoint near the great cross, offering panoramic views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -4.167096,
+                        40.608303
+                  ]
+            },
+            {
+                  "name": "Los Juanelos",
+                  "text": "Massive granite columns in the Valley of the Fallen, originally intended for a construction project by Juan de Herrera.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.119658,
+                        40.646254
+                  ]
+            },
+            {
+                  "name": "Casa del Renegado",
+                  "text": "The ruins of a historical building in the barren mountain landscape near the Valley of the Fallen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.149441,
+                        40.613126
+                  ]
+            },
+            {
+                  "name": "Mirador de la Barranquilla",
+                  "text": "A viewpoint providing visitors with a wide view over the valleys and forests of the Sierra de Guadarrama.",
+                  "category": "natural",
+                  "coords": [
+                        -4.149927,
+                        40.607074
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "monument",
     name: { de: "Tal der Gefallenen", hu: "Elesettek Völgye", ro: "Valea celor Căzuți", en: "Valley of the Fallen"},
@@ -469,7 +1549,268 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     },
   },
   {
-    id: "spain-belchite-ruins-history-v2",
+    id: "spain-belchite-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pueblo Viejo de Belchite",
+                  "text": "Eine Geisterstadt, die als Mahnmal an den Spanischen Bürgerkrieg erhalten blieb.",
+                  "category": "historical",
+                  "coords": [
+                        -0.747483,
+                        41.300619
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Agustín (ruinas)",
+                  "text": "Die Ruinen einer historischen Kirche im alten Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748813,
+                        41.302929
+                  ]
+            },
+            {
+                  "name": "Convento de San Rafael (ruinas)",
+                  "text": "Überreste eines ehemaligen Klosters, das während des Krieges zerstört wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -0.745154,
+                        41.299828
+                  ]
+            },
+            {
+                  "name": "Seminario Menor",
+                  "text": "Die Überreste eines ehemaligen Priesterseminars im alten Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        -0.737997,
+                        41.292099
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario (ruinas)",
+                  "text": "Die Ruinen einer Kapelle auf dem Gelände des alten Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741443,
+                        41.299396
+                  ]
+            },
+            {
+                  "name": "Nevera de Belchite",
+                  "text": "Ein historisches Eishaus, das zur Lagerung von Schnee genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741673,
+                        41.292124
+                  ]
+            },
+            {
+                  "name": "La Pequeña Rusia",
+                  "text": "Überreste einer Siedlung aus der Zeit des Wiederaufbaus.",
+                  "category": "historical",
+                  "coords": [
+                        -0.730108,
+                        41.292256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pueblo Viejo de Belchite",
+                  "text": "Szellemváros, amely a spanyol polgárháború emlékhelyeként maradt fenn.",
+                  "category": "historical",
+                  "coords": [
+                        -0.747483,
+                        41.300619
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Agustín (ruinas)",
+                  "text": "Egy történelmi templom romjai a régi Belchitében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748813,
+                        41.302929
+                  ]
+            },
+            {
+                  "name": "Convento de San Rafael (ruinas)",
+                  "text": "Egy egykori kolostor maradványai, amely a háború alatt pusztult el.",
+                  "category": "historical",
+                  "coords": [
+                        -0.745154,
+                        41.299828
+                  ]
+            },
+            {
+                  "name": "Seminario Menor",
+                  "text": "Egy egykori papi szeminárium maradványai a régi faluban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.737997,
+                        41.292099
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario (ruinas)",
+                  "text": "Egy kápolna romjai a régi Belchite területén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741443,
+                        41.299396
+                  ]
+            },
+            {
+                  "name": "Nevera de Belchite",
+                  "text": "Történelmi jégverem, amelyet hó tárolására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741673,
+                        41.292124
+                  ]
+            },
+            {
+                  "name": "La Pequeña Rusia",
+                  "text": "Egy újjáépítési korszakból származó település maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -0.730108,
+                        41.292256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pueblo Viejo de Belchite",
+                  "text": "Un oraș fantomă păstrat ca memorial al Războiului Civil Spaniol.",
+                  "category": "historical",
+                  "coords": [
+                        -0.747483,
+                        41.300619
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Agustín (ruinas)",
+                  "text": "Ruinele unei biserici istorice din vechiul Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748813,
+                        41.302929
+                  ]
+            },
+            {
+                  "name": "Convento de San Rafael (ruinas)",
+                  "text": "Vestigiile unei foste mănăstiri distruse în timpul războiului.",
+                  "category": "historical",
+                  "coords": [
+                        -0.745154,
+                        41.299828
+                  ]
+            },
+            {
+                  "name": "Seminario Menor",
+                  "text": "Rămășițele unui fost seminar teologic din vechiul sat.",
+                  "category": "historical",
+                  "coords": [
+                        -0.737997,
+                        41.292099
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario (ruinas)",
+                  "text": "Ruinele unei capele de pe teritoriul vechiului Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741443,
+                        41.299396
+                  ]
+            },
+            {
+                  "name": "Nevera de Belchite",
+                  "text": "O fostă ghețărie istorică, folosită pentru depozitarea zăpezii.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741673,
+                        41.292124
+                  ]
+            },
+            {
+                  "name": "La Pequeña Rusia",
+                  "text": "Rămășițele unei așezări din perioada reconstrucției.",
+                  "category": "historical",
+                  "coords": [
+                        -0.730108,
+                        41.292256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pueblo Viejo de Belchite",
+                  "text": "A ghost town preserved as a memorial to the Spanish Civil War.",
+                  "category": "historical",
+                  "coords": [
+                        -0.747483,
+                        41.300619
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Agustín (ruinas)",
+                  "text": "The ruins of a historical church in old Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748813,
+                        41.302929
+                  ]
+            },
+            {
+                  "name": "Convento de San Rafael (ruinas)",
+                  "text": "Remains of a former convent destroyed during the war.",
+                  "category": "historical",
+                  "coords": [
+                        -0.745154,
+                        41.299828
+                  ]
+            },
+            {
+                  "name": "Seminario Menor",
+                  "text": "The remains of a former seminary in the old village.",
+                  "category": "historical",
+                  "coords": [
+                        -0.737997,
+                        41.292099
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario (ruinas)",
+                  "text": "The ruins of a chapel on the grounds of old Belchite.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741443,
+                        41.299396
+                  ]
+            },
+            {
+                  "name": "Nevera de Belchite",
+                  "text": "A historical ice house used for storing snow.",
+                  "category": "historical",
+                  "coords": [
+                        -0.741673,
+                        41.292124
+                  ]
+            },
+            {
+                  "name": "La Pequeña Rusia",
+                  "text": "Remains of a settlement from the reconstruction era.",
+                  "category": "historical",
+                  "coords": [
+                        -0.730108,
+                        41.292256
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Altes Belchite", hu: "Belchite óvárosa", ro: "Belchite Vechi", en: "Old Belchite"},
@@ -516,7 +1857,52 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     },
   },
   {
-    id: "spain-castle-loarre-history-v2",
+    id: "spain-castle-loarre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Eine bedeutende romanische Burg aus dem 11. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Jelentős román stílusú vár a 11. századból.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "Un important castel romanic din secolul al XI-lea.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Loarre",
+                  "text": "A significant Romanesque castle dating back to the 11th century.",
+                  "category": "castle",
+                  "coords": [
+                        -0.612707,
+                        42.325447
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "castle",
     name: { de: "Burg Loarre", hu: "Loarre vára", ro: "Castelul Loarre", en: "Castle of Loarre"},
@@ -749,7 +2135,268 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
     },
   },
   {
-    id: "spain-altamira-cave-history-v2",
+    id: "spain-altamira-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Höhle von Altamira",
+                  "text": "Weltberühmte archäologische Stätte in Nordspanien, bekannt für ihre prähistorischen Höhlenmalereien.",
+                  "category": "historical",
+                  "coords": [
+                        -4.119748,
+                        43.376845
+                  ]
+            },
+            {
+                  "name": "Castro de El Cincho",
+                  "text": "Eine archäologische Stätte in der Nähe von Altamira, die Überreste einer antiken befestigten Siedlung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -4.098564,
+                        43.40481
+                  ]
+            },
+            {
+                  "name": "Museo de la tortura",
+                  "text": "Dieses Museum in Santillana del Mar zeigt eine Sammlung historischer Folterinstrumente aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        -4.10698,
+                        43.390268
+                  ]
+            },
+            {
+                  "name": "Museo Nacional y Centro de Investigación de Altamira",
+                  "text": "Dieses Museum beherbergt eine detailgetreue Nachbildung der Altamira-Höhle und erforscht das Leben in der Steinzeit.",
+                  "category": "museum",
+                  "coords": [
+                        -4.122402,
+                        43.377376
+                  ]
+            },
+            {
+                  "name": "Zoológico de Santillana del Mar",
+                  "text": "Ein zoologischer und botanischer Garten in Santillana del Mar, der sich dem Schutz bedrohter Tierarten widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.10344,
+                        43.380732
+                  ]
+            },
+            {
+                  "name": "Cueva de la Raposa",
+                  "text": "Eine prähistorische Fundstätte in der Nähe von Altamira, die Einblicke in die frühe menschliche Besiedlung bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -4.09418,
+                        43.370454
+                  ]
+            },
+            {
+                  "name": "Museo del Barquillero",
+                  "text": "Ein Museum in Santillana del Mar, das der Tradition der Waffelherstellung und historischem Spielzeug gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.106274,
+                        43.391928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altamira-barlang",
+                  "text": "Világhírű régészeti lelőhely Észak-Spanyolországban, amely őskori barlangrajzairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -4.119748,
+                        43.376845
+                  ]
+            },
+            {
+                  "name": "Castro de El Cincho",
+                  "text": "Régészeti lelőhely Altamira közelében, amely egy antik erődített település maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -4.098564,
+                        43.40481
+                  ]
+            },
+            {
+                  "name": "Museo de la tortura",
+                  "text": "Ez a Santillana del Mar-i múzeum különféle korszakokból származó történelmi kínzóeszközök gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.10698,
+                        43.390268
+                  ]
+            },
+            {
+                  "name": "Museo Nacional y Centro de Investigación de Altamira",
+                  "text": "Ez a múzeum az Altamira-barlang élethű másolatának ad otthont, és a kőkorszaki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.122402,
+                        43.377376
+                  ]
+            },
+            {
+                  "name": "Zoológico de Santillana del Mar",
+                  "text": "Állat- és botanikus kert Santillana del Mar-ban, amely veszélyeztetett fajok védelmével foglalkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.10344,
+                        43.380732
+                  ]
+            },
+            {
+                  "name": "Cueva de la Raposa",
+                  "text": "Őskori lelőhely Altamira közelében, amely betekintést nyújt a korai emberi megtelepedésbe.",
+                  "category": "historical",
+                  "coords": [
+                        -4.09418,
+                        43.370454
+                  ]
+            },
+            {
+                  "name": "Museo del Barquillero",
+                  "text": "Múzeum Santillana del Mar-ban, amelyet az ostyasütés hagyományának és történelmi játékoknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -4.106274,
+                        43.391928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grota din Altamira",
+                  "text": "Sit arheologic de renume mondial din nordul Spaniei, cunoscut pentru picturile sale rupestre preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -4.119748,
+                        43.376845
+                  ]
+            },
+            {
+                  "name": "Castro de El Cincho",
+                  "text": "Un sit arheologic lângă Altamira, care prezintă rămășițele unei așezări fortificate antice.",
+                  "category": "historical",
+                  "coords": [
+                        -4.098564,
+                        43.40481
+                  ]
+            },
+            {
+                  "name": "Museo de la tortura",
+                  "text": "Acest muzeu din Santillana del Mar expune o colecție de instrumente de tortură istorice din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        -4.10698,
+                        43.390268
+                  ]
+            },
+            {
+                  "name": "Museo Nacional y Centro de Investigación de Altamira",
+                  "text": "Acest muzeu găzduiește o replică fidelă a peșterii Altamira și explorează viața din epoca de piatră.",
+                  "category": "museum",
+                  "coords": [
+                        -4.122402,
+                        43.377376
+                  ]
+            },
+            {
+                  "name": "Zoológico de Santillana del Mar",
+                  "text": "O grădină zoologică și botanică din Santillana del Mar, dedicată protejării speciilor amenințate.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.10344,
+                        43.380732
+                  ]
+            },
+            {
+                  "name": "Cueva de la Raposa",
+                  "text": "Un sit preistoric lângă Altamira, care oferă informații despre primele așezări umane.",
+                  "category": "historical",
+                  "coords": [
+                        -4.09418,
+                        43.370454
+                  ]
+            },
+            {
+                  "name": "Museo del Barquillero",
+                  "text": "Un muzeu din Santillana del Mar, dedicat tradiției fabricării vafelelor și jucăriilor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -4.106274,
+                        43.391928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave of Altamira",
+                  "text": "World-famous archaeological site in northern Spain, known for its prehistoric cave paintings.",
+                  "category": "historical",
+                  "coords": [
+                        -4.119748,
+                        43.376845
+                  ]
+            },
+            {
+                  "name": "Castro de El Cincho",
+                  "text": "An archaeological site near Altamira, displaying the remains of an ancient fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -4.098564,
+                        43.40481
+                  ]
+            },
+            {
+                  "name": "Museo de la tortura",
+                  "text": "This museum in Santillana del Mar displays a collection of historical torture instruments from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        -4.10698,
+                        43.390268
+                  ]
+            },
+            {
+                  "name": "Museo Nacional y Centro de Investigación de Altamira",
+                  "text": "This museum houses a faithful replica of the Altamira cave and explores life during the Stone Age.",
+                  "category": "museum",
+                  "coords": [
+                        -4.122402,
+                        43.377376
+                  ]
+            },
+            {
+                  "name": "Zoológico de Santillana del Mar",
+                  "text": "A zoological and botanical garden in Santillana del Mar, dedicated to the protection of endangered species.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.10344,
+                        43.380732
+                  ]
+            },
+            {
+                  "name": "Cueva de la Raposa",
+                  "text": "A prehistoric site near Altamira that offers insights into early human settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -4.09418,
+                        43.370454
+                  ]
+            },
+            {
+                  "name": "Museo del Barquillero",
+                  "text": "A museum in Santillana del Mar dedicated to the tradition of wafer making and historical toys.",
+                  "category": "museum",
+                  "coords": [
+                        -4.106274,
+                        43.391928
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Höhle von Altamira", hu: "Altamira-barlang", ro: "Peștera Altamira", en: "Cave of Altamira"},
@@ -796,7 +2443,268 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
     },
   },
   {
-    id: "spain-atapuerca-site-history-v2",
+    id: "spain-atapuerca-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Arqueológico de Atapuerca",
+                  "text": "Dieser Archäologische Park beherbergt bedeutende Funde aus der Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.500382,
+                        42.379353
+                  ]
+            },
+            {
+                  "name": "Sima del Elefante",
+                  "text": "Die Sima del Elefante ist eine bedeutende paläoanthropologische Fundstelle in der Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.519383,
+                        42.350033
+                  ]
+            },
+            {
+                  "name": "Gran Dolina",
+                  "text": "Gran Dolina ist eine berühmte Ausgrabungsstätte in Atapuerca, bekannt für ihre frühmenschlichen Fossilien.",
+                  "category": "historical",
+                  "coords": [
+                        -3.520127,
+                        42.351766
+                  ]
+            },
+            {
+                  "name": "Centro de Arqueología Experimental",
+                  "text": "Dieses Museum widmet sich der experimentellen Archäologie und vermittelt Wissen über prähistorische Techniken.",
+                  "category": "museum",
+                  "coords": [
+                        -3.497956,
+                        42.378848
+                  ]
+            },
+            {
+                  "name": "Cueva de El Mirador",
+                  "text": "Die Höhle El Mirador ist ein bedeutender archäologischer Fundplatz in der Region Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.507072,
+                        42.341922
+                  ]
+            },
+            {
+                  "name": "Cueva Mayor",
+                  "text": "Die Cueva Mayor ist Teil des Höhlensystems von Atapuerca und eine wichtige archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        -3.517124,
+                        42.348176
+                  ]
+            },
+            {
+                  "name": "Yacimientos de la Sierra de Atapuerca",
+                  "text": "Diese Fundstätten in der Sierra de Atapuerca zählen zum UNESCO-Welterbe und dokumentieren die menschliche Evolution.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51946,
+                        42.348761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Arqueológico de Atapuerca",
+                  "text": "Ez a régészeti park az Atapuerca-hegység jelentős leleteinek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        -3.500382,
+                        42.379353
+                  ]
+            },
+            {
+                  "name": "Sima del Elefante",
+                  "text": "A Sima del Elefante egy jelentős paleoantropológiai lelőhely az Atapuerca-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.519383,
+                        42.350033
+                  ]
+            },
+            {
+                  "name": "Gran Dolina",
+                  "text": "Gran Dolina egy híres ásatási helyszín Atapuercában, amely korai emberi kövületeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -3.520127,
+                        42.351766
+                  ]
+            },
+            {
+                  "name": "Centro de Arqueología Experimental",
+                  "text": "Ez a múzeum a kísérleti régészetnek szenteli magát, és a történelem előtti technikákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -3.497956,
+                        42.378848
+                  ]
+            },
+            {
+                  "name": "Cueva de El Mirador",
+                  "text": "Az El Mirador barlang egy jelentős régészeti lelőhely Atapuerca régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.507072,
+                        42.341922
+                  ]
+            },
+            {
+                  "name": "Cueva Mayor",
+                  "text": "A Cueva Mayor az Atapuerca-barlangrendszer része és egy fontos régészeti helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        -3.517124,
+                        42.348176
+                  ]
+            },
+            {
+                  "name": "Yacimientos de la Sierra de Atapuerca",
+                  "text": "Az Atapuerca-hegység lelőhelyei az UNESCO Világörökség részei, és az emberi evolúciót dokumentálják.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51946,
+                        42.348761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Arqueológico de Atapuerca",
+                  "text": "Acest parc arheologic găzduiește descoperiri importante din Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.500382,
+                        42.379353
+                  ]
+            },
+            {
+                  "name": "Sima del Elefante",
+                  "text": "Sima del Elefante este un sit paleoantropologic important situat în Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.519383,
+                        42.350033
+                  ]
+            },
+            {
+                  "name": "Gran Dolina",
+                  "text": "Gran Dolina este un sit arheologic celebru din Atapuerca, cunoscut pentru fosilele umane timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -3.520127,
+                        42.351766
+                  ]
+            },
+            {
+                  "name": "Centro de Arqueología Experimental",
+                  "text": "Acest muzeu este dedicat arheologiei experimentale și prezintă tehnici preistorice.",
+                  "category": "museum",
+                  "coords": [
+                        -3.497956,
+                        42.378848
+                  ]
+            },
+            {
+                  "name": "Cueva de El Mirador",
+                  "text": "Peștera El Mirador este un sit arheologic important din regiunea Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.507072,
+                        42.341922
+                  ]
+            },
+            {
+                  "name": "Cueva Mayor",
+                  "text": "Cueva Mayor face parte din sistemul de peșteri Atapuerca și este un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        -3.517124,
+                        42.348176
+                  ]
+            },
+            {
+                  "name": "Yacimientos de la Sierra de Atapuerca",
+                  "text": "Aceste situri din Sierra de Atapuerca fac parte din Patrimoniul Mondial UNESCO și documentează evoluția umană.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51946,
+                        42.348761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Arqueológico de Atapuerca",
+                  "text": "This archaeological park is home to significant findings from the Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.500382,
+                        42.379353
+                  ]
+            },
+            {
+                  "name": "Sima del Elefante",
+                  "text": "Sima del Elefante is a major paleoanthropological site located in the Sierra de Atapuerca.",
+                  "category": "historical",
+                  "coords": [
+                        -3.519383,
+                        42.350033
+                  ]
+            },
+            {
+                  "name": "Gran Dolina",
+                  "text": "Gran Dolina is a famous excavation site in Atapuerca, known for its early human fossils.",
+                  "category": "historical",
+                  "coords": [
+                        -3.520127,
+                        42.351766
+                  ]
+            },
+            {
+                  "name": "Centro de Arqueología Experimental",
+                  "text": "This museum is dedicated to experimental archaeology and demonstrates prehistoric techniques.",
+                  "category": "museum",
+                  "coords": [
+                        -3.497956,
+                        42.378848
+                  ]
+            },
+            {
+                  "name": "Cueva de El Mirador",
+                  "text": "The El Mirador cave is a significant archaeological site in the Atapuerca region.",
+                  "category": "historical",
+                  "coords": [
+                        -3.507072,
+                        42.341922
+                  ]
+            },
+            {
+                  "name": "Cueva Mayor",
+                  "text": "Cueva Mayor is part of the Atapuerca cave system and a key archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -3.517124,
+                        42.348176
+                  ]
+            },
+            {
+                  "name": "Yacimientos de la Sierra de Atapuerca",
+                  "text": "These sites in the Sierra de Atapuerca are a UNESCO World Heritage site documenting human evolution.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51946,
+                        42.348761
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Atapuerca", hu: "Atapuerca", ro: "Atapuerca", en: "Atapuerca"},
@@ -983,7 +2891,304 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     },
   },
   {
-    id: "spain-poblet-monastery-history-v2",
+    id: "spain-poblet-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Eine historische Burg in der Nähe des Klosters Poblet, bekannt für ihre gotische Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "Ein ethnografisches Museum in L'Espluga de Francolí, das das traditionelle ländliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Ein befestigtes Herrenhaus und eine Burg in der Nähe des Klosters Poblet.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "Ein Weinmuseum in einem modernistischen Gebäude, das der Geschichte des Weinbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "Eine der längsten Konglomerathöhlen der Welt mit einem archäologischen Museum im Inneren.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Ein markanter Berggipfel in der Gemeinde Vimbodí i Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Ein felsiger Gipfel in den Prades-Bergen in der Nähe des Klosters Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Historische Ruinen in der Nähe des Klosters Poblet.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Történelmi vár a Poblet-kolostor közelében, amely gótikus építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "Néprajzi múzeum L'Espluga de Francolíban, amely a hagyományos vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Megerődített kúria és vár a Poblet-kolostor közelében.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "Bormúzeum egy modernista épületben, amelyet a szőlészet történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "A világ egyik leghosszabb konglomerátum barlangja, benne régészeti múzeummal.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Kiemelkedő hegycsúcs Vimbodí i Poblet községben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Sziklás csúcs a Prades-hegységben, a Poblet-kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Történelmi romok a Poblet-kolostor környékén.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "Un castel istoric situat lângă Mănăstirea Poblet, cunoscut pentru arhitectura sa gotică.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "Un muzeu etnografic din L'Espluga de Francolí care prezintă viața rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "Un conac fortificat și castel situat lângă Mănăstirea Poblet.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "Un muzeu al vinului situat într-o clădire modernistă, dedicat istoriei viticulturii.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "Una dintre cele mai lungi peșteri de conglomerat din lume, cu un muzeu arheologic în interior.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "Un vârf muntos proeminent din municipalitatea Vimbodí i Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "Un vârf stâncos din Munții Prades, situat lângă Mănăstirea Poblet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Ruine istorice situate în vecinătatea Mănăstirii Poblet.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castell de Milmanda",
+                  "text": "A historic castle located near the Poblet Monastery, known for its Gothic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        1.074727,
+                        41.397296
+                  ]
+            },
+            {
+                  "name": "Museu de la Vida Rural",
+                  "text": "An ethnographic museum in L'Espluga de Francolí showcasing traditional rural life.",
+                  "category": "museum",
+                  "coords": [
+                        1.106213,
+                        41.396644
+                  ]
+            },
+            {
+                  "name": "Castell de Riudabella",
+                  "text": "A fortified manor and castle located near the Poblet Monastery.",
+                  "category": "castle",
+                  "coords": [
+                        1.042447,
+                        41.372481
+                  ]
+            },
+            {
+                  "name": "Museu del Vi",
+                  "text": "A wine museum located in a Modernist building, dedicated to the history of viticulture.",
+                  "category": "museum",
+                  "coords": [
+                        1.104594,
+                        41.399387
+                  ]
+            },
+            {
+                  "name": "Cova de la Font Major",
+                  "text": "One of the longest conglomerate caves in the world, featuring an archaeological museum inside.",
+                  "category": "museum",
+                  "coords": [
+                        1.102642,
+                        41.398529
+                  ]
+            },
+            {
+                  "name": "Tossal de la Creu",
+                  "text": "A prominent mountain peak in the Vimbodí i Poblet municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        1.082743,
+                        41.371799
+                  ]
+            },
+            {
+                  "name": "Roca de la Mel",
+                  "text": "A rocky peak in the Prades Mountains near the Poblet Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        1.06495,
+                        41.35765
+                  ]
+            },
+            {
+                  "name": "l'Escolta",
+                  "text": "Historical ruins located in the vicinity of the Poblet Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        1.08568,
+                        41.367739
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Kloster von Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Poblet Monastery"},
@@ -1030,7 +3235,268 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     },
   },
   {
-    id: "spain-yuste-monastery-history-v2",
+    id: "spain-yuste-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la Inquisición",
+                  "text": "Ein Museum nahe dem Kloster Yuste, das die Geschichte der spanischen Inquisition dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.776645,
+                        40.11124
+                  ]
+            },
+            {
+                  "name": "Paraje de Las Ollas",
+                  "text": "Eine natürliche Sehenswürdigkeit in der Nähe von Yuste mit beeindruckenden Felsformationen und Wasserbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.714285,
+                        40.100222
+                  ]
+            },
+            {
+                  "name": "Mirador de la Serrana",
+                  "text": "Ein Aussichtspunkt in der Nähe von Yuste, der einen Panoramablick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.771654,
+                        40.112431
+                  ]
+            },
+            {
+                  "name": "Mirador La Barrera de Yuste",
+                  "text": "Ein Aussichtspunkt in der Extremadura mit Blick auf die bewaldeten Hänge nahe dem Kloster Yuste.",
+                  "category": "natural",
+                  "coords": [
+                        -5.740315,
+                        40.120037
+                  ]
+            },
+            {
+                  "name": "Mirador Emperador Carlos V",
+                  "text": "Ein nach Kaiser Karl V. benannter Aussichtspunkt, der einen weiten Blick über die Region Vera bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.784328,
+                        40.110858
+                  ]
+            },
+            {
+                  "name": "Calle del Beso",
+                  "text": "Eine charmante Straße in der Nähe von Yuste, die für ihre enge und romantische Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.698094,
+                        40.130624
+                  ]
+            },
+            {
+                  "name": "Casa del Obispo Godoy",
+                  "text": "Ein historisches Gebäude in der Nähe von Yuste, das mit der lokalen Adelsgeschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.699025,
+                        40.129352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la Inquisición",
+                  "text": "A Yuste-kolostor közelében található múzeum, amely a spanyol inkvizíció történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -5.776645,
+                        40.11124
+                  ]
+            },
+            {
+                  "name": "Paraje de Las Ollas",
+                  "text": "Természeti látnivaló Yuste közelében, amely lenyűgöző sziklaalakzatairól és vízmosásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.714285,
+                        40.100222
+                  ]
+            },
+            {
+                  "name": "Mirador de la Serrana",
+                  "text": "Kilátóhely Yuste közelében, ahonnan panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.771654,
+                        40.112431
+                  ]
+            },
+            {
+                  "name": "Mirador La Barrera de Yuste",
+                  "text": "Kilátóhely Extremadurában, kilátással a Yuste-kolostor közeli erdős domboldalakra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.740315,
+                        40.120037
+                  ]
+            },
+            {
+                  "name": "Mirador Emperador Carlos V",
+                  "text": "V. Károly császárról elnevezett kilátóhely, amely tágas kilátást nyújt a Vera-régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.784328,
+                        40.110858
+                  ]
+            },
+            {
+                  "name": "Calle del Beso",
+                  "text": "Hangulatos utca Yuste közelében, amely szűk és romantikus atmoszférájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.698094,
+                        40.130624
+                  ]
+            },
+            {
+                  "name": "Casa del Obispo Godoy",
+                  "text": "Történelmi épület Yuste közelében, amely a helyi nemesi történelemhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.699025,
+                        40.129352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la Inquisición",
+                  "text": "Un muzeu situat lângă mănăstirea Yuste, care documentează istoria inchiziției spaniole.",
+                  "category": "museum",
+                  "coords": [
+                        -5.776645,
+                        40.11124
+                  ]
+            },
+            {
+                  "name": "Paraje de Las Ollas",
+                  "text": "O atracție naturală lângă Yuste, cunoscută pentru formațiunile stâncoase și bazinele de apă impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.714285,
+                        40.100222
+                  ]
+            },
+            {
+                  "name": "Mirador de la Serrana",
+                  "text": "Un punct de observare lângă Yuste care oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -5.771654,
+                        40.112431
+                  ]
+            },
+            {
+                  "name": "Mirador La Barrera de Yuste",
+                  "text": "Un punct de belvedere în Extremadura cu vedere spre versanții împăduriți de lângă mănăstirea Yuste.",
+                  "category": "natural",
+                  "coords": [
+                        -5.740315,
+                        40.120037
+                  ]
+            },
+            {
+                  "name": "Mirador Emperador Carlos V",
+                  "text": "Un punct de belvedere numit după împăratul Carol Quintul, oferind o vedere amplă asupra regiunii Vera.",
+                  "category": "natural",
+                  "coords": [
+                        -5.784328,
+                        40.110858
+                  ]
+            },
+            {
+                  "name": "Calle del Beso",
+                  "text": "O stradă fermecătoare lângă Yuste, cunoscută pentru atmosfera sa îngustă și romantică.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.698094,
+                        40.130624
+                  ]
+            },
+            {
+                  "name": "Casa del Obispo Godoy",
+                  "text": "O clădire istorică lângă Yuste, legată de istoria nobiliară locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.699025,
+                        40.129352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Inquisition",
+                  "text": "A museum near the Monastery of Yuste documenting the history of the Spanish Inquisition.",
+                  "category": "museum",
+                  "coords": [
+                        -5.776645,
+                        40.11124
+                  ]
+            },
+            {
+                  "name": "Paraje de Las Ollas",
+                  "text": "A natural attraction near Yuste known for its impressive rock formations and water pools.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.714285,
+                        40.100222
+                  ]
+            },
+            {
+                  "name": "Mirador de la Serrana",
+                  "text": "A viewpoint near Yuste offering a panoramic view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -5.771654,
+                        40.112431
+                  ]
+            },
+            {
+                  "name": "Mirador La Barrera de Yuste",
+                  "text": "A viewpoint in Extremadura overlooking the forested slopes near the Monastery of Yuste.",
+                  "category": "natural",
+                  "coords": [
+                        -5.740315,
+                        40.120037
+                  ]
+            },
+            {
+                  "name": "Mirador Emperador Carlos V",
+                  "text": "A viewpoint named after Emperor Charles V, offering a wide view over the Vera region.",
+                  "category": "natural",
+                  "coords": [
+                        -5.784328,
+                        40.110858
+                  ]
+            },
+            {
+                  "name": "Calle del Beso",
+                  "text": "A charming street near Yuste known for its narrow and romantic atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.698094,
+                        40.130624
+                  ]
+            },
+            {
+                  "name": "Casa del Obispo Godoy",
+                  "text": "A historic building near Yuste linked to the local noble history.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.699025,
+                        40.129352
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Kloster von Yuste", hu: "Yuste-kolostor", ro: "Mănăstirea Yuste", en: "Monastery of Yuste"},
@@ -1077,7 +3543,268 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     },
   },
   {
-    id: "spain-san-juan-pena-history-v2",
+    id: "spain-san-juan-pena-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antiguo Monasterio de San Juan de la Peña",
+                  "text": "Ein historisches Kloster, das unter einem großen Felsüberhang erbaut wurde, eine bedeutende Stätte in Aragonien.",
+                  "category": "religious",
+                  "coords": [
+                        -0.673121,
+                        42.507516
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Monasterio de San Juan de la Peña",
+                  "text": "Ein Besucherzentrum mit Informationen zur Geschichte und Architektur des Klosters.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666614,
+                        42.508403
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación San Juan de la Peña y Monte Oroel",
+                  "text": "Ein Museum, das dem Natur- und Kulturerbe der Gegend von San Juan de la Peña gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666261,
+                        42.507182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "Eine historische Kirche im Komplex von San Juan de la Peña mit romanischen Elementen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.674266,
+                        42.522681
+                  ]
+            },
+            {
+                  "name": "Balcón de los Pirineos",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Pyrenäen in San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.66654,
+                        42.511777
+                  ]
+            },
+            {
+                  "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
+                  "text": "Ein geologischer Aussichtspunkt an der transpyrenäischen Route in San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.690503,
+                        42.51671
+                  ]
+            },
+            {
+                  "name": "Mirador de San Voto",
+                  "text": "Ein Aussichtspunkt in San Juan de la Peña, der für seine weite Fernsicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -0.672616,
+                        42.508865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antiguo Monasterio de San Juan de la Peña",
+                  "text": "Hatalmas sziklaeresz alá épült történelmi kolostor, Aragónia jelentős helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -0.673121,
+                        42.507516
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Monasterio de San Juan de la Peña",
+                  "text": "Látogatóközpont, amely információkat nyújt a kolostor történetéről és építészetéről.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666614,
+                        42.508403
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación San Juan de la Peña y Monte Oroel",
+                  "text": "A San Juan de la Peña-i terület természeti és kulturális örökségének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666261,
+                        42.507182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "Történelmi templom a San Juan de la Peña komplexumban, román stílusú elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.674266,
+                        42.522681
+                  ]
+            },
+            {
+                  "name": "Balcón de los Pirineos",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a Pireneusokra San Juan de la Peñában.",
+                  "category": "natural",
+                  "coords": [
+                        -0.66654,
+                        42.511777
+                  ]
+            },
+            {
+                  "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
+                  "text": "Geológiai kilátópont a Pireneusokon átívelő útvonalon San Juan de la Peñában.",
+                  "category": "natural",
+                  "coords": [
+                        -0.690503,
+                        42.51671
+                  ]
+            },
+            {
+                  "name": "Mirador de San Voto",
+                  "text": "Kilátóhely San Juan de la Peñában, amely tágas kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -0.672616,
+                        42.508865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antiguo Monasterio de San Juan de la Peña",
+                  "text": "O mănăstire istorică construită sub o stâncă uriașă, un sit semnificativ în Aragon.",
+                  "category": "religious",
+                  "coords": [
+                        -0.673121,
+                        42.507516
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Monasterio de San Juan de la Peña",
+                  "text": "Un centru de vizitare care oferă informații despre istoria și arhitectura mănăstirii.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666614,
+                        42.508403
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación San Juan de la Peña y Monte Oroel",
+                  "text": "Un muzeu dedicat moștenirii naturale și culturale a zonei San Juan de la Peña.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666261,
+                        42.507182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "O biserică istorică din complexul San Juan de la Peña, cu elemente romanice.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.674266,
+                        42.522681
+                  ]
+            },
+            {
+                  "name": "Balcón de los Pirineos",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra Pirineilor în San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.66654,
+                        42.511777
+                  ]
+            },
+            {
+                  "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
+                  "text": "Un punct de observație geologic pe traseul trans-pirinean din San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.690503,
+                        42.51671
+                  ]
+            },
+            {
+                  "name": "Mirador de San Voto",
+                  "text": "Un punct de observație în San Juan de la Peña, cunoscut pentru vederile sale largi.",
+                  "category": "natural",
+                  "coords": [
+                        -0.672616,
+                        42.508865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antiguo Monasterio de San Juan de la Peña",
+                  "text": "A historic monastery built under a large rock overhang, a significant site in Aragon.",
+                  "category": "religious",
+                  "coords": [
+                        -0.673121,
+                        42.507516
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Monasterio de San Juan de la Peña",
+                  "text": "An visitor center providing information on the history and architecture of the monastery.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666614,
+                        42.508403
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación San Juan de la Peña y Monte Oroel",
+                  "text": "A museum dedicated to the natural and cultural heritage of the San Juan de la Peña area.",
+                  "category": "museum",
+                  "coords": [
+                        -0.666261,
+                        42.507182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "A historic church in the San Juan de la Peña complex, featuring Romanesque elements.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.674266,
+                        42.522681
+                  ]
+            },
+            {
+                  "name": "Balcón de los Pirineos",
+                  "text": "A scenic viewpoint offering panoramic views of the Pyrenees in San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.66654,
+                        42.511777
+                  ]
+            },
+            {
+                  "name": "Ruta Geológica Transpirenaica - San Juan de la Peña",
+                  "text": "A geological viewpoint on the trans-Pyrenean route in San Juan de la Peña.",
+                  "category": "natural",
+                  "coords": [
+                        -0.690503,
+                        42.51671
+                  ]
+            },
+            {
+                  "name": "Mirador de San Voto",
+                  "text": "A viewpoint in San Juan de la Peña known for its expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        -0.672616,
+                        42.508865
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "San Juan de la Peña", hu: "San Juan de la Peña", ro: "San Juan de la Peña", en: "San Juan de la Peña"},
@@ -1171,7 +3898,304 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     },
   },
   {
-    id: "spain-empuries-ruins-history-v2",
+    id: "spain-empuries-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de l'Anxova i de la Sal",
+                  "text": "Ein Museum in L'Escala, das der Fischerei und der Salzkonservierung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.126234,
+                        42.125652
+                  ]
+            },
+            {
+                  "name": "Casa-museu Clos del Pastor",
+                  "text": "Das ehemalige Wohnhaus und Museum der Schriftstellerin Caterina Albert.",
+                  "category": "museum",
+                  "coords": [
+                        3.136118,
+                        42.124354
+                  ]
+            },
+            {
+                  "name": "Museu d'Arqueologia de Catalunya",
+                  "text": "Museum mit Fundstücken aus der antiken griechischen und römischen Stadt Empúries.",
+                  "category": "museum",
+                  "coords": [
+                        3.119701,
+                        42.135071
+                  ]
+            },
+            {
+                  "name": "Platja Port d'en Perris",
+                  "text": "Ein felsiger Strand im Stadtzentrum von L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135345,
+                        42.126397
+                  ]
+            },
+            {
+                  "name": "Platja de les Barques",
+                  "text": "Ein beliebter Sandstrand im Herzen von L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.133292,
+                        42.126503
+                  ]
+            },
+            {
+                  "name": "Platja de les Muscleres",
+                  "text": "Ein Strand in der Nähe der Ruinen von Empúries, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122271,
+                        42.134162
+                  ]
+            },
+            {
+                  "name": "Platja del Riuet",
+                  "text": "Ein langer Strand am nördlichen Ende der Gemeinde.",
+                  "category": "recreational",
+                  "coords": [
+                        3.118547,
+                        42.140752
+                  ]
+            },
+            {
+                  "name": "Platja del Moll Grec",
+                  "text": "Ein Strand direkt neben dem antiken griechischen Pier von Empúries.",
+                  "category": "recreational",
+                  "coords": [
+                        3.119758,
+                        42.138051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de l'Anxova i de la Sal",
+                  "text": "L'Escala múzeuma, amely a halászatnak és a sóval való tartósításnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        3.126234,
+                        42.125652
+                  ]
+            },
+            {
+                  "name": "Casa-museu Clos del Pastor",
+                  "text": "Caterina Albert írónő egykori otthona és emlékmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        3.136118,
+                        42.124354
+                  ]
+            },
+            {
+                  "name": "Museu d'Arqueologia de Catalunya",
+                  "text": "Múzeum, amely az ókori görög és római Empúries városának leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.119701,
+                        42.135071
+                  ]
+            },
+            {
+                  "name": "Platja Port d'en Perris",
+                  "text": "Sziklás strand L'Escala városközpontjában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135345,
+                        42.126397
+                  ]
+            },
+            {
+                  "name": "Platja de les Barques",
+                  "text": "Népszerű homokos strand L'Escala szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.133292,
+                        42.126503
+                  ]
+            },
+            {
+                  "name": "Platja de les Muscleres",
+                  "text": "Strand az empúriesi romok közelében, tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122271,
+                        42.134162
+                  ]
+            },
+            {
+                  "name": "Platja del Riuet",
+                  "text": "Hosszú strand az önkormányzat északi végén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.118547,
+                        42.140752
+                  ]
+            },
+            {
+                  "name": "Platja del Moll Grec",
+                  "text": "Strand közvetlenül az ókori görög móló mellett Empúriesben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.119758,
+                        42.138051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de l'Anxova i de la Sal",
+                  "text": "Muzeu în L'Escala dedicat industriei pescuitului și conservării cu sare.",
+                  "category": "museum",
+                  "coords": [
+                        3.126234,
+                        42.125652
+                  ]
+            },
+            {
+                  "name": "Casa-museu Clos del Pastor",
+                  "text": "Casa memorială și muzeul scriitoarei Caterina Albert.",
+                  "category": "museum",
+                  "coords": [
+                        3.136118,
+                        42.124354
+                  ]
+            },
+            {
+                  "name": "Museu d'Arqueologia de Catalunya",
+                  "text": "Muzeu ce expune artefacte din vechiul oraș grec și roman Empúries.",
+                  "category": "museum",
+                  "coords": [
+                        3.119701,
+                        42.135071
+                  ]
+            },
+            {
+                  "name": "Platja Port d'en Perris",
+                  "text": "O plajă stâncoasă situată în centrul urban al localității L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135345,
+                        42.126397
+                  ]
+            },
+            {
+                  "name": "Platja de les Barques",
+                  "text": "O plajă populară cu nisip în inima localității L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.133292,
+                        42.126503
+                  ]
+            },
+            {
+                  "name": "Platja de les Muscleres",
+                  "text": "O plajă lângă ruinele din Empúries, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122271,
+                        42.134162
+                  ]
+            },
+            {
+                  "name": "Platja del Riuet",
+                  "text": "O plajă lungă situată la capătul nordic al municipalității.",
+                  "category": "recreational",
+                  "coords": [
+                        3.118547,
+                        42.140752
+                  ]
+            },
+            {
+                  "name": "Platja del Moll Grec",
+                  "text": "O plajă adiacentă vechiului dig grecesc din Empúries.",
+                  "category": "recreational",
+                  "coords": [
+                        3.119758,
+                        42.138051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu de l'Anxova i de la Sal",
+                  "text": "Museum in L'Escala dedicated to the fishing industry and salt preservation.",
+                  "category": "museum",
+                  "coords": [
+                        3.126234,
+                        42.125652
+                  ]
+            },
+            {
+                  "name": "Casa-museu Clos del Pastor",
+                  "text": "The former home and museum of the writer Caterina Albert.",
+                  "category": "museum",
+                  "coords": [
+                        3.136118,
+                        42.124354
+                  ]
+            },
+            {
+                  "name": "Museu d'Arqueologia de Catalunya",
+                  "text": "Museum showcasing artifacts from the ancient Greek and Roman city of Empúries.",
+                  "category": "museum",
+                  "coords": [
+                        3.119701,
+                        42.135071
+                  ]
+            },
+            {
+                  "name": "Platja Port d'en Perris",
+                  "text": "A rocky beach located in the urban center of L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.135345,
+                        42.126397
+                  ]
+            },
+            {
+                  "name": "Platja de les Barques",
+                  "text": "A popular sandy beach in the heart of L'Escala.",
+                  "category": "recreational",
+                  "coords": [
+                        3.133292,
+                        42.126503
+                  ]
+            },
+            {
+                  "name": "Platja de les Muscleres",
+                  "text": "A beach near the Empúries ruins known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        3.122271,
+                        42.134162
+                  ]
+            },
+            {
+                  "name": "Platja del Riuet",
+                  "text": "A long beach at the northern end of the municipality.",
+                  "category": "recreational",
+                  "coords": [
+                        3.118547,
+                        42.140752
+                  ]
+            },
+            {
+                  "name": "Platja del Moll Grec",
+                  "text": "A beach adjacent to the ancient Greek pier of Empúries.",
+                  "category": "recreational",
+                  "coords": [
+                        3.119758,
+                        42.138051
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Empúries", hu: "Empúries", ro: "Empúries", en: "Empuries"},
@@ -1217,7 +4241,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     },
     image: "/poi-images/spain-empuries-ruins-history-v2.webp",
 },  {
-    id: "spain-castle-coca-history-v2",
+    id: "spain-castle-coca-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Coca",
+                  "text": "Eine prächtige Burg aus dem 15. Jahrhundert in Spanien, erbaut im Mudejar-Stil.",
+                  "category": "castle",
+                  "coords": [
+                        -4.525482,
+                        41.215143
+                  ]
+            },
+            {
+                  "name": "Auditorio Comarcal Martín Frías",
+                  "text": "Ein lokales Auditorium und Veranstaltungsort in Coca.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.521317,
+                        41.217721
+                  ]
+            },
+            {
+                  "name": "Museo Nacional del Patrimonio Forestal",
+                  "text": "Ein Museum in Coca, das dem nationalen Walderbe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.542712,
+                        41.204242
+                  ]
+            },
+            {
+                  "name": "Cloaca Romana",
+                  "text": "Archäologische Überreste eines antiken römischen Abwassersystems in Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521565,
+                        41.220673
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Überreste eines antiken römischen Hauses in der Stadt Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.524593,
+                        41.221901
+                  ]
+            },
+            {
+                  "name": "Torre de San Nicolás",
+                  "text": "Der erhaltene Turm einer ehemaligen mittelalterlichen Kirche in Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.525025,
+                        41.218904
+                  ]
+            },
+            {
+                  "name": "Muralla Medieval",
+                  "text": "Gut erhaltene mittelalterliche Stadtmauern, die das historische Zentrum von Coca umgeben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.522578,
+                        41.216116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Coca",
+                  "text": "Pompás 15. századi spanyol vár, amely mudéjar stílusban épült.",
+                  "category": "castle",
+                  "coords": [
+                        -4.525482,
+                        41.215143
+                  ]
+            },
+            {
+                  "name": "Auditorio Comarcal Martín Frías",
+                  "text": "Helyi auditórium és előadóhely Coca városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.521317,
+                        41.217721
+                  ]
+            },
+            {
+                  "name": "Museo Nacional del Patrimonio Forestal",
+                  "text": "Coca városában található múzeum, amely a nemzeti erdészeti örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.542712,
+                        41.204242
+                  ]
+            },
+            {
+                  "name": "Cloaca Romana",
+                  "text": "Egy ókori római csatornarendszer régészeti maradványai Cocában.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521565,
+                        41.220673
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Egy ókori római ház maradványai Coca városában.",
+                  "category": "historical",
+                  "coords": [
+                        -4.524593,
+                        41.221901
+                  ]
+            },
+            {
+                  "name": "Torre de San Nicolás",
+                  "text": "Egy egykori középkori templom fennmaradt tornya Cocában.",
+                  "category": "historical",
+                  "coords": [
+                        -4.525025,
+                        41.218904
+                  ]
+            },
+            {
+                  "name": "Muralla Medieval",
+                  "text": "Jó állapotban fennmaradt középkori városfalak Coca történelmi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.522578,
+                        41.216116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Coca",
+                  "text": "Un castel magnific din secolul al XV-lea din Spania, construit în stil mudejar.",
+                  "category": "castle",
+                  "coords": [
+                        -4.525482,
+                        41.215143
+                  ]
+            },
+            {
+                  "name": "Auditorio Comarcal Martín Frías",
+                  "text": "Un auditorium local și sală de spectacole în Coca.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.521317,
+                        41.217721
+                  ]
+            },
+            {
+                  "name": "Museo Nacional del Patrimonio Forestal",
+                  "text": "Un muzeu din Coca dedicat patrimoniului forestier național.",
+                  "category": "museum",
+                  "coords": [
+                        -4.542712,
+                        41.204242
+                  ]
+            },
+            {
+                  "name": "Cloaca Romana",
+                  "text": "Rămășițele arheologice ale unui vechi sistem de canalizare roman în Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521565,
+                        41.220673
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Rămășițele unei vechi case romane în orașul Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.524593,
+                        41.221901
+                  ]
+            },
+            {
+                  "name": "Torre de San Nicolás",
+                  "text": "Turnul păstrat al unei foste biserici medievale din Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.525025,
+                        41.218904
+                  ]
+            },
+            {
+                  "name": "Muralla Medieval",
+                  "text": "Ziduri medievale bine conservate care înconjoară centrul istoric al orașului Coca.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.522578,
+                        41.216116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Coca",
+                  "text": "A magnificent 15th-century castle in Spain built in the Mudéjar style.",
+                  "category": "castle",
+                  "coords": [
+                        -4.525482,
+                        41.215143
+                  ]
+            },
+            {
+                  "name": "Auditorio Comarcal Martín Frías",
+                  "text": "A local auditorium and performance venue in Coca.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.521317,
+                        41.217721
+                  ]
+            },
+            {
+                  "name": "Museo Nacional del Patrimonio Forestal",
+                  "text": "A museum in Coca dedicated to the national forest heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -4.542712,
+                        41.204242
+                  ]
+            },
+            {
+                  "name": "Cloaca Romana",
+                  "text": "Archaeological remains of an ancient Roman sewer system in Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521565,
+                        41.220673
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Remains of an ancient Roman house in the town of Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.524593,
+                        41.221901
+                  ]
+            },
+            {
+                  "name": "Torre de San Nicolás",
+                  "text": "The preserved tower of a former medieval church in Coca.",
+                  "category": "historical",
+                  "coords": [
+                        -4.525025,
+                        41.218904
+                  ]
+            },
+            {
+                  "name": "Muralla Medieval",
+                  "text": "Well-preserved medieval city walls surrounding the historic center of Coca.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.522578,
+                        41.216116
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "castle",
     name: { de: "Burg von Coca", hu: "Cocai vár", ro: "Castelul Coca", en: "Castle of Coca"},
@@ -1264,7 +4549,304 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     },
   },
   {
-    id: "spain-castle-butron-history-v2",
+    id: "spain-castle-butron-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Plasentia Butron",
+                  "text": "Ein Museum in Plentzia, das sich der Seefahrtsgeschichte und dem Erbe der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.9481,
+                        43.404729
+                  ]
+            },
+            {
+                  "name": "Butroeko gaztelua",
+                  "text": "Eine beeindruckende mittelalterliche Festung in Gatika, bekannt für ihre neugotische Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -2.914259,
+                        43.371717
+                  ]
+            },
+            {
+                  "name": "Baserria",
+                  "text": "Historische Ruinen eines traditionellen baskischen Bauernhauses in der Nähe von Butron.",
+                  "category": "historical",
+                  "coords": [
+                        -2.885933,
+                        43.376063
+                  ]
+            },
+            {
+                  "name": "Laukizko udala",
+                  "text": "Das Rathaus von Laukiz, ein bedeutendes Verwaltungsgebäude in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.907293,
+                        43.352396
+                  ]
+            },
+            {
+                  "name": "Done Laurendi",
+                  "text": "Eine religiöse Stätte in Maruri-Jatabe, die als Kirche San Lorenzo Mártir bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.864786,
+                        43.385041
+                  ]
+            },
+            {
+                  "name": "Pasarela de Plentzia",
+                  "text": "Eine Fußgängerbrücke in Plentzia, die die Ufer des Flusses verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.946511,
+                        43.402583
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Marina",
+                  "text": "Eine Kapelle in der Nähe des Schlosses Butrón.",
+                  "category": "religious",
+                  "coords": [
+                        -2.959846,
+                        43.372191
+                  ]
+            },
+            {
+                  "name": "Andra Mariaren Zeruratzea",
+                  "text": "Ein religiöses Bauwerk in der Umgebung von Schloss Butrón.",
+                  "category": "religious",
+                  "coords": [
+                        -2.902289,
+                        43.410826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Plasentia Butron",
+                  "text": "Plentziai múzeum, amely a tengerészeti történelemnek és a helyi örökségnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.9481,
+                        43.404729
+                  ]
+            },
+            {
+                  "name": "Butroeko gaztelua",
+                  "text": "Gatikában található lenyűgöző középkori vár, amely neogótikus építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -2.914259,
+                        43.371717
+                  ]
+            },
+            {
+                  "name": "Baserria",
+                  "text": "Egy hagyományos baszk tanyaház történelmi romjai Butron közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.885933,
+                        43.376063
+                  ]
+            },
+            {
+                  "name": "Laukizko udala",
+                  "text": "Laukiz városházája, a település fontos közigazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.907293,
+                        43.352396
+                  ]
+            },
+            {
+                  "name": "Done Laurendi",
+                  "text": "Maruri-Jatabe vallási helyszíne, a Szent Lőrinc vértanú templom.",
+                  "category": "religious",
+                  "coords": [
+                        -2.864786,
+                        43.385041
+                  ]
+            },
+            {
+                  "name": "Pasarela de Plentzia",
+                  "text": "Gyalogoshíd Plentziában, amely a folyó két partját köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.946511,
+                        43.402583
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Marina",
+                  "text": "Egy kápolna a Butrón-kastély közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.959846,
+                        43.372191
+                  ]
+            },
+            {
+                  "name": "Andra Mariaren Zeruratzea",
+                  "text": "Vallási épület a Butrón-kastély környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -2.902289,
+                        43.410826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Plasentia Butron",
+                  "text": "Un muzeu din Plentzia dedicat istoriei maritime și moștenirii regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -2.9481,
+                        43.404729
+                  ]
+            },
+            {
+                  "name": "Butroeko gaztelua",
+                  "text": "O cetate medievală impresionantă din Gatika, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "castle",
+                  "coords": [
+                        -2.914259,
+                        43.371717
+                  ]
+            },
+            {
+                  "name": "Baserria",
+                  "text": "Ruinele istorice ale unei ferme tradiționale basce, situate lângă Butron.",
+                  "category": "historical",
+                  "coords": [
+                        -2.885933,
+                        43.376063
+                  ]
+            },
+            {
+                  "name": "Laukizko udala",
+                  "text": "Primăria din Laukiz, o clădire administrativă importantă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.907293,
+                        43.352396
+                  ]
+            },
+            {
+                  "name": "Done Laurendi",
+                  "text": "Un lăcaș de cult din Maruri-Jatabe, cunoscut sub numele de Biserica Sfântul Laurențiu Martir.",
+                  "category": "religious",
+                  "coords": [
+                        -2.864786,
+                        43.385041
+                  ]
+            },
+            {
+                  "name": "Pasarela de Plentzia",
+                  "text": "O pasarelă pietonală din Plentzia care face legătura între malurile râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.946511,
+                        43.402583
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Marina",
+                  "text": "O capelă în apropierea castelului Butrón.",
+                  "category": "religious",
+                  "coords": [
+                        -2.959846,
+                        43.372191
+                  ]
+            },
+            {
+                  "name": "Andra Mariaren Zeruratzea",
+                  "text": "Un lăcaș de cult în zona castelului Butrón.",
+                  "category": "religious",
+                  "coords": [
+                        -2.902289,
+                        43.410826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Plasentia Butron",
+                  "text": "A museum in Plentzia dedicated to the maritime history and heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -2.9481,
+                        43.404729
+                  ]
+            },
+            {
+                  "name": "Butroe's castle",
+                  "text": "An impressive medieval castle in Gatika, known for its Neo-Gothic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -2.914259,
+                        43.371717
+                  ]
+            },
+            {
+                  "name": "Baserria",
+                  "text": "The historic ruins of a traditional Basque farmhouse located near Butron.",
+                  "category": "historical",
+                  "coords": [
+                        -2.885933,
+                        43.376063
+                  ]
+            },
+            {
+                  "name": "Laukizko udala",
+                  "text": "The town hall of Laukiz, a significant administrative building in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.907293,
+                        43.352396
+                  ]
+            },
+            {
+                  "name": "Done Laurendi",
+                  "text": "A religious site in Maruri-Jatabe, known as the Church of San Lorenzo Mártir.",
+                  "category": "religious",
+                  "coords": [
+                        -2.864786,
+                        43.385041
+                  ]
+            },
+            {
+                  "name": "Pasarela de Plentzia",
+                  "text": "A pedestrian bridge in Plentzia that connects the riverbanks.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.946511,
+                        43.402583
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Marina",
+                  "text": "A chapel located near the Butrón Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -2.959846,
+                        43.372191
+                  ]
+            },
+            {
+                  "name": "Andra Mariaren Zeruratzea",
+                  "text": "A place of worship situated near the Butrón Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -2.902289,
+                        43.410826
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "castle",
     name: { de: "Burg Butrón", hu: "Butrón-vár", ro: "Castelul Butrón", en: "Butron Castle"},
@@ -1311,7 +4893,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     },
   },
   {
-    id: "spain-corbera-ebre-ruins-history-v2",
+    id: "spain-corbera-ebre-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tossal de la Gaeta",
+                  "text": "Ein Gipfel in der Region Corbera d'Ebre in Katalonien.",
+                  "category": "landmark",
+                  "coords": [
+                        0.446263,
+                        41.131361
+                  ]
+            },
+            {
+                  "name": "Cabana de volta",
+                  "text": "Traditionelle Ruinen einer Steinhütte in der Landschaft von Corbera d'Ebre.",
+                  "category": "historical",
+                  "coords": [
+                        0.488995,
+                        41.158647
+                  ]
+            },
+            {
+                  "name": "Mas de Fontet",
+                  "text": "Historische Gebäudereste in der Nähe von Corbera d'Ebre.",
+                  "category": "historical",
+                  "coords": [
+                        0.482795,
+                        41.171671
+                  ]
+            },
+            {
+                  "name": "Font de Bingaubó",
+                  "text": "Eine natürliche Quelle in der Umgebung von Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.469013,
+                        41.157802
+                  ]
+            },
+            {
+                  "name": "Mare de Déu de la Misericòrdia",
+                  "text": "Eine religiöse Stätte in der Nähe von Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473624,
+                        41.160432
+                  ]
+            },
+            {
+                  "name": "Església de Sant Andreu",
+                  "text": "Eine historische Kirche in der Region von Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473228,
+                        41.162537
+                  ]
+            },
+            {
+                  "name": "Trinxeres de les Deveses",
+                  "text": "Historische Schützengräben aus dem Spanischen Bürgerkrieg bei Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.492658,
+                        41.136876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tossal de la Gaeta",
+                  "text": "Hegycsúcs a katalóniai Corbera d'Ebre régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.446263,
+                        41.131361
+                  ]
+            },
+            {
+                  "name": "Cabana de volta",
+                  "text": "Hagyományos kőkunyhó romjai Corbera d'Ebre vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        0.488995,
+                        41.158647
+                  ]
+            },
+            {
+                  "name": "Mas de Fontet",
+                  "text": "Történelmi épületmaradványok Corbera d'Ebre közelében.",
+                  "category": "historical",
+                  "coords": [
+                        0.482795,
+                        41.171671
+                  ]
+            },
+            {
+                  "name": "Font de Bingaubó",
+                  "text": "Természetes forrás Corbera d'Ebre környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        0.469013,
+                        41.157802
+                  ]
+            },
+            {
+                  "name": "Mare de Déu de la Misericòrdia",
+                  "text": "Vallási emlékhely Corbera d'Ebre közelében.",
+                  "category": "religious",
+                  "coords": [
+                        0.473624,
+                        41.160432
+                  ]
+            },
+            {
+                  "name": "Església de Sant Andreu",
+                  "text": "Történelmi templom Corbera d'Ebre régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        0.473228,
+                        41.162537
+                  ]
+            },
+            {
+                  "name": "Trinxeres de les Deveses",
+                  "text": "A spanyol polgárháború történelmi lövészárkai Corbera d'Ebre közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.492658,
+                        41.136876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tossal de la Gaeta",
+                  "text": "Un vârf montan în regiunea Corbera d'Ebre din Catalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        0.446263,
+                        41.131361
+                  ]
+            },
+            {
+                  "name": "Cabana de volta",
+                  "text": "Ruinele unei colibe tradiționale de piatră în Corbera d'Ebre.",
+                  "category": "historical",
+                  "coords": [
+                        0.488995,
+                        41.158647
+                  ]
+            },
+            {
+                  "name": "Mas de Fontet",
+                  "text": "Resturi ale unei clădiri istorice lângă Corbera d'Ebre.",
+                  "category": "historical",
+                  "coords": [
+                        0.482795,
+                        41.171671
+                  ]
+            },
+            {
+                  "name": "Font de Bingaubó",
+                  "text": "Un izvor natural în împrejurimile localității Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.469013,
+                        41.157802
+                  ]
+            },
+            {
+                  "name": "Mare de Déu de la Misericòrdia",
+                  "text": "Un lăcaș de cult situat în apropiere de Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473624,
+                        41.160432
+                  ]
+            },
+            {
+                  "name": "Església de Sant Andreu",
+                  "text": "O biserică istorică din regiunea Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473228,
+                        41.162537
+                  ]
+            },
+            {
+                  "name": "Trinxeres de les Deveses",
+                  "text": "Tranșee istorice din timpul Războiului Civil Spaniol lângă Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.492658,
+                        41.136876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tossal de la Gaeta",
+                  "text": "A mountain peak in the Corbera d'Ebre region of Catalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        0.446263,
+                        41.131361
+                  ]
+            },
+            {
+                  "name": "Cabana de volta",
+                  "text": "Traditional ruins of a stone hut in the Corbera d'Ebre countryside.",
+                  "category": "historical",
+                  "coords": [
+                        0.488995,
+                        41.158647
+                  ]
+            },
+            {
+                  "name": "Mas de Fontet",
+                  "text": "Historical remains of a building near Corbera d'Ebre.",
+                  "category": "historical",
+                  "coords": [
+                        0.482795,
+                        41.171671
+                  ]
+            },
+            {
+                  "name": "Font de Bingaubó",
+                  "text": "A natural spring in the surroundings of Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.469013,
+                        41.157802
+                  ]
+            },
+            {
+                  "name": "Mare de Déu de la Misericòrdia",
+                  "text": "A place of worship located near Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473624,
+                        41.160432
+                  ]
+            },
+            {
+                  "name": "Església de Sant Andreu",
+                  "text": "A historical church in the region of Corbera d'Ebre.",
+                  "category": "religious",
+                  "coords": [
+                        0.473228,
+                        41.162537
+                  ]
+            },
+            {
+                  "name": "Trinxeres de les Deveses",
+                  "text": "Historical trenches from the Spanish Civil War near Corbera d'Ebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.492658,
+                        41.136876
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "ruins",
     name: { de: "Corbera d'Ebre", hu: "Corbera d'Ebre", ro: "Corbera d'Ebre", en: "Corbera d'Ebre"},
@@ -1403,7 +5246,232 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-alcala-de-henares-university-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-manzanares-el-real-history-v2",
+    id: "spain-castillo-de-manzanares-el-real-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo Nuevo de Manzanares El Real",
+                  "text": "Eine gut erhaltene Burg aus dem 15. Jahrhundert in Manzanares el Real.",
+                  "category": "castle",
+                  "coords": [
+                        -3.862028,
+                        40.727166
+                  ]
+            },
+            {
+                  "name": "Castillo Viejo de Manzanares",
+                  "text": "Ruinen der alten Burg in Manzanares el Real.",
+                  "category": "historical",
+                  "coords": [
+                        -3.869698,
+                        40.725479
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Kulturzentrum in Manzanares el Real.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.864286,
+                        40.727047
+                  ]
+            },
+            {
+                  "name": "Mirador embalse Manzanares el Real",
+                  "text": "Aussichtspunkt mit Blick auf den Stausee von Manzanares el Real.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.869449,
+                        40.717288
+                  ]
+            },
+            {
+                  "name": "Torreón de la presa original",
+                  "text": "Turm der ursprünglichen Talsperre in Manzanares el Real.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.816841,
+                        40.706632
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Nieves",
+                  "text": "Kirche Unserer Lieben Frau vom Schnee in Manzanares el Real.",
+                  "category": "religious",
+                  "coords": [
+                        -3.864654,
+                        40.726025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo Nuevo de Manzanares El Real",
+                  "text": "Jól megőrzött 15. századi vár Manzanares el Realban.",
+                  "category": "castle",
+                  "coords": [
+                        -3.862028,
+                        40.727166
+                  ]
+            },
+            {
+                  "name": "Castillo Viejo de Manzanares",
+                  "text": "A régi vár romjai Manzanares el Realban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.869698,
+                        40.725479
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Kulturális központ Manzanares el Realban.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.864286,
+                        40.727047
+                  ]
+            },
+            {
+                  "name": "Mirador embalse Manzanares el Real",
+                  "text": "Kilátópont a Manzanares el Real-i víztározóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.869449,
+                        40.717288
+                  ]
+            },
+            {
+                  "name": "Torreón de la presa original",
+                  "text": "Az eredeti gát tornya Manzanares el Realban.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.816841,
+                        40.706632
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Nieves",
+                  "text": "Havas Boldogasszony-templom Manzanares el Realban.",
+                  "category": "religious",
+                  "coords": [
+                        -3.864654,
+                        40.726025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo Nuevo de Manzanares El Real",
+                  "text": "Un castel bine conservat din secolul al XV-lea în Manzanares el Real.",
+                  "category": "castle",
+                  "coords": [
+                        -3.862028,
+                        40.727166
+                  ]
+            },
+            {
+                  "name": "Castillo Viejo de Manzanares",
+                  "text": "Ruinele vechiului castel din Manzanares el Real.",
+                  "category": "historical",
+                  "coords": [
+                        -3.869698,
+                        40.725479
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Centru cultural în Manzanares el Real.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.864286,
+                        40.727047
+                  ]
+            },
+            {
+                  "name": "Mirador embalse Manzanares el Real",
+                  "text": "Punct de belvedere asupra lacului de acumulare Manzanares el Real.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.869449,
+                        40.717288
+                  ]
+            },
+            {
+                  "name": "Torreón de la presa original",
+                  "text": "Turnul barajului original din Manzanares el Real.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.816841,
+                        40.706632
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Nieves",
+                  "text": "Biserica Maica Domnului a Zăpezilor din Manzanares el Real.",
+                  "category": "religious",
+                  "coords": [
+                        -3.864654,
+                        40.726025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo Nuevo de Manzanares El Real",
+                  "text": "A well-preserved 15th-century castle in Manzanares el Real.",
+                  "category": "castle",
+                  "coords": [
+                        -3.862028,
+                        40.727166
+                  ]
+            },
+            {
+                  "name": "Castillo Viejo de Manzanares",
+                  "text": "Ruins of the old castle in Manzanares el Real.",
+                  "category": "historical",
+                  "coords": [
+                        -3.869698,
+                        40.725479
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "A cultural center located in Manzanares el Real.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.864286,
+                        40.727047
+                  ]
+            },
+            {
+                  "name": "Mirador embalse Manzanares el Real",
+                  "text": "Viewpoint overlooking the Manzanares el Real reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.869449,
+                        40.717288
+                  ]
+            },
+            {
+                  "name": "Torreón de la presa original",
+                  "text": "Tower of the original dam in Manzanares el Real.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.816841,
+                        40.706632
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Nieves",
+                  "text": "Church of Our Lady of the Snows in Manzanares el Real.",
+                  "category": "religious",
+                  "coords": [
+                        -3.864654,
+                        40.726025
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Manzanares el Real", hu: "Manzanares el Real-i vár", ro: "Castelul Manzanares el Real", en: "Manzanares el Real Castle" },
@@ -1448,7 +5516,88 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-manzanares-el-real-history-v2.webp",
   },
   {
-    id: "spain-cueva-de-los-casares-history-v2",
+    id: "spain-cueva-de-los-casares-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cueva de los Casares",
+                  "text": "Eine archäologische Fundstätte mit paläolithischen Felsgravuren in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292279,
+                        40.939656
+                  ]
+            },
+            {
+                  "name": "Cueva de la hoz",
+                  "text": "Ein beeindruckender Höhleneingang in der Region Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.296458,
+                        40.983414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cueva de los Casares",
+                  "text": "Régészeti lelőhely paleolitikumi sziklarajzokkal Guadalajara tartományban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292279,
+                        40.939656
+                  ]
+            },
+            {
+                  "name": "Cueva de la hoz",
+                  "text": "Lenyűgöző barlangbejárat Guadalajara régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.296458,
+                        40.983414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cueva de los Casares",
+                  "text": "Situl arheologic cu gravuri rupestre paleolitice în provincia Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292279,
+                        40.939656
+                  ]
+            },
+            {
+                  "name": "Cueva de la hoz",
+                  "text": "O intrare spectaculoasă în peșteră din regiunea Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.296458,
+                        40.983414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cueva de los Casares",
+                  "text": "Archaeological site featuring Paleolithic rock engravings in Guadalajara province.",
+                  "category": "historical",
+                  "coords": [
+                        -2.292279,
+                        40.939656
+                  ]
+            },
+            {
+                  "name": "Cueva de la hoz",
+                  "text": "An impressive cave entrance in the Guadalajara region.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.296458,
+                        40.983414
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Cueva de los Casares", hu: "Los Casares-barlang", ro: "Peștera Casares", en: "Casares Cave" },
@@ -1493,7 +5642,160 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-cueva-de-los-casares-history-v2.webp",
   },
   {
-    id: "spain-monasterio-de-piedra-history-v2",
+    id: "spain-monasterio-de-piedra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Vino",
+                  "text": "Ein Weinmuseum im Klosterkomplex Piedra, das die regionale Weinbaugeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.783718,
+                        41.19311
+                  ]
+            },
+            {
+                  "name": "Mirador de la Puerta Negra",
+                  "text": "Ein Aussichtspunkt mit herrlichem Blick auf die Wasserfälle des Klosters Piedra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.781465,
+                        41.190072
+                  ]
+            },
+            {
+                  "name": "Aves Rapaces",
+                  "text": "Ein Vorführbereich für Greifvögel im Park des Klosters Monasterio de Piedra.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.780176,
+                        41.192431
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago del Espejo",
+                  "text": "Ein Aussichtspunkt mit Blick auf den ruhigen Spiegelsee im Klosterpark.",
+                  "category": "natural",
+                  "coords": [
+                        -1.786178,
+                        41.189938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Vino",
+                  "text": "A Piedra-kolostor komplexumában található bormúzeum, amely a bortermelés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.783718,
+                        41.19311
+                  ]
+            },
+            {
+                  "name": "Mirador de la Puerta Negra",
+                  "text": "Kilátópont, ahonnan lenyűgöző kilátás nyílik a Piedra-kolostor vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        -1.781465,
+                        41.190072
+                  ]
+            },
+            {
+                  "name": "Aves Rapaces",
+                  "text": "Ragadozómadár-bemutató helyszín a Monasterio de Piedra parkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.780176,
+                        41.192431
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago del Espejo",
+                  "text": "Kilátópont, amely a kolostorparkban található nyugodt Tükör-tóra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.786178,
+                        41.189938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Vino",
+                  "text": "Un muzeu al vinului situat în complexul Mănăstirii Piedra, prezentând istoria viticulturii.",
+                  "category": "museum",
+                  "coords": [
+                        -1.783718,
+                        41.19311
+                  ]
+            },
+            {
+                  "name": "Mirador de la Puerta Negra",
+                  "text": "Un punct de belvedere care oferă vederi uimitoare asupra cascadelor Mănăstirii Piedra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.781465,
+                        41.190072
+                  ]
+            },
+            {
+                  "name": "Aves Rapaces",
+                  "text": "O zonă de demonstrație a păsărilor de pradă în parcul Monasterio de Piedra.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.780176,
+                        41.192431
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago del Espejo",
+                  "text": "Un punct de belvedere cu vedere la liniștitul Lac al Oglinzii din parcul mănăstirii.",
+                  "category": "natural",
+                  "coords": [
+                        -1.786178,
+                        41.189938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Vino",
+                  "text": "A wine museum located within the Piedra Monastery complex, showcasing viticulture history.",
+                  "category": "museum",
+                  "coords": [
+                        -1.783718,
+                        41.19311
+                  ]
+            },
+            {
+                  "name": "Mirador de la Puerta Negra",
+                  "text": "A viewpoint offering stunning views of the waterfalls and park of the Piedra Monastery.",
+                  "category": "natural",
+                  "coords": [
+                        -1.781465,
+                        41.190072
+                  ]
+            },
+            {
+                  "name": "Aves Rapaces",
+                  "text": "A bird of prey demonstration area within the Monasterio de Piedra park.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.780176,
+                        41.192431
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago del Espejo",
+                  "text": "A viewpoint overlooking the tranquil Mirror Lake in the monastery park.",
+                  "category": "natural",
+                  "coords": [
+                        -1.786178,
+                        41.189938
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ES",
     name: { de: "Kloster Piedra", hu: "Piedra kolostor", ro: "Mănăstirea Piedra", en: "Piedra Monastery" },
@@ -1673,7 +5975,304 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-teatro-romano-de-cartagena-history-v2.webp",
   },
   {
-    id: "spain-murallas-de-toro-history-v2",
+    id: "spain-murallas-de-toro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Convento del Sancti Spiritus",
+                  "text": "Ein bedeutendes Museum in einem ehemaligen Kloster in Toro, bekannt für seine Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -5.400607,
+                        41.520365
+                  ]
+            },
+            {
+                  "name": "Teatro Latorre",
+                  "text": "Ein historisches Theater in Toro, das Ende des 19. Jahrhunderts erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.389002,
+                        41.522403
+                  ]
+            },
+            {
+                  "name": "Casa Palacio de los Villachica",
+                  "text": "Ein repräsentatives Stadtpalais in Toro mit beeindruckender Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -5.3892,
+                        41.524048
+                  ]
+            },
+            {
+                  "name": "Bodega Histórica del Vino de Toro",
+                  "text": "Ein Museum, das der reichen Weintradition der Region Toro gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -5.393202,
+                        41.521314
+                  ]
+            },
+            {
+                  "name": "Puente de Toro",
+                  "text": "Eine historische Brücke über den Fluss Duero in der Stadt Toro.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395818,
+                        41.514535
+                  ]
+            },
+            {
+                  "name": "Kollegiatkirche Santa María la Mayor",
+                  "text": "Eine beeindruckende romanische Stiftskirche und das Wahrzeichen von Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.394759,
+                        41.519957
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro del Olmo",
+                  "text": "Die malerischen Ruinen einer mittelalterlichen Kirche im Mudéjar-Stil.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39654,
+                        41.523071
+                  ]
+            },
+            {
+                  "name": "Palacio de las Leyes",
+                  "text": "Historische Überreste eines ehemaligen Palastes in den Mauern von Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39788,
+                        41.52476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Convento del Sancti Spiritus",
+                  "text": "Jelentős múzeum egy egykori kolostorban Toróban, művészeti kincseiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.400607,
+                        41.520365
+                  ]
+            },
+            {
+                  "name": "Teatro Latorre",
+                  "text": "Történelmi színház Toróban, amely a 19. század végén épült.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.389002,
+                        41.522403
+                  ]
+            },
+            {
+                  "name": "Casa Palacio de los Villachica",
+                  "text": "Reprezentatív városi palota Toróban, lenyűgöző építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        -5.3892,
+                        41.524048
+                  ]
+            },
+            {
+                  "name": "Bodega Histórica del Vino de Toro",
+                  "text": "A Toro régió gazdag bortermelési hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -5.393202,
+                        41.521314
+                  ]
+            },
+            {
+                  "name": "Puente de Toro",
+                  "text": "Történelmi híd a Duero folyó felett Toro városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395818,
+                        41.514535
+                  ]
+            },
+            {
+                  "name": "Colegiata de Santa María la Mayor",
+                  "text": "Lenyűgöző román stílusú társaskáptalani templom, Toro jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        -5.394759,
+                        41.519957
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro del Olmo",
+                  "text": "Egy középkori mudéjar stílusú templom festői romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39654,
+                        41.523071
+                  ]
+            },
+            {
+                  "name": "Palacio de las Leyes",
+                  "text": "Egy egykori palota történelmi maradványai Toro falai között.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39788,
+                        41.52476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Convento del Sancti Spiritus",
+                  "text": "Un muzeu important într-o fostă mănăstire din Toro, cunoscut pentru arta sa.",
+                  "category": "museum",
+                  "coords": [
+                        -5.400607,
+                        41.520365
+                  ]
+            },
+            {
+                  "name": "Teatro Latorre",
+                  "text": "Un teatru istoric din Toro, construit la sfârșitul secolului al XIX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.389002,
+                        41.522403
+                  ]
+            },
+            {
+                  "name": "Casa Palacio de los Villachica",
+                  "text": "Un palat nobiliar reprezentativ în Toro, cu o arhitectură impresionantă.",
+                  "category": "castle",
+                  "coords": [
+                        -5.3892,
+                        41.524048
+                  ]
+            },
+            {
+                  "name": "Bodega Histórica del Vino de Toro",
+                  "text": "Un muzeu dedicat bogatei tradiții viticole a regiunii Toro.",
+                  "category": "museum",
+                  "coords": [
+                        -5.393202,
+                        41.521314
+                  ]
+            },
+            {
+                  "name": "Puente de Toro",
+                  "text": "Un pod istoric peste râul Duero în orașul Toro.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395818,
+                        41.514535
+                  ]
+            },
+            {
+                  "name": "Colegiata de Santa María la Mayor",
+                  "text": "O impresionantă biserică colegială romanică, simbolul orașului Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.394759,
+                        41.519957
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro del Olmo",
+                  "text": "Ruinele pitorești ale unei biserici medievale în stil mudéjar.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39654,
+                        41.523071
+                  ]
+            },
+            {
+                  "name": "Palacio de las Leyes",
+                  "text": "Vestigiile istorice ale unui fost palat în interiorul zidurilor orașului Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39788,
+                        41.52476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Convento del Sancti Spiritus",
+                  "text": "A significant museum housed in a former monastery in Toro, known for its art.",
+                  "category": "museum",
+                  "coords": [
+                        -5.400607,
+                        41.520365
+                  ]
+            },
+            {
+                  "name": "Teatro Latorre",
+                  "text": "A historic theatre in Toro, built at the end of the 19th century.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.389002,
+                        41.522403
+                  ]
+            },
+            {
+                  "name": "Casa Palacio de los Villachica",
+                  "text": "A representative palatial house in Toro with impressive architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -5.3892,
+                        41.524048
+                  ]
+            },
+            {
+                  "name": "Bodega Histórica del Vino de Toro",
+                  "text": "A museum dedicated to the rich winemaking traditions of the Toro region.",
+                  "category": "museum",
+                  "coords": [
+                        -5.393202,
+                        41.521314
+                  ]
+            },
+            {
+                  "name": "Puente de Toro",
+                  "text": "A historic bridge crossing the Duero River in the city of Toro.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.395818,
+                        41.514535
+                  ]
+            },
+            {
+                  "name": "Colegiata de Santa María la Mayor",
+                  "text": "An impressive Romanesque collegiate church and the landmark of Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.394759,
+                        41.519957
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro del Olmo",
+                  "text": "The picturesque ruins of a medieval Mudéjar-style church.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39654,
+                        41.523071
+                  ]
+            },
+            {
+                  "name": "Palacio de las Leyes",
+                  "text": "Historical remains of a former palace within the city walls of Toro.",
+                  "category": "historical",
+                  "coords": [
+                        -5.39788,
+                        41.52476
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Stadtmauern von Toro", hu: "Toro városfalai", ro: "Zidurile orașului Toro", en: "City Walls of Toro" },
@@ -1763,7 +6362,232 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-real-monasterio-de-las-huelgas-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-la-mota-history-v2",
+    id: "spain-castillo-de-la-mota-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monasterio de Santa María de la Mejorada",
+                  "text": "Ein ehemaliges Hieronymitenkloster in Olmedo, das von Mudéjar-Architektur geprägt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -4.739665,
+                        41.315628
+                  ]
+            },
+            {
+                  "name": "Parque Temático del Múdejar de Olmedo",
+                  "text": "Ein Themenpark mit maßstabsgetreuen Miniaturmodellen bedeutender Mudéjar-Bauwerke.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.681884,
+                        41.290605
+                  ]
+            },
+            {
+                  "name": "Convento e Iglesia de La Merced",
+                  "text": "Ein religiöser Komplex in Olmedo, bestehend aus einem ehemaligen Konvent und einer Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -4.685181,
+                        41.288181
+                  ]
+            },
+            {
+                  "name": "Casa del Reloj",
+                  "text": "Ein markantes historisches Gebäude mit einer charakteristischen Uhr in Olmedo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.686696,
+                        41.289206
+                  ]
+            },
+            {
+                  "name": "Muralla de Olmedo",
+                  "text": "Die Überreste der mittelalterlichen Stadtmauer, die einst Olmedo umschloss.",
+                  "category": "historical",
+                  "coords": [
+                        -4.687101,
+                        41.285492
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés",
+                  "text": "Eine historische Kirche in Olmedo, die ein Beispiel für die lokale Mudéjar-Architektur ist.",
+                  "category": "religious",
+                  "coords": [
+                        -4.68805,
+                        41.287236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monasterio de Santa María de la Mejorada",
+                  "text": "Egykori jeromos kolostor Olmedóban, amelyet a mudéjar építészet jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.739665,
+                        41.315628
+                  ]
+            },
+            {
+                  "name": "Parque Temático del Múdejar de Olmedo",
+                  "text": "Vidámpark, ahol jelentős mudéjar épületek méretarányos makettjei láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.681884,
+                        41.290605
+                  ]
+            },
+            {
+                  "name": "Convento e Iglesia de La Merced",
+                  "text": "Egy vallási komplexum Olmedóban, amely egy egykori kolostorból és egy templomból áll.",
+                  "category": "religious",
+                  "coords": [
+                        -4.685181,
+                        41.288181
+                  ]
+            },
+            {
+                  "name": "Casa del Reloj",
+                  "text": "Jellegzetes történelmi épület karakteres órával Olmedóban.",
+                  "category": "historical",
+                  "coords": [
+                        -4.686696,
+                        41.289206
+                  ]
+            },
+            {
+                  "name": "Muralla de Olmedo",
+                  "text": "A középkori városfal maradványai, amely egykor körülvette Olmedót.",
+                  "category": "historical",
+                  "coords": [
+                        -4.687101,
+                        41.285492
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés",
+                  "text": "Történelmi templom Olmedóban, amely a helyi mudéjar építészet példája.",
+                  "category": "religious",
+                  "coords": [
+                        -4.68805,
+                        41.287236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monasterio de Santa María de la Mejorada",
+                  "text": "O fostă mănăstire hieronimită din Olmedo, caracterizată prin arhitectura mudéjar.",
+                  "category": "religious",
+                  "coords": [
+                        -4.739665,
+                        41.315628
+                  ]
+            },
+            {
+                  "name": "Parque Temático del Múdejar de Olmedo",
+                  "text": "Un parc tematic care prezintă machete la scară ale unor edificii mudéjar importante.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.681884,
+                        41.290605
+                  ]
+            },
+            {
+                  "name": "Convento e Iglesia de La Merced",
+                  "text": "Un complex religios în Olmedo, format dintr-o fostă mănăstire și o biserică.",
+                  "category": "religious",
+                  "coords": [
+                        -4.685181,
+                        41.288181
+                  ]
+            },
+            {
+                  "name": "Casa del Reloj",
+                  "text": "O clădire istorică proeminentă cu un ceas caracteristic în Olmedo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.686696,
+                        41.289206
+                  ]
+            },
+            {
+                  "name": "Muralla de Olmedo",
+                  "text": "Vestigiile zidului medieval al orașului care înconjura odinioară Olmedo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.687101,
+                        41.285492
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés",
+                  "text": "O biserică istorică din Olmedo, care este un exemplu de arhitectură mudéjar locală.",
+                  "category": "religious",
+                  "coords": [
+                        -4.68805,
+                        41.287236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monasterio de Santa María de la Mejorada",
+                  "text": "A former Hieronymite monastery in Olmedo characterized by Mudéjar architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -4.739665,
+                        41.315628
+                  ]
+            },
+            {
+                  "name": "Parque Temático del Múdejar de Olmedo",
+                  "text": "A theme park featuring scale miniature models of significant Mudéjar buildings.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.681884,
+                        41.290605
+                  ]
+            },
+            {
+                  "name": "Convento e Iglesia de La Merced",
+                  "text": "A religious complex in Olmedo consisting of a former convent and a church.",
+                  "category": "religious",
+                  "coords": [
+                        -4.685181,
+                        41.288181
+                  ]
+            },
+            {
+                  "name": "Casa del Reloj",
+                  "text": "A prominent historical building featuring a characteristic clock in Olmedo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.686696,
+                        41.289206
+                  ]
+            },
+            {
+                  "name": "Muralla de Olmedo",
+                  "text": "The remains of the medieval city wall that once surrounded Olmedo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.687101,
+                        41.285492
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés",
+                  "text": "A historic church in Olmedo that is an example of local Mudéjar architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -4.68805,
+                        41.287236
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg La Mota", hu: "La Mota-i vár", ro: "Castelul La Mota", en: "La Mota Castle" },
@@ -1808,7 +6632,88 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-la-mota-history-v2.webp",
   },
   {
-    id: "spain-ruinas-de-bobastro-history-v2",
+    id: "spain-ruinas-de-bobastro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bobastro",
+                  "text": "Die Überreste einer befestigten Stadt aus dem 9. Jahrhundert in Andalusien.",
+                  "category": "historical",
+                  "coords": [
+                        -4.780947,
+                        36.902087
+                  ]
+            },
+            {
+                  "name": "Sierra de Aguas",
+                  "text": "Ein Berggipfel in der Nähe der historischen Stätte Bobastro.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.768061,
+                        36.86014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bobastro",
+                  "text": "Egy 9. századi erődített város romjai Andalúziában.",
+                  "category": "historical",
+                  "coords": [
+                        -4.780947,
+                        36.902087
+                  ]
+            },
+            {
+                  "name": "Sierra de Aguas",
+                  "text": "Egy hegycsúcs a történelmi Bobastro közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.768061,
+                        36.86014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bobastro",
+                  "text": "Ruinele unui oraș fortificat din secolul al IX-lea în Andaluzia.",
+                  "category": "historical",
+                  "coords": [
+                        -4.780947,
+                        36.902087
+                  ]
+            },
+            {
+                  "name": "Sierra de Aguas",
+                  "text": "Un vârf muntos situat în apropierea sitului istoric Bobastro.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.768061,
+                        36.86014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bobastro",
+                  "text": "The ruins of a 9th-century fortified settlement in Andalusia.",
+                  "category": "historical",
+                  "coords": [
+                        -4.780947,
+                        36.902087
+                  ]
+            },
+            {
+                  "name": "Sierra de Aguas",
+                  "text": "A mountain peak located near the historic site of Bobastro.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.768061,
+                        36.86014
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Ruinen von Bobastro", hu: "Bobastro romjai", ro: "Ruinele Bobastro", en: "Ruins of Bobastro" },
@@ -1898,7 +6803,232 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-palacio-de-viana-history-v2.webp",
   },
   {
-    id: "spain-monasterio-de-veruela-history-v2",
+    id: "spain-monasterio-de-veruela-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Trasmoz",
+                  "text": "Eine mittelalterliche Burg in Aragon, die für ihre Hexenlegenden bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -1.724977,
+                        41.826373
+                  ]
+            },
+            {
+                  "name": "Castillo de Añón del Moncayo",
+                  "text": "Eine historische Burganlage in der Gemeinde Añón de Moncayo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.721675,
+                        41.778518
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa María de Veruela",
+                  "text": "Ein bedeutendes Zisterzienserkloster aus dem 12. Jahrhundert am Fuße des Moncayo.",
+                  "category": "religious",
+                  "coords": [
+                        -1.692701,
+                        41.812266
+                  ]
+            },
+            {
+                  "name": "La Oruña",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten einer keltiberischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -1.701416,
+                        41.818986
+                  ]
+            },
+            {
+                  "name": "Palacio Abacial",
+                  "text": "Ein Museum im ehemaligen Palast des Abtes des Klosters Veruela.",
+                  "category": "museum",
+                  "coords": [
+                        -1.694148,
+                        41.812342
+                  ]
+            },
+            {
+                  "name": "Mirador de la Tía Casca",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Landschaft und Trasmoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.725013,
+                        41.824946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Trasmoz",
+                  "text": "Egy középkori vár Aragóniában, amely boszorkánylegendáiról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -1.724977,
+                        41.826373
+                  ]
+            },
+            {
+                  "name": "Castillo de Añón del Moncayo",
+                  "text": "Történelmi vár Añón de Moncayo településen.",
+                  "category": "castle",
+                  "coords": [
+                        -1.721675,
+                        41.778518
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa María de Veruela",
+                  "text": "Egy jelentős, 12. századi ciszterci kolostor a Moncayo lábánál.",
+                  "category": "religious",
+                  "coords": [
+                        -1.692701,
+                        41.812266
+                  ]
+            },
+            {
+                  "name": "La Oruña",
+                  "text": "Régészeti lelőhely egy kelta-ibér település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -1.701416,
+                        41.818986
+                  ]
+            },
+            {
+                  "name": "Palacio Abacial",
+                  "text": "Múzeum a Veruela-kolostor egykori apáti palotájában.",
+                  "category": "museum",
+                  "coords": [
+                        -1.694148,
+                        41.812342
+                  ]
+            },
+            {
+                  "name": "Mirador de la Tía Casca",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környékre és Trasmozra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.725013,
+                        41.824946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Trasmoz",
+                  "text": "Un castel medieval din Aragon, cunoscut pentru legendele sale despre vrăjitorie.",
+                  "category": "castle",
+                  "coords": [
+                        -1.724977,
+                        41.826373
+                  ]
+            },
+            {
+                  "name": "Castillo de Añón del Moncayo",
+                  "text": "Un castel istoric situat în localitatea Añón de Moncayo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.721675,
+                        41.778518
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa María de Veruela",
+                  "text": "O mănăstire cisterciană importantă din secolul al XII-lea, situată lângă Moncayo.",
+                  "category": "religious",
+                  "coords": [
+                        -1.692701,
+                        41.812266
+                  ]
+            },
+            {
+                  "name": "La Oruña",
+                  "text": "Un sit arheologic cu vestigiile unei așezări celtiberice.",
+                  "category": "historical",
+                  "coords": [
+                        -1.701416,
+                        41.818986
+                  ]
+            },
+            {
+                  "name": "Palacio Abacial",
+                  "text": "Un muzeu situat în fostul palat abațial al mănăstirii.",
+                  "category": "museum",
+                  "coords": [
+                        -1.694148,
+                        41.812342
+                  ]
+            },
+            {
+                  "name": "Mirador de la Tía Casca",
+                  "text": "Un punct de observare ce oferă vederi panoramice asupra peisajului și localității Trasmoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.725013,
+                        41.824946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Trasmoz",
+                  "text": "A medieval castle in Aragon known for its legends of witchcraft.",
+                  "category": "castle",
+                  "coords": [
+                        -1.724977,
+                        41.826373
+                  ]
+            },
+            {
+                  "name": "Castillo de Añón del Moncayo",
+                  "text": "A historic castle located in the municipality of Añón de Moncayo.",
+                  "category": "castle",
+                  "coords": [
+                        -1.721675,
+                        41.778518
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa María de Veruela",
+                  "text": "A significant 12th-century Cistercian monastery located near Moncayo.",
+                  "category": "religious",
+                  "coords": [
+                        -1.692701,
+                        41.812266
+                  ]
+            },
+            {
+                  "name": "La Oruña",
+                  "text": "An archaeological site with the remains of a Celtic-Iberian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -1.701416,
+                        41.818986
+                  ]
+            },
+            {
+                  "name": "Palacio Abacial",
+                  "text": "A museum located in the former abbot's palace of the monastery.",
+                  "category": "museum",
+                  "coords": [
+                        -1.694148,
+                        41.812342
+                  ]
+            },
+            {
+                  "name": "Mirador de la Tía Casca",
+                  "text": "A viewpoint offering scenic views over the surrounding landscape and Trasmoz.",
+                  "category": "natural",
+                  "coords": [
+                        -1.725013,
+                        41.824946
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ES",
     name: { de: "Kloster Veruela", hu: "Veruela kolostor", ro: "Mănăstirea Veruela", en: "Veruela Monastery" },
@@ -1943,7 +7073,160 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-veruela-history-v2.webp",
   },
   {
-    id: "spain-ruinas-de-caparra-history-v2",
+    id: "spain-ruinas-de-caparra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ciudad Romana de Cáparra",
+                  "text": "Die Ruinen einer antiken römischen Stadt in der Provinz Cáceres, bekannt für ihren einzigartigen vierseitigen Bogen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.101285,
+                        40.166396
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Cáparra",
+                  "text": "Die Überreste eines römischen Amphitheaters auf dem archäologischen Gelände von Cáparra.",
+                  "category": "historical",
+                  "coords": [
+                        -6.100129,
+                        40.164196
+                  ]
+            },
+            {
+                  "name": "Puente Romano de Cáparra",
+                  "text": "Eine antike römische Brücke über den Fluss Ambroz in der Nähe der archäologischen Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102509,
+                        40.170688
+                  ]
+            },
+            {
+                  "name": "Vía de la Plata",
+                  "text": "Überreste der antiken römischen Straße, die den Süden und Norden Westspaniens verband.",
+                  "category": "historical",
+                  "coords": [
+                        -6.102322,
+                        40.165809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ciudad Romana de Cáparra",
+                  "text": "Egy ókori római város romjai Cáceres tartományban, amely egyedülálló, négoldalú boltívéről híres.",
+                  "category": "historical",
+                  "coords": [
+                        -6.101285,
+                        40.166396
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Cáparra",
+                  "text": "Egy római amfiteátrum maradványai Cáparra régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.100129,
+                        40.164196
+                  ]
+            },
+            {
+                  "name": "Puente Romano de Cáparra",
+                  "text": "Egy ókori római híd az Ambroz-folyón a régészeti lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102509,
+                        40.170688
+                  ]
+            },
+            {
+                  "name": "Vía de la Plata",
+                  "text": "Az ókori római út maradványai, amely Nyugat-Spanyolország déli és északi részét kötötte össze.",
+                  "category": "historical",
+                  "coords": [
+                        -6.102322,
+                        40.165809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ciudad Romana de Cáparra",
+                  "text": "Ruinele unui vechi oraș roman din provincia Cáceres, faimos pentru arcul său unic cu patru laturi.",
+                  "category": "historical",
+                  "coords": [
+                        -6.101285,
+                        40.166396
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Cáparra",
+                  "text": "Rămășițele unui amfiteatru roman situat în situl arheologic din Cáparra.",
+                  "category": "historical",
+                  "coords": [
+                        -6.100129,
+                        40.164196
+                  ]
+            },
+            {
+                  "name": "Puente Romano de Cáparra",
+                  "text": "Un vechi pod roman care traversează râul Ambroz în apropierea sitului arheologic.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102509,
+                        40.170688
+                  ]
+            },
+            {
+                  "name": "Vía de la Plata",
+                  "text": "Rămășițele vechiului drum roman care lega sudul și nordul vestului Spaniei.",
+                  "category": "historical",
+                  "coords": [
+                        -6.102322,
+                        40.165809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ciudad Romana de Cáparra",
+                  "text": "The ruins of an ancient Roman city in the province of Cáceres, famous for its unique four-sided arch.",
+                  "category": "historical",
+                  "coords": [
+                        -6.101285,
+                        40.166396
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Cáparra",
+                  "text": "The remains of a Roman amphitheater located within the archaeological site of Cáparra.",
+                  "category": "historical",
+                  "coords": [
+                        -6.100129,
+                        40.164196
+                  ]
+            },
+            {
+                  "name": "Puente Romano de Cáparra",
+                  "text": "An ancient Roman bridge crossing the Ambroz River near the archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102509,
+                        40.170688
+                  ]
+            },
+            {
+                  "name": "Vía de la Plata",
+                  "text": "Remains of the ancient Roman road that connected the south and north of western Spain.",
+                  "category": "historical",
+                  "coords": [
+                        -6.102322,
+                        40.165809
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Ruinen von Cáparra", hu: "Cáparra romjai", ro: "Ruinele Cáparra", en: "Ruins of Caparra" },
@@ -2078,7 +7361,160 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-cathedral-of-tui-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-alcaudete-history-v2",
+    id: "spain-castillo-de-alcaudete-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Alcaudete",
+                  "text": "Eine imposante mittelalterliche Festung in Alcaudete, die für ihre gut erhaltenen Mauern und Türme bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -4.088435,
+                        37.590521
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Alcaudete",
+                  "text": "Das städtische Theater von Alcaudete, ein kulturelles Zentrum für Aufführungen und lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.086019,
+                        37.592285
+                  ]
+            },
+            {
+                  "name": "Casamata de la Guerra Civil",
+                  "text": "Ein erhaltener Bunker aus der Zeit des Spanischen Bürgerkriegs, der heute als historisches Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086714,
+                        37.58465
+                  ]
+            },
+            {
+                  "name": "Antigua ermita de la Aurora",
+                  "text": "Die Überreste der alten Aurora-Eremitage in Alcaudete, ein Zeugnis der religiösen Geschichte der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.086389,
+                        37.590887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Alcaudete",
+                  "text": "Impozáns középkori erődítmény Alcaudetében, amely jól megőrzött falairól és tornyairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -4.088435,
+                        37.590521
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Alcaudete",
+                  "text": "Alcaudete városi színháza, amely előadások és helyi rendezvények kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.086019,
+                        37.592285
+                  ]
+            },
+            {
+                  "name": "Casamata de la Guerra Civil",
+                  "text": "A spanyol polgárháború idejéből fennmaradt bunker, amely ma történelmi emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086714,
+                        37.58465
+                  ]
+            },
+            {
+                  "name": "Antigua ermita de la Aurora",
+                  "text": "A régi Aurora-remetelak maradványai Alcaudetében, amely a város vallástörténetének emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.086389,
+                        37.590887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Alcaudete",
+                  "text": "O impunătoare fortăreață medievală în Alcaudete, cunoscută pentru zidurile și turnurile sale bine conservate.",
+                  "category": "castle",
+                  "coords": [
+                        -4.088435,
+                        37.590521
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Alcaudete",
+                  "text": "Teatrul municipal din Alcaudete, un centru cultural pentru spectacole și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.086019,
+                        37.592285
+                  ]
+            },
+            {
+                  "name": "Casamata de la Guerra Civil",
+                  "text": "Un buncăr conservat din perioada Războiului Civil Spaniol, care servește astăzi ca monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086714,
+                        37.58465
+                  ]
+            },
+            {
+                  "name": "Antigua ermita de la Aurora",
+                  "text": "Rămășițele vechii ermite Aurora din Alcaudete, o mărturie a istoriei religioase a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.086389,
+                        37.590887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Alcaudete",
+                  "text": "An imposing medieval fortress in Alcaudete, known for its well-preserved walls and towers.",
+                  "category": "castle",
+                  "coords": [
+                        -4.088435,
+                        37.590521
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Alcaudete",
+                  "text": "The municipal theatre of Alcaudete, a cultural hub for performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.086019,
+                        37.592285
+                  ]
+            },
+            {
+                  "name": "Casamata de la Guerra Civil",
+                  "text": "A preserved bunker from the Spanish Civil War era, now serving as a historical monument.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086714,
+                        37.58465
+                  ]
+            },
+            {
+                  "name": "Antigua ermita de la Aurora",
+                  "text": "The remains of the old Aurora hermitage in Alcaudete, a witness to the town's religious history.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.086389,
+                        37.590887
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Alcaudete", hu: "Alcaudete-i vár", ro: "Castelul Alcaudete", en: "Alcaudete Castle" },
@@ -2123,7 +7559,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-alcaudete-history-v2.webp",
   },
   {
-    id: "spain-monasterio-de-san-pedro-de-arlanza-history-v2",
+    id: "spain-monasterio-de-san-pedro-de-arlanza-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torreón de Fernán González",
+                  "text": "Ein historischer Verteidigungsturm, der als bedeutendes Beispiel mittelalterlicher Architektur gilt.",
+                  "category": "castle",
+                  "coords": [
+                        -3.519775,
+                        42.058334
+                  ]
+            },
+            {
+                  "name": "Museo del Libro",
+                  "text": "Ein Museum, das der Geschichte der Bücher und der Druckkunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -3.519473,
+                        42.059564
+                  ]
+            },
+            {
+                  "name": "Huerto del Cura",
+                  "text": "Ein kultureller Ort, der oft für Theateraufführungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.521326,
+                        42.059661
+                  ]
+            },
+            {
+                  "name": "Muela",
+                  "text": "Ein Gipfel in der Region Burgos, bekannt für seine markante Form.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.505181,
+                        42.091018
+                  ]
+            },
+            {
+                  "name": "Capilla de San Olav",
+                  "text": "Eine moderne Kapelle, die dem heiligen Olav gewidmet ist und die Verbindung zu Norwegen feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.497138,
+                        42.060169
+                  ]
+            },
+            {
+                  "name": "Taller ConTiento",
+                  "text": "Ein lokales Kunstzentrum, das Ausstellungen und kreative Workshops anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.520939,
+                        42.058394
+                  ]
+            },
+            {
+                  "name": "Rollo Jurisdiccional",
+                  "text": "Eine historische Gerichtssäule, die das Stadtrecht und die Gerichtsbarkeit symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51967,
+                        42.056225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torreón de Fernán González",
+                  "text": "Történelmi védőtorony, amely a középkori építészet jelentős példája.",
+                  "category": "castle",
+                  "coords": [
+                        -3.519775,
+                        42.058334
+                  ]
+            },
+            {
+                  "name": "Museo del Libro",
+                  "text": "A könyvek és a nyomdászat történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.519473,
+                        42.059564
+                  ]
+            },
+            {
+                  "name": "Huerto del Cura",
+                  "text": "Kulturális helyszín, amelyet gyakran színházi előadásokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.521326,
+                        42.059661
+                  ]
+            },
+            {
+                  "name": "Muela",
+                  "text": "Hegyi csúcs Burgos régióban, amely jellegzetes formájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.505181,
+                        42.091018
+                  ]
+            },
+            {
+                  "name": "Capilla de San Olav",
+                  "text": "Szent Olavnak szentelt modern kápolna, amely a Norvégiához fűződő kapcsolatot ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.497138,
+                        42.060169
+                  ]
+            },
+            {
+                  "name": "Taller ConTiento",
+                  "text": "Helyi művészeti központ, amely kiállításokat és kreatív műhelyfoglalkozásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.520939,
+                        42.058394
+                  ]
+            },
+            {
+                  "name": "Rollo Jurisdiccional",
+                  "text": "Történelmi bírói oszlop, amely a városi jogokat és a joghatóságot jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51967,
+                        42.056225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torreón de Fernán González",
+                  "text": "Un turn de apărare istoric, considerat un exemplu important de arhitectură medievală.",
+                  "category": "castle",
+                  "coords": [
+                        -3.519775,
+                        42.058334
+                  ]
+            },
+            {
+                  "name": "Museo del Libro",
+                  "text": "Un muzeu dedicat istoriei cărților și artei tipografice.",
+                  "category": "museum",
+                  "coords": [
+                        -3.519473,
+                        42.059564
+                  ]
+            },
+            {
+                  "name": "Huerto del Cura",
+                  "text": "Un spațiu cultural folosit adesea pentru spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.521326,
+                        42.059661
+                  ]
+            },
+            {
+                  "name": "Muela",
+                  "text": "Un vârf din regiunea Burgos, cunoscut pentru forma sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.505181,
+                        42.091018
+                  ]
+            },
+            {
+                  "name": "Capilla de San Olav",
+                  "text": "O capelă modernă dedicată Sfântului Olav, celebrând legătura cu Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.497138,
+                        42.060169
+                  ]
+            },
+            {
+                  "name": "Taller ConTiento",
+                  "text": "Un centru de artă local care oferă expoziții și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.520939,
+                        42.058394
+                  ]
+            },
+            {
+                  "name": "Rollo Jurisdiccional",
+                  "text": "O coloană istorică de jurisdicție, simbolizând drepturile orașului și autoritatea judiciară.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51967,
+                        42.056225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torreón de Fernán González",
+                  "text": "A historical defensive tower, considered a significant example of medieval architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -3.519775,
+                        42.058334
+                  ]
+            },
+            {
+                  "name": "Museo del Libro",
+                  "text": "A museum dedicated to the history of books and the art of printing.",
+                  "category": "museum",
+                  "coords": [
+                        -3.519473,
+                        42.059564
+                  ]
+            },
+            {
+                  "name": "Huerto del Cura",
+                  "text": "A cultural space often used for theatre performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.521326,
+                        42.059661
+                  ]
+            },
+            {
+                  "name": "Muela",
+                  "text": "A peak in the Burgos region, known for its distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.505181,
+                        42.091018
+                  ]
+            },
+            {
+                  "name": "Capilla de San Olav",
+                  "text": "A modern chapel dedicated to Saint Olav, celebrating the connection to Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.497138,
+                        42.060169
+                  ]
+            },
+            {
+                  "name": "Taller ConTiento",
+                  "text": "A local arts centre offering exhibitions and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.520939,
+                        42.058394
+                  ]
+            },
+            {
+                  "name": "Rollo Jurisdiccional",
+                  "text": "A historical jurisdiction column, symbolizing town rights and judicial authority.",
+                  "category": "historical",
+                  "coords": [
+                        -3.51967,
+                        42.056225
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Kloster San Pedro de Arlanza", hu: "San Pedro de Arlanza kolostor", ro: "Mănăstirea San Pedro de Arlanza", en: "San Pedro de Arlanza Monastery" },
@@ -2168,7 +7865,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-san-pedro-de-arlanza-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-belmonte-history-v2",
+    id: "spain-castillo-de-belmonte-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hospital de San Andrés",
+                  "text": "Die historische Ausgrabungsstätte eines ehemaligen Krankenhauses in der Nähe der Burg Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.702042,
+                        39.559153
+                  ]
+            },
+            {
+                  "name": "Castillo de Belmonte",
+                  "text": "Eine prachtvolle Burg aus dem 15. Jahrhundert, bekannt für ihren einzigartigen Grundriss und ihre gotische Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -2.696914,
+                        39.557925
+                  ]
+            },
+            {
+                  "name": "Casa Bellomonte",
+                  "text": "Ein Museum in Belmonte, das Einblicke in das historische Leben und die lokale Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.704589,
+                        39.558479
+                  ]
+            },
+            {
+                  "name": "Trebuchet Park  (Máquinas de asedio)",
+                  "text": "Dieser Themenpark zeigt eine Sammlung historischer Belagerungsmaschinen und Trebuchets.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699005,
+                        39.559143
+                  ]
+            },
+            {
+                  "name": "Arco de Chinchilla",
+                  "text": "Ein historischer Steinbogen in der Nähe der Burg Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.701981,
+                        39.557076
+                  ]
+            },
+            {
+                  "name": "Plaza del Pilar",
+                  "text": "Ein öffentlicher Platz und eine lokale Sehenswürdigkeit im Bereich der Burg Belmonte.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.70199,
+                        39.558004
+                  ]
+            },
+            {
+                  "name": "Puerta de la Estrella",
+                  "text": "Ein historisches Tormonument in der Nähe der Burg Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.705708,
+                        39.559006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hospital de San Andrés",
+                  "text": "Egy egykori kórház történelmi régészeti helyszíne a belmontei vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.702042,
+                        39.559153
+                  ]
+            },
+            {
+                  "name": "Castillo de Belmonte",
+                  "text": "Pompás 15. századi vár, amely egyedi alaprajzáról és gótikus építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -2.696914,
+                        39.557925
+                  ]
+            },
+            {
+                  "name": "Casa Bellomonte",
+                  "text": "Belmontei múzeum, amely a történelmi mindennapokba és a helyi kultúrába nyújt betekintést.",
+                  "category": "museum",
+                  "coords": [
+                        -2.704589,
+                        39.558479
+                  ]
+            },
+            {
+                  "name": "Trebuchet Park  (Máquinas de asedio)",
+                  "text": "Ez a vidámpark történelmi ostromgépek és hajítógépek gyűjteményét mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699005,
+                        39.559143
+                  ]
+            },
+            {
+                  "name": "Arco de Chinchilla",
+                  "text": "Egy történelmi kőkapu Belmonte vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.701981,
+                        39.557076
+                  ]
+            },
+            {
+                  "name": "Plaza del Pilar",
+                  "text": "Nyilvános tér és helyi látnivaló Belmonte várának környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.70199,
+                        39.558004
+                  ]
+            },
+            {
+                  "name": "Puerta de la Estrella",
+                  "text": "Történelmi kapuemlékmű Belmonte vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.705708,
+                        39.559006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hospital de San Andrés",
+                  "text": "Sit arheologic istoric al unui fost spital situat în apropierea castelului Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.702042,
+                        39.559153
+                  ]
+            },
+            {
+                  "name": "Castillo de Belmonte",
+                  "text": "Un castel splendid din secolul al XV-lea, cunoscut pentru planul său unic și arhitectura gotică.",
+                  "category": "castle",
+                  "coords": [
+                        -2.696914,
+                        39.557925
+                  ]
+            },
+            {
+                  "name": "Casa Bellomonte",
+                  "text": "Un muzeu din Belmonte care oferă perspective asupra vieții istorice și culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -2.704589,
+                        39.558479
+                  ]
+            },
+            {
+                  "name": "Trebuchet Park  (Máquinas de asedio)",
+                  "text": "Acest parc tematic prezintă o colecție de mașini de asediu și catapulte istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699005,
+                        39.559143
+                  ]
+            },
+            {
+                  "name": "Arco de Chinchilla",
+                  "text": "Un arc de piatră istoric situat lângă Castelul Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.701981,
+                        39.557076
+                  ]
+            },
+            {
+                  "name": "Plaza del Pilar",
+                  "text": "O piață publică și atracție locală în zona Castelului Belmonte.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.70199,
+                        39.558004
+                  ]
+            },
+            {
+                  "name": "Puerta de la Estrella",
+                  "text": "Un monument istoric sub formă de poartă situat în apropierea Castelului Belmonte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.705708,
+                        39.559006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hospital de San Andrés",
+                  "text": "The historical archaeological site of a former hospital near Belmonte Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.702042,
+                        39.559153
+                  ]
+            },
+            {
+                  "name": "Castillo de Belmonte",
+                  "text": "A magnificent 15th-century castle known for its unique floor plan and Gothic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -2.696914,
+                        39.557925
+                  ]
+            },
+            {
+                  "name": "Casa Bellomonte",
+                  "text": "A museum in Belmonte offering insights into historical life and local culture.",
+                  "category": "museum",
+                  "coords": [
+                        -2.704589,
+                        39.558479
+                  ]
+            },
+            {
+                  "name": "Trebuchet Park  (Máquinas de asedio)",
+                  "text": "This theme park features a collection of historical siege engines and trebuchets.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.699005,
+                        39.559143
+                  ]
+            },
+            {
+                  "name": "Arco de Chinchilla",
+                  "text": "A historic stone arch located near Belmonte Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.701981,
+                        39.557076
+                  ]
+            },
+            {
+                  "name": "Plaza del Pilar",
+                  "text": "A public square and local attraction in the area of Belmonte Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.70199,
+                        39.558004
+                  ]
+            },
+            {
+                  "name": "Puerta de la Estrella",
+                  "text": "A historic gateway monument located in the vicinity of Belmonte Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.705708,
+                        39.559006
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Belmonte", hu: "Belmonte-i vár", ro: "Castelul Belmonte", en: "Belmonte Castle" },
@@ -2213,7 +8171,196 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-belmonte-history-v2.webp",
   },
   {
-    id: "spain-teatro-romano-de-medellin-history-v2",
+    id: "spain-teatro-romano-de-medellin-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Medellín",
+                  "text": "Eine imposante mittelalterliche Festung, die über der Stadt Medellín thront.",
+                  "category": "castle",
+                  "coords": [
+                        -5.956703,
+                        38.966801
+                  ]
+            },
+            {
+                  "name": "Playa de Medellín",
+                  "text": "Ein beliebter Flussstrand am Guadiana in Medellín.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.964722,
+                        38.965477
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Parque Arqueológico de Medellín",
+                  "text": "Ein Besucherzentrum, das Einblicke in den Archäologischen Park von Medellín bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -5.956323,
+                        38.965866
+                  ]
+            },
+            {
+                  "name": "Ruinas de Porta Caeli",
+                  "text": "Die historischen Ruinen eines ehemaligen religiösen Gebäudes in Medellín.",
+                  "category": "historical",
+                  "coords": [
+                        -5.959422,
+                        38.965425
+                  ]
+            },
+            {
+                  "name": "Ruinas históricas",
+                  "text": "Verschiedene historische Überreste, die die lange Geschichte von Medellín bezeugen.",
+                  "category": "historical",
+                  "coords": [
+                        -5.960276,
+                        38.967268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Medellín",
+                  "text": "Impozáns középkori erődítmény, amely Medellín városa felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        -5.956703,
+                        38.966801
+                  ]
+            },
+            {
+                  "name": "Playa de Medellín",
+                  "text": "Népszerű folyóparti strand a Guadiana partján Medellínben.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.964722,
+                        38.965477
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Parque Arqueológico de Medellín",
+                  "text": "Látogatóközpont, amely bemutatja a Medellíni Régészeti Park emlékeit.",
+                  "category": "museum",
+                  "coords": [
+                        -5.956323,
+                        38.965866
+                  ]
+            },
+            {
+                  "name": "Ruinas de Porta Caeli",
+                  "text": "Egy egykori egyházi épület történelmi romjai Medellínben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.959422,
+                        38.965425
+                  ]
+            },
+            {
+                  "name": "Ruinas históricas",
+                  "text": "Különböző történelmi maradványok, amelyek Medellín hosszú múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -5.960276,
+                        38.967268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Medellín",
+                  "text": "O fortăreață medievală impunătoare care domină orașul Medellín.",
+                  "category": "castle",
+                  "coords": [
+                        -5.956703,
+                        38.966801
+                  ]
+            },
+            {
+                  "name": "Playa de Medellín",
+                  "text": "O plajă fluvială populară pe malul râului Guadiana în Medellín.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.964722,
+                        38.965477
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Parque Arqueológico de Medellín",
+                  "text": "Un centru de vizitare care oferă informații despre Parcul Arheologic din Medellín.",
+                  "category": "museum",
+                  "coords": [
+                        -5.956323,
+                        38.965866
+                  ]
+            },
+            {
+                  "name": "Ruinas de Porta Caeli",
+                  "text": "Ruinele istorice ale unei foste clădiri religioase din Medellín.",
+                  "category": "historical",
+                  "coords": [
+                        -5.959422,
+                        38.965425
+                  ]
+            },
+            {
+                  "name": "Ruinas históricas",
+                  "text": "Diverse vestigii istorice care atestă trecutul îndelungat al orașului Medellín.",
+                  "category": "historical",
+                  "coords": [
+                        -5.960276,
+                        38.967268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Medellín",
+                  "text": "An imposing medieval fortress overlooking the town of Medellín.",
+                  "category": "castle",
+                  "coords": [
+                        -5.956703,
+                        38.966801
+                  ]
+            },
+            {
+                  "name": "Playa de Medellín",
+                  "text": "A popular river beach on the Guadiana in Medellín.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.964722,
+                        38.965477
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Parque Arqueológico de Medellín",
+                  "text": "An interpretation center providing insights into the Archaeological Park of Medellín.",
+                  "category": "museum",
+                  "coords": [
+                        -5.956323,
+                        38.965866
+                  ]
+            },
+            {
+                  "name": "Ruinas de Porta Caeli",
+                  "text": "The historic ruins of a former religious building in Medellín.",
+                  "category": "historical",
+                  "coords": [
+                        -5.959422,
+                        38.965425
+                  ]
+            },
+            {
+                  "name": "Ruinas históricas",
+                  "text": "Various historic remains testifying to the long history of Medellín.",
+                  "category": "historical",
+                  "coords": [
+                        -5.960276,
+                        38.967268
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Römisches Theater von Medellín", hu: "Medellíni római színház", ro: "Teatrul Roman din Medellín", en: "Roman Theatre of Medellin" },
@@ -2258,7 +8405,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-teatro-romano-de-medellin-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-velez-blanco-history-v2",
+    id: "spain-castillo-de-velez-blanco-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cueva de los letreros",
+                  "text": "Eine berühmte Höhle mit prähistorischen Felsmalereien, darunter die bekannte Indalo-Figur.",
+                  "category": "historical",
+                  "coords": [
+                        -2.09595,
+                        37.675498
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación de la Cultura del Agua, El Alporchón",
+                  "text": "Ein Museum, das der traditionellen Wasserkultur und den Bewässerungssystemen der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -2.097397,
+                        37.692742
+                  ]
+            },
+            {
+                  "name": "Castillo de Vélez-Blanco",
+                  "text": "Eine prächtige Renaissance-Burg aus dem 16. Jahrhundert, bekannt für ihre feinen Steinmetzarbeiten.",
+                  "category": "castle",
+                  "coords": [
+                        -2.098223,
+                        37.690924
+                  ]
+            },
+            {
+                  "name": "Parque Natural Sierra de María-Los Vélez",
+                  "text": "Ein Naturpark in Andalusien, der durch seine Kalksteingebirge und die reiche Flora und Fauna besticht.",
+                  "category": "natural",
+                  "coords": [
+                        -2.133707,
+                        37.712451
+                  ]
+            },
+            {
+                  "name": "Tratro Munocipal Velez Blanco",
+                  "text": "Das städtische Theater von Vélez-Blanco, ein Ort für lokale Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.094166,
+                        37.690768
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Almacén del Trigo\"",
+                  "text": "Ein Besucherzentrum in einem ehemaligen Getreidespeicher, das Informationen über die lokale Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.096729,
+                        37.695772
+                  ]
+            },
+            {
+                  "name": "Abrigo de las Colmenas",
+                  "text": "Ein Felsüberhang mit prähistorischen Malereien, der Teil des archäologischen Erbes der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.103976,
+                        37.683231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cueva de los letreros",
+                  "text": "Híres barlang őskori sziklarajzokkal, köztük a jól ismert Indalo-figurával.",
+                  "category": "historical",
+                  "coords": [
+                        -2.09595,
+                        37.675498
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación de la Cultura del Agua, El Alporchón",
+                  "text": "A régió hagyományos vízi kultúráját és öntözőrendszereit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -2.097397,
+                        37.692742
+                  ]
+            },
+            {
+                  "name": "Castillo de Vélez-Blanco",
+                  "text": "Pompás 16. századi reneszánsz várkastély, amely finom kőfaragványairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -2.098223,
+                        37.690924
+                  ]
+            },
+            {
+                  "name": "Parque Natural Sierra de María-Los Vélez",
+                  "text": "Természetvédelmi terület Andalúziában, amely mészkőhegyeivel és gazdag élővilágával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -2.133707,
+                        37.712451
+                  ]
+            },
+            {
+                  "name": "Tratro Munocipal Velez Blanco",
+                  "text": "Vélez-Blanco városi színháza, amely helyi előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.094166,
+                        37.690768
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Almacén del Trigo\"",
+                  "text": "Látogatóközpont egy egykori magtárban, amely a helyi kultúráról nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        -2.096729,
+                        37.695772
+                  ]
+            },
+            {
+                  "name": "Abrigo de las Colmenas",
+                  "text": "Őskori sziklarajzokat őrző sziklaeresz, amely a régió régészeti örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.103976,
+                        37.683231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cueva de los letreros",
+                  "text": "O peșteră celebră cu picturi rupestre preistorice, inclusiv cunoscuta figură Indalo.",
+                  "category": "historical",
+                  "coords": [
+                        -2.09595,
+                        37.675498
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación de la Cultura del Agua, El Alporchón",
+                  "text": "Un muzeu dedicat culturii tradiționale a apei și sistemelor de irigații din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -2.097397,
+                        37.692742
+                  ]
+            },
+            {
+                  "name": "Castillo de Vélez-Blanco",
+                  "text": "Un castel renascentist magnific din secolul al XVI-la, cunoscut pentru sculpturile sale fine în piatră.",
+                  "category": "castle",
+                  "coords": [
+                        -2.098223,
+                        37.690924
+                  ]
+            },
+            {
+                  "name": "Parque Natural Sierra de María-Los Vélez",
+                  "text": "Un parc natural în Andaluzia, remarcabil prin munții săi de calcar și flora și fauna bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -2.133707,
+                        37.712451
+                  ]
+            },
+            {
+                  "name": "Tratro Munocipal Velez Blanco",
+                  "text": "Teatrul municipal din Vélez-Blanco, un loc pentru spectacole și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.094166,
+                        37.690768
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Almacén del Trigo\"",
+                  "text": "Un centru de vizitare într-un fost depozit de cereale, oferind informații despre cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        -2.096729,
+                        37.695772
+                  ]
+            },
+            {
+                  "name": "Abrigo de las Colmenas",
+                  "text": "Un adăpost sub stâncă cu picturi preistorice, parte a patrimoniului arheologic al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.103976,
+                        37.683231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cueva de los letreros",
+                  "text": "A famous cave featuring prehistoric rock paintings, including the well-known Indalo figure.",
+                  "category": "historical",
+                  "coords": [
+                        -2.09595,
+                        37.675498
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación de la Cultura del Agua, El Alporchón",
+                  "text": "A museum dedicated to the traditional water culture and irrigation systems of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -2.097397,
+                        37.692742
+                  ]
+            },
+            {
+                  "name": "Castillo de Vélez-Blanco",
+                  "text": "A magnificent 16th-century Renaissance castle known for its fine stonework.",
+                  "category": "castle",
+                  "coords": [
+                        -2.098223,
+                        37.690924
+                  ]
+            },
+            {
+                  "name": "Parque Natural Sierra de María-Los Vélez",
+                  "text": "A natural park in Andalusia, notable for its limestone mountains and rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -2.133707,
+                        37.712451
+                  ]
+            },
+            {
+                  "name": "Tratro Munocipal Velez Blanco",
+                  "text": "The municipal theater of Vélez-Blanco, a venue for local performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.094166,
+                        37.690768
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Almacén del Trigo\"",
+                  "text": "A visitor center housed in a former granary, providing information on local culture.",
+                  "category": "museum",
+                  "coords": [
+                        -2.096729,
+                        37.695772
+                  ]
+            },
+            {
+                  "name": "Abrigo de las Colmenas",
+                  "text": "A rock shelter with prehistoric paintings, part of the region's archaeological heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.103976,
+                        37.683231
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Vélez-Blanco", hu: "Vélez-Blanco-i vár", ro: "Castelul Vélez-Blanco", en: "Velez-Blanco Castle" },
@@ -2348,7 +8756,160 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-la-rabida-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-monzon-history-v2",
+    id: "spain-castillo-de-monzon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Monzón",
+                  "text": "Diese historische Burg war einst eine bedeutende Festung des Templerordens.",
+                  "category": "castle",
+                  "coords": [
+                        0.19163,
+                        41.908945
+                  ]
+            },
+            {
+                  "name": "Conservatorio Profesional de Musica Miguel Fleta/ Convento de San Francisco;Conservatorio de Música Profesional Miguel Fleta",
+                  "text": "Ein Kulturzentrum in Monzón, das als Musikkonservatorium und Veranstaltungsort dient.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190156,
+                        41.913119
+                  ]
+            },
+            {
+                  "name": "Auditorio al Aire Libre José Antonio Labordeta.",
+                  "text": "Ein Freiluft-Auditorium, das nach dem spanischen Liedermacher José Antonio Labordeta benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190153,
+                        41.91422
+                  ]
+            },
+            {
+                  "name": "Concatedral de Santa María del Romeral",
+                  "text": "Eine bedeutende romanisch-gotische Konkathedrale im Herzen von Monzón.",
+                  "category": "religious",
+                  "coords": [
+                        0.194382,
+                        41.910079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Monzón",
+                  "text": "Ez a történelmi vár egykor a templomos lovagrend fontos erődítménye volt.",
+                  "category": "castle",
+                  "coords": [
+                        0.19163,
+                        41.908945
+                  ]
+            },
+            {
+                  "name": "Conservatorio Profesional de Musica Miguel Fleta/ Convento de San Francisco;Conservatorio de Música Profesional Miguel Fleta",
+                  "text": "Kulturális központ Monzónban, amely zenekonzervatóriumként és rendezvényhelyszínként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190156,
+                        41.913119
+                  ]
+            },
+            {
+                  "name": "Auditorio al Aire Libre José Antonio Labordeta.",
+                  "text": "Egy szabadtéri auditórium, amelyet José Antonio Labordeta spanyol énekes-dalszerzőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190153,
+                        41.91422
+                  ]
+            },
+            {
+                  "name": "Concatedral de Santa María del Romeral",
+                  "text": "Egy jelentős román-gótikus stílusú társszékesegyház Monzón szívében.",
+                  "category": "religious",
+                  "coords": [
+                        0.194382,
+                        41.910079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Monzón",
+                  "text": "Acest castel istoric a fost odinioară o fortăreață importantă a ordinului templier.",
+                  "category": "castle",
+                  "coords": [
+                        0.19163,
+                        41.908945
+                  ]
+            },
+            {
+                  "name": "Conservatorio Profesional de Musica Miguel Fleta/ Convento de San Francisco;Conservatorio de Música Profesional Miguel Fleta",
+                  "text": "Un centru cultural din Monzón care servește drept conservator de muzică și loc de desfășurare a evenimentelor.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190156,
+                        41.913119
+                  ]
+            },
+            {
+                  "name": "Auditorio al Aire Libre José Antonio Labordeta.",
+                  "text": "Un auditoriu în aer liber numit după compozitorul spaniol José Antonio Labordeta.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190153,
+                        41.91422
+                  ]
+            },
+            {
+                  "name": "Concatedral de Santa María del Romeral",
+                  "text": "O importantă concatedrală în stil romanic-gotic situată în inima orașului Monzón.",
+                  "category": "religious",
+                  "coords": [
+                        0.194382,
+                        41.910079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Monzón",
+                  "text": "This historic castle was once an important fortress of the Knights Templar.",
+                  "category": "castle",
+                  "coords": [
+                        0.19163,
+                        41.908945
+                  ]
+            },
+            {
+                  "name": "Conservatorio Profesional de Musica Miguel Fleta/ Convento de San Francisco;Conservatorio de Música Profesional Miguel Fleta",
+                  "text": "A cultural center in Monzón serving as a music conservatory and event venue.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190156,
+                        41.913119
+                  ]
+            },
+            {
+                  "name": "Auditorio al Aire Libre José Antonio Labordeta.",
+                  "text": "An open-air auditorium named after the Spanish singer-songwriter José Antonio Labordeta.",
+                  "category": "cultural",
+                  "coords": [
+                        0.190153,
+                        41.91422
+                  ]
+            },
+            {
+                  "name": "Concatedral de Santa María del Romeral",
+                  "text": "A significant Romanesque-Gothic co-cathedral located in the heart of Monzón.",
+                  "category": "religious",
+                  "coords": [
+                        0.194382,
+                        41.910079
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Monzón", hu: "Monzón-i vár", ro: "Castelul Monzón", en: "Monzon Castle" },
@@ -2393,7 +8954,88 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-monzon-history-v2.webp",
   },
   {
-    id: "spain-ruinas-de-labitolosa-history-v2",
+    id: "spain-ruinas-de-labitolosa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Panillo",
+                  "text": "Historische Burgruine in der Nähe von Panillo in der Provinz Huesca.",
+                  "category": "castle",
+                  "coords": [
+                        0.286934,
+                        42.248371
+                  ]
+            },
+            {
+                  "name": "Templo Budista Dag Shang Kagyu",
+                  "text": "Ein bedeutendes tibetisch-buddhistisches Zentrum in der Provinz Huesca.",
+                  "category": "religious",
+                  "coords": [
+                        0.29298,
+                        42.246854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Panillo",
+                  "text": "Történelmi várrom Panillo közelében, Huesca tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        0.286934,
+                        42.248371
+                  ]
+            },
+            {
+                  "name": "Templo Budista Dag Shang Kagyu",
+                  "text": "Jelentős tibeti buddhista központ Huesca tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        0.29298,
+                        42.246854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Panillo",
+                  "text": "Ruinele unui castel istoric situat lângă Panillo în provincia Huesca.",
+                  "category": "castle",
+                  "coords": [
+                        0.286934,
+                        42.248371
+                  ]
+            },
+            {
+                  "name": "Templo Budista Dag Shang Kagyu",
+                  "text": "Un centru budist tibetan important situat în provincia Huesca.",
+                  "category": "religious",
+                  "coords": [
+                        0.29298,
+                        42.246854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Panillo",
+                  "text": "Historical castle ruins located near Panillo in the province of Huesca.",
+                  "category": "castle",
+                  "coords": [
+                        0.286934,
+                        42.248371
+                  ]
+            },
+            {
+                  "name": "Templo Budista Dag Shang Kagyu",
+                  "text": "An important Tibetan Buddhist center located in the province of Huesca.",
+                  "category": "religious",
+                  "coords": [
+                        0.29298,
+                        42.246854
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Ruinen von Labitolosa", hu: "Labitolosa romjai", ro: "Ruinele Labitolosa", en: "Ruins of Labitolosa" },
@@ -2483,7 +9125,196 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-alcazar-de-jerez-history-v2.webp",
   },
   {
-    id: "spain-monasterio-de-santes-creus-history-v2",
+    id: "spain-monasterio-de-santes-creus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barraca de la Capona",
+                  "text": "Eine traditionelle Trockensteinhütte in der Nähe von Santes Creus, Teil einer historischen Route.",
+                  "category": "historical",
+                  "coords": [
+                        1.345368,
+                        41.358262
+                  ]
+            },
+            {
+                  "name": "Barraca de l'Augé",
+                  "text": "Ein Beispiel für die ländliche Trockensteinarchitektur in der Region Katalonien.",
+                  "category": "historical",
+                  "coords": [
+                        1.343323,
+                        41.356838
+                  ]
+            },
+            {
+                  "name": "barraca 966",
+                  "text": "Eine nummerierte Trockensteinhütte, die die historische landwirtschaftliche Nutzung der Gegend zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        1.340229,
+                        41.356026
+                  ]
+            },
+            {
+                  "name": "Barraca de doble estanca",
+                  "text": "Eine archäologische Stätte mit einer Doppel-Trockensteinhütte in der Nähe des Klosters Santes Creus.",
+                  "category": "historical",
+                  "coords": [
+                        1.346017,
+                        41.360621
+                  ]
+            },
+            {
+                  "name": "Barraques de Cal Grauet 895",
+                  "text": "Historische landwirtschaftliche Trockensteinbauten in der katalanischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        1.34336,
+                        41.35822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barraca de la Capona",
+                  "text": "Hagyományos szárazon rakott kőkunyhó Santes Creus közelében, egy történelmi útvonal része.",
+                  "category": "historical",
+                  "coords": [
+                        1.345368,
+                        41.358262
+                  ]
+            },
+            {
+                  "name": "Barraca de l'Augé",
+                  "text": "Példa a katalóniai régió vidéki, szárazon rakott kőépítészetére.",
+                  "category": "historical",
+                  "coords": [
+                        1.343323,
+                        41.356838
+                  ]
+            },
+            {
+                  "name": "barraca 966",
+                  "text": "Számozott kőkunyhó, amely a terület történelmi mezőgazdasági hasznosítását mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        1.340229,
+                        41.356026
+                  ]
+            },
+            {
+                  "name": "Barraca de doble estanca",
+                  "text": "Régészeti helyszín kettős szárazkő kunyhóval a Santes Creus kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.346017,
+                        41.360621
+                  ]
+            },
+            {
+                  "name": "Barraques de Cal Grauet 895",
+                  "text": "Történelmi mezőgazdasági szárazkő építmények a katalán tájon.",
+                  "category": "historical",
+                  "coords": [
+                        1.34336,
+                        41.35822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barraca de la Capona",
+                  "text": "O colibă tradițională din piatră uscată lângă Santes Creus, parte a unui traseu istoric.",
+                  "category": "historical",
+                  "coords": [
+                        1.345368,
+                        41.358262
+                  ]
+            },
+            {
+                  "name": "Barraca de l'Augé",
+                  "text": "Un exemplu de arhitectură rurală din piatră uscată în regiunea Cataloniei.",
+                  "category": "historical",
+                  "coords": [
+                        1.343323,
+                        41.356838
+                  ]
+            },
+            {
+                  "name": "barraca 966",
+                  "text": "O colibă din piatră uscată numerotată, ce ilustrează utilizarea agricolă istorică a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        1.340229,
+                        41.356026
+                  ]
+            },
+            {
+                  "name": "Barraca de doble estanca",
+                  "text": "Un sit arheologic ce cuprinde o colibă dublă din piatră uscată lângă mănăstirea Santes Creus.",
+                  "category": "historical",
+                  "coords": [
+                        1.346017,
+                        41.360621
+                  ]
+            },
+            {
+                  "name": "Barraques de Cal Grauet 895",
+                  "text": "Construcții agricole istorice din piatră uscată în peisajul catalan.",
+                  "category": "historical",
+                  "coords": [
+                        1.34336,
+                        41.35822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barraca de la Capona",
+                  "text": "A traditional dry stone hut near Santes Creus, part of a historical route.",
+                  "category": "historical",
+                  "coords": [
+                        1.345368,
+                        41.358262
+                  ]
+            },
+            {
+                  "name": "Barraca de l'Augé",
+                  "text": "An example of rural dry stone architecture in the Catalonia region.",
+                  "category": "historical",
+                  "coords": [
+                        1.343323,
+                        41.356838
+                  ]
+            },
+            {
+                  "name": "barraca 966",
+                  "text": "A numbered dry stone hut showcasing the historical agricultural use of the area.",
+                  "category": "historical",
+                  "coords": [
+                        1.340229,
+                        41.356026
+                  ]
+            },
+            {
+                  "name": "Barraca de doble estanca",
+                  "text": "An archaeological site featuring a double dry stone hut near the Santes Creus monastery.",
+                  "category": "historical",
+                  "coords": [
+                        1.346017,
+                        41.360621
+                  ]
+            },
+            {
+                  "name": "Barraques de Cal Grauet 895",
+                  "text": "Historical agricultural dry stone constructions in the Catalan countryside.",
+                  "category": "historical",
+                  "coords": [
+                        1.34336,
+                        41.35822
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ES",
     name: { de: "Kloster Santes Creus", hu: "Santes Creus kolostor", ro: "Mănăstirea Santes Creus", en: "Santes Creus Monastery" },
@@ -2528,7 +9359,232 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-santes-creus-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-almodovar-del-rio-history-v2",
+    id: "spain-castillo-de-almodovar-del-rio-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Almodóvar del Río",
+                  "text": "Eine beeindruckende mittelalterliche Burg in Andalusien, die auf römischen Fundamenten errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -5.023769,
+                        37.807411
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Vega del Guadalquivir\"",
+                  "text": "Ein Besucherzentrum, das Informationen über die Natur und Kultur des Guadalquivir-Tals bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009487,
+                        37.814231
+                  ]
+            },
+            {
+                  "name": "Mirador de Pairejas",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.020835,
+                        37.807461
+                  ]
+            },
+            {
+                  "name": "Mirador del Rivazo",
+                  "text": "Ein lokaler Aussichtspunkt mit schöner Aussicht auf die Region.",
+                  "category": "natural",
+                  "coords": [
+                        -5.018479,
+                        37.809851
+                  ]
+            },
+            {
+                  "name": "Romanishe flusshaven",
+                  "text": "Überreste eines antiken römischen Flusshafens am Guadalquivir in der Nähe der Burg.",
+                  "category": "historical",
+                  "coords": [
+                        -5.021105,
+                        37.805735
+                  ]
+            },
+            {
+                  "name": "Casa Señorial del Ateneo",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Almodóvar del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -5.019922,
+                        37.80923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Almodóvar del Río",
+                  "text": "Lenyűgöző középkori vár Andalúziában, amely római alapokra épült.",
+                  "category": "castle",
+                  "coords": [
+                        -5.023769,
+                        37.807411
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Vega del Guadalquivir\"",
+                  "text": "Látogatóközpont, amely információkat nyújt a Guadalquivir-völgy természetéről és kultúrájáról.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009487,
+                        37.814231
+                  ]
+            },
+            {
+                  "name": "Mirador de Pairejas",
+                  "text": "Kilátópont, amely tágas kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.020835,
+                        37.807461
+                  ]
+            },
+            {
+                  "name": "Mirador del Rivazo",
+                  "text": "Helyi kilátóhely, ahonnan szép kilátás nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.018479,
+                        37.809851
+                  ]
+            },
+            {
+                  "name": "Puerto Romano",
+                  "text": "Egy ókori római folyami kikötő maradványai a Guadalquivir partján, a vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.021105,
+                        37.805735
+                  ]
+            },
+            {
+                  "name": "Casa Señorial del Ateneo",
+                  "text": "Történelmi kúria és nemesi épület Almodóvar del Río településen.",
+                  "category": "historical",
+                  "coords": [
+                        -5.019922,
+                        37.80923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Almodóvar del Río",
+                  "text": "Un castel medieval impresionant din Andaluzia, construit pe fundații romane.",
+                  "category": "castle",
+                  "coords": [
+                        -5.023769,
+                        37.807411
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Vega del Guadalquivir\"",
+                  "text": "Un centru de vizitatori care oferă informații despre natura și cultura văii Guadalquivir.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009487,
+                        37.814231
+                  ]
+            },
+            {
+                  "name": "Mirador de Pairejas",
+                  "text": "Un punct de belvedere care oferă o vedere largă asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -5.020835,
+                        37.807461
+                  ]
+            },
+            {
+                  "name": "Mirador del Rivazo",
+                  "text": "Un punct de belvedere local cu vederi frumoase asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -5.018479,
+                        37.809851
+                  ]
+            },
+            {
+                  "name": "Puerto Romano",
+                  "text": "Rămășițele unui fost port fluvial roman de pe râul Guadalquivir, situat lângă castel.",
+                  "category": "historical",
+                  "coords": [
+                        -5.021105,
+                        37.805735
+                  ]
+            },
+            {
+                  "name": "Casa Señorial del Ateneo",
+                  "text": "O casă boierească istorică situată în localitatea Almodóvar del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -5.019922,
+                        37.80923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Almodóvar del Río",
+                  "text": "An impressive medieval castle in Andalusia built on Roman foundations.",
+                  "category": "castle",
+                  "coords": [
+                        -5.023769,
+                        37.807411
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes \"Vega del Guadalquivir\"",
+                  "text": "A visitor center providing information about the nature and culture of the Guadalquivir valley.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009487,
+                        37.814231
+                  ]
+            },
+            {
+                  "name": "Mirador de Pairejas",
+                  "text": "A viewpoint offering broad views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -5.020835,
+                        37.807461
+                  ]
+            },
+            {
+                  "name": "Mirador del Rivazo",
+                  "text": "A local viewpoint offering scenic views of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -5.018479,
+                        37.809851
+                  ]
+            },
+            {
+                  "name": "Roman Empire river port",
+                  "text": "Remains of an ancient Roman river port on the Guadalquivir, located near the castle.",
+                  "category": "historical",
+                  "coords": [
+                        -5.021105,
+                        37.805735
+                  ]
+            },
+            {
+                  "name": "Casa Señorial del Ateneo",
+                  "text": "A historic manor house and noble building located in Almodóvar del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -5.019922,
+                        37.80923
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Almodóvar del Río", hu: "Almodóvar del Río-i vár", ro: "Castelul Almodóvar del Río", en: "Almodovar del Rio Castle" },
@@ -2573,7 +9629,88 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-almodovar-del-rio-history-v2.webp",
   },
   {
-    id: "spain-ruinas-de-munigua-history-v2",
+    id: "spain-ruinas-de-munigua-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruinas del Castillo de los Duques de Alba",
+                  "text": "Die Ruinen einer Festungsanlage bei Munigua.",
+                  "category": "castle",
+                  "coords": [
+                        -5.693378,
+                        37.624753
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "Eine Kirche, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -5.671535,
+                        37.614716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruinas del Castillo de los Duques de Alba",
+                  "text": "Egy erődítmény romjai Munigua közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -5.693378,
+                        37.624753
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        -5.671535,
+                        37.614716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinas del Castillo de los Duques de Alba",
+                  "text": "Ruinele unei fortificații situate lângă Munigua.",
+                  "category": "castle",
+                  "coords": [
+                        -5.693378,
+                        37.624753
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -5.671535,
+                        37.614716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruinas del Castillo de los Duques de Alba",
+                  "text": "The ruins of a fortress complex near Munigua.",
+                  "category": "castle",
+                  "coords": [
+                        -5.693378,
+                        37.624753
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "A church dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -5.671535,
+                        37.614716
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ES",
     name: { de: "Ruinen von Munigua", hu: "Munigua romjai", ro: "Ruinele Munigua", en: "Ruins of Munigua" },
@@ -2663,7 +9800,268 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-palacio-de-pedralbes-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-baena-history-v2",
+    id: "spain-castillo-de-baena-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ciudad Ibero-Romana",
+                  "text": "Eine archäologische Stätte, die Überreste einer bedeutenden iberischen und römischen Siedlung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -4.313563,
+                        37.595002
+                  ]
+            },
+            {
+                  "name": "Castillo de Baena",
+                  "text": "Eine historische Festung, die den höchstgelegenen Teil der Stadt Baena krönt.",
+                  "category": "castle",
+                  "coords": [
+                        -4.326775,
+                        37.613498
+                  ]
+            },
+            {
+                  "name": "Museo del Olivar y el Aceite",
+                  "text": "Ein Museum in Baena, das der Geschichte und Produktion von Olivenöl gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.324817,
+                        37.616264
+                  ]
+            },
+            {
+                  "name": "Museo de Semana Santa",
+                  "text": "Dieses Museum widmet sich den Traditionen und der Kunst der Karwoche in Baena.",
+                  "category": "museum",
+                  "coords": [
+                        -4.328763,
+                        37.614322
+                  ]
+            },
+            {
+                  "name": "Teatro Liceo",
+                  "text": "Ein bedeutendes Kulturzentrum in Baena, das Raum für Theater- und Musikaufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.325777,
+                        37.614693
+                  ]
+            },
+            {
+                  "name": "Parque Ramón Santaella",
+                  "text": "Ein öffentlicher Park in Baena, der einen grünen Raum zur Entspannung und Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        -4.320755,
+                        37.617079
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Eine bedeutende Kirche in Baena, die für ihre historische Architektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -4.321757,
+                        37.615674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ciudad Ibero-Romana",
+                  "text": "Régészeti lelőhely, amely egy jelentős ibér és római település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -4.313563,
+                        37.595002
+                  ]
+            },
+            {
+                  "name": "Castillo de Baena",
+                  "text": "Történelmi erődítmény, amely Baena városának legmagasabb pontján magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        -4.326775,
+                        37.613498
+                  ]
+            },
+            {
+                  "name": "Museo del Olivar y el Aceite",
+                  "text": "A baenai múzeum az olajbogyó-termesztés és az olívaolaj-készítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.324817,
+                        37.616264
+                  ]
+            },
+            {
+                  "name": "Museo de Semana Santa",
+                  "text": "Ez a múzeum a baenai nagyhét hagyományait és művészeti emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.328763,
+                        37.614322
+                  ]
+            },
+            {
+                  "name": "Teatro Liceo",
+                  "text": "Baena jelentős kulturális központja, amely színházi és zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.325777,
+                        37.614693
+                  ]
+            },
+            {
+                  "name": "Parque Ramón Santaella",
+                  "text": "Közpark Baenában, amely kellemes zöld környezetet biztosít a pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        -4.320755,
+                        37.617079
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Baena egyik jelentős temploma, amely történelmi építészetéről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.321757,
+                        37.615674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ciudad Ibero-Romana",
+                  "text": "Un sit arheologic ce păstrează vestigiile unei importante așezări iberice și romane.",
+                  "category": "historical",
+                  "coords": [
+                        -4.313563,
+                        37.595002
+                  ]
+            },
+            {
+                  "name": "Castillo de Baena",
+                  "text": "O fortăreață istorică situată în cel mai înalt punct al orașului Baena.",
+                  "category": "castle",
+                  "coords": [
+                        -4.326775,
+                        37.613498
+                  ]
+            },
+            {
+                  "name": "Museo del Olivar y el Aceite",
+                  "text": "Un muzeu din Baena dedicat istoriei și producției tradiționale de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        -4.324817,
+                        37.616264
+                  ]
+            },
+            {
+                  "name": "Museo de Semana Santa",
+                  "text": "Acest muzeu este dedicat tradițiilor și artei specifice Săptămânii Mari din Baena.",
+                  "category": "museum",
+                  "coords": [
+                        -4.328763,
+                        37.614322
+                  ]
+            },
+            {
+                  "name": "Teatro Liceo",
+                  "text": "Un centru cultural important din Baena care găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.325777,
+                        37.614693
+                  ]
+            },
+            {
+                  "name": "Parque Ramón Santaella",
+                  "text": "Un parc public din Baena ce oferă un spațiu verde relaxant pentru localnici și vizitatori.",
+                  "category": "park",
+                  "coords": [
+                        -4.320755,
+                        37.617079
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "O biserică importantă din Baena, cunoscută pentru arhitectura sa istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -4.321757,
+                        37.615674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ciudad Ibero-Romana",
+                  "text": "An archaeological site featuring the remains of an ancient Iberian and Roman settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -4.313563,
+                        37.595002
+                  ]
+            },
+            {
+                  "name": "Castillo de Baena",
+                  "text": "A historic fortress situated at the highest point of the town of Baena.",
+                  "category": "castle",
+                  "coords": [
+                        -4.326775,
+                        37.613498
+                  ]
+            },
+            {
+                  "name": "Museo del Olivar y el Aceite",
+                  "text": "A museum in Baena dedicated to the history and production of olive oil.",
+                  "category": "museum",
+                  "coords": [
+                        -4.324817,
+                        37.616264
+                  ]
+            },
+            {
+                  "name": "Museo de Semana Santa",
+                  "text": "A museum dedicated to the rich traditions and art of Holy Week in Baena.",
+                  "category": "museum",
+                  "coords": [
+                        -4.328763,
+                        37.614322
+                  ]
+            },
+            {
+                  "name": "Teatro Liceo",
+                  "text": "A key cultural venue in Baena hosting theatrical performances and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.325777,
+                        37.614693
+                  ]
+            },
+            {
+                  "name": "Parque Ramón Santaella",
+                  "text": "A public park in Baena providing a green space for leisure and relaxation.",
+                  "category": "park",
+                  "coords": [
+                        -4.320755,
+                        37.617079
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "A significant church in Baena recognized for its historical architectural features.",
+                  "category": "historical",
+                  "coords": [
+                        -4.321757,
+                        37.615674
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Baena", hu: "Baena-i vár", ro: "Castelul Baena", en: "Baena Castle" },
@@ -2708,7 +10106,232 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-castillo-de-baena-history-v2.webp",
   },
   {
-    id: "spain-monasterio-de-santa-maria-de-guadalupe-history-v2",
+    id: "spain-monasterio-de-santa-maria-de-guadalupe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Granja de Mirabel",
+                  "text": "Ein ehemaliges Sommerhaus der Hieronymiten-Mönche in der Nähe von Guadalupe.",
+                  "category": "religious",
+                  "coords": [
+                        -5.357781,
+                        39.436232
+                  ]
+            },
+            {
+                  "name": "Galería de captación de agua",
+                  "text": "Eine historische Anlage zur Wassergewinnung, die Teil des hydraulischen Erbes ist.",
+                  "category": "historical",
+                  "coords": [
+                        -5.359811,
+                        39.464394
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y de Congresos Guadalupe",
+                  "text": "Ein modernes Zentrum für kulturelle Veranstaltungen und Kongresse in Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.325394,
+                        39.452794
+                  ]
+            },
+            {
+                  "name": "Minas del Arca del Agua",
+                  "text": "Historische Bergwerke und Wasserleitungen, die zur Wasserversorgung des Klosters dienten.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369272,
+                        39.462119
+                  ]
+            },
+            {
+                  "name": "Arco del Chorro Gordo",
+                  "text": "Ein historischer Bogen in Guadalupe, der als Teil der lokalen Architektur gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.328125,
+                        39.451857
+                  ]
+            },
+            {
+                  "name": "Casa de la Buena Cristiana",
+                  "text": "Ein historisches Gebäude in Guadalupe, bekannt für seine traditionelle Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        -5.327066,
+                        39.453146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Granja de Mirabel",
+                  "text": "A guadalupei jeromos szerzetesek egykori nyári rezidenciája.",
+                  "category": "religious",
+                  "coords": [
+                        -5.357781,
+                        39.436232
+                  ]
+            },
+            {
+                  "name": "Galería de captación de agua",
+                  "text": "Történelmi vízgyűjtő rendszer, amely a helyi mérnöki örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        -5.359811,
+                        39.464394
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y de Congresos Guadalupe",
+                  "text": "Modern kulturális és kongresszusi központ Guadalupe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.325394,
+                        39.452794
+                  ]
+            },
+            {
+                  "name": "Minas del Arca del Agua",
+                  "text": "Történelmi bányák és vízvezetékek, amelyek a kolostor vízellátását biztosították.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369272,
+                        39.462119
+                  ]
+            },
+            {
+                  "name": "Arco del Chorro Gordo",
+                  "text": "Történelmi boltív Guadalupe-ban, a helyi építészet része.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.328125,
+                        39.451857
+                  ]
+            },
+            {
+                  "name": "Casa de la Buena Cristiana",
+                  "text": "Történelmi épület Guadalupe-ban, amely hagyományos építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -5.327066,
+                        39.453146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Granja de Mirabel",
+                  "text": "O fostă reședință de vară a călugărilor ieroniți de lângă Guadalupe.",
+                  "category": "religious",
+                  "coords": [
+                        -5.357781,
+                        39.436232
+                  ]
+            },
+            {
+                  "name": "Galería de captación de agua",
+                  "text": "O structură istorică pentru captarea apei, parte a moștenirii hidraulice locale.",
+                  "category": "historical",
+                  "coords": [
+                        -5.359811,
+                        39.464394
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y de Congresos Guadalupe",
+                  "text": "Un centru modern pentru evenimente culturale și congrese în Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.325394,
+                        39.452794
+                  ]
+            },
+            {
+                  "name": "Minas del Arca del Agua",
+                  "text": "Mine istorice și conducte de apă care deserveau mănăstirea.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369272,
+                        39.462119
+                  ]
+            },
+            {
+                  "name": "Arco del Chorro Gordo",
+                  "text": "Un arc istoric din Guadalupe, considerat parte a arhitecturii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.328125,
+                        39.451857
+                  ]
+            },
+            {
+                  "name": "Casa de la Buena Cristiana",
+                  "text": "O clădire istorică din Guadalupe, cunoscută pentru arhitectura sa tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        -5.327066,
+                        39.453146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Granja de Mirabel",
+                  "text": "A former summer residence of the Hieronymite monks near Guadalupe.",
+                  "category": "religious",
+                  "coords": [
+                        -5.357781,
+                        39.436232
+                  ]
+            },
+            {
+                  "name": "Galería de captación de agua",
+                  "text": "A historical water collection structure, part of the local hydraulic heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -5.359811,
+                        39.464394
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y de Congresos Guadalupe",
+                  "text": "A modern center for cultural events and congresses in Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.325394,
+                        39.452794
+                  ]
+            },
+            {
+                  "name": "Minas del Arca del Agua",
+                  "text": "Historic mines and water conduits that served the monastery's water supply.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369272,
+                        39.462119
+                  ]
+            },
+            {
+                  "name": "Arco del Chorro Gordo",
+                  "text": "A historic arch in Guadalupe, considered part of the local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.328125,
+                        39.451857
+                  ]
+            },
+            {
+                  "name": "Casa de la Buena Cristiana",
+                  "text": "A historic building in Guadalupe known for its traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -5.327066,
+                        39.453146
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ES",
     name: { de: "Kloster Santa María de Guadalupe", hu: "Santa María de Guadalupe kolostor", ro: "Mănăstirea Santa María de Guadalupe", en: "Monastery of Santa Maria de Guadalupe" },
@@ -2753,7 +10376,124 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     image: "/poi-images/spain-monasterio-de-santa-maria-de-guadalupe-history-v2.webp",
   },
   {
-    id: "spain-castillo-de-gormaz-history-v2",
+    id: "spain-castillo-de-gormaz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Gormaz",
+                  "text": "Eine der größten mittelalterlichen Festungsanlagen in Europa, gelegen auf einem Hügel.",
+                  "category": "castle",
+                  "coords": [
+                        -3.008631,
+                        41.493259
+                  ]
+            },
+            {
+                  "name": "Alcazaba",
+                  "text": "Der befestigte Kern der Burg von Gormaz.",
+                  "category": "castle",
+                  "coords": [
+                        -3.007262,
+                        41.493802
+                  ]
+            },
+            {
+                  "name": "Ermita de San Miguel",
+                  "text": "Eine romanische Einsiedelei am Fuße der Burg von Gormaz, bekannt für ihre Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        -3.010246,
+                        41.491009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Gormaz",
+                  "text": "Európa egyik legnagyobb középkori erődítménye, amely egy dombtetőn fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        -3.008631,
+                        41.493259
+                  ]
+            },
+            {
+                  "name": "Alcazaba",
+                  "text": "A gormazi vár erődített magja.",
+                  "category": "castle",
+                  "coords": [
+                        -3.007262,
+                        41.493802
+                  ]
+            },
+            {
+                  "name": "Ermita de San Miguel",
+                  "text": "Román stílusú remetetemplom a gormazi vár lábánál, amely falfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -3.010246,
+                        41.491009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Gormaz",
+                  "text": "Una dintre cele mai mari fortificații medievale din Europa, situată pe un deal.",
+                  "category": "castle",
+                  "coords": [
+                        -3.008631,
+                        41.493259
+                  ]
+            },
+            {
+                  "name": "Alcazaba",
+                  "text": "Nucleul fortificat al castelului din Gormaz.",
+                  "category": "castle",
+                  "coords": [
+                        -3.007262,
+                        41.493802
+                  ]
+            },
+            {
+                  "name": "Ermita de San Miguel",
+                  "text": "O ermită romanică la poalele castelului Gormaz, cunoscută pentru picturile sale murale.",
+                  "category": "religious",
+                  "coords": [
+                        -3.010246,
+                        41.491009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Gormaz",
+                  "text": "One of the largest medieval fortresses in Europe, situated on a hilltop.",
+                  "category": "castle",
+                  "coords": [
+                        -3.008631,
+                        41.493259
+                  ]
+            },
+            {
+                  "name": "Alcazaba",
+                  "text": "The fortified core of the Gormaz castle.",
+                  "category": "castle",
+                  "coords": [
+                        -3.007262,
+                        41.493802
+                  ]
+            },
+            {
+                  "name": "Ermita de San Miguel",
+                  "text": "A Romanesque hermitage at the foot of Gormaz Castle, known for its murals.",
+                  "category": "religious",
+                  "coords": [
+                        -3.010246,
+                        41.491009
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ES",
     name: { de: "Burg Gormaz", hu: "Gormaz-i vár", ro: "Castelul Gormaz", en: "Gormaz Castle" },

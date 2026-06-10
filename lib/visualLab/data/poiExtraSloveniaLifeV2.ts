@@ -453,7 +453,268 @@ imageHint: "Rakov Skocjan natural stone bridge and river",
     },
     image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp",
 },  {
-    id: "slovenia-kocevski-rog-life-v2",
+    id: "slovenia-kocevski-rog-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Partizanska bolnica Jelendol",
+                  "text": "Ein ehemaliges geheimes Partisanenkrankenhaus aus dem Zweiten Weltkrieg, das als Museum erhalten ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.033283,
+                        45.706555
+                  ]
+            },
+            {
+                  "name": "Baza 20",
+                  "text": "Ein ehemaliges geheimes Hauptquartier der slowenischen Partisanenführung im Zweiten Weltkrieg, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        15.04431,
+                        45.699066
+                  ]
+            },
+            {
+                  "name": "Kočevski rog – Baza 20",
+                  "text": "Ein historischer Barackenkomplex in Kočevski Rog, der als Zentrum der slowenischen Widerstandsbewegung diente.",
+                  "category": "museum",
+                  "coords": [
+                        15.048392,
+                        45.697357
+                  ]
+            },
+            {
+                  "name": "Jama v Rugarskih klancih",
+                  "text": "Eine archäologische Stätte in einer Höhle in der Region Kočevski Rog.",
+                  "category": "historical",
+                  "coords": [
+                        15.010382,
+                        45.692496
+                  ]
+            },
+            {
+                  "name": "Grobišče pod Macesnovo Gorico",
+                  "text": "Eine Stätte von historischer Bedeutung und archäologischem Interesse in der Gegend von Kočevski Rog.",
+                  "category": "historical",
+                  "coords": [
+                        14.969205,
+                        45.669759
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Rog",
+                  "text": "Ein Waldnaturschutzgebiet in Kočevski Rog, das unberührte Wälder und die lokale Artenvielfalt bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        15.005711,
+                        45.663078
+                  ]
+            },
+            {
+                  "name": "Pragozd Rajhenavski Rog",
+                  "text": "Ein Urwaldreservat in Slowenien, bekannt für seine jahrhundertealten Bäume und seinen unberührten Zustand.",
+                  "category": "natural",
+                  "coords": [
+                        15.00719,
+                        45.663144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Partizanska bolnica Jelendol",
+                  "text": "Egykori titkos partizánkórház a második világháborúból, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        15.033283,
+                        45.706555
+                  ]
+            },
+            {
+                  "name": "Baza 20",
+                  "text": "A szlovén partizánvezetés egykori titkos főhadiszállása a második világháború alatt, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.04431,
+                        45.699066
+                  ]
+            },
+            {
+                  "name": "Kočevski rog – Baza 20",
+                  "text": "Történelmi barakk-komplexum Kočevski Rogban, amely a szlovén ellenállási mozgalom központjaként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        15.048392,
+                        45.697357
+                  ]
+            },
+            {
+                  "name": "Jama v Rugarskih klancih",
+                  "text": "A Kočevski Rog régió egyik barlangjában található régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        15.010382,
+                        45.692496
+                  ]
+            },
+            {
+                  "name": "Grobišče pod Macesnovo Gorico",
+                  "text": "Történelmi jelentőségű és régészeti érdekességű helyszín a Kočevski Rog területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.969205,
+                        45.669759
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Rog",
+                  "text": "Erdei természetvédelmi terület Kočevski Rogban, amely az érintetlen erdőt és a helyi biodiverzitást őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        15.005711,
+                        45.663078
+                  ]
+            },
+            {
+                  "name": "Pragozd Rajhenavski Rog",
+                  "text": "Őserdő-rezervátum Szlovéniában, amely évszázados fáiról és érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.00719,
+                        45.663144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Partizanska bolnica Jelendol",
+                  "text": "Un fost spital partizan clandestin din al Doilea Război Mondial, păstrat ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        15.033283,
+                        45.706555
+                  ]
+            },
+            {
+                  "name": "Baza 20",
+                  "text": "Un fost cartier general secret al conducerii partizanilor sloveni în timpul celui de-al Doilea Război Mondial, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        15.04431,
+                        45.699066
+                  ]
+            },
+            {
+                  "name": "Kočevski rog – Baza 20",
+                  "text": "Un complex istoric de barăci din Kočevski Rog care a servit drept centru al mișcării de rezistență slovene.",
+                  "category": "museum",
+                  "coords": [
+                        15.048392,
+                        45.697357
+                  ]
+            },
+            {
+                  "name": "Jama v Rugarskih klancih",
+                  "text": "Un sit arheologic situat într-o peșteră din regiunea Kočevski Rog.",
+                  "category": "historical",
+                  "coords": [
+                        15.010382,
+                        45.692496
+                  ]
+            },
+            {
+                  "name": "Grobišče pod Macesnovo Gorico",
+                  "text": "Un sit cu semnificație istorică și interes arheologic din zona Kočevski Rog.",
+                  "category": "historical",
+                  "coords": [
+                        14.969205,
+                        45.669759
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Rog",
+                  "text": "O rezervație naturală forestieră din Kočevski Rog care conservă pădurea virgină și biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        15.005711,
+                        45.663078
+                  ]
+            },
+            {
+                  "name": "Pragozd Rajhenavski Rog",
+                  "text": "O rezervație de pădure virgină din Slovenia, cunoscută pentru arborii săi seculari și starea sa naturală neatinsă.",
+                  "category": "natural",
+                  "coords": [
+                        15.00719,
+                        45.663144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Partisan hospital Jelendol",
+                  "text": "A former clandestine WWII partisan hospital preserved as a museum in the Kočevski Rog forests.",
+                  "category": "museum",
+                  "coords": [
+                        15.033283,
+                        45.706555
+                  ]
+            },
+            {
+                  "name": "Base 20",
+                  "text": "A former secret headquarters of the Slovenian partisan leadership during WWII, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        15.04431,
+                        45.699066
+                  ]
+            },
+            {
+                  "name": "Kočevski rog – Baza 20",
+                  "text": "A historic complex of barracks in Kočevski Rog that served as the center of the Slovenian resistance movement.",
+                  "category": "museum",
+                  "coords": [
+                        15.048392,
+                        45.697357
+                  ]
+            },
+            {
+                  "name": "Jama v Rugarskih klancih",
+                  "text": "An archaeological site located in a cave within the Kočevski Rog region.",
+                  "category": "historical",
+                  "coords": [
+                        15.010382,
+                        45.692496
+                  ]
+            },
+            {
+                  "name": "Grobišče pod Macesnovo Gorico",
+                  "text": "A site of historical significance and archaeological interest in the Kočevski Rog area.",
+                  "category": "historical",
+                  "coords": [
+                        14.969205,
+                        45.669759
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Rog",
+                  "text": "A forest nature reserve in Kočevski Rog preserving pristine woodland and local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        15.005711,
+                        45.663078
+                  ]
+            },
+            {
+                  "name": "Pragozd Rajhenavski Rog",
+                  "text": "A virgin forest reserve in Slovenia, known for its centuries-old trees and untouched natural state.",
+                  "category": "natural",
+                  "coords": [
+                        15.00719,
+                        45.663144
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "forest",
     name: { de: "Hornwald (Kočevski Rog)", hu: "Kočevski Rog", ro: "Kočevski Rog", en: "Kočevski Rog"},
@@ -498,7 +759,268 @@ imageHint: "Kocevski Rog dense forest with tall trees",
     },
     image: "/poi-images/slovenia-kocevski-rog-life-v2.webp",
 },  {
-    id: "slovenia-lovrenc-lakes-life-v2",
+    id: "slovenia-lovrenc-lakes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regijski park Pohorje",
+                  "text": "Ein großes Naturschutzgebiet in Slowenien, bekannt für seine Wälder und Hochmoore.",
+                  "category": "natural",
+                  "coords": [
+                        15.349427,
+                        46.476313
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Lovrenška Jezera",
+                  "text": "Ein geschütztes Naturreservat bei den Lovrenca-Seen, das für seine Hochmoorlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.29988,
+                        46.489498
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Plešič",
+                  "text": "Ein ruhiges Waldreservat in der Nähe der Lovrenca-Seen, das dem Schutz der lokalen Flora dient.",
+                  "category": "natural",
+                  "coords": [
+                        15.351558,
+                        46.493059
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Škrabarca",
+                  "text": "Ein Naturschutzgebiet im Pohorje-Gebirge, das die unberührte Waldökologie bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        15.352946,
+                        46.457595
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Greben Rogle",
+                  "text": "Ein Waldreservat auf dem Greben Rogle, das Wanderern unberührte Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.344152,
+                        46.459224
+                  ]
+            },
+            {
+                  "name": "Rogla",
+                  "text": "Ein markanter Gipfel und bekanntes Skigebiet im Pohorje-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345948,
+                        46.456485
+                  ]
+            },
+            {
+                  "name": "Pot med krošnjami Pohorje",
+                  "text": "Ein spektakulärer Baumwipfelpfad, der Panoramaausblicke über die Wälder des Pohorje bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.327188,
+                        46.45222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Regijski park Pohorje",
+                  "text": "Nagy kiterjedésű természetvédelmi terület Szlovéniában, amely erdőiről és tőzeglápjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.349427,
+                        46.476313
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Lovrenška Jezera",
+                  "text": "Természetvédelmi terület a Lovrenci-tavaknál, amely tőzeglápos vidékéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        15.29988,
+                        46.489498
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Plešič",
+                  "text": "Csendes erdőrezervátum a Lovrenci-tavak közelében, amely a helyi flóra védelmét szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        15.351558,
+                        46.493059
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Škrabarca",
+                  "text": "Természetvédelmi terület a Pohorje-hegységben, amely az érintetlen erdei ökológiát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        15.352946,
+                        46.457595
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Greben Rogle",
+                  "text": "Erdőrezervátum a Greben Rogle területén, amely érintetlen természetet kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        15.344152,
+                        46.459224
+                  ]
+            },
+            {
+                  "name": "Rogla",
+                  "text": "Jellegzetes hegycsúcs és népszerű síterület a Pohorje-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345948,
+                        46.456485
+                  ]
+            },
+            {
+                  "name": "Pot med krošnjami Pohorje",
+                  "text": "Látványos lombkoronasétány, amely panorámás kilátást nyújt a pohorjei erdőkre.",
+                  "category": "landmark",
+                  "coords": [
+                        15.327188,
+                        46.45222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regijski park Pohorje",
+                  "text": "O mare rezervație naturală protejată din Slovenia, cunoscută pentru pădurile și turbăriile sale.",
+                  "category": "natural",
+                  "coords": [
+                        15.349427,
+                        46.476313
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Lovrenška Jezera",
+                  "text": "O rezervație naturală lângă lacurile Lovrenc, cunoscută pentru peisajul său de mlaștină de turbă.",
+                  "category": "natural",
+                  "coords": [
+                        15.29988,
+                        46.489498
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Plešič",
+                  "text": "O rezervație forestieră liniștită lângă lacurile Lovrenc, dedicată protejării florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        15.351558,
+                        46.493059
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Škrabarca",
+                  "text": "O zonă naturală protejată în munții Pohorje, care conservă ecologia forestieră virgină.",
+                  "category": "natural",
+                  "coords": [
+                        15.352946,
+                        46.457595
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Greben Rogle",
+                  "text": "O rezervație forestieră pe creasta Rogla, oferind drumeților o natură neatinsă.",
+                  "category": "natural",
+                  "coords": [
+                        15.344152,
+                        46.459224
+                  ]
+            },
+            {
+                  "name": "Rogla",
+                  "text": "Un vârf muntos proeminent și o stațiune de schi renumită în munții Pohorje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345948,
+                        46.456485
+                  ]
+            },
+            {
+                  "name": "Pot med krošnjami Pohorje",
+                  "text": "Un traseu spectaculos printre coronamentul arborilor, oferind vederi panoramice asupra pădurilor Pohorje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.327188,
+                        46.45222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regijski park Pohorje",
+                  "text": "A large protected nature reserve in Slovenia known for its forests and peat bogs.",
+                  "category": "natural",
+                  "coords": [
+                        15.349427,
+                        46.476313
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Lovrenška Jezera",
+                  "text": "A protected nature reserve by the Lovrenc Lakes, known for its peat bog landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.29988,
+                        46.489498
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Plešič",
+                  "text": "A quiet forest reserve near the Lovrenc Lakes, dedicated to protecting local flora.",
+                  "category": "natural",
+                  "coords": [
+                        15.351558,
+                        46.493059
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Škrabarca",
+                  "text": "A protected natural area in the Pohorje Mountains, preserving untouched forest ecology.",
+                  "category": "natural",
+                  "coords": [
+                        15.352946,
+                        46.457595
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Greben Rogle",
+                  "text": "A forest reserve on the Greben Rogle, offering hikers untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.344152,
+                        46.459224
+                  ]
+            },
+            {
+                  "name": "Rogla",
+                  "text": "A prominent peak and well-known ski resort in the Pohorje Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        15.345948,
+                        46.456485
+                  ]
+            },
+            {
+                  "name": "Pot med krošnjami Pohorje",
+                  "text": "A spectacular treetop walk offering panoramic views over the Pohorje forests.",
+                  "category": "landmark",
+                  "coords": [
+                        15.327188,
+                        46.45222
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "lake",
     name: { de: "Lovrenc-Seen", hu: "Lovrenci-tavak", ro: "Lacurile Lovrenc", en: "Lovrenc Lakes"},
@@ -543,7 +1065,124 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
     },
     image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp",
 },  {
-    id: "slovenia-ormoz-basins-life-v2",
+    id: "slovenia-ormoz-basins-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ormoške lagune",
+                  "text": "Ein Naturschutzgebiet mit Lagunen, das ein wichtiges Refugium für Vögel ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.192174,
+                        46.38828
+                  ]
+            },
+            {
+                  "name": "Grad Ormož",
+                  "text": "Eine historische Burganlage in Ormož, die heute kulturelle Ausstellungen beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        16.151187,
+                        46.406566
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Koračica",
+                  "text": "Ein geschütztes Waldgebiet mit einer Vielfalt an lokaler Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.225473,
+                        46.407022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ormoške lagune",
+                  "text": "Lagúnákból álló természetvédelmi terület, amely fontos madárrezervátum.",
+                  "category": "natural",
+                  "coords": [
+                        16.192174,
+                        46.38828
+                  ]
+            },
+            {
+                  "name": "Grad Ormož",
+                  "text": "Ormoži történelmi várkastély, amely ma kulturális kiállításoknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        16.151187,
+                        46.406566
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Koračica",
+                  "text": "Védett erdőterület gazdag helyi növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        16.225473,
+                        46.407022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ormoške lagune",
+                  "text": "O rezervație naturală cu lagune, care este un refugiu important pentru păsări.",
+                  "category": "natural",
+                  "coords": [
+                        16.192174,
+                        46.38828
+                  ]
+            },
+            {
+                  "name": "Grad Ormož",
+                  "text": "Un castel istoric în Ormož, care găzduiește astăzi expoziții culturale.",
+                  "category": "castle",
+                  "coords": [
+                        16.151187,
+                        46.406566
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Koračica",
+                  "text": "O zonă forestieră protejată cu o diversitate de floră și faună locală.",
+                  "category": "natural",
+                  "coords": [
+                        16.225473,
+                        46.407022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ormoške lagune",
+                  "text": "A nature reserve featuring lagoons, serving as an important bird sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        16.192174,
+                        46.38828
+                  ]
+            },
+            {
+                  "name": "Grad Ormož",
+                  "text": "A historical castle in Ormož, which now hosts cultural exhibitions.",
+                  "category": "castle",
+                  "coords": [
+                        16.151187,
+                        46.406566
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Koračica",
+                  "text": "A protected forest area with a diversity of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.225473,
+                        46.407022
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "wildlife",
     name: { de: "Lagunen von Ormož", hu: "Ormozi-lagúnák", ro: "Lagunele Ormož", en: "Ormož Basins Nature Reserve"},
@@ -588,7 +1227,88 @@ imageHint: "Ormoz Basins bird reserve with water buffalo",
     },
     image: "/poi-images/slovenia-ormoz-basins-life-v2.webp",
 },  {
-    id: "slovenia-krakovo-forest-life-v2",
+    id: "slovenia-krakovo-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Ein geschütztes Urwaldgebiet im Krakovo-Wald, das für seine Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "Eine lokale Pfarrkirche, die dem Heiligen Kreuz geweiht ist und im Gebiet des Krakovo-Waldes liegt.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Védett őserdő a Krakovói-erdőben, amely biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "A Szent Keresztnek szentelt helyi plébániatemplom a Krakovói-erdő térségében.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "O zonă de pădure virgină protejată din Pădurea Krakovo, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "O biserică parohială locală dedicată Sfintei Cruci, situată în zona Pădurii Krakovo.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "A protected virgin forest area within the Krakovo Forest, known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "A local parish church dedicated to the Holy Cross, located in the Krakovo Forest area.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "forest",
     name: { de: "Krakovo-Wald", hu: "Krakovói-erdő", ro: "Pădurea Krakovo", en: "Krakovo Forest"},
@@ -633,7 +1353,268 @@ imageHint: "Krakovo Forest ancient oak trees and water",
     },
     image: "/poi-images/slovenia-krakovo-forest-life-v2.webp",
 },  {
-    id: "slovenia-polhov-gradec-dolomites-life-v2",
+    id: "slovenia-polhov-gradec-dolomites-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej pošte in telekomunikacij",
+                  "text": "Museum zur Geschichte des Postwesens in Slowenien.",
+                  "category": "museum",
+                  "coords": [
+                        14.313998,
+                        46.067363
+                  ]
+            },
+            {
+                  "name": "Polhograjska gora",
+                  "text": "Ein markanter Berggipfel im Landschaftspark Polhov Gradec Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.29872,
+                        46.070786
+                  ]
+            },
+            {
+                  "name": "Tošč",
+                  "text": "Der höchste Gipfel des Polhov-Gradec-Dolomiten-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321274,
+                        46.097414
+                  ]
+            },
+            {
+                  "name": "Grmada",
+                  "text": "Ein beliebter Aussichtsgipfel in den Polhov-Gradec-Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332913,
+                        46.083816
+                  ]
+            },
+            {
+                  "name": "Okno v Tošču",
+                  "text": "Ein natürliches Felsfenster in der Nähe des Tošč-Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321492,
+                        46.088935
+                  ]
+            },
+            {
+                  "name": "Okno v Grmadi",
+                  "text": "Eine geologische Besonderheit in Form eines Felsfensters am Grmada.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332242,
+                        46.080609
+                  ]
+            },
+            {
+                  "name": "Savinka / Kucelj",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Landschaftspark.",
+                  "category": "natural",
+                  "coords": [
+                        14.333508,
+                        46.068163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej pošte in telekomunikacij",
+                  "text": "A szlovén postai szolgáltatások történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.313998,
+                        46.067363
+                  ]
+            },
+            {
+                  "name": "Polhograjska gora",
+                  "text": "Hegyi csúcs a Polhov Gradec Dolomitok Tájvédelmi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.29872,
+                        46.070786
+                  ]
+            },
+            {
+                  "name": "Tošč",
+                  "text": "A Polhov Gradec-i Dolomitok legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321274,
+                        46.097414
+                  ]
+            },
+            {
+                  "name": "Grmada",
+                  "text": "Népszerű kilátóhely a Polhov Gradec-i Dolomitokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332913,
+                        46.083816
+                  ]
+            },
+            {
+                  "name": "Okno v Tošču",
+                  "text": "Természetes sziklaablak a Tošč-csúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321492,
+                        46.088935
+                  ]
+            },
+            {
+                  "name": "Okno v Grmadi",
+                  "text": "Természetes sziklaablak a Grmada-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332242,
+                        46.080609
+                  ]
+            },
+            {
+                  "name": "Savinka / Kucelj",
+                  "text": "Kilátópont széles kilátással a tájvédelmi parkra.",
+                  "category": "natural",
+                  "coords": [
+                        14.333508,
+                        46.068163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej pošte in telekomunikacij",
+                  "text": "Muzeu dedicat istoriei serviciilor poștale din Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        14.313998,
+                        46.067363
+                  ]
+            },
+            {
+                  "name": "Polhograjska gora",
+                  "text": "Un vârf montan în Parcul Peisagistic Dolomiții Polhov Gradec.",
+                  "category": "landmark",
+                  "coords": [
+                        14.29872,
+                        46.070786
+                  ]
+            },
+            {
+                  "name": "Tošč",
+                  "text": "Cel mai înalt vârf din munții Dolomiții Polhov Gradec.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321274,
+                        46.097414
+                  ]
+            },
+            {
+                  "name": "Grmada",
+                  "text": "Un vârf popular cu belvedere în Dolomiții Polhov Gradec.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332913,
+                        46.083816
+                  ]
+            },
+            {
+                  "name": "Okno v Tošču",
+                  "text": "O fereastră naturală în stâncă situată lângă vârful Tošč.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321492,
+                        46.088935
+                  ]
+            },
+            {
+                  "name": "Okno v Grmadi",
+                  "text": "O formațiune geologică de tip fereastră naturală pe muntele Grmada.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332242,
+                        46.080609
+                  ]
+            },
+            {
+                  "name": "Savinka / Kucelj",
+                  "text": "Un punct de observație cu o vedere panoramică asupra parcului peisagistic.",
+                  "category": "natural",
+                  "coords": [
+                        14.333508,
+                        46.068163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Post and Telecommunications",
+                  "text": "Museum documenting the history of postal services in Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        14.313998,
+                        46.067363
+                  ]
+            },
+            {
+                  "name": "Polhograjska gora",
+                  "text": "A mountain peak located in the Polhov Gradec Dolomites Landscape Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.29872,
+                        46.070786
+                  ]
+            },
+            {
+                  "name": "Tošč",
+                  "text": "The highest peak of the Polhov Gradec Dolomites mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321274,
+                        46.097414
+                  ]
+            },
+            {
+                  "name": "Grmada",
+                  "text": "A popular viewpoint peak in the Polhov Gradec Dolomites.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332913,
+                        46.083816
+                  ]
+            },
+            {
+                  "name": "Okno v Tošču",
+                  "text": "A natural rock window located near the Tošč peak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.321492,
+                        46.088935
+                  ]
+            },
+            {
+                  "name": "Okno v Grmadi",
+                  "text": "A natural rock window and geological feature on Mount Grmada.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332242,
+                        46.080609
+                  ]
+            },
+            {
+                  "name": "Savinka / Kucelj",
+                  "text": "A viewpoint offering panoramic vistas over the landscape park.",
+                  "category": "natural",
+                  "coords": [
+                        14.333508,
+                        46.068163
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Polhov-Gradec-Dolomiten", hu: "Polhov Gradec-i Dolomitok", ro: "Dolomitii Polhov Gradec", en: "Polhov Gradec Dolomites Landscape Park"},
@@ -678,7 +1659,160 @@ imageHint: "Polhov Gradec Dolomites hills and rare flowers",
     },
     image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp",
 },  {
-    id: "slovenia-golte-landscape-park-life-v2",
+    id: "slovenia-golte-landscape-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Mozirska požganija",
+                  "text": "Ein Waldreservat im Landschaftspark Golte in Slowenien.",
+                  "category": "natural",
+                  "coords": [
+                        14.91268,
+                        46.372357
+                  ]
+            },
+            {
+                  "name": "Boskovec",
+                  "text": "Der höchste Gipfel des Golte-Plateaus in den Savinja-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.911044,
+                        46.380886
+                  ]
+            },
+            {
+                  "name": "Brezno",
+                  "text": "Eine natürliche Karsterscheinung im Landschaftspark Golte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.894723,
+                        46.375326
+                  ]
+            },
+            {
+                  "name": "Alpski vrt",
+                  "text": "Ein hochgelegener botanischer Garten, der die Alpenflora in Golte präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.901628,
+                        46.371515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Mozirska požganija",
+                  "text": "Erdőrezervátum a szlovéniai Golte Tájvédelmi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        14.91268,
+                        46.372357
+                  ]
+            },
+            {
+                  "name": "Boskovec",
+                  "text": "A Savinja-Alpokban található Golte-fennsík legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.911044,
+                        46.380886
+                  ]
+            },
+            {
+                  "name": "Brezno",
+                  "text": "Természetes karsztjelenség a Golte Tájvédelmi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.894723,
+                        46.375326
+                  ]
+            },
+            {
+                  "name": "Alpski vrt",
+                  "text": "Magaslati botanikus kert, amely a Golte alpesi flóráját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        14.901628,
+                        46.371515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Mozirska požganija",
+                  "text": "O rezervație forestieră în Parcul Peisagistic Golte din Slovenia.",
+                  "category": "natural",
+                  "coords": [
+                        14.91268,
+                        46.372357
+                  ]
+            },
+            {
+                  "name": "Boskovec",
+                  "text": "Cel mai înalt vârf al platoului Golte din Alpii Savinja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.911044,
+                        46.380886
+                  ]
+            },
+            {
+                  "name": "Brezno",
+                  "text": "O atracție naturală carstică în Parcul Peisagistic Golte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.894723,
+                        46.375326
+                  ]
+            },
+            {
+                  "name": "Alpski vrt",
+                  "text": "O grădină botanică alpină care prezintă flora locală în Golte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.901628,
+                        46.371515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Mozirska požganija",
+                  "text": "A forest reserve in the Golte Landscape Park of Slovenia.",
+                  "category": "natural",
+                  "coords": [
+                        14.91268,
+                        46.372357
+                  ]
+            },
+            {
+                  "name": "Boskovec",
+                  "text": "The highest peak of the Golte plateau in the Savinja Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.911044,
+                        46.380886
+                  ]
+            },
+            {
+                  "name": "Brezno",
+                  "text": "A natural karst attraction in the Golte Landscape Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.894723,
+                        46.375326
+                  ]
+            },
+            {
+                  "name": "Alpski vrt",
+                  "text": "A high-altitude botanical garden showcasing Alpine flora in Golte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.901628,
+                        46.371515
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Golte", hu: "Golte Tájvédelmi Park", ro: "Parcul Peisagistic Golte", en: "Golte Landscape Park"},
@@ -723,7 +1857,232 @@ imageHint: "Golte alpine garden and mountain peaks",
     },
     image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp",
 },  {
-    id: "slovenia-robanov-kot-life-v2",
+    id: "slovenia-robanov-kot-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Partizanska bolnica SVPB-SZC I",
+                  "text": "Ein Museum in einem ehemaligen Partisanenhospital im Landschaftspark Robanov Kot.",
+                  "category": "museum",
+                  "coords": [
+                        14.689597,
+                        46.388022
+                  ]
+            },
+            {
+                  "name": "Raduha",
+                  "text": "Ein hoher Gipfel in den Steiner Alpen, bekannt für seine Kalksteinhänge und Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.737693,
+                        46.409949
+                  ]
+            },
+            {
+                  "name": "Snežna jama",
+                  "text": "Eine hochgelegene Eishöhle im Gebiet Robanov Kot, bekannt für ihre permanenten Eisformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.741699,
+                        46.397811
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf eine traditionelle Wassermühle im Park.",
+                  "category": "natural",
+                  "coords": [
+                        14.698846,
+                        46.394139
+                  ]
+            },
+            {
+                  "name": "Igla",
+                  "text": "Eine natürliche Felsnadel und ein markantes geologisches Wahrzeichen in Robanov Kot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.727548,
+                        46.379916
+                  ]
+            },
+            {
+                  "name": "Račka vrata",
+                  "text": "Eine natürliche Felsöffnung im Landschaftspark Robanov Kot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.728066,
+                        46.398651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Partizanska bolnica SVPB-SZC I",
+                  "text": "A Robanov Kot tájvédelmi parkban található múzeum, amely egy egykori partizánkórházban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        14.689597,
+                        46.388022
+                  ]
+            },
+            {
+                  "name": "Raduha",
+                  "text": "Magas hegycsúcs a Kamniki-Alpokban, amely mészkőlejtőiről és barlangjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.737693,
+                        46.409949
+                  ]
+            },
+            {
+                  "name": "Snežna jama",
+                  "text": "Magasan fekvő jégbarlang a Robanov Kot területén, amely állandó jégalakzatairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        14.741699,
+                        46.397811
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Festői kilátópont, amely egy hagyományos vízimalomra néz a parkban.",
+                  "category": "natural",
+                  "coords": [
+                        14.698846,
+                        46.394139
+                  ]
+            },
+            {
+                  "name": "Igla",
+                  "text": "Természetes sziklatű és jellegzetes földtani látványosság Robanov Kotban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.727548,
+                        46.379916
+                  ]
+            },
+            {
+                  "name": "Račka vrata",
+                  "text": "Egy természetes sziklakapu a Robanov Kot tájvédelmi parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.728066,
+                        46.398651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Partizanska bolnica SVPB-SZC I",
+                  "text": "Un muzeu situat într-un fost spital de partizani din Parcul Peisagistic Robanov Kot.",
+                  "category": "museum",
+                  "coords": [
+                        14.689597,
+                        46.388022
+                  ]
+            },
+            {
+                  "name": "Raduha",
+                  "text": "Un vârf înalt din Alpii Kamnik-Savinja, cunoscut pentru versanții săi calcaroși și peșteri.",
+                  "category": "landmark",
+                  "coords": [
+                        14.737693,
+                        46.409949
+                  ]
+            },
+            {
+                  "name": "Snežna jama",
+                  "text": "O peșteră de gheață la mare altitudine în zona Robanov Kot, faimoasă pentru formațiunile sale de gheață permanente.",
+                  "category": "landmark",
+                  "coords": [
+                        14.741699,
+                        46.397811
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "Un punct de belvedere pitoresc, cu vedere la o moară de apă tradițională din parc.",
+                  "category": "natural",
+                  "coords": [
+                        14.698846,
+                        46.394139
+                  ]
+            },
+            {
+                  "name": "Igla",
+                  "text": "O stâncă naturală în formă de ac și un reper geologic distinctiv în Robanov Kot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.727548,
+                        46.379916
+                  ]
+            },
+            {
+                  "name": "Račka vrata",
+                  "text": "O poartă naturală de stâncă în parcul peisagistic Robanov Kot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.728066,
+                        46.398651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Partizanska bolnica SVPB-SZC I",
+                  "text": "A museum located in a former partisan hospital within the Robanov Kot Landscape Park.",
+                  "category": "museum",
+                  "coords": [
+                        14.689597,
+                        46.388022
+                  ]
+            },
+            {
+                  "name": "Raduha",
+                  "text": "A high peak in the Kamnik-Savinja Alps, known for its limestone slopes and caves.",
+                  "category": "landmark",
+                  "coords": [
+                        14.737693,
+                        46.409949
+                  ]
+            },
+            {
+                  "name": "Snežna jama",
+                  "text": "A high-altitude ice cave in the Robanov Kot area, famous for its permanent ice formations.",
+                  "category": "landmark",
+                  "coords": [
+                        14.741699,
+                        46.397811
+                  ]
+            },
+            {
+                  "name": "Water Mill",
+                  "text": "A scenic viewpoint overlooking a traditional water mill in the park.",
+                  "category": "natural",
+                  "coords": [
+                        14.698846,
+                        46.394139
+                  ]
+            },
+            {
+                  "name": "Igla",
+                  "text": "A natural rock needle and distinctive geological landmark in Robanov Kot.",
+                  "category": "landmark",
+                  "coords": [
+                        14.727548,
+                        46.379916
+                  ]
+            },
+            {
+                  "name": "Račka vrata",
+                  "text": "A natural rock gate in the Robanov Kot Landscape Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.728066,
+                        46.398651
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "valley",
     name: { de: "Robanov Kot", hu: "Robanov Kot", ro: "Robanov Kot", en: "Robanov Kot Landscape Park"},
@@ -768,7 +2127,88 @@ imageHint: "Robanov Kot glacial valley and farmhouse",
     },
     image: "/poi-images/slovenia-robanov-kot-life-v2.webp",
 },  {
-    id: "slovenia-topla-valley-life-v2",
+    id: "slovenia-topla-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kordeschkopf",
+                  "text": "Der höchste Gipfel der Petzen mit Panoramablick auf den Landschaftspark Topla.",
+                  "category": "landmark",
+                  "coords": [
+                        14.779998,
+                        46.500314
+                  ]
+            },
+            {
+                  "name": "König Matjaž-Höhle",
+                  "text": "Eine legendäre Höhle am Berg Petzen, die mit der Sage von König Matjaž verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.792395,
+                        46.487529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kordeževa glava / Kordeschkopf",
+                  "text": "A Peca-hegy legmagasabb csúcsa, ahonnan panorámás kilátás nyílik a Topla tájparkra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.779998,
+                        46.500314
+                  ]
+            },
+            {
+                  "name": "Votlina Kralja Matjaža",
+                  "text": "Legendás barlang a Peca-hegyen, amely Mátyás király legendájához kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.792395,
+                        46.487529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kordeževa glava / Kordeschkopf",
+                  "text": "Cel mai înalt vârf al Muntelui Peca, oferind vederi panoramice asupra Parcului Peisagistic Topla.",
+                  "category": "landmark",
+                  "coords": [
+                        14.779998,
+                        46.500314
+                  ]
+            },
+            {
+                  "name": "Votlina Kralja Matjaža",
+                  "text": "O peșteră legendară de pe Muntele Peca, asociată cu mitul regelui Matjaž.",
+                  "category": "landmark",
+                  "coords": [
+                        14.792395,
+                        46.487529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kordeževa glava / Kordeschkopf",
+                  "text": "The highest peak of Mount Peca, offering panoramic views of the Topla Landscape Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.779998,
+                        46.500314
+                  ]
+            },
+            {
+                  "name": "Cave of King Matjaž",
+                  "text": "A legendary cave on Mount Peca associated with the myth of King Matjaž.",
+                  "category": "landmark",
+                  "coords": [
+                        14.792395,
+                        46.487529
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "valley",
     name: { de: "Topla-Tal", hu: "Topla-völgy", ro: "Valea Topla", en: "Topla Landscape Park"},
@@ -858,7 +2298,160 @@ imageHint: "Maribor City Park with ponds and old trees",
     },
     image: "/poi-images/slovenia-maribor-city-park-life-v2.webp",
 },  {
-    id: "slovenia-pivka-intermittent-lakes-life-v2",
+    id: "slovenia-pivka-intermittent-lakes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekomuzej Pivških presihajočih jezer",
+                  "text": "Museum, das den intermittierenden Seen von Pivka und ihrer Ökologie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.211719,
+                        45.701121
+                  ]
+            },
+            {
+                  "name": "Mišnik",
+                  "text": "Ruinen einer alten Siedlung im Landschaftspark der Pivka-Seen.",
+                  "category": "historical",
+                  "coords": [
+                        14.221262,
+                        45.668457
+                  ]
+            },
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Überreste einer historischen Stätte im Naturpark bei Pivka.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "Eine lokale Kirche im Gebiet des Pivka-Landschaftsparks.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekomuzej Pivških presihajočih jezer",
+                  "text": "A pivkai időszakos tavaknak és ökológiájuknak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.211719,
+                        45.701121
+                  ]
+            },
+            {
+                  "name": "Mišnik",
+                  "text": "Egy régi település romjai a Pivka-tavak tájvédelmi parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        14.221262,
+                        45.668457
+                  ]
+            },
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Egy történelmi helyszín maradványai a Pivka melletti natúrparkban.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "Egy helyi templom a Pivka tájvédelmi park területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekomuzej Pivških presihajočih jezer",
+                  "text": "Muzeu dedicat lacurilor intermitente din Pivka și ecologiei acestora.",
+                  "category": "museum",
+                  "coords": [
+                        14.211719,
+                        45.701121
+                  ]
+            },
+            {
+                  "name": "Mišnik",
+                  "text": "Ruinele unei vechi așezări în Parcul Peisajului Lacurilor Pivka.",
+                  "category": "historical",
+                  "coords": [
+                        14.221262,
+                        45.668457
+                  ]
+            },
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Rămășițele unui sit istoric în parcul natural de lângă Pivka.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "O biserică locală în zona Parcului Peisajului Pivka.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekomuzej Pivških presihajočih jezer",
+                  "text": "Museum dedicated to the intermittent lakes of Pivka and their ecology.",
+                  "category": "museum",
+                  "coords": [
+                        14.211719,
+                        45.701121
+                  ]
+            },
+            {
+                  "name": "Mišnik",
+                  "text": "Ruins of an old settlement within the Pivka Lakes Landscape Park.",
+                  "category": "historical",
+                  "coords": [
+                        14.221262,
+                        45.668457
+                  ]
+            },
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Remains of a historical site in the nature park near Pivka.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "A local church located in the Pivka Landscape Park area.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "lake",
     name: { de: "Pivka-Seen", hu: "Pivkai időszakos tavak", ro: "Lacurile Intermitente Pivka", en: "Pivka Intermittent Lakes Landscape Park"},
@@ -948,7 +2541,124 @@ imageHint: "Sezana Botanical Garden palm house and exotic trees",
     },
     image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp",
 },  {
-    id: "slovenia-mozirski-gaj-life-v2",
+    id: "slovenia-mozirski-gaj-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej gozdarstva in lesarstva",
+                  "text": "Dieses Museum im Blumenpark Mozirski gaj zeigt die Geschichte der Forst- und Holzwirtschaft.",
+                  "category": "museum",
+                  "coords": [
+                        14.95016,
+                        46.320396
+                  ]
+            },
+            {
+                  "name": "Mozirski gaj",
+                  "text": "Ein beliebter Blumenpark und botanischer Garten in der Region Oberes Savinja-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.96366,
+                        46.335673
+                  ]
+            },
+            {
+                  "name": "Lipa na Brdcah",
+                  "text": "Ein historischer Lindenbaum und ein lokales Naturdenkmal im Mozirski gaj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.953075,
+                        46.333006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej gozdarstva in lesarstva",
+                  "text": "Ez a múzeum a Mozirski gaj virágparkban az erdő- és fafeldolgozó ipar történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.95016,
+                        46.320396
+                  ]
+            },
+            {
+                  "name": "Mozirski gaj",
+                  "text": "Népszerű virágpark és botanikus kert a Felső-Savinja-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.96366,
+                        46.335673
+                  ]
+            },
+            {
+                  "name": "Lipa na Brdcah",
+                  "text": "Történelmi hársfa és helyi természeti emlék a Mozirski gaj területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.953075,
+                        46.333006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej gozdarstva in lesarstva",
+                  "text": "Acest muzeu din parcul floral Mozirski gaj prezintă istoria silviculturii și a industriei lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        14.95016,
+                        46.320396
+                  ]
+            },
+            {
+                  "name": "Mozirski gaj",
+                  "text": "Un parc floral popular și grădină botanică în regiunea Văii Savinja Superioare.",
+                  "category": "landmark",
+                  "coords": [
+                        14.96366,
+                        46.335673
+                  ]
+            },
+            {
+                  "name": "Lipa na Brdcah",
+                  "text": "Un tei istoric și un monument natural local în cadrul parcului Mozirski gaj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.953075,
+                        46.333006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of forestry and timber industry",
+                  "text": "This museum in the Mozirski gaj flower park showcases the history of forestry and the timber industry.",
+                  "category": "museum",
+                  "coords": [
+                        14.95016,
+                        46.320396
+                  ]
+            },
+            {
+                  "name": "Mozirski gaj",
+                  "text": "A popular flower park and botanical garden in the Upper Savinja Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.96366,
+                        46.335673
+                  ]
+            },
+            {
+                  "name": "Lipa na Brdcah",
+                  "text": "A historical linden tree and local natural monument within Mozirski gaj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.953075,
+                        46.333006
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Mozirski gaj", hu: "Mozirski gaj", ro: "Mozirski gaj", en: "Mozirski gaj Flower Park"},
@@ -993,7 +2703,304 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
     },
     image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp",
 },  {
-    id: "slovenia-juliana-garden-life-v2",
+    id: "slovenia-juliana-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom Trenta",
+                  "text": "Ein Museum im Trenta-Tal, das das Natur- und Kulturerbe des Nationalparks Triglav präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.752503,
+                        46.380485
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Zapoden",
+                  "text": "Ein geschütztes Waldreservat im Gebiet Zapoden in der Nähe der Julischen Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        13.700285,
+                        46.398007
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "Dieses Naturschutzgebiet schützt die alpinen Waldökosysteme in der Region Kukla.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Ein markanter Berggipfel in den Julischen Alpen, bekannt für sein natürliches Felsenfenster.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Ein Berggipfel in der Nähe des höchsten Straßenpasses Sloweniens in den Julischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Goličica",
+                  "text": "Ein Alpengipfel in den Julischen Alpen mit Panoramablick auf das Trenta-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77075,
+                        46.399804
+                  ]
+            },
+            {
+                  "name": "Planja",
+                  "text": "Ein hoher Gipfel in den Julischen Alpen, der über dem Trenta-Tal liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.787427,
+                        46.407075
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "Ein alpiner Berggipfel in den Julischen Alpen in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom Trenta",
+                  "text": "A Trenta-völgyben található múzeum, amely a Triglav Nemzeti Park természeti és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.752503,
+                        46.380485
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Zapoden",
+                  "text": "Egy védett erdőrezervátum a Zapoden területén, a Júliai-Alpok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.700285,
+                        46.398007
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "Ez a természetvédelmi terület a Kukla régió alpesi erdőinek ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "A Júliai-Alpok egyik kiemelkedő csúcsa, amely természetes sziklaablakáról és drámai északi faláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Egy hegycsúcs Szlovénia legmagasabb hágójának közelében, a Júliai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Goličica",
+                  "text": "Alpesi csúcs a Júliai-Alpokban, amely panorámás kilátást nyújt a Trenta-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77075,
+                        46.399804
+                  ]
+            },
+            {
+                  "name": "Planja",
+                  "text": "Magas csúcs a Júliai-Alpokban, amely a Trenta-völgy felett helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        13.787427,
+                        46.407075
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "Alpesi hegycsúcs a szlovéniai Júliai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom Trenta",
+                  "text": "Un muzeu situat în Valea Trenta care prezintă patrimoniul natural și cultural al Parcului Național Triglav.",
+                  "category": "museum",
+                  "coords": [
+                        13.752503,
+                        46.380485
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Zapoden",
+                  "text": "O rezervație forestieră protejată situată în zona Zapoden, lângă Alpii Iulieni.",
+                  "category": "natural",
+                  "coords": [
+                        13.700285,
+                        46.398007
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "Această rezervație naturală protejează ecosistemele forestiere alpine din regiunea Kukla.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Un vârf montan proeminent din Alpii Iulieni, cunoscut pentru fereastra sa naturală de piatră și peretele nordic spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Un vârf montan situat lângă cea mai înaltă trecătoare rutieră din Slovenia, în Alpii Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Goličica",
+                  "text": "Un vârf alpin din Alpii Iulieni care oferă vederi panoramice asupra Văii Trenta.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77075,
+                        46.399804
+                  ]
+            },
+            {
+                  "name": "Planja",
+                  "text": "Un vârf înalt din Alpii Iulieni situat deasupra Văii Trenta.",
+                  "category": "landmark",
+                  "coords": [
+                        13.787427,
+                        46.407075
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "Un vârf montan alpin situat în Alpii Iulieni din Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom Trenta",
+                  "text": "A museum located in the Trenta Valley presenting the natural and cultural heritage of the Triglav National Park.",
+                  "category": "museum",
+                  "coords": [
+                        13.752503,
+                        46.380485
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Zapoden",
+                  "text": "A protected forest reserve located in the Zapoden area near the Julian Alps.",
+                  "category": "natural",
+                  "coords": [
+                        13.700285,
+                        46.398007
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "This nature reserve protects the alpine forest ecosystems in the Kukla region.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisojnik",
+                  "text": "A prominent mountain peak in the Julian Alps known for its natural stone window and dramatic north face.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "A mountain peak located near Slovenia's highest road pass in the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Goličica",
+                  "text": "An alpine peak in the Julian Alps offering panoramic views of the Trenta Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77075,
+                        46.399804
+                  ]
+            },
+            {
+                  "name": "Planja",
+                  "text": "A high peak in the Julian Alps situated above the Trenta Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        13.787427,
+                        46.407075
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "An alpine mountain peak located in the Julian Alps of Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Alpengarten Juliana", hu: "Juliana Alpesi Botanikus Kert", ro: "Grădina Alpină Juliana", en: "Juliana Alpine Botanical Garden"},
@@ -1183,6 +3190,69 @@ imageHint: "Lipica stud farm with white horses on pasture",
                         14.492687,
                         45.901734
                   ]
+            },
+            {
+                  "name": "Partizanska bolnica v Krvavicah",
+                  "text": "Ein Museum, das an ein ehemaliges Partisanenhospital in der Iški-Vintgar-Schlucht erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        14.485299,
+                        45.904957
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mokerc",
+                  "text": "Ein Waldnaturschutzgebiet in der Nähe der Iški-Vintgar-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        14.484245,
+                        45.888847
+                  ]
+            },
+            {
+                  "name": "Krimberg",
+                  "text": "Ein markanter Berg südlich von Ljubljana, der die Iški-Vintgar-Schlucht überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.471339,
+                        45.928546
+                  ]
+            },
+            {
+                  "name": "Velika Pasica",
+                  "text": "Eine Höhle in der Nähe der Iški-Vintgar-Schlucht in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.493243,
+                        45.9188
+                  ]
+            },
+            {
+                  "name": "Mokrec",
+                  "text": "Ein Gipfel im Krim-Hügelland bei der Iški-Vintgar-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527117,
+                        45.893569
+                  ]
+            },
+            {
+                  "name": "Kamenica",
+                  "text": "Ein Berggipfel in der Region der Iški-Vintgar-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        14.466509,
+                        45.901182
+                  ]
+            },
+            {
+                  "name": "Grad pod Gorenško potjo",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Landschaft der Iški-Vintgar-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        14.503316,
+                        45.921275
+                  ]
             }
       ],
       "hu": [
@@ -1193,6 +3263,69 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.492687,
                         45.901734
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica v Krvavicah",
+                  "text": "Emlékmúzeum egy egykori partizánkórház helyén az Iški Vintgar-szurdokban.",
+                  "category": "museum",
+                  "coords": [
+                        14.485299,
+                        45.904957
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mokerc",
+                  "text": "Erdőrezervátum az Iški Vintgar-szurdok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.484245,
+                        45.888847
+                  ]
+            },
+            {
+                  "name": "Krim",
+                  "text": "Jellegzetes hegy Ljubljanától délre, az Iški Vintgar-szurdok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.471339,
+                        45.928546
+                  ]
+            },
+            {
+                  "name": "Velika Pasica",
+                  "text": "Barlang az Iški Vintgar-szurdok közelében Szlovéniában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.493243,
+                        45.9188
+                  ]
+            },
+            {
+                  "name": "Mokrec",
+                  "text": "Hegycsúcs a Krim-hegyvidéken, az Iški Vintgar-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527117,
+                        45.893569
+                  ]
+            },
+            {
+                  "name": "Kamenica",
+                  "text": "Hegycsúcs az Iški Vintgar-szurdok régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.466509,
+                        45.901182
+                  ]
+            },
+            {
+                  "name": "Grad pod Gorenško potjo",
+                  "text": "Kilátópont az Iški Vintgar-szurdok környékére nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        14.503316,
+                        45.921275
                   ]
             }
       ],
@@ -1205,6 +3338,69 @@ imageHint: "Lipica stud farm with white horses on pasture",
                         14.492687,
                         45.901734
                   ]
+            },
+            {
+                  "name": "Partizanska bolnica v Krvavicah",
+                  "text": "Un muzeu dedicat unui fost spital de partizani din cheile Iški Vintgar.",
+                  "category": "museum",
+                  "coords": [
+                        14.485299,
+                        45.904957
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mokerc",
+                  "text": "O rezervație forestieră lângă cheile Iški Vintgar.",
+                  "category": "natural",
+                  "coords": [
+                        14.484245,
+                        45.888847
+                  ]
+            },
+            {
+                  "name": "Krim",
+                  "text": "Un munte proeminent la sud de Ljubljana, care domină cheile Iški Vintgar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.471339,
+                        45.928546
+                  ]
+            },
+            {
+                  "name": "Velika Pasica",
+                  "text": "O peșteră lângă cheile Iški Vintgar din Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.493243,
+                        45.9188
+                  ]
+            },
+            {
+                  "name": "Mokrec",
+                  "text": "Un vârf în dealurile Krim, lângă cheile Iški Vintgar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527117,
+                        45.893569
+                  ]
+            },
+            {
+                  "name": "Kamenica",
+                  "text": "Un vârf muntos în regiunea cheilor Iški Vintgar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.466509,
+                        45.901182
+                  ]
+            },
+            {
+                  "name": "Grad pod Gorenško potjo",
+                  "text": "Un punct de belvedere cu vedere asupra peisajului din jurul cheilor Iški Vintgar.",
+                  "category": "natural",
+                  "coords": [
+                        14.503316,
+                        45.921275
+                  ]
             }
       ],
       "en": [
@@ -1215,6 +3411,69 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.492687,
                         45.901734
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica v Krvavicah",
+                  "text": "A museum dedicated to a former partisan hospital in the Iški Vintgar gorge.",
+                  "category": "museum",
+                  "coords": [
+                        14.485299,
+                        45.904957
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mokerc",
+                  "text": "A forest reserve near the Iški Vintgar gorge.",
+                  "category": "natural",
+                  "coords": [
+                        14.484245,
+                        45.888847
+                  ]
+            },
+            {
+                  "name": "Mount Krim",
+                  "text": "A prominent mountain south of Ljubljana, overlooking the Iški Vintgar gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.471339,
+                        45.928546
+                  ]
+            },
+            {
+                  "name": "Velika Pasica",
+                  "text": "A cave near the Iški Vintgar gorge in Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.493243,
+                        45.9188
+                  ]
+            },
+            {
+                  "name": "Mokrec",
+                  "text": "A peak in the Krim hills near the Iški Vintgar gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527117,
+                        45.893569
+                  ]
+            },
+            {
+                  "name": "Kamenica",
+                  "text": "A mountain peak in the Iški Vintgar gorge region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.466509,
+                        45.901182
+                  ]
+            },
+            {
+                  "name": "Grad pod Gorenško potjo",
+                  "text": "A viewpoint offering vistas of the surrounding Iški Vintgar gorge landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.503316,
+                        45.921275
                   ]
             }
       ]
@@ -1353,7 +3612,268 @@ imageHint: "Zbilje Lake with many white swans",
     },
     image: "/poi-images/slovenia-zbilje-lake-life-v2.webp",
 },  {
-    id: "slovenia-dovzan-gorge-life-v2",
+    id: "slovenia-dovzan-gorge-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hudi grad",
+                  "text": "Ruinen einer alten Burg, die sich oberhalb der Dovžan-Schlucht befinden.",
+                  "category": "castle",
+                  "coords": [
+                        14.288787,
+                        46.362083
+                  ]
+            },
+            {
+                  "name": "Tržiški muzej",
+                  "text": "Das Museum von Tržič, das Sammlungen zum Handwerk und zur lokalen Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.308772,
+                        46.366516
+                  ]
+            },
+            {
+                  "name": "Kurnikova hiša in Muzej kolarstva",
+                  "text": "Ein ethnographisches Museum in einem gut erhaltenen traditionellen Haus in Tržič.",
+                  "category": "museum",
+                  "coords": [
+                        14.311624,
+                        46.363573
+                  ]
+            },
+            {
+                  "name": "Kriška gora",
+                  "text": "Ein Berg in den Karawanken, bekannt für seine Almwiesen und Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332318,
+                        46.351658
+                  ]
+            },
+            {
+                  "name": "Dovžanova soteska",
+                  "text": "Eine geologisch bedeutende Schlucht mit Fossilien aus der Permzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        14.329109,
+                        46.38299
+                  ]
+            },
+            {
+                  "name": "Grad Neuhaus",
+                  "text": "Ruinen eines Schlosses aus dem 16. Jahrhundert oberhalb von Tržič.",
+                  "category": "historical",
+                  "coords": [
+                        14.310128,
+                        46.364674
+                  ]
+            },
+            {
+                  "name": "Galerija Paviljon NOB",
+                  "text": "Eine Galerie in der Dovžan-Schlucht, die der lokalen Geschichte und der Partisanenbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.306939,
+                        46.361425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hudi grad",
+                  "text": "Egy régi vár romjai, amelyek a Dovžan-szurdok felett találhatók.",
+                  "category": "castle",
+                  "coords": [
+                        14.288787,
+                        46.362083
+                  ]
+            },
+            {
+                  "name": "Tržiški muzej",
+                  "text": "Tržiči múzeum, amely a mesterségek és a helyi történelem gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.308772,
+                        46.366516
+                  ]
+            },
+            {
+                  "name": "Kurnikova hiša in Muzej kolarstva",
+                  "text": "Néprajzi múzeum egy jól megőrzött hagyományos házban Tržičben.",
+                  "category": "museum",
+                  "coords": [
+                        14.311624,
+                        46.363573
+                  ]
+            },
+            {
+                  "name": "Kriška gora",
+                  "text": "Hegy a Karavankákban, amely alpesi rétjeiről és kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332318,
+                        46.351658
+                  ]
+            },
+            {
+                  "name": "Dovžanova soteska",
+                  "text": "Földtanilag jelentős szurdok, amelyben perm időszaki kövületek találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        14.329109,
+                        46.38299
+                  ]
+            },
+            {
+                  "name": "Grad Neuhaus",
+                  "text": "16. századi kastély romjai Tržič felett.",
+                  "category": "historical",
+                  "coords": [
+                        14.310128,
+                        46.364674
+                  ]
+            },
+            {
+                  "name": "Galerija Paviljon NOB",
+                  "text": "Galéria a Dovžan-szurdokban, amely a helyi történelemnek és a partizánmozgalomnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        14.306939,
+                        46.361425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hudi grad",
+                  "text": "Ruinele unui vechi castel, situate deasupra cheilor Dovžan.",
+                  "category": "castle",
+                  "coords": [
+                        14.288787,
+                        46.362083
+                  ]
+            },
+            {
+                  "name": "Tržiški muzej",
+                  "text": "Muzeul din Tržič, care prezintă colecții despre meșteșuguri și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        14.308772,
+                        46.366516
+                  ]
+            },
+            {
+                  "name": "Kurnikova hiša in Muzej kolarstva",
+                  "text": "Un muzeu etnografic situat într-o casă tradițională bine conservată în Tržič.",
+                  "category": "museum",
+                  "coords": [
+                        14.311624,
+                        46.363573
+                  ]
+            },
+            {
+                  "name": "Kriška gora",
+                  "text": "Un munte în Karawanks, cunoscut pentru pajiștile sale alpine și priveliști.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332318,
+                        46.351658
+                  ]
+            },
+            {
+                  "name": "Dovžanova soteska",
+                  "text": "Un defileu de importanță geologică, conținând fosile din perioada permiană.",
+                  "category": "landmark",
+                  "coords": [
+                        14.329109,
+                        46.38299
+                  ]
+            },
+            {
+                  "name": "Grad Neuhaus",
+                  "text": "Ruinele unui castel din secolul al XVI-lea, situat deasupra orașului Tržič.",
+                  "category": "historical",
+                  "coords": [
+                        14.310128,
+                        46.364674
+                  ]
+            },
+            {
+                  "name": "Galerija Paviljon NOB",
+                  "text": "O galerie în Defileul Dovžan dedicată istoriei locale și mișcării de partizani.",
+                  "category": "museum",
+                  "coords": [
+                        14.306939,
+                        46.361425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hudi grad",
+                  "text": "Ruins of an old castle located above the Dovžan Gorge.",
+                  "category": "castle",
+                  "coords": [
+                        14.288787,
+                        46.362083
+                  ]
+            },
+            {
+                  "name": "Tržiški muzej",
+                  "text": "The Tržič Museum, showcasing collections on crafts and local history.",
+                  "category": "museum",
+                  "coords": [
+                        14.308772,
+                        46.366516
+                  ]
+            },
+            {
+                  "name": "Kurnikova hiša in Muzej kolarstva",
+                  "text": "An ethnographic museum in a well-preserved traditional house in Tržič.",
+                  "category": "museum",
+                  "coords": [
+                        14.311624,
+                        46.363573
+                  ]
+            },
+            {
+                  "name": "Kriška gora",
+                  "text": "A mountain in the Karawanks, known for its alpine meadows and views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.332318,
+                        46.351658
+                  ]
+            },
+            {
+                  "name": "Dovžanova soteska",
+                  "text": "A geologically significant gorge containing fossils from the Permian period.",
+                  "category": "landmark",
+                  "coords": [
+                        14.329109,
+                        46.38299
+                  ]
+            },
+            {
+                  "name": "Grad Neuhaus",
+                  "text": "Ruins of a 16th-century castle located above Tržič.",
+                  "category": "historical",
+                  "coords": [
+                        14.310128,
+                        46.364674
+                  ]
+            },
+            {
+                  "name": "Galerija Paviljon NOB",
+                  "text": "A gallery in the Dovžan Gorge area dedicated to local history and the partisan movement.",
+                  "category": "museum",
+                  "coords": [
+                        14.306939,
+                        46.361425
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "valley",
     name: { de: "Dovžan-Schlucht", hu: "Dovžan-szurdok", ro: "Cheile Dovžan", en: "Dovžan Gorge"},

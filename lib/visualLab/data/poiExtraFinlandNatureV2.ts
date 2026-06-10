@@ -93,7 +93,52 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-oidulampi-nature-v2.webp",
   },
   {
-    id: "finland-pyhakoski-nature-v2",
+    id: "finland-pyhakoski-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Decapitation Monument",
+                  "text": "Ein lokales Denkmal in Pyhäkoski, das an historische Ereignisse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        26.196649,
+                        64.784596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Decapitation Monument",
+                  "text": "Helyi emlékmű Pyhäkoskiban, amely történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.196649,
+                        64.784596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Decapitation Monument",
+                  "text": "Un monument local din Pyhäkoski care comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        26.196649,
+                        64.784596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Decapitation Monument",
+                  "text": "A local monument in Pyhäkoski commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        26.196649,
+                        64.784596
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "FI",
     name: { de: "Pyhäkoski", hu: "Pyhäkoski", ro: "Pyhäkoski", en: "Pyhäkoski" },
@@ -148,6 +193,42 @@ export const finlandNatureV2: POI[] = [
                         23.677672,
                         66.375476
                   ]
+            },
+            {
+                  "name": "Aunesgården",
+                  "text": "Ein Heimatmuseum in Övertorneå, das das Leben in einem historischen Gehöft zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Kaiserhütte",
+                  "text": "Eine historische Jagdhütte auf dem Aavasaksa-Hügel, erbaut für den Besuch von Alexander II.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "Ein Freiluft-Sommertheater auf dem Aavasaksa-Hügel.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "Eine historische Holzkirche in Övertorneå, bekannt für ihre gut erhaltene Orgel aus dem 18. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
             }
       ],
       "hu": [
@@ -158,6 +239,42 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         23.677672,
                         66.375476
+                  ]
+            },
+            {
+                  "name": "Aunesgården",
+                  "text": "Övertorneåi helytörténeti múzeum, amely egy történelmi tanyán mutatja be az életet.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "Történelmi vadászház az Aavasaksa-dombon, amelyet II. Sándor látogatására építettek.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "Szabadtéri nyári színház az Aavasaksa-dombon.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "Történelmi fatemplom Övertorneåban, amely jól megőrzött 18. századi orgonájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
                   ]
             }
       ],
@@ -170,6 +287,42 @@ export const finlandNatureV2: POI[] = [
                         23.677672,
                         66.375476
                   ]
+            },
+            {
+                  "name": "Aunesgården",
+                  "text": "Un muzeu de istorie locală în Övertorneå care prezintă viața într-o gospodărie istorică.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "O cabană istorică de vânătoare pe dealul Aavasaksa, construită pentru vizita lui Alexandru al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "Un teatru de vară în aer liber situat pe dealul Aavasaksa.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "O biserică istorică de lemn din Övertorneå, cunoscută pentru orga sa bine conservată din secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
+                  ]
             }
       ],
       "en": [
@@ -180,6 +333,42 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         23.677672,
                         66.375476
+                  ]
+            },
+            {
+                  "name": "Aunesgården",
+                  "text": "A local history museum in Övertorneå showcasing life in a historic farmstead.",
+                  "category": "museum",
+                  "coords": [
+                        23.643485,
+                        66.394715
+                  ]
+            },
+            {
+                  "name": "Keisarinmaja",
+                  "text": "A historic hunting lodge on Aavasaksa hill, built for the visit of Alexander II.",
+                  "category": "museum",
+                  "coords": [
+                        23.724905,
+                        66.397673
+                  ]
+            },
+            {
+                  "name": "Kruununnäyttämö",
+                  "text": "An outdoor summer theatre venue located on the Aavasaksa hill.",
+                  "category": "cultural",
+                  "coords": [
+                        23.724513,
+                        66.398737
+                  ]
+            },
+            {
+                  "name": "Övertorneå kyrka",
+                  "text": "A historic wooden church in Övertorneå, known for its well-preserved 18th-century organ.",
+                  "category": "religious",
+                  "coords": [
+                        23.657114,
+                        66.390827
                   ]
             }
       ]
@@ -228,7 +417,88 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-aavasaksa-nature-v2.webp",
   },
   {
-    id: "finland-konnevesi-nature-v2",
+    id: "finland-konnevesi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enonranta, Etelä-Konneveden kansallispuisto",
+                  "text": "Ein malerischer Anlege- und Rastplatz im Nationalpark Süd-Konnevesi.",
+                  "category": "landmark",
+                  "coords": [
+                        26.651572,
+                        62.580757
+                  ]
+            },
+            {
+                  "name": "Loukkuvuori",
+                  "text": "Ein Aussichtspunkt in Konnevesi mit Panoramablick über die Seenlandschaft des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        26.657243,
+                        62.583231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enonranta, Etelä-Konneveden kansallispuisto",
+                  "text": "Festői kikötő- és pihenőhely a Dél-Konnevesi Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.651572,
+                        62.580757
+                  ]
+            },
+            {
+                  "name": "Loukkuvuori",
+                  "text": "Kilátópont Konnevesiben, amely panorámás kilátást nyújt a nemzeti park tavi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        26.657243,
+                        62.583231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enonranta, Etelä-Konneveden kansallispuisto",
+                  "text": "Un loc pitoresc de debarcare și popas în Parcul Național Konnevesi de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        26.651572,
+                        62.580757
+                  ]
+            },
+            {
+                  "name": "Loukkuvuori",
+                  "text": "Un punct de belvedere în Konnevesi ce oferă vederi panoramice asupra peisajului lacustru al parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        26.657243,
+                        62.583231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enonranta, Etelä-Konneveden kansallispuisto",
+                  "text": "A scenic landing site and resting area within the Southern Konnevesi National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.651572,
+                        62.580757
+                  ]
+            },
+            {
+                  "name": "Loukkuvuori",
+                  "text": "A viewpoint in Konnevesi offering panoramic views over the lake landscape of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        26.657243,
+                        62.583231
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "FI",
     name: { de: "Konnevesi", hu: "Konnevesi", ro: "Konnevesi", en: "Konnevesi" },
@@ -273,7 +543,88 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-konnevesi-nature-v2.webp",
   },
   {
-    id: "finland-pallas-nature-v2",
+    id: "finland-pallas-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Der Pallas-Yllästunturi ist Finnlands beliebtester Nationalpark und bekannt für seine Fjäll-Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von Pallas mit eingeschränktem Zugang.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "A Pallas-Yllästunturi Finnország legnépszerűbb nemzeti parkja, amely fenséges hegyvidéki tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "Egy védett természeti terület Pallas közelében, korlátozott látogathatósággal.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pallas-Yllästunturin kansallispuisto",
+                  "text": "Pallas-Yllästunturi este cel mai popular parc național din Finlanda, cunoscut pentru peisajele sale montane.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Killinpoikainjärvien rajoitusalue",
+                  "text": "O zonă naturală protejată lângă Pallas, cu acces restricționat.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pallas-Yllästunturi National Park",
+                  "text": "Pallas-Yllästunturi is Finland's most popular national park, famous for its fell landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        24.085916,
+                        67.985072
+                  ]
+            },
+            {
+                  "name": "Restricted area: Killinpoikainjärvet",
+                  "text": "A protected nature area near Pallas with restricted access.",
+                  "category": "natural",
+                  "coords": [
+                        24.065956,
+                        68.012782
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Pallas", hu: "Pallas", ro: "Pallas", en: "Pallas" },
@@ -598,6 +949,15 @@ export const finlandNatureV2: POI[] = [
                         29.157422,
                         64.194257
                   ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Region Hiidenportti, die für ihre historische und kulturelle Bedeutung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
             }
       ],
       "hu": [
@@ -617,6 +977,15 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         29.157422,
                         64.194257
+                  ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Régészeti lelőhely a Hiidenportti régióban, amely történelmi és kulturális jelentőségéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
                   ]
             }
       ],
@@ -638,6 +1007,15 @@ export const finlandNatureV2: POI[] = [
                         29.157422,
                         64.194257
                   ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "Un sit arheologic în regiunea Hiidenportti, cunoscut pentru semnificația sa istorică și culturală.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
+                  ]
             }
       ],
       "en": [
@@ -657,6 +1035,15 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         29.157422,
                         64.194257
+                  ]
+            },
+            {
+                  "name": "Hautasaari",
+                  "text": "An archaeological site in the Hiidenportti region, known for its historical and cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        29.064195,
+                        64.206652
                   ]
             }
       ]
@@ -750,7 +1137,52 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-kvarken-nature-v2.webp",
   },
   {
-    id: "finland-oulanka-nature-v2",
+    id: "finland-oulanka-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Bekannter Nationalpark, berühmt für seine Flusslandschaften und den Bärenpfad.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Népszerű nemzeti park, amely folyóiról és a Karhunkierros túraútvonalról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oulangan kansallispuisto",
+                  "text": "Parc național faimos pentru peisajele sale fluviale și traseul Karhunkierros.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oulanka National Park",
+                  "text": "A well-known national park famous for its river landscapes and the Karhunkierros trail.",
+                  "category": "natural",
+                  "coords": [
+                        29.372341,
+                        66.397274
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Oulanka", hu: "Oulanka", ro: "Oulanka", en: "Oulanka" },
@@ -795,7 +1227,88 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-oulanka-nature-v2.webp",
   },
   {
-    id: "finland-repovesi-nature-v2",
+    id: "finland-repovesi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Eine steinzeitliche Siedlungsstätte im Repovesi-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        26.59026,
+                        61.170366
+                  ]
+            },
+            {
+                  "name": "Ls.alue",
+                  "text": "Ein geschütztes Naturgebiet im Repovesi-Nationalpark, bekannt für seine unberührte Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.543623,
+                        61.183782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Kőkorszaki lakóhely nyomai a Repovesi Nemzeti Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        26.59026,
+                        61.170366
+                  ]
+            },
+            {
+                  "name": "Ls.alue",
+                  "text": "Védett természeti terület a Repovesi Nemzeti Parkban, amely érintetlen tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.543623,
+                        61.183782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Un sit arheologic din epoca pietrei situat în Parcul Național Repovesi.",
+                  "category": "historical",
+                  "coords": [
+                        26.59026,
+                        61.170366
+                  ]
+            },
+            {
+                  "name": "Ls.alue",
+                  "text": "O zonă naturală protejată din Parcul Național Repovesi, cunoscută pentru peisajul său neatins.",
+                  "category": "natural",
+                  "coords": [
+                        26.543623,
+                        61.183782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "A Stone Age archaeological site located in the Repovesi National Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.59026,
+                        61.170366
+                  ]
+            },
+            {
+                  "name": "Ls.alue",
+                  "text": "A protected nature area in the Repovesi National Park, known for its pristine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.543623,
+                        61.183782
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Repovesi", hu: "Repovesi", ro: "Repovesi", en: "Repovesi" },
@@ -840,7 +1353,196 @@ export const finlandNatureV2: POI[] = [
     image: "/poi-images/finland-repovesi-nature-v2.webp",
   },
   {
-    id: "finland-helvetinjarvi-nature-v2",
+    id: "finland-helvetinjarvi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Ein Nationalpark mit schroffen Landschaften, tiefen Schluchten und unberührten Seen.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Kantola",
+                  "text": "Ein Naturschutzgebiet in der Region Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.961524,
+                        61.992832
+                  ]
+            },
+            {
+                  "name": "Kivi-Kierinka",
+                  "text": "Ein Naturschutzgebiet in der Gegend von Helvetinjärvi zum Schutz der lokalen Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        23.863533,
+                        61.974504
+                  ]
+            },
+            {
+                  "name": "Santalahden metsä",
+                  "text": "Ein Waldgebiet in Helvetinjärvi, das dem Naturschutz gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.930045,
+                        62.031704
+                  ]
+            },
+            {
+                  "name": "Ruoveden seurakunnan metsä",
+                  "text": "Ein naturbelassenes Waldreservat im Bezirk Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.928672,
+                        62.029223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Nemzeti park meredek sziklákkal, mély szurdokokkal és érintetlen tavakkal.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Kantola",
+                  "text": "Természetvédelmi terület a Helvetinjärvi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        23.961524,
+                        61.992832
+                  ]
+            },
+            {
+                  "name": "Kivi-Kierinka",
+                  "text": "Természetvédelmi terület Helvetinjärvi környékén, amely a helyi élővilágot őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.863533,
+                        61.974504
+                  ]
+            },
+            {
+                  "name": "Santalahden metsä",
+                  "text": "Természetvédelmi célra kijelölt erdőterület Helvetinjärviben.",
+                  "category": "natural",
+                  "coords": [
+                        23.930045,
+                        62.031704
+                  ]
+            },
+            {
+                  "name": "Ruoveden seurakunnan metsä",
+                  "text": "Természetes erdőrezervátum Helvetinjärvi körzetében.",
+                  "category": "natural",
+                  "coords": [
+                        23.928672,
+                        62.029223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Helvetinjärven kansallispuisto",
+                  "text": "Un parc național cu peisaje accidentate, chei adânci și lacuri virgine.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Kantola",
+                  "text": "O arie naturală protejată din regiunea Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.961524,
+                        61.992832
+                  ]
+            },
+            {
+                  "name": "Kivi-Kierinka",
+                  "text": "O rezervație naturală din zona Helvetinjärvi care protejează biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        23.863533,
+                        61.974504
+                  ]
+            },
+            {
+                  "name": "Santalahden metsä",
+                  "text": "O zonă forestieră destinată conservării naturii în Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.930045,
+                        62.031704
+                  ]
+            },
+            {
+                  "name": "Ruoveden seurakunnan metsä",
+                  "text": "O rezervație forestieră naturală administrată în districtul Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.928672,
+                        62.029223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Helvetinjärvi National Park",
+                  "text": "A national park featuring rugged landscapes, deep gorges, and pristine lakes.",
+                  "category": "natural",
+                  "coords": [
+                        23.851209,
+                        62.023167
+                  ]
+            },
+            {
+                  "name": "Kantola",
+                  "text": "A protected natural area within the Helvetinjärvi region.",
+                  "category": "natural",
+                  "coords": [
+                        23.961524,
+                        61.992832
+                  ]
+            },
+            {
+                  "name": "Kivi-Kierinka",
+                  "text": "A nature reserve in the Helvetinjärvi area preserving local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        23.863533,
+                        61.974504
+                  ]
+            },
+            {
+                  "name": "Santalahden metsä",
+                  "text": "A forest area designated for nature conservation in Helvetinjärvi.",
+                  "category": "natural",
+                  "coords": [
+                        23.930045,
+                        62.031704
+                  ]
+            },
+            {
+                  "name": "Ruoveden seurakunnan metsä",
+                  "text": "A natural forest reserve managed within the Helvetinjärvi district.",
+                  "category": "natural",
+                  "coords": [
+                        23.928672,
+                        62.029223
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Helvetinjärvi", hu: "Helvetinjärvi", ro: "Helvetinjärvi", en: "Helvetinjärvi" },

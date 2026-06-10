@@ -789,6 +789,24 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
                         19.459582,
                         41.583407
                   ]
+            },
+            {
+                  "name": "Kalaja e Rodonit",
+                  "text": "Eine von Skanderbeg im 15. Jahrhundert errichtete Festung am Kap Rodon.",
+                  "category": "castle",
+                  "coords": [
+                        19.448062,
+                        41.58585
+                  ]
+            },
+            {
+                  "name": "Kisha e Shna Ndout",
+                  "text": "Eine historische Kirche am Meer, die dem Heiligen Antonius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.458287,
+                        41.583034
+                  ]
             }
       ],
       "hu": [
@@ -799,6 +817,24 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
                   "coords": [
                         19.459582,
                         41.583407
+                  ]
+            },
+            {
+                  "name": "Kalaja e Rodonit",
+                  "text": "Szkander bég által a 15. században épített erőd a Rodon-fokon.",
+                  "category": "castle",
+                  "coords": [
+                        19.448062,
+                        41.58585
+                  ]
+            },
+            {
+                  "name": "Kisha e Shna Ndout",
+                  "text": "Történelmi tengerparti templom, amelyet Szent Antalnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        19.458287,
+                        41.583034
                   ]
             }
       ],
@@ -811,6 +847,24 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
                         19.459582,
                         41.583407
                   ]
+            },
+            {
+                  "name": "Kalaja e Rodonit",
+                  "text": "O fortăreață construită de Skanderbeg în secolul al XV-lea pe Capul Rodon.",
+                  "category": "castle",
+                  "coords": [
+                        19.448062,
+                        41.58585
+                  ]
+            },
+            {
+                  "name": "Kisha e Shna Ndout",
+                  "text": "O biserică istorică de pe malul mării, dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        19.458287,
+                        41.583034
+                  ]
             }
       ],
       "en": [
@@ -821,6 +875,24 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
                   "coords": [
                         19.459582,
                         41.583407
+                  ]
+            },
+            {
+                  "name": "Castle of Rodon",
+                  "text": "A fortress built by Skanderbeg in the 15th century on Cape Rodon.",
+                  "category": "castle",
+                  "coords": [
+                        19.448062,
+                        41.58585
+                  ]
+            },
+            {
+                  "name": "Church of St. Anthony",
+                  "text": "A historic seaside church dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        19.458287,
+                        41.583034
                   ]
             }
       ]
@@ -1586,7 +1658,88 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-forty-saints-monastery-history-v2.webp",
   },
   {
-    id: "albania-labove-kryqit-church-history-v2",
+    id: "albania-labove-kryqit-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Lalucit",
+                  "text": "Ein Berggipfel in der Nähe des Dorfes Labovë e Kryqit in Albanien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250833,
+                        40.1325
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Ein geschütztes Kulturdenkmal in der Region Labovë e Kryqit.",
+                  "category": "historical",
+                  "coords": [
+                        20.222778,
+                        40.124951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Lalucit",
+                  "text": "Hegyi csúcs az albániai Labovë e Kryqit falu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250833,
+                        40.1325
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Védett kulturális műemlék Labovë e Kryqit térségében.",
+                  "category": "historical",
+                  "coords": [
+                        20.222778,
+                        40.124951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Lalucit",
+                  "text": "Un vârf muntos în apropierea satului Labovë e Kryqit din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250833,
+                        40.1325
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Un monument cultural protejat în regiunea Labovë e Kryqit.",
+                  "category": "historical",
+                  "coords": [
+                        20.222778,
+                        40.124951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Lalucit",
+                  "text": "A mountain peak located near the village of Labovë e Kryqit in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.250833,
+                        40.1325
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "A protected cultural monument in the Labovë e Kryqit region.",
+                  "category": "historical",
+                  "coords": [
+                        20.222778,
+                        40.124951
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "AL",
     name: { de: "Kirche von Labovë e Kryqit", hu: "Labovë e Kryqit-templom", ro: "Biserica din Labovë e Kryqit", en: "Church of Labovë e Kryqit" },
@@ -2621,7 +2774,124 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-tudas-castle-history-v2.webp",
   },
   {
-    id: "albania-shirgi-monastery-history-v2",
+    id: "albania-shirgi-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Etnografik i Draginës",
+                  "text": "Ein ethnografisches Museum in der Gegend des Klosters Shirgi, das das lokale Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.34867,
+                        42.011897
+                  ]
+            },
+            {
+                  "name": "Maja Tabia e Vogël",
+                  "text": "Ein Berggipfel in der Nähe des Klosters Shirgi, der Ausblicke auf die Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.380619,
+                        42.030141
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historische Ruinen in der Nähe des Klosters Shirgi, die eine antike Stätte markieren.",
+                  "category": "historical",
+                  "coords": [
+                        19.373175,
+                        42.038313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Etnografik i Draginës",
+                  "text": "Néprajzi múzeum a Shirgi-kolostor környékén, amely a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.34867,
+                        42.011897
+                  ]
+            },
+            {
+                  "name": "Maja Tabia e Vogël",
+                  "text": "A Shirgi-kolostor közelében található hegycsúcs, amely kilátást nyújt a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.380619,
+                        42.030141
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Történelmi romok a Shirgi-kolostor területén, amelyek egy ősi helyszínt jelölnek.",
+                  "category": "historical",
+                  "coords": [
+                        19.373175,
+                        42.038313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Etnografik i Draginës",
+                  "text": "Un muzeu etnografic situat în zona Mănăstirii Shirgi, care prezintă moștenirea locală.",
+                  "category": "museum",
+                  "coords": [
+                        19.34867,
+                        42.011897
+                  ]
+            },
+            {
+                  "name": "Maja Tabia e Vogël",
+                  "text": "Un vârf montan situat în vecinătatea Mănăstirii Shirgi, oferind vederi asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        19.380619,
+                        42.030141
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Ruine istorice situate în zona Mănăstirii Shirgi, care marchează un sit antic.",
+                  "category": "historical",
+                  "coords": [
+                        19.373175,
+                        42.038313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeu Etnografik i Draginës",
+                  "text": "An ethnographic museum located in the Monastery of Shirgi area, showcasing local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        19.34867,
+                        42.011897
+                  ]
+            },
+            {
+                  "name": "Maja Tabia e Vogël",
+                  "text": "A mountain peak situated in the vicinity of the Monastery of Shirgi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.380619,
+                        42.030141
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historical ruins located in the area of the Monastery of Shirgi.",
+                  "category": "historical",
+                  "coords": [
+                        19.373175,
+                        42.038313
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "AL",
     name: { de: "Kloster Shirgi", hu: "Shirgi-kolostor", ro: "Mănăstirea Shirgi", en: "Monastery of Shirgi" },

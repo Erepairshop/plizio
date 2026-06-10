@@ -62664,6 +62664,24 @@ export const poiExtraDeCities: POI[] = [
                         10.781521,
                         51.846178
                   ]
+            },
+            {
+                  "name": "Harzer Baumkuchenhaus",
+                  "text": "Das Museum in Wernigerode widmet sich der Tradition und Herstellung des Harzer Baumkuchens.",
+                  "category": "museum",
+                  "coords": [
+                        10.757989,
+                        51.8493
+                  ]
+            },
+            {
+                  "name": "Kloster Himmelpforte",
+                  "text": "An diesem Ort befinden sich die Überreste eines ehemaligen Klosters aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        10.743931,
+                        51.832406
+                  ]
             }
       ],
       "hu": [
@@ -62835,6 +62853,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         10.781521,
                         51.846178
+                  ]
+            },
+            {
+                  "name": "Harzer Baumkuchenhaus",
+                  "text": "A wernigerodei múzeum a harzi Baumkuchen (kürtőskalács-szerű sütemény) hagyományának és készítésének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        10.757989,
+                        51.8493
+                  ]
+            },
+            {
+                  "name": "Kloster Himmelpforte",
+                  "text": "Ezen a helyen egy egykori 13. századi kolostor maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.743931,
+                        51.832406
                   ]
             }
       ],
@@ -63008,6 +63044,24 @@ export const poiExtraDeCities: POI[] = [
                         10.781521,
                         51.846178
                   ]
+            },
+            {
+                  "name": "Harzer Baumkuchenhaus",
+                  "text": "Muzeul din Wernigerode este dedicat tradiției și fabricării prăjiturii Baumkuchen din Harz.",
+                  "category": "museum",
+                  "coords": [
+                        10.757989,
+                        51.8493
+                  ]
+            },
+            {
+                  "name": "Kloster Himmelpforte",
+                  "text": "În acest loc se află rămășițele unei foste mănăstiri din secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        10.743931,
+                        51.832406
+                  ]
             }
       ],
       "en": [
@@ -63179,6 +63233,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         10.781521,
                         51.846178
+                  ]
+            },
+            {
+                  "name": "Harzer Baumkuchenhaus",
+                  "text": "The museum in Wernigerode is dedicated to the tradition and production of the Harz tree cake.",
+                  "category": "museum",
+                  "coords": [
+                        10.757989,
+                        51.8493
+                  ]
+            },
+            {
+                  "name": "Kloster Himmelpforte",
+                  "text": "At this site lie the remains of a former monastery from the 13th century.",
+                  "category": "historical",
+                  "coords": [
+                        10.743931,
+                        51.832406
                   ]
             }
       ],
@@ -106504,6 +106576,69 @@ export const poiExtraDeCities: POI[] = [
                         9.90617,
                         53.564556
                   ]
+            },
+            {
+                  "name": "Dialoghaus Hamburg",
+                  "text": "Ein Erlebnismuseum in St. Pauli, bekannt für die Ausstellung „Dialog im Dunkeln“.",
+                  "category": "museum",
+                  "coords": [
+                        10.001684,
+                        53.546213
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Ein bekanntes Musical-Theater direkt an der Reeperbahn in St. Pauli.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "German Customs Museum",
+                  "text": "Ein Museum in der Speicherstadt, das die Geschichte des deutschen Zolls dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.998012,
+                        53.545941
+                  ]
+            },
+            {
+                  "name": "Ohnsorg Theater",
+                  "text": "Ein Traditionstheater in Hamburg, das für Aufführungen auf Plattdeutsch bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007081,
+                        53.554502
+                  ]
+            },
+            {
+                  "name": "Spicy's Gewurzmuseum",
+                  "text": "Ein Museum in der Speicherstadt, das sich der Welt der Gewürze widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.988387,
+                        53.543151
+                  ]
+            },
+            {
+                  "name": "Theater fur Kinder",
+                  "text": "Ein Hamburger Theater mit einem speziellen Programm für junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Ein freies Theater in Hamburg, das zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979255,
+                        53.554823
+                  ]
             }
       ],
       "hu": [
@@ -106837,6 +106972,69 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.90617,
                         53.564556
+                  ]
+            },
+            {
+                  "name": "Dialoghaus Hamburg",
+                  "text": "Élménymúzeum St. Pauliban, amely a „Párbeszéd a sötétben” kiállításról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        10.001684,
+                        53.546213
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Ismert musicalszínház közvetlenül a Reeperbahn mellett, St. Pauliban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "German Customs Museum",
+                  "text": "A Speicherstadtban található múzeum, amely a német vámügy történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.998012,
+                        53.545941
+                  ]
+            },
+            {
+                  "name": "Ohnsorg Theater",
+                  "text": "Hagyományos hamburgi színház, amely alnémet nyelvű előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007081,
+                        53.554502
+                  ]
+            },
+            {
+                  "name": "Spicy's Gewurzmuseum",
+                  "text": "A fűszerek világának szentelt múzeum a hamburgi Speicherstadtban.",
+                  "category": "museum",
+                  "coords": [
+                        9.988387,
+                        53.543151
+                  ]
+            },
+            {
+                  "name": "Theater fur Kinder",
+                  "text": "Hamburgi színház, amely speciális programokat kínál a fiatal közönségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Független hamburgi színház, amely kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979255,
+                        53.554823
                   ]
             }
       ],
@@ -107172,6 +107370,69 @@ export const poiExtraDeCities: POI[] = [
                         9.90617,
                         53.564556
                   ]
+            },
+            {
+                  "name": "Dialoghaus Hamburg",
+                  "text": "Un muzeu experiențial din St. Pauli, cunoscut pentru expoziția „Dialog în întuneric”.",
+                  "category": "museum",
+                  "coords": [
+                        10.001684,
+                        53.546213
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "Un teatru de musical cunoscut situat chiar pe Reeperbahn, în St. Pauli.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "German Customs Museum",
+                  "text": "Un muzeu din Speicherstadt care documentează istoria vămilor germane.",
+                  "category": "museum",
+                  "coords": [
+                        9.998012,
+                        53.545941
+                  ]
+            },
+            {
+                  "name": "Ohnsorg Theater",
+                  "text": "Un teatru tradițional din Hamburg, cunoscut pentru spectacolele în dialectul germanei de jos.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007081,
+                        53.554502
+                  ]
+            },
+            {
+                  "name": "Spicy's Gewurzmuseum",
+                  "text": "Un muzeu din Speicherstadt dedicat lumii condimentelor.",
+                  "category": "museum",
+                  "coords": [
+                        9.988387,
+                        53.543151
+                  ]
+            },
+            {
+                  "name": "Theater fur Kinder",
+                  "text": "Un teatru din Hamburg cu un program special dedicat publicului tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "Un teatru independent din Hamburg care pune în scenă piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979255,
+                        53.554823
+                  ]
             }
       ],
       "en": [
@@ -107505,6 +107766,69 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.90617,
                         53.564556
+                  ]
+            },
+            {
+                  "name": "Dialoghaus Hamburg",
+                  "text": "An experiential museum in St. Pauli, famous for the \"Dialogue in the Dark\" exhibition.",
+                  "category": "museum",
+                  "coords": [
+                        10.001684,
+                        53.546213
+                  ]
+            },
+            {
+                  "name": "Schmidts TIVOLI",
+                  "text": "A well-known musical theatre located directly on the Reeperbahn in St. Pauli.",
+                  "category": "cultural",
+                  "coords": [
+                        9.963342,
+                        53.549127
+                  ]
+            },
+            {
+                  "name": "German Customs Museum",
+                  "text": "A museum in the Speicherstadt documenting the history of German customs.",
+                  "category": "museum",
+                  "coords": [
+                        9.998012,
+                        53.545941
+                  ]
+            },
+            {
+                  "name": "Ohnsorg Theater",
+                  "text": "A traditional theatre in Hamburg known for its performances in Low German.",
+                  "category": "cultural",
+                  "coords": [
+                        10.007081,
+                        53.554502
+                  ]
+            },
+            {
+                  "name": "Spicy's Gewurzmuseum",
+                  "text": "A museum in the Speicherstadt dedicated to the world of spices.",
+                  "category": "museum",
+                  "coords": [
+                        9.988387,
+                        53.543151
+                  ]
+            },
+            {
+                  "name": "Theater fur Kinder",
+                  "text": "A Hamburg theatre with a special program dedicated to young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941885,
+                        53.554847
+                  ]
+            },
+            {
+                  "name": "Kellertheater Hamburg",
+                  "text": "An independent theatre in Hamburg performing contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        9.979255,
+                        53.554823
                   ]
             }
       ],

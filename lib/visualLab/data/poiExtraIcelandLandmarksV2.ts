@@ -325,7 +325,124 @@ imageHint: "Hofdi House Reykjavik summit",
     },
     image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp",
 },  {
-    id: "iceland-skalholt-cathedral-landmarks-v2",
+    id: "iceland-skalholt-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slakki",
+                  "text": "Ein kleiner Streichelzoo in der Nähe der Kathedrale von Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Archäologische Ausgrabungsstätte mit Ruinen in Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Eine Kirche in der Region Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slakki",
+                  "text": "Egy kis állatsimogató Skálholt katedrálisának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Régészeti lelőhely és romok Skálholt területén.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Templom Skálholt régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slakki",
+                  "text": "O mică grădină zoologică situată în apropierea Catedralei Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Sit arheologic și ruine situate în Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "O biserică situată în regiunea Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slakki",
+                  "text": "A small petting zoo located near Skálholt Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Archaeological site featuring ruins in Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "A church located in the Skálholt region.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "cathedral",
     name: { de: "Kathedrale von Skálholt", hu: "Skálholti székesegyház", ro: "Catedrala din Skálholt", en: "Skálholt Cathedral"},
@@ -509,7 +626,160 @@ imageHint: "Blue Church Seydisfjordur rainbow path",
     },
     image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp",
 },  {
-    id: "iceland-budakirkja-landmarks-v2",
+    id: "iceland-budakirkja-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Búðahraun",
+                  "text": "Ein Naturschutzgebiet mit einem weiten Lavafeld in der Nähe von Búðakirkja.",
+                  "category": "natural",
+                  "coords": [
+                        -23.415273,
+                        64.80985
+                  ]
+            },
+            {
+                  "name": "Búðahellir",
+                  "text": "Ein markanter Eingang zu einer Lavahöhle im Búðahraun-Lavafeld.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.430029,
+                        64.810373
+                  ]
+            },
+            {
+                  "name": "Búðir",
+                  "text": "Ein malerischer historischer Ort, bekannt für seine schwarze Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.384162,
+                        64.821909
+                  ]
+            },
+            {
+                  "name": "Axlarhyrna",
+                  "text": "Ein Berggipfel mit Aussicht auf die Halbinsel Snæfellsnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.44592,
+                        64.82981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Búðahraun",
+                  "text": "Természetvédelmi terület kiterjedt lávamezővel Búðakirkja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.415273,
+                        64.80985
+                  ]
+            },
+            {
+                  "name": "Búðahellir",
+                  "text": "Egy jellegzetes lávabarlang bejárata a Búðahraun lávamezőn.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.430029,
+                        64.810373
+                  ]
+            },
+            {
+                  "name": "Búðir",
+                  "text": "Festői történelmi helyszín, amely ikonikus fekete templomáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.384162,
+                        64.821909
+                  ]
+            },
+            {
+                  "name": "Axlarhyrna",
+                  "text": "Hegycsúcs, ahonnan kilátás nyílik a Snæfellsnes-félszigetre.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.44592,
+                        64.82981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Búðahraun",
+                  "text": "O rezervație naturală cu un câmp vast de lavă lângă Búðakirkja.",
+                  "category": "natural",
+                  "coords": [
+                        -23.415273,
+                        64.80985
+                  ]
+            },
+            {
+                  "name": "Búðahellir",
+                  "text": "O intrare notabilă într-o peșteră de lavă din câmpul Búðahraun.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.430029,
+                        64.810373
+                  ]
+            },
+            {
+                  "name": "Búðir",
+                  "text": "Un loc istoric pitoresc, cunoscut pentru biserica sa neagră iconică.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.384162,
+                        64.821909
+                  ]
+            },
+            {
+                  "name": "Axlarhyrna",
+                  "text": "Un vârf montan care oferă priveliști asupra peninsulei Snæfellsnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.44592,
+                        64.82981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Búðahraun",
+                  "text": "A nature reserve featuring an extensive lava field near Búðakirkja.",
+                  "category": "natural",
+                  "coords": [
+                        -23.415273,
+                        64.80985
+                  ]
+            },
+            {
+                  "name": "Búðahellir",
+                  "text": "A notable lava cave entrance located within the Búðahraun lava field.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.430029,
+                        64.810373
+                  ]
+            },
+            {
+                  "name": "Búðir",
+                  "text": "A scenic historic site known for its iconic black church.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.384162,
+                        64.821909
+                  ]
+            },
+            {
+                  "name": "Axlarhyrna",
+                  "text": "A mountain peak offering views of the Snæfellsnes peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.44592,
+                        64.82981
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "church",
     name: { de: "Búðakirkja", hu: "Búðakirkja", ro: "Búðakirkja", en: "Búðakirkja"},
@@ -601,7 +871,52 @@ imageHint: "Vik church red roof Iceland",
     },
     image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp",
 },  {
-    id: "iceland-glaumbaer-farm-museum-landmarks-v2",
+    id: "iceland-glaumbaer-farm-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Glaumbær ist ein berühmtes Torfhaus-Museum, das das isländische Landleben vergangener Jahrhunderte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Glaumbær egy híres gyepház-múzeum, amely az izlandi vidéki életet mutatja be az elmúlt évszázadokból.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Glaumbær este un faimos muzeu cu case din brazde de iarbă, ilustrând viața rurală islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glaumbær",
+                  "text": "Glaumbær is a famous turf house museum showing Icelandic rural life from past centuries.",
+                  "category": "museum",
+                  "coords": [
+                        -19.504641,
+                        65.611009
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Torfgof Glaumbær", hu: "Glaumbær skanzen", ro: "Ferma Glaumbær", en: "Glaumbær Farm Museum"},
@@ -647,7 +962,52 @@ imageHint: "Glaumbaer turf farm museum Iceland",
     },
     image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp",
 },  {
-    id: "iceland-laufas-turf-house-landmarks-v2",
+    id: "iceland-laufas-turf-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "Ein Museum in Laufás, das in einem traditionellen isländischen Torfhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "Laufásban található múzeum, amely egy hagyományos izlandi tőzegházban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "Un muzeu în Laufás, găzduit într-o casă tradițională islandeză din turbă.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Turfhouse Laufás",
+                  "text": "A museum in Laufás housed in a traditional Icelandic turf farmhouse.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Torfgof Laufás", hu: "Laufás gyeptéglás házak", ro: "Casa din turbă Laufás", en: "Laufás Turf House"},
@@ -877,7 +1237,52 @@ imageHint: "Imagine Peace Tower Videy Island light",
     },
     image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp",
 },  {
-    id: "iceland-borgarvirki-landmarks-v2",
+    id: "iceland-borgarvirki-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borgarvirki",
+                  "text": "Eine natürliche Basaltformation, die in der Wikingerzeit als Festung genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -20.597177,
+                        65.474778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borgarvirki",
+                  "text": "Természetes bazaltformáció, amelyet a viking korban erődként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -20.597177,
+                        65.474778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borgarvirki",
+                  "text": "O formațiune naturală de bazalt care a fost folosită ca fortăreață în epoca vikingă.",
+                  "category": "historical",
+                  "coords": [
+                        -20.597177,
+                        65.474778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borgarvirki",
+                  "text": "A natural basalt formation that was used as a fortress during the Viking Age.",
+                  "category": "historical",
+                  "coords": [
+                        -20.597177,
+                        65.474778
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Borgarvirki", hu: "Borgarvirki", ro: "Borgarvirki", en: "Borgarvirki"},
@@ -969,7 +1374,88 @@ imageHint: "Videyjarkirkja stone church Iceland",
     },
     image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp",
 },  {
-    id: "iceland-holar-cathedral-landmarks-v2",
+    id: "iceland-holar-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nýibær",
+                  "text": "Ein historisches isländisches Torfhaus, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Rekonstruiertes mittelalterliches Holzgebäude am historischen Standort Hólar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nýibær",
+                  "text": "Történelmi izlandi gyepház, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Rekonstruált középkori faépület a történelmi Hólar helyszínén.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nýibær",
+                  "text": "O casă istorică islandeză din turbă, care funcționează ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "O clădire medievală din lemn reconstruită pe situl istoric Hólar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nýibær",
+                  "text": "A historic Icelandic turf house functioning as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "A reconstructed medieval wooden building at the historic Hólar site.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "cathedral",
     name: { de: "Kathedrale von Hólar", hu: "Hólari székesegyház", ro: "Catedrala din Hólar", en: "Hólar Cathedral"},
@@ -1199,7 +1685,232 @@ imageHint: "Settlement Center Borgarnes building",
     },
     image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp",
 },  {
-    id: "iceland-skogar-museum-landmarks-v2",
+    id: "iceland-skogar-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Einer der größten und bekanntesten Wasserfälle Islands mit einer Fallhöhe von 60 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Ein Freilichtmuseum, das die traditionelle isländische Lebensweise und Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf den mächtigen Skógafoss-Wasserfall bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Traditionelle isländische Torfhäuser, die früher Schutz gegen das raue Klima boten.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "Ein Beispiel für die historische isländische Bauweise aus Torf und Stein.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "Ein historisches Gebäude auf dem Gelände des Skógar-Museums.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Izland egyik legnagyobb és legismertebb vízesése, amely 60 méter magasból zúdul alá.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Szabadtéri néprajzi múzeum, amely a hagyományos izlandi életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Kilátópont, ahonnan látványos panoráma nyílik a hatalmas Skógafoss-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Hagyományos izlandi gyepházak, amelyek egykor védelmet nyújtottak a zord éghajlat ellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "Példa a történelmi izlandi gyeptéglás és kőfalas építkezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "Történelmi épület a Skógar Múzeum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Una dintre cele mai mari și cunoscute cascade din Islanda, cu o cădere de 60 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Un muzeu în aer liber care prezintă modul de viață și cultura tradițională islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Un punct de observație care oferă o vedere spectaculoasă asupra cascadei Skógafoss.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Case tradiționale islandeze din turbă, care ofereau odinioară protecție împotriva climei aspre.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "Un exemplu de construcție istorică islandeză realizată din turbă și piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "O clădire istorică situată pe domeniul muzeului Skógar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skógafoss",
+                  "text": "One of Iceland's largest and most famous waterfalls, with a drop of 60 metres.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógar Museum",
+                  "text": "An open-air folk museum showcasing traditional Icelandic life and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "A viewpoint offering a spectacular perspective of the mighty Skógafoss waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Traditional Icelandic turf houses that once provided shelter against the harsh climate.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Turf house",
+                  "text": "An example of historic Icelandic architecture built with turf and stone.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "House",
+                  "text": "A historic building located on the grounds of the Skógar Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Skógar Museum", hu: "Skógar Múzeum", ro: "Muzeul Skógar", en: "Skógar Museum"},

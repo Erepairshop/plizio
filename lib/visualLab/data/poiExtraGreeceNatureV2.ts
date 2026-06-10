@@ -49,7 +49,304 @@ imageHint: "Lake Plastira panoramic view with mountains",
     },
     image: "/poi-images/greece-lake-plastira-nature-v2.webp",
 },  {
-    id: "greece-vikos-gorge-nature-v2",
+    id: "greece-vikos-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "text": "Ein Naturkundemuseum in der Vikos-Schlucht, das die lokale Flora und Fauna dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.774313,
+                        39.870215
+                  ]
+            },
+            {
+                  "name": "Βίτσα Ζαγορίου",
+                  "text": "Die Überreste einer antiken Siedlung der Molosser in der Nähe der Vikos-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        20.745343,
+                        39.876916
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Oxia",
+                  "text": "Ein spektakulärer Aussichtspunkt, der einen weiten Blick über die tiefe Vikos-Schlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.752619,
+                        39.907154
+                  ]
+            },
+            {
+                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "text": "Ein Ausstellungszentrum in Monodendri, das sich dem kulturellen Erbe der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.748296,
+                        39.882015
+                  ]
+            },
+            {
+                  "name": "Vradeto stairs",
+                  "text": "Ein historischer Steinpfad mit vielen Stufen, der die Dörfer Vradeto und Kapesovo verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.785689,
+                        39.894056
+                  ]
+            },
+            {
+                  "name": "stone staircase",
+                  "text": "Eine traditionelle Steintreppe in der Vikos-Region, die als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        20.7859,
+                        39.890489
+                  ]
+            },
+            {
+                  "name": "Natural pool",
+                  "text": "Natürliche Felsbecken mit klarem Wasser in der Nähe der Vikos-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763914,
+                        39.880996
+                  ]
+            },
+            {
+                  "name": "Steinwald",
+                  "text": "Eine einzigartige geologische Formation aus geschichteten Kalksteinfelsen bei Monodendri.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743474,
+                        39.89329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "text": "Természettudományi múzeum a Vikos-szurdokban, amely a helyi növény- és állatvilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.774313,
+                        39.870215
+                  ]
+            },
+            {
+                  "name": "Βίτσα Ζαγορίου",
+                  "text": "Egy ókori molosszus település maradványai a Vikos-szurdok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.745343,
+                        39.876916
+                  ]
+            },
+            {
+                  "name": "Οξιά",
+                  "text": "Látványos kilátópont, ahonnan lenyűgöző panoráma nyílik a mély Vikos-szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        20.752619,
+                        39.907154
+                  ]
+            },
+            {
+                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "text": "Kiállítási központ Monodendriben, amely a régió kulturális örökségének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        20.748296,
+                        39.882015
+                  ]
+            },
+            {
+                  "name": "Vradeto stairs",
+                  "text": "Történelmi kőlépcsősor, amely Vradeto és Kapesovo falvakat köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        20.785689,
+                        39.894056
+                  ]
+            },
+            {
+                  "name": "stone staircase",
+                  "text": "Hagyományos kőlépcső a Vikos-régióban, amely kilátóként is funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        20.7859,
+                        39.890489
+                  ]
+            },
+            {
+                  "name": "Natural pool",
+                  "text": "Természetes sziklamedencék tiszta vízzel a Vikos-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763914,
+                        39.880996
+                  ]
+            },
+            {
+                  "name": "Πέτρινο Δάσος",
+                  "text": "Egyedülálló geológiai képződmény rétegzett mészkősziklákból Monodendri közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743474,
+                        39.89329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "text": "Un muzeu de istorie naturală din Defileul Vikos, care documentează flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        20.774313,
+                        39.870215
+                  ]
+            },
+            {
+                  "name": "Βίτσα Ζαγορίου",
+                  "text": "Ruinele unei vechi așezări a molosilor, situate lângă Defileul Vikos.",
+                  "category": "historical",
+                  "coords": [
+                        20.745343,
+                        39.876916
+                  ]
+            },
+            {
+                  "name": "Οξιά",
+                  "text": "Un punct de belvedere spectaculos care oferă o vedere panoramică asupra Defileului Vikos.",
+                  "category": "natural",
+                  "coords": [
+                        20.752619,
+                        39.907154
+                  ]
+            },
+            {
+                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "text": "Un centru expozițional din Monodendri, dedicat moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.748296,
+                        39.882015
+                  ]
+            },
+            {
+                  "name": "Vradeto stairs",
+                  "text": "O scară istorică de piatră care leagă satele Vradeto și Kapesovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.785689,
+                        39.894056
+                  ]
+            },
+            {
+                  "name": "stone staircase",
+                  "text": "O scară tradițională de piatră din regiunea Vikos, care servește drept punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        20.7859,
+                        39.890489
+                  ]
+            },
+            {
+                  "name": "Natural pool",
+                  "text": "Piscine naturale în stâncă, cu apă limpede, situate lângă Defileul Vikos.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763914,
+                        39.880996
+                  ]
+            },
+            {
+                  "name": "Πέτρινο Δάσος",
+                  "text": "O formațiune geologică unică din roci calcaroase stratificate, lângă Monodendri.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743474,
+                        39.89329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kostas Lazaridis Museum",
+                  "text": "A natural history museum in the Vikos Gorge documenting the local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        20.774313,
+                        39.870215
+                  ]
+            },
+            {
+                  "name": "Molossos Ruins",
+                  "text": "The remains of an ancient Molossian settlement located near the Vikos Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        20.745343,
+                        39.876916
+                  ]
+            },
+            {
+                  "name": "Viewpoint Oxia",
+                  "text": "A spectacular viewpoint offering a sweeping panorama over the deep Vikos Gorge.",
+                  "category": "natural",
+                  "coords": [
+                        20.752619,
+                        39.907154
+                  ]
+            },
+            {
+                  "name": "Rizarios Exhibition Center",
+                  "text": "An exhibition centre in Monodendri dedicated to the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        20.748296,
+                        39.882015
+                  ]
+            },
+            {
+                  "name": "Vradeto stairs",
+                  "text": "A historic stone path with many steps connecting the villages of Vradeto and Kapesovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.785689,
+                        39.894056
+                  ]
+            },
+            {
+                  "name": "stone staircase",
+                  "text": "A traditional stone staircase in the Vikos region that serves as a scenic viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        20.7859,
+                        39.890489
+                  ]
+            },
+            {
+                  "name": "Natural pool",
+                  "text": "Natural rock pools with clear water located near the Vikos Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763914,
+                        39.880996
+                  ]
+            },
+            {
+                  "name": "Stone Forest",
+                  "text": "A unique geological formation of layered limestone rocks located near Monodendri.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743474,
+                        39.89329
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Vikos-Schlucht", hu: "Vikosz-szurdok", ro: "Defileul Vikos", en: "Vikos Gorge"},
@@ -95,7 +392,304 @@ imageHint: "Vikos Gorge deep canyon landscape",
     },
     image: "/poi-images/greece-vikos-gorge-nature-v2.webp",
 },  {
-    id: "greece-samaria-gorge-nature-v2",
+    id: "greece-samaria-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Eine historische Festungsruine oberhalb von Agia Roumeli am Ausgang der Samaria-Schlucht.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "Ein Museum in der Samaria-Schlucht, das der Geologie und menschlichen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Ein lokales Museum, das die Beziehung zwischen Mensch und Natur in Samaria zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "Eine osmanische Festung in der Nähe der Samaria-Schlucht auf Kreta.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Eine historische Festungsanlage östlich von Agia Roumeli.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Samaria Nationalpark",
+                  "text": "Ein berühmter Nationalpark auf Kreta, der eine der längsten Schluchten Europas umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Volakias",
+                  "text": "Ein Berggipfel in den Weißen Bergen auf Kreta in der Nähe der Samaria-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Ein Berggipfel im Gebiet der Samaria-Schlucht auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "Történelmi várrom Agia Roumeli felett, a Szamaria-szurdok kijáratánál.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "A Szamaria-szurdok geológiájával és emberi történelmével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Helyi múzeum, amely az ember és a természet kapcsolatát mutatja be Szamariában.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "Oszmán kori erőd a krétai Szamaria-szurdok közelében.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "Történelmi erődítmény Agia Roumelitől keletre.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "text": "Híres krétai nemzeti park, amely Európa egyik leghosszabb szurdokát foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Βολακιάς",
+                  "text": "Hegycsúcs a krétai Fehér-hegységben, a Szamaria-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Hegycsúcs a krétai Szamaria-szurdok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "O ruină de fortificație istorică deasupra satului Agia Roumeli, la ieșirea din Cheile Samariei.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "Un muzeu din Cheile Samariei dedicat geologiei și istoriei umane.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "Un muzeu local care prezintă relația dintre om și natură în Samaria.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Κούλες Αγγελοκαμπή",
+                  "text": "O fortăreață otomană în apropierea Cheilor Samariei din Creta.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "O fortificație istorică situată la est de Agia Roumeli.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "text": "Un faimos parc național din Creta, ce cuprinde unul dintre cele mai lungi chei din Europa.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Βολακιάς",
+                  "text": "Un vârf montan în Munții Albi din Creta, lângă Cheile Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Ψσιριστρα",
+                  "text": "Un vârf montan în zona Cheilor Samariei din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper western fort Agia Roumeli",
+                  "text": "A historic fort ruin located above Agia Roumeli at the exit of the Samaria Gorge.",
+                  "category": "castle",
+                  "coords": [
+                        23.954895,
+                        35.236975
+                  ]
+            },
+            {
+                  "name": "Man and rock",
+                  "text": "A museum in the Samaria Gorge dedicated to geology and human history.",
+                  "category": "museum",
+                  "coords": [
+                        23.964576,
+                        35.238181
+                  ]
+            },
+            {
+                  "name": "Man and Samaria",
+                  "text": "A local museum showcasing the relationship between people and nature in Samaria.",
+                  "category": "museum",
+                  "coords": [
+                        23.958806,
+                        35.291438
+                  ]
+            },
+            {
+                  "name": "Koules Angelokambi",
+                  "text": "An Ottoman-era fortress located near the Samaria Gorge in Crete.",
+                  "category": "castle",
+                  "coords": [
+                        23.971309,
+                        35.237477
+                  ]
+            },
+            {
+                  "name": "Upper eastern fort Agia Roumeli",
+                  "text": "A historic fortification located east of Agia Roumeli.",
+                  "category": "castle",
+                  "coords": [
+                        23.97375,
+                        35.239658
+                  ]
+            },
+            {
+                  "name": "Samaria National Park",
+                  "text": "A famous national park in Crete encompassing one of the longest gorges in Europe.",
+                  "category": "natural",
+                  "coords": [
+                        23.992451,
+                        35.27683
+                  ]
+            },
+            {
+                  "name": "Volakiás",
+                  "text": "A mountain peak in the White Mountains of Crete, located near the Samaria Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.927735,
+                        35.288069
+                  ]
+            },
+            {
+                  "name": "Psirístra",
+                  "text": "A mountain peak located in the Samaria Gorge area on Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        23.985146,
+                        35.277293
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Defileul Samaria", en: "Samaria Gorge"},
@@ -141,7 +735,124 @@ imageHint: "Samaria Gorge narrow canyon walls",
     },
     image: "/poi-images/greece-samaria-gorge-nature-v2.webp",
 },  {
-    id: "greece-lake-prespa-nature-v2",
+    id: "greece-lake-prespa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Τσουτσούλι (Βροντερό)",
+                  "text": "Ein Berggipfel in der Nähe des Prespasees mit herrlicher Aussicht auf die Grenzregion.",
+                  "category": "landmark",
+                  "coords": [
+                        21.062788,
+                        40.738766
+                  ]
+            },
+            {
+                  "name": "Παλαιά Πύλη",
+                  "text": "Historische Ruinen in der Region des Prespasees, die von der antiken Besiedlung zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        21.044248,
+                        40.771925
+                  ]
+            },
+            {
+                  "name": "Pyxos",
+                  "text": "Überreste einer antiken Stätte namens Pyxos in der malerischen Umgebung des Prespasees.",
+                  "category": "historical",
+                  "coords": [
+                        21.003045,
+                        40.753065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τσουτσούλι (Βροντερό)",
+                  "text": "Hegycsúcs a Preszpa-tó közelében, gyönyörű kilátással a határmenti régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.062788,
+                        40.738766
+                  ]
+            },
+            {
+                  "name": "Παλαιά Πύλη",
+                  "text": "Történelmi romok a Preszpa-tó környékén, amelyek az ősi településekről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        21.044248,
+                        40.771925
+                  ]
+            },
+            {
+                  "name": "Pyxos",
+                  "text": "Pyxos nevű ókori helyszín maradványai a Preszpa-tó festői környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        21.003045,
+                        40.753065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τσουτσούλι (Βροντερό)",
+                  "text": "Un vârf montan lângă Lacul Prespa, oferind vederi panoramice asupra regiunii de frontieră.",
+                  "category": "landmark",
+                  "coords": [
+                        21.062788,
+                        40.738766
+                  ]
+            },
+            {
+                  "name": "Παλαιά Πύλη",
+                  "text": "Ruine istorice în regiunea Lacului Prespa, dovezi ale așezărilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.044248,
+                        40.771925
+                  ]
+            },
+            {
+                  "name": "Pyxos",
+                  "text": "Rămășițele unui sit antic numit Pyxos în împrejurimile pitorești ale Lacului Prespa.",
+                  "category": "historical",
+                  "coords": [
+                        21.003045,
+                        40.753065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vrondero",
+                  "text": "A mountain peak near Lake Prespa with scenic views over the border region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.062788,
+                        40.738766
+                  ]
+            },
+            {
+                  "name": "Palea Pyli",
+                  "text": "Historical ruins in the Lake Prespa region, witnessing ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        21.044248,
+                        40.771925
+                  ]
+            },
+            {
+                  "name": "Pyxos",
+                  "text": "Remains of an ancient site called Pyxos in the scenic surroundings of Lake Prespa.",
+                  "category": "historical",
+                  "coords": [
+                        21.003045,
+                        40.753065
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Prespa-Seen", hu: "Preszpa-tavak", ro: "Lacurile Prespa", en: "Lake Prespa"},
@@ -187,7 +898,160 @@ imageHint: "Lake Prespa with pelicans",
     },
     image: "/poi-images/greece-lake-prespa-nature-v2.webp",
 },  {
-    id: "greece-mount-athos-nature-v2",
+    id: "greece-mount-athos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "Der zweithöchste Gipfel des Berges Athos mit einer kleinen Kapelle auf der Spitze.",
+                  "category": "landmark",
+                  "coords": [
+                        24.311359,
+                        40.129086
+                  ]
+            },
+            {
+                  "name": "Athos",
+                  "text": "Der heilige Gipfel der Athos-Halbinsel, ein bedeutendes Ziel für Pilger.",
+                  "category": "landmark",
+                  "coords": [
+                        24.327258,
+                        40.158421
+                  ]
+            },
+            {
+                  "name": "Κυριακό Αγ. Τριάδος",
+                  "text": "Eine kleine Kapelle oder Kirche, die der Heiligen Dreifaltigkeit auf dem Berg Athos gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.340271,
+                        40.130431
+                  ]
+            },
+            {
+                  "name": "Skiti Agia Anna",
+                  "text": "Die älteste und größte Skete auf dem Berg Athos, die zum Kloster Megisti Lavra gehört.",
+                  "category": "religious",
+                  "coords": [
+                        24.296733,
+                        40.140509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "Az Athos-hegy második legmagasabb csúcsa, tetején egy kis kápolnával.",
+                  "category": "landmark",
+                  "coords": [
+                        24.311359,
+                        40.129086
+                  ]
+            },
+            {
+                  "name": "Άθως",
+                  "text": "Az Athos-félsziget szent csúcsa, amely fontos zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        24.327258,
+                        40.158421
+                  ]
+            },
+            {
+                  "name": "Κυριακό Αγ. Τριάδος",
+                  "text": "A Szentháromságnak szentelt kis kápolna vagy templom az Athos-hegyen.",
+                  "category": "religious",
+                  "coords": [
+                        24.340271,
+                        40.130431
+                  ]
+            },
+            {
+                  "name": "Σκήτη Αγίας Άννας",
+                  "text": "Az Athos-hegy legrégebbi és legnagyobb szkítéje, amely a Megisti Lavra kolostorhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        24.296733,
+                        40.140509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "Al doilea cel mai înalt vârf al Muntelui Athos, având o mică capelă în vârf.",
+                  "category": "landmark",
+                  "coords": [
+                        24.311359,
+                        40.129086
+                  ]
+            },
+            {
+                  "name": "Vârful Athon (2033 m.)",
+                  "text": "Vârful sfânt al peninsulei Athos, o destinație importantă pentru pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        24.327258,
+                        40.158421
+                  ]
+            },
+            {
+                  "name": "Schitul Kavsokalivia",
+                  "text": "O mică capelă sau biserică dedicată Sfintei Treimi de pe Muntele Athos.",
+                  "category": "religious",
+                  "coords": [
+                        24.340271,
+                        40.130431
+                  ]
+            },
+            {
+                  "name": "Schitul Sfânta Ana",
+                  "text": "Cea mai veche și mai mare schit de pe Muntele Athos, aparținând mănăstirii Marea Lavră.",
+                  "category": "religious",
+                  "coords": [
+                        24.296733,
+                        40.140509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Profitis Ilias",
+                  "text": "The second highest peak of Mount Athos, with a small chapel at the summit.",
+                  "category": "landmark",
+                  "coords": [
+                        24.311359,
+                        40.129086
+                  ]
+            },
+            {
+                  "name": "Athos",
+                  "text": "The holy summit of the Athos peninsula, a major destination for pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        24.327258,
+                        40.158421
+                  ]
+            },
+            {
+                  "name": "Agia Triada",
+                  "text": "A small chapel or church dedicated to the Holy Trinity on Mount Athos.",
+                  "category": "religious",
+                  "coords": [
+                        24.340271,
+                        40.130431
+                  ]
+            },
+            {
+                  "name": "Skiti Agia Anna",
+                  "text": "The oldest and largest skete on Mount Athos, belonging to the Great Lavra monastery.",
+                  "category": "religious",
+                  "coords": [
+                        24.296733,
+                        40.140509
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Berg Athos", hu: "Athosz-hegy", ro: "Muntele Athos", en: "Mount Athos"},
@@ -325,7 +1189,88 @@ imageHint: "Pindus Mountains snow-capped peaks",
     },
     image: "/poi-images/greece-pindus-mountains-nature-v2.webp",
 },  {
-    id: "greece-mount-pelion-nature-v2",
+    id: "greece-mount-pelion-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Überreste einer mittelalterlichen Befestigungsanlage auf dem Berg Pilion.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "text": "Ein Informationspunkt für Wanderwege und Naturpfade in der Region Makrinitsa am Pilion.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980207,
+                        39.42761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Egy középkori erődítmény maradványai a Pelion-hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "text": "Tájékoztató pont a Makrinitsa környéki túraútvonalakról a Pelion-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980207,
+                        39.42761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Vestigiile unei fortificații medievale situată pe Muntele Pelion.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "text": "Un punct de informare pentru trasee montane în regiunea Makrinitsa din Muntele Pelion.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980207,
+                        39.42761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortification of Episkopi",
+                  "text": "Remains of a medieval fortification located on Mount Pelion.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Sarakinos - Kaliakouda - Panagias - Pournari - Elatorema - Kinotita Makrinitsas",
+                  "text": "An information point for hiking trails in the Makrinitsa region of Mount Pelion.",
+                  "category": "landmark",
+                  "coords": [
+                        22.980207,
+                        39.42761
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Pilion", hu: "Pélion-hegység", ro: "Muntele Pelion", en: "Mount Pelion"},
@@ -371,7 +1316,268 @@ imageHint: "Mount Pelion lush forest landscape",
     },
     image: "/poi-images/greece-mount-pelion-nature-v2.webp",
 },  {
-    id: "greece-mount-ida-nature-v2",
+    id: "greece-mount-ida-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Idäische Grotte",
+                  "text": "Legendäre Höhle am Berg Ida, die als Geburtsort des Zeus gilt.",
+                  "category": "historical",
+                  "coords": [
+                        24.828941,
+                        35.208246
+                  ]
+            },
+            {
+                  "name": "Αγκαθιάς",
+                  "text": "Markanter Gipfel im Psiloritis-Massiv auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.783552,
+                        35.220177
+                  ]
+            },
+            {
+                  "name": "Κουρούνα",
+                  "text": "Bergspitze im Gebirgszug des Psiloritis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.797491,
+                        35.240576
+                  ]
+            },
+            {
+                  "name": "Κούσακας",
+                  "text": "Berggipfel in der Region des Berges Ida auf Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.809718,
+                        35.217386
+                  ]
+            },
+            {
+                  "name": "Εκδορά",
+                  "text": "Erhebung im Psiloritis-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.790172,
+                        35.199724
+                  ]
+            },
+            {
+                  "name": "Seli",
+                  "text": "Aussichtspunkt mit weitem Blick über das Psiloritis-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        24.789706,
+                        35.223402
+                  ]
+            },
+            {
+                  "name": "Ακώλυτα",
+                  "text": "Ort mit schöner Aussicht am Berg Ida.",
+                  "category": "natural",
+                  "coords": [
+                        24.810463,
+                        35.201082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Σπήλαιο Ιδαίον Άντρον",
+                  "text": "Legendás barlang az Ida-hegyen, amelyet Zeusz szülőhelyének tartanak.",
+                  "category": "historical",
+                  "coords": [
+                        24.828941,
+                        35.208246
+                  ]
+            },
+            {
+                  "name": "Αγκαθιάς",
+                  "text": "Jellegzetes hegycsúcs a krétai Psziloritisz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.783552,
+                        35.220177
+                  ]
+            },
+            {
+                  "name": "Κουρούνα",
+                  "text": "Hegycsúcs a Psziloritisz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.797491,
+                        35.240576
+                  ]
+            },
+            {
+                  "name": "Κούσακας",
+                  "text": "Hegycsúcs a krétai Ida-hegy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.809718,
+                        35.217386
+                  ]
+            },
+            {
+                  "name": "Εκδορά",
+                  "text": "Kiemelkedés a Psziloritisz-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.790172,
+                        35.199724
+                  ]
+            },
+            {
+                  "name": "Seli",
+                  "text": "Kilátópont széles kilátással a Psziloritisz-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        24.789706,
+                        35.223402
+                  ]
+            },
+            {
+                  "name": "Ακώλυτα",
+                  "text": "Szép kilátást nyújtó hely az Ida-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        24.810463,
+                        35.201082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Σπήλαιο Ιδαίον Άντρον",
+                  "text": "Peșteră legendară de pe muntele Ida, considerată locul de naștere al lui Zeus.",
+                  "category": "historical",
+                  "coords": [
+                        24.828941,
+                        35.208246
+                  ]
+            },
+            {
+                  "name": "Αγκαθιάς",
+                  "text": "Vârf muntos proeminent în masivul Psiloritis din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.783552,
+                        35.220177
+                  ]
+            },
+            {
+                  "name": "Κουρούνα",
+                  "text": "Vârf muntos în lanțul Psiloritis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.797491,
+                        35.240576
+                  ]
+            },
+            {
+                  "name": "Κούσακας",
+                  "text": "Vârf de munte în regiunea muntelui Ida din Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        24.809718,
+                        35.217386
+                  ]
+            },
+            {
+                  "name": "Εκδορά",
+                  "text": "O culme în munții Psiloritis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.790172,
+                        35.199724
+                  ]
+            },
+            {
+                  "name": "Seli",
+                  "text": "Punct de belvedere cu vedere panoramică asupra masivului Psiloritis.",
+                  "category": "natural",
+                  "coords": [
+                        24.789706,
+                        35.223402
+                  ]
+            },
+            {
+                  "name": "Ακώλυτα",
+                  "text": "Loc cu o vedere frumoasă pe muntele Ida.",
+                  "category": "natural",
+                  "coords": [
+                        24.810463,
+                        35.201082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Idaean Cave",
+                  "text": "Legendary cave on Mount Ida, considered the birthplace of Zeus.",
+                  "category": "historical",
+                  "coords": [
+                        24.828941,
+                        35.208246
+                  ]
+            },
+            {
+                  "name": "Agathias",
+                  "text": "Prominent mountain peak in the Psiloritis massif of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.783552,
+                        35.220177
+                  ]
+            },
+            {
+                  "name": "Kourouna",
+                  "text": "Mountain peak in the Psiloritis range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.797491,
+                        35.240576
+                  ]
+            },
+            {
+                  "name": "Kousakas",
+                  "text": "Mountain peak in the region of Mount Ida in Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.809718,
+                        35.217386
+                  ]
+            },
+            {
+                  "name": "Ekdora",
+                  "text": "Elevation in the Psiloritis mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.790172,
+                        35.199724
+                  ]
+            },
+            {
+                  "name": "Seli",
+                  "text": "Viewpoint with a wide view over the Psiloritis massif.",
+                  "category": "natural",
+                  "coords": [
+                        24.789706,
+                        35.223402
+                  ]
+            },
+            {
+                  "name": "Akolita",
+                  "text": "Location with a beautiful view on Mount Ida.",
+                  "category": "natural",
+                  "coords": [
+                        24.810463,
+                        35.201082
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Psiloritis (Berg Ida)", hu: "Psziloritisz (Ida-hegy)", ro: "Muntele Ida (Psiloritis)", en: "Mount Ida (Psiloritis)"},
@@ -647,7 +1853,52 @@ imageHint: "Mount Helmos snow peaks observatory",
     },
     image: "/poi-images/greece-mount-helmos-nature-v2.webp",
 },  {
-    id: "greece-mount-parnassus-nature-v2",
+    id: "greece-mount-parnassus-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "Ein Naturschutzgebiet am Berg Parnass, bekannt für seine alpine Flora.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "Természetvédelmi terület a Parnasszosz-hegyen, alpesi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "text": "O rezervație naturală pe Muntele Parnas, cunoscută pentru flora alpină.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asprochoma - Psilo - Prondoli - Kelari (Arachovas)",
+                  "text": "A nature reserve on Mount Parnassus known for its alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        22.575987,
+                        38.520143
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Parnass", hu: "Parnasszosz", ro: "Muntele Parnas", en: "Mount Parnassus"},
@@ -693,7 +1944,124 @@ imageHint: "Mount Parnassus snow peaks",
     },
     image: "/poi-images/greece-mount-parnassus-nature-v2.webp",
 },  {
-    id: "greece-mount-taygetos-nature-v2",
+    id: "greece-mount-taygetos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "Profitis Ilias ist mit 2.407 Metern der höchste Gipfel des Taygetos-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        22.350341,
+                        36.953059
+                  ]
+            },
+            {
+                  "name": "Χαλασμένο",
+                  "text": "Halasmeno ist ein schroffer Berggipfel im Taygetos-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.321882,
+                        36.956942
+                  ]
+            },
+            {
+                  "name": "'Gouves' point",
+                  "text": "Der Punkt 'Gouves' ist ein Aussichtspunkt am Taygetos.",
+                  "category": "natural",
+                  "coords": [
+                        22.359733,
+                        36.958311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "A Profitis Ilias a Tajgetosz-hegység legmagasabb csúcsa, 2407 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.350341,
+                        36.953059
+                  ]
+            },
+            {
+                  "name": "Χαλασμένο",
+                  "text": "A Halasmeno a Tajgetosz-hegység egyik sziklás hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.321882,
+                        36.956942
+                  ]
+            },
+            {
+                  "name": "'Gouves' point",
+                  "text": "A 'Gouves' pont egy kilátóhely a Tajgetosz-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        22.359733,
+                        36.958311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Προφήτης Ηλίας",
+                  "text": "Profitis Ilias este cel mai înalt vârf al Muntelui Taygetos, având 2.407 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        22.350341,
+                        36.953059
+                  ]
+            },
+            {
+                  "name": "Χαλασμένο",
+                  "text": "Halasmeno este un vârf muntos accidentat din lanțul Taygetos.",
+                  "category": "landmark",
+                  "coords": [
+                        22.321882,
+                        36.956942
+                  ]
+            },
+            {
+                  "name": "'Gouves' point",
+                  "text": "Punctul „Gouves” este un punct de observație situat pe Muntele Taygetos.",
+                  "category": "natural",
+                  "coords": [
+                        22.359733,
+                        36.958311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Profitis Ilias",
+                  "text": "Profitis Ilias is the highest peak of Mount Taygetos at 2,407 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        22.350341,
+                        36.953059
+                  ]
+            },
+            {
+                  "name": "Halasmeno (Taygetos)",
+                  "text": "Halasmeno is a rugged mountain peak in the Mount Taygetos range.",
+                  "category": "landmark",
+                  "coords": [
+                        22.321882,
+                        36.956942
+                  ]
+            },
+            {
+                  "name": "'Gouves' point",
+                  "text": "'Gouves' point is a scenic viewpoint located on Mount Taygetos.",
+                  "category": "natural",
+                  "coords": [
+                        22.359733,
+                        36.958311
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Taygetos-Gebirge", hu: "Taügetosz-hegység", ro: "Munții Taiget", en: "Mount Taygetos"},
@@ -739,7 +2107,52 @@ imageHint: "Mount Taygetos pyramid peak",
     },
     image: "/poi-images/greece-mount-taygetos-nature-v2.webp",
 },  {
-    id: "greece-nestos-river-nature-v2",
+    id: "greece-nestos-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nestos Delta Museum",
+                  "text": "Ein Museum am Fluss Nestos, das Informationen über das lokale Ökosystem des Deltas bietet.",
+                  "category": "museum",
+                  "coords": [
+                        24.705527,
+                        40.983249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nestos Delta Museum",
+                  "text": "A Nestos-folyónál található múzeum, amely a delta helyi ökoszisztémájáról nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        24.705527,
+                        40.983249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nestos Delta Museum",
+                  "text": "Un muzeu situat pe râul Nestos, care oferă informații despre ecosistemul local al deltei.",
+                  "category": "museum",
+                  "coords": [
+                        24.705527,
+                        40.983249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nestos Delta Museum",
+                  "text": "A museum located by the Nestos River providing information about the local ecosystem of the delta.",
+                  "category": "museum",
+                  "coords": [
+                        24.705527,
+                        40.983249
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "river",
     name: { de: "Nestos", hu: "Nesztosz", ro: "Râul Nestos", en: "Nestos River"},
@@ -831,7 +2244,52 @@ imageHint: "Nestos River meanders gorge",
     },
   },
   {
-    id: "greece-lake-vegoritida-nature-v2",
+    id: "greece-lake-vegoritida-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
+                  "text": "Ein ruhiger Strandabschnitt am Vegoritida-See, der nur über einen Fußweg erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        21.813594,
+                        40.734236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
+                  "text": "Csendes strandterület a Vegoritida-tavon, amely csak gyalogúton közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        21.813594,
+                        40.734236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
+                  "text": "O zonă de plajă liniștită pe lacul Vegoritida, accesibilă doar printr-o potecă pietonală.",
+                  "category": "recreational",
+                  "coords": [
+                        21.813594,
+                        40.734236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vegoritida Lake Walking Only Beach (Via Vegoritida Apartments Path)",
+                  "text": "A quiet beach area on Lake Vegoritida, accessible only via a walking path.",
+                  "category": "recreational",
+                  "coords": [
+                        21.813594,
+                        40.734236
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Vegoritida-See", hu: "Vegoritida-tó", ro: "Lacul Vegoritida", en: "Lake Vegoritida"},
@@ -877,7 +2335,52 @@ imageHint: "Lake Vegoritida blue water mountains",
     },
     image: "/poi-images/greece-lake-vegoritida-nature-v2.webp",
 },  {
-    id: "greece-lake-trichonida-nature-v2",
+    id: "greece-lake-trichonida-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panos",
+                  "text": "Panos ist eine historische Burganlage in der Nähe des Trichonida-Sees in Griechenland.",
+                  "category": "castle",
+                  "coords": [
+                        21.470938,
+                        38.524439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panos",
+                  "text": "Panos egy történelmi várhelyszín a görögországi Trichonida-tó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        21.470938,
+                        38.524439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panos",
+                  "text": "Panos este un sit istoric de castel situat lângă Lacul Trichonida din Grecia.",
+                  "category": "castle",
+                  "coords": [
+                        21.470938,
+                        38.524439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panos",
+                  "text": "Panos is a historic castle site located near Lake Trichonida in Greece.",
+                  "category": "castle",
+                  "coords": [
+                        21.470938,
+                        38.524439
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Trichonida-See", hu: "Trihonida-tó", ro: "Lacul Trichonida", en: "Lake Trichonida"},
@@ -923,7 +2426,52 @@ imageHint: "Lake Trichonida panoramic landscape",
     },
     image: "/poi-images/greece-lake-trichonida-nature-v2.webp",
 },  {
-    id: "greece-mount-dirfi-nature-v2",
+    id: "greece-mount-dirfi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Ein historischer Wachturm aus der venezianischen Zeit am Fuße des Mount Dirfi.",
+                  "category": "castle",
+                  "coords": [
+                        23.795535,
+                        38.567019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Történelmi őrtorony a velencei korszakból a Dirfi-hegy lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        23.795535,
+                        38.567019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Un turn istoric de pază din perioada venețiană, situat la poalele muntelui Dirfi.",
+                  "category": "castle",
+                  "coords": [
+                        23.795535,
+                        38.567019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Venetian Tower",
+                  "text": "A historical defensive tower from the Venetian period, located near Mount Dirfi.",
+                  "category": "castle",
+                  "coords": [
+                        23.795535,
+                        38.567019
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "peak",
     name: { de: "Dirfys", hu: "Dirfisz", ro: "Muntele Dirfi", en: "Mount Dirfi"},
@@ -969,7 +2517,268 @@ imageHint: "Mount Dirfi snow conical peak Evia",
     },
     image: "/poi-images/greece-mount-dirfi-nature-v2.webp",
 },  {
-    id: "greece-mount-aenos-nature-v2",
+    id: "greece-mount-aenos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Τραπεζάκι",
+                  "text": "Ein malerischer Strand am Fuße des Berges Aenos, bekannt für sein klares Wasser und die grüne Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        20.608811,
+                        38.118014
+                  ]
+            },
+            {
+                  "name": "Λουρδάτα",
+                  "text": "Ein weitläufiger Sandstrand am Ionischen Meer, der Entspannung in herrlicher Natur bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.637669,
+                        38.111454
+                  ]
+            },
+            {
+                  "name": "Άγιος Θωμάς",
+                  "text": "Ein ruhiger Küstenabschnitt mit klarem Wasser, ideal zum Schwimmen und Schnorcheln.",
+                  "category": "recreational",
+                  "coords": [
+                        20.600063,
+                        38.115922
+                  ]
+            },
+            {
+                  "name": "Pessada Beach",
+                  "text": "Ein charmanter kleiner Strand mit felsigen Abschnitten und kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        20.586296,
+                        38.105269
+                  ]
+            },
+            {
+                  "name": "Trapezaki port bridge",
+                  "text": "Ein Küstenbereich bei Trapezaki, der für seine natürliche Schönheit und Ruhe bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.611079,
+                        38.117801
+                  ]
+            },
+            {
+                  "name": "Trapezaki naturist beach",
+                  "text": "Ein abgelegener Strandabschnitt bei Trapezaki, der von Naturisten besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        20.614949,
+                        38.117616
+                  ]
+            },
+            {
+                  "name": "Κανάλι",
+                  "text": "Ein naturbelassener und ruhiger Strandabschnitt für Besucher, die Abgeschiedenheit suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.624221,
+                        38.115924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Τραπεζάκι",
+                  "text": "Festői strand az Enosz-hegy lábánál, amely tiszta vizéről és zöld környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.608811,
+                        38.118014
+                  ]
+            },
+            {
+                  "name": "Λουρδάτα",
+                  "text": "Kiterjedt homokos strand a Jón-tengerparton, amely kikapcsolódást kínál a csodálatos természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.637669,
+                        38.111454
+                  ]
+            },
+            {
+                  "name": "Άγιος Θωμάς",
+                  "text": "Nyugodt tengerparti szakasz tiszta vízzel, amely ideális úszáshoz és búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        20.600063,
+                        38.115922
+                  ]
+            },
+            {
+                  "name": "Pessada Beach",
+                  "text": "Bájos kis strand sziklás részekkel és kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.586296,
+                        38.105269
+                  ]
+            },
+            {
+                  "name": "Trapezaki port bridge",
+                  "text": "Tengerparti terület Trapezaki közelében, amely természeti szépségéről és nyugalmáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.611079,
+                        38.117801
+                  ]
+            },
+            {
+                  "name": "Trapezaki naturist beach",
+                  "text": "Félreeső strandrész Trapezaki közelében, amelyet naturisták látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.614949,
+                        38.117616
+                  ]
+            },
+            {
+                  "name": "Κανάλι",
+                  "text": "Természetes és csendes strandrész a visszavonultságot kedvelő látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        20.624221,
+                        38.115924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Τραπεζάκι",
+                  "text": "O plajă pitorească la poalele Muntelui Aenos, cunoscută pentru apa sa limpede și împrejurimile verzi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.608811,
+                        38.118014
+                  ]
+            },
+            {
+                  "name": "Λουρδάτα",
+                  "text": "O plajă întinsă cu nisip la Marea Ionică, oferind relaxare într-un cadru natural superb.",
+                  "category": "recreational",
+                  "coords": [
+                        20.637669,
+                        38.111454
+                  ]
+            },
+            {
+                  "name": "Άγιος Θωμάς",
+                  "text": "O porțiune liniștită de coastă cu apă limpede, ideală pentru înot și snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        20.600063,
+                        38.115922
+                  ]
+            },
+            {
+                  "name": "Pessada Beach",
+                  "text": "O plajă mică și fermecătoare, cu secțiuni stâncoase și apă de cristal.",
+                  "category": "recreational",
+                  "coords": [
+                        20.586296,
+                        38.105269
+                  ]
+            },
+            {
+                  "name": "Trapezaki port bridge",
+                  "text": "O zonă de coastă lângă Trapezaki, cunoscută pentru frumusețea sa naturală și liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        20.611079,
+                        38.117801
+                  ]
+            },
+            {
+                  "name": "Trapezaki naturist beach",
+                  "text": "O secțiune de plajă retrasă lângă Trapezaki, frecventată de naturiști.",
+                  "category": "recreational",
+                  "coords": [
+                        20.614949,
+                        38.117616
+                  ]
+            },
+            {
+                  "name": "Κανάλι",
+                  "text": "O secțiune de plajă naturală și liniștită pentru vizitatorii care caută izolare.",
+                  "category": "recreational",
+                  "coords": [
+                        20.624221,
+                        38.115924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trapezaki beach",
+                  "text": "A picturesque beach at the foot of Mount Aenos, known for its clear water and green surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        20.608811,
+                        38.118014
+                  ]
+            },
+            {
+                  "name": "Lourdas Beach",
+                  "text": "An expansive sandy beach on the Ionian coast, offering relaxation in beautiful natural surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        20.637669,
+                        38.111454
+                  ]
+            },
+            {
+                  "name": "Agios Thomas Beach",
+                  "text": "A quiet stretch of coast with clear water, ideal for swimming and snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        20.600063,
+                        38.115922
+                  ]
+            },
+            {
+                  "name": "Pessada Beach",
+                  "text": "A charming small beach with rocky sections and crystal-clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        20.586296,
+                        38.105269
+                  ]
+            },
+            {
+                  "name": "Trapezaki port bridge",
+                  "text": "A coastal area near Trapezaki known for its natural beauty and tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        20.611079,
+                        38.117801
+                  ]
+            },
+            {
+                  "name": "Trapezaki naturist beach",
+                  "text": "A secluded beach section near Trapezaki frequented by naturists.",
+                  "category": "recreational",
+                  "coords": [
+                        20.614949,
+                        38.117616
+                  ]
+            },
+            {
+                  "name": "Kanali naturist beach",
+                  "text": "A natural and quiet beach section for visitors seeking seclusion.",
+                  "category": "recreational",
+                  "coords": [
+                        20.624221,
+                        38.115924
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "mountain",
     name: { de: "Enos", hu: "Énosz-hegy", ro: "Muntele Aenos", en: "Mount Aenos"},
@@ -1061,7 +2870,160 @@ imageHint: "Mount Giona Pyramida peak cliff",
     },
     image: "/poi-images/greece-mount-giona-nature-v2.webp",
 },  {
-    id: "greece-enipeas-waterfall-nature-v2",
+    id: "greece-enipeas-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "text": "Ein Schutzgebiet rund um den Olymp, den höchsten Berg Griechenlands.",
+                  "category": "natural",
+                  "coords": [
+                        22.380329,
+                        40.0762
+                  ]
+            },
+            {
+                  "name": "Μύτικας",
+                  "text": "Der höchste Gipfel des Olymp-Massivs und der höchste Punkt Griechenlands.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            },
+            {
+                  "name": "Καταρράκτες Ενιπέα",
+                  "text": "Ein Aussichtspunkt mit Blick auf die beeindruckenden Wasserfälle in der Enipeas-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        22.405794,
+                        40.083197
+                  ]
+            },
+            {
+                  "name": "Destroyed bridge",
+                  "text": "Die Überreste einer zerstörten Brücke in der malerischen Umgebung der Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446267,
+                        40.094423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "text": "Védett terület az Olümposz, Görögország legmagasabb hegye körül.",
+                  "category": "natural",
+                  "coords": [
+                        22.380329,
+                        40.0762
+                  ]
+            },
+            {
+                  "name": "Μύτικας",
+                  "text": "Az Olümposz-masszívum legmagasabb csúcsa és Görögország legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            },
+            {
+                  "name": "Καταρράκτες Ενιπέα",
+                  "text": "Kilátópont az Enipeasz-szurdok lenyűgöző vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        22.405794,
+                        40.083197
+                  ]
+            },
+            {
+                  "name": "Destroyed bridge",
+                  "text": "Egy romos híd maradványai a szurdok festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446267,
+                        40.094423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "text": "O zonă protejată în jurul Olimpului, cel mai înalt munte din Grecia.",
+                  "category": "natural",
+                  "coords": [
+                        22.380329,
+                        40.0762
+                  ]
+            },
+            {
+                  "name": "Μύτικας",
+                  "text": "Cel mai înalt vârf al masivului Olimp și cel mai înalt punct din Grecia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            },
+            {
+                  "name": "Καταρράκτες Ενιπέα",
+                  "text": "Punct de observație asupra cascadelor impresionante din cheile Enipeas.",
+                  "category": "natural",
+                  "coords": [
+                        22.405794,
+                        40.083197
+                  ]
+            },
+            {
+                  "name": "Destroyed bridge",
+                  "text": "Rămășițele unui pod distrus în decorul pitoresc al cheilor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446267,
+                        40.094423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olympos National Park",
+                  "text": "A protected area surrounding Mount Olympus, Greece's highest mountain.",
+                  "category": "natural",
+                  "coords": [
+                        22.380329,
+                        40.0762
+                  ]
+            },
+            {
+                  "name": "Mytikas",
+                  "text": "The highest peak of the Olympus massif and the highest point in Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        22.358538,
+                        40.086248
+                  ]
+            },
+            {
+                  "name": "Enipeas Waterfall",
+                  "text": "A viewpoint overlooking the impressive waterfalls in the Enipeas gorge.",
+                  "category": "natural",
+                  "coords": [
+                        22.405794,
+                        40.083197
+                  ]
+            },
+            {
+                  "name": "Destroyed bridge",
+                  "text": "The remains of a destroyed bridge in the scenic setting of the gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446267,
+                        40.094423
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "park",
     name: { de: "Enipeas-Wasserfälle", hu: "Enipeasz-vízesések", ro: "Cascada Enipeas", en: "Enipeas Waterfall"},
@@ -1153,7 +3115,196 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
     },
   },
   {
-    id: "greece-acheron-river-nature-v2",
+    id: "greece-acheron-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Νεκρομαντειο",
+                  "text": "Eine antike griechische Tempelanlage am Acheron, die in der Mythologie als Orakel der Toten galt.",
+                  "category": "historical",
+                  "coords": [
+                        20.533984,
+                        39.236157
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "Ein Strand in der Nähe des Flusses Acheron, der Besuchern einen Ort zur Entspannung in natürlicher Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.490132,
+                        39.211807
+                  ]
+            },
+            {
+                  "name": "Alonaki",
+                  "text": "Ein malerischer Strand mit klarem Wasser, der sich unweit der Mündung des Acheron-Flusses befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.504498,
+                        39.206094
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "text": "Diese archäologische Stätte umfasst die Überreste der antiken Stadt Efyra und das Heiligtum des Nekromanteion.",
+                  "category": "historical",
+                  "coords": [
+                        20.531264,
+                        39.241775
+                  ]
+            },
+            {
+                  "name": "Boat trips",
+                  "text": "Beliebte Bootstouren auf dem Fluss Acheron, die die beeindruckende Naturlandschaft der Region erschließen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.480563,
+                        39.236099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Νεκρομαντειο",
+                  "text": "Ókori görög templomegyüttes az Aheron-folyónál, amely a mitológiában a holtak jóslóhelye volt.",
+                  "category": "historical",
+                  "coords": [
+                        20.533984,
+                        39.236157
+                  ]
+            },
+            {
+                  "name": "Σκάλα",
+                  "text": "Egy strand az Aheron-folyó közelében, amely természetes környezetben kínál kikapcsolódást.",
+                  "category": "recreational",
+                  "coords": [
+                        20.490132,
+                        39.211807
+                  ]
+            },
+            {
+                  "name": "Αλωνάκι",
+                  "text": "Gleccseres vizű, festői strand, amely nem messze található az Aheron-folyó torkolatától.",
+                  "category": "recreational",
+                  "coords": [
+                        20.504498,
+                        39.206094
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "text": "Ez a régészeti lelőhely Efira ókori városának maradványait és a halotti jósda szentélyét foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        20.531264,
+                        39.241775
+                  ]
+            },
+            {
+                  "name": "Boat trips",
+                  "text": "Népszerű csónaktúrák az Aheron-folyón, amelyek feltárják a régió lenyűgöző természeti tájait.",
+                  "category": "landmark",
+                  "coords": [
+                        20.480563,
+                        39.236099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Νεκρομαντειο",
+                  "text": "Un sit arheologic antic grecesc pe râul Acheron, considerat în mitologie oracolul morților.",
+                  "category": "historical",
+                  "coords": [
+                        20.533984,
+                        39.236157
+                  ]
+            },
+            {
+                  "name": "Σκάλα",
+                  "text": "O plajă în apropierea râului Acheron, care oferă vizitatorilor un loc de relaxare într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        20.490132,
+                        39.211807
+                  ]
+            },
+            {
+                  "name": "Αλωνάκι",
+                  "text": "O plajă pitorească cu ape limpezi, situată nu departe de gura de vărsare a râului Acheron.",
+                  "category": "recreational",
+                  "coords": [
+                        20.504498,
+                        39.206094
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "text": "Acest sit arheologic cuprinde vestigiile orașului antic Efyra și sanctuarul Nekromanteion.",
+                  "category": "historical",
+                  "coords": [
+                        20.531264,
+                        39.241775
+                  ]
+            },
+            {
+                  "name": "Boat trips",
+                  "text": "Excursii populare cu barca pe râul Acheron, care dezvăluie peisajul natural impresionant al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        20.480563,
+                        39.236099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nekromanteion",
+                  "text": "An ancient Greek temple site on the Acheron River, known in mythology as the oracle of the dead.",
+                  "category": "historical",
+                  "coords": [
+                        20.533984,
+                        39.236157
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "A beach near the Acheron River that offers visitors a place to relax in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        20.490132,
+                        39.211807
+                  ]
+            },
+            {
+                  "name": "Alonaki",
+                  "text": "A picturesque beach with clear waters located not far from the mouth of the Acheron River.",
+                  "category": "recreational",
+                  "coords": [
+                        20.504498,
+                        39.206094
+                  ]
+            },
+            {
+                  "name": "Archeological site of Efyra - Nekromanteion",
+                  "text": "This archaeological site includes the remains of the ancient city of Efyra and the sanctuary of the Nekromanteion.",
+                  "category": "historical",
+                  "coords": [
+                        20.531264,
+                        39.241775
+                  ]
+            },
+            {
+                  "name": "Boat trips",
+                  "text": "Popular boat trips on the Acheron River that explore the region's impressive natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        20.480563,
+                        39.236099
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "river",
     name: { de: "Acheron-Fluss", hu: "Acheron-folyó", ro: "Râul Acheron", en: "Acheron River"},
@@ -1288,7 +3439,196 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
     },
     image: "/poi-images/greece-mount-mainalo-nature-v2.webp",
 },  {
-    id: "greece-polylimnio-waterfalls-nature-v2",
+    id: "greece-polylimnio-waterfalls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο του Πέρα",
+                  "text": "Die Ruinen einer historischen Festung in der Nähe der Polylimnio-Wasserfälle.",
+                  "category": "castle",
+                  "coords": [
+                        21.874838,
+                        36.961214
+                  ]
+            },
+            {
+                  "name": "Καραρράκτης",
+                  "text": "Ein Aussichtspunkt mit Blick auf eine der Kaskaden der Polylimnio-Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        21.85459,
+                        36.983505
+                  ]
+            },
+            {
+                  "name": "Μαυρολίμνα",
+                  "text": "Ein Aussichtspunkt am Mavrolimna-See im Polylimnio-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        21.850238,
+                        36.981759
+                  ]
+            },
+            {
+                  "name": "Πολυλίμνιο",
+                  "text": "Ein Aussichtspunkt im Polylimnio-Schluchtgebiet, bekannt für seine Wasserfälle und Seen.",
+                  "category": "natural",
+                  "coords": [
+                        21.855135,
+                        36.984598
+                  ]
+            },
+            {
+                  "name": "Panagos",
+                  "text": "Eine Sehenswürdigkeit im Gebiet der Polylimnio-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        21.857293,
+                        36.985665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο του Πέρα",
+                  "text": "Történelmi várromok a Polylimnio-vízesések közelében.",
+                  "category": "castle",
+                  "coords": [
+                        21.874838,
+                        36.961214
+                  ]
+            },
+            {
+                  "name": "Καραρράκτης",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a Polylimnio-vízesések egyikére.",
+                  "category": "natural",
+                  "coords": [
+                        21.85459,
+                        36.983505
+                  ]
+            },
+            {
+                  "name": "Μαυρολίμνα",
+                  "text": "Kilátópont a Polylimnio területén található Mavrolimna-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        21.850238,
+                        36.981759
+                  ]
+            },
+            {
+                  "name": "Πολυλίμνιο",
+                  "text": "Kilátópont a vízeséseiről és tavairól nevezetes Polylimnio-szurdokban.",
+                  "category": "natural",
+                  "coords": [
+                        21.855135,
+                        36.984598
+                  ]
+            },
+            {
+                  "name": "Panagos",
+                  "text": "Látnivaló a Polylimnio-vízesések környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.857293,
+                        36.985665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο του Πέρα",
+                  "text": "Ruinele unei fortărețe istorice situate în apropierea cascadelor Polylimnio.",
+                  "category": "castle",
+                  "coords": [
+                        21.874838,
+                        36.961214
+                  ]
+            },
+            {
+                  "name": "Καραρράκτης",
+                  "text": "Un punct de observație cu vedere la una dintre cascadele Polylimnio.",
+                  "category": "natural",
+                  "coords": [
+                        21.85459,
+                        36.983505
+                  ]
+            },
+            {
+                  "name": "Μαυρολίμνα",
+                  "text": "Un punct de observație la lacul Mavrolimna din zona Polylimnio.",
+                  "category": "natural",
+                  "coords": [
+                        21.850238,
+                        36.981759
+                  ]
+            },
+            {
+                  "name": "Πολυλίμνιο",
+                  "text": "Un punct de observație în zona cheilor Polylimnio, cunoscută pentru cascade și lacuri.",
+                  "category": "natural",
+                  "coords": [
+                        21.855135,
+                        36.984598
+                  ]
+            },
+            {
+                  "name": "Panagos",
+                  "text": "O atracție turistică în zona cascadelor Polylimnio.",
+                  "category": "landmark",
+                  "coords": [
+                        21.857293,
+                        36.985665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort of Pera",
+                  "text": "The ruins of a historic fortress located near the Polylimnio Waterfalls.",
+                  "category": "castle",
+                  "coords": [
+                        21.874838,
+                        36.961214
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "A viewpoint offering a look at one of the Polylimnio waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        21.85459,
+                        36.983505
+                  ]
+            },
+            {
+                  "name": "Mavrolimna",
+                  "text": "A viewpoint at Lake Mavrolimna in the Polylimnio area.",
+                  "category": "natural",
+                  "coords": [
+                        21.850238,
+                        36.981759
+                  ]
+            },
+            {
+                  "name": "Polilimnio",
+                  "text": "A viewpoint in the Polylimnio gorge area, known for its waterfalls and lakes.",
+                  "category": "natural",
+                  "coords": [
+                        21.855135,
+                        36.984598
+                  ]
+            },
+            {
+                  "name": "Panagos",
+                  "text": "A point of interest in the Polylimnio Waterfalls area.",
+                  "category": "landmark",
+                  "coords": [
+                        21.857293,
+                        36.985665
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "landmark",
     name: { de: "Polylimnio-Wasserfälle", hu: "Polylimnio-vízesések", ro: "Cascadele Polylimnio", en: "Polylimnio Waterfalls"},
@@ -1333,7 +3673,160 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     },
     image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp",
 },  {
-    id: "greece-lake-stymphalia-nature-v2",
+    id: "greece-lake-stymphalia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Στύμφαλος",
+                  "text": "Die Überreste einer antiken Stadt am Ufer des Stymphalischen Sees.",
+                  "category": "historical",
+                  "coords": [
+                        22.457568,
+                        37.858549
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Ζάρακα",
+                  "text": "Die Ruinen eines Zisterzienserklosters aus dem 13. Jahrhundert am Stymphalischen See.",
+                  "category": "historical",
+                  "coords": [
+                        22.457888,
+                        37.866938
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "text": "Eine weitläufige Ausgrabungsstätte mit Funden aus der klassischen und hellenistischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.459305,
+                        37.859322
+                  ]
+            },
+            {
+                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "text": "Die Überreste eines antiken griechischen Theaters in der Nähe des Stymphalischen Sees.",
+                  "category": "historical",
+                  "coords": [
+                        22.462873,
+                        37.860685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Στύμφαλος",
+                  "text": "Egy ókori város maradványai a Sztümphaloszi-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        22.457568,
+                        37.858549
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Ζάρακα",
+                  "text": "Egy 13. századi ciszterci kolostor romjai a Sztümphaloszi-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.457888,
+                        37.866938
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "text": "Kiterjedt régészeti terület klasszikus és hellenisztikus kori leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        22.459305,
+                        37.859322
+                  ]
+            },
+            {
+                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "text": "Egy ókori görög színház maradványai a Sztümphaloszi-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.462873,
+                        37.860685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Στύμφαλος",
+                  "text": "Vestigiile unui oraș antic situat pe malul lacului Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.457568,
+                        37.858549
+                  ]
+            },
+            {
+                  "name": "Μοναστήρι Ζάρακα",
+                  "text": "Ruinele unei mănăstiri cisterciene din secolul al XIII-lea, lângă lacul Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.457888,
+                        37.866938
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "text": "Un sit arheologic extins cu descoperiri din perioadele clasică și elenistică.",
+                  "category": "historical",
+                  "coords": [
+                        22.459305,
+                        37.859322
+                  ]
+            },
+            {
+                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "text": "Resturile unui teatru grecesc antic situat în apropierea lacului Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.462873,
+                        37.860685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stymfalos",
+                  "text": "The remains of an ancient city located on the shores of Lake Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.457568,
+                        37.858549
+                  ]
+            },
+            {
+                  "name": "Zaraka's monastery",
+                  "text": "The ruins of a 13th-century Cistercian monastery near Lake Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.457888,
+                        37.866938
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Stymfalos",
+                  "text": "An extensive archaeological site with findings from the Classical and Hellenistic periods.",
+                  "category": "historical",
+                  "coords": [
+                        22.459305,
+                        37.859322
+                  ]
+            },
+            {
+                  "name": "Theater of Ancient Symfalos",
+                  "text": "The remains of an ancient Greek theater located near Lake Stymphalia.",
+                  "category": "historical",
+                  "coords": [
+                        22.462873,
+                        37.860685
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Stymphalia-See", hu: "Sztümphaloszi-tó", ro: "Lacul Stymphalia", en: "Lake Stymphalia"},
@@ -1379,7 +3872,304 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
   }
 ,
   {
-    id: "greece-melissani-cave-nature-v2",
+    id: "greece-melissani-cave-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "text": "Ein Museum in der Nähe der Melissani-Höhle, das sich der maritimen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.639698,
+                        38.235545
+                  ]
+            },
+            {
+                  "name": "Paralia Agia Paraskevi",
+                  "text": "Ein lokaler Strand in der Nähe der Melissani-Höhle auf der Insel Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.615441,
+                        38.275139
+                  ]
+            },
+            {
+                  "name": "Καραβόμυλος",
+                  "text": "Ein Strand im Dorf Karavomilos, ganz in der Nähe der berühmten Melissani-Höhle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.638031,
+                        38.25133
+                  ]
+            },
+            {
+                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "text": "Eine berühmte unterirdische Seehöhle auf Kefalonia, die für ihr leuchtend blaues Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.624041,
+                        38.25705
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Δρογκαράτη",
+                  "text": "Eine beeindruckende Höhle mit spektakulären Stalaktiten und Stalagmiten auf Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.628425,
+                        38.227027
+                  ]
+            },
+            {
+                  "name": "Vlachata",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Küstenlandschaft bei Karavomilos bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.602761,
+                        38.254876
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Ζερβάτη",
+                  "text": "Eine weniger bekannte, wassergefüllte Höhle in der Region Melissani auf Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.62891,
+                        38.252523
+                  ]
+            },
+            {
+                  "name": "Paliokastro Citadel",
+                  "text": "Die antiken Ruinen einer Zitadelle auf einem Hügel über der Bucht von Sami.",
+                  "category": "historical",
+                  "coords": [
+                        20.660564,
+                        38.254119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "text": "A Melissani-barlang közelében található múzeum, amely a tengerészeti történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        20.639698,
+                        38.235545
+                  ]
+            },
+            {
+                  "name": "Paralia Agia Paraskevi",
+                  "text": "Helyi tengerpart a Melissani-barlang közelében, Kefalónia szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.615441,
+                        38.275139
+                  ]
+            },
+            {
+                  "name": "Καραβόμυλος",
+                  "text": "Tengerpart Karavomilos faluban, a híres Melissani-barlang közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.638031,
+                        38.25133
+                  ]
+            },
+            {
+                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "text": "Híres föld alatti tavas barlang Kefalónián, amely ragyogó kék vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.624041,
+                        38.25705
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Δρογκαράτη",
+                  "text": "Lenyűgöző barlang látványos sztalaktitokkal és sztalagmitokkal Kefalónián.",
+                  "category": "landmark",
+                  "coords": [
+                        20.628425,
+                        38.227027
+                  ]
+            },
+            {
+                  "name": "Vlachata",
+                  "text": "Kilátópont, amely széles kilátást nyújt a Karavomilos környéki tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        20.602761,
+                        38.254876
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Ζερβάτη",
+                  "text": "Egy kevésbé ismert, vízzel teli barlang a kefalóniai Melissani régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.62891,
+                        38.252523
+                  ]
+            },
+            {
+                  "name": "Paliokastro Citadel",
+                  "text": "Egy dombtetőn lévő citadella ókori romjai a Sami-öböl felett.",
+                  "category": "historical",
+                  "coords": [
+                        20.660564,
+                        38.254119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "text": "Un muzeu situat lângă peștera Melissani, dedicat istoriei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        20.639698,
+                        38.235545
+                  ]
+            },
+            {
+                  "name": "Paralia Agia Paraskevi",
+                  "text": "O plajă locală situată în apropierea peșterii Melissani de pe insula Kefalonia.",
+                  "category": "recreational",
+                  "coords": [
+                        20.615441,
+                        38.275139
+                  ]
+            },
+            {
+                  "name": "Καραβόμυλος",
+                  "text": "O plajă în satul Karavomilos, aflată foarte aproape de celebra peșteră Melissani.",
+                  "category": "recreational",
+                  "coords": [
+                        20.638031,
+                        38.25133
+                  ]
+            },
+            {
+                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "text": "O celebră peșteră cu lac subteran din Kefalonia, cunoscută pentru apele sale albastre strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        20.624041,
+                        38.25705
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Δρογκαράτη",
+                  "text": "O peșteră impresionantă cu stalactite și stalagmite spectaculoase în Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.628425,
+                        38.227027
+                  ]
+            },
+            {
+                  "name": "Vlachata",
+                  "text": "Un punct de observare care oferă o vedere panoramică asupra peisajului de coastă de lângă Karavomilos.",
+                  "category": "natural",
+                  "coords": [
+                        20.602761,
+                        38.254876
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Ζερβάτη",
+                  "text": "O peșteră plină cu apă, mai puțin cunoscută, din regiunea Melissani din Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.62891,
+                        38.252523
+                  ]
+            },
+            {
+                  "name": "Paliokastro Citadel",
+                  "text": "Ruinele antice ale unei citadele situate pe un deal deasupra golfului Sami.",
+                  "category": "historical",
+                  "coords": [
+                        20.660564,
+                        38.254119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maritime Museum",
+                  "text": "A museum located near the Melissani Cave area dedicated to maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        20.639698,
+                        38.235545
+                  ]
+            },
+            {
+                  "name": "Paralia Agia Paraskevi",
+                  "text": "A local beach situated near the Melissani Cave area on Kefalonia island.",
+                  "category": "recreational",
+                  "coords": [
+                        20.615441,
+                        38.275139
+                  ]
+            },
+            {
+                  "name": "Karavomilos Beach",
+                  "text": "A beach in the village of Karavomilos, located very close to the famous Melissani Cave.",
+                  "category": "recreational",
+                  "coords": [
+                        20.638031,
+                        38.25133
+                  ]
+            },
+            {
+                  "name": "Melissani lake cave",
+                  "text": "A famous underground lake cave in Kefalonia, renowned for its brilliant blue water.",
+                  "category": "landmark",
+                  "coords": [
+                        20.624041,
+                        38.25705
+                  ]
+            },
+            {
+                  "name": "Drogarati Cave",
+                  "text": "An impressive cave featuring spectacular stalactites and stalagmites in Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.628425,
+                        38.227027
+                  ]
+            },
+            {
+                  "name": "Vlachata",
+                  "text": "A viewpoint offering broad vistas over the coastal landscape near Karavomilos.",
+                  "category": "natural",
+                  "coords": [
+                        20.602761,
+                        38.254876
+                  ]
+            },
+            {
+                  "name": "Zervati cave",
+                  "text": "A lesser-known water-filled cave located in the Melissani region of Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.62891,
+                        38.252523
+                  ]
+            },
+            {
+                  "name": "Paliokastro Citadel",
+                  "text": "The ancient ruins of a citadel situated on a hill overlooking the bay of Sami.",
+                  "category": "historical",
+                  "coords": [
+                        20.660564,
+                        38.254119
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "lake",
     name: { de: "Melissani-Höhle", hu: "Melisszani-barlang", ro: "Peștera Melissani", en: "Melissani Cave" },
@@ -1424,7 +4214,124 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     image: "/poi-images/greece-melissani-cave-nature-v2.webp",
   },
   {
-    id: "greece-lousios-gorge-nature-v2",
+    id: "greece-lousios-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gortyn – Asklepieion",
+                  "text": "Eine antike archäologische Stätte in Arkadien mit den Überresten eines Heiligtums, das Asklepios gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        22.045309,
+                        37.539567
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "text": "Ein einzigartiges Museum in Dimitsana, das die traditionelle Nutzung von Wasserkraft in der lokalen Industrie demonstriert.",
+                  "category": "museum",
+                  "coords": [
+                        22.047146,
+                        37.582954
+                  ]
+            },
+            {
+                  "name": "Γεφύρι Μονόπορης",
+                  "text": "Eine historische Steinbrücke über den Fluss Lousios, die für ihre traditionelle Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.044216,
+                        37.571711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Γόρτυνα – Ασκληπιείο",
+                  "text": "Ókori régészeti lelőhely Árkádiában, ahol az Aszklépiosznak szentelt szentély maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        22.045309,
+                        37.539567
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "text": "Egyedülálló múzeum Dimitsanában, amely a vízi energia hagyományos felhasználását mutatja be a helyi iparban.",
+                  "category": "museum",
+                  "coords": [
+                        22.047146,
+                        37.582954
+                  ]
+            },
+            {
+                  "name": "Γεφύρι Μονόπορης",
+                  "text": "Történelmi kőhíd a Lousios-folyón, amely hagyományos építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.044216,
+                        37.571711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Γόρτυνα – Ασκληπιείο",
+                  "text": "Un sit arheologic antic din Arcadia care prezintă rămășițele unui sanctuar dedicat lui Asclepios.",
+                  "category": "historical",
+                  "coords": [
+                        22.045309,
+                        37.539567
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "text": "Un muzeu unic în Dimitsana care demonstrează utilizarea tradițională a energiei apei în industriile locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.047146,
+                        37.582954
+                  ]
+            },
+            {
+                  "name": "Γεφύρι Μονόπορης",
+                  "text": "Un pod istoric din piatră care traversează râul Lousios, cunoscut pentru arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        22.044216,
+                        37.571711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gortyn – Asclepeion",
+                  "text": "An ancient archaeological site in Arcadia featuring the remains of a sanctuary dedicated to Asclepius.",
+                  "category": "historical",
+                  "coords": [
+                        22.045309,
+                        37.539567
+                  ]
+            },
+            {
+                  "name": "Open-Air Water Power Museum",
+                  "text": "A unique museum in Dimitsana that demonstrates the traditional use of water power in local industries.",
+                  "category": "museum",
+                  "coords": [
+                        22.047146,
+                        37.582954
+                  ]
+            },
+            {
+                  "name": "Monoporis Bridge",
+                  "text": "A historic stone bridge spanning the Lousios river, known for its traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        22.044216,
+                        37.571711
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Lousios-Schlucht", hu: "Lusziosz-szurdok", ro: "Cheile Lousios", en: "Lousios Gorge" },
@@ -1553,7 +4460,304 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       fr: ["Plus long fleuve du Péloponnèse avec environ 110 km de long.", "Prend sa source dans les hautes montagnes d'Arcadie.", "Coule directement le long du site antique d'Olympie.", "Selon le mythe, il fut détourné par Héraclès.", "Se jette dans le golfe de Kyparissia de la mer Ionienne.", "Est utilisé intensément pour l'irrigation et l'énergie."],
     }, image: "/poi-images/greece-alfeios-river-nature-v2.webp"},
   {
-    id: "greece-ha-gorge-nature-v2",
+    id: "greece-ha-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Χαλασμένος",
+                  "text": "Eine spätminoische Siedlung auf Kreta in der Nähe der Ha-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        25.83165,
+                        35.08365
+                  ]
+            },
+            {
+                  "name": "Katalymata",
+                  "text": "Eine archäologische Ausgrabungsstätte in den Steilwänden der Ha-Schlucht auf Kreta.",
+                  "category": "historical",
+                  "coords": [
+                        25.835268,
+                        35.085594
+                  ]
+            },
+            {
+                  "name": "Κουλές Επισκοπής",
+                  "text": "Die Ruinen einer osmanischen Festung mit Blick auf die Region der Ha-Schlucht.",
+                  "category": "castle",
+                  "coords": [
+                        25.801313,
+                        35.061938
+                  ]
+            },
+            {
+                  "name": "Κουλές Βασιλικής",
+                  "text": "Eine historische Befestigungsanlage aus der osmanischen Zeit in der Nähe von Vasiliki.",
+                  "category": "castle",
+                  "coords": [
+                        25.803427,
+                        35.081311
+                  ]
+            },
+            {
+                  "name": "Minoan settlement",
+                  "text": "Überreste einer antiken minoischen Siedlung in der Umgebung der Ha-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        25.810927,
+                        35.08205
+                  ]
+            },
+            {
+                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "text": "Ein Gebirgszug und Naturschutzgebiet auf Kreta, das für seine wilde Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.8285,
+                        35.060144
+                  ]
+            },
+            {
+                  "name": "Cha Schlucht",
+                  "text": "Eine extrem schmale und spektakuläre Schlucht an der Ostseite der Insel Kreta.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834352,
+                        35.085213
+                  ]
+            },
+            {
+                  "name": "Καταρράκτης Μάστωρα",
+                  "text": "Ein Wasserfall innerhalb der Ha-Schlucht, der nach Regenfällen besonders beeindruckend ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.838142,
+                        35.083918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Χαλασμένος",
+                  "text": "Egy késő minószi település Krétán, a Ha-szurdok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.83165,
+                        35.08365
+                  ]
+            },
+            {
+                  "name": "Katalymata",
+                  "text": "Régészeti lelőhely a krétai Ha-szurdok meredek sziklafalai között.",
+                  "category": "historical",
+                  "coords": [
+                        25.835268,
+                        35.085594
+                  ]
+            },
+            {
+                  "name": "Κουλές Επισκοπής",
+                  "text": "Egy oszmán erőd romjai, amelyek a Ha-szurdok régiójára néznek.",
+                  "category": "castle",
+                  "coords": [
+                        25.801313,
+                        35.061938
+                  ]
+            },
+            {
+                  "name": "Κουλές Βασιλικής",
+                  "text": "Egy oszmán kori történelmi erődítmény Vasiliki közelében.",
+                  "category": "castle",
+                  "coords": [
+                        25.803427,
+                        35.081311
+                  ]
+            },
+            {
+                  "name": "Minoan settlement",
+                  "text": "Egy ősi minószi település maradványai a Ha-szurdok környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.810927,
+                        35.08205
+                  ]
+            },
+            {
+                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "text": "Egy hegyvonulat és természetvédelmi terület Krétán, amely vad szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.8285,
+                        35.060144
+                  ]
+            },
+            {
+                  "name": "Φαράγγι Χά",
+                  "text": "Egy rendkívül keskeny és látványos szurdok Kréta szigetének keleti oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834352,
+                        35.085213
+                  ]
+            },
+            {
+                  "name": "Καταρράκτης Μάστωρα",
+                  "text": "A Ha-szurdok belsejében található vízesés, amely esőzések után különösen látványos.",
+                  "category": "natural",
+                  "coords": [
+                        25.838142,
+                        35.083918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Χαλασμένος",
+                  "text": "O așezare minoică târzie din Creta, situată în apropierea Cheilor Ha.",
+                  "category": "historical",
+                  "coords": [
+                        25.83165,
+                        35.08365
+                  ]
+            },
+            {
+                  "name": "Katalymata",
+                  "text": "Un sit arheologic situat pe pereții abrupți ai Cheilor Ha din Creta.",
+                  "category": "historical",
+                  "coords": [
+                        25.835268,
+                        35.085594
+                  ]
+            },
+            {
+                  "name": "Κουλές Επισκοπής",
+                  "text": "Ruinele unei fortărețe otomane ce domină regiunea Cheilor Ha.",
+                  "category": "castle",
+                  "coords": [
+                        25.801313,
+                        35.061938
+                  ]
+            },
+            {
+                  "name": "Κουλές Βασιλικής",
+                  "text": "O fortificație istorică din perioada otomană situată în apropiere de Vasiliki.",
+                  "category": "castle",
+                  "coords": [
+                        25.803427,
+                        35.081311
+                  ]
+            },
+            {
+                  "name": "Minoan settlement",
+                  "text": "Vestigiile unei antice așezări minoice din împrejurimile Cheilor Ha.",
+                  "category": "historical",
+                  "coords": [
+                        25.810927,
+                        35.08205
+                  ]
+            },
+            {
+                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "text": "Un lanț muntos și rezervație naturală din Creta, cunoscută pentru frumusețea sa sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        25.8285,
+                        35.060144
+                  ]
+            },
+            {
+                  "name": "Φαράγγι Χά",
+                  "text": "O strâmtoare extrem de îngustă și spectaculoasă situată în partea de est a insulei Creta.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834352,
+                        35.085213
+                  ]
+            },
+            {
+                  "name": "Καταρράκτης Μάστωρα",
+                  "text": "O cascadă situată în interiorul Cheilor Ha, spectaculoasă mai ales după perioadele ploioase.",
+                  "category": "natural",
+                  "coords": [
+                        25.838142,
+                        35.083918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chalasmenos",
+                  "text": "A Late Minoan settlement in Crete located near the Ha Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        25.83165,
+                        35.08365
+                  ]
+            },
+            {
+                  "name": "Katalymata",
+                  "text": "An archaeological site situated on the steep walls of the Ha Gorge in Crete.",
+                  "category": "historical",
+                  "coords": [
+                        25.835268,
+                        35.085594
+                  ]
+            },
+            {
+                  "name": "Koules of Episkopi",
+                  "text": "The ruins of an Ottoman fortress overlooking the Ha Gorge region.",
+                  "category": "castle",
+                  "coords": [
+                        25.801313,
+                        35.061938
+                  ]
+            },
+            {
+                  "name": "Koules of Vasiliki",
+                  "text": "A historic fortification from the Ottoman period located near Vasiliki.",
+                  "category": "castle",
+                  "coords": [
+                        25.803427,
+                        35.081311
+                  ]
+            },
+            {
+                  "name": "Minoan settlement",
+                  "text": "Remains of an ancient Minoan settlement in the vicinity of the Ha Gorge.",
+                  "category": "historical",
+                  "coords": [
+                        25.810927,
+                        35.08205
+                  ]
+            },
+            {
+                  "name": "Thripti",
+                  "text": "A mountain range and nature reserve in Crete known for its wild beauty.",
+                  "category": "natural",
+                  "coords": [
+                        25.8285,
+                        35.060144
+                  ]
+            },
+            {
+                  "name": "Ha gorge",
+                  "text": "An extremely narrow and spectacular gorge located on the eastern side of Crete.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834352,
+                        35.085213
+                  ]
+            },
+            {
+                  "name": "Mastoras Waterfall",
+                  "text": "A waterfall inside the Ha Gorge, particularly impressive after rainfall.",
+                  "category": "natural",
+                  "coords": [
+                        25.838142,
+                        35.083918
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "valley",
     name: { de: "Ha-Schlucht", hu: "Ha-szurdok", ro: "Cheile Ha", en: "Ha Gorge" },
@@ -1596,7 +4800,52 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       fr: ["Situé dans les monts Thripti à l'est de la Crète", "Les parois s'élèvent verticalement jusqu'à 300 mètres", "Considéré comme l'une des gorges les plus étroites au monde", "La traversée nécessite un équipement technique de canyoning", "Comprend un total de 27 cascades à l'intérieur", "Habitat important pour des rapaces rares"],
     }, image: "/poi-images/greece-ha-gorge-nature-v2.webp"},
   {
-    id: "greece-neda-river-nature-v2",
+    id: "greece-neda-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tempel der Athena",
+                  "text": "Die Überreste eines antiken griechischen Tempels, der der Göttin Athene gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        21.722364,
+                        37.413176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ναός της Αθήνας",
+                  "text": "Athéné istennőnek szentelt ókori görög templom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        21.722364,
+                        37.413176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ναός της Αθήνας",
+                  "text": "Vestigiile unui templu antic grec dedicat zeiței Atena.",
+                  "category": "historical",
+                  "coords": [
+                        21.722364,
+                        37.413176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Temple of Athena",
+                  "text": "The remains of an ancient Greek temple dedicated to the goddess Athena.",
+                  "category": "historical",
+                  "coords": [
+                        21.722364,
+                        37.413176
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "river",
     name: { de: "Neda", hu: "Neda-folyó", ro: "Râul Neda", en: "Neda River" },

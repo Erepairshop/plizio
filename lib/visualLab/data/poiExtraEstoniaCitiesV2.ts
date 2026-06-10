@@ -1597,6 +1597,15 @@ export const estoniaCitiesV2: POI[] = [
                         26.537348,
                         59.521615
                   ]
+            },
+            {
+                  "name": "EMK Kunda Betaania kogudus",
+                  "text": "Ein kirchliches Gebäude der Methodistengemeinde in Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        26.514199,
+                        59.502822
+                  ]
             }
       ],
       "hu": [
@@ -1679,6 +1688,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         26.537348,
                         59.521615
+                  ]
+            },
+            {
+                  "name": "EMK Kunda Betaania kogudus",
+                  "text": "A metodista gyülekezet egyházi épülete Kunda városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.514199,
+                        59.502822
                   ]
             }
       ],
@@ -1763,6 +1781,15 @@ export const estoniaCitiesV2: POI[] = [
                         26.537348,
                         59.521615
                   ]
+            },
+            {
+                  "name": "EMK Kunda Betaania kogudus",
+                  "text": "O clădire religioasă a congregației metodiste din Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        26.514199,
+                        59.502822
+                  ]
             }
       ],
       "en": [
@@ -1845,6 +1872,15 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         26.537348,
                         59.521615
+                  ]
+            },
+            {
+                  "name": "EMK Kunda Betaania kogudus",
+                  "text": "A religious building of the Methodist congregation in Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        26.514199,
+                        59.502822
                   ]
             }
       ]

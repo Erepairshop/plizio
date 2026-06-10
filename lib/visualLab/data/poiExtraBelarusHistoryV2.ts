@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const belarusHistoryV2: POI[] = [
 
   {
-    id: "belarus-mir-castle-history-v2",
+    id: "belarus-mir-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Mir",
+                  "text": "Dieses UNESCO-Welterbe ist ein beeindruckendes Beispiel für die Festungs- und Palastarchitektur des 16. Jahrhunderts in Belarus.",
+                  "category": "castle",
+                  "coords": [
+                        26.472992,
+                        53.451211
+                  ]
+            },
+            {
+                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "text": "Eine prunkvolle Kapelle und Grabstätte der Adelsfamilie Swjatopolk-Mirski in der Nähe des Schlosses Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475351,
+                        53.451451
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Мікалая",
+                  "text": "Eine historische katholische Kirche in Mir mit architektonischen Elementen der Renaissance und des Barocks.",
+                  "category": "landmark",
+                  "coords": [
+                        26.465362,
+                        53.452706
+                  ]
+            },
+            {
+                  "name": "Прыдарожная Капліца",
+                  "text": "Eine kleine historische Kapelle am Wegesrand, die als lokales religiöses Wahrzeichen bei Mir dient.",
+                  "category": "landmark",
+                  "coords": [
+                        26.469614,
+                        53.451387
+                  ]
+            },
+            {
+                  "name": "Бровар",
+                  "text": "Eine historische Brauerei auf dem Gelände der Schlossanlage Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.480971,
+                        53.44894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Мірскі Замак",
+                  "text": "Ez az UNESCO világörökségi helyszín a 16. századi fehéroroszországi erőd- és palotaépítészet lenyűgöző példája.",
+                  "category": "castle",
+                  "coords": [
+                        26.472992,
+                        53.451211
+                  ]
+            },
+            {
+                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "text": "A Szvjatopolk-Mirszkij nemesi család díszes kápolnája und sírboltja a miri vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475351,
+                        53.451451
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Мікалая",
+                  "text": "Történelmi katolikus templom Mirben, reneszánsz és barokk építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        26.465362,
+                        53.452706
+                  ]
+            },
+            {
+                  "name": "Прыдарожная Капліца",
+                  "text": "Kisméretű történelmi útmenti kápolna, amely helyi vallási nevezetességként szolgál Mir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.469614,
+                        53.451387
+                  ]
+            },
+            {
+                  "name": "Бровар",
+                  "text": "Történelmi sörfőzde a Miri várkastély területén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.480971,
+                        53.44894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelului Mir",
+                  "text": "Acest sit din patrimoniul mondial UNESCO este un exemplu uimitor de arhitectură de cetate și palat din secolul al XVI-lea din Belarus.",
+                  "category": "castle",
+                  "coords": [
+                        26.472992,
+                        53.451211
+                  ]
+            },
+            {
+                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "text": "O capelă ornamentată și cavou pentru familia nobiliară Svyatopolk-Mirsky, situată lângă Castelul Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475351,
+                        53.451451
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Мікалая",
+                  "text": "O biserică catolică istorică din Mir, prezentând elemente arhitecturale renascentiste și baroce.",
+                  "category": "landmark",
+                  "coords": [
+                        26.465362,
+                        53.452706
+                  ]
+            },
+            {
+                  "name": "Прыдарожная Капліца",
+                  "text": "O mică capelă istorică la marginea drumului, care servește ca punct de reper religios local lângă Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.469614,
+                        53.451387
+                  ]
+            },
+            {
+                  "name": "Бровар",
+                  "text": "O berărie istorică situată în incinta complexului Castelului Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.480971,
+                        53.44894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mir Castle",
+                  "text": "This UNESCO World Heritage site is a stunning example of 16th-century fortress and palace architecture in Belarus.",
+                  "category": "castle",
+                  "coords": [
+                        26.472992,
+                        53.451211
+                  ]
+            },
+            {
+                  "name": "Chanpel-tomb of Svyatopolk-Mirsky princes",
+                  "text": "An ornate chapel and burial vault for the Svyatopolk-Mirsky noble family, located near Mir Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475351,
+                        53.451451
+                  ]
+            },
+            {
+                  "name": "Saint Nicolas' Church",
+                  "text": "A historic Catholic church in Mir featuring Renaissance and Baroque architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        26.465362,
+                        53.452706
+                  ]
+            },
+            {
+                  "name": "Roadside chapel",
+                  "text": "A small historical roadside chapel serving as a local religious landmark near Mir.",
+                  "category": "landmark",
+                  "coords": [
+                        26.469614,
+                        53.451387
+                  ]
+            },
+            {
+                  "name": "Brewery",
+                  "text": "A historic brewery located within the Mir Castle complex.",
+                  "category": "landmark",
+                  "coords": [
+                        26.480971,
+                        53.44894
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "castle",
     name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle"},
@@ -138,7 +327,52 @@ export const belarusHistoryV2: POI[] = [
       fr: ["Construite par l'Empire russe entre 1833 et 1842", "Défendue contre la Wehrmacht allemande en juin 1941", "A reçu le titre de Forteresse Héros en 1965", "Le complexe mémorial a officiellement ouvert en 1971", "Le monument principal Courage mesure 33 mètres de haut", "Située au confluent des rivières Boug et Moukhavets", "Comprend l'église de la garnison Saint-Nicolas restaurée"],
     }, image: "/poi-images/belarus-brest-fortress-history-v2.webp"},
   {
-    id: "belarus-khatyn-memorial-history-v2",
+    id: "belarus-khatyn-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gedenkstätte „Chatyn“ der Republik Belarus",
+                  "text": "Eine Gedenkstätte in Weißrussland, die an das 1943 zerstörte Dorf und seine Opfer erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        27.943773,
+                        54.334345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Мемарыяльны комплекс Хатынь",
+                  "text": "Emlékhely Fehéroroszországban, amely az 1943-ban elpusztított falunak és áldozatainak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        27.943773,
+                        54.334345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Мемарыяльны комплекс Хатынь",
+                  "text": "Un complex memorial din Belarus care comemorează satul distrus în 1943 și victimele sale.",
+                  "category": "museum",
+                  "coords": [
+                        27.943773,
+                        54.334345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial complex \"Khatyn\"",
+                  "text": "A memorial complex in Belarus commemorating the village destroyed in 1943 and its victims.",
+                  "category": "museum",
+                  "coords": [
+                        27.943773,
+                        54.334345
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "monument",
     name: { de: "Gedenkstätte Chatyn", hu: "Hatinyi emlékhely", ro: "Complexul Memorial Khatyn", en: "Khatyn Memorial"},
@@ -365,7 +599,52 @@ export const belarusHistoryV2: POI[] = [
     }
   },
     {
-    id: "belarus-ruzhany-palace-history-v2",
+    id: "belarus-ruzhany-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "A Sapieha család egykori pompás rezidenciájának romjai.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "Ruinele unei rezidențe somptuoase a familiei Sapieha.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sapiehas palace ensemble",
+                  "text": "The ruins of a grand residence belonging to the Sapieha family.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "ruins",
     name: { de: "Palast von Ruschany", hu: "Ruzsanyi palota", ro: "Palatul Ruzhany", en: "Ruzhany Palace"},
@@ -500,7 +779,160 @@ export const belarusHistoryV2: POI[] = [
       fr: ["Mentionnée pour la première fois dans les chroniques historiques en 980 ap. J.-C.", "Capitale de la puissante principauté de Tourov du Xe au XIIIe siècle", "Patrie de Saint Cyrille de Tourov, éminent théologien du XIIe siècle", "Le site archéologique révèle les fondations d'une église du XIIe siècle de 11,7x29 mètres", "Les légendaires croix de pierre sont réputées guérir les maladies et émettre de la chaleur", "La ville comptait autrefois environ 75 églises orthodoxes", "Un centre majeur de production de manuscrits slaves anciens"],
     }, image: "/poi-images/belarus-turov-ancient-history-v2.webp"},
     {
-    id: "belarus-krevo-castle-ruins-history-v2",
+    id: "belarus-krevo-castle-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Крэўскі замак",
+                  "text": "Die Ruinen dieser mittelalterlichen Burg sind ein bedeutendes historisches Denkmal.",
+                  "category": "castle",
+                  "coords": [
+                        26.282456,
+                        54.309234
+                  ]
+            },
+            {
+                  "name": "Царква Святога Аляксандра Неўскага",
+                  "text": "Eine orthodoxe Kirche, die dem Heiligen Alexander Newski gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        26.288621,
+                        54.30982
+                  ]
+            },
+            {
+                  "name": "Сінагога (руіны)",
+                  "text": "Die Überreste einer historischen Synagoge in der Nähe der Burgruine.",
+                  "category": "landmark",
+                  "coords": [
+                        26.283681,
+                        54.310293
+                  ]
+            },
+            {
+                  "name": "Касцёл Перамянення Пана",
+                  "text": "Eine katholische Kirche, die der Verklärung Christi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.28481,
+                        54.311674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Крэўскі замак",
+                  "text": "Ez a középkori várrom jelentős történelmi emlékhely.",
+                  "category": "castle",
+                  "coords": [
+                        26.282456,
+                        54.309234
+                  ]
+            },
+            {
+                  "name": "Царква Святога Аляксандра Неўскага",
+                  "text": "Szent Alekszandr Nyevszkijnek szentelt ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        26.288621,
+                        54.30982
+                  ]
+            },
+            {
+                  "name": "Сінагога (руіны)",
+                  "text": "Egy történelmi zsinagóga maradványai a várromok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.283681,
+                        54.310293
+                  ]
+            },
+            {
+                  "name": "Касцёл Перамянення Пана",
+                  "text": "Urunk Színeváltozásának szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.28481,
+                        54.311674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Крэўскі замак",
+                  "text": "Ruinele acestui castel medieval reprezintă un monument istoric important.",
+                  "category": "castle",
+                  "coords": [
+                        26.282456,
+                        54.309234
+                  ]
+            },
+            {
+                  "name": "Царква Святога Аляксандра Неўскага",
+                  "text": "O biserică ortodoxă dedicată Sfântului Alexandru Nevski.",
+                  "category": "landmark",
+                  "coords": [
+                        26.288621,
+                        54.30982
+                  ]
+            },
+            {
+                  "name": "Сінагога (руіны)",
+                  "text": "Rămășițele unei sinagogi istorice situate lângă ruinele castelului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.283681,
+                        54.310293
+                  ]
+            },
+            {
+                  "name": "Касцёл Перамянення Пана",
+                  "text": "O biserică catolică dedicată Schimbării la Față a lui Hristos.",
+                  "category": "religious",
+                  "coords": [
+                        26.28481,
+                        54.311674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kreva Castle",
+                  "text": "The ruins of this medieval castle are a significant historical landmark.",
+                  "category": "castle",
+                  "coords": [
+                        26.282456,
+                        54.309234
+                  ]
+            },
+            {
+                  "name": "Orthodox church of St. Alexander Nevsky",
+                  "text": "An Orthodox church dedicated to Saint Alexander Nevsky.",
+                  "category": "landmark",
+                  "coords": [
+                        26.288621,
+                        54.30982
+                  ]
+            },
+            {
+                  "name": "Synagogue (ruins)",
+                  "text": "The remains of a historic synagogue located near the castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        26.283681,
+                        54.310293
+                  ]
+            },
+            {
+                  "name": "Catholic church of the Transfiguration of the Christ",
+                  "text": "A Catholic church dedicated to the Transfiguration of Christ.",
+                  "category": "religious",
+                  "coords": [
+                        26.28481,
+                        54.311674
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "ruins",
     name: { de: "Burgruine Krewo", hu: "Krevói várrom", ro: "Ruinele Castelului Krevo", en: "Krevo Castle Ruins"},
@@ -591,7 +1023,124 @@ export const belarusHistoryV2: POI[] = [
     }
   },
   {
-    id: "belarus-halshany-castle-history-v2",
+    id: "belarus-halshany-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha aus dem 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "Ein historisches Handelsgebäude aus dem 19. Jahrhundert in Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "Eine barocke Franziskanerkirche mit angeschlossenem Klosterkomplex.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "A Sapieha család 17. századi pompás rezidenciájának romjai.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "Történelmi kereskedelmi épület a 19. századból Holsaniban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "Barokk ferences templom és a hozzá tartozó kolostorkomplexum.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "Ruinele unei reședințe magnifice a familiei Sapieha din secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "O clădire comercială istorică din secolul al XIX-lea în Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "O biserică franciscană barocă și complexul mănăstiresc adiacent.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Halshany Sapieha Castle",
+                  "text": "The ruins of a magnificent 17th-century residence of the Sapieha family.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Shopping arcade (XIX)",
+                  "text": "A historic 19th-century commercial building in Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Catholic Church",
+                  "text": "A Baroque Franciscan church and the adjacent monastery complex.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "ruins",
     name: { de: "Schloss Holschany", hu: "Halsanyi vár", ro: "Castelul Halshany", en: "Halshany Castle"},
@@ -774,7 +1323,52 @@ export const belarusHistoryV2: POI[] = [
     }
   },
   {
-    id: "belarus-synkavichy-church-history-v2",
+    id: "belarus-synkavichy-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirche des Erzengels Michael",
+                  "text": "Eine seltene befestigte Kirche aus dem 16. Jahrhundert mit gotischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        25.157578,
+                        53.123056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Царква Святога Арханёла Міхала",
+                  "text": "Ritka 16. századi gótikus erődtemplom védőfalakkal.",
+                  "category": "religious",
+                  "coords": [
+                        25.157578,
+                        53.123056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Царква Святога Арханёла Міхала",
+                  "text": "O rară biserică fortificată din secolul al XVI-lea, cu arhitectură gotică.",
+                  "category": "religious",
+                  "coords": [
+                        25.157578,
+                        53.123056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of St. Michael",
+                  "text": "A rare 16th-century fortified church with Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        25.157578,
+                        53.123056
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "church",
     name: { de: "Wehrkirche Synkawitschy", hu: "Szinkavicsi erődtemplom", ro: "Biserica fortificată Synkavichy", en: "Synkavichy Fortified Church"},
@@ -864,7 +1458,52 @@ export const belarusHistoryV2: POI[] = [
       fr: ["La construction débuta en 1810 sur ordre du tsar Alexandre Ier", "Conçue par l'éminent ingénieur militaire Karl Oppermann", "Soutint un siège de quatre mois par les forces françaises en 1812", "Le complexe original couvrait une superficie de plus de 120 hectares", "Transformée en prison politique de haute sécurité à la fin du XIXe siècle", "Utilisée comme camp de concentration pendant la Seconde Guerre mondiale", "Comprend un réseau de casemates massives en briques et de remparts"],
     }, image: "/poi-images/belarus-babruysk-fortress-history-v2.webp"},
   {
-    id: "belarus-luzhany-castle-history-v2",
+    id: "belarus-luzhany-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Ljubtscha",
+                  "text": "Eine historische Burganlage am Ufer der Memel.",
+                  "category": "castle",
+                  "coords": [
+                        26.069236,
+                        53.752199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Любчанскі замак",
+                  "text": "Történelmi vár a Nyeman folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        26.069236,
+                        53.752199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Любчанскі замак",
+                  "text": "Un castel istoric situat pe malul râului Niemen.",
+                  "category": "castle",
+                  "coords": [
+                        26.069236,
+                        53.752199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liubčanski castle",
+                  "text": "A historic castle complex situated on the banks of the Neman River.",
+                  "category": "castle",
+                  "coords": [
+                        26.069236,
+                        53.752199
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "castle",
     name: { de: "Schloss Lubscha", hu: "Lubcsai vár", ro: "Castelul Lubcha", en: "Lubcha Castle"},

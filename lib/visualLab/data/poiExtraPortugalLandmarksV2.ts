@@ -93,7 +93,304 @@ export const portugalLandmarksV2: POI[] = [
     image: "/poi-images/portugal-igreja-do-carmo-landmarks-v2.webp",
   },
   {
-    id: "portugal-palacio-monserrate-landmarks-v2",
+    id: "portugal-palacio-monserrate-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de História Natural",
+                  "text": "Ein Naturkundemuseum in Sintra, das eine bedeutende paläontologische Sammlung beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.389974,
+                        38.798171
+                  ]
+            },
+            {
+                  "name": "Anta de Adrenunes",
+                  "text": "Ein megalithisches Grabmonument in der Nähe von Sintra, das auf einem Hügel liegt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.464367,
+                        38.777983
+                  ]
+            },
+            {
+                  "name": "Tholos do Monge",
+                  "text": "Eine archäologische Fundstätte mit den Überresten eines prähistorischen Rundgrabs.",
+                  "category": "historical",
+                  "coords": [
+                        -9.44136,
+                        38.774224
+                  ]
+            },
+            {
+                  "name": "Quinta do Vinagre",
+                  "text": "Ein historisches Anwesen und Schloss in der Region Sintra mit weitläufigen Weingärten.",
+                  "category": "castle",
+                  "coords": [
+                        -9.436534,
+                        38.798921
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Sintra-Cascais",
+                  "text": "Ein Schutzgebiet an der portugiesischen Küste, das für seine Klippen und Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.432583,
+                        38.805011
+                  ]
+            },
+            {
+                  "name": "Nationalpalast Pena",
+                  "text": "Ein farbenfrohes Schloss der Romantik in Sintra, das zum UNESCO-Welterbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        -9.390493,
+                        38.787583
+                  ]
+            },
+            {
+                  "name": "Villa romana de Santo André de Almoçageme",
+                  "text": "Die Ruinen einer römischen Villa in der Nähe der Küste von Almoçageme.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468035,
+                        38.800206
+                  ]
+            },
+            {
+                  "name": "Convento de Sant' Ana da Ordem do Carmo",
+                  "text": "Ein ehemaliges Kloster in der Umgebung des Monserrate-Palastes.",
+                  "category": "religious",
+                  "coords": [
+                        -9.443843,
+                        38.794013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de História Natural",
+                  "text": "Természettudományi múzeum Sintrában, amely jelentős őslénytani gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        -9.389974,
+                        38.798171
+                  ]
+            },
+            {
+                  "name": "Anta de Adrenunes",
+                  "text": "Megalitikus síremlék Sintra közelében, amely egy dombtetőn helyezkedik el.",
+                  "category": "historical",
+                  "coords": [
+                        -9.464367,
+                        38.777983
+                  ]
+            },
+            {
+                  "name": "Tholos do Monge",
+                  "text": "Régészeti lelőhely egy őskori kerek sír maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -9.44136,
+                        38.774224
+                  ]
+            },
+            {
+                  "name": "Quinta do Vinagre",
+                  "text": "Történelmi birtok és kastély Sintra régiójában, kiterjedt szőlőültetvényekkel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.436534,
+                        38.798921
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Sintra-Cascais",
+                  "text": "Védett terület a portugál tengerparton, amely szikláiról és erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.432583,
+                        38.805011
+                  ]
+            },
+            {
+                  "name": "Palácio da Pena",
+                  "text": "Színpompás romantikus kastély Sintrában, amely az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        -9.390493,
+                        38.787583
+                  ]
+            },
+            {
+                  "name": "Villa romana de Santo André de Almoçageme",
+                  "text": "Egy római villa romjai Almoçageme tengerpartjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468035,
+                        38.800206
+                  ]
+            },
+            {
+                  "name": "Convento de Sant' Ana da Ordem do Carmo",
+                  "text": "Egykori kolostor a Monserrate-palota környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.443843,
+                        38.794013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de História Natural",
+                  "text": "Un muzeu de istorie naturală din Sintra, care găzduiește o colecție paleontologică importantă.",
+                  "category": "museum",
+                  "coords": [
+                        -9.389974,
+                        38.798171
+                  ]
+            },
+            {
+                  "name": "Anta de Adrenunes",
+                  "text": "Un monument funerar megalitic lângă Sintra, situat pe vârful unui deal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.464367,
+                        38.777983
+                  ]
+            },
+            {
+                  "name": "Tholos do Monge",
+                  "text": "Un sit arheologic care conține resturile unui mormânt circular preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        -9.44136,
+                        38.774224
+                  ]
+            },
+            {
+                  "name": "Quinta do Vinagre",
+                  "text": "O proprietate istorică și castel în regiunea Sintra, cu podgorii vaste.",
+                  "category": "castle",
+                  "coords": [
+                        -9.436534,
+                        38.798921
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Sintra-Cascais",
+                  "text": "O zonă protejată pe coasta portugheză, cunoscută pentru stâncile și pădurile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -9.432583,
+                        38.805011
+                  ]
+            },
+            {
+                  "name": "Palácio da Pena",
+                  "text": "Un castel romantic colorat în Sintra, care face parte din Patrimoniul Mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        -9.390493,
+                        38.787583
+                  ]
+            },
+            {
+                  "name": "Villa romana de Santo André de Almoçageme",
+                  "text": "Ruinele unei vile romane situate lângă coasta din Almoçageme.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468035,
+                        38.800206
+                  ]
+            },
+            {
+                  "name": "Convento de Sant' Ana da Ordem do Carmo",
+                  "text": "O fostă mănăstire situată în împrejurimile Palatului Monserrate.",
+                  "category": "religious",
+                  "coords": [
+                        -9.443843,
+                        38.794013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu de História Natural",
+                  "text": "A natural history museum in Sintra, housing a significant paleontological collection.",
+                  "category": "museum",
+                  "coords": [
+                        -9.389974,
+                        38.798171
+                  ]
+            },
+            {
+                  "name": "Anta de Adrenunes",
+                  "text": "A megalithic funerary monument near Sintra, situated on a hilltop.",
+                  "category": "historical",
+                  "coords": [
+                        -9.464367,
+                        38.777983
+                  ]
+            },
+            {
+                  "name": "Tholos do Monge",
+                  "text": "An archaeological site containing the remains of a prehistoric circular tomb.",
+                  "category": "historical",
+                  "coords": [
+                        -9.44136,
+                        38.774224
+                  ]
+            },
+            {
+                  "name": "Quinta do Vinagre",
+                  "text": "A historic estate and castle in the Sintra region with extensive vineyards.",
+                  "category": "castle",
+                  "coords": [
+                        -9.436534,
+                        38.798921
+                  ]
+            },
+            {
+                  "name": "Sintra-Cascais Nature Park",
+                  "text": "A protected area on the Portuguese coast, known for its cliffs and forests.",
+                  "category": "natural",
+                  "coords": [
+                        -9.432583,
+                        38.805011
+                  ]
+            },
+            {
+                  "name": "Pena National Palace",
+                  "text": "A colorful Romanticist palace in Sintra, which is part of the UNESCO World Heritage.",
+                  "category": "castle",
+                  "coords": [
+                        -9.390493,
+                        38.787583
+                  ]
+            },
+            {
+                  "name": "Villa romana de Santo André de Almoçageme",
+                  "text": "The ruins of a Roman villa located near the coast of Almoçageme.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468035,
+                        38.800206
+                  ]
+            },
+            {
+                  "name": "Convento de Sant' Ana da Ordem do Carmo",
+                  "text": "A former monastery located in the surroundings of Monserrate Palace.",
+                  "category": "religious",
+                  "coords": [
+                        -9.443843,
+                        38.794013
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "PT",
     name: { de: "Palácio de Monserrate", hu: "Monserrate-palota", ro: "Palatul Monserrate", en: "Monserrate Palace" },
@@ -138,7 +435,268 @@ export const portugalLandmarksV2: POI[] = [
     image: "/poi-images/portugal-palacio-monserrate-landmarks-v2.webp",
   },
   {
-    id: "portugal-castelo-de-guimaraes-landmarks-v2",
+    id: "portugal-castelo-de-guimaraes-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "Mittelalterlicher Palast und ehemalige Residenz der Herzöge von Braganza in Guimarães.",
+                  "category": "castle",
+                  "coords": [
+                        -8.291007,
+                        41.44646
+                  ]
+            },
+            {
+                  "name": "Teatro Jordão",
+                  "text": "Örtliches Theater und kultureller Veranstaltungsort in Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.294938,
+                        41.438852
+                  ]
+            },
+            {
+                  "name": "Castelo de Guimarães",
+                  "text": "Gut erhaltene mittelalterliche Burg und Symbol der Staatsgründung Portugals.",
+                  "category": "castle",
+                  "coords": [
+                        -8.290401,
+                        41.447906
+                  ]
+            },
+            {
+                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
+                  "text": "Museum, das dem traditionellen Kunsthandwerk in Guimarães gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.302221,
+                        41.438725
+                  ]
+            },
+            {
+                  "name": "Teatro Oficina",
+                  "text": "Ein zeitgenössisches Theater und Kulturraum in Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.291873,
+                        41.435095
+                  ]
+            },
+            {
+                  "name": "Convento e Igreja de São Francisco",
+                  "text": "Ein historisches Franziskanerkloster und eine Kirche in Guimarães.",
+                  "category": "religious",
+                  "coords": [
+                        -8.292346,
+                        41.440606
+                  ]
+            },
+            {
+                  "name": "Parque Aquático Scorpio",
+                  "text": "Ein saisonaler Wasserpark im Freien mit Pools und Rutschen in Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.31954,
+                        41.431152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "Középkori palota és a Bragança hercegek egykori rezidenciája Guimarãesben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.291007,
+                        41.44646
+                  ]
+            },
+            {
+                  "name": "Teatro Jordão",
+                  "text": "Helyi színház és kulturális helyszín Guimarãesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.294938,
+                        41.438852
+                  ]
+            },
+            {
+                  "name": "Castelo de Guimarães",
+                  "text": "Jó állapotban fennmaradt középkori vár, Portugália alapításának szimbóluma.",
+                  "category": "castle",
+                  "coords": [
+                        -8.290401,
+                        41.447906
+                  ]
+            },
+            {
+                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
+                  "text": "Guimarães hagyományos művészetének és mesterségeinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.302221,
+                        41.438725
+                  ]
+            },
+            {
+                  "name": "Teatro Oficina",
+                  "text": "Kortárs színház és kulturális tér Guimarãesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.291873,
+                        41.435095
+                  ]
+            },
+            {
+                  "name": "Convento e Igreja de São Francisco",
+                  "text": "Történelmi ferences kolostor és templom Guimarãesben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.292346,
+                        41.440606
+                  ]
+            },
+            {
+                  "name": "Parque Aquático Scorpio",
+                  "text": "Szezonális szabadtéri vízipark medencékkel és csúszdákkal Guimarãesben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.31954,
+                        41.431152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "Palat medieval și fostă reședință a ducilor de Braganza în Guimarães.",
+                  "category": "castle",
+                  "coords": [
+                        -8.291007,
+                        41.44646
+                  ]
+            },
+            {
+                  "name": "Teatro Jordão",
+                  "text": "Teatru local și loc cultural în Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.294938,
+                        41.438852
+                  ]
+            },
+            {
+                  "name": "Castelo de Guimarães",
+                  "text": "Castel medieval bine conservat și simbol al fondării Portugaliei.",
+                  "category": "castle",
+                  "coords": [
+                        -8.290401,
+                        41.447906
+                  ]
+            },
+            {
+                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
+                  "text": "Muzeu dedicat artelor și meșteșugurilor tradiționale din Guimarães.",
+                  "category": "museum",
+                  "coords": [
+                        -8.302221,
+                        41.438725
+                  ]
+            },
+            {
+                  "name": "Teatro Oficina",
+                  "text": "Un teatru contemporan și spațiu cultural situat în Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.291873,
+                        41.435095
+                  ]
+            },
+            {
+                  "name": "Convento e Igreja de São Francisco",
+                  "text": "O mănăstire și biserică franciscană istorică în Guimarães.",
+                  "category": "religious",
+                  "coords": [
+                        -8.292346,
+                        41.440606
+                  ]
+            },
+            {
+                  "name": "Parque Aquático Scorpio",
+                  "text": "Un parc acvatic sezonier în aer liber, cu piscine și tobogane în Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.31954,
+                        41.431152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "A medieval palace and former residence of the Dukes of Braganza in Guimarães.",
+                  "category": "castle",
+                  "coords": [
+                        -8.291007,
+                        41.44646
+                  ]
+            },
+            {
+                  "name": "Teatro Jordão",
+                  "text": "A local theater and cultural venue in Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.294938,
+                        41.438852
+                  ]
+            },
+            {
+                  "name": "Castelo de Guimarães",
+                  "text": "A well-preserved medieval castle and symbol of Portugal's foundation.",
+                  "category": "castle",
+                  "coords": [
+                        -8.290401,
+                        41.447906
+                  ]
+            },
+            {
+                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
+                  "text": "A museum dedicated to traditional arts and crafts in Guimarães.",
+                  "category": "museum",
+                  "coords": [
+                        -8.302221,
+                        41.438725
+                  ]
+            },
+            {
+                  "name": "Teatro Oficina",
+                  "text": "A contemporary theatre and cultural space located in Guimarães.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.291873,
+                        41.435095
+                  ]
+            },
+            {
+                  "name": "Convento e Igreja de São Francisco",
+                  "text": "A historic Franciscan monastery and church in Guimarães.",
+                  "category": "religious",
+                  "coords": [
+                        -8.292346,
+                        41.440606
+                  ]
+            },
+            {
+                  "name": "Parque Aquático Scorpio",
+                  "text": "A seasonal outdoor water park with pools and slides in Guimarães.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.31954,
+                        41.431152
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg von Guimarães", hu: "Guimarães vára", ro: "Castelul Guimarães", en: "Guimarães Castle" },

@@ -228,7 +228,304 @@ export const denmarkLandmarksV2: POI[] = [
     image: "/poi-images/denmark-grundtvig-church-landmarks-v2.webp",
   },
   {
-    id: "denmark-mariager-abbey-church-landmarks-v2",
+    id: "denmark-mariager-abbey-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mariager Saltcenter",
+                  "text": "Ein Erlebnismuseum in Mariager, das sich der Gewinnung und Geschichte des Salzes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.979503,
+                        56.654088
+                  ]
+            },
+            {
+                  "name": "Odderhøj",
+                  "text": "Ein prähistorischer Grabhügel in der Umgebung von Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Dänemarks größter Grabhügel aus der Bronzezeit mit beeindruckendem Ausblick.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Enhøjsminde",
+                  "text": "Eine archäologische Fundstätte mit alten Grabhügeln bei Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.006358,
+                        56.615669
+                  ]
+            },
+            {
+                  "name": "Tyrhøj",
+                  "text": "Ein historischer Grabhügel, der Teil der archäologischen Landschaft von Mariager ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.9783,
+                        56.682847
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Ein antiker Grabhügel in der Region Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        9.986189,
+                        56.682532
+                  ]
+            },
+            {
+                  "name": "Søhøje",
+                  "text": "Eine Gruppe von archäologischen Grabhügeln in der Nähe von Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.949961,
+                        56.672477
+                  ]
+            },
+            {
+                  "name": "Lundshøj",
+                  "text": "Ein weiterer bedeutender Grabhügel im archäologischen Gebiet von Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.925618,
+                        56.660893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariager Saltcenter",
+                  "text": "Élménymúzeum Mariagerben, amely a sóbányászatnak és a só történetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        9.979503,
+                        56.654088
+                  ]
+            },
+            {
+                  "name": "Odderhøj",
+                  "text": "Történelem előtti sírhalom Mariager környékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Dánia legnagyobb bronzkori sírhalma, ahonnan lenyűgöző kilátás nyílik.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Enhøjsminde",
+                  "text": "Régészeti lelőhely ősi sírhalmokkal Mariager közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.006358,
+                        56.615669
+                  ]
+            },
+            {
+                  "name": "Tyrhøj",
+                  "text": "Mariager régészeti tájképéhez tartozó történelmi sírhalom.",
+                  "category": "historical",
+                  "coords": [
+                        9.9783,
+                        56.682847
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Ősi sírhalom a Mariager-fjord régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        9.986189,
+                        56.682532
+                  ]
+            },
+            {
+                  "name": "Søhøje",
+                  "text": "Régészeti sírhalmok csoportja Mariager közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.949961,
+                        56.672477
+                  ]
+            },
+            {
+                  "name": "Lundshøj",
+                  "text": "Újabb jelentős sírhalom Mariager régészeti területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.925618,
+                        56.660893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariager Saltcenter",
+                  "text": "Un muzeu interactiv în Mariager dedicat extracției și istoriei sării.",
+                  "category": "museum",
+                  "coords": [
+                        9.979503,
+                        56.654088
+                  ]
+            },
+            {
+                  "name": "Odderhøj",
+                  "text": "Un tumul funerar preistoric situat în împrejurimile localității Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Cel mai mare tumul funerar din epoca bronzului din Danemarca, oferind o vedere impresionantă.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Enhøjsminde",
+                  "text": "Un sit arheologic ce cuprinde tumuli antici lângă Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.006358,
+                        56.615669
+                  ]
+            },
+            {
+                  "name": "Tyrhøj",
+                  "text": "Un tumul istoric care face parte din peisajul arheologic al localității Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.9783,
+                        56.682847
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Un tumul antic situat în regiunea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.986189,
+                        56.682532
+                  ]
+            },
+            {
+                  "name": "Søhøje",
+                  "text": "Un grup de tumuli arheologici situați în apropiere de Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.949961,
+                        56.672477
+                  ]
+            },
+            {
+                  "name": "Lundshøj",
+                  "text": "Un alt tumul semnificativ din zona arheologică Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.925618,
+                        56.660893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mariager Saltcenter",
+                  "text": "An interactive museum in Mariager dedicated to the extraction and history of salt.",
+                  "category": "museum",
+                  "coords": [
+                        9.979503,
+                        56.654088
+                  ]
+            },
+            {
+                  "name": "Odderhøj",
+                  "text": "A prehistoric burial mound located in the surroundings of Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Denmark's largest Bronze Age burial mound, offering impressive views.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Enhøjsminde",
+                  "text": "An archaeological site featuring ancient burial mounds near Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.006358,
+                        56.615669
+                  ]
+            },
+            {
+                  "name": "Tyrhøj",
+                  "text": "A historical burial mound that is part of the archaeological landscape of Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.9783,
+                        56.682847
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "An ancient burial mound in the Mariager Fjord region.",
+                  "category": "historical",
+                  "coords": [
+                        9.986189,
+                        56.682532
+                  ]
+            },
+            {
+                  "name": "Søhøje",
+                  "text": "A group of archaeological burial mounds located near Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.949961,
+                        56.672477
+                  ]
+            },
+            {
+                  "name": "Lundshøj",
+                  "text": "Another significant burial mound in the Mariager archaeological area.",
+                  "category": "historical",
+                  "coords": [
+                        9.925618,
+                        56.660893
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "DK",
     name: { de: "Klosterkirche Mariager", hu: "Mariager kolostortemplom", ro: "Biserica mănăstirii Mariager", en: "Mariager Abbey Church" },
@@ -453,7 +750,268 @@ export const denmarkLandmarksV2: POI[] = [
     image: "/poi-images/denmark-haderslev-cathedral-landmarks-v2.webp",
   },
   {
-    id: "denmark-maribo-cathedral-landmarks-v2",
+    id: "denmark-maribo-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stiftsmuseet Maribo",
+                  "text": "Das Museum in Maribo präsentiert regionale Geschichte und Kunstschätze der dänischen Insel Lolland.",
+                  "category": "museum",
+                  "coords": [
+                        11.502194,
+                        54.776331
+                  ]
+            },
+            {
+                  "name": "Refshaleborg",
+                  "text": "Die Überreste einer mittelalterlichen Burg, die strategisch auf einer Insel im Maribo-See lag.",
+                  "category": "historical",
+                  "coords": [
+                        11.536065,
+                        54.757718
+                  ]
+            },
+            {
+                  "name": "Maribo Frilandsmuseum – De gamle Huse",
+                  "text": "Ein Freilichtmuseum, das mit historischen Fachwerkhäusern das ländliche Leben vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.489444,
+                        54.769992
+                  ]
+            },
+            {
+                  "name": "Nørregadeteatret",
+                  "text": "Ein regionales Theater in Maribo, das ein vielfältiges Programm an Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.499505,
+                        54.776282
+                  ]
+            },
+            {
+                  "name": "Maribo Miniby",
+                  "text": "Eine Miniaturstadt, die Maribo im Maßstab 1:10 zeigt, wie es in der Mitte des 19. Jahrhunderts aussah.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514552,
+                        54.776872
+                  ]
+            },
+            {
+                  "name": "Maribo Kloster",
+                  "text": "Die Überreste eines bedeutenden mittelalterlichen Klosters der Birgittinnen in Maribo.",
+                  "category": "historical",
+                  "coords": [
+                        11.498829,
+                        54.772966
+                  ]
+            },
+            {
+                  "name": "Engestofte",
+                  "text": "Ein herrschaftliches Gutshaus am Maribo-See, das für seine Architektur und Parkanlage bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.562067,
+                        54.762589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stiftsmuseet Maribo",
+                  "text": "Maribo múzeuma a dániai Lolland-sziget helytörténetét és művészeti kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.502194,
+                        54.776331
+                  ]
+            },
+            {
+                  "name": "Refshaleborg",
+                  "text": "Középkori várrom, amely stratégiai helyen, a Maribo-tó egyik szigetén állt.",
+                  "category": "historical",
+                  "coords": [
+                        11.536065,
+                        54.757718
+                  ]
+            },
+            {
+                  "name": "Maribo Frilandsmuseum – De gamle Huse",
+                  "text": "Szabadtéri múzeum, amely történelmi faházakon keresztül mutatja be a régi vidéki életet.",
+                  "category": "museum",
+                  "coords": [
+                        11.489444,
+                        54.769992
+                  ]
+            },
+            {
+                  "name": "Nørregadeteatret",
+                  "text": "Regionális színház Maribóban, amely változatos előadásokkal várja a közönséget.",
+                  "category": "cultural",
+                  "coords": [
+                        11.499505,
+                        54.776282
+                  ]
+            },
+            {
+                  "name": "Maribo Miniby",
+                  "text": "Maribo városának 1:10 arányú makettje, amely az 1850-es évekbeli állapotot tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514552,
+                        54.776872
+                  ]
+            },
+            {
+                  "name": "Maribo Kloster",
+                  "text": "Egy jelentős középkori birgitta rendi kolostor maradványai Maribóban.",
+                  "category": "historical",
+                  "coords": [
+                        11.498829,
+                        54.772966
+                  ]
+            },
+            {
+                  "name": "Engestofte",
+                  "text": "Kúria a Maribo-tó partján, amely építészetéről és parkjáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        11.562067,
+                        54.762589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stiftsmuseet Maribo",
+                  "text": "Muzeul din Maribo prezintă istoria regională și comorile artistice ale insulei daneze Lolland.",
+                  "category": "museum",
+                  "coords": [
+                        11.502194,
+                        54.776331
+                  ]
+            },
+            {
+                  "name": "Refshaleborg",
+                  "text": "Vestigiile unei cetăți medievale situate strategic pe o insulă din lacul Maribo.",
+                  "category": "historical",
+                  "coords": [
+                        11.536065,
+                        54.757718
+                  ]
+            },
+            {
+                  "name": "Maribo Frilandsmuseum – De gamle Huse",
+                  "text": "Un muzeu în aer liber care expune viața rurală de odinioară prin case istorice tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        11.489444,
+                        54.769992
+                  ]
+            },
+            {
+                  "name": "Nørregadeteatret",
+                  "text": "Un teatru regional în Maribo, care oferă un program variat de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        11.499505,
+                        54.776282
+                  ]
+            },
+            {
+                  "name": "Maribo Miniby",
+                  "text": "Un oraș în miniatură care reproduce Maribo la scara 1:10, așa cum arăta la mijlocul secolului al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514552,
+                        54.776872
+                  ]
+            },
+            {
+                  "name": "Maribo Kloster",
+                  "text": "Ruinele unei mănăstiri medievale importante aparținând ordinului birgitin din Maribo.",
+                  "category": "historical",
+                  "coords": [
+                        11.498829,
+                        54.772966
+                  ]
+            },
+            {
+                  "name": "Engestofte",
+                  "text": "Un conac impunător pe malul lacului Maribo, renumit pentru arhitectura sa și parcul înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        11.562067,
+                        54.762589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stiftsmuseet Maribo",
+                  "text": "A museum in Maribo showcasing regional history and art from the Danish island of Lolland.",
+                  "category": "museum",
+                  "coords": [
+                        11.502194,
+                        54.776331
+                  ]
+            },
+            {
+                  "name": "Refshaleborg",
+                  "text": "The ruins of a medieval castle located strategically on an island in Lake Maribo.",
+                  "category": "historical",
+                  "coords": [
+                        11.536065,
+                        54.757718
+                  ]
+            },
+            {
+                  "name": "Maribo Frilandsmuseum – De gamle Huse",
+                  "text": "An open-air museum illustrating rural life from the past through historic timber-framed houses.",
+                  "category": "museum",
+                  "coords": [
+                        11.489444,
+                        54.769992
+                  ]
+            },
+            {
+                  "name": "Nørregadeteatret",
+                  "text": "A regional theater in Maribo offering a diverse program of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.499505,
+                        54.776282
+                  ]
+            },
+            {
+                  "name": "Maribo Miniby",
+                  "text": "A miniature town depicting Maribo at a 1:10 scale as it appeared in the mid-19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        11.514552,
+                        54.776872
+                  ]
+            },
+            {
+                  "name": "Maribo Kloster",
+                  "text": "The remains of a significant medieval Bridgettine monastery in Maribo.",
+                  "category": "historical",
+                  "coords": [
+                        11.498829,
+                        54.772966
+                  ]
+            },
+            {
+                  "name": "Engestofte",
+                  "text": "A manor house on the shores of Lake Maribo, known for its architecture and parkland.",
+                  "category": "historical",
+                  "coords": [
+                        11.562067,
+                        54.762589
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Maribo", hu: "Maribói katedrális", ro: "Catedrala din Maribo", en: "Maribo Cathedral" },
@@ -1038,7 +1596,88 @@ export const denmarkLandmarksV2: POI[] = [
     image: "/poi-images/denmark-old-bridge-little-belt-landmarks-v2.webp",
   },
   {
-    id: "denmark-storebaelt-bridge-landmarks-v2",
+    id: "denmark-storebaelt-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sprogø Fyr",
+                  "text": "Ein historischer Leuchtturm auf der Insel Sprogø in der Mitte des Großen Belts.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969559,
+                        55.330766
+                  ]
+            },
+            {
+                  "name": "Østbroen",
+                  "text": "Ein Teil der beeindruckenden Storebælt-Brücke, die die dänischen Inseln verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.002944,
+                        55.337715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sprogø Fyr",
+                  "text": "Történelmi világítótorony Sprogø szigetén, a Nagy-Bælt közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969559,
+                        55.330766
+                  ]
+            },
+            {
+                  "name": "Østbroen",
+                  "text": "A lenyűgöző Nagy-Bælt híd része, amely a dán szigeteket köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        11.002944,
+                        55.337715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sprogø Fyr",
+                  "text": "Un far istoric situat pe insula Sprogø, în mijlocul Marii Centuri.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969559,
+                        55.330766
+                  ]
+            },
+            {
+                  "name": "Østbroen",
+                  "text": "O parte a impresionantei punți de peste Marea Centură, care leagă insulele daneze.",
+                  "category": "landmark",
+                  "coords": [
+                        11.002944,
+                        55.337715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sprogø Fyr",
+                  "text": "A historic lighthouse located on the island of Sprogø in the middle of the Great Belt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969559,
+                        55.330766
+                  ]
+            },
+            {
+                  "name": "East Bridge",
+                  "text": "A section of the impressive Great Belt Bridge connecting the Danish islands.",
+                  "category": "landmark",
+                  "coords": [
+                        11.002944,
+                        55.337715
+                  ]
+            }
+      ]
+},
     type: "bridge",
     parent: "DK",
     name: { de: "Großer-Belt-Brücke", hu: "Nagy-Belt híd", ro: "Podul peste Marele Belt", en: "Great Belt Bridge" },

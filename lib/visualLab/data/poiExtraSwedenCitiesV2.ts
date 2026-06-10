@@ -13857,6 +13857,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.587573,
                         56.165853
                   ]
+            },
+            {
+                  "name": "Museum The Kulenovic Collection",
+                  "text": "Ein Privatmuseum in Karlskrona mit einer umfangreichen Sammlung von Kunst und historischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        15.587165,
+                        56.160485
+                  ]
+            },
+            {
+                  "name": "Karlskrona Bilmuseum",
+                  "text": "Ein Museum in Karlskrona, das eine Vielzahl von Oldtimern und Automobilgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.59565,
+                        56.162416
+                  ]
+            },
+            {
+                  "name": "Karlskrona Nedre",
+                  "text": "Der untere Leuchtturm in Karlskrona, der als Orientierungshilfe für die Schifffahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        15.597156,
+                        56.159004
+                  ]
+            },
+            {
+                  "name": "Karlskrona ovre",
+                  "text": "Der obere Leuchtturm in Karlskrona, Teil des maritimen Signalsystems der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.601876,
+                        56.170694
+                  ]
+            },
+            {
+                  "name": "Rollso naturreservat",
+                  "text": "Ein Naturschutzgebiet im Schärengarten von Karlskrona, bekannt für seine Küstenlandschaft und Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        15.543773,
+                        56.167573
+                  ]
             }
       ],
       "hu": [
@@ -13957,6 +14002,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.587573,
                         56.165853
+                  ]
+            },
+            {
+                  "name": "Museum The Kulenovic Collection",
+                  "text": "Magánmúzeum Karlskronában, amely kiterjedt művészeti és történelmi gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        15.587165,
+                        56.160485
+                  ]
+            },
+            {
+                  "name": "Karlskrona Bilmuseum",
+                  "text": "Karlskronai autómúzeum, amely különféle veterán autókat és a járműgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.59565,
+                        56.162416
+                  ]
+            },
+            {
+                  "name": "Karlskrona Nedre",
+                  "text": "Karlskrona alsó világítótornya, amely a tengeri navigációt segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        15.597156,
+                        56.159004
+                  ]
+            },
+            {
+                  "name": "Karlskrona ovre",
+                  "text": "Karlskrona felső világítótornya, a város tengeri jelzőrendszerének része.",
+                  "category": "landmark",
+                  "coords": [
+                        15.601876,
+                        56.170694
+                  ]
+            },
+            {
+                  "name": "Rollso naturreservat",
+                  "text": "Természetvédelmi terület a karlskronai szigetvilágban, amely parti tájairól és élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.543773,
+                        56.167573
                   ]
             }
       ],
@@ -14059,6 +14149,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.587573,
                         56.165853
                   ]
+            },
+            {
+                  "name": "Museum The Kulenovic Collection",
+                  "text": "Un muzeu privat din Karlskrona care prezintă o colecție vastă de artă și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.587165,
+                        56.160485
+                  ]
+            },
+            {
+                  "name": "Karlskrona Bilmuseum",
+                  "text": "Un muzeu din Karlskrona care expune o varietate de mașini de epocă și istorie auto.",
+                  "category": "museum",
+                  "coords": [
+                        15.59565,
+                        56.162416
+                  ]
+            },
+            {
+                  "name": "Karlskrona Nedre",
+                  "text": "Farul de jos din Karlskrona, care servește ca ajutor pentru navigația maritimă.",
+                  "category": "landmark",
+                  "coords": [
+                        15.597156,
+                        56.159004
+                  ]
+            },
+            {
+                  "name": "Karlskrona ovre",
+                  "text": "Farul de sus din Karlskrona, parte a sistemului de semnalizare maritimă al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        15.601876,
+                        56.170694
+                  ]
+            },
+            {
+                  "name": "Rollso naturreservat",
+                  "text": "O rezervație naturală din arhipelagul Karlskrona, cunoscută pentru peisajele sale de coastă și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        15.543773,
+                        56.167573
+                  ]
             }
       ],
       "en": [
@@ -14159,6 +14294,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.587573,
                         56.165853
+                  ]
+            },
+            {
+                  "name": "Museum The Kulenovic Collection",
+                  "text": "A private museum in Karlskrona featuring an extensive collection of art and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        15.587165,
+                        56.160485
+                  ]
+            },
+            {
+                  "name": "Karlskrona Bilmuseum",
+                  "text": "A museum in Karlskrona displaying a variety of vintage cars and automotive history.",
+                  "category": "museum",
+                  "coords": [
+                        15.59565,
+                        56.162416
+                  ]
+            },
+            {
+                  "name": "Karlskrona Nedre",
+                  "text": "The lower lighthouse in Karlskrona, serving as an aid to maritime navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        15.597156,
+                        56.159004
+                  ]
+            },
+            {
+                  "name": "Karlskrona ovre",
+                  "text": "The upper lighthouse in Karlskrona, part of the city's maritime signaling system.",
+                  "category": "landmark",
+                  "coords": [
+                        15.601876,
+                        56.170694
+                  ]
+            },
+            {
+                  "name": "Rollso naturreservat",
+                  "text": "A nature reserve in the Karlskrona archipelago known for its coastal landscapes and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        15.543773,
+                        56.167573
                   ]
             }
       ]
@@ -32975,6 +33155,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.919758,
                         58.878808
                   ]
+            },
+            {
+                  "name": "Gravkapellet pa Norra kyrkogarden",
+                  "text": "Eine historische Grabkapelle auf dem nördlichen Friedhof von Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.903188,
+                        58.886536
+                  ]
             }
       ],
       "hu": [
@@ -33030,6 +33219,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.919758,
                         58.878808
+                  ]
+            },
+            {
+                  "name": "Gravkapellet pa Norra kyrkogarden",
+                  "text": "Történelmi sírkápolna Askersund északi temetőjében.",
+                  "category": "religious",
+                  "coords": [
+                        14.903188,
+                        58.886536
                   ]
             }
       ],
@@ -33087,6 +33285,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.919758,
                         58.878808
                   ]
+            },
+            {
+                  "name": "Gravkapellet pa Norra kyrkogarden",
+                  "text": "O capelă funerară istorică situată în cimitirul de nord din Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.903188,
+                        58.886536
+                  ]
             }
       ],
       "en": [
@@ -33142,6 +33349,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.919758,
                         58.878808
+                  ]
+            },
+            {
+                  "name": "Gravkapellet pa Norra kyrkogarden",
+                  "text": "A historical burial chapel located in the northern cemetery of Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.903188,
+                        58.886536
                   ]
             }
       ]
@@ -34784,6 +35000,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.549894,
                         58.905209
                   ]
+            },
+            {
+                  "name": "Lotsangsbackens naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Trosa, das Wanderwege und lokale Flora bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.549571,
+                        58.871507
+                  ]
             }
       ],
       "hu": [
@@ -34866,6 +35091,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.549894,
                         58.905209
+                  ]
+            },
+            {
+                  "name": "Lotsangsbackens naturreservat",
+                  "text": "Trosa közeli természetvédelmi terület, amely túraútvonalakat és helyi flórát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.549571,
+                        58.871507
                   ]
             }
       ],
@@ -34950,6 +35184,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.549894,
                         58.905209
                   ]
+            },
+            {
+                  "name": "Lotsangsbackens naturreservat",
+                  "text": "O rezervație naturală lângă Trosa, care oferă trasee de drumeție și floră locală.",
+                  "category": "natural",
+                  "coords": [
+                        17.549571,
+                        58.871507
+                  ]
             }
       ],
       "en": [
@@ -35032,6 +35275,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.549894,
                         58.905209
+                  ]
+            },
+            {
+                  "name": "Lotsangsbackens naturreservat",
+                  "text": "A nature reserve near Trosa offering hiking trails and local flora.",
+                  "category": "natural",
+                  "coords": [
+                        17.549571,
+                        58.871507
                   ]
             }
       ]
@@ -36557,6 +36809,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.999288,
                         59.378419
                   ]
+            },
+            {
+                  "name": "Lotsjon-Golfangarnas naturreservat",
+                  "text": "Ein Naturschutzgebiet in Sundbyberg, das für seine reiche Vogelwelt und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.972694,
+                        59.371442
+                  ]
+            },
+            {
+                  "name": "Augustendals 4H-gard",
+                  "text": "Ein Stadtbauernhof in Sundbyberg, der Kindern den Umgang mit Tieren und Natur ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
             }
       ],
       "hu": [
@@ -37098,6 +37368,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.999288,
                         59.378419
+                  ]
+            },
+            {
+                  "name": "Lotsjon-Golfangarnas naturreservat",
+                  "text": "Természetvédelmi terület Sundbybergben, amely gazdag madárvilágáról és sétányairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.972694,
+                        59.371442
+                  ]
+            },
+            {
+                  "name": "Augustendals 4H-gard",
+                  "text": "Városi farm Sundbybergben, ahol a gyerekek megismerkedhetnek az állatokkal és a természettel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
                   ]
             }
       ],
@@ -37641,6 +37929,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.999288,
                         59.378419
                   ]
+            },
+            {
+                  "name": "Lotsjon-Golfangarnas naturreservat",
+                  "text": "O rezervație naturală în Sundbyberg, cunoscută pentru fauna bogată de păsări și traseele de plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        17.972694,
+                        59.371442
+                  ]
+            },
+            {
+                  "name": "Augustendals 4H-gard",
+                  "text": "O fermă urbană în Sundbyberg, unde copiii pot interacționa cu animalele și natura.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
+                  ]
             }
       ],
       "en": [
@@ -38182,6 +38488,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.999288,
                         59.378419
+                  ]
+            },
+            {
+                  "name": "Lotsjon-Golfangarnas naturreservat",
+                  "text": "A nature reserve in Sundbyberg known for its rich birdlife and walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        17.972694,
+                        59.371442
+                  ]
+            },
+            {
+                  "name": "Augustendals 4H-gard",
+                  "text": "A city farm in Sundbyberg where children can learn about animals and nature.",
+                  "category": "recreational",
+                  "coords": [
+                        17.996475,
+                        59.344722
                   ]
             }
       ]
@@ -43559,6 +43883,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.116931,
                         59.285652
                   ]
+            },
+            {
+                  "name": "Langsjons naturreservat",
+                  "text": "Das Naturschutzgebiet um den See Långsjön bietet ruhige Wanderwege in der Nähe von Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.18784,
+                        59.306447
+                  ]
+            },
+            {
+                  "name": "Nackareservatet i Stockholm",
+                  "text": "Ein großes Naturreservat in der Nähe von Stockholm mit Seen, Wäldern und vielfältigen Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        18.128545,
+                        59.28918
+                  ]
             }
       ],
       "hu": [
@@ -43992,6 +44334,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.116931,
                         59.285652
+                  ]
+            },
+            {
+                  "name": "Langsjons naturreservat",
+                  "text": "A Långsjön-tó körüli természetvédelmi terület csendes túraútvonalakat kínál Nacka közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.18784,
+                        59.306447
+                  ]
+            },
+            {
+                  "name": "Nackareservatet i Stockholm",
+                  "text": "Nagy természetvédelmi terület Stockholm közelében, tavakkal, erdőkkel és változatos kikapcsolódási lehetőségekkel.",
+                  "category": "natural",
+                  "coords": [
+                        18.128545,
+                        59.28918
                   ]
             }
       ],
@@ -44427,6 +44787,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.116931,
                         59.285652
                   ]
+            },
+            {
+                  "name": "Langsjons naturreservat",
+                  "text": "Rezervația naturală din jurul lacului Långsjön oferă trasee liniștite de drumeție lângă Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.18784,
+                        59.306447
+                  ]
+            },
+            {
+                  "name": "Nackareservatet i Stockholm",
+                  "text": "O mare rezervație naturală lângă Stockholm, cu lacuri, păduri și diverse posibilități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.128545,
+                        59.28918
+                  ]
             }
       ],
       "en": [
@@ -44860,6 +45238,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.116931,
                         59.285652
+                  ]
+            },
+            {
+                  "name": "Langsjons naturreservat",
+                  "text": "The nature reserve around Lake Långsjön offers quiet hiking trails near Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.18784,
+                        59.306447
+                  ]
+            },
+            {
+                  "name": "Nackareservatet i Stockholm",
+                  "text": "A large nature reserve near Stockholm with lakes, forests, and diverse recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        18.128545,
+                        59.28918
                   ]
             }
       ]
@@ -47600,6 +47996,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.251983,
                         59.229819
                   ]
+            },
+            {
+                  "name": "Alby naturreservat",
+                  "text": "Ein Naturschutzgebiet in Tyresö mit Wanderwegen und reicher Flora am See Albysjön.",
+                  "category": "natural",
+                  "coords": [
+                        18.273603,
+                        59.234754
+                  ]
+            },
+            {
+                  "name": "Uppsatra torp",
+                  "text": "Historische Überreste einer alten Katenstelle in der Gemeinde Tyresö.",
+                  "category": "historical",
+                  "coords": [
+                        18.256819,
+                        59.219817
+                  ]
+            },
+            {
+                  "name": "Trollbackens kyrka",
+                  "text": "Die Trollbäcken-Kirche ist ein modernes religiöses Gebäude in Tyresö.",
+                  "category": "religious",
+                  "coords": [
+                        18.203562,
+                        59.221428
+                  ]
+            },
+            {
+                  "name": "Storkallans kapell",
+                  "text": "Eine kleine Kapelle in Tyresö, die für Zeremonien und Besinnung genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        18.207508,
+                        59.252593
+                  ]
             }
       ],
       "hu": [
@@ -47952,6 +48384,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.251983,
                         59.229819
+                  ]
+            },
+            {
+                  "name": "Alby naturreservat",
+                  "text": "Természetvédelmi terület Tyresőben, túraútvonalakkal és gazdag flórával az Albysjön-tó mellett.",
+                  "category": "natural",
+                  "coords": [
+                        18.273603,
+                        59.234754
+                  ]
+            },
+            {
+                  "name": "Uppsatra torp",
+                  "text": "Egy régi zsellérház történelmi maradványai Tyresö községben.",
+                  "category": "historical",
+                  "coords": [
+                        18.256819,
+                        59.219817
+                  ]
+            },
+            {
+                  "name": "Trollbackens kyrka",
+                  "text": "A Trollbäcken-templom egy modern vallási épület Tyresőben.",
+                  "category": "religious",
+                  "coords": [
+                        18.203562,
+                        59.221428
+                  ]
+            },
+            {
+                  "name": "Storkallans kapell",
+                  "text": "Kisméretű kápolna Tyresőben, amelyet szertartásokra és elcsendesedésre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        18.207508,
+                        59.252593
                   ]
             }
       ],
@@ -48306,6 +48774,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.251983,
                         59.229819
                   ]
+            },
+            {
+                  "name": "Alby naturreservat",
+                  "text": "O rezervație naturală în Tyresö, cu trasee de drumeție și floră bogată lângă lacul Albysjön.",
+                  "category": "natural",
+                  "coords": [
+                        18.273603,
+                        59.234754
+                  ]
+            },
+            {
+                  "name": "Uppsatra torp",
+                  "text": "Rămășițele istorice ale unei vechi colibe de iobagi din comuna Tyresö.",
+                  "category": "historical",
+                  "coords": [
+                        18.256819,
+                        59.219817
+                  ]
+            },
+            {
+                  "name": "Trollbackens kyrka",
+                  "text": "Biserica Trollbäcken este o clădire religioasă modernă din Tyresö.",
+                  "category": "religious",
+                  "coords": [
+                        18.203562,
+                        59.221428
+                  ]
+            },
+            {
+                  "name": "Storkallans kapell",
+                  "text": "O mică capelă din Tyresö, utilizată pentru ceremonii și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        18.207508,
+                        59.252593
+                  ]
             }
       ],
       "en": [
@@ -48658,6 +49162,42 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.251983,
                         59.229819
+                  ]
+            },
+            {
+                  "name": "Alby naturreservat",
+                  "text": "A nature reserve in Tyresö with hiking trails and rich flora by Lake Albysjön.",
+                  "category": "natural",
+                  "coords": [
+                        18.273603,
+                        59.234754
+                  ]
+            },
+            {
+                  "name": "Uppsatra torp",
+                  "text": "Historical remains of an old crofter's cottage in Tyresö municipality.",
+                  "category": "historical",
+                  "coords": [
+                        18.256819,
+                        59.219817
+                  ]
+            },
+            {
+                  "name": "Trollbackens kyrka",
+                  "text": "Trollbäcken Church is a modern religious building in Tyresö.",
+                  "category": "religious",
+                  "coords": [
+                        18.203562,
+                        59.221428
+                  ]
+            },
+            {
+                  "name": "Storkallans kapell",
+                  "text": "A small chapel in Tyresö used for ceremonies and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        18.207508,
+                        59.252593
                   ]
             }
       ]

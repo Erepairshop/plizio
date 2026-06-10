@@ -519,6 +519,60 @@ export const moldovaCitiesV2: POI[] = [
                         29.487208,
                         46.834786
                   ]
+            },
+            {
+                  "name": "Festung von Bendery",
+                  "text": "Festung Tighina, eine große osmanische Festung aus dem 16. Jahrhundert am Dnister.",
+                  "category": "castle",
+                  "coords": [
+                        29.487402,
+                        46.837961
+                  ]
+            },
+            {
+                  "name": "Festung Bendery",
+                  "text": "Festung Bender, eine beeindruckende mittelalterliche Verteidigungsanlage in der Stadt Bender.",
+                  "category": "castle",
+                  "coords": [
+                        29.485276,
+                        46.83716
+                  ]
+            },
+            {
+                  "name": "Ethnografisches Museum „Kultur und Leben der Bulgaren“",
+                  "text": "Ethnographisches Museum in Bender, das die Kultur und Geschichte der bulgarischen Minderheit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.513103,
+                        46.831392
+                  ]
+            },
+            {
+                  "name": "Museum der Tragödie von Bendery",
+                  "text": "Museum der Bender-Tragödie, gewidmet dem Gedenken an den Konflikt von 1992.",
+                  "category": "museum",
+                  "coords": [
+                        29.481083,
+                        46.822112
+                  ]
+            },
+            {
+                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "text": "Denkmal der Eisenbahner, eine Gedenkstätte und Parkanlage zur Eisenbahngeschichte der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        29.471434,
+                        46.825857
+                  ]
+            },
+            {
+                  "name": "Denkmal der Erinnerung und Trauer",
+                  "text": "Denkmal der Erinnerung und des Kummers, ein Gedenkkomplex für die Gefallenen von 1992.",
+                  "category": "park",
+                  "coords": [
+                        29.488264,
+                        46.830329
+                  ]
             }
       ],
       "hu": [
@@ -547,6 +601,60 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.487208,
                         46.834786
+                  ]
+            },
+            {
+                  "name": "Цитадель Бендерской крепости",
+                  "text": "Tighina erőd, egy hatalmas, 16. századi oszmán erőd a Dnyeszter partján.",
+                  "category": "castle",
+                  "coords": [
+                        29.487402,
+                        46.837961
+                  ]
+            },
+            {
+                  "name": "Бендерская крепость",
+                  "text": "Bender erőd, lenyűgöző középkori erődítményrendszer Bender városában.",
+                  "category": "castle",
+                  "coords": [
+                        29.485276,
+                        46.83716
+                  ]
+            },
+            {
+                  "name": "Этнографический музей «Культура и быт болгар»",
+                  "text": "Néprajzi Múzeum Benderben, amely a bolgár kisebbség kultúráját és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.513103,
+                        46.831392
+                  ]
+            },
+            {
+                  "name": "Музей Бендерской трагедии",
+                  "text": "A benderi tragédia múzeuma, az 1992-es konfliktus áldozatainak emlékére.",
+                  "category": "museum",
+                  "coords": [
+                        29.481083,
+                        46.822112
+                  ]
+            },
+            {
+                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "text": "Vasutasok emlékműve, emlékhely és park a város vasúti történelmének tiszteletére.",
+                  "category": "park",
+                  "coords": [
+                        29.471434,
+                        46.825857
+                  ]
+            },
+            {
+                  "name": "Мемориал Памяти и Скорби",
+                  "text": "Az emlékezés és gyász emlékműve, az 1992-es harcokban elesettek emlékkomplexuma.",
+                  "category": "park",
+                  "coords": [
+                        29.488264,
+                        46.830329
                   ]
             }
       ],
@@ -577,6 +685,60 @@ export const moldovaCitiesV2: POI[] = [
                         29.487208,
                         46.834786
                   ]
+            },
+            {
+                  "name": "Cetatea Tighina",
+                  "text": "Cetatea Tighina, o fortăreață otomană impunătoare din secolul al XVI-lea pe malul Nistrului.",
+                  "category": "castle",
+                  "coords": [
+                        29.487402,
+                        46.837961
+                  ]
+            },
+            {
+                  "name": "Cetatea Bender",
+                  "text": "Cetatea Bender, un complex fortificat medieval impresionant din orașul Bender.",
+                  "category": "castle",
+                  "coords": [
+                        29.485276,
+                        46.83716
+                  ]
+            },
+            {
+                  "name": "Muzeul etnografic „Cultura și viața bulgar”",
+                  "text": "Muzeul Etnografic din Bender, care prezintă cultura și istoria minorității bulgare.",
+                  "category": "museum",
+                  "coords": [
+                        29.513103,
+                        46.831392
+                  ]
+            },
+            {
+                  "name": "Muzeul Tragediei Benderului",
+                  "text": "Muzeul Tragediei din Bender, dedicat memoriei conflictului din anul 1992.",
+                  "category": "museum",
+                  "coords": [
+                        29.481083,
+                        46.822112
+                  ]
+            },
+            {
+                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "text": "Memorialul Feroviarilor, un monument și parc dedicat istoriei feroviare a orașului.",
+                  "category": "park",
+                  "coords": [
+                        29.471434,
+                        46.825857
+                  ]
+            },
+            {
+                  "name": "Мемориал Памяти и Скорби",
+                  "text": "Memorialul Memoriei și Durerii, un complex dedicat celor căzuți în conflictul din 1992.",
+                  "category": "park",
+                  "coords": [
+                        29.488264,
+                        46.830329
+                  ]
             }
       ],
       "en": [
@@ -605,6 +767,60 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.487208,
                         46.834786
+                  ]
+            },
+            {
+                  "name": "Tighina Fortress",
+                  "text": "A large 16th-century Ottoman fortress overlooking the Dniester River in Bender.",
+                  "category": "castle",
+                  "coords": [
+                        29.487402,
+                        46.837961
+                  ]
+            },
+            {
+                  "name": "Bendery Fortress",
+                  "text": "Impressive medieval fortification complex and historic castle in the city of Bender.",
+                  "category": "castle",
+                  "coords": [
+                        29.485276,
+                        46.83716
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum \"Culture and Life of Bulgarians\"",
+                  "text": "Ethnographic museum focusing on the traditional culture and life of the Bulgarian minority.",
+                  "category": "museum",
+                  "coords": [
+                        29.513103,
+                        46.831392
+                  ]
+            },
+            {
+                  "name": "Museum of the Bendery Tragedy",
+                  "text": "Museum dedicated to the memory of the 1992 conflict and its impact on the city.",
+                  "category": "museum",
+                  "coords": [
+                        29.481083,
+                        46.822112
+                  ]
+            },
+            {
+                  "name": "Memorial to the revolutionary, combat, and labor glory of the railway workers",
+                  "text": "Memorial park and monument dedicated to the history and labor of railway workers.",
+                  "category": "park",
+                  "coords": [
+                        29.471434,
+                        46.825857
+                  ]
+            },
+            {
+                  "name": "Memorial of Memory and Grief",
+                  "text": "A solemn memorial complex honoring those who fell during the 1992 conflict in Bender.",
+                  "category": "park",
+                  "coords": [
+                        29.488264,
+                        46.830329
                   ]
             }
       ]
@@ -1348,6 +1564,78 @@ export const moldovaCitiesV2: POI[] = [
                         29.147842,
                         47.288068
                   ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Ein Sommertheater in Dubăsari, das für Freiluftaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        29.130499,
+                        47.279067
+                  ]
+            },
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "Ein historischer jüdischer Friedhof in Dubăsari, der an die einstige jüdische Gemeinde erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.145631,
+                        47.277965
+                  ]
+            },
+            {
+                  "name": "Hydrokraftwerk Dubossary",
+                  "text": "Ein bedeutendes Wasserkraftwerk am Dnjestr-Staudamm bei Dubăsari.",
+                  "category": "landmark",
+                  "coords": [
+                        29.125024,
+                        47.278376
+                  ]
+            },
+            {
+                  "name": "Vedere spre barajul Dubăsari",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Staudamm von Dubăsari und den Fluss Nistru.",
+                  "category": "natural",
+                  "coords": [
+                        29.122047,
+                        47.274159
+                  ]
+            },
+            {
+                  "name": "Barajul de la Dubăsari",
+                  "text": "Der Staudamm von Dubăsari am Fluss Nistru, der auch als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        29.123337,
+                        47.277994
+                  ]
+            },
+            {
+                  "name": "ДОТ № 213 ТиУР",
+                  "text": "Ruinen eines ehemaligen Militärbunkers in Dubăsari aus der Zeit der befestigten Region Tiraspol.",
+                  "category": "historical",
+                  "coords": [
+                        29.143132,
+                        47.26202
+                  ]
+            },
+            {
+                  "name": "ДОТ № 212 ТиУР",
+                  "text": "Überreste eines historischen Bunkers in Dubăsari, Teil der ehemaligen Verteidigungslinien.",
+                  "category": "historical",
+                  "coords": [
+                        29.149267,
+                        47.247021
+                  ]
+            },
+            {
+                  "name": "Denkmal der Opfer des Faschismus",
+                  "text": "Eine Gedenkstätte in Dubăsari zur Erinnerung an die Opfer während der Zeit des Faschismus.",
+                  "category": "landmark",
+                  "coords": [
+                        29.158834,
+                        47.270881
+                  ]
             }
       ],
       "hu": [
@@ -1367,6 +1655,78 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.147842,
                         47.288068
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Szabadtéri színház Dubăsariban, amelyet nyári előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        29.130499,
+                        47.279067
+                  ]
+            },
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "Dubăsari történelmi zsidó temetője, amely az egykori zsidó közösségnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        29.145631,
+                        47.277965
+                  ]
+            },
+            {
+                  "name": "Hidrocentrala Dubăsari",
+                  "text": "Jelentős vízerőmű a Dnyeszter gátjánál, Dubăsari közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.125024,
+                        47.278376
+                  ]
+            },
+            {
+                  "name": "Vedere spre barajul Dubăsari",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a dubăsari gátra és a Nistru folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        29.122047,
+                        47.274159
+                  ]
+            },
+            {
+                  "name": "Barajul de la Dubăsari",
+                  "text": "A Nistru folyón található dubăsari gát, amely kilátóhelyként is funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        29.123337,
+                        47.277994
+                  ]
+            },
+            {
+                  "name": "ДОТ № 213 ТиУР",
+                  "text": "Egy egykori katonai bunker romjai Dubăsariban, a tiraspoli erődített körzet idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        29.143132,
+                        47.26202
+                  ]
+            },
+            {
+                  "name": "ДОТ № 212 ТиУР",
+                  "text": "Egy történelmi bunker maradványai Dubăsariban, az egykori védelmi vonalak részeként.",
+                  "category": "historical",
+                  "coords": [
+                        29.149267,
+                        47.247021
+                  ]
+            },
+            {
+                  "name": "Мемориал «Жертвам фашизма»",
+                  "text": "Dubăsari emlékmű a fasizmus áldozatainak emlékére.",
+                  "category": "landmark",
+                  "coords": [
+                        29.158834,
+                        47.270881
                   ]
             }
       ],
@@ -1388,6 +1748,78 @@ export const moldovaCitiesV2: POI[] = [
                         29.147842,
                         47.288068
                   ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Un teatru de vară din Dubăsari, utilizat pentru spectacole în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        29.130499,
+                        47.279067
+                  ]
+            },
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "Un cimitir evreiesc istoric din Dubăsari, care amintește de fosta comunitate evreiască.",
+                  "category": "landmark",
+                  "coords": [
+                        29.145631,
+                        47.277965
+                  ]
+            },
+            {
+                  "name": "Centrala hidroelectrică de la Dubăsari",
+                  "text": "O centrală hidroelectrică importantă situată la barajul de pe Nistru, lângă Dubăsari.",
+                  "category": "landmark",
+                  "coords": [
+                        29.125024,
+                        47.278376
+                  ]
+            },
+            {
+                  "name": "Vedere spre barajul Dubăsari",
+                  "text": "Un punct de observație cu vedere spre barajul de la Dubăsari și râul Nistru.",
+                  "category": "natural",
+                  "coords": [
+                        29.122047,
+                        47.274159
+                  ]
+            },
+            {
+                  "name": "Barajul de la Dubăsari",
+                  "text": "Barajul de la Dubăsari de pe râul Nistru, care servește și ca punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        29.123337,
+                        47.277994
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 213 TiRF",
+                  "text": "Ruinele unui fost buncăr militar din Dubăsari, datând din perioada regiunii fortificate Tiraspol.",
+                  "category": "historical",
+                  "coords": [
+                        29.143132,
+                        47.26202
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 212 TiRF",
+                  "text": "Rămășițele unui buncăr istoric din Dubăsari, parte a fostelor linii de apărare.",
+                  "category": "historical",
+                  "coords": [
+                        29.149267,
+                        47.247021
+                  ]
+            },
+            {
+                  "name": "Memorialul „Victimele fascismului“",
+                  "text": "Un monument memorial din Dubăsari dedicat victimelor fascismului.",
+                  "category": "landmark",
+                  "coords": [
+                        29.158834,
+                        47.270881
+                  ]
             }
       ],
       "en": [
@@ -1407,6 +1839,78 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.147842,
                         47.288068
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "A summer theater in Dubăsari used for open-air performances.",
+                  "category": "cultural",
+                  "coords": [
+                        29.130499,
+                        47.279067
+                  ]
+            },
+            {
+                  "name": "Cimitirul evreiesc",
+                  "text": "A historical Jewish cemetery in Dubăsari, serving as a reminder of the former Jewish community.",
+                  "category": "landmark",
+                  "coords": [
+                        29.145631,
+                        47.277965
+                  ]
+            },
+            {
+                  "name": "Dubăsari Dam's hydroelectrical power plant",
+                  "text": "A significant hydroelectric power plant located at the Dniester dam near Dubăsari.",
+                  "category": "landmark",
+                  "coords": [
+                        29.125024,
+                        47.278376
+                  ]
+            },
+            {
+                  "name": "Dubasari Dam viewpoit",
+                  "text": "A viewpoint offering vistas of the Dubăsari Dam and the Nistru River.",
+                  "category": "natural",
+                  "coords": [
+                        29.122047,
+                        47.274159
+                  ]
+            },
+            {
+                  "name": "Dubăsari Dam",
+                  "text": "The Dubăsari Dam on the Nistru River, which also serves as a scenic viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        29.123337,
+                        47.277994
+                  ]
+            },
+            {
+                  "name": "Bunker No 213 TiFR",
+                  "text": "Ruins of a former military bunker in Dubăsari from the Tiraspol Fortified Region era.",
+                  "category": "historical",
+                  "coords": [
+                        29.143132,
+                        47.26202
+                  ]
+            },
+            {
+                  "name": "Bunker No 212 TiFR",
+                  "text": "Remains of a historical bunker in Dubăsari, part of the former defense lines.",
+                  "category": "historical",
+                  "coords": [
+                        29.149267,
+                        47.247021
+                  ]
+            },
+            {
+                  "name": "Memorial to the Victims of Fascism",
+                  "text": "A memorial site in Dubăsari dedicated to the memory of the victims of fascism.",
+                  "category": "landmark",
+                  "coords": [
+                        29.158834,
+                        47.270881
                   ]
             }
       ]
@@ -1515,6 +2019,51 @@ export const moldovaCitiesV2: POI[] = [
                         27.325878,
                         48.177306
                   ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "Ein Museum in Edineț, das Exponate zur lokalen Geschichte und Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.302982,
+                        48.171926
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Ein Denkmal zu Ehren von Stephan dem Großen, einem bedeutenden mittelalterlichen Herrscher der Moldau.",
+                  "category": "historical",
+                  "coords": [
+                        27.306231,
+                        48.169587
+                  ]
+            },
+            {
+                  "name": "Lenin",
+                  "text": "Ein aus der Sowjetzeit erhaltenes Denkmal in Edineț, das Wladimir Lenin darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.301558,
+                        48.17331
+                  ]
+            },
+            {
+                  "name": "Ansamblu de fântâni și sculpturi",
+                  "text": "Eine dekorative Anlage mit Springbrunnen und Skulpturen im öffentlichen Raum von Edineț.",
+                  "category": "landmark",
+                  "coords": [
+                        27.306748,
+                        48.172625
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc",
+                  "text": "Ein historischer jüdischer Friedhof, der die kulturelle Vielfalt und Geschichte der Stadt bezeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.309835,
+                        48.154891
+                  ]
             }
       ],
       "hu": [
@@ -1525,6 +2074,51 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.325878,
                         48.177306
+                  ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "Edineți múzeum, amely a helyi történelemhez és kultúrához kapcsolódó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.302982,
+                        48.171926
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Emlékmű Nagy István tiszteletére, aki Moldva jelentős középkori uralkodója volt.",
+                  "category": "historical",
+                  "coords": [
+                        27.306231,
+                        48.169587
+                  ]
+            },
+            {
+                  "name": "Lenin",
+                  "text": "Szovjet korszakból megmaradt emlékmű Edinețben, amely Vlagyimir Lenint ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.301558,
+                        48.17331
+                  ]
+            },
+            {
+                  "name": "Ansamblu de fântâni și sculpturi",
+                  "text": "Díszes szökőkutakból és szobrokból álló együttes Edineț egyik közterén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.306748,
+                        48.172625
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc",
+                  "text": "Történelmi zsidó temető, amely a város kulturális sokszínűségéről és történelméről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        27.309835,
+                        48.154891
                   ]
             }
       ],
@@ -1537,6 +2131,51 @@ export const moldovaCitiesV2: POI[] = [
                         27.325878,
                         48.177306
                   ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "Un muzeu din Edineț care prezintă exponate legate de istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        27.302982,
+                        48.171926
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Un monument în cinstea lui Ștefan cel Mare, un domnitor medieval proeminent al Moldovei.",
+                  "category": "historical",
+                  "coords": [
+                        27.306231,
+                        48.169587
+                  ]
+            },
+            {
+                  "name": "Lenin",
+                  "text": "Un monument păstrat din epoca sovietică în Edineț, reprezentându-l pe Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        27.301558,
+                        48.17331
+                  ]
+            },
+            {
+                  "name": "Ansamblu de fântâni și sculpturi",
+                  "text": "Un ansamblu decorativ de fântâni și sculpturi situat într-un spațiu public din Edineț.",
+                  "category": "landmark",
+                  "coords": [
+                        27.306748,
+                        48.172625
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc",
+                  "text": "Un cimitir evreiesc istoric care atestă diversitatea culturală și istoria orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.309835,
+                        48.154891
+                  ]
             }
       ],
       "en": [
@@ -1547,6 +2186,51 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.325878,
                         48.177306
+                  ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "A museum in Edineț showcasing exhibits related to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        27.302982,
+                        48.171926
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "A monument honoring Stephen the Great, a prominent medieval ruler of Moldavia.",
+                  "category": "historical",
+                  "coords": [
+                        27.306231,
+                        48.169587
+                  ]
+            },
+            {
+                  "name": "Lenin",
+                  "text": "A monument preserved from the Soviet era in Edineț, depicting Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        27.301558,
+                        48.17331
+                  ]
+            },
+            {
+                  "name": "Ansamblu de fântâni și sculpturi",
+                  "text": "A decorative ensemble of fountains and sculptures located in a public space in Edineț.",
+                  "category": "landmark",
+                  "coords": [
+                        27.306748,
+                        48.172625
+                  ]
+            },
+            {
+                  "name": "Jewish Cemetery",
+                  "text": "A historical Jewish cemetery witnessing the town's cultural diversity and history.",
+                  "category": "landmark",
+                  "coords": [
+                        27.309835,
+                        48.154891
                   ]
             }
       ]
@@ -1597,7 +2281,88 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-causeni-cities-v2",
+    id: "moldova-causeni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Eine einzigartige, teilweise unterirdische Kirche aus dem 17. Jahrhundert mit wertvollen Fresken.",
+                  "category": "museum",
+                  "coords": [
+                        29.410857,
+                        46.639842
+                  ]
+            },
+            {
+                  "name": "Școala de Arte Căușeni",
+                  "text": "Ein Kunstzentrum und eine Schule in Căușeni, die die lokale Kreativität fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        29.407909,
+                        46.639488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Egyedülálló, részben földbe süllyesztett 17. századi templom értékes freskókkal.",
+                  "category": "museum",
+                  "coords": [
+                        29.410857,
+                        46.639842
+                  ]
+            },
+            {
+                  "name": "Școala de Arte Căușeni",
+                  "text": "Művészeti központ és iskola Căușeniben, amely a helyi kreativitást támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        29.407909,
+                        46.639488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "O biserică unică din secolul al XVII-lea, parțial îngropată, renumită pentru frescele sale interioare.",
+                  "category": "museum",
+                  "coords": [
+                        29.410857,
+                        46.639842
+                  ]
+            },
+            {
+                  "name": "Școala de Arte Căușeni",
+                  "text": "Un centru de artă și școală în Căușeni, dedicat promovării creativității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.407909,
+                        46.639488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Assumption of Our Lady Church, Căușeni",
+                  "text": "A unique 17th-century church, partially buried underground, famous for its interior frescoes.",
+                  "category": "museum",
+                  "coords": [
+                        29.410857,
+                        46.639842
+                  ]
+            },
+            {
+                  "name": "Școala de Arte Căușeni",
+                  "text": "An arts center and school in Căușeni dedicated to fostering local creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        29.407909,
+                        46.639488
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Căușeni", hu: "Căușeni", ro: "Căușeni", en: "Căușeni"},
@@ -2892,7 +3657,160 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-hincesti-cities-v2",
+    id: "moldova-hincesti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complexul istorico-arhitectural „Manuc Bey”",
+                  "text": "Ein bedeutender historischer Herrenhauskomplex in Hîncești, der einst dem Diplomaten Manuc Bey gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        28.582148,
+                        46.825631
+                  ]
+            },
+            {
+                  "name": "Paradis - Piscină Hîncești",
+                  "text": "Ein lokaler Wasserpark und Schwimmbad in Hîncești, der Freizeit- und Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.608848,
+                        46.832454
+                  ]
+            },
+            {
+                  "name": "Teatrul de vară din parcul „Victoria”",
+                  "text": "Ein Freilichttheater im Victoria-Park von Hîncești, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        28.580459,
+                        46.829745
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Hînceşti",
+                  "text": "Ein historischer jüdischer Friedhof, der als wichtiges Zeugnis der jüdischen Geschichte von Hîncești gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.598225,
+                        46.816764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexul istorico-arhitectural „Manuc Bey”",
+                  "text": "Jelentős történelmi kúriaegyüttes Hîncești városában, amely egykor Manuc Bey diplomata tulajdona volt.",
+                  "category": "castle",
+                  "coords": [
+                        28.582148,
+                        46.825631
+                  ]
+            },
+            {
+                  "name": "Paradis - Piscină Hîncești",
+                  "text": "Helyi vízi park és úszómedence Hîncești városában, amely szabadidős és kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.608848,
+                        46.832454
+                  ]
+            },
+            {
+                  "name": "Teatrul de vară din parcul „Victoria”",
+                  "text": "Szabadtéri színház a hîncești Victoria parkban, amelyet kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        28.580459,
+                        46.829745
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Hînceşti",
+                  "text": "Történelmi zsidó temető, amely Hîncești zsidó múltjának fontos emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        28.598225,
+                        46.816764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexul istorico-arhitectural „Manuc Bey”",
+                  "text": "Un complex arhitectural istoric important situat în Hîncești, care a aparținut diplomatului Manuc Bei.",
+                  "category": "castle",
+                  "coords": [
+                        28.582148,
+                        46.825631
+                  ]
+            },
+            {
+                  "name": "Paradis - Piscină Hîncești",
+                  "text": "Un parc acvatic local și piscină în Hîncești, oferind facilități de agrement și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.608848,
+                        46.832454
+                  ]
+            },
+            {
+                  "name": "Teatrul de vară din parcul „Victoria”",
+                  "text": "Un teatru de vară situat în parcul Victoria din Hîncești, utilizat pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.580459,
+                        46.829745
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Hînceşti",
+                  "text": "Un cimitir evreiesc istoric, reprezentând o mărturie importantă a istoriei evreiești din Hîncești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.598225,
+                        46.816764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansion of Manuc Bey",
+                  "text": "A significant historical mansion complex in Hîncești that once belonged to the diplomat Manuc Bey.",
+                  "category": "castle",
+                  "coords": [
+                        28.582148,
+                        46.825631
+                  ]
+            },
+            {
+                  "name": "Paradis - swimming pool Hîncești",
+                  "text": "A local water park and swimming pool in Hîncești, offering leisure and recreation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        28.608848,
+                        46.832454
+                  ]
+            },
+            {
+                  "name": "Teatrul de vară din parcul „Victoria”",
+                  "text": "An open-air theatre in Hîncești's Victoria Park, used for various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.580459,
+                        46.829745
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Hînceşti",
+                  "text": "A historical Jewish cemetery serving as an important testament to the Jewish history of Hîncești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.598225,
+                        46.816764
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Hîncești", hu: "Hîncești", ro: "Hîncești", en: "Hîncești"},
@@ -2986,7 +3904,88 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-ceadir-lunga-cities-v2",
+    id: "moldova-ceadir-lunga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatrul Național Găgăuz „Dionis Tanasoglu“",
+                  "text": "Das Nationaltheater in Ceadîr-Lunga pflegt und präsentiert die gagausische Sprache und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        28.82469,
+                        46.057846
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Ein Denkmal aus der Sowjetzeit in Ceadîr-Lunga, das an Wladimir Lenin erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.833545,
+                        46.051759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatrul Național Găgăuz „Dionis Tanasoglu“",
+                  "text": "A Ceadîr-Lunga-i nemzeti színház a gagauz nyelv és kultúra megőrzésének és bemutatásának központja.",
+                  "category": "cultural",
+                  "coords": [
+                        28.82469,
+                        46.057846
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Szovjet korszakból származó emlékmű Ceadîr-Lunga városában, amely Leninnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        28.833545,
+                        46.051759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul Național Găgăuz „Dionis Tanasoglu“",
+                  "text": "Teatrul național din Ceadîr-Lunga dedicat promovării limbii și culturii găgăuze.",
+                  "category": "cultural",
+                  "coords": [
+                        28.82469,
+                        46.057846
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Un monument din epoca sovietică în Ceadîr-Lunga, dedicat lui Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.833545,
+                        46.051759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatrul Național Găgăuz „Dionis Tanasoglu“",
+                  "text": "The national theatre in Ceadîr-Lunga dedicated to promoting Gagauz language and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        28.82469,
+                        46.057846
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "A Soviet-era monument in Ceadîr-Lunga, commemorating Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.833545,
+                        46.051759
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Ceadîr-Lunga", hu: "Ceadîr-Lunga", ro: "Ceadîr-Lunga", en: "Ceadîr-Lunga"},
@@ -3325,7 +4324,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-ocnita-cities-v2", "sights": {"de": [{"name": "Vodoskhovishche Dnistrovskoi GES-2", "text": "Dieser Stausee in Ocnita bietet einen weiten Blick auf das Wasser und eignet sich für einen friedlichen Spaziergang in der Natur.", "category": "natural", "coords": [27.511835, 48.530427]}], "hu": [{"name": "Vodoskhovishche Dnistrovskoi GES-2", "text": "Ez az ocnitai víztározó tágas kilátást nyújt a vízre, amely alkalmas egy békés, festői sétához.", "category": "natural", "coords": [27.511835, 48.530427]}], "ro": [{"name": "Vodoskhovishche Dnistrovskoi GES-2", "text": "Acest lac de acumulare din Ocnita oferă o vedere amplă asupra apei, fiind potrivit pentru o plimbare liniștită în natură.", "category": "natural", "coords": [27.511835, 48.530427]}], "en": [{"name": "Vodoskhovishche Dnistrovskoi GES-2", "text": "This reservoir in Ocnita offers an expansive view of the water, suitable for a peaceful scenic walk.", "category": "natural", "coords": [27.511835, 48.530427]}]},
+    id: "moldova-ocnita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodoskhovishche Dnistrovskoi GES-2",
+                  "text": "Dieser Stausee in Ocnita bietet einen weiten Blick auf das Wasser und eignet sich für einen friedlichen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            },
+            {
+                  "name": "Gara Ocnița (1893)",
+                  "text": "Der Bahnhof von Ocnița ist ein historisches Eisenbahngebäude aus dem Jahr 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        27.484911,
+                        48.405427
+                  ]
+            },
+            {
+                  "name": "Tractor-Monument",
+                  "text": "Dieses Denkmal in Ocnița erinnert mit einem historischen Traktor an die lokale Landwirtschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        27.469466,
+                        48.409729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodoskhovishche Dnistrovskoi GES-2",
+                  "text": "Ez az ocnitai víztározó tágas kilátást nyújt a vízre, amely alkalmas egy békés, festői sétához.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            },
+            {
+                  "name": "Gara Ocnița (1893)",
+                  "text": "Az ocnițai vasútállomás egy 1893-ban épült történelmi vasúti épület.",
+                  "category": "landmark",
+                  "coords": [
+                        27.484911,
+                        48.405427
+                  ]
+            },
+            {
+                  "name": "Tractor-Monument",
+                  "text": "Ez az ocnițai emlékmű egy történelmi traktorral állít emléket a helyi mezőgazdaságnak.",
+                  "category": "landmark",
+                  "coords": [
+                        27.469466,
+                        48.409729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodoskhovishche Dnistrovskoi GES-2",
+                  "text": "Acest lac de acumulare din Ocnita oferă o vedere amplă asupra apei, fiind potrivit pentru o plimbare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            },
+            {
+                  "name": "Gara Ocnița (1893)",
+                  "text": "Gara din Ocnița este o clădire feroviară istorică, construită în anul 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        27.484911,
+                        48.405427
+                  ]
+            },
+            {
+                  "name": "Tractor-Monument",
+                  "text": "Acest monument din Ocnița omagiază agricultura locală printr-un tractor istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        27.469466,
+                        48.409729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodoskhovishche Dnistrovskoi GES-2",
+                  "text": "This reservoir in Ocnita offers an expansive view of the water, suitable for a peaceful scenic walk.",
+                  "category": "natural",
+                  "coords": [
+                        27.511835,
+                        48.530427
+                  ]
+            },
+            {
+                  "name": "Gara Ocnița (1893)",
+                  "text": "The Ocnița railway station is a historic railway building dating back to 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        27.484911,
+                        48.405427
+                  ]
+            },
+            {
+                  "name": "Tractor-Monument",
+                  "text": "This monument in Ocnița commemorates local agriculture with a historic tractor.",
+                  "category": "landmark",
+                  "coords": [
+                        27.469466,
+                        48.409729
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița"},
@@ -4040,6 +5156,24 @@ export const moldovaCitiesV2: POI[] = [
                         27.183016,
                         47.944185
                   ]
+            },
+            {
+                  "name": "Reciful Holmu",
+                  "text": "Eine markante geologische Formation in der Nähe der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.264685,
+                        47.944626
+                  ]
+            },
+            {
+                  "name": "Sfinxul din Horodiste",
+                  "text": "Eine natürliche Felsformation, die an die Gestalt einer Sphinx erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.267075,
+                        47.966133
+                  ]
             }
       ],
       "hu": [
@@ -4050,6 +5184,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.183016,
                         47.944185
+                  ]
+            },
+            {
+                  "name": "Reciful Holmu",
+                  "text": "Jellegzetes geológiai képződmény a város közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.264685,
+                        47.944626
+                  ]
+            },
+            {
+                  "name": "Sfinxul din Horodiste",
+                  "text": "Természetes sziklaalakzat, amely egy szfinx formájára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.267075,
+                        47.966133
                   ]
             }
       ],
@@ -4062,6 +5214,24 @@ export const moldovaCitiesV2: POI[] = [
                         27.183016,
                         47.944185
                   ]
+            },
+            {
+                  "name": "Reciful Holmu",
+                  "text": "O formațiune geologică distinctivă în apropierea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.264685,
+                        47.944626
+                  ]
+            },
+            {
+                  "name": "Sfinxul din Horodiste",
+                  "text": "O formațiune stâncoasă naturală care amintește de silueta unui sfinx.",
+                  "category": "landmark",
+                  "coords": [
+                        27.267075,
+                        47.966133
+                  ]
             }
       ],
       "en": [
@@ -4072,6 +5242,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.183016,
                         47.944185
+                  ]
+            },
+            {
+                  "name": "Reciful Holmu",
+                  "text": "A distinctive geological formation located near the city.",
+                  "category": "landmark",
+                  "coords": [
+                        27.264685,
+                        47.944626
+                  ]
+            },
+            {
+                  "name": "Sfinxul din Horodiste",
+                  "text": "A natural rock formation that resembles the shape of a sphinx.",
+                  "category": "landmark",
+                  "coords": [
+                        27.267075,
+                        47.966133
                   ]
             }
       ]
@@ -5518,6 +6706,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.837149,
                         46.958184
                   ]
+            },
+            {
+                  "name": "Karchevski Urban Villa",
+                  "text": "Eine architektonisch bedeutende Stadtvilla im Ort Codru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.842111,
+                        46.991854
+                  ]
             }
       ],
       "hu": [
@@ -5708,6 +6905,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.837149,
                         46.958184
+                  ]
+            },
+            {
+                  "name": "Karchevski Urban Villa",
+                  "text": "Építészetileg jelentős városi villa Codru településén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.842111,
+                        46.991854
                   ]
             }
       ],
@@ -5900,6 +7106,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.837149,
                         46.958184
                   ]
+            },
+            {
+                  "name": "Karchevski Urban Villa",
+                  "text": "O vilă urbană cu valoare arhitecturală situată în Codru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.842111,
+                        46.991854
+                  ]
             }
       ],
       "en": [
@@ -6090,6 +7305,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.837149,
                         46.958184
+                  ]
+            },
+            {
+                  "name": "Karchevski Urban Villa",
+                  "text": "An architecturally significant urban villa located in Codru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.842111,
+                        46.991854
                   ]
             }
       ]
@@ -6468,7 +7692,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-otaci-cities-v2",
+    id: "moldova-otaci-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lenin",
+                  "text": "Eine Statue oder ein Denkmal zu Ehren Lenins in der Stadt Otaci.",
+                  "category": "landmark",
+                  "coords": [
+                        27.781505,
+                        48.444367
+                  ]
+            },
+            {
+                  "name": "Tsentr narodnoyi tvorchosti",
+                  "text": "Ein Kulturzentrum in Otaci, das sich der Förderung des lokalen Volksschaffens widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.802651,
+                        48.440552
+                  ]
+            },
+            {
+                  "name": "Podul Prieteniei - mist Druzhba",
+                  "text": "Eine Brücke über den Dnjestr in Otaci, die Moldau mit der Ukraine verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.789939,
+                        48.443794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lenin",
+                  "text": "Lenin-szobor vagy emlékmű Otaci városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.781505,
+                        48.444367
+                  ]
+            },
+            {
+                  "name": "Tsentr narodnoyi tvorchosti",
+                  "text": "Kulturális központ Otaciban, amely a helyi népművészet népszerűsítésével foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        27.802651,
+                        48.440552
+                  ]
+            },
+            {
+                  "name": "Podul Prieteniei - mist Druzhba",
+                  "text": "Híd a Dnyeszter felett Otacinál, amely Moldovát köti össze Ukrajnával.",
+                  "category": "landmark",
+                  "coords": [
+                        27.789939,
+                        48.443794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lenin",
+                  "text": "O statuie sau un monument dedicat lui Lenin situat în orașul Otaci.",
+                  "category": "landmark",
+                  "coords": [
+                        27.781505,
+                        48.444367
+                  ]
+            },
+            {
+                  "name": "Tsentr narodnoyi tvorchosti",
+                  "text": "Centru cultural din Otaci dedicat promovării creației populare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.802651,
+                        48.440552
+                  ]
+            },
+            {
+                  "name": "Podul Prieteniei - mist Druzhba",
+                  "text": "Pod peste Nistru la Otaci, care face legătura între Republica Moldova și Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        27.789939,
+                        48.443794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lenin",
+                  "text": "A statue or monument related to Lenin located in the town of Otaci.",
+                  "category": "landmark",
+                  "coords": [
+                        27.781505,
+                        48.444367
+                  ]
+            },
+            {
+                  "name": "Tsentr narodnoyi tvorchosti",
+                  "text": "A cultural center in Otaci dedicated to promoting local folk creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        27.802651,
+                        48.440552
+                  ]
+            },
+            {
+                  "name": "Podul Prieteniei - mist Druzhba",
+                  "text": "A bridge over the Dniester at Otaci, connecting Moldova and Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        27.789939,
+                        48.443794
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Otaci", hu: "Otaci", ro: "Otaci", en: "Otaci"},
@@ -6690,7 +8031,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-cornesti-cities-v2",
+    id: "moldova-cornesti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanc IS-3",
+                  "text": "Ein historischer sowjetischer IS-3 Panzer, der als Denkmal in Cornești aufgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.99217,
+                        47.373301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanc IS-3",
+                  "text": "Egy történelmi szovjet IS-3-as harckocsi, amely emlékműként áll Corneștiben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.99217,
+                        47.373301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanc IS-3",
+                  "text": "Un tanc sovietic istoric de tip IS-3, expus ca monument în localitatea Cornești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.99217,
+                        47.373301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanc IS-3",
+                  "text": "A historic Soviet IS-3 tank displayed as a monument in Cornești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.99217,
+                        47.373301
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Cornești", hu: "Cornești", ro: "Cornești", en: "Cornești"},
@@ -7404,7 +8790,52 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-marculesti-cities-v2",
+    id: "moldova-marculesti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cimitir evreesc",
+                  "text": "Ein historischer jüdischer Friedhof in Mărculești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.24163,
+                        47.866794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimitir evreesc",
+                  "text": "Történelmi zsidó temető Mărculești településen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.24163,
+                        47.866794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimitir evreesc",
+                  "text": "Un cimitir evreiesc istoric situat în Mărculești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.24163,
+                        47.866794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cimitir evreesc",
+                  "text": "A historic Jewish cemetery located in Mărculești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.24163,
+                        47.866794
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Mărculești", hu: "Mărculești", ro: "Mărculești", en: "Mărculești"},
@@ -8179,7 +9610,52 @@ export const moldovaCitiesV2: POI[] = [
   }
 ,
   {
-    id: "moldova-calarasi-cities-v2",
+    id: "moldova-calarasi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cimitirul Evreiesc Călărași",
+                  "text": "Ein historischer jüdischer Friedhof in Călărași.",
+                  "category": "landmark",
+                  "coords": [
+                        28.331051,
+                        47.248016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimitirul Evreiesc Călărași",
+                  "text": "Történelmi zsidó temető Călărași városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.331051,
+                        47.248016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimitirul Evreiesc Călărași",
+                  "text": "Un cimitir evreiesc istoric în Călărași.",
+                  "category": "landmark",
+                  "coords": [
+                        28.331051,
+                        47.248016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cimitirul Evreiesc Călărași",
+                  "text": "A historic Jewish cemetery in Călărași.",
+                  "category": "landmark",
+                  "coords": [
+                        28.331051,
+                        47.248016
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași"},
@@ -9073,6 +10549,42 @@ export const moldovaCitiesV2: POI[] = [
                         27.730379,
                         47.578804
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie „Lazăr Dubinovschi”",
+                  "text": "Dieses Museum in Fălești präsentiert Exponate zur lokalen Geschichte und Ethnographie.",
+                  "category": "museum",
+                  "coords": [
+                        27.709699,
+                        47.57789
+                  ]
+            },
+            {
+                  "name": "Muzeul în Aer Liber",
+                  "text": "Ein Freilichtmuseum in Făleștii Noi, das traditionelle Bauwerke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.707754,
+                        47.574266
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Ein Aussichtspunkt in Făleștii Noi, der einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.704535,
+                        47.58346
+                  ]
+            },
+            {
+                  "name": "Monumentul Vulturului",
+                  "text": "Ein monumentales Wahrzeichen in Fălești, das eine Adlerfigur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        27.706759,
+                        47.573526
+                  ]
             }
       ],
       "hu": [
@@ -9083,6 +10595,42 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.730379,
                         47.578804
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie „Lazăr Dubinovschi”",
+                  "text": "Ez a fálești-i múzeum a helyi történelem és néprajz tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.709699,
+                        47.57789
+                  ]
+            },
+            {
+                  "name": "Muzeul în Aer Liber",
+                  "text": "Szabadtéri múzeum Făleștii Noiban, amely hagyományos építményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.707754,
+                        47.574266
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Kilátópont Făleștii Noiban, ahonnan tágas kilátás nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        27.704535,
+                        47.58346
+                  ]
+            },
+            {
+                  "name": "Monumentul Vulturului",
+                  "text": "Monumentális jelkép Făleștiben, amely egy sast ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        27.706759,
+                        47.573526
                   ]
             }
       ],
@@ -9095,6 +10643,42 @@ export const moldovaCitiesV2: POI[] = [
                         27.730379,
                         47.578804
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie „Lazăr Dubinovschi”",
+                  "text": "Acest muzeu din Fălești prezintă exponate privind istoria și etnografia locală.",
+                  "category": "museum",
+                  "coords": [
+                        27.709699,
+                        47.57789
+                  ]
+            },
+            {
+                  "name": "Muzeul în Aer Liber",
+                  "text": "Un muzeu în aer liber din Făleștii Noi, care expune structuri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        27.707754,
+                        47.574266
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Un punct de belvedere în Făleștii Noi, oferind o vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        27.704535,
+                        47.58346
+                  ]
+            },
+            {
+                  "name": "Monumentul Vulturului",
+                  "text": "Un monument emblematic din Fălești care reprezintă figura unui vultur.",
+                  "category": "historical",
+                  "coords": [
+                        27.706759,
+                        47.573526
+                  ]
             }
       ],
       "en": [
@@ -9105,6 +10689,42 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.730379,
                         47.578804
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie „Lazăr Dubinovschi”",
+                  "text": "This museum in Fălești presents exhibits on local history and ethnography.",
+                  "category": "museum",
+                  "coords": [
+                        27.709699,
+                        47.57789
+                  ]
+            },
+            {
+                  "name": "Muzeul în Aer Liber",
+                  "text": "An open-air museum in Făleștii Noi exhibiting traditional structures.",
+                  "category": "museum",
+                  "coords": [
+                        27.707754,
+                        47.574266
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "A viewpoint in Făleștii Noi offering a wide view over the region.",
+                  "category": "natural",
+                  "coords": [
+                        27.704535,
+                        47.58346
+                  ]
+            },
+            {
+                  "name": "Monumentul Vulturului",
+                  "text": "A monumental landmark in Fălești depicting an eagle figure.",
+                  "category": "historical",
+                  "coords": [
+                        27.706759,
+                        47.573526
                   ]
             }
       ]

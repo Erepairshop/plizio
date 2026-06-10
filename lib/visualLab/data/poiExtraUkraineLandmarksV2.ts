@@ -1062,7 +1062,52 @@ imageHint: "Bohdan Khmelnytsky Monument Kyiv equestrian statue in the square",
     },
   },
   {
-    id: "ukraine-pochayiv-lavra-landmarks-v2",
+    id: "ukraine-pochayiv-lavra-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heilige Himmelfahrtskloster von Potschajiw",
+                  "text": "Ein bedeutendes orthodoxes Kloster in der Ukraine, bekannt für seine religiöse Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        25.505203,
+                        50.00529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Свято-Успенська Почаївська Лавра РПЦ",
+                  "text": "Ukrajna egyik legjelentősebb ortodox kolostora, amely vallási építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        25.505203,
+                        50.00529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lavra Poceaev",
+                  "text": "O mănăstire ortodoxă importantă din Ucraina, cunoscută pentru arhitectura sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        25.505203,
+                        50.00529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holy Dormition Pochayiv Lavra",
+                  "text": "A major Orthodox monastery in Ukraine, known for its religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        25.505203,
+                        50.00529
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Mariä-Entschlafens-Kloster von Potschajiw", hu: "Pocshajivi lavra", ro: "Lavra Poceaiv", en: "Pochayiv Lavra"},
@@ -1108,7 +1153,88 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
     },
     image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp",
 },  {
-    id: "ukraine-sviatohirsk-lavra-landmarks-v2",
+    id: "ukraine-sviatohirsk-lavra-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Swjatohirsk",
+                  "text": "Ein bedeutendes orthodoxes Höhlenkloster an den Kreidefelsen des Donez.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Ein Ort zur Beobachtung des Sonnenuntergangs über dem Kloster Swjatohirsk.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Святогорська Свято-Успенська лавра",
+                  "text": "Jelentős ortodox barlangkolostor a Donyec folyó krétafalainál.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Naplemente-néző hely a Szvjatohirszki kolostoregyüttes felett.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Святогорська Свято-Успенська лавра",
+                  "text": "O importantă mănăstire ortodoxă rupestră situată pe malul râului Doneț.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Un loc pentru observarea apusului de soare deasupra complexului monahal Sviatohirsk.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sviatohirsk Cave Monastery",
+                  "text": "A major Orthodox cave monastery situated on the chalk cliffs of the Donets River.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "sunset point",
+                  "text": "A spot for watching the sunset over the Sviatohirsk monastery complex.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Kloster Swjatohirsk", hu: "Szvjatohirszki lavra", ro: "Lavra Sviatohirsk", en: "Sviatohirsk Lavra"},

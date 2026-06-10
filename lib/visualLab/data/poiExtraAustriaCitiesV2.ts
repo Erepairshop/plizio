@@ -15007,6 +15007,24 @@ export const austriaCitiesV2: POI[] = [
                         15.56216,
                         48.417921
                   ]
+            },
+            {
+                  "name": "Schloss Mautern",
+                  "text": "Historisches Schlossgebäude in Mautern an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        15.575906,
+                        48.395002
+                  ]
+            },
+            {
+                  "name": "Atelier / Galerie",
+                  "text": "Künstlerisches Atelier und Ausstellungsraum in Krems.",
+                  "category": "museum",
+                  "coords": [
+                        15.583834,
+                        48.402697
+                  ]
             }
       ],
       "hu": [
@@ -15269,6 +15287,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.56216,
                         48.417921
+                  ]
+            },
+            {
+                  "name": "Schloss Mautern",
+                  "text": "Történelmi kastélyépület a Duna menti Mauternben.",
+                  "category": "castle",
+                  "coords": [
+                        15.575906,
+                        48.395002
+                  ]
+            },
+            {
+                  "name": "Atelier / Galerie",
+                  "text": "Művészeti műhely és kiállítótér Kremsben.",
+                  "category": "museum",
+                  "coords": [
+                        15.583834,
+                        48.402697
                   ]
             }
       ],
@@ -15533,6 +15569,24 @@ export const austriaCitiesV2: POI[] = [
                         15.56216,
                         48.417921
                   ]
+            },
+            {
+                  "name": "Schloss Mautern",
+                  "text": "Clădire istorică de castel în Mautern an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        15.575906,
+                        48.395002
+                  ]
+            },
+            {
+                  "name": "Atelier / Galerie",
+                  "text": "Atelier artistic și spațiu de expoziție în Krems.",
+                  "category": "museum",
+                  "coords": [
+                        15.583834,
+                        48.402697
+                  ]
             }
       ],
       "en": [
@@ -15795,6 +15849,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.56216,
                         48.417921
+                  ]
+            },
+            {
+                  "name": "Schloss Mautern",
+                  "text": "Historic castle building in Mautern an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        15.575906,
+                        48.395002
+                  ]
+            },
+            {
+                  "name": "Atelier / Galerie",
+                  "text": "Artistic studio and exhibition space in Krems.",
+                  "category": "museum",
+                  "coords": [
+                        15.583834,
+                        48.402697
                   ]
             }
       ]
@@ -24871,6 +24943,78 @@ export const austriaCitiesV2: POI[] = [
                         15.977678,
                         47.741796
                   ]
+            },
+            {
+                  "name": "Robert-Hammerstiel-Museum",
+                  "text": "Ein Museum in Ternitz, das dem Werk des Künstlers Robert Hammerstiel gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.034776,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schloss Pottschach",
+                  "text": "Ein historisches Wasserschloss im Stadtteil Pottschach von Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.999649,
+                        47.703828
+                  ]
+            },
+            {
+                  "name": "Ruine Neudegg",
+                  "text": "Die Ruinen einer ehemaligen Burganlage bei Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        16.006472,
+                        47.72619
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "Ein geschütztes Waldgebiet zur Erholung in der Nähe von Ternitz.",
+                  "category": "natural",
+                  "coords": [
+                        16.05519,
+                        47.71938
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "Ein beliebtes Erlebnisbad mit verschiedenen Wasserattraktionen in Ternitz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.030093,
+                        47.717411
+                  ]
+            },
+            {
+                  "name": "Gfieder",
+                  "text": "Ein 609 Meter hoher Berg und Aussichtspunkt bei Ternitz.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009407,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schubert",
+                  "text": "Ein Denkmal zu Ehren des Komponisten Franz Schubert in Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.022003,
+                        47.687695
+                  ]
+            },
+            {
+                  "name": "Sesselbäume",
+                  "text": "Ein lokales Denkmal und kurioses Naturphänomen in Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.014902,
+                        47.730994
+                  ]
             }
       ],
       "hu": [
@@ -24890,6 +25034,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.977678,
                         47.741796
+                  ]
+            },
+            {
+                  "name": "Robert-Hammerstiel-Museum",
+                  "text": "Robert Hammerstiel művész munkásságának szentelt múzeum Ternitzben.",
+                  "category": "museum",
+                  "coords": [
+                        16.034776,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schloss Pottschach",
+                  "text": "Történelmi vízikastély Ternitz Pottschach városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        15.999649,
+                        47.703828
+                  ]
+            },
+            {
+                  "name": "Ruine Neudegg",
+                  "text": "Egy egykori vár maradványai Ternitz közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.006472,
+                        47.72619
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "Védett erdős terület Ternitz közelében, pihenésre alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        16.05519,
+                        47.71938
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "Népszerű élményfürdő különféle vízi attrakciókkal Ternitzben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.030093,
+                        47.717411
+                  ]
+            },
+            {
+                  "name": "Gfieder",
+                  "text": "Egy 609 méter magas hegy és kilátópont Ternitz közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009407,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schubert",
+                  "text": "Franz Schubert zeneszerző tiszteletére állított emlékmű Ternitzben.",
+                  "category": "historical",
+                  "coords": [
+                        16.022003,
+                        47.687695
+                  ]
+            },
+            {
+                  "name": "Sesselbäume",
+                  "text": "Helyi emlékmű és különleges természeti jelenség Ternitzben.",
+                  "category": "historical",
+                  "coords": [
+                        16.014902,
+                        47.730994
                   ]
             }
       ],
@@ -24911,6 +25127,78 @@ export const austriaCitiesV2: POI[] = [
                         15.977678,
                         47.741796
                   ]
+            },
+            {
+                  "name": "Robert-Hammerstiel-Museum",
+                  "text": "Un muzeu din Ternitz dedicat operei artistului Robert Hammerstiel.",
+                  "category": "museum",
+                  "coords": [
+                        16.034776,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schloss Pottschach",
+                  "text": "Un castel de apă istoric situat în districtul Pottschach din Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.999649,
+                        47.703828
+                  ]
+            },
+            {
+                  "name": "Ruine Neudegg",
+                  "text": "Ruinele unei foste fortificații de lângă Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        16.006472,
+                        47.72619
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "O zonă forestieră protejată pentru recreere lângă Ternitz.",
+                  "category": "natural",
+                  "coords": [
+                        16.05519,
+                        47.71938
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "Un parc acvatic popular cu diverse atracții în Ternitz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.030093,
+                        47.717411
+                  ]
+            },
+            {
+                  "name": "Gfieder",
+                  "text": "Un munte de 609 metri înălțime și punct de belvedere lângă Ternitz.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009407,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schubert",
+                  "text": "Un monument ridicat în cinstea compozitorului Franz Schubert în Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.022003,
+                        47.687695
+                  ]
+            },
+            {
+                  "name": "Sesselbäume",
+                  "text": "Un monument local și un fenomen natural curios în Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.014902,
+                        47.730994
+                  ]
             }
       ],
       "en": [
@@ -24930,6 +25218,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.977678,
                         47.741796
+                  ]
+            },
+            {
+                  "name": "Robert-Hammerstiel-Museum",
+                  "text": "A museum in Ternitz dedicated to the work of artist Robert Hammerstiel.",
+                  "category": "museum",
+                  "coords": [
+                        16.034776,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schloss Pottschach",
+                  "text": "A historic moated castle located in the Pottschach district of Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.999649,
+                        47.703828
+                  ]
+            },
+            {
+                  "name": "Ruine Neudegg",
+                  "text": "The ruins of a former castle complex near Ternitz.",
+                  "category": "castle",
+                  "coords": [
+                        16.006472,
+                        47.72619
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "A protected woodland area for recreation near Ternitz.",
+                  "category": "natural",
+                  "coords": [
+                        16.05519,
+                        47.71938
+                  ]
+            },
+            {
+                  "name": "Erlebnisparkbad \"blub\"",
+                  "text": "A popular water park featuring various aquatic attractions in Ternitz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.030093,
+                        47.717411
+                  ]
+            },
+            {
+                  "name": "Gfieder",
+                  "text": "A 609-meter high mountain and viewpoint near Ternitz.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009407,
+                        47.715319
+                  ]
+            },
+            {
+                  "name": "Schubert",
+                  "text": "A monument dedicated to the composer Franz Schubert in Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.022003,
+                        47.687695
+                  ]
+            },
+            {
+                  "name": "Sesselbäume",
+                  "text": "A local monument and curious natural phenomenon in Ternitz.",
+                  "category": "historical",
+                  "coords": [
+                        16.014902,
+                        47.730994
                   ]
             }
       ]
@@ -29281,6 +29641,24 @@ export const austriaCitiesV2: POI[] = [
                         11.510545,
                         47.294184
                   ]
+            },
+            {
+                  "name": "Krippenverein Thaur",
+                  "text": "Ein Museum, das sich der Tradition der Weihnachtskrippen in Thaur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.475613,
+                        47.294157
+                  ]
+            },
+            {
+                  "name": "Theater im Sudhaus",
+                  "text": "Ein Veranstaltungsort für Theateraufführungen in Hall in Tirol.",
+                  "category": "cultural",
+                  "coords": [
+                        11.505205,
+                        47.278271
+                  ]
             }
       ],
       "hu": [
@@ -29516,6 +29894,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.510545,
                         47.294184
+                  ]
+            },
+            {
+                  "name": "Krippenverein Thaur",
+                  "text": "A thaúri betlehemi hagyományoknak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.475613,
+                        47.294157
+                  ]
+            },
+            {
+                  "name": "Theater im Sudhaus",
+                  "text": "Színházi előadások helyszíne Hall in Tirolban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.505205,
+                        47.278271
                   ]
             }
       ],
@@ -29753,6 +30149,24 @@ export const austriaCitiesV2: POI[] = [
                         11.510545,
                         47.294184
                   ]
+            },
+            {
+                  "name": "Krippenverein Thaur",
+                  "text": "Un muzeu dedicat tradiției ieslelor de Crăciun din Thaur.",
+                  "category": "museum",
+                  "coords": [
+                        11.475613,
+                        47.294157
+                  ]
+            },
+            {
+                  "name": "Theater im Sudhaus",
+                  "text": "O locație pentru spectacole de teatru în Hall in Tirol.",
+                  "category": "cultural",
+                  "coords": [
+                        11.505205,
+                        47.278271
+                  ]
             }
       ],
       "en": [
@@ -29988,6 +30402,24 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.510545,
                         47.294184
+                  ]
+            },
+            {
+                  "name": "Krippenverein Thaur",
+                  "text": "A museum dedicated to the tradition of nativity scenes in Thaur.",
+                  "category": "museum",
+                  "coords": [
+                        11.475613,
+                        47.294157
+                  ]
+            },
+            {
+                  "name": "Theater im Sudhaus",
+                  "text": "A venue for theatrical performances in Hall in Tirol.",
+                  "category": "cultural",
+                  "coords": [
+                        11.505205,
+                        47.278271
                   ]
             }
       ]
@@ -39695,6 +40127,60 @@ export const austriaCitiesV2: POI[] = [
                         15.945646,
                         47.268054
                   ]
+            },
+            {
+                  "name": "Hartberger Gmoos (Natura 2000)",
+                  "text": "Ein bedeutendes Naturschutzgebiet und Feuchtbiotop in der Nähe von Hartberg.",
+                  "category": "natural",
+                  "coords": [
+                        15.97512,
+                        47.273452
+                  ]
+            },
+            {
+                  "name": "Schloss Klaffenau",
+                  "text": "Ein historisches Schlossanwesen in der Stadt Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.997928,
+                        47.284057
+                  ]
+            },
+            {
+                  "name": "Burg Neuberg",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.93679,
+                        47.286767
+                  ]
+            },
+            {
+                  "name": "Castle Hartberg",
+                  "text": "Ein markantes Schloss im Zentrum von Hartberg, das die Stadtgeschichte mitprägte.",
+                  "category": "castle",
+                  "coords": [
+                        15.966114,
+                        47.281474
+                  ]
+            },
+            {
+                  "name": "Oldtimer Museum",
+                  "text": "Ein Museum in Hartberg, das eine Sammlung klassischer Kraftfahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.979294,
+                        47.286093
+                  ]
+            },
+            {
+                  "name": "Blick ins Universum & Sternwarte",
+                  "text": "Ein Museum und eine Sternwarte, die Einblicke in die Astronomie und das Universum bieten.",
+                  "category": "museum",
+                  "coords": [
+                        15.970909,
+                        47.259967
+                  ]
             }
       ],
       "hu": [
@@ -39741,6 +40227,60 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.945646,
                         47.268054
+                  ]
+            },
+            {
+                  "name": "Hartberger Gmoos (Natura 2000)",
+                  "text": "Jelentős természetvédelmi terület és lápos élőhely Hartberg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.97512,
+                        47.273452
+                  ]
+            },
+            {
+                  "name": "Schloss Klaffenau",
+                  "text": "Történelmi kastélyépület Hartberg városában.",
+                  "category": "castle",
+                  "coords": [
+                        15.997928,
+                        47.284057
+                  ]
+            },
+            {
+                  "name": "Burg Neuberg",
+                  "text": "Egy középkori vár romjai Hartberg felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.93679,
+                        47.286767
+                  ]
+            },
+            {
+                  "name": "Castle Hartberg",
+                  "text": "Jellegzetes kastély Hartberg központjában, amely meghatározó a város történelmében.",
+                  "category": "castle",
+                  "coords": [
+                        15.966114,
+                        47.281474
+                  ]
+            },
+            {
+                  "name": "Oldtimer Museum",
+                  "text": "Hartbergi múzeum, amely klasszikus gépjárművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.979294,
+                        47.286093
+                  ]
+            },
+            {
+                  "name": "Blick ins Universum & Sternwarte",
+                  "text": "Múzeum és csillagvizsgáló, amely betekintést nyújt a csillagászatba és a világegyetembe.",
+                  "category": "museum",
+                  "coords": [
+                        15.970909,
+                        47.259967
                   ]
             }
       ],
@@ -39789,6 +40329,60 @@ export const austriaCitiesV2: POI[] = [
                         15.945646,
                         47.268054
                   ]
+            },
+            {
+                  "name": "Hartberger Gmoos (Natura 2000)",
+                  "text": "O importantă rezervație naturală și zonă umedă lângă Hartberg.",
+                  "category": "natural",
+                  "coords": [
+                        15.97512,
+                        47.273452
+                  ]
+            },
+            {
+                  "name": "Schloss Klaffenau",
+                  "text": "O proprietate istorică cu castel în orașul Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.997928,
+                        47.284057
+                  ]
+            },
+            {
+                  "name": "Burg Neuberg",
+                  "text": "Ruinele unui castel medieval situat deasupra orașului Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.93679,
+                        47.286767
+                  ]
+            },
+            {
+                  "name": "Castle Hartberg",
+                  "text": "Un castel proeminent în centrul orașului Hartberg, care a marcat istoria locală.",
+                  "category": "castle",
+                  "coords": [
+                        15.966114,
+                        47.281474
+                  ]
+            },
+            {
+                  "name": "Oldtimer Museum",
+                  "text": "Un muzeu din Hartberg care prezintă o colecție de vehicule clasice.",
+                  "category": "museum",
+                  "coords": [
+                        15.979294,
+                        47.286093
+                  ]
+            },
+            {
+                  "name": "Blick ins Universum & Sternwarte",
+                  "text": "Un muzeu și observator astronomic care oferă informații despre astronomie și univers.",
+                  "category": "museum",
+                  "coords": [
+                        15.970909,
+                        47.259967
+                  ]
             }
       ],
       "en": [
@@ -39835,6 +40429,60 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.945646,
                         47.268054
+                  ]
+            },
+            {
+                  "name": "Hartberger Gmoos (Natura 2000)",
+                  "text": "A significant nature reserve and wetland habitat near Hartberg.",
+                  "category": "natural",
+                  "coords": [
+                        15.97512,
+                        47.273452
+                  ]
+            },
+            {
+                  "name": "Schloss Klaffenau",
+                  "text": "A historic castle estate located in the town of Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.997928,
+                        47.284057
+                  ]
+            },
+            {
+                  "name": "Burg Neuberg",
+                  "text": "The ruins of a medieval hilltop castle located above Hartberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.93679,
+                        47.286767
+                  ]
+            },
+            {
+                  "name": "Castle Hartberg",
+                  "text": "A prominent castle in the center of Hartberg that shaped the town's history.",
+                  "category": "castle",
+                  "coords": [
+                        15.966114,
+                        47.281474
+                  ]
+            },
+            {
+                  "name": "Oldtimer Museum",
+                  "text": "A museum in Hartberg presenting a collection of classic motor vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        15.979294,
+                        47.286093
+                  ]
+            },
+            {
+                  "name": "Blick ins Universum & Sternwarte",
+                  "text": "A museum and observatory providing insights into astronomy and the universe.",
+                  "category": "museum",
+                  "coords": [
+                        15.970909,
+                        47.259967
                   ]
             }
       ]
@@ -44465,6 +45113,42 @@ export const austriaCitiesV2: POI[] = [
                         16.711156,
                         48.301219
                   ]
+            },
+            {
+                  "name": "Weidenbach Wasserverband",
+                  "text": "Denkmal für den Wasserverband in Gänserndorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.729998,
+                        48.347554
+                  ]
+            },
+            {
+                  "name": "Alter Turnsaal",
+                  "text": "Historische Turnhalle, die heute als Kulturzentrum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        16.718801,
+                        48.339111
+                  ]
+            },
+            {
+                  "name": "Sommerszene",
+                  "text": "Veranstaltungsort für Kunst und Kultur in Gänserndorf.",
+                  "category": "cultural",
+                  "coords": [
+                        16.724151,
+                        48.341143
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Zu den Heiligen Schutzengeln",
+                  "text": "Die katholische Stadtpfarrkirche von Gänserndorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.720063,
+                        48.34235
+                  ]
             }
       ],
       "hu": [
@@ -44493,6 +45177,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.711156,
                         48.301219
+                  ]
+            },
+            {
+                  "name": "Weidenbach Wasserverband",
+                  "text": "A vízmű társulat emlékműve Gänserndorfban.",
+                  "category": "historical",
+                  "coords": [
+                        16.729998,
+                        48.347554
+                  ]
+            },
+            {
+                  "name": "Alter Turnsaal",
+                  "text": "Kulturális központként használt történelmi tornacsarnok.",
+                  "category": "cultural",
+                  "coords": [
+                        16.718801,
+                        48.339111
+                  ]
+            },
+            {
+                  "name": "Sommerszene",
+                  "text": "Művészeti és kulturális rendezvényhelyszín Gänserndorfban.",
+                  "category": "cultural",
+                  "coords": [
+                        16.724151,
+                        48.341143
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Zu den Heiligen Schutzengeln",
+                  "text": "Gänserndorf katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        16.720063,
+                        48.34235
                   ]
             }
       ],
@@ -44523,6 +45243,42 @@ export const austriaCitiesV2: POI[] = [
                         16.711156,
                         48.301219
                   ]
+            },
+            {
+                  "name": "Weidenbach Wasserverband",
+                  "text": "Monument dedicat asociației de gospodărire a apelor din Gänserndorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.729998,
+                        48.347554
+                  ]
+            },
+            {
+                  "name": "Alter Turnsaal",
+                  "text": "Sală de sport istorică, utilizată în prezent ca centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        16.718801,
+                        48.339111
+                  ]
+            },
+            {
+                  "name": "Sommerszene",
+                  "text": "Spațiu pentru evenimente artistice și culturale în Gänserndorf.",
+                  "category": "cultural",
+                  "coords": [
+                        16.724151,
+                        48.341143
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Zu den Heiligen Schutzengeln",
+                  "text": "Biserica parohială catolică din Gänserndorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.720063,
+                        48.34235
+                  ]
             }
       ],
       "en": [
@@ -44551,6 +45307,42 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.711156,
                         48.301219
+                  ]
+            },
+            {
+                  "name": "Weidenbach Wasserverband",
+                  "text": "Monument dedicated to the water association in Gänserndorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.729998,
+                        48.347554
+                  ]
+            },
+            {
+                  "name": "Alter Turnsaal",
+                  "text": "Historic gymnasium now used as a cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        16.718801,
+                        48.339111
+                  ]
+            },
+            {
+                  "name": "Sommerszene",
+                  "text": "Venue for arts and culture in Gänserndorf.",
+                  "category": "cultural",
+                  "coords": [
+                        16.724151,
+                        48.341143
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Zu den Heiligen Schutzengeln",
+                  "text": "The Catholic parish church of Gänserndorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.720063,
+                        48.34235
                   ]
             }
       ]

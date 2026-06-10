@@ -91,7 +91,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-mount-erciyes-relief-v2",
+    id: "tr-mount-erciyes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Ein massiver Schichtvulkan und der höchste Berg in Zentralanatolien.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Hatalmas rétegvulkán, Közép-Anatólia legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Un stratovulcan masiv și cel mai înalt munte din Anatolia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "A massive stratovolcano and the highest mountain in Central Anatolia.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-38",
     coords: [35.4500, 38.5333],
@@ -135,7 +180,268 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
         {
-    id: "tr-ihlara-valley-relief-v2",
+    id: "tr-ihlara-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yılanlı Kilise",
+                  "text": "Eine byzantinische Felsenkirche im Ihlara-Tal mit Freskenresten.",
+                  "category": "historical",
+                  "coords": [
+                        34.302572,
+                        38.255427
+                  ]
+            },
+            {
+                  "name": "Pürenli Seki Kilise",
+                  "text": "Eine antike, in den Fels gehauene Kirche, bekannt für ihre Wandmalereien.",
+                  "category": "historical",
+                  "coords": [
+                        34.307129,
+                        38.253707
+                  ]
+            },
+            {
+                  "name": "Sümbüllü Kilise",
+                  "text": "Eine historische Felsenkirche im Ihlara-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        34.302972,
+                        38.254164
+                  ]
+            },
+            {
+                  "name": "Ağaçaltı Kilise",
+                  "text": "Eine Felsenkirche im Tal, auch bekannt als die Kirche unter den Bäumen.",
+                  "category": "historical",
+                  "coords": [
+                        34.303657,
+                        38.253226
+                  ]
+            },
+            {
+                  "name": "Direkli Kilise",
+                  "text": "Eine Felsenkirche mit hohen Säulen in der Höhlenstruktur.",
+                  "category": "historical",
+                  "coords": [
+                        34.289501,
+                        38.265493
+                  ]
+            },
+            {
+                  "name": "Kirkdamalti Kilisesi",
+                  "text": "Eine historische Felsenkirche, die dem Heiligen Georg gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        34.292235,
+                        38.259674
+                  ]
+            },
+            {
+                  "name": "Karagedik Kilisesi",
+                  "text": "Die Ruinen einer Kirche aus byzantinischer Zeit im Ihlara-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        34.296544,
+                        38.259145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yılanlı Kilise",
+                  "text": "Sziklába vájt bizánci templom az Ihlara-völgyben, freskómaradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        34.302572,
+                        38.255427
+                  ]
+            },
+            {
+                  "name": "Pürenli Seki Kilise",
+                  "text": "Ókori sziklatemplom, amely korai keresztény falfestményeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        34.307129,
+                        38.253707
+                  ]
+            },
+            {
+                  "name": "Sümbüllü Kilise",
+                  "text": "Történelmi sziklába vájt templom az Ihlara-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        34.302972,
+                        38.254164
+                  ]
+            },
+            {
+                  "name": "Ağaçaltı Kilise",
+                  "text": "Sziklatemplom a völgyben, amelyet a fák alatti templomként is ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        34.303657,
+                        38.253226
+                  ]
+            },
+            {
+                  "name": "Direkli Kilise",
+                  "text": "Sziklába faragott templom magas oszlopokkal a barlang belsejében.",
+                  "category": "historical",
+                  "coords": [
+                        34.289501,
+                        38.265493
+                  ]
+            },
+            {
+                  "name": "Kirkdamalti Kilisesi",
+                  "text": "Szent Györgynek szentelt történelmi sziklatemplom.",
+                  "category": "historical",
+                  "coords": [
+                        34.292235,
+                        38.259674
+                  ]
+            },
+            {
+                  "name": "Karagedik Kilisesi",
+                  "text": "Egy bizánci kori templom romjai az Ihlara-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        34.296544,
+                        38.259145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yılanlı Kilise",
+                  "text": "O biserică bizantină săpată în stâncă în Valea Ihlara, cu resturi de frescă.",
+                  "category": "historical",
+                  "coords": [
+                        34.302572,
+                        38.255427
+                  ]
+            },
+            {
+                  "name": "Pürenli Seki Kilise",
+                  "text": "O biserică veche cioplită în stâncă, cunoscută pentru picturile sale murale.",
+                  "category": "historical",
+                  "coords": [
+                        34.307129,
+                        38.253707
+                  ]
+            },
+            {
+                  "name": "Sümbüllü Kilise",
+                  "text": "O biserică istorică săpată în stâncă în Valea Ihlara.",
+                  "category": "historical",
+                  "coords": [
+                        34.302972,
+                        38.254164
+                  ]
+            },
+            {
+                  "name": "Ağaçaltı Kilise",
+                  "text": "O biserică săpată în stâncă, cunoscută și sub numele de Biserica de sub Copaci.",
+                  "category": "historical",
+                  "coords": [
+                        34.303657,
+                        38.253226
+                  ]
+            },
+            {
+                  "name": "Direkli Kilise",
+                  "text": "O biserică rupestră ce prezintă coloane înalte în structura sa.",
+                  "category": "historical",
+                  "coords": [
+                        34.289501,
+                        38.265493
+                  ]
+            },
+            {
+                  "name": "Kirkdamalti Kilisesi",
+                  "text": "O biserică istorică săpată în stâncă, dedicată Sfântului Gheorghe.",
+                  "category": "historical",
+                  "coords": [
+                        34.292235,
+                        38.259674
+                  ]
+            },
+            {
+                  "name": "Karagedik Kilisesi",
+                  "text": "Ruinele unei biserici din epoca bizantină în Valea Ihlara.",
+                  "category": "historical",
+                  "coords": [
+                        34.296544,
+                        38.259145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snake Church",
+                  "text": "A rock-cut Byzantine church in the Ihlara Valley with fresco remains.",
+                  "category": "historical",
+                  "coords": [
+                        34.302572,
+                        38.255427
+                  ]
+            },
+            {
+                  "name": "Pürenli Seki Kilise",
+                  "text": "Ancient rock-carved church known for its early Christian wall paintings.",
+                  "category": "historical",
+                  "coords": [
+                        34.307129,
+                        38.253707
+                  ]
+            },
+            {
+                  "name": "Jacinth Church",
+                  "text": "A historical rock-cut church in the Ihlara Valley.",
+                  "category": "historical",
+                  "coords": [
+                        34.302972,
+                        38.254164
+                  ]
+            },
+            {
+                  "name": "Ağaçaltı Kilise",
+                  "text": "A rock-cut church in the valley, also known as the Church under the Trees.",
+                  "category": "historical",
+                  "coords": [
+                        34.303657,
+                        38.253226
+                  ]
+            },
+            {
+                  "name": "The Direkli Church",
+                  "text": "A rock-carved church featuring tall columns within its structure.",
+                  "category": "historical",
+                  "coords": [
+                        34.289501,
+                        38.265493
+                  ]
+            },
+            {
+                  "name": "Saint George Church",
+                  "text": "A historic rock-cut church dedicated to Saint George.",
+                  "category": "historical",
+                  "coords": [
+                        34.292235,
+                        38.259674
+                  ]
+            },
+            {
+                  "name": "Karagedik Kilisesi",
+                  "text": "The ruins of a Byzantine-era church in the Ihlara Valley.",
+                  "category": "historical",
+                  "coords": [
+                        34.296544,
+                        38.259145
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TR-68",
     coords: [34.3014, 38.2422],
@@ -223,7 +529,268 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-butterfly-valley-relief-v2", "sights": {"de": [{"name": "Actas Beach", "text": "Eingebettet in die beeindruckende Landschaft des Butterfly Valley Reliefs liegt der Actas Beach. Dieser türkische Strand verspricht eine naturnahe Kulisse, die sich wunderbar für erholsame Momente am Wasser eignet. Ein früher Besuch lohnt sich, um die friedliche Stimmung voll auszukosten.", "category": "recreational", "coords": [29.107839, 36.480098]}, {"name": "Secret beach", "text": "Versteckt in der malerischen Umgebung des Butterfly Valley Reliefs bietet der Secret Beach eine abgeschiedene Atmosphäre. Diese türkische Küstenoase ist perfekt für Reisende, die dem Trubel entfliehen und die Natur ungestört genießen möchten. Festes Schuhwerk für den Zugang ist oft eine gute Idee.", "category": "recreational", "coords": [29.112095, 36.467505]}, {"name": "Tektaş Beach", "text": "Der Tektaş Beach fügt sich harmonisch in die felsige Küstenlandschaft des Butterfly Valley Reliefs ein. Besucher finden hier einen authentischen Strandabschnitt, der die wilde Schönheit der türkischen Riviera widerspiegelt. Ein toller Ort, um dem Meeresrauschen zuzuhören und die Seele baumeln zu lassen.", "category": "recreational", "coords": [29.102948, 36.475017]}], "hu": [{"name": "Actas Beach", "text": "Az Actas Beach a Butterfly Valley lenyűgöző tájába ékelődik. Ez a török strand természetközeli környezetet ígér, amely nagyszerű lehetőséget nyújt a vízparti pihenésre. Érdemes korán érkezni, hogy teljes mértékben kiélvezhessük a békés hangulatot.", "category": "recreational", "coords": [29.107839, 36.480098]}, {"name": "Secret beach", "text": "A Secret beach egy eldugott partszakasz a festői Butterfly Valley területén. Ez a török tengerparti oázis tökéletes azoknak az utazóknak, akik szeretnének elmenekülni a nyüzsgés elől, és zavartalanul élvezni a természetet. A megközelítéshez érdemes megfelelő cipőt viselni.", "category": "recreational", "coords": [29.112095, 36.467505]}, {"name": "Tektaş Beach", "text": "A Tektaş Beach harmonikusan illeszkedik a Butterfly Valley sziklás partvidékébe. A látogatók egy autentikus strandszakaszt találhatnak itt, amely a török Riviéra vad szépségét tükrözi. Remek hely, ahol a tenger zúgását hallgatva kikapcsolódhatunk.", "category": "recreational", "coords": [29.102948, 36.475017]}], "ro": [{"name": "Actas Beach", "text": "Actas Beach este cuibărită în peisajul impresionant din Butterfly Valley. Această plajă turcească promite un decor apropiat de natură, fiind minunată pentru momente de relaxare la malul apei. O vizită dimineața devreme merită pentru a savura pe deplin atmosfera pașnică.", "category": "recreational", "coords": [29.107839, 36.480098]}, {"name": "Secret beach", "text": "Ascunsă în împrejurimile pitorești din Butterfly Valley, Secret beach oferă o atmosferă izolată. Această oază de coastă turcească este perfectă pentru călătorii care doresc să scape de agitație și să se bucure de natură netulburați. Încălțămintea robustă pentru acces este o idee bună.", "category": "recreational", "coords": [29.112095, 36.467505]}, {"name": "Tektaş Beach", "text": "Tektaş Beach se integrează armonios în peisajul de coastă stâncos din Butterfly Valley. Vizitatorii vor găsi aici o porțiune de plajă autentică, care reflectă frumusețea sălbatică a Rivierei Turcești. Este un loc minunat pentru a asculta sunetul valurilor și a vă relaxa.", "category": "recreational", "coords": [29.102948, 36.475017]}], "en": [{"name": "Actas Beach", "text": "Nestled in the impressive landscape of Butterfly Valley, Actas Beach awaits its visitors. This Turkish beach promises a close-to-nature setting that is wonderful for relaxing moments by the water. An early visit is worthwhile to fully appreciate the peaceful atmosphere.", "category": "recreational", "coords": [29.107839, 36.480098]}, {"name": "Secret beach", "text": "Hidden in the picturesque surroundings of Butterfly Valley, Secret beach offers a secluded atmosphere. This Turkish coastal oasis is perfect for travelers wanting to escape the hustle and bustle and enjoy nature undisturbed. Sturdy footwear is often a good idea for access.", "category": "recreational", "coords": [29.112095, 36.467505]}, {"name": "Tektaş Beach", "text": "Tektaş Beach blends harmoniously into the rocky coastal landscape of Butterfly Valley. Visitors will find an authentic stretch of beach here that reflects the wild beauty of the Turkish Riviera. It is a great spot to listen to the sound of the ocean and completely unwind.", "category": "recreational", "coords": [29.102948, 36.475017]}]},
+    id: "tr-butterfly-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Eingebettet in die beeindruckende Landschaft des Butterfly Valley Reliefs liegt der Actas Beach. Dieser türkische Strand verspricht eine naturnahe Kulisse, die sich wunderbar für erholsame Momente am Wasser eignet. Ein früher Besuch lohnt sich, um die friedliche Stimmung voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Versteckt in der malerischen Umgebung des Butterfly Valley Reliefs bietet der Secret Beach eine abgeschiedene Atmosphäre. Diese türkische Küstenoase ist perfekt für Reisende, die dem Trubel entfliehen und die Natur ungestört genießen möchten. Festes Schuhwerk für den Zugang ist oft eine gute Idee.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Der Tektaş Beach fügt sich harmonisch in die felsige Küstenlandschaft des Butterfly Valley Reliefs ein. Besucher finden hier einen authentischen Strandabschnitt, der die wilde Schönheit der türkischen Riviera widerspiegelt. Ein toller Ort, um dem Meeresrauschen zuzuhören und die Seele baumeln zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            },
+            {
+                  "name": "Kids Paradise",
+                  "text": "Ein familienfreundlicher Wasserpark im Schmetterlingstal.",
+                  "category": "recreational",
+                  "coords": [
+                        29.131312,
+                        36.522617
+                  ]
+            },
+            {
+                  "name": "Kıdrak Plajı",
+                  "text": "Ein beliebter Strand, bekannt für sein klares Wasser und seine natürliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        29.127465,
+                        36.530473
+                  ]
+            },
+            {
+                  "name": "Schmetterlingstal",
+                  "text": "Ein beeindruckendes Naturschutzgebiet, bekannt für seine vielfältigen Schmetterlingsarten und steilen Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        29.130413,
+                        36.496897
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Beach",
+                  "text": "Der Hauptstrand des Tals, erreichbar mit dem Boot oder über eine steile Wanderung.",
+                  "category": "recreational",
+                  "coords": [
+                        29.126623,
+                        36.497456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Az Actas Beach a Butterfly Valley lenyűgöző tájába ékelődik. Ez a török strand természetközeli környezetet ígér, amely nagyszerű lehetőséget nyújt a vízparti pihenésre. Érdemes korán érkezni, hogy teljes mértékben kiélvezhessük a békés hangulatot.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "A Secret beach egy eldugott partszakasz a festői Butterfly Valley területén. Ez a török tengerparti oázis tökéletes azoknak az utazóknak, akik szeretnének elmenekülni a nyüzsgés elől, és zavartalanul élvezni a természetet. A megközelítéshez érdemes megfelelő cipőt viselni.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "A Tektaş Beach harmonikusan illeszkedik a Butterfly Valley sziklás partvidékébe. A látogatók egy autentikus strandszakaszt találhatnak itt, amely a török Riviéra vad szépségét tükrözi. Remek hely, ahol a tenger zúgását hallgatva kikapcsolódhatunk.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            },
+            {
+                  "name": "Kids Paradise",
+                  "text": "Családbarát aquapark a Pillangó-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        29.131312,
+                        36.522617
+                  ]
+            },
+            {
+                  "name": "Kıdrak Plajı",
+                  "text": "Népszerű tengerpart, amely tiszta vizéről és természetes környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        29.127465,
+                        36.530473
+                  ]
+            },
+            {
+                  "name": "Kelebekler Vadisi",
+                  "text": "Lenyűgöző természetvédelmi terület, amely változatos lepkefajairól és meredek szikláiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        29.130413,
+                        36.496897
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Beach",
+                  "text": "A völgy fő strandja, amely hajóval vagy meredek túraútvonalon érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        29.126623,
+                        36.497456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Actas Beach este cuibărită în peisajul impresionant din Butterfly Valley. Această plajă turcească promite un decor apropiat de natură, fiind minunată pentru momente de relaxare la malul apei. O vizită dimineața devreme merită pentru a savura pe deplin atmosfera pașnică.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Ascunsă în împrejurimile pitorești din Butterfly Valley, Secret beach oferă o atmosferă izolată. Această oază de coastă turcească este perfectă pentru călătorii care doresc să scape de agitație și să se bucure de natură netulburați. Încălțămintea robustă pentru acces este o idee bună.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Tektaş Beach se integrează armonios în peisajul de coastă stâncos din Butterfly Valley. Vizitatorii vor găsi aici o porțiune de plajă autentică, care reflectă frumusețea sălbatică a Rivierei Turcești. Este un loc minunat pentru a asculta sunetul valurilor și a vă relaxa.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            },
+            {
+                  "name": "Kids Paradise",
+                  "text": "Un parc acvatic pentru familii situat în Valea Fluturilor.",
+                  "category": "recreational",
+                  "coords": [
+                        29.131312,
+                        36.522617
+                  ]
+            },
+            {
+                  "name": "Kıdrak Plajı",
+                  "text": "O plajă populară cunoscută pentru apele sale limpezi și împrejurimile naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        29.127465,
+                        36.530473
+                  ]
+            },
+            {
+                  "name": "Kelebekler Vadisi",
+                  "text": "O rezervație naturală uimitoare, faimoasă pentru speciile sale diverse de fluturi și stâncile abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        29.130413,
+                        36.496897
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Beach",
+                  "text": "Plaja principală a văii, accesibilă cu barca sau printr-o drumeție abruptă.",
+                  "category": "recreational",
+                  "coords": [
+                        29.126623,
+                        36.497456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Nestled in the impressive landscape of Butterfly Valley, Actas Beach awaits its visitors. This Turkish beach promises a close-to-nature setting that is wonderful for relaxing moments by the water. An early visit is worthwhile to fully appreciate the peaceful atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Hidden in the picturesque surroundings of Butterfly Valley, Secret beach offers a secluded atmosphere. This Turkish coastal oasis is perfect for travelers wanting to escape the hustle and bustle and enjoy nature undisturbed. Sturdy footwear is often a good idea for access.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Tektaş Beach blends harmoniously into the rocky coastal landscape of Butterfly Valley. Visitors will find an authentic stretch of beach here that reflects the wild beauty of the Turkish Riviera. It is a great spot to listen to the sound of the ocean and completely unwind.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            },
+            {
+                  "name": "Kids Paradise",
+                  "text": "A family-friendly water park located in Butterfly Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        29.131312,
+                        36.522617
+                  ]
+            },
+            {
+                  "name": "Kıdrak Beach",
+                  "text": "A popular beach known for its clear waters and natural surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        29.127465,
+                        36.530473
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley",
+                  "text": "A stunning nature reserve famous for its diverse butterfly species and steep cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        29.130413,
+                        36.496897
+                  ]
+            },
+            {
+                  "name": "Butterfly Valley Beach",
+                  "text": "The main beach of the valley, accessible by boat or a steep hike.",
+                  "category": "recreational",
+                  "coords": [
+                        29.126623,
+                        36.497456
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TR-48",
     coords: [29.1306, 36.4975],
@@ -311,7 +878,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-nur-mountains-relief-v2",
+    id: "tr-nur-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cennetkaşı Tepe",
+                  "text": "Ein Berggipfel im Nur-Gebirge, der Ausblicke auf die umgebende Naturlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.305042,
+                        36.765072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cennetkaşı Tepe",
+                  "text": "Hegycsúcs a Nur-hegységben, amely kilátást nyújt a környező természeti tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        36.305042,
+                        36.765072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cennetkaşı Tepe",
+                  "text": "Un vârf muntos în lanțul Munților Nur, oferind vederi asupra peisajului natural înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        36.305042,
+                        36.765072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cennetkaşı Tepe",
+                  "text": "A mountain peak in the Nur Mountains range, offering views of the surrounding natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        36.305042,
+                        36.765072
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-31",
     coords: [36.2667, 36.7500],
@@ -399,7 +1011,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-turquoise-coast-relief-v2",
+    id: "tr-turquoise-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pancarlı Dağı",
+                  "text": "Ein Berggipfel in der Region der Türkischen Riviera.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984617,
+                        36.504012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pancarlı Dağı",
+                  "text": "Hegység az úgynevezett Török Riviéra régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984617,
+                        36.504012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pancarlı Dağı",
+                  "text": "Un vârf muntos situat în regiunea Rivierei Turcești.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984617,
+                        36.504012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pancarlı Dağı",
+                  "text": "A mountain peak located in the Turkish Riviera region.",
+                  "category": "landmark",
+                  "coords": [
+                        29.984617,
+                        36.504012
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TR-07",
     coords: [30.0000, 36.5000],
@@ -443,7 +1100,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-lycian-coast-relief-v2",
+    id: "tr-lycian-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seroia",
+                  "text": "Die archäologischen Überreste eines antiken byzantinischen Klosterkomplexes im Hochland der lykischen Küste.",
+                  "category": "historical",
+                  "coords": [
+                        29.53937,
+                        36.243373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seroia",
+                  "text": "Egy ősi bizánci monostorkomplexum régészeti maradványai a Lükiai-partvidék felföldjén.",
+                  "category": "historical",
+                  "coords": [
+                        29.53937,
+                        36.243373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seroia",
+                  "text": "Rămășițele arheologice ale unui vechi complex monastic bizantin situat în zonele înalte ale Coastei Liciene.",
+                  "category": "historical",
+                  "coords": [
+                        29.53937,
+                        36.243373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seroia",
+                  "text": "The archaeological remains of an ancient Byzantine monastic complex located in the highlands of the Lycian Coast.",
+                  "category": "historical",
+                  "coords": [
+                        29.53937,
+                        36.243373
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TR-48",
     coords: [29.5000, 36.2500],
@@ -656,7 +1358,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-koprulu-canyon-relief-v2",
+    id: "tr-koprulu-canyon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bakış açısı güzel tehlikeli manzaralar",
+                  "text": "Ein Aussichtspunkt im Köprülü-Canyon mit dramatischer und schroffer Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        31.181435,
+                        37.196024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bakış açısı güzel tehlikeli manzaralar",
+                  "text": "Kilátóhely a Köprülü-kanyonban, amely drámai és vadregényes tájat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        31.181435,
+                        37.196024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bakış açısı güzel tehlikeli manzaralar",
+                  "text": "Un punct de belvedere în Canionul Köprülü, care oferă peisaje dramatice și accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        31.181435,
+                        37.196024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bakış açısı güzel tehlikeli manzaralar",
+                  "text": "A scenic viewpoint in Köprülü Canyon offering dramatic and rugged landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        31.181435,
+                        37.196024
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TR-07",
     coords: [31.1833, 37.1833],
@@ -700,7 +1447,52 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-cilo-sat-mountains-relief-v2",
+    id: "tr-cilo-sat-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uludoruk Dağı",
+                  "text": "Der höchste Gipfel des Cilo-Gebirges und der zweithöchste Punkt der Türkei.",
+                  "category": "landmark",
+                  "coords": [
+                        44.004538,
+                        37.485675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uludoruk Dağı",
+                  "text": "A Cilo-hegység legmagasabb csúcsa és Törökország második legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.004538,
+                        37.485675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uludoruk Dağı",
+                  "text": "Cel mai înalt vârf din munții Cilo și al doilea cel mai înalt punct din Turcia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.004538,
+                        37.485675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uludoruk Dağı",
+                  "text": "The highest peak in the Cilo Mountains and the second-highest point in Turkey.",
+                  "category": "landmark",
+                  "coords": [
+                        44.004538,
+                        37.485675
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-30",
     coords: [44.0222, 37.4917],

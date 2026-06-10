@@ -13,6 +13,69 @@ export const luxembourgCitiesV2: POI[] = [
                         5.985431,
                         49.482451
                   ]
+            },
+            {
+                  "name": "Musée National de la Résistance",
+                  "text": "Dieses Museum in Esch-sur-Alzette erinnert an die luxemburgische Résistance während des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        5.975892,
+                        49.492369
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Ville d'Esch-sur-Alzette",
+                  "text": "Das Stadttheater von Esch-sur-Alzette ist ein bedeutendes kulturelles Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        5.977447,
+                        49.492655
+                  ]
+            },
+            {
+                  "name": "Am Bauch",
+                  "text": "Ein geschütztes Naturschutzgebiet in Esch-sur-Alzette, das der lokalen Flora und Fauna Raum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.995496,
+                        49.521159
+                  ]
+            },
+            {
+                  "name": "Rockhal",
+                  "text": "Die Rockhal ist das größte Konzertgelände Luxemburgs und ein bekannter Veranstaltungsort für internationale Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        5.947577,
+                        49.499828
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Brill",
+                  "text": "Dieses Naturschutzgebiet in Esch-sur-Alzette ist ein wichtiges lokales Ökosystem und Erholungsgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        6.006495,
+                        49.509517
+                  ]
+            },
+            {
+                  "name": "Möllerei",
+                  "text": "Die Möllerei ist ein ehemaliges Industriegebäude, das heute als Ausstellungsraum und Kulturzentrum dient.",
+                  "category": "museum",
+                  "coords": [
+                        5.947189,
+                        49.501547
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Lalléngerbierg - Brucherbierg",
+                  "text": "Ein weitläufiges Naturschutzgebiet auf ehemaligen Bergbauflächen, das Natur und Industriegeschichte verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        6.011814,
+                        49.495634
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +86,69 @@ export const luxembourgCitiesV2: POI[] = [
                   "coords": [
                         5.985431,
                         49.482451
+                  ]
+            },
+            {
+                  "name": "Musée National de la Résistance",
+                  "text": "Ez az Esch-sur-Alzette-i múzeum a második világháborús luxemburgi ellenállásnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        5.975892,
+                        49.492369
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Ville d'Esch-sur-Alzette",
+                  "text": "Az Esch-sur-Alzette-i városi színház a város egyik legfontosabb előadóművészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        5.977447,
+                        49.492655
+                  ]
+            },
+            {
+                  "name": "Am Bauch",
+                  "text": "Védett természetvédelmi terület Esch-sur-Alzette-ben, amely a helyi élővilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        5.995496,
+                        49.521159
+                  ]
+            },
+            {
+                  "name": "Rockhal",
+                  "text": "A Rockhal Luxemburg legnagyobb koncerthelyszíne és nemzetközi művészek kedvelt fellépőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        5.947577,
+                        49.499828
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Brill",
+                  "text": "Ez az Esch-sur-Alzette-i természetvédelmi terület fontos helyi ökoszisztéma és pihenőhely.",
+                  "category": "natural",
+                  "coords": [
+                        6.006495,
+                        49.509517
+                  ]
+            },
+            {
+                  "name": "Möllerei",
+                  "text": "A Möllerei egy egykori ipari épület, amely ma kiállítótérként és kulturális központként működik.",
+                  "category": "museum",
+                  "coords": [
+                        5.947189,
+                        49.501547
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Lalléngerbierg - Brucherbierg",
+                  "text": "Kiterjedt természetvédelmi terület egykori bányaterületeken, amely ötvözi a természetet és az ipartörténetet.",
+                  "category": "natural",
+                  "coords": [
+                        6.011814,
+                        49.495634
                   ]
             }
       ],
@@ -35,6 +161,69 @@ export const luxembourgCitiesV2: POI[] = [
                         5.985431,
                         49.482451
                   ]
+            },
+            {
+                  "name": "Musée National de la Résistance",
+                  "text": "Acest muzeu din Esch-sur-Alzette este dedicat rezistenței luxemburgheze din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        5.975892,
+                        49.492369
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Ville d'Esch-sur-Alzette",
+                  "text": "Teatrul orașului Esch-sur-Alzette este un centru cultural important pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        5.977447,
+                        49.492655
+                  ]
+            },
+            {
+                  "name": "Am Bauch",
+                  "text": "O rezervație naturală protejată din Esch-sur-Alzette, care oferă spațiu florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        5.995496,
+                        49.521159
+                  ]
+            },
+            {
+                  "name": "Rockhal",
+                  "text": "Rockhal este cea mai mare sală de concerte din Luxemburg și un loc renumit pentru artiști internaționali.",
+                  "category": "cultural",
+                  "coords": [
+                        5.947577,
+                        49.499828
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Brill",
+                  "text": "Această rezervație naturală din Esch-sur-Alzette este un ecosistem local important și o zonă de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        6.006495,
+                        49.509517
+                  ]
+            },
+            {
+                  "name": "Möllerei",
+                  "text": "Möllerei este o fostă clădire industrială care servește astăzi ca spațiu de expoziție și centru cultural.",
+                  "category": "museum",
+                  "coords": [
+                        5.947189,
+                        49.501547
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Lalléngerbierg - Brucherbierg",
+                  "text": "O rezervație naturală întinsă pe foste situri miniere, care îmbină natura cu istoria industrială.",
+                  "category": "natural",
+                  "coords": [
+                        6.011814,
+                        49.495634
+                  ]
             }
       ],
       "en": [
@@ -45,6 +234,69 @@ export const luxembourgCitiesV2: POI[] = [
                   "coords": [
                         5.985431,
                         49.482451
+                  ]
+            },
+            {
+                  "name": "Musée National de la Résistance",
+                  "text": "This museum in Esch-sur-Alzette commemorates the Luxembourgish resistance during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        5.975892,
+                        49.492369
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Ville d'Esch-sur-Alzette",
+                  "text": "The municipal theatre of Esch-sur-Alzette is a major cultural center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        5.977447,
+                        49.492655
+                  ]
+            },
+            {
+                  "name": "Am Bauch",
+                  "text": "A protected nature reserve in Esch-sur-Alzette providing space for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        5.995496,
+                        49.521159
+                  ]
+            },
+            {
+                  "name": "Rockhal",
+                  "text": "Rockhal is Luxembourg's largest concert venue and a renowned site for international performers.",
+                  "category": "cultural",
+                  "coords": [
+                        5.947577,
+                        49.499828
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Brill",
+                  "text": "This nature reserve in Esch-sur-Alzette is an important local ecosystem and recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        6.006495,
+                        49.509517
+                  ]
+            },
+            {
+                  "name": "Möllerei",
+                  "text": "The Möllerei is a former industrial building that now serves as an exhibition space and cultural center.",
+                  "category": "museum",
+                  "coords": [
+                        5.947189,
+                        49.501547
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Lalléngerbierg - Brucherbierg",
+                  "text": "A vast nature reserve on former mining sites, blending nature with industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        6.011814,
+                        49.495634
                   ]
             }
       ]
@@ -11814,6 +12066,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.107425,
                         49.562537
                   ]
+            },
+            {
+                  "name": "Ënneschte Bësch",
+                  "text": "Ein geschütztes Naturschutzgebiet mit vielfältiger Flora und Fauna in Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.06892,
+                        49.5936
+                  ]
+            },
+            {
+                  "name": "Lei",
+                  "text": "Ein lokales Naturgebiet in Leudelange, das der Erholung und dem Naturschutz dient.",
+                  "category": "natural",
+                  "coords": [
+                        6.065376,
+                        49.595387
+                  ]
+            },
+            {
+                  "name": "Beetebuerger Bësch",
+                  "text": "Ein ausgedehntes Wald- und Naturschutzgebiet in der Nähe von Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.086594,
+                        49.547144
+                  ]
+            },
+            {
+                  "name": "Pivotting Listening Device",
+                  "text": "Eine ungewöhnliche akustische Installation und Sehenswürdigkeit in Leudelange.",
+                  "category": "landmark",
+                  "coords": [
+                        6.057443,
+                        49.568523
+                  ]
+            },
+            {
+                  "name": "Animal Jumping Distance",
+                  "text": "Ein interaktiver Bereich in Leudelange, der dem Weitsprung von Tieren gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.054972,
+                        49.567598
+                  ]
+            },
+            {
+                  "name": "Saint-Corneille",
+                  "text": "Die römisch-katholische Pfarrkirche der Gemeinde Leudelange in Luxemburg.",
+                  "category": "religious",
+                  "coords": [
+                        6.063852,
+                        49.567711
+                  ]
             }
       ],
       "hu": [
@@ -11824,6 +12130,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.107425,
                         49.562537
+                  ]
+            },
+            {
+                  "name": "Ënneschte Bësch",
+                  "text": "Védett természetvédelmi terület változatos növény- és állatvilággal Leudelange-ban.",
+                  "category": "natural",
+                  "coords": [
+                        6.06892,
+                        49.5936
+                  ]
+            },
+            {
+                  "name": "Lei",
+                  "text": "Helyi természeti terület Leudelange-ban, amely kikapcsolódást és védelmet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        6.065376,
+                        49.595387
+                  ]
+            },
+            {
+                  "name": "Beetebuerger Bësch",
+                  "text": "Kiterjedt erdei és természetvédelmi terület Leudelange közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.086594,
+                        49.547144
+                  ]
+            },
+            {
+                  "name": "Pivotting Listening Device",
+                  "text": "Szokatlan akusztikus installáció és látnivaló Leudelange-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.057443,
+                        49.568523
+                  ]
+            },
+            {
+                  "name": "Animal Jumping Distance",
+                  "text": "Interaktív látványosság Leudelange-ban, amely az állatok ugrótávolságait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        6.054972,
+                        49.567598
+                  ]
+            },
+            {
+                  "name": "Saint-Corneille",
+                  "text": "Leudelange település római katolikus plébániatemploma Luxemburgban.",
+                  "category": "religious",
+                  "coords": [
+                        6.063852,
+                        49.567711
                   ]
             }
       ],
@@ -11836,6 +12196,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.107425,
                         49.562537
                   ]
+            },
+            {
+                  "name": "Ënneschte Bësch",
+                  "text": "O rezervație naturală protejată cu floră și faună diversă în Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.06892,
+                        49.5936
+                  ]
+            },
+            {
+                  "name": "Lei",
+                  "text": "O zonă naturală locală din Leudelange destinată recreerii și conservării.",
+                  "category": "natural",
+                  "coords": [
+                        6.065376,
+                        49.595387
+                  ]
+            },
+            {
+                  "name": "Beetebuerger Bësch",
+                  "text": "O zonă extinsă de pădure și rezervație naturală situată lângă Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.086594,
+                        49.547144
+                  ]
+            },
+            {
+                  "name": "Pivotting Listening Device",
+                  "text": "O instalație acustică neobișnuită și o atracție în Leudelange.",
+                  "category": "landmark",
+                  "coords": [
+                        6.057443,
+                        49.568523
+                  ]
+            },
+            {
+                  "name": "Animal Jumping Distance",
+                  "text": "O zonă interactivă în Leudelange dedicată distanțelor de săritură ale animalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        6.054972,
+                        49.567598
+                  ]
+            },
+            {
+                  "name": "Saint-Corneille",
+                  "text": "Biserica parohială romano-catolică din comuna Leudelange, Luxemburg.",
+                  "category": "religious",
+                  "coords": [
+                        6.063852,
+                        49.567711
+                  ]
             }
       ],
       "en": [
@@ -11846,6 +12260,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.107425,
                         49.562537
+                  ]
+            },
+            {
+                  "name": "Ënneschte Bësch",
+                  "text": "A protected nature reserve with diverse flora and fauna in Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.06892,
+                        49.5936
+                  ]
+            },
+            {
+                  "name": "Lei",
+                  "text": "A local natural area in Leudelange used for recreation and conservation.",
+                  "category": "natural",
+                  "coords": [
+                        6.065376,
+                        49.595387
+                  ]
+            },
+            {
+                  "name": "Beetebuerger Bësch",
+                  "text": "An extensive forest and nature reserve area located near Leudelange.",
+                  "category": "natural",
+                  "coords": [
+                        6.086594,
+                        49.547144
+                  ]
+            },
+            {
+                  "name": "Pivotting Listening Device",
+                  "text": "An unusual acoustic installation and attraction in Leudelange.",
+                  "category": "landmark",
+                  "coords": [
+                        6.057443,
+                        49.568523
+                  ]
+            },
+            {
+                  "name": "Animal Jumping Distance",
+                  "text": "An interactive attraction in Leudelange showcasing the jumping distances of various animals.",
+                  "category": "landmark",
+                  "coords": [
+                        6.054972,
+                        49.567598
+                  ]
+            },
+            {
+                  "name": "Saint-Corneille",
+                  "text": "The Roman Catholic parish church serving the community of Leudelange.",
+                  "category": "religious",
+                  "coords": [
+                        6.063852,
+                        49.567711
                   ]
             }
       ]
@@ -14388,6 +14856,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.412779,
                         49.799063
                   ]
+            },
+            {
+                  "name": "Rechberg bei Olk",
+                  "text": "Ein geschütztes Naturareal in der Nähe von Rosport mit vielfältigen Lebensräumen.",
+                  "category": "natural",
+                  "coords": [
+                        6.534733,
+                        49.815181
+                  ]
             }
       ],
       "hu": [
@@ -14533,6 +15010,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.412779,
                         49.799063
+                  ]
+            },
+            {
+                  "name": "Rechberg bei Olk",
+                  "text": "Védett természeti terület Rosport közelében, változatos élőhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.534733,
+                        49.815181
                   ]
             }
       ],
@@ -14680,6 +15166,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.412779,
                         49.799063
                   ]
+            },
+            {
+                  "name": "Rechberg bei Olk",
+                  "text": "O zonă naturală protejată lângă Rosport, cu habitate diverse.",
+                  "category": "natural",
+                  "coords": [
+                        6.534733,
+                        49.815181
+                  ]
             }
       ],
       "en": [
@@ -14825,6 +15320,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.412779,
                         49.799063
+                  ]
+            },
+            {
+                  "name": "Rechberg bei Olk",
+                  "text": "A protected natural area near Rosport featuring diverse habitats.",
+                  "category": "natural",
+                  "coords": [
+                        6.534733,
+                        49.815181
                   ]
             }
       ]
@@ -15801,6 +16305,78 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.207991,
                         49.78526
                   ]
+            },
+            {
+                  "name": "Schloss Meysembourg",
+                  "text": "Ein historisches Schloss in der Gemeinde Nommern, umgeben von einer weitläufigen Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        6.18892,
+                        49.770449
+                  ]
+            },
+            {
+                  "name": "Aalburg",
+                  "text": "Eine archäologische Fundstelle in Nommern, die Spuren früherer Befestigungen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        6.175719,
+                        49.784823
+                  ]
+            },
+            {
+                  "name": "Nommerlayen",
+                  "text": "Ein Naturschutzgebiet bei Nommern, das für seine markanten Sandsteinfelsen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.16693,
+                        49.779942
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "Eine geologische Formation in Nommern, die einem Pilz ähnelt und als Ausflugsziel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Saint-Wendelin",
+                  "text": "Eine katholische Kirche im Dorf Schrondweiler in der Gemeinde Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.156241,
+                        49.80625
+                  ]
+            },
+            {
+                  "name": "Corneliuskierch",
+                  "text": "Die barocke Pfarrkirche von Angelsberg in der Gemeinde Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.15869,
+                        49.763719
+                  ]
+            },
+            {
+                  "name": "Nativité de la Bienheureuse-Vierge-Marie",
+                  "text": "Die im neugotischen Stil errichtete Pfarrkirche von Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.173228,
+                        49.794449
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jacques-le-Majeur",
+                  "text": "Eine kleine Kapelle im Ortsteil Oberglabach der Gemeinde Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.149606,
+                        49.784348
+                  ]
             }
       ],
       "hu": [
@@ -15829,6 +16405,78 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.207991,
                         49.78526
+                  ]
+            },
+            {
+                  "name": "Château de Meysembourg",
+                  "text": "Történelmi kastély Nommern községben, amelyet tágas park vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        6.18892,
+                        49.770449
+                  ]
+            },
+            {
+                  "name": "Aalburg",
+                  "text": "Régészeti lelőhely Nommernben, amely korábbi erődítmények nyomait mutatja.",
+                  "category": "historical",
+                  "coords": [
+                        6.175719,
+                        49.784823
+                  ]
+            },
+            {
+                  "name": "Nommerlayen",
+                  "text": "Nommern közeli természetvédelmi terület, amely jellegzetes homokkő szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.16693,
+                        49.779942
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "Gomba alakú geológiai képződmény Nommernben, amely kedvelt kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Saint-Wendelin",
+                  "text": "Katolikus templom a Nommern községhez tartozó Schrondweiler faluban.",
+                  "category": "religious",
+                  "coords": [
+                        6.156241,
+                        49.80625
+                  ]
+            },
+            {
+                  "name": "Corneliuskierch",
+                  "text": "Angelsberg barokk plébániatemploma Nommern községben.",
+                  "category": "religious",
+                  "coords": [
+                        6.15869,
+                        49.763719
+                  ]
+            },
+            {
+                  "name": "Nativité de la Bienheureuse-Vierge-Marie",
+                  "text": "Nommern neogótikus stílusban épült plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        6.173228,
+                        49.794449
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jacques-le-Majeur",
+                  "text": "Kisméretű kápolna Nommern község Oberglabach településrészén.",
+                  "category": "religious",
+                  "coords": [
+                        6.149606,
+                        49.784348
                   ]
             }
       ],
@@ -15859,6 +16507,78 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.207991,
                         49.78526
                   ]
+            },
+            {
+                  "name": "Château de Meysembourg",
+                  "text": "Un castel istoric din comuna Nommern, înconjurat de un parc vast.",
+                  "category": "castle",
+                  "coords": [
+                        6.18892,
+                        49.770449
+                  ]
+            },
+            {
+                  "name": "Aalburg",
+                  "text": "Un sit arheologic din Nommern care prezintă urme ale unor fortificații timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        6.175719,
+                        49.784823
+                  ]
+            },
+            {
+                  "name": "Nommerlayen",
+                  "text": "O rezervație naturală de lângă Nommern, cunoscută pentru stâncile sale de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        6.16693,
+                        49.779942
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "O formațiune geologică din Nommern, asemănătoare cu o ciupercă, ce servește ca destinație turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Saint-Wendelin",
+                  "text": "O biserică catolică situată în satul Schrondweiler din comuna Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.156241,
+                        49.80625
+                  ]
+            },
+            {
+                  "name": "Corneliuskierch",
+                  "text": "Biserica parohială barocă din Angelsberg, situată în comuna Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.15869,
+                        49.763719
+                  ]
+            },
+            {
+                  "name": "Nativité de la Bienheureuse-Vierge-Marie",
+                  "text": "Biserica parohială din Nommern, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        6.173228,
+                        49.794449
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jacques-le-Majeur",
+                  "text": "O mică capelă situată în districtul Oberglabach din comuna Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.149606,
+                        49.784348
+                  ]
             }
       ],
       "en": [
@@ -15887,6 +16607,78 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.207991,
                         49.78526
+                  ]
+            },
+            {
+                  "name": "Meysembourg Castle",
+                  "text": "A historic castle in the municipality of Nommern, surrounded by a large park.",
+                  "category": "castle",
+                  "coords": [
+                        6.18892,
+                        49.770449
+                  ]
+            },
+            {
+                  "name": "Aalburg",
+                  "text": "An archaeological site in Nommern showing traces of earlier fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        6.175719,
+                        49.784823
+                  ]
+            },
+            {
+                  "name": "Nommerlayen",
+                  "text": "A nature reserve near Nommern known for its striking sandstone rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        6.16693,
+                        49.779942
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "A geological formation in Nommern resembling a mushroom that serves as a tourist destination.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Saint-Wendelin",
+                  "text": "A Catholic church located in the village of Schrondweiler within the municipality of Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.156241,
+                        49.80625
+                  ]
+            },
+            {
+                  "name": "Corneliuskierch",
+                  "text": "The Baroque parish church of Angelsberg in the municipality of Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.15869,
+                        49.763719
+                  ]
+            },
+            {
+                  "name": "Nativité de la Bienheureuse-Vierge-Marie",
+                  "text": "The parish church of Nommern, built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        6.173228,
+                        49.794449
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jacques-le-Majeur",
+                  "text": "A small chapel located in the Oberglabach district of the municipality of Nommern.",
+                  "category": "religious",
+                  "coords": [
+                        6.149606,
+                        49.784348
                   ]
             }
       ]
@@ -17907,6 +18699,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.336591,
                         49.84174
                   ]
+            },
+            {
+                  "name": "Saueruecht",
+                  "text": "Saueruecht ist ein Naturschutzgebiet bei Beaufort, das für seine markanten Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.318509,
+                        49.839525
+                  ]
+            },
+            {
+                  "name": "Mittelalterburg Beaufort",
+                  "text": "Die Burg Beaufort ist eine mittelalterliche Festungsruine in der Region Müllerthal.",
+                  "category": "castle",
+                  "coords": [
+                        6.286599,
+                        49.833674
+                  ]
+            },
+            {
+                  "name": "Schmittenkreuz",
+                  "text": "Schmittenkreuz ist eine historische Fundstätte in der Umgebung von Beaufort.",
+                  "category": "historical",
+                  "coords": [
+                        6.323106,
+                        49.83857
+                  ]
+            },
+            {
+                  "name": "Alebuerg",
+                  "text": "Alebuerg ist eine archäologische Stätte bei Beaufort, die auf eine frühe Befestigung hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        6.279885,
+                        49.842672
+                  ]
+            },
+            {
+                  "name": "Geo-Expo",
+                  "text": "Die Geo-Expo in Beaufort präsentiert Informationen zur Geologie und Natur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        6.292453,
+                        49.834252
+                  ]
+            },
+            {
+                  "name": "Elteschmuer",
+                  "text": "Elteschmuer ist ein geschütztes Naturareal in der Nähe von Beaufort.",
+                  "category": "natural",
+                  "coords": [
+                        6.260856,
+                        49.838669
+                  ]
             }
       ],
       "hu": [
@@ -17935,6 +18781,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.336591,
                         49.84174
+                  ]
+            },
+            {
+                  "name": "Saueruecht",
+                  "text": "Saueruecht egy természetvédelmi terület Beaufort közelében, amely jellegzetes sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.318509,
+                        49.839525
+                  ]
+            },
+            {
+                  "name": "Buerg Beefort",
+                  "text": "Beaufort vára egy középkori erődítményrom a Müllerthal régióban.",
+                  "category": "castle",
+                  "coords": [
+                        6.286599,
+                        49.833674
+                  ]
+            },
+            {
+                  "name": "Schmittenkreuz",
+                  "text": "Schmittenkreuz egy történelmi lelőhely Beaufort környékén.",
+                  "category": "historical",
+                  "coords": [
+                        6.323106,
+                        49.83857
+                  ]
+            },
+            {
+                  "name": "Alebuerg",
+                  "text": "Alebuerg egy régészeti lelőhely Beaufort közelében, amely egy korai erődítményre utal.",
+                  "category": "historical",
+                  "coords": [
+                        6.279885,
+                        49.842672
+                  ]
+            },
+            {
+                  "name": "Geo-Expo",
+                  "text": "A beaufort-i Geo-Expo a régió geológiájáról és természetéről mutat be információkat.",
+                  "category": "museum",
+                  "coords": [
+                        6.292453,
+                        49.834252
+                  ]
+            },
+            {
+                  "name": "Elteschmuer",
+                  "text": "Elteschmuer egy védett természeti terület Beaufort közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.260856,
+                        49.838669
                   ]
             }
       ],
@@ -17965,6 +18865,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.336591,
                         49.84174
                   ]
+            },
+            {
+                  "name": "Saueruecht",
+                  "text": "Saueruecht este o rezervație naturală lângă Beaufort, cunoscută pentru formațiunile sale stâncoase distinctive.",
+                  "category": "natural",
+                  "coords": [
+                        6.318509,
+                        49.839525
+                  ]
+            },
+            {
+                  "name": "Buerg Beefort",
+                  "text": "Castelul Beaufort este o ruină de fortăreață medievală din regiunea Müllerthal.",
+                  "category": "castle",
+                  "coords": [
+                        6.286599,
+                        49.833674
+                  ]
+            },
+            {
+                  "name": "Schmittenkreuz",
+                  "text": "Schmittenkreuz este un sit istoric situat în împrejurimile localității Beaufort.",
+                  "category": "historical",
+                  "coords": [
+                        6.323106,
+                        49.83857
+                  ]
+            },
+            {
+                  "name": "Alebuerg",
+                  "text": "Alebuerg este un sit arheologic lângă Beaufort, indicând o fortificație timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        6.279885,
+                        49.842672
+                  ]
+            },
+            {
+                  "name": "Geo-Expo",
+                  "text": "Geo-Expo din Beaufort prezintă informații despre geologia și natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        6.292453,
+                        49.834252
+                  ]
+            },
+            {
+                  "name": "Elteschmuer",
+                  "text": "Elteschmuer este o arie naturală protejată situată în apropiere de Beaufort.",
+                  "category": "natural",
+                  "coords": [
+                        6.260856,
+                        49.838669
+                  ]
             }
       ],
       "en": [
@@ -17993,6 +18947,60 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.336591,
                         49.84174
+                  ]
+            },
+            {
+                  "name": "Saueruecht",
+                  "text": "Saueruecht is a nature reserve near Beaufort known for its distinct rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        6.318509,
+                        49.839525
+                  ]
+            },
+            {
+                  "name": "Beaufort Medieval Castle",
+                  "text": "Beaufort Castle is a medieval fortress ruin located in the Mullerthal region.",
+                  "category": "castle",
+                  "coords": [
+                        6.286599,
+                        49.833674
+                  ]
+            },
+            {
+                  "name": "Schmittenkreuz",
+                  "text": "Schmittenkreuz is a historical site located in the surroundings of Beaufort.",
+                  "category": "historical",
+                  "coords": [
+                        6.323106,
+                        49.83857
+                  ]
+            },
+            {
+                  "name": "Alebuerg",
+                  "text": "Alebuerg is an archaeological site near Beaufort, indicating an early fortification.",
+                  "category": "historical",
+                  "coords": [
+                        6.279885,
+                        49.842672
+                  ]
+            },
+            {
+                  "name": "Geo-Expo",
+                  "text": "Geo-Expo in Beaufort presents information on the geology and nature of the region.",
+                  "category": "museum",
+                  "coords": [
+                        6.292453,
+                        49.834252
+                  ]
+            },
+            {
+                  "name": "Elteschmuer",
+                  "text": "Elteschmuer is a protected natural area located near Beaufort.",
+                  "category": "natural",
+                  "coords": [
+                        6.260856,
+                        49.838669
                   ]
             }
       ]

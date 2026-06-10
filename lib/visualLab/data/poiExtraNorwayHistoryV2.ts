@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const norwayHistoryV2: POI[] = [
 
   {
-    id: "norway-borgund-stave-church-history-v2",
+    id: "norway-borgund-stave-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Husum naturreservat",
+                  "text": "Ein Naturschutzgebiet, das wegen seiner Landschaft und Artenvielfalt bei Borgund geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.786815,
+                        61.050018
+                  ]
+            },
+            {
+                  "name": "Helleren naturreservat",
+                  "text": "Ein Naturschutzgebiet mit einzigartigen geologischen Formationen bei Borgund.",
+                  "category": "natural",
+                  "coords": [
+                        7.745297,
+                        61.059214
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje museum",
+                  "text": "Ein Museum, das der Geschichte und dem Bau der Stabkirche von Borgund gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.814089,
+                        61.048246
+                  ]
+            },
+            {
+                  "name": "Vindhellavegen",
+                  "text": "Eine historische und malerische Straße, die für ihre scharfen Kurven bei Borgund bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.796294,
+                        61.043437
+                  ]
+            },
+            {
+                  "name": "øvre liastølen",
+                  "text": "Ruinen eines alten Almgebäudes in der Nähe von Borgund.",
+                  "category": "historical",
+                  "coords": [
+                        7.797978,
+                        61.056838
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje",
+                  "text": "Eine bemerkenswert gut erhaltene mittelalterliche Stabkirche aus dem späten 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        7.812285,
+                        61.047204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Husum naturreservat",
+                  "text": "Tájvédelmi és biodiverzitási szempontból védett természetvédelmi terület Borgund közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.786815,
+                        61.050018
+                  ]
+            },
+            {
+                  "name": "Helleren naturreservat",
+                  "text": "Különleges geológiai képződményekkel rendelkező természetvédelmi terület Borgund közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.745297,
+                        61.059214
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje museum",
+                  "text": "A borgundi dongatemplom történetének és építésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.814089,
+                        61.048246
+                  ]
+            },
+            {
+                  "name": "Vindhellavegen",
+                  "text": "Történelmi és festői út, amely éles kanyarjairól ismert Borgund közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.796294,
+                        61.043437
+                  ]
+            },
+            {
+                  "name": "øvre liastølen",
+                  "text": "Egy régi hegyi gazdaság romjai Borgund közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.797978,
+                        61.056838
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje",
+                  "text": "Egy rendkívül jó állapotban fennmaradt középkori dongatemplom a 12. század végéről.",
+                  "category": "religious",
+                  "coords": [
+                        7.812285,
+                        61.047204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Husum naturreservat",
+                  "text": "O rezervație naturală protejată pentru peisajul și biodiversitatea sa, lângă Borgund.",
+                  "category": "natural",
+                  "coords": [
+                        7.786815,
+                        61.050018
+                  ]
+            },
+            {
+                  "name": "Helleren naturreservat",
+                  "text": "O rezervație naturală cu formațiuni geologice unice lângă Borgund.",
+                  "category": "natural",
+                  "coords": [
+                        7.745297,
+                        61.059214
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje museum",
+                  "text": "Un muzeu dedicat istoriei și construcției bisericii de lemn din Borgund.",
+                  "category": "museum",
+                  "coords": [
+                        7.814089,
+                        61.048246
+                  ]
+            },
+            {
+                  "name": "Vindhellavegen",
+                  "text": "Un drum istoric și pitoresc cunoscut pentru curbele sale strânse lângă Borgund.",
+                  "category": "landmark",
+                  "coords": [
+                        7.796294,
+                        61.043437
+                  ]
+            },
+            {
+                  "name": "øvre liastølen",
+                  "text": "Ruinele unei vechi ferme montane situate lângă Borgund.",
+                  "category": "historical",
+                  "coords": [
+                        7.797978,
+                        61.056838
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje",
+                  "text": "O biserică de lemn medievală remarcabil de bine conservată, datând de la sfârșitul secolului al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        7.812285,
+                        61.047204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Husum naturreservat",
+                  "text": "A nature reserve protected for its landscape and biodiversity near Borgund.",
+                  "category": "natural",
+                  "coords": [
+                        7.786815,
+                        61.050018
+                  ]
+            },
+            {
+                  "name": "Helleren naturreservat",
+                  "text": "A nature reserve featuring unique geological formations near Borgund.",
+                  "category": "natural",
+                  "coords": [
+                        7.745297,
+                        61.059214
+                  ]
+            },
+            {
+                  "name": "Borgund Stavechurch museum",
+                  "text": "A museum dedicated to the history and construction of the Borgund Stave Church.",
+                  "category": "museum",
+                  "coords": [
+                        7.814089,
+                        61.048246
+                  ]
+            },
+            {
+                  "name": "Vindhella road",
+                  "text": "A historic and scenic road known for its sharp bends near Borgund.",
+                  "category": "landmark",
+                  "coords": [
+                        7.796294,
+                        61.043437
+                  ]
+            },
+            {
+                  "name": "øvre liastølen",
+                  "text": "Ruins of an old mountain farm building located near Borgund.",
+                  "category": "historical",
+                  "coords": [
+                        7.797978,
+                        61.056838
+                  ]
+            },
+            {
+                  "name": "Borgund stavkyrkje",
+                  "text": "A remarkably well-preserved medieval stave church dating from the late 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        7.812285,
+                        61.047204
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NO",
     name: { de: "Stabkirche Borgund", hu: "Borgundi donga templom", ro: "Biserica de lemn din Borgund", en: "Borgund Stave Church" },
@@ -138,7 +363,160 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-nidaros-pilgrimage-path-history-v2.webp",
   },
   {
-    id: "norway-kjerringoy-trading-post-history-v2",
+    id: "norway-kjerringoy-trading-post-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fjære naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Kjerringøy, das die lokale Flora und Fauna bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        14.699429,
+                        67.498702
+                  ]
+            },
+            {
+                  "name": "Kjerringøy handlessted",
+                  "text": "Ein gut erhaltenes historisches Handelszentrum aus dem 19. Jahrhundert in Norwegen.",
+                  "category": "museum",
+                  "coords": [
+                        14.754664,
+                        67.519038
+                  ]
+            },
+            {
+                  "name": "Båtbygger Ulf Mikalsen",
+                  "text": "Eine Werkstatt in Kjerringøy, die sich der traditionellen Handwerkskunst widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.762393,
+                        67.52014
+                  ]
+            },
+            {
+                  "name": "Kjerringøy kirke",
+                  "text": "Die historische Kirche von Kjerringøy, ein zentraler Ort für Gottesdienste in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        14.758783,
+                        67.518871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fjære naturreservat",
+                  "text": "Természetvédelmi terület Kjerringøy közelében, amely a helyi növény- és állatvilágot őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        14.699429,
+                        67.498702
+                  ]
+            },
+            {
+                  "name": "Kjerringøy handlessted",
+                  "text": "Jól megőrzött 19. századi történelmi kereskedőhely Norvégiában.",
+                  "category": "museum",
+                  "coords": [
+                        14.754664,
+                        67.519038
+                  ]
+            },
+            {
+                  "name": "Båtbygger Ulf Mikalsen",
+                  "text": "Kjerringøyi műhely, amely a hagyományos kézműves mesterségnek szentelt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.762393,
+                        67.52014
+                  ]
+            },
+            {
+                  "name": "Kjerringøy kirke",
+                  "text": "Kjerringøy történelmi temploma, a közösség hitéletének központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        14.758783,
+                        67.518871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fjære naturreservat",
+                  "text": "O rezervație naturală lângă Kjerringøy care conservă flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        14.699429,
+                        67.498702
+                  ]
+            },
+            {
+                  "name": "Kjerringøy handlessted",
+                  "text": "Un centru comercial istoric bine conservat din secolul al XIX-lea în Norvegia.",
+                  "category": "museum",
+                  "coords": [
+                        14.754664,
+                        67.519038
+                  ]
+            },
+            {
+                  "name": "Båtbygger Ulf Mikalsen",
+                  "text": "Un atelier din Kjerringøy dedicat meșteșugului tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        14.762393,
+                        67.52014
+                  ]
+            },
+            {
+                  "name": "Kjerringøy kirke",
+                  "text": "Biserica istorică din Kjerringøy, un loc central de cult pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        14.758783,
+                        67.518871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fjære naturreservat",
+                  "text": "A nature reserve near Kjerringøy preserving local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        14.699429,
+                        67.498702
+                  ]
+            },
+            {
+                  "name": "Kjerringøy handlessted",
+                  "text": "A well-preserved 19th-century historic trading post in Norway.",
+                  "category": "museum",
+                  "coords": [
+                        14.754664,
+                        67.519038
+                  ]
+            },
+            {
+                  "name": "Båtbygger Ulf Mikalsen",
+                  "text": "A workshop in Kjerringøy dedicated to traditional craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        14.762393,
+                        67.52014
+                  ]
+            },
+            {
+                  "name": "Kjerringøy kirke",
+                  "text": "The historic church of Kjerringøy, a central place of worship for the community.",
+                  "category": "religious",
+                  "coords": [
+                        14.758783,
+                        67.518871
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "NO",
     name: { de: "Handelsposten Kjerringøy", hu: "Kjerringøy kereskedelmi állomás", ro: "Postul comercial Kjerringøy", en: "Kjerringøy Trading Post" },
@@ -462,7 +840,124 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-henningsvaer-fishing-village-history-v2.webp",
   },
   {
-    id: "norway-trollkyrkja-cave-history-v2",
+    id: "norway-trollkyrkja-cave-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osen dyrefredningsområde",
+                  "text": "Ein Naturschutzgebiet in der Nähe der Trollkyrkja-Höhle in Norwegen.",
+                  "category": "natural",
+                  "coords": [
+                        7.331404,
+                        62.915024
+                  ]
+            },
+            {
+                  "name": "Bergtatt Opplevelser",
+                  "text": "Ein Besucherzentrum, das unterirdische Bootsfahrten in einer Marmormine anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        7.358484,
+                        62.897187
+                  ]
+            },
+            {
+                  "name": "Mjølkberget",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Landschaft bei Trollkyrkja.",
+                  "category": "natural",
+                  "coords": [
+                        7.290266,
+                        62.930019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osen dyrefredningsområde",
+                  "text": "Természetvédelmi terület a norvégiai Trollkyrkja-barlang közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.331404,
+                        62.915024
+                  ]
+            },
+            {
+                  "name": "Bergtatt Opplevelser",
+                  "text": "Látogatóközpont, amely föld alatti hajókirándulásokat kínál egy márványbányában.",
+                  "category": "museum",
+                  "coords": [
+                        7.358484,
+                        62.897187
+                  ]
+            },
+            {
+                  "name": "Mjølkberget",
+                  "text": "Kilátópont, ahonnan széles körkilátás nyílik a Trollkyrkja környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        7.290266,
+                        62.930019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osen dyrefredningsområde",
+                  "text": "O rezervație naturală în apropierea peșterii Trollkyrkja din Norvegia.",
+                  "category": "natural",
+                  "coords": [
+                        7.331404,
+                        62.915024
+                  ]
+            },
+            {
+                  "name": "Bergtatt Opplevelser",
+                  "text": "Un centru de vizitare care oferă plimbări cu barca în subteran într-o mină de marmură.",
+                  "category": "museum",
+                  "coords": [
+                        7.358484,
+                        62.897187
+                  ]
+            },
+            {
+                  "name": "Mjølkberget",
+                  "text": "Un punct de observație cu vederi largi asupra peisajului de lângă Trollkyrkja.",
+                  "category": "natural",
+                  "coords": [
+                        7.290266,
+                        62.930019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osen dyrefredningsområde",
+                  "text": "A nature reserve located near the Trollkyrkja cave in Norway.",
+                  "category": "natural",
+                  "coords": [
+                        7.331404,
+                        62.915024
+                  ]
+            },
+            {
+                  "name": "Bergtatt Opplevelser",
+                  "text": "A visitor centre offering underground boat trips in a marble mine.",
+                  "category": "museum",
+                  "coords": [
+                        7.358484,
+                        62.897187
+                  ]
+            },
+            {
+                  "name": "Mjølkberget",
+                  "text": "A viewpoint with broad vistas over the landscape near Trollkyrkja.",
+                  "category": "natural",
+                  "coords": [
+                        7.290266,
+                        62.930019
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "NO",
     name: { de: "Trollkyrkja-Höhle", hu: "Trollkyrkja barlang", ro: "Peștera Trollkyrkja", en: "Trollkyrkja Cave" },
@@ -822,7 +1317,304 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-skudenes-old-town-history-v2.webp",
   },
   {
-    id: "norway-ulfstind-fortification-history-v2",
+    id: "norway-ulfstind-fortification-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nordåsen",
+                  "text": "Ein Berggipfel in der Nähe der Befestigungsanlagen von Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267602,
+                        69.755091
+                  ]
+            },
+            {
+                  "name": "Mellaåsen",
+                  "text": "Ein Gipfel in der bergigen Region um Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.260437,
+                        69.756293
+                  ]
+            },
+            {
+                  "name": "Skjevelåsen",
+                  "text": "Ein Gipfel in der Nähe von Ulfstind, der charakteristisch für die nordische Landschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.254832,
+                        69.757111
+                  ]
+            },
+            {
+                  "name": "Bakvassåsen",
+                  "text": "Ein Berggipfel in der Nähe von Ulfstind Fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        19.250257,
+                        69.757035
+                  ]
+            },
+            {
+                  "name": "Johanfjellet - Jonssavárdu",
+                  "text": "Ein markanter Berg in der Nähe von Ulfstind, auch unter seinem samischen Namen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.313533,
+                        69.742229
+                  ]
+            },
+            {
+                  "name": "Steinåsen",
+                  "text": "Ein Gipfel in der Gegend von Ulfstind Fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        19.245464,
+                        69.764728
+                  ]
+            },
+            {
+                  "name": "Kvanntoan",
+                  "text": "Ein Berggipfel in der nordnorwegischen Landschaft bei Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275212,
+                        69.755649
+                  ]
+            },
+            {
+                  "name": "Nonsåsen",
+                  "text": "Ein Berggipfel in der Nähe der historischen Stätte Ulfstind Fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        19.331314,
+                        69.764221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nordåsen",
+                  "text": "Hegycsúcs az Ulfstind erődítmény közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267602,
+                        69.755091
+                  ]
+            },
+            {
+                  "name": "Mellaåsen",
+                  "text": "Egy hegycsúcs Ulfstind hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.260437,
+                        69.756293
+                  ]
+            },
+            {
+                  "name": "Skjevelåsen",
+                  "text": "Ulfstind közelében található csúcs, amely a északi tájra jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        19.254832,
+                        69.757111
+                  ]
+            },
+            {
+                  "name": "Bakvassåsen",
+                  "text": "Hegycsúcs az Ulfstind erődítmény közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.250257,
+                        69.757035
+                  ]
+            },
+            {
+                  "name": "Johanfjellet - Jonssavárdu",
+                  "text": "Jellegzetes hegy Ulfstind közelében, amely számi nevén is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.313533,
+                        69.742229
+                  ]
+            },
+            {
+                  "name": "Steinåsen",
+                  "text": "Egy csúcs az Ulfstind erődítmény környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.245464,
+                        69.764728
+                  ]
+            },
+            {
+                  "name": "Kvanntoan",
+                  "text": "Hegycsúcs az észak-norvég tájon, Ulfstind közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275212,
+                        69.755649
+                  ]
+            },
+            {
+                  "name": "Nonsåsen",
+                  "text": "Hegycsúcs a történelmi Ulfstind erődítmény közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.331314,
+                        69.764221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nordåsen",
+                  "text": "Un vârf muntos situat în apropierea fortificațiilor Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267602,
+                        69.755091
+                  ]
+            },
+            {
+                  "name": "Mellaåsen",
+                  "text": "Un vârf din regiunea muntoasă din jurul Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.260437,
+                        69.756293
+                  ]
+            },
+            {
+                  "name": "Skjevelåsen",
+                  "text": "Un vârf lângă Ulfstind, caracteristic peisajului nordic.",
+                  "category": "landmark",
+                  "coords": [
+                        19.254832,
+                        69.757111
+                  ]
+            },
+            {
+                  "name": "Bakvassåsen",
+                  "text": "Un vârf muntos în apropiere de fortificația Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.250257,
+                        69.757035
+                  ]
+            },
+            {
+                  "name": "Johanfjellet - Jonssavárdu",
+                  "text": "Un munte proeminent lângă Ulfstind, cunoscut și sub numele său sami.",
+                  "category": "landmark",
+                  "coords": [
+                        19.313533,
+                        69.742229
+                  ]
+            },
+            {
+                  "name": "Steinåsen",
+                  "text": "Un vârf în zona fortificației Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.245464,
+                        69.764728
+                  ]
+            },
+            {
+                  "name": "Kvanntoan",
+                  "text": "Un vârf muntos în peisajul norvegian de nord, lângă Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275212,
+                        69.755649
+                  ]
+            },
+            {
+                  "name": "Nonsåsen",
+                  "text": "Un vârf muntos în apropierea sitului istoric al fortificației Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.331314,
+                        69.764221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nordåsen",
+                  "text": "A mountain peak located near the Ulfstind fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267602,
+                        69.755091
+                  ]
+            },
+            {
+                  "name": "Mellaåsen",
+                  "text": "A peak in the mountainous region around Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.260437,
+                        69.756293
+                  ]
+            },
+            {
+                  "name": "Skjevelåsen",
+                  "text": "A peak near Ulfstind, characteristic of the northern landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.254832,
+                        69.757111
+                  ]
+            },
+            {
+                  "name": "Bakvassåsen",
+                  "text": "A mountain peak situated near Ulfstind Fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        19.250257,
+                        69.757035
+                  ]
+            },
+            {
+                  "name": "Johanfjellet - Jonssavárdu",
+                  "text": "A prominent mountain near Ulfstind, also known by its Sami name.",
+                  "category": "landmark",
+                  "coords": [
+                        19.313533,
+                        69.742229
+                  ]
+            },
+            {
+                  "name": "Steinåsen",
+                  "text": "A peak in the area of Ulfstind Fortification.",
+                  "category": "landmark",
+                  "coords": [
+                        19.245464,
+                        69.764728
+                  ]
+            },
+            {
+                  "name": "Kvanntoan",
+                  "text": "A mountain peak in the North Norwegian landscape near Ulfstind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275212,
+                        69.755649
+                  ]
+            },
+            {
+                  "name": "Nonsåsen",
+                  "text": "A mountain peak near the historical Ulfstind Fortification site.",
+                  "category": "landmark",
+                  "coords": [
+                        19.331314,
+                        69.764221
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "NO",
     name: { de: "Befestigung Ulfstind", hu: "Ulfstind erődítmény", ro: "Fortificația Ulfstind", en: "Ulfstind Fortification" },
@@ -867,7 +1659,196 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-ulfstind-fortification-history-v2.webp",
   },
   {
-    id: "norway-stave-church-heddal-history-v2",
+    id: "norway-stave-church-heddal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "Ein Naturschutzgebiet bestehend aus mehreren Inseln, bekannt für seine Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Heddal Bygdetun",
+                  "text": "Ein Freilichtmuseum bei Heddal, das traditionelle norwegische Gebäude zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.182012,
+                        59.578799
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die Landschaft um Heddal.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Hollagruva",
+                  "text": "Überreste historischer Bergwerksanlagen in der Gegend von Heddal.",
+                  "category": "historical",
+                  "coords": [
+                        9.207288,
+                        59.592931
+                  ]
+            },
+            {
+                  "name": "Heddal stavkyrkje",
+                  "text": "Die größte Stabkirche Norwegens, erbaut im 13. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.176269,
+                        59.579566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "Több szigetből álló természetvédelmi terület, amely madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Heddal Bygdetun",
+                  "text": "Szabadtéri múzeum Heddal közelében, amely hagyományos norvég épületeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.182012,
+                        59.578799
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Festői kilátóhely, kilátással a Heddal környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Hollagruva",
+                  "text": "Történelmi bányászati romok Heddal környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.207288,
+                        59.592931
+                  ]
+            },
+            {
+                  "name": "Heddal stavkyrkje",
+                  "text": "Norvégia legnagyobb dongatemploma, amely a 13. században épült.",
+                  "category": "landmark",
+                  "coords": [
+                        9.176269,
+                        59.579566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "O rezervație naturală formată din mai multe insule, cunoscută pentru fauna aviară.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Heddal Bygdetun",
+                  "text": "Un muzeu în aer liber lângă Heddal, care prezintă clădiri tradiționale norvegiene.",
+                  "category": "museum",
+                  "coords": [
+                        9.182012,
+                        59.578799
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "Un punct de observație pitoresc cu vedere asupra peisajului din jurul Heddal.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Hollagruva",
+                  "text": "Ruinele unor exploatări miniere istorice din zona Heddal.",
+                  "category": "historical",
+                  "coords": [
+                        9.207288,
+                        59.592931
+                  ]
+            },
+            {
+                  "name": "Heddal stavkyrkje",
+                  "text": "Cea mai mare biserică de lemn din Norvegia, construită în secolul al XIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        9.176269,
+                        59.579566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Semsøyene naturreservat",
+                  "text": "A nature reserve consisting of several islands, known for its birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        9.22073,
+                        59.556897
+                  ]
+            },
+            {
+                  "name": "Heddal Bygdetun",
+                  "text": "An open-air museum near Heddal showcasing traditional Norwegian buildings.",
+                  "category": "museum",
+                  "coords": [
+                        9.182012,
+                        59.578799
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt",
+                  "text": "A scenic observation point offering views of the landscape around Heddal.",
+                  "category": "natural",
+                  "coords": [
+                        9.206065,
+                        59.582581
+                  ]
+            },
+            {
+                  "name": "Hollagruva",
+                  "text": "Historical mining ruins located in the Heddal area.",
+                  "category": "historical",
+                  "coords": [
+                        9.207288,
+                        59.592931
+                  ]
+            },
+            {
+                  "name": "Heddal stavkyrkje",
+                  "text": "The largest stave church in Norway, built in the 13th century.",
+                  "category": "landmark",
+                  "coords": [
+                        9.176269,
+                        59.579566
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NO",
     name: { de: "Stabkirche Heddal", hu: "Heddali donga templom", ro: "Biserica de lemn Heddal", en: "Heddal Stave Church" },
@@ -2802,7 +3783,268 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-reine-church-history-v2.webp",
   },
   {
-    id: "norway-kvinesdal-church-history-v2",
+    id: "norway-kvinesdal-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knebeknuten naturreservat",
+                  "text": "Dieses Naturschutzgebiet bei Kvinesdal Church bewahrt die lokale Flora und Fauna in unberührter Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.923391,
+                        58.308887
+                  ]
+            },
+            {
+                  "name": "Eljestraum naturreservat",
+                  "text": "Das Naturschutzgebiet schützt die wertvollen Ökosysteme und die biologische Vielfalt der Region.",
+                  "category": "natural",
+                  "coords": [
+                        6.962517,
+                        58.304845
+                  ]
+            },
+            {
+                  "name": "Kvinesdal kulturhus",
+                  "text": "Dieses Theater ist ein bedeutender kultureller Treffpunkt für Veranstaltungen und Aufführungen in Kvinesdal Church.",
+                  "category": "cultural",
+                  "coords": [
+                        6.958303,
+                        58.319561
+                  ]
+            },
+            {
+                  "name": "Marcelius Førlands kunstmuseum",
+                  "text": "Dieses Kunstmuseum in Kvinesdal Church präsentiert Werke des norwegischen Künstlers Marcelius Førland.",
+                  "category": "museum",
+                  "coords": [
+                        6.969072,
+                        58.306464
+                  ]
+            },
+            {
+                  "name": "Lister Utvandrermuseum i Kvinesdal",
+                  "text": "Das Museum dokumentiert die Geschichte der norwegischen Auswanderung aus der Region Lister nach Amerika.",
+                  "category": "museum",
+                  "coords": [
+                        6.962571,
+                        58.311867
+                  ]
+            },
+            {
+                  "name": "Øye mølle",
+                  "text": "Diese historische Mühle dient heute als Museum und informiert über die lokale Industriegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        6.90534,
+                        58.289526
+                  ]
+            },
+            {
+                  "name": "Nonskarknuten",
+                  "text": "Vom Gipfel dieses Aussichtspunkts genießt man eine herrliche Sicht auf die umliegenden Berge und Täler.",
+                  "category": "natural",
+                  "coords": [
+                        6.930995,
+                        58.315896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knebeknuten naturreservat",
+                  "text": "Ez a Kvinesdal Church közelében található természetvédelmi terület a helyi élővilágot őrzi érintetlen környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        6.923391,
+                        58.308887
+                  ]
+            },
+            {
+                  "name": "Eljestraum naturreservat",
+                  "text": "A természetvédelmi terület a régió értékes ökoszisztémáit és biológiai sokféleségét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        6.962517,
+                        58.304845
+                  ]
+            },
+            {
+                  "name": "Kvinesdal kulturhus",
+                  "text": "Ez a színház Kvinesdal Church egyik fontos kulturális központja, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.958303,
+                        58.319561
+                  ]
+            },
+            {
+                  "name": "Marcelius Førlands kunstmuseum",
+                  "text": "Ez a Kvinesdal Church-i művészeti múzeum Marcelius Førland norvég művész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.969072,
+                        58.306464
+                  ]
+            },
+            {
+                  "name": "Lister Utvandrermuseum i Kvinesdal",
+                  "text": "A múzeum a Lister régióból Amerikába irányuló norvég kivándorlás történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.962571,
+                        58.311867
+                  ]
+            },
+            {
+                  "name": "Øye mølle",
+                  "text": "Ez a történelmi malom ma múzeumként működik, és a helyi ipartörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.90534,
+                        58.289526
+                  ]
+            },
+            {
+                  "name": "Nonskarknuten",
+                  "text": "Erről a kilátópontról nagyszerű kilátás nyílik a környező hegyekre és völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        6.930995,
+                        58.315896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knebeknuten naturreservat",
+                  "text": "Această rezervație naturală de lângă Kvinesdal Church protejează flora și fauna locală în mijlocul naturii virgine.",
+                  "category": "natural",
+                  "coords": [
+                        6.923391,
+                        58.308887
+                  ]
+            },
+            {
+                  "name": "Eljestraum naturreservat",
+                  "text": "Rezervația naturală protejează ecosistemele valoroase și biodiversitatea regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        6.962517,
+                        58.304845
+                  ]
+            },
+            {
+                  "name": "Kvinesdal kulturhus",
+                  "text": "Acest teatru este un centru cultural important pentru evenimente și spectacole în Kvinesdal Church.",
+                  "category": "cultural",
+                  "coords": [
+                        6.958303,
+                        58.319561
+                  ]
+            },
+            {
+                  "name": "Marcelius Førlands kunstmuseum",
+                  "text": "Acest muzeu de artă din Kvinesdal Church expune lucrările artistului norvegian Marcelius Førland.",
+                  "category": "museum",
+                  "coords": [
+                        6.969072,
+                        58.306464
+                  ]
+            },
+            {
+                  "name": "Lister Utvandrermuseum i Kvinesdal",
+                  "text": "Muzeul documentează istoria emigrației norvegiene din regiunea Lister către America.",
+                  "category": "museum",
+                  "coords": [
+                        6.962571,
+                        58.311867
+                  ]
+            },
+            {
+                  "name": "Øye mølle",
+                  "text": "Această moară istorică servește astăzi ca muzeu și oferă informații despre istoria industrială locală.",
+                  "category": "museum",
+                  "coords": [
+                        6.90534,
+                        58.289526
+                  ]
+            },
+            {
+                  "name": "Nonskarknuten",
+                  "text": "De pe acest punct de observație se poate admira o vedere superbă asupra munților și văilor învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        6.930995,
+                        58.315896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knebeknuten naturreservat",
+                  "text": "This nature reserve near Kvinesdal Church preserves the local flora and fauna in a pristine natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        6.923391,
+                        58.308887
+                  ]
+            },
+            {
+                  "name": "Eljestraum naturreservat",
+                  "text": "The nature reserve protects the region's valuable ecosystems and biological diversity.",
+                  "category": "natural",
+                  "coords": [
+                        6.962517,
+                        58.304845
+                  ]
+            },
+            {
+                  "name": "Kvinesdal kulturhus",
+                  "text": "This theatre is a major cultural venue for events and performances in Kvinesdal Church.",
+                  "category": "cultural",
+                  "coords": [
+                        6.958303,
+                        58.319561
+                  ]
+            },
+            {
+                  "name": "Marcelius Førlands kunstmuseum",
+                  "text": "This art museum in Kvinesdal Church exhibits works by the Norwegian artist Marcelius Førland.",
+                  "category": "museum",
+                  "coords": [
+                        6.969072,
+                        58.306464
+                  ]
+            },
+            {
+                  "name": "Lister Utvandrermuseum i Kvinesdal",
+                  "text": "The museum documents the history of Norwegian emigration from the Lister region to America.",
+                  "category": "museum",
+                  "coords": [
+                        6.962571,
+                        58.311867
+                  ]
+            },
+            {
+                  "name": "Øye mølle",
+                  "text": "This historical mill now serves as a museum and provides information on local industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        6.90534,
+                        58.289526
+                  ]
+            },
+            {
+                  "name": "Nonskarknuten",
+                  "text": "From this viewpoint, visitors can enjoy a magnificent view of the surrounding mountains and valleys.",
+                  "category": "natural",
+                  "coords": [
+                        6.930995,
+                        58.315896
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NO",
     name: { de: "Kirche Kvinesdal", hu: "Kvinesdali templom", ro: "Biserica Kvinesdal", en: "Kvinesdal Church" },

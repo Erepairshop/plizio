@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const estoniaEconomicV2: POI[] = [
 
   {
-    id: "estonia-sillamae-port-economic-v2",
+    id: "estonia-sillamae-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sillamäe sadama läänemuuli tulepaak",
+                  "text": "Ein Leuchtfeuer auf der Westmole des Hafens von Sillamäe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.726167,
+                        59.423667
+                  ]
+            },
+            {
+                  "name": "Sillamäe sadama tankerikai tulepaak",
+                  "text": "Ein Navigationsfeuer am Tankerkai des Hafens von Sillamäe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.739576,
+                        59.426186
+                  ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "Ein Museum, das die Geschichte der Industriestadt Sillamäe beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Ein Denkmal zu Ehren des unbekannten Soldaten in Sillamäe.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "Das Gotteshaus der methodistischen Gemeinde in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "Eine christliche Kirche der evangelikalen Gemeinde in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "Eine katholische Kirche in Sillamäe, die den Heiligen Adalbert und Georg geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "Eine orthodoxe Kirche in Sillamäe, benannt nach der Ikone der Gottesmutter von Kasan.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sillamäe sadama läänemuuli tulepaak",
+                  "text": "Világítótorony a sillamäei kikötő nyugati mólóján.",
+                  "category": "landmark",
+                  "coords": [
+                        27.726167,
+                        59.423667
+                  ]
+            },
+            {
+                  "name": "Sillamäe sadama tankerikai tulepaak",
+                  "text": "Navigációs fény a sillamäei kikötő tartályhajó-rakpartjánál.",
+                  "category": "landmark",
+                  "coords": [
+                        27.739576,
+                        59.426186
+                  ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "Sillamäe iparvárosának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Az ismeretlen katona tiszteletére emelt emlékmű Sillamäeben.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "A sillamäei metodista gyülekezet imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "Evangéliumi keresztény gyülekezet temploma Sillamäeben.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "Szent Adalbertről és Szent Györgyről elnevezett katolikus templom Sillamäeben.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "A kazáni Istenanya-ikonról elnevezett ortodox templom Sillamäeben.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sillamäe sadama läänemuuli tulepaak",
+                  "text": "Un far situat pe digul de vest al portului Sillamäe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.726167,
+                        59.423667
+                  ]
+            },
+            {
+                  "name": "Sillamäe sadama tankerikai tulepaak",
+                  "text": "Un far de navigație situat la cheiul petrolier al portului Sillamäe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.739576,
+                        59.426186
+                  ]
+            },
+            {
+                  "name": "Sillamäe muuseum",
+                  "text": "Un muzeu care prezintă istoria orașului industrial Sillamäe.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "Un monument ridicat în onoarea soldatului necunoscut în Sillamäe.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "Lăcașul de cult al comunității metodiste din Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "O biserică creștină a comunității evanghelice din Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "O biserică catolică din Sillamäe, dedicată Sfinților Adalbert și Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "O biserică ortodoxă din Sillamäe, numită după icoana Maicii Domnului din Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sillamäe sadama läänemuuli tulepaak",
+                  "text": "A light beacon located on the west pier of Sillamäe Port.",
+                  "category": "landmark",
+                  "coords": [
+                        27.726167,
+                        59.423667
+                  ]
+            },
+            {
+                  "name": "Sillamäe sadama tankerikai tulepaak",
+                  "text": "A navigation light beacon at the tanker quay of Sillamäe Port.",
+                  "category": "landmark",
+                  "coords": [
+                        27.739576,
+                        59.426186
+                  ]
+            },
+            {
+                  "name": "Sillamäe Museum",
+                  "text": "A museum highlighting the history of the industrial town of Sillamäe.",
+                  "category": "museum",
+                  "coords": [
+                        27.760801,
+                        59.398995
+                  ]
+            },
+            {
+                  "name": "Tundmatu sõduri monument",
+                  "text": "A monument dedicated to the unknown soldier in Sillamäe.",
+                  "category": "historical",
+                  "coords": [
+                        27.774024,
+                        59.39244
+                  ]
+            },
+            {
+                  "name": "EMK Sillamäe Kogudus",
+                  "text": "The house of worship for the Methodist congregation in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.770642,
+                        59.397061
+                  ]
+            },
+            {
+                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
+                  "text": "A Christian church of the evangelical congregation in Sillamäe.",
+                  "category": "religious",
+                  "coords": [
+                        27.769277,
+                        59.395347
+                  ]
+            },
+            {
+                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
+                  "text": "A Catholic church in Sillamäe dedicated to Saints Adalbert and George.",
+                  "category": "religious",
+                  "coords": [
+                        27.764837,
+                        59.399025
+                  ]
+            },
+            {
+                  "name": "Jumalaema Kaasani pühakuju kirik",
+                  "text": "An Orthodox church in Sillamäe named after the icon of the Mother of God of Kazan.",
+                  "category": "religious",
+                  "coords": [
+                        27.757292,
+                        59.394133
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EE",
     name: { de: "Sillamäe Hafen", hu: "Sillamäe kikötő", ro: "Portul Sillamäe", en: "Sillamäe Port" },
@@ -148,6 +445,51 @@ export const estoniaEconomicV2: POI[] = [
                         24.994477,
                         59.450632
                   ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "Ein Navigationsfeuer, das als Oberfeuer für die Schifffahrt in der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "Ein Museum, das der Bewahrung der Geschichte und Kultur der lokalen Küstenschweden gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Einer der größten Findlinge Estlands, der sich in der Nähe von Maardu befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "Eine markante lokale Attraktion und Sehenswürdigkeit im Gebiet von Maardu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "Eine moderne orthodoxe Kirche, die der Gemeinde in Maardu dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
             }
       ],
       "hu": [
@@ -158,6 +500,51 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.994477,
                         59.450632
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "Navigációs jelzőfény, amely a régió hajózásának felső irányfényeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "A helyi parti svédek történelmének és kultúrájának megőrzésére szolgáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Észtország egyik legnagyobb vándorköve, amely Maardu közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "Jellegzetes helyi látnivaló és érdekesség Maardu területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "Modern ortodox templom, amely a maardui közösség hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
                   ]
             }
       ],
@@ -170,6 +557,51 @@ export const estoniaEconomicV2: POI[] = [
                         24.994477,
                         59.450632
                   ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "Un far de navigație care servește drept lumină superioară pentru navele din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Küla Muuseum",
+                  "text": "Un muzeu dedicat conservării istoriei și culturii suedezilor de coastă locali.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Unul dintre cei mai mari bolovani erratici glaciari din Estonia, situat lângă Maardu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "O atracție locală distinctivă și un punct de interes în zona Maardu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Maardu Peaingel Miikaeli kirik",
+                  "text": "O biserică ortodoxă modernă care deservește nevoile spirituale ale comunității din Maardu.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
+                  ]
             }
       ],
       "en": [
@@ -180,6 +612,51 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         24.994477,
                         59.450632
+                  ]
+            },
+            {
+                  "name": "Kallavere sihi ülemine tulepaak",
+                  "text": "A navigation beacon serving as an upper range light for ships in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.023896,
+                        59.49061
+                  ]
+            },
+            {
+                  "name": "Rootsi-Kallavere Village Museum",
+                  "text": "A museum dedicated to preserving the history and culture of the local coastal Swedes.",
+                  "category": "museum",
+                  "coords": [
+                        25.028792,
+                        59.489531
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "One of Estonia's largest glacial erratic boulders, located near Maardu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Merekarp",
+                  "text": "A distinctive local attraction and point of interest in the Maardu area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.004593,
+                        59.46289
+                  ]
+            },
+            {
+                  "name": "Church of Archangel Michael",
+                  "text": "A modern Orthodox church serving the spiritual needs of the community in Maardu.",
+                  "category": "religious",
+                  "coords": [
+                        25.021103,
+                        59.485089
                   ]
             }
       ]
@@ -750,7 +1227,304 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-tartu-science-park-v2.webp",
   },
   {
-    id: "estonia-paldiski-energy-v2",
+    id: "estonia-paldiski-energy-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Das ehemalige Atelier des estnischen Bildhauers Amandus Adamson, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Ein Leuchtfeuer an der Westmole des Nordhafens von Paldiski zur Orientierung der Schiffe.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Ein vorderes Richtfeuer im Südhafen von Paldiski zur sicheren Hafeneinfahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Ein Leuchtfeuer am Kai Nr. 1 des Nordhafens von Paldiski zur Markierung der Anlegestelle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Das obere Richtfeuer für den Südhafen von Paldiski, das Schiffen den richtigen Kurs weist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Ein spezielles Leuchtfeuer am Ölterminal des Südhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Ein Leuchtfeuer auf dem Wellenbrecher des Nordhafens von Paldiski zur Warnung vor Hindernissen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Ein allgemeines Navigationsfeuer im Bereich des Südhafens von Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Amandus Adamson észt szobrászművész egykori műterme, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Fényjelző Paldiski északi kikötőjének nyugati mólóján a hajók tájékozódásához.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Elülső irányfény Paldiski déli kikötőjében a biztonságos kikötőbe jutáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Fényjelző Paldiski északi kikötőjének 1-es számú rakpartján a kikötőhely jelzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Felső irányfény Paldiski déli kikötőjéhez, amely a hajóknak a helyes irányt mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Speciális fényjelző Paldiski déli kikötőjének olajtermináljánál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Fényjelző Paldiski északi kikötőjének hullámtörőjén az akadályokra való figyelmeztetéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Általános navigációs fényjelző Paldiski déli kikötőjének körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amandus Adamsoni ateljeemuuseum",
+                  "text": "Fostul atelier al sculptorului estonian Amandus Adamson, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "Un far pe digul de vest al portului de nord din Paldiski pentru orientarea navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
+                  "text": "Un far de direcție anterior în portul de sud din Paldiski pentru intrarea în siguranță în port.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
+                  "text": "Un far pe cheiul nr. 1 al portului de nord din Paldiski pentru marcarea danei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "Farul de direcție superior pentru portul de sud din Paldiski, care indică cursul corect navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "Un far special la terminalul petrolier din portul de sud al orașului Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "Un far pe spărgătorul de valuri al portului de nord din Paldiski pentru avertizarea asupra obstacolelor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "Un far de navigație general în zona portului de sud din Paldiski.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amandus Adamson Museum",
+                  "text": "The former studio of the Estonian sculptor Amandus Adamson, which now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.061414,
+                        59.349268
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
+                  "text": "A light beacon on the western mole of Paldiski's north harbor for ship guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        24.047567,
+                        59.349783
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadam ldg.l. front light beacon",
+                  "text": "A front leading light beacon in Paldiski's south harbor for safe port entry.",
+                  "category": "landmark",
+                  "coords": [
+                        24.093817,
+                        59.331333
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadam quay No 1 light beacon",
+                  "text": "A light beacon on quay No. 1 of Paldiski's north harbor for marking the berth.",
+                  "category": "landmark",
+                  "coords": [
+                        24.050903,
+                        59.348234
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
+                  "text": "The upper leading light beacon for Paldiski's south harbor, showing ships the correct course.",
+                  "category": "landmark",
+                  "coords": [
+                        24.098297,
+                        59.331937
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama naftakai tulepaak",
+                  "text": "A special light beacon at the oil terminal of Paldiski's south harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.079406,
+                        59.33137
+                  ]
+            },
+            {
+                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
+                  "text": "A light beacon on the breakwater of Paldiski's north harbor to warn of obstacles.",
+                  "category": "landmark",
+                  "coords": [
+                        24.036933,
+                        59.353983
+                  ]
+            },
+            {
+                  "name": "Paldiski Lõunasadama tulepaak",
+                  "text": "A general navigation light beacon in the area of Paldiski's south harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        24.073117,
+                        59.3375
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Windpark Paldiski", hu: "Paldiski szélerőműpark", ro: "Parcul eolian Paldiski", en: "Paldiski Wind Park" },
@@ -840,7 +1614,268 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-johvi-business-v2.webp",
   },
   {
-    id: "estonia-rakvere-meat-v2",
+    id: "estonia-rakvere-meat-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Wesenberg",
+                  "text": "Die Ruinen dieser mittelalterlichen Burg des Livländischen Ordens bieten historische Ausstellungen in Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "Ein Kulturzentrum in Rakvere, das dem weltberühmten Komponisten Arvo Pärt gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "Eine Adelsresidenz in Rakvere, die heute als Museum für lokale Geschichte und Kunst dient.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "Dieses Museum veranschaulicht das tägliche Leben und die traditionellen Einrichtungsstile der Bürger von Rakvere.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Ein professionelles Theater in Rakvere, das ein breites Spektrum an Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "Eine beliebte Spa- und Wasserparkanlage in Rakvere mit verschiedenen Pools und Saunen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "Ein historischer Hügel in Rakvere, der die Burgruine beherbergt und malerische Ausblicke bietet.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "A kardtestvérek rendjének középkori várromja Rakverében történelmi kiállításokkal várja a látogatókat.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "Rakverei kulturális központ, amelyet a világhírű zeneszerzőnek, Arvo Pärtnek szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "Nemesi rezidencia Rakverében, amely ma helytörténeti és művészeti múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "Ez a múzeum a rakverei polgárok mindennapi életét és hagyományos lakberendezési stílusait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Rakverei profi színház, amely előadások és kulturális események széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "Népszerű gyógyfürdő és vízi park Rakverében, amely különféle medencékkel és szaunákkal várja a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "Történelmi domb Rakverében, amelyen a várromok találhatók és szép kilátást nyújt.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "Ruinele acestui castel medieval al Ordinului Livonian oferă expoziții istorice în Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "Un centru cultural din Rakvere dedicat compozitorului de renume mondial Arvo Pärt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinderi maja",
+                  "text": "O reședință nobiliară din Rakvere, care servește acum ca muzeu de istorie locală și artă.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere linnakodaniku majamuuseum",
+                  "text": "Acest muzeu ilustrează viața de zi cu zi și stilurile interioare tradiționale ale cetățenilor din Rakvere.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "Un teatru profesionist din Rakvere care oferă o gamă largă de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "O facilitate populară de spa și parc acvatic din Rakvere, cu diverse piscine și saune.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "Un deal istoric din Rakvere care adăpostește ruinele castelului și oferă vederi pitorești.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rakvere ordulinnus",
+                  "text": "The ruins of this medieval Livonian Order castle offer historical exhibits and interactive displays in Rakvere.",
+                  "category": "castle",
+                  "coords": [
+                        26.351845,
+                        59.34774
+                  ]
+            },
+            {
+                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
+                  "text": "A music venue and cultural center in Rakvere dedicated to the world-renowned composer Arvo Pärt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.363875,
+                        59.343308
+                  ]
+            },
+            {
+                  "name": "Rehbinder's House",
+                  "text": "A noble residence in Rakvere that now serves as a museum for local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        26.354169,
+                        59.350727
+                  ]
+            },
+            {
+                  "name": "Rakvere Citizen's Home Museum",
+                  "text": "This museum illustrates the daily life and traditional interior styles of Rakvere citizens.",
+                  "category": "museum",
+                  "coords": [
+                        26.354928,
+                        59.344786
+                  ]
+            },
+            {
+                  "name": "Rakvere teater",
+                  "text": "A professional theatre in Rakvere offering a wide range of performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.349806,
+                        59.350192
+                  ]
+            },
+            {
+                  "name": "AQVA Hotel & Spa",
+                  "text": "A popular spa and water park facility in Rakvere offering various pools, saunas, and relaxation treatments.",
+                  "category": "recreational",
+                  "coords": [
+                        26.357091,
+                        59.347881
+                  ]
+            },
+            {
+                  "name": "Vallimägi",
+                  "text": "A historic hill in Rakvere that houses the ruins of the castle and serves as an archaeological and scenic site.",
+                  "category": "historical",
+                  "coords": [
+                        26.352429,
+                        59.346329
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Fleischverarbeitung Rakvere", hu: "Rakvere húsfeldolgozás", ro: "Procesarea cărnii Rakvere", en: "Rakvere Meat Processing" },
@@ -1020,7 +2055,196 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-narva-logistics-v2.webp",
   },
   {
-    id: "estonia-muuga-terminal-v2",
+    id: "estonia-muuga-terminal-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "Ein Leuchtfeuer am Kohleterminal des Hafens von Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Kabelikivi ist ein großer Findling im Dorf Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Tallinner Fernsehturm",
+                  "text": "Der Tallinner Fernsehturm ist das höchste Bauwerk Estlands und bietet eine Aussichtsplattform.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88744,
+                        59.471212
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten Tallinn",
+                  "text": "Der Botanische Garten von Tallinn beherbergt eine umfangreiche Sammlung verschiedener Pflanzenarten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.880588,
+                        59.468554
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "Die Kirche von Randvere ist ein historisches Kirchengebäude an der Küste.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "Egy jelzőfény a Muuga kikötő széntermináljánál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "A Kabelikivi egy hatalmas vándorkő Muuga falu területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Tallinni tévétorony",
+                  "text": "A Tallinni tévétorony Észtország legmagasabb építménye, kilátóval és étteremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88744,
+                        59.471212
+                  ]
+            },
+            {
+                  "name": "Tallinna Botaanikaaed",
+                  "text": "A Tallinni Botanikus Kert gazdag növénygyűjteménynek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        24.880588,
+                        59.468554
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "A randverei templom egy történelmi egyházi épület a tengerpart közelében.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "Un far situat la terminalul de cărbune al portului Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Kabelikivi este un bolovan erratic de mari dimensiuni situat în satul Muuga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Tallinna teletorn",
+                  "text": "Turnul de televiziune din Tallinn este cea mai înaltă structură din Estonia, având o platformă de observație.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88744,
+                        59.471212
+                  ]
+            },
+            {
+                  "name": "Tallinna Botaanikaaed",
+                  "text": "Grădina Botanică din Tallinn găzduiește o colecție bogată de specii de plante.",
+                  "category": "landmark",
+                  "coords": [
+                        24.880588,
+                        59.468554
+                  ]
+            },
+            {
+                  "name": "Randvere Peetri kirik",
+                  "text": "Biserica din Randvere este un edificiu religios istoric situat în apropierea coastei.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muuga söeterminali kanali tulepaak",
+                  "text": "A lighthouse beacon located at the Muuga Port coal terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.999433,
+                        59.503483
+                  ]
+            },
+            {
+                  "name": "Kabelikivi",
+                  "text": "Kabelikivi is a large erratic boulder located in Muuga village.",
+                  "category": "landmark",
+                  "coords": [
+                        24.948135,
+                        59.486929
+                  ]
+            },
+            {
+                  "name": "Tallinn TV Tower",
+                  "text": "Tallinn TV Tower is the tallest building in Estonia, featuring an observation deck.",
+                  "category": "landmark",
+                  "coords": [
+                        24.88744,
+                        59.471212
+                  ]
+            },
+            {
+                  "name": "Tallinn Botanic Garden",
+                  "text": "Tallinn Botanic Garden features a diverse collection of plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        24.880588,
+                        59.468554
+                  ]
+            },
+            {
+                  "name": "Randvere church",
+                  "text": "Randvere Church is a historical religious building located near the coast.",
+                  "category": "religious",
+                  "coords": [
+                        24.908277,
+                        59.504308
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EE",
     name: { de: "Terminal Muuga", hu: "Muuga terminál", ro: "Terminal Muuga", en: "Muuga Terminal" },

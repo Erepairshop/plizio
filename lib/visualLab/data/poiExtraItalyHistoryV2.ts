@@ -363,7 +363,304 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-palazzo-te-history-v2.webp",
   },
   {
-    id: "italy-nuraghe-su-nuraxi-history-v2",
+    id: "italy-nuraghe-su-nuraxi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polo museale casa Zapata",
+                  "text": "Ein Museum in einem Adelshaus, das über den Ruinen eines Nuraghen errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        9.000676,
+                        39.702895
+                  ]
+            },
+            {
+                  "name": "Nuraghe Bruncu Madugui",
+                  "text": "Eine archäologische Stätte auf Sardinien, die Überreste eines antiken Proto-Nuraghen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        8.997753,
+                        39.730941
+                  ]
+            },
+            {
+                  "name": "Nennimura",
+                  "text": "Eine antike archäologische Fundstelle in der Region des Nuraghen Su Nuraxi.",
+                  "category": "historical",
+                  "coords": [
+                        9.015168,
+                        39.738985
+                  ]
+            },
+            {
+                  "name": "Bau Romanu",
+                  "text": "Historische Ausgrabungsstätte auf Sardinien mit Spuren antiker Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        9.039013,
+                        39.718792
+                  ]
+            },
+            {
+                  "name": "Cala Frau",
+                  "text": "Eine archäologische Stätte, die Einblicke in die frühe Geschichte Sardiniens bietet.",
+                  "category": "historical",
+                  "coords": [
+                        8.999101,
+                        39.716678
+                  ]
+            },
+            {
+                  "name": "Bruncu Forru",
+                  "text": "Überreste einer antiken sardischen Struktur in der Nähe von Barumini.",
+                  "category": "historical",
+                  "coords": [
+                        9.004749,
+                        39.669671
+                  ]
+            },
+            {
+                  "name": "Perdu Meloni",
+                  "text": "Ein archäologischer Ort auf Sardinien, der zur Erforschung der Nuraghen-Kultur beiträgt.",
+                  "category": "historical",
+                  "coords": [
+                        8.988042,
+                        39.717014
+                  ]
+            },
+            {
+                  "name": "Bruncu de Tana",
+                  "text": "Eine weitere bedeutende prähistorische Fundstätte in der sardischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        9.037285,
+                        39.724394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polo museale casa Zapata",
+                  "text": "Nemes család egykori lakóházában berendezett múzeum, amely egy nuraghe romjai felett épült.",
+                  "category": "museum",
+                  "coords": [
+                        9.000676,
+                        39.702895
+                  ]
+            },
+            {
+                  "name": "Nuraghe Bruncu Madugui",
+                  "text": "Szardíniai régészeti lelőhely, amely egy ősi proto-nuraghe maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        8.997753,
+                        39.730941
+                  ]
+            },
+            {
+                  "name": "Nennimura",
+                  "text": "Ősi régészeti lelőhely a Su Nuraxi nuraghe közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.015168,
+                        39.738985
+                  ]
+            },
+            {
+                  "name": "Bau Romanu",
+                  "text": "Történelmi ásatási terület Szardínián, ősi települések nyomaival.",
+                  "category": "historical",
+                  "coords": [
+                        9.039013,
+                        39.718792
+                  ]
+            },
+            {
+                  "name": "Cala Frau",
+                  "text": "Régészeti lelőhely, amely betekintést nyújt Szardínia korai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        8.999101,
+                        39.716678
+                  ]
+            },
+            {
+                  "name": "Bruncu Forru",
+                  "text": "Egy ősi szardíniai építmény maradványai Barumini közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.004749,
+                        39.669671
+                  ]
+            },
+            {
+                  "name": "Perdu Meloni",
+                  "text": "Szardíniai régészeti helyszín, amely hozzájárul a nurág-kultúra megismeréséhez.",
+                  "category": "historical",
+                  "coords": [
+                        8.988042,
+                        39.717014
+                  ]
+            },
+            {
+                  "name": "Bruncu de Tana",
+                  "text": "Újabb jelentős őskori lelőhely a szardíniai tájon.",
+                  "category": "historical",
+                  "coords": [
+                        9.037285,
+                        39.724394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polo museale casa Zapata",
+                  "text": "Un muzeu situat într-o casă nobiliară, construită peste ruinele unui nuraghe.",
+                  "category": "museum",
+                  "coords": [
+                        9.000676,
+                        39.702895
+                  ]
+            },
+            {
+                  "name": "Nuraghe Bruncu Madugui",
+                  "text": "Un sit arheologic în Sardinia care prezintă rămășițele unui vechi proto-nuraghe.",
+                  "category": "historical",
+                  "coords": [
+                        8.997753,
+                        39.730941
+                  ]
+            },
+            {
+                  "name": "Nennimura",
+                  "text": "Un sit arheologic antic situat în regiunea nuraghe-ului Su Nuraxi.",
+                  "category": "historical",
+                  "coords": [
+                        9.015168,
+                        39.738985
+                  ]
+            },
+            {
+                  "name": "Bau Romanu",
+                  "text": "Sit istoric de excavare în Sardinia, cu urme ale unor așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        9.039013,
+                        39.718792
+                  ]
+            },
+            {
+                  "name": "Cala Frau",
+                  "text": "Un sit arheologic care oferă perspective asupra istoriei timpurii a Sardiniei.",
+                  "category": "historical",
+                  "coords": [
+                        8.999101,
+                        39.716678
+                  ]
+            },
+            {
+                  "name": "Bruncu Forru",
+                  "text": "Rămășițele unei structuri antice sarde în apropiere de Barumini.",
+                  "category": "historical",
+                  "coords": [
+                        9.004749,
+                        39.669671
+                  ]
+            },
+            {
+                  "name": "Perdu Meloni",
+                  "text": "Un sit arheologic din Sardinia care contribuie la studiul culturii nuragice.",
+                  "category": "historical",
+                  "coords": [
+                        8.988042,
+                        39.717014
+                  ]
+            },
+            {
+                  "name": "Bruncu de Tana",
+                  "text": "Un alt sit preistoric semnificativ situat în peisajul sard.",
+                  "category": "historical",
+                  "coords": [
+                        9.037285,
+                        39.724394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polo museale casa Zapata",
+                  "text": "A museum housed in a noble residence built over the ruins of a nuraghe.",
+                  "category": "museum",
+                  "coords": [
+                        9.000676,
+                        39.702895
+                  ]
+            },
+            {
+                  "name": "Nuraghe Bruncu Madugui",
+                  "text": "An archaeological site in Sardinia showcasing the remains of an ancient proto-nuraghe.",
+                  "category": "historical",
+                  "coords": [
+                        8.997753,
+                        39.730941
+                  ]
+            },
+            {
+                  "name": "Nennimura",
+                  "text": "An ancient archaeological site located in the region of the Su Nuraxi nuraghe.",
+                  "category": "historical",
+                  "coords": [
+                        9.015168,
+                        39.738985
+                  ]
+            },
+            {
+                  "name": "Bau Romanu",
+                  "text": "Historical excavation site in Sardinia featuring traces of ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        9.039013,
+                        39.718792
+                  ]
+            },
+            {
+                  "name": "Cala Frau",
+                  "text": "An archaeological site offering insights into the early history of Sardinia.",
+                  "category": "historical",
+                  "coords": [
+                        8.999101,
+                        39.716678
+                  ]
+            },
+            {
+                  "name": "Bruncu Forru",
+                  "text": "Remains of an ancient Sardinian structure located near Barumini.",
+                  "category": "historical",
+                  "coords": [
+                        9.004749,
+                        39.669671
+                  ]
+            },
+            {
+                  "name": "Perdu Meloni",
+                  "text": "An archaeological site in Sardinia that contributes to the study of the Nuragic culture.",
+                  "category": "historical",
+                  "coords": [
+                        8.988042,
+                        39.717014
+                  ]
+            },
+            {
+                  "name": "Bruncu de Tana",
+                  "text": "Another significant prehistoric site located in the Sardinian landscape.",
+                  "category": "historical",
+                  "coords": [
+                        9.037285,
+                        39.724394
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IT",
     name: { de: "Nuraghe Su Nuraxi", hu: "Su Nuraxi nurághe", ro: "Nuraghe Su Nuraxi", en: "Nuraghe Su Nuraxi" },
@@ -453,7 +750,196 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-teatro-di-taormina-history-v2.webp",
   },
   {
-    id: "italy-paestum-history-v2",
+    id: "italy-paestum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina ellenistica",
+                  "text": "Ein antikes hellenistisches Wasserbecken in der archäologischen Stätte von Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.003895,
+                        40.420572
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Der zentrale römische Platz der antiken Stadt Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.005406,
+                        40.421539
+                  ]
+            },
+            {
+                  "name": "Ekklesiasterion",
+                  "text": "Ein antiker Versammlungsort für Bürger in Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.006228,
+                        40.423187
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Paestum",
+                  "text": "Ein Museum, das bedeutende Funde aus Paestum, wie das Grab des Tauchers, ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.007494,
+                        40.423407
+                  ]
+            },
+            {
+                  "name": "Zweiter Tempel der Hera (auch Neptun- oder Poseidontempel genannt)",
+                  "text": "Einer der am besten erhaltenen griechischen Tempel der Welt, erbaut im dorischen Stil.",
+                  "category": "historical",
+                  "coords": [
+                        15.0054,
+                        40.41991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina ellenistica",
+                  "text": "Antik hellenisztikus víztározó medence Paestum régészeti területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.003895,
+                        40.420572
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Az ókori Paestum központi római tere.",
+                  "category": "historical",
+                  "coords": [
+                        15.005406,
+                        40.421539
+                  ]
+            },
+            {
+                  "name": "Ekklesiasterion",
+                  "text": "Az állampolgárok ókori gyülekezőhelye Paestumban.",
+                  "category": "historical",
+                  "coords": [
+                        15.006228,
+                        40.423187
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Paestum",
+                  "text": "Múzeum, amely Paestum legfontosabb leleteit, köztük a Búvár sírját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.007494,
+                        40.423407
+                  ]
+            },
+            {
+                  "name": "Tempio di Hera II - di Nettuno",
+                  "text": "A világ egyik legjobb állapotban fennmaradt dór stílusú görög temploma.",
+                  "category": "historical",
+                  "coords": [
+                        15.0054,
+                        40.41991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina ellenistica",
+                  "text": "Un bazin antic elenistic în situl arheologic Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.003895,
+                        40.420572
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Piața centrală romană a orașului antic Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.005406,
+                        40.421539
+                  ]
+            },
+            {
+                  "name": "Ekklesiasterion",
+                  "text": "Un loc de adunare antic pentru cetățeni în Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.006228,
+                        40.423187
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Paestum",
+                  "text": "Un muzeu care expune descoperiri importante din Paestum, precum Mormântul Scufundătorului.",
+                  "category": "museum",
+                  "coords": [
+                        15.007494,
+                        40.423407
+                  ]
+            },
+            {
+                  "name": "Tempio di Hera II - di Nettuno",
+                  "text": "Unul dintre cele mai bine conservate temple grecești din lume, construit în stil doric.",
+                  "category": "historical",
+                  "coords": [
+                        15.0054,
+                        40.41991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina ellenistica",
+                  "text": "An ancient Hellenistic pool in the archaeological site of Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.003895,
+                        40.420572
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "The central Roman forum of the ancient city of Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.005406,
+                        40.421539
+                  ]
+            },
+            {
+                  "name": "Ekklesiasterion",
+                  "text": "An ancient assembly hall for citizens in Paestum.",
+                  "category": "historical",
+                  "coords": [
+                        15.006228,
+                        40.423187
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Paestum",
+                  "text": "A museum displaying significant findings from Paestum, including the Tomb of the Diver.",
+                  "category": "museum",
+                  "coords": [
+                        15.007494,
+                        40.423407
+                  ]
+            },
+            {
+                  "name": "Second Temple of Hera (also called of Neptune or Poseidon)",
+                  "text": "One of the best-preserved Greek temples in the world, built in the Doric style.",
+                  "category": "historical",
+                  "coords": [
+                        15.0054,
+                        40.41991
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IT",
     name: { de: "Archäologische Stätte Paestum", hu: "Paestum régészeti lelőhelye", ro: "Sit arheologic Paestum", en: "Archaeological Site of Paestum" },
@@ -498,7 +984,268 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-paestum-history-v2.webp",
   },
   {
-    id: "italy-villa-adrian-history-v2",
+    id: "italy-villa-adrian-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villa di Manlio Vopisco",
+                  "text": "Die archäologischen Überreste einer antiken römischen Villa in Tivoli.",
+                  "category": "historical",
+                  "coords": [
+                        12.800062,
+                        41.965881
+                  ]
+            },
+            {
+                  "name": "Tomba della Vestale Cossinia",
+                  "text": "Ein antikes Grabmal in der Nähe der Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.803853,
+                        41.963033
+                  ]
+            },
+            {
+                  "name": "Porta Neola",
+                  "text": "Ein historisches Tor in der Nähe des archäologischen Komplexes der Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.761147,
+                        41.923496
+                  ]
+            },
+            {
+                  "name": "Nymphaeum of Paris",
+                  "text": "Ein antikes Nymphäum innerhalb des Geländes der Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.769266,
+                        41.923931
+                  ]
+            },
+            {
+                  "name": "Ruderi della Villa dei Pisoni",
+                  "text": "Überreste einer antiken römischen Villa in der Nähe der Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.789777,
+                        41.951223
+                  ]
+            },
+            {
+                  "name": "colombario di Via di Pomata a Tivoli",
+                  "text": "Eine archäologische Ausgrabungsstätte eines antiken römischen Grabmals.",
+                  "category": "historical",
+                  "coords": [
+                        12.795627,
+                        41.939629
+                  ]
+            },
+            {
+                  "name": "Antinoeion",
+                  "text": "Archäologische Stätte eines Denkmals oder Tempels zu Ehren von Antinoos.",
+                  "category": "historical",
+                  "coords": [
+                        12.773662,
+                        41.940844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa di Manlio Vopisco",
+                  "text": "Egy ókori római villa régészeti maradványai Tivoliban.",
+                  "category": "historical",
+                  "coords": [
+                        12.800062,
+                        41.965881
+                  ]
+            },
+            {
+                  "name": "Tomba della Vestale Cossinia",
+                  "text": "Ókori síremlék a Villa Adriana közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.803853,
+                        41.963033
+                  ]
+            },
+            {
+                  "name": "Porta Neola",
+                  "text": "Történelmi kapu a Villa Adriana régészeti együttesének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.761147,
+                        41.923496
+                  ]
+            },
+            {
+                  "name": "Nymphaeum of Paris",
+                  "text": "Ókori nymphaeum (szentély) a Villa Adriana területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.769266,
+                        41.923931
+                  ]
+            },
+            {
+                  "name": "Ruderi della Villa dei Pisoni",
+                  "text": "Egy ókori római villa romjai Villa Adriana közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.789777,
+                        41.951223
+                  ]
+            },
+            {
+                  "name": "colombario di Via di Pomata a Tivoli",
+                  "text": "Egy ókori római sírépítmény régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        12.795627,
+                        41.939629
+                  ]
+            },
+            {
+                  "name": "Antinoeion",
+                  "text": "Antinousz tiszteletére emelt emlékmű vagy templom régészeti helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        12.773662,
+                        41.940844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa di Manlio Vopisco",
+                  "text": "Vestigiile arheologice ale unei foste vile romane în Tivoli.",
+                  "category": "historical",
+                  "coords": [
+                        12.800062,
+                        41.965881
+                  ]
+            },
+            {
+                  "name": "Tomba della Vestale Cossinia",
+                  "text": "Un monument funerar antic situat în apropiere de Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.803853,
+                        41.963033
+                  ]
+            },
+            {
+                  "name": "Porta Neola",
+                  "text": "O poartă istorică situată lângă complexul arheologic Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.761147,
+                        41.923496
+                  ]
+            },
+            {
+                  "name": "Nymphaeum of Paris",
+                  "text": "Un nimfeu antic situat în incinta complexului Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.769266,
+                        41.923931
+                  ]
+            },
+            {
+                  "name": "Ruderi della Villa dei Pisoni",
+                  "text": "Ruinele unei foste vile romane antice de lângă Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.789777,
+                        41.951223
+                  ]
+            },
+            {
+                  "name": "colombario di Via di Pomata a Tivoli",
+                  "text": "Un sit arheologic ce cuprinde un mormânt colectiv roman antic.",
+                  "category": "historical",
+                  "coords": [
+                        12.795627,
+                        41.939629
+                  ]
+            },
+            {
+                  "name": "Antinoeion",
+                  "text": "Sit arheologic al unui monument sau templu ridicat în onoarea lui Antinous.",
+                  "category": "historical",
+                  "coords": [
+                        12.773662,
+                        41.940844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa di Manlio Vopisco",
+                  "text": "The archaeological remains of an ancient Roman villa in Tivoli.",
+                  "category": "historical",
+                  "coords": [
+                        12.800062,
+                        41.965881
+                  ]
+            },
+            {
+                  "name": "Tomba della Vestale Cossinia",
+                  "text": "An ancient funerary monument located near Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.803853,
+                        41.963033
+                  ]
+            },
+            {
+                  "name": "Porta Neola",
+                  "text": "A historical gateway located near the Villa Adriana archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        12.761147,
+                        41.923496
+                  ]
+            },
+            {
+                  "name": "Nymphaeum of Paris",
+                  "text": "An ancient nymphaeum located within the Villa Adriana grounds.",
+                  "category": "historical",
+                  "coords": [
+                        12.769266,
+                        41.923931
+                  ]
+            },
+            {
+                  "name": "Ruderi della Villa dei Pisoni",
+                  "text": "Ruins of an ancient Roman villa located near Villa Adriana.",
+                  "category": "historical",
+                  "coords": [
+                        12.789777,
+                        41.951223
+                  ]
+            },
+            {
+                  "name": "colombario di Via di Pomata a Tivoli",
+                  "text": "An archaeological site featuring an ancient Roman collective tomb.",
+                  "category": "historical",
+                  "coords": [
+                        12.795627,
+                        41.939629
+                  ]
+            },
+            {
+                  "name": "Antinoeion",
+                  "text": "Archaeological site of a monument or temple built in honor of Antinous.",
+                  "category": "historical",
+                  "coords": [
+                        12.773662,
+                        41.940844
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IT",
     name: { de: "Villa Adriana", hu: "Villa Adriana", ro: "Villa Adriana", en: "Villa Adriana" },
@@ -633,7 +1380,52 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-palazzo-ducale-urbino-history-v2.webp",
   },
   {
-    id: "italy-tratturo-di-cappadocia-history-v2",
+    id: "italy-tratturo-di-cappadocia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiesa Santa Barbara",
+                  "text": "Ein örtliches Gotteshaus, das der heiligen Barbara gewidmet ist und der nahen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        13.313458,
+                        42.033066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiesa Santa Barbara",
+                  "text": "Szent Borbálának szentelt helyi templom, amely a környékbeli közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        13.313458,
+                        42.033066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiesa Santa Barbara",
+                  "text": "Un lăcaș de cult local dedicat Sfintei Barbara, care deservește comunitatea din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        13.313458,
+                        42.033066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiesa Santa Barbara",
+                  "text": "A local place of worship dedicated to Saint Barbara, serving the nearby community.",
+                  "category": "religious",
+                  "coords": [
+                        13.313458,
+                        42.033066
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Schafsweg", hu: "Juhterelő út", ro: "Drumul oilor", en: "Sheep Trail" },
@@ -678,7 +1470,268 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-tratturo-di-cappadocia-history-v2.webp",
   },
   {
-    id: "italy-valle-di-susa-fort-history-v2",
+    id: "italy-valle-di-susa-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte delle Valli",
+                  "text": "Ein Teil der umfangreichen Befestigungsanlage von Fenestrelle.",
+                  "category": "castle",
+                  "coords": [
+                        7.067559,
+                        45.037497
+                  ]
+            },
+            {
+                  "name": "Forte di Fenestrelle",
+                  "text": "Die größte Alpenfestung Europas, bekannt als die 'Große Mauer der Alpen'.",
+                  "category": "fortress",
+                  "coords": [
+                        7.06135,
+                        45.029785
+                  ]
+            },
+            {
+                  "name": "Ridotta d'Andourn",
+                  "text": "Eine Verteidigungsanlage, die zum Festungskomplex von Fenestrelle gehört.",
+                  "category": "fortress",
+                  "coords": [
+                        7.040547,
+                        45.029362
+                  ]
+            },
+            {
+                  "name": "Ridotta Santa Barbara",
+                  "text": "Eine historische Redoute innerhalb der Festungsanlagen von Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.064518,
+                        45.032616
+                  ]
+            },
+            {
+                  "name": "Forte Serre Marie",
+                  "text": "Ein Festungsbauwerk in den italienischen Alpen als Teil von Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.048401,
+                        45.049199
+                  ]
+            },
+            {
+                  "name": "Corpo di Guardia Falouel",
+                  "text": "Ein historisches Wachgebäude innerhalb des Festungssystems von Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.052092,
+                        45.051424
+                  ]
+            },
+            {
+                  "name": "Ridotta Carlo Alberto",
+                  "text": "Ein nach König Karl Albert benanntes Verteidigungswerk in Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.056022,
+                        45.029148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte delle Valli",
+                  "text": "A kiterjedt fenestrellei erődrendszer egyik része.",
+                  "category": "castle",
+                  "coords": [
+                        7.067559,
+                        45.037497
+                  ]
+            },
+            {
+                  "name": "Forte di Fenestrelle",
+                  "text": "Európa legnagyobb alpesi erődítménye, amelyet az 'Alpok nagy falaként' ismernek.",
+                  "category": "fortress",
+                  "coords": [
+                        7.06135,
+                        45.029785
+                  ]
+            },
+            {
+                  "name": "Ridotta d'Andourn",
+                  "text": "A fenestrellei erődrendszerhez tartozó védelmi építmény.",
+                  "category": "fortress",
+                  "coords": [
+                        7.040547,
+                        45.029362
+                  ]
+            },
+            {
+                  "name": "Ridotta Santa Barbara",
+                  "text": "Történelmi sáncerőd a fenestrellei erődítményeken belül.",
+                  "category": "fortress",
+                  "coords": [
+                        7.064518,
+                        45.032616
+                  ]
+            },
+            {
+                  "name": "Forte Serre Marie",
+                  "text": "Erődítmény az olasz Alpokban, Fenestrelle részeként.",
+                  "category": "fortress",
+                  "coords": [
+                        7.048401,
+                        45.049199
+                  ]
+            },
+            {
+                  "name": "Corpo di Guardia Falouel",
+                  "text": "Történelmi őrépület a fenestrellei erődrendszerben.",
+                  "category": "fortress",
+                  "coords": [
+                        7.052092,
+                        45.051424
+                  ]
+            },
+            {
+                  "name": "Ridotta Carlo Alberto",
+                  "text": "Károly Albert királyról elnevezett védmű Fenestrelle-ben.",
+                  "category": "fortress",
+                  "coords": [
+                        7.056022,
+                        45.029148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte delle Valli",
+                  "text": "O parte a vastului complex de fortificații de la Fenestrelle.",
+                  "category": "castle",
+                  "coords": [
+                        7.067559,
+                        45.037497
+                  ]
+            },
+            {
+                  "name": "Forte di Fenestrelle",
+                  "text": "Cea mai mare fortăreață alpină din Europa, cunoscută sub numele de 'Marele Zid al Alpilor'.",
+                  "category": "fortress",
+                  "coords": [
+                        7.06135,
+                        45.029785
+                  ]
+            },
+            {
+                  "name": "Ridotta d'Andourn",
+                  "text": "O structură defensivă care aparține complexului fortificat Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.040547,
+                        45.029362
+                  ]
+            },
+            {
+                  "name": "Ridotta Santa Barbara",
+                  "text": "O redută istorică în cadrul fortificațiilor de la Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.064518,
+                        45.032616
+                  ]
+            },
+            {
+                  "name": "Forte Serre Marie",
+                  "text": "O structură fortificată în Alpii italieni, ca parte a complexului Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.048401,
+                        45.049199
+                  ]
+            },
+            {
+                  "name": "Corpo di Guardia Falouel",
+                  "text": "O clădire istorică a gărzii în cadrul sistemului de fortificații Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.052092,
+                        45.051424
+                  ]
+            },
+            {
+                  "name": "Ridotta Carlo Alberto",
+                  "text": "O structură defensivă numită după regele Carlo Alberto, în Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.056022,
+                        45.029148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte delle Valli",
+                  "text": "A part of the extensive Fenestrelle fortification complex.",
+                  "category": "castle",
+                  "coords": [
+                        7.067559,
+                        45.037497
+                  ]
+            },
+            {
+                  "name": "Forte di Fenestrelle",
+                  "text": "The largest alpine fortress in Europe, known as the 'Great Wall of the Alps'.",
+                  "category": "fortress",
+                  "coords": [
+                        7.06135,
+                        45.029785
+                  ]
+            },
+            {
+                  "name": "Ridotta d'Andourn",
+                  "text": "A defensive structure belonging to the Fenestrelle fortification complex.",
+                  "category": "fortress",
+                  "coords": [
+                        7.040547,
+                        45.029362
+                  ]
+            },
+            {
+                  "name": "Ridotta Santa Barbara",
+                  "text": "A historic redoubt within the Fenestrelle fortress fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        7.064518,
+                        45.032616
+                  ]
+            },
+            {
+                  "name": "Forte Serre Marie",
+                  "text": "A fortified structure in the Italian Alps, part of the Fenestrelle complex.",
+                  "category": "fortress",
+                  "coords": [
+                        7.048401,
+                        45.049199
+                  ]
+            },
+            {
+                  "name": "Corpo di Guardia Falouel",
+                  "text": "A historic guard building within the Fenestrelle fortress system.",
+                  "category": "fortress",
+                  "coords": [
+                        7.052092,
+                        45.051424
+                  ]
+            },
+            {
+                  "name": "Ridotta Carlo Alberto",
+                  "text": "A defensive work named after King Charles Albert in Fenestrelle.",
+                  "category": "fortress",
+                  "coords": [
+                        7.056022,
+                        45.029148
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IT",
     name: { de: "Festung Fenestrelle", hu: "Fenestrelle erőd", ro: "Fortăreața Fenestrelle", en: "Fenestrelle Fortress" },
@@ -723,7 +1776,304 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-valle-di-susa-fort-history-v2.webp",
   },
   {
-    id: "italy-grotta-di-nettuno-history-v2",
+    id: "italy-grotta-di-nettuno-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sant'Imbenia villa romana",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte einer römischen Villa an der Küste Sardiniens.",
+                  "category": "historical",
+                  "coords": [
+                        8.1896,
+                        40.61665
+                  ]
+            },
+            {
+                  "name": "Nuraghe Carradore",
+                  "text": "Die Überreste eines prähistorischen Turmbaus der Nuraghen-Kultur auf Sardinien.",
+                  "category": "historical",
+                  "coords": [
+                        8.181295,
+                        40.618853
+                  ]
+            },
+            {
+                  "name": "Nuraghe Barualdu",
+                  "text": "Eine antike archäologische Stätte der Nuraghen-Zivilisation in der Nähe des Capo Caccia.",
+                  "category": "historical",
+                  "coords": [
+                        8.16856,
+                        40.623863
+                  ]
+            },
+            {
+                  "name": "Far del Cap Caccia/Faro di Capo Caccia",
+                  "text": "Ein markanter, aktiver Leuchtturm auf den hohen Klippen des Capo Caccia bei Alghero.",
+                  "category": "landmark",
+                  "coords": [
+                        8.162803,
+                        40.560704
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria Carceraria \"G.Tomasiello\"",
+                  "text": "Ein Museum, das der Geschichte des Gefängniswesens und der Erinnerung an die Inhaftierten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.167123,
+                        40.593606
+                  ]
+            },
+            {
+                  "name": "MASE -  Museo Antoine de Saint-Exupéry",
+                  "text": "Ein Museum, das dem Leben und Werk des berühmten Autors von 'Der kleine Prinz' gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.20433,
+                        40.593655
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta Capo Caccia - Isola Piana",
+                  "text": "Ein geschütztes Meeresgebiet an der sardischen Küste, bekannt für seine Artenvielfalt und Unterwasserhöhlen.",
+                  "category": "natural",
+                  "coords": [
+                        8.181748,
+                        40.585601
+                  ]
+            },
+            {
+                  "name": "Monte Timidone",
+                  "text": "Ein Berg in der Region Capo Caccia, der Wanderwege und weite Ausblicke über das Meer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.171585,
+                        40.612424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sant'Imbenia villa romana",
+                  "text": "Egy római villa jelentős régészeti lelőhelye Szardínia partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        8.1896,
+                        40.61665
+                  ]
+            },
+            {
+                  "name": "Nuraghe Carradore",
+                  "text": "Egy őskori nuraghe építmény maradványai Szardínia szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        8.181295,
+                        40.618853
+                  ]
+            },
+            {
+                  "name": "Nuraghe Barualdu",
+                  "text": "A nuraghe civilizáció egyik ősi régészeti lelőhelye a Capo Caccia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.16856,
+                        40.623863
+                  ]
+            },
+            {
+                  "name": "Far del Cap Caccia/Faro di Capo Caccia",
+                  "text": "Jellegzetes, aktív világítótorony a Capo Caccia magas szikláin, Alghero közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.162803,
+                        40.560704
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria Carceraria \"G.Tomasiello\"",
+                  "text": "A börtönügy történetének és a foglyok emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.167123,
+                        40.593606
+                  ]
+            },
+            {
+                  "name": "MASE -  Museo Antoine de Saint-Exupéry",
+                  "text": "Múzeum, amely „A kis herceg” híres írójának életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.20433,
+                        40.593655
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta Capo Caccia - Isola Piana",
+                  "text": "Védett tengeri terület Szardínia partjainál, amely gazdag élővilágáról és víz alatti barlangjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.181748,
+                        40.585601
+                  ]
+            },
+            {
+                  "name": "Monte Timidone",
+                  "text": "Hegy a Capo Caccia régióban, amely túraútvonalakat és tengeri panorámát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.171585,
+                        40.612424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sant'Imbenia villa romana",
+                  "text": "Un sit arheologic important al unei vile romane situat pe coasta Sardiniei.",
+                  "category": "historical",
+                  "coords": [
+                        8.1896,
+                        40.61665
+                  ]
+            },
+            {
+                  "name": "Nuraghe Carradore",
+                  "text": "Rămășițele unei construcții preistorice de tip nuraghe pe insula Sardinia.",
+                  "category": "historical",
+                  "coords": [
+                        8.181295,
+                        40.618853
+                  ]
+            },
+            {
+                  "name": "Nuraghe Barualdu",
+                  "text": "Un sit arheologic antic al civilizației nuragice situat în apropiere de Capo Caccia.",
+                  "category": "historical",
+                  "coords": [
+                        8.16856,
+                        40.623863
+                  ]
+            },
+            {
+                  "name": "Far del Cap Caccia/Faro di Capo Caccia",
+                  "text": "Un far activ și impunător situat pe stâncile înalte de la Capo Caccia, lângă Alghero.",
+                  "category": "landmark",
+                  "coords": [
+                        8.162803,
+                        40.560704
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria Carceraria \"G.Tomasiello\"",
+                  "text": "Un muzeu dedicat istoriei sistemului penitenciar și memoriei celor încarcerați.",
+                  "category": "museum",
+                  "coords": [
+                        8.167123,
+                        40.593606
+                  ]
+            },
+            {
+                  "name": "MASE -  Museo Antoine de Saint-Exupéry",
+                  "text": "Un muzeu dedicat vieții și operei celebrului autor al cărții „Micul Prinț”.",
+                  "category": "museum",
+                  "coords": [
+                        8.20433,
+                        40.593655
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta Capo Caccia - Isola Piana",
+                  "text": "O arie marină protejată pe coasta Sardiniei, cunoscută pentru biodiversitate și peșteri subacvatice.",
+                  "category": "natural",
+                  "coords": [
+                        8.181748,
+                        40.585601
+                  ]
+            },
+            {
+                  "name": "Monte Timidone",
+                  "text": "Un munte în regiunea Capo Caccia, oferind trasee de drumeție și vederi extinse spre mare.",
+                  "category": "landmark",
+                  "coords": [
+                        8.171585,
+                        40.612424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sant'Imbenia villa romana",
+                  "text": "A significant archaeological site of a Roman villa located on the coast of Sardinia.",
+                  "category": "historical",
+                  "coords": [
+                        8.1896,
+                        40.61665
+                  ]
+            },
+            {
+                  "name": "Nuraghe Carradore",
+                  "text": "The remains of a prehistoric nuraghe structure on the island of Sardinia.",
+                  "category": "historical",
+                  "coords": [
+                        8.181295,
+                        40.618853
+                  ]
+            },
+            {
+                  "name": "Nuraghe Barualdu",
+                  "text": "An ancient archaeological site of the nuraghe civilization located near Capo Caccia.",
+                  "category": "historical",
+                  "coords": [
+                        8.16856,
+                        40.623863
+                  ]
+            },
+            {
+                  "name": "Far del Cap Caccia/Faro di Capo Caccia",
+                  "text": "A prominent active lighthouse situated on the high cliffs of Capo Caccia near Alghero.",
+                  "category": "landmark",
+                  "coords": [
+                        8.162803,
+                        40.560704
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria Carceraria \"G.Tomasiello\"",
+                  "text": "A museum dedicated to the history of the prison system and the memory of the incarcerated.",
+                  "category": "museum",
+                  "coords": [
+                        8.167123,
+                        40.593606
+                  ]
+            },
+            {
+                  "name": "MASE -  Museo Antoine de Saint-Exupéry",
+                  "text": "A museum dedicated to the life and work of the famous author of 'The Little Prince'.",
+                  "category": "museum",
+                  "coords": [
+                        8.20433,
+                        40.593655
+                  ]
+            },
+            {
+                  "name": "Area Marina Protetta Capo Caccia - Isola Piana",
+                  "text": "A protected marine area on the Sardinian coast, known for its biodiversity and underwater caves.",
+                  "category": "natural",
+                  "coords": [
+                        8.181748,
+                        40.585601
+                  ]
+            },
+            {
+                  "name": "Monte Timidone",
+                  "text": "A peak in the Capo Caccia region offering hiking trails and expansive views of the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        8.171585,
+                        40.612424
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Neptungrotte", hu: "Neptun-barlang", ro: "Grota lui Neptun", en: "Neptune's Grotto" },
@@ -948,7 +2298,268 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-palazzo-ducale-mantova-history-v2.webp",
   },
   {
-    id: "italy-abbazia-di-monteoliveto-history-v2",
+    id: "italy-abbazia-di-monteoliveto-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo dell'Abbazia di Monte Oliveto Maggiore",
+                  "text": "Dieses Museum in der Abtei beherbergt eine bedeutende Sammlung religiöser Kunst und historischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        11.543949,
+                        43.175397
+                  ]
+            },
+            {
+                  "name": "I Cipressi di Baccoleno",
+                  "text": "Ein berühmter Aussichtspunkt, bekannt für seine malerische Allee aus Zypressen in der toskanischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        11.589577,
+                        43.200497
+                  ]
+            },
+            {
+                  "name": "Villa dei Soli",
+                  "text": "Ein historisches Herrenhaus in der Nähe der Abtei, das die klassische Architektur der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        11.585476,
+                        43.169823
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele Arcangelo",
+                  "text": "Eine dem Erzengel Michael geweihte Kirche, die Teil des religiösen Erbes der Abtei-Umgebung ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.559059,
+                        43.175622
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna delle Grazie",
+                  "text": "Ein lokaler Ort der Verehrung, der der Madonna delle Grazie gewidmet ist und sich durch seine sakrale Architektur auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        11.557296,
+                        43.178846
+                  ]
+            },
+            {
+                  "name": "Monastero di San Nazario delle Benedettine Olivetane",
+                  "text": "Ein Kloster der Olivetaner-Benediktinerinnen, das für sein spirituelles Leben und seine ruhige Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.515398,
+                        43.163126
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Francesca Romana",
+                  "text": "Eine kleine Kapelle, die der Heiligen Francesca Romana gewidmet ist und einen Ort der Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        11.523146,
+                        43.177087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dell'Abbazia di Monte Oliveto Maggiore",
+                  "text": "Az apátság múzeuma jelentős vallási művészeti gyűjteménynek és történelmi emlékeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.543949,
+                        43.175397
+                  ]
+            },
+            {
+                  "name": "I Cipressi di Baccoleno",
+                  "text": "Híres kilátóhely, amely a toszkán táj jellegzetes ciprusfasoráról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        11.589577,
+                        43.200497
+                  ]
+            },
+            {
+                  "name": "Villa dei Soli",
+                  "text": "Történelmi kúria az apátság közelében, amely a régió klasszikus építészetét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        11.585476,
+                        43.169823
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele Arcangelo",
+                  "text": "Szent Mihály arkangyalnak szentelt templom, amely az apátság környékének vallási örökségéhez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        11.559059,
+                        43.175622
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna delle Grazie",
+                  "text": "A Madonna delle Grazie tiszteletére szentelt helyi templom, amely szakrális építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        11.557296,
+                        43.178846
+                  ]
+            },
+            {
+                  "name": "Monastero di San Nazario delle Benedettine Olivetane",
+                  "text": "Olivetán bencés apácák monostora, amely spirituális életéről és nyugodt légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.515398,
+                        43.163126
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Francesca Romana",
+                  "text": "Római Szent Franciskának szentelt kis kápolna, amely a csendes elmélyülés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        11.523146,
+                        43.177087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dell'Abbazia di Monte Oliveto Maggiore",
+                  "text": "Acest muzeu din cadrul abației găzduiește o colecție importantă de artă religioasă și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        11.543949,
+                        43.175397
+                  ]
+            },
+            {
+                  "name": "I Cipressi di Baccoleno",
+                  "text": "Un punct de belvedere faimos, cunoscut pentru aleea sa pitorească de chiparoși din peisajul toscan.",
+                  "category": "natural",
+                  "coords": [
+                        11.589577,
+                        43.200497
+                  ]
+            },
+            {
+                  "name": "Villa dei Soli",
+                  "text": "Un conac istoric situat lângă abație, reflectând arhitectura clasică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        11.585476,
+                        43.169823
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele Arcangelo",
+                  "text": "O biserică dedicată Sfântului Arhanghel Mihail, făcând parte din moștenirea religioasă a zonei abației.",
+                  "category": "religious",
+                  "coords": [
+                        11.559059,
+                        43.175622
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna delle Grazie",
+                  "text": "Un lăcaș de cult local dedicat Madonei delle Grazie, remarcabil prin arhitectura sa sacră.",
+                  "category": "religious",
+                  "coords": [
+                        11.557296,
+                        43.178846
+                  ]
+            },
+            {
+                  "name": "Monastero di San Nazario delle Benedettine Olivetane",
+                  "text": "O mănăstire a călugărițelor benedictine olivetane, cunoscută pentru viața spirituală și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.515398,
+                        43.163126
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Francesca Romana",
+                  "text": "O mică capelă dedicată Sfintei Francesca Romana, oferind un spațiu pentru reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        11.523146,
+                        43.177087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dell'Abbazia di Monte Oliveto Maggiore",
+                  "text": "This museum within the abbey houses an important collection of religious art and historical artefacts.",
+                  "category": "museum",
+                  "coords": [
+                        11.543949,
+                        43.175397
+                  ]
+            },
+            {
+                  "name": "I Cipressi di Baccoleno",
+                  "text": "A famous viewpoint known for its picturesque avenue of cypress trees in the Tuscan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.589577,
+                        43.200497
+                  ]
+            },
+            {
+                  "name": "Villa dei Soli",
+                  "text": "A historic manor located near the abbey, reflecting the classic architecture of the region.",
+                  "category": "historical",
+                  "coords": [
+                        11.585476,
+                        43.169823
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele Arcangelo",
+                  "text": "A church dedicated to Saint Michael the Archangel, part of the religious heritage of the abbey area.",
+                  "category": "religious",
+                  "coords": [
+                        11.559059,
+                        43.175622
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna delle Grazie",
+                  "text": "A local place of worship dedicated to the Madonna delle Grazie, notable for its sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.557296,
+                        43.178846
+                  ]
+            },
+            {
+                  "name": "Monastero di San Nazario delle Benedettine Olivetane",
+                  "text": "A monastery of Olivetan Benedictine nuns, known for its spiritual life and tranquil atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        11.515398,
+                        43.163126
+                  ]
+            },
+            {
+                  "name": "Cappella di Santa Francesca Romana",
+                  "text": "A small chapel dedicated to Saint Frances of Rome, providing a space for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        11.523146,
+                        43.177087
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "IT",
     name: { de: "Abtei Monte Oliveto Maggiore", hu: "Monte Oliveto Maggiore apátság", ro: "Abația Monte Oliveto Maggiore", en: "Abbey of Monte Oliveto Maggiore" },

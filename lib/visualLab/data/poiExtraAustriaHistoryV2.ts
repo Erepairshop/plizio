@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const austriaHistoryV2: POI[] = [
 
   {
-    id: "austria-burg-hardegg-history-v2",
+    id: "austria-burg-hardegg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Eine markante mittelalterliche Burganlage über dem Thayatal in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg im Nationalpark Thayatal.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Ein Museum in Hardegg, das historische Guckkästen und optische Geräte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Ein Museum, das in einem ehemaligen Zollhaus in Hardegg untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Ein öffentliches Freibad und Erholungsgebiet in Hardegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Ruine Neuhäusl",
+                  "text": "Die Ruinen einer mittelalterlichen Burganlage bei Lukov mit schöner Aussicht.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Stadt Hardegg und ihre Burg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Ein Aussichtspunkt mit schöner Aussicht in der Nähe der Burg Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Alsó-Ausztriában, a Thaya völgye felett magasodó jelentős középkori vár.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Egy középkori hegyi vár romjai a Thayatal Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Történelmi kukucskáló dobozokat és optikai eszközöket bemutató múzeum Hardeggben.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Egy korábbi vámházban kialakított múzeum Hardeggben.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Nyilvános szabadtéri úszómedence és szabadidős terület Hardeggben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Egy középkori várkomplexum romjai Lukov közelében, szép kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt Hardegg városára és várára.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Kilátópont szép kilátással a hardeggi vár közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Un castel medieval proeminent care domină valea Thaya în Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Ruinele unui castel medieval situat pe deal în Parcul Național Thayatal.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Un muzeu din Hardegg care prezintă cutii optice istorice și dispozitive vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Un muzeu găzduit într-o fostă vamă din Hardegg.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "O piscină publică în aer liber și zonă de recreere în Hardegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Ruinele unui complex de castel medieval lângă Lukov, oferind vederi pitorești.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Un punct de belvedere care oferă o panoramă asupra orașului Hardegg și a castelului său.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "Un punct de belvedere pitoresc situat în apropierea Castelului Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "A prominent medieval castle overlooking the Thaya valley in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "The ruins of a medieval hilltop castle located within the Thayatal National Park.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "A museum in Hardegg showcasing historic peep boxes and visual devices.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "A museum housed in a former customs house in Hardegg.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "A public outdoor swimming pool and recreational area in Hardegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "The ruins of a medieval castle complex near Lukov, offering scenic views.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegg vista",
+                  "text": "A viewpoint offering a panoramic outlook over the town of Hardegg and its castle.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            },
+            {
+                  "name": "Überstieg",
+                  "text": "A scenic viewpoint located in the vicinity of Hardegg Castle.",
+                  "category": "natural",
+                  "coords": [
+                        15.892108,
+                        48.843482
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Hardegg", hu: "Hardegg vára", ro: "Castelul Hardegg", en: "Hardegg Castle" },
@@ -48,7 +345,232 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-hardegg-history-v2.webp",
   },
   {
-    id: "austria-schloss-parz-history-v2",
+    id: "austria-schloss-parz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eurotherme Bad Schallerbach",
+                  "text": "Ein großes Thermalbad und Wellness-Resort in Bad Schallerbach, Oberösterreich.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917855,
+                        48.22596
+                  ]
+            },
+            {
+                  "name": "Biotop Sulzbach",
+                  "text": "Ein geschütztes Feuchtgebiet in der Nähe von Bad Schallerbach, das der Erhaltung lokaler Arten dient.",
+                  "category": "natural",
+                  "coords": [
+                        13.888509,
+                        48.199956
+                  ]
+            },
+            {
+                  "name": "Hofbühne Tegernbach",
+                  "text": "Eine Veranstaltungsstätte für Theater und Kultur in der oberösterreichischen Region.",
+                  "category": "cultural",
+                  "coords": [
+                        13.87466,
+                        48.242089
+                  ]
+            },
+            {
+                  "name": "Panoramablick Magdalenaberg",
+                  "text": "Ein Panoramapunkt am Magdalenaberg mit weitem Blick über das Alpenvorland.",
+                  "category": "natural",
+                  "coords": [
+                        13.913237,
+                        48.234006
+                  ]
+            },
+            {
+                  "name": "Römischer Meilenstein",
+                  "text": "Ein historischer römischer Meilenstein, der als archäologische Sehenswürdigkeit erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950312,
+                        48.249385
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das historische Rathaus der Gemeinde, Sitz der lokalen Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.919667,
+                        48.231673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eurotherme Bad Schallerbach",
+                  "text": "Nagy termálfürdő és wellness-központ a felső-ausztriai Bad Schallerbachban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917855,
+                        48.22596
+                  ]
+            },
+            {
+                  "name": "Biotop Sulzbach",
+                  "text": "Védett vizes élőhely Bad Schallerbach közelében a helyi élővilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        13.888509,
+                        48.199956
+                  ]
+            },
+            {
+                  "name": "Hofbühne Tegernbach",
+                  "text": "Színházi és kulturális rendezvényhelyszín a felső-ausztriai régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.87466,
+                        48.242089
+                  ]
+            },
+            {
+                  "name": "Panoramablick Magdalenaberg",
+                  "text": "Panorámás kilátópont a Magdalenabergen, kilátással az Alpokaljára.",
+                  "category": "natural",
+                  "coords": [
+                        13.913237,
+                        48.234006
+                  ]
+            },
+            {
+                  "name": "Römischer Meilenstein",
+                  "text": "Történelmi római mérföldkő, amely régészeti látványosságként maradt fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950312,
+                        48.249385
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "A település történelmi városháza, a helyi önkormányzat székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        13.919667,
+                        48.231673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eurotherme Bad Schallerbach",
+                  "text": "O stațiune termală și de wellness majoră în Bad Schallerbach, Austria Superioară.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917855,
+                        48.22596
+                  ]
+            },
+            {
+                  "name": "Biotop Sulzbach",
+                  "text": "O zonă umedă protejată lângă Bad Schallerbach, dedicată conservării speciilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        13.888509,
+                        48.199956
+                  ]
+            },
+            {
+                  "name": "Hofbühne Tegernbach",
+                  "text": "Un loc de desfășurare pentru evenimente teatrale și culturale în regiunea Austriei Superioare.",
+                  "category": "cultural",
+                  "coords": [
+                        13.87466,
+                        48.242089
+                  ]
+            },
+            {
+                  "name": "Panoramablick Magdalenaberg",
+                  "text": "Un punct panoramic pe Magdalenaberg ce oferă vederi spre dealurile prealpine.",
+                  "category": "natural",
+                  "coords": [
+                        13.913237,
+                        48.234006
+                  ]
+            },
+            {
+                  "name": "Römischer Meilenstein",
+                  "text": "O piatră miliară romană istorică, păstrată ca obiectiv arheologic.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950312,
+                        48.249385
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Primăria istorică a localității, sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.919667,
+                        48.231673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eurotherme Bad Schallerbach",
+                  "text": "A major thermal spa and wellness resort located in Bad Schallerbach, Upper Austria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917855,
+                        48.22596
+                  ]
+            },
+            {
+                  "name": "Biotop Sulzbach",
+                  "text": "A protected wetland area near Bad Schallerbach dedicated to preserving local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        13.888509,
+                        48.199956
+                  ]
+            },
+            {
+                  "name": "Hofbühne Tegernbach",
+                  "text": "A venue for theatrical and cultural events located in the Upper Austrian region.",
+                  "category": "cultural",
+                  "coords": [
+                        13.87466,
+                        48.242089
+                  ]
+            },
+            {
+                  "name": "Panoramablick Magdalenaberg",
+                  "text": "A panoramic viewpoint on Magdalenaberg offering views over the Alpine foothills.",
+                  "category": "natural",
+                  "coords": [
+                        13.913237,
+                        48.234006
+                  ]
+            },
+            {
+                  "name": "Römischer Meilenstein",
+                  "text": "A historical Roman milestone preserved as an archaeological attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950312,
+                        48.249385
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "The historical town hall of the municipality, housing the local administration.",
+                  "category": "landmark",
+                  "coords": [
+                        13.919667,
+                        48.231673
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "AT",
     name: { de: "Schloss Parz", hu: "Parz kastély", ro: "Castelul Parz", en: "Parz Castle" },
@@ -93,7 +615,304 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-parz-history-v2.webp",
   },
   {
-    id: "austria-burg-finstergruen-history-v2",
+    id: "austria-burg-finstergruen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Obermurau",
+                  "text": "Ein markantes Renaissanceschloss, das über der Stadt Murau thront.",
+                  "category": "castle",
+                  "coords": [
+                        14.16916,
+                        47.111603
+                  ]
+            },
+            {
+                  "name": "Grünfels",
+                  "text": "Eine historische Befestigung oder Burganlage in der Region Murau.",
+                  "category": "castle",
+                  "coords": [
+                        14.166415,
+                        47.107672
+                  ]
+            },
+            {
+                  "name": "St.Georgen",
+                  "text": "Ein Freizeitbad und Erholungspark in St. Georgen ob Murau.",
+                  "category": "recreational",
+                  "coords": [
+                        14.098473,
+                        47.102295
+                  ]
+            },
+            {
+                  "name": "alpakhaus.at",
+                  "text": "Ein Alpakahof in den Bergen, der Besucherführungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.126242,
+                        47.103182
+                  ]
+            },
+            {
+                  "name": "Kramerkogel",
+                  "text": "Ein Berggipfel in den österreichischen Alpen bei Murau.",
+                  "category": "landmark",
+                  "coords": [
+                        14.083854,
+                        47.129911
+                  ]
+            },
+            {
+                  "name": "Gießübeltor",
+                  "text": "Eines der historischen Stadttore der Stadt Murau.",
+                  "category": "fortress",
+                  "coords": [
+                        14.166305,
+                        47.112082
+                  ]
+            },
+            {
+                  "name": "Wener-Kapelle",
+                  "text": "Eine kleine Kapelle auf dem Gelände der Burg Finstergrün.",
+                  "category": "religious",
+                  "coords": [
+                        14.095349,
+                        47.101958
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Eine dem heiligen Leonhard geweihte Gebetsstätte in der Burg Finstergrün.",
+                  "category": "religious",
+                  "coords": [
+                        14.167959,
+                        47.10743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Obermurau",
+                  "text": "Murau városa fölé magasodó jellegzetes reneszánsz kastély.",
+                  "category": "castle",
+                  "coords": [
+                        14.16916,
+                        47.111603
+                  ]
+            },
+            {
+                  "name": "Grünfels",
+                  "text": "Történelmi erődítmény vagy várkastély Murau régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        14.166415,
+                        47.107672
+                  ]
+            },
+            {
+                  "name": "St.Georgen",
+                  "text": "Szabadidőpark és élményfürdő St. Georgen ob Murau településen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.098473,
+                        47.102295
+                  ]
+            },
+            {
+                  "name": "alpakhaus.at",
+                  "text": "Alpakafarm a hegyekben, amely látogatói túrákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.126242,
+                        47.103182
+                  ]
+            },
+            {
+                  "name": "Kramerkogel",
+                  "text": "Hegycsúcs az osztrák Alpokban, Murau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.083854,
+                        47.129911
+                  ]
+            },
+            {
+                  "name": "Gießübeltor",
+                  "text": "Murau városának egyik történelmi városkapuja.",
+                  "category": "fortress",
+                  "coords": [
+                        14.166305,
+                        47.112082
+                  ]
+            },
+            {
+                  "name": "Wener-Kapelle",
+                  "text": "Egy kis kápolna a Finstergrün-kastély területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.095349,
+                        47.101958
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Szent Leonárdnak szentelt templom a Finstergrün-kastélyban.",
+                  "category": "religious",
+                  "coords": [
+                        14.167959,
+                        47.10743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Obermurau",
+                  "text": "Un castel renascentist proeminent care domină orașul Murau.",
+                  "category": "castle",
+                  "coords": [
+                        14.16916,
+                        47.111603
+                  ]
+            },
+            {
+                  "name": "Grünfels",
+                  "text": "O fortificație istorică sau castel situat în regiunea Murau.",
+                  "category": "castle",
+                  "coords": [
+                        14.166415,
+                        47.107672
+                  ]
+            },
+            {
+                  "name": "St.Georgen",
+                  "text": "Un parc acvatic și de recreere în St. Georgen ob Murau.",
+                  "category": "recreational",
+                  "coords": [
+                        14.098473,
+                        47.102295
+                  ]
+            },
+            {
+                  "name": "alpakhaus.at",
+                  "text": "O fermă de alpaca situată în munți, care oferă tururi pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        14.126242,
+                        47.103182
+                  ]
+            },
+            {
+                  "name": "Kramerkogel",
+                  "text": "Un vârf muntos în Alpii Austrieci, lângă Murau.",
+                  "category": "landmark",
+                  "coords": [
+                        14.083854,
+                        47.129911
+                  ]
+            },
+            {
+                  "name": "Gießübeltor",
+                  "text": "Una dintre porțile istorice ale orașului Murau.",
+                  "category": "fortress",
+                  "coords": [
+                        14.166305,
+                        47.112082
+                  ]
+            },
+            {
+                  "name": "Wener-Kapelle",
+                  "text": "O mică capelă situată în incinta castelului Finstergrün.",
+                  "category": "religious",
+                  "coords": [
+                        14.095349,
+                        47.101958
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Un lăcaș de cult dedicat Sfântului Leonard, situat în castelul Finstergrün.",
+                  "category": "religious",
+                  "coords": [
+                        14.167959,
+                        47.10743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Obermurau",
+                  "text": "A prominent Renaissance castle overlooking the town of Murau.",
+                  "category": "castle",
+                  "coords": [
+                        14.16916,
+                        47.111603
+                  ]
+            },
+            {
+                  "name": "Grünfels",
+                  "text": "A historic fortification or castle situated in the Murau region.",
+                  "category": "castle",
+                  "coords": [
+                        14.166415,
+                        47.107672
+                  ]
+            },
+            {
+                  "name": "St.Georgen",
+                  "text": "A water park and recreation area in St. Georgen ob Murau.",
+                  "category": "recreational",
+                  "coords": [
+                        14.098473,
+                        47.102295
+                  ]
+            },
+            {
+                  "name": "alpakhaus.at",
+                  "text": "An alpaca farm located in the mountains offering visitor tours.",
+                  "category": "recreational",
+                  "coords": [
+                        14.126242,
+                        47.103182
+                  ]
+            },
+            {
+                  "name": "Kramerkogel",
+                  "text": "A mountain peak in the Austrian Alps near Murau.",
+                  "category": "landmark",
+                  "coords": [
+                        14.083854,
+                        47.129911
+                  ]
+            },
+            {
+                  "name": "Gießübeltor",
+                  "text": "One of the historical city gates of the town of Murau.",
+                  "category": "fortress",
+                  "coords": [
+                        14.166305,
+                        47.112082
+                  ]
+            },
+            {
+                  "name": "Wener-Kapelle",
+                  "text": "A small chapel located on the grounds of Finstergrün Castle.",
+                  "category": "religious",
+                  "coords": [
+                        14.095349,
+                        47.101958
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "A place of worship dedicated to Saint Leonard, located within Finstergrün Castle.",
+                  "category": "religious",
+                  "coords": [
+                        14.167959,
+                        47.10743
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Finstergrün", hu: "Finstergrün vára", ro: "Castelul Finstergrün", en: "Finstergrün Castle" },
@@ -138,7 +957,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-finstergruen-history-v2.webp",
   },
   {
-    id: "austria-schloss-greinburg-history-v2",
+    id: "austria-schloss-greinburg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oberösterreichisches Schifffahrtsmuseum",
+                  "text": "Museum in Schloss Greinburg zur Geschichte der Schifffahrt auf der Donau.",
+                  "category": "museum",
+                  "coords": [
+                        14.853188,
+                        48.226341
+                  ]
+            },
+            {
+                  "name": "Ruine Wörth",
+                  "text": "Überreste einer mittelalterlichen Burg auf der Donauinsel Wörth.",
+                  "category": "castle",
+                  "coords": [
+                        14.888168,
+                        48.231359
+                  ]
+            },
+            {
+                  "name": "Wörth",
+                  "text": "Naturschutzgebiet auf einer Insel in der Donau bei Grein.",
+                  "category": "natural",
+                  "coords": [
+                        14.886731,
+                        48.230376
+                  ]
+            },
+            {
+                  "name": "Burg Werfenstein",
+                  "text": "Mittelalterliche Höhenburg an der Donau im Strudengau.",
+                  "category": "castle",
+                  "coords": [
+                        14.892249,
+                        48.229836
+                  ]
+            },
+            {
+                  "name": "Groseder",
+                  "text": "Archäologische Fundstätte in der Nähe von Grein.",
+                  "category": "historical",
+                  "coords": [
+                        14.871309,
+                        48.211646
+                  ]
+            },
+            {
+                  "name": "Freibad Grein",
+                  "text": "Öffentliches Freibad mit Freizeiteinrichtungen in Grein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.847937,
+                        48.225873
+                  ]
+            },
+            {
+                  "name": "Brandstetterkogel",
+                  "text": "Ein Berg im Strudengau mit Aussichtspunkten über das Donautal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.878588,
+                        48.218791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oberösterreichisches Schifffahrtsmuseum",
+                  "text": "Felső-ausztriai hajózási múzeum a Greinburg-kastélyban, a dunai hajózás történetével.",
+                  "category": "museum",
+                  "coords": [
+                        14.853188,
+                        48.226341
+                  ]
+            },
+            {
+                  "name": "Ruine Wörth",
+                  "text": "Egy középkori vár maradványai a Duna Wörth nevű szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        14.888168,
+                        48.231359
+                  ]
+            },
+            {
+                  "name": "Wörth",
+                  "text": "Természetvédelmi terület a Duna egyik szigetén Grein közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.886731,
+                        48.230376
+                  ]
+            },
+            {
+                  "name": "Burg Werfenstein",
+                  "text": "Középkori vár a Duna mentén, a Strudengau területén.",
+                  "category": "castle",
+                  "coords": [
+                        14.892249,
+                        48.229836
+                  ]
+            },
+            {
+                  "name": "Groseder",
+                  "text": "Régészeti lelőhely Grein közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.871309,
+                        48.211646
+                  ]
+            },
+            {
+                  "name": "Freibad Grein",
+                  "text": "Nyilvános strand és szabadidős létesítmény Greinben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.847937,
+                        48.225873
+                  ]
+            },
+            {
+                  "name": "Brandstetterkogel",
+                  "text": "Hegy a Strudengau területén, kilátással a Duna völgyére.",
+                  "category": "landmark",
+                  "coords": [
+                        14.878588,
+                        48.218791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oberösterreichisches Schifffahrtsmuseum",
+                  "text": "Muzeul navigației din Austria Superioară situat în castelul Greinburg.",
+                  "category": "museum",
+                  "coords": [
+                        14.853188,
+                        48.226341
+                  ]
+            },
+            {
+                  "name": "Ruine Wörth",
+                  "text": "Vestigiile unui castel medieval situat pe insula Wörth de pe Dunăre.",
+                  "category": "castle",
+                  "coords": [
+                        14.888168,
+                        48.231359
+                  ]
+            },
+            {
+                  "name": "Wörth",
+                  "text": "Rezervație naturală pe o insulă din Dunăre, în apropiere de Grein.",
+                  "category": "natural",
+                  "coords": [
+                        14.886731,
+                        48.230376
+                  ]
+            },
+            {
+                  "name": "Burg Werfenstein",
+                  "text": "Castel medieval situat pe malul Dunării în regiunea Strudengau.",
+                  "category": "castle",
+                  "coords": [
+                        14.892249,
+                        48.229836
+                  ]
+            },
+            {
+                  "name": "Groseder",
+                  "text": "Sit arheologic situat în apropiere de Grein.",
+                  "category": "historical",
+                  "coords": [
+                        14.871309,
+                        48.211646
+                  ]
+            },
+            {
+                  "name": "Freibad Grein",
+                  "text": "Ștrand public cu facilități de agrement în Grein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.847937,
+                        48.225873
+                  ]
+            },
+            {
+                  "name": "Brandstetterkogel",
+                  "text": "Un vârf muntos în regiunea Strudengau, oferind panorame asupra văii Dunării.",
+                  "category": "landmark",
+                  "coords": [
+                        14.878588,
+                        48.218791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oberösterreichisches Schifffahrtsmuseum",
+                  "text": "Upper Austrian shipping museum located in Greinburg Castle, documenting Danube navigation.",
+                  "category": "museum",
+                  "coords": [
+                        14.853188,
+                        48.226341
+                  ]
+            },
+            {
+                  "name": "Ruine Wörth",
+                  "text": "Remains of a medieval castle located on the Danube island of Wörth.",
+                  "category": "castle",
+                  "coords": [
+                        14.888168,
+                        48.231359
+                  ]
+            },
+            {
+                  "name": "Wörth",
+                  "text": "Nature reserve located on an island in the Danube near Grein.",
+                  "category": "natural",
+                  "coords": [
+                        14.886731,
+                        48.230376
+                  ]
+            },
+            {
+                  "name": "Burg Werfenstein",
+                  "text": "Medieval hill castle overlooking the Danube in the Strudengau region.",
+                  "category": "castle",
+                  "coords": [
+                        14.892249,
+                        48.229836
+                  ]
+            },
+            {
+                  "name": "Groseder",
+                  "text": "Archaeological site located near Grein.",
+                  "category": "historical",
+                  "coords": [
+                        14.871309,
+                        48.211646
+                  ]
+            },
+            {
+                  "name": "Freibad Grein",
+                  "text": "Public outdoor swimming pool and leisure facility in Grein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.847937,
+                        48.225873
+                  ]
+            },
+            {
+                  "name": "Brandstetterkogel",
+                  "text": "A mountain in the Strudengau region offering viewpoints over the Danube valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.878588,
+                        48.218791
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Greinburg", hu: "Greinburg kastély", ro: "Castelul Greinburg", en: "Greinburg Castle" },
@@ -228,7 +1308,196 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-lockenhaus-history-v2.webp",
   },
   {
-    id: "austria-burg-tiefenbach-history-v2",
+    id: "austria-burg-tiefenbach-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unterberg",
+                  "text": "Ein markanter Gipfel in den Gutensteiner Alpen mit einer Höhe von 1342 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.819128,
+                        47.938416
+                  ]
+            },
+            {
+                  "name": "Miralucke",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe der Burgruine Tiefenbach.",
+                  "category": "landmark",
+                  "coords": [
+                        15.853236,
+                        47.935301
+                  ]
+            },
+            {
+                  "name": "Kirchwaldberg",
+                  "text": "Ein Gipfel in der niederösterreichischen Voralpenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        15.856462,
+                        47.947541
+                  ]
+            },
+            {
+                  "name": "Kieneck",
+                  "text": "Ein beliebtes Wanderziel in den Gutensteiner Alpen mit einem Gipfel auf 1106 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.874174,
+                        47.960825
+                  ]
+            },
+            {
+                  "name": "Adamstalblick",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Adamstal in der Nähe von Tiefenbach.",
+                  "category": "natural",
+                  "coords": [
+                        15.836287,
+                        47.952047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unterberg",
+                  "text": "A Gutensteini-Alpok egyik jelentős csúcsa, amely 1342 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        15.819128,
+                        47.938416
+                  ]
+            },
+            {
+                  "name": "Miralucke",
+                  "text": "Helyi látnivaló a tiefenbachi várrom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.853236,
+                        47.935301
+                  ]
+            },
+            {
+                  "name": "Kirchwaldberg",
+                  "text": "Egy hegycsúcs az alsó-ausztriai Elő-Alpok régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.856462,
+                        47.947541
+                  ]
+            },
+            {
+                  "name": "Kieneck",
+                  "text": "Népszerű túracélpont a Gutensteini-Alpokban, 1106 méteres magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.874174,
+                        47.960825
+                  ]
+            },
+            {
+                  "name": "Adamstalblick",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik az Adamstal-völgyre Tiefenbach közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.836287,
+                        47.952047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unterberg",
+                  "text": "Un vârf proeminent în Alpii Gutenstein, având o înălțime de 1342 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.819128,
+                        47.938416
+                  ]
+            },
+            {
+                  "name": "Miralucke",
+                  "text": "O atracție locală situată în apropierea ruinelor castelului Tiefenbach.",
+                  "category": "landmark",
+                  "coords": [
+                        15.853236,
+                        47.935301
+                  ]
+            },
+            {
+                  "name": "Kirchwaldberg",
+                  "text": "Un vârf montan în regiunea prealpină a Austriei Inferioare.",
+                  "category": "landmark",
+                  "coords": [
+                        15.856462,
+                        47.947541
+                  ]
+            },
+            {
+                  "name": "Kieneck",
+                  "text": "O destinație populară de drumeție în Alpii Gutenstein, cu vârful la 1106 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.874174,
+                        47.960825
+                  ]
+            },
+            {
+                  "name": "Adamstalblick",
+                  "text": "Un punct de belvedere cu vedere spre valea Adamstal, în apropiere de Tiefenbach.",
+                  "category": "natural",
+                  "coords": [
+                        15.836287,
+                        47.952047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unterberg",
+                  "text": "A prominent peak in the Gutenstein Alps with an elevation of 1342 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        15.819128,
+                        47.938416
+                  ]
+            },
+            {
+                  "name": "Miralucke",
+                  "text": "A local attraction situated near the Tiefenbach castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        15.853236,
+                        47.935301
+                  ]
+            },
+            {
+                  "name": "Kirchwaldberg",
+                  "text": "A mountain peak in the Lower Austrian Prealps region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.856462,
+                        47.947541
+                  ]
+            },
+            {
+                  "name": "Kieneck",
+                  "text": "A popular hiking destination in the Gutenstein Alps with a summit at 1106 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        15.874174,
+                        47.960825
+                  ]
+            },
+            {
+                  "name": "Adamstalblick",
+                  "text": "A viewpoint overlooking the Adamstal valley near Tiefenbach.",
+                  "category": "natural",
+                  "coords": [
+                        15.836287,
+                        47.952047
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Tiefenbach", hu: "Tiefenbach várrom", ro: "Ruinele castelului Tiefenbach", en: "Tiefenbach Castle Ruins" },
@@ -273,7 +1542,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-tiefenbach-history-v2.webp",
   },
   {
-    id: "austria-burg-griesstein-history-v2",
+    id: "austria-burg-griesstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Herrengrotte",
+                  "text": "Ein natürlicher Höhleneingang in der Nähe der Burgruine Griesstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "Ein malerischer Rastplatz und Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Ein traditionelles Wasserrad, das die historische industrielle Tätigkeit der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "Eine Besucherterrasse, die eine erhöhte Perspektive auf die historische Stätte und die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Hubmer-Gedächnisstätte",
+                  "text": "Eine Gedenkstätte für die Gebrüder Hubmer, Pioniere der lokalen Forstwirtschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        15.696198,
+                        47.763635
+                  ]
+            },
+            {
+                  "name": "Kiaser Franz Joseph-Kapelle",
+                  "text": "Eine kleine Kapelle, die Kaiser Franz Joseph I. gewidmet ist und in einer malerischen Umgebung liegt.",
+                  "category": "religious",
+                  "coords": [
+                        15.704978,
+                        47.811399
+                  ]
+            },
+            {
+                  "name": "Hubmer-Grab",
+                  "text": "Die Ruhestätte der Gebrüder Hubmer, bedeutende Persönlichkeiten in der Geschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.706419,
+                        47.768687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herrengrotte",
+                  "text": "Természetes barlangbejárat a Griesstein várrom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "Festői pihenőhely és kilátópont, amely kilátást nyújt a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Hagyományos vízikerék, amely a környék történelmi ipari tevékenységét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "Látogatói terasz, amely emelt perspektívát kínál a történelmi helyszínre és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Hubmer-Gedächnisstätte",
+                  "text": "A helyi erdőgazdálkodás úttörőinek, a Hubmer testvéreknek szentelt emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        15.696198,
+                        47.763635
+                  ]
+            },
+            {
+                  "name": "Kiaser Franz Joseph-Kapelle",
+                  "text": "I. Ferenc József császárnak szentelt kis kápolna festői környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        15.704978,
+                        47.811399
+                  ]
+            },
+            {
+                  "name": "Hubmer-Grab",
+                  "text": "A Hubmer testvérek, a régió történelmének jelentős alakjainak nyughelye.",
+                  "category": "landmark",
+                  "coords": [
+                        15.706419,
+                        47.768687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Herrengrotte",
+                  "text": "O intrare naturală într-o peșteră situată în apropierea ruinelor castelului Griesstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "O zonă de odihnă și punct de observare pitoresc care oferă panorame asupra peisajului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "O roată de apă tradițională care reflectă activitatea industrială istorică a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "O terasă pentru vizitatori care oferă o perspectivă elevată asupra sitului istoric și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Hubmer-Gedächnisstätte",
+                  "text": "Un sit memorial dedicat fraților Hubmer, pionieri ai silviculturii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        15.696198,
+                        47.763635
+                  ]
+            },
+            {
+                  "name": "Kiaser Franz Joseph-Kapelle",
+                  "text": "O mică capelă dedicată împăratului Franz Joseph I, situată într-un cadru pitoresc.",
+                  "category": "religious",
+                  "coords": [
+                        15.704978,
+                        47.811399
+                  ]
+            },
+            {
+                  "name": "Hubmer-Grab",
+                  "text": "Locul de odihnă al fraților Hubmer, figuri semnificative în istoria regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.706419,
+                        47.768687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Herrengrotte",
+                  "text": "A natural cave entrance located in the vicinity of the Griesstein castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "A scenic rest area and viewpoint offering vistas of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "A traditional water wheel reflecting the historical industrial activity of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "A visitor terrace providing an elevated perspective of the historical site and surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Hubmer-Gedächnisstätte",
+                  "text": "A memorial site dedicated to the Hubmer brothers, pioneers of local forestry.",
+                  "category": "landmark",
+                  "coords": [
+                        15.696198,
+                        47.763635
+                  ]
+            },
+            {
+                  "name": "Kiaser Franz Joseph-Kapelle",
+                  "text": "A small chapel dedicated to Emperor Franz Joseph I, located in a scenic setting.",
+                  "category": "religious",
+                  "coords": [
+                        15.704978,
+                        47.811399
+                  ]
+            },
+            {
+                  "name": "Hubmer-Grab",
+                  "text": "The resting place of the Hubmer brothers, significant figures in the region's history.",
+                  "category": "landmark",
+                  "coords": [
+                        15.706419,
+                        47.768687
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Griesstein", hu: "Griesstein várrom", ro: "Ruinele castelului Griesstein", en: "Griesstein Castle Ruins" },
@@ -318,7 +1848,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-griesstein-history-v2.webp",
   },
   {
-    id: "austria-burg-raabs-an-der-thaya-history-v2",
+    id: "austria-burg-raabs-an-der-thaya-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grenzlandmuseum",
+                  "text": "Ein Museum in Raabs an der Thaya, das die Geschichte des Grenzlandes dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.4936,
+                        48.846831
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Die Ruinen einer mittelalterlichen Befestigungsanlage in der Nähe von Raabs an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Burg Raabs",
+                  "text": "Eine beeindruckende mittelalterliche Burg, die auf einem Felsen über Raabs an der Thaya thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.490027,
+                        48.846967
+                  ]
+            },
+            {
+                  "name": "Puppen- und Spielzeugmuseum",
+                  "text": "Ein Museum in Raabs, das eine vielfältige Sammlung historischer Puppen und Spielzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.491615,
+                        48.846872
+                  ]
+            },
+            {
+                  "name": "Burg Sand",
+                  "text": "Eine archäologische Fundstätte einer ehemaligen Burg in der Umgebung von Raabs.",
+                  "category": "historical",
+                  "coords": [
+                        15.468053,
+                        48.847041
+                  ]
+            },
+            {
+                  "name": "Thayatal Vitalbad",
+                  "text": "Ein modernes Freizeitbad mit Wellnessbereich und Saunalandschaft in Raabs an der Thaya.",
+                  "category": "recreational",
+                  "coords": [
+                        15.487897,
+                        48.849231
+                  ]
+            },
+            {
+                  "name": "Der Zusammenfluss der Deutschen und Mährischen Thaya",
+                  "text": "Der malerische Ort, an dem die Deutsche und die Mährische Thaya zusammenfließen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.490468,
+                        48.847977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grenzlandmuseum",
+                  "text": "Raabs an der Thaya múzeuma, amely a határvidék történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        15.4936,
+                        48.846831
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Egy középkori erődítmény romjai Raabs an der Thaya közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Burg Raabs",
+                  "text": "Egy lenyűgöző középkori vár, amely egy sziklán trónol Raabs an der Thaya felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.490027,
+                        48.846967
+                  ]
+            },
+            {
+                  "name": "Puppen- und Spielzeugmuseum",
+                  "text": "Múzeum Raabsban, amely történelmi babák és játékok változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.491615,
+                        48.846872
+                  ]
+            },
+            {
+                  "name": "Burg Sand",
+                  "text": "Egy egykori vár régészeti lelőhelye Raabs környékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.468053,
+                        48.847041
+                  ]
+            },
+            {
+                  "name": "Thayatal Vitalbad",
+                  "text": "Modern élményfürdő wellness-részleggel és szaunavilággal Raabs an der Thayában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.487897,
+                        48.849231
+                  ]
+            },
+            {
+                  "name": "Der Zusammenfluss der Deutschen und Mährischen Thaya",
+                  "text": "A festői hely, ahol a Német- és a Morva-Thaya folyók összefolynak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.490468,
+                        48.847977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grenzlandmuseum",
+                  "text": "Un muzeu din Raabs an der Thaya care documentează istoria zonei de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        15.4936,
+                        48.846831
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Ruinele unei fortificații medievale situate lângă Raabs an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Burg Raabs",
+                  "text": "Un castel medieval impresionant, cocoțat pe o stâncă deasupra orașului Raabs an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.490027,
+                        48.846967
+                  ]
+            },
+            {
+                  "name": "Puppen- und Spielzeugmuseum",
+                  "text": "Un muzeu din Raabs care expune o colecție variată de păpuși și jucării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.491615,
+                        48.846872
+                  ]
+            },
+            {
+                  "name": "Burg Sand",
+                  "text": "Un sit arheologic al unui fost castel din împrejurimile orașului Raabs.",
+                  "category": "historical",
+                  "coords": [
+                        15.468053,
+                        48.847041
+                  ]
+            },
+            {
+                  "name": "Thayatal Vitalbad",
+                  "text": "Un centru acvatic modern cu zonă de wellness și saună în Raabs an der Thaya.",
+                  "category": "recreational",
+                  "coords": [
+                        15.487897,
+                        48.849231
+                  ]
+            },
+            {
+                  "name": "Der Zusammenfluss der Deutschen und Mährischen Thaya",
+                  "text": "Locul pitoresc unde se unesc râurile Thaya Germană și Thaya Moraviană.",
+                  "category": "landmark",
+                  "coords": [
+                        15.490468,
+                        48.847977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grenzlandmuseum",
+                  "text": "A museum in Raabs an der Thaya documenting the history of the border region.",
+                  "category": "museum",
+                  "coords": [
+                        15.4936,
+                        48.846831
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "The ruins of a medieval fortification located near Raabs an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Burg Raabs",
+                  "text": "An impressive medieval castle perched on a rock above Raabs an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.490027,
+                        48.846967
+                  ]
+            },
+            {
+                  "name": "Puppen- und Spielzeugmuseum",
+                  "text": "A museum in Raabs exhibiting a diverse collection of historical dolls and toys.",
+                  "category": "museum",
+                  "coords": [
+                        15.491615,
+                        48.846872
+                  ]
+            },
+            {
+                  "name": "Burg Sand",
+                  "text": "An archaeological site of a former castle in the surroundings of Raabs.",
+                  "category": "historical",
+                  "coords": [
+                        15.468053,
+                        48.847041
+                  ]
+            },
+            {
+                  "name": "Thayatal Vitalbad",
+                  "text": "A modern leisure pool with a wellness area and sauna in Raabs an der Thaya.",
+                  "category": "recreational",
+                  "coords": [
+                        15.487897,
+                        48.849231
+                  ]
+            },
+            {
+                  "name": "Der Zusammenfluss der Deutschen und Mährischen Thaya",
+                  "text": "The scenic spot where the German and Moravian Thaya rivers converge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.490468,
+                        48.847977
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Raabs", hu: "Raabs vára", ro: "Castelul Raabs", en: "Raabs Castle" },
@@ -453,7 +2244,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-scharfeneck-history-v2.webp",
   },
   {
-    id: "austria-burg-aggstein-history-v2",
+    id: "austria-burg-aggstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Wolfstein",
+                  "text": "Die Ruine der Burg Wolfstein ist eine mittelalterliche Wehranlage in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.434536,
+                        48.273397
+                  ]
+            },
+            {
+                  "name": "ehem. Servitenkloster Schönbühel",
+                  "text": "Ein ehemaliges Kloster des Servitenordens in Schönbühel mit barocker Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        15.377097,
+                        48.262882
+                  ]
+            },
+            {
+                  "name": "Schloss Schönbühel",
+                  "text": "Das Schloss Schönbühel thront markant auf einem Felsen direkt über der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        15.373574,
+                        48.25809
+                  ]
+            },
+            {
+                  "name": "Donabauer-Kalkofen",
+                  "text": "Ein Museum in einem historischen Kalkofen, das über die frühere Kalkgewinnung informiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.428315,
+                        48.257403
+                  ]
+            },
+            {
+                  "name": "Freibad Gerolding",
+                  "text": "Ein öffentliches Freibad in Gerolding, das sommerliche Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.421332,
+                        48.249294
+                  ]
+            },
+            {
+                  "name": "Römerbrücke Oberlanzing",
+                  "text": "Eine historische Steinbrücke in Oberlanzing, die oft als Römerbrücke bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        15.444259,
+                        48.235802
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Mauer",
+                  "text": "Diese Wallfahrtskirche ist berühmt für ihren kunstvoll geschnitzten spätgotischen Altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.42303,
+                        48.229472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Wolfstein",
+                  "text": "Wolfstein várának romjai egy középkori erődítmény maradványai Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        15.434536,
+                        48.273397
+                  ]
+            },
+            {
+                  "name": "ehem. Servitenkloster Schönbühel",
+                  "text": "A szervita rend egykori kolostora Schönbühelben, barokk építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        15.377097,
+                        48.262882
+                  ]
+            },
+            {
+                  "name": "Schloss Schönbühel",
+                  "text": "Schönbühel kastélya markánsan magasodik egy sziklán, közvetlenül a Duna felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.373574,
+                        48.25809
+                  ]
+            },
+            {
+                  "name": "Donabauer-Kalkofen",
+                  "text": "Múzeum egy történelmi mészégető kemencében, amely a mészgyártás múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.428315,
+                        48.257403
+                  ]
+            },
+            {
+                  "name": "Freibad Gerolding",
+                  "text": "Nyilvános strandfürdő Geroldingban, amely nyári kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.421332,
+                        48.249294
+                  ]
+            },
+            {
+                  "name": "Römerbrücke Oberlanzing",
+                  "text": "Történelmi kőhíd Oberlanzingban, amelyet gyakran római hídként emlegetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        15.444259,
+                        48.235802
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Mauer",
+                  "text": "Ez a zarándoktemplom híres a művészien faragott késő gótikus oltáráról.",
+                  "category": "religious",
+                  "coords": [
+                        15.42303,
+                        48.229472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Wolfstein",
+                  "text": "Ruinele cetății Wolfstein reprezintă o fortificație medievală din Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.434536,
+                        48.273397
+                  ]
+            },
+            {
+                  "name": "ehem. Servitenkloster Schönbühel",
+                  "text": "O fostă mănăstire a ordinului servit din Schönbühel, având o arhitectură barocă.",
+                  "category": "religious",
+                  "coords": [
+                        15.377097,
+                        48.262882
+                  ]
+            },
+            {
+                  "name": "Schloss Schönbühel",
+                  "text": "Castelul Schönbühel este situat spectaculos pe o stâncă direct deasupra Dunării.",
+                  "category": "castle",
+                  "coords": [
+                        15.373574,
+                        48.25809
+                  ]
+            },
+            {
+                  "name": "Donabauer-Kalkofen",
+                  "text": "Un muzeu amenajat într-un cuptor de var istoric, despre metodele vechi de producție.",
+                  "category": "museum",
+                  "coords": [
+                        15.428315,
+                        48.257403
+                  ]
+            },
+            {
+                  "name": "Freibad Gerolding",
+                  "text": "Un ștrand public în Gerolding ce oferă relaxare pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        15.421332,
+                        48.249294
+                  ]
+            },
+            {
+                  "name": "Römerbrücke Oberlanzing",
+                  "text": "Un pod istoric de piatră în Oberlanzing, adesea numit podul roman.",
+                  "category": "landmark",
+                  "coords": [
+                        15.444259,
+                        48.235802
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Mauer",
+                  "text": "Această biserică de pelerinaj este celebră pentru altarul său sculptat în stil gotic târziu.",
+                  "category": "religious",
+                  "coords": [
+                        15.42303,
+                        48.229472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Wolfstein",
+                  "text": "The ruins of Wolfstein Castle are the remains of a medieval fortification in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.434536,
+                        48.273397
+                  ]
+            },
+            {
+                  "name": "ehem. Servitenkloster Schönbühel",
+                  "text": "A former Servite monastery in Schönbühel featuring Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        15.377097,
+                        48.262882
+                  ]
+            },
+            {
+                  "name": "Schloss Schönbühel",
+                  "text": "Schönbühel Castle is strikingly situated on a rock directly above the Danube.",
+                  "category": "castle",
+                  "coords": [
+                        15.373574,
+                        48.25809
+                  ]
+            },
+            {
+                  "name": "Donabauer-Kalkofen",
+                  "text": "A museum in a historic lime kiln explaining former lime production methods.",
+                  "category": "museum",
+                  "coords": [
+                        15.428315,
+                        48.257403
+                  ]
+            },
+            {
+                  "name": "Freibad Gerolding",
+                  "text": "A public outdoor swimming pool in Gerolding providing summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.421332,
+                        48.249294
+                  ]
+            },
+            {
+                  "name": "Römerbrücke Oberlanzing",
+                  "text": "A historic stone bridge in Oberlanzing, often referred to as the Roman bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        15.444259,
+                        48.235802
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Mauer",
+                  "text": "This pilgrimage church is famous for its elaborately carved late-Gothic altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.42303,
+                        48.229472
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Aggstein", hu: "Aggstein várrom", ro: "Ruinele castelului Aggstein", en: "Aggstein Castle Ruins" },
@@ -543,7 +2595,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-pottenbrunn-history-v2.webp",
   },
   {
-    id: "austria-burg-steinegg-history-v2",
+    id: "austria-burg-steinegg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Höbarth Museum",
+                  "text": "Ein Museum mit Sammlungen zur Regionalgeschichte, Archäologie und Volkskunde.",
+                  "category": "museum",
+                  "coords": [
+                        15.661505,
+                        48.664777
+                  ]
+            },
+            {
+                  "name": "Fundzone Hofmühle",
+                  "text": "Eine archäologische Fundzone, in der bedeutende historische Funde entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        15.63058,
+                        48.63579
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenburg",
+                  "text": "Ein prächtiges Renaissanceschloss, das für seine Greifvogelvorführungen bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.634303,
+                        48.627655
+                  ]
+            },
+            {
+                  "name": "Schloss Horn",
+                  "text": "Ein historisches Schloss, das das lokale architektonische Erbe der Region repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        15.661162,
+                        48.663738
+                  ]
+            },
+            {
+                  "name": "Burgruine Ödes Schloss",
+                  "text": "Überreste einer mittelalterlichen Burgruine in der Nähe von Steinegg.",
+                  "category": "castle",
+                  "coords": [
+                        15.605405,
+                        48.629495
+                  ]
+            },
+            {
+                  "name": "Kanuclub",
+                  "text": "Eine Freizeiteinrichtung für Wassersport und Aktivitäten im Freien bei Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.636307,
+                        48.63228
+                  ]
+            },
+            {
+                  "name": "Stadtsee",
+                  "text": "Ein städtischer See bei Steinegg, der Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.654709,
+                        48.670777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Höbarth Museum",
+                  "text": "Regionális történelmi, régészeti és néprajzi gyűjteményeket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.661505,
+                        48.664777
+                  ]
+            },
+            {
+                  "name": "Fundzone Hofmühle",
+                  "text": "Régészeti lelőhely, ahol jelentős történelmi leleteket tártak fel.",
+                  "category": "historical",
+                  "coords": [
+                        15.63058,
+                        48.63579
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenburg",
+                  "text": "Nagyszabású reneszánsz kastély, amely solymászbemutatóiról híres.",
+                  "category": "castle",
+                  "coords": [
+                        15.634303,
+                        48.627655
+                  ]
+            },
+            {
+                  "name": "Schloss Horn",
+                  "text": "Történelmi kastély, amely a régió helyi építészeti örökségét képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        15.661162,
+                        48.663738
+                  ]
+            },
+            {
+                  "name": "Burgruine Ödes Schloss",
+                  "text": "Egy középkori vár romjai Steinegg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.605405,
+                        48.629495
+                  ]
+            },
+            {
+                  "name": "Kanuclub",
+                  "text": "Szabadtéri tevékenységekre és vízi sportokra alkalmas szabadidős létesítmény Steineggnél.",
+                  "category": "recreational",
+                  "coords": [
+                        15.636307,
+                        48.63228
+                  ]
+            },
+            {
+                  "name": "Stadtsee",
+                  "text": "Városi tó Steineggnél, amely kikapcsolódási és vízi szabadidős lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.654709,
+                        48.670777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Höbarth Museum",
+                  "text": "Un muzeu care cuprinde colecții de istorie regională, arheologie și folclor.",
+                  "category": "museum",
+                  "coords": [
+                        15.661505,
+                        48.664777
+                  ]
+            },
+            {
+                  "name": "Fundzone Hofmühle",
+                  "text": "Un sit arheologic unde au fost scoase la iveală descoperiri istorice semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        15.63058,
+                        48.63579
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenburg",
+                  "text": "Un mare castel renascentist faimos pentru spectacolele de șoimărit.",
+                  "category": "castle",
+                  "coords": [
+                        15.634303,
+                        48.627655
+                  ]
+            },
+            {
+                  "name": "Schloss Horn",
+                  "text": "Un castel istoric care reprezintă moștenirea arhitecturală locală a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        15.661162,
+                        48.663738
+                  ]
+            },
+            {
+                  "name": "Burgruine Ödes Schloss",
+                  "text": "Ruinele unei cetăți medievale situate lângă Steinegg.",
+                  "category": "castle",
+                  "coords": [
+                        15.605405,
+                        48.629495
+                  ]
+            },
+            {
+                  "name": "Kanuclub",
+                  "text": "O facilitate de agrement pentru sporturi nautice și activități în aer liber lângă Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.636307,
+                        48.63228
+                  ]
+            },
+            {
+                  "name": "Stadtsee",
+                  "text": "Un lac urban lângă Steinegg care oferă oportunități de recreere pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.654709,
+                        48.670777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Höbarth Museum",
+                  "text": "A museum featuring collections of regional history, archaeology, and folklore.",
+                  "category": "museum",
+                  "coords": [
+                        15.661505,
+                        48.664777
+                  ]
+            },
+            {
+                  "name": "Fundzone Hofmühle",
+                  "text": "An archaeological site where significant historical findings have been unearthed.",
+                  "category": "historical",
+                  "coords": [
+                        15.63058,
+                        48.63579
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenburg",
+                  "text": "A grand Renaissance castle famous for its falconry displays.",
+                  "category": "castle",
+                  "coords": [
+                        15.634303,
+                        48.627655
+                  ]
+            },
+            {
+                  "name": "Schloss Horn",
+                  "text": "A historic castle representing the local architectural heritage of the region.",
+                  "category": "castle",
+                  "coords": [
+                        15.661162,
+                        48.663738
+                  ]
+            },
+            {
+                  "name": "Burgruine Ödes Schloss",
+                  "text": "Ruins of a medieval castle located near Steinegg.",
+                  "category": "castle",
+                  "coords": [
+                        15.605405,
+                        48.629495
+                  ]
+            },
+            {
+                  "name": "Kanuclub",
+                  "text": "A recreational facility for water sports and outdoor activities near Steinegg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.636307,
+                        48.63228
+                  ]
+            },
+            {
+                  "name": "Stadtsee",
+                  "text": "A city lake near Steinegg offering opportunities for water-based recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.654709,
+                        48.670777
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Steinegg", hu: "Steinegg várrom", ro: "Ruinele castelului Steinegg", en: "Steinegg Castle Ruins" },
@@ -588,7 +2901,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-steinegg-history-v2.webp",
   },
   {
-    id: "austria-burg-oedenburg-history-v2",
+    id: "austria-burg-oedenburg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Falkenberg",
+                  "text": "Die Überreste einer mittelalterlichen Höhenburg im Straßertal in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.731957,
+                        48.497584
+                  ]
+            },
+            {
+                  "name": "Marienschlössl",
+                  "text": "Ein historisches Schlossgebäude in der Nähe der Burgruine Ödenburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.761135,
+                        48.497285
+                  ]
+            },
+            {
+                  "name": "Germanisches Gehöft Elsarn",
+                  "text": "Ein Freilichtmuseum, das ein germanisches Gehöft aus den ersten Jahrhunderten n. Chr. darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.745146,
+                        48.497099
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "Eine Museumsausstellung, die verschiedene in der Region gefundene Fossilien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.744988,
+                        48.512948
+                  ]
+            },
+            {
+                  "name": "Burgruine Schonenburg",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg über dem Kamptal.",
+                  "category": "castle",
+                  "coords": [
+                        15.700944,
+                        48.51338
+                  ]
+            },
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Ein klassizistisches Schlossgebäude, das von einem großen englischen Garten umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Ungermühle",
+                  "text": "Eine archäologische Stätte mit den Überresten historischer Mühlengebäude.",
+                  "category": "historical",
+                  "coords": [
+                        15.773621,
+                        48.495842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Falkenberg",
+                  "text": "Egy középkori várrom maradványai az alsó-ausztriai Straßertalban.",
+                  "category": "castle",
+                  "coords": [
+                        15.731957,
+                        48.497584
+                  ]
+            },
+            {
+                  "name": "Marienschlössl",
+                  "text": "Történelmi kastélyépület az Ödenburg várrom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.761135,
+                        48.497285
+                  ]
+            },
+            {
+                  "name": "Germanisches Gehöft Elsarn",
+                  "text": "Szabadtéri múzeum, amely egy korai germán gazdaságot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.745146,
+                        48.497099
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "A régióban talált különféle kövületeket bemutató múzeumi kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        15.744988,
+                        48.512948
+                  ]
+            },
+            {
+                  "name": "Burgruine Schonenburg",
+                  "text": "Egy középkori hegyi vár romjai a Kamp-völgy felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.700944,
+                        48.51338
+                  ]
+            },
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Klasszicista kastélyépület, amelyet egy nagy angolpark vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Ungermühle",
+                  "text": "Régészeti lelőhely történelmi malomépületek maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        15.773621,
+                        48.495842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Falkenberg",
+                  "text": "Rămășițele unei cetăți medievale ruinate din Straßertal, Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.731957,
+                        48.497584
+                  ]
+            },
+            {
+                  "name": "Marienschlössl",
+                  "text": "O clădire istorică de castel situată lângă ruinele cetății Ödenburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.761135,
+                        48.497285
+                  ]
+            },
+            {
+                  "name": "Germanisches Gehöft Elsarn",
+                  "text": "Un muzeu în aer liber care recreează o gospodărie germanică din primele secole d.Hr.",
+                  "category": "museum",
+                  "coords": [
+                        15.745146,
+                        48.497099
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "O expoziție muzeală care prezintă diverse fosile găsite în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        15.744988,
+                        48.512948
+                  ]
+            },
+            {
+                  "name": "Burgruine Schonenburg",
+                  "text": "Ruinele unui castel medieval situat pe o colină deasupra văii Kamp.",
+                  "category": "castle",
+                  "coords": [
+                        15.700944,
+                        48.51338
+                  ]
+            },
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Un castel clasicist înconjurat de un parc mare în stil englezesc.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Ungermühle",
+                  "text": "Un sit arheologic care cuprinde resturile unor structuri istorice de moară.",
+                  "category": "historical",
+                  "coords": [
+                        15.773621,
+                        48.495842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Falkenberg",
+                  "text": "The remains of a medieval hilltop castle ruin in Straßertal, Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.731957,
+                        48.497584
+                  ]
+            },
+            {
+                  "name": "Marienschlössl",
+                  "text": "A historic castle building located near the Oedenburg castle ruins.",
+                  "category": "castle",
+                  "coords": [
+                        15.761135,
+                        48.497285
+                  ]
+            },
+            {
+                  "name": "Germanisches Gehöft Elsarn",
+                  "text": "An open-air museum recreating a Germanic farmstead from the early centuries AD.",
+                  "category": "museum",
+                  "coords": [
+                        15.745146,
+                        48.497099
+                  ]
+            },
+            {
+                  "name": "Fossilienschauraum",
+                  "text": "A museum exhibition showcasing various fossils found in the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.744988,
+                        48.512948
+                  ]
+            },
+            {
+                  "name": "Burgruine Schonenburg",
+                  "text": "The ruins of a medieval hilltop castle overlooking the Kamp valley.",
+                  "category": "castle",
+                  "coords": [
+                        15.700944,
+                        48.51338
+                  ]
+            },
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "A classicist castle building surrounded by a large English-style park.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Ungermühle",
+                  "text": "An archaeological site featuring the remains of historical mill structures.",
+                  "category": "historical",
+                  "coords": [
+                        15.773621,
+                        48.495842
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Oedenburg", hu: "Ödenburg várrom", ro: "Ruinele castelului Oedenburg", en: "Oedenburg Castle Ruins" },
@@ -633,7 +3207,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-oedenburg-history-v2.webp",
   },
   {
-    id: "austria-burg-rothenstein-history-v2",
+    id: "austria-burg-rothenstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
+                  "text": "Das ehemalige Benediktinerkloster Klein-Mariazell ist eine bedeutende sakrale Anlage.",
+                  "category": "religious",
+                  "coords": [
+                        15.974171,
+                        48.036469
+                  ]
+            },
+            {
+                  "name": "Steinkreis",
+                  "text": "Dieser Steinkreis ist eine archäologische Stätte in der Nähe der Ruine Rothenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.024746,
+                        48.037499
+                  ]
+            },
+            {
+                  "name": "Kalendarium",
+                  "text": "Das Kalendarium ist eine historische archäologische Stätte in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        16.011577,
+                        48.028112
+                  ]
+            },
+            {
+                  "name": "Visurhügel",
+                  "text": "Der Visurhügel ist eine archäologische Fundstätte bei den Ruinen von Rothenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.013285,
+                        48.027436
+                  ]
+            },
+            {
+                  "name": "Ruine Schwarzenburg",
+                  "text": "Die Ruine Schwarzenburg ist eine historische Burganlage in der Nähe von Rothenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.023568,
+                        48.035905
+                  ]
+            },
+            {
+                  "name": "Mittagskogel",
+                  "text": "Der Mittagskogel ist ein Berggipfel in der hügeligen Landschaft um Rothenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.972469,
+                        48.001821
+                  ]
+            },
+            {
+                  "name": "Hocheck",
+                  "text": "Das Hocheck ist ein Wanderziel und Berggipfel in der Region Rothenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951662,
+                        47.996807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
+                  "text": "A volt Klein-Mariazell-i bencés kolostor jelentős egyházi épületegyüttes.",
+                  "category": "religious",
+                  "coords": [
+                        15.974171,
+                        48.036469
+                  ]
+            },
+            {
+                  "name": "Steinkreis",
+                  "text": "Ez a kőkör egy régészeti lelőhely a Rothenstein várrom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.024746,
+                        48.037499
+                  ]
+            },
+            {
+                  "name": "Kalendarium",
+                  "text": "A Kalendarium egy történelmi jelentőségű régészeti lelőhely a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        16.011577,
+                        48.028112
+                  ]
+            },
+            {
+                  "name": "Visurhügel",
+                  "text": "A Visurhügel egy régészeti lelőhely a rothensteini romok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.013285,
+                        48.027436
+                  ]
+            },
+            {
+                  "name": "Ruine Schwarzenburg",
+                  "text": "A Schwarzenburg romja egy történelmi várhelyszín Rothenstein közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.023568,
+                        48.035905
+                  ]
+            },
+            {
+                  "name": "Mittagskogel",
+                  "text": "A Mittagskogel egy hegycsúcs a Rothenstein környéki dombos vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        15.972469,
+                        48.001821
+                  ]
+            },
+            {
+                  "name": "Hocheck",
+                  "text": "A Hocheck egy kedvelt túracélpont és hegycsúcs Rothenstein térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951662,
+                        47.996807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
+                  "text": "Fosta mănăstire benedictină Klein-Mariazell este un complex religios important.",
+                  "category": "religious",
+                  "coords": [
+                        15.974171,
+                        48.036469
+                  ]
+            },
+            {
+                  "name": "Steinkreis",
+                  "text": "Acest cerc de piatră este un sit arheologic situat lângă ruinele castelului Rothenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.024746,
+                        48.037499
+                  ]
+            },
+            {
+                  "name": "Kalendarium",
+                  "text": "Kalendarium este un sit arheologic istoric situat în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        16.011577,
+                        48.028112
+                  ]
+            },
+            {
+                  "name": "Visurhügel",
+                  "text": "Visurhügel este un sit arheologic aflat lângă ruinele de la Rothenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.013285,
+                        48.027436
+                  ]
+            },
+            {
+                  "name": "Ruine Schwarzenburg",
+                  "text": "Ruina Schwarzenburg este o fortificație istorică situată lângă Rothenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.023568,
+                        48.035905
+                  ]
+            },
+            {
+                  "name": "Mittagskogel",
+                  "text": "Mittagskogel este un vârf montan în peisajul deluros din jurul Rothenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.972469,
+                        48.001821
+                  ]
+            },
+            {
+                  "name": "Hocheck",
+                  "text": "Hocheck este o destinație de drumeție și un vârf montan în regiunea Rothenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951662,
+                        47.996807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilika und ehem. Benediktinerkloster Klein-Mariazell",
+                  "text": "The former Benedictine monastery of Klein-Mariazell is a significant religious site.",
+                  "category": "religious",
+                  "coords": [
+                        15.974171,
+                        48.036469
+                  ]
+            },
+            {
+                  "name": "Steinkreis",
+                  "text": "This stone circle is an archaeological site located near the Rothenstein castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        16.024746,
+                        48.037499
+                  ]
+            },
+            {
+                  "name": "Kalendarium",
+                  "text": "The Kalendarium is a historical archaeological site in the region.",
+                  "category": "historical",
+                  "coords": [
+                        16.011577,
+                        48.028112
+                  ]
+            },
+            {
+                  "name": "Visurhügel",
+                  "text": "The Visurhügel is an archaeological site near the Rothenstein ruins.",
+                  "category": "historical",
+                  "coords": [
+                        16.013285,
+                        48.027436
+                  ]
+            },
+            {
+                  "name": "Ruine Schwarzenburg",
+                  "text": "The Schwarzenburg ruin is a historical castle site located near Rothenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.023568,
+                        48.035905
+                  ]
+            },
+            {
+                  "name": "Mittagskogel",
+                  "text": "The Mittagskogel is a mountain peak in the hilly landscape around Rothenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.972469,
+                        48.001821
+                  ]
+            },
+            {
+                  "name": "Hocheck",
+                  "text": "The Hocheck is a hiking destination and mountain peak in the Rothenstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.951662,
+                        47.996807
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Rothenstein", hu: "Rothenstein várrom", ro: "Ruinele castelului Rothenstein", en: "Rothenstein Castle Ruins" },
@@ -678,7 +3513,304 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-rothenstein-history-v2.webp",
   },
   {
-    id: "austria-schloss-falkenstein-history-v2",
+    id: "austria-schloss-falkenstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Poysbrunn",
+                  "text": "Ein historisches Schloss in Niederösterreich, das oft für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        16.622311,
+                        48.716658
+                  ]
+            },
+            {
+                  "name": "Ruine Falkenstein",
+                  "text": "Die imposante Ruine einer mittelalterlichen Höhenburg, die über der Ortschaft Falkenstein thront.",
+                  "category": "castle",
+                  "coords": [
+                        16.578995,
+                        48.724153
+                  ]
+            },
+            {
+                  "name": "Kellermuseum",
+                  "text": "Ein Museum in Falkenstein, das sich der traditionellen Kellerkultur und dem Weinbau widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.589887,
+                        48.719159
+                  ]
+            },
+            {
+                  "name": "Schanzboden",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe der Burgruine Falkenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.581088,
+                        48.696797
+                  ]
+            },
+            {
+                  "name": "Mariendenkmal",
+                  "text": "Ein religiöses Denkmal zu Ehren der Jungfrau Maria in Falkenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.577002,
+                        48.716093
+                  ]
+            },
+            {
+                  "name": "Höllenstein",
+                  "text": "Ein Aussichtspunkt bei den Burgruinen von Falkenstein mit weitem Blick über die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        16.585894,
+                        48.729853
+                  ]
+            },
+            {
+                  "name": "Reblaus",
+                  "text": "Eine lokale touristische Attraktion im Bereich der Burgruine Falkenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        16.588072,
+                        48.725483
+                  ]
+            },
+            {
+                  "name": "Bilderrahmen",
+                  "text": "Ein installierter Bilderrahmen als Fotopunkt für Besucher der Burgruine Falkenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        16.593859,
+                        48.718099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Poysbrunn",
+                  "text": "Történelmi kastély Alsó-Ausztriában, amely gyakran ad otthont kulturális eseményeknek.",
+                  "category": "castle",
+                  "coords": [
+                        16.622311,
+                        48.716658
+                  ]
+            },
+            {
+                  "name": "Ruine Falkenstein",
+                  "text": "Egy középkori hegyi vár impozáns romjai, amelyek Falkenstein települése fölé magasodnak.",
+                  "category": "castle",
+                  "coords": [
+                        16.578995,
+                        48.724153
+                  ]
+            },
+            {
+                  "name": "Kellermuseum",
+                  "text": "Múzeum Falkensteinben, amely a hagyományos pincék kultúrájának és a borászatnak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.589887,
+                        48.719159
+                  ]
+            },
+            {
+                  "name": "Schanzboden",
+                  "text": "Régészeti lelőhely a falkensteini várromok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.581088,
+                        48.696797
+                  ]
+            },
+            {
+                  "name": "Mariendenkmal",
+                  "text": "Szűz Mária tiszteletére emelt vallási emlékmű Falkensteinben.",
+                  "category": "historical",
+                  "coords": [
+                        16.577002,
+                        48.716093
+                  ]
+            },
+            {
+                  "name": "Höllenstein",
+                  "text": "Kilátópont a falkensteini várromoknál, ahonnan széles kilátás nyílik a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        16.585894,
+                        48.729853
+                  ]
+            },
+            {
+                  "name": "Reblaus",
+                  "text": "Helyi turisztikai látványosság a falkensteini várromok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.588072,
+                        48.725483
+                  ]
+            },
+            {
+                  "name": "Bilderrahmen",
+                  "text": "Kihelyezett képkeret, amely fotópontként szolgál a falkensteini várrom látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        16.593859,
+                        48.718099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Poysbrunn",
+                  "text": "Un castel istoric din Austria Inferioară, utilizat frecvent pentru evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        16.622311,
+                        48.716658
+                  ]
+            },
+            {
+                  "name": "Ruine Falkenstein",
+                  "text": "Ruinele impunătoare ale unui castel medieval situat pe un deal deasupra localității Falkenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.578995,
+                        48.724153
+                  ]
+            },
+            {
+                  "name": "Kellermuseum",
+                  "text": "Un muzeu din Falkenstein dedicat culturii tradiționale a pivnițelor și viticulturii.",
+                  "category": "museum",
+                  "coords": [
+                        16.589887,
+                        48.719159
+                  ]
+            },
+            {
+                  "name": "Schanzboden",
+                  "text": "Un sit arheologic situat în apropierea ruinelor castelului Falkenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.581088,
+                        48.696797
+                  ]
+            },
+            {
+                  "name": "Mariendenkmal",
+                  "text": "Un monument religios ridicat în cinstea Fecioarei Maria în Falkenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.577002,
+                        48.716093
+                  ]
+            },
+            {
+                  "name": "Höllenstein",
+                  "text": "Un punct de belvedere lângă ruinele castelului Falkenstein, oferind o vedere panoramică asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        16.585894,
+                        48.729853
+                  ]
+            },
+            {
+                  "name": "Reblaus",
+                  "text": "O atracție turistică locală în zona ruinelor castelului Falkenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        16.588072,
+                        48.725483
+                  ]
+            },
+            {
+                  "name": "Bilderrahmen",
+                  "text": "O ramă foto instalată ca punct de interes pentru vizitatorii ruinelor castelului Falkenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        16.593859,
+                        48.718099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Poysbrunn",
+                  "text": "A historic castle in Lower Austria, often used as a venue for cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        16.622311,
+                        48.716658
+                  ]
+            },
+            {
+                  "name": "Ruine Falkenstein",
+                  "text": "The impressive ruins of a medieval hill castle overlooking the village of Falkenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.578995,
+                        48.724153
+                  ]
+            },
+            {
+                  "name": "Kellermuseum",
+                  "text": "A museum in Falkenstein dedicated to traditional cellar culture and winemaking.",
+                  "category": "museum",
+                  "coords": [
+                        16.589887,
+                        48.719159
+                  ]
+            },
+            {
+                  "name": "Schanzboden",
+                  "text": "An archaeological site located near the Falkenstein castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        16.581088,
+                        48.696797
+                  ]
+            },
+            {
+                  "name": "Mariendenkmal",
+                  "text": "A religious monument dedicated to the Virgin Mary in Falkenstein.",
+                  "category": "historical",
+                  "coords": [
+                        16.577002,
+                        48.716093
+                  ]
+            },
+            {
+                  "name": "Höllenstein",
+                  "text": "A viewpoint near the Falkenstein castle ruins offering a wide view over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.585894,
+                        48.729853
+                  ]
+            },
+            {
+                  "name": "Reblaus",
+                  "text": "A local tourist attraction in the area of the Falkenstein castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        16.588072,
+                        48.725483
+                  ]
+            },
+            {
+                  "name": "Bilderrahmen",
+                  "text": "A picture frame installation serving as a photo spot for visitors at the Falkenstein castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        16.593859,
+                        48.718099
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Falkenstein", hu: "Falkenstein várrom", ro: "Ruinele castelului Falkenstein", en: "Falkenstein Castle Ruins" },
@@ -723,7 +3855,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-falkenstein-history-v2.webp",
   },
   {
-    id: "austria-burg-hard-history-v2",
+    id: "austria-burg-hard-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Südmährermuseum Laa",
+                  "text": "Ein Museum zur Geschichte und Kultur der Südmährer.",
+                  "category": "museum",
+                  "coords": [
+                        16.384087,
+                        48.721083
+                  ]
+            },
+            {
+                  "name": "Laaer Burg",
+                  "text": "Eine mittelalterliche Burg im Zentrum von Laa an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        16.386539,
+                        48.725987
+                  ]
+            },
+            {
+                  "name": "Reckturm",
+                  "text": "Ein Wehrturm, der Teil der alten Stadtbefestigung ist.",
+                  "category": "castle",
+                  "coords": [
+                        16.381646,
+                        48.724766
+                  ]
+            },
+            {
+                  "name": "Kutschenmuseum Laa/Thaya",
+                  "text": "Ein Museum, das eine Sammlung historischer Kutschen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.386288,
+                        48.719837
+                  ]
+            },
+            {
+                  "name": "Therme Laa an der Thaya",
+                  "text": "Ein modernes Thermalbad und wellnessresort.",
+                  "category": "recreational",
+                  "coords": [
+                        16.393749,
+                        48.72292
+                  ]
+            },
+            {
+                  "name": "Hanfmuseum",
+                  "text": "Ein Museum, das die Geschichte und Nutzung von Hanf zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.362936,
+                        48.701003
+                  ]
+            },
+            {
+                  "name": "Badestrand Thaya",
+                  "text": "Ein Naturbadestrand am Fluss Thaya.",
+                  "category": "recreational",
+                  "coords": [
+                        16.338532,
+                        48.734118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Südmährermuseum Laa",
+                  "text": "A dél-morvaországiak történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.384087,
+                        48.721083
+                  ]
+            },
+            {
+                  "name": "Laaer Burg",
+                  "text": "Középkori vár Laa an der Thaya központjában.",
+                  "category": "castle",
+                  "coords": [
+                        16.386539,
+                        48.725987
+                  ]
+            },
+            {
+                  "name": "Reckturm",
+                  "text": "A régi városfal részét képező védőtorony.",
+                  "category": "castle",
+                  "coords": [
+                        16.381646,
+                        48.724766
+                  ]
+            },
+            {
+                  "name": "Kutschenmuseum Laa/Thaya",
+                  "text": "Történelmi kocsik gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.386288,
+                        48.719837
+                  ]
+            },
+            {
+                  "name": "Therme Laa an der Thaya",
+                  "text": "Modern termálfürdő és wellnessközpont.",
+                  "category": "recreational",
+                  "coords": [
+                        16.393749,
+                        48.72292
+                  ]
+            },
+            {
+                  "name": "Hanfmuseum",
+                  "text": "A kender történetét és felhasználását bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.362936,
+                        48.701003
+                  ]
+            },
+            {
+                  "name": "Badestrand Thaya",
+                  "text": "Természetes strand a Thaya folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.338532,
+                        48.734118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Südmährermuseum Laa",
+                  "text": "Un muzeu dedicat istoriei și culturii moravilor de sud.",
+                  "category": "museum",
+                  "coords": [
+                        16.384087,
+                        48.721083
+                  ]
+            },
+            {
+                  "name": "Laaer Burg",
+                  "text": "Un castel medieval situat în centrul orașului Laa an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        16.386539,
+                        48.725987
+                  ]
+            },
+            {
+                  "name": "Reckturm",
+                  "text": "Un turn de apărare care face parte din vechea fortificație a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        16.381646,
+                        48.724766
+                  ]
+            },
+            {
+                  "name": "Kutschenmuseum Laa/Thaya",
+                  "text": "Un muzeu care expune o colecție de trăsuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        16.386288,
+                        48.719837
+                  ]
+            },
+            {
+                  "name": "Therme Laa an der Thaya",
+                  "text": "Un centru termal modern și resort de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        16.393749,
+                        48.72292
+                  ]
+            },
+            {
+                  "name": "Hanfmuseum",
+                  "text": "Un muzeu care prezintă istoria și utilizarea cânepii.",
+                  "category": "museum",
+                  "coords": [
+                        16.362936,
+                        48.701003
+                  ]
+            },
+            {
+                  "name": "Badestrand Thaya",
+                  "text": "O plajă naturală pe malul râului Thaya.",
+                  "category": "recreational",
+                  "coords": [
+                        16.338532,
+                        48.734118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Südmährermuseum Laa",
+                  "text": "A museum dedicated to the history and culture of South Moravians.",
+                  "category": "museum",
+                  "coords": [
+                        16.384087,
+                        48.721083
+                  ]
+            },
+            {
+                  "name": "Laaer Burg",
+                  "text": "A medieval castle located in the center of Laa an der Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        16.386539,
+                        48.725987
+                  ]
+            },
+            {
+                  "name": "Reckturm",
+                  "text": "A defensive tower that is part of the old town fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        16.381646,
+                        48.724766
+                  ]
+            },
+            {
+                  "name": "Kutschenmuseum Laa/Thaya",
+                  "text": "A museum displaying a collection of historic carriages.",
+                  "category": "museum",
+                  "coords": [
+                        16.386288,
+                        48.719837
+                  ]
+            },
+            {
+                  "name": "Therme Laa an der Thaya",
+                  "text": "A modern thermal spa and wellness resort.",
+                  "category": "recreational",
+                  "coords": [
+                        16.393749,
+                        48.72292
+                  ]
+            },
+            {
+                  "name": "Hanfmuseum",
+                  "text": "A museum showing the history and uses of hemp.",
+                  "category": "museum",
+                  "coords": [
+                        16.362936,
+                        48.701003
+                  ]
+            },
+            {
+                  "name": "Badestrand Thaya",
+                  "text": "A natural swimming beach on the banks of the Thaya river.",
+                  "category": "recreational",
+                  "coords": [
+                        16.338532,
+                        48.734118
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Hard", hu: "Hard várrom", ro: "Ruinele castelului Hard", en: "Hard Castle Ruins" },
@@ -768,7 +4161,232 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-hard-history-v2.webp",
   },
   {
-    id: "austria-schloss-staatz-history-v2",
+    id: "austria-schloss-staatz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Loosdorf",
+                  "text": "Ein klassizistisches Schloss, das für seine bedeutende Sammlung alter Keramik bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        16.449134,
+                        48.650797
+                  ]
+            },
+            {
+                  "name": "Burgruine Staatz",
+                  "text": "Die eindrucksvolle Ruine einer Felsenburg auf einer markanten Klippe über Staatz.",
+                  "category": "castle",
+                  "coords": [
+                        16.489576,
+                        48.676656
+                  ]
+            },
+            {
+                  "name": "Hanslburg",
+                  "text": "Eine künstliche Ruine aus dem 18. Jahrhundert, die als romantischer Blickfang errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        16.461309,
+                        48.645404
+                  ]
+            },
+            {
+                  "name": "Theater Winkelau",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.454638,
+                        48.645342
+                  ]
+            },
+            {
+                  "name": "Bühne",
+                  "text": "Eine Bühne für kulturelle Darbietungen im Bereich der Staatzer Burgruine.",
+                  "category": "cultural",
+                  "coords": [
+                        16.487804,
+                        48.676017
+                  ]
+            },
+            {
+                  "name": "Drechsler Museum",
+                  "text": "Ein Museum, das sich dem traditionellen Handwerk der Drechslerei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.438542,
+                        48.66794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Loosdorf",
+                  "text": "Klasszicista kastély, amely jelentős régi kerámiagyűjteményéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        16.449134,
+                        48.650797
+                  ]
+            },
+            {
+                  "name": "Burgruine Staatz",
+                  "text": "Egy sziklavár lenyűgöző romjai egy markáns sziklaszirten Staatz felett.",
+                  "category": "castle",
+                  "coords": [
+                        16.489576,
+                        48.676656
+                  ]
+            },
+            {
+                  "name": "Hanslburg",
+                  "text": "18. századi mesterséges rom, amelyet romantikus látványosságként emeltek.",
+                  "category": "castle",
+                  "coords": [
+                        16.461309,
+                        48.645404
+                  ]
+            },
+            {
+                  "name": "Theater Winkelau",
+                  "text": "Színházi előadások és kulturális események helyi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.454638,
+                        48.645342
+                  ]
+            },
+            {
+                  "name": "Bühne",
+                  "text": "Kulturális előadások színpada a staatzi várrom területén.",
+                  "category": "cultural",
+                  "coords": [
+                        16.487804,
+                        48.676017
+                  ]
+            },
+            {
+                  "name": "Drechsler Museum",
+                  "text": "A hagyományos esztergályos mesterségnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.438542,
+                        48.66794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Loosdorf",
+                  "text": "Un castel clasicist cunoscut pentru colecția sa importantă de ceramică veche.",
+                  "category": "castle",
+                  "coords": [
+                        16.449134,
+                        48.650797
+                  ]
+            },
+            {
+                  "name": "Burgruine Staatz",
+                  "text": "Ruinele impresionante ale unei cetăți de stâncă pe o colină proeminentă deasupra localității Staatz.",
+                  "category": "castle",
+                  "coords": [
+                        16.489576,
+                        48.676656
+                  ]
+            },
+            {
+                  "name": "Hanslburg",
+                  "text": "O ruină artificială din secolul al XVIII-lea, construită ca un punct de atracție romantic.",
+                  "category": "castle",
+                  "coords": [
+                        16.461309,
+                        48.645404
+                  ]
+            },
+            {
+                  "name": "Theater Winkelau",
+                  "text": "Un loc de desfășurare pentru spectacole de teatru și evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.454638,
+                        48.645342
+                  ]
+            },
+            {
+                  "name": "Bühne",
+                  "text": "O scenă pentru spectacole culturale în zona ruinelor castelului Staatz.",
+                  "category": "cultural",
+                  "coords": [
+                        16.487804,
+                        48.676017
+                  ]
+            },
+            {
+                  "name": "Drechsler Museum",
+                  "text": "Un muzeu dedicat meșteșugului tradițional al strungăritului în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        16.438542,
+                        48.66794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Loosdorf",
+                  "text": "A classicist castle known for its significant collection of antique ceramics.",
+                  "category": "castle",
+                  "coords": [
+                        16.449134,
+                        48.650797
+                  ]
+            },
+            {
+                  "name": "Burgruine Staatz",
+                  "text": "The impressive ruins of a rock fortress on a prominent cliff above Staatz.",
+                  "category": "castle",
+                  "coords": [
+                        16.489576,
+                        48.676656
+                  ]
+            },
+            {
+                  "name": "Hanslburg",
+                  "text": "An 18th-century artificial ruin built as a romantic focal point.",
+                  "category": "castle",
+                  "coords": [
+                        16.461309,
+                        48.645404
+                  ]
+            },
+            {
+                  "name": "Theater Winkelau",
+                  "text": "A local venue for theatrical performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.454638,
+                        48.645342
+                  ]
+            },
+            {
+                  "name": "Bühne",
+                  "text": "A stage for cultural performances located in the Staatz castle ruins area.",
+                  "category": "cultural",
+                  "coords": [
+                        16.487804,
+                        48.676017
+                  ]
+            },
+            {
+                  "name": "Drechsler Museum",
+                  "text": "A museum dedicated to the traditional craft of woodturning.",
+                  "category": "museum",
+                  "coords": [
+                        16.438542,
+                        48.66794
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Staatz", hu: "Staatz várrom", ro: "Ruinele castelului Staatz", en: "Staatz Castle Ruins" },
@@ -948,7 +4566,232 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-ebersdorf-history-v2.webp",
   },
   {
-    id: "austria-burg-neudegg-history-v2",
+    id: "austria-burg-neudegg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Ein stattliches Barockschloss in Niederösterreich mit einer weitläufigen Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Leeberg",
+                  "text": "Ein historischer Grabhügel in Niederösterreich, der als archäologisches Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        15.860269,
+                        48.492457
+                  ]
+            },
+            {
+                  "name": "Kreisgrabenanlage Mühlbach",
+                  "text": "Eine prähistorische Kreisgrabenanlage, die ein bedeutendes archäologisches Zeugnis der Region darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        15.792654,
+                        48.513456
+                  ]
+            },
+            {
+                  "name": "Spielberg",
+                  "text": "Ein Aussichtspunkt in der Nähe der Ruine Neudegg, der Ausblicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.864319,
+                        48.49276
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Ein dem heiligen Michael gewidmeter Sakralbau in der Nähe der Ruine Neudegg.",
+                  "category": "religious",
+                  "coords": [
+                        15.828306,
+                        48.508488
+                  ]
+            },
+            {
+                  "name": "Maria Heimsuchung",
+                  "text": "Eine Kapelle oder Kirche, die dem Fest Mariä Heimsuchung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.792105,
+                        48.529086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Impozáns barokk kastély Alsó-Ausztriában, kiterjedt parkkal.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Leeberg",
+                  "text": "Történelmi halomsír Alsó-Ausztriában, amely régészeti műemléknek számít.",
+                  "category": "historical",
+                  "coords": [
+                        15.860269,
+                        48.492457
+                  ]
+            },
+            {
+                  "name": "Kreisgrabenanlage Mühlbach",
+                  "text": "Őskori körárkos földmű, amely a régió egyik jelentős régészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        15.792654,
+                        48.513456
+                  ]
+            },
+            {
+                  "name": "Spielberg",
+                  "text": "Kilátópont a Neudegg-romok közelében, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.864319,
+                        48.49276
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Szent Mihálynak szentelt egyházi épület a Neudegg-romok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        15.828306,
+                        48.508488
+                  ]
+            },
+            {
+                  "name": "Maria Heimsuchung",
+                  "text": "Mária látogatásának tiszteletére szentelt kápolna vagy templom.",
+                  "category": "religious",
+                  "coords": [
+                        15.792105,
+                        48.529086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "Un castel baroc impunător din Austria Inferioară, cu un parc vast.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Leeberg",
+                  "text": "Un tumul istoric din Austria Inferioară, considerat monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        15.860269,
+                        48.492457
+                  ]
+            },
+            {
+                  "name": "Kreisgrabenanlage Mühlbach",
+                  "text": "O incintă circulară preistorică cu șanțuri, reprezentând un monument arheologic important al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        15.792654,
+                        48.513456
+                  ]
+            },
+            {
+                  "name": "Spielberg",
+                  "text": "Un punct de belvedere situat lângă ruinele Neudegg, oferind vederi asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.864319,
+                        48.49276
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Un lăcaș de cult dedicat Sfântului Mihail situat lângă ruinele Neudegg.",
+                  "category": "religious",
+                  "coords": [
+                        15.828306,
+                        48.508488
+                  ]
+            },
+            {
+                  "name": "Maria Heimsuchung",
+                  "text": "O capelă sau biserică dedicată Vizitei Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        15.792105,
+                        48.529086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Mühlbach",
+                  "text": "A stately Baroque castle in Lower Austria with an extensive park.",
+                  "category": "castle",
+                  "coords": [
+                        15.790342,
+                        48.518369
+                  ]
+            },
+            {
+                  "name": "Leeberg",
+                  "text": "A historical burial mound in Lower Austria, considered an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        15.860269,
+                        48.492457
+                  ]
+            },
+            {
+                  "name": "Kreisgrabenanlage Mühlbach",
+                  "text": "A prehistoric circular ditch enclosure representing a significant archaeological site of the region.",
+                  "category": "historical",
+                  "coords": [
+                        15.792654,
+                        48.513456
+                  ]
+            },
+            {
+                  "name": "Spielberg",
+                  "text": "A viewpoint located near the Neudegg ruins offering views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        15.864319,
+                        48.49276
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "A religious building dedicated to Saint Michael near the Neudegg ruins.",
+                  "category": "religious",
+                  "coords": [
+                        15.828306,
+                        48.508488
+                  ]
+            },
+            {
+                  "name": "Maria Heimsuchung",
+                  "text": "A chapel or church dedicated to the Visitation of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        15.792105,
+                        48.529086
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Neudegg", hu: "Neudegg várrom", ro: "Ruinele castelului Neudegg", en: "Neudegg Castle Ruins" },
@@ -993,7 +4836,160 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-neudegg-history-v2.webp",
   },
   {
-    id: "austria-burg-gansbach-history-v2",
+    id: "austria-burg-gansbach-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "Ein historisches Schloss in Niederösterreich, das als privater Wohnsitz dient.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Ein barockes Landschloss in der Nähe von Gansbach in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "NSG Gurhofgraben",
+                  "text": "Ein Naturschutzgebiet in Niederösterreich, das für seine lokale Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.447641,
+                        48.29213
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Gansbach",
+                  "text": "Die römisch-katholische Pfarrkirche des Ortes Gansbach in Niederösterreich.",
+                  "category": "religious",
+                  "coords": [
+                        15.471794,
+                        48.306359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "Történelmi kastély Alsó-Ausztriában, amely magánrezidenciaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Barokk vidéki kastély Gansbach közelében, Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "NSG Gurhofgraben",
+                  "text": "Természetvédelmi terület Alsó-Ausztriában, amely helyi flórájáról és faunájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.447641,
+                        48.29213
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Gansbach",
+                  "text": "Gansbach római katolikus plébániatemploma Alsó-Ausztriában.",
+                  "category": "religious",
+                  "coords": [
+                        15.471794,
+                        48.306359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "Un castel istoric din Austria Inferioară, care servește drept reședință privată.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Un castel baroc de țară situat lângă Gansbach, în Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "NSG Gurhofgraben",
+                  "text": "O rezervație naturală din Austria Inferioară, cunoscută pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        15.447641,
+                        48.29213
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Gansbach",
+                  "text": "Biserica parohială romano-catolică din localitatea Gansbach, Austria Inferioară.",
+                  "category": "religious",
+                  "coords": [
+                        15.471794,
+                        48.306359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "A historical castle in Lower Austria, serving as a private residence.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "A Baroque country castle located near Gansbach in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "NSG Gurhofgraben",
+                  "text": "A nature reserve in Lower Austria, known for its local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        15.447641,
+                        48.29213
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Gansbach",
+                  "text": "The Roman Catholic parish church of the village Gansbach in Lower Austria.",
+                  "category": "religious",
+                  "coords": [
+                        15.471794,
+                        48.306359
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Gansbach", hu: "Gansbach várrom", ro: "Ruinele castelului Gansbach", en: "Gansbach Castle Ruins" },
@@ -1083,7 +5079,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-vitis-history-v2.webp",
   },
   {
-    id: "austria-burg-ruine-weitra-history-v2",
+    id: "austria-burg-ruine-weitra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Alte Textilfabrik",
+                  "text": "Ein Museum in einer ehemaligen Textilfabrik in der historischen Stadt Weitra.",
+                  "category": "museum",
+                  "coords": [
+                        14.894638,
+                        48.707334
+                  ]
+            },
+            {
+                  "name": "Schloss Weitra",
+                  "text": "Ein historisches Schloss in Niederösterreich, das als Wahrzeichen und Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        14.893576,
+                        48.699558
+                  ]
+            },
+            {
+                  "name": "Luisen -Stein",
+                  "text": "Ein Gedenkstein in der malerischen Anlage rund um das Schloss Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.877087,
+                        48.699419
+                  ]
+            },
+            {
+                  "name": "Theresien - Stein",
+                  "text": "Eine bemerkenswerte Sehenswürdigkeit im Parkbereich des historischen Schlosses Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.874831,
+                        48.70012
+                  ]
+            },
+            {
+                  "name": "Wappenstein",
+                  "text": "Ein Stein mit Wappen, der sich auf dem Gelände von Schloss Weitra befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.881946,
+                        48.69981
+                  ]
+            },
+            {
+                  "name": "Gabrielen Höhe",
+                  "text": "Ein Aussichtspunkt in Weitra mit Blick auf das Schloss und die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.878214,
+                        48.698433
+                  ]
+            },
+            {
+                  "name": "Zisterne am Rathausplatz",
+                  "text": "Eine historische Wasserzisterne am Rathausplatz in Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.892817,
+                        48.700725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Alte Textilfabrik",
+                  "text": "Egy egykori textilgyárban berendezett múzeum Weitra történelmi városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.894638,
+                        48.707334
+                  ]
+            },
+            {
+                  "name": "Schloss Weitra",
+                  "text": "Történelmi kastély Alsó-Ausztriában, amely jelképként és kilátóként is szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        14.893576,
+                        48.699558
+                  ]
+            },
+            {
+                  "name": "Luisen -Stein",
+                  "text": "Emlékkő a Weitra-kastélyt körülvevő festői területen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.877087,
+                        48.699419
+                  ]
+            },
+            {
+                  "name": "Theresien - Stein",
+                  "text": "Nevezetes látnivaló a történelmi Weitra-kastély parkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.874831,
+                        48.70012
+                  ]
+            },
+            {
+                  "name": "Wappenstein",
+                  "text": "Címerekkel díszített kő a Weitra-kastély komplexumában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.881946,
+                        48.69981
+                  ]
+            },
+            {
+                  "name": "Gabrielen Höhe",
+                  "text": "Kilátóhely Weitrában, ahonnan kilátás nyílik a kastélyra és a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        14.878214,
+                        48.698433
+                  ]
+            },
+            {
+                  "name": "Zisterne am Rathausplatz",
+                  "text": "Történelmi víztározó Weitra főterén, a városháza mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.892817,
+                        48.700725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Alte Textilfabrik",
+                  "text": "Un muzeu situat într-o fostă fabrică de textile din orașul istoric Weitra.",
+                  "category": "museum",
+                  "coords": [
+                        14.894638,
+                        48.707334
+                  ]
+            },
+            {
+                  "name": "Schloss Weitra",
+                  "text": "Un castel istoric din Austria Inferioară care servește drept punct de reper și de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        14.893576,
+                        48.699558
+                  ]
+            },
+            {
+                  "name": "Luisen -Stein",
+                  "text": "O piatră memorială situată în terenurile pitorești din jurul Castelului Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.877087,
+                        48.699419
+                  ]
+            },
+            {
+                  "name": "Theresien - Stein",
+                  "text": "O atracție notabilă din zona parcului istoricului Castel Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.874831,
+                        48.70012
+                  ]
+            },
+            {
+                  "name": "Wappenstein",
+                  "text": "O piatră cu blazoane, situată în complexul Castelului Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.881946,
+                        48.69981
+                  ]
+            },
+            {
+                  "name": "Gabrielen Höhe",
+                  "text": "Un punct de belvedere din Weitra care oferă vedere spre castel și împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        14.878214,
+                        48.698433
+                  ]
+            },
+            {
+                  "name": "Zisterne am Rathausplatz",
+                  "text": "O cisternă de apă istorică situată în piața primăriei din Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.892817,
+                        48.700725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Alte Textilfabrik",
+                  "text": "A museum located in a former textile factory in the historic town of Weitra.",
+                  "category": "museum",
+                  "coords": [
+                        14.894638,
+                        48.707334
+                  ]
+            },
+            {
+                  "name": "Schloss Weitra",
+                  "text": "A historic castle in Lower Austria that serves as a landmark and scenic viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        14.893576,
+                        48.699558
+                  ]
+            },
+            {
+                  "name": "Luisen -Stein",
+                  "text": "A memorial stone located in the picturesque grounds surrounding Weitra Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        14.877087,
+                        48.699419
+                  ]
+            },
+            {
+                  "name": "Theresien - Stein",
+                  "text": "A notable attraction in the park area of the historic Schloss Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.874831,
+                        48.70012
+                  ]
+            },
+            {
+                  "name": "Wappenstein",
+                  "text": "A stone featuring coats of arms, located within the Weitra Castle complex.",
+                  "category": "landmark",
+                  "coords": [
+                        14.881946,
+                        48.69981
+                  ]
+            },
+            {
+                  "name": "Gabrielen Höhe",
+                  "text": "A scenic viewpoint in Weitra offering views of the castle and the surrounding countryside.",
+                  "category": "natural",
+                  "coords": [
+                        14.878214,
+                        48.698433
+                  ]
+            },
+            {
+                  "name": "Zisterne am Rathausplatz",
+                  "text": "A historic water cistern located on the town hall square in Weitra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.892817,
+                        48.700725
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Weitra", hu: "Weitra vára", ro: "Castelul Weitra", en: "Weitra Castle" },
@@ -1128,7 +5385,304 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-ruine-weitra-history-v2.webp",
   },
   {
-    id: "austria-burg-drosendorf-history-v2",
+    id: "austria-burg-drosendorf-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hausberg Johannesberg",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Schloss Drosendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.6304,
+                        48.8685
+                  ]
+            },
+            {
+                  "name": "Schloss Drosendorf",
+                  "text": "Ein historisches Schloss in Niederösterreich, das heute als Seminarzentrum dient.",
+                  "category": "castle",
+                  "coords": [
+                        15.620349,
+                        48.866947
+                  ]
+            },
+            {
+                  "name": "PR Bílý kříž",
+                  "text": "Ein Naturschutzgebiet mit markanten Felsformationen bei Drosendorf.",
+                  "category": "natural",
+                  "coords": [
+                        15.637458,
+                        48.889347
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Ein Freibad an der Thaya für sommerliche Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605343,
+                        48.869843
+                  ]
+            },
+            {
+                  "name": "Terrassenbad Drosendorf",
+                  "text": "Ein terrassenförmig angelegtes Freibad mit Blick auf die Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.608354,
+                        48.869167
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Eine barocke Pestsäule auf dem Hauptplatz von Drosendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.620974,
+                        48.868021
+                  ]
+            },
+            {
+                  "name": "Ruine Gaberkirche",
+                  "text": "Die Überreste einer spätgotischen Kirche in der Nähe von Drosendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        15.582733,
+                        48.879593
+                  ]
+            },
+            {
+                  "name": "Bürgerspital",
+                  "text": "Ein historisches Gebäude in Drosendorf, das einst als Hospital diente.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622332,
+                        48.86776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hausberg Johannesberg",
+                  "text": "Régészeti lelőhely Drosendorf vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.6304,
+                        48.8685
+                  ]
+            },
+            {
+                  "name": "Schloss Drosendorf",
+                  "text": "Történelmi kastély Alsó-Ausztriában, amely ma rendezvényközpontként működik.",
+                  "category": "castle",
+                  "coords": [
+                        15.620349,
+                        48.866947
+                  ]
+            },
+            {
+                  "name": "PR Bílý kříž",
+                  "text": "Természetvédelmi terület jellegzetes sziklaalakzatokkal Drosendorf közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.637458,
+                        48.889347
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Szabadtéri strand a Thaya folyó partján, pihenésre alkalmas hely.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605343,
+                        48.869843
+                  ]
+            },
+            {
+                  "name": "Terrassenbad Drosendorf",
+                  "text": "Teraszos kialakítású szabadtéri medence, amely kilátást nyújt a városra.",
+                  "category": "recreational",
+                  "coords": [
+                        15.608354,
+                        48.869167
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Barokk Szentháromság-oszlop Drosendorf főterén.",
+                  "category": "historical",
+                  "coords": [
+                        15.620974,
+                        48.868021
+                  ]
+            },
+            {
+                  "name": "Ruine Gaberkirche",
+                  "text": "Egy késő gótikus templom maradványai Drosendorf környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.582733,
+                        48.879593
+                  ]
+            },
+            {
+                  "name": "Bürgerspital",
+                  "text": "Történelmi épület Drosendorfban, amely egykor kórházként működött.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622332,
+                        48.86776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hausberg Johannesberg",
+                  "text": "Un sit arheologic situat în apropierea castelului Drosendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.6304,
+                        48.8685
+                  ]
+            },
+            {
+                  "name": "Schloss Drosendorf",
+                  "text": "Un castel istoric din Austria Inferioară, utilizat astăzi ca centru de seminare.",
+                  "category": "castle",
+                  "coords": [
+                        15.620349,
+                        48.866947
+                  ]
+            },
+            {
+                  "name": "PR Bílý kříž",
+                  "text": "O rezervație naturală cu formațiuni stâncoase remarcabile lângă Drosendorf.",
+                  "category": "natural",
+                  "coords": [
+                        15.637458,
+                        48.889347
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Un ștrand în aer liber pe malul râului Thaya, ideal pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605343,
+                        48.869843
+                  ]
+            },
+            {
+                  "name": "Terrassenbad Drosendorf",
+                  "text": "O piscină în aer liber amenajată în terase, cu vedere spre oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        15.608354,
+                        48.869167
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "O coloană barocă a Sfintei Treimi în piața centrală din Drosendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.620974,
+                        48.868021
+                  ]
+            },
+            {
+                  "name": "Ruine Gaberkirche",
+                  "text": "Ruinele unei biserici gotice târzii în apropiere de Drosendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        15.582733,
+                        48.879593
+                  ]
+            },
+            {
+                  "name": "Bürgerspital",
+                  "text": "O clădire istorică în Drosendorf, care a servit în trecut ca spital.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622332,
+                        48.86776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hausberg Johannesberg",
+                  "text": "An archaeological site located near Drosendorf Castle.",
+                  "category": "historical",
+                  "coords": [
+                        15.6304,
+                        48.8685
+                  ]
+            },
+            {
+                  "name": "Schloss Drosendorf",
+                  "text": "A historic castle in Lower Austria, currently used as a seminar center.",
+                  "category": "castle",
+                  "coords": [
+                        15.620349,
+                        48.866947
+                  ]
+            },
+            {
+                  "name": "PR Bílý kříž",
+                  "text": "A nature reserve with striking rock formations near Drosendorf.",
+                  "category": "natural",
+                  "coords": [
+                        15.637458,
+                        48.889347
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "An outdoor swimming area on the banks of the Thaya river.",
+                  "category": "recreational",
+                  "coords": [
+                        15.605343,
+                        48.869843
+                  ]
+            },
+            {
+                  "name": "Terrassenbad Drosendorf",
+                  "text": "A terraced outdoor swimming pool offering views of the town.",
+                  "category": "recreational",
+                  "coords": [
+                        15.608354,
+                        48.869167
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "A Baroque Trinity column in the main square of Drosendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.620974,
+                        48.868021
+                  ]
+            },
+            {
+                  "name": "Ruine Gaberkirche",
+                  "text": "The remains of a late Gothic church near Drosendorf.",
+                  "category": "landmark",
+                  "coords": [
+                        15.582733,
+                        48.879593
+                  ]
+            },
+            {
+                  "name": "Bürgerspital",
+                  "text": "A historic building in Drosendorf that formerly served as a hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        15.622332,
+                        48.86776
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Drosendorf", hu: "Drosendorf vára", ro: "Castelul Drosendorf", en: "Drosendorf Castle" },
@@ -1173,7 +5727,268 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-drosendorf-history-v2.webp",
   },
   {
-    id: "austria-schloss-grafenegg-history-v2",
+    id: "austria-schloss-grafenegg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Grafenegg",
+                  "text": "Ein bedeutendes österreichisches Schloss, das für seine Architektur des romantischen Historismus und seine Musikfestivals bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.746351,
+                        48.428629
+                  ]
+            },
+            {
+                  "name": "Schloss Walkersdorf am Kamp",
+                  "text": "Ein historisches Schloss am Kamp in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.732157,
+                        48.446201
+                  ]
+            },
+            {
+                  "name": "Auditorium Grafenegg",
+                  "text": "Ein moderner Konzertsaal, der in das historische Gelände von Schloss Grafenegg integriert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749374,
+                        48.430918
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Grafenegg",
+                  "text": "Eine Freilichtbühne namens Wolkenturm, die für Aufführungen unter freiem Himmel in Grafenegg genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749053,
+                        48.428452
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Engabrunn",
+                  "text": "Ein Aussichtsturm mit Panoramablick auf die umliegenden Weinberge.",
+                  "category": "natural",
+                  "coords": [
+                        15.77111,
+                        48.458957
+                  ]
+            },
+            {
+                  "name": "Feuersbrunner Kellergasse",
+                  "text": "Eine traditionelle Kellergasse, die das lokale Weinbauerbe widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789675,
+                        48.446402
+                  ]
+            },
+            {
+                  "name": "Haus der Musik",
+                  "text": "Ein Kulturzentrum, das der musikalischen Ausbildung und Veranstaltungen in der Region gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.777014,
+                        48.40574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Grafenegg",
+                  "text": "Jelentős ausztriai kastély, amely romantikus historizáló építészetéről és zenei fesztiváljairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.746351,
+                        48.428629
+                  ]
+            },
+            {
+                  "name": "Schloss Walkersdorf am Kamp",
+                  "text": "Történelmi kastély a Kamp folyó közelében, Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        15.732157,
+                        48.446201
+                  ]
+            },
+            {
+                  "name": "Auditorium Grafenegg",
+                  "text": "Modern hangversenyterem a történelmi Grafenegg-kastély területén.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749374,
+                        48.430918
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Grafenegg",
+                  "text": "Felhőtorony néven ismert szabadtéri színpad Grafeneggben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749053,
+                        48.428452
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Engabrunn",
+                  "text": "Kilátótorony, amely panorámás kilátást nyújt a környező szőlőültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        15.77111,
+                        48.458957
+                  ]
+            },
+            {
+                  "name": "Feuersbrunner Kellergasse",
+                  "text": "Hagyományos pincesor, amely a helyi borászati örökséget tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789675,
+                        48.446402
+                  ]
+            },
+            {
+                  "name": "Haus der Musik",
+                  "text": "Kulturális központ, amely a régió zenei oktatásának és eseményeinek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.777014,
+                        48.40574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Grafenegg",
+                  "text": "Un castel austriac important, cunoscut pentru arhitectura sa istoricistă romantică și festivalurile de muzică.",
+                  "category": "castle",
+                  "coords": [
+                        15.746351,
+                        48.428629
+                  ]
+            },
+            {
+                  "name": "Schloss Walkersdorf am Kamp",
+                  "text": "Un castel istoric situat lângă râul Kamp, în Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.732157,
+                        48.446201
+                  ]
+            },
+            {
+                  "name": "Auditorium Grafenegg",
+                  "text": "O sală de concerte modernă integrată în domeniul istoric al castelului Grafenegg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749374,
+                        48.430918
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Grafenegg",
+                  "text": "O scenă în aer liber cunoscută sub numele de Wolkenturm, utilizată pentru spectacole la Grafenegg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749053,
+                        48.428452
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Engabrunn",
+                  "text": "Un turn de observare care oferă vederi panoramice asupra podgoriilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        15.77111,
+                        48.458957
+                  ]
+            },
+            {
+                  "name": "Feuersbrunner Kellergasse",
+                  "text": "O uliță tradițională cu crame care reflectă moștenirea viticolă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789675,
+                        48.446402
+                  ]
+            },
+            {
+                  "name": "Haus der Musik",
+                  "text": "Un centru cultural dedicat educației muzicale și evenimentelor din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        15.777014,
+                        48.40574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Grafenegg",
+                  "text": "A major Austrian castle known for its romantic historicism architecture and music festivals.",
+                  "category": "castle",
+                  "coords": [
+                        15.746351,
+                        48.428629
+                  ]
+            },
+            {
+                  "name": "Schloss Walkersdorf am Kamp",
+                  "text": "A historic castle located near the Kamp river in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.732157,
+                        48.446201
+                  ]
+            },
+            {
+                  "name": "Auditorium Grafenegg",
+                  "text": "A modern concert hall integrated into the historic Grafenegg castle grounds.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749374,
+                        48.430918
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Grafenegg",
+                  "text": "An open-air stage known as the Wolkenturm, used for outdoor performances at Grafenegg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.749053,
+                        48.428452
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Engabrunn",
+                  "text": "An observation tower offering panoramic views of the surrounding vineyards.",
+                  "category": "natural",
+                  "coords": [
+                        15.77111,
+                        48.458957
+                  ]
+            },
+            {
+                  "name": "Feuersbrunner Kellergasse",
+                  "text": "A traditional wine cellar lane reflecting the local viticultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789675,
+                        48.446402
+                  ]
+            },
+            {
+                  "name": "Haus der Musik",
+                  "text": "A cultural center dedicated to musical education and events in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        15.777014,
+                        48.40574
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "AT",
     name: { de: "Schloss Grafenegg", hu: "Grafenegg kastély", ro: "Castelul Grafenegg", en: "Grafenegg Castle" },
@@ -1218,7 +6033,304 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-grafenegg-history-v2.webp",
   },
   {
-    id: "austria-burg-ruine-kollmitz-history-v2",
+    id: "austria-burg-ruine-kollmitz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uhrenmuseum Karlstein",
+                  "text": "Ein Museum in Karlstein an der Thaya, das sich der Geschichte der Uhrmacherei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        15.404167,
+                        48.883374
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage in der Nähe der Ruine Kollmitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Schloss Karlstein",
+                  "text": "Ein historisches Schloss in Niederösterreich, das hoch über der Thaya thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.402777,
+                        48.881293
+                  ]
+            },
+            {
+                  "name": "Hl. Johannes Nepomuk",
+                  "text": "Ein religiöses Denkmal, das dem heiligen Johannes von Nepomuk gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.40572,
+                        48.8822
+                  ]
+            },
+            {
+                  "name": "Insektenhotel",
+                  "text": "Eine künstlich geschaffene Nist- und Überwinterungshilfe für Insekten in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        15.431228,
+                        48.874717
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Nikolaus",
+                  "text": "Eine dem heiligen Nikolaus geweihte Pfarrkirche in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        15.429807,
+                        48.863576
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hl. Laurenz",
+                  "text": "Eine kleine Kapelle im Ort, die dem heiligen Laurentius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.452055,
+                        48.851483
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Vitus",
+                  "text": "Die dem heiligen Vitus geweihte Pfarrkirche der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        15.443161,
+                        48.878939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uhrenmuseum Karlstein",
+                  "text": "Az órakészítés történetének szentelt múzeum Karlstein an der Thaya településen.",
+                  "category": "museum",
+                  "coords": [
+                        15.404167,
+                        48.883374
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Egy középkori vár maradványai a Kollmitz-várrom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Schloss Karlstein",
+                  "text": "Történelmi kastély Alsó-Ausztriában, amely magasan a Thaya folyó felett trónol.",
+                  "category": "castle",
+                  "coords": [
+                        15.402777,
+                        48.881293
+                  ]
+            },
+            {
+                  "name": "Hl. Johannes Nepomuk",
+                  "text": "Nepomuki Szent Jánosnak szentelt vallási emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        15.40572,
+                        48.8822
+                  ]
+            },
+            {
+                  "name": "Insektenhotel",
+                  "text": "Mesterséges fészkelő- és telelőhely rovarok számára a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.431228,
+                        48.874717
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Nikolaus",
+                  "text": "Szent Miklósnak szentelt plébániatemplom a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        15.429807,
+                        48.863576
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hl. Laurenz",
+                  "text": "A település Szent Lőrincnek szentelt kis kápolnája.",
+                  "category": "religious",
+                  "coords": [
+                        15.452055,
+                        48.851483
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Vitus",
+                  "text": "A település Szent Vitusnak szentelt plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        15.443161,
+                        48.878939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uhrenmuseum Karlstein",
+                  "text": "Un muzeu în Karlstein an der Thaya dedicat istoriei ceasornicăriei.",
+                  "category": "museum",
+                  "coords": [
+                        15.404167,
+                        48.883374
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "Rămășițele unei cetăți medievale în apropierea ruinelor castelului Kollmitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Schloss Karlstein",
+                  "text": "Un castel istoric din Austria Inferioară, situat pe o stâncă deasupra râului Thaya.",
+                  "category": "castle",
+                  "coords": [
+                        15.402777,
+                        48.881293
+                  ]
+            },
+            {
+                  "name": "Hl. Johannes Nepomuk",
+                  "text": "Un monument religios dedicat Sfântului Ioan Nepomuk.",
+                  "category": "historical",
+                  "coords": [
+                        15.40572,
+                        48.8822
+                  ]
+            },
+            {
+                  "name": "Insektenhotel",
+                  "text": "Un adăpost artificial pentru cuibărit și iernat destinat insectelor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.431228,
+                        48.874717
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Nikolaus",
+                  "text": "O biserică parohială din regiune dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        15.429807,
+                        48.863576
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hl. Laurenz",
+                  "text": "O mică capelă locală dedicată Sfântului Laurențiu.",
+                  "category": "religious",
+                  "coords": [
+                        15.452055,
+                        48.851483
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Vitus",
+                  "text": "Biserica parohială a localității, dedicată Sfântului Vitus.",
+                  "category": "religious",
+                  "coords": [
+                        15.443161,
+                        48.878939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uhrenmuseum Karlstein",
+                  "text": "A museum in Karlstein an der Thaya dedicated to the history of clockmaking.",
+                  "category": "museum",
+                  "coords": [
+                        15.404167,
+                        48.883374
+                  ]
+            },
+            {
+                  "name": "Ruine Buchenstein",
+                  "text": "The remains of a medieval castle complex near the Kollmitz castle ruins.",
+                  "category": "castle",
+                  "coords": [
+                        15.455816,
+                        48.855532
+                  ]
+            },
+            {
+                  "name": "Schloss Karlstein",
+                  "text": "A historical castle in Lower Austria, perched on a rock above the Thaya river.",
+                  "category": "castle",
+                  "coords": [
+                        15.402777,
+                        48.881293
+                  ]
+            },
+            {
+                  "name": "Hl. Johannes Nepomuk",
+                  "text": "A religious monument dedicated to Saint John of Nepomuk.",
+                  "category": "historical",
+                  "coords": [
+                        15.40572,
+                        48.8822
+                  ]
+            },
+            {
+                  "name": "Insektenhotel",
+                  "text": "An artificial nesting and hibernation aid for insects in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        15.431228,
+                        48.874717
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Nikolaus",
+                  "text": "A parish church in the region dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        15.429807,
+                        48.863576
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hl. Laurenz",
+                  "text": "A small local chapel dedicated to Saint Lawrence.",
+                  "category": "religious",
+                  "coords": [
+                        15.452055,
+                        48.851483
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Vitus",
+                  "text": "The parish church of the locality, dedicated to Saint Vitus.",
+                  "category": "religious",
+                  "coords": [
+                        15.443161,
+                        48.878939
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Kollmitz", hu: "Kollmitz várrom", ro: "Ruinele castelului Kollmitz", en: "Kollmitz Castle Ruins" },
@@ -1398,7 +6510,304 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-fischau-history-v2.webp",
   },
   {
-    id: "austria-burg-ruine-scharfstein-history-v2",
+    id: "austria-burg-ruine-scharfstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Greger am Berg",
+                  "text": "Eine archäologische Fundstelle bei den Ruinen der Burg Scharfstein.",
+                  "category": "historical",
+                  "coords": [
+                        15.71825,
+                        47.824822
+                  ]
+            },
+            {
+                  "name": "Wegbauer",
+                  "text": "Historische Ausgrabungsstätte im Bereich der Burgruine Scharfstein.",
+                  "category": "historical",
+                  "coords": [
+                        15.692334,
+                        47.829716
+                  ]
+            },
+            {
+                  "name": "Herrengrotte",
+                  "text": "Ein Höhleneingang in der Nähe der Burgruine Scharfstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Obersberg",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.665337,
+                        47.814733
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "Ein Rastplatz mit schöner Aussicht bei der Ruine Scharfstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Ein Wasserrad als Sehenswürdigkeit im Bereich Scharfstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "Eine Plattform für Besucher mit Blick auf die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Fotoblick Falkenstein",
+                  "text": "Ein Ort, der sich ideal für Fotografien des Falkensteins eignet.",
+                  "category": "natural",
+                  "coords": [
+                        15.706016,
+                        47.817179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greger am Berg",
+                  "text": "Régészeti lelőhely a Scharfstein várrom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.71825,
+                        47.824822
+                  ]
+            },
+            {
+                  "name": "Wegbauer",
+                  "text": "Történelmi régészeti terület a Scharfstein várromnál.",
+                  "category": "historical",
+                  "coords": [
+                        15.692334,
+                        47.829716
+                  ]
+            },
+            {
+                  "name": "Herrengrotte",
+                  "text": "Barlangbejárat a Scharfstein várrom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Obersberg",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.665337,
+                        47.814733
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "Pihenőhely szép kilátással a Scharfstein romok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Vízikerék mint látnivaló Scharfstein területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "Látogatói terasz kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Fotoblick Falkenstein",
+                  "text": "Ideális hely a Falkenstein fotózására.",
+                  "category": "natural",
+                  "coords": [
+                        15.706016,
+                        47.817179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greger am Berg",
+                  "text": "Un sit arheologic lângă ruinele castelului Scharfstein.",
+                  "category": "historical",
+                  "coords": [
+                        15.71825,
+                        47.824822
+                  ]
+            },
+            {
+                  "name": "Wegbauer",
+                  "text": "Sit arheologic istoric în zona ruinelor castelului Scharfstein.",
+                  "category": "historical",
+                  "coords": [
+                        15.692334,
+                        47.829716
+                  ]
+            },
+            {
+                  "name": "Herrengrotte",
+                  "text": "O intrare în peșteră în apropierea ruinelor castelului Scharfstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Obersberg",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.665337,
+                        47.814733
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "Un loc de odihnă cu o vedere frumoasă lângă ruinele Scharfstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "O roată de apă ca atracție în zona Scharfstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "O terasă pentru vizitatori cu vedere la peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Fotoblick Falkenstein",
+                  "text": "Un loc ideal pentru fotografierea stâncii Falkenstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.706016,
+                        47.817179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greger am Berg",
+                  "text": "An archaeological site near the Scharfstein castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        15.71825,
+                        47.824822
+                  ]
+            },
+            {
+                  "name": "Wegbauer",
+                  "text": "Historical archaeological site in the area of the Scharfstein castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        15.692334,
+                        47.829716
+                  ]
+            },
+            {
+                  "name": "Herrengrotte",
+                  "text": "A cave entrance located near the Scharfstein castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        15.710686,
+                        47.809183
+                  ]
+            },
+            {
+                  "name": "Obersberg",
+                  "text": "A viewpoint offering panoramic views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        15.665337,
+                        47.814733
+                  ]
+            },
+            {
+                  "name": "Kain-Zajitschek-Bankerl",
+                  "text": "A rest spot with a scenic view near the Scharfstein ruins.",
+                  "category": "natural",
+                  "coords": [
+                        15.694904,
+                        47.763299
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "A water wheel attraction in the Scharfstein area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.70766,
+                        47.813869
+                  ]
+            },
+            {
+                  "name": "Besucherterrasse",
+                  "text": "A visitor terrace with views over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.708792,
+                        47.813812
+                  ]
+            },
+            {
+                  "name": "Fotoblick Falkenstein",
+                  "text": "A spot ideal for taking photographs of the Falkenstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.706016,
+                        47.817179
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Scharfstein", hu: "Scharfstein várrom", ro: "Ruinele castelului Scharfstein", en: "Scharfstein Castle Ruins" },
@@ -1533,7 +6942,196 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-schloss-muthmannsdorf-history-v2.webp",
   },
   {
-    id: "austria-burg-ruine-sebenstein-history-v2",
+    id: "austria-burg-ruine-sebenstein-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Thernberg",
+                  "text": "Ruinen einer Höhenburg in der Nähe von Sebenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.18322,
+                        47.657317
+                  ]
+            },
+            {
+                  "name": "Erzherzog Johann Gedenkraum",
+                  "text": "Ein Gedenkraum für Erzherzog Johann in der Nähe der Burg Sebenstein.",
+                  "category": "museum",
+                  "coords": [
+                        16.177084,
+                        47.661194
+                  ]
+            },
+            {
+                  "name": "Annenruh'",
+                  "text": "Ein ruhiger Aussichtspunkt in der Umgebung von Sebenstein.",
+                  "category": "natural",
+                  "coords": [
+                        16.138297,
+                        47.660078
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt \"Gretelfelsen\"",
+                  "text": "Aussichtspunkt auf dem Gretelfelsen mit Blick auf die Region Sebenstein.",
+                  "category": "natural",
+                  "coords": [
+                        16.13364,
+                        47.651373
+                  ]
+            },
+            {
+                  "name": "Pestkreuz",
+                  "text": "Ein historisches Gedenkkreuz bei Sebenstein zur Erinnerung an die Pest.",
+                  "category": "landmark",
+                  "coords": [
+                        16.20869,
+                        47.666756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Thernberg",
+                  "text": "Egy várrom Sebenstein közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.18322,
+                        47.657317
+                  ]
+            },
+            {
+                  "name": "Erzherzog Johann Gedenkraum",
+                  "text": "János főherceg tiszteletére berendezett emlékszoba Sebenstein vára közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.177084,
+                        47.661194
+                  ]
+            },
+            {
+                  "name": "Annenruh'",
+                  "text": "Egy nyugodt kilátópont Sebenstein környékén.",
+                  "category": "natural",
+                  "coords": [
+                        16.138297,
+                        47.660078
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt \"Gretelfelsen\"",
+                  "text": "Kilátópont a Gretelfelsen sziklán, rálátással a Sebenstein régióra.",
+                  "category": "natural",
+                  "coords": [
+                        16.13364,
+                        47.651373
+                  ]
+            },
+            {
+                  "name": "Pestkreuz",
+                  "text": "Történelmi emlékkereszt Sebenstein közelében, a pestisjárvány emlékére.",
+                  "category": "landmark",
+                  "coords": [
+                        16.20869,
+                        47.666756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Thernberg",
+                  "text": "Ruinele unei cetăți de deal situată lângă Sebenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.18322,
+                        47.657317
+                  ]
+            },
+            {
+                  "name": "Erzherzog Johann Gedenkraum",
+                  "text": "O cameră memorială dedicată Arhiducelui Johann, situată lângă Castelul Sebenstein.",
+                  "category": "museum",
+                  "coords": [
+                        16.177084,
+                        47.661194
+                  ]
+            },
+            {
+                  "name": "Annenruh'",
+                  "text": "Un punct de belvedere liniștit în împrejurimile Sebenstein.",
+                  "category": "natural",
+                  "coords": [
+                        16.138297,
+                        47.660078
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt \"Gretelfelsen\"",
+                  "text": "Punct de belvedere pe stânca Gretelfelsen, oferind o panoramă asupra regiunii Sebenstein.",
+                  "category": "natural",
+                  "coords": [
+                        16.13364,
+                        47.651373
+                  ]
+            },
+            {
+                  "name": "Pestkreuz",
+                  "text": "O cruce istorică lângă Sebenstein, ridicată în memoria victimelor ciumei.",
+                  "category": "landmark",
+                  "coords": [
+                        16.20869,
+                        47.666756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Thernberg",
+                  "text": "Ruins of a hilltop castle located near Sebenstein.",
+                  "category": "castle",
+                  "coords": [
+                        16.18322,
+                        47.657317
+                  ]
+            },
+            {
+                  "name": "Erzherzog Johann Gedenkraum",
+                  "text": "A memorial room dedicated to Archduke Johann near Sebenstein Castle.",
+                  "category": "museum",
+                  "coords": [
+                        16.177084,
+                        47.661194
+                  ]
+            },
+            {
+                  "name": "Annenruh'",
+                  "text": "A quiet viewpoint located in the surroundings of Sebenstein.",
+                  "category": "natural",
+                  "coords": [
+                        16.138297,
+                        47.660078
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt \"Gretelfelsen\"",
+                  "text": "Viewpoint on the Gretelfelsen rock overlooking the Sebenstein region.",
+                  "category": "natural",
+                  "coords": [
+                        16.13364,
+                        47.651373
+                  ]
+            },
+            {
+                  "name": "Pestkreuz",
+                  "text": "A historic wayside cross near Sebenstein commemorating the plague.",
+                  "category": "landmark",
+                  "coords": [
+                        16.20869,
+                        47.666756
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT",
     name: { de: "Burg Sebenstein", hu: "Sebenstein vára", ro: "Castelul Sebenstein", en: "Sebenstein Castle" },
@@ -1578,7 +7176,196 @@ export const austriaHistoryV2: POI[] = [
     image: "/poi-images/austria-burg-ruine-sebenstein-history-v2.webp",
   },
   {
-    id: "austria-burg-ruine-schwarzenbach-history-v2",
+    id: "austria-burg-ruine-schwarzenbach-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg in Niederösterreich, die Einblicke in die regionale Verteidigungsgeschichte bieten.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Ein rekonstruiertes Keltendorf in Schwarzenbach, das Einblicke in das Leben der Eisenzeit bietet.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "Ein lokales Museum in einer historischen Mühle in Schwarzenbach.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Ein Naturbadesee in Kobersdorf, der Erholung im Grünen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Ein kleiner Streichelzoo in Schwarzenbach, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Egy középkori hegyi vár romjai Alsó-Ausztriában, amelyek betekintést nyújtanak a régió védelmi történelmébe.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Egy rekonstruált kelta falu Schwarzenbachban, amely bemutatja a vaskori életmódot.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "Helyi múzeum egy történelmi malom épületében Schwarzenbachban.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Természetes fürdőtó Kobersdorfban, amely kikapcsolódást kínál a természetben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Egy kis állatsimogató Schwarzenbachban, amely ideális kisgyermekes családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Ruinele unui castel medieval de pe deal din Austria Inferioară, oferind perspective asupra istoriei defensive regionale.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Un sat celtic reconstituit în Schwarzenbach, care oferă informații despre viața din epoca fierului.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "Un muzeu local situat într-o moară istorică din Schwarzenbach.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Un lac natural pentru scăldat în Kobersdorf, oferind relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "O mică grădină zoologică cu animale de mângâiat în Schwarzenbach, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "The ruins of a medieval hilltop castle in Lower Austria, offering insights into regional defensive history.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "A reconstructed Celtic village in Schwarzenbach showcasing Iron Age life and history.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "A local museum housed in a historic mill in Schwarzenbach.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "A natural swimming lake in Kobersdorf providing recreation in a nature park setting.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "A small petting zoo in Schwarzenbach, popular for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Schwarzenbach", hu: "Schwarzenbach várrom", ro: "Ruinele castelului Schwarzenbach", en: "Schwarzenbach Castle Ruins" },

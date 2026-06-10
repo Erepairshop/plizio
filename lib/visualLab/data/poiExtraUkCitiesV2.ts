@@ -5910,6 +5910,24 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.273784,
                         55.879576
                   ]
+            },
+            {
+                  "name": "Royal Highland Fusiliers",
+                  "text": "Ein Militärmuseum in Glasgow, das der Geschichte und den Traditionen des Regiments der Royal Highland Fusiliers gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -4.269668,
+                        55.866275
+                  ]
+            },
+            {
+                  "name": "The Museum of Royal College of Physicians and Surgeons Glasgow",
+                  "text": "Ein medizinhistorisches Museum in Glasgow, das die Entwicklung der Medizin und Chirurgie durch seltene Instrumente zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -4.263285,
+                        55.862583
+                  ]
             }
       ],
       "hu": [
@@ -6523,6 +6541,24 @@ imageHint: "Manchester Town Hall and Albert Square",
                   "coords": [
                         -4.273784,
                         55.879576
+                  ]
+            },
+            {
+                  "name": "Royal Highland Fusiliers",
+                  "text": "Katonai múzeum Glasgow-ban, amely a Royal Highland Fusiliers ezred történetének és hagyományainak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -4.269668,
+                        55.866275
+                  ]
+            },
+            {
+                  "name": "The Museum of Royal College of Physicians and Surgeons Glasgow",
+                  "text": "Orvostörténeti múzeum Glasgow-ban, amely ritka eszközökön keresztül mutatja be az orvoslás és a sebészet fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        -4.263285,
+                        55.862583
                   ]
             }
       ],
@@ -7138,6 +7174,24 @@ imageHint: "Manchester Town Hall and Albert Square",
                         -4.273784,
                         55.879576
                   ]
+            },
+            {
+                  "name": "Royal Highland Fusiliers",
+                  "text": "Un muzeu militar din Glasgow, dedicat istoriei și tradițiilor regimentului Royal Highland Fusiliers.",
+                  "category": "museum",
+                  "coords": [
+                        -4.269668,
+                        55.866275
+                  ]
+            },
+            {
+                  "name": "The Museum of Royal College of Physicians and Surgeons Glasgow",
+                  "text": "Un muzeu de istorie medicală din Glasgow, care prezintă evoluția medicinei și chirurgiei prin instrumente rare.",
+                  "category": "museum",
+                  "coords": [
+                        -4.263285,
+                        55.862583
+                  ]
             }
       ],
       "en": [
@@ -7751,6 +7805,24 @@ imageHint: "Manchester Town Hall and Albert Square",
                   "coords": [
                         -4.273784,
                         55.879576
+                  ]
+            },
+            {
+                  "name": "Royal Highland Fusiliers",
+                  "text": "A military museum in Glasgow dedicated to the history and traditions of the Royal Highland Fusiliers regiment.",
+                  "category": "museum",
+                  "coords": [
+                        -4.269668,
+                        55.866275
+                  ]
+            },
+            {
+                  "name": "The Museum of Royal College of Physicians and Surgeons Glasgow",
+                  "text": "A medical history museum in Glasgow showcasing the development of medicine and surgery through rare instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -4.263285,
+                        55.862583
                   ]
             }
       ]
@@ -8377,6 +8449,15 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                         -3.02482,
                         53.393225
                   ]
+            },
+            {
+                  "name": "Eureka! Science + Discovery",
+                  "text": "Ein interaktives Museum für Kinder und Jugendliche zur Erkundung der Wissenschaft.",
+                  "category": "museum",
+                  "coords": [
+                        -3.016247,
+                        53.409413
+                  ]
             }
       ],
       "hu": [
@@ -8954,6 +9035,15 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                   "coords": [
                         -3.02482,
                         53.393225
+                  ]
+            },
+            {
+                  "name": "Eureka! Science + Discovery",
+                  "text": "Interaktív múzeum gyerekeknek és fiataloknak a tudomány felfedezésére.",
+                  "category": "museum",
+                  "coords": [
+                        -3.016247,
+                        53.409413
                   ]
             }
       ],
@@ -9533,6 +9623,15 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                         -3.02482,
                         53.393225
                   ]
+            },
+            {
+                  "name": "Eureka! Science + Discovery",
+                  "text": "Un muzeu interactiv conceput pentru copii și tineri pentru a explora știința.",
+                  "category": "museum",
+                  "coords": [
+                        -3.016247,
+                        53.409413
+                  ]
             }
       ],
       "en": [
@@ -10110,6 +10209,15 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
                   "coords": [
                         -3.02482,
                         53.393225
+                  ]
+            },
+            {
+                  "name": "Eureka! Science + Discovery",
+                  "text": "An interactive museum designed for children and young people to explore science.",
+                  "category": "museum",
+                  "coords": [
+                        -3.016247,
+                        53.409413
                   ]
             }
       ]
@@ -15300,6 +15408,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.45291,
                         53.3687
                   ]
+            },
+            {
+                  "name": "Turner Museum of Glass",
+                  "text": "Ein spezialisiertes Museum in Sheffield, das eine bedeutende Sammlung historischer Glaskunst aus dem 19. und 20. Jahrhundert beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.477438,
+                        53.381673
+                  ]
+            },
+            {
+                  "name": "Alfred Denny Museum",
+                  "text": "Das Alfred Denny Museum in Sheffield zeigt eine umfangreiche zoologische Sammlung der Universität.",
+                  "category": "museum",
+                  "coords": [
+                        -1.487817,
+                        53.381678
+                  ]
+            },
+            {
+                  "name": "Sheffield City Hall",
+                  "text": "Die Sheffield City Hall ist ein markantes neoklassizistisches Gebäude, das als Konzert- und Veranstaltungsort dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.472444,
+                        53.380864
+                  ]
             }
       ],
       "hu": [
@@ -15541,6 +15676,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.45291,
                         53.3687
+                  ]
+            },
+            {
+                  "name": "Turner Museum of Glass",
+                  "text": "Speciális múzeum Sheffieldben, amely a 19. és 20. századi üvegművészet jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -1.477438,
+                        53.381673
+                  ]
+            },
+            {
+                  "name": "Alfred Denny Museum",
+                  "text": "A sheffieldi Alfred Denny Múzeum az egyetem gazdag zoológiai gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.487817,
+                        53.381678
+                  ]
+            },
+            {
+                  "name": "Sheffield City Hall",
+                  "text": "A Sheffield City Hall egy impozáns neoklasszicista épület, amely koncert- és rendezvényhelyszínként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.472444,
+                        53.380864
                   ]
             }
       ],
@@ -15784,6 +15946,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.45291,
                         53.3687
                   ]
+            },
+            {
+                  "name": "Turner Museum of Glass",
+                  "text": "Un muzeu specializat din Sheffield care găzduiește o colecție importantă de artă în sticlă din secolele XIX și XX.",
+                  "category": "museum",
+                  "coords": [
+                        -1.477438,
+                        53.381673
+                  ]
+            },
+            {
+                  "name": "Alfred Denny Museum",
+                  "text": "Muzeul Alfred Denny din Sheffield prezintă o bogată colecție zoologică a universității.",
+                  "category": "museum",
+                  "coords": [
+                        -1.487817,
+                        53.381678
+                  ]
+            },
+            {
+                  "name": "Sheffield City Hall",
+                  "text": "Sheffield City Hall este o clădire neoclasică remarcabilă care servește ca sală de concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.472444,
+                        53.380864
+                  ]
             }
       ],
       "en": [
@@ -16025,6 +16214,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.45291,
                         53.3687
+                  ]
+            },
+            {
+                  "name": "Turner Museum of Glass",
+                  "text": "A specialized museum in Sheffield housing a significant collection of 19th and 20th-century glass art.",
+                  "category": "museum",
+                  "coords": [
+                        -1.477438,
+                        53.381673
+                  ]
+            },
+            {
+                  "name": "Alfred Denny Museum",
+                  "text": "The Alfred Denny Museum in Sheffield displays an extensive zoological collection from the university.",
+                  "category": "museum",
+                  "coords": [
+                        -1.487817,
+                        53.381678
+                  ]
+            },
+            {
+                  "name": "Sheffield City Hall",
+                  "text": "Sheffield City Hall is a prominent neoclassical building serving as a major concert and events venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.472444,
+                        53.380864
                   ]
             }
       ]
@@ -17009,6 +17225,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.610835,
                         51.479923
                   ]
+            },
+            {
+                  "name": "The Wardrobe Theatre",
+                  "text": "Ein intimes Fringe-Theater und eine Bar, die lokale Aufführungen zeigen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.579286,
+                        51.457076
+                  ]
+            },
+            {
+                  "name": "Clifton Suspension Bridge Visitor Centre",
+                  "text": "Ein Informationszentrum zur Geschichte und zum Bau der berühmten Hängebrücke.",
+                  "category": "museum",
+                  "coords": [
+                        -2.630746,
+                        51.453904
+                  ]
+            },
+            {
+                  "name": "Stokeleigh Camp",
+                  "text": "Die Stätte einer eisenzeitlichen Wallburg in den Leigh Woods.",
+                  "category": "historical",
+                  "coords": [
+                        -2.635537,
+                        51.456947
+                  ]
             }
       ],
       "hu": [
@@ -17943,6 +18186,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.610835,
                         51.479923
+                  ]
+            },
+            {
+                  "name": "The Wardrobe Theatre",
+                  "text": "Meghitt alternatív színház és bár, amely helyi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.579286,
+                        51.457076
+                  ]
+            },
+            {
+                  "name": "Clifton Suspension Bridge Visitor Centre",
+                  "text": "Információs központ a híres függőhíd történetéről és építéséről.",
+                  "category": "museum",
+                  "coords": [
+                        -2.630746,
+                        51.453904
+                  ]
+            },
+            {
+                  "name": "Stokeleigh Camp",
+                  "text": "Vaskori erődített település helyszíne a Leigh Woods területén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.635537,
+                        51.456947
                   ]
             }
       ],
@@ -18879,6 +19149,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.610835,
                         51.479923
                   ]
+            },
+            {
+                  "name": "The Wardrobe Theatre",
+                  "text": "Un teatru fringe intim și bar care prezintă spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.579286,
+                        51.457076
+                  ]
+            },
+            {
+                  "name": "Clifton Suspension Bridge Visitor Centre",
+                  "text": "Un centru de informare care explică istoria și construcția celebrului pod suspendat.",
+                  "category": "museum",
+                  "coords": [
+                        -2.630746,
+                        51.453904
+                  ]
+            },
+            {
+                  "name": "Stokeleigh Camp",
+                  "text": "Situl unei fortificații din Epoca Fierului situat în Leigh Woods.",
+                  "category": "historical",
+                  "coords": [
+                        -2.635537,
+                        51.456947
+                  ]
             }
       ],
       "en": [
@@ -19813,6 +20110,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.610835,
                         51.479923
+                  ]
+            },
+            {
+                  "name": "The Wardrobe Theatre",
+                  "text": "An intimate fringe theatre and bar showcasing local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.579286,
+                        51.457076
+                  ]
+            },
+            {
+                  "name": "Clifton Suspension Bridge Visitor Centre",
+                  "text": "An information centre explaining the history and construction of the famous bridge.",
+                  "category": "museum",
+                  "coords": [
+                        -2.630746,
+                        51.453904
+                  ]
+            },
+            {
+                  "name": "Stokeleigh Camp",
+                  "text": "The site of an Iron Age hillfort located in Leigh Woods.",
+                  "category": "historical",
+                  "coords": [
+                        -2.635537,
+                        51.456947
                   ]
             }
       ]
@@ -25206,6 +25530,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.592966,
                         54.990736
                   ]
+            },
+            {
+                  "name": "Jubilee Theatre",
+                  "text": "Ein lokaler Theaterort, der Raum für verschiedene darstellende Künste bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.63533,
+                        55.00585
+                  ]
             }
       ],
       "hu": [
@@ -25934,6 +26267,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.592966,
                         54.990736
+                  ]
+            },
+            {
+                  "name": "Jubilee Theatre",
+                  "text": "Helyi színházi helyszín, amely különféle előadó-művészeti ágaknak ad teret.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.63533,
+                        55.00585
                   ]
             }
       ],
@@ -26664,6 +27006,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.592966,
                         54.990736
                   ]
+            },
+            {
+                  "name": "Jubilee Theatre",
+                  "text": "O locație de teatru locală care oferă spațiu pentru diverse arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.63533,
+                        55.00585
+                  ]
             }
       ],
       "en": [
@@ -27392,6 +27743,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.592966,
                         54.990736
+                  ]
+            },
+            {
+                  "name": "Jubilee Theatre",
+                  "text": "A local theatre venue providing a space for various performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.63533,
+                        55.00585
                   ]
             }
       ]
@@ -33530,7 +33890,2676 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Local de nascimento de Dylan Thomas (1914)", "Primeira 'Área de Destacada Beleza Natural' (Gower)", "Sede da Driver and Vehicle Licensing Agency (DVLA)", "Centro mundial do comércio de cobre no século XIX"],
       fr: ["Lieu de naissance de Dylan Thomas (1914)", "Première 'Area of Outstanding Natural Beauty' (Gower)", "Siège de la Driver and Vehicle Licensing Agency (DVLA)", "Centre mondial du commerce du cuivre au XIXe siècle"],
     },
-    "sights": {"de": [{"name": "Swansea Marina", "text": "Der 1982 eröffnete Jachthafen im alten Hafenviertel ist heute ein lebendiges Wohn- und Freizeitzentrum.", "category": "recreational", "confidence": "high", "coords": [-3.93833, 51.6158]}, {"name": "National Waterfront Museum", "text": "Das Museum zeigt die Industriegeschichte von Wales und wurde 2005 in einem modernen Glasbau eröffnet.", "category": "museum", "confidence": "high", "coords": [-3.938846, 51.616367]}, {"name": "Swansea Museum", "text": "Das älteste Museum in Wales wurde 1841 gegründet und beherbergt unter anderem eine altägyptische Mumie.", "category": "museum", "confidence": "high", "coords": [-3.938111, 51.617806]}, {"name": "The Guildhall", "text": "Das 1934 eröffnete Rathaus ist für seinen Art-déco-Stil und die Brangwyn Hall mit ihren Wandgemälden bekannt.", "category": "civic", "confidence": "high", "coords": [-3.960547, 51.612874]}, {"name": "Swansea Castle", "text": "Die Ruinen der Burg aus dem 12. Jahrhundert stehen im Stadtzentrum und zeigen Überreste des mittelalterlichen Glanzes.", "category": "fortress", "confidence": "high", "coords": [-3.94111, 51.6204]}, {"name": "Oystermouth Castle", "text": "Diese im 12. Jahrhundert von den Normannen erbaute Burg bietet einen weiten Blick über die Bucht von Swansea.", "category": "fortress", "confidence": "high", "coords": [-4.002707, 51.576995]}, {"name": "Mumbles Pier", "text": "Der 1898 eröffnete, 256 Meter lange viktorianische Pier ist ein beliebtes Ziel für Angler und Ausflügler.", "category": "recreational", "confidence": "high", "coords": [-3.98028, 51.5697]}, {"name": "Clyne Gardens", "text": "Der botanische Garten ist berühmt für seine Sammlung von Rhododendren und die malerische Aussicht auf das Meer.", "category": "natural", "confidence": "high", "coords": [-3.999974, 51.596592]}, {"name": "Singleton Park", "text": "Der größte Stadtpark umfasst 100 Hektar und beherbergt botanische Gärten sowie einen See mit Tretbooten.", "category": "natural", "confidence": "high", "coords": [-3.979071, 51.614967]}, {"name": "Dylan Thomas Centre", "text": "Das Zentrum ist dem berühmtesten Dichter der Stadt gewidmet und zeigt eine ständige Ausstellung über sein Leben.", "category": "cultural", "confidence": "high", "coords": [-3.93583, 51.6192]}, {"name": "Glynn Vivian Art Gallery", "text": "Die 1911 eröffnete Galerie beherbergt eine bedeutende Sammlung walisischer Kunst sowie europäische Porzellanarbeiten.", "category": "museum", "confidence": "high", "coords": [-3.944364, 51.623821]}, {"name": "Grand Theatre", "text": "Dieses 1897 eröffnete Theater ist das kulturelle Herz der Stadt und bietet Platz für über 1.000 Zuschauer.", "category": "cultural", "confidence": "high", "coords": [-3.948022, 51.618135]}, {"name": "Swansea Market", "text": "Der größte überdachte Markt in Wales bietet seit dem 19. Jahrhundert lokale Spezialitäten wie Herzmuscheln an.", "category": "culinary", "confidence": "high", "coords": [-3.95, 51.618]}, {"name": "Swansea.com Stadium", "text": "Das 2005 eröffnete Stadion ist die Heimstätte des Swansea City AFC und des Rugby-Teams Ospreys.", "category": "recreational", "confidence": "high", "coords": [-3.935268, 51.641869]}, {"name": "Brangwyn Hall", "text": "Die Konzerthalle innerhalb der Guildhall ist berühmt für die Brangwyn-Paneele, die für das House of Lords entworfen wurden.", "category": "cultural", "confidence": "high", "coords": [-3.960181, 51.613742]}, {"name": "LC Swansea", "text": "Wales' größter Wasserpark und Freizeitzentrum befindet sich im Stadtzentrum und wurde 2008 umfassend modernisiert.", "category": "recreational", "confidence": "high", "coords": [-3.940578, 51.61688]}, {"name": "Plantasia", "text": "Dieser tropische Regenwald unter Glas beherbergt exotische Tiere wie Krokodile und Erdmännchen inmitten der Stadt.", "category": "recreational", "confidence": "high", "coords": [-3.93861, 51.6217]}, {"name": "Swansea Bay", "text": "Die fünf Kilometer lange Sandbucht erstreckt sich vom Yachthafen bis nach Mumbles und lädt zum Spazierengehen ein.", "category": "natural", "confidence": "high", "coords": [-3.9, 51.5833]}, {"name": "Caswell Bay", "text": "Dieser beliebte Strand auf der Gower-Halbinsel ist bekannt für seine gute Wasserqualität und ideal für Surfer.", "category": "natural", "confidence": "high", "coords": [-4.030828, 51.570685]}, {"name": "Langland Bay", "text": "Ein malerischer Küstenort mit charakteristischen grünen Strandhütten und hervorragenden Surfbedingungen.", "category": "natural", "confidence": "high", "coords": [-4.0, 51.566667]}, {"name": "Gower Heritage Centre", "text": "Ein lebendiges Museum in einer Mühle aus dem 12. Jahrhundert, das traditionelles Handwerk und Landleben zeigt.", "category": "museum", "confidence": "high", "coords": [-4.103538, 51.583481]}, {"name": "St Mary's Church", "text": "Die im Zweiten Weltkrieg zerstörte und in den 1950ern wiederaufgebaute Kirche ist das religiöse Zentrum der Stadt.", "category": "religious", "confidence": "high", "coords": [-3.942531, 51.619431]}, {"name": "Egypt Centre", "text": "Das Museum an der Universität Swansea besitzt über 5.000 antike ägyptische Objekte aus der Sammlung von Sir Henry Wellcome.", "category": "museum", "confidence": "high", "coords": [-3.97917, 51.6103]}, {"name": "Swansea University", "text": "Die 1920 gegründete Universität liegt im Singleton Park und ist bekannt für ihre Forschung und die Lage am Meer.", "category": "civic", "confidence": "high", "coords": [-3.980556, 51.609722]}, {"name": "Wind Street", "text": "Die historische Straße im Stadtzentrum ist heute das Zentrum des Nachtlebens mit zahlreichen Bars und Restaurants.", "category": "culinary", "confidence": "high", "coords": [-3.940272, 51.619326]}, {"name": "Victoria Park", "text": "Ein gepflegter Park aus dem Jahr 1887 mit einem Denkmal für den Hund Jack, der 27 Menschen vor dem Ertrinken rettete.", "category": "natural", "confidence": "high", "coords": [-3.961405, 51.613137]}, {"name": "ABCC Meeting Point", "text": "Ein Strand in der Nähe von Swansea.", "category": "recreational", "coords": [-3.936517, 51.61423]}, {"name": "Palace Theatre", "text": "Ein markantes und historisches Theatergebäude in Swansea.", "category": "cultural", "coords": [-3.941249, 51.62744]}, {"name": "Crymlyn Bog", "text": "Ein wichtiges Naturschutzgebiet und Moorgebiet nahe Swansea.", "category": "natural", "coords": [-3.884243, 51.636819]}, {"name": "Saint Thomas Community Centre", "text": "Ein lokales Gemeindezentrum in Swansea, in dem auch Theateraufführungen stattfinden.", "category": "cultural", "coords": [-3.928336, 51.624202]}, {"name": "Swansea Beach", "text": "Als Hauptstrand der Stadt Swansea erstreckt sich dieser lebhafte Küstenabschnitt direkt vor den Toren der walisischen Metropole. Er ist ein zentraler Anlaufpunkt für Einheimische und Besucher, die das Meer und die Weite genießen möchten. Am besten lässt sich die Gegend bei Ebbe auf den langen Sandbänken erkunden.", "category": "recreational", "coords": [-3.974474, 51.598005]}, {"name": "Rosehill Quarry Nature Reserve", "text": "Ein städtisches Naturschutzgebiet in Swansea.", "category": "natural", "coords": [-3.959975, 51.62382]}, {"name": "Swansea Museum Collections Centre", "text": "Eine Einrichtung in Swansea, in der Museumssammlungen aufbewahrt werden.", "category": "museum", "coords": [-3.936942, 51.640105]}, {"name": "Swansea Museum Tramway Centre", "text": "Ein Straßenbahnmuseum, das Teil des Swansea Museum ist.", "category": "museum", "coords": [-3.93752, 51.616732]}, {"name": "Oriel Science", "text": "Oriel Science ist ein lokales Museum in Swansea.", "category": "museum", "coords": [-3.94246, 51.621398]}, {"name": "Kilvey Hill", "text": "Kilvey Hill ist ein markanter Gipfel mit Blick auf die Stadt Swansea.", "category": "natural", "coords": [-3.920309, 51.628967]}, {"name": "Elysium", "text": "Elysium ist ein Kunstzentrum in Swansea.", "category": "cultural", "coords": [-3.941738, 51.623932]}, {"name": "The Vetch", "text": "The Vetch ist ein öffentlicher Park in Swansea, der sich auf dem Gelände des ehemaligen Vetch Field Fußballstadions befindet.", "category": "park", "coords": [-3.950066, 51.616489]}, {"name": "Parc Cwmdoncyn / Cwmdonkin Park", "text": "Cwmdonkin Park ist ein lokaler Park in Swansea.", "category": "park", "coords": [-3.969413, 51.621351]}, {"name": "Vivian Engine House", "text": "Vivian Engine House umfasst historische Ruinen in Swansea.", "category": "historical", "coords": [-3.935193, 51.637683]}, {"name": "Mansion House", "text": "Mansion House ist eine Attraktion in Swansea, die als offizielle Residenz des Oberbürgermeisters dient.", "category": "landmark", "coords": [-3.959719, 51.621689]}, {"name": "Gorsedd Stone Circle", "text": "Gorsedd Stone Circle ist ein Steindenkmal in Swansea.", "category": "historical", "coords": [-3.980847, 51.616171]}, {"name": "Rosehill Quarry Labyrinth", "text": "Rosehill Quarry Labyrinth ist eine einzigartige lokale Attraktion in Swansea.", "category": "landmark", "coords": [-3.958863, 51.623855]}, {"name": "Kilvey Hill Windmill (remains)", "text": "Die Überreste der Kilvey Hill Windmill sind historische Ruinen in Swansea.", "category": "historical", "coords": [-3.918318, 51.628684]}, {"name": "Laboratory", "text": "Das Laboratory ist eine Stätte mit historischen Ruinen in Swansea.", "category": "historical", "coords": [-3.936337, 51.639009]}, {"name": "Hafod Lime Kiln", "text": "Hafod Lime Kiln umfasst historische Kalkofenruinen in Swansea.", "category": "historical", "coords": [-3.936455, 51.637769]}, {"name": "Dylan Thomas House", "text": "Das Dylan Thomas House ist eine dem berühmten Schriftsteller gewidmete Attraktion in Swansea.", "category": "landmark", "coords": [-3.9648, 51.621015]}, {"name": "Christ Church", "text": "Christ Church ist ein lokales Gotteshaus in Swansea.", "category": "religious", "coords": [-3.951299, 51.614376]}, {"name": "Capel y Trinity", "text": "Capel y Trinity ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.97752, 51.618808]}, {"name": "Civic Centre", "text": "Das Civic Centre ist das Hauptverwaltungsgebäude der Stadt Swansea.", "category": "historical", "coords": [-3.948577, 51.613897]}, {"name": "Saint Paul", "text": "Saint Paul ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.983454, 51.617112]}, {"name": "Saint John's", "text": "Saint John's ist ein lokales Gotteshaus in Swansea.", "category": "religious", "coords": [-3.941695, 51.634704]}, {"name": "St. James' Church", "text": "Die St. James' Church ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.960512, 51.618867]}, {"name": "Kingdom Hall", "text": "Die Kingdom Hall ist ein lokales Gotteshaus in Swansea.", "category": "religious", "coords": [-3.96341, 51.618665]}, {"name": "Townhill Baptist Church", "text": "Die Townhill Baptist Church ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.967422, 51.625628]}, {"name": "York Place Baptist Church", "text": "Die York Place Baptist Church ist ein religiöses Gebäude in Swansea.", "category": "religious", "coords": [-3.939714, 51.618045]}, {"name": "Saint Thomas's", "text": "Saint Thomas's ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.928153, 51.622143]}, {"name": "Mount Pleasant Baptist Chapel", "text": "Die Mount Pleasant Baptist Chapel ist ein lokales Gotteshaus in Swansea.", "category": "religious", "coords": [-3.945466, 51.621266]}, {"name": "Ebenezer Baptist Church", "text": "Die Ebenezer Baptist Church ist ein Gotteshaus in Swansea.", "category": "religious", "coords": [-3.942343, 51.62591]}, {"name": "Coed Darcy North Site", "text": "Coed Darcy North Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-3.85929, 51.652815]}, {"name": "Coed Darcy South Site", "text": "Coed Darcy South Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-3.867794, 51.650776]}, {"name": "Bunkers", "text": "Bunkers ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-3.938303, 51.618793]}, {"name": "Marina Amusement Arcade", "text": "Marina Amusement Arcade ist eine Spielhalle in Swansea, ideal für Familien, die spannende Unterhaltung suchen.", "category": "family", "coords": [-3.940236, 51.615908]}, {"name": "Crazy Golf", "text": "Crazy Golf ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-3.98196, 51.606777]}, {"name": "Brynmill Park Playground", "text": "Brynmill Park Playground ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-3.972394, 51.615981]}, {"name": "Marina Park", "text": "Marina Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-3.929793, 51.614588]}, {"name": "Rees Row Park", "text": "Rees Row Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-3.935584, 51.648766]}, {"name": "Wales National Pool", "text": "Der Wales National Pool bietet Schwimmeinrichtungen auf professionellem Niveau für Familien.", "category": "family", "coords": [-3.988772, 51.607548]}, {"name": "Blackpill Lido", "text": "Das Blackpill Lido in Swansea ist ein Wasserpark mit Außenbecken und Spielbereichen für Familien.", "category": "family", "coords": [-3.994448, 51.597257]}], "hu": [{"name": "Swansea Marina", "text": "A régi kikötőnegyedben 1982-ben megnyitott jachtkikötő ma élénk lakó- és szabadidős központ.", "category": "recreational", "confidence": "high", "coords": [-3.93833, 51.6158]}, {"name": "Nemzeti Waterfront Múzeum", "text": "A múzeum Wales ipari múltját mutatja be, 2005-ben nyílt meg egy modern üvegépületben.", "category": "museum", "confidence": "high", "coords": [-3.938846, 51.616367]}, {"name": "Swansea Múzeum", "text": "Wales legidősebb múzeumát 1841-ben alapították, többek között egy ókori egyiptomi múmiát is őriz.", "category": "museum", "confidence": "high", "coords": [-3.938111, 51.617806]}, {"name": "The Guildhall", "text": "Az 1934-ben megnyitott városháza art deco stílusáról és a falfestményekkel díszített Brangwyn Hallról ismert.", "category": "civic", "confidence": "high", "coords": [-3.960547, 51.612874]}, {"name": "Swansea vár", "text": "A 12. századi vár romjai a városközpontban állnak, felidézve a középkori város egykori jelentőségét.", "category": "fortress", "confidence": "high", "coords": [-3.94111, 51.6204]}, {"name": "Oystermouth vár", "text": "Ezt a 12. századi normann várat a Gower-félsziget kapujában emelték, csodás kilátást nyújt az öbölre.", "category": "fortress", "confidence": "high", "coords": [-4.002707, 51.576995]}, {"name": "Mumbles móló", "text": "Az 1898-ban megnyitott, 256 méter hosszú viktoriánus móló a horgászok és kirándulók kedvelt célpontja.", "category": "recreational", "confidence": "high", "coords": [-3.98028, 51.5697]}, {"name": "Clyne Gardens", "text": "A botanikus kert híres rododendron-gyűjteményéről és a tengerre nyíló festői panorámájáról.", "category": "natural", "confidence": "high", "coords": [-3.999974, 51.596592]}, {"name": "Singleton Park", "text": "A város legnagyobb, 100 hektáros parkja botanikus kerteknek és egy csónakázótónak is otthont ad.", "category": "natural", "confidence": "high", "coords": [-3.979071, 51.614967]}, {"name": "Dylan Thomas Centre", "text": "A központ a város leghíresebb költőjének életét és munkásságát mutatja be egy állandó kiállítás keretében.", "category": "cultural", "confidence": "high", "coords": [-3.93583, 51.6192]}, {"name": "Glynn Vivian Művészeti Galéria", "text": "Az 1911-ben alapított galéria jelentős walesi művészeti gyűjteménnyel és európai porcelánokkal rendelkezik.", "category": "museum", "confidence": "high", "coords": [-3.944364, 51.623821]}, {"name": "Grand Theatre", "text": "Az 1897-ben megnyitott színház a város kulturális szíve, amely több mint 1000 néző befogadására alkalmas.", "category": "cultural", "confidence": "high", "coords": [-3.948022, 51.618135]}, {"name": "Swansea piac", "text": "Wales legnagyobb fedett piaca a 19. század óta kínál helyi specialitásokat, például tengeri herkentyűket.", "category": "culinary", "confidence": "high", "coords": [-3.95, 51.618]}, {"name": "Swansea.com Stadion", "text": "A 2005-ben átadott stadion a Swansea City AFC labdarúgócsapat és az Ospreys rögbi-együttes otthona.", "category": "recreational", "confidence": "high", "coords": [-3.935268, 51.641869]}, {"name": "Brangwyn Hall", "text": "A városházán belüli hangversenyterem a Lordok Háza számára készült Brangwyn-panelekről híres.", "category": "cultural", "confidence": "high", "coords": [-3.960181, 51.613742]}, {"name": "LC Swansea", "text": "Wales legnagyobb vízi parkja és szabadidős központja a városközpontban található, 2008-ban modernizálták.", "category": "recreational", "confidence": "high", "coords": [-3.940578, 51.61688]}, {"name": "Plantasia", "text": "Ez a városközponti üvegház trópusi esőerdőt, egzotikus állatokat és ritka növényeket mutat be.", "category": "recreational", "confidence": "high", "coords": [-3.93861, 51.6217]}, {"name": "Swansea-öböl", "text": "Az öt kilométer hosszú homokos partszakasz a jachtkikötőtől Mumbles-ig tart, ideális sétákhoz.", "category": "natural", "confidence": "high", "coords": [-3.9, 51.5833]}, {"name": "Caswell-öböl", "text": "A Gower-félsziget népszerű strandja kiváló vízminőségéről ismert, a szörfösök egyik kedvenc helye.", "category": "natural", "confidence": "high", "coords": [-4.030828, 51.570685]}, {"name": "Langland-öböl", "text": "Festői tengerparti helyszín jellegzetes zöld strandkunyhókkal és kiváló szörfözési lehetőségekkel.", "category": "natural", "confidence": "high", "coords": [-4.0, 51.566667]}, {"name": "Gower Heritage Centre", "text": "Egy 12. századi vízimalom köré épült skanzen, amely a hagyományos mesterségeket és a vidéki életet mutatja be.", "category": "museum", "confidence": "high", "coords": [-4.103538, 51.583481]}, {"name": "Szent Mária-templom", "text": "A második világháborúban lerombolt, majd az 1950-es években újjáépített templom a város vallási központja.", "category": "religious", "confidence": "high", "coords": [-3.942531, 51.619431]}, {"name": "Egyiptomi Központ", "text": "A Swansea-i Egyetem múzeuma több mint 5000 ókori egyiptomi tárgyat őriz Henry Wellcome gyűjteményéből.", "category": "museum", "confidence": "high", "coords": [-3.97917, 51.6103]}, {"name": "Swansea Egyetem", "text": "Az 1920-ban alapított intézmény a Singleton Parkban található, híres kutatásairól és tengerparti fekvéséről.", "category": "civic", "confidence": "high", "coords": [-3.980556, 51.609722]}, {"name": "Wind Street", "text": "A történelmi utca ma a város éjszakai életének központja, számos bárral és étteremmel.", "category": "culinary", "confidence": "high", "coords": [-3.940272, 51.619326]}, {"name": "Victoria Park", "text": "Az 1887-ben alapított parkban áll Jack, a kutya emlékműve, aki 27 embert mentett ki a tengerből.", "category": "natural", "confidence": "high", "coords": [-3.961405, 51.613137]}, {"name": "ABCC Meeting Point", "text": "Strand Swansea közelében.", "category": "recreational", "coords": [-3.936517, 51.61423]}, {"name": "Palace Theatre", "text": "Egy feltűnő és történelmi színházépület Swansea-ban.", "category": "cultural", "coords": [-3.941249, 51.62744]}, {"name": "Crymlyn Bog", "text": "Egy fontos természetvédelmi terület és mocsár Swansea közelében.", "category": "natural", "coords": [-3.884243, 51.636819]}, {"name": "Saint Thomas Community Centre", "text": "Helyi közösségi központ Swansea-ban, ahol színházi előadásokat is tartanak.", "category": "cultural", "coords": [-3.928336, 51.624202]}, {"name": "Swansea Beach", "text": "Swansea városának fő strandjaként ez a nyüzsgő partszakasz közvetlenül a walesi metropolisz kapujában terül el. Központi találkozóhely a helyiek és a látogatók számára, akik szeretnék élvezni a tengert és a tágas teret. A környéket apálykor, a hosszú homokpadokon sétálva érdemes leginkább felfedezni.", "category": "recreational", "coords": [-3.974474, 51.598005]}, {"name": "Rosehill Quarry Nature Reserve", "text": "Egy városi természetvédelmi terület Swansea-ban.", "category": "natural", "coords": [-3.959975, 51.62382]}, {"name": "Swansea Museum Collections Centre", "text": "Swansea-i létesítmény, ahol a múzeumi gyűjteményeket tárolják.", "category": "museum", "coords": [-3.936942, 51.640105]}, {"name": "Swansea Museum Tramway Centre", "text": "A Swansea Múzeum részét képező villamosmúzeum.", "category": "museum", "coords": [-3.93752, 51.616732]}, {"name": "Oriel Science", "text": "Az Oriel Science egy helyi múzeum Swansea városában.", "category": "museum", "coords": [-3.94246, 51.621398]}, {"name": "Kilvey Hill", "text": "A Kilvey Hill egy kiemelkedő hegycsúcs, amely Swansea városára néz.", "category": "natural", "coords": [-3.920309, 51.628967]}, {"name": "Elysium", "text": "Az Elysium egy művészeti központ Swansea városában.", "category": "cultural", "coords": [-3.941738, 51.623932]}, {"name": "The Vetch", "text": "A The Vetch egy nyilvános park Swansea-ben, amely egykor a Vetch Field futballstadion helyszíne volt.", "category": "park", "coords": [-3.950066, 51.616489]}, {"name": "Parc Cwmdoncyn / Cwmdonkin Park", "text": "A Cwmdonkin Park egy helyi park Swansea városában.", "category": "park", "coords": [-3.969413, 51.621351]}, {"name": "Vivian Engine House", "text": "A Vivian Engine House történelmi romokat foglal magába Swansea városában.", "category": "historical", "coords": [-3.935193, 51.637683]}, {"name": "Mansion House", "text": "A Mansion House egy látványosság Swansea-ben, amely a főpolgármester hivatalos rezidenciájaként szolgál.", "category": "landmark", "coords": [-3.959719, 51.621689]}, {"name": "Gorsedd Stone Circle", "text": "A Gorsedd Stone Circle egy kőemlékmű Swansea városában.", "category": "historical", "coords": [-3.980847, 51.616171]}, {"name": "Rosehill Quarry Labyrinth", "text": "A Rosehill Quarry Labyrinth egy egyedi helyi látványosság Swansea-ben.", "category": "landmark", "coords": [-3.958863, 51.623855]}, {"name": "Kilvey Hill Windmill (remains)", "text": "A Kilvey Hill Windmill maradványai történelmi romok Swansea városában.", "category": "historical", "coords": [-3.918318, 51.628684]}, {"name": "Laboratory", "text": "A Laboratory történelmi romokat bemutató helyszín Swansea városában.", "category": "historical", "coords": [-3.936337, 51.639009]}, {"name": "Hafod Lime Kiln", "text": "A Hafod Lime Kiln történelmi mészégető romjait mutatja be Swansea-ben.", "category": "historical", "coords": [-3.936455, 51.637769]}, {"name": "Dylan Thomas House", "text": "A Dylan Thomas House a híres írónak szentelt látványosság Swansea városában.", "category": "landmark", "coords": [-3.9648, 51.621015]}, {"name": "Christ Church", "text": "A Christ Church egy helyi istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.951299, 51.614376]}, {"name": "Capel y Trinity", "text": "A Capel y Trinity egy istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.97752, 51.618808]}, {"name": "Civic Centre", "text": "A Civic Centre a legfőbb önkormányzati adminisztrációs épület Swansea-ben.", "category": "historical", "coords": [-3.948577, 51.613897]}, {"name": "Saint Paul", "text": "A Saint Paul egy istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.983454, 51.617112]}, {"name": "Saint John's", "text": "A Saint John's egy helyi istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.941695, 51.634704]}, {"name": "St. James' Church", "text": "A St. James' Church egy dedikált istentiszteleti hely Swansea-ben.", "category": "religious", "coords": [-3.960512, 51.618867]}, {"name": "Kingdom Hall", "text": "A Kingdom Hall egy helyi istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.96341, 51.618665]}, {"name": "Townhill Baptist Church", "text": "A Townhill Baptist Church egy istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.967422, 51.625628]}, {"name": "York Place Baptist Church", "text": "A York Place Baptist Church egy vallási épület Swansea-ben.", "category": "religious", "coords": [-3.939714, 51.618045]}, {"name": "Saint Thomas's", "text": "A Saint Thomas's egy istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.928153, 51.622143]}, {"name": "Mount Pleasant Baptist Chapel", "text": "A Mount Pleasant Baptist Chapel egy helyi istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.945466, 51.621266]}, {"name": "Ebenezer Baptist Church", "text": "Az Ebenezer Baptist Church egy istentiszteleti hely Swansea városában.", "category": "religious", "coords": [-3.942343, 51.62591]}, {"name": "Coed Darcy North Site", "text": "A(z) Coed Darcy North Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-3.85929, 51.652815]}, {"name": "Coed Darcy South Site", "text": "A(z) Coed Darcy South Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-3.867794, 51.650776]}, {"name": "Bunkers", "text": "A(z) Bunkers egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-3.938303, 51.618793]}, {"name": "Marina Amusement Arcade", "text": "A(z) Marina Amusement Arcade egy játékterem Swansea területén, amely tökéletes a szórakozást kereső családok számára.", "category": "family", "coords": [-3.940236, 51.615908]}, {"name": "Crazy Golf", "text": "A(z) Crazy Golf egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-3.98196, 51.606777]}, {"name": "Brynmill Park Playground", "text": "A(z) Brynmill Park Playground egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-3.972394, 51.615981]}, {"name": "Marina Park", "text": "A(z) Marina Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-3.929793, 51.614588]}, {"name": "Rees Row Park", "text": "A(z) Rees Row Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-3.935584, 51.648766]}, {"name": "Wales National Pool", "text": "A swansea-i Wales National Pool professzionális úszási lehetőségeket kínál a családoknak.", "category": "family", "coords": [-3.988772, 51.607548]}, {"name": "Blackpill Lido", "text": "A swansea-i Blackpill Lido egy szabadtéri medencével és játszóterekkel rendelkező vízipark családoknak.", "category": "family", "coords": [-3.994448, 51.597257]}], "ro": [{"name": "Marina Swansea", "text": "Inaugurată în 1982 în vechiul cartier portuar, marina este astăzi un centru rezidențial și de agrement vibrant.", "category": "recreational", "confidence": "high", "coords": [-3.93833, 51.6158]}, {"name": "Muzeul Național Waterfront", "text": "Muzeul prezintă istoria industrială a Țării Galilor și a fost deschis în 2005 într-o clădire modernă din sticlă.", "category": "museum", "confidence": "high", "coords": [-3.938846, 51.616367]}, {"name": "Muzeul Swansea", "text": "Cel mai vechi muzeu din Țara Galilor a fost fondat în 1841 și găzduiește, printre altele, o mumie egipteană antică.", "category": "museum", "confidence": "high", "coords": [-3.938111, 51.617806]}, {"name": "The Guildhall", "text": "Primăria deschisă în 1934 este cunoscută pentru stilul său Art Deco și sala Brangwyn Hall cu picturile sale murale.", "category": "civic", "confidence": "high", "coords": [-3.960547, 51.612874]}, {"name": "Castelul Swansea", "text": "Ruinele castelului din secolul al XII-lea se află în centrul orașului, amintind de splendoarea medievală de odinioară.", "category": "fortress", "confidence": "high", "coords": [-3.94111, 51.6204]}, {"name": "Castelul Oystermouth", "text": "Construit de normanzi în secolul al XII-lea, acest castel oferă o vedere panoramică asupra golfului Swansea.", "category": "fortress", "confidence": "high", "coords": [-4.002707, 51.576995]}, {"name": "Mollul Mumbles", "text": "Deschis în 1898, acest moll victorian lung de 256 de metri este o destinație populară pentru pescari și turiști.", "category": "recreational", "confidence": "high", "coords": [-3.98028, 51.5697]}, {"name": "Grădinile Clyne", "text": "Grădina botanică este faimoasă pentru colecția sa de rododendroni și vederile pitorești spre mare.", "category": "natural", "confidence": "high", "coords": [-3.999974, 51.596592]}, {"name": "Parcul Singleton", "text": "Cel mai mare parc urban se întinde pe 100 de hectare și găzduiește grădini botanice și un lac cu bărci.", "category": "natural", "confidence": "high", "coords": [-3.979071, 51.614967]}, {"name": "Centrul Dylan Thomas", "text": "Centrul este dedicat celui mai faimos poet al orașului și găzduiește o expoziție permanentă despre viața sa.", "category": "cultural", "confidence": "high", "coords": [-3.93583, 51.6192]}, {"name": "Galeria de Artă Glynn Vivian", "text": "Deschisă în 1911, galeria găzduiește o colecție importantă de artă galeză și lucrări europene din porțelan.", "category": "museum", "confidence": "high", "coords": [-3.944364, 51.623821]}, {"name": "Teatrul Grand", "text": "Deschis în 1897, acest teatru este inima culturală a orașului și poate găzdui peste 1.000 de spectatori.", "category": "cultural", "confidence": "high", "coords": [-3.948022, 51.618135]}, {"name": "Piața Swansea", "text": "Cea mai mare piață acoperită din Țara Galilor oferă specialități locale precum scoici încă din secolul al XIX-lea.", "category": "culinary", "confidence": "high", "coords": [-3.95, 51.618]}, {"name": "Stadionul Swansea.com", "text": "Deschis în 2005, stadionul este casa echipei de fotbal Swansea City AFC și a echipei de rugby Ospreys.", "category": "recreational", "confidence": "high", "coords": [-3.935268, 51.641869]}, {"name": "Brangwyn Hall", "text": "Sala de concerte din cadrul Guildhall este celebră pentru panourile Brangwyn, create inițial pentru Camera Lorzilor.", "category": "cultural", "confidence": "high", "coords": [-3.960181, 51.613742]}, {"name": "LC Swansea", "text": "Cel mai mare parc acvatic și centru de agrement din Țara Galilor a fost modernizat extensiv în 2008.", "category": "recreational", "confidence": "high", "coords": [-3.940578, 51.61688]}, {"name": "Plantasia", "text": "Această pădure tropicală sub sticlă găzduiește animale exotice precum crocodili și suricate chiar în centrul orașului.", "category": "recreational", "confidence": "high", "coords": [-3.93861, 51.6217]}, {"name": "Golful Swansea", "text": "Plaja cu nisip lungă de cinci kilometri se întinde de la marină până la Mumbles și este ideală pentru plimbări.", "category": "natural", "confidence": "high", "coords": [-3.9, 51.5833]}, {"name": "Golful Caswell", "text": "Această plajă populară din peninsula Gower este cunoscută pentru calitatea apei și este ideală pentru surferi.", "category": "natural", "confidence": "high", "coords": [-4.030828, 51.570685]}, {"name": "Golful Langland", "text": "O locație costieră pitorească, cu cabane de plajă verzi caracteristice și condiții excelente pentru surf.", "category": "natural", "confidence": "high", "coords": [-4.0, 51.566667]}, {"name": "Centrul de Patrimoniu Gower", "text": "Un muzeu viu situat într-o moară din secolul al XII-lea, care prezintă meșteșugurile tradiționale și viața rurală.", "category": "museum", "confidence": "high", "coords": [-4.103538, 51.583481]}, {"name": "Biserica Sf. Maria", "text": "Distrusă în al Doilea Război Mondial și reconstruită în anii 1950, biserica este centrul religios al orașului.", "category": "religious", "confidence": "high", "coords": [-3.942531, 51.619431]}, {"name": "Centrul Egiptului", "text": "Muzeul Universității Swansea deține peste 5.000 de obiecte egiptene antice din colecția lui Henry Wellcome.", "category": "museum", "confidence": "high", "coords": [-3.97917, 51.6103]}, {"name": "Universitatea Swansea", "text": "Fondată în 1920, universitatea este situată în Singleton Park și este cunoscută pentru cercetare și locația sa la mare.", "category": "civic", "confidence": "high", "coords": [-3.980556, 51.609722]}, {"name": "Wind Street", "text": "Strada istorică din centrul orașului este astăzi centrul vieții de noapte, cu numeroase baruri și restaurante.", "category": "culinary", "confidence": "high", "coords": [-3.940272, 51.619326]}, {"name": "Parcul Victoria", "text": "Un parc din 1887 care găzduiește monumentul câinelui Jack, care a salvat 27 de persoane de la înec.", "category": "natural", "confidence": "high", "coords": [-3.961405, 51.613137]}, {"name": "ABCC Meeting Point", "text": "Plajă lângă Swansea.", "category": "recreational", "coords": [-3.936517, 51.61423]}, {"name": "Palace Theatre", "text": "O clădire de teatru istorică și impresionantă din Swansea.", "category": "cultural", "coords": [-3.941249, 51.62744]}, {"name": "Crymlyn Bog", "text": "O rezervație naturală și o zonă de mlaștină importantă lângă Swansea.", "category": "natural", "coords": [-3.884243, 51.636819]}, {"name": "Saint Thomas Community Centre", "text": "Un centru comunitar local din Swansea care găzduiește și spectacole de teatru.", "category": "cultural", "coords": [-3.928336, 51.624202]}, {"name": "Swansea Beach", "text": "Fiind plaja principală a orașului Swansea, această porțiune de coastă plină de viață se întinde chiar la porțile metropolei galeze. Este un punct central de atracție pentru localnici și vizitatori care doresc să se bucure de mare și de spațiile deschise. Zona este cel mai bine de explorat la reflux, pe bancurile lungi de nisip.", "category": "recreational", "coords": [-3.974474, 51.598005]}, {"name": "Rosehill Quarry Nature Reserve", "text": "O rezervație naturală urbană din Swansea.", "category": "natural", "coords": [-3.959975, 51.62382]}, {"name": "Swansea Museum Collections Centre", "text": "O facilitate din Swansea unde sunt păstrate colecțiile muzeului.", "category": "museum", "coords": [-3.936942, 51.640105]}, {"name": "Swansea Museum Tramway Centre", "text": "Un centru cu tramvaie care face parte din Muzeul Swansea.", "category": "museum", "coords": [-3.93752, 51.616732]}, {"name": "Oriel Science", "text": "Oriel Science este un muzeu local situat în Swansea.", "category": "museum", "coords": [-3.94246, 51.621398]}, {"name": "Kilvey Hill", "text": "Kilvey Hill este un vârf proeminent care domină orașul Swansea.", "category": "natural", "coords": [-3.920309, 51.628967]}, {"name": "Elysium", "text": "Elysium este un centru de arte situat în Swansea.", "category": "cultural", "coords": [-3.941738, 51.623932]}, {"name": "The Vetch", "text": "The Vetch este un parc public din Swansea, amenajat pe fostul teren al stadionului de fotbal Vetch Field.", "category": "park", "coords": [-3.950066, 51.616489]}, {"name": "Parc Cwmdoncyn / Cwmdonkin Park", "text": "Cwmdonkin Park este un parc local situat în Swansea.", "category": "park", "coords": [-3.969413, 51.621351]}, {"name": "Vivian Engine House", "text": "Vivian Engine House prezintă ruine istorice situate în Swansea.", "category": "historical", "coords": [-3.935193, 51.637683]}, {"name": "Mansion House", "text": "Mansion House este o atracție în Swansea, servind drept reședință oficială a Lordului Primar.", "category": "landmark", "coords": [-3.959719, 51.621689]}, {"name": "Gorsedd Stone Circle", "text": "Gorsedd Stone Circle este un monument de piatră situat în Swansea.", "category": "historical", "coords": [-3.980847, 51.616171]}, {"name": "Rosehill Quarry Labyrinth", "text": "Rosehill Quarry Labyrinth este o atracție locală unică din Swansea.", "category": "landmark", "coords": [-3.958863, 51.623855]}, {"name": "Kilvey Hill Windmill (remains)", "text": "Rămășițele Kilvey Hill Windmill sunt ruine istorice din Swansea.", "category": "historical", "coords": [-3.918318, 51.628684]}, {"name": "Laboratory", "text": "Laboratory este un sit cu ruine istorice situat în Swansea.", "category": "historical", "coords": [-3.936337, 51.639009]}, {"name": "Hafod Lime Kiln", "text": "Hafod Lime Kiln prezintă ruinele istorice ale unui cuptor de var din Swansea.", "category": "historical", "coords": [-3.936455, 51.637769]}, {"name": "Dylan Thomas House", "text": "Dylan Thomas House este o atracție din Swansea dedicată faimosului scriitor.", "category": "landmark", "coords": [-3.9648, 51.621015]}, {"name": "Christ Church", "text": "Christ Church este un lăcaș de cult local situat în Swansea.", "category": "religious", "coords": [-3.951299, 51.614376]}, {"name": "Capel y Trinity", "text": "Capel y Trinity este un lăcaș de cult situat în Swansea.", "category": "religious", "coords": [-3.97752, 51.618808]}, {"name": "Civic Centre", "text": "Civic Centre este principala clădire a administrației locale din Swansea.", "category": "historical", "coords": [-3.948577, 51.613897]}, {"name": "Saint Paul", "text": "Saint Paul este un lăcaș de cult situat în Swansea.", "category": "religious", "coords": [-3.983454, 51.617112]}, {"name": "Saint John's", "text": "Saint John's este un lăcaș de cult local situat în Swansea.", "category": "religious", "coords": [-3.941695, 51.634704]}, {"name": "St. James' Church", "text": "St. James' Church este un lăcaș de cult din Swansea.", "category": "religious", "coords": [-3.960512, 51.618867]}, {"name": "Kingdom Hall", "text": "Kingdom Hall este un lăcaș de cult local situat în Swansea.", "category": "religious", "coords": [-3.96341, 51.618665]}, {"name": "Townhill Baptist Church", "text": "Townhill Baptist Church este un lăcaș de cult situat în Swansea.", "category": "religious", "coords": [-3.967422, 51.625628]}, {"name": "York Place Baptist Church", "text": "York Place Baptist Church este o clădire religioasă situată în Swansea.", "category": "religious", "coords": [-3.939714, 51.618045]}, {"name": "Saint Thomas's", "text": "Saint Thomas's este un lăcaș de cult situat în Swansea.", "category": "religious", "coords": [-3.928153, 51.622143]}, {"name": "Mount Pleasant Baptist Chapel", "text": "Mount Pleasant Baptist Chapel este un lăcaș de cult local situat în Swansea.", "category": "religious", "coords": [-3.945466, 51.621266]}, {"name": "Ebenezer Baptist Church", "text": "Ebenezer Baptist Church este un lăcaș de cult situat în Swansea.", "category": "religious", "coords": [-3.942343, 51.62591]}, {"name": "Coed Darcy North Site", "text": "Coed Darcy North Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-3.85929, 51.652815]}, {"name": "Coed Darcy South Site", "text": "Coed Darcy South Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-3.867794, 51.650776]}, {"name": "Bunkers", "text": "Bunkers este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-3.938303, 51.618793]}, {"name": "Marina Amusement Arcade", "text": "Marina Amusement Arcade este o sală de jocuri arcade în Swansea, perfectă pentru familiile care caută distracție.", "category": "family", "coords": [-3.940236, 51.615908]}, {"name": "Crazy Golf", "text": "Crazy Golf este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-3.98196, 51.606777]}, {"name": "Brynmill Park Playground", "text": "Brynmill Park Playground este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-3.972394, 51.615981]}, {"name": "Marina Park", "text": "Marina Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-3.929793, 51.614588]}, {"name": "Rees Row Park", "text": "Rees Row Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-3.935584, 51.648766]}, {"name": "Wales National Pool", "text": "Wales National Pool din Swansea oferă facilități de înot la standarde profesionale pentru familii.", "category": "family", "coords": [-3.988772, 51.607548]}, {"name": "Blackpill Lido", "text": "Blackpill Lido este un parc acvatic cu o piscină în aer liber și zone de joacă pentru familii.", "category": "family", "coords": [-3.994448, 51.597257]}], "en": [{"name": "Swansea Marina", "text": "Opened in 1982 in the old docklands, the marina is now a vibrant residential and leisure hub.", "category": "recreational", "confidence": "high", "coords": [-3.93833, 51.6158]}, {"name": "National Waterfront Museum", "text": "The museum showcases the industrial history of Wales and opened in 2005 in a modern glass building.", "category": "museum", "confidence": "high", "coords": [-3.938846, 51.616367]}, {"name": "Swansea Museum", "text": "The oldest museum in Wales was founded in 1841 and houses an ancient Egyptian mummy among its treasures.", "category": "museum", "confidence": "high", "coords": [-3.938111, 51.617806]}, {"name": "The Guildhall", "text": "Opened in 1934, the city hall is famous for its Art Deco style and the Brangwyn Hall with its historic murals.", "category": "civic", "confidence": "high", "coords": [-3.960547, 51.612874]}, {"name": "Swansea Castle", "text": "The ruins of the 12th-century castle stand in the city center, showing remains of its medieval grandeur.", "category": "fortress", "confidence": "high", "coords": [-3.94111, 51.6204]}, {"name": "Oystermouth Castle", "text": "Built by the Normans in the 12th century, this castle offers sweeping views over Swansea Bay.", "category": "fortress", "confidence": "high", "coords": [-4.002707, 51.576995]}, {"name": "Mumbles Pier", "text": "Opened in 1898, the 256-meter long Victorian pier is a popular destination for anglers and tourists.", "category": "recreational", "confidence": "high", "coords": [-3.98028, 51.5697]}, {"name": "Clyne Gardens", "text": "The botanical garden is famous for its collection of rhododendrons and picturesque views over the sea.", "category": "natural", "confidence": "high", "coords": [-3.999974, 51.596592]}, {"name": "Singleton Park", "text": "The largest urban park covers 100 hectares and houses botanical gardens and a boating lake.", "category": "natural", "confidence": "high", "coords": [-3.979071, 51.614967]}, {"name": "Dylan Thomas Centre", "text": "The center is dedicated to the city's most famous poet and features a permanent exhibition about his life.", "category": "cultural", "confidence": "high", "coords": [-3.93583, 51.6192]}, {"name": "Glynn Vivian Art Gallery", "text": "Opened in 1911, the gallery houses a significant collection of Welsh art and European porcelain works.", "category": "museum", "confidence": "high", "coords": [-3.944364, 51.623821]}, {"name": "Grand Theatre", "text": "Opened in 1897, this theater is the cultural heart of the city and can seat over 1,000 spectators.", "category": "cultural", "confidence": "high", "coords": [-3.948022, 51.618135]}, {"name": "Swansea Market", "text": "The largest indoor market in Wales has been offering local specialties like cockles since the 19th century.", "category": "culinary", "confidence": "high", "coords": [-3.95, 51.618]}, {"name": "Swansea.com Stadium", "text": "Opened in 2005, the stadium is the home of Swansea City AFC and the Ospreys rugby team.", "category": "recreational", "confidence": "high", "coords": [-3.935268, 51.641869]}, {"name": "Brangwyn Hall", "text": "The concert hall within the Guildhall is famous for the Brangwyn Panels, designed for the House of Lords.", "category": "cultural", "confidence": "high", "coords": [-3.960181, 51.613742]}, {"name": "LC Swansea", "text": "Wales' largest waterpark and leisure center is located in the city center and was extensively modernized in 2008.", "category": "recreational", "confidence": "high", "coords": [-3.940578, 51.61688]}, {"name": "Plantasia", "text": "This tropical rainforest under glass houses exotic animals like crocodiles and meerkats in the heart of the city.", "category": "recreational", "confidence": "high", "coords": [-3.93861, 51.6217]}, {"name": "Swansea Bay", "text": "The five-kilometer long sandy beach stretches from the marina to Mumbles and is ideal for walking.", "category": "natural", "confidence": "high", "coords": [-3.9, 51.5833]}, {"name": "Caswell Bay", "text": "This popular beach on the Gower Peninsula is known for its water quality and is ideal for surfers.", "category": "natural", "confidence": "high", "coords": [-4.030828, 51.570685]}, {"name": "Langland Bay", "text": "A picturesque coastal location with characteristic green beach huts and excellent surfing conditions.", "category": "natural", "confidence": "high", "coords": [-4.0, 51.566667]}, {"name": "Gower Heritage Centre", "text": "A living museum based around a 12th-century water mill, showing traditional crafts and rural life.", "category": "museum", "confidence": "high", "coords": [-4.103538, 51.583481]}, {"name": "St Mary's Church", "text": "Destroyed in WWII and rebuilt in the 1950s, the church is the religious center of the city.", "category": "religious", "confidence": "high", "coords": [-3.942531, 51.619431]}, {"name": "Egypt Centre", "text": "The museum at Swansea University holds over 5,000 ancient Egyptian objects from Henry Wellcome's collection.", "category": "museum", "confidence": "high", "coords": [-3.97917, 51.6103]}, {"name": "Swansea University", "text": "Founded in 1920, the university is located in Singleton Park and is known for its research and seaside location.", "category": "civic", "confidence": "high", "coords": [-3.980556, 51.609722]}, {"name": "Wind Street", "text": "The historic city center street is now the hub of the city's nightlife with numerous bars and restaurants.", "category": "culinary", "confidence": "high", "coords": [-3.940272, 51.619326]}, {"name": "Victoria Park", "text": "A park dating from 1887 which hosts the monument to Jack the dog, who saved 27 people from drowning.", "category": "natural", "confidence": "high", "coords": [-3.961405, 51.613137]}, {"name": "ABCC Meeting Point", "text": "A beach near Swansea.", "category": "recreational", "coords": [-3.936517, 51.61423]}, {"name": "Palace Theatre", "text": "A distinctive and historic theatre building in Swansea.", "category": "cultural", "coords": [-3.941249, 51.62744]}, {"name": "Crymlyn Bog", "text": "An important nature reserve and bog near Swansea.", "category": "natural", "coords": [-3.884243, 51.636819]}, {"name": "Saint Thomas Community Centre", "text": "A local community centre in Swansea that also hosts theatrical performances.", "category": "cultural", "coords": [-3.928336, 51.624202]}, {"name": "Swansea Beach", "text": "Serving as the main beach for the city of Swansea, this lively stretch of coastline unfolds right at the gates of the Welsh metropolis. It is a central hub for locals and visitors wanting to enjoy the sea and the open space. The area is best explored at low tide across the long sandbanks.", "category": "recreational", "coords": [-3.974474, 51.598005]}, {"name": "Rosehill Quarry Nature Reserve", "text": "An urban nature reserve located in Swansea.", "category": "natural", "coords": [-3.959975, 51.62382]}, {"name": "Swansea Museum Collections Centre", "text": "A facility in Swansea where museum collections are stored.", "category": "museum", "coords": [-3.936942, 51.640105]}, {"name": "Swansea Museum Tramway Centre", "text": "A tramway museum that is part of the Swansea Museum.", "category": "museum", "coords": [-3.93752, 51.616732]}, {"name": "Oriel Science", "text": "Oriel Science is a local museum located in Swansea.", "category": "museum", "coords": [-3.94246, 51.621398]}, {"name": "Kilvey Hill", "text": "Kilvey Hill is a notable peak overlooking the city of Swansea.", "category": "natural", "coords": [-3.920309, 51.628967]}, {"name": "Elysium", "text": "Elysium is a dedicated arts centre situated in Swansea.", "category": "cultural", "coords": [-3.941738, 51.623932]}, {"name": "The Vetch", "text": "The Vetch is a public park in Swansea that was formerly the site of the Vetch Field football stadium.", "category": "park", "coords": [-3.950066, 51.616489]}, {"name": "Cwmdonkin Park", "text": "Cwmdonkin Park is a local park providing green space in Swansea.", "category": "park", "coords": [-3.969413, 51.621351]}, {"name": "Vivian Engine House", "text": "Vivian Engine House features historical ruins situated in Swansea.", "category": "historical", "coords": [-3.935193, 51.637683]}, {"name": "Mansion House", "text": "Mansion House is an attraction in Swansea that serves as the official residence of the Lord Mayor.", "category": "landmark", "coords": [-3.959719, 51.621689]}, {"name": "Gorsedd Stone Circle", "text": "Gorsedd Stone Circle is a stone monument situated in Swansea.", "category": "historical", "coords": [-3.980847, 51.616171]}, {"name": "Rosehill Quarry Labyrinth", "text": "Rosehill Quarry Labyrinth is a unique local attraction found in Swansea.", "category": "landmark", "coords": [-3.958863, 51.623855]}, {"name": "Kilvey Hill Windmill (remains)", "text": "The remains of the Kilvey Hill Windmill are historical ruins in Swansea.", "category": "historical", "coords": [-3.918318, 51.628684]}, {"name": "Laboratory", "text": "The Laboratory is a site featuring historical ruins in Swansea.", "category": "historical", "coords": [-3.936337, 51.639009]}, {"name": "Hafod Lime Kiln", "text": "Hafod Lime Kiln features historical lime kiln ruins in Swansea.", "category": "historical", "coords": [-3.936455, 51.637769]}, {"name": "Dylan Thomas House", "text": "Dylan Thomas House is an attraction in Swansea dedicated to the famous writer.", "category": "landmark", "coords": [-3.9648, 51.621015]}, {"name": "Christ Church", "text": "Christ Church is a local place of worship located in Swansea.", "category": "religious", "coords": [-3.951299, 51.614376]}, {"name": "Capel y Trinity", "text": "Capel y Trinity is a place of worship situated in Swansea.", "category": "religious", "coords": [-3.97752, 51.618808]}, {"name": "Civic Centre", "text": "The Civic Centre is the principal local government building in Swansea.", "category": "historical", "coords": [-3.948577, 51.613897]}, {"name": "Saint Paul", "text": "Saint Paul is a place of worship situated in Swansea.", "category": "religious", "coords": [-3.983454, 51.617112]}, {"name": "Saint John's", "text": "Saint John's is a local place of worship located in Swansea.", "category": "religious", "coords": [-3.941695, 51.634704]}, {"name": "St. James' Church", "text": "St. James' Church is a dedicated place of worship in Swansea.", "category": "religious", "coords": [-3.960512, 51.618867]}, {"name": "Kingdom Hall", "text": "Kingdom Hall is a local place of worship located in Swansea.", "category": "religious", "coords": [-3.96341, 51.618665]}, {"name": "Townhill Baptist Church", "text": "Townhill Baptist Church is a place of worship situated in Swansea.", "category": "religious", "coords": [-3.967422, 51.625628]}, {"name": "York Place Baptist Church", "text": "York Place Baptist Church is a religious building located in Swansea.", "category": "religious", "coords": [-3.939714, 51.618045]}, {"name": "Saint Thomas's", "text": "Saint Thomas's is a place of worship situated in Swansea.", "category": "religious", "coords": [-3.928153, 51.622143]}, {"name": "Mount Pleasant Baptist Chapel", "text": "Mount Pleasant Baptist Chapel is a local place of worship located in Swansea.", "category": "religious", "coords": [-3.945466, 51.621266]}, {"name": "Ebenezer Baptist Church", "text": "Ebenezer Baptist Church is a place of worship situated in Swansea.", "category": "religious", "coords": [-3.942343, 51.62591]}, {"name": "Coed Darcy North Site", "text": "Coed Darcy North Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-3.85929, 51.652815]}, {"name": "Coed Darcy South Site", "text": "Coed Darcy South Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-3.867794, 51.650776]}, {"name": "Bunkers", "text": "Bunkers is a miniature golf course in Swansea, providing a fun activity for families and friends.", "category": "family", "coords": [-3.938303, 51.618793]}, {"name": "Marina Amusement Arcade", "text": "Marina Amusement Arcade is an amusement arcade in Swansea, perfect for families seeking exciting entertainment.", "category": "family", "coords": [-3.940236, 51.615908]}, {"name": "Crazy Golf", "text": "Crazy Golf is a miniature golf course in Swansea, providing a fun activity for families and friends.", "category": "family", "coords": [-3.98196, 51.606777]}, {"name": "Brynmill Park Playground", "text": "Brynmill Park Playground is a playground in Swansea, offering outdoor fun for families.", "category": "family", "coords": [-3.972394, 51.615981]}, {"name": "Marina Park", "text": "Marina Park is a playground in Swansea, offering outdoor fun for families.", "category": "family", "coords": [-3.929793, 51.614588]}, {"name": "Rees Row Park", "text": "Rees Row Park is a playground in Swansea, offering outdoor fun for families.", "category": "family", "coords": [-3.935584, 51.648766]}, {"name": "Wales National Pool", "text": "Wales National Pool in Swansea provides professional-standard swimming facilities for families.", "category": "family", "coords": [-3.988772, 51.607548]}, {"name": "Blackpill Lido", "text": "Blackpill Lido in Swansea is a water park featuring an outdoor pool and play areas for families.", "category": "family", "coords": [-3.994448, 51.597257]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "Der 1982 eröffnete Jachthafen im alten Hafenviertel ist heute ein lebendiges Wohn- und Freizeitzentrum.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93833,
+                        51.6158
+                  ]
+            },
+            {
+                  "name": "National Waterfront Museum",
+                  "text": "Das Museum zeigt die Industriegeschichte von Wales und wurde 2005 in einem modernen Glasbau eröffnet.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938846,
+                        51.616367
+                  ]
+            },
+            {
+                  "name": "Swansea Museum",
+                  "text": "Das älteste Museum in Wales wurde 1841 gegründet und beherbergt unter anderem eine altägyptische Mumie.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938111,
+                        51.617806
+                  ]
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Das 1934 eröffnete Rathaus ist für seinen Art-déco-Stil und die Brangwyn Hall mit ihren Wandgemälden bekannt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960547,
+                        51.612874
+                  ]
+            },
+            {
+                  "name": "Swansea Castle",
+                  "text": "Die Ruinen der Burg aus dem 12. Jahrhundert stehen im Stadtzentrum und zeigen Überreste des mittelalterlichen Glanzes.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -3.94111,
+                        51.6204
+                  ]
+            },
+            {
+                  "name": "Oystermouth Castle",
+                  "text": "Diese im 12. Jahrhundert von den Normannen erbaute Burg bietet einen weiten Blick über die Bucht von Swansea.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -4.002707,
+                        51.576995
+                  ]
+            },
+            {
+                  "name": "Mumbles Pier",
+                  "text": "Der 1898 eröffnete, 256 Meter lange viktorianische Pier ist ein beliebtes Ziel für Angler und Ausflügler.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.98028,
+                        51.5697
+                  ]
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "Der botanische Garten ist berühmt für seine Sammlung von Rhododendren und die malerische Aussicht auf das Meer.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.999974,
+                        51.596592
+                  ]
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "Der größte Stadtpark umfasst 100 Hektar und beherbergt botanische Gärten sowie einen See mit Tretbooten.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.979071,
+                        51.614967
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "Das Zentrum ist dem berühmtesten Dichter der Stadt gewidmet und zeigt eine ständige Ausstellung über sein Leben.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93583,
+                        51.6192
+                  ]
+            },
+            {
+                  "name": "Glynn Vivian Art Gallery",
+                  "text": "Die 1911 eröffnete Galerie beherbergt eine bedeutende Sammlung walisischer Kunst sowie europäische Porzellanarbeiten.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.944364,
+                        51.623821
+                  ]
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Dieses 1897 eröffnete Theater ist das kulturelle Herz der Stadt und bietet Platz für über 1.000 Zuschauer.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.948022,
+                        51.618135
+                  ]
+            },
+            {
+                  "name": "Swansea Market",
+                  "text": "Der größte überdachte Markt in Wales bietet seit dem 19. Jahrhundert lokale Spezialitäten wie Herzmuscheln an.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.95,
+                        51.618
+                  ]
+            },
+            {
+                  "name": "Swansea.com Stadium",
+                  "text": "Das 2005 eröffnete Stadion ist die Heimstätte des Swansea City AFC und des Rugby-Teams Ospreys.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.935268,
+                        51.641869
+                  ]
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "Die Konzerthalle innerhalb der Guildhall ist berühmt für die Brangwyn-Paneele, die für das House of Lords entworfen wurden.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960181,
+                        51.613742
+                  ]
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales' größter Wasserpark und Freizeitzentrum befindet sich im Stadtzentrum und wurde 2008 umfassend modernisiert.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940578,
+                        51.61688
+                  ]
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Dieser tropische Regenwald unter Glas beherbergt exotische Tiere wie Krokodile und Erdmännchen inmitten der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93861,
+                        51.6217
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Die fünf Kilometer lange Sandbucht erstreckt sich vom Yachthafen bis nach Mumbles und lädt zum Spazierengehen ein.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.9,
+                        51.5833
+                  ]
+            },
+            {
+                  "name": "Caswell Bay",
+                  "text": "Dieser beliebte Strand auf der Gower-Halbinsel ist bekannt für seine gute Wasserqualität und ideal für Surfer.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.030828,
+                        51.570685
+                  ]
+            },
+            {
+                  "name": "Langland Bay",
+                  "text": "Ein malerischer Küstenort mit charakteristischen grünen Strandhütten und hervorragenden Surfbedingungen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.0,
+                        51.566667
+                  ]
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "Ein lebendiges Museum in einer Mühle aus dem 12. Jahrhundert, das traditionelles Handwerk und Landleben zeigt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -4.103538,
+                        51.583481
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Die im Zweiten Weltkrieg zerstörte und in den 1950ern wiederaufgebaute Kirche ist das religiöse Zentrum der Stadt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -3.942531,
+                        51.619431
+                  ]
+            },
+            {
+                  "name": "Egypt Centre",
+                  "text": "Das Museum an der Universität Swansea besitzt über 5.000 antike ägyptische Objekte aus der Sammlung von Sir Henry Wellcome.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.97917,
+                        51.6103
+                  ]
+            },
+            {
+                  "name": "Swansea University",
+                  "text": "Die 1920 gegründete Universität liegt im Singleton Park und ist bekannt für ihre Forschung und die Lage am Meer.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.980556,
+                        51.609722
+                  ]
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "Die historische Straße im Stadtzentrum ist heute das Zentrum des Nachtlebens mit zahlreichen Bars und Restaurants.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940272,
+                        51.619326
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Ein gepflegter Park aus dem Jahr 1887 mit einem Denkmal für den Hund Jack, der 27 Menschen vor dem Ertrinken rettete.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.961405,
+                        51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Ein Strand in der Nähe von Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "Ein markantes und historisches Theatergebäude in Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941249,
+                        51.62744
+                  ]
+            },
+            {
+                  "name": "Crymlyn Bog",
+                  "text": "Ein wichtiges Naturschutzgebiet und Moorgebiet nahe Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884243,
+                        51.636819
+                  ]
+            },
+            {
+                  "name": "Saint Thomas Community Centre",
+                  "text": "Ein lokales Gemeindezentrum in Swansea, in dem auch Theateraufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.928336,
+                        51.624202
+                  ]
+            },
+            {
+                  "name": "Swansea Beach",
+                  "text": "Als Hauptstrand der Stadt Swansea erstreckt sich dieser lebhafte Küstenabschnitt direkt vor den Toren der walisischen Metropole. Er ist ein zentraler Anlaufpunkt für Einheimische und Besucher, die das Meer und die Weite genießen möchten. Am besten lässt sich die Gegend bei Ebbe auf den langen Sandbänken erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.974474,
+                        51.598005
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Nature Reserve",
+                  "text": "Ein städtisches Naturschutzgebiet in Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.959975,
+                        51.62382
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Collections Centre",
+                  "text": "Eine Einrichtung in Swansea, in der Museumssammlungen aufbewahrt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -3.936942,
+                        51.640105
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Tramway Centre",
+                  "text": "Ein Straßenbahnmuseum, das Teil des Swansea Museum ist.",
+                  "category": "museum",
+                  "coords": [
+                        -3.93752,
+                        51.616732
+                  ]
+            },
+            {
+                  "name": "Oriel Science",
+                  "text": "Oriel Science ist ein lokales Museum in Swansea.",
+                  "category": "museum",
+                  "coords": [
+                        -3.94246,
+                        51.621398
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill",
+                  "text": "Kilvey Hill ist ein markanter Gipfel mit Blick auf die Stadt Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920309,
+                        51.628967
+                  ]
+            },
+            {
+                  "name": "Elysium",
+                  "text": "Elysium ist ein Kunstzentrum in Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941738,
+                        51.623932
+                  ]
+            },
+            {
+                  "name": "The Vetch",
+                  "text": "The Vetch ist ein öffentlicher Park in Swansea, der sich auf dem Gelände des ehemaligen Vetch Field Fußballstadions befindet.",
+                  "category": "park",
+                  "coords": [
+                        -3.950066,
+                        51.616489
+                  ]
+            },
+            {
+                  "name": "Parc Cwmdoncyn / Cwmdonkin Park",
+                  "text": "Cwmdonkin Park ist ein lokaler Park in Swansea.",
+                  "category": "park",
+                  "coords": [
+                        -3.969413,
+                        51.621351
+                  ]
+            },
+            {
+                  "name": "Vivian Engine House",
+                  "text": "Vivian Engine House umfasst historische Ruinen in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.935193,
+                        51.637683
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Mansion House ist eine Attraktion in Swansea, die als offizielle Residenz des Oberbürgermeisters dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.959719,
+                        51.621689
+                  ]
+            },
+            {
+                  "name": "Gorsedd Stone Circle",
+                  "text": "Gorsedd Stone Circle ist ein Steindenkmal in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.980847,
+                        51.616171
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Labyrinth",
+                  "text": "Rosehill Quarry Labyrinth ist eine einzigartige lokale Attraktion in Swansea.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.958863,
+                        51.623855
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill Windmill (remains)",
+                  "text": "Die Überreste der Kilvey Hill Windmill sind historische Ruinen in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.918318,
+                        51.628684
+                  ]
+            },
+            {
+                  "name": "Laboratory",
+                  "text": "Das Laboratory ist eine Stätte mit historischen Ruinen in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936337,
+                        51.639009
+                  ]
+            },
+            {
+                  "name": "Hafod Lime Kiln",
+                  "text": "Hafod Lime Kiln umfasst historische Kalkofenruinen in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936455,
+                        51.637769
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas House",
+                  "text": "Das Dylan Thomas House ist eine dem berühmten Schriftsteller gewidmete Attraktion in Swansea.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.9648,
+                        51.621015
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church ist ein lokales Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.951299,
+                        51.614376
+                  ]
+            },
+            {
+                  "name": "Capel y Trinity",
+                  "text": "Capel y Trinity ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.97752,
+                        51.618808
+                  ]
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "Das Civic Centre ist das Hauptverwaltungsgebäude der Stadt Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.948577,
+                        51.613897
+                  ]
+            },
+            {
+                  "name": "Saint Paul",
+                  "text": "Saint Paul ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.983454,
+                        51.617112
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's ist ein lokales Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.941695,
+                        51.634704
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "Die St. James' Church ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.960512,
+                        51.618867
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Die Kingdom Hall ist ein lokales Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.96341,
+                        51.618665
+                  ]
+            },
+            {
+                  "name": "Townhill Baptist Church",
+                  "text": "Die Townhill Baptist Church ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.967422,
+                        51.625628
+                  ]
+            },
+            {
+                  "name": "York Place Baptist Church",
+                  "text": "Die York Place Baptist Church ist ein religiöses Gebäude in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.939714,
+                        51.618045
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's",
+                  "text": "Saint Thomas's ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.928153,
+                        51.622143
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Baptist Chapel",
+                  "text": "Die Mount Pleasant Baptist Chapel ist ein lokales Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.945466,
+                        51.621266
+                  ]
+            },
+            {
+                  "name": "Ebenezer Baptist Church",
+                  "text": "Die Ebenezer Baptist Church ist ein Gotteshaus in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942343,
+                        51.62591
+                  ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site ist ein See in Swansea, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade ist eine Spielhalle in Swansea, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf ist eine Minigolfanlage in Swansea, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park ist ein Spielplatz in Swansea, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
+            },
+            {
+                  "name": "Wales National Pool",
+                  "text": "Der Wales National Pool bietet Schwimmeinrichtungen auf professionellem Niveau für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -3.988772,
+                        51.607548
+                  ]
+            },
+            {
+                  "name": "Blackpill Lido",
+                  "text": "Das Blackpill Lido in Swansea ist ein Wasserpark mit Außenbecken und Spielbereichen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -3.994448,
+                        51.597257
+                  ]
+            },
+            {
+                  "name": "Cockett Standing Stone",
+                  "text": "Ein prähistorischer Menhir im Viertel Cockett.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98777,
+                        51.635083
+                  ]
+            },
+            {
+                  "name": "Morris Castle",
+                  "text": "Die Ruinen eines Bauwerks aus dem späten 18. Jahrhundert für Kupferarbeiterfamilien.",
+                  "category": "castle",
+                  "coords": [
+                        -3.93891,
+                        51.650382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "A régi kikötőnegyedben 1982-ben megnyitott jachtkikötő ma élénk lakó- és szabadidős központ.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93833,
+                        51.6158
+                  ]
+            },
+            {
+                  "name": "Nemzeti Waterfront Múzeum",
+                  "text": "A múzeum Wales ipari múltját mutatja be, 2005-ben nyílt meg egy modern üvegépületben.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938846,
+                        51.616367
+                  ]
+            },
+            {
+                  "name": "Swansea Múzeum",
+                  "text": "Wales legidősebb múzeumát 1841-ben alapították, többek között egy ókori egyiptomi múmiát is őriz.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938111,
+                        51.617806
+                  ]
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Az 1934-ben megnyitott városháza art deco stílusáról és a falfestményekkel díszített Brangwyn Hallról ismert.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960547,
+                        51.612874
+                  ]
+            },
+            {
+                  "name": "Swansea vár",
+                  "text": "A 12. századi vár romjai a városközpontban állnak, felidézve a középkori város egykori jelentőségét.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -3.94111,
+                        51.6204
+                  ]
+            },
+            {
+                  "name": "Oystermouth vár",
+                  "text": "Ezt a 12. századi normann várat a Gower-félsziget kapujában emelték, csodás kilátást nyújt az öbölre.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -4.002707,
+                        51.576995
+                  ]
+            },
+            {
+                  "name": "Mumbles móló",
+                  "text": "Az 1898-ban megnyitott, 256 méter hosszú viktoriánus móló a horgászok és kirándulók kedvelt célpontja.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.98028,
+                        51.5697
+                  ]
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "A botanikus kert híres rododendron-gyűjteményéről és a tengerre nyíló festői panorámájáról.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.999974,
+                        51.596592
+                  ]
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "A város legnagyobb, 100 hektáros parkja botanikus kerteknek és egy csónakázótónak is otthont ad.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.979071,
+                        51.614967
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "A központ a város leghíresebb költőjének életét és munkásságát mutatja be egy állandó kiállítás keretében.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93583,
+                        51.6192
+                  ]
+            },
+            {
+                  "name": "Glynn Vivian Művészeti Galéria",
+                  "text": "Az 1911-ben alapított galéria jelentős walesi művészeti gyűjteménnyel és európai porcelánokkal rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.944364,
+                        51.623821
+                  ]
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Az 1897-ben megnyitott színház a város kulturális szíve, amely több mint 1000 néző befogadására alkalmas.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.948022,
+                        51.618135
+                  ]
+            },
+            {
+                  "name": "Swansea piac",
+                  "text": "Wales legnagyobb fedett piaca a 19. század óta kínál helyi specialitásokat, például tengeri herkentyűket.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.95,
+                        51.618
+                  ]
+            },
+            {
+                  "name": "Swansea.com Stadion",
+                  "text": "A 2005-ben átadott stadion a Swansea City AFC labdarúgócsapat és az Ospreys rögbi-együttes otthona.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.935268,
+                        51.641869
+                  ]
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "A városházán belüli hangversenyterem a Lordok Háza számára készült Brangwyn-panelekről híres.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960181,
+                        51.613742
+                  ]
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales legnagyobb vízi parkja és szabadidős központja a városközpontban található, 2008-ban modernizálták.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940578,
+                        51.61688
+                  ]
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Ez a városközponti üvegház trópusi esőerdőt, egzotikus állatokat és ritka növényeket mutat be.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93861,
+                        51.6217
+                  ]
+            },
+            {
+                  "name": "Swansea-öböl",
+                  "text": "Az öt kilométer hosszú homokos partszakasz a jachtkikötőtől Mumbles-ig tart, ideális sétákhoz.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.9,
+                        51.5833
+                  ]
+            },
+            {
+                  "name": "Caswell-öböl",
+                  "text": "A Gower-félsziget népszerű strandja kiváló vízminőségéről ismert, a szörfösök egyik kedvenc helye.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.030828,
+                        51.570685
+                  ]
+            },
+            {
+                  "name": "Langland-öböl",
+                  "text": "Festői tengerparti helyszín jellegzetes zöld strandkunyhókkal és kiváló szörfözési lehetőségekkel.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.0,
+                        51.566667
+                  ]
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "Egy 12. századi vízimalom köré épült skanzen, amely a hagyományos mesterségeket és a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -4.103538,
+                        51.583481
+                  ]
+            },
+            {
+                  "name": "Szent Mária-templom",
+                  "text": "A második világháborúban lerombolt, majd az 1950-es években újjáépített templom a város vallási központja.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -3.942531,
+                        51.619431
+                  ]
+            },
+            {
+                  "name": "Egyiptomi Központ",
+                  "text": "A Swansea-i Egyetem múzeuma több mint 5000 ókori egyiptomi tárgyat őriz Henry Wellcome gyűjteményéből.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.97917,
+                        51.6103
+                  ]
+            },
+            {
+                  "name": "Swansea Egyetem",
+                  "text": "Az 1920-ban alapított intézmény a Singleton Parkban található, híres kutatásairól és tengerparti fekvéséről.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.980556,
+                        51.609722
+                  ]
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "A történelmi utca ma a város éjszakai életének központja, számos bárral és étteremmel.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940272,
+                        51.619326
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Az 1887-ben alapított parkban áll Jack, a kutya emlékműve, aki 27 embert mentett ki a tengerből.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.961405,
+                        51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Strand Swansea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "Egy feltűnő és történelmi színházépület Swansea-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941249,
+                        51.62744
+                  ]
+            },
+            {
+                  "name": "Crymlyn Bog",
+                  "text": "Egy fontos természetvédelmi terület és mocsár Swansea közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884243,
+                        51.636819
+                  ]
+            },
+            {
+                  "name": "Saint Thomas Community Centre",
+                  "text": "Helyi közösségi központ Swansea-ban, ahol színházi előadásokat is tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.928336,
+                        51.624202
+                  ]
+            },
+            {
+                  "name": "Swansea Beach",
+                  "text": "Swansea városának fő strandjaként ez a nyüzsgő partszakasz közvetlenül a walesi metropolisz kapujában terül el. Központi találkozóhely a helyiek és a látogatók számára, akik szeretnék élvezni a tengert és a tágas teret. A környéket apálykor, a hosszú homokpadokon sétálva érdemes leginkább felfedezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.974474,
+                        51.598005
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Nature Reserve",
+                  "text": "Egy városi természetvédelmi terület Swansea-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -3.959975,
+                        51.62382
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Collections Centre",
+                  "text": "Swansea-i létesítmény, ahol a múzeumi gyűjteményeket tárolják.",
+                  "category": "museum",
+                  "coords": [
+                        -3.936942,
+                        51.640105
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Tramway Centre",
+                  "text": "A Swansea Múzeum részét képező villamosmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.93752,
+                        51.616732
+                  ]
+            },
+            {
+                  "name": "Oriel Science",
+                  "text": "Az Oriel Science egy helyi múzeum Swansea városában.",
+                  "category": "museum",
+                  "coords": [
+                        -3.94246,
+                        51.621398
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill",
+                  "text": "A Kilvey Hill egy kiemelkedő hegycsúcs, amely Swansea városára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920309,
+                        51.628967
+                  ]
+            },
+            {
+                  "name": "Elysium",
+                  "text": "Az Elysium egy művészeti központ Swansea városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941738,
+                        51.623932
+                  ]
+            },
+            {
+                  "name": "The Vetch",
+                  "text": "A The Vetch egy nyilvános park Swansea-ben, amely egykor a Vetch Field futballstadion helyszíne volt.",
+                  "category": "park",
+                  "coords": [
+                        -3.950066,
+                        51.616489
+                  ]
+            },
+            {
+                  "name": "Parc Cwmdoncyn / Cwmdonkin Park",
+                  "text": "A Cwmdonkin Park egy helyi park Swansea városában.",
+                  "category": "park",
+                  "coords": [
+                        -3.969413,
+                        51.621351
+                  ]
+            },
+            {
+                  "name": "Vivian Engine House",
+                  "text": "A Vivian Engine House történelmi romokat foglal magába Swansea városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.935193,
+                        51.637683
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "A Mansion House egy látványosság Swansea-ben, amely a főpolgármester hivatalos rezidenciájaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.959719,
+                        51.621689
+                  ]
+            },
+            {
+                  "name": "Gorsedd Stone Circle",
+                  "text": "A Gorsedd Stone Circle egy kőemlékmű Swansea városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.980847,
+                        51.616171
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Labyrinth",
+                  "text": "A Rosehill Quarry Labyrinth egy egyedi helyi látványosság Swansea-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.958863,
+                        51.623855
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill Windmill (remains)",
+                  "text": "A Kilvey Hill Windmill maradványai történelmi romok Swansea városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.918318,
+                        51.628684
+                  ]
+            },
+            {
+                  "name": "Laboratory",
+                  "text": "A Laboratory történelmi romokat bemutató helyszín Swansea városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936337,
+                        51.639009
+                  ]
+            },
+            {
+                  "name": "Hafod Lime Kiln",
+                  "text": "A Hafod Lime Kiln történelmi mészégető romjait mutatja be Swansea-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936455,
+                        51.637769
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas House",
+                  "text": "A Dylan Thomas House a híres írónak szentelt látványosság Swansea városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.9648,
+                        51.621015
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christ Church egy helyi istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.951299,
+                        51.614376
+                  ]
+            },
+            {
+                  "name": "Capel y Trinity",
+                  "text": "A Capel y Trinity egy istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.97752,
+                        51.618808
+                  ]
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "A Civic Centre a legfőbb önkormányzati adminisztrációs épület Swansea-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.948577,
+                        51.613897
+                  ]
+            },
+            {
+                  "name": "Saint Paul",
+                  "text": "A Saint Paul egy istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.983454,
+                        51.617112
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "A Saint John's egy helyi istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.941695,
+                        51.634704
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "A St. James' Church egy dedikált istentiszteleti hely Swansea-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -3.960512,
+                        51.618867
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Kingdom Hall egy helyi istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.96341,
+                        51.618665
+                  ]
+            },
+            {
+                  "name": "Townhill Baptist Church",
+                  "text": "A Townhill Baptist Church egy istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.967422,
+                        51.625628
+                  ]
+            },
+            {
+                  "name": "York Place Baptist Church",
+                  "text": "A York Place Baptist Church egy vallási épület Swansea-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -3.939714,
+                        51.618045
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's",
+                  "text": "A Saint Thomas's egy istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.928153,
+                        51.622143
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Baptist Chapel",
+                  "text": "A Mount Pleasant Baptist Chapel egy helyi istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.945466,
+                        51.621266
+                  ]
+            },
+            {
+                  "name": "Ebenezer Baptist Church",
+                  "text": "Az Ebenezer Baptist Church egy istentiszteleti hely Swansea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942343,
+                        51.62591
+                  ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "A(z) Coed Darcy North Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "A(z) Coed Darcy South Site egy tó Swansea területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "A(z) Bunkers egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "A(z) Marina Amusement Arcade egy játékterem Swansea területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "A(z) Crazy Golf egy minigolfpálya Swansea területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "A(z) Brynmill Park Playground egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "A(z) Marina Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "A(z) Rees Row Park egy játszótér Swansea területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
+            },
+            {
+                  "name": "Wales National Pool",
+                  "text": "A swansea-i Wales National Pool professzionális úszási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.988772,
+                        51.607548
+                  ]
+            },
+            {
+                  "name": "Blackpill Lido",
+                  "text": "A swansea-i Blackpill Lido egy szabadtéri medencével és játszóterekkel rendelkező vízipark családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -3.994448,
+                        51.597257
+                  ]
+            },
+            {
+                  "name": "Cockett Standing Stone",
+                  "text": "Prehisztorikus állókő Cockett területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98777,
+                        51.635083
+                  ]
+            },
+            {
+                  "name": "Morris Castle",
+                  "text": "Egy 18. század végi építmény romjai, amely eredetileg rézmunkások családjainak épült.",
+                  "category": "castle",
+                  "coords": [
+                        -3.93891,
+                        51.650382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina Swansea",
+                  "text": "Inaugurată în 1982 în vechiul cartier portuar, marina este astăzi un centru rezidențial și de agrement vibrant.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93833,
+                        51.6158
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Waterfront",
+                  "text": "Muzeul prezintă istoria industrială a Țării Galilor și a fost deschis în 2005 într-o clădire modernă din sticlă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938846,
+                        51.616367
+                  ]
+            },
+            {
+                  "name": "Muzeul Swansea",
+                  "text": "Cel mai vechi muzeu din Țara Galilor a fost fondat în 1841 și găzduiește, printre altele, o mumie egipteană antică.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938111,
+                        51.617806
+                  ]
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Primăria deschisă în 1934 este cunoscută pentru stilul său Art Deco și sala Brangwyn Hall cu picturile sale murale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960547,
+                        51.612874
+                  ]
+            },
+            {
+                  "name": "Castelul Swansea",
+                  "text": "Ruinele castelului din secolul al XII-lea se află în centrul orașului, amintind de splendoarea medievală de odinioară.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -3.94111,
+                        51.6204
+                  ]
+            },
+            {
+                  "name": "Castelul Oystermouth",
+                  "text": "Construit de normanzi în secolul al XII-lea, acest castel oferă o vedere panoramică asupra golfului Swansea.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -4.002707,
+                        51.576995
+                  ]
+            },
+            {
+                  "name": "Mollul Mumbles",
+                  "text": "Deschis în 1898, acest moll victorian lung de 256 de metri este o destinație populară pentru pescari și turiști.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.98028,
+                        51.5697
+                  ]
+            },
+            {
+                  "name": "Grădinile Clyne",
+                  "text": "Grădina botanică este faimoasă pentru colecția sa de rododendroni și vederile pitorești spre mare.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.999974,
+                        51.596592
+                  ]
+            },
+            {
+                  "name": "Parcul Singleton",
+                  "text": "Cel mai mare parc urban se întinde pe 100 de hectare și găzduiește grădini botanice și un lac cu bărci.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.979071,
+                        51.614967
+                  ]
+            },
+            {
+                  "name": "Centrul Dylan Thomas",
+                  "text": "Centrul este dedicat celui mai faimos poet al orașului și găzduiește o expoziție permanentă despre viața sa.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93583,
+                        51.6192
+                  ]
+            },
+            {
+                  "name": "Galeria de Artă Glynn Vivian",
+                  "text": "Deschisă în 1911, galeria găzduiește o colecție importantă de artă galeză și lucrări europene din porțelan.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.944364,
+                        51.623821
+                  ]
+            },
+            {
+                  "name": "Teatrul Grand",
+                  "text": "Deschis în 1897, acest teatru este inima culturală a orașului și poate găzdui peste 1.000 de spectatori.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.948022,
+                        51.618135
+                  ]
+            },
+            {
+                  "name": "Piața Swansea",
+                  "text": "Cea mai mare piață acoperită din Țara Galilor oferă specialități locale precum scoici încă din secolul al XIX-lea.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.95,
+                        51.618
+                  ]
+            },
+            {
+                  "name": "Stadionul Swansea.com",
+                  "text": "Deschis în 2005, stadionul este casa echipei de fotbal Swansea City AFC și a echipei de rugby Ospreys.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.935268,
+                        51.641869
+                  ]
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "Sala de concerte din cadrul Guildhall este celebră pentru panourile Brangwyn, create inițial pentru Camera Lorzilor.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960181,
+                        51.613742
+                  ]
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Cel mai mare parc acvatic și centru de agrement din Țara Galilor a fost modernizat extensiv în 2008.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940578,
+                        51.61688
+                  ]
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "Această pădure tropicală sub sticlă găzduiește animale exotice precum crocodili și suricate chiar în centrul orașului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93861,
+                        51.6217
+                  ]
+            },
+            {
+                  "name": "Golful Swansea",
+                  "text": "Plaja cu nisip lungă de cinci kilometri se întinde de la marină până la Mumbles și este ideală pentru plimbări.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.9,
+                        51.5833
+                  ]
+            },
+            {
+                  "name": "Golful Caswell",
+                  "text": "Această plajă populară din peninsula Gower este cunoscută pentru calitatea apei și este ideală pentru surferi.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.030828,
+                        51.570685
+                  ]
+            },
+            {
+                  "name": "Golful Langland",
+                  "text": "O locație costieră pitorească, cu cabane de plajă verzi caracteristice și condiții excelente pentru surf.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.0,
+                        51.566667
+                  ]
+            },
+            {
+                  "name": "Centrul de Patrimoniu Gower",
+                  "text": "Un muzeu viu situat într-o moară din secolul al XII-lea, care prezintă meșteșugurile tradiționale și viața rurală.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -4.103538,
+                        51.583481
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Distrusă în al Doilea Război Mondial și reconstruită în anii 1950, biserica este centrul religios al orașului.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -3.942531,
+                        51.619431
+                  ]
+            },
+            {
+                  "name": "Centrul Egiptului",
+                  "text": "Muzeul Universității Swansea deține peste 5.000 de obiecte egiptene antice din colecția lui Henry Wellcome.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.97917,
+                        51.6103
+                  ]
+            },
+            {
+                  "name": "Universitatea Swansea",
+                  "text": "Fondată în 1920, universitatea este situată în Singleton Park și este cunoscută pentru cercetare și locația sa la mare.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.980556,
+                        51.609722
+                  ]
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "Strada istorică din centrul orașului este astăzi centrul vieții de noapte, cu numeroase baruri și restaurante.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940272,
+                        51.619326
+                  ]
+            },
+            {
+                  "name": "Parcul Victoria",
+                  "text": "Un parc din 1887 care găzduiește monumentul câinelui Jack, care a salvat 27 de persoane de la înec.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.961405,
+                        51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Plajă lângă Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "O clădire de teatru istorică și impresionantă din Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941249,
+                        51.62744
+                  ]
+            },
+            {
+                  "name": "Crymlyn Bog",
+                  "text": "O rezervație naturală și o zonă de mlaștină importantă lângă Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884243,
+                        51.636819
+                  ]
+            },
+            {
+                  "name": "Saint Thomas Community Centre",
+                  "text": "Un centru comunitar local din Swansea care găzduiește și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.928336,
+                        51.624202
+                  ]
+            },
+            {
+                  "name": "Swansea Beach",
+                  "text": "Fiind plaja principală a orașului Swansea, această porțiune de coastă plină de viață se întinde chiar la porțile metropolei galeze. Este un punct central de atracție pentru localnici și vizitatori care doresc să se bucure de mare și de spațiile deschise. Zona este cel mai bine de explorat la reflux, pe bancurile lungi de nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.974474,
+                        51.598005
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Nature Reserve",
+                  "text": "O rezervație naturală urbană din Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.959975,
+                        51.62382
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Collections Centre",
+                  "text": "O facilitate din Swansea unde sunt păstrate colecțiile muzeului.",
+                  "category": "museum",
+                  "coords": [
+                        -3.936942,
+                        51.640105
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Tramway Centre",
+                  "text": "Un centru cu tramvaie care face parte din Muzeul Swansea.",
+                  "category": "museum",
+                  "coords": [
+                        -3.93752,
+                        51.616732
+                  ]
+            },
+            {
+                  "name": "Oriel Science",
+                  "text": "Oriel Science este un muzeu local situat în Swansea.",
+                  "category": "museum",
+                  "coords": [
+                        -3.94246,
+                        51.621398
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill",
+                  "text": "Kilvey Hill este un vârf proeminent care domină orașul Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920309,
+                        51.628967
+                  ]
+            },
+            {
+                  "name": "Elysium",
+                  "text": "Elysium este un centru de arte situat în Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941738,
+                        51.623932
+                  ]
+            },
+            {
+                  "name": "The Vetch",
+                  "text": "The Vetch este un parc public din Swansea, amenajat pe fostul teren al stadionului de fotbal Vetch Field.",
+                  "category": "park",
+                  "coords": [
+                        -3.950066,
+                        51.616489
+                  ]
+            },
+            {
+                  "name": "Parc Cwmdoncyn / Cwmdonkin Park",
+                  "text": "Cwmdonkin Park este un parc local situat în Swansea.",
+                  "category": "park",
+                  "coords": [
+                        -3.969413,
+                        51.621351
+                  ]
+            },
+            {
+                  "name": "Vivian Engine House",
+                  "text": "Vivian Engine House prezintă ruine istorice situate în Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.935193,
+                        51.637683
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Mansion House este o atracție în Swansea, servind drept reședință oficială a Lordului Primar.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.959719,
+                        51.621689
+                  ]
+            },
+            {
+                  "name": "Gorsedd Stone Circle",
+                  "text": "Gorsedd Stone Circle este un monument de piatră situat în Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.980847,
+                        51.616171
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Labyrinth",
+                  "text": "Rosehill Quarry Labyrinth este o atracție locală unică din Swansea.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.958863,
+                        51.623855
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill Windmill (remains)",
+                  "text": "Rămășițele Kilvey Hill Windmill sunt ruine istorice din Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.918318,
+                        51.628684
+                  ]
+            },
+            {
+                  "name": "Laboratory",
+                  "text": "Laboratory este un sit cu ruine istorice situat în Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936337,
+                        51.639009
+                  ]
+            },
+            {
+                  "name": "Hafod Lime Kiln",
+                  "text": "Hafod Lime Kiln prezintă ruinele istorice ale unui cuptor de var din Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936455,
+                        51.637769
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas House",
+                  "text": "Dylan Thomas House este o atracție din Swansea dedicată faimosului scriitor.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.9648,
+                        51.621015
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church este un lăcaș de cult local situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.951299,
+                        51.614376
+                  ]
+            },
+            {
+                  "name": "Capel y Trinity",
+                  "text": "Capel y Trinity este un lăcaș de cult situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.97752,
+                        51.618808
+                  ]
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "Civic Centre este principala clădire a administrației locale din Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.948577,
+                        51.613897
+                  ]
+            },
+            {
+                  "name": "Saint Paul",
+                  "text": "Saint Paul este un lăcaș de cult situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.983454,
+                        51.617112
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's este un lăcaș de cult local situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.941695,
+                        51.634704
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "St. James' Church este un lăcaș de cult din Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.960512,
+                        51.618867
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Kingdom Hall este un lăcaș de cult local situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.96341,
+                        51.618665
+                  ]
+            },
+            {
+                  "name": "Townhill Baptist Church",
+                  "text": "Townhill Baptist Church este un lăcaș de cult situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.967422,
+                        51.625628
+                  ]
+            },
+            {
+                  "name": "York Place Baptist Church",
+                  "text": "York Place Baptist Church este o clădire religioasă situată în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.939714,
+                        51.618045
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's",
+                  "text": "Saint Thomas's este un lăcaș de cult situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.928153,
+                        51.622143
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Baptist Chapel",
+                  "text": "Mount Pleasant Baptist Chapel este un lăcaș de cult local situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.945466,
+                        51.621266
+                  ]
+            },
+            {
+                  "name": "Ebenezer Baptist Church",
+                  "text": "Ebenezer Baptist Church este un lăcaș de cult situat în Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942343,
+                        51.62591
+                  ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site este un lac situat în Swansea, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade este o sală de jocuri arcade în Swansea, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf este un teren de minigolf în Swansea, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park este un loc de joacă în Swansea, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
+            },
+            {
+                  "name": "Wales National Pool",
+                  "text": "Wales National Pool din Swansea oferă facilități de înot la standarde profesionale pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.988772,
+                        51.607548
+                  ]
+            },
+            {
+                  "name": "Blackpill Lido",
+                  "text": "Blackpill Lido este un parc acvatic cu o piscină în aer liber și zone de joacă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -3.994448,
+                        51.597257
+                  ]
+            },
+            {
+                  "name": "Cockett Standing Stone",
+                  "text": "O piatră preistorică ridicată situată în zona Cockett.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98777,
+                        51.635083
+                  ]
+            },
+            {
+                  "name": "Morris Castle",
+                  "text": "Ruinele unei structuri de la sfârșitul secolului al XVIII-lea, construită pentru familiile lucrătorilor în cupru.",
+                  "category": "castle",
+                  "coords": [
+                        -3.93891,
+                        51.650382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swansea Marina",
+                  "text": "Opened in 1982 in the old docklands, the marina is now a vibrant residential and leisure hub.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93833,
+                        51.6158
+                  ]
+            },
+            {
+                  "name": "National Waterfront Museum",
+                  "text": "The museum showcases the industrial history of Wales and opened in 2005 in a modern glass building.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938846,
+                        51.616367
+                  ]
+            },
+            {
+                  "name": "Swansea Museum",
+                  "text": "The oldest museum in Wales was founded in 1841 and houses an ancient Egyptian mummy among its treasures.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.938111,
+                        51.617806
+                  ]
+            },
+            {
+                  "name": "The Guildhall",
+                  "text": "Opened in 1934, the city hall is famous for its Art Deco style and the Brangwyn Hall with its historic murals.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960547,
+                        51.612874
+                  ]
+            },
+            {
+                  "name": "Swansea Castle",
+                  "text": "The ruins of the 12th-century castle stand in the city center, showing remains of its medieval grandeur.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -3.94111,
+                        51.6204
+                  ]
+            },
+            {
+                  "name": "Oystermouth Castle",
+                  "text": "Built by the Normans in the 12th century, this castle offers sweeping views over Swansea Bay.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -4.002707,
+                        51.576995
+                  ]
+            },
+            {
+                  "name": "Mumbles Pier",
+                  "text": "Opened in 1898, the 256-meter long Victorian pier is a popular destination for anglers and tourists.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.98028,
+                        51.5697
+                  ]
+            },
+            {
+                  "name": "Clyne Gardens",
+                  "text": "The botanical garden is famous for its collection of rhododendrons and picturesque views over the sea.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.999974,
+                        51.596592
+                  ]
+            },
+            {
+                  "name": "Singleton Park",
+                  "text": "The largest urban park covers 100 hectares and houses botanical gardens and a boating lake.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.979071,
+                        51.614967
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas Centre",
+                  "text": "The center is dedicated to the city's most famous poet and features a permanent exhibition about his life.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93583,
+                        51.6192
+                  ]
+            },
+            {
+                  "name": "Glynn Vivian Art Gallery",
+                  "text": "Opened in 1911, the gallery houses a significant collection of Welsh art and European porcelain works.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.944364,
+                        51.623821
+                  ]
+            },
+            {
+                  "name": "Grand Theatre",
+                  "text": "Opened in 1897, this theater is the cultural heart of the city and can seat over 1,000 spectators.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.948022,
+                        51.618135
+                  ]
+            },
+            {
+                  "name": "Swansea Market",
+                  "text": "The largest indoor market in Wales has been offering local specialties like cockles since the 19th century.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.95,
+                        51.618
+                  ]
+            },
+            {
+                  "name": "Swansea.com Stadium",
+                  "text": "Opened in 2005, the stadium is the home of Swansea City AFC and the Ospreys rugby team.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.935268,
+                        51.641869
+                  ]
+            },
+            {
+                  "name": "Brangwyn Hall",
+                  "text": "The concert hall within the Guildhall is famous for the Brangwyn Panels, designed for the House of Lords.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.960181,
+                        51.613742
+                  ]
+            },
+            {
+                  "name": "LC Swansea",
+                  "text": "Wales' largest waterpark and leisure center is located in the city center and was extensively modernized in 2008.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940578,
+                        51.61688
+                  ]
+            },
+            {
+                  "name": "Plantasia",
+                  "text": "This tropical rainforest under glass houses exotic animals like crocodiles and meerkats in the heart of the city.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -3.93861,
+                        51.6217
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "The five-kilometer long sandy beach stretches from the marina to Mumbles and is ideal for walking.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.9,
+                        51.5833
+                  ]
+            },
+            {
+                  "name": "Caswell Bay",
+                  "text": "This popular beach on the Gower Peninsula is known for its water quality and is ideal for surfers.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.030828,
+                        51.570685
+                  ]
+            },
+            {
+                  "name": "Langland Bay",
+                  "text": "A picturesque coastal location with characteristic green beach huts and excellent surfing conditions.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -4.0,
+                        51.566667
+                  ]
+            },
+            {
+                  "name": "Gower Heritage Centre",
+                  "text": "A living museum based around a 12th-century water mill, showing traditional crafts and rural life.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -4.103538,
+                        51.583481
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Destroyed in WWII and rebuilt in the 1950s, the church is the religious center of the city.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -3.942531,
+                        51.619431
+                  ]
+            },
+            {
+                  "name": "Egypt Centre",
+                  "text": "The museum at Swansea University holds over 5,000 ancient Egyptian objects from Henry Wellcome's collection.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -3.97917,
+                        51.6103
+                  ]
+            },
+            {
+                  "name": "Swansea University",
+                  "text": "Founded in 1920, the university is located in Singleton Park and is known for its research and seaside location.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -3.980556,
+                        51.609722
+                  ]
+            },
+            {
+                  "name": "Wind Street",
+                  "text": "The historic city center street is now the hub of the city's nightlife with numerous bars and restaurants.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        -3.940272,
+                        51.619326
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A park dating from 1887 which hosts the monument to Jack the dog, who saved 27 people from drowning.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -3.961405,
+                        51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "A beach near Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "A distinctive and historic theatre building in Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941249,
+                        51.62744
+                  ]
+            },
+            {
+                  "name": "Crymlyn Bog",
+                  "text": "An important nature reserve and bog near Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.884243,
+                        51.636819
+                  ]
+            },
+            {
+                  "name": "Saint Thomas Community Centre",
+                  "text": "A local community centre in Swansea that also hosts theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.928336,
+                        51.624202
+                  ]
+            },
+            {
+                  "name": "Swansea Beach",
+                  "text": "Serving as the main beach for the city of Swansea, this lively stretch of coastline unfolds right at the gates of the Welsh metropolis. It is a central hub for locals and visitors wanting to enjoy the sea and the open space. The area is best explored at low tide across the long sandbanks.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.974474,
+                        51.598005
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Nature Reserve",
+                  "text": "An urban nature reserve located in Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.959975,
+                        51.62382
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Collections Centre",
+                  "text": "A facility in Swansea where museum collections are stored.",
+                  "category": "museum",
+                  "coords": [
+                        -3.936942,
+                        51.640105
+                  ]
+            },
+            {
+                  "name": "Swansea Museum Tramway Centre",
+                  "text": "A tramway museum that is part of the Swansea Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.93752,
+                        51.616732
+                  ]
+            },
+            {
+                  "name": "Oriel Science",
+                  "text": "Oriel Science is a local museum located in Swansea.",
+                  "category": "museum",
+                  "coords": [
+                        -3.94246,
+                        51.621398
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill",
+                  "text": "Kilvey Hill is a notable peak overlooking the city of Swansea.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920309,
+                        51.628967
+                  ]
+            },
+            {
+                  "name": "Elysium",
+                  "text": "Elysium is a dedicated arts centre situated in Swansea.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941738,
+                        51.623932
+                  ]
+            },
+            {
+                  "name": "The Vetch",
+                  "text": "The Vetch is a public park in Swansea that was formerly the site of the Vetch Field football stadium.",
+                  "category": "park",
+                  "coords": [
+                        -3.950066,
+                        51.616489
+                  ]
+            },
+            {
+                  "name": "Cwmdonkin Park",
+                  "text": "Cwmdonkin Park is a local park providing green space in Swansea.",
+                  "category": "park",
+                  "coords": [
+                        -3.969413,
+                        51.621351
+                  ]
+            },
+            {
+                  "name": "Vivian Engine House",
+                  "text": "Vivian Engine House features historical ruins situated in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.935193,
+                        51.637683
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Mansion House is an attraction in Swansea that serves as the official residence of the Lord Mayor.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.959719,
+                        51.621689
+                  ]
+            },
+            {
+                  "name": "Gorsedd Stone Circle",
+                  "text": "Gorsedd Stone Circle is a stone monument situated in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.980847,
+                        51.616171
+                  ]
+            },
+            {
+                  "name": "Rosehill Quarry Labyrinth",
+                  "text": "Rosehill Quarry Labyrinth is a unique local attraction found in Swansea.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.958863,
+                        51.623855
+                  ]
+            },
+            {
+                  "name": "Kilvey Hill Windmill (remains)",
+                  "text": "The remains of the Kilvey Hill Windmill are historical ruins in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.918318,
+                        51.628684
+                  ]
+            },
+            {
+                  "name": "Laboratory",
+                  "text": "The Laboratory is a site featuring historical ruins in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936337,
+                        51.639009
+                  ]
+            },
+            {
+                  "name": "Hafod Lime Kiln",
+                  "text": "Hafod Lime Kiln features historical lime kiln ruins in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936455,
+                        51.637769
+                  ]
+            },
+            {
+                  "name": "Dylan Thomas House",
+                  "text": "Dylan Thomas House is an attraction in Swansea dedicated to the famous writer.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.9648,
+                        51.621015
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church is a local place of worship located in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.951299,
+                        51.614376
+                  ]
+            },
+            {
+                  "name": "Capel y Trinity",
+                  "text": "Capel y Trinity is a place of worship situated in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.97752,
+                        51.618808
+                  ]
+            },
+            {
+                  "name": "Civic Centre",
+                  "text": "The Civic Centre is the principal local government building in Swansea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.948577,
+                        51.613897
+                  ]
+            },
+            {
+                  "name": "Saint Paul",
+                  "text": "Saint Paul is a place of worship situated in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.983454,
+                        51.617112
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's is a local place of worship located in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.941695,
+                        51.634704
+                  ]
+            },
+            {
+                  "name": "St. James' Church",
+                  "text": "St. James' Church is a dedicated place of worship in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.960512,
+                        51.618867
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Kingdom Hall is a local place of worship located in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.96341,
+                        51.618665
+                  ]
+            },
+            {
+                  "name": "Townhill Baptist Church",
+                  "text": "Townhill Baptist Church is a place of worship situated in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.967422,
+                        51.625628
+                  ]
+            },
+            {
+                  "name": "York Place Baptist Church",
+                  "text": "York Place Baptist Church is a religious building located in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.939714,
+                        51.618045
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's",
+                  "text": "Saint Thomas's is a place of worship situated in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.928153,
+                        51.622143
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Baptist Chapel",
+                  "text": "Mount Pleasant Baptist Chapel is a local place of worship located in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.945466,
+                        51.621266
+                  ]
+            },
+            {
+                  "name": "Ebenezer Baptist Church",
+                  "text": "Ebenezer Baptist Church is a place of worship situated in Swansea.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942343,
+                        51.62591
+                  ]
+            },
+            {
+                  "name": "Coed Darcy North Site",
+                  "text": "Coed Darcy North Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.85929,
+                        51.652815
+                  ]
+            },
+            {
+                  "name": "Coed Darcy South Site",
+                  "text": "Coed Darcy South Site is a lake situated in Swansea, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -3.867794,
+                        51.650776
+                  ]
+            },
+            {
+                  "name": "Bunkers",
+                  "text": "Bunkers is a miniature golf course in Swansea, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -3.938303,
+                        51.618793
+                  ]
+            },
+            {
+                  "name": "Marina Amusement Arcade",
+                  "text": "Marina Amusement Arcade is an amusement arcade in Swansea, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -3.940236,
+                        51.615908
+                  ]
+            },
+            {
+                  "name": "Crazy Golf",
+                  "text": "Crazy Golf is a miniature golf course in Swansea, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -3.98196,
+                        51.606777
+                  ]
+            },
+            {
+                  "name": "Brynmill Park Playground",
+                  "text": "Brynmill Park Playground is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.972394,
+                        51.615981
+                  ]
+            },
+            {
+                  "name": "Marina Park",
+                  "text": "Marina Park is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.929793,
+                        51.614588
+                  ]
+            },
+            {
+                  "name": "Rees Row Park",
+                  "text": "Rees Row Park is a playground in Swansea, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.935584,
+                        51.648766
+                  ]
+            },
+            {
+                  "name": "Wales National Pool",
+                  "text": "Wales National Pool in Swansea provides professional-standard swimming facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.988772,
+                        51.607548
+                  ]
+            },
+            {
+                  "name": "Blackpill Lido",
+                  "text": "Blackpill Lido in Swansea is a water park featuring an outdoor pool and play areas for families.",
+                  "category": "family",
+                  "coords": [
+                        -3.994448,
+                        51.597257
+                  ]
+            },
+            {
+                  "name": "Cockett Standing Stone",
+                  "text": "A prehistoric standing stone located in the Cockett area.",
+                  "category": "historical",
+                  "coords": [
+                        -3.98777,
+                        51.635083
+                  ]
+            },
+            {
+                  "name": "Morris Castle",
+                  "text": "The ruins of a late 18th-century structure built to house copper workers' families.",
+                  "category": "castle",
+                  "coords": [
+                        -3.93891,
+                        51.650382
+                  ]
+            }
+      ]
+}
   },
   {
     id: "uk-oxford-cities-v2",
@@ -38642,6 +41671,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -7.396377,
                         54.992473
                   ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "Das Playhouse in Derry ist ein bedeutendes Kunstzentrum und Theater in einem historischen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.320813,
+                        54.994469
+                  ]
+            },
+            {
+                  "name": "Museum of Free Derry",
+                  "text": "Dieses Museum dokumentiert die Geschichte des Bogside-Viertels und der Bürgerrechtsbewegung in Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.325759,
+                        54.997043
+                  ]
+            },
+            {
+                  "name": "Motte and BAiley",
+                  "text": "Eine historische archäologische Stätte in Derry, die Überreste einer mittelalterlichen Motte-Anlage zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.256479,
+                        54.988727
+                  ]
+            },
+            {
+                  "name": "St Columb's Hall",
+                  "text": "St Columb's Hall ist ein historisches Gebäude in Derry, das als Veranstaltungsort für Kultur und Unterhaltung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.319025,
+                        54.995527
+                  ]
+            },
+            {
+                  "name": "Foyle Valley Railway Museum",
+                  "text": "Dieses Museum in Derry widmet sich der Geschichte der lokalen Eisenbahnen und des Transportwesens.",
+                  "category": "museum",
+                  "coords": [
+                        -7.320916,
+                        54.990805
+                  ]
+            },
+            {
+                  "name": "Heritage Tower",
+                  "text": "Der Heritage Tower ist Teil der historischen Stadtmauer von Derry und dient als Aussichtspunkt.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.325211,
+                        54.992909
+                  ]
+            },
+            {
+                  "name": "Apprentice Boys of Derry",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Apprentice Boys und die Belagerung von Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.323982,
+                        54.995445
+                  ]
             }
       ],
       "hu": [
@@ -38750,6 +41842,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -7.396377,
                         54.992473
+                  ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "A Derry-i Playhouse egy jelentős művészeti központ és színház egy történelmi épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.320813,
+                        54.994469
+                  ]
+            },
+            {
+                  "name": "Museum of Free Derry",
+                  "text": "Ez a múzeum a Bogside negyed és a Derry-i polgárjogi mozgalom történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.325759,
+                        54.997043
+                  ]
+            },
+            {
+                  "name": "Motte and BAiley",
+                  "text": "Történelmi régészeti lelőhely Derry-ben, amely egy középkori földvár maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.256479,
+                        54.988727
+                  ]
+            },
+            {
+                  "name": "St Columb's Hall",
+                  "text": "A St Columb's Hall egy történelmi épület Derry-ben, amely kulturális és szórakoztató rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.319025,
+                        54.995527
+                  ]
+            },
+            {
+                  "name": "Foyle Valley Railway Museum",
+                  "text": "Ez a Derry-i múzeum a helyi vasutak és a közlekedés történetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -7.320916,
+                        54.990805
+                  ]
+            },
+            {
+                  "name": "Heritage Tower",
+                  "text": "A Heritage Tower Derry történelmi városfalának része, amely kilátóként is szolgál.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.325211,
+                        54.992909
+                  ]
+            },
+            {
+                  "name": "Apprentice Boys of Derry",
+                  "text": "Ez a múzeum az Apprentice Boys történetét und Derry ostromát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.323982,
+                        54.995445
                   ]
             }
       ],
@@ -38860,6 +42015,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -7.396377,
                         54.992473
                   ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "The Playhouse din Derry este un centru de artă și teatru important situat într-o clădire istorică.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.320813,
+                        54.994469
+                  ]
+            },
+            {
+                  "name": "Museum of Free Derry",
+                  "text": "Acest muzeu documentează istoria cartierului Bogside și a mișcării pentru drepturile civile din Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.325759,
+                        54.997043
+                  ]
+            },
+            {
+                  "name": "Motte and BAiley",
+                  "text": "Un sit arheologic istoric din Derry care prezintă vestigiile unei fortificații medievale de tip motte.",
+                  "category": "historical",
+                  "coords": [
+                        -7.256479,
+                        54.988727
+                  ]
+            },
+            {
+                  "name": "St Columb's Hall",
+                  "text": "St Columb's Hall este o clădire istorică din Derry care servește ca loc de desfășurare pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.319025,
+                        54.995527
+                  ]
+            },
+            {
+                  "name": "Foyle Valley Railway Museum",
+                  "text": "Acest muzeu din Derry este dedicat istoriei căilor ferate locale și a transportului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.320916,
+                        54.990805
+                  ]
+            },
+            {
+                  "name": "Heritage Tower",
+                  "text": "Heritage Tower face parte din zidurile istorice ale orașului Derry și servește ca punct de observație.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.325211,
+                        54.992909
+                  ]
+            },
+            {
+                  "name": "Apprentice Boys of Derry",
+                  "text": "Acest muzeu documentează istoria asociației Apprentice Boys și asediul orașului Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.323982,
+                        54.995445
+                  ]
             }
       ],
       "en": [
@@ -38969,6 +42187,69 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -7.396377,
                         54.992473
                   ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "The Playhouse in Derry is a major arts centre and theatre housed in a historic building.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.320813,
+                        54.994469
+                  ]
+            },
+            {
+                  "name": "Museum of Free Derry",
+                  "text": "This museum documents the history of the Bogside area and the civil rights movement in Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.325759,
+                        54.997043
+                  ]
+            },
+            {
+                  "name": "Motte and BAiley",
+                  "text": "A historic archaeological site in Derry showing the remains of a medieval motte fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -7.256479,
+                        54.988727
+                  ]
+            },
+            {
+                  "name": "St Columb's Hall",
+                  "text": "St Columb's Hall is a historic building in Derry serving as a venue for culture and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.319025,
+                        54.995527
+                  ]
+            },
+            {
+                  "name": "Foyle Valley Railway Museum",
+                  "text": "This museum in Derry is dedicated to the history of local railways and transport.",
+                  "category": "museum",
+                  "coords": [
+                        -7.320916,
+                        54.990805
+                  ]
+            },
+            {
+                  "name": "Heritage Tower",
+                  "text": "The Heritage Tower is part of Derry's historic city walls and serves as a landmark structure.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.325211,
+                        54.992909
+                  ]
+            },
+            {
+                  "name": "Apprentice Boys of Derry",
+                  "text": "This museum documents the history of the Apprentice Boys and the Siege of Derry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.323982,
+                        54.995445
+                  ]
             }
       ]
 }
@@ -39019,7 +42300,3248 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Ano de construção do Royal Pavilion: 1787–1823", "Lar do aquário mais antigo do mundo", "Maior festival do orgulho no Reino Unido", "Abertura do West Pier: 1866 (hoje em ruínas)"],
       fr: ["Année de construction du Royal Pavilion : 1787–1823", "Foyer du plus vieil aquarium du monde", "Plus grand festival de la fierté au Royaume-Uni", "Ouverture du West Pier : 1866 (aujourd'hui en ruines)"],
     },
-    "sights": {"de": [{"name": "Royal Pavilion", "text": "Der Royal Pavilion ist ein exotischer Palast im Zentrum von Brighton, der als Rückzugsort für König Georg IV. erbaut wurde.", "category": "historical", "confidence": "high", "coords": [-0.137717, 50.822364]}, {"name": "Brighton Palace Pier", "text": "Brighton Palace Pier ist ein ikonischer viktorianischer Pier mit Fahrgeschäften, Spielhallen und verschiedenen Essensständen.", "category": "recreational", "confidence": "high", "coords": [-0.137222, 50.8164]}, {"name": "The Lanes", "text": "The Lanes ist ein historisches Viertel in Brighton, bekannt für seine engen Gassen, unabhängigen Geschäfte und Antiquitätenläden.", "category": "historical", "confidence": "high", "coords": [-0.14, 50.821]}, {"name": "Brighton i360", "text": "Der Brighton i360 ist ein 162 Meter hoher Aussichtsturm an der Küste, der einen Panoramablick über die Stadt und das Meer bietet.", "category": "recreational", "confidence": "high", "coords": [-0.1509, 50.82135]}, {"name": "Brighton Dome", "text": "Das Brighton Dome ist ein erstklassiger Veranstaltungsort für Kunst und Kultur, der sich in den ehemaligen königlichen Ställen befindet.", "category": "cultural", "confidence": "high", "coords": [-0.1384, 50.8234]}, {"name": "Brighton Museum & Art Gallery", "text": "Dieses Museum im Royal Pavilion Garden beherbergt bedeutende Sammlungen von Kunst, Design und lokaler Geschichte.", "category": "museum", "confidence": "high", "coords": [-0.138041, 50.8237]}, {"name": "Sea Life Brighton", "text": "Das 1872 eröffnete Sea Life Brighton ist das älteste noch in Betrieb befindliche Aquarium der Welt mit einer viktorianischen Architektur.", "category": "recreational", "confidence": "high", "coords": [-0.135154, 50.819537]}, {"name": "Brighton Marina", "text": "Die Brighton Marina ist einer der größten künstlichen Jachthäfen Europas und bietet zahlreiche Geschäfte, Kinos und Restaurants.", "category": "recreational", "confidence": "high", "coords": [-0.109782, 50.81078]}, {"name": "North Laine", "text": "Das Viertel North Laine ist ein lebendiges Zentrum für böhmische Kultur mit über 400 unabhängigen Geschäften, Cafés und Pubs.", "category": "recreational", "confidence": "high", "coords": [-0.139167, 50.8264]}, {"name": "Brighton Beach", "text": "Der berühmte Kieselstrand von Brighton prägt das Bild der südenglischen Küste über mehrere Kilometer hinweg. Hier pulsiert das Leben mit zahlreichen Möglichkeiten für Wassersport, Erholung und klassisches britisches Strandvergnügen. Sonnenstühle und die typische Meeresbrise versprechen einen unvergesslichen Aufenthalt.", "category": "natural", "confidence": "high", "coords": [-0.138017, 50.818973]}, {"name": "St. Nicholas Church", "text": "Die St. Nicholas Church ist das älteste Gebäude in Brighton und stammt aus dem 14. Jahrhundert mit einer reichen christlichen Tradition.", "category": "religious", "confidence": "high", "coords": [-0.144845, 50.825376]}, {"name": "Preston Manor", "text": "Preston Manor ist ein Herrenhaus aus der georgianischen Zeit, das einen Einblick in das Leben der Oberschicht im frühen 20. Jahrhundert gibt.", "category": "historical", "confidence": "high", "coords": [-0.149976, 50.8425]}, {"name": "Brighton Fishing Museum", "text": "Dieses Museum am Strand dokumentiert die reiche Fischereigeschichte der Stadt mit historischen Booten und Fotografien.", "category": "museum", "confidence": "high", "coords": [-0.144496, 50.8204]}, {"name": "Volk's Electric Railway", "text": "Eröffnet im Jahr 1883, ist dies die älteste noch in Betrieb befindliche elektrische Eisenbahn der Welt, die entlang der Küste fährt.", "category": "recreational", "confidence": "high", "coords": [-0.1291, 50.8182]}, {"name": "Booth Museum of Natural History", "text": "Das Booth Museum beherbergt eine faszinierende Sammlung von Vögeln, Schmetterlingen, Fossilien und Skeletten in viktorianischem Stil.", "category": "museum", "confidence": "high", "coords": [-0.15267, 50.837254]}, {"name": "Duke of York's Picturehouse", "text": "Dieses 1910 eröffnete Kino ist eines der ältesten noch in Betrieb befindlichen Lichtspielhäuser in Großbritannien.", "category": "cultural", "confidence": "high", "coords": [-0.138415, 50.833916]}, {"name": "Brighton Toy and Model Museum", "text": "Das Museum unter dem Bahnhof Brighton zeigt eine riesige Sammlung von historischem Spielzeug und Modelleisenbahnen.", "category": "museum", "confidence": "high", "coords": [-0.140833, 50.8286]}, {"name": "Jubilee Library", "text": "Die Jubilee Library ist ein modernes architektonisches Wahrzeichen und ein wichtiges kulturelles Zentrum im Herzen von Brighton.", "category": "civic", "confidence": "high", "coords": [-0.1383, 50.8252]}, {"name": "Brighton Clock Tower", "text": "Der 1888 erbautet Uhrturm im Stadtzentrum wurde zum Gedenken an das Goldene Jubiläum von Königin Victoria errichtet.", "category": "historical", "confidence": "high", "coords": [-0.136472, 50.819108]}, {"name": "Devil's Dyke", "text": "Devil's Dyke ist ein tiefes V-förmiges Tal in den South Downs, das einen spektakulären Blick auf die umliegende Landschaft bietet.", "category": "natural", "confidence": "high", "coords": [-0.205, 50.885]}, {"name": "Brighton Town Hall", "text": "Das im 19. Jahrhundert erbautet Rathaus von Brighton ist ein beeindruckendes Gebäude mit klassizistischer Architektur.", "category": "civic", "confidence": "high", "coords": [-0.1402, 50.820823]}, {"name": "Theatre Royal Brighton", "text": "Das Theatre Royal ist eines der ältesten und renommiertesten Theater des Landes und zeigt regelmäßig große Tourneeproduktionen.", "category": "cultural", "confidence": "high", "coords": [-0.139913, 50.823414]}, {"name": "St Bartholomew's Church", "text": "Diese monumentale Kirche ist für ihre gewaltige Größe und ihre beeindruckende Backsteinarchitektur im byzantinischen Stil bekannt.", "category": "religious", "confidence": "high", "coords": [-0.137056, 50.830876]}, {"name": "Regency Square", "text": "Der Regency Square ist ein historischer Platz mit eleganter Architektur aus dem frühen 19. Jahrhundert und Blick auf das Meer.", "category": "historical", "confidence": "high", "coords": [-0.1504, 50.8226]}, {"name": "Brighton West Pier", "text": "Die Skelettreste des 1866 erbauten West Pier sind ein markantes und melancholisches Wahrzeichen an der Küste von Brighton.", "category": "historical", "confidence": "high", "coords": [-0.151479, 50.822056]}, {"name": "Duke's Mound Naturist Beach", "text": "Der Duke's Mound Naturist Beach ist ein bekannter FKK-Strandabschnitt in der südenglischen Stadt Brighton. Abseits des Haupttrubels bietet er Freunden der Freikörperkultur eine respektvolle und entspannte Atmosphäre am Meer. Wer natürliche Bräune und unbeschwertes Baden schätzt, findet hier seinen Platz.", "category": "recreational", "coords": [-0.114532, 50.814728]}, {"name": "Fabrica", "text": "Fabrica ist eine Galerie für zeitgenössische Kunst in einer ehemaligen Kirche in Brighton.", "category": "museum", "coords": [-0.142009, 50.822752]}, {"name": "Pepper Pot", "text": "Der Pepper Pot ist ein ungewöhnliches historisches Baudenkmal in Brighton.", "category": "historical", "coords": [-0.124812, 50.827287]}, {"name": "West Pier", "text": "Der West Pier ist eine bekannte, verfallene Seebrücke vor der Küste von Brighton.", "category": "historical", "coords": [-0.152003, 50.819001]}, {"name": "The Actors Theatre", "text": "Das Actors Theatre ist ein bemerkenswerter Theaterort in Brighton.", "category": "cultural", "coords": [-0.136008, 50.822287]}, {"name": "St George's", "text": "St George's ist ein anerkanntes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.119277, 50.818177]}, {"name": "The Parish Church of Saint Paul", "text": "Die Parish Church of Saint Paul ist ein markantes historisches Gotteshaus in Brighton.", "category": "religious", "coords": [-0.144721, 50.822057]}, {"name": "St Mary the Virgin", "text": "St Mary the Virgin ist ein bekanntes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.129652, 50.820404]}, {"name": "St Andrews Church", "text": "St Andrews Church ist ein bedeutendes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.156799, 50.823494]}, {"name": "St John the Evangelist Church", "text": "Die St John the Evangelist Church ist ein bekanntes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.150904, 50.844432]}, {"name": "St John the Baptist's", "text": "St John the Baptist's ist ein bemerkenswertes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.125997, 50.819478]}, {"name": "St Peter's Church", "text": "Die St Peter's Church ist ein großes Gotteshaus und ein berühmtes Wahrzeichen in Brighton.", "category": "religious", "coords": [-0.135011, 50.828346]}, {"name": "St Mary Magdalene's", "text": "St Mary Magdalene's ist ein Gotteshaus in Brighton.", "category": "religious", "coords": [-0.149574, 50.825514]}, {"name": "St Martin's", "text": "St Martin's ist ein bemerkenswertes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.128644, 50.833325]}, {"name": "Greek Orthodox Church of the Holy Trinity", "text": "Die Greek Orthodox Church of the Holy Trinity ist ein wunderschönes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.131443, 50.823939]}, {"name": "St Mark's", "text": "St Mark's ist ein lokales Gotteshaus in Brighton.", "category": "religious", "coords": [-0.111952, 50.817616]}, {"name": "Dorset Gardens Methodist Church", "text": "Die Dorset Gardens Methodist Church ist ein aktives Gotteshaus in der Region Brighton.", "category": "religious", "coords": [-0.134065, 50.821221]}, {"name": "St Andrews", "text": "St Andrews ist ein Gotteshaus in Brighton.", "category": "religious", "coords": [-0.174972, 50.828597]}, {"name": "St John the Baptist", "text": "St John the Baptist ist ein bekanntes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.164872, 50.826783]}, {"name": "Church of the Sacred Heart", "text": "Die Church of the Sacred Heart ist ein bedeutendes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.170925, 50.829762]}, {"name": "Holland Road Baptist Church", "text": "Die Holland Road Baptist Church ist ein bekanntes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.161329, 50.827076]}, {"name": "Brighton & Hove Reform Synagogue", "text": "Die Brighton & Hove Reform Synagogue ist ein wichtiges Gotteshaus für die jüdische Gemeinde in Brighton.", "category": "religious", "coords": [-0.162656, 50.829586]}, {"name": "Hove Progressive Synagogue", "text": "Die Hove Progressive Synagogue ist ein Gotteshaus des progressiven Judentums in Brighton.", "category": "religious", "coords": [-0.158849, 50.827602]}, {"name": "St Patrick's Church", "text": "Die St Patrick's Church ist ein bedeutendes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.157611, 50.825937]}, {"name": "St Stephen's", "text": "St Stephen's ist ein historisches Gotteshaus in Brighton.", "category": "religious", "coords": [-0.152983, 50.826648]}, {"name": "St Michael and All Angels", "text": "St Michael and All Angels ist ein renommiertes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.149806, 50.827493]}, {"name": "First Church of Christ Scientist", "text": "Die First Church of Christ Scientist ist ein Gotteshaus in Brighton.", "category": "religious", "coords": [-0.152147, 50.825485]}, {"name": "St Mary and St Abraam Church", "text": "Die St Mary and St Abraam Church ist ein koptisch-orthodoxes Gotteshaus in Brighton.", "category": "religious", "coords": [-0.15586, 50.831088]}, {"name": "Church of the Annunciation", "text": "Die Church of the Annunciation ist ein lokales Gotteshaus in Brighton.", "category": "religious", "coords": [-0.129618, 50.829459]}, {"name": "Saint Joseph's Church", "text": "Eine markante römisch-katholische Kirche in Brighton, die für ihre beeindruckende Architektur bekannt ist.", "category": "religious", "coords": [-0.128025, 50.832108]}, {"name": "Brighton National Spiritualist Church", "text": "Ein Gotteshaus für die spiritualistische Gemeinde in Brighton.", "category": "religious", "coords": [-0.131336, 50.822298]}, {"name": "Church of the Good Shepherd", "text": "Eine anglikanische Kirche, die der lokalen Gemeinde in Brighton dient.", "category": "religious", "coords": [-0.157876, 50.841711]}, {"name": "St Mary's Catholic Church", "text": "Eine römisch-katholische Pfarrkirche im Viertel Preston Park in Brighton.", "category": "religious", "coords": [-0.145889, 50.844632]}, {"name": "Jubilee Clock Tower", "text": "Ein freistehender Uhrturm, der 1888 zum goldenen Thronjubiläum von Königin Victoria errichtet wurde.", "category": "tower", "coords": [-0.143604, 50.8237]}, {"name": "London Road Viaduct", "text": "Ein großer Eisenbahnviadukt in Brighton mit 27 Backsteinbögen.", "category": "landmark", "coords": [-0.140882, 50.835386]}, {"name": "Old Steine Gardens", "text": "Ein zentraler öffentlicher Garten in Brighton mit Denkmälern und Brunnen.", "category": "park", "coords": [-0.137411, 50.820684]}, {"name": "St Ann's Well Gardens", "text": "Ein beliebter bewaldeter Park in Hove, bekannt für seine einheimischen und exotischen Bäume.", "category": "park", "coords": [-0.155669, 50.829698]}, {"name": "Adelaide Crescent", "text": "Ein halbkreisförmiger Wohnkomplex und Park in Hove, bekannt für seine Architektur aus der Mitte des 19. Jahrhunderts.", "category": "park", "coords": [-0.164145, 50.824469]}, {"name": "Park Street Gate", "text": "Ein historisches Torbauwerk in Brighton.", "category": "historical", "coords": [-0.12678, 50.823204]}, {"name": "Queen Victoria", "text": "Eine Statue in Brighton zu Ehren von Königin Victoria.", "category": "historical", "coords": [-0.1366, 50.823772]}, {"name": "Peace Statue", "text": "Ein Friedensdenkmal an der Strandpromenade von Brighton.", "category": "historical", "coords": [-0.156927, 50.822509]}, {"name": "Egremont Gate", "text": "Ein historisches Tordenkmal in Brighton.", "category": "historical", "coords": [-0.128278, 50.823615]}, {"name": "Brighton Open Air Theatre (B.O.A.T)", "text": "Eine Freilichtbühne in Brighton, auf der verschiedene Aufführungen stattfinden.", "category": "cultural", "coords": [-0.153849, 50.836166]}, {"name": "Globalls", "text": "Globalls ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-0.102614, 50.81244]}, {"name": "The Level Playground", "text": "The Level Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.13377, 50.829847]}, {"name": "Roedean Cafe & Miniature Golf Club", "text": "Roedean Cafe & Miniature Golf Club ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-0.093683, 50.813625]}, {"name": "Brighton Palace Pier Arcade", "text": "Brighton Palace Pier Arcade ist eine Spielhalle in Brighton, ideal für Familien, die spannende Unterhaltung suchen.", "category": "family", "coords": [-0.136621, 50.818089]}, {"name": "Jungle Rumble Adventure Golf", "text": "Jungle Rumble Adventure Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-0.12076, 50.816617]}, {"name": "Pirate Golf", "text": "Pirate Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-0.133527, 50.818963]}, {"name": "Preston Park Playground", "text": "Preston Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.144843, 50.839368]}, {"name": "The Patch", "text": "The Patch ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.123411, 50.833956]}, {"name": "Jurassic Beach", "text": "Der Name Jurassic Beach steht in Brighton für eine unterhaltsame Minigolfanlage direkt an der Küste. Familien und Freunde können sich hier bei einer Partie Golf im Dinodesign vergnügen und gleichzeitig die frische Meeresluft genießen. Ein toller Freizeittipp abseits des klassischen Badetages.", "category": "family", "coords": [-0.177997, 50.825103]}, {"name": "Farm Green Playgorund", "text": "Farm Green Playgorund ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.100163, 50.840764]}, {"name": "East Brighton Playground", "text": "East Brighton Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.101539, 50.81898]}, {"name": "Dyke Road Park Playground", "text": "Dyke Road Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-0.152568, 50.835642]}, {"name": "Pirates Cave Adventure Golf (FunPlay Leisure)", "text": "Pirates Cave Adventure Golf (FunPlay Leisure) ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.", "category": "family", "coords": [-0.105989, 50.81246]}, {"name": "Brighton College Swimming Pool", "text": "Das Schwimmbad des Brighton College bietet Raum für Familienschwimmstunden.", "category": "family", "coords": [-0.121531, 50.822525]}, {"name": "Paraquatics", "text": "Paraquatics in Brighton bietet Familien die Möglichkeit, aquatische Arten zu entdecken.", "category": "family", "coords": [-0.190739, 50.833855]}, {"name": "St Lukes Swimming Pool", "text": "St Lukes Swimming Pool bietet Einrichtungen, in denen Familien gemeinsam schwimmen können.", "category": "family", "coords": [-0.122609, 50.82751]}, {"name": "Patcham High School Swimming Pool", "text": "Dieses Schwimmbad in Brighton wird für gemeinschaftliche und familiäre Schwimmaktivitäten genutzt.", "category": "family", "coords": [-0.143855, 50.861608]}], "hu": [{"name": "Royal Pavilion", "text": "A Royal Pavilion egy egzotikus palota Brighton központjában, amely IV. György király tengerparti rezidenciájaként épült.", "category": "historical", "confidence": "high", "coords": [-0.137717, 50.822364]}, {"name": "Brighton Palace Pier", "text": "A Brighton Palace Pier egy ikonikus viktoriánus móló vidámparki játékokkal, játéktermekkel és különféle ételstandokkal.", "category": "recreational", "confidence": "high", "coords": [-0.137222, 50.8164]}, {"name": "The Lanes", "text": "A The Lanes Brighton történelmi negyede, amely szűk sikátorairól, független üzleteiről és régiségkereskedéseiről híres.", "category": "historical", "confidence": "high", "coords": [-0.14, 50.821]}, {"name": "Brighton i360", "text": "A Brighton i360 egy 162 méter magas kilátótorony a tengerparton, amely panorámás kilátást nyújt a városra és a tengerre.", "category": "recreational", "confidence": "high", "coords": [-0.1509, 50.82135]}, {"name": "Brighton Dome", "text": "A Brighton Dome egy első osztályú művészeti és kulturális helyszín, amely az egykori királyi istállók épületében található.", "category": "cultural", "confidence": "high", "coords": [-0.1384, 50.8234]}, {"name": "Brighton Museum & Art Gallery", "text": "A Royal Pavilion kertjében található múzeum jelentős művészeti, design és helytörténeti gyűjteményeknek ad otthont.", "category": "museum", "confidence": "high", "coords": [-0.138041, 50.8237]}, {"name": "Sea Life Brighton", "text": "Az 1872-ben megnyitott Sea Life Brighton a világ legrégebbi, folyamatosan működő akváriuma, lenyűgöző viktoriánus stílusban.", "category": "recreational", "confidence": "high", "coords": [-0.135154, 50.819537]}, {"name": "Brighton Marina", "text": "A Brighton Marina Európa egyik legnagyobb mesterséges jachtkikötője, számos üzlettel, mozival és étteremmel rendelkezik.", "category": "recreational", "confidence": "high", "coords": [-0.109782, 50.81078]}, {"name": "North Laine", "text": "A North Laine negyed a bohém kultúra vibráló központja, több mint 400 független üzlettel, kávézóval és pubbal.", "category": "recreational", "confidence": "high", "coords": [-0.139167, 50.8264]}, {"name": "Brighton Beach", "text": "Brighton híres kavicsos strandja több kilométeren át határozza meg a dél-angol partvidék arculatát. Itt lüktet az élet, számtalan lehetőséggel a vízi sportokra, a kikapcsolódásra és a klasszikus brit tengerparti szórakozásra. A napozóágyak és a jellegzetes tengeri szellő felejthetetlen tartózkodást ígérnek.", "category": "natural", "confidence": "high", "coords": [-0.138017, 50.818973]}, {"name": "St. Nicholas Church", "text": "A Szent Miklós-templom Brighton legrégebbi épülete, amely a 14. századból származik, és gazdag keresztény hagyományokkal bír.", "category": "religious", "confidence": "high", "coords": [-0.144845, 50.825376]}, {"name": "Preston Manor", "text": "A Preston Manor egy georgiánus kori udvarház, amely betekintést nyújt a 20. század eleji felsőosztály életébe.", "category": "historical", "confidence": "high", "coords": [-0.149976, 50.8425]}, {"name": "Brighton Fishing Museum", "text": "A tengerparton található múzeum a város gazdag halászati múltját mutatja be történelmi hajókkal és fényképekkel.", "category": "museum", "confidence": "high", "coords": [-0.144496, 50.8204]}, {"name": "Volk's Electric Railway", "text": "Az 1883-ban megnyitott vasút a világ legrégebbi, ma is működő elektromos vasútja, amely a tengerpart mentén közlekedik.", "category": "recreational", "confidence": "high", "coords": [-0.1291, 50.8182]}, {"name": "Booth Museum of Natural History", "text": "A Booth Múzeum madarak, pillangók, fosszíliák és csontvázak lenyűgöző gyűjteményét őrzi viktoriánus környezetben.", "category": "museum", "confidence": "high", "coords": [-0.15267, 50.837254]}, {"name": "Duke of York's Picturehouse", "text": "Az 1910-ben megnyitott mozi az Egyesült Királyság egyik legrégebbi, ma is üzemelő filmszínháza.", "category": "cultural", "confidence": "high", "coords": [-0.138415, 50.833916]}, {"name": "Brighton Toy and Model Museum", "text": "A brightoni vasútállomás alatt található múzeum történelmi játékok és modellvasutak hatalmas gyűjteményét mutatja be.", "category": "museum", "confidence": "high", "coords": [-0.140833, 50.8286]}, {"name": "Jubilee Library", "text": "A Jubilee Könyvtár modern építészeti remekmű és fontos kulturális központ Brighton szívében.", "category": "civic", "confidence": "high", "coords": [-0.1383, 50.8252]}, {"name": "Brighton Clock Tower", "text": "A városközpontban álló óratornyot 1888-ban építették Viktória királynő aranyjubileumának emlékére.", "category": "historical", "confidence": "high", "coords": [-0.136472, 50.819108]}, {"name": "Devil's Dyke", "text": "A Devil's Dyke egy mély, V alakú völgy a South Downs dombjai között, ahonnan látványos kilátás nyílik a környező vidékre.", "category": "natural", "confidence": "high", "coords": [-0.205, 50.885]}, {"name": "Brighton Town Hall", "text": "A 19. században épült brightoni városháza lenyűgöző épület, amely klasszicista építészeti stílusával emelkedik ki.", "category": "civic", "confidence": "high", "coords": [-0.1402, 50.820823]}, {"name": "Theatre Royal Brighton", "text": "A Theatre Royal az ország egyik legrégebbi és legrangosabb színháza, amely rendszeresen ad otthont nagy turnéprodukcióknak.", "category": "cultural", "confidence": "high", "coords": [-0.139913, 50.823414]}, {"name": "St Bartholomew's Church", "text": "Ez a monumentális templom hatalmas méretéről és lenyűgöző, bizánci stílusú téglaépítészetéről ismert.", "category": "religious", "confidence": "high", "coords": [-0.137056, 50.830876]}, {"name": "Regency Square", "text": "A Regency Square egy történelmi tér elegáns, 19. század eleji építészettel és közvetlen kilátással a tengerre.", "category": "historical", "confidence": "high", "coords": [-0.1504, 50.8226]}, {"name": "Brighton West Pier", "text": "Az 1866-ban épült West Pier csontvázszerű maradványai Brighton tengerpartjának jellegzetes és melankolikus szimbólumai.", "category": "historical", "confidence": "high", "coords": [-0.151479, 50.822056]}, {"name": "Duke's Mound Naturist Beach", "text": "A Duke's Mound Naturist Beach egy jól ismert naturista strandszakasz a dél-angliai Brighton városában. A fő nyüzsgéstől távol tiszteletteljes és nyugodt tengerparti hangulatot kínál a szabadság kedvelőinek. Aki értékeli a természetes barnulást és a gondtalan fürdőzést, itt megtalálja a számítását.", "category": "recreational", "coords": [-0.114532, 50.814728]}, {"name": "Fabrica", "text": "A Fabrica egy egykori templomban működő kortárs művészeti galéria Brightonban.", "category": "museum", "coords": [-0.142009, 50.822752]}, {"name": "Pepper Pot", "text": "A Pepper Pot egy szokatlan történelmi emlékmű Brightonban.", "category": "historical", "coords": [-0.124812, 50.827287]}, {"name": "West Pier", "text": "A West Pier egy híres romos móló Brighton partjainál.", "category": "historical", "coords": [-0.152003, 50.819001]}, {"name": "The Actors Theatre", "text": "A The Actors Theatre egy figyelemre méltó színházi helyszín Brightonban.", "category": "cultural", "coords": [-0.136008, 50.822287]}, {"name": "St George's", "text": "A St George's egy elismert istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.119277, 50.818177]}, {"name": "The Parish Church of Saint Paul", "text": "A Szent Pál plébániatemplom egy kiemelkedő történelmi istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.144721, 50.822057]}, {"name": "St Mary the Virgin", "text": "A St Mary the Virgin egy jól ismert istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.129652, 50.820404]}, {"name": "St Andrews Church", "text": "A St Andrews templom egy jelentős istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.156799, 50.823494]}, {"name": "St John the Evangelist Church", "text": "A St John the Evangelist Church egy ismert istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.150904, 50.844432]}, {"name": "St John the Baptist's", "text": "A St John the Baptist's egy jelentős istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.125997, 50.819478]}, {"name": "St Peter's Church", "text": "A St Peter's templom egy jelentős istentiszteleti hely és egy híres nevezetesség Brightonban.", "category": "religious", "coords": [-0.135011, 50.828346]}, {"name": "St Mary Magdalene's", "text": "A St Mary Magdalene's egy istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.149574, 50.825514]}, {"name": "St Martin's", "text": "A St Martin's egy figyelemre méltó istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.128644, 50.833325]}, {"name": "Greek Orthodox Church of the Holy Trinity", "text": "A Szentháromság Görög Ortodox Templom egy gyönyörű istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.131443, 50.823939]}, {"name": "St Mark's", "text": "A St Mark's egy helyi istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.111952, 50.817616]}, {"name": "Dorset Gardens Methodist Church", "text": "A Dorset Gardens Metodista Templom egy aktív istentiszteleti hely Brighton területén.", "category": "religious", "coords": [-0.134065, 50.821221]}, {"name": "St Andrews", "text": "A St Andrews egy istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.174972, 50.828597]}, {"name": "St John the Baptist", "text": "A St John the Baptist egy ismert istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.164872, 50.826783]}, {"name": "Church of the Sacred Heart", "text": "A Szent Szív Templom egy kiemelkedő istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.170925, 50.829762]}, {"name": "Holland Road Baptist Church", "text": "A Holland Road Baptist Church egy ismert istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.161329, 50.827076]}, {"name": "Brighton & Hove Reform Synagogue", "text": "A Brighton & Hove Reform Zsinagóga a helyi zsidó közösség fontos istentiszteleti helye Brightonban.", "category": "religious", "coords": [-0.162656, 50.829586]}, {"name": "Hove Progressive Synagogue", "text": "A Hove Progresszív Zsinagóga a progresszív judaizmushoz kapcsolódó istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.158849, 50.827602]}, {"name": "St Patrick's Church", "text": "A St Patrick's Church egy jelentős istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.157611, 50.825937]}, {"name": "St Stephen's", "text": "A St Stephen's egy történelmi istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.152983, 50.826648]}, {"name": "St Michael and All Angels", "text": "A St Michael and All Angels egy híres istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.149806, 50.827493]}, {"name": "First Church of Christ Scientist", "text": "A First Church of Christ Scientist egy istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.152147, 50.825485]}, {"name": "St Mary and St Abraam Church", "text": "A St Mary and St Abraam Church egy kopt ortodox istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.15586, 50.831088]}, {"name": "Church of the Annunciation", "text": "A Church of the Annunciation egy helyi istentiszteleti hely Brightonban.", "category": "religious", "coords": [-0.129618, 50.829459]}, {"name": "Saint Joseph's Church", "text": "Jelentős római katolikus templom Brightonban, amely lenyűgöző építészetéről ismert.", "category": "religious", "coords": [-0.128025, 50.832108]}, {"name": "Brighton National Spiritualist Church", "text": "Spirituális közösségi templom Brightonban.", "category": "religious", "coords": [-0.131336, 50.822298]}, {"name": "Church of the Good Shepherd", "text": "Anglikán templom Brighton helyi közössége számára.", "category": "religious", "coords": [-0.157876, 50.841711]}, {"name": "St Mary's Catholic Church", "text": "Római katolikus plébániatemplom Brighton Preston Park negyedében.", "category": "religious", "coords": [-0.145889, 50.844632]}, {"name": "Jubilee Clock Tower", "text": "1888-ban épült óratorony Viktória királynő aranyjubileumának emlékére.", "category": "tower", "coords": [-0.143604, 50.8237]}, {"name": "London Road Viaduct", "text": "Brighton nagy vasúti viaduktja, amely 27 téglaívből áll.", "category": "landmark", "coords": [-0.140882, 50.835386]}, {"name": "Old Steine Gardens", "text": "Brighton központi közparkja emlékművekkel és szökőkutakkal.", "category": "park", "coords": [-0.137411, 50.820684]}, {"name": "St Ann's Well Gardens", "text": "Népszerű park Hove-ban, amely őshonos és egzotikus fáiról ismert.", "category": "park", "coords": [-0.155669, 50.829698]}, {"name": "Adelaide Crescent", "text": "Lakóövezeti félkörív és kert Hove-ban, 19. századi építészetéről nevezetes.", "category": "park", "coords": [-0.164145, 50.824469]}, {"name": "Park Street Gate", "text": "Történelmi kapuépítmény Brightonban.", "category": "historical", "coords": [-0.12678, 50.823204]}, {"name": "Queen Victoria", "text": "Viktória királynő emlékszobra Brightonban.", "category": "historical", "coords": [-0.1366, 50.823772]}, {"name": "Peace Statue", "text": "A békét jelképező emlékmű Brighton tengerpartján.", "category": "historical", "coords": [-0.156927, 50.822509]}, {"name": "Egremont Gate", "text": "Történelmi kapuemlékmű Brightonban.", "category": "historical", "coords": [-0.128278, 50.823615]}, {"name": "Brighton Open Air Theatre (B.O.A.T)", "text": "Szabadtéri színház Brightonban, amely különféle előadásoknak ad otthont.", "category": "cultural", "coords": [-0.153849, 50.836166]}, {"name": "Globalls", "text": "A(z) Globalls egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-0.102614, 50.81244]}, {"name": "The Level Playground", "text": "A(z) The Level Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.13377, 50.829847]}, {"name": "Roedean Cafe & Miniature Golf Club", "text": "A(z) Roedean Cafe & Miniature Golf Club egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-0.093683, 50.813625]}, {"name": "Brighton Palace Pier Arcade", "text": "A(z) Brighton Palace Pier Arcade egy játékterem Brighton területén, amely tökéletes a szórakozást kereső családok számára.", "category": "family", "coords": [-0.136621, 50.818089]}, {"name": "Jungle Rumble Adventure Golf", "text": "A(z) Jungle Rumble Adventure Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-0.12076, 50.816617]}, {"name": "Pirate Golf", "text": "A(z) Pirate Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-0.133527, 50.818963]}, {"name": "Preston Park Playground", "text": "A(z) Preston Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.144843, 50.839368]}, {"name": "The Patch", "text": "A(z) The Patch egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.123411, 50.833956]}, {"name": "Jurassic Beach", "text": "A Jurassic Beach név Brightonban egy szórakoztató minigolfpályát takar közvetlenül a tengerparton. Családok és barátok élvezhetik itt a dinoszauruszos dizájnú golfpartit, miközben a friss tengeri levegőt is beszívhatják. Remek szabadidős tipp a hagyományos fürdőzésen túl.", "category": "family", "coords": [-0.177997, 50.825103]}, {"name": "Farm Green Playgorund", "text": "A(z) Farm Green Playgorund egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.100163, 50.840764]}, {"name": "East Brighton Playground", "text": "A(z) East Brighton Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.101539, 50.81898]}, {"name": "Dyke Road Park Playground", "text": "A(z) Dyke Road Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-0.152568, 50.835642]}, {"name": "Pirates Cave Adventure Golf (FunPlay Leisure)", "text": "A(z) Pirates Cave Adventure Golf (FunPlay Leisure) egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.", "category": "family", "coords": [-0.105989, 50.81246]}, {"name": "Brighton College Swimming Pool", "text": "A Brighton College úszómedencéje helyet biztosít családi úszásokhoz.", "category": "family", "coords": [-0.121531, 50.822525]}, {"name": "Paraquatics", "text": "A brightoni Paraquatics lehetőséget kínál a családoknak vízi élőlények felfedezésére.", "category": "family", "coords": [-0.190739, 50.833855]}, {"name": "St Lukes Swimming Pool", "text": "A brightoni St Lukes Swimming Pool lehetőséget nyújt a családoknak a közös úszásra.", "category": "family", "coords": [-0.122609, 50.82751]}, {"name": "Patcham High School Swimming Pool", "text": "Ezt a brightoni úszómedencét közösségi és családi úszásra használják.", "category": "family", "coords": [-0.143855, 50.861608]}], "ro": [{"name": "Pavilionul Regal", "text": "Pavilionul Regal este un palat exotic din centrul orașului Brighton, construit ca reședință de vară pentru regele George al IV-lea.", "category": "historical", "confidence": "high", "coords": [-0.137717, 50.822364]}, {"name": "Brighton Palace Pier", "text": "Brighton Palace Pier este un debarcader victorian iconic, cu atracții de divertisment, săli de jocuri și standuri cu mâncare.", "category": "recreational", "confidence": "high", "coords": [-0.137222, 50.8164]}, {"name": "The Lanes", "text": "The Lanes este o zonă istorică din Brighton, faimoasă pentru aleile sale înguste, magazinele independente și antichități.", "category": "historical", "confidence": "high", "coords": [-0.14, 50.821]}, {"name": "Brighton i360", "text": "Brighton i360 este un turn de observație de 162 de metri pe coastă, oferind o vedere panoramică asupra orașului și mării.", "category": "recreational", "confidence": "high", "coords": [-0.1509, 50.82135]}, {"name": "Brighton Dome", "text": "Brighton Dome este o locație de prim rang pentru artă și cultură, situată în fostele grajduri regale ale palatului.", "category": "cultural", "confidence": "high", "coords": [-0.1384, 50.8234]}, {"name": "Muzeul și Galeria de Artă din Brighton", "text": "Acest muzeu din grădina Pavilionului Regal găzduiește colecții importante de artă, design și istorie locală.", "category": "museum", "confidence": "high", "coords": [-0.138041, 50.8237]}, {"name": "Sea Life Brighton", "text": "Deschis în 1872, Sea Life Brighton este cel mai vechi acvariu din lume aflat încă în funcțiune, având o arhitectură victoriană.", "category": "recreational", "confidence": "high", "coords": [-0.135154, 50.819537]}, {"name": "Brighton Marina", "text": "Brighton Marina este unul dintre cele mai mari porturi artificiale din Europa, oferind numeroase magazine, cinematografe și restaurante.", "category": "recreational", "confidence": "high", "coords": [-0.109782, 50.81078]}, {"name": "North Laine", "text": "Cartierul North Laine este un centru vibrant al culturii boeme, cu peste 400 de magazine independente, cafenele și pub-uri.", "category": "recreational", "confidence": "high", "coords": [-0.139167, 50.8264]}, {"name": "Plaja Brighton", "text": "Faimoasa plajă cu pietricele din Brighton definește imaginea coastei din sudul Angliei pe o distanță de câțiva kilometri. Aici viața pulsează cu numeroase oportunități pentru sporturi nautice, recreere și distracție clasică britanică la plajă. Șezlongurile și briza tipică mării promit un sejur de neuitat.", "category": "natural", "confidence": "high", "coords": [-0.138017, 50.818973]}, {"name": "Biserica Sf. Nicolae", "text": "Biserica Sf. Nicolae este cea mai veche clădire din Brighton, datând din secolul al XIV-lea, cu o bogată tradiție creștină.", "category": "religious", "confidence": "high", "coords": [-0.144845, 50.825376]}, {"name": "Conacul Preston", "text": "Conacul Preston este o reședință din epoca georgiană care oferă o privire asupra vieții clasei superioare la începutul secolului XX.", "category": "historical", "confidence": "high", "coords": [-0.149976, 50.8425]}, {"name": "Muzeul Pescuitului din Brighton", "text": "Acest muzeu situat pe plajă documentează istoria bogată a pescuitului din oraș prin bărci istorice și fotografii.", "category": "museum", "confidence": "high", "coords": [-0.144496, 50.8204]}, {"name": "Calea ferată electrică a lui Volk", "text": "Deschisă în 1883, aceasta este cea mai veche cale ferată electrică din lume aflată încă în funcțiune, circulând de-a lungul coastei.", "category": "recreational", "confidence": "high", "coords": [-0.1291, 50.8182]}, {"name": "Muzeul de Istorie Naturală Booth", "text": "Muzeul Booth găzduiește o colecție fascinantă de păsări, fluturi, fosile și schelete într-un cadru victorian.", "category": "museum", "confidence": "high", "coords": [-0.15267, 50.837254]}, {"name": "Duke of York's Picturehouse", "text": "Acest cinematograf deschis în 1910 este unul dintre cele mai vechi cinematografe din Marea Britanie încă în funcțiune.", "category": "cultural", "confidence": "high", "coords": [-0.138415, 50.833916]}, {"name": "Muzeul Jucăriilor și Modelelor din Brighton", "text": "Muzeul aflat sub gara din Brighton prezintă o colecție uriașă de jucării istorice și trenulețe electrice.", "category": "museum", "confidence": "high", "coords": [-0.140833, 50.8286]}, {"name": "Biblioteca Jubilee", "text": "Biblioteca Jubilee este un reper arhitectural modern și un centru cultural important în inima orașului Brighton.", "category": "civic", "confidence": "high", "coords": [-0.1383, 50.8252]}, {"name": "Turnul cu Ceas din Brighton", "text": "Turnul cu ceas din centrul orașului a fost construit în 1888 pentru a comemora Jubileul de Aur al Reginei Victoria.", "category": "historical", "confidence": "high", "coords": [-0.136472, 50.819108]}, {"name": "Devil's Dyke", "text": "Devil's Dyke este o vale adâncă în formă de V în South Downs, care oferă vederi spectaculoase asupra peisajului înconjurător.", "category": "natural", "confidence": "high", "coords": [-0.205, 50.885]}, {"name": "Primăria din Brighton", "text": "Primăria din Brighton, construită în secolul al XIX-lea, este o clădire impresionantă cu o arhitectură neoclasică.", "category": "civic", "confidence": "high", "coords": [-0.1402, 50.820823]}, {"name": "Theatre Royal Brighton", "text": "Theatre Royal este unul dintre cele mai vechi și prestigioase teatre din țară, găzduind regulat mari producții itinerante.", "category": "cultural", "confidence": "high", "coords": [-0.139913, 50.823414]}, {"name": "Biserica Sf. Bartolomeu", "text": "Această biserică monumentală este cunoscută pentru dimensiunile sale uriașe și arhitectura impresionantă din cărămidă în stil bizantin.", "category": "religious", "confidence": "high", "coords": [-0.137056, 50.830876]}, {"name": "Regency Square", "text": "Piața Regency este o piață istorică cu o arhitectură elegantă de la începutul secolului al XIX-lea și vedere spre mare.", "category": "historical", "confidence": "high", "coords": [-0.1504, 50.8226]}, {"name": "Brighton West Pier", "text": "Rămășițele scheletice ale West Pier, construit în 1866, sunt un reper distinctiv și melancolic pe coasta din Brighton.", "category": "historical", "confidence": "high", "coords": [-0.151479, 50.822056]}, {"name": "Duke's Mound Naturist Beach", "text": "Duke's Mound Naturist Beach este o secțiune de plajă nudistă bine-cunoscută din orașul Brighton, în sudul Angliei. Departe de agitația principală, oferă o atmosferă respectuoasă și relaxată la malul mării pentru iubitorii naturismului. Cei care apreciază un bronz natural și o baie fără griji își vor găsi locul aici.", "category": "recreational", "coords": [-0.114532, 50.814728]}, {"name": "Fabrica", "text": "Fabrica este o galerie de artă contemporană găzduită într-o fostă biserică din Brighton.", "category": "museum", "coords": [-0.142009, 50.822752]}, {"name": "Pepper Pot", "text": "Pepper Pot este un monument istoric neobișnuit situat în Brighton.", "category": "historical", "coords": [-0.124812, 50.827287]}, {"name": "West Pier", "text": "West Pier este un renumit debarcader în ruină aflat pe coasta orașului Brighton.", "category": "historical", "coords": [-0.152003, 50.819001]}, {"name": "The Actors Theatre", "text": "The Actors Theatre este un important spațiu teatral din Brighton.", "category": "cultural", "coords": [-0.136008, 50.822287]}, {"name": "St George's", "text": "St George's este un lăcaș de cult recunoscut din Brighton.", "category": "religious", "coords": [-0.119277, 50.818177]}, {"name": "The Parish Church of Saint Paul", "text": "Biserica parohială Sfântul Paul este un lăcaș de cult istoric proeminent din Brighton.", "category": "religious", "coords": [-0.144721, 50.822057]}, {"name": "St Mary the Virgin", "text": "Sfânta Maria Fecioara este un lăcaș de cult binecunoscut situat în Brighton.", "category": "religious", "coords": [-0.129652, 50.820404]}, {"name": "St Andrews Church", "text": "Biserica Sf. Andrei este un lăcaș de cult important situat în Brighton.", "category": "religious", "coords": [-0.156799, 50.823494]}, {"name": "St John the Evangelist Church", "text": "Biserica Sf. Ioan Evanghelistul este un lăcaș de cult ușor de recunoscut din Brighton.", "category": "religious", "coords": [-0.150904, 50.844432]}, {"name": "St John the Baptist's", "text": "St John the Baptist's este un lăcaș de cult notabil din Brighton.", "category": "religious", "coords": [-0.125997, 50.819478]}, {"name": "St Peter's Church", "text": "Biserica Sf. Petru este un lăcaș de cult important și un reper faimos din Brighton.", "category": "religious", "coords": [-0.135011, 50.828346]}, {"name": "St Mary Magdalene's", "text": "St Mary Magdalene's este un lăcaș de cult situat în Brighton.", "category": "religious", "coords": [-0.149574, 50.825514]}, {"name": "St Martin's", "text": "St Martin's este un lăcaș de cult notabil situat în Brighton.", "category": "religious", "coords": [-0.128644, 50.833325]}, {"name": "Greek Orthodox Church of the Holy Trinity", "text": "Biserica Ortodoxă Greacă Sfânta Treime este un lăcaș de cult frumos din Brighton.", "category": "religious", "coords": [-0.131443, 50.823939]}, {"name": "St Mark's", "text": "St Mark's este un lăcaș de cult local aflat în Brighton.", "category": "religious", "coords": [-0.111952, 50.817616]}, {"name": "Dorset Gardens Methodist Church", "text": "Dorset Gardens Methodist Church este un lăcaș de cult activ din zona Brighton.", "category": "religious", "coords": [-0.134065, 50.821221]}, {"name": "St Andrews", "text": "St Andrews este un lăcaș de cult situat în Brighton.", "category": "religious", "coords": [-0.174972, 50.828597]}, {"name": "St John the Baptist", "text": "St John the Baptist este un lăcaș de cult ușor de recunoscut din Brighton.", "category": "religious", "coords": [-0.164872, 50.826783]}, {"name": "Church of the Sacred Heart", "text": "Biserica Inima Sacră este un lăcaș de cult proeminent din Brighton.", "category": "religious", "coords": [-0.170925, 50.829762]}, {"name": "Holland Road Baptist Church", "text": "Holland Road Baptist Church este un lăcaș de cult cunoscut din Brighton.", "category": "religious", "coords": [-0.161329, 50.827076]}, {"name": "Brighton & Hove Reform Synagogue", "text": "Brighton & Hove Reform Synagogue este un lăcaș de cult important pentru comunitatea evreiască locală din Brighton.", "category": "religious", "coords": [-0.162656, 50.829586]}, {"name": "Hove Progressive Synagogue", "text": "Hove Progressive Synagogue este un lăcaș de cult asociat iudaismului progresist din Brighton.", "category": "religious", "coords": [-0.158849, 50.827602]}, {"name": "St Patrick's Church", "text": "Biserica Sf. Patrick este un lăcaș de cult important situat în Brighton.", "category": "religious", "coords": [-0.157611, 50.825937]}, {"name": "St Stephen's", "text": "St Stephen's este un lăcaș de cult istoric situat în Brighton.", "category": "religious", "coords": [-0.152983, 50.826648]}, {"name": "St Michael and All Angels", "text": "St Michael and All Angels este un lăcaș de cult renumit din Brighton.", "category": "religious", "coords": [-0.149806, 50.827493]}, {"name": "First Church of Christ Scientist", "text": "First Church of Christ Scientist este un lăcaș de cult situat în Brighton.", "category": "religious", "coords": [-0.152147, 50.825485]}, {"name": "St Mary and St Abraam Church", "text": "Biserica Sf. Maria și Sf. Avraam este un lăcaș de cult ortodox copt din Brighton.", "category": "religious", "coords": [-0.15586, 50.831088]}, {"name": "Church of the Annunciation", "text": "Church of the Annunciation este un lăcaș de cult local aflat în Brighton.", "category": "religious", "coords": [-0.129618, 50.829459]}, {"name": "Saint Joseph's Church", "text": "O biserică romano-catolică proeminentă din Brighton, cunoscută pentru arhitectura sa impresionantă.", "category": "religious", "coords": [-0.128025, 50.832108]}, {"name": "Brighton National Spiritualist Church", "text": "Un lăcaș de cult pentru comunitatea spiritualistă din Brighton.", "category": "religious", "coords": [-0.131336, 50.822298]}, {"name": "Church of the Good Shepherd", "text": "O biserică anglicană care deservește comunitatea locală din Brighton.", "category": "religious", "coords": [-0.157876, 50.841711]}, {"name": "St Mary's Catholic Church", "text": "O biserică parohială romano-catolică situată în zona Preston Park din Brighton.", "category": "religious", "coords": [-0.145889, 50.844632]}, {"name": "Jubilee Clock Tower", "text": "Un turn cu ceas ridicat în 1888 pentru a comemora Jubileul de Aur al Reginei Victoria.", "category": "tower", "coords": [-0.143604, 50.8237]}, {"name": "London Road Viaduct", "text": "Un viaduct feroviar mare din Brighton, format din 27 de arcuri de cărămidă.", "category": "landmark", "coords": [-0.140882, 50.835386]}, {"name": "Old Steine Gardens", "text": "O grădină publică centrală din Brighton, cu monumente și fântâni.", "category": "park", "coords": [-0.137411, 50.820684]}, {"name": "St Ann's Well Gardens", "text": "Un parc popular împădurit din Hove, cunoscut pentru arborii săi nativi și exotici.", "category": "park", "coords": [-0.155669, 50.829698]}, {"name": "Adelaide Crescent", "text": "Un complex rezidențial în formă de semilună și grădină publică din Hove, remarcabil pentru arhitectura de la mijlocul secolului al XIX-lea.", "category": "park", "coords": [-0.164145, 50.824469]}, {"name": "Park Street Gate", "text": "O structură istorică de poartă situată în Brighton.", "category": "historical", "coords": [-0.12678, 50.823204]}, {"name": "Queen Victoria", "text": "O statuie din Brighton care o comemorează pe Regina Victoria.", "category": "historical", "coords": [-0.1366, 50.823772]}, {"name": "Peace Statue", "text": "Un monument din Brighton care simbolizează pacea, situat pe faleză.", "category": "historical", "coords": [-0.156927, 50.822509]}, {"name": "Egremont Gate", "text": "Un monument istoric sub formă de poartă din Brighton.", "category": "historical", "coords": [-0.128278, 50.823615]}, {"name": "Brighton Open Air Theatre (B.O.A.T)", "text": "Un spațiu de spectacole în aer liber din Brighton, care găzduiește diverse spectacole.", "category": "cultural", "coords": [-0.153849, 50.836166]}, {"name": "Globalls", "text": "Globalls este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-0.102614, 50.81244]}, {"name": "The Level Playground", "text": "The Level Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.13377, 50.829847]}, {"name": "Roedean Cafe & Miniature Golf Club", "text": "Roedean Cafe & Miniature Golf Club este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-0.093683, 50.813625]}, {"name": "Brighton Palace Pier Arcade", "text": "Brighton Palace Pier Arcade este o sală de jocuri arcade în Brighton, perfectă pentru familiile care caută distracție.", "category": "family", "coords": [-0.136621, 50.818089]}, {"name": "Jungle Rumble Adventure Golf", "text": "Jungle Rumble Adventure Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-0.12076, 50.816617]}, {"name": "Pirate Golf", "text": "Pirate Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-0.133527, 50.818963]}, {"name": "Preston Park Playground", "text": "Preston Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.144843, 50.839368]}, {"name": "The Patch", "text": "The Patch este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.123411, 50.833956]}, {"name": "Jurassic Beach", "text": "Numele Jurassic Beach din Brighton reprezintă o bază de minigolf distractivă situată chiar pe coastă. Familiile și prietenii se pot distra aici cu o partidă de golf cu design de dinozauri, bucurându-se în același timp de aerul proaspăt al mării. Un sfat excelent de agrement în afara unei zile clasice de plajă.", "category": "family", "coords": [-0.177997, 50.825103]}, {"name": "Farm Green Playgorund", "text": "Farm Green Playgorund este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.100163, 50.840764]}, {"name": "East Brighton Playground", "text": "East Brighton Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.101539, 50.81898]}, {"name": "Dyke Road Park Playground", "text": "Dyke Road Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-0.152568, 50.835642]}, {"name": "Pirates Cave Adventure Golf (FunPlay Leisure)", "text": "Pirates Cave Adventure Golf (FunPlay Leisure) este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.", "category": "family", "coords": [-0.105989, 50.81246]}, {"name": "Brighton College Swimming Pool", "text": "Piscina de la Brighton College oferă un spațiu pentru sesiuni de înot în familie.", "category": "family", "coords": [-0.121531, 50.822525]}, {"name": "Paraquatics", "text": "Paraquatics din Brighton oferă familiilor ocazia de a descoperi specii acvatice.", "category": "family", "coords": [-0.190739, 50.833855]}, {"name": "St Lukes Swimming Pool", "text": "St Lukes Swimming Pool oferă facilități pentru ca familiile să se bucure de înot împreună.", "category": "family", "coords": [-0.122609, 50.82751]}, {"name": "Patcham High School Swimming Pool", "text": "Această piscină din Brighton este utilizată pentru activități de înot în comunitate și în familie.", "category": "family", "coords": [-0.143855, 50.861608]}], "en": [{"name": "Royal Pavilion", "text": "The Royal Pavilion is an exotic palace in the center of Brighton, built as a seaside retreat for King George IV.", "category": "historical", "confidence": "high", "coords": [-0.137717, 50.822364]}, {"name": "Brighton Palace Pier", "text": "Brighton Palace Pier is an iconic Victorian pier featuring amusement rides, arcades, and various food stalls by the sea.", "category": "recreational", "confidence": "high", "coords": [-0.137222, 50.8164]}, {"name": "The Lanes", "text": "The Lanes is a historic area of Brighton famous for its narrow alleyways, independent shops, and antique stores.", "category": "historical", "confidence": "high", "coords": [-0.14, 50.821]}, {"name": "Brighton i360", "text": "The Brighton i360 is a 162-meter observation tower on the seafront, offering panoramic views of the city and the sea.", "category": "recreational", "confidence": "high", "coords": [-0.1509, 50.82135]}, {"name": "Brighton Dome", "text": "The Brighton Dome is a premier arts and culture venue located in the former royal stables of the palace complex.", "category": "cultural", "confidence": "high", "coords": [-0.1384, 50.8234]}, {"name": "Brighton Museum & Art Gallery", "text": "This museum in the Royal Pavilion Garden houses important collections of art, design, and local history.", "category": "museum", "confidence": "high", "coords": [-0.138041, 50.8237]}, {"name": "Sea Life Brighton", "text": "Opened in 1872, Sea Life Brighton is the world's oldest operating aquarium, featuring stunning Victorian architecture.", "category": "recreational", "confidence": "high", "coords": [-0.135154, 50.819537]}, {"name": "Brighton Marina", "text": "Brighton Marina is one of Europe's largest man-made marinas, offering numerous shops, cinemas, and restaurants.", "category": "recreational", "confidence": "high", "coords": [-0.109782, 50.81078]}, {"name": "North Laine", "text": "The North Laine district is a vibrant hub of bohemian culture with over 400 independent shops, cafes, and pubs.", "category": "recreational", "confidence": "high", "coords": [-0.139167, 50.8264]}, {"name": "Brighton Beach", "text": "Brighton's famous pebble beach shapes the image of the southern English coast over a stretch of several kilometers. Life pulses here with numerous opportunities for water sports, recreation, and classic British seaside fun. Deckchairs and the typical sea breeze promise an unforgettable stay.", "category": "natural", "confidence": "high", "coords": [-0.138017, 50.818973]}, {"name": "St. Nicholas Church", "text": "St. Nicholas Church is the oldest building in Brighton, dating back to the 14th century with a rich Christian tradition.", "category": "religious", "confidence": "high", "coords": [-0.144845, 50.825376]}, {"name": "Preston Manor", "text": "Preston Manor is a Georgian-era manor house that provides a glimpse into the life of the upper class in the early 20th century.", "category": "historical", "confidence": "high", "coords": [-0.149976, 50.8425]}, {"name": "Brighton Fishing Museum", "text": "This museum on the seafront documents the city's rich fishing history with historic boats and photography.", "category": "museum", "confidence": "high", "coords": [-0.144496, 50.8204]}, {"name": "Volk's Electric Railway", "text": "Opened in 1883, this is the world's oldest operating electric railway, running along the Brighton seafront.", "category": "recreational", "confidence": "high", "coords": [-0.1291, 50.8182]}, {"name": "Booth Museum of Natural History", "text": "The Booth Museum houses a fascinating collection of birds, butterflies, fossils, and skeletons in a Victorian setting.", "category": "museum", "confidence": "high", "coords": [-0.15267, 50.837254]}, {"name": "Duke of York's Picturehouse", "text": "This cinema opened in 1910 is one of the oldest operating cinemas in the UK, showcasing a mix of films.", "category": "cultural", "confidence": "high", "coords": [-0.138415, 50.833916]}, {"name": "Brighton Toy and Model Museum", "text": "Located under Brighton station, this museum showcases a huge collection of historic toys and model trains.", "category": "museum", "confidence": "high", "coords": [-0.140833, 50.8286]}, {"name": "Jubilee Library", "text": "The Jubilee Library is a modern architectural landmark and a major cultural hub in the heart of Brighton.", "category": "civic", "confidence": "high", "coords": [-0.1383, 50.8252]}, {"name": "Brighton Clock Tower", "text": "The clock tower in the city center was built in 1888 to commemorate the Golden Jubilee of Queen Victoria.", "category": "historical", "confidence": "high", "coords": [-0.136472, 50.819108]}, {"name": "Devil's Dyke", "text": "Devil's Dyke is a deep V-shaped valley in the South Downs, offering spectacular views of the surrounding countryside.", "category": "natural", "confidence": "high", "coords": [-0.205, 50.885]}, {"name": "Brighton Town Hall", "text": "Brighton Town Hall, built in the 19th century, is an imposing building featuring neoclassical architecture.", "category": "civic", "confidence": "high", "coords": [-0.1402, 50.820823]}, {"name": "Theatre Royal Brighton", "text": "The Theatre Royal is one of the oldest and most prestigious theatres in the country, hosting major touring productions.", "category": "cultural", "confidence": "high", "coords": [-0.139913, 50.823414]}, {"name": "St Bartholomew's Church", "text": "This monumental church is known for its sheer size and impressive brick architecture in a Byzantine style.", "category": "religious", "confidence": "high", "coords": [-0.137056, 50.830876]}, {"name": "Regency Square", "text": "Regency Square is a historic square with elegant early 19th-century architecture and views across to the sea.", "category": "historical", "confidence": "high", "coords": [-0.1504, 50.8226]}, {"name": "Brighton West Pier", "text": "The skeletal remains of the West Pier, built in 1866, are a distinctive and melancholic landmark on the Brighton coast.", "category": "historical", "confidence": "high", "coords": [-0.151479, 50.822056]}, {"name": "Duke's Mound Naturist Beach", "text": "Duke's Mound Naturist Beach is a well-known nudist beach section in the southern English city of Brighton. Away from the main hustle and bustle, it offers a respectful and relaxed seaside atmosphere for naturist enthusiasts. Those who appreciate a natural tan and carefree bathing will find their spot here.", "category": "recreational", "coords": [-0.114532, 50.814728]}, {"name": "Fabrica", "text": "Fabrica is a contemporary art gallery housed in a former church in Brighton.", "category": "museum", "coords": [-0.142009, 50.822752]}, {"name": "Pepper Pot", "text": "Pepper Pot is an unusual historic monument located in Brighton.", "category": "historical", "coords": [-0.124812, 50.827287]}, {"name": "West Pier", "text": "West Pier is a famous ruined pier off the coast of Brighton.", "category": "historical", "coords": [-0.152003, 50.819001]}, {"name": "The Actors Theatre", "text": "The Actors Theatre is a notable theatre venue operating in Brighton.", "category": "cultural", "coords": [-0.136008, 50.822287]}, {"name": "St George's", "text": "St George's is a recognized place of worship located in Brighton.", "category": "religious", "coords": [-0.119277, 50.818177]}, {"name": "The Parish Church of Saint Paul", "text": "The Parish Church of Saint Paul is a prominent historic place of worship in Brighton.", "category": "religious", "coords": [-0.144721, 50.822057]}, {"name": "St Mary the Virgin", "text": "St Mary the Virgin is a well-known place of worship located in Brighton.", "category": "religious", "coords": [-0.129652, 50.820404]}, {"name": "St Andrews Church", "text": "St Andrews Church is a significant place of worship situated in Brighton.", "category": "religious", "coords": [-0.156799, 50.823494]}, {"name": "St John the Evangelist Church", "text": "St John the Evangelist Church is a recognizable place of worship situated in Brighton.", "category": "religious", "coords": [-0.150904, 50.844432]}, {"name": "St John the Baptist's", "text": "St John the Baptist's is a notable place of worship in Brighton.", "category": "religious", "coords": [-0.125997, 50.819478]}, {"name": "St Peter's Church", "text": "St Peter's Church is a major place of worship and a famous landmark in Brighton.", "category": "religious", "coords": [-0.135011, 50.828346]}, {"name": "St Mary Magdalene's", "text": "St Mary Magdalene's is a dedicated place of worship located in Brighton.", "category": "religious", "coords": [-0.149574, 50.825514]}, {"name": "St Martin's", "text": "St Martin's is a notable place of worship situated in Brighton.", "category": "religious", "coords": [-0.128644, 50.833325]}, {"name": "Greek Orthodox Church of the Holy Trinity", "text": "The Greek Orthodox Church of the Holy Trinity is a beautiful place of worship in Brighton.", "category": "religious", "coords": [-0.131443, 50.823939]}, {"name": "St Mark's", "text": "St Mark's is a local place of worship positioned in Brighton.", "category": "religious", "coords": [-0.111952, 50.817616]}, {"name": "Dorset Gardens Methodist Church", "text": "Dorset Gardens Methodist Church is an active place of worship serving the Brighton area.", "category": "religious", "coords": [-0.134065, 50.821221]}, {"name": "St Andrews", "text": "St Andrews is a place of worship situated in Brighton.", "category": "religious", "coords": [-0.174972, 50.828597]}, {"name": "St John the Baptist", "text": "St John the Baptist is a recognizable place of worship located in Brighton.", "category": "religious", "coords": [-0.164872, 50.826783]}, {"name": "Church of the Sacred Heart", "text": "Church of the Sacred Heart is a prominent place of worship in Brighton.", "category": "religious", "coords": [-0.170925, 50.829762]}, {"name": "Holland Road Baptist Church", "text": "Holland Road Baptist Church is a known place of worship located in Brighton.", "category": "religious", "coords": [-0.161329, 50.827076]}, {"name": "Brighton & Hove Reform Synagogue", "text": "Brighton & Hove Reform Synagogue is an important place of worship for the local Jewish community in Brighton.", "category": "religious", "coords": [-0.162656, 50.829586]}, {"name": "Hove Progressive Synagogue", "text": "Hove Progressive Synagogue is a place of worship associated with progressive Judaism in Brighton.", "category": "religious", "coords": [-0.158849, 50.827602]}, {"name": "St Patrick's Church", "text": "St Patrick's Church is a significant place of worship situated in Brighton.", "category": "religious", "coords": [-0.157611, 50.825937]}, {"name": "St Stephen's", "text": "St Stephen's is a historic place of worship located in Brighton.", "category": "religious", "coords": [-0.152983, 50.826648]}, {"name": "St Michael and All Angels", "text": "St Michael and All Angels is a renowned place of worship in Brighton.", "category": "religious", "coords": [-0.149806, 50.827493]}, {"name": "First Church of Christ Scientist", "text": "First Church of Christ Scientist is a place of worship located in Brighton.", "category": "religious", "coords": [-0.152147, 50.825485]}, {"name": "St Mary and St Abraam Church", "text": "St Mary and St Abraam Church is a Coptic Orthodox place of worship in Brighton.", "category": "religious", "coords": [-0.15586, 50.831088]}, {"name": "Church of the Annunciation", "text": "Church of the Annunciation is a local place of worship positioned in Brighton.", "category": "religious", "coords": [-0.129618, 50.829459]}, {"name": "Saint Joseph's Church", "text": "A prominent Roman Catholic church in Brighton known for its impressive architecture.", "category": "religious", "coords": [-0.128025, 50.832108]}, {"name": "Brighton National Spiritualist Church", "text": "A place of worship for the spiritualist community in Brighton.", "category": "religious", "coords": [-0.131336, 50.822298]}, {"name": "Church of the Good Shepherd", "text": "An Anglican church serving the local community in Brighton.", "category": "religious", "coords": [-0.157876, 50.841711]}, {"name": "St Mary's Catholic Church", "text": "A Roman Catholic parish church located in the Preston Park area of Brighton.", "category": "religious", "coords": [-0.145889, 50.844632]}, {"name": "Jubilee Clock Tower", "text": "A free-standing clock tower built in 1888 to commemorate the Golden Jubilee of Queen Victoria.", "category": "tower", "coords": [-0.143604, 50.8237]}, {"name": "London Road Viaduct", "text": "A large railway viaduct in Brighton, featuring 27 brick arches.", "category": "landmark", "coords": [-0.140882, 50.835386]}, {"name": "Old Steine Gardens", "text": "A central public garden in Brighton featuring memorials and fountains.", "category": "park", "coords": [-0.137411, 50.820684]}, {"name": "St Ann's Well Gardens", "text": "A popular wooded park in Hove known for its native and exotic trees.", "category": "park", "coords": [-0.155669, 50.829698]}, {"name": "Adelaide Crescent", "text": "A residential crescent and garden square in Hove, noted for its mid-19th-century architecture.", "category": "park", "coords": [-0.164145, 50.824469]}, {"name": "Park Street Gate", "text": "A historic gate structure located in Brighton.", "category": "historical", "coords": [-0.12678, 50.823204]}, {"name": "Queen Victoria", "text": "A statue in Brighton commemorating Queen Victoria.", "category": "historical", "coords": [-0.1366, 50.823772]}, {"name": "Peace Statue", "text": "A monument in Brighton symbolizing peace, located on the seafront.", "category": "historical", "coords": [-0.156927, 50.822509]}, {"name": "Egremont Gate", "text": "A historic gateway monument in Brighton.", "category": "historical", "coords": [-0.128278, 50.823615]}, {"name": "Brighton Open Air Theatre (B.O.A.T)", "text": "An outdoor performance space in Brighton hosting a variety of shows.", "category": "cultural", "coords": [-0.153849, 50.836166]}, {"name": "Globalls", "text": "Globalls is a miniature golf course in Brighton, providing a fun activity for families and friends.", "category": "family", "coords": [-0.102614, 50.81244]}, {"name": "The Level Playground", "text": "The Level Playground is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.13377, 50.829847]}, {"name": "Roedean Cafe & Miniature Golf Club", "text": "Roedean Cafe & Miniature Golf Club is a miniature golf course in Brighton, providing a fun activity for families and friends.", "category": "family", "coords": [-0.093683, 50.813625]}, {"name": "Brighton Palace Pier Arcade", "text": "Brighton Palace Pier Arcade is an amusement arcade in Brighton, perfect for families seeking exciting entertainment.", "category": "family", "coords": [-0.136621, 50.818089]}, {"name": "Jungle Rumble Adventure Golf", "text": "Jungle Rumble Adventure Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.", "category": "family", "coords": [-0.12076, 50.816617]}, {"name": "Pirate Golf", "text": "Pirate Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.", "category": "family", "coords": [-0.133527, 50.818963]}, {"name": "Preston Park Playground", "text": "Preston Park Playground is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.144843, 50.839368]}, {"name": "The Patch", "text": "The Patch is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.123411, 50.833956]}, {"name": "Jurassic Beach", "text": "The name Jurassic Beach in Brighton refers to an entertaining miniature golf course right on the coast. Families and friends can enjoy a round of dinosaur-themed golf here while breathing in the fresh sea air. It is a great leisure tip beyond the classic day of swimming.", "category": "family", "coords": [-0.177997, 50.825103]}, {"name": "Farm Green Playgorund", "text": "Farm Green Playgorund is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.100163, 50.840764]}, {"name": "East Brighton Playground", "text": "East Brighton Playground is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.101539, 50.81898]}, {"name": "Dyke Road Park Playground", "text": "Dyke Road Park Playground is a playground in Brighton, offering outdoor fun for families.", "category": "family", "coords": [-0.152568, 50.835642]}, {"name": "Pirates Cave Adventure Golf (FunPlay Leisure)", "text": "Pirates Cave Adventure Golf (FunPlay Leisure) is a miniature golf course in Brighton, providing a fun activity for families and friends.", "category": "family", "coords": [-0.105989, 50.81246]}, {"name": "Brighton College Swimming Pool", "text": "The Brighton College Swimming Pool provides a space for family swimming sessions.", "category": "family", "coords": [-0.121531, 50.822525]}, {"name": "Paraquatics", "text": "Paraquatics in Brighton offers an opportunity for families to discover aquatic species.", "category": "family", "coords": [-0.190739, 50.833855]}, {"name": "St Lukes Swimming Pool", "text": "St Lukes Swimming Pool in Brighton offers facilities for families to enjoy swimming together.", "category": "family", "coords": [-0.122609, 50.82751]}, {"name": "Patcham High School Swimming Pool", "text": "This swimming pool in Brighton is used for community and family swimming activities.", "category": "family", "coords": [-0.143855, 50.861608]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "Der Royal Pavilion ist ein exotischer Palast im Zentrum von Brighton, der als Rückzugsort für König Georg IV. erbaut wurde.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137717,
+                        50.822364
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier ist ein ikonischer viktorianischer Pier mit Fahrgeschäften, Spielhallen und verschiedenen Essensständen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137222,
+                        50.8164
+                  ]
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes ist ein historisches Viertel in Brighton, bekannt für seine engen Gassen, unabhängigen Geschäfte und Antiquitätenläden.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.14,
+                        50.821
+                  ]
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "Der Brighton i360 ist ein 162 Meter hoher Aussichtsturm an der Küste, der einen Panoramablick über die Stadt und das Meer bietet.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1509,
+                        50.82135
+                  ]
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "Das Brighton Dome ist ein erstklassiger Veranstaltungsort für Kunst und Kultur, der sich in den ehemaligen königlichen Ställen befindet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1384,
+                        50.8234
+                  ]
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "Dieses Museum im Royal Pavilion Garden beherbergt bedeutende Sammlungen von Kunst, Design und lokaler Geschichte.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138041,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Das 1872 eröffnete Sea Life Brighton ist das älteste noch in Betrieb befindliche Aquarium der Welt mit einer viktorianischen Architektur.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.135154,
+                        50.819537
+                  ]
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Die Brighton Marina ist einer der größten künstlichen Jachthäfen Europas und bietet zahlreiche Geschäfte, Kinos und Restaurants.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.109782,
+                        50.81078
+                  ]
+            },
+            {
+                  "name": "North Laine",
+                  "text": "Das Viertel North Laine ist ein lebendiges Zentrum für böhmische Kultur mit über 400 unabhängigen Geschäften, Cafés und Pubs.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139167,
+                        50.8264
+                  ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Der berühmte Kieselstrand von Brighton prägt das Bild der südenglischen Küste über mehrere Kilometer hinweg. Hier pulsiert das Leben mit zahlreichen Möglichkeiten für Wassersport, Erholung und klassisches britisches Strandvergnügen. Sonnenstühle und die typische Meeresbrise versprechen einen unvergesslichen Aufenthalt.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138017,
+                        50.818973
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "Die St. Nicholas Church ist das älteste Gebäude in Brighton und stammt aus dem 14. Jahrhundert mit einer reichen christlichen Tradition.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144845,
+                        50.825376
+                  ]
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "Preston Manor ist ein Herrenhaus aus der georgianischen Zeit, das einen Einblick in das Leben der Oberschicht im frühen 20. Jahrhundert gibt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.149976,
+                        50.8425
+                  ]
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "Dieses Museum am Strand dokumentiert die reiche Fischereigeschichte der Stadt mit historischen Booten und Fotografien.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144496,
+                        50.8204
+                  ]
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Eröffnet im Jahr 1883, ist dies die älteste noch in Betrieb befindliche elektrische Eisenbahn der Welt, die entlang der Küste fährt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1291,
+                        50.8182
+                  ]
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "Das Booth Museum beherbergt eine faszinierende Sammlung von Vögeln, Schmetterlingen, Fossilien und Skeletten in viktorianischem Stil.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.15267,
+                        50.837254
+                  ]
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Dieses 1910 eröffnete Kino ist eines der ältesten noch in Betrieb befindlichen Lichtspielhäuser in Großbritannien.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138415,
+                        50.833916
+                  ]
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "Das Museum unter dem Bahnhof Brighton zeigt eine riesige Sammlung von historischem Spielzeug und Modelleisenbahnen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.140833,
+                        50.8286
+                  ]
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "Die Jubilee Library ist ein modernes architektonisches Wahrzeichen und ein wichtiges kulturelles Zentrum im Herzen von Brighton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1383,
+                        50.8252
+                  ]
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "Der 1888 erbautet Uhrturm im Stadtzentrum wurde zum Gedenken an das Goldene Jubiläum von Königin Victoria errichtet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.136472,
+                        50.819108
+                  ]
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke ist ein tiefes V-förmiges Tal in den South Downs, das einen spektakulären Blick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.205,
+                        50.885
+                  ]
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "Das im 19. Jahrhundert erbautet Rathaus von Brighton ist ein beeindruckendes Gebäude mit klassizistischer Architektur.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1402,
+                        50.820823
+                  ]
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "Das Theatre Royal ist eines der ältesten und renommiertesten Theater des Landes und zeigt regelmäßig große Tourneeproduktionen.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139913,
+                        50.823414
+                  ]
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "Diese monumentale Kirche ist für ihre gewaltige Größe und ihre beeindruckende Backsteinarchitektur im byzantinischen Stil bekannt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137056,
+                        50.830876
+                  ]
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Der Regency Square ist ein historischer Platz mit eleganter Architektur aus dem frühen 19. Jahrhundert und Blick auf das Meer.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1504,
+                        50.8226
+                  ]
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Die Skelettreste des 1866 erbauten West Pier sind ein markantes und melancholisches Wahrzeichen an der Küste von Brighton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.151479,
+                        50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Der Duke's Mound Naturist Beach ist ein bekannter FKK-Strandabschnitt in der südenglischen Stadt Brighton. Abseits des Haupttrubels bietet er Freunden der Freikörperkultur eine respektvolle und entspannte Atmosphäre am Meer. Wer natürliche Bräune und unbeschwertes Baden schätzt, findet hier seinen Platz.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica ist eine Galerie für zeitgenössische Kunst in einer ehemaligen Kirche in Brighton.",
+                  "category": "museum",
+                  "coords": [
+                        -0.142009,
+                        50.822752
+                  ]
+            },
+            {
+                  "name": "Pepper Pot",
+                  "text": "Der Pepper Pot ist ein ungewöhnliches historisches Baudenkmal in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.124812,
+                        50.827287
+                  ]
+            },
+            {
+                  "name": "West Pier",
+                  "text": "Der West Pier ist eine bekannte, verfallene Seebrücke vor der Küste von Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.152003,
+                        50.819001
+                  ]
+            },
+            {
+                  "name": "The Actors Theatre",
+                  "text": "Das Actors Theatre ist ein bemerkenswerter Theaterort in Brighton.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.136008,
+                        50.822287
+                  ]
+            },
+            {
+                  "name": "St George's",
+                  "text": "St George's ist ein anerkanntes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.119277,
+                        50.818177
+                  ]
+            },
+            {
+                  "name": "The Parish Church of Saint Paul",
+                  "text": "Die Parish Church of Saint Paul ist ein markantes historisches Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.144721,
+                        50.822057
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "St Mary the Virgin ist ein bekanntes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129652,
+                        50.820404
+                  ]
+            },
+            {
+                  "name": "St Andrews Church",
+                  "text": "St Andrews Church ist ein bedeutendes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.156799,
+                        50.823494
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist Church",
+                  "text": "Die St John the Evangelist Church ist ein bekanntes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.150904,
+                        50.844432
+                  ]
+            },
+            {
+                  "name": "St John the Baptist's",
+                  "text": "St John the Baptist's ist ein bemerkenswertes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.125997,
+                        50.819478
+                  ]
+            },
+            {
+                  "name": "St Peter's Church",
+                  "text": "Die St Peter's Church ist ein großes Gotteshaus und ein berühmtes Wahrzeichen in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.135011,
+                        50.828346
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene's",
+                  "text": "St Mary Magdalene's ist ein Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149574,
+                        50.825514
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's ist ein bemerkenswertes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128644,
+                        50.833325
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church of the Holy Trinity",
+                  "text": "Die Greek Orthodox Church of the Holy Trinity ist ein wunderschönes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131443,
+                        50.823939
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's ist ein lokales Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.111952,
+                        50.817616
+                  ]
+            },
+            {
+                  "name": "Dorset Gardens Methodist Church",
+                  "text": "Die Dorset Gardens Methodist Church ist ein aktives Gotteshaus in der Region Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.134065,
+                        50.821221
+                  ]
+            },
+            {
+                  "name": "St Andrews",
+                  "text": "St Andrews ist ein Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.174972,
+                        50.828597
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "St John the Baptist ist ein bekanntes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164872,
+                        50.826783
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Die Church of the Sacred Heart ist ein bedeutendes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.170925,
+                        50.829762
+                  ]
+            },
+            {
+                  "name": "Holland Road Baptist Church",
+                  "text": "Die Holland Road Baptist Church ist ein bekanntes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.161329,
+                        50.827076
+                  ]
+            },
+            {
+                  "name": "Brighton & Hove Reform Synagogue",
+                  "text": "Die Brighton & Hove Reform Synagogue ist ein wichtiges Gotteshaus für die jüdische Gemeinde in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.162656,
+                        50.829586
+                  ]
+            },
+            {
+                  "name": "Hove Progressive Synagogue",
+                  "text": "Die Hove Progressive Synagogue ist ein Gotteshaus des progressiven Judentums in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.158849,
+                        50.827602
+                  ]
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "Die St Patrick's Church ist ein bedeutendes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157611,
+                        50.825937
+                  ]
+            },
+            {
+                  "name": "St Stephen's",
+                  "text": "St Stephen's ist ein historisches Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152983,
+                        50.826648
+                  ]
+            },
+            {
+                  "name": "St Michael and All Angels",
+                  "text": "St Michael and All Angels ist ein renommiertes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149806,
+                        50.827493
+                  ]
+            },
+            {
+                  "name": "First Church of Christ Scientist",
+                  "text": "Die First Church of Christ Scientist ist ein Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152147,
+                        50.825485
+                  ]
+            },
+            {
+                  "name": "St Mary and St Abraam Church",
+                  "text": "Die St Mary and St Abraam Church ist ein koptisch-orthodoxes Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.15586,
+                        50.831088
+                  ]
+            },
+            {
+                  "name": "Church of the Annunciation",
+                  "text": "Die Church of the Annunciation ist ein lokales Gotteshaus in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129618,
+                        50.829459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Eine markante römisch-katholische Kirche in Brighton, die für ihre beeindruckende Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128025,
+                        50.832108
+                  ]
+            },
+            {
+                  "name": "Brighton National Spiritualist Church",
+                  "text": "Ein Gotteshaus für die spiritualistische Gemeinde in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131336,
+                        50.822298
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "Eine anglikanische Kirche, die der lokalen Gemeinde in Brighton dient.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157876,
+                        50.841711
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "Eine römisch-katholische Pfarrkirche im Viertel Preston Park in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.145889,
+                        50.844632
+                  ]
+            },
+            {
+                  "name": "Jubilee Clock Tower",
+                  "text": "Ein freistehender Uhrturm, der 1888 zum goldenen Thronjubiläum von Königin Victoria errichtet wurde.",
+                  "category": "tower",
+                  "coords": [
+                        -0.143604,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "London Road Viaduct",
+                  "text": "Ein großer Eisenbahnviadukt in Brighton mit 27 Backsteinbögen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.140882,
+                        50.835386
+                  ]
+            },
+            {
+                  "name": "Old Steine Gardens",
+                  "text": "Ein zentraler öffentlicher Garten in Brighton mit Denkmälern und Brunnen.",
+                  "category": "park",
+                  "coords": [
+                        -0.137411,
+                        50.820684
+                  ]
+            },
+            {
+                  "name": "St Ann's Well Gardens",
+                  "text": "Ein beliebter bewaldeter Park in Hove, bekannt für seine einheimischen und exotischen Bäume.",
+                  "category": "park",
+                  "coords": [
+                        -0.155669,
+                        50.829698
+                  ]
+            },
+            {
+                  "name": "Adelaide Crescent",
+                  "text": "Ein halbkreisförmiger Wohnkomplex und Park in Hove, bekannt für seine Architektur aus der Mitte des 19. Jahrhunderts.",
+                  "category": "park",
+                  "coords": [
+                        -0.164145,
+                        50.824469
+                  ]
+            },
+            {
+                  "name": "Park Street Gate",
+                  "text": "Ein historisches Torbauwerk in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.12678,
+                        50.823204
+                  ]
+            },
+            {
+                  "name": "Queen Victoria",
+                  "text": "Eine Statue in Brighton zu Ehren von Königin Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        -0.1366,
+                        50.823772
+                  ]
+            },
+            {
+                  "name": "Peace Statue",
+                  "text": "Ein Friedensdenkmal an der Strandpromenade von Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.156927,
+                        50.822509
+                  ]
+            },
+            {
+                  "name": "Egremont Gate",
+                  "text": "Ein historisches Tordenkmal in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.128278,
+                        50.823615
+                  ]
+            },
+            {
+                  "name": "Brighton Open Air Theatre (B.O.A.T)",
+                  "text": "Eine Freilichtbühne in Brighton, auf der verschiedene Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.153849,
+                        50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade ist eine Spielhalle in Brighton, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "Der Name Jurassic Beach steht in Brighton für eine unterhaltsame Minigolfanlage direkt an der Küste. Familien und Freunde können sich hier bei einer Partie Golf im Dinodesign vergnügen und gleichzeitig die frische Meeresluft genießen. Ein toller Freizeittipp abseits des klassischen Badetages.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground ist ein Spielplatz in Brighton, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) ist eine Minigolfanlage in Brighton, die eine lustige Aktivität für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
+            },
+            {
+                  "name": "Brighton College Swimming Pool",
+                  "text": "Das Schwimmbad des Brighton College bietet Raum für Familienschwimmstunden.",
+                  "category": "family",
+                  "coords": [
+                        -0.121531,
+                        50.822525
+                  ]
+            },
+            {
+                  "name": "Paraquatics",
+                  "text": "Paraquatics in Brighton bietet Familien die Möglichkeit, aquatische Arten zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        -0.190739,
+                        50.833855
+                  ]
+            },
+            {
+                  "name": "St Lukes Swimming Pool",
+                  "text": "St Lukes Swimming Pool bietet Einrichtungen, in denen Familien gemeinsam schwimmen können.",
+                  "category": "family",
+                  "coords": [
+                        -0.122609,
+                        50.82751
+                  ]
+            },
+            {
+                  "name": "Patcham High School Swimming Pool",
+                  "text": "Dieses Schwimmbad in Brighton wird für gemeinschaftliche und familiäre Schwimmaktivitäten genutzt.",
+                  "category": "family",
+                  "coords": [
+                        -0.143855,
+                        50.861608
+                  ]
+            },
+            {
+                  "name": "Whitehawk Hill Local Nature Reserve",
+                  "text": "Ein Naturschutzgebiet auf einem Hügel mit Kalkmagerrasen und Panoramablick auf Brighton.",
+                  "category": "natural",
+                  "coords": [
+                        -0.10941,
+                        50.829757
+                  ]
+            },
+            {
+                  "name": "Withdean Woods",
+                  "text": "Ein friedliches Waldgebiet, das einen natürlichen Lebensraum für die heimische Tierwelt in der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.158737,
+                        50.854785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "A Royal Pavilion egy egzotikus palota Brighton központjában, amely IV. György király tengerparti rezidenciájaként épült.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137717,
+                        50.822364
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "A Brighton Palace Pier egy ikonikus viktoriánus móló vidámparki játékokkal, játéktermekkel és különféle ételstandokkal.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137222,
+                        50.8164
+                  ]
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "A The Lanes Brighton történelmi negyede, amely szűk sikátorairól, független üzleteiről és régiségkereskedéseiről híres.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.14,
+                        50.821
+                  ]
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "A Brighton i360 egy 162 méter magas kilátótorony a tengerparton, amely panorámás kilátást nyújt a városra és a tengerre.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1509,
+                        50.82135
+                  ]
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "A Brighton Dome egy első osztályú művészeti és kulturális helyszín, amely az egykori királyi istállók épületében található.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1384,
+                        50.8234
+                  ]
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "A Royal Pavilion kertjében található múzeum jelentős művészeti, design és helytörténeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138041,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Az 1872-ben megnyitott Sea Life Brighton a világ legrégebbi, folyamatosan működő akváriuma, lenyűgöző viktoriánus stílusban.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.135154,
+                        50.819537
+                  ]
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "A Brighton Marina Európa egyik legnagyobb mesterséges jachtkikötője, számos üzlettel, mozival és étteremmel rendelkezik.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.109782,
+                        50.81078
+                  ]
+            },
+            {
+                  "name": "North Laine",
+                  "text": "A North Laine negyed a bohém kultúra vibráló központja, több mint 400 független üzlettel, kávézóval és pubbal.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139167,
+                        50.8264
+                  ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton híres kavicsos strandja több kilométeren át határozza meg a dél-angol partvidék arculatát. Itt lüktet az élet, számtalan lehetőséggel a vízi sportokra, a kikapcsolódásra és a klasszikus brit tengerparti szórakozásra. A napozóágyak és a jellegzetes tengeri szellő felejthetetlen tartózkodást ígérnek.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138017,
+                        50.818973
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A Szent Miklós-templom Brighton legrégebbi épülete, amely a 14. századból származik, és gazdag keresztény hagyományokkal bír.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144845,
+                        50.825376
+                  ]
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "A Preston Manor egy georgiánus kori udvarház, amely betekintést nyújt a 20. század eleji felsőosztály életébe.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.149976,
+                        50.8425
+                  ]
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "A tengerparton található múzeum a város gazdag halászati múltját mutatja be történelmi hajókkal és fényképekkel.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144496,
+                        50.8204
+                  ]
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Az 1883-ban megnyitott vasút a világ legrégebbi, ma is működő elektromos vasútja, amely a tengerpart mentén közlekedik.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1291,
+                        50.8182
+                  ]
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "A Booth Múzeum madarak, pillangók, fosszíliák és csontvázak lenyűgöző gyűjteményét őrzi viktoriánus környezetben.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.15267,
+                        50.837254
+                  ]
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Az 1910-ben megnyitott mozi az Egyesült Királyság egyik legrégebbi, ma is üzemelő filmszínháza.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138415,
+                        50.833916
+                  ]
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "A brightoni vasútállomás alatt található múzeum történelmi játékok és modellvasutak hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.140833,
+                        50.8286
+                  ]
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "A Jubilee Könyvtár modern építészeti remekmű és fontos kulturális központ Brighton szívében.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1383,
+                        50.8252
+                  ]
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "A városközpontban álló óratornyot 1888-ban építették Viktória királynő aranyjubileumának emlékére.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.136472,
+                        50.819108
+                  ]
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "A Devil's Dyke egy mély, V alakú völgy a South Downs dombjai között, ahonnan látványos kilátás nyílik a környező vidékre.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.205,
+                        50.885
+                  ]
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "A 19. században épült brightoni városháza lenyűgöző épület, amely klasszicista építészeti stílusával emelkedik ki.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1402,
+                        50.820823
+                  ]
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "A Theatre Royal az ország egyik legrégebbi és legrangosabb színháza, amely rendszeresen ad otthont nagy turnéprodukcióknak.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139913,
+                        50.823414
+                  ]
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "Ez a monumentális templom hatalmas méretéről és lenyűgöző, bizánci stílusú téglaépítészetéről ismert.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137056,
+                        50.830876
+                  ]
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "A Regency Square egy történelmi tér elegáns, 19. század eleji építészettel és közvetlen kilátással a tengerre.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1504,
+                        50.8226
+                  ]
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Az 1866-ban épült West Pier csontvázszerű maradványai Brighton tengerpartjának jellegzetes és melankolikus szimbólumai.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.151479,
+                        50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "A Duke's Mound Naturist Beach egy jól ismert naturista strandszakasz a dél-angliai Brighton városában. A fő nyüzsgéstől távol tiszteletteljes és nyugodt tengerparti hangulatot kínál a szabadság kedvelőinek. Aki értékeli a természetes barnulást és a gondtalan fürdőzést, itt megtalálja a számítását.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "A Fabrica egy egykori templomban működő kortárs művészeti galéria Brightonban.",
+                  "category": "museum",
+                  "coords": [
+                        -0.142009,
+                        50.822752
+                  ]
+            },
+            {
+                  "name": "Pepper Pot",
+                  "text": "A Pepper Pot egy szokatlan történelmi emlékmű Brightonban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.124812,
+                        50.827287
+                  ]
+            },
+            {
+                  "name": "West Pier",
+                  "text": "A West Pier egy híres romos móló Brighton partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        -0.152003,
+                        50.819001
+                  ]
+            },
+            {
+                  "name": "The Actors Theatre",
+                  "text": "A The Actors Theatre egy figyelemre méltó színházi helyszín Brightonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.136008,
+                        50.822287
+                  ]
+            },
+            {
+                  "name": "St George's",
+                  "text": "A St George's egy elismert istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.119277,
+                        50.818177
+                  ]
+            },
+            {
+                  "name": "The Parish Church of Saint Paul",
+                  "text": "A Szent Pál plébániatemplom egy kiemelkedő történelmi istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.144721,
+                        50.822057
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "A St Mary the Virgin egy jól ismert istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129652,
+                        50.820404
+                  ]
+            },
+            {
+                  "name": "St Andrews Church",
+                  "text": "A St Andrews templom egy jelentős istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.156799,
+                        50.823494
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist Church",
+                  "text": "A St John the Evangelist Church egy ismert istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.150904,
+                        50.844432
+                  ]
+            },
+            {
+                  "name": "St John the Baptist's",
+                  "text": "A St John the Baptist's egy jelentős istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.125997,
+                        50.819478
+                  ]
+            },
+            {
+                  "name": "St Peter's Church",
+                  "text": "A St Peter's templom egy jelentős istentiszteleti hely és egy híres nevezetesség Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.135011,
+                        50.828346
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene's",
+                  "text": "A St Mary Magdalene's egy istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149574,
+                        50.825514
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "A St Martin's egy figyelemre méltó istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128644,
+                        50.833325
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church of the Holy Trinity",
+                  "text": "A Szentháromság Görög Ortodox Templom egy gyönyörű istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131443,
+                        50.823939
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "A St Mark's egy helyi istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.111952,
+                        50.817616
+                  ]
+            },
+            {
+                  "name": "Dorset Gardens Methodist Church",
+                  "text": "A Dorset Gardens Metodista Templom egy aktív istentiszteleti hely Brighton területén.",
+                  "category": "religious",
+                  "coords": [
+                        -0.134065,
+                        50.821221
+                  ]
+            },
+            {
+                  "name": "St Andrews",
+                  "text": "A St Andrews egy istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.174972,
+                        50.828597
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "A St John the Baptist egy ismert istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164872,
+                        50.826783
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "A Szent Szív Templom egy kiemelkedő istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.170925,
+                        50.829762
+                  ]
+            },
+            {
+                  "name": "Holland Road Baptist Church",
+                  "text": "A Holland Road Baptist Church egy ismert istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.161329,
+                        50.827076
+                  ]
+            },
+            {
+                  "name": "Brighton & Hove Reform Synagogue",
+                  "text": "A Brighton & Hove Reform Zsinagóga a helyi zsidó közösség fontos istentiszteleti helye Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.162656,
+                        50.829586
+                  ]
+            },
+            {
+                  "name": "Hove Progressive Synagogue",
+                  "text": "A Hove Progresszív Zsinagóga a progresszív judaizmushoz kapcsolódó istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.158849,
+                        50.827602
+                  ]
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "A St Patrick's Church egy jelentős istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157611,
+                        50.825937
+                  ]
+            },
+            {
+                  "name": "St Stephen's",
+                  "text": "A St Stephen's egy történelmi istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152983,
+                        50.826648
+                  ]
+            },
+            {
+                  "name": "St Michael and All Angels",
+                  "text": "A St Michael and All Angels egy híres istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149806,
+                        50.827493
+                  ]
+            },
+            {
+                  "name": "First Church of Christ Scientist",
+                  "text": "A First Church of Christ Scientist egy istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152147,
+                        50.825485
+                  ]
+            },
+            {
+                  "name": "St Mary and St Abraam Church",
+                  "text": "A St Mary and St Abraam Church egy kopt ortodox istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.15586,
+                        50.831088
+                  ]
+            },
+            {
+                  "name": "Church of the Annunciation",
+                  "text": "A Church of the Annunciation egy helyi istentiszteleti hely Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129618,
+                        50.829459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Jelentős római katolikus templom Brightonban, amely lenyűgöző építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128025,
+                        50.832108
+                  ]
+            },
+            {
+                  "name": "Brighton National Spiritualist Church",
+                  "text": "Spirituális közösségi templom Brightonban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131336,
+                        50.822298
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "Anglikán templom Brighton helyi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157876,
+                        50.841711
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "Római katolikus plébániatemplom Brighton Preston Park negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -0.145889,
+                        50.844632
+                  ]
+            },
+            {
+                  "name": "Jubilee Clock Tower",
+                  "text": "1888-ban épült óratorony Viktória királynő aranyjubileumának emlékére.",
+                  "category": "tower",
+                  "coords": [
+                        -0.143604,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "London Road Viaduct",
+                  "text": "Brighton nagy vasúti viaduktja, amely 27 téglaívből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.140882,
+                        50.835386
+                  ]
+            },
+            {
+                  "name": "Old Steine Gardens",
+                  "text": "Brighton központi közparkja emlékművekkel és szökőkutakkal.",
+                  "category": "park",
+                  "coords": [
+                        -0.137411,
+                        50.820684
+                  ]
+            },
+            {
+                  "name": "St Ann's Well Gardens",
+                  "text": "Népszerű park Hove-ban, amely őshonos és egzotikus fáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -0.155669,
+                        50.829698
+                  ]
+            },
+            {
+                  "name": "Adelaide Crescent",
+                  "text": "Lakóövezeti félkörív és kert Hove-ban, 19. századi építészetéről nevezetes.",
+                  "category": "park",
+                  "coords": [
+                        -0.164145,
+                        50.824469
+                  ]
+            },
+            {
+                  "name": "Park Street Gate",
+                  "text": "Történelmi kapuépítmény Brightonban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.12678,
+                        50.823204
+                  ]
+            },
+            {
+                  "name": "Queen Victoria",
+                  "text": "Viktória királynő emlékszobra Brightonban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.1366,
+                        50.823772
+                  ]
+            },
+            {
+                  "name": "Peace Statue",
+                  "text": "A békét jelképező emlékmű Brighton tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        -0.156927,
+                        50.822509
+                  ]
+            },
+            {
+                  "name": "Egremont Gate",
+                  "text": "Történelmi kapuemlékmű Brightonban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.128278,
+                        50.823615
+                  ]
+            },
+            {
+                  "name": "Brighton Open Air Theatre (B.O.A.T)",
+                  "text": "Szabadtéri színház Brightonban, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.153849,
+                        50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "A(z) Globalls egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "A(z) The Level Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "A(z) Roedean Cafe & Miniature Golf Club egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "A(z) Brighton Palace Pier Arcade egy játékterem Brighton területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "A(z) Jungle Rumble Adventure Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "A(z) Pirate Golf egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "A(z) Preston Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "A(z) The Patch egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "A Jurassic Beach név Brightonban egy szórakoztató minigolfpályát takar közvetlenül a tengerparton. Családok és barátok élvezhetik itt a dinoszauruszos dizájnú golfpartit, miközben a friss tengeri levegőt is beszívhatják. Remek szabadidős tipp a hagyományos fürdőzésen túl.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "A(z) Farm Green Playgorund egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "A(z) East Brighton Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "A(z) Dyke Road Park Playground egy játszótér Brighton területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "A(z) Pirates Cave Adventure Golf (FunPlay Leisure) egy minigolfpálya Brighton területén, amely szórakoztató tevékenységet nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
+            },
+            {
+                  "name": "Brighton College Swimming Pool",
+                  "text": "A Brighton College úszómedencéje helyet biztosít családi úszásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        -0.121531,
+                        50.822525
+                  ]
+            },
+            {
+                  "name": "Paraquatics",
+                  "text": "A brightoni Paraquatics lehetőséget kínál a családoknak vízi élőlények felfedezésére.",
+                  "category": "family",
+                  "coords": [
+                        -0.190739,
+                        50.833855
+                  ]
+            },
+            {
+                  "name": "St Lukes Swimming Pool",
+                  "text": "A brightoni St Lukes Swimming Pool lehetőséget nyújt a családoknak a közös úszásra.",
+                  "category": "family",
+                  "coords": [
+                        -0.122609,
+                        50.82751
+                  ]
+            },
+            {
+                  "name": "Patcham High School Swimming Pool",
+                  "text": "Ezt a brightoni úszómedencét közösségi és családi úszásra használják.",
+                  "category": "family",
+                  "coords": [
+                        -0.143855,
+                        50.861608
+                  ]
+            },
+            {
+                  "name": "Whitehawk Hill Local Nature Reserve",
+                  "text": "Egy dombtetőn lévő természetvédelmi terület mészkőgyep élőhelyekkel és panorámás kilátással Brightonra.",
+                  "category": "natural",
+                  "coords": [
+                        -0.10941,
+                        50.829757
+                  ]
+            },
+            {
+                  "name": "Withdean Woods",
+                  "text": "Egy békés erdős terület, amely természetes élőhelyet biztosít a helyi vadvilágnak a városban.",
+                  "category": "natural",
+                  "coords": [
+                        -0.158737,
+                        50.854785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pavilionul Regal",
+                  "text": "Pavilionul Regal este un palat exotic din centrul orașului Brighton, construit ca reședință de vară pentru regele George al IV-lea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137717,
+                        50.822364
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier este un debarcader victorian iconic, cu atracții de divertisment, săli de jocuri și standuri cu mâncare.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137222,
+                        50.8164
+                  ]
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes este o zonă istorică din Brighton, faimoasă pentru aleile sale înguste, magazinele independente și antichități.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.14,
+                        50.821
+                  ]
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "Brighton i360 este un turn de observație de 162 de metri pe coastă, oferind o vedere panoramică asupra orașului și mării.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1509,
+                        50.82135
+                  ]
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "Brighton Dome este o locație de prim rang pentru artă și cultură, situată în fostele grajduri regale ale palatului.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1384,
+                        50.8234
+                  ]
+            },
+            {
+                  "name": "Muzeul și Galeria de Artă din Brighton",
+                  "text": "Acest muzeu din grădina Pavilionului Regal găzduiește colecții importante de artă, design și istorie locală.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138041,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Deschis în 1872, Sea Life Brighton este cel mai vechi acvariu din lume aflat încă în funcțiune, având o arhitectură victoriană.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.135154,
+                        50.819537
+                  ]
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Brighton Marina este unul dintre cele mai mari porturi artificiale din Europa, oferind numeroase magazine, cinematografe și restaurante.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.109782,
+                        50.81078
+                  ]
+            },
+            {
+                  "name": "North Laine",
+                  "text": "Cartierul North Laine este un centru vibrant al culturii boeme, cu peste 400 de magazine independente, cafenele și pub-uri.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139167,
+                        50.8264
+                  ]
+            },
+            {
+                  "name": "Plaja Brighton",
+                  "text": "Faimoasa plajă cu pietricele din Brighton definește imaginea coastei din sudul Angliei pe o distanță de câțiva kilometri. Aici viața pulsează cu numeroase oportunități pentru sporturi nautice, recreere și distracție clasică britanică la plajă. Șezlongurile și briza tipică mării promit un sejur de neuitat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138017,
+                        50.818973
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "Biserica Sf. Nicolae este cea mai veche clădire din Brighton, datând din secolul al XIV-lea, cu o bogată tradiție creștină.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144845,
+                        50.825376
+                  ]
+            },
+            {
+                  "name": "Conacul Preston",
+                  "text": "Conacul Preston este o reședință din epoca georgiană care oferă o privire asupra vieții clasei superioare la începutul secolului XX.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.149976,
+                        50.8425
+                  ]
+            },
+            {
+                  "name": "Muzeul Pescuitului din Brighton",
+                  "text": "Acest muzeu situat pe plajă documentează istoria bogată a pescuitului din oraș prin bărci istorice și fotografii.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144496,
+                        50.8204
+                  ]
+            },
+            {
+                  "name": "Calea ferată electrică a lui Volk",
+                  "text": "Deschisă în 1883, aceasta este cea mai veche cale ferată electrică din lume aflată încă în funcțiune, circulând de-a lungul coastei.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1291,
+                        50.8182
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie Naturală Booth",
+                  "text": "Muzeul Booth găzduiește o colecție fascinantă de păsări, fluturi, fosile și schelete într-un cadru victorian.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.15267,
+                        50.837254
+                  ]
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "Acest cinematograf deschis în 1910 este unul dintre cele mai vechi cinematografe din Marea Britanie încă în funcțiune.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138415,
+                        50.833916
+                  ]
+            },
+            {
+                  "name": "Muzeul Jucăriilor și Modelelor din Brighton",
+                  "text": "Muzeul aflat sub gara din Brighton prezintă o colecție uriașă de jucării istorice și trenulețe electrice.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.140833,
+                        50.8286
+                  ]
+            },
+            {
+                  "name": "Biblioteca Jubilee",
+                  "text": "Biblioteca Jubilee este un reper arhitectural modern și un centru cultural important în inima orașului Brighton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1383,
+                        50.8252
+                  ]
+            },
+            {
+                  "name": "Turnul cu Ceas din Brighton",
+                  "text": "Turnul cu ceas din centrul orașului a fost construit în 1888 pentru a comemora Jubileul de Aur al Reginei Victoria.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.136472,
+                        50.819108
+                  ]
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke este o vale adâncă în formă de V în South Downs, care oferă vederi spectaculoase asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.205,
+                        50.885
+                  ]
+            },
+            {
+                  "name": "Primăria din Brighton",
+                  "text": "Primăria din Brighton, construită în secolul al XIX-lea, este o clădire impresionantă cu o arhitectură neoclasică.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1402,
+                        50.820823
+                  ]
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "Theatre Royal este unul dintre cele mai vechi și prestigioase teatre din țară, găzduind regulat mari producții itinerante.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139913,
+                        50.823414
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Bartolomeu",
+                  "text": "Această biserică monumentală este cunoscută pentru dimensiunile sale uriașe și arhitectura impresionantă din cărămidă în stil bizantin.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137056,
+                        50.830876
+                  ]
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Piața Regency este o piață istorică cu o arhitectură elegantă de la începutul secolului al XIX-lea și vedere spre mare.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1504,
+                        50.8226
+                  ]
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "Rămășițele scheletice ale West Pier, construit în 1866, sunt un reper distinctiv și melancolic pe coasta din Brighton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.151479,
+                        50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Duke's Mound Naturist Beach este o secțiune de plajă nudistă bine-cunoscută din orașul Brighton, în sudul Angliei. Departe de agitația principală, oferă o atmosferă respectuoasă și relaxată la malul mării pentru iubitorii naturismului. Cei care apreciază un bronz natural și o baie fără griji își vor găsi locul aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica este o galerie de artă contemporană găzduită într-o fostă biserică din Brighton.",
+                  "category": "museum",
+                  "coords": [
+                        -0.142009,
+                        50.822752
+                  ]
+            },
+            {
+                  "name": "Pepper Pot",
+                  "text": "Pepper Pot este un monument istoric neobișnuit situat în Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.124812,
+                        50.827287
+                  ]
+            },
+            {
+                  "name": "West Pier",
+                  "text": "West Pier este un renumit debarcader în ruină aflat pe coasta orașului Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.152003,
+                        50.819001
+                  ]
+            },
+            {
+                  "name": "The Actors Theatre",
+                  "text": "The Actors Theatre este un important spațiu teatral din Brighton.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.136008,
+                        50.822287
+                  ]
+            },
+            {
+                  "name": "St George's",
+                  "text": "St George's este un lăcaș de cult recunoscut din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.119277,
+                        50.818177
+                  ]
+            },
+            {
+                  "name": "The Parish Church of Saint Paul",
+                  "text": "Biserica parohială Sfântul Paul este un lăcaș de cult istoric proeminent din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.144721,
+                        50.822057
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "Sfânta Maria Fecioara este un lăcaș de cult binecunoscut situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129652,
+                        50.820404
+                  ]
+            },
+            {
+                  "name": "St Andrews Church",
+                  "text": "Biserica Sf. Andrei este un lăcaș de cult important situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.156799,
+                        50.823494
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist Church",
+                  "text": "Biserica Sf. Ioan Evanghelistul este un lăcaș de cult ușor de recunoscut din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.150904,
+                        50.844432
+                  ]
+            },
+            {
+                  "name": "St John the Baptist's",
+                  "text": "St John the Baptist's este un lăcaș de cult notabil din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.125997,
+                        50.819478
+                  ]
+            },
+            {
+                  "name": "St Peter's Church",
+                  "text": "Biserica Sf. Petru este un lăcaș de cult important și un reper faimos din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.135011,
+                        50.828346
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene's",
+                  "text": "St Mary Magdalene's este un lăcaș de cult situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149574,
+                        50.825514
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's este un lăcaș de cult notabil situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128644,
+                        50.833325
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church of the Holy Trinity",
+                  "text": "Biserica Ortodoxă Greacă Sfânta Treime este un lăcaș de cult frumos din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131443,
+                        50.823939
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's este un lăcaș de cult local aflat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.111952,
+                        50.817616
+                  ]
+            },
+            {
+                  "name": "Dorset Gardens Methodist Church",
+                  "text": "Dorset Gardens Methodist Church este un lăcaș de cult activ din zona Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.134065,
+                        50.821221
+                  ]
+            },
+            {
+                  "name": "St Andrews",
+                  "text": "St Andrews este un lăcaș de cult situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.174972,
+                        50.828597
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "St John the Baptist este un lăcaș de cult ușor de recunoscut din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164872,
+                        50.826783
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Biserica Inima Sacră este un lăcaș de cult proeminent din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.170925,
+                        50.829762
+                  ]
+            },
+            {
+                  "name": "Holland Road Baptist Church",
+                  "text": "Holland Road Baptist Church este un lăcaș de cult cunoscut din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.161329,
+                        50.827076
+                  ]
+            },
+            {
+                  "name": "Brighton & Hove Reform Synagogue",
+                  "text": "Brighton & Hove Reform Synagogue este un lăcaș de cult important pentru comunitatea evreiască locală din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.162656,
+                        50.829586
+                  ]
+            },
+            {
+                  "name": "Hove Progressive Synagogue",
+                  "text": "Hove Progressive Synagogue este un lăcaș de cult asociat iudaismului progresist din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.158849,
+                        50.827602
+                  ]
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "Biserica Sf. Patrick este un lăcaș de cult important situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157611,
+                        50.825937
+                  ]
+            },
+            {
+                  "name": "St Stephen's",
+                  "text": "St Stephen's este un lăcaș de cult istoric situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152983,
+                        50.826648
+                  ]
+            },
+            {
+                  "name": "St Michael and All Angels",
+                  "text": "St Michael and All Angels este un lăcaș de cult renumit din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149806,
+                        50.827493
+                  ]
+            },
+            {
+                  "name": "First Church of Christ Scientist",
+                  "text": "First Church of Christ Scientist este un lăcaș de cult situat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152147,
+                        50.825485
+                  ]
+            },
+            {
+                  "name": "St Mary and St Abraam Church",
+                  "text": "Biserica Sf. Maria și Sf. Avraam este un lăcaș de cult ortodox copt din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.15586,
+                        50.831088
+                  ]
+            },
+            {
+                  "name": "Church of the Annunciation",
+                  "text": "Church of the Annunciation este un lăcaș de cult local aflat în Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129618,
+                        50.829459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "O biserică romano-catolică proeminentă din Brighton, cunoscută pentru arhitectura sa impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128025,
+                        50.832108
+                  ]
+            },
+            {
+                  "name": "Brighton National Spiritualist Church",
+                  "text": "Un lăcaș de cult pentru comunitatea spiritualistă din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131336,
+                        50.822298
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "O biserică anglicană care deservește comunitatea locală din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157876,
+                        50.841711
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "O biserică parohială romano-catolică situată în zona Preston Park din Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.145889,
+                        50.844632
+                  ]
+            },
+            {
+                  "name": "Jubilee Clock Tower",
+                  "text": "Un turn cu ceas ridicat în 1888 pentru a comemora Jubileul de Aur al Reginei Victoria.",
+                  "category": "tower",
+                  "coords": [
+                        -0.143604,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "London Road Viaduct",
+                  "text": "Un viaduct feroviar mare din Brighton, format din 27 de arcuri de cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.140882,
+                        50.835386
+                  ]
+            },
+            {
+                  "name": "Old Steine Gardens",
+                  "text": "O grădină publică centrală din Brighton, cu monumente și fântâni.",
+                  "category": "park",
+                  "coords": [
+                        -0.137411,
+                        50.820684
+                  ]
+            },
+            {
+                  "name": "St Ann's Well Gardens",
+                  "text": "Un parc popular împădurit din Hove, cunoscut pentru arborii săi nativi și exotici.",
+                  "category": "park",
+                  "coords": [
+                        -0.155669,
+                        50.829698
+                  ]
+            },
+            {
+                  "name": "Adelaide Crescent",
+                  "text": "Un complex rezidențial în formă de semilună și grădină publică din Hove, remarcabil pentru arhitectura de la mijlocul secolului al XIX-lea.",
+                  "category": "park",
+                  "coords": [
+                        -0.164145,
+                        50.824469
+                  ]
+            },
+            {
+                  "name": "Park Street Gate",
+                  "text": "O structură istorică de poartă situată în Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.12678,
+                        50.823204
+                  ]
+            },
+            {
+                  "name": "Queen Victoria",
+                  "text": "O statuie din Brighton care o comemorează pe Regina Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        -0.1366,
+                        50.823772
+                  ]
+            },
+            {
+                  "name": "Peace Statue",
+                  "text": "Un monument din Brighton care simbolizează pacea, situat pe faleză.",
+                  "category": "historical",
+                  "coords": [
+                        -0.156927,
+                        50.822509
+                  ]
+            },
+            {
+                  "name": "Egremont Gate",
+                  "text": "Un monument istoric sub formă de poartă din Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.128278,
+                        50.823615
+                  ]
+            },
+            {
+                  "name": "Brighton Open Air Theatre (B.O.A.T)",
+                  "text": "Un spațiu de spectacole în aer liber din Brighton, care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.153849,
+                        50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade este o sală de jocuri arcade în Brighton, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "Numele Jurassic Beach din Brighton reprezintă o bază de minigolf distractivă situată chiar pe coastă. Familiile și prietenii se pot distra aici cu o partidă de golf cu design de dinozauri, bucurându-se în același timp de aerul proaspăt al mării. Un sfat excelent de agrement în afara unei zile clasice de plajă.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground este un loc de joacă în Brighton, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) este un teren de minigolf în Brighton, oferind o activitate distractivă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
+            },
+            {
+                  "name": "Brighton College Swimming Pool",
+                  "text": "Piscina de la Brighton College oferă un spațiu pentru sesiuni de înot în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.121531,
+                        50.822525
+                  ]
+            },
+            {
+                  "name": "Paraquatics",
+                  "text": "Paraquatics din Brighton oferă familiilor ocazia de a descoperi specii acvatice.",
+                  "category": "family",
+                  "coords": [
+                        -0.190739,
+                        50.833855
+                  ]
+            },
+            {
+                  "name": "St Lukes Swimming Pool",
+                  "text": "St Lukes Swimming Pool oferă facilități pentru ca familiile să se bucure de înot împreună.",
+                  "category": "family",
+                  "coords": [
+                        -0.122609,
+                        50.82751
+                  ]
+            },
+            {
+                  "name": "Patcham High School Swimming Pool",
+                  "text": "Această piscină din Brighton este utilizată pentru activități de înot în comunitate și în familie.",
+                  "category": "family",
+                  "coords": [
+                        -0.143855,
+                        50.861608
+                  ]
+            },
+            {
+                  "name": "Whitehawk Hill Local Nature Reserve",
+                  "text": "O rezervație naturală pe deal, care oferă habitate de pajiști calcaroase și vederi panoramice ale orașului Brighton.",
+                  "category": "natural",
+                  "coords": [
+                        -0.10941,
+                        50.829757
+                  ]
+            },
+            {
+                  "name": "Withdean Woods",
+                  "text": "O zonă împădurită liniștită care oferă un habitat natural pentru fauna locală din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -0.158737,
+                        50.854785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Pavilion",
+                  "text": "The Royal Pavilion is an exotic palace in the center of Brighton, built as a seaside retreat for King George IV.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137717,
+                        50.822364
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier",
+                  "text": "Brighton Palace Pier is an iconic Victorian pier featuring amusement rides, arcades, and various food stalls by the sea.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137222,
+                        50.8164
+                  ]
+            },
+            {
+                  "name": "The Lanes",
+                  "text": "The Lanes is a historic area of Brighton famous for its narrow alleyways, independent shops, and antique stores.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.14,
+                        50.821
+                  ]
+            },
+            {
+                  "name": "Brighton i360",
+                  "text": "The Brighton i360 is a 162-meter observation tower on the seafront, offering panoramic views of the city and the sea.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1509,
+                        50.82135
+                  ]
+            },
+            {
+                  "name": "Brighton Dome",
+                  "text": "The Brighton Dome is a premier arts and culture venue located in the former royal stables of the palace complex.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1384,
+                        50.8234
+                  ]
+            },
+            {
+                  "name": "Brighton Museum & Art Gallery",
+                  "text": "This museum in the Royal Pavilion Garden houses important collections of art, design, and local history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138041,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "Sea Life Brighton",
+                  "text": "Opened in 1872, Sea Life Brighton is the world's oldest operating aquarium, featuring stunning Victorian architecture.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.135154,
+                        50.819537
+                  ]
+            },
+            {
+                  "name": "Brighton Marina",
+                  "text": "Brighton Marina is one of Europe's largest man-made marinas, offering numerous shops, cinemas, and restaurants.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.109782,
+                        50.81078
+                  ]
+            },
+            {
+                  "name": "North Laine",
+                  "text": "The North Laine district is a vibrant hub of bohemian culture with over 400 independent shops, cafes, and pubs.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139167,
+                        50.8264
+                  ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton's famous pebble beach shapes the image of the southern English coast over a stretch of several kilometers. Life pulses here with numerous opportunities for water sports, recreation, and classic British seaside fun. Deckchairs and the typical sea breeze promise an unforgettable stay.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138017,
+                        50.818973
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church is the oldest building in Brighton, dating back to the 14th century with a rich Christian tradition.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144845,
+                        50.825376
+                  ]
+            },
+            {
+                  "name": "Preston Manor",
+                  "text": "Preston Manor is a Georgian-era manor house that provides a glimpse into the life of the upper class in the early 20th century.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.149976,
+                        50.8425
+                  ]
+            },
+            {
+                  "name": "Brighton Fishing Museum",
+                  "text": "This museum on the seafront documents the city's rich fishing history with historic boats and photography.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.144496,
+                        50.8204
+                  ]
+            },
+            {
+                  "name": "Volk's Electric Railway",
+                  "text": "Opened in 1883, this is the world's oldest operating electric railway, running along the Brighton seafront.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1291,
+                        50.8182
+                  ]
+            },
+            {
+                  "name": "Booth Museum of Natural History",
+                  "text": "The Booth Museum houses a fascinating collection of birds, butterflies, fossils, and skeletons in a Victorian setting.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.15267,
+                        50.837254
+                  ]
+            },
+            {
+                  "name": "Duke of York's Picturehouse",
+                  "text": "This cinema opened in 1910 is one of the oldest operating cinemas in the UK, showcasing a mix of films.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.138415,
+                        50.833916
+                  ]
+            },
+            {
+                  "name": "Brighton Toy and Model Museum",
+                  "text": "Located under Brighton station, this museum showcases a huge collection of historic toys and model trains.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -0.140833,
+                        50.8286
+                  ]
+            },
+            {
+                  "name": "Jubilee Library",
+                  "text": "The Jubilee Library is a modern architectural landmark and a major cultural hub in the heart of Brighton.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1383,
+                        50.8252
+                  ]
+            },
+            {
+                  "name": "Brighton Clock Tower",
+                  "text": "The clock tower in the city center was built in 1888 to commemorate the Golden Jubilee of Queen Victoria.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.136472,
+                        50.819108
+                  ]
+            },
+            {
+                  "name": "Devil's Dyke",
+                  "text": "Devil's Dyke is a deep V-shaped valley in the South Downs, offering spectacular views of the surrounding countryside.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.205,
+                        50.885
+                  ]
+            },
+            {
+                  "name": "Brighton Town Hall",
+                  "text": "Brighton Town Hall, built in the 19th century, is an imposing building featuring neoclassical architecture.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1402,
+                        50.820823
+                  ]
+            },
+            {
+                  "name": "Theatre Royal Brighton",
+                  "text": "The Theatre Royal is one of the oldest and most prestigious theatres in the country, hosting major touring productions.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -0.139913,
+                        50.823414
+                  ]
+            },
+            {
+                  "name": "St Bartholomew's Church",
+                  "text": "This monumental church is known for its sheer size and impressive brick architecture in a Byzantine style.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -0.137056,
+                        50.830876
+                  ]
+            },
+            {
+                  "name": "Regency Square",
+                  "text": "Regency Square is a historic square with elegant early 19th-century architecture and views across to the sea.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.1504,
+                        50.8226
+                  ]
+            },
+            {
+                  "name": "Brighton West Pier",
+                  "text": "The skeletal remains of the West Pier, built in 1866, are a distinctive and melancholic landmark on the Brighton coast.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -0.151479,
+                        50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Duke's Mound Naturist Beach is a well-known nudist beach section in the southern English city of Brighton. Away from the main hustle and bustle, it offers a respectful and relaxed seaside atmosphere for naturist enthusiasts. Those who appreciate a natural tan and carefree bathing will find their spot here.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica is a contemporary art gallery housed in a former church in Brighton.",
+                  "category": "museum",
+                  "coords": [
+                        -0.142009,
+                        50.822752
+                  ]
+            },
+            {
+                  "name": "Pepper Pot",
+                  "text": "Pepper Pot is an unusual historic monument located in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.124812,
+                        50.827287
+                  ]
+            },
+            {
+                  "name": "West Pier",
+                  "text": "West Pier is a famous ruined pier off the coast of Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.152003,
+                        50.819001
+                  ]
+            },
+            {
+                  "name": "The Actors Theatre",
+                  "text": "The Actors Theatre is a notable theatre venue operating in Brighton.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.136008,
+                        50.822287
+                  ]
+            },
+            {
+                  "name": "St George's",
+                  "text": "St George's is a recognized place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.119277,
+                        50.818177
+                  ]
+            },
+            {
+                  "name": "The Parish Church of Saint Paul",
+                  "text": "The Parish Church of Saint Paul is a prominent historic place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.144721,
+                        50.822057
+                  ]
+            },
+            {
+                  "name": "St Mary the Virgin",
+                  "text": "St Mary the Virgin is a well-known place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129652,
+                        50.820404
+                  ]
+            },
+            {
+                  "name": "St Andrews Church",
+                  "text": "St Andrews Church is a significant place of worship situated in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.156799,
+                        50.823494
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist Church",
+                  "text": "St John the Evangelist Church is a recognizable place of worship situated in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.150904,
+                        50.844432
+                  ]
+            },
+            {
+                  "name": "St John the Baptist's",
+                  "text": "St John the Baptist's is a notable place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.125997,
+                        50.819478
+                  ]
+            },
+            {
+                  "name": "St Peter's Church",
+                  "text": "St Peter's Church is a major place of worship and a famous landmark in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.135011,
+                        50.828346
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene's",
+                  "text": "St Mary Magdalene's is a dedicated place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149574,
+                        50.825514
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's is a notable place of worship situated in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128644,
+                        50.833325
+                  ]
+            },
+            {
+                  "name": "Greek Orthodox Church of the Holy Trinity",
+                  "text": "The Greek Orthodox Church of the Holy Trinity is a beautiful place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131443,
+                        50.823939
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "St Mark's is a local place of worship positioned in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.111952,
+                        50.817616
+                  ]
+            },
+            {
+                  "name": "Dorset Gardens Methodist Church",
+                  "text": "Dorset Gardens Methodist Church is an active place of worship serving the Brighton area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.134065,
+                        50.821221
+                  ]
+            },
+            {
+                  "name": "St Andrews",
+                  "text": "St Andrews is a place of worship situated in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.174972,
+                        50.828597
+                  ]
+            },
+            {
+                  "name": "St John the Baptist",
+                  "text": "St John the Baptist is a recognizable place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.164872,
+                        50.826783
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Church of the Sacred Heart is a prominent place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.170925,
+                        50.829762
+                  ]
+            },
+            {
+                  "name": "Holland Road Baptist Church",
+                  "text": "Holland Road Baptist Church is a known place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.161329,
+                        50.827076
+                  ]
+            },
+            {
+                  "name": "Brighton & Hove Reform Synagogue",
+                  "text": "Brighton & Hove Reform Synagogue is an important place of worship for the local Jewish community in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.162656,
+                        50.829586
+                  ]
+            },
+            {
+                  "name": "Hove Progressive Synagogue",
+                  "text": "Hove Progressive Synagogue is a place of worship associated with progressive Judaism in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.158849,
+                        50.827602
+                  ]
+            },
+            {
+                  "name": "St Patrick's Church",
+                  "text": "St Patrick's Church is a significant place of worship situated in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157611,
+                        50.825937
+                  ]
+            },
+            {
+                  "name": "St Stephen's",
+                  "text": "St Stephen's is a historic place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152983,
+                        50.826648
+                  ]
+            },
+            {
+                  "name": "St Michael and All Angels",
+                  "text": "St Michael and All Angels is a renowned place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.149806,
+                        50.827493
+                  ]
+            },
+            {
+                  "name": "First Church of Christ Scientist",
+                  "text": "First Church of Christ Scientist is a place of worship located in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.152147,
+                        50.825485
+                  ]
+            },
+            {
+                  "name": "St Mary and St Abraam Church",
+                  "text": "St Mary and St Abraam Church is a Coptic Orthodox place of worship in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.15586,
+                        50.831088
+                  ]
+            },
+            {
+                  "name": "Church of the Annunciation",
+                  "text": "Church of the Annunciation is a local place of worship positioned in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.129618,
+                        50.829459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "A prominent Roman Catholic church in Brighton known for its impressive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -0.128025,
+                        50.832108
+                  ]
+            },
+            {
+                  "name": "Brighton National Spiritualist Church",
+                  "text": "A place of worship for the spiritualist community in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.131336,
+                        50.822298
+                  ]
+            },
+            {
+                  "name": "Church of the Good Shepherd",
+                  "text": "An Anglican church serving the local community in Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.157876,
+                        50.841711
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "A Roman Catholic parish church located in the Preston Park area of Brighton.",
+                  "category": "religious",
+                  "coords": [
+                        -0.145889,
+                        50.844632
+                  ]
+            },
+            {
+                  "name": "Jubilee Clock Tower",
+                  "text": "A free-standing clock tower built in 1888 to commemorate the Golden Jubilee of Queen Victoria.",
+                  "category": "tower",
+                  "coords": [
+                        -0.143604,
+                        50.8237
+                  ]
+            },
+            {
+                  "name": "London Road Viaduct",
+                  "text": "A large railway viaduct in Brighton, featuring 27 brick arches.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.140882,
+                        50.835386
+                  ]
+            },
+            {
+                  "name": "Old Steine Gardens",
+                  "text": "A central public garden in Brighton featuring memorials and fountains.",
+                  "category": "park",
+                  "coords": [
+                        -0.137411,
+                        50.820684
+                  ]
+            },
+            {
+                  "name": "St Ann's Well Gardens",
+                  "text": "A popular wooded park in Hove known for its native and exotic trees.",
+                  "category": "park",
+                  "coords": [
+                        -0.155669,
+                        50.829698
+                  ]
+            },
+            {
+                  "name": "Adelaide Crescent",
+                  "text": "A residential crescent and garden square in Hove, noted for its mid-19th-century architecture.",
+                  "category": "park",
+                  "coords": [
+                        -0.164145,
+                        50.824469
+                  ]
+            },
+            {
+                  "name": "Park Street Gate",
+                  "text": "A historic gate structure located in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.12678,
+                        50.823204
+                  ]
+            },
+            {
+                  "name": "Queen Victoria",
+                  "text": "A statue in Brighton commemorating Queen Victoria.",
+                  "category": "historical",
+                  "coords": [
+                        -0.1366,
+                        50.823772
+                  ]
+            },
+            {
+                  "name": "Peace Statue",
+                  "text": "A monument in Brighton symbolizing peace, located on the seafront.",
+                  "category": "historical",
+                  "coords": [
+                        -0.156927,
+                        50.822509
+                  ]
+            },
+            {
+                  "name": "Egremont Gate",
+                  "text": "A historic gateway monument in Brighton.",
+                  "category": "historical",
+                  "coords": [
+                        -0.128278,
+                        50.823615
+                  ]
+            },
+            {
+                  "name": "Brighton Open Air Theatre (B.O.A.T)",
+                  "text": "An outdoor performance space in Brighton hosting a variety of shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.153849,
+                        50.836166
+                  ]
+            },
+            {
+                  "name": "Globalls",
+                  "text": "Globalls is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.102614,
+                        50.81244
+                  ]
+            },
+            {
+                  "name": "The Level Playground",
+                  "text": "The Level Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.13377,
+                        50.829847
+                  ]
+            },
+            {
+                  "name": "Roedean Cafe & Miniature Golf Club",
+                  "text": "Roedean Cafe & Miniature Golf Club is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.093683,
+                        50.813625
+                  ]
+            },
+            {
+                  "name": "Brighton Palace Pier Arcade",
+                  "text": "Brighton Palace Pier Arcade is an amusement arcade in Brighton, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -0.136621,
+                        50.818089
+                  ]
+            },
+            {
+                  "name": "Jungle Rumble Adventure Golf",
+                  "text": "Jungle Rumble Adventure Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.12076,
+                        50.816617
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Pirate Golf is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.133527,
+                        50.818963
+                  ]
+            },
+            {
+                  "name": "Preston Park Playground",
+                  "text": "Preston Park Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.144843,
+                        50.839368
+                  ]
+            },
+            {
+                  "name": "The Patch",
+                  "text": "The Patch is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.123411,
+                        50.833956
+                  ]
+            },
+            {
+                  "name": "Jurassic Beach",
+                  "text": "The name Jurassic Beach in Brighton refers to an entertaining miniature golf course right on the coast. Families and friends can enjoy a round of dinosaur-themed golf here while breathing in the fresh sea air. It is a great leisure tip beyond the classic day of swimming.",
+                  "category": "family",
+                  "coords": [
+                        -0.177997,
+                        50.825103
+                  ]
+            },
+            {
+                  "name": "Farm Green Playgorund",
+                  "text": "Farm Green Playgorund is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.100163,
+                        50.840764
+                  ]
+            },
+            {
+                  "name": "East Brighton Playground",
+                  "text": "East Brighton Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.101539,
+                        50.81898
+                  ]
+            },
+            {
+                  "name": "Dyke Road Park Playground",
+                  "text": "Dyke Road Park Playground is a playground in Brighton, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -0.152568,
+                        50.835642
+                  ]
+            },
+            {
+                  "name": "Pirates Cave Adventure Golf (FunPlay Leisure)",
+                  "text": "Pirates Cave Adventure Golf (FunPlay Leisure) is a miniature golf course in Brighton, providing a fun activity for families and friends.",
+                  "category": "family",
+                  "coords": [
+                        -0.105989,
+                        50.81246
+                  ]
+            },
+            {
+                  "name": "Brighton College Swimming Pool",
+                  "text": "The Brighton College Swimming Pool provides a space for family swimming sessions.",
+                  "category": "family",
+                  "coords": [
+                        -0.121531,
+                        50.822525
+                  ]
+            },
+            {
+                  "name": "Paraquatics",
+                  "text": "Paraquatics in Brighton offers an opportunity for families to discover aquatic species.",
+                  "category": "family",
+                  "coords": [
+                        -0.190739,
+                        50.833855
+                  ]
+            },
+            {
+                  "name": "St Lukes Swimming Pool",
+                  "text": "St Lukes Swimming Pool in Brighton offers facilities for families to enjoy swimming together.",
+                  "category": "family",
+                  "coords": [
+                        -0.122609,
+                        50.82751
+                  ]
+            },
+            {
+                  "name": "Patcham High School Swimming Pool",
+                  "text": "This swimming pool in Brighton is used for community and family swimming activities.",
+                  "category": "family",
+                  "coords": [
+                        -0.143855,
+                        50.861608
+                  ]
+            },
+            {
+                  "name": "Whitehawk Hill Local Nature Reserve",
+                  "text": "A hilltop nature reserve offering chalk grassland habitats and panoramic views of Brighton.",
+                  "category": "natural",
+                  "coords": [
+                        -0.10941,
+                        50.829757
+                  ]
+            },
+            {
+                  "name": "Withdean Woods",
+                  "text": "A peaceful wooded area providing a habitat for local wildlife in the city.",
+                  "category": "natural",
+                  "coords": [
+                        -0.158737,
+                        50.854785
+                  ]
+            }
+      ]
+}
   }
 ,
   {
@@ -44065,7 +50587,2844 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Antigo maior centro de construção naval do mundo", "Sede da fábrica da Nissan (a maior do Reino Unido)", "Lar do National Glass Centre", "O Stadium of Light tem 49.000 lugares"],
       fr: ["Ancien plus grand centre de construction navale au monde", "Siège de l'usine Nissan (la plus grande du Royaume-Uni)", "Siège du National Glass Centre", "Le Stadium of Light compte 49 000 places"],
     },
-    "sights": {"de": [{"name": "Penshaw Monument", "text": "Ein 1844 erbauter dorischer Tempel auf einem Hügel, der Lord Durham gewidmet ist und weithin sichtbar über der Stadt thront.", "category": "historical", "confidence": "high", "coords": [-1.48087, 54.8831]}, {"name": "Sunderland Museum and Winter Gardens", "text": "Dieses Museum zeigt lokale Geschichte und Naturkunde sowie einen beeindruckenden Glashaus-Garten mit exotischen Pflanzen.", "category": "museum", "confidence": "high", "coords": [-1.380449, 54.904254]}, {"name": "National Glass Centre", "text": "Ein zeitgenössisches Kulturzentrum, das die lange Glastradition Sunderlands feiert und Glasbläser-Vorführungen anbietet.", "category": "cultural", "confidence": "high", "coords": [-1.37097, 54.9129]}, {"name": "St Peter's Church, Monkwearmouth", "text": "Eine der ältesten Kirchen Englands, die im Jahr 674 n. Chr. gegründet wurde und Teil eines bedeutenden Klosters war.", "category": "religious", "confidence": "high", "coords": [-1.3749, 54.9131]}, {"name": "Hylton Castle", "text": "Eine imposante Burgruine aus dem 14. Jahrhundert mit einer reich verzierten Fassade und Wappen der Familie Hylton.", "category": "fortress", "confidence": "high", "coords": [-1.441, 54.924]}, {"name": "Roker Pier and Lighthouse", "text": "Ein markanter Leuchtturm und eine lange Mole, die Schutz für den Hafen bieten und beliebte Orte für Spaziergänge sind.", "category": "historical", "confidence": "high", "coords": [-1.360673, 54.923077]}, {"name": "Stadium of Light", "text": "Die moderne Heimat des Sunderland AFC, erbaut auf dem Gelände einer ehemaligen Zeche, bietet Platz für fast 49.000 Fans.", "category": "recreational", "confidence": "high", "coords": [-1.388173, 54.914429]}, {"name": "Mowbray Park", "text": "Ein wunderschöner viktorianischer Stadtpark mit Statuen, einem See und Verbindungen zum Schriftsteller Lewis Carroll.", "category": "natural", "confidence": "high", "coords": [-1.37972, 54.9019]}, {"name": "Fulwell Windmill", "text": "Die einzige funktionstüchtige Windmühle im Nordosten Englands, die 1808 erbaut wurde und heute ein Museum ist.", "category": "historical", "confidence": "high", "coords": [-1.387591, 54.924667]}, {"name": "Sunderland Empire Theatre", "text": "Ein prächtiges Theater im edwardianischen Stil, bekannt für große West End Produktionen und seine reiche Geschichte.", "category": "cultural", "confidence": "high", "coords": [-1.3892, 54.9064]}, {"name": "Keel Square", "text": "Ein moderner öffentlicher Platz im Stadtzentrum, der das maritime Erbe und den Schiffbau der Region würdigt.", "category": "civic", "confidence": "high", "coords": [-1.386431, 54.907335]}, {"name": "Sunderland Minster", "text": "Die historische Stadtpfarrkirche, die im Jahr 930 n. Chr. gegründet wurde und heute ein wichtiges geistliches Zentrum ist.", "category": "religious", "confidence": "high", "coords": [-1.38885, 54.9058]}, {"name": "Wearmouth Bridge", "text": "Eine ikonische Eisenbrücke über den Fluss Wear, die das Stadtzentrum mit dem nördlichen Teil Sunderlands verbindet.", "category": "historical", "confidence": "high", "coords": [-1.382778, 54.91]}, {"name": "Backhouse Park", "text": "Ein friedlicher Naturpark, der für seine alten Bäume und die jährliche Osterglockenblüte bekannt ist.", "category": "natural", "confidence": "high", "coords": [-1.381066, 54.893632]}, {"name": "Herrington Country Park", "text": "Ein weitläufiger Park auf ehemaligem Bergbaugelände, ideal für Wanderungen und mit Blick auf das Penshaw Monument.", "category": "natural", "confidence": "high", "coords": [-1.47025, 54.877167]}, {"name": "Barnes Park", "text": "Ein beliebter Familienpark mit Spielplätzen, einem Ententeich und renovierten viktorianischen Merkmalen.", "category": "natural", "confidence": "high", "coords": [-1.4143, 54.8935]}, {"name": "Northern Gallery for Contemporary Art", "text": "Diese Galerie zeigt innovative Werke moderner Künstler und befindet sich im National Glass Centre.", "category": "museum", "confidence": "high", "coords": [-1.382, 54.911]}, {"name": "Ryhope Engines Museum", "text": "Ein viktorianisches Pumpwerk mit zwei riesigen Dampfmaschinen, die noch heute zu besonderen Anlässen in Betrieb sind.", "category": "museum", "confidence": "high", "coords": [-1.37306, 54.865]}, {"name": "Holy Trinity Church", "text": "Eine georgianische Kirche im alten Stadtkern, die heute als Kultur- und Veranstaltungszentrum genutzt wird.", "category": "religious", "confidence": "high", "coords": [-1.538339, 54.92054]}, {"name": "University of Sunderland", "text": "Die Universität prägt das Stadtbild mit modernen Campusgebäuden am Flussufer und im Stadtzentrum.", "category": "civic", "confidence": "high", "coords": [-1.3914, 54.9051]}, {"name": "Washington Old Hall", "text": "Das Herrenhaus aus dem 17. Jahrhundert war der Stammsitz der Vorfahren von George Washington, dem ersten US-Präsidenten.", "category": "historical", "confidence": "high", "coords": [-1.51644, 54.9027]}, {"name": "Bowes Railway", "text": "Eine historische Seilbahn-Eisenbahn, die einst Kohle transportierte und heute als Museumsbahn erhalten bleibt.", "category": "historical", "confidence": "high", "coords": [-1.56, 54.92]}, {"name": "Sunderland Station", "text": "Der zentrale Bahnhof der Stadt, der eine wichtige Verbindung nach Newcastle und London bietet.", "category": "station", "confidence": "high", "coords": [-1.382, 54.906]}, {"name": "The Lighthouse, Roker Cliff Park", "text": "Ein malerischer Leuchtturm im Roker Cliff Park in Sunderland.", "category": "landmark", "coords": [-1.366136, 54.931196]}, {"name": "Wave Basin Battery", "text": "Eine historische Küstenbefestigung in Sunderland.", "category": "fortress", "coords": [-1.363258, 54.916446]}, {"name": "Defended settlement on Humbledon Hill", "text": "Eine archäologische Ausgrabungsstätte einer antiken Siedlung in Sunderland.", "category": "historical", "coords": [-1.409106, 54.890312]}, {"name": "Fans Museum", "text": "Ein Museum in Sunderland, das den Fußballfans gewidmet ist.", "category": "museum", "coords": [-1.383668, 54.912243]}, {"name": "Roker Pier Lighthouse", "text": "Ein markanter Leuchtturm am Ende des Roker-Piers in Sunderland.", "category": "landmark", "coords": [-1.352495, 54.921315]}, {"name": "North Dock Tufa", "text": "Eine archäologische und geologische Stätte in Sunderland.", "category": "historical", "coords": [-1.367648, 54.91991]}, {"name": "Hendon Beach", "text": "Der Küstenabschnitt von Hendon Beach liegt im gleichnamigen Viertel der Stadt Sunderland im Nordosten Englands. Dieser etwas rauere Strand bietet Einheimischen Raum für ruhige Strandspaziergänge fernab großer Touristenströme. Vor allem an klaren Tagen ergeben sich hier faszinierende Ausblicke auf die Nordsee.", "category": "recreational", "coords": [-1.357987, 54.888412]}, {"name": "Royalty Theatre", "text": "Ein lokales Theater in Sunderland, das verschiedene Aufführungen bietet.", "category": "cultural", "coords": [-1.395807, 54.902678]}, {"name": "The Donnison School", "text": "Ein historisches Schulgebäude, das heute als Museum dient.", "category": "museum", "coords": [-1.367721, 54.908011]}, {"name": "Fulwell Quarry (SSSI)", "text": "Ein Naturschutzgebiet und geologisch bedeutendes Gelände in Sunderland.", "category": "natural", "coords": [-1.4047, 54.93161]}, {"name": "Carley Hill Quarry (SSSI)", "text": "Ein geschütztes Naturareal und Steinbruch in Sunderland.", "category": "natural", "coords": [-1.395856, 54.928454]}, {"name": "Humbledon Hill Quarry (SSSI)", "text": "Ein Naturschutzgebiet mit besonderer geologischer Bedeutung.", "category": "natural", "coords": [-1.407091, 54.89088]}, {"name": "Fulwell Windmill visitor centre", "text": "Ein Besucherzentrum neben der historischen Windmühle von Fulwell.", "category": "museum", "coords": [-1.389648, 54.928499]}, {"name": "Tunstall Hills", "text": "Markante Hügel in Sunderland, die einen Panoramablick über die Stadt bieten.", "category": "natural", "coords": [-1.390973, 54.883501]}, {"name": "Non-Conformist Mortuary chapel (ruins)", "text": "Ruinen einer ehemaligen Friedhofskapelle in Sunderland.", "category": "historical", "coords": [-1.419459, 54.900775]}, {"name": "Pigment And Toil", "text": "Eine Kunstgalerie in Sunderland, die lokale Werke präsentiert.", "category": "museum", "coords": [-1.385238, 54.905967]}, {"name": "Doxford Gates", "text": "Ein historisches Denkmal in Sunderland, bekannt als Doxford Gates.", "category": "historical", "coords": [-1.41391, 54.914023]}, {"name": "Fulwell Acoustic Mirror", "text": "Ein Betonspiegel aus dem Ersten Weltkrieg, der zur akustischen Früherkennung von Flugzeugen diente.", "category": "historical", "coords": [-1.393888, 54.92963]}, {"name": "Roker Roundabout", "text": "Ein markanter Kreisverkehr und Treffpunkt im Stadtteil Roker in Sunderland.", "category": "landmark", "coords": [-1.365388, 54.924029]}, {"name": "Hills", "text": "Eine Galerie in Sunderland, die sich der bildenden Kunst widmet.", "category": "museum", "coords": [-1.382756, 54.904742]}, {"name": "Wearmouth Colliery Coal drops", "text": "Überreste der historischen Kohleverladestation der Wearmouth-Mine.", "category": "historical", "coords": [-1.391218, 54.91271]}, {"name": "Southwick Limekilns", "text": "Ruinen historischer Kalköfen im Stadtteil Southwick in Sunderland.", "category": "historical", "coords": [-1.393126, 54.917309]}, {"name": "Cornhill Dock", "text": "Überreste der alten Hafenanlagen am Cornhill Dock in Sunderland.", "category": "historical", "coords": [-1.396063, 54.917885]}, {"name": "The Church of St. Columba", "text": "Eine christliche Kirche in Sunderland, die dem Heiligen Columba gewidmet ist.", "category": "religious", "coords": [-1.393203, 54.920595]}, {"name": "West Park Church", "text": "Ein Kirchengebäude im West Park Viertel von Sunderland.", "category": "religious", "coords": [-1.385391, 54.901827]}, {"name": "Church of Saint Ignatius", "text": "Eine dem Heiligen Ignatius gewidmete Kirche in Sunderland.", "category": "religious", "coords": [-1.371743, 54.899596]}, {"name": "St Mary's Catholic Church", "text": "Eine römisch-katholische Kirche im Zentrum von Sunderland.", "category": "religious", "coords": [-1.382678, 54.908183]}, {"name": "St Nicholas", "text": "Eine dem Heiligen Nikolaus gewidmete Kirche in Sunderland.", "category": "religious", "coords": [-1.399641, 54.893161]}, {"name": "Northern Spire", "text": "Eine moderne Schrägseilbrücke über den Wear, die 2018 in Sunderland eröffnet wurde.", "category": "landmark", "coords": [-1.424673, 54.917178]}, {"name": "Queen Alexandra Bridge", "text": "Eine beeindruckende Doppelstockbrücke in Sunderland, die ursprünglich für Schiene und Straße gebaut wurde.", "category": "landmark", "coords": [-1.405979, 54.914064]}, {"name": "The Parish Church of St Aidan", "text": "Eine der christlichen Gemeinde dienende Pfarrkirche in Sunderland.", "category": "religious", "coords": [-1.365184, 54.884225]}, {"name": "Stockton Road URC Church", "text": "Ein Kirchengebäude der United Reformed Church an der Stockton Road in Sunderland.", "category": "religious", "coords": [-1.384885, 54.899786]}, {"name": "Anglican Mortuary Chapel (derelict)", "text": "Die verfallenen Überreste einer ehemaligen anglikanischen Friedhofskapelle.", "category": "religious", "coords": [-1.418883, 54.899645]}, {"name": "St Luke's, Pallion", "text": "Eine lokale Kirche im Stadtteil Pallion in Sunderland.", "category": "religious", "coords": [-1.415245, 54.909692]}, {"name": "St Joseph's RC Church", "text": "Eine römisch-katholische Kirche, die der Gemeinde in Sunderland dient.", "category": "religious", "coords": [-1.408133, 54.907235]}, {"name": "Holy Trinity Southwick", "text": "Eine christliche Kirche im Stadtteil Southwick in Sunderland.", "category": "religious", "coords": [-1.405853, 54.920297]}, {"name": "St Gabriel's Church", "text": "Eine anglikanische Kirche in Sunderland, die dem Erzengel Gabriel gewidmet ist.", "category": "religious", "coords": [-1.410243, 54.900627]}, {"name": "Saint Andrew's", "text": "Diese Kirche ist als 'Kathedrale der Arts-and-Crafts-Bewegung' bekannt.", "category": "religious", "coords": [-1.370972, 54.927471]}, {"name": "St Mark (closed)", "text": "Ein ehemaliges Kirchengebäude in Sunderland, das derzeit nicht mehr für Gottesdienste genutzt wird.", "category": "religious", "coords": [-1.397381, 54.906083]}, {"name": "All Saints", "text": "Eine historische Kirche im Stadtteil Monkwearmouth in Sunderland.", "category": "religious", "coords": [-1.379644, 54.917424]}, {"name": "Sunderland City Hall", "text": "Das moderne Verwaltungsgebäude und der Sitz der Stadtverwaltung von Sunderland.", "category": "historical", "coords": [-1.386333, 54.908283]}, {"name": "Wader Lake", "text": "Wader Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-1.478272, 54.89953]}, {"name": "Roker Park Lake", "text": "Roker Park Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-1.370007, 54.924353]}, {"name": "Saline lagoon", "text": "Saline lagoon ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-1.481116, 54.896534]}, {"name": "Model Boating Lake", "text": "Model Boating Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-1.471492, 54.877011]}, {"name": "Harry’s Game Shack", "text": "Harry’s Game Shack ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.", "category": "family", "coords": [-1.381684, 54.907365]}, {"name": "Shore Family Entertainment", "text": "Shore Family Entertainment ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.", "category": "family", "coords": [-1.369225, 54.935247]}, {"name": "Seldon’s Leisureworld", "text": "Seldon’s Leisureworld ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.", "category": "family", "coords": [-1.369168, 54.936673]}, {"name": "Hudson Road Playpark", "text": "Hudson Road Playpark ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-1.372916, 54.903929]}, {"name": "Hollycarrside Play Park", "text": "Hollycarrside Play Park ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-1.369291, 54.872659]}, {"name": "Carley Hill Play Area", "text": "Carley Hill Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-1.405138, 54.92914]}, {"name": "Spelter Works Road Play Area", "text": "Spelter Works Road Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-1.365284, 54.888813]}], "hu": [{"name": "Penshaw-emlékmű", "text": "Egy 1844-ben épült dór templomutánzat egy dombtetőn, amely Lord Durham emlékére készült és messziről látható.", "category": "historical", "confidence": "high", "coords": [-1.48087, 54.8831]}, {"name": "Sunderland Múzeum és Télikert", "text": "Ez a múzeum a helyi történelmet mutatja be, mellette egy lenyűgöző üvegházzal, ahol egzotikus növények élnek.", "category": "museum", "confidence": "high", "coords": [-1.380449, 54.904254]}, {"name": "Nemzeti Üvegközpont", "text": "Kortárs kulturális központ, amely Sunderland híres üveggyártási múltját mutatja be bemutatókkal és kiállításokkal.", "category": "cultural", "confidence": "high", "coords": [-1.37097, 54.9129]}, {"name": "Szent Péter-templom, Monkwearmouth", "text": "Anglia egyik legrégebbi temploma, amelyet 674-ben alapítottak, és egykor egy fontos kolostor része volt.", "category": "religious", "confidence": "high", "coords": [-1.3749, 54.9131]}, {"name": "Hylton-kastély", "text": "Egy 14. századi várkastély romja, amely gazdagon díszített homlokzatáról és a Hylton család címereiről ismert.", "category": "fortress", "confidence": "high", "coords": [-1.441, 54.924]}, {"name": "Roker móló és világítótorony", "text": "A kikötőt védő hosszú móló és a jellegzetes világítótorony a város egyik legnépszerűbb sétahelyszíne.", "category": "historical", "confidence": "high", "coords": [-1.360673, 54.923077]}, {"name": "Stadium of Light", "text": "A Sunderland AFC otthona, amelyet egy egykori szénbánya helyén építettek, és közel 49 000 néző befogadására alkalmas.", "category": "recreational", "confidence": "high", "coords": [-1.388173, 54.914429]}, {"name": "Mowbray Park", "text": "Viktoriánus stílusú városi park szobrokkal, tóval, amely Lewis Carroll íróhoz is több szállal kötődik.", "category": "natural", "confidence": "high", "coords": [-1.37972, 54.9019]}, {"name": "Fulwell szélmalom", "text": "Északkelet-Anglia egyetlen működőképes szélmalma, amely 1808-ban épült, és ma múzeumként látogatható.", "category": "historical", "confidence": "high", "coords": [-1.387591, 54.924667]}, {"name": "Sunderland Empire Színház", "text": "Pompás edwardi stílusú színház, amely híres a nagy West End produkcióiról és gazdag történelméről.", "category": "cultural", "confidence": "high", "coords": [-1.3892, 54.9064]}, {"name": "Keel tér", "text": "Modern közösségi tér a városközpontban, amely a régió hajóépítő múltjának és tengerészeti örökségének állít emléket.", "category": "civic", "confidence": "high", "coords": [-1.386431, 54.907335]}, {"name": "Sunderland Minster", "text": "A város történelmi plébániatemploma, amelyet 930-ban alapítottak, és ma is fontos lelki és közösségi központ.", "category": "religious", "confidence": "high", "coords": [-1.38885, 54.9058]}, {"name": "Wearmouth-híd", "text": "Ikonikus vashíd a Wear folyó felett, amely összeköti a városközpontot Sunderland északi részével.", "category": "historical", "confidence": "high", "coords": [-1.382778, 54.91]}, {"name": "Backhouse Park", "text": "Békés természetvédelmi park, amely hatalmas régi fáiról és a tavaszi nárciszvirágzásról híres.", "category": "natural", "confidence": "high", "coords": [-1.381066, 54.893632]}, {"name": "Herrington Country Park", "text": "Egykori bánya területén kialakított tágas park, amely kiváló túrázásra és rálátást nyújt a Penshaw-emlékműre.", "category": "natural", "confidence": "high", "coords": [-1.47025, 54.877167]}, {"name": "Barnes Park", "text": "Népszerű családi park játszóterekkel, kacsás tóval és szépen felújított viktoriánus elemekkel.", "category": "natural", "confidence": "high", "coords": [-1.4143, 54.8935]}, {"name": "Északi Kortárs Művészeti Galéria", "text": "Ez a galéria innovatív modern művészek munkáit mutatja be, a Nemzeti Üvegközpont épületében található.", "category": "museum", "confidence": "high", "coords": [-1.382, 54.911]}, {"name": "Ryhope Engines Múzeum", "text": "Viktoriánus szivattyútelep két hatalmas gőzgéppel, amelyeket ünnepi alkalmakkor ma is beindítanak.", "category": "museum", "confidence": "high", "coords": [-1.37306, 54.865]}, {"name": "Szentháromság-templom", "text": "György-kori templom a régi városközpontban, amelyet ma kulturális rendezvényhelyszínként használnak.", "category": "religious", "confidence": "high", "coords": [-1.538339, 54.92054]}, {"name": "Sunderland Egyetem", "text": "Az egyetem modern épületei meghatározzák a folyóparti és a belvárosi városképet.", "category": "civic", "confidence": "high", "coords": [-1.3914, 54.9051]}, {"name": "Washington Old Hall", "text": "17. századi udvarház, amely George Washington, az első amerikai elnök őseinek családi fészke volt.", "category": "historical", "confidence": "high", "coords": [-1.51644, 54.9027]}, {"name": "Bowes Vasút", "text": "Történelmi kötélpályás vasút, amely egykor szenet szállított, ma pedig múzeumvasútként üzemel.", "category": "historical", "confidence": "high", "coords": [-1.56, 54.92]}, {"name": "Sunderland Vasútállomás", "text": "A város központi vasúti csomópontja, amely fontos kapcsolatot biztosít Newcastle és London felé.", "category": "station", "confidence": "high", "coords": [-1.382, 54.906]}, {"name": "The Lighthouse, Roker Cliff Park", "text": "Festői világítótorony a sunderlandi Roker Cliff Parkban.", "category": "landmark", "coords": [-1.366136, 54.931196]}, {"name": "Wave Basin Battery", "text": "Történelmi tengerparti erődítmény Sunderlandben.", "category": "fortress", "coords": [-1.363258, 54.916446]}, {"name": "Defended settlement on Humbledon Hill", "text": "Egy ókori település régészeti lelőhelye Sunderlandben.", "category": "historical", "coords": [-1.409106, 54.890312]}, {"name": "Fans Museum", "text": "A futballszurkolóknak szentelt múzeum Sunderlandben.", "category": "museum", "coords": [-1.383668, 54.912243]}, {"name": "Roker Pier Lighthouse", "text": "Jellegzetes világítótorony a sunderlandi Roker-gát végén.", "category": "landmark", "coords": [-1.352495, 54.921315]}, {"name": "North Dock Tufa", "text": "Régészeti és geológiai lelőhely Sunderlandben.", "category": "historical", "coords": [-1.367648, 54.91991]}, {"name": "Hendon Beach", "text": "A Hendon Beach partszakasza a tengerparti Sunderland azonos nevű negyedében található Északkelet-Angliában. Ez a kissé zordabb strand csendes tengerparti sétákat kínál a helyieknek, távol a nagy turistatömegektől. Különösen tiszta napokon lenyűgöző kilátás nyílik innen az Északi-tengerre.", "category": "recreational", "coords": [-1.357987, 54.888412]}, {"name": "Royalty Theatre", "text": "Helyi színház Sunderlandben, amely különféle előadásokat kínál.", "category": "cultural", "coords": [-1.395807, 54.902678]}, {"name": "The Donnison School", "text": "Történelmi iskolaépület, amely ma múzeumként működik.", "category": "museum", "coords": [-1.367721, 54.908011]}, {"name": "Fulwell Quarry (SSSI)", "text": "Természetvédelmi terület és geológiailag jelentős helyszín Sunderlandben.", "category": "natural", "coords": [-1.4047, 54.93161]}, {"name": "Carley Hill Quarry (SSSI)", "text": "Védett természeti terület és kőfejtő Sunderlandben.", "category": "natural", "coords": [-1.395856, 54.928454]}, {"name": "Humbledon Hill Quarry (SSSI)", "text": "Különleges geológiai jelentőségű természetvédelmi terület.", "category": "natural", "coords": [-1.407091, 54.89088]}, {"name": "Fulwell Windmill visitor centre", "text": "Látogatóközpont a történelmi fulwelli szélmalom mellett.", "category": "museum", "coords": [-1.389648, 54.928499]}, {"name": "Tunstall Hills", "text": "Jellegzetes dombok Sunderlandben, amelyek panorámás kilátást nyújtanak a városra.", "category": "natural", "coords": [-1.390973, 54.883501]}, {"name": "Non-Conformist Mortuary chapel (ruins)", "text": "Egy egykori temetőkápolna romjai Sunderlandben.", "category": "historical", "coords": [-1.419459, 54.900775]}, {"name": "Pigment And Toil", "text": "Művészeti galéria Sunderlandben, amely helyi alkotásokat mutat be.", "category": "museum", "coords": [-1.385238, 54.905967]}, {"name": "Doxford Gates", "text": "Sunderland egyik történelmi emlékműve, a Doxford Gates.", "category": "historical", "coords": [-1.41391, 54.914023]}, {"name": "Fulwell Acoustic Mirror", "text": "Az első világháborúból származó betonhangtükör, amelyet repülőgépek észlelésére használtak.", "category": "historical", "coords": [-1.393888, 54.92963]}, {"name": "Roker Roundabout", "text": "Egy jellegzetes körforgalom és találkozási pont Sunderland Roker negyedében.", "category": "landmark", "coords": [-1.365388, 54.924029]}, {"name": "Hills", "text": "Képzőművészeti galéria Sunderlandben.", "category": "museum", "coords": [-1.382756, 54.904742]}, {"name": "Wearmouth Colliery Coal drops", "text": "A Wearmouth kőszénbánya egykori szénrakodóhelyének maradványai.", "category": "historical", "coords": [-1.391218, 54.91271]}, {"name": "Southwick Limekilns", "text": "Történelmi mészégető kemencék romjai Sunderland Southwick negyedében.", "category": "historical", "coords": [-1.393126, 54.917309]}, {"name": "Cornhill Dock", "text": "A sunderlandi Cornhill Dock régi kikötői létesítményeinek maradványai.", "category": "historical", "coords": [-1.396063, 54.917885]}, {"name": "The Church of St. Columba", "text": "Szent Columbának szentelt keresztény templom Sunderlandben.", "category": "religious", "coords": [-1.393203, 54.920595]}, {"name": "West Park Church", "text": "Templomépület Sunderland West Park negyedében.", "category": "religious", "coords": [-1.385391, 54.901827]}, {"name": "Church of Saint Ignatius", "text": "Szent Ignácnak szentelt templom Sunderlandben.", "category": "religious", "coords": [-1.371743, 54.899596]}, {"name": "St Mary's Catholic Church", "text": "Római katolikus templom Sunderland központjában.", "category": "religious", "coords": [-1.382678, 54.908183]}, {"name": "St Nicholas", "text": "Szent Miklósnak szentelt templom Sunderlandben.", "category": "religious", "coords": [-1.399641, 54.893161]}, {"name": "Northern Spire", "text": "A Wear folyó felett átívelő modern ferdekábeles híd, amelyet 2018-ban adtak át Sunderlandben.", "category": "landmark", "coords": [-1.424673, 54.917178]}, {"name": "Queen Alexandra Bridge", "text": "Lenyűgöző kétszintes híd Sunderlandben, amely eredetileg vasúti és közúti forgalom számára épült.", "category": "landmark", "coords": [-1.405979, 54.914064]}, {"name": "The Parish Church of St Aidan", "text": "Sunderland egyik plébániatemploma, amely a keresztény közösséget szolgálja.", "category": "religious", "coords": [-1.365184, 54.884225]}, {"name": "Stockton Road URC Church", "text": "Az Egyesült Református Egyház templomépülete a sunderlandi Stockton Roadon.", "category": "religious", "coords": [-1.384885, 54.899786]}, {"name": "Anglican Mortuary Chapel (derelict)", "text": "Egy egykori anglikán temetőkápolna romos maradványai.", "category": "religious", "coords": [-1.418883, 54.899645]}, {"name": "St Luke's, Pallion", "text": "Helyi templom Sunderland Pallion negyedében.", "category": "religious", "coords": [-1.415245, 54.909692]}, {"name": "St Joseph's RC Church", "text": "Római katolikus templom, amely a sunderlandi közösséget szolgálja.", "category": "religious", "coords": [-1.408133, 54.907235]}, {"name": "Holy Trinity Southwick", "text": "Keresztény templom Sunderland Southwick negyedében.", "category": "religious", "coords": [-1.405853, 54.920297]}, {"name": "St Gabriel's Church", "text": "Szent Gábriel arkangyalnak szentelt anglikán templom Sunderlandben.", "category": "religious", "coords": [-1.410243, 54.900627]}, {"name": "Saint Andrew's", "text": "Ez a templom az 'Arts and Crafts mozgalom katedrálisaként' ismert.", "category": "religious", "coords": [-1.370972, 54.927471]}, {"name": "St Mark (closed)", "text": "Egykori templomépület Sunderlandben, amely jelenleg nem üzemel.", "category": "religious", "coords": [-1.397381, 54.906083]}, {"name": "All Saints", "text": "Történelmi templom Sunderland Monkwearmouth negyedében.", "category": "religious", "coords": [-1.379644, 54.917424]}, {"name": "Sunderland City Hall", "text": "Sunderland modern közigazgatási épülete és a városi tanács székhelye.", "category": "historical", "coords": [-1.386333, 54.908283]}, {"name": "Wader Lake", "text": "A(z) Wader Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-1.478272, 54.89953]}, {"name": "Roker Park Lake", "text": "A(z) Roker Park Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-1.370007, 54.924353]}, {"name": "Saline lagoon", "text": "A(z) Saline lagoon egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-1.481116, 54.896534]}, {"name": "Model Boating Lake", "text": "A(z) Model Boating Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-1.471492, 54.877011]}, {"name": "Harry’s Game Shack", "text": "A(z) Harry’s Game Shack egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.", "category": "family", "coords": [-1.381684, 54.907365]}, {"name": "Shore Family Entertainment", "text": "A(z) Shore Family Entertainment egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.", "category": "family", "coords": [-1.369225, 54.935247]}, {"name": "Seldon’s Leisureworld", "text": "A(z) Seldon’s Leisureworld egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.", "category": "family", "coords": [-1.369168, 54.936673]}, {"name": "Hudson Road Playpark", "text": "A(z) Hudson Road Playpark egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-1.372916, 54.903929]}, {"name": "Hollycarrside Play Park", "text": "A(z) Hollycarrside Play Park egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-1.369291, 54.872659]}, {"name": "Carley Hill Play Area", "text": "A(z) Carley Hill Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-1.405138, 54.92914]}, {"name": "Spelter Works Road Play Area", "text": "A(z) Spelter Works Road Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-1.365284, 54.888813]}], "ro": [{"name": "Monumentul Penshaw", "text": "Un templu doric construit în 1844 pe un deal, dedicat Lordului Durham și vizibil de la mare distanță deasupra orașului.", "category": "historical", "confidence": "high", "coords": [-1.48087, 54.8831]}, {"name": "Muzeul Sunderland și Grădinile de Iarnă", "text": "Acest muzeu prezintă istoria locală și istoria naturală, alături de o grădină botanică impresionantă sub sticlă.", "category": "museum", "confidence": "high", "coords": [-1.380449, 54.904254]}, {"name": "Centrul Național al Sticlei", "text": "Un centru cultural contemporan care celebrează tradiția îndelungată a sticlăriei din Sunderland prin expoziții și demonstrații.", "category": "cultural", "confidence": "high", "coords": [-1.37097, 54.9129]}, {"name": "Biserica Sf. Petru, Monkwearmouth", "text": "Una dintre cele mai vechi biserici din Anglia, fondată în anul 674 d.Hr., parte a unei mănăstiri anglo-saxone importante.", "category": "religious", "confidence": "high", "coords": [-1.3749, 54.9131]}, {"name": "Castelul Hylton", "text": "O ruină impunătoare de castel din secolul al XIV-lea, cunoscută pentru fațada sa decorată cu blazoanele familiei Hylton.", "category": "fortress", "confidence": "high", "coords": [-1.441, 54.924]}, {"name": "Digul și Farul Roker", "text": "Un far distinctiv și un dig lung care oferă protecție portului, fiind locuri populare pentru plimbări pe malul mării.", "category": "historical", "confidence": "high", "coords": [-1.360673, 54.923077]}, {"name": "Stadium of Light", "text": "Casa clubului de fotbal Sunderland AFC, construită pe locul unei foste mine de cărbune, cu o capacitate de aproape 49.000 de locuri.", "category": "recreational", "confidence": "high", "coords": [-1.388173, 54.914429]}, {"name": "Parcul Mowbray", "text": "Un parc orășenesc victorian frumos, cu statui, un lac și legături cu scriitorul Lewis Carroll.", "category": "natural", "confidence": "high", "coords": [-1.37972, 54.9019]}, {"name": "Moara de vânt Fulwell", "text": "Singura moară de vânt funcțională din nord-estul Angliei, construită în 1808 și transformată astăzi în muzeu.", "category": "historical", "confidence": "high", "coords": [-1.387591, 54.924667]}, {"name": "Teatrul Empire Sunderland", "text": "Un teatru magnific în stil eduardian, renumit pentru marile producții West End și istoria sa culturală bogată.", "category": "cultural", "confidence": "high", "coords": [-1.3892, 54.9064]}, {"name": "Piața Keel", "text": "O piață publică modernă în centrul orașului, care onorează patrimoniul maritim și tradiția construcțiilor navale.", "category": "civic", "confidence": "high", "coords": [-1.386431, 54.907335]}, {"name": "Sunderland Minster", "text": "Biserica parohială istorică a orașului, fondată în anul 930 d.Hr., care servește astăzi ca centru spiritual central.", "category": "religious", "confidence": "high", "coords": [-1.38885, 54.9058]}, {"name": "Podul Wearmouth", "text": "Un pod de fier iconic peste râul Wear, care face legătura între centrul orașului și partea de nord a regiunii Sunderland.", "category": "historical", "confidence": "high", "coords": [-1.382778, 54.91]}, {"name": "Parcul Backhouse", "text": "Un parc liniștit, renumit pentru arborii săi seculari și spectacolul oferit de narcisele înflorite în fiecare primăvară.", "category": "natural", "confidence": "high", "coords": [-1.381066, 54.893632]}, {"name": "Parcul Herrington Country", "text": "Un parc vast amenajat pe terenul unei foste mine, ideal pentru drumeții și cu vedere spre Monumentul Penshaw.", "category": "natural", "confidence": "high", "coords": [-1.47025, 54.877167]}, {"name": "Parcul Barnes", "text": "Un parc popular pentru familii, dotat cu locuri de joacă, un iaz cu rațe și elemente victoriene restaurate.", "category": "natural", "confidence": "high", "coords": [-1.4143, 54.8935]}, {"name": "Galeria de Nord pentru Artă Contemporană", "text": "Această galerie expune lucrări inovatoare ale artiștilor moderni, fiind situată în incinta Centrului Național al Sticlei.", "category": "museum", "confidence": "high", "coords": [-1.382, 54.911]}, {"name": "Muzeul Motoarelor Ryhope", "text": "O stație de pompare victoriană cu două motoare cu aburi gigantice, care sunt puse în funcțiune la ocazii speciale.", "category": "museum", "confidence": "high", "coords": [-1.37306, 54.865]}, {"name": "Biserica Sfânta Treime", "text": "O biserică georgiană situată în centrul vechi al orașului, utilizată în prezent ca centru pentru evenimente culturale.", "category": "religious", "confidence": "high", "coords": [-1.538339, 54.92054]}, {"name": "Universitatea din Sunderland", "text": "Universitatea definește peisajul urban cu campusuri moderne pe malul râului și în centrul orașului.", "category": "civic", "confidence": "high", "coords": [-1.3914, 54.9051]}, {"name": "Washington Old Hall", "text": "Un conac din secolul al XVII-lea care a fost casa strămoșilor lui George Washington, primul președinte al SUA.", "category": "historical", "confidence": "high", "coords": [-1.51644, 54.9027]}, {"name": "Calea Ferată Bowes", "text": "O cale ferată istorică cu cablu, folosită în trecut pentru transportul cărbunelui, păstrată acum ca muzeu feroviar.", "category": "historical", "confidence": "high", "coords": [-1.56, 54.92]}, {"name": "Gara Sunderland", "text": "Nodul feroviar central al orașului, oferind conexiuni esențiale spre Newcastle și Londra.", "category": "station", "confidence": "high", "coords": [-1.382, 54.906]}, {"name": "The Lighthouse, Roker Cliff Park", "text": "Un far pitoresc situat în Roker Cliff Park din Sunderland.", "category": "landmark", "coords": [-1.366136, 54.931196]}, {"name": "Wave Basin Battery", "text": "O fortificație de coastă istorică din Sunderland.", "category": "fortress", "coords": [-1.363258, 54.916446]}, {"name": "Defended settlement on Humbledon Hill", "text": "Un sit arheologic al unei așezări antice din Sunderland.", "category": "historical", "coords": [-1.409106, 54.890312]}, {"name": "Fans Museum", "text": "Un muzeu din Sunderland dedicat fanilor fotbalului.", "category": "museum", "coords": [-1.383668, 54.912243]}, {"name": "Roker Pier Lighthouse", "text": "Un far distinctiv situat la capătul debarcaderului Roker din Sunderland.", "category": "landmark", "coords": [-1.352495, 54.921315]}, {"name": "North Dock Tufa", "text": "Un sit arheologic și geologic din Sunderland.", "category": "historical", "coords": [-1.367648, 54.91991]}, {"name": "Hendon Beach", "text": "Secțiunea de coastă Hendon Beach este situată în cartierul cu același nume al orașului Sunderland din nord-estul Angliei. Această plajă ceva mai aspră oferă localnicilor spațiu pentru plimbări liniștite pe țărm, departe de mulțimile mari de turiști. Mai ales în zilele senine, priveliștile asupra Mării Nordului sunt fascinante.", "category": "recreational", "coords": [-1.357987, 54.888412]}, {"name": "Royalty Theatre", "text": "Un teatru local din Sunderland care oferă diverse spectacole.", "category": "cultural", "coords": [-1.395807, 54.902678]}, {"name": "The Donnison School", "text": "O clădire școlară istorică, utilizată în prezent ca muzeu.", "category": "museum", "coords": [-1.367721, 54.908011]}, {"name": "Fulwell Quarry (SSSI)", "text": "O rezervație naturală și sit de importanță geologică din Sunderland.", "category": "natural", "coords": [-1.4047, 54.93161]}, {"name": "Carley Hill Quarry (SSSI)", "text": "O zonă naturală protejată și carieră din Sunderland.", "category": "natural", "coords": [-1.395856, 54.928454]}, {"name": "Humbledon Hill Quarry (SSSI)", "text": "O rezervație naturală de o importanță geologică deosebită.", "category": "natural", "coords": [-1.407091, 54.89088]}, {"name": "Fulwell Windmill visitor centre", "text": "Un centru de vizitare situat lângă moara de vânt istorică din Fulwell.", "category": "museum", "coords": [-1.389648, 54.928499]}, {"name": "Tunstall Hills", "text": "Dealuri proeminente din Sunderland, oferind o vedere panoramică asupra orașului.", "category": "natural", "coords": [-1.390973, 54.883501]}, {"name": "Non-Conformist Mortuary chapel (ruins)", "text": "Ruinele unei foste capele mortuare din Sunderland.", "category": "historical", "coords": [-1.419459, 54.900775]}, {"name": "Pigment And Toil", "text": "O galerie de artă din Sunderland care prezintă lucrări locale.", "category": "museum", "coords": [-1.385238, 54.905967]}, {"name": "Doxford Gates", "text": "Un monument istoric din Sunderland, cunoscut sub numele de Doxford Gates.", "category": "historical", "coords": [-1.41391, 54.914023]}, {"name": "Fulwell Acoustic Mirror", "text": "O oglindă acustică din beton din Primul Război Mondial, utilizată pentru detectarea timpurie a avioanelor.", "category": "historical", "coords": [-1.393888, 54.92963]}, {"name": "Roker Roundabout", "text": "Un sens giratoriu distinctiv și punct de întâlnire în zona Roker din Sunderland.", "category": "landmark", "coords": [-1.365388, 54.924029]}, {"name": "Hills", "text": "O galerie din Sunderland dedicată artelor vizuale.", "category": "museum", "coords": [-1.382756, 54.904742]}, {"name": "Wearmouth Colliery Coal drops", "text": "Rămășițele fostei stații de încărcare a cărbunelui de la mina Wearmouth.", "category": "historical", "coords": [-1.391218, 54.91271]}, {"name": "Southwick Limekilns", "text": "Ruinele unor cuptoare de var istorice din zona Southwick din Sunderland.", "category": "historical", "coords": [-1.393126, 54.917309]}, {"name": "Cornhill Dock", "text": "Rămășițele vechilor instalații portuare de la Cornhill Dock din Sunderland.", "category": "historical", "coords": [-1.396063, 54.917885]}, {"name": "The Church of St. Columba", "text": "O biserică creștină din Sunderland dedicată Sfântului Columba.", "category": "religious", "coords": [-1.393203, 54.920595]}, {"name": "West Park Church", "text": "O clădire de biserică în cartierul West Park din Sunderland.", "category": "religious", "coords": [-1.385391, 54.901827]}, {"name": "Church of Saint Ignatius", "text": "O biserică dedicată Sfântului Ignațiu în Sunderland.", "category": "religious", "coords": [-1.371743, 54.899596]}, {"name": "St Mary's Catholic Church", "text": "O biserică romano-catolică din centrul orașului Sunderland.", "category": "religious", "coords": [-1.382678, 54.908183]}, {"name": "St Nicholas", "text": "O biserică dedicată Sfântului Nicolae în Sunderland.", "category": "religious", "coords": [-1.399641, 54.893161]}, {"name": "Northern Spire", "text": "Un pod modern pe hobane peste râul Wear, deschis în 2018 în Sunderland.", "category": "landmark", "coords": [-1.424673, 54.917178]}, {"name": "Queen Alexandra Bridge", "text": "Un pod impresionant cu două etaje din Sunderland, construit inițial pentru trafic feroviar și rutier.", "category": "landmark", "coords": [-1.405979, 54.914064]}, {"name": "The Parish Church of St Aidan", "text": "O biserică parohială din Sunderland care deservește comunitatea creștină.", "category": "religious", "coords": [-1.365184, 54.884225]}, {"name": "Stockton Road URC Church", "text": "O clădire a Bisericii Reformate Unite pe Stockton Road în Sunderland.", "category": "religious", "coords": [-1.384885, 54.899786]}, {"name": "Anglican Mortuary Chapel (derelict)", "text": "Rămășițele părăsite ale unei foste capele mortuare anglicane.", "category": "religious", "coords": [-1.418883, 54.899645]}, {"name": "St Luke's, Pallion", "text": "O biserică locală în zona Pallion din Sunderland.", "category": "religious", "coords": [-1.415245, 54.909692]}, {"name": "St Joseph's RC Church", "text": "O biserică romano-catolică ce deservește comunitatea din Sunderland.", "category": "religious", "coords": [-1.408133, 54.907235]}, {"name": "Holy Trinity Southwick", "text": "O biserică creștină în zona Southwick din Sunderland.", "category": "religious", "coords": [-1.405853, 54.920297]}, {"name": "St Gabriel's Church", "text": "O biserică anglicană din Sunderland dedicată Arhanghelului Gavriil.", "category": "religious", "coords": [-1.410243, 54.900627]}, {"name": "Saint Andrew's", "text": "Această biserică este cunoscută sub numele de 'Catedrala mișcării Arts and Crafts'.", "category": "religious", "coords": [-1.370972, 54.927471]}, {"name": "St Mark (closed)", "text": "O fostă clădire de biserică din Sunderland, care nu mai este folosită pentru slujbe.", "category": "religious", "coords": [-1.397381, 54.906083]}, {"name": "All Saints", "text": "O biserică istorică în zona Monkwearmouth din Sunderland.", "category": "religious", "coords": [-1.379644, 54.917424]}, {"name": "Sunderland City Hall", "text": "Clădirea administrativă modernă și sediul consiliului municipal din Sunderland.", "category": "historical", "coords": [-1.386333, 54.908283]}, {"name": "Wader Lake", "text": "Wader Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-1.478272, 54.89953]}, {"name": "Roker Park Lake", "text": "Roker Park Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-1.370007, 54.924353]}, {"name": "Saline lagoon", "text": "Saline lagoon este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-1.481116, 54.896534]}, {"name": "Model Boating Lake", "text": "Model Boating Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-1.471492, 54.877011]}, {"name": "Harry’s Game Shack", "text": "Harry’s Game Shack este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.", "category": "family", "coords": [-1.381684, 54.907365]}, {"name": "Shore Family Entertainment", "text": "Shore Family Entertainment este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.", "category": "family", "coords": [-1.369225, 54.935247]}, {"name": "Seldon’s Leisureworld", "text": "Seldon’s Leisureworld este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.", "category": "family", "coords": [-1.369168, 54.936673]}, {"name": "Hudson Road Playpark", "text": "Hudson Road Playpark este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-1.372916, 54.903929]}, {"name": "Hollycarrside Play Park", "text": "Hollycarrside Play Park este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-1.369291, 54.872659]}, {"name": "Carley Hill Play Area", "text": "Carley Hill Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-1.405138, 54.92914]}, {"name": "Spelter Works Road Play Area", "text": "Spelter Works Road Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-1.365284, 54.888813]}], "en": [{"name": "Penshaw Monument", "text": "A 1844 Doric temple built on a hill, dedicated to Lord Durham and visible for miles across the city skyline.", "category": "historical", "confidence": "high", "coords": [-1.48087, 54.8831]}, {"name": "Sunderland Museum and Winter Gardens", "text": "This museum showcases local and natural history alongside a stunning indoor botanical garden under glass.", "category": "museum", "confidence": "high", "coords": [-1.380449, 54.904254]}, {"name": "National Glass Centre", "text": "A contemporary cultural venue celebrating Sunderland's long glassmaking heritage with displays and demonstrations.", "category": "cultural", "confidence": "high", "coords": [-1.37097, 54.9129]}, {"name": "St Peter's Church, Monkwearmouth", "text": "One of the oldest churches in England, founded in 674 AD, once part of a major Anglo-Saxon monastery.", "category": "religious", "confidence": "high", "coords": [-1.3749, 54.9131]}, {"name": "Hylton Castle", "text": "The imposing ruins of a 14th-century gatehouse castle featuring an ornate facade with the Hylton family coats of arms.", "category": "fortress", "confidence": "high", "coords": [-1.441, 54.924]}, {"name": "Roker Pier and Lighthouse", "text": "A distinctive lighthouse and long stone pier protecting the harbor, popular for coastal walks and sea views.", "category": "historical", "confidence": "high", "coords": [-1.360673, 54.923077]}, {"name": "Stadium of Light", "text": "Home of Sunderland AFC, built on the site of a former coal mine, with a capacity of nearly 49,000 fans.", "category": "recreational", "confidence": "high", "coords": [-1.388173, 54.914429]}, {"name": "Mowbray Park", "text": "A beautiful Victorian city park featuring statues, a lake, and local links to the writer Lewis Carroll.", "category": "natural", "confidence": "high", "coords": [-1.37972, 54.9019]}, {"name": "Fulwell Windmill", "text": "The only working windmill in North East England, built in 1808 and now operating as a historic museum.", "category": "historical", "confidence": "high", "coords": [-1.387591, 54.924667]}, {"name": "Sunderland Empire Theatre", "text": "A grand Edwardian-style theatre renowned for hosting major West End productions and its rich performing arts history.", "category": "cultural", "confidence": "high", "coords": [-1.3892, 54.9064]}, {"name": "Keel Square", "text": "A modern public space in the city center honoring the region's shipbuilding legacy and maritime heritage.", "category": "civic", "confidence": "high", "coords": [-1.386431, 54.907335]}, {"name": "Sunderland Minster", "text": "The city's historic parish church, founded in 930 AD, serving today as a central spiritual and community hub.", "category": "religious", "confidence": "high", "coords": [-1.38885, 54.9058]}, {"name": "Wearmouth Bridge", "text": "An iconic iron bridge spanning the River Wear, connecting the city center with the northern parts of Sunderland.", "category": "historical", "confidence": "high", "coords": [-1.382778, 54.91]}, {"name": "Backhouse Park", "text": "A peaceful nature park known for its mature trees and beautiful display of daffodils every spring.", "category": "natural", "confidence": "high", "coords": [-1.381066, 54.893632]}, {"name": "Herrington Country Park", "text": "A vast park developed on former colliery land, ideal for hiking and offering views of the Penshaw Monument.", "category": "natural", "confidence": "high", "coords": [-1.47025, 54.877167]}, {"name": "Barnes Park", "text": "A popular family park with play areas, a duck pond, and beautifully restored Victorian landscaping features.", "category": "natural", "confidence": "high", "coords": [-1.4143, 54.8935]}, {"name": "Northern Gallery for Contemporary Art", "text": "This gallery presents innovative works by modern artists, located within the National Glass Centre building.", "category": "museum", "confidence": "high", "coords": [-1.382, 54.911]}, {"name": "Ryhope Engines Museum", "text": "A Victorian pumping station with two giant steam engines that are still operated on special steaming days.", "category": "museum", "confidence": "high", "coords": [-1.37306, 54.865]}, {"name": "Holy Trinity Church", "text": "A Georgian church in the old town area, now used as a cultural venue for heritage and community events.", "category": "religious", "confidence": "high", "coords": [-1.538339, 54.92054]}, {"name": "University of Sunderland", "text": "The university shapes the cityscape with modern riverside and city center campuses and educational facilities.", "category": "civic", "confidence": "high", "coords": [-1.3914, 54.9051]}, {"name": "Washington Old Hall", "text": "A 17th-century manor house that was the ancestral home of George Washington, the first US president.", "category": "historical", "confidence": "high", "coords": [-1.51644, 54.9027]}, {"name": "Bowes Railway", "text": "A historic rope-hauled railway used for coal transport, now preserved as an industrial heritage museum.", "category": "historical", "confidence": "high", "coords": [-1.56, 54.92]}, {"name": "Sunderland Station", "text": "The city's central railway hub, providing vital rail links to Newcastle, London, and the wider region.", "category": "station", "confidence": "high", "coords": [-1.382, 54.906]}, {"name": "The Lighthouse, Roker Cliff Park", "text": "A scenic lighthouse located in Roker Cliff Park, Sunderland.", "category": "landmark", "coords": [-1.366136, 54.931196]}, {"name": "Wave Basin Battery", "text": "A historic coastal fortification in Sunderland.", "category": "fortress", "coords": [-1.363258, 54.916446]}, {"name": "Defended settlement on Humbledon Hill", "text": "An archaeological site of an ancient settlement in Sunderland.", "category": "historical", "coords": [-1.409106, 54.890312]}, {"name": "Fans Museum", "text": "A museum in Sunderland dedicated to football fans.", "category": "museum", "coords": [-1.383668, 54.912243]}, {"name": "Roker Pier Lighthouse", "text": "A distinctive lighthouse at the end of the Roker Pier in Sunderland.", "category": "landmark", "coords": [-1.352495, 54.921315]}, {"name": "North Dock Tufa", "text": "An archaeological and geological site in Sunderland.", "category": "historical", "coords": [-1.367648, 54.91991]}, {"name": "Hendon Beach", "text": "The Hendon Beach stretch of coastline is located in the neighborhood of the same name within the city of Sunderland in North East England. This somewhat more rugged beach offers locals space for quiet shore walks away from major tourist crowds. Especially on clear days, it provides fascinating views of the North Sea.", "category": "recreational", "coords": [-1.357987, 54.888412]}, {"name": "Royalty Theatre", "text": "A local theatre in Sunderland offering various performances.", "category": "cultural", "coords": [-1.395807, 54.902678]}, {"name": "The Donnison School", "text": "A historic school building now serving as a museum.", "category": "museum", "coords": [-1.367721, 54.908011]}, {"name": "Fulwell Quarry (SSSI)", "text": "A nature reserve and site of geological significance in Sunderland.", "category": "natural", "coords": [-1.4047, 54.93161]}, {"name": "Carley Hill Quarry (SSSI)", "text": "A protected natural area and quarry in Sunderland.", "category": "natural", "coords": [-1.395856, 54.928454]}, {"name": "Humbledon Hill Quarry (SSSI)", "text": "A nature reserve of special geological significance.", "category": "natural", "coords": [-1.407091, 54.89088]}, {"name": "Fulwell Windmill visitor centre", "text": "A visitor centre located next to the historic Fulwell Windmill.", "category": "museum", "coords": [-1.389648, 54.928499]}, {"name": "Tunstall Hills", "text": "Prominent hills in Sunderland offering panoramic views over the city.", "category": "natural", "coords": [-1.390973, 54.883501]}, {"name": "Non-Conformist Mortuary chapel (ruins)", "text": "The ruins of a former mortuary chapel in Sunderland.", "category": "historical", "coords": [-1.419459, 54.900775]}, {"name": "Pigment And Toil", "text": "An art gallery in Sunderland showcasing local works.", "category": "museum", "coords": [-1.385238, 54.905967]}, {"name": "Doxford Gates", "text": "A historic monument in Sunderland known as Doxford Gates.", "category": "historical", "coords": [-1.41391, 54.914023]}, {"name": "Fulwell Acoustic Mirror", "text": "A concrete acoustic mirror from World War I used for early warning of aircraft.", "category": "historical", "coords": [-1.393888, 54.92963]}, {"name": "Roker Roundabout", "text": "A distinctive roundabout and meeting point in the Roker area of Sunderland.", "category": "landmark", "coords": [-1.365388, 54.924029]}, {"name": "Hills", "text": "A gallery in Sunderland dedicated to the visual arts.", "category": "museum", "coords": [-1.382756, 54.904742]}, {"name": "Wearmouth Colliery Coal drops", "text": "Remains of the historic coal loading drops of the Wearmouth Colliery.", "category": "historical", "coords": [-1.391218, 54.91271]}, {"name": "Southwick Limekilns", "text": "Ruins of historic lime kilns in the Southwick area of Sunderland.", "category": "historical", "coords": [-1.393126, 54.917309]}, {"name": "Cornhill Dock", "text": "Remains of the old dock facilities at Cornhill Dock in Sunderland.", "category": "historical", "coords": [-1.396063, 54.917885]}, {"name": "The Church of St. Columba", "text": "A Christian church in Sunderland dedicated to Saint Columba.", "category": "religious", "coords": [-1.393203, 54.920595]}, {"name": "West Park Church", "text": "A church building in the West Park area of Sunderland.", "category": "religious", "coords": [-1.385391, 54.901827]}, {"name": "Church of Saint Ignatius", "text": "A church dedicated to Saint Ignatius in Sunderland.", "category": "religious", "coords": [-1.371743, 54.899596]}, {"name": "St Mary's Catholic Church", "text": "A Roman Catholic church located in the center of Sunderland.", "category": "religious", "coords": [-1.382678, 54.908183]}, {"name": "St Nicholas", "text": "A church dedicated to Saint Nicholas in Sunderland.", "category": "religious", "coords": [-1.399641, 54.893161]}, {"name": "Northern Spire", "text": "A modern cable-stayed bridge over the River Wear, opened in 2018 in Sunderland.", "category": "landmark", "coords": [-1.424673, 54.917178]}, {"name": "Queen Alexandra Bridge", "text": "An impressive double-decker bridge in Sunderland, originally built for rail and road.", "category": "landmark", "coords": [-1.405979, 54.914064]}, {"name": "The Parish Church of St Aidan", "text": "A parish church in Sunderland serving the Christian community.", "category": "religious", "coords": [-1.365184, 54.884225]}, {"name": "Stockton Road URC Church", "text": "A United Reformed Church building located on Stockton Road in Sunderland.", "category": "religious", "coords": [-1.384885, 54.899786]}, {"name": "Anglican Mortuary Chapel (derelict)", "text": "The derelict remains of a former Anglican mortuary chapel.", "category": "religious", "coords": [-1.418883, 54.899645]}, {"name": "St Luke's, Pallion", "text": "A local church in the Pallion area of Sunderland.", "category": "religious", "coords": [-1.415245, 54.909692]}, {"name": "St Joseph's RC Church", "text": "A Roman Catholic church serving the community in Sunderland.", "category": "religious", "coords": [-1.408133, 54.907235]}, {"name": "Holy Trinity Southwick", "text": "A Christian church in the Southwick area of Sunderland.", "category": "religious", "coords": [-1.405853, 54.920297]}, {"name": "St Gabriel's Church", "text": "An Anglican church in Sunderland dedicated to the Archangel Gabriel.", "category": "religious", "coords": [-1.410243, 54.900627]}, {"name": "Saint Andrew's", "text": "This church is known as the 'Cathedral of the Arts and Crafts Movement'.", "category": "religious", "coords": [-1.370972, 54.927471]}, {"name": "St Mark (closed)", "text": "A former church building in Sunderland that is currently closed for worship.", "category": "religious", "coords": [-1.397381, 54.906083]}, {"name": "All Saints", "text": "A historic church in the Monkwearmouth area of Sunderland.", "category": "religious", "coords": [-1.379644, 54.917424]}, {"name": "Sunderland City Hall", "text": "The modern administrative building and seat of Sunderland's city council.", "category": "historical", "coords": [-1.386333, 54.908283]}, {"name": "Wader Lake", "text": "Wader Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-1.478272, 54.89953]}, {"name": "Roker Park Lake", "text": "Roker Park Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-1.370007, 54.924353]}, {"name": "Saline lagoon", "text": "Saline lagoon is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-1.481116, 54.896534]}, {"name": "Model Boating Lake", "text": "Model Boating Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-1.471492, 54.877011]}, {"name": "Harry’s Game Shack", "text": "Harry’s Game Shack is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.", "category": "family", "coords": [-1.381684, 54.907365]}, {"name": "Shore Family Entertainment", "text": "Shore Family Entertainment is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.", "category": "family", "coords": [-1.369225, 54.935247]}, {"name": "Seldon’s Leisureworld", "text": "Seldon’s Leisureworld is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.", "category": "family", "coords": [-1.369168, 54.936673]}, {"name": "Hudson Road Playpark", "text": "Hudson Road Playpark is a playground in Sunderland, offering outdoor fun for families.", "category": "family", "coords": [-1.372916, 54.903929]}, {"name": "Hollycarrside Play Park", "text": "Hollycarrside Play Park is a playground in Sunderland, offering outdoor fun for families.", "category": "family", "coords": [-1.369291, 54.872659]}, {"name": "Carley Hill Play Area", "text": "Carley Hill Play Area is a playground in Sunderland, offering outdoor fun for families.", "category": "family", "coords": [-1.405138, 54.92914]}, {"name": "Spelter Works Road Play Area", "text": "Spelter Works Road Play Area is a playground in Sunderland, offering outdoor fun for families.", "category": "family", "coords": [-1.365284, 54.888813]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Penshaw Monument",
+                  "text": "Ein 1844 erbauter dorischer Tempel auf einem Hügel, der Lord Durham gewidmet ist und weithin sichtbar über der Stadt thront.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.48087,
+                        54.8831
+                  ]
+            },
+            {
+                  "name": "Sunderland Museum and Winter Gardens",
+                  "text": "Dieses Museum zeigt lokale Geschichte und Naturkunde sowie einen beeindruckenden Glashaus-Garten mit exotischen Pflanzen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.380449,
+                        54.904254
+                  ]
+            },
+            {
+                  "name": "National Glass Centre",
+                  "text": "Ein zeitgenössisches Kulturzentrum, das die lange Glastradition Sunderlands feiert und Glasbläser-Vorführungen anbietet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37097,
+                        54.9129
+                  ]
+            },
+            {
+                  "name": "St Peter's Church, Monkwearmouth",
+                  "text": "Eine der ältesten Kirchen Englands, die im Jahr 674 n. Chr. gegründet wurde und Teil eines bedeutenden Klosters war.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3749,
+                        54.9131
+                  ]
+            },
+            {
+                  "name": "Hylton Castle",
+                  "text": "Eine imposante Burgruine aus dem 14. Jahrhundert mit einer reich verzierten Fassade und Wappen der Familie Hylton.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -1.441,
+                        54.924
+                  ]
+            },
+            {
+                  "name": "Roker Pier and Lighthouse",
+                  "text": "Ein markanter Leuchtturm und eine lange Mole, die Schutz für den Hafen bieten und beliebte Orte für Spaziergänge sind.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.360673,
+                        54.923077
+                  ]
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Die moderne Heimat des Sunderland AFC, erbaut auf dem Gelände einer ehemaligen Zeche, bietet Platz für fast 49.000 Fans.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -1.388173,
+                        54.914429
+                  ]
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "Ein wunderschöner viktorianischer Stadtpark mit Statuen, einem See und Verbindungen zum Schriftsteller Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37972,
+                        54.9019
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill",
+                  "text": "Die einzige funktionstüchtige Windmühle im Nordosten Englands, die 1808 erbaut wurde und heute ein Museum ist.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.387591,
+                        54.924667
+                  ]
+            },
+            {
+                  "name": "Sunderland Empire Theatre",
+                  "text": "Ein prächtiges Theater im edwardianischen Stil, bekannt für große West End Produktionen und seine reiche Geschichte.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3892,
+                        54.9064
+                  ]
+            },
+            {
+                  "name": "Keel Square",
+                  "text": "Ein moderner öffentlicher Platz im Stadtzentrum, der das maritime Erbe und den Schiffbau der Region würdigt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.386431,
+                        54.907335
+                  ]
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "Die historische Stadtpfarrkirche, die im Jahr 930 n. Chr. gegründet wurde und heute ein wichtiges geistliches Zentrum ist.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.38885,
+                        54.9058
+                  ]
+            },
+            {
+                  "name": "Wearmouth Bridge",
+                  "text": "Eine ikonische Eisenbrücke über den Fluss Wear, die das Stadtzentrum mit dem nördlichen Teil Sunderlands verbindet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382778,
+                        54.91
+                  ]
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "Ein friedlicher Naturpark, der für seine alten Bäume und die jährliche Osterglockenblüte bekannt ist.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.381066,
+                        54.893632
+                  ]
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "Ein weitläufiger Park auf ehemaligem Bergbaugelände, ideal für Wanderungen und mit Blick auf das Penshaw Monument.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.47025,
+                        54.877167
+                  ]
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "Ein beliebter Familienpark mit Spielplätzen, einem Ententeich und renovierten viktorianischen Merkmalen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.4143,
+                        54.8935
+                  ]
+            },
+            {
+                  "name": "Northern Gallery for Contemporary Art",
+                  "text": "Diese Galerie zeigt innovative Werke moderner Künstler und befindet sich im National Glass Centre.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.911
+                  ]
+            },
+            {
+                  "name": "Ryhope Engines Museum",
+                  "text": "Ein viktorianisches Pumpwerk mit zwei riesigen Dampfmaschinen, die noch heute zu besonderen Anlässen in Betrieb sind.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37306,
+                        54.865
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Eine georgianische Kirche im alten Stadtkern, die heute als Kultur- und Veranstaltungszentrum genutzt wird.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.538339,
+                        54.92054
+                  ]
+            },
+            {
+                  "name": "University of Sunderland",
+                  "text": "Die Universität prägt das Stadtbild mit modernen Campusgebäuden am Flussufer und im Stadtzentrum.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3914,
+                        54.9051
+                  ]
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "Das Herrenhaus aus dem 17. Jahrhundert war der Stammsitz der Vorfahren von George Washington, dem ersten US-Präsidenten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.51644,
+                        54.9027
+                  ]
+            },
+            {
+                  "name": "Bowes Railway",
+                  "text": "Eine historische Seilbahn-Eisenbahn, die einst Kohle transportierte und heute als Museumsbahn erhalten bleibt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.56,
+                        54.92
+                  ]
+            },
+            {
+                  "name": "Sunderland Station",
+                  "text": "Der zentrale Bahnhof der Stadt, der eine wichtige Verbindung nach Newcastle und London bietet.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.906
+                  ]
+            },
+            {
+                  "name": "The Lighthouse, Roker Cliff Park",
+                  "text": "Ein malerischer Leuchtturm im Roker Cliff Park in Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.366136,
+                        54.931196
+                  ]
+            },
+            {
+                  "name": "Wave Basin Battery",
+                  "text": "Eine historische Küstenbefestigung in Sunderland.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.363258,
+                        54.916446
+                  ]
+            },
+            {
+                  "name": "Defended settlement on Humbledon Hill",
+                  "text": "Eine archäologische Ausgrabungsstätte einer antiken Siedlung in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.409106,
+                        54.890312
+                  ]
+            },
+            {
+                  "name": "Fans Museum",
+                  "text": "Ein Museum in Sunderland, das den Fußballfans gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -1.383668,
+                        54.912243
+                  ]
+            },
+            {
+                  "name": "Roker Pier Lighthouse",
+                  "text": "Ein markanter Leuchtturm am Ende des Roker-Piers in Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.352495,
+                        54.921315
+                  ]
+            },
+            {
+                  "name": "North Dock Tufa",
+                  "text": "Eine archäologische und geologische Stätte in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.367648,
+                        54.91991
+                  ]
+            },
+            {
+                  "name": "Hendon Beach",
+                  "text": "Der Küstenabschnitt von Hendon Beach liegt im gleichnamigen Viertel der Stadt Sunderland im Nordosten Englands. Dieser etwas rauere Strand bietet Einheimischen Raum für ruhige Strandspaziergänge fernab großer Touristenströme. Vor allem an klaren Tagen ergeben sich hier faszinierende Ausblicke auf die Nordsee.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.357987,
+                        54.888412
+                  ]
+            },
+            {
+                  "name": "Royalty Theatre",
+                  "text": "Ein lokales Theater in Sunderland, das verschiedene Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.395807,
+                        54.902678
+                  ]
+            },
+            {
+                  "name": "The Donnison School",
+                  "text": "Ein historisches Schulgebäude, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -1.367721,
+                        54.908011
+                  ]
+            },
+            {
+                  "name": "Fulwell Quarry (SSSI)",
+                  "text": "Ein Naturschutzgebiet und geologisch bedeutendes Gelände in Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.4047,
+                        54.93161
+                  ]
+            },
+            {
+                  "name": "Carley Hill Quarry (SSSI)",
+                  "text": "Ein geschütztes Naturareal und Steinbruch in Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.395856,
+                        54.928454
+                  ]
+            },
+            {
+                  "name": "Humbledon Hill Quarry (SSSI)",
+                  "text": "Ein Naturschutzgebiet mit besonderer geologischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        -1.407091,
+                        54.89088
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill visitor centre",
+                  "text": "Ein Besucherzentrum neben der historischen Windmühle von Fulwell.",
+                  "category": "museum",
+                  "coords": [
+                        -1.389648,
+                        54.928499
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills",
+                  "text": "Markante Hügel in Sunderland, die einen Panoramablick über die Stadt bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -1.390973,
+                        54.883501
+                  ]
+            },
+            {
+                  "name": "Non-Conformist Mortuary chapel (ruins)",
+                  "text": "Ruinen einer ehemaligen Friedhofskapelle in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.419459,
+                        54.900775
+                  ]
+            },
+            {
+                  "name": "Pigment And Toil",
+                  "text": "Eine Kunstgalerie in Sunderland, die lokale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -1.385238,
+                        54.905967
+                  ]
+            },
+            {
+                  "name": "Doxford Gates",
+                  "text": "Ein historisches Denkmal in Sunderland, bekannt als Doxford Gates.",
+                  "category": "historical",
+                  "coords": [
+                        -1.41391,
+                        54.914023
+                  ]
+            },
+            {
+                  "name": "Fulwell Acoustic Mirror",
+                  "text": "Ein Betonspiegel aus dem Ersten Weltkrieg, der zur akustischen Früherkennung von Flugzeugen diente.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393888,
+                        54.92963
+                  ]
+            },
+            {
+                  "name": "Roker Roundabout",
+                  "text": "Ein markanter Kreisverkehr und Treffpunkt im Stadtteil Roker in Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.365388,
+                        54.924029
+                  ]
+            },
+            {
+                  "name": "Hills",
+                  "text": "Eine Galerie in Sunderland, die sich der bildenden Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -1.382756,
+                        54.904742
+                  ]
+            },
+            {
+                  "name": "Wearmouth Colliery Coal drops",
+                  "text": "Überreste der historischen Kohleverladestation der Wearmouth-Mine.",
+                  "category": "historical",
+                  "coords": [
+                        -1.391218,
+                        54.91271
+                  ]
+            },
+            {
+                  "name": "Southwick Limekilns",
+                  "text": "Ruinen historischer Kalköfen im Stadtteil Southwick in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393126,
+                        54.917309
+                  ]
+            },
+            {
+                  "name": "Cornhill Dock",
+                  "text": "Überreste der alten Hafenanlagen am Cornhill Dock in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.396063,
+                        54.917885
+                  ]
+            },
+            {
+                  "name": "The Church of St. Columba",
+                  "text": "Eine christliche Kirche in Sunderland, die dem Heiligen Columba gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -1.393203,
+                        54.920595
+                  ]
+            },
+            {
+                  "name": "West Park Church",
+                  "text": "Ein Kirchengebäude im West Park Viertel von Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.385391,
+                        54.901827
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Eine dem Heiligen Ignatius gewidmete Kirche in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.371743,
+                        54.899596
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "Eine römisch-katholische Kirche im Zentrum von Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.382678,
+                        54.908183
+                  ]
+            },
+            {
+                  "name": "St Nicholas",
+                  "text": "Eine dem Heiligen Nikolaus gewidmete Kirche in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.399641,
+                        54.893161
+                  ]
+            },
+            {
+                  "name": "Northern Spire",
+                  "text": "Eine moderne Schrägseilbrücke über den Wear, die 2018 in Sunderland eröffnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.424673,
+                        54.917178
+                  ]
+            },
+            {
+                  "name": "Queen Alexandra Bridge",
+                  "text": "Eine beeindruckende Doppelstockbrücke in Sunderland, die ursprünglich für Schiene und Straße gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.405979,
+                        54.914064
+                  ]
+            },
+            {
+                  "name": "The Parish Church of St Aidan",
+                  "text": "Eine der christlichen Gemeinde dienende Pfarrkirche in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.365184,
+                        54.884225
+                  ]
+            },
+            {
+                  "name": "Stockton Road URC Church",
+                  "text": "Ein Kirchengebäude der United Reformed Church an der Stockton Road in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.384885,
+                        54.899786
+                  ]
+            },
+            {
+                  "name": "Anglican Mortuary Chapel (derelict)",
+                  "text": "Die verfallenen Überreste einer ehemaligen anglikanischen Friedhofskapelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.418883,
+                        54.899645
+                  ]
+            },
+            {
+                  "name": "St Luke's, Pallion",
+                  "text": "Eine lokale Kirche im Stadtteil Pallion in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.415245,
+                        54.909692
+                  ]
+            },
+            {
+                  "name": "St Joseph's RC Church",
+                  "text": "Eine römisch-katholische Kirche, die der Gemeinde in Sunderland dient.",
+                  "category": "religious",
+                  "coords": [
+                        -1.408133,
+                        54.907235
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Southwick",
+                  "text": "Eine christliche Kirche im Stadtteil Southwick in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.405853,
+                        54.920297
+                  ]
+            },
+            {
+                  "name": "St Gabriel's Church",
+                  "text": "Eine anglikanische Kirche in Sunderland, die dem Erzengel Gabriel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -1.410243,
+                        54.900627
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "Diese Kirche ist als 'Kathedrale der Arts-and-Crafts-Bewegung' bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.370972,
+                        54.927471
+                  ]
+            },
+            {
+                  "name": "St Mark (closed)",
+                  "text": "Ein ehemaliges Kirchengebäude in Sunderland, das derzeit nicht mehr für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -1.397381,
+                        54.906083
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Eine historische Kirche im Stadtteil Monkwearmouth in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.379644,
+                        54.917424
+                  ]
+            },
+            {
+                  "name": "Sunderland City Hall",
+                  "text": "Das moderne Verwaltungsgebäude und der Sitz der Stadtverwaltung von Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.386333,
+                        54.908283
+                  ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake ist ein See in Sunderland, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld ist eine Spielhalle in Sunderland, ideal für Familien, die spannende Unterhaltung suchen.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area ist ein Spielplatz in Sunderland, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills Local Nature Reserve",
+                  "text": "Ein Naturschutzgebiet, das für seine einzigartige Geologie und vielfältige Wildflora bedeutend ist.",
+                  "category": "natural",
+                  "coords": [
+                        -1.385223,
+                        54.88044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Penshaw-emlékmű",
+                  "text": "Egy 1844-ben épült dór templomutánzat egy dombtetőn, amely Lord Durham emlékére készült és messziről látható.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.48087,
+                        54.8831
+                  ]
+            },
+            {
+                  "name": "Sunderland Múzeum és Télikert",
+                  "text": "Ez a múzeum a helyi történelmet mutatja be, mellette egy lenyűgöző üvegházzal, ahol egzotikus növények élnek.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.380449,
+                        54.904254
+                  ]
+            },
+            {
+                  "name": "Nemzeti Üvegközpont",
+                  "text": "Kortárs kulturális központ, amely Sunderland híres üveggyártási múltját mutatja be bemutatókkal és kiállításokkal.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37097,
+                        54.9129
+                  ]
+            },
+            {
+                  "name": "Szent Péter-templom, Monkwearmouth",
+                  "text": "Anglia egyik legrégebbi temploma, amelyet 674-ben alapítottak, és egykor egy fontos kolostor része volt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3749,
+                        54.9131
+                  ]
+            },
+            {
+                  "name": "Hylton-kastély",
+                  "text": "Egy 14. századi várkastély romja, amely gazdagon díszített homlokzatáról és a Hylton család címereiről ismert.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -1.441,
+                        54.924
+                  ]
+            },
+            {
+                  "name": "Roker móló és világítótorony",
+                  "text": "A kikötőt védő hosszú móló és a jellegzetes világítótorony a város egyik legnépszerűbb sétahelyszíne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.360673,
+                        54.923077
+                  ]
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "A Sunderland AFC otthona, amelyet egy egykori szénbánya helyén építettek, és közel 49 000 néző befogadására alkalmas.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -1.388173,
+                        54.914429
+                  ]
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "Viktoriánus stílusú városi park szobrokkal, tóval, amely Lewis Carroll íróhoz is több szállal kötődik.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37972,
+                        54.9019
+                  ]
+            },
+            {
+                  "name": "Fulwell szélmalom",
+                  "text": "Északkelet-Anglia egyetlen működőképes szélmalma, amely 1808-ban épült, és ma múzeumként látogatható.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.387591,
+                        54.924667
+                  ]
+            },
+            {
+                  "name": "Sunderland Empire Színház",
+                  "text": "Pompás edwardi stílusú színház, amely híres a nagy West End produkcióiról és gazdag történelméről.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3892,
+                        54.9064
+                  ]
+            },
+            {
+                  "name": "Keel tér",
+                  "text": "Modern közösségi tér a városközpontban, amely a régió hajóépítő múltjának és tengerészeti örökségének állít emléket.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.386431,
+                        54.907335
+                  ]
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "A város történelmi plébániatemploma, amelyet 930-ban alapítottak, és ma is fontos lelki és közösségi központ.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.38885,
+                        54.9058
+                  ]
+            },
+            {
+                  "name": "Wearmouth-híd",
+                  "text": "Ikonikus vashíd a Wear folyó felett, amely összeköti a városközpontot Sunderland északi részével.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382778,
+                        54.91
+                  ]
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "Békés természetvédelmi park, amely hatalmas régi fáiról és a tavaszi nárciszvirágzásról híres.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.381066,
+                        54.893632
+                  ]
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "Egykori bánya területén kialakított tágas park, amely kiváló túrázásra és rálátást nyújt a Penshaw-emlékműre.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.47025,
+                        54.877167
+                  ]
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "Népszerű családi park játszóterekkel, kacsás tóval és szépen felújított viktoriánus elemekkel.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.4143,
+                        54.8935
+                  ]
+            },
+            {
+                  "name": "Északi Kortárs Művészeti Galéria",
+                  "text": "Ez a galéria innovatív modern művészek munkáit mutatja be, a Nemzeti Üvegközpont épületében található.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.911
+                  ]
+            },
+            {
+                  "name": "Ryhope Engines Múzeum",
+                  "text": "Viktoriánus szivattyútelep két hatalmas gőzgéppel, amelyeket ünnepi alkalmakkor ma is beindítanak.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37306,
+                        54.865
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "György-kori templom a régi városközpontban, amelyet ma kulturális rendezvényhelyszínként használnak.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.538339,
+                        54.92054
+                  ]
+            },
+            {
+                  "name": "Sunderland Egyetem",
+                  "text": "Az egyetem modern épületei meghatározzák a folyóparti és a belvárosi városképet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3914,
+                        54.9051
+                  ]
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "17. századi udvarház, amely George Washington, az első amerikai elnök őseinek családi fészke volt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.51644,
+                        54.9027
+                  ]
+            },
+            {
+                  "name": "Bowes Vasút",
+                  "text": "Történelmi kötélpályás vasút, amely egykor szenet szállított, ma pedig múzeumvasútként üzemel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.56,
+                        54.92
+                  ]
+            },
+            {
+                  "name": "Sunderland Vasútállomás",
+                  "text": "A város központi vasúti csomópontja, amely fontos kapcsolatot biztosít Newcastle és London felé.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.906
+                  ]
+            },
+            {
+                  "name": "The Lighthouse, Roker Cliff Park",
+                  "text": "Festői világítótorony a sunderlandi Roker Cliff Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.366136,
+                        54.931196
+                  ]
+            },
+            {
+                  "name": "Wave Basin Battery",
+                  "text": "Történelmi tengerparti erődítmény Sunderlandben.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.363258,
+                        54.916446
+                  ]
+            },
+            {
+                  "name": "Defended settlement on Humbledon Hill",
+                  "text": "Egy ókori település régészeti lelőhelye Sunderlandben.",
+                  "category": "historical",
+                  "coords": [
+                        -1.409106,
+                        54.890312
+                  ]
+            },
+            {
+                  "name": "Fans Museum",
+                  "text": "A futballszurkolóknak szentelt múzeum Sunderlandben.",
+                  "category": "museum",
+                  "coords": [
+                        -1.383668,
+                        54.912243
+                  ]
+            },
+            {
+                  "name": "Roker Pier Lighthouse",
+                  "text": "Jellegzetes világítótorony a sunderlandi Roker-gát végén.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.352495,
+                        54.921315
+                  ]
+            },
+            {
+                  "name": "North Dock Tufa",
+                  "text": "Régészeti és geológiai lelőhely Sunderlandben.",
+                  "category": "historical",
+                  "coords": [
+                        -1.367648,
+                        54.91991
+                  ]
+            },
+            {
+                  "name": "Hendon Beach",
+                  "text": "A Hendon Beach partszakasza a tengerparti Sunderland azonos nevű negyedében található Északkelet-Angliában. Ez a kissé zordabb strand csendes tengerparti sétákat kínál a helyieknek, távol a nagy turistatömegektől. Különösen tiszta napokon lenyűgöző kilátás nyílik innen az Északi-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.357987,
+                        54.888412
+                  ]
+            },
+            {
+                  "name": "Royalty Theatre",
+                  "text": "Helyi színház Sunderlandben, amely különféle előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.395807,
+                        54.902678
+                  ]
+            },
+            {
+                  "name": "The Donnison School",
+                  "text": "Történelmi iskolaépület, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -1.367721,
+                        54.908011
+                  ]
+            },
+            {
+                  "name": "Fulwell Quarry (SSSI)",
+                  "text": "Természetvédelmi terület és geológiailag jelentős helyszín Sunderlandben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.4047,
+                        54.93161
+                  ]
+            },
+            {
+                  "name": "Carley Hill Quarry (SSSI)",
+                  "text": "Védett természeti terület és kőfejtő Sunderlandben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.395856,
+                        54.928454
+                  ]
+            },
+            {
+                  "name": "Humbledon Hill Quarry (SSSI)",
+                  "text": "Különleges geológiai jelentőségű természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -1.407091,
+                        54.89088
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill visitor centre",
+                  "text": "Látogatóközpont a történelmi fulwelli szélmalom mellett.",
+                  "category": "museum",
+                  "coords": [
+                        -1.389648,
+                        54.928499
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills",
+                  "text": "Jellegzetes dombok Sunderlandben, amelyek panorámás kilátást nyújtanak a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.390973,
+                        54.883501
+                  ]
+            },
+            {
+                  "name": "Non-Conformist Mortuary chapel (ruins)",
+                  "text": "Egy egykori temetőkápolna romjai Sunderlandben.",
+                  "category": "historical",
+                  "coords": [
+                        -1.419459,
+                        54.900775
+                  ]
+            },
+            {
+                  "name": "Pigment And Toil",
+                  "text": "Művészeti galéria Sunderlandben, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.385238,
+                        54.905967
+                  ]
+            },
+            {
+                  "name": "Doxford Gates",
+                  "text": "Sunderland egyik történelmi emlékműve, a Doxford Gates.",
+                  "category": "historical",
+                  "coords": [
+                        -1.41391,
+                        54.914023
+                  ]
+            },
+            {
+                  "name": "Fulwell Acoustic Mirror",
+                  "text": "Az első világháborúból származó betonhangtükör, amelyet repülőgépek észlelésére használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393888,
+                        54.92963
+                  ]
+            },
+            {
+                  "name": "Roker Roundabout",
+                  "text": "Egy jellegzetes körforgalom és találkozási pont Sunderland Roker negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.365388,
+                        54.924029
+                  ]
+            },
+            {
+                  "name": "Hills",
+                  "text": "Képzőművészeti galéria Sunderlandben.",
+                  "category": "museum",
+                  "coords": [
+                        -1.382756,
+                        54.904742
+                  ]
+            },
+            {
+                  "name": "Wearmouth Colliery Coal drops",
+                  "text": "A Wearmouth kőszénbánya egykori szénrakodóhelyének maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -1.391218,
+                        54.91271
+                  ]
+            },
+            {
+                  "name": "Southwick Limekilns",
+                  "text": "Történelmi mészégető kemencék romjai Sunderland Southwick negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393126,
+                        54.917309
+                  ]
+            },
+            {
+                  "name": "Cornhill Dock",
+                  "text": "A sunderlandi Cornhill Dock régi kikötői létesítményeinek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -1.396063,
+                        54.917885
+                  ]
+            },
+            {
+                  "name": "The Church of St. Columba",
+                  "text": "Szent Columbának szentelt keresztény templom Sunderlandben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.393203,
+                        54.920595
+                  ]
+            },
+            {
+                  "name": "West Park Church",
+                  "text": "Templomépület Sunderland West Park negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -1.385391,
+                        54.901827
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Szent Ignácnak szentelt templom Sunderlandben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.371743,
+                        54.899596
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "Római katolikus templom Sunderland központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -1.382678,
+                        54.908183
+                  ]
+            },
+            {
+                  "name": "St Nicholas",
+                  "text": "Szent Miklósnak szentelt templom Sunderlandben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.399641,
+                        54.893161
+                  ]
+            },
+            {
+                  "name": "Northern Spire",
+                  "text": "A Wear folyó felett átívelő modern ferdekábeles híd, amelyet 2018-ban adtak át Sunderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.424673,
+                        54.917178
+                  ]
+            },
+            {
+                  "name": "Queen Alexandra Bridge",
+                  "text": "Lenyűgöző kétszintes híd Sunderlandben, amely eredetileg vasúti és közúti forgalom számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.405979,
+                        54.914064
+                  ]
+            },
+            {
+                  "name": "The Parish Church of St Aidan",
+                  "text": "Sunderland egyik plébániatemploma, amely a keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -1.365184,
+                        54.884225
+                  ]
+            },
+            {
+                  "name": "Stockton Road URC Church",
+                  "text": "Az Egyesült Református Egyház templomépülete a sunderlandi Stockton Roadon.",
+                  "category": "religious",
+                  "coords": [
+                        -1.384885,
+                        54.899786
+                  ]
+            },
+            {
+                  "name": "Anglican Mortuary Chapel (derelict)",
+                  "text": "Egy egykori anglikán temetőkápolna romos maradványai.",
+                  "category": "religious",
+                  "coords": [
+                        -1.418883,
+                        54.899645
+                  ]
+            },
+            {
+                  "name": "St Luke's, Pallion",
+                  "text": "Helyi templom Sunderland Pallion negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -1.415245,
+                        54.909692
+                  ]
+            },
+            {
+                  "name": "St Joseph's RC Church",
+                  "text": "Római katolikus templom, amely a sunderlandi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -1.408133,
+                        54.907235
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Southwick",
+                  "text": "Keresztény templom Sunderland Southwick negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -1.405853,
+                        54.920297
+                  ]
+            },
+            {
+                  "name": "St Gabriel's Church",
+                  "text": "Szent Gábriel arkangyalnak szentelt anglikán templom Sunderlandben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.410243,
+                        54.900627
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "Ez a templom az 'Arts and Crafts mozgalom katedrálisaként' ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -1.370972,
+                        54.927471
+                  ]
+            },
+            {
+                  "name": "St Mark (closed)",
+                  "text": "Egykori templomépület Sunderlandben, amely jelenleg nem üzemel.",
+                  "category": "religious",
+                  "coords": [
+                        -1.397381,
+                        54.906083
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Történelmi templom Sunderland Monkwearmouth negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -1.379644,
+                        54.917424
+                  ]
+            },
+            {
+                  "name": "Sunderland City Hall",
+                  "text": "Sunderland modern közigazgatási épülete és a városi tanács székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -1.386333,
+                        54.908283
+                  ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "A(z) Wader Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "A(z) Roker Park Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "A(z) Saline lagoon egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "A(z) Model Boating Lake egy tó Sunderland területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "A(z) Harry’s Game Shack egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "A(z) Shore Family Entertainment egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "A(z) Seldon’s Leisureworld egy játékterem Sunderland területén, amely tökéletes a szórakozást kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "A(z) Hudson Road Playpark egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "A(z) Hollycarrside Play Park egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "A(z) Carley Hill Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "A(z) Spelter Works Road Play Area egy játszótér Sunderland területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills Local Nature Reserve",
+                  "text": "Egy természetvédelmi terület, amely egyedülálló geológiájáról és változatos vadvilágáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -1.385223,
+                        54.88044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentul Penshaw",
+                  "text": "Un templu doric construit în 1844 pe un deal, dedicat Lordului Durham și vizibil de la mare distanță deasupra orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.48087,
+                        54.8831
+                  ]
+            },
+            {
+                  "name": "Muzeul Sunderland și Grădinile de Iarnă",
+                  "text": "Acest muzeu prezintă istoria locală și istoria naturală, alături de o grădină botanică impresionantă sub sticlă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.380449,
+                        54.904254
+                  ]
+            },
+            {
+                  "name": "Centrul Național al Sticlei",
+                  "text": "Un centru cultural contemporan care celebrează tradiția îndelungată a sticlăriei din Sunderland prin expoziții și demonstrații.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37097,
+                        54.9129
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Petru, Monkwearmouth",
+                  "text": "Una dintre cele mai vechi biserici din Anglia, fondată în anul 674 d.Hr., parte a unei mănăstiri anglo-saxone importante.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3749,
+                        54.9131
+                  ]
+            },
+            {
+                  "name": "Castelul Hylton",
+                  "text": "O ruină impunătoare de castel din secolul al XIV-lea, cunoscută pentru fațada sa decorată cu blazoanele familiei Hylton.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -1.441,
+                        54.924
+                  ]
+            },
+            {
+                  "name": "Digul și Farul Roker",
+                  "text": "Un far distinctiv și un dig lung care oferă protecție portului, fiind locuri populare pentru plimbări pe malul mării.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.360673,
+                        54.923077
+                  ]
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Casa clubului de fotbal Sunderland AFC, construită pe locul unei foste mine de cărbune, cu o capacitate de aproape 49.000 de locuri.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -1.388173,
+                        54.914429
+                  ]
+            },
+            {
+                  "name": "Parcul Mowbray",
+                  "text": "Un parc orășenesc victorian frumos, cu statui, un lac și legături cu scriitorul Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37972,
+                        54.9019
+                  ]
+            },
+            {
+                  "name": "Moara de vânt Fulwell",
+                  "text": "Singura moară de vânt funcțională din nord-estul Angliei, construită în 1808 și transformată astăzi în muzeu.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.387591,
+                        54.924667
+                  ]
+            },
+            {
+                  "name": "Teatrul Empire Sunderland",
+                  "text": "Un teatru magnific în stil eduardian, renumit pentru marile producții West End și istoria sa culturală bogată.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3892,
+                        54.9064
+                  ]
+            },
+            {
+                  "name": "Piața Keel",
+                  "text": "O piață publică modernă în centrul orașului, care onorează patrimoniul maritim și tradiția construcțiilor navale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.386431,
+                        54.907335
+                  ]
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "Biserica parohială istorică a orașului, fondată în anul 930 d.Hr., care servește astăzi ca centru spiritual central.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.38885,
+                        54.9058
+                  ]
+            },
+            {
+                  "name": "Podul Wearmouth",
+                  "text": "Un pod de fier iconic peste râul Wear, care face legătura între centrul orașului și partea de nord a regiunii Sunderland.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382778,
+                        54.91
+                  ]
+            },
+            {
+                  "name": "Parcul Backhouse",
+                  "text": "Un parc liniștit, renumit pentru arborii săi seculari și spectacolul oferit de narcisele înflorite în fiecare primăvară.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.381066,
+                        54.893632
+                  ]
+            },
+            {
+                  "name": "Parcul Herrington Country",
+                  "text": "Un parc vast amenajat pe terenul unei foste mine, ideal pentru drumeții și cu vedere spre Monumentul Penshaw.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.47025,
+                        54.877167
+                  ]
+            },
+            {
+                  "name": "Parcul Barnes",
+                  "text": "Un parc popular pentru familii, dotat cu locuri de joacă, un iaz cu rațe și elemente victoriene restaurate.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.4143,
+                        54.8935
+                  ]
+            },
+            {
+                  "name": "Galeria de Nord pentru Artă Contemporană",
+                  "text": "Această galerie expune lucrări inovatoare ale artiștilor moderni, fiind situată în incinta Centrului Național al Sticlei.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.911
+                  ]
+            },
+            {
+                  "name": "Muzeul Motoarelor Ryhope",
+                  "text": "O stație de pompare victoriană cu două motoare cu aburi gigantice, care sunt puse în funcțiune la ocazii speciale.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37306,
+                        54.865
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "O biserică georgiană situată în centrul vechi al orașului, utilizată în prezent ca centru pentru evenimente culturale.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.538339,
+                        54.92054
+                  ]
+            },
+            {
+                  "name": "Universitatea din Sunderland",
+                  "text": "Universitatea definește peisajul urban cu campusuri moderne pe malul râului și în centrul orașului.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3914,
+                        54.9051
+                  ]
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "Un conac din secolul al XVII-lea care a fost casa strămoșilor lui George Washington, primul președinte al SUA.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.51644,
+                        54.9027
+                  ]
+            },
+            {
+                  "name": "Calea Ferată Bowes",
+                  "text": "O cale ferată istorică cu cablu, folosită în trecut pentru transportul cărbunelui, păstrată acum ca muzeu feroviar.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.56,
+                        54.92
+                  ]
+            },
+            {
+                  "name": "Gara Sunderland",
+                  "text": "Nodul feroviar central al orașului, oferind conexiuni esențiale spre Newcastle și Londra.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.906
+                  ]
+            },
+            {
+                  "name": "The Lighthouse, Roker Cliff Park",
+                  "text": "Un far pitoresc situat în Roker Cliff Park din Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.366136,
+                        54.931196
+                  ]
+            },
+            {
+                  "name": "Wave Basin Battery",
+                  "text": "O fortificație de coastă istorică din Sunderland.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.363258,
+                        54.916446
+                  ]
+            },
+            {
+                  "name": "Defended settlement on Humbledon Hill",
+                  "text": "Un sit arheologic al unei așezări antice din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.409106,
+                        54.890312
+                  ]
+            },
+            {
+                  "name": "Fans Museum",
+                  "text": "Un muzeu din Sunderland dedicat fanilor fotbalului.",
+                  "category": "museum",
+                  "coords": [
+                        -1.383668,
+                        54.912243
+                  ]
+            },
+            {
+                  "name": "Roker Pier Lighthouse",
+                  "text": "Un far distinctiv situat la capătul debarcaderului Roker din Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.352495,
+                        54.921315
+                  ]
+            },
+            {
+                  "name": "North Dock Tufa",
+                  "text": "Un sit arheologic și geologic din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.367648,
+                        54.91991
+                  ]
+            },
+            {
+                  "name": "Hendon Beach",
+                  "text": "Secțiunea de coastă Hendon Beach este situată în cartierul cu același nume al orașului Sunderland din nord-estul Angliei. Această plajă ceva mai aspră oferă localnicilor spațiu pentru plimbări liniștite pe țărm, departe de mulțimile mari de turiști. Mai ales în zilele senine, priveliștile asupra Mării Nordului sunt fascinante.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.357987,
+                        54.888412
+                  ]
+            },
+            {
+                  "name": "Royalty Theatre",
+                  "text": "Un teatru local din Sunderland care oferă diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.395807,
+                        54.902678
+                  ]
+            },
+            {
+                  "name": "The Donnison School",
+                  "text": "O clădire școlară istorică, utilizată în prezent ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -1.367721,
+                        54.908011
+                  ]
+            },
+            {
+                  "name": "Fulwell Quarry (SSSI)",
+                  "text": "O rezervație naturală și sit de importanță geologică din Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.4047,
+                        54.93161
+                  ]
+            },
+            {
+                  "name": "Carley Hill Quarry (SSSI)",
+                  "text": "O zonă naturală protejată și carieră din Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.395856,
+                        54.928454
+                  ]
+            },
+            {
+                  "name": "Humbledon Hill Quarry (SSSI)",
+                  "text": "O rezervație naturală de o importanță geologică deosebită.",
+                  "category": "natural",
+                  "coords": [
+                        -1.407091,
+                        54.89088
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill visitor centre",
+                  "text": "Un centru de vizitare situat lângă moara de vânt istorică din Fulwell.",
+                  "category": "museum",
+                  "coords": [
+                        -1.389648,
+                        54.928499
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills",
+                  "text": "Dealuri proeminente din Sunderland, oferind o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -1.390973,
+                        54.883501
+                  ]
+            },
+            {
+                  "name": "Non-Conformist Mortuary chapel (ruins)",
+                  "text": "Ruinele unei foste capele mortuare din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.419459,
+                        54.900775
+                  ]
+            },
+            {
+                  "name": "Pigment And Toil",
+                  "text": "O galerie de artă din Sunderland care prezintă lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        -1.385238,
+                        54.905967
+                  ]
+            },
+            {
+                  "name": "Doxford Gates",
+                  "text": "Un monument istoric din Sunderland, cunoscut sub numele de Doxford Gates.",
+                  "category": "historical",
+                  "coords": [
+                        -1.41391,
+                        54.914023
+                  ]
+            },
+            {
+                  "name": "Fulwell Acoustic Mirror",
+                  "text": "O oglindă acustică din beton din Primul Război Mondial, utilizată pentru detectarea timpurie a avioanelor.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393888,
+                        54.92963
+                  ]
+            },
+            {
+                  "name": "Roker Roundabout",
+                  "text": "Un sens giratoriu distinctiv și punct de întâlnire în zona Roker din Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.365388,
+                        54.924029
+                  ]
+            },
+            {
+                  "name": "Hills",
+                  "text": "O galerie din Sunderland dedicată artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        -1.382756,
+                        54.904742
+                  ]
+            },
+            {
+                  "name": "Wearmouth Colliery Coal drops",
+                  "text": "Rămășițele fostei stații de încărcare a cărbunelui de la mina Wearmouth.",
+                  "category": "historical",
+                  "coords": [
+                        -1.391218,
+                        54.91271
+                  ]
+            },
+            {
+                  "name": "Southwick Limekilns",
+                  "text": "Ruinele unor cuptoare de var istorice din zona Southwick din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393126,
+                        54.917309
+                  ]
+            },
+            {
+                  "name": "Cornhill Dock",
+                  "text": "Rămășițele vechilor instalații portuare de la Cornhill Dock din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.396063,
+                        54.917885
+                  ]
+            },
+            {
+                  "name": "The Church of St. Columba",
+                  "text": "O biserică creștină din Sunderland dedicată Sfântului Columba.",
+                  "category": "religious",
+                  "coords": [
+                        -1.393203,
+                        54.920595
+                  ]
+            },
+            {
+                  "name": "West Park Church",
+                  "text": "O clădire de biserică în cartierul West Park din Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.385391,
+                        54.901827
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "O biserică dedicată Sfântului Ignațiu în Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.371743,
+                        54.899596
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "O biserică romano-catolică din centrul orașului Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.382678,
+                        54.908183
+                  ]
+            },
+            {
+                  "name": "St Nicholas",
+                  "text": "O biserică dedicată Sfântului Nicolae în Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.399641,
+                        54.893161
+                  ]
+            },
+            {
+                  "name": "Northern Spire",
+                  "text": "Un pod modern pe hobane peste râul Wear, deschis în 2018 în Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.424673,
+                        54.917178
+                  ]
+            },
+            {
+                  "name": "Queen Alexandra Bridge",
+                  "text": "Un pod impresionant cu două etaje din Sunderland, construit inițial pentru trafic feroviar și rutier.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.405979,
+                        54.914064
+                  ]
+            },
+            {
+                  "name": "The Parish Church of St Aidan",
+                  "text": "O biserică parohială din Sunderland care deservește comunitatea creștină.",
+                  "category": "religious",
+                  "coords": [
+                        -1.365184,
+                        54.884225
+                  ]
+            },
+            {
+                  "name": "Stockton Road URC Church",
+                  "text": "O clădire a Bisericii Reformate Unite pe Stockton Road în Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.384885,
+                        54.899786
+                  ]
+            },
+            {
+                  "name": "Anglican Mortuary Chapel (derelict)",
+                  "text": "Rămășițele părăsite ale unei foste capele mortuare anglicane.",
+                  "category": "religious",
+                  "coords": [
+                        -1.418883,
+                        54.899645
+                  ]
+            },
+            {
+                  "name": "St Luke's, Pallion",
+                  "text": "O biserică locală în zona Pallion din Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.415245,
+                        54.909692
+                  ]
+            },
+            {
+                  "name": "St Joseph's RC Church",
+                  "text": "O biserică romano-catolică ce deservește comunitatea din Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.408133,
+                        54.907235
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Southwick",
+                  "text": "O biserică creștină în zona Southwick din Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.405853,
+                        54.920297
+                  ]
+            },
+            {
+                  "name": "St Gabriel's Church",
+                  "text": "O biserică anglicană din Sunderland dedicată Arhanghelului Gavriil.",
+                  "category": "religious",
+                  "coords": [
+                        -1.410243,
+                        54.900627
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "Această biserică este cunoscută sub numele de 'Catedrala mișcării Arts and Crafts'.",
+                  "category": "religious",
+                  "coords": [
+                        -1.370972,
+                        54.927471
+                  ]
+            },
+            {
+                  "name": "St Mark (closed)",
+                  "text": "O fostă clădire de biserică din Sunderland, care nu mai este folosită pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        -1.397381,
+                        54.906083
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "O biserică istorică în zona Monkwearmouth din Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.379644,
+                        54.917424
+                  ]
+            },
+            {
+                  "name": "Sunderland City Hall",
+                  "text": "Clădirea administrativă modernă și sediul consiliului municipal din Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.386333,
+                        54.908283
+                  ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake este un lac situat în Sunderland, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld este o sală de jocuri arcade în Sunderland, perfectă pentru familiile care caută distracție.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area este un loc de joacă în Sunderland, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills Local Nature Reserve",
+                  "text": "O rezervație naturală importantă pentru geologia sa unică și gama diversă de floră sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        -1.385223,
+                        54.88044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Penshaw Monument",
+                  "text": "A 1844 Doric temple built on a hill, dedicated to Lord Durham and visible for miles across the city skyline.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.48087,
+                        54.8831
+                  ]
+            },
+            {
+                  "name": "Sunderland Museum and Winter Gardens",
+                  "text": "This museum showcases local and natural history alongside a stunning indoor botanical garden under glass.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.380449,
+                        54.904254
+                  ]
+            },
+            {
+                  "name": "National Glass Centre",
+                  "text": "A contemporary cultural venue celebrating Sunderland's long glassmaking heritage with displays and demonstrations.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37097,
+                        54.9129
+                  ]
+            },
+            {
+                  "name": "St Peter's Church, Monkwearmouth",
+                  "text": "One of the oldest churches in England, founded in 674 AD, once part of a major Anglo-Saxon monastery.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3749,
+                        54.9131
+                  ]
+            },
+            {
+                  "name": "Hylton Castle",
+                  "text": "The imposing ruins of a 14th-century gatehouse castle featuring an ornate facade with the Hylton family coats of arms.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -1.441,
+                        54.924
+                  ]
+            },
+            {
+                  "name": "Roker Pier and Lighthouse",
+                  "text": "A distinctive lighthouse and long stone pier protecting the harbor, popular for coastal walks and sea views.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.360673,
+                        54.923077
+                  ]
+            },
+            {
+                  "name": "Stadium of Light",
+                  "text": "Home of Sunderland AFC, built on the site of a former coal mine, with a capacity of nearly 49,000 fans.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -1.388173,
+                        54.914429
+                  ]
+            },
+            {
+                  "name": "Mowbray Park",
+                  "text": "A beautiful Victorian city park featuring statues, a lake, and local links to the writer Lewis Carroll.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37972,
+                        54.9019
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill",
+                  "text": "The only working windmill in North East England, built in 1808 and now operating as a historic museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.387591,
+                        54.924667
+                  ]
+            },
+            {
+                  "name": "Sunderland Empire Theatre",
+                  "text": "A grand Edwardian-style theatre renowned for hosting major West End productions and its rich performing arts history.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3892,
+                        54.9064
+                  ]
+            },
+            {
+                  "name": "Keel Square",
+                  "text": "A modern public space in the city center honoring the region's shipbuilding legacy and maritime heritage.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.386431,
+                        54.907335
+                  ]
+            },
+            {
+                  "name": "Sunderland Minster",
+                  "text": "The city's historic parish church, founded in 930 AD, serving today as a central spiritual and community hub.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.38885,
+                        54.9058
+                  ]
+            },
+            {
+                  "name": "Wearmouth Bridge",
+                  "text": "An iconic iron bridge spanning the River Wear, connecting the city center with the northern parts of Sunderland.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382778,
+                        54.91
+                  ]
+            },
+            {
+                  "name": "Backhouse Park",
+                  "text": "A peaceful nature park known for its mature trees and beautiful display of daffodils every spring.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.381066,
+                        54.893632
+                  ]
+            },
+            {
+                  "name": "Herrington Country Park",
+                  "text": "A vast park developed on former colliery land, ideal for hiking and offering views of the Penshaw Monument.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.47025,
+                        54.877167
+                  ]
+            },
+            {
+                  "name": "Barnes Park",
+                  "text": "A popular family park with play areas, a duck pond, and beautifully restored Victorian landscaping features.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -1.4143,
+                        54.8935
+                  ]
+            },
+            {
+                  "name": "Northern Gallery for Contemporary Art",
+                  "text": "This gallery presents innovative works by modern artists, located within the National Glass Centre building.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.911
+                  ]
+            },
+            {
+                  "name": "Ryhope Engines Museum",
+                  "text": "A Victorian pumping station with two giant steam engines that are still operated on special steaming days.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -1.37306,
+                        54.865
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A Georgian church in the old town area, now used as a cultural venue for heritage and community events.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -1.538339,
+                        54.92054
+                  ]
+            },
+            {
+                  "name": "University of Sunderland",
+                  "text": "The university shapes the cityscape with modern riverside and city center campuses and educational facilities.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -1.3914,
+                        54.9051
+                  ]
+            },
+            {
+                  "name": "Washington Old Hall",
+                  "text": "A 17th-century manor house that was the ancestral home of George Washington, the first US president.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.51644,
+                        54.9027
+                  ]
+            },
+            {
+                  "name": "Bowes Railway",
+                  "text": "A historic rope-hauled railway used for coal transport, now preserved as an industrial heritage museum.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -1.56,
+                        54.92
+                  ]
+            },
+            {
+                  "name": "Sunderland Station",
+                  "text": "The city's central railway hub, providing vital rail links to Newcastle, London, and the wider region.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        -1.382,
+                        54.906
+                  ]
+            },
+            {
+                  "name": "The Lighthouse, Roker Cliff Park",
+                  "text": "A scenic lighthouse located in Roker Cliff Park, Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.366136,
+                        54.931196
+                  ]
+            },
+            {
+                  "name": "Wave Basin Battery",
+                  "text": "A historic coastal fortification in Sunderland.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.363258,
+                        54.916446
+                  ]
+            },
+            {
+                  "name": "Defended settlement on Humbledon Hill",
+                  "text": "An archaeological site of an ancient settlement in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.409106,
+                        54.890312
+                  ]
+            },
+            {
+                  "name": "Fans Museum",
+                  "text": "A museum in Sunderland dedicated to football fans.",
+                  "category": "museum",
+                  "coords": [
+                        -1.383668,
+                        54.912243
+                  ]
+            },
+            {
+                  "name": "Roker Pier Lighthouse",
+                  "text": "A distinctive lighthouse at the end of the Roker Pier in Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.352495,
+                        54.921315
+                  ]
+            },
+            {
+                  "name": "North Dock Tufa",
+                  "text": "An archaeological and geological site in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.367648,
+                        54.91991
+                  ]
+            },
+            {
+                  "name": "Hendon Beach",
+                  "text": "The Hendon Beach stretch of coastline is located in the neighborhood of the same name within the city of Sunderland in North East England. This somewhat more rugged beach offers locals space for quiet shore walks away from major tourist crowds. Especially on clear days, it provides fascinating views of the North Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.357987,
+                        54.888412
+                  ]
+            },
+            {
+                  "name": "Royalty Theatre",
+                  "text": "A local theatre in Sunderland offering various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.395807,
+                        54.902678
+                  ]
+            },
+            {
+                  "name": "The Donnison School",
+                  "text": "A historic school building now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -1.367721,
+                        54.908011
+                  ]
+            },
+            {
+                  "name": "Fulwell Quarry (SSSI)",
+                  "text": "A nature reserve and site of geological significance in Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.4047,
+                        54.93161
+                  ]
+            },
+            {
+                  "name": "Carley Hill Quarry (SSSI)",
+                  "text": "A protected natural area and quarry in Sunderland.",
+                  "category": "natural",
+                  "coords": [
+                        -1.395856,
+                        54.928454
+                  ]
+            },
+            {
+                  "name": "Humbledon Hill Quarry (SSSI)",
+                  "text": "A nature reserve of special geological significance.",
+                  "category": "natural",
+                  "coords": [
+                        -1.407091,
+                        54.89088
+                  ]
+            },
+            {
+                  "name": "Fulwell Windmill visitor centre",
+                  "text": "A visitor centre located next to the historic Fulwell Windmill.",
+                  "category": "museum",
+                  "coords": [
+                        -1.389648,
+                        54.928499
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills",
+                  "text": "Prominent hills in Sunderland offering panoramic views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        -1.390973,
+                        54.883501
+                  ]
+            },
+            {
+                  "name": "Non-Conformist Mortuary chapel (ruins)",
+                  "text": "The ruins of a former mortuary chapel in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.419459,
+                        54.900775
+                  ]
+            },
+            {
+                  "name": "Pigment And Toil",
+                  "text": "An art gallery in Sunderland showcasing local works.",
+                  "category": "museum",
+                  "coords": [
+                        -1.385238,
+                        54.905967
+                  ]
+            },
+            {
+                  "name": "Doxford Gates",
+                  "text": "A historic monument in Sunderland known as Doxford Gates.",
+                  "category": "historical",
+                  "coords": [
+                        -1.41391,
+                        54.914023
+                  ]
+            },
+            {
+                  "name": "Fulwell Acoustic Mirror",
+                  "text": "A concrete acoustic mirror from World War I used for early warning of aircraft.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393888,
+                        54.92963
+                  ]
+            },
+            {
+                  "name": "Roker Roundabout",
+                  "text": "A distinctive roundabout and meeting point in the Roker area of Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.365388,
+                        54.924029
+                  ]
+            },
+            {
+                  "name": "Hills",
+                  "text": "A gallery in Sunderland dedicated to the visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        -1.382756,
+                        54.904742
+                  ]
+            },
+            {
+                  "name": "Wearmouth Colliery Coal drops",
+                  "text": "Remains of the historic coal loading drops of the Wearmouth Colliery.",
+                  "category": "historical",
+                  "coords": [
+                        -1.391218,
+                        54.91271
+                  ]
+            },
+            {
+                  "name": "Southwick Limekilns",
+                  "text": "Ruins of historic lime kilns in the Southwick area of Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.393126,
+                        54.917309
+                  ]
+            },
+            {
+                  "name": "Cornhill Dock",
+                  "text": "Remains of the old dock facilities at Cornhill Dock in Sunderland.",
+                  "category": "historical",
+                  "coords": [
+                        -1.396063,
+                        54.917885
+                  ]
+            },
+            {
+                  "name": "The Church of St. Columba",
+                  "text": "A Christian church in Sunderland dedicated to Saint Columba.",
+                  "category": "religious",
+                  "coords": [
+                        -1.393203,
+                        54.920595
+                  ]
+            },
+            {
+                  "name": "West Park Church",
+                  "text": "A church building in the West Park area of Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.385391,
+                        54.901827
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "A church dedicated to Saint Ignatius in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.371743,
+                        54.899596
+                  ]
+            },
+            {
+                  "name": "St Mary's Catholic Church",
+                  "text": "A Roman Catholic church located in the center of Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.382678,
+                        54.908183
+                  ]
+            },
+            {
+                  "name": "St Nicholas",
+                  "text": "A church dedicated to Saint Nicholas in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.399641,
+                        54.893161
+                  ]
+            },
+            {
+                  "name": "Northern Spire",
+                  "text": "A modern cable-stayed bridge over the River Wear, opened in 2018 in Sunderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.424673,
+                        54.917178
+                  ]
+            },
+            {
+                  "name": "Queen Alexandra Bridge",
+                  "text": "An impressive double-decker bridge in Sunderland, originally built for rail and road.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.405979,
+                        54.914064
+                  ]
+            },
+            {
+                  "name": "The Parish Church of St Aidan",
+                  "text": "A parish church in Sunderland serving the Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        -1.365184,
+                        54.884225
+                  ]
+            },
+            {
+                  "name": "Stockton Road URC Church",
+                  "text": "A United Reformed Church building located on Stockton Road in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.384885,
+                        54.899786
+                  ]
+            },
+            {
+                  "name": "Anglican Mortuary Chapel (derelict)",
+                  "text": "The derelict remains of a former Anglican mortuary chapel.",
+                  "category": "religious",
+                  "coords": [
+                        -1.418883,
+                        54.899645
+                  ]
+            },
+            {
+                  "name": "St Luke's, Pallion",
+                  "text": "A local church in the Pallion area of Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.415245,
+                        54.909692
+                  ]
+            },
+            {
+                  "name": "St Joseph's RC Church",
+                  "text": "A Roman Catholic church serving the community in Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.408133,
+                        54.907235
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Southwick",
+                  "text": "A Christian church in the Southwick area of Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.405853,
+                        54.920297
+                  ]
+            },
+            {
+                  "name": "St Gabriel's Church",
+                  "text": "An Anglican church in Sunderland dedicated to the Archangel Gabriel.",
+                  "category": "religious",
+                  "coords": [
+                        -1.410243,
+                        54.900627
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "This church is known as the 'Cathedral of the Arts and Crafts Movement'.",
+                  "category": "religious",
+                  "coords": [
+                        -1.370972,
+                        54.927471
+                  ]
+            },
+            {
+                  "name": "St Mark (closed)",
+                  "text": "A former church building in Sunderland that is currently closed for worship.",
+                  "category": "religious",
+                  "coords": [
+                        -1.397381,
+                        54.906083
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "A historic church in the Monkwearmouth area of Sunderland.",
+                  "category": "religious",
+                  "coords": [
+                        -1.379644,
+                        54.917424
+                  ]
+            },
+            {
+                  "name": "Sunderland City Hall",
+                  "text": "The modern administrative building and seat of Sunderland's city council.",
+                  "category": "historical",
+                  "coords": [
+                        -1.386333,
+                        54.908283
+                  ]
+            },
+            {
+                  "name": "Wader Lake",
+                  "text": "Wader Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.478272,
+                        54.89953
+                  ]
+            },
+            {
+                  "name": "Roker Park Lake",
+                  "text": "Roker Park Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.370007,
+                        54.924353
+                  ]
+            },
+            {
+                  "name": "Saline lagoon",
+                  "text": "Saline lagoon is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.481116,
+                        54.896534
+                  ]
+            },
+            {
+                  "name": "Model Boating Lake",
+                  "text": "Model Boating Lake is a lake situated in Sunderland, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -1.471492,
+                        54.877011
+                  ]
+            },
+            {
+                  "name": "Harry’s Game Shack",
+                  "text": "Harry’s Game Shack is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.381684,
+                        54.907365
+                  ]
+            },
+            {
+                  "name": "Shore Family Entertainment",
+                  "text": "Shore Family Entertainment is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.369225,
+                        54.935247
+                  ]
+            },
+            {
+                  "name": "Seldon’s Leisureworld",
+                  "text": "Seldon’s Leisureworld is an amusement arcade in Sunderland, perfect for families seeking exciting entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -1.369168,
+                        54.936673
+                  ]
+            },
+            {
+                  "name": "Hudson Road Playpark",
+                  "text": "Hudson Road Playpark is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.372916,
+                        54.903929
+                  ]
+            },
+            {
+                  "name": "Hollycarrside Play Park",
+                  "text": "Hollycarrside Play Park is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.369291,
+                        54.872659
+                  ]
+            },
+            {
+                  "name": "Carley Hill Play Area",
+                  "text": "Carley Hill Play Area is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.405138,
+                        54.92914
+                  ]
+            },
+            {
+                  "name": "Spelter Works Road Play Area",
+                  "text": "Spelter Works Road Play Area is a playground in Sunderland, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -1.365284,
+                        54.888813
+                  ]
+            },
+            {
+                  "name": "Tunstall Hills Local Nature Reserve",
+                  "text": "A nature reserve significant for its unique geology and diverse range of wild flora.",
+                  "category": "natural",
+                  "coords": [
+                        -1.385223,
+                        54.88044
+                  ]
+            }
+      ]
+}
   },
   {
     id: "uk-gloucester-cities-v2", population: 145563,
@@ -47286,6 +56645,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.552524,
                         50.750444
                   ]
+            },
+            {
+                  "name": "Danes Castle",
+                  "text": "Danes Castle ist eine archäologische Stätte in Exeter, an der sich einst eine normannische Befestigung befand.",
+                  "category": "historical",
+                  "coords": [
+                        -3.531868,
+                        50.729251
+                  ]
             }
       ],
       "hu": [
@@ -47986,6 +57354,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.552524,
                         50.750444
+                  ]
+            },
+            {
+                  "name": "Danes Castle",
+                  "text": "A Danes Castle egy exeteri régészeti lelőhely, ahol egykor egy normann erődítmény állt.",
+                  "category": "historical",
+                  "coords": [
+                        -3.531868,
+                        50.729251
                   ]
             }
       ],
@@ -48688,6 +58065,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.552524,
                         50.750444
                   ]
+            },
+            {
+                  "name": "Danes Castle",
+                  "text": "Danes Castle este un sit arheologic din Exeter unde s-a aflat odinioară o fortificație normandă.",
+                  "category": "historical",
+                  "coords": [
+                        -3.531868,
+                        50.729251
+                  ]
             }
       ],
       "en": [
@@ -49389,6 +58775,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.552524,
                         50.750444
                   ]
+            },
+            {
+                  "name": "Danes Castle",
+                  "text": "Danes Castle is an archaeological site in Exeter where a Norman fortification once stood.",
+                  "category": "historical",
+                  "coords": [
+                        -3.531868,
+                        50.729251
+                  ]
             }
       ]
 }
@@ -49529,6 +58924,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.938686,
                         54.907767
                   ]
+            },
+            {
+                  "name": "The Old Fire Station",
+                  "text": "Eine ehemalige Feuerwache, die in einen lebendigen Ort für Kunst, Musik und Performance umgewandelt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.936392,
+                        54.897005
+                  ]
+            },
+            {
+                  "name": "Altar and Sword",
+                  "text": "Eine archäologische Stätte oder ein Wahrzeichen in Carlisle, das die historischen Schichten der Stadt widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.923945,
+                        54.913123
+                  ]
+            },
+            {
+                  "name": "Harraby Theatre",
+                  "text": "Ein gemeinschaftsorientierter Theaterort, der eine Vielzahl von Shows und künstlerischen Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.891137,
+                        54.880618
+                  ]
+            },
+            {
+                  "name": "Engine Lonning",
+                  "text": "Ein Naturschutzgebiet und Grünzug, der einer ehemaligen Eisenbahnlinie durch die Stadt folgt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.962921,
+                        54.898408
+                  ]
             }
       ],
       "hu": [
@@ -49619,6 +59050,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.938686,
                         54.907767
+                  ]
+            },
+            {
+                  "name": "The Old Fire Station",
+                  "text": "Egy egykori tűzoltóállomás, amelyet művészeti, zenei és előadó-művészeti központtá alakítottak át.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.936392,
+                        54.897005
+                  ]
+            },
+            {
+                  "name": "Altar and Sword",
+                  "text": "Egy régészeti lelőhely vagy nevezetesség Carlisle-ban, amely a város történelmi rétegeit tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -2.923945,
+                        54.913123
+                  ]
+            },
+            {
+                  "name": "Harraby Theatre",
+                  "text": "Egy közösségorientált színház, amely különféle előadásokat és művészeti eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.891137,
+                        54.880618
+                  ]
+            },
+            {
+                  "name": "Engine Lonning",
+                  "text": "Egy természetvédelmi terület és zöldfolyosó, amely egy egykori vasútvonal nyomvonalát követi a városon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -2.962921,
+                        54.898408
                   ]
             }
       ],
@@ -49711,6 +59178,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.938686,
                         54.907767
                   ]
+            },
+            {
+                  "name": "The Old Fire Station",
+                  "text": "O fostă stație de pompieri transformată într-un loc vibrant pentru artă, muzică și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.936392,
+                        54.897005
+                  ]
+            },
+            {
+                  "name": "Altar and Sword",
+                  "text": "Un sit arheologic sau un punct de reper din Carlisle care reflectă straturile istorice ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -2.923945,
+                        54.913123
+                  ]
+            },
+            {
+                  "name": "Harraby Theatre",
+                  "text": "Un teatru axat pe comunitate, care oferă o varietate de spectacole și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.891137,
+                        54.880618
+                  ]
+            },
+            {
+                  "name": "Engine Lonning",
+                  "text": "O rezervație naturală și un coridor verde care urmează o fostă linie de cale ferată prin oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -2.962921,
+                        54.898408
+                  ]
             }
       ],
       "en": [
@@ -49801,6 +59304,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.938686,
                         54.907767
+                  ]
+            },
+            {
+                  "name": "The Old Fire Station",
+                  "text": "A former fire station transformed into a vibrant venue for arts, music, and performance.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.936392,
+                        54.897005
+                  ]
+            },
+            {
+                  "name": "Altar and Sword",
+                  "text": "An archaeological site or landmark in Carlisle reflecting the city's historical layers.",
+                  "category": "historical",
+                  "coords": [
+                        -2.923945,
+                        54.913123
+                  ]
+            },
+            {
+                  "name": "Harraby Theatre",
+                  "text": "A community-focused theatre venue offering a variety of shows and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.891137,
+                        54.880618
+                  ]
+            },
+            {
+                  "name": "Engine Lonning",
+                  "text": "A nature reserve and green corridor following a former railway line through the city.",
+                  "category": "natural",
+                  "coords": [
+                        -2.962921,
+                        54.898408
                   ]
             }
       ]
@@ -53595,6 +63134,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942829,
                         56.118377
                   ]
+            },
+            {
+                  "name": "St Ninian's Well",
+                  "text": "Eine archäologische Stätte in Stirling, die den Standort eines alten heiligen Brunnens markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936513,
+                        56.114653
+                  ]
             }
       ],
       "hu": [
@@ -53941,6 +63489,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.942829,
                         56.118377
+                  ]
+            },
+            {
+                  "name": "St Ninian's Well",
+                  "text": "Stirlingi régészeti lelőhely, amely egy ősi szent kút helyszínét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936513,
+                        56.114653
                   ]
             }
       ],
@@ -54289,6 +63846,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942829,
                         56.118377
                   ]
+            },
+            {
+                  "name": "St Ninian's Well",
+                  "text": "Un sit arheologic din Stirling care marchează locația unei vechi fântâni sfinte.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936513,
+                        56.114653
+                  ]
             }
       ],
       "en": [
@@ -54636,6 +64202,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.942829,
                         56.118377
                   ]
+            },
+            {
+                  "name": "St Ninian's Well",
+                  "text": "An archaeological site in Stirling marking the location of an ancient holy well.",
+                  "category": "historical",
+                  "coords": [
+                        -3.936513,
+                        56.114653
+                  ]
             }
       ]
 }
@@ -54813,6 +64388,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.785957,
                         51.092118
                   ]
+            },
+            {
+                  "name": "Old Sarum Cathedral",
+                  "text": "Die archäologischen Überreste der ursprünglichen normannischen Kathedrale an der Stätte von Old Sarum.",
+                  "category": "historical",
+                  "coords": [
+                        -1.806363,
+                        51.094218
+                  ]
+            },
+            {
+                  "name": "Salisbury Playhouse",
+                  "text": "Ein führendes Produktions-Theater in Salisbury, bekannt für seine vielfältigen Bühneninszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.79988,
+                        51.070361
+                  ]
+            },
+            {
+                  "name": "Avon Valley Nature Reserve",
+                  "text": "Ein Schutzgebiet mit Flussauen, das einen Lebensraum für eine vielfältige heimische Tierwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.813634,
+                        51.08496
+                  ]
+            },
+            {
+                  "name": "Milford Hollow Nature Reserve",
+                  "text": "Ein kleines, friedliches Naturschutzgebiet mit Wald und Wiesen in Salisbury.",
+                  "category": "natural",
+                  "coords": [
+                        -1.782877,
+                        51.067798
+                  ]
+            },
+            {
+                  "name": "Cathedral campanile",
+                  "text": "Die archäologische Stätte des ehemaligen Glockenturms, der einst in der Nähe der Kathedrale stand.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79784,
+                        51.06575
+                  ]
             }
       ],
       "hu": [
@@ -54940,6 +64560,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.785957,
                         51.092118
+                  ]
+            },
+            {
+                  "name": "Old Sarum Cathedral",
+                  "text": "Az eredeti normann katedrális régészeti maradványai Old Sarum területén.",
+                  "category": "historical",
+                  "coords": [
+                        -1.806363,
+                        51.094218
+                  ]
+            },
+            {
+                  "name": "Salisbury Playhouse",
+                  "text": "Salisbury egyik vezető színháza, amely változatos színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.79988,
+                        51.070361
+                  ]
+            },
+            {
+                  "name": "Avon Valley Nature Reserve",
+                  "text": "Folyóparti rétek védett területe, amely élőhelyet biztosít a változatos helyi vadvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        -1.813634,
+                        51.08496
+                  ]
+            },
+            {
+                  "name": "Milford Hollow Nature Reserve",
+                  "text": "Egy kicsi, békés természetvédelmi terület erdővel és gyeppel Salisbury-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -1.782877,
+                        51.067798
+                  ]
+            },
+            {
+                  "name": "Cathedral campanile",
+                  "text": "Az egykori harangtorony régészeti lelőhelye, amely egykor a székesegyház közelében állt.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79784,
+                        51.06575
                   ]
             }
       ],
@@ -55069,6 +64734,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.785957,
                         51.092118
                   ]
+            },
+            {
+                  "name": "Old Sarum Cathedral",
+                  "text": "Rămășițele arheologice ale catedralei normande originale de pe situl Old Sarum.",
+                  "category": "historical",
+                  "coords": [
+                        -1.806363,
+                        51.094218
+                  ]
+            },
+            {
+                  "name": "Salisbury Playhouse",
+                  "text": "Un teatru de producție de top din Salisbury, cunoscut pentru diversele sale producții scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.79988,
+                        51.070361
+                  ]
+            },
+            {
+                  "name": "Avon Valley Nature Reserve",
+                  "text": "O zonă protejată de pajiști pe malul râului, care oferă un habitat pentru fauna locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -1.813634,
+                        51.08496
+                  ]
+            },
+            {
+                  "name": "Milford Hollow Nature Reserve",
+                  "text": "O rezervație naturală mică și liniștită, cu păduri și pajiști, în Salisbury.",
+                  "category": "natural",
+                  "coords": [
+                        -1.782877,
+                        51.067798
+                  ]
+            },
+            {
+                  "name": "Cathedral campanile",
+                  "text": "Situl arheologic al fostului clopotniță care se afla odinioară lângă catedrală.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79784,
+                        51.06575
+                  ]
             }
       ],
       "en": [
@@ -55196,6 +64906,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.785957,
                         51.092118
+                  ]
+            },
+            {
+                  "name": "Old Sarum Cathedral",
+                  "text": "The archaeological remains of the original Norman cathedral at the Old Sarum site.",
+                  "category": "historical",
+                  "coords": [
+                        -1.806363,
+                        51.094218
+                  ]
+            },
+            {
+                  "name": "Salisbury Playhouse",
+                  "text": "A leading producing theatre in Salisbury known for its diverse stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.79988,
+                        51.070361
+                  ]
+            },
+            {
+                  "name": "Avon Valley Nature Reserve",
+                  "text": "A protected area of riverside meadows providing a habitat for diverse local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -1.813634,
+                        51.08496
+                  ]
+            },
+            {
+                  "name": "Milford Hollow Nature Reserve",
+                  "text": "A small, peaceful nature reserve featuring woodland and grassland in Salisbury.",
+                  "category": "natural",
+                  "coords": [
+                        -1.782877,
+                        51.067798
+                  ]
+            },
+            {
+                  "name": "Cathedral campanile",
+                  "text": "The archaeological site of the former bell tower that once stood near the cathedral.",
+                  "category": "historical",
+                  "coords": [
+                        -1.79784,
+                        51.06575
                   ]
             }
       ]
@@ -61912,6 +71667,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.098334,
                         52.579171
                   ]
+            },
+            {
+                  "name": "Smestow Valley Local Nature Reserve Black Country Geosite",
+                  "text": "Ein Naturschutzgebiet in Wolverhampton, das Lebensräume für Wildtiere und Wanderwege durch eine historische Industrielandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.171092,
+                        52.589488
+                  ]
             }
       ],
       "hu": [
@@ -62228,6 +71992,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.098334,
                         52.579171
+                  ]
+            },
+            {
+                  "name": "Smestow Valley Local Nature Reserve Black Country Geosite",
+                  "text": "Természetvédelmi terület Wolverhamptonban, amely vadvilági élőhelyeket és ösvényeket kínál egy történelmi ipari tájon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -2.171092,
+                        52.589488
                   ]
             }
       ],
@@ -62546,6 +72319,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.098334,
                         52.579171
                   ]
+            },
+            {
+                  "name": "Smestow Valley Local Nature Reserve Black Country Geosite",
+                  "text": "O rezervație naturală din Wolverhampton care oferă habitate pentru fauna sălbatică și trasee printr-un peisaj industrial istoric.",
+                  "category": "natural",
+                  "coords": [
+                        -2.171092,
+                        52.589488
+                  ]
             }
       ],
       "en": [
@@ -62863,6 +72645,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.098334,
                         52.579171
                   ]
+            },
+            {
+                  "name": "Smestow Valley Local Nature Reserve Black Country Geosite",
+                  "text": "A nature reserve in Wolverhampton offering wildlife habitats and trails through a historic industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -2.171092,
+                        52.589488
+                  ]
             }
       ]
 },
@@ -62957,7 +72748,2304 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["População: 372.000 (2021)", "Área: 93 km²", "Fusão: 1910", "Número de olarias no auge: mais de 300", "Visitantes importantes do museu: 200.000 anuais no Museu Wedgwood", "Ponto mais alto: 213 m acima do nível do mar"],
       fr: ["Population : 372 000 (2021)", "Superficie : 93 km²", "Fusion : 1910", "Nombre de poteries à leur apogée : plus de 300", "Visiteurs importants du musée : 200 000 par an au musée Wedgwood", "Point culminant : 213 m au-dessus du niveau de la mer"],
     },
-    "sights": {"de": [{"name": "The Potteries Museum & Art Gallery", "text": "Dieses Museum beherbergt die weltweit bedeutendste Sammlung von Keramiken aus Staffordshire und den angelsächsischen Schatz von Staffordshire.", "category": "museum", "confidence": "high", "coords": [-2.178084, 53.022885]}, {"name": "Gladstone Töpfereimuseum", "text": "Eine vollständig erhaltene viktorianische Töpferei mit den charakteristischen Flaschenöfen, die die Industriegeschichte der Stadt lebendig macht.", "category": "museum", "confidence": "high", "coords": [-2.1317, 52.9866]}, {"name": "World of Wedgwood", "text": "Ein Erlebniszentrum, das die Geschichte der weltberühmten Marke Wedgwood zeigt, inklusive Fabriktouren und eines bedeutenden Museums.", "category": "museum", "confidence": "high", "coords": [-2.17081, 52.951892]}, {"name": "Middleport Töpferei", "text": "Die Heimat der Burleigh-Keramik bietet Einblicke in traditionelle Handwerkstechniken in einer historischen Fabrik am Kanal.", "category": "museum", "confidence": "high", "coords": [-2.20954, 53.041]}, {"name": "Stoke Minster", "text": "Die Hauptkirche der Stadt mit angelsächsischen Ursprüngen und Gräbern bedeutender Töpfermeister wie Josiah Wedgwood.", "category": "religious", "confidence": "high", "coords": [-2.181304, 53.004095]}, {"name": "Trentham Gärten", "text": "Wunderschöne italienische Gärten, ein See und weitläufige Parkanlagen bieten Erholung und erstklassige Gartenbaukunst.", "category": "recreational", "confidence": "high", "coords": [-2.198, 52.969]}, {"name": "Trentham Affenwald", "text": "Ein einzigartiges Freigehege, in dem 140 Berberaffen frei in einem alten Waldgebiet leben und beobachtet werden können.", "category": "natural", "confidence": "high", "coords": [-2.202, 52.952]}, {"name": "Ford Green Hall", "text": "Ein prächtiges Fachwerkhaus aus dem 17. Jahrhundert, das als Museum das ländliche Leben der Tudor- und Stuart-Zeit zeigt.", "category": "historical", "confidence": "high", "coords": [-2.16946, 53.0549]}, {"name": "Bethesda Methodistenkapelle", "text": "Bekannt als die Kathedrale des Methodismus, beeindruckt dieses Gebäude durch seine Architektur und seine historische Bedeutung.", "category": "religious", "confidence": "high", "coords": [-2.1769, 53.0233]}, {"name": "Victoria Hall", "text": "Ein prachtvoller Konzertsaal aus dem Jahr 1888, der für seine hervorragende Akustik und sein vielfältiges Programm bekannt ist.", "category": "cultural", "confidence": "high", "coords": [-2.1752, 53.0231]}, {"name": "Regent Theater", "text": "Ein wunderschön restauriertes Art-déco-Theater in Hanley, das große Tournee-Produktionen und Musicals beherbergt.", "category": "cultural", "confidence": "high", "coords": [-2.176709, 53.024381]}, {"name": "Hanley Park", "text": "Ein viktorianischer Stadtpark mit einem Pavillon, Sportanlagen und gepflegten Blumenbeeten im Zentrum der Stadt.", "category": "recreational", "confidence": "high", "coords": [-2.176, 53.015]}, {"name": "Central Forest Park", "text": "Ein weitläufiger Grünraum auf einem ehemaligen Zechengelände, ideal für Wanderungen und mit einem großen Skatepark.", "category": "natural", "confidence": "high", "coords": [-2.173163, 53.034465]}, {"name": "Etruria Industriemuseum", "text": "Die letzte dampfbetriebene Mahlmühle für Töpfermaterialien zeigt die mechanische Seite der Keramikherstellung.", "category": "museum", "confidence": "high", "coords": [-2.19204, 53.0186]}, {"name": "Spode Museum Works", "text": "Ein Museum auf dem Gelände der historischen Spode-Fabrik, das seltene Blau-Weiß-Drucke und Designgeschichte präsentiert.", "category": "museum", "confidence": "high", "coords": [-2.186028, 53.005354]}, {"name": "Emma Bridgewater Fabrik", "text": "Eine lebhafte moderne Fabrik, in der Besucher die handgemalte Produktion beobachten und selbst Keramik gestalten können.", "category": "museum", "confidence": "high", "coords": [-2.171055, 53.019676]}, {"name": "Rathaus von Burslem", "text": "Ein beeindruckendes viktorianisches Gebäude mit klassizistischer Fassade, das das Herz der 'Mutterstadt' der Potteries bildet.", "category": "civic", "confidence": "high", "coords": [-2.197883, 53.045718]}, {"name": "Hartshill Park", "text": "Ein friedlicher Park mit herrlicher Aussicht auf die Stadt und die umliegenden Hügel von Staffordshire.", "category": "recreational", "confidence": "high", "coords": [-2.1983, 53.0103]}, {"name": "Park Hall Landschaftspark", "text": "Ein Naturschutzgebiet mit Teichen, Wäldern und Heidelandschaften, das ein wichtiges Refugium für die lokale Tierwelt ist.", "category": "natural", "confidence": "high", "coords": [-2.106995, 53.00131]}, {"name": "Chatterley Whitfield Kohlebergwerk", "text": "Ein national bedeutendes Industriedenkmal, das die Bergbaugeschichte erinnert, die einst die Töpfereien befeuerte.", "category": "historical", "confidence": "high", "coords": [-2.1753, 53.0758]}, {"name": "Burleigh Töpferei", "text": "Berühmt für das traditionelle Transferdruck-Verfahren, ist dies eine der letzten Fabriken ihrer Art weltweit.", "category": "museum", "confidence": "high", "coords": [-2.209993, 53.040953]}, {"name": "Apedale Heritage Centre", "text": "Bietet geführte Touren durch ein ehemaliges Bergwerk und zeigt die lokale Industriegeschichte im Norden der Stadt.", "category": "museum", "confidence": "high", "coords": [-2.266, 53.032]}, {"name": "Longton Exchange", "text": "Ein historisches Handelszentrum, das die Bedeutung von Longton als Zentrum der Porzellanherstellung widerspiegelt.", "category": "historical", "confidence": "high", "coords": [-2.135511, 52.987913]}, {"name": "The Dudson Museum", "text": "Ein Museum in Stoke-on-Trent, das die Geschichte der Dudson-Töpferei in einem alten Flaschenofen zeigt.", "category": "museum", "coords": [-2.179678, 53.029094]}, {"name": "New Victoria Theatre", "text": "Dieses Theater in Stoke-on-Trent ist bekannt als das erste speziell gebaute Arena-Theater Europas.", "category": "cultural", "coords": [-2.214463, 53.016169]}, {"name": "Mitchell Arts Centre Auditorium", "text": "Ein Veranstaltungsort für Theateraufführungen innerhalb des Mitchell Arts Centre in Stoke-on-Trent.", "category": "cultural", "coords": [-2.179749, 53.023031]}, {"name": "Waterworld", "text": "Ein beliebter Indoor-Tropenwasserpark in Stoke-on-Trent mit zahlreichen Rutschen und Attraktionen.", "category": "family", "coords": [-2.197897, 53.027526]}, {"name": "Berryhill Fields Local Nature Reserve", "text": "Ein lokales Naturschutzgebiet in Stoke-on-Trent, das Lebensraum für Wildtiere und Erholungsraum bietet.", "category": "natural", "coords": [-2.137461, 53.009119]}, {"name": "Five Towns Theatre", "text": "Eine lokale Theatergruppe und Spielstätte in Stoke-on-Trent.", "category": "cultural", "coords": [-2.169044, 53.019772]}, {"name": "The amphitheater in Berryhill Fields", "text": "Ein Freiluft-Amphitheater in Stoke-on-Trent für Veranstaltungen im Grünen.", "category": "cultural", "coords": [-2.143596, 53.012278]}, {"name": "Trent Mill Nature Park", "text": "Ein Naturpark in Stoke-on-Trent, der zur Erholung und Beobachtung der lokalen Flora einlädt.", "category": "natural", "coords": [-2.164346, 53.016669]}, {"name": "Josiah Wedgwood Statue", "text": "Stolz in Stoke-on-Trent stehend, ehrt die Josiah Wedgwood Statue das Vermächtnis des berühmten lokalen Töpfers. Besucher, die das Denkmal bewundern, können über seinen enormen Einfluss auf die Keramikindustrie der Region nachdenken. Die historische Statue dient als markanter Blickfang in der Stadt.", "category": "historical", "coords": [-2.180636, 53.008171]}, {"name": "Stone Circle", "text": "Ein Denkmal in Stoke-on-Trent in Form eines Steinkreises.", "category": "historical", "coords": [-2.140233, 53.009045]}, {"name": "Lord nelsons industrial estate", "text": "Überreste historischer Industrieanlagen in Stoke-on-Trent.", "category": "historical", "coords": [-2.167102, 53.022119]}, {"name": "Pye Hill No.2 Colliery Clock", "text": "Ein Denkmal in Stoke-on-Trent, das an die Bergbaugeschichte der Region erinnert.", "category": "historical", "coords": [-2.174773, 52.998267]}, {"name": "Saint Paul's Parish Church", "text": "Eine Pfarrkirche in Stoke-on-Trent, die dem heiligen Paul gewidmet ist.", "category": "religious", "coords": [-2.219717, 53.010386]}, {"name": "St. Mark's Basford", "text": "Eine denkmalgeschützte Kirche in Basford, Stoke-on-Trent, die für ihre Architektur bekannt ist.", "category": "religious", "coords": [-2.209684, 53.017576]}, {"name": "Holy Trinity Church", "text": "Eine christliche Gebetsstätte in Stoke-on-Trent.", "category": "religious", "coords": [-2.201978, 53.009643]}, {"name": "All Saints Church", "text": "Eine anglikanische Kirche in Stoke-on-Trent.", "category": "religious", "coords": [-2.166558, 53.017351]}, {"name": "St Marks Church, Shelton", "text": "Eine historische Kirche im Stadtteil Shelton von Stoke-on-Trent.", "category": "religious", "coords": [-2.181943, 53.018924]}, {"name": "Christ Church, Fenton", "text": "Diese Kirche in Fenton wurde im 19. Jahrhundert erbaut und ist ein markantes lokales Wahrzeichen.", "category": "religious", "coords": [-2.163922, 52.997686]}, {"name": "St Luke's Church, Wellington", "text": "Eine Kirche im Stadtteil Wellington von Stoke-on-Trent.", "category": "religious", "coords": [-2.16829, 53.024057]}, {"name": "Saint Thomas' Church", "text": "Eine religiöse Stätte in Stoke-on-Trent.", "category": "religious", "coords": [-2.196385, 53.000424]}, {"name": "Saint Matthias Hanford Parish Church", "text": "Die Pfarrkirche von Hanford in Stoke-on-Trent.", "category": "religious", "coords": [-2.196304, 52.981269]}, {"name": "St Paul's", "text": "Eine der Kirchen in Stoke-on-Trent.", "category": "religious", "coords": [-2.172892, 52.995445]}, {"name": "Saint John's Church", "text": "Eine historische Gebetsstätte in Stoke-on-Trent.", "category": "religious", "coords": [-2.205277, 52.990065]}, {"name": "Parkhall Lake", "text": "Parkhall Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-2.107635, 52.992827]}, {"name": "Sideway Overflow", "text": "Sideway Overflow ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-2.180197, 52.988106]}, {"name": "Goldendale Pools", "text": "Goldendale Pools ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-2.224553, 53.05927]}, {"name": "Trentham Lake", "text": "Trentham Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.", "category": "natural", "coords": [-2.199142, 52.956768]}, {"name": "Lyme Valley Playground", "text": "Lyme Valley Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-2.21646, 53.001169]}, {"name": "Hanford Play Area", "text": "Hanford Play Area ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-2.196366, 52.976387]}, {"name": "Adenture Playground", "text": "Adenture Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-2.235712, 53.01276]}, {"name": "Ferndown Drive Playground", "text": "Ferndown Drive Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-2.217931, 52.977007]}, {"name": "Bucknall Park Playground", "text": "Bucknall Park Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.", "category": "family", "coords": [-2.148415, 53.02551]}, {"name": "Brampton Park Play Area", "text": "Der Brampton Park Play Area in Stoke On Trent ist ein idealer Spielplatz für Familienausflüge.", "category": "family", "coords": [-2.219505, 53.015738]}, {"name": "Penkhull Park Playground", "text": "Der Penkhull Park Playground in Stoke On Trent bietet Kindern viel Platz zum Spielen.", "category": "family", "coords": [-2.191247, 53.006981]}, {"name": "Etruria Park Play Area", "text": "Der Etruria Park Play Area in Stoke On Trent ist ein schöner Ort für Kinder, um sich im Freien auszutoben.", "category": "family", "coords": [-2.191891, 53.022025]}, {"name": "Game Grid", "text": "Das Game Grid in Stoke On Trent ist eine unterhaltsame Spielhalle für die ganze Familie.", "category": "family", "coords": [-2.180769, 53.024434]}, {"name": "Trentham Community Sports Centre Pool", "text": "Das Schwimmbecken im Trentham Community Sports Centre bietet eine einladende Umgebung für Familien.", "category": "family", "coords": [-2.194476, 52.971352]}], "hu": [{"name": "Potteries Múzeum és Galéria", "text": "Ez a múzeum ad otthont a világ legjelentősebb staffordshire-i kerámiagyűjteményének és a híres staffordshire-i kincsnek.", "category": "museum", "confidence": "high", "coords": [-2.178084, 53.022885]}, {"name": "Gladstone Fazekasmúzeum", "text": "Egy teljesen konzervált viktoriánus fazekasüzem jellegzetes kemencékkel, amely életre kelti a város ipari múltját.", "category": "museum", "confidence": "high", "coords": [-2.1317, 52.9866]}, {"name": "World of Wedgwood", "text": "Élményközpont, amely a világhírű Wedgwood márka történetét mutatja be gyárlátogatással és múzeumi tárlattal.", "category": "museum", "confidence": "high", "coords": [-2.17081, 52.951892]}, {"name": "Middleport Fazekasság", "text": "A Burleigh kerámia otthona, ahol a látogatók bepillantást nyerhetnek a hagyományos kézműves technikákba a csatorna partján.", "category": "museum", "confidence": "high", "coords": [-2.20954, 53.041]}, {"name": "Stoke Minster", "text": "A város főtemploma angolszász eredettel, ahol híres fazekasmesterek, köztük Josiah Wedgwood sírja is található.", "category": "religious", "confidence": "high", "coords": [-2.181304, 53.004095]}, {"name": "Trentham Kertek", "text": "Gyönyörű olasz kertek, egy tó és kiterjedt parkosított területek kínálnak kikapcsolódást és kertészeti élményt.", "category": "recreational", "confidence": "high", "coords": [-2.198, 52.969]}, {"name": "Trentham Majomerdő", "text": "Egyedülálló park, ahol 140 berber makákó él szabadon egy ősi erdőben, zavartalanul megfigyelhető módon.", "category": "natural", "confidence": "high", "coords": [-2.202, 52.952]}, {"name": "Ford Green Hall", "text": "Egy 17. századi fa-vázas kúria, amely múzeumként mutatja be a Tudor- és Stuart-kori vidéki életmódot.", "category": "historical", "confidence": "high", "coords": [-2.16946, 53.0549]}, {"name": "Bethesda Metodista Kápolna", "text": "A metodizmus katedrálisaként ismert épület lenyűgöző belső térével és történelmi jelentőségével tűnik ki.", "category": "religious", "confidence": "high", "coords": [-2.1769, 53.0233]}, {"name": "Victoria Hall", "text": "Egy 1888-ban épült pompás hangversenyterem, amely kiváló akusztikájáról és változatos zenei programjairól ismert.", "category": "cultural", "confidence": "high", "coords": [-2.1752, 53.0231]}, {"name": "Regent Színház", "text": "Egy gyönyörűen felújított art deco színház Hanley-ben, amely nagyszabású turnéprodukcióknak és musicaleknek ad otthont.", "category": "cultural", "confidence": "high", "coords": [-2.176709, 53.024381]}, {"name": "Hanley Park", "text": "Viktoriánus városi park pavilonnal, sportpályákkal és gondozott virágágyásokkal a város szívében.", "category": "recreational", "confidence": "high", "coords": [-2.176, 53.015]}, {"name": "Central Forest Park", "text": "Egy korábbi bánya területén kialakított zöldterület, amely túraútvonalakat és egy nagy gördeszkapályát kínál.", "category": "natural", "confidence": "high", "coords": [-2.173163, 53.034465]}, {"name": "Etruria Ipari Múzeum", "text": "Az utolsó gőzüzemű kerámia-alapanyag őrlőmalom, amely bemutatja a gyártás mechanikai oldalát.", "category": "museum", "confidence": "high", "coords": [-2.19204, 53.0186]}, {"name": "Spode Múzeum", "text": "A történelmi Spode gyár területén található múzeum, amely ritka kék-fehér porcelánokat és formatervezési emlékeket őriz.", "category": "museum", "confidence": "high", "coords": [-2.186028, 53.005354]}, {"name": "Emma Bridgewater Gyár", "text": "Egy életteli modern gyár, ahol a látogatók megfigyelhetik a kézzel festett termékek készítését és maguk is alkothatnak.", "category": "museum", "confidence": "high", "coords": [-2.171055, 53.019676]}, {"name": "Burslem Városháza", "text": "Impozáns viktoriánus épület klasszicista homlokzattal, amely a fazekasvárosok anyavárosának központjában áll.", "category": "civic", "confidence": "high", "coords": [-2.197883, 53.045718]}, {"name": "Hartshill Park", "text": "Békés park, ahonnan remek kilátás nyílik a városra és Staffordshire környező dombjaira.", "category": "recreational", "confidence": "high", "coords": [-2.1983, 53.0103]}, {"name": "Park Hall Országos Park", "text": "Természetvédelmi terület tavakkal, erdőkkel és fenyérekkel, amely fontos menedék a helyi élővilág számára.", "category": "natural", "confidence": "high", "coords": [-2.106995, 53.00131]}, {"name": "Chatterley Whitfield Szénbánya", "text": "Országos jelentőségű ipari emlékhely, amely a fazekasipart egykor kiszolgáló bányászati múltra emlékeztet.", "category": "historical", "confidence": "high", "coords": [-2.1753, 53.0758]}, {"name": "Burleigh Fazekasság", "text": "A hagyományos matricás díszítésről híres üzem, amely az egyik utolsó ilyen típusú gyár a világon.", "category": "museum", "confidence": "high", "coords": [-2.209993, 53.040953]}, {"name": "Apedale Örökségközpont", "text": "Vezetett túrákat kínál egy egykori bányában, bemutatva a város északi részének ipari fejlődését.", "category": "museum", "confidence": "high", "coords": [-2.266, 53.032]}, {"name": "Longton Exchange", "text": "Történelmi kereskedelmi központ, amely Longton porcelángyártásban betöltött fontos szerepét tükrözi.", "category": "historical", "confidence": "high", "coords": [-2.135511, 52.987913]}, {"name": "The Dudson Museum", "text": "Múzeum Stoke-on-Trentben, amely a Dudson fazekasműhely történetét mutatja be egy régi égetőkemencében.", "category": "museum", "coords": [-2.179678, 53.029094]}, {"name": "New Victoria Theatre", "text": "Ez a Stoke-on-Trent-i színház Európa első kifejezetten körszínháznak épült játszóhelyeként ismert.", "category": "cultural", "coords": [-2.214463, 53.016169]}, {"name": "Mitchell Arts Centre Auditorium", "text": "Színházi előadások helyszíne a Stoke-on-Trent-i Mitchell Arts Centre-ben.", "category": "cultural", "coords": [-2.179749, 53.023031]}, {"name": "Waterworld", "text": "Népszerű fedett trópusi vízi park Stoke-on-Trentben, számos csúszdával és látnivalóval.", "category": "family", "coords": [-2.197897, 53.027526]}, {"name": "Berryhill Fields Local Nature Reserve", "text": "Helyi természetvédelmi terület Stoke-on-Trentben, amely vadvilági élőhelyet és kikapcsolódási lehetőséget kínál.", "category": "natural", "coords": [-2.137461, 53.009119]}, {"name": "Five Towns Theatre", "text": "Helyi színtársulat és játszóhely Stoke-on-Trentben.", "category": "cultural", "coords": [-2.169044, 53.019772]}, {"name": "The amphitheater in Berryhill Fields", "text": "Szabadtéri amfiteátrum Stoke-on-Trentben zöldövezeti rendezvényekhez.", "category": "cultural", "coords": [-2.143596, 53.012278]}, {"name": "Trent Mill Nature Park", "text": "Természetvédelmi park Stoke-on-Trentben, amely kikapcsolódásra és a helyi flóra megfigyelésére hívogat.", "category": "natural", "coords": [-2.164346, 53.016669]}, {"name": "Josiah Wedgwood Statue", "text": "A Stoke On Trent városában büszkén álló Josiah Wedgwood Statue a híres helyi fazekasmester hagyatéka előtt tiszteleg. Az emlékművet megcsodáló látogatók elgondolkodhatnak azon a hatalmas hatáson, amelyet a régió kerámiaiparára gyakorolt. A történelmi szobor lenyűgöző fókuszpontként szolgál a városban.", "category": "historical", "coords": [-2.180636, 53.008171]}, {"name": "Stone Circle", "text": "Kőkör formájú emlékmű Stoke-on-Trentben.", "category": "historical", "coords": [-2.140233, 53.009045]}, {"name": "Lord nelsons industrial estate", "text": "Történelmi ipari létesítmények maradványai Stoke-on-Trentben.", "category": "historical", "coords": [-2.167102, 53.022119]}, {"name": "Pye Hill No.2 Colliery Clock", "text": "Emlékmű Stoke-on-Trentben, amely a régió bányászati múltjára emlékeztet.", "category": "historical", "coords": [-2.174773, 52.998267]}, {"name": "Saint Paul's Parish Church", "text": "Szent Pálnak szentelt plébániatemplom Stoke-on-Trentben.", "category": "religious", "coords": [-2.219717, 53.010386]}, {"name": "St. Mark's Basford", "text": "Műemlék templom a Stoke-on-Trent-i Basfordban, amely építészetéről ismert.", "category": "religious", "coords": [-2.209684, 53.017576]}, {"name": "Holy Trinity Church", "text": "Keresztény templom Stoke-on-Trentben.", "category": "religious", "coords": [-2.201978, 53.009643]}, {"name": "All Saints Church", "text": "Anglikán templom Stoke-on-Trentben.", "category": "religious", "coords": [-2.166558, 53.017351]}, {"name": "St Marks Church, Shelton", "text": "Történelmi templom Stoke-on-Trent Shelton negyedében.", "category": "religious", "coords": [-2.181943, 53.018924]}, {"name": "Christ Church, Fenton", "text": "Ez a fentoni templom a 19. században épült, és jelentős helyi jelkép.", "category": "religious", "coords": [-2.163922, 52.997686]}, {"name": "St Luke's Church, Wellington", "text": "Templom Stoke-on-Trent Wellington negyedében.", "category": "religious", "coords": [-2.16829, 53.024057]}, {"name": "Saint Thomas' Church", "text": "Vallási helyszín Stoke-on-Trentben.", "category": "religious", "coords": [-2.196385, 53.000424]}, {"name": "Saint Matthias Hanford Parish Church", "text": "Hanford plébániatemploma Stoke-on-Trentben.", "category": "religious", "coords": [-2.196304, 52.981269]}, {"name": "St Paul's", "text": "Stoke-on-Trent egyik temploma.", "category": "religious", "coords": [-2.172892, 52.995445]}, {"name": "Saint John's Church", "text": "Történelmi templom Stoke-on-Trentben.", "category": "religious", "coords": [-2.205277, 52.990065]}, {"name": "Parkhall Lake", "text": "A(z) Parkhall Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-2.107635, 52.992827]}, {"name": "Sideway Overflow", "text": "A(z) Sideway Overflow egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-2.180197, 52.988106]}, {"name": "Goldendale Pools", "text": "A(z) Goldendale Pools egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-2.224553, 53.05927]}, {"name": "Trentham Lake", "text": "A(z) Trentham Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.", "category": "natural", "coords": [-2.199142, 52.956768]}, {"name": "Lyme Valley Playground", "text": "A(z) Lyme Valley Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-2.21646, 53.001169]}, {"name": "Hanford Play Area", "text": "A(z) Hanford Play Area egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-2.196366, 52.976387]}, {"name": "Adenture Playground", "text": "A(z) Adenture Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-2.235712, 53.01276]}, {"name": "Ferndown Drive Playground", "text": "A(z) Ferndown Drive Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-2.217931, 52.977007]}, {"name": "Bucknall Park Playground", "text": "A(z) Bucknall Park Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.", "category": "family", "coords": [-2.148415, 53.02551]}, {"name": "Brampton Park Play Area", "text": "A Stoke On Trent-i Brampton Park Play Area nagyszerű játszótér családi kikapcsolódáshoz.", "category": "family", "coords": [-2.219505, 53.015738]}, {"name": "Penkhull Park Playground", "text": "A Stoke On Trent-i Penkhull Park Playground sok helyet kínál a gyerekeknek a játékra.", "category": "family", "coords": [-2.191247, 53.006981]}, {"name": "Etruria Park Play Area", "text": "A Stoke On Trent-i Etruria Park Play Area remek szabadtéri helyszín a gyerekek számára.", "category": "family", "coords": [-2.191891, 53.022025]}, {"name": "Game Grid", "text": "A Stoke On Trent-i Game Grid szórakoztató játékterem az egész család számára.", "category": "family", "coords": [-2.180769, 53.024434]}, {"name": "Trentham Community Sports Centre Pool", "text": "A Trentham Community Sports Centre medencéje barátságos környezetet kínál a családi úszáshoz.", "category": "family", "coords": [-2.194476, 52.971352]}], "ro": [{"name": "Muzeul și Galeria de Artă Potteries", "text": "Acest muzeu găzduiește cea mai importantă colecție de ceramică din Staffordshire și faimosul tezaur anglo-saxon din Staffordshire.", "category": "museum", "confidence": "high", "coords": [-2.178084, 53.022885]}, {"name": "Muzeul de Ceramică Gladstone", "text": "O fabrică de ceramică victoriană conservată integral, cu cuptoarele sale specifice, care readuce la viață istoria industrială.", "category": "museum", "confidence": "high", "coords": [-2.1317, 52.9866]}, {"name": "World of Wedgwood", "text": "Un centru de experiență care prezintă istoria brandului de renume mondial Wedgwood, incluzând tururi în fabrică.", "category": "museum", "confidence": "high", "coords": [-2.17081, 52.951892]}, {"name": "Ceramica Middleport", "text": "Sediul ceramicii Burleigh, oferind o incursiune în tehnicile tradiționale de manufactură într-o fabrică istorică de pe canal.", "category": "museum", "confidence": "high", "coords": [-2.20954, 53.041]}, {"name": "Stoke Minster", "text": "Biserica principală a orașului cu origini anglo-saxone, unde se află mormintele unor ceramiști celebri precum Josiah Wedgwood.", "category": "religious", "confidence": "high", "coords": [-2.181304, 53.004095]}, {"name": "Grădinile Trentham", "text": "Grădini italiene superbe, un lac și parcuri vaste oferă relaxare și peisaje horticole de clasă mondială.", "category": "recreational", "confidence": "high", "coords": [-2.198, 52.969]}, {"name": "Pădurea de Maimuțe Trentham", "text": "Un parc unic unde 140 de macaci berberi trăiesc liberi într-o pădure străveche, putând fi observați de vizitatori.", "category": "natural", "confidence": "high", "coords": [-2.202, 52.952]}, {"name": "Ford Green Hall", "text": "O casă boierească din secolul al XVII-lea, transformată în muzeu, care prezintă viața rurală din perioadele Tudor și Stuart.", "category": "historical", "confidence": "high", "coords": [-2.16946, 53.0549]}, {"name": "Capela Metodistă Bethesda", "text": "Cunoscută drept catedrala metodismului, clădirea impresionează prin arhitectura sa și importanța sa istorică.", "category": "religious", "confidence": "high", "coords": [-2.1769, 53.0233]}, {"name": "Victoria Hall", "text": "O sală de concerte grandioasă din 1888, celebră pentru acustica sa excelentă și programul cultural variat.", "category": "cultural", "confidence": "high", "coords": [-2.1752, 53.0231]}, {"name": "Teatrul Regent", "text": "Un teatru art deco restaurat frumos în Hanley, care găzduiește producții majore de turneu și musicaluri.", "category": "cultural", "confidence": "high", "coords": [-2.176709, 53.024381]}, {"name": "Parcul Hanley", "text": "Parc orășenesc victorian cu pavilion, facilități sportive și aranjamente florale îngrijite în centrul orașului.", "category": "recreational", "confidence": "high", "coords": [-2.176, 53.015]}, {"name": "Parcul Forestier Central", "text": "Un spațiu verde vast creat pe locul unei foste mine, ideal pentru drumeții și dotat cu un skatepark mare.", "category": "natural", "confidence": "high", "coords": [-2.173163, 53.034465]}, {"name": "Muzeul Industrial Etruria", "text": "Ultima moară cu aburi funcțională pentru măcinarea materialelor ceramice, prezentând latura mecanică a producției.", "category": "museum", "confidence": "high", "coords": [-2.19204, 53.0186]}, {"name": "Muzeul Spode", "text": "Muzeu situat pe terenul fabricii istorice Spode, prezentând piese rare imprimate alb-albastru și istoria designului.", "category": "museum", "confidence": "high", "coords": [-2.186028, 53.005354]}, {"name": "Fabrica Emma Bridgewater", "text": "O fabrică modernă vibrantă unde vizitatorii pot urmări pictura manuală a produselor și își pot crea propria ceramică.", "category": "museum", "confidence": "high", "coords": [-2.171055, 53.019676]}, {"name": "Primăria Burslem", "text": "Clădire victoriană impunătoare cu fațadă clasică, situată în inima orașului-mamă al ceramicii din Staffordshire.", "category": "civic", "confidence": "high", "coords": [-2.197883, 53.045718]}, {"name": "Parcul Hartshill", "text": "Un parc liniștit oferind vederi panoramice asupra orașului și a dealurilor înconjurătoare din Staffordshire.", "category": "recreational", "confidence": "high", "coords": [-2.1983, 53.0103]}, {"name": "Parcul Natural Park Hall", "text": "Rezervație naturală cu iazuri, păduri și lande, reprezentând un refugiu important pentru fauna locală.", "category": "natural", "confidence": "high", "coords": [-2.106995, 53.00131]}, {"name": "Mina de Cărbune Chatterley Whitfield", "text": "Monument industrial de importanță națională care amintește de trecutul minier ce alimenta fabricile de ceramică.", "category": "historical", "confidence": "high", "coords": [-2.1753, 53.0758]}, {"name": "Ceramica Burleigh", "text": "Celebră pentru tehnica tradițională de decorare prin transfer, este una dintre ultimele fabrici de acest tip din lume.", "category": "museum", "confidence": "high", "coords": [-2.209993, 53.040953]}, {"name": "Centrul de Patrimoniu Apedale", "text": "Oferă tururi ghidate într-o fostă mină, prezentând istoria industrială a părții de nord a orașului.", "category": "museum", "confidence": "high", "coords": [-2.266, 53.032]}, {"name": "Longton Exchange", "text": "Un centru comercial istoric care reflectă importanța orașului Longton ca centru al producției de porțelan fin.", "category": "historical", "confidence": "high", "coords": [-2.135511, 52.987913]}, {"name": "The Dudson Museum", "text": "Un muzeu din Stoke-on-Trent care prezintă istoria olăritului Dudson într-un vechi cuptor în formă de sticlă.", "category": "museum", "coords": [-2.179678, 53.029094]}, {"name": "New Victoria Theatre", "text": "Acest teatru din Stoke-on-Trent este cunoscut ca fiind primul teatru circular construit special din Europa.", "category": "cultural", "coords": [-2.214463, 53.016169]}, {"name": "Mitchell Arts Centre Auditorium", "text": "Un spațiu pentru spectacole de teatru în cadrul Mitchell Arts Centre din Stoke-on-Trent.", "category": "cultural", "coords": [-2.179749, 53.023031]}, {"name": "Waterworld", "text": "Un parc acvatic tropical interior popular din Stoke-on-Trent, cu numeroase tobogane și atracții.", "category": "family", "coords": [-2.197897, 53.027526]}, {"name": "Berryhill Fields Local Nature Reserve", "text": "O rezervație naturală locală din Stoke-on-Trent, care oferă habitat pentru fauna sălbatică și spațiu de recreere.", "category": "natural", "coords": [-2.137461, 53.009119]}, {"name": "Five Towns Theatre", "text": "O companie de teatru locală și un spațiu de spectacol din Stoke-on-Trent.", "category": "cultural", "coords": [-2.169044, 53.019772]}, {"name": "The amphitheater in Berryhill Fields", "text": "Un amfiteatru în aer liber din Stoke-on-Trent pentru evenimente în mijlocul naturii.", "category": "cultural", "coords": [-2.143596, 53.012278]}, {"name": "Trent Mill Nature Park", "text": "Un parc natural din Stoke-on-Trent, ideal pentru recreere și observarea florei locale.", "category": "natural", "coords": [-2.164346, 53.016669]}, {"name": "Josiah Wedgwood Statue", "text": "Stând falnică în Stoke On Trent, Josiah Wedgwood Statue onorează moștenirea celebrului olar local. Vizitatorii care admiră monumentul pot reflecta asupra impactului său imens asupra industriei ceramice din regiune. Statuia istorică servește ca un punct de atracție remarcabil în oraș.", "category": "historical", "coords": [-2.180636, 53.008171]}, {"name": "Stone Circle", "text": "Un monument din Stoke-on-Trent sub forma unui cerc de piatră.", "category": "historical", "coords": [-2.140233, 53.009045]}, {"name": "Lord nelsons industrial estate", "text": "Rămășițele unor instalații industriale istorice din Stoke-on-Trent.", "category": "historical", "coords": [-2.167102, 53.022119]}, {"name": "Pye Hill No.2 Colliery Clock", "text": "Un monument din Stoke-on-Trent care amintește de istoria minieră a regiunii.", "category": "historical", "coords": [-2.174773, 52.998267]}, {"name": "Saint Paul's Parish Church", "text": "O biserică parohială din Stoke-on-Trent dedicată Sfântului Paul.", "category": "religious", "coords": [-2.219717, 53.010386]}, {"name": "St. Mark's Basford", "text": "O biserică monument istoric din Basford, Stoke-on-Trent, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [-2.209684, 53.017576]}, {"name": "Holy Trinity Church", "text": "Un lăcaș de cult creștin din Stoke-on-Trent.", "category": "religious", "coords": [-2.201978, 53.009643]}, {"name": "All Saints Church", "text": "O biserică anglicană din Stoke-on-Trent.", "category": "religious", "coords": [-2.166558, 53.017351]}, {"name": "St Marks Church, Shelton", "text": "O biserică istorică din cartierul Shelton din Stoke-on-Trent.", "category": "religious", "coords": [-2.181943, 53.018924]}, {"name": "Christ Church, Fenton", "text": "Această biserică din Fenton a fost construită în secolul al XIX-lea și este un reper local important.", "category": "religious", "coords": [-2.163922, 52.997686]}, {"name": "St Luke's Church, Wellington", "text": "O biserică din cartierul Wellington din Stoke-on-Trent.", "category": "religious", "coords": [-2.16829, 53.024057]}, {"name": "Saint Thomas' Church", "text": "Un lăcaș religios din Stoke-on-Trent.", "category": "religious", "coords": [-2.196385, 53.000424]}, {"name": "Saint Matthias Hanford Parish Church", "text": "Biserica parohială din Hanford, Stoke-on-Trent.", "category": "religious", "coords": [-2.196304, 52.981269]}, {"name": "St Paul's", "text": "Una dintre bisericile din Stoke-on-Trent.", "category": "religious", "coords": [-2.172892, 52.995445]}, {"name": "Saint John's Church", "text": "Un lăcaș de cult istoric din Stoke-on-Trent.", "category": "religious", "coords": [-2.205277, 52.990065]}, {"name": "Parkhall Lake", "text": "Parkhall Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-2.107635, 52.992827]}, {"name": "Sideway Overflow", "text": "Sideway Overflow este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-2.180197, 52.988106]}, {"name": "Goldendale Pools", "text": "Goldendale Pools este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-2.224553, 53.05927]}, {"name": "Trentham Lake", "text": "Trentham Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.", "category": "natural", "coords": [-2.199142, 52.956768]}, {"name": "Lyme Valley Playground", "text": "Lyme Valley Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-2.21646, 53.001169]}, {"name": "Hanford Play Area", "text": "Hanford Play Area este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-2.196366, 52.976387]}, {"name": "Adenture Playground", "text": "Adenture Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-2.235712, 53.01276]}, {"name": "Ferndown Drive Playground", "text": "Ferndown Drive Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-2.217931, 52.977007]}, {"name": "Bucknall Park Playground", "text": "Bucknall Park Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.", "category": "family", "coords": [-2.148415, 53.02551]}, {"name": "Brampton Park Play Area", "text": "Brampton Park Play Area din Stoke On Trent este un loc de joacă excelent pentru familii.", "category": "family", "coords": [-2.219505, 53.015738]}, {"name": "Penkhull Park Playground", "text": "Penkhull Park Playground din Stoke On Trent oferă copiilor mult spațiu pentru joacă.", "category": "family", "coords": [-2.191247, 53.006981]}, {"name": "Etruria Park Play Area", "text": "Etruria Park Play Area din Stoke On Trent este un loc frumos pentru copii să se joace în aer liber.", "category": "family", "coords": [-2.191891, 53.022025]}, {"name": "Game Grid", "text": "Game Grid din Stoke On Trent este o sală de jocuri distractivă pentru toată familia.", "category": "family", "coords": [-2.180769, 53.024434]}, {"name": "Trentham Community Sports Centre Pool", "text": "Piscina de la Trentham Community Sports Centre oferă un mediu primitor pentru înotul în familie.", "category": "family", "coords": [-2.194476, 52.971352]}], "en": [{"name": "The Potteries Museum & Art Gallery", "text": "This museum houses the world's most significant collection of Staffordshire ceramics and the famous Staffordshire Hoard.", "category": "museum", "confidence": "high", "coords": [-2.178084, 53.022885]}, {"name": "Gladstone Pottery Museum", "text": "A fully preserved Victorian pottery factory with its distinctive bottle kilns, bringing the city's industrial past to life.", "category": "museum", "confidence": "high", "coords": [-2.1317, 52.9866]}, {"name": "World of Wedgwood", "text": "An experience centre showcasing the history of the world-famous Wedgwood brand, including factory tours and a museum.", "category": "museum", "confidence": "high", "coords": [-2.17081, 52.951892]}, {"name": "Middleport Pottery", "text": "The home of Burleigh pottery, offering a look at traditional handcrafting techniques in a historic canal-side factory.", "category": "museum", "confidence": "high", "coords": [-2.20954, 53.041]}, {"name": "Stoke Minster", "text": "The town's main church with Anglo-Saxon origins, containing the graves of master potters like Josiah Wedgwood.", "category": "religious", "confidence": "high", "coords": [-2.181304, 53.004095]}, {"name": "Trentham Gardens", "text": "Beautiful Italianate gardens, a lake, and extensive parklands offer relaxation and world-class horticultural displays.", "category": "recreational", "confidence": "high", "coords": [-2.198, 52.969]}, {"name": "Trentham Monkey Forest", "text": "A unique park where 140 Barbary macaques live free in ancient woodland, allowing for close observation by visitors.", "category": "natural", "confidence": "high", "coords": [-2.202, 52.952]}, {"name": "Ford Green Hall", "text": "A 17th-century timber-framed farmhouse museum showing rural life during the Tudor and Stuart periods.", "category": "historical", "confidence": "high", "coords": [-2.16946, 53.0549]}, {"name": "Bethesda Methodist Chapel", "text": "Known as the cathedral of Methodism, this building stands out for its grand architecture and historical significance.", "category": "religious", "confidence": "high", "coords": [-2.1769, 53.0233]}, {"name": "Victoria Hall", "text": "A magnificent concert hall built in 1888, renowned for its excellent acoustics and diverse musical programme.", "category": "cultural", "confidence": "high", "coords": [-2.1752, 53.0231]}, {"name": "Regent Theatre", "text": "A beautifully restored art deco theatre in Hanley that hosts major touring productions and musical shows.", "category": "cultural", "confidence": "high", "coords": [-2.176709, 53.024381]}, {"name": "Hanley Park", "text": "Victorian urban park featuring a pavilion, sports facilities, and manicured flower beds in the heart of the city.", "category": "recreational", "confidence": "high", "coords": [-2.176, 53.015]}, {"name": "Central Forest Park", "text": "A vast green space created on a former colliery site, ideal for hiking and featuring a large skatepark.", "category": "natural", "confidence": "high", "coords": [-2.173163, 53.034465]}, {"name": "Etruria Industrial Museum", "text": "The last steam-powered pottery materials grinding mill, showcasing the mechanical side of ceramic production.", "category": "museum", "confidence": "high", "coords": [-2.19204, 53.0186]}, {"name": "Spode Museum Works", "text": "A museum on the site of the historic Spode factory, featuring rare blue-and-white prints and design history.", "category": "museum", "confidence": "high", "coords": [-2.186028, 53.005354]}, {"name": "Emma Bridgewater Factory", "text": "A vibrant modern factory where visitors can watch hand-painted production and try decorating their own pottery.", "category": "museum", "confidence": "high", "coords": [-2.171055, 53.019676]}, {"name": "Burslem Town Hall", "text": "Imposing Victorian building with a classical facade, standing at the heart of the 'Mother Town' of the Potteries.", "category": "civic", "confidence": "high", "coords": [-2.197883, 53.045718]}, {"name": "Hartshill Park", "text": "A peaceful park offering wonderful views over the city and the surrounding Staffordshire moorland hills.", "category": "recreational", "confidence": "high", "coords": [-2.1983, 53.0103]}, {"name": "Park Hall Country Park", "text": "A nature reserve with ponds, woodlands, and heathland, providing an important sanctuary for local wildlife.", "category": "natural", "confidence": "high", "coords": [-2.106995, 53.00131]}, {"name": "Chatterley Whitfield Colliery", "text": "An industrial heritage site of national importance, remembering the mining past that once fuelled the potteries.", "category": "historical", "confidence": "high", "coords": [-2.1753, 53.0758]}, {"name": "Burleigh Pottery", "text": "Famous for the traditional transferware process, this is one of the last factories of its kind in the world.", "category": "museum", "confidence": "high", "coords": [-2.209993, 53.040953]}, {"name": "Apedale Heritage Centre", "text": "Offers guided tours into a former mine, showcasing the industrial history of the north part of the city.", "category": "museum", "confidence": "high", "coords": [-2.266, 53.032]}, {"name": "Longton Exchange", "text": "A historic commercial exchange reflecting Longton's importance as a centre for fine bone china production.", "category": "historical", "confidence": "high", "coords": [-2.135511, 52.987913]}, {"name": "The Dudson Museum", "text": "A museum in Stoke-on-Trent showcasing the history of Dudson pottery inside an old bottle kiln.", "category": "museum", "coords": [-2.179678, 53.029094]}, {"name": "New Victoria Theatre", "text": "This theatre in Stoke-on-Trent is known as Europe's first purpose-built theatre-in-the-round.", "category": "cultural", "coords": [-2.214463, 53.016169]}, {"name": "Mitchell Arts Centre Auditorium", "text": "A venue for theatrical performances within the Mitchell Arts Centre in Stoke-on-Trent.", "category": "cultural", "coords": [-2.179749, 53.023031]}, {"name": "Waterworld", "text": "A popular indoor tropical water park in Stoke-on-Trent featuring numerous slides and attractions.", "category": "family", "coords": [-2.197897, 53.027526]}, {"name": "Berryhill Fields Local Nature Reserve", "text": "A local nature reserve in Stoke-on-Trent providing wildlife habitat and recreational space.", "category": "natural", "coords": [-2.137461, 53.009119]}, {"name": "Five Towns Theatre", "text": "A local theatre company and venue in Stoke-on-Trent.", "category": "cultural", "coords": [-2.169044, 53.019772]}, {"name": "The amphitheater in Berryhill Fields", "text": "An open-air amphitheater in Stoke-on-Trent for events in a green setting.", "category": "cultural", "coords": [-2.143596, 53.012278]}, {"name": "Trent Mill Nature Park", "text": "A nature park in Stoke-on-Trent inviting recreation and observation of local flora.", "category": "natural", "coords": [-2.164346, 53.016669]}, {"name": "Josiah Wedgwood Statue", "text": "Standing proudly in Stoke On Trent, the Josiah Wedgwood Statue honors the legacy of the famous local potter. Visitors admiring the monument can reflect on his immense impact on the region's ceramic industry. The historical statue serves as a striking focal point in the city.", "category": "historical", "coords": [-2.180636, 53.008171]}, {"name": "Stone Circle", "text": "A monument in Stoke-on-Trent in the form of a stone circle.", "category": "historical", "coords": [-2.140233, 53.009045]}, {"name": "Lord nelsons industrial estate", "text": "Remains of historical industrial facilities in Stoke-on-Trent.", "category": "historical", "coords": [-2.167102, 53.022119]}, {"name": "Pye Hill No.2 Colliery Clock", "text": "A monument in Stoke-on-Trent commemorating the region's mining history.", "category": "historical", "coords": [-2.174773, 52.998267]}, {"name": "Saint Paul's Parish Church", "text": "A parish church in Stoke-on-Trent dedicated to Saint Paul.", "category": "religious", "coords": [-2.219717, 53.010386]}, {"name": "St. Mark's Basford", "text": "A listed church in Basford, Stoke-on-Trent, known for its architecture.", "category": "religious", "coords": [-2.209684, 53.017576]}, {"name": "Holy Trinity Church", "text": "A Christian place of worship in Stoke-on-Trent.", "category": "religious", "coords": [-2.201978, 53.009643]}, {"name": "All Saints Church", "text": "An Anglican church in Stoke-on-Trent.", "category": "religious", "coords": [-2.166558, 53.017351]}, {"name": "St Marks Church, Shelton", "text": "A historical church in the Shelton area of Stoke-on-Trent.", "category": "religious", "coords": [-2.181943, 53.018924]}, {"name": "Christ Church, Fenton", "text": "This church in Fenton was built in the 19th century and is a prominent local landmark.", "category": "religious", "coords": [-2.163922, 52.997686]}, {"name": "St Luke's Church, Wellington", "text": "A church in the Wellington district of Stoke-on-Trent.", "category": "religious", "coords": [-2.16829, 53.024057]}, {"name": "Saint Thomas' Church", "text": "A religious site in Stoke-on-Trent.", "category": "religious", "coords": [-2.196385, 53.000424]}, {"name": "Saint Matthias Hanford Parish Church", "text": "The parish church of Hanford in Stoke-on-Trent.", "category": "religious", "coords": [-2.196304, 52.981269]}, {"name": "St Paul's", "text": "One of the churches in Stoke-on-Trent.", "category": "religious", "coords": [-2.172892, 52.995445]}, {"name": "Saint John's Church", "text": "A historical place of worship in Stoke-on-Trent.", "category": "religious", "coords": [-2.205277, 52.990065]}, {"name": "Parkhall Lake", "text": "Parkhall Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-2.107635, 52.992827]}, {"name": "Sideway Overflow", "text": "Sideway Overflow is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-2.180197, 52.988106]}, {"name": "Goldendale Pools", "text": "Goldendale Pools is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-2.224553, 53.05927]}, {"name": "Trentham Lake", "text": "Trentham Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.", "category": "natural", "coords": [-2.199142, 52.956768]}, {"name": "Lyme Valley Playground", "text": "Lyme Valley Playground is a playground in Stoke On Trent, offering outdoor fun for families.", "category": "family", "coords": [-2.21646, 53.001169]}, {"name": "Hanford Play Area", "text": "Hanford Play Area is a playground in Stoke On Trent, offering outdoor fun for families.", "category": "family", "coords": [-2.196366, 52.976387]}, {"name": "Adenture Playground", "text": "Adenture Playground is a playground in Stoke On Trent, offering outdoor fun for families.", "category": "family", "coords": [-2.235712, 53.01276]}, {"name": "Ferndown Drive Playground", "text": "Ferndown Drive Playground is a playground in Stoke On Trent, offering outdoor fun for families.", "category": "family", "coords": [-2.217931, 52.977007]}, {"name": "Bucknall Park Playground", "text": "Bucknall Park Playground is a playground in Stoke On Trent, offering outdoor fun for families.", "category": "family", "coords": [-2.148415, 53.02551]}, {"name": "Brampton Park Play Area", "text": "The Brampton Park Play Area in Stoke On Trent is a great playground for a family outing.", "category": "family", "coords": [-2.219505, 53.015738]}, {"name": "Penkhull Park Playground", "text": "Penkhull Park Playground in Stoke On Trent offers plenty of space for children to play.", "category": "family", "coords": [-2.191247, 53.006981]}, {"name": "Etruria Park Play Area", "text": "Etruria Park Play Area in Stoke On Trent is a nice place for children to enjoy the outdoors.", "category": "family", "coords": [-2.191891, 53.022025]}, {"name": "Game Grid", "text": "Game Grid in Stoke On Trent is an entertaining amusement arcade for the whole family.", "category": "family", "coords": [-2.180769, 53.024434]}, {"name": "Trentham Community Sports Centre Pool", "text": "The pool at Trentham Community Sports Centre offers a welcoming environment for family swimming.", "category": "family", "coords": [-2.194476, 52.971352]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "The Potteries Museum & Art Gallery",
+                  "text": "Dieses Museum beherbergt die weltweit bedeutendste Sammlung von Keramiken aus Staffordshire und den angelsächsischen Schatz von Staffordshire.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.178084,
+                        53.022885
+                  ]
+            },
+            {
+                  "name": "Gladstone Töpfereimuseum",
+                  "text": "Eine vollständig erhaltene viktorianische Töpferei mit den charakteristischen Flaschenöfen, die die Industriegeschichte der Stadt lebendig macht.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1317,
+                        52.9866
+                  ]
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Ein Erlebniszentrum, das die Geschichte der weltberühmten Marke Wedgwood zeigt, inklusive Fabriktouren und eines bedeutenden Museums.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17081,
+                        52.951892
+                  ]
+            },
+            {
+                  "name": "Middleport Töpferei",
+                  "text": "Die Heimat der Burleigh-Keramik bietet Einblicke in traditionelle Handwerkstechniken in einer historischen Fabrik am Kanal.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.20954,
+                        53.041
+                  ]
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "Die Hauptkirche der Stadt mit angelsächsischen Ursprüngen und Gräbern bedeutender Töpfermeister wie Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.181304,
+                        53.004095
+                  ]
+            },
+            {
+                  "name": "Trentham Gärten",
+                  "text": "Wunderschöne italienische Gärten, ein See und weitläufige Parkanlagen bieten Erholung und erstklassige Gartenbaukunst.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198,
+                        52.969
+                  ]
+            },
+            {
+                  "name": "Trentham Affenwald",
+                  "text": "Ein einzigartiges Freigehege, in dem 140 Berberaffen frei in einem alten Waldgebiet leben und beobachtet werden können.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202,
+                        52.952
+                  ]
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "Ein prächtiges Fachwerkhaus aus dem 17. Jahrhundert, das als Museum das ländliche Leben der Tudor- und Stuart-Zeit zeigt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.16946,
+                        53.0549
+                  ]
+            },
+            {
+                  "name": "Bethesda Methodistenkapelle",
+                  "text": "Bekannt als die Kathedrale des Methodismus, beeindruckt dieses Gebäude durch seine Architektur und seine historische Bedeutung.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1769,
+                        53.0233
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Ein prachtvoller Konzertsaal aus dem Jahr 1888, der für seine hervorragende Akustik und sein vielfältiges Programm bekannt ist.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1752,
+                        53.0231
+                  ]
+            },
+            {
+                  "name": "Regent Theater",
+                  "text": "Ein wunderschön restauriertes Art-déco-Theater in Hanley, das große Tournee-Produktionen und Musicals beherbergt.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176709,
+                        53.024381
+                  ]
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Ein viktorianischer Stadtpark mit einem Pavillon, Sportanlagen und gepflegten Blumenbeeten im Zentrum der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176,
+                        53.015
+                  ]
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "Ein weitläufiger Grünraum auf einem ehemaligen Zechengelände, ideal für Wanderungen und mit einem großen Skatepark.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.173163,
+                        53.034465
+                  ]
+            },
+            {
+                  "name": "Etruria Industriemuseum",
+                  "text": "Die letzte dampfbetriebene Mahlmühle für Töpfermaterialien zeigt die mechanische Seite der Keramikherstellung.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19204,
+                        53.0186
+                  ]
+            },
+            {
+                  "name": "Spode Museum Works",
+                  "text": "Ein Museum auf dem Gelände der historischen Spode-Fabrik, das seltene Blau-Weiß-Drucke und Designgeschichte präsentiert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.186028,
+                        53.005354
+                  ]
+            },
+            {
+                  "name": "Emma Bridgewater Fabrik",
+                  "text": "Eine lebhafte moderne Fabrik, in der Besucher die handgemalte Produktion beobachten und selbst Keramik gestalten können.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.171055,
+                        53.019676
+                  ]
+            },
+            {
+                  "name": "Rathaus von Burslem",
+                  "text": "Ein beeindruckendes viktorianisches Gebäude mit klassizistischer Fassade, das das Herz der 'Mutterstadt' der Potteries bildet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197883,
+                        53.045718
+                  ]
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "Ein friedlicher Park mit herrlicher Aussicht auf die Stadt und die umliegenden Hügel von Staffordshire.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1983,
+                        53.0103
+                  ]
+            },
+            {
+                  "name": "Park Hall Landschaftspark",
+                  "text": "Ein Naturschutzgebiet mit Teichen, Wäldern und Heidelandschaften, das ein wichtiges Refugium für die lokale Tierwelt ist.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.106995,
+                        53.00131
+                  ]
+            },
+            {
+                  "name": "Chatterley Whitfield Kohlebergwerk",
+                  "text": "Ein national bedeutendes Industriedenkmal, das die Bergbaugeschichte erinnert, die einst die Töpfereien befeuerte.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1753,
+                        53.0758
+                  ]
+            },
+            {
+                  "name": "Burleigh Töpferei",
+                  "text": "Berühmt für das traditionelle Transferdruck-Verfahren, ist dies eine der letzten Fabriken ihrer Art weltweit.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.209993,
+                        53.040953
+                  ]
+            },
+            {
+                  "name": "Apedale Heritage Centre",
+                  "text": "Bietet geführte Touren durch ein ehemaliges Bergwerk und zeigt die lokale Industriegeschichte im Norden der Stadt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.266,
+                        53.032
+                  ]
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Ein historisches Handelszentrum, das die Bedeutung von Longton als Zentrum der Porzellanherstellung widerspiegelt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.135511,
+                        52.987913
+                  ]
+            },
+            {
+                  "name": "The Dudson Museum",
+                  "text": "Ein Museum in Stoke-on-Trent, das die Geschichte der Dudson-Töpferei in einem alten Flaschenofen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.179678,
+                        53.029094
+                  ]
+            },
+            {
+                  "name": "New Victoria Theatre",
+                  "text": "Dieses Theater in Stoke-on-Trent ist bekannt als das erste speziell gebaute Arena-Theater Europas.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.214463,
+                        53.016169
+                  ]
+            },
+            {
+                  "name": "Mitchell Arts Centre Auditorium",
+                  "text": "Ein Veranstaltungsort für Theateraufführungen innerhalb des Mitchell Arts Centre in Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.179749,
+                        53.023031
+                  ]
+            },
+            {
+                  "name": "Waterworld",
+                  "text": "Ein beliebter Indoor-Tropenwasserpark in Stoke-on-Trent mit zahlreichen Rutschen und Attraktionen.",
+                  "category": "family",
+                  "coords": [
+                        -2.197897,
+                        53.027526
+                  ]
+            },
+            {
+                  "name": "Berryhill Fields Local Nature Reserve",
+                  "text": "Ein lokales Naturschutzgebiet in Stoke-on-Trent, das Lebensraum für Wildtiere und Erholungsraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.137461,
+                        53.009119
+                  ]
+            },
+            {
+                  "name": "Five Towns Theatre",
+                  "text": "Eine lokale Theatergruppe und Spielstätte in Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.169044,
+                        53.019772
+                  ]
+            },
+            {
+                  "name": "The amphitheater in Berryhill Fields",
+                  "text": "Ein Freiluft-Amphitheater in Stoke-on-Trent für Veranstaltungen im Grünen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.143596,
+                        53.012278
+                  ]
+            },
+            {
+                  "name": "Trent Mill Nature Park",
+                  "text": "Ein Naturpark in Stoke-on-Trent, der zur Erholung und Beobachtung der lokalen Flora einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.164346,
+                        53.016669
+                  ]
+            },
+            {
+                  "name": "Josiah Wedgwood Statue",
+                  "text": "Stolz in Stoke-on-Trent stehend, ehrt die Josiah Wedgwood Statue das Vermächtnis des berühmten lokalen Töpfers. Besucher, die das Denkmal bewundern, können über seinen enormen Einfluss auf die Keramikindustrie der Region nachdenken. Die historische Statue dient als markanter Blickfang in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.180636,
+                        53.008171
+                  ]
+            },
+            {
+                  "name": "Stone Circle",
+                  "text": "Ein Denkmal in Stoke-on-Trent in Form eines Steinkreises.",
+                  "category": "historical",
+                  "coords": [
+                        -2.140233,
+                        53.009045
+                  ]
+            },
+            {
+                  "name": "Lord nelsons industrial estate",
+                  "text": "Überreste historischer Industrieanlagen in Stoke-on-Trent.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167102,
+                        53.022119
+                  ]
+            },
+            {
+                  "name": "Pye Hill No.2 Colliery Clock",
+                  "text": "Ein Denkmal in Stoke-on-Trent, das an die Bergbaugeschichte der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -2.174773,
+                        52.998267
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Parish Church",
+                  "text": "Eine Pfarrkirche in Stoke-on-Trent, die dem heiligen Paul gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.219717,
+                        53.010386
+                  ]
+            },
+            {
+                  "name": "St. Mark's Basford",
+                  "text": "Eine denkmalgeschützte Kirche in Basford, Stoke-on-Trent, die für ihre Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -2.209684,
+                        53.017576
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Eine christliche Gebetsstätte in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.201978,
+                        53.009643
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "Eine anglikanische Kirche in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.166558,
+                        53.017351
+                  ]
+            },
+            {
+                  "name": "St Marks Church, Shelton",
+                  "text": "Eine historische Kirche im Stadtteil Shelton von Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.181943,
+                        53.018924
+                  ]
+            },
+            {
+                  "name": "Christ Church, Fenton",
+                  "text": "Diese Kirche in Fenton wurde im 19. Jahrhundert erbaut und ist ein markantes lokales Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.163922,
+                        52.997686
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Wellington",
+                  "text": "Eine Kirche im Stadtteil Wellington von Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16829,
+                        53.024057
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Eine religiöse Stätte in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196385,
+                        53.000424
+                  ]
+            },
+            {
+                  "name": "Saint Matthias Hanford Parish Church",
+                  "text": "Die Pfarrkirche von Hanford in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196304,
+                        52.981269
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "Eine der Kirchen in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.172892,
+                        52.995445
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "Eine historische Gebetsstätte in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.205277,
+                        52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake ist ein See in Stoke On Trent, der eine ruhige Umgebung für einen entspannten Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground ist ein Spielplatz in Stoke On Trent, der Outdoor-Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "Der Brampton Park Play Area in Stoke On Trent ist ein idealer Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Der Penkhull Park Playground in Stoke On Trent bietet Kindern viel Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Der Etruria Park Play Area in Stoke On Trent ist ein schöner Ort für Kinder, um sich im Freien auszutoben.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Das Game Grid in Stoke On Trent ist eine unterhaltsame Spielhalle für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
+            },
+            {
+                  "name": "Trentham Community Sports Centre Pool",
+                  "text": "Das Schwimmbecken im Trentham Community Sports Centre bietet eine einladende Umgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -2.194476,
+                        52.971352
+                  ]
+            },
+            {
+                  "name": "Brampton Museum",
+                  "text": "Ein in einer Parklandschaft gelegenes Lokalhistorisches Museum, das das Leben und die Zeit der Region erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.21907,
+                        53.016844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Potteries Múzeum és Galéria",
+                  "text": "Ez a múzeum ad otthont a világ legjelentősebb staffordshire-i kerámiagyűjteményének és a híres staffordshire-i kincsnek.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.178084,
+                        53.022885
+                  ]
+            },
+            {
+                  "name": "Gladstone Fazekasmúzeum",
+                  "text": "Egy teljesen konzervált viktoriánus fazekasüzem jellegzetes kemencékkel, amely életre kelti a város ipari múltját.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1317,
+                        52.9866
+                  ]
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Élményközpont, amely a világhírű Wedgwood márka történetét mutatja be gyárlátogatással és múzeumi tárlattal.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17081,
+                        52.951892
+                  ]
+            },
+            {
+                  "name": "Middleport Fazekasság",
+                  "text": "A Burleigh kerámia otthona, ahol a látogatók bepillantást nyerhetnek a hagyományos kézműves technikákba a csatorna partján.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.20954,
+                        53.041
+                  ]
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "A város főtemploma angolszász eredettel, ahol híres fazekasmesterek, köztük Josiah Wedgwood sírja is található.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.181304,
+                        53.004095
+                  ]
+            },
+            {
+                  "name": "Trentham Kertek",
+                  "text": "Gyönyörű olasz kertek, egy tó és kiterjedt parkosított területek kínálnak kikapcsolódást és kertészeti élményt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198,
+                        52.969
+                  ]
+            },
+            {
+                  "name": "Trentham Majomerdő",
+                  "text": "Egyedülálló park, ahol 140 berber makákó él szabadon egy ősi erdőben, zavartalanul megfigyelhető módon.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202,
+                        52.952
+                  ]
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "Egy 17. századi fa-vázas kúria, amely múzeumként mutatja be a Tudor- és Stuart-kori vidéki életmódot.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.16946,
+                        53.0549
+                  ]
+            },
+            {
+                  "name": "Bethesda Metodista Kápolna",
+                  "text": "A metodizmus katedrálisaként ismert épület lenyűgöző belső térével és történelmi jelentőségével tűnik ki.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1769,
+                        53.0233
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Egy 1888-ban épült pompás hangversenyterem, amely kiváló akusztikájáról és változatos zenei programjairól ismert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1752,
+                        53.0231
+                  ]
+            },
+            {
+                  "name": "Regent Színház",
+                  "text": "Egy gyönyörűen felújított art deco színház Hanley-ben, amely nagyszabású turnéprodukcióknak és musicaleknek ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176709,
+                        53.024381
+                  ]
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Viktoriánus városi park pavilonnal, sportpályákkal és gondozott virágágyásokkal a város szívében.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176,
+                        53.015
+                  ]
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "Egy korábbi bánya területén kialakított zöldterület, amely túraútvonalakat és egy nagy gördeszkapályát kínál.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.173163,
+                        53.034465
+                  ]
+            },
+            {
+                  "name": "Etruria Ipari Múzeum",
+                  "text": "Az utolsó gőzüzemű kerámia-alapanyag őrlőmalom, amely bemutatja a gyártás mechanikai oldalát.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19204,
+                        53.0186
+                  ]
+            },
+            {
+                  "name": "Spode Múzeum",
+                  "text": "A történelmi Spode gyár területén található múzeum, amely ritka kék-fehér porcelánokat és formatervezési emlékeket őriz.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.186028,
+                        53.005354
+                  ]
+            },
+            {
+                  "name": "Emma Bridgewater Gyár",
+                  "text": "Egy életteli modern gyár, ahol a látogatók megfigyelhetik a kézzel festett termékek készítését és maguk is alkothatnak.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.171055,
+                        53.019676
+                  ]
+            },
+            {
+                  "name": "Burslem Városháza",
+                  "text": "Impozáns viktoriánus épület klasszicista homlokzattal, amely a fazekasvárosok anyavárosának központjában áll.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197883,
+                        53.045718
+                  ]
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "Békés park, ahonnan remek kilátás nyílik a városra és Staffordshire környező dombjaira.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1983,
+                        53.0103
+                  ]
+            },
+            {
+                  "name": "Park Hall Országos Park",
+                  "text": "Természetvédelmi terület tavakkal, erdőkkel és fenyérekkel, amely fontos menedék a helyi élővilág számára.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.106995,
+                        53.00131
+                  ]
+            },
+            {
+                  "name": "Chatterley Whitfield Szénbánya",
+                  "text": "Országos jelentőségű ipari emlékhely, amely a fazekasipart egykor kiszolgáló bányászati múltra emlékeztet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1753,
+                        53.0758
+                  ]
+            },
+            {
+                  "name": "Burleigh Fazekasság",
+                  "text": "A hagyományos matricás díszítésről híres üzem, amely az egyik utolsó ilyen típusú gyár a világon.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.209993,
+                        53.040953
+                  ]
+            },
+            {
+                  "name": "Apedale Örökségközpont",
+                  "text": "Vezetett túrákat kínál egy egykori bányában, bemutatva a város északi részének ipari fejlődését.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.266,
+                        53.032
+                  ]
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Történelmi kereskedelmi központ, amely Longton porcelángyártásban betöltött fontos szerepét tükrözi.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.135511,
+                        52.987913
+                  ]
+            },
+            {
+                  "name": "The Dudson Museum",
+                  "text": "Múzeum Stoke-on-Trentben, amely a Dudson fazekasműhely történetét mutatja be egy régi égetőkemencében.",
+                  "category": "museum",
+                  "coords": [
+                        -2.179678,
+                        53.029094
+                  ]
+            },
+            {
+                  "name": "New Victoria Theatre",
+                  "text": "Ez a Stoke-on-Trent-i színház Európa első kifejezetten körszínháznak épült játszóhelyeként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.214463,
+                        53.016169
+                  ]
+            },
+            {
+                  "name": "Mitchell Arts Centre Auditorium",
+                  "text": "Színházi előadások helyszíne a Stoke-on-Trent-i Mitchell Arts Centre-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.179749,
+                        53.023031
+                  ]
+            },
+            {
+                  "name": "Waterworld",
+                  "text": "Népszerű fedett trópusi vízi park Stoke-on-Trentben, számos csúszdával és látnivalóval.",
+                  "category": "family",
+                  "coords": [
+                        -2.197897,
+                        53.027526
+                  ]
+            },
+            {
+                  "name": "Berryhill Fields Local Nature Reserve",
+                  "text": "Helyi természetvédelmi terület Stoke-on-Trentben, amely vadvilági élőhelyet és kikapcsolódási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -2.137461,
+                        53.009119
+                  ]
+            },
+            {
+                  "name": "Five Towns Theatre",
+                  "text": "Helyi színtársulat és játszóhely Stoke-on-Trentben.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.169044,
+                        53.019772
+                  ]
+            },
+            {
+                  "name": "The amphitheater in Berryhill Fields",
+                  "text": "Szabadtéri amfiteátrum Stoke-on-Trentben zöldövezeti rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.143596,
+                        53.012278
+                  ]
+            },
+            {
+                  "name": "Trent Mill Nature Park",
+                  "text": "Természetvédelmi park Stoke-on-Trentben, amely kikapcsolódásra és a helyi flóra megfigyelésére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        -2.164346,
+                        53.016669
+                  ]
+            },
+            {
+                  "name": "Josiah Wedgwood Statue",
+                  "text": "A Stoke On Trent városában büszkén álló Josiah Wedgwood Statue a híres helyi fazekasmester hagyatéka előtt tiszteleg. Az emlékművet megcsodáló látogatók elgondolkodhatnak azon a hatalmas hatáson, amelyet a régió kerámiaiparára gyakorolt. A történelmi szobor lenyűgöző fókuszpontként szolgál a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.180636,
+                        53.008171
+                  ]
+            },
+            {
+                  "name": "Stone Circle",
+                  "text": "Kőkör formájú emlékmű Stoke-on-Trentben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.140233,
+                        53.009045
+                  ]
+            },
+            {
+                  "name": "Lord nelsons industrial estate",
+                  "text": "Történelmi ipari létesítmények maradványai Stoke-on-Trentben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167102,
+                        53.022119
+                  ]
+            },
+            {
+                  "name": "Pye Hill No.2 Colliery Clock",
+                  "text": "Emlékmű Stoke-on-Trentben, amely a régió bányászati múltjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -2.174773,
+                        52.998267
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Parish Church",
+                  "text": "Szent Pálnak szentelt plébániatemplom Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.219717,
+                        53.010386
+                  ]
+            },
+            {
+                  "name": "St. Mark's Basford",
+                  "text": "Műemlék templom a Stoke-on-Trent-i Basfordban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -2.209684,
+                        53.017576
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Keresztény templom Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.201978,
+                        53.009643
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "Anglikán templom Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.166558,
+                        53.017351
+                  ]
+            },
+            {
+                  "name": "St Marks Church, Shelton",
+                  "text": "Történelmi templom Stoke-on-Trent Shelton negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.181943,
+                        53.018924
+                  ]
+            },
+            {
+                  "name": "Christ Church, Fenton",
+                  "text": "Ez a fentoni templom a 19. században épült, és jelentős helyi jelkép.",
+                  "category": "religious",
+                  "coords": [
+                        -2.163922,
+                        52.997686
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Wellington",
+                  "text": "Templom Stoke-on-Trent Wellington negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16829,
+                        53.024057
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Vallási helyszín Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196385,
+                        53.000424
+                  ]
+            },
+            {
+                  "name": "Saint Matthias Hanford Parish Church",
+                  "text": "Hanford plébániatemploma Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196304,
+                        52.981269
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "Stoke-on-Trent egyik temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -2.172892,
+                        52.995445
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "Történelmi templom Stoke-on-Trentben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.205277,
+                        52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "A(z) Parkhall Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "A(z) Sideway Overflow egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "A(z) Goldendale Pools egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "A(z) Trentham Lake egy tó Stoke On Trent területén, amely békés környezetet biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "A(z) Lyme Valley Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "A(z) Hanford Play Area egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "A(z) Adenture Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "A(z) Ferndown Drive Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "A(z) Bucknall Park Playground egy játszótér Stoke On Trent területén, amely szabadtéri szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "A Stoke On Trent-i Brampton Park Play Area nagyszerű játszótér családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "A Stoke On Trent-i Penkhull Park Playground sok helyet kínál a gyerekeknek a játékra.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "A Stoke On Trent-i Etruria Park Play Area remek szabadtéri helyszín a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "A Stoke On Trent-i Game Grid szórakoztató játékterem az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
+            },
+            {
+                  "name": "Trentham Community Sports Centre Pool",
+                  "text": "A Trentham Community Sports Centre medencéje barátságos környezetet kínál a családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -2.194476,
+                        52.971352
+                  ]
+            },
+            {
+                  "name": "Brampton Museum",
+                  "text": "Egy parkban elhelyezkedő helytörténeti múzeum, amely a régió életét és korszakait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.21907,
+                        53.016844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul și Galeria de Artă Potteries",
+                  "text": "Acest muzeu găzduiește cea mai importantă colecție de ceramică din Staffordshire și faimosul tezaur anglo-saxon din Staffordshire.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.178084,
+                        53.022885
+                  ]
+            },
+            {
+                  "name": "Muzeul de Ceramică Gladstone",
+                  "text": "O fabrică de ceramică victoriană conservată integral, cu cuptoarele sale specifice, care readuce la viață istoria industrială.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1317,
+                        52.9866
+                  ]
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "Un centru de experiență care prezintă istoria brandului de renume mondial Wedgwood, incluzând tururi în fabrică.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17081,
+                        52.951892
+                  ]
+            },
+            {
+                  "name": "Ceramica Middleport",
+                  "text": "Sediul ceramicii Burleigh, oferind o incursiune în tehnicile tradiționale de manufactură într-o fabrică istorică de pe canal.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.20954,
+                        53.041
+                  ]
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "Biserica principală a orașului cu origini anglo-saxone, unde se află mormintele unor ceramiști celebri precum Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.181304,
+                        53.004095
+                  ]
+            },
+            {
+                  "name": "Grădinile Trentham",
+                  "text": "Grădini italiene superbe, un lac și parcuri vaste oferă relaxare și peisaje horticole de clasă mondială.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198,
+                        52.969
+                  ]
+            },
+            {
+                  "name": "Pădurea de Maimuțe Trentham",
+                  "text": "Un parc unic unde 140 de macaci berberi trăiesc liberi într-o pădure străveche, putând fi observați de vizitatori.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202,
+                        52.952
+                  ]
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "O casă boierească din secolul al XVII-lea, transformată în muzeu, care prezintă viața rurală din perioadele Tudor și Stuart.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.16946,
+                        53.0549
+                  ]
+            },
+            {
+                  "name": "Capela Metodistă Bethesda",
+                  "text": "Cunoscută drept catedrala metodismului, clădirea impresionează prin arhitectura sa și importanța sa istorică.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1769,
+                        53.0233
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "O sală de concerte grandioasă din 1888, celebră pentru acustica sa excelentă și programul cultural variat.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1752,
+                        53.0231
+                  ]
+            },
+            {
+                  "name": "Teatrul Regent",
+                  "text": "Un teatru art deco restaurat frumos în Hanley, care găzduiește producții majore de turneu și musicaluri.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176709,
+                        53.024381
+                  ]
+            },
+            {
+                  "name": "Parcul Hanley",
+                  "text": "Parc orășenesc victorian cu pavilion, facilități sportive și aranjamente florale îngrijite în centrul orașului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176,
+                        53.015
+                  ]
+            },
+            {
+                  "name": "Parcul Forestier Central",
+                  "text": "Un spațiu verde vast creat pe locul unei foste mine, ideal pentru drumeții și dotat cu un skatepark mare.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.173163,
+                        53.034465
+                  ]
+            },
+            {
+                  "name": "Muzeul Industrial Etruria",
+                  "text": "Ultima moară cu aburi funcțională pentru măcinarea materialelor ceramice, prezentând latura mecanică a producției.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19204,
+                        53.0186
+                  ]
+            },
+            {
+                  "name": "Muzeul Spode",
+                  "text": "Muzeu situat pe terenul fabricii istorice Spode, prezentând piese rare imprimate alb-albastru și istoria designului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.186028,
+                        53.005354
+                  ]
+            },
+            {
+                  "name": "Fabrica Emma Bridgewater",
+                  "text": "O fabrică modernă vibrantă unde vizitatorii pot urmări pictura manuală a produselor și își pot crea propria ceramică.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.171055,
+                        53.019676
+                  ]
+            },
+            {
+                  "name": "Primăria Burslem",
+                  "text": "Clădire victoriană impunătoare cu fațadă clasică, situată în inima orașului-mamă al ceramicii din Staffordshire.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197883,
+                        53.045718
+                  ]
+            },
+            {
+                  "name": "Parcul Hartshill",
+                  "text": "Un parc liniștit oferind vederi panoramice asupra orașului și a dealurilor înconjurătoare din Staffordshire.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1983,
+                        53.0103
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Park Hall",
+                  "text": "Rezervație naturală cu iazuri, păduri și lande, reprezentând un refugiu important pentru fauna locală.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.106995,
+                        53.00131
+                  ]
+            },
+            {
+                  "name": "Mina de Cărbune Chatterley Whitfield",
+                  "text": "Monument industrial de importanță națională care amintește de trecutul minier ce alimenta fabricile de ceramică.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1753,
+                        53.0758
+                  ]
+            },
+            {
+                  "name": "Ceramica Burleigh",
+                  "text": "Celebră pentru tehnica tradițională de decorare prin transfer, este una dintre ultimele fabrici de acest tip din lume.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.209993,
+                        53.040953
+                  ]
+            },
+            {
+                  "name": "Centrul de Patrimoniu Apedale",
+                  "text": "Oferă tururi ghidate într-o fostă mină, prezentând istoria industrială a părții de nord a orașului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.266,
+                        53.032
+                  ]
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "Un centru comercial istoric care reflectă importanța orașului Longton ca centru al producției de porțelan fin.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.135511,
+                        52.987913
+                  ]
+            },
+            {
+                  "name": "The Dudson Museum",
+                  "text": "Un muzeu din Stoke-on-Trent care prezintă istoria olăritului Dudson într-un vechi cuptor în formă de sticlă.",
+                  "category": "museum",
+                  "coords": [
+                        -2.179678,
+                        53.029094
+                  ]
+            },
+            {
+                  "name": "New Victoria Theatre",
+                  "text": "Acest teatru din Stoke-on-Trent este cunoscut ca fiind primul teatru circular construit special din Europa.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.214463,
+                        53.016169
+                  ]
+            },
+            {
+                  "name": "Mitchell Arts Centre Auditorium",
+                  "text": "Un spațiu pentru spectacole de teatru în cadrul Mitchell Arts Centre din Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.179749,
+                        53.023031
+                  ]
+            },
+            {
+                  "name": "Waterworld",
+                  "text": "Un parc acvatic tropical interior popular din Stoke-on-Trent, cu numeroase tobogane și atracții.",
+                  "category": "family",
+                  "coords": [
+                        -2.197897,
+                        53.027526
+                  ]
+            },
+            {
+                  "name": "Berryhill Fields Local Nature Reserve",
+                  "text": "O rezervație naturală locală din Stoke-on-Trent, care oferă habitat pentru fauna sălbatică și spațiu de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        -2.137461,
+                        53.009119
+                  ]
+            },
+            {
+                  "name": "Five Towns Theatre",
+                  "text": "O companie de teatru locală și un spațiu de spectacol din Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.169044,
+                        53.019772
+                  ]
+            },
+            {
+                  "name": "The amphitheater in Berryhill Fields",
+                  "text": "Un amfiteatru în aer liber din Stoke-on-Trent pentru evenimente în mijlocul naturii.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.143596,
+                        53.012278
+                  ]
+            },
+            {
+                  "name": "Trent Mill Nature Park",
+                  "text": "Un parc natural din Stoke-on-Trent, ideal pentru recreere și observarea florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -2.164346,
+                        53.016669
+                  ]
+            },
+            {
+                  "name": "Josiah Wedgwood Statue",
+                  "text": "Stând falnică în Stoke On Trent, Josiah Wedgwood Statue onorează moștenirea celebrului olar local. Vizitatorii care admiră monumentul pot reflecta asupra impactului său imens asupra industriei ceramice din regiune. Statuia istorică servește ca un punct de atracție remarcabil în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -2.180636,
+                        53.008171
+                  ]
+            },
+            {
+                  "name": "Stone Circle",
+                  "text": "Un monument din Stoke-on-Trent sub forma unui cerc de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -2.140233,
+                        53.009045
+                  ]
+            },
+            {
+                  "name": "Lord nelsons industrial estate",
+                  "text": "Rămășițele unor instalații industriale istorice din Stoke-on-Trent.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167102,
+                        53.022119
+                  ]
+            },
+            {
+                  "name": "Pye Hill No.2 Colliery Clock",
+                  "text": "Un monument din Stoke-on-Trent care amintește de istoria minieră a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -2.174773,
+                        52.998267
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Parish Church",
+                  "text": "O biserică parohială din Stoke-on-Trent dedicată Sfântului Paul.",
+                  "category": "religious",
+                  "coords": [
+                        -2.219717,
+                        53.010386
+                  ]
+            },
+            {
+                  "name": "St. Mark's Basford",
+                  "text": "O biserică monument istoric din Basford, Stoke-on-Trent, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        -2.209684,
+                        53.017576
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Un lăcaș de cult creștin din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.201978,
+                        53.009643
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "O biserică anglicană din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.166558,
+                        53.017351
+                  ]
+            },
+            {
+                  "name": "St Marks Church, Shelton",
+                  "text": "O biserică istorică din cartierul Shelton din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.181943,
+                        53.018924
+                  ]
+            },
+            {
+                  "name": "Christ Church, Fenton",
+                  "text": "Această biserică din Fenton a fost construită în secolul al XIX-lea și este un reper local important.",
+                  "category": "religious",
+                  "coords": [
+                        -2.163922,
+                        52.997686
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Wellington",
+                  "text": "O biserică din cartierul Wellington din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16829,
+                        53.024057
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Un lăcaș religios din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196385,
+                        53.000424
+                  ]
+            },
+            {
+                  "name": "Saint Matthias Hanford Parish Church",
+                  "text": "Biserica parohială din Hanford, Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196304,
+                        52.981269
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "Una dintre bisericile din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.172892,
+                        52.995445
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "Un lăcaș de cult istoric din Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.205277,
+                        52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake este un lac situat în Stoke On Trent, oferind un cadru liniștit pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground este un loc de joacă în Stoke On Trent, oferind distracție în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "Brampton Park Play Area din Stoke On Trent este un loc de joacă excelent pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Penkhull Park Playground din Stoke On Trent oferă copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Etruria Park Play Area din Stoke On Trent este un loc frumos pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Game Grid din Stoke On Trent este o sală de jocuri distractivă pentru toată familia.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
+            },
+            {
+                  "name": "Trentham Community Sports Centre Pool",
+                  "text": "Piscina de la Trentham Community Sports Centre oferă un mediu primitor pentru înotul în familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.194476,
+                        52.971352
+                  ]
+            },
+            {
+                  "name": "Brampton Museum",
+                  "text": "Un muzeu de istorie locală situat într-un parc, care explorează viața și vremurile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -2.21907,
+                        53.016844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Potteries Museum & Art Gallery",
+                  "text": "This museum houses the world's most significant collection of Staffordshire ceramics and the famous Staffordshire Hoard.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.178084,
+                        53.022885
+                  ]
+            },
+            {
+                  "name": "Gladstone Pottery Museum",
+                  "text": "A fully preserved Victorian pottery factory with its distinctive bottle kilns, bringing the city's industrial past to life.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1317,
+                        52.9866
+                  ]
+            },
+            {
+                  "name": "World of Wedgwood",
+                  "text": "An experience centre showcasing the history of the world-famous Wedgwood brand, including factory tours and a museum.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17081,
+                        52.951892
+                  ]
+            },
+            {
+                  "name": "Middleport Pottery",
+                  "text": "The home of Burleigh pottery, offering a look at traditional handcrafting techniques in a historic canal-side factory.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.20954,
+                        53.041
+                  ]
+            },
+            {
+                  "name": "Stoke Minster",
+                  "text": "The town's main church with Anglo-Saxon origins, containing the graves of master potters like Josiah Wedgwood.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.181304,
+                        53.004095
+                  ]
+            },
+            {
+                  "name": "Trentham Gardens",
+                  "text": "Beautiful Italianate gardens, a lake, and extensive parklands offer relaxation and world-class horticultural displays.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.198,
+                        52.969
+                  ]
+            },
+            {
+                  "name": "Trentham Monkey Forest",
+                  "text": "A unique park where 140 Barbary macaques live free in ancient woodland, allowing for close observation by visitors.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.202,
+                        52.952
+                  ]
+            },
+            {
+                  "name": "Ford Green Hall",
+                  "text": "A 17th-century timber-framed farmhouse museum showing rural life during the Tudor and Stuart periods.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.16946,
+                        53.0549
+                  ]
+            },
+            {
+                  "name": "Bethesda Methodist Chapel",
+                  "text": "Known as the cathedral of Methodism, this building stands out for its grand architecture and historical significance.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1769,
+                        53.0233
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "A magnificent concert hall built in 1888, renowned for its excellent acoustics and diverse musical programme.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1752,
+                        53.0231
+                  ]
+            },
+            {
+                  "name": "Regent Theatre",
+                  "text": "A beautifully restored art deco theatre in Hanley that hosts major touring productions and musical shows.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176709,
+                        53.024381
+                  ]
+            },
+            {
+                  "name": "Hanley Park",
+                  "text": "Victorian urban park featuring a pavilion, sports facilities, and manicured flower beds in the heart of the city.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.176,
+                        53.015
+                  ]
+            },
+            {
+                  "name": "Central Forest Park",
+                  "text": "A vast green space created on a former colliery site, ideal for hiking and featuring a large skatepark.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.173163,
+                        53.034465
+                  ]
+            },
+            {
+                  "name": "Etruria Industrial Museum",
+                  "text": "The last steam-powered pottery materials grinding mill, showcasing the mechanical side of ceramic production.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.19204,
+                        53.0186
+                  ]
+            },
+            {
+                  "name": "Spode Museum Works",
+                  "text": "A museum on the site of the historic Spode factory, featuring rare blue-and-white prints and design history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.186028,
+                        53.005354
+                  ]
+            },
+            {
+                  "name": "Emma Bridgewater Factory",
+                  "text": "A vibrant modern factory where visitors can watch hand-painted production and try decorating their own pottery.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.171055,
+                        53.019676
+                  ]
+            },
+            {
+                  "name": "Burslem Town Hall",
+                  "text": "Imposing Victorian building with a classical facade, standing at the heart of the 'Mother Town' of the Potteries.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.197883,
+                        53.045718
+                  ]
+            },
+            {
+                  "name": "Hartshill Park",
+                  "text": "A peaceful park offering wonderful views over the city and the surrounding Staffordshire moorland hills.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1983,
+                        53.0103
+                  ]
+            },
+            {
+                  "name": "Park Hall Country Park",
+                  "text": "A nature reserve with ponds, woodlands, and heathland, providing an important sanctuary for local wildlife.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.106995,
+                        53.00131
+                  ]
+            },
+            {
+                  "name": "Chatterley Whitfield Colliery",
+                  "text": "An industrial heritage site of national importance, remembering the mining past that once fuelled the potteries.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1753,
+                        53.0758
+                  ]
+            },
+            {
+                  "name": "Burleigh Pottery",
+                  "text": "Famous for the traditional transferware process, this is one of the last factories of its kind in the world.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.209993,
+                        53.040953
+                  ]
+            },
+            {
+                  "name": "Apedale Heritage Centre",
+                  "text": "Offers guided tours into a former mine, showcasing the industrial history of the north part of the city.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.266,
+                        53.032
+                  ]
+            },
+            {
+                  "name": "Longton Exchange",
+                  "text": "A historic commercial exchange reflecting Longton's importance as a centre for fine bone china production.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.135511,
+                        52.987913
+                  ]
+            },
+            {
+                  "name": "The Dudson Museum",
+                  "text": "A museum in Stoke-on-Trent showcasing the history of Dudson pottery inside an old bottle kiln.",
+                  "category": "museum",
+                  "coords": [
+                        -2.179678,
+                        53.029094
+                  ]
+            },
+            {
+                  "name": "New Victoria Theatre",
+                  "text": "This theatre in Stoke-on-Trent is known as Europe's first purpose-built theatre-in-the-round.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.214463,
+                        53.016169
+                  ]
+            },
+            {
+                  "name": "Mitchell Arts Centre Auditorium",
+                  "text": "A venue for theatrical performances within the Mitchell Arts Centre in Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.179749,
+                        53.023031
+                  ]
+            },
+            {
+                  "name": "Waterworld",
+                  "text": "A popular indoor tropical water park in Stoke-on-Trent featuring numerous slides and attractions.",
+                  "category": "family",
+                  "coords": [
+                        -2.197897,
+                        53.027526
+                  ]
+            },
+            {
+                  "name": "Berryhill Fields Local Nature Reserve",
+                  "text": "A local nature reserve in Stoke-on-Trent providing wildlife habitat and recreational space.",
+                  "category": "natural",
+                  "coords": [
+                        -2.137461,
+                        53.009119
+                  ]
+            },
+            {
+                  "name": "Five Towns Theatre",
+                  "text": "A local theatre company and venue in Stoke-on-Trent.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.169044,
+                        53.019772
+                  ]
+            },
+            {
+                  "name": "The amphitheater in Berryhill Fields",
+                  "text": "An open-air amphitheater in Stoke-on-Trent for events in a green setting.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.143596,
+                        53.012278
+                  ]
+            },
+            {
+                  "name": "Trent Mill Nature Park",
+                  "text": "A nature park in Stoke-on-Trent inviting recreation and observation of local flora.",
+                  "category": "natural",
+                  "coords": [
+                        -2.164346,
+                        53.016669
+                  ]
+            },
+            {
+                  "name": "Josiah Wedgwood Statue",
+                  "text": "Standing proudly in Stoke On Trent, the Josiah Wedgwood Statue honors the legacy of the famous local potter. Visitors admiring the monument can reflect on his immense impact on the region's ceramic industry. The historical statue serves as a striking focal point in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -2.180636,
+                        53.008171
+                  ]
+            },
+            {
+                  "name": "Stone Circle",
+                  "text": "A monument in Stoke-on-Trent in the form of a stone circle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.140233,
+                        53.009045
+                  ]
+            },
+            {
+                  "name": "Lord nelsons industrial estate",
+                  "text": "Remains of historical industrial facilities in Stoke-on-Trent.",
+                  "category": "historical",
+                  "coords": [
+                        -2.167102,
+                        53.022119
+                  ]
+            },
+            {
+                  "name": "Pye Hill No.2 Colliery Clock",
+                  "text": "A monument in Stoke-on-Trent commemorating the region's mining history.",
+                  "category": "historical",
+                  "coords": [
+                        -2.174773,
+                        52.998267
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Parish Church",
+                  "text": "A parish church in Stoke-on-Trent dedicated to Saint Paul.",
+                  "category": "religious",
+                  "coords": [
+                        -2.219717,
+                        53.010386
+                  ]
+            },
+            {
+                  "name": "St. Mark's Basford",
+                  "text": "A listed church in Basford, Stoke-on-Trent, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -2.209684,
+                        53.017576
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "A Christian place of worship in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.201978,
+                        53.009643
+                  ]
+            },
+            {
+                  "name": "All Saints Church",
+                  "text": "An Anglican church in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.166558,
+                        53.017351
+                  ]
+            },
+            {
+                  "name": "St Marks Church, Shelton",
+                  "text": "A historical church in the Shelton area of Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.181943,
+                        53.018924
+                  ]
+            },
+            {
+                  "name": "Christ Church, Fenton",
+                  "text": "This church in Fenton was built in the 19th century and is a prominent local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -2.163922,
+                        52.997686
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Wellington",
+                  "text": "A church in the Wellington district of Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.16829,
+                        53.024057
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "A religious site in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196385,
+                        53.000424
+                  ]
+            },
+            {
+                  "name": "Saint Matthias Hanford Parish Church",
+                  "text": "The parish church of Hanford in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.196304,
+                        52.981269
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "One of the churches in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.172892,
+                        52.995445
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "A historical place of worship in Stoke-on-Trent.",
+                  "category": "religious",
+                  "coords": [
+                        -2.205277,
+                        52.990065
+                  ]
+            },
+            {
+                  "name": "Parkhall Lake",
+                  "text": "Parkhall Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.107635,
+                        52.992827
+                  ]
+            },
+            {
+                  "name": "Sideway Overflow",
+                  "text": "Sideway Overflow is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.180197,
+                        52.988106
+                  ]
+            },
+            {
+                  "name": "Goldendale Pools",
+                  "text": "Goldendale Pools is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.224553,
+                        53.05927
+                  ]
+            },
+            {
+                  "name": "Trentham Lake",
+                  "text": "Trentham Lake is a lake situated in Stoke On Trent, providing a peaceful setting for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        -2.199142,
+                        52.956768
+                  ]
+            },
+            {
+                  "name": "Lyme Valley Playground",
+                  "text": "Lyme Valley Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.21646,
+                        53.001169
+                  ]
+            },
+            {
+                  "name": "Hanford Play Area",
+                  "text": "Hanford Play Area is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.196366,
+                        52.976387
+                  ]
+            },
+            {
+                  "name": "Adenture Playground",
+                  "text": "Adenture Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.235712,
+                        53.01276
+                  ]
+            },
+            {
+                  "name": "Ferndown Drive Playground",
+                  "text": "Ferndown Drive Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.217931,
+                        52.977007
+                  ]
+            },
+            {
+                  "name": "Bucknall Park Playground",
+                  "text": "Bucknall Park Playground is a playground in Stoke On Trent, offering outdoor fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -2.148415,
+                        53.02551
+                  ]
+            },
+            {
+                  "name": "Brampton Park Play Area",
+                  "text": "The Brampton Park Play Area in Stoke On Trent is a great playground for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -2.219505,
+                        53.015738
+                  ]
+            },
+            {
+                  "name": "Penkhull Park Playground",
+                  "text": "Penkhull Park Playground in Stoke On Trent offers plenty of space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -2.191247,
+                        53.006981
+                  ]
+            },
+            {
+                  "name": "Etruria Park Play Area",
+                  "text": "Etruria Park Play Area in Stoke On Trent is a nice place for children to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        -2.191891,
+                        53.022025
+                  ]
+            },
+            {
+                  "name": "Game Grid",
+                  "text": "Game Grid in Stoke On Trent is an entertaining amusement arcade for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.180769,
+                        53.024434
+                  ]
+            },
+            {
+                  "name": "Trentham Community Sports Centre Pool",
+                  "text": "The pool at Trentham Community Sports Centre offers a welcoming environment for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        -2.194476,
+                        52.971352
+                  ]
+            },
+            {
+                  "name": "Brampton Museum",
+                  "text": "A local history museum set in parkland, exploring the life and times of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -2.21907,
+                        53.016844
+                  ]
+            }
+      ]
+}
   },
   {
     id: "uk-derby-cities-v2", population: 255394,
@@ -67863,6 +79951,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.743762,
                         52.042003
                   ]
+            },
+            {
+                  "name": "Upper Lugg Meadow",
+                  "text": "Ein Naturschutzgebiet und traditionelle Heuwiese am Ufer des Lugg in Hereford.",
+                  "category": "natural",
+                  "coords": [
+                        -2.683673,
+                        52.066092
+                  ]
             }
       ],
       "hu": [
@@ -68188,6 +80285,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.743762,
                         52.042003
+                  ]
+            },
+            {
+                  "name": "Upper Lugg Meadow",
+                  "text": "Természetvédelmi terület és hagyományos kaszáló a Lugg folyó partján, Herefordban.",
+                  "category": "natural",
+                  "coords": [
+                        -2.683673,
+                        52.066092
                   ]
             }
       ],
@@ -68515,6 +80621,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.743762,
                         52.042003
                   ]
+            },
+            {
+                  "name": "Upper Lugg Meadow",
+                  "text": "O rezervație naturală și fâneață tradițională pe malul râului Lugg în Hereford.",
+                  "category": "natural",
+                  "coords": [
+                        -2.683673,
+                        52.066092
+                  ]
             }
       ],
       "en": [
@@ -68840,6 +80955,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.743762,
                         52.042003
+                  ]
+            },
+            {
+                  "name": "Upper Lugg Meadow",
+                  "text": "A nature reserve and traditional hay meadow on the banks of the River Lugg in Hereford.",
+                  "category": "natural",
+                  "coords": [
+                        -2.683673,
+                        52.066092
                   ]
             }
       ]
@@ -72542,6 +84666,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -6.682449,
                         54.331454
                   ]
+            },
+            {
+                  "name": "Milford House Museum",
+                  "text": "Ein Museum in Armagh, das die Geschichte des Herrenhauses Milford House zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.646611,
+                        54.347542
+                  ]
+            },
+            {
+                  "name": "Armagh Friary",
+                  "text": "Die Ruinen eines Franziskanerklosters aus dem 13. Jahrhundert in Armagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.65337,
+                        54.344261
+                  ]
+            },
+            {
+                  "name": "Market Place Theatre and Arts Centre",
+                  "text": "Ein modernes Theater und Kulturzentrum im Herzen von Armagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.654417,
+                        54.348284
+                  ]
+            },
+            {
+                  "name": "Abbey Lane Theatre",
+                  "text": "Ein kleines Gemeinschaftstheater in Armagh, das lokale Aufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.653418,
+                        54.346243
+                  ]
             }
       ],
       "hu": [
@@ -72724,6 +84884,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -6.682449,
                         54.331454
+                  ]
+            },
+            {
+                  "name": "Milford House Museum",
+                  "text": "Armagh melletti múzeum, amely a Milford House udvarház történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.646611,
+                        54.347542
+                  ]
+            },
+            {
+                  "name": "Armagh Friary",
+                  "text": "Egy 13. századi ferences kolostor romjai Armagh városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.65337,
+                        54.344261
+                  ]
+            },
+            {
+                  "name": "Market Place Theatre and Arts Centre",
+                  "text": "Modern színház és művészeti központ Armagh szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.654417,
+                        54.348284
+                  ]
+            },
+            {
+                  "name": "Abbey Lane Theatre",
+                  "text": "Kis közösségi színház Armagh-ban, amely helyi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.653418,
+                        54.346243
                   ]
             }
       ],
@@ -72908,6 +85104,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -6.682449,
                         54.331454
                   ]
+            },
+            {
+                  "name": "Milford House Museum",
+                  "text": "Un muzeu din Armagh care prezintă istoria conacului Milford House.",
+                  "category": "museum",
+                  "coords": [
+                        -6.646611,
+                        54.347542
+                  ]
+            },
+            {
+                  "name": "Armagh Friary",
+                  "text": "Ruinele unei mănăstiri franciscane din secolul al XIII-lea în Armagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.65337,
+                        54.344261
+                  ]
+            },
+            {
+                  "name": "Market Place Theatre and Arts Centre",
+                  "text": "Un teatru și centru cultural modern în inima orașului Armagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.654417,
+                        54.348284
+                  ]
+            },
+            {
+                  "name": "Abbey Lane Theatre",
+                  "text": "Un mic teatru comunitar din Armagh, care prezintă spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.653418,
+                        54.346243
+                  ]
             }
       ],
       "en": [
@@ -73090,6 +85322,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -6.682449,
                         54.331454
+                  ]
+            },
+            {
+                  "name": "Milford House Museum",
+                  "text": "A museum in Armagh showcasing the history of the Milford House manor.",
+                  "category": "museum",
+                  "coords": [
+                        -6.646611,
+                        54.347542
+                  ]
+            },
+            {
+                  "name": "Armagh Friary",
+                  "text": "The ruins of a 13th-century Franciscan friary in Armagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.65337,
+                        54.344261
+                  ]
+            },
+            {
+                  "name": "Market Place Theatre and Arts Centre",
+                  "text": "A modern theatre and arts centre located in the heart of Armagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.654417,
+                        54.348284
+                  ]
+            },
+            {
+                  "name": "Abbey Lane Theatre",
+                  "text": "A small community theatre in Armagh presenting local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.653418,
+                        54.346243
                   ]
             }
       ]
@@ -74387,6 +86655,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.443516,
                         56.390951
                   ]
+            },
+            {
+                  "name": "Perth Museum",
+                  "text": "Das Hauptmuseum von Perth zeigt Sammlungen zur lokalen Geschichte und Naturwissenschaft.",
+                  "category": "museum",
+                  "coords": [
+                        -3.429359,
+                        56.395869
+                  ]
+            },
+            {
+                  "name": "Pitheavlis Castle",
+                  "text": "Ein historisches Tower House in Perth, das ursprünglich als Adelssitz diente.",
+                  "category": "castle",
+                  "coords": [
+                        -3.450933,
+                        56.389013
+                  ]
+            },
+            {
+                  "name": "Lower City Mills",
+                  "text": "Eine historische Wassermühle in Perth, die Einblicke in die Industriegeschichte bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -3.435531,
+                        56.397364
+                  ]
+            },
+            {
+                  "name": "William Soutar's House",
+                  "text": "Das ehemalige Wohnhaus des Dichters William Soutar in Perth, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.443441,
+                        56.388381
+                  ]
             }
       ],
       "hu": [
@@ -74544,6 +86848,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.443516,
                         56.390951
+                  ]
+            },
+            {
+                  "name": "Perth Museum",
+                  "text": "Perth központi múzeuma, amely helytörténeti és természettudományi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -3.429359,
+                        56.395869
+                  ]
+            },
+            {
+                  "name": "Pitheavlis Castle",
+                  "text": "Történelmi lakótorony Perth-ben, amely eredetileg nemesi székhely volt.",
+                  "category": "castle",
+                  "coords": [
+                        -3.450933,
+                        56.389013
+                  ]
+            },
+            {
+                  "name": "Lower City Mills",
+                  "text": "Történelmi vízimalom Perth-ben, amely az ipartörténetbe enged betekintést.",
+                  "category": "historical",
+                  "coords": [
+                        -3.435531,
+                        56.397364
+                  ]
+            },
+            {
+                  "name": "William Soutar's House",
+                  "text": "William Soutar költő egykori lakóháza Perth-ben, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        -3.443441,
+                        56.388381
                   ]
             }
       ],
@@ -74703,6 +87043,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.443516,
                         56.390951
                   ]
+            },
+            {
+                  "name": "Perth Museum",
+                  "text": "Principalul muzeu din Perth, care prezintă colecții de istorie locală și științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        -3.429359,
+                        56.395869
+                  ]
+            },
+            {
+                  "name": "Pitheavlis Castle",
+                  "text": "O casă-turn istorică din Perth, care a servit inițial ca reședință nobiliară.",
+                  "category": "castle",
+                  "coords": [
+                        -3.450933,
+                        56.389013
+                  ]
+            },
+            {
+                  "name": "Lower City Mills",
+                  "text": "O moară de apă istorică din Perth, care oferă o perspectivă asupra istoriei industriale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.435531,
+                        56.397364
+                  ]
+            },
+            {
+                  "name": "William Soutar's House",
+                  "text": "Fosta casă a poetului William Soutar din Perth, astăzi transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -3.443441,
+                        56.388381
+                  ]
             }
       ],
       "en": [
@@ -74860,6 +87236,42 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.443516,
                         56.390951
+                  ]
+            },
+            {
+                  "name": "Perth Museum",
+                  "text": "The main museum in Perth, featuring collections on local history and natural sciences.",
+                  "category": "museum",
+                  "coords": [
+                        -3.429359,
+                        56.395869
+                  ]
+            },
+            {
+                  "name": "Pitheavlis Castle",
+                  "text": "A historic tower house in Perth, originally serving as a noble residence.",
+                  "category": "castle",
+                  "coords": [
+                        -3.450933,
+                        56.389013
+                  ]
+            },
+            {
+                  "name": "Lower City Mills",
+                  "text": "A historic watermill in Perth offering insight into industrial history.",
+                  "category": "historical",
+                  "coords": [
+                        -3.435531,
+                        56.397364
+                  ]
+            },
+            {
+                  "name": "William Soutar's House",
+                  "text": "The former home of poet William Soutar in Perth, now preserved as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -3.443441,
+                        56.388381
                   ]
             }
       ]

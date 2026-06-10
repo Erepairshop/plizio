@@ -274,7 +274,196 @@ export const belarusLandmarksV2: POI[] = [
       fr: ["Construit entre 1734 et 1751 comme résidence royale d'été.", "Commandé sous le règne du roi de Pologne et grand-duc de Lituanie Auguste III.", "A accueilli l'historique 'Diète silencieuse' en 1793, acceptant le deuxième partage de la Pologne.", "Le roi Stanislas Auguste Poniatowski y a officiellement abdiqué son trône en 1795.", "A subi une destruction quasi totale lors des féroces combats de la Seconde Guerre mondiale.", "Reconstruit dans les années 1950 dans le style distinct de l'architecture néoclassique soviétique.", "Sert actuellement de branche majeure du Musée historique d'État de Grodno."],
     }, image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"},
   {
-    id: "belarus-kosava-castle-landmarks-v2",
+    id: "belarus-kosava-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Палац Пуслоўскіх",
+                  "text": "Ein prächtiger Palast des Geschlechts Pusłowski in der Nähe von Kosava.",
+                  "category": "castle",
+                  "coords": [
+                        25.121606,
+                        52.765615
+                  ]
+            },
+            {
+                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "text": "Eine im Jahr 1868 errichtete St.-Antonius-Kirche in Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15266,
+                        52.757761
+                  ]
+            },
+            {
+                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "text": "Eine historische Dreifaltigkeitskirche aus dem Jahr 1877 in Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.159118,
+                        52.754524
+                  ]
+            },
+            {
+                  "name": "Музей Тадэвуша Касцюшкі",
+                  "text": "Das Museum im Geburtshaus von Tadeusz Kościuszko in der Nähe des Kosava-Palastes.",
+                  "category": "historical",
+                  "coords": [
+                        25.125237,
+                        52.767615
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія",
+                  "text": "Eine dem heiligen Georg geweihte Kirche in Kosava.",
+                  "category": "religious",
+                  "coords": [
+                        25.145543,
+                        52.752361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Палац Пуслоўскіх",
+                  "text": "A Pusłowski család impozáns palotája Koszava közelében.",
+                  "category": "castle",
+                  "coords": [
+                        25.121606,
+                        52.765615
+                  ]
+            },
+            {
+                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "text": "1868-ban épült Szent Antal-templom Koszavában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15266,
+                        52.757761
+                  ]
+            },
+            {
+                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "text": "Történelmi Szentháromság-templom 1877-ből Koszavában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.159118,
+                        52.754524
+                  ]
+            },
+            {
+                  "name": "Музей Тадэвуша Касцюшкі",
+                  "text": "Tadeusz Kościuszko szülőházában berendezett múzeum a koszavai palota mellett.",
+                  "category": "historical",
+                  "coords": [
+                        25.125237,
+                        52.767615
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія",
+                  "text": "Szent György tiszteletére szentelt templom Koszavában.",
+                  "category": "religious",
+                  "coords": [
+                        25.145543,
+                        52.752361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Палац Пуслоўскіх",
+                  "text": "Un palat grandios al familiei Pusłowski, situat lângă Kosava.",
+                  "category": "castle",
+                  "coords": [
+                        25.121606,
+                        52.765615
+                  ]
+            },
+            {
+                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "text": "Biserica Sfântul Anton, construită în anul 1868 în Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15266,
+                        52.757761
+                  ]
+            },
+            {
+                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "text": "Biserica Sfânta Treime, datând din 1877, situată în Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.159118,
+                        52.754524
+                  ]
+            },
+            {
+                  "name": "Музей Тадэвуша Касцюшкі",
+                  "text": "Muzeul amenajat în casa natală a lui Tadeusz Kościuszko, lângă palatul din Kosava.",
+                  "category": "historical",
+                  "coords": [
+                        25.125237,
+                        52.767615
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія",
+                  "text": "O biserică dedicată Sfântului Gheorghe în Kosava.",
+                  "category": "religious",
+                  "coords": [
+                        25.145543,
+                        52.752361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pusłowski palace",
+                  "text": "An imposing palace of the Pusłowski family located near Kosava.",
+                  "category": "castle",
+                  "coords": [
+                        25.121606,
+                        52.765615
+                  ]
+            },
+            {
+                  "name": "St. Anthony Church (1868)",
+                  "text": "St. Anthony Church, built in 1868 in Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.15266,
+                        52.757761
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church (1877)",
+                  "text": "Historical Holy Trinity Church from 1877, located in Kosava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.159118,
+                        52.754524
+                  ]
+            },
+            {
+                  "name": "Tadeusz Kościuszko Museum",
+                  "text": "The museum in the birthplace of Tadeusz Kościuszko, located near the Kosava palace.",
+                  "category": "historical",
+                  "coords": [
+                        25.125237,
+                        52.767615
+                  ]
+            },
+            {
+                  "name": "St. George Church",
+                  "text": "A church dedicated to St. George in Kosava.",
+                  "category": "religious",
+                  "coords": [
+                        25.145543,
+                        52.752361
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "palace",
     name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)"},
@@ -319,7 +508,52 @@ export const belarusLandmarksV2: POI[] = [
       fr: ["La construction du palais a été lancée en 1838 par le comte Wandalin Pouslovski.", "L'architecture est un exemple majeur du style néogothique anglais du XIXe siècle.", "Les 12 tours emblématiques symbolisent les 12 mois de l'année civile.", "Il contenait à l'origine plus de 130 pièces, chacune décorée selon un thème de couleur.", "Incendié par des partisans en 1944 pour empêcher son utilisation par les forces ennemies.", "Situé à proximité de la maison-musée du héros national Tadeusz Kosciuszko.", "Depuis 2008, une vaste campagne de restauration redonne vie à l'édifice."],
     }, image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"},
   {
-    id: "belarus-ruzhany-palace-ruins-landmarks-v2",
+    id: "belarus-ruzhany-palace-ruins-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha, einst ein bedeutendes politisches Zentrum.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "A Sapieha család pompás rezidenciájának romjai, amely egykor jelentős politikai központ volt.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "text": "Ruinele unei reședințe magnifice a familiei Sapieha, odinioară un important centru politic.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sapiehas palace ensemble",
+                  "text": "The ruins of a magnificent residence of the Sapieha family, once a major political center.",
+                  "category": "castle",
+                  "coords": [
+                        24.895943,
+                        52.86066
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "ruins",
     name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins"},
@@ -410,7 +644,52 @@ export const belarusLandmarksV2: POI[] = [
     }
   },
   {
-    id: "belarus-kamyanets-tower-landmarks-v2",
+    id: "belarus-kamyanets-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Камянецкая вежа",
+                  "text": "Ein gut erhaltener Backsteinturm aus dem 13. Jahrhundert, auch als Weißer Turm bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.819457,
+                        52.40476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Камянецкая вежа",
+                  "text": "Egy jó állapotban fennmaradt 13. századi téglatorony, amelyet Fehér-toronyként is ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        23.819457,
+                        52.40476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Камянецкая вежа",
+                  "text": "Un turn de cărămidă bine conservat din secolul al XIII-lea, cunoscut și sub numele de Turnul Alb.",
+                  "category": "landmark",
+                  "coords": [
+                        23.819457,
+                        52.40476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of Kamyanyets",
+                  "text": "A well-preserved 13th-century brick tower, also known as the White Tower.",
+                  "category": "landmark",
+                  "coords": [
+                        23.819457,
+                        52.40476
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "tower",
     name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)"},
@@ -775,7 +1054,124 @@ export const belarusLandmarksV2: POI[] = [
     }
   },
   {
-    id: "belarus-halshany-castle-ruins-landmarks-v2",
+    id: "belarus-halshany-castle-ruins-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "Die Ruinen eines befestigten Schlosses aus dem 17. Jahrhundert, einst Sitz der Familie Sapieha.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "Historische Arkadengänge aus dem 19. Jahrhundert im Zentrum von Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "Eine bedeutende Barockkirche und ein ehemaliges Franziskanerkloster in Halshany.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "Egy 17. századi erődített kastély romjai, amely egykor a Sapieha család székhelye volt.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "19. századi történelmi árkádsor Halshany központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "Jelentős barokk templom és egykori ferences kolostor Halshanyban.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Гальшанскі замак Сапегаў",
+                  "text": "Ruinele unui castel fortificat din secolul al XVII-lea, fostă reședință a familiei Sapieha.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "text": "Arcade comerciale istorice din secolul al XIX-lea în centrul localității Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "text": "O biserică barocă importantă și o fostă mănăstire franciscană din Halshany.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Halshany Sapieha Castle",
+                  "text": "The ruins of a 17th-century fortified castle, once the residence of the Sapieha family.",
+                  "category": "castle",
+                  "coords": [
+                        26.020329,
+                        54.251399
+                  ]
+            },
+            {
+                  "name": "Shopping arcade (XIX)",
+                  "text": "Historic 19th-century shopping arcades located in the center of Halshany.",
+                  "category": "landmark",
+                  "coords": [
+                        26.01106,
+                        54.257422
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Catholic Church",
+                  "text": "A significant Baroque church and a former Franciscan monastery in Halshany.",
+                  "category": "religious",
+                  "coords": [
+                        26.009987,
+                        54.25687
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "ruins",
     name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins"},

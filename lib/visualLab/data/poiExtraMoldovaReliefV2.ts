@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const moldovaReliefV2: POI[] = [
 
   {
-    id: "moldova-codru-highlands-relief-v2",
+    id: "moldova-codru-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa-Muzeu „Alexandr Pușkin“",
+                  "text": "Ein Museum im Dorf Dolna, das an den Aufenthalt des Dichters Alexander Puschkin erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        28.272907,
+                        47.125302
+                  ]
+            },
+            {
+                  "name": "Conacul lui Zamfirache Ralli",
+                  "text": "Ein historisches Herrenhaus, das eng mit der Geschichte der Familie Ralli und Puschkin verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        28.271838,
+                        47.125257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa-Muzeu „Alexandr Pușkin“",
+                  "text": "A költő Sándor Puskin emlékének szentelt múzeum Dolna faluban.",
+                  "category": "museum",
+                  "coords": [
+                        28.272907,
+                        47.125302
+                  ]
+            },
+            {
+                  "name": "Conacul lui Zamfirache Ralli",
+                  "text": "Történelmi udvarház, amely szorosan kapcsolódik a Ralli család és Puskin történetéhez.",
+                  "category": "historical",
+                  "coords": [
+                        28.271838,
+                        47.125257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa-Muzeu „Alexandr Pușkin“",
+                  "text": "Un muzeu situat în satul Dolna, dedicat memoriei poetului Aleksandr Pușkin.",
+                  "category": "museum",
+                  "coords": [
+                        28.272907,
+                        47.125302
+                  ]
+            },
+            {
+                  "name": "Conacul lui Zamfirache Ralli",
+                  "text": "Un conac istoric legat strâns de istoria familiei Ralli și de prezența lui Pușkin.",
+                  "category": "historical",
+                  "coords": [
+                        28.271838,
+                        47.125257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa-Muzeu „Alexandr Pușkin“",
+                  "text": "A museum in the village of Dolna dedicated to the memory of poet Alexander Pushkin.",
+                  "category": "museum",
+                  "coords": [
+                        28.272907,
+                        47.125302
+                  ]
+            },
+            {
+                  "name": "Conacul lui Zamfirache Ralli",
+                  "text": "A historical manor house closely linked to the Ralli family and Alexander Pushkin.",
+                  "category": "historical",
+                  "coords": [
+                        28.271838,
+                        47.125257
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Codru-Hochland", hu: "Codru-hátság", ro: "Podișul Codrilor", en: "Codru Highlands"},
@@ -50,7 +131,52 @@ export const moldovaReliefV2: POI[] = [
     },
   },
   {
-    id: "moldova-dniester-plateau-relief-v2",
+    id: "moldova-dniester-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biserica Pohoarna",
+                  "text": "Eine lokale Kirche im Dorf Pohoarna auf dem Dnjestr-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500728,
+                        47.829089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica Pohoarna",
+                  "text": "Helyi templom Pohoarna falujában, a Dnyeszter-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500728,
+                        47.829089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Pohoarna",
+                  "text": "O biserică locală în satul Pohoarna, situată pe Podișul Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500728,
+                        47.829089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica Pohoarna",
+                  "text": "A local church in the village of Pohoarna, located on the Dniester Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        28.500728,
+                        47.829089
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Dnestr-Plateau", hu: "Dnyeszter-menti-hátság", ro: "Podișul Nistrului", en: "Dniester Plateau"},
@@ -285,7 +411,268 @@ export const moldovaReliefV2: POI[] = [
     },
   },
   {
-    id: "moldova-prut-toltry-relief-v2",
+    id: "moldova-prut-toltry-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mănăstirea Zăbriceni",
+                  "text": "Ein friedliches orthodoxes Kloster im Dorf Zăbriceni in Moldawien.",
+                  "category": "landmark",
+                  "coords": [
+                        27.223657,
+                        48.085862
+                  ]
+            },
+            {
+                  "name": "Colţul Morarului",
+                  "text": "Eine natürliche Kalksteinformation und ein Aussichtspunkt in der Region Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.159183,
+                        48.085014
+                  ]
+            },
+            {
+                  "name": "Grotă",
+                  "text": "Eine kleine natürliche Höhle oder Grotte in der malerischen Landschaft von Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.156599,
+                        48.088069
+                  ]
+            },
+            {
+                  "name": "În memoria eroilor celui de al II-lea război mondial",
+                  "text": "Eine Gedenkstätte, die den Soldaten und Opfern des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.174136,
+                        48.084452
+                  ]
+            },
+            {
+                  "name": "Grota Buzdugeni",
+                  "text": "Eine prähistorische Höhle in Moldawien, bekannt für ihre archäologische Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        27.171878,
+                        48.116593
+                  ]
+            },
+            {
+                  "name": "Grotele de la Volodeni",
+                  "text": "Interessante Naturhöhlen in der malerischen Region Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.176396,
+                        48.117963
+                  ]
+            },
+            {
+                  "name": "Cascade (1-1.5m)",
+                  "text": "Ein kleiner, natürlicher Wasserfall in der Landschaft von Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.158335,
+                        48.093361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mănăstirea Zăbriceni",
+                  "text": "Nyugodt ortodox kolostor a moldovai Zăbriceni faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.223657,
+                        48.085862
+                  ]
+            },
+            {
+                  "name": "Colţul Morarului",
+                  "text": "Természetes mészkőképződmény és kilátóhely a Prut Toltry régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.159183,
+                        48.085014
+                  ]
+            },
+            {
+                  "name": "Grotă",
+                  "text": "Kisméretű természetes barlang vagy grotta a Prut Toltry festői táján.",
+                  "category": "landmark",
+                  "coords": [
+                        27.156599,
+                        48.088069
+                  ]
+            },
+            {
+                  "name": "În memoria eroilor celui de al II-lea război mondial",
+                  "text": "A második világháború katonáinak és áldozatainak szentelt emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        27.174136,
+                        48.084452
+                  ]
+            },
+            {
+                  "name": "Grota Buzdugeni",
+                  "text": "Őskori barlang Moldovában, amely régészeti jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.171878,
+                        48.116593
+                  ]
+            },
+            {
+                  "name": "Grotele de la Volodeni",
+                  "text": "Érdekes természeti barlangok a festői Prut Toltry régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.176396,
+                        48.117963
+                  ]
+            },
+            {
+                  "name": "Cascade (1-1.5m)",
+                  "text": "Egy apró, természetes vízesés a Prut Toltry vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.158335,
+                        48.093361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea Zăbriceni",
+                  "text": "O mănăstire ortodoxă liniștită situată în satul Zăbriceni din Republica Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        27.223657,
+                        48.085862
+                  ]
+            },
+            {
+                  "name": "Colţul Morarului",
+                  "text": "O formațiune calcaroasă naturală și un loc pitoresc în regiunea Toltrele Prutului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.159183,
+                        48.085014
+                  ]
+            },
+            {
+                  "name": "Grotă",
+                  "text": "O mică peșteră naturală sau grotă situată în peisajul pitoresc al Toltrelor Prutului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.156599,
+                        48.088069
+                  ]
+            },
+            {
+                  "name": "În memoria eroilor celui de al II-lea război mondial",
+                  "text": "Un sit memorial dedicat soldaților și victimelor celui de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        27.174136,
+                        48.084452
+                  ]
+            },
+            {
+                  "name": "Grota Buzdugeni",
+                  "text": "O peșteră preistorică din Republica Moldova, cunoscută pentru importanța sa arheologică.",
+                  "category": "landmark",
+                  "coords": [
+                        27.171878,
+                        48.116593
+                  ]
+            },
+            {
+                  "name": "Grotele de la Volodeni",
+                  "text": "Grote naturale interesante situate în regiunea pitorească Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.176396,
+                        48.117963
+                  ]
+            },
+            {
+                  "name": "Cascade (1-1.5m)",
+                  "text": "O mică cascadă naturală situată în peisajul din Prut Toltry.",
+                  "category": "landmark",
+                  "coords": [
+                        27.158335,
+                        48.093361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mănăstirea Zăbriceni",
+                  "text": "A serene Orthodox monastery located in the Zăbriceni village of Moldova.",
+                  "category": "landmark",
+                  "coords": [
+                        27.223657,
+                        48.085862
+                  ]
+            },
+            {
+                  "name": "Colţul Morarului",
+                  "text": "A natural limestone formation and scenic spot within the Prut Toltry region.",
+                  "category": "landmark",
+                  "coords": [
+                        27.159183,
+                        48.085014
+                  ]
+            },
+            {
+                  "name": "Grotă",
+                  "text": "A small natural cave or grotto located in the scenic Prut Toltry landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        27.156599,
+                        48.088069
+                  ]
+            },
+            {
+                  "name": "În memoria eroilor celui de al II-lea război mondial",
+                  "text": "A memorial site dedicated to the soldiers and victims of the Second World War.",
+                  "category": "landmark",
+                  "coords": [
+                        27.174136,
+                        48.084452
+                  ]
+            },
+            {
+                  "name": "Grota Buzdugeni",
+                  "text": "A prehistoric cave site in Moldova, known for its archaeological importance.",
+                  "category": "landmark",
+                  "coords": [
+                        27.171878,
+                        48.116593
+                  ]
+            },
+            {
+                  "name": "Grotele de la Volodeni",
+                  "text": "Interesting natural caves located in the scenic Prut Toltry region.",
+                  "category": "landmark",
+                  "coords": [
+                        27.176396,
+                        48.117963
+                  ]
+            },
+            {
+                  "name": "Cascade (1-1.5m)",
+                  "text": "A small natural waterfall located in the Prut Toltry landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        27.158335,
+                        48.093361
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Prut-Toltry", hu: "Pruti-toltrék", ro: "Toltrele Prutului", en: "Prut Toltry"},
@@ -331,7 +718,160 @@ export const moldovaReliefV2: POI[] = [
     },
   },
     {
-    id: "moldova-fetesti-switzerland-relief-v2",
+    id: "moldova-fetesti-switzerland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cariera Fetești",
+                  "text": "Ein beeindruckender Steinbruch in der Naturlandschaft von Fetești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.124529,
+                        48.158825
+                  ]
+            },
+            {
+                  "name": "Recifele de la Fetești",
+                  "text": "Antike Kalksteinriffe in Fetești, bekannt für ihre besondere geologische Struktur.",
+                  "category": "landmark",
+                  "coords": [
+                        27.112723,
+                        48.167539
+                  ]
+            },
+            {
+                  "name": "Recifele de la Burlănești",
+                  "text": "Geologische Kalksteinformationen und Riffe in der Nähe von Burlănești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.121313,
+                        48.139326
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Historische Verteidigungsanlagen und Gräben in der Region Fetești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cariera Fetești",
+                  "text": "Látványos kőfejtő Fetești természeti táján.",
+                  "category": "landmark",
+                  "coords": [
+                        27.124529,
+                        48.158825
+                  ]
+            },
+            {
+                  "name": "Recifele de la Fetești",
+                  "text": "Ősi mészkőzátonyok Feteștiben, amelyek különleges geológiai formáikról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        27.112723,
+                        48.167539
+                  ]
+            },
+            {
+                  "name": "Recifele de la Burlănești",
+                  "text": "Geológiai mészkőképződmények és zátonyok Burlănești közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.121313,
+                        48.139326
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Történelmi védelmi sáncok Fetești régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cariera Fetești",
+                  "text": "O carieră impresionantă în peisajul natural de la Fetești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.124529,
+                        48.158825
+                  ]
+            },
+            {
+                  "name": "Recifele de la Fetești",
+                  "text": "Recife de calcar antice la Fetești, cunoscute pentru structura lor geologică deosebită.",
+                  "category": "landmark",
+                  "coords": [
+                        27.112723,
+                        48.167539
+                  ]
+            },
+            {
+                  "name": "Recifele de la Burlănești",
+                  "text": "Formațiuni geologice de calcar și recife în apropiere de Burlănești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.121313,
+                        48.139326
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Șanțuri de apărare istorice și atracții în regiunea Fetești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cariera Fetești",
+                  "text": "An impressive quarry in the natural landscape of Fetești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.124529,
+                        48.158825
+                  ]
+            },
+            {
+                  "name": "Recifele de la Fetești",
+                  "text": "Ancient limestone reefs in Fetești, known for their unique geological structure.",
+                  "category": "landmark",
+                  "coords": [
+                        27.112723,
+                        48.167539
+                  ]
+            },
+            {
+                  "name": "Recifele de la Burlănești",
+                  "text": "Geological limestone formations and reefs near Burlănești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.121313,
+                        48.139326
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Historical defensive trenches and attractions in the Fetești region.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Moldauische Schweiz (Fetești)", hu: "Moldáv Svájc (Fetești)", ro: "Elveția Moldovenească (Fetești)", en: "Moldavian Switzerland (Fetești)"},
@@ -378,7 +918,52 @@ export const moldovaReliefV2: POI[] = [
     },
   },
   {
-    id: "moldova-vaden-hill-relief-v2",
+    id: "moldova-vaden-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bază militară sovietică abandonată",
+                  "text": "Überreste einer ehemaligen sowjetischen Militärbasis auf dem Vădeni-Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.230648,
+                        47.993544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bază militară sovietică abandonată",
+                  "text": "Egy egykori szovjet katonai bázis maradványai a Vădeni-dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        28.230648,
+                        47.993544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bază militară sovietică abandonată",
+                  "text": "Rămășițele unei foste baze militare sovietice pe dealul Vădeni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.230648,
+                        47.993544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bază militară sovietică abandonată",
+                  "text": "The remains of a former Soviet military base on Vădeni Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        28.230648,
+                        47.993544
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "peak",
     name: { de: "Vădeni-Hügel", hu: "Vădeni-domb", ro: "Dealul Vădeni", en: "Vădeni Hill"},
@@ -565,7 +1150,304 @@ export const moldovaReliefV2: POI[] = [
     },
   },
   {
-    id: "moldova-tipova-cliffs-relief-v2",
+    id: "moldova-tipova-cliffs-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Antike Ruinen einer Geten-Festung auf den Klippen bei Tipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Kloster Țipova",
+                  "text": "Das Kloster Țipova ist ein bekanntes Höhlenkloster an den Klippen des Dnjestr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Diese Felsenkirche ist Teil des historischen Klosterkomplexes von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Ein malerischer Wasserfall in der Nähe der Țipova-Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Der größte Wasserfall in der Naturlandschaft von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Ein charmanter doppelter Wasserfall in der Schlucht von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Ein markanter Wasserfall inmitten der natürlichen Schönheit der Țipova-Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Ein saisonaler Wasserfall, der oft in den trockeneren Monaten versiegt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Egy géta erőd ókori romjai a Tipova melletti sziklákon.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "A Țipova-kolostor egy híres barlangkolostor a Dnyeszter menti sziklákon.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Ez a sziklatemplom a történelmi Țipova kolostorkomplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Egy festői vízesés a Țipova-sziklák közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "A legnagyobb vízesés Țipova természeti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Egy bájos kettős vízesés a Țipova-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Egy jellegzetes vízesés a Țipova-sziklák természetes környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Egy időszakos vízesés, amely a szárazabb hónapokban gyakran kiszárad.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ruinele antice ale unei cetăți getice situate pe stâncile de lângă Țipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Mănăstirea Țipova este un complex monastic rupestru situat pe malul Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Această biserică rupestră face parte din complexul monastic istoric de la Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "O cascadă pitorească situată în apropierea stâncilor de la Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Cea mai mare cascadă din zona naturală a Țipovei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "O cascadă dublă fermecătoare situată în defileul Țipovei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "O cascadă distinctivă situată în cadrul natural al stâncilor Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "O cascadă sezonieră care adesea seacă în lunile mai lipsite de precipitații.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ancient ruins of a Getae fortress located on the cliffs near Tipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Țipova Monastery",
+                  "text": "Țipova Monastery is a famous cave monastery complex located on the cliffs overlooking the Dniester River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "This cave church is part of the historical monastic complex of Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "A picturesque waterfall located near the Țipova Cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "The largest waterfall in the natural landscape of Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "A charming double waterfall located in the Țipova gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "A distinctive waterfall set within the natural beauty of the Țipova Cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "A seasonal waterfall that often dries up during the drier months.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Țipova-Klippen", hu: "Țipova-sziklák", ro: "Falezele Țipova", en: "Țipova Cliffs"},
@@ -1033,7 +1915,88 @@ export const moldovaReliefV2: POI[] = [
     },
   },
   {
-    id: "moldova-lower-prut-plain-relief-v2",
+    id: "moldova-lower-prut-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Ein Denkmal für den bedeutenden moldauischen Herrscher Stefan den Großen in der Region Unterer Pruth.",
+                  "category": "historical",
+                  "coords": [
+                        28.174,
+                        45.718476
+                  ]
+            },
+            {
+                  "name": "Moară",
+                  "text": "Eine traditionelle Windmühle als markantes Wahrzeichen in der Region Unterer Pruth.",
+                  "category": "landmark",
+                  "coords": [
+                        28.175302,
+                        45.72646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Emlékmű Nagy István jelentős moldovai uralkodónak az Alsó-Prut-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        28.174,
+                        45.718476
+                  ]
+            },
+            {
+                  "name": "Moară",
+                  "text": "Hagyományos szélmalom, amely jellegzetes látványosság az Alsó-Prut-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        28.175302,
+                        45.72646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Un monument dedicat marelui domnitor moldovean Ștefan cel Mare în regiunea Luncii Prutului de Jos.",
+                  "category": "historical",
+                  "coords": [
+                        28.174,
+                        45.718476
+                  ]
+            },
+            {
+                  "name": "Moară",
+                  "text": "O moară de vânt tradițională, reprezentând un reper distinctiv în regiunea Luncii Prutului de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        28.175302,
+                        45.72646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "A monument dedicated to the significant Moldavian ruler Stephen the Great in the Lower Prut region.",
+                  "category": "historical",
+                  "coords": [
+                        28.174,
+                        45.718476
+                  ]
+            },
+            {
+                  "name": "Moară",
+                  "text": "A traditional windmill serving as a distinctive landmark in the Lower Prut region.",
+                  "category": "landmark",
+                  "coords": [
+                        28.175302,
+                        45.72646
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "landmark",
     name: { de: "Untere Prut-Ebene", hu: "Alsó-Prut-síkság", ro: "Câmpia Prutului de Jos", en: "Lower Prut Plain"},
@@ -1444,7 +2407,52 @@ export const moldovaReliefV2: POI[] = [
     image: "/poi-images/moldova-platoul-briceni-relief-v2.webp",
   },
   {
-    id: "moldova-colinele-telenesti-relief-v2",
+    id: "moldova-colinele-telenesti-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de cultură",
+                  "text": "Ein lokales Kulturhaus und Theaterzentrum in der Region Telenești.",
+                  "category": "cultural",
+                  "coords": [
+                        28.348239,
+                        47.641892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de cultură",
+                  "text": "Helyi művelődési ház és színházi központ a Telenești régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        28.348239,
+                        47.641892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de cultură",
+                  "text": "O casă de cultură locală și centru teatral în regiunea Telenești.",
+                  "category": "cultural",
+                  "coords": [
+                        28.348239,
+                        47.641892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de cultură",
+                  "text": "A local cultural house and theater center in the Telenești region.",
+                  "category": "cultural",
+                  "coords": [
+                        28.348239,
+                        47.641892
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MD",
     name: { de: "Telenești-Hügel", hu: "Telenești-dombság", ro: "Colinele Telenești", en: "Telenesti Hills" },

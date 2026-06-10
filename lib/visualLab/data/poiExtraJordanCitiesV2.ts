@@ -1559,7 +1559,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خربة الكنار",
+                  "name": "Khirbet al-Kinar",
                   "text": "A Khirbat al Kinnar ősi romokat foglal magában Karakban.",
                   "category": "historical",
                   "coords": [
@@ -1624,7 +1624,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خربة الكنار",
+                  "name": "Khirbet al-Kinar",
                   "text": "Khirbat al Kinnar prezintă ruine antice în Karak.",
                   "category": "historical",
                   "coords": [

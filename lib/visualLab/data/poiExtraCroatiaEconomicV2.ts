@@ -2804,7 +2804,52 @@ imageHint: "Modern industrial plant in Postira on Brač",
     image: "/poi-images/croatia-atlantic-grupa-economic-v2.webp",
   },
   {
-    id: "croatia-podunavlje-agriculture-economic-v2",
+    id: "croatia-podunavlje-agriculture-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Eugena Savojskog",
+                  "text": "Ein für Prinz Eugen von Savoyen erbautes Barockschloss in Bilje.",
+                  "category": "castle",
+                  "coords": [
+                        18.747764,
+                        45.607008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Eugena Savojskog",
+                  "text": "Savoyai Jenő herceg számára épített barokk kastély Bellyén (Bilje).",
+                  "category": "castle",
+                  "coords": [
+                        18.747764,
+                        45.607008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Eugena Savojskog",
+                  "text": "Un castel baroc construit pentru Prințul Eugen de Savoia, situat în Bilje.",
+                  "category": "castle",
+                  "coords": [
+                        18.747764,
+                        45.607008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Eugena Savojskog",
+                  "text": "A Baroque castle built for Prince Eugene of Savoy, located in Bilje.",
+                  "category": "castle",
+                  "coords": [
+                        18.747764,
+                        45.607008
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "industry",
     name: { de: "Agrarzentrum Podunavlje", hu: "Podunavlje agrárközpont", ro: "Centrul agricol Podunavlje", en: "Podunavlje Agricultural Center" },

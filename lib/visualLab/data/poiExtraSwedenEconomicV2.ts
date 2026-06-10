@@ -600,7 +600,160 @@ imageHint: "Steel factory by the sea with shipping docks",
     },
     image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp",
 },  {
-    id: "sweden-forsmark-npp-economic-v2",
+    id: "sweden-forsmark-npp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kvarnhjulet",
+                  "text": "Ein Denkmal in Form eines traditionellen Wasserrades in der Nähe des Industriegebiets von Forsmark.",
+                  "category": "historical",
+                  "coords": [
+                        18.150719,
+                        60.371655
+                  ]
+            },
+            {
+                  "name": "Gamla herrgården",
+                  "text": "Das ursprüngliche historische Herrenhaus des Gutes Forsmark, das das lokale Erbe widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        18.14963,
+                        60.371379
+                  ]
+            },
+            {
+                  "name": "Nya herrgården",
+                  "text": "Ein elegantes Herrenhaus aus dem 18. Jahrhundert in Forsmark, erbaut im gustavianischen Stil.",
+                  "category": "historical",
+                  "coords": [
+                        18.150058,
+                        60.370091
+                  ]
+            },
+            {
+                  "name": "Forsmarks kyrka",
+                  "text": "Eine klassizistische Kirche aus dem 18. Jahrhundert, die für die Gemeinde des Eisenwerks Forsmark erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.159861,
+                        60.37214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kvarnhjulet",
+                  "text": "Hagyományos malomkereket ábrázoló emlékmű a forsmarki ipari terület közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.150719,
+                        60.371655
+                  ]
+            },
+            {
+                  "name": "Gamla herrgården",
+                  "text": "A forsmarki birtok eredeti történelmi kúriája, amely a helyi örökséget tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        18.14963,
+                        60.371379
+                  ]
+            },
+            {
+                  "name": "Nya herrgården",
+                  "text": "Elegáns, 18. századi kúria Forsmarkban, amely gusztávi stílusban épült.",
+                  "category": "historical",
+                  "coords": [
+                        18.150058,
+                        60.370091
+                  ]
+            },
+            {
+                  "name": "Forsmarks kyrka",
+                  "text": "18. századi klasszicista templom, amely a forsmarki vasmű közösségét szolgálta.",
+                  "category": "religious",
+                  "coords": [
+                        18.159861,
+                        60.37214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kvarnhjulet",
+                  "text": "Un monument reprezentând o roată de moară tradițională, situat lângă zona industrială Forsmark.",
+                  "category": "historical",
+                  "coords": [
+                        18.150719,
+                        60.371655
+                  ]
+            },
+            {
+                  "name": "Gamla herrgården",
+                  "text": "Conacul istoric original al moșiei Forsmark, reflectând moștenirea locală.",
+                  "category": "historical",
+                  "coords": [
+                        18.14963,
+                        60.371379
+                  ]
+            },
+            {
+                  "name": "Nya herrgården",
+                  "text": "Un conac elegant din secolul al XVIII-lea în Forsmark, construit în stil gustavian.",
+                  "category": "historical",
+                  "coords": [
+                        18.150058,
+                        60.370091
+                  ]
+            },
+            {
+                  "name": "Forsmarks kyrka",
+                  "text": "O biserică neoclasică construită în secolul al XVIII-lea pentru comunitatea de la feroneria Forsmark.",
+                  "category": "religious",
+                  "coords": [
+                        18.159861,
+                        60.37214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kvarnhjulet",
+                  "text": "A monument representing a traditional water wheel located near the Forsmark industrial area.",
+                  "category": "historical",
+                  "coords": [
+                        18.150719,
+                        60.371655
+                  ]
+            },
+            {
+                  "name": "Gamla herrgården",
+                  "text": "The original historic manor house of the Forsmark estate, reflecting local heritage.",
+                  "category": "historical",
+                  "coords": [
+                        18.14963,
+                        60.371379
+                  ]
+            },
+            {
+                  "name": "Nya herrgården",
+                  "text": "An elegant 18th-century manor house in Forsmark built in the Gustavian style.",
+                  "category": "historical",
+                  "coords": [
+                        18.150058,
+                        60.370091
+                  ]
+            },
+            {
+                  "name": "Forsmarks kyrka",
+                  "text": "A neoclassical church built in the 18th century to serve the Forsmark ironworks community.",
+                  "category": "religious",
+                  "coords": [
+                        18.159861,
+                        60.37214
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "industry",
     name: { de: "Kernkraftwerk Forsmark", hu: "Forsmarki atomerőmű", ro: "Centrala nucleară Forsmark", en: "Forsmark Nuclear Power Plant"},
@@ -692,7 +845,160 @@ imageHint: "Oskarshamn nuclear facility Simpevarp",
     },
     image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp",
 },  {
-    id: "sweden-ringhals-npp-economic-v2",
+    id: "sweden-ringhals-npp-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krogstadsudde fyr",
+                  "text": "Ein Leuchtturm an der Küste in der Nähe des Kernkraftwerks Ringhals.",
+                  "category": "landmark",
+                  "coords": [
+                        12.097702,
+                        57.241838
+                  ]
+            },
+            {
+                  "name": "Bua fiskemuseum",
+                  "text": "Ein lokales Museum in Bua, das der Geschichte der Fischerei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.11174,
+                        57.2402
+                  ]
+            },
+            {
+                  "name": "Biskopshagens naturreservat",
+                  "text": "Ein geschütztes Naturreservat mit regionaler Flora und Fauna bei Ringhals.",
+                  "category": "natural",
+                  "coords": [
+                        12.095431,
+                        57.251494
+                  ]
+            },
+            {
+                  "name": "Bua kyrka",
+                  "text": "Eine moderne Kirche in der Ortschaft Bua an der schwedischen Westküste.",
+                  "category": "religious",
+                  "coords": [
+                        12.12612,
+                        57.234588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krogstadsudde fyr",
+                  "text": "Partmenti világítótorony a Ringhals atomerőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.097702,
+                        57.241838
+                  ]
+            },
+            {
+                  "name": "Bua fiskemuseum",
+                  "text": "Helyi múzeum Buában, amely a halászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.11174,
+                        57.2402
+                  ]
+            },
+            {
+                  "name": "Biskopshagens naturreservat",
+                  "text": "Védett természetvédelmi terület helyi növény- és állatvilággal Ringhals közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.095431,
+                        57.251494
+                  ]
+            },
+            {
+                  "name": "Bua kyrka",
+                  "text": "Modern templom a svéd nyugati parton fekvő Bua településen.",
+                  "category": "religious",
+                  "coords": [
+                        12.12612,
+                        57.234588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krogstadsudde fyr",
+                  "text": "Un far de coastă situat în apropierea centralei nucleare Ringhals.",
+                  "category": "landmark",
+                  "coords": [
+                        12.097702,
+                        57.241838
+                  ]
+            },
+            {
+                  "name": "Bua fiskemuseum",
+                  "text": "Un muzeu local din Bua dedicat istoriei pescuitului.",
+                  "category": "museum",
+                  "coords": [
+                        12.11174,
+                        57.2402
+                  ]
+            },
+            {
+                  "name": "Biskopshagens naturreservat",
+                  "text": "O rezervație naturală protejată cu floră și faună locală lângă Ringhals.",
+                  "category": "natural",
+                  "coords": [
+                        12.095431,
+                        57.251494
+                  ]
+            },
+            {
+                  "name": "Bua kyrka",
+                  "text": "O biserică modernă situată în localitatea Bua de pe coasta de vest a Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        12.12612,
+                        57.234588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krogstadsudde fyr",
+                  "text": "A coastal lighthouse located near the Ringhals Nuclear Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        12.097702,
+                        57.241838
+                  ]
+            },
+            {
+                  "name": "Bua fiskemuseum",
+                  "text": "A local museum in Bua dedicated to the history of fishing.",
+                  "category": "museum",
+                  "coords": [
+                        12.11174,
+                        57.2402
+                  ]
+            },
+            {
+                  "name": "Biskopshagens naturreservat",
+                  "text": "A protected nature reserve featuring local flora and fauna near Ringhals.",
+                  "category": "natural",
+                  "coords": [
+                        12.095431,
+                        57.251494
+                  ]
+            },
+            {
+                  "name": "Bua kyrka",
+                  "text": "A modern church located in the village of Bua on the Swedish west coast.",
+                  "category": "religious",
+                  "coords": [
+                        12.12612,
+                        57.234588
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "industry",
     name: { de: "Kernkraftwerk Ringhals", hu: "Ringhalsi atomerőmű", ro: "Centrala nucleară Ringhals", en: "Ringhals Nuclear Power Plant"},
@@ -738,7 +1044,88 @@ imageHint: "Ringhals nuclear plant at the Swedish west coast",
     },
     image: "/poi-images/sweden-ringhals-npp-economic-v2.webp",
 },  {
-    id: "sweden-harspranget-power-economic-v2",
+    id: "sweden-harspranget-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ananasse",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Landschaft beim Kraftwerk Harsprånget.",
+                  "category": "natural",
+                  "coords": [
+                        19.892061,
+                        66.863257
+                  ]
+            },
+            {
+                  "name": "Harsprångsfallet",
+                  "text": "Eine natürliche Attraktion an den ehemaligen Stromschnellen von Harsprånget.",
+                  "category": "landmark",
+                  "coords": [
+                        19.817807,
+                        66.87809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ananasse",
+                  "text": "Kilátópont, amely rálátást nyújt a tájra a Harsprånget erőműnél.",
+                  "category": "natural",
+                  "coords": [
+                        19.892061,
+                        66.863257
+                  ]
+            },
+            {
+                  "name": "Harsprångsfallet",
+                  "text": "Természeti látványosság a Harsprånget egykori zúgóinál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.817807,
+                        66.87809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ananasse",
+                  "text": "Un punct de observare care oferă o vedere asupra peisajului de la centrala Harsprånget.",
+                  "category": "natural",
+                  "coords": [
+                        19.892061,
+                        66.863257
+                  ]
+            },
+            {
+                  "name": "Harsprångsfallet",
+                  "text": "O atracție naturală situată la fostele repede ale râului Harsprånget.",
+                  "category": "landmark",
+                  "coords": [
+                        19.817807,
+                        66.87809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ananasse",
+                  "text": "A viewpoint offering a view of the landscape by the Harsprånget Power Station.",
+                  "category": "natural",
+                  "coords": [
+                        19.892061,
+                        66.863257
+                  ]
+            },
+            {
+                  "name": "Harsprångsfallet",
+                  "text": "A natural attraction located at the former rapids of Harsprånget.",
+                  "category": "landmark",
+                  "coords": [
+                        19.817807,
+                        66.87809
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "industry",
     name: { de: "Wasserkraftwerk Harsprånget", hu: "Harsprånget vízerőmű", ro: "Hidrocentrala Harsprånget", en: "Harsprånget Power Station"},
@@ -784,7 +1171,232 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
     },
     image: "/poi-images/sweden-harspranget-power-economic-v2.webp",
 },  {
-    id: "sweden-ikea-almhult-economic-v2",
+    id: "sweden-ikea-almhult-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "IKEA Museum",
+                  "text": "Ein Museum in Älmhult, das der Geschichte und dem Design von IKEA gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.134432,
+                        56.552255
+                  ]
+            },
+            {
+                  "name": "Hökhults naturreservat",
+                  "text": "Ein Naturschutzgebiet mit geschützter Flora und Fauna in der Nähe von Älmhult.",
+                  "category": "natural",
+                  "coords": [
+                        14.119765,
+                        56.574435
+                  ]
+            },
+            {
+                  "name": "Carl von Linné",
+                  "text": "Ein Denkmal zu Ehren des berühmten schwedischen Botanikers Carl von Linné in Älmhult.",
+                  "category": "historical",
+                  "coords": [
+                        14.139974,
+                        56.551309
+                  ]
+            },
+            {
+                  "name": "Älmhult Arts Center",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und kulturelle Aktivitäten in Älmhult.",
+                  "category": "cultural",
+                  "coords": [
+                        14.137353,
+                        56.551095
+                  ]
+            },
+            {
+                  "name": "Muff",
+                  "text": "Eine Sehenswürdigkeit im IKEA-Zentrum in Älmhult.",
+                  "category": "landmark",
+                  "coords": [
+                        14.138976,
+                        56.553245
+                  ]
+            },
+            {
+                  "name": "Samuelstorpet",
+                  "text": "Historische Ruinen eines alten Gehöfts in der Umgebung von Älmhult.",
+                  "category": "historical",
+                  "coords": [
+                        14.107907,
+                        56.544898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IKEA Museum",
+                  "text": "Az IKEA történetének és dizájnjának szentelt múzeum Älmhultban.",
+                  "category": "museum",
+                  "coords": [
+                        14.134432,
+                        56.552255
+                  ]
+            },
+            {
+                  "name": "Hökhults naturreservat",
+                  "text": "Természetvédelmi terület védett növény- és állatvilággal Älmhult közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.119765,
+                        56.574435
+                  ]
+            },
+            {
+                  "name": "Carl von Linné",
+                  "text": "Älmhultban található emlékmű a híres svéd botanikus, Carl von Linné tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        14.139974,
+                        56.551309
+                  ]
+            },
+            {
+                  "name": "Älmhult Arts Center",
+                  "text": "Kortárs művészeti és kulturális központ Älmhultban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.137353,
+                        56.551095
+                  ]
+            },
+            {
+                  "name": "Muff",
+                  "text": "Látványosság az Älmhult-i IKEA központban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.138976,
+                        56.553245
+                  ]
+            },
+            {
+                  "name": "Samuelstorpet",
+                  "text": "Egy régi tanya történelmi romjai Älmhult környékén.",
+                  "category": "historical",
+                  "coords": [
+                        14.107907,
+                        56.544898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IKEA Museum",
+                  "text": "Un muzeu în Älmhult dedicat istoriei și designului IKEA.",
+                  "category": "museum",
+                  "coords": [
+                        14.134432,
+                        56.552255
+                  ]
+            },
+            {
+                  "name": "Hökhults naturreservat",
+                  "text": "O rezervație naturală cu floră și faună protejată lângă Älmhult.",
+                  "category": "natural",
+                  "coords": [
+                        14.119765,
+                        56.574435
+                  ]
+            },
+            {
+                  "name": "Carl von Linné",
+                  "text": "Un monument în Älmhult dedicat celebrului botanist suedez Carl Linnaeus.",
+                  "category": "historical",
+                  "coords": [
+                        14.139974,
+                        56.551309
+                  ]
+            },
+            {
+                  "name": "Älmhult Arts Center",
+                  "text": "Un centru pentru artă contemporană și activități culturale în Älmhult.",
+                  "category": "cultural",
+                  "coords": [
+                        14.137353,
+                        56.551095
+                  ]
+            },
+            {
+                  "name": "Muff",
+                  "text": "O atracție situată în centrul IKEA din Älmhult.",
+                  "category": "landmark",
+                  "coords": [
+                        14.138976,
+                        56.553245
+                  ]
+            },
+            {
+                  "name": "Samuelstorpet",
+                  "text": "Ruinele istorice ale unei vechi gospodării din apropiere de Älmhult.",
+                  "category": "historical",
+                  "coords": [
+                        14.107907,
+                        56.544898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IKEA Museum",
+                  "text": "A museum in Älmhult dedicated to the history and design of IKEA.",
+                  "category": "museum",
+                  "coords": [
+                        14.134432,
+                        56.552255
+                  ]
+            },
+            {
+                  "name": "Hökhults naturreservat",
+                  "text": "A nature reserve with protected flora and fauna near Älmhult.",
+                  "category": "natural",
+                  "coords": [
+                        14.119765,
+                        56.574435
+                  ]
+            },
+            {
+                  "name": "Carl Linnaeus",
+                  "text": "A monument in Älmhult honoring the famous Swedish botanist Carl Linnaeus.",
+                  "category": "historical",
+                  "coords": [
+                        14.139974,
+                        56.551309
+                  ]
+            },
+            {
+                  "name": "Älmhult Arts Center",
+                  "text": "A center for contemporary art and cultural activities in Älmhult.",
+                  "category": "cultural",
+                  "coords": [
+                        14.137353,
+                        56.551095
+                  ]
+            },
+            {
+                  "name": "Muff",
+                  "text": "An attraction located in the IKEA Älmhult Center.",
+                  "category": "landmark",
+                  "coords": [
+                        14.138976,
+                        56.553245
+                  ]
+            },
+            {
+                  "name": "Samuel's Croft",
+                  "text": "Historic ruins of an old farmstead located near Älmhult.",
+                  "category": "historical",
+                  "coords": [
+                        14.107907,
+                        56.544898
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "industry",
     name: { de: "IKEA-Zentrum Älmhult", hu: "IKEA központ Älmhult", ro: "Centrul IKEA Älmhult", en: "IKEA Älmhult Center"},

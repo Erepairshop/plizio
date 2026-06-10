@@ -93,7 +93,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-puy-de-dome-relief-v2.webp",
   },
   {
-    id: "france-grand-colombier-relief-v2",
+    id: "france-grand-colombier-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand Colombier",
+                  "text": "Ein markanter Berggipfel im Jura-Gebirge mit weitem Panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        5.760903,
+                        45.901232
+                  ]
+            },
+            {
+                  "name": "Château des Sarrasins",
+                  "text": "Ein Aussichtspunkt in der Nähe der Überreste einer alten Festung am Grand Colombier.",
+                  "category": "natural",
+                  "coords": [
+                        5.795553,
+                        45.872144
+                  ]
+            },
+            {
+                  "name": "Châtel-le-Haut",
+                  "text": "Historische Ruinen einer mittelalterlichen Siedlung oder Befestigung am Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.794449,
+                        45.870464
+                  ]
+            },
+            {
+                  "name": "Sous Charbemènes",
+                  "text": "Ruinen einer alten Stätte in der Nähe von Charbemènes im Colombier-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        5.770069,
+                        45.918272
+                  ]
+            },
+            {
+                  "name": "Ancienne gare d'Anglefort",
+                  "text": "Die Überreste des ehemaligen Bahnhofs von Anglefort am Fuße des Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.8236,
+                        45.914582
+                  ]
+            },
+            {
+                  "name": "Granges de Scioux",
+                  "text": "Ruinen alter Scheunen oder landwirtschaftlicher Gebäude am Hang des Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.771562,
+                        45.897374
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine dem heiligen Martin geweihte Kirche in der Region des Grand Colombier.",
+                  "category": "religious",
+                  "coords": [
+                        5.813528,
+                        45.912634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand Colombier",
+                  "text": "A Jura-hegység jellegzetes csúcsa, ahonnan széles panoráma nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        5.760903,
+                        45.901232
+                  ]
+            },
+            {
+                  "name": "Château des Sarrasins",
+                  "text": "Kilátópont egy régi erődítmény maradványai közelében a Grand Colombier-nél.",
+                  "category": "natural",
+                  "coords": [
+                        5.795553,
+                        45.872144
+                  ]
+            },
+            {
+                  "name": "Châtel-le-Haut",
+                  "text": "Egy középkori település vagy erődítmény történelmi romjai a Grand Colombier-nél.",
+                  "category": "historical",
+                  "coords": [
+                        5.794449,
+                        45.870464
+                  ]
+            },
+            {
+                  "name": "Sous Charbemènes",
+                  "text": "Egy régi helyszín romjai Charbemènes közelében a Colombier-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        5.770069,
+                        45.918272
+                  ]
+            },
+            {
+                  "name": "Ancienne gare d'Anglefort",
+                  "text": "Anglefort egykori vasútállomásának maradványai a Grand Colombier lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        5.8236,
+                        45.914582
+                  ]
+            },
+            {
+                  "name": "Granges de Scioux",
+                  "text": "Régi csűrök vagy mezőgazdasági épületek romjai a Grand Colombier lejtőjén.",
+                  "category": "historical",
+                  "coords": [
+                        5.771562,
+                        45.897374
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Márton tiszteletére szentelt templom a Grand Colombier régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        5.813528,
+                        45.912634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand Colombier",
+                  "text": "Un vârf montan proeminent în munții Jura, oferind o panoramă vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        5.760903,
+                        45.901232
+                  ]
+            },
+            {
+                  "name": "Château des Sarrasins",
+                  "text": "Un punct de observare situat lângă rămășițele unei vechi fortărețe pe Grand Colombier.",
+                  "category": "natural",
+                  "coords": [
+                        5.795553,
+                        45.872144
+                  ]
+            },
+            {
+                  "name": "Châtel-le-Haut",
+                  "text": "Ruinele istorice ale unei așezări sau fortificații medievale pe Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.794449,
+                        45.870464
+                  ]
+            },
+            {
+                  "name": "Sous Charbemènes",
+                  "text": "Ruinele unui sit vechi în apropiere de Charbemènes, în masivul Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.770069,
+                        45.918272
+                  ]
+            },
+            {
+                  "name": "Ancienne gare d'Anglefort",
+                  "text": "Rămășițele fostei gări din Anglefort, situată la poalele Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.8236,
+                        45.914582
+                  ]
+            },
+            {
+                  "name": "Granges de Scioux",
+                  "text": "Ruinele unor vechi grânare sau clădiri agricole pe versantul Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.771562,
+                        45.897374
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică dedicată Sfântului Martin în regiunea Grand Colombier.",
+                  "category": "religious",
+                  "coords": [
+                        5.813528,
+                        45.912634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand Colombier",
+                  "text": "A prominent mountain peak in the Jura Mountains offering a wide panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        5.760903,
+                        45.901232
+                  ]
+            },
+            {
+                  "name": "Château des Sarrasins",
+                  "text": "A viewpoint located near the remains of an old fortress on Grand Colombier.",
+                  "category": "natural",
+                  "coords": [
+                        5.795553,
+                        45.872144
+                  ]
+            },
+            {
+                  "name": "Châtel-le-Haut",
+                  "text": "Historical ruins of a medieval settlement or fortification on Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.794449,
+                        45.870464
+                  ]
+            },
+            {
+                  "name": "Sous Charbemènes",
+                  "text": "Ruins of an old site located near Charbemènes in the Colombier massif.",
+                  "category": "historical",
+                  "coords": [
+                        5.770069,
+                        45.918272
+                  ]
+            },
+            {
+                  "name": "Ancienne gare d'Anglefort",
+                  "text": "The remains of the former railway station of Anglefort at the foot of Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.8236,
+                        45.914582
+                  ]
+            },
+            {
+                  "name": "Granges de Scioux",
+                  "text": "Ruins of old barns or agricultural buildings on the slopes of Grand Colombier.",
+                  "category": "historical",
+                  "coords": [
+                        5.771562,
+                        45.897374
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A church dedicated to Saint Martin in the Grand Colombier region.",
+                  "category": "religious",
+                  "coords": [
+                        5.813528,
+                        45.912634
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Grand Colombier", hu: "Grand Colombier", ro: "Grand Colombier", en: "Grand Colombier" , fr: "Grand Colombier"},
@@ -138,7 +399,88 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-grand-colombier-relief-v2.webp",
   },
   {
-    id: "france-plateau-de-millevaches-relief-v2",
+    id: "france-plateau-de-millevaches-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Eine historische Kirche auf dem Plateau de Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.094517,
+                        45.641413
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de Saint-Jean Baptiste",
+                  "text": "Ein christliches Gotteshaus in der Region Plateau de Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.092868,
+                        45.625253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Történelmi templom a Plateau de Millevaches területén.",
+                  "category": "religious",
+                  "coords": [
+                        2.094517,
+                        45.641413
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de Saint-Jean Baptiste",
+                  "text": "Keresztény templom a Plateau de Millevaches régióban.",
+                  "category": "religious",
+                  "coords": [
+                        2.092868,
+                        45.625253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "O biserică istorică situată pe Plateau de Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.094517,
+                        45.641413
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de Saint-Jean Baptiste",
+                  "text": "Un lăcaș de cult creștin în regiunea Plateau de Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.092868,
+                        45.625253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "A historic church located on the Plateau de Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.094517,
+                        45.641413
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de Saint-Jean Baptiste",
+                  "text": "A Christian place of worship in the Plateau de Millevaches region.",
+                  "category": "religious",
+                  "coords": [
+                        2.092868,
+                        45.625253
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Plateau de Millevaches", hu: "Plateau de Millevaches", ro: "Plateau de Millevaches", en: "Plateau de Millevaches" , fr: "Plateau de Millevaches"},
@@ -183,7 +525,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plateau-de-millevaches-relief-v2.webp",
   },
   {
-    id: "france-mont-ventoux-relief-v2",
+    id: "france-mont-ventoux-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Ein streng geschütztes Waldgebiet am Nordhang des Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "Die Kernzone des UNESCO-Biosphärenreservats rund um den Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Ein markanter Berggipfel in der Provence, bekannt als der Riese der Provence.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Ein Berggipfel und Skigebiet an der Nordseite des Mont Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Ein Aussichtspunkt auf dem Mont Ventoux mit weitem Blick auf die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Ein Panoramapunkt am Mont Ventoux mit Blick über die Region Provence.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Die Überreste einer alten Schäferei am Hang des Mont Ventoux.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Szigorúan védett erdőterület a Mont Ventoux északi lejtőjén.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "A Mont Ventoux körüli UNESCO bioszféra-rezervátum központi zónája.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Jellegzetes hegycsúcs Provence-ban, amelyet Provence óriásának is neveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Hegycsúcs és síterület a Mont Ventoux északi oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Kilátópont a Mont Ventoux-n, széles kilátással az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Panorámás pont a Mont Ventoux-n, kilátással Provence régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Egy régi pásztorszállás maradványai a Mont Ventoux lejtőjén.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "O zonă forestieră strict protejată pe versantul nordic al Muntelui Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "Zona centrală a rezervației biosferei UNESCO din jurul Muntelui Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Un vârf muntos proeminent din Provence, cunoscut sub numele de Uriașul Provence-ului.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Un vârf muntos și zonă de schi pe latura nordică a Muntelui Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Un punct de belvedere pe Muntele Ventoux, cu o vedere panoramică asupra Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Un punct panoramic pe Muntele Ventoux, cu vedere spre regiunea Provence.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Rămășițele unei vechi stâne pe versantul Muntelui Ventoux.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "A strictly protected forest area on the northern slope of Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "The core zone of the UNESCO Biosphere Reserve surrounding Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "A prominent mountain peak in Provence, known as the Giant of Provence.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "A mountain peak and ski area on the northern side of Mont Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "A viewpoint on Mont Ventoux offering expansive views of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "A panoramic point on Mont Ventoux overlooking the Provence region.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "The remains of an old sheepfold on the slopes of Mont Ventoux.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Ventoux", hu: "Mont Ventoux", ro: "Mont Ventoux", en: "Mont Ventoux" , fr: "Mont Ventoux"},
@@ -273,7 +876,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-vallee-de-la-loire-relief-v2.webp",
   },
   {
-    id: "france-massif-des-maures-relief-v2",
+    id: "france-massif-des-maures-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la fabrique du marron glacé",
+                  "text": "Ein Museum, das der Tradition der kandierten Kastanien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.309068,
+                        43.238585
+                  ]
+            },
+            {
+                  "name": "La Sauvette",
+                  "text": "Der höchste Gipfel des Massif des Maures in der Provence.",
+                  "category": "landmark",
+                  "coords": [
+                        6.336722,
+                        43.275841
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pons",
+                  "text": "Die Ruinen einer alten Kapelle im Massif des Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.311539,
+                        43.237158
+                  ]
+            },
+            {
+                  "name": "arboretum",
+                  "text": "Eine botanische Sammlung von Bäumen im Massif des Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.305444,
+                        43.235583
+                  ]
+            },
+            {
+                  "name": "Moulin à vent du Collet",
+                  "text": "Die Überreste einer historischen Windmühle im Massif des Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.315173,
+                        43.228099
+                  ]
+            },
+            {
+                  "name": "impluvium",
+                  "text": "Diese Stätte beherbergt ein traditionelles Regenwasserauffangsystem im Massif des Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.297027,
+                        43.230975
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Malière",
+                  "text": "Eine traditionelle Kultstätte in der malerischen Region Massif des Maures.",
+                  "category": "religious",
+                  "coords": [
+                        6.299329,
+                        43.22892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la fabrique du marron glacé",
+                  "text": "A kandírozott gesztenye készítésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.309068,
+                        43.238585
+                  ]
+            },
+            {
+                  "name": "La Sauvette",
+                  "text": "A Massif des Maures legmagasabb csúcsa Provence-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.336722,
+                        43.275841
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pons",
+                  "text": "Egy régi kápolna romjai a Massif des Maures hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        6.311539,
+                        43.237158
+                  ]
+            },
+            {
+                  "name": "arboretum",
+                  "text": "Fafajok botanikai gyűjteménye a Massif des Maures területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.305444,
+                        43.235583
+                  ]
+            },
+            {
+                  "name": "Moulin à vent du Collet",
+                  "text": "Egy történelmi szélmalom maradványai a Massif des Maures hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        6.315173,
+                        43.228099
+                  ]
+            },
+            {
+                  "name": "impluvium",
+                  "text": "Ez a helyszín egy hagyományos esővízgyűjtő rendszert mutat be a Massif des Maures hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.297027,
+                        43.230975
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Malière",
+                  "text": "Hagyományos vallási helyszín a festői Massif des Maures régióban.",
+                  "category": "religious",
+                  "coords": [
+                        6.299329,
+                        43.22892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la fabrique du marron glacé",
+                  "text": "Un muzeu dedicat tradiției fabricării castanelor glazurate.",
+                  "category": "museum",
+                  "coords": [
+                        6.309068,
+                        43.238585
+                  ]
+            },
+            {
+                  "name": "La Sauvette",
+                  "text": "Cel mai înalt vârf din Masivul Maures în Provence.",
+                  "category": "landmark",
+                  "coords": [
+                        6.336722,
+                        43.275841
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pons",
+                  "text": "Ruinele unei vechi capele în Masivul Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.311539,
+                        43.237158
+                  ]
+            },
+            {
+                  "name": "arboretum",
+                  "text": "O colecție botanică de arbori în Masivul Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.305444,
+                        43.235583
+                  ]
+            },
+            {
+                  "name": "Moulin à vent du Collet",
+                  "text": "Vestigiile unei mori de vânt istorice în Masivul Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.315173,
+                        43.228099
+                  ]
+            },
+            {
+                  "name": "impluvium",
+                  "text": "Acest sit prezintă un sistem tradițional de colectare a apei de ploaie în Masivul Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.297027,
+                        43.230975
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Malière",
+                  "text": "Un lăcaș de cult tradițional situat în regiunea pitorească Massif des Maures.",
+                  "category": "religious",
+                  "coords": [
+                        6.299329,
+                        43.22892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la fabrique du marron glacé",
+                  "text": "A museum dedicated to the tradition of glazed chestnuts.",
+                  "category": "museum",
+                  "coords": [
+                        6.309068,
+                        43.238585
+                  ]
+            },
+            {
+                  "name": "La Sauvette",
+                  "text": "The highest peak of the Massif des Maures in Provence.",
+                  "category": "landmark",
+                  "coords": [
+                        6.336722,
+                        43.275841
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pons",
+                  "text": "The ruins of an old chapel in the Massif des Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.311539,
+                        43.237158
+                  ]
+            },
+            {
+                  "name": "arboretum",
+                  "text": "A botanical collection of trees in the Massif des Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.305444,
+                        43.235583
+                  ]
+            },
+            {
+                  "name": "Moulin à vent du Collet",
+                  "text": "The remains of a historic windmill in the Massif des Maures.",
+                  "category": "historical",
+                  "coords": [
+                        6.315173,
+                        43.228099
+                  ]
+            },
+            {
+                  "name": "impluvium",
+                  "text": "This site features a traditional rainwater catchment system located in the Massif des Maures.",
+                  "category": "landmark",
+                  "coords": [
+                        6.297027,
+                        43.230975
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Malière",
+                  "text": "A traditional place of worship situated in the scenic Massif des Maures region.",
+                  "category": "religious",
+                  "coords": [
+                        6.299329,
+                        43.22892
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Massif des Maures", hu: "Massif des Maures", ro: "Massif des Maures", en: "Massif des Maures" },
@@ -318,7 +1182,88 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-massif-des-maures-relief-v2.webp",
   },
   {
-    id: "france-mont-garbi-relief-v2",
+    id: "france-mont-garbi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoo d'Asson",
+                  "text": "Ein zoologischer Garten in der Nähe des Mont Garbi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267725,
+                        43.127764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Eine Kirche am Fuße des Mont Garbi.",
+                  "category": "religious",
+                  "coords": [
+                        -0.252881,
+                        43.089329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoo d'Asson",
+                  "text": "Egy állatkert a Mont Garbi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267725,
+                        43.127764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Egy templom a Mont Garbi lábánál.",
+                  "category": "religious",
+                  "coords": [
+                        -0.252881,
+                        43.089329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoo d'Asson",
+                  "text": "O grădină zoologică situată în apropiere de Mont Garbi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267725,
+                        43.127764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "O biserică situată la poalele muntelui Mont Garbi.",
+                  "category": "religious",
+                  "coords": [
+                        -0.252881,
+                        43.089329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoo d'Asson",
+                  "text": "A zoological garden located near Mont Garbi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.267725,
+                        43.127764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A church located at the foot of Mont Garbi.",
+                  "category": "religious",
+                  "coords": [
+                        -0.252881,
+                        43.089329
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FR",
     name: { de: "Mont Garbi", hu: "Mont Garbi", ro: "Mont Garbi", en: "Mont Garbi" , fr: "Mont Garbi"},
@@ -408,7 +1353,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plateau-de-langres-relief-v2.webp",
   },
   {
-    id: "france-mont-d-or-relief-v2",
+    id: "france-mont-d-or-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du fer et du chemin de fer",
+                  "text": "Ein Museum in Vallorbe, das die Geschichte der Eisenverarbeitung und des Schienenverkehrs in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.380159,
+                        46.712324
+                  ]
+            },
+            {
+                  "name": "Juraparc",
+                  "text": "Ein Tierpark im Jura, in dem europäische Tierarten wie Bären, Wölfe und Wisente beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        6.341603,
+                        46.691456
+                  ]
+            },
+            {
+                  "name": "Voie romaine",
+                  "text": "Historische Überreste einer antiken Römerstraße, die einst durch die Region des Mont d'Or führte.",
+                  "category": "historical",
+                  "coords": [
+                        6.405531,
+                        46.729816
+                  ]
+            },
+            {
+                  "name": "Espace muséographique de la neige artificielle",
+                  "text": "Ein spezialisierter Ausstellungsraum, der die Entwicklung und Technik der künstlichen Beschneiung im Skigebiet zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.355639,
+                        46.74719
+                  ]
+            },
+            {
+                  "name": "Piscine des Trois Vallons",
+                  "text": "Ein öffentlicher Schwimmbadkomplex in der Nähe des Mont d'Or, der Freizeitaktivitäten für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.373249,
+                        46.709752
+                  ]
+            },
+            {
+                  "name": "Le Mont d'Or",
+                  "text": "Ein markanter Berggipfel im französischen Jura, bekannt für seine steilen Kalksteinfelsen und Panoramablicke.",
+                  "category": "landmark",
+                  "coords": [
+                        6.356949,
+                        46.727521
+                  ]
+            },
+            {
+                  "name": "Le Morond",
+                  "text": "Ein Berggipfel im Jura-Massiv, der ein beliebtes Ziel für Outdoor-Aktivitäten im Sommer und Winter ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.353541,
+                        46.751187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du fer et du chemin de fer",
+                  "text": "Vallorbe-i múzeum, amely a régió vasfeldolgozásának és vasúti közlekedésének történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.380159,
+                        46.712324
+                  ]
+            },
+            {
+                  "name": "Juraparc",
+                  "text": "Állatpark a Jurában, ahol olyan európai fajok láthatók, mint a medvék, farkasok és bölények.",
+                  "category": "recreational",
+                  "coords": [
+                        6.341603,
+                        46.691456
+                  ]
+            },
+            {
+                  "name": "Voie romaine",
+                  "text": "Egy ókori római út történelmi maradványai, amely egykor a Mont d'Or régión haladt keresztül.",
+                  "category": "historical",
+                  "coords": [
+                        6.405531,
+                        46.729816
+                  ]
+            },
+            {
+                  "name": "Espace muséographique de la neige artificielle",
+                  "text": "Speciális kiállítótér, amely a mesterséges hóágyúzás fejlődését és technikáját mutatja be a síterepen.",
+                  "category": "museum",
+                  "coords": [
+                        6.355639,
+                        46.74719
+                  ]
+            },
+            {
+                  "name": "Piscine des Trois Vallons",
+                  "text": "Nyilvános uszodakomplexum a Mont d'Or közelében, amely szabadidős tevékenységeket kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        6.373249,
+                        46.709752
+                  ]
+            },
+            {
+                  "name": "Le Mont d'Or",
+                  "text": "Jellegzetes hegycsúcs a francia Jura-hegységben, amely meredek mészkőszikláiról és panorámás kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.356949,
+                        46.727521
+                  ]
+            },
+            {
+                  "name": "Le Morond",
+                  "text": "Csúcs a Jura-hegységben, amely a nyári és téli szabadtéri tevékenységek kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        6.353541,
+                        46.751187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du fer et du chemin de fer",
+                  "text": "Un muzeu din Vallorbe care documentează istoria prelucrării fierului și a transportului feroviar în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        6.380159,
+                        46.712324
+                  ]
+            },
+            {
+                  "name": "Juraparc",
+                  "text": "Un parc zoologic în Munții Jura, unde pot fi observate specii europene precum urșii, lupii și bizonii.",
+                  "category": "recreational",
+                  "coords": [
+                        6.341603,
+                        46.691456
+                  ]
+            },
+            {
+                  "name": "Voie romaine",
+                  "text": "Vestigii istorice ale unui vechi drum roman care traversa odinioară regiunea Mont d'Or.",
+                  "category": "historical",
+                  "coords": [
+                        6.405531,
+                        46.729816
+                  ]
+            },
+            {
+                  "name": "Espace muséographique de la neige artificielle",
+                  "text": "Un spațiu expozițional specializat care prezintă evoluția și tehnica producerii zăpezii artificiale în stațiune.",
+                  "category": "museum",
+                  "coords": [
+                        6.355639,
+                        46.74719
+                  ]
+            },
+            {
+                  "name": "Piscine des Trois Vallons",
+                  "text": "Un complex de piscine publice lângă Mont d'Or, care oferă activități recreative pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        6.373249,
+                        46.709752
+                  ]
+            },
+            {
+                  "name": "Le Mont d'Or",
+                  "text": "Un vârf montan proeminent în Jura franceză, cunoscut pentru stâncile sale calcaroase abrupte și vederea panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        6.356949,
+                        46.727521
+                  ]
+            },
+            {
+                  "name": "Le Morond",
+                  "text": "Un vârf în masivul Jura, care este o destinație populară pentru activități în aer liber vara și iarna.",
+                  "category": "landmark",
+                  "coords": [
+                        6.353541,
+                        46.751187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du fer et du chemin de fer",
+                  "text": "A museum in Vallorbe documenting the history of ironworking and rail transport in the region.",
+                  "category": "museum",
+                  "coords": [
+                        6.380159,
+                        46.712324
+                  ]
+            },
+            {
+                  "name": "Juraparc",
+                  "text": "An animal park in the Jura where European species such as bears, wolves, and bison can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        6.341603,
+                        46.691456
+                  ]
+            },
+            {
+                  "name": "Voie romaine",
+                  "text": "Historical remains of an ancient Roman road that once passed through the Mont d'Or region.",
+                  "category": "historical",
+                  "coords": [
+                        6.405531,
+                        46.729816
+                  ]
+            },
+            {
+                  "name": "Espace muséographique de la neige artificielle",
+                  "text": "A specialized exhibition space showing the development and technique of artificial snowmaking in the ski area.",
+                  "category": "museum",
+                  "coords": [
+                        6.355639,
+                        46.74719
+                  ]
+            },
+            {
+                  "name": "Piscine des Trois Vallons",
+                  "text": "A public swimming pool complex near Mont d'Or, offering leisure activities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        6.373249,
+                        46.709752
+                  ]
+            },
+            {
+                  "name": "Le Mont d'Or",
+                  "text": "A prominent mountain peak in the French Jura, known for its steep limestone cliffs and panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        6.356949,
+                        46.727521
+                  ]
+            },
+            {
+                  "name": "Le Morond",
+                  "text": "A peak in the Jura massif that is a popular destination for outdoor activities in both summer and winter.",
+                  "category": "landmark",
+                  "coords": [
+                        6.353541,
+                        46.751187
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont d'Or", hu: "Mont d'Or", ro: "Mont d'Or", en: "Mont d'Or" , fr: "Mont d'Or"},
@@ -453,7 +1659,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-d-or-relief-v2.webp",
   },
   {
-    id: "france-causses-relief-v2",
+    id: "france-causses-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolmen Roc de la Truque",
+                  "text": "Eine prähistorische Grabanlage in der Region Causses.",
+                  "category": "historical",
+                  "coords": [
+                        3.297822,
+                        44.327701
+                  ]
+            },
+            {
+                  "name": "Établissement rural du haut moyen age : les Aouzéras",
+                  "text": "Archäologische Stätte einer ländlichen Siedlung aus dem frühen Mittelalter.",
+                  "category": "historical",
+                  "coords": [
+                        3.28598,
+                        44.323397
+                  ]
+            },
+            {
+                  "name": "Plage communale",
+                  "text": "Ein öffentlicher Badebereich am Wasser in der Region Causses.",
+                  "category": "recreational",
+                  "coords": [
+                        3.321256,
+                        44.300752
+                  ]
+            },
+            {
+                  "name": "Roc des Hourtous",
+                  "text": "Ein Aussichtspunkt mit spektakulärem Blick über die Schluchten des Tarn.",
+                  "category": "natural",
+                  "coords": [
+                        3.290053,
+                        44.292041
+                  ]
+            },
+            {
+                  "name": "Les Détroits",
+                  "text": "Ein Aussichtspunkt an der engsten Stelle der Tarn-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        3.277389,
+                        44.299691
+                  ]
+            },
+            {
+                  "name": "Roc du Serre",
+                  "text": "Ein erhöhter Punkt in den Causses mit Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        3.30547,
+                        44.295883
+                  ]
+            },
+            {
+                  "name": "Esquina d'Ase",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über die Karstlandschaft der Causses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        3.250215,
+                        44.299106
+                  ]
+            },
+            {
+                  "name": "Castel Merlet",
+                  "text": "Die Ruinen einer mittelalterlichen Befestigung in der Region Causses.",
+                  "category": "historical",
+                  "coords": [
+                        3.322044,
+                        44.303372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolmen Roc de la Truque",
+                  "text": "Prehisztorikus síremlék a Causses régióban.",
+                  "category": "historical",
+                  "coords": [
+                        3.297822,
+                        44.327701
+                  ]
+            },
+            {
+                  "name": "Établissement rural du haut moyen age : les Aouzéras",
+                  "text": "Kora középkori vidéki település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        3.28598,
+                        44.323397
+                  ]
+            },
+            {
+                  "name": "Plage communale",
+                  "text": "Nyilvános fürdőhely a Causses régió egyik vízpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        3.321256,
+                        44.300752
+                  ]
+            },
+            {
+                  "name": "Roc des Hourtous",
+                  "text": "Kilátóhely, ahonnan látványos panoráma nyílik a Tarn-szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        3.290053,
+                        44.292041
+                  ]
+            },
+            {
+                  "name": "Les Détroits",
+                  "text": "Kilátópont a Tarn-szurdok legkeskenyebb szakaszánál.",
+                  "category": "natural",
+                  "coords": [
+                        3.277389,
+                        44.299691
+                  ]
+            },
+            {
+                  "name": "Roc du Serre",
+                  "text": "Magaslati pont a Causses vidéken, panorámás kilátással a környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        3.30547,
+                        44.295883
+                  ]
+            },
+            {
+                  "name": "Esquina d'Ase",
+                  "text": "Kilátóhely, amely tágas kilátást nyújt a Causses karsztvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        3.250215,
+                        44.299106
+                  ]
+            },
+            {
+                  "name": "Castel Merlet",
+                  "text": "Középkori erődítmény romjai a Causses régióban.",
+                  "category": "historical",
+                  "coords": [
+                        3.322044,
+                        44.303372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolmen Roc de la Truque",
+                  "text": "Un monument funerar preistoric din regiunea Causses.",
+                  "category": "historical",
+                  "coords": [
+                        3.297822,
+                        44.327701
+                  ]
+            },
+            {
+                  "name": "Établissement rural du haut moyen age : les Aouzéras",
+                  "text": "Sit arheologic al unei așezări rurale din perioada timpurie a Evului Mediu.",
+                  "category": "historical",
+                  "coords": [
+                        3.28598,
+                        44.323397
+                  ]
+            },
+            {
+                  "name": "Plage communale",
+                  "text": "O zonă publică de plajă pe malul apei în regiunea Causses.",
+                  "category": "recreational",
+                  "coords": [
+                        3.321256,
+                        44.300752
+                  ]
+            },
+            {
+                  "name": "Roc des Hourtous",
+                  "text": "Un punct de belvedere cu o vedere spectaculoasă asupra cheilor Tarnului.",
+                  "category": "natural",
+                  "coords": [
+                        3.290053,
+                        44.292041
+                  ]
+            },
+            {
+                  "name": "Les Détroits",
+                  "text": "Un punct de belvedere situat în cel mai îngust punct al cheilor Tarnului.",
+                  "category": "natural",
+                  "coords": [
+                        3.277389,
+                        44.299691
+                  ]
+            },
+            {
+                  "name": "Roc du Serre",
+                  "text": "Un punct înalt din Causses care oferă o vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        3.30547,
+                        44.295883
+                  ]
+            },
+            {
+                  "name": "Esquina d'Ase",
+                  "text": "Un punct de belvedere ce oferă vederi largi asupra peisajului carstic din Causses.",
+                  "category": "natural",
+                  "coords": [
+                        3.250215,
+                        44.299106
+                  ]
+            },
+            {
+                  "name": "Castel Merlet",
+                  "text": "Ruinele unei fortificații medievale din regiunea Causses.",
+                  "category": "historical",
+                  "coords": [
+                        3.322044,
+                        44.303372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolmen Roc de la Truque",
+                  "text": "A prehistoric megalithic tomb located in the Causses region.",
+                  "category": "historical",
+                  "coords": [
+                        3.297822,
+                        44.327701
+                  ]
+            },
+            {
+                  "name": "Établissement rural du haut moyen age : les Aouzéras",
+                  "text": "Archaeological site of a rural settlement dating back to the early Middle Ages.",
+                  "category": "historical",
+                  "coords": [
+                        3.28598,
+                        44.323397
+                  ]
+            },
+            {
+                  "name": "Plage communale",
+                  "text": "A public bathing area located by the water in the Causses region.",
+                  "category": "recreational",
+                  "coords": [
+                        3.321256,
+                        44.300752
+                  ]
+            },
+            {
+                  "name": "Roc des Hourtous",
+                  "text": "A viewpoint offering spectacular vistas over the Tarn Gorges.",
+                  "category": "natural",
+                  "coords": [
+                        3.290053,
+                        44.292041
+                  ]
+            },
+            {
+                  "name": "Les Détroits",
+                  "text": "A viewpoint located at the narrowest part of the Tarn Gorges.",
+                  "category": "natural",
+                  "coords": [
+                        3.277389,
+                        44.299691
+                  ]
+            },
+            {
+                  "name": "Roc du Serre",
+                  "text": "An elevated point in the Causses providing panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        3.30547,
+                        44.295883
+                  ]
+            },
+            {
+                  "name": "Esquina d'Ase",
+                  "text": "A viewpoint offering expansive views over the karst landscape of the Causses.",
+                  "category": "natural",
+                  "coords": [
+                        3.250215,
+                        44.299106
+                  ]
+            },
+            {
+                  "name": "Castel Merlet",
+                  "text": "The ruins of a medieval fortification located in the Causses region.",
+                  "category": "historical",
+                  "coords": [
+                        3.322044,
+                        44.303372
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Causses", hu: "Causses", ro: "Causses", en: "Causses" , fr: "Les Causses"},
@@ -543,7 +2046,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-sancy-relief-v2.webp",
   },
   {
-    id: "france-massif-du-ventoux-relief-v2",
+    id: "france-massif-du-ventoux-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Streng geschütztes Waldreservat am Hang des Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "Zentrale Schutzzone des Biosphärenreservats Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Ein markanter Berg in der Provence, bekannt durch die Tour de France.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Ein Gipfel und kleines Skigebiet auf der Nordseite des Mont Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Aussichtspunkt am Mont Ventoux mit weitem Blick in Richtung Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Aussichtspunkt mit Panoramablick über die Landschaft der Provence.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Ruinen einer traditionellen Hirtenhütte im Ventoux-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Szigorúan védett erdőrezervátum a Mont Ventoux lejtőjén.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "A Mont Ventoux bioszféra-rezervátum központi védelmi övezete.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Jellegzetes hegy Provence-ban, a Tour de France-ról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Hegycsúcs és kis síterep a Mont Ventoux északi oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Kilátópont a Mont Ventoux-n, kilátással az Alpok felé.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Panorámás kilátópont Provence tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Egy hagyományos pásztorszállás romjai a Ventoux-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Rezervație forestieră strict protejată pe versantul Muntelui Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "Zona centrală de protecție a rezervației biosferei Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "Un munte proeminent în Provence, cunoscut datorită Turului Franței.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "Un vârf și o mică stațiune de schi pe versantul nordic al Muntelui Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Punct de belvedere pe Mont Ventoux cu vedere spre Alpi.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Punct de belvedere cu vedere panoramică asupra peisajului provensal.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Ruinele unui adăpost tradițional de păstori în masivul Ventoux.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique intégrale du Mont Ventoux",
+                  "text": "Strictly protected forest reserve on the slopes of Mont Ventoux.",
+                  "category": "natural",
+                  "coords": [
+                        5.311012,
+                        44.172708
+                  ]
+            },
+            {
+                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
+                  "text": "Central protection zone of the Mont Ventoux biosphere reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.274874,
+                        44.141264
+                  ]
+            },
+            {
+                  "name": "Mont Ventoux",
+                  "text": "A prominent mountain in Provence, famous from the Tour de France.",
+                  "category": "landmark",
+                  "coords": [
+                        5.278398,
+                        44.173965
+                  ]
+            },
+            {
+                  "name": "Mont Serein",
+                  "text": "A peak and small ski resort on the north side of Mont Ventoux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.260282,
+                        44.185102
+                  ]
+            },
+            {
+                  "name": "Belvédère des Alpes",
+                  "text": "Viewpoint on Mont Ventoux offering views towards the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        5.280634,
+                        44.175034
+                  ]
+            },
+            {
+                  "name": "Belvédère de Provence",
+                  "text": "Viewpoint with panoramic views over the landscapes of Provence.",
+                  "category": "natural",
+                  "coords": [
+                        5.278424,
+                        44.172889
+                  ]
+            },
+            {
+                  "name": "Jas du Mian (incertain)",
+                  "text": "Ruins of a traditional shepherd's shelter in the Ventoux Massif.",
+                  "category": "historical",
+                  "coords": [
+                        5.236876,
+                        44.156253
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Ventoux-Massiv", hu: "Ventoux-hegység", ro: "Masivul Ventoux", en: "Ventoux Massif" , fr: "Massif du Ventoux"},
@@ -588,7 +2352,196 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-massif-du-ventoux-relief-v2.webp",
   },
   {
-    id: "france-plaine-de-la-saone-relief-v2",
+    id: "france-plaine-de-la-saone-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de plein air Étang Rouge",
+                  "text": "Ein Freilichtmuseum, das traditionelle ländliche Architektur und Lebensweise zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.16049,
+                        46.998465
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine traditionelle Kirche, die dem heiligen Martin in der Region Saône-Ebene gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.145463,
+                        46.997859
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de la Vierge",
+                  "text": "Eine religiöse Stätte, die der Geburt der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.14986,
+                        47.022213
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Antoine",
+                  "text": "Eine lokale Pfarrkirche, die dem heiligen Antonius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.122926,
+                        47.017658
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Eine nach der heiligen Maria Magdalena benannte Kirche in der Saône-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        5.205174,
+                        46.993329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de plein air Étang Rouge",
+                  "text": "A hagyományos vidéki építészetet és életmódot bemutató szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.16049,
+                        46.998465
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Mártonnak szentelt hagyományos templom a Saône-síkság régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        5.145463,
+                        46.997859
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de la Vierge",
+                  "text": "Szűz Mária születésének szentelt vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        5.14986,
+                        47.022213
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Antoine",
+                  "text": "Szent Antalnak szentelt helyi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        5.122926,
+                        47.017658
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Szent Mária Magdolnáról elnevezett templom a Saône-síkságon.",
+                  "category": "religious",
+                  "coords": [
+                        5.205174,
+                        46.993329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de plein air Étang Rouge",
+                  "text": "Un muzeu în aer liber care prezintă arhitectura și viața rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        5.16049,
+                        46.998465
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică tradițională dedicată Sfântului Martin în regiunea Câmpiei Saône.",
+                  "category": "religious",
+                  "coords": [
+                        5.145463,
+                        46.997859
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de la Vierge",
+                  "text": "Un sit religios dedicat Nașterii Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        5.14986,
+                        47.022213
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Antoine",
+                  "text": "O biserică parohială locală dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        5.122926,
+                        47.017658
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "O biserică numită după Sfânta Maria Magdalena în Câmpia Saône.",
+                  "category": "religious",
+                  "coords": [
+                        5.205174,
+                        46.993329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de plein air Étang Rouge",
+                  "text": "An open-air museum showcasing traditional rural architecture and life.",
+                  "category": "museum",
+                  "coords": [
+                        5.16049,
+                        46.998465
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A traditional church dedicated to Saint Martin in the Saône Plain region.",
+                  "category": "religious",
+                  "coords": [
+                        5.145463,
+                        46.997859
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité de la Vierge",
+                  "text": "A religious site dedicated to the Nativity of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        5.14986,
+                        47.022213
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Antoine",
+                  "text": "A local parish church dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        5.122926,
+                        47.017658
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "A church named after Saint Mary Magdalene in the Saône Plain.",
+                  "category": "religious",
+                  "coords": [
+                        5.205174,
+                        46.993329
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "FR",
     name: { de: "Saône-Ebene", hu: "Saône-síkság", ro: "Câmpia Saônei", en: "Saône Plain" , fr: "Plaine de la Saône"},
@@ -633,7 +2586,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plaine-de-la-saone-relief-v2.webp",
   },
   {
-    id: "france-massif-de-la-chartreuse-relief-v2",
+    id: "france-massif-de-la-chartreuse-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la Grande Chartreuse",
+                  "text": "Ein Museum, das die Geschichte des Kartäuserordens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.79153,
+                        45.34991
+                  ]
+            },
+            {
+                  "name": "Dent de l'Ours",
+                  "text": "Ein Berggipfel im Chartreuse-Massiv in Frankreich.",
+                  "category": "landmark",
+                  "coords": [
+                        5.820785,
+                        45.388696
+                  ]
+            },
+            {
+                  "name": "Le Grand Som",
+                  "text": "Ein Gipfel im Chartreuse-Massiv mit Blick auf das Hauptkloster.",
+                  "category": "landmark",
+                  "coords": [
+                        5.811989,
+                        45.37041
+                  ]
+            },
+            {
+                  "name": "Habert de Cordes",
+                  "text": "Ruinen einer ehemaligen Almhütte im Chartreuse-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        5.769923,
+                        45.366289
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Arpison",
+                  "text": "Ein Aussichtspunkt im Chartreuse-Gebirge mit weitem Panorama.",
+                  "category": "natural",
+                  "coords": [
+                        5.772994,
+                        45.374723
+                  ]
+            },
+            {
+                  "name": "Belvédère du Pertuis",
+                  "text": "Ein Aussichtspunkt in der Natur des Chartreuse-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        5.77566,
+                        45.395132
+                  ]
+            },
+            {
+                  "name": "belvédère du Pertuis 1200 m",
+                  "text": "Ein Panoramapunkt auf 1200 Metern Höhe im Chartreuse-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        5.765814,
+                        45.387203
+                  ]
+            },
+            {
+                  "name": "Porte de l'Enclos",
+                  "text": "Ein landschaftlich schöner Aussichtspunkt im Chartreuse-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        5.79988,
+                        45.343931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la Grande Chartreuse",
+                  "text": "A karthauzi rend történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.79153,
+                        45.34991
+                  ]
+            },
+            {
+                  "name": "Dent de l'Ours",
+                  "text": "Hegycsúcs a franciaországi Chartreuse-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.820785,
+                        45.388696
+                  ]
+            },
+            {
+                  "name": "Le Grand Som",
+                  "text": "A Chartreuse-masszívum egyik csúcsa, kilátással a főkolostorra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.811989,
+                        45.37041
+                  ]
+            },
+            {
+                  "name": "Habert de Cordes",
+                  "text": "Egykori hegyi pásztorkunyhó romjai a Chartreuse-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        5.769923,
+                        45.366289
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Arpison",
+                  "text": "Kilátópont a Chartreuse-hegységben, széles panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        5.772994,
+                        45.374723
+                  ]
+            },
+            {
+                  "name": "Belvédère du Pertuis",
+                  "text": "Kilátóhely a Chartreuse-masszívum természetében.",
+                  "category": "natural",
+                  "coords": [
+                        5.77566,
+                        45.395132
+                  ]
+            },
+            {
+                  "name": "belvédère du Pertuis 1200 m",
+                  "text": "Kilátópont 1200 méteres magasságban a Chartreuse-masszívumban.",
+                  "category": "natural",
+                  "coords": [
+                        5.765814,
+                        45.387203
+                  ]
+            },
+            {
+                  "name": "Porte de l'Enclos",
+                  "text": "Szép kilátást nyújtó pont a Chartreuse-masszívumban.",
+                  "category": "natural",
+                  "coords": [
+                        5.79988,
+                        45.343931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la Grande Chartreuse",
+                  "text": "Un muzeu care documentează istoria ordinului cartusian.",
+                  "category": "museum",
+                  "coords": [
+                        5.79153,
+                        45.34991
+                  ]
+            },
+            {
+                  "name": "Dent de l'Ours",
+                  "text": "Un vârf muntos în masivul Chartreuse din Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        5.820785,
+                        45.388696
+                  ]
+            },
+            {
+                  "name": "Le Grand Som",
+                  "text": "Un vârf din masivul Chartreuse cu vedere spre mănăstirea principală.",
+                  "category": "landmark",
+                  "coords": [
+                        5.811989,
+                        45.37041
+                  ]
+            },
+            {
+                  "name": "Habert de Cordes",
+                  "text": "Ruinele unei foste colibe montane din masivul Chartreuse.",
+                  "category": "historical",
+                  "coords": [
+                        5.769923,
+                        45.366289
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Arpison",
+                  "text": "Un punct de belvedere în munții Chartreuse, cu o panoramă largă.",
+                  "category": "natural",
+                  "coords": [
+                        5.772994,
+                        45.374723
+                  ]
+            },
+            {
+                  "name": "Belvédère du Pertuis",
+                  "text": "Un punct de observație în natura masivului Chartreuse.",
+                  "category": "natural",
+                  "coords": [
+                        5.77566,
+                        45.395132
+                  ]
+            },
+            {
+                  "name": "belvédère du Pertuis 1200 m",
+                  "text": "Un punct panoramic situat la 1200 de metri altitudine în masivul Chartreuse.",
+                  "category": "natural",
+                  "coords": [
+                        5.765814,
+                        45.387203
+                  ]
+            },
+            {
+                  "name": "Porte de l'Enclos",
+                  "text": "Un punct de belvedere pitoresc din masivul Chartreuse.",
+                  "category": "natural",
+                  "coords": [
+                        5.79988,
+                        45.343931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la Grande Chartreuse",
+                  "text": "A museum documenting the history of the Carthusian Order.",
+                  "category": "museum",
+                  "coords": [
+                        5.79153,
+                        45.34991
+                  ]
+            },
+            {
+                  "name": "Dent de l'Ours",
+                  "text": "A mountain peak in the Chartreuse Massif in France.",
+                  "category": "landmark",
+                  "coords": [
+                        5.820785,
+                        45.388696
+                  ]
+            },
+            {
+                  "name": "Le Grand Som",
+                  "text": "A peak in the Chartreuse Massif overlooking the main monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        5.811989,
+                        45.37041
+                  ]
+            },
+            {
+                  "name": "Habert de Cordes",
+                  "text": "Ruins of a former mountain hut in the Chartreuse Massif.",
+                  "category": "historical",
+                  "coords": [
+                        5.769923,
+                        45.366289
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Arpison",
+                  "text": "A viewpoint in the Chartreuse Mountains with a wide panorama.",
+                  "category": "natural",
+                  "coords": [
+                        5.772994,
+                        45.374723
+                  ]
+            },
+            {
+                  "name": "Belvédère du Pertuis",
+                  "text": "A vantage point in the nature of the Chartreuse Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.77566,
+                        45.395132
+                  ]
+            },
+            {
+                  "name": "belvédère du Pertuis 1200 m",
+                  "text": "A panoramic point at 1200 meters altitude in the Chartreuse Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.765814,
+                        45.387203
+                  ]
+            },
+            {
+                  "name": "Porte de l'Enclos",
+                  "text": "A scenic viewpoint located in the Chartreuse Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.79988,
+                        45.343931
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Chartreuse-Massiv", hu: "Chartreuse-hegység", ro: "Masivul Chartreuse", en: "Chartreuse Massif" , fr: "Massif de la Chartreuse"},
@@ -768,7 +3018,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plaine-d-alsace-relief-v2.webp",
   },
   {
-    id: "france-mont-caroux-relief-v2",
+    id: "france-mont-caroux-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison du Mouflon",
+                  "text": "Ein Museum am Mont Caroux, das der lokalen Fauna, insbesondere dem Mufflon, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        2.974045,
+                        43.611118
+                  ]
+            },
+            {
+                  "name": "plage publique",
+                  "text": "Ein öffentlicher Badestrand in der naturbelassenen Region des Mont Caroux.",
+                  "category": "recreational",
+                  "coords": [
+                        2.970807,
+                        43.561429
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de l'Espinouse",
+                  "text": "Ein geschütztes Waldgebiet im Espinouse-Massiv zur Erhaltung der Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        2.972228,
+                        43.597328
+                  ]
+            },
+            {
+                  "name": "Château de Colombières sur Orb",
+                  "text": "Ein historisches Schloss in Colombières-sur-Orb inmitten einer grünen Landschaft.",
+                  "category": "castle",
+                  "coords": [
+                        3.000308,
+                        43.578127
+                  ]
+            },
+            {
+                  "name": "La Tour",
+                  "text": "Ein markanter Berggipfel im Caroux-Massiv, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        2.987101,
+                        43.606307
+                  ]
+            },
+            {
+                  "name": "Gorges d'Héric",
+                  "text": "Eine spektakuläre Schlucht mit Wasserfällen und Wanderwegen im Regionalpark Haut-Languedoc.",
+                  "category": "landmark",
+                  "coords": [
+                        2.96388,
+                        43.5823
+                  ]
+            },
+            {
+                  "name": "Table d’orientation du Caroux",
+                  "text": "Ein Aussichtspunkt auf dem Caroux-Plateau mit Panoramablick auf die Täler.",
+                  "category": "natural",
+                  "coords": [
+                        2.979096,
+                        43.590363
+                  ]
+            },
+            {
+                  "name": "Vestiges aval du Castellas",
+                  "text": "Überreste einer alten Befestigungsanlage am Fuße des Castellas.",
+                  "category": "historical",
+                  "coords": [
+                        2.936099,
+                        43.574868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison du Mouflon",
+                  "text": "A Mont Caroux-nál található múzeum, amely a helyi faunának, különösen a muflonnak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        2.974045,
+                        43.611118
+                  ]
+            },
+            {
+                  "name": "plage publique",
+                  "text": "Nyilvános fürdőhely Mont Caroux természetközeli régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.970807,
+                        43.561429
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de l'Espinouse",
+                  "text": "Védett erdőterület az Espinouse-masszívumban a biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        2.972228,
+                        43.597328
+                  ]
+            },
+            {
+                  "name": "Château de Colombières sur Orb",
+                  "text": "Történelmi kastély Colombières-sur-Orb településen, zöld környezetben.",
+                  "category": "castle",
+                  "coords": [
+                        3.000308,
+                        43.578127
+                  ]
+            },
+            {
+                  "name": "La Tour",
+                  "text": "Jellegzetes hegycsúcs a Caroux-masszívumban, a túrázók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        2.987101,
+                        43.606307
+                  ]
+            },
+            {
+                  "name": "Gorges d'Héric",
+                  "text": "Látványos szurdok vízesésekkel és túraútvonalakkal a Haut-Languedoc regionális parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        2.96388,
+                        43.5823
+                  ]
+            },
+            {
+                  "name": "Table d’orientation du Caroux",
+                  "text": "Kilátópont a Caroux-fennsíkon, ahonnan panorámás kilátás nyílik a völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        2.979096,
+                        43.590363
+                  ]
+            },
+            {
+                  "name": "Vestiges aval du Castellas",
+                  "text": "Egy régi erődítmény maradványai a Castellas lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        2.936099,
+                        43.574868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison du Mouflon",
+                  "text": "Un muzeu la Mont Caroux dedicat faunei locale, în special muflonului.",
+                  "category": "museum",
+                  "coords": [
+                        2.974045,
+                        43.611118
+                  ]
+            },
+            {
+                  "name": "plage publique",
+                  "text": "O plajă publică în regiunea naturală de la Mont Caroux.",
+                  "category": "recreational",
+                  "coords": [
+                        2.970807,
+                        43.561429
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de l'Espinouse",
+                  "text": "O zonă forestieră protejată în masivul Espinouse pentru conservarea biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        2.972228,
+                        43.597328
+                  ]
+            },
+            {
+                  "name": "Château de Colombières sur Orb",
+                  "text": "Un castel istoric în Colombières-sur-Orb, situat într-un peisaj verde.",
+                  "category": "castle",
+                  "coords": [
+                        3.000308,
+                        43.578127
+                  ]
+            },
+            {
+                  "name": "La Tour",
+                  "text": "Un vârf montan proeminent în masivul Caroux, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        2.987101,
+                        43.606307
+                  ]
+            },
+            {
+                  "name": "Gorges d'Héric",
+                  "text": "Chei spectaculoase cu cascade și trasee de drumeție în parcul regional Haut-Languedoc.",
+                  "category": "landmark",
+                  "coords": [
+                        2.96388,
+                        43.5823
+                  ]
+            },
+            {
+                  "name": "Table d’orientation du Caroux",
+                  "text": "Un punct de observație pe platoul Caroux cu vedere panoramică asupra văilor.",
+                  "category": "natural",
+                  "coords": [
+                        2.979096,
+                        43.590363
+                  ]
+            },
+            {
+                  "name": "Vestiges aval du Castellas",
+                  "text": "Rămășițele unei vechi fortificații la poalele dealului Castellas.",
+                  "category": "historical",
+                  "coords": [
+                        2.936099,
+                        43.574868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison du Mouflon",
+                  "text": "A museum at Mont Caroux dedicated to local fauna, specifically the mouflon.",
+                  "category": "museum",
+                  "coords": [
+                        2.974045,
+                        43.611118
+                  ]
+            },
+            {
+                  "name": "plage publique",
+                  "text": "A public bathing beach in the natural region of Mont Caroux.",
+                  "category": "recreational",
+                  "coords": [
+                        2.970807,
+                        43.561429
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de l'Espinouse",
+                  "text": "A protected forest area in the Espinouse massif for biodiversity conservation.",
+                  "category": "natural",
+                  "coords": [
+                        2.972228,
+                        43.597328
+                  ]
+            },
+            {
+                  "name": "Château de Colombières sur Orb",
+                  "text": "A historic castle in Colombières-sur-Orb set in a green landscape.",
+                  "category": "castle",
+                  "coords": [
+                        3.000308,
+                        43.578127
+                  ]
+            },
+            {
+                  "name": "La Tour",
+                  "text": "A prominent mountain peak in the Caroux massif, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        2.987101,
+                        43.606307
+                  ]
+            },
+            {
+                  "name": "Gorges d'Héric",
+                  "text": "Spectacular gorges with waterfalls and hiking trails in the Haut-Languedoc regional park.",
+                  "category": "landmark",
+                  "coords": [
+                        2.96388,
+                        43.5823
+                  ]
+            },
+            {
+                  "name": "Table d’orientation du Caroux",
+                  "text": "A viewpoint on the Caroux plateau offering panoramic views of the valleys.",
+                  "category": "natural",
+                  "coords": [
+                        2.979096,
+                        43.590363
+                  ]
+            },
+            {
+                  "name": "Vestiges aval du Castellas",
+                  "text": "Remains of an old fortification at the foot of the Castellas.",
+                  "category": "historical",
+                  "coords": [
+                        2.936099,
+                        43.574868
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Caroux", hu: "Mont Caroux", ro: "Mont Caroux", en: "Mont Caroux" , fr: "Mont Caroux"},
@@ -903,7 +3450,124 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-massif-de-la-sainte-baume-relief-v2.webp",
   },
   {
-    id: "france-plateau-de-larzac-relief-v2",
+    id: "france-plateau-de-larzac-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tour des Aiguillons",
+                  "text": "Überreste eines mittelalterlichen Turms auf dem Larzac-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        3.172681,
+                        43.913784
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "Eine historische Kirche in der Larzac-Region, die dem heiligen Petrus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        3.179049,
+                        43.902846
+                  ]
+            },
+            {
+                  "name": "Grotte du Roi (bergerie troglo)",
+                  "text": "Eine natürliche Höhle, die traditionell als Schafstall genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        3.130001,
+                        43.929686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour des Aiguillons",
+                  "text": "Egy középkori torony maradványai a Larzac-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        3.172681,
+                        43.913784
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "A Larzac-régió egyik történelmi temploma, amelyet Szent Péternek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        3.179049,
+                        43.902846
+                  ]
+            },
+            {
+                  "name": "Grotte du Roi (bergerie troglo)",
+                  "text": "Egy természetes barlang, amelyet hagyományosan juhakolként használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        3.130001,
+                        43.929686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour des Aiguillons",
+                  "text": "Rămășițele unui turn medieval de pe platoul Larzac.",
+                  "category": "historical",
+                  "coords": [
+                        3.172681,
+                        43.913784
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "O biserică istorică din regiunea Larzac, dedicată Sfântului Petru.",
+                  "category": "religious",
+                  "coords": [
+                        3.179049,
+                        43.902846
+                  ]
+            },
+            {
+                  "name": "Grotte du Roi (bergerie troglo)",
+                  "text": "O peșteră naturală care a fost folosită în mod tradițional ca adăpost pentru oi.",
+                  "category": "landmark",
+                  "coords": [
+                        3.130001,
+                        43.929686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour des Aiguillons",
+                  "text": "Remains of a medieval tower on the Larzac plateau.",
+                  "category": "historical",
+                  "coords": [
+                        3.172681,
+                        43.913784
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "A historic church in the Larzac region dedicated to Saint Peter.",
+                  "category": "religious",
+                  "coords": [
+                        3.179049,
+                        43.902846
+                  ]
+            },
+            {
+                  "name": "Grotte du Roi (bergerie troglo)",
+                  "text": "A natural cave that was traditionally used as a sheep pen.",
+                  "category": "landmark",
+                  "coords": [
+                        3.130001,
+                        43.929686
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Larzac", hu: "Larzac", ro: "Larzac", en: "Larzac" , fr: "Le Larzac"},
@@ -993,7 +3657,52 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-saint-baudille-relief-v2.webp",
   },
   {
-    id: "france-plateau-de-beille-relief-v2",
+    id: "france-plateau-de-beille-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Calbe",
+                  "text": "Ein Berggipfel in den französischen Pyrenäen am Plateau de Beille.",
+                  "category": "landmark",
+                  "coords": [
+                        1.593404,
+                        42.722709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Calbe",
+                  "text": "Hegyi csúcs a francia Pireneusokban, a Plateau de Beille területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.593404,
+                        42.722709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Calbe",
+                  "text": "Un vârf muntos în Pirineii francezi, pe Plateau de Beille.",
+                  "category": "landmark",
+                  "coords": [
+                        1.593404,
+                        42.722709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Calbe",
+                  "text": "A mountain peak in the French Pyrenees on the Plateau de Beille.",
+                  "category": "landmark",
+                  "coords": [
+                        1.593404,
+                        42.722709
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Plateau de Beille", hu: "Plateau de Beille", ro: "Plateau de Beille", en: "Plateau de Beille" , fr: "Plateau de Beille"},
@@ -1038,7 +3747,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plateau-de-beille-relief-v2.webp",
   },
   {
-    id: "france-col-du-galibier-relief-v2",
+    id: "france-col-du-galibier-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sommet du Santin - Serre Orel",
+                  "text": "Ein Aussichtspunkt am Col du Galibier, der spektakuläre Panoramablicke auf die französischen Alpen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.406298,
+                        45.031669
+                  ]
+            },
+            {
+                  "name": "Pointe des Lauzettes",
+                  "text": "Ein markanter Berggipfel in den französischen Alpen, gelegen in der Nähe des berühmten Col du Galibier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.374784,
+                        45.083168
+                  ]
+            },
+            {
+                  "name": "La Pare",
+                  "text": "Ein Gipfel in der Region des Col du Galibier, der Wanderern weite Ausblicke über die Alpenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.361794,
+                        45.06479
+                  ]
+            },
+            {
+                  "name": "Le Grand Galibier",
+                  "text": "Ein imposanter Berggipfel in der Nähe des Col du Galibier, bekannt für sein markantes alpines Profil.",
+                  "category": "landmark",
+                  "coords": [
+                        6.434149,
+                        45.063891
+                  ]
+            },
+            {
+                  "name": "Jardin botanique alpin du Lautaret",
+                  "text": "Einer der ältesten alpinen botanischen Gärten Europas, am Col du Lautaret gelegen.",
+                  "category": "park",
+                  "coords": [
+                        6.399934,
+                        45.035962
+                  ]
+            },
+            {
+                  "name": "Pic des Trois Évêchés",
+                  "text": "Ein religiöses Denkmal in Form eines Wegkreuzes, gelegen in der hochalpinen Landschaft des Col du Galibier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.36496,
+                        45.070009
+                  ]
+            },
+            {
+                  "name": "Chapelle des Fusillés",
+                  "text": "Eine kleine Kapelle am Col du Galibier, die als Ort der Andacht und des Gedenkens dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.404787,
+                        45.036258
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine",
+                  "text": "Eine historische Kapelle in der Nähe des Col du Galibier, die der Heiligen Magdalena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.435491,
+                        45.034733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sommet du Santin - Serre Orel",
+                  "text": "Kilátóhely a Col du Galibier-nél, amely látványos panorámát nyújt a francia Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        6.406298,
+                        45.031669
+                  ]
+            },
+            {
+                  "name": "Pointe des Lauzettes",
+                  "text": "Jellegzetes hegycsúcs a francia Alpokban, a híres Col du Galibier hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.374784,
+                        45.083168
+                  ]
+            },
+            {
+                  "name": "La Pare",
+                  "text": "Egy hegycsúcs a Col du Galibier régiójában, amely tágas kilátást nyújt az alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.361794,
+                        45.06479
+                  ]
+            },
+            {
+                  "name": "Le Grand Galibier",
+                  "text": "Impozáns hegycsúcs a Col du Galibier közelében, amely jellegzetes alpesi profiljáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.434149,
+                        45.063891
+                  ]
+            },
+            {
+                  "name": "Jardin botanique alpin du Lautaret",
+                  "text": "Európa egyik legrégebbi alpesi botanikus kertje, amely a Col du Lautaret hágónál található.",
+                  "category": "park",
+                  "coords": [
+                        6.399934,
+                        45.035962
+                  ]
+            },
+            {
+                  "name": "Pic des Trois Évêchés",
+                  "text": "Útszéli kereszt formájú vallási emlékmű a Col du Galibier magashegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        6.36496,
+                        45.070009
+                  ]
+            },
+            {
+                  "name": "Chapelle des Fusillés",
+                  "text": "Egy kis kápolna a Col du Galibier hágónál, amely az áhítat és az emlékezés helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.404787,
+                        45.036258
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine",
+                  "text": "Történelmi kápolna a Col du Galibier közelében, amelyet Szent Magdolnának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        6.435491,
+                        45.034733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sommet du Santin - Serre Orel",
+                  "text": "Un punct de belvedere la Col du Galibier, oferind vederi panoramice spectaculoase asupra Alpilor francezi.",
+                  "category": "natural",
+                  "coords": [
+                        6.406298,
+                        45.031669
+                  ]
+            },
+            {
+                  "name": "Pointe des Lauzettes",
+                  "text": "Un vârf montan proeminent în Alpii Francezi, situat în apropierea celebrului pas Col du Galibier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.374784,
+                        45.083168
+                  ]
+            },
+            {
+                  "name": "La Pare",
+                  "text": "Un vârf în regiunea Col du Galibier, oferind drumeților vederi largi asupra peisajului alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        6.361794,
+                        45.06479
+                  ]
+            },
+            {
+                  "name": "Le Grand Galibier",
+                  "text": "Un vârf montan impunător lângă Col du Galibier, cunoscut pentru profilul său alpin distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        6.434149,
+                        45.063891
+                  ]
+            },
+            {
+                  "name": "Jardin botanique alpin du Lautaret",
+                  "text": "Una dintre cele mai vechi grădini botanice alpine din Europa, situată în pasul Col du Lautaret.",
+                  "category": "park",
+                  "coords": [
+                        6.399934,
+                        45.035962
+                  ]
+            },
+            {
+                  "name": "Pic des Trois Évêchés",
+                  "text": "Un monument religios sub formă de cruce de drum, situat în peisajul alpin înalt de la Col du Galibier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.36496,
+                        45.070009
+                  ]
+            },
+            {
+                  "name": "Chapelle des Fusillés",
+                  "text": "O mică capelă la Col du Galibier, care servește ca loc de reculegere și comemorare.",
+                  "category": "religious",
+                  "coords": [
+                        6.404787,
+                        45.036258
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine",
+                  "text": "O capelă istorică lângă Col du Galibier, dedicată Sfintei Maria Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        6.435491,
+                        45.034733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sommet du Santin - Serre Orel",
+                  "text": "A viewpoint at Col du Galibier offering spectacular panoramic views of the French Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.406298,
+                        45.031669
+                  ]
+            },
+            {
+                  "name": "Pointe des Lauzettes",
+                  "text": "A prominent mountain peak in the French Alps, located near the famous Col du Galibier pass.",
+                  "category": "landmark",
+                  "coords": [
+                        6.374784,
+                        45.083168
+                  ]
+            },
+            {
+                  "name": "La Pare",
+                  "text": "A peak in the Col du Galibier region, offering hikers expansive views over the alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        6.361794,
+                        45.06479
+                  ]
+            },
+            {
+                  "name": "Le Grand Galibier",
+                  "text": "An imposing mountain peak near Col du Galibier, known for its distinctive alpine profile.",
+                  "category": "landmark",
+                  "coords": [
+                        6.434149,
+                        45.063891
+                  ]
+            },
+            {
+                  "name": "Jardin botanique alpin du Lautaret",
+                  "text": "One of the oldest alpine botanical gardens in Europe, located at the Col du Lautaret pass.",
+                  "category": "park",
+                  "coords": [
+                        6.399934,
+                        45.035962
+                  ]
+            },
+            {
+                  "name": "Pic des Trois Évêchés",
+                  "text": "A religious monument in the form of a wayside cross, situated in the high alpine landscape of Col du Galibier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.36496,
+                        45.070009
+                  ]
+            },
+            {
+                  "name": "Chapelle des Fusillés",
+                  "text": "A small chapel at the Col du Galibier, serving as a place of worship and remembrance.",
+                  "category": "religious",
+                  "coords": [
+                        6.404787,
+                        45.036258
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine",
+                  "text": "A historic chapel near Col du Galibier, dedicated to Saint Mary Magdalene.",
+                  "category": "religious",
+                  "coords": [
+                        6.435491,
+                        45.034733
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Col du Galibier", hu: "Col du Galibier", ro: "Col du Galibier", en: "Col du Galibier" , fr: "Col du Galibier"},
@@ -1128,7 +4134,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-joly-relief-v2.webp",
   },
   {
-    id: "france-gorges-de-l-ardeche-relief-v2",
+    id: "france-gorges-de-l-ardeche-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grotte Chauvet",
+                  "text": "Eine berühmte Höhle mit einigen der ältesten bekannten Wandmalereien der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        4.415691,
+                        44.388109
+                  ]
+            },
+            {
+                  "name": "Site médiéval",
+                  "text": "Die mittelalterlichen Ruinen von Salavas am Ufer der Ardèche.",
+                  "category": "castle",
+                  "coords": [
+                        4.376043,
+                        44.394198
+                  ]
+            },
+            {
+                  "name": "Grotte Chauvet 2 Ardèche",
+                  "text": "Ein detailgetreuer Nachbau der berühmten Chauvet-Höhle für Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        4.428925,
+                        44.406345
+                  ]
+            },
+            {
+                  "name": "Château des Roure",
+                  "text": "Ein Schloss aus dem 15. Jahrhundert, das auch die Geschichte der Seidenzucht zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        4.401295,
+                        44.351899
+                  ]
+            },
+            {
+                  "name": "Dolmen de Champagnac",
+                  "text": "Eine prähistorische Grabstätte in der Region der Ardèche-Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        4.375912,
+                        44.368076
+                  ]
+            },
+            {
+                  "name": "Galerie de l'Aurignacien",
+                  "text": "Ein Museumsbereich, der das Leben der Menschen im Aurignacien erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        4.429724,
+                        44.407395
+                  ]
+            },
+            {
+                  "name": "La Caverne du Pont d'Arc",
+                  "text": "Das Besucherzentrum für die Replik der prähistorischen Chauvet-Höhle.",
+                  "category": "museum",
+                  "coords": [
+                        4.426737,
+                        44.407059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte Chauvet",
+                  "text": "Híres barlang, amely a világ legősibb falfestményeinek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        4.415691,
+                        44.388109
+                  ]
+            },
+            {
+                  "name": "Site médiéval",
+                  "text": "Salavas középkori romjai az Ardèche folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        4.376043,
+                        44.394198
+                  ]
+            },
+            {
+                  "name": "Grotte Chauvet 2 Ardèche",
+                  "text": "A híres Chauvet-barlang mérethű és részletes másolata a látogatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        4.428925,
+                        44.406345
+                  ]
+            },
+            {
+                  "name": "Château des Roure",
+                  "text": "15. századi kastély, amely a selyemhernyó-tenyésztés történetét is bemutatja.",
+                  "category": "castle",
+                  "coords": [
+                        4.401295,
+                        44.351899
+                  ]
+            },
+            {
+                  "name": "Dolmen de Champagnac",
+                  "text": "Őskori megalitikus sírhely az Ardèche-szurdok régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        4.375912,
+                        44.368076
+                  ]
+            },
+            {
+                  "name": "Galerie de l'Aurignacien",
+                  "text": "Az aurignaci kultúra embereinek életét bemutató múzeumi kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        4.429724,
+                        44.407395
+                  ]
+            },
+            {
+                  "name": "La Caverne du Pont d'Arc",
+                  "text": "A prähistorikus Chauvet-barlang másolatának látogatóközpontja.",
+                  "category": "museum",
+                  "coords": [
+                        4.426737,
+                        44.407059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte Chauvet",
+                  "text": "O peșteră celebră care adăpostește unele dintre cele mai vechi picturi rupestre.",
+                  "category": "historical",
+                  "coords": [
+                        4.415691,
+                        44.388109
+                  ]
+            },
+            {
+                  "name": "Site médiéval",
+                  "text": "Ruinele medievale din Salavas, situate pe malul râului Ardèche.",
+                  "category": "castle",
+                  "coords": [
+                        4.376043,
+                        44.394198
+                  ]
+            },
+            {
+                  "name": "Grotte Chauvet 2 Ardèche",
+                  "text": "O replică fidelă a celebrei peșteri Chauvet, creată pentru vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        4.428925,
+                        44.406345
+                  ]
+            },
+            {
+                  "name": "Château des Roure",
+                  "text": "Un castel din secolul al XV-lea care prezintă și istoria sericiculturii.",
+                  "category": "castle",
+                  "coords": [
+                        4.401295,
+                        44.351899
+                  ]
+            },
+            {
+                  "name": "Dolmen de Champagnac",
+                  "text": "Un mormânt megalitic preistoric în regiunea cheilor Ardèche.",
+                  "category": "historical",
+                  "coords": [
+                        4.375912,
+                        44.368076
+                  ]
+            },
+            {
+                  "name": "Galerie de l'Aurignacien",
+                  "text": "O galerie muzeală care explică viața oamenilor din perioada Aurignaciană.",
+                  "category": "museum",
+                  "coords": [
+                        4.429724,
+                        44.407395
+                  ]
+            },
+            {
+                  "name": "La Caverne du Pont d'Arc",
+                  "text": "Centrul de vizitare pentru replica peșterii preistorice Chauvet.",
+                  "category": "museum",
+                  "coords": [
+                        4.426737,
+                        44.407059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grotte Chauvet",
+                  "text": "A famous cave containing some of the world's oldest known cave paintings.",
+                  "category": "historical",
+                  "coords": [
+                        4.415691,
+                        44.388109
+                  ]
+            },
+            {
+                  "name": "Site médiéval",
+                  "text": "The medieval ruins of Salavas located on the banks of the Ardèche river.",
+                  "category": "castle",
+                  "coords": [
+                        4.376043,
+                        44.394198
+                  ]
+            },
+            {
+                  "name": "Grotte Chauvet 2 Ardèche",
+                  "text": "A faithful and detailed replica of the famous Chauvet cave for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        4.428925,
+                        44.406345
+                  ]
+            },
+            {
+                  "name": "Castle of the Roure",
+                  "text": "A 15th-century castle that also showcases the history of silk farming.",
+                  "category": "castle",
+                  "coords": [
+                        4.401295,
+                        44.351899
+                  ]
+            },
+            {
+                  "name": "Dolmen de Champagnac",
+                  "text": "A prehistoric megalithic tomb in the Ardèche Gorge region.",
+                  "category": "historical",
+                  "coords": [
+                        4.375912,
+                        44.368076
+                  ]
+            },
+            {
+                  "name": "Galerie de l'Aurignacien",
+                  "text": "A museum gallery explaining the life of people during the Aurignacian period.",
+                  "category": "museum",
+                  "coords": [
+                        4.429724,
+                        44.407395
+                  ]
+            },
+            {
+                  "name": "La Caverne du Pont d'Arc",
+                  "text": "The visitor center for the replica of the prehistoric Chauvet cave.",
+                  "category": "museum",
+                  "coords": [
+                        4.426737,
+                        44.407059
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "FR",
     name: { de: "Ardèche-Schlucht", hu: "Ardèche-szurdok", ro: "Cheile Ardèche", en: "Ardeche Gorge" , fr: "Gorges de l'Ardèche"},
@@ -1173,7 +4440,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-gorges-de-l-ardeche-relief-v2.webp",
   },
   {
-    id: "france-mont-mezenc-relief-v2",
+    id: "france-mont-mezenc-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferme du Bourlatier",
+                  "text": "Ein traditioneller befestigter Bauernhof, der heute als Museum und Kulturzentrum dient.",
+                  "category": "museum",
+                  "coords": [
+                        4.244067,
+                        44.818025
+                  ]
+            },
+            {
+                  "name": "Mont Gerbier de Jonc",
+                  "text": "Ein markanter Vulkankegel, der als die geografische Quelle des Flusses Loire bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.219863,
+                        44.843885
+                  ]
+            },
+            {
+                  "name": "Suc de Séponet",
+                  "text": "Ein vulkanischer Berggipfel in der Region Mont Mézenc im Zentralmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        4.176416,
+                        44.846274
+                  ]
+            },
+            {
+                  "name": "Le Sépoux",
+                  "text": "Ein Gipfel in den Bergen des Vivarais, der Teil der vulkanischen Landschaft des Zentralmassivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.183338,
+                        44.83762
+                  ]
+            },
+            {
+                  "name": "Suc de Montfol",
+                  "text": "Ein weiterer markanter Vulkangipfel in der Gebirgskette des Vivarais.",
+                  "category": "landmark",
+                  "coords": [
+                        4.159202,
+                        44.844825
+                  ]
+            },
+            {
+                  "name": "Suc de la Lauzière",
+                  "text": "Ein Berggipfel vulkanischen Ursprungs in der Nähe des Mont Mézenc.",
+                  "category": "landmark",
+                  "coords": [
+                        4.173769,
+                        44.855214
+                  ]
+            },
+            {
+                  "name": "Ferme Rudel",
+                  "text": "Die Ruinen eines historischen Bauernhofs in der Gebirgsregion des Zentralmassivs.",
+                  "category": "historical",
+                  "coords": [
+                        4.177602,
+                        44.823135
+                  ]
+            },
+            {
+                  "name": "La Source Géographique de la Loire",
+                  "text": "Der geografische Ursprung der Loire, des längsten Flusses in Frankreich.",
+                  "category": "landmark",
+                  "coords": [
+                        4.21854,
+                        44.841514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferme du Bourlatier",
+                  "text": "Hagyományos erődített tanya, amely ma múzeumként és kulturális központként működik.",
+                  "category": "museum",
+                  "coords": [
+                        4.244067,
+                        44.818025
+                  ]
+            },
+            {
+                  "name": "Mont Gerbier de Jonc",
+                  "text": "Jellegzetes vulkáni kúp, amely a Loire folyó földrajzi forrásaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        4.219863,
+                        44.843885
+                  ]
+            },
+            {
+                  "name": "Suc de Séponet",
+                  "text": "Vulkáni hegycsúcs a Közép-hegység Mont Mézenc régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.176416,
+                        44.846274
+                  ]
+            },
+            {
+                  "name": "Le Sépoux",
+                  "text": "Csúcs a Vivarais-hegységben, amely a Közép-hegység vulkáni tájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        4.183338,
+                        44.83762
+                  ]
+            },
+            {
+                  "name": "Suc de Montfol",
+                  "text": "Egy másik jellegzetes vulkáni csúcs a Vivarais-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.159202,
+                        44.844825
+                  ]
+            },
+            {
+                  "name": "Suc de la Lauzière",
+                  "text": "Vulkáni eredetű hegycsúcs a Mont Mézenc közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        4.173769,
+                        44.855214
+                  ]
+            },
+            {
+                  "name": "Ferme Rudel",
+                  "text": "Egy történelmi tanya romjai a Közép-hegység hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        4.177602,
+                        44.823135
+                  ]
+            },
+            {
+                  "name": "La Source Géographique de la Loire",
+                  "text": "A Loire, Franciaország leghosszabb folyójának földrajzi eredete.",
+                  "category": "landmark",
+                  "coords": [
+                        4.21854,
+                        44.841514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferme du Bourlatier",
+                  "text": "O fermă tradițională fortificată, care astăzi servește ca muzeu și centru cultural.",
+                  "category": "museum",
+                  "coords": [
+                        4.244067,
+                        44.818025
+                  ]
+            },
+            {
+                  "name": "Mont Gerbier de Jonc",
+                  "text": "Un con vulcanic proeminent, cunoscut ca fiind sursa geografică a fluviului Loira.",
+                  "category": "landmark",
+                  "coords": [
+                        4.219863,
+                        44.843885
+                  ]
+            },
+            {
+                  "name": "Suc de Séponet",
+                  "text": "Un vârf montan vulcanic în regiunea Mont Mézenc din Masivul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        4.176416,
+                        44.846274
+                  ]
+            },
+            {
+                  "name": "Le Sépoux",
+                  "text": "Un vârf în munții Vivarais, parte a peisajului vulcanic din Masivul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        4.183338,
+                        44.83762
+                  ]
+            },
+            {
+                  "name": "Suc de Montfol",
+                  "text": "Un alt vârf vulcanic proeminent în lanțul muntos Vivarais.",
+                  "category": "landmark",
+                  "coords": [
+                        4.159202,
+                        44.844825
+                  ]
+            },
+            {
+                  "name": "Suc de la Lauzière",
+                  "text": "Un vârf montan de origine vulcanică situat lângă Mont Mézenc.",
+                  "category": "landmark",
+                  "coords": [
+                        4.173769,
+                        44.855214
+                  ]
+            },
+            {
+                  "name": "Ferme Rudel",
+                  "text": "Ruinele unei ferme istorice în regiunea montană a Masivului Central.",
+                  "category": "historical",
+                  "coords": [
+                        4.177602,
+                        44.823135
+                  ]
+            },
+            {
+                  "name": "La Source Géographique de la Loire",
+                  "text": "Originea geografică a Loarei, cel mai lung fluviu din Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        4.21854,
+                        44.841514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferme du Bourlatier",
+                  "text": "A traditional fortified farm that now serves as a museum and cultural centre.",
+                  "category": "museum",
+                  "coords": [
+                        4.244067,
+                        44.818025
+                  ]
+            },
+            {
+                  "name": "Mont Gerbier de Jonc",
+                  "text": "A prominent volcanic cone known as the geographic source of the river Loire.",
+                  "category": "landmark",
+                  "coords": [
+                        4.219863,
+                        44.843885
+                  ]
+            },
+            {
+                  "name": "Suc de Séponet",
+                  "text": "A volcanic mountain peak in the Mont Mézenc region of the Massif Central.",
+                  "category": "landmark",
+                  "coords": [
+                        4.176416,
+                        44.846274
+                  ]
+            },
+            {
+                  "name": "Le Sépoux",
+                  "text": "A peak in the Vivarais mountains, part of the volcanic landscape of the Massif Central.",
+                  "category": "landmark",
+                  "coords": [
+                        4.183338,
+                        44.83762
+                  ]
+            },
+            {
+                  "name": "Suc de Montfol",
+                  "text": "Another prominent volcanic peak in the Vivarais mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        4.159202,
+                        44.844825
+                  ]
+            },
+            {
+                  "name": "Suc de la Lauzière",
+                  "text": "A mountain peak of volcanic origin located near Mont Mézenc.",
+                  "category": "landmark",
+                  "coords": [
+                        4.173769,
+                        44.855214
+                  ]
+            },
+            {
+                  "name": "Ferme Rudel",
+                  "text": "The ruins of a historic farm in the mountainous region of the Massif Central.",
+                  "category": "historical",
+                  "coords": [
+                        4.177602,
+                        44.823135
+                  ]
+            },
+            {
+                  "name": "La Source Géographique de la Loire",
+                  "text": "The geographical origin of the Loire, the longest river in France.",
+                  "category": "landmark",
+                  "coords": [
+                        4.21854,
+                        44.841514
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Mézenc", hu: "Mont Mézenc", ro: "Mont Mézenc", en: "Mont Mezenc" , fr: "Mont Mézenc"},
@@ -1218,7 +4782,88 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-mezenc-relief-v2.webp",
   },
   {
-    id: "france-plateau-de-millevaches-limousin-relief-v2",
+    id: "france-plateau-de-millevaches-limousin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Saint-Sagittaire",
+                  "text": "Eine historische Gebetsstätte auf dem Millevaches-Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        2.128813,
+                        45.695316
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sagittaire",
+                  "text": "Eine religiöse Kapelle in der Region des Millevaches-Plateaus.",
+                  "category": "religious",
+                  "coords": [
+                        2.121733,
+                        45.697435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Saint-Sagittaire",
+                  "text": "Történelmi templom a Millevaches-fennsíkon.",
+                  "category": "religious",
+                  "coords": [
+                        2.128813,
+                        45.695316
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sagittaire",
+                  "text": "Vallási kápolna a Millevaches-fennsík régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        2.121733,
+                        45.697435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Saint-Sagittaire",
+                  "text": "Un lăcaș de cult istoric situat pe Platoul Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.128813,
+                        45.695316
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sagittaire",
+                  "text": "O capelă religioasă situată în regiunea Platoului Millevaches.",
+                  "category": "religious",
+                  "coords": [
+                        2.121733,
+                        45.697435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Saint-Sagittaire",
+                  "text": "A historic place of worship located on the Millevaches Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        2.128813,
+                        45.695316
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sagittaire",
+                  "text": "A religious chapel situated in the Millevaches Plateau region.",
+                  "category": "religious",
+                  "coords": [
+                        2.121733,
+                        45.697435
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Millevaches-Fennsík", hu: "Millevaches-fennsík", ro: "Platoul Millevaches", en: "Millevaches Plateau" , fr: "Plateau de Millevaches"},
@@ -1263,7 +4908,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-plateau-de-millevaches-limousin-relief-v2.webp",
   },
   {
-    id: "france-mont-gervanne-relief-v2",
+    id: "france-mont-gervanne-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Vachères",
+                  "text": "Eine historische Schlossanlage in der Region Mont Gervanne in Frankreich.",
+                  "category": "castle",
+                  "coords": [
+                        5.126424,
+                        44.739404
+                  ]
+            },
+            {
+                  "name": "Badestelle",
+                  "text": "Eine ausgewiesene Badestelle am Fluss im Gebiet von Mont Gervanne.",
+                  "category": "recreational",
+                  "coords": [
+                        5.149736,
+                        44.784778
+                  ]
+            },
+            {
+                  "name": "Maison de la Résistance Mathias Mathieu",
+                  "text": "Ein Museum, das der lokalen Geschichte der französischen Résistance gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.14255,
+                        44.77819
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marcel",
+                  "text": "Eine traditionelle Kirche für die Gemeinde in der Region Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.14388,
+                        44.747775
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques et Saint-Philippe",
+                  "text": "Ein lokales Gotteshaus im Gebiet von Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.151314,
+                        44.761054
+                  ]
+            },
+            {
+                  "name": "Église Saints-Barthélemy-et-Sébastien",
+                  "text": "Eine Pfarrkirche in der malerischen Region Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.143355,
+                        44.776451
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Ein historisches religiöses Gebäude, das dem Dorf in Mont Gervanne dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.113146,
+                        44.759658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Vachères",
+                  "text": "Történelmi kastélyépület Franciaország Mont Gervanne régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        5.126424,
+                        44.739404
+                  ]
+            },
+            {
+                  "name": "Badestelle",
+                  "text": "Kijelölt fürdőhely a folyónál Mont Gervanne környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.149736,
+                        44.784778
+                  ]
+            },
+            {
+                  "name": "Maison de la Résistance Mathias Mathieu",
+                  "text": "A francia ellenállás helyi történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.14255,
+                        44.77819
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marcel",
+                  "text": "Hagyományos templom a Mont Gervanne régió közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        5.14388,
+                        44.747775
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques et Saint-Philippe",
+                  "text": "Helyi templom Mont Gervanne környékén.",
+                  "category": "religious",
+                  "coords": [
+                        5.151314,
+                        44.761054
+                  ]
+            },
+            {
+                  "name": "Église Saints-Barthélemy-et-Sébastien",
+                  "text": "Plébániatemplom a festői Mont Gervanne régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.143355,
+                        44.776451
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Történelmi vallási épület, amely Mont Gervanne faluját szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.113146,
+                        44.759658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Vachères",
+                  "text": "O clădire istorică de castel situată în regiunea Mont Gervanne din Franța.",
+                  "category": "castle",
+                  "coords": [
+                        5.126424,
+                        44.739404
+                  ]
+            },
+            {
+                  "name": "Badestelle",
+                  "text": "Un loc de scăldat amenajat pe râu în zona Mont Gervanne.",
+                  "category": "recreational",
+                  "coords": [
+                        5.149736,
+                        44.784778
+                  ]
+            },
+            {
+                  "name": "Maison de la Résistance Mathias Mathieu",
+                  "text": "Un muzeu dedicat istoriei locale a Rezistenței Franceze.",
+                  "category": "museum",
+                  "coords": [
+                        5.14255,
+                        44.77819
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marcel",
+                  "text": "O biserică tradițională care deservește comunitatea din regiunea Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.14388,
+                        44.747775
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques et Saint-Philippe",
+                  "text": "Un lăcaș de cult local situat în zona Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.151314,
+                        44.761054
+                  ]
+            },
+            {
+                  "name": "Église Saints-Barthélemy-et-Sébastien",
+                  "text": "O biserică parohială situată în pitoreasca regiune Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.143355,
+                        44.776451
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O clădire religioasă istorică ce deservește satul din Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.113146,
+                        44.759658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Vachères",
+                  "text": "A historic castle building situated in the Mont Gervanne region of France.",
+                  "category": "castle",
+                  "coords": [
+                        5.126424,
+                        44.739404
+                  ]
+            },
+            {
+                  "name": "Badestelle",
+                  "text": "A designated swimming spot on the river in the Mont Gervanne area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.149736,
+                        44.784778
+                  ]
+            },
+            {
+                  "name": "Maison de la Résistance Mathias Mathieu",
+                  "text": "A museum dedicated to the local history of the French Resistance.",
+                  "category": "museum",
+                  "coords": [
+                        5.14255,
+                        44.77819
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marcel",
+                  "text": "A traditional church serving the community in the Mont Gervanne region.",
+                  "category": "religious",
+                  "coords": [
+                        5.14388,
+                        44.747775
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques et Saint-Philippe",
+                  "text": "A local place of worship located in the Mont Gervanne area.",
+                  "category": "religious",
+                  "coords": [
+                        5.151314,
+                        44.761054
+                  ]
+            },
+            {
+                  "name": "Église Saints-Barthélemy-et-Sébastien",
+                  "text": "A parish church situated in the picturesque Mont Gervanne region.",
+                  "category": "religious",
+                  "coords": [
+                        5.143355,
+                        44.776451
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A historic religious building serving the village in Mont Gervanne.",
+                  "category": "religious",
+                  "coords": [
+                        5.113146,
+                        44.759658
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Gervanne", hu: "Mont Gervanne", ro: "Mont Gervanne", en: "Mont Gervanne" , fr: "Relief de la Gervanne"},
@@ -1308,7 +5214,304 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-gervanne-relief-v2.webp",
   },
   {
-    id: "france-mont-aiguille-relief-v2",
+    id: "france-mont-aiguille-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Aiguille",
+                  "text": "Ein markanter Tafelberg im Vercors-Massiv, der als eines der sieben Wunder der Dauphiné gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.552222,
+                        44.841792
+                  ]
+            },
+            {
+                  "name": "Petit Veymont",
+                  "text": "Ein Berggipfel in der Nähe des Mont Aiguille in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.530914,
+                        44.864637
+                  ]
+            },
+            {
+                  "name": "Goutaroux",
+                  "text": "Ein Berggipfel in der Region des Mont Aiguille.",
+                  "category": "landmark",
+                  "coords": [
+                        5.593441,
+                        44.844211
+                  ]
+            },
+            {
+                  "name": "La forêt Labyrinthe",
+                  "text": "Ein Waldgebiet mit Wanderwegen in der Nähe des Mont Aiguille.",
+                  "category": "landmark",
+                  "coords": [
+                        5.549155,
+                        44.855925
+                  ]
+            },
+            {
+                  "name": "Bélvédère de Pansaret",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Alpenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.557511,
+                        44.845603
+                  ]
+            },
+            {
+                  "name": "Col de Papavet",
+                  "text": "Ein Gebirgspass, der weite Ausblicke auf den Mont Aiguille bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.583276,
+                        44.857459
+                  ]
+            },
+            {
+                  "name": "Galerie Kyeper",
+                  "text": "Eine Kunstgalerie in der Nähe des Mont Aiguille.",
+                  "category": "museum",
+                  "coords": [
+                        5.572457,
+                        44.812501
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "Eine Kapelle in der Bergregion des Mont Aiguille.",
+                  "category": "religious",
+                  "coords": [
+                        5.558858,
+                        44.865067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Aiguille",
+                  "text": "A Vercors-masszívum jellegzetes táblahegye, amelyet a Dauphiné hét csodája közé sorolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        5.552222,
+                        44.841792
+                  ]
+            },
+            {
+                  "name": "Petit Veymont",
+                  "text": "Egy hegycsúcs a Mont Aiguille közelében a francia Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.530914,
+                        44.864637
+                  ]
+            },
+            {
+                  "name": "Goutaroux",
+                  "text": "Egy hegycsúcs a Mont Aiguille régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.593441,
+                        44.844211
+                  ]
+            },
+            {
+                  "name": "La forêt Labyrinthe",
+                  "text": "Egy túraútvonalakkal teli erdős terület a Mont Aiguille közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.549155,
+                        44.855925
+                  ]
+            },
+            {
+                  "name": "Bélvédère de Pansaret",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a környező alpesi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.557511,
+                        44.845603
+                  ]
+            },
+            {
+                  "name": "Col de Papavet",
+                  "text": "Egy hegyi hágó, amely tágas kilátást nyújt a Mont Aiguille-re.",
+                  "category": "natural",
+                  "coords": [
+                        5.583276,
+                        44.857459
+                  ]
+            },
+            {
+                  "name": "Galerie Kyeper",
+                  "text": "Egy művészeti galéria a Mont Aiguille közelében.",
+                  "category": "museum",
+                  "coords": [
+                        5.572457,
+                        44.812501
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "Egy kápolna a Mont Aiguille hegyvidéki területén.",
+                  "category": "religious",
+                  "coords": [
+                        5.558858,
+                        44.865067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Aiguille",
+                  "text": "Un munte spectaculos cu vârf plat din masivul Vercors, considerat una dintre cele șapte minuni ale provinciei Dauphiné.",
+                  "category": "landmark",
+                  "coords": [
+                        5.552222,
+                        44.841792
+                  ]
+            },
+            {
+                  "name": "Petit Veymont",
+                  "text": "Un vârf montan situat în apropiere de Mont Aiguille, în Alpii francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        5.530914,
+                        44.864637
+                  ]
+            },
+            {
+                  "name": "Goutaroux",
+                  "text": "Un vârf montan din regiunea Mont Aiguille.",
+                  "category": "landmark",
+                  "coords": [
+                        5.593441,
+                        44.844211
+                  ]
+            },
+            {
+                  "name": "La forêt Labyrinthe",
+                  "text": "O zonă forestieră cu trasee situată lângă Mont Aiguille.",
+                  "category": "landmark",
+                  "coords": [
+                        5.549155,
+                        44.855925
+                  ]
+            },
+            {
+                  "name": "Bélvédère de Pansaret",
+                  "text": "Un punct de observație ce oferă o vedere panoramică asupra peisajului alpin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        5.557511,
+                        44.845603
+                  ]
+            },
+            {
+                  "name": "Col de Papavet",
+                  "text": "O trecătoare montană ce oferă vederi spectaculoase spre Mont Aiguille.",
+                  "category": "natural",
+                  "coords": [
+                        5.583276,
+                        44.857459
+                  ]
+            },
+            {
+                  "name": "Galerie Kyeper",
+                  "text": "O galerie de artă situată în apropiere de Mont Aiguille.",
+                  "category": "museum",
+                  "coords": [
+                        5.572457,
+                        44.812501
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "O capelă situată în regiunea montană Mont Aiguille.",
+                  "category": "religious",
+                  "coords": [
+                        5.558858,
+                        44.865067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Aiguille",
+                  "text": "A striking flat-topped mountain in the Vercors Massif, considered one of the seven wonders of Dauphiné.",
+                  "category": "landmark",
+                  "coords": [
+                        5.552222,
+                        44.841792
+                  ]
+            },
+            {
+                  "name": "Petit Veymont",
+                  "text": "A mountain peak located near Mont Aiguille in the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        5.530914,
+                        44.864637
+                  ]
+            },
+            {
+                  "name": "Goutaroux",
+                  "text": "A mountain peak in the Mont Aiguille region.",
+                  "category": "landmark",
+                  "coords": [
+                        5.593441,
+                        44.844211
+                  ]
+            },
+            {
+                  "name": "La forêt Labyrinthe",
+                  "text": "A forested area with trails located near Mont Aiguille.",
+                  "category": "landmark",
+                  "coords": [
+                        5.549155,
+                        44.855925
+                  ]
+            },
+            {
+                  "name": "Bélvédère de Pansaret",
+                  "text": "A viewpoint offering panoramic vistas of the surrounding Alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.557511,
+                        44.845603
+                  ]
+            },
+            {
+                  "name": "Col de Papavet",
+                  "text": "A mountain pass providing expansive views of Mont Aiguille.",
+                  "category": "natural",
+                  "coords": [
+                        5.583276,
+                        44.857459
+                  ]
+            },
+            {
+                  "name": "Galerie Kyeper",
+                  "text": "An art gallery located near Mont Aiguille.",
+                  "category": "museum",
+                  "coords": [
+                        5.572457,
+                        44.812501
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame",
+                  "text": "A chapel located in the Mont Aiguille mountain region.",
+                  "category": "religious",
+                  "coords": [
+                        5.558858,
+                        44.865067
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Aiguille", hu: "Mont Aiguille", ro: "Mont Aiguille", en: "Mont Aiguille" , fr: "Mont Aiguille"},
@@ -1443,7 +5646,160 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-mont-gervanne-plateau-relief-v2.webp",
   },
   {
-    id: "france-mont-lure-relief-v2",
+    id: "france-mont-lure-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pébouine",
+                  "text": "Ein Berggipfel in der Gegend von Mont Lure.",
+                  "category": "landmark",
+                  "coords": [
+                        5.684936,
+                        44.070151
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Jésus",
+                  "text": "Ein religiöses Gebäude am Mont Lure, das dem Heiligen Namen Jesu geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.657461,
+                        44.083591
+                  ]
+            },
+            {
+                  "name": "Chapelle",
+                  "text": "Eine kleine Kapelle in der Region Mont Lure.",
+                  "category": "religious",
+                  "coords": [
+                        5.696661,
+                        44.108922
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "Eine dem Heiligen Petrus geweihte Kirche am Mont Lure.",
+                  "category": "religious",
+                  "coords": [
+                        5.691226,
+                        44.090371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pébouine",
+                  "text": "Hegycsúcs Mont Lure környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.684936,
+                        44.070151
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Jésus",
+                  "text": "Jézus szent nevének szentelt vallási épület a Mont Lure-nél.",
+                  "category": "religious",
+                  "coords": [
+                        5.657461,
+                        44.083591
+                  ]
+            },
+            {
+                  "name": "Chapelle",
+                  "text": "Egy kis kápolna a Mont Lure régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.696661,
+                        44.108922
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "Szent Péternek szentelt templom a Mont Lure-nél.",
+                  "category": "religious",
+                  "coords": [
+                        5.691226,
+                        44.090371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pébouine",
+                  "text": "Un vârf muntos în zona Mont Lure.",
+                  "category": "landmark",
+                  "coords": [
+                        5.684936,
+                        44.070151
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Jésus",
+                  "text": "O clădire religioasă de pe Mont Lure, dedicată numelui Sfânt al lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        5.657461,
+                        44.083591
+                  ]
+            },
+            {
+                  "name": "Chapelle",
+                  "text": "O mică capelă în regiunea Mont Lure.",
+                  "category": "religious",
+                  "coords": [
+                        5.696661,
+                        44.108922
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "O biserică dedicată Sfântului Petru pe Mont Lure.",
+                  "category": "religious",
+                  "coords": [
+                        5.691226,
+                        44.090371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pébouine",
+                  "text": "A mountain peak in the Mont Lure area.",
+                  "category": "landmark",
+                  "coords": [
+                        5.684936,
+                        44.070151
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Nom-de-Jésus",
+                  "text": "A religious building on Mont Lure dedicated to the Holy Name of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        5.657461,
+                        44.083591
+                  ]
+            },
+            {
+                  "name": "Chapelle",
+                  "text": "A small chapel in the Mont Lure region.",
+                  "category": "religious",
+                  "coords": [
+                        5.696661,
+                        44.108922
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-ès-Liens",
+                  "text": "A church dedicated to Saint Peter on Mont Lure.",
+                  "category": "religious",
+                  "coords": [
+                        5.691226,
+                        44.090371
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Lure", hu: "Mont Lure", ro: "Mont Lure", en: "Mont Lure" , fr: "Montagne de Lure"},
@@ -1533,7 +5889,268 @@ export const franceReliefV2: POI[] = [
     image: "/poi-images/france-col-de-l-iseran-relief-v2.webp",
   },
   {
-    id: "france-mont-paradis-relief-v2",
+    id: "france-mont-paradis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plan d'eau du Pas des Ondes",
+                  "text": "Ein Wasserpark und Erholungsgebiet in Mont Paradis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.366474,
+                        44.462958
+                  ]
+            },
+            {
+                  "name": "Les Aiguilles",
+                  "text": "Ein markanter Berggipfel in der Region Mont Paradis.",
+                  "category": "landmark",
+                  "coords": [
+                        5.391723,
+                        44.416845
+                  ]
+            },
+            {
+                  "name": "Le Château de Cornillon",
+                  "text": "Die historischen Ruinen der Burg Cornillon in Mont Paradis.",
+                  "category": "historical",
+                  "coords": [
+                        5.36195,
+                        44.459178
+                  ]
+            },
+            {
+                  "name": "Pas de la Pousterle",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Landschaft von Mont Paradis.",
+                  "category": "natural",
+                  "coords": [
+                        5.41846,
+                        44.424826
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Eine dem heiligen Michael geweihte Kirche in Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.366294,
+                        44.45926
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Ein Sakralbau in der Gegend von Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.386314,
+                        44.443765
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges",
+                  "text": "Eine kleine Kapelle in Mont Paradis, die Unserer Lieben Frau von den Engeln geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.419753,
+                        44.476087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plan d'eau du Pas des Ondes",
+                  "text": "Egy vízi park és szabadidőközpont Mont Paradis-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.366474,
+                        44.462958
+                  ]
+            },
+            {
+                  "name": "Les Aiguilles",
+                  "text": "Egy hegycsúcs Mont Paradis közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.391723,
+                        44.416845
+                  ]
+            },
+            {
+                  "name": "Le Château de Cornillon",
+                  "text": "A Cornillon-kastély történelmi romjai Mont Paradis-ban.",
+                  "category": "historical",
+                  "coords": [
+                        5.36195,
+                        44.459178
+                  ]
+            },
+            {
+                  "name": "Pas de la Pousterle",
+                  "text": "Egy kilátópont, ahonnan panoráma nyílik Mont Paradis környékére.",
+                  "category": "natural",
+                  "coords": [
+                        5.41846,
+                        44.424826
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Szent Mihálynak szentelt helyi templom Mont Paradis-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.366294,
+                        44.45926
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Egy templom Mont Paradis területén.",
+                  "category": "religious",
+                  "coords": [
+                        5.386314,
+                        44.443765
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges",
+                  "text": "Az Angyalok Boldogasszonyának szentelt kápolna Mont Paradis-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.419753,
+                        44.476087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plan d'eau du Pas des Ondes",
+                  "text": "Un parc acvatic și zonă de agrement în Mont Paradis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.366474,
+                        44.462958
+                  ]
+            },
+            {
+                  "name": "Les Aiguilles",
+                  "text": "Un vârf montan în regiunea Mont Paradis.",
+                  "category": "landmark",
+                  "coords": [
+                        5.391723,
+                        44.416845
+                  ]
+            },
+            {
+                  "name": "Le Château de Cornillon",
+                  "text": "Ruinele istorice ale castelului Cornillon din Mont Paradis.",
+                  "category": "historical",
+                  "coords": [
+                        5.36195,
+                        44.459178
+                  ]
+            },
+            {
+                  "name": "Pas de la Pousterle",
+                  "text": "Un punct de observare cu vedere spre peisajul din Mont Paradis.",
+                  "category": "natural",
+                  "coords": [
+                        5.41846,
+                        44.424826
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "O biserică locală dedicată Sfântului Mihail în Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.366294,
+                        44.45926
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Un lăcaș de cult situat în zona Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.386314,
+                        44.443765
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges",
+                  "text": "O mică capelă dedicată Maicii Domnului a Îngerilor în Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.419753,
+                        44.476087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plan d'eau du Pas des Ondes",
+                  "text": "A water park and leisure area in Mont Paradis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.366474,
+                        44.462958
+                  ]
+            },
+            {
+                  "name": "Les Aiguilles",
+                  "text": "A prominent mountain peak in the Mont Paradis region.",
+                  "category": "landmark",
+                  "coords": [
+                        5.391723,
+                        44.416845
+                  ]
+            },
+            {
+                  "name": "Le Château de Cornillon",
+                  "text": "The historical ruins of Cornillon Castle in Mont Paradis.",
+                  "category": "historical",
+                  "coords": [
+                        5.36195,
+                        44.459178
+                  ]
+            },
+            {
+                  "name": "Pas de la Pousterle",
+                  "text": "A scenic viewpoint offering vistas of the Mont Paradis landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.41846,
+                        44.424826
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "A local church dedicated to Saint Michael in Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.366294,
+                        44.45926
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "A place of worship located in the Mont Paradis area.",
+                  "category": "religious",
+                  "coords": [
+                        5.386314,
+                        44.443765
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges",
+                  "text": "A small chapel dedicated to Our Lady of the Angels in Mont Paradis.",
+                  "category": "religious",
+                  "coords": [
+                        5.419753,
+                        44.476087
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Paradis", hu: "Mont Paradis", ro: "Mont Paradis", en: "Mont Paradis" , fr: "Mont Paradis"},

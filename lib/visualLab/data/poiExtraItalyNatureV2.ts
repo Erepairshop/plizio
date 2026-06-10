@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const italyNatureV2: POI[] = [
 
   {
-    id: "italy-lago-trasimeno-nature-v2",
+    id: "italy-lago-trasimeno-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park des Trasimenischen Sees",
+                  "text": "Ein regionaler Naturpark, der den Trasimenischen See und seine umliegende Landschaft umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        12.104738,
+                        43.138938
+                  ]
+            },
+            {
+                  "name": "Castello di Isola Polvese",
+                  "text": "Eine historische Burg auf der Insel Isola Polvese im Trasimenischen See.",
+                  "category": "castle",
+                  "coords": [
+                        12.138626,
+                        43.114088
+                  ]
+            },
+            {
+                  "name": "Centro di Esperienza Ambientale di Isola Polvese",
+                  "text": "Ein Umweltbildungszentrum und Museum auf der Insel Polvese im Trasimenischen See.",
+                  "category": "museum",
+                  "coords": [
+                        12.141414,
+                        43.115575
+                  ]
+            },
+            {
+                  "name": "Ex Porto dei Frati",
+                  "text": "Archäologische Ruinen eines ehemaligen Hafens, der von Mönchen am Trasimenischen See genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        12.130953,
+                        43.120365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco del Lago Trasimeno",
+                  "text": "Regionális természetvédelmi park, amely a Trasimeno-tavat és a környező tájat foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        12.104738,
+                        43.138938
+                  ]
+            },
+            {
+                  "name": "Castello di Isola Polvese",
+                  "text": "Egy történelmi vár a Trasimeno-tóban található Isola Polvese szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        12.138626,
+                        43.114088
+                  ]
+            },
+            {
+                  "name": "Centro di Esperienza Ambientale di Isola Polvese",
+                  "text": "Környezeti nevelési központ és múzeum a Trasimeno-tó Polvese-szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        12.141414,
+                        43.115575
+                  ]
+            },
+            {
+                  "name": "Ex Porto dei Frati",
+                  "text": "Egy egykori szerzetesi kikötő régészeti maradványai a Trasimeno-tónál.",
+                  "category": "historical",
+                  "coords": [
+                        12.130953,
+                        43.120365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco del Lago Trasimeno",
+                  "text": "Un parc natural regional care cuprinde Lacul Trasimeno și peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        12.104738,
+                        43.138938
+                  ]
+            },
+            {
+                  "name": "Castello di Isola Polvese",
+                  "text": "Un castel istoric situat pe Isola Polvese, în Lacul Trasimeno.",
+                  "category": "castle",
+                  "coords": [
+                        12.138626,
+                        43.114088
+                  ]
+            },
+            {
+                  "name": "Centro di Esperienza Ambientale di Isola Polvese",
+                  "text": "Un centru de educație ecologică și muzeu pe Isola Polvese de pe Lacul Trasimeno.",
+                  "category": "museum",
+                  "coords": [
+                        12.141414,
+                        43.115575
+                  ]
+            },
+            {
+                  "name": "Ex Porto dei Frati",
+                  "text": "Ruine arheologice ale unui fost port folosit de călugări pe Lacul Trasimeno.",
+                  "category": "historical",
+                  "coords": [
+                        12.130953,
+                        43.120365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Trasimeno Park",
+                  "text": "A regional nature park encompassing Lake Trasimeno and its surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.104738,
+                        43.138938
+                  ]
+            },
+            {
+                  "name": "Castello di Isola Polvese",
+                  "text": "A historic castle located on Isola Polvese within Lake Trasimeno.",
+                  "category": "castle",
+                  "coords": [
+                        12.138626,
+                        43.114088
+                  ]
+            },
+            {
+                  "name": "Centro di Esperienza Ambientale di Isola Polvese",
+                  "text": "An environmental education centre and museum on Lake Trasimeno's Polvese Island.",
+                  "category": "museum",
+                  "coords": [
+                        12.141414,
+                        43.115575
+                  ]
+            },
+            {
+                  "name": "Ex Porto dei Frati",
+                  "text": "Archaeological ruins of a former harbor used by monks on Lake Trasimeno.",
+                  "category": "historical",
+                  "coords": [
+                        12.130953,
+                        43.120365
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IT",
     name: { de: "Trasimenischer See", hu: "Trasimeno-tó", ro: "Lacul Trasimeno", en: "Lake Trasimeno" },
@@ -48,7 +201,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-lago-trasimeno-nature-v2.webp",
   },
   {
-    id: "italy-fiume-adige-nature-v2",
+    id: "italy-fiume-adige-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico della Laguna Sud",
+                  "text": "Museum zur Geschichte und Archäologie der südlichen Lagune.",
+                  "category": "museum",
+                  "coords": [
+                        12.277663,
+                        45.215276
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Ein Veranstaltungsort im Freien für Aufführungen in der Nähe der Etsch.",
+                  "category": "cultural",
+                  "coords": [
+                        12.294535,
+                        45.208489
+                  ]
+            },
+            {
+                  "name": "Museo del Calcio",
+                  "text": "Ein Museum, das der Geschichte des Fußballs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.278283,
+                        45.21653
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Diözesanmuseum mit religiöser Kunst und Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        12.27625,
+                        45.216818
+                  ]
+            },
+            {
+                  "name": "Astoria Village",
+                  "text": "Ein Vergnügungspark in der Nähe des Flusses und der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295684,
+                        45.214147
+                  ]
+            },
+            {
+                  "name": "Torre delle Bebbe",
+                  "text": "Mittelalterliche Ruinen eines Verteidigungsturms.",
+                  "category": "historical",
+                  "coords": [
+                        12.237419,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "Eine Strandanlage und ein Erholungsgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.30141,
+                        45.199789
+                  ]
+            },
+            {
+                  "name": "Bagni Tamerici",
+                  "text": "Ein Badeort mit Stranddienstleistungen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.325481,
+                        45.171894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico della Laguna Sud",
+                  "text": "A déli lagúna történelmét és régészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.277663,
+                        45.215276
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Szabadtéri rendezvényhelyszín az Adige folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.294535,
+                        45.208489
+                  ]
+            },
+            {
+                  "name": "Museo del Calcio",
+                  "text": "A futball történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.278283,
+                        45.21653
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Egyházmegyei múzeum vallási művészeti alkotásokkal és tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        12.27625,
+                        45.216818
+                  ]
+            },
+            {
+                  "name": "Astoria Village",
+                  "text": "Vidámpark a folyó és a tengerpart közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295684,
+                        45.214147
+                  ]
+            },
+            {
+                  "name": "Torre delle Bebbe",
+                  "text": "Egy védőtorony középkori romjai.",
+                  "category": "historical",
+                  "coords": [
+                        12.237419,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "Strandlétesítmény és üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        12.30141,
+                        45.199789
+                  ]
+            },
+            {
+                  "name": "Bagni Tamerici",
+                  "text": "Strandfürdő és üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        12.325481,
+                        45.171894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico della Laguna Sud",
+                  "text": "Muzeu care ilustrează istoria și arheologia lagunei de sud.",
+                  "category": "museum",
+                  "coords": [
+                        12.277663,
+                        45.215276
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Un loc în aer liber pentru spectacole lângă râul Adige.",
+                  "category": "cultural",
+                  "coords": [
+                        12.294535,
+                        45.208489
+                  ]
+            },
+            {
+                  "name": "Museo del Calcio",
+                  "text": "Un muzeu dedicat istoriei fotbalului.",
+                  "category": "museum",
+                  "coords": [
+                        12.278283,
+                        45.21653
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeu diecezan care expune artă religioasă și obiecte de cult.",
+                  "category": "museum",
+                  "coords": [
+                        12.27625,
+                        45.216818
+                  ]
+            },
+            {
+                  "name": "Astoria Village",
+                  "text": "Un parc de distracții situat lângă râu și coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295684,
+                        45.214147
+                  ]
+            },
+            {
+                  "name": "Torre delle Bebbe",
+                  "text": "Ruinele medievale ale unui turn de apărare.",
+                  "category": "historical",
+                  "coords": [
+                        12.237419,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "O facilitate de plajă și zonă de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        12.30141,
+                        45.199789
+                  ]
+            },
+            {
+                  "name": "Bagni Tamerici",
+                  "text": "O stațiune balneară care oferă servicii de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.325481,
+                        45.171894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico della Laguna Sud",
+                  "text": "Museum illustrating the history and archaeology of the southern lagoon.",
+                  "category": "museum",
+                  "coords": [
+                        12.277663,
+                        45.215276
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "An outdoor venue for performances near the Adige River.",
+                  "category": "cultural",
+                  "coords": [
+                        12.294535,
+                        45.208489
+                  ]
+            },
+            {
+                  "name": "Museo del Calcio",
+                  "text": "A museum dedicated to the history of football.",
+                  "category": "museum",
+                  "coords": [
+                        12.278283,
+                        45.21653
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Diocesan museum displaying religious art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.27625,
+                        45.216818
+                  ]
+            },
+            {
+                  "name": "Astoria Village",
+                  "text": "An amusement park located near the river and coast.",
+                  "category": "recreational",
+                  "coords": [
+                        12.295684,
+                        45.214147
+                  ]
+            },
+            {
+                  "name": "Torre delle Bebbe",
+                  "text": "Medieval ruins of a defensive tower.",
+                  "category": "historical",
+                  "coords": [
+                        12.237419,
+                        45.169344
+                  ]
+            },
+            {
+                  "name": "Lido del Carabiniere",
+                  "text": "A beach facility and resort area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.30141,
+                        45.199789
+                  ]
+            },
+            {
+                  "name": "Bagni Tamerici",
+                  "text": "A seaside resort offering beach services.",
+                  "category": "recreational",
+                  "coords": [
+                        12.325481,
+                        45.171894
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IT",
     name: { de: "Etsch", hu: "Adige", ro: "Adige", en: "Adige River" },
@@ -93,7 +543,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-fiume-adige-nature-v2.webp",
   },
   {
-    id: "italy-monte-rosa-nature-v2",
+    id: "italy-monte-rosa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Signalkuppe",
+                  "text": "Ein bekannter Alpengipfel im Monte-Rosa-Massiv, Standort der Margheritahütte.",
+                  "category": "landmark",
+                  "coords": [
+                        7.87708,
+                        45.927212
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Ein markanter Viertausender im südlichen Teil des Monte-Rosa-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.861977,
+                        45.914971
+                  ]
+            },
+            {
+                  "name": "Zumsteinspitze",
+                  "text": "Ein markanter Berggipfel im Monte-Rosa-Massiv an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871408,
+                        45.932166
+                  ]
+            },
+            {
+                  "name": "Liskamm Westgipfel",
+                  "text": "Der westliche Gipfel des Liskamm-Massivs in den Walliser Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823249,
+                        45.926481
+                  ]
+            },
+            {
+                  "name": "Ludwigshöhe",
+                  "text": "Ein Gipfel im Monte-Rosa-Massiv, der die Grenze zwischen Italien und der Schweiz markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.863483,
+                        45.916714
+                  ]
+            },
+            {
+                  "name": "Parrotspitze",
+                  "text": "Ein hoher Berggipfel im Monte-Rosa-Massiv in den Walliser Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871414,
+                        45.919889
+                  ]
+            },
+            {
+                  "name": "Jägerhorn",
+                  "text": "Ein Berggipfel im Monte-Rosa-Massiv oberhalb von Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.877175,
+                        45.952564
+                  ]
+            },
+            {
+                  "name": "Dufourspitze",
+                  "text": "Der höchste Gipfel des Monte-Rosa-Massivs und der höchste Berg der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.866757,
+                        45.936924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Gnifetti / Signalkuppe",
+                  "text": "A Monte Rosa-masszívum ismert csúcsa, ahol a Margherita-menedékház található.",
+                  "category": "landmark",
+                  "coords": [
+                        7.87708,
+                        45.927212
+                  ]
+            },
+            {
+                  "name": "Corno Nero",
+                  "text": "Jellegzetes négyezer méteres csúcs a Monte Rosa-masszívum déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.861977,
+                        45.914971
+                  ]
+            },
+            {
+                  "name": "Zumsteinspitze",
+                  "text": "A Monte Rosa-masszívum egyik kiemelkedő hegycsúcsa a svájci-olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871408,
+                        45.932166
+                  ]
+            },
+            {
+                  "name": "Liskamm Westgipfel",
+                  "text": "A Liskamm-masszívum nyugati hegycsúcsa a Pennini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823249,
+                        45.926481
+                  ]
+            },
+            {
+                  "name": "Ludwigshöhe",
+                  "text": "A Monte Rosa-masszívum egyik hegycsúcsa az olasz-svájci határon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.863483,
+                        45.916714
+                  ]
+            },
+            {
+                  "name": "Parrotspitze / Punta Parrot",
+                  "text": "Magas hegycsúcs a Monte Rosa-masszívumban, a Pennini-Alpok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871414,
+                        45.919889
+                  ]
+            },
+            {
+                  "name": "Jägerhorn",
+                  "text": "Hegycsúcs a Monte Rosa-masszívumban, Zermatt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.877175,
+                        45.952564
+                  ]
+            },
+            {
+                  "name": "Dufourspitze",
+                  "text": "A Monte Rosa-masszívum legmagasabb pontja és Svájc legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.866757,
+                        45.936924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Gnifetti / Signalkuppe",
+                  "text": "Un vârf alpin cunoscut din masivul Monte Rosa, unde se află cabana Margherita.",
+                  "category": "landmark",
+                  "coords": [
+                        7.87708,
+                        45.927212
+                  ]
+            },
+            {
+                  "name": "Corno Nero",
+                  "text": "Un vârf proeminent de peste patru mii de metri în partea de sud a masivului Monte Rosa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.861977,
+                        45.914971
+                  ]
+            },
+            {
+                  "name": "Zumsteinspitze",
+                  "text": "Un vârf muntos proeminent din masivul Monte Rosa, situat la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871408,
+                        45.932166
+                  ]
+            },
+            {
+                  "name": "Liskamm Westgipfel",
+                  "text": "Vârful vestic al masivului Liskamm din Alpii Pennini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823249,
+                        45.926481
+                  ]
+            },
+            {
+                  "name": "Ludwigshöhe",
+                  "text": "Un vârf din masivul Monte Rosa, situat la granița dintre Italia și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.863483,
+                        45.916714
+                  ]
+            },
+            {
+                  "name": "Parrotspitze / Punta Parrot",
+                  "text": "Un vârf muntos înalt din masivul Monte Rosa, în Alpii Pennini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871414,
+                        45.919889
+                  ]
+            },
+            {
+                  "name": "Jägerhorn",
+                  "text": "Un vârf muntos din masivul Monte Rosa, situat deasupra localității Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.877175,
+                        45.952564
+                  ]
+            },
+            {
+                  "name": "Dufourspitze",
+                  "text": "Cel mai înalt vârf al masivului Monte Rosa și cel mai înalt munte din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.866757,
+                        45.936924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Gnifetti / Signalkuppe",
+                  "text": "A well-known alpine peak in the Monte Rosa massif, home to the Margherita Hut.",
+                  "category": "landmark",
+                  "coords": [
+                        7.87708,
+                        45.927212
+                  ]
+            },
+            {
+                  "name": "Corno Nero",
+                  "text": "A prominent four-thousand-meter peak in the southern part of the Monte Rosa massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.861977,
+                        45.914971
+                  ]
+            },
+            {
+                  "name": "Zumsteinspitze",
+                  "text": "A prominent mountain peak in the Monte Rosa Massif on the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871408,
+                        45.932166
+                  ]
+            },
+            {
+                  "name": "Liskamm Westgipfel",
+                  "text": "The western peak of the Liskamm massif in the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823249,
+                        45.926481
+                  ]
+            },
+            {
+                  "name": "Ludwigshöhe",
+                  "text": "A peak in the Monte Rosa Massif marking the border between Italy and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.863483,
+                        45.916714
+                  ]
+            },
+            {
+                  "name": "Parrotspitze / Punta Parrot",
+                  "text": "A high mountain peak in the Monte Rosa Massif in the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.871414,
+                        45.919889
+                  ]
+            },
+            {
+                  "name": "Jägerhorn",
+                  "text": "A mountain peak in the Monte Rosa Massif located above Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.877175,
+                        45.952564
+                  ]
+            },
+            {
+                  "name": "Monte Rosa",
+                  "text": "The highest peak of the Monte Rosa Massif and the highest mountain in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.866757,
+                        45.936924
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte-Rosa-Massiv", hu: "Monte Rosa-hegység", ro: "Masivul Monte Rosa", en: "Monte Rosa Massif" },
@@ -138,7 +885,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-monte-rosa-nature-v2.webp",
   },
   {
-    id: "italy-parco-nazionale-stelvio-nature-v2",
+    id: "italy-parco-nazionale-stelvio-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Messner Mountain Museum Ortles",
+                  "text": "Ein Museum, das dem Eis und der Welt der Gletscher gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.579246,
+                        46.530429
+                  ]
+            },
+            {
+                  "name": "Naturparkhaus naturatrafoi",
+                  "text": "Ein Besucherzentrum, das sich auf die Naturgeschichte des Nationalparks Stilfser Joch konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        10.50924,
+                        46.550007
+                  ]
+            },
+            {
+                  "name": "Museum für das Ortlergebiet",
+                  "text": "Ein Museum, das die lokale Geschichte und den Alpinismus der Ortler-Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.58639,
+                        46.528145
+                  ]
+            },
+            {
+                  "name": "Mini Museo della Montagna",
+                  "text": "Ein kleines Museum, das sich auf die Bergkultur und -geschichte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        10.585417,
+                        46.529397
+                  ]
+            },
+            {
+                  "name": "Tabarettaspitze",
+                  "text": "Ein Berggipfel in den Ortler-Alpen im Nationalpark Stilfser Joch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542368,
+                        46.525284
+                  ]
+            },
+            {
+                  "name": "Hochleitner",
+                  "text": "Ein Gipfel in der Alpenregion des Nationalparks Stilfser Joch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539416,
+                        46.546319
+                  ]
+            },
+            {
+                  "name": "Tabarettakopf",
+                  "text": "Ein alpiner Berggipfel im Nationalpark Stilfser Joch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.52671,
+                        46.531366
+                  ]
+            },
+            {
+                  "name": "Bärenköpf",
+                  "text": "Ein Berggipfel mit Aussicht im Nationalpark Stilfser Joch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541632,
+                        46.540271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Messner Mountain Museum Ortles",
+                  "text": "A jégnek és a gleccserek világának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.579246,
+                        46.530429
+                  ]
+            },
+            {
+                  "name": "Naturparkhaus naturatrafoi - Centro visite Naturatrafoi",
+                  "text": "A Stilfser Joch Nemzeti Park természetrajzára összpontosító látogatóközpont.",
+                  "category": "museum",
+                  "coords": [
+                        10.50924,
+                        46.550007
+                  ]
+            },
+            {
+                  "name": "Museum für das Ortlergebiet - Museo per la regione dell'Ortles",
+                  "text": "Az Ortler-régió helytörténetét és hegymászását bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.58639,
+                        46.528145
+                  ]
+            },
+            {
+                  "name": "Mini Museo della Montagna",
+                  "text": "Kis múzeum a hegyi kultúráról és történelemről.",
+                  "category": "museum",
+                  "coords": [
+                        10.585417,
+                        46.529397
+                  ]
+            },
+            {
+                  "name": "Tabarettaspitze - Punta Tabaretta",
+                  "text": "Hegycsúcs az Ortler-Alpokban, a Stilfser Joch Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542368,
+                        46.525284
+                  ]
+            },
+            {
+                  "name": "Hochleitenspitz - Punta Alta",
+                  "text": "Hegycsúcs a Stilfser Joch Nemzeti Park alpesi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539416,
+                        46.546319
+                  ]
+            },
+            {
+                  "name": "Tabarettakopf - Dosso di Tabaretta",
+                  "text": "Alpesi hegycsúcs a Stilfser Joch Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.52671,
+                        46.531366
+                  ]
+            },
+            {
+                  "name": "Bärenköpfl - Monte dell'Orso",
+                  "text": "Hegycsúcs kilátással a Stilfser Joch Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541632,
+                        46.540271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Messner Mountain Museum Ortles",
+                  "text": "Un muzeu dedicat gheții și lumii ghețarilor.",
+                  "category": "museum",
+                  "coords": [
+                        10.579246,
+                        46.530429
+                  ]
+            },
+            {
+                  "name": "Naturparkhaus naturatrafoi - Centro visite Naturatrafoi",
+                  "text": "Un centru de vizitare axat pe istoria naturală a Parcului Național Stelvio.",
+                  "category": "museum",
+                  "coords": [
+                        10.50924,
+                        46.550007
+                  ]
+            },
+            {
+                  "name": "Museum für das Ortlergebiet - Museo per la regione dell'Ortles",
+                  "text": "Un muzeu care prezintă istoria locală și alpinismul din regiunea Ortler.",
+                  "category": "museum",
+                  "coords": [
+                        10.58639,
+                        46.528145
+                  ]
+            },
+            {
+                  "name": "Mini Museo della Montagna",
+                  "text": "Un mic muzeu axat pe cultura și istoria montană.",
+                  "category": "museum",
+                  "coords": [
+                        10.585417,
+                        46.529397
+                  ]
+            },
+            {
+                  "name": "Tabarettaspitze - Punta Tabaretta",
+                  "text": "Un vârf montan în Alpii Ortler, în cadrul Parcului Național Stelvio.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542368,
+                        46.525284
+                  ]
+            },
+            {
+                  "name": "Hochleitenspitz - Punta Alta",
+                  "text": "Un vârf în regiunea alpină a Parcului Național Stelvio.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539416,
+                        46.546319
+                  ]
+            },
+            {
+                  "name": "Tabarettakopf - Dosso di Tabaretta",
+                  "text": "Un vârf montan alpin situat în Parcul Național Stelvio.",
+                  "category": "landmark",
+                  "coords": [
+                        10.52671,
+                        46.531366
+                  ]
+            },
+            {
+                  "name": "Bärenköpfl - Monte dell'Orso",
+                  "text": "Un vârf montan care oferă panorame în Parcul Național Stelvio.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541632,
+                        46.540271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Messner Mountain Museum Ortles",
+                  "text": "A museum dedicated to ice and the world of glaciers.",
+                  "category": "museum",
+                  "coords": [
+                        10.579246,
+                        46.530429
+                  ]
+            },
+            {
+                  "name": "Naturparkhaus naturatrafoi - Centro visite Naturatrafoi",
+                  "text": "A visitor center focusing on the natural history of the Stelvio National Park.",
+                  "category": "museum",
+                  "coords": [
+                        10.50924,
+                        46.550007
+                  ]
+            },
+            {
+                  "name": "Museum für das Ortlergebiet - Museo per la regione dell'Ortles",
+                  "text": "A museum showcasing the local history and mountaineering of the Ortler region.",
+                  "category": "museum",
+                  "coords": [
+                        10.58639,
+                        46.528145
+                  ]
+            },
+            {
+                  "name": "Mini Museo della Montagna",
+                  "text": "A small museum focused on mountain culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        10.585417,
+                        46.529397
+                  ]
+            },
+            {
+                  "name": "Tabarettaspitze - Punta Tabaretta",
+                  "text": "A mountain peak in the Ortler Alps within the Stelvio National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.542368,
+                        46.525284
+                  ]
+            },
+            {
+                  "name": "Hochleitenspitz - Punta Alta",
+                  "text": "A peak in the Alpine region of the Stelvio National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.539416,
+                        46.546319
+                  ]
+            },
+            {
+                  "name": "Tabarettakopf - Dosso di Tabaretta",
+                  "text": "An Alpine mountain peak located in the Stelvio National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.52671,
+                        46.531366
+                  ]
+            },
+            {
+                  "name": "Bärenköpfl - Monte dell'Orso",
+                  "text": "A mountain peak offering views in the Stelvio National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.541632,
+                        46.540271
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Stilfserjoch", hu: "Stelvio Nemzeti Park", ro: "Parcul Național Stelvio", en: "Stelvio National Park" },
@@ -183,7 +1227,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-parco-nazionale-stelvio-nature-v2.webp",
   },
   {
-    id: "italy-gran-sasso-nature-v2",
+    id: "italy-gran-sasso-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "Ein prominenter Berggipfel im Gran Sasso-Massiv mit beeindruckender Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "Der östliche Gipfel des Corno Grande, des höchsten Punktes im Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "Ein Berggipfel im Gran Sasso-Massiv, der oft als Wanderziel genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "Ein markanter und felsiger Berggipfel in der Gran Sasso-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Ein isolierter und anspruchsvoller Berggipfel im Gran Sasso-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "Ein Berggipfel im Gran Sasso, der sich in der Nähe des Corno Grande befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "Der nördliche Gipfel des Pizzo d'Intermesoli im Gran Sasso-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "Der westliche Gipfel des Corno Grande, der höchste Punkt des Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "A Gran Sasso-hegység egyik kiemelkedő csúcsa, ahonnan lenyűgöző kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "A Corno Grande keleti csúcsa, a Gran Sasso legmagasabb hegyének része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "A Gran Sasso-hegység egyik hegycsúcsa, népszerű túrázóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "A Gran Sasso-csoport egyik jellegzetes, sziklás hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Elszigetelt és technikás hegycsúcs a Gran Sasso-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "A Gran Sasso egyik hegycsúcsa a Corno Grande közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "A Pizzo d'Intermesoli északi csúcsa a Gran Sasso-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "A Corno Grande nyugati csúcsa, az Appenninek legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "Un vârf muntos proeminent din masivul Gran Sasso, oferind panorame spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "Vârful estic al muntelui Corno Grande, cel mai înalt punct din Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "Un vârf muntos din masivul Gran Sasso, frecventat de pasionații de drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "Un vârf muntos stâncos și distinctiv din grupul Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "Un vârf muntos izolat și provocator din masivul Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "Un vârf muntos din Gran Sasso situat în proximitatea muntelui Corno Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "Vârful nordic al muntelui Pizzo d'Intermesoli din masivul Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "Vârful vestic al muntelui Corno Grande, cel mai înalt punct din Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo Cefalone",
+                  "text": "A prominent mountain peak in the Gran Sasso massif offering impressive views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.524703,
+                        42.450872
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Orientale",
+                  "text": "The eastern peak of Corno Grande, part of the highest mountain in the Gran Sasso.",
+                  "category": "landmark",
+                  "coords": [
+                        13.57061,
+                        42.471704
+                  ]
+            },
+            {
+                  "name": "Monte Portella",
+                  "text": "A mountain peak in the Gran Sasso massif, often used as a hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546025,
+                        42.447545
+                  ]
+            },
+            {
+                  "name": "Corno Piccolo",
+                  "text": "A distinctive and rocky mountain peak in the Gran Sasso group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.559981,
+                        42.479132
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Intermesoli",
+                  "text": "An isolated and challenging mountain peak in the Gran Sasso massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.527238,
+                        42.472526
+                  ]
+            },
+            {
+                  "name": "Monte Aquila",
+                  "text": "A mountain peak in the Gran Sasso, located near the Corno Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        13.56855,
+                        42.456385
+                  ]
+            },
+            {
+                  "name": "Vetta Settentrionale d'Intermesoli",
+                  "text": "The northern peak of Pizzo d'Intermesoli in the Gran Sasso massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.523354,
+                        42.481946
+                  ]
+            },
+            {
+                  "name": "Corno Grande - Vetta Occidentale",
+                  "text": "The western peak of Corno Grande, the highest point of the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        13.565502,
+                        42.469299
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Gran Sasso", hu: "Gran Sasso", ro: "Gran Sasso", en: "Gran Sasso" },
@@ -228,7 +1569,124 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-gran-sasso-nature-v2.webp",
   },
   {
-    id: "italy-fiume-po-nature-v2",
+    id: "italy-fiume-po-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "Ein Denkmal für die Gefallenen in der Nähe des Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "Ein Markierungspunkt des 45. Breitengrades am Po.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Ein sakrales Bauwerk am Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "A háborús hősök emlékműve a Pó folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "A 45. szélességi kört jelző pont a Pó folyónál.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Egy vallási helyszín a Pó folyónál.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "Un monument dedicat eroilor căzuți, situat lângă râul Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "Un punct ce marchează paralela 45 pe râul Po.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Un lăcaș de cult situat lângă râul Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "A monument to the fallen heroes located near the Po River.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "A point marking the 45th parallel on the Po River.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "A place of worship located by the Po River.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IT",
     name: { de: "Po", hu: "Pó", ro: "Pad", en: "Po River" },
@@ -273,7 +1731,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-fiume-po-nature-v2.webp",
   },
   {
-    id: "italy-arcipelago-la-maddalena-nature-v2",
+    id: "italy-arcipelago-la-maddalena-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro di Punta Palau",
+                  "text": "Ein markanter Leuchtturm im La-Maddalena-Archipel, der den Schiffsverkehr an der Küste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.381139,
+                        41.187524
+                  ]
+            },
+            {
+                  "name": "Bassa Trinita",
+                  "text": "Ein beliebter Sandstrand im La-Maddalena-Archipel, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        9.399139,
+                        41.2415
+                  ]
+            },
+            {
+                  "name": "Museo archeologico navale \"Nino Lamboglia\"",
+                  "text": "Ein Museum im La-Maddalena-Archipel, das sich der Unterwasserarchäologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.422045,
+                        41.228888
+                  ]
+            },
+            {
+                  "name": "Forte Carlo Felice",
+                  "text": "Eine historische Festungsanlage im La-Maddalena-Archipel zum Schutz der Küste.",
+                  "category": "fortress",
+                  "coords": [
+                        9.422344,
+                        41.215388
+                  ]
+            },
+            {
+                  "name": "Batteria Nido d'Aquila",
+                  "text": "Eine ehemalige Küstenbatterie im La-Maddalena-Archipel mit Blick auf das Meer.",
+                  "category": "fortress",
+                  "coords": [
+                        9.378502,
+                        41.21776
+                  ]
+            },
+            {
+                  "name": "Spalmatore",
+                  "text": "Ein malerischer Strand im La-Maddalena-Archipel, der für seine natürliche Schönheit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        9.429362,
+                        41.246827
+                  ]
+            },
+            {
+                  "name": "Fortezza dei Colmi",
+                  "text": "Eine historische Festung im La-Maddalena-Archipel, die heute oft für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        9.386768,
+                        41.228931
+                  ]
+            },
+            {
+                  "name": "Spiaggia di tegge",
+                  "text": "Ein charakteristischer Strand im La-Maddalena-Archipel mit flachen Felsen und klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        9.385137,
+                        41.211477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro di Punta Palau",
+                  "text": "Jellegzetes világítótorony a La Maddalena-szigetcsoportnál, amely a part menti hajóforgalmat segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        9.381139,
+                        41.187524
+                  ]
+            },
+            {
+                  "name": "Bassa Trinita",
+                  "text": "Népszerű homokos strand a La Maddalena-szigetcsoportban, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.399139,
+                        41.2415
+                  ]
+            },
+            {
+                  "name": "Museo archeologico navale \"Nino Lamboglia\"",
+                  "text": "Múzeum a La Maddalena-szigetcsoportban, amely a víz alatti régészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        9.422045,
+                        41.228888
+                  ]
+            },
+            {
+                  "name": "Forte Carlo Felice",
+                  "text": "Történelmi erődítmény a La Maddalena-szigetcsoportban a partvidék védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        9.422344,
+                        41.215388
+                  ]
+            },
+            {
+                  "name": "Batteria Nido d'Aquila",
+                  "text": "Egykori part menti tüzérségi állás a La Maddalena-szigetcsoportban, kilátással a tengerre.",
+                  "category": "fortress",
+                  "coords": [
+                        9.378502,
+                        41.21776
+                  ]
+            },
+            {
+                  "name": "Spalmatore",
+                  "text": "Festői strand a La Maddalena-szigetcsoportban, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.429362,
+                        41.246827
+                  ]
+            },
+            {
+                  "name": "Fortezza dei Colmi",
+                  "text": "Történelmi erőd a La Maddalena-szigetcsoportban, amelyet ma gyakran kulturális eseményekre használnak.",
+                  "category": "castle",
+                  "coords": [
+                        9.386768,
+                        41.228931
+                  ]
+            },
+            {
+                  "name": "Spiaggia di tegge",
+                  "text": "Jellegzetes strand a La Maddalena-szigetcsoportban, lapos sziklákkal és tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        9.385137,
+                        41.211477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro di Punta Palau",
+                  "text": "Un far distinctiv din arhipelagul La Maddalena, care ghidează traficul maritim pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.381139,
+                        41.187524
+                  ]
+            },
+            {
+                  "name": "Bassa Trinita",
+                  "text": "O plajă de nisip populară din arhipelagul La Maddalena, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        9.399139,
+                        41.2415
+                  ]
+            },
+            {
+                  "name": "Museo archeologico navale \"Nino Lamboglia\"",
+                  "text": "Un muzeu din arhipelagul La Maddalena, dedicat arheologiei subacvatice.",
+                  "category": "museum",
+                  "coords": [
+                        9.422045,
+                        41.228888
+                  ]
+            },
+            {
+                  "name": "Forte Carlo Felice",
+                  "text": "O fortificație istorică din arhipelagul La Maddalena pentru protecția coastei.",
+                  "category": "fortress",
+                  "coords": [
+                        9.422344,
+                        41.215388
+                  ]
+            },
+            {
+                  "name": "Batteria Nido d'Aquila",
+                  "text": "O fostă baterie de coastă din arhipelagul La Maddalena, cu vedere spre mare.",
+                  "category": "fortress",
+                  "coords": [
+                        9.378502,
+                        41.21776
+                  ]
+            },
+            {
+                  "name": "Spalmatore",
+                  "text": "O plajă pitorească din arhipelagul La Maddalena, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        9.429362,
+                        41.246827
+                  ]
+            },
+            {
+                  "name": "Fortezza dei Colmi",
+                  "text": "O fortăreață istorică din arhipelagul La Maddalena, utilizată astăzi adesea pentru evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        9.386768,
+                        41.228931
+                  ]
+            },
+            {
+                  "name": "Spiaggia di tegge",
+                  "text": "O plajă caracteristică din arhipelagul La Maddalena, cu stânci plate și apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        9.385137,
+                        41.211477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro di Punta Palau",
+                  "text": "A distinctive lighthouse in the La Maddalena Archipelago, guiding maritime traffic on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        9.381139,
+                        41.187524
+                  ]
+            },
+            {
+                  "name": "Bassa Trinita",
+                  "text": "A popular sandy beach in the La Maddalena Archipelago, known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.399139,
+                        41.2415
+                  ]
+            },
+            {
+                  "name": "Museo archeologico navale \"Nino Lamboglia\"",
+                  "text": "A museum in the La Maddalena Archipelago dedicated to underwater archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        9.422045,
+                        41.228888
+                  ]
+            },
+            {
+                  "name": "Forte Carlo Felice",
+                  "text": "A historical fortification in the La Maddalena Archipelago for coastal protection.",
+                  "category": "fortress",
+                  "coords": [
+                        9.422344,
+                        41.215388
+                  ]
+            },
+            {
+                  "name": "Batteria Nido d'Aquila",
+                  "text": "A former coastal battery in the La Maddalena Archipelago overlooking the sea.",
+                  "category": "fortress",
+                  "coords": [
+                        9.378502,
+                        41.21776
+                  ]
+            },
+            {
+                  "name": "Spalmatore",
+                  "text": "A picturesque beach in the La Maddalena Archipelago, known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        9.429362,
+                        41.246827
+                  ]
+            },
+            {
+                  "name": "Fortezza dei Colmi",
+                  "text": "A historical fortress in the La Maddalena Archipelago, now often used for cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        9.386768,
+                        41.228931
+                  ]
+            },
+            {
+                  "name": "Spiaggia di tegge",
+                  "text": "A characteristic beach in the La Maddalena Archipelago with flat rocks and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.385137,
+                        41.211477
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "IT",
     name: { de: "La-Maddalena-Archipel", hu: "La Maddalena-szigetcsoport", ro: "Arhipelagul La Maddalena", en: "La Maddalena Archipelago" },
@@ -318,7 +2073,304 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-arcipelago-la-maddalena-nature-v2.webp",
   },
   {
-    id: "italy-val-di-fassa-nature-v2",
+    id: "italy-val-di-fassa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ladin de Fascia  - Museo ladino di Fassa",
+                  "text": "Ein Museum im Fassatal, das der Sprache, Kultur und Geschichte des ladinischen Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.679696,
+                        46.423129
+                  ]
+            },
+            {
+                  "name": "Cima Undici",
+                  "text": "Ein hoher Berggipfel in den Dolomiten, Teil der beeindruckenden Gebirgs landscapes des Fassatals.",
+                  "category": "landmark",
+                  "coords": [
+                        11.712964,
+                        46.402432
+                  ]
+            },
+            {
+                  "name": "Torre Rizzi",
+                  "text": "Ein charakteristischer Felsgipfel im Fassatal, beliebt bei Bergsteigern und Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        11.670848,
+                        46.456503
+                  ]
+            },
+            {
+                  "name": "Gran Cront",
+                  "text": "Ein markanter Gipfel in den Dolomiten, der das Panorama des oberen Fassatals prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651458,
+                        46.453523
+                  ]
+            },
+            {
+                  "name": "Pale Rabbiose",
+                  "text": "Zerklüftete Felsformationen im Fassatal, bekannt für ihre raue und wilde Gebirgsschönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        11.641139,
+                        46.431984
+                  ]
+            },
+            {
+                  "name": "Sas Aut",
+                  "text": "Ein bedeutender Aussichtsgipfel in den Dolomiten, der oberhalb der Orte des Fassatals liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.702393,
+                        46.403509
+                  ]
+            },
+            {
+                  "name": "Fly Line",
+                  "text": "Eine Seilrutsche im Wald des Fassatals, die ein besonderes Erlebnis in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.663411,
+                        46.434278
+                  ]
+            },
+            {
+                  "name": "Veia Ciasa de Comun - Ex Municipio di Vigo di Fassa",
+                  "text": "Das ehemalige Rathaus von Vigo di Fassa, ein historisches Gebäude mit traditioneller Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        11.672664,
+                        46.420195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ladin de Fascia  - Museo ladino di Fassa",
+                  "text": "Múzeum a Fassa-völgyben, amelyet a ladin nép nyelvének, kultúrájának és történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        11.679696,
+                        46.423129
+                  ]
+            },
+            {
+                  "name": "Cima Undici",
+                  "text": "Magas hegycsúcs a Dolomitokban, a Fassa-völgy lenyűgöző hegyi tájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        11.712964,
+                        46.402432
+                  ]
+            },
+            {
+                  "name": "Torre Rizzi",
+                  "text": "Jellegzetes sziklacsúcs a Fassa-völgyben, a hegymászók és túrázók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        11.670848,
+                        46.456503
+                  ]
+            },
+            {
+                  "name": "Gran Cront",
+                  "text": "Jellegzetes csúcs a Dolomitokban, amely a felső Fassa-völgy panorámáját meghatározza.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651458,
+                        46.453523
+                  ]
+            },
+            {
+                  "name": "Pale Rabbiose",
+                  "text": "Tagolt sziklaformációk a Fassa-völgyben, amelyek zord és vad hegyi szépségükről ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        11.641139,
+                        46.431984
+                  ]
+            },
+            {
+                  "name": "Sas Aut",
+                  "text": "Jelentős kilátópont a Dolomitokban, amely a Fassa-völgy települései fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.702393,
+                        46.403509
+                  ]
+            },
+            {
+                  "name": "Fly Line",
+                  "text": "Erdei kötélpálya a Fassa-völgyben, amely különleges természetközeli élményt nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.663411,
+                        46.434278
+                  ]
+            },
+            {
+                  "name": "Veia Ciasa de Comun - Ex Municipio di Vigo di Fassa",
+                  "text": "Vigo di Fassa egykori városházája, egy hagyományos építészetű történelmi épület.",
+                  "category": "landmark",
+                  "coords": [
+                        11.672664,
+                        46.420195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ladin de Fascia  - Museo ladino di Fassa",
+                  "text": "Un muzeu din Val di Fassa dedicat limbii, culturii și istoriei poporului ladin.",
+                  "category": "museum",
+                  "coords": [
+                        11.679696,
+                        46.423129
+                  ]
+            },
+            {
+                  "name": "Cima Undici",
+                  "text": "Un vârf montan înalt din Dolomiți, parte a peisajului montan impresionant din Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.712964,
+                        46.402432
+                  ]
+            },
+            {
+                  "name": "Torre Rizzi",
+                  "text": "Un vârf stâncos caracteristic din Val di Fassa, popular printre alpiniști și drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        11.670848,
+                        46.456503
+                  ]
+            },
+            {
+                  "name": "Gran Cront",
+                  "text": "Un vârf proeminent din Dolomiți, care domină panorama din partea superioară a Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651458,
+                        46.453523
+                  ]
+            },
+            {
+                  "name": "Pale Rabbiose",
+                  "text": "Formațiuni stâncoase zimțate din Val di Fassa, cunoscute pentru frumusețea lor montană aspră și sălbatică.",
+                  "category": "landmark",
+                  "coords": [
+                        11.641139,
+                        46.431984
+                  ]
+            },
+            {
+                  "name": "Sas Aut",
+                  "text": "Un vârf important cu vedere panoramică în Dolomiți, situat deasupra localităților din Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.702393,
+                        46.403509
+                  ]
+            },
+            {
+                  "name": "Fly Line",
+                  "text": "O tiroliană în pădurile din Val di Fassa, care oferă o experiență specială în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        11.663411,
+                        46.434278
+                  ]
+            },
+            {
+                  "name": "Veia Ciasa de Comun - Ex Municipio di Vigo di Fassa",
+                  "text": "Fostul sediu al primăriei din Vigo di Fassa, o clădire istorică cu arhitectură tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        11.672664,
+                        46.420195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ladin de Fascia  - Museo ladino di Fassa",
+                  "text": "A museum in Val di Fassa dedicated to the language, culture, and history of the Ladin people.",
+                  "category": "museum",
+                  "coords": [
+                        11.679696,
+                        46.423129
+                  ]
+            },
+            {
+                  "name": "Cima Undici",
+                  "text": "A high mountain peak in the Dolomites, part of the impressive mountain landscape of Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.712964,
+                        46.402432
+                  ]
+            },
+            {
+                  "name": "Torre Rizzi",
+                  "text": "A characteristic rock peak in Val di Fassa, popular among climbers and hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        11.670848,
+                        46.456503
+                  ]
+            },
+            {
+                  "name": "Gran Cront",
+                  "text": "A prominent peak in the Dolomites, defining the panorama of the upper Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.651458,
+                        46.453523
+                  ]
+            },
+            {
+                  "name": "Pale Rabbiose",
+                  "text": "Rugged rock formations in Val di Fassa, known for their harsh and wild mountain beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        11.641139,
+                        46.431984
+                  ]
+            },
+            {
+                  "name": "Sas Aut",
+                  "text": "A significant viewpoint peak in the Dolomites, situated above the villages of Val di Fassa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.702393,
+                        46.403509
+                  ]
+            },
+            {
+                  "name": "Fly Line",
+                  "text": "A zip-line in the forests of Val di Fassa offering a unique experience in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        11.663411,
+                        46.434278
+                  ]
+            },
+            {
+                  "name": "Veia Ciasa de Comun - Ex Municipio di Vigo di Fassa",
+                  "text": "The former town hall of Vigo di Fassa, a historic building with traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        11.672664,
+                        46.420195
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IT",
     name: { de: "Fassatal", hu: "Fassa-völgy", ro: "Val di Fassa", en: "Val di Fassa" },
@@ -363,7 +2415,268 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-val-di-fassa-nature-v2.webp",
   },
   {
-    id: "italy-gola-di-gola-rossa-nature-v2",
+    id: "italy-gola-di-gola-rossa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello di Rotorscio",
+                  "text": "Die Überreste einer historischen Befestigungsanlage in der Region Marken.",
+                  "category": "castle",
+                  "coords": [
+                        13.060532,
+                        43.421093
+                  ]
+            },
+            {
+                  "name": "Castello di Precicchie",
+                  "text": "Ein gut erhaltenes mittelalterliches Kastell und befestigtes Dorf in den Hügeln der Marken.",
+                  "category": "castle",
+                  "coords": [
+                        13.046761,
+                        43.400697
+                  ]
+            },
+            {
+                  "name": "Carteria storica regionale",
+                  "text": "Ein regionales Museum, das die traditionelle Geschichte der Papierherstellung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.014735,
+                        43.447845
+                  ]
+            },
+            {
+                  "name": "Eremo di Grottafucile",
+                  "text": "Die Ruinen einer mittelalterlichen Einsiedelei, die in die Felsen der Gola della Rossa gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        12.999258,
+                        43.424689
+                  ]
+            },
+            {
+                  "name": "Monte Murano",
+                  "text": "Ein markanter Berggipfel im Naturpark Gola della Rossa e di Frasassi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002597,
+                        43.437192
+                  ]
+            },
+            {
+                  "name": "Monte Revellone",
+                  "text": "Ein Berg in der Region Marken, der für seine malerischen Wanderwege bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.004105,
+                        43.412117
+                  ]
+            },
+            {
+                  "name": "Cima Scarponi",
+                  "text": "Ein lokales Denkmal auf einem Gipfel in der Gola della Rossa.",
+                  "category": "historical",
+                  "coords": [
+                        12.998735,
+                        43.404943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello di Rotorscio",
+                  "text": "Egy történelmi erődítmény maradványai Marche régióban.",
+                  "category": "castle",
+                  "coords": [
+                        13.060532,
+                        43.421093
+                  ]
+            },
+            {
+                  "name": "Castello di Precicchie",
+                  "text": "Jól megőrzött középkori vár és erődített falu Marche dombjai között.",
+                  "category": "castle",
+                  "coords": [
+                        13.046761,
+                        43.400697
+                  ]
+            },
+            {
+                  "name": "Carteria storica regionale",
+                  "text": "Regionális múzeum, amely a hagyományos papírkészítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.014735,
+                        43.447845
+                  ]
+            },
+            {
+                  "name": "Eremo di Grottafucile",
+                  "text": "A Gola della Rossa szikláiba vájt középkori remetelak romjai.",
+                  "category": "historical",
+                  "coords": [
+                        12.999258,
+                        43.424689
+                  ]
+            },
+            {
+                  "name": "Monte Murano",
+                  "text": "Jellegzetes hegycsúcs a Gola della Rossa e di Frasassi natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002597,
+                        43.437192
+                  ]
+            },
+            {
+                  "name": "Monte Revellone",
+                  "text": "Hegycsúcs Marche régióban, amely festői túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.004105,
+                        43.412117
+                  ]
+            },
+            {
+                  "name": "Cima Scarponi",
+                  "text": "Helyi emlékmű egy hegycsúcson a Gola della Rossa területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.998735,
+                        43.404943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello di Rotorscio",
+                  "text": "Resturile unei fortificații istorice din regiunea Marche.",
+                  "category": "castle",
+                  "coords": [
+                        13.060532,
+                        43.421093
+                  ]
+            },
+            {
+                  "name": "Castello di Precicchie",
+                  "text": "Un castel medieval și sat fortificat bine conservat în dealurile din Marche.",
+                  "category": "castle",
+                  "coords": [
+                        13.046761,
+                        43.400697
+                  ]
+            },
+            {
+                  "name": "Carteria storica regionale",
+                  "text": "Un muzeu regional care documentează istoria tradițională a fabricării hârtiei.",
+                  "category": "museum",
+                  "coords": [
+                        13.014735,
+                        43.447845
+                  ]
+            },
+            {
+                  "name": "Eremo di Grottafucile",
+                  "text": "Ruinele unui schit medieval săpat în stâncile din Gola della Rossa.",
+                  "category": "historical",
+                  "coords": [
+                        12.999258,
+                        43.424689
+                  ]
+            },
+            {
+                  "name": "Monte Murano",
+                  "text": "Un vârf montan proeminent în Parcul Natural Gola della Rossa e di Frasassi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002597,
+                        43.437192
+                  ]
+            },
+            {
+                  "name": "Monte Revellone",
+                  "text": "Un munte în regiunea Marche, cunoscut pentru traseele sale pitorești de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        13.004105,
+                        43.412117
+                  ]
+            },
+            {
+                  "name": "Cima Scarponi",
+                  "text": "Un monument local situat pe un vârf în Gola della Rossa.",
+                  "category": "historical",
+                  "coords": [
+                        12.998735,
+                        43.404943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello di Rotorscio",
+                  "text": "The remains of a historic fortification in the Marche region.",
+                  "category": "castle",
+                  "coords": [
+                        13.060532,
+                        43.421093
+                  ]
+            },
+            {
+                  "name": "Castello di Precicchie",
+                  "text": "A well-preserved medieval castle and fortified village in the Marche hills.",
+                  "category": "castle",
+                  "coords": [
+                        13.046761,
+                        43.400697
+                  ]
+            },
+            {
+                  "name": "Carteria storica regionale",
+                  "text": "A regional museum documenting the traditional history of papermaking.",
+                  "category": "museum",
+                  "coords": [
+                        13.014735,
+                        43.447845
+                  ]
+            },
+            {
+                  "name": "Eremo di Grottafucile",
+                  "text": "The ruins of a medieval hermitage carved into the rocks of Gola della Rossa.",
+                  "category": "historical",
+                  "coords": [
+                        12.999258,
+                        43.424689
+                  ]
+            },
+            {
+                  "name": "Monte Murano",
+                  "text": "A prominent mountain peak within the Gola della Rossa e di Frasassi Natural Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002597,
+                        43.437192
+                  ]
+            },
+            {
+                  "name": "Monte Revellone",
+                  "text": "A mountain in the Marche region known for its scenic hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        13.004105,
+                        43.412117
+                  ]
+            },
+            {
+                  "name": "Cima Scarponi",
+                  "text": "A local monument situated on a peak in Gola della Rossa.",
+                  "category": "historical",
+                  "coords": [
+                        12.998735,
+                        43.404943
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IT",
     name: { de: "Gola della Rossa", hu: "Gola della Rossa", ro: "Gola della Rossa", en: "Gola della Rossa" },
@@ -453,7 +2766,160 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-fiume-arno-nature-v2.webp",
   },
   {
-    id: "italy-foresta-umbra-nature-v2",
+    id: "italy-foresta-umbra-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area Daini",
+                  "text": "Ein Wildgehege in der Foresta Umbra, in dem Besucher Damhirsche beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99463,
+                        41.818212
+                  ]
+            },
+            {
+                  "name": "Villaggio di carbonai e taglialegna",
+                  "text": "Ein Freilichtmuseum in der Foresta Umbra, das das traditionelle Leben der Köhler nachstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99227,
+                        41.816563
+                  ]
+            },
+            {
+                  "name": "Tasso dell'Ispettore",
+                  "text": "Eine bemerkenswerte und uralte Eibe im Nationalpark Gargano.",
+                  "category": "landmark",
+                  "coords": [
+                        15.982259,
+                        41.806236
+                  ]
+            },
+            {
+                  "name": "Coppa Croci",
+                  "text": "Ein Panoramaaussichtspunkt in der Foresta Umbra mit weitem Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.00197,
+                        41.791975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Daini",
+                  "text": "Vadaspark a Foresta Umbra területén, ahol a látogatók dámvadakat láthatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99463,
+                        41.818212
+                  ]
+            },
+            {
+                  "name": "Villaggio di carbonai e taglialegna",
+                  "text": "Szabadtéri múzeum a Foresta Umbra területén, amely a szénégetők hagyományos életét mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99227,
+                        41.816563
+                  ]
+            },
+            {
+                  "name": "Tasso dell'Ispettore",
+                  "text": "Jelentős és ősi tiszafa a Gargano Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.982259,
+                        41.806236
+                  ]
+            },
+            {
+                  "name": "Coppa Croci",
+                  "text": "Panorámás kilátóhely a Foresta Umbra területén, ahonnan festői kilátás nyílik a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        16.00197,
+                        41.791975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Daini",
+                  "text": "O zonă cu animale sălbatice în Foresta Umbra, unde vizitatorii pot observa cerbi lopătari.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99463,
+                        41.818212
+                  ]
+            },
+            {
+                  "name": "Villaggio di carbonai e taglialegna",
+                  "text": "Un muzeu în aer liber în Foresta Umbra, care recreează viața tradițională a cărbunarilor.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99227,
+                        41.816563
+                  ]
+            },
+            {
+                  "name": "Tasso dell'Ispettore",
+                  "text": "Un tisa remarcabil și străvechi situat în Parcul Național Gargano.",
+                  "category": "landmark",
+                  "coords": [
+                        15.982259,
+                        41.806236
+                  ]
+            },
+            {
+                  "name": "Coppa Croci",
+                  "text": "Un punct de observație panoramic în Foresta Umbra, oferind priveliști pitorești asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        16.00197,
+                        41.791975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Daini",
+                  "text": "A wildlife area in the Foresta Umbra where visitors can observe fallow deer.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99463,
+                        41.818212
+                  ]
+            },
+            {
+                  "name": "Villaggio di carbonai e taglialegna",
+                  "text": "An open-air museum in Foresta Umbra recreating the traditional life of charcoal burners.",
+                  "category": "recreational",
+                  "coords": [
+                        15.99227,
+                        41.816563
+                  ]
+            },
+            {
+                  "name": "Tasso dell'Ispettore",
+                  "text": "A notable and ancient yew tree located within the Gargano National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.982259,
+                        41.806236
+                  ]
+            },
+            {
+                  "name": "Coppa Croci",
+                  "text": "A panoramic viewpoint in Foresta Umbra offering scenic vistas of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.00197,
+                        41.791975
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "IT",
     name: { de: "Foresta Umbra", hu: "Foresta Umbra", ro: "Foresta Umbra", en: "Foresta Umbra" },
@@ -498,7 +2964,232 @@ export const italyNatureV2: POI[] = [
     image: "/poi-images/italy-foresta-umbra-nature-v2.webp",
   },
   {
-    id: "italy-cascate-delle-marmore-nature-v2",
+    id: "italy-cascate-delle-marmore-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiringuito - Società Canottieri Piediluco",
+                  "text": "Ein entspannter Strandbereich am Piediluco-See in der Nähe der Marmore-Wasserfälle.",
+                  "category": "recreational",
+                  "coords": [
+                        12.751733,
+                        42.538876
+                  ]
+            },
+            {
+                  "name": "Museo Multimediale Cascata delle Marmore HYDRA",
+                  "text": "Ein Multimedia-Museum, das der Geschichte und Natur der Marmore-Wasserfälle gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.718956,
+                        42.548314
+                  ]
+            },
+            {
+                  "name": "Rocca di Piediluco",
+                  "text": "Die Ruinen einer mittelalterlichen Burg mit Blick auf den Piediluco-See.",
+                  "category": "castle",
+                  "coords": [
+                        12.758369,
+                        42.537806
+                  ]
+            },
+            {
+                  "name": "Cascata delle Marmore",
+                  "text": "Einer der höchsten künstlichen Wasserfälle Europas, der von den alten Römern geschaffen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.715248,
+                        42.551162
+                  ]
+            },
+            {
+                  "name": "Belvedere Superiore - Torretta la Specola",
+                  "text": "Ein oberer Aussichtspunkt mit einem historischen Turm und Panoramablick auf die Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        12.714058,
+                        42.551516
+                  ]
+            },
+            {
+                  "name": "Belvedere Inferiore",
+                  "text": "Ein unterer Aussichtspunkt, der einen vollständigen Blick auf den beeindruckenden Wasserfall bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.714727,
+                        42.553707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiringuito - Società Canottieri Piediluco",
+                  "text": "Pihentető strandterület a Piediluco-tó partján, a Marmore-vízesés közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.751733,
+                        42.538876
+                  ]
+            },
+            {
+                  "name": "Museo Multimediale Cascata delle Marmore HYDRA",
+                  "text": "Multimédiás múzeum, amely a Marmore-vízesés történetét és természetvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.718956,
+                        42.548314
+                  ]
+            },
+            {
+                  "name": "Rocca di Piediluco",
+                  "text": "Egy középkori vár romjai, amelyek a Piediluco-tóra néznek.",
+                  "category": "castle",
+                  "coords": [
+                        12.758369,
+                        42.537806
+                  ]
+            },
+            {
+                  "name": "Cascata delle Marmore",
+                  "text": "Európa egyik legmagasabb mesterséges vízesése, amelyet az ókori rómaiak hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.715248,
+                        42.551162
+                  ]
+            },
+            {
+                  "name": "Belvedere Superiore - Torretta la Specola",
+                  "text": "Felső kilátópont egy történelmi toronnyal, ahonnan panorámás kilátás nyílik a vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        12.714058,
+                        42.551516
+                  ]
+            },
+            {
+                  "name": "Belvedere Inferiore",
+                  "text": "Alsó megfigyelőpont, ahonnan teljes kilátás nyílik a lenyűgöző vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        12.714727,
+                        42.553707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiringuito - Società Canottieri Piediluco",
+                  "text": "O zonă de plajă relaxantă pe malul lacului Piediluco, lângă cascada Marmore.",
+                  "category": "recreational",
+                  "coords": [
+                        12.751733,
+                        42.538876
+                  ]
+            },
+            {
+                  "name": "Museo Multimediale Cascata delle Marmore HYDRA",
+                  "text": "Un muzeu multimedia dedicat istoriei și naturii cascadei Marmore.",
+                  "category": "museum",
+                  "coords": [
+                        12.718956,
+                        42.548314
+                  ]
+            },
+            {
+                  "name": "Rocca di Piediluco",
+                  "text": "Ruinele unui castel medieval cu vedere spre lacul Piediluco.",
+                  "category": "castle",
+                  "coords": [
+                        12.758369,
+                        42.537806
+                  ]
+            },
+            {
+                  "name": "Cascata delle Marmore",
+                  "text": "Una dintre cele mai înalte cascade artificiale din Europa, creată de romanii antici.",
+                  "category": "landmark",
+                  "coords": [
+                        12.715248,
+                        42.551162
+                  ]
+            },
+            {
+                  "name": "Belvedere Superiore - Torretta la Specola",
+                  "text": "Un punct de observare superior, cu un turn istoric și o vedere panoramică asupra cascadei.",
+                  "category": "natural",
+                  "coords": [
+                        12.714058,
+                        42.551516
+                  ]
+            },
+            {
+                  "name": "Belvedere Inferiore",
+                  "text": "Un punct de observare inferior care oferă o vedere completă asupra cascadei impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        12.714727,
+                        42.553707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiringuito - Società Canottieri Piediluco",
+                  "text": "A relaxed beach area by Lake Piediluco near the Marmore Falls.",
+                  "category": "recreational",
+                  "coords": [
+                        12.751733,
+                        42.538876
+                  ]
+            },
+            {
+                  "name": "Museo Multimediale Cascata delle Marmore HYDRA",
+                  "text": "A multimedia museum dedicated to the history and nature of the Marmore Falls.",
+                  "category": "museum",
+                  "coords": [
+                        12.718956,
+                        42.548314
+                  ]
+            },
+            {
+                  "name": "Rocca di Piediluco",
+                  "text": "The ruins of a medieval castle overlooking Lake Piediluco.",
+                  "category": "castle",
+                  "coords": [
+                        12.758369,
+                        42.537806
+                  ]
+            },
+            {
+                  "name": "Cascata delle Marmore",
+                  "text": "One of the tallest man-made waterfalls in Europe, created by the ancient Romans.",
+                  "category": "landmark",
+                  "coords": [
+                        12.715248,
+                        42.551162
+                  ]
+            },
+            {
+                  "name": "Belvedere Superiore - Torretta la Specola",
+                  "text": "An upper viewpoint featuring a historic tower with a panoramic view of the falls.",
+                  "category": "natural",
+                  "coords": [
+                        12.714058,
+                        42.551516
+                  ]
+            },
+            {
+                  "name": "Belvedere Inferiore",
+                  "text": "A lower observation point offering a complete view of the impressive waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        12.714727,
+                        42.553707
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Marmore-Wasserfälle", hu: "Marmore-vízesés", ro: "Cascada Marmore", en: "Marmore Falls" },

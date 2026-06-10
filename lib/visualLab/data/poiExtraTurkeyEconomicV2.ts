@@ -39,7 +39,304 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "ambarli-port-economic-v2",
+    id: "ambarli-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tiyatro Çocuk Atölye",
+                  "text": "Eine Theaterwerkstatt für Kinder am Hafen von Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.705645,
+                        40.989574
+                  ]
+            },
+            {
+                  "name": "Tiyatro Çocuk",
+                  "text": "Ein Kindertheater in der Nähe des Hafens von Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.70403,
+                        40.988787
+                  ]
+            },
+            {
+                  "name": "West İstanbul Marina Plajı",
+                  "text": "Ein Strand in der Nähe des West Istanbul Yachthafens am Hafen von Ambarlı.",
+                  "category": "recreational",
+                  "coords": [
+                        28.653551,
+                        40.96272
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Ein Museum am Hafen von Ambarlı, das dem Leben von Mustafa Kemal Atatürk gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        28.714273,
+                        40.97179
+                  ]
+            },
+            {
+                  "name": "Ancient Roman Ruins",
+                  "text": "Überreste aus der römischen Antike am Hafen von Ambarlı.",
+                  "category": "historical",
+                  "coords": [
+                        28.690585,
+                        41.001069
+                  ]
+            },
+            {
+                  "name": "Zamran Software Web Tasarım Hizmetleri",
+                  "text": "Ein lokaler Anbieter für Webdesign und Software-Dienstleistungen am Hafen von Ambarlı.",
+                  "category": "landmark",
+                  "coords": [
+                        28.707641,
+                        40.98742
+                  ]
+            },
+            {
+                  "name": "Torium Sanat Galerisi",
+                  "text": "Eine Kunstgalerie im Torium-Zentrum am Hafen von Ambarlı.",
+                  "category": "museum",
+                  "coords": [
+                        28.688057,
+                        41.004219
+                  ]
+            },
+            {
+                  "name": "Barış Manço Kültür Merkezi",
+                  "text": "Ein nach dem Musiker Barış Manço benanntes Kulturzentrum am Hafen von Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.720215,
+                        40.979976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tiyatro Çocuk Atölye",
+                  "text": "Gyermekszínházi műhely Ambarlı kikötőjének közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        28.705645,
+                        40.989574
+                  ]
+            },
+            {
+                  "name": "Tiyatro Çocuk",
+                  "text": "Ambarlı kikötője mellett található gyermekszínház.",
+                  "category": "cultural",
+                  "coords": [
+                        28.70403,
+                        40.988787
+                  ]
+            },
+            {
+                  "name": "West İstanbul Marina Plajı",
+                  "text": "Strand a Nyugat-Isztambuli Marina közelében, Ambarlı kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        28.653551,
+                        40.96272
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Mustafa Kemal Atatürk életének szentelt múzeum Ambarlı kikötőjénél.",
+                  "category": "museum",
+                  "coords": [
+                        28.714273,
+                        40.97179
+                  ]
+            },
+            {
+                  "name": "Ancient Roman Ruins",
+                  "text": "Római kori romok maradványai Ambarlı kikötőjének területén.",
+                  "category": "historical",
+                  "coords": [
+                        28.690585,
+                        41.001069
+                  ]
+            },
+            {
+                  "name": "Zamran Software Web Tasarım Hizmetleri",
+                  "text": "Helyi webdizájn és szoftverfejlesztő szolgáltatás Ambarlı kikötőjénél.",
+                  "category": "landmark",
+                  "coords": [
+                        28.707641,
+                        40.98742
+                  ]
+            },
+            {
+                  "name": "Torium Sanat Galerisi",
+                  "text": "Művészeti galéria a Torium központban, Ambarlı kikötőjének közelében.",
+                  "category": "museum",
+                  "coords": [
+                        28.688057,
+                        41.004219
+                  ]
+            },
+            {
+                  "name": "Barış Manço Kültür Merkezi",
+                  "text": "Barış Mançóról elnevezett kulturális központ Ambarlı kikötőjénél.",
+                  "category": "cultural",
+                  "coords": [
+                        28.720215,
+                        40.979976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tiyatro Çocuk Atölye",
+                  "text": "Un atelier de teatru pentru copii situat în apropierea Portului Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.705645,
+                        40.989574
+                  ]
+            },
+            {
+                  "name": "Tiyatro Çocuk",
+                  "text": "Un teatru pentru copii situat lângă Portul Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.70403,
+                        40.988787
+                  ]
+            },
+            {
+                  "name": "West İstanbul Marina Plajı",
+                  "text": "O plajă situată lângă West Istanbul Marina, în zona Portului Ambarlı.",
+                  "category": "recreational",
+                  "coords": [
+                        28.653551,
+                        40.96272
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Un muzeu dedicat vieții lui Mustafa Kemal Atatürk, situat lângă Portul Ambarlı.",
+                  "category": "museum",
+                  "coords": [
+                        28.714273,
+                        40.97179
+                  ]
+            },
+            {
+                  "name": "Ancient Roman Ruins",
+                  "text": "Vestigii din perioada romană antică în zona Portului Ambarlı.",
+                  "category": "historical",
+                  "coords": [
+                        28.690585,
+                        41.001069
+                  ]
+            },
+            {
+                  "name": "Zamran Software Web Tasarım Hizmetleri",
+                  "text": "Un furnizor local de servicii software și web design lângă Portul Ambarlı.",
+                  "category": "landmark",
+                  "coords": [
+                        28.707641,
+                        40.98742
+                  ]
+            },
+            {
+                  "name": "Torium Sanat Galerisi",
+                  "text": "O galerie de artă situată în centrul Torium, lângă Portul Ambarlı.",
+                  "category": "museum",
+                  "coords": [
+                        28.688057,
+                        41.004219
+                  ]
+            },
+            {
+                  "name": "Barış Manço Kültür Merkezi",
+                  "text": "Centru cultural numit după muzicianul Barış Manço, situat lângă Portul Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.720215,
+                        40.979976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiyatro Çocuk Atölye",
+                  "text": "A theatre workshop for children located near the Port of Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.705645,
+                        40.989574
+                  ]
+            },
+            {
+                  "name": "Tiyatro Çocuk",
+                  "text": "A children's theatre located near the Port of Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.70403,
+                        40.988787
+                  ]
+            },
+            {
+                  "name": "West İstanbul Marina Plajı",
+                  "text": "A beach located near the West Istanbul Marina by the Port of Ambarlı.",
+                  "category": "recreational",
+                  "coords": [
+                        28.653551,
+                        40.96272
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "A museum dedicated to the life of Mustafa Kemal Atatürk, located near the Port of Ambarlı.",
+                  "category": "museum",
+                  "coords": [
+                        28.714273,
+                        40.97179
+                  ]
+            },
+            {
+                  "name": "Ancient Roman Ruins",
+                  "text": "Remains of ancient Roman structures in the Port of Ambarlı area.",
+                  "category": "historical",
+                  "coords": [
+                        28.690585,
+                        41.001069
+                  ]
+            },
+            {
+                  "name": "Zamran Software Web Tasarım Hizmetleri",
+                  "text": "A local web design and software services provider near the Port of Ambarlı.",
+                  "category": "landmark",
+                  "coords": [
+                        28.707641,
+                        40.98742
+                  ]
+            },
+            {
+                  "name": "Torium Sanat Galerisi",
+                  "text": "An art gallery located in the Torium center near the Port of Ambarlı.",
+                  "category": "museum",
+                  "coords": [
+                        28.688057,
+                        41.004219
+                  ]
+            },
+            {
+                  "name": "Barış Manço Kültür Merkezi",
+                  "text": "A cultural center named after musician Barış Manço, located near the Port of Ambarlı.",
+                  "category": "cultural",
+                  "coords": [
+                        28.720215,
+                        40.979976
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TR-34",
     coords: [28.675, 40.970],
@@ -192,7 +489,124 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "togg-gemlik-facility-economic-v2",
+    id: "togg-gemlik-facility-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hedef Paintball",
+                  "text": "Eine Freizeiteinrichtung im Freien, die Paintball-Spiele in der Nähe von Gemlik anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        29.16171,
+                        40.420507
+                  ]
+            },
+            {
+                  "name": "Gemlik Körfezi",
+                  "text": "Eine malerische Bucht am Marmarameer, bekannt für ihre Küste und Olivenhaine.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151226,
+                        40.422063
+                  ]
+            },
+            {
+                  "name": "Balık Pazarı Yeni Cami",
+                  "text": "Eine moderne Moschee im Gebiet von Gemlik, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.152833,
+                        40.4343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hedef Paintball",
+                  "text": "Szabadtéri szabadidős létesítmény, amely paintball-játékokat kínál Gemlik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.16171,
+                        40.420507
+                  ]
+            },
+            {
+                  "name": "Gemlik Körfezi",
+                  "text": "Festői öböl a Márvány-tengeren, amely tengerpartjáról és olajfaligeteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151226,
+                        40.422063
+                  ]
+            },
+            {
+                  "name": "Balık Pazarı Yeni Cami",
+                  "text": "Modern mecset Gemlik környékén, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        29.152833,
+                        40.4343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hedef Paintball",
+                  "text": "O facilitate de recreere în aer liber care oferă jocuri de paintball lângă Gemlik.",
+                  "category": "recreational",
+                  "coords": [
+                        29.16171,
+                        40.420507
+                  ]
+            },
+            {
+                  "name": "Gemlik Körfezi",
+                  "text": "Un golf pitoresc la Marea Marmara, cunoscut pentru coasta sa și livezile de măslini.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151226,
+                        40.422063
+                  ]
+            },
+            {
+                  "name": "Balık Pazarı Yeni Cami",
+                  "text": "O moschee modernă situată în zona Gemlik, care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        29.152833,
+                        40.4343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hedef Paintball",
+                  "text": "An outdoor recreational facility offering paintball games near Gemlik.",
+                  "category": "recreational",
+                  "coords": [
+                        29.16171,
+                        40.420507
+                  ]
+            },
+            {
+                  "name": "Gemlik Körfezi",
+                  "text": "A scenic bay on the Sea of Marmara, known for its coastline and olive groves.",
+                  "category": "landmark",
+                  "coords": [
+                        29.151226,
+                        40.422063
+                  ]
+            },
+            {
+                  "name": "Balık Pazarı Yeni Cami",
+                  "text": "A modern mosque located in the Gemlik area, serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        29.152833,
+                        40.4343
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-16",
     coords: [29.116, 40.413],
@@ -264,7 +678,88 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "isdemir-economic-v2",
+    id: "isdemir-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Payas Kalesi",
+                  "text": "Eine historische osmanische Festung direkt am Meer bei İskenderun.",
+                  "category": "castle",
+                  "coords": [
+                        36.202414,
+                        36.754354
+                  ]
+            },
+            {
+                  "name": "Sokullu Mehmet Paşa Han",
+                  "text": "Eine gut erhaltene historische Karawanserei, die Reisenden an der alten Handelsstraße diente.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203946,
+                        36.75432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Payas Kalesi",
+                  "text": "Történelmi oszmán erődítmény közvetlenül a tengerparton İskenderun közelében.",
+                  "category": "castle",
+                  "coords": [
+                        36.202414,
+                        36.754354
+                  ]
+            },
+            {
+                  "name": "Sokullu Mehmet Paşa Han",
+                  "text": "Jó állapotban fennmaradt történelmi karavánszeráj, amely az ősi kereskedelmi út mentén szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203946,
+                        36.75432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Payas Kalesi",
+                  "text": "O cetate otomană istorică situată direct pe malul mării, lângă İskenderun.",
+                  "category": "castle",
+                  "coords": [
+                        36.202414,
+                        36.754354
+                  ]
+            },
+            {
+                  "name": "Sokullu Mehmet Paşa Han",
+                  "text": "Un caravanserai istoric bine conservat, care deservea călătorii de pe vechiul drum comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203946,
+                        36.75432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Payas Castle",
+                  "text": "A historic Ottoman fortress located directly on the seashore near İskenderun.",
+                  "category": "castle",
+                  "coords": [
+                        36.202414,
+                        36.754354
+                  ]
+            },
+            {
+                  "name": "Sokullu Mehmet Paşa Caravanserai",
+                  "text": "A well-preserved historic caravanserai that served travelers along the ancient trade route.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203946,
+                        36.75432
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-31",
     coords: [36.196, 36.733],
@@ -300,7 +795,304 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "erdemir-economic-v2",
+    id: "erdemir-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karadeniz Ereğli Müzesi",
+                  "text": "Ein Museum in Karadeniz Ereğli, das archäologische Funde und lokale ethnografische Gegenstände zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        31.416651,
+                        41.282108
+                  ]
+            },
+            {
+                  "name": "Ereğli Kalesi",
+                  "text": "Die Ruinen einer historischen Festung mit Blick auf die Stadt Karadeniz Ereğli.",
+                  "category": "castle",
+                  "coords": [
+                        31.419591,
+                        41.288699
+                  ]
+            },
+            {
+                  "name": "Karadeniz Ereğli Belediyesi Kent Müzesi",
+                  "text": "Ein Stadtmuseum, das der lokalen Geschichte und dem industriellen Erbe von Karadeniz Ereğli gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.418607,
+                        41.284436
+                  ]
+            },
+            {
+                  "name": "Oyuncak Müzesi",
+                  "text": "Ein Spielzeugmuseum in Karadeniz Ereğli mit einer Sammlung traditioneller und moderner Spielzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        31.422053,
+                        41.278914
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Ein Amphitheater in Karadeniz Ereğli, das für öffentliche Aufführungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        31.419873,
+                        41.278891
+                  ]
+            },
+            {
+                  "name": "Cehennem Ağzı Mağarası",
+                  "text": "Ein Komplex aus drei Höhlen in Karadeniz Ereğli, die mit dem Herkules-Mythos verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        31.414245,
+                        41.292111
+                  ]
+            },
+            {
+                  "name": "Göztepe",
+                  "text": "Ein beliebter Aussichtspunkt in Karadeniz Ereğli mit Panoramablick auf das Schwarze Meer.",
+                  "category": "natural",
+                  "coords": [
+                        31.423269,
+                        41.275452
+                  ]
+            },
+            {
+                  "name": "Kız Kapısı",
+                  "text": "Historische Ruinen in Karadeniz Ereğli, die Teil der antiken Stadtbefestigung sind.",
+                  "category": "historical",
+                  "coords": [
+                        31.414756,
+                        41.285839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karadeniz Ereğli Müzesi",
+                  "text": "Karadeniz Ereğli múzeuma, amely régészeti leleteket és helyi néprajzi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.416651,
+                        41.282108
+                  ]
+            },
+            {
+                  "name": "Ereğli Kalesi",
+                  "text": "Egy történelmi erőd romjai, amelyek Karadeniz Ereğli városára néznek.",
+                  "category": "castle",
+                  "coords": [
+                        31.419591,
+                        41.288699
+                  ]
+            },
+            {
+                  "name": "Karadeniz Ereğli Belediyesi Kent Müzesi",
+                  "text": "Városi múzeum, amely Karadeniz Ereğli helytörténetének és ipari örökségének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        31.418607,
+                        41.284436
+                  ]
+            },
+            {
+                  "name": "Oyuncak Müzesi",
+                  "text": "Játékmúzeum Karadeniz Ereğliben, amely hagyományos és modern játékok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.422053,
+                        41.278914
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Karadeniz Ereğli amfiteátruma, amelyet nyilvános előadásokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        31.419873,
+                        41.278891
+                  ]
+            },
+            {
+                  "name": "Cehennem Ağzı Mağarası",
+                  "text": "Három barlangból álló komplexum Karadeniz Ereğliben, amely a Herkules-mítoszhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        31.414245,
+                        41.292111
+                  ]
+            },
+            {
+                  "name": "Göztepe",
+                  "text": "Népszerű kilátóhely Karadeniz Ereğliben, ahonnan panorámás kilátás nyílik a Fekete-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        31.423269,
+                        41.275452
+                  ]
+            },
+            {
+                  "name": "Kız Kapısı",
+                  "text": "Karadeniz Ereğli történelmi romjai, amelyek az ókori városi erődítmények részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        31.414756,
+                        41.285839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karadeniz Ereğli Müzesi",
+                  "text": "Un muzeu din Karadeniz Ereğli care prezintă descoperiri arheologice și obiecte etnografice locale.",
+                  "category": "museum",
+                  "coords": [
+                        31.416651,
+                        41.282108
+                  ]
+            },
+            {
+                  "name": "Ereğli Kalesi",
+                  "text": "Ruinele unei cetăți istorice care domină orașul Karadeniz Ereğli.",
+                  "category": "castle",
+                  "coords": [
+                        31.419591,
+                        41.288699
+                  ]
+            },
+            {
+                  "name": "Karadeniz Ereğli Belediyesi Kent Müzesi",
+                  "text": "Un muzeu municipal dedicat istoriei locale și patrimoniului industrial din Karadeniz Ereğli.",
+                  "category": "museum",
+                  "coords": [
+                        31.418607,
+                        41.284436
+                  ]
+            },
+            {
+                  "name": "Oyuncak Müzesi",
+                  "text": "Un muzeu al jucăriilor din Karadeniz Ereğli care prezintă o colecție de jucării tradiționale și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        31.422053,
+                        41.278914
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Un amfiteatru din Karadeniz Ereğli folosit pentru spectacole și evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        31.419873,
+                        41.278891
+                  ]
+            },
+            {
+                  "name": "Cehennem Ağzı Mağarası",
+                  "text": "Un complex de trei peșteri din Karadeniz Ereğli asociate cu mitul lui Hercule.",
+                  "category": "landmark",
+                  "coords": [
+                        31.414245,
+                        41.292111
+                  ]
+            },
+            {
+                  "name": "Göztepe",
+                  "text": "Un punct de observație popular din Karadeniz Ereğli care oferă vederi panoramice asupra Mării Negre.",
+                  "category": "natural",
+                  "coords": [
+                        31.423269,
+                        41.275452
+                  ]
+            },
+            {
+                  "name": "Kız Kapısı",
+                  "text": "Ruine istorice din Karadeniz Ereğli, parte a vechilor fortificații ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        31.414756,
+                        41.285839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karadeniz Ereğli Müzesi",
+                  "text": "A museum in Karadeniz Ereğli showcasing archaeological finds and local ethnographic items.",
+                  "category": "museum",
+                  "coords": [
+                        31.416651,
+                        41.282108
+                  ]
+            },
+            {
+                  "name": "Ereğli Kalesi",
+                  "text": "The ruins of a historical fortress overlooking the city of Karadeniz Ereğli.",
+                  "category": "castle",
+                  "coords": [
+                        31.419591,
+                        41.288699
+                  ]
+            },
+            {
+                  "name": "Karadeniz Ereğli Belediyesi Kent Müzesi",
+                  "text": "A city museum dedicated to the local history and industrial heritage of Karadeniz Ereğli.",
+                  "category": "museum",
+                  "coords": [
+                        31.418607,
+                        41.284436
+                  ]
+            },
+            {
+                  "name": "Oyuncak Müzesi",
+                  "text": "A toy museum in Karadeniz Ereğli featuring a collection of traditional and modern toys.",
+                  "category": "museum",
+                  "coords": [
+                        31.422053,
+                        41.278914
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "An amphitheatre venue in Karadeniz Ereğli used for public performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        31.419873,
+                        41.278891
+                  ]
+            },
+            {
+                  "name": "Cehennem Ağzı Mağarası",
+                  "text": "A complex of three caves in Karadeniz Ereğli associated with the Hercules myth.",
+                  "category": "landmark",
+                  "coords": [
+                        31.414245,
+                        41.292111
+                  ]
+            },
+            {
+                  "name": "Göztepe",
+                  "text": "A popular viewpoint in Karadeniz Ereğli offering panoramic vistas of the Black Sea.",
+                  "category": "natural",
+                  "coords": [
+                        31.423269,
+                        41.275452
+                  ]
+            },
+            {
+                  "name": "Kız Kapısı",
+                  "text": "Historical ruins in Karadeniz Ereğli, part of the city's ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        31.414756,
+                        41.285839
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-67",
     coords: [31.428, 41.264],
@@ -327,7 +1119,160 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "star-refinery-economic-v2",
+    id: "star-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyme",
+                  "text": "Die Ruinen einer antiken äolischen griechischen Stadt in der Nähe von Aliağa.",
+                  "category": "historical",
+                  "coords": [
+                        26.93654,
+                        38.759222
+                  ]
+            },
+            {
+                  "name": "Aliağa Belediyesi Ulaş Bayam Açık Hava Tiyatrosu",
+                  "text": "Ein Freilichttheater in Aliağa, das für öffentliche Veranstaltungen und Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        26.973616,
+                        38.804073
+                  ]
+            },
+            {
+                  "name": "İzmir Aliağa Doğapark Seyir Terası",
+                  "text": "Eine Aussichtsterrasse in Aliağa mit Panoramablick auf die Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.979565,
+                        38.808918
+                  ]
+            },
+            {
+                  "name": "Aliağa Çarşı Camii",
+                  "text": "Eine Moschee im Stadtzentrum von Aliağa, die der lokalen Gemeinde als Gebetsstätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.973432,
+                        38.800703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kyme",
+                  "text": "Egy ókori aiol görög város romjai Aliağa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.93654,
+                        38.759222
+                  ]
+            },
+            {
+                  "name": "Aliağa Belediyesi Ulaş Bayam Açık Hava Tiyatrosu",
+                  "text": "Szabadtéri színház Aliağában, amelyet nyilvános eseményekre és előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        26.973616,
+                        38.804073
+                  ]
+            },
+            {
+                  "name": "İzmir Aliağa Doğapark Seyir Terası",
+                  "text": "Kilátóterasz Aliağában, ahonnan panorámás kilátás nyílik a tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        26.979565,
+                        38.808918
+                  ]
+            },
+            {
+                  "name": "Aliağa Çarşı Camii",
+                  "text": "Mecset Aliağa városközpontjában, amely a helyi közösség imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        26.973432,
+                        38.800703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kyme",
+                  "text": "Ruinele unui antic oraș grec eolian situat în apropiere de Aliağa.",
+                  "category": "historical",
+                  "coords": [
+                        26.93654,
+                        38.759222
+                  ]
+            },
+            {
+                  "name": "Aliağa Belediyesi Ulaş Bayam Açık Hava Tiyatrosu",
+                  "text": "Un teatru în aer liber din Aliağa utilizat pentru evenimente și spectacole publice.",
+                  "category": "cultural",
+                  "coords": [
+                        26.973616,
+                        38.804073
+                  ]
+            },
+            {
+                  "name": "İzmir Aliağa Doğapark Seyir Terası",
+                  "text": "O terasă de observație din Aliağa cu vederi panoramice asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        26.979565,
+                        38.808918
+                  ]
+            },
+            {
+                  "name": "Aliağa Çarşı Camii",
+                  "text": "O moschee în centrul orașului Aliağa, care servește comunitatea locală ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        26.973432,
+                        38.800703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyme",
+                  "text": "The ruins of an ancient Aeolian Greek city located near Aliağa.",
+                  "category": "historical",
+                  "coords": [
+                        26.93654,
+                        38.759222
+                  ]
+            },
+            {
+                  "name": "Aliağa Belediyesi Ulaş Bayam Açık Hava Tiyatrosu",
+                  "text": "An open-air theatre in Aliağa used for public events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.973616,
+                        38.804073
+                  ]
+            },
+            {
+                  "name": "İzmir Aliağa Doğapark Seyir Terası",
+                  "text": "An observation terrace in Aliağa offering panoramic views of the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.979565,
+                        38.808918
+                  ]
+            },
+            {
+                  "name": "Aliağa Çarşı Camii",
+                  "text": "A mosque in the city center of Aliağa, serving the local community as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        26.973432,
+                        38.800703
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-35",
     coords: [26.960, 38.790],
@@ -543,7 +1488,124 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "gebze-industrial-zone-economic-v2",
+    id: "gebze-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gebze Lunapark",
+                  "text": "Ein lokaler Vergnügungspark in der Industrieregion Gebze.",
+                  "category": "recreational",
+                  "coords": [
+                        29.439341,
+                        40.801678
+                  ]
+            },
+            {
+                  "name": "Osman Hamdi Bey Kültür Merkezi",
+                  "text": "Ein Zentrum für Kunst und Kultur in Gebze.",
+                  "category": "cultural",
+                  "coords": [
+                        29.439517,
+                        40.805999
+                  ]
+            },
+            {
+                  "name": "Çoban Mustafa Paşa Camii",
+                  "text": "Ein bedeutender Moscheekomplex aus der osmanischen Zeit.",
+                  "category": "religious",
+                  "coords": [
+                        29.431538,
+                        40.799813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gebze Lunapark",
+                  "text": "Helyi vidámpark Gebze ipari régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        29.439341,
+                        40.801678
+                  ]
+            },
+            {
+                  "name": "Osman Hamdi Bey Kültür Merkezi",
+                  "text": "Művészeti és kulturális központ Gebzében.",
+                  "category": "cultural",
+                  "coords": [
+                        29.439517,
+                        40.805999
+                  ]
+            },
+            {
+                  "name": "Çoban Mustafa Paşa Camii",
+                  "text": "Egy jelentős oszmán kori mecsetkomplexum.",
+                  "category": "religious",
+                  "coords": [
+                        29.431538,
+                        40.799813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gebze Lunapark",
+                  "text": "Un parc de distracții local în regiunea industrială Gebze.",
+                  "category": "recreational",
+                  "coords": [
+                        29.439341,
+                        40.801678
+                  ]
+            },
+            {
+                  "name": "Osman Hamdi Bey Kültür Merkezi",
+                  "text": "Un centru pentru artă și cultură în Gebze.",
+                  "category": "cultural",
+                  "coords": [
+                        29.439517,
+                        40.805999
+                  ]
+            },
+            {
+                  "name": "Çoban Mustafa Paşa Camii",
+                  "text": "Un complex de moschei important din epoca otomană.",
+                  "category": "religious",
+                  "coords": [
+                        29.431538,
+                        40.799813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gebze Lunapark",
+                  "text": "A local amusement park in the industrial region of Gebze.",
+                  "category": "recreational",
+                  "coords": [
+                        29.439341,
+                        40.801678
+                  ]
+            },
+            {
+                  "name": "Osman Hamdi Bey Cultural Center",
+                  "text": "A center for arts and culture in Gebze.",
+                  "category": "cultural",
+                  "coords": [
+                        29.439517,
+                        40.805999
+                  ]
+            },
+            {
+                  "name": "Çoban Mustafa Paşa Camii",
+                  "text": "An important Ottoman-era mosque complex.",
+                  "category": "religious",
+                  "coords": [
+                        29.431538,
+                        40.799813
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-41",
     coords: [29.432, 40.835],
@@ -579,7 +1641,124 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "limakport-iskenderun-economic-v2",
+    id: "limakport-iskenderun-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deniz Müzesi",
+                  "text": "Dieses Marinemuseum in İskenderun präsentiert Exponate zur türkischen Schifffahrtsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        36.163588,
+                        36.593945
+                  ]
+            },
+            {
+                  "name": "Surp Karasun Manuk Ermeni Kilisesi",
+                  "text": "Diese armenische Kirche in İskenderun ist ein wichtiges religiöses Zentrum der lokalen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        36.170361,
+                        36.589487
+                  ]
+            },
+            {
+                  "name": "Katolik Kilisesi",
+                  "text": "Die lateinisch-katholische Kirche in İskenderun dient der dortigen katholischen Glaubensgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        36.168409,
+                        36.591049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deniz Müzesi",
+                  "text": "Ez az iskenderuni tengerészeti múzeum a török hajózás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        36.163588,
+                        36.593945
+                  ]
+            },
+            {
+                  "name": "Surp Karasun Manuk Ermeni Kilisesi",
+                  "text": "Ez az iskenderuni örmény templom a helyi közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        36.170361,
+                        36.589487
+                  ]
+            },
+            {
+                  "name": "Katolik Kilisesi",
+                  "text": "Az iskenderuni latin katolikus templom a helyi katolikus hívőközösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        36.168409,
+                        36.591049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deniz Müzesi",
+                  "text": "Acest muzeu maritim din İskenderun prezintă exponate legate de istoria navală turcă.",
+                  "category": "museum",
+                  "coords": [
+                        36.163588,
+                        36.593945
+                  ]
+            },
+            {
+                  "name": "Surp Karasun Manuk Ermeni Kilisesi",
+                  "text": "Această biserică armeană din İskenderun este un centru religios important al comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        36.170361,
+                        36.589487
+                  ]
+            },
+            {
+                  "name": "Katolik Kilisesi",
+                  "text": "Biserica romano-catolică din İskenderun deservește comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        36.168409,
+                        36.591049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deniz Müzesi",
+                  "text": "This naval museum in İskenderun displays exhibits related to Turkish maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        36.163588,
+                        36.593945
+                  ]
+            },
+            {
+                  "name": "Surp Karasun Manuk Ermeni Kilisesi",
+                  "text": "This Armenian church in İskenderun is an important religious center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        36.170361,
+                        36.589487
+                  ]
+            },
+            {
+                  "name": "Katolik Kilisesi",
+                  "text": "The Latin Catholic church in İskenderun serves the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        36.168409,
+                        36.591049
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TR-31",
     coords: [36.183, 36.592],
@@ -651,7 +1830,232 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "oyak-renault-bursa-economic-v2",
+    id: "oyak-renault-bursa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Starpark",
+                  "text": "Ein Freizeitpark in Bursa, der Unterhaltung und Fahrgeschäfte für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        28.965547,
+                        40.224757
+                  ]
+            },
+            {
+                  "name": "SAĞLIK MÜZESİ",
+                  "text": "Ein Museum in Bursa, das Exponate zur Geschichte der Medizin und des Gesundheitswesens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.981924,
+                        40.215062
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Ein Wasserpark in Bursa mit verschiedenen Pools und Rutschen für die Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        28.967675,
+                        40.225846
+                  ]
+            },
+            {
+                  "name": "Ninova Aquapark",
+                  "text": "Ein Wasserpark in Bursa mit verschiedenen Pools und Rutschen für die Freizeitgestaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916125,
+                        40.216536
+                  ]
+            },
+            {
+                  "name": "Nazım Hikmet Kültürevi",
+                  "text": "Ein Kulturzentrum in Bursa, das Raum für Ausstellungen, Konzerte und künstlerische Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        28.900841,
+                        40.219798
+                  ]
+            },
+            {
+                  "name": "Özlüce Kültür Evi",
+                  "text": "Ein lokales Kulturzentrum in Bursa, das der Förderung von Kunst und Gemeinschaft dient.",
+                  "category": "cultural",
+                  "coords": [
+                        28.907613,
+                        40.237589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Starpark",
+                  "text": "Bursa egyik vidámparkja, amely különféle szórakozási lehetőségeket és játékokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.965547,
+                        40.224757
+                  ]
+            },
+            {
+                  "name": "SAĞLIK MÜZESİ",
+                  "text": "Egy bursai múzeum, amely az orvostudomány és az egészségügy történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.981924,
+                        40.215062
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Bursai vízi park, amely medencékkel és csúszdákkal várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.967675,
+                        40.225846
+                  ]
+            },
+            {
+                  "name": "Ninova Aquapark",
+                  "text": "Bursai vízi park, amely medencékkel és csúszdákkal várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916125,
+                        40.216536
+                  ]
+            },
+            {
+                  "name": "Nazım Hikmet Kültürevi",
+                  "text": "Kulturális központ Bursában, amely kiállításoknak, koncerteknek és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        28.900841,
+                        40.219798
+                  ]
+            },
+            {
+                  "name": "Özlüce Kültür Evi",
+                  "text": "Helyi kulturális központ Bursában, amely a művészet és a közösségi élet támogatását szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        28.907613,
+                        40.237589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Starpark",
+                  "text": "Un parc de distracții din Bursa care oferă divertisment și diverse atracții pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        28.965547,
+                        40.224757
+                  ]
+            },
+            {
+                  "name": "SAĞLIK MÜZESİ",
+                  "text": "Un muzeu din Bursa care prezintă exponate legate de istoria medicinei și a sistemului de sănătate.",
+                  "category": "museum",
+                  "coords": [
+                        28.981924,
+                        40.215062
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Un parc acvatic din Bursa, dotat cu piscine și tobogane pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.967675,
+                        40.225846
+                  ]
+            },
+            {
+                  "name": "Ninova Aquapark",
+                  "text": "Un parc acvatic din Bursa, dotat cu piscine și tobogane pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916125,
+                        40.216536
+                  ]
+            },
+            {
+                  "name": "Nazım Hikmet Kültürevi",
+                  "text": "Un centru de artă din Bursa care găzduiește expoziții, concerte și diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.900841,
+                        40.219798
+                  ]
+            },
+            {
+                  "name": "Özlüce Kültür Evi",
+                  "text": "Un centru cultural local din Bursa dedicat promovării artelor și activităților comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        28.907613,
+                        40.237589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starpark",
+                  "text": "An amusement park in Bursa offering entertainment and various rides for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        28.965547,
+                        40.224757
+                  ]
+            },
+            {
+                  "name": "SAĞLIK MÜZESİ",
+                  "text": "A museum in Bursa featuring exhibits on the history of medicine and healthcare.",
+                  "category": "museum",
+                  "coords": [
+                        28.981924,
+                        40.215062
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park in Bursa featuring various pools and slides for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.967675,
+                        40.225846
+                  ]
+            },
+            {
+                  "name": "Ninova Aquapark",
+                  "text": "A water park in Bursa featuring various pools and slides for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        28.916125,
+                        40.216536
+                  ]
+            },
+            {
+                  "name": "Nazım Hikmet Arts Center",
+                  "text": "An arts center in Bursa hosting exhibitions, concerts, and various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        28.900841,
+                        40.219798
+                  ]
+            },
+            {
+                  "name": "Özlüce Kültür Evi",
+                  "text": "A local cultural center in Bursa dedicated to promoting the arts and community activities.",
+                  "category": "cultural",
+                  "coords": [
+                        28.907613,
+                        40.237589
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-16",
     coords: [28.940, 40.231],
@@ -687,7 +2091,160 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "ford-otosan-golcuk-economic-v2",
+    id: "ford-otosan-golcuk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derince Belediyesi Gösteri Merkezi",
+                  "text": "Ein lokales Theater- und Veranstaltungszentrum für kulturelle Aufführungen in Derince.",
+                  "category": "cultural",
+                  "coords": [
+                        29.812214,
+                        40.750085
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili Lunaparkı",
+                  "text": "Ein beliebter Vergnügungspark an der Küste mit verschiedenen Fahrgeschäften und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        29.810111,
+                        40.749496
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili",
+                  "text": "Ein thematisch gestalteter Park am Meer, der für seine Märchen- und Fantasiefiguren bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        29.805992,
+                        40.748923
+                  ]
+            },
+            {
+                  "name": "Yarhisar Gemisi Müzesi",
+                  "text": "Ein ehemaliges Schiff der türkischen Marine, das heute als Museumsschiff besichtigt werden kann.",
+                  "category": "historical",
+                  "coords": [
+                        29.835219,
+                        40.723403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derince Belediyesi Gösteri Merkezi",
+                  "text": "Helyi színház és rendezvényközpont kulturális előadások számára Derincében.",
+                  "category": "cultural",
+                  "coords": [
+                        29.812214,
+                        40.750085
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili Lunaparkı",
+                  "text": "Népszerű tengerparti vidámpark különféle játékokkal és látnivalókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        29.810111,
+                        40.749496
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili",
+                  "text": "Tengerparti tematikus park, amely mesebeli és fantáziaalakjairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        29.805992,
+                        40.748923
+                  ]
+            },
+            {
+                  "name": "Yarhisar Gemisi Müzesi",
+                  "text": "A török haditengerészet egykori hajója, amely ma múzeumhajóként látogatható.",
+                  "category": "historical",
+                  "coords": [
+                        29.835219,
+                        40.723403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derince Belediyesi Gösteri Merkezi",
+                  "text": "Un teatru local și centru de spectacole pentru evenimente culturale în Derince.",
+                  "category": "cultural",
+                  "coords": [
+                        29.812214,
+                        40.750085
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili Lunaparkı",
+                  "text": "Un parc de distracții popular pe coastă, cu diverse atracții și caruseluri.",
+                  "category": "recreational",
+                  "coords": [
+                        29.810111,
+                        40.749496
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili",
+                  "text": "Un parc tematic la malul mării, cunoscut pentru figurinele sale de basm și fantezie.",
+                  "category": "park",
+                  "coords": [
+                        29.805992,
+                        40.748923
+                  ]
+            },
+            {
+                  "name": "Yarhisar Gemisi Müzesi",
+                  "text": "O fostă navă a marinei turce, care astăzi poate fi vizitată ca navă-muzeu.",
+                  "category": "historical",
+                  "coords": [
+                        29.835219,
+                        40.723403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derince Belediyesi Gösteri Merkezi",
+                  "text": "A local theatre and performance centre for cultural events in Derince.",
+                  "category": "cultural",
+                  "coords": [
+                        29.812214,
+                        40.750085
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili Lunaparkı",
+                  "text": "A popular seaside amusement park featuring various rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        29.810111,
+                        40.749496
+                  ]
+            },
+            {
+                  "name": "Harikalar Sahili",
+                  "text": "A themed seaside park known for its fairytale and fantasy character displays.",
+                  "category": "park",
+                  "coords": [
+                        29.805992,
+                        40.748923
+                  ]
+            },
+            {
+                  "name": "Yarhisar Gemisi Müzesi",
+                  "text": "A former Turkish Navy ship that now serves as a museum vessel open to the public.",
+                  "category": "historical",
+                  "coords": [
+                        29.835219,
+                        40.723403
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TR-41",
     coords: [29.833, 40.722],

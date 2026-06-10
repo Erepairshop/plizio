@@ -24942,7 +24942,268 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "NL-LM-TEX", type: "landmark", parent: "NL-NH", coords: [4.80, 53.05],
+    id: "NL-LM-TEX", "sights": {
+      "de": [
+            {
+                  "name": "Fort De Schans",
+                  "text": "Eine historische sternförmige Festung auf der Insel Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.828324,
+                        53.031135
+                  ]
+            },
+            {
+                  "name": "Museum Kaap Skil",
+                  "text": "Ein maritimes Museum in Oudeschild auf der Insel Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.848018,
+                        53.039135
+                  ]
+            },
+            {
+                  "name": "Waalenburg",
+                  "text": "Ein weitläufiges Naturschutzgebiet im Herzen der Insel Texel.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "Fort Lunette",
+                  "text": "Ein historisches Verteidigungsbauwerk auf der Insel Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.838873,
+                        53.032538
+                  ]
+            },
+            {
+                  "name": "Fort Redoute",
+                  "text": "Eine ehemalige Festungsanlage auf der Insel Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.815203,
+                        53.03067
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "Ein historisches Haus in Den Burg, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Ein Museum für Landwirtschaft und Kulturgeschichte auf Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort De Schans",
+                  "text": "Egy történelmi csillagerőd Texel szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        4.828324,
+                        53.031135
+                  ]
+            },
+            {
+                  "name": "Museum Kaap Skil",
+                  "text": "Tengerészeti múzeum Oudeschild faluban, Texel szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        4.848018,
+                        53.039135
+                  ]
+            },
+            {
+                  "name": "Waalenburg",
+                  "text": "Egy kiterjedt természetvédelmi terület Texel szigetének szívében.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "Fort Lunette",
+                  "text": "Történelmi védmű Texel szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        4.838873,
+                        53.032538
+                  ]
+            },
+            {
+                  "name": "Fort Redoute",
+                  "text": "Egykori erődítmény Texel szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        4.815203,
+                        53.03067
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "Egy múzeumként működő történelmi ház Den Burgban.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Mezőgazdasági és kultúrtörténeti múzeum Texel szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort De Schans",
+                  "text": "O fortificație istorică în formă de stea pe insula Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.828324,
+                        53.031135
+                  ]
+            },
+            {
+                  "name": "Museum Kaap Skil",
+                  "text": "Un muzeu maritim situat în Oudeschild pe insula Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.848018,
+                        53.039135
+                  ]
+            },
+            {
+                  "name": "Waalenburg",
+                  "text": "O rezervație naturală vastă în inima insulei Texel.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "Fort Lunette",
+                  "text": "O structură defensivă istorică pe insula Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.838873,
+                        53.032538
+                  ]
+            },
+            {
+                  "name": "Fort Redoute",
+                  "text": "O fostă fortificație situată pe insula Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.815203,
+                        53.03067
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "O casă istorică din Den Burg care funcționează ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Un muzeu de agricultură și istorie culturală pe insula Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort De Schans",
+                  "text": "A historic star-shaped fort on the island of Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.828324,
+                        53.031135
+                  ]
+            },
+            {
+                  "name": "Museum Kaap Skil",
+                  "text": "A maritime museum located in Oudeschild on the island of Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.848018,
+                        53.039135
+                  ]
+            },
+            {
+                  "name": "Waalenburg",
+                  "text": "A vast nature reserve in the heart of the island of Texel.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "Fort Lunette",
+                  "text": "A historical defensive structure on the island of Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.838873,
+                        53.032538
+                  ]
+            },
+            {
+                  "name": "Fort Redoute",
+                  "text": "A former fortification located on the island of Texel.",
+                  "category": "fortress",
+                  "coords": [
+                        4.815203,
+                        53.03067
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "A historic house in Den Burg serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "A museum of agriculture and cultural history on the island of Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-NH", coords: [4.80, 53.05],
     name: { de: "Texel", hu: "Texel", ro: "Texel", en: "Texel" },
     image: "/geo-images/netherlands/texel.webp",
   description: {
@@ -24983,7 +25244,304 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "NL-LM-HOG", type: "landmark", parent: "NL-GE", coords: [5.82, 52.10],
+    id: "NL-LM-HOG", "sights": {
+      "de": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Ein Museum in Otterlo mit einer bedeutenden Sammlung historischer niederländischer Fliesen.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "Das weltweit erste unterirdische Museum, das das Leben unter der Erdoberfläche zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Ein weitläufiger Nationalpark in den Niederlanden mit Wäldern, Heide und Dünen.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Ein bedeutendes Kunstmuseum mit einer großen Van-Gogh-Sammlung und einem Skulpturengarten.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Jachthuis Sint Hubertus",
+                  "text": "Ein ehemaliges Jagdschloss und Gesamtkunstwerk, entworfen vom Architekten Berlage.",
+                  "category": "castle",
+                  "coords": [
+                        5.83283,
+                        52.121525
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein Streichelzoo im Nationalpark, in dem Besucher Hoftiere aus der Nähe erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Ein ruhiges Naturschutzgebiet in der Region Hoge Veluwe.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Hoef",
+                  "text": "Ein geschütztes Naturgebiet in der Landschaft von Hoge Veluwe.",
+                  "category": "natural",
+                  "coords": [
+                        5.779147,
+                        52.114474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Otterloi múzeum jelentős történelmi holland csempegyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "A világ első földalatti múzeuma, amely a földfelszín alatti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Kiterjedt holland nemzeti park erdőkkel, pusztákkal és dűnékkel.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Jelentős művészeti múzeum nagy Van Gogh-gyűjteménnyel és szoborparkkal.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Jachthuis Sint Hubertus",
+                  "text": "Berlage építész által tervezett egykori vadászkastély és összművészeti alkotás.",
+                  "category": "castle",
+                  "coords": [
+                        5.83283,
+                        52.121525
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Állatsimogató a nemzeti parkban, ahol a látogatók közelről láthatnak háztáji állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Nyugodt természetvédelmi terület a Hoge Veluwe régióban.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Hoef",
+                  "text": "Védett természeti terület a Hoge Veluwe tájegységben.",
+                  "category": "natural",
+                  "coords": [
+                        5.779147,
+                        52.114474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Un muzeu din Otterlo cu o colecție importantă de plăci ceramice olandeze istorice.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "Primul muzeu subteran din lume, care prezintă viața de sub suprafața pământului.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Un vast parc național din Țările de Jos, cu păduri, lande și dune.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Un important muzeu de artă cu o mare colecție Van Gogh și o grădină de sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Jachthuis Sint Hubertus",
+                  "text": "Un fost pavilion de vânătoare și operă de artă totală, proiectat de arhitectul Berlage.",
+                  "category": "castle",
+                  "coords": [
+                        5.83283,
+                        52.121525
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "O grădină zoologică cu animale domestice în parcul național, unde vizitatorii pot interacționa cu acestea.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "O rezervație naturală liniștită în regiunea Hoge Veluwe.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Hoef",
+                  "text": "O zonă naturală protejată situată în peisajul Hoge Veluwe.",
+                  "category": "natural",
+                  "coords": [
+                        5.779147,
+                        52.114474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "A museum in Otterlo with a significant collection of historic Dutch tiles.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "The world's first underground museum, showcasing life below the earth's surface.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "A vast national park in the Netherlands featuring forests, heathlands, and dunes.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "A major art museum with a large Van Gogh collection and a sculpture garden.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Jachthuis Sint Hubertus",
+                  "text": "A former hunting lodge and total work of art designed by architect Berlage.",
+                  "category": "castle",
+                  "coords": [
+                        5.83283,
+                        52.121525
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A petting zoo in the national park where visitors can experience farm animals up close.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "A peaceful nature reserve in the Hoge Veluwe region.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Hoef",
+                  "text": "A protected nature area located in the Hoge Veluwe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.779147,
+                        52.114474
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-GE", coords: [5.82, 52.10],
     name: { de: "Hoge Veluwe", hu: "Hoge Veluwe", ro: "Hoge Veluwe", en: "Hoge Veluwe" },
     image: "/geo-images/netherlands/hoge-veluwe.webp",
   description: {
@@ -25387,6 +25945,24 @@ export const netherlandsCities: POI[] = [
                         5.364032,
                         52.58306
                   ]
+            },
+            {
+                  "name": "Marker Wadden",
+                  "text": "Ein künstlich angelegtes Archipel und Naturschutzgebiet im Markermeer.",
+                  "category": "natural",
+                  "coords": [
+                        5.38374,
+                        52.590543
+                  ]
+            },
+            {
+                  "name": "Steltloper",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das Naturschutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.363559,
+                        52.584687
+                  ]
             }
       ],
       "hu": [
@@ -25397,6 +25973,24 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.364032,
                         52.58306
+                  ]
+            },
+            {
+                  "name": "Marker Wadden",
+                  "text": "Mesterséges szigetcsoport és természetvédelmi terület a Markermeer-tavon.",
+                  "category": "natural",
+                  "coords": [
+                        5.38374,
+                        52.590543
+                  ]
+            },
+            {
+                  "name": "Steltloper",
+                  "text": "Kilátópont, amely széles panorámát nyújt a természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        5.363559,
+                        52.584687
                   ]
             }
       ],
@@ -25409,6 +26003,24 @@ export const netherlandsCities: POI[] = [
                         5.364032,
                         52.58306
                   ]
+            },
+            {
+                  "name": "Marker Wadden",
+                  "text": "Un arhipelag artificial și rezervație naturală în Markermeer.",
+                  "category": "natural",
+                  "coords": [
+                        5.38374,
+                        52.590543
+                  ]
+            },
+            {
+                  "name": "Steltloper",
+                  "text": "Un punct de observație ce oferă o vedere panoramică asupra rezervației naturale.",
+                  "category": "natural",
+                  "coords": [
+                        5.363559,
+                        52.584687
+                  ]
             }
       ],
       "en": [
@@ -25419,6 +26031,24 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.364032,
                         52.58306
+                  ]
+            },
+            {
+                  "name": "Marker Wadden",
+                  "text": "A man-made archipelago and nature reserve in the Markermeer.",
+                  "category": "natural",
+                  "coords": [
+                        5.38374,
+                        52.590543
+                  ]
+            },
+            {
+                  "name": "Steltloper",
+                  "text": "A viewpoint offering panoramic views over the nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.363559,
+                        52.584687
                   ]
             }
       ]
@@ -40518,7 +41148,88 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-waddenzee", type: "landmark", parent: "NL-FR", coords: [5.4000, 53.4500],
+    id: "nl-waddenzee", "sights": {
+      "de": [
+            {
+                  "name": "TS 311",
+                  "text": "Ruinen im Wattenmeer-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        5.408864,
+                        53.423321
+                  ]
+            },
+            {
+                  "name": "Oostbatterij",
+                  "text": "Historische Ruinen an der Küste des Wattenmeeres.",
+                  "category": "historical",
+                  "coords": [
+                        5.41711,
+                        53.41918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TS 311",
+                  "text": "Romok a Watt-tenger vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        5.408864,
+                        53.423321
+                  ]
+            },
+            {
+                  "name": "Oostbatterij",
+                  "text": "Történelmi romok a Watt-tenger partján.",
+                  "category": "historical",
+                  "coords": [
+                        5.41711,
+                        53.41918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TS 311",
+                  "text": "Ruine în zona Mării Wadden.",
+                  "category": "historical",
+                  "coords": [
+                        5.408864,
+                        53.423321
+                  ]
+            },
+            {
+                  "name": "Oostbatterij",
+                  "text": "Ruine istorice pe coasta Mării Wadden.",
+                  "category": "historical",
+                  "coords": [
+                        5.41711,
+                        53.41918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TS 311",
+                  "text": "Ruins located in the Wadden Sea area.",
+                  "category": "historical",
+                  "coords": [
+                        5.408864,
+                        53.423321
+                  ]
+            },
+            {
+                  "name": "Oostbatterij",
+                  "text": "Historic ruins on the coast of the Wadden Sea.",
+                  "category": "historical",
+                  "coords": [
+                        5.41711,
+                        53.41918
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-FR", coords: [5.4000, 53.4500],
     name: { de: "Wattenmeer", hu: "Watt-tenger", ro: "Marea Wadden", en: "Wadden Sea" },
     image: "/geo-images/netherlands/waddenzee.webp",
     description: {
@@ -40767,7 +41478,304 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-drenthe-hunebed", type: "historical", parent: "NL-DR", coords: [6.7500, 52.8000],
+    id: "nl-drenthe-hunebed", "sights": {
+      "de": [
+            {
+                  "name": "Hunebed D50 Noord-Sleen",
+                  "text": "Ein prähistorisches Megalithgrab (Hunebed) in der Provinz Drenthe.",
+                  "category": "historical",
+                  "coords": [
+                        6.787218,
+                        52.796066
+                  ]
+            },
+            {
+                  "name": "Hunebed D51 Noord-Sleen",
+                  "text": "Ein gut erhaltenes Megalithgrab aus der Trichterbecherkultur.",
+                  "category": "historical",
+                  "coords": [
+                        6.786506,
+                        52.794735
+                  ]
+            },
+            {
+                  "name": "Hunebed D49 Papeloze kerk",
+                  "text": "Ein restauriertes Megalithgrab, das früher für verdeckte Gottesdienste genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        6.773862,
+                        52.820063
+                  ]
+            },
+            {
+                  "name": "Boswachterij Sleenerzand",
+                  "text": "Ein ausgedehntes Waldgebiet mit Wanderwegen und archäologischen Schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        6.757886,
+                        52.827299
+                  ]
+            },
+            {
+                  "name": "Grafveld Prinses van Zweeloo",
+                  "text": "Ein archäologisch bedeutendes Gräberfeld aus dem 5. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        6.741903,
+                        52.793834
+                  ]
+            },
+            {
+                  "name": "Galgenberg",
+                  "text": "Eine archäologische Stätte, die einen historischen Grabhügel umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        6.771195,
+                        52.814578
+                  ]
+            },
+            {
+                  "name": "Albertdina",
+                  "text": "Eine historische Windmühle aus dem Jahr 1906 in Noord-Sleen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802789,
+                        52.788095
+                  ]
+            },
+            {
+                  "name": "Jantina Hellingmolen",
+                  "text": "Eine traditionelle holländische Windmühle in der Region Drenthe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.714129,
+                        52.788408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hunebed D50 Noord-Sleen",
+                  "text": "Prehisztorikus megallitikus sír (hunebed) Drenthe tartományban.",
+                  "category": "historical",
+                  "coords": [
+                        6.787218,
+                        52.796066
+                  ]
+            },
+            {
+                  "name": "Hunebed D51 Noord-Sleen",
+                  "text": "A tölcséres szájú edények kultúrájának jól megőrzött megalit sírja.",
+                  "category": "historical",
+                  "coords": [
+                        6.786506,
+                        52.794735
+                  ]
+            },
+            {
+                  "name": "Hunebed D49 Papeloze kerk",
+                  "text": "Restaurált megalit sír, amelyet egykor titkos istentiszteletekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        6.773862,
+                        52.820063
+                  ]
+            },
+            {
+                  "name": "Boswachterij Sleenerzand",
+                  "text": "Kiterjedt erdőterület túraútvonalakkal és régészeti kincsekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.757886,
+                        52.827299
+                  ]
+            },
+            {
+                  "name": "Grafveld Prinses van Zweeloo",
+                  "text": "Régészetileg jelentős 5. századi temetkezési hely.",
+                  "category": "historical",
+                  "coords": [
+                        6.741903,
+                        52.793834
+                  ]
+            },
+            {
+                  "name": "Galgenberg",
+                  "text": "Régészeti lelőhely, amely egy történelmi sírhalmot foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        6.771195,
+                        52.814578
+                  ]
+            },
+            {
+                  "name": "Albertdina",
+                  "text": "1906-ból származó történelmi szélmalom Noord-Sleenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802789,
+                        52.788095
+                  ]
+            },
+            {
+                  "name": "Jantina Hellingmolen",
+                  "text": "Hagyományos holland szélmalom Drenthe régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.714129,
+                        52.788408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hunebed D50 Noord-Sleen",
+                  "text": "Un mormânt megalitic preistoric (hunebed) în provincia Drenthe.",
+                  "category": "historical",
+                  "coords": [
+                        6.787218,
+                        52.796066
+                  ]
+            },
+            {
+                  "name": "Hunebed D51 Noord-Sleen",
+                  "text": "Un mormânt megalitic bine conservat aparținând culturii vaselor cu gât pâlniiform.",
+                  "category": "historical",
+                  "coords": [
+                        6.786506,
+                        52.794735
+                  ]
+            },
+            {
+                  "name": "Hunebed D49 Papeloze kerk",
+                  "text": "Un mormânt megalitic restaurat, folosit în trecut pentru slujbe religioase clandestine.",
+                  "category": "historical",
+                  "coords": [
+                        6.773862,
+                        52.820063
+                  ]
+            },
+            {
+                  "name": "Boswachterij Sleenerzand",
+                  "text": "O zonă forestieră extinsă cu trasee de drumeție și comori arheologice.",
+                  "category": "natural",
+                  "coords": [
+                        6.757886,
+                        52.827299
+                  ]
+            },
+            {
+                  "name": "Grafveld Prinses van Zweeloo",
+                  "text": "Un câmp funerar de importanță arheologică din secolul al V-lea.",
+                  "category": "historical",
+                  "coords": [
+                        6.741903,
+                        52.793834
+                  ]
+            },
+            {
+                  "name": "Galgenberg",
+                  "text": "Un sit arheologic care cuprinde un tumul istoric.",
+                  "category": "historical",
+                  "coords": [
+                        6.771195,
+                        52.814578
+                  ]
+            },
+            {
+                  "name": "Albertdina",
+                  "text": "O moară de vânt istorică din anul 1906, situată în Noord-Sleen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802789,
+                        52.788095
+                  ]
+            },
+            {
+                  "name": "Jantina Hellingmolen",
+                  "text": "O moară de vânt olandeză tradițională în regiunea Drenthe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.714129,
+                        52.788408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hunebed D50 Noord-Sleen",
+                  "text": "A prehistoric megalithic tomb (hunebed) in the province of Drenthe.",
+                  "category": "historical",
+                  "coords": [
+                        6.787218,
+                        52.796066
+                  ]
+            },
+            {
+                  "name": "Hunebed D51 Noord-Sleen",
+                  "text": "A well-preserved megalithic tomb from the Funnelbeaker culture.",
+                  "category": "historical",
+                  "coords": [
+                        6.786506,
+                        52.794735
+                  ]
+            },
+            {
+                  "name": "Hunebed D49 Papeloze kerk",
+                  "text": "A restored megalithic tomb formerly used for clandestine religious services.",
+                  "category": "historical",
+                  "coords": [
+                        6.773862,
+                        52.820063
+                  ]
+            },
+            {
+                  "name": "Boswachterij Sleenerzand",
+                  "text": "An extensive forest area with hiking trails and archaeological treasures.",
+                  "category": "natural",
+                  "coords": [
+                        6.757886,
+                        52.827299
+                  ]
+            },
+            {
+                  "name": "Grafveld Prinses van Zweeloo",
+                  "text": "An archaeologically significant burial ground from the 5th century.",
+                  "category": "historical",
+                  "coords": [
+                        6.741903,
+                        52.793834
+                  ]
+            },
+            {
+                  "name": "Galgenberg",
+                  "text": "An archaeological site encompassing a historic burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        6.771195,
+                        52.814578
+                  ]
+            },
+            {
+                  "name": "Albertdina",
+                  "text": "A historic windmill dating from 1906 located in Noord-Sleen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802789,
+                        52.788095
+                  ]
+            },
+            {
+                  "name": "Jantina Hellingmolen",
+                  "text": "A traditional Dutch windmill in the Drenthe region.",
+                  "category": "landmark",
+                  "coords": [
+                        6.714129,
+                        52.788408
+                  ]
+            }
+      ]
+}, type: "historical", parent: "NL-DR", coords: [6.7500, 52.8000],
     name: { de: "Hünengräber in Drenthe", hu: "Drenthei Hunebedden", ro: "Mormintele megalitice din Drenthe", en: "Hunebedden in Drenthe" },
     image: "/geo-images/netherlands/drenthe-hunebed.webp",
     description: {

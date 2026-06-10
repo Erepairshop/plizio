@@ -93,7 +93,304 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-skibladner-steamer-landmarks-v2.webp",
   },
   {
-    id: "norway-hadeland-glassworks-landmarks-v2",
+    id: "norway-hadeland-glassworks-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Svenådalen naturreservat",
+                  "text": "Ein Naturschutzgebiet in Norwegen mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        10.439418,
+                        60.228116
+                  ]
+            },
+            {
+                  "name": "Fossen",
+                  "text": "Ein malerischer Wasserfall in der Nähe der Hadeland Glaswerke.",
+                  "category": "natural",
+                  "coords": [
+                        10.464602,
+                        60.218767
+                  ]
+            },
+            {
+                  "name": "Dælen naturreservat",
+                  "text": "Geschütztes Naturgebiet in der Gemeinde Jevnaker in Norwegen.",
+                  "category": "natural",
+                  "coords": [
+                        10.424201,
+                        60.220318
+                  ]
+            },
+            {
+                  "name": "Kistefosmuseet",
+                  "text": "Museum und Skulpturenpark auf dem Gelände einer ehemaligen Zellstofffabrik.",
+                  "category": "museum",
+                  "coords": [
+                        10.369104,
+                        60.222349
+                  ]
+            },
+            {
+                  "name": "Haugerstranda",
+                  "text": "Ein lokaler Strand am Ufer des Randsfjords in Norwegen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.406199,
+                        60.24391
+                  ]
+            },
+            {
+                  "name": "Randsfjord badepark",
+                  "text": "Ein Wasserpark am Randsfjord, ideal für Familienaktivitäten im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        10.40539,
+                        60.245497
+                  ]
+            },
+            {
+                  "name": "Haugerbakken",
+                  "text": "Historische Überreste alter Bauten in der Region Hadeland.",
+                  "category": "historical",
+                  "coords": [
+                        10.430938,
+                        60.233248
+                  ]
+            },
+            {
+                  "name": "Randsfjord kirke",
+                  "text": "Eine Holzkirche in der Nähe des Randsfjords in der Gemeinde Jevnaker.",
+                  "category": "religious",
+                  "coords": [
+                        10.381771,
+                        60.23801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svenådalen naturreservat",
+                  "text": "Természetvédelmi terület Norvégiában, változatos élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        10.439418,
+                        60.228116
+                  ]
+            },
+            {
+                  "name": "Fossen",
+                  "text": "Gleccservíz táplálta vízesés a Hadeland üveggyár közelében.",
+                  "category": "natural",
+                  "coords": [
+                        10.464602,
+                        60.218767
+                  ]
+            },
+            {
+                  "name": "Dælen naturreservat",
+                  "text": "Védett természeti terület a norvégiai Jevnaker községben.",
+                  "category": "natural",
+                  "coords": [
+                        10.424201,
+                        60.220318
+                  ]
+            },
+            {
+                  "name": "Kistefosmuseet",
+                  "text": "Múzeum és szoborpark egy egykori cellulózgyár területén.",
+                  "category": "museum",
+                  "coords": [
+                        10.369104,
+                        60.222349
+                  ]
+            },
+            {
+                  "name": "Haugerstranda",
+                  "text": "Helyi strand a norvégiai Randsfjord-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.406199,
+                        60.24391
+                  ]
+            },
+            {
+                  "name": "Randsfjord badepark",
+                  "text": "Vízi vidámpark a Randsfjord-tónál, ideális nyári családi kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.40539,
+                        60.245497
+                  ]
+            },
+            {
+                  "name": "Haugerbakken",
+                  "text": "Régi építmények történelmi maradványai Hadeland régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        10.430938,
+                        60.233248
+                  ]
+            },
+            {
+                  "name": "Randsfjord kirke",
+                  "text": "Egy fatemplom a Randsfjord közelében, Jevnaker községben.",
+                  "category": "religious",
+                  "coords": [
+                        10.381771,
+                        60.23801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svenådalen naturreservat",
+                  "text": "O rezervație naturală în Norvegia, cunoscută pentru flora și fauna sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        10.439418,
+                        60.228116
+                  ]
+            },
+            {
+                  "name": "Fossen",
+                  "text": "O cascadă pitorească situată în apropierea fabricii de sticlă Hadeland.",
+                  "category": "natural",
+                  "coords": [
+                        10.464602,
+                        60.218767
+                  ]
+            },
+            {
+                  "name": "Dælen naturreservat",
+                  "text": "Zonă naturală protejată situată în comuna Jevnaker din Norvegia.",
+                  "category": "natural",
+                  "coords": [
+                        10.424201,
+                        60.220318
+                  ]
+            },
+            {
+                  "name": "Kistefosmuseet",
+                  "text": "Muzeu și parc de sculptură situat pe locul unei foste fabrici de celuloză.",
+                  "category": "museum",
+                  "coords": [
+                        10.369104,
+                        60.222349
+                  ]
+            },
+            {
+                  "name": "Haugerstranda",
+                  "text": "O plajă locală situată pe malul lacului Randsfjord în Norvegia.",
+                  "category": "recreational",
+                  "coords": [
+                        10.406199,
+                        60.24391
+                  ]
+            },
+            {
+                  "name": "Randsfjord badepark",
+                  "text": "Un parc acvatic pe malul lacului Randsfjord, ideal pentru activități de familie vara.",
+                  "category": "recreational",
+                  "coords": [
+                        10.40539,
+                        60.245497
+                  ]
+            },
+            {
+                  "name": "Haugerbakken",
+                  "text": "Vestigii istorice ale unor vechi construcții în regiunea Hadeland.",
+                  "category": "historical",
+                  "coords": [
+                        10.430938,
+                        60.233248
+                  ]
+            },
+            {
+                  "name": "Randsfjord kirke",
+                  "text": "O biserică de lemn situată lângă lacul Randsfjord, în comuna Jevnaker.",
+                  "category": "religious",
+                  "coords": [
+                        10.381771,
+                        60.23801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svenådalen naturreservat",
+                  "text": "A nature reserve in Norway featuring diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        10.439418,
+                        60.228116
+                  ]
+            },
+            {
+                  "name": "Fossen",
+                  "text": "A picturesque waterfall located near the Hadeland Glassworks.",
+                  "category": "natural",
+                  "coords": [
+                        10.464602,
+                        60.218767
+                  ]
+            },
+            {
+                  "name": "Dælen naturreservat",
+                  "text": "Protected natural area located in the municipality of Jevnaker, Norway.",
+                  "category": "natural",
+                  "coords": [
+                        10.424201,
+                        60.220318
+                  ]
+            },
+            {
+                  "name": "Kistefosmuseet",
+                  "text": "Museum and sculpture park located on the site of a former pulp mill.",
+                  "category": "museum",
+                  "coords": [
+                        10.369104,
+                        60.222349
+                  ]
+            },
+            {
+                  "name": "Haugerstranda",
+                  "text": "A local beach situated on the shores of Lake Randsfjord in Norway.",
+                  "category": "recreational",
+                  "coords": [
+                        10.406199,
+                        60.24391
+                  ]
+            },
+            {
+                  "name": "Randsfjord badepark",
+                  "text": "A water park on Lake Randsfjord, ideal for summer family activities.",
+                  "category": "recreational",
+                  "coords": [
+                        10.40539,
+                        60.245497
+                  ]
+            },
+            {
+                  "name": "Haugerbakken",
+                  "text": "Historical remains of old structures in the Hadeland region.",
+                  "category": "historical",
+                  "coords": [
+                        10.430938,
+                        60.233248
+                  ]
+            },
+            {
+                  "name": "Randsfjord kirke",
+                  "text": "A wooden church located near Lake Randsfjord in the municipality of Jevnaker.",
+                  "category": "religious",
+                  "coords": [
+                        10.381771,
+                        60.23801
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "NO",
     name: { de: "Hadeland Glasverk", hu: "Hadeland Üveggyár", ro: "Fabrica de sticlă Hadeland", en: "Hadeland Glassworks" },
@@ -138,7 +435,304 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-hadeland-glassworks-landmarks-v2.webp",
   },
   {
-    id: "norway-vikersund-skijump-landmarks-v2",
+    id: "norway-vikersund-skijump-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sønstebybekken naturreservat",
+                  "text": "Ein geschütztes Naturschutzgebiet bei Vikersund, das das lokale Ökosystem bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        10.001537,
+                        59.911378
+                  ]
+            },
+            {
+                  "name": "Vassbunn naturreservat",
+                  "text": "Ein malerisches Naturschutzgebiet in der Region Vikersund.",
+                  "category": "natural",
+                  "coords": [
+                        9.970488,
+                        59.919714
+                  ]
+            },
+            {
+                  "name": "Vikersund-Bergsjø biotopvernområde",
+                  "text": "Ein geschütztes Biotopgebiet bei Vikersund, das der Erhaltung von Lebensräumen gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.990375,
+                        59.949622
+                  ]
+            },
+            {
+                  "name": "Krøderbanen",
+                  "text": "Ein Museumsbahn-Museum bei Vikersund, das historische Zugfahrten anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.997967,
+                        59.96898
+                  ]
+            },
+            {
+                  "name": "Tyrifjord hotell",
+                  "text": "Ein Strandbereich am Hotel am Ufer des Tyrifjord-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        10.010189,
+                        59.968611
+                  ]
+            },
+            {
+                  "name": "Hovlandsvarden",
+                  "text": "Ein Aussichtspunkt bei Vikersund, der einen Panoramablick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.065877,
+                        59.926609
+                  ]
+            },
+            {
+                  "name": "Vikersund Skiflygingsbakke",
+                  "text": "Eine der weltgrößten Skiflugschanzen, eine bedeutende Sportstätte in Vikersund.",
+                  "category": "landmark",
+                  "coords": [
+                        10.002344,
+                        59.938764
+                  ]
+            },
+            {
+                  "name": "Heggen kirke",
+                  "text": "Eine historische Pfarrkirche, die der Gemeinde in der Region Vikersund dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.000883,
+                        59.940883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sønstebybekken naturreservat",
+                  "text": "Védett természetvédelmi terület Vikersund közelében, amely a helyi ökoszisztémát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        10.001537,
+                        59.911378
+                  ]
+            },
+            {
+                  "name": "Vassbunn naturreservat",
+                  "text": "Festői természetvédelmi terület Vikersund környékén.",
+                  "category": "natural",
+                  "coords": [
+                        9.970488,
+                        59.919714
+                  ]
+            },
+            {
+                  "name": "Vikersund-Bergsjø biotopvernområde",
+                  "text": "Védett biotópterület Vikersund közelében, az élőhelyek megőrzésére kijelölve.",
+                  "category": "natural",
+                  "coords": [
+                        9.990375,
+                        59.949622
+                  ]
+            },
+            {
+                  "name": "Krøderbanen",
+                  "text": "Vasúti múzeum Vikersund közelében, amely történelmi vonatutazásokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        9.997967,
+                        59.96898
+                  ]
+            },
+            {
+                  "name": "Tyrifjord hotell",
+                  "text": "A tóparti szállodához kapcsolódó strand a Tyrifjorden partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.010189,
+                        59.968611
+                  ]
+            },
+            {
+                  "name": "Hovlandsvarden",
+                  "text": "Kilátópont Vikersund közelében, amely panorámás kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        10.065877,
+                        59.926609
+                  ]
+            },
+            {
+                  "name": "Vikersund Skiflygingsbakke",
+                  "text": "A világ egyik legnagyobb sírepülő sánca, jelentős sportlétesítmény Vikersundban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.002344,
+                        59.938764
+                  ]
+            },
+            {
+                  "name": "Heggen kirke",
+                  "text": "Történelmi plébániatemplom, amely a vikersundi régió közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        10.000883,
+                        59.940883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sønstebybekken naturreservat",
+                  "text": "O rezervație naturală protejată lângă Vikersund, care conservă ecosistemul local.",
+                  "category": "natural",
+                  "coords": [
+                        10.001537,
+                        59.911378
+                  ]
+            },
+            {
+                  "name": "Vassbunn naturreservat",
+                  "text": "O rezervație naturală pitorească situată în zona Vikersund.",
+                  "category": "natural",
+                  "coords": [
+                        9.970488,
+                        59.919714
+                  ]
+            },
+            {
+                  "name": "Vikersund-Bergsjø biotopvernområde",
+                  "text": "O zonă de biotop protejată lângă Vikersund, dedicată conservării habitatelor.",
+                  "category": "natural",
+                  "coords": [
+                        9.990375,
+                        59.949622
+                  ]
+            },
+            {
+                  "name": "Krøderbanen",
+                  "text": "Un muzeu feroviar lângă Vikersund, care oferă plimbări cu trenuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        9.997967,
+                        59.96898
+                  ]
+            },
+            {
+                  "name": "Tyrifjord hotell",
+                  "text": "O zonă de plajă asociată cu hotelul de pe malul lacului Tyrifjorden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.010189,
+                        59.968611
+                  ]
+            },
+            {
+                  "name": "Hovlandsvarden",
+                  "text": "Un punct de belvedere lângă Vikersund care oferă vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        10.065877,
+                        59.926609
+                  ]
+            },
+            {
+                  "name": "Vikersund Skiflygingsbakke",
+                  "text": "Una dintre cele mai mari trambuline de zbor cu schiurile din lume, o bază sportivă majoră în Vikersund.",
+                  "category": "landmark",
+                  "coords": [
+                        10.002344,
+                        59.938764
+                  ]
+            },
+            {
+                  "name": "Heggen kirke",
+                  "text": "O biserică parohială istorică ce servește comunitatea din regiunea Vikersund.",
+                  "category": "religious",
+                  "coords": [
+                        10.000883,
+                        59.940883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sønstebybekken naturreservat",
+                  "text": "A protected nature reserve near Vikersund, preserving the local ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        10.001537,
+                        59.911378
+                  ]
+            },
+            {
+                  "name": "Vassbunn naturreservat",
+                  "text": "A scenic nature reserve located in the Vikersund area.",
+                  "category": "natural",
+                  "coords": [
+                        9.970488,
+                        59.919714
+                  ]
+            },
+            {
+                  "name": "Vikersund-Bergsjø biotopvernområde",
+                  "text": "A protected biotope area near Vikersund, dedicated to habitat conservation.",
+                  "category": "natural",
+                  "coords": [
+                        9.990375,
+                        59.949622
+                  ]
+            },
+            {
+                  "name": "Krøderbanen",
+                  "text": "A heritage railway museum offering historic train rides near Vikersund.",
+                  "category": "museum",
+                  "coords": [
+                        9.997967,
+                        59.96898
+                  ]
+            },
+            {
+                  "name": "Tyrifjord hotell",
+                  "text": "A beach area associated with the hotel on the shores of Lake Tyrifjorden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.010189,
+                        59.968611
+                  ]
+            },
+            {
+                  "name": "Hovlandsvarden",
+                  "text": "A viewpoint near Vikersund offering panoramic vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.065877,
+                        59.926609
+                  ]
+            },
+            {
+                  "name": "Vikersund Skiflygingsbakke",
+                  "text": "One of the world's largest ski flying hills, a major sports venue in Vikersund.",
+                  "category": "landmark",
+                  "coords": [
+                        10.002344,
+                        59.938764
+                  ]
+            },
+            {
+                  "name": "Heggen kirke",
+                  "text": "A historic parish church serving the community in the Vikersund region.",
+                  "category": "religious",
+                  "coords": [
+                        10.000883,
+                        59.940883
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Skiflugschanze Vikersund", hu: "Vikersundi sírepülő sánc", ro: "Trambulina de zbor cu schiurile Vikersund", en: "Vikersund Ski Flying Hill" },
@@ -183,7 +777,268 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-vikersund-skijump-landmarks-v2.webp",
   },
   {
-    id: "norway-festning-kongsvinger-landmarks-v2",
+    id: "norway-festning-kongsvinger-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Eine historische Festung in Norwegen mit Blick auf die Stadt Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "Eine historische Schanze, die zur Verteidigungsanlage von Kongsvinger gehört.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Ein historisches Gebäude und Museum in der Nähe der Festung Kongsvinger.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Museum zur Lokalgeschichte der Region Kongsvinger.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Ein Kultur- und Kinozentrum in Kongsvinger.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Ein Museum in Kongsvinger, das der Rolle der Frau in der Gesellschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "Ein Kunst- und Kulturzentrum in der Nähe der Festung Kongsvinger.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "Történelmi erőd Norvégiában, kilátással Kongsvinger városára.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "Kongsvinger védelmi rendszeréhez tartozó történelmi sánc.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "Történelmi épület és múzeum a kongsvingeri erőd közelében.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Kongsvinger régió helytörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Kulturális és moziközpont Kongsvingerben.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Kongsvingeri múzeum, amely a nők társadalmi szerepének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "Művészeti és kulturális központ a kongsvingeri erőd közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "O fortăreață istorică din Norvegia care domină orașul Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "O fortificație istorică ce face parte din sistemul de apărare al Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "O clădire istorică și un muzeu situat lângă fortăreața Kongsvinger.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Muzeu dedicat istoriei locale a regiunii Kongsvinger.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "Un centru cultural și cinematografic în Kongsvinger.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "Un muzeu din Kongsvinger dedicat rolului femeii în societate.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "Un centru de artă și cultură situat lângă fortăreața Kongsvinger.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kongsvinger festning",
+                  "text": "A historic fortress in Norway overlooking the town of Kongsvinger.",
+                  "category": "fortress",
+                  "coords": [
+                        12.011818,
+                        60.199422
+                  ]
+            },
+            {
+                  "name": "Tråstad skanse",
+                  "text": "A historic entrenchment belonging to the Kongsvinger defense system.",
+                  "category": "fortress",
+                  "coords": [
+                        12.023089,
+                        60.193192
+                  ]
+            },
+            {
+                  "name": "Aamodtgården",
+                  "text": "A historic building and museum located near the Kongsvinger Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        12.010404,
+                        60.197832
+                  ]
+            },
+            {
+                  "name": "Kongsvinger museum",
+                  "text": "Museum dedicated to the local history of the Kongsvinger region.",
+                  "category": "museum",
+                  "coords": [
+                        12.012037,
+                        60.197643
+                  ]
+            },
+            {
+                  "name": "Rådhusteatret Kongsvinger - kino",
+                  "text": "A cultural and cinema center in Kongsvinger.",
+                  "category": "cultural",
+                  "coords": [
+                        11.999663,
+                        60.19149
+                  ]
+            },
+            {
+                  "name": "Kvinnemuseet",
+                  "text": "A museum in Kongsvinger dedicated to the role of women in society.",
+                  "category": "museum",
+                  "coords": [
+                        12.004494,
+                        60.198093
+                  ]
+            },
+            {
+                  "name": "SceneU",
+                  "text": "An arts and culture center located near the Kongsvinger Fortress.",
+                  "category": "cultural",
+                  "coords": [
+                        12.00121,
+                        60.19018
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Festung Kongsvinger", hu: "Kongsvingeri erőd", ro: "Fortăreața Kongsvinger", en: "Kongsvinger Fortress" },
@@ -318,7 +1173,232 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-st-olav-church-landmarks-v2.webp",
   },
   {
-    id: "norway-nordkapphallen-landmarks-v2",
+    id: "norway-nordkapphallen-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Ein Museum am Nordkap, das an den Besuch des thailändischen Königs Chulalongkorn im Jahr 1907 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Besucherzentrum Nordkaphalle",
+                  "text": "Das Besucherzentrum am Nordkap mit Ausstellungen, Kino und touristischen Einrichtungen.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Nordkap",
+                  "text": "Ein markantes Schieferplateau in Nordnorwegen, das oft als nördlichster Punkt Europas bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "Meridiankugel",
+                  "text": "Ein berühmtes Denkmal am Nordkap, das die Erde darstellt und ein beliebtes Fotomotiv ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Ein Aussichtspunkt in der Nähe des Nordkaps mit weitem Blick über das Eismeer.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Ein malerischer Aussichtspunkt in der Umgebung des Nordkaps.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Múzeum az Északi-foknál, amely Csulalongkorn thai király 1907-es látogatásának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Északi-fok Látogatóközpont",
+                  "text": "Az Északi-fok látogatóközpontja kiállításokkal, mozival és turisztikai szolgáltatásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Északi-fok",
+                  "text": "Jellegzetes palafennsík Észak-Norvégiában, amelyet gyakran Európa legészakibb pontjaként emlegetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "Földgömb",
+                  "text": "Híres emlékmű az Északi-foknál, amely a földgömböt ábrázolja és népszerű fotóhelyszín.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Kilátópont az Északi-fok közelében, tágas kilátással a Jeges-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Festői kilátóhely az Északi-fok környékén.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "Un muzeu la Capul Nord ce comemorează vizita regelui Thailandei, Chulalongkorn, din 1907.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Nordkapphallen",
+                  "text": "Centrul pentru vizitatori de la Capul Nord, oferind expoziții, cinema și facilități turistice.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "Nordkapp",
+                  "text": "Un platou de ardezie proeminent în nordul Norvegiei, considerat adesea cel mai nordic punct al Europei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "The Globe",
+                  "text": "Un monument faimos la Capul Nord care reprezintă globul pământesc, fiind un loc popular pentru fotografii.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "Un punct de observație lângă Capul Nord, oferind vederi largi asupra Oceanului Arctic.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "Un punct panoramic pitoresc în împrejurimile Capului Nord.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Thai Museum at Nordkapp",
+                  "text": "A museum at the North Cape commemorating the 1907 visit of King Chulalongkorn of Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        25.78449,
+                        71.170477
+                  ]
+            },
+            {
+                  "name": "Visitor Centre North Cape Hall",
+                  "text": "The visitor center at the North Cape featuring exhibitions, a cinema, and tourist facilities.",
+                  "category": "museum",
+                  "coords": [
+                        25.783411,
+                        71.169818
+                  ]
+            },
+            {
+                  "name": "North Cape",
+                  "text": "A prominent slate plateau in northern Norway, often cited as the northernmost point of Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785889,
+                        71.169951
+                  ]
+            },
+            {
+                  "name": "The Globe",
+                  "text": "A famous monument at the North Cape representing the globe, serving as a popular photo spot.",
+                  "category": "historical",
+                  "coords": [
+                        25.783071,
+                        71.17101
+                  ]
+            },
+            {
+                  "name": "Stor-Kappa",
+                  "text": "A viewpoint near the North Cape offering expansive views over the Arctic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        25.797778,
+                        71.164444
+                  ]
+            },
+            {
+                  "name": "Kings View",
+                  "text": "A scenic viewpoint located in the surroundings of the North Cape.",
+                  "category": "natural",
+                  "coords": [
+                        25.785393,
+                        71.170941
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Nordkapphallen", hu: "Északi-fok csarnok", ro: "Centrul Nordkapphallen", en: "North Cape Hall" },
@@ -813,7 +1893,304 @@ export const norwayLandmarksV2: POI[] = [
     image: "/poi-images/norway-trondheim-fortress-landmarks-v2.webp",
   },
   {
-    id: "norway-flam-railway-landmarks-v2",
+    id: "norway-flam-railway-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hund",
+                  "text": "Ein Naturufer am Flåmselvi-Fluss entlang der Flåmbahn-Strecke.",
+                  "category": "recreational",
+                  "coords": [
+                        7.153581,
+                        60.884011
+                  ]
+            },
+            {
+                  "name": "Flåmsbanamuseet",
+                  "text": "Museum zur Geschichte und zum Bau der berühmten Flåmbahn.",
+                  "category": "museum",
+                  "coords": [
+                        7.113263,
+                        60.862654
+                  ]
+            },
+            {
+                  "name": "Ægir bryggeri",
+                  "text": "Eine bekannte Brauerei in Flåm, gebaut im Stil einer Stabkirche.",
+                  "category": "landmark",
+                  "coords": [
+                        7.117113,
+                        60.863785
+                  ]
+            },
+            {
+                  "name": "Brekkefossen",
+                  "text": "Ein Aussichtspunkt mit Blick auf den imposanten Brekkefossen-Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        7.101501,
+                        60.851819
+                  ]
+            },
+            {
+                  "name": "Otternes Bygdetun",
+                  "text": "Ein historischer Bauernhofkomplex mit traditionellen Gebäuden in der Nähe der Flåmbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148958,
+                        60.87548
+                  ]
+            },
+            {
+                  "name": "Kvernhus",
+                  "text": "Ein traditionelles Mühlenhaus in der malerischen Landschaft entlang der Flåmbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114833,
+                        60.849567
+                  ]
+            },
+            {
+                  "name": "Leina Gorge",
+                  "text": "Eine beeindruckende Schlucht, die weite Ausblicke über die Berglandschaft von Flåm bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.116908,
+                        60.830851
+                  ]
+            },
+            {
+                  "name": "standing stone",
+                  "text": "Ein prähistorischer Menhir, der als historisches Denkmal an der Flåmbahn steht.",
+                  "category": "landmark",
+                  "coords": [
+                        7.112265,
+                        60.851833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hund",
+                  "text": "Természetes folyópart a Flåmselvi mentén, a Flåm-vasút vonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        7.153581,
+                        60.884011
+                  ]
+            },
+            {
+                  "name": "Flåmsbanamuseet",
+                  "text": "Múzeum a híres Flåm-vasút történetéről és építéséről.",
+                  "category": "museum",
+                  "coords": [
+                        7.113263,
+                        60.862654
+                  ]
+            },
+            {
+                  "name": "Ægir bryggeri",
+                  "text": "Népszerű sörfőzde Flåmban, amely fatemplom stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        7.117113,
+                        60.863785
+                  ]
+            },
+            {
+                  "name": "Brekkefossen",
+                  "text": "Kilátóhely az impozáns Brekkefossen-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        7.101501,
+                        60.851819
+                  ]
+            },
+            {
+                  "name": "Otternes Bygdetun",
+                  "text": "Történelmi tanyaegyüttes hagyományos épületekkel a Flåm-vasút közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148958,
+                        60.87548
+                  ]
+            },
+            {
+                  "name": "Kvernhus",
+                  "text": "Hagyományos malomház a Flåm-vasút menti festői környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114833,
+                        60.849567
+                  ]
+            },
+            {
+                  "name": "Leina Gorge",
+                  "text": "Lenyűgöző szurdok, amely tágas kilátást nyújt Flåm hegyvidéki tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        7.116908,
+                        60.830851
+                  ]
+            },
+            {
+                  "name": "standing stone",
+                  "text": "Prehisztorikus menhir, amely történelmi emlékként áll a Flåm-vasút mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.112265,
+                        60.851833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hund",
+                  "text": "O zonă de mal natural de-a lungul râului Flåmselvi, pe traseul căii ferate Flåm.",
+                  "category": "recreational",
+                  "coords": [
+                        7.153581,
+                        60.884011
+                  ]
+            },
+            {
+                  "name": "Flåmsbanamuseet",
+                  "text": "Muzeu dedicat istoriei și construcției faimoasei căi ferate Flåm.",
+                  "category": "museum",
+                  "coords": [
+                        7.113263,
+                        60.862654
+                  ]
+            },
+            {
+                  "name": "Ægir bryggeri",
+                  "text": "O berărie renumită din Flåm, construită în stilul unei biserici de lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.117113,
+                        60.863785
+                  ]
+            },
+            {
+                  "name": "Brekkefossen",
+                  "text": "Punct de observație cu vedere la impresionanta cascadă Brekkefossen.",
+                  "category": "natural",
+                  "coords": [
+                        7.101501,
+                        60.851819
+                  ]
+            },
+            {
+                  "name": "Otternes Bygdetun",
+                  "text": "Un complex istoric de ferme cu clădiri tradiționale lângă calea ferată Flåm.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148958,
+                        60.87548
+                  ]
+            },
+            {
+                  "name": "Kvernhus",
+                  "text": "O moară tradițională situată în peisajul pitoresc de-a lungul căii ferate Flåm.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114833,
+                        60.849567
+                  ]
+            },
+            {
+                  "name": "Leina Gorge",
+                  "text": "Un defileu impresionant care oferă vederi panoramice asupra peisajului montan din Flåm.",
+                  "category": "natural",
+                  "coords": [
+                        7.116908,
+                        60.830851
+                  ]
+            },
+            {
+                  "name": "standing stone",
+                  "text": "Un menhir preistoric ce servește ca monument istoric de-a lungul căii ferate Flåm.",
+                  "category": "landmark",
+                  "coords": [
+                        7.112265,
+                        60.851833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hund",
+                  "text": "A natural riverside area along the Flåmselvi river on the Flåm Railway route.",
+                  "category": "recreational",
+                  "coords": [
+                        7.153581,
+                        60.884011
+                  ]
+            },
+            {
+                  "name": "Flåmsbanamuseet",
+                  "text": "Museum dedicated to the history and construction of the famous Flåm Railway.",
+                  "category": "museum",
+                  "coords": [
+                        7.113263,
+                        60.862654
+                  ]
+            },
+            {
+                  "name": "Ægir bryggeri",
+                  "text": "A well-known brewery in Flåm, built in the style of a stave church.",
+                  "category": "landmark",
+                  "coords": [
+                        7.117113,
+                        60.863785
+                  ]
+            },
+            {
+                  "name": "Brekkefossen",
+                  "text": "A viewpoint overlooking the impressive Brekkefossen waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        7.101501,
+                        60.851819
+                  ]
+            },
+            {
+                  "name": "Otternes Bygdetun",
+                  "text": "A historical farm complex with traditional buildings located near the Flåm Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148958,
+                        60.87548
+                  ]
+            },
+            {
+                  "name": "Kvernhus",
+                  "text": "A traditional mill house situated in the scenic landscape along the Flåm Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.114833,
+                        60.849567
+                  ]
+            },
+            {
+                  "name": "Leina Gorge",
+                  "text": "An impressive gorge offering expansive views over the mountainous landscape of Flåm.",
+                  "category": "natural",
+                  "coords": [
+                        7.116908,
+                        60.830851
+                  ]
+            },
+            {
+                  "name": "standing stone",
+                  "text": "A prehistoric standing stone serving as a historical monument along the Flåm Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.112265,
+                        60.851833
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Flåmbahn", hu: "Flåm vasút", ro: "Calea ferată Flåm", en: "Flåm Railway" },

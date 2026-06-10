@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const portugalNatureV2: POI[] = [
 
   {
-    id: "portugal-serra-do-marao-nature-v2",
+    id: "portugal-serra-do-marao-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minas do Teixo",
+                  "text": "Historische Abbaustätte und archäologische Überreste in der Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910936,
+                        41.231219
+                  ]
+            },
+            {
+                  "name": "Alto das Veias",
+                  "text": "Ein Berggipfel mit malerischer Aussicht innerhalb des Serra do Marão-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.9167,
+                        41.2722
+                  ]
+            },
+            {
+                  "name": "Minas de Fonte Figueira",
+                  "text": "Ruinen einer alten Bergbauinfrastruktur im Serra do Marão-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        -7.954801,
+                        41.281608
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora de Moreira",
+                  "text": "Ein Panoramaaussichtspunkt mit Blick auf die Landschaften der Serra do Marão.",
+                  "category": "natural",
+                  "coords": [
+                        -7.95496,
+                        41.261987
+                  ]
+            },
+            {
+                  "name": "Menir de Candemil",
+                  "text": "Prähistorische archäologische Überreste in der Region Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.96568,
+                        41.235482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minas do Teixo",
+                  "text": "Történelmi bányahely és régészeti maradványok a Serra do Marão hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910936,
+                        41.231219
+                  ]
+            },
+            {
+                  "name": "Alto das Veias",
+                  "text": "Hegyi csúcs a Serra do Marão hegységben, festői kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.9167,
+                        41.2722
+                  ]
+            },
+            {
+                  "name": "Minas de Fonte Figueira",
+                  "text": "Egy régi bányászati infrastruktúra romjai a Serra do Marão hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.954801,
+                        41.281608
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora de Moreira",
+                  "text": "Panorámás kilátóhely, ahonnan rálátni a Serra do Marão tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -7.95496,
+                        41.261987
+                  ]
+            },
+            {
+                  "name": "Menir de Candemil",
+                  "text": "Őskori régészeti maradványok a Serra do Marão régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.96568,
+                        41.235482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minas do Teixo",
+                  "text": "Sit minier istoric și vestigii arheologice în Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910936,
+                        41.231219
+                  ]
+            },
+            {
+                  "name": "Alto das Veias",
+                  "text": "Un vârf montan care oferă vederi panoramice în lanțul muntos Serra do Marão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.9167,
+                        41.2722
+                  ]
+            },
+            {
+                  "name": "Minas de Fonte Figueira",
+                  "text": "Ruinele unei vechi infrastructuri miniere din munții Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.954801,
+                        41.281608
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora de Moreira",
+                  "text": "Un punct de belvedere panoramic cu vedere la peisajele din Serra do Marão.",
+                  "category": "natural",
+                  "coords": [
+                        -7.95496,
+                        41.261987
+                  ]
+            },
+            {
+                  "name": "Menir de Candemil",
+                  "text": "Vestigii arheologice preistorice situate în regiunea Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.96568,
+                        41.235482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minas do Teixo",
+                  "text": "Historical mining site and archaeological remains in the Serra do Marão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910936,
+                        41.231219
+                  ]
+            },
+            {
+                  "name": "Alto das Veias",
+                  "text": "A mountain peak providing scenic views within the Serra do Marão range.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.9167,
+                        41.2722
+                  ]
+            },
+            {
+                  "name": "Minas de Fonte Figueira",
+                  "text": "Ruins of an old mining infrastructure in the Serra do Marão mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -7.954801,
+                        41.281608
+                  ]
+            },
+            {
+                  "name": "Miradouro da Senhora de Moreira",
+                  "text": "A panoramic viewpoint overlooking the landscapes of the Serra do Marão.",
+                  "category": "natural",
+                  "coords": [
+                        -7.95496,
+                        41.261987
+                  ]
+            },
+            {
+                  "name": "Menir de Candemil",
+                  "text": "Prehistoric archaeological remains located in the Serra do Marão region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.96568,
+                        41.235482
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Marão", hu: "Serra do Marão", ro: "Serra do Marão", en: "Serra do Marão" },
@@ -48,7 +237,52 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-serra-do-marao-nature-v2.webp",
   },
   {
-    id: "portugal-lagoa-da-pampilhosa-nature-v2",
+    id: "portugal-lagoa-da-pampilhosa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baloiço de Praçais",
+                  "text": "Eine Panoramaschaukel in Praçais mit Blick auf die umliegende Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.910787,
+                        40.093584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baloiço de Praçais",
+                  "text": "Panorámás hinta Praçais-ban, kilátással a környező természetre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.910787,
+                        40.093584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baloiço de Praçais",
+                  "text": "Un leagăn panoramic în Praçais, cu vedere la natura înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.910787,
+                        40.093584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baloiço de Praçais",
+                  "text": "A panoramic swing in Praçais offering views of the surrounding nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.910787,
+                        40.093584
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PT",
     name: { de: "Lagoa da Pampilhosa", hu: "Lagoa da Pampilhosa", ro: "Lagoa da Pampilhosa", en: "Lagoa da Pampilhosa" },
@@ -93,7 +327,304 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-lagoa-da-pampilhosa-nature-v2.webp",
   },
   {
-    id: "portugal-rio-tamega-nature-v2",
+    id: "portugal-rio-tamega-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torre de Nevões",
+                  "text": "Die Überreste eines mittelalterlichen Turms in der Nähe des Flusses Tâmega.",
+                  "category": "castle",
+                  "coords": [
+                        -8.108137,
+                        41.194665
+                  ]
+            },
+            {
+                  "name": "Área Arqueológica do Freixo",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte einer römischen Stadt am Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147138,
+                        41.162591
+                  ]
+            },
+            {
+                  "name": "Castro Soalhão",
+                  "text": "Eine prähistorische befestigte Siedlung auf einer Anhöhe in der Tâmega-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.102157,
+                        41.141118
+                  ]
+            },
+            {
+                  "name": "Mamoa 1 do Chão de Carvalhal - Cruz de Ferro",
+                  "text": "Eine neolithische Grabkammer in der archäologischen Landschaft des Tâmega-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        -8.101339,
+                        41.148997
+                  ]
+            },
+            {
+                  "name": "Praia da Pontinha",
+                  "text": "Ein Strand am Fluss Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.132076,
+                        41.197183
+                  ]
+            },
+            {
+                  "name": "Museu Carmem Miranda",
+                  "text": "Ein Museum am Fluss Tâmega, das dem Leben der Künstlerin Carmen Miranda gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.148885,
+                        41.186747
+                  ]
+            },
+            {
+                  "name": "Torre da Pena",
+                  "text": "Ein historischer Turm und eine Burgruine in der Nähe des Flusses Tâmega.",
+                  "category": "castle",
+                  "coords": [
+                        -8.112151,
+                        41.197101
+                  ]
+            },
+            {
+                  "name": "Castro de Santiago",
+                  "text": "Eine archäologische Ausgrabungsstätte einer alten befestigten Siedlung am Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.082045,
+                        41.180368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torre de Nevões",
+                  "text": "Középkori torony maradványai a Tâmega-folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.108137,
+                        41.194665
+                  ]
+            },
+            {
+                  "name": "Área Arqueológica do Freixo",
+                  "text": "Jelentős régészeti lelőhely egy római város maradványaival a Tâmega mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147138,
+                        41.162591
+                  ]
+            },
+            {
+                  "name": "Castro Soalhão",
+                  "text": "Prehisztorikus erődített település egy dombtetőn a Tâmega-régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.102157,
+                        41.141118
+                  ]
+            },
+            {
+                  "name": "Mamoa 1 do Chão de Carvalhal - Cruz de Ferro",
+                  "text": "Neolitikus sírkamra a Tâmega-folyó régészeti táján.",
+                  "category": "historical",
+                  "coords": [
+                        -8.101339,
+                        41.148997
+                  ]
+            },
+            {
+                  "name": "Praia da Pontinha",
+                  "text": "Egy strand a Tâmega-folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.132076,
+                        41.197183
+                  ]
+            },
+            {
+                  "name": "Museu Carmem Miranda",
+                  "text": "A Tâmega-folyónál található múzeum, amely Carmen Miranda életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.148885,
+                        41.186747
+                  ]
+            },
+            {
+                  "name": "Torre da Pena",
+                  "text": "Egy történelmi torony és várrom a Tâmega-folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.112151,
+                        41.197101
+                  ]
+            },
+            {
+                  "name": "Castro de Santiago",
+                  "text": "Egy ősi erődített település régészeti lelőhelye a Tâmega-folyónál.",
+                  "category": "historical",
+                  "coords": [
+                        -8.082045,
+                        41.180368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torre de Nevões",
+                  "text": "Vestigiile unui turn medieval situat în apropierea râului Tâmega.",
+                  "category": "castle",
+                  "coords": [
+                        -8.108137,
+                        41.194665
+                  ]
+            },
+            {
+                  "name": "Área Arqueológica do Freixo",
+                  "text": "Un sit arheologic important ce cuprinde vestigiile unui oraș roman de pe Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147138,
+                        41.162591
+                  ]
+            },
+            {
+                  "name": "Castro Soalhão",
+                  "text": "O așezare fortificată preistorică pe un deal din regiunea Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.102157,
+                        41.141118
+                  ]
+            },
+            {
+                  "name": "Mamoa 1 do Chão de Carvalhal - Cruz de Ferro",
+                  "text": "O cameră funerară neolitică în peisajul arheologic al râului Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.101339,
+                        41.148997
+                  ]
+            },
+            {
+                  "name": "Praia da Pontinha",
+                  "text": "O plajă situată de-a lungul râului Tâmega.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.132076,
+                        41.197183
+                  ]
+            },
+            {
+                  "name": "Museu Carmem Miranda",
+                  "text": "Un muzeu situat pe râul Tâmega, dedicat vieții artistei Carmen Miranda.",
+                  "category": "museum",
+                  "coords": [
+                        -8.148885,
+                        41.186747
+                  ]
+            },
+            {
+                  "name": "Torre da Pena",
+                  "text": "Un turn istoric și o ruină de castel în apropierea râului Tâmega.",
+                  "category": "castle",
+                  "coords": [
+                        -8.112151,
+                        41.197101
+                  ]
+            },
+            {
+                  "name": "Castro de Santiago",
+                  "text": "Un sit arheologic al unei vechi așezări fortificate de lângă râul Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.082045,
+                        41.180368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torre de Nevões",
+                  "text": "The remains of a medieval tower located near the Tâmega River.",
+                  "category": "castle",
+                  "coords": [
+                        -8.108137,
+                        41.194665
+                  ]
+            },
+            {
+                  "name": "Área Arqueológica do Freixo",
+                  "text": "A significant archaeological site featuring the remains of a Roman city by the Tâmega.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147138,
+                        41.162591
+                  ]
+            },
+            {
+                  "name": "Castro Soalhão",
+                  "text": "A prehistoric fortified settlement on a hilltop in the Tâmega region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.102157,
+                        41.141118
+                  ]
+            },
+            {
+                  "name": "Mamoa 1 do Chão de Carvalhal - Cruz de Ferro",
+                  "text": "A Neolithic burial chamber in the archaeological landscape of the Tâmega River.",
+                  "category": "historical",
+                  "coords": [
+                        -8.101339,
+                        41.148997
+                  ]
+            },
+            {
+                  "name": "Praia da Pontinha",
+                  "text": "A beach located along the Tâmega River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.132076,
+                        41.197183
+                  ]
+            },
+            {
+                  "name": "Museu Carmem Miranda",
+                  "text": "A museum located by the Tâmega River, dedicated to the life of artist Carmen Miranda.",
+                  "category": "museum",
+                  "coords": [
+                        -8.148885,
+                        41.186747
+                  ]
+            },
+            {
+                  "name": "Torre da Pena",
+                  "text": "A historic tower and castle ruin located near the Tâmega River.",
+                  "category": "castle",
+                  "coords": [
+                        -8.112151,
+                        41.197101
+                  ]
+            },
+            {
+                  "name": "Castro de Santiago",
+                  "text": "An archaeological site of an ancient fortified settlement by the Tâmega River.",
+                  "category": "historical",
+                  "coords": [
+                        -8.082045,
+                        41.180368
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PT",
     name: { de: "Rio Tâmega", hu: "Tâmega folyó", ro: "Râul Tâmega", en: "Tâmega River" },
@@ -183,7 +714,268 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-serra-da-lousa-nature-v2.webp",
   },
   {
-    id: "portugal-vale-do-rio-paiva-nature-v2",
+    id: "portugal-vale-do-rio-paiva-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Além do Barco",
+                  "text": "Ein Strandabschnitt im landschaftlich reizvollen Paiva-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.12896,
+                        40.921786
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Paradinha",
+                  "text": "Ein Flussstrand am Paiva, bekannt für seine natürliche Umgebung und klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.174464,
+                        40.934872
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "Ein beliebter Flussstrand im Paiva-Tal, oft Ausgangspunkt für Wanderungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Mira Paiva",
+                  "text": "Ein Aussichtspunkt im Paiva-Tal, der einen Panoramablick auf den Fluss bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.172581,
+                        40.93731
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Mourinha",
+                  "text": "Ein Ort im Paiva-Tal, an dem fossile Spuren prähistorischen Lebens zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.156326,
+                        40.919372
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Cabanas Longas",
+                  "text": "Eine paläontologische Fundstelle mit Ichnofossilien im Paiva-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.17341,
+                        40.942472
+                  ]
+            },
+            {
+                  "name": "Meandros do Paiva",
+                  "text": "Malerische Flusswindungen des Paiva, die wunderschöne Naturlandschaften bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.149216,
+                        40.9272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Além do Barco",
+                  "text": "Strandszakasz a festői Paiva-folyó völgyében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.12896,
+                        40.921786
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Paradinha",
+                  "text": "Folyóparti strand a Paiva mentén, amely természeti környezetéről és tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.174464,
+                        40.934872
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "Népszerű folyóparti strand a Paiva-völgyben, gyakran túrák kiindulópontja.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Mira Paiva",
+                  "text": "Kilátópont a Paiva-völgyben, ahonnan panorámás kilátás nyílik a folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.172581,
+                        40.93731
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Mourinha",
+                  "text": "Helyszín a Paiva-völgyben, ahol őskori élet fosszilis nyomai láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.156326,
+                        40.919372
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Cabanas Longas",
+                  "text": "Ősmaradványokat tartalmazó paleontológiai lelőhely a Paiva-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.17341,
+                        40.942472
+                  ]
+            },
+            {
+                  "name": "Meandros do Paiva",
+                  "text": "A Paiva-folyó festői kanyarulatai, amelyek gyönyörű természeti tájakat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.149216,
+                        40.9272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Além do Barco",
+                  "text": "O secțiune de plajă în valea pitorească a râului Paiva.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.12896,
+                        40.921786
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Paradinha",
+                  "text": "O plajă fluvială pe râul Paiva, cunoscută pentru cadrul natural și apa curată.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.174464,
+                        40.934872
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "O plajă fluvială populară în valea Paiva, adesea punct de plecare pentru drumeții.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Mira Paiva",
+                  "text": "Un punct de belvedere în valea Paiva, oferind o vedere panoramică asupra râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.172581,
+                        40.93731
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Mourinha",
+                  "text": "Un sit în valea Paiva unde pot fi văzute urme fosile ale vieții preistorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.156326,
+                        40.919372
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Cabanas Longas",
+                  "text": "Un sit paleontologic cu urme fosile situat în valea Paiva.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.17341,
+                        40.942472
+                  ]
+            },
+            {
+                  "name": "Meandros do Paiva",
+                  "text": "Coturi pitorești ale râului Paiva care oferă peisaje naturale frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.149216,
+                        40.9272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Além do Barco",
+                  "text": "A beach section located in the scenic Paiva River valley.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.12896,
+                        40.921786
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Paradinha",
+                  "text": "A river beach on the Paiva, known for its natural setting and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.174464,
+                        40.934872
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "A popular river beach in the Paiva valley, often a starting point for hikes.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Mira Paiva",
+                  "text": "A viewpoint in the Paiva valley offering a panoramic view of the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.172581,
+                        40.93731
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Mourinha",
+                  "text": "A site in the Paiva valley where fossil traces of prehistoric life can be seen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.156326,
+                        40.919372
+                  ]
+            },
+            {
+                  "name": "Icnofósseis de Cabanas Longas",
+                  "text": "A paleontological site featuring trace fossils located in the Paiva valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.17341,
+                        40.942472
+                  ]
+            },
+            {
+                  "name": "Meandros do Paiva",
+                  "text": "Scenic river bends of the Paiva River offering beautiful natural landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.149216,
+                        40.9272
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PT",
     name: { de: "Paiva-Tal", hu: "Paiva-völgy", ro: "Valea râului Paiva", en: "Paiva River Valley" },
@@ -228,7 +1020,232 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-vale-do-rio-paiva-nature-v2.webp",
   },
   {
-    id: "portugal-mata-da-margaraça-nature-v2",
+    id: "portugal-mata-da-margaraça-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geschützte Landschaft der Serra do Açor",
+                  "text": "Ein geschütztes Naturgebiet in Portugal, das für seine Artenvielfalt und bergige Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922816,
+                        40.216457
+                  ]
+            },
+            {
+                  "name": "Baloiço da Maria Negra",
+                  "text": "Eine Aussichtsschaukel in der Mata da Margaraça, die einen weiten Blick über das Schutzgebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.903889,
+                        40.253889
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Eine beliebte Schaukel für Besucher, die einen Panoramablick auf die umliegende Berglandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "Ein Flussstrand in der Region, der an heißen Tagen Erholung und Abkühlung in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Eine öffentliche Badeanlage, die Besuchern eine Erfrischungsmöglichkeit in der Nähe der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            },
+            {
+                  "name": "Parque de Merendas Cerdeira",
+                  "text": "Ein ruhiger Picknickplatz im Wald, ideal für eine Pause während einer Wanderung durch das Reservat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.922408,
+                        40.247945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paisagem Protegida da Serra do Açor",
+                  "text": "Védett természeti terület Portugáliában, amely biodiverzitásáról és hegyvidéki tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922816,
+                        40.216457
+                  ]
+            },
+            {
+                  "name": "Baloiço da Maria Negra",
+                  "text": "Kilátó hinta a Mata da Margaraça területén, amely tágas kilátást nyújt a védett területre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.903889,
+                        40.253889
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Népszerű hinta a látogatók számára, amely panorámás kilátást nyújt a környező hegyi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "Folyóparti strand a régióban, amely pihenést és felfrissülést kínál a természetben a forró napokon.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Nyilvános fürdőhely, amely frissítő lehetőséget kínál a látogatóknak a természet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            },
+            {
+                  "name": "Parque de Merendas Cerdeira",
+                  "text": "Csendes erdei piknikezőhely, ideális pihenőhely a rezervátumon keresztüli túrázás során.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.922408,
+                        40.247945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paisagem Protegida da Serra do Açor",
+                  "text": "O zonă naturală protejată în Portugalia, cunoscută pentru biodiversitatea și peisajul muntos.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922816,
+                        40.216457
+                  ]
+            },
+            {
+                  "name": "Baloiço da Maria Negra",
+                  "text": "Un leagăn panoramic în Mata da Margaraça, care oferă o vedere largă asupra zonei protejate.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.903889,
+                        40.253889
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Un leagăn popular pentru vizitatori, care oferă o vedere panoramică asupra peisajului montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "O plajă fluvială în regiune, care oferă relaxare și răcoare în natură în zilele toride.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "O zonă publică de înot care oferă vizitatorilor o opțiune de răcorire aproape de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            },
+            {
+                  "name": "Parque de Merendas Cerdeira",
+                  "text": "Un loc liniștit pentru picnic în pădure, ideal pentru o pauză în timpul unei drumeții prin rezervație.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.922408,
+                        40.247945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serra do Açor Protected Landscape",
+                  "text": "A protected natural area in Portugal, known for its biodiversity and mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.922816,
+                        40.216457
+                  ]
+            },
+            {
+                  "name": "Baloiço da Maria Negra",
+                  "text": "A scenic swing in Mata da Margaraça offering wide views over the protected area.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.903889,
+                        40.253889
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "A popular swing for visitors providing panoramic views of the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Agroal",
+                  "text": "A river beach in the region, offering relaxation and refreshment in nature on hot days.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.884034,
+                        40.264656
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "A public swimming area offering visitors a refreshing option close to nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            },
+            {
+                  "name": "Parque de Merendas Cerdeira",
+                  "text": "A quiet picnic spot in the woods, ideal for a break during a hike through the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.922408,
+                        40.247945
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "PT",
     name: { de: "Mata da Margaraça", hu: "Mata da Margaraça", ro: "Mata da Margaraça", en: "Mata da Margaraça" },
@@ -273,7 +1290,232 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-mata-da-margaraça-nature-v2.webp",
   },
   {
-    id: "portugal-serra-do-maroi-nature-v2",
+    id: "portugal-serra-do-maroi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa da Torre de Alvite",
+                  "text": "Ein historisches turmartiges Gebäude in Serra do Maroi, das als Schloss oder befestigtes Herrenhaus dient.",
+                  "category": "castle",
+                  "coords": [
+                        -8.000975,
+                        41.498229
+                  ]
+            },
+            {
+                  "name": "Casa do Tempo",
+                  "text": "Ein Museum in Serra do Maroi, das Exponate zur lokalen Zeitgeschichte und regionalen Entwicklung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992376,
+                        41.513365
+                  ]
+            },
+            {
+                  "name": "Centro Hípico",
+                  "text": "Ein Reitzentrum und Freizeitpark in Serra do Maroi, der verschiedene Aktivitäten rund um Pferde bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.996426,
+                        41.521457
+                  ]
+            },
+            {
+                  "name": "Casa da Música",
+                  "text": "Ein der Musik gewidmetes Museum in Serra do Maroi, das die lokale Musiktradition dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.998983,
+                        41.510685
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Abadim",
+                  "text": "Ein historischer Pranger in Serra do Maroi, der als Denkmal der ehemaligen lokalen Gerichtsbarkeit gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993203,
+                        41.539688
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Cabeceiras de Basto",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Cabeceiras de Basto in der Region Serra do Maroi.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993317,
+                        41.513809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa da Torre de Alvite",
+                  "text": "Történelmi toronyépület Serra do Maroi területén, amely kastélyként vagy megerősített udvarházként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -8.000975,
+                        41.498229
+                  ]
+            },
+            {
+                  "name": "Casa do Tempo",
+                  "text": "Múzeum Serra do Maroi településen, amely a helyi időszakos történelem és a régió fejlődésének emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992376,
+                        41.513365
+                  ]
+            },
+            {
+                  "name": "Centro Hípico",
+                  "text": "Lovas központ és élménypark Serra do Maroi településen, amely különféle lovas programokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.996426,
+                        41.521457
+                  ]
+            },
+            {
+                  "name": "Casa da Música",
+                  "text": "A zenének szentelt múzeum Serra do Maroi területén, amely a helyi zenei hagyományokat dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.998983,
+                        41.510685
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Abadim",
+                  "text": "Történelmi szégyenoszlop Serra do Maroi településen, amely a korábbi helyi igazságszolgáltatás emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993203,
+                        41.539688
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Cabeceiras de Basto",
+                  "text": "Cabeceiras de Basto város önkormányzati épülete a Serra do Maroi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993317,
+                        41.513809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa da Torre de Alvite",
+                  "text": "O clădire istorică de tip turn în Serra do Maroi, servind drept castel sau conac fortificat.",
+                  "category": "castle",
+                  "coords": [
+                        -8.000975,
+                        41.498229
+                  ]
+            },
+            {
+                  "name": "Casa do Tempo",
+                  "text": "Un muzeu în Serra do Maroi care prezintă exponate despre istoria locală și dezvoltarea regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992376,
+                        41.513365
+                  ]
+            },
+            {
+                  "name": "Centro Hípico",
+                  "text": "Un centru hipic și parc tematic situat în Serra do Maroi, oferind diverse activități legate de cai.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.996426,
+                        41.521457
+                  ]
+            },
+            {
+                  "name": "Casa da Música",
+                  "text": "Un muzeu dedicat muzicii, situat în Serra do Maroi, care documentează tradiția muzicală locală.",
+                  "category": "museum",
+                  "coords": [
+                        -7.998983,
+                        41.510685
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Abadim",
+                  "text": "Un stâlp al infamiei istoric în Serra do Maroi, reprezentând fosta jurisdicție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993203,
+                        41.539688
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Cabeceiras de Basto",
+                  "text": "Sediul administrativ al primăriei din Cabeceiras de Basto, situat în regiunea Serra do Maroi.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993317,
+                        41.513809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa da Torre de Alvite",
+                  "text": "A historic tower-like building in Serra do Maroi serving as a castle or fortified manor house.",
+                  "category": "castle",
+                  "coords": [
+                        -8.000975,
+                        41.498229
+                  ]
+            },
+            {
+                  "name": "Casa do Tempo",
+                  "text": "A museum in Serra do Maroi showcasing exhibits on local history and regional development.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992376,
+                        41.513365
+                  ]
+            },
+            {
+                  "name": "Centro Hípico",
+                  "text": "An equestrian center and theme park located in Serra do Maroi, offering various horse-related activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.996426,
+                        41.521457
+                  ]
+            },
+            {
+                  "name": "Casa da Música",
+                  "text": "A museum dedicated to music, located in Serra do Maroi, documenting local musical traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -7.998983,
+                        41.510685
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Abadim",
+                  "text": "A historic pillory in Serra do Maroi, serving as a monument of former local jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993203,
+                        41.539688
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Cabeceiras de Basto",
+                  "text": "The administrative town hall building of Cabeceiras de Basto, located in the Serra do Maroi region.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.993317,
+                        41.513809
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi", hu: "Serra do Maroi", ro: "Serra do Maroi", en: "Serra do Maroi" },
@@ -363,7 +1605,88 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-rio-vouga-nature-v2.webp",
   },
   {
-    id: "portugal-lagoa-da-lapa-nature-v2",
+    id: "portugal-lagoa-da-lapa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Ein historischer Schandpfahl in Lagoa da Lapa, der als Symbol der lokalen Gerichtsbarkeit gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Ein bedeutendes Heiligtum und Wallfahrtsort in Lagoa da Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Történelmi szégyenoszlop Lagoa da Lapában, amely a helyi bíráskodás jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Jelentős kegyhely és zarándokhely Lagoa da Lapa közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Un stâlp al infamiei istoric în Lagoa da Lapa, considerat un simbol al jurisdicției locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Un sanctuar și loc de pelerinaj important în Lagoa da Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "A historical pillory in Lagoa da Lapa, considered a symbol of local jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "A significant sanctuary and pilgrimage site located in Lagoa da Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PT",
     name: { de: "Lagoa da Lapa", hu: "Lagoa da Lapa", ro: "Lagoa da Lapa", en: "Lagoa da Lapa" },
@@ -408,7 +1731,160 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-lagoa-da-lapa-nature-v2.webp",
   },
   {
-    id: "portugal-serra-do-caldeirao-nature-v2",
+    id: "portugal-serra-do-caldeirao-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tholos da Cumeada",
+                  "text": "Eine prähistorische Grabstätte in der Serra do Caldeirão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.921151,
+                        37.344654
+                  ]
+            },
+            {
+                  "name": "Anta da Pedra do Alagar",
+                  "text": "Eine megalithische archäologische Fundstätte in der Region Serra do Caldeirão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.942253,
+                        37.361292
+                  ]
+            },
+            {
+                  "name": "Miradouro do Caldeirão",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Landschaft der Serra do Caldeirão.",
+                  "category": "natural",
+                  "coords": [
+                        -7.950406,
+                        37.301659
+                  ]
+            },
+            {
+                  "name": "corte do ouro trek",
+                  "text": "Ein Wanderweg in der malerischen Umgebung der Serra do Caldeirão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.953499,
+                        37.335272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tholos da Cumeada",
+                  "text": "Prehisztorikus sírhely a Serra do Caldeirão hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.921151,
+                        37.344654
+                  ]
+            },
+            {
+                  "name": "Anta da Pedra do Alagar",
+                  "text": "Megalitikus régészeti lelőhely a Serra do Caldeirão régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.942253,
+                        37.361292
+                  ]
+            },
+            {
+                  "name": "Miradouro do Caldeirão",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a Serra do Caldeirão vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -7.950406,
+                        37.301659
+                  ]
+            },
+            {
+                  "name": "corte do ouro trek",
+                  "text": "Túraútvonal a Serra do Caldeirão festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.953499,
+                        37.335272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tholos da Cumeada",
+                  "text": "Un sit funerar preistoric situat în Serra do Caldeirão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.921151,
+                        37.344654
+                  ]
+            },
+            {
+                  "name": "Anta da Pedra do Alagar",
+                  "text": "Un sit arheologic megalitic în regiunea Serra do Caldeirão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.942253,
+                        37.361292
+                  ]
+            },
+            {
+                  "name": "Miradouro do Caldeirão",
+                  "text": "Un punct de belvedere ce oferă o vedere panoramică asupra peisajului din Serra do Caldeirão.",
+                  "category": "natural",
+                  "coords": [
+                        -7.950406,
+                        37.301659
+                  ]
+            },
+            {
+                  "name": "corte do ouro trek",
+                  "text": "Un traseu de drumeție în împrejurimile pitorești din Serra do Caldeirão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.953499,
+                        37.335272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tholos da Cumeada",
+                  "text": "A prehistoric burial site located in the Serra do Caldeirão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.921151,
+                        37.344654
+                  ]
+            },
+            {
+                  "name": "Anta da Pedra do Alagar",
+                  "text": "A megalithic archaeological site in the Serra do Caldeirão region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.942253,
+                        37.361292
+                  ]
+            },
+            {
+                  "name": "Miradouro do Caldeirão",
+                  "text": "A viewpoint offering panoramic views over the Serra do Caldeirão landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.950406,
+                        37.301659
+                  ]
+            },
+            {
+                  "name": "corte do ouro trek",
+                  "text": "A hiking trail in the scenic surroundings of Serra do Caldeirão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.953499,
+                        37.335272
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeirão", hu: "Serra do Caldeirão", ro: "Serra do Caldeirão", en: "Serra do Caldeirão" },
@@ -453,7 +1929,268 @@ export const portugalNatureV2: POI[] = [
     image: "/poi-images/portugal-serra-do-caldeirao-nature-v2.webp",
   },
   {
-    id: "portugal-rio-minho-valley-nature-v2",
+    id: "portugal-rio-minho-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa do Castelo",
+                  "text": "Ein historisches burgähnliches Herrenhaus im Minho-Tal.",
+                  "category": "castle",
+                  "coords": [
+                        -8.374088,
+                        41.974399
+                  ]
+            },
+            {
+                  "name": "Alto das Bezerreiras",
+                  "text": "Ein Aussichtspunkt auf einem Gipfel im Minho-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.306075,
+                        41.935706
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Socalcos",
+                  "text": "Ein Aussichtspunkt mit Blick auf die berühmten Terrassenfelder von Sistelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.349385,
+                        41.979886
+                  ]
+            },
+            {
+                  "name": "Baloiço da praia fluvial do percurso dos Passadiços do Sistelo",
+                  "text": "Eine Schaukel am Flussstrand entlang der Holzstege von Sistelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.382121,
+                        41.971503
+                  ]
+            },
+            {
+                  "name": "Os Socalcos",
+                  "text": "Ein Aussichtspunkt für die traditionellen landwirtschaftlichen Terrassen im Minho-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355002,
+                        41.981128
+                  ]
+            },
+            {
+                  "name": "Branda da Piorneda",
+                  "text": "Ruinen einer traditionellen saisonalen Bergsiedlung im Minho-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318702,
+                        41.923831
+                  ]
+            },
+            {
+                  "name": "Casa do Guarda Florestal",
+                  "text": "Überreste eines ehemaligen Forsthauses im Minho-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.368171,
+                        41.945886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa do Castelo",
+                  "text": "Történelmi várkastély a Minho-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.374088,
+                        41.974399
+                  ]
+            },
+            {
+                  "name": "Alto das Bezerreiras",
+                  "text": "Kilátópont egy hegycsúcson a Minho-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.306075,
+                        41.935706
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Socalcos",
+                  "text": "Kilátóhely, ahonnan Sistelo híres teraszos földjeire nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -8.349385,
+                        41.979886
+                  ]
+            },
+            {
+                  "name": "Baloiço da praia fluvial do percurso dos Passadiços do Sistelo",
+                  "text": "Hintát kínáló pihenőhely a Sistelo pallósor menti folyóparti strandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.382121,
+                        41.971503
+                  ]
+            },
+            {
+                  "name": "Os Socalcos",
+                  "text": "Kilátóhely a Minho-völgy hagyományos mezőgazdasági teraszaira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355002,
+                        41.981128
+                  ]
+            },
+            {
+                  "name": "Branda da Piorneda",
+                  "text": "Egy hagyományos időszaki hegyi település romjai a Minho-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318702,
+                        41.923831
+                  ]
+            },
+            {
+                  "name": "Casa do Guarda Florestal",
+                  "text": "Egy egykori erdészlak maradványai a Minho-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.368171,
+                        41.945886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa do Castelo",
+                  "text": "O casă istorică fortificată situată în valea Minho.",
+                  "category": "castle",
+                  "coords": [
+                        -8.374088,
+                        41.974399
+                  ]
+            },
+            {
+                  "name": "Alto das Bezerreiras",
+                  "text": "Un punct de belvedere pe un vârf de munte în valea Minho.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.306075,
+                        41.935706
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Socalcos",
+                  "text": "Un punct de observație cu vedere la faimoasele terase agricole din Sistelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.349385,
+                        41.979886
+                  ]
+            },
+            {
+                  "name": "Baloiço da praia fluvial do percurso dos Passadiços do Sistelo",
+                  "text": "Un leagăn situat pe plaja fluvială de-a lungul pasarelelor din Sistelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.382121,
+                        41.971503
+                  ]
+            },
+            {
+                  "name": "Os Socalcos",
+                  "text": "Punct de belvedere asupra teraselor agricole tradiționale din valea Minho.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355002,
+                        41.981128
+                  ]
+            },
+            {
+                  "name": "Branda da Piorneda",
+                  "text": "Ruinele unei așezări montane sezoniere tradiționale în valea Minho.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318702,
+                        41.923831
+                  ]
+            },
+            {
+                  "name": "Casa do Guarda Florestal",
+                  "text": "Resturile unei foste case de pădurar în valea Minho.",
+                  "category": "historical",
+                  "coords": [
+                        -8.368171,
+                        41.945886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa do Castelo",
+                  "text": "A historical castle-like manor house located in the Minho Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -8.374088,
+                        41.974399
+                  ]
+            },
+            {
+                  "name": "Alto das Bezerreiras",
+                  "text": "A viewpoint located on a mountain peak in the Minho Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.306075,
+                        41.935706
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Socalcos",
+                  "text": "A viewpoint offering vistas of the famous agricultural terraces of Sistelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.349385,
+                        41.979886
+                  ]
+            },
+            {
+                  "name": "Baloiço da praia fluvial do percurso dos Passadiços do Sistelo",
+                  "text": "A swing located at the river beach along the Sistelo walkways.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.382121,
+                        41.971503
+                  ]
+            },
+            {
+                  "name": "Os Socalcos",
+                  "text": "A viewpoint overlooking the traditional agricultural terraces in the Minho Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -8.355002,
+                        41.981128
+                  ]
+            },
+            {
+                  "name": "Branda da Piorneda",
+                  "text": "Ruins of a traditional seasonal mountain settlement in the Minho Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -8.318702,
+                        41.923831
+                  ]
+            },
+            {
+                  "name": "Casa do Guarda Florestal",
+                  "text": "Remains of a former forest guard house in the Minho Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -8.368171,
+                        41.945886
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PT",
     name: { de: "Minho-Tal", hu: "Minho-völgy", ro: "Valea Minho", en: "Minho Valley" },

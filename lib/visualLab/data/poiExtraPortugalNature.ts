@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraPortugalNature: POI[] = [
   {
-    id: "animal-habitat-berlengas-archipelago-extra",
+    id: "animal-habitat-berlengas-archipelago-extra", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Berlenga",
+                  "text": "Ein historischer Leuchtturm auf dem Berlengas-Archipel im Atlantik.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509254,
+                        39.415305
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "Eine Küstenfestung auf der Insel Berlenga Grande aus dem 17. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.510066,
+                        39.41136
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro do Mosteiro",
+                  "text": "Ein kleiner Sandstrand in der Nähe des Hafens der Berlenga-Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.507258,
+                        39.415138
+                  ]
+            },
+            {
+                  "name": "Cerro da Velha",
+                  "text": "Ein Berggipfel und markanter Punkt auf dem Berlengas-Archipel.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.497527,
+                        39.419265
+                  ]
+            },
+            {
+                  "name": "Pedra do Elefante",
+                  "text": "Ein Aussichtspunkt, der für seine elefantenförmige Felsformation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.512398,
+                        39.40825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Berlenga",
+                  "text": "Történelmi világítótorony az atlanti-óceáni Berlengas-szigetcsoporton.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509254,
+                        39.415305
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "17. századi tengerparti erőd a Berlenga Grande szigeten.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.510066,
+                        39.41136
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro do Mosteiro",
+                  "text": "Kis homokos strand a Berlenga-sziget kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.507258,
+                        39.415138
+                  ]
+            },
+            {
+                  "name": "Cerro da Velha",
+                  "text": "Hegycsúcs és jellegzetes pont a Berlengas-szigetcsoporton.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.497527,
+                        39.419265
+                  ]
+            },
+            {
+                  "name": "Pedra do Elefante",
+                  "text": "Elefánt alakú sziklaképződményéről ismert kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        -9.512398,
+                        39.40825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Berlenga",
+                  "text": "Un far istoric situat în arhipelagul Berlengas din Oceanul Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509254,
+                        39.415305
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "O fortăreață de coastă din secolul al XVII-lea pe insula Berlenga Grande.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.510066,
+                        39.41136
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro do Mosteiro",
+                  "text": "O mică plajă cu nisip situată lângă portul insulei Berlenga.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.507258,
+                        39.415138
+                  ]
+            },
+            {
+                  "name": "Cerro da Velha",
+                  "text": "Un vârf muntos și punct distinctiv în arhipelagul Berlengas.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.497527,
+                        39.419265
+                  ]
+            },
+            {
+                  "name": "Pedra do Elefante",
+                  "text": "Un punct de belvedere cunoscut pentru formațiunea sa stâncoasă în formă de elefant.",
+                  "category": "natural",
+                  "coords": [
+                        -9.512398,
+                        39.40825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Berlenga",
+                  "text": "A historical lighthouse located on the Berlengas Archipelago in the Atlantic Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509254,
+                        39.415305
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "A 17th-century coastal fort on the island of Berlenga Grande.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.510066,
+                        39.41136
+                  ]
+            },
+            {
+                  "name": "Praia do Carreiro do Mosteiro",
+                  "text": "A small sandy beach located near the harbor of Berlenga Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.507258,
+                        39.415138
+                  ]
+            },
+            {
+                  "name": "Cerro da Velha",
+                  "text": "A mountain peak and distinctive point on the Berlengas Archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.497527,
+                        39.419265
+                  ]
+            },
+            {
+                  "name": "Pedra do Elefante",
+                  "text": "A viewpoint known for its elephant-shaped rock formation.",
+                  "category": "natural",
+                  "coords": [
+                        -9.512398,
+                        39.40825
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "PT-10",
     coords: [-9.505, 39.41],
@@ -47,7 +236,52 @@ export const poiExtraPortugalNature: POI[] = [
     image: "/poi-images/animal-habitat-berlengas-archipelago-extra.webp",
   },
   {
-    id: "kid-landmark-krazy-world-zoo-extra",
+    id: "kid-landmark-krazy-world-zoo-extra", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Nossa Senhora da Assunção",
+                  "text": "Eine lokale Kirche, die Mariä Himmelfahrt gewidmet ist, in der Nähe von Algoz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.176764,
+                        37.2363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Nossa Senhora da Assunção",
+                  "text": "Szűz Mária mennybemenetelének szentelt helyi templom Algoz környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -8.176764,
+                        37.2363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Nossa Senhora da Assunção",
+                  "text": "O biserică locală dedicată Adormirii Maicii Domnului din apropierea zonei Algoz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.176764,
+                        37.2363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Nossa Senhora da Assunção",
+                  "text": "A local church dedicated to Our Lady of the Assumption near the Algoz area.",
+                  "category": "religious",
+                  "coords": [
+                        -8.176764,
+                        37.2363
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "PT-08",
     coords: [-8.18, 37.22],
@@ -215,7 +449,304 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["Le parc a été conçu à l'origine par l'architecte portugais influent Cassiano Branco.", "Il propose des versions détaillées et adaptées aux enfants de structures monumentales telles que le monastère des Hiéronymites et la tour de Belém.", "Il est officiellement le plus ancien parc à thème du Portugal en activité continue, ouvert en 1940.", "Les revenus de la billetterie soutiennent directement la Fondation Bissaya Barreto, une organisation caritative sociale locale."],
     }, image: "/poi-images/kid-landmark-portugal-dos-pequenitos-coimbra-extra.webp"},
   {
-    id: "nature-lagoa-do-fogo-azores-extra",
+    id: "nature-lagoa-do-fogo-azores-extra", "sights": {
+      "de": [
+            {
+                  "name": "Central Hídrica da Fajã Redonda",
+                  "text": "Die Central Hídrica da Fajã Redonda ist ein Museum auf den Azoren, das sich mit der Geschichte der Wasserkraft befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -25.491963,
+                        37.795211
+                  ]
+            },
+            {
+                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
+                  "text": "Dieses Umweltzentrum bei Lagoa do Fogo informiert über die ökologische Bedeutung und Geologie des Caldeira Velha Gebiets.",
+                  "category": "museum",
+                  "coords": [
+                        -25.500241,
+                        37.782071
+                  ]
+            },
+            {
+                  "name": "Termas das Caldeiras da Ribeira Grande",
+                  "text": "Die Termas das Caldeiras da Ribeira Grande sind Thermalbäder, die für ihre heißen Quellen und Entspannungsmöglichkeiten bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.487041,
+                        37.797782
+                  ]
+            },
+            {
+                  "name": "Miradouro da Cha da Macela",
+                  "text": "Der Aussichtspunkt Miradouro da Chã da Macela bietet ein weitreichendes Panorama über die Vulkanlandschaft der Insel São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -25.521633,
+                        37.763749
+                  ]
+            },
+            {
+                  "name": "Miradouro da Bela Vista",
+                  "text": "Der Miradouro da Bela Vista ist ein Aussichtspunkt, der für seine beeindruckende Sicht auf die Küste und das Meer geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -25.495521,
+                        37.778126
+                  ]
+            },
+            {
+                  "name": "Miradouro da Lagoa do Fogo",
+                  "text": "Vom Miradouro da Lagoa do Fogo aus hat man einen berühmten Blick auf den gleichnamigen Kratersee in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -25.488288,
+                        37.769416
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf den Staudamm und die umliegende Wasserlandschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -25.482236,
+                        37.78987
+                  ]
+            },
+            {
+                  "name": "Cascata Salto Cabrito",
+                  "text": "Der Aussichtspunkt Cascata Salto Cabrito bietet einen direkten Blick auf den beeindruckenden Wasserfall in der Natur der Azoren.",
+                  "category": "natural",
+                  "coords": [
+                        -25.494682,
+                        37.796202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Central Hídrica da Fajã Redonda",
+                  "text": "A Central Hídrica da Fajã Redonda egy múzeum az Azori-szigeteken, amely a vízenergia történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -25.491963,
+                        37.795211
+                  ]
+            },
+            {
+                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
+                  "text": "Ez a Lagoa do Fogo melletti környezetvédelmi központ a Caldeira Velha környék ökológiai jelentőségéről és geológiájáról nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        -25.500241,
+                        37.782071
+                  ]
+            },
+            {
+                  "name": "Termas das Caldeiras da Ribeira Grande",
+                  "text": "A Termas das Caldeiras da Ribeira Grande termálfürdők, amelyek melegvizes forrásaikról és pihenési lehetőségeikről ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.487041,
+                        37.797782
+                  ]
+            },
+            {
+                  "name": "Miradouro da Cha da Macela",
+                  "text": "A Miradouro da Chã da Macela kilátópont széles körű panorámát nyújt São Miguel szigetének vulkanikus tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -25.521633,
+                        37.763749
+                  ]
+            },
+            {
+                  "name": "Miradouro da Bela Vista",
+                  "text": "A Miradouro da Bela Vista egy kilátópont, amelyet a tengerpartra és az óceánra nyíló lenyűgöző kilátása miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -25.495521,
+                        37.778126
+                  ]
+            },
+            {
+                  "name": "Miradouro da Lagoa do Fogo",
+                  "text": "A Miradouro da Lagoa do Fogo kilátópontról híres kilátás nyílik a hegyekben fekvő azonos nevű krátertóra.",
+                  "category": "natural",
+                  "coords": [
+                        -25.488288,
+                        37.769416
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Ez a kilátópont rálátást biztosít a gátra és a régió környező vízi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -25.482236,
+                        37.78987
+                  ]
+            },
+            {
+                  "name": "Cascata Salto Cabrito",
+                  "text": "A Cascata Salto Cabrito kilátópont közvetlen rálátást nyújt az Azori-szigetek természetében található lenyűgöző vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -25.494682,
+                        37.796202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Central Hídrica da Fajã Redonda",
+                  "text": "Central Hídrica da Fajã Redonda este un muzeu din Azore care se ocupă de istoria energiei hidroelectrice.",
+                  "category": "museum",
+                  "coords": [
+                        -25.491963,
+                        37.795211
+                  ]
+            },
+            {
+                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
+                  "text": "Acest centru de mediu de lângă Lagoa do Fogo oferă informații despre importanța ecologică și geologia zonei Caldeira Velha.",
+                  "category": "museum",
+                  "coords": [
+                        -25.500241,
+                        37.782071
+                  ]
+            },
+            {
+                  "name": "Termas das Caldeiras da Ribeira Grande",
+                  "text": "Termas das Caldeiras da Ribeira Grande sunt băi termale cunoscute pentru izvoarele lor fierbinți și oportunitățile de relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.487041,
+                        37.797782
+                  ]
+            },
+            {
+                  "name": "Miradouro da Cha da Macela",
+                  "text": "Punctul de belvedere Miradouro da Chã da Macela oferă o panoramă vastă asupra peisajului vulcanic al insulei São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -25.521633,
+                        37.763749
+                  ]
+            },
+            {
+                  "name": "Miradouro da Bela Vista",
+                  "text": "Miradouro da Bela Vista este un punct de belvedere apreciat pentru vederea sa impresionantă asupra coastei și oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        -25.495521,
+                        37.778126
+                  ]
+            },
+            {
+                  "name": "Miradouro da Lagoa do Fogo",
+                  "text": "De la Miradouro da Lagoa do Fogo se poate admira o vedere celebră asupra lacului de crater cu același nume din munți.",
+                  "category": "natural",
+                  "coords": [
+                        -25.488288,
+                        37.769416
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "Acest punct de belvedere oferă o vedere asupra barajului și a peisajului acvatic înconjurător al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -25.482236,
+                        37.78987
+                  ]
+            },
+            {
+                  "name": "Cascata Salto Cabrito",
+                  "text": "Punctul de belvedere Cascata Salto Cabrito oferă o vedere directă asupra cascadei impresionante din natura Azorelor.",
+                  "category": "natural",
+                  "coords": [
+                        -25.494682,
+                        37.796202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Hídrica da Fajã Redonda",
+                  "text": "The Central Hídrica da Fajã Redonda is a museum in the Azores focusing on the history of hydroelectric power.",
+                  "category": "museum",
+                  "coords": [
+                        -25.491963,
+                        37.795211
+                  ]
+            },
+            {
+                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
+                  "text": "This environmental interpretation centre near Lagoa do Fogo provides information on the ecology and geology of the Caldeira Velha area.",
+                  "category": "museum",
+                  "coords": [
+                        -25.500241,
+                        37.782071
+                  ]
+            },
+            {
+                  "name": "Termas das Caldeiras da Ribeira Grande",
+                  "text": "Termas das Caldeiras da Ribeira Grande are thermal baths known for their hot springs and relaxation opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.487041,
+                        37.797782
+                  ]
+            },
+            {
+                  "name": "Miradouro da Cha da Macela",
+                  "text": "The viewpoint Miradouro da Chã da Macela offers a wide panorama over the volcanic landscape of São Miguel island.",
+                  "category": "natural",
+                  "coords": [
+                        -25.521633,
+                        37.763749
+                  ]
+            },
+            {
+                  "name": "Miradouro da Bela Vista",
+                  "text": "The Miradouro da Bela Vista is a viewpoint appreciated for its impressive vista of the coast and the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -25.495521,
+                        37.778126
+                  ]
+            },
+            {
+                  "name": "Miradouro da Lagoa do Fogo",
+                  "text": "From Miradouro da Lagoa do Fogo, visitors can enjoy a famous view of the crater lake of the same name in the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -25.488288,
+                        37.769416
+                  ]
+            },
+            {
+                  "name": "Barragem",
+                  "text": "This viewpoint offers a look at the dam and the surrounding water landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -25.482236,
+                        37.78987
+                  ]
+            },
+            {
+                  "name": "Cascata Salto Cabrito",
+                  "text": "The viewpoint Cascata Salto Cabrito provides a direct view of the impressive waterfall in the Azores' nature.",
+                  "category": "natural",
+                  "coords": [
+                        -25.494682,
+                        37.796202
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "PT-20",
     coords: [-25.48, 37.77],
@@ -257,7 +788,268 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["L'énorme éruption volcanique qui a formé la caldeira actuelle s'est produite assez récemment, en 1563.", "La Lagoa do Fogo est une réserve naturelle strictement protégée, totalement exempte de bâtiments modernes ou d'infrastructures touristiques.", "La randonnée escarpée vers les plages de pierre ponce du lac est considérée comme l'un des sentiers les plus gratifiants de l'île.", "Le lac préservé offre un site de nidification très important pour d'importantes colonies de goélands locaux."],
     }, image: "/poi-images/nature-lagoa-do-fogo-azores-extra.webp"},
   {
-    id: "forest-madeira-laurisilva-forest-extra",
+    id: "forest-madeira-laurisilva-forest-extra", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural da Madeira",
+                  "text": "Ein weitläufiges Schutzgebiet auf Madeira, das die einzigartige Flora und die wertvollen Lorbeerwälder bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02195,
+                        32.759646
+                  ]
+            },
+            {
+                  "name": "Boca da Encumeada",
+                  "text": "Ein markanter Aussichtspunkt am Encumeada-Pass, der den Blick auf beide Küstenseiten Madeiras freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        -17.01952,
+                        32.754556
+                  ]
+            },
+            {
+                  "name": "Pico da Murta",
+                  "text": "Ein Aussichtspunkt in den Bergen Madeiras, der einen weiten Panoramablick über die Waldlandschaft ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -17.024888,
+                        32.734722
+                  ]
+            },
+            {
+                  "name": "Lapa do Galho",
+                  "text": "Ein ruhiger Aussichtspunkt im Naturpark von Madeira, ideal für die Beobachtung der unberührten Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -17.026509,
+                        32.751859
+                  ]
+            },
+            {
+                  "name": "Lombo Garcês-Rosario",
+                  "text": "Ein Aussichtspunkt bei Rosario, der einen schönen Blick auf die grünen Täler und Hänge Madeiras bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02742,
+                        32.774092
+                  ]
+            },
+            {
+                  "name": "Relvinha",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe der Lorbeerwälder, der die natürliche Schönheit Madeiras zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.985266,
+                        32.732014
+                  ]
+            },
+            {
+                  "name": "Ruínas de lagares",
+                  "text": "Die Überreste historischer Weinpressen auf Madeira, die an die traditionelle Weinherstellung erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        -16.964104,
+                        32.746631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural da Madeira",
+                  "text": "Kiterjedt védett terület Madeirán, amely megőrzi az egyedülálló flórát és az értékes babérerdőket.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02195,
+                        32.759646
+                  ]
+            },
+            {
+                  "name": "Boca da Encumeada",
+                  "text": "Jellegzetes kilátóhely az Encumeada-hágónál, ahonnan rálátás nyílik Madeira mindkét partvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -17.01952,
+                        32.754556
+                  ]
+            },
+            {
+                  "name": "Pico da Murta",
+                  "text": "Kilátóhely Madeira hegyei között, amely széles panorámát nyújt az erdei tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -17.024888,
+                        32.734722
+                  ]
+            },
+            {
+                  "name": "Lapa do Galho",
+                  "text": "Csendes kilátóhely Madeira natúrparkjában, amely ideális az érintetlen táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -17.026509,
+                        32.751859
+                  ]
+            },
+            {
+                  "name": "Lombo Garcês-Rosario",
+                  "text": "Kilátóhely Rosario közelében, amely szép rálátást nyújt Madeira zöld völgyeire és lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02742,
+                        32.774092
+                  ]
+            },
+            {
+                  "name": "Relvinha",
+                  "text": "Festői kilátóhely a babérerdők közelében, amely Madeira természetes szépségét mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -16.985266,
+                        32.732014
+                  ]
+            },
+            {
+                  "name": "Ruínas de lagares",
+                  "text": "Történelmi szőlőprések maradványai Madeirán, amelyek a hagyományos borkészítésre emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        -16.964104,
+                        32.746631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural da Madeira",
+                  "text": "O zonă protejată întinsă pe Madeira, care conservă flora unică și pădurile de lauri valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02195,
+                        32.759646
+                  ]
+            },
+            {
+                  "name": "Boca da Encumeada",
+                  "text": "Un punct de belvedere proeminent în pasul Encumeada, oferind vedere spre ambele coaste ale Madeirei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.01952,
+                        32.754556
+                  ]
+            },
+            {
+                  "name": "Pico da Murta",
+                  "text": "Un punct de belvedere în munții Madeirei, oferind o panoramă largă asupra peisajului forestier.",
+                  "category": "natural",
+                  "coords": [
+                        -17.024888,
+                        32.734722
+                  ]
+            },
+            {
+                  "name": "Lapa do Galho",
+                  "text": "Un punct de belvedere liniștit în parcul natural din Madeira, ideal pentru observarea peisajului virgin.",
+                  "category": "natural",
+                  "coords": [
+                        -17.026509,
+                        32.751859
+                  ]
+            },
+            {
+                  "name": "Lombo Garcês-Rosario",
+                  "text": "Un punct de belvedere lângă Rosario, oferind o vedere frumoasă asupra văilor și versanților verzi ai Madeirei.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02742,
+                        32.774092
+                  ]
+            },
+            {
+                  "name": "Relvinha",
+                  "text": "Un punct de belvedere pitoresc lângă pădurile de lauri, care prezintă frumusețea naturală a Madeirei.",
+                  "category": "natural",
+                  "coords": [
+                        -16.985266,
+                        32.732014
+                  ]
+            },
+            {
+                  "name": "Ruínas de lagares",
+                  "text": "Rămășițele unor teascuri istorice pe Madeira, care amintesc de fabricarea tradițională a vinului.",
+                  "category": "historical",
+                  "coords": [
+                        -16.964104,
+                        32.746631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madeira Natural Park",
+                  "text": "A vast protected area on Madeira, preserving the unique flora and precious laurel forests.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02195,
+                        32.759646
+                  ]
+            },
+            {
+                  "name": "Boca da Encumeada",
+                  "text": "A prominent viewpoint at the Encumeada pass, revealing views of both coastal sides of Madeira.",
+                  "category": "natural",
+                  "coords": [
+                        -17.01952,
+                        32.754556
+                  ]
+            },
+            {
+                  "name": "Pico da Murta",
+                  "text": "A viewpoint in the mountains of Madeira, providing a wide panoramic view over the forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -17.024888,
+                        32.734722
+                  ]
+            },
+            {
+                  "name": "Lapa do Galho",
+                  "text": "A peaceful viewpoint in Madeira's natural park, ideal for observing the untouched landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -17.026509,
+                        32.751859
+                  ]
+            },
+            {
+                  "name": "Lombo Garcês-Rosario",
+                  "text": "A viewpoint near Rosario, offering a beautiful view of Madeira's green valleys and slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -17.02742,
+                        32.774092
+                  ]
+            },
+            {
+                  "name": "Relvinha",
+                  "text": "A scenic viewpoint near the laurel forests, showcasing the natural beauty of Madeira.",
+                  "category": "natural",
+                  "coords": [
+                        -16.985266,
+                        32.732014
+                  ]
+            },
+            {
+                  "name": "Ruínas de lagares",
+                  "text": "The remains of historical wine presses on Madeira, recalling traditional winemaking.",
+                  "category": "historical",
+                  "coords": [
+                        -16.964104,
+                        32.746631
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "PT-30",
     coords: [-17.0, 32.76],
@@ -299,7 +1091,124 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["La forêt est estimée à plus de 15 millions d'années, un véritable fossile vivant des anciens écosystèmes européens.", "Elle couvre environ 20 % de l'île de Madère, s'accrochant principalement aux pentes inaccessibles du nord.", "Le pigeon trocaz, en danger, est une espèce d'oiseau endémique que l'on ne trouve nulle part ailleurs au monde.", "Les systèmes racinaires complexes de la laurissilva préviennent l'érosion des sols et filtrent naturellement l'eau potable pure de l'île."],
     }, image: "/poi-images/forest-madeira-laurisilva-forest-extra.webp"},
   {
-    id: "animal-habitat-lince-iberico-breeding-center-extra",
+    id: "animal-habitat-lince-iberico-breeding-center-extra", "sights": {
+      "de": [
+            {
+                  "name": "Villa Romana do Montinho das Laranjeiras",
+                  "text": "Archäologische Überreste einer römischen Villa in der Nähe von Alcoutim.",
+                  "category": "historical",
+                  "coords": [
+                        -7.460464,
+                        37.404541
+                  ]
+            },
+            {
+                  "name": "Cerro do Castelinho dos Mouros",
+                  "text": "Eine archäologische Stätte mit Überresten einer islamischen Befestigung.",
+                  "category": "historical",
+                  "coords": [
+                        -7.461653,
+                        37.414942
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Landschaft der Algarve.",
+                  "category": "natural",
+                  "coords": [
+                        -7.457104,
+                        37.401698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa Romana do Montinho das Laranjeiras",
+                  "text": "Római villa régészeti maradványai Alcoutim közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.460464,
+                        37.404541
+                  ]
+            },
+            {
+                  "name": "Cerro do Castelinho dos Mouros",
+                  "text": "Régészeti lelőhely egy iszlám erődítmény maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.461653,
+                        37.414942
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik az Algarve környező tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -7.457104,
+                        37.401698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa Romana do Montinho das Laranjeiras",
+                  "text": "Vestigii arheologice ale unei vile romane situate în apropiere de Alcoutim.",
+                  "category": "historical",
+                  "coords": [
+                        -7.460464,
+                        37.404541
+                  ]
+            },
+            {
+                  "name": "Cerro do Castelinho dos Mouros",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unei fortificații islamice.",
+                  "category": "historical",
+                  "coords": [
+                        -7.461653,
+                        37.414942
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Un punct de observație cu vedere spre peisajele înconjurătoare din Algarve.",
+                  "category": "natural",
+                  "coords": [
+                        -7.457104,
+                        37.401698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa Romana do Montinho das Laranjeiras",
+                  "text": "Archaeological remains of a Roman villa located near Alcoutim.",
+                  "category": "historical",
+                  "coords": [
+                        -7.460464,
+                        37.404541
+                  ]
+            },
+            {
+                  "name": "Cerro do Castelinho dos Mouros",
+                  "text": "An archaeological site featuring the remains of an Islamic fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -7.461653,
+                        37.414942
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "A viewpoint offering views over the surrounding Algarve landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.457104,
+                        37.401698
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "PT-08",
     coords: [-7.5, 37.4],
@@ -383,7 +1292,304 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["Le parc a ouvert ses portes en 1986 et s'est continuellement agrandi pour devenir un pilier du tourisme familial en Algarve.", "L'une de ses attractions les plus célèbres, le 'Kamikaze', offre une chute verticale intense de 20 mètres.", "Le parc fonctionne entièrement avec des systèmes avancés de recyclage de l'eau pour minimiser son empreinte écologique.", "Slide & Splash intègre fréquemment des spectacles d'animaux vivants pour sensibiliser les visiteurs à la protection de la faune."],
     }, image: "/poi-images/kid-landmark-slide-and-splash-water-park-extra.webp"},
   {
-    id: "nature-ponta-da-piedade-grottoes-extra",
+    id: "nature-ponta-da-piedade-grottoes-extra", "sights": {
+      "de": [
+            {
+                  "name": "Meia Praia",
+                  "text": "Ein weitläufiger Sandstrand bei Ponta da Piedade Grottoes, bekannt für seine Länge und Wassersportangebote.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656991,
+                        37.11093
+                  ]
+            },
+            {
+                  "name": "Forte da Bandeira",
+                  "text": "Eine gut erhaltene Küstenfestung bei Ponta da Piedade Grottoes, die einst zur Verteidigung des Hafens diente.",
+                  "category": "castle",
+                  "coords": [
+                        -8.668243,
+                        37.099017
+                  ]
+            },
+            {
+                  "name": "Estação Arqueológica de Monte Molião",
+                  "text": "Eine archäologische Fundstätte bei Ponta da Piedade Grottoes mit Überresten einer antiken Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674834,
+                        37.114705
+                  ]
+            },
+            {
+                  "name": "Praia de Dona Ana",
+                  "text": "Ein malerischer Strand bei Ponta da Piedade Grottoes, berühmt für seinen goldenen Sand und die Kalksteinfelsen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668845,
+                        37.092153
+                  ]
+            },
+            {
+                  "name": "Praia do Camilo",
+                  "text": "Eine ikonische Bucht bei Ponta da Piedade Grottoes, die über eine lange Holztreppe erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668432,
+                        37.087315
+                  ]
+            },
+            {
+                  "name": "Praia do Pinhão",
+                  "text": "Ein kleiner, abgelegener Sandstrand bei Ponta da Piedade Grottoes, der durch die Klippen zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668041,
+                        37.094442
+                  ]
+            },
+            {
+                  "name": "Farol de Ponta da Piedade",
+                  "text": "Ein Leuchtturm auf der dramatischen Landspitze von Ponta da Piedade Grottoes mit Blick auf malerische Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.669419,
+                        37.080613
+                  ]
+            },
+            {
+                  "name": "Praia do Canavial",
+                  "text": "Ein ruhiger Strand in der Nähe der Grotte Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679199,
+                        37.0839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meia Praia",
+                  "text": "Hatalmas homokos strand a Ponta da Piedade Grottoes közelében, amely hosszáról és vízi sportjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656991,
+                        37.11093
+                  ]
+            },
+            {
+                  "name": "Forte da Bandeira",
+                  "text": "Jó állapotban fennmaradt tengerparti erőd a Ponta da Piedade Grottoes-nál, amely egykor a kikötőt védte.",
+                  "category": "castle",
+                  "coords": [
+                        -8.668243,
+                        37.099017
+                  ]
+            },
+            {
+                  "name": "Estação Arqueológica de Monte Molião",
+                  "text": "Régészeti lelőhely a Ponta da Piedade Grottoes közelében, egy ősi település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674834,
+                        37.114705
+                  ]
+            },
+            {
+                  "name": "Praia de Dona Ana",
+                  "text": "Festői strand a Ponta da Piedade Grottoes-nál, amely aranyhomokjáról és mészkőszikláiról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668845,
+                        37.092153
+                  ]
+            },
+            {
+                  "name": "Praia do Camilo",
+                  "text": "Ikonikus öböl a Ponta da Piedade Grottoes-nál, amely egy hosszú falépcsőn keresztül érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668432,
+                        37.087315
+                  ]
+            },
+            {
+                  "name": "Praia do Pinhão",
+                  "text": "Kicsi, eldugott homokos strand a Ponta da Piedade Grottoes-nál, amely a sziklákon keresztül érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668041,
+                        37.094442
+                  ]
+            },
+            {
+                  "name": "Farol de Ponta da Piedade",
+                  "text": "Világítótorony a Ponta da Piedade Grottoes drámai fokán, kilátással a festői sziklaalakzatokra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.669419,
+                        37.080613
+                  ]
+            },
+            {
+                  "name": "Praia do Canavial",
+                  "text": "Csendes tengerpart a Ponta da Piedade barlangok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679199,
+                        37.0839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meia Praia",
+                  "text": "O plajă întinsă cu nisip la Ponta da Piedade Grottoes, cunoscută pentru lungimea sa și sporturile nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656991,
+                        37.11093
+                  ]
+            },
+            {
+                  "name": "Forte da Bandeira",
+                  "text": "O fortăreață maritimă bine conservată la Ponta da Piedade Grottoes, care servea odinioară la apărarea portului.",
+                  "category": "castle",
+                  "coords": [
+                        -8.668243,
+                        37.099017
+                  ]
+            },
+            {
+                  "name": "Estação Arqueológica de Monte Molião",
+                  "text": "Un sit arheologic la Ponta da Piedade Grottoes care conține vestigiile unei vechi așezări.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674834,
+                        37.114705
+                  ]
+            },
+            {
+                  "name": "Praia de Dona Ana",
+                  "text": "O plajă pitorească la Ponta da Piedade Grottoes, celebră pentru nisipul auriu și stâncile de calcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668845,
+                        37.092153
+                  ]
+            },
+            {
+                  "name": "Praia do Camilo",
+                  "text": "O golf iconic la Ponta da Piedade Grottoes la care se ajunge printr-o scară lungă de lemn.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668432,
+                        37.087315
+                  ]
+            },
+            {
+                  "name": "Praia do Pinhão",
+                  "text": "O plajă mică și retrasă cu nisip la Ponta da Piedade Grottoes, accesibilă printre stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668041,
+                        37.094442
+                  ]
+            },
+            {
+                  "name": "Farol de Ponta da Piedade",
+                  "text": "Un far situat pe promontoriul dramatic de la Ponta da Piedade Grottoes, cu vedere la formațiunile stâncoase pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.669419,
+                        37.080613
+                  ]
+            },
+            {
+                  "name": "Praia do Canavial",
+                  "text": "O plajă liniștită în apropierea grotelor Ponta da Piedade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679199,
+                        37.0839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meia Praia",
+                  "text": "A vast sandy beach at Ponta da Piedade Grottoes known for its long shoreline and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.656991,
+                        37.11093
+                  ]
+            },
+            {
+                  "name": "Forte da Bandeira",
+                  "text": "A well-preserved maritime fortress at Ponta da Piedade Grottoes that once served to defend the harbor.",
+                  "category": "castle",
+                  "coords": [
+                        -8.668243,
+                        37.099017
+                  ]
+            },
+            {
+                  "name": "Estação Arqueológica de Monte Molião",
+                  "text": "An archaeological site at Ponta da Piedade Grottoes featuring the remains of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674834,
+                        37.114705
+                  ]
+            },
+            {
+                  "name": "Praia de Dona Ana",
+                  "text": "A scenic beach at Ponta da Piedade Grottoes famous for its golden sand and limestone cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668845,
+                        37.092153
+                  ]
+            },
+            {
+                  "name": "Praia do Camilo",
+                  "text": "An iconic cove at Ponta da Piedade Grottoes reached via a long wooden staircase.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668432,
+                        37.087315
+                  ]
+            },
+            {
+                  "name": "Praia do Pinhão",
+                  "text": "A small, secluded sandy beach at Ponta da Piedade Grottoes accessible through the cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.668041,
+                        37.094442
+                  ]
+            },
+            {
+                  "name": "Farol de Ponta da Piedade",
+                  "text": "A lighthouse standing on the dramatic headland of Ponta da Piedade Grottoes, overlooking scenic rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.669419,
+                        37.080613
+                  ]
+            },
+            {
+                  "name": "Canavial Beach",
+                  "text": "A quiet beach located near the Ponta da Piedade grottoes.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.679199,
+                        37.0839
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "PT-08",
     coords: [-8.67, 37.08],
@@ -467,7 +1673,232 @@ export const poiExtraPortugalNature: POI[] = [
       fr: ["Tout le périmètre de 8 kilomètres carrés est encore clos par le mur de pierre original du XVIIIe siècle construit par le roi.", "Elle constitue une zone protégée extrêmement importante pour plusieurs espèces de rapaces menacées, dont l'aigle de Bonelli.", "Pendant la saison des amours en automne (le brame), la forêt résonne des cris puissants des cerfs.", "La réserve dispose d'un centre de fauconnerie spécialisé dans la réhabilitation et l'entraînement des oiseaux de proie."],
     }, image: "/poi-images/animal-habitat-tapada-nacional-de-mafra-extra.webp"},
   {
-    id: "kid-landmark-dino-parque-lourinha-extra",
+    id: "kid-landmark-dino-parque-lourinha-extra", "sights": {
+      "de": [
+            {
+                  "name": "Piscinas do Vimeiro",
+                  "text": "Ein öffentlicher Schwimmbadkomplex in der Gegend von Vimeiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.326174,
+                        39.18097
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "Ein örtlicher Gemeindesaal, der für Veranstaltungen und Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.331981,
+                        39.201702
+                  ]
+            },
+            {
+                  "name": "Vista para o Cabeço do Sino",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf den Hügel Cabeço do Sino.",
+                  "category": "natural",
+                  "coords": [
+                        -9.323983,
+                        39.19545
+                  ]
+            },
+            {
+                  "name": "Baloiço do Vale da Rocha",
+                  "text": "Eine Panoramaschaukel mit Blick über das Rocha-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.323346,
+                        39.196838
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pitagudo",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panoramablick auf die Küste bei Lourinhã.",
+                  "category": "natural",
+                  "coords": [
+                        -9.332081,
+                        39.177195
+                  ]
+            },
+            {
+                  "name": "Quinta da Luz",
+                  "text": "Ein traditionelles portugiesisches Herrenhaus in der Region Lourinhã.",
+                  "category": "historical",
+                  "coords": [
+                        -9.280445,
+                        39.199061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscinas do Vimeiro",
+                  "text": "Nyilvános úszómedence-komplexum Vimeiro környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.326174,
+                        39.18097
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "Helyi közösségi terem, amelyet rendezvényekre és előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.331981,
+                        39.201702
+                  ]
+            },
+            {
+                  "name": "Vista para o Cabeço do Sino",
+                  "text": "Kilátóhely, ahonnan kilátás nyílik a Cabeço do Sino dombra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.323983,
+                        39.19545
+                  ]
+            },
+            {
+                  "name": "Baloiço do Vale da Rocha",
+                  "text": "Panorámás hinta, amely kilátást nyújt a Rocha-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.323346,
+                        39.196838
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pitagudo",
+                  "text": "Megemelt kilátóhely, ahonnan panorámás kilátás nyílik a tengerpartra Lourinhã közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.332081,
+                        39.177195
+                  ]
+            },
+            {
+                  "name": "Quinta da Luz",
+                  "text": "Hagyományos portugál udvarház Lourinhã régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.280445,
+                        39.199061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscinas do Vimeiro",
+                  "text": "Un complex public de piscine situat în zona Vimeiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.326174,
+                        39.18097
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "O sală parohială locală folosită pentru evenimente și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.331981,
+                        39.201702
+                  ]
+            },
+            {
+                  "name": "Vista para o Cabeço do Sino",
+                  "text": "Un punct de belvedere care oferă vederi spre dealul Cabeço do Sino.",
+                  "category": "natural",
+                  "coords": [
+                        -9.323983,
+                        39.19545
+                  ]
+            },
+            {
+                  "name": "Baloiço do Vale da Rocha",
+                  "text": "Un leagăn panoramic care oferă vedere peste valea Rocha.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.323346,
+                        39.196838
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pitagudo",
+                  "text": "Un punct de belvedere ridicat, care oferă vedere panoramică la coastă lângă Lourinhã.",
+                  "category": "natural",
+                  "coords": [
+                        -9.332081,
+                        39.177195
+                  ]
+            },
+            {
+                  "name": "Quinta da Luz",
+                  "text": "Un conac tradițional portughez situat în regiunea Lourinhã.",
+                  "category": "historical",
+                  "coords": [
+                        -9.280445,
+                        39.199061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscinas do Vimeiro",
+                  "text": "A public swimming pool complex located in the Vimeiro area.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.326174,
+                        39.18097
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "A local parish hall used for community events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.331981,
+                        39.201702
+                  ]
+            },
+            {
+                  "name": "Vista para o Cabeço do Sino",
+                  "text": "A viewpoint offering views of the Cabeço do Sino hill.",
+                  "category": "natural",
+                  "coords": [
+                        -9.323983,
+                        39.19545
+                  ]
+            },
+            {
+                  "name": "Baloiço do Vale da Rocha",
+                  "text": "A panoramic swing providing views over the Rocha valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.323346,
+                        39.196838
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pitagudo",
+                  "text": "An elevated viewpoint offering panoramic coastal views near Lourinhã.",
+                  "category": "natural",
+                  "coords": [
+                        -9.332081,
+                        39.177195
+                  ]
+            },
+            {
+                  "name": "Quinta da Luz",
+                  "text": "A traditional Portuguese manor house located in the Lourinhã region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.280445,
+                        39.199061
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "PT-11",
     coords: [-9.3, 39.2],

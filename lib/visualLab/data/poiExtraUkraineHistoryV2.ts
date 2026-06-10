@@ -49,7 +49,88 @@ imageHint: "Ruins of ancient Chersonesus with Byzantine columns near the sea",
     },
     image: "/poi-images/ukraine-chersonesus-history-v2.webp",
 },  {
-    id: "ukraine-khotyn-fortress-history-v2",
+    id: "ukraine-khotyn-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Хотинська Фортеця",
+                  "text": "Eine beeindruckende mittelalterliche Festungsanlage am Ufer des Dnister in der Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        26.497673,
+                        48.521018
+                  ]
+            },
+            {
+                  "name": "Римо-Католицький Костел Непорочного Зачаття Пресвятої Діви Марії",
+                  "text": "Ein sakrales Gebäude in der Nähe der Festung Khotyn, das der Unbefleckten Empfängnis geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.48636,
+                        48.55037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Хотинська Фортеця",
+                  "text": "Lenyűgöző középkori várkomplexum a Dnyeszter partján, Ukrajnában.",
+                  "category": "castle",
+                  "coords": [
+                        26.497673,
+                        48.521018
+                  ]
+            },
+            {
+                  "name": "Римо-Католицький Костел Непорочного Зачаття Пресвятої Діви Марії",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt egyházi épület a hotini vár közelében.",
+                  "category": "religious",
+                  "coords": [
+                        26.48636,
+                        48.55037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Хотинська Фортеця",
+                  "text": "O fortăreață medievală impresionantă situată pe malul Nistrului, în Ucraina.",
+                  "category": "castle",
+                  "coords": [
+                        26.497673,
+                        48.521018
+                  ]
+            },
+            {
+                  "name": "Римо-Католицький Костел Непорочного Зачаття Пресвятої Діви Марії",
+                  "text": "Un edificiu religios situat lângă cetatea Hotin, dedicat Neprihănitei Zămisliri.",
+                  "category": "religious",
+                  "coords": [
+                        26.48636,
+                        48.55037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khotyn Fortress",
+                  "text": "An impressive medieval fortress complex located on the banks of the Dniester in Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        26.497673,
+                        48.521018
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception of the Blessed Virgin Mary",
+                  "text": "A religious building located near the Khotyn Fortress, dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        26.48636,
+                        48.55037
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "castle",
     name: { de: "Festung Chotyn", hu: "Hotini vár", ro: "Cetatea Hotin", en: "Khotyn Fortress"},
@@ -141,7 +222,52 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
     },
     image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp",
 },  {
-    id: "ukraine-pidhirtsi-castle-history-v2",
+    id: "ukraine-pidhirtsi-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Біла",
+                  "text": "Ein Denkmal auf dem Gelände des Schlosses Pidhirtsi.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Біла",
+                  "text": "Egy emlékmű a pidhirtsi vár területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Біла",
+                  "text": "Un monument situat pe terenul castelului Pidhirtsi.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bila",
+                  "text": "A monument located on the grounds of Pidhirtsi Castle.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Schloss Pidhirtsi", hu: "Podhorcei kastély", ro: "Castelul Pidhirtsi", en: "Pidhirtsi Castle"},
@@ -187,7 +313,52 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
     },
   },
   {
-    id: "ukraine-baturyn-citadel-history-v2",
+    id: "ukraine-baturyn-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "Die rekonstruierte Zitadelle der historischen Festung Baturyn, ein Symbol der ukrainischen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "A történelmi baturini erőd rekonstruált citadellája, az ukrán történelem egyik szimbóluma.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "Citadela reconstruită a fortăreței istorice Baturîn, un simbol al istoriei ucrainene.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baturyn fortress;Baturyn Fortress Citadel",
+                  "text": "The reconstructed citadel of the historic Baturyn fortress, a symbol of Ukrainian history.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "fortress",
     name: { de: "Zitadelle von Baturyn", hu: "Baturini citadella", ro: "Citadela Baturin", en: "Baturyn Citadel"},
@@ -555,7 +726,52 @@ imageHint: "Memorial church and museum building at the Berestechko battlefield",
     },
     image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp",
 },  {
-    id: "ukraine-chyhyryn-hetman-residence-history-v2",
+    id: "ukraine-chyhyryn-hetman-residence-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "Ein Museum in der ehemaligen Residenz der Hetmanen, gewidmet dem ukrainischen Anführer Bohdan Chmelnyzkyj.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "A hetmanok egykori rezidenciáján működő múzeum, amelyet Bohdan Hmelnyckij ukrán vezetőnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "Un muzeu în fosta reședință a hatmanilor, dedicat liderului ucrainean Bohdan Hmelnițki.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bohdan Khmelnytskyi Museum",
+                  "text": "A museum in the former residence of the hetmans, dedicated to the Ukrainian leader Bohdan Khmelnytskyi.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Hetman-Residenz Tschyhyryn", hu: "Csihirini hetmani rezidencia", ro: "Reședința Hatmanului din Cihirin", en: "Chyhyryn Hetman Residence"},
@@ -647,7 +863,88 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
     },
     image: "/poi-images/ukraine-lutsk-castle-history-v2.webp",
 },  {
-    id: "ukraine-olesko-castle-history-v2",
+    id: "ukraine-olesko-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Олеський замок",
+                  "text": "Eine historische Festung und ein Palast, einer der ältesten in der Westukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.900941,
+                        49.968383
+                  ]
+            },
+            {
+                  "name": "Біла",
+                  "text": "Ein lokales Denkmal in der Nähe der Burg Olesko in der Ukraine.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Олеський замок",
+                  "text": "Történelmi erőd és palota, az egyik legrégebbi Nyugat-Ukrajnában.",
+                  "category": "castle",
+                  "coords": [
+                        24.900941,
+                        49.968383
+                  ]
+            },
+            {
+                  "name": "Біла",
+                  "text": "Helyi emlékmű az ukrajnai oleszkói vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Олеський замок",
+                  "text": "O cetate și un palat istoric, unul dintre cele mai vechi din vestul Ucrainei.",
+                  "category": "castle",
+                  "coords": [
+                        24.900941,
+                        49.968383
+                  ]
+            },
+            {
+                  "name": "Біла",
+                  "text": "Un monument local situat în apropierea castelului Olesko din Ucraina.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olesko castle",
+                  "text": "A historic fortress and palace, one of the oldest in western Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.900941,
+                        49.968383
+                  ]
+            },
+            {
+                  "name": "Bila",
+                  "text": "A local monument situated near Olesko Castle in Ukraine.",
+                  "category": "historical",
+                  "coords": [
+                        24.94333,
+                        49.954452
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "castle",
     name: { de: "Burg Olesko", hu: "Oleszkói vár", ro: "Castelul Olesko", en: "Olesko Castle"},
@@ -693,7 +990,52 @@ imageHint: "Olesko Castle with white walls on a green hill surrounded by gardens
     },
     image: "/poi-images/ukraine-olesko-castle-history-v2.webp",
 },  {
-    id: "ukraine-medzhybizh-fortress-history-v2",
+    id: "ukraine-medzhybizh-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sienawski Schloss",
+                  "text": "Eine bedeutende Festung aus dem 16. Jahrhundert am Zusammenfluss zweier Flüsse.",
+                  "category": "castle",
+                  "coords": [
+                        27.412209,
+                        49.436526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Меджибізький замок",
+                  "text": "Jelentős 16. századi erődítmény két folyó összefolyásánál.",
+                  "category": "castle",
+                  "coords": [
+                        27.412209,
+                        49.436526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Меджибізький замок",
+                  "text": "O fortăreață importantă din secolul al XVI-lea, situată la confluența a două râuri.",
+                  "category": "castle",
+                  "coords": [
+                        27.412209,
+                        49.436526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sieniawski Castle",
+                  "text": "A prominent 16th-century fortress situated at the confluence of two rivers.",
+                  "category": "castle",
+                  "coords": [
+                        27.412209,
+                        49.436526
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "fortress",
     name: { de: "Festung Medschybisch", hu: "Medzsibizsi erőd", ro: "Cetatea Medjibij", en: "Medzhybizh Fortress"},
@@ -831,7 +1173,232 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
     },
     image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp",
 },  {
-    id: "ukraine-sudak-fortress-history-v2",
+    id: "ukraine-sudak-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Генуэзская крепость",
+                  "text": "Eine gut erhaltene mittelalterliche Festung, die von den Genuesen in Sudak erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        34.957895,
+                        44.841573
+                  ]
+            },
+            {
+                  "name": "Выставка орудий пыток эпохи инквизиции",
+                  "text": "Ein Museum innerhalb der Festung Sudak, das historische Folterinstrumente ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        34.959865,
+                        44.840969
+                  ]
+            },
+            {
+                  "name": "Бухта любви",
+                  "text": "Eine malerische Bucht und ein Strand in der Nähe der Festung von Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.928774,
+                        44.832185
+                  ]
+            },
+            {
+                  "name": "Крокодиловая ферма",
+                  "text": "Ein kleiner Zoo in Sudak, der auf Krokodile und Reptilien spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.982806,
+                        44.838482
+                  ]
+            },
+            {
+                  "name": "Крепостная",
+                  "text": "Der markante Berg in Sudak, auf dem die genuesische Festung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        34.958089,
+                        44.840126
+                  ]
+            },
+            {
+                  "name": "Стеллажи для вина",
+                  "text": "Ein lokaler Ort in Sudak, der mit der Weinbau-Tradition der Region verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.917716,
+                        44.8229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Генуэзская крепость",
+                  "text": "Jól megőrzött középkori erődítmény, amelyet a genovaiak építettek Szudakban.",
+                  "category": "castle",
+                  "coords": [
+                        34.957895,
+                        44.841573
+                  ]
+            },
+            {
+                  "name": "Выставка орудий пыток эпохи инквизиции",
+                  "text": "A szudaki erődben található múzeum, amely történelmi kínzóeszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        34.959865,
+                        44.840969
+                  ]
+            },
+            {
+                  "name": "Бухта любви",
+                  "text": "Festői öböl és strand a szudaki erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.928774,
+                        44.832185
+                  ]
+            },
+            {
+                  "name": "Крокодиловая ферма",
+                  "text": "Kisméretű állatkert Szudakban, amely krokodilokra és hüllőkre szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        34.982806,
+                        44.838482
+                  ]
+            },
+            {
+                  "name": "Крепостная",
+                  "text": "Jellegzetes hegy Szudakban, amelyen a genovai erődítmény áll.",
+                  "category": "landmark",
+                  "coords": [
+                        34.958089,
+                        44.840126
+                  ]
+            },
+            {
+                  "name": "Стеллажи для вина",
+                  "text": "Szudaki helyszín, amely a régió borászati hagyományaihoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.917716,
+                        44.8229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Генуэзская крепость",
+                  "text": "O cetate medievală bine conservată, construită de genovezi în Sudak.",
+                  "category": "castle",
+                  "coords": [
+                        34.957895,
+                        44.841573
+                  ]
+            },
+            {
+                  "name": "Выставка орудий пыток эпохи инквизиции",
+                  "text": "Un muzeu aflat în cetatea Sudak, care expune instrumente de tortură istorice.",
+                  "category": "museum",
+                  "coords": [
+                        34.959865,
+                        44.840969
+                  ]
+            },
+            {
+                  "name": "Бухта любви",
+                  "text": "Un golf pitoresc și o plajă situate în apropierea cetății Sudak.",
+                  "category": "recreational",
+                  "coords": [
+                        34.928774,
+                        44.832185
+                  ]
+            },
+            {
+                  "name": "Крокодиловая ферма",
+                  "text": "O mică grădină zoologică din Sudak specializată în crocodili și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        34.982806,
+                        44.838482
+                  ]
+            },
+            {
+                  "name": "Крепостная",
+                  "text": "Muntele proeminent din Sudak pe care se află cetatea genoveză.",
+                  "category": "landmark",
+                  "coords": [
+                        34.958089,
+                        44.840126
+                  ]
+            },
+            {
+                  "name": "Стеллажи для вина",
+                  "text": "O locație din Sudak legată de tradiția viticolă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.917716,
+                        44.8229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Genuezskaya Krepost'",
+                  "text": "A well-preserved medieval fortress built by the Genoese in Sudak.",
+                  "category": "castle",
+                  "coords": [
+                        34.957895,
+                        44.841573
+                  ]
+            },
+            {
+                  "name": "Exhibition of instruments of torture from the era of the Inquisition",
+                  "text": "A museum located within the Sudak fortress exhibiting historical torture instruments.",
+                  "category": "museum",
+                  "coords": [
+                        34.959865,
+                        44.840969
+                  ]
+            },
+            {
+                  "name": "The Bay of love",
+                  "text": "A picturesque bay and beach located near the Sudak fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        34.928774,
+                        44.832185
+                  ]
+            },
+            {
+                  "name": "Crocodile's farm",
+                  "text": "A small zoo in Sudak specializing in crocodiles and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        34.982806,
+                        44.838482
+                  ]
+            },
+            {
+                  "name": "Cenevez qaya",
+                  "text": "The prominent mountain in Sudak on which the Genoese fortress is situated.",
+                  "category": "landmark",
+                  "coords": [
+                        34.958089,
+                        44.840126
+                  ]
+            },
+            {
+                  "name": "Wine racks",
+                  "text": "A local site in Sudak associated with the region's winemaking tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        34.917716,
+                        44.8229
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "fortress",
     name: { de: "Genuesische Festung Sudak", hu: "Szudaki genovai erőd", ro: "Cetatea genoveză din Sudak", en: "Genoese Fortress of Sudak"},
@@ -923,7 +1490,268 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
     },
     image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp",
 },  {
-    id: "ukraine-vorontsov-palace-history-v2",
+    id: "ukraine-vorontsov-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "text": "Ein Museum in Alupka am Woronzow-Palast, das dem berühmten sowjetischen Kampfflieger Amet-Chan Sultan gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.054707,
+                        44.423953
+                  ]
+            },
+            {
+                  "name": "Schloss Woronzow",
+                  "text": "Ein prachtvolles historisches Schloss in Alupka, das für seine einzigartige Mischung aus englischer und orientalischer Architektur bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.055794,
+                        44.419841
+                  ]
+            },
+            {
+                  "name": "Teehaus",
+                  "text": "Ein historisches Teehaus im Park des Woronzow-Palastes, das heute museale Zwecke erfüllt.",
+                  "category": "museum",
+                  "coords": [
+                        34.055025,
+                        44.418116
+                  ]
+            },
+            {
+                  "name": "Пляж Чёрный Бугор",
+                  "text": "Ein Strandabschnitt am Woronzow-Palast, der für seinen dunklen Sand oder Kies bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042295,
+                        44.41414
+                  ]
+            },
+            {
+                  "name": "Aj-Petri",
+                  "text": "Ein markanter Gipfel im Krimgebirge über Alupka, der mit einer Seilbahn erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.055987,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Вид на Ай-Петри с Крестовой",
+                  "text": "Ein Aussichtspunkt auf dem Berg Krestowaja, der einen weiten Blick auf den markanten Gipfel Ai-Petri bietet.",
+                  "category": "natural",
+                  "coords": [
+                        34.055822,
+                        44.433044
+                  ]
+            },
+            {
+                  "name": "Пляж «Нарышкинские камни»",
+                  "text": "Ein Strandabschnitt am Woronzow-Palast, der nach der adligen Familie Naryschkin benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.01309,
+                        44.405355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "text": "Alupkában, a Voroncov-kastélynál található múzeum, amely Amet-Han Szultan szovjet vadászpilótának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        34.054707,
+                        44.423953
+                  ]
+            },
+            {
+                  "name": "Воронцовский Дворец",
+                  "text": "Pompás történelmi kastély Alupkában, amely az angol és a keleti építészet egyedülálló keverékéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        34.055794,
+                        44.419841
+                  ]
+            },
+            {
+                  "name": "Чайный домик",
+                  "text": "Történelmi teaház a Voroncov-kastély parkjában, amely ma múzeumi funkciót lát el.",
+                  "category": "museum",
+                  "coords": [
+                        34.055025,
+                        44.418116
+                  ]
+            },
+            {
+                  "name": "Пляж Чёрный Бугор",
+                  "text": "A Voroncov-kastély közelében található tengerparti szakasz, amely sötét homokjáról vagy kavicsairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042295,
+                        44.41414
+                  ]
+            },
+            {
+                  "name": "Ай-Петри",
+                  "text": "A Krími-hegység jellegzetes csúcsa Alupka felett, amely drótkötélpályán is megközelíthető.",
+                  "category": "landmark",
+                  "coords": [
+                        34.055987,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Вид на Ай-Петри с Крестовой",
+                  "text": "Kilátópont a Kresztovaja-hegyen, ahonnan széles kilátás nyílik az Ai-Petri jellegzetes csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        34.055822,
+                        44.433044
+                  ]
+            },
+            {
+                  "name": "Пляж «Нарышкинские камни»",
+                  "text": "A Voroncov-kastélynál található tengerparti rész, amely a nemesi Nariskin családról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        34.01309,
+                        44.405355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "text": "Un muzeu în Alupka, lângă Palatul Voronțov, dedicat celebrului pilot de vânătoare sovietic Amet-Khan Sultan.",
+                  "category": "museum",
+                  "coords": [
+                        34.054707,
+                        44.423953
+                  ]
+            },
+            {
+                  "name": "Воронцовский Дворец",
+                  "text": "Un palat istoric magnific în Alupka, cunoscut pentru amestecul său unic de arhitectură engleză și orientală.",
+                  "category": "museum",
+                  "coords": [
+                        34.055794,
+                        44.419841
+                  ]
+            },
+            {
+                  "name": "Чайный домик",
+                  "text": "O ceainărie istorică în parcul Palatului Voronțov, care servește astăzi ca spațiu muzeal.",
+                  "category": "museum",
+                  "coords": [
+                        34.055025,
+                        44.418116
+                  ]
+            },
+            {
+                  "name": "Пляж Чёрный Бугор",
+                  "text": "O secțiune de plajă lângă Palatul Voronțov, cunoscută pentru nisipul sau pietrișul său închis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042295,
+                        44.41414
+                  ]
+            },
+            {
+                  "name": "Ай-Петри",
+                  "text": "Un vârf proeminent în Munții Crimeii deasupra Alupkăi, accesibil cu telecabina.",
+                  "category": "landmark",
+                  "coords": [
+                        34.055987,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Вид на Ай-Петри с Крестовой",
+                  "text": "Un punct de observație pe muntele Krestovaia, oferind o vedere panoramică spre vârful Ai-Petri.",
+                  "category": "natural",
+                  "coords": [
+                        34.055822,
+                        44.433044
+                  ]
+            },
+            {
+                  "name": "Пляж «Нарышкинские камни»",
+                  "text": "O zonă de plajă lângă Palatul Voronțov, numită după familia nobiliară Narîșkin.",
+                  "category": "recreational",
+                  "coords": [
+                        34.01309,
+                        44.405355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of twice Hero of the Soviet Union Amet-Khan Sultan",
+                  "text": "A museum in Alupka at the Vorontsov Palace dedicated to the famous Soviet fighter pilot Amet-Khan Sultan.",
+                  "category": "museum",
+                  "coords": [
+                        34.054707,
+                        44.423953
+                  ]
+            },
+            {
+                  "name": "Vorontsov Palace",
+                  "text": "A magnificent historic palace in Alupka, famous for its unique blend of English and Oriental architecture.",
+                  "category": "museum",
+                  "coords": [
+                        34.055794,
+                        44.419841
+                  ]
+            },
+            {
+                  "name": "Tea House",
+                  "text": "A historic tea house within the Vorontsov Palace park, now serving as a museum space.",
+                  "category": "museum",
+                  "coords": [
+                        34.055025,
+                        44.418116
+                  ]
+            },
+            {
+                  "name": "Black mound Beach",
+                  "text": "A beach area near the Vorontsov Palace, known for its dark-colored mounds or sand.",
+                  "category": "recreational",
+                  "coords": [
+                        34.042295,
+                        44.41414
+                  ]
+            },
+            {
+                  "name": "Ai-Petri",
+                  "text": "A prominent peak in the Crimean Mountains above Alupka, accessible by a cable car.",
+                  "category": "landmark",
+                  "coords": [
+                        34.055987,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "View to Ai-Petri mnt from Krestovaya mnt",
+                  "text": "A viewpoint on Krestovaya Mountain offering views of the prominent Ai-Petri peak.",
+                  "category": "natural",
+                  "coords": [
+                        34.055822,
+                        44.433044
+                  ]
+            },
+            {
+                  "name": "Beach \"Naryshkin stones\"",
+                  "text": "A beach area near the Vorontsov Palace, named after the noble Naryshkin family.",
+                  "category": "recreational",
+                  "coords": [
+                        34.01309,
+                        44.405355
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Woronzow-Palast", hu: "Voroncov-kastély", ro: "Palatul Voronțov", en: "Vorontsov Palace"},
@@ -1061,7 +1889,88 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
     },
     image: "/poi-images/ukraine-massandra-palace-history-v2.webp",
 },  {
-    id: "ukraine-kachanivka-estate-history-v2",
+    id: "ukraine-kachanivka-estate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Галявина \"Зірки\"",
+                  "text": "Die Lichtung \"Sterne\" ist ein malerischer Teil des Kachanivka-Anwesens.",
+                  "category": "landmark",
+                  "coords": [
+                        32.663906,
+                        50.833808
+                  ]
+            },
+            {
+                  "name": "Романтичні руїни",
+                  "text": "Diese künstlichen Ruinen wurden als romantisches Dekorationselement im Kachanivka-Park erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        32.651518,
+                        50.834761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Галявина \"Зірки\"",
+                  "text": "A „Csillagok” tisztás a Kachanivka-birtok egyik festői területe.",
+                  "category": "landmark",
+                  "coords": [
+                        32.663906,
+                        50.833808
+                  ]
+            },
+            {
+                  "name": "Романтичні руїни",
+                  "text": "Ezeket a műromokat romantikus dekorációs elemként építették a Kachanivka-parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.651518,
+                        50.834761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Галявина \"Зірки\"",
+                  "text": "Poiana „Stele” este o zonă pitorească a domeniului Kachanivka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.663906,
+                        50.833808
+                  ]
+            },
+            {
+                  "name": "Романтичні руїни",
+                  "text": "Aceste ruine artificiale au fost construite ca element decorativ romantic în parcul Kachanivka.",
+                  "category": "landmark",
+                  "coords": [
+                        32.651518,
+                        50.834761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Glade \"Stars\"",
+                  "text": "The Glade \"Stars\" is a scenic part of the Kachanivka Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        32.663906,
+                        50.833808
+                  ]
+            },
+            {
+                  "name": "Romantic ruins",
+                  "text": "These artificial ruins were built as a romantic decorative feature in the Kachanivka park.",
+                  "category": "landmark",
+                  "coords": [
+                        32.651518,
+                        50.834761
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "palace",
     name: { de: "Landsitz Katschaniwka", hu: "Kacsanyivkai birtok", ro: "Domeniul Kacanivka", en: "Kachanivka Estate"},
@@ -1107,7 +2016,88 @@ imageHint: "Neoclassical white palace of Kachanivka with a green dome and park",
     },
     image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp",
 },  {
-    id: "ukraine-tustan-rock-fortress-history-v2",
+    id: "ukraine-tustan-rock-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Цюхів Верх",
+                  "text": "Ein Berggipfel in den ukrainischen Karpaten bei Tustan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.43118,
+                        49.219652
+                  ]
+            },
+            {
+                  "name": "I love Tustan",
+                  "text": "Eine touristische Installation und ein Fotopunkt im Bereich der Felsenfestung Tustan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.408523,
+                        49.189833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Цюхів Верх",
+                  "text": "Hegycsúcs az ukrán Kárpátokban, Tusztán közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.43118,
+                        49.219652
+                  ]
+            },
+            {
+                  "name": "I love Tustan",
+                  "text": "Turisztikai installáció és fotópont a tusztáni sziklavár területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.408523,
+                        49.189833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Цюхів Верх",
+                  "text": "Un vârf muntos în Carpații Ucraineni, lângă Tustan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.43118,
+                        49.219652
+                  ]
+            },
+            {
+                  "name": "I love Tustan",
+                  "text": "O instalație turistică și punct de fotografiere în zona cetății de stâncă Tustan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.408523,
+                        49.189833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsiukhiv Verkh",
+                  "text": "A mountain peak in the Ukrainian Carpathians near Tustan.",
+                  "category": "landmark",
+                  "coords": [
+                        23.43118,
+                        49.219652
+                  ]
+            },
+            {
+                  "name": "I love Tustan",
+                  "text": "A tourist installation and photo spot in the area of the Tustan rock fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        23.408523,
+                        49.189833
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "ruins",
     name: { de: "Felsenfestung Tustan", hu: "Tusztáni sziklavár", ro: "Cetatea pe stâncă Tustan", en: "Tustan Rock Fortress"},
@@ -1153,7 +2143,52 @@ imageHint: "Giant sandstone rocks of Tustan where a medieval fortress once stood
     },
     image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp",
 },  {
-    id: "ukraine-mangup-kale-history-v2",
+    id: "ukraine-mangup-kale-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Дворец",
+                  "text": "Die Ruinen des fürstlichen Palastes in der mittelalterlichen Höhlenstadt Mangup-Kale auf der Krim.",
+                  "category": "castle",
+                  "coords": [
+                        33.80072,
+                        44.592825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дворец",
+                  "text": "A fejedelmi palota romjai a krími Mangup-Kale középkori barlangvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        33.80072,
+                        44.592825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Дворец",
+                  "text": "Ruinele palatului princiar din orașul medieval rupestru Mangup-Kale din Crimeea.",
+                  "category": "castle",
+                  "coords": [
+                        33.80072,
+                        44.592825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palace",
+                  "text": "The ruins of the princely palace in the medieval cave city of Mangup-Kale in Crimea.",
+                  "category": "castle",
+                  "coords": [
+                        33.80072,
+                        44.592825
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "ruins",
     name: { de: "Mangup-Kale", hu: "Mangup-Kale", ro: "Mangup-Kale", en: "Mangup-Kale"},
@@ -1199,7 +2234,52 @@ imageHint: "Cave structures and ruined walls on the plateau of Mangup-Kale",
     },
     image: "/poi-images/ukraine-mangup-kale-history-v2.webp",
 },  {
-    id: "ukraine-olbia-ancient-city-history-v2",
+    id: "ukraine-olbia-ancient-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ольвія",
+                  "text": "Eine antike griechische Kolonie und archäologische Ausgrabungsstätte am Ufer des Bug-Limans.",
+                  "category": "historical",
+                  "coords": [
+                        31.90605,
+                        46.6922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ольвія",
+                  "text": "Ókori görög gyarmatváros és régészeti lelőhely a Déli-Bug torkolatánál.",
+                  "category": "historical",
+                  "coords": [
+                        31.90605,
+                        46.6922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ольвія",
+                  "text": "O fostă colonie grecească antică și sit arheologic situat pe malul estuarului Bug.",
+                  "category": "historical",
+                  "coords": [
+                        31.90605,
+                        46.6922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olbia",
+                  "text": "An ancient Greek colony and archaeological site located on the shores of the Bug Estuary.",
+                  "category": "historical",
+                  "coords": [
+                        31.90605,
+                        46.6922
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "ruins",
     name: { de: "Olbia", hu: "Olbia", ro: "Olbia", en: "Olbia"},
@@ -1337,7 +2417,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     },
     image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp",
 },  {
-    id: "ukraine-bakota-cave-monastery-history-v2",
+    id: "ukraine-bakota-cave-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "Historisches Höhlenkloster mit Blick auf den Fluss Dnister.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "Történelmi barlangkolostor, amely a Dnyeszter folyóra néz.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "Mănăstire rupestră istorică situată deasupra râului Nistru.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bakota Cave Monastery",
+                  "text": "Historic cave monastery overlooking the Dniester River.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "ruins",
     name: { de: "Höhlenkloster Bakota", hu: "Bakotai barlangkolostor", ro: "Mănăstirea rupestră Bakota", en: "Bakota Cave Monastery"},
@@ -1384,7 +2509,160 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
   }
 ,
   {
-    id: "ukraine-dovbush-rocks-history-v2",
+    id: "ukraine-dovbush-rocks-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Чеська школа",
+                  "text": "Ein Museum in einer ehemaligen Schule, das die Geschichte der tschechischen Gemeinde in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.703187,
+                        48.425696
+                  ]
+            },
+            {
+                  "name": "Птахопарк Василя Макара",
+                  "text": "Ein kleiner Tierpark, der sich auf die Haltung und den Schutz verschiedener Vogelarten spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.697351,
+                        48.425306
+                  ]
+            },
+            {
+                  "name": "Тапеш",
+                  "text": "Ein markanter Berggipfel in der Region Dovbush Rocks, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.638715,
+                        48.423345
+                  ]
+            },
+            {
+                  "name": "Wievpoint",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft der Dovbush Rocks.",
+                  "category": "natural",
+                  "coords": [
+                        23.656342,
+                        48.429556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Чеська школа",
+                  "text": "Egykori iskolában berendezett múzeum, amely a régió cseh közösségének történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        23.703187,
+                        48.425696
+                  ]
+            },
+            {
+                  "name": "Птахопарк Василя Макара",
+                  "text": "Kisméretű madárpark, amely különböző madárfajok tartására és védelmére szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        23.697351,
+                        48.425306
+                  ]
+            },
+            {
+                  "name": "Тапеш",
+                  "text": "Jellegzetes hegycsúcs a Dovbus-sziklák régiójában, amely kedvelt a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.638715,
+                        48.423345
+                  ]
+            },
+            {
+                  "name": "Wievpoint",
+                  "text": "Kilátóhely, ahonnan széles panoráma nyílik a Dovbus-sziklák környékére.",
+                  "category": "natural",
+                  "coords": [
+                        23.656342,
+                        48.429556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Чеська школа",
+                  "text": "Un muzeu situat într-o fostă școală, care documentează istoria comunității cehe din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        23.703187,
+                        48.425696
+                  ]
+            },
+            {
+                  "name": "Птахопарк Василя Макара",
+                  "text": "Un mic parc zoologic specializat în creșterea și protejarea diverselor specii de păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        23.697351,
+                        48.425306
+                  ]
+            },
+            {
+                  "name": "Тапеш",
+                  "text": "Un vârf montan proeminent în regiunea Stâncile lui Dovbuș, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        23.638715,
+                        48.423345
+                  ]
+            },
+            {
+                  "name": "Wievpoint",
+                  "text": "Un punct de observație care oferü o vedere panoramică asupra peisajului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        23.656342,
+                        48.429556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Czech school",
+                  "text": "A museum in a former school documenting the history of the Czech community in the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.703187,
+                        48.425696
+                  ]
+            },
+            {
+                  "name": "Vasyl Makar Bird Park",
+                  "text": "A small bird park specializing in the keeping and protection of various bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        23.697351,
+                        48.425306
+                  ]
+            },
+            {
+                  "name": "Tapesh",
+                  "text": "A prominent mountain peak in the Dovbush Rocks region, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        23.638715,
+                        48.423345
+                  ]
+            },
+            {
+                  "name": "Wievpoint",
+                  "text": "A scenic lookout point offering expansive views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.656342,
+                        48.429556
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "UA",
     name: { de: "Dovbush-Felsen", hu: "Dovbus-sziklák", ro: "Stâncile lui Dovbuș", en: "Dovbush Rocks" },
@@ -1609,7 +2887,196 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-dubno-castle-history-v2.webp",
   },
   {
-    id: "ukraine-bakhtchysarai-palace-history-v2",
+    id: "ukraine-bakhtchysarai-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khanpalast",
+                  "text": "Die ehemalige Residenz der Krim-Khane, die traditionelle Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Ein Museum in Bakhchisaray Palace, das der lokalen Geschichte oder Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Ein Museum in Bakhchisaray Palace, das der lokalen Geschichte oder Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "Eine mittelalterliche Höhlenstadt und Festung auf einem Plateau in der Nähe von Bachtschissaraj.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "Eine bemerkenswerte Touristenattraktion in Bakhchisaray Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ханский дворец",
+                  "text": "A krími kánok egykori rezidenciája, amely a hagyományos építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Múzeum Bakhchisaray Palace városában, amely a helyi történelmet vagy kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Múzeum Bakhchisaray Palace városában, amely a helyi történelmet vagy kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "Középkori barlangváros és erődítmény egy fennsíkon, Bahcsiszeráj közelében.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "Nevezetes turisztikai látványosság Bakhchisaray Palace városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ханский дворец",
+                  "text": "Fosta reședință a hanilor krîmeni, prezentând arhitectura tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Un muzeu în Bakhchisaray Palace dedicat istoriei sau culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Un muzeu în Bakhchisaray Palace dedicat istoriei sau culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "Un oraș medieval în peșteră și o fortăreață situată pe un platou lângă Bahcisarai.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "O atracție turistică notabilă în Bakhchisaray Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khan's Palace",
+                  "text": "The former residence of the Crimean Khans, showcasing traditional architecture.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Ismail Gaspirali museum",
+                  "text": "A museum in Bakhchisaray Palace dedicated to local history or culture.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Zincirli Madrasa (Madrasa of Meñli I Giray)",
+                  "text": "A museum in Bakhchisaray Palace dedicated to local history or culture.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Chufut Kale (Qırq Yer)",
+                  "text": "A medieval cave city and fortress located on a plateau near Bakhchisaray.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Valley of Josaphat",
+                  "text": "A notable tourist attraction in Bakhchisaray Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "UA",
     name: { de: "Khan-Palast Bachtschyssaraj", hu: "Bahcsiszeráji kánpalota", ro: "Palatul Hanului Bahcisarai", en: "Bakhchisaray Palace" },
@@ -2149,7 +3616,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-pidmikhailivtsi-castle-history-v2.webp",
   },
   {
-    id: "ukraine-svirzh-castle-history-v2",
+    id: "ukraine-svirzh-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Свірзький замок",
+                  "text": "Eine gut erhaltene Renaissance-Festung aus dem 15. Jahrhundert in der Westukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.432564,
+                        49.652577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Свірзький замок",
+                  "text": "Jó állapotban fennmaradt, 15. századi reneszánsz erődítmény Nyugat-Ukrajnában.",
+                  "category": "castle",
+                  "coords": [
+                        24.432564,
+                        49.652577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Свірзький замок",
+                  "text": "O fortăreață renascentistă bine conservată din secolul al XV-lea, situată în vestul Ucrainei.",
+                  "category": "castle",
+                  "coords": [
+                        24.432564,
+                        49.652577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svirz Castle",
+                  "text": "A well-preserved 15th-century Renaissance fortress located in western Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.432564,
+                        49.652577
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "UA",
     name: { de: "Burg Swirsch", hu: "Svirzsi vár", ro: "Castelul Svirj", en: "Svirzh Castle" },
@@ -2194,7 +3706,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-svirzh-castle-history-v2.webp",
   },
   {
-    id: "ukraine-stare-selo-castle-history-v2",
+    id: "ukraine-stare-selo-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Старосільський замок",
+                  "text": "Die Ruinen des Schlosses Stare Selo sind die Überreste einer großen Festung in der Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.193678,
+                        49.701748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Старосільський замок",
+                  "text": "Az ófalui (Stare Szelo) várromok egy hatalmas ukrajnai erődítmény maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        24.193678,
+                        49.701748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Старосільський замок",
+                  "text": "Ruinele castelului din Stare Selo sunt vestigiile unei mari fortărețe din Ucraina.",
+                  "category": "castle",
+                  "coords": [
+                        24.193678,
+                        49.701748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of Stare Selo castle",
+                  "text": "The ruins of Stare Selo castle are the remains of a large fortress in Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        24.193678,
+                        49.701748
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "UA",
     name: { de: "Burg Stare Selo", hu: "Stare Szelo-i vár", ro: "Castelul Stare Selo", en: "Stare Selo Castle" },
@@ -2239,7 +3796,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-stare-selo-castle-history-v2.webp",
   },
   {
-    id: "ukraine-bilhorod-castle-history-v2",
+    id: "ukraine-bilhorod-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Сиглос Суходільський",
+                  "text": "Ein Gipfel in der Nähe der Festung Bilhorod.",
+                  "category": "landmark",
+                  "coords": [
+                        23.962331,
+                        48.763673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Сиглос Суходільський",
+                  "text": "Egy hegycsúcs a Bilhorod-erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.962331,
+                        48.763673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Сиглос Суходільський",
+                  "text": "Un vârf muntos situat în apropierea cetății Bilhorod.",
+                  "category": "landmark",
+                  "coords": [
+                        23.962331,
+                        48.763673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Syhlos Sukhodilskyi",
+                  "text": "A mountain peak located near the Bilhorod fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        23.962331,
+                        48.763673
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "UA",
     name: { de: "Burg Bilhorod", hu: "Bilhorodi vár", ro: "Castelul Bilhorod", en: "Bilhorod Castle" },
@@ -2284,7 +3886,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-bilhorod-castle-history-v2.webp",
   },
   {
-    id: "ukraine-dobromyl-castle-history-v2",
+    id: "ukraine-dobromyl-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Добромильський замок",
+                  "text": "Eine historische Festungsruine bei Dobromyl, bekannt als die höchstgelegene Burg in der ukrainischen Region Lwiw.",
+                  "category": "castle",
+                  "coords": [
+                        22.78238,
+                        49.544863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Добромильський замок",
+                  "text": "Dobromil közelében található történelmi várrom, az ukrajnai Lviv régió legmagasabban fekvő váraként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        22.78238,
+                        49.544863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Добромильський замок",
+                  "text": "O ruină istorică a unei cetăți lângă Dobromîl, cunoscută ca fiind cel mai înalt castel din regiunea Liov din Ucraina.",
+                  "category": "castle",
+                  "coords": [
+                        22.78238,
+                        49.544863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Herburt Castle",
+                  "text": "A historic fortress ruins near Dobromyl, known as the highest castle in the Lviv region of Ukraine.",
+                  "category": "castle",
+                  "coords": [
+                        22.78238,
+                        49.544863
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "UA",
     name: { de: "Burg Dobromyl", hu: "Dobromili vár", ro: "Castelul Dobromîl", en: "Dobromyl Castle" },
@@ -2419,7 +4066,196 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-st-barbara-cathedral-berdychiv-v2.webp",
   },
   {
-    id: "ukraine-bakhchysarai-cave-monastery-history-v2",
+    id: "ukraine-bakhchysarai-cave-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khanpalast",
+                  "text": "Die ehemalige Residenz der Krim-Khane, berühmt für ihren Tränenbrunnen.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Museum, das dem Leben und Werk des krimtatarischen Pädagogen Ismail Gasprinski gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Diese im Jahr 1500 gegründete Einrichtung ist eine der ältesten Bildungsinstitutionen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "Eine mittelalterliche Höhlenfestung und Stadt auf einem steilen Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "Ein historischer Friedhof und Talbereich in der Nähe des Höhlenklosters.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ханский дворец",
+                  "text": "A krími kánok egykori rezidenciája, amely a Könnyek kútjáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Iszmail Gaszprinszkij krími tatár pedagógus életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Az 1500-ban alapított intézmény a régió egyik legrégebbi oktatási intézménye.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "Középkori barlangerőd és város egy meredek fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "Történelmi temető és völgy a barlangkolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ханский дворец",
+                  "text": "Fosta reședință a hanilor crimeeni, celebră pentru Fântâna Lacrimilor.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Музей Исмаила Гаспринского",
+                  "text": "Muzeu dedicat vieții și activității educatorului tătar crimeean Ismail Gasprinski.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Зынджырлы медресе (Менъли Герайнынъ медресеси)",
+                  "text": "Fondată în 1500, aceasta este una dintre cele mai vechi instituții de învățământ din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Чуфут Кале (Къыркъ Ер))",
+                  "text": "O fortăreață și un oraș medieval în peșteră, situate pe un platou abrupt.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Иосафатова долина",
+                  "text": "Un cimitir istoric și o zonă de vale situată lângă mănăstirea din peșteră.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khan's Palace",
+                  "text": "The former residence of the Crimean Khans, famous for its Fountain of Tears.",
+                  "category": "museum",
+                  "coords": [
+                        33.882013,
+                        44.748126
+                  ]
+            },
+            {
+                  "name": "Ismail Gaspirali museum",
+                  "text": "Museum dedicated to the life and work of the Crimean Tatar educator Ismail Gasprinsky.",
+                  "category": "museum",
+                  "coords": [
+                        33.894123,
+                        44.746446
+                  ]
+            },
+            {
+                  "name": "Zincirli Madrasa (Madrasa of Meñli I Giray)",
+                  "text": "Founded in 1500, this is one of the oldest educational institutions in the region.",
+                  "category": "museum",
+                  "coords": [
+                        33.90802,
+                        44.747969
+                  ]
+            },
+            {
+                  "name": "Chufut Kale (Qırq Yer)",
+                  "text": "A medieval cave-fortress and city situated on a steep plateau.",
+                  "category": "historical",
+                  "coords": [
+                        33.923354,
+                        44.741089
+                  ]
+            },
+            {
+                  "name": "Valley of Josaphat",
+                  "text": "A historic cemetery and valley area located near the cave monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        33.923228,
+                        44.73925
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "UA",
     name: { de: "Höhlenkloster Bachtschyssaraj", hu: "Bahcsiszeráji barlangkolostor", ro: "Mănăstirea rupestră Bahcisarai", en: "Bakhchisaray Cave Monastery" },
@@ -2554,7 +4390,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-mezhyrich-fortress-history-v2.webp",
   },
   {
-    id: "ukraine-chyhyryn-castle-history-v2",
+    id: "ukraine-chyhyryn-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "Museum, das dem Leben des berühmten ukrainischen Kosakenführers gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "A híres ukrán kozák vezető életének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей Богдана Хмельницького",
+                  "text": "Muzeu dedicat vieții celebrului conducător cazac ucrainean.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bohdan Khmelnytskyi Museum",
+                  "text": "Museum dedicated to the life of the famous Ukrainian Cossack leader.",
+                  "category": "museum",
+                  "coords": [
+                        32.657479,
+                        49.081059
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "UA",
     name: { de: "Burg Tschyhyryn", hu: "Csihirini vár", ro: "Castelul Cîhîrîn", en: "Chyhyryn Castle" },
@@ -2779,7 +4660,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-berdychiv-fortress-history-v2.webp",
   },
   {
-    id: "ukraine-baturyn-palace-history-v2",
+    id: "ukraine-baturyn-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "Rekonstruierte Zitadelle der Festung Baturyn aus dem 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "A 17. századi baturini erőd rekonstruált citadellája.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Цитадель Батуринської фортеці",
+                  "text": "Citadela reconstruită a cetății Baturîn din secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baturyn fortress;Baturyn Fortress Citadel",
+                  "text": "Reconstructed citadel of the 17th-century Baturyn fortress.",
+                  "category": "castle",
+                  "coords": [
+                        32.886913,
+                        51.342633
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "UA",
     name: { de: "Palast Baturyn", hu: "Baturini palota", ro: "Palatul Baturîn", en: "Baturyn Palace" },
@@ -3094,7 +5020,52 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-ostroh-gate-history-v2.webp",
   },
   {
-    id: "ukraine-starokostiantyniv-castle-history-v2",
+    id: "ukraine-starokostiantyniv-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Замок Костянтина Острозького",
+                  "text": "Die Burg in Starokostjantyniw ist eine historische Festungsanlage am Fluss Slutsch.",
+                  "category": "castle",
+                  "coords": [
+                        27.227315,
+                        49.757887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Замок Костянтина Острозького",
+                  "text": "Az ókonsztantyinovi vár egy történelmi erődítmény a Szlucs folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        27.227315,
+                        49.757887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Замок Костянтина Острозького",
+                  "text": "Castelul din Starokostiantyniv este o fortăreață istorică situată pe malul râului Sluch.",
+                  "category": "castle",
+                  "coords": [
+                        27.227315,
+                        49.757887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starokostiantyniv Castle",
+                  "text": "Starokostiantyniv Castle is a historical fortress located on the banks of the Sluch River.",
+                  "category": "castle",
+                  "coords": [
+                        27.227315,
+                        49.757887
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "UA",
     name: { de: "Burg Starokostiantyniv", hu: "Sztarokosztyantinivi vár", ro: "Castelul Starokostiantîniv", en: "Starokostiantyniv Castle" },

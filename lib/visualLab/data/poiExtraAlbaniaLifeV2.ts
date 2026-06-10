@@ -95,7 +95,88 @@ imageHint: "Dajti mountain forest and peak Albania",
     },
     image: "/poi-images/albania-dajti-national-park-life-v2.webp",
 },  {
-    id: "albania-lura-national-park-life-v2",
+    id: "albania-lura-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "Der höchste Gipfel im Lura-Nationalpark, bekannt für seine beeindruckende Aussicht auf die umliegende Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "Ein markanter Berggipfel im Nationalpark, der bei Wanderern und Naturliebhabern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "A Lura Nemzeti Park legmagasabb csúcsa, amely lenyűgöző kilátást nyújt a környező hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "A nemzeti park jellegzetes hegycsúcsa, amely kedvelt a túrázók és természetbarátok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "Cel mai înalt vârf din Parcul Național Lura, cunoscut pentru vederea impresionantă asupra peisajului montan.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "Un vârf montan proeminent din parcul național, popular printre drumeți și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "The highest peak in Lura National Park, known for its impressive views over the surrounding mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "A prominent mountain peak in the national park, popular among hikers and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "park",
     name: { de: "Nationalpark Lura", hu: "Lura Nemzeti Park", ro: "Parcul Național Lura", en: "Lura National Park"},
@@ -141,7 +222,124 @@ imageHint: "Lura National Park glacial lake and pine trees",
     },
     image: "/poi-images/albania-lura-national-park-life-v2.webp",
 },  {
-    id: "albania-valbona-valley-national-park-life-v2",
+    id: "albania-valbona-valley-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Ein schroffer Gipfel im Prokletije-Gebirge in Albanien, der anspruchsvolle Aufstiege bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ein erhaltener historischer Bunker im malerischen Nationalpark Valbonatal.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Alte Wassermühle",
+                  "text": "Die stimmungsvollen Ruinen einer traditionellen Wassermühle im Valbonatal.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Egy sziklás hegycsúcs az albániai Prokletije-hegységben, amely komoly kihívást jelent a mászóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Egy fennmaradt történelmi bunker a festői Valbona-völgy Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Egy hagyományos vízimalom hangulatos romjai a Valbona-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "Un vârf accidentat din munții Prokletije din Albania, oferind ascensiuni provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Un buncăr istoric conservat în cadrul pitorescului Parc Național Valea Valbonei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Mulliri i Vjetër",
+                  "text": "Ruinele atmosferice ale unei mori de apă tradiționale situate în Valea Valbonei.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja Grykat e Hapëta",
+                  "text": "A rugged peak in the Prokletije mountains of Albania, offering challenging climbs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.904722,
+                        42.408333
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "A preserved historical bunker within the scenic Valbona Valley National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        19.889193,
+                        42.450852
+                  ]
+            },
+            {
+                  "name": "Old Watermill",
+                  "text": "The atmospheric ruins of a traditional watermill located in the Valbona Valley.",
+                  "category": "historical",
+                  "coords": [
+                        19.89985,
+                        42.455645
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "park",
     name: { de: "Nationalpark Valbonatal", hu: "Valbona-völgy Nemzeti Park", ro: "Parcul Național Valea Valbonei", en: "Valbona Valley National Park"},
@@ -278,7 +476,52 @@ imageHint: "Karavasta lagoon with dalmatian pelicans",
     },
     image: "/poi-images/albania-divjaka-karavasta-national-park-life-v2.webp",
 },  {
-    id: "albania-karaburun-sazan-marine-park-life-v2",
+    id: "albania-karaburun-sazan-marine-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shpella e Haxhi Aliut",
+                  "text": "Eine markante Seehöhle an der albanischen Küste, die nach einem legendären Seefahrer benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306724,
+                        40.429966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shpella e Haxhi Aliut",
+                  "text": "Egy jellegzetes tengeri barlang az albán tengerparton, amely egy legendás hajósról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306724,
+                        40.429966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shpella e Haxhi Aliut",
+                  "text": "O peșteră marină impresionantă pe coasta albaneză, numită după un marinar legendar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306724,
+                        40.429966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cave of Haxhi Ali",
+                  "text": "A prominent sea cave on the Albanian coast, named after a legendary sailor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306724,
+                        40.429966
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "wildlife",
     name: { de: "Meeresnationalpark Karaburun-Sazan", hu: "Karaburun-Sazan Tengeri Nemzeti Park", ro: "Parcul Marin Karaburun-Sazan", en: "Karaburun-Sazan Marine Park"},
@@ -1059,7 +1302,52 @@ imageHint: "Butrint Lake and Vivari channel wetlands",
     },
     image: "/poi-images/albania-butrint-wetland-life-v2.webp",
 },  {
-    id: "albania-nikaj-mertur-park-life-v2",
+    id: "albania-nikaj-mertur-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keshtjella e Breglumit",
+                  "text": "Antike Ruinen im Regionalpark Nikaj-Mërtur, die einen Einblick in die Vergangenheit der Region bieten.",
+                  "category": "historical",
+                  "coords": [
+                        19.978389,
+                        42.269704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keshtjella e Breglumit",
+                  "text": "A Nikaj-Mërtur Regionális Természetvédelmi Park területén található ősi romok, amelyek betekintést nyújtanak a terület múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        19.978389,
+                        42.269704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keshtjella e Breglumit",
+                  "text": "Ruine antice situate în Parcul Natural Regional Nikaj-Mërtur, oferind o perspectivă asupra trecutului zonei.",
+                  "category": "historical",
+                  "coords": [
+                        19.978389,
+                        42.269704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keshtjella e Breglumit",
+                  "text": "Ancient ruins located within the Nikaj-Mërtur Regional Nature Park, offering a glimpse into the area's past.",
+                  "category": "historical",
+                  "coords": [
+                        19.978389,
+                        42.269704
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "park",
     name: { de: "Regionaler Naturpark Nikaj-Mërtur", hu: "Nikaj-Mërtur Regionális Naturpark", ro: "Parcul Natural Regional Nikaj-Mërtur", en: "Nikaj-Mërtur Regional Nature Park"},
@@ -1335,7 +1623,52 @@ imageHint: "Mali i Polisit mountain flora and landscape",
     },
     image: "/poi-images/albania-mali-i-polisit-life-v2.webp",
 },  {
-    id: "albania-cukal-mali-i-zi-life-v2",
+    id: "albania-cukal-mali-i-zi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja Suka e Boshnjës",
+                  "text": "Ein hoher Berggipfel im Cukal-Massiv in Albanien.",
+                  "category": "landmark",
+                  "coords": [
+                        19.71339,
+                        42.150837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja Suka e Boshnjës",
+                  "text": "Magas hegycsúcs az albániai Cukal-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.71339,
+                        42.150837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja Suka e Boshnjës",
+                  "text": "Un vârf montan înalt în masivul Cukal din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.71339,
+                        42.150837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja Suka e Boshnjës",
+                  "text": "A high mountain peak in the Cukal massif in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        19.71339,
+                        42.150837
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Cukal-Mali i Zi Schutzgebiet", hu: "Cukal-Mali i Zi védett terület", ro: "Zona Protejată Cukal-Mali i Zi", en: "Cukal-Mali i Zi Protected Area"},
@@ -1428,7 +1761,196 @@ imageHint: "Cukal mountains karst landscape Albania",
   }
 ,
   {
-    id: "albania-bredhi-i-sotires-life-v2",
+    id: "albania-bredhi-i-sotires-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bredhi i Sotirës",
+                  "text": "Ein geschütztes Waldgebiet in Albanien, das für seine majestätischen Tannen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.333566,
+                        39.819304
+                  ]
+            },
+            {
+                  "name": "Mourgana",
+                  "text": "Ein Berggipfel an der Grenze zwischen Albanien und Griechenland mit schroffer alpiner Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384597,
+                        39.786741
+                  ]
+            },
+            {
+                  "name": "Gërmadha",
+                  "text": "Antike Ruinen in der natürlichen Umgebung des Reservats Bredhi i Sotirës.",
+                  "category": "historical",
+                  "coords": [
+                        20.353397,
+                        39.817331
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historische bauliche Überreste im Naturschutzgebiet Bredhi i Sotirës.",
+                  "category": "historical",
+                  "coords": [
+                        20.372475,
+                        39.835629
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit të Shën Merisë",
+                  "text": "Eine historische orthodoxe Kirche im Dorf Koshovicë in der Nähe des Reservats.",
+                  "category": "religious",
+                  "coords": [
+                        20.397194,
+                        39.819726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bredhi i Sotirës",
+                  "text": "Védett erdőterület Albániában, amely fenséges jegenyefenyőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.333566,
+                        39.819304
+                  ]
+            },
+            {
+                  "name": "Μουργκάνα",
+                  "text": "Hegycsúcs Albánia és Görögország határán, vadregényes alpesi tájjal.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384597,
+                        39.786741
+                  ]
+            },
+            {
+                  "name": "Gërmadha",
+                  "text": "Ősi romok a Bredhi i Sotirës rezervátum természetes környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        20.353397,
+                        39.817331
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Történelmi épületmaradványok a Bredhi i Sotirës természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        20.372475,
+                        39.835629
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit të Shën Merisë",
+                  "text": "Történelmi ortodox templom Koshovicë faluban, a rezervátum közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.397194,
+                        39.819726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bredhi i Sotirës",
+                  "text": "O zonă forestieră protejată din Albania, cunoscută pentru brazii săi maiestuoși.",
+                  "category": "natural",
+                  "coords": [
+                        20.333566,
+                        39.819304
+                  ]
+            },
+            {
+                  "name": "Μουργκάνα",
+                  "text": "Un vârf montan la granița dintre Albania și Grecia, oferind peisaje alpine accidentate.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384597,
+                        39.786741
+                  ]
+            },
+            {
+                  "name": "Gërmadha",
+                  "text": "Ruine antice situate în cadrul natural al rezervației Bredhi i Sotirës.",
+                  "category": "historical",
+                  "coords": [
+                        20.353397,
+                        39.817331
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rămășițe structurale istorice găsite în Rezervația Naturală Bredhi i Sotirës.",
+                  "category": "historical",
+                  "coords": [
+                        20.372475,
+                        39.835629
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit të Shën Merisë",
+                  "text": "O biserică ortodoxă istorică situată în satul Koshovicë, lângă rezervație.",
+                  "category": "religious",
+                  "coords": [
+                        20.397194,
+                        39.819726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bredhi i Sotirës",
+                  "text": "A protected forest area in Albania known for its majestic fir trees.",
+                  "category": "natural",
+                  "coords": [
+                        20.333566,
+                        39.819304
+                  ]
+            },
+            {
+                  "name": "Mourgana",
+                  "text": "A mountain peak on the border between Albania and Greece, offering rugged alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384597,
+                        39.786741
+                  ]
+            },
+            {
+                  "name": "Gërmadha",
+                  "text": "Ancient ruins located within the natural setting of the Bredhi i Sotirës reserve.",
+                  "category": "historical",
+                  "coords": [
+                        20.353397,
+                        39.817331
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Historic structural remains found in the Bredhi i Sotirës Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        20.372475,
+                        39.835629
+                  ]
+            },
+            {
+                  "name": "St. Mary's Monastery Church",
+                  "text": "A historic Eastern Orthodox church located in the village of Koshovicë near the reserve.",
+                  "category": "religious",
+                  "coords": [
+                        20.397194,
+                        39.819726
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AL",
     name: { de: "Naturschutzgebiet Bredhi i Sotirës", hu: "Bredhi i Sotirës Természetvédelmi Terület", ro: "Rezervația Naturală Bredhi i Sotirës", en: "Bredhi i Sotirës Nature Reserve" },
@@ -1653,7 +2175,124 @@ imageHint: "Cukal mountains karst landscape Albania",
     image: "/poi-images/albania-bredhi-i-ternoves-life-v2.webp",
   },
   {
-    id: "albania-guri-i-nikes-life-v2",
+    id: "albania-guri-i-nikes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradishta Slabinje",
+                  "text": "Eine archäologische Stätte im Naturschutzgebiet Guri i Nikës.",
+                  "category": "historical",
+                  "coords": [
+                        20.508248,
+                        40.94133
+                  ]
+            },
+            {
+                  "name": "St. Marina's Monastery",
+                  "text": "Ein Aussichtspunkt beim Kloster St. Marina mit weitem Blick.",
+                  "category": "natural",
+                  "coords": [
+                        20.484972,
+                        40.893629
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Marenës",
+                  "text": "Ein historisches Kloster im Guri i Nikës Naturschutzgebiet.",
+                  "category": "religious",
+                  "coords": [
+                        20.479136,
+                        40.896645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradishta Slabinje",
+                  "text": "Régészeti lelőhely a Guri i Nikës természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        20.508248,
+                        40.94133
+                  ]
+            },
+            {
+                  "name": "St. Marina's Monastery",
+                  "text": "Kilátópont a Szent Marina-kolostornál, szép panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        20.484972,
+                        40.893629
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Marenës",
+                  "text": "Történelmi kolostor a Guri i Nikës természetvédelmi területen.",
+                  "category": "religious",
+                  "coords": [
+                        20.479136,
+                        40.896645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradishta Slabinje",
+                  "text": "Un sit arheologic situat în Rezervația Naturală Guri i Nikës.",
+                  "category": "historical",
+                  "coords": [
+                        20.508248,
+                        40.94133
+                  ]
+            },
+            {
+                  "name": "St. Marina's Monastery",
+                  "text": "Un punct de observație la Mănăstirea Sfânta Marina, oferind vederi largi.",
+                  "category": "natural",
+                  "coords": [
+                        20.484972,
+                        40.893629
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Marenës",
+                  "text": "O mănăstire istorică situată în Rezervația Naturală Guri i Nikës.",
+                  "category": "religious",
+                  "coords": [
+                        20.479136,
+                        40.896645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradishta Slabinje",
+                  "text": "An archaeological site located in the Guri i Nikës Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        20.508248,
+                        40.94133
+                  ]
+            },
+            {
+                  "name": "St. Marina's Monastery",
+                  "text": "A viewpoint at St. Marina's Monastery offering broad views.",
+                  "category": "natural",
+                  "coords": [
+                        20.484972,
+                        40.893629
+                  ]
+            },
+            {
+                  "name": "St. Marena's Monastery",
+                  "text": "A historical monastery located in the Guri i Nikës Nature Reserve.",
+                  "category": "religious",
+                  "coords": [
+                        20.479136,
+                        40.896645
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AL",
     name: { de: "Naturschutzgebiet Guri i Nikës", hu: "Guri i Nikës Természetvédelmi Terület", ro: "Rezervația Naturală Guri i Nikës", en: "Guri i Nikës Nature Reserve" },
@@ -1833,7 +2472,52 @@ imageHint: "Cukal mountains karst landscape Albania",
     image: "/poi-images/albania-pishe-poro-life-v2.webp",
   },
   {
-    id: "albania-strelca-life-v2",
+    id: "albania-strelca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Graboves Poshtme",
+                  "text": "Eine archäologische Stätte mit Überresten einer alten Festung.",
+                  "category": "historical",
+                  "coords": [
+                        20.391985,
+                        40.788572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Graboves Poshtme",
+                  "text": "Régészeti lelőhely egy régi erőd maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        20.391985,
+                        40.788572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Graboves Poshtme",
+                  "text": "Un sit arheologic cu vestigii ale unei vechi fortărețe.",
+                  "category": "historical",
+                  "coords": [
+                        20.391985,
+                        40.788572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Graboves Poshtme",
+                  "text": "An archaeological site featuring the remains of an old fortress.",
+                  "category": "historical",
+                  "coords": [
+                        20.391985,
+                        40.788572
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AL",
     name: { de: "Naturschutzgebiet Strelca", hu: "Strelca Természetvédelmi Terület", ro: "Rezervația Naturală Strelca", en: "Strelca Nature Reserve" },
@@ -1878,7 +2562,88 @@ imageHint: "Cukal mountains karst landscape Albania",
     image: "/poi-images/albania-strelca-life-v2.webp",
   },
   {
-    id: "albania-zall-gjocaj-life-v2",
+    id: "albania-zall-gjocaj-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "Eine historische Burgruine im Nationalpark Zall-Gjoçaj.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Ein markanter Berggipfel im Nationalpark Zall-Gjoçaj.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "Történelmi várrom a Zall-Gjoçaj Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Jellegzetes hegycsúcs a Zall-Gjoçaj Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "Ruinele unei cetăți istorice în Parcul Național Zall-Gjoçaj.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "Un vârf montan proeminent din Parcul Național Zall-Gjoçaj.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
+                  "text": "A historic castle ruin located within the Zall-Gjoçaj National Park.",
+                  "category": "castle",
+                  "coords": [
+                        20.188079,
+                        41.64922
+                  ]
+            },
+            {
+                  "name": "Mali i Dejës",
+                  "text": "A prominent mountain peak in the Zall-Gjoçaj National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        20.163135,
+                        41.699459
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "AL",
     name: { de: "Nationalpark Zall-Gjoçaj", hu: "Zall-Gjoçaj Nemzeti Park", ro: "Parcul Național Zall-Gjoçaj", en: "Zall-Gjoçaj National Park" },

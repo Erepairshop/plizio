@@ -233,7 +233,52 @@ imageHint: "Elefsina shipyards with large vessels in dry dock",
     },
     image: "/poi-images/greece-elefsina-shipyards-economic-v2.webp",
 },  {
-    id: "greece-megalopolis-power-plant-economic-v2",
+    id: "greece-megalopolis-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thersylion Bouleuterion (Megalopolis)",
+                  "text": "Eine antike archäologische Stätte bei Megalopolis, bekannt für ihre monumentale Versammlungshalle.",
+                  "category": "historical",
+                  "coords": [
+                        22.127355,
+                        37.410667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thersylion Bouleuterion (Megalopolis)",
+                  "text": "Ókori régészeti lelőhely Megalopolisz közelében, amely monumentális gyűlésterméről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        22.127355,
+                        37.410667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thersylion Bouleuterion (Megalopolis)",
+                  "text": "Un sit arheologic antic lângă Megalopolis, cunoscut pentru sala sa monumentală de adunări.",
+                  "category": "historical",
+                  "coords": [
+                        22.127355,
+                        37.410667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thersylion Bouleuterion (Megalopolis)",
+                  "text": "An ancient archaeological site near Megalopolis, known for its monumental assembly hall.",
+                  "category": "historical",
+                  "coords": [
+                        22.127355,
+                        37.410667
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "industry",
     name: { de: "Kraftwerk Megalopolis", hu: "Megalopoliszi erőmű", ro: "Centrala electrică Megalopolis", en: "Megalopolis Power Plant"},
@@ -463,7 +508,304 @@ imageHint: "Sindos industrial park aerial with warehouses",
     },
     image: "/poi-images/greece-sindos-industrial-zone-economic-v2.webp",
 },  {
-    id: "greece-volos-port-economic-v2",
+    id: "greece-volos-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Ein Industriemuseum in Volos, das in einer ehemaligen Ziegel- und Dachziegelfabrik untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Eine archäologische Stätte auf einem Hügel bei Volos mit Überresten einer antiken befestigten Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        22.980644,
+                        39.35612
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "Historische Befestigungsanlagen in Volos mit byzantinischen und osmanischen Bauelementen.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Überreste einer mittelalterlichen Befestigungsanlage in der Nähe des Hafens von Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "Ein Museum in Volos, das der Geschichte und Kultur der modernen Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.935723,
+                        39.363992
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "Ein Open-Air-Theater in Volos, in dem während der Sommermonate kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934008,
+                        39.379243
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "Ein antikes griechisches Theater in der Nähe von Volos, das Teil der archäologischen Stätte von Demetrias ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.924355,
+                        39.343425
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "text": "Ein modernes Theater in Volos, das nach dem berühmten Komponisten Vangelis benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        22.940106,
+                        39.363402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Ipari múzeum Voloszban, amely egy egykori tégla- és cserépgyárban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Régészeti lelőhely egy dombtetőn Volosz közelében, egy ókori erődített város maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        22.980644,
+                        39.35612
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "Történelmi erődítmény Voloszban, bizánci és oszmán építészeti elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Egy középkori erődítmény maradványai Volosz kikötőjének közelében.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "Múzeum Voloszban, amely a modern város történelmének és kultúrájának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        22.935723,
+                        39.363992
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "Szabadtéri színház Voloszban, amely nyári kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934008,
+                        39.379243
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "Egy ókori görög színház Volosz közelében, amely Demetrias régészeti lelőhelyének része.",
+                  "category": "historical",
+                  "coords": [
+                        22.924355,
+                        39.343425
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "text": "Egy modern színház Voloszban, amelyet a híres zeneszerzőről, Vangeliszről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        22.940106,
+                        39.363402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Un muzeu industrial din Volos, găzduit într-o fostă fabrică de cărămidă și țiglă.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Un sit arheologic pe un deal lângă Volos, conținând vestigiile unui oraș fortificat antic.",
+                  "category": "historical",
+                  "coords": [
+                        22.980644,
+                        39.35612
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "Fortificații istorice în Volos, prezentând elemente arhitecturale bizantine și otomane.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Vestigiile unei fortificații medievale situate în apropierea portului Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "Un muzeu din Volos dedicat istoriei și culturii orașului modern.",
+                  "category": "museum",
+                  "coords": [
+                        22.935723,
+                        39.363992
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "Un teatru în aer liber din Volos, care găzduiește spectacole culturale în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934008,
+                        39.379243
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "Un teatru grecesc antic lângă Volos, care face parte din situl arheologic Demetrias.",
+                  "category": "historical",
+                  "coords": [
+                        22.924355,
+                        39.343425
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "text": "Un teatru modern din Volos, numit după celebrul compozitor Vangelis.",
+                  "category": "cultural",
+                  "coords": [
+                        22.940106,
+                        39.363402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rooftile and Brickworks Museum",
+                  "text": "An industrial museum in Volos, housed in a former brick and rooftile factory.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Goritsa archaeological site",
+                  "text": "An archaeological site on a hill near Volos, containing the remains of an ancient fortified city.",
+                  "category": "historical",
+                  "coords": [
+                        22.980644,
+                        39.35612
+                  ]
+            },
+            {
+                  "name": "Castle of Palia",
+                  "text": "Historical fortifications in Volos, featuring Byzantine and Ottoman architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Fortification of Episkopi",
+                  "text": "The remains of a medieval fortification located near the port of Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Volos City Museum",
+                  "text": "A museum in Volos dedicated to the history and culture of the modern city.",
+                  "category": "museum",
+                  "coords": [
+                        22.935723,
+                        39.363992
+                  ]
+            },
+            {
+                  "name": "Summer Theatre of Nea Ionia",
+                  "text": "An open-air theatre in Volos that hosts cultural performances during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934008,
+                        39.379243
+                  ]
+            },
+            {
+                  "name": "Ancient Theater of Demetrias",
+                  "text": "An ancient Greek theatre near Volos, part of the archaeological site of Demetrias.",
+                  "category": "historical",
+                  "coords": [
+                        22.924355,
+                        39.343425
+                  ]
+            },
+            {
+                  "name": "Municipal Theatre Vangelis Papathanasiou",
+                  "text": "A modern theatre in Volos, named after the famous composer Vangelis.",
+                  "category": "cultural",
+                  "coords": [
+                        22.940106,
+                        39.363402
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Hafen von Volos", hu: "Voloszi kikötő", ro: "Portul Volos", en: "Port of Volos"},
@@ -555,7 +897,304 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
     },
     image: "/poi-images/greece-heraklion-port-economic-v2.webp",
 },  {
-    id: "greece-patras-port-economic-v2",
+    id: "greece-patras-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Überreste eines monumentalen antiken römischen Brunnens in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Ein gut erhaltenes antikes römisches Theater, das heute für Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Schloss Patras",
+                  "text": "Eine Festung aus byzantinischer Zeit, die am höchsten Punkt der Stadt Patras errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Eine archäologische Stätte, die sich auf dem Gelände einer ehemaligen Rosinenfabrik befindet.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Die Ruinen eines großen antiken Stadions aus der römischen Epoche in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "Ein elegantes Opernhaus aus dem 19. Jahrhundert in Patras, entworfen von Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Patras",
+                  "text": "Ein ikonischer steinerner Leuchtturm und Wahrzeichen im Hafen von Patras.",
+                  "category": "landmark",
+                  "coords": [
+                        21.725689,
+                        38.245115
+                  ]
+            },
+            {
+                  "name": "Roman bridge",
+                  "text": "Überreste einer antiken römischen Brückenstruktur in der Nähe von Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.753437,
+                        38.246971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Egy monumentális ókori római szökőkút maradványai Patraszban.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Jó állapotban fennmaradt ókori római színház, amelyet ma is használnak előadásokra.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Κάστρο της Πάτρας",
+                  "text": "Bizánci korszakból származó erőd, amely Patrasz város legmagasabb pontján épült.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Egy egykori mazsolagyár területén található régészeti helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Egy nagy ókori római stadion romjai Patraszban.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "Elegáns 19. századi operaház Patraszban, amelyet Ernst Ziller tervezett.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            },
+            {
+                  "name": "Φάρος της Πάτρας",
+                  "text": "Jellegzetes kő világítótorony és tájékozódási pont Patrasz kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.725689,
+                        38.245115
+                  ]
+            },
+            {
+                  "name": "Roman bridge",
+                  "text": "Egy ókori római híd maradványai Patrasz környékén.",
+                  "category": "historical",
+                  "coords": [
+                        21.753437,
+                        38.246971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "text": "Rămășițele unei fântâni monumentale din perioada romană în Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκό Ωδείο",
+                  "text": "Un teatru antic roman bine conservat, utilizat astăzi pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Κάστρο της Πάτρας",
+                  "text": "O cetate din epoca bizantină construită pe cel mai înalt punct al orașului Patras.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "text": "Un sit arheologic situat pe locul unei foste fabrici de stafide.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Ρωμαικό Στάδιο",
+                  "text": "Ruinele unui stadion antic de mari dimensiuni din epoca romană în Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "text": "O operă elegantă din secolul al XIX-lea în Patras, proiectată de Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            },
+            {
+                  "name": "Φάρος της Πάτρας",
+                  "text": "Un far iconic din piatră și un punct de reper în portul Patras.",
+                  "category": "landmark",
+                  "coords": [
+                        21.725689,
+                        38.245115
+                  ]
+            },
+            {
+                  "name": "Roman bridge",
+                  "text": "Rămășițele unei structuri de pod roman antic situată în zona Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.753437,
+                        38.246971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Nymphaio",
+                  "text": "Remains of a monumental ancient Roman fountain in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.734533,
+                        38.242268
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "A well-preserved ancient Roman theatre used today for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.738316,
+                        38.243352
+                  ]
+            },
+            {
+                  "name": "Castle of Patra",
+                  "text": "A Byzantine-era fortress built on the highest point of the city of Patras.",
+                  "category": "castle",
+                  "coords": [
+                        21.741924,
+                        38.245024
+                  ]
+            },
+            {
+                  "name": "Vourloumis raisin factory",
+                  "text": "An archaeological site located on the grounds of a former raisin factory.",
+                  "category": "historical",
+                  "coords": [
+                        21.727674,
+                        38.244318
+                  ]
+            },
+            {
+                  "name": "Roman Stadium",
+                  "text": "The ruins of a large ancient stadium from the Roman era in Patras.",
+                  "category": "historical",
+                  "coords": [
+                        21.73691,
+                        38.243844
+                  ]
+            },
+            {
+                  "name": "Apollon Theater",
+                  "text": "An elegant 19th-century opera house in Patras, designed by Ernst Ziller.",
+                  "category": "cultural",
+                  "coords": [
+                        21.735499,
+                        38.24663
+                  ]
+            },
+            {
+                  "name": "Patras Lighthouse",
+                  "text": "An iconic stone lighthouse and landmark at the Port of Patras.",
+                  "category": "landmark",
+                  "coords": [
+                        21.725689,
+                        38.245115
+                  ]
+            },
+            {
+                  "name": "Roman bridge",
+                  "text": "Remains of an ancient Roman bridge structure located in the Patras area.",
+                  "category": "historical",
+                  "coords": [
+                        21.753437,
+                        38.246971
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Hafen von Patras", hu: "Pátra kikötője", ro: "Portul Patras", en: "Port of Patras"},
@@ -647,7 +1286,88 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
     },
     image: "/poi-images/greece-igoumenitsa-port-economic-v2.webp",
 },  {
-    id: "greece-aliveri-power-plant-economic-v2",
+    id: "greece-aliveri-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ριζόκαστρο",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf einem Hügel nahe Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.072027,
+                        38.381608
+                  ]
+            },
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Ein historischer Wehrturm aus der venezianischen Zeit in der Nähe von Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.051594,
+                        38.38973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ριζόκαστρο",
+                  "text": "Egy dombtetőn lévő középkori erődítmény romjai Aliveri közelében.",
+                  "category": "castle",
+                  "coords": [
+                        24.072027,
+                        38.381608
+                  ]
+            },
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Történelmi védőtorony a velencei korszakból Aliveri közelében.",
+                  "category": "castle",
+                  "coords": [
+                        24.051594,
+                        38.38973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ριζόκαστρο",
+                  "text": "Ruinele unei fortificații medievale pe un deal lângă Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.072027,
+                        38.381608
+                  ]
+            },
+            {
+                  "name": "Ενετικός Πύργος",
+                  "text": "Un turn de apărare istoric din perioada venețiană, situat lângă Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.051594,
+                        38.38973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rizokastro",
+                  "text": "The ruins of a medieval hilltop fortress located near Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.072027,
+                        38.381608
+                  ]
+            },
+            {
+                  "name": "Venetian Tower",
+                  "text": "A historical defensive tower from the Venetian era located near Aliveri.",
+                  "category": "castle",
+                  "coords": [
+                        24.051594,
+                        38.38973
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "industry",
     name: { de: "Kraftwerk Aliveri", hu: "Aliveri erőmű", ro: "Centrala electrică Aliveri", en: "Aliveri Power Plant"},
@@ -787,7 +1507,52 @@ imageHint: "Aliveri power plant smoke stacks and sea",
     },
   },
   {
-    id: "greece-koropi-business-park-economic-v2",
+    id: "greece-koropi-business-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Paintball-Anlage im Freien in der Nähe von Koropi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Szabadtéri paintball pálya Koropi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Parc tematic în aer liber pentru paintball lângă Koropi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Athens Paintball Village",
+                  "text": "Outdoor theme park for paintball activities near Koropi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.912734,
+                        37.914192
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "industry",
     name: { de: "Gewerbepark Koropi", hu: "Koropi ipari övezet", ro: "Parcul de afaceri Koropi", en: "Koropi Business Park"},
@@ -1069,7 +1834,232 @@ imageHint: "Aliveri power plant smoke stacks and sea",
     },
   },
   {
-    id: "greece-lavrion-industrial-park-economic-v2",
+    id: "greece-lavrion-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Sounio",
+                  "text": "Ein Naturschutzgebiet an der Südspitze Attikas, bekannt für seine Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.024458,
+                        37.712539
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "text": "Ein Museum, das archäologische Funde aus der antiken Bergbauregion von Lavrio ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        24.053896,
+                        37.716844
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "text": "Ein Museum in Lavrio, das der reichen Vielfalt an Mineralien aus den lokalen Minen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.051124,
+                        37.716317
+                  ]
+            },
+            {
+                  "name": "future M.M.M.L.",
+                  "text": "Ein künftiges Museumsprojekt im Technologischen Park von Lavrio.",
+                  "category": "museum",
+                  "coords": [
+                        24.050169,
+                        37.724865
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "text": "Ein Fachmuseum in Lavrio, das die Mineralogie der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.013296,
+                        37.724767
+                  ]
+            },
+            {
+                  "name": "Όρμος Αγίου Νικολάου",
+                  "text": "Eine Bucht in der Nähe von Lavrio an der Küste der Ägäis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072152,
+                        37.741646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δρυμός Σουνίου",
+                  "text": "Természetvédelmi terület Attika déli csücskén, tengerparti tájáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        24.024458,
+                        37.712539
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "text": "Múzeum, amely Lavrio ókori bányavidékének régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.053896,
+                        37.716844
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "text": "Lavriói múzeum, amely a helyi bányákból származó gazdag ásványvilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.051124,
+                        37.716317
+                  ]
+            },
+            {
+                  "name": "future M.M.M.L.",
+                  "text": "Jövőbeli múzeumi projekt a Lavrion Technológiai Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        24.050169,
+                        37.724865
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "text": "Szakmúzeum Lavrióban, amely a régió ásványtanát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        24.013296,
+                        37.724767
+                  ]
+            },
+            {
+                  "name": "Όρμος Αγίου Νικολάου",
+                  "text": "Öböl Lavrio közelében az Égei-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072152,
+                        37.741646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δρυμός Σουνίου",
+                  "text": "O rezervație naturală în vârful sudic al Atticii, cunoscută pentru peisajul său costier.",
+                  "category": "natural",
+                  "coords": [
+                        24.024458,
+                        37.712539
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "text": "Un muzeu care expune descoperiri arheologice din vechea regiune minieră Lavrio.",
+                  "category": "museum",
+                  "coords": [
+                        24.053896,
+                        37.716844
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "text": "Un muzeu în Lavrio dedicat varietății bogate de minerale din minele locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.051124,
+                        37.716317
+                  ]
+            },
+            {
+                  "name": "future M.M.M.L.",
+                  "text": "Un viitor proiect muzeal în cadrul Parcului Tehnologic Lavrion.",
+                  "category": "museum",
+                  "coords": [
+                        24.050169,
+                        37.724865
+                  ]
+            },
+            {
+                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "text": "Un muzeu specializat în Lavrio care documentează mineralogia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        24.013296,
+                        37.724767
+                  ]
+            },
+            {
+                  "name": "Όρμος Αγίου Νικολάου",
+                  "text": "Un golf lângă Lavrio, situat pe coasta Mării Egee.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072152,
+                        37.741646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sounio National Park",
+                  "text": "A nature reserve at the southern tip of Attica, known for its coastal scenery.",
+                  "category": "natural",
+                  "coords": [
+                        24.024458,
+                        37.712539
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Lavrio",
+                  "text": "A museum displaying archaeological finds from the ancient mining region of Lavrio.",
+                  "category": "museum",
+                  "coords": [
+                        24.053896,
+                        37.716844
+                  ]
+            },
+            {
+                  "name": "Mineralogical Museum of Lavrio",
+                  "text": "A museum in Lavrio dedicated to the rich variety of minerals from the local mines.",
+                  "category": "museum",
+                  "coords": [
+                        24.051124,
+                        37.716317
+                  ]
+            },
+            {
+                  "name": "future M.M.M.L.",
+                  "text": "A future museum project within the Lavrion Technological Park.",
+                  "category": "museum",
+                  "coords": [
+                        24.050169,
+                        37.724865
+                  ]
+            },
+            {
+                  "name": "Minerological Museum",
+                  "text": "A specialized museum in Lavrio documenting the mineralogy of the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.013296,
+                        37.724767
+                  ]
+            },
+            {
+                  "name": "Ormos Agiou Nikolaou",
+                  "text": "A bay near Lavrio located on the Aegean coast.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072152,
+                        37.741646
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "industry",
     name: { de: "Technologiepark Lavrion", hu: "Lavrioni Technológiai Park", ro: "Parcul tehnologic Lavrion", en: "Lavrion Technological Park"},

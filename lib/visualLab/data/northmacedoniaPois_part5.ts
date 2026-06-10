@@ -4,7 +4,52 @@ import type { POI } from "./poi";
 export const mkPoisPart5: POI[] = [
   // MK-041: Sopište
   {
-    id: "MK-041-govrlevo-neolithic",
+    id: "MK-041-govrlevo-neolithic", "sights": {
+      "de": [
+            {
+                  "name": "Абедиште",
+                  "text": "Ein Berggipfel in der Nähe der neolithischen Siedlung von Govrlevo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Абедиште",
+                  "text": "Hegycsúcs Govrlevo neolitikus településének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Абедиште",
+                  "text": "Un vârf muntos situat în apropierea așezării neolitice de la Govrlevo.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abedishte",
+                  "text": "A mountain peak located near the Govrlevo Neolithic settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-041",
     coords: [21.3667, 41.9333],
@@ -48,7 +93,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-041-govrlevo-neolithic.webp",
   },
   {
-    id: "MK-041-st-panteleimon-monastery",
+    id: "MK-041-st-panteleimon-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "Ein Museum im alten Bahnhofsgebäude, das die Geschichte von Skopje dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            },
+            {
+                  "name": "Galerija RA",
+                  "text": "Ein Museum und Galerieraum, in dem zeitgenössische Kunstwerke ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "Eine Freilichtbühne, die für Aufführungen während der Sommersaison genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Театар Комедија",
+                  "text": "Ein Theater, das auf komödiantische Aufführungen und Stücke spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        21.425365,
+                        41.994524
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Die Ruinen einer mittelalterlichen Festung an den Hängen des Berges Vodno.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Ein Berggipfel mit Blick auf die umliegende Landschaft in der Nähe von Skopje.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "Der höchste Gipfel des Berges Vodno mit dem großen Millenniumskreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Ein Berggipfel in der Nähe des Berges Vodno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "A régi vasútállomás épületében működő múzeum, amely Szkopje történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            },
+            {
+                  "name": "Galerija RA",
+                  "text": "Kortárs vagy modern művészeti alkotásokat bemutató múzeum és galéria.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "Egy szabadtéri színpad, amelyet nyári előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Театар Комедија",
+                  "text": "Vígjátékokra és komédiákra specializálódott színház.",
+                  "category": "cultural",
+                  "coords": [
+                        21.425365,
+                        41.994524
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Egy középkori erőd romjai a Vodno-hegy lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Egy hegycsúcs, amely kilátást nyújt a környező tájra Szkopje közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "A Vodno-hegy legmagasabb csúcsa a nagy Millenniumi-kereszttel.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Egy hegycsúcs a Vodno-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "Un muzeu găzduit în vechea gară, care documentează istoria orașului Skopje.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            },
+            {
+                  "name": "Galerija RA",
+                  "text": "Un spațiu muzeal și de galerie care prezintă lucrări de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "O scenă în aer liber utilizată pentru spectacole în timpul sezonului estival.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Театар Комедија",
+                  "text": "O sală de teatru specializată în spectacole și piese de comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        21.425365,
+                        41.994524
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Ruinele unei fortărețe medievale situate pe versanții muntelui Vodno.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Un vârf muntos care oferă vederi asupra peisajului înconjurător lângă Skopje.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "Cel mai înalt vârf al muntelui Vodno, unde se află marea Cruce a Mileniului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Un vârf muntos situat în vecinătatea muntelui Vodno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the City of Skopje",
+                  "text": "A museum housed in the old railway station, documenting the history of Skopje.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            },
+            {
+                  "name": "Gallery RA",
+                  "text": "A museum and gallery space showcasing contemporary art works.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Summer stage",
+                  "text": "An outdoor theatre venue used for performances during the summer season.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Theater Comedy",
+                  "text": "A theatre venue specializing in comedic performances and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        21.425365,
+                        41.994524
+                  ]
+            },
+            {
+                  "name": "Markovi Kuli",
+                  "text": "The ruins of a medieval fortress located on the slopes of Mount Vodno.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Orashec",
+                  "text": "A mountain peak providing views over the surrounding landscape near Skopje.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Krstovar",
+                  "text": "The highest peak of Mount Vodno, featuring the large Millennium Cross.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Abedishte",
+                  "text": "A mountain peak located in the vicinity of Mount Vodno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-041",
     coords: [21.3853, 41.9772],
@@ -93,7 +435,268 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-042: Karpoš
   {
-    id: "MK-042-scupi-archaeological-site",
+    id: "MK-042-scupi-archaeological-site", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Dieses Museum in Skopje zeigt eine umfangreiche Sammlung zur Flora, Fauna und Geologie Nordmazedoniens.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Die Ausgrabungsstätte einer antiken römischen Stadt in der Nähe des heutigen Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Diese historische Festung thront über Skopje und bietet einen weiten Blick über die Stadt und den Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten in der nordmazedonischen Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Nationalmuseum in Skopje, das die Geschichte und Kultur der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Dieses Museum in Skopje widmet sich der Ausstellung zeitgenössischer Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Museum des mazedonischen Kampfes",
+                  "text": "Ein historisches Museum in Skopje, das den mazedonischen Unabhängigkeitskampf thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely Észak-Macedónia növényvilágának, állatvilágának és geológiájának gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Egy ókori római város régészeti lelőhelye a mai Szkopje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Szkopje fölé magasodó történelmi erőd, ahonnan kiváló kilátás nyílik a városra és a Vardar folyóra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje állatkertje számos állatfajnak ad otthont az észak-macedón fővárosban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Nemzeti múzeum Szkopjéban, amely a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ez a szkopjei múzeum a kortárs műalkotások bemutatásának szentelt intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Történelmi múzeum Szkopjéban, amely a macedón függetlenségi harcot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Acest muzeu din Skopje expune o colecție vastă despre flora, fauna și geologia Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Situl arheologic al unui vechi oraș roman situat în apropierea orașului actual Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Această fortăreață istorică domină orașul Skopje, oferind o panoramă asupra râului Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale în capitala Macedoniei de Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Muzeu național din Skopje, care documentează istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Acest muzeu din Skopje este dedicat expunerii operelor de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Un muzeu istoric din Skopje, care prezintă lupta macedoneană pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje exhibiting a comprehensive collection of North Macedonia's flora, fauna, and geology.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "The archaeological site of an ancient Roman city located near modern-day Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress overlooking Skopje, offering panoramic views of the city and the Vardar River.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The Skopje Zoo is home to numerous animal species in the North Macedonian capital.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "National museum in Skopje documenting the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "This museum in Skopje is dedicated to exhibiting contemporary works of art.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian struggle",
+                  "text": "A historical museum in Skopje focusing on the Macedonian struggle for independence.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-042",
     coords: [21.3933, 42.0167],
@@ -137,7 +740,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-042-scupi-archaeological-site.webp",
   },
   {
-    id: "MK-042-skopje-city-park",
+    id: "MK-042-skopje-city-park", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das die vielfältige Flora, Fauna und Geologie Nordmazedoniens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Die archäologischen Ausgrabungen der antiken römischen Stadt Scupi nahe dem Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf einem Hügel in Skopje mit Blick auf den Fluss Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der Stadtzoo von Skopje, der eine Vielzahl heimischer und exotischer Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der größten Museen des Landes, das die Geschichte und Kultur Mazedoniens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Die führende Kulturinstitution in Skopje für Opern- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein bedeutendes Museum in Skopje, das zeitgenössische Kunstwerke aus dem In- und Ausland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Nationalgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Múzeum Szkopjéban, amely Észak-Macedónia változatos élővilágát és geológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Scupi ókori római városának régészeti maradványai a városközpont közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd egy dombtetőn Szkopjéban, rálátással a Vardar folyóra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely számos hazai és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legnagyobb múzeuma, amely Macedónia történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Szkopje vezető kulturális intézménye az operaelőadások és balettprodukciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Jelentős szkopjei múzeum, amely hazai és nemzetközi kortárs műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Nemzeti galéria egy egykori 15. századi oszmán fürdő épületében.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu în Skopje care prezintă flora, fauna și geologia diversă a Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Situl arheologic al vechiului oraș roman Scupi, situat în apropierea centrului orașului.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O fortăreață istorică situată pe un deal în Skopje, oferind vedere spre râul Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje, care găzduiește o varietate de specii de animale indigene și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai mari muzee din țară, documentând istoria și cultura Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Principala instituție culturală din Skopje pentru spectacole de operă și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu important din Skopje care expune opere de artă contemporană naționale și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie națională situată într-o fostă baie otomană din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje presenting the diverse flora, fauna, and geology of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "The archaeological remains of the ancient Roman city of Scupi, located near the city center.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress situated on a hill in Skopje, overlooking the Vardar River.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The municipal zoo of Skopje, home to a variety of domestic and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the largest museums in the country, documenting the history and culture of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The leading cultural institution in Skopje for opera performances and ballet productions.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A significant museum in Skopje exhibiting national and international contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "A national gallery housed in a former 15th-century Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-042",
     coords: [21.4167, 42.0083],
@@ -182,7 +1082,304 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-043: Šuto Orizari
   {
-    id: "MK-043-roma-market",
+    id: "MK-043-roma-market", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das die biologische und geologische Vielfalt Mazedoniens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Eine archäologische Ausgrabungsstätte mit den Überresten einer antiken römischen Stadt bei Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung über Skopje, die ursprünglich im 6. Jahrhundert erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der städtische Zoo von Skopje, in dem verschiedene Tierarten aus aller Welt leben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der bedeutendsten Museen des Landes mit Fokus auf Archäologie und Ethnologie.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Eine bedeutende Kulturinstitution in Skopje für hochwertige Opern- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein Museum für moderne Kunst mit Blick über Skopje von seiner Hügellage aus.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely Macedónia biológiai és geológiai sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Régészeti lelőhely egy ókori római város maradványaival Szkopje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Szkopje városa fölé magasodó történelmi erőd, amely eredetileg a 6. században épült.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely a világ minden tájáról származó állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legjelentősebb múzeuma, amely a régészetre és a néprajzra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Szkopje jelentős kulturális intézménye, amely színvonalas opera- és balettelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Modern művészeti múzeum, amely dombtetőn fekvő helyszínéről kilátást nyújt Szkopjéra.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Művészeti galéria egy egykori 15. századi oszmán fürdőépületben.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu din Skopje care prezintă diversitatea biologică și geologică a Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Un sit arheologic care cuprinde rămășițele unui oraș roman antic de lângă Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate istorică ce domină orașul Skopje, construită inițial în secolul al VI-lea.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică municipală din Skopje, care găzduiește specii de animale din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai importante muzee din țară, axat pe arheologie și etnologie.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "O instituție culturală majoră din Skopje pentru spectacole de operă și balet de calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă modernă care oferă vederi asupra orașului Skopje de pe locația sa pe deal.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie de artă găzduită într-o fostă baie otomană din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje showcasing the biological and geological diversity of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "An archaeological site featuring the remains of an ancient Roman city near Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress overlooking Skopje, originally built in the 6th century.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The municipal zoo of Skopje, home to various animal species from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the most important museums in the country, focusing on archaeology and ethnology.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "A major cultural institution in Skopje hosting high-quality opera and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A museum of modern art offering views over Skopje from its hilltop location.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "An art gallery housed in a former 15th-century Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-043",
     coords: [21.4333, 42.0333],
@@ -226,7 +1423,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-043-roma-market.webp",
   },
   {
-    id: "MK-043-amdi-pasha-monument",
+    id: "MK-043-amdi-pasha-monument", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das die Flora und Fauna Nordmazedoniens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine mittelalterliche Festung, die über dem alten Teil von Skopje thront.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der städtische Zoo von Skopje beherbergt zahlreiche Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Ein bedeutendes Museum in Skopje zur Geschichte und Archäologie des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein Museum für zeitgenössische Kunst mit Blick auf das Stadtzentrum von Skopje.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Dinosaurierpark Skopje",
+                  "text": "Ein familienfreundlicher Themenpark mit Dinosaurierfiguren in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Alter Basar",
+                  "text": "Der historische Basar von Skopje mit osmanischer Architektur und vielen Läden.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Der große Stadtpark von Skopje bietet Grünflächen und Erholungsmöglichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely Észak-Macedónia növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Középkori erődítmény, amely Szkopje óvárosa fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Szkopje jelentős múzeuma, amely az ország történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Kortárs művészeti múzeum, amely Szkopje városközpontjára néz.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Családbarát tematikus park dinoszaurusz-figurákkal Szkopjéban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Турска Чаршија",
+                  "text": "Szkopje történelmi bazárja oszmán építészettel és számos üzlettel.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Градски парк",
+                  "text": "Szkopje nagy városi parkja zöldterületeket és kikapcsolódási lehetőséget kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu în Skopje care prezintă flora și fauna Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate medievală care domină partea veche a orașului Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică a orașului Skopje găzduiește numeroase specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Un muzeu important din Skopje dedicat istoriei și arheologiei țării.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă contemporană cu vedere spre centrul orașului Skopje.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Дино парк Скопје",
+                  "text": "Un parc tematic pentru familii cu figuri de dinozauri în Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Турска Чаршија",
+                  "text": "Bazarul istoric din Skopje, cu arhitectură otomană și numeroase magazine.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Градски парк",
+                  "text": "Marele parc municipal din Skopje oferă spații verzi și facilități de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje showcasing the flora and fauna of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A medieval fortress overlooking the old part of the city of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "Skopje's city zoo, home to a wide variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "A significant museum in Skopje covering the country's history and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A museum of contemporary art overlooking the city center of Skopje.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Dinosaur Park Skopje",
+                  "text": "A family-friendly theme park featuring dinosaur figures in Skopje.",
+                  "category": "recreational",
+                  "coords": [
+                        21.41926,
+                        42.005435
+                  ]
+            },
+            {
+                  "name": "Turkish Bazaar",
+                  "text": "Skopje's historic bazaar featuring Ottoman architecture and many shops.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "Skopje's large city park offering green spaces and recreational facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-043",
     coords: [21.4389, 42.0350],
@@ -271,7 +1765,268 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-044: Butel
   {
-    id: "MK-044-butel-cemetery",
+    id: "MK-044-butel-cemetery", "sights": {
+      "de": [
+            {
+                  "name": "Скопско кале",
+                  "text": "Die Festung von Skopje, bekannt als Kale, ist eine historische Burganlage über der nordmazedonischen Hauptstadt.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der Zoo von Skopje beherbergt eine Vielzahl von Tierarten und ist ein beliebtes Ausflugsziel in der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Dieses Museum in Skopje zeigt Ausstellungen zur Geschichte, Archäologie und Ethnologie Nordmazedoniens.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Das Museum für zeitgenössische Kunst in Skopje präsentiert Werke moderner und aktueller Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Alter Basar",
+                  "text": "Der Alte Basar von Skopje ist das größte Handelszentrum und ein wichtiges kulturelles Viertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Der Stadtpark von Skopje bietet weitläufige Grünflächen und Erholungsmöglichkeiten im Herzen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            },
+            {
+                  "name": "Француски воени гробишта",
+                  "text": "Ein französischer Militärfriedhof in Skopje, der an die im Ersten Weltkrieg gefallenen Soldaten erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        21.429836,
+                        42.008353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Скопско кале",
+                  "text": "A szkópjei erőd, az úgynevezett Kale, egy történelmi vár az észak-macedón főváros felett.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "A szkópjei állatkert számos állatfajnak ad otthont, és népszerű úti cél a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Ez a szkópjei múzeum Észak-Macedónia történelmét, régészetét és néprajzát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "A szkópjei Kortárs Művészeti Múzeum modern és kortárs művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Турска Чаршија",
+                  "text": "A szkópjei Öreg Bazár a város legnagyobb kereskedelmi központja és jelentős kulturális negyede.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Градски парк",
+                  "text": "A szkópjei városi park tágas zöldfelületeket és kikapcsolódási lehetőségeket kínál a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            },
+            {
+                  "name": "Француски воени гробишта",
+                  "text": "Francia katonai temető Szkópjéban, amely az első világháborúban elesett katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        21.429836,
+                        42.008353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Скопско кале",
+                  "text": "Cetatea Skopje, cunoscută sub numele de Kale, este o fortificație istorică situată deasupra capitalei Macedoniei de Nord.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina Zoologică din Skopje găzduiește o varietate de specii de animale și este o destinație populară în oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Acest muzeu din Skopje prezintă expoziții despre istoria, arheologia și etnologia Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Muzeul de Artă Contemporană din Skopje prezintă lucrări ale artiștilor moderni și actuali.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Турска Чаршија",
+                  "text": "Vechiul Bazar din Skopje este cel mai mare centru comercial și un cartier cultural important al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "Градски парк",
+                  "text": "Parcul orașului din Skopje oferă spații verzi vaste și facilități de recreere în inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            },
+            {
+                  "name": "Француски воени гробишта",
+                  "text": "Un cimitir militar francez din Skopje, care îi comemorează pe soldații căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        21.429836,
+                        42.008353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skopje Fortress",
+                  "text": "The Skopje Fortress, known as Kale, is a historic fortification overlooking the capital of North Macedonia.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The Skopje Zoo is home to a variety of animal species and is a popular destination in the city.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "This museum in Skopje features exhibitions on the history, archaeology, and ethnology of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "The Contemporary Art Museum in Skopje presents works by modern and contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Turkish Bazaar",
+                  "text": "The Old Bazaar in Skopje is the city's largest commercial center and a significant cultural district.",
+                  "category": "landmark",
+                  "coords": [
+                        21.437124,
+                        42.001105
+                  ]
+            },
+            {
+                  "name": "City Park",
+                  "text": "Skopje City Park offers expansive green spaces and recreational facilities in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        21.415899,
+                        42.010029
+                  ]
+            },
+            {
+                  "name": "French military cemeteries",
+                  "text": "A French military cemetery in Skopje commemorating soldiers who fell during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        21.429836,
+                        42.008353
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-044",
     coords: [21.4500, 42.0333],
@@ -315,7 +2070,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-044-butel-cemetery.webp",
   },
   {
-    id: "MK-044-aqueduct-skopje",
+    id: "MK-044-aqueduct-skopje", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Das Museum präsentiert eine umfassende Sammlung zur Geologie und Biologie Nordmazedoniens.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte einer antiken römischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung, die einen weiten Blick über die Hauptstadt Skopje bietet.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Ein städtischer Zoo, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Das Museum bewahrt und zeigt wertvolle Exponate zur Geschichte und Archäologie Mazedoniens.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Die wichtigste kulturelle Institution für Opern- und Ballettaufführungen im Land.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein Museum für zeitgenössische Kunst mit einer bedeutenden internationalen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Diese Kunstgalerie ist in einem eindrucksvoll restaurierten osmanischen Hamam untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "A múzeum Észak-Macedónia geológiáját és biológiáját bemutató átfogó gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Egy ókori római város jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erődítmény, amely széles kilátást nyújt a fővárosra, Szkopjéra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Városi állatkert, amely számos őshonos és egzotikus állatnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "A múzeum Macedónia történelmének és régészetének értékes emlékeit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Az ország legfontosabb kulturális intézménye operai és balett-előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Kortárs művészeti múzeum jelentős nemzetközi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Ez a művészeti galéria egy impozánsan felújított oszmán hamamban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Muzeul găzduiește o colecție cuprinzătoare despre geologia și biologia Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Un sit arheologic important ce cuprinde ruinele unui vechi oraș roman.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O fortăreață istorică ce oferă o panoramă vastă asupra capitalei Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "O grădină zoologică urbană ce găzduiește o varietate de animale native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Muzeul conservă și expune artefacte valoroase din istoria și arheologia Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Cea mai importantă instituție culturală pentru spectacole de operă și balet din țară.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă contemporană ce deține o importantă colecție internațională.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Această galerie de artă este găzduită într-un hamam otoman restaurat impresionant.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "The museum houses a comprehensive collection on the geology and biology of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "A significant archaeological site featuring the ruins of an ancient Roman city.",
+                  "category": "historical",
+                  "coords": [
+                        21.388205,
+                        42.020428
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress offering expansive views over the capital city of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "A city zoo home to a variety of native and exotic animals from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "The museum preserves and displays valuable artifacts from Macedonian history and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The country's premier cultural institution for opera and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A museum of contemporary art featuring a significant international collection.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "This art gallery is housed in an impressively restored Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-044",
     coords: [21.4167, 42.0228],
@@ -360,7 +2412,304 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-045: Čair
   {
-    id: "MK-045-old-bazaar",
+    id: "MK-045-old-bazaar", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Das Naturkundemuseum in Skopje, das die vielfältige Flora und Fauna Mazedoniens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf dem höchsten Punkt von Skopje mit Blick auf den Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der städtische Zoo von Skopje, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der ältesten Museen des Landes, das die Geschichte und Ethnologie Mazedoniens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Die führende Kulturinstitution in Skopje für Opern- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein bedeutendes Museum für moderne Kunst, das nach dem Erdbeben von 1963 gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum des mazedonischen Kampfes",
+                  "text": "Dieses Museum zeigt Ausstellungen zum mazedonischen Unabhängigkeitskampf und zur nationalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei természettudományi múzeum, amely Macedónia gazdag növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd Szkopje legmagasabb pontján, kilátással a Vardar folyóra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely számos őshonos és egzotikus állatnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legrégebbi múzeuma, amely Macedónia történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Szkopje vezető kulturális intézménye operaelőadások és balettek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Fontos modern művészeti múzeum, amelyet az 1963-as földrengés után alapítottak.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Művészeti galéria egy egykori, 15. századi oszmán fürdő épületében.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Ez a múzeum a macedón függetlenségi harc és a nemzeti történelem eseményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Muzeul de Istorie Naturală din Skopje, care documentează flora și fauna diversă a Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O fortăreață istorică situată în cel mai înalt punct din Skopje, cu vedere la râul Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje, care adăpostește o varietate de animale native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai vechi muzee din țară, care prezintă istoria și etnologia Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Principala instituție culturală din Skopje pentru spectacole de operă și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un important muzeu de artă modernă, fondat după cutremurul din 1963.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Acest muzeu prezintă expoziții dedicate luptei pentru independența Macedoniei și istoriei naționale.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "The natural history museum in Skopje, documenting the diverse flora and fauna of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress located on the highest point in Skopje, overlooking the Vardar River.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The municipal zoo of Skopje, home to a variety of native and exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the oldest museums in the country, showcasing the history and ethnology of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The leading cultural institution in Skopje for opera and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A significant modern art museum founded after the 1963 earthquake.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "An art gallery housed in a former 15th-century Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian struggle",
+                  "text": "This museum features exhibits on the Macedonian struggle for independence and national history.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-045",
     coords: [21.4367, 42.0008],
@@ -404,7 +2753,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-045-old-bazaar.webp",
   },
   {
-    id: "MK-045-mustafa-pasha-mosque",
+    id: "MK-045-mustafa-pasha-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das der Flora, Fauna und Geologie Nordmazedoniens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf dem höchsten Punkt der Stadt mit Blick auf den Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten in der Nähe des Stadtzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Die Überreste einer antiken römischen Stadt in der Nähe von Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eine bedeutende kulturelle Einrichtung, die die Geschichte und Ethnologie Mazedoniens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Das nationale Zentrum für Opern- und Ballettaufführungen in der mazedonischen Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein bedeutendes Museum für zeitgenössische Kunst mit einer internationalen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely Észak-Macedónia növény- és állatvilágát, valamint geológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd a város legmagasabb pontján, kilátással a Vardar folyóra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "A szkopjei állatkert számos állatfajnak ad otthont a városközpont közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Egy ókori római város maradványai Szkopje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Jelentős kulturális intézmény, amely Macedónia történelmét és néprajzát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Az operaelőadások és balettművészet nemzeti központja a macedón fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Kortárs művészeti múzeum jelentős nemzetközi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Művészeti galéria egy egykori 15. századi oszmán fürdőépületben.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu din Skopje dedicat florei, faunei și geologiei Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate istorică situată în cel mai înalt punct al orașului, oferind vedere spre râul Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale, fiind situată aproape de centrul orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Rămășițele unui oraș roman antic situat în apropiere de Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "O instituție culturală importantă ce documentează istoria și etnologia Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Centrul național pentru spectacole de operă și balet din capitala macedoneană.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă contemporană de referință, având o colecție internațională.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje dedicated to the flora, fauna, and geology of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress located on the highest point of the city overlooking the Vardar River.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The Skopje Zoo houses numerous animal species and is located near the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "The archaeological remains of an ancient Roman city located near Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "An important cultural institution documenting the history and ethnology of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The national center for opera and ballet performances in the Macedonian capital.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A prominent contemporary art museum featuring a significant international collection.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "An art gallery housed in a former 15th-century Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-045",
     coords: [21.4358, 42.0019],
@@ -449,7 +3095,304 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-046: Centar
   {
-    id: "MK-046-macedonia-square",
+    id: "MK-046-macedonia-square", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Museum für Naturkunde mit Exponaten zur Flora und Fauna Mazedoniens.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf einem Hügel mit Blick über Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der Stadtzoo von Skopje, der eine Vielzahl von Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der ältesten Museen des Landes, das sich mit Geschichte und Ethnologie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Ein bedeutendes Kulturzentrum für Opern- und Ballettaufführungen in der Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein Museum für zeitgenössische Kunst mit Werken lokaler und internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Nationalgalerie, die in einem restaurierten osmanischen Bad aus dem 15. Jahrhundert untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum des mazedonischen Kampfes",
+                  "text": "Museum zur Geschichte des mazedonischen Kampfes für Unabhängigkeit.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Természettudományi múzeum Macedónia növény- és állatvilágát bemutató tárlatokkal.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd egy dombtetőn, ahonnan kilátás nyílik Szkopjéra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legrégebbi múzeuma, amely történelemmel és néprajzzal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Jelentős kulturális központ opera- és balettelőadások számára a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Kortárs művészeti múzeum helyi és nemzetközi művészek alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Nemzeti galéria egy 15. századi, felújított oszmán fürdő épületében.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Macedónia függetlenségi harcának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Muzeu de istorie naturală cu exponate despre flora și fauna Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate istorică situată pe un deal, oferind vedere asupra orașului Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje, care găzduiește o varietate de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai vechi muzee din țară, axat pe istorie și etnologie.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Un centru cultural major pentru spectacole de operă și balet din capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă contemporană cu lucrări ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie națională găzduită într-o baie otomană restaurată din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Muzeu dedicat istoriei luptei macedonene pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "Natural history museum with exhibits on the flora and fauna of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress situated on a hill overlooking the city of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The city zoo of Skopje, housing a variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the country's oldest museums, focusing on history and ethnology.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "A major cultural center for opera and ballet performances in the capital city.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A contemporary art museum featuring works by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "A national gallery housed in a restored 15th-century Ottoman bath building.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian struggle",
+                  "text": "Museum dedicated to the history of the Macedonian struggle for independence.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-046",
     coords: [21.4331, 41.9961],
@@ -493,7 +3436,304 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-046-macedonia-square.webp",
   },
   {
-    id: "MK-046-stone-bridge",
+    id: "MK-046-stone-bridge", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das die vielfältige Flora und Fauna der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf einem Hügel, die einen weiten Blick über die Stadt Skopje bietet.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der städtische Zoo von Skopje beherbergt eine Vielzahl von Tierarten in der Nähe des Stadtzentrums.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der größten Museen des Landes, das sich mit der Geschichte und Ethnologie Nordmazedoniens befasst.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Ein zentrales Kulturinstitut in Skopje für Opern- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Dieses Museum in Skopje zeigt eine bedeutende Sammlung moderner und zeitgenössischer Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Kunstgalerie in einem restaurierten osmanischen Badehaus aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum des mazedonischen Kampfes",
+                  "text": "Ein Museum, das dem historischen Kampf für die mazedonische Unabhängigkeit gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely a régió változatos növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd egy dombtetőn, ahonnan tágas kilátás nyílik Szkopje városára.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje számos állatfajnak ad otthont a városközpont közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legnagyobb múzeuma, amely Észak-Macedónia történelmével és néprajzával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Szkopje központi kulturális intézménye operaelőadások és balettműsorok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ez a szkopjei múzeum a modern és kortárs művészeti alkotások jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Művészeti galéria egy restaurált 15. századi oszmán fürdőépületben.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "A macedón függetlenségért vívott történelmi harcnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu din Skopje care prezintă flora și fauna diversă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate istorică situată pe un deal, oferind o vedere panoramică asupra orașului Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică din Skopje găzduiește o varietate de specii de animale în apropierea centrului orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai mari muzee din țară, dedicat istoriei și etnologiei Macedoniei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "O instituție culturală centrală din Skopje pentru spectacole de operă și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Acest muzeu din Skopje expune o colecție importantă de opere de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie de artă situată într-o fostă baie otomană restaurată din secolul al XV-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Un muzeu dedicat luptei istorice pentru independența macedoneană.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje presenting the diverse flora and fauna of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress located on a hill, offering expansive views over the city of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The city zoo of Skopje houses a variety of animal species near the city center.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the largest museums in the country, focusing on the history and ethnology of North Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "A central cultural institution in Skopje for opera and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "This museum in Skopje displays a significant collection of modern and contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "An art gallery housed in a restored 15th-century Ottoman bathhouse.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian struggle",
+                  "text": "A museum dedicated to the historical struggle for Macedonian independence.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-046",
     coords: [21.4331, 41.9969],
@@ -627,7 +3867,232 @@ export const mkPoisPart5: POI[] = [
   },
   // MK-048: Dolneni
   {
-    id: "MK-048-monastery-zrze",
+    id: "MK-048-monastery-zrze", "sights": {
+      "de": [
+            {
+                  "name": "Кале",
+                  "text": "Archäologische Fundstätte einer antiken Festung beim Kloster Zrze.",
+                  "category": "historical",
+                  "coords": [
+                        21.342224,
+                        41.522928
+                  ]
+            },
+            {
+                  "name": "Зрзески Манастир",
+                  "text": "Ein bedeutendes mittelalterliches Kloster in Nordmazedonien, das auf einem Felsen liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341581,
+                        41.521187
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Eine dem Heiligen Nikolaus geweihte orthodoxe Kirche beim Dorf Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.349625,
+                        41.518099
+                  ]
+            },
+            {
+                  "name": "Св. Недела",
+                  "text": "Eine kleine Kapelle oder Kirche in der Region Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.300141,
+                        41.516797
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "Eine dem Heiligen Elias geweihte Kirche in der Umgebung von Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.372637,
+                        41.537275
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Eine der Jungfrau Maria geweihte Kirche in der Nähe von Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.365101,
+                        41.535891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кале",
+                  "text": "Egy ókori erőd régészeti lelőhelye a zrzei kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.342224,
+                        41.522928
+                  ]
+            },
+            {
+                  "name": "Зрзески Манастир",
+                  "text": "Jelentős középkori kolostor Észak-Macedóniában, amely egy sziklán található.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341581,
+                        41.521187
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Szent Miklósnak szentelt ortodox templom Zrze falu közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.349625,
+                        41.518099
+                  ]
+            },
+            {
+                  "name": "Св. Недела",
+                  "text": "Egy kis kápolna vagy templom Zrze környékén.",
+                  "category": "religious",
+                  "coords": [
+                        21.300141,
+                        41.516797
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "Szent Illésnek szentelt templom Zrze környékén.",
+                  "category": "religious",
+                  "coords": [
+                        21.372637,
+                        41.537275
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Szűz Máriának szentelt templom Zrze közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.365101,
+                        41.535891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кале",
+                  "text": "Sit arheologic al unei fortărețe antice lângă mănăstirea Zrze.",
+                  "category": "historical",
+                  "coords": [
+                        21.342224,
+                        41.522928
+                  ]
+            },
+            {
+                  "name": "Зрзески Манастир",
+                  "text": "O mănăstire medievală importantă din Macedonia de Nord, situată pe o stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341581,
+                        41.521187
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "O biserică ortodoxă sfințită în cinstea Sfântului Nicolae, lângă satul Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.349625,
+                        41.518099
+                  ]
+            },
+            {
+                  "name": "Св. Недела",
+                  "text": "O mică capelă sau biserică în regiunea Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.300141,
+                        41.516797
+                  ]
+            },
+            {
+                  "name": "Св. Илија",
+                  "text": "O biserică sfințită în cinstea Sfântului Ilie în apropiere de Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.372637,
+                        41.537275
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "O biserică sfințită în cinstea Adormirii Maicii Domnului lângă Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.365101,
+                        41.535891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kale",
+                  "text": "Archaeological site of an ancient fortress near the Zrze Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        21.342224,
+                        41.522928
+                  ]
+            },
+            {
+                  "name": "Monastery of Zrze",
+                  "text": "A significant medieval monastery in North Macedonia located on a rock.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341581,
+                        41.521187
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "An Orthodox church dedicated to Saint Nicholas near the village of Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.349625,
+                        41.518099
+                  ]
+            },
+            {
+                  "name": "St. Domenica",
+                  "text": "A small chapel or church in the Zrze region.",
+                  "category": "religious",
+                  "coords": [
+                        21.300141,
+                        41.516797
+                  ]
+            },
+            {
+                  "name": "St. Eliyah",
+                  "text": "A church dedicated to Saint Elijah in the vicinity of Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.372637,
+                        41.537275
+                  ]
+            },
+            {
+                  "name": "Dormition of Holy Mother of God",
+                  "text": "A church dedicated to the Dormition of the Virgin Mary near Zrze.",
+                  "category": "religious",
+                  "coords": [
+                        21.365101,
+                        41.535891
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-048",
     coords: [21.3417, 41.5208],
@@ -671,7 +4136,196 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-048-monastery-zrze.webp",
   },
   {
-    id: "MK-048-marion-monument",
+    id: "MK-048-marion-monument", "sights": {
+      "de": [
+            {
+                  "name": "Белополски Манастир",
+                  "text": "Ein orthodoxes Kloster in der Nähe des Dorfes Belo Pole in der Gemeinde Dolneni.",
+                  "category": "landmark",
+                  "coords": [
+                        21.412242,
+                        41.413984
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "Eine dem heiligen Georg geweihte orthodoxe Kirche im Dorf Novoselani bei Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.430774,
+                        41.401873
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Die orthodoxe Nikolaikirche im Dorf Belo Pole in der Region Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.396639,
+                        41.407624
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Eine orthodoxe Kirche der Heiligen Dreifaltigkeit in der Ortschaft Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.450523,
+                        41.431495
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "Eine orthodoxe Kirche Christi Himmelfahrt im Dorf Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.453881,
+                        41.427298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Белополски Манастир",
+                  "text": "Ortodox kolostor Belo Pole falu közelében, Dolneni községben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.412242,
+                        41.413984
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "Szent Györgynek szentelt ortodox templom Novoselani faluban, Dolneni közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.430774,
+                        41.401873
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Szent Miklós ortodox templom Belo Pole faluban, Dolneni térségében.",
+                  "category": "religious",
+                  "coords": [
+                        21.396639,
+                        41.407624
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Szent Háromság ortodox templom Dolneni településen.",
+                  "category": "religious",
+                  "coords": [
+                        21.450523,
+                        41.431495
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "Krisztus mennybemenetelének szentelt ortodox templom Dolneni faluban.",
+                  "category": "religious",
+                  "coords": [
+                        21.453881,
+                        41.427298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Белополски Манастир",
+                  "text": "O mănăstire ortodoxă situată lângă satul Belo Pole din comuna Dolneni.",
+                  "category": "landmark",
+                  "coords": [
+                        21.412242,
+                        41.413984
+                  ]
+            },
+            {
+                  "name": "Св. Георгиј",
+                  "text": "O biserică ortodoxă sfințită în onoarea Sfântului Gheorghe în satul Novoselani de lângă Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.430774,
+                        41.401873
+                  ]
+            },
+            {
+                  "name": "Св. Никола",
+                  "text": "Biserica ortodoxă Sfântul Nicolae din satul Belo Pole, regiunea Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.396639,
+                        41.407624
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "O biserică ortodoxă închinată Sfintei Treimi în localitatea Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.450523,
+                        41.431495
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "O biserică ortodoxă a Înălțării Domnului în satul Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.453881,
+                        41.427298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Belo Pole",
+                  "text": "An Orthodox monastery located near the village of Belo Pole in Dolneni Municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        21.412242,
+                        41.413984
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "An Orthodox church dedicated to Saint George in the village of Novoselani near Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.430774,
+                        41.401873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "The Orthodox church of Saint Nicholas located in the village of Belo Pole, Dolneni region.",
+                  "category": "religious",
+                  "coords": [
+                        21.396639,
+                        41.407624
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "An Orthodox church dedicated to the Holy Trinity located in the village of Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.450523,
+                        41.431495
+                  ]
+            },
+            {
+                  "name": "Holy Salvation",
+                  "text": "An Orthodox church dedicated to the Ascension of Jesus in the village of Dolneni.",
+                  "category": "religious",
+                  "coords": [
+                        21.453881,
+                        41.427298
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-048",
     coords: [21.4167, 41.4167],
@@ -849,7 +4503,52 @@ export const mkPoisPart5: POI[] = [
     image: "/poi-images/MK-050-visoki-mogila.webp",
   },
   {
-    id: "MK-050-crna-reka-mogila",
+    id: "MK-050-crna-reka-mogila", "sights": {
+      "de": [
+            {
+                  "name": "Горна Чарлија",
+                  "text": "Historische Ruinen in der Nähe des Flusses Crna bei Mogila.",
+                  "category": "historical",
+                  "coords": [
+                        21.432473,
+                        41.1524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Горна Чарлија",
+                  "text": "Történelmi romok a Crna-folyó közelében, Mogila mellett.",
+                  "category": "historical",
+                  "coords": [
+                        21.432473,
+                        41.1524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Горна Чарлија",
+                  "text": "Ruine istorice situate lângă râul Crna, în apropiere de Mogila.",
+                  "category": "historical",
+                  "coords": [
+                        21.432473,
+                        41.1524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorna Charlija",
+                  "text": "Historic ruins situated near the Crna River in the Mogila region.",
+                  "category": "historical",
+                  "coords": [
+                        21.432473,
+                        41.1524
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "MK-050",
     coords: [21.4333, 41.1333],

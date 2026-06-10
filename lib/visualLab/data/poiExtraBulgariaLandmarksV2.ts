@@ -138,7 +138,88 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-koprinka-dam-monument-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-shipka-memorial-church-landmarks-v2",
+    id: "bulgaria-shipka-memorial-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Орлово гнездо",
+                  "text": "Ein historischer Gipfel im Balkangebirge nahe dem Schipka-Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "Eine prachtvolle russisch-orthodoxe Kirche mit goldenen Kuppeln in Schipka.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sasfészek",
+                  "text": "Történelmi hegycsúcs a Balkán-hegységben, a Sipka-szoros közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "Pompás orosz ortodox templom aranykupolákkal Sipka városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Орлово гнездо",
+                  "text": "Un vârf istoric în Munții Balcani, lângă Pasul Șipka.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "text": "O spectaculoasă biserică ortodoxă rusă cu cupole aurite în Șipka.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eagle's Nest",
+                  "text": "A historic peak in the Balkan Mountains near the Shipka Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        25.322236,
+                        42.746463
+                  ]
+            },
+            {
+                  "name": "Shipka Memorial Church",
+                  "text": "A magnificent Russian Orthodox church with golden domes in Shipka.",
+                  "category": "religious",
+                  "coords": [
+                        25.329029,
+                        42.716061
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BG",
     name: { de: "Gedächtniskirche Schipka", hu: "Sipkai emléktemplom", ro: "Biserica memorială de la Șipka", en: "Shipka Memorial Church" },
@@ -228,7 +309,88 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-rzhava-monastery-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-basarbovo-monastery-landmarks-v2",
+    id: "bulgaria-basarbovo-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "text": "Eine Kartbahn in der Nähe des Klosters Basarbovo für Motorsportbegeisterte.",
+                  "category": "recreational",
+                  "coords": [
+                        26.026952,
+                        43.779651
+                  ]
+            },
+            {
+                  "name": "Басарбовски Скален Манастир",
+                  "text": "Ein einzigartiges bulgarisch-orthodoxes Felsenkloster, das in die Klippen in der Nähe von Russe gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964939,
+                        43.766639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "text": "Egy gokartpálya a Baszarbovói kolostor közelében a motorsportok kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        26.026952,
+                        43.779651
+                  ]
+            },
+            {
+                  "name": "Басарбовски Скален Манастир",
+                  "text": "Kősziklába vájt bolgár ortodox kolostor Rusze közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964939,
+                        43.766639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "text": "O pistă de karting lângă Mănăstirea Basarbovo pentru pasionații de sporturi cu motor.",
+                  "category": "recreational",
+                  "coords": [
+                        26.026952,
+                        43.779651
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfântul Dimitrie” Basarabov",
+                  "text": "O mănăstire ortodoxă bulgară săpată în stâncă, situată în apropiere de Ruse.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964939,
+                        43.766639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pist Kart Extreme",
+                  "text": "A go-kart track near Basarbovo Monastery for motorsport enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        26.026952,
+                        43.779651
+                  ]
+            },
+            {
+                  "name": "Basarbovo Rock Monastery",
+                  "text": "A unique Bulgarian Orthodox rock monastery carved into the cliffs near Ruse.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964939,
+                        43.766639
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "BG",
     name: { de: "Kloster Basarbowo", hu: "Baszarbovói kolostor", ro: "Mănăstirea Basarabov", en: "Basarbovo Monastery" },
@@ -318,7 +480,232 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-rozhen-monastery-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-vitosha-boyana-waterfall-landmarks-v2",
+    id: "bulgaria-vitosha-boyana-waterfall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей на мечката",
+                  "text": "Ein Museum in der Nähe des Bojana-Wasserfalls, das Bären gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.225062,
+                        42.636019
+                  ]
+            },
+            {
+                  "name": "Камен дел",
+                  "text": "Kamen Del ist ein beliebter Aussichtspunkt auf dem Witoscha-Berg.",
+                  "category": "natural",
+                  "coords": [
+                        23.276586,
+                        42.611985
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Die Goldenen Brücken sind ein berühmter Steinfluss im Witoscha-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf das Witoscha-Gebirge und Bankja.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            },
+            {
+                  "name": "Kirche von Bojana",
+                  "text": "Eine mittelalterliche Kirche bei Sofia, die zum UNESCO-Welterbe gehört.",
+                  "category": "religious",
+                  "coords": [
+                        23.266196,
+                        42.644641
+                  ]
+            },
+            {
+                  "name": "КРТЦ Витоша - Копитото",
+                  "text": "Ein bekannter Fernsehturm auf dem Gipfel Kopitoto im Witoscha-Gebirge.",
+                  "category": "tower",
+                  "coords": [
+                        23.24385,
+                        42.636897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей на мечката",
+                  "text": "A Bojana-vízesés közelében található múzeum, amelyet a medvéknek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        23.225062,
+                        42.636019
+                  ]
+            },
+            {
+                  "name": "Камен дел",
+                  "text": "Kamen Del egy népszerű kilátóhely a Vitosa-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        23.276586,
+                        42.611985
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Az Aranyhidak egy híres kőfolyó a Vitosa-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Panorámás kilátóhely a Vitosa-hegységre és Bankjára.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            },
+            {
+                  "name": "Боянска църква",
+                  "text": "Középkori templom Szófia közelében, amely az UNESCO Világörökség része.",
+                  "category": "religious",
+                  "coords": [
+                        23.266196,
+                        42.644641
+                  ]
+            },
+            {
+                  "name": "КРТЦ Витоша - Копитото",
+                  "text": "Ismert tévétorony a Kopitoto-csúcson, a Vitosa-hegységben.",
+                  "category": "tower",
+                  "coords": [
+                        23.24385,
+                        42.636897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей на мечката",
+                  "text": "Un muzeu lângă Cascada Boiana, dedicat urșilor.",
+                  "category": "museum",
+                  "coords": [
+                        23.225062,
+                        42.636019
+                  ]
+            },
+            {
+                  "name": "Камен дел",
+                  "text": "Kamen Del este un punct de belvedere popular pe muntele Vitoșa.",
+                  "category": "natural",
+                  "coords": [
+                        23.276586,
+                        42.611985
+                  ]
+            },
+            {
+                  "name": "Златните мостове",
+                  "text": "Podurile de Aur reprezintă un faimos râu de piatră în munții Vitoșa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "Un punct de belvedere cu vedere panoramică spre munții Vitoșa și Bankia.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            },
+            {
+                  "name": "Боянска църква",
+                  "text": "O biserică medievală de lângă Sofia, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        23.266196,
+                        42.644641
+                  ]
+            },
+            {
+                  "name": "КРТЦ Витоша - Копитото",
+                  "text": "Un turn de televiziune cunoscut pe vârful Kopitoto din munții Vitoșa.",
+                  "category": "tower",
+                  "coords": [
+                        23.24385,
+                        42.636897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bear museum",
+                  "text": "A museum near Boyana Waterfall dedicated to bears.",
+                  "category": "museum",
+                  "coords": [
+                        23.225062,
+                        42.636019
+                  ]
+            },
+            {
+                  "name": "Kamen del",
+                  "text": "Kamen Del is a popular viewpoint on Vitosha Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        23.276586,
+                        42.611985
+                  ]
+            },
+            {
+                  "name": "Golden Bridges",
+                  "text": "Golden Bridges is a famous stone river in the Vitosha Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.239174,
+                        42.609729
+                  ]
+            },
+            {
+                  "name": "Open View of Virosha and Bankya",
+                  "text": "A viewpoint with a panoramic view of the Vitosha Mountains and Bankya.",
+                  "category": "natural",
+                  "coords": [
+                        23.239222,
+                        42.589253
+                  ]
+            },
+            {
+                  "name": "Boyana Church",
+                  "text": "A medieval church near Sofia that is part of the UNESCO World Heritage list.",
+                  "category": "religious",
+                  "coords": [
+                        23.266196,
+                        42.644641
+                  ]
+            },
+            {
+                  "name": "TV Tower - Kopitoto",
+                  "text": "A well-known TV tower on the Kopitoto peak in the Vitosha Mountains.",
+                  "category": "tower",
+                  "coords": [
+                        23.24385,
+                        42.636897
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BG",
     name: { de: "Bojana-Wasserfall", hu: "Bojana-vízesés", ro: "Cascada Boiana", en: "Boyana Waterfall" },
@@ -723,7 +1110,124 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-st-nedelya-church-sofia-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-rila-monastery-entrance-landmarks-v2",
+    id: "bulgaria-rila-monastery-entrance-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waldreservat Rila-Kloster",
+                  "text": "Ein geschütztes Waldgebiet im Rila-Gebirge, das das berühmte Kloster umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        23.377245,
+                        42.141702
+                  ]
+            },
+            {
+                  "name": "Naturpark Rila-Kloster",
+                  "text": "Ein Naturpark in Bulgarien, der für seine Artenvielfalt und das Rila-Kloster bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.364635,
+                        42.124165
+                  ]
+            },
+            {
+                  "name": "Рилска Света Обител",
+                  "text": "Das Hauptmuseum des Klosters Rila mit wertvollen religiösen und historischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        23.340722,
+                        42.13334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Риломанастирска гора",
+                  "text": "Védett erdőterület a Rila-hegységben, amely a híres kolostort veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        23.377245,
+                        42.141702
+                  ]
+            },
+            {
+                  "name": "Природен парк Рилски манастир",
+                  "text": "Bulgáriai nemzeti park, amely biológiai sokféleségéről és a Rila-kolostorról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.364635,
+                        42.124165
+                  ]
+            },
+            {
+                  "name": "Рилска Света Обител",
+                  "text": "A Rila-kolostor főmúzeuma értékes vallási és történelmi kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        23.340722,
+                        42.13334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Риломанастирска гора",
+                  "text": "O zonă forestieră protejată din Munții Rila, care înconjoară faimoasa mănăstire.",
+                  "category": "natural",
+                  "coords": [
+                        23.377245,
+                        42.141702
+                  ]
+            },
+            {
+                  "name": "Природен парк Рилски манастир",
+                  "text": "Un parc natural din Bulgaria, cunoscut pentru biodiversitatea sa și Mănăstirea Rila.",
+                  "category": "natural",
+                  "coords": [
+                        23.364635,
+                        42.124165
+                  ]
+            },
+            {
+                  "name": "Рилска Света Обител",
+                  "text": "Principalul muzeu al Mănăstirii Rila, cu exponate religioase și istorice valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        23.340722,
+                        42.13334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rila Monastery Forest Reserve",
+                  "text": "A protected forest area in the Rila Mountains surrounding the famous monastery.",
+                  "category": "natural",
+                  "coords": [
+                        23.377245,
+                        42.141702
+                  ]
+            },
+            {
+                  "name": "Rila Monastery Natural Park",
+                  "text": "A natural park in Bulgaria known for its biodiversity and the Rila Monastery.",
+                  "category": "natural",
+                  "coords": [
+                        23.364635,
+                        42.124165
+                  ]
+            },
+            {
+                  "name": "Rila Monastery Ecclesiastical and Historical Museum",
+                  "text": "The main museum of the Rila Monastery, featuring valuable religious and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        23.340722,
+                        42.13334
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BG",
     name: { de: "Rila-Kloster-Eingang", hu: "Rilai kolostor bejárata", ro: "Intrarea mănăstirii Rila", en: "Rila Monastery Entrance" },

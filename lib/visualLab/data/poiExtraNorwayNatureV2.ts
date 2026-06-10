@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const norwayNatureV2: POI[] = [
 
   {
-    id: "norway-jotunheimen-mountains-nature-v2",
+    id: "norway-jotunheimen-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skarddalseggje",
+                  "text": "Ein markanter Bergrücken im norwegischen Jotunheimen-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        8.339542,
+                        61.485115
+                  ]
+            },
+            {
+                  "name": "Visbreatinden",
+                  "text": "Ein hoher Berggipfel in der alpinen Landschaft von Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.335468,
+                        61.530176
+                  ]
+            },
+            {
+                  "name": "Skarddalstinden",
+                  "text": "Ein Gipfel im Jotunheimen-Massiv, beliebt bei erfahrenen Bergwanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        8.320909,
+                        61.489152
+                  ]
+            },
+            {
+                  "name": "Midtre Høgvagltind",
+                  "text": "Ein zentral gelegener Gipfel in der Gebirgsregion Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.260682,
+                        61.505158
+                  ]
+            },
+            {
+                  "name": "Langvasshøe",
+                  "text": "Ein Berg im Jotunheimen-Nationalpark, der das Hochtal überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.322545,
+                        61.524491
+                  ]
+            },
+            {
+                  "name": "Store Rauddalseggje",
+                  "text": "Ein Teil eines beeindruckenden Gebirgskamms im Herzen Südnorwegens.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310211,
+                        61.467657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skarddalseggje",
+                  "text": "Jellegzetes hegygerinc a norvég Jotunheimen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.339542,
+                        61.485115
+                  ]
+            },
+            {
+                  "name": "Visbreatinden",
+                  "text": "Magas hegycsúcs Jotunheimen alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.335468,
+                        61.530176
+                  ]
+            },
+            {
+                  "name": "Skarddalstinden",
+                  "text": "A Jotunheimen-masszívum egyik csúcsa, a tapasztalt túrázók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        8.320909,
+                        61.489152
+                  ]
+            },
+            {
+                  "name": "Midtre Høgvagltind",
+                  "text": "Központi elhelyezkedésű csúcs a Jotunheimen hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.260682,
+                        61.505158
+                  ]
+            },
+            {
+                  "name": "Langvasshøe",
+                  "text": "Hegy a Jotunheimen Nemzeti Parkban, amely a magashegyi völgy fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.322545,
+                        61.524491
+                  ]
+            },
+            {
+                  "name": "Store Rauddalseggje",
+                  "text": "Dél-Norvégia szívében található lenyűgöző hegygerinc része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310211,
+                        61.467657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skarddalseggje",
+                  "text": "O creastă montană proeminentă în Parcul Național Jotunheimen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.339542,
+                        61.485115
+                  ]
+            },
+            {
+                  "name": "Visbreatinden",
+                  "text": "Un vârf montan înalt în peisajul alpin din Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.335468,
+                        61.530176
+                  ]
+            },
+            {
+                  "name": "Skarddalstinden",
+                  "text": "Un vârf din masivul Jotunheimen, popular printre drumeții experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        8.320909,
+                        61.489152
+                  ]
+            },
+            {
+                  "name": "Midtre Høgvagltind",
+                  "text": "Un vârf situat central în regiunea muntoasă Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.260682,
+                        61.505158
+                  ]
+            },
+            {
+                  "name": "Langvasshøe",
+                  "text": "Un munte în Parcul Național Jotunheimen, care domină valea înaltă.",
+                  "category": "landmark",
+                  "coords": [
+                        8.322545,
+                        61.524491
+                  ]
+            },
+            {
+                  "name": "Store Rauddalseggje",
+                  "text": "Parte a unei creste montane impresionante în inima Norvegiei de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310211,
+                        61.467657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skarddalseggje",
+                  "text": "A prominent mountain ridge in Norway's Jotunheimen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.339542,
+                        61.485115
+                  ]
+            },
+            {
+                  "name": "Visbreatinden",
+                  "text": "A high mountain peak in the alpine landscape of Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.335468,
+                        61.530176
+                  ]
+            },
+            {
+                  "name": "Skarddalstinden",
+                  "text": "A peak in the Jotunheimen massif, popular among experienced hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.320909,
+                        61.489152
+                  ]
+            },
+            {
+                  "name": "Midtre Høgvagltind",
+                  "text": "A centrally located peak in the Jotunheimen mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        8.260682,
+                        61.505158
+                  ]
+            },
+            {
+                  "name": "Langvasshøe",
+                  "text": "A mountain in Jotunheimen National Park overlooking the high valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.322545,
+                        61.524491
+                  ]
+            },
+            {
+                  "name": "Store Rauddalseggje",
+                  "text": "Part of an impressive mountain ridge in the heart of southern Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310211,
+                        61.467657
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Jotunheimen Nationalpark", hu: "Jotunheimen Nemzeti Park", ro: "Parcul Național Jotunheimen", en: "Jotunheimen National Park" },
@@ -48,7 +273,124 @@ export const norwayNatureV2: POI[] = [
     image: "/poi-images/norway-jotunheimen-mountains-nature-v2.webp",
   },
   {
-    id: "norway-voringfossen-waterfall-nature-v2",
+    id: "norway-voringfossen-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Måbødalen Kulturlandskapsmuseum",
+                  "text": "Ein Freilichtmuseum, das die Kulturgeschichte und Landschaft des Måbødal-Tals zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.200592,
+                        60.417231
+                  ]
+            },
+            {
+                  "name": "Vøringsfossen",
+                  "text": "Einer der bekanntesten Wasserfälle Norwegens mit einer Fallhöhe von 182 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        7.253401,
+                        60.427851
+                  ]
+            },
+            {
+                  "name": "Fossastovo",
+                  "text": "Historische Gebäudereste in der Nähe des berühmten Wasserfalls Vøringsfossen.",
+                  "category": "historical",
+                  "coords": [
+                        7.239574,
+                        60.427674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Måbødalen Kulturlandskapsmuseum",
+                  "text": "Szabadtéri múzeum, amely a Måbødal-völgy kultúrtörténetét és táját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.200592,
+                        60.417231
+                  ]
+            },
+            {
+                  "name": "Vøringsfossen",
+                  "text": "Norvégia egyik legismertebb vízesése, 182 méteres eséssel.",
+                  "category": "natural",
+                  "coords": [
+                        7.253401,
+                        60.427851
+                  ]
+            },
+            {
+                  "name": "Fossastovo",
+                  "text": "Történelmi épületmaradványok a híres Vøringsfossen-vízesés közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.239574,
+                        60.427674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Måbødalen Kulturlandskapsmuseum",
+                  "text": "Un muzeu în aer liber care prezintă istoria culturală și peisajul văii Måbødal.",
+                  "category": "museum",
+                  "coords": [
+                        7.200592,
+                        60.417231
+                  ]
+            },
+            {
+                  "name": "Vøringsfossen",
+                  "text": "Una dintre cele mai faimoase cascade din Norvegia, cu o cădere de 182 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        7.253401,
+                        60.427851
+                  ]
+            },
+            {
+                  "name": "Fossastovo",
+                  "text": "Rămășițe istorice de clădiri situate în apropierea celebrei cascade Vøringsfossen.",
+                  "category": "historical",
+                  "coords": [
+                        7.239574,
+                        60.427674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Måbødalen Kulturlandskapsmuseum",
+                  "text": "An open-air museum showcasing the cultural history and landscape of the Måbødal valley.",
+                  "category": "museum",
+                  "coords": [
+                        7.200592,
+                        60.417231
+                  ]
+            },
+            {
+                  "name": "Vøringsfossen",
+                  "text": "One of Norway's most famous waterfalls, with a total drop of 182 meters.",
+                  "category": "natural",
+                  "coords": [
+                        7.253401,
+                        60.427851
+                  ]
+            },
+            {
+                  "name": "Fossastovo",
+                  "text": "Historical remains of buildings located near the famous Vøringsfossen waterfall.",
+                  "category": "historical",
+                  "coords": [
+                        7.239574,
+                        60.427674
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Vøringsfossen", hu: "Vøringsfossen", ro: "Vøringsfossen", en: "Vøringsfossen" },
@@ -93,7 +435,52 @@ export const norwayNatureV2: POI[] = [
     image: "/poi-images/norway-voringfossen-waterfall-nature-v2.webp",
   },
   {
-    id: "norway-hardangervidda-plateau-nature-v2",
+    id: "norway-hardangervidda-plateau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storlega",
+                  "text": "Überreste alter Strukturen in der kargen Berglandschaft der Hardangervidda.",
+                  "category": "historical",
+                  "coords": [
+                        7.465231,
+                        60.025519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storlega",
+                  "text": "Régi építmények maradványai a Hardangervidda kopár hegyi táján.",
+                  "category": "historical",
+                  "coords": [
+                        7.465231,
+                        60.025519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storlega",
+                  "text": "Rămășițele unor structuri vechi în peisajul montan arid din Hardangervidda.",
+                  "category": "historical",
+                  "coords": [
+                        7.465231,
+                        60.025519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storlega",
+                  "text": "Remains of old structures in the barren mountain landscape of Hardangervidda.",
+                  "category": "historical",
+                  "coords": [
+                        7.465231,
+                        60.025519
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Hardangervidda", hu: "Hardangervidda", ro: "Hardangervidda", en: "Hardangervidda" },
@@ -486,7 +873,88 @@ export const norwayNatureV2: POI[] = [
     image: "/poi-images/norway-sunndalsfjella-park-nature-v2.webp",
   },
   {
-    id: "norway-gutulia-park-nature-v2",
+    id: "norway-gutulia-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gutulivola",
+                  "text": "Gutulivola ist ein Berggipfel im norwegischen Nationalpark Gutulia, bekannt für seine unberührte Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        12.183688,
+                        62.03114
+                  ]
+            },
+            {
+                  "name": "Baklivola",
+                  "text": "Baklivola ist eine Erhebung im Gutulia-Nationalpark, die Wanderern Ausblicke auf die nordische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.171977,
+                        62.049426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gutulivola",
+                  "text": "Gutulivola egy hegycsúcs a norvégiai Gutulia Nemzeti Parkban, amely érintetlen természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.183688,
+                        62.03114
+                  ]
+            },
+            {
+                  "name": "Baklivola",
+                  "text": "Baklivola egy magaslat a Gutulia Nemzeti Parkban, amely kilátást nyújt az északi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        12.171977,
+                        62.049426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gutulivola",
+                  "text": "Gutulivola este un vârf montan din Parcul Național Gutulia din Norvegia, cunoscut pentru natura sa virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.183688,
+                        62.03114
+                  ]
+            },
+            {
+                  "name": "Baklivola",
+                  "text": "Baklivola este o culme din Parcul Național Gutulia, oferind drumeților panorame asupra peisajului nordic.",
+                  "category": "landmark",
+                  "coords": [
+                        12.171977,
+                        62.049426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gutulivola",
+                  "text": "Gutulivola is a mountain peak in Norway's Gutulia National Park, known for its pristine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        12.183688,
+                        62.03114
+                  ]
+            },
+            {
+                  "name": "Baklivola",
+                  "text": "Baklivola is an elevation in Gutulia National Park, offering hikers views of the Nordic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.171977,
+                        62.049426
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NO",
     name: { de: "Gutulia", hu: "Gutulia", ro: "Gutulia", en: "Gutulia" },
@@ -621,7 +1089,88 @@ export const norwayNatureV2: POI[] = [
     image: "/poi-images/norway-rogaland-coastline-nature-v2.webp",
   },
   {
-    id: "norway-hardangerfjord-nature-v2",
+    id: "norway-hardangerfjord-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Herand Kulturhistoriske Senter",
+                  "text": "Dieses kulturhistorische Zentrum am Hardangerfjord informiert über die lokale Geschichte und Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        6.381332,
+                        60.343047
+                  ]
+            },
+            {
+                  "name": "Hereiane",
+                  "text": "Hereiane ist ein bekannter Rastplatz und Aussichtspunkt am Hardangerfjord mit markanter Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.337926,
+                        60.328498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herand Kulturhistoriske Senter",
+                  "text": "Ez a Hardanger-fjordnál található kultúrtörténeti központ a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.381332,
+                        60.343047
+                  ]
+            },
+            {
+                  "name": "Hereiane",
+                  "text": "Hereiane egy népszerű pihenőhely és kilátópont a Hardanger-fjordnál, jellegzetes építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.337926,
+                        60.328498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Herand Kulturhistoriske Senter",
+                  "text": "Acest centru cultural-istoric de pe Hardangerfjord oferă informații despre istoria și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        6.381332,
+                        60.343047
+                  ]
+            },
+            {
+                  "name": "Hereiane",
+                  "text": "Hereiane este un loc de popas și punct de belvedere popular pe Hardangerfjord, cu o arhitectură distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        6.337926,
+                        60.328498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Herand Kulturhistoriske Senter",
+                  "text": "This cultural-historical center on the Hardangerfjord provides information about local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        6.381332,
+                        60.343047
+                  ]
+            },
+            {
+                  "name": "Hereiane",
+                  "text": "Hereiane is a popular rest area and viewpoint on the Hardangerfjord featuring distinctive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        6.337926,
+                        60.328498
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NO",
     name: { de: "Hardangerfjord", hu: "Hardanger-fjord", ro: "Hardangerfjord", en: "Hardangerfjord" },
@@ -666,7 +1215,88 @@ export const norwayNatureV2: POI[] = [
     image: "/poi-images/norway-hardangerfjord-nature-v2.webp",
   },
   {
-    id: "norway-lunde-valley-nature-v2",
+    id: "norway-lunde-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linfjell og Sauås naturreservat",
+                  "text": "Ein Naturschutzgebiet im Lunde-Tal mit einer vielfältigen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        8.99719,
+                        59.258199
+                  ]
+            },
+            {
+                  "name": "Husefjell naturreservat",
+                  "text": "Ein geschütztes Naturareal am Husefjell im Lunde-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        9.009195,
+                        59.302737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linfjell og Sauås naturreservat",
+                  "text": "Természetvédelmi terület a Lunde-völgyben, változatos élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        8.99719,
+                        59.258199
+                  ]
+            },
+            {
+                  "name": "Husefjell naturreservat",
+                  "text": "Védett természeti terület a Husefjellen, a Lunde-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        9.009195,
+                        59.302737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linfjell og Sauås naturreservat",
+                  "text": "O rezervație naturală în valea Lunde, cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        8.99719,
+                        59.258199
+                  ]
+            },
+            {
+                  "name": "Husefjell naturreservat",
+                  "text": "O zonă naturală protejată pe muntele Husefjell din valea Lunde.",
+                  "category": "natural",
+                  "coords": [
+                        9.009195,
+                        59.302737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linfjell og Sauås naturreservat",
+                  "text": "A nature reserve in the Lunde Valley featuring diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        8.99719,
+                        59.258199
+                  ]
+            },
+            {
+                  "name": "Husefjell naturreservat",
+                  "text": "A protected natural area on Husefjell mountain in the Lunde Valley.",
+                  "category": "natural",
+                  "coords": [
+                        9.009195,
+                        59.302737
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NO",
     name: { de: "Lunde Tal", hu: "Lunde völgy", ro: "Valea Lunde", en: "Lunde Valley" },

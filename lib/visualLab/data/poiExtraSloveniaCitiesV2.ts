@@ -49,7 +49,448 @@ imageHint: "Velenje Castle and modern city skyline",
     },
     image: "/poi-images/slovenia-velenje-cities-v2.webp",
 },  {
-    id: "slovenia-novo-mesto-cities-v2", "sights": {"de": [{"name": "Schloss Graben", "text": "Eine historische Burganlage in Novo Mesto.", "category": "castle", "coords": [15.183564, 45.81756]}, {"name": "Dolenjski muzej", "text": "Das Dolenjski muzej in Novo Mesto ist eine zentrale Anlaufstelle für Kulturinteressierte. In seinen Ausstellungsräumen wird die reiche Geschichte der slowenischen Region Dolenjska anschaulich präsentiert.", "category": "museum", "coords": [15.168, 45.802967]}, {"name": "Tabletka", "text": "Ein modernes Denkmal in Novo Mesto.", "category": "historical", "coords": [15.169477, 45.821105]}, {"name": "Skulptura Leona Štuklja", "text": "Eine Skulptur zu Ehren des Olympioniken Leon Štukelj.", "category": "historical", "coords": [15.171205, 45.801208]}, {"name": "Seidlova cesta 1", "text": "Ein geschütztes Denkmal in Novo Mesto.", "category": "historical", "coords": [15.163228, 45.805514]}, {"name": "Poganci, Obeležje osamosvojitve", "text": "Ein Denkmal zur Unabhängigkeit Sloweniens.", "category": "historical", "coords": [15.178809, 45.778276]}, {"name": "Porušena cerkev sv. Roka", "text": "Die Ruinen einer ehemaligen St.-Rochus-Kirche.", "category": "historical", "coords": [15.169035, 45.781515]}, {"name": "Mestna hiša", "text": "Das historische Rathaus von Novo Mesto aus dem Jahr 1905.", "category": "historical", "coords": [15.170189, 45.803842]}, {"name": "Kapela Božjega groba", "text": "Eine Kapelle in Novo Mesto.", "category": "religious", "coords": [15.174221, 45.795834]}, {"name": "JŽ 25-019", "text": "Eine historische Dampflokomotive als Denkmal.", "category": "landmark", "coords": [15.153474, 45.812423]}, {"name": "Vrtec Pedenjped Novo mesto, enota METKA", "text": "Der Spielplatz Pedenjped in Novo Mesto ist ein einladender Ort für Kinder zum Spielen.", "category": "family", "coords": [15.161725, 45.806774]}], "hu": [{"name": "Grad Graben", "text": "Történelmi vár Novo Mesto területén.", "category": "castle", "coords": [15.183564, 45.81756]}, {"name": "Dolenjski muzej", "text": "A Novo Mesto városában található Dolenjski muzej a kultúra iránt érdeklődők központi találkozóhelye. Kiállítótermeiben a szlovén Dolenjska régió gazdag történelmét mutatják be szemléletesen.", "category": "museum", "coords": [15.168, 45.802967]}, {"name": "Tabletka", "text": "Modern emlékmű Novo Mesto területén.", "category": "historical", "coords": [15.169477, 45.821105]}, {"name": "Skulptura Leona Štuklja", "text": "Leon Štukelj olimpikon tiszteletére emelt szobor.", "category": "historical", "coords": [15.171205, 45.801208]}, {"name": "Seidlova cesta 1", "text": "Műemlékvédelmi helyszín Novo Mesto területén.", "category": "historical", "coords": [15.163228, 45.805514]}, {"name": "Poganci, Obeležje osamosvojitve", "text": "Szlovénia függetlenségének állított emlékmű.", "category": "historical", "coords": [15.178809, 45.778276]}, {"name": "Porušena cerkev sv. Roka", "text": "Az egykori Szent Rókus-templom romjai.", "category": "historical", "coords": [15.169035, 45.781515]}, {"name": "Mestna hiša", "text": "Novo Mesto 1905-ben épült történelmi városháza.", "category": "historical", "coords": [15.170189, 45.803842]}, {"name": "Kapela Božjega groba", "text": "Egy kápolna Novo Mesto területén.", "category": "religious", "coords": [15.174221, 45.795834]}, {"name": "JŽ 25-019", "text": "Történelmi gőzmozdony, amely emlékműként szolgál.", "category": "landmark", "coords": [15.153474, 45.812423]}, {"name": "Vrtec Pedenjped Novo mesto, enota METKA", "text": "A Novo Mesto-i Pedenjped játszótér hívogató hely a gyerekek számára a játékhoz.", "category": "family", "coords": [15.161725, 45.806774]}], "ro": [{"name": "Grad Graben", "text": "O fortăreață istorică în Novo Mesto.", "category": "castle", "coords": [15.183564, 45.81756]}, {"name": "Dolenjski muzej", "text": "Dolenjski muzej din Novo Mesto este o destinație centrală pentru pasionații de cultură. În sălile sale de expoziție, vizitatorii pot descoperi istoria bogată a regiunii slovene Dolenjska.", "category": "museum", "coords": [15.168, 45.802967]}, {"name": "Tabletka", "text": "Un monument modern în Novo Mesto.", "category": "historical", "coords": [15.169477, 45.821105]}, {"name": "Skulptura Leona Štuklja", "text": "O sculptură dedicată olimpicăului Leon Štukelj.", "category": "historical", "coords": [15.171205, 45.801208]}, {"name": "Seidlova cesta 1", "text": "Un monument protejat în Novo Mesto.", "category": "historical", "coords": [15.163228, 45.805514]}, {"name": "Poganci, Obeležje osamosvojitve", "text": "Un monument dedicat independenței Sloveniei.", "category": "historical", "coords": [15.178809, 45.778276]}, {"name": "Porušena cerkev sv. Roka", "text": "Ruinele fostei biserici Sfântul Rochus.", "category": "historical", "coords": [15.169035, 45.781515]}, {"name": "Mestna hiša", "text": "Primăria istorică din Novo Mesto, construită în 1905.", "category": "historical", "coords": [15.170189, 45.803842]}, {"name": "Kapela Božjega groba", "text": "O capelă în Novo Mesto.", "category": "religious", "coords": [15.174221, 45.795834]}, {"name": "JŽ 25-019", "text": "O locomotivă istorică cu abur, expusă ca monument.", "category": "landmark", "coords": [15.153474, 45.812423]}, {"name": "Vrtec Pedenjped Novo mesto, enota METKA", "text": "Locul de joacă Pedenjped din Novo Mesto este un spațiu primitor pentru joaca copiilor.", "category": "family", "coords": [15.161725, 45.806774]}], "en": [{"name": "Grad Graben", "text": "A historic castle complex in Novo Mesto.", "category": "castle", "coords": [15.183564, 45.81756]}, {"name": "Dolenjski muzej", "text": "The Dolenjski muzej in Novo Mesto serves as a key destination for those interested in culture. Its exhibition spaces vividly present the rich history of the Slovenian Dolenjska region.", "category": "museum", "coords": [15.168, 45.802967]}, {"name": "Tabletka", "text": "A modern monument in Novo Mesto.", "category": "historical", "coords": [15.169477, 45.821105]}, {"name": "Skulptura Leona Štuklja", "text": "A sculpture honoring the Olympian Leon Štukelj.", "category": "historical", "coords": [15.171205, 45.801208]}, {"name": "Seidlova cesta 1", "text": "A protected monument in Novo Mesto.", "category": "historical", "coords": [15.163228, 45.805514]}, {"name": "Poganci, Obeležje osamosvojitve", "text": "A monument dedicated to Slovenia's independence.", "category": "historical", "coords": [15.178809, 45.778276]}, {"name": "Porušena cerkev sv. Roka", "text": "The ruins of the former St. Roch church.", "category": "historical", "coords": [15.169035, 45.781515]}, {"name": "Mestna hiša", "text": "The historic town hall of Novo Mesto, built in 1905.", "category": "historical", "coords": [15.170189, 45.803842]}, {"name": "Kapela Božjega groba", "text": "A chapel in Novo Mesto.", "category": "religious", "coords": [15.174221, 45.795834]}, {"name": "JŽ 25-019", "text": "A historic steam locomotive displayed as a monument.", "category": "landmark", "coords": [15.153474, 45.812423]}, {"name": "Vrtec Pedenjped Novo mesto, enota METKA", "text": "Vrtec Pedenjped playground in Novo Mesto is an inviting space for children to play.", "category": "family", "coords": [15.161725, 45.806774]}]},
+    id: "slovenia-novo-mesto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Graben",
+                  "text": "Eine historische Burganlage in Novo Mesto.",
+                  "category": "castle",
+                  "coords": [
+                        15.183564,
+                        45.81756
+                  ]
+            },
+            {
+                  "name": "Dolenjski muzej",
+                  "text": "Das Dolenjski muzej in Novo Mesto ist eine zentrale Anlaufstelle für Kulturinteressierte. In seinen Ausstellungsräumen wird die reiche Geschichte der slowenischen Region Dolenjska anschaulich präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.168,
+                        45.802967
+                  ]
+            },
+            {
+                  "name": "Tabletka",
+                  "text": "Ein modernes Denkmal in Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.169477,
+                        45.821105
+                  ]
+            },
+            {
+                  "name": "Skulptura Leona Štuklja",
+                  "text": "Eine Skulptur zu Ehren des Olympioniken Leon Štukelj.",
+                  "category": "historical",
+                  "coords": [
+                        15.171205,
+                        45.801208
+                  ]
+            },
+            {
+                  "name": "Seidlova cesta 1",
+                  "text": "Ein geschütztes Denkmal in Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.163228,
+                        45.805514
+                  ]
+            },
+            {
+                  "name": "Poganci, Obeležje osamosvojitve",
+                  "text": "Ein Denkmal zur Unabhängigkeit Sloweniens.",
+                  "category": "historical",
+                  "coords": [
+                        15.178809,
+                        45.778276
+                  ]
+            },
+            {
+                  "name": "Porušena cerkev sv. Roka",
+                  "text": "Die Ruinen einer ehemaligen St.-Rochus-Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        15.169035,
+                        45.781515
+                  ]
+            },
+            {
+                  "name": "Mestna hiša",
+                  "text": "Das historische Rathaus von Novo Mesto aus dem Jahr 1905.",
+                  "category": "historical",
+                  "coords": [
+                        15.170189,
+                        45.803842
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "Eine Kapelle in Novo Mesto.",
+                  "category": "religious",
+                  "coords": [
+                        15.174221,
+                        45.795834
+                  ]
+            },
+            {
+                  "name": "JŽ 25-019",
+                  "text": "Eine historische Dampflokomotive als Denkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153474,
+                        45.812423
+                  ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Der Spielplatz Pedenjped in Novo Mesto ist ein einladender Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
+            },
+            {
+                  "name": "Grad Grm",
+                  "text": "Ein bedeutendes Barockschloss in Novo Mesto mit einer reichen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        15.171699,
+                        45.795096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Graben",
+                  "text": "Történelmi vár Novo Mesto területén.",
+                  "category": "castle",
+                  "coords": [
+                        15.183564,
+                        45.81756
+                  ]
+            },
+            {
+                  "name": "Dolenjski muzej",
+                  "text": "A Novo Mesto városában található Dolenjski muzej a kultúra iránt érdeklődők központi találkozóhelye. Kiállítótermeiben a szlovén Dolenjska régió gazdag történelmét mutatják be szemléletesen.",
+                  "category": "museum",
+                  "coords": [
+                        15.168,
+                        45.802967
+                  ]
+            },
+            {
+                  "name": "Tabletka",
+                  "text": "Modern emlékmű Novo Mesto területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.169477,
+                        45.821105
+                  ]
+            },
+            {
+                  "name": "Skulptura Leona Štuklja",
+                  "text": "Leon Štukelj olimpikon tiszteletére emelt szobor.",
+                  "category": "historical",
+                  "coords": [
+                        15.171205,
+                        45.801208
+                  ]
+            },
+            {
+                  "name": "Seidlova cesta 1",
+                  "text": "Műemlékvédelmi helyszín Novo Mesto területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.163228,
+                        45.805514
+                  ]
+            },
+            {
+                  "name": "Poganci, Obeležje osamosvojitve",
+                  "text": "Szlovénia függetlenségének állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        15.178809,
+                        45.778276
+                  ]
+            },
+            {
+                  "name": "Porušena cerkev sv. Roka",
+                  "text": "Az egykori Szent Rókus-templom romjai.",
+                  "category": "historical",
+                  "coords": [
+                        15.169035,
+                        45.781515
+                  ]
+            },
+            {
+                  "name": "Mestna hiša",
+                  "text": "Novo Mesto 1905-ben épült történelmi városháza.",
+                  "category": "historical",
+                  "coords": [
+                        15.170189,
+                        45.803842
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "Egy kápolna Novo Mesto területén.",
+                  "category": "religious",
+                  "coords": [
+                        15.174221,
+                        45.795834
+                  ]
+            },
+            {
+                  "name": "JŽ 25-019",
+                  "text": "Történelmi gőzmozdony, amely emlékműként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153474,
+                        45.812423
+                  ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "A Novo Mesto-i Pedenjped játszótér hívogató hely a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
+            },
+            {
+                  "name": "Grad Grm",
+                  "text": "Jelentős barokk kastély Novo Mesto városában, gazdag történelmi múlttal.",
+                  "category": "castle",
+                  "coords": [
+                        15.171699,
+                        45.795096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Graben",
+                  "text": "O fortăreață istorică în Novo Mesto.",
+                  "category": "castle",
+                  "coords": [
+                        15.183564,
+                        45.81756
+                  ]
+            },
+            {
+                  "name": "Dolenjski muzej",
+                  "text": "Dolenjski muzej din Novo Mesto este o destinație centrală pentru pasionații de cultură. În sălile sale de expoziție, vizitatorii pot descoperi istoria bogată a regiunii slovene Dolenjska.",
+                  "category": "museum",
+                  "coords": [
+                        15.168,
+                        45.802967
+                  ]
+            },
+            {
+                  "name": "Tabletka",
+                  "text": "Un monument modern în Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.169477,
+                        45.821105
+                  ]
+            },
+            {
+                  "name": "Skulptura Leona Štuklja",
+                  "text": "O sculptură dedicată olimpicăului Leon Štukelj.",
+                  "category": "historical",
+                  "coords": [
+                        15.171205,
+                        45.801208
+                  ]
+            },
+            {
+                  "name": "Seidlova cesta 1",
+                  "text": "Un monument protejat în Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.163228,
+                        45.805514
+                  ]
+            },
+            {
+                  "name": "Poganci, Obeležje osamosvojitve",
+                  "text": "Un monument dedicat independenței Sloveniei.",
+                  "category": "historical",
+                  "coords": [
+                        15.178809,
+                        45.778276
+                  ]
+            },
+            {
+                  "name": "Porušena cerkev sv. Roka",
+                  "text": "Ruinele fostei biserici Sfântul Rochus.",
+                  "category": "historical",
+                  "coords": [
+                        15.169035,
+                        45.781515
+                  ]
+            },
+            {
+                  "name": "Mestna hiša",
+                  "text": "Primăria istorică din Novo Mesto, construită în 1905.",
+                  "category": "historical",
+                  "coords": [
+                        15.170189,
+                        45.803842
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "O capelă în Novo Mesto.",
+                  "category": "religious",
+                  "coords": [
+                        15.174221,
+                        45.795834
+                  ]
+            },
+            {
+                  "name": "JŽ 25-019",
+                  "text": "O locomotivă istorică cu abur, expusă ca monument.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153474,
+                        45.812423
+                  ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Locul de joacă Pedenjped din Novo Mesto este un spațiu primitor pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
+            },
+            {
+                  "name": "Grad Grm",
+                  "text": "Un castel baroc important în Novo Mesto, cu o istorie bogată.",
+                  "category": "castle",
+                  "coords": [
+                        15.171699,
+                        45.795096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Graben",
+                  "text": "A historic castle complex in Novo Mesto.",
+                  "category": "castle",
+                  "coords": [
+                        15.183564,
+                        45.81756
+                  ]
+            },
+            {
+                  "name": "Dolenjski muzej",
+                  "text": "The Dolenjski muzej in Novo Mesto serves as a key destination for those interested in culture. Its exhibition spaces vividly present the rich history of the Slovenian Dolenjska region.",
+                  "category": "museum",
+                  "coords": [
+                        15.168,
+                        45.802967
+                  ]
+            },
+            {
+                  "name": "Tabletka",
+                  "text": "A modern monument in Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.169477,
+                        45.821105
+                  ]
+            },
+            {
+                  "name": "Skulptura Leona Štuklja",
+                  "text": "A sculpture honoring the Olympian Leon Štukelj.",
+                  "category": "historical",
+                  "coords": [
+                        15.171205,
+                        45.801208
+                  ]
+            },
+            {
+                  "name": "Seidlova cesta 1",
+                  "text": "A protected monument in Novo Mesto.",
+                  "category": "historical",
+                  "coords": [
+                        15.163228,
+                        45.805514
+                  ]
+            },
+            {
+                  "name": "Poganci, Obeležje osamosvojitve",
+                  "text": "A monument dedicated to Slovenia's independence.",
+                  "category": "historical",
+                  "coords": [
+                        15.178809,
+                        45.778276
+                  ]
+            },
+            {
+                  "name": "Porušena cerkev sv. Roka",
+                  "text": "The ruins of the former St. Roch church.",
+                  "category": "historical",
+                  "coords": [
+                        15.169035,
+                        45.781515
+                  ]
+            },
+            {
+                  "name": "Mestna hiša",
+                  "text": "The historic town hall of Novo Mesto, built in 1905.",
+                  "category": "historical",
+                  "coords": [
+                        15.170189,
+                        45.803842
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "A chapel in Novo Mesto.",
+                  "category": "religious",
+                  "coords": [
+                        15.174221,
+                        45.795834
+                  ]
+            },
+            {
+                  "name": "JŽ 25-019",
+                  "text": "A historic steam locomotive displayed as a monument.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153474,
+                        45.812423
+                  ]
+            },
+            {
+                  "name": "Vrtec Pedenjped Novo mesto, enota METKA",
+                  "text": "Vrtec Pedenjped playground in Novo Mesto is an inviting space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.161725,
+                        45.806774
+                  ]
+            },
+            {
+                  "name": "Grad Grm",
+                  "text": "A significant Baroque castle in Novo Mesto with a rich historical background.",
+                  "category": "castle",
+                  "coords": [
+                        15.171699,
+                        45.795096
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "city",
     name: { de: "Novo Mesto", hu: "Novo Mesto", ro: "Novo Mesto", en: "Novo Mesto"},
@@ -9568,7 +10009,304 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-medvode-cities-v2.webp",
   },
   {
-    id: "slovenia-tolmin-cities-v2",
+    id: "slovenia-tolmin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tolminski muzej",
+                  "text": "Ein Museum, das das archäologische und historische Erbe des Soča-Tals und der Region Tolmin ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.732657,
+                        46.182232
+                  ]
+            },
+            {
+                  "name": "Grad Tolmin",
+                  "text": "Ruinen einer mittelalterlichen Burg auf dem Hügel Kozlov Rob mit Panoramablick auf Tolmin und die umliegenden Berge.",
+                  "category": "castle",
+                  "coords": [
+                        13.725659,
+                        46.189629
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mengore",
+                  "text": "Ein Freilichtmuseum auf dem Hügel Mengore, das Schützengräben und Befestigungen aus dem Ersten Weltkrieg bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        13.724703,
+                        46.167332
+                  ]
+            },
+            {
+                  "name": "Muzej Mrzli Vrh",
+                  "text": "Ein Museum, das den historischen Ereignissen und Schlachten der Isonzo-Front während des Ersten Weltkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.725783,
+                        46.194146
+                  ]
+            },
+            {
+                  "name": "Zadlaška jama",
+                  "text": "Eine Karsthöhle bei Tolmin, auch als Dante-Höhle bekannt, die den Dichter zu seinem Inferno inspiriert haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        13.743469,
+                        46.200429
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "Eine historische Pestsäule in Tolmin, die als Dankesmonument nach dem Ende einer Pestepidemie errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        13.707831,
+                        46.173602
+                  ]
+            },
+            {
+                  "name": "Tolmin-Klamm",
+                  "text": "Eine beeindruckende Naturattraktion mit dem Zusammenfluss der Flüsse Tolminka und Zadlaščica in tiefen, engen Schluchten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740314,
+                        46.198201
+                  ]
+            },
+            {
+                  "name": "Deutsches Beinhaus",
+                  "text": "Ein deutsches Beinhaus und Denkmal für die in den Schlachten der Isonzo-Front gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        13.732383,
+                        46.175192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tolminski muzej",
+                  "text": "A Soca-völgy és Tolmin régió régészeti és történelmi örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.732657,
+                        46.182232
+                  ]
+            },
+            {
+                  "name": "Grad Tolmin",
+                  "text": "Középkori vár romjai a Kozlov Rob dombon, ahonnan panorámás kilátás nyílik Tolminra és a környező hegyekre.",
+                  "category": "castle",
+                  "coords": [
+                        13.725659,
+                        46.189629
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mengore",
+                  "text": "Szabadtéri múzeum a Mengore-dombon, amely az első világháború lövészárkait és erődítményeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        13.724703,
+                        46.167332
+                  ]
+            },
+            {
+                  "name": "Muzej Mrzli Vrh",
+                  "text": "Az első világháborús isonzói front történelmi eseményeinek és csatáinak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.725783,
+                        46.194146
+                  ]
+            },
+            {
+                  "name": "Dante barlangja",
+                  "text": "Tolmin közeli karsztbarlang, Dante-barlang néven is ismert, amely állítólag megihlette a költőt a Pokol megírásakor.",
+                  "category": "landmark",
+                  "coords": [
+                        13.743469,
+                        46.200429
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "Történelmi pestisoszlop Tolminban, amelyet hálából emeltek egy pestisjárvány vége után.",
+                  "category": "landmark",
+                  "coords": [
+                        13.707831,
+                        46.173602
+                  ]
+            },
+            {
+                  "name": "Tolminska korita",
+                  "text": "Lenyűgöző természeti látványosság a Tolminka és Zadlaščica folyók összefolyásánál, mély és szűk szurdokokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740314,
+                        46.198201
+                  ]
+            },
+            {
+                  "name": "Nemška kostnica",
+                  "text": "Német csontkamra és emlékmű az isonzói front csatáiban elesett katonák emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        13.732383,
+                        46.175192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tolminski muzej",
+                  "text": "Un muzeu care expune patrimoniul arheologic și istoric al văii Soča și al regiunii Tolmin.",
+                  "category": "museum",
+                  "coords": [
+                        13.732657,
+                        46.182232
+                  ]
+            },
+            {
+                  "name": "Grad Tolmin",
+                  "text": "Ruinele unui castel medieval de pe dealul Kozlov Rob, oferind vedere panoramică asupra orașului Tolmin și a munților din jur.",
+                  "category": "castle",
+                  "coords": [
+                        13.725659,
+                        46.189629
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mengore",
+                  "text": "Un muzeu în aer liber care păstrează tranșee și fortificații din Primul Război Mondial pe dealul Mengore.",
+                  "category": "museum",
+                  "coords": [
+                        13.724703,
+                        46.167332
+                  ]
+            },
+            {
+                  "name": "Muzej Mrzli Vrh",
+                  "text": "Un muzeu dedicat evenimentelor istorice și bătăliilor de pe Frontul Isonzo din timpul Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        13.725783,
+                        46.194146
+                  ]
+            },
+            {
+                  "name": "Zadlaška jama",
+                  "text": "O peșteră carstică lângă Tolmin, cunoscută și sub numele de Peștera lui Dante, despre care se spune că l-a inspirat pe poet pentru Infernul său.",
+                  "category": "landmark",
+                  "coords": [
+                        13.743469,
+                        46.200429
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "O coloană istorică a ciumei în Tolmin, ridicată ca monument de recunoștință după sfârșitul unei epidemii de ciumă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.707831,
+                        46.173602
+                  ]
+            },
+            {
+                  "name": "Tolminska korita",
+                  "text": "O atracție naturală uimitoare, reprezentând confluența râurilor Tolminka și Zadlaščica în canioane adânci și înguste.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740314,
+                        46.198201
+                  ]
+            },
+            {
+                  "name": "Nemška kostnica",
+                  "text": "Un osuar german și un memorial dedicat soldaților căzuți în bătăliile de pe Frontul Isonzo.",
+                  "category": "historical",
+                  "coords": [
+                        13.732383,
+                        46.175192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tolmin Museum",
+                  "text": "A museum exhibiting archaeological and historical heritage of the Soča Valley and the Tolmin region.",
+                  "category": "museum",
+                  "coords": [
+                        13.732657,
+                        46.182232
+                  ]
+            },
+            {
+                  "name": "Tolmin Castle",
+                  "text": "Ruins of a medieval castle on Kozlov Rob hill, offering panoramic views of Tolmin and the surrounding mountains.",
+                  "category": "castle",
+                  "coords": [
+                        13.725659,
+                        46.189629
+                  ]
+            },
+            {
+                  "name": "Open air museum Mengore",
+                  "text": "An open-air museum preserving trenches and fortifications from the First World War on Mengore hill.",
+                  "category": "museum",
+                  "coords": [
+                        13.724703,
+                        46.167332
+                  ]
+            },
+            {
+                  "name": "Muzej Mrzli Vrh",
+                  "text": "A museum dedicated to the historical events and battles of the Soča Front during World War I.",
+                  "category": "museum",
+                  "coords": [
+                        13.725783,
+                        46.194146
+                  ]
+            },
+            {
+                  "name": "Zadlaška jama",
+                  "text": "A karst cave near Tolmin, also known as Dante's Cave, which is said to have inspired the poet's Inferno.",
+                  "category": "landmark",
+                  "coords": [
+                        13.743469,
+                        46.200429
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "A historic plague pillar in Tolmin erected as a monument of gratitude after the end of a plague epidemic.",
+                  "category": "landmark",
+                  "coords": [
+                        13.707831,
+                        46.173602
+                  ]
+            },
+            {
+                  "name": "Tolmin Gorge",
+                  "text": "A stunning natural attraction featuring the confluence of the Tolminka and Zadlaščica rivers in deep, narrow canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740314,
+                        46.198201
+                  ]
+            },
+            {
+                  "name": "Nemška kostnica",
+                  "text": "A German ossuary and memorial dedicated to the soldiers who fell in the battles of the Soča Front.",
+                  "category": "historical",
+                  "coords": [
+                        13.732383,
+                        46.175192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Tolmin", hu: "Tolmin", ro: "Tolmin", en: "Tolmin" },
@@ -9650,6 +10388,15 @@ imageHint: "Crnomelj town center at river confluence",
                         14.362265,
                         45.793006
                   ]
+            },
+            {
+                  "name": "Notranjska regional park",
+                  "text": "Ein Naturschutzgebiet, das für den intermittierenden See von Cerknica bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.378054,
+                        45.804898
+                  ]
             }
       ],
       "hu": [
@@ -9687,6 +10434,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.362265,
                         45.793006
+                  ]
+            },
+            {
+                  "name": "Notranjska regional park",
+                  "text": "Természetvédelmi terület, amely a Cerkniško-tóról híres.",
+                  "category": "natural",
+                  "coords": [
+                        14.378054,
+                        45.804898
                   ]
             }
       ],
@@ -9726,6 +10482,15 @@ imageHint: "Crnomelj town center at river confluence",
                         14.362265,
                         45.793006
                   ]
+            },
+            {
+                  "name": "Notranjska regional park",
+                  "text": "O rezervație naturală cunoscută pentru lacul intermitent Cerknica.",
+                  "category": "natural",
+                  "coords": [
+                        14.378054,
+                        45.804898
+                  ]
             }
       ],
       "en": [
@@ -9763,6 +10528,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.362265,
                         45.793006
+                  ]
+            },
+            {
+                  "name": "Notranjska regional park",
+                  "text": "A nature reserve famous for the intermittent Lake Cerknica.",
+                  "category": "natural",
+                  "coords": [
+                        14.378054,
+                        45.804898
                   ]
             }
       ]
@@ -10487,6 +11261,69 @@ imageHint: "Crnomelj town center at river confluence",
                         14.872554,
                         46.082628
                   ]
+            },
+            {
+                  "name": "Grad Pogonik",
+                  "text": "Ein historisches Schloss in der Nähe von Litija am Ufer der Save.",
+                  "category": "castle",
+                  "coords": [
+                        14.824305,
+                        46.084307
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Litija",
+                  "text": "Ein Museum in Litija, das die lokale Industrie- und Bergbaugeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.832488,
+                        46.057026
+                  ]
+            },
+            {
+                  "name": "Rudnik Sitarjevec",
+                  "text": "Ein Besucherbergwerk in Litija, bekannt für seinen Reichtum an verschiedenen Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        14.83038,
+                        46.04978
+                  ]
+            },
+            {
+                  "name": "Rudnik svinca in cinka Sitarjevec",
+                  "text": "Ein ehemaliges Blei- und Zinkbergwerk in Litija, heute als technisches Denkmal zugänglich.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825467,
+                        46.051937
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Nikolaja",
+                  "text": "Eine beschauliche Kirche in Litija, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.829643,
+                        46.056158
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Katarine",
+                  "text": "Diese Kirche in Litija ist der Heiligen Katharina geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        14.852996,
+                        46.064285
+                  ]
+            },
+            {
+                  "name": "Parna Lokomotiva JŽ 50-060",
+                  "text": "Eine historische Dampflokomotive als technisches Denkmal in Litija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825816,
+                        46.058255
+                  ]
             }
       ],
       "hu": [
@@ -10497,6 +11334,69 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.872554,
                         46.082628
+                  ]
+            },
+            {
+                  "name": "Grad Pogonik",
+                  "text": "Történelmi kastély Litija közelében, a Száva folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        14.824305,
+                        46.084307
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Litija",
+                  "text": "Litija múzeuma, amely a helyi ipar és bányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.832488,
+                        46.057026
+                  ]
+            },
+            {
+                  "name": "Rudnik Sitarjevec",
+                  "text": "Látogatható bánya Litijában, amely a változatos ásványairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        14.83038,
+                        46.04978
+                  ]
+            },
+            {
+                  "name": "Rudnik svinca in cinka Sitarjevec",
+                  "text": "Egykori ólom- és cinkbánya Litijában, ma technikai műemlékként látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825467,
+                        46.051937
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Nikolaja",
+                  "text": "Szent Miklós tiszteletére szentelt hangulatos templom Litija városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.829643,
+                        46.056158
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Katarine",
+                  "text": "Litija egyik szakrális épülete, amelyet Szent Katalinnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.852996,
+                        46.064285
+                  ]
+            },
+            {
+                  "name": "Parna Lokomotiva JŽ 50-060",
+                  "text": "Történelmi gőzmozdony, amely technikai emlékként látható Litijában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825816,
+                        46.058255
                   ]
             }
       ],
@@ -10509,6 +11409,69 @@ imageHint: "Crnomelj town center at river confluence",
                         14.872554,
                         46.082628
                   ]
+            },
+            {
+                  "name": "Grad Pogonik",
+                  "text": "Un castel istoric lângă Litija, pe malul râului Sava.",
+                  "category": "castle",
+                  "coords": [
+                        14.824305,
+                        46.084307
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Litija",
+                  "text": "Un muzeu în Litija care documentează istoria industrială și minieră locală.",
+                  "category": "museum",
+                  "coords": [
+                        14.832488,
+                        46.057026
+                  ]
+            },
+            {
+                  "name": "Rudnik Sitarjevec",
+                  "text": "O mină vizitabilă în Litija, cunoscută pentru bogăția sa în diverse minerale.",
+                  "category": "museum",
+                  "coords": [
+                        14.83038,
+                        46.04978
+                  ]
+            },
+            {
+                  "name": "Rudnik svinca in cinka Sitarjevec",
+                  "text": "O fostă mină de plumb și zinc în Litija, astăzi accesibilă ca monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825467,
+                        46.051937
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Nikolaja",
+                  "text": "O biserică liniștită din Litija, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        14.829643,
+                        46.056158
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Katarine",
+                  "text": "O biserică din Litija dedicată Sfintei Ecaterina.",
+                  "category": "religious",
+                  "coords": [
+                        14.852996,
+                        46.064285
+                  ]
+            },
+            {
+                  "name": "Parna Lokomotiva JŽ 50-060",
+                  "text": "O locomotivă cu abur istorică, expusă ca monument tehnic în Litija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825816,
+                        46.058255
+                  ]
             }
       ],
       "en": [
@@ -10519,6 +11482,69 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.872554,
                         46.082628
+                  ]
+            },
+            {
+                  "name": "Pogonik Castle",
+                  "text": "A historical castle located near Litija on the banks of the Sava River.",
+                  "category": "castle",
+                  "coords": [
+                        14.824305,
+                        46.084307
+                  ]
+            },
+            {
+                  "name": "Town Museum of Litija",
+                  "text": "A museum in Litija documenting the local industrial and mining history.",
+                  "category": "museum",
+                  "coords": [
+                        14.832488,
+                        46.057026
+                  ]
+            },
+            {
+                  "name": "Rudnik Sitarjevec",
+                  "text": "A visitor mine in Litija, known for its richness in various minerals.",
+                  "category": "museum",
+                  "coords": [
+                        14.83038,
+                        46.04978
+                  ]
+            },
+            {
+                  "name": "Rudnik svinca in cinka Sitarjevec",
+                  "text": "A former lead and zinc mine in Litija, now accessible as a technical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825467,
+                        46.051937
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Nikolaja",
+                  "text": "A peaceful church in Litija dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        14.829643,
+                        46.056158
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Katarine",
+                  "text": "A local church in Litija dedicated to Saint Catherine.",
+                  "category": "religious",
+                  "coords": [
+                        14.852996,
+                        46.064285
+                  ]
+            },
+            {
+                  "name": "Parna Lokomotiva JŽ 50-060",
+                  "text": "A historic steam locomotive displayed as a technical monument in Litija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.825816,
+                        46.058255
                   ]
             }
       ]
@@ -11288,6 +12314,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Ein Wasserpark mit einem biologischen Schwimmbecken in der Nähe von Radlje ob Dravi.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
+                  ]
             }
       ],
       "hu": [
@@ -11307,6 +12342,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
+                  ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Vizi park biológiai úszómedencével Radlje ob Dravi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
                   ]
             }
       ],
@@ -11328,6 +12372,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Un parc acvatic cu o piscină biologică situat lângă Radlje ob Dravi.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
+                  ]
             }
       ],
       "en": [
@@ -11347,6 +12400,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
+                  ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "A water park featuring a biological swimming pool near Radlje ob Dravi.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
                   ]
             }
       ]
@@ -11414,6 +12476,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.208613,
                         46.616398
                   ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Ein Naturwasserpark und Badebereich in Radlje ob Dravi, der biologische Filterung nutzt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
+                  ]
             }
       ],
       "hu": [
@@ -11433,6 +12504,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.208613,
                         46.616398
+                  ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Természetes vízipark és fürdőhely Radlje ob Dravi-ban, amely biológiai szűrést alkalmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
                   ]
             }
       ],
@@ -11454,6 +12534,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.208613,
                         46.616398
                   ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "Un parc acvatic natural și zonă de înot în Radlje ob Dravi, care utilizează filtrarea biologică.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
+                  ]
             }
       ],
       "en": [
@@ -11473,6 +12562,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.208613,
                         46.616398
+                  ]
+            },
+            {
+                  "name": "Vodni park Radlje ob Dravi",
+                  "text": "A natural water park and swimming area in Radlje ob Dravi using biological filtration.",
+                  "category": "recreational",
+                  "coords": [
+                        15.201768,
+                        46.607644
                   ]
             }
       ]
@@ -11531,6 +12629,33 @@ imageHint: "Crnomelj town center at river confluence",
                         15.489624,
                         46.550359
                   ]
+            },
+            {
+                  "name": "Muzej Hidroelektrarne Fala",
+                  "text": "Ein Museum in einem der ältesten Wasserkraftwerke an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        15.457724,
+                        46.559236
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
+                  "text": "Ein geschütztes Waldreservat in der Nähe von Selnica ob Dravi.",
+                  "category": "natural",
+                  "coords": [
+                        15.451187,
+                        46.570812
+                  ]
+            },
+            {
+                  "name": "Cerkev Device Marije",
+                  "text": "Eine der Jungfrau Maria geweihte Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        15.421331,
+                        46.552279
+                  ]
             }
       ],
       "hu": [
@@ -11541,6 +12666,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.489624,
                         46.550359
+                  ]
+            },
+            {
+                  "name": "Muzej Hidroelektrarne Fala",
+                  "text": "Múzeum a Dráva egyik legrégebbi vízerőművében.",
+                  "category": "museum",
+                  "coords": [
+                        15.457724,
+                        46.559236
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
+                  "text": "Védett erdőrezervátum Selnica ob Dravi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.451187,
+                        46.570812
+                  ]
+            },
+            {
+                  "name": "Cerkev Device Marije",
+                  "text": "Szűz Máriának szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        15.421331,
+                        46.552279
                   ]
             }
       ],
@@ -11553,6 +12705,33 @@ imageHint: "Crnomelj town center at river confluence",
                         15.489624,
                         46.550359
                   ]
+            },
+            {
+                  "name": "Muzej Hidroelektrarne Fala",
+                  "text": "Un muzeu amenajat într-una dintre cele mai vechi hidrocentrale de pe râul Drava.",
+                  "category": "museum",
+                  "coords": [
+                        15.457724,
+                        46.559236
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
+                  "text": "O rezervație forestieră protejată lângă Selnica ob Dravi.",
+                  "category": "natural",
+                  "coords": [
+                        15.451187,
+                        46.570812
+                  ]
+            },
+            {
+                  "name": "Cerkev Device Marije",
+                  "text": "O biserică dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        15.421331,
+                        46.552279
+                  ]
             }
       ],
       "en": [
@@ -11563,6 +12742,33 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.489624,
                         46.550359
+                  ]
+            },
+            {
+                  "name": "Museum of the Fala Hydro Power Plant",
+                  "text": "A museum located in one of the oldest hydroelectric power plants on the Drava River.",
+                  "category": "museum",
+                  "coords": [
+                        15.457724,
+                        46.559236
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
+                  "text": "A protected forest reserve near Selnica ob Dravi.",
+                  "category": "natural",
+                  "coords": [
+                        15.451187,
+                        46.570812
+                  ]
+            },
+            {
+                  "name": "Cerkev Device Marije",
+                  "text": "A church dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        15.421331,
+                        46.552279
                   ]
             }
       ]
@@ -11621,6 +12827,42 @@ imageHint: "Crnomelj town center at river confluence",
                         15.671623,
                         46.525453
                   ]
+            },
+            {
+                  "name": "Rimske gomile",
+                  "text": "Stätte antiker römischer Grabhügel in Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.716144,
+                        46.495201
+                  ]
+            },
+            {
+                  "name": "VIM2",
+                  "text": "Erhöhter Aussichtspunkt in Miklavž na Dravskem polju.",
+                  "category": "natural",
+                  "coords": [
+                        15.717537,
+                        46.530345
+                  ]
+            },
+            {
+                  "name": "Kurirčkov Kamen",
+                  "text": "Gedenkstein in Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.691573,
+                        46.510687
+                  ]
+            },
+            {
+                  "name": "Spomenik NOB",
+                  "text": "Denkmal für den Volksbefreiungskampf in Slowenien.",
+                  "category": "historical",
+                  "coords": [
+                        15.717928,
+                        46.51512
+                  ]
             }
       ],
       "hu": [
@@ -11631,6 +12873,42 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.671623,
                         46.525453
+                  ]
+            },
+            {
+                  "name": "Rimske gomile",
+                  "text": "Ókori római sírhalmok lelőhelye Miklavž na Dravskem polju településen.",
+                  "category": "historical",
+                  "coords": [
+                        15.716144,
+                        46.495201
+                  ]
+            },
+            {
+                  "name": "VIM2",
+                  "text": "Kilátópont Miklavž na Dravskem polju településen.",
+                  "category": "natural",
+                  "coords": [
+                        15.717537,
+                        46.530345
+                  ]
+            },
+            {
+                  "name": "Kurirčkov Kamen",
+                  "text": "Emlékkő Miklavž na Dravskem polju településén.",
+                  "category": "historical",
+                  "coords": [
+                        15.691573,
+                        46.510687
+                  ]
+            },
+            {
+                  "name": "Spomenik NOB",
+                  "text": "A népi felszabadító harc emlékműve Szlovéniában.",
+                  "category": "historical",
+                  "coords": [
+                        15.717928,
+                        46.51512
                   ]
             }
       ],
@@ -11643,6 +12921,42 @@ imageHint: "Crnomelj town center at river confluence",
                         15.671623,
                         46.525453
                   ]
+            },
+            {
+                  "name": "Rimske gomile",
+                  "text": "Sit cu tumuli funerari romani antici în Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.716144,
+                        46.495201
+                  ]
+            },
+            {
+                  "name": "VIM2",
+                  "text": "Punct de belvedere situat în Miklavž na Dravskem polju.",
+                  "category": "natural",
+                  "coords": [
+                        15.717537,
+                        46.530345
+                  ]
+            },
+            {
+                  "name": "Kurirčkov Kamen",
+                  "text": "Monument comemorativ din piatră în Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.691573,
+                        46.510687
+                  ]
+            },
+            {
+                  "name": "Spomenik NOB",
+                  "text": "Monument dedicat Războiului de Eliberare Națională din Slovenia.",
+                  "category": "historical",
+                  "coords": [
+                        15.717928,
+                        46.51512
+                  ]
             }
       ],
       "en": [
@@ -11653,6 +12967,42 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.671623,
                         46.525453
+                  ]
+            },
+            {
+                  "name": "Rimske gomile",
+                  "text": "Site of ancient Roman burial mounds in Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.716144,
+                        46.495201
+                  ]
+            },
+            {
+                  "name": "VIM2",
+                  "text": "Elevated viewpoint located in Miklavž na Dravskem polju.",
+                  "category": "natural",
+                  "coords": [
+                        15.717537,
+                        46.530345
+                  ]
+            },
+            {
+                  "name": "Kurirčkov Kamen",
+                  "text": "Commemorative stone monument in Miklavž na Dravskem polju.",
+                  "category": "historical",
+                  "coords": [
+                        15.691573,
+                        46.510687
+                  ]
+            },
+            {
+                  "name": "Spomenik NOB",
+                  "text": "Monument dedicated to the National Liberation War in Slovenia.",
+                  "category": "historical",
+                  "coords": [
+                        15.717928,
+                        46.51512
                   ]
             }
       ]
@@ -12107,6 +13457,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.901161,
                         46.399832
                   ]
+            },
+            {
+                  "name": "Schloß Ankenstein",
+                  "text": "Eine imposante Burg auf einem Felsen über der Drau, deren Wurzeln bis ins Mittelalter reichen.",
+                  "category": "castle",
+                  "coords": [
+                        16.003119,
+                        46.3748
+                  ]
             }
       ],
       "hu": [
@@ -12117,6 +13476,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.901161,
                         46.399832
+                  ]
+            },
+            {
+                  "name": "Grad Borl",
+                  "text": "Egy impozáns vár a Dráva feletti sziklán, amelynek gyökerei a középkorig nyúlnak vissza.",
+                  "category": "castle",
+                  "coords": [
+                        16.003119,
+                        46.3748
                   ]
             }
       ],
@@ -12129,6 +13497,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.901161,
                         46.399832
                   ]
+            },
+            {
+                  "name": "Grad Borl",
+                  "text": "Un castel impunător situat pe o stâncă deasupra râului Drava, cu origini medievale.",
+                  "category": "castle",
+                  "coords": [
+                        16.003119,
+                        46.3748
+                  ]
             }
       ],
       "en": [
@@ -12139,6 +13516,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.901161,
                         46.399832
+                  ]
+            },
+            {
+                  "name": "Grad Borl",
+                  "text": "An imposing castle on a cliff above the Drava River, with roots dating back to the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        16.003119,
+                        46.3748
                   ]
             }
       ]

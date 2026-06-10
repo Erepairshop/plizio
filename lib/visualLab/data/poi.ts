@@ -41874,6 +41874,60 @@ export const pois: POI[] = [
                         7.183858,
                         51.499142
                   ]
+            },
+            {
+                  "name": "Kunstmuseum Bochum",
+                  "text": "Das Kunstmuseum in Bochum zeigt moderne und zeitgenössische Kunst mit internationalem Schwerpunkt.",
+                  "category": "museum",
+                  "coords": [
+                        7.221077,
+                        51.487365
+                  ]
+            },
+            {
+                  "name": "ROTTSTR 5 Theater",
+                  "text": "Ein freies Theater in Bochum, das für experimentelle und unkonventionelle Inszenierungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.213132,
+                        51.478909
+                  ]
+            },
+            {
+                  "name": "Telekom-Historik - Museum",
+                  "text": "Das Museum dokumentiert die technische Entwicklung der Telekommunikation über verschiedene Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        7.244972,
+                        51.489512
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Bochum",
+                  "text": "Dieses traditionsreiche Theater gilt als eine der bedeutendsten Sprechbühnen im deutschsprachigen Raum.",
+                  "category": "cultural",
+                  "coords": [
+                        7.217547,
+                        51.472216
+                  ]
+            },
+            {
+                  "name": "Starlight-Express-Theater Bochum",
+                  "text": "Dieses Theater wurde eigens für die dauerhafte Aufführung des Musicals Starlight Express erbaut.",
+                  "category": "cultural",
+                  "coords": [
+                        7.234199,
+                        51.492679
+                  ]
+            },
+            {
+                  "name": "Calvero's Salon-Zaubertheater",
+                  "text": "Ein privates Zaubertheater in Bochum, das magische Vorführungen in intimer Atmosphäre bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.227515,
+                        51.477779
+                  ]
             }
       ],
       "hu": [
@@ -42207,6 +42261,60 @@ export const pois: POI[] = [
                   "coords": [
                         7.183858,
                         51.499142
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Bochum",
+                  "text": "A bochumi művészeti múzeum modern és kortárs művészetet mutat be nemzetközi fókusszal.",
+                  "category": "museum",
+                  "coords": [
+                        7.221077,
+                        51.487365
+                  ]
+            },
+            {
+                  "name": "ROTTSTR 5 Theater",
+                  "text": "Egy független színház Bochumban, amely kísérleti és szokatlan előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.213132,
+                        51.478909
+                  ]
+            },
+            {
+                  "name": "Telekom-Historik - Museum",
+                  "text": "A múzeum a távközlés technikai fejlődését dokumentálja különböző korszakokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        7.244972,
+                        51.489512
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Bochum",
+                  "text": "Ez a nagy múltú színház a német nyelvterület egyik legjelentősebb prózai színpadának számít.",
+                  "category": "cultural",
+                  "coords": [
+                        7.217547,
+                        51.472216
+                  ]
+            },
+            {
+                  "name": "Starlight-Express-Theater Bochum",
+                  "text": "Ezt a színházat kifejezetten a Starlight Express musical folyamatos előadására építették.",
+                  "category": "cultural",
+                  "coords": [
+                        7.234199,
+                        51.492679
+                  ]
+            },
+            {
+                  "name": "Calvero's Salon-Zaubertheater",
+                  "text": "Egy magán bűvészszínház Bochumban, amely intim hangulatú bűvészműsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.227515,
+                        51.477779
                   ]
             }
       ],
@@ -42542,6 +42650,60 @@ export const pois: POI[] = [
                         7.183858,
                         51.499142
                   ]
+            },
+            {
+                  "name": "Kunstmuseum Bochum",
+                  "text": "Muzeul de artă din Bochum prezintă artă modernă și contemporană cu accent internațional.",
+                  "category": "museum",
+                  "coords": [
+                        7.221077,
+                        51.487365
+                  ]
+            },
+            {
+                  "name": "ROTTSTR 5 Theater",
+                  "text": "Un teatru independent din Bochum, cunoscut pentru punerile în scenă experimentale și neconvenționale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.213132,
+                        51.478909
+                  ]
+            },
+            {
+                  "name": "Telekom-Historik - Museum",
+                  "text": "Muzeul documentează dezvoltarea tehnică a telecomunicațiilor de-a lungul diferitelor epoci.",
+                  "category": "museum",
+                  "coords": [
+                        7.244972,
+                        51.489512
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Bochum",
+                  "text": "Acest teatru cu tradiție este considerat una dintre cele mai importante scene de teatru din spațiul de limbă germană.",
+                  "category": "cultural",
+                  "coords": [
+                        7.217547,
+                        51.472216
+                  ]
+            },
+            {
+                  "name": "Starlight-Express-Theater Bochum",
+                  "text": "Acest teatru a fost construit special pentru reprezentarea permanentă a musicalului Starlight Express.",
+                  "category": "cultural",
+                  "coords": [
+                        7.234199,
+                        51.492679
+                  ]
+            },
+            {
+                  "name": "Calvero's Salon-Zaubertheater",
+                  "text": "Un teatru de magie privat din Bochum, care oferă spectacole de iluzionism într-o atmosferă intimă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.227515,
+                        51.477779
+                  ]
             }
       ],
       "en": [
@@ -42875,6 +43037,60 @@ export const pois: POI[] = [
                   "coords": [
                         7.183858,
                         51.499142
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Bochum",
+                  "text": "The art museum in Bochum displays modern and contemporary art with an international focus.",
+                  "category": "museum",
+                  "coords": [
+                        7.221077,
+                        51.487365
+                  ]
+            },
+            {
+                  "name": "ROTTSTR 5 Theater",
+                  "text": "An independent theatre in Bochum known for experimental and unconventional productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.213132,
+                        51.478909
+                  ]
+            },
+            {
+                  "name": "Telekom-Historik - Museum",
+                  "text": "The museum documents the technical development of telecommunications across different eras.",
+                  "category": "museum",
+                  "coords": [
+                        7.244972,
+                        51.489512
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Bochum",
+                  "text": "This traditional theatre is considered one of the most important drama stages in the German-speaking world.",
+                  "category": "cultural",
+                  "coords": [
+                        7.217547,
+                        51.472216
+                  ]
+            },
+            {
+                  "name": "Starlight-Express-Theater Bochum",
+                  "text": "This theatre was built specifically for the long-running performance of the musical Starlight Express.",
+                  "category": "cultural",
+                  "coords": [
+                        7.234199,
+                        51.492679
+                  ]
+            },
+            {
+                  "name": "Calvero's Salon-Zaubertheater",
+                  "text": "A private magic theatre in Bochum offering magic performances in an intimate atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        7.227515,
+                        51.477779
                   ]
             }
       ],
@@ -45302,7 +45518,268 @@ export const pois: POI[] = [
 }
   },
   {
-    id: "river-rhein",
+    id: "river-rhein", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Die Ruine einer mittelalterlichen Hangburg am Rhein, die einen weiten Blick über das Tal bietet.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Eine markante Burg am Rhein, bekannt für ihre charakteristische Silhouette und ihre strategische Lage.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Die Überreste der Burg Herzogenstein am Rhein, die als historisches Denkmal erhalten sind.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Eine der mächtigsten Burgruinen am Rhein, die eindrucksvolle Einblicke in die mittelalterliche Festungsbaukunst bietet.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Ein Naturschutzgebiet am Rhein, das die charakteristischen Hänge und Landschaften bis zur Loreley umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Eine historische Höhenburg mit Blick über das Rheintal und die Stadt Oberwesel.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Eine berühmte Freilichtbühne auf dem Loreley-Plateau, auf der große Konzerte und Kulturveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Középkori várrom a Rajna mentén, amely tágas kilátást nyújt a völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Jellegzetes vár a Rajna mentén, amely karakteres sziluettjéről és stratégiai elhelyezkedéséről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Herzogenstein várának maradványai a Rajna mentén, amelyeket történelmi emlékként őriznek.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "A Rajna menti egyik leghatalmasabb várrom, amely lenyűgöző betekintést nyújt a középkori erődépítészetbe.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Természetvédelmi terület a Rajna mentén, amely a jellegzetes lankákat és tájat öleli fel a Loreley-szikláig.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Történelmi várkastély a Rajna-völgyben, Oberwesel városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Híres szabadtéri színpad a Loreley-fennsíkon, amely koncerteknek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruinele unei cetăți medievale de pe malul Rinului, oferind o vedere amplă asupra văii.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Un castel distinctiv de pe Rin, cunoscut pentru silueta sa caracteristică și poziția strategică.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Rămășițele castelului Herzogenstein de pe Rin, păstrate ca monument istoric.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Una dintre cele mai impunătoare ruine de castel de pe Rin, oferind o imagine impresionantă asupra arhitecturii defensive medievale.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "O rezervație naturală pe Rin ce cuprinde versanții și peisajele caracteristice până la stânca Loreley.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Un castel istoric situat pe un deal, cu vedere spre valea Rinului și orașul Oberwesel.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "O scenă în aer liber faimoasă pe platoul Loreley, care găzduiește concerte majore și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "The ruins of a medieval castle along the Rhine, offering expansive views over the valley.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Katz Castle",
+                  "text": "A striking castle on the Rhine, known for its distinctive silhouette and strategic location.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "The remains of Herzogenstein Castle on the Rhine, preserved as a historical site.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Rheinfels Castle",
+                  "text": "One of the most powerful castle ruins on the Rhine, offering impressive insights into medieval fortification architecture.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "A nature reserve along the Rhine encompassing the characteristic slopes and landscapes up to the Loreley rock.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "A historic hilltop castle overlooking the Rhine valley and the town of Oberwesel.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "A famous open-air stage on the Loreley plateau, hosting major concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE",
     coords: [7.72, 50.13],
@@ -45758,7 +46235,304 @@ export const pois: POI[] = [
       "tr": ["Havel 334 kilometre uzunluğundadır, ancak kaynağı ile ağzı arasındaki kuş uçuşu mesafe sadece 94 kilometredir.", "Nehir yolu üzerinde 40'tan fazla doğal gölden geçer.", "Son 300 kilometredeki eğim sadece yüzde 0,007'dir.", "Berlin-Spandau'da, su miktarı en yüksek yan kolu olan Spree, Havel'e karışır.", "Havelberg Dominsel topluluğu, Havel'in tarihi ağzını işaret eder.", "Nehir yatağının büyük bölümleri Biosphärenreservat Flusslandschaft Elbe'ye aittir."]},
   },
   {
-    id: "mnt-zugspitze",
+    id: "mnt-zugspitze", "sights": {
+      "de": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Ein interaktives Museum auf dem Gipfel der Zugspitze, das über die Geschichte des Berges informiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Eine Ausstellung an der Zugspitze, die sich mit der Geschichte der Seilbahnen seit 1926 befasst.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Mit 2962 Metern der höchste Berg Deutschlands in den Bayerischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Ein markanter Gipfel im Wettersteingebirge in unmittelbarer Nähe zur Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Ein Gipfel im Wettersteingebirge, der sich südlich der Zugspitze erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Ein Berg im Wettersteingebirge, der Teil des Plateaus nahe der Zugspitze ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Ein Felsgipfel im Wettersteingebirge nahe der deutschen Grenze zu Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Großer Waxenstein",
+                  "text": "Ein bedeutender Gipfel im Wettersteingebirge, der weithin sichtbar über Garmisch-Partenkirchen thront.",
+                  "category": "landmark",
+                  "coords": [
+                        11.023294,
+                        47.446204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Interaktív múzeum a Zugspitze csúcsán, amely a hegy történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Kiállítás a Zugspitzén, amely az 1926 óta működő felvonók történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "2962 méteres magasságával Németország legmagasabb hegye a Bajor-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Jellegzetes csúcs a Wetterstein-hegységben, a Zugspitze közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Csúcs a Wetterstein-hegységben, amely a Zugspitzétől délre magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Hegy a Wetterstein-hegységben, amely a Zugspitze közeli fennsík része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Sziklás csúcs a Wetterstein-hegységben, a német-osztrák határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Großer Waxenstein",
+                  "text": "A Wetterstein-hegység egyik jelentős csúcsa, amely Garmisch-Partenkirchen felett magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.023294,
+                        47.446204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Un muzeu interactiv pe vârful Zugspitze, care oferă informații despre istoria muntelui.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "O expoziție la Zugspitze care se ocupă de istoria telefericelor începând cu anul 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Cel mai înalt munte din Germania, având 2962 de metri, situat în Alpii Bavarezi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Un vârf proeminent în munții Wetterstein, în imediata apropiere a vârfului Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Un vârf din munții Wetterstein, care se înalță la sud de Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Un munte în munții Wetterstein, făcând parte din platoul de lângă Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Un vârf stâncos în munții Wetterstein, lângă granița germano-austriacă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Großer Waxenstein",
+                  "text": "Un vârf important din munții Wetterstein, care domină panorama deasupra localității Garmisch-Partenkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.023294,
+                        47.446204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "An interactive museum at the summit of the Zugspitze, providing information about the mountain's history.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "An exhibition at the Zugspitze dealing with the history of cable cars since 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "At 2,962 metres, it is the highest mountain in Germany, located in the Bavarian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "A prominent peak in the Wetterstein mountains in the immediate vicinity of the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "A peak in the Wetterstein mountains rising south of the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "A mountain in the Wetterstein mountains, part of the plateau near the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "A rocky peak in the Wetterstein mountains near the German border with Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Großer Waxenstein",
+                  "text": "A significant peak in the Wetterstein mountains, towering over Garmisch-Partenkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.023294,
+                        47.446204
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BY",
     coords: [10.9859, 47.4211],
@@ -45827,7 +46601,268 @@ export const pois: POI[] = [
       "tr": ["Brocken'de yılda ortalama 306 gün sis görülür.", "Zirve, 1961'den 1989'a kadar halkın erişimine kapalıydı.", "Brockenbahn treni ilk kez 1899 yılında işletmeye açılmıştır.", "‘Brockengespenst’ (Brocken Hayaleti), sis içindeki gölgelenmelerden kaynaklanan optik bir yanılsamadır.", "Şimdiye kadar ölçülen en yüksek rüzgar hızı 1984 yılında 263 km/saat olmuştur.", "Plato üzerinde Sachsen-Anhalt'ın en yüksek verici tesisi bulunmaktadır."]},
   },
   {
-    id: "mnt-feldberg",
+    id: "mnt-feldberg", "sights": {
+      "de": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Ein Naturkundemuseum im Schwarzwald, das die lokale Flora und Fauna präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Ein Museum auf dem Feldberg, das der Geschichte und Herstellung des Schwarzwälder Schinkens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Ein Berggipfel im Schwarzwald, der Teil des Feldberg-Massivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Ein markanter Berggipfel im Schwarzwald mit weitem Blick über die Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Ein Gipfel im Schwarzwald, der beliebte Wanderwege und Aussichtspunkte bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Ein Berggipfel im Schwarzwald, der als Ziel für Wanderer und Wintersportler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Ein Gipfel im Schwarzwald, der sich in der Nähe des Feldbergs befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Természettudományi múzeum a Fekete-erdőben, amely a helyi élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Múzeum a Feldbergen, amely a fekete-erdei sonka történetét és készítését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Hegyi csúcs a Fekete-erdőben, a Feldberg-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Jellegzetes hegyi csúcs a Fekete-erdőben, tágas kilátással a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Csúcs a Fekete-erdőben, amely népszerű túraútvonalakat és kilátópontokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Hegyi csúcs a Fekete-erdőben, amely túrázók és téli sportolók célpontjaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Csúcs a Fekete-erdőben, a Feldberg közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Un muzeu de istorie naturală din Pădurea Neagră, care prezintă flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Un muzeu pe Feldberg dedicat istoriei și producției șoncii din Pădurea Neagră.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Un vârf muntos din Pădurea Neagră, parte a masivului Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Un vârf muntos proeminent din Pădurea Neagră, cu vederi largi asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Un vârf din Pădurea Neagră care oferă trasee de drumeție populare și puncte de belvedere.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Un vârf muntos din Pădurea Neagră, cunoscut ca destinație pentru drumeți și sporturi de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Un vârf din Pădurea Neagră, situat în apropiere de Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "A natural history museum in the Black Forest showcasing local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "A museum on the Feldberg dedicated to the history and production of Black Forest ham.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "A mountain peak in the Black Forest, part of the Feldberg massif.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "A prominent mountain peak in the Black Forest with wide views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "A peak in the Black Forest offering popular hiking trails and viewpoints.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "A mountain peak in the Black Forest known as a destination for hikers and winter sports.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "A peak in the Black Forest located near the Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BW",
     coords: [8.0039, 47.8736],
@@ -45861,7 +46896,304 @@ export const pois: POI[] = [
       "tr": ["En yüksek uç resmi olarak Seebuck olarak adlandırılırken, Feldberg zirvesi biraz yan taraftadır.", "Feldberg kayak merkezi 14 asansör sistemi ve yaklaşık 30 kilometrelik pist sunar.", "Feldbergturm kulesi eskiden Südwestrundfunk'un verici kulesi olarak hizmet veriyordu.", "Feldberg'deki yıllık yağış miktarı Almanya'daki en yüksek değerler arasındadır.", "Feldberg doğa koruma alanında nadir orman tavukları kuluçkaya yatar.", "Küçük kabinli bir teleferik olan Feldbergbahn, ziyaretçileri Seebuck zirvesine çıkarır."]},
   },
   {
-    id: "mnt-grosser-arber",
+    id: "mnt-grosser-arber", "sights": {
+      "de": [
+            {
+                  "name": "Großer Arbersee und Arberseewand",
+                  "text": "Ein Naturschutzgebiet, das einen Karsee und seine steilen Bergwände umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        13.146326,
+                        49.098516
+                  ]
+            },
+            {
+                  "name": "Riesloch",
+                  "text": "Ein Naturschutzgebiet bei Bodenmais, bekannt für seine Wasserfälle und seinen Urwald.",
+                  "category": "natural",
+                  "coords": [
+                        13.115198,
+                        49.087423
+                  ]
+            },
+            {
+                  "name": "Kleiner Arbersee",
+                  "text": "Ein Naturschutzgebiet mit einem malerischen Karsee mit schwimmenden Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        13.116562,
+                        49.120793
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Ein Aussichtspunkt im Bayerischen Wald mit weitem Blick über den Lamer Winkel.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Kleiner Arber",
+                  "text": "Mit 1.384 Metern ist er der höchste Berg der Oberpfalz.",
+                  "category": "landmark",
+                  "coords": [
+                        13.110072,
+                        49.113301
+                  ]
+            },
+            {
+                  "name": "Hochzellberg",
+                  "text": "Ein bewaldeter Berggipfel im Bayerischen Wald bei Bodenmais.",
+                  "category": "landmark",
+                  "coords": [
+                        13.133208,
+                        49.077679
+                  ]
+            },
+            {
+                  "name": "Rißlochfälle",
+                  "text": "Spektakuläre Wasserfälle im Bayerischen Wald, die als die höchsten der Region gelten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.120189,
+                        49.088726
+                  ]
+            },
+            {
+                  "name": "Mittagsplatzl",
+                  "text": "Ein Berggipfel, der einen Panoramablick über den Großen Arbersee bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.142848,
+                        49.093397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Großer Arbersee und Arberseewand",
+                  "text": "Természetvédelmi terület, amely magában foglal egy tengerszemet és annak meredek sziklafalait.",
+                  "category": "natural",
+                  "coords": [
+                        13.146326,
+                        49.098516
+                  ]
+            },
+            {
+                  "name": "Riesloch",
+                  "text": "Természetvédelmi terület Bodenmais közelében, amely vízeséseiről és őserdejéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.115198,
+                        49.087423
+                  ]
+            },
+            {
+                  "name": "Kleiner Arbersee",
+                  "text": "Természetvédelmi terület egy festői tengerszemmel, amelyben úszó szigetek találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        13.116562,
+                        49.120793
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Kilátópont a Bajor-erdőben, ahonnan széles kilátás nyílik a Lamer Winkel-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Kleiner Arber",
+                  "text": "A maga 1384 méterével ez a Felső-Pfalz régió legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        13.110072,
+                        49.113301
+                  ]
+            },
+            {
+                  "name": "Hochzellberg",
+                  "text": "Erdős hegycsúcs a Bajor-erdőben, Bodenmais közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.133208,
+                        49.077679
+                  ]
+            },
+            {
+                  "name": "Rißlochfälle",
+                  "text": "Látványos vízesések a Bajor-erdőben, amelyeket a régió legmagasabbjainak tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.120189,
+                        49.088726
+                  ]
+            },
+            {
+                  "name": "Mittagsplatzl",
+                  "text": "Hegycsúcs, ahonnan panorámás kilátás nyílik a Großer Arbersee-re.",
+                  "category": "landmark",
+                  "coords": [
+                        13.142848,
+                        49.093397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Großer Arbersee und Arberseewand",
+                  "text": "O rezervație naturală care cuprinde un lac glaciar și pereții săi muntoși abrupți.",
+                  "category": "natural",
+                  "coords": [
+                        13.146326,
+                        49.098516
+                  ]
+            },
+            {
+                  "name": "Riesloch",
+                  "text": "O rezervație naturală lângă Bodenmais, cunoscută pentru cascadele sale și pădurea virgină.",
+                  "category": "natural",
+                  "coords": [
+                        13.115198,
+                        49.087423
+                  ]
+            },
+            {
+                  "name": "Kleiner Arbersee",
+                  "text": "O arie naturală protejată care prezintă un lac glaciar pitoresc cu insule plutitoare.",
+                  "category": "natural",
+                  "coords": [
+                        13.116562,
+                        49.120793
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Un punct de belvedere din Pădurea Bavareză care oferă vederi largi asupra văii Lamer Winkel.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Kleiner Arber",
+                  "text": "Cu o înălțime de 1.384 de metri, este cel mai înalt munte din regiunea Palatinatul Superior.",
+                  "category": "landmark",
+                  "coords": [
+                        13.110072,
+                        49.113301
+                  ]
+            },
+            {
+                  "name": "Hochzellberg",
+                  "text": "Un vârf muntos împădurit din Pădurea Bavareză, lângă Bodenmais.",
+                  "category": "landmark",
+                  "coords": [
+                        13.133208,
+                        49.077679
+                  ]
+            },
+            {
+                  "name": "Rißlochfälle",
+                  "text": "Cascade spectaculoase din Pădurea Bavareză, considerate cele mai înalte din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        13.120189,
+                        49.088726
+                  ]
+            },
+            {
+                  "name": "Mittagsplatzl",
+                  "text": "Un vârf muntos care oferă o vedere panoramică asupra lacului Großer Arbersee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.142848,
+                        49.093397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Großer Arbersee und Arberseewand",
+                  "text": "A nature reserve encompassing a glacial lake and its steep mountain walls.",
+                  "category": "natural",
+                  "coords": [
+                        13.146326,
+                        49.098516
+                  ]
+            },
+            {
+                  "name": "Riesloch",
+                  "text": "A nature reserve near Bodenmais known for its waterfalls and primeval forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.115198,
+                        49.087423
+                  ]
+            },
+            {
+                  "name": "Kleiner Arbersee",
+                  "text": "A protected nature area featuring a scenic glacial lake with floating islands.",
+                  "category": "natural",
+                  "coords": [
+                        13.116562,
+                        49.120793
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "A viewpoint in the Bavarian Forest offering broad views over the Lamer Winkel valley.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Kleiner Arber",
+                  "text": "At 1,384 meters, it is the highest mountain in the Upper Palatinate region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.110072,
+                        49.113301
+                  ]
+            },
+            {
+                  "name": "Hochzellberg",
+                  "text": "A forested mountain peak in the Bavarian Forest near Bodenmais.",
+                  "category": "landmark",
+                  "coords": [
+                        13.133208,
+                        49.077679
+                  ]
+            },
+            {
+                  "name": "Rißlochfälle",
+                  "text": "Spectacular waterfalls in the Bavarian Forest, considered the highest in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.120189,
+                        49.088726
+                  ]
+            },
+            {
+                  "name": "Mittagsplatzl",
+                  "text": "A mountain peak providing a panoramic view over the Großer Arbersee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.142848,
+                        49.093397
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BY",
     coords: [13.1433, 49.1128],
@@ -45895,7 +47227,304 @@ export const pois: POI[] = [
       "tr": ["Großer Arber jeolojik olarak Moldanubik temel araziye aittir.", "Kayak merkezi, Almanya'nın en modern 6'lı koltuklu asansörüne sahiptir.", "Dört radar kubbesinden ikisi Alman Hava Kuvvetleri'ne (Luftwaffe) aittir.", "Dağın eteğindeki Großer Arbersee, yüzen adaları olan bir buzul gölüdür.", "Zirvedeki Arber şapelinde her yıl Ağustos ayında bir dağ ayini düzenlenir.", "Dağ, tam olarak Regen ve Cham ilçeleri arasındaki sınırda yer alır."]},
   },
   {
-    id: "mnt-watzmann",
+    id: "mnt-watzmann", "sights": {
+      "de": [
+            {
+                  "name": "Archenkanzel",
+                  "text": "Ein bekannter Aussichtspunkt am Watzmann mit spektakulärem Blick auf den Königssee.",
+                  "category": "natural",
+                  "coords": [
+                        12.965677,
+                        47.562072
+                  ]
+            },
+            {
+                  "name": "Watzmann-Mittelspitze",
+                  "text": "Der Hauptgipfel des Watzmann-Massivs und einer der höchsten Berge Deutschlands.",
+                  "category": "landmark",
+                  "coords": [
+                        12.922034,
+                        47.554389
+                  ]
+            },
+            {
+                  "name": "Watzmann-Südspitze",
+                  "text": "Einer der markanten Gipfel des Watzmann-Massivs in den Berchtesgadener Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916956,
+                        47.548031
+                  ]
+            },
+            {
+                  "name": "Hirschwiese",
+                  "text": "Ein Gipfel im Nationalpark Berchtesgaden, der für seine alpine Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916452,
+                        47.529586
+                  ]
+            },
+            {
+                  "name": "Gedenkstein",
+                  "text": "Ein Gedenkstein am Watzmann, der an Ereignisse oder Personen der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.967821,
+                        47.549424
+                  ]
+            },
+            {
+                  "name": "Kleiner Watzmann",
+                  "text": "Ein eigenständiger Gipfel des Watzmann-Massivs, auch bekannt als Watzmannfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.942456,
+                        47.558889
+                  ]
+            },
+            {
+                  "name": "Mooslahnerkopf",
+                  "text": "Ein Berggipfel, der einen beeindruckenden Blick auf die Watzmann-Ostwand bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.956113,
+                        47.560505
+                  ]
+            },
+            {
+                  "name": "Griesspitze",
+                  "text": "Ein felsiger Gipfel innerhalb der Berchtesgadener Alpen im Watzmann-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.903664,
+                        47.543672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archenkanzel",
+                  "text": "Ismert kilátópont a Watzmannon, ahonnan látványos kilátás nyílik a Königssee-re.",
+                  "category": "natural",
+                  "coords": [
+                        12.965677,
+                        47.562072
+                  ]
+            },
+            {
+                  "name": "Watzmann-Mittelspitze",
+                  "text": "A Watzmann-masszívum főcsúcsa és Németország egyik legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        12.922034,
+                        47.554389
+                  ]
+            },
+            {
+                  "name": "Watzmann-Südspitze",
+                  "text": "A Watzmann-masszívum egyik jellegzetes csúcsa a Berchtesgadeni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916956,
+                        47.548031
+                  ]
+            },
+            {
+                  "name": "Hirschwiese",
+                  "text": "A Berchtesgaden Nemzeti Park egyik csúcsa, amely alpesi környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916452,
+                        47.529586
+                  ]
+            },
+            {
+                  "name": "Gedenkstein",
+                  "text": "Emlékkő a Watzmannon, amely a régió eseményeire vagy személyiségeire emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.967821,
+                        47.549424
+                  ]
+            },
+            {
+                  "name": "Kleiner Watzmann",
+                  "text": "A Watzmann-masszívum különálló csúcsa, amelyet Watzmannfrau-ként is ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        12.942456,
+                        47.558889
+                  ]
+            },
+            {
+                  "name": "Mooslahnerkopf",
+                  "text": "Hegycsúcs, amely lenyűgöző kilátást nyújt a Watzmann keleti falára.",
+                  "category": "landmark",
+                  "coords": [
+                        12.956113,
+                        47.560505
+                  ]
+            },
+            {
+                  "name": "Griesspitze",
+                  "text": "Sziklás csúcs a Berchtesgadeni-Alpokban, a Watzmann területén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.903664,
+                        47.543672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archenkanzel",
+                  "text": "Un punct de belvedere cunoscut pe Watzmann, cu vederi spectaculoase spre Königssee.",
+                  "category": "natural",
+                  "coords": [
+                        12.965677,
+                        47.562072
+                  ]
+            },
+            {
+                  "name": "Watzmann-Mittelspitze",
+                  "text": "Vârful principal al masivului Watzmann și unul dintre cei mai înalți munți din Germania.",
+                  "category": "landmark",
+                  "coords": [
+                        12.922034,
+                        47.554389
+                  ]
+            },
+            {
+                  "name": "Watzmann-Südspitze",
+                  "text": "Unul dintre vârfurile proeminente ale masivului Watzmann din Alpii Berchtesgaden.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916956,
+                        47.548031
+                  ]
+            },
+            {
+                  "name": "Hirschwiese",
+                  "text": "Un vârf din Parcul Național Berchtesgaden, cunoscut pentru mediul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916452,
+                        47.529586
+                  ]
+            },
+            {
+                  "name": "Gedenkstein",
+                  "text": "O piatră memorială pe Watzmann, care comemorează evenimente sau persoane din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        12.967821,
+                        47.549424
+                  ]
+            },
+            {
+                  "name": "Kleiner Watzmann",
+                  "text": "Un vârf distinct al masivului Watzmann, cunoscut și sub numele de Watzmannfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.942456,
+                        47.558889
+                  ]
+            },
+            {
+                  "name": "Mooslahnerkopf",
+                  "text": "Un vârf montan care oferă o vedere impresionantă asupra peretelui estic al Watzmann.",
+                  "category": "landmark",
+                  "coords": [
+                        12.956113,
+                        47.560505
+                  ]
+            },
+            {
+                  "name": "Griesspitze",
+                  "text": "Un vârf stâncos din Alpii Berchtesgaden, în zona Watzmann.",
+                  "category": "landmark",
+                  "coords": [
+                        12.903664,
+                        47.543672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archenkanzel",
+                  "text": "A well-known viewpoint on the Watzmann with spectacular views of Lake Königssee.",
+                  "category": "natural",
+                  "coords": [
+                        12.965677,
+                        47.562072
+                  ]
+            },
+            {
+                  "name": "Watzmann-Mittelspitze",
+                  "text": "The main peak of the Watzmann massif and one of the highest mountains in Germany.",
+                  "category": "landmark",
+                  "coords": [
+                        12.922034,
+                        47.554389
+                  ]
+            },
+            {
+                  "name": "Watzmann-Südspitze",
+                  "text": "One of the prominent peaks of the Watzmann massif in the Berchtesgaden Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916956,
+                        47.548031
+                  ]
+            },
+            {
+                  "name": "Hirschwiese",
+                  "text": "A peak in the Berchtesgaden National Park known for its alpine environment.",
+                  "category": "landmark",
+                  "coords": [
+                        12.916452,
+                        47.529586
+                  ]
+            },
+            {
+                  "name": "Gedenkstein",
+                  "text": "A memorial stone on the Watzmann commemorating events or people of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.967821,
+                        47.549424
+                  ]
+            },
+            {
+                  "name": "Kleiner Watzmann",
+                  "text": "A distinct peak of the Watzmann massif, also known as Watzmannfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.942456,
+                        47.558889
+                  ]
+            },
+            {
+                  "name": "Mooslahnerkopf",
+                  "text": "A mountain peak offering an impressive view of the Watzmann East Face.",
+                  "category": "landmark",
+                  "coords": [
+                        12.956113,
+                        47.560505
+                  ]
+            },
+            {
+                  "name": "Griesspitze",
+                  "text": "A rocky peak within the Berchtesgaden Alps in the Watzmann area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.903664,
+                        47.543672
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BY",
     coords: [12.9227, 47.5552],
@@ -45963,7 +47592,268 @@ export const pois: POI[] = [
       "tr": ["1911 yılında Darmstadtlı öğrenciler ilk uçuş denemelerini burada yaptı.", "Radom, Hessen eyaletinin en yüksekteki binasıdır.", "Weser nehrini oluşturan iki koldan biri olan Fulda burada doğar.", "Zirvedeki Havacı Anıtı, Birinci Dünya Savaşı'nda ölen pilotları anar.", "Wasserkuppe bir yaz kızağı pistine ve küçük bir kayak merkezine sahiptir.", "Her yıl bir milyondan fazla insan dağı ziyaret etmektedir."]},
   },
   {
-    id: "mnt-fichtelberg",
+    id: "mnt-fichtelberg", "sights": {
+      "de": [
+            {
+                  "name": "Wiesenthaler K3",
+                  "text": "Ein Museum und Gästeinformationszentrum im Kurort Oberwiesenthal.",
+                  "category": "museum",
+                  "coords": [
+                        12.969079,
+                        50.419232
+                  ]
+            },
+            {
+                  "name": "Moor am Pfahlberg",
+                  "text": "Ein geschütztes Moorgebiet zur Erhaltung des natürlichen Ökosystems am Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.914945,
+                        50.444956
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Ein Meeresaquarium in Oberwiesenthal, das verschiedene Meeresbewohner und Korallenriffe zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Südosthang Süd)",
+                  "text": "Naturschutzgebiet zur Erhaltung der alpinen Flora am Südhang des Fichtelbergs.",
+                  "category": "natural",
+                  "coords": [
+                        12.958463,
+                        50.421152
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund nördlich)",
+                  "text": "Geschütztes Naturareal im nördlichen Teil des Zechengrund-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        12.946521,
+                        50.418351
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Schönjungferngrund)",
+                  "text": "Naturschutzgebiet, bekannt für seine moorigen Bergwiesen und seltenen Pflanzen.",
+                  "category": "natural",
+                  "coords": [
+                        12.956324,
+                        50.425113
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund südlich)",
+                  "text": "Geschütztes Bergltal an den Südhängen des Fichtelbergs.",
+                  "category": "natural",
+                  "coords": [
+                        12.946354,
+                        50.411519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wiesenthaler K3",
+                  "text": "Múzeum és vendégtájékoztató központ Oberwiesenthal üdülővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        12.969079,
+                        50.419232
+                  ]
+            },
+            {
+                  "name": "Moor am Pfahlberg",
+                  "text": "Védett lápos terület, amely megőrzi a Fichtelberg környéki természetes ökoszisztémát.",
+                  "category": "natural",
+                  "coords": [
+                        12.914945,
+                        50.444956
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Meeres-akvárium Oberwiesenthalban, amely különféle tengeri fajokat és korallzátonyokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Südosthang Süd)",
+                  "text": "Természetvédelmi terület, amely a Fichtelberg déli lejtőjének alpesi flóráját őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        12.958463,
+                        50.421152
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund nördlich)",
+                  "text": "Védett természeti terület a Zechengrund-völgy északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        12.946521,
+                        50.418351
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Schönjungferngrund)",
+                  "text": "Természetvédelmi terület, amely lápos hegyi rétjeiről és ritka növényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.956324,
+                        50.425113
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund südlich)",
+                  "text": "Védett hegyi völgy a Fichtelberg déli lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        12.946354,
+                        50.411519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wiesenthaler K3",
+                  "text": "Un muzeu și centru de informare pentru turiști situat în stațiunea Oberwiesenthal.",
+                  "category": "museum",
+                  "coords": [
+                        12.969079,
+                        50.419232
+                  ]
+            },
+            {
+                  "name": "Moor am Pfahlberg",
+                  "text": "O zonă umedă protejată care conservă ecosistemul natural de lângă Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.914945,
+                        50.444956
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "Un acvariu din Oberwiesenthal care prezintă diverse specii marine și recife de corali.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Südosthang Süd)",
+                  "text": "Rezervație naturală care conservă flora alpină pe versantul sudic al muntelui Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.958463,
+                        50.421152
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund nördlich)",
+                  "text": "Zonă naturală protejată în partea de nord a văii Zechengrund.",
+                  "category": "natural",
+                  "coords": [
+                        12.946521,
+                        50.418351
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Schönjungferngrund)",
+                  "text": "Rezervație naturală cunoscută pentru pajiștile sale montane mlăștinoase și plantele rare.",
+                  "category": "natural",
+                  "coords": [
+                        12.956324,
+                        50.425113
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund südlich)",
+                  "text": "Zonă de vale montană protejată pe versanții sudici ai muntelui Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.946354,
+                        50.411519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wiesenthaler K3",
+                  "text": "A museum and guest information center located in the resort town of Oberwiesenthal.",
+                  "category": "museum",
+                  "coords": [
+                        12.969079,
+                        50.419232
+                  ]
+            },
+            {
+                  "name": "Moor am Pfahlberg",
+                  "text": "A protected wetland area preserving the natural ecosystem near the Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.914945,
+                        50.444956
+                  ]
+            },
+            {
+                  "name": "Meeresaquarium am Fichtelberg",
+                  "text": "An aquarium in Oberwiesenthal showcasing various marine species and coral reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        12.968922,
+                        50.427668
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Südosthang Süd)",
+                  "text": "Nature reserve preserving alpine flora on the southern slope of the Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.958463,
+                        50.421152
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund nördlich)",
+                  "text": "Protected natural area in the northern part of the Zechengrund valley.",
+                  "category": "natural",
+                  "coords": [
+                        12.946521,
+                        50.418351
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Schönjungferngrund)",
+                  "text": "Nature reserve known for its boggy mountain meadows and rare plants.",
+                  "category": "natural",
+                  "coords": [
+                        12.956324,
+                        50.425113
+                  ]
+            },
+            {
+                  "name": "Fichtelberg (Zechengrund südlich)",
+                  "text": "Protected mountain valley area on the southern slopes of the Fichtelberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.946354,
+                        50.411519
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-SN",
     coords: [12.9547, 50.4286],
@@ -46167,6 +48057,60 @@ export const pois: POI[] = [
                         12.473523,
                         47.852982
                   ]
+            },
+            {
+                  "name": "Tiefste Stelle",
+                  "text": "Die tiefste Stelle des Chiemsees, ein markantes geografisches Merkmal des Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        12.455306,
+                        47.880275
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Chieming",
+                  "text": "Eine Aussichtsplattform in Chieming mit Panoramablick über den Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.527266,
+                        47.896141
+                  ]
+            },
+            {
+                  "name": "Panoramablick über den Chiemsee",
+                  "text": "Ein Aussichtspunkt, der einen weitreichenden Panoramablick über das Wasser des Chiemsees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.476492,
+                        47.84565
+                  ]
+            },
+            {
+                  "name": "Panorama Blick",
+                  "text": "Ein malerischer Ort mit Panoramablick auf die Landschaft des Chiemsees.",
+                  "category": "natural",
+                  "coords": [
+                        12.522793,
+                        47.901368
+                  ]
+            },
+            {
+                  "name": "Chiemsees \"Point of Nemo\"",
+                  "text": "Ein bemerkenswerter Aussichtspunkt am Chiemsee, benannt nach dem ozeanischen Pol der Unzugänglichkeit.",
+                  "category": "natural",
+                  "coords": [
+                        12.469774,
+                        47.887302
+                  ]
+            },
+            {
+                  "name": "Beobachtungsturm Hirschauer Bucht",
+                  "text": "Ein Beobachtungsturm in der Hirschauer Bucht, ideal zur Vogelbeobachtung und zum Genießen der Seekulisse.",
+                  "category": "natural",
+                  "coords": [
+                        12.51863,
+                        47.859035
+                  ]
             }
       ],
       "hu": [
@@ -46186,6 +48130,60 @@ export const pois: POI[] = [
                   "coords": [
                         12.473523,
                         47.852982
+                  ]
+            },
+            {
+                  "name": "Tiefste Stelle",
+                  "text": "A Chiemsee legmélyebb pontja, a tó jelentős földrajzi jellemzője.",
+                  "category": "landmark",
+                  "coords": [
+                        12.455306,
+                        47.880275
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Chieming",
+                  "text": "Kilátóterasz Chiemingben, ahonnan panorámás kilátás nyílik a Chiemsee-re.",
+                  "category": "natural",
+                  "coords": [
+                        12.527266,
+                        47.896141
+                  ]
+            },
+            {
+                  "name": "Panoramablick über den Chiemsee",
+                  "text": "Kilátópont, ahonnan elsöprő panoráma nyílik a Chiemsee vizére.",
+                  "category": "natural",
+                  "coords": [
+                        12.476492,
+                        47.84565
+                  ]
+            },
+            {
+                  "name": "Panorama Blick",
+                  "text": "Festői hely, ahonnan panorámás kilátás nyílik a Chiemsee tájára.",
+                  "category": "natural",
+                  "coords": [
+                        12.522793,
+                        47.901368
+                  ]
+            },
+            {
+                  "name": "Chiemsees \"Point of Nemo\"",
+                  "text": "Nevezetes kilátópont a Chiemsee-nél, amelyet az óceáni hozzáférhetetlenségi pólusról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        12.469774,
+                        47.887302
+                  ]
+            },
+            {
+                  "name": "Beobachtungsturm Hirschauer Bucht",
+                  "text": "Megfigyelőtorony a Hirschau-öbölben, amely ideális madármegfigyelésre és a tavi táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        12.51863,
+                        47.859035
                   ]
             }
       ],
@@ -46207,6 +48205,60 @@ export const pois: POI[] = [
                         12.473523,
                         47.852982
                   ]
+            },
+            {
+                  "name": "Tiefste Stelle",
+                  "text": "Cel mai adânc punct al lacului Chiemsee, marcând o caracteristică geografică semnificativă a lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        12.455306,
+                        47.880275
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Chieming",
+                  "text": "O platformă de observare în Chieming, care oferă vederi panoramice asupra lacului Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.527266,
+                        47.896141
+                  ]
+            },
+            {
+                  "name": "Panoramablick über den Chiemsee",
+                  "text": "Un punct de observare care oferă o vedere panoramică vastă asupra apelor lacului Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.476492,
+                        47.84565
+                  ]
+            },
+            {
+                  "name": "Panorama Blick",
+                  "text": "Un loc pitoresc care oferă o vedere panoramică asupra peisajului Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.522793,
+                        47.901368
+                  ]
+            },
+            {
+                  "name": "Chiemsees \"Point of Nemo\"",
+                  "text": "Un punct de observare notabil la Chiemsee, numit după polul oceanic al inaccesibilității.",
+                  "category": "natural",
+                  "coords": [
+                        12.469774,
+                        47.887302
+                  ]
+            },
+            {
+                  "name": "Beobachtungsturm Hirschauer Bucht",
+                  "text": "Un turn de observare în Golful Hirschau, ideal pentru observarea păsărilor și pentru a admira peisajul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        12.51863,
+                        47.859035
+                  ]
             }
       ],
       "en": [
@@ -46226,6 +48278,60 @@ export const pois: POI[] = [
                   "coords": [
                         12.473523,
                         47.852982
+                  ]
+            },
+            {
+                  "name": "Tiefste Stelle",
+                  "text": "The deepest point of Lake Chiemsee, marking a significant geographical feature of the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        12.455306,
+                        47.880275
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Chieming",
+                  "text": "A viewing platform in Chieming offering panoramic vistas over Lake Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.527266,
+                        47.896141
+                  ]
+            },
+            {
+                  "name": "Panoramablick über den Chiemsee",
+                  "text": "A viewpoint providing a sweeping panoramic view across the waters of Lake Chiemsee.",
+                  "category": "natural",
+                  "coords": [
+                        12.476492,
+                        47.84565
+                  ]
+            },
+            {
+                  "name": "Panorama Blick",
+                  "text": "A scenic spot offering a panoramic view of the Chiemsee landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.522793,
+                        47.901368
+                  ]
+            },
+            {
+                  "name": "Chiemsees \"Point of Nemo\"",
+                  "text": "A notable viewpoint at Chiemsee named after the oceanic pole of inaccessibility.",
+                  "category": "natural",
+                  "coords": [
+                        12.469774,
+                        47.887302
+                  ]
+            },
+            {
+                  "name": "Beobachtungsturm Hirschauer Bucht",
+                  "text": "An observation tower in Hirschau Bay, ideal for birdwatching and enjoying the lake scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.51863,
+                        47.859035
                   ]
             }
       ]
@@ -46633,7 +48739,304 @@ export const pois: POI[] = [
       "tr": ["Schweriner See'nin maksimum derinliği yaklaşık 52,4 metredir.", "Göl, deniz seviyesinden 38 metre yükseklikte yer almaktadır.", "Yaklaşık 0,79 kilometreküp su hacmine sahiptir.", "Kaninchenwerder adası buzul çağı birikintileriyle oluşmuştur.", "Schweriner Schloss tam olarak 635 odaya sahiptir.", "Paulsdamm 1842 yılında tamamlanmıştır."]},
   },
   {
-    id: "island-sylt",
+    id: "island-sylt", "sights": {
+      "de": [
+            {
+                  "name": "Tinnumburg",
+                  "text": "Die Überreste einer kreisförmigen Wallanlage aus der Wikingerzeit auf Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.319051,
+                        54.8968
+                  ]
+            },
+            {
+                  "name": "Harhoog",
+                  "text": "Ein prähistorisches Megalithgrab, das in Keitum auf Sylt besichtigt werden kann.",
+                  "category": "historical",
+                  "coords": [
+                        8.382609,
+                        54.890736
+                  ]
+            },
+            {
+                  "name": "Tipkenhoog",
+                  "text": "Ein bronzezeitlicher Grabhügel auf einer Anhöhe in Keitum auf Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.381656,
+                        54.891139
+                  ]
+            },
+            {
+                  "name": "Sylt Aquarium",
+                  "text": "Ein Aquarium in Westerland, das Meeresbewohner der Nordsee und Tropen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.297742,
+                        54.901021
+                  ]
+            },
+            {
+                  "name": "Altfriesisches Haus",
+                  "text": "Ein Museum in Keitum auf Sylt, das die traditionelle friesische Lebensweise des 18. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.372679,
+                        54.8956
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Sylter Welle",
+                  "text": "Ein Freizeitbad auf Sylt mit verschiedenen Schwimmbecken und einem Wellnessbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299815,
+                        54.909843
+                  ]
+            },
+            {
+                  "name": "Sylt Museum",
+                  "text": "Dieses Museum dokumentiert die Kulturgeschichte und die Seefahrttradition der Insel Sylt.",
+                  "category": "museum",
+                  "coords": [
+                        8.373633,
+                        54.894821
+                  ]
+            },
+            {
+                  "name": "Rantumbecken",
+                  "text": "Ein bedeutendes Naturschutzgebiet und Vogelschutzgebiet an der Ostküste von Sylt.",
+                  "category": "natural",
+                  "coords": [
+                        8.316328,
+                        54.871887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinnumburg",
+                  "text": "Egy viking kori körsánc maradványai Sylt szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        8.319051,
+                        54.8968
+                  ]
+            },
+            {
+                  "name": "Harhoog",
+                  "text": "Prehisztorikus megallitikus sír, amely Keitumban, Sylt szigetén található.",
+                  "category": "historical",
+                  "coords": [
+                        8.382609,
+                        54.890736
+                  ]
+            },
+            {
+                  "name": "Tipkenhoog",
+                  "text": "Bronzkori sírhalom egy dombon Keitumban, Sylt szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        8.381656,
+                        54.891139
+                  ]
+            },
+            {
+                  "name": "Sylt Aquarium",
+                  "text": "Westerlandi akvárium, amely az Északi-tenger és a trópusok élővilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        8.297742,
+                        54.901021
+                  ]
+            },
+            {
+                  "name": "Altfriesisches Haus",
+                  "text": "Sylti múzeum, amely a 18. századi hagyományos fríz életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.372679,
+                        54.8956
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Sylter Welle",
+                  "text": "Élményfürdő Sylt szigetén különböző medencékkel és wellness-részleggel.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299815,
+                        54.909843
+                  ]
+            },
+            {
+                  "name": "Sylt Museum",
+                  "text": "Ez a múzeum Sylt szigetének kultúrtörténetét és tengerészeti hagyományait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.373633,
+                        54.894821
+                  ]
+            },
+            {
+                  "name": "Rantumbecken",
+                  "text": "Jelentős természetvédelmi terület és madárrezervátum Sylt keleti partján.",
+                  "category": "natural",
+                  "coords": [
+                        8.316328,
+                        54.871887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinnumburg",
+                  "text": "Rămășițele unei fortificații circulare din epoca vikingă pe insula Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.319051,
+                        54.8968
+                  ]
+            },
+            {
+                  "name": "Harhoog",
+                  "text": "Un mormânt megalitic preistoric care poate fi vizitat în Keitum, pe insula Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.382609,
+                        54.890736
+                  ]
+            },
+            {
+                  "name": "Tipkenhoog",
+                  "text": "Un tumul din epoca bronzului situat pe o colină în Keitum, pe insula Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.381656,
+                        54.891139
+                  ]
+            },
+            {
+                  "name": "Sylt Aquarium",
+                  "text": "Un acvariu din Westerland care prezintă viața marină din Marea Nordului și de la tropice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.297742,
+                        54.901021
+                  ]
+            },
+            {
+                  "name": "Altfriesisches Haus",
+                  "text": "Un muzeu din Sylt care prezintă modul de viață tradițional frizon din secolul al XVIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        8.372679,
+                        54.8956
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Sylter Welle",
+                  "text": "Un parc acvatic din Sylt cu diverse piscine și o zonă de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299815,
+                        54.909843
+                  ]
+            },
+            {
+                  "name": "Sylt Museum",
+                  "text": "Acest muzeu documentează istoria culturală și tradiția maritimă a insulei Sylt.",
+                  "category": "museum",
+                  "coords": [
+                        8.373633,
+                        54.894821
+                  ]
+            },
+            {
+                  "name": "Rantumbecken",
+                  "text": "O rezervație naturală importantă și un sanctuar pentru păsări pe coasta de est a insulei Sylt.",
+                  "category": "natural",
+                  "coords": [
+                        8.316328,
+                        54.871887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinnumburg",
+                  "text": "The remains of a circular rampart from the Viking Age on the island of Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.319051,
+                        54.8968
+                  ]
+            },
+            {
+                  "name": "Harhoog",
+                  "text": "A prehistoric megalithic tomb located in Keitum on the island of Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.382609,
+                        54.890736
+                  ]
+            },
+            {
+                  "name": "Tipkenhoog",
+                  "text": "A Bronze Age burial mound located on a hill in Keitum on the island of Sylt.",
+                  "category": "historical",
+                  "coords": [
+                        8.381656,
+                        54.891139
+                  ]
+            },
+            {
+                  "name": "Sylt Aquarium",
+                  "text": "An aquarium in Westerland showcasing marine life from the North Sea and tropics.",
+                  "category": "recreational",
+                  "coords": [
+                        8.297742,
+                        54.901021
+                  ]
+            },
+            {
+                  "name": "Altfriesisches Haus",
+                  "text": "A museum on Sylt showcasing the traditional Frisian way of life from the 18th century.",
+                  "category": "museum",
+                  "coords": [
+                        8.372679,
+                        54.8956
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Sylter Welle",
+                  "text": "A water park on Sylt featuring various swimming pools and a wellness area.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299815,
+                        54.909843
+                  ]
+            },
+            {
+                  "name": "Sylt Museum",
+                  "text": "This museum documents the cultural history and maritime traditions of the island of Sylt.",
+                  "category": "museum",
+                  "coords": [
+                        8.373633,
+                        54.894821
+                  ]
+            },
+            {
+                  "name": "Rantumbecken",
+                  "text": "A significant nature reserve and bird sanctuary on the eastern coast of Sylt.",
+                  "category": "natural",
+                  "coords": [
+                        8.316328,
+                        54.871887
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-SH",
     coords: [8.34, 54.9],
@@ -46729,6 +49132,69 @@ export const pois: POI[] = [
                         7.910921,
                         54.187759
                   ]
+            },
+            {
+                  "name": "Museum Helgoland",
+                  "text": "Ein Museum auf Helgoland, das die Geschichte, Kultur und Natur der Insel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.887276,
+                        54.185196
+                  ]
+            },
+            {
+                  "name": "Helgoländer Felssockel",
+                  "text": "Ein Naturschutzgebiet, das den einzigartigen Felssockel rund um die Insel Helgoland schützt.",
+                  "category": "natural",
+                  "coords": [
+                        7.872751,
+                        54.195569
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Helgoland",
+                  "text": "Der markante Leuchtturm auf dem Oberland von Helgoland, ein wichtiges Navigationszeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.882297,
+                        54.181858
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Oberfeuer",
+                  "text": "Das Oberfeuer der Düne von Helgoland, das den Seeweg markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.914063,
+                        54.1823
+                  ]
+            },
+            {
+                  "name": "Lummenfelsen der Insel Helgoland",
+                  "text": "Ein Vogelschutzgebiet auf Helgoland, bekannt für seine großen Lummenkolonien.",
+                  "category": "natural",
+                  "coords": [
+                        7.873122,
+                        54.186505
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Unterfeuer",
+                  "text": "Das Unterfeuer der Helgoländer Düne, das zusammen mit dem Oberfeuer als Richtfeuer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913469,
+                        54.181319
+                  ]
+            },
+            {
+                  "name": "Strandfundemuseum",
+                  "text": "Ein Museum, das verschiedene Fundstücke vom Strand und aus dem Meer präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.886223,
+                        54.182874
+                  ]
             }
       ],
       "hu": [
@@ -46757,6 +49223,69 @@ export const pois: POI[] = [
                   "coords": [
                         7.910921,
                         54.187759
+                  ]
+            },
+            {
+                  "name": "Museum Helgoland",
+                  "text": "Helgolandi múzeum, amely a sziget történelmét, kultúráját és természetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.887276,
+                        54.185196
+                  ]
+            },
+            {
+                  "name": "Helgoländer Felssockel",
+                  "text": "Természetvédelmi terület, amely a Helgoland-sziget körüli egyedülálló sziklatalpazatot védi.",
+                  "category": "natural",
+                  "coords": [
+                        7.872751,
+                        54.195569
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Helgoland",
+                  "text": "Helgoland felső részén található jellegzetes világítótorony, fontos hajózási jelzés.",
+                  "category": "landmark",
+                  "coords": [
+                        7.882297,
+                        54.181858
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Oberfeuer",
+                  "text": "A helgolandi Düne-sziget felső fénye, amely a tengeri utat jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.914063,
+                        54.1823
+                  ]
+            },
+            {
+                  "name": "Lummenfelsen der Insel Helgoland",
+                  "text": "Madárvédelmi terület Helgolandon, amely hatalmas lummakolóniáiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        7.873122,
+                        54.186505
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Unterfeuer",
+                  "text": "A helgolandi Düne-sziget alsó fénye, amely az irányfény rendszer része.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913469,
+                        54.181319
+                  ]
+            },
+            {
+                  "name": "Strandfundemuseum",
+                  "text": "Múzeum, amely különféle tengerparti és tengeri leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.886223,
+                        54.182874
                   ]
             }
       ],
@@ -46787,6 +49316,69 @@ export const pois: POI[] = [
                         7.910921,
                         54.187759
                   ]
+            },
+            {
+                  "name": "Museum Helgoland",
+                  "text": "Un muzeu pe Helgoland care prezintă istoria, cultura și natura insulei.",
+                  "category": "museum",
+                  "coords": [
+                        7.887276,
+                        54.185196
+                  ]
+            },
+            {
+                  "name": "Helgoländer Felssockel",
+                  "text": "O rezervație naturală care protejează soclul stâncos unic din jurul insulei Helgoland.",
+                  "category": "natural",
+                  "coords": [
+                        7.872751,
+                        54.195569
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Helgoland",
+                  "text": "Farul distinctiv de pe platoul insulei Helgoland, un reper important de navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        7.882297,
+                        54.181858
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Oberfeuer",
+                  "text": "Farul superior de pe Düne, Helgoland, care marchează ruta maritimă.",
+                  "category": "landmark",
+                  "coords": [
+                        7.914063,
+                        54.1823
+                  ]
+            },
+            {
+                  "name": "Lummenfelsen der Insel Helgoland",
+                  "text": "O rezervație avifaunistică pe Helgoland, faimoasă pentru coloniile mari de păsări guillemot.",
+                  "category": "natural",
+                  "coords": [
+                        7.873122,
+                        54.186505
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Unterfeuer",
+                  "text": "Farul inferior de pe Düne, Helgoland, care servește drept lumină de aliniament.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913469,
+                        54.181319
+                  ]
+            },
+            {
+                  "name": "Strandfundemuseum",
+                  "text": "Un muzeu care prezintă diverse obiecte găsite pe plajă și în mare.",
+                  "category": "museum",
+                  "coords": [
+                        7.886223,
+                        54.182874
+                  ]
             }
       ],
       "en": [
@@ -46815,6 +49407,69 @@ export const pois: POI[] = [
                   "coords": [
                         7.910921,
                         54.187759
+                  ]
+            },
+            {
+                  "name": "Museum Helgoland",
+                  "text": "A museum on Helgoland showcasing the island's history, culture, and nature.",
+                  "category": "museum",
+                  "coords": [
+                        7.887276,
+                        54.185196
+                  ]
+            },
+            {
+                  "name": "Helgoländer Felssockel",
+                  "text": "A nature reserve protecting the unique rocky base surrounding the island of Helgoland.",
+                  "category": "natural",
+                  "coords": [
+                        7.872751,
+                        54.195569
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Helgoland",
+                  "text": "The distinctive lighthouse on the highland of Helgoland, an important navigation mark.",
+                  "category": "landmark",
+                  "coords": [
+                        7.882297,
+                        54.181858
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Oberfeuer",
+                  "text": "The upper light on the Düne of Helgoland, marking the maritime route.",
+                  "category": "landmark",
+                  "coords": [
+                        7.914063,
+                        54.1823
+                  ]
+            },
+            {
+                  "name": "Lummenfelsen der Insel Helgoland",
+                  "text": "A bird sanctuary on Helgoland, famous for its large colonies of common guillemots.",
+                  "category": "natural",
+                  "coords": [
+                        7.873122,
+                        54.186505
+                  ]
+            },
+            {
+                  "name": "Helgoland Düne Unterfeuer",
+                  "text": "The lower light on the Düne of Helgoland, serving as a leading light.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913469,
+                        54.181319
+                  ]
+            },
+            {
+                  "name": "Strandfundemuseum",
+                  "text": "A museum showcasing various items found on the beach and in the sea.",
+                  "category": "museum",
+                  "coords": [
+                        7.886223,
+                        54.182874
                   ]
             }
       ]
@@ -46853,7 +49508,304 @@ export const pois: POI[] = [
       "tr": ["Ana ada Helgoland sadece yaklaşık 1,0 kilometrekarelik bir alana sahiptir.", "Adanın en yüksek noktası deniz seviyesinden 61 metre yüksekliktedir.", "Lange Anna'nın yaklaşık 25.000 ton ağırlığında olduğu tahmin edilmektedir.", "1947 yılındaki patlama 6.700 ton patlayıcı gücündeydi.", "Helgoland'da araba yoktur, turistler için bisiklet yasaktır.", "Helgoland, Schleswig-Holstein'daki Pinneberg ilçesine bağlıdır."]},
   },
   {
-    id: "island-usedom",
+    id: "island-usedom", "sights": {
+      "de": [
+            {
+                  "name": "Inseln Böhmke und Werder",
+                  "text": "Ein Naturschutzgebiet auf Usedom, das als wichtiger Lebensraum für Wasservögel dient.",
+                  "category": "natural",
+                  "coords": [
+                        14.031129,
+                        53.947587
+                  ]
+            },
+            {
+                  "name": "Mellenthiner Os",
+                  "text": "Ein Naturschutzgebiet auf Usedom, das eine seltene eiszeitliche Os-Landschaft schützt.",
+                  "category": "natural",
+                  "coords": [
+                        14.007843,
+                        53.937176
+                  ]
+            },
+            {
+                  "name": "Halbinsel Cosim",
+                  "text": "Ein malerisches Naturschutzgebiet auf einer Halbinsel, bekannt für seine unberührte Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.016485,
+                        53.959117
+                  ]
+            },
+            {
+                  "name": "Wasserschloss Mellenthin",
+                  "text": "Ein historisches Wasserschloss aus dem 16. Jahrhundert im Herzen der Insel Usedom.",
+                  "category": "castle",
+                  "coords": [
+                        14.016407,
+                        53.923944
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Eine archäologische Stätte auf Usedom mit historischen Erdschanzen und Befestigungsresten.",
+                  "category": "historical",
+                  "coords": [
+                        14.00803,
+                        53.934502
+                  ]
+            },
+            {
+                  "name": "Gullivers Welt",
+                  "text": "Ein Themenmuseum auf Usedom, das eine riesige Skulptur der Figur Gulliver beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        14.047666,
+                        53.954967
+                  ]
+            },
+            {
+                  "name": "Teufelsstein",
+                  "text": "Ein großer eiszeitlicher Findling bei Pudagla, um den sich lokale Legenden ranken.",
+                  "category": "landmark",
+                  "coords": [
+                        14.04147,
+                        53.968236
+                  ]
+            },
+            {
+                  "name": "Fuchsberg",
+                  "text": "Eine Erhebung auf der Insel Usedom, die einen weiten Blick über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.005043,
+                        53.936381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inseln Böhmke und Werder",
+                  "text": "Természetvédelmi terület Usedomon, amely fontos élőhely a vízimadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        14.031129,
+                        53.947587
+                  ]
+            },
+            {
+                  "name": "Mellenthiner Os",
+                  "text": "Természetvédelmi terület Usedomon, amely egy ritka jégkorszaki óz-felszínt véd.",
+                  "category": "natural",
+                  "coords": [
+                        14.007843,
+                        53.937176
+                  ]
+            },
+            {
+                  "name": "Halbinsel Cosim",
+                  "text": "Festői természetvédelmi terület egy félszigeten, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.016485,
+                        53.959117
+                  ]
+            },
+            {
+                  "name": "Wasserschloss Mellenthin",
+                  "text": "16. századi történelmi vízi kastély Usedom szigetének szívében.",
+                  "category": "castle",
+                  "coords": [
+                        14.016407,
+                        53.923944
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Régészeti lelőhely Usedomon történelmi földvárakkal és erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.00803,
+                        53.934502
+                  ]
+            },
+            {
+                  "name": "Gullivers Welt",
+                  "text": "Tematikus múzeum Usedomon, amely Gulliver óriási szobrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.047666,
+                        53.954967
+                  ]
+            },
+            {
+                  "name": "Teufelsstein",
+                  "text": "Hatalmas jégkorszaki vándorkő Pudagla közelében, amelyhez helyi legendák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.04147,
+                        53.968236
+                  ]
+            },
+            {
+                  "name": "Fuchsberg",
+                  "text": "Domb Usedom szigetén, ahonnan széles kilátás nyílik a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.005043,
+                        53.936381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inseln Böhmke und Werder",
+                  "text": "O rezervație naturală pe Usedom, care servește drept habitat important pentru păsările de apă.",
+                  "category": "natural",
+                  "coords": [
+                        14.031129,
+                        53.947587
+                  ]
+            },
+            {
+                  "name": "Mellenthiner Os",
+                  "text": "O rezervație naturală pe Usedom care protejează un peisaj glaciar de tip esker rar.",
+                  "category": "natural",
+                  "coords": [
+                        14.007843,
+                        53.937176
+                  ]
+            },
+            {
+                  "name": "Halbinsel Cosim",
+                  "text": "O rezervație naturală pitorească pe o peninsulă, cunoscută pentru natura sa virgină.",
+                  "category": "natural",
+                  "coords": [
+                        14.016485,
+                        53.959117
+                  ]
+            },
+            {
+                  "name": "Wasserschloss Mellenthin",
+                  "text": "Un castel istoric cu șanțuri cu apă din secolul al XVI-lea, situat în inima insulei Usedom.",
+                  "category": "castle",
+                  "coords": [
+                        14.016407,
+                        53.923944
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "Un sit arheologic pe Usedom cu fortificații istorice din pământ și resturi de ziduri.",
+                  "category": "historical",
+                  "coords": [
+                        14.00803,
+                        53.934502
+                  ]
+            },
+            {
+                  "name": "Gullivers Welt",
+                  "text": "Un muzeu tematic pe Usedom care găzduiește o sculptură uriașă a personajului Gulliver.",
+                  "category": "museum",
+                  "coords": [
+                        14.047666,
+                        53.954967
+                  ]
+            },
+            {
+                  "name": "Teufelsstein",
+                  "text": "Un bolovan glaciar mare lângă Pudagla, în jurul căruia s-au creat legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        14.04147,
+                        53.968236
+                  ]
+            },
+            {
+                  "name": "Fuchsberg",
+                  "text": "O colină pe insula Usedom care oferă o vedere panoramică asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        14.005043,
+                        53.936381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inseln Böhmke und Werder",
+                  "text": "A nature reserve on Usedom that serves as an important habitat for waterfowls.",
+                  "category": "natural",
+                  "coords": [
+                        14.031129,
+                        53.947587
+                  ]
+            },
+            {
+                  "name": "Mellenthiner Os",
+                  "text": "A nature reserve on Usedom protecting a rare glacial esker landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.007843,
+                        53.937176
+                  ]
+            },
+            {
+                  "name": "Halbinsel Cosim",
+                  "text": "A scenic nature reserve on a peninsula, known for its untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.016485,
+                        53.959117
+                  ]
+            },
+            {
+                  "name": "Wasserschloss Mellenthin",
+                  "text": "A historic moated castle from the 16th century located in the heart of Usedom.",
+                  "category": "castle",
+                  "coords": [
+                        14.016407,
+                        53.923944
+                  ]
+            },
+            {
+                  "name": "Schwedenschanze",
+                  "text": "An archaeological site on Usedom featuring historical earthworks and fortification remains.",
+                  "category": "historical",
+                  "coords": [
+                        14.00803,
+                        53.934502
+                  ]
+            },
+            {
+                  "name": "Gullivers Welt",
+                  "text": "A themed museum on Usedom housing a giant sculpture of the character Gulliver.",
+                  "category": "museum",
+                  "coords": [
+                        14.047666,
+                        53.954967
+                  ]
+            },
+            {
+                  "name": "Teufelsstein",
+                  "text": "A large glacial erratic boulder near Pudagla with local legendary significance.",
+                  "category": "landmark",
+                  "coords": [
+                        14.04147,
+                        53.968236
+                  ]
+            },
+            {
+                  "name": "Fuchsberg",
+                  "text": "A hill on the island of Usedom offering wide views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.005043,
+                        53.936381
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-MV",
     coords: [14.01, 53.95],
@@ -47024,7 +49976,160 @@ export const pois: POI[] = [
       "tr": ["Brocken 1.141 metre ile Kuzey Deutschland'ın en yüksek dağıdır.", "Harzer Schmalspurbahnen düzenli olarak 25 buharlı lokomotif işletmektedir.", "Rammelsberg madeni 1.000 yıldan fazla bir süre kesintisiz işletilmiştir.", "Nationalpark Harz yaklaşık 24.700 hektarlık bir alanı kapsar.", "Goethe, Brocken'e toplam üç kez çıkmıştır (ilk kez 1777).", "Oberharzer Wasserregal, sanayi öncesi en büyük baraj sistemi olarak kabul edilir."]},
   },
   {
-    id: "forest-lueneburger-heide",
+    id: "forest-lueneburger-heide", "sights": {
+      "de": [
+            {
+                  "name": "Greifvogel-Gehege Bispingen",
+                  "text": "Ein Tierpark in der Lüneburger Heide, der auf Greifvögel spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.093804,
+                        53.087565
+                  ]
+            },
+            {
+                  "name": "Schwindebecker Heide",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Heidelandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.12137,
+                        53.131761
+                  ]
+            },
+            {
+                  "name": "Rehrhofer Heide",
+                  "text": "Ein charakteristischer Abschnitt der Lüneburger Heide mit Wanderwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126208,
+                        53.099351
+                  ]
+            },
+            {
+                  "name": "Schwindebachquelle",
+                  "text": "Die Quelle des Schwindebachs in der naturnahen Lüneburger Heide.",
+                  "category": "landmark",
+                  "coords": [
+                        10.112162,
+                        53.13199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greifvogel-Gehege Bispingen",
+                  "text": "Ragadozó madarakra szakosodott vadaspark a Lüneburger Heidében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.093804,
+                        53.087565
+                  ]
+            },
+            {
+                  "name": "Schwindebecker Heide",
+                  "text": "Kilátópont széles kilátással a hangafüves pusztára.",
+                  "category": "natural",
+                  "coords": [
+                        10.12137,
+                        53.131761
+                  ]
+            },
+            {
+                  "name": "Rehrhofer Heide",
+                  "text": "A Lüneburger Heide jellegzetes szakasza túraútvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126208,
+                        53.099351
+                  ]
+            },
+            {
+                  "name": "Schwindebachquelle",
+                  "text": "A Schwindebach forrása a természetközeli Lüneburger Heidében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.112162,
+                        53.13199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greifvogel-Gehege Bispingen",
+                  "text": "Un parc zoologic din Lüneburger Heide specializat în păsări de pradă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.093804,
+                        53.087565
+                  ]
+            },
+            {
+                  "name": "Schwindebecker Heide",
+                  "text": "Un punct de observație cu o vedere panoramică asupra peisajului de landă.",
+                  "category": "natural",
+                  "coords": [
+                        10.12137,
+                        53.131761
+                  ]
+            },
+            {
+                  "name": "Rehrhofer Heide",
+                  "text": "O secțiune caracteristică a Lüneburger Heide cu trasee de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126208,
+                        53.099351
+                  ]
+            },
+            {
+                  "name": "Schwindebachquelle",
+                  "text": "Izvorul pârâului Schwindebach în cadrul natural din Lüneburger Heide.",
+                  "category": "landmark",
+                  "coords": [
+                        10.112162,
+                        53.13199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greifvogel-Gehege Bispingen",
+                  "text": "A zoo in the Lüneburger Heide specializing in birds of prey.",
+                  "category": "recreational",
+                  "coords": [
+                        10.093804,
+                        53.087565
+                  ]
+            },
+            {
+                  "name": "Schwindebecker Heide",
+                  "text": "A viewpoint offering a broad view over the heath landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.12137,
+                        53.131761
+                  ]
+            },
+            {
+                  "name": "Rehrhofer Heide",
+                  "text": "A characteristic section of the Lüneburger Heide with hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126208,
+                        53.099351
+                  ]
+            },
+            {
+                  "name": "Schwindebachquelle",
+                  "text": "The source of the Schwindebach stream in the natural Lüneburger Heide.",
+                  "category": "landmark",
+                  "coords": [
+                        10.112162,
+                        53.13199
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-NI",
     coords: [10.08, 53.12],
@@ -48323,6 +51428,69 @@ export const pois: POI[] = [
                         13.755076,
                         54.143498
                   ]
+            },
+            {
+                  "name": "Historisch-Technisches Museum Peenemünde",
+                  "text": "Ein Museum in Peenemünde, das sich mit der Geschichte der ehemaligen Heeresversuchsanstalt und Raketentechnik befasst.",
+                  "category": "museum",
+                  "coords": [
+                        13.76658,
+                        54.13865
+                  ]
+            },
+            {
+                  "name": "Bunkerwarte",
+                  "text": "Ein technisches Museum in Peenemünde, das in einer ehemaligen Bunkeranlage untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.76898,
+                        54.137962
+                  ]
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Ein interaktives naturwissenschaftliches Museum in Peenemünde mit vielen Experimenten zum Mitmachen.",
+                  "category": "museum",
+                  "coords": [
+                        13.7702,
+                        54.137823
+                  ]
+            },
+            {
+                  "name": "OF Tonnenbank",
+                  "text": "Ein markanter Leuchtturm in Peenemünde, der als wichtiges Seezeichen an der Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722065,
+                        54.134575
+                  ]
+            },
+            {
+                  "name": "UF Tonnenbank",
+                  "text": "Ein Leuchtturm in Peenemünde, der Teil des lokalen Schifffahrtsleitsystems ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726567,
+                        54.139851
+                  ]
+            },
+            {
+                  "name": "Oberfeuer",
+                  "text": "Ein historisches Oberfeuer in Peenemünde, das der Sicherheit der Seefahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        13.756504,
+                        54.142861
+                  ]
+            },
+            {
+                  "name": "Marine Museum",
+                  "text": "Ein Museum in Peenemünde, das die maritime Geschichte und die Marine-Tradition der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.761489,
+                        54.136577
+                  ]
             }
       ],
       "hu": [
@@ -48342,6 +51510,69 @@ export const pois: POI[] = [
                   "coords": [
                         13.755076,
                         54.143498
+                  ]
+            },
+            {
+                  "name": "Historisch-Technisches Museum Peenemünde",
+                  "text": "Peenemündei múzeum, amely az egykori katonai kísérleti telep és a rakétatechnika történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        13.76658,
+                        54.13865
+                  ]
+            },
+            {
+                  "name": "Bunkerwarte",
+                  "text": "Műszaki múzeum Peenemündében, amely egy egykori bunkerrendszerben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        13.76898,
+                        54.137962
+                  ]
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Interaktív természettudományi múzeum Peenemündében, számos kipróbálható kísérlettel.",
+                  "category": "museum",
+                  "coords": [
+                        13.7702,
+                        54.137823
+                  ]
+            },
+            {
+                  "name": "OF Tonnenbank",
+                  "text": "Peenemünde jellegzetes világítótornya, amely fontos tengeri jelzésként szolgál a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722065,
+                        54.134575
+                  ]
+            },
+            {
+                  "name": "UF Tonnenbank",
+                  "text": "Világítótorony Peenemündében, amely a helyi hajózási irányítási rendszer része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726567,
+                        54.139851
+                  ]
+            },
+            {
+                  "name": "Oberfeuer",
+                  "text": "Történelmi felső fény Peenemündében, amely a hajózás biztonságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.756504,
+                        54.142861
+                  ]
+            },
+            {
+                  "name": "Marine Museum",
+                  "text": "Múzeum Peenemündében, amely a régió tengerészeti történelmét és haditengerészeti hagyományait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        13.761489,
+                        54.136577
                   ]
             }
       ],
@@ -48363,6 +51594,69 @@ export const pois: POI[] = [
                         13.755076,
                         54.143498
                   ]
+            },
+            {
+                  "name": "Historisch-Technisches Museum Peenemünde",
+                  "text": "Un muzeu în Peenemünde care se ocupă cu istoria fostului centru de testare militară și a tehnologiei rachetelor.",
+                  "category": "museum",
+                  "coords": [
+                        13.76658,
+                        54.13865
+                  ]
+            },
+            {
+                  "name": "Bunkerwarte",
+                  "text": "Un muzeu tehnic în Peenemünde găzduit într-un fost complex de buncăre.",
+                  "category": "museum",
+                  "coords": [
+                        13.76898,
+                        54.137962
+                  ]
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "Un muzeu interactiv de științe în Peenemünde, cu numeroase experimente practice.",
+                  "category": "museum",
+                  "coords": [
+                        13.7702,
+                        54.137823
+                  ]
+            },
+            {
+                  "name": "OF Tonnenbank",
+                  "text": "Un far distinctiv în Peenemünde, care servește ca semn maritim important pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722065,
+                        54.134575
+                  ]
+            },
+            {
+                  "name": "UF Tonnenbank",
+                  "text": "Un far în Peenemünde care face parte din sistemul local de ghidare a navigației.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726567,
+                        54.139851
+                  ]
+            },
+            {
+                  "name": "Oberfeuer",
+                  "text": "Un far istoric în Peenemünde care servește siguranței navigației maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        13.756504,
+                        54.142861
+                  ]
+            },
+            {
+                  "name": "Marine Museum",
+                  "text": "Un muzeu în Peenemünde care documentează istoria maritimă și tradiția navală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        13.761489,
+                        54.136577
+                  ]
             }
       ],
       "en": [
@@ -48382,6 +51676,69 @@ export const pois: POI[] = [
                   "coords": [
                         13.755076,
                         54.143498
+                  ]
+            },
+            {
+                  "name": "Historisch-Technisches Museum Peenemünde",
+                  "text": "A museum in Peenemünde covering the history of the former military research center and rocket technology.",
+                  "category": "museum",
+                  "coords": [
+                        13.76658,
+                        54.13865
+                  ]
+            },
+            {
+                  "name": "Bunkerwarte",
+                  "text": "A technical museum in Peenemünde housed in a former bunker complex.",
+                  "category": "museum",
+                  "coords": [
+                        13.76898,
+                        54.137962
+                  ]
+            },
+            {
+                  "name": "Phänomenta",
+                  "text": "An interactive science museum in Peenemünde with many hands-on experiments.",
+                  "category": "museum",
+                  "coords": [
+                        13.7702,
+                        54.137823
+                  ]
+            },
+            {
+                  "name": "OF Tonnenbank",
+                  "text": "A distinctive lighthouse in Peenemünde serving as an important maritime marker on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722065,
+                        54.134575
+                  ]
+            },
+            {
+                  "name": "UF Tonnenbank",
+                  "text": "A lighthouse in Peenemünde that is part of the local navigation guidance system.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726567,
+                        54.139851
+                  ]
+            },
+            {
+                  "name": "Oberfeuer",
+                  "text": "A historic lighthouse in Peenemünde serving the safety of maritime navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        13.756504,
+                        54.142861
+                  ]
+            },
+            {
+                  "name": "Marine Museum",
+                  "text": "A museum in Peenemünde documenting the maritime history and naval tradition of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.761489,
+                        54.136577
                   ]
             }
       ]
@@ -48583,6 +51940,51 @@ export const pois: POI[] = [
                         11.469702,
                         48.234807
                   ]
+            },
+            {
+                  "name": "Bezirksmuseum Dachau",
+                  "text": "Ein Museum, das sich der Geschichte und Kultur des Landkreises Dachau widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.43437,
+                        48.259268
+                  ]
+            },
+            {
+                  "name": "Schloss Dachau",
+                  "text": "Ein historisches Schloss mit einem schönen Renaissancegarten und Panoramablick über München.",
+                  "category": "castle",
+                  "coords": [
+                        11.433043,
+                        48.258372
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Wirtschaftsgebäude",
+                  "text": "Das ehemalige Wirtschaftsgebäude des Konzentrationslagers Dachau, das heute Teil der Gedenkstättenausstellung ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.468854,
+                        48.267962
+                  ]
+            },
+            {
+                  "name": "Familienbad Dachau (Freibad)",
+                  "text": "Ein öffentliches Freibad und Wasserpark für Familienerholung in Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.425049,
+                        48.25506
+                  ]
+            },
+            {
+                  "name": "Würm-Mündung",
+                  "text": "Die malerische Mündung der Würm in die Amper in der Nähe von Dachau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.474416,
+                        48.284773
+                  ]
             }
       ],
       "hu": [
@@ -48602,6 +52004,51 @@ export const pois: POI[] = [
                   "coords": [
                         11.469702,
                         48.234807
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Dachau",
+                  "text": "Dachau járás történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.43437,
+                        48.259268
+                  ]
+            },
+            {
+                  "name": "Schloss Dachau",
+                  "text": "Történelmi kastély gyönyörű reneszánsz kerttel és Münchenre nyíló panorámával.",
+                  "category": "castle",
+                  "coords": [
+                        11.433043,
+                        48.258372
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Wirtschaftsgebäude",
+                  "text": "A dachaui koncentrációs tábor egykori gazdasági épülete, amely ma az emlékkiállításnak ad helyet.",
+                  "category": "museum",
+                  "coords": [
+                        11.468854,
+                        48.267962
+                  ]
+            },
+            {
+                  "name": "Familienbad Dachau (Freibad)",
+                  "text": "Nyilvános szabadtéri strand és vízipark Dachau-ban, amely kikapcsolódást nyújt a családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.425049,
+                        48.25506
+                  ]
+            },
+            {
+                  "name": "Würm-Mündung",
+                  "text": "A Würm folyó festői torkolata az Amper folyóba Dachau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.474416,
+                        48.284773
                   ]
             }
       ],
@@ -48623,6 +52070,51 @@ export const pois: POI[] = [
                         11.469702,
                         48.234807
                   ]
+            },
+            {
+                  "name": "Bezirksmuseum Dachau",
+                  "text": "Un muzeu axat pe istoria și cultura districtului Dachau.",
+                  "category": "museum",
+                  "coords": [
+                        11.43437,
+                        48.259268
+                  ]
+            },
+            {
+                  "name": "Schloss Dachau",
+                  "text": "Un palat istoric cu o grădină renascentistă frumoasă și vedere panoramică asupra Münchenului.",
+                  "category": "castle",
+                  "coords": [
+                        11.433043,
+                        48.258372
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Wirtschaftsgebäude",
+                  "text": "Fosta clădire administrativă a lagărului de concentrare Dachau, care acum găzduiește o parte din expoziția memorială.",
+                  "category": "museum",
+                  "coords": [
+                        11.468854,
+                        48.267962
+                  ]
+            },
+            {
+                  "name": "Familienbad Dachau (Freibad)",
+                  "text": "O piscină publică în aer liber și parc acvatic care oferă recreere pentru familii în Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.425049,
+                        48.25506
+                  ]
+            },
+            {
+                  "name": "Würm-Mündung",
+                  "text": "Confluența pitorească unde râul Würm se varsă în Amper, lângă Dachau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.474416,
+                        48.284773
+                  ]
             }
       ],
       "en": [
@@ -48642,6 +52134,51 @@ export const pois: POI[] = [
                   "coords": [
                         11.469702,
                         48.234807
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Dachau",
+                  "text": "A museum focusing on the history and culture of the Dachau district.",
+                  "category": "museum",
+                  "coords": [
+                        11.43437,
+                        48.259268
+                  ]
+            },
+            {
+                  "name": "Dachau Palace",
+                  "text": "A historic palace with a beautiful Renaissance garden and panoramic views over Munich.",
+                  "category": "castle",
+                  "coords": [
+                        11.433043,
+                        48.258372
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Wirtschaftsgebäude",
+                  "text": "The former maintenance building of the Dachau concentration camp, now housing part of the memorial exhibition.",
+                  "category": "museum",
+                  "coords": [
+                        11.468854,
+                        48.267962
+                  ]
+            },
+            {
+                  "name": "Familienbad Dachau (Freibad)",
+                  "text": "A public outdoor swimming pool and water park offering family recreation in Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.425049,
+                        48.25506
+                  ]
+            },
+            {
+                  "name": "Würm-Mündung",
+                  "text": "The scenic confluence where the Würm river flows into the Amper near Dachau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.474416,
+                        48.284773
                   ]
             }
       ]
@@ -48681,7 +52218,304 @@ export const pois: POI[] = [
       "tr": ["22 Mart 1933'te ilk devlet toplama kampı olarak açılış.", "1933-1945 yılları arasında 200.000'den fazla kayıtlı mahkum.", "Cinayet, açlık ve hastalık nedeniyle en az 41.500 kişi öldü.", "29 Nisan 1945'te US Ordusu'nun 42. ve 45. Piyade Tümenleri tarafından kurtarılması.", "Theodor Eicke tarafından kamp organizasyonu için Dachau modelinin geliştirilmesi.", "Eski mahkumların girişimiyle 1965 yılında anıtın açılışı."]},
   },
   {
-    id: "hist-point-alpha",
+    id: "hist-point-alpha", "sights": {
+      "de": [
+            {
+                  "name": "Apfelbachaue bei Neuswarts",
+                  "text": "Ein Naturschutzgebiet im Landkreis Fulda bei Point Alpha, das wichtige Auenlandschaften schützt.",
+                  "category": "natural",
+                  "coords": [
+                        9.955225,
+                        50.665225
+                  ]
+            },
+            {
+                  "name": "Heile Schern",
+                  "text": "Ein Museum bei Point Alpha, das Einblicke in die regionale Geschichte und Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.913703,
+                        50.65746
+                  ]
+            },
+            {
+                  "name": "Gotthards",
+                  "text": "Ein Wasserpark in der Region Point Alpha, der verschiedene Freizeitaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.906417,
+                        50.623768
+                  ]
+            },
+            {
+                  "name": "Seelesberg",
+                  "text": "Ein markanter Berggipfel in der Rhön bei Point Alpha mit schöner Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        9.968822,
+                        50.641096
+                  ]
+            },
+            {
+                  "name": "Spahler Berg",
+                  "text": "Ein Berggipfel in der Nähe von Point Alpha, der Teil der hessischen Rhön ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.932475,
+                        50.662422
+                  ]
+            },
+            {
+                  "name": "Pietzelstein",
+                  "text": "Ein Gipfel in der Region Point Alpha, der bei Wanderern für seine Natur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.887476,
+                        50.66499
+                  ]
+            },
+            {
+                  "name": "Rößberg",
+                  "text": "Ein Berg in der Umgebung von Point Alpha, der Ausflugsziele in der Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912195,
+                        50.638693
+                  ]
+            },
+            {
+                  "name": "Breiter Berg",
+                  "text": "Ein Gipfel in der hessischen Rhön bei Point Alpha, ideal für Naturbeobachtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.87744,
+                        50.668028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Apfelbachaue bei Neuswarts",
+                  "text": "Természetvédelmi terület Fulda járásban, Point Alpha közelében, amely fontos ártéri területeket véd.",
+                  "category": "natural",
+                  "coords": [
+                        9.955225,
+                        50.665225
+                  ]
+            },
+            {
+                  "name": "Heile Schern",
+                  "text": "Múzeum Point Alpha közelében, amely betekintést nyújt a régió történelmébe és kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        9.913703,
+                        50.65746
+                  ]
+            },
+            {
+                  "name": "Gotthards",
+                  "text": "Vízi park Point Alpha régiójában, amely különféle szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.906417,
+                        50.623768
+                  ]
+            },
+            {
+                  "name": "Seelesberg",
+                  "text": "Jellegzetes hegycsúcs a Rhön-hegységben, Point Alpha közelében, szép kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        9.968822,
+                        50.641096
+                  ]
+            },
+            {
+                  "name": "Spahler Berg",
+                  "text": "Hegycsúcs Point Alpha közelében, amely a hesseni Rhön-hegység része.",
+                  "category": "landmark",
+                  "coords": [
+                        9.932475,
+                        50.662422
+                  ]
+            },
+            {
+                  "name": "Pietzelstein",
+                  "text": "Hegycsúcs Point Alpha régiójában, amely természetes környezetéről ismert a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.887476,
+                        50.66499
+                  ]
+            },
+            {
+                  "name": "Rößberg",
+                  "text": "Hegy Point Alpha környékén, amely kirándulóhelyeket kínál a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912195,
+                        50.638693
+                  ]
+            },
+            {
+                  "name": "Breiter Berg",
+                  "text": "Hegycsúcs a hesseni Rhönben, Point Alpha közelében, ideális természetjáráshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.87744,
+                        50.668028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Apfelbachaue bei Neuswarts",
+                  "text": "O rezervație naturală în districtul Fulda, lângă Point Alpha, care protejează peisaje inundabile importante.",
+                  "category": "natural",
+                  "coords": [
+                        9.955225,
+                        50.665225
+                  ]
+            },
+            {
+                  "name": "Heile Schern",
+                  "text": "Un muzeu lângă Point Alpha, care oferă informații despre istoria și cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        9.913703,
+                        50.65746
+                  ]
+            },
+            {
+                  "name": "Gotthards",
+                  "text": "Un parc acvatic în regiunea Point Alpha, care oferă diverse activități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        9.906417,
+                        50.623768
+                  ]
+            },
+            {
+                  "name": "Seelesberg",
+                  "text": "Un vârf montan proeminent în regiunea Rhön, lângă Point Alpha, oferind priveliști frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        9.968822,
+                        50.641096
+                  ]
+            },
+            {
+                  "name": "Spahler Berg",
+                  "text": "Un vârf montan lângă Point Alpha, care face parte din regiunea Rhön din Hessa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.932475,
+                        50.662422
+                  ]
+            },
+            {
+                  "name": "Pietzelstein",
+                  "text": "Un vârf în regiunea Point Alpha, cunoscut printre turiști pentru peisajele sale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        9.887476,
+                        50.66499
+                  ]
+            },
+            {
+                  "name": "Rößberg",
+                  "text": "Un munte în împrejurimile Point Alpha, care oferă destinații de excursii în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912195,
+                        50.638693
+                  ]
+            },
+            {
+                  "name": "Breiter Berg",
+                  "text": "Un vârf în regiunea Rhön din Hessa, lângă Point Alpha, ideal pentru observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        9.87744,
+                        50.668028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Apfelbachaue bei Neuswarts",
+                  "text": "A nature reserve in the Fulda district near Point Alpha, protecting important floodplain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        9.955225,
+                        50.665225
+                  ]
+            },
+            {
+                  "name": "Heile Schern",
+                  "text": "A museum near Point Alpha offering insights into regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        9.913703,
+                        50.65746
+                  ]
+            },
+            {
+                  "name": "Gotthards",
+                  "text": "A water park in the Point Alpha region offering various recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        9.906417,
+                        50.623768
+                  ]
+            },
+            {
+                  "name": "Seelesberg",
+                  "text": "A prominent mountain peak in the Rhön region near Point Alpha with scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        9.968822,
+                        50.641096
+                  ]
+            },
+            {
+                  "name": "Spahler Berg",
+                  "text": "A mountain peak near Point Alpha, forming part of the Hessian Rhön.",
+                  "category": "landmark",
+                  "coords": [
+                        9.932475,
+                        50.662422
+                  ]
+            },
+            {
+                  "name": "Pietzelstein",
+                  "text": "A peak in the Point Alpha region, known among hikers for its natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        9.887476,
+                        50.66499
+                  ]
+            },
+            {
+                  "name": "Rößberg",
+                  "text": "A mountain in the vicinity of Point Alpha offering outdoor excursion opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912195,
+                        50.638693
+                  ]
+            },
+            {
+                  "name": "Breiter Berg",
+                  "text": "A peak in the Hessian Rhön near Point Alpha, ideal for nature observation.",
+                  "category": "landmark",
+                  "coords": [
+                        9.87744,
+                        50.668028
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-HE",
     coords: [9.9156, 50.6476],
@@ -48974,7 +52808,88 @@ export const pois: POI[] = [
 
   // ── WW1 ──────────────────────────────────────────────────────────────────
   {
-    id: "hist-tannenberg",
+    id: "hist-tannenberg", "sights": {
+      "de": [
+            {
+                  "name": "Schron Bojowy",
+                  "text": "Die Überreste eines ehemaligen Gefechtsbunkers auf dem Gelände des Tannenberg-Denkmals.",
+                  "category": "historical",
+                  "coords": [
+                        20.42658,
+                        53.47582
+                  ]
+            },
+            {
+                  "name": "Zapora przeciwczolgowa",
+                  "text": "Ruinen einer ehemaligen Panzersperre als Teil der historischen Verteidigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        20.417416,
+                        53.477119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schron Bojowy",
+                  "text": "Egy egykori harci bunker maradványai a Tannenberg-emlékmű területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.42658,
+                        53.47582
+                  ]
+            },
+            {
+                  "name": "Zapora przeciwczolgowa",
+                  "text": "Egy egykori harckocsiakadály romjai a történelmi védelmi rendszer részeként.",
+                  "category": "historical",
+                  "coords": [
+                        20.417416,
+                        53.477119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schron Bojowy",
+                  "text": "Rămășițele unui fost buncăr de luptă pe terenul Memorialului Tannenberg.",
+                  "category": "historical",
+                  "coords": [
+                        20.42658,
+                        53.47582
+                  ]
+            },
+            {
+                  "name": "Zapora przeciwczolgowa",
+                  "text": "Ruinele unei foste bariere antitanc ca parte a fortificațiilor istorice.",
+                  "category": "historical",
+                  "coords": [
+                        20.417416,
+                        53.477119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schron Bojowy",
+                  "text": "The remains of a former combat bunker on the grounds of the Tannenberg Memorial.",
+                  "category": "historical",
+                  "coords": [
+                        20.42658,
+                        53.47582
+                  ]
+            },
+            {
+                  "name": "Zapora przeciwczolgowa",
+                  "text": "Ruins of a former anti-tank obstacle as part of the historical fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        20.417416,
+                        53.477119
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE",
     coords: [20.4302, 53.4891],
@@ -49010,7 +52925,52 @@ export const pois: POI[] = [
       "tr": ["1914 yılındaki muharebeyi anmak için 1924-1927 yılları arasında inşa edildi.", "Sekiz kuleli bir Orta Çağ kalesi mimari formunda tasarlanmıştır.", "Paul von Hindenburg'un Ağustos 1934'teki defin işlemi burada yapıldı.", "20 Ocak 1945'te Wehrmacht tarafından imha edildi.", "Granit taşları Varşova'daki parti binasının yapımında kullanıldı.", "Konumu bugün Polonya'da, Olsztynek şehri yakınlarındadır."]},
   },
   {
-    id: "hist-skagerrakschlacht",
+    id: "hist-skagerrakschlacht", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Bottsand",
+                  "text": "Ein Küstennaturschutzgebiet bei Laboe, das seltene Vogelarten und empfindliche Dünenlandschaften schützt.",
+                  "category": "natural",
+                  "coords": [
+                        10.285584,
+                        54.424502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturschutzgebiet Bottsand",
+                  "text": "Laboe közelében található tengerparti természetvédelmi terület, amely ritka madárfajokat és dűnéket óv.",
+                  "category": "natural",
+                  "coords": [
+                        10.285584,
+                        54.424502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturschutzgebiet Bottsand",
+                  "text": "O rezervație naturală de coastă lângă Laboe care protejează specii de păsări rare și peisaje sensibile de dune.",
+                  "category": "natural",
+                  "coords": [
+                        10.285584,
+                        54.424502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturschutzgebiet Bottsand",
+                  "text": "A coastal nature reserve near Laboe protecting rare bird species and sensitive dune landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        10.285584,
+                        54.424502
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SH",
     coords: [10.2699, 54.4592],
@@ -49853,7 +53813,268 @@ export const pois: POI[] = [
       "tr": ["Yetişkin bir geyik 250 kg ağırlığa kadar ulaşabilir.", "Boynuz kemik dokusundan oluşur ve günde 2 cm'ye kadar büyür.", "Dişi geyiklerin gebelik süresi yaklaşık 34 haftadır.", "Geyikler geviş getiren hayvanlardır ve günde 15 kg'a kadar yeşil yem tüketirler.", "Schwarzwald'da yasal olarak belirlenmiş beş kızıl geyik alanı vardır.", "Doğal ortamdaki yaşam beklentisi 15 ile 20 yıl arasındadır."]},
   },
   {
-    id: "animal-alpen-gaemse",
+    id: "animal-alpen-gaemse", "sights": {
+      "de": [
+            {
+                  "name": "Erlebniswald",
+                  "text": "Ein Erlebnispark und Waldgebiet für Familienaktivitäten in den Alpen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.579084,
+                        47.373943
+                  ]
+            },
+            {
+                  "name": "Heimathaus und Schimuseum",
+                  "text": "Ein Heimatmuseum, das sich der regionalen Geschichte und der Entwicklung des Skisports widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.631041,
+                        47.390178
+                  ]
+            },
+            {
+                  "name": "Bernkogel",
+                  "text": "Ein markanter Berggipfel in den Alpen, der weite Ausblicke über die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603034,
+                        47.412905
+                  ]
+            },
+            {
+                  "name": "Reiterkogel",
+                  "text": "Ein bekannter Gipfel in der Region, der als Ziel für Wanderungen und Outdoor-Aktivitäten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        12.593208,
+                        47.401443
+                  ]
+            },
+            {
+                  "name": "Reichkendlkopf",
+                  "text": "Ein Gipfel in den Alpen, der Wanderern eine beeindruckende Aussicht auf die Bergwelt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.551179,
+                        47.39793
+                  ]
+            },
+            {
+                  "name": "Hochalmspitze",
+                  "text": "Ein hoher Gipfel in der Gebirgslandschaft, der für seine Panoramaausblicke geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        12.56164,
+                        47.398468
+                  ]
+            },
+            {
+                  "name": "Bürglkopf",
+                  "text": "Ein lokaler Berggipfel, der ein Ziel für Bergwanderungen in der alpinen Natur darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.594241,
+                        47.43172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erlebniswald",
+                  "text": "Élménypark és erdős terület családi tevékenységekhez az Alpokban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.579084,
+                        47.373943
+                  ]
+            },
+            {
+                  "name": "Heimathaus und Schimuseum",
+                  "text": "Helytörténeti múzeum, amely a régió múltját és a sísport fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.631041,
+                        47.390178
+                  ]
+            },
+            {
+                  "name": "Bernkogel",
+                  "text": "Az Alpok egyik jellegzetes hegycsúcsa, amely tágas kilátást nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603034,
+                        47.412905
+                  ]
+            },
+            {
+                  "name": "Reiterkogel",
+                  "text": "A régió egyik ismert csúcsa, amely túrázók és a szabadtéri sportok kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.593208,
+                        47.401443
+                  ]
+            },
+            {
+                  "name": "Reichkendlkopf",
+                  "text": "Alpesi hegycsúcs, amely lenyűgöző kilátást kínál a túrázóknak a hegyi világra.",
+                  "category": "landmark",
+                  "coords": [
+                        12.551179,
+                        47.39793
+                  ]
+            },
+            {
+                  "name": "Hochalmspitze",
+                  "text": "A hegység egyik magas csúcsa, amelyet panorámás kilátásai miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        12.56164,
+                        47.398468
+                  ]
+            },
+            {
+                  "name": "Bürglkopf",
+                  "text": "Helyi hegycsúcs, amely az alpesi természetben való túrázás kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.594241,
+                        47.43172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erlebniswald",
+                  "text": "Un parc de aventură și zonă forestieră pentru activități în familie în Alpi.",
+                  "category": "recreational",
+                  "coords": [
+                        12.579084,
+                        47.373943
+                  ]
+            },
+            {
+                  "name": "Heimathaus und Schimuseum",
+                  "text": "Un muzeu de istorie locală dedicat trecutului regiunii și evoluției schiului.",
+                  "category": "museum",
+                  "coords": [
+                        12.631041,
+                        47.390178
+                  ]
+            },
+            {
+                  "name": "Bernkogel",
+                  "text": "Un vârf montan marcant din Alpi, care oferă vederi largi asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603034,
+                        47.412905
+                  ]
+            },
+            {
+                  "name": "Reiterkogel",
+                  "text": "Un vârf cunoscut din regiune, care servește ca destinație pentru drumeții și activități în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        12.593208,
+                        47.401443
+                  ]
+            },
+            {
+                  "name": "Reichkendlkopf",
+                  "text": "Un vârf din Alpi care oferă drumeților o vedere impresionantă asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        12.551179,
+                        47.39793
+                  ]
+            },
+            {
+                  "name": "Hochalmspitze",
+                  "text": "Un vârf înalt din peisajul montan, apreciat pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        12.56164,
+                        47.398468
+                  ]
+            },
+            {
+                  "name": "Bürglkopf",
+                  "text": "Un vârf montan local care reprezintă o destinație pentru drumeții în natura alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.594241,
+                        47.43172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erlebniswald",
+                  "text": "An adventure park and forest area for family activities in the Alps.",
+                  "category": "recreational",
+                  "coords": [
+                        12.579084,
+                        47.373943
+                  ]
+            },
+            {
+                  "name": "Heimathaus und Schimuseum",
+                  "text": "A local history museum dedicated to the region's heritage and the development of skiing.",
+                  "category": "museum",
+                  "coords": [
+                        12.631041,
+                        47.390178
+                  ]
+            },
+            {
+                  "name": "Bernkogel",
+                  "text": "A prominent mountain peak in the Alps offering expansive views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603034,
+                        47.412905
+                  ]
+            },
+            {
+                  "name": "Reiterkogel",
+                  "text": "A well-known peak in the region serving as a destination for hiking and outdoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        12.593208,
+                        47.401443
+                  ]
+            },
+            {
+                  "name": "Reichkendlkopf",
+                  "text": "An Alpine peak offering hikers impressive views of the surrounding mountain world.",
+                  "category": "landmark",
+                  "coords": [
+                        12.551179,
+                        47.39793
+                  ]
+            },
+            {
+                  "name": "Hochalmspitze",
+                  "text": "A high peak in the mountain landscape valued for its panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        12.56164,
+                        47.398468
+                  ]
+            },
+            {
+                  "name": "Bürglkopf",
+                  "text": "A local mountain peak that serves as a destination for hiking in the Alpine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        12.594241,
+                        47.43172
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DE-BY",
     coords: [12.6, 47.4],
@@ -49923,7 +54144,268 @@ export const pois: POI[] = [
 
   // ── LIFE & NATUR: Landwirtschaft ───────────────────────────────────────────
   {
-    id: "agri-loreley-wein",
+    id: "agri-loreley-wein", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Die Ruinen einer mittelalterlichen Hangburg oberhalb von Kaub am Rhein.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Eine markante Burg über St. Goarshausen, bekannt als Teil des UNESCO-Welterbes.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Die Überreste einer mittelalterlichen Burg in der Nähe der Loreley am Rhein.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Eine der größten Burgruinen am Rhein, oberhalb der Stadt Sankt Goar gelegen.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Ein Naturschutzgebiet mit steilen Weinbergshängen im Oberen Mittelrheintal.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Eine spätmittelalterliche Höhenburg im Mittelrheintal, bekannt für ihre charakteristischen runden Türme.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Eine imposante Burg über Oberwesel, die heute als Hotel und Museum genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Egy középkori vár romjai a Rajna menti Kaub városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Jellegzetes vár St. Goarshausen felett, az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Egy középkori vár maradványai a Rajna menti Loreley közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "A Rajna menti egyik legnagyobb várrom, Sankt Goar városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "Természetvédelmi terület meredek szőlőültetvényekkel a Felső-Közép-Rajna-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Késő középkori sziklavár a Rajna-völgyben, amely jellegzetes kerek tornyairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Impozáns vár Oberwesel felett, amely ma szállodaként és múzeumként működik.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruinele unui castel medieval situat deasupra localității Kaub de pe Rin.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Un castel proeminent deasupra localității St. Goarshausen, parte a patrimoniului mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Rămășițele unui castel medieval situat în apropierea stâncii Loreley de pe Rin.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Una dintre cele mai mari ruine de castel de pe Rin, situată deasupra orașului Sankt Goar.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "O rezervație naturală cu versanți abrupți cu viță-de-vie în Valea Rinului Mijlociu Superior.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Un castel medieval târziu din valea Rinului, cunoscut pentru turnurile sale rotunde caracteristice.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "Un castel impunător deasupra localității Oberwesel, utilizat astăzi ca hotel și muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "The ruins of a medieval hilltop castle above Kaub on the Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Katz Castle",
+                  "text": "A prominent castle overlooking St. Goarshausen, part of the UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "The remains of a medieval castle located near the Loreley on the Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Rheinfels Castle",
+                  "text": "One of the largest castle ruins on the Rhine, situated above the town of Sankt Goar.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
+                  "text": "A nature reserve featuring steep vineyard slopes in the Upper Middle Rhine Valley.",
+                  "category": "natural",
+                  "coords": [
+                        7.750114,
+                        50.112103
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "A late medieval hill castle in the Rhine Valley, known for its characteristic round towers.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Schönburg",
+                  "text": "An imposing castle above Oberwesel, currently used as a hotel and museum.",
+                  "category": "castle",
+                  "coords": [
+                        7.73207,
+                        50.101005
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DE-RP",
     coords: [7.7284, 50.1333],
@@ -49957,7 +54439,232 @@ export const pois: POI[] = [
       "tr": ["'Bopparder Hamm' bağ alanı 70 hektarın üzerindeki yüzölçümüyle en büyük kesintisiz alandır.", "Riesling, Mittelrhein'daki toplam ekim alanının %80'inden fazlasını kaplar.", "Üzüm bağlarının eğimi bazı yerlerde 70 dereceye kadar ulaşır.", "Bölgedeki bağcılık ilk kez MS 370 yılında belgelerde geçmiştir.", "Bölge 2002 yılından beri UNESCO Dünya Mirası Oberes Mittelrheintal'ın bir parçasıdır.", "Hektar başına dik yamaçta her yıl yaklaşık 1.500 çalışma saati harcanmaktadır."]},
   },
   {
-    id: "agri-hallertau-hopfen",
+    id: "agri-hallertau-hopfen", "sights": {
+      "de": [
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Ein Aussichtsturm mit Blick über die Hopfenfelder der Hallertau.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Outdoor Fitnesspunkt",
+                  "text": "Ein öffentlicher Fitnesspunkt unter freiem Himmel in der Hallertau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.765945,
+                        48.492932
+                  ]
+            },
+            {
+                  "name": "Hallertauer Hopfenerlebnishof",
+                  "text": "Ein Erlebnisbauernhof, der sich dem Hopfenanbau in der Hallertau widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.778616,
+                        48.509926
+                  ]
+            },
+            {
+                  "name": "St. Coloman",
+                  "text": "Eine historische katholische Kirche im Ortsteil Thonhausen.",
+                  "category": "religious",
+                  "coords": [
+                        11.739013,
+                        48.478688
+                  ]
+            },
+            {
+                  "name": "St. Thomas",
+                  "text": "Eine traditionelle Kirche in Berghaselbach, die dem heiligen Thomas geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.732518,
+                        48.487389
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "Eine dem heiligen Johannes dem Täufer geweihte Kirche in der Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.759019,
+                        48.506076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Kilátótorony, ahonnan rálátni a Hallertau komlóföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Outdoor Fitnesspunkt",
+                  "text": "Szabadtéri nyilvános fitneszpont a Hallertau régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.765945,
+                        48.492932
+                  ]
+            },
+            {
+                  "name": "Hallertauer Hopfenerlebnishof",
+                  "text": "A hallertaui komlótermesztésnek szentelt élménygazdaság.",
+                  "category": "landmark",
+                  "coords": [
+                        11.778616,
+                        48.509926
+                  ]
+            },
+            {
+                  "name": "St. Coloman",
+                  "text": "Történelmi katolikus templom Thonhausen településen.",
+                  "category": "religious",
+                  "coords": [
+                        11.739013,
+                        48.478688
+                  ]
+            },
+            {
+                  "name": "St. Thomas",
+                  "text": "Szent Tamásnak szentelt hagyományos templom Berghaselbachban.",
+                  "category": "religious",
+                  "coords": [
+                        11.732518,
+                        48.487389
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom a Hallertau régióban.",
+                  "category": "religious",
+                  "coords": [
+                        11.759019,
+                        48.506076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "Un turn de belvedere cu vedere peste câmpurile de hamei din Hallertau.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Outdoor Fitnesspunkt",
+                  "text": "Un punct de fitness public în aer liber în regiunea Hallertau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.765945,
+                        48.492932
+                  ]
+            },
+            {
+                  "name": "Hallertauer Hopfenerlebnishof",
+                  "text": "O fermă de experiență dedicată cultivării hameiului în Hallertau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.778616,
+                        48.509926
+                  ]
+            },
+            {
+                  "name": "St. Coloman",
+                  "text": "O biserică catolică istorică în localitatea Thonhausen.",
+                  "category": "religious",
+                  "coords": [
+                        11.739013,
+                        48.478688
+                  ]
+            },
+            {
+                  "name": "St. Thomas",
+                  "text": "O biserică tradițională în Berghaselbach, dedicată Sfântului Toma.",
+                  "category": "religious",
+                  "coords": [
+                        11.732518,
+                        48.487389
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în regiunea Hallertau.",
+                  "category": "religious",
+                  "coords": [
+                        11.759019,
+                        48.506076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hopfenturm Stanglmair",
+                  "text": "A lookout tower overlooking the hop fields of the Hallertau region.",
+                  "category": "natural",
+                  "coords": [
+                        11.751753,
+                        48.534864
+                  ]
+            },
+            {
+                  "name": "Outdoor Fitnesspunkt",
+                  "text": "A public outdoor fitness station located in the Hallertau region.",
+                  "category": "landmark",
+                  "coords": [
+                        11.765945,
+                        48.492932
+                  ]
+            },
+            {
+                  "name": "Hallertauer Hopfenerlebnishof",
+                  "text": "An adventure farm dedicated to hop growing in the Hallertau region.",
+                  "category": "landmark",
+                  "coords": [
+                        11.778616,
+                        48.509926
+                  ]
+            },
+            {
+                  "name": "St. Coloman",
+                  "text": "A historic Catholic church located in the village of Thonhausen.",
+                  "category": "religious",
+                  "coords": [
+                        11.739013,
+                        48.478688
+                  ]
+            },
+            {
+                  "name": "St. Thomas",
+                  "text": "A traditional church in Berghaselbach dedicated to Saint Thomas.",
+                  "category": "religious",
+                  "coords": [
+                        11.732518,
+                        48.487389
+                  ]
+            },
+            {
+                  "name": "St. Johannes der Täufer",
+                  "text": "A church dedicated to Saint John the Baptist in the Hallertau region.",
+                  "category": "religious",
+                  "coords": [
+                        11.759019,
+                        48.506076
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "DE-BY",
     coords: [11.75, 48.5],
@@ -51247,7 +55954,88 @@ export const pois: POI[] = [
       "tr": ["Vadi yaklaşık 300 km uzunluğunda ve 40 km genişliğindedir.", "Çöküntü alanının ortalama alçalması yılda yaklaşık 0,5 mm'dir.", "Bölge, tüm Almanya'daki en yüksek ortalama sıcaklıkları kaydetmektedir.", "Çöküntü alanı yaklaşık 35 milyon yıl önce Senozoik dönemde oluşmuştur.", "Ovada Straßburg, Karlsruhe ve Mannheim gibi önemli şehirler bulunmaktadır.", "Verimli lös toprakları yer yer 10 metreden fazla kalınlığa ulaşır."]},
   },
   {
-    id: "relief-lueneburger-heide",
+    id: "relief-lueneburger-heide", "sights": {
+      "de": [
+            {
+                  "name": "Lopautal",
+                  "text": "Ein idyllisches Naturschutzgebiet in der Lüneburger Heide, das das Tal der Lopau umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        10.211164,
+                        53.064175
+                  ]
+            },
+            {
+                  "name": "Oberes Lopautal",
+                  "text": "Ein Naturschutzgebiet in der Lüneburger Heide mit Heideflächen und Wald.",
+                  "category": "natural",
+                  "coords": [
+                        10.203562,
+                        53.057507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lopautal",
+                  "text": "Idilli természetvédelmi terület a Lüneburgi pusztán, amely a Lopau-folyó völgyét foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        10.211164,
+                        53.064175
+                  ]
+            },
+            {
+                  "name": "Oberes Lopautal",
+                  "text": "Természetvédelmi terület a Lüneburg-pusztán, fenyérekkel és erdőkkel.",
+                  "category": "natural",
+                  "coords": [
+                        10.203562,
+                        53.057507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lopautal",
+                  "text": "O rezervație naturală idilică în Lüneburger Heide, care cuprinde valea râului Lopau.",
+                  "category": "natural",
+                  "coords": [
+                        10.211164,
+                        53.064175
+                  ]
+            },
+            {
+                  "name": "Oberes Lopautal",
+                  "text": "O rezervație naturală în Lüneburg Heath, cu zone de landă și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        10.203562,
+                        53.057507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lopautal",
+                  "text": "An idyllic nature reserve in the Lüneburg Heath, encompassing the valley of the Lopau river.",
+                  "category": "natural",
+                  "coords": [
+                        10.211164,
+                        53.064175
+                  ]
+            },
+            {
+                  "name": "Oberes Lopautal",
+                  "text": "A nature reserve in the Lüneburg Heath featuring heathlands and forests.",
+                  "category": "natural",
+                  "coords": [
+                        10.203562,
+                        53.057507
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DE-NI",
     coords: [10.2, 53.05],
@@ -51281,7 +56069,304 @@ export const pois: POI[] = [
       "tr": ["Lüneburger Heide doğa koruma alanı 1921 yılında kurulmuştur.", "Wilseder Berg, 169 m ile kuzey Almanya ovasındaki en yüksek noktadır.", "Bugün yaklaşık 10.000 Heidschnucke koyunu otlayarak funda alanlarının bakımını yapmaktadır.", "Funda çiçeklenmesi zirve noktasına genellikle her yıl 08.08 civarında ulaşır.", "Orta Çağ'da fundalığın odunu Lüneburg tuz ocakları için kullanılmıştır.", "Bölge, Orta Avrupa'nın en büyük kesintisiz funda alanını kapsamaktadır."]},
   },
   {
-    id: "relief-bayrisches-alpenvorland",
+    id: "relief-bayrisches-alpenvorland", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Amerang",
+                  "text": "Ein Renaissanceschloss im Chiemgau, das für seine Schlosshofkonzerte bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        12.306566,
+                        47.981928
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Schloss Forchteneck",
+                  "text": "Die archäologische Fundstätte einer ehemaligen Burganlage bei Amerang.",
+                  "category": "historical",
+                  "coords": [
+                        12.292056,
+                        47.953601
+                  ]
+            },
+            {
+                  "name": "Gut Immling",
+                  "text": "Ein kulturelles Gut im Chiemgau, das für sein Opernfestival bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        12.263245,
+                        47.924896
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Hochmoor",
+                  "text": "Eine Aussichtsplattform, die Einblicke in die Flora und Fauna des Hochmoors bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.275158,
+                        47.97126
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Alpenpanorama",
+                  "text": "Ein Aussichtspunkt im bayerischen Alpenvorland mit weitem Blick auf die Berge.",
+                  "category": "natural",
+                  "coords": [
+                        12.313672,
+                        47.943165
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama - vom Chiemgau bis Garmisch",
+                  "text": "Ein Aussichtspunkt mit weitreichendem Panorama über die bayerische Alpenkette.",
+                  "category": "natural",
+                  "coords": [
+                        12.290408,
+                        47.935634
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "Eine historische katholische Kirche im bayerischen Alpenvorland.",
+                  "category": "religious",
+                  "coords": [
+                        12.293678,
+                        47.933275
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Maria",
+                  "text": "Eine kleine Kapelle im bayerischen Alpenvorland, die der Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.350759,
+                        47.950991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Amerang",
+                  "text": "Reneszánsz kastély a Chiemgau régióban, amely udvari koncertjeiről híres.",
+                  "category": "castle",
+                  "coords": [
+                        12.306566,
+                        47.981928
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Schloss Forchteneck",
+                  "text": "Egy egykori várkomplexum régészeti lelőhelye Amerang közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.292056,
+                        47.953601
+                  ]
+            },
+            {
+                  "name": "Gut Immling",
+                  "text": "Kulturális birtok a Chiemgauban, amely operafesztiváljáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.263245,
+                        47.924896
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Hochmoor",
+                  "text": "Kilátóterasz, amely rálátást biztosít a magasláp növény- és állatvilágára.",
+                  "category": "natural",
+                  "coords": [
+                        12.275158,
+                        47.97126
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Alpenpanorama",
+                  "text": "Kilátópont a bajor Alpokalján, széles kilátással a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        12.313672,
+                        47.943165
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama - vom Chiemgau bis Garmisch",
+                  "text": "Kilátóhely széles panorámával a bajor Alpok láncolatára.",
+                  "category": "natural",
+                  "coords": [
+                        12.290408,
+                        47.935634
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "Történelmi katolikus templom a bajor Alpokalján.",
+                  "category": "religious",
+                  "coords": [
+                        12.293678,
+                        47.933275
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Maria",
+                  "text": "Máriának szentelt kis kápolna a bajor Alpokalján.",
+                  "category": "religious",
+                  "coords": [
+                        12.350759,
+                        47.950991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Amerang",
+                  "text": "Un castel renascentist în regiunea Chiemgau, renumit pentru concertele sale.",
+                  "category": "castle",
+                  "coords": [
+                        12.306566,
+                        47.981928
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Schloss Forchteneck",
+                  "text": "Situl arheologic al unui fost complex fortificat lângă Amerang.",
+                  "category": "historical",
+                  "coords": [
+                        12.292056,
+                        47.953601
+                  ]
+            },
+            {
+                  "name": "Gut Immling",
+                  "text": "O proprietate culturală în Chiemgau, cunoscută pentru festivalul său de operă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.263245,
+                        47.924896
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Hochmoor",
+                  "text": "O platformă de observație care oferă perspective asupra florei și faunei mlaștinii.",
+                  "category": "natural",
+                  "coords": [
+                        12.275158,
+                        47.97126
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Alpenpanorama",
+                  "text": "Un punct de observație în regiunea prealpină bavareză, cu vedere spre munți.",
+                  "category": "natural",
+                  "coords": [
+                        12.313672,
+                        47.943165
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama - vom Chiemgau bis Garmisch",
+                  "text": "Un punct panoramic cu o vedere vastă asupra lanțului Alpilor bavarezi.",
+                  "category": "natural",
+                  "coords": [
+                        12.290408,
+                        47.935634
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "O biserică catolică istorică în regiunea prealpină bavareză.",
+                  "category": "religious",
+                  "coords": [
+                        12.293678,
+                        47.933275
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Maria",
+                  "text": "O mică capelă dedicată Sfintei Maria în regiunea prealpină bavareză.",
+                  "category": "religious",
+                  "coords": [
+                        12.350759,
+                        47.950991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Amerang",
+                  "text": "A Renaissance castle in the Chiemgau region, famous for its courtyard concerts.",
+                  "category": "castle",
+                  "coords": [
+                        12.306566,
+                        47.981928
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Schloss Forchteneck",
+                  "text": "The archaeological site of a former castle complex near Amerang.",
+                  "category": "historical",
+                  "coords": [
+                        12.292056,
+                        47.953601
+                  ]
+            },
+            {
+                  "name": "Gut Immling",
+                  "text": "A cultural estate in the Chiemgau, known for its opera festival.",
+                  "category": "cultural",
+                  "coords": [
+                        12.263245,
+                        47.924896
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform Hochmoor",
+                  "text": "An observation deck providing views of the moorland flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        12.275158,
+                        47.97126
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Alpenpanorama",
+                  "text": "A viewpoint in the Bavarian Alpine Foreland with wide views of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        12.313672,
+                        47.943165
+                  ]
+            },
+            {
+                  "name": "Alpenpanorama - vom Chiemgau bis Garmisch",
+                  "text": "A scenic overlook with a wide panorama of the Bavarian Alpine chain.",
+                  "category": "natural",
+                  "coords": [
+                        12.290408,
+                        47.935634
+                  ]
+            },
+            {
+                  "name": "St. Bartholomäus",
+                  "text": "A historic Catholic church in the Bavarian Alpine Foreland.",
+                  "category": "religious",
+                  "coords": [
+                        12.293678,
+                        47.933275
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Maria",
+                  "text": "A small chapel dedicated to Mary in the Bavarian Alpine Foreland.",
+                  "category": "religious",
+                  "coords": [
+                        12.350759,
+                        47.950991
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DE-BY",
     coords: [12.3, 47.95],
@@ -52761,7 +57846,304 @@ export const pois: POI[] = [
 }
   },
   {
-    id: "nature-bostalsee",
+    id: "nature-bostalsee", "sights": {
+      "de": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "Ein geschütztes Feuchtgebiet und Waldareal südlich von Selbach am Bostalsee.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "Ein Naturschutzgebiet und beliebtes Erholungszentrum am größten Freizeitsee im Südwesten Deutschlands.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Die Überreste einer historischen Wasserburg in der waldreichen Umgebung des Bostalsees.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Ein großer Indoor-Wasserpark mit Rutschen und Schwimmbecken für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "Eine Anhöhe in der Region Bostalsee, die Ausblicke auf die saarländische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Ein Kunst- und Kulturzentrum, das in einer historischen Mühle am Seeufer untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            },
+            {
+                  "name": "Priesberg",
+                  "text": "Ein bewaldeter Gipfel in der Nähe des Bostalsees, der zum Wandern einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.041685,
+                        49.585339
+                  ]
+            },
+            {
+                  "name": "Röllenberg",
+                  "text": "Ein Bergkegel im nördlichen Saarland mit herrlicher Aussicht auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.069815,
+                        49.543933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "Védett mocsárerdő és erdős terület Selbachtól délre, a Bostalsee közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "Természetvédelmi terület és népszerű üdülőközpont Délnyugat-Németország legnagyobb szabadidős tavánál.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Egy történelmi vízi vár maradványai a Bostalsee erdős környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Nagy fedett vízi park csúszdákkal és medencékkel az egész család számára.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "Egy domb a Bostalsee régióban, amely kilátást nyújt a Saar-vidék tájaira.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Művészeti és kulturális központ, amely a tóparton, egy történelmi malomban kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            },
+            {
+                  "name": "Priesberg",
+                  "text": "Erdős hegycsúcs a Bostalsee közelében, amely kiváló túrázási lehetőséget kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        7.041685,
+                        49.585339
+                  ]
+            },
+            {
+                  "name": "Röllenberg",
+                  "text": "Egy hegycsúcs Észak-Saar-vidéken, ahonnan remek kilátás nyílik a környező vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.069815,
+                        49.543933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "O zonă protejată de pădure și mlaștină situată la sud de Selbach lângă Bostalsee.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "O rezervație naturală și un centru de recreere popular situat lângă cel mai mare lac de agrement din sud-vestul Germaniei.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "Rămășițele unei cetăți de apă istorice în împrejurimile împădurite ale lacului Bostalsee.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Un parc acvatic interior mare, cu tobogane și piscine pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "O colină din regiunea Bostalsee care oferă priveliști asupra peisajului din Saarland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "Un centru de artă și cultură găzduit într-o moară istorică pe malul lacului.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            },
+            {
+                  "name": "Priesberg",
+                  "text": "Un vârf împădurit lângă Bostalsee, ideal pentru drumeții în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        7.041685,
+                        49.585339
+                  ]
+            },
+            {
+                  "name": "Röllenberg",
+                  "text": "Un vârf muntos din nordul Saarlandului, oferind o vedere frumoasă asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        7.069815,
+                        49.543933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bruchwald südlich Selbach",
+                  "text": "A protected wetland and forest area located south of Selbach near Bostalsee.",
+                  "category": "natural",
+                  "coords": [
+                        7.046383,
+                        49.533343
+                  ]
+            },
+            {
+                  "name": "Bostalsee",
+                  "text": "A nature reserve and popular recreation center by the largest leisure lake in southwest Germany.",
+                  "category": "natural",
+                  "coords": [
+                        7.06565,
+                        49.558834
+                  ]
+            },
+            {
+                  "name": "ehem. Wasserburg",
+                  "text": "The remains of a historical water castle in the wooded surroundings of Bostalsee.",
+                  "category": "castle",
+                  "coords": [
+                        7.074014,
+                        49.539486
+                  ]
+            },
+            {
+                  "name": "Aqua Mundo",
+                  "text": "A large indoor water park featuring slides and pools for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        7.082552,
+                        49.570174
+                  ]
+            },
+            {
+                  "name": "Losenberg",
+                  "text": "A hill in the Bostalsee region offering views of the Saarland landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        7.062009,
+                        49.529084
+                  ]
+            },
+            {
+                  "name": "Kunstzentrum Bosener Mühle",
+                  "text": "An arts and culture center housed in a historic mill on the lakeshore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.065432,
+                        49.573892
+                  ]
+            },
+            {
+                  "name": "Priesberg",
+                  "text": "A wooded peak near Bostalsee that offers opportunities for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        7.041685,
+                        49.585339
+                  ]
+            },
+            {
+                  "name": "Röllenberg",
+                  "text": "A mountain peak in northern Saarland offering a fine view of the surrounding countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        7.069815,
+                        49.543933
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-SL",
     coords: [7.0704, 49.5637],
@@ -60161,6 +65543,69 @@ export const pois: POI[] = [
                         13.654453,
                         54.400517
                   ]
+            },
+            {
+                  "name": "Hügelgrab Göhren",
+                  "text": "Ein prähistorisches Hügelgrab bei Göhren auf Rügen, das Zeugnis von der frühen Besiedlung der Insel ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        13.680459,
+                        54.392099
+                  ]
+            },
+            {
+                  "name": "Schanzenberg (Granitz)",
+                  "text": "Eine historische Wallanlage in der Granitz auf Rügen, die heute ein bedeutendes archäologisches Denkmal ist.",
+                  "category": "historical",
+                  "coords": [
+                        13.668959,
+                        54.400767
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Ein ausgewiesener FKK-Strand bei Prora, der für Freunde der Freikörperkultur an der Ostsee gedacht ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.596875,
+                        54.41538
+                  ]
+            },
+            {
+                  "name": "Kulturstrand",
+                  "text": "Ein vielseitiger Strandabschnitt in Prora, der oft als Ort für kulturelle Freizeitaktivitäten genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        13.619703,
+                        54.400063
+                  ]
+            },
+            {
+                  "name": "Familienstrand",
+                  "text": "Ein familienfreundlicher Strand in Prora mit flachem Wasserzugang und viel Platz für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        13.600742,
+                        54.412017
+                  ]
+            },
+            {
+                  "name": "Aktivstrand",
+                  "text": "Ein Aktivstrand in Prora, der ideale Bedingungen für Wassersport und sportliche Betätigung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.610612,
+                        54.404786
+                  ]
+            },
+            {
+                  "name": "Textilstrand",
+                  "text": "Ein klassischer Textilstrand in Prora für Badegäste, die herkömmliche Badebekleidung bevorzugen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.615335,
+                        54.402165
+                  ]
             }
       ],
       "hu": [
@@ -60171,6 +65616,69 @@ export const pois: POI[] = [
                   "coords": [
                         13.654453,
                         54.400517
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Göhren",
+                  "text": "Praehisztorikus halomsír Göhren mellett Rügen szigetén, amely a sziget korai benépesülésének tanúja.",
+                  "category": "historical",
+                  "coords": [
+                        13.680459,
+                        54.392099
+                  ]
+            },
+            {
+                  "name": "Schanzenberg (Granitz)",
+                  "text": "Történelmi sáncvár a rügeni Granitzban, amely ma jelentős régészeti emlék.",
+                  "category": "historical",
+                  "coords": [
+                        13.668959,
+                        54.400767
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Kijelölt naturista strand Prora közelében, a Balti-tengeri meztelen fürdőzés kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        13.596875,
+                        54.41538
+                  ]
+            },
+            {
+                  "name": "Kulturstrand",
+                  "text": "Sokoldalú strandszakasz Prorában, amelyet gyakran használnak kulturális szabadidős tevékenységek helyszíneként.",
+                  "category": "recreational",
+                  "coords": [
+                        13.619703,
+                        54.400063
+                  ]
+            },
+            {
+                  "name": "Familienstrand",
+                  "text": "Családbarát strand Prorában, sekély vízzel és sok hellyel a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.600742,
+                        54.412017
+                  ]
+            },
+            {
+                  "name": "Aktivstrand",
+                  "text": "Aktív strand Prorában, amely ideális feltételeket kínál a vízi sportokhoz és a sportoláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.610612,
+                        54.404786
+                  ]
+            },
+            {
+                  "name": "Textilstrand",
+                  "text": "Hagyományos textilstrand Prorában azoknak, akik a konvencionális fürdőruhát kedvelik.",
+                  "category": "recreational",
+                  "coords": [
+                        13.615335,
+                        54.402165
                   ]
             }
       ],
@@ -60183,6 +65691,69 @@ export const pois: POI[] = [
                         13.654453,
                         54.400517
                   ]
+            },
+            {
+                  "name": "Hügelgrab Göhren",
+                  "text": "Un tumul preistoric lângă Göhren pe Rügen, care stă mărturie colonizării timpurii a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        13.680459,
+                        54.392099
+                  ]
+            },
+            {
+                  "name": "Schanzenberg (Granitz)",
+                  "text": "O fortificație istorică în Granitz pe Rügen, care este astăzi un monument arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        13.668959,
+                        54.400767
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "O plajă de nudiști desemnată la Prora, destinată amatorilor de nudism de la Marea Baltică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.596875,
+                        54.41538
+                  ]
+            },
+            {
+                  "name": "Kulturstrand",
+                  "text": "O secțiune de plajă versatilă în Prora, utilizată adesea ca loc pentru activități culturale de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        13.619703,
+                        54.400063
+                  ]
+            },
+            {
+                  "name": "Familienstrand",
+                  "text": "O plajă prietenoasă cu familiile în Prora, cu acces la apă puțin adâncă și mult spațiu pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.600742,
+                        54.412017
+                  ]
+            },
+            {
+                  "name": "Aktivstrand",
+                  "text": "O plajă activă în Prora, oferind condiții ideale pentru sporturi nautice și activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        13.610612,
+                        54.404786
+                  ]
+            },
+            {
+                  "name": "Textilstrand",
+                  "text": "O plajă textilă clasică în Prora pentru oaspeții care preferă costumele de baie convenționale.",
+                  "category": "recreational",
+                  "coords": [
+                        13.615335,
+                        54.402165
+                  ]
             }
       ],
       "en": [
@@ -60193,6 +65764,69 @@ export const pois: POI[] = [
                   "coords": [
                         13.654453,
                         54.400517
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Göhren",
+                  "text": "A prehistoric burial mound near Göhren on Rügen, witnessing the island's early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        13.680459,
+                        54.392099
+                  ]
+            },
+            {
+                  "name": "Schanzenberg (Granitz)",
+                  "text": "A historic rampart in Granitz on Rügen, which is now a significant archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        13.668959,
+                        54.400767
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "A designated nudist beach at Prora, intended for fans of naturism on the Baltic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.596875,
+                        54.41538
+                  ]
+            },
+            {
+                  "name": "Kulturstrand",
+                  "text": "A versatile beach section in Prora, often used as a venue for cultural leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        13.619703,
+                        54.400063
+                  ]
+            },
+            {
+                  "name": "Familienstrand",
+                  "text": "A family-friendly beach in Prora with shallow water access and plenty of space for children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.600742,
+                        54.412017
+                  ]
+            },
+            {
+                  "name": "Aktivstrand",
+                  "text": "An active beach in Prora, offering ideal conditions for water sports and physical activity.",
+                  "category": "recreational",
+                  "coords": [
+                        13.610612,
+                        54.404786
+                  ]
+            },
+            {
+                  "name": "Textilstrand",
+                  "text": "A classic textile beach in Prora for bathers who prefer conventional swimwear.",
+                  "category": "recreational",
+                  "coords": [
+                        13.615335,
+                        54.402165
                   ]
             }
       ]
@@ -62225,7 +67859,124 @@ export const pois: POI[] = [
 
   // ── SCHLESWIG-HOLSTEIN (DE-SH) ───────────────────────────────────────────
   {
-    id: "hist-nord-ostsee-kanal",
+    id: "hist-nord-ostsee-kanal", "sights": {
+      "de": [
+            {
+                  "name": "Kluesbarg",
+                  "text": "Eine historische archäologische Stätte in der Nähe des Nord-Ostsee-Kanals.",
+                  "category": "historical",
+                  "coords": [
+                        9.765873,
+                        54.072967
+                  ]
+            },
+            {
+                  "name": "Boxberg",
+                  "text": "Ein Aussichtspunkt im Naturpark Aukrug mit weitem Blick über die Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73715,
+                        54.070318
+                  ]
+            },
+            {
+                  "name": "Itzespitze",
+                  "text": "Die höchste Erhebung im Kreis Steinburg in Schleswig-Holstein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742349,
+                        54.045167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kluesbarg",
+                  "text": "Történelmi régészeti lelőhely a Kiel-csatorna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.765873,
+                        54.072967
+                  ]
+            },
+            {
+                  "name": "Boxberg",
+                  "text": "Kilátópont az Aukrug natúrparkban, széles kilátással a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73715,
+                        54.070318
+                  ]
+            },
+            {
+                  "name": "Itzespitze",
+                  "text": "Steinburg járás legmagasabb pontja Schleswig-Holsteinben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742349,
+                        54.045167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kluesbarg",
+                  "text": "Un sit arheologic istoric situat în apropierea Canalului Kiel.",
+                  "category": "historical",
+                  "coords": [
+                        9.765873,
+                        54.072967
+                  ]
+            },
+            {
+                  "name": "Boxberg",
+                  "text": "Un punct de belvedere în parcul natural Aukrug, oferind o vedere panoramică asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73715,
+                        54.070318
+                  ]
+            },
+            {
+                  "name": "Itzespitze",
+                  "text": "Cea mai înaltă cotă din districtul Steinburg, situată în Schleswig-Holstein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742349,
+                        54.045167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kluesbarg",
+                  "text": "A historical archaeological site located near the Kiel Canal.",
+                  "category": "historical",
+                  "coords": [
+                        9.765873,
+                        54.072967
+                  ]
+            },
+            {
+                  "name": "Boxberg",
+                  "text": "A viewpoint in the Aukrug Nature Park offering wide views over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73715,
+                        54.070318
+                  ]
+            },
+            {
+                  "name": "Itzespitze",
+                  "text": "The highest elevation in the Steinburg district of Schleswig-Holstein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.742349,
+                        54.045167
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SH",
     coords: [9.7167, 54.0750],
@@ -62374,7 +68125,268 @@ export const pois: POI[] = [
       "tr": ["Ana huzursuzluklar 3 Kasım 1918'de Kiel'de başladı.", "Şehirdeki ayaklanmaya yaklaşık 40.000 denizci, asker ve işçi katıldı.", "3 Kasım'daki çatışmalarda sekiz protestocu askeri devriyelerin açtığı ateş sonucu öldü.", "4 Kasım'da SPD politikacısı Gustav Noske, durumu sakinleştirmek için Kiel'e geldi.", "Kiel asker konseyi, siyasi talepler olarak 'Kiel'in 14 Maddesi'ni formüle etti.", "İmparatorun tahttan çekilmesi, Kiel huzursuzluklarının başlamasından sadece altı gün sonra, 9 Kasım'da gerçekleşti."]},
   },
   {
-    id: "hist-burg-eltz",
+    id: "hist-burg-eltz", "sights": {
+      "de": [
+            {
+                  "name": "Burg Trutzeltz",
+                  "text": "Eine kleine mittelalterliche Burgruine, die als Belagerungsburg mit Blick auf die Burg Eltz errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        7.336122,
+                        50.206976
+                  ]
+            },
+            {
+                  "name": "Stiftsmuseum",
+                  "text": "Ein Museum in einem historischen Gebäude nahe der Burg Eltz, das sich auf Lokalgeschichte und kirchliche Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        7.301481,
+                        50.183919
+                  ]
+            },
+            {
+                  "name": "Burg Bischofstein",
+                  "text": "Eine Burg aus dem 13. Jahrhundert über der Mosel, bekannt für ihr markantes weißes Turmband.",
+                  "category": "castle",
+                  "coords": [
+                        7.38389,
+                        50.213713
+                  ]
+            },
+            {
+                  "name": "Merowingisch-Fränkischer Friedhof",
+                  "text": "Eine archäologische Stätte mit einem Gräberfeld aus merowingischer und fränkischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        7.335761,
+                        50.187232
+                  ]
+            },
+            {
+                  "name": "Müdener Bock",
+                  "text": "Ein markanter Hügel nahe dem Moseltal mit herrlichem Blick auf die umliegenden Weinberge und die Burg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.367083,
+                        50.178483
+                  ]
+            },
+            {
+                  "name": "Druidenstein Aussichtsplattform",
+                  "text": "Eine Aussichtsplattform, die einen weiten Blick über den Eltzer Wald und nahegelegene Sehenswürdigkeiten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.373734,
+                        50.190227
+                  ]
+            },
+            {
+                  "name": "Kompuskopf",
+                  "text": "Ein malerischer Aussichtspunkt im Eltzer Wald, ideal für Wanderer, um die Naturlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        7.306369,
+                        50.188182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Trutzeltz",
+                  "text": "Kicsi középkori várrom, amely ostromvárként épült a Burg Eltz felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.336122,
+                        50.206976
+                  ]
+            },
+            {
+                  "name": "Stiftsmuseum",
+                  "text": "A Burg Eltz közelében található múzeum, amely a helytörténetre és az egyházi művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        7.301481,
+                        50.183919
+                  ]
+            },
+            {
+                  "name": "Burg Bischofstein",
+                  "text": "13. századi vár a Mosel folyó felett, amely jellegzetes fehér toronycsíkjáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.38389,
+                        50.213713
+                  ]
+            },
+            {
+                  "name": "Merowingisch-Fränkischer Friedhof",
+                  "text": "Régészeti lelőhely, amely a meroving és frank korszakból származó temetőt mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        7.335761,
+                        50.187232
+                  ]
+            },
+            {
+                  "name": "Müdener Bock",
+                  "text": "Kiemelkedő domb a Mosel-völgy közelében, ahonnan szép kilátás nyílik a környező szőlőültetvényekre és a várra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.367083,
+                        50.178483
+                  ]
+            },
+            {
+                  "name": "Druidenstein Aussichtsplattform",
+                  "text": "Kilátóplatform, amely panorámás pontot kínál az Eltzi-erdőre és a közeli látnivalókra.",
+                  "category": "natural",
+                  "coords": [
+                        7.373734,
+                        50.190227
+                  ]
+            },
+            {
+                  "name": "Kompuskopf",
+                  "text": "Festői kilátópont az Eltzi-erdő területén, amely ideális a túrázók számára a természeti táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        7.306369,
+                        50.188182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Trutzeltz",
+                  "text": "O mică ruină de castel medieval, construită ca un castel de asediu cu vedere la Castelul Eltz.",
+                  "category": "castle",
+                  "coords": [
+                        7.336122,
+                        50.206976
+                  ]
+            },
+            {
+                  "name": "Stiftsmuseum",
+                  "text": "Un muzeu situat într-o clădire istorică lângă Castelul Eltz, axat pe istoria locală și arta ecleziastică.",
+                  "category": "museum",
+                  "coords": [
+                        7.301481,
+                        50.183919
+                  ]
+            },
+            {
+                  "name": "Burg Bischofstein",
+                  "text": "Un castel din secolul al XIII-lea cu vedere la râul Mosel, cunoscut pentru dunga albă distinctivă a turnului său.",
+                  "category": "castle",
+                  "coords": [
+                        7.38389,
+                        50.213713
+                  ]
+            },
+            {
+                  "name": "Merowingisch-Fränkischer Friedhof",
+                  "text": "Un sit arheologic care cuprinde un cimitir din perioadele merovingiană și francă.",
+                  "category": "historical",
+                  "coords": [
+                        7.335761,
+                        50.187232
+                  ]
+            },
+            {
+                  "name": "Müdener Bock",
+                  "text": "Un deal proeminent lângă valea Mosellei, oferind vederi pitorești asupra podgoriilor din jur și a castelului.",
+                  "category": "landmark",
+                  "coords": [
+                        7.367083,
+                        50.178483
+                  ]
+            },
+            {
+                  "name": "Druidenstein Aussichtsplattform",
+                  "text": "O platformă de observație care oferă un punct de vedere panoramic asupra pădurii Eltz și a obiectivelor din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        7.373734,
+                        50.190227
+                  ]
+            },
+            {
+                  "name": "Kompuskopf",
+                  "text": "Un punct de belvedere pitoresc în zona pădurii Eltz, ideal pentru drumeții care doresc să se bucure de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        7.306369,
+                        50.188182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Trutzeltz",
+                  "text": "A small medieval castle ruin built as a siege castle overlooking Eltz Castle.",
+                  "category": "castle",
+                  "coords": [
+                        7.336122,
+                        50.206976
+                  ]
+            },
+            {
+                  "name": "Stiftsmuseum",
+                  "text": "A museum located in a historic building near Eltz Castle, focusing on local history and ecclesiastical art.",
+                  "category": "museum",
+                  "coords": [
+                        7.301481,
+                        50.183919
+                  ]
+            },
+            {
+                  "name": "Burg Bischofstein",
+                  "text": "A 13th-century castle overlooking the Moselle River, known for its distinctive white tower band.",
+                  "category": "castle",
+                  "coords": [
+                        7.38389,
+                        50.213713
+                  ]
+            },
+            {
+                  "name": "Merowingisch-Fränkischer Friedhof",
+                  "text": "An archaeological site featuring a burial ground from the Merovingian and Frankish periods.",
+                  "category": "historical",
+                  "coords": [
+                        7.335761,
+                        50.187232
+                  ]
+            },
+            {
+                  "name": "Müdener Bock",
+                  "text": "A prominent hill near the Moselle valley, offering scenic views of the surrounding vineyards and castle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.367083,
+                        50.178483
+                  ]
+            },
+            {
+                  "name": "Druidenstein Aussichtsplattform",
+                  "text": "An observation platform providing a panoramic vantage point over the Eltz forest and nearby landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        7.373734,
+                        50.190227
+                  ]
+            },
+            {
+                  "name": "Kompuskopf",
+                  "text": "A scenic lookout point in the Eltz forest area, ideal for hikers to enjoy the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.306369,
+                        50.188182
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-RP",
     coords: [7.336, 50.205],
@@ -62494,7 +68506,304 @@ export const pois: POI[] = [
       "tr": ["Şato, deniz seviyesinden 855 metre yükseklikte yer almaktadır.", "Üçüncü kalenin temel taşı 3 Eylül 1850'de atılmıştır.", "Mimar Friedrich August Stüler, Karl Friedrich Schinkel'in bir öğrencisiydi.", "1889 yılına ait Prusya kraliyet tacı, hazine dairesinin bir parçasıdır.", "Şato şapelinde birkaç Prusya kralının mezarı bulunmaktadır.", "Kalenin bulunduğu alanı her yıl 350.000'den fazla insan ziyaret etmektedir."]},
   },
   {
-    id: "hist-schloss-linderhof",
+    id: "hist-schloss-linderhof", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Linderhof",
+                  "text": "Ein prachtvolles Schloss von König Ludwig II., bekannt für seine kunstvolle Ausstattung und den Venustempel.",
+                  "category": "castle",
+                  "coords": [
+                        10.960764,
+                        47.571623
+                  ]
+            },
+            {
+                  "name": "Kleine Klammspitz",
+                  "text": "Ein markanter Berggipfel in den Ammergauer Alpen mit weitem Blick über die Region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910617,
+                        47.582419
+                  ]
+            },
+            {
+                  "name": "Große Klammspitz",
+                  "text": "Der höchste Gipfel des Klammspitzkammes, ein beliebtes Ziel für anspruchsvolle Wanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.909356,
+                        47.580607
+                  ]
+            },
+            {
+                  "name": "Teufelstättkopf",
+                  "text": "Ein gut erreichbarer Aussichtsgipfel in der Nähe der Pürschlinghäuser.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986345,
+                        47.587373
+                  ]
+            },
+            {
+                  "name": "Hennenkopf",
+                  "text": "Ein Berggipfel in den bayerischen Alpen, der über verschiedene Wanderwege erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.960388,
+                        47.586353
+                  ]
+            },
+            {
+                  "name": "Brunnenkopf",
+                  "text": "Ein Gipfel mit einer nahegelegenen Alpenvereinshütte, die als Raststation für Bergsteiger dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.923784,
+                        47.582812
+                  ]
+            },
+            {
+                  "name": "Dreisäuler Kopf",
+                  "text": "Eine Erhebung im Ammergebirge, die Panoramaausblicke auf die umliegende Alpenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.944036,
+                        47.585113
+                  ]
+            },
+            {
+                  "name": "Laubeneck",
+                  "text": "Ein ruhiger Gipfel in den Alpen, ideal für Bergwanderer, die Abgeschiedenheit suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.97934,
+                        47.586748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Linderhof",
+                  "text": "II. Lajos király pompás kastélya, amely művészi berendezéséről és a Vénusz-templomról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        10.960764,
+                        47.571623
+                  ]
+            },
+            {
+                  "name": "Kleine Klammspitz",
+                  "text": "Jellegzetes hegycsúcs az Ammergaui-Alpokban, tágas kilátással a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910617,
+                        47.582419
+                  ]
+            },
+            {
+                  "name": "Große Klammspitz",
+                  "text": "A Klammspitz-gerinc legmagasabb csúcsa, népszerű célpont az igényes túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.909356,
+                        47.580607
+                  ]
+            },
+            {
+                  "name": "Teufelstättkopf",
+                  "text": "Jól megközelíthető kilátócsúcs a Pürschling-házak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986345,
+                        47.587373
+                  ]
+            },
+            {
+                  "name": "Hennenkopf",
+                  "text": "Berggipfel a bajor Alpokban, amely különböző túraútvonalakon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        10.960388,
+                        47.586353
+                  ]
+            },
+            {
+                  "name": "Brunnenkopf",
+                  "text": "Hegycsúcs egy közeli alpesi menedékházzal, amely pihenőhelyként szolgál a hegymászók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        10.923784,
+                        47.582812
+                  ]
+            },
+            {
+                  "name": "Dreisäuler Kopf",
+                  "text": "Magaslat az Ammer-hegységben, amely panorámás kilátást nyújt a környező alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.944036,
+                        47.585113
+                  ]
+            },
+            {
+                  "name": "Laubeneck",
+                  "text": "Csendes hegycsúcs az Alpokban, ideális a magányt kereső túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        10.97934,
+                        47.586748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Linderhof",
+                  "text": "Un palat somptuos al regelui Ludovic al II-lea, cunoscut pentru decorul său artistic și Templul lui Venus.",
+                  "category": "castle",
+                  "coords": [
+                        10.960764,
+                        47.571623
+                  ]
+            },
+            {
+                  "name": "Kleine Klammspitz",
+                  "text": "Un vârf montan proeminent în Alpii Ammergau, cu o vedere panoramică asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910617,
+                        47.582419
+                  ]
+            },
+            {
+                  "name": "Große Klammspitz",
+                  "text": "Cel mai înalt vârf al crestei Klammspitz, o destinație populară pentru drumeții solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        10.909356,
+                        47.580607
+                  ]
+            },
+            {
+                  "name": "Teufelstättkopf",
+                  "text": "Un vârf panoramic ușor accesibil, situat în apropiere de cabanele Pürschling.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986345,
+                        47.587373
+                  ]
+            },
+            {
+                  "name": "Hennenkopf",
+                  "text": "Un vârf montan din Alpii bavarezi, accesibil prin diverse trasee de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        10.960388,
+                        47.586353
+                  ]
+            },
+            {
+                  "name": "Brunnenkopf",
+                  "text": "Un vârf cu o cabană montană în apropiere, care servește ca loc de popas pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        10.923784,
+                        47.582812
+                  ]
+            },
+            {
+                  "name": "Dreisäuler Kopf",
+                  "text": "O culme în munții Ammer, care oferă vederi panoramice asupra peisajului alpin înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        10.944036,
+                        47.585113
+                  ]
+            },
+            {
+                  "name": "Laubeneck",
+                  "text": "Un vârf liniștit în Alpi, ideal pentru drumeții care caută izolare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.97934,
+                        47.586748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linderhof Palace",
+                  "text": "A lavish palace of King Ludwig II, known for its artistic interior and the Temple of Venus.",
+                  "category": "castle",
+                  "coords": [
+                        10.960764,
+                        47.571623
+                  ]
+            },
+            {
+                  "name": "Kleine Klammspitz",
+                  "text": "A prominent mountain peak in the Ammergau Alps with wide views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.910617,
+                        47.582419
+                  ]
+            },
+            {
+                  "name": "Große Klammspitz",
+                  "text": "The highest peak of the Klammspitz ridge, a popular destination for demanding hikes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.909356,
+                        47.580607
+                  ]
+            },
+            {
+                  "name": "Teufelstättkopf",
+                  "text": "An easily accessible viewing peak located near the Pürschling houses.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986345,
+                        47.587373
+                  ]
+            },
+            {
+                  "name": "Hennenkopf",
+                  "text": "A mountain peak in the Bavarian Alps accessible via various hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        10.960388,
+                        47.586353
+                  ]
+            },
+            {
+                  "name": "Brunnenkopf",
+                  "text": "A peak with a nearby alpine hut serving as a rest stop for climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.923784,
+                        47.582812
+                  ]
+            },
+            {
+                  "name": "Dreisäuler Kopf",
+                  "text": "An elevation in the Ammer Mountains offering panoramic views of the surrounding alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.944036,
+                        47.585113
+                  ]
+            },
+            {
+                  "name": "Laubeneck",
+                  "text": "A quiet peak in the Alps, ideal for mountain hikers seeking seclusion.",
+                  "category": "landmark",
+                  "coords": [
+                        10.97934,
+                        47.586748
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BY",
     coords: [10.960, 47.570],
@@ -62534,7 +68843,304 @@ export const pois: POI[] = [
       "tr": ["Linderhof, kralın 1886'daki ölümünden önce tamamlanan tek şatodur.", "Park yaklaşık 10 hektarlık bir alanı kapsar ve Fransız ile İngiliz bahçe sanatını birleştirir.", "Venusgrotte 1876-1877 yıllarında inşa edilmiş olup o dönemde elektrikli aydınlatmaya sahipti.", "Şatonun önündeki büyük fıskiye yaklaşık 25 metre yüksekliğe ulaşmaktadır.", "İç mekanların dekorasyonu için tahminen 5 kilogram altın varak kullanılmıştır.", "'Tischlein-deck-dich' sistemi, kralın personel tarafından servis edilmeden yemek yemesini sağlıyordu."]},
   },
   {
-    id: "hist-schloss-mespelbrunn",
+    id: "hist-schloss-mespelbrunn", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Mespelbrunn",
+                  "text": "Ein malerisches Wasserschloss im Spessart, bekannt für seine erhaltene mittelalterliche Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        9.307364,
+                        49.905385
+                  ]
+            },
+            {
+                  "name": "Naturwaldreservat Kreuzbuckel",
+                  "text": "Ein geschütztes Waldgebiet im Spessart zur Erhaltung der natürlichen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.299911,
+                        49.949984
+                  ]
+            },
+            {
+                  "name": "Spessartbühne",
+                  "text": "Eine Freilichtbühne in Mespelbrunn, auf der regelmäßig Theaterstücke aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        9.292792,
+                        49.930988
+                  ]
+            },
+            {
+                  "name": "Königshöhe",
+                  "text": "Ein Aussichtspunkt im Spessart mit Blick über das Mespelbrunner Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        9.31707,
+                        49.919953
+                  ]
+            },
+            {
+                  "name": "Buschhöhe",
+                  "text": "Ein malerischer Berggipfel in der Nähe von Schloss Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.288916,
+                        49.937821
+                  ]
+            },
+            {
+                  "name": "Birkenberg",
+                  "text": "Ein markanter Berggipfel in der Umgebung von Schloss Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.293371,
+                        49.961203
+                  ]
+            },
+            {
+                  "name": "Steinberg",
+                  "text": "Ein Berggipfel mit Blick auf die Natur in der Nähe von Schloss Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.314023,
+                        49.940624
+                  ]
+            },
+            {
+                  "name": "Zeugplatte",
+                  "text": "Ein Berggipfel in der Umgebung von Schloss Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.33823,
+                        49.908694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Mespelbrunn",
+                  "text": "Festői vízi vár a Spessart-erdőben, amely épségben maradt középkori építészetéről nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        9.307364,
+                        49.905385
+                  ]
+            },
+            {
+                  "name": "Naturwaldreservat Kreuzbuckel",
+                  "text": "Védett erdőterület a Spessart-hegységben a természetes flóra megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.299911,
+                        49.949984
+                  ]
+            },
+            {
+                  "name": "Spessartbühne",
+                  "text": "Egy szabadtéri színpad Mespelbrunnban, ahol rendszeresen tartanak előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.292792,
+                        49.930988
+                  ]
+            },
+            {
+                  "name": "Königshöhe",
+                  "text": "Egy kilátópont a Spessartban, ahonnan rálátni a Mespelbrunn-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        9.31707,
+                        49.919953
+                  ]
+            },
+            {
+                  "name": "Buschhöhe",
+                  "text": "Egy látványos hegycsúcs Mespelbrunn kastélya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.288916,
+                        49.937821
+                  ]
+            },
+            {
+                  "name": "Birkenberg",
+                  "text": "Egy kiemelkedő hegycsúcs Mespelbrunn kastélyának környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.293371,
+                        49.961203
+                  ]
+            },
+            {
+                  "name": "Steinberg",
+                  "text": "Egy hegycsúcs, amely természeti kilátást nyújt Mespelbrunn kastélya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.314023,
+                        49.940624
+                  ]
+            },
+            {
+                  "name": "Zeugplatte",
+                  "text": "Egy hegycsúcs Mespelbrunn kastélyának szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.33823,
+                        49.908694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Mespelbrunn",
+                  "text": "Un castel cu apă pitoresc în Spessart, renumit pentru arhitectura sa medievală bine conservată.",
+                  "category": "castle",
+                  "coords": [
+                        9.307364,
+                        49.905385
+                  ]
+            },
+            {
+                  "name": "Naturwaldreservat Kreuzbuckel",
+                  "text": "O zonă forestieră protejată în Spessart pentru conservarea florei naturale.",
+                  "category": "natural",
+                  "coords": [
+                        9.299911,
+                        49.949984
+                  ]
+            },
+            {
+                  "name": "Spessartbühne",
+                  "text": "O scenă în aer liber în Mespelbrunn, unde se joacă regulat piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        9.292792,
+                        49.930988
+                  ]
+            },
+            {
+                  "name": "Königshöhe",
+                  "text": "Un punct de belvedere în Spessart cu vedere asupra văii Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.31707,
+                        49.919953
+                  ]
+            },
+            {
+                  "name": "Buschhöhe",
+                  "text": "Un vârf montan pitoresc situat în apropierea Castelului Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.288916,
+                        49.937821
+                  ]
+            },
+            {
+                  "name": "Birkenberg",
+                  "text": "Un vârf muntos proeminent din zona Castelului Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.293371,
+                        49.961203
+                  ]
+            },
+            {
+                  "name": "Steinberg",
+                  "text": "Un vârf montan care oferă vederi naturale lângă Castelul Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.314023,
+                        49.940624
+                  ]
+            },
+            {
+                  "name": "Zeugplatte",
+                  "text": "Un vârf montan situat în vecinătatea Castelului Mespelbrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.33823,
+                        49.908694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Mespelbrunn",
+                  "text": "A picturesque moated castle in the Spessart forest, famous for its well-preserved medieval architecture.",
+                  "category": "castle",
+                  "coords": [
+                        9.307364,
+                        49.905385
+                  ]
+            },
+            {
+                  "name": "Naturwaldreservat Kreuzbuckel",
+                  "text": "A protected forest area in the Spessart for the conservation of natural flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.299911,
+                        49.949984
+                  ]
+            },
+            {
+                  "name": "Spessartbühne",
+                  "text": "An open-air theatre in Mespelbrunn where plays are regularly performed.",
+                  "category": "cultural",
+                  "coords": [
+                        9.292792,
+                        49.930988
+                  ]
+            },
+            {
+                  "name": "Königshöhe",
+                  "text": "A viewpoint in the Spessart offering views over the Mespelbrunn valley.",
+                  "category": "landmark",
+                  "coords": [
+                        9.31707,
+                        49.919953
+                  ]
+            },
+            {
+                  "name": "Buschhöhe",
+                  "text": "A scenic mountain peak located near Mespelbrunn Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        9.288916,
+                        49.937821
+                  ]
+            },
+            {
+                  "name": "Birkenberg",
+                  "text": "A prominent mountain peak in the Mespelbrunn Castle area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.293371,
+                        49.961203
+                  ]
+            },
+            {
+                  "name": "Steinberg",
+                  "text": "A mountain peak offering natural views near Mespelbrunn Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        9.314023,
+                        49.940624
+                  ]
+            },
+            {
+                  "name": "Zeugplatte",
+                  "text": "A mountain peak situated in the vicinity of Mespelbrunn Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        9.33823,
+                        49.908694
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BY",
     coords: [9.307, 49.927],
@@ -63179,7 +69785,304 @@ export const pois: POI[] = [
       "tr": ["1 Ocak 2004'te Nordrhein-Westfalen'in ilk milli parkı olarak kuruldu.", "Yaklaşık 110 km²'lik alanın %75'i yabanıl bölge ilan edilmiştir.", "Orta Avrupa'nın en büyük yaban kedisi popülasyonlarından birine sahiptir.", "Yürüyüş yolu ağının toplam uzunluğu 240 kilometreden fazladır.", "2014 yılından beri International Dark Sky Park sertifikasına sahiptir.", "100 hektarlık devasa bir tesis olan NS-Ordensburg Vogelsang'ı barındırır."]},
   },
   {
-    id: "forest-kellerwald-edersee",
+    id: "forest-kellerwald-edersee", "sights": {
+      "de": [
+            {
+                  "name": "Wolfsgrube",
+                  "text": "Eine historische Fanggrube im Kellerwald, die heute als archäologische Stätte gilt.",
+                  "category": "historical",
+                  "coords": [
+                        8.966193,
+                        51.125152
+                  ]
+            },
+            {
+                  "name": "Blei-Berg",
+                  "text": "Ein bewaldeter Gipfel im Nationalpark Kellerwald-Edersee.",
+                  "category": "landmark",
+                  "coords": [
+                        8.961462,
+                        51.146606
+                  ]
+            },
+            {
+                  "name": "Locheiche",
+                  "text": "Ein Berg im hessischen Kellerwald, bekannt für seine alten Buchenbestände.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990359,
+                        51.141432
+                  ]
+            },
+            {
+                  "name": "Traddelkopf",
+                  "text": "Der höchste Berg im Nationalpark Kellerwald-Edersee.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976637,
+                        51.131533
+                  ]
+            },
+            {
+                  "name": "Daudenberg",
+                  "text": "Eine Erhebung im Kellerwald, die Teil des UNESCO-Weltnaturerbes ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990463,
+                        51.160803
+                  ]
+            },
+            {
+                  "name": "Dürrenberg",
+                  "text": "Ein Gipfel im Kellerwald, der weite Ausblicke über den Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.991433,
+                        51.11531
+                  ]
+            },
+            {
+                  "name": "Ahornkopf",
+                  "text": "Ein Berg im Nationalpark Kellerwald-Edersee in Nordhessen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.969762,
+                        51.128073
+                  ]
+            },
+            {
+                  "name": "Arensberg",
+                  "text": "Ein Berg im Kellerwald, der für seine natürliche Waldentwicklung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.95527,
+                        51.161451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wolfsgrube",
+                  "text": "Történelmi csapdahely a Kellerwaldban, amely ma régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        8.966193,
+                        51.125152
+                  ]
+            },
+            {
+                  "name": "Blei-Berg",
+                  "text": "Erdős hegycsúcs a Kellerwald-Edersee Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.961462,
+                        51.146606
+                  ]
+            },
+            {
+                  "name": "Locheiche",
+                  "text": "Hegy a hesseni Kellerwaldban, amely ősi bükköseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990359,
+                        51.141432
+                  ]
+            },
+            {
+                  "name": "Traddelkopf",
+                  "text": "A Kellerwald-Edersee Nemzeti Park legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976637,
+                        51.131533
+                  ]
+            },
+            {
+                  "name": "Daudenberg",
+                  "text": "Kiemelkedés a Kellerwaldban, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990463,
+                        51.160803
+                  ]
+            },
+            {
+                  "name": "Dürrenberg",
+                  "text": "Hegycsúcs a Kellerwaldban, amely tágas kilátást nyújt a nemzeti parkra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.991433,
+                        51.11531
+                  ]
+            },
+            {
+                  "name": "Ahornkopf",
+                  "text": "Hegy a Kellerwald-Edersee Nemzeti Parkban, Észak-Hessenben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.969762,
+                        51.128073
+                  ]
+            },
+            {
+                  "name": "Arensberg",
+                  "text": "Hegy a Kellerwaldban, amely természetes erdőfejlődéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.95527,
+                        51.161451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wolfsgrube",
+                  "text": "O groapă istorică de captură în Kellerwald, considerată astăzi sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        8.966193,
+                        51.125152
+                  ]
+            },
+            {
+                  "name": "Blei-Berg",
+                  "text": "Un vârf împădurit în Parcul Național Kellerwald-Edersee.",
+                  "category": "landmark",
+                  "coords": [
+                        8.961462,
+                        51.146606
+                  ]
+            },
+            {
+                  "name": "Locheiche",
+                  "text": "Un munte în regiunea Kellerwald din Hessa, cunoscut pentru făgetele sale vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990359,
+                        51.141432
+                  ]
+            },
+            {
+                  "name": "Traddelkopf",
+                  "text": "Cel mai înalt munte din Parcul Național Kellerwald-Edersee.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976637,
+                        51.131533
+                  ]
+            },
+            {
+                  "name": "Daudenberg",
+                  "text": "O colină în Kellerwald, care face parte din patrimoniul mondial natural UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990463,
+                        51.160803
+                  ]
+            },
+            {
+                  "name": "Dürrenberg",
+                  "text": "Un vârf în Kellerwald care oferă vederi largi asupra parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        8.991433,
+                        51.11531
+                  ]
+            },
+            {
+                  "name": "Ahornkopf",
+                  "text": "Un munte în Parcul Național Kellerwald-Edersee din nordul Hessei.",
+                  "category": "landmark",
+                  "coords": [
+                        8.969762,
+                        51.128073
+                  ]
+            },
+            {
+                  "name": "Arensberg",
+                  "text": "Un munte în Kellerwald, cunoscut pentru dezvoltarea naturală a pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        8.95527,
+                        51.161451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wolfsgrube",
+                  "text": "A historical trapping pit in the Kellerwald, now considered an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        8.966193,
+                        51.125152
+                  ]
+            },
+            {
+                  "name": "Blei-Berg",
+                  "text": "A forested peak in the Kellerwald-Edersee National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.961462,
+                        51.146606
+                  ]
+            },
+            {
+                  "name": "Locheiche",
+                  "text": "A mountain in the Hessian Kellerwald, known for its ancient beech forests.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990359,
+                        51.141432
+                  ]
+            },
+            {
+                  "name": "Traddelkopf",
+                  "text": "The highest mountain in the Kellerwald-Edersee National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976637,
+                        51.131533
+                  ]
+            },
+            {
+                  "name": "Daudenberg",
+                  "text": "An elevation in the Kellerwald that is part of the UNESCO World Natural Heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        8.990463,
+                        51.160803
+                  ]
+            },
+            {
+                  "name": "Dürrenberg",
+                  "text": "A peak in the Kellerwald offering broad views over the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.991433,
+                        51.11531
+                  ]
+            },
+            {
+                  "name": "Ahornkopf",
+                  "text": "A mountain in the Kellerwald-Edersee National Park in northern Hesse.",
+                  "category": "landmark",
+                  "coords": [
+                        8.969762,
+                        51.128073
+                  ]
+            },
+            {
+                  "name": "Arensberg",
+                  "text": "A mountain in the Kellerwald known for its natural forest development.",
+                  "category": "landmark",
+                  "coords": [
+                        8.95527,
+                        51.161451
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-HE",
     coords: [8.967, 51.133],
@@ -63372,7 +70275,268 @@ export const pois: POI[] = [
       "tr": ["BMW Welt resmi olarak 20 Ekim 2007'de açıldı.", "Çift koninin tabandaki çapı 28 metredir.", "Çatı, 6.300 m² alan üzerinde 3.660 güneş paneli ile donatılmıştır.", "BMW Welt'te yılda yaklaşık 20.000 araç teslim edilmektedir.", "Komşu BMW Museum 1973 yılında hizmete girmiştir.", "BMW Welt yılda 3 milyondan fazla ziyaretçi ağırlamaktadır."]},
   },
   {
-    id: "landmark-nuerburgring",
+    id: "landmark-nuerburgring", "sights": {
+      "de": [
+            {
+                  "name": "Motte Kasselsburg",
+                  "text": "Eine mittelalterliche Turmhügelburg (Motte) in der Nähe des Nürburgrings in der Eifel.",
+                  "category": "castle",
+                  "coords": [
+                        6.966195,
+                        50.329811
+                  ]
+            },
+            {
+                  "name": "Nürburg",
+                  "text": "Ein Naturschutzgebiet rund um den Gipfel der Nürburg, das seltene Pflanzen- und Tierarten schützt.",
+                  "category": "natural",
+                  "coords": [
+                        6.95319,
+                        50.346562
+                  ]
+            },
+            {
+                  "name": "Quiddelbacher Höhe/Nürburgring",
+                  "text": "Ein geschütztes Naturareal am Nürburgring, bekannt für seine ökologische Bedeutung in der Eifel.",
+                  "category": "natural",
+                  "coords": [
+                        6.923713,
+                        50.346975
+                  ]
+            },
+            {
+                  "name": "ring°werk",
+                  "text": "Ein Erlebnismuseum und Freizeitpark am Nürburgring, der sich ganz der Welt des Motorsports widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        6.948197,
+                        50.33487
+                  ]
+            },
+            {
+                  "name": "Selberg",
+                  "text": "Ein markanter Berggipfel in der Eifel nahe dem Nürburgring, ein Ziel für Naturwanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.93784,
+                        50.346471
+                  ]
+            },
+            {
+                  "name": "Hasen-Berg",
+                  "text": "Ein bewaldeter Gipfel in der hügeligen Landschaft der Eifel unweit der berühmten Rennstrecke.",
+                  "category": "landmark",
+                  "coords": [
+                        6.978191,
+                        50.320996
+                  ]
+            },
+            {
+                  "name": "Gewaderköpfchen",
+                  "text": "Eine Erhebung in der Hocheifel bei Nürburg, die typisch für die vulkanische Prägung der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.948698,
+                        50.302736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Motte Kasselsburg",
+                  "text": "Középkori földvár (motte) az Eifel-hegységben, a Nürburgring közelében.",
+                  "category": "castle",
+                  "coords": [
+                        6.966195,
+                        50.329811
+                  ]
+            },
+            {
+                  "name": "Nürburg",
+                  "text": "Természetvédelmi terület a Nürburg csúcsa körül, amely ritka növény- és állatfajoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        6.95319,
+                        50.346562
+                  ]
+            },
+            {
+                  "name": "Quiddelbacher Höhe/Nürburgring",
+                  "text": "Védett természeti terület a Nürburgringnél, amely ökológiai jelentőségéről ismert az Eifel-vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        6.923713,
+                        50.346975
+                  ]
+            },
+            {
+                  "name": "ring°werk",
+                  "text": "Élménymúzeum és szabadidőpark a Nürburgringnél, amely teljes egészében az autóversenyzés világának szentelt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.948197,
+                        50.33487
+                  ]
+            },
+            {
+                  "name": "Selberg",
+                  "text": "Jellegzetes hegycsúcs az Eifel-hegységben a Nürburgring közelében, kedvelt kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        6.93784,
+                        50.346471
+                  ]
+            },
+            {
+                  "name": "Hasen-Berg",
+                  "text": "Erdős hegycsúcs az Eifel dombos táján, nem messze a híres versenypályától.",
+                  "category": "landmark",
+                  "coords": [
+                        6.978191,
+                        50.320996
+                  ]
+            },
+            {
+                  "name": "Gewaderköpfchen",
+                  "text": "Kiemelkedés a Magas-Eifelben Nürburg közelében, amely a régió vulkanikus eredetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.948698,
+                        50.302736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Motte Kasselsburg",
+                  "text": "O fortăreață medievală de tip motte situată în regiunea Eifel, în apropiere de Nürburgring.",
+                  "category": "castle",
+                  "coords": [
+                        6.966195,
+                        50.329811
+                  ]
+            },
+            {
+                  "name": "Nürburg",
+                  "text": "O rezervație naturală în jurul vârfului Nürburg, care protejează specii rare de plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        6.95319,
+                        50.346562
+                  ]
+            },
+            {
+                  "name": "Quiddelbacher Höhe/Nürburgring",
+                  "text": "O arie naturală protejată la Nürburgring, cunoscută pentru importanța sa ecologică în regiunea Eifel.",
+                  "category": "natural",
+                  "coords": [
+                        6.923713,
+                        50.346975
+                  ]
+            },
+            {
+                  "name": "ring°werk",
+                  "text": "Un muzeu interactiv și parc de distracții la Nürburgring, dedicat în întregime lumii sportului cu motor.",
+                  "category": "recreational",
+                  "coords": [
+                        6.948197,
+                        50.33487
+                  ]
+            },
+            {
+                  "name": "Selberg",
+                  "text": "Un vârf muntos proeminent în Eifel, lângă Nürburgring, o destinație pentru drumeții în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        6.93784,
+                        50.346471
+                  ]
+            },
+            {
+                  "name": "Hasen-Berg",
+                  "text": "Un vârf împădurit în peisajul deluros din Eifel, situat nu departe de celebrul circuit de curse.",
+                  "category": "landmark",
+                  "coords": [
+                        6.978191,
+                        50.320996
+                  ]
+            },
+            {
+                  "name": "Gewaderköpfchen",
+                  "text": "O colină în Eifelul Înalt, lângă Nürburg, tipică pentru originile vulcanice ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        6.948698,
+                        50.302736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Motte Kasselsburg",
+                  "text": "A medieval motte-and-bailey castle located in the Eifel region near the Nürburgring.",
+                  "category": "castle",
+                  "coords": [
+                        6.966195,
+                        50.329811
+                  ]
+            },
+            {
+                  "name": "Nürburg",
+                  "text": "A nature reserve around the Nürburg peak, protecting rare plant and animal species.",
+                  "category": "natural",
+                  "coords": [
+                        6.95319,
+                        50.346562
+                  ]
+            },
+            {
+                  "name": "Quiddelbacher Höhe/Nürburgring",
+                  "text": "A protected natural area at the Nürburgring, known for its ecological significance in the Eifel region.",
+                  "category": "natural",
+                  "coords": [
+                        6.923713,
+                        50.346975
+                  ]
+            },
+            {
+                  "name": "ring°werk",
+                  "text": "An interactive museum and theme park at the Nürburgring dedicated entirely to the world of motorsport.",
+                  "category": "recreational",
+                  "coords": [
+                        6.948197,
+                        50.33487
+                  ]
+            },
+            {
+                  "name": "Selberg",
+                  "text": "A prominent mountain peak in the Eifel near the Nürburgring, a destination for nature hikes.",
+                  "category": "landmark",
+                  "coords": [
+                        6.93784,
+                        50.346471
+                  ]
+            },
+            {
+                  "name": "Hasen-Berg",
+                  "text": "A forested peak in the hilly landscape of the Eifel, not far from the famous race track.",
+                  "category": "landmark",
+                  "coords": [
+                        6.978191,
+                        50.320996
+                  ]
+            },
+            {
+                  "name": "Gewaderköpfchen",
+                  "text": "An elevation in the High Eifel near Nürburg, typical of the region's volcanic character.",
+                  "category": "landmark",
+                  "coords": [
+                        6.948698,
+                        50.302736
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-RP",
     coords: [6.942, 50.334],
@@ -63897,7 +71061,268 @@ export const pois: POI[] = [
       "tr": ["Prens Friedrich yönetimindeki yeniden inşa süreci 1825'ten 1829'a kadar sürmüştür.", "Kale, Ren nehri su seviyesinden yaklaşık 90 metre yüksekliktedir.", "Prens Friedrich harabeyi 1823 yılında sadece 100 Taler karşılığında satın almıştır.", "Şövalye salonunda 15. yüzyıldan kalma değerli bir zırh koleksiyonu bulunmaktadır.", "Kale şapelinin kriptası 1844 yılında tamamlanmıştır.", "Kale 1975'ten beri burayı restore eden Hecher ailesinin mülkiyetindedir."]},
   },
   {
-    id: "landmark-burg-katz",
+    id: "landmark-burg-katz", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruinen einer mittelalterlichen Höhenburg oberhalb des Rheintals.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Markante Burg aus dem 14. Jahrhundert hoch über dem Rhein, bekannt für ihr charakteristisches Aussehen.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Standort einer ehemaligen mittelalterlichen Befestigungsanlage im Mittelrheintal.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Maus",
+                  "text": "Gut erhaltene mittelalterliche Burg am Rhein, historisch ein Rivale der nahe gelegenen Burg Katz.",
+                  "category": "castle",
+                  "coords": [
+                        7.69612,
+                        50.171863
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Gewaltige Burgruine in Sankt Goar, einst die größte Festungsanlage am Mittelrhein.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Einzigartige mittelalterliche Burg im Rheintal mit ungewöhnlichen Bauelementen im byzantinischen Stil.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Berühmtes Freilicht-Amphitheater auf dem Loreley-Plateau, Austragungsort bedeutender Konzerte und Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Középkori hegyi vár romjai a Rajna-völgy felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Jellegzetes 14. századi vár a Rajna felett, amely különleges megjelenéséről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Egykori középkori erődítmény helyszíne a Rajna-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Maus",
+                  "text": "Jó állapotban fennmaradt középkori vár a Rajna mentén, amely történelmileg a közeli Burg Katz riválisa volt.",
+                  "category": "castle",
+                  "coords": [
+                        7.69612,
+                        50.171863
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Hatalmas várrom Sankt Goarban, egykor a Közép-Rajna legnagyobb erődítménye.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Egyedülálló középkori vár a Rajna-völgyben, szokatlan bizánci stílusú építészeti elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Híres szabadtéri amfiteátrum a Loreley-fennsíkon, amely nagy koncerteknek és fesztiváloknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruinele unui castel medieval situat deasupra văii Rinului.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Burg Katz",
+                  "text": "Castel emblematic din secolul al XIV-lea care domină fluviul Rin, cunoscut pentru aspectul său distinctiv.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Locul unei foste fortificații medievale din zona defileului Rinului.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Burg Maus",
+                  "text": "Castel medieval bine conservat pe Rin, istoric un rival al castelului Katz din apropiere.",
+                  "category": "castle",
+                  "coords": [
+                        7.69612,
+                        50.171863
+                  ]
+            },
+            {
+                  "name": "Burg Rheinfels",
+                  "text": "Ruinele masive ale unui castel din Sankt Goar, odinioară cea mai mare fortăreață de pe Rinul Mijlociu.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Castel medieval unic în valea Rinului, cu elemente arhitecturale neobișnuite în stil bizantin.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Renumit amfiteatru în aer liber pe platoul Loreley, care găzduiește concerte și festivaluri majore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Niederburg",
+                  "text": "Ruins of a medieval hill castle situated above the Rhine valley.",
+                  "category": "castle",
+                  "coords": [
+                        7.693529,
+                        50.118451
+                  ]
+            },
+            {
+                  "name": "Katz Castle",
+                  "text": "Iconic 14th-century castle overlooking the Rhine river, known for its distinctive appearance.",
+                  "category": "castle",
+                  "coords": [
+                        7.724153,
+                        50.152111
+                  ]
+            },
+            {
+                  "name": "Burg Herzogenstein",
+                  "text": "Site of a former medieval fortification in the Rhine Gorge area.",
+                  "category": "castle",
+                  "coords": [
+                        7.736837,
+                        50.118589
+                  ]
+            },
+            {
+                  "name": "Maus Castle",
+                  "text": "Well-preserved medieval castle on the Rhine, historically a rival to nearby Katz Castle.",
+                  "category": "castle",
+                  "coords": [
+                        7.69612,
+                        50.171863
+                  ]
+            },
+            {
+                  "name": "Rheinfels Castle",
+                  "text": "Massive castle ruins in Sankt Goar, once the largest fortress on the Middle Rhine.",
+                  "category": "castle",
+                  "coords": [
+                        7.704831,
+                        50.154068
+                  ]
+            },
+            {
+                  "name": "Burg Reichenberg",
+                  "text": "Unique medieval castle in the Rhine valley, featuring unusual Byzantine-style architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        7.759981,
+                        50.158601
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne Loreley",
+                  "text": "Famous open-air amphitheater on the Loreley plateau, hosting major concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        7.73141,
+                        50.142582
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-RP",
     coords: [7.72, 50.15],
@@ -64137,7 +71562,304 @@ export const pois: POI[] = [
       "tr": ["Şelalelerin toplam yüksekliği 163 metredir.", "Su, granit kayalar üzerinden yedi ana kademede dökülür.", "İlk elektrikli aydınlatma daha 1884 yılında kurulmuştur.", "Tesisi her yıl yaklaşık 500.000 kişi ziyaret etmektedir.", "Şelaleler Gutach nehri tarafından beslenmektedir.", "Yollar kışın da yürünebilir ve genellikle görkemli buz oluşumlarıyla kaplıdır."]},
   },
   {
-    id: "mountain-zugspitzplatt",
+    id: "mountain-zugspitzplatt", "sights": {
+      "de": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Ein Erlebnismuseum auf dem Zugspitzplatt, das die Geschichte des Berges zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Ein Museum, das die Anfänge der Zugspitzbahn im Jahr 1926 dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Mit 2.962 Metern ist die Zugspitze der höchste Gipfel Deutschlands.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Ein markanter Gipfel im Wettersteingebirge neben der Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Einer der Hauptgipfel des Wettersteingebirges auf dem Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Ein Gipfel im Wettersteingebirge auf dem Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Ein Gipfel in der Nähe der Zugspitze im Wettersteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Ein markanter Berggipfel im Wettersteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Élménymúzeum a Zugspitzplatton, amely a hegy történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Múzeum, amely a Zugspitzbahn 1926-os kezdeteit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "A 2962 méter magas Zugspitze Németország legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Jellegzetes hegycsúcs a Wetterstein-hegységben, a Zugspitze mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "A Wetterstein-hegység egyik fő csúcsa a Zugspitzplatton.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Hegycsúcs a Wetterstein-hegységben, a Zugspitzplatton.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Hegycsúcs a Zugspitze közelében a Wetterstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Jellegzetes hegycsúcs a Wetterstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Un muzeu interactiv pe Zugspitzplatt care prezintă istoria muntelui.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Un muzeu care documentează începuturile căii ferate Zugspitze în 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Cu 2.962 de metri, Zugspitze este cel mai înalt vârf din Germania.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Un vârf proeminent în munții Wetterstein, lângă Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Unul dintre principalele vârfuri ale munților Wetterstein pe Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Un vârf în munții Wetterstein pe Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Un vârf în apropierea Zugspitze, în munții Wetterstein.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Un vârf muntos proeminent în munții Wetterstein.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "An interactive museum on the Zugspitzplatt showcasing the mountain's history.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "A museum documenting the early days of the Zugspitze railway in 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Standing at 2,962 metres, the Zugspitze is Germany's highest peak.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "A prominent peak in the Wetterstein mountains located next to the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "One of the main peaks of the Wetterstein mountains on the Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "A peak in the Wetterstein mountains located on the Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "A mountain peak located near the Zugspitze in the Wetterstein range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "A prominent mountain peak in the Wetterstein range.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE-BY",
     coords: [10.98, 47.41],

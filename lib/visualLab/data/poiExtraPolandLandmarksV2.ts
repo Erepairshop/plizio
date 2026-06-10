@@ -363,7 +363,304 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Zamość fut fondée en 1580 par Jan Zamoyski.", "Le tracé de la ville est l'œuvre de l'architecte italien Bernardo Morando.", "L'hôtel de ville fut initialement construit entre 1591 et 1600.", "La tour mesure 52 mètres de haut.", "L'escalier en éventail a été ajouté dans la seconde moitié du XVIIIe siècle.", "Zamość est classée au patrimoine mondial de l'UNESCO depuis 1992.", "La Grande Place du Marché mesure exactement 100 mètres sur 100.", "L'hôtel de ville n'était pas initialement prévu avec l'escalier ; Zamoyski voulait qu'aucun bâtiment ne dépasse son palais.", "Aujourd'hui, le bâtiment abrite l'administration municipale et un centre d'information touristique.", "En été, un trompettiste sonne un appel depuis la tour à midi.", "L'appel est sonné dans trois directions seulement – jamais vers Cracovie.", "La façade est ornée d'ornements de style rococo et néoclassique précoce."],
     }, image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"},
   {
-    id: "poland-niedzica-castle-landmarks-v2",
+    id: "poland-niedzica-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Dunajec",
+                  "text": "Museum in der mittelalterlichen Burg Niedzica am Czorsztyn-Stausee.",
+                  "category": "museum",
+                  "coords": [
+                        20.319623,
+                        49.422509
+                  ]
+            },
+            {
+                  "name": "Wozownia",
+                  "text": "Museum für historische Kutschen und Wagen bei der Burg Niedzica.",
+                  "category": "museum",
+                  "coords": [
+                        20.317812,
+                        49.422036
+                  ]
+            },
+            {
+                  "name": "Zamek Czorsztyn",
+                  "text": "Ruinen einer gotischen Burg mit Blick auf den Stausee.",
+                  "category": "museum",
+                  "coords": [
+                        20.313264,
+                        49.434982
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Czorsztynie",
+                  "text": "Besucherpavillon und Eingangsbereich zur Burgruine Czorsztyn.",
+                  "category": "museum",
+                  "coords": [
+                        20.333157,
+                        49.437608
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Informationszentrum und Einstiegsstelle für Floßfahrten auf dem Dunajec.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Miejsce dawnego dworu obronnego",
+                  "text": "Archäologische Stätte eines ehemaligen befestigten Adelssitzes.",
+                  "category": "historical",
+                  "coords": [
+                        20.270198,
+                        49.428289
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe der Burg Niedzica.",
+                  "category": "natural",
+                  "coords": [
+                        20.307253,
+                        49.417971
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Ein Freizeitpark mit Attraktionen in der Nähe der Burg Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nedec-Vár",
+                  "text": "Múzeum a Czorsztyni-tó partján álló középkori niedzicai várban.",
+                  "category": "museum",
+                  "coords": [
+                        20.319623,
+                        49.422509
+                  ]
+            },
+            {
+                  "name": "Wozownia",
+                  "text": "Történelmi hintókat és kocsikat bemutató múzeum a niedzicai várnál.",
+                  "category": "museum",
+                  "coords": [
+                        20.317812,
+                        49.422036
+                  ]
+            },
+            {
+                  "name": "Zamek Czorsztyn",
+                  "text": "Egy gótikus vár romjai kilátással a víztározóra.",
+                  "category": "museum",
+                  "coords": [
+                        20.313264,
+                        49.434982
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Czorsztynie",
+                  "text": "Látogatói pavilon és bejárat a czorsztyni várromhoz.",
+                  "category": "museum",
+                  "coords": [
+                        20.333157,
+                        49.437608
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Információs központ és a dunajeci tutajozás indulóállomása.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Miejsce dawnego dworu obronnego",
+                  "text": "Egy egykori erődített nemesi kúria régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        20.270198,
+                        49.428289
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny",
+                  "text": "Védett természeti terület a Nedec-vár közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.307253,
+                        49.417971
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Szórakoztatópark látnivalókkal a Nedec-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Dunajec",
+                  "text": "Muzeu în castelul medieval Niedzica, situat pe malul lacului Czorsztyn.",
+                  "category": "museum",
+                  "coords": [
+                        20.319623,
+                        49.422509
+                  ]
+            },
+            {
+                  "name": "Wozownia",
+                  "text": "Muzeu de trăsuri și care istorice lângă castelul Niedzica.",
+                  "category": "museum",
+                  "coords": [
+                        20.317812,
+                        49.422036
+                  ]
+            },
+            {
+                  "name": "Zamek Czorsztyn",
+                  "text": "Ruinele unui castel gotic cu vedere spre lacul de acumulare.",
+                  "category": "museum",
+                  "coords": [
+                        20.313264,
+                        49.434982
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Czorsztynie",
+                  "text": "Pavilion pentru vizitatori și zona de intrare la ruinele castelului Czorsztyn.",
+                  "category": "museum",
+                  "coords": [
+                        20.333157,
+                        49.437608
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Centru de informare și punct de plecare pentru plimbările cu pluta pe Dunajec.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Miejsce dawnego dworu obronnego",
+                  "text": "Sit arheologic al unui fost conac nobiliar fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        20.270198,
+                        49.428289
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny",
+                  "text": "O arie naturală protejată situată în apropierea castelului Niedzica.",
+                  "category": "natural",
+                  "coords": [
+                        20.307253,
+                        49.417971
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "Un parc tematic cu atracții situat lângă castelul Niedzica.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek Dunajec",
+                  "text": "Museum in the medieval Niedzica Castle on the shores of Lake Czorsztyn.",
+                  "category": "museum",
+                  "coords": [
+                        20.319623,
+                        49.422509
+                  ]
+            },
+            {
+                  "name": "Wozownia",
+                  "text": "Museum of historic carriages and wagons at Niedzica Castle.",
+                  "category": "museum",
+                  "coords": [
+                        20.317812,
+                        49.422036
+                  ]
+            },
+            {
+                  "name": "Zamek Czorsztyn",
+                  "text": "Ruins of a Gothic castle overlooking the reservoir.",
+                  "category": "museum",
+                  "coords": [
+                        20.313264,
+                        49.434982
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Czorsztynie",
+                  "text": "Visitor pavilion and entrance area to the Czorsztyn castle ruins.",
+                  "category": "museum",
+                  "coords": [
+                        20.333157,
+                        49.437608
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Information center and starting point for rafting trips on the Dunajec.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Miejsce dawnego dworu obronnego",
+                  "text": "Archaeological site of a former fortified noble manor.",
+                  "category": "historical",
+                  "coords": [
+                        20.270198,
+                        49.428289
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny",
+                  "text": "A protected natural area located near Niedzica Castle.",
+                  "category": "natural",
+                  "coords": [
+                        20.307253,
+                        49.417971
+                  ]
+            },
+            {
+                  "name": "Spiska Kraina",
+                  "text": "A theme park with attractions located near Niedzica Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.316798,
+                        49.417138
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle"},
@@ -543,7 +840,304 @@ export const polandLandmarksV2: POI[] = [
       fr: ["La peinture a été initialement créée pour Lemberg (aujourd'hui Lviv, Ukraine).", "Elle fut dévoilée en 1894 à l'occasion du 100e anniversaire de la bataille.", "Les travaux sur la peinture ont duré neuf mois.", "Après la Seconde Guerre mondiale, la peinture fut transférée à Wroclaw.", "En raison de tensions politiques, elle ne fut rouverte au public à Wroclaw qu'en 1985.", "Le bâtiment abritant le panorama a été conçu spécifiquement à cet effet.", "C'est l'un des rares exemples conservés de peinture panoramique du XIXe siècle.", "Tadeusz Kościuszko, le chef de la bataille, est représenté de manière proéminente.", "Les 'Paysans de Wojciech Kossak' constituent un groupe de personnages célèbre du tableau.", "L'illusion de profondeur est créée par une combinaison de peinture et d'objets physiques.", "La toile a été fabriquée en Belgique d'un seul tenant.", "Chaque année, des centaines de milliers de personnes visitent le panorama."],
     }, image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"},
   {
-    id: "poland-ogrodzieniec-castle-landmarks-v2",
+    id: "poland-ogrodzieniec-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pustynia Ryczowska (w większości zarośnięta)",
+                  "text": "Ein Naturschutzgebiet mit Binnendünen, die heute größtenteils bewaldet sind.",
+                  "category": "natural",
+                  "coords": [
+                        19.577107,
+                        50.423503
+                  ]
+            },
+            {
+                  "name": "Zamek Ogrodzieniec",
+                  "text": "Die imposante Ruine einer mittelalterlichen Höhenburg auf dem Krakau-Tschenstochauer Jura.",
+                  "category": "castle",
+                  "coords": [
+                        19.553004,
+                        50.453194
+                  ]
+            },
+            {
+                  "name": "Park Miniatur",
+                  "text": "Ein Freizeitpark mit Miniaturmodellen bedeutender regionaler Burgen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.550401,
+                        50.453476
+                  ]
+            },
+            {
+                  "name": "Gród na Górze Birów",
+                  "text": "Ein Freilichtmuseum mit einer rekonstruierten slawischen Siedlung auf dem Birów-Berg.",
+                  "category": "museum",
+                  "coords": [
+                        19.55149,
+                        50.464238
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "Der höchste Gipfel des Krakau-Tschenstochauer Jura, Standort der Burg Ogrodzieniec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.553329,
+                        50.451542
+                  ]
+            },
+            {
+                  "name": "Baszta Kredencerska",
+                  "text": "Ein Turm der Burg Ogrodzieniec, der als Aussichtspunkt auf die Umgebung dient.",
+                  "category": "natural",
+                  "coords": [
+                        19.552045,
+                        50.452987
+                  ]
+            },
+            {
+                  "name": "Okiennik",
+                  "text": "Eine markante Felsformation mit einem natürlichen Felsentor nahe der Burg.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554561,
+                        50.453817
+                  ]
+            },
+            {
+                  "name": "Galeria Motoryzacji",
+                  "text": "Eine Galerie, die historische Fahrzeuge und motorbezogene Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.547964,
+                        50.455109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pustynia Ryczowska (w większości zarośnięta)",
+                  "text": "Természetvédelmi terület belső dűnékkel, amelyek mára nagyrészt beerdősültek.",
+                  "category": "natural",
+                  "coords": [
+                        19.577107,
+                        50.423503
+                  ]
+            },
+            {
+                  "name": "Zamek Ogrodzieniec",
+                  "text": "Egy impozáns középkori várrom a Krakkó-Częstochowa-felföldön.",
+                  "category": "castle",
+                  "coords": [
+                        19.553004,
+                        50.453194
+                  ]
+            },
+            {
+                  "name": "Park Miniatur",
+                  "text": "Vidámpark jelentős regionális várak miniatűr modelljeivel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.550401,
+                        50.453476
+                  ]
+            },
+            {
+                  "name": "Gród na Górze Birów",
+                  "text": "Szabadtéri múzeum rekonstruált szláv településsel a Birów-hegyen.",
+                  "category": "museum",
+                  "coords": [
+                        19.55149,
+                        50.464238
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "A Krakkó-Częstochowa-felföld legmagasabb pontja, az Ogrodzieniec vár helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        19.553329,
+                        50.451542
+                  ]
+            },
+            {
+                  "name": "Baszta Kredencerska",
+                  "text": "Az ogrodzienieci vár egyik tornya, amely kilátóként szolgál a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        19.552045,
+                        50.452987
+                  ]
+            },
+            {
+                  "name": "Okiennik",
+                  "text": "Jellegzetes sziklaképződmény természetes sziklakapuval a vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554561,
+                        50.453817
+                  ]
+            },
+            {
+                  "name": "Galeria Motoryzacji",
+                  "text": "Galéria, amely történelmi járműveket és motorizációval kapcsolatos kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.547964,
+                        50.455109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pustynia Ryczowska (w większości zarośnięta)",
+                  "text": "O rezervație naturală cu dune interioare, care astăzi sunt în mare parte împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        19.577107,
+                        50.423503
+                  ]
+            },
+            {
+                  "name": "Zamek Ogrodzieniec",
+                  "text": "Ruinele impunătoare ale unui castel medieval situat în Podișul Cracovia-Częstochowa.",
+                  "category": "castle",
+                  "coords": [
+                        19.553004,
+                        50.453194
+                  ]
+            },
+            {
+                  "name": "Park Miniatur",
+                  "text": "Un parc tematic cu machete în miniatură ale unor castele regionale importante.",
+                  "category": "recreational",
+                  "coords": [
+                        19.550401,
+                        50.453476
+                  ]
+            },
+            {
+                  "name": "Gród na Górze Birów",
+                  "text": "Un muzeu în aer liber cu o așezare slavă reconstruită pe muntele Birów.",
+                  "category": "museum",
+                  "coords": [
+                        19.55149,
+                        50.464238
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "Cel mai înalt vârf din Podișul Cracovia-Częstochowa, locul unde se află castelul Ogrodzieniec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.553329,
+                        50.451542
+                  ]
+            },
+            {
+                  "name": "Baszta Kredencerska",
+                  "text": "Un turn al castelului Ogrodzieniec, care servește drept punct de belvedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        19.552045,
+                        50.452987
+                  ]
+            },
+            {
+                  "name": "Okiennik",
+                  "text": "O formațiune stâncoasă distinctivă cu o poartă naturală de piatră lângă castel.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554561,
+                        50.453817
+                  ]
+            },
+            {
+                  "name": "Galeria Motoryzacji",
+                  "text": "O galerie care expune vehicule istorice și exponate legate de motorizare.",
+                  "category": "museum",
+                  "coords": [
+                        19.547964,
+                        50.455109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pustynia Ryczowska (w większości zarośnięta)",
+                  "text": "A nature reserve featuring inland dunes that are now mostly overgrown with forest.",
+                  "category": "natural",
+                  "coords": [
+                        19.577107,
+                        50.423503
+                  ]
+            },
+            {
+                  "name": "Zamek Ogrodzieniec",
+                  "text": "The imposing ruins of a medieval castle on the Kraków-Częstochowa Upland.",
+                  "category": "castle",
+                  "coords": [
+                        19.553004,
+                        50.453194
+                  ]
+            },
+            {
+                  "name": "Park Miniatur",
+                  "text": "A theme park featuring miniature models of significant regional castles.",
+                  "category": "recreational",
+                  "coords": [
+                        19.550401,
+                        50.453476
+                  ]
+            },
+            {
+                  "name": "Gród na Górze Birów",
+                  "text": "An open-air museum featuring a reconstructed Slavic settlement on Birów Hill.",
+                  "category": "museum",
+                  "coords": [
+                        19.55149,
+                        50.464238
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "The highest peak of the Kraków-Częstochowa Upland, site of Ogrodzieniec Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.553329,
+                        50.451542
+                  ]
+            },
+            {
+                  "name": "Baszta Kredencerska",
+                  "text": "A tower of Ogrodzieniec Castle that serves as a viewpoint over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        19.552045,
+                        50.452987
+                  ]
+            },
+            {
+                  "name": "Okiennik",
+                  "text": "A distinctive rock formation with a natural rock window located near the castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554561,
+                        50.453817
+                  ]
+            },
+            {
+                  "name": "Galeria Motoryzacji",
+                  "text": "A gallery displaying historic vehicles and motor-related exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        19.547964,
+                        50.455109
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "ruins",
     name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle"},
@@ -588,7 +1182,304 @@ export const polandLandmarksV2: POI[] = [
       fr: ["La première forteresse sur ce site fut construite sous le roi Casimir le Grand.", "Au XVIe siècle, il fut reconstruit en style Renaissance par la famille Boner.", "Le château fut pillé et incendié par les Suédois en 1655.", "Les ruines sont ouvertes au public et proposent plusieurs itinéraires touristiques.", "Le château se trouve sur le mont Janowski, point culminant du Jura (516 m d'altitude).", "On raconte que le château est hanté par le 'Chien Noir d'Ogrodzieniec'.", "Certaines parties du château ont été taillées dans le calcaire local.", "Les ruines s'étendent sur une superficie d'environ 32 hectares.", "Le château a servi de lieu de tournage pour la série Netflix 'The Witcher'.", "En été, des tournois de chevaliers et d'autres événements historiques y sont organisés.", "Les murs épais et les tours témoignent de son ancienne puissance militaire.", "Il fait partie du parc paysager des Nids d'Aigle."],
     }, image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"},
   {
-    id: "poland-czocha-castle-landmarks-v2",
+    id: "poland-czocha-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pałac w Kościelnikach Górnych",
+                  "text": "Ein barockes Schloss in der Nähe der Burg Tzschocha in Niederschlesien.",
+                  "category": "castle",
+                  "coords": [
+                        15.27713,
+                        51.049877
+                  ]
+            },
+            {
+                  "name": "Neidburg",
+                  "text": "Eine neugotische Burgruine in der Nähe von Leśna.",
+                  "category": "castle",
+                  "coords": [
+                        15.332389,
+                        51.033795
+                  ]
+            },
+            {
+                  "name": "Burg Tzschocha",
+                  "text": "Eine berühmte mittelalterliche Verteidigungsburg in Niederschlesien.",
+                  "category": "castle",
+                  "coords": [
+                        15.303603,
+                        51.030651
+                  ]
+            },
+            {
+                  "name": "Muzeum Przedzamcza",
+                  "text": "Ein Museum, das sich in den Vorhofgebäuden der Burg Tzschocha befindet.",
+                  "category": "museum",
+                  "coords": [
+                        15.302356,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Grodzisko Leśna",
+                  "text": "Eine archäologische Ausgrabungsstätte einer historischen Befestigung bei Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.275631,
+                        51.016999
+                  ]
+            },
+            {
+                  "name": "Pałac w Leśnej",
+                  "text": "Die Überreste eines historischen Palastes in Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.262715,
+                        51.033006
+                  ]
+            },
+            {
+                  "name": "Orle Skały",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.279658,
+                        51.031043
+                  ]
+            },
+            {
+                  "name": "Sosenka",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe der Burg Tzschocha.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304976,
+                        51.031666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pałac w Kościelnikach Górnych",
+                  "text": "Barokk kastély Alsó-Sziléziában, a Czocha-vár közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.27713,
+                        51.049877
+                  ]
+            },
+            {
+                  "name": "Zamek Rajsko",
+                  "text": "Neogótikus várrom Leśna közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.332389,
+                        51.033795
+                  ]
+            },
+            {
+                  "name": "Zamek Czocha",
+                  "text": "Híres középkori védelmi vár Alsó-Sziléziában.",
+                  "category": "castle",
+                  "coords": [
+                        15.303603,
+                        51.030651
+                  ]
+            },
+            {
+                  "name": "Muzeum Przedzamcza",
+                  "text": "A Czocha-vár elővárában található múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.302356,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Grodzisko Leśna",
+                  "text": "Történelmi erődítmény régészeti lelőhelye Leśna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.275631,
+                        51.016999
+                  ]
+            },
+            {
+                  "name": "Pałac w Leśnej",
+                  "text": "Egy történelmi palota maradványai Leśna városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.262715,
+                        51.033006
+                  ]
+            },
+            {
+                  "name": "Orle Skały",
+                  "text": "Kilátópont, amely széles panorámát kínál a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.279658,
+                        51.031043
+                  ]
+            },
+            {
+                  "name": "Sosenka",
+                  "text": "Helyi látnivaló a Czocha-vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304976,
+                        51.031666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pałac w Kościelnikach Górnych",
+                  "text": "Un palat baroc situat în Silezia Inferioară, în apropierea castelului Czocha.",
+                  "category": "castle",
+                  "coords": [
+                        15.27713,
+                        51.049877
+                  ]
+            },
+            {
+                  "name": "Zamek Rajsko",
+                  "text": "O ruină de castel neogotic situată în apropiere de Leśna.",
+                  "category": "castle",
+                  "coords": [
+                        15.332389,
+                        51.033795
+                  ]
+            },
+            {
+                  "name": "Zamek Czocha",
+                  "text": "Un faimos castel defensiv medieval din Silezia Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.303603,
+                        51.030651
+                  ]
+            },
+            {
+                  "name": "Muzeum Przedzamcza",
+                  "text": "Un muzeu situat în clădirile exterioare ale castelului Czocha.",
+                  "category": "museum",
+                  "coords": [
+                        15.302356,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Grodzisko Leśna",
+                  "text": "Un sit arheologic al unei fortificații istorice de lângă Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.275631,
+                        51.016999
+                  ]
+            },
+            {
+                  "name": "Pałac w Leśnej",
+                  "text": "Resturile unui palat istoric situat în Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.262715,
+                        51.033006
+                  ]
+            },
+            {
+                  "name": "Orle Skały",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.279658,
+                        51.031043
+                  ]
+            },
+            {
+                  "name": "Sosenka",
+                  "text": "O atracție locală situată în apropierea castelului Czocha.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304976,
+                        51.031666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pałac w Kościelnikach Górnych",
+                  "text": "A Baroque palace located in Lower Silesia near Czocha Castle.",
+                  "category": "castle",
+                  "coords": [
+                        15.27713,
+                        51.049877
+                  ]
+            },
+            {
+                  "name": "Zamek Rajsko",
+                  "text": "A neo-Gothic castle ruin located near Leśna.",
+                  "category": "castle",
+                  "coords": [
+                        15.332389,
+                        51.033795
+                  ]
+            },
+            {
+                  "name": "Czocha Castle",
+                  "text": "A famous medieval defensive castle in Lower Silesia.",
+                  "category": "castle",
+                  "coords": [
+                        15.303603,
+                        51.030651
+                  ]
+            },
+            {
+                  "name": "Muzeum Przedzamcza",
+                  "text": "A museum located in the outer bailey buildings of Czocha Castle.",
+                  "category": "museum",
+                  "coords": [
+                        15.302356,
+                        51.029522
+                  ]
+            },
+            {
+                  "name": "Grodzisko Leśna",
+                  "text": "An archaeological site of a historical fortification near Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.275631,
+                        51.016999
+                  ]
+            },
+            {
+                  "name": "Pałac w Leśnej",
+                  "text": "The remains of a historical palace in Leśna.",
+                  "category": "historical",
+                  "coords": [
+                        15.262715,
+                        51.033006
+                  ]
+            },
+            {
+                  "name": "Orle Skały",
+                  "text": "A viewpoint offering scenic views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.279658,
+                        51.031043
+                  ]
+            },
+            {
+                  "name": "Sosenka",
+                  "text": "A local attraction situated near Czocha Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304976,
+                        51.031666
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle"},
@@ -643,6 +1534,69 @@ export const polandLandmarksV2: POI[] = [
                         17.736297,
                         50.434819
                   ]
+            },
+            {
+                  "name": "Ruiny zamku książąt opolskich",
+                  "text": "Ruinen einer historischen Burg der Herzöge von Oppeln in der Nähe von Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.737061,
+                        50.465194
+                  ]
+            },
+            {
+                  "name": "Schloss Moschen",
+                  "text": "Ein berühmtes Schloss in Moszna, das für seine eklektische Architektur und 99 Türme bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        17.7679,
+                        50.440724
+                  ]
+            },
+            {
+                  "name": "Grodzisko VIII-X w.",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Moszna mit Überresten einer Siedlung aus dem 8. bis 10. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.766261,
+                        50.457442
+                  ]
+            },
+            {
+                  "name": "Fabryka Robotów",
+                  "text": "Ein einzigartiges Museum in Moszna, das Kunstwerke aus Metallschrott ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.767168,
+                        50.435085
+                  ]
+            },
+            {
+                  "name": "Pałac rodziny von Thiele-Winckler",
+                  "text": "Ein historisches Schloss der Familie von Thiele-Winckler in Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.803025,
+                        50.442163
+                  ]
+            },
+            {
+                  "name": "Kościół filialny Niepokalanego Serca Maryi",
+                  "text": "Eine katholische Filialkirche in Moszna, die dem Unbefleckten Herzen Mariens geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.766804,
+                        50.436765
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Trójcy Świętej",
+                  "text": "Die katholische Pfarrkirche der Heiligen Dreifaltigkeit in der Region Moszna.",
+                  "category": "religious",
+                  "coords": [
+                        17.804351,
+                        50.442265
+                  ]
             }
       ],
       "hu": [
@@ -653,6 +1607,69 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         17.736297,
                         50.434819
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku książąt opolskich",
+                  "text": "Az opolei hercegek történelmi várának romjai Moszna közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.737061,
+                        50.465194
+                  ]
+            },
+            {
+                  "name": "Zamek Moszna",
+                  "text": "Híres kastély Mosznában, amely eklektikus építészetéről és 99 tornyáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        17.7679,
+                        50.440724
+                  ]
+            },
+            {
+                  "name": "Grodzisko VIII-X w.",
+                  "text": "Régészeti lelőhely Moszna közelében egy 8–10. századi település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.766261,
+                        50.457442
+                  ]
+            },
+            {
+                  "name": "Fabryka Robotów",
+                  "text": "Egyedülálló múzeum Mosznában, amely fémhulladékból készült műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.767168,
+                        50.435085
+                  ]
+            },
+            {
+                  "name": "Pałac rodziny von Thiele-Winckler",
+                  "text": "A von Thiele-Winckler család történelmi kastélya Mosznában.",
+                  "category": "castle",
+                  "coords": [
+                        17.803025,
+                        50.442163
+                  ]
+            },
+            {
+                  "name": "Kościół filialny Niepokalanego Serca Maryi",
+                  "text": "Római katolikus fióktemplom Mosznában, amelyet Szűz Mária Szeplőtelen Szívének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.766804,
+                        50.436765
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Trójcy Świętej",
+                  "text": "A Szentháromságnak szentelt római katolikus plébániatemplom Moszna környékén.",
+                  "category": "religious",
+                  "coords": [
+                        17.804351,
+                        50.442265
                   ]
             }
       ],
@@ -665,6 +1682,69 @@ export const polandLandmarksV2: POI[] = [
                         17.736297,
                         50.434819
                   ]
+            },
+            {
+                  "name": "Ruiny zamku książąt opolskich",
+                  "text": "Ruinele unui castel istoric al ducilor de Opole situat în apropiere de Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.737061,
+                        50.465194
+                  ]
+            },
+            {
+                  "name": "Zamek Moszna",
+                  "text": "Un castel faimos din Moszna, cunoscut pentru arhitectura sa eclectică și cele 99 de turnuri.",
+                  "category": "castle",
+                  "coords": [
+                        17.7679,
+                        50.440724
+                  ]
+            },
+            {
+                  "name": "Grodzisko VIII-X w.",
+                  "text": "Un sit arheologic lângă Moszna, cuprinzând vestigiile unei așezări din secolele VIII-X.",
+                  "category": "historical",
+                  "coords": [
+                        17.766261,
+                        50.457442
+                  ]
+            },
+            {
+                  "name": "Fabryka Robotów",
+                  "text": "Un muzeu inedit din Moszna care expune opere de artă realizate din deșeuri metalice.",
+                  "category": "museum",
+                  "coords": [
+                        17.767168,
+                        50.435085
+                  ]
+            },
+            {
+                  "name": "Pałac rodziny von Thiele-Winckler",
+                  "text": "Un castel istoric al familiei von Thiele-Winckler situat în Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.803025,
+                        50.442163
+                  ]
+            },
+            {
+                  "name": "Kościół filialny Niepokalanego Serca Maryi",
+                  "text": "O biserică filială catolică din Moszna, dedicată Inimii Neprihănite a Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        17.766804,
+                        50.436765
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Trójcy Świętej",
+                  "text": "Biserica parohială catolică Sfânta Treime situată în zona localității Moszna.",
+                  "category": "religious",
+                  "coords": [
+                        17.804351,
+                        50.442265
+                  ]
             }
       ],
       "en": [
@@ -675,6 +1755,69 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         17.736297,
                         50.434819
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku książąt opolskich",
+                  "text": "Ruins of a historic castle belonging to the Dukes of Opole near Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.737061,
+                        50.465194
+                  ]
+            },
+            {
+                  "name": "Moszna Castle",
+                  "text": "A famous castle in Moszna known for its eclectic architecture and 99 towers.",
+                  "category": "castle",
+                  "coords": [
+                        17.7679,
+                        50.440724
+                  ]
+            },
+            {
+                  "name": "Grodzisko VIII-X w.",
+                  "text": "An archaeological site near Moszna featuring remains of a settlement from the 8th to 10th centuries.",
+                  "category": "historical",
+                  "coords": [
+                        17.766261,
+                        50.457442
+                  ]
+            },
+            {
+                  "name": "Museum Of Scrap Sculpture",
+                  "text": "A unique museum in Moszna exhibiting artworks made from scrap metal.",
+                  "category": "museum",
+                  "coords": [
+                        17.767168,
+                        50.435085
+                  ]
+            },
+            {
+                  "name": "Pałac rodziny von Thiele-Winckler",
+                  "text": "A historic castle of the von Thiele-Winckler family located in Moszna.",
+                  "category": "castle",
+                  "coords": [
+                        17.803025,
+                        50.442163
+                  ]
+            },
+            {
+                  "name": "Kościół filialny Niepokalanego Serca Maryi",
+                  "text": "A Catholic filial church in Moszna dedicated to the Immaculate Heart of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        17.766804,
+                        50.436765
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Trójcy Świętej",
+                  "text": "The Catholic parish church of the Holy Trinity in the Moszna area.",
+                  "category": "religious",
+                  "coords": [
+                        17.804351,
+                        50.442265
                   ]
             }
       ]
@@ -724,7 +1867,268 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Le château possède exactement 99 tours et tourelles architecturales.", "Il compte un total de 365 pièces pour une surface utile de 8 000 mètres carrés.", "La partie centrale baroque a été reconstruite après le grand incendie de 1896.", "L'aile est néo-gothique a été achevée en 1900.", "La construction de l'aile ouest de style néo-Renaissance s'est terminée en 1914.", "A servi pendant des décennies après la Seconde Guerre mondiale de sanatorium pour maladies nerveuses.", "L'empereur Guillaume II a visité la résidence à plusieurs reprises pour chasser.", "L'immense parc du château s'étend sur une superficie d'environ 200 hectares."],
     }, image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"},
   {
-    id: "poland-kornik-castle-landmarks-v2",
+    id: "poland-kornik-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek w Kórniku",
+                  "text": "Ein historisches Schloss mit einer bedeutenden Sammlung von Kunst und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        17.090903,
+                        52.244034
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Archäologische Überreste einer mittelalterlichen slawischen Festung.",
+                  "category": "historical",
+                  "coords": [
+                        17.101524,
+                        52.226714
+                  ]
+            },
+            {
+                  "name": "Arboretum Kórnickie",
+                  "text": "Eines der ältesten und größten Arboreten Polens mit zahlreichen Baumarten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.09326,
+                        52.242179
+                  ]
+            },
+            {
+                  "name": "Aleja Lipowa generałowej Zamoyskiej",
+                  "text": "Eine lange Allee aus historischen Linden, die zum Schloss führt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.095169,
+                        52.243491
+                  ]
+            },
+            {
+                  "name": "Cisowe Komnaty",
+                  "text": "Ein spezieller Gartenbereich mit geformten Eiben innerhalb des Arboretums.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090366,
+                        52.241066
+                  ]
+            },
+            {
+                  "name": "Azalie i Różaneczniki",
+                  "text": "Eine farbenfrohe Sammlung von Azaleen und Rhododendren in den Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090811,
+                        52.242459
+                  ]
+            },
+            {
+                  "name": "Polana edukacyjna im. prof. T. Przybylskiego",
+                  "text": "Eine Bildungslichtung im Park, die für Natur- und Waldpädagogik genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        17.094151,
+                        52.240436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Kórniku",
+                  "text": "Történelmi vár, amely jelentős művészeti és történelmi gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.090903,
+                        52.244034
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Egy középkori szláv erődítmény régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        17.101524,
+                        52.226714
+                  ]
+            },
+            {
+                  "name": "Arboretum Kórnickie",
+                  "text": "Lengyelország egyik legrégebbi és legnagyobb arborétuma, számos fafajjal.",
+                  "category": "landmark",
+                  "coords": [
+                        17.09326,
+                        52.242179
+                  ]
+            },
+            {
+                  "name": "Aleja Lipowa generałowej Zamoyskiej",
+                  "text": "Történelmi hársfákból álló hosszú sor, amely a várhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.095169,
+                        52.243491
+                  ]
+            },
+            {
+                  "name": "Cisowe Komnaty",
+                  "text": "Speciális kertrész formára nyírt tiszafákkal az arborétumban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090366,
+                        52.241066
+                  ]
+            },
+            {
+                  "name": "Azalie i Różaneczniki",
+                  "text": "Azáleák és rododendronok élénk gyűjteménye a várkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090811,
+                        52.242459
+                  ]
+            },
+            {
+                  "name": "Polana edukacyjna im. prof. T. Przybylskiego",
+                  "text": "Oktatási tisztás a parkban, amelyet természetismereti tanításra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.094151,
+                        52.240436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Kórniku",
+                  "text": "Un castel istoric care găzduiește o colecție semnificativă de artă și obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        17.090903,
+                        52.244034
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Vestigii arheologice ale unei fortărețe slave medievale.",
+                  "category": "historical",
+                  "coords": [
+                        17.101524,
+                        52.226714
+                  ]
+            },
+            {
+                  "name": "Arboretum Kórnickie",
+                  "text": "Unul dintre cele mai vechi și mai mari arboretumuri din Polonia, cu numeroase specii de arbori.",
+                  "category": "landmark",
+                  "coords": [
+                        17.09326,
+                        52.242179
+                  ]
+            },
+            {
+                  "name": "Aleja Lipowa generałowej Zamoyskiej",
+                  "text": "O alee lungă de tei istorici care duce spre castel.",
+                  "category": "landmark",
+                  "coords": [
+                        17.095169,
+                        52.243491
+                  ]
+            },
+            {
+                  "name": "Cisowe Komnaty",
+                  "text": "O zonă de grădină specializată, cu tise modelate în cadrul arboretumului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090366,
+                        52.241066
+                  ]
+            },
+            {
+                  "name": "Azalie i Różaneczniki",
+                  "text": "O colecție vibrantă de azalee și rododendroni în cadrul grădinilor.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090811,
+                        52.242459
+                  ]
+            },
+            {
+                  "name": "Polana edukacyjna im. prof. T. Przybylskiego",
+                  "text": "O poiană educațională din parc folosită pentru învățarea despre natură și pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        17.094151,
+                        52.240436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek w Kórniku",
+                  "text": "A historic castle housing a significant collection of art and historical items.",
+                  "category": "museum",
+                  "coords": [
+                        17.090903,
+                        52.244034
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Archaeological remains of a medieval Slavic stronghold.",
+                  "category": "historical",
+                  "coords": [
+                        17.101524,
+                        52.226714
+                  ]
+            },
+            {
+                  "name": "Arboretum Kórnickie",
+                  "text": "One of the oldest and largest arboretums in Poland, with many tree species.",
+                  "category": "landmark",
+                  "coords": [
+                        17.09326,
+                        52.242179
+                  ]
+            },
+            {
+                  "name": "Aleja Lipowa generałowej Zamoyskiej",
+                  "text": "A long alley of historic lime trees leading towards the castle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.095169,
+                        52.243491
+                  ]
+            },
+            {
+                  "name": "Cisowe Komnaty",
+                  "text": "A specialized garden area featuring shaped yew trees in the arboretum.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090366,
+                        52.241066
+                  ]
+            },
+            {
+                  "name": "Azalie i Różaneczniki",
+                  "text": "A vibrant collection of azaleas and rhododendrons within the gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        17.090811,
+                        52.242459
+                  ]
+            },
+            {
+                  "name": "Polana edukacyjna im. prof. T. Przybylskiego",
+                  "text": "An educational clearing in the park used for nature and forest learning.",
+                  "category": "landmark",
+                  "coords": [
+                        17.094151,
+                        52.240436
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle"},
@@ -814,7 +2218,268 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Le bâtiment a servi pour la première fois dans les années 1350 de siège à la confrérie de Saint-Georges.", "Après un incendie, il fut reconstruit sous sa forme actuelle en 1476.", "La façade maniériste a été conçue en 1616 par Abraham van den Blocke.", "La Grande Salle fait 400 mètres carrés et est soutenue par trois colonnes.", "Le poêle en faïence Renaissance de Georg Stelzner (1545) mesure 10,64 mètres de haut.", "Le poêle se compose d'exactement 520 carreaux peints à la main et richement décorés.", "De nombreuses maquettes de navires sont suspendues au plafond comme ex-voto historiques.", "Détruit pendant la Seconde Guerre mondiale, il a été restauré avec soin par la suite."],
     }, image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"},
   {
-    id: "poland-pieskowa-skala-castle-landmarks-v2",
+    id: "poland-pieskowa-skala-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peskenstein",
+                  "text": "Ein gut erhaltenes Renaissanceschloss im Ojców-Nationalpark, das auf einem Kalksteinfelsen thront.",
+                  "category": "castle",
+                  "coords": [
+                        19.780168,
+                        50.244186
+                  ]
+            },
+            {
+                  "name": "Grodzisko w Sułoszowej",
+                  "text": "Überreste einer mittelalterlichen Befestigungsanlage in der Nähe des Schlosses Pieskowa Skała.",
+                  "category": "castle",
+                  "coords": [
+                        19.774307,
+                        50.247828
+                  ]
+            },
+            {
+                  "name": "Herkuleskeule",
+                  "text": "Eine markante, 25 Meter hohe Kalksteinfelsformation in Form einer Keule nahe dem Schloss.",
+                  "category": "landmark",
+                  "coords": [
+                        19.783,
+                        50.242892
+                  ]
+            },
+            {
+                  "name": "Napoleon",
+                  "text": "Eine markante Felsformation im Ojców-Nationalpark in der Umgebung von Schloss Pieskowa Skała.",
+                  "category": "landmark",
+                  "coords": [
+                        19.785211,
+                        50.242642
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "Eine historische Kapelle, die dem heiligen Johannes dem Täufer geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.759398,
+                        50.216609
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Eine historische Holzkirche, die der heiligen Katharina geweiht ist und im Dorf Sąspów steht.",
+                  "category": "religious",
+                  "coords": [
+                        19.772446,
+                        50.223248
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Miłosierdzia Bożego w Woli Kalinowskiej",
+                  "text": "Eine moderne katholische Kapelle in Wola Kalinowska, die der Barmherzigkeit Gottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.808436,
+                        50.228627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Pieskowa Skała",
+                  "text": "Jó állapotban fennmaradt reneszánsz vár az Ojcówi Nemzeti Parkban, amely egy mészkősziklán magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        19.780168,
+                        50.244186
+                  ]
+            },
+            {
+                  "name": "Grodzisko w Sułoszowej",
+                  "text": "Középkori erődítmény maradványai Pieskowa Skała vára közelében.",
+                  "category": "castle",
+                  "coords": [
+                        19.774307,
+                        50.247828
+                  ]
+            },
+            {
+                  "name": "Maczuga Herkulesa",
+                  "text": "Jellegzetes, 25 méter magas, buzogány alakú mészkőszikla a vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.783,
+                        50.242892
+                  ]
+            },
+            {
+                  "name": "Napoleon",
+                  "text": "Jellegzetes sziklaalakzat az Ojcówi Nemzeti Parkban, Pieskowa Skała vára környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.785211,
+                        50.242642
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "Keresztelő Szent Jánosnak szentelt történelmi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        19.759398,
+                        50.216609
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Szent Katalinnak szentelt történelmi fatemplom Sąspów faluban.",
+                  "category": "religious",
+                  "coords": [
+                        19.772446,
+                        50.223248
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Miłosierdzia Bożego w Woli Kalinowskiej",
+                  "text": "Az Isteni Irgalmasságnak szentelt modern katolikus kápolna Wola Kalinowskában.",
+                  "category": "religious",
+                  "coords": [
+                        19.808436,
+                        50.228627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Pieskowa Skała",
+                  "text": "Un castel renascentist bine conservat în Parcul Național Ojców, situat pe o stâncă de calcar.",
+                  "category": "castle",
+                  "coords": [
+                        19.780168,
+                        50.244186
+                  ]
+            },
+            {
+                  "name": "Grodzisko w Sułoszowej",
+                  "text": "Rămășițele unei fortificații medievale situate în apropierea castelului Pieskowa Skała.",
+                  "category": "castle",
+                  "coords": [
+                        19.774307,
+                        50.247828
+                  ]
+            },
+            {
+                  "name": "Maczuga Herkulesa",
+                  "text": "O formațiune stâncoasă de calcar distinctivă, înaltă de 25 de metri, în formă de măciucă, lângă castel.",
+                  "category": "landmark",
+                  "coords": [
+                        19.783,
+                        50.242892
+                  ]
+            },
+            {
+                  "name": "Napoleon",
+                  "text": "O formațiune stâncoasă proeminentă în Parcul Național Ojców, în zona castelului Pieskowa Skała.",
+                  "category": "landmark",
+                  "coords": [
+                        19.785211,
+                        50.242642
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "O capelă istorică dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        19.759398,
+                        50.216609
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "O biserică istorică din lemn dedicată Sfintei Ecaterina, situată în satul Sąspów.",
+                  "category": "religious",
+                  "coords": [
+                        19.772446,
+                        50.223248
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Miłosierdzia Bożego w Woli Kalinowskiej",
+                  "text": "O capelă catolică modernă din Wola Kalinowska dedicată Divinei Milostiviri.",
+                  "category": "religious",
+                  "coords": [
+                        19.808436,
+                        50.228627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek Pieskowa Skała",
+                  "text": "A well-preserved Renaissance castle in the Ojców National Park, perched on a limestone cliff.",
+                  "category": "castle",
+                  "coords": [
+                        19.780168,
+                        50.244186
+                  ]
+            },
+            {
+                  "name": "Grodzisko w Sułoszowej",
+                  "text": "Remains of a medieval fortification located near the Pieskowa Skała Castle.",
+                  "category": "castle",
+                  "coords": [
+                        19.774307,
+                        50.247828
+                  ]
+            },
+            {
+                  "name": "Maczuga Herkulesa",
+                  "text": "A distinctive 25-meter tall limestone rock formation shaped like a club, located near the castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.783,
+                        50.242892
+                  ]
+            },
+            {
+                  "name": "Napoleon",
+                  "text": "A prominent rock formation in the Ojców National Park in the area of Pieskowa Skała Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.785211,
+                        50.242642
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "A historic chapel dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        19.759398,
+                        50.216609
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "A historic wooden church dedicated to Saint Catherine, situated in the village of Sąspów.",
+                  "category": "religious",
+                  "coords": [
+                        19.772446,
+                        50.223248
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Miłosierdzia Bożego w Woli Kalinowskiej",
+                  "text": "A modern Catholic chapel in Wola Kalinowska dedicated to Divine Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        19.808436,
+                        50.228627
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle"},
@@ -904,7 +2569,304 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Les origines de la forteresse en bois sur la colline remontent au XIIe siècle.", "Le donjon circulaire roman du XIIIe siècle est le plus ancien édifice de Lublin.", "Les fresques de la chapelle de la Sainte-Trinité ont été achevées en 1418.", "L'acte de l'Union de Lublin entre la Pologne et la Lituanie y fut signé en 1569.", "Le château a servi de prison politique de manière continue de 1831 à 1954.", "Pendant l'occupation allemande, environ 40 000 personnes y furent incarcérées.", "Une aile néo-gothique a été ajoutée dans les années 1820 spécifiquement pour servir de prison.", "Depuis 1957, le complexe abrite le célèbre musée de Lublin."],
     }, image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"},
   {
-    id: "poland-klodzko-gothic-bridge-landmarks-v2",
+    id: "poland-klodzko-gothic-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Glatz",
+                  "text": "Eine gut erhaltene Verteidigungsanlage aus dem 17. und 18. Jahrhundert in Kłodzko.",
+                  "category": "castle",
+                  "coords": [
+                        16.652763,
+                        50.440321
+                  ]
+            },
+            {
+                  "name": "Fort Owczy",
+                  "text": "Ein Hilfsfort der Festung Kłodzko auf dem Berg Owcza Góra.",
+                  "category": "fortress",
+                  "coords": [
+                        16.663249,
+                        50.444206
+                  ]
+            },
+            {
+                  "name": "Minieuroland",
+                  "text": "Ein Miniaturpark in Kłodzko mit Modellen berühmter Bauwerke aus aller Welt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.631059,
+                        50.454131
+                  ]
+            },
+            {
+                  "name": "Hospitalberg",
+                  "text": "Eine Anhöhe in Kłodzko, die für ihre historische Bedeutung im Verteidigungssystem der Stadt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.650426,
+                        50.453264
+                  ]
+            },
+            {
+                  "name": "Spittelberg",
+                  "text": "Ein markanter Hügel bei Kłodzko mit einer Kapelle und Blick auf das Glatzer Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        16.682179,
+                        50.449297
+                  ]
+            },
+            {
+                  "name": "Forteczna Góra",
+                  "text": "Die Erhebung in Kłodzko, auf der sich die Hauptfestung der Stadt befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.653356,
+                        50.441227
+                  ]
+            },
+            {
+                  "name": "Fockeberg",
+                  "text": "Ein Gipfel im Bardo-Gebirge, der Teil der malerischen Landschaft um Kłodzko ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.690556,
+                        50.445833
+                  ]
+            },
+            {
+                  "name": "Krzyżna Góra",
+                  "text": "Ein Hügel im Glatzer Land, der oft als Wanderziel genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        16.657614,
+                        50.425658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Twierdza Kłodzko",
+                  "text": "Jól megőrzött 17-18. századi erődítményrendszer Kłodzkóban.",
+                  "category": "castle",
+                  "coords": [
+                        16.652763,
+                        50.440321
+                  ]
+            },
+            {
+                  "name": "Fort Owczy",
+                  "text": "A kłodzkói erődrendszer egyik kisegítő erődje az Owcza Góra dombon.",
+                  "category": "fortress",
+                  "coords": [
+                        16.663249,
+                        50.444206
+                  ]
+            },
+            {
+                  "name": "Minieuroland",
+                  "text": "Miniatűrpark Kłodzkóban, amely híres épületek makettjeit mutatja be a világból.",
+                  "category": "recreational",
+                  "coords": [
+                        16.631059,
+                        50.454131
+                  ]
+            },
+            {
+                  "name": "Szpitalna Górka",
+                  "text": "Kłodzko egyik dombja, amely a város védelmi rendszerében betöltött történelmi szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.650426,
+                        50.453264
+                  ]
+            },
+            {
+                  "name": "Wzgórze Marii",
+                  "text": "Jellegzetes domb Kłodzko közelében kápolnával és kilátással a kłodzkói medencére.",
+                  "category": "landmark",
+                  "coords": [
+                        16.682179,
+                        50.449297
+                  ]
+            },
+            {
+                  "name": "Forteczna Góra",
+                  "text": "Kłodzko azon magaslata, amelyen a város fő erődítménye található.",
+                  "category": "landmark",
+                  "coords": [
+                        16.653356,
+                        50.441227
+                  ]
+            },
+            {
+                  "name": "Szyndzielnia",
+                  "text": "A Bardo-hegység egyik csúcsa, amely a Kłodzko környéki festői táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        16.690556,
+                        50.445833
+                  ]
+            },
+            {
+                  "name": "Krzyżna Góra",
+                  "text": "Kłodzko környéki domb, amely népszerű kirándulóhely a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        16.657614,
+                        50.425658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Twierdza Kłodzko",
+                  "text": "O fortificație bine conservată din secolele XVII-XVIII situată în Kłodzko.",
+                  "category": "castle",
+                  "coords": [
+                        16.652763,
+                        50.440321
+                  ]
+            },
+            {
+                  "name": "Fort Owczy",
+                  "text": "Un fort auxiliar al cetății Kłodzko, situat pe dealul Owcza Góra.",
+                  "category": "fortress",
+                  "coords": [
+                        16.663249,
+                        50.444206
+                  ]
+            },
+            {
+                  "name": "Minieuroland",
+                  "text": "Un parc de miniaturi din Kłodzko care prezintă machete ale unor clădiri celebre din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        16.631059,
+                        50.454131
+                  ]
+            },
+            {
+                  "name": "Szpitalna Górka",
+                  "text": "O colină din Kłodzko, cunoscută pentru rolul său istoric în sistemul de apărare al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        16.650426,
+                        50.453264
+                  ]
+            },
+            {
+                  "name": "Wzgórze Marii",
+                  "text": "O colină distinctivă de lângă Kłodzko, având o capelă și oferind vedere spre depresiunea Kłodzko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.682179,
+                        50.449297
+                  ]
+            },
+            {
+                  "name": "Forteczna Góra",
+                  "text": "Dealul din Kłodzko pe care este amplasată principala fortăreață a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        16.653356,
+                        50.441227
+                  ]
+            },
+            {
+                  "name": "Szyndzielnia",
+                  "text": "Un vârf din Munții Bardo, făcând parte din peisajul pitoresc din jurul localității Kłodzko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.690556,
+                        50.445833
+                  ]
+            },
+            {
+                  "name": "Krzyżna Góra",
+                  "text": "O colină din regiunea Kłodzko, fiind o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        16.657614,
+                        50.425658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Twierdza Kłodzko",
+                  "text": "A well-preserved fortification system from the 17th and 18th centuries in Kłodzko.",
+                  "category": "castle",
+                  "coords": [
+                        16.652763,
+                        50.440321
+                  ]
+            },
+            {
+                  "name": "Fort Owczy",
+                  "text": "An auxiliary fort of the Kłodzko fortress located on Owcza Góra hill.",
+                  "category": "fortress",
+                  "coords": [
+                        16.663249,
+                        50.444206
+                  ]
+            },
+            {
+                  "name": "Minieuroland",
+                  "text": "A miniature park in Kłodzko featuring models of famous buildings from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        16.631059,
+                        50.454131
+                  ]
+            },
+            {
+                  "name": "Szpitalna Górka",
+                  "text": "A hill in Kłodzko known for its historical role in the city's defense system.",
+                  "category": "landmark",
+                  "coords": [
+                        16.650426,
+                        50.453264
+                  ]
+            },
+            {
+                  "name": "Wzgórze Marii",
+                  "text": "A prominent hill near Kłodzko featuring a chapel and views of the Kłodzko Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        16.682179,
+                        50.449297
+                  ]
+            },
+            {
+                  "name": "Forteczna Góra",
+                  "text": "The hill in Kłodzko where the city's main fortress is situated.",
+                  "category": "landmark",
+                  "coords": [
+                        16.653356,
+                        50.441227
+                  ]
+            },
+            {
+                  "name": "Szyndzielnia",
+                  "text": "A peak in the Bardzkie Mountains, part of the scenic landscape around Kłodzko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.690556,
+                        50.445833
+                  ]
+            },
+            {
+                  "name": "Krzyżna Góra",
+                  "text": "A hill in the Kłodzko region, often visited by hikers for its local trails.",
+                  "category": "landmark",
+                  "coords": [
+                        16.657614,
+                        50.425658
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "bridge",
     name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko"},
@@ -1306,7 +3268,232 @@ export const polandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "poland-lidzbark-warminski-castle-landmarks-v2",
+    id: "poland-lidzbark-warminski-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek Biskupów Warmińskich",
+                  "text": "Ein prächtiges gotisches Schloss, das einst die Residenz der ermländischen Bischöfe war.",
+                  "category": "castle",
+                  "coords": [
+                        20.583038,
+                        54.125711
+                  ]
+            },
+            {
+                  "name": "Scena plenerowa",
+                  "text": "Eine Freiluftbühne für kulturelle Veranstaltungen in Lidzbark Warmiński.",
+                  "category": "cultural",
+                  "coords": [
+                        20.574616,
+                        54.125402
+                  ]
+            },
+            {
+                  "name": "Kompleks Basenów Termalnych \"Termy Warmińskie\"",
+                  "text": "Ein moderner Wasserpark mit Thermalbecken in Lidzbark Warmiński.",
+                  "category": "recreational",
+                  "coords": [
+                        20.564251,
+                        54.114295
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "Der städtische Badestrand von Lidzbark Warmiński für Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.557887,
+                        54.153294
+                  ]
+            },
+            {
+                  "name": "Tężnie solankowe",
+                  "text": "Gradierwerke zur Freisetzung von Salzsole für therapeutische Inhalation.",
+                  "category": "landmark",
+                  "coords": [
+                        20.580937,
+                        54.114366
+                  ]
+            },
+            {
+                  "name": "Świecąca ścieżka rowerowa",
+                  "text": "Ein nachts leuchtender Radweg in Lidzbark Warmiński, der durch Phosphoreszenz illuminiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        20.559016,
+                        54.147767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Biskupów Warmińskich",
+                  "text": "Pompás gótikus vár, amely egykor a warmiai püspökök rezidenciája volt.",
+                  "category": "castle",
+                  "coords": [
+                        20.583038,
+                        54.125711
+                  ]
+            },
+            {
+                  "name": "Scena plenerowa",
+                  "text": "Szabadtéri színpad kulturális események számára Lidzbark Warmińskiban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.574616,
+                        54.125402
+                  ]
+            },
+            {
+                  "name": "Kompleks Basenów Termalnych \"Termy Warmińskie\"",
+                  "text": "Modern vízipark termálmedencékkel Lidzbark Warmińskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.564251,
+                        54.114295
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "Lidzbark Warmiński városi strandja szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        20.557887,
+                        54.153294
+                  ]
+            },
+            {
+                  "name": "Tężnie solankowe",
+                  "text": "Sóstárlók a sós pára kibocsátására terápiás inhaláció céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        20.580937,
+                        54.114366
+                  ]
+            },
+            {
+                  "name": "Świecąca ścieżka rowerowa",
+                  "text": "Lidzbark Warmiński különleges, éjszaka világító kerékpárútja, amely foszforeszkáló anyaggal készült.",
+                  "category": "landmark",
+                  "coords": [
+                        20.559016,
+                        54.147767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Biskupów Warmińskich",
+                  "text": "Un castel gotic magnific, care a fost odinioară reședința episcopilor de Warmia.",
+                  "category": "castle",
+                  "coords": [
+                        20.583038,
+                        54.125711
+                  ]
+            },
+            {
+                  "name": "Scena plenerowa",
+                  "text": "O scenă în aer liber pentru evenimente culturale în Lidzbark Warmiński.",
+                  "category": "cultural",
+                  "coords": [
+                        20.574616,
+                        54.125402
+                  ]
+            },
+            {
+                  "name": "Kompleks Basenów Termalnych \"Termy Warmińskie\"",
+                  "text": "Un parc acvatic modern cu bazine termale în Lidzbark Warmiński.",
+                  "category": "recreational",
+                  "coords": [
+                        20.564251,
+                        54.114295
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "Plaja municipală din Lidzbark Warmiński pentru activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        20.557887,
+                        54.153294
+                  ]
+            },
+            {
+                  "name": "Tężnie solankowe",
+                  "text": "Gradine saline pentru eliberarea aerosolilor de sare în scopul inhalării terapeutice.",
+                  "category": "landmark",
+                  "coords": [
+                        20.580937,
+                        54.114366
+                  ]
+            },
+            {
+                  "name": "Świecąca ścieżka rowerowa",
+                  "text": "O pistă de biciclete unică în Lidzbark Warmiński care luminează noaptea prin fosforescență.",
+                  "category": "landmark",
+                  "coords": [
+                        20.559016,
+                        54.147767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek Biskupów Warmińskich",
+                  "text": "A magnificent Gothic castle that was once the residence of the Warmian Bishops.",
+                  "category": "castle",
+                  "coords": [
+                        20.583038,
+                        54.125711
+                  ]
+            },
+            {
+                  "name": "Scena plenerowa",
+                  "text": "An outdoor stage for cultural events in Lidzbark Warmiński.",
+                  "category": "cultural",
+                  "coords": [
+                        20.574616,
+                        54.125402
+                  ]
+            },
+            {
+                  "name": "Kompleks Basenów Termalnych \"Termy Warmińskie\"",
+                  "text": "A modern water park with thermal pools in Lidzbark Warmiński.",
+                  "category": "recreational",
+                  "coords": [
+                        20.564251,
+                        54.114295
+                  ]
+            },
+            {
+                  "name": "Plaża miejska",
+                  "text": "The municipal beach of Lidzbark Warmiński for leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        20.557887,
+                        54.153294
+                  ]
+            },
+            {
+                  "name": "Tężnie solankowe",
+                  "text": "Graduation towers for releasing salt brine for therapeutic inhalation.",
+                  "category": "landmark",
+                  "coords": [
+                        20.580937,
+                        54.114366
+                  ]
+            },
+            {
+                  "name": "Świecąca ścieżka rowerowa",
+                  "text": "A unique glowing bicycle path in Lidzbark Warmiński that illuminates at night using phosphorescence.",
+                  "category": "landmark",
+                  "coords": [
+                        20.559016,
+                        54.147767
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "castle",
     name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle"},
@@ -1400,7 +3587,196 @@ export const polandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "poland-rogalin-palace-landmarks-v2",
+    id: "poland-rogalin-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pałac Raczyńskich",
+                  "text": "Ein prächtiges Barock-klassizistisches Palais in Rogalin, bekannt für seine bedeutende Kunstsammlung.",
+                  "category": "historical",
+                  "coords": [
+                        16.92995,
+                        52.234482
+                  ]
+            },
+            {
+                  "name": "Czech",
+                  "text": "Einer der berühmten jahrhundertealten Eichen im Park des Rogalin-Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.925572,
+                        52.236896
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Diese monumentale Eiche ist eine der bekanntesten Naturattraktionen in der Parkanlage von Rogalin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.92319,
+                        52.235913
+                  ]
+            },
+            {
+                  "name": "Serce Jezusa",
+                  "text": "Ein religiöses Denkmal in der Nähe des Rogalin-Palastes, das der Verehrung Jesu gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.896774,
+                        52.248028
+                  ]
+            },
+            {
+                  "name": "Kopiec Parnas",
+                  "text": "Ein künstlicher Hügel im Park von Rogalin, der einen schönen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.928111,
+                        52.235262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pałac Raczyńskich",
+                  "text": "Pompás barokk-klasszicista palota Rogalinban, amely jelentős művészeti gyűjteményéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        16.92995,
+                        52.234482
+                  ]
+            },
+            {
+                  "name": "Czech",
+                  "text": "A Rogalin-palota parkjának egyik híres, évszázados tölgyfája.",
+                  "category": "landmark",
+                  "coords": [
+                        16.925572,
+                        52.236896
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Ez a monumentális tölgyfa Rogalin parkjának egyik legismertebb természeti látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        16.92319,
+                        52.235913
+                  ]
+            },
+            {
+                  "name": "Serce Jezusa",
+                  "text": "Egy vallási emlékmű a Rogalin-palota közelében, amelyet Jézus tiszteletének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        16.896774,
+                        52.248028
+                  ]
+            },
+            {
+                  "name": "Kopiec Parnas",
+                  "text": "Egy mesterséges domb a rogali parkban, amely szép kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        16.928111,
+                        52.235262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pałac Raczyńskich",
+                  "text": "Un palat baroc-clasicist magnific în Rogalin, cunoscut pentru colecția sa importantă de artă.",
+                  "category": "historical",
+                  "coords": [
+                        16.92995,
+                        52.234482
+                  ]
+            },
+            {
+                  "name": "Czech",
+                  "text": "Unul dintre faimoșii stejari seculari din parcul palatului Rogalin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.925572,
+                        52.236896
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "Acest stejar monumental este una dintre cele mai cunoscute atracții naturale din parcul de la Rogalin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.92319,
+                        52.235913
+                  ]
+            },
+            {
+                  "name": "Serce Jezusa",
+                  "text": "Un monument religios lângă palatul Rogalin, dedicat venerării lui Iisus.",
+                  "category": "historical",
+                  "coords": [
+                        16.896774,
+                        52.248028
+                  ]
+            },
+            {
+                  "name": "Kopiec Parnas",
+                  "text": "Un deal artificial în parcul din Rogalin, care oferă o vedere frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        16.928111,
+                        52.235262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pałac Raczyńskich",
+                  "text": "A magnificent Baroque-Classical palace in Rogalin, known for its significant art collection.",
+                  "category": "historical",
+                  "coords": [
+                        16.92995,
+                        52.234482
+                  ]
+            },
+            {
+                  "name": "Czech",
+                  "text": "One of the famous centuries-old oak trees in the park of the Rogalin Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        16.925572,
+                        52.236896
+                  ]
+            },
+            {
+                  "name": "Edward",
+                  "text": "This monumental oak tree is one of the most famous natural attractions in the Rogalin parkland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.92319,
+                        52.235913
+                  ]
+            },
+            {
+                  "name": "Serce Jezusa",
+                  "text": "A religious monument near the Rogalin Palace dedicated to the devotion of Jesus.",
+                  "category": "historical",
+                  "coords": [
+                        16.896774,
+                        52.248028
+                  ]
+            },
+            {
+                  "name": "Kopiec Parnas",
+                  "text": "An artificial hill in the Rogalin park offering a pleasant view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        16.928111,
+                        52.235262
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "palace",
     name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace"},

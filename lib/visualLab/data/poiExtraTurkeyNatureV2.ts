@@ -91,7 +91,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-kizilirmak-river-nature-v2",
+    id: "turkey-kizilirmak-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bafra Burnu",
+                  "text": "Ein Leuchtturm am Kap Bafra bei der Mündung des Kızılırmak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946536,
+                        41.730326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bafra Burnu",
+                  "text": "Világítótorony a Bafra-foknál, a Kızılırmak torkolata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946536,
+                        41.730326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bafra Burnu",
+                  "text": "Un far la capul Bafra, situat lângă vărsarea râului Kızılırmak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946536,
+                        41.730326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bafra Burnu",
+                  "text": "A lighthouse at Cape Bafra, near the mouth of the Kızılırmak River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946536,
+                        41.730326
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TR-58",
     coords: [35.9500, 41.7167],
@@ -135,7 +180,88 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-sakarya-river-nature-v2",
+    id: "turkey-sakarya-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Go-Kart Karasu",
+                  "text": "Eine Go-Kart-Bahn in der Nähe des Sakarya-Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        30.687573,
+                        41.11149
+                  ]
+            },
+            {
+                  "name": "karasu lunaparkı",
+                  "text": "Ein lokaler Vergnügungspark mit verschiedenen Fahrgeschäften und Unterhaltungsangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        30.693123,
+                        41.109268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Go-Kart Karasu",
+                  "text": "Gokartpálya a Szakarija-folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.687573,
+                        41.11149
+                  ]
+            },
+            {
+                  "name": "karasu lunaparkı",
+                  "text": "Helyi vidámpark különféle játékokkal és szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        30.693123,
+                        41.109268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Go-Kart Karasu",
+                  "text": "O pistă de karting recreativă situată lângă râul Sakarya.",
+                  "category": "recreational",
+                  "coords": [
+                        30.687573,
+                        41.11149
+                  ]
+            },
+            {
+                  "name": "karasu lunaparkı",
+                  "text": "Un parc de distracții local cu diverse atracții și opțiuni de divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        30.693123,
+                        41.109268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Go-Kart Karasu",
+                  "text": "A recreational karting track located near the Sakarya River.",
+                  "category": "recreational",
+                  "coords": [
+                        30.687573,
+                        41.11149
+                  ]
+            },
+            {
+                  "name": "karasu lunaparkı",
+                  "text": "A local amusement park featuring various rides and entertainment options.",
+                  "category": "recreational",
+                  "coords": [
+                        30.693123,
+                        41.109268
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "TR-54",
     coords: [30.6500, 41.1167],
@@ -223,7 +349,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-mount-erciyes-nature-v2",
+    id: "turkey-mount-erciyes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Ein gewaltiger erloschener Vulkan und beliebtes Skigebiet in Zentralanatolien.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Hatalmas kialudt tűzhányó és népszerű síparadicsom Közép-Anatóliában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "Un vulcan stins masiv și o stațiune de schi populară în Anatolia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erciyes Dağı",
+                  "text": "A massive dormant volcano and popular ski resort in Central Anatolia.",
+                  "category": "landmark",
+                  "coords": [
+                        35.448951,
+                        38.531954
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-38",
     coords: [35.4833, 38.5333],
@@ -267,7 +438,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-kackar-mountains-nature-v2",
+    id: "turkey-kackar-mountains-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaçkar Dağı",
+                  "text": "Der höchste Gipfel des Kaçkar-Gebirges im Nordosten der Türkei.",
+                  "category": "landmark",
+                  "coords": [
+                        41.161315,
+                        40.835471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaçkar Dağı",
+                  "text": "A Kaçkar-hegység legmagasabb csúcsa Törökország északkeleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        41.161315,
+                        40.835471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaçkar Dağı",
+                  "text": "Cel mai înalt vârf din munții Kaçkar, în nord-estul Turciei.",
+                  "category": "landmark",
+                  "coords": [
+                        41.161315,
+                        40.835471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaçkar Dağı",
+                  "text": "The highest peak of the Kaçkar Mountains in northeastern Turkey.",
+                  "category": "landmark",
+                  "coords": [
+                        41.161315,
+                        40.835471
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-53",
     coords: [41.1667, 40.8333],
@@ -487,7 +703,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-mount-suphan-nature-v2",
+    id: "turkey-mount-suphan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bitlis Adilcevaz Süphandağı Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ein Naturschutzgebiet am Berg Süphan, das dem Schutz der lokalen Tierwelt dient.",
+                  "category": "natural",
+                  "coords": [
+                        42.814671,
+                        38.919509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bitlis Adilcevaz Süphandağı Yaban Hayatı Geliştirme Sahası",
+                  "text": "Természetvédelmi terület a Süphan-hegynél, amely a helyi vadvilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        42.814671,
+                        38.919509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bitlis Adilcevaz Süphandağı Yaban Hayatı Geliştirme Sahası",
+                  "text": "O zonă de conservare a faunei sălbatice pe Muntele Süphan, dedicată protejării speciilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        42.814671,
+                        38.919509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bitlis Adilcevaz Süphandağı Yaban Hayatı Geliştirme Sahası",
+                  "text": "A wildlife development area on Mount Süphan dedicated to protecting local fauna.",
+                  "category": "natural",
+                  "coords": [
+                        42.814671,
+                        38.919509
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-13",
     coords: [42.8167, 38.9333],
@@ -531,7 +792,268 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-belgrad-forest-nature-v2",
+    id: "turkey-belgrad-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Falih Rıfkı Atay Tabiat Parkı",
+                  "text": "Ein Naturpark im Belgrader Wald, benannt nach dem türkischen Schriftsteller Falih Rıfkı Atay.",
+                  "category": "natural",
+                  "coords": [
+                        28.960996,
+                        41.192187
+                  ]
+            },
+            {
+                  "name": "Bahçeköy Geyik Üretim İstasyonu",
+                  "text": "Eine Hirschzuchtstation und ein Naturschutzgebiet im Belgrader Wald.",
+                  "category": "natural",
+                  "coords": [
+                        28.954676,
+                        41.198462
+                  ]
+            },
+            {
+                  "name": "Kömürcü Bendi Tabiat Parkı",
+                  "text": "Ein Naturpark im Belgrader Wald, bekannt für seine historischen Staudämme.",
+                  "category": "natural",
+                  "coords": [
+                        28.962967,
+                        41.206168
+                  ]
+            },
+            {
+                  "name": "Bentler Tabiat Parkı",
+                  "text": "Ein Naturpark im Belgrader Wald, der mehrere historische Wasserbauwerke umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        28.990804,
+                        41.188574
+                  ]
+            },
+            {
+                  "name": "Irmak Tabiat Parkı",
+                  "text": "Ein Erholungsgebiet und Naturpark im Belgrader Wald.",
+                  "category": "natural",
+                  "coords": [
+                        28.958184,
+                        41.173949
+                  ]
+            },
+            {
+                  "name": "Neşet Suyu Tabiat Parkı",
+                  "text": "Ein beliebter Naturpark im Belgrader Wald mit Wanderwegen und Picknickplätzen.",
+                  "category": "natural",
+                  "coords": [
+                        28.967996,
+                        41.185152
+                  ]
+            },
+            {
+                  "name": "Fatih Rıfkı Altay Tabiat Parkı",
+                  "text": "Ein geschützter Naturpark im Belgrader Wald.",
+                  "category": "natural",
+                  "coords": [
+                        28.964405,
+                        41.191919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falih Rıfkı Atay Tabiat Parkı",
+                  "text": "Természetvédelmi terület a Belgrád-erdőben, Falih Rıfkı Atay török íróról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        28.960996,
+                        41.192187
+                  ]
+            },
+            {
+                  "name": "Bahçeköy Geyik Üretim İstasyonu",
+                  "text": "Szarvastenyésztő állomás és természetvédelmi terület a Belgrád-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        28.954676,
+                        41.198462
+                  ]
+            },
+            {
+                  "name": "Kömürcü Bendi Tabiat Parkı",
+                  "text": "Természetvédelmi terület a Belgrád-erdőben, történelmi gátakkal.",
+                  "category": "natural",
+                  "coords": [
+                        28.962967,
+                        41.206168
+                  ]
+            },
+            {
+                  "name": "Bentler Tabiat Parkı",
+                  "text": "Természetvédelmi terület a Belgrád-erdőben, több történelmi vízi építménnyel.",
+                  "category": "natural",
+                  "coords": [
+                        28.990804,
+                        41.188574
+                  ]
+            },
+            {
+                  "name": "Irmak Tabiat Parkı",
+                  "text": "Pihenőhely és természetvédelmi terület a Belgrád-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        28.958184,
+                        41.173949
+                  ]
+            },
+            {
+                  "name": "Neşet Suyu Tabiat Parkı",
+                  "text": "Népszerű természetvédelmi terület a Belgrád-erdőben túraútvonalakkal és piknikezőhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        28.967996,
+                        41.185152
+                  ]
+            },
+            {
+                  "name": "Fatih Rıfkı Altay Tabiat Parkı",
+                  "text": "Védett természetvédelmi terület a Belgrád-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        28.964405,
+                        41.191919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falih Rıfkı Atay Tabiat Parkı",
+                  "text": "Un parc natural în Pădurea Belgrad, numit după scriitorul turc Falih Rıfkı Atay.",
+                  "category": "natural",
+                  "coords": [
+                        28.960996,
+                        41.192187
+                  ]
+            },
+            {
+                  "name": "Bahçeköy Geyik Üretim İstasyonu",
+                  "text": "O stație de creștere a cerbilor și rezervație naturală în Pădurea Belgrad.",
+                  "category": "natural",
+                  "coords": [
+                        28.954676,
+                        41.198462
+                  ]
+            },
+            {
+                  "name": "Kömürcü Bendi Tabiat Parkı",
+                  "text": "Un parc natural în Pădurea Belgrad, cunoscut pentru digurile sale istorice.",
+                  "category": "natural",
+                  "coords": [
+                        28.962967,
+                        41.206168
+                  ]
+            },
+            {
+                  "name": "Bentler Tabiat Parkı",
+                  "text": "Un parc natural în Pădurea Belgrad care cuprinde mai multe structuri hidraulice istorice.",
+                  "category": "natural",
+                  "coords": [
+                        28.990804,
+                        41.188574
+                  ]
+            },
+            {
+                  "name": "Irmak Tabiat Parkı",
+                  "text": "O zonă de recreere și parc natural în Pădurea Belgrad.",
+                  "category": "natural",
+                  "coords": [
+                        28.958184,
+                        41.173949
+                  ]
+            },
+            {
+                  "name": "Neşet Suyu Tabiat Parkı",
+                  "text": "Un parc natural popular în Pădurea Belgrad, cu trasee de drumeție și locuri de picnic.",
+                  "category": "natural",
+                  "coords": [
+                        28.967996,
+                        41.185152
+                  ]
+            },
+            {
+                  "name": "Fatih Rıfkı Altay Tabiat Parkı",
+                  "text": "Un parc natural protejat în Pădurea Belgrad.",
+                  "category": "natural",
+                  "coords": [
+                        28.964405,
+                        41.191919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falih Rıfkı Atay Tabiat Parkı",
+                  "text": "A nature park in the Belgrad Forest named after the Turkish writer Falih Rıfkı Atay.",
+                  "category": "natural",
+                  "coords": [
+                        28.960996,
+                        41.192187
+                  ]
+            },
+            {
+                  "name": "Bahçeköy Geyik Üretim İstasyonu",
+                  "text": "A deer breeding station and nature reserve in the Belgrad Forest.",
+                  "category": "natural",
+                  "coords": [
+                        28.954676,
+                        41.198462
+                  ]
+            },
+            {
+                  "name": "Kömürcü Bendi Tabiat Parkı",
+                  "text": "A nature park in the Belgrad Forest known for its historic dams.",
+                  "category": "natural",
+                  "coords": [
+                        28.962967,
+                        41.206168
+                  ]
+            },
+            {
+                  "name": "Bentler Tabiat Parkı",
+                  "text": "A nature park in the Belgrad Forest encompassing several historic water structures.",
+                  "category": "natural",
+                  "coords": [
+                        28.990804,
+                        41.188574
+                  ]
+            },
+            {
+                  "name": "Irmak Tabiat Parkı",
+                  "text": "A recreation area and nature park in the Belgrad Forest.",
+                  "category": "natural",
+                  "coords": [
+                        28.958184,
+                        41.173949
+                  ]
+            },
+            {
+                  "name": "Neşet Suyu Tabiat Parkı",
+                  "text": "A popular nature park in the Belgrad Forest featuring hiking trails and picnic areas.",
+                  "category": "natural",
+                  "coords": [
+                        28.967996,
+                        41.185152
+                  ]
+            },
+            {
+                  "name": "Fatih Rıfkı Altay Tabiat Parkı",
+                  "text": "A protected nature park located in the Belgrad Forest.",
+                  "category": "natural",
+                  "coords": [
+                        28.964405,
+                        41.191919
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "TR-34",
     coords: [28.9667, 41.2000],
@@ -575,7 +1097,88 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-lake-bafa-nature-v2",
+    id: "turkey-lake-bafa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kahvehisar Adası Manastırı",
+                  "text": "Ruinen eines alten Klosters auf einer Insel im Bafa-See.",
+                  "category": "historical",
+                  "coords": [
+                        27.48514,
+                        37.479067
+                  ]
+            },
+            {
+                  "name": "Ikis Manastırı",
+                  "text": "Eine historische Klosteranlage und Sehenswürdigkeit am Bafa-See.",
+                  "category": "landmark",
+                  "coords": [
+                        27.490973,
+                        37.505665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kahvehisar Adası Manastırı",
+                  "text": "Egy ősi kolostor romjai a Bafa-tó egyik szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        27.48514,
+                        37.479067
+                  ]
+            },
+            {
+                  "name": "Ikis Manastırı",
+                  "text": "Történelmi monostor és látnivaló a Bafa-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.490973,
+                        37.505665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kahvehisar Adası Manastırı",
+                  "text": "Ruinele unei mănăstiri antice situate pe o insulă din lacul Bafa.",
+                  "category": "historical",
+                  "coords": [
+                        27.48514,
+                        37.479067
+                  ]
+            },
+            {
+                  "name": "Ikis Manastırı",
+                  "text": "Un sit monastic istoric și punct de atracție lângă lacul Bafa.",
+                  "category": "landmark",
+                  "coords": [
+                        27.490973,
+                        37.505665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kahvehisar Adası Manastırı",
+                  "text": "Ruins of an ancient monastery located on an island in Lake Bafa.",
+                  "category": "historical",
+                  "coords": [
+                        27.48514,
+                        37.479067
+                  ]
+            },
+            {
+                  "name": "Ikis Manastırı",
+                  "text": "A historic monastic site and attraction near Lake Bafa.",
+                  "category": "landmark",
+                  "coords": [
+                        27.490973,
+                        37.505665
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TR-09",
     coords: [27.4667, 37.5000],
@@ -707,7 +1310,52 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-mount-hasan-nature-v2",
+    id: "turkey-mount-hasan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Küçük Hasan Dağı",
+                  "text": "Ein vulkanischer Berggipfel in der Nähe des Mount Hasan in Zentralanatolien.",
+                  "category": "landmark",
+                  "coords": [
+                        34.206103,
+                        38.119582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Küçük Hasan Dağı",
+                  "text": "Vulkanikus hegycsúcs a Hasan-hegy közelében, Közép-Anatóliában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.206103,
+                        38.119582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Küçük Hasan Dağı",
+                  "text": "Un vârf montan vulcanic în apropiere de Muntele Hasan, în Anatolia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        34.206103,
+                        38.119582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Küçük Hasan Dağı",
+                  "text": "A volcanic mountain peak near Mount Hasan in Central Anatolia.",
+                  "category": "landmark",
+                  "coords": [
+                        34.206103,
+                        38.119582
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TR-68",
     coords: [34.1667, 38.1333],
@@ -839,7 +1487,88 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     },
   },
   {
-    id: "turkey-lake-salda-nature-v2",
+    id: "turkey-lake-salda-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salda Milli Parki",
+                  "text": "Ein Naturschutzgebiet am Ufer des Salda-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        29.651559,
+                        37.531551
+                  ]
+            },
+            {
+                  "name": "Salda Gölü",
+                  "text": "Ein tiefer Kratersee, der für seinen weißen Sand und klares Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        29.68314,
+                        37.549702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salda Milli Parki",
+                  "text": "Természetvédelmi terület a Salda-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        29.651559,
+                        37.531551
+                  ]
+            },
+            {
+                  "name": "Salda Gölü",
+                  "text": "Mély krátertó, amely fehér homokjáról és tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.68314,
+                        37.549702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salda Milli Parki",
+                  "text": "O rezervație naturală pe malul lacului Salda.",
+                  "category": "natural",
+                  "coords": [
+                        29.651559,
+                        37.531551
+                  ]
+            },
+            {
+                  "name": "Salda Gölü",
+                  "text": "Un lac de crater adânc, cunoscut pentru nisipul său alb și apa limpede.",
+                  "category": "landmark",
+                  "coords": [
+                        29.68314,
+                        37.549702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salda Milli Parki",
+                  "text": "A nature reserve on the shores of Lake Salda.",
+                  "category": "natural",
+                  "coords": [
+                        29.651559,
+                        37.531551
+                  ]
+            },
+            {
+                  "name": "Lake Salda",
+                  "text": "A deep crater lake known for its white sand and clear water.",
+                  "category": "landmark",
+                  "coords": [
+                        29.68314,
+                        37.549702
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "TR-15",
     coords: [29.6833, 37.5500],

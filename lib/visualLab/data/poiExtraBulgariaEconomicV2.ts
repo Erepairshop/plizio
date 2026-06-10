@@ -228,7 +228,52 @@ export const bulgariaEconomicV2: POI[] = [
     image: "/poi-images/bulgaria-radnevo-lignite-economic-v2.webp",
   },
   {
-    id: "bulgaria-kremikovtsi-industrial-site-economic-v2",
+    id: "bulgaria-kremikovtsi-industrial-site-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Защитена зона „Рибарници Челопечене“",
+                  "text": "Ein Naturschutzgebiet und Feuchtgebiet am Industriestandort Kremikovtsi.",
+                  "category": "natural",
+                  "coords": [
+                        23.456675,
+                        42.741214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Защитена зона „Рибарници Челопечене“",
+                  "text": "Természetvédelmi terület és vizes élőhely a Kremikovtsi ipari területen.",
+                  "category": "natural",
+                  "coords": [
+                        23.456675,
+                        42.741214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Защитена зона „Рибарници Челопечене“",
+                  "text": "O rezervație naturală și zonă umedă pe situl industrial Kremikovtsi.",
+                  "category": "natural",
+                  "coords": [
+                        23.456675,
+                        42.741214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ptrotected Area „Ribarnitsi Chelopechene“",
+                  "text": "A nature reserve and wetland area at the Kremikovtsi industrial site.",
+                  "category": "natural",
+                  "coords": [
+                        23.456675,
+                        42.741214
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BG",
     name: { de: "Industriestandort Kremikowzi", hu: "Kremikovci ipari terület", ro: "Platforma industrială Kremikovți", en: "Kremikovtsi Industrial Site" },
@@ -363,7 +408,52 @@ export const bulgariaEconomicV2: POI[] = [
     image: "/poi-images/bulgaria-svishtov-port-economic-v2.webp",
   },
   {
-    id: "bulgaria-sevlievo-industry-economic-v2",
+    id: "bulgaria-sevlievo-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Център по изкуствата Видима",
+                  "text": "Ein Zentrum für zeitgenössische Kunst im Industriegebiet von Sewliewo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104254,
+                        43.027883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Център по изкуствата Видима",
+                  "text": "Kortárs művészeti központ Szevlievo ipari negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104254,
+                        43.027883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Visible Art Center",
+                  "text": "Un centru de artă contemporană situat în zona industrială din Sevlievo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104254,
+                        43.027883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Visible Art Center",
+                  "text": "A contemporary arts centre located in the industrial area of Sevlievo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104254,
+                        43.027883
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BG",
     name: { de: "Industriezentrum Sewliewo", hu: "Szevljevói ipari központ", ro: "Centrul industrial Sevlievo", en: "Sevlievo Industrial Center" },
@@ -993,7 +1083,124 @@ export const bulgariaEconomicV2: POI[] = [
     image: "/poi-images/bulgaria-momchilgrad-tobacco-economic-v2.webp",
   },
   {
-    id: "bulgaria-sopot-machinery-economic-v2",
+    id: "bulgaria-sopot-machinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Аневско кале",
+                  "text": "Die Ruinen einer bedeutenden mittelalterlichen Festung am Fuße des Balkangebirges.",
+                  "category": "castle",
+                  "coords": [
+                        24.732892,
+                        42.682037
+                  ]
+            },
+            {
+                  "name": "Къща-музей „Иван Вазов“",
+                  "text": "Das Museum ist dem Leben und Werk des berühmten bulgarischen Schriftstellers Iwan Wasow gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.755985,
+                        42.654172
+                  ]
+            },
+            {
+                  "name": "Надпис „Аз съм българче“",
+                  "text": "Ein Denkmal mit der berühmten Inschrift „Ich bin Bulgare“ aus einem Gedicht von Iwan Wasow.",
+                  "category": "historical",
+                  "coords": [
+                        24.757826,
+                        42.656386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Аневско кале",
+                  "text": "Egy jelentős középkori erődítmény romjai a Balkán-hegység lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        24.732892,
+                        42.682037
+                  ]
+            },
+            {
+                  "name": "Къща-музей „Иван Вазов“",
+                  "text": "A múzeum a híres bolgár író, Ivan Vazov életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.755985,
+                        42.654172
+                  ]
+            },
+            {
+                  "name": "Надпис „Аз съм българче“",
+                  "text": "Emlékmű Ivan Vazov egyik versének híres „Bolgár vagyok” feliratával.",
+                  "category": "historical",
+                  "coords": [
+                        24.757826,
+                        42.656386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Аневско кале",
+                  "text": "Ruinele unei importante cetăți medievale de la poalele Munților Balcani.",
+                  "category": "castle",
+                  "coords": [
+                        24.732892,
+                        42.682037
+                  ]
+            },
+            {
+                  "name": "Къща-музей „Иван Вазов“",
+                  "text": "Un muzeu dedicat vieții și operei celebrului scriitor bulgar Ivan Vazov.",
+                  "category": "museum",
+                  "coords": [
+                        24.755985,
+                        42.654172
+                  ]
+            },
+            {
+                  "name": "Надпис „Аз съм българче“",
+                  "text": "Un monument ce poartă celebra inscripție „Sunt bulgar”, dintr-o poezie de Ivan Vazov.",
+                  "category": "historical",
+                  "coords": [
+                        24.757826,
+                        42.656386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anevsko kale",
+                  "text": "The ruins of a significant medieval fortress at the foot of the Balkan Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        24.732892,
+                        42.682037
+                  ]
+            },
+            {
+                  "name": "House-museum Ivan Vazov",
+                  "text": "A museum dedicated to the life and work of the famous Bulgarian writer Ivan Vazov.",
+                  "category": "museum",
+                  "coords": [
+                        24.755985,
+                        42.654172
+                  ]
+            },
+            {
+                  "name": "\"I Am Bulgarian\" Inscription",
+                  "text": "A monument featuring the famous 'I am Bulgarian' inscription from a poem by Ivan Vazov.",
+                  "category": "historical",
+                  "coords": [
+                        24.757826,
+                        42.656386
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BG",
     name: { de: "Maschinenbau Sopot", hu: "Szopoti gépipar", ro: "Construcții de mașini Sopot", en: "Sopot Machinery Industry" },
@@ -1083,7 +1290,88 @@ export const bulgariaEconomicV2: POI[] = [
     image: "/poi-images/bulgaria-devin-mineral-economic-v2.webp",
   },
   {
-    id: "bulgaria-eliseina-metal-economic-v2",
+    id: "bulgaria-eliseina-metal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ритлите",
+                  "text": "Einzigartige natürliche Felsformationen in der Iskar-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        23.623251,
+                        43.107822
+                  ]
+            },
+            {
+                  "name": "Kloster Tscherepisch",
+                  "text": "Ein malerisches orthodoxes Kloster aus dem 14. Jahrhundert in der Iskar-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        23.615861,
+                        43.093683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ритлите",
+                  "text": "Egyedülálló természetes sziklaalakzatok az Iszkar-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.623251,
+                        43.107822
+                  ]
+            },
+            {
+                  "name": "Черепишки манастир",
+                  "text": "Festői ortodox kolostor a 14. századból az Iszkar-szurdokban.",
+                  "category": "religious",
+                  "coords": [
+                        23.615861,
+                        43.093683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ритлите",
+                  "text": "Formațiuni stâncoase naturale unice situate în defileul râului Iskar.",
+                  "category": "landmark",
+                  "coords": [
+                        23.623251,
+                        43.107822
+                  ]
+            },
+            {
+                  "name": "Черепишки манастир",
+                  "text": "O mănăstire ortodoxă pitorească fondată în secolul al XIV-lea în Defileul Iskar.",
+                  "category": "religious",
+                  "coords": [
+                        23.615861,
+                        43.093683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ritlite",
+                  "text": "Unique natural rock formations located along the Iskar River gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.623251,
+                        43.107822
+                  ]
+            },
+            {
+                  "name": "Cherepish Monastery",
+                  "text": "A picturesque Orthodox monastery founded in the 14th century in the Iskar Gorge.",
+                  "category": "religious",
+                  "coords": [
+                        23.615861,
+                        43.093683
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BG",
     name: { de: "Metallverarbeitung Eliseina", hu: "Eliseinai fémfeldolgozás", ro: "Procesarea metalelor Eliseina", en: "Eliseina Metal Processing" },

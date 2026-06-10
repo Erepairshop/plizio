@@ -534,7 +534,160 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-zonnestraal-hill-relief-v2.webp",
   },
   {
-    id: "netherlands-kootwijkerzand-relief-v2",
+    id: "netherlands-kootwijkerzand-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Passiflorahoeve",
+                  "text": "Ein botanischer Garten und Schmetterlingspark, der für seine Passionsblumen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.727874,
+                        52.139736
+                  ]
+            },
+            {
+                  "name": "Boswachterij Kootwijk",
+                  "text": "Ein ausgedehntes Waldgebiet und Naturschutzgebiet in der Nähe von Kootwijkerzand.",
+                  "category": "natural",
+                  "coords": [
+                        5.770082,
+                        52.175667
+                  ]
+            },
+            {
+                  "name": "De Zandloper",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke über die Dünenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.761353,
+                        52.170069
+                  ]
+            },
+            {
+                  "name": "Hervormde kerk Kootwijk",
+                  "text": "Eine historische reformierte Kirche im Dorf Kootwijk.",
+                  "category": "religious",
+                  "coords": [
+                        5.770325,
+                        52.184285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Passiflorahoeve",
+                  "text": "Passióvirágairól és lepkéiről nevezetes botanikus kert és állatpark.",
+                  "category": "recreational",
+                  "coords": [
+                        5.727874,
+                        52.139736
+                  ]
+            },
+            {
+                  "name": "Boswachterij Kootwijk",
+                  "text": "Kiterjedt erdőség és természetvédelmi terület Kootwijkerzand közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.770082,
+                        52.175667
+                  ]
+            },
+            {
+                  "name": "De Zandloper",
+                  "text": "Kilátópont, amely széles kilátást nyújt a homokdűnés tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.761353,
+                        52.170069
+                  ]
+            },
+            {
+                  "name": "Hervormde kerk Kootwijk",
+                  "text": "Történelmi református templom Kootwijk faluban.",
+                  "category": "religious",
+                  "coords": [
+                        5.770325,
+                        52.184285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Passiflorahoeve",
+                  "text": "O grădină botanică și parc de fluturi, cunoscut pentru florile pasiunii.",
+                  "category": "recreational",
+                  "coords": [
+                        5.727874,
+                        52.139736
+                  ]
+            },
+            {
+                  "name": "Boswachterij Kootwijk",
+                  "text": "O zonă forestieră întinsă și rezervație naturală lângă Kootwijkerzand.",
+                  "category": "natural",
+                  "coords": [
+                        5.770082,
+                        52.175667
+                  ]
+            },
+            {
+                  "name": "De Zandloper",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra peisajului de dune.",
+                  "category": "natural",
+                  "coords": [
+                        5.761353,
+                        52.170069
+                  ]
+            },
+            {
+                  "name": "Hervormde kerk Kootwijk",
+                  "text": "O biserică reformată istorică din satul Kootwijk.",
+                  "category": "religious",
+                  "coords": [
+                        5.770325,
+                        52.184285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Passiflorahoeve",
+                  "text": "A botanical garden and butterfly park known for its passion flowers and exotic insects.",
+                  "category": "recreational",
+                  "coords": [
+                        5.727874,
+                        52.139736
+                  ]
+            },
+            {
+                  "name": "Boswachterij Kootwijk",
+                  "text": "An extensive forest area and nature reserve near Kootwijkerzand.",
+                  "category": "natural",
+                  "coords": [
+                        5.770082,
+                        52.175667
+                  ]
+            },
+            {
+                  "name": "De Zandloper",
+                  "text": "A viewpoint offering wide vistas over the sand dune landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.761353,
+                        52.170069
+                  ]
+            },
+            {
+                  "name": "Hervormde kerk Kootwijk",
+                  "text": "A historic reformed church in the village of Kootwijk.",
+                  "category": "religious",
+                  "coords": [
+                        5.770325,
+                        52.184285
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NL",
     name: { de: "Kootwijkerzand", hu: "Kootwijkerzand", ro: "Kootwijkerzand", en: "Kootwijkerzand" },
@@ -669,7 +822,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-binnenveld-valley-relief-v2.webp",
   },
   {
-    id: "netherlands-veluwezoom-moraine-relief-v2",
+    id: "netherlands-veluwezoom-moraine-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Der älteste Nationalpark der Niederlande, geprägt durch Wälder, Heidelandschaften und Sanddünen.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "Ein historisches Landgut am Rande des Nationalparks Veluwezoom mit einer markanten Parkanlage.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "Ein denkmalgeschütztes Landgut in der Region Veluwezoom mit historischen Gebäuden und Gärten.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "Ein Naturgebiet innerhalb des Veluwezoom, bekannt für seine hügelige Heidelandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "Ein historisches Landgut im Veluwezoom, das heute als Hotel und Konferenzzentrum genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "Ein weitläufiges privates Anwesen im Veluwezoom, bekannt für sein Schloss und die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "Ein prächtiges barockes Schlossgut mit bedeutenden Gartenanlagen in der Region Veluwezoom.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            },
+            {
+                  "name": "Snippendael",
+                  "text": "Ein geschütztes Naturgebiet im Nationalpark Veluwezoom mit abwechslungsreichen Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        6.011934,
+                        52.010201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Hollandia legrégebbi nemzeti parkja, amelyet erdők, fenyérek és homokdűnék jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "Történelmi udvarház a Veluwezoom Nemzeti Park szélén, jellegzetes parkkal.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "Műemléki védettségű birtok a Veluwezoom régióban, történelmi épületekkel és kertekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "Természeti terület a Veluwezoom-on belül, amely dombos fenyérvidékéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "Történelmi birtok a Veluwezoom-ban, amely ma szállodaként és konferenciaközpontként működik.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "Kiterjedt magánbirtok a Veluwezoom-ban, amely kastélyáról és a környező természetről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "Pompás barokk kastély jelentős kertekkel a Veluwezoom régióban.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            },
+            {
+                  "name": "Snippendael",
+                  "text": "Védett természeti terület a Veluwezoom Nemzeti Parkban, változatos túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        6.011934,
+                        52.010201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Cel mai vechi parc național din Țările de Jos, caracterizat prin păduri, lande și dune de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "O moșie istorică la marginea Parcului Național Veluwezoom, cu un parc remarcabil.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "O moșie protejată din regiunea Veluwezoom, cu clădiri istorice și grădini.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "O zonă naturală din cadrul Veluwezoom, cunoscută pentru peisajul său deluros de landă.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "O moșie istorică din Veluwezoom, utilizată astăzi ca hotel și centru de conferințe.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "O proprietate privată întinsă în Veluwezoom, cunoscută pentru castelul său și natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "O somptuoasă moșie cu castel baroc și grădini importante în regiunea Veluwezoom.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            },
+            {
+                  "name": "Snippendael",
+                  "text": "O zonă naturală protejată în Parcul Național Veluwezoom, cu trasee de drumeție variate.",
+                  "category": "natural",
+                  "coords": [
+                        6.011934,
+                        52.010201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "The oldest national park in the Netherlands, characterized by forests, heaths, and sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "A historic estate on the edge of Veluwezoom National Park featuring a notable parkland.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "A heritage-listed estate in the Veluwezoom region featuring historic buildings and gardens.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "A natural area within the Veluwezoom known for its hilly heathland.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "A historic estate in the Veluwezoom, currently used as a hotel and conference center.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "An extensive private estate in the Veluwezoom known for its castle and surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "A magnificent Baroque castle estate with significant gardens in the Veluwezoom region.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            },
+            {
+                  "name": "Snippendael",
+                  "text": "A protected natural area within the Veluwezoom National Park with varied hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        6.011934,
+                        52.010201
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Veluwezoom Moräne", hu: "Veluwezoom-moréna", ro: "Veluwezoom morenă", en: "Veluwezoom Moraine" },
@@ -759,7 +1209,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-schoorlse-duinen-relief-v2.webp",
   },
   {
-    id: "netherlands-rozenheuvel-relief-v2",
+    id: "netherlands-rozenheuvel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Der älteste Nationalpark der Niederlande, geprägt von Wäldern, Heideflächen und Sanddünen.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "Ein historisches Landgut in der Nähe von Rozenheuvel, bekannt für sein Herrenhaus und den Park.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "Ein malerisches Anwesen in der Region Veluwezoom, das für seine Gartenarchitektur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "Ein bewaldetes Naturschutzgebiet, das Teil der weitläufigen Veluwe-Landschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "Ein historisches Landgut mit einem markanten Gebäude, das heute als Hotel und Konferenzzentrum dient.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Hof te Dieren",
+                  "text": "Ein ehemaliges Jagdschloss und Landgut der Oranier, heute ein bedeutendes Naturgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        6.074409,
+                        52.04963
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "Eines der besterhaltenen barocken Landgüter der Niederlande mit beeindruckenden Gärten.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "Ein prächtiges Schloss auf dem Landgut Middachten, umgeben von einem Wassergraben.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Hollandia legrégebbi nemzeti parkja, amelyet erdők, puszták és homokdűnék jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "Történelmi birtok Rozenheuvel közelében, amely kúriájáról és parkjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "Festői birtok a Veluwezoom régióban, amely kertépítészetéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "Erdős természetvédelmi terület, amely a kiterjedt Veluwe-táj része.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "Történelmi birtok jellegzetes épülettel, amely ma szállodaként és konferenciaközpontként működik.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Hof te Dieren",
+                  "text": "Az Orániai-ház egykori vadászkastélya és birtoka, ma jelentős természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        6.074409,
+                        52.04963
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "Hollandia egyik legjobb állapotban megőrzött barokk birtoka lenyűgöző kertekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "Pompás kastély a Middachten birtokon, amelyet vizesárok vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "Cel mai vechi parc național din Țările de Jos, caracterizat prin păduri, pajiști și dune de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "O moșie istorică lângă Rozenheuvel, cunoscută pentru conacul și parcul său.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "O proprietate pitorească în regiunea Veluwezoom, cunoscută pentru arhitectura grădinilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "O rezervație naturală împădurită care face parte din peisajul vast Veluwe.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "O moșie istorică cu o clădire distinctivă care servește astăzi drept hotel și centru de conferințe.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Hof te Dieren",
+                  "text": "Un fost castel de vânătoare și moșie a Casei de Orania, astăzi o zonă naturală importantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.074409,
+                        52.04963
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "Una dintre cele mai bine conservate moșii baroce din Țările de Jos, cu grădini impresionante.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "Un castel magnific pe moșia Middachten, înconjurat de un șanț cu apă.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veluwezoom",
+                  "text": "The oldest national park in the Netherlands, characterized by forests, heathlands, and sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        6.010254,
+                        52.051776
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederoord",
+                  "text": "A historic estate near Rozenheuvel, known for its manor house and parkland.",
+                  "category": "natural",
+                  "coords": [
+                        6.052944,
+                        52.021046
+                  ]
+            },
+            {
+                  "name": "Landgoed Rhederhof",
+                  "text": "A picturesque estate in the Veluwezoom region, noted for its garden architecture.",
+                  "category": "natural",
+                  "coords": [
+                        6.018136,
+                        52.010231
+                  ]
+            },
+            {
+                  "name": "De Valkenberg",
+                  "text": "A forested nature reserve forming part of the extensive Veluwe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.041286,
+                        52.016053
+                  ]
+            },
+            {
+                  "name": "Landgoed Avegoor",
+                  "text": "A historic estate with a striking building that now serves as a hotel and conference center.",
+                  "category": "natural",
+                  "coords": [
+                        6.083589,
+                        52.029349
+                  ]
+            },
+            {
+                  "name": "Hof te Dieren",
+                  "text": "A former hunting lodge and estate of the House of Orange, now an important natural area.",
+                  "category": "natural",
+                  "coords": [
+                        6.074409,
+                        52.04963
+                  ]
+            },
+            {
+                  "name": "Middachten",
+                  "text": "One of the best-preserved baroque estates in the Netherlands with impressive gardens.",
+                  "category": "natural",
+                  "coords": [
+                        6.067974,
+                        52.034887
+                  ]
+            },
+            {
+                  "name": "Kasteel Middachten",
+                  "text": "A magnificent castle on the Middachten estate, surrounded by a moat.",
+                  "category": "castle",
+                  "coords": [
+                        6.069729,
+                        52.019029
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Rozenheuvel", hu: "Rozenheuvel", ro: "Rozenheuvel", en: "Rozenheuvel" },
@@ -1029,7 +1776,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-haarlemmerliede-ridges-relief-v2.webp",
   },
   {
-    id: "netherlands-schiermonnikoog-dune-top-relief-v2",
+    id: "netherlands-schiermonnikoog-dune-top-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Ein kleines Museum auf Schiermonnikoog, das eine vielfältige Sammlung von Muscheln und Meeresfunden präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Dieses Museum befindet sich in einem ehemaligen Bunker und dokumentiert die lokale Geschichte während des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "Ein Naturschutzgebiet, das die charakteristischen Dünenlandschaften und die Flora der Insel Schiermonnikoog schützt.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Ein markanter roter Leuchtturm, der ein bekanntes Wahrzeichen auf der Insel Schiermonnikoog ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Ein ehemaliger weißer Leuchtturm auf Schiermonnikoog, der heute als historisches Denkmal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Ein Kuriositätenkabinett und Museum, das ungewöhnliche Objekte und Raritäten aus verschiedenen Epochen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "Ein weiter Sandstrand im Norden von Schiermonnikoog, ideal für Spaziergänge und Naturbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Ein kleiner Streichelzoo und Spielbereich, der besonders für Familien mit Kindern geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Egy kis múzeum Schiermonnikoog szigetén, amely kagylók és tengeri leletek változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Ez a múzeum egy egykori bunkerben található, és a második világháború helyi eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "Természetvédelmi terület, amely Schiermonnikoog szigetének jellegzetes dűnéit és növényvilágát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Egy jellegzetes vörös világítótorony, amely Schiermonnikoog szigetének egyik legismertebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Egy egykori fehér világítótorony Schiermonnikoog szigetén, amely ma történelmi műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Egy különlegességeket bemutató múzeum, amely szokatlan tárgyakat és ritkaságokat tár a látogatók elé.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "Tágas homokos tengerpart Schiermonnikoog északi részén, amely ideális sétákhoz és a természet megfigyeléséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "Egy kis állatsimogató és játszótér, amely különösen gyermekes családok számára ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "Un mic muzeu pe insula Schiermonnikoog, care prezintă o colecție diversă de scoici și obiecte marine.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "Acest muzeu este situat într-un fost buncăr și documentează istoria locală din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "O rezervație naturală care protejează peisajele dunelor și flora caracteristică insulei Schiermonnikoog.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "Un far roșu distinctiv, care reprezintă un reper cunoscut pe insula Schiermonnikoog.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "Un fost far alb pe insula Schiermonnikoog, care astăzi servește ca monument istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "Un cabinet de curiozități și muzeu care expune obiecte neobișnuite și rarități din diverse epoci.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "O plajă de nisip întinsă în nordul insulei Schiermonnikoog, ideală pentru plimbări și observarea naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "O mică grădină zoologică cu animale blânde și o zonă de joacă, ideală pentru familiile cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schelpenmuseum Paal 14",
+                  "text": "A small museum on Schiermonnikoog showcasing a diverse collection of shells and marine findings.",
+                  "category": "museum",
+                  "coords": [
+                        6.152157,
+                        53.478866
+                  ]
+            },
+            {
+                  "name": "Bunkermuseum Schlei",
+                  "text": "This museum is located in a former bunker and documents local history during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        6.185761,
+                        53.496895
+                  ]
+            },
+            {
+                  "name": "Duinen Schiermonnikoog",
+                  "text": "A nature reserve protecting the characteristic dune landscapes and flora of Schiermonnikoog island.",
+                  "category": "natural",
+                  "coords": [
+                        6.173828,
+                        53.487556
+                  ]
+            },
+            {
+                  "name": "Noordertoren",
+                  "text": "A distinctive red lighthouse that serves as a well-known landmark on Schiermonnikoog island.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146531,
+                        53.486836
+                  ]
+            },
+            {
+                  "name": "Zuidertoren",
+                  "text": "A former white lighthouse on Schiermonnikoog that now serves as a historical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        6.158618,
+                        53.481475
+                  ]
+            },
+            {
+                  "name": "RariteitenKabinet Gribus",
+                  "text": "A cabinet of curiosities and museum exhibiting unusual objects and rarities from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        6.155468,
+                        53.486285
+                  ]
+            },
+            {
+                  "name": "Noorderstrand",
+                  "text": "A wide sandy beach in the north of Schiermonnikoog, ideal for walks and nature observation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.196973,
+                        53.500545
+                  ]
+            },
+            {
+                  "name": "Dier- en speelweide 'Witte Winde'",
+                  "text": "A small petting zoo and play area, particularly suitable for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        6.166555,
+                        53.479425
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Schiermonnikoog Dünenkamm", hu: "Schiermonnikoog-dűnegerinc", ro: "Schiermonnikoog creastă dune", en: "Schiermonnikoog Dune Ridge" },
@@ -1074,7 +2118,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-schiermonnikoog-dune-top-relief-v2.webp",
   },
   {
-    id: "netherlands-texel-dune-top-relief-v2",
+    id: "netherlands-texel-dune-top-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "EcoMare",
+                  "text": "Ein Naturzentrum und eine Seehundstation auf Texel, die die lokale Tierwelt schützt und zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Ein Hallenbad und Wasserpark auf der Insel Texel für Freizeit und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Ein Museum auf Texel, das Strandgut und die maritime Geschichte der Insel ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Fischer’s Weid",
+                  "text": "Ein ruhiges Naturschutzgebiet auf Texel, das ein wichtiger Rückzugsort für Vögel ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.773913,
+                        53.096216
+                  ]
+            },
+            {
+                  "name": "De Kemphaan",
+                  "text": "Eine historische Windmühle auf Texel, die als technisches Denkmal in der Landschaft steht.",
+                  "category": "landmark",
+                  "coords": [
+                        4.797582,
+                        53.081303
+                  ]
+            },
+            {
+                  "name": "Nol van Bertus",
+                  "text": "Ein Aussichtspunkt in den Dünen von Texel mit weitem Blick über die Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.775525,
+                        53.114679
+                  ]
+            },
+            {
+                  "name": "Kindernatuurpad",
+                  "text": "Ein Naturlehrpfad für Kinder auf Texel, der Wissen über die Dünenwelt vermittelt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.757145,
+                        53.082035
+                  ]
+            },
+            {
+                  "name": "Vogelkijkscherm",
+                  "text": "Ein Beobachtungspunkt auf Texel zur ungestörten Beobachtung der lokalen Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        4.749213,
+                        53.068172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "EcoMare",
+                  "text": "Természetvédelmi központ és fókamenhely Texelen, amely védi és bemutatja a helyi vadvilágot.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Fedett uszoda és vízi park Texel szigetén kikapcsolódás és pihenés céljából.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Texeli múzeum, amely a partmenti leleteket és a sziget tengerészeti történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Fischer’s Weid",
+                  "text": "Csendes természetvédelmi terület Texelen, amely fontos madármenhely.",
+                  "category": "natural",
+                  "coords": [
+                        4.773913,
+                        53.096216
+                  ]
+            },
+            {
+                  "name": "De Kemphaan",
+                  "text": "Történelmi szélmalom Texelen, amely technikai műemlékként áll a tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        4.797582,
+                        53.081303
+                  ]
+            },
+            {
+                  "name": "Nol van Bertus",
+                  "text": "Kilátópont a texeli dűnékben, tágas kilátással a partmenti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        4.775525,
+                        53.114679
+                  ]
+            },
+            {
+                  "name": "Kindernatuurpad",
+                  "text": "Gyermekeknek szóló tanösvény Texelen, amely a dűnék világáról nyújt ismereteket.",
+                  "category": "landmark",
+                  "coords": [
+                        4.757145,
+                        53.082035
+                  ]
+            },
+            {
+                  "name": "Vogelkijkscherm",
+                  "text": "Madármegfigyelő hely Texelen a helyi madárvilág zavartalan megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        4.749213,
+                        53.068172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "EcoMare",
+                  "text": "Un centru natural și un sanctuar pentru foci pe Texel, care protejează și prezintă fauna locală.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "O piscină interioară și parc acvatic pe insula Texel pentru agrement și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Un muzeu de pe Texel care expune obiecte găsite pe plajă și istoria maritimă a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Fischer’s Weid",
+                  "text": "O rezervație naturală liniștită pe Texel, care este un refugiu important pentru păsări.",
+                  "category": "natural",
+                  "coords": [
+                        4.773913,
+                        53.096216
+                  ]
+            },
+            {
+                  "name": "De Kemphaan",
+                  "text": "Moară de vânt istorică pe Texel, care reprezintă un monument tehnic în peisaj.",
+                  "category": "landmark",
+                  "coords": [
+                        4.797582,
+                        53.081303
+                  ]
+            },
+            {
+                  "name": "Nol van Bertus",
+                  "text": "Un punct de belvedere în dunele de pe Texel, cu o vedere largă asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        4.775525,
+                        53.114679
+                  ]
+            },
+            {
+                  "name": "Kindernatuurpad",
+                  "text": "Un traseu didactic în natură pentru copii pe Texel, care oferă cunoștințe despre lumea dunelor.",
+                  "category": "landmark",
+                  "coords": [
+                        4.757145,
+                        53.082035
+                  ]
+            },
+            {
+                  "name": "Vogelkijkscherm",
+                  "text": "Un punct de observație pe Texel pentru observarea discretă a păsărilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        4.749213,
+                        53.068172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "EcoMare",
+                  "text": "A nature center and seal sanctuary on Texel that protects and showcases local wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "An indoor pool and water park on the island of Texel for leisure and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "A museum on Texel exhibiting beachcombing finds and the island's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Fischer’s Weid",
+                  "text": "A peaceful nature reserve on Texel that is an important sanctuary for birds.",
+                  "category": "natural",
+                  "coords": [
+                        4.773913,
+                        53.096216
+                  ]
+            },
+            {
+                  "name": "De Kemphaan",
+                  "text": "A historic windmill on Texel, standing as a technical monument in the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        4.797582,
+                        53.081303
+                  ]
+            },
+            {
+                  "name": "Nol van Bertus",
+                  "text": "A viewpoint in the Texel dunes with wide views over the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.775525,
+                        53.114679
+                  ]
+            },
+            {
+                  "name": "Kindernatuurpad",
+                  "text": "A nature educational trail for children on Texel, providing knowledge about the dune environment.",
+                  "category": "landmark",
+                  "coords": [
+                        4.757145,
+                        53.082035
+                  ]
+            },
+            {
+                  "name": "Vogelkijkscherm",
+                  "text": "An observation point on Texel for the undisturbed watching of local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        4.749213,
+                        53.068172
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Texel Dünengipfel", hu: "Texel-dűnecsúcs", ro: "Texel vârf dună", en: "Texel Dune Peak" },
@@ -1254,7 +2595,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-cauberg-relief-v2.webp",
   },
   {
-    id: "netherlands-esberg-relief-v2",
+    id: "netherlands-esberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Geelders",
+                  "text": "Ein Naturschutzgebiet in der Provinz Nordbrabant, das für seine Lehmböden und Wälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.383001,
+                        51.595912
+                  ]
+            },
+            {
+                  "name": "Museum van Brabantse Mutsen en Poffers",
+                  "text": "Ein Museum in Schijndel, das sich der traditionellen Kopfbedeckungen der Frauen aus Brabant widmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.459858,
+                        51.5626
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kienehoeve",
+                  "text": "Ein Streichelzoo und Park für Kinder in der Nähe von Schijndel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.450699,
+                        51.57408
+                  ]
+            },
+            {
+                  "name": "Museum Jan Heestershuis",
+                  "text": "Ein Museum in Schijndel, das im ehemaligen Wohnhaus und Atelier des Künstlers Jan Heesters untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.432554,
+                        51.618083
+                  ]
+            },
+            {
+                  "name": "Mariëndael",
+                  "text": "Ein Kulturzentrum und Theater in Schijndel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.458078,
+                        51.559613
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ein Wildgehege in Esberg, in dem Hirsche beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        5.459038,
+                        51.614899
+                  ]
+            },
+            {
+                  "name": "Kasteel Henkenshage",
+                  "text": "Ein ehemaliges Herrenhaus und Wasserschloss in Sint-Oedenrode.",
+                  "category": "castle",
+                  "coords": [
+                        5.45642,
+                        51.558884
+                  ]
+            },
+            {
+                  "name": "Aan de Pegstukken",
+                  "text": "Eine historische Windmühle in Schijndel, die als Getreidemühle erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445067,
+                        51.615362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Geelders",
+                  "text": "Természetvédelmi terület Észak-Brabant tartományban, amely agyagos talajáról és erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.383001,
+                        51.595912
+                  ]
+            },
+            {
+                  "name": "Museum van Brabantse Mutsen en Poffers",
+                  "text": "Múzeum Schijndelben, amely a brabanti nők hagyományos fejviseleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.459858,
+                        51.5626
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kienehoeve",
+                  "text": "Állatsimogató és park gyermekek számára Schijndel közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.450699,
+                        51.57408
+                  ]
+            },
+            {
+                  "name": "Museum Jan Heestershuis",
+                  "text": "Jan Heesters művész egykori lakóházában és műtermében berendezett múzeum Schijndelben.",
+                  "category": "museum",
+                  "coords": [
+                        5.432554,
+                        51.618083
+                  ]
+            },
+            {
+                  "name": "Mariëndael",
+                  "text": "Kulturális központ és színház Schijndelben.",
+                  "category": "cultural",
+                  "coords": [
+                        5.458078,
+                        51.559613
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Vadaspark Esbergben, ahol szarvasok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        5.459038,
+                        51.614899
+                  ]
+            },
+            {
+                  "name": "Kasteel Henkenshage",
+                  "text": "Egykori nemesi kúria és vízi kastély Sint-Oedenrode-ban.",
+                  "category": "castle",
+                  "coords": [
+                        5.45642,
+                        51.558884
+                  ]
+            },
+            {
+                  "name": "Aan de Pegstukken",
+                  "text": "Történelmi szélmalom Schijndelben, amely eredetileg gabonamalomnak épült.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445067,
+                        51.615362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Geelders",
+                  "text": "O rezervație naturală în provincia Brabantul de Nord, cunoscută pentru solurile argiloase și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        5.383001,
+                        51.595912
+                  ]
+            },
+            {
+                  "name": "Museum van Brabantse Mutsen en Poffers",
+                  "text": "Un muzeu din Schijndel dedicat acoperămintelor de cap tradiționale ale femeilor din Brabant.",
+                  "category": "museum",
+                  "coords": [
+                        5.459858,
+                        51.5626
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kienehoeve",
+                  "text": "O fermă educațională și parc pentru copii lângă Schijndel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.450699,
+                        51.57408
+                  ]
+            },
+            {
+                  "name": "Museum Jan Heestershuis",
+                  "text": "Un muzeu din Schijndel găzduit în fosta casă și atelier al artistului Jan Heesters.",
+                  "category": "museum",
+                  "coords": [
+                        5.432554,
+                        51.618083
+                  ]
+            },
+            {
+                  "name": "Mariëndael",
+                  "text": "Un centru cultural și teatru situat în Schijndel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.458078,
+                        51.559613
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Un parc cu cerbi în Esberg, unde pot fi observați cerbii.",
+                  "category": "recreational",
+                  "coords": [
+                        5.459038,
+                        51.614899
+                  ]
+            },
+            {
+                  "name": "Kasteel Henkenshage",
+                  "text": "O fostă reședință nobiliară și castel cu șanț de apă în Sint-Oedenrode.",
+                  "category": "castle",
+                  "coords": [
+                        5.45642,
+                        51.558884
+                  ]
+            },
+            {
+                  "name": "Aan de Pegstukken",
+                  "text": "O moară de vânt istorică în Schijndel, construită ca moară de cereale.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445067,
+                        51.615362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Geelders",
+                  "text": "A nature reserve in the province of North Brabant, known for its clay soils and forests.",
+                  "category": "natural",
+                  "coords": [
+                        5.383001,
+                        51.595912
+                  ]
+            },
+            {
+                  "name": "Museum van Brabantse Mutsen en Poffers",
+                  "text": "A museum in Schijndel dedicated to the traditional headwear of Brabantian women.",
+                  "category": "museum",
+                  "coords": [
+                        5.459858,
+                        51.5626
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kienehoeve",
+                  "text": "A petting zoo and park for children located near Schijndel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.450699,
+                        51.57408
+                  ]
+            },
+            {
+                  "name": "Museum Jan Heestershuis",
+                  "text": "A museum in Schijndel housed in the former home and studio of artist Jan Heesters.",
+                  "category": "museum",
+                  "coords": [
+                        5.432554,
+                        51.618083
+                  ]
+            },
+            {
+                  "name": "Mariëndael",
+                  "text": "A cultural center and theatre located in Schijndel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.458078,
+                        51.559613
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "A deer park in Esberg where deer can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        5.459038,
+                        51.614899
+                  ]
+            },
+            {
+                  "name": "Kasteel Henkenshage",
+                  "text": "A former manor house and moated castle in Sint-Oedenrode.",
+                  "category": "castle",
+                  "coords": [
+                        5.45642,
+                        51.558884
+                  ]
+            },
+            {
+                  "name": "Aan de Pegstukken",
+                  "text": "A historic windmill in Schijndel, originally built as a flour mill.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445067,
+                        51.615362
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Esberg", hu: "Esberg", ro: "Esberg", en: "Esberg" },
@@ -1344,7 +2982,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-vlieberg-relief-v2.webp",
   },
   {
-    id: "netherlands-schaelsberg-relief-v2",
+    id: "netherlands-schaelsberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasteel Valkenburg",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg in Valkenburg.",
+                  "category": "castle",
+                  "coords": [
+                        5.830812,
+                        50.861943
+                  ]
+            },
+            {
+                  "name": "Museum Valkenburg",
+                  "text": "Ein Museum in Valkenburg (Schaelsberg), das sich der lokalen Kunst und Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.83208,
+                        50.863716
+                  ]
+            },
+            {
+                  "name": "Romeinse Katakomben",
+                  "text": "Ein Museum in Schaelsberg, das eine detailgetreue Nachbildung der römischen Katakomben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.821624,
+                        50.865493
+                  ]
+            },
+            {
+                  "name": "Gemeentegrot",
+                  "text": "Eine historische Mergelgrotte und archäologische Stätte in Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.828709,
+                        50.862407
+                  ]
+            },
+            {
+                  "name": "Kasteel Oost",
+                  "text": "Ein historisches Schloss und Landgut in Schaelsberg.",
+                  "category": "castle",
+                  "coords": [
+                        5.841752,
+                        50.861878
+                  ]
+            },
+            {
+                  "name": "Romeinse villa Groot Haasdal-Billich",
+                  "text": "Die archäologischen Überreste einer ehemaligen römischen Villa in Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.830907,
+                        50.891123
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Valkenburg",
+                  "text": "Ein stimmungsvolles Freilichttheater in Schaelsberg für kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.825489,
+                        50.864614
+                  ]
+            },
+            {
+                  "name": "Burg Den Halder",
+                  "text": "Ein historisches Schloss in Schaelsberg, das Teil der alten Stadtbefestigung ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.830968,
+                        50.864719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasteel Valkenburg",
+                  "text": "Középkori várrom egy dombtetőn Valkenburg városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.830812,
+                        50.861943
+                  ]
+            },
+            {
+                  "name": "Museum Valkenburg",
+                  "text": "Egy múzeum Valkenburgban (Schaelsberg), amely a helyi művészetet és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.83208,
+                        50.863716
+                  ]
+            },
+            {
+                  "name": "Romeinse Katakomben",
+                  "text": "Egy múzeum Schaelsbergben, amely a római katakombák hű másolatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.821624,
+                        50.865493
+                  ]
+            },
+            {
+                  "name": "Gemeentegrot",
+                  "text": "Egy történelmi márga-barlang és régészeti lelőhely Schaelsbergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.828709,
+                        50.862407
+                  ]
+            },
+            {
+                  "name": "Kasteel Oost",
+                  "text": "Egy történelmi kastély és birtok Schaelsbergben.",
+                  "category": "castle",
+                  "coords": [
+                        5.841752,
+                        50.861878
+                  ]
+            },
+            {
+                  "name": "Romeinse villa Groot Haasdal-Billich",
+                  "text": "Egy egykori római villa régészeti maradványai Schaelsbergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.830907,
+                        50.891123
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Valkenburg",
+                  "text": "Egy hangulatos szabadtéri színház Schaelsbergben kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        5.825489,
+                        50.864614
+                  ]
+            },
+            {
+                  "name": "Kasteel Den Halder",
+                  "text": "Egy történelmi kastély Schaelsbergben, amely a régi városfal része.",
+                  "category": "castle",
+                  "coords": [
+                        5.830968,
+                        50.864719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasteel Valkenburg",
+                  "text": "Ruinele unui castel medieval situat pe un deal din Valkenburg.",
+                  "category": "castle",
+                  "coords": [
+                        5.830812,
+                        50.861943
+                  ]
+            },
+            {
+                  "name": "Museum Valkenburg",
+                  "text": "Un muzeu din Valkenburg (Schaelsberg) dedicat artei și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        5.83208,
+                        50.863716
+                  ]
+            },
+            {
+                  "name": "Romeinse Katakomben",
+                  "text": "Un muzeu din Schaelsberg care prezintă o replică detaliată a catacombelor romane.",
+                  "category": "museum",
+                  "coords": [
+                        5.821624,
+                        50.865493
+                  ]
+            },
+            {
+                  "name": "Gemeentegrot",
+                  "text": "O peșteră istorică de marnă și sit arheologic în Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.828709,
+                        50.862407
+                  ]
+            },
+            {
+                  "name": "Kasteel Oost",
+                  "text": "Un castel și domeniu istoric în Schaelsberg.",
+                  "category": "castle",
+                  "coords": [
+                        5.841752,
+                        50.861878
+                  ]
+            },
+            {
+                  "name": "Romeinse villa Groot Haasdal-Billich",
+                  "text": "Vestigiile arheologice ale unei foste vile romane din Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.830907,
+                        50.891123
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Valkenburg",
+                  "text": "Un teatru în aer liber pitoresc din Schaelsberg pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.825489,
+                        50.864614
+                  ]
+            },
+            {
+                  "name": "Kasteel Den Halder",
+                  "text": "Un castel istoric din Schaelsberg, care face parte din vechea fortificație a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        5.830968,
+                        50.864719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasteel Valkenburg",
+                  "text": "The ruins of a medieval hilltop castle overlooking Valkenburg.",
+                  "category": "castle",
+                  "coords": [
+                        5.830812,
+                        50.861943
+                  ]
+            },
+            {
+                  "name": "Museum Valkenburg",
+                  "text": "A museum in Valkenburg (Schaelsberg) dedicated to local art and history.",
+                  "category": "museum",
+                  "coords": [
+                        5.83208,
+                        50.863716
+                  ]
+            },
+            {
+                  "name": "Romeinse Katakomben",
+                  "text": "A museum in Schaelsberg featuring a detailed replica of Roman catacombs.",
+                  "category": "museum",
+                  "coords": [
+                        5.821624,
+                        50.865493
+                  ]
+            },
+            {
+                  "name": "Gemeentegrot",
+                  "text": "A historic marl cave and archaeological site in Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.828709,
+                        50.862407
+                  ]
+            },
+            {
+                  "name": "Kasteel Oost",
+                  "text": "A historic castle and estate in Schaelsberg.",
+                  "category": "castle",
+                  "coords": [
+                        5.841752,
+                        50.861878
+                  ]
+            },
+            {
+                  "name": "Romeinse villa Groot Haasdal-Billich",
+                  "text": "The archaeological remains of a former Roman villa in Schaelsberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.830907,
+                        50.891123
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Valkenburg",
+                  "text": "An atmospheric open-air theatre in Schaelsberg for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.825489,
+                        50.864614
+                  ]
+            },
+            {
+                  "name": "Den Halder Castle",
+                  "text": "A historic castle in Schaelsberg that is part of the old city fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        5.830968,
+                        50.864719
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Schaelsberg", hu: "Schaelsberg", ro: "Schaelsberg", en: "Schaelsberg" },
@@ -1929,7 +3864,304 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-doornse-berg-relief-v2.webp",
   },
   {
-    id: "netherlands-elspeet-heide-relief-v2",
+    id: "netherlands-elspeet-heide-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staverden",
+                  "text": "Ein malerisches Naturschutzgebiet und historisches Anwesen in der Nähe von Elspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.742501,
+                        52.282629
+                  ]
+            },
+            {
+                  "name": "Kasteel Staverden",
+                  "text": "Ein historisches Schloss, das für seine Gärten und die dort lebenden weißen Pfauen bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.738572,
+                        52.285458
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Elspeet",
+                  "text": "Ein Museum, das die lokale Geschichte und das Erbe des Dorfes Elspeet dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.787427,
+                        52.292028
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein familienfreundlicher Streichelzoo in der Gegend von Elspeet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.750021,
+                        52.248136
+                  ]
+            },
+            {
+                  "name": "Gemeentebos Nunspeet",
+                  "text": "Ein städtisches Waldgebiet mit Wanderwegen für Naturspaziergänge in der Nähe von Nunspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.812335,
+                        52.276353
+                  ]
+            },
+            {
+                  "name": "Amfitheater Kuilhegge",
+                  "text": "Ein Freiluft-Amphitheater, das für lokale kulturelle Aufführungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        5.806301,
+                        52.278032
+                  ]
+            },
+            {
+                  "name": "Boonen",
+                  "text": "Ein geschütztes Naturschutzgebiet, das Lebensraum für die lokale Flora und Fauna bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.78201,
+                        52.2862
+                  ]
+            },
+            {
+                  "name": "Houtdorper- en Speulderveld",
+                  "text": "Eine weite Heidelandschaft und ein Naturschutzgebiet, ideal zum Wandern und Beobachten von Wildtieren.",
+                  "category": "natural",
+                  "coords": [
+                        5.728858,
+                        52.256941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staverden",
+                  "text": "Festői természetvédelmi terület és történelmi birtok Elspeet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.742501,
+                        52.282629
+                  ]
+            },
+            {
+                  "name": "Kasteel Staverden",
+                  "text": "Történelmi kastély, amely kertjeiről és az ott élő fehér pávákról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.738572,
+                        52.285458
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Elspeet",
+                  "text": "Elspeet falu helytörténetét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.787427,
+                        52.292028
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Családbarát állatsimogató Elspeet környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.750021,
+                        52.248136
+                  ]
+            },
+            {
+                  "name": "Gemeentebos Nunspeet",
+                  "text": "Önkormányzati erdőterület természetjáró ösvényekkel Nunspeet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.812335,
+                        52.276353
+                  ]
+            },
+            {
+                  "name": "Amfitheater Kuilhegge",
+                  "text": "Szabadtéri amfiteátrum, amelyet helyi kulturális előadásokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.806301,
+                        52.278032
+                  ]
+            },
+            {
+                  "name": "Boonen",
+                  "text": "Védett természetvédelmi terület, amely a helyi növény- és állatvilágnak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        5.78201,
+                        52.2862
+                  ]
+            },
+            {
+                  "name": "Houtdorper- en Speulderveld",
+                  "text": "Hatalmas fenyér és természetvédelmi terület, amely ideális túrázásra és vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.728858,
+                        52.256941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staverden",
+                  "text": "O rezervație naturală pitorească și un domeniu istoric situat lângă Elspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.742501,
+                        52.282629
+                  ]
+            },
+            {
+                  "name": "Kasteel Staverden",
+                  "text": "Un castel istoric cunoscut pentru grădinile sale și prezența păunilor albi.",
+                  "category": "castle",
+                  "coords": [
+                        5.738572,
+                        52.285458
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Elspeet",
+                  "text": "Un muzeu care documentează istoria locală și patrimoniul satului Elspeet.",
+                  "category": "museum",
+                  "coords": [
+                        5.787427,
+                        52.292028
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "O grădină zoologică pentru copii situată în zona Elspeet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.750021,
+                        52.248136
+                  ]
+            },
+            {
+                  "name": "Gemeentebos Nunspeet",
+                  "text": "O zonă forestieră municipală care oferă trasee pentru plimbări în natură lângă Nunspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.812335,
+                        52.276353
+                  ]
+            },
+            {
+                  "name": "Amfitheater Kuilhegge",
+                  "text": "Un amfiteatru în aer liber utilizat pentru spectacole și evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.806301,
+                        52.278032
+                  ]
+            },
+            {
+                  "name": "Boonen",
+                  "text": "O rezervație naturală protejată care oferă un habitat pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        5.78201,
+                        52.2862
+                  ]
+            },
+            {
+                  "name": "Houtdorper- en Speulderveld",
+                  "text": "O rezervație naturală întinsă, ideală pentru drumeții și observarea faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        5.728858,
+                        52.256941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staverden",
+                  "text": "A scenic nature reserve and historic estate located near Elspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.742501,
+                        52.282629
+                  ]
+            },
+            {
+                  "name": "Kasteel Staverden",
+                  "text": "A historic castle known for its gardens and the presence of white peacocks.",
+                  "category": "castle",
+                  "coords": [
+                        5.738572,
+                        52.285458
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Elspeet",
+                  "text": "A museum documenting the local history and heritage of the village of Elspeet.",
+                  "category": "museum",
+                  "coords": [
+                        5.787427,
+                        52.292028
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A family-friendly petting zoo located in the Elspeet area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.750021,
+                        52.248136
+                  ]
+            },
+            {
+                  "name": "Gemeentebos Nunspeet",
+                  "text": "A municipal forest area offering trails for nature walks near Nunspeet.",
+                  "category": "natural",
+                  "coords": [
+                        5.812335,
+                        52.276353
+                  ]
+            },
+            {
+                  "name": "Amfitheater Kuilhegge",
+                  "text": "An outdoor amphitheatre used for local cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.806301,
+                        52.278032
+                  ]
+            },
+            {
+                  "name": "Boonen",
+                  "text": "A protected nature reserve providing a habitat for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        5.78201,
+                        52.2862
+                  ]
+            },
+            {
+                  "name": "Houtdorper- en Speulderveld",
+                  "text": "A vast heathland and nature reserve ideal for hiking and observing wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.728858,
+                        52.256941
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Elspeet Hügel", hu: "Elspeet-domb", ro: "Elspeet deal", en: "Elspeet Hill" },

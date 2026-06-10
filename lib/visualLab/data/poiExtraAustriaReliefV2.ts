@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const austriaReliefV2: POI[] = [
 
   {
-    id: "austria-hochschwab-relief-v2",
+    id: "austria-hochschwab-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hochschwabmuseum",
+                  "text": "Ein Museum, das der Naturgeschichte und der Bergsteigerkultur der Hochschwab-Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.112445,
+                        47.580404
+                  ]
+            },
+            {
+                  "name": "Buchbergkogel",
+                  "text": "Ein Berggipfel im Hochschwab-Massiv, beliebt zum Wandern und für Panoramablicke.",
+                  "category": "landmark",
+                  "coords": [
+                        15.080436,
+                        47.584388
+                  ]
+            },
+            {
+                  "name": "Zinken",
+                  "text": "Ein markanter Gipfel im Hochschwab-Gebirge, der anspruchsvolle Wege für Bergsteiger bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096136,
+                        47.596659
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "Ein hoher Berggipfel im Hochschwab-Massiv, bekannt für seine beeindruckenden Kalksteinfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Ein schroffer Gipfel in der Hochschwab-Region, der über steile und malerische Wanderwege erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "Der Hochschwab ist der höchste Gipfel des gleichnamigen Gebirgsmassivs in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "Der Zagelkogel ist ein markanter Berggipfel in der Hochschwabgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "Die Stangenwand ist ein bekannter Gipfel in der Hochschwabgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hochschwabmuseum",
+                  "text": "A Hochschwab-régió természetrajzának és hegymászó kultúrájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.112445,
+                        47.580404
+                  ]
+            },
+            {
+                  "name": "Buchbergkogel",
+                  "text": "Hegycsúcs a Hochschwab-hegységben, amely népszerű a túrázók körében a kilátás miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.080436,
+                        47.584388
+                  ]
+            },
+            {
+                  "name": "Zinken",
+                  "text": "Kiemelkedő csúcs a Hochschwab-hegységben, amely kihívást jelentő útvonalakat kínál a hegymászóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096136,
+                        47.596659
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "Magas hegycsúcs a Hochschwab-masszívumban, amely lenyűgöző mészkőszikláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Egyenetlen csúcs a Hochschwab-régióban, amely meredek és festői túraútvonalakon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "A Hochschwab a stájerországi Hochschwab-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "A Zagelkogel egy jellegzetes hegycsúcs a Hochschwab-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "A Stangenwand a Hochschwab-csoport egyik ismert hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hochschwabmuseum",
+                  "text": "Un muzeu dedicat istoriei naturale și culturii alpinismului din regiunea Hochschwab.",
+                  "category": "museum",
+                  "coords": [
+                        15.112445,
+                        47.580404
+                  ]
+            },
+            {
+                  "name": "Buchbergkogel",
+                  "text": "Un vârf muntos din masivul Hochschwab, popular pentru drumeții și vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.080436,
+                        47.584388
+                  ]
+            },
+            {
+                  "name": "Zinken",
+                  "text": "Un vârf proeminent din munții Hochschwab, oferind trasee provocatoare pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096136,
+                        47.596659
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "Un vârf muntos înalt din masivul Hochschwab, cunoscut pentru stâncile sale impresionante de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Un vârf accidentat din regiunea Hochschwab, accesibil prin trasee de drumeție abrupte și pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "Hochschwab este cel mai înalt vârf al masivului muntos omonim din Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "Zagelkogel este un vârf montan proeminent în grupul Hochschwab.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "Stangenwand este un vârf cunoscut din grupul Hochschwab.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hochschwabmuseum",
+                  "text": "A museum dedicated to the natural history and mountaineering culture of the Hochschwab region.",
+                  "category": "museum",
+                  "coords": [
+                        15.112445,
+                        47.580404
+                  ]
+            },
+            {
+                  "name": "Buchbergkogel",
+                  "text": "A mountain summit in the Hochschwab range popular for hiking and panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        15.080436,
+                        47.584388
+                  ]
+            },
+            {
+                  "name": "Zinken",
+                  "text": "A prominent peak in the Hochschwab mountains offering challenging trails for mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096136,
+                        47.596659
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "A high mountain peak in the Hochschwab massif known for its impressive limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "A rugged peak in the Hochschwab region reachable via steep and scenic hiking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "The Hochschwab is the highest peak of the eponymous mountain range in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "The Zagelkogel is a prominent mountain peak in the Hochschwab group.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "The Stangenwand is a well-known peak in the Hochschwab group.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Hochschwab", hu: "Hochschwab", ro: "Hochschwab", en: "Hochschwab" },
@@ -48,7 +345,268 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hochschwab-relief-v2.webp",
   },
   {
-    id: "austria-lechtaler-alpen-relief-v2",
+    id: "austria-lechtaler-alpen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zwölferspitze",
+                  "text": "Ein markanter Berggipfel in den Lechtaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.464984,
+                        47.250818
+                  ]
+            },
+            {
+                  "name": "Seekogel",
+                  "text": "Ein Gipfel in den Lechtaler Alpen, der für Wanderer ein beliebtes Ziel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.475289,
+                        47.204641
+                  ]
+            },
+            {
+                  "name": "Leiterspitze",
+                  "text": "Der höchste Berggipfel in der Hauptkette der Lechtaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.521663,
+                        47.223308
+                  ]
+            },
+            {
+                  "name": "Blick zur Saxerwand",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die markante Saxerwand in den Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        10.458416,
+                        47.226583
+                  ]
+            },
+            {
+                  "name": "Bitterscharte 2525 m",
+                  "text": "Ein hochgelegener Aussichtspunkt an einer Scharte in den Lechtaler Alpen auf 2525 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        10.536952,
+                        47.219125
+                  ]
+            },
+            {
+                  "name": "Maria-Hilf-Kapelle",
+                  "text": "Eine kleine Kapelle in den Lechtaler Alpen, die als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.451169,
+                        47.233914
+                  ]
+            },
+            {
+                  "name": "Hirschleskopf",
+                  "text": "Ein Flurkreuz oder Gipfelkreuz am Hirschleskopf in den Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.51158,
+                        47.259559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zwölferspitze",
+                  "text": "Jellegzetes hegycsúcs a Lechtali-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.464984,
+                        47.250818
+                  ]
+            },
+            {
+                  "name": "Seekogel",
+                  "text": "Hegycsúcs a Lechtali-Alpokban, amely népszerű célpont a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.475289,
+                        47.204641
+                  ]
+            },
+            {
+                  "name": "Leiterspitze",
+                  "text": "A Lechtali-Alpok főgerincének legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        10.521663,
+                        47.223308
+                  ]
+            },
+            {
+                  "name": "Blick zur Saxerwand",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a jellegzetes Saxerwandra.",
+                  "category": "natural",
+                  "coords": [
+                        10.458416,
+                        47.226583
+                  ]
+            },
+            {
+                  "name": "Bitterscharte 2525 m",
+                  "text": "Magasan fekvő kilátópont egy hegyi nyeregben a Lechtali-Alpokban, 2525 méteren.",
+                  "category": "natural",
+                  "coords": [
+                        10.536952,
+                        47.219125
+                  ]
+            },
+            {
+                  "name": "Maria-Hilf-Kapelle",
+                  "text": "Kis kápolna a Lechtali-Alpokban, amely áhítati helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        10.451169,
+                        47.233914
+                  ]
+            },
+            {
+                  "name": "Hirschleskopf",
+                  "text": "Útszéli kereszt vagy csúcskereszt a Hirschleskopfnál az Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.51158,
+                        47.259559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zwölferspitze",
+                  "text": "Un vârf montan proeminent în Alpii Lechtal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.464984,
+                        47.250818
+                  ]
+            },
+            {
+                  "name": "Seekogel",
+                  "text": "Un vârf în Alpii Lechtal, fiind o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        10.475289,
+                        47.204641
+                  ]
+            },
+            {
+                  "name": "Leiterspitze",
+                  "text": "Cel mai înalt vârf montan din lanțul principal al Alpilor Lechtal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.521663,
+                        47.223308
+                  ]
+            },
+            {
+                  "name": "Blick zur Saxerwand",
+                  "text": "Un punct de belvedere cu o vedere panoramică asupra peretelui Saxerwand.",
+                  "category": "natural",
+                  "coords": [
+                        10.458416,
+                        47.226583
+                  ]
+            },
+            {
+                  "name": "Bitterscharte 2525 m",
+                  "text": "Un punct de observație la mare altitudine într-o șa din Alpii Lechtal, la 2525 metri.",
+                  "category": "natural",
+                  "coords": [
+                        10.536952,
+                        47.219125
+                  ]
+            },
+            {
+                  "name": "Maria-Hilf-Kapelle",
+                  "text": "O mică capelă în Alpii Lechtal, care servește ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        10.451169,
+                        47.233914
+                  ]
+            },
+            {
+                  "name": "Hirschleskopf",
+                  "text": "O cruce de drum sau o cruce de vârf pe Hirschleskopf în Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.51158,
+                        47.259559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zwölferspitze",
+                  "text": "A prominent mountain peak in the Lechtal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.464984,
+                        47.250818
+                  ]
+            },
+            {
+                  "name": "Seekogel",
+                  "text": "A peak in the Lechtal Alps that is a popular destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.475289,
+                        47.204641
+                  ]
+            },
+            {
+                  "name": "Leiterspitze",
+                  "text": "The highest mountain peak in the main chain of the Lechtal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.521663,
+                        47.223308
+                  ]
+            },
+            {
+                  "name": "Blick zur Saxerwand",
+                  "text": "A viewpoint offering a wide vista of the distinctive Saxerwand in the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        10.458416,
+                        47.226583
+                  ]
+            },
+            {
+                  "name": "Bitterscharte 2525 m",
+                  "text": "A high-altitude viewpoint at a mountain notch in the Lechtal Alps at 2525 meters.",
+                  "category": "natural",
+                  "coords": [
+                        10.536952,
+                        47.219125
+                  ]
+            },
+            {
+                  "name": "Maria-Hilf-Kapelle",
+                  "text": "A small chapel in the Lechtal Alps serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        10.451169,
+                        47.233914
+                  ]
+            },
+            {
+                  "name": "Hirschleskopf",
+                  "text": "A wayside cross or summit cross located at Hirschleskopf in the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.51158,
+                        47.259559
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Lechtaler Alpen", hu: "Lechtali-Alpok", ro: "Alpii Lechtal", en: "Lechtal Alps" },
@@ -93,7 +651,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-lechtaler-alpen-relief-v2.webp",
   },
   {
-    id: "austria-ennstaler-alpen-relief-v2",
+    id: "austria-ennstaler-alpen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Großer Buchstein",
+                  "text": "Ein markanter Berggipfel in den Ennstaler Alpen in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.596637,
+                        47.610361
+                  ]
+            },
+            {
+                  "name": "Kleiner Ödstein",
+                  "text": "Ein Berggipfel in den Ennstaler Alpen, der Teil des Gesäuse-Gebirges ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609219,
+                        47.552867
+                  ]
+            },
+            {
+                  "name": "Augstein",
+                  "text": "Ein Gipfel in der Gebirgsgruppe der Ennstaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546935,
+                        47.603288
+                  ]
+            },
+            {
+                  "name": "Bruckstein",
+                  "text": "Ein Berggipfel in den Ennstaler Alpen in Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595012,
+                        47.590563
+                  ]
+            },
+            {
+                  "name": "Gsengkogel",
+                  "text": "Ein Gipfel in den Ennstaler Alpen, der ein Ziel für Bergsteiger ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575428,
+                        47.605471
+                  ]
+            },
+            {
+                  "name": "Hausmauer",
+                  "text": "Ein Gipfel in den Ennstaler Alpen, bekannt für seine Felswände.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54339,
+                        47.59091
+                  ]
+            },
+            {
+                  "name": "Himbeerstein",
+                  "text": "Ein Berg in den Ennstaler Alpen oberhalb des Ennstals.",
+                  "category": "landmark",
+                  "coords": [
+                        14.554192,
+                        47.585833
+                  ]
+            },
+            {
+                  "name": "Haindlmauer",
+                  "text": "Ein markanter Gipfel in den Ennstaler Alpen bei Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.548059,
+                        47.574498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Großer Buchstein",
+                  "text": "Jellegzetes hegycsúcs az Ennstali-Alpokban, Stájerországban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.596637,
+                        47.610361
+                  ]
+            },
+            {
+                  "name": "Kleiner Ödstein",
+                  "text": "Hegycsúcs az Ennstali-Alpokban, a Gesäuse-hegység része.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609219,
+                        47.552867
+                  ]
+            },
+            {
+                  "name": "Augstein",
+                  "text": "Hegycsúcs az Ennstali-Alpok hegycsoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546935,
+                        47.603288
+                  ]
+            },
+            {
+                  "name": "Bruckstein",
+                  "text": "Hegycsúcs az Ennstali-Alpokban, Ausztriában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595012,
+                        47.590563
+                  ]
+            },
+            {
+                  "name": "Gsengkogel",
+                  "text": "Hegycsúcs az Ennstali-Alpokban, amely kedvelt célpont a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575428,
+                        47.605471
+                  ]
+            },
+            {
+                  "name": "Hausmauer",
+                  "text": "Hegycsúcs az Ennstali-Alpokban, amely sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54339,
+                        47.59091
+                  ]
+            },
+            {
+                  "name": "Himbeerstein",
+                  "text": "Hegy az Ennstali-Alpokban az Enns völgye felett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.554192,
+                        47.585833
+                  ]
+            },
+            {
+                  "name": "Haindlmauer",
+                  "text": "Jellegzetes csúcs az Ennstali-Alpokban Admont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.548059,
+                        47.574498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Großer Buchstein",
+                  "text": "Un vârf montan proeminent în Alpii Ennstal din Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.596637,
+                        47.610361
+                  ]
+            },
+            {
+                  "name": "Kleiner Ödstein",
+                  "text": "Un vârf montan în Alpii Ennstal, făcând parte din masivul Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609219,
+                        47.552867
+                  ]
+            },
+            {
+                  "name": "Augstein",
+                  "text": "Un vârf muntos în grupul montan al Alpilor Ennstal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546935,
+                        47.603288
+                  ]
+            },
+            {
+                  "name": "Bruckstein",
+                  "text": "Un vârf montan în Alpii Ennstal din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595012,
+                        47.590563
+                  ]
+            },
+            {
+                  "name": "Gsengkogel",
+                  "text": "Un vârf în Alpii Ennstal, fiind o destinație pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575428,
+                        47.605471
+                  ]
+            },
+            {
+                  "name": "Hausmauer",
+                  "text": "Un vârf în Alpii Ennstal, cunoscut pentru pereții săi stâncoși.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54339,
+                        47.59091
+                  ]
+            },
+            {
+                  "name": "Himbeerstein",
+                  "text": "Un munte în Alpii Ennstal situat deasupra văii Enns.",
+                  "category": "landmark",
+                  "coords": [
+                        14.554192,
+                        47.585833
+                  ]
+            },
+            {
+                  "name": "Haindlmauer",
+                  "text": "Un vârf proeminent în Alpii Ennstal, lângă Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.548059,
+                        47.574498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Großer Buchstein",
+                  "text": "A prominent mountain peak in the Ennstal Alps in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.596637,
+                        47.610361
+                  ]
+            },
+            {
+                  "name": "Kleiner Ödstein",
+                  "text": "A mountain peak in the Ennstal Alps, part of the Gesäuse range.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609219,
+                        47.552867
+                  ]
+            },
+            {
+                  "name": "Augstein",
+                  "text": "A mountain peak in the Ennstal Alps mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546935,
+                        47.603288
+                  ]
+            },
+            {
+                  "name": "Bruckstein",
+                  "text": "A mountain peak in the Ennstal Alps in Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595012,
+                        47.590563
+                  ]
+            },
+            {
+                  "name": "Gsengkogel",
+                  "text": "A peak in the Ennstal Alps, serving as a destination for mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.575428,
+                        47.605471
+                  ]
+            },
+            {
+                  "name": "Hausmauer",
+                  "text": "A peak in the Ennstal Alps, known for its rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54339,
+                        47.59091
+                  ]
+            },
+            {
+                  "name": "Himbeerstein",
+                  "text": "A mountain in the Ennstal Alps above the Enns valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.554192,
+                        47.585833
+                  ]
+            },
+            {
+                  "name": "Haindlmauer",
+                  "text": "A prominent peak in the Ennstal Alps near Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.548059,
+                        47.574498
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Ennstaler Alpen", hu: "Ennstali-Alpok", ro: "Alpii Ennstal", en: "Ennstal Alps" },
@@ -138,7 +993,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-ennstaler-alpen-relief-v2.webp",
   },
   {
-    id: "austria-totes-gebirge-relief-v2",
+    id: "austria-totes-gebirge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rote Kögel",
+                  "text": "Ein Berggipfel im Toten Gebirge in Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        13.993032,
+                        47.686886
+                  ]
+            },
+            {
+                  "name": "Plankermira",
+                  "text": "Ein Gipfel im Kalksteingebirge des Toten Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004335,
+                        47.632964
+                  ]
+            },
+            {
+                  "name": "Feuertalberg",
+                  "text": "Ein Gipfel in den oberösterreichisch-steirischen Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.022162,
+                        47.685738
+                  ]
+            },
+            {
+                  "name": "Großer Hochkasten",
+                  "text": "Ein markanter Berg im östlichen Teil des Toten Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        14.047153,
+                        47.67338
+                  ]
+            },
+            {
+                  "name": "Hinterer Ofenkogel",
+                  "text": "Ein alpiner Berggipfel im Totes Gebirge-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        14.008745,
+                        47.667002
+                  ]
+            },
+            {
+                  "name": "Vorderer Ofenkogel",
+                  "text": "Ein Berg im Grenzgebiet zwischen Oberösterreich und der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        13.998616,
+                        47.665962
+                  ]
+            },
+            {
+                  "name": "Sonnleitstein",
+                  "text": "Ein Berggipfel in den österreichischen Nördlichen Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.02694,
+                        47.672725
+                  ]
+            },
+            {
+                  "name": "Rotgschirr",
+                  "text": "Ein hoher Berggipfel im Toten Gebirge, bekannt für seine weiten Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.995249,
+                        47.700601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rote Kögel",
+                  "text": "Hegycsúcs az osztrák Totes Gebirge hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.993032,
+                        47.686886
+                  ]
+            },
+            {
+                  "name": "Plankermira",
+                  "text": "Hegycsúcs a Totes Gebirge mészkőhegységében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004335,
+                        47.632964
+                  ]
+            },
+            {
+                  "name": "Feuertalberg",
+                  "text": "Hegycsúcs a felső-ausztriai-stájer Mészkő-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.022162,
+                        47.685738
+                  ]
+            },
+            {
+                  "name": "Großer Hochkasten",
+                  "text": "Jellegzetes hegy a Totes Gebirge keleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.047153,
+                        47.67338
+                  ]
+            },
+            {
+                  "name": "Hinterer Ofenkogel",
+                  "text": "Alpesi hegycsúcs a Totes Gebirge-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.008745,
+                        47.667002
+                  ]
+            },
+            {
+                  "name": "Vorderer Ofenkogel",
+                  "text": "Hegy Felső-Ausztria és Stájerország határvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.998616,
+                        47.665962
+                  ]
+            },
+            {
+                  "name": "Sonnleitstein",
+                  "text": "Hegycsúcs az osztrák Északi-Mészkőalpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.02694,
+                        47.672725
+                  ]
+            },
+            {
+                  "name": "Rotgschirr",
+                  "text": "Magas hegycsúcs a Totes Gebirgében, amely tágas kilátásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.995249,
+                        47.700601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rote Kögel",
+                  "text": "Un vârf montan în masivul Totes Gebirge din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.993032,
+                        47.686886
+                  ]
+            },
+            {
+                  "name": "Plankermira",
+                  "text": "Un vârf în munții calcaroși Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004335,
+                        47.632964
+                  ]
+            },
+            {
+                  "name": "Feuertalberg",
+                  "text": "Un vârf în Alpii Calcaroși din Austria Superioară și Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.022162,
+                        47.685738
+                  ]
+            },
+            {
+                  "name": "Großer Hochkasten",
+                  "text": "Un munte proeminent în partea de est a masivului Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.047153,
+                        47.67338
+                  ]
+            },
+            {
+                  "name": "Hinterer Ofenkogel",
+                  "text": "Un vârf montan alpin în masivul Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.008745,
+                        47.667002
+                  ]
+            },
+            {
+                  "name": "Vorderer Ofenkogel",
+                  "text": "Un munte în zona de graniță dintre Austria Superioară și Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.998616,
+                        47.665962
+                  ]
+            },
+            {
+                  "name": "Sonnleitstein",
+                  "text": "Un vârf montan în Alpii Calcaroși de Nord din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.02694,
+                        47.672725
+                  ]
+            },
+            {
+                  "name": "Rotgschirr",
+                  "text": "Un vârf montan înalt în Totes Gebirge, cunoscut pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.995249,
+                        47.700601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rote Kögel",
+                  "text": "A mountain peak in the Totes Gebirge range in Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.993032,
+                        47.686886
+                  ]
+            },
+            {
+                  "name": "Plankermira",
+                  "text": "A peak in the limestone mountains of the Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004335,
+                        47.632964
+                  ]
+            },
+            {
+                  "name": "Feuertalberg",
+                  "text": "A peak in the Upper Austrian-Styrian Limestone Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.022162,
+                        47.685738
+                  ]
+            },
+            {
+                  "name": "Großer Hochkasten",
+                  "text": "A prominent mountain in the eastern part of the Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.047153,
+                        47.67338
+                  ]
+            },
+            {
+                  "name": "Hinterer Ofenkogel",
+                  "text": "An alpine mountain peak in the Totes Gebirge massif.",
+                  "category": "landmark",
+                  "coords": [
+                        14.008745,
+                        47.667002
+                  ]
+            },
+            {
+                  "name": "Vorderer Ofenkogel",
+                  "text": "A mountain in the border area between Upper Austria and Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.998616,
+                        47.665962
+                  ]
+            },
+            {
+                  "name": "Sonnleitstein",
+                  "text": "A mountain peak in the Austrian Northern Limestone Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.02694,
+                        47.672725
+                  ]
+            },
+            {
+                  "name": "Rotgschirr",
+                  "text": "A high mountain peak in the Totes Gebirge, known for its wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.995249,
+                        47.700601
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Totes Gebirge", hu: "Totes Gebirge", ro: "Totes Gebirge", en: "Totes Gebirge" },
@@ -183,7 +1335,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-totes-gebirge-relief-v2.webp",
   },
   {
-    id: "austria-silvretta-relief-v2",
+    id: "austria-silvretta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hohes Rad",
+                  "text": "Ein markanter Berggipfel in der Silvretta-Gruppe an der Grenze zwischen Österreich und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111526,
+                        46.89286
+                  ]
+            },
+            {
+                  "name": "Hennekopf",
+                  "text": "Ein Berggipfel in der Silvretta-Region, der einen weiten Blick auf die Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.139532,
+                        46.909562
+                  ]
+            },
+            {
+                  "name": "Henne Spitze",
+                  "text": "Ein alpiner Gipfel in der Silvretta, ideal für Wanderungen und Bergsteigen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.13431,
+                        46.915628
+                  ]
+            },
+            {
+                  "name": "Madlenerspitze",
+                  "text": "Ein Teil des Silvretta-Massivs, bekannt für seine beeindruckende alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.145166,
+                        46.891875
+                  ]
+            },
+            {
+                  "name": "Haagspitze",
+                  "text": "Ein Berg in der Silvretta-Gruppe, der bei Alpinisten sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141347,
+                        46.874695
+                  ]
+            },
+            {
+                  "name": "Rauer Kopf",
+                  "text": "Ein markanter Gipfel in der Silvretta, der die umliegende Hochgebirgswelt prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.14214,
+                        46.871194
+                  ]
+            },
+            {
+                  "name": "Tiroler Kopf",
+                  "text": "Ein beeindruckender Berggipfel in den Silvretta-Alpen an der Grenze von Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140574,
+                        46.865986
+                  ]
+            },
+            {
+                  "name": "Bieltal-Kopf",
+                  "text": "Ein alpiner Gipfel in der Silvretta, der sich über das Bieltal erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.127536,
+                        46.879072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hohes Rad",
+                  "text": "Jellegzetes hegycsúcs a Silvretta-csoportban, az osztrák-svájci határon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111526,
+                        46.89286
+                  ]
+            },
+            {
+                  "name": "Hennekopf",
+                  "text": "Hegycsúcs a Silvretta-régióban, ahonnan pazar kilátás nyílik az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.139532,
+                        46.909562
+                  ]
+            },
+            {
+                  "name": "Henne Spitze",
+                  "text": "Alpesi csúcs a Silvretta-hegységben, amely ideális túrázásra és hegymászásra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.13431,
+                        46.915628
+                  ]
+            },
+            {
+                  "name": "Madlenerspitze",
+                  "text": "A Silvretta-masszívum része, amely lenyűgöző alpesi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.145166,
+                        46.891875
+                  ]
+            },
+            {
+                  "name": "Haagspitze",
+                  "text": "Hegycsúcs a Silvretta-csoportban, amely népszerű a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141347,
+                        46.874695
+                  ]
+            },
+            {
+                  "name": "Rauer Kopf",
+                  "text": "Jellegzetes csúcs a Silvrettában, amely meghatározza a környező magashegyi tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        10.14214,
+                        46.871194
+                  ]
+            },
+            {
+                  "name": "Tiroler Kopf",
+                  "text": "Lenyűgöző hegycsúcs a Silvretta-Alpokban, Tirol határán.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140574,
+                        46.865986
+                  ]
+            },
+            {
+                  "name": "Bieltal-Kopf",
+                  "text": "Alpesi csúcs a Silvrettában, amely a Bieltal-völgy fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.127536,
+                        46.879072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hohes Rad",
+                  "text": "Un vârf montan proeminent din grupul Silvretta, situat la granița dintre Austria și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111526,
+                        46.89286
+                  ]
+            },
+            {
+                  "name": "Hennekopf",
+                  "text": "Un vârf montan din regiunea Silvretta, oferind o panoramă vastă asupra Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.139532,
+                        46.909562
+                  ]
+            },
+            {
+                  "name": "Henne Spitze",
+                  "text": "Un vârf alpin din Silvretta, ideal pentru drumeții și alpinism.",
+                  "category": "landmark",
+                  "coords": [
+                        10.13431,
+                        46.915628
+                  ]
+            },
+            {
+                  "name": "Madlenerspitze",
+                  "text": "O parte a masivului Silvretta, cunoscută pentru peisajul său alpin impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        10.145166,
+                        46.891875
+                  ]
+            },
+            {
+                  "name": "Haagspitze",
+                  "text": "Un munte din grupul Silvretta, foarte apreciat de către alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141347,
+                        46.874695
+                  ]
+            },
+            {
+                  "name": "Rauer Kopf",
+                  "text": "Un vârf distinctiv din Silvretta, care domină peisajul montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        10.14214,
+                        46.871194
+                  ]
+            },
+            {
+                  "name": "Tiroler Kopf",
+                  "text": "Un vârf montan impresionant în Alpii Silvretta, la granița Tirolului.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140574,
+                        46.865986
+                  ]
+            },
+            {
+                  "name": "Bieltal-Kopf",
+                  "text": "Un vârf alpin din Silvretta, care se înalță deasupra văii Bieltal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.127536,
+                        46.879072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hohes Rad",
+                  "text": "A prominent mountain peak in the Silvretta group on the border between Austria and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111526,
+                        46.89286
+                  ]
+            },
+            {
+                  "name": "Hennekopf",
+                  "text": "A mountain peak in the Silvretta region offering expansive views of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.139532,
+                        46.909562
+                  ]
+            },
+            {
+                  "name": "Henne Spitze",
+                  "text": "An alpine peak in the Silvretta mountains, ideal for hiking and mountaineering.",
+                  "category": "landmark",
+                  "coords": [
+                        10.13431,
+                        46.915628
+                  ]
+            },
+            {
+                  "name": "Madlenerspitze",
+                  "text": "A peak within the Silvretta massif, known for its impressive alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.145166,
+                        46.891875
+                  ]
+            },
+            {
+                  "name": "Haagspitze",
+                  "text": "A mountain in the Silvretta group that is popular among alpinists.",
+                  "category": "landmark",
+                  "coords": [
+                        10.141347,
+                        46.874695
+                  ]
+            },
+            {
+                  "name": "Rauer Kopf",
+                  "text": "A distinctive peak in the Silvretta range that shapes the surrounding high-mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.14214,
+                        46.871194
+                  ]
+            },
+            {
+                  "name": "Tiroler Kopf",
+                  "text": "An impressive mountain peak in the Silvretta Alps on the border of Tyrol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140574,
+                        46.865986
+                  ]
+            },
+            {
+                  "name": "Bieltal-Kopf",
+                  "text": "An alpine peak in the Silvretta range rising above the Bieltal valley.",
+                  "category": "landmark",
+                  "coords": [
+                        10.127536,
+                        46.879072
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Silvretta", hu: "Silvretta", ro: "Silvretta", en: "Silvretta" },
@@ -228,7 +1677,196 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-silvretta-relief-v2.webp",
   },
   {
-    id: "austria-gailtaler-alpen-relief-v2",
+    id: "austria-gailtaler-alpen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archäologiepark Gurina",
+                  "text": "Ein archäologischer Park mit antiken Überresten in den Gailtaler Alpen.",
+                  "category": "historical",
+                  "coords": [
+                        13.085105,
+                        46.669154
+                  ]
+            },
+            {
+                  "name": "Reißkofel",
+                  "text": "Der markante Reißkofel ist der höchste Gipfel der Gailtaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.146704,
+                        46.685763
+                  ]
+            },
+            {
+                  "name": "Torkofel",
+                  "text": "Ein Berggipfel in den Gailtaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.076401,
+                        46.701941
+                  ]
+            },
+            {
+                  "name": "Spitzkofel",
+                  "text": "Ein Gipfel innerhalb der Gailtaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.094288,
+                        46.698472
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "Eine Aussichtsplattform in den Gailtaler Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        13.081973,
+                        46.733045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archäologiepark Gurina",
+                  "text": "Régészeti park ókori maradványokkal a Gailtali-Alpokban.",
+                  "category": "historical",
+                  "coords": [
+                        13.085105,
+                        46.669154
+                  ]
+            },
+            {
+                  "name": "Reißkofel",
+                  "text": "A jellegzetes Reißkofel a Gailtali-Alpok legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.146704,
+                        46.685763
+                  ]
+            },
+            {
+                  "name": "Torkofel",
+                  "text": "Hegycsúcs a Gailtali-Alpok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.076401,
+                        46.701941
+                  ]
+            },
+            {
+                  "name": "Spitzkofel",
+                  "text": "Egy csúcs a Gailtali-Alpok hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.094288,
+                        46.698472
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "Kilátóterasz a Gailtali-Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        13.081973,
+                        46.733045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archäologiepark Gurina",
+                  "text": "Un parc arheologic cu vestigii antice în Alpii Gailtal.",
+                  "category": "historical",
+                  "coords": [
+                        13.085105,
+                        46.669154
+                  ]
+            },
+            {
+                  "name": "Reißkofel",
+                  "text": "Vârful Reißkofel este cel mai înalt punct din Alpii Gailtal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.146704,
+                        46.685763
+                  ]
+            },
+            {
+                  "name": "Torkofel",
+                  "text": "Un vârf montan situat în Alpii Gailtal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.076401,
+                        46.701941
+                  ]
+            },
+            {
+                  "name": "Spitzkofel",
+                  "text": "Un vârf în cadrul lanțului muntos al Alpilor Gailtal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.094288,
+                        46.698472
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "O platformă de observație în Alpii Gailtal.",
+                  "category": "natural",
+                  "coords": [
+                        13.081973,
+                        46.733045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archäologiepark Gurina",
+                  "text": "An archaeological park featuring ancient remains in the Gailtal Alps.",
+                  "category": "historical",
+                  "coords": [
+                        13.085105,
+                        46.669154
+                  ]
+            },
+            {
+                  "name": "Reißkofel",
+                  "text": "The prominent Reißkofel is the highest peak of the Gailtal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.146704,
+                        46.685763
+                  ]
+            },
+            {
+                  "name": "Torkofel",
+                  "text": "A mountain peak situated in the Gailtal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.076401,
+                        46.701941
+                  ]
+            },
+            {
+                  "name": "Spitzkofel",
+                  "text": "A peak located within the Gailtal Alps mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.094288,
+                        46.698472
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "An observation platform in the Gailtal Alps.",
+                  "category": "natural",
+                  "coords": [
+                        13.081973,
+                        46.733045
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Gailtaler Alpen", hu: "Gailtali-Alpok", ro: "Alpii Gailtal", en: "Gailtal Alps" },
@@ -273,7 +1911,88 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-gailtaler-alpen-relief-v2.webp",
   },
   {
-    id: "austria-niedere-tauern-relief-v2",
+    id: "austria-niedere-tauern-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rettlkirchspitze",
+                  "text": "Ein Berggipfel in den Rottenmanner und Wölzer Tauern in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.127284,
+                        47.259946
+                  ]
+            },
+            {
+                  "name": "Greim",
+                  "text": "Der Greim ist ein markanter Berggipfel in den Wölzer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.151524,
+                        47.247619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rettlkirchspitze",
+                  "text": "Hegycsúcs a Rottenmanni- és Wölzi-Tauern hegységben, Stájerország területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.127284,
+                        47.259946
+                  ]
+            },
+            {
+                  "name": "Greim",
+                  "text": "A Greim a Wölzer-Tauern egyik jellegzetes hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.151524,
+                        47.247619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rettlkirchspitze",
+                  "text": "Un vârf muntos din Lower Tauern, situat în regiunea Stiria din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.127284,
+                        47.259946
+                  ]
+            },
+            {
+                  "name": "Greim",
+                  "text": "Greim este un vârf muntos proeminent în Wölzer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.151524,
+                        47.247619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rettlkirchspitze",
+                  "text": "A mountain peak in the Lower Tauern range, located in the Styria region of Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.127284,
+                        47.259946
+                  ]
+            },
+            {
+                  "name": "Greim",
+                  "text": "Greim is a prominent mountain peak in the Wölzer Tauern range.",
+                  "category": "landmark",
+                  "coords": [
+                        14.151524,
+                        47.247619
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Niedere Tauern", hu: "Alacsony-Tauern", ro: "Tauernii de Jos", en: "Lower Tauern" },
@@ -318,7 +2037,232 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-niedere-tauern-relief-v2.webp",
   },
   {
-    id: "austria-wechsel-relief-v2",
+    id: "austria-wechsel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Labyrinth Mensch",
+                  "text": "Ein interaktives Museum in der Region Wechsel, das sich mit der menschlichen Wahrnehmung befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.778397,
+                        47.52524
+                  ]
+            },
+            {
+                  "name": "Stuhleck",
+                  "text": "Der höchste Gipfel der Fischbacher Alpen mit einer Höhe von 1782 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789964,
+                        47.574195
+                  ]
+            },
+            {
+                  "name": "Großer Pfaff",
+                  "text": "Ein Aussichtspunkt in der Nähe von Wechsel mit weitem Blick über die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        15.826192,
+                        47.562084
+                  ]
+            },
+            {
+                  "name": "Nansenhütte",
+                  "text": "Historische Ruinen in Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.788028,
+                        47.57571
+                  ]
+            },
+            {
+                  "name": "Sternen-Pavillon",
+                  "text": "Eine Sehenswürdigkeit in Wechsel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.782151,
+                        47.524828
+                  ]
+            },
+            {
+                  "name": "Hunting stand",
+                  "text": "Historische Ruinen in Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.841609,
+                        47.564676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Labyrinth Mensch",
+                  "text": "Interaktív múzeum a Wechsel-vidéken, amely az emberi érzékeléssel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.778397,
+                        47.52524
+                  ]
+            },
+            {
+                  "name": "Stuhleck",
+                  "text": "A Fischbachi-Alpok legmagasabb csúcsa, 1782 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789964,
+                        47.574195
+                  ]
+            },
+            {
+                  "name": "Großer Pfaff",
+                  "text": "Kilátópont Wechsel közelében, széles panorámával az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        15.826192,
+                        47.562084
+                  ]
+            },
+            {
+                  "name": "Nansenhütte",
+                  "text": "Történelmi romok Wechsel területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.788028,
+                        47.57571
+                  ]
+            },
+            {
+                  "name": "Sternen-Pavillon",
+                  "text": "Egy látnivaló Wechsel városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.782151,
+                        47.524828
+                  ]
+            },
+            {
+                  "name": "Hunting stand",
+                  "text": "Történelmi romok Wechsel területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.841609,
+                        47.564676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Labyrinth Mensch",
+                  "text": "Un muzeu interactiv din regiunea Wechsel, dedicat percepției umane.",
+                  "category": "museum",
+                  "coords": [
+                        15.778397,
+                        47.52524
+                  ]
+            },
+            {
+                  "name": "Stuhleck",
+                  "text": "Cel mai înalt vârf din Alpii Fischbach, având o înălțime de 1782 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789964,
+                        47.574195
+                  ]
+            },
+            {
+                  "name": "Großer Pfaff",
+                  "text": "Un punct de belvedere lângă Wechsel, oferind o panoramă largă asupra Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.826192,
+                        47.562084
+                  ]
+            },
+            {
+                  "name": "Nansenhütte",
+                  "text": "Ruine istorice în Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.788028,
+                        47.57571
+                  ]
+            },
+            {
+                  "name": "Sternen-Pavillon",
+                  "text": "O atracție turistică în Wechsel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.782151,
+                        47.524828
+                  ]
+            },
+            {
+                  "name": "Hunting stand",
+                  "text": "Ruine istorice în Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.841609,
+                        47.564676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Labyrinth Mensch",
+                  "text": "An interactive museum in the Wechsel region focused on human perception.",
+                  "category": "museum",
+                  "coords": [
+                        15.778397,
+                        47.52524
+                  ]
+            },
+            {
+                  "name": "Stuhleck",
+                  "text": "The highest peak of the Fischbach Alps, reaching an elevation of 1782 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        15.789964,
+                        47.574195
+                  ]
+            },
+            {
+                  "name": "Großer Pfaff",
+                  "text": "A viewpoint near Wechsel offering a wide panorama of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        15.826192,
+                        47.562084
+                  ]
+            },
+            {
+                  "name": "Nansenhütte",
+                  "text": "Historical ruins in Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.788028,
+                        47.57571
+                  ]
+            },
+            {
+                  "name": "Sternen-Pavillon",
+                  "text": "A tourist attraction in Wechsel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.782151,
+                        47.524828
+                  ]
+            },
+            {
+                  "name": "Hunting stand",
+                  "text": "Historical ruins in Wechsel.",
+                  "category": "historical",
+                  "coords": [
+                        15.841609,
+                        47.564676
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Wechsel", hu: "Wechsel", ro: "Wechsel", en: "Wechsel" },
@@ -363,7 +2307,268 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-wechsel-relief-v2.webp",
   },
   {
-    id: "austria-hochpfeiler-relief-v2",
+    id: "austria-hochpfeiler-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "PfitscherJoch grenzenlos",
+                  "text": "Ein Museum am Pfitscher Joch, das sich mit der alpinen Grenzregion befasst.",
+                  "category": "museum",
+                  "coords": [
+                        11.669737,
+                        47.003608
+                  ]
+            },
+            {
+                  "name": "Pfitscher Grat",
+                  "text": "Ein Berggipfel in den Zillertaler Alpen nahe dem Hochpfeiler.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72858,
+                        46.986812
+                  ]
+            },
+            {
+                  "name": "Hochsteller",
+                  "text": "Ein markanter Berggipfel in der alpinen Region des Hochpfeilers.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711381,
+                        46.996871
+                  ]
+            },
+            {
+                  "name": "Kleiner Hochsteller",
+                  "text": "Ein kleinerer Berggipfel in der Nähe des Hochpfeilers in den Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.701178,
+                        47.010912
+                  ]
+            },
+            {
+                  "name": "Haupenhöhe",
+                  "text": "Ein Berggipfel in der Hochgebirgslandschaft der Zillertaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711391,
+                        46.99325
+                  ]
+            },
+            {
+                  "name": "Rotbachlspitze",
+                  "text": "Ein Grenzgipfel zwischen Österreich und Italien in den Zillertaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.688532,
+                        46.995501
+                  ]
+            },
+            {
+                  "name": "Fotopoint Schlegeis",
+                  "text": "Ein beliebter Aussichtspunkt mit Blick auf den Schlegeis-Stausee.",
+                  "category": "natural",
+                  "coords": [
+                        11.703183,
+                        47.039617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PfitscherJoch grenzenlos",
+                  "text": "Múzeum a Pfitscher-hágónál, amely az alpesi határvidékkel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        11.669737,
+                        47.003608
+                  ]
+            },
+            {
+                  "name": "Pfitscher Grat",
+                  "text": "Hegycsúcs a Ziller-völgyi-Alpokban, a Hochpfeiler közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72858,
+                        46.986812
+                  ]
+            },
+            {
+                  "name": "Hochsteller",
+                  "text": "Jellegzetes hegycsúcs a Hochpfeiler alpesi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711381,
+                        46.996871
+                  ]
+            },
+            {
+                  "name": "Kleiner Hochsteller",
+                  "text": "Kisebb hegycsúcs az Alpokban, a Hochpfeiler szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        11.701178,
+                        47.010912
+                  ]
+            },
+            {
+                  "name": "Haupenhöhe",
+                  "text": "Hegycsúcs a Ziller-völgyi-Alpok magashegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711391,
+                        46.99325
+                  ]
+            },
+            {
+                  "name": "Rotbachlspitze - Croda Rossa",
+                  "text": "Hegycsúcs az osztrák-olasz határon a Ziller-völgyi-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.688532,
+                        46.995501
+                  ]
+            },
+            {
+                  "name": "Fotopoint Schlegeis",
+                  "text": "Népszerű kilátópont, ahonnan rálátni a Schlegeis-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        11.703183,
+                        47.039617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PfitscherJoch grenzenlos",
+                  "text": "Un muzeu situat în pasul Pfitscher Joch, dedicat regiunii alpine de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        11.669737,
+                        47.003608
+                  ]
+            },
+            {
+                  "name": "Pfitscher Grat",
+                  "text": "Un vârf montan în Alpii Zillertal, situat în apropiere de Hochpfeiler.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72858,
+                        46.986812
+                  ]
+            },
+            {
+                  "name": "Hochsteller",
+                  "text": "Un vârf montan proeminent în regiunea alpină Hochpfeiler.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711381,
+                        46.996871
+                  ]
+            },
+            {
+                  "name": "Kleiner Hochsteller",
+                  "text": "Un vârf montan mai mic situat lângă Hochpfeiler în regiunea alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        11.701178,
+                        47.010912
+                  ]
+            },
+            {
+                  "name": "Haupenhöhe",
+                  "text": "Un vârf montan situat în peisajul alpin al Alpilor Zillertal.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711391,
+                        46.99325
+                  ]
+            },
+            {
+                  "name": "Rotbachlspitze - Croda Rossa",
+                  "text": "Un vârf de frontieră între Austria și Italia în Alpii Zillertal.",
+                  "category": "landmark",
+                  "coords": [
+                        11.688532,
+                        46.995501
+                  ]
+            },
+            {
+                  "name": "Fotopoint Schlegeis",
+                  "text": "Un punct de observație popular cu vedere spre lacul de acumulare Schlegeis.",
+                  "category": "natural",
+                  "coords": [
+                        11.703183,
+                        47.039617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PfitscherJoch grenzenlos",
+                  "text": "A museum at the Pfitscher Joch pass focusing on the alpine border region.",
+                  "category": "museum",
+                  "coords": [
+                        11.669737,
+                        47.003608
+                  ]
+            },
+            {
+                  "name": "Pfitscher Grat",
+                  "text": "A mountain peak in the Zillertal Alps located near the Hochpfeiler.",
+                  "category": "landmark",
+                  "coords": [
+                        11.72858,
+                        46.986812
+                  ]
+            },
+            {
+                  "name": "Hochsteller",
+                  "text": "A prominent mountain peak in the alpine Hochpfeiler region.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711381,
+                        46.996871
+                  ]
+            },
+            {
+                  "name": "Kleiner Hochsteller",
+                  "text": "A smaller mountain peak located near the Hochpfeiler in the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        11.701178,
+                        47.010912
+                  ]
+            },
+            {
+                  "name": "Haupenhöhe",
+                  "text": "A mountain peak in the high alpine landscape of the Zillertal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        11.711391,
+                        46.99325
+                  ]
+            },
+            {
+                  "name": "Rotbachlspitze - Croda Rossa",
+                  "text": "A border peak between Austria and Italy in the Zillertal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        11.688532,
+                        46.995501
+                  ]
+            },
+            {
+                  "name": "Fotopoint Schlegeis",
+                  "text": "A popular scenic viewpoint overlooking the Schlegeis reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        11.703183,
+                        47.039617
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Hochpfeiler", hu: "Hochpfeiler", ro: "Hochpfeiler", en: "Hochpfeiler" },
@@ -408,7 +2613,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hochpfeiler-relief-v2.webp",
   },
   {
-    id: "austria-venediger-gruppe-relief-v2",
+    id: "austria-venediger-gruppe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Großer Geiger",
+                  "text": "Der Große Geiger ist ein formschöner, vergletscherter Berggipfel in der Venedigergruppe der Hohen Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308585,
+                        47.093171
+                  ]
+            },
+            {
+                  "name": "Großvenediger",
+                  "text": "Der Großvenediger ist mit 3.657 Metern der höchste Gipfel der Venedigergruppe und ein Wahrzeichen der Ostalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.345336,
+                        47.109266
+                  ]
+            },
+            {
+                  "name": "Rainerhorn",
+                  "text": "Das Rainerhorn ist ein bedeutender Gipfel in der Venedigergruppe, der oft im Rahmen einer Großvenediger-Tour bestiegen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        12.364146,
+                        47.100848
+                  ]
+            },
+            {
+                  "name": "Hinterer Maurerkeeskopf",
+                  "text": "Der Hintere Maurerkeeskopf ist ein markanter Hochgipfel im Hauptkamm der Venedigergruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283777,
+                        47.092556
+                  ]
+            },
+            {
+                  "name": "Kleinvenediger",
+                  "text": "Der Kleinvenediger ist ein benachbarter Gipfel des Großvenedigers und ein beliebtes Ziel für Hochtourengeher.",
+                  "category": "landmark",
+                  "coords": [
+                        12.3575,
+                        47.117154
+                  ]
+            },
+            {
+                  "name": "Hoher Zaun",
+                  "text": "Der Hohe Zaun ist ein vergletscherter Gipfel in der Venedigergruppe, der beeindruckende Ausblicke auf die Hohen Tauern bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.37678,
+                        47.099834
+                  ]
+            },
+            {
+                  "name": "Schwarze Wand",
+                  "text": "Die Schwarze Wand ist ein markanter Fels- und Eisgipfel in der Nähe des Hohen Zauns in der Venedigergruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.370166,
+                        47.103841
+                  ]
+            },
+            {
+                  "name": "Hohes Aderl",
+                  "text": "Das Hohe Aderl ist ein kleinerer, felsiger Gipfel, der sich direkt südlich des Großvenedigers erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.350061,
+                        47.101964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Großer Geiger",
+                  "text": "A Großer Geiger egy szép formájú, gleccserrel borított hegycsúcs a Magas-Tauern Venediger-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308585,
+                        47.093171
+                  ]
+            },
+            {
+                  "name": "Großvenediger",
+                  "text": "A 3657 méteres Großvenediger a Venediger-csoport legmagasabb csúcsa és a Keleti-Alpok egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.345336,
+                        47.109266
+                  ]
+            },
+            {
+                  "name": "Rainerhorn",
+                  "text": "A Rainerhorn a Venediger-csoport egyik jelentős csúcsa, amelyet gyakran egy Großvenediger-túra keretében másznak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.364146,
+                        47.100848
+                  ]
+            },
+            {
+                  "name": "Hinterer Maurerkeeskopf",
+                  "text": "A Hinterer Maurerkeeskopf egy jellegzetes magaslati csúcs a Venediger-csoport főgerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283777,
+                        47.092556
+                  ]
+            },
+            {
+                  "name": "Kleinvenediger",
+                  "text": "A Kleinvenediger a Großvenediger szomszédos csúcsa, és a magashegyi túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.3575,
+                        47.117154
+                  ]
+            },
+            {
+                  "name": "Hoher Zaun",
+                  "text": "A Hohe Zaun a Venediger-csoport egyik gleccserrel borított csúcsa, amely lenyűgöző kilátást nyújt a Magas-Tauernre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.37678,
+                        47.099834
+                  ]
+            },
+            {
+                  "name": "Schwarze Wand",
+                  "text": "A Schwarze Wand egy jellegzetes szikla- és jégcsúcs a Hohe Zaun közelében, a Venediger-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.370166,
+                        47.103841
+                  ]
+            },
+            {
+                  "name": "Hohes Aderl",
+                  "text": "A Hohe Aderl egy kisebb, sziklás csúcs, amely közvetlenül a Großvenediger-től délre emelkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        12.350061,
+                        47.101964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Großer Geiger",
+                  "text": "Großer Geiger este un vârf muntos spectaculos, acoperit de ghețari, din grupul Venediger al masivului Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308585,
+                        47.093171
+                  ]
+            },
+            {
+                  "name": "Großvenediger",
+                  "text": "Großvenediger este, cu 3.657 de metri, cel mai înalt vârf din grupul Venediger și un simbol al Alpilor Orientali.",
+                  "category": "landmark",
+                  "coords": [
+                        12.345336,
+                        47.109266
+                  ]
+            },
+            {
+                  "name": "Rainerhorn",
+                  "text": "Rainerhorn este un vârf important din grupul Venediger, fiind adesea escaladat în cadrul unui tur pe Großvenediger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.364146,
+                        47.100848
+                  ]
+            },
+            {
+                  "name": "Hinterer Maurerkeeskopf",
+                  "text": "Hinterer Maurerkeeskopf este un vârf înalt proeminent situat pe creasta principală a grupului Venediger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283777,
+                        47.092556
+                  ]
+            },
+            {
+                  "name": "Kleinvenediger",
+                  "text": "Kleinvenediger este un vârf vecin cu Großvenediger și o destinație populară pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        12.3575,
+                        47.117154
+                  ]
+            },
+            {
+                  "name": "Hoher Zaun",
+                  "text": "Hoher Zaun este un vârf acoperit de ghețari din grupul Venediger, care oferă vederi impresionante asupra masivului Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.37678,
+                        47.099834
+                  ]
+            },
+            {
+                  "name": "Schwarze Wand",
+                  "text": "Schwarze Wand este un vârf proeminent de stâncă și gheață situat lângă Hoher Zaun, în grupul Venediger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.370166,
+                        47.103841
+                  ]
+            },
+            {
+                  "name": "Hohes Aderl",
+                  "text": "Hohes Aderl este un vârf stâncos mai mic, care se înalță direct la sud de Großvenediger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.350061,
+                        47.101964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Großer Geiger",
+                  "text": "Großer Geiger is a shapely, glaciated mountain peak in the Venediger Group of the Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308585,
+                        47.093171
+                  ]
+            },
+            {
+                  "name": "Großvenediger",
+                  "text": "At 3,657 meters, the Großvenediger is the highest peak in the Venediger Group and a landmark of the Eastern Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.345336,
+                        47.109266
+                  ]
+            },
+            {
+                  "name": "Rainerhorn",
+                  "text": "Rainerhorn is a significant peak in the Venediger Group, often climbed as part of a Großvenediger tour.",
+                  "category": "landmark",
+                  "coords": [
+                        12.364146,
+                        47.100848
+                  ]
+            },
+            {
+                  "name": "Hinterer Maurerkeeskopf",
+                  "text": "Hinterer Maurerkeeskopf is a prominent high peak located on the main ridge of the Venediger Group.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283777,
+                        47.092556
+                  ]
+            },
+            {
+                  "name": "Kleinvenediger",
+                  "text": "Kleinvenediger is a neighboring peak of the Großvenediger and a popular destination for high-altitude mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.3575,
+                        47.117154
+                  ]
+            },
+            {
+                  "name": "Hoher Zaun",
+                  "text": "Hoher Zaun is a glaciated peak in the Venediger Group that offers impressive views of the Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.37678,
+                        47.099834
+                  ]
+            },
+            {
+                  "name": "Schwarze Wand",
+                  "text": "Schwarze Wand is a prominent rock and ice peak located near Hoher Zaun in the Venediger Group.",
+                  "category": "landmark",
+                  "coords": [
+                        12.370166,
+                        47.103841
+                  ]
+            },
+            {
+                  "name": "Hohes Aderl",
+                  "text": "Hohes Aderl is a smaller, rocky peak rising directly south of the Großvenediger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.350061,
+                        47.101964
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Venedigergruppe", hu: "Venediger-csoport", ro: "Grupul Venediger", en: "Venediger Group" },
@@ -453,7 +2955,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-venediger-gruppe-relief-v2.webp",
   },
   {
-    id: "austria-schneeberg-relief-v2",
+    id: "austria-schneeberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wasserleitungsmuseum",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Wasserversorgung der Stadt Wien vom Schneeberg aus.",
+                  "category": "museum",
+                  "coords": [
+                        15.794327,
+                        47.73565
+                  ]
+            },
+            {
+                  "name": "Kaiserstein",
+                  "text": "Ein Gipfel auf dem Schneeberg-Massiv, der für Wanderer leicht erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.809894,
+                        47.773385
+                  ]
+            },
+            {
+                  "name": "Waxriegel",
+                  "text": "Ein beliebter Aussichtspunkt am Schneeberg mit weitem Blick über das Wiener Becken.",
+                  "category": "natural",
+                  "coords": [
+                        15.830323,
+                        47.760262
+                  ]
+            },
+            {
+                  "name": "Alpl",
+                  "text": "Ein Berggipfel im Schneeberg-Gebiet, der Teil der Wiener Hausberge ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.84168,
+                        47.74494
+                  ]
+            },
+            {
+                  "name": "Klosterwappen",
+                  "text": "Mit 2.076 Metern ist das Klosterwappen der höchste Gipfel des Schneebergs und Niederösterreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        15.804499,
+                        47.767062
+                  ]
+            },
+            {
+                  "name": "Elisabethkirchlein",
+                  "text": "Die kleine Gedächtniskirche auf dem Schneeberg wurde zu Ehren von Kaiserin Elisabeth errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.835155,
+                        47.758754
+                  ]
+            },
+            {
+                  "name": "Turmstein",
+                  "text": "Ein markanter Felsen am Schneeberg, der weite Ausblicke auf die umliegende Alpenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.782089,
+                        47.769739
+                  ]
+            },
+            {
+                  "name": "Sitzstatt",
+                  "text": "Ein Aussichtspunkt am Schneeberg, der zur Rast und zum Genießen des Panoramas einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        15.830941,
+                        47.771954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasserleitungsmuseum",
+                  "text": "A múzeum a bécsi vízellátás történetét mutatja be a Schneebergről indulva.",
+                  "category": "museum",
+                  "coords": [
+                        15.794327,
+                        47.73565
+                  ]
+            },
+            {
+                  "name": "Kaiserstein",
+                  "text": "A Schneeberg-masszívum egyik csúcsa, amely a túrázók számára könnyen elérhető.",
+                  "category": "landmark",
+                  "coords": [
+                        15.809894,
+                        47.773385
+                  ]
+            },
+            {
+                  "name": "Waxriegel",
+                  "text": "Népszerű kilátópont a Schneebergen, tágas kilátással a Bécsi-medencére.",
+                  "category": "natural",
+                  "coords": [
+                        15.830323,
+                        47.760262
+                  ]
+            },
+            {
+                  "name": "Alpl",
+                  "text": "Hegycsúcs a Schneeberg területén, amely a bécsi Alpok része.",
+                  "category": "landmark",
+                  "coords": [
+                        15.84168,
+                        47.74494
+                  ]
+            },
+            {
+                  "name": "Klosterwappen",
+                  "text": "A 2076 méter magas Klosterwappen a Schneeberg és Alsó-Ausztria legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.804499,
+                        47.767062
+                  ]
+            },
+            {
+                  "name": "Elisabethkirchlein",
+                  "text": "A Schneebergen található kis emléktemplomot Erzsébet királyné tiszteletére építették.",
+                  "category": "landmark",
+                  "coords": [
+                        15.835155,
+                        47.758754
+                  ]
+            },
+            {
+                  "name": "Turmstein",
+                  "text": "Jellegzetes szikla a Schneebergen, amely tágas kilátást nyújt a környező alpesi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.782089,
+                        47.769739
+                  ]
+            },
+            {
+                  "name": "Sitzstatt",
+                  "text": "Kilátópont a Schneebergen, amely pihenésre és a panoráma élvezetére hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        15.830941,
+                        47.771954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasserleitungsmuseum",
+                  "text": "Acest muzeu documentează istoria alimentării cu apă a Vienei de la Schneeberg.",
+                  "category": "museum",
+                  "coords": [
+                        15.794327,
+                        47.73565
+                  ]
+            },
+            {
+                  "name": "Kaiserstein",
+                  "text": "Un vârf pe masivul Schneeberg, ușor accesibil pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        15.809894,
+                        47.773385
+                  ]
+            },
+            {
+                  "name": "Waxriegel",
+                  "text": "Un punct de belvedere popular pe Schneeberg, cu o vedere vastă asupra bazinului Vienei.",
+                  "category": "natural",
+                  "coords": [
+                        15.830323,
+                        47.760262
+                  ]
+            },
+            {
+                  "name": "Alpl",
+                  "text": "Un vârf montan din zona Schneeberg, făcând parte din munții Vienei.",
+                  "category": "landmark",
+                  "coords": [
+                        15.84168,
+                        47.74494
+                  ]
+            },
+            {
+                  "name": "Klosterwappen",
+                  "text": "La 2.076 de metri, Klosterwappen este cel mai înalt vârf de pe Schneeberg și din Austria Inferioară.",
+                  "category": "landmark",
+                  "coords": [
+                        15.804499,
+                        47.767062
+                  ]
+            },
+            {
+                  "name": "Elisabethkirchlein",
+                  "text": "Mica biserică memorială de pe Schneeberg a fost construită în onoarea împărătesei Elisabeta.",
+                  "category": "landmark",
+                  "coords": [
+                        15.835155,
+                        47.758754
+                  ]
+            },
+            {
+                  "name": "Turmstein",
+                  "text": "O stâncă proeminentă pe Schneeberg, oferind panorame asupra peisajului alpin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.782089,
+                        47.769739
+                  ]
+            },
+            {
+                  "name": "Sitzstatt",
+                  "text": "Un punct de belvedere pe Schneeberg, ideal pentru odihnă și admirarea panoramei.",
+                  "category": "natural",
+                  "coords": [
+                        15.830941,
+                        47.771954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasserleitungsmuseum",
+                  "text": "This museum documents the history of Vienna's water supply originating from the Schneeberg.",
+                  "category": "museum",
+                  "coords": [
+                        15.794327,
+                        47.73565
+                  ]
+            },
+            {
+                  "name": "Kaiserstein",
+                  "text": "A peak on the Schneeberg massif, easily accessible for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.809894,
+                        47.773385
+                  ]
+            },
+            {
+                  "name": "Waxriegel",
+                  "text": "A popular viewpoint on the Schneeberg with a wide view over the Vienna Basin.",
+                  "category": "natural",
+                  "coords": [
+                        15.830323,
+                        47.760262
+                  ]
+            },
+            {
+                  "name": "Alpl",
+                  "text": "A mountain peak in the Schneeberg area, part of the Vienna Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        15.84168,
+                        47.74494
+                  ]
+            },
+            {
+                  "name": "Klosterwappen",
+                  "text": "At 2,076 meters, Klosterwappen is the highest peak of the Schneeberg and Lower Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.804499,
+                        47.767062
+                  ]
+            },
+            {
+                  "name": "Elisabethkirchlein",
+                  "text": "The small memorial church on the Schneeberg was built in honor of Empress Elisabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        15.835155,
+                        47.758754
+                  ]
+            },
+            {
+                  "name": "Turmstein",
+                  "text": "A prominent rock on the Schneeberg offering expansive views of the surrounding Alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.782089,
+                        47.769739
+                  ]
+            },
+            {
+                  "name": "Sitzstatt",
+                  "text": "A viewpoint on the Schneeberg inviting visitors to rest and enjoy the panorama.",
+                  "category": "natural",
+                  "coords": [
+                        15.830941,
+                        47.771954
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Schneeberg", hu: "Schneeberg", ro: "Schneeberg", en: "Schneeberg" },
@@ -498,7 +3297,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-schneeberg-relief-v2.webp",
   },
   {
-    id: "austria-hochschwab-gipfel-relief-v2",
+    id: "austria-hochschwab-gipfel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fölzstein",
+                  "text": "Ein markanter Gipfel im Hochschwab-Massiv in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180366,
+                        47.595705
+                  ]
+            },
+            {
+                  "name": "Fölzkogel",
+                  "text": "Ein Berggipfel in der Hochschwab-Region, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172193,
+                        47.600515
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "Ein 2096 Meter hoher Berg in der Hochschwabgruppe in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Ein Gipfel im Hochschwab-Gebiet, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "Der Hochschwab ist mit 2277 Metern der höchste Berg der gleichnamigen Gebirgsgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "Ein felsiger Gipfel in der Gebirgsgruppe des Hochschwab.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "Eine markante Felswand und ein Gipfel im Hochschwab-Massiv, bekannt bei Kletterern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            },
+            {
+                  "name": "Großer Beilstein",
+                  "text": "Ein imposanter Berggipfel in der steirischen Hochschwab-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.112093,
+                        47.602363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fölzstein",
+                  "text": "A stájerországi Hochschwab-masszívum egyik jellegzetes hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180366,
+                        47.595705
+                  ]
+            },
+            {
+                  "name": "Fölzkogel",
+                  "text": "A Hochschwab-régió egyik hegycsúcsa, amely kedvelt a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172193,
+                        47.600515
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "2096 méter magas hegycsúcs a stájerországi Hochschwab-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Hegycsúcs a Hochschwab-vidéken, amely alpesi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "A 2277 méter magas Hochschwab az azonos nevű hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "Sziklás hegycsúcs a Hochschwab-hegység területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "Jellegzetes sziklafal és hegycsúcs a Hochschwab-masszívumban, a sziklamászók körében ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            },
+            {
+                  "name": "Großer Beilstein",
+                  "text": "Impozáns hegycsúcs a stájerországi Hochschwab-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.112093,
+                        47.602363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fölzstein",
+                  "text": "Un vârf proeminent din masivul Hochschwab, situat în Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180366,
+                        47.595705
+                  ]
+            },
+            {
+                  "name": "Fölzkogel",
+                  "text": "Un vârf montan din regiunea Hochschwab, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172193,
+                        47.600515
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "Un vârf de 2096 de metri din grupul Hochschwab, situat în Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "Un vârf din zona Hochschwab, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "Hochschwab este cel mai înalt vârf din masivul cu același nume, având 2277 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "Un vârf stâncos situat în masivul Hochschwab.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "Un perete stâncos și vârf proeminent în masivul Hochschwab, cunoscut printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            },
+            {
+                  "name": "Großer Beilstein",
+                  "text": "Un vârf montan impunător din regiunea stiriană Hochschwab.",
+                  "category": "landmark",
+                  "coords": [
+                        15.112093,
+                        47.602363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fölzstein",
+                  "text": "A prominent peak in the Hochschwab massif in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.180366,
+                        47.595705
+                  ]
+            },
+            {
+                  "name": "Fölzkogel",
+                  "text": "A mountain peak in the Hochschwab region, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.172193,
+                        47.600515
+                  ]
+            },
+            {
+                  "name": "Karlhochkogel",
+                  "text": "A 2096-meter high peak in the Hochschwab group in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.157815,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "G'hacktkogel",
+                  "text": "A peak in the Hochschwab area, known for its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131403,
+                        47.614186
+                  ]
+            },
+            {
+                  "name": "Hochschwab",
+                  "text": "Hochschwab is the highest peak of the mountain range of the same name, at 2277 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142451,
+                        47.618242
+                  ]
+            },
+            {
+                  "name": "Zagelkogel",
+                  "text": "A rocky peak located within the Hochschwab mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        15.123701,
+                        47.610604
+                  ]
+            },
+            {
+                  "name": "Stangenwand",
+                  "text": "A prominent rock face and peak in the Hochschwab massif, well-known among climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115672,
+                        47.606924
+                  ]
+            },
+            {
+                  "name": "Großer Beilstein",
+                  "text": "An impressive mountain peak in the Styrian Hochschwab region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.112093,
+                        47.602363
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Hochschwab-Gipfel", hu: "Hochschwab-csúcs", ro: "Vârful Hochschwab", en: "Hochschwab Peak" },
@@ -543,7 +3639,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hochschwab-gipfel-relief-v2.webp",
   },
   {
-    id: "austria-dachstein-gipfel-relief-v2",
+    id: "austria-dachstein-gipfel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Ein Museum in Ramsau, das der Geschichte des Alpinismus am Dachstein gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Ein markanter Berggipfel im Dachsteinmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Ein Gipfel im Dachsteinmassiv, bekannt für seinen Klettersteig und den Gletscherblick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Ein Gipfel in der Dachsteinregion, beliebt bei Bergwanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Ein Gipfel am Dachstein mit Bergstation und einer Aussichtsplattform aus Glas.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Ein Nachbargipfel des Großen Koppenkarsteins im Dachstein-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Ein Gipfel im Dachsteinmassiv in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Der zweithöchste Gipfel des Dachsteinmassivs.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Ramsaui múzeum, amely a dachsteini alpinizmus történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "A Dachstein-masszívum egyik jellegzetes hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "A Dachstein-masszívum egyik csúcsa, amely via ferrata útvonalairól és gleccserkilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "A Dachstein-régió egyik hegycsúcsa, a hegymászók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Dachsteini hegycsúcs felvonóállomással és egy üveg kilátóterasszal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "A Großer Koppenkarstein szomszédos csúcsa a Dachstein-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Hegycsúcs a stájerországi Dachstein-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "A Dachstein-masszívum második legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Un muzeu în Ramsau dedicat istoriei alpinismului pe muntele Dachstein.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Un vârf muntos proeminent în masivul Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Un vârf în masivul Dachstein, cunoscut pentru traseele via ferrata și vederea spre ghețar.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Un vârf în regiunea Dachstein, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Un vârf pe Dachstein cu o stație de telecabină și o platformă de observație din sticlă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Un vârf învecinat cu Großer Koppenkarstein în zona Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Un vârf în masivul Dachstein din regiunea Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Al doilea cel mai înalt vârf din masivul Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "A museum in Ramsau dedicated to the history of alpinism on the Dachstein.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "A prominent mountain peak in the Dachstein massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "A peak in the Dachstein massif known for its via ferrata and glacier views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "A mountain peak in the Dachstein region, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "A peak on the Dachstein featuring a cable car station and a glass viewing platform.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "A neighboring peak to the Großer Koppenkarstein in the Dachstein area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "A mountain peak in the Dachstein massif in Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "The second highest peak of the Dachstein massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Hoher Dachstein", hu: "Hoher Dachstein", ro: "Hoher Dachstein", en: "Hoher Dachstein" },
@@ -588,7 +3981,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-dachstein-gipfel-relief-v2.webp",
   },
   {
-    id: "austria-wildspitze-relief-v2",
+    id: "austria-wildspitze-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wildspitze",
+                  "text": "Der höchste Gipfel der Ötztaler Alpen mit beeindruckendem Gletscherblick.",
+                  "category": "landmark",
+                  "coords": [
+                        10.867279,
+                        46.885243
+                  ]
+            },
+            {
+                  "name": "Vorderer Brochkogel",
+                  "text": "Ein markanter Dreitausender in den Ötztaler Alpen nahe der Wildspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.850872,
+                        46.874886
+                  ]
+            },
+            {
+                  "name": "Ötztaler Urkund",
+                  "text": "Ein alpiner Berggipfel in den Ötztaler Alpen, Teil des Wildspitze-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        10.873564,
+                        46.880756
+                  ]
+            },
+            {
+                  "name": "Hinterer Brunnenkogel",
+                  "text": "Ein hoher Berggipfel in den Ötztaler Alpen mit weitem Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861329,
+                        46.912626
+                  ]
+            },
+            {
+                  "name": "Hinterer Brochkogel",
+                  "text": "Ein bedeutender Gipfel im Hauptkamm der Ötztaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.849781,
+                        46.886006
+                  ]
+            },
+            {
+                  "name": "Taufkarkogel",
+                  "text": "Ein alpiner Gipfel im Wildspitze-Gebiet, beliebt bei Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887665,
+                        46.885391
+                  ]
+            },
+            {
+                  "name": "Rechter Fernerkogel",
+                  "text": "Ein imposanter Berggipfel inmitten der Gletscherwelt der Ötztaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.886703,
+                        46.907437
+                  ]
+            },
+            {
+                  "name": "Weißer Kogel",
+                  "text": "Ein über 3.400 Meter hoher Gipfel in den Tiroler Ötztaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.906072,
+                        46.891702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wildspitze",
+                  "text": "Az Ötztali-Alpok legmagasabb csúcsa, amely lenyűgöző gleccserpanorámát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.867279,
+                        46.885243
+                  ]
+            },
+            {
+                  "name": "Vorderer Brochkogel",
+                  "text": "Egy jellegzetes háromezer méter feletti csúcs az Ötztali-Alpokban, a Wildspitze közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.850872,
+                        46.874886
+                  ]
+            },
+            {
+                  "name": "Ötztaler Urkund",
+                  "text": "Alpesi hegycsúcs az Ötztali-Alpokban, a Wildspitze-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.873564,
+                        46.880756
+                  ]
+            },
+            {
+                  "name": "Hinterer Brunnenkogel",
+                  "text": "Magas hegycsúcs az Ötztali-Alpokban, ahonnan széles panoráma nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861329,
+                        46.912626
+                  ]
+            },
+            {
+                  "name": "Hinterer Brochkogel",
+                  "text": "Az Ötztali-Alpok főgerincének egyik jelentős csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        10.849781,
+                        46.886006
+                  ]
+            },
+            {
+                  "name": "Taufkarkogel",
+                  "text": "Alpesi csúcs a Wildspitze térségében, amely kedvelt a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887665,
+                        46.885391
+                  ]
+            },
+            {
+                  "name": "Rechter Fernerkogel",
+                  "text": "Impozáns hegycsúcs az Ötztali-Alpok gleccservilágának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.886703,
+                        46.907437
+                  ]
+            },
+            {
+                  "name": "Weißer Kogel",
+                  "text": "Egy több mint 3400 méter magas csúcs a tiroli Ötztali-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.906072,
+                        46.891702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wildspitze",
+                  "text": "Cel mai înalt vârf din Alpii Ötztal, oferind vederi glaciare impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        10.867279,
+                        46.885243
+                  ]
+            },
+            {
+                  "name": "Vorderer Brochkogel",
+                  "text": "Un vârf proeminent de peste trei mii de metri în Alpii Ötztal, lângă Wildspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.850872,
+                        46.874886
+                  ]
+            },
+            {
+                  "name": "Ötztaler Urkund",
+                  "text": "Un vârf montan alpin în Alpii Ötztal, parte a masivului Wildspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.873564,
+                        46.880756
+                  ]
+            },
+            {
+                  "name": "Hinterer Brunnenkogel",
+                  "text": "Un vârf montan înalt în Alpii Ötztal, cu o vedere panoramică largă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861329,
+                        46.912626
+                  ]
+            },
+            {
+                  "name": "Hinterer Brochkogel",
+                  "text": "Un vârf important în creasta principală a Alpilor Ötztal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.849781,
+                        46.886006
+                  ]
+            },
+            {
+                  "name": "Taufkarkogel",
+                  "text": "Un vârf alpin în zona Wildspitze, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887665,
+                        46.885391
+                  ]
+            },
+            {
+                  "name": "Rechter Fernerkogel",
+                  "text": "Un vârf montan impunător în mijlocul lumii glaciare a Alpilor Ötztal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.886703,
+                        46.907437
+                  ]
+            },
+            {
+                  "name": "Weißer Kogel",
+                  "text": "Un vârf de peste 3.400 de metri înălțime în Alpii Ötztal din Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.906072,
+                        46.891702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wildspitze",
+                  "text": "The highest peak in the Ötztal Alps, offering impressive glacial views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.867279,
+                        46.885243
+                  ]
+            },
+            {
+                  "name": "Vorderer Brochkogel",
+                  "text": "A prominent three-thousand-meter peak in the Ötztal Alps near the Wildspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.850872,
+                        46.874886
+                  ]
+            },
+            {
+                  "name": "Ötztaler Urkund",
+                  "text": "An alpine mountain peak in the Ötztal Alps, part of the Wildspitze massif.",
+                  "category": "landmark",
+                  "coords": [
+                        10.873564,
+                        46.880756
+                  ]
+            },
+            {
+                  "name": "Hinterer Brunnenkogel",
+                  "text": "A high mountain peak in the Ötztal Alps offering broad panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.861329,
+                        46.912626
+                  ]
+            },
+            {
+                  "name": "Hinterer Brochkogel",
+                  "text": "A significant peak in the main ridge of the Ötztal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.849781,
+                        46.886006
+                  ]
+            },
+            {
+                  "name": "Taufkarkogel",
+                  "text": "An alpine peak in the Wildspitze area, popular among mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.887665,
+                        46.885391
+                  ]
+            },
+            {
+                  "name": "Rechter Fernerkogel",
+                  "text": "An imposing mountain peak amidst the glacial world of the Ötztal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.886703,
+                        46.907437
+                  ]
+            },
+            {
+                  "name": "Weißer Kogel",
+                  "text": "A peak standing over 3,400 meters high in the Tyrolean Ötztal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.906072,
+                        46.891702
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Wildspitze", hu: "Wildspitze", ro: "Wildspitze", en: "Wildspitze" },
@@ -633,7 +4323,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-wildspitze-relief-v2.webp",
   },
   {
-    id: "austria-piz-buin-relief-v2",
+    id: "austria-piz-buin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vermuntkopf",
+                  "text": "Ein Berggipfel in der Silvretta-Gruppe nahe dem Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126459,
+                        46.864121
+                  ]
+            },
+            {
+                  "name": "Silvrettahorn",
+                  "text": "Ein markanter pyramidenförmiger Gipfel in der Silvretta-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        10.092671,
+                        46.858112
+                  ]
+            },
+            {
+                  "name": "Piz Buin",
+                  "text": "Der höchste Berg im österreichischen Bundesland Vorarlberg in der Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.118892,
+                        46.844124
+                  ]
+            },
+            {
+                  "name": "Dreiländerspitze",
+                  "text": "Ein markanter Gipfel, an dem die Grenzen von Vorarlberg, Tirol und Graubünden zusammentreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.144973,
+                        46.851019
+                  ]
+            },
+            {
+                  "name": "Grüne Kuppe",
+                  "text": "Ein Berggipfel im Silvretta-Massiv in der Nähe des Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111535,
+                        46.861877
+                  ]
+            },
+            {
+                  "name": "Chapütschin",
+                  "text": "Ein vergletscherter Gipfel in der Silvretta-Gruppe in den Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069346,
+                        46.830837
+                  ]
+            },
+            {
+                  "name": "Verstanclahorn",
+                  "text": "Ein hoher und imposanter Berggipfel in der Schweizer Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.072552,
+                        46.835057
+                  ]
+            },
+            {
+                  "name": "Torwache",
+                  "text": "Ein Berggipfel in der alpinen Region rund um den Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.07644,
+                        46.835925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vermuntkopf",
+                  "text": "Hegycsúcs a Silvretta-csoportban, a Piz Buin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126459,
+                        46.864121
+                  ]
+            },
+            {
+                  "name": "Silvrettahorn",
+                  "text": "Jellegzetes piramis alakú csúcs a Silvretta-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.092671,
+                        46.858112
+                  ]
+            },
+            {
+                  "name": "Piz Buin",
+                  "text": "Az osztrák Vorarlberg tartomány legmagasabb hegye a Silvrettában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.118892,
+                        46.844124
+                  ]
+            },
+            {
+                  "name": "Dreiländerspitze",
+                  "text": "Jellegzetes csúcs, ahol Vorarlberg, Tirol és Graubünden határai találkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        10.144973,
+                        46.851019
+                  ]
+            },
+            {
+                  "name": "Grüne Kuppe",
+                  "text": "Hegycsúcs a Silvretta-masszívumban, a Piz Buin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111535,
+                        46.861877
+                  ]
+            },
+            {
+                  "name": "Chapütschin",
+                  "text": "Gleccserrel borított csúcs a Silvretta-csoportban az Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069346,
+                        46.830837
+                  ]
+            },
+            {
+                  "name": "Verstanclahorn",
+                  "text": "Magas és impozáns hegycsúcs a svájci Silvrettában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.072552,
+                        46.835057
+                  ]
+            },
+            {
+                  "name": "Torwache",
+                  "text": "Hegycsúcs a Piz Buin körüli alpesi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.07644,
+                        46.835925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vermuntkopf",
+                  "text": "Un vârf montan din grupul Silvretta, situat lângă Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126459,
+                        46.864121
+                  ]
+            },
+            {
+                  "name": "Silvrettahorn",
+                  "text": "Un vârf proeminent în formă de piramidă din grupul Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.092671,
+                        46.858112
+                  ]
+            },
+            {
+                  "name": "Piz Buin",
+                  "text": "Cel mai înalt munte din statul austriac Vorarlberg, în masivul Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.118892,
+                        46.844124
+                  ]
+            },
+            {
+                  "name": "Dreiländerspitze",
+                  "text": "Un vârf proeminent unde se întâlnesc granițele regiunilor Vorarlberg, Tirol și Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.144973,
+                        46.851019
+                  ]
+            },
+            {
+                  "name": "Grüne Kuppe",
+                  "text": "Un vârf montan în masivul Silvretta, în apropierea vârfului Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111535,
+                        46.861877
+                  ]
+            },
+            {
+                  "name": "Chapütschin",
+                  "text": "Un vârf glaciar din grupul Silvretta din Munții Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069346,
+                        46.830837
+                  ]
+            },
+            {
+                  "name": "Verstanclahorn",
+                  "text": "Un vârf montan înalt și impunător din partea elvețiană a masivului Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.072552,
+                        46.835057
+                  ]
+            },
+            {
+                  "name": "Torwache",
+                  "text": "Un vârf montan în regiunea alpină din jurul Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.07644,
+                        46.835925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vermuntkopf",
+                  "text": "A mountain peak in the Silvretta group located near Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.126459,
+                        46.864121
+                  ]
+            },
+            {
+                  "name": "Silvrettahorn",
+                  "text": "A distinctive pyramid-shaped peak in the Silvretta group.",
+                  "category": "landmark",
+                  "coords": [
+                        10.092671,
+                        46.858112
+                  ]
+            },
+            {
+                  "name": "Piz Buin",
+                  "text": "The highest mountain in the Austrian state of Vorarlberg, located in the Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.118892,
+                        46.844124
+                  ]
+            },
+            {
+                  "name": "Dreiländerspitze",
+                  "text": "A prominent peak where the borders of Vorarlberg, Tyrol, and Graubünden meet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.144973,
+                        46.851019
+                  ]
+            },
+            {
+                  "name": "Grüne Kuppe",
+                  "text": "A mountain peak in the Silvretta massif near Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.111535,
+                        46.861877
+                  ]
+            },
+            {
+                  "name": "Chapütschin",
+                  "text": "A glaciated peak in the Silvretta group of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.069346,
+                        46.830837
+                  ]
+            },
+            {
+                  "name": "Verstanclahorn",
+                  "text": "A high and imposing mountain peak in the Swiss Silvretta.",
+                  "category": "landmark",
+                  "coords": [
+                        10.072552,
+                        46.835057
+                  ]
+            },
+            {
+                  "name": "Torwache",
+                  "text": "A mountain peak in the alpine region surrounding Piz Buin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.07644,
+                        46.835925
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Piz Buin", hu: "Piz Buin", ro: "Piz Buin", en: "Piz Buin" },
@@ -678,7 +4665,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-piz-buin-relief-v2.webp",
   },
     {
-    id: "austria-kitzsteinhorn-relief-v2",
+    id: "austria-kitzsteinhorn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "Ein berühmter Gipfel in den Hohen Tauern, bekannt für seinen Gletscher und ganzjährigen Schnee.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Ein hoher Gipfel in der Region Kitzsteinhorn, der bei Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Bambachkopf",
+                  "text": "Der Bambachkopf ist ein Berggipfel in der Region Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.681254,
+                        47.229848
+                  ]
+            },
+            {
+                  "name": "Hohe Arche",
+                  "text": "Die Hohe Arche ist ein markanter Berggipfel nahe dem Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679333,
+                        47.237417
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Der Jaggeser ist ein Gipfel in den österreichischen Alpen beim Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Tristkogel",
+                  "text": "Der Tristkogel ist ein bekannter Aussichtsgipfel in der Region Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679293,
+                        47.225906
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Der Rettinger ist ein Berggipfel in der Gebirgslandschaft des Kitzsteinhorns.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Die Lakarschneid ist ein Gipfel in der hochalpinen Region des Kitzsteinhorns.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "A Magas-Tauern hegység híres hegycsúcsa, amely gleccsereiről és egész éves haváról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Magas hegycsúcs a Kitzsteinhorn környékén, amely népszerű a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Bambachkopf",
+                  "text": "A Bambachkopf egy hegycsúcs a Kitzsteinhorn vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.681254,
+                        47.229848
+                  ]
+            },
+            {
+                  "name": "Hohe Arche",
+                  "text": "A Hohe Arche egy jellegzetes hegycsúcs a Kitzsteinhorn közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679333,
+                        47.237417
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "A Jaggeser egy hegycsúcs az osztrák Alpokban, a Kitzsteinhorn területén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Tristkogel",
+                  "text": "A Tristkogel egy népszerű kilátópontot kínáló hegycsúcs a Kitzsteinhorn vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679293,
+                        47.225906
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "A Rettinger egy hegycsúcs a Kitzsteinhorn hegyi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "A Lakarschneid egy hegycsúcs a Kitzsteinhorn magashegyi vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "Un vârf montan faimos din masivul Hohe Tauern, cunoscut pentru ghețarul său și zăpada permanentă.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Un vârf înalt din zona Kitzsteinhorn, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Bambachkopf",
+                  "text": "Bambachkopf este un vârf muntos din regiunea Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.681254,
+                        47.229848
+                  ]
+            },
+            {
+                  "name": "Hohe Arche",
+                  "text": "Hohe Arche este un vârf muntos proeminent situat lângă Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679333,
+                        47.237417
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Jaggeser este un vârf din Alpii austrieci, în zona Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Tristkogel",
+                  "text": "Tristkogel este un vârf cu panoramă deosebită din regiunea Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679293,
+                        47.225906
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Rettinger este un vârf muntos din peisajul alpin al Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Lakarschneid este un vârf din regiunea alpină înaltă a Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "A famous mountain peak in the High Tauern range, known for its glacier and year-round snow.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "A high peak in the Kitzsteinhorn area, popular with mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Bambachkopf",
+                  "text": "Bambachkopf is a mountain peak in the Kitzsteinhorn region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.681254,
+                        47.229848
+                  ]
+            },
+            {
+                  "name": "Hohe Arche",
+                  "text": "Hohe Arche is a prominent mountain peak located near Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679333,
+                        47.237417
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Jaggeser is a mountain peak in the Austrian Alps near Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Tristkogel",
+                  "text": "Tristkogel is a well-known mountain peak offering scenic views in the Kitzsteinhorn region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.679293,
+                        47.225906
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Rettinger is a mountain peak in the mountainous landscape of Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Lakarschneid is a mountain peak in the high alpine region of Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Kitzsteinhorn", hu: "Kitzsteinhorn", ro: "Kitzsteinhorn", en: "Kitzsteinhorn" },
@@ -723,7 +5007,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-kitzsteinhorn-relief-v2.webp",
   },
   {
-    id: "austria-grimming-relief-v2",
+    id: "austria-grimming-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Wolkenstein",
+                  "text": "Die Ruine einer hochmittelalterlichen Höhenburg oberhalb des Ennstales.",
+                  "category": "castle",
+                  "coords": [
+                        14.150828,
+                        47.556388
+                  ]
+            },
+            {
+                  "name": "Burgruine Oberstainach",
+                  "text": "Historische Mauerreste einer mittelalterlichen Burganlage in der Steiermark.",
+                  "category": "castle",
+                  "coords": [
+                        14.104913,
+                        47.535291
+                  ]
+            },
+            {
+                  "name": "Pürglitzschanze",
+                  "text": "Eine archäologische Fundstätte, die historische Befestigungsanlagen oder Erdbauwerke umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        14.108837,
+                        47.496927
+                  ]
+            },
+            {
+                  "name": "Schloss Pichlarn",
+                  "text": "Ein Renaissance-Schloss, das heute als luxuriöses Hotel und Golfresort bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        14.120337,
+                        47.503875
+                  ]
+            },
+            {
+                  "name": "Schloss Friedstein",
+                  "text": "Ein barockes Schlossbauwerk, das ein Beispiel für die historische Architektur der Region ist.",
+                  "category": "castle",
+                  "coords": [
+                        14.119544,
+                        47.543201
+                  ]
+            },
+            {
+                  "name": "Schloss Trautenfels",
+                  "text": "Ein Schloss, das heute ein Regionalmuseum für Volkskunde und Naturgeschichte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        14.081457,
+                        47.518682
+                  ]
+            },
+            {
+                  "name": "Alpenbad Stainach",
+                  "text": "Ein öffentliches Freibad in Stainach, das Freizeitmöglichkeiten für Schwimmer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.109436,
+                        47.535277
+                  ]
+            },
+            {
+                  "name": "Nojer",
+                  "text": "Ein Berggipfel im Grimming-Massiv, der Ziel für Bergsteiger und Wanderer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.105217,
+                        47.553048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Wolkenstein",
+                  "text": "Egy késő középkori hegyi vár romjai az Enns-völgy felett.",
+                  "category": "castle",
+                  "coords": [
+                        14.150828,
+                        47.556388
+                  ]
+            },
+            {
+                  "name": "Burgruine Oberstainach",
+                  "text": "Egy középkori várfal történelmi maradványai Stájerországban.",
+                  "category": "castle",
+                  "coords": [
+                        14.104913,
+                        47.535291
+                  ]
+            },
+            {
+                  "name": "Pürglitzschanze",
+                  "text": "Régészeti lelőhely, amely történelmi erődítményeket vagy földműveket foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        14.108837,
+                        47.496927
+                  ]
+            },
+            {
+                  "name": "Schloss Pichlarn",
+                  "text": "Reneszánsz kastély, amely ma luxusszállodaként és golfüdülőként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        14.120337,
+                        47.503875
+                  ]
+            },
+            {
+                  "name": "Schloss Friedstein",
+                  "text": "Barokk kastélyépület, amely a régió történelmi építészetének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        14.119544,
+                        47.543201
+                  ]
+            },
+            {
+                  "name": "Schloss Trautenfels",
+                  "text": "Kastély, amely ma néprajzi és természettudományi regionális múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.081457,
+                        47.518682
+                  ]
+            },
+            {
+                  "name": "Alpenbad Stainach",
+                  "text": "Nyilvános strandfürdő Stainachban, amely kikapcsolódást nyújt az úszóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.109436,
+                        47.535277
+                  ]
+            },
+            {
+                  "name": "Nojer",
+                  "text": "A Grimming-masszívum egyik hegycsúcsa, amely a hegymászók és túrázók célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.105217,
+                        47.553048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Wolkenstein",
+                  "text": "Ruinele unui castel medieval situat deasupra văii Enns.",
+                  "category": "castle",
+                  "coords": [
+                        14.150828,
+                        47.556388
+                  ]
+            },
+            {
+                  "name": "Burgruine Oberstainach",
+                  "text": "Rămășițele istorice ale unei fortificații medievale din Stiria.",
+                  "category": "castle",
+                  "coords": [
+                        14.104913,
+                        47.535291
+                  ]
+            },
+            {
+                  "name": "Pürglitzschanze",
+                  "text": "Un sit arheologic care cuprinde fortificații istorice sau terasamente.",
+                  "category": "historical",
+                  "coords": [
+                        14.108837,
+                        47.496927
+                  ]
+            },
+            {
+                  "name": "Schloss Pichlarn",
+                  "text": "Un castel în stil renascentist, cunoscut astăzi ca hotel de lux și complex de golf.",
+                  "category": "castle",
+                  "coords": [
+                        14.120337,
+                        47.503875
+                  ]
+            },
+            {
+                  "name": "Schloss Friedstein",
+                  "text": "O construcție de castel baroc, care reprezintă un exemplu de arhitectură istorică a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        14.119544,
+                        47.543201
+                  ]
+            },
+            {
+                  "name": "Schloss Trautenfels",
+                  "text": "Un castel care găzduiește astăzi un muzeu regional de etnografie și istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        14.081457,
+                        47.518682
+                  ]
+            },
+            {
+                  "name": "Alpenbad Stainach",
+                  "text": "Un ștrand public în Stainach, care oferă facilități de recreere pentru înotători.",
+                  "category": "recreational",
+                  "coords": [
+                        14.109436,
+                        47.535277
+                  ]
+            },
+            {
+                  "name": "Nojer",
+                  "text": "Un vârf montan din masivul Grimming, care este o destinație pentru alpiniști și drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        14.105217,
+                        47.553048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Wolkenstein",
+                  "text": "The ruins of a high medieval hill castle located above the Enns Valley.",
+                  "category": "castle",
+                  "coords": [
+                        14.150828,
+                        47.556388
+                  ]
+            },
+            {
+                  "name": "Burgruine Oberstainach",
+                  "text": "Historic wall remains of a medieval castle complex in Styria.",
+                  "category": "castle",
+                  "coords": [
+                        14.104913,
+                        47.535291
+                  ]
+            },
+            {
+                  "name": "Pürglitzschanze",
+                  "text": "An archaeological site encompassing historic fortifications or earthworks.",
+                  "category": "historical",
+                  "coords": [
+                        14.108837,
+                        47.496927
+                  ]
+            },
+            {
+                  "name": "Schloss Pichlarn",
+                  "text": "A Renaissance castle today well-known as a luxury hotel and golf resort.",
+                  "category": "castle",
+                  "coords": [
+                        14.120337,
+                        47.503875
+                  ]
+            },
+            {
+                  "name": "Schloss Friedstein",
+                  "text": "A Baroque castle building that serves as an example of the region's historic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        14.119544,
+                        47.543201
+                  ]
+            },
+            {
+                  "name": "Schloss Trautenfels",
+                  "text": "A castle that now houses a regional museum of folklore and natural history.",
+                  "category": "museum",
+                  "coords": [
+                        14.081457,
+                        47.518682
+                  ]
+            },
+            {
+                  "name": "Alpenbad Stainach",
+                  "text": "A public outdoor swimming facility in Stainach providing recreation for swimmers.",
+                  "category": "recreational",
+                  "coords": [
+                        14.109436,
+                        47.535277
+                  ]
+            },
+            {
+                  "name": "Nojer",
+                  "text": "A mountain peak in the Grimming massif that is a destination for climbers and hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.105217,
+                        47.553048
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Grimming", hu: "Grimming", ro: "Grimming", en: "Grimming" },
@@ -768,7 +5349,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-grimming-relief-v2.webp",
   },
   {
-    id: "austria-zugspitze-at-relief-v2",
+    id: "austria-zugspitze-at-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Ein Museum auf der Zugspitze, das die Geschichte der Erschließung des Berges zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Ein Museum zur Geschichte der Tiroler Zugspitzbahn aus dem Jahr 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Mit 2.962 Metern der höchste Gipfel Deutschlands und ein prominenter Berg der Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Ein 2.875 Meter hoher Gipfel im Wettersteingebirge in der Nähe der Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Ein markanter Berggipfel im Wettersteingebirge im Grenzgebiet zwischen Bayern und Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Ein Gipfel des Wettersteingebirges, der Teil des Plateaus des Zugspitzplatts ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Ein Gipfel im Wettersteingebirge, der sich südwestlich der Zugspitze befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Ein Berggipfel im Wettersteingebirge mit weitem Blick über die umliegenden Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Múzeum a Zugspitzén, amely a hegy meghódításának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Múzeum az 1926-ban indult tiroli Zugspitze-vasút történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "2962 méteres magasságával Németország legmagasabb csúcsa és az Alpok meghatározó hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "2875 méter magas csúcs a Wetterstein-hegységben, a Zugspitze közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Jellegzetes hegycsúcs a Wetterstein-hegységben, Bajorország és Tirol határán.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "A Wetterstein-hegység egyik csúcsa, amely a Zugspitzplatt-fennsík része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Csúcs a Wetterstein-hegységben, amely a Zugspitzétől délnyugatra található.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Hegycsúcs a Wetterstein-hegységben, ahonnan tágas kilátás nyílik a környező Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "Un muzeu pe Zugspitze care prezintă istoria explorării muntelui.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "Un muzeu dedicat istoriei căii ferate tiroleze Zugspitze din 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "Cel mai înalt vârf din Germania, cu 2.962 de metri, și un munte proeminent din Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "Un vârf de 2.875 de metri în munții Wetterstein, situat lângă Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "Un vârf montan distinctiv în munții Wetterstein, la granița dintre Bavaria și Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "Un vârf din munții Wetterstein, făcând parte din platoul Zugspitzplatt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "Un vârf în munții Wetterstein, situat la sud-vest de Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "Un vârf montan în munții Wetterstein, oferind vederi largi asupra Alpilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faszination Erlebnismuseum Zugspitze",
+                  "text": "A museum on the Zugspitze showcasing the history of the mountain's exploration.",
+                  "category": "museum",
+                  "coords": [
+                        10.984304,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "BAHNORAMA anno 1926",
+                  "text": "A museum dedicated to the history of the Tyrolean Zugspitze railway from 1926.",
+                  "category": "museum",
+                  "coords": [
+                        10.942776,
+                        47.426243
+                  ]
+            },
+            {
+                  "name": "Zugspitze",
+                  "text": "At 2,962 metres, the highest peak in Germany and a prominent mountain in the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.986297,
+                        47.421215
+                  ]
+            },
+            {
+                  "name": "Schneefernerkopf",
+                  "text": "A 2,875-metre peak in the Wetterstein mountains located near the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.969959,
+                        47.409597
+                  ]
+            },
+            {
+                  "name": "Südliche Wetterspitze",
+                  "text": "A distinctive mountain peak in the Wetterstein range on the border of Bavaria and Tyrol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.970351,
+                        47.400796
+                  ]
+            },
+            {
+                  "name": "Mittlere Plattspitze",
+                  "text": "A peak in the Wetterstein mountains, forming part of the Zugspitzplatt plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990347,
+                        47.395805
+                  ]
+            },
+            {
+                  "name": "Zugspitzeck",
+                  "text": "A peak in the Wetterstein mountains located southwest of the Zugspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.972345,
+                        47.41757
+                  ]
+            },
+            {
+                  "name": "Nördliche Riffelspitze",
+                  "text": "A mountain peak in the Wetterstein range offering wide views over the surrounding Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        11.005791,
+                        47.438804
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Zugspitze (Österreich)", hu: "Zugspitze (Ausztria)", ro: "Zugspitze (Austria)", en: "Zugspitze (Austria)" },
@@ -813,7 +5691,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-zugspitze-at-relief-v2.webp",
   },
   {
-    id: "austria-grosser-priel-relief-v2",
+    id: "austria-grosser-priel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hirscheck",
+                  "text": "Berggipfel im Toten Gebirge in den österreichischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.122736,
+                        47.627592
+                  ]
+            },
+            {
+                  "name": "Zillkogel",
+                  "text": "Malerischer Berggipfel in der Region Großer Priel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.094292,
+                        47.659449
+                  ]
+            },
+            {
+                  "name": "Bärenkopf",
+                  "text": "Alpiner Gipfel mit beeindruckender Aussicht auf die umliegende Bergwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.116765,
+                        47.643369
+                  ]
+            },
+            {
+                  "name": "Ostrawitz",
+                  "text": "Markanter Gipfel im Toten Gebirge, bekannt für seine felsigen Hänge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.090378,
+                        47.684762
+                  ]
+            },
+            {
+                  "name": "Zamseggerkogel",
+                  "text": "Hoher Berggipfel im Gebiet des Toten Gebirges in Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        14.123568,
+                        47.667581
+                  ]
+            },
+            {
+                  "name": "Klinserkogel",
+                  "text": "Bemerkenswerter Gipfel in der alpinen Landschaft des Toten Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        14.126592,
+                        47.687672
+                  ]
+            },
+            {
+                  "name": "Löckenkogel",
+                  "text": "Gipfel in den österreichischen Alpen, beliebt für seine Naturlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        14.100833,
+                        47.687433
+                  ]
+            },
+            {
+                  "name": "Schafferkogel",
+                  "text": "Berggipfel in der Nähe des Großer-Priel-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        14.124204,
+                        47.653699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hirscheck",
+                  "text": "Hegyi csúcs az osztrák Alpokban, a Totes Gebirge hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.122736,
+                        47.627592
+                  ]
+            },
+            {
+                  "name": "Zillkogel",
+                  "text": "Festői hegycsúcs a Großer Priel régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.094292,
+                        47.659449
+                  ]
+            },
+            {
+                  "name": "Bärenkopf",
+                  "text": "Alpesi csúcs, amely lenyűgöző kilátást nyújt a környező hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.116765,
+                        47.643369
+                  ]
+            },
+            {
+                  "name": "Ostrawitz",
+                  "text": "A Totes Gebirge jellegzetes csúcsa, amely sziklás lejtőiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.090378,
+                        47.684762
+                  ]
+            },
+            {
+                  "name": "Zamseggerkogel",
+                  "text": "Magas hegycsúcs az ausztriai Totes Gebirge területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.123568,
+                        47.667581
+                  ]
+            },
+            {
+                  "name": "Klinserkogel",
+                  "text": "Figyelemre méltó csúcs a Totes Gebirge alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        14.126592,
+                        47.687672
+                  ]
+            },
+            {
+                  "name": "Löckenkogel",
+                  "text": "Hegyi csúcs az osztrák Alpokban, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.100833,
+                        47.687433
+                  ]
+            },
+            {
+                  "name": "Schafferkogel",
+                  "text": "Hegycsúcs a Großer Priel masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.124204,
+                        47.653699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hirscheck",
+                  "text": "Vârf muntos în masivul Totes Gebirge din Alpii Austrieci.",
+                  "category": "landmark",
+                  "coords": [
+                        14.122736,
+                        47.627592
+                  ]
+            },
+            {
+                  "name": "Zillkogel",
+                  "text": "Vârf muntos pitoresc situat în regiunea Großer Priel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.094292,
+                        47.659449
+                  ]
+            },
+            {
+                  "name": "Bärenkopf",
+                  "text": "Vârf alpin care oferă vederi impresionante asupra munților din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        14.116765,
+                        47.643369
+                  ]
+            },
+            {
+                  "name": "Ostrawitz",
+                  "text": "Vârf distinctiv din Totes Gebirge, cunoscut pentru versanții săi stâncoși.",
+                  "category": "landmark",
+                  "coords": [
+                        14.090378,
+                        47.684762
+                  ]
+            },
+            {
+                  "name": "Zamseggerkogel",
+                  "text": "Vârf muntos înalt în zona Totes Gebirge din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.123568,
+                        47.667581
+                  ]
+            },
+            {
+                  "name": "Klinserkogel",
+                  "text": "Vârf remarcabil în peisajul alpin din Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.126592,
+                        47.687672
+                  ]
+            },
+            {
+                  "name": "Löckenkogel",
+                  "text": "Vârf în Alpii Austrieci, popular pentru peisajele sale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        14.100833,
+                        47.687433
+                  ]
+            },
+            {
+                  "name": "Schafferkogel",
+                  "text": "Vârf muntos situat în apropierea masivului Großer Priel.",
+                  "category": "landmark",
+                  "coords": [
+                        14.124204,
+                        47.653699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hirscheck",
+                  "text": "Mountain peak in the Totes Gebirge range of the Austrian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.122736,
+                        47.627592
+                  ]
+            },
+            {
+                  "name": "Zillkogel",
+                  "text": "Scenic mountain peak located in the Großer Priel region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.094292,
+                        47.659449
+                  ]
+            },
+            {
+                  "name": "Bärenkopf",
+                  "text": "Alpine summit offering impressive views of the surrounding mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        14.116765,
+                        47.643369
+                  ]
+            },
+            {
+                  "name": "Ostrawitz",
+                  "text": "Distinctive peak in the Totes Gebirge known for its rocky slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        14.090378,
+                        47.684762
+                  ]
+            },
+            {
+                  "name": "Zamseggerkogel",
+                  "text": "High mountain peak in the Totes Gebirge area of Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.123568,
+                        47.667581
+                  ]
+            },
+            {
+                  "name": "Klinserkogel",
+                  "text": "Notable summit in the Alpine landscape of the Totes Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.126592,
+                        47.687672
+                  ]
+            },
+            {
+                  "name": "Löckenkogel",
+                  "text": "Peak in the Austrian Alps popular for its natural scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        14.100833,
+                        47.687433
+                  ]
+            },
+            {
+                  "name": "Schafferkogel",
+                  "text": "Mountain peak located near the Großer Priel massif.",
+                  "category": "landmark",
+                  "coords": [
+                        14.124204,
+                        47.653699
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Großer Priel", hu: "Großer Priel", ro: "Großer Priel", en: "Großer Priel" },
@@ -903,7 +6078,52 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hoher-goll-relief-v2.webp",
   },
   {
-    id: "austria-almkogel-relief-v2",
+    id: "austria-almkogel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bodenwies",
+                  "text": "Ein markanter Berggipfel in den Oberösterreichischen Voralpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.566418,
+                        47.751748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bodenwies",
+                  "text": "Jellegzetes hegycsúcs a Felső-ausztriai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.566418,
+                        47.751748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bodenwies",
+                  "text": "Un vârf montan proeminent în Prealpii Austriei Superioare.",
+                  "category": "landmark",
+                  "coords": [
+                        14.566418,
+                        47.751748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bodenwies",
+                  "text": "A prominent mountain peak in the Upper Austrian Prealps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.566418,
+                        47.751748
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Almkogel", hu: "Almkogel", ro: "Almkogel", en: "Almkogel" },
@@ -948,7 +6168,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-almkogel-relief-v2.webp",
   },
   {
-    id: "austria-feuerkogel-relief-v2",
+    id: "austria-feuerkogel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zeitgeschichte Museum",
+                  "text": "Ein Museum am Feuerkogel, das sich mit der regionalen Zeitgeschichte des 20. Jahrhunderts befasst.",
+                  "category": "museum",
+                  "coords": [
+                        13.771732,
+                        47.813171
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Hochsteinalm",
+                  "text": "Ein kleiner Streichelzoo auf der Hochsteinalm, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        13.733213,
+                        47.842161
+                  ]
+            },
+            {
+                  "name": "Solewegstube Wimmersberg",
+                  "text": "Ein kleines Museum entlang des historischen Soleleitungsweges bei Ebensee.",
+                  "category": "museum",
+                  "coords": [
+                        13.764723,
+                        47.806711
+                  ]
+            },
+            {
+                  "name": "The.Riverwave",
+                  "text": "Eine künstliche stehende Welle am Fluss Traun, die zum Flusssurfen genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        13.731569,
+                        47.784719
+                  ]
+            },
+            {
+                  "name": "Alberfeldkogel",
+                  "text": "Ein Gipfel im Höllengebirge, bekannt für das markante Europakreuz auf seiner Spitze.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705291,
+                        47.817112
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "Ein markanter Berggipfel und beliebtes Ausflugsziel im oberösterreichischen Höllengebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722276,
+                        47.816044
+                  ]
+            },
+            {
+                  "name": "Eiblgupf",
+                  "text": "Ein Gipfel im Höllengebirge, der Wanderern weite Ausblicke über das Salzkammergut bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.675672,
+                        47.814672
+                  ]
+            },
+            {
+                  "name": "Hohenaugupf",
+                  "text": "Ein Bergipfel im Gebiet des Feuerkogels, der Teil des Wanderwegenetzes im Höllengebirge ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722222,
+                        47.844167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zeitgeschichte Museum",
+                  "text": "A Feuerkogelen található múzeum, amely a 20. századi regionális kortárs történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.771732,
+                        47.813171
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Hochsteinalm",
+                  "text": "Kisméretű állatsimogató a Hochsteinalmon, amely ideális kisgyermekes családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.733213,
+                        47.842161
+                  ]
+            },
+            {
+                  "name": "Solewegstube Wimmersberg",
+                  "text": "Kisméretű múzeum a történelmi sósvíz-vezeték útja mentén, Ebensee közelében.",
+                  "category": "museum",
+                  "coords": [
+                        13.764723,
+                        47.806711
+                  ]
+            },
+            {
+                  "name": "The.Riverwave",
+                  "text": "A Traun-folyón kialakított mesterséges állóhullám, amelyet folyami szörfözésre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.731569,
+                        47.784719
+                  ]
+            },
+            {
+                  "name": "Alberfeldkogel",
+                  "text": "A Höllengebirge egyik csúcsa, amely a tetején található jellegzetes Európa-keresztről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705291,
+                        47.817112
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "Jellegzetes hegycsúcs és népszerű kirándulóhely a felső-ausztriai Höllengebirgében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722276,
+                        47.816044
+                  ]
+            },
+            {
+                  "name": "Eiblgupf",
+                  "text": "Hegycsúcs a Höllengebirgében, amely tágas kilátást nyújt a Salzkammergut régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.675672,
+                        47.814672
+                  ]
+            },
+            {
+                  "name": "Hohenaugupf",
+                  "text": "Hegycsúcs a Feuerkogel vidékén, amely a Höllengebirge túraútvonal-hálózatának része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722222,
+                        47.844167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zeitgeschichte Museum",
+                  "text": "Un muzeu pe Feuerkogel care se ocupă cu istoria contemporană regională a secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        13.771732,
+                        47.813171
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Hochsteinalm",
+                  "text": "O mică grădină zoologică cu animale de mângâiat pe Hochsteinalm, ideală pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.733213,
+                        47.842161
+                  ]
+            },
+            {
+                  "name": "Solewegstube Wimmersberg",
+                  "text": "Un mic muzeu situat de-a lungul traseului istoric al conductei de saramură lângă Ebensee.",
+                  "category": "museum",
+                  "coords": [
+                        13.764723,
+                        47.806711
+                  ]
+            },
+            {
+                  "name": "The.Riverwave",
+                  "text": "Un val staționar artificial pe râul Traun, utilizat pentru surfing pe râu.",
+                  "category": "recreational",
+                  "coords": [
+                        13.731569,
+                        47.784719
+                  ]
+            },
+            {
+                  "name": "Alberfeldkogel",
+                  "text": "Un vârf din munții Höllengebirge, cunoscut pentru crucea sa distinctivă numită Europakreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705291,
+                        47.817112
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "Un vârf montan proeminent și o destinație populară în munții Höllengebirge din Austria Superioară.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722276,
+                        47.816044
+                  ]
+            },
+            {
+                  "name": "Eiblgupf",
+                  "text": "Un vârf din munții Höllengebirge care oferă panorame largi asupra regiunii Salzkammergut.",
+                  "category": "landmark",
+                  "coords": [
+                        13.675672,
+                        47.814672
+                  ]
+            },
+            {
+                  "name": "Hohenaugupf",
+                  "text": "Un vârf montan în zona Feuerkogel, parte a rețelei de trasee de drumeție din Höllengebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722222,
+                        47.844167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zeitgeschichte Museum",
+                  "text": "A museum on Feuerkogel focusing on the regional contemporary history of the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        13.771732,
+                        47.813171
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Hochsteinalm",
+                  "text": "A small petting zoo on the Hochsteinalm, ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.733213,
+                        47.842161
+                  ]
+            },
+            {
+                  "name": "Solewegstube Wimmersberg",
+                  "text": "A small museum located along the historic brine pipeline trail near Ebensee.",
+                  "category": "museum",
+                  "coords": [
+                        13.764723,
+                        47.806711
+                  ]
+            },
+            {
+                  "name": "The.Riverwave",
+                  "text": "An artificial standing wave on the River Traun used for river surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        13.731569,
+                        47.784719
+                  ]
+            },
+            {
+                  "name": "Alberfeldkogel",
+                  "text": "A peak in the Höllengebirge mountains, known for the prominent Europe Cross on its summit.",
+                  "category": "landmark",
+                  "coords": [
+                        13.705291,
+                        47.817112
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "A prominent mountain peak and popular destination in the Upper Austrian Höllengebirge range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722276,
+                        47.816044
+                  ]
+            },
+            {
+                  "name": "Eiblgupf",
+                  "text": "A peak in the Höllengebirge offering hikers wide views over the Salzkammergut region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.675672,
+                        47.814672
+                  ]
+            },
+            {
+                  "name": "Hohenaugupf",
+                  "text": "A mountain peak in the Feuerkogel area, part of the hiking trail network in the Höllengebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.722222,
+                        47.844167
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Feuerkogel", hu: "Feuerkogel", ro: "Feuerkogel", en: "Feuerkogel" },
@@ -1038,7 +6555,268 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-traunstein-relief-v2.webp",
   },
   {
-    id: "austria-schafberg-relief-v2",
+    id: "austria-schafberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musikinstrumente-Museum der Völker",
+                  "text": "Museum für Musikinstrumente aus aller Welt in St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.365481,
+                        47.765452
+                  ]
+            },
+            {
+                  "name": "Mozart Haus St. Gilgen",
+                  "text": "Gedenkstätte für die Mutter und Schwester von Wolfgang Amadeus Mozart.",
+                  "category": "museum",
+                  "coords": [
+                        13.367956,
+                        47.766632
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum St. Gilgen",
+                  "text": "Museum zur Geschichte und Volkskunde der Region St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.364516,
+                        47.766598
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Badestelle am Ufer des Wolfgangsees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "Pillsteinhöhe",
+                  "text": "Aussichtsgipfel in der Nähe von St. Gilgen im Salzkammergut.",
+                  "category": "landmark",
+                  "coords": [
+                        13.338274,
+                        47.734989
+                  ]
+            },
+            {
+                  "name": "Zwölferhorn",
+                  "text": "Bekannter Aussichtsberg mit Seilbahn über dem Wolfgangsee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351429,
+                        47.74251
+                  ]
+            },
+            {
+                  "name": "Breitenberg",
+                  "text": "Berg im Salzkammergut in der Nähe von St. Gilgen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.387117,
+                        47.714264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musikinstrumente-Museum der Völker",
+                  "text": "A világ minden tájáról származó hangszereket bemutató múzeum St. Gilgenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.365481,
+                        47.765452
+                  ]
+            },
+            {
+                  "name": "Mozart Haus St. Gilgen",
+                  "text": "Wolfgang Amadeus Mozart édesanyjának és nővérének emlékháza.",
+                  "category": "museum",
+                  "coords": [
+                        13.367956,
+                        47.766632
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum St. Gilgen",
+                  "text": "St. Gilgen és környékének helytörténeti és néprajzi múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        13.364516,
+                        47.766598
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Fürdőhely a Wolfgang-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "Pillsteinhöhe",
+                  "text": "Kilátóhelyként szolgáló hegycsúcs St. Gilgen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.338274,
+                        47.734989
+                  ]
+            },
+            {
+                  "name": "Zwölferhorn",
+                  "text": "Népszerű kilátóhely a Wolfgang-tó felett, amely drótkötélpályával is elérhető.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351429,
+                        47.74251
+                  ]
+            },
+            {
+                  "name": "Breitenberg",
+                  "text": "Hegy a Salzkammergut régióban, St. Gilgen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.387117,
+                        47.714264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musikinstrumente-Museum der Völker",
+                  "text": "Muzeu dedicat instrumentelor muzicale din întreaga lume în St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.365481,
+                        47.765452
+                  ]
+            },
+            {
+                  "name": "Mozart Haus St. Gilgen",
+                  "text": "Casă memorială dedicată mamei și surorii lui Wolfgang Amadeus Mozart.",
+                  "category": "museum",
+                  "coords": [
+                        13.367956,
+                        47.766632
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum St. Gilgen",
+                  "text": "Muzeu de istorie și etnografie locală din St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.364516,
+                        47.766598
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Zonă de scăldat pe malul lacului Wolfgangsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "Pillsteinhöhe",
+                  "text": "Vârf montan cu vedere panoramică lângă St. Gilgen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.338274,
+                        47.734989
+                  ]
+            },
+            {
+                  "name": "Zwölferhorn",
+                  "text": "Munte renumit pentru panorama asupra lacului Wolfgangsee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351429,
+                        47.74251
+                  ]
+            },
+            {
+                  "name": "Breitenberg",
+                  "text": "Munte în regiunea Salzkammergut, situat în apropiere de St. Gilgen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.387117,
+                        47.714264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musikinstrumente-Museum der Völker",
+                  "text": "Museum showcasing musical instruments from all over the world in St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.365481,
+                        47.765452
+                  ]
+            },
+            {
+                  "name": "Mozart Haus St. Gilgen",
+                  "text": "Memorial house dedicated to the mother and sister of Wolfgang Amadeus Mozart.",
+                  "category": "museum",
+                  "coords": [
+                        13.367956,
+                        47.766632
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum St. Gilgen",
+                  "text": "Museum of local history and folklore in St. Gilgen.",
+                  "category": "museum",
+                  "coords": [
+                        13.364516,
+                        47.766598
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Bathing area on the shores of Lake Wolfgangsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "Pillsteinhöhe",
+                  "text": "Mountain peak with a viewpoint near St. Gilgen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.338274,
+                        47.734989
+                  ]
+            },
+            {
+                  "name": "Zwölferhorn",
+                  "text": "Well-known mountain peak offering panoramic views over Lake Wolfgangsee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.351429,
+                        47.74251
+                  ]
+            },
+            {
+                  "name": "Breitenberg",
+                  "text": "Mountain in the Salzkammergut region, located near St. Gilgen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.387117,
+                        47.714264
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Schafberg", hu: "Schafberg", ro: "Schafberg", en: "Schafberg" },
@@ -1083,7 +6861,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-schafberg-relief-v2.webp",
   },
   {
-    id: "austria-hoher-dachtein-gletscher-relief-v2",
+    id: "austria-hoher-dachtein-gletscher-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Dieses Museum in Ramsau am Dachstein widmet sich der alpinen Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Landfriedstein",
+                  "text": "Ein markanter Berggipfel in der Gebirgsgruppe des Dachstein-Gletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667663,
+                        47.462696
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Ein Berggipfel in den österreichischen Alpen, der zur Dachstein-Region gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Ein 2863 Meter hoher Gipfel im Dachsteingebirge an der Grenze zwischen Steiermark und Oberösterreich.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Ein alpiner Berggipfel im Bereich des Dachstein-Gletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Ein Gipfel im Dachsteinmassiv, der als Bergstation der Dachstein-Gletscherbahn bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Ein Berggipfel im Dachsteingebirge, der sich in der Nähe des Großen Koppenkarsteins befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Ein Gipfel in der Gebirgslandschaft rund um den Dachstein-Gletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Ez a Ramsau am Dachstein-i múzeum a régió alpesi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Landfriedstein",
+                  "text": "Egy jellegzetes hegycsúcs a Dachstein-gleccser hegységében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667663,
+                        47.462696
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Hegycsúcs az osztrák Alpokban, amely a Dachstein régióhoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Egy 2863 méter magas csúcs a Dachstein-hegységben, Stájerország és Felső-Ausztria határán.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Egy alpesi hegycsúcs a Dachstein-gleccser területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "A Dachstein-masszívum egyik csúcsa, amely a dachsteini gleccservasút hegyi állomásaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Hegycsúcs a Dachstein-hegységben, a Großer Koppenkarstein közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Egy csúcs a Dachstein-gleccser körüli hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Acest muzeu din Ramsau am Dachstein este dedicat istoriei și culturii alpine a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Landfriedstein",
+                  "text": "Un vârf montan proeminent în grupul muntos al ghețarului Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667663,
+                        47.462696
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Un vârf muntos din Alpii austrieci, aparținând regiunii Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Un vârf de 2863 de metri în munții Dachstein, la granița dintre Stiria și Austria Superioară.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Un vârf montan alpin în zona ghețarului Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Un vârf din masivul Dachstein, cunoscut ca stația superioară a telecabinei ghețarului Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Un vârf muntos din munții Dachstein, situat în apropiere de Großer Koppenkarstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Un vârf în peisajul montan din jurul ghețarului Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "This museum in Ramsau am Dachstein is dedicated to the alpine history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Landfriedstein",
+                  "text": "A prominent mountain peak in the Dachstein Glacier mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.667663,
+                        47.462696
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "A mountain peak in the Austrian Alps, belonging to the Dachstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "A 2863-meter-high peak in the Dachstein Mountains on the border between Styria and Upper Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "An alpine mountain peak in the area of the Dachstein Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "A peak in the Dachstein massif, known as the mountain station of the Dachstein Glacier Cable Car.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "A mountain peak in the Dachstein Mountains, located near the Großer Koppenkarstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "A peak in the mountain landscape around the Dachstein Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Dachstein-Gletscher", hu: "Dachstein-gleccser", ro: "Ghețarul Dachstein", en: "Dachstein Glacier" },
@@ -1128,7 +7203,124 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hoher-dachtein-gletscher-relief-v2.webp",
   },
   {
-    id: "austria-ansberg-relief-v2",
+    id: "austria-ansberg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Breiteckkoppe",
+                  "text": "Ein Berggipfel in den österreichischen Alpen mit herrlicher Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        14.236589,
+                        47.371049
+                  ]
+            },
+            {
+                  "name": "Hintergullingspitz",
+                  "text": "Ein Gipfel in der Region, der bei Wanderern für seine alpine Schönheit beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213003,
+                        47.386588
+                  ]
+            },
+            {
+                  "name": "Brennkogel",
+                  "text": "Ein markanter Berggipfel, der Wanderwege und Naturerlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.251639,
+                        47.400607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Breiteckkoppe",
+                  "text": "Hegycsúcs az osztrák Alpokban, csodálatos kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        14.236589,
+                        47.371049
+                  ]
+            },
+            {
+                  "name": "Hintergullingspitz",
+                  "text": "A túrázók körében népszerű hegycsúcs, amely alpesi szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213003,
+                        47.386588
+                  ]
+            },
+            {
+                  "name": "Brennkogel",
+                  "text": "Jellegzetes hegycsúcs, amely túraútvonalakat és természeti élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.251639,
+                        47.400607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Breiteckkoppe",
+                  "text": "Un vârf montan din Alpii Austriaci, oferind vederi spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        14.236589,
+                        47.371049
+                  ]
+            },
+            {
+                  "name": "Hintergullingspitz",
+                  "text": "Un vârf montan popular printre drumeți, cunoscut pentru frumusețea sa alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213003,
+                        47.386588
+                  ]
+            },
+            {
+                  "name": "Brennkogel",
+                  "text": "Un vârf montan proeminent care oferă trasee de drumeție și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        14.251639,
+                        47.400607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breiteckkoppe",
+                  "text": "A mountain peak in the Austrian Alps offering wonderful views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.236589,
+                        47.371049
+                  ]
+            },
+            {
+                  "name": "Hintergullingspitz",
+                  "text": "A peak in the region popular among hikers for its alpine beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        14.213003,
+                        47.386588
+                  ]
+            },
+            {
+                  "name": "Brennkogel",
+                  "text": "A prominent mountain peak offering hiking trails and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        14.251639,
+                        47.400607
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Ansberg", hu: "Ansberg", ro: "Ansberg", en: "Ansberg" },
@@ -1173,7 +7365,160 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-ansberg-relief-v2.webp",
   },
   {
-    id: "austria-planneralm-relief-v2",
+    id: "austria-planneralm-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Donnersbach",
+                  "text": "Ein historisches Schloss in der Region Planneralm.",
+                  "category": "castle",
+                  "coords": [
+                        14.127792,
+                        47.464186
+                  ]
+            },
+            {
+                  "name": "Hochstein",
+                  "text": "Ein markanter Berggipfel in den österreichischen Alpen bei Planneralm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.187357,
+                        47.43078
+                  ]
+            },
+            {
+                  "name": "Mölbegg",
+                  "text": "Ein Berggipfel in der Nähe von Planneralm, der Aussichten auf die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.186785,
+                        47.456194
+                  ]
+            },
+            {
+                  "name": "St. Ägydius",
+                  "text": "Historische Ruinen einer ehemaligen Kapelle oder eines Gebäudes in Planneralm.",
+                  "category": "historical",
+                  "coords": [
+                        14.135342,
+                        47.460635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Donnersbach",
+                  "text": "Történelmi kastély a Planneralm régióban.",
+                  "category": "castle",
+                  "coords": [
+                        14.127792,
+                        47.464186
+                  ]
+            },
+            {
+                  "name": "Hochstein",
+                  "text": "Jellegzetes hegycsúcs az osztrák Alpokban, Planneralm közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.187357,
+                        47.43078
+                  ]
+            },
+            {
+                  "name": "Mölbegg",
+                  "text": "Hegycsúcs Planneralm közelében, amely kilátást nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.186785,
+                        47.456194
+                  ]
+            },
+            {
+                  "name": "St. Ägydius",
+                  "text": "Egy egykori kápolna vagy épület történelmi romjai Planneralmban.",
+                  "category": "historical",
+                  "coords": [
+                        14.135342,
+                        47.460635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Donnersbach",
+                  "text": "Un castel istoric situat în regiunea Planneralm.",
+                  "category": "castle",
+                  "coords": [
+                        14.127792,
+                        47.464186
+                  ]
+            },
+            {
+                  "name": "Hochstein",
+                  "text": "Un vârf montan proeminent în Alpii Austrieci, lângă Planneralm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.187357,
+                        47.43078
+                  ]
+            },
+            {
+                  "name": "Mölbegg",
+                  "text": "Un vârf muntos lângă Planneralm, oferind priveliști asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        14.186785,
+                        47.456194
+                  ]
+            },
+            {
+                  "name": "St. Ägydius",
+                  "text": "Ruinele istorice ale unei foste capele sau clădiri în Planneralm.",
+                  "category": "historical",
+                  "coords": [
+                        14.135342,
+                        47.460635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Donnersbach",
+                  "text": "A historic castle located in the Planneralm area.",
+                  "category": "castle",
+                  "coords": [
+                        14.127792,
+                        47.464186
+                  ]
+            },
+            {
+                  "name": "Hochstein",
+                  "text": "A prominent mountain peak in the Austrian Alps near Planneralm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.187357,
+                        47.43078
+                  ]
+            },
+            {
+                  "name": "Mölbegg",
+                  "text": "A mountain peak near Planneralm, offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        14.186785,
+                        47.456194
+                  ]
+            },
+            {
+                  "name": "St. Ägydius",
+                  "text": "Historic ruins of a former chapel or building in Planneralm.",
+                  "category": "historical",
+                  "coords": [
+                        14.135342,
+                        47.460635
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Planneralm", hu: "Planneralm", ro: "Planneralm", en: "Planneralm" },
@@ -1218,7 +7563,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-planneralm-relief-v2.webp",
   },
   {
-    id: "austria-kaibling-relief-v2",
+    id: "austria-kaibling-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hauser Kaibling",
+                  "text": "Ein markanter Berggipfel und ein bekanntes Skigebiet in den österreichischen Ennstaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77866,
+                        47.373701
+                  ]
+            },
+            {
+                  "name": "Pleschnitzzinken",
+                  "text": "Ein Gipfel in den Schladminger Tauern, der Panoramablicke auf die umliegende Alpenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856181,
+                        47.373258
+                  ]
+            },
+            {
+                  "name": "Bärfallspitze",
+                  "text": "Ein alpiner Gipfel, der Wanderern weite Ausblicke auf die österreichische Bergwelt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.785846,
+                        47.359714
+                  ]
+            },
+            {
+                  "name": "Hochlabeck",
+                  "text": "Ein Berggipfel in den Alpen, bekannt für seine natürliche Umgebung und Outdoor-Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806183,
+                        47.361666
+                  ]
+            },
+            {
+                  "name": "Karlspitze",
+                  "text": "Ein Gipfel in der Region Hauser Kaibling, der über verschiedene Bergwanderwege erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.784893,
+                        47.353233
+                  ]
+            },
+            {
+                  "name": "Moderspitze",
+                  "text": "Ein Berggipfel in den österreichischen Alpen, der eine ruhige Kulisse für Naturliebhaber bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.803336,
+                        47.355607
+                  ]
+            },
+            {
+                  "name": "Vockentalspitze",
+                  "text": "Ein alpiner Gipfel in der Steiermark, der für seine malerische Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.831872,
+                        47.352737
+                  ]
+            },
+            {
+                  "name": "Schwarzkogel",
+                  "text": "Ein Gipfel in den Steirischen Alpen, der sowohl im Winter als auch im Sommer ein Ziel für Sportler ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.813265,
+                        47.384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hauser Kaibling",
+                  "text": "Jelentős hegycsúcs és ismert síközpont az osztrák Ennstali-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77866,
+                        47.373701
+                  ]
+            },
+            {
+                  "name": "Pleschnitzzinken",
+                  "text": "A Schladmingi-Tauern egyik csúcsa, amely panorámás kilátást nyújt a környező alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856181,
+                        47.373258
+                  ]
+            },
+            {
+                  "name": "Bärfallspitze",
+                  "text": "Alpesi csúcs, amely tágas kilátást nyújt a túrázóknak az osztrák hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        13.785846,
+                        47.359714
+                  ]
+            },
+            {
+                  "name": "Hochlabeck",
+                  "text": "Hegycsúcs az Alpokban, amely természeti környezetéről és szabadtéri tevékenységeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806183,
+                        47.361666
+                  ]
+            },
+            {
+                  "name": "Karlspitze",
+                  "text": "Csúcs a Hauser Kaibling régióban, amely különféle hegyi túraútvonalakon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        13.784893,
+                        47.353233
+                  ]
+            },
+            {
+                  "name": "Moderspitze",
+                  "text": "Hegycsúcs az osztrák Alpokban, amely nyugodt hátteret kínál a természet kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        13.803336,
+                        47.355607
+                  ]
+            },
+            {
+                  "name": "Vockentalspitze",
+                  "text": "Alpesi csúcs Stájerországban, amely festői kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.831872,
+                        47.352737
+                  ]
+            },
+            {
+                  "name": "Schwarzkogel",
+                  "text": "Csúcs a Stájer-Alpokban, amely télen és nyáron egyaránt a sportolók célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.813265,
+                        47.384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hauser Kaibling",
+                  "text": "Un vârf muntos proeminent și o stațiune de schi cunoscută în Alpii Ennstal din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77866,
+                        47.373701
+                  ]
+            },
+            {
+                  "name": "Pleschnitzzinken",
+                  "text": "Un vârf din Schladminger Tauern care oferă vederi panoramice asupra peisajului alpin înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856181,
+                        47.373258
+                  ]
+            },
+            {
+                  "name": "Bärfallspitze",
+                  "text": "Un vârf alpin care oferă drumeților vederi largi asupra lumii montane austriece.",
+                  "category": "landmark",
+                  "coords": [
+                        13.785846,
+                        47.359714
+                  ]
+            },
+            {
+                  "name": "Hochlabeck",
+                  "text": "Un vârf muntos din Alpi, cunoscut pentru mediul său natural și activitățile în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806183,
+                        47.361666
+                  ]
+            },
+            {
+                  "name": "Karlspitze",
+                  "text": "Un vârf din regiunea Hauser Kaibling, accesibil prin diverse trasee de drumeție montană.",
+                  "category": "landmark",
+                  "coords": [
+                        13.784893,
+                        47.353233
+                  ]
+            },
+            {
+                  "name": "Moderspitze",
+                  "text": "Un vârf muntos din Alpii Austrieci, oferind un cadru liniștit pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        13.803336,
+                        47.355607
+                  ]
+            },
+            {
+                  "name": "Vockentalspitze",
+                  "text": "Un vârf alpin din Stiria, cunoscut pentru priveliștile sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        13.831872,
+                        47.352737
+                  ]
+            },
+            {
+                  "name": "Schwarzkogel",
+                  "text": "Un vârf din Alpii Stirieni, care este o destinație pentru sportivi atât iarna, cât și vara.",
+                  "category": "landmark",
+                  "coords": [
+                        13.813265,
+                        47.384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hauser Kaibling",
+                  "text": "A prominent mountain peak and a well-known ski resort in the Austrian Ennstal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.77866,
+                        47.373701
+                  ]
+            },
+            {
+                  "name": "Pleschnitzzinken",
+                  "text": "A peak in the Schladminger Tauern offering panoramic views of the surrounding Alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856181,
+                        47.373258
+                  ]
+            },
+            {
+                  "name": "Bärfallspitze",
+                  "text": "An alpine peak offering hikers wide views of the Austrian mountain world.",
+                  "category": "landmark",
+                  "coords": [
+                        13.785846,
+                        47.359714
+                  ]
+            },
+            {
+                  "name": "Hochlabeck",
+                  "text": "A mountain peak in the Alps, known for its natural environment and outdoor activities.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806183,
+                        47.361666
+                  ]
+            },
+            {
+                  "name": "Karlspitze",
+                  "text": "A peak in the Hauser Kaibling region, accessible via various mountain hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        13.784893,
+                        47.353233
+                  ]
+            },
+            {
+                  "name": "Moderspitze",
+                  "text": "A mountain peak in the Austrian Alps, offering a peaceful backdrop for nature enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        13.803336,
+                        47.355607
+                  ]
+            },
+            {
+                  "name": "Vockentalspitze",
+                  "text": "An alpine peak in Styria, known for its scenic vistas.",
+                  "category": "landmark",
+                  "coords": [
+                        13.831872,
+                        47.352737
+                  ]
+            },
+            {
+                  "name": "Schwarzkogel",
+                  "text": "A peak in the Styrian Alps, which is a destination for sports enthusiasts in both winter and summer.",
+                  "category": "landmark",
+                  "coords": [
+                        13.813265,
+                        47.384
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Hauser Kaibling", hu: "Hauser Kaibling", ro: "Hauser Kaibling", en: "Hauser Kaibling" },
@@ -1263,7 +7905,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-kaibling-relief-v2.webp",
   },
   {
-    id: "austria-dachstein-west-relief-v2",
+    id: "austria-dachstein-west-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ahornwald",
+                  "text": "Ein malerisches Waldgebiet in der Region Dachstein West, bekannt für seine Ahornbäume.",
+                  "category": "natural",
+                  "coords": [
+                        13.54336,
+                        47.505757
+                  ]
+            },
+            {
+                  "name": "Großer Donnerkogel",
+                  "text": "Ein markanter Berggipfel im Gosaukamm, der anspruchsvolle Klettertouren bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.481382,
+                        47.524282
+                  ]
+            },
+            {
+                  "name": "Kleiner Donnerkogel",
+                  "text": "Ein bemerkenswerter Gipfel im Gebiet Dachstein West, beliebt bei Wanderern und Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.479145,
+                        47.527317
+                  ]
+            },
+            {
+                  "name": "Hacklplatten",
+                  "text": "Ein schroffer Berggipfel, der einen Panoramablick auf die Alpenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.501572,
+                        47.470447
+                  ]
+            },
+            {
+                  "name": "Däumling",
+                  "text": "Ein markanter Felsgipfel in der Gosaukamm-Gruppe, bekannt für seine besondere Form.",
+                  "category": "landmark",
+                  "coords": [
+                        13.517999,
+                        47.502198
+                  ]
+            },
+            {
+                  "name": "Großwand",
+                  "text": "Eine beeindruckende Bergwand in der Dachstein-Region, die erfahrene Kletterer anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.513498,
+                        47.502942
+                  ]
+            },
+            {
+                  "name": "Angerstein",
+                  "text": "Ein majestätischer Gipfel in den Bergen von Dachstein West, ideal für alpine Erkundungen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.490025,
+                        47.513227
+                  ]
+            },
+            {
+                  "name": "Mandlkogel",
+                  "text": "Ein hoher Berggipfel in den österreichischen Alpen mit malerischen Wanderwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.499949,
+                        47.511025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ahornwald",
+                  "text": "Festői erdőterület a Dachstein West régióban, amely juharfáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.54336,
+                        47.505757
+                  ]
+            },
+            {
+                  "name": "Großer Donnerkogel",
+                  "text": "A Gosaukamm-hegység kiemelkedő csúcsa, amely kihívást jelentő mászási lehetőségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.481382,
+                        47.524282
+                  ]
+            },
+            {
+                  "name": "Kleiner Donnerkogel",
+                  "text": "Jelentős csúcs a Dachstein West területén, a túrázók és hegymászók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        13.479145,
+                        47.527317
+                  ]
+            },
+            {
+                  "name": "Hacklplatten",
+                  "text": "Egy sziklás hegycsúcs, ahonnan panorámás kilátás nyílik az alpesi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.501572,
+                        47.470447
+                  ]
+            },
+            {
+                  "name": "Däumling",
+                  "text": "Jellegzetes sziklacsúcs a Gosaukamm-csoportban, amely különleges alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.517999,
+                        47.502198
+                  ]
+            },
+            {
+                  "name": "Großwand",
+                  "text": "Lenyűgöző hegyoldal a Dachstein régióban, amely vonzza a tapasztalt mászókat.",
+                  "category": "landmark",
+                  "coords": [
+                        13.513498,
+                        47.502942
+                  ]
+            },
+            {
+                  "name": "Angerstein",
+                  "text": "Fenséges csúcs a Dachstein West hegységben, ideális az alpesi felfedezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        13.490025,
+                        47.513227
+                  ]
+            },
+            {
+                  "name": "Mandlkogel",
+                  "text": "Magas hegycsúcs az osztrák Alpokban, festői túraútvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.499949,
+                        47.511025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ahornwald",
+                  "text": "O zonă forestieră pitorească din regiunea Dachstein West, cunoscută pentru arțarii săi.",
+                  "category": "natural",
+                  "coords": [
+                        13.54336,
+                        47.505757
+                  ]
+            },
+            {
+                  "name": "Großer Donnerkogel",
+                  "text": "Un vârf montan proeminent din creasta Gosaukamm, care oferă trasee de alpinism provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        13.481382,
+                        47.524282
+                  ]
+            },
+            {
+                  "name": "Kleiner Donnerkogel",
+                  "text": "Un vârf notabil din zona Dachstein West, popular printre turiști și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        13.479145,
+                        47.527317
+                  ]
+            },
+            {
+                  "name": "Hacklplatten",
+                  "text": "Un vârf montan accidentat care oferă vederi panoramice asupra peisajului alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        13.501572,
+                        47.470447
+                  ]
+            },
+            {
+                  "name": "Däumling",
+                  "text": "Un vârf stâncos frapant din grupul Gosaukamm, cunoscut pentru forma sa distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.517999,
+                        47.502198
+                  ]
+            },
+            {
+                  "name": "Großwand",
+                  "text": "Un perete montan impresionant din regiunea Dachstein, care atrage alpiniștii experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        13.513498,
+                        47.502942
+                  ]
+            },
+            {
+                  "name": "Angerstein",
+                  "text": "Un vârf maiestuos în munții Dachstein West, ideal pentru explorarea alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        13.490025,
+                        47.513227
+                  ]
+            },
+            {
+                  "name": "Mandlkogel",
+                  "text": "Un vârf montan înalt din Alpii Austrieci, cu trasee de drumeție pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        13.499949,
+                        47.511025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahornwald",
+                  "text": "A scenic forest area in the Dachstein West region known for its maple trees.",
+                  "category": "natural",
+                  "coords": [
+                        13.54336,
+                        47.505757
+                  ]
+            },
+            {
+                  "name": "Großer Donnerkogel",
+                  "text": "A prominent mountain peak in the Gosaukamm range offering challenging climbs.",
+                  "category": "landmark",
+                  "coords": [
+                        13.481382,
+                        47.524282
+                  ]
+            },
+            {
+                  "name": "Kleiner Donnerkogel",
+                  "text": "A notable peak in the Dachstein West area, popular with hikers and climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.479145,
+                        47.527317
+                  ]
+            },
+            {
+                  "name": "Hacklplatten",
+                  "text": "A rugged mountain peak providing panoramic views of the Alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.501572,
+                        47.470447
+                  ]
+            },
+            {
+                  "name": "Däumling",
+                  "text": "A striking rock peak in the Gosaukamm group known for its distinct shape.",
+                  "category": "landmark",
+                  "coords": [
+                        13.517999,
+                        47.502198
+                  ]
+            },
+            {
+                  "name": "Großwand",
+                  "text": "An impressive mountain face in the Dachstein region, attracting experienced climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.513498,
+                        47.502942
+                  ]
+            },
+            {
+                  "name": "Angerstein",
+                  "text": "A majestic peak within the Dachstein West mountains, ideal for alpine exploration.",
+                  "category": "landmark",
+                  "coords": [
+                        13.490025,
+                        47.513227
+                  ]
+            },
+            {
+                  "name": "Mandlkogel",
+                  "text": "A high mountain peak in the Austrian Alps with scenic hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        13.499949,
+                        47.511025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Dachstein-West", hu: "Dachstein-West", ro: "Dachstein-West", en: "Dachstein West" },
@@ -1308,7 +8247,196 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-dachstein-west-relief-v2.webp",
   },
   {
-    id: "austria-murtal-alpen-relief-v2",
+    id: "austria-murtal-alpen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wenzelalpe",
+                  "text": "Die Wenzelalpe ist ein Gipfel in den Seetaler Alpen in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540057,
+                        47.10966
+                  ]
+            },
+            {
+                  "name": "Almhütte verfallen",
+                  "text": "Überreste einer verfallenen Almhütte in den Murtaler Alpen.",
+                  "category": "historical",
+                  "coords": [
+                        14.512693,
+                        47.08831
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Martin",
+                  "text": "Eine dem heiligen Martin geweihte römisch-katholische Pfarrkirche.",
+                  "category": "religious",
+                  "coords": [
+                        14.465676,
+                        47.083265
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Gotthard",
+                  "text": "Eine dem heiligen Gotthard geweihte katholische Pfarrkirche.",
+                  "category": "religious",
+                  "coords": [
+                        14.452579,
+                        47.104664
+                  ]
+            },
+            {
+                  "name": "Nothelferkapelle in See",
+                  "text": "Eine kleine Kapelle in See, die den heiligen Nothelfern gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.486938,
+                        47.074876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wenzelalpe",
+                  "text": "A Wenzelalpe egy hegycsúcs a Murtal-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540057,
+                        47.10966
+                  ]
+            },
+            {
+                  "name": "Almhütte verfallen",
+                  "text": "Egy elhagyatott alpesi kunyhó maradványai a Murtal-Alpokban.",
+                  "category": "historical",
+                  "coords": [
+                        14.512693,
+                        47.08831
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Martin",
+                  "text": "Szent Mártonnak szentelt római katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        14.465676,
+                        47.083265
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Gotthard",
+                  "text": "Szent Gotthárdnak szentelt katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        14.452579,
+                        47.104664
+                  ]
+            },
+            {
+                  "name": "Nothelferkapelle in See",
+                  "text": "Egy kis kápolna See településen, amelyet a segítőszenteknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.486938,
+                        47.074876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wenzelalpe",
+                  "text": "Wenzelalpe este un vârf muntos din Alpii Murtal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540057,
+                        47.10966
+                  ]
+            },
+            {
+                  "name": "Almhütte verfallen",
+                  "text": "Ruinele unei colibe alpine părăsite în Alpii Murtal.",
+                  "category": "historical",
+                  "coords": [
+                        14.512693,
+                        47.08831
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Martin",
+                  "text": "O biserică parohială romano-catolică dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        14.465676,
+                        47.083265
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Gotthard",
+                  "text": "O biserică parohială catolică dedicată Sfântului Gotthard.",
+                  "category": "religious",
+                  "coords": [
+                        14.452579,
+                        47.104664
+                  ]
+            },
+            {
+                  "name": "Nothelferkapelle in See",
+                  "text": "O mică capelă în See, dedicată sfinților ajutători.",
+                  "category": "landmark",
+                  "coords": [
+                        14.486938,
+                        47.074876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wenzelalpe",
+                  "text": "Wenzelalpe is a mountain peak located in the Murtal Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540057,
+                        47.10966
+                  ]
+            },
+            {
+                  "name": "Almhütte verfallen",
+                  "text": "Remains of a dilapidated alpine hut in the Murtal Alps.",
+                  "category": "historical",
+                  "coords": [
+                        14.512693,
+                        47.08831
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Martin",
+                  "text": "A Roman Catholic parish church dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        14.465676,
+                        47.083265
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Gotthard",
+                  "text": "A Catholic parish church dedicated to Saint Gotthard.",
+                  "category": "religious",
+                  "coords": [
+                        14.452579,
+                        47.104664
+                  ]
+            },
+            {
+                  "name": "Nothelferkapelle in See",
+                  "text": "A small chapel in See dedicated to the Holy Helpers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.486938,
+                        47.074876
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Murtaler Alpen", hu: "Murtali-Alpok", ro: "Alpii Murtal", en: "Murtal Alps" },
@@ -1353,7 +8481,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-murtal-alpen-relief-v2.webp",
   },
   {
-    id: "austria-radstatter-tauern-relief-v2",
+    id: "austria-radstatter-tauern-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meregg",
+                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.607794,
+                        47.283293
+                  ]
+            },
+            {
+                  "name": "Lungauer Kalkspitze",
+                  "text": "Ein prominenter Berggipfel in den Radstädter Tauern an der Grenze zum Lungau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.624824,
+                        47.272287
+                  ]
+            },
+            {
+                  "name": "Gamskarlspitze",
+                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584729,
+                        47.250845
+                  ]
+            },
+            {
+                  "name": "Gollitschspitze",
+                  "text": "Gipfel in der Gebirgsgruppe der Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.597127,
+                        47.223341
+                  ]
+            },
+            {
+                  "name": "Große Kesselspitze",
+                  "text": "Ein markanter Berggipfel in den Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.555425,
+                        47.231996
+                  ]
+            },
+            {
+                  "name": "Hundskogel",
+                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.58013,
+                        47.265782
+                  ]
+            },
+            {
+                  "name": "Plattenspitze",
+                  "text": "Ein Gipfel in den Schladminger Tauern, bekannt für seine weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579199,
+                        47.255916
+                  ]
+            },
+            {
+                  "name": "Rosskogel",
+                  "text": "Ein Berggipfel in den Radstädter Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584846,
+                        47.267143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meregg",
+                  "text": "Hegyi csúcs a Radstadti-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.607794,
+                        47.283293
+                  ]
+            },
+            {
+                  "name": "Lungauer Kalkspitze",
+                  "text": "Jelentős hegycsúcs a Radstadti-Tauern hegységben, a Lungau határán.",
+                  "category": "landmark",
+                  "coords": [
+                        13.624824,
+                        47.272287
+                  ]
+            },
+            {
+                  "name": "Gamskarlspitze",
+                  "text": "Hegycsúcs a Radstadti-Tauern területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584729,
+                        47.250845
+                  ]
+            },
+            {
+                  "name": "Gollitschspitze",
+                  "text": "Csúcs a Radstadti-Tauern hegységcsoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.597127,
+                        47.223341
+                  ]
+            },
+            {
+                  "name": "Große Kesselspitze",
+                  "text": "Jelentős hegycsúcs a Radstadti-Tauernben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.555425,
+                        47.231996
+                  ]
+            },
+            {
+                  "name": "Hundskogel",
+                  "text": "Hegycsúcs a Radstadti-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.58013,
+                        47.265782
+                  ]
+            },
+            {
+                  "name": "Plattenspitze",
+                  "text": "A Schladmingi-Tauern egyik csúcsa, amely széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579199,
+                        47.255916
+                  ]
+            },
+            {
+                  "name": "Rosskogel",
+                  "text": "Hegycsúcs a Radstadti-Tauern területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584846,
+                        47.267143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meregg",
+                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.607794,
+                        47.283293
+                  ]
+            },
+            {
+                  "name": "Lungauer Kalkspitze",
+                  "text": "Un vârf montan proeminent în Radstadt Tauern, la granița cu Lungau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.624824,
+                        47.272287
+                  ]
+            },
+            {
+                  "name": "Gamskarlspitze",
+                  "text": "Un vârf montan în regiunea Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584729,
+                        47.250845
+                  ]
+            },
+            {
+                  "name": "Gollitschspitze",
+                  "text": "Vârf în grupul montan Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.597127,
+                        47.223341
+                  ]
+            },
+            {
+                  "name": "Große Kesselspitze",
+                  "text": "Un vârf montan marcant în Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.555425,
+                        47.231996
+                  ]
+            },
+            {
+                  "name": "Hundskogel",
+                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.58013,
+                        47.265782
+                  ]
+            },
+            {
+                  "name": "Plattenspitze",
+                  "text": "Un vârf din Schladminger Tauern, cunoscut pentru panorama sa vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579199,
+                        47.255916
+                  ]
+            },
+            {
+                  "name": "Rosskogel",
+                  "text": "Un vârf montan în Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584846,
+                        47.267143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meregg",
+                  "text": "A mountain peak in the Radstadt Tauern range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.607794,
+                        47.283293
+                  ]
+            },
+            {
+                  "name": "Lungauer Kalkspitze",
+                  "text": "A prominent mountain peak in the Radstadt Tauern on the border with Lungau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.624824,
+                        47.272287
+                  ]
+            },
+            {
+                  "name": "Gamskarlspitze",
+                  "text": "A mountain peak in the Radstadt Tauern region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584729,
+                        47.250845
+                  ]
+            },
+            {
+                  "name": "Gollitschspitze",
+                  "text": "Peak in the Radstadt Tauern mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.597127,
+                        47.223341
+                  ]
+            },
+            {
+                  "name": "Große Kesselspitze",
+                  "text": "A striking mountain peak in the Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.555425,
+                        47.231996
+                  ]
+            },
+            {
+                  "name": "Hundskogel",
+                  "text": "A mountain peak in the Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.58013,
+                        47.265782
+                  ]
+            },
+            {
+                  "name": "Plattenspitze",
+                  "text": "A peak in the Schladminger Tauern, known for its wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.579199,
+                        47.255916
+                  ]
+            },
+            {
+                  "name": "Rosskogel",
+                  "text": "A mountain peak in the Radstadt Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.584846,
+                        47.267143
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Radstädter Tauern", hu: "Radstädti-Tauern", ro: "Tauernii Radstadt", en: "Radstadt Tauern" },
@@ -1398,7 +8823,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-radstatter-tauern-relief-v2.webp",
   },
   {
-    id: "austria-schladminger-tauern-relief-v2",
+    id: "austria-schladminger-tauern-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "Ein alpines Hochplateau mit über 30 Bergseen in den Schladminger Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "Ein markanter Berggipfel in den Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Ein Berggipfel in der Region der Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenberg",
+                  "text": "Ein Berggipfel in den Schladminger Tauern, bekannt für seine Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.788952,
+                        47.289288
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Ein Gipfel in den österreichischen Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Großes Gangl",
+                  "text": "Ein markanter Berg in der Gebirgsgruppe der Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78673,
+                        47.278156
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Ein Berggipfel in den Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Ein markanter Berggipfel in den Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "Alpesi fennsík több mint 30 tengerszemmel a Schladmingi-Tauernben.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "Egy jellegzetes hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Egy hegycsúcs a Schladmingi-Tauern vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenberg",
+                  "text": "Kilátásban gazdag hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.788952,
+                        47.289288
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Hegyi csúcs az osztrák Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Großes Gangl",
+                  "text": "Jellegzetes hegy a Schladmingi-Tauern hegységcsoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78673,
+                        47.278156
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Egy hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Egy jellegzetes hegycsúcs a Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "Un platou alpin înalt cu peste 30 de lacuri în munții Schladminger Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "Un vârf de munte proeminent în masivul Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Un vârf montan în regiunea Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenberg",
+                  "text": "Un vârf de munte în Schladminger Tauern, oferind panorame spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        13.788952,
+                        47.289288
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Un vârf de munte în masivul austriac Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Großes Gangl",
+                  "text": "Un munte proeminent în grupul montan Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78673,
+                        47.278156
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Un vârf de munte în Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Un vârf de munte proeminent în masivul Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "A high alpine plateau with over 30 mountain lakes in the Schladming Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "A prominent mountain peak in the Schladming Tauern range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "A mountain peak located in the Schladming Tauern region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenberg",
+                  "text": "A mountain peak in the Schladming Tauern, known for its scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.788952,
+                        47.289288
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "A mountain peak in the Austrian Schladming Tauern range.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Großes Gangl",
+                  "text": "A notable mountain in the Schladming Tauern mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78673,
+                        47.278156
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "A mountain peak in the Schladming Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "A prominent mountain peak in the Schladming Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Schladminger Tauern", hu: "Schladmingi-Tauern", ro: "Alpii Schladming Tauern", en: "Schladming Tauern" },
@@ -1443,7 +9165,196 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-schladminger-tauern-relief-v2.webp",
   },
   {
-    id: "austria-seckauer-tauern-relief-v2",
+    id: "austria-seckauer-tauern-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Feistererhorn",
+                  "text": "Ein Berggipfel in den Seckauer Tauern in Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        14.699595,
+                        47.384585
+                  ]
+            },
+            {
+                  "name": "Maieranger Kogel",
+                  "text": "Ein Gipfel in der Gebirgsgruppe der Seckauer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.713549,
+                        47.347528
+                  ]
+            },
+            {
+                  "name": "Seckauer Zinken",
+                  "text": "Ein markanter Aussichtsberg in den Seckauer Tauern in der Steiermark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.73616,
+                        47.339246
+                  ]
+            },
+            {
+                  "name": "Hochreichart",
+                  "text": "Ein hoher Gipfel in den Seckauer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.681962,
+                        47.363547
+                  ]
+            },
+            {
+                  "name": "Klementikapelle",
+                  "text": "Eine kleine Kapelle in der Bergregion der Seckauer Tauern.",
+                  "category": "religious",
+                  "coords": [
+                        14.660636,
+                        47.345568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Feistererhorn",
+                  "text": "Hegycsúcs az ausztriai Székaui-Tauernben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.699595,
+                        47.384585
+                  ]
+            },
+            {
+                  "name": "Maieranger Kogel",
+                  "text": "Egy csúcs a Székaui-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.713549,
+                        47.347528
+                  ]
+            },
+            {
+                  "name": "Seckauer Zinken",
+                  "text": "Jellegzetes kilátóhegy a stájerországi Székaui-Tauernben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.73616,
+                        47.339246
+                  ]
+            },
+            {
+                  "name": "Hochreichart",
+                  "text": "Magas hegycsúcs a Székaui-Tauernben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.681962,
+                        47.363547
+                  ]
+            },
+            {
+                  "name": "Klementikapelle",
+                  "text": "Kis kápolna a Székaui-Tauern hegyvidékén.",
+                  "category": "religious",
+                  "coords": [
+                        14.660636,
+                        47.345568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Feistererhorn",
+                  "text": "Un vârf montan în Seckauer Tauern, Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.699595,
+                        47.384585
+                  ]
+            },
+            {
+                  "name": "Maieranger Kogel",
+                  "text": "Un vârf în grupul montan Seckauer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.713549,
+                        47.347528
+                  ]
+            },
+            {
+                  "name": "Seckauer Zinken",
+                  "text": "Un munte cu o panoramă deosebită în Seckauer Tauern, Stiria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.73616,
+                        47.339246
+                  ]
+            },
+            {
+                  "name": "Hochreichart",
+                  "text": "Un vârf înalt în Seckauer Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.681962,
+                        47.363547
+                  ]
+            },
+            {
+                  "name": "Klementikapelle",
+                  "text": "O mică chapelă în regiunea montană Seckauer Tauern.",
+                  "category": "religious",
+                  "coords": [
+                        14.660636,
+                        47.345568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Feistererhorn",
+                  "text": "A mountain peak in the Seckau Tauern range in Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.699595,
+                        47.384585
+                  ]
+            },
+            {
+                  "name": "Maieranger Kogel",
+                  "text": "A peak located in the Seckau Tauern mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        14.713549,
+                        47.347528
+                  ]
+            },
+            {
+                  "name": "Seckauer Zinken",
+                  "text": "A prominent mountain with panoramic views in the Seckau Tauern of Styria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.73616,
+                        47.339246
+                  ]
+            },
+            {
+                  "name": "Hochreichart",
+                  "text": "A high peak in the Seckau Tauern range.",
+                  "category": "landmark",
+                  "coords": [
+                        14.681962,
+                        47.363547
+                  ]
+            },
+            {
+                  "name": "Klementikapelle",
+                  "text": "A small chapel situated in the Seckau Tauern mountain region.",
+                  "category": "religious",
+                  "coords": [
+                        14.660636,
+                        47.345568
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Seckauer Tauern", hu: "Seckaui-Tauern", ro: "Alpii Seckau Tauern", en: "Seckau Tauern" },
@@ -1488,7 +9399,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-seckauer-tauern-relief-v2.webp",
   },
   {
-    id: "austria-rotsel-spitze-relief-v2",
+    id: "austria-rotsel-spitze-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plamort - Pian dei Morti",
+                  "text": "Eine historische Stätte auf dem Alpenplateau mit Verteidigungsanlagen aus der Zeit des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        10.526003,
+                        46.84436
+                  ]
+            },
+            {
+                  "name": "Biotop Plamorter Moos",
+                  "text": "Ein geschütztes Feuchtgebiet und Naturschutzgebiet auf dem Plamort-Hochplateau.",
+                  "category": "natural",
+                  "coords": [
+                        10.527485,
+                        46.844767
+                  ]
+            },
+            {
+                  "name": "Klopaier Spitze",
+                  "text": "Ein markanter Berggipfel in den Ötztaler Alpen mit einer Höhe von 2.918 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        10.546174,
+                        46.837267
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "Ein Berggipfel an der Grenze zwischen Italien, Österreich und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.468893,
+                        46.847784
+                  ]
+            },
+            {
+                  "name": "Großmutzkopf",
+                  "text": "Ein Berggipfel in der Grenzregion der Alpen nahe der Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492513,
+                        46.863305
+                  ]
+            },
+            {
+                  "name": "Kleinmutzkopf",
+                  "text": "Ein Gipfel in der Alpenlandschaft mit Blick auf das umliegende Dreiländereck.",
+                  "category": "landmark",
+                  "coords": [
+                        10.490535,
+                        46.882546
+                  ]
+            },
+            {
+                  "name": "Jochbodenkopf",
+                  "text": "Ein Berggipfel in der Gebirgsregion nahe der Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.45719,
+                        46.83028
+                  ]
+            },
+            {
+                  "name": "Mitterkopf",
+                  "text": "Ein Berggipfel im alpinen Gelände des Rötelspitze-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        10.552188,
+                        46.850106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plamort - Pian dei Morti",
+                  "text": "Történelmi helyszín az alpesi fennsíkon, a második világháborúból származó erődítményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        10.526003,
+                        46.84436
+                  ]
+            },
+            {
+                  "name": "Biotop Plamorter Moos - Biotopo Torbiera di Plamort",
+                  "text": "Védett lápos terület és természetvédelmi terület a Plamort-fennsíkon.",
+                  "category": "natural",
+                  "coords": [
+                        10.527485,
+                        46.844767
+                  ]
+            },
+            {
+                  "name": "Klopaier Spitze",
+                  "text": "Az Ötztali-Alpok egyik hegycsúcsa, amely 2918 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        10.546174,
+                        46.837267
+                  ]
+            },
+            {
+                  "name": "Piz Lat",
+                  "text": "Hegycsúcs az olasz, osztrák és svájci határ találkozásánál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.468893,
+                        46.847784
+                  ]
+            },
+            {
+                  "name": "Großmutzkopf",
+                  "text": "Hegycsúcs az Alpok határvidékén, a Rötelspitze közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492513,
+                        46.863305
+                  ]
+            },
+            {
+                  "name": "Kleinmutzkopf",
+                  "text": "Hegyi csúcs az alpesi tájon, kilátással a környező hármashatárra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.490535,
+                        46.882546
+                  ]
+            },
+            {
+                  "name": "Piz Rusenna",
+                  "text": "Hegycsúcs a Rötelspitze közelében fekvő hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        10.45719,
+                        46.83028
+                  ]
+            },
+            {
+                  "name": "Mitterkopf",
+                  "text": "Hegycsúcs a Rötelspitze környéki alpesi terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.552188,
+                        46.850106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plamort - Pian dei Morti",
+                  "text": "Un sit istoric pe platoul alpin, cu fortificații defensive din perioada celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        10.526003,
+                        46.84436
+                  ]
+            },
+            {
+                  "name": "Biotop Plamorter Moos - Biotopo Torbiera di Plamort",
+                  "text": "O zonă umedă protejată și rezervație naturală situată pe platoul Plamort.",
+                  "category": "natural",
+                  "coords": [
+                        10.527485,
+                        46.844767
+                  ]
+            },
+            {
+                  "name": "Klopaier Spitze",
+                  "text": "Un vârf muntos proeminent în Alpii Ötztal, cu o înălțime de 2.918 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        10.546174,
+                        46.837267
+                  ]
+            },
+            {
+                  "name": "Piz Lat",
+                  "text": "Un vârf muntos situat la granița dintre Italia, Austria și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        10.468893,
+                        46.847784
+                  ]
+            },
+            {
+                  "name": "Großmutzkopf",
+                  "text": "Un vârf muntos în regiunea de frontieră a Alpilor, lângă Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492513,
+                        46.863305
+                  ]
+            },
+            {
+                  "name": "Kleinmutzkopf",
+                  "text": "Un vârf în peisajul alpin ce oferă vedere asupra zonei de frontieră triple.",
+                  "category": "landmark",
+                  "coords": [
+                        10.490535,
+                        46.882546
+                  ]
+            },
+            {
+                  "name": "Piz Rusenna",
+                  "text": "Un vârf muntos situat în regiunea montană de lângă Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.45719,
+                        46.83028
+                  ]
+            },
+            {
+                  "name": "Mitterkopf",
+                  "text": "Un vârf muntos situat în terenul alpin din zona Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.552188,
+                        46.850106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plamort - Pian dei Morti",
+                  "text": "A historic site on the Alpine plateau featuring defensive fortifications from the World War II era.",
+                  "category": "historical",
+                  "coords": [
+                        10.526003,
+                        46.84436
+                  ]
+            },
+            {
+                  "name": "Biotop Plamorter Moos - Biotopo Torbiera di Plamort",
+                  "text": "A protected wetland area and nature reserve located on the Plamort plateau.",
+                  "category": "natural",
+                  "coords": [
+                        10.527485,
+                        46.844767
+                  ]
+            },
+            {
+                  "name": "Klopaier Spitze",
+                  "text": "A prominent mountain peak in the Ötztal Alps reaching an elevation of 2,918 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        10.546174,
+                        46.837267
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "A mountain peak located on the border between Italy, Austria, and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.468893,
+                        46.847784
+                  ]
+            },
+            {
+                  "name": "Großmutzkopf",
+                  "text": "A mountain peak in the border region of the Alps near Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.492513,
+                        46.863305
+                  ]
+            },
+            {
+                  "name": "Kleinmutzkopf",
+                  "text": "A peak in the Alpine landscape offering views of the surrounding border triangle.",
+                  "category": "landmark",
+                  "coords": [
+                        10.490535,
+                        46.882546
+                  ]
+            },
+            {
+                  "name": "Piz Rusenna",
+                  "text": "A mountain peak situated in the mountainous region near Rötelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.45719,
+                        46.83028
+                  ]
+            },
+            {
+                  "name": "Mitterkopf",
+                  "text": "A mountain peak located within the Alpine terrain of the Rötelspitze area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.552188,
+                        46.850106
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "AT",
     name: { de: "Rötelspitze", hu: "Rötelspitze", ro: "Rötelspitze", en: "Rötelspitze" },
@@ -1533,7 +9741,88 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-rotsel-spitze-relief-v2.webp",
   },
   {
-    id: "austria-hohe-veitsch-relief-v2",
+    id: "austria-hohe-veitsch-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sommerberg",
+                  "text": "Ein Berggipfel in der Hohen Veitsch, der Wanderern weite Panoramablicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.514625,
+                        47.580218
+                  ]
+            },
+            {
+                  "name": "Kirche Veitsch",
+                  "text": "Eine Pfarrkirche in der Region Veitsch, die als spirituelles und gemeinschaftliches Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        15.493595,
+                        47.580244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sommerberg",
+                  "text": "Hegyi csúcs a Hohe Veitsch területén, amely panorámás kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        15.514625,
+                        47.580218
+                  ]
+            },
+            {
+                  "name": "Kirche Veitsch",
+                  "text": "Plébániatemplom a veitschi régióban, amely hitéleti és közösségi központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        15.493595,
+                        47.580244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sommerberg",
+                  "text": "Un vârf montan din zona Hohe Veitsch, oferind vederi panoramice pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        15.514625,
+                        47.580218
+                  ]
+            },
+            {
+                  "name": "Kirche Veitsch",
+                  "text": "O biserică parohială din regiunea Veitsch, servind ca centru spiritual și comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        15.493595,
+                        47.580244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sommerberg",
+                  "text": "A mountain peak in the Hohe Veitsch area, offering panoramic views for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.514625,
+                        47.580218
+                  ]
+            },
+            {
+                  "name": "Kirche Veitsch",
+                  "text": "A parish church in the Veitsch region, serving as a spiritual and community center.",
+                  "category": "religious",
+                  "coords": [
+                        15.493595,
+                        47.580244
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Hohe Veitsch", hu: "Hohe Veitsch", ro: "Hohe Veitsch", en: "Hohe Veitsch" },
@@ -1578,7 +9867,232 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-hohe-veitsch-relief-v2.webp",
   },
   {
-    id: "austria-herrenstein-relief-v2",
+    id: "austria-herrenstein-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rauhenstein",
+                  "text": "Ein Berggipfel im Herrenstein-Gebiet in Niederösterreich.",
+                  "category": "landmark",
+                  "coords": [
+                        15.592471,
+                        47.686827
+                  ]
+            },
+            {
+                  "name": "Amaißbichl",
+                  "text": "Ein Gipfel in den niederösterreichischen Kalkalpen nahe dem Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.635949,
+                        47.715476
+                  ]
+            },
+            {
+                  "name": "Schönhaltereck",
+                  "text": "Ein bewaldeter Berggipfel in der Region Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.568727,
+                        47.703922
+                  ]
+            },
+            {
+                  "name": "Donnerwand",
+                  "text": "Ein markanter Berggipfel im niederösterreichischen Teil der Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.570777,
+                        47.722734
+                  ]
+            },
+            {
+                  "name": "Grünkogel",
+                  "text": "Ein kleinerer Gipfel in der Umgebung des Herrensteins.",
+                  "category": "landmark",
+                  "coords": [
+                        15.596706,
+                        47.691961
+                  ]
+            },
+            {
+                  "name": "Rabenstein",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über die umliegende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.586579,
+                        47.665778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rauhenstein",
+                  "text": "Hegycsúcs az alsó-ausztriai Herrenstein-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        15.592471,
+                        47.686827
+                  ]
+            },
+            {
+                  "name": "Amaißbichl",
+                  "text": "Csúcs az alsó-ausztriai Mészkő-Alpokban, a Herrenstein közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.635949,
+                        47.715476
+                  ]
+            },
+            {
+                  "name": "Schönhaltereck",
+                  "text": "Erdős hegycsúcs a Herrenstein régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.568727,
+                        47.703922
+                  ]
+            },
+            {
+                  "name": "Donnerwand",
+                  "text": "Jellegzetes hegycsúcs az Alpok alsó-ausztriai részén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.570777,
+                        47.722734
+                  ]
+            },
+            {
+                  "name": "Grünkogel",
+                  "text": "Kisebb hegycsúcs a Herrenstein környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.596706,
+                        47.691961
+                  ]
+            },
+            {
+                  "name": "Rabenstein",
+                  "text": "Kilátópont, amely széles rálátást nyújt a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.586579,
+                        47.665778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rauhenstein",
+                  "text": "Un vârf montan în zona Herrenstein din Austria Inferioară.",
+                  "category": "landmark",
+                  "coords": [
+                        15.592471,
+                        47.686827
+                  ]
+            },
+            {
+                  "name": "Amaißbichl",
+                  "text": "Un vârf în Alpii Calcaroși din Austria Inferioară, lângă Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.635949,
+                        47.715476
+                  ]
+            },
+            {
+                  "name": "Schönhaltereck",
+                  "text": "Un vârf montan împădurit în regiunea Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.568727,
+                        47.703922
+                  ]
+            },
+            {
+                  "name": "Donnerwand",
+                  "text": "Un vârf montan proeminent în partea din Austria Inferioară a Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.570777,
+                        47.722734
+                  ]
+            },
+            {
+                  "name": "Grünkogel",
+                  "text": "Un vârf mai mic în împrejurimile masivului Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.596706,
+                        47.691961
+                  ]
+            },
+            {
+                  "name": "Rabenstein",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.586579,
+                        47.665778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rauhenstein",
+                  "text": "A mountain peak in the Herrenstein area of Lower Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        15.592471,
+                        47.686827
+                  ]
+            },
+            {
+                  "name": "Amaißbichl",
+                  "text": "A peak in the Lower Austrian Limestone Alps near Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.635949,
+                        47.715476
+                  ]
+            },
+            {
+                  "name": "Schönhaltereck",
+                  "text": "A forested mountain peak in the Herrenstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.568727,
+                        47.703922
+                  ]
+            },
+            {
+                  "name": "Donnerwand",
+                  "text": "A prominent mountain peak in the Lower Austrian part of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        15.570777,
+                        47.722734
+                  ]
+            },
+            {
+                  "name": "Grünkogel",
+                  "text": "A smaller mountain peak in the vicinity of Herrenstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.596706,
+                        47.691961
+                  ]
+            },
+            {
+                  "name": "Rabenstein",
+                  "text": "A viewpoint offering wide vistas over the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.586579,
+                        47.665778
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Herrenstein", hu: "Herrenstein", ro: "Herrenstein", en: "Herrenstein" },
@@ -1668,7 +10182,304 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-karmel-spitze-relief-v2.webp",
   },
   {
-    id: "austria-grosse-wildstelle-relief-v2",
+    id: "austria-grosse-wildstelle-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "Ein alpines Naturschutzgebiet mit einer einzigartigen Seenlandschaft in den Schladminger Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "Ein markanter Berggipfel in den Schladminger Tauern mit weitem Rundblick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Ein alpiner Gipfel, der für Bergwanderungen in der Region Große Wildstelle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Ein felsiger Gipfel in den österreichischen Alpen mit anspruchsvollen Aufstiegen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Ein malerischer Berggipfel in der Nähe der Großen Wildstelle in den österreichischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Ein Berggipfel in der Region Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            },
+            {
+                  "name": "Kaiserspitze",
+                  "text": "Ein markanter Berggipfel im Gebiet der Großen Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.827152,
+                        47.282948
+                  ]
+            },
+            {
+                  "name": "Kleiner Gnasen",
+                  "text": "Ein Gipfel in der Alpenlandschaft rund um die Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85663,
+                        47.30173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "Alpesi természetvédelmi terület egyedülálló tóvidékkel a Schladminger Tauernben.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "A Schladminger Tauern egyik jellegzetes csúcsa, tágas körpanorámával.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Alpesi csúcs, amely hegyi túráiról ismert a Große Wildstelle régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Sziklás hegycsúcs az osztrák Alpokban, kihívást jelentő útvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Egy festői hegycsúcs a Große Wildstelle közelében az Osztrák-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Egy hegycsúcs a Große Wildstelle régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            },
+            {
+                  "name": "Kaiserspitze",
+                  "text": "Egy kiemelkedő hegycsúcs a Große Wildstelle területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.827152,
+                        47.282948
+                  ]
+            },
+            {
+                  "name": "Kleiner Gnasen",
+                  "text": "Egy csúcs a Große Wildstelle körüli alpesi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85663,
+                        47.30173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "O rezervație naturală alpină cu un peisaj unic de lacuri în Schladminger Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "Un vârf montan proeminent în Schladminger Tauern, cu o vedere panoramică vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "Un vârf alpin cunoscut pentru drumețiile montane din regiunea Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "Un vârf stâncos din Alpii Austrieci, cu trasee de ascensiune solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "Un vârf montan pitoresc situat lângă Große Wildstelle în Alpii Austrieci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "Un vârf montan situat în regiunea Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            },
+            {
+                  "name": "Kaiserspitze",
+                  "text": "Un vârf montan proeminent în zona Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.827152,
+                        47.282948
+                  ]
+            },
+            {
+                  "name": "Kleiner Gnasen",
+                  "text": "Un vârf în peisajul alpin din jurul Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85663,
+                        47.30173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturschutzgebiet Klafferkessel",
+                  "text": "An alpine nature reserve featuring a unique lake landscape in the Schladminger Tauern.",
+                  "category": "natural",
+                  "coords": [
+                        13.815482,
+                        47.306884
+                  ]
+            },
+            {
+                  "name": "Waldhorn",
+                  "text": "A prominent mountain peak in the Schladminger Tauern with wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817173,
+                        47.296192
+                  ]
+            },
+            {
+                  "name": "Kieseck",
+                  "text": "An alpine peak known for mountain hiking in the Große Wildstelle region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.825343,
+                        47.293203
+                  ]
+            },
+            {
+                  "name": "Greifenstein",
+                  "text": "A rocky peak in the Austrian Alps featuring challenging ascents.",
+                  "category": "landmark",
+                  "coords": [
+                        13.800403,
+                        47.29951
+                  ]
+            },
+            {
+                  "name": "Himmelreich",
+                  "text": "A scenic mountain peak located near Große Wildstelle in the Austrian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.824458,
+                        47.325906
+                  ]
+            },
+            {
+                  "name": "Hohes Schareck",
+                  "text": "A mountain peak situated in the Große Wildstelle region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.838306,
+                        47.323273
+                  ]
+            },
+            {
+                  "name": "Kaiserspitze",
+                  "text": "A prominent mountain peak in the Große Wildstelle area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.827152,
+                        47.282948
+                  ]
+            },
+            {
+                  "name": "Kleiner Gnasen",
+                  "text": "A peak in the Alpine landscape surrounding Große Wildstelle.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85663,
+                        47.30173
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Große Wildstelle", hu: "Große Wildstelle", ro: "Große Wildstelle", en: "Große Wildstelle" },
@@ -1713,7 +10524,232 @@ export const austriaReliefV2: POI[] = [
     image: "/poi-images/austria-grosse-wildstelle-relief-v2.webp",
   },
   {
-    id: "austria-hoher-trieber-relief-v2",
+    id: "austria-hoher-trieber-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Feistritz",
+                  "text": "Ein historisches Schloss in der Steiermark, das heute für Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        14.162844,
+                        47.189544
+                  ]
+            },
+            {
+                  "name": "Öhler Paterschlössl",
+                  "text": "Eine historische Burg in Hoher Trieb.",
+                  "category": "castle",
+                  "coords": [
+                        14.249015,
+                        47.20326
+                  ]
+            },
+            {
+                  "name": "Schwimmbad St. Peter am Kammersberg",
+                  "text": "Ein Wasserpark in Hoher Trieb.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187533,
+                        47.19007
+                  ]
+            },
+            {
+                  "name": "Ofen",
+                  "text": "Ein Gipfel in Hoher Trieb.",
+                  "category": "landmark",
+                  "coords": [
+                        14.221308,
+                        47.214401
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Altötting",
+                  "text": "Eine bedeutende Wallfahrtskirche in der Nähe von Sankt Peter am Kammersberg.",
+                  "category": "religious",
+                  "coords": [
+                        14.243387,
+                        47.201552
+                  ]
+            },
+            {
+                  "name": "St.Peter",
+                  "text": "Ein Ort der Verehrung in Hoher Trieb.",
+                  "category": "religious",
+                  "coords": [
+                        14.186243,
+                        47.187208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Feistritz",
+                  "text": "Stájerországi történelmi kastély, amely ma rendezvényeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        14.162844,
+                        47.189544
+                  ]
+            },
+            {
+                  "name": "Öhler Paterschlössl",
+                  "text": "Történelmi vár Hoher Trieb területén.",
+                  "category": "castle",
+                  "coords": [
+                        14.249015,
+                        47.20326
+                  ]
+            },
+            {
+                  "name": "Schwimmbad St. Peter am Kammersberg",
+                  "text": "Vízipark Hoher Trieb területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187533,
+                        47.19007
+                  ]
+            },
+            {
+                  "name": "Ofen",
+                  "text": "Egy hegycsúcs Hoher Trieb területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.221308,
+                        47.214401
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Altötting",
+                  "text": "Jelentős zarándoktemplom Sankt Peter am Kammersberg közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.243387,
+                        47.201552
+                  ]
+            },
+            {
+                  "name": "St.Peter",
+                  "text": "Templom Hoher Trieb területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.186243,
+                        47.187208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Feistritz",
+                  "text": "Un castel istoric din Stiria, utilizat astăzi pentru diverse evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        14.162844,
+                        47.189544
+                  ]
+            },
+            {
+                  "name": "Öhler Paterschlössl",
+                  "text": "Un castel istoric în Hoher Trieb.",
+                  "category": "castle",
+                  "coords": [
+                        14.249015,
+                        47.20326
+                  ]
+            },
+            {
+                  "name": "Schwimmbad St. Peter am Kammersberg",
+                  "text": "Un parc acvatic în Hoher Trieb.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187533,
+                        47.19007
+                  ]
+            },
+            {
+                  "name": "Ofen",
+                  "text": "Un vârf montan în Hoher Trieb.",
+                  "category": "landmark",
+                  "coords": [
+                        14.221308,
+                        47.214401
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Altötting",
+                  "text": "O importantă biserică de pelerinaj situată lângă Sankt Peter am Kammersberg.",
+                  "category": "religious",
+                  "coords": [
+                        14.243387,
+                        47.201552
+                  ]
+            },
+            {
+                  "name": "St.Peter",
+                  "text": "Un lăcaș de cult în Hoher Trieb.",
+                  "category": "religious",
+                  "coords": [
+                        14.186243,
+                        47.187208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Feistritz",
+                  "text": "A historical castle in Styria, currently used for various events.",
+                  "category": "castle",
+                  "coords": [
+                        14.162844,
+                        47.189544
+                  ]
+            },
+            {
+                  "name": "Öhler Paterschlössl",
+                  "text": "A historical castle in Hoher Trieb.",
+                  "category": "castle",
+                  "coords": [
+                        14.249015,
+                        47.20326
+                  ]
+            },
+            {
+                  "name": "Schwimmbad St. Peter am Kammersberg",
+                  "text": "A water park in Hoher Trieb.",
+                  "category": "recreational",
+                  "coords": [
+                        14.187533,
+                        47.19007
+                  ]
+            },
+            {
+                  "name": "Ofen",
+                  "text": "A mountain peak in Hoher Trieb.",
+                  "category": "landmark",
+                  "coords": [
+                        14.221308,
+                        47.214401
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Altötting",
+                  "text": "A significant pilgrimage church located near Sankt Peter am Kammersberg.",
+                  "category": "religious",
+                  "coords": [
+                        14.243387,
+                        47.201552
+                  ]
+            },
+            {
+                  "name": "St.Peter",
+                  "text": "A place of worship in Hoher Trieb.",
+                  "category": "religious",
+                  "coords": [
+                        14.186243,
+                        47.187208
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     name: { de: "Hoher Trieb", hu: "Hoher Trieb", ro: "Hoher Trieb", en: "Hoher Trieb" },

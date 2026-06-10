@@ -190,7 +190,304 @@ export const lithuaniaEconomicV2: POI[] = [
     }
   },
   {
-    id: "lithuania-kruonis-pumped-storage-economic-v2",
+    id: "lithuania-kruonis-pumped-storage-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maisiejūnų II piliakalnis",
+                  "text": "Ein historischer litauischer Burghügel in der Nähe von Kruonis.",
+                  "category": "historical",
+                  "coords": [
+                        24.265806,
+                        54.8
+                  ]
+            },
+            {
+                  "name": "Lašinių piliakalnis",
+                  "text": "Eine archäologische Stätte eines alten litauischen Burghügels.",
+                  "category": "historical",
+                  "coords": [
+                        24.257056,
+                        54.806583
+                  ]
+            },
+            {
+                  "name": "Burčiakų piliakalnis",
+                  "text": "Ein befestigter Hügel aus der Eisenzeit in Litauen.",
+                  "category": "historical",
+                  "coords": [
+                        24.274861,
+                        54.76925
+                  ]
+            },
+            {
+                  "name": "Dovainonių piliakalnis",
+                  "text": "Ein bedeutender archäologischer Fundplatz am Ufer der Memel.",
+                  "category": "historical",
+                  "coords": [
+                        24.228361,
+                        54.832333
+                  ]
+            },
+            {
+                  "name": "Maisiejūnų I piliakalnis",
+                  "text": "Ein antiker Burghügel, der die umliegende Landschaft von Kruonis überragt.",
+                  "category": "historical",
+                  "coords": [
+                        24.268333,
+                        54.800442
+                  ]
+            },
+            {
+                  "name": "Mergakalnio regykla",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über das Kaunasser Meer.",
+                  "category": "natural",
+                  "coords": [
+                        24.244236,
+                        54.824517
+                  ]
+            },
+            {
+                  "name": "Strėvos atodanga",
+                  "text": "Ein geologischer Aufschluss am Fluss Strėva.",
+                  "category": "landmark",
+                  "coords": [
+                        24.25744,
+                        54.80808
+                  ]
+            },
+            {
+                  "name": "Lašinių konglomeratų atodanga",
+                  "text": "Ein Aussichtspunkt bei einem beeindruckenden Konglomerat-Aufschluss.",
+                  "category": "natural",
+                  "coords": [
+                        24.257999,
+                        54.810348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maisiejūnų II piliakalnis",
+                  "text": "Történelmi litván várhely Kruonis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.265806,
+                        54.8
+                  ]
+            },
+            {
+                  "name": "Lašinių piliakalnis",
+                  "text": "Egy ősi litván várhely régészeti területe.",
+                  "category": "historical",
+                  "coords": [
+                        24.257056,
+                        54.806583
+                  ]
+            },
+            {
+                  "name": "Burčiakų piliakalnis",
+                  "text": "Vaskori erődített domb Litvániában.",
+                  "category": "historical",
+                  "coords": [
+                        24.274861,
+                        54.76925
+                  ]
+            },
+            {
+                  "name": "Dovainonių piliakalnis",
+                  "text": "Jelentős régészeti lelőhely a Nyeman folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        24.228361,
+                        54.832333
+                  ]
+            },
+            {
+                  "name": "Maisiejūnų I piliakalnis",
+                  "text": "Ősi várhely, amely a Kruonis környéki táj fölé magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        24.268333,
+                        54.800442
+                  ]
+            },
+            {
+                  "name": "Mergakalnio regykla",
+                  "text": "Kilátópont panorámás kilátással a Kaunasi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        24.244236,
+                        54.824517
+                  ]
+            },
+            {
+                  "name": "Strėvos atodanga",
+                  "text": "Geológiai feltárás a Strėva-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.25744,
+                        54.80808
+                  ]
+            },
+            {
+                  "name": "Lašinių konglomeratų atodanga",
+                  "text": "Kilátóhely egy lenyűgöző konglomerátum-feltárásnál.",
+                  "category": "natural",
+                  "coords": [
+                        24.257999,
+                        54.810348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maisiejūnų II piliakalnis",
+                  "text": "Un sit arheologic istoric lângă Kruonis, Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        24.265806,
+                        54.8
+                  ]
+            },
+            {
+                  "name": "Lašinių piliakalnis",
+                  "text": "Situl arheologic al unei vechi așezări fortificate lituaniene.",
+                  "category": "historical",
+                  "coords": [
+                        24.257056,
+                        54.806583
+                  ]
+            },
+            {
+                  "name": "Burčiakų piliakalnis",
+                  "text": "O colină fortificată din epoca fierului în Lituania.",
+                  "category": "historical",
+                  "coords": [
+                        24.274861,
+                        54.76925
+                  ]
+            },
+            {
+                  "name": "Dovainonių piliakalnis",
+                  "text": "Un sit arheologic important pe malul râului Nemunas.",
+                  "category": "historical",
+                  "coords": [
+                        24.228361,
+                        54.832333
+                  ]
+            },
+            {
+                  "name": "Maisiejūnų I piliakalnis",
+                  "text": "O veche așezare fortificată ce domină peisajul din jurul localității Kruonis.",
+                  "category": "historical",
+                  "coords": [
+                        24.268333,
+                        54.800442
+                  ]
+            },
+            {
+                  "name": "Mergakalnio regykla",
+                  "text": "Un punct de observație cu vedere panoramică asupra lacului de acumulare Kaunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.244236,
+                        54.824517
+                  ]
+            },
+            {
+                  "name": "Strėvos atodanga",
+                  "text": "Un afloriment geologic pe malul râului Strėva.",
+                  "category": "landmark",
+                  "coords": [
+                        24.25744,
+                        54.80808
+                  ]
+            },
+            {
+                  "name": "Lašinių konglomeratų atodanga",
+                  "text": "Punct panoramic lângă un afloriment impresionant de conglomerate.",
+                  "category": "natural",
+                  "coords": [
+                        24.257999,
+                        54.810348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maisiejūnų II piliakalnis",
+                  "text": "A historical Lithuanian hillfort site near Kruonis.",
+                  "category": "historical",
+                  "coords": [
+                        24.265806,
+                        54.8
+                  ]
+            },
+            {
+                  "name": "Lašinių piliakalnis",
+                  "text": "The archaeological site of an ancient Lithuanian hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        24.257056,
+                        54.806583
+                  ]
+            },
+            {
+                  "name": "Burčiakų piliakalnis",
+                  "text": "An Iron Age fortified hill in Lithuania.",
+                  "category": "historical",
+                  "coords": [
+                        24.274861,
+                        54.76925
+                  ]
+            },
+            {
+                  "name": "Dovainonių piliakalnis",
+                  "text": "An important archaeological site on the banks of the Nemunas river.",
+                  "category": "historical",
+                  "coords": [
+                        24.228361,
+                        54.832333
+                  ]
+            },
+            {
+                  "name": "Maisiejūnų I piliakalnis",
+                  "text": "An ancient hillfort overlooking the landscape around Kruonis.",
+                  "category": "historical",
+                  "coords": [
+                        24.268333,
+                        54.800442
+                  ]
+            },
+            {
+                  "name": "Mergakalnio regykla",
+                  "text": "A viewpoint offering panoramic vistas over the Kaunas Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        24.244236,
+                        54.824517
+                  ]
+            },
+            {
+                  "name": "Strėvos atodanga",
+                  "text": "A geological outcrop along the Strėva River.",
+                  "category": "landmark",
+                  "coords": [
+                        24.25744,
+                        54.80808
+                  ]
+            },
+            {
+                  "name": "Lašinių konglomeratų atodanga",
+                  "text": "A viewpoint near an impressive conglomerate rock outcrop.",
+                  "category": "natural",
+                  "coords": [
+                        24.257999,
+                        54.810348
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "industry",
     name: { de: "Pumpspeicherkraftwerk Kruonis", hu: "Kruonisi szivattyús-tározós erőmű", ro: "Centrala prin pompare Kruonis", en: "Kruonis Pumped Storage Plant"},
@@ -284,7 +581,268 @@ export const lithuaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lithuania-kaunas-fez-economic-v2",
+    id: "lithuania-kaunas-fez-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karmėlavos piliakalnis",
+                  "text": "Eine historische Wallburg bei Karmėlava, die als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.066806,
+                        54.974028
+                  ]
+            },
+            {
+                  "name": "Lepšiškių piliakalnis",
+                  "text": "Ein alter Burgberg in der Nähe der freien Wirtschaftszone Kaunas mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        24.044389,
+                        54.987528
+                  ]
+            },
+            {
+                  "name": "Lapių dvarvietė",
+                  "text": "Die Überreste eines historischen Gutshofs in Lapių, der von der lokalen Geschichte zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        24.006034,
+                        54.973325
+                  ]
+            },
+            {
+                  "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
+                  "text": "Ein erhaltenes Tor der St.-Anna-Kirche in Karmėlava, ein lokales Baudenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.061269,
+                        54.972437
+                  ]
+            },
+            {
+                  "name": "Pilėnų miško rekreacinis takas",
+                  "text": "Ein Erholungspfad durch den Pilėnai-Wald, ideal für Spaziergänge in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052573,
+                        54.974832
+                  ]
+            },
+            {
+                  "name": "Lapių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Die katholische Johannes-der-Täufer-Kirche in Lapių, ein bedeutender lokaler Sakralbau.",
+                  "category": "religious",
+                  "coords": [
+                        24.009053,
+                        54.973735
+                  ]
+            },
+            {
+                  "name": "Karmėlavos šv. Onos bažnyčia",
+                  "text": "Die katholische St.-Anna-Kirche in Karmėlava, ein wichtiger spiritueller Ort der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        24.060331,
+                        54.973134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karmėlavos piliakalnis",
+                  "text": "Történelmi földvár Karmėlava közelében, amely régészeti műemlékvédelem alatt áll.",
+                  "category": "historical",
+                  "coords": [
+                        24.066806,
+                        54.974028
+                  ]
+            },
+            {
+                  "name": "Lepšiškių piliakalnis",
+                  "text": "Régi földvár a Kaunasi Szabad Gazdasági Övezet közelében, régészeti jelentőséggel.",
+                  "category": "historical",
+                  "coords": [
+                        24.044389,
+                        54.987528
+                  ]
+            },
+            {
+                  "name": "Lapių dvarvietė",
+                  "text": "Egy történelmi udvarház maradványai Lapiųban, amely a helyi nemesi múltról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        24.006034,
+                        54.973325
+                  ]
+            },
+            {
+                  "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
+                  "text": "A karmėlavai Szent Anna-templom fennmaradt kapuja, helyi építészeti emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        24.061269,
+                        54.972437
+                  ]
+            },
+            {
+                  "name": "Pilėnų miško rekreacinis takas",
+                  "text": "Rekreációs útvonal a Pilėnai-erdőben, amely ideális természeti sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052573,
+                        54.974832
+                  ]
+            },
+            {
+                  "name": "Lapių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A lapiųi Keresztelő Szent János-templom, a környék jelentős szakrális építménye.",
+                  "category": "religious",
+                  "coords": [
+                        24.009053,
+                        54.973735
+                  ]
+            },
+            {
+                  "name": "Karmėlavos šv. Onos bažnyčia",
+                  "text": "A karmėlavai Szent Anna-templom, a helyi közösség fontos hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        24.060331,
+                        54.973134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karmėlavos piliakalnis",
+                  "text": "O fostă fortificație istorică lângă Karmėlava, protejată ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        24.066806,
+                        54.974028
+                  ]
+            },
+            {
+                  "name": "Lepšiškių piliakalnis",
+                  "text": "Un vechi sit arheologic de tip cetate de pământ în apropierea Zonei Economice Libere Kaunas.",
+                  "category": "historical",
+                  "coords": [
+                        24.044389,
+                        54.987528
+                  ]
+            },
+            {
+                  "name": "Lapių dvarvietė",
+                  "text": "Rămășițele unui conac istoric în Lapių, care atestă trecutul nobiliar local.",
+                  "category": "historical",
+                  "coords": [
+                        24.006034,
+                        54.973325
+                  ]
+            },
+            {
+                  "name": "Karmėlavos Šv. Onos bažnyčios šventoriaus vartai",
+                  "text": "O poartă conservată a bisericii Sfânta Ana din Karmėlava, un monument local.",
+                  "category": "landmark",
+                  "coords": [
+                        24.061269,
+                        54.972437
+                  ]
+            },
+            {
+                  "name": "Pilėnų miško rekreacinis takas",
+                  "text": "Un traseu recreativ prin pădurea Pilėnai, ideal pentru plimbări în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052573,
+                        54.974832
+                  ]
+            },
+            {
+                  "name": "Lapių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Biserica Sfântul Ioan Botezătorul din Lapių, un important lăcaș de cult local.",
+                  "category": "religious",
+                  "coords": [
+                        24.009053,
+                        54.973735
+                  ]
+            },
+            {
+                  "name": "Karmėlavos šv. Onos bažnyčia",
+                  "text": "Biserica Sfânta Ana din Karmėlava, un centru spiritual important al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        24.060331,
+                        54.973134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karmėlavos piliakalnis",
+                  "text": "A historic hillfort near Karmėlava, protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        24.066806,
+                        54.974028
+                  ]
+            },
+            {
+                  "name": "Lepšiškių piliakalnis",
+                  "text": "An ancient hillfort site near the Kaunas Free Economic Zone with archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        24.044389,
+                        54.987528
+                  ]
+            },
+            {
+                  "name": "Lapių dvarvietė",
+                  "text": "The remains of a historic manor house in Lapių, reflecting the local noble history.",
+                  "category": "historical",
+                  "coords": [
+                        24.006034,
+                        54.973325
+                  ]
+            },
+            {
+                  "name": "Gate of St. Anne's Church in Karmėlava",
+                  "text": "A preserved gate of St. Anne's Church in Karmėlava, a local architectural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        24.061269,
+                        54.972437
+                  ]
+            },
+            {
+                  "name": "Pilėnų miško rekreacinis takas",
+                  "text": "A recreational trail through the Pilėnai forest, ideal for nature walks.",
+                  "category": "landmark",
+                  "coords": [
+                        24.052573,
+                        54.974832
+                  ]
+            },
+            {
+                  "name": "Lapių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "The St. John the Baptist Church in Lapių, a significant local religious building.",
+                  "category": "religious",
+                  "coords": [
+                        24.009053,
+                        54.973735
+                  ]
+            },
+            {
+                  "name": "Karmėlavos šv. Onos bažnyčia",
+                  "text": "The St. Anne's Church in Karmėlava, an important spiritual center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        24.060331,
+                        54.973134
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Kaunas", hu: "Kaunasi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Kaunas", en: "Kaunas Free Economic Zone"},
@@ -963,7 +1521,304 @@ export const lithuaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lithuania-butinge-terminal-economic-v2",
+    id: "lithuania-butinge-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Šventoji",
+                  "text": "Ein roter Metall-Leuchtturm in der Küstenstadt Šventoji in Litauen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.082171,
+                        56.025169
+                  ]
+            },
+            {
+                  "name": "Šiaurinis Šventosios paplūdymys",
+                  "text": "Ein Sandstrand an der Ostseeküste im Norden von Šventoji.",
+                  "category": "recreational",
+                  "coords": [
+                        21.070191,
+                        56.046713
+                  ]
+            },
+            {
+                  "name": "Žemaičių Alka",
+                  "text": "Eine Rekonstruktion eines samogitischen heidnischen Heiligtums und Observatoriums auf einem Hügel in Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.074496,
+                        56.041026
+                  ]
+            },
+            {
+                  "name": "Laumių vingis",
+                  "text": "Eine lokale Attraktion in Šventoji, die oft mit der litauischen Folklore in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        21.138095,
+                        56.073515
+                  ]
+            },
+            {
+                  "name": "Takas dideliems ir mažiems",
+                  "text": "Ein familienfreundlicher Erholungspfad im Küstengebiet von Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.1215,
+                        56.0387
+                  ]
+            },
+            {
+                  "name": "Švyturio malūnas",
+                  "text": "Eine historische Windmühle in der Region Šventoji in der Nähe der Ostseeküste.",
+                  "category": "landmark",
+                  "coords": [
+                        21.079076,
+                        56.027164
+                  ]
+            },
+            {
+                  "name": "Šventosios Švč. Mergelės Marijos, Jūrų Žvaigždės, bažnyčia",
+                  "text": "Eine moderne katholische Kirche in Šventoji, die Maria, dem Stern des Meeres, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.081607,
+                        56.028568
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Būtingė",
+                  "text": "Eine historische lutherische Kirche für die Gemeinde Būtingė nahe der lettischen Grenze.",
+                  "category": "religious",
+                  "coords": [
+                        21.119663,
+                        56.037577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šventosios švyturys",
+                  "text": "Piros fémszerkezetű világítótorony a litvániai Šventoji tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.082171,
+                        56.025169
+                  ]
+            },
+            {
+                  "name": "Šiaurinis Šventosios paplūdymys",
+                  "text": "Homokos tengerpart a Balti-tenger partján, Šventoji északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.070191,
+                        56.046713
+                  ]
+            },
+            {
+                  "name": "Žemaičių Alka",
+                  "text": "Egy szamogit pogány szentély és obszervatórium rekonstrukciója egy dombon Šventojiban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.074496,
+                        56.041026
+                  ]
+            },
+            {
+                  "name": "Laumių vingis",
+                  "text": "Helyi látnivaló Šventojiban, amelyet gyakran a litván folklórral társítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.138095,
+                        56.073515
+                  ]
+            },
+            {
+                  "name": "Takas dideliems ir mažiems",
+                  "text": "Családbarát szabadidős ösvény Šventoji tengerparti övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.1215,
+                        56.0387
+                  ]
+            },
+            {
+                  "name": "Švyturio malūnas",
+                  "text": "Történelmi szélmalom Šventoji régiójában, a Balti-tenger partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.079076,
+                        56.027164
+                  ]
+            },
+            {
+                  "name": "Šventosios Švč. Mergelės Marijos, Jūrų Žvaigždės, bažnyčia",
+                  "text": "Modern katolikus templom Šventojiban, amelyet Tenger Csillaga Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        21.081607,
+                        56.028568
+                  ]
+            },
+            {
+                  "name": "Būtingės evangelikų liuteronų bažnyčia",
+                  "text": "Történelmi evangélikus templom Būtingė közössége számára, a lett határ közelében.",
+                  "category": "religious",
+                  "coords": [
+                        21.119663,
+                        56.037577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šventosios švyturys",
+                  "text": "Un far metalic roșu situat în orașul de coastă Šventoji din Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        21.082171,
+                        56.025169
+                  ]
+            },
+            {
+                  "name": "Šiaurinis Šventosios paplūdymys",
+                  "text": "O plajă cu nisip situată pe coasta Baltică, în nordul localității Šventoji.",
+                  "category": "recreational",
+                  "coords": [
+                        21.070191,
+                        56.046713
+                  ]
+            },
+            {
+                  "name": "Žemaičių Alka",
+                  "text": "O reconstrucție a unui sanctuar păgân samogitian și observator pe un deal din Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.074496,
+                        56.041026
+                  ]
+            },
+            {
+                  "name": "Laumių vingis",
+                  "text": "O atracție locală în Šventoji, adesea asociată cu folclorul lituanian.",
+                  "category": "landmark",
+                  "coords": [
+                        21.138095,
+                        56.073515
+                  ]
+            },
+            {
+                  "name": "Takas dideliems ir mažiems",
+                  "text": "Un traseu recreativ pentru familii, situat în zona de coastă din Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.1215,
+                        56.0387
+                  ]
+            },
+            {
+                  "name": "Švyturio malūnas",
+                  "text": "O moară de vânt istorică situată în regiunea Šventoji, lângă coasta Baltică.",
+                  "category": "landmark",
+                  "coords": [
+                        21.079076,
+                        56.027164
+                  ]
+            },
+            {
+                  "name": "Šventosios Švč. Mergelės Marijos, Jūrų Žvaigždės, bažnyčia",
+                  "text": "O biserică catolică modernă în Šventoji, dedicată Sfintei Maria, Steaua Mării.",
+                  "category": "religious",
+                  "coords": [
+                        21.081607,
+                        56.028568
+                  ]
+            },
+            {
+                  "name": "Būtingės evangelikų liuteronų bažnyčia",
+                  "text": "O biserică luterană istorică ce deservește comunitatea Būtingė, lângă granița cu Letonia.",
+                  "category": "religious",
+                  "coords": [
+                        21.119663,
+                        56.037577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šventosios švyturys",
+                  "text": "A red metal lighthouse located in the coastal town of Šventoji, Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        21.082171,
+                        56.025169
+                  ]
+            },
+            {
+                  "name": "Šiaurinis Šventosios paplūdymys",
+                  "text": "A sandy beach located on the Baltic coast in northern Šventoji.",
+                  "category": "recreational",
+                  "coords": [
+                        21.070191,
+                        56.046713
+                  ]
+            },
+            {
+                  "name": "Žemaičių Alka",
+                  "text": "A reconstruction of a Samogitian pagan shrine and observatory on a hill in Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.074496,
+                        56.041026
+                  ]
+            },
+            {
+                  "name": "Laumių vingis",
+                  "text": "A local attraction in Šventoji, often associated with Lithuanian folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        21.138095,
+                        56.073515
+                  ]
+            },
+            {
+                  "name": "Takas dideliems ir mažiems",
+                  "text": "A family-friendly recreational trail located in the coastal area of Šventoji.",
+                  "category": "landmark",
+                  "coords": [
+                        21.1215,
+                        56.0387
+                  ]
+            },
+            {
+                  "name": "Švyturio malūnas",
+                  "text": "A historical windmill located in the Šventoji region near the Baltic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        21.079076,
+                        56.027164
+                  ]
+            },
+            {
+                  "name": "Šventosios Švč. Mergelės Marijos, Jūrų Žvaigždės, bažnyčia",
+                  "text": "A modern Catholic church in Šventoji dedicated to Mary, Star of the Sea.",
+                  "category": "religious",
+                  "coords": [
+                        21.081607,
+                        56.028568
+                  ]
+            },
+            {
+                  "name": "Būtingės evangelikų liuteronų bažnyčia",
+                  "text": "A historic Lutheran church serving the Būtingė community near the Latvian border.",
+                  "category": "religious",
+                  "coords": [
+                        21.119663,
+                        56.037577
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "port",
     name: { de: "Ölterminal Būtingė", hu: "Būtingėi olajterminál", ro: "Terminalul petrolier Būtingė", en: "Būtingė Oil Terminal"},
@@ -1103,7 +1958,304 @@ export const lithuaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lithuania-kaunas-intermodal-terminal-economic-v2",
+    id: "lithuania-kaunas-intermodal-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vieškūnų piliakalnis",
+                  "text": "Eine historische archäologische Stätte eines ehemaligen Burgwalls.",
+                  "category": "historical",
+                  "coords": [
+                        24.050472,
+                        54.899667
+                  ]
+            },
+            {
+                  "name": "Žiegždrių piliakalnis",
+                  "text": "Ein alter litauischer Burgberg mit kultureller Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        24.082667,
+                        54.89151
+                  ]
+            },
+            {
+                  "name": "Geležinkelio (Palemono) fortas",
+                  "text": "Ein Teil der historischen Festung Kaunas in der Nähe der Eisenbahn.",
+                  "category": "fortress",
+                  "coords": [
+                        24.04506,
+                        54.900291
+                  ]
+            },
+            {
+                  "name": "Salomėjos Nėries memorialinis muziejus",
+                  "text": "Ein Museum zum Gedenken an die berühmte litauische Dichterin.",
+                  "category": "museum",
+                  "coords": [
+                        24.061641,
+                        54.909919
+                  ]
+            },
+            {
+                  "name": "Kalniškių konglomeratų atodanga",
+                  "text": "Ein geologisches Naturdenkmal mit Aussicht auf das Kaunasser Meer.",
+                  "category": "natural",
+                  "coords": [
+                        24.075174,
+                        54.889146
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kauno marias",
+                  "text": "Ein Panoramapunkt mit weitem Blick über das Kaunasser Meer.",
+                  "category": "natural",
+                  "coords": [
+                        24.04766,
+                        54.899158
+                  ]
+            },
+            {
+                  "name": "Lakštingalų slėnis",
+                  "text": "Ein malerisches Tal, das als schöner Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        24.063585,
+                        54.90896
+                  ]
+            },
+            {
+                  "name": "Tiltas per Kruną",
+                  "text": "Eine Brücke über den Fluss Kruna in der Region Kaunas.",
+                  "category": "landmark",
+                  "coords": [
+                        24.100612,
+                        54.912656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vieškūnų piliakalnis",
+                  "text": "Egy egykori várhely történelmi régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        24.050472,
+                        54.899667
+                  ]
+            },
+            {
+                  "name": "Žiegždrių piliakalnis",
+                  "text": "Egy ősi litván várhegy, amely kulturális jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        24.082667,
+                        54.89151
+                  ]
+            },
+            {
+                  "name": "Geležinkelio (Palemono) fortas",
+                  "text": "A kaunasi erődrendszer vasút közeli része.",
+                  "category": "fortress",
+                  "coords": [
+                        24.04506,
+                        54.900291
+                  ]
+            },
+            {
+                  "name": "Salomėjos Nėries memorialinis muziejus",
+                  "text": "Emlékmúzeum a híres litván költőnő tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        24.061641,
+                        54.909919
+                  ]
+            },
+            {
+                  "name": "Kalniškių konglomeratų atodanga",
+                  "text": "Geológiai természeti emlék kilátással a Kaunasi-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        24.075174,
+                        54.889146
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kauno marias",
+                  "text": "Panorámás kilátóhely tágas kilátással a Kaunasi-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        24.04766,
+                        54.899158
+                  ]
+            },
+            {
+                  "name": "Lakštingalų slėnis",
+                  "text": "Festői völgy, amely szép kilátóhelyként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        24.063585,
+                        54.90896
+                  ]
+            },
+            {
+                  "name": "Tiltas per Kruną",
+                  "text": "Híd a Kruna-folyó felett a Kaunas-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.100612,
+                        54.912656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vieškūnų piliakalnis",
+                  "text": "Un sit arheologic istoric al unei foste așezări fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        24.050472,
+                        54.899667
+                  ]
+            },
+            {
+                  "name": "Žiegždrių piliakalnis",
+                  "text": "O veche colină fortificată lituaniană cu semnificație culturală.",
+                  "category": "historical",
+                  "coords": [
+                        24.082667,
+                        54.89151
+                  ]
+            },
+            {
+                  "name": "Geležinkelio (Palemono) fortas",
+                  "text": "O parte a fortăreței istorice Kaunas, situată lângă calea ferată.",
+                  "category": "fortress",
+                  "coords": [
+                        24.04506,
+                        54.900291
+                  ]
+            },
+            {
+                  "name": "Salomėjos Nėries memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat celebrei poete lituaniene.",
+                  "category": "museum",
+                  "coords": [
+                        24.061641,
+                        54.909919
+                  ]
+            },
+            {
+                  "name": "Kalniškių konglomeratų atodanga",
+                  "text": "Un monument natural geologic cu vedere spre lacul de acumulare Kaunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.075174,
+                        54.889146
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kauno marias",
+                  "text": "Un punct panoramic cu o vedere largă asupra lacului de acumulare Kaunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.04766,
+                        54.899158
+                  ]
+            },
+            {
+                  "name": "Lakštingalų slėnis",
+                  "text": "O vale pitorească ce servește drept punct de observație frumos.",
+                  "category": "natural",
+                  "coords": [
+                        24.063585,
+                        54.90896
+                  ]
+            },
+            {
+                  "name": "Tiltas per Kruną",
+                  "text": "Un pod peste râul Kruna în regiunea Kaunas.",
+                  "category": "landmark",
+                  "coords": [
+                        24.100612,
+                        54.912656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vieškūnų piliakalnis",
+                  "text": "A historic archaeological site of a former hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        24.050472,
+                        54.899667
+                  ]
+            },
+            {
+                  "name": "Žiegždrių piliakalnis",
+                  "text": "An ancient Lithuanian hillfort with cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        24.082667,
+                        54.89151
+                  ]
+            },
+            {
+                  "name": "Geležinkelio (Palemono) fortas",
+                  "text": "A part of the historical Kaunas Fortress located near the railway.",
+                  "category": "fortress",
+                  "coords": [
+                        24.04506,
+                        54.900291
+                  ]
+            },
+            {
+                  "name": "Salomėjos Nėries memorialinis muziejus",
+                  "text": "A memorial museum dedicated to the famous Lithuanian poetess.",
+                  "category": "museum",
+                  "coords": [
+                        24.061641,
+                        54.909919
+                  ]
+            },
+            {
+                  "name": "Kalniškių konglomeratų atodanga",
+                  "text": "A geological natural monument with views of the Kaunas Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        24.075174,
+                        54.889146
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kauno marias",
+                  "text": "A panoramic viewpoint with a wide view over the Kaunas Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        24.04766,
+                        54.899158
+                  ]
+            },
+            {
+                  "name": "Lakštingalų slėnis",
+                  "text": "A scenic valley that serves as a beautiful viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        24.063585,
+                        54.90896
+                  ]
+            },
+            {
+                  "name": "Tiltas per Kruną",
+                  "text": "A bridge over the Kruna river in the Kaunas region.",
+                  "category": "landmark",
+                  "coords": [
+                        24.100612,
+                        54.912656
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "industry",
     name: { de: "Intermodales Terminal Kaunas", hu: "Kaunasi intermodális terminál", ro: "Terminalul intermodal Kaunas", en: "Kaunas Intermodal Terminal"},

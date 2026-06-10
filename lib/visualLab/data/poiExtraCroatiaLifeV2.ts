@@ -187,7 +187,52 @@ imageHint: "Kopacki rit wetland birds",
     },
     image: "/poi-images/croatia-kopacki-rit-life-v2.webp",
 },  {
-    id: "croatia-lonjsko-polje-life-v2",
+    id: "croatia-lonjsko-polje-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "etno zbirka",
+                  "text": "Eine ethnografische Sammlung, die das traditionelle Leben und Handwerk in der Region Lonjsko Polje zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.629903,
+                        45.415318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "etno zbirka",
+                  "text": "Néprajzi gyűjtemény, amely a Lonjsko Polje régió hagyományos életmódját és mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.629903,
+                        45.415318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "etno zbirka",
+                  "text": "O colecție etnografică ce prezintă viața și meșteșugurile tradiționale din regiunea Lonjsko Polje.",
+                  "category": "museum",
+                  "coords": [
+                        16.629903,
+                        45.415318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "etno zbirka",
+                  "text": "An ethnographic collection showcasing traditional life and crafts in the Lonjsko Polje region.",
+                  "category": "museum",
+                  "coords": [
+                        16.629903,
+                        45.415318
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "wildlife",
     name: { de: "Naturpark Lonjsko Polje", hu: "Lonjsko Polje Természetvédelmi Park", ro: "Parcul Natural Lonjsko Polje", en: "Lonjsko Polje Nature Park"},
@@ -417,7 +462,88 @@ imageHint: "Ucka mountain Vojak tower view",
     },
     image: "/poi-images/croatia-ucka-life-v2.webp",
 },  {
-    id: "croatia-papuk-life-v2",
+    id: "croatia-papuk-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Ein Gedenkfriedhof für Partisanen im Naturpark Papuk.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica Gudnoga",
+                  "text": "Die Ruinen eines ehemaligen Partisanenhospitals im Naturpark Papuk.",
+                  "category": "historical",
+                  "coords": [
+                        17.60859,
+                        45.553932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Partizán emlékhely és temető a Papuk Természetvédelmi Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica Gudnoga",
+                  "text": "Egy egykori partizánkórház romjai a Papuk Természetvédelmi Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        17.60859,
+                        45.553932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "Un cimitir memorial al partizanilor în Parcul Natural Papuk.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica Gudnoga",
+                  "text": "Ruinele unui fost spital de partizani în Parcul Natural Papuk.",
+                  "category": "historical",
+                  "coords": [
+                        17.60859,
+                        45.553932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Partizansko groblje Kovačica",
+                  "text": "A memorial cemetery for partisans in the Papuk Nature Park.",
+                  "category": "historical",
+                  "coords": [
+                        17.652566,
+                        45.521765
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica Gudnoga",
+                  "text": "Ruins of a former partisan hospital in the Papuk Nature Park.",
+                  "category": "historical",
+                  "coords": [
+                        17.60859,
+                        45.553932
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Naturpark Papuk", hu: "Papuk Természetvédelmi Park", ro: "Parcul Natural Papuk", en: "Papuk Nature Park"},
@@ -463,7 +589,304 @@ imageHint: "Papuk nature park forest waterfall",
     },
     image: "/poi-images/croatia-papuk-life-v2.webp",
 },  {
-    id: "croatia-medvednica-life-v2",
+    id: "croatia-medvednica-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Bärenberg",
+                  "text": "Ein weitläufiger Naturpark bei Zagreb mit Bergen und Wäldern.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Ein spätbarockes Schloss in Gornja Bistra im Naturpark Medvednica.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "Der höchste Gipfel des Medvednica-Gebirges und ein beliebtes Ausflugsziel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "Ein historisches Silberbergwerk aus dem 16. Jahrhundert, das für Besucher zugänglich ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Tusti vrh",
+                  "text": "Ein bewaldeter Berggipfel im zentralen Teil des Naturparks Medvednica.",
+                  "category": "landmark",
+                  "coords": [
+                        15.965264,
+                        45.87736
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Ein Aussichtspunkt im Naturpark Medvednica mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Ein Aussichtspunkt in der Nähe der Berghütte Grafičar auf der Medvednica.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "Eine kleine katholische Kirche auf dem Gipfel des Sljeme.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Zágráb közeli kiterjedt natúrpark hegyekkel és erdőkkel.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Késő barokk kastély Gornja Bistra településen, a Medvednica Natúrparkban.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "A Medvednica-hegység legmagasabb csúcsa és népszerű kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "16. századi történelmi ezüstbánya, amely látogatható a turisták számára.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Tusti vrh",
+                  "text": "Erdős hegycsúcs a Medvednica Natúrpark központi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.965264,
+                        45.87736
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Kilátópont a Medvednica Natúrparkban, ahonnan rálátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Kilátóhely a Medvednica-hegységben, a Grafičar menedékház közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "Kis katolikus templom a Sljeme-csúcs közelében.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "Un parc natural întins lângă Zagreb, cuprinzând munți și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "Un castel în stil baroc târziu situat în Gornja Bistra, în Parcul Natural Medvednica.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "Cel mai înalt vârf al masivului Medvednica și o destinație populară de excursie.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "O mină istorică de argint din secolul al XVI-lea, deschisă vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Tusti vrh",
+                  "text": "Un vârf montan împădurit în partea centrală a Parcului Natural Medvednica.",
+                  "category": "landmark",
+                  "coords": [
+                        15.965264,
+                        45.87736
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "Un punct de belvedere în Parcul Natural Medvednica cu vedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "Un punct de observație pe muntele Medvednica, lângă cabana Grafičar.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "O mică biserică catolică situată pe vârful Sljeme.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Medvednica",
+                  "text": "An extensive nature park near Zagreb featuring mountains and forests.",
+                  "category": "natural",
+                  "coords": [
+                        15.96212,
+                        45.910592
+                  ]
+            },
+            {
+                  "name": "Dvorac Oršić",
+                  "text": "A late Baroque castle located in Gornja Bistra within the Medvednica Nature Park.",
+                  "category": "castle",
+                  "coords": [
+                        15.904515,
+                        45.916802
+                  ]
+            },
+            {
+                  "name": "Sljeme",
+                  "text": "The highest peak of the Medvednica mountain range and a popular excursion spot.",
+                  "category": "landmark",
+                  "coords": [
+                        15.947377,
+                        45.899297
+                  ]
+            },
+            {
+                  "name": "Rudnik Zrinski",
+                  "text": "A historical 16th-century silver mine open for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        15.928046,
+                        45.886926
+                  ]
+            },
+            {
+                  "name": "Tusti vrh",
+                  "text": "A forested mountain peak in the central part of the Medvednica Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.965264,
+                        45.87736
+                  ]
+            },
+            {
+                  "name": "Panjevina",
+                  "text": "A viewpoint in the Medvednica Nature Park offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.921063,
+                        45.916524
+                  ]
+            },
+            {
+                  "name": "Vidikovac Grafičar",
+                  "text": "An observation point on the Medvednica mountain, near the Grafičar mountain hut.",
+                  "category": "natural",
+                  "coords": [
+                        15.933016,
+                        45.887418
+                  ]
+            },
+            {
+                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+                  "text": "A small Catholic church located on the Sljeme peak.",
+                  "category": "religious",
+                  "coords": [
+                        15.955248,
+                        45.901297
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Naturpark Medvednica", hu: "Medvednica Természetvédelmi Park", ro: "Parcul Natural Medvednica", en: "Medvednica Nature Park"},
@@ -509,7 +932,232 @@ imageHint: "Medvednica mountain Zagreb view",
     },
     image: "/poi-images/croatia-medvednica-life-v2.webp",
 },  {
-    id: "croatia-zumberak-life-v2",
+    id: "croatia-zumberak-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Sichelgebirge und die Samobor-Berge",
+                  "text": "Ein weitläufiger Naturpark in Kroatien, bekannt für seine Wälder und Mittelgebirgslandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Ruševine crkve sv. Lovre",
+                  "text": "Die archäologischen Überreste einer mittelalterlichen Kirche im Naturpark.",
+                  "category": "historical",
+                  "coords": [
+                        15.488804,
+                        45.776342
+                  ]
+            },
+            {
+                  "name": "Uskočka lipa (Šobatovićeva lipa)",
+                  "text": "Eine jahrhundertealte Linde, die mit der Geschichte der Uskoken verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.523581,
+                        45.774009
+                  ]
+            },
+            {
+                  "name": "Poučna staza",
+                  "text": "Ein markierter Lehrpfad, der über die Natur und Geschichte der Region informiert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.510956,
+                        45.77954
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Die Ruinen einer mittelalterlichen Burgfestung im Žumberak-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Eine historisch bedeutende griechisch-katholische Kirche im Naturpark.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "Kiterjedt horvátországi natúrpark, amely erdőiről és középhegységi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Ruševine crkve sv. Lovre",
+                  "text": "Egy középkori templom régészeti maradványai a natúrpark területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.488804,
+                        45.776342
+                  ]
+            },
+            {
+                  "name": "Uskočka lipa (Šobatovićeva lipa)",
+                  "text": "Több évszázados hársfa, amely az uszkókok történelméhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        15.523581,
+                        45.774009
+                  ]
+            },
+            {
+                  "name": "Poučna staza",
+                  "text": "Jelzett tanösvény, amely a régió természetéről és történelméről nyújt ismereteket.",
+                  "category": "landmark",
+                  "coords": [
+                        15.510956,
+                        45.77954
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Középkori várkastély romjai a Žumberak-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "Történelmileg jelentős görögkatolikus templom a natúrparkban.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "Un parc natural vast în Croația, cunoscut pentru pădurile și peisajele sale montane.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Ruševine crkve sv. Lovre",
+                  "text": "Vestigiile arheologice ale unei biserici medievale din cadrul parcului natural.",
+                  "category": "historical",
+                  "coords": [
+                        15.488804,
+                        45.776342
+                  ]
+            },
+            {
+                  "name": "Uskočka lipa (Šobatovićeva lipa)",
+                  "text": "Un tei multisecular legat de istoria uscocilor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.523581,
+                        45.774009
+                  ]
+            },
+            {
+                  "name": "Poučna staza",
+                  "text": "Un traseu didactic marcat care oferă informații despre natura și istoria regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.510956,
+                        45.77954
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "Ruinele unei cetăți medievale situată în munții Žumberak.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "O biserică greco-catolică de importanță istorică din parcul natural.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park prirode Žumberak - Samoborsko gorje",
+                  "text": "An extensive nature park in Croatia known for its forests and mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        15.472475,
+                        45.746063
+                  ]
+            },
+            {
+                  "name": "Ruševine crkve sv. Lovre",
+                  "text": "The archaeological remains of a medieval church within the nature park.",
+                  "category": "historical",
+                  "coords": [
+                        15.488804,
+                        45.776342
+                  ]
+            },
+            {
+                  "name": "Uskočka lipa (Šobatovićeva lipa)",
+                  "text": "A centuries-old lime tree associated with the history of the Uskoks.",
+                  "category": "landmark",
+                  "coords": [
+                        15.523581,
+                        45.774009
+                  ]
+            },
+            {
+                  "name": "Poučna staza",
+                  "text": "A marked educational trail providing information about the region's nature and history.",
+                  "category": "landmark",
+                  "coords": [
+                        15.510956,
+                        45.77954
+                  ]
+            },
+            {
+                  "name": "Novi grad Žumberački",
+                  "text": "The ruins of a medieval castle fortress in the Žumberak mountains.",
+                  "category": "historical",
+                  "coords": [
+                        15.442444,
+                        45.747394
+                  ]
+            },
+            {
+                  "name": "crkva svetog Nikole biskupa",
+                  "text": "A historically significant Greek Catholic church within the nature park.",
+                  "category": "religious",
+                  "coords": [
+                        15.441349,
+                        45.749565
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Naturpark Žumberak-Samoborsko gorje", hu: "Žumberak-Samobori-hegység Park", ro: "Parcul Žumberak-Samoborsko gorje", en: "Žumberak-Samoborsko gorje Nature Park"},
@@ -969,7 +1617,160 @@ imageHint: "Lim channel Istria fjord",
     },
     image: "/poi-images/croatia-lim-channel-life-v2.webp",
 },  {
-    id: "croatia-arboretum-opeka-life-v2",
+    id: "croatia-arboretum-opeka-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bajnski dvori",
+                  "text": "Ein historisches Schlossensemble in der Nähe von Varaždin.",
+                  "category": "castle",
+                  "coords": [
+                        16.152887,
+                        46.307423
+                  ]
+            },
+            {
+                  "name": "Schloss Opeka",
+                  "text": "Ein Barockschloss inmitten eines bedeutenden Arboretums.",
+                  "category": "castle",
+                  "coords": [
+                        16.147713,
+                        46.324995
+                  ]
+            },
+            {
+                  "name": "Burg Vinica",
+                  "text": "Eine mittelalterliche Burganlage in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        16.134108,
+                        46.338188
+                  ]
+            },
+            {
+                  "name": "Bazen",
+                  "text": "Die Überreste eines historischen Schwimmbeckens innerhalb des Opeka-Arboretums.",
+                  "category": "historical",
+                  "coords": [
+                        16.150705,
+                        46.324657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bajnski dvori",
+                  "text": "Történelmi kastélyegyüttes Varaždin közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.152887,
+                        46.307423
+                  ]
+            },
+            {
+                  "name": "Dvorac Opeka",
+                  "text": "Barokk kastély egy jelentős arborétum területén.",
+                  "category": "castle",
+                  "coords": [
+                        16.147713,
+                        46.324995
+                  ]
+            },
+            {
+                  "name": "Burg Vinica",
+                  "text": "Középkori várépítmény a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        16.134108,
+                        46.338188
+                  ]
+            },
+            {
+                  "name": "Bazen",
+                  "text": "Egy történelmi úszómedence maradványai az Opeka Arborétum területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.150705,
+                        46.324657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bajnski dvori",
+                  "text": "Un complex istoric de castele situat lângă Varaždin.",
+                  "category": "castle",
+                  "coords": [
+                        16.152887,
+                        46.307423
+                  ]
+            },
+            {
+                  "name": "Dvorac Opeka",
+                  "text": "Un castel baroc situat în cadrul unui arboret important.",
+                  "category": "castle",
+                  "coords": [
+                        16.147713,
+                        46.324995
+                  ]
+            },
+            {
+                  "name": "Burg Vinica",
+                  "text": "O cetate medievală situată în regiune.",
+                  "category": "castle",
+                  "coords": [
+                        16.134108,
+                        46.338188
+                  ]
+            },
+            {
+                  "name": "Bazen",
+                  "text": "Ruinele unei piscine istorice situate în incinta Arboretumului Opeka.",
+                  "category": "historical",
+                  "coords": [
+                        16.150705,
+                        46.324657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bajnski dvori",
+                  "text": "A historic castle complex located near Varaždin.",
+                  "category": "castle",
+                  "coords": [
+                        16.152887,
+                        46.307423
+                  ]
+            },
+            {
+                  "name": "Dvorac Opeka",
+                  "text": "A Baroque castle situated within a significant arboretum.",
+                  "category": "castle",
+                  "coords": [
+                        16.147713,
+                        46.324995
+                  ]
+            },
+            {
+                  "name": "Burg Vinica",
+                  "text": "A medieval castle fortification located in the region.",
+                  "category": "castle",
+                  "coords": [
+                        16.134108,
+                        46.338188
+                  ]
+            },
+            {
+                  "name": "Bazen",
+                  "text": "The remains of a historical swimming pool located within the Opeka Arboretum.",
+                  "category": "historical",
+                  "coords": [
+                        16.150705,
+                        46.324657
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "park",
     name: { de: "Arboretum Opeka", hu: "Opeka Arborétum", ro: "Arboretul Opeka", en: "Arboretum Opeka"},

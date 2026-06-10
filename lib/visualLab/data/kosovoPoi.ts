@@ -73,7 +73,124 @@ export const kosovoCountry: POI = {
 export const kosovoPois: POI[] = [
   // XK-001: Dečani
   {
-    id: "xk-decan", type: "historical", parent: "XK-001", coords: [20.26, 42.54],
+    id: "xk-decan", "sights": {
+      "de": [
+            {
+                  "name": "Manastiri i Deçanit",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster, das zum UNESCO-Welterbe gehört.",
+                  "category": "castle",
+                  "coords": [
+                        20.269929,
+                        42.546673
+                  ]
+            },
+            {
+                  "name": "Kulla e Zymer Himes",
+                  "text": "Ein traditionelles Turmhaus und Denkmal in der Nähe des Klosters Dečani.",
+                  "category": "historical",
+                  "coords": [
+                        20.294334,
+                        42.535727
+                  ]
+            },
+            {
+                  "name": "Visoki Decani Church",
+                  "text": "Die Hauptkirche des Klosters Visoki Dečani, bekannt für ihre Architektur und Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        20.266402,
+                        42.54705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Visoki Dečani kolostor",
+                  "text": "Jelentős szerb ortodox kolostor, amely az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        20.269929,
+                        42.546673
+                  ]
+            },
+            {
+                  "name": "Kulla e Zymer Himes",
+                  "text": "Hagyományos toronyház és műemlék a Dečani kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.294334,
+                        42.535727
+                  ]
+            },
+            {
+                  "name": "Visoki Decani Church",
+                  "text": "A Visoki Dečani kolostor főtemploma, amely építészetéről és freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.266402,
+                        42.54705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea de la Visoki Dečani",
+                  "text": "O importantă mănăstire ortodoxă sârbă, inclusă în patrimoniul mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        20.269929,
+                        42.546673
+                  ]
+            },
+            {
+                  "name": "Kulla e Zymer Himes",
+                  "text": "O casă turn tradițională și monument în apropierea mănăstirii Dečani.",
+                  "category": "historical",
+                  "coords": [
+                        20.294334,
+                        42.535727
+                  ]
+            },
+            {
+                  "name": "Visoki Decani Church",
+                  "text": "Biserica principală a mănăstirii Visoki Dečani, cunoscută pentru arhitectura și frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        20.266402,
+                        42.54705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastiri i Deçanit",
+                  "text": "A major Serbian Orthodox monastery and UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        20.269929,
+                        42.546673
+                  ]
+            },
+            {
+                  "name": "Kulla e Zymer Himes",
+                  "text": "A traditional tower house and monument near the Dečani monastery.",
+                  "category": "historical",
+                  "coords": [
+                        20.294334,
+                        42.535727
+                  ]
+            },
+            {
+                  "name": "Church of the Ascension of Christ",
+                  "text": "The main church of the Visoki Dečani monastery, known for its architecture and frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        20.266402,
+                        42.54705
+                  ]
+            }
+      ]
+}, type: "historical", parent: "XK-001", coords: [20.26, 42.54],
     name: { de: "Kloster Visoki Dečani", hu: "Visoki Dečani kolostor", ro: "Mănăstirea Visoki Dečani", en: "Visoki Dečani Monastery" },
     description: { de: "Bedeutendes serbisch-orthodoxes Kloster und UNESCO-Weltkulturerbe.", hu: "Jelentős szerb ortodox kolostor és UNESCO Világörökség.", ro: "Importantă mănăstire ortodoxă sârbă și patrimoniu mondial UNESCO.", en: "Important Serbian Orthodox monastery and UNESCO World Heritage site." , es: "Importante monasterio ortodoxo serbio y Patrimonio de la Humanidad por la UNESCO.", pt: "Importante mosteiro ortodoxo sérvio e Património Mundial da UNESCO.", fr: "Important monastère orthodoxe serbe et site classé au patrimoine mondial de l'UNESCO."},
     facts: {
@@ -106,7 +223,52 @@ export const kosovoPois: POI[] = [
     image: "/poi-images/xk-decan.webp",
   },
   {
-    id: "xk-decan-mountains", type: "landmark", parent: "XK-001", coords: [20.20, 42.53],
+    id: "xk-decan-mountains", "sights": {
+      "de": [
+            {
+                  "name": "Rrasa e Zogut",
+                  "text": "Ein markanter Berggipfel in den Dečani-Bergen, der weite Ausblicke über die Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.179091,
+                        42.502102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rrasa e Zogut",
+                  "text": "Jellegzetes hegycsúcs a Dečani-hegységben, amely tágas kilátást nyújt a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        20.179091,
+                        42.502102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rrasa e Zogut",
+                  "text": "Un vârf montan proeminent în Munții Dečani, oferind vederi largi asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.179091,
+                        42.502102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rrasa e Zogut",
+                  "text": "A prominent mountain peak in the Dečani Mountains, offering expansive views of the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        20.179091,
+                        42.502102
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "XK-001", coords: [20.20, 42.53],
     name: { de: "Dečani-Berge", hu: "Dečani-hegyek", ro: "Munții Dečani", en: "Dečani Mountains" },
     description: { de: "Teil des Prokletije-Gebirges mit unberührter Natur.", hu: "A Prokletije-hegység része érintetlen természettel.", ro: "Parte a munților Prokletije cu natură virgină.", en: "Part of the Prokletije mountains with untouched nature." , es: "Parte de las montañas Prokletije con naturaleza virgen.", pt: "Parte das montanhas Prokletije com natureza intocada.", fr: "Partie du massif de Prokletije avec une nature préservée."},
     facts: {
@@ -2121,7 +2283,52 @@ export const kosovoPois: POI[] = [
     image: "/poi-images/xk-gjilan.webp",
   },
   {
-    id: "xk-pogragja-castle", type: "historical", parent: "XK-005", coords: [21.58, 42.42],
+    id: "xk-pogragja-castle", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Pogragjës",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf einem Hügel nahe dem Dorf Pogragja.",
+                  "category": "castle",
+                  "coords": [
+                        21.553845,
+                        42.427326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Pogragjës",
+                  "text": "Egy középkori erőd romjai egy dombtetőn, Pogragja falu közelében.",
+                  "category": "castle",
+                  "coords": [
+                        21.553845,
+                        42.427326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Pogragjës",
+                  "text": "Ruinele unei cetăți medievale situate pe un deal lângă satul Pogragja.",
+                  "category": "castle",
+                  "coords": [
+                        21.553845,
+                        42.427326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Pogragjës",
+                  "text": "The ruins of a medieval fortress located on a hill near the village of Pogragja.",
+                  "category": "castle",
+                  "coords": [
+                        21.553845,
+                        42.427326
+                  ]
+            }
+      ]
+}, type: "historical", parent: "XK-005", coords: [21.58, 42.42],
     name: { de: "Burg Pogragja", hu: "Pogragja vára", ro: "Cetatea Pogragja", en: "Pogragja Castle" },
     description: { de: "Mittelalterliche Burgruine nahe Gjilan.", hu: "Középkori várrom Gjilan közelében.", ro: "Ruinele unei cetăți medievale lângă Gjilan.", en: "Medieval castle ruins near Gjilan." , es: "Ruinas de un castillo medieval cerca de Gjilan.", pt: "Ruínas de um castelo medieval perto de Gjilan.", fr: "Ruines d'un château médiéval près de Gjilan."},
     facts: {

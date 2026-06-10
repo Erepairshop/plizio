@@ -48,7 +48,52 @@ export const mkPoisPart7: POI[] = [
     image: "/poi-images/MK-061-lesnovo-monastery.webp",
   },
   {
-    id: "MK-061-zletovo-river-valley",
+    id: "MK-061-zletovo-river-valley", "sights": {
+      "de": [
+            {
+                  "name": "Црна Дудинка",
+                  "text": "Ein Naturschutzgebiet, das für seine alten schwarzen Maulbeerbäume bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.228087,
+                        42.013345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Црна Дудинка",
+                  "text": "Védett természeti terület, amely ősi fekete eperfáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.228087,
+                        42.013345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Црна Дудинка",
+                  "text": "O zonă naturală protejată, cunoscută pentru duzii săi negri antici.",
+                  "category": "natural",
+                  "coords": [
+                        22.228087,
+                        42.013345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Mulberry Reserve",
+                  "text": "A protected natural area known for its ancient black mulberry trees.",
+                  "category": "natural",
+                  "coords": [
+                        22.228087,
+                        42.013345
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-061",
     coords: [22.2500, 41.9833],
@@ -182,7 +227,52 @@ export const mkPoisPart7: POI[] = [
   },
   // MK-063: Aračinovo
   {
-    id: "MK-063-aracinovo-mosque",
+    id: "MK-063-aracinovo-mosque", "sights": {
+      "de": [
+            {
+                  "name": "Св. Талалеј",
+                  "text": "Eine dem Heiligen Thalaleus geweihte christliche Kirche in Aračinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Св. Талалеј",
+                  "text": "Szent Thalaleusnak szentelt keresztény templom Aračinovo településen.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Св. Талалеј",
+                  "text": "O biserică creștină dedicată Sfântului Thalaleus situată în Aračinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Thalaleus",
+                  "text": "A Christian church dedicated to Saint Thalaleus located in Aračinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-063",
     coords: [21.5611, 42.0250],
@@ -226,7 +316,88 @@ export const mkPoisPart7: POI[] = [
     image: "/poi-images/MK-063-aracinovo-mosque.webp",
   },
   {
-    id: "MK-063-skopje-valley-view",
+    id: "MK-063-skopje-valley-view", "sights": {
+      "de": [
+            {
+                  "name": "Ајватовски Манастир",
+                  "text": "Ein friedliches Kloster im Bereich des Skopje-Tal-Blicks.",
+                  "category": "landmark",
+                  "coords": [
+                        21.614197,
+                        42.008612
+                  ]
+            },
+            {
+                  "name": "Св. Талалеј",
+                  "text": "Eine dem heiligen Thalaleus geweihte orthodoxe Kirche im Dorf Aracinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ајватовски Манастир",
+                  "text": "Békés kolostor a Szkopje-völgyre néző területen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.614197,
+                        42.008612
+                  ]
+            },
+            {
+                  "name": "Св. Талалеј",
+                  "text": "Szent Thalaleus tiszteletére szentelt ortodox templom Aracinovo faluban.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ајватовски Манастир",
+                  "text": "O mănăstire liniștită situată în zona cu vedere la Valea Skopje.",
+                  "category": "landmark",
+                  "coords": [
+                        21.614197,
+                        42.008612
+                  ]
+            },
+            {
+                  "name": "Св. Талалеј",
+                  "text": "O biserică ortodoxă dedicată Sfântului Thalaleus, situată în satul Aracinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Ajvatovci",
+                  "text": "A peaceful monastery located in the Skopje Valley view area.",
+                  "category": "landmark",
+                  "coords": [
+                        21.614197,
+                        42.008612
+                  ]
+            },
+            {
+                  "name": "St. Thalaleus",
+                  "text": "An Orthodox church dedicated to Saint Thalaleus located in the village of Arachinovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.565238,
+                        42.02515
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "MK-063",
     coords: [21.5833, 42.0333],
@@ -271,7 +442,88 @@ export const mkPoisPart7: POI[] = [
   },
   // MK-064: Zelenikovo
   {
-    id: "MK-064-tauresium-archaeological-site",
+    id: "MK-064-tauresium-archaeological-site", "sights": {
+      "de": [
+            {
+                  "name": "Тауресиум",
+                  "text": "Eine archäologische Stätte in Nordmazedonien, die als Geburtsort des Kaisers Justinian I. gilt.",
+                  "category": "historical",
+                  "coords": [
+                        21.613417,
+                        41.900026
+                  ]
+            },
+            {
+                  "name": "Видиковец Таор",
+                  "text": "Ein Aussichtspunkt in der Nähe der antiken Stätte Tauresium.",
+                  "category": "natural",
+                  "coords": [
+                        21.61354,
+                        41.89869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Тауресиум",
+                  "text": "Régészeti lelőhely Észak-Macedóniában, I. Justinianus császár feltételezett szülőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        21.613417,
+                        41.900026
+                  ]
+            },
+            {
+                  "name": "Видиковец Таор",
+                  "text": "Kilátóhely a közelben fekvő ókori Tauresium lelőhelyénél.",
+                  "category": "natural",
+                  "coords": [
+                        21.61354,
+                        41.89869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Тауресиум",
+                  "text": "Un sit arheologic în Macedonia de Nord, considerat locul de naștere al împăratului Iustinian I.",
+                  "category": "historical",
+                  "coords": [
+                        21.613417,
+                        41.900026
+                  ]
+            },
+            {
+                  "name": "Видиковец Таор",
+                  "text": "Un punct de observație situat în apropierea sitului antic Tauresium.",
+                  "category": "natural",
+                  "coords": [
+                        21.61354,
+                        41.89869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tauresium",
+                  "text": "An archaeological site in North Macedonia, known as the birthplace of Emperor Justinian I.",
+                  "category": "historical",
+                  "coords": [
+                        21.613417,
+                        41.900026
+                  ]
+            },
+            {
+                  "name": "Viewpoint Taor",
+                  "text": "A viewpoint located near the ancient archaeological site of Tauresium.",
+                  "category": "natural",
+                  "coords": [
+                        21.61354,
+                        41.89869
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-064",
     coords: [21.6167, 41.8833],
@@ -360,7 +612,124 @@ export const mkPoisPart7: POI[] = [
   },
   // MK-065: Kičevo
   {
-    id: "MK-065-kicevo-fortress",
+    id: "MK-065-kicevo-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "Ein Museum, das die Geschichte Westmazedoniens während des Befreiungskrieges dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick über die Stadt Kičevo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Ein Denkmal an der historischen Burgstätte Kitino Kale in Kičevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "Múzeum, amely Nyugat-Macedónia felszabadító háborús történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Festői kilátóhely, ahonnan panorámás kilátás nyílik Kicsevo városára.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Emlékmű a történelmi Kitino Kale várhelyszínén, Kicsevóban.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "Un muzeu care documentează istoria Macedoniei de Vest în timpul războiului de eliberare.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Un punct de observație pitoresc care oferă o vedere panoramică asupra orașului Kicevo.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Un monument situat pe situl istoric al castelului Kitino Kale din Kicevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "A museum documenting the history of Western Macedonia during the liberation war.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Kichevo Landscape",
+                  "text": "A scenic viewpoint offering a panoramic view of the town of Kičevo.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Kita Castle",
+                  "text": "A monument located at the historic Kitino Kale castle site in Kičevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-065",
     coords: [20.9583, 41.5125],
@@ -404,7 +773,124 @@ export const mkPoisPart7: POI[] = [
     image: "/poi-images/MK-065-kicevo-fortress.webp",
   },
   {
-    id: "MK-065-st-peter-paul-kicevo",
+    id: "MK-065-st-peter-paul-kicevo", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "Das Museum dokumentiert den regionalen Widerstand und die Befreiungskämpfe im Westmazedonien.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die Landschaft rund um Kičevo.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Die Überreste dieser historischen Befestigung zeugen von der strategischen Bedeutung der Region.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "A múzeum a nyugat-macedóniai ellenállást és a nemzeti felszabadító harcokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Erről a kilátópontról széles panoráma nyílik a Kičevo környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Ennek a történelmi erődítménynek a maradványai a régió stratégiai jelentőségéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "Muzeul documentează rezistența regională și luptele de eliberare națională din Macedonia de Vest.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Поглед кон Кичево",
+                  "text": "Acest punct de observare oferă o vedere panoramică largă asupra peisajului din jurul Kičevo.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Китино Кале",
+                  "text": "Rămășițele acestei fortificații istorice atestă importanța strategică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Western Macedonia in the War of National Liberation",
+                  "text": "The museum documents the regional resistance and national liberation struggles in Western Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.963812,
+                        41.512798
+                  ]
+            },
+            {
+                  "name": "Kichevo Landscape",
+                  "text": "This viewpoint offers a wide panoramic view of the landscape surrounding Kičevo.",
+                  "category": "natural",
+                  "coords": [
+                        20.976129,
+                        41.516575
+                  ]
+            },
+            {
+                  "name": "Kita Castle",
+                  "text": "The remains of this historic fortification bear witness to the region's strategic importance.",
+                  "category": "historical",
+                  "coords": [
+                        20.966456,
+                        41.512991
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-065",
     coords: [20.9567, 41.5150],
@@ -627,7 +1113,304 @@ export const mkPoisPart7: POI[] = [
   },
   // MK-068: Skopje
   {
-    id: "MK-068-kale-fortress",
+    id: "MK-068-kale-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Museum in Skopje, das die geologische und biologische Vielfalt Mazedoniens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung auf dem höchsten Punkt der Stadt mit Panoramablick über Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der wichtigste zoologische Garten der Stadt, Heimat einer Vielzahl von Tierarten aus aller Welt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Die Ruinen einer antiken römischen Stadt und archäologischen Stätte in der Nähe von Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der ältesten Museen des Landes, das die nationale Geschichte und Kultur dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Die führende Institution für Opern- und Ballettaufführungen in Nordmazedonien.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein bedeutendes Kunstmuseum in Skopje, das modernen und zeitgenössischen Werken gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Ein ehemaliges osmanisches Badehaus, das heute die Nationalgalerie von Mazedonien beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Szkopjei múzeum, amely Macedónia geológiai és biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd a város legmagasabb pontján, ahonnan panorámás kilátás nyílik Szkopjéra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "A város elsődleges állatkertje, amely a világ minden tájáról származó számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Egy ókori római város romjai és régészeti lelőhelye Szkopje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legrégebbi múzeuma, amely a nemzeti történelmet és kultúrát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Észak-Macedónia vezető intézménye az opera- és balettelőadások terén.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Jelentős művészeti múzeum Szkopjéban, amelyet modern és kortárs alkotásoknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Egykori oszmán fürdőház, amely ma a Macedón Nemzeti Galériának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu din Skopje care prezintă diversitatea geologică și biologică a Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O fortăreață istorică situată pe cel mai înalt punct al orașului, oferind vederi panoramice asupra Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică principală a orașului, care găzduiește o varietate de specii de animale din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Ruinele unui antic oraș roman și sit arheologic situat lângă Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai vechi muzee din țară, care documentează istoria și cultura națională.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Instituția principală pentru spectacole de operă și balet din Macedonia de Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu de artă proeminent din Skopje dedicat lucrărilor moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O fostă baie otomană care găzduiește acum Galeria Națională a Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A museum in Skopje showcasing the geological and biological diversity of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress located on the highest point in the city, offering panoramic views of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The city's primary zoological garden, home to a variety of animal species from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "The ruins of an ancient Roman city and archaeological site located near Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the oldest museums in the country, documenting the national history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The leading institution for opera and ballet performances in North Macedonia.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A prominent art museum in Skopje dedicated to modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "A former Ottoman bathhouse that now houses the National Gallery of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-068",
     coords: [21.4328, 42.0006],
@@ -671,7 +1454,304 @@ export const mkPoisPart7: POI[] = [
     image: "/poi-images/MK-068-kale-fortress.webp",
   },
   {
-    id: "MK-068-millennium-cross",
+    id: "MK-068-millennium-cross", "sights": {
+      "de": [
+            {
+                  "name": "Galerija RA",
+                  "text": "Eine Kunstgalerie in der Nähe des Millennium-Kreuzes auf dem Berg Vodno.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "Eine Freilichtbühne für kulturelle Veranstaltungen am Gipfel des Berges Vodno.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Ruinen einer mittelalterlichen Festung am Fuße des Berges Vodno bei Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Ein Berggipfel im Vodno-Massiv, der Aussichtspunkte über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "Der höchste Gipfel des Berges Vodno, auf dem das markante Millennium-Kreuz steht.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Ein Gipfel in der Umgebung von Skopje, beliebt bei Wanderern und Naturfreunden.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            },
+            {
+                  "name": "Споменик на Јуриј Гагарин",
+                  "text": "Ein Denkmal zu Ehren des ersten Kosmonauten im Weltraum auf dem Berg Vodno.",
+                  "category": "historical",
+                  "coords": [
+                        21.410874,
+                        41.994928
+                  ]
+            },
+            {
+                  "name": "Atelje Bojar",
+                  "text": "Ein lokales Kunstzentrum für kreative Projekte in der Nähe des Millennium-Kreuzes.",
+                  "category": "cultural",
+                  "coords": [
+                        21.422056,
+                        41.984711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerija RA",
+                  "text": "Művészeti galéria a Vodno-hegyen található Millenniumi kereszt közelében.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "Kulturális eseményeknek otthont adó szabadtéri színpad a Vodno-hegy csúcsán.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Középkori erőd romjai a Vodno-hegy lábánál, Szkopje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Hegycsúcs a Vodno-masszívumban, amely kilátást nyújt a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "A Vodno-hegy legmagasabb csúcsa, amelyen a jellegzetes Millenniumi kereszt áll.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Hegycsúcs Szkopje környékén, a túrázók és természetbarátok körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            },
+            {
+                  "name": "Споменик на Јуриј Гагарин",
+                  "text": "Az első űrhajós tiszteletére emelt emlékmű a Vodno-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        21.410874,
+                        41.994928
+                  ]
+            },
+            {
+                  "name": "Atelje Bojar",
+                  "text": "Helyi művészeti központ kreatív projektek számára a Millenniumi kereszt közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        21.422056,
+                        41.984711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerija RA",
+                  "text": "O galerie de artă situată lângă Crucea Mileniului de pe muntele Vodno.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Летна сцена",
+                  "text": "O scenă în aer liber pentru evenimente culturale, situată pe muntele Vodno.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Маркови Кули",
+                  "text": "Ruinele unei cetăți medievale la poalele muntelui Vodno, lângă Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Орашец",
+                  "text": "Un vârf montan în masivul Vodno, oferind puncte de belvedere asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Крстовар",
+                  "text": "Cel mai înalt vârf al muntelui Vodno, unde se află Crucea Mileniului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Абедиште",
+                  "text": "Un vârf în împrejurimile orașului Skopje, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            },
+            {
+                  "name": "Споменик на Јуриј Гагарин",
+                  "text": "Un monument dedicat primului cosmonaut în spațiu, situat pe muntele Vodno.",
+                  "category": "historical",
+                  "coords": [
+                        21.410874,
+                        41.994928
+                  ]
+            },
+            {
+                  "name": "Atelje Bojar",
+                  "text": "Un centru de artă local pentru proiecte creative lângă Crucea Mileniului.",
+                  "category": "cultural",
+                  "coords": [
+                        21.422056,
+                        41.984711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gallery RA",
+                  "text": "An art gallery located near the Millennium Cross on Vodno Mountain.",
+                  "category": "museum",
+                  "coords": [
+                        21.386588,
+                        41.998957
+                  ]
+            },
+            {
+                  "name": "Summer stage",
+                  "text": "An open-air stage for cultural events located on Vodno Mountain.",
+                  "category": "cultural",
+                  "coords": [
+                        21.374477,
+                        41.97554
+                  ]
+            },
+            {
+                  "name": "Markovi Kuli",
+                  "text": "Ruins of a medieval fortress at the foot of Vodno Mountain near Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.431409,
+                        41.968224
+                  ]
+            },
+            {
+                  "name": "Orashec",
+                  "text": "A mountain peak in the Vodno massif offering viewpoints over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.410097,
+                        41.963542
+                  ]
+            },
+            {
+                  "name": "Krstovar",
+                  "text": "The highest peak of Vodno Mountain, where the prominent Millennium Cross stands.",
+                  "category": "landmark",
+                  "coords": [
+                        21.394779,
+                        41.965049
+                  ]
+            },
+            {
+                  "name": "Abedishte",
+                  "text": "A peak in the surroundings of Skopje, popular among hikers and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        21.382266,
+                        41.963883
+                  ]
+            },
+            {
+                  "name": "Yuri Gagarin Monument",
+                  "text": "A monument in honour of the first cosmonaut in space, located on Vodno Mountain.",
+                  "category": "historical",
+                  "coords": [
+                        21.410874,
+                        41.994928
+                  ]
+            },
+            {
+                  "name": "Atelje Bojar",
+                  "text": "A local arts centre for creative projects near the Millennium Cross.",
+                  "category": "cultural",
+                  "coords": [
+                        21.422056,
+                        41.984711
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MK-068",
     coords: [21.3944, 41.9650],
@@ -716,7 +1796,52 @@ export const mkPoisPart7: POI[] = [
   },
   // MK-069: Lozovo
   {
-    id: "MK-069-st-athanasius-lozovo",
+    id: "MK-069-st-athanasius-lozovo", "sights": {
+      "de": [
+            {
+                  "name": "Куридере",
+                  "text": "Historische Ruinen in der Nähe der Kirche des Heiligen Athanasius in Lozovo.",
+                  "category": "historical",
+                  "coords": [
+                        21.87998,
+                        41.686005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Куридере",
+                  "text": "Történelmi romok Lozovo környékén, a Szent Atanáz-templom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.87998,
+                        41.686005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Куридере",
+                  "text": "Ruine istorice situate în apropierea bisericii Sfântul Atanasie din Lozovo.",
+                  "category": "historical",
+                  "coords": [
+                        21.87998,
+                        41.686005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiridere",
+                  "text": "Historic ruins located near the Church of Saint Athanasius in Lozovo.",
+                  "category": "historical",
+                  "coords": [
+                        21.87998,
+                        41.686005
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MK-069",
     coords: [21.9000, 41.6833],

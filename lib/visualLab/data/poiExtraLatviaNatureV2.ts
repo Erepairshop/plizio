@@ -166,6 +166,78 @@ export const latviaNatureV2: POI[] = [
                         24.107423,
                         57.08211
                   ]
+            },
+            {
+                  "name": "Dünamünder Schanze",
+                  "text": "Eine historische Festung an der Mündung der Düna, die einst zum Schutz Rigas diente.",
+                  "category": "fortress",
+                  "coords": [
+                        24.039351,
+                        57.04518
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Dünamünde",
+                  "text": "Ein Leuchtturm an der Mündung der Düna, der die Hafeneinfahrt von Riga markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.021605,
+                        57.059475
+                  ]
+            },
+            {
+                  "name": "Alt-Düna Naturschutzgebiet",
+                  "text": "Ein Naturschutzgebiet im Bereich des alten Flussbettes der Düna.",
+                  "category": "natural",
+                  "coords": [
+                        24.092276,
+                        57.057368
+                  ]
+            },
+            {
+                  "name": "Rietumu mola navigācijas zīme",
+                  "text": "Ein Navigationsfeuer auf der Westmole an der Mündung der Düna.",
+                  "category": "landmark",
+                  "coords": [
+                        24.010461,
+                        57.065282
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas klostera drupas",
+                  "text": "Archäologische Überreste des ehemaligen Zisterzienserklosters an der Düna-Mündung.",
+                  "category": "historical",
+                  "coords": [
+                        24.092874,
+                        57.05456
+                  ]
+            },
+            {
+                  "name": "Komētas Forts",
+                  "text": "Ein historisches Fort als Teil der Verteidigungsanlagen an der Düna-Mündung.",
+                  "category": "fortress",
+                  "coords": [
+                        24.023127,
+                        57.057984
+                  ]
+            },
+            {
+                  "name": "Baznīcas kalns - viduslaiku kapsēta",
+                  "text": "Archäologische Stätte eines mittelalterlichen Friedhofs auf dem „Kirchenberg“.",
+                  "category": "historical",
+                  "coords": [
+                        24.10144,
+                        57.052868
+                  ]
+            },
+            {
+                  "name": "Daugavas grīvas krastu fortifikācijas būvju komplekss",
+                  "text": "Komplex aus historischen Befestigungsanlagen am Ufer der Düna-Mündung.",
+                  "category": "historical",
+                  "coords": [
+                        24.056668,
+                        57.065255
+                  ]
             }
       ],
       "hu": [
@@ -194,6 +266,78 @@ export const latviaNatureV2: POI[] = [
                   "coords": [
                         24.107423,
                         57.08211
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas cietoksnis",
+                  "text": "Történelmi erőd a Daugava torkolatánál, amely egykor Riga védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        24.039351,
+                        57.04518
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas bāka",
+                  "text": "Világítótorony a Daugava torkolatánál, amely a rigai kikötő bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.021605,
+                        57.059475
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vecdaugava”",
+                  "text": "Természetvédelmi terület a Daugava folyó régi medrének környékén.",
+                  "category": "natural",
+                  "coords": [
+                        24.092276,
+                        57.057368
+                  ]
+            },
+            {
+                  "name": "Rietumu mola navigācijas zīme",
+                  "text": "Navigációs jelzés a Daugava torkolatának nyugati mólóján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.010461,
+                        57.065282
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas klostera drupas",
+                  "text": "Az egykori ciszterci kolostor régészeti maradványai a Daugava torkolatánál.",
+                  "category": "historical",
+                  "coords": [
+                        24.092874,
+                        57.05456
+                  ]
+            },
+            {
+                  "name": "Komētas Forts",
+                  "text": "Történelmi erőd, amely a Daugava torkolatánál lévő védelmi rendszer része.",
+                  "category": "fortress",
+                  "coords": [
+                        24.023127,
+                        57.057984
+                  ]
+            },
+            {
+                  "name": "Baznīcas kalns - viduslaiku kapsēta",
+                  "text": "Középkori temető régészeti lelőhelye a „Templom-dombon”.",
+                  "category": "historical",
+                  "coords": [
+                        24.10144,
+                        57.052868
+                  ]
+            },
+            {
+                  "name": "Daugavas grīvas krastu fortifikācijas būvju komplekss",
+                  "text": "Történelmi erődítmények együttese a Daugava-torkolat partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        24.056668,
+                        57.065255
                   ]
             }
       ],
@@ -224,6 +368,78 @@ export const latviaNatureV2: POI[] = [
                         24.107423,
                         57.08211
                   ]
+            },
+            {
+                  "name": "Daugavgrīvas cietoksnis",
+                  "text": "O cetate istorică la gura de vărsare a râului Daugava, care a servit odinioară la apărarea orașului Riga.",
+                  "category": "fortress",
+                  "coords": [
+                        24.039351,
+                        57.04518
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas bāka",
+                  "text": "Un far la gura de vărsare a râului Daugava, care marchează intrarea în portul Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.021605,
+                        57.059475
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vecdaugava”",
+                  "text": "O rezervație naturală în zona vechii albii a râului Daugava.",
+                  "category": "natural",
+                  "coords": [
+                        24.092276,
+                        57.057368
+                  ]
+            },
+            {
+                  "name": "Rietumu mola navigācijas zīme",
+                  "text": "Un semnal de navigație pe molul de vest de la gura de vărsare a râului Daugava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.010461,
+                        57.065282
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas klostera drupas",
+                  "text": "Rămășițele arheologice ale fostei mănăstiri cisterciene de la gura de vărsare a râului Daugava.",
+                  "category": "historical",
+                  "coords": [
+                        24.092874,
+                        57.05456
+                  ]
+            },
+            {
+                  "name": "Komētas Forts",
+                  "text": "Un fort istoric, parte a sistemului de apărare de la gura de vărsare a râului Daugava.",
+                  "category": "fortress",
+                  "coords": [
+                        24.023127,
+                        57.057984
+                  ]
+            },
+            {
+                  "name": "Baznīcas kalns - viduslaiku kapsēta",
+                  "text": "Situl arheologic al unui cimitir medieval situat pe „Dealul Bisericii”.",
+                  "category": "historical",
+                  "coords": [
+                        24.10144,
+                        57.052868
+                  ]
+            },
+            {
+                  "name": "Daugavas grīvas krastu fortifikācijas būvju komplekss",
+                  "text": "Complex de fortificații istorice pe malurile estuarului râului Daugava.",
+                  "category": "historical",
+                  "coords": [
+                        24.056668,
+                        57.065255
+                  ]
             }
       ],
       "en": [
@@ -252,6 +468,78 @@ export const latviaNatureV2: POI[] = [
                   "coords": [
                         24.107423,
                         57.08211
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas cietoksnis",
+                  "text": "A historical fortress at the mouth of the Daugava River, originally used to defend Riga.",
+                  "category": "fortress",
+                  "coords": [
+                        24.039351,
+                        57.04518
+                  ]
+            },
+            {
+                  "name": "Daugavgriva lighthouse",
+                  "text": "A lighthouse at the mouth of the Daugava River marking the entrance to the port of Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.021605,
+                        57.059475
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vecdaugava”",
+                  "text": "A nature reserve in the area of the old bed of the Daugava River.",
+                  "category": "natural",
+                  "coords": [
+                        24.092276,
+                        57.057368
+                  ]
+            },
+            {
+                  "name": "Rietumu mola navigācijas zīme",
+                  "text": "A navigational beacon on the western pier at the mouth of the Daugava River.",
+                  "category": "landmark",
+                  "coords": [
+                        24.010461,
+                        57.065282
+                  ]
+            },
+            {
+                  "name": "Daugavgrīvas klostera drupas",
+                  "text": "Archaeological remains of the former Cistercian monastery at the Daugava mouth.",
+                  "category": "historical",
+                  "coords": [
+                        24.092874,
+                        57.05456
+                  ]
+            },
+            {
+                  "name": "Komētas Forts",
+                  "text": "A historical fort part of the defense system at the Daugava River mouth.",
+                  "category": "fortress",
+                  "coords": [
+                        24.023127,
+                        57.057984
+                  ]
+            },
+            {
+                  "name": "Baznīcas kalns - viduslaiku kapsēta",
+                  "text": "Archaeological site of a medieval cemetery located on the \"Church Hill\".",
+                  "category": "historical",
+                  "coords": [
+                        24.10144,
+                        57.052868
+                  ]
+            },
+            {
+                  "name": "Daugavas grīvas krastu fortifikācijas būvju komplekss",
+                  "text": "A complex of historical fortifications along the banks of the Daugava estuary.",
+                  "category": "historical",
+                  "coords": [
+                        24.056668,
+                        57.065255
                   ]
             }
       ]
@@ -390,7 +678,196 @@ export const latviaNatureV2: POI[] = [
     image: "/poi-images/latvia-pape-lake-nature-v2.webp",
   },
   {
-    id: "latvia-gauja-delta-nature-v2",
+    id: "latvia-gauja-delta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "CNC Klēts zāle",
+                  "text": "CNC Klēts zāle ist ein Museum in Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.272842,
+                        57.134901
+                  ]
+            },
+            {
+                  "name": "Carnikavas Novadpētniecības centrs",
+                  "text": "Carnikavas Novadpētniecības centrs ist ein Museum in Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.271524,
+                        57.135451
+                  ]
+            },
+            {
+                  "name": "Dienvidu Garezers",
+                  "text": "Dienvidu Garezers bietet einen Aussichtspunkt in Gauja River Mouth.",
+                  "category": "natural",
+                  "coords": [
+                        24.297596,
+                        57.162504
+                  ]
+            },
+            {
+                  "name": "Carnikavas muižas kapitelis",
+                  "text": "Carnikava Manor Chapiter ist ein Denkmal in Gauja River Mouth.",
+                  "category": "historical",
+                  "coords": [
+                        24.274068,
+                        57.130429
+                  ]
+            },
+            {
+                  "name": "Carnikavas kuģītis",
+                  "text": "Carnikavas kuģītis ist eine lokale Sehenswürdigkeit in Gauja River Mouth.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266488,
+                        57.13372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CNC Klēts zāle",
+                  "text": "A CNC Klēts zāle egy múzeum Gauja River Mouth városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.272842,
+                        57.134901
+                  ]
+            },
+            {
+                  "name": "Carnikavas Novadpētniecības centrs",
+                  "text": "A Carnikavas Novadpētniecības centrs egy múzeum Gauja River Mouth városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.271524,
+                        57.135451
+                  ]
+            },
+            {
+                  "name": "Dienvidu Garezers",
+                  "text": "A Dienvidu Garezers egy kilátópont Gauja River Mouth területén.",
+                  "category": "natural",
+                  "coords": [
+                        24.297596,
+                        57.162504
+                  ]
+            },
+            {
+                  "name": "Carnikavas muižas kapitelis",
+                  "text": "A Carnikava Manor Chapiter egy emlékmű Gauja River Mouth városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.274068,
+                        57.130429
+                  ]
+            },
+            {
+                  "name": "Carnikavas kuģītis",
+                  "text": "A Carnikavas kuģītis egy helyi látnivaló Gauja River Mouth területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266488,
+                        57.13372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CNC Klēts zāle",
+                  "text": "CNC Klēts zāle este un muzeu în Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.272842,
+                        57.134901
+                  ]
+            },
+            {
+                  "name": "Carnikavas Novadpētniecības centrs",
+                  "text": "Carnikavas Novadpētniecības centrs este un muzeu în Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.271524,
+                        57.135451
+                  ]
+            },
+            {
+                  "name": "Dienvidu Garezers",
+                  "text": "Dienvidu Garezers oferă un punct de belvedere în Gauja River Mouth.",
+                  "category": "natural",
+                  "coords": [
+                        24.297596,
+                        57.162504
+                  ]
+            },
+            {
+                  "name": "Carnikavas muižas kapitelis",
+                  "text": "Carnikava Manor Chapiter este un monument în Gauja River Mouth.",
+                  "category": "historical",
+                  "coords": [
+                        24.274068,
+                        57.130429
+                  ]
+            },
+            {
+                  "name": "Carnikavas kuģītis",
+                  "text": "Carnikavas kuģītis este o atracție locală în Gauja River Mouth.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266488,
+                        57.13372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CNC Klēts zāle",
+                  "text": "CNC Klēts zāle is a museum in Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.272842,
+                        57.134901
+                  ]
+            },
+            {
+                  "name": "Carnikavas Novadpētniecības centrs",
+                  "text": "Carnikavas Novadpētniecības centrs is a museum in Gauja River Mouth.",
+                  "category": "museum",
+                  "coords": [
+                        24.271524,
+                        57.135451
+                  ]
+            },
+            {
+                  "name": "Dienvidu Garezers",
+                  "text": "Dienvidu Garezers offers a viewpoint in Gauja River Mouth.",
+                  "category": "natural",
+                  "coords": [
+                        24.297596,
+                        57.162504
+                  ]
+            },
+            {
+                  "name": "Carnikava Manor Chapiter",
+                  "text": "Carnikava Manor Chapiter is a monument in Gauja River Mouth.",
+                  "category": "historical",
+                  "coords": [
+                        24.274068,
+                        57.130429
+                  ]
+            },
+            {
+                  "name": "Carnikavas kuģītis",
+                  "text": "Carnikavas kuģītis is a local attraction in Gauja River Mouth.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266488,
+                        57.13372
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Gauja Mündung", hu: "Gauja torkolata", ro: "Vărsarea râului Gauja", en: "Gauja River Mouth" },
@@ -570,7 +1047,196 @@ export const latviaNatureV2: POI[] = [
     image: "/poi-images/latvia-abavas-rumba-nature-v2.webp",
   },
   {
-    id: "latvia-engures-shore-nature-v2",
+    id: "latvia-engures-shore-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Angern",
+                  "text": "Ein kleiner Leuchtturm an der kurländischen Küste in Engure, Lettland.",
+                  "category": "landmark",
+                  "coords": [
+                        23.228769,
+                        57.166284
+                  ]
+            },
+            {
+                  "name": "Engures pilskalns",
+                  "text": "Eine historische Wallburg-Stätte in der Nähe der Küste von Engure.",
+                  "category": "historical",
+                  "coords": [
+                        23.228572,
+                        57.164974
+                  ]
+            },
+            {
+                  "name": "Engures promenādes pludmale",
+                  "text": "Ein Sandstrand mit einer Promenade im Dorf Engure an der Rigaer Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232175,
+                        57.159185
+                  ]
+            },
+            {
+                  "name": "Engures pludmale",
+                  "text": "Ein beliebter Badestrand an der lettischen Ostseeküste in Engure.",
+                  "category": "recreational",
+                  "coords": [
+                        23.22971,
+                        57.168208
+                  ]
+            },
+            {
+                  "name": "Abragciema pludmale",
+                  "text": "Ein ruhiger Strandabschnitt bei Abragciems an der kurländischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        23.207829,
+                        57.196774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Engures bāka",
+                  "text": "Kisméretű világítótorony a lettországi Engure tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        23.228769,
+                        57.166284
+                  ]
+            },
+            {
+                  "name": "Engures pilskalns",
+                  "text": "Történelmi várhely Engure tengerpartjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.228572,
+                        57.164974
+                  ]
+            },
+            {
+                  "name": "Engures promenādes pludmale",
+                  "text": "Homokos strand sétánnyal Engure faluban, a Rigai-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232175,
+                        57.159185
+                  ]
+            },
+            {
+                  "name": "Engures pludmale",
+                  "text": "Népszerű fürdőzőhely a lettországi Balti-tenger partján, Engure-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.22971,
+                        57.168208
+                  ]
+            },
+            {
+                  "name": "Abragciema pludmale",
+                  "text": "Nyugodt tengerparti szakasz Abragciems közelében, a kúr tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        23.207829,
+                        57.196774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Engures bāka",
+                  "text": "Un far de mici dimensiuni situat pe coasta din Engure, Letonia.",
+                  "category": "landmark",
+                  "coords": [
+                        23.228769,
+                        57.166284
+                  ]
+            },
+            {
+                  "name": "Engures pilskalns",
+                  "text": "Un sit arheologic al unei fortificații antice situat lângă coasta din Engure.",
+                  "category": "historical",
+                  "coords": [
+                        23.228572,
+                        57.164974
+                  ]
+            },
+            {
+                  "name": "Engures promenādes pludmale",
+                  "text": "O plajă cu nisip și o promenadă situată în satul Engure, la Golful Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232175,
+                        57.159185
+                  ]
+            },
+            {
+                  "name": "Engures pludmale",
+                  "text": "O plajă populară pe coasta letonă a Mării Baltice, în Engure.",
+                  "category": "recreational",
+                  "coords": [
+                        23.22971,
+                        57.168208
+                  ]
+            },
+            {
+                  "name": "Abragciema pludmale",
+                  "text": "O porțiune de plajă liniștită situată lângă Abragciems, pe coasta Letoniei.",
+                  "category": "recreational",
+                  "coords": [
+                        23.207829,
+                        57.196774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Engures bāka",
+                  "text": "A small lighthouse located on the coast in Engure, Latvia.",
+                  "category": "landmark",
+                  "coords": [
+                        23.228769,
+                        57.166284
+                  ]
+            },
+            {
+                  "name": "Engures pilskalns",
+                  "text": "An ancient hillfort archaeological site located near the Engure coastline.",
+                  "category": "historical",
+                  "coords": [
+                        23.228572,
+                        57.164974
+                  ]
+            },
+            {
+                  "name": "Engures promenādes pludmale",
+                  "text": "A sandy beach with a promenade located in the village of Engure on the Gulf of Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        23.232175,
+                        57.159185
+                  ]
+            },
+            {
+                  "name": "Engures pludmale",
+                  "text": "A popular swimming beach on the Latvian Baltic coast in Engure.",
+                  "category": "recreational",
+                  "coords": [
+                        23.22971,
+                        57.168208
+                  ]
+            },
+            {
+                  "name": "Abragciema pludmale",
+                  "text": "A quiet stretch of beach located near Abragciems on the Latvian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        23.207829,
+                        57.196774
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Engure Küstenstreifen", hu: "Engurei tengerpart", ro: "Litoralul Engure", en: "Engure Coastline" },
@@ -660,7 +1326,52 @@ export const latviaNatureV2: POI[] = [
     image: "/poi-images/latvia-mezotnes-park-nature-v2.webp",
   },
   {
-    id: "latvia-lubans-shore-nature-v2",
+    id: "latvia-lubans-shore-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Putnu tornis",
+                  "text": "Ein Aussichtsturm zur Vogelbeobachtung am Ufer des Lubāns-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        26.821438,
+                        56.790418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Putnu tornis",
+                  "text": "Madármegfigyelő torony és kilátó a Lubāns-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        26.821438,
+                        56.790418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Putnu tornis",
+                  "text": "Un turn de observare a păsărilor situat pe malul lacului Lubāns.",
+                  "category": "natural",
+                  "coords": [
+                        26.821438,
+                        56.790418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Putnu tornis",
+                  "text": "A birdwatching and observation tower on the shore of Lake Lubāns.",
+                  "category": "natural",
+                  "coords": [
+                        26.821438,
+                        56.790418
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LV",
     name: { de: "Lubans Uferzone", hu: "Lubans partvidék", ro: "Zona de coastă Lubans", en: "Lubans Shoreline" },

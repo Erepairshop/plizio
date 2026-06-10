@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const germanyReliefV2: POI[] = [
 
   {
-    id: "germany-wimbachgries-relief-v2",
+    id: "germany-wimbachgries-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark-Informationsstelle Hintersee \"Klausbachhaus\"",
+                  "text": "Informationsstelle des Nationalparks Berchtesgaden in einem historischen Forsthaus.",
+                  "category": "museum",
+                  "coords": [
+                        12.842265,
+                        47.598495
+                  ]
+            },
+            {
+                  "name": "Schärtenspitze",
+                  "text": "Ein markanter Berggipfel in den Berchtesgadener Alpen nahe Ramsau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.874682,
+                        47.5822
+                  ]
+            },
+            {
+                  "name": "Blaueisspitze",
+                  "text": "Ein Gipfel in den Berchtesgadener Alpen, bekannt für den angrenzenden Blaueisgletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        12.869405,
+                        47.572004
+                  ]
+            },
+            {
+                  "name": "Ofentalhörnl",
+                  "text": "Ein Bergipfel im Hochkalter-Massiv der Berchtesgadener Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.86142,
+                        47.562577
+                  ]
+            },
+            {
+                  "name": "Stanglahnerkopf",
+                  "text": "Ein Gipfel in den Berchtesgadener Alpen in Bayern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.890662,
+                        47.579569
+                  ]
+            },
+            {
+                  "name": "Rotpalfen",
+                  "text": "Ein Gipfel am Westgrat des Hochkalter-Massivs in den Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.862165,
+                        47.578634
+                  ]
+            },
+            {
+                  "name": "Hocheishörndl",
+                  "text": "Ein Berggipfel im Bereich der Berchtesgadener Alpen an der Grenze zu Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        12.831675,
+                        47.554639
+                  ]
+            },
+            {
+                  "name": "Zirbeneck",
+                  "text": "Ein kleinerer Gipfel oder Aussichtspunkt in den Berchtesgadener Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.895081,
+                        47.543208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nationalpark-Informationsstelle Hintersee \"Klausbachhaus\"",
+                  "text": "A Berchtesgadeni Nemzeti Park információs központja egy történelmi erdészházban.",
+                  "category": "museum",
+                  "coords": [
+                        12.842265,
+                        47.598495
+                  ]
+            },
+            {
+                  "name": "Schärtenspitze",
+                  "text": "Jellegzetes hegycsúcs a Berchtesgadeni-Alpokban, Ramsau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.874682,
+                        47.5822
+                  ]
+            },
+            {
+                  "name": "Blaueisspitze",
+                  "text": "Hegycsúcs a Berchtesgadeni-Alpokban, a mellette fekvő Blaueis-gleccserről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        12.869405,
+                        47.572004
+                  ]
+            },
+            {
+                  "name": "Ofentalhörnl",
+                  "text": "Hegycsúcs a Berchtesgadeni-Alpok Hochkalter-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.86142,
+                        47.562577
+                  ]
+            },
+            {
+                  "name": "Stanglahnerkopf",
+                  "text": "Hegycsúcs a bajorországi Berchtesgadeni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.890662,
+                        47.579569
+                  ]
+            },
+            {
+                  "name": "Rotpalfen",
+                  "text": "Hegycsúcs az Alpokban, a Hochkalter-masszívum nyugati gerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.862165,
+                        47.578634
+                  ]
+            },
+            {
+                  "name": "Hocheishörndl",
+                  "text": "Hegycsúcs a Berchtesgadeni-Alpok területén, az osztrák határnál.",
+                  "category": "landmark",
+                  "coords": [
+                        12.831675,
+                        47.554639
+                  ]
+            },
+            {
+                  "name": "Zirbeneck",
+                  "text": "Kisebb hegycsúcs vagy kilátópont a Berchtesgadeni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.895081,
+                        47.543208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nationalpark-Informationsstelle Hintersee \"Klausbachhaus\"",
+                  "text": "Punct de informare al Parcului Național Berchtesgaden, situat într-o casă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        12.842265,
+                        47.598495
+                  ]
+            },
+            {
+                  "name": "Schärtenspitze",
+                  "text": "Un vârf muntos proeminent din Alpii Berchtesgaden, lângă Ramsau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.874682,
+                        47.5822
+                  ]
+            },
+            {
+                  "name": "Blaueisspitze",
+                  "text": "Un vârf din Alpii Berchtesgaden, cunoscut pentru ghețarul Blaueis din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        12.869405,
+                        47.572004
+                  ]
+            },
+            {
+                  "name": "Ofentalhörnl",
+                  "text": "Un vârf muntos în masivul Hochkalter din Alpii Berchtesgaden.",
+                  "category": "landmark",
+                  "coords": [
+                        12.86142,
+                        47.562577
+                  ]
+            },
+            {
+                  "name": "Stanglahnerkopf",
+                  "text": "Un vârf muntos din Alpii Berchtesgaden, în Bavaria.",
+                  "category": "landmark",
+                  "coords": [
+                        12.890662,
+                        47.579569
+                  ]
+            },
+            {
+                  "name": "Rotpalfen",
+                  "text": "Un vârf muntos pe creasta vestică a masivului Hochkalter din Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.862165,
+                        47.578634
+                  ]
+            },
+            {
+                  "name": "Hocheishörndl",
+                  "text": "Un vârf muntos din zona Alpilor Berchtesgaden, la granița cu Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        12.831675,
+                        47.554639
+                  ]
+            },
+            {
+                  "name": "Zirbeneck",
+                  "text": "Un vârf secundar sau punct de belvedere din Alpii Berchtesgaden.",
+                  "category": "landmark",
+                  "coords": [
+                        12.895081,
+                        47.543208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nationalpark-Informationsstelle Hintersee \"Klausbachhaus\"",
+                  "text": "Information center of the Berchtesgaden National Park located in a historic forester's house.",
+                  "category": "museum",
+                  "coords": [
+                        12.842265,
+                        47.598495
+                  ]
+            },
+            {
+                  "name": "Schärtenspitze",
+                  "text": "A prominent mountain peak in the Berchtesgaden Alps near Ramsau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.874682,
+                        47.5822
+                  ]
+            },
+            {
+                  "name": "Blaueisspitze",
+                  "text": "A peak in the Berchtesgaden Alps, known for the adjacent Blaueis glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        12.869405,
+                        47.572004
+                  ]
+            },
+            {
+                  "name": "Ofentalhörnl",
+                  "text": "A mountain peak in the Hochkalter massif of the Berchtesgaden Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.86142,
+                        47.562577
+                  ]
+            },
+            {
+                  "name": "Stanglahnerkopf",
+                  "text": "A mountain peak in the Berchtesgaden Alps in Bavaria.",
+                  "category": "landmark",
+                  "coords": [
+                        12.890662,
+                        47.579569
+                  ]
+            },
+            {
+                  "name": "Rotpalfen",
+                  "text": "A peak on the western ridge of the Hochkalter massif in the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.862165,
+                        47.578634
+                  ]
+            },
+            {
+                  "name": "Hocheishörndl",
+                  "text": "A mountain peak in the Berchtesgaden Alps on the border with Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        12.831675,
+                        47.554639
+                  ]
+            },
+            {
+                  "name": "Zirbeneck",
+                  "text": "A smaller peak or viewpoint in the Berchtesgaden Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.895081,
+                        47.543208
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "DE",
     name: { de: "Wimbachgries", hu: "Wimbachgries", ro: "Wimbachgries", en: "Wimbachgries" },
@@ -52,7 +349,268 @@ export const germanyReliefV2: POI[] = [
     image: "/poi-images/germany-wimbachgries-relief-v2.webp",
   },
   {
-    id: "germany-feldberg-schwarzwald-relief-v2",
+    id: "germany-feldberg-schwarzwald-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Ein Informationszentrum im Schwarzwald, das über die ökologische Bedeutung des Feldbergs aufklärt.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Ein kleines Museum auf dem Feldberg, das sich der Herstellung des berühmten Schwarzwälder Schinkens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Ein 1460 Meter hoher Berggipfel im Schwarzwald, der Teil des Feldberg-Massivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Der dritthöchste Berg im Schwarzwald, bekannt für seine weiten Aussichten und Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Ein markanter Gipfel im Schwarzwald, der sich zwischen dem Feldberg und dem Schauinsland befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Ein Berggipfel im Schwarzwald, der ein beliebtes Ziel für Wanderer und Wintersportler ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Ein Gipfel im Hochschwarzwald, der malerische Wanderwege in der Nähe des Feldbergs bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Információs központ a Fekete-erdőben, amely a Feldberg ökológiai jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Egy kis múzeum a Feldbergen, amely a híres fekete-erdei sonka készítésének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "A Fekete-erdő 1460 méter magas hegycsúcsa, amely a Feldberg-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "A Fekete-erdő harmadik legmagasabb hegye, amely tágas kilátásairól és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "A Fekete-erdő egyik jellegzetes csúcsa, amely a Feldberg és a Schauinsland között helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Hegycsúcs a Fekete-erdőben, amely a túrázók és a téli sportok kedvelőinek népszerű célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Csúcs a Fekete-erdő magasabb részein, amely festői túraútvonalakat kínál a Feldberg közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "Un centru de informare din Pădurea Neagră care oferă detalii despre importanța ecologică a masivului Feldberg.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "Un mic muzeu pe Feldberg dedicat producției faimoasei șunci din Pădurea Neagră.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "Un vârf montan de 1460 de metri din Pădurea Neagră, parte a masivului Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "Al treilea munte ca înălțime din Pădurea Neagră, cunoscut pentru panoramele sale și traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "Un vârf proeminent din Pădurea Neagră, situat între Feldberg și Schauinsland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "Un vârf montan din Pădurea Neagră, fiind o destinație populară pentru drumeții și sporturi de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "Un vârf din Pădurea Neagră Superioară, care oferă trasee pitorești de drumeție în apropiere de Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haus der Natur",
+                  "text": "An information center in the Black Forest that educates visitors about the ecological importance of Feldberg.",
+                  "category": "museum",
+                  "coords": [
+                        8.034883,
+                        47.860202
+                  ]
+            },
+            {
+                  "name": "Schinkenmuseum",
+                  "text": "A small museum on the Feldberg dedicated to the production of the famous Black Forest ham.",
+                  "category": "museum",
+                  "coords": [
+                        8.022145,
+                        47.864476
+                  ]
+            },
+            {
+                  "name": "Baldenweger Buck",
+                  "text": "A 1460-meter-high mountain peak in the Black Forest, part of the Feldberg massif.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014749,
+                        47.877169
+                  ]
+            },
+            {
+                  "name": "Stübenwasen",
+                  "text": "The third highest mountain in the Black Forest, known for its expansive views and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        7.971566,
+                        47.867402
+                  ]
+            },
+            {
+                  "name": "Toter Mann",
+                  "text": "A prominent peak in the Black Forest located between the Feldberg and the Schauinsland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.990247,
+                        47.892138
+                  ]
+            },
+            {
+                  "name": "Grafenmatt",
+                  "text": "A mountain peak in the Black Forest that is a popular destination for hikers and winter sports enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        8.020433,
+                        47.847871
+                  ]
+            },
+            {
+                  "name": "Immisberg",
+                  "text": "A peak in the High Black Forest offering scenic hiking trails near the Feldberg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.995654,
+                        47.87922
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE",
     name: { de: "Feldberg", hu: "Feldberg", ro: "Feldberg", en: "Feldberg" },
@@ -395,7 +953,268 @@ export const germanyReliefV2: POI[] = [
     image: "/poi-images/germany-hoher-meissner-relief-v2.webp",
   },
   {
-    id: "germany-fichtelgebirge-relief-v2",
+    id: "germany-fichtelgebirge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgstall Rudolfstein",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage auf einem Felsen im Fichtelgebirge.",
+                  "category": "historical",
+                  "coords": [
+                        11.876868,
+                        50.072028
+                  ]
+            },
+            {
+                  "name": "Schneeberggipfel",
+                  "text": "Das Gipfelplateau des Schneebergs, des höchsten Berges im Fichtelgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        11.854738,
+                        50.050713
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Ein öffentliches Schwimmbad und Freizeitzentrum für Besucher im Fichtelgebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        11.789436,
+                        50.044923
+                  ]
+            },
+            {
+                  "name": "Asenturm",
+                  "text": "Ein Aussichtsturm auf dem Ochsenkopf, der einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.809466,
+                        50.03097
+                  ]
+            },
+            {
+                  "name": "Schneeberg",
+                  "text": "Der Schneeberg ist mit 1051 Metern der höchste Berg im Fichtelgebirge in Bayern.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853419,
+                        50.052465
+                  ]
+            },
+            {
+                  "name": "Haberstein",
+                  "text": "Der Haberstein ist ein markanter Granitfelsen am Hang des Schneebergs im Fichtelgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.844353,
+                        50.046166
+                  ]
+            },
+            {
+                  "name": "Seehügel",
+                  "text": "Der Seehügel ist ein bewaldeter Berggipfel im bayerischen Fichtelgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875358,
+                        50.031554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgstall Rudolfstein",
+                  "text": "Egy középkori vár maradványai a Fichtel-hegység egyik szikláján.",
+                  "category": "historical",
+                  "coords": [
+                        11.876868,
+                        50.072028
+                  ]
+            },
+            {
+                  "name": "Schneeberggipfel",
+                  "text": "A Schneeberg csúcsplatója, amely a Fichtel-hegység legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        11.854738,
+                        50.050713
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Nyilvános uszoda és szabadidőközpont a Fichtel-hegység látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        11.789436,
+                        50.044923
+                  ]
+            },
+            {
+                  "name": "Asenturm",
+                  "text": "Kilátótorony az Ochsenkopf-hegyen, ahonnan messzire el lehet látni a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        11.809466,
+                        50.03097
+                  ]
+            },
+            {
+                  "name": "Schneeberg",
+                  "text": "A Schneeberg 1051 méteres magasságával a bajorországi Fichtel-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853419,
+                        50.052465
+                  ]
+            },
+            {
+                  "name": "Haberstein",
+                  "text": "A Haberstein egy jellegzetes gránitszikla a Schneeberg lejtőjén, a Fichtel-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.844353,
+                        50.046166
+                  ]
+            },
+            {
+                  "name": "Seehügel",
+                  "text": "A Seehügel egy erdővel borított hegycsúcs a bajorországi Fichtel-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875358,
+                        50.031554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgstall Rudolfstein",
+                  "text": "Rămășițele unei cetăți medievale pe o stâncă din munții Fichtel.",
+                  "category": "historical",
+                  "coords": [
+                        11.876868,
+                        50.072028
+                  ]
+            },
+            {
+                  "name": "Schneeberggipfel",
+                  "text": "Platoul de vârf al Schneeberg, cel mai înalt munte din munții Fichtel.",
+                  "category": "natural",
+                  "coords": [
+                        11.854738,
+                        50.050713
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "O piscină publică și centru de agrement pentru vizitatorii din munții Fichtel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.789436,
+                        50.044923
+                  ]
+            },
+            {
+                  "name": "Asenturm",
+                  "text": "Un turn de observație pe muntele Ochsenkopf, oferind o vedere vastă asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        11.809466,
+                        50.03097
+                  ]
+            },
+            {
+                  "name": "Schneeberg",
+                  "text": "Schneeberg este cel mai înalt vârf din munții Fichtelgebirge din Bavaria, având o înălțime de 1051 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853419,
+                        50.052465
+                  ]
+            },
+            {
+                  "name": "Haberstein",
+                  "text": "Haberstein este o formațiune de granit proeminentă pe versantul muntelui Schneeberg din Fichtelgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        11.844353,
+                        50.046166
+                  ]
+            },
+            {
+                  "name": "Seehügel",
+                  "text": "Seehügel este un vârf montan împădurit situat în munții Fichtelgebirge din Bavaria.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875358,
+                        50.031554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgstall Rudolfstein",
+                  "text": "The remains of a medieval castle on a rock in the Fichtel Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        11.876868,
+                        50.072028
+                  ]
+            },
+            {
+                  "name": "Schneeberggipfel",
+                  "text": "The summit plateau of Schneeberg, the highest mountain in the Fichtel Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        11.854738,
+                        50.050713
+                  ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "A public swimming pool and leisure center for visitors in the Fichtel Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        11.789436,
+                        50.044923
+                  ]
+            },
+            {
+                  "name": "Asenturm",
+                  "text": "An observation tower on Mount Ochsenkopf, offering extensive views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        11.809466,
+                        50.03097
+                  ]
+            },
+            {
+                  "name": "Schneeberg",
+                  "text": "The Schneeberg is the highest peak of the Fichtel Mountains in Bavaria, reaching an elevation of 1,051 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        11.853419,
+                        50.052465
+                  ]
+            },
+            {
+                  "name": "Haberstein",
+                  "text": "The Haberstein is a prominent granite rock formation located on the slopes of the Schneeberg in the Fichtel Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        11.844353,
+                        50.046166
+                  ]
+            },
+            {
+                  "name": "Seehügel",
+                  "text": "The Seehügel is a forested mountain peak located in the Fichtel Mountains of Bavaria.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875358,
+                        50.031554
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE",
     name: { de: "Fichtelgebirge", hu: "Fichtel-hegység", ro: "Munții Fichtel", en: "Fichtel Mountains" },
@@ -493,7 +1312,304 @@ export const germanyReliefV2: POI[] = [
     image: "/poi-images/germany-teutoburger-wald-dorenther-klippen-relief-v2.webp",
   },
   {
-    id: "germany-schwarzwald-hochstrasse-relief-v2",
+    id: "germany-schwarzwald-hochstrasse-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gottschlägtal - Karlsruher Grat",
+                  "text": "Ein malerisches Naturschutzgebiet im Schwarzwald mit einem markanten Felsgrat.",
+                  "category": "natural",
+                  "coords": [
+                        8.185022,
+                        48.559843
+                  ]
+            },
+            {
+                  "name": "Wilder See - Hornisgrinde",
+                  "text": "Ein Naturschutzgebiet, das den Wilden See und die Hornisgrinde umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        8.221498,
+                        48.586616
+                  ]
+            },
+            {
+                  "name": "Nationalparkzentrum",
+                  "text": "Das Besucherzentrum des Nationalparks Schwarzwald mit interaktiven Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        8.223089,
+                        48.560661
+                  ]
+            },
+            {
+                  "name": "Schliffkopf",
+                  "text": "Ein markanter Gipfel und Aussichtspunkt an der Schwarzwaldhochstraße mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        8.21519,
+                        48.535347
+                  ]
+            },
+            {
+                  "name": "Vogelskopf",
+                  "text": "Ein Berggipfel im Nordschwarzwald.",
+                  "category": "landmark",
+                  "coords": [
+                        8.212708,
+                        48.558232
+                  ]
+            },
+            {
+                  "name": "Melkereikopf",
+                  "text": "Ein Gipfel im Schwarzwald, bekannt für seine natürliche Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        8.200736,
+                        48.556108
+                  ]
+            },
+            {
+                  "name": "Altsteigerskopf",
+                  "text": "Ein Berggipfel an der malerischen Schwarzwaldhochstraße.",
+                  "category": "landmark",
+                  "coords": [
+                        8.226609,
+                        48.578472
+                  ]
+            },
+            {
+                  "name": "Schwarzkopf",
+                  "text": "Einer der Gipfel im Schwarzwaldgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        8.2203,
+                        48.590729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gottschlägtal - Karlsruher Grat",
+                  "text": "Festői természetvédelmi terület a Fekete-erdőben, kiemelkedő sziklás gerinccel.",
+                  "category": "natural",
+                  "coords": [
+                        8.185022,
+                        48.559843
+                  ]
+            },
+            {
+                  "name": "Wilder See - Hornisgrinde",
+                  "text": "Természetvédelmi terület, amely magában foglalja a Wilder See tavat és a Hornisgrinde-hegyet.",
+                  "category": "natural",
+                  "coords": [
+                        8.221498,
+                        48.586616
+                  ]
+            },
+            {
+                  "name": "Nationalparkzentrum",
+                  "text": "A Fekete-erdő Nemzeti Park látogatóközpontja, interaktív kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        8.223089,
+                        48.560661
+                  ]
+            },
+            {
+                  "name": "Schliffkopf",
+                  "text": "Kiemelkedő csúcs és kilátópont a Fekete-erdő magasúti panorámájával.",
+                  "category": "natural",
+                  "coords": [
+                        8.21519,
+                        48.535347
+                  ]
+            },
+            {
+                  "name": "Vogelskopf",
+                  "text": "Hegycsúcs az északi Fekete-erdő régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.212708,
+                        48.558232
+                  ]
+            },
+            {
+                  "name": "Melkereikopf",
+                  "text": "A Fekete-erdő egyik csúcsa, amely természeti környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.200736,
+                        48.556108
+                  ]
+            },
+            {
+                  "name": "Altsteigerskopf",
+                  "text": "Hegycsúcs a festői Fekete-erdő magasútja mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.226609,
+                        48.578472
+                  ]
+            },
+            {
+                  "name": "Schwarzkopf",
+                  "text": "A Fekete-erdő hegység egyik csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.2203,
+                        48.590729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gottschlägtal - Karlsruher Grat",
+                  "text": "O rezervație naturală pitorească în Pădurea Neagră, cu o creastă stâncoasă proeminentă.",
+                  "category": "natural",
+                  "coords": [
+                        8.185022,
+                        48.559843
+                  ]
+            },
+            {
+                  "name": "Wilder See - Hornisgrinde",
+                  "text": "O rezervație naturală care cuprinde lacul Wilder See și muntele Hornisgrinde.",
+                  "category": "natural",
+                  "coords": [
+                        8.221498,
+                        48.586616
+                  ]
+            },
+            {
+                  "name": "Nationalparkzentrum",
+                  "text": "Centrul pentru vizitatori al Parcului Național Pădurea Neagră, care oferă expoziții interactive.",
+                  "category": "museum",
+                  "coords": [
+                        8.223089,
+                        48.560661
+                  ]
+            },
+            {
+                  "name": "Schliffkopf",
+                  "text": "Un vârf proeminent și un punct de belvedere de-a lungul șoselei Black Forest High Road, oferind vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        8.21519,
+                        48.535347
+                  ]
+            },
+            {
+                  "name": "Vogelskopf",
+                  "text": "Un vârf montan situat în regiunea de nord a Pădurii Negre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.212708,
+                        48.558232
+                  ]
+            },
+            {
+                  "name": "Melkereikopf",
+                  "text": "Un vârf din Pădurea Neagră, cunoscut pentru mediul său natural.",
+                  "category": "landmark",
+                  "coords": [
+                        8.200736,
+                        48.556108
+                  ]
+            },
+            {
+                  "name": "Altsteigerskopf",
+                  "text": "Un vârf muntos situat de-a lungul pitoreștii șosele Black Forest High Road.",
+                  "category": "landmark",
+                  "coords": [
+                        8.226609,
+                        48.578472
+                  ]
+            },
+            {
+                  "name": "Schwarzkopf",
+                  "text": "Unul dintre vârfurile din lanțul muntos Pădurea Neagră.",
+                  "category": "landmark",
+                  "coords": [
+                        8.2203,
+                        48.590729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gottschlägtal - Karlsruher Grat",
+                  "text": "A scenic nature reserve in the Black Forest featuring a prominent rocky ridge.",
+                  "category": "natural",
+                  "coords": [
+                        8.185022,
+                        48.559843
+                  ]
+            },
+            {
+                  "name": "Wilder See - Hornisgrinde",
+                  "text": "A nature reserve encompassing the Wilder See lake and the Hornisgrinde mountain.",
+                  "category": "natural",
+                  "coords": [
+                        8.221498,
+                        48.586616
+                  ]
+            },
+            {
+                  "name": "Nationalparkzentrum",
+                  "text": "The visitor center for the Black Forest National Park, offering interactive exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        8.223089,
+                        48.560661
+                  ]
+            },
+            {
+                  "name": "Schliffkopf",
+                  "text": "A prominent peak and viewpoint along the Black Forest High Road offering panoramic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        8.21519,
+                        48.535347
+                  ]
+            },
+            {
+                  "name": "Vogelskopf",
+                  "text": "A mountain peak located in the Northern Black Forest region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.212708,
+                        48.558232
+                  ]
+            },
+            {
+                  "name": "Melkereikopf",
+                  "text": "A summit in the Black Forest known for its natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        8.200736,
+                        48.556108
+                  ]
+            },
+            {
+                  "name": "Altsteigerskopf",
+                  "text": "A mountain peak situated along the scenic Black Forest High Road.",
+                  "category": "landmark",
+                  "coords": [
+                        8.226609,
+                        48.578472
+                  ]
+            },
+            {
+                  "name": "Schwarzkopf",
+                  "text": "One of the peaks in the Black Forest mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        8.2203,
+                        48.590729
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE",
     name: { de: "Schwarzwaldhochstraße", hu: "Schwarzwaldhochstraße", ro: "Schwarzwaldhochstraße", en: "Black Forest High Road" },
@@ -591,7 +1707,304 @@ export const germanyReliefV2: POI[] = [
     image: "/poi-images/germany-eifel-vulkaneifel-relief-v2.webp",
   },
   {
-    id: "germany-hoher-westerwald-relief-v2",
+    id: "germany-hoher-westerwald-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wacholderheide Westernohe",
+                  "text": "Ein Naturschutzgebiet mit einer seltenen Wacholderheide im Hohen Westerwald.",
+                  "category": "natural",
+                  "coords": [
+                        8.110426,
+                        50.606805
+                  ]
+            },
+            {
+                  "name": "Liegewiese Secker Weiher",
+                  "text": "Eine Liegewiese am Secker Weiher, die im Sommer zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.032842,
+                        50.58655
+                  ]
+            },
+            {
+                  "name": "Badestrand",
+                  "text": "Ein Badestrand im Hohen Westerwald für sommerliche Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.124833,
+                        50.619491
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Eine lokale Kultureinrichtung für Theateraufführungen im Hohen Westerwald.",
+                  "category": "cultural",
+                  "coords": [
+                        8.113987,
+                        50.5963
+                  ]
+            },
+            {
+                  "name": "Seitenstein",
+                  "text": "Eine markante Basaltfelsformation und Aussichtspunkt im Hohen Westerwald.",
+                  "category": "landmark",
+                  "coords": [
+                        8.042606,
+                        50.601724
+                  ]
+            },
+            {
+                  "name": "Kirnberg",
+                  "text": "Ein Berg im Hohen Westerwald, der typisch für die lokale Mittelgebirgslandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.045419,
+                        50.581753
+                  ]
+            },
+            {
+                  "name": "Böhlen",
+                  "text": "Eine Erhebung im Hohen Westerwald, die Wanderer durch ihre Natur anspricht.",
+                  "category": "landmark",
+                  "coords": [
+                        8.052331,
+                        50.608624
+                  ]
+            },
+            {
+                  "name": "Klosterruine Selingenstatt",
+                  "text": "Die Ruinen eines ehemaligen Klosters, die heute als historisches Denkmal dienen.",
+                  "category": "historical",
+                  "coords": [
+                        8.041701,
+                        50.581917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wacholderheide Westernohe",
+                  "text": "Ritka borókás fenyér természetvédelmi terület a Magas-Westerwaldban.",
+                  "category": "natural",
+                  "coords": [
+                        8.110426,
+                        50.606805
+                  ]
+            },
+            {
+                  "name": "Liegewiese Secker Weiher",
+                  "text": "Pihenőhely és napozórét a Secker Weiher tónál, amely nyáron népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        8.032842,
+                        50.58655
+                  ]
+            },
+            {
+                  "name": "Badestrand",
+                  "text": "Fürdőstrand a Magas-Westerwaldban a nyári szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.124833,
+                        50.619491
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Helyi kulturális intézmény színházi előadásokhoz a Magas-Westerwaldban.",
+                  "category": "cultural",
+                  "coords": [
+                        8.113987,
+                        50.5963
+                  ]
+            },
+            {
+                  "name": "Seitenstein",
+                  "text": "Jellegzetes bazaltszikla-formáció és kilátóhely a Magas-Westerwaldban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.042606,
+                        50.601724
+                  ]
+            },
+            {
+                  "name": "Kirnberg",
+                  "text": "Hegy a Magas-Westerwaldban, amely a helyi középhegységi táj jellemzője.",
+                  "category": "landmark",
+                  "coords": [
+                        8.045419,
+                        50.581753
+                  ]
+            },
+            {
+                  "name": "Böhlen",
+                  "text": "Magaslat a Magas-Westerwaldban, amely természeti értékeivel vonzza a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        8.052331,
+                        50.608624
+                  ]
+            },
+            {
+                  "name": "Klosterruine Selingenstatt",
+                  "text": "Egy egykori kolostor romjai, amelyek ma történelmi emlékhelyként szolgálnak.",
+                  "category": "historical",
+                  "coords": [
+                        8.041701,
+                        50.581917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wacholderheide Westernohe",
+                  "text": "O rezervație naturală cu o rară pajiște de ienupăr în Westerwaldul Înalt.",
+                  "category": "natural",
+                  "coords": [
+                        8.110426,
+                        50.606805
+                  ]
+            },
+            {
+                  "name": "Liegewiese Secker Weiher",
+                  "text": "O zonă de plajă la Secker Weiher, care invită la relaxare în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        8.032842,
+                        50.58655
+                  ]
+            },
+            {
+                  "name": "Badestrand",
+                  "text": "O plajă pentru scăldat în Westerwaldul Înalt, potrivită pentru activități de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        8.124833,
+                        50.619491
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "O instituție culturală locală pentru spectacole de teatru în Westerwaldul Înalt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.113987,
+                        50.5963
+                  ]
+            },
+            {
+                  "name": "Seitenstein",
+                  "text": "O formațiune stâncoasă de bazalt distinctivă și punct de belvedere în Westerwaldul Înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.042606,
+                        50.601724
+                  ]
+            },
+            {
+                  "name": "Kirnberg",
+                  "text": "Un munte din Westerwaldul Înalt, tipic pentru peisajul montan local.",
+                  "category": "landmark",
+                  "coords": [
+                        8.045419,
+                        50.581753
+                  ]
+            },
+            {
+                  "name": "Böhlen",
+                  "text": "O colină în Westerwaldul Înalt, care atrage drumeții prin natura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.052331,
+                        50.608624
+                  ]
+            },
+            {
+                  "name": "Klosterruine Selingenstatt",
+                  "text": "Ruinele unei foste mănăstiri, care servesc astăzi ca monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        8.041701,
+                        50.581917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wacholderheide Westernohe",
+                  "text": "A nature reserve featuring a rare juniper heath in the High Westerwald.",
+                  "category": "natural",
+                  "coords": [
+                        8.110426,
+                        50.606805
+                  ]
+            },
+            {
+                  "name": "Liegewiese Secker Weiher",
+                  "text": "A sunbathing lawn at the Secker Weiher pond, popular for summer relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.032842,
+                        50.58655
+                  ]
+            },
+            {
+                  "name": "Badestrand",
+                  "text": "A bathing beach in the High Westerwald for summer leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.124833,
+                        50.619491
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "A local cultural venue for theatrical performances in the High Westerwald.",
+                  "category": "cultural",
+                  "coords": [
+                        8.113987,
+                        50.5963
+                  ]
+            },
+            {
+                  "name": "Seitenstein",
+                  "text": "A distinctive basalt rock formation and viewpoint in the High Westerwald.",
+                  "category": "landmark",
+                  "coords": [
+                        8.042606,
+                        50.601724
+                  ]
+            },
+            {
+                  "name": "Kirnberg",
+                  "text": "A hill in the High Westerwald, typical of the local low mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.045419,
+                        50.581753
+                  ]
+            },
+            {
+                  "name": "Böhlen",
+                  "text": "An elevation in the High Westerwald, appealing to hikers through its nature.",
+                  "category": "landmark",
+                  "coords": [
+                        8.052331,
+                        50.608624
+                  ]
+            },
+            {
+                  "name": "Klosterruine Selingenstatt",
+                  "text": "The ruins of a former monastery, which now serve as a historical monument.",
+                  "category": "historical",
+                  "coords": [
+                        8.041701,
+                        50.581917
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DE",
     name: { de: "Hoher Westerwald", hu: "Hoher Westerwald", ro: "Hoher Westerwald", en: "High Westerwald" },

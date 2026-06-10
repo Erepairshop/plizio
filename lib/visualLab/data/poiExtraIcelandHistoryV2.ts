@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const icelandHistoryV2: POI[] = [
 
   {
-    id: "iceland-thingvellir-history-v2",
+    id: "iceland-thingvellir-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "Eine Ausstellung im Nationalpark Þingvellir, die die geologische und historische Bedeutung des isländischen Herzstücks beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Eine archäologische Fundstätte im Þingvellir-Nationalpark mit Überresten historischer Siedlungsstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Historische Felsformationen im Þingvellir-Nationalpark, die mit der frühen isländischen Rechtsgeschichte verbunden sind.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Überreste eines alten Gehöfts im Þingvellir-Nationalpark, die Einblicke in die frühe Besiedlung bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Eine archäologische Stätte im Þingvellir-Nationalpark, die Fundamente ehemaliger Torfhäuser bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Archäologische Überreste einer älteren Amtmanns-Residenz innerhalb des historischen Gebiets von Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "Kiállítás a Þingvellir Nemzeti Parkban, amely Izland szívének földtani és történelmi jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Régészeti lelőhely a Þingvellir Nemzeti Parkban, történelmi településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Történelmi sziklaalakzatok a Þingvellir Nemzeti Parkban, amelyek a korai izlandi jogtörténethez kapcsolódnak.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Egy régi tanya maradványai a Þingvellir Nemzeti Parkban, amelyek bepillantást engednek a korai betelepülésbe.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Régészeti lelőhely a Þingvellir Nemzeti Parkban, amely egykori tőzegházak alapjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Egy régebbi kormányzói rezidencia régészeti maradványai Þingvellir történelmi területén.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þingvellir: Hjarta lands og þjóðar",
+                  "text": "O expoziție din Parcul Național Þingvellir care prezintă importanța geologică și istorică a inimii Islandei.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "Un sit arheologic în Parcul Național Þingvellir, conținând vestigii ale unor structuri istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Formațiuni stâncoase istorice din Parcul Național Þingvellir, legate de istoria juridică timpurie a Islandei.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Vestigiile unei vechi ferme din Parcul Național Þingvellir, oferind perspective asupra colonizării timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "Un sit arheologic din Parcul Național Þingvellir care păstrează fundațiile unor foste case de turbă.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Vestigii arheologice ale unei vechi reședințe administrative în zona istorică Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Þingvellir Exhibition: Heart of Iceland",
+                  "text": "An exhibition in Þingvellir National Park highlighting the geological and historical significance of Iceland's heart.",
+                  "category": "museum",
+                  "coords": [
+                        -21.129832,
+                        64.256132
+                  ]
+            },
+            {
+                  "name": "Biskupshólar",
+                  "text": "An archaeological site in Þingvellir National Park featuring remains of historical structures.",
+                  "category": "historical",
+                  "coords": [
+                        -21.121481,
+                        64.257654
+                  ]
+            },
+            {
+                  "name": "Gálgaklettar",
+                  "text": "Historical rock formations in Þingvellir National Park linked to early Icelandic legal history.",
+                  "category": "historical",
+                  "coords": [
+                        -21.113106,
+                        64.268812
+                  ]
+            },
+            {
+                  "name": "Þórhallsstaðir",
+                  "text": "Remains of an old farmstead in Þingvellir National Park, providing insight into early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -21.060919,
+                        64.259273
+                  ]
+            },
+            {
+                  "name": "Bárukot",
+                  "text": "An archaeological site in Þingvellir National Park preserving the foundations of former turf houses.",
+                  "category": "historical",
+                  "coords": [
+                        -21.122547,
+                        64.284127
+                  ]
+            },
+            {
+                  "name": "Amtmannsbúð eldri",
+                  "text": "Archaeological remains of an older official's residence within the historical area of Þingvellir.",
+                  "category": "historical",
+                  "coords": [
+                        -21.123466,
+                        64.257614
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Þingvellir", hu: "Þingvellir", ro: "Þingvellir", en: "Þingvellir"},
@@ -49,7 +274,124 @@ imageHint: "Thingvellir national park assembly site Iceland",
     },
     image: "/poi-images/iceland-thingvellir-history-v2.webp",
 },  {
-    id: "iceland-skalholt-history-v2",
+    id: "iceland-skalholt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slakki",
+                  "text": "Ein kleiner Streichelzoo für Familien in der Nähe von Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Ruinen in Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Eine ländliche Kirche in der Region Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slakki",
+                  "text": "Kicsi állatsimogató családoknak Skálholt közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Régészeti ásatási terület romokkal Skálholtban.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Vidéki templom Skálholt régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slakki",
+                  "text": "O mică grădină zoologică pentru familii lângă Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Un sit arheologic cu ruine situat în Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "O biserică rurală în regiunea Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slakki",
+                  "text": "A small petting zoo for families located near Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "An archaeological excavation site with ruins in Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "A rural church in the Skálholt region.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "cathedral",
     name: { de: "Skálholt", hu: "Skálholt", ro: "Skálholt", en: "Skálholt"},
@@ -95,7 +437,88 @@ imageHint: "Skalholt cathedral historic site Iceland",
     },
     image: "/poi-images/iceland-skalholt-history-v2.webp",
 },  {
-    id: "iceland-holar-history-v2",
+    id: "iceland-holar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nýibær",
+                  "text": "Ein traditionelles isländisches Torfhausmuseum in Hólar.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Rekonstruktion eines mittelalterlichen Holzgebäudes in Hólar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nýibær",
+                  "text": "Tradicionális izlandi gyepház-múzeum Hólarban.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Egy középkori faház rekonstrukciója Hólarban.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nýibær",
+                  "text": "Un muzeu tradițional islandez amenajat într-o casă de turbă în Hólar.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Reconstrucția unei clădiri medievale din bârne în Hólar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nýibær",
+                  "text": "A traditional Icelandic turf house museum in Hólar.",
+                  "category": "museum",
+                  "coords": [
+                        -19.111012,
+                        65.733205
+                  ]
+            },
+            {
+                  "name": "Auðunarstofa",
+                  "text": "Reconstruction of a medieval timber building in Hólar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.114276,
+                        65.734213
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "cathedral",
     name: { de: "Hólar í Hjaltadal", hu: "Hólar í Hjaltadal", ro: "Hólar í Hjaltadal", en: "Hólar í Hjaltadal"},
@@ -141,7 +564,88 @@ imageHint: "Holar cathedral and university Iceland",
     },
     image: "/poi-images/iceland-holar-history-v2.webp",
 },  {
-    id: "iceland-reykholt-history-v2",
+    id: "iceland-reykholt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snorrastofa",
+                  "text": "Ein Forschungszentrum und Museum in Reykholt, das Snorri Sturluson gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -21.29339,
+                        64.664708
+                  ]
+            },
+            {
+                  "name": "Snorralaug",
+                  "text": "Ein historisches Thermalbad in Reykholt, das mit dem Dichter Snorri Sturluson verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.291223,
+                        64.663994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snorrastofa",
+                  "text": "Snorri Sturlusonnak szentelt kutatóközpont és múzeum Reykholtban.",
+                  "category": "museum",
+                  "coords": [
+                        -21.29339,
+                        64.664708
+                  ]
+            },
+            {
+                  "name": "Snorralaug",
+                  "text": "Egy történelmi termálfürdő Reykholtban, amely Snorri Sturluson költőhöz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.291223,
+                        64.663994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snorrastofa",
+                  "text": "Un centru de cercetare și muzeu în Reykholt, dedicat lui Snorri Sturluson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.29339,
+                        64.664708
+                  ]
+            },
+            {
+                  "name": "Snorralaug",
+                  "text": "O baie termală istorică din Reykholt, legată de poetul Snorri Sturluson.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.291223,
+                        64.663994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snorrastofa",
+                  "text": "A research center and museum in Reykholt dedicated to Snorri Sturluson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.29339,
+                        64.664708
+                  ]
+            },
+            {
+                  "name": "Snorralaug",
+                  "text": "A historic thermal pool in Reykholt associated with the poet Snorri Sturluson.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.291223,
+                        64.663994
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt"},
@@ -371,7 +875,52 @@ imageHint: "Keldur turf farm South Iceland",
     },
     image: "/poi-images/iceland-keldur-history-v2.webp",
 },  {
-    id: "iceland-laufas-history-v2",
+    id: "iceland-laufas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "Ein historischer Bauernhof mit traditionellen isländischen Torfhäusern.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "Történelmi gazdaság hagyományos izlandi tőzegtetős házakkal.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gamli bærinn Laufás",
+                  "text": "O fermă istorică cu case tradiționale islandeze din turbă.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Turfhouse Laufás",
+                  "text": "A historical farmstead featuring traditional Icelandic turf houses.",
+                  "category": "museum",
+                  "coords": [
+                        -18.071837,
+                        65.893745
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "museum",
     name: { de: "Laufás", hu: "Laufás", ro: "Laufás", en: "Laufás"},
@@ -463,7 +1012,124 @@ imageHint: "Glaumbaer turf farm museum Iceland",
     },
     image: "/poi-images/iceland-glaumbaer-history-v2.webp",
 },  {
-    id: "iceland-vidimyrarkirkja-history-v2",
+    id: "iceland-vidimyrarkirkja-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Náttúrugripasafn Skagafjarðar",
+                  "text": "Ein Naturkundemuseum in Island, das die Flora und Fauna der Region Skagafjörður präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -19.451152,
+                        65.552524
+                  ]
+            },
+            {
+                  "name": "Stephan G. Stephansson",
+                  "text": "Ein Denkmal zu Ehren des isländisch-kanadischen Dichters Stephan G. Stephansson.",
+                  "category": "historical",
+                  "coords": [
+                        -19.516818,
+                        65.529679
+                  ]
+            },
+            {
+                  "name": "Víðimýrarkirkja",
+                  "text": "Eine der wenigen erhaltenen historischen Torfkirchen Islands.",
+                  "category": "religious",
+                  "coords": [
+                        -19.47037,
+                        65.538798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Náttúrugripasafn Skagafjarðar",
+                  "text": "Izlandi természettudományi múzeum, amely a Skagafjörður régió élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -19.451152,
+                        65.552524
+                  ]
+            },
+            {
+                  "name": "Stephan G. Stephansson",
+                  "text": "Emlékmű Stephan G. Stephansson izlandi-kanadai költő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -19.516818,
+                        65.529679
+                  ]
+            },
+            {
+                  "name": "Víðimýrarkirkja",
+                  "text": "Izland kevés fennmaradt történelmi gyeptemplomának egyike.",
+                  "category": "religious",
+                  "coords": [
+                        -19.47037,
+                        65.538798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Náttúrugripasafn Skagafjarðar",
+                  "text": "Un muzeu de istorie naturală din Islanda ce prezintă flora și fauna regiunii Skagafjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -19.451152,
+                        65.552524
+                  ]
+            },
+            {
+                  "name": "Stephan G. Stephansson",
+                  "text": "Un monument ridicat în onoarea poetului islando-canadian Stephan G. Stephansson.",
+                  "category": "historical",
+                  "coords": [
+                        -19.516818,
+                        65.529679
+                  ]
+            },
+            {
+                  "name": "Víðimýrarkirkja",
+                  "text": "Una dintre puținele biserici istorice de turbă care s-au păstrat în Islanda.",
+                  "category": "religious",
+                  "coords": [
+                        -19.47037,
+                        65.538798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Náttúrugripasafn Skagafjarðar",
+                  "text": "A natural history museum in Iceland showcasing the flora and fauna of the Skagafjörður region.",
+                  "category": "museum",
+                  "coords": [
+                        -19.451152,
+                        65.552524
+                  ]
+            },
+            {
+                  "name": "Stephan G. Stephansson",
+                  "text": "A monument dedicated to the Icelandic-Canadian poet Stephan G. Stephansson.",
+                  "category": "historical",
+                  "coords": [
+                        -19.516818,
+                        65.529679
+                  ]
+            },
+            {
+                  "name": "Víðimýrarkirkja",
+                  "text": "One of the few remaining historic turf churches in Iceland.",
+                  "category": "religious",
+                  "coords": [
+                        -19.47037,
+                        65.538798
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "church",
     name: { de: "Víðimýrarkirkja", hu: "Víðimýrarkirkja", ro: "Víðimýrarkirkja", en: "Víðimýrarkirkja"},
@@ -509,7 +1175,52 @@ imageHint: "Vidimyrarkirkja turf church Iceland",
     },
     image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp",
 },  {
-    id: "iceland-thingeyrar-history-v2",
+    id: "iceland-thingeyrar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Þingeyrarkirkja",
+                  "text": "Eine historische Steinkirche in Island, bekannt für ihre einzigartige Architektur und malerische Lage.",
+                  "category": "religious",
+                  "coords": [
+                        -20.404312,
+                        65.554466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þingeyrarkirkja",
+                  "text": "Történelmi kőtemplom Izlandon, amely egyedi építészetéről és festői elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -20.404312,
+                        65.554466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þingeyrarkirkja",
+                  "text": "O biserică istorică de piatră din Islanda, cunoscută pentru arhitectura sa unică și locația pitorească.",
+                  "category": "religious",
+                  "coords": [
+                        -20.404312,
+                        65.554466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Þingeyrarkirkja",
+                  "text": "A historic stone church in Iceland, known for its unique architecture and scenic location.",
+                  "category": "religious",
+                  "coords": [
+                        -20.404312,
+                        65.554466
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "church",
     name: { de: "Þingeyrar", hu: "Þingeyrar", ro: "Þingeyrar", en: "Þingeyrar"},
@@ -555,7 +1266,52 @@ imageHint: "Thingeyrar stone church Iceland",
     },
     image: "/poi-images/iceland-thingeyrar-history-v2.webp",
 },  {
-    id: "iceland-munkathvera-history-v2",
+    id: "iceland-munkathvera-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jólagarðurinn",
+                  "text": "Eine charmante Weihnachtsattraktion in Island, die das ganze Jahr über festliche Stimmung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.091501,
+                        65.580111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jólagarðurinn",
+                  "text": "Karácsonyi témájú látványosság Izlandon, amely egész évben ünnepi hangulatot áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.091501,
+                        65.580111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jólagarðurinn",
+                  "text": "O atracție cu tematică de Crăciun din Islanda, care oferă o atmosferă festivă pe tot parcursul anului.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.091501,
+                        65.580111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jólagarðurinn",
+                  "text": "A Christmas-themed attraction in Iceland offering festive atmosphere throughout the year.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.091501,
+                        65.580111
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Munkaþverá", hu: "Munkaþverá", ro: "Munkaþverá", en: "Munkaþverá"},
@@ -601,7 +1357,124 @@ imageHint: "Munkathvera church and historic site Iceland",
     },
     image: "/poi-images/iceland-munkathvera-history-v2.webp",
 },  {
-    id: "iceland-stong-history-v2",
+    id: "iceland-stong-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Þjórsárdalslaug",
+                  "text": "Schwimmbad und Whirlpools im malerischen Þjórsárdalur-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.811336,
+                        64.16098
+                  ]
+            },
+            {
+                  "name": "Stöng",
+                  "text": "Rekonstruiertes Wikinger-Langhaus und archäologische Ruinen eines Bauernhofs.",
+                  "category": "historical",
+                  "coords": [
+                        -19.7507,
+                        64.151573
+                  ]
+            },
+            {
+                  "name": "Gjáin í Þjórsárdal",
+                  "text": "Malerisches Tal mit Wasserfällen und vulkanischen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -19.736412,
+                        64.149179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þjórsárdalslaug",
+                  "text": "Úszómedence és meleg vizes fürdők a festői Þjórsárdalur-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.811336,
+                        64.16098
+                  ]
+            },
+            {
+                  "name": "Stöng",
+                  "text": "Rekonstruált viking hosszúház és egy tanya régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -19.7507,
+                        64.151573
+                  ]
+            },
+            {
+                  "name": "Gjáin í Þjórsárdal",
+                  "text": "Festői völgy vízesésekkel és különleges vulkáni sziklaalakzatokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -19.736412,
+                        64.149179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þjórsárdalslaug",
+                  "text": "Piscină și băi termale situate în valea pitorească Þjórsárdalur.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.811336,
+                        64.16098
+                  ]
+            },
+            {
+                  "name": "Stöng",
+                  "text": "Casă lungă din epoca vikingă reconstruită și ruinele unei ferme.",
+                  "category": "historical",
+                  "coords": [
+                        -19.7507,
+                        64.151573
+                  ]
+            },
+            {
+                  "name": "Gjáin í Þjórsárdal",
+                  "text": "Vale pitorească cu cascade și formațiuni stâncoase vulcanice unice.",
+                  "category": "natural",
+                  "coords": [
+                        -19.736412,
+                        64.149179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Þjórsárdalslaug",
+                  "text": "Swimming pool and hot tubs located in the scenic Þjórsárdalur valley.",
+                  "category": "recreational",
+                  "coords": [
+                        -19.811336,
+                        64.16098
+                  ]
+            },
+            {
+                  "name": "Stöng",
+                  "text": "Reconstructed Viking-era longhouse and archaeological ruins of a farm.",
+                  "category": "historical",
+                  "coords": [
+                        -19.7507,
+                        64.151573
+                  ]
+            },
+            {
+                  "name": "Gjáin í Þjórsárdal",
+                  "text": "Scenic valley featuring waterfalls and unique volcanic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -19.736412,
+                        64.149179
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Stöng", hu: "Stöng", ro: "Stöng", en: "Stöng"},
@@ -647,7 +1520,88 @@ imageHint: "Stong viking farm ruins Iceland",
     },
     image: "/poi-images/iceland-stong-history-v2.webp",
 },  {
-    id: "iceland-kirkjubaejarklaustur-history-v2",
+    id: "iceland-kirkjubaejarklaustur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirkjubaejarstofa",
+                  "text": "Ein Museum und Kulturzentrum in Kirkjubæjarklaustur, das sich der lokalen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -18.050385,
+                        63.789126
+                  ]
+            },
+            {
+                  "name": "Kirkjugólf",
+                  "text": "Eine natürliche Fläche aus Basaltsäulen, die wie ein gepflasterter Kirchenboden aussieht.",
+                  "category": "natural",
+                  "coords": [
+                        -18.046162,
+                        63.795235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirkjubaejarstofa",
+                  "text": "Múzeum és kulturális központ Kirkjubæjarklausturban, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -18.050385,
+                        63.789126
+                  ]
+            },
+            {
+                  "name": "Kirkjugólf",
+                  "text": "Bazaltoszlopokból álló természetes felület, amely egy templom kövezetére hasonlít.",
+                  "category": "natural",
+                  "coords": [
+                        -18.046162,
+                        63.795235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirkjubaejarstofa",
+                  "text": "Un muzeu și centru cultural din Kirkjubæjarklaustur, dedicat istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        -18.050385,
+                        63.789126
+                  ]
+            },
+            {
+                  "name": "Kirkjugólf",
+                  "text": "O suprafață naturală formată din coloane de bazalt care seamănă cu podeaua unei biserici.",
+                  "category": "natural",
+                  "coords": [
+                        -18.046162,
+                        63.795235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirkjubaejarstofa",
+                  "text": "A museum and cultural center in Kirkjubæjarklaustur dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        -18.050385,
+                        63.789126
+                  ]
+            },
+            {
+                  "name": "Kirkjugólf",
+                  "text": "A natural expanse of basalt columns that resembles a paved church floor.",
+                  "category": "natural",
+                  "coords": [
+                        -18.046162,
+                        63.795235
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur"},
@@ -785,7 +1739,88 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
     },
     image: "/poi-images/iceland-helgafell-history-v2.webp",
 },  {
-    id: "iceland-hofstadir-history-v2",
+    id: "iceland-hofstadir-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ytri-Selbunga",
+                  "text": "Ein Berggipfel in der Region Hofstaðir.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.216583,
+                        65.6013
+                  ]
+            },
+            {
+                  "name": "Vindbelgur",
+                  "text": "Ein beliebter Wanderberg mit Blick auf den Mývatn-See bei Hofstaðir.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.083418,
+                        65.612727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ytri-Selbunga",
+                  "text": "Hegycsúcs Hofstaðir régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.216583,
+                        65.6013
+                  ]
+            },
+            {
+                  "name": "Vindbelgur",
+                  "text": "Népszerű túraútvonal a Mývatn-tóra néző kilátással Hofstaðir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.083418,
+                        65.612727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ytri-Selbunga",
+                  "text": "Un vârf muntos situat în regiunea Hofstaðir.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.216583,
+                        65.6013
+                  ]
+            },
+            {
+                  "name": "Vindbelgur",
+                  "text": "Un munte popular pentru drumeții, oferind vedere spre Lacul Mývatn lângă Hofstaðir.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.083418,
+                        65.612727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ytri-Selbunga",
+                  "text": "A mountain peak located in the Hofstaðir region.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.216583,
+                        65.6013
+                  ]
+            },
+            {
+                  "name": "Vindbelgjarfjall",
+                  "text": "A popular hiking mountain offering views of Lake Mývatn near Hofstaðir.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.083418,
+                        65.612727
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "ruins",
     name: { de: "Hofstaðir", hu: "Hofstaðir", ro: "Hofstaðir", en: "Hofstaðir"},
@@ -1107,7 +2142,52 @@ imageHint: "Modruvellir church and school site Iceland",
     },
     image: "/poi-images/iceland-modruvellir-history-v2.webp",
 },  {
-    id: "iceland-saurbaer-history-v2",
+    id: "iceland-saurbaer-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saurbæjarkirkja",
+                  "text": "Eine historische Holzkirche in der kleinen Siedlung Saurbær.",
+                  "category": "religious",
+                  "coords": [
+                        -18.21039,
+                        65.4472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saurbæjarkirkja",
+                  "text": "Történelmi fatemplom Saurbær kis településén.",
+                  "category": "religious",
+                  "coords": [
+                        -18.21039,
+                        65.4472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saurbæjarkirkja",
+                  "text": "O biserică istorică din lemn situată în mica așezare Saurbær.",
+                  "category": "religious",
+                  "coords": [
+                        -18.21039,
+                        65.4472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saurbæjarkirkja",
+                  "text": "A historical wooden church located in the small settlement of Saurbær.",
+                  "category": "religious",
+                  "coords": [
+                        -18.21039,
+                        65.4472
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "church",
     name: { de: "Saurbær", hu: "Saurbær", ro: "Saurbær", en: "Saurbær"},
@@ -1245,7 +2325,88 @@ imageHint: "Hitardalur valley and historic farm Iceland",
     },
     image: "/poi-images/iceland-hitardalur-history-v2.webp",
 },  {
-    id: "iceland-thvotta-history-v2",
+    id: "iceland-thvotta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvalnesviti",
+                  "text": "Ein markanter Leuchtturm an der Südostküste Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.540116,
+                        64.402243
+                  ]
+            },
+            {
+                  "name": "Tófuhorn",
+                  "text": "Ein spitzer Berggipfel in der Nähe von Þvottá.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.543667,
+                        64.408233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvalnesviti",
+                  "text": "Jellegzetes világítótorony Izland délkeleti partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.540116,
+                        64.402243
+                  ]
+            },
+            {
+                  "name": "Tófuhorn",
+                  "text": "Hegyes hegycsúcs Þvottá közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.543667,
+                        64.408233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvalnesviti",
+                  "text": "Un far proeminent pe coasta de sud-est a Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.540116,
+                        64.402243
+                  ]
+            },
+            {
+                  "name": "Tófuhorn",
+                  "text": "Un vârf muntos ascuțit în apropiere de Þvottá.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.543667,
+                        64.408233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvalnesviti",
+                  "text": "A prominent lighthouse on the southeast coast of Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.540116,
+                        64.402243
+                  ]
+            },
+            {
+                  "name": "Tófuhorn",
+                  "text": "A sharp mountain peak near Þvottá.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.543667,
+                        64.408233
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "monument",
     name: { de: "Þvottá", hu: "Þvottá", ro: "Þvottá", en: "Þvottá"},
@@ -1384,7 +2545,124 @@ imageHint: "Steinsholt archaeological ruins Iceland",
   }
 ,
   {
-    id: "iceland-skalholt-monastery-history-v2",
+    id: "iceland-skalholt-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slakki",
+                  "text": "Ein kleiner Streichelzoo und Haustierpark in der Nähe von Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Eine archäologische Ausgrabungsstätte mit historischen Funden in Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Eine malerische Kirche in der historischen Region um Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slakki",
+                  "text": "Egy kis állatsimogató és családi park Skálholt közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Régészeti lelőhely történelmi leletekkel Skálholt kolostoránál.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "Egy festői templom Skálholt történelmi régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slakki",
+                  "text": "Un mic parc zoologic cu animale domestice situat lângă Skálholt.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "Un sit arheologic ce cuprinde vestigii istorice în Skálholt.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "O biserică pitorească în regiunea istorică Skálholt.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slakki",
+                  "text": "A small petting zoo and family park located near Skálholt Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        -20.50724,
+                        64.115166
+                  ]
+            },
+            {
+                  "name": "Fornleifasvæði",
+                  "text": "An archaeological site featuring historical excavations at Skálholt Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        -20.524465,
+                        64.124951
+                  ]
+            },
+            {
+                  "name": "Mosfellskirkja",
+                  "text": "A picturesque church located in the historic Skálholt region.",
+                  "category": "religious",
+                  "coords": [
+                        -20.603757,
+                        64.126833
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Skálholt Kloster", hu: "Skálholti kolostor", ro: "Mănăstirea Skálholt", en: "Skálholt Monastery" },
@@ -1474,7 +2752,52 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-hvitafell-battlefield-history-v2.webp",
   },
   {
-    id: "iceland-vidivellir-ruins-history-v2",
+    id: "iceland-vidivellir-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Ein Berggipfel in der Umgebung der Ruinen von Víðivellir.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Egy hegycsúcs a Víðivellir romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "Un vârf muntos situat în vecinătatea ruinelor Víðivellir.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinnafjall",
+                  "text": "A mountain peak located in the vicinity of the Víðivellir ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.77965,
+                        65.44832
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Víðivellir Ruinen", hu: "Víðivellir romok", ro: "Ruinele Víðivellir", en: "Víðivellir Ruins" },
@@ -1564,7 +2887,52 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-kaldakinn-battlefield-history-v2.webp",
   },
   {
-    id: "iceland-thorsafjordur-ruins-history-v2",
+    id: "iceland-thorsafjordur-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bolungarvík",
+                  "text": "Eine abgelegene Bucht an der Nordwestküste Islands in der Nähe von Hornstrandir.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.227276,
+                        66.310447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bolungarvík",
+                  "text": "Elhagyatott öböl Izland északnyugati partján, Hornstrandir közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.227276,
+                        66.310447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bolungarvík",
+                  "text": "Un golf izolat pe coasta de nord-vest a Islandei, lângă Hornstrandir.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.227276,
+                        66.310447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bolungarvík",
+                  "text": "A remote bay on the northwest coast of Iceland near Hornstrandir.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.227276,
+                        66.310447
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Þórsafjörður Ruinen", hu: "Þórsafjörður romok", ro: "Ruinele Þórsafjörður", en: "Þórsafjörður Ruins" },
@@ -1654,7 +3022,52 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-hofsstadir-mjo-ruins-history-v2.webp",
   },
   {
-    id: "iceland-hrafnsfjordur-archaeology-history-v2",
+    id: "iceland-hrafnsfjordur-archaeology-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Hornbjargsviti ist ein entlegener Leuchtturm in der wilden Landschaft Nordislands.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Hornbjargsviti egy távoli világítótorony Izland északi részének vad tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Hornbjargsviti este un far izolat situat în peisajul sălbatic din nordul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Hornbjargsviti is a remote lighthouse located in the wild landscape of northern Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Hrafnsfjörður Archäologie", hu: "Hrafnsfjörður régészet", ro: "Arheologia Hrafnsfjörður", en: "Hrafnsfjörður Archaeology" },
@@ -1699,7 +3112,88 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-hrafnsfjordur-archaeology-history-v2.webp",
   },
   {
-    id: "iceland-skard-ruins-history-v2",
+    id: "iceland-skard-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dýragarðurinn Hólum",
+                  "text": "Ein kleiner Streichelzoo auf einer Farm in der Nähe historischer Ruinen in Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.791676,
+                        65.227848
+                  ]
+            },
+            {
+                  "name": "Ásgarðsfjall",
+                  "text": "Ein Berg in Island, der die historische Stätte von Skarð überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.7388,
+                        65.254467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dýragarðurinn Hólum",
+                  "text": "Kicsi állatsimogató egy farmon, történelmi romok közelében Izlandon.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.791676,
+                        65.227848
+                  ]
+            },
+            {
+                  "name": "Ásgarðsfjall",
+                  "text": "Izlandi hegy, amely a történelmi Skarð helyszíne fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.7388,
+                        65.254467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dýragarðurinn Hólum",
+                  "text": "O mică grădină zoologică la o fermă, situată lângă ruine istorice în Islanda.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.791676,
+                        65.227848
+                  ]
+            },
+            {
+                  "name": "Ásgarðsfjall",
+                  "text": "Un munte din Islanda care domină situl istoric de la Skarð.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.7388,
+                        65.254467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hólar Farm Mini Zoo",
+                  "text": "A small petting zoo on a farm located near historical ruins in Iceland.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.791676,
+                        65.227848
+                  ]
+            },
+            {
+                  "name": "Ásgarðsfjall",
+                  "text": "A mountain in Iceland overlooking the historical site of Skarð.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.7388,
+                        65.254467
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Skarð Ruinen", hu: "Skarð romok", ro: "Ruinele Skarð", en: "Skarð Ruins" },
@@ -1789,7 +3283,196 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-vogur-ruins-history-v2.webp",
   },
   {
-    id: "iceland-stafafell-history-v2",
+    id: "iceland-stafafell-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Húsadalstindur",
+                  "text": "Ein markanter Berggipfel bei Stafafell im Südosten Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.99005,
+                        64.2692
+                  ]
+            },
+            {
+                  "name": "Bleikitindur",
+                  "text": "Ein Gipfel in der bergigen Region von Stafafell im Südosten Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.02872,
+                        64.33154
+                  ]
+            },
+            {
+                  "name": "Skálatindur",
+                  "text": "Ein Berggipfel bei Stafafell, der weite Ausblicke über die isländische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.97501,
+                        64.33298
+                  ]
+            },
+            {
+                  "name": "Skarðstindur",
+                  "text": "Ein Berggipfel im zerklüfteten Gelände der historischen Stätte Stafafell.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.04595,
+                        64.28918
+                  ]
+            },
+            {
+                  "name": "Vestrahorn",
+                  "text": "Ein berühmter Aussichtspunkt auf das Vestrahorn-Massiv, bekannt für seine dramatischen Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -15.035718,
+                        64.283692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Húsadalstindur",
+                  "text": "Jellegzetes hegycsúcs Stafafell közelében, Izland délkeleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.99005,
+                        64.2692
+                  ]
+            },
+            {
+                  "name": "Bleikitindur",
+                  "text": "Hegycsúcs Stafafell hegyvidéki régiójában, Izland délkeleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.02872,
+                        64.33154
+                  ]
+            },
+            {
+                  "name": "Skálatindur",
+                  "text": "Hegycsúcs Stafafellnél, amely tágas kilátást nyújt az izlandi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.97501,
+                        64.33298
+                  ]
+            },
+            {
+                  "name": "Skarðstindur",
+                  "text": "Hegycsúcs a Stafafell történelmi emlékhely sziklás területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.04595,
+                        64.28918
+                  ]
+            },
+            {
+                  "name": "Vestrahorn",
+                  "text": "Híres kilátópont a Vestrahorn-hegyre, amely drámai csúcsairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -15.035718,
+                        64.283692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Húsadalstindur",
+                  "text": "Un vârf muntos proeminent lângă Stafafell, în sud-estul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.99005,
+                        64.2692
+                  ]
+            },
+            {
+                  "name": "Bleikitindur",
+                  "text": "Un vârf în regiunea muntoasă Stafafell din sud-estul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.02872,
+                        64.33154
+                  ]
+            },
+            {
+                  "name": "Skálatindur",
+                  "text": "Un vârf montan lângă Stafafell, oferind panorame largi asupra peisajului islandez.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.97501,
+                        64.33298
+                  ]
+            },
+            {
+                  "name": "Skarðstindur",
+                  "text": "Un vârf muntos în terenul accidentat al sitului istoric Stafafell.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.04595,
+                        64.28918
+                  ]
+            },
+            {
+                  "name": "Vestrahorn",
+                  "text": "Un punct de belvedere faimos spre muntele Vestrahorn, cunoscut pentru vârfurile sale dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        -15.035718,
+                        64.283692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Húsadalstindur",
+                  "text": "A prominent mountain peak near Stafafell in southeast Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.99005,
+                        64.2692
+                  ]
+            },
+            {
+                  "name": "Bleikitindur",
+                  "text": "A peak in the mountainous region of Stafafell in southeast Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.02872,
+                        64.33154
+                  ]
+            },
+            {
+                  "name": "Skálatindur",
+                  "text": "A mountain peak near Stafafell, offering wide views over the Icelandic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.97501,
+                        64.33298
+                  ]
+            },
+            {
+                  "name": "Skarðstindur",
+                  "text": "A mountain peak in the rugged terrain of the Stafafell Historical Site.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.04595,
+                        64.28918
+                  ]
+            },
+            {
+                  "name": "Vestrahorn",
+                  "text": "A famous viewpoint overlooking the Vestrahorn mountain, known for its dramatic peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -15.035718,
+                        64.283692
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Stafafell historisches Areal", hu: "Stafafell történelmi terület", ro: "Stafafell zonă istorică", en: "Stafafell Historical Site" },
@@ -1924,7 +3607,52 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-skjaldfonn-ruins-history-v2.webp",
   },
   {
-    id: "iceland-dalsminni-history-v2",
+    id: "iceland-dalsminni-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Illagilsfjall",
+                  "text": "Ein Berggipfel in Island, der die umliegende Vulkanlandschaft überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.4363,
+                        65.76422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Illagilsfjall",
+                  "text": "Izlandi hegcsúcs, amely a környező vulkáni táj fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.4363,
+                        65.76422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Illagilsfjall",
+                  "text": "Un vârf montan din Islanda, care domină peisajul vulcanic înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.4363,
+                        65.76422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Illagilsfjall",
+                  "text": "A mountain peak in Iceland overlooking the surrounding volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.4363,
+                        65.76422
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IS",
     name: { de: "Dalsminni Siedlungsreste", hu: "Dalsminni településmaradványok", ro: "Rămășițele așezării Dalsminni", en: "Dalsminni Settlement Remains" },

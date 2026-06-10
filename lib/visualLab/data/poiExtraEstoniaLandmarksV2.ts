@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const estoniaLandmarksV2: POI[] = [
 
   {
-    id: "estonia-sagadi-manor-landmarks-v2",
+    id: "estonia-sagadi-manor-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palmse mõisa peahoone",
+                  "text": "Ein bedeutendes barockes Herrenhaus im estnischen Nationalpark Lahemaa.",
+                  "category": "historical",
+                  "coords": [
+                        25.956239,
+                        59.512777
+                  ]
+            },
+            {
+                  "name": "Muinastaide Koda",
+                  "text": "Ein Zentrum für Kunst und Kultur beim Herrenhaus Sagadi.",
+                  "category": "museum",
+                  "coords": [
+                        25.964645,
+                        59.507885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palmse mõisa peahoone",
+                  "text": "Jelentős barokk kastély az észtországi Lahemaa Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        25.956239,
+                        59.512777
+                  ]
+            },
+            {
+                  "name": "Muinastaide Koda",
+                  "text": "Művészeti és kulturális központ a Sagadi-kastélynál.",
+                  "category": "museum",
+                  "coords": [
+                        25.964645,
+                        59.507885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palmse mõisa peahoone",
+                  "text": "Un conac baroc important situat în Parcul Național Lahemaa din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.956239,
+                        59.512777
+                  ]
+            },
+            {
+                  "name": "Muinastaide Koda",
+                  "text": "Un centru de artă și cultură situat lângă conacul Sagadi.",
+                  "category": "museum",
+                  "coords": [
+                        25.964645,
+                        59.507885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palmse manor house",
+                  "text": "A significant Baroque manor house located in Estonia's Lahemaa National Park.",
+                  "category": "historical",
+                  "coords": [
+                        25.956239,
+                        59.512777
+                  ]
+            },
+            {
+                  "name": "Prehistoric Art Centre",
+                  "text": "An art and culture center located at the Sagadi Manor.",
+                  "category": "museum",
+                  "coords": [
+                        25.964645,
+                        59.507885
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Herrenhaus Sagadi", hu: "Sagadi kúria", ro: "Conacul Sagadi", en: "Sagadi Manor" },
@@ -48,7 +129,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-sagadi-manor-landmarks-v2.webp",
   },
   {
-    id: "estonia-maeru-manor-landmarks-v2",
+    id: "estonia-maeru-manor-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haljala kirik",
+                  "text": "Mittelalterliche Wehrkirche in Haljala, bekannt für ihren markanten Turm.",
+                  "category": "landmark",
+                  "coords": [
+                        26.268504,
+                        59.431562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haljala kirik",
+                  "text": "Középkori erődtemplom Haljalában, amely jellegzetes tornyáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.268504,
+                        59.431562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haljala kirik",
+                  "text": "Biserică fortificată medievală în Haljala, cunoscută pentru turnul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        26.268504,
+                        59.431562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haljala kirik",
+                  "text": "Medieval fortified church in Haljala, known for its distinctive tower.",
+                  "category": "landmark",
+                  "coords": [
+                        26.268504,
+                        59.431562
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Herrenhaus Märu", hu: "Märu kúria", ro: "Conacul Märu", en: "Märu Manor" },
@@ -93,7 +219,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-maeru-manor-landmarks-v2.webp",
   },
   {
-    id: "estonia-laits-castle-landmarks-v2",
+    id: "estonia-laits-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laitse mõisa peahoone",
+                  "text": "Das Hauptgebäude des Gutshofs Laitse, im neugotischen Stil erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        24.387552,
+                        59.196515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laitse mõisa peahoone",
+                  "text": "A laitsei uradalom főépülete, amely neogótikus stílusban épült.",
+                  "category": "historical",
+                  "coords": [
+                        24.387552,
+                        59.196515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laitse mõisa peahoone",
+                  "text": "Clădirea principală a conacului Laitse, construită în stil neogotic.",
+                  "category": "historical",
+                  "coords": [
+                        24.387552,
+                        59.196515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laitse mõisa peahoone",
+                  "text": "The main building of Laitse manor, built in a Neo-Gothic style.",
+                  "category": "historical",
+                  "coords": [
+                        24.387552,
+                        59.196515
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "EE",
     name: { de: "Burg Laitse", hu: "Laitse vára", ro: "Castelul Laitse", en: "Laitse Castle" },
@@ -678,7 +849,196 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-voru-church-landmarks-v2.webp",
   },
   {
-    id: "estonia-poltsamaa-church-landmarks-v2",
+    id: "estonia-poltsamaa-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Ein Museum in Põltsamaa, das der Geschichte der estnischen Presse und des Druckwesens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "Ein kleiner Museumsraum, der der Geschichte der Estnischen Alexander-Schule in Põltsamaa gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Ein Freizeitstrand und Wassersportgebiet in der Stadt Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987293,
+                        58.618419
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "Ein beliebter Bade- und Erholungsort am Fluss in Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Der malerische Park, der das historische Gutshaus Uue-Põltsamaa umgibt.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Põltsamaa múzeuma, amely az észt sajtó és nyomdászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "Kis múzeumszoba Põltsamaában, amely az észt Sándor-iskola történetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Szabadidős strand és vízisport-terület Põltsamaa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987293,
+                        58.618419
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "Népszerű fürdő- és pihenőhely a folyó partján Põltsamaában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "A történelmi Uue-Põltsamaa kúriát körülvevő festői park.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Un muzeu din Põltsamaa dedicat istoriei presei și tiparului din Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "O mică cameră muzeală dedicată istoriei Școlii Alexandru din Estonia, în Põltsamaa.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "O plajă de agrement și o zonă de sporturi nautice situată în orașul Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987293,
+                        58.618419
+                  ]
+            },
+            {
+                  "name": "Põltsamaa supelrand",
+                  "text": "Un loc popular pentru înot și relaxare pe malul râului din Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Parcul pitoresc care înconjoară moșia istorică a conacului Uue-Põltsamaa.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estonian Press Museum",
+                  "text": "A museum in Põltsamaa dedicated to the history of the Estonian press and printing.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "A small museum room dedicated to the history of the Estonian Alexander School in Põltsamaa.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Wpark Põltsamaa beach",
+                  "text": "A recreational beach and water sports area located in the town of Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987293,
+                        58.618419
+                  ]
+            },
+            {
+                  "name": "Põltsamaa beach",
+                  "text": "A popular swimming and relaxation spot by the river in Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.971767,
+                        58.654873
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "The scenic park surrounding the historic Uue-Põltsamaa manor estate.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "St.-Nikolai-Kirche Põltsamaa", hu: "Põltsamaai templom", ro: "Biserica Põltsamaa", en: "Põltsamaa St. Nicholas Church" },

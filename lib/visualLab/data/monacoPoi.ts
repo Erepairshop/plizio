@@ -498,6 +498,15 @@ export const monacoDistricts: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Die offizielle Residenz des Fürsten von Monaco, die ursprünglich als genuesische Festung erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "hu": [
@@ -931,6 +940,15 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Monaco hercegének hivatalos rezidenciája, amely eredetileg genovai erődnek épült.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ],
@@ -1366,6 +1384,15 @@ export const monacoDistricts: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Reședința oficială a Prințului de Monaco, construită inițial ca o fortăreață genoveză.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "en": [
@@ -1799,6 +1826,15 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "The official residence of the Prince of Monaco, originally built as a Genoese fortress.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ]
@@ -2365,6 +2401,15 @@ export const monacoDistricts: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Der historische Palast der Grimaldi-Familie im Bereich von La Condamine.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "hu": [
@@ -2798,6 +2843,15 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "A Grimaldi család történelmi palotája La Condamine térségében.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ],
@@ -3233,6 +3287,15 @@ export const monacoDistricts: POI[] = [
                         7.431122,
                         43.739848
                   ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "Palatul istoric al familiei Grimaldi în zona La Condamine.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
+                  ]
             }
       ],
       "en": [
@@ -3666,6 +3729,15 @@ export const monacoDistricts: POI[] = [
                   "coords": [
                         7.431122,
                         43.739848
+                  ]
+            },
+            {
+                  "name": "Prince's Palace of Monaco",
+                  "text": "The historical palace of the Grimaldi family in the La Condamine area.",
+                  "category": "castle",
+                  "coords": [
+                        7.420113,
+                        43.731336
                   ]
             }
       ]

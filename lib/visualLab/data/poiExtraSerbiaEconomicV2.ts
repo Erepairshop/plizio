@@ -48,7 +48,52 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-pancevo-refinery-economic-v2.webp",
   },
   {
-    id: "serbia-kostolac-power-plant-economic-v2",
+    id: "serbia-kostolac-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "Ein denkmalgeschütztes Herrenhaus in der Nähe des Kraftwerks Kostolac in Serbien.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "Műemlékvédelem alatt álló udvarház a szerbiai Kostolac erőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "Un conac monument istoric situat în apropierea centralei electrice Kostolac din Serbia.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "A heritage-listed manor house located near the Kostolac Power Station in Serbia.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RS",
     name: { de: "Wärmekraftwerk Kostolac", hu: "Kostolaci hőerőmű", ro: "Termocentrala Kostolac", en: "Kostolac Power Station" },
@@ -183,7 +228,268 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-rtb-bor-mine-economic-v2.webp",
   },
   {
-    id: "serbia-subotica-industrial-zone-economic-v2",
+    id: "serbia-subotica-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Das Nationaltheater von Subotica ist ein bedeutendes kulturelles Zentrum im Stadtzentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prächtiger Jugendstilpalast in Subotica, entworfen vom Architekten Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Das Stadtmuseum von Subotica bewahrt das historische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein lokales Museum in Subotica, das verschiedenen Porzellankollektionen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das prunkvolle Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das der Tradition der Bunjevac-Gemeinschaft gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "A Szabadkai Népszínház a városközpont egyik legfontosabb kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Szabadka egyik legszebb szecessziós épülete, amelyet Raichle Ferenc építész tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "A Szabadkai Városi Múzeum a régió történelmi örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Egy szabadkai múzeum, amely különböző porcelángyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Szabadka pompás városházája a magyar szecessziós építészet egyik remekműve.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Kulturális központ Szabadkán, amely a bunyevác közösség hagyományait ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Szabadkai emlékmű, amelyet Ivan Sarić repülési úttörő tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Teatrul Național din Subotica este un centru cultural important din centrul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat splendid în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Muzeul Orașului Subotica păstrează moștenirea istorică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu local din Subotica dedicat diverselor colecții de porțelan.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria somptuoasă din Subotica este o capodoperă a stilului Art Nouveau maghiar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru cultural din Subotica dedicat tradițiilor comunității bunjevați.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument din Subotica ridicat în onoarea pionierului aviației Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "The Subotica National Theatre is a significant cultural landmark in the city center.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "The Subotica City Museum preserves the historical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A local museum in Subotica dedicated to various porcelain collections.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The grand Subotica Town Hall is a masterpiece of Hungarian Art Nouveau architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural center in Subotica dedicated to the traditions of the Bunjevac community.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument in Subotica honoring the aviation pioneer Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RS",
     name: { de: "Wirtschaftszone Subotica", hu: "Szabadkai Gazdasági Övezet", ro: "Zona Economică Subotica", en: "Subotica Industrial Zone" },
@@ -318,7 +624,196 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-nis-electronic-industry-economic-v2.webp",
   },
   {
-    id: "serbia-zrenjanin-industrial-park-economic-v2",
+    id: "serbia-zrenjanin-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Das bedeutendste Museum von Zrenjanin, das die Geschichte und Kultur des Banats präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Trockene Brücke",
+                  "text": "Eine kuriose Brücke in Zrenjanin, unter der nach einer Flussumleitung kein Wasser mehr fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Ein Denkmal zu Ehren von Žarko Zrenjanin, einem Helden der Widerstandsbewegung im Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Mariä-Entschlafens-Kirche",
+                  "text": "Eine bedeutende serbisch-orthodoxe Kirche in Zrenjanin, die der Himmelfahrt Mariens geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "Eine historische Kirche der reformierten Gemeinde im Zentrum von Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Nagybecskerek legjelentősebb múzeuma, amely a Bánság történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Különleges híd Nagybecskereken, amely alatt a folyó elterelése óta nem folyik víz.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Emlékmű Žarko Zrenjanin tiszteletére, aki a második világháborús ellenállás hőse volt.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "Jelentős szerb ortodox templom Nagybecskereken, Szűz Mária elszenderedésének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "A református közösség történelmi temploma Nagybecskerek központjában.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народни музеј Зрењанин",
+                  "text": "Cel mai important muzeu din Zrenjanin, prezentând istoria și cultura regiunii Banat.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Мост на сувом",
+                  "text": "Un pod neobișnuit din Zrenjanin sub care nu mai curge apă în urma devierii râului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Споменик Жарку Зрењанину",
+                  "text": "Un monument în onoarea lui Žarko Zrenjanin, un erou al rezistenței din Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Црква Успења Богородице",
+                  "text": "O importantă biserică ortodoxă sârbă din Zrenjanin, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Реформатска црква",
+                  "text": "O biserică istorică a comunității reformate, situată în centrul orașului Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Zrenjanin",
+                  "text": "The primary museum of Zrenjanin, showcasing the history and culture of the Banat region.",
+                  "category": "museum",
+                  "coords": [
+                        20.389849,
+                        45.379773
+                  ]
+            },
+            {
+                  "name": "Dry Bridge",
+                  "text": "A unique bridge in Zrenjanin that spans no water due to the diversion of the river.",
+                  "category": "landmark",
+                  "coords": [
+                        20.384094,
+                        45.38157
+                  ]
+            },
+            {
+                  "name": "Monument of Zarko Zrenjanin",
+                  "text": "A monument honoring Žarko Zrenjanin, a hero of the resistance during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        20.39079,
+                        45.381547
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "A significant Serbian Orthodox church in Zrenjanin dedicated to the Assumption of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        20.395724,
+                        45.380362
+                  ]
+            },
+            {
+                  "name": "Reformed Church",
+                  "text": "A historic church belonging to the Reformed community in central Zrenjanin.",
+                  "category": "religious",
+                  "coords": [
+                        20.389022,
+                        45.378373
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RS",
     name: { de: "Industriepark Zrenjanin", hu: "Nagybecskereki Ipari Park", ro: "Parcul Industrial Zrenjanin", en: "Zrenjanin Industrial Park" },
@@ -418,6 +913,51 @@ export const serbiaEconomicV2: POI[] = [
                         21.1721,
                         44.619445
                   ]
+            },
+            {
+                  "name": "Пожаревачки мир",
+                  "text": "Ein Museum, das an den historischen Friedensvertrag von 1718 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "text": "Ein Denkmal, das der Freiheit und dem Sieg über den Faschismus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "text": "Ein Denkmal zu Ehren der Soldaten der Roten Armee, die 1944 in der Region fielen.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "text": "Ein Gedenkort für die jugoslawischen Partisanen, die zwischen 1941 und 1944 hingerichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        21.197876,
+                        44.613379
+                  ]
+            },
+            {
+                  "name": "Споменик Покрету горана",
+                  "text": "Ein Denkmal zu Ehren der ökologischen Jugendbewegung Pokret gorana.",
+                  "category": "historical",
+                  "coords": [
+                        21.202417,
+                        44.613513
+                  ]
             }
       ],
       "hu": [
@@ -428,6 +968,51 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         21.1721,
                         44.619445
+                  ]
+            },
+            {
+                  "name": "Пожаревачки мир",
+                  "text": "Az 1718-as történelmi békeszerződésnek emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "text": "A szabadságnak és a fasizmus feletti győzelemnek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "text": "A Vörös Hadsereg 1944-ben a régióban elesett katonáinak tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "text": "Az 1941 és 1944 között kivégzett jugoszláv partizánok emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        21.197876,
+                        44.613379
+                  ]
+            },
+            {
+                  "name": "Споменик Покрету горана",
+                  "text": "A Pokret gorana ökológiai ifjúsági mozgalom tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        21.202417,
+                        44.613513
                   ]
             }
       ],
@@ -440,6 +1025,51 @@ export const serbiaEconomicV2: POI[] = [
                         21.1721,
                         44.619445
                   ]
+            },
+            {
+                  "name": "Пожаревачки мир",
+                  "text": "Un muzeu care comemorează tratatul istoric de pace din 1718.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "text": "Un monument dedicat libertății și victoriei asupra fascismului.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "text": "Un monument în onoarea soldaților Armatei Roșii care au căzut în regiune în 1944.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "text": "Un sit memorial pentru partizanii iugoslavi executați între 1941 și 1944.",
+                  "category": "historical",
+                  "coords": [
+                        21.197876,
+                        44.613379
+                  ]
+            },
+            {
+                  "name": "Споменик Покрету горана",
+                  "text": "Un monument în onoarea mișcării ecologiste de tineret Pokret gorana.",
+                  "category": "historical",
+                  "coords": [
+                        21.202417,
+                        44.613513
+                  ]
             }
       ],
       "en": [
@@ -450,6 +1080,51 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         21.1721,
                         44.619445
+                  ]
+            },
+            {
+                  "name": "Treaty of Passarowitz",
+                  "text": "A museum commemorating the historic peace treaty signed in 1718.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Monument to freedom and victory over fascism \"Zvezda\"",
+                  "text": "A monument dedicated to freedom and the victory over fascism.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Monument to Fallen Soldiers of the Red Army in 1944",
+                  "text": "A monument honoring the Red Army soldiers who fell in the region in 1944.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            },
+            {
+                  "name": "Monument to Yugoslav Partisans Shot in 1941-1944",
+                  "text": "A memorial site for the Yugoslav partisans executed between 1941 and 1944.",
+                  "category": "historical",
+                  "coords": [
+                        21.197876,
+                        44.613379
+                  ]
+            },
+            {
+                  "name": "Monument to the Pokret gorana (Gorans Movement / Youth Environmental Movement)",
+                  "text": "A monument honoring the Pokret gorana youth environmental movement.",
+                  "category": "historical",
+                  "coords": [
+                        21.202417,
+                        44.613513
                   ]
             }
       ]
@@ -616,6 +1291,24 @@ export const serbiaEconomicV2: POI[] = [
                         20.346015,
                         43.899201
                   ]
+            },
+            {
+                  "name": "Спомен-парк борбе и победе",
+                  "text": "Gedenkpark in Čačak mit monumentalen Steinskulpturen von Bogdan Bogdanović.",
+                  "category": "park",
+                  "coords": [
+                        20.335385,
+                        43.877963
+                  ]
+            },
+            {
+                  "name": "Мегарон",
+                  "text": "Ein symbolisches Bauwerk innerhalb des Gedenkparks in Čačak.",
+                  "category": "historical",
+                  "coords": [
+                        20.334782,
+                        43.876285
+                  ]
             }
       ],
       "hu": [
@@ -644,6 +1337,24 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         20.346015,
                         43.899201
+                  ]
+            },
+            {
+                  "name": "Спомен-парк борбе и победе",
+                  "text": "Emlékpark Čačakban, Bogdan Bogdanović monumentális kőszobraival.",
+                  "category": "park",
+                  "coords": [
+                        20.335385,
+                        43.877963
+                  ]
+            },
+            {
+                  "name": "Мегарон",
+                  "text": "Szimbolikus építmény a čačaki emlékpark területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.334782,
+                        43.876285
                   ]
             }
       ],
@@ -674,6 +1385,24 @@ export const serbiaEconomicV2: POI[] = [
                         20.346015,
                         43.899201
                   ]
+            },
+            {
+                  "name": "Спомен-парк борбе и победе",
+                  "text": "Parc memorial în Čačak, cuprinzând monumente din piatră de Bogdan Bogdanović.",
+                  "category": "park",
+                  "coords": [
+                        20.335385,
+                        43.877963
+                  ]
+            },
+            {
+                  "name": "Мегарон",
+                  "text": "O structură simbolică situată în cadrul complexului memorial din Čačak.",
+                  "category": "historical",
+                  "coords": [
+                        20.334782,
+                        43.876285
+                  ]
             }
       ],
       "en": [
@@ -702,6 +1431,24 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         20.346015,
                         43.899201
+                  ]
+            },
+            {
+                  "name": "Memorial Park of Struggle and Victory",
+                  "text": "Commemorative park in Čačak featuring stone monuments by Bogdan Bogdanović.",
+                  "category": "park",
+                  "coords": [
+                        20.335385,
+                        43.877963
+                  ]
+            },
+            {
+                  "name": "Megaron",
+                  "text": "A symbolic structure located within the memorial complex in Čačak.",
+                  "category": "historical",
+                  "coords": [
+                        20.334782,
+                        43.876285
                   ]
             }
       ]
@@ -1722,7 +2469,268 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-pirot-free-zone-economic-v2.webp",
   },
   {
-    id: "serbia-novi-sad-industrial-zone-economic-v2",
+    id: "serbia-novi-sad-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј савремене уметности Војводине",
+                  "text": "Ein Museum in Novi Sad, das zeitgenössische Kunst aus der Vojvodina zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.853192,
+                        45.256625
+                  ]
+            },
+            {
+                  "name": "Музеј Војводине",
+                  "text": "Eines der größten Museen Serbiens mit Sammlungen zur Archäologie und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        19.851834,
+                        45.256476
+                  ]
+            },
+            {
+                  "name": "Галерија Рајка Мамузића",
+                  "text": "Eine Kunstgalerie in Novi Sad, die die Schenkung von Rajko Mamuzić zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.845298,
+                        45.252134
+                  ]
+            },
+            {
+                  "name": "Природњачки музеј",
+                  "text": "Ein Museum in Novi Sad, das der Flora und Fauna der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.850946,
+                        45.249705
+                  ]
+            },
+            {
+                  "name": "Petrovaradiner Festung",
+                  "text": "Eine beeindruckende Festung an der Donau, bekannt für ihren Uhrturm.",
+                  "category": "castle",
+                  "coords": [
+                        19.865558,
+                        45.252261
+                  ]
+            },
+            {
+                  "name": "Позоришни музеј Војводине",
+                  "text": "Ein Museum, das die Geschichte des Theaters in der Vojvodina dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.844282,
+                        45.253965
+                  ]
+            },
+            {
+                  "name": "Музеј Града Новог Сада",
+                  "text": "Das Stadtmuseum von Novi Sad, untergebracht in der Festung Petrovaradin.",
+                  "category": "museum",
+                  "coords": [
+                        19.862205,
+                        45.252405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј савремене уметности Војводине",
+                  "text": "Kortárs művészeti múzeum Újvidéken, vajdasági alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        19.853192,
+                        45.256625
+                  ]
+            },
+            {
+                  "name": "Музеј Војводине",
+                  "text": "Szerbia egyik legnagyobb múzeuma régészeti és történelmi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        19.851834,
+                        45.256476
+                  ]
+            },
+            {
+                  "name": "Галерија Рајка Мамузића",
+                  "text": "Művészeti galéria Újvidéken, Rajko Mamuzić ajándékgyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        19.845298,
+                        45.252134
+                  ]
+            },
+            {
+                  "name": "Природњачки музеј",
+                  "text": "Természettudományi múzeum Újvidéken, a régió élővilágának szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        19.850946,
+                        45.249705
+                  ]
+            },
+            {
+                  "name": "Péterváradi erőd",
+                  "text": "Impozáns erőd a Duna partján, amely az óratornyáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        19.865558,
+                        45.252261
+                  ]
+            },
+            {
+                  "name": "Позоришни музеј Војводине",
+                  "text": "A vajdasági színjátszás történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.844282,
+                        45.253965
+                  ]
+            },
+            {
+                  "name": "Музеј Града Новог Сада",
+                  "text": "Újvidék városi múzeuma a péterváradi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        19.862205,
+                        45.252405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј савремене уметности Војводине",
+                  "text": "Un muzeu în Novi Sad care expune artă contemporană din Voivodina.",
+                  "category": "museum",
+                  "coords": [
+                        19.853192,
+                        45.256625
+                  ]
+            },
+            {
+                  "name": "Музеј Војводине",
+                  "text": "Unul dintre cele mai mari muzee din Serbia, cu colecții de arheologie și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        19.851834,
+                        45.256476
+                  ]
+            },
+            {
+                  "name": "Галерија Рајка Мамузића",
+                  "text": "O galerie de artă din Novi Sad care prezintă colecția donată de Rajko Mamuzić.",
+                  "category": "museum",
+                  "coords": [
+                        19.845298,
+                        45.252134
+                  ]
+            },
+            {
+                  "name": "Природњачки музеј",
+                  "text": "Un muzeu în Novi Sad dedicat florei și faunei din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        19.850946,
+                        45.249705
+                  ]
+            },
+            {
+                  "name": "Петроварадинска тврђава",
+                  "text": "O fortăreață impresionantă pe malul Dunării, cunoscută pentru turnul său cu ceas.",
+                  "category": "castle",
+                  "coords": [
+                        19.865558,
+                        45.252261
+                  ]
+            },
+            {
+                  "name": "Позоришни музеј Војводине",
+                  "text": "Un muzeu care documentează istoria teatrului în Voivodina.",
+                  "category": "museum",
+                  "coords": [
+                        19.844282,
+                        45.253965
+                  ]
+            },
+            {
+                  "name": "Музеј Града Новог Сада",
+                  "text": "Muzeul orașului Novi Sad, situat în fortăreața Petrovaradin.",
+                  "category": "museum",
+                  "coords": [
+                        19.862205,
+                        45.252405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Contemporary Art of Vojvodina",
+                  "text": "A museum in Novi Sad displaying contemporary art from Vojvodina.",
+                  "category": "museum",
+                  "coords": [
+                        19.853192,
+                        45.256625
+                  ]
+            },
+            {
+                  "name": "Museum of Vojvodina",
+                  "text": "One of the largest museums in Serbia, with archaeological and historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        19.851834,
+                        45.256476
+                  ]
+            },
+            {
+                  "name": "Gallery of Rajko Mamuzić",
+                  "text": "An art gallery in Novi Sad showcasing the gift collection of Rajko Mamuzić.",
+                  "category": "museum",
+                  "coords": [
+                        19.845298,
+                        45.252134
+                  ]
+            },
+            {
+                  "name": "Museum of Natural History",
+                  "text": "A museum in Novi Sad dedicated to the flora and fauna of the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.850946,
+                        45.249705
+                  ]
+            },
+            {
+                  "name": "Petrovaradin Fortress",
+                  "text": "An impressive fortress on the Danube, known for its clock tower.",
+                  "category": "castle",
+                  "coords": [
+                        19.865558,
+                        45.252261
+                  ]
+            },
+            {
+                  "name": "Theatre Museum of Vojvodina",
+                  "text": "A museum documenting the history of theatre in Vojvodina.",
+                  "category": "museum",
+                  "coords": [
+                        19.844282,
+                        45.253965
+                  ]
+            },
+            {
+                  "name": "Museum of Novi Sad City",
+                  "text": "The city museum of Novi Sad, located within the Petrovaradin Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        19.862205,
+                        45.252405
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RS",
     name: { de: "Industriezone Novi Sad", hu: "Újvidéki ipari övezet", ro: "Zona industrială Novi Sad", en: "Novi Sad Industrial Zone" },
@@ -2082,7 +3090,268 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-zrenjanin-agri-processing-economic-v2.webp",
   },
   {
-    id: "serbia-subotica-food-industry-economic-v2",
+    id: "serbia-subotica-food-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Einrichtung der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palast",
+                  "text": "Ein prächtiges Jugendstil-Palais in Subotica, das vom Architekten Ferenc Raichle entworfen wurde.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Das Stadtmuseum von Subotica präsentiert lokale historische und künstlerische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Ein Museum in Subotica, das verschiedenen Porzellanobjekten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Das Rathaus von Subotica ist ein monumentales Wahrzeichen im ungarischen Jugendstil.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Ein Kulturzentrum in Subotica, das sich der Förderung der Bunjevci-Kultur widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szabadkai Népszínház",
+                  "text": "A Szabadkai Népszínház a város egyik legfontosabb kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Szecessziós stílusú palota Szabadkán, melyet Raichle Ferenc építész tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Szabadkai Városi Múzeum",
+                  "text": "A Szabadkai Városi Múzeum helyi történelmi és művészeti gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Porcelántárgyaknak szentelt múzeum Szabadkán.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A szabadkai városháza a magyar szecessziós építészet monumentális jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Kulturális központ Szabadkán, amely a bunyevác kultúra ápolásával foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Szárits János emlékműve",
+                  "text": "Emlékmű Szabadkán Ivan Sarić repülési úttörő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Суботица",
+                  "text": "Teatrul Național din Subotica este o instituție culturală majoră a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Палата Рајхл",
+                  "text": "Un palat spectaculos în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Градски музеj Cyботица",
+                  "text": "Muzeul Orașului Subotica prezintă colecții de istorie și artă locală.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "Un muzeu din Subotica dedicat diverselor obiecte din porțelan.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Градска кућа",
+                  "text": "Primăria din Subotica este un simbol monumental al stilului Secession maghiar.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "Un centru cultural din Subotica dedicat promovării culturii bunjevci.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Споменик Ивану Сарићу",
+                  "text": "Un monument în Subotica ridicat în cinstea pionierului aviației Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subotica National Theatre",
+                  "text": "The Subotica National Theatre is a prominent cultural institution in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        19.666087,
+                        46.100129
+                  ]
+            },
+            {
+                  "name": "Reichl Palace",
+                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
+                  "category": "castle",
+                  "coords": [
+                        19.66865,
+                        46.10151
+                  ]
+            },
+            {
+                  "name": "Subotica City Museum",
+                  "text": "The Subotica City Museum showcases local historical and artistic collections.",
+                  "category": "museum",
+                  "coords": [
+                        19.661303,
+                        46.102181
+                  ]
+            },
+            {
+                  "name": "Porcelain Museum",
+                  "text": "A museum in Subotica dedicated to various porcelain objects.",
+                  "category": "museum",
+                  "coords": [
+                        19.667499,
+                        46.102162
+                  ]
+            },
+            {
+                  "name": "Town hall",
+                  "text": "The Subotica Town Hall is a monumental landmark built in the Hungarian Art Nouveau style.",
+                  "category": "landmark",
+                  "coords": [
+                        19.664552,
+                        46.09969
+                  ]
+            },
+            {
+                  "name": "Bunjevački kulturni centar",
+                  "text": "A cultural centre in Subotica dedicated to promoting Bunjevci culture.",
+                  "category": "cultural",
+                  "coords": [
+                        19.670912,
+                        46.100806
+                  ]
+            },
+            {
+                  "name": "Ivan Sarić Monument",
+                  "text": "A monument in Subotica honoring the aviation pioneer Ivan Sarić.",
+                  "category": "historical",
+                  "coords": [
+                        19.667888,
+                        46.099115
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RS",
     name: { de: "Lebensmittelindustrie Subotica", hu: "Szabadkai élelmiszeripar", ro: "Industria alimentară Subotica", en: "Subotica Food Industry" },

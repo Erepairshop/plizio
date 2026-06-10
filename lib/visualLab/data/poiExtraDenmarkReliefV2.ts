@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const denmarkReliefV2: POI[] = [
 
   {
-    id: "denmark-yding-skovhoj-relief-v2",
+    id: "denmark-yding-skovhoj-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Momhøj",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.732807,
+                        55.989787
+                  ]
+            },
+            {
+                  "name": "Rodebuske",
+                  "text": "Historische archäologische Stätte in der Region Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Trehøje",
+                  "text": "Eine bedeutende archäologische Fundstätte bei Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.761145,
+                        56.022188
+                  ]
+            },
+            {
+                  "name": "Bavnehøje",
+                  "text": "Archäologische Stätte mit historischen Überresten in Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.76004,
+                        56.020184
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Der höchste natürliche Punkt Dänemarks.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Ein Denkmal zur Erinnerung an die Wiedervereinigung in Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Ein Aussichtspunkt mit Panorama auf die dänische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Momhøj",
+                  "text": "Régészeti lelőhely Yding Skovhøj közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.732807,
+                        55.989787
+                  ]
+            },
+            {
+                  "name": "Rodebuske",
+                  "text": "Történelmi régészeti lelőhely az Yding Skovhøj régióban.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Trehøje",
+                  "text": "Jelentős régészeti lelőhely Yding Skovhőjnél.",
+                  "category": "historical",
+                  "coords": [
+                        9.761145,
+                        56.022188
+                  ]
+            },
+            {
+                  "name": "Bavnehøje",
+                  "text": "Régészeti lelőhely történelmi maradványokkal Yding Skovhőjnél.",
+                  "category": "historical",
+                  "coords": [
+                        9.76004,
+                        56.020184
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Dánia legmagasabb természetes pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Az újraegyesítés emlékére állított emlékmű Yding Skovhőjnél.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Kilátóhely panorámával a dán tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Momhøj",
+                  "text": "Un sit arheologic situat în apropiere de Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.732807,
+                        55.989787
+                  ]
+            },
+            {
+                  "name": "Rodebuske",
+                  "text": "Sit arheologic istoric în regiunea Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Trehøje",
+                  "text": "Un sit arheologic important situat la Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.761145,
+                        56.022188
+                  ]
+            },
+            {
+                  "name": "Bavnehøje",
+                  "text": "Sit arheologic cu vestigii istorice la Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.76004,
+                        56.020184
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Cel mai înalt punct natural din Danemarca.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Un monument dedicat reunificării, situat la Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Un punct de observație cu panoramă asupra peisajului danez.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Momhøj",
+                  "text": "An archaeological site located near Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.732807,
+                        55.989787
+                  ]
+            },
+            {
+                  "name": "Rodebuske",
+                  "text": "Historical archaeological site in the Yding Skovhøj region.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Trehøje",
+                  "text": "A significant archaeological site located at Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.761145,
+                        56.022188
+                  ]
+            },
+            {
+                  "name": "Bavnehøje",
+                  "text": "Archaeological site featuring historical remains in Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.76004,
+                        56.020184
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "The highest natural point in Denmark.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "A monument commemorating the reunification, located at Yding Skovhøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "A viewpoint offering a panorama of the Danish countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Yding Skovhøj", hu: "Yding Skovhøj", ro: "Yding Skovhøj", en: "Yding Skovhøj" },
@@ -48,7 +309,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-yding-skovhoj-relief-v2.webp",
   },
   {
-    id: "denmark-ejer-bavnehoj-relief-v2",
+    id: "denmark-ejer-bavnehoj-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rodebuske",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Der höchste natürliche Punkt Dänemarks, markiert durch einen Mühlstein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Ein Turm zur Erinnerung an die Wiedervereinigung Nordschleswigs mit Dänemark.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Tammestrup",
+                  "text": "Ein historisches Herrenhaus in der dänischen Region um Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.857689,
+                        55.985152
+                  ]
+            },
+            {
+                  "name": "Urup",
+                  "text": "Ein traditionelles dänisches Gutshaus in der Nähe von Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.777522,
+                        55.9482
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die dänische Landschaft bei Ejer Bavnehøj.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            },
+            {
+                  "name": "Østbirk Kirke",
+                  "text": "Eine historische Pfarrkirche in der Nähe des Gebiets Ejer Bavnehøj.",
+                  "category": "religious",
+                  "coords": [
+                        9.751784,
+                        55.966739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rodebuske",
+                  "text": "Régészeti lelőhely Ejer Bavnehøj közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Dánia legmagasabb természetes pontja, amelyet egy malomkő jelöl.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Kilátótorony, amelyet Dél-Jütland Dániával való újraegyesítésének emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Tammestrup",
+                  "text": "Történelmi udvarház Ejer Bavnehøj dániai régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        9.857689,
+                        55.985152
+                  ]
+            },
+            {
+                  "name": "Urup",
+                  "text": "Hagyományos dán udvarház Ejer Bavnehøj közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.777522,
+                        55.9482
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Kilátóhely panorámás kilátással a dán vidékre Ejer Bavnehøj közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            },
+            {
+                  "name": "Østbirk Kirke",
+                  "text": "Történelmi plébániatemplom Ejer Bavnehøj környékén.",
+                  "category": "religious",
+                  "coords": [
+                        9.751784,
+                        55.966739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rodebuske",
+                  "text": "Un sit arheologic situat în vecinătatea Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Cel mai înalt punct natural din Danemarca, marcat de o piatră de moară.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "Un turn construit pentru a comemora reunificarea Iutlandei de Sud cu Danemarca.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Tammestrup",
+                  "text": "Un conac istoric în regiunea daneză din jurul Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.857689,
+                        55.985152
+                  ]
+            },
+            {
+                  "name": "Urup",
+                  "text": "Un conac tradițional danez situat lângă Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.777522,
+                        55.9482
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "Un punct de belvedere cu vederi largi asupra peisajului danez la Ejer Bavnehøj.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            },
+            {
+                  "name": "Østbirk Kirke",
+                  "text": "O biserică parohială istorică situată în apropierea zonei Ejer Bavnehøj.",
+                  "category": "religious",
+                  "coords": [
+                        9.751784,
+                        55.966739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rodebuske",
+                  "text": "An archaeological site located in the vicinity of Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.795542,
+                        55.992717
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "The highest natural point in Denmark, marked by a millstone.",
+                  "category": "landmark",
+                  "coords": [
+                        9.82633,
+                        55.977463
+                  ]
+            },
+            {
+                  "name": "Genforeningstårnet",
+                  "text": "A tower built to commemorate the reunification of Southern Jutland with Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        9.830641,
+                        55.97707
+                  ]
+            },
+            {
+                  "name": "Tammestrup",
+                  "text": "A historical manor house in the Danish region around Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.857689,
+                        55.985152
+                  ]
+            },
+            {
+                  "name": "Urup",
+                  "text": "A traditional Danish manor house situated near Ejer Bavnehøj.",
+                  "category": "historical",
+                  "coords": [
+                        9.777522,
+                        55.9482
+                  ]
+            },
+            {
+                  "name": "Møgelhøj",
+                  "text": "A viewpoint offering wide vistas of the Danish countryside at Ejer Bavnehøj.",
+                  "category": "natural",
+                  "coords": [
+                        9.825099,
+                        55.974775
+                  ]
+            },
+            {
+                  "name": "Østbirk Kirke",
+                  "text": "A historic parish church serving the community near Ejer Bavnehøj.",
+                  "category": "religious",
+                  "coords": [
+                        9.751784,
+                        55.966739
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Ejer Bavnehøj", hu: "Ejer Bavnehøj", ro: "Ejer Bavnehøj", en: "Ejer Bavnehøj" },
@@ -183,7 +705,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-syv-hoje-relief-v2.webp",
   },
   {
-    id: "denmark-skamlingsbanken-relief-v2",
+    id: "denmark-skamlingsbanken-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paaskehøj",
+                  "text": "Eine archäologische Stätte mit prähistorischen Grabhügeln bei Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.563081,
+                        55.432763
+                  ]
+            },
+            {
+                  "name": "Tvillingedyssen",
+                  "text": "Eine antike Megalithanlage in der Region Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.588554,
+                        55.411904
+                  ]
+            },
+            {
+                  "name": "Bautahøj",
+                  "text": "Ein historischer Ort mit archäologischer Bedeutung bei Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.546292,
+                        55.385394
+                  ]
+            },
+            {
+                  "name": "Skamlingsbanken Besøgscenter",
+                  "text": "Das Besucherzentrum von Skamlingsbanken, das über die Geschichte des Ortes informiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.566481,
+                        55.417988
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Ein öffentlicher Schwimmbadbereich zur Freizeitgestaltung in Skamlingsbanken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.586867,
+                        55.41995
+                  ]
+            },
+            {
+                  "name": "Vejstrup Kirke",
+                  "text": "Eine traditionelle dänische Dorfkirche in der Nähe von Skamlingsbanken.",
+                  "category": "religious",
+                  "coords": [
+                        9.531005,
+                        55.402473
+                  ]
+            },
+            {
+                  "name": "Hejls Kirke",
+                  "text": "Eine historische Kirche in Hejls, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        9.576264,
+                        55.379057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paaskehøj",
+                  "text": "Régészeti lelőhely őskori sírhalmokkal Skamlingsbanken közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.563081,
+                        55.432763
+                  ]
+            },
+            {
+                  "name": "Tvillingedyssen",
+                  "text": "Ősi megalitikus építmény Skamlingsbanken régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        9.588554,
+                        55.411904
+                  ]
+            },
+            {
+                  "name": "Bautahøj",
+                  "text": "Történelmi és régészeti jelentőségű hely Skamlingsbanken közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.546292,
+                        55.385394
+                  ]
+            },
+            {
+                  "name": "Skamlingsbanken Besøgscenter",
+                  "text": "Skamlingsbanken látogatóközpontja, amely bemutatja a hely történetét.",
+                  "category": "museum",
+                  "coords": [
+                        9.566481,
+                        55.417988
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Nyilvános medence és szabadidős létesítmény Skamlingsbankenben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.586867,
+                        55.41995
+                  ]
+            },
+            {
+                  "name": "Vejstrup Kirke",
+                  "text": "Hagyományos dán falusi templom Skamlingsbanken közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.531005,
+                        55.402473
+                  ]
+            },
+            {
+                  "name": "Hejls Kirke",
+                  "text": "Történelmi templom Hejlsben, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.576264,
+                        55.379057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paaskehøj",
+                  "text": "Un sit arheologic cu tumuli preistorici lângă Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.563081,
+                        55.432763
+                  ]
+            },
+            {
+                  "name": "Tvillingedyssen",
+                  "text": "O structură megalitică antică în regiunea Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.588554,
+                        55.411904
+                  ]
+            },
+            {
+                  "name": "Bautahøj",
+                  "text": "Un loc istoric cu semnificație arheologică lângă Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.546292,
+                        55.385394
+                  ]
+            },
+            {
+                  "name": "Skamlingsbanken Besøgscenter",
+                  "text": "Centrul de vizitatori Skamlingsbanken, care oferă informații despre istoria locului.",
+                  "category": "museum",
+                  "coords": [
+                        9.566481,
+                        55.417988
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "O zonă cu piscină publică pentru recreere în Skamlingsbanken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.586867,
+                        55.41995
+                  ]
+            },
+            {
+                  "name": "Vejstrup Kirke",
+                  "text": "O biserică tradițională daneză de sat în apropiere de Skamlingsbanken.",
+                  "category": "religious",
+                  "coords": [
+                        9.531005,
+                        55.402473
+                  ]
+            },
+            {
+                  "name": "Hejls Kirke",
+                  "text": "O biserică istorică în Hejls, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        9.576264,
+                        55.379057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paaskehøj",
+                  "text": "An archaeological site featuring prehistoric burial mounds near Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.563081,
+                        55.432763
+                  ]
+            },
+            {
+                  "name": "Tvillingedyssen",
+                  "text": "An ancient megalithic structure in the Skamlingsbanken region.",
+                  "category": "historical",
+                  "coords": [
+                        9.588554,
+                        55.411904
+                  ]
+            },
+            {
+                  "name": "Bautahøj",
+                  "text": "A historical site of archaeological significance near Skamlingsbanken.",
+                  "category": "historical",
+                  "coords": [
+                        9.546292,
+                        55.385394
+                  ]
+            },
+            {
+                  "name": "Skamlingsbanken Besøgscenter",
+                  "text": "The Skamlingsbanken visitor center, providing information on the site's history.",
+                  "category": "museum",
+                  "coords": [
+                        9.566481,
+                        55.417988
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A public swimming pool area for recreation in Skamlingsbanken.",
+                  "category": "recreational",
+                  "coords": [
+                        9.586867,
+                        55.41995
+                  ]
+            },
+            {
+                  "name": "Vejstrup Kirke",
+                  "text": "A traditional Danish village church located near Skamlingsbanken.",
+                  "category": "religious",
+                  "coords": [
+                        9.531005,
+                        55.402473
+                  ]
+            },
+            {
+                  "name": "Hejls Kirke",
+                  "text": "A historic church in Hejls, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        9.576264,
+                        55.379057
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Skamlingsbanken", hu: "Skamlingsbanken", ro: "Skamlingsbanken", en: "Skamlingsbanken" },
@@ -228,7 +1011,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-skamlingsbanken-relief-v2.webp",
   },
   {
-    id: "denmark-knudshoved-odde-relief-v2",
+    id: "denmark-knudshoved-odde-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Månehøj",
+                  "text": "Ein antiker Grabhügel und eine archäologische Stätte auf der Halbinsel Knudshoved Odde.",
+                  "category": "historical",
+                  "coords": [
+                        11.740706,
+                        55.114861
+                  ]
+            },
+            {
+                  "name": "Østerhøj",
+                  "text": "Eine prähistorische archäologische Stätte auf Knudshoved Odde.",
+                  "category": "historical",
+                  "coords": [
+                        11.775214,
+                        55.101718
+                  ]
+            },
+            {
+                  "name": "Avnø Naturcenter",
+                  "text": "Ein Zentrum, das Informationen über die lokale Natur und Tierwelt der Region bietet.",
+                  "category": "museum",
+                  "coords": [
+                        11.762743,
+                        55.084445
+                  ]
+            },
+            {
+                  "name": "Avnø Fjord",
+                  "text": "Ein flaches Fjordgebiet, das für seine Vogelwelt und Seehunde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732693,
+                        55.078547
+                  ]
+            },
+            {
+                  "name": "Dybsø Fjord",
+                  "text": "Ein geschütztes Buchtgebiet an der Küste von Seeland.",
+                  "category": "landmark",
+                  "coords": [
+                        11.764635,
+                        55.139018
+                  ]
+            },
+            {
+                  "name": "Avnø Pumpestation",
+                  "text": "Eine historische Pumpstation im Avnø-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.776761,
+                        55.08766
+                  ]
+            },
+            {
+                  "name": "Svinø Kirke",
+                  "text": "Eine lokale Kirche, die der Gemeinde Svinø dient.",
+                  "category": "religious",
+                  "coords": [
+                        11.753526,
+                        55.108734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Månehøj",
+                  "text": "Ősi sírhalom és régészeti lelőhely a Knudshoved Odde-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        11.740706,
+                        55.114861
+                  ]
+            },
+            {
+                  "name": "Østerhøj",
+                  "text": "Knudshoved Odde területén található őskori régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        11.775214,
+                        55.101718
+                  ]
+            },
+            {
+                  "name": "Avnø Naturcenter",
+                  "text": "A régió helyi természetével és vadvilágával kapcsolatos információkat nyújtó központ.",
+                  "category": "museum",
+                  "coords": [
+                        11.762743,
+                        55.084445
+                  ]
+            },
+            {
+                  "name": "Avnø Fjord",
+                  "text": "Madárvilágáról és fókáiról ismert sekély fjordterület.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732693,
+                        55.078547
+                  ]
+            },
+            {
+                  "name": "Dybsø Fjord",
+                  "text": "Védett öbölterület Sjælland partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        11.764635,
+                        55.139018
+                  ]
+            },
+            {
+                  "name": "Avnø Pumpestation",
+                  "text": "Történelmi szivattyúállomás az Avnø területén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.776761,
+                        55.08766
+                  ]
+            },
+            {
+                  "name": "Svinø Kirke",
+                  "text": "Svinø közösségét kiszolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        11.753526,
+                        55.108734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Månehøj",
+                  "text": "Un tumul antic și sit arheologic pe peninsula Knudshoved Odde.",
+                  "category": "historical",
+                  "coords": [
+                        11.740706,
+                        55.114861
+                  ]
+            },
+            {
+                  "name": "Østerhøj",
+                  "text": "Un sit arheologic preistoric situat pe Knudshoved Odde.",
+                  "category": "historical",
+                  "coords": [
+                        11.775214,
+                        55.101718
+                  ]
+            },
+            {
+                  "name": "Avnø Naturcenter",
+                  "text": "Un centru care oferă informații despre natura și fauna locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        11.762743,
+                        55.084445
+                  ]
+            },
+            {
+                  "name": "Avnø Fjord",
+                  "text": "O zonă de fjord cu adâncime mică, cunoscută pentru păsările și focile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732693,
+                        55.078547
+                  ]
+            },
+            {
+                  "name": "Dybsø Fjord",
+                  "text": "O zonă de golf protejată pe coasta Zeelandei.",
+                  "category": "landmark",
+                  "coords": [
+                        11.764635,
+                        55.139018
+                  ]
+            },
+            {
+                  "name": "Avnø Pumpestation",
+                  "text": "O stație de pompare istorică situată în zona Avnø.",
+                  "category": "landmark",
+                  "coords": [
+                        11.776761,
+                        55.08766
+                  ]
+            },
+            {
+                  "name": "Svinø Kirke",
+                  "text": "O biserică locală care deservește comunitatea din Svinø.",
+                  "category": "religious",
+                  "coords": [
+                        11.753526,
+                        55.108734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Månehøj",
+                  "text": "An ancient burial mound and archaeological site on the Knudshoved Odde peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        11.740706,
+                        55.114861
+                  ]
+            },
+            {
+                  "name": "Østerhøj",
+                  "text": "A prehistoric archaeological site located on Knudshoved Odde.",
+                  "category": "historical",
+                  "coords": [
+                        11.775214,
+                        55.101718
+                  ]
+            },
+            {
+                  "name": "Avnø Naturcenter",
+                  "text": "A center providing information about the local nature and wildlife of the region.",
+                  "category": "museum",
+                  "coords": [
+                        11.762743,
+                        55.084445
+                  ]
+            },
+            {
+                  "name": "Avnø Fjord",
+                  "text": "A shallow fjord area known for its birdlife and seals.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732693,
+                        55.078547
+                  ]
+            },
+            {
+                  "name": "Dybsø Fjord",
+                  "text": "A protected bay area on the coast of Zealand.",
+                  "category": "landmark",
+                  "coords": [
+                        11.764635,
+                        55.139018
+                  ]
+            },
+            {
+                  "name": "Avnø Pumpestation",
+                  "text": "A historical pumping station located in the Avnø area.",
+                  "category": "landmark",
+                  "coords": [
+                        11.776761,
+                        55.08766
+                  ]
+            },
+            {
+                  "name": "Svinø Kirke",
+                  "text": "A local church serving the community of Svinø.",
+                  "category": "religious",
+                  "coords": [
+                        11.753526,
+                        55.108734
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Knudshoved Odde", hu: "Knudshoved Odde", ro: "Knudshoved Odde", en: "Knudshoved Odde" },
@@ -273,7 +1317,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-knudshoved-odde-relief-v2.webp",
   },
   {
-    id: "denmark-helgenaes-relief-v2",
+    id: "denmark-helgenaes-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sletterhage Fyr",
+                  "text": "Ein historischer Leuchtturm auf Helgenæs, der heute ein Museum beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        10.512899,
+                        56.095082
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Ein archäologischer Fundplatz auf der Halbinsel Helgenæs.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Tyskertårnet",
+                  "text": "Ein Beobachtungsturm aus dem Zweiten Weltkrieg mit weitem Blick über das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        10.526582,
+                        56.09982
+                  ]
+            },
+            {
+                  "name": "Bursklint",
+                  "text": "Ein Aussichtspunkt an der Steilküste von Helgenæs.",
+                  "category": "natural",
+                  "coords": [
+                        10.537175,
+                        56.102598
+                  ]
+            },
+            {
+                  "name": "Ellemandsbjerg",
+                  "text": "Der höchste Punkt auf Helgenæs mit Panoramablick über die dänische Ostsee.",
+                  "category": "natural",
+                  "coords": [
+                        10.524671,
+                        56.116721
+                  ]
+            },
+            {
+                  "name": "Høje Klæbjerg",
+                  "text": "Ein markanter Hügel und Aussichtspunkt in der dänischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.525478,
+                        56.100627
+                  ]
+            },
+            {
+                  "name": "Ral Sorteringstunnel",
+                  "text": "Überreste einer alten Industrieanlage zur Materialsortierung.",
+                  "category": "historical",
+                  "coords": [
+                        10.510516,
+                        56.098321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sletterhage Fyr",
+                  "text": "Történelmi világítótorony Helgenæsen, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.512899,
+                        56.095082
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Régészeti lelőhely a Helgenæs-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Tyskertårnet",
+                  "text": "Második világháborús figyelőtorony tágas kilátással a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        10.526582,
+                        56.09982
+                  ]
+            },
+            {
+                  "name": "Bursklint",
+                  "text": "Kilátópont Helgenæs meredek partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        10.537175,
+                        56.102598
+                  ]
+            },
+            {
+                  "name": "Ellemandsbjerg",
+                  "text": "Helgenæs legmagasabb pontja, panorámás kilátással a dán Keleti-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        10.524671,
+                        56.116721
+                  ]
+            },
+            {
+                  "name": "Høje Klæbjerg",
+                  "text": "Jellegzetes domb és kilátóhely a dán tájban.",
+                  "category": "natural",
+                  "coords": [
+                        10.525478,
+                        56.100627
+                  ]
+            },
+            {
+                  "name": "Ral Sorteringstunnel",
+                  "text": "Egy régi ipari anyagválogató létesítmény maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        10.510516,
+                        56.098321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sletterhage Fyr",
+                  "text": "Un far istoric pe Helgenæs, care astăzi găzduiește un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        10.512899,
+                        56.095082
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Un sit arheologic pe peninsula Helgenæs.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Tyskertårnet",
+                  "text": "Un turn de observație din al Doilea Război Mondial, cu o vedere largă asupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        10.526582,
+                        56.09982
+                  ]
+            },
+            {
+                  "name": "Bursklint",
+                  "text": "Un punct de belvedere pe coasta abruptă a peninsulei Helgenæs.",
+                  "category": "natural",
+                  "coords": [
+                        10.537175,
+                        56.102598
+                  ]
+            },
+            {
+                  "name": "Ellemandsbjerg",
+                  "text": "Cel mai înalt punct de pe Helgenæs, cu vedere panoramică asupra Mării Baltice daneze.",
+                  "category": "natural",
+                  "coords": [
+                        10.524671,
+                        56.116721
+                  ]
+            },
+            {
+                  "name": "Høje Klæbjerg",
+                  "text": "Un deal proeminent și punct de observație în peisajul danez.",
+                  "category": "natural",
+                  "coords": [
+                        10.525478,
+                        56.100627
+                  ]
+            },
+            {
+                  "name": "Ral Sorteringstunnel",
+                  "text": "Rămășițele unei vechi instalații industriale pentru sortarea materialelor.",
+                  "category": "historical",
+                  "coords": [
+                        10.510516,
+                        56.098321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sletterhage Fyr",
+                  "text": "A historic lighthouse on Helgenæs, now housing a museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.512899,
+                        56.095082
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "An archaeological site on the Helgenæs peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "The German Tower",
+                  "text": "A WWII observation tower with wide views over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        10.526582,
+                        56.09982
+                  ]
+            },
+            {
+                  "name": "Bursklint",
+                  "text": "A viewpoint on the steep coast of Helgenæs.",
+                  "category": "natural",
+                  "coords": [
+                        10.537175,
+                        56.102598
+                  ]
+            },
+            {
+                  "name": "Ellemandsbjerg",
+                  "text": "The highest point on Helgenæs, offering panoramic views over the Danish Baltic Sea.",
+                  "category": "natural",
+                  "coords": [
+                        10.524671,
+                        56.116721
+                  ]
+            },
+            {
+                  "name": "Høje Klæbjerg",
+                  "text": "A prominent hill and viewpoint in the Danish landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.525478,
+                        56.100627
+                  ]
+            },
+            {
+                  "name": "Ral Sorteringstunnel",
+                  "text": "Remains of an old industrial facility for sorting materials.",
+                  "category": "historical",
+                  "coords": [
+                        10.510516,
+                        56.098321
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Helgenæs", hu: "Helgenæs", ro: "Helgenæs", en: "Helgenæs" },
@@ -408,7 +1713,376 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-vogns-hoje-relief-v2.webp",
   },
   {
-    id: "denmark-mols-kyst-relief-v2", "sights": {"de": [{"name": "Fuglsø Strand", "text": "An der Küste der Region Mols in Dänemark liegt der charmante Fuglsø Strand. Besucher erwartet ein idyllischer Küstenabschnitt, der zu erholsamen Spaziergängen und zum Entspannen am Wasser einlädt. Dieser Ort eignet sich hervorragend für einen ruhigen Ausflug während der wärmeren Jahreszeit.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand ist ein malerischer Küstenabschnitt in der Region Mols, Dänemark. Die Umgebung bietet ideale Bedingungen für einen entspannten Tag am Meer, sei es zum Sonnenbaden oder für ausgedehnte Strandspaziergänge. Ein Besuch am späten Nachmittag verspricht oft eine besonders schöne Atmosphäre.", "category": "recreational", "coords": [10.485452, 56.174071]}], "hu": [{"name": "Fuglsø Strand", "text": "A dániai Mols régió partján található a bájos Fuglsø Strand. A látogatókat egy idilli partszakasz várja, amely pihentető sétákra és a víz melletti kikapcsolódásra hívogat. Ez a hely kiválóan alkalmas egy csendes kirándulásra a melegebb hónapokban.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "A Strands Strand egy festői partszakasz a dániai Mols régióban. A környék ideális feltételeket kínál egy pihentető tengerparti naphoz, legyen szó napozásról vagy hosszú tengerparti sétákról. Késő délutáni látogatás esetén gyakran különösen szép hangulatra lehet számítani.", "category": "recreational", "coords": [10.485452, 56.174071]}], "ro": [{"name": "Fuglsø Strand", "text": "Pe coasta regiunii Mols din Danemarca se află fermecătoarea Fuglsø Strand. Vizitatorii sunt întâmpinați de o întindere idilică de coastă care îi invită la plimbări relaxante și la odihnă lângă apă. Acest loc este perfect pentru o ieșire liniștită în timpul sezonului cald.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand este o întindere pitorească de coastă din regiunea Mols, Danemarca. Împrejurimile oferă condiții ideale pentru o zi relaxantă la mare, fie pentru a face plajă, fie pentru plimbări lungi pe țărm. O vizită după-amiaza târziu promite adesea o atmosferă deosebit de frumoasă.", "category": "recreational", "coords": [10.485452, 56.174071]}], "en": [{"name": "Fuglsø Strand", "text": "Situated on the coast of the Mols region in Denmark, the charming Fuglsø Strand awaits visitors. Guests will find an idyllic stretch of coastline that invites for relaxing walks and unwinding by the water. This spot is perfectly suited for a quiet outing during the warmer months.", "category": "recreational", "coords": [10.54342, 56.181545]}, {"name": "Strands Strand", "text": "Strands Strand is a picturesque stretch of coastline in the Mols region of Denmark. The surroundings offer ideal conditions for a relaxing day by the sea, whether for sunbathing or for taking long walks along the shore. A visit in the late afternoon often promises a particularly beautiful atmosphere.", "category": "recreational", "coords": [10.485452, 56.174071]}]},
+    id: "denmark-mols-kyst-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuglsø Strand",
+                  "text": "An der Küste der Region Mols in Dänemark liegt der charmante Fuglsø Strand. Besucher erwartet ein idyllischer Küstenabschnitt, der zu erholsamen Spaziergängen und zum Entspannen am Wasser einlädt. Dieser Ort eignet sich hervorragend für einen ruhigen Ausflug während der wärmeren Jahreszeit.",
+                  "category": "recreational",
+                  "coords": [
+                        10.54342,
+                        56.181545
+                  ]
+            },
+            {
+                  "name": "Strands Strand",
+                  "text": "Strands Strand ist ein malerischer Küstenabschnitt in der Region Mols, Dänemark. Die Umgebung bietet ideale Bedingungen für einen entspannten Tag am Meer, sei es zum Sonnenbaden oder für ausgedehnte Strandspaziergänge. Ein Besuch am späten Nachmittag verspricht oft eine besonders schöne Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        10.485452,
+                        56.174071
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Eine antike archäologische Stätte an der Mols-Küste, die historische Überreste bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes Skanse",
+                  "text": "Eine historische Verteidigungsanlage an der dänischen Küste, die für ihre strategische Bedeutung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.530856,
+                        56.162228
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Eine archäologische Stätte mit antiken Grabhügeln in der Region Mols Kyst.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Ein bedeutendes prähistorisches Ganggrab, das ein wichtiges Denkmal der dänischen Antike darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            },
+            {
+                  "name": "Brunhøie",
+                  "text": "Ein archäologisches Gebiet an der Küste von Mols, das antike Spuren menschlicher Besiedlung aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        10.516671,
+                        56.186638
+                  ]
+            },
+            {
+                  "name": "Faushøj",
+                  "text": "Ein antiker Grabhügel an der dänischen Küste, der Teil der lokalen archäologischen Landschaft ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.524903,
+                        56.186979
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Eine archäologische Stätte in Mols Kyst, die Überreste aus der fernen Vergangenheit beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Memory Lane Rockmuseum",
+                  "text": "Ein Museum an der Mols-Küste, das der Geschichte der Rock- und Popmusik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.531773,
+                        56.184833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuglsø Strand",
+                  "text": "A dániai Mols régió partján található a bájos Fuglsø Strand. A látogatókat egy idilli partszakasz várja, amely pihentető sétákra és a víz melletti kikapcsolódásra hívogat. Ez a hely kiválóan alkalmas egy csendes kirándulásra a melegebb hónapokban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.54342,
+                        56.181545
+                  ]
+            },
+            {
+                  "name": "Strands Strand",
+                  "text": "A Strands Strand egy festői partszakasz a dániai Mols régióban. A környék ideális feltételeket kínál egy pihentető tengerparti naphoz, legyen szó napozásról vagy hosszú tengerparti sétákról. Késő délutáni látogatás esetén gyakran különösen szép hangulatra lehet számítani.",
+                  "category": "recreational",
+                  "coords": [
+                        10.485452,
+                        56.174071
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Antik régészeti lelőhely a Mols-parton, amely történelmi maradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes Skanse",
+                  "text": "Dán tengerparti történelmi védmű, amely stratégiai jelentőségéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        10.530856,
+                        56.162228
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Régészeti lelőhely ősi sírhalmokkal a Mols Kyst régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Jelentős őskori folyosósír, amely a dán ókor fontos emléke.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            },
+            {
+                  "name": "Brunhøie",
+                  "text": "Régészeti terület a Mols-parton, amely az emberi letelepedés ősi nyomait mutatja.",
+                  "category": "historical",
+                  "coords": [
+                        10.516671,
+                        56.186638
+                  ]
+            },
+            {
+                  "name": "Faushøj",
+                  "text": "Ősi sírhalom a dán tengerparton, amely a helyi régészeti táj része.",
+                  "category": "historical",
+                  "coords": [
+                        10.524903,
+                        56.186979
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Mols Kyst-i régészeti lelőhely, amely a távoli múlt emlékeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Memory Lane Rockmuseum",
+                  "text": "A rock- és popzene történetének szentelt múzeum a Mols-parton.",
+                  "category": "museum",
+                  "coords": [
+                        10.531773,
+                        56.184833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuglsø Strand",
+                  "text": "Pe coasta regiunii Mols din Danemarca se află fermecătoarea Fuglsø Strand. Vizitatorii sunt întâmpinați de o întindere idilică de coastă care îi invită la plimbări relaxante și la odihnă lângă apă. Acest loc este perfect pentru o ieșire liniștită în timpul sezonului cald.",
+                  "category": "recreational",
+                  "coords": [
+                        10.54342,
+                        56.181545
+                  ]
+            },
+            {
+                  "name": "Strands Strand",
+                  "text": "Strands Strand este o întindere pitorească de coastă din regiunea Mols, Danemarca. Împrejurimile oferă condiții ideale pentru o zi relaxantă la mare, fie pentru a face plajă, fie pentru plimbări lungi pe țărm. O vizită după-amiaza târziu promite adesea o atmosferă deosebit de frumoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.485452,
+                        56.174071
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Un sit arheologic antic pe coasta Mols, care păstrează vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes Skanse",
+                  "text": "O fortificație istorică de pe coasta daneză, cunoscută pentru importanța sa strategică.",
+                  "category": "historical",
+                  "coords": [
+                        10.530856,
+                        56.162228
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Un sit arheologic cu tumuli antici în regiunea Mols Kyst.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Un mormânt megalitic preistoric semnificativ, reprezentând un monument important al antichității daneze.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            },
+            {
+                  "name": "Brunhøie",
+                  "text": "O zonă arheologică pe coasta Mols, care prezintă urme antice de așezare umană.",
+                  "category": "historical",
+                  "coords": [
+                        10.516671,
+                        56.186638
+                  ]
+            },
+            {
+                  "name": "Faushøj",
+                  "text": "Un tumul antic de pe coasta daneză, care face parte din peisajul arheologic local.",
+                  "category": "historical",
+                  "coords": [
+                        10.524903,
+                        56.186979
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "Un sit arheologic în Mols Kyst, care adăpostește vestigii din trecutul îndepărtat.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Memory Lane Rockmuseum",
+                  "text": "Un muzeu de pe coasta Mols, dedicat istoriei muzicii rock și pop.",
+                  "category": "museum",
+                  "coords": [
+                        10.531773,
+                        56.184833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuglsø Strand",
+                  "text": "Situated on the coast of the Mols region in Denmark, the charming Fuglsø Strand awaits visitors. Guests will find an idyllic stretch of coastline that invites for relaxing walks and unwinding by the water. This spot is perfectly suited for a quiet outing during the warmer months.",
+                  "category": "recreational",
+                  "coords": [
+                        10.54342,
+                        56.181545
+                  ]
+            },
+            {
+                  "name": "Strands Strand",
+                  "text": "Strands Strand is a picturesque stretch of coastline in the Mols region of Denmark. The surroundings offer ideal conditions for a relaxing day by the sea, whether for sunbathing or for taking long walks along the shore. A visit in the late afternoon often promises a particularly beautiful atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        10.485452,
+                        56.174071
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "An ancient archaeological site on the Mols coast that preserves historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes Skanse",
+                  "text": "A historical fortification on the Danish coast, known for its strategic importance.",
+                  "category": "historical",
+                  "coords": [
+                        10.530856,
+                        56.162228
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "An archaeological site featuring ancient burial mounds in the Mols Kyst region.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "A significant prehistoric passage grave that represents an important monument of Danish antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            },
+            {
+                  "name": "Brunhøie",
+                  "text": "An archaeological area on the Mols coast that features ancient traces of human settlement.",
+                  "category": "historical",
+                  "coords": [
+                        10.516671,
+                        56.186638
+                  ]
+            },
+            {
+                  "name": "Faushøj",
+                  "text": "An ancient burial mound on the Danish coast that is part of the local archaeological landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.524903,
+                        56.186979
+                  ]
+            },
+            {
+                  "name": "Askildhøj",
+                  "text": "An archaeological site in Mols Kyst that houses remains from the distant past.",
+                  "category": "historical",
+                  "coords": [
+                        10.523092,
+                        56.155779
+                  ]
+            },
+            {
+                  "name": "Memory Lane Rockmuseum",
+                  "text": "A museum on the Mols coast dedicated to the history of rock and pop music.",
+                  "category": "museum",
+                  "coords": [
+                        10.531773,
+                        56.184833
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Mols Kyst", hu: "Mols Kyst", ro: "Mols Kyst", en: "Mols Kyst" },
@@ -453,7 +2127,160 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-mols-kyst-relief-v2.webp",
   },
   {
-    id: "denmark-kragelund-bakke-relief-v2",
+    id: "denmark-kragelund-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Troldhøj",
+                  "text": "Eine archäologische Stätte mit einem prähistorischen Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        9.472711,
+                        56.241431
+                  ]
+            },
+            {
+                  "name": "Sørhøj",
+                  "text": "Ein antiker Grabhügel in der Nähe von Kragelund Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.474014,
+                        56.241168
+                  ]
+            },
+            {
+                  "name": "Vinderslevholm",
+                  "text": "Ein spätmittelalterliches Herrenhaus am Ufer des Sees Vinderslev Sø.",
+                  "category": "historical",
+                  "coords": [
+                        9.483158,
+                        56.25388
+                  ]
+            },
+            {
+                  "name": "Vinderslev Kirke",
+                  "text": "Eine romanische Kirche, die für ihre historischen Kalkmalereien bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.427221,
+                        56.253154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Troldhøj",
+                  "text": "Régészeti lelőhely egy őskori sírhalommal.",
+                  "category": "historical",
+                  "coords": [
+                        9.472711,
+                        56.241431
+                  ]
+            },
+            {
+                  "name": "Sørhøj",
+                  "text": "Egy ősi sírhalom Kragelund Bakke közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.474014,
+                        56.241168
+                  ]
+            },
+            {
+                  "name": "Vinderslevholm",
+                  "text": "Késő középkori udvarház a Vinderslev Sø tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        9.483158,
+                        56.25388
+                  ]
+            },
+            {
+                  "name": "Vinderslev Kirke",
+                  "text": "Román stílusú templom, amely mészfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.427221,
+                        56.253154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Troldhøj",
+                  "text": "Un sit arheologic care cuprinde un tumul preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        9.472711,
+                        56.241431
+                  ]
+            },
+            {
+                  "name": "Sørhøj",
+                  "text": "Un tumul funerar antic în apropiere de Kragelund Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.474014,
+                        56.241168
+                  ]
+            },
+            {
+                  "name": "Vinderslevholm",
+                  "text": "Un conac din Evul Mediu târziu pe malul lacului Vinderslev Sø.",
+                  "category": "historical",
+                  "coords": [
+                        9.483158,
+                        56.25388
+                  ]
+            },
+            {
+                  "name": "Vinderslev Kirke",
+                  "text": "O biserică romanică faimoasă pentru picturile sale murale.",
+                  "category": "religious",
+                  "coords": [
+                        9.427221,
+                        56.253154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troldhøj",
+                  "text": "An archaeological site featuring a prehistoric burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        9.472711,
+                        56.241431
+                  ]
+            },
+            {
+                  "name": "Sørhøj",
+                  "text": "An ancient burial mound near Kragelund Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.474014,
+                        56.241168
+                  ]
+            },
+            {
+                  "name": "Vinderslevholm",
+                  "text": "A late medieval manor house on the shore of Lake Vinderslev Sø.",
+                  "category": "historical",
+                  "coords": [
+                        9.483158,
+                        56.25388
+                  ]
+            },
+            {
+                  "name": "Vinderslev Kirke",
+                  "text": "A Romanesque church known for its historical lime paintings.",
+                  "category": "religious",
+                  "coords": [
+                        9.427221,
+                        56.253154
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Kragelund Bakke", hu: "Kragelund Bakke", ro: "Kragelund Bakke", en: "Kragelund Bakke" },
@@ -498,7 +2325,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-kragelund-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-fakse-kalkbrud-relief-v2", "sights": {"de": [{"name": "Strandhoved strand", "text": "In der Nähe des Kalkbruchs Fakse Kalkbrud in Dänemark lädt der Strandhoved Strand zum Verweilen ein. Die besondere landschaftliche Prägung der Region sorgt für ein interessantes Küstenerlebnis, das sich gut mit Erkundungen der Umgebung verbinden lässt. Für einen angenehmen Aufenthalt sollten Besucher bei gutem Wetter anreisen.", "category": "recreational", "coords": [12.152718, 55.209306]}], "hu": [{"name": "Strandhoved strand", "text": "A dániai Fakse Kalkbrud mészkőbánya közelében található Strandhoved Strand hívogat egy kis pihenésre. A régió különleges táji jellege érdekes tengerparti élményt nyújt, amely jól összekapcsolható a környék felfedezésével. A kellemes tartózkodás érdekében érdemes jó időben érkezni.", "category": "recreational", "coords": [12.152718, 55.209306]}], "ro": [{"name": "Strandhoved strand", "text": "În apropierea carierei de calcar Fakse Kalkbrud din Danemarca, Strandhoved Strand vă invită să zăboviți un pic. Caracterul peisagistic deosebit al regiunii asigură o experiență de coastă interesantă, care poate fi ușor combinată cu explorarea împrejurimilor. Pentru o ședere plăcută, vizitatorii ar trebui să ajungă când vremea este bună.", "category": "recreational", "coords": [12.152718, 55.209306]}], "en": [{"name": "Strandhoved strand", "text": "Located near the Fakse Kalkbrud limestone quarry in Denmark, Strandhoved Strand invites visitors to linger. The special landscape character of the region provides an interesting coastal experience that can be easily combined with exploring the surroundings. For a pleasant stay, visitors should plan their arrival during good weather.", "category": "recreational", "coords": [12.152718, 55.209306]}]},
+    id: "denmark-fakse-kalkbrud-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strandhoved strand",
+                  "text": "In der Nähe des Kalkbruchs Fakse Kalkbrud in Dänemark lädt der Strandhoved Strand zum Verweilen ein. Die besondere landschaftliche Prägung der Region sorgt für ein interessantes Küstenerlebnis, das sich gut mit Erkundungen der Umgebung verbinden lässt. Für einen angenehmen Aufenthalt sollten Besucher bei gutem Wetter anreisen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.152718,
+                        55.209306
+                  ]
+            },
+            {
+                  "name": "Geomuseum Faxe",
+                  "text": "Ein Museum, das sich der Geologie und den fossilen Funden aus dem Kalksteinbruch Faxe widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.123107,
+                        55.255656
+                  ]
+            },
+            {
+                  "name": "Junkershøj",
+                  "text": "Eine antike archäologische Stätte in der Region Faxe mit historischen Spuren.",
+                  "category": "historical",
+                  "coords": [
+                        12.169939,
+                        55.250656
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Ein prähistorischer Grabhügel, der von der frühen Besiedlung der dänischen Landschaft zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        12.164083,
+                        55.232199
+                  ]
+            },
+            {
+                  "name": "Blåbæk Vindmølle",
+                  "text": "Eine historische Windmühle, die als technisches Denkmal der traditionellen Handwerkskunst gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.118176,
+                        55.239556
+                  ]
+            },
+            {
+                  "name": "Rosendal",
+                  "text": "Ein historisches Herrenhaus in der Nähe von Fakse Kalkbrud.",
+                  "category": "historical",
+                  "coords": [
+                        12.110873,
+                        55.224623
+                  ]
+            },
+            {
+                  "name": "Alslevgård",
+                  "text": "Ein traditionelles dänisches Herrenhaus in der Region Fakse Kalkbrud.",
+                  "category": "historical",
+                  "coords": [
+                        12.177102,
+                        55.283567
+                  ]
+            },
+            {
+                  "name": "Ivans Kunstgalleri",
+                  "text": "Eine lokale Kunstgalerie im Bereich von Fakse Kalkbrud.",
+                  "category": "museum",
+                  "coords": [
+                        12.126514,
+                        55.252567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandhoved strand",
+                  "text": "A dániai Fakse Kalkbrud mészkőbánya közelében található Strandhoved Strand hívogat egy kis pihenésre. A régió különleges táji jellege érdekes tengerparti élményt nyújt, amely jól összekapcsolható a környék felfedezésével. A kellemes tartózkodás érdekében érdemes jó időben érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        12.152718,
+                        55.209306
+                  ]
+            },
+            {
+                  "name": "Geomuseum Faxe",
+                  "text": "A faxei mészkőbánya geológiájával és fosszilis leleteivel foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.123107,
+                        55.255656
+                  ]
+            },
+            {
+                  "name": "Junkershøj",
+                  "text": "Ősi régészeti lelőhely Faxe régiójában, történelmi nyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        12.169939,
+                        55.250656
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Prehisztorikus sírhalom, amely a dán táj korai benépesüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        12.164083,
+                        55.232199
+                  ]
+            },
+            {
+                  "name": "Blåbæk Vindmølle",
+                  "text": "Történelmi szélmalom, amely a hagyományos kézművesség technikai műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        12.118176,
+                        55.239556
+                  ]
+            },
+            {
+                  "name": "Rosendal",
+                  "text": "Történelmi udvarház Fakse Kalkbrud közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.110873,
+                        55.224623
+                  ]
+            },
+            {
+                  "name": "Alslevgård",
+                  "text": "Hagyományos dán udvarház a Fakse Kalkbrud régióban.",
+                  "category": "historical",
+                  "coords": [
+                        12.177102,
+                        55.283567
+                  ]
+            },
+            {
+                  "name": "Ivans Kunstgalleri",
+                  "text": "Helyi művészeti galéria a Fakse Kalkbrud területén.",
+                  "category": "museum",
+                  "coords": [
+                        12.126514,
+                        55.252567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandhoved strand",
+                  "text": "În apropierea carierei de calcar Fakse Kalkbrud din Danemarca, Strandhoved Strand vă invită să zăboviți un pic. Caracterul peisagistic deosebit al regiunii asigură o experiență de coastă interesantă, care poate fi ușor combinată cu explorarea împrejurimilor. Pentru o ședere plăcută, vizitatorii ar trebui să ajungă când vremea este bună.",
+                  "category": "recreational",
+                  "coords": [
+                        12.152718,
+                        55.209306
+                  ]
+            },
+            {
+                  "name": "Geomuseum Faxe",
+                  "text": "Un muzeu dedicat geologiei și descoperirilor de fosile din cariera de calcar Faxe.",
+                  "category": "museum",
+                  "coords": [
+                        12.123107,
+                        55.255656
+                  ]
+            },
+            {
+                  "name": "Junkershøj",
+                  "text": "Un sit arheologic antic în regiunea Faxe, cu urme istorice.",
+                  "category": "historical",
+                  "coords": [
+                        12.169939,
+                        55.250656
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Un tumul preistoric care atestă popularea timpurie a peisajului danez.",
+                  "category": "historical",
+                  "coords": [
+                        12.164083,
+                        55.232199
+                  ]
+            },
+            {
+                  "name": "Blåbæk Vindmølle",
+                  "text": "O moară de vânt istorică, considerată un monument tehnic al meșteșugului tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        12.118176,
+                        55.239556
+                  ]
+            },
+            {
+                  "name": "Rosendal",
+                  "text": "Un conac istoric situat lângă Fakse Kalkbrud.",
+                  "category": "historical",
+                  "coords": [
+                        12.110873,
+                        55.224623
+                  ]
+            },
+            {
+                  "name": "Alslevgård",
+                  "text": "Un conac tradițional danez din regiunea Fakse Kalkbrud.",
+                  "category": "historical",
+                  "coords": [
+                        12.177102,
+                        55.283567
+                  ]
+            },
+            {
+                  "name": "Ivans Kunstgalleri",
+                  "text": "O galerie de artă locală din zona Fakse Kalkbrud.",
+                  "category": "museum",
+                  "coords": [
+                        12.126514,
+                        55.252567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandhoved strand",
+                  "text": "Located near the Fakse Kalkbrud limestone quarry in Denmark, Strandhoved Strand invites visitors to linger. The special landscape character of the region provides an interesting coastal experience that can be easily combined with exploring the surroundings. For a pleasant stay, visitors should plan their arrival during good weather.",
+                  "category": "recreational",
+                  "coords": [
+                        12.152718,
+                        55.209306
+                  ]
+            },
+            {
+                  "name": "Geomuseum Faxe",
+                  "text": "A museum dedicated to the geology and fossil finds from the Faxe limestone quarry.",
+                  "category": "museum",
+                  "coords": [
+                        12.123107,
+                        55.255656
+                  ]
+            },
+            {
+                  "name": "Junkershøj",
+                  "text": "An ancient archaeological site in the Faxe region with historical traces.",
+                  "category": "historical",
+                  "coords": [
+                        12.169939,
+                        55.250656
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "A prehistoric burial mound testifying to the early settlement of the Danish landscape.",
+                  "category": "historical",
+                  "coords": [
+                        12.164083,
+                        55.232199
+                  ]
+            },
+            {
+                  "name": "Blåbæk Vindmølle",
+                  "text": "A historic windmill considered a technical monument of traditional craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        12.118176,
+                        55.239556
+                  ]
+            },
+            {
+                  "name": "Rosendal",
+                  "text": "A historic manor house located near Fakse Kalkbrud.",
+                  "category": "historical",
+                  "coords": [
+                        12.110873,
+                        55.224623
+                  ]
+            },
+            {
+                  "name": "Alslevgård",
+                  "text": "A traditional Danish manor house in the Fakse Kalkbrud region.",
+                  "category": "historical",
+                  "coords": [
+                        12.177102,
+                        55.283567
+                  ]
+            },
+            {
+                  "name": "Ivans Kunstgalleri",
+                  "text": "A local art gallery in the Fakse Kalkbrud area.",
+                  "category": "museum",
+                  "coords": [
+                        12.126514,
+                        55.252567
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Fakse Kalkbrud", hu: "Fakse Kalkbrud", ro: "Fakse Kalkbrud", en: "Fakse Kalkbrud" },
@@ -543,7 +2667,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-fakse-kalkbrud-relief-v2.webp",
   },
   {
-    id: "denmark-stendyssen-relief-v2",
+    id: "denmark-stendyssen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thylands Høj",
+                  "text": "Ein antiker Grabhügel in Stendyssen, der als prähistorisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.515982,
+                        55.827549
+                  ]
+            },
+            {
+                  "name": "Estershøj",
+                  "text": "Ein bedeutender bronzezeitlicher Grabhügel in Stendyssen mit weitem Blick über die Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        11.484235,
+                        55.83605
+                  ]
+            },
+            {
+                  "name": "Lottahøjene",
+                  "text": "Eine Gruppe historischer Grabhügel in der Region Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.503695,
+                        55.835463
+                  ]
+            },
+            {
+                  "name": "Duttehøjene",
+                  "text": "Prähistorische Grabhügel in Stendyssen, die Teil einer antiken Kultstätte sind.",
+                  "category": "historical",
+                  "coords": [
+                        11.537247,
+                        55.822015
+                  ]
+            },
+            {
+                  "name": "Brydehøje",
+                  "text": "Eine prähistorische archäologische Stätte und ein Grabhügel in Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.524595,
+                        55.822158
+                  ]
+            },
+            {
+                  "name": "Barnehøj",
+                  "text": "Ein antiker Grabhügel, der als bedeutende archäologische Stätte in Stendyssen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.530547,
+                        55.820877
+                  ]
+            },
+            {
+                  "name": "Kæmpegraven",
+                  "text": "Eine historische archäologische Stätte mit prähistorischen Überresten in Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.509806,
+                        55.833406
+                  ]
+            },
+            {
+                  "name": "Odsherred Zoo Rescue",
+                  "text": "Ein Rettungszoo und Tierschutzzentrum, das sich der Pflege exotischer Tiere widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.492492,
+                        55.82695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thylands Høj",
+                  "text": "Őskori sírhalom Stendyssenben, amely védett őskori műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        11.515982,
+                        55.827549
+                  ]
+            },
+            {
+                  "name": "Estershøj",
+                  "text": "Jelentős bronzkori sírhalom Stendyssenben, pazar kilátással a tájra.",
+                  "category": "historical",
+                  "coords": [
+                        11.484235,
+                        55.83605
+                  ]
+            },
+            {
+                  "name": "Lottahøjene",
+                  "text": "Történelmi sírhalmok csoportja a Stendyssen régióban.",
+                  "category": "historical",
+                  "coords": [
+                        11.503695,
+                        55.835463
+                  ]
+            },
+            {
+                  "name": "Duttehøjene",
+                  "text": "Őskori sírhalmok Stendyssenben, amelyek egy ősi kultikus hely részei.",
+                  "category": "historical",
+                  "coords": [
+                        11.537247,
+                        55.822015
+                  ]
+            },
+            {
+                  "name": "Brydehøje",
+                  "text": "Egy őskori régészeti lelőhely és sírhalom Stendyssenben.",
+                  "category": "historical",
+                  "coords": [
+                        11.524595,
+                        55.822158
+                  ]
+            },
+            {
+                  "name": "Barnehøj",
+                  "text": "Egy ősi sírhalom, amely jelentős régészeti lelőhely Stendyssenben.",
+                  "category": "historical",
+                  "coords": [
+                        11.530547,
+                        55.820877
+                  ]
+            },
+            {
+                  "name": "Kæmpegraven",
+                  "text": "Történelmi régészeti lelőhely őskori maradványokkal Stendyssenben.",
+                  "category": "historical",
+                  "coords": [
+                        11.509806,
+                        55.833406
+                  ]
+            },
+            {
+                  "name": "Odsherred Zoo Rescue",
+                  "text": "Egy mentett állatoknak fenntartott állatkert és menhely, amely egzotikus állatok gondozásával foglalkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        11.492492,
+                        55.82695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thylands Høj",
+                  "text": "Un tumul funerar antic în Stendyssen, protejat ca monument preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        11.515982,
+                        55.827549
+                  ]
+            },
+            {
+                  "name": "Estershøj",
+                  "text": "Un tumul funerar important din epoca bronzului în Stendyssen, cu o vedere largă asupra peisajului.",
+                  "category": "historical",
+                  "coords": [
+                        11.484235,
+                        55.83605
+                  ]
+            },
+            {
+                  "name": "Lottahøjene",
+                  "text": "Un grup de tumuli funerari istorici în regiunea Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.503695,
+                        55.835463
+                  ]
+            },
+            {
+                  "name": "Duttehøjene",
+                  "text": "Tumuli funerari preistorici în Stendyssen, care fac parte dintr-un vechi sit cultural.",
+                  "category": "historical",
+                  "coords": [
+                        11.537247,
+                        55.822015
+                  ]
+            },
+            {
+                  "name": "Brydehøje",
+                  "text": "Un sit arheologic preistoric și un tumul situat în Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.524595,
+                        55.822158
+                  ]
+            },
+            {
+                  "name": "Barnehøj",
+                  "text": "Un tumul antic cunoscut ca un sit arheologic important în Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.530547,
+                        55.820877
+                  ]
+            },
+            {
+                  "name": "Kæmpegraven",
+                  "text": "Un sit arheologic istoric cu vestigii preistorice în Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.509806,
+                        55.833406
+                  ]
+            },
+            {
+                  "name": "Odsherred Zoo Rescue",
+                  "text": "O grădină zoologică de salvare și un sanctuar dedicat îngrijirii animalelor exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        11.492492,
+                        55.82695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thylands Høj",
+                  "text": "An ancient burial mound in Stendyssen, protected as a prehistoric monument.",
+                  "category": "historical",
+                  "coords": [
+                        11.515982,
+                        55.827549
+                  ]
+            },
+            {
+                  "name": "Estershøj",
+                  "text": "A significant Bronze Age burial mound in Stendyssen with extensive views over the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        11.484235,
+                        55.83605
+                  ]
+            },
+            {
+                  "name": "Lottahøjene",
+                  "text": "A group of historic burial mounds in the Stendyssen region.",
+                  "category": "historical",
+                  "coords": [
+                        11.503695,
+                        55.835463
+                  ]
+            },
+            {
+                  "name": "Duttehøjene",
+                  "text": "Prehistoric burial mounds in Stendyssen forming part of an ancient cultural site.",
+                  "category": "historical",
+                  "coords": [
+                        11.537247,
+                        55.822015
+                  ]
+            },
+            {
+                  "name": "Brydehøje",
+                  "text": "A prehistoric archaeological site and burial mound located in Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.524595,
+                        55.822158
+                  ]
+            },
+            {
+                  "name": "Barnehøj",
+                  "text": "An ancient burial mound known as a significant archaeological site in Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.530547,
+                        55.820877
+                  ]
+            },
+            {
+                  "name": "Kæmpegraven",
+                  "text": "A historical archaeological site featuring prehistoric remains in Stendyssen.",
+                  "category": "historical",
+                  "coords": [
+                        11.509806,
+                        55.833406
+                  ]
+            },
+            {
+                  "name": "Odsherred Zoo Rescue",
+                  "text": "A rescue zoo and animal sanctuary dedicated to the care of exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        11.492492,
+                        55.82695
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Stendyssen", hu: "Stendyssen", ro: "Stendyssen", en: "Stendyssen" },
@@ -588,7 +3009,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-stendyssen-relief-v2.webp",
   },
   {
-    id: "denmark-jyske-as-relief-v2",
+    id: "denmark-jyske-as-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hugormehøje",
+                  "text": "Alte Grabhügel (Hügelgräber) im Wandergebiet Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.106527,
+                        57.255518
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Ein markanter prähistorischer Grabhügel in der Landschaft von Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.101692,
+                        57.255885
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Eine Gruppe historischer Grabhügel in der Region Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.114352,
+                        57.256546
+                  ]
+            },
+            {
+                  "name": "Baalbakkehøj",
+                  "text": "Ein archäologisch bedeutender Hügel im Gebiet Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.1342,
+                        57.2398
+                  ]
+            },
+            {
+                  "name": "Troldhøje",
+                  "text": "Prähistorische Grabhügel, die Teil des kulturellen Erbes von Jyske Ås sind.",
+                  "category": "historical",
+                  "coords": [
+                        10.142278,
+                        57.232766
+                  ]
+            },
+            {
+                  "name": "Benhøj",
+                  "text": "Ein antiker Ort mit Grabstätten in der hügeligen Landschaft von Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.116669,
+                        57.273414
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Zwillingsgrabhügel aus der Vorzeit in der Region Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.152733,
+                        57.272591
+                  ]
+            },
+            {
+                  "name": "Smedehøje",
+                  "text": "Eine Reihe prähistorischer Hügelgräber in Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.131645,
+                        57.263146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hugormehøje",
+                  "text": "Ősi sírhalmok a Jyske Ås dombvidéki kirándulóhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        10.106527,
+                        57.255518
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Jellegzetes őskori sírhalom a Jyske Ås vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.101692,
+                        57.255885
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Történelmi sírhalmok csoportja a Jyske Ås régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.114352,
+                        57.256546
+                  ]
+            },
+            {
+                  "name": "Baalbakkehøj",
+                  "text": "Régészetileg jelentős halom a Jyske Ås területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.1342,
+                        57.2398
+                  ]
+            },
+            {
+                  "name": "Troldhøje",
+                  "text": "A Jyske Ås kulturális örökségéhez tartozó őskori sírhalmok.",
+                  "category": "historical",
+                  "coords": [
+                        10.142278,
+                        57.232766
+                  ]
+            },
+            {
+                  "name": "Benhøj",
+                  "text": "Ősi temetkezési hely a Jyske Ås dombos vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.116669,
+                        57.273414
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Iker-sírhalmok az őskorból a Jyske Ås területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.152733,
+                        57.272591
+                  ]
+            },
+            {
+                  "name": "Smedehøje",
+                  "text": "Őskori sírhalmok sorozata Jyske Ås területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.131645,
+                        57.263146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hugormehøje",
+                  "text": "Tumuli antici (morminte sub formă de movilă) în zona Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.106527,
+                        57.255518
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "O movilă funerară preistorică proeminentă în peisajul de la Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.101692,
+                        57.255885
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Un grup de tumuli istorici situați în regiunea Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.114352,
+                        57.256546
+                  ]
+            },
+            {
+                  "name": "Baalbakkehøj",
+                  "text": "O movilă de importanță arheologică în zona Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.1342,
+                        57.2398
+                  ]
+            },
+            {
+                  "name": "Troldhøje",
+                  "text": "Movile funerare preistorice care fac parte din patrimoniul cultural de la Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.142278,
+                        57.232766
+                  ]
+            },
+            {
+                  "name": "Benhøj",
+                  "text": "Un sit antic cu morminte situat în peisajul colinar de la Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.116669,
+                        57.273414
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Tumuli gemeni din epoca preistorică în regiunea Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.152733,
+                        57.272591
+                  ]
+            },
+            {
+                  "name": "Smedehøje",
+                  "text": "O serie de tumuli preistorici în localitatea Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.131645,
+                        57.263146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hugormehøje",
+                  "text": "Ancient burial mounds located in the Jyske Ås hilly area.",
+                  "category": "historical",
+                  "coords": [
+                        10.106527,
+                        57.255518
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "A prominent prehistoric burial mound in the Jyske Ås landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.101692,
+                        57.255885
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "A group of historical burial mounds in the Jyske Ås region.",
+                  "category": "historical",
+                  "coords": [
+                        10.114352,
+                        57.256546
+                  ]
+            },
+            {
+                  "name": "Baalbakkehøj",
+                  "text": "An archaeologically significant mound in the Jyske Ås area.",
+                  "category": "historical",
+                  "coords": [
+                        10.1342,
+                        57.2398
+                  ]
+            },
+            {
+                  "name": "Troldhøje",
+                  "text": "Prehistoric burial mounds that are part of the cultural heritage of Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.142278,
+                        57.232766
+                  ]
+            },
+            {
+                  "name": "Benhøj",
+                  "text": "An ancient burial site located in the hilly landscape of Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.116669,
+                        57.273414
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Twin burial mounds from prehistoric times in the Jyske Ås region.",
+                  "category": "historical",
+                  "coords": [
+                        10.152733,
+                        57.272591
+                  ]
+            },
+            {
+                  "name": "Smedehøje",
+                  "text": "A series of prehistoric burial mounds in Jyske Ås.",
+                  "category": "historical",
+                  "coords": [
+                        10.131645,
+                        57.263146
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Jyske Ås", hu: "Jyske Ås", ro: "Jyske Ås", en: "Jyske Ås" },
@@ -678,7 +3396,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-knudshoved-relief-v2.webp",
   },
   {
-    id: "denmark-borre-bakkekam-relief-v2", "sights": {"de": [{"name": "Klintholm Havn Strand", "text": "Nahe der Bakkekammen-Hügel bei Borre in Dänemark erstreckt sich der Klintholm Havn Strand. Diese reizvolle Lage am Hafenort bietet Besuchern die Möglichkeit, maritime Eindrücke mit einem Aufenthalt am Sandstrand zu kombinieren. Wer die Gegend in Ruhe erkunden möchte, profitiert von einem Besuch außerhalb der Stoßzeiten.", "category": "recreational", "coords": [12.47629, 54.950835]}], "hu": [{"name": "Klintholm Havn Strand", "text": "A dániai Borre közelében fekvő Bakkekammen-dombok mellett húzódik a Klintholm Havn Strand. Ez a bájos kikötővárosi elhelyezkedés lehetőséget nyújt a látogatóknak, hogy a tengeri élményeket egy homokos strandon töltött pihenéssel ötvözzék. Aki nyugodtan szeretné felfedezni a környéket, annak érdemes a csúcsidőn kívül érkeznie.", "category": "recreational", "coords": [12.47629, 54.950835]}], "ro": [{"name": "Klintholm Havn Strand", "text": "Lângă dealurile Bakkekammen de lângă Borre, în Danemarca, se întinde Klintholm Havn Strand. Această locație fermecătoare de lângă port oferă vizitatorilor posibilitatea de a combina impresiile maritime cu o ședere pe plaja de nisip. Cei care doresc să exploreze zona în liniște vor profita de o vizită în afara orelor de vârf.", "category": "recreational", "coords": [12.47629, 54.950835]}], "en": [{"name": "Klintholm Havn Strand", "text": "Near the Bakkekammen hills by Borre in Denmark, you will find the Klintholm Havn Strand. This charming harbor location gives visitors the chance to combine maritime impressions with a stay on the sandy beach. Those wanting to explore the area in peace will benefit from visiting outside peak hours.", "category": "recreational", "coords": [12.47629, 54.950835]}]},
+    id: "denmark-borre-bakkekam-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klintholm Havn Strand",
+                  "text": "Nahe der Bakkekammen-Hügel bei Borre in Dänemark erstreckt sich der Klintholm Havn Strand. Diese reizvolle Lage am Hafenort bietet Besuchern die Möglichkeit, maritime Eindrücke mit einem Aufenthalt am Sandstrand zu kombinieren. Wer die Gegend in Ruhe erkunden möchte, profitiert von einem Besuch außerhalb der Stoßzeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        12.47629,
+                        54.950835
+                  ]
+            },
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Ein historischer Grabhügel oder eine archäologische Stätte in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "Eine archäologische Fundstätte in der dänischen Region Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Ein Ort mit archäologischer Bedeutung in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "Ein archäologisches Denkmal in der Landschaft von Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Ein markanter Grabhügel in der Gegend von Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Eine archäologische Ausgrabungsstätte in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Hauledshøj",
+                  "text": "Überreste einer prähistorischen Stätte in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.49056,
+                        55.007743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klintholm Havn Strand",
+                  "text": "A dániai Borre közelében fekvő Bakkekammen-dombok mellett húzódik a Klintholm Havn Strand. Ez a bájos kikötővárosi elhelyezkedés lehetőséget nyújt a látogatóknak, hogy a tengeri élményeket egy homokos strandon töltött pihenéssel ötvözzék. Aki nyugodtan szeretné felfedezni a környéket, annak érdemes a csúcsidőn kívül érkeznie.",
+                  "category": "recreational",
+                  "coords": [
+                        12.47629,
+                        54.950835
+                  ]
+            },
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Történelmi sírhalom vagy régészeti lelőhely Borre Bakkekam területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "Régészeti lelőhely a dániai Borre Bakkekam régióban.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Régészeti jelentőségű helyszín Borre Bakkekam területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "Régészeti műemlék Borre Bakkekam vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Jellegzetes sírhalom Borre Bakkekam környékén.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Régészeti ásatási terület Borre Bakkekam területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Hauledshøj",
+                  "text": "Prehisztorikus helyszín maradványai Borre Bakkekam területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.49056,
+                        55.007743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klintholm Havn Strand",
+                  "text": "Lângă dealurile Bakkekammen de lângă Borre, în Danemarca, se întinde Klintholm Havn Strand. Această locație fermecătoare de lângă port oferă vizitatorilor posibilitatea de a combina impresiile maritime cu o ședere pe plaja de nisip. Cei care doresc să exploreze zona în liniște vor profita de o vizită în afara orelor de vârf.",
+                  "category": "recreational",
+                  "coords": [
+                        12.47629,
+                        54.950835
+                  ]
+            },
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "Un tumul istoric sau sit arheologic în Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "Un sit arheologic în regiunea daneză Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "Un loc cu importanță arheologică în Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "Un monument arheologic în peisajul din Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "Un tumul proeminent în zona Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Un sit de excavații arheologice în Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Hauledshøj",
+                  "text": "Vestigiile unui sit preistoric în Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.49056,
+                        55.007743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klintholm Havn Strand",
+                  "text": "Near the Bakkekammen hills by Borre in Denmark, you will find the Klintholm Havn Strand. This charming harbor location gives visitors the chance to combine maritime impressions with a stay on the sandy beach. Those wanting to explore the area in peace will benefit from visiting outside peak hours.",
+                  "category": "recreational",
+                  "coords": [
+                        12.47629,
+                        54.950835
+                  ]
+            },
+            {
+                  "name": "Gunildsbjerg",
+                  "text": "A historical burial mound or archaeological site in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.490671,
+                        54.975368
+                  ]
+            },
+            {
+                  "name": "Skriveshøj",
+                  "text": "An archaeological site in the Danish region of Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.530607,
+                        54.973734
+                  ]
+            },
+            {
+                  "name": "Deinesbjerg",
+                  "text": "A site of archaeological significance in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.510228,
+                        54.982178
+                  ]
+            },
+            {
+                  "name": "Koes Minde",
+                  "text": "An archaeological monument in the landscape of Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.524536,
+                        54.998373
+                  ]
+            },
+            {
+                  "name": "Kammerherrens Høj",
+                  "text": "A prominent burial mound in the Borre Bakkekam area.",
+                  "category": "historical",
+                  "coords": [
+                        12.523059,
+                        54.998942
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "An archaeological excavation site in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.527745,
+                        54.998029
+                  ]
+            },
+            {
+                  "name": "Hauledshøj",
+                  "text": "Remains of a prehistoric site in Borre Bakkekam.",
+                  "category": "historical",
+                  "coords": [
+                        12.49056,
+                        55.007743
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Borre Bakkekam", hu: "Borre Bakkekam", ro: "Borre Bakkekam", en: "Borre Bakkekam" },
@@ -723,7 +3738,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-borre-bakkekam-relief-v2.webp",
   },
   {
-    id: "denmark-aars-hoje-relief-v2",
+    id: "denmark-aars-hoje-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sorthøj",
+                  "text": "Ein alter Grabhügel in der archäologischen Stätte Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.550187,
+                        56.823623
+                  ]
+            },
+            {
+                  "name": "Bryggehøj",
+                  "text": "Ein prähistorischer Grabhügel in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.474595,
+                        56.830422
+                  ]
+            },
+            {
+                  "name": "Tinghøje",
+                  "text": "Teil einer Gruppe von historischen Grabhügeln in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.464469,
+                        56.807176
+                  ]
+            },
+            {
+                  "name": "Pisselhøj",
+                  "text": "Ein archäologisch bedeutender Hügel in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.471188,
+                        56.79122
+                  ]
+            },
+            {
+                  "name": "Kæmpehøj",
+                  "text": "Ein antiker Grabhügel in der Landschaft von Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.53606,
+                        56.81299
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Ein historisches Bodendenkmal in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.544373,
+                        56.782167
+                  ]
+            },
+            {
+                  "name": "Klavshøj",
+                  "text": "Einer der charakteristischen Grabhügel in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.557645,
+                        56.783605
+                  ]
+            },
+            {
+                  "name": "Vesthimmerlands Museum",
+                  "text": "Ein Regionalmuseum, das die Geschichte und Kultur von Vesthimmerland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.521906,
+                        56.802417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sorthøj",
+                  "text": "Egy ősi sírhalom az Aars Høje régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        9.550187,
+                        56.823623
+                  ]
+            },
+            {
+                  "name": "Bryggehøj",
+                  "text": "Egy őskori sírhalom Aars Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.474595,
+                        56.830422
+                  ]
+            },
+            {
+                  "name": "Tinghøje",
+                  "text": "Történelmi sírhalmok csoportjának része Aars Høje-ben.",
+                  "category": "historical",
+                  "coords": [
+                        9.464469,
+                        56.807176
+                  ]
+            },
+            {
+                  "name": "Pisselhøj",
+                  "text": "Régészeti szempontból jelentős halom Aars Høje-ben.",
+                  "category": "historical",
+                  "coords": [
+                        9.471188,
+                        56.79122
+                  ]
+            },
+            {
+                  "name": "Kæmpehøj",
+                  "text": "Egy ókori sírhalom Aars Høje táján.",
+                  "category": "historical",
+                  "coords": [
+                        9.53606,
+                        56.81299
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Történelmi földvár oder sírhalom Aars Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.544373,
+                        56.782167
+                  ]
+            },
+            {
+                  "name": "Klavshøj",
+                  "text": "Az Aars Høje jellegzetes sírhalmainak egyike.",
+                  "category": "historical",
+                  "coords": [
+                        9.557645,
+                        56.783605
+                  ]
+            },
+            {
+                  "name": "Vesthimmerlands Museum",
+                  "text": "Regionális múzeum, amely Vesthimmerland történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.521906,
+                        56.802417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sorthøj",
+                  "text": "Un vechi tumul în situl arheologic Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.550187,
+                        56.823623
+                  ]
+            },
+            {
+                  "name": "Bryggehøj",
+                  "text": "Un gorgan preistoric în Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.474595,
+                        56.830422
+                  ]
+            },
+            {
+                  "name": "Tinghøje",
+                  "text": "Parte dintr-un grup de tumuli istorici în Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.464469,
+                        56.807176
+                  ]
+            },
+            {
+                  "name": "Pisselhøj",
+                  "text": "Un tumul cu semnificație arheologică în Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.471188,
+                        56.79122
+                  ]
+            },
+            {
+                  "name": "Kæmpehøj",
+                  "text": "Un tumul antic în peisajul din Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.53606,
+                        56.81299
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "Un monument istoric al solului în Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.544373,
+                        56.782167
+                  ]
+            },
+            {
+                  "name": "Klavshøj",
+                  "text": "Unul dintre tumulii caracteristici din Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.557645,
+                        56.783605
+                  ]
+            },
+            {
+                  "name": "Vesthimmerlands Museum",
+                  "text": "Un muzeu regional care prezintă istoria și cultura din Vesthimmerland.",
+                  "category": "museum",
+                  "coords": [
+                        9.521906,
+                        56.802417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sorthøj",
+                  "text": "An ancient burial mound at the Aars Høje archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        9.550187,
+                        56.823623
+                  ]
+            },
+            {
+                  "name": "Bryggehøj",
+                  "text": "A prehistoric burial mound in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.474595,
+                        56.830422
+                  ]
+            },
+            {
+                  "name": "Tinghøje",
+                  "text": "Part of a group of historical burial mounds in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.464469,
+                        56.807176
+                  ]
+            },
+            {
+                  "name": "Pisselhøj",
+                  "text": "An archaeologically significant mound in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.471188,
+                        56.79122
+                  ]
+            },
+            {
+                  "name": "Kæmpehøj",
+                  "text": "An ancient burial mound in the Aars Høje landscape.",
+                  "category": "historical",
+                  "coords": [
+                        9.53606,
+                        56.81299
+                  ]
+            },
+            {
+                  "name": "Rønhøj",
+                  "text": "A historical ground monument in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.544373,
+                        56.782167
+                  ]
+            },
+            {
+                  "name": "Klavshøj",
+                  "text": "One of the characteristic burial mounds in Aars Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.557645,
+                        56.783605
+                  ]
+            },
+            {
+                  "name": "Vesthimmerlands Museum",
+                  "text": "A regional museum showing the history and culture of Vesthimmerland.",
+                  "category": "museum",
+                  "coords": [
+                        9.521906,
+                        56.802417
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Aars Høje", hu: "Aars Høje", ro: "Aars Høje", en: "Aars Høje" },
@@ -768,7 +4080,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-aars-hoje-relief-v2.webp",
   },
   {
-    id: "denmark-fur-bakke-relief-v2",
+    id: "denmark-fur-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bette Jenses Hyw",
+                  "text": "Ein markanter Grabhügel aus der Bronzezeit auf der dänischen Insel Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.006132,
+                        56.833
+                  ]
+            },
+            {
+                  "name": "Davrehøi",
+                  "text": "Eine archäologische Fundstätte mit prähistorischen Grabhügeln auf der Insel Fur.",
+                  "category": "historical",
+                  "coords": [
+                        8.960839,
+                        56.832151
+                  ]
+            },
+            {
+                  "name": "Morishøi",
+                  "text": "Ein antiker Grabhügel, der Teil der prähistorischen Landschaft der Insel Fur ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.969667,
+                        56.826663
+                  ]
+            },
+            {
+                  "name": "Springhøie",
+                  "text": "Eine Gruppe von prähistorischen Grabhügeln in der hügeligen Landschaft von Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.026072,
+                        56.840683
+                  ]
+            },
+            {
+                  "name": "Springhøi",
+                  "text": "Ein einzelner antiker Grabhügel in der Nähe der Springhøie-Gruppe auf der Insel Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.025719,
+                        56.838206
+                  ]
+            },
+            {
+                  "name": "Lille Taffelhøj",
+                  "text": "Ein kleinerer prähistorischer Grabhügel auf der Insel Fur in Dänemark.",
+                  "category": "historical",
+                  "coords": [
+                        9.026388,
+                        56.834104
+                  ]
+            },
+            {
+                  "name": "Skaaredhøi",
+                  "text": "Ein historischer Grabhügel, der Zeugnis von der frühen Besiedlung der Insel Fur ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        9.018193,
+                        56.83221
+                  ]
+            },
+            {
+                  "name": "Emmesten",
+                  "text": "Eine bedeutende archäologische Stätte mit Überresten aus der Vorzeit auf Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        8.989789,
+                        56.83929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bette Jenses Hyw",
+                  "text": "Jellegzetes bronzkori sírhalom a dániai Fur szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        9.006132,
+                        56.833
+                  ]
+            },
+            {
+                  "name": "Davrehøi",
+                  "text": "Régészeti lelőhely őskori sírhalmokkal Fur szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        8.960839,
+                        56.832151
+                  ]
+            },
+            {
+                  "name": "Morishøi",
+                  "text": "Ősi sírhalom, amely Fur szigetének őskori tájképéhez tartozik.",
+                  "category": "historical",
+                  "coords": [
+                        8.969667,
+                        56.826663
+                  ]
+            },
+            {
+                  "name": "Springhøie",
+                  "text": "Őskori sírhalmok csoportja Fur Bakke dombos táján.",
+                  "category": "historical",
+                  "coords": [
+                        9.026072,
+                        56.840683
+                  ]
+            },
+            {
+                  "name": "Springhøi",
+                  "text": "Egy magányos ősi sírhalom a Springhøie csoport közelében Fur szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        9.025719,
+                        56.838206
+                  ]
+            },
+            {
+                  "name": "Lille Taffelhøj",
+                  "text": "Kisebb őskori sírhalom a dániai Fur szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        9.026388,
+                        56.834104
+                  ]
+            },
+            {
+                  "name": "Skaaredhøi",
+                  "text": "Történelmi sírhalom, amely Fur szigetének korai benépesüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        9.018193,
+                        56.83221
+                  ]
+            },
+            {
+                  "name": "Emmesten",
+                  "text": "Jelentős régészeti lelőhely őskori maradványokkal Fur Bakkén.",
+                  "category": "historical",
+                  "coords": [
+                        8.989789,
+                        56.83929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bette Jenses Hyw",
+                  "text": "Un tumul funerar proeminent din Epoca Bronzului pe insula daneză Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.006132,
+                        56.833
+                  ]
+            },
+            {
+                  "name": "Davrehøi",
+                  "text": "Un sit arheologic cu tumuli preistorici pe insula Fur.",
+                  "category": "historical",
+                  "coords": [
+                        8.960839,
+                        56.832151
+                  ]
+            },
+            {
+                  "name": "Morishøi",
+                  "text": "Un tumul funerar antic care face parte din peisajul preistoric al insulei Fur.",
+                  "category": "historical",
+                  "coords": [
+                        8.969667,
+                        56.826663
+                  ]
+            },
+            {
+                  "name": "Springhøie",
+                  "text": "Un grup de tumuli preistorici în peisajul deluros din Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.026072,
+                        56.840683
+                  ]
+            },
+            {
+                  "name": "Springhøi",
+                  "text": "Un singur tumul funerar antic în apropierea grupului Springhøie de pe insula Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.025719,
+                        56.838206
+                  ]
+            },
+            {
+                  "name": "Lille Taffelhøj",
+                  "text": "Un tumul preistoric mai mic pe insula Fur din Danemarca.",
+                  "category": "historical",
+                  "coords": [
+                        9.026388,
+                        56.834104
+                  ]
+            },
+            {
+                  "name": "Skaaredhøi",
+                  "text": "Un tumul istoric care atestă popularea timpurie a insulei Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.018193,
+                        56.83221
+                  ]
+            },
+            {
+                  "name": "Emmesten",
+                  "text": "Un sit arheologic semnificativ cu vestigii din preistorie pe Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        8.989789,
+                        56.83929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bette Jenses Hyw",
+                  "text": "A prominent Bronze Age burial mound on the Danish island of Fur.",
+                  "category": "historical",
+                  "coords": [
+                        9.006132,
+                        56.833
+                  ]
+            },
+            {
+                  "name": "Davrehøi",
+                  "text": "An archaeological site featuring prehistoric burial mounds on the island of Fur.",
+                  "category": "historical",
+                  "coords": [
+                        8.960839,
+                        56.832151
+                  ]
+            },
+            {
+                  "name": "Morishøi",
+                  "text": "An ancient burial mound that is part of the prehistoric landscape of Fur island.",
+                  "category": "historical",
+                  "coords": [
+                        8.969667,
+                        56.826663
+                  ]
+            },
+            {
+                  "name": "Springhøie",
+                  "text": "A group of prehistoric burial mounds in the hilly landscape of Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        9.026072,
+                        56.840683
+                  ]
+            },
+            {
+                  "name": "Springhøi",
+                  "text": "A single ancient burial mound located near the Springhøie group on Fur island.",
+                  "category": "historical",
+                  "coords": [
+                        9.025719,
+                        56.838206
+                  ]
+            },
+            {
+                  "name": "Lille Taffelhøj",
+                  "text": "A smaller prehistoric burial mound on the island of Fur in Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        9.026388,
+                        56.834104
+                  ]
+            },
+            {
+                  "name": "Skaaredhøi",
+                  "text": "A historical burial mound witnessing the early settlement of Fur island.",
+                  "category": "historical",
+                  "coords": [
+                        9.018193,
+                        56.83221
+                  ]
+            },
+            {
+                  "name": "Emmesten",
+                  "text": "A significant archaeological site with remains from prehistory on Fur Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        8.989789,
+                        56.83929
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Fur Bakke", hu: "Fur Bakke", ro: "Fur Bakke", en: "Fur Bakke" },
@@ -813,7 +4422,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-fur-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-dovre-hoje-relief-v2",
+    id: "denmark-dovre-hoje-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ørnhøj",
+                  "text": "Ein antiker Grabhügel und eine archäologische Stätte in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.624762,
+                        56.537084
+                  ]
+            },
+            {
+                  "name": "Skavhøje",
+                  "text": "Eine archäologische Fundstätte mit antiken Grabhügeln in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.686952,
+                        56.483487
+                  ]
+            },
+            {
+                  "name": "Risehøje",
+                  "text": "Ein historischer Grabhügel und eine archäologische Stätte in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.633572,
+                        56.520538
+                  ]
+            },
+            {
+                  "name": "Bjørnhøje",
+                  "text": "Ein antiker Grabhügel in der archäologischen Landschaft von Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.639772,
+                        56.525077
+                  ]
+            },
+            {
+                  "name": "Fuglehøje",
+                  "text": "Eine archäologische Stätte in Dovre Høje, die für ihre antiken Grabhügel bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.641841,
+                        56.513816
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Ein markanter antiker Grabhügel und eine archäologische Stätte in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.653936,
+                        56.478377
+                  ]
+            },
+            {
+                  "name": "Gøngeovn",
+                  "text": "Ein Megalithgrab und eine archäologische Stätte in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.644426,
+                        56.502032
+                  ]
+            },
+            {
+                  "name": "Myrhøje",
+                  "text": "Ein historischer Grabhügel und archäologischer Fundplatz in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.654765,
+                        56.5479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ørnhøj",
+                  "text": "Ókori sírhalom és régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.624762,
+                        56.537084
+                  ]
+            },
+            {
+                  "name": "Skavhøje",
+                  "text": "Régészeti lelőhely ókori sírhalmokkal Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.686952,
+                        56.483487
+                  ]
+            },
+            {
+                  "name": "Risehøje",
+                  "text": "Történelmi sírhalom és régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.633572,
+                        56.520538
+                  ]
+            },
+            {
+                  "name": "Bjørnhøje",
+                  "text": "Ókori sírhalom Dovre Høje régészeti táján.",
+                  "category": "historical",
+                  "coords": [
+                        9.639772,
+                        56.525077
+                  ]
+            },
+            {
+                  "name": "Fuglehøje",
+                  "text": "Ókori sírhalmairól ismert régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.641841,
+                        56.513816
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Jelentős ókori sírhalom és régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.653936,
+                        56.478377
+                  ]
+            },
+            {
+                  "name": "Gøngeovn",
+                  "text": "Megalitikus sír és régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.644426,
+                        56.502032
+                  ]
+            },
+            {
+                  "name": "Myrhøje",
+                  "text": "Történelmi sírhalom és régészeti lelőhely Dovre Høje területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.654765,
+                        56.5479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ørnhøj",
+                  "text": "Un vechi tumul funerar și sit arheologic în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.624762,
+                        56.537084
+                  ]
+            },
+            {
+                  "name": "Skavhøje",
+                  "text": "Un sit arheologic cu tumuli funerari antici în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.686952,
+                        56.483487
+                  ]
+            },
+            {
+                  "name": "Risehøje",
+                  "text": "Un tumul funerar istoric și sit arheologic în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.633572,
+                        56.520538
+                  ]
+            },
+            {
+                  "name": "Bjørnhøje",
+                  "text": "Un tumul funerar antic în peisajul arheologic din Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.639772,
+                        56.525077
+                  ]
+            },
+            {
+                  "name": "Fuglehøje",
+                  "text": "Un sit arheologic în Dovre Høje, cunoscut pentru tumulii săi funerari antici.",
+                  "category": "historical",
+                  "coords": [
+                        9.641841,
+                        56.513816
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "Un tumul funerar antic proeminent și sit arheologic în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.653936,
+                        56.478377
+                  ]
+            },
+            {
+                  "name": "Gøngeovn",
+                  "text": "Un mormânt megalitic și sit arheologic în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.644426,
+                        56.502032
+                  ]
+            },
+            {
+                  "name": "Myrhøje",
+                  "text": "Un tumul funerar istoric și sit arheologic în Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.654765,
+                        56.5479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ørnhøj",
+                  "text": "An ancient burial mound and archaeological site in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.624762,
+                        56.537084
+                  ]
+            },
+            {
+                  "name": "Skavhøje",
+                  "text": "An archaeological site featuring ancient burial mounds in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.686952,
+                        56.483487
+                  ]
+            },
+            {
+                  "name": "Risehøje",
+                  "text": "A historical burial mound and archaeological site in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.633572,
+                        56.520538
+                  ]
+            },
+            {
+                  "name": "Bjørnhøje",
+                  "text": "An ancient burial mound within the archaeological landscape of Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.639772,
+                        56.525077
+                  ]
+            },
+            {
+                  "name": "Fuglehøje",
+                  "text": "An archaeological site in Dovre Høje known for its ancient burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        9.641841,
+                        56.513816
+                  ]
+            },
+            {
+                  "name": "Storehøj",
+                  "text": "A prominent ancient burial mound and archaeological site in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.653936,
+                        56.478377
+                  ]
+            },
+            {
+                  "name": "Gøngeovn",
+                  "text": "A megalithic tomb and archaeological site in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.644426,
+                        56.502032
+                  ]
+            },
+            {
+                  "name": "Myrhøje",
+                  "text": "A historical burial mound and archaeological site in Dovre Høje.",
+                  "category": "historical",
+                  "coords": [
+                        9.654765,
+                        56.5479
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Dovre Høje", hu: "Dovre Høje", ro: "Dovre Høje", en: "Dovre Høje" },
@@ -903,7 +4809,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-boserup-relief-v2.webp",
   },
   {
-    id: "denmark-skovbjerg-relief-v2",
+    id: "denmark-skovbjerg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gejlhøj",
+                  "text": "Eine archäologische Stätte mit historischen Grabhügeln in Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.807907,
+                        56.055138
+                  ]
+            },
+            {
+                  "name": "Lille Gejlhøj",
+                  "text": "Ein kleinerer antiker Grabhügel als Teil der archäologischen Landschaft von Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.802596,
+                        56.052768
+                  ]
+            },
+            {
+                  "name": "Abildtrup Høj",
+                  "text": "Ein prähistorischer Grabhügel in der dänischen Region Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.778944,
+                        56.077105
+                  ]
+            },
+            {
+                  "name": "Kirkehøj",
+                  "text": "Eine archäologische Fundstätte mit einem alten Grabhügel in der Nähe von Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.783957,
+                        56.074977
+                  ]
+            },
+            {
+                  "name": "Stevn Høj",
+                  "text": "Ein markanter historischer Grabhügel in der Gegend von Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.777362,
+                        56.049394
+                  ]
+            },
+            {
+                  "name": "Ulvehøj",
+                  "text": "Eine archäologische Stätte in Dänemark, die für ihre antiken Hügelgräber bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.714482,
+                        56.033234
+                  ]
+            },
+            {
+                  "name": "Sønderhøje",
+                  "text": "Eine Gruppe historischer Grabhügel in der Landschaft von Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.721551,
+                        56.031368
+                  ]
+            },
+            {
+                  "name": "Sorthøj",
+                  "text": "Ein alter Grabhügel und archäologisches Denkmal in Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.744309,
+                        56.032592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gejlhøj",
+                  "text": "Régészeti lelőhely történelmi sírhalmokkal Skovbjergben.",
+                  "category": "historical",
+                  "coords": [
+                        8.807907,
+                        56.055138
+                  ]
+            },
+            {
+                  "name": "Lille Gejlhøj",
+                  "text": "Kisebb ókori sírhalom Skovbjerg régészeti tájegységének részeként.",
+                  "category": "historical",
+                  "coords": [
+                        8.802596,
+                        56.052768
+                  ]
+            },
+            {
+                  "name": "Abildtrup Høj",
+                  "text": "Prehisztorikus sírhalom a dániai Skovbjerg régióban.",
+                  "category": "historical",
+                  "coords": [
+                        8.778944,
+                        56.077105
+                  ]
+            },
+            {
+                  "name": "Kirkehøj",
+                  "text": "Régészeti lelőhely egy ősi sírhalommal Skovbjerg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.783957,
+                        56.074977
+                  ]
+            },
+            {
+                  "name": "Stevn Høj",
+                  "text": "Jellegzetes történelmi sírhalom Skovbjerg környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.777362,
+                        56.049394
+                  ]
+            },
+            {
+                  "name": "Ulvehøj",
+                  "text": "Dániai régészeti lelőhely, amely ókori halomsírjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        8.714482,
+                        56.033234
+                  ]
+            },
+            {
+                  "name": "Sønderhøje",
+                  "text": "Történelmi sírhalmok csoportja Skovbjerg tájain.",
+                  "category": "historical",
+                  "coords": [
+                        8.721551,
+                        56.031368
+                  ]
+            },
+            {
+                  "name": "Sorthøj",
+                  "text": "Ősi sírhalom és régészeti emlékhely Skovbjergben.",
+                  "category": "historical",
+                  "coords": [
+                        8.744309,
+                        56.032592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gejlhøj",
+                  "text": "Un sit arheologic cu tumuli istorici în Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.807907,
+                        56.055138
+                  ]
+            },
+            {
+                  "name": "Lille Gejlhøj",
+                  "text": "Un tumul antic mai mic, parte a peisajului arheologic din Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.802596,
+                        56.052768
+                  ]
+            },
+            {
+                  "name": "Abildtrup Høj",
+                  "text": "Un tumul preistoric în regiunea daneză Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.778944,
+                        56.077105
+                  ]
+            },
+            {
+                  "name": "Kirkehøj",
+                  "text": "Un sit arheologic care cuprinde un tumul vechi lângă Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.783957,
+                        56.074977
+                  ]
+            },
+            {
+                  "name": "Stevn Høj",
+                  "text": "Un tumul istoric proeminent în zona Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.777362,
+                        56.049394
+                  ]
+            },
+            {
+                  "name": "Ulvehøj",
+                  "text": "Un sit arheologic în Danemarca, cunoscut pentru tumulii săi antici.",
+                  "category": "historical",
+                  "coords": [
+                        8.714482,
+                        56.033234
+                  ]
+            },
+            {
+                  "name": "Sønderhøje",
+                  "text": "Un grup de tumuli istorici în peisajul din Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.721551,
+                        56.031368
+                  ]
+            },
+            {
+                  "name": "Sorthøj",
+                  "text": "Un tumul vechi și monument arheologic în Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.744309,
+                        56.032592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gejlhøj",
+                  "text": "An archaeological site featuring historical burial mounds in Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.807907,
+                        56.055138
+                  ]
+            },
+            {
+                  "name": "Lille Gejlhøj",
+                  "text": "A smaller ancient burial mound part of the Skovbjerg archaeological landscape.",
+                  "category": "historical",
+                  "coords": [
+                        8.802596,
+                        56.052768
+                  ]
+            },
+            {
+                  "name": "Abildtrup Høj",
+                  "text": "A prehistoric burial mound in the Danish region of Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.778944,
+                        56.077105
+                  ]
+            },
+            {
+                  "name": "Kirkehøj",
+                  "text": "An archaeological site comprising an ancient burial mound near Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.783957,
+                        56.074977
+                  ]
+            },
+            {
+                  "name": "Stevn Høj",
+                  "text": "A prominent historical burial mound in the Skovbjerg area.",
+                  "category": "historical",
+                  "coords": [
+                        8.777362,
+                        56.049394
+                  ]
+            },
+            {
+                  "name": "Ulvehøj",
+                  "text": "An archaeological site in Denmark known for its ancient burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        8.714482,
+                        56.033234
+                  ]
+            },
+            {
+                  "name": "Sønderhøje",
+                  "text": "A group of historical burial mounds in the Skovbjerg landscape.",
+                  "category": "historical",
+                  "coords": [
+                        8.721551,
+                        56.031368
+                  ]
+            },
+            {
+                  "name": "Sorthøj",
+                  "text": "An ancient burial mound and archaeological monument in Skovbjerg.",
+                  "category": "historical",
+                  "coords": [
+                        8.744309,
+                        56.032592
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Skovbjerg", hu: "Skovbjerg", ro: "Skovbjerg", en: "Skovbjerg" },
@@ -948,7 +5151,124 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-skovbjerg-relief-v2.webp",
   },
   {
-    id: "denmark-harboore-relief-v2",
+    id: "denmark-harboore-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flyvholm Redningsstation",
+                  "text": "Ein Museum in einer ehemaligen Rettungsstation an der Küste.",
+                  "category": "museum",
+                  "coords": [
+                        8.154471,
+                        56.623079
+                  ]
+            },
+            {
+                  "name": "Harboøre Tange Vildtreservat",
+                  "text": "Ein Wildschutzgebiet in der Küstenlandschaft von Harboøre Tange.",
+                  "category": "natural",
+                  "coords": [
+                        8.201452,
+                        56.650874
+                  ]
+            },
+            {
+                  "name": "Harboøre Kirke",
+                  "text": "Eine historische Kirche in der Ortschaft Harboøre.",
+                  "category": "religious",
+                  "coords": [
+                        8.18567,
+                        56.620737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flyvholm Redningsstation",
+                  "text": "Múzeum egy egykori tengerparti mentőállomáson.",
+                  "category": "museum",
+                  "coords": [
+                        8.154471,
+                        56.623079
+                  ]
+            },
+            {
+                  "name": "Harboøre Tange Vildtreservat",
+                  "text": "Vadrezervátum Harboøre Tange tengerparti vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        8.201452,
+                        56.650874
+                  ]
+            },
+            {
+                  "name": "Harboøre Kirke",
+                  "text": "Történelmi templom Harboøre településen.",
+                  "category": "religious",
+                  "coords": [
+                        8.18567,
+                        56.620737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flyvholm Redningsstation",
+                  "text": "Un muzeu amenajat într-o fostă stație de salvare de pe coastă.",
+                  "category": "museum",
+                  "coords": [
+                        8.154471,
+                        56.623079
+                  ]
+            },
+            {
+                  "name": "Harboøre Tange Vildtreservat",
+                  "text": "O rezervație de animale sălbatice în zona de coastă Harboøre Tange.",
+                  "category": "natural",
+                  "coords": [
+                        8.201452,
+                        56.650874
+                  ]
+            },
+            {
+                  "name": "Harboøre Kirke",
+                  "text": "O biserică istorică în localitatea Harboøre.",
+                  "category": "religious",
+                  "coords": [
+                        8.18567,
+                        56.620737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flyvholm Redningsstation",
+                  "text": "A museum housed in a former coastal rescue station.",
+                  "category": "museum",
+                  "coords": [
+                        8.154471,
+                        56.623079
+                  ]
+            },
+            {
+                  "name": "Harboøre Tange Vildtreservat",
+                  "text": "A wildlife reserve in the coastal landscape of Harboøre Tange.",
+                  "category": "natural",
+                  "coords": [
+                        8.201452,
+                        56.650874
+                  ]
+            },
+            {
+                  "name": "Harboøre Kirke",
+                  "text": "A historic church located in the village of Harboøre.",
+                  "category": "religious",
+                  "coords": [
+                        8.18567,
+                        56.620737
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Harboøre Tange", hu: "Harboøre Tange", ro: "Harboøre Tange", en: "Harboøre Tange" },
@@ -993,7 +5313,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-harboore-relief-v2.webp",
   },
   {
-    id: "denmark-frøbjerg-relief-v2",
+    id: "denmark-frøbjerg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terrariet Vissenbjerg",
+                  "text": "Ein spezialisierter Zoo in Vissenbjerg mit einer großen Sammlung von Reptilien und Amphibien.",
+                  "category": "recreational",
+                  "coords": [
+                        10.130487,
+                        55.383171
+                  ]
+            },
+            {
+                  "name": "Danmarks Fugle Zoo - Frydenlund Fuglepark",
+                  "text": "Ein Vogelpark in Vissenbjerg, der verschiedene Vogelarten in einer natürlichen Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.138207,
+                        55.320087
+                  ]
+            },
+            {
+                  "name": "Lilleskov Teglværk",
+                  "text": "Ein lokales Museum in einer ehemaligen Ziegelei in der Nähe von Frøbjerg.",
+                  "category": "museum",
+                  "coords": [
+                        10.165696,
+                        55.343948
+                  ]
+            },
+            {
+                  "name": "Frøbjerg Festspil",
+                  "text": "Ein Freilichttheater, das für seine jährlichen musikalischen und dramatischen Aufführungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.110865,
+                        55.338871
+                  ]
+            },
+            {
+                  "name": "Udsigten",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende dänische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        10.129563,
+                        55.381931
+                  ]
+            },
+            {
+                  "name": "Sulelængen i Magtenbølle",
+                  "text": "Ein kommunales Kunst- und Kulturzentrum in einem traditionellen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        10.171561,
+                        55.377096
+                  ]
+            },
+            {
+                  "name": "Fyns Tog Park",
+                  "text": "Eine Attraktion mit Modelleisenbahnen und bahnbezogenen Exponaten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.104066,
+                        55.373544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terrariet Vissenbjerg",
+                  "text": "Specializált állatkert Vissenbjergben, amely hüllők és kétéltűek nagy gyűjteményével rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        10.130487,
+                        55.383171
+                  ]
+            },
+            {
+                  "name": "Danmarks Fugle Zoo - Frydenlund Fuglepark",
+                  "text": "Madárpark Vissenbjergben, ahol különféle madárfajok láthatók természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.138207,
+                        55.320087
+                  ]
+            },
+            {
+                  "name": "Lilleskov Teglværk",
+                  "text": "Helyi múzeum egy egykori téglagyár épületében, Frøbjerg közelében.",
+                  "category": "museum",
+                  "coords": [
+                        10.165696,
+                        55.343948
+                  ]
+            },
+            {
+                  "name": "Frøbjerg Festspil",
+                  "text": "Szabadtéri színpad, amely éves zenei és drámai előadásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.110865,
+                        55.338871
+                  ]
+            },
+            {
+                  "name": "Udsigten",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a környező dán tájra.",
+                  "category": "natural",
+                  "coords": [
+                        10.129563,
+                        55.381931
+                  ]
+            },
+            {
+                  "name": "Sulelængen i Magtenbølle",
+                  "text": "Közösségi művészeti és kulturális központ egy hagyományos épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.171561,
+                        55.377096
+                  ]
+            },
+            {
+                  "name": "Fyns Tog Park",
+                  "text": "Modellvasutakat és vasúti kiállításokat bemutató látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        10.104066,
+                        55.373544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terrariet Vissenbjerg",
+                  "text": "O grădină zoologică specializată din Vissenbjerg, cu o colecție mare de reptile și amfibieni.",
+                  "category": "recreational",
+                  "coords": [
+                        10.130487,
+                        55.383171
+                  ]
+            },
+            {
+                  "name": "Danmarks Fugle Zoo - Frydenlund Fuglepark",
+                  "text": "Un parc de păsări din Vissenbjerg care prezintă diverse specii de păsări într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        10.138207,
+                        55.320087
+                  ]
+            },
+            {
+                  "name": "Lilleskov Teglværk",
+                  "text": "Un muzeu local situat într-o fostă fabrică de cărămidă de lângă Frøbjerg.",
+                  "category": "museum",
+                  "coords": [
+                        10.165696,
+                        55.343948
+                  ]
+            },
+            {
+                  "name": "Frøbjerg Festspil",
+                  "text": "Un teatru în aer liber cunoscut pentru spectacolele sale anuale muzicale și dramatice.",
+                  "category": "landmark",
+                  "coords": [
+                        10.110865,
+                        55.338871
+                  ]
+            },
+            {
+                  "name": "Udsigten",
+                  "text": "Un punct de observare care oferă vederi panoramice asupra peisajului danez înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        10.129563,
+                        55.381931
+                  ]
+            },
+            {
+                  "name": "Sulelængen i Magtenbølle",
+                  "text": "Un centru comunitar de artă și cultură găzduit într-o clădire tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        10.171561,
+                        55.377096
+                  ]
+            },
+            {
+                  "name": "Fyns Tog Park",
+                  "text": "O atracție care prezintă trenulețe electrice și exponate legate de căile ferate.",
+                  "category": "landmark",
+                  "coords": [
+                        10.104066,
+                        55.373544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terrariet Vissenbjerg",
+                  "text": "A specialized zoo in Vissenbjerg featuring a large collection of reptiles and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        10.130487,
+                        55.383171
+                  ]
+            },
+            {
+                  "name": "Danmarks Fugle Zoo - Frydenlund Fuglepark",
+                  "text": "A bird park in Vissenbjerg showcasing various avian species in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        10.138207,
+                        55.320087
+                  ]
+            },
+            {
+                  "name": "Lilleskov Teglværk",
+                  "text": "A local museum located in a former brickworks factory near Frøbjerg.",
+                  "category": "museum",
+                  "coords": [
+                        10.165696,
+                        55.343948
+                  ]
+            },
+            {
+                  "name": "Frøbjerg Festspil",
+                  "text": "An open-air theatre venue known for its annual musical and dramatic performances.",
+                  "category": "landmark",
+                  "coords": [
+                        10.110865,
+                        55.338871
+                  ]
+            },
+            {
+                  "name": "Udsigten",
+                  "text": "A viewpoint offering panoramic views of the surrounding Danish landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.129563,
+                        55.381931
+                  ]
+            },
+            {
+                  "name": "Sulelængen i Magtenbølle",
+                  "text": "A community arts and cultural centre hosted in a traditional building.",
+                  "category": "cultural",
+                  "coords": [
+                        10.171561,
+                        55.377096
+                  ]
+            },
+            {
+                  "name": "Fyns Tog Park",
+                  "text": "An attraction featuring model trains and railway-related exhibits.",
+                  "category": "landmark",
+                  "coords": [
+                        10.104066,
+                        55.373544
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Frøbjerg Bavnehøj", hu: "Frøbjerg Bavnehøj", ro: "Frøbjerg Bavnehøj", en: "Frøbjerg Bavnehøj" },
@@ -1038,7 +5619,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-frøbjerg-relief-v2.webp",
   },
   {
-    id: "denmark-tvilum-relief-v2",
+    id: "denmark-tvilum-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lodnehøje",
+                  "text": "Diese archäologische Stätte in Tvilum Bakker umfasst antike Grabhügel aus der Vorzeit.",
+                  "category": "historical",
+                  "coords": [
+                        9.715617,
+                        56.274765
+                  ]
+            },
+            {
+                  "name": "Brunagerhøj",
+                  "text": "Ein historischer Grabhügel in der Hügellandschaft von Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.774673,
+                        56.229195
+                  ]
+            },
+            {
+                  "name": "Doverhøj",
+                  "text": "Ein markanter prähistorischer Grabhügel, der Teil der archäologischen Landschaft von Tvilum Bakker ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.765939,
+                        56.25656
+                  ]
+            },
+            {
+                  "name": "Haastedhøj",
+                  "text": "Einer der antiken Grabhügel, die in der Gegend von Tvilum Bakker erhalten geblieben sind.",
+                  "category": "historical",
+                  "coords": [
+                        9.690594,
+                        56.243805
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Ein großer historischer Grabhügel, der sich in der Nähe von Tvilum Bakker befindet.",
+                  "category": "historical",
+                  "coords": [
+                        9.701296,
+                        56.240002
+                  ]
+            },
+            {
+                  "name": "Tøshøj",
+                  "text": "Dieser antike Grabhügel ist ein geschütztes archäologisches Denkmal in Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.716761,
+                        56.236827
+                  ]
+            },
+            {
+                  "name": "Tinghøj",
+                  "text": "Ein bedeutender prähistorischer Fundort in Tvilum Bakker, der einen antiken Grabhügel markiert.",
+                  "category": "historical",
+                  "coords": [
+                        9.746452,
+                        56.240829
+                  ]
+            },
+            {
+                  "name": "Bjærghøje",
+                  "text": "Eine Gruppe archäologischer Grabhügel, die die Hügel von Tvilum Bakker prägen.",
+                  "category": "historical",
+                  "coords": [
+                        9.748752,
+                        56.235138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lodnehøje",
+                  "text": "Ez a Tvilum Bakker-i régészeti lelőhely őskori sírhalmokat foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        9.715617,
+                        56.274765
+                  ]
+            },
+            {
+                  "name": "Brunagerhøj",
+                  "text": "Történelmi sírhalom Tvilum Bakker dombos táján.",
+                  "category": "historical",
+                  "coords": [
+                        9.774673,
+                        56.229195
+                  ]
+            },
+            {
+                  "name": "Doverhøj",
+                  "text": "Jellegzetes őskori sírhalom, amely a Tvilum Bakker-i régészeti táj része.",
+                  "category": "historical",
+                  "coords": [
+                        9.765939,
+                        56.25656
+                  ]
+            },
+            {
+                  "name": "Haastedhøj",
+                  "text": "Egyike a Tvilum Bakker környékén fennmaradt őskori sírhalmoknak.",
+                  "category": "historical",
+                  "coords": [
+                        9.690594,
+                        56.243805
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Nagy méretű történelmi sírhalom, amely Tvilum Bakker közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        9.701296,
+                        56.240002
+                  ]
+            },
+            {
+                  "name": "Tøshøj",
+                  "text": "Ez az őskori sírhalom védett régészeti emlék Tvilum Bakkerben.",
+                  "category": "historical",
+                  "coords": [
+                        9.716761,
+                        56.236827
+                  ]
+            },
+            {
+                  "name": "Tinghøj",
+                  "text": "Jelentős őskori lelőhely Tvilum Bakkerben, amely egy ősi sírhalmot jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        9.746452,
+                        56.240829
+                  ]
+            },
+            {
+                  "name": "Bjærghøje",
+                  "text": "Régészeti sírhalmok csoportja, amelyek meghatározzák Tvilum Bakker dombjait.",
+                  "category": "historical",
+                  "coords": [
+                        9.748752,
+                        56.235138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lodnehøje",
+                  "text": "Acest sit arheologic din Tvilum Bakker cuprinde tumuli funerari antici din preistorie.",
+                  "category": "historical",
+                  "coords": [
+                        9.715617,
+                        56.274765
+                  ]
+            },
+            {
+                  "name": "Brunagerhøj",
+                  "text": "Un tumul funerar istoric situat în peisajul deluros din Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.774673,
+                        56.229195
+                  ]
+            },
+            {
+                  "name": "Doverhøj",
+                  "text": "Un tumul funerar preistoric proeminent, parte a peisajului arheologic din Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.765939,
+                        56.25656
+                  ]
+            },
+            {
+                  "name": "Haastedhøj",
+                  "text": "Unul dintre tumulii funerari antici care s-au păstrat în zona Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.690594,
+                        56.243805
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "Un tumul funerar istoric de mari dimensiuni, situat în apropiere de Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.701296,
+                        56.240002
+                  ]
+            },
+            {
+                  "name": "Tøshøj",
+                  "text": "Acest tumul funerar antic este un monument arheologic protejat în Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.716761,
+                        56.236827
+                  ]
+            },
+            {
+                  "name": "Tinghøj",
+                  "text": "Un sit preistoric important în Tvilum Bakker, care marchează un tumul funerar antic.",
+                  "category": "historical",
+                  "coords": [
+                        9.746452,
+                        56.240829
+                  ]
+            },
+            {
+                  "name": "Bjærghøje",
+                  "text": "Un grup de tumuli arheologici care marchează dealurile din Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.748752,
+                        56.235138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lodnehøje",
+                  "text": "This archaeological site in Tvilum Bakker includes ancient burial mounds from prehistory.",
+                  "category": "historical",
+                  "coords": [
+                        9.715617,
+                        56.274765
+                  ]
+            },
+            {
+                  "name": "Brunagerhøj",
+                  "text": "A historical burial mound located in the hilly landscape of Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.774673,
+                        56.229195
+                  ]
+            },
+            {
+                  "name": "Doverhøj",
+                  "text": "A prominent prehistoric burial mound, part of the archaeological landscape of Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.765939,
+                        56.25656
+                  ]
+            },
+            {
+                  "name": "Haastedhøj",
+                  "text": "One of the ancient burial mounds preserved in the Tvilum Bakker area.",
+                  "category": "historical",
+                  "coords": [
+                        9.690594,
+                        56.243805
+                  ]
+            },
+            {
+                  "name": "Storhøj",
+                  "text": "A large historical burial mound located near Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.701296,
+                        56.240002
+                  ]
+            },
+            {
+                  "name": "Tøshøj",
+                  "text": "This ancient burial mound is a protected archaeological monument in Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.716761,
+                        56.236827
+                  ]
+            },
+            {
+                  "name": "Tinghøj",
+                  "text": "An important prehistoric site in Tvilum Bakker marking an ancient burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        9.746452,
+                        56.240829
+                  ]
+            },
+            {
+                  "name": "Bjærghøje",
+                  "text": "A group of archaeological burial mounds that characterize the hills of Tvilum Bakker.",
+                  "category": "historical",
+                  "coords": [
+                        9.748752,
+                        56.235138
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Tvilum Bakker", hu: "Tvilum Bakker", ro: "Tvilum Bakker", en: "Tvilum Bakker" },
@@ -1128,7 +6006,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-skjold-relief-v2.webp",
   },
   {
-    id: "denmark-vognserup-relief-v2",
+    id: "denmark-vognserup-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebhøj",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.61256,
+                        55.662314
+                  ]
+            },
+            {
+                  "name": "Kalvehøj",
+                  "text": "Ein prähistorischer Grabhügel oder eine antike Stätte bei Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.646775,
+                        55.643897
+                  ]
+            },
+            {
+                  "name": "Brorfelde Observatorium",
+                  "text": "Ein ehemaliges astronomisches Observatorium, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.664569,
+                        55.624663
+                  ]
+            },
+            {
+                  "name": "Mørkemose Bjerg",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft bei Vognserup bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.682681,
+                        55.635283
+                  ]
+            },
+            {
+                  "name": "Nørre Jernløse Mølle",
+                  "text": "Eine historische Windmühle, die als lokales Wahrzeichen in Nørre Jernløse gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.621898,
+                        55.663427
+                  ]
+            },
+            {
+                  "name": "Sønder Jernløse Kirke",
+                  "text": "Eine traditionelle dänische Dorfkirche in Sønder Jernløse.",
+                  "category": "religious",
+                  "coords": [
+                        11.642806,
+                        55.651614
+                  ]
+            },
+            {
+                  "name": "Kvanløse Kirke",
+                  "text": "Die im Mittelalter errichtete Kirche von Kvanløse.",
+                  "category": "religious",
+                  "coords": [
+                        11.668998,
+                        55.652231
+                  ]
+            },
+            {
+                  "name": "Søstrup Kirke",
+                  "text": "Eine evangelisch-lutherische Kirche in der Gemeinde Søstrup.",
+                  "category": "religious",
+                  "coords": [
+                        11.650915,
+                        55.680972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebhøj",
+                  "text": "Egy régészeti lelőhely Vognserup közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.61256,
+                        55.662314
+                  ]
+            },
+            {
+                  "name": "Kalvehøj",
+                  "text": "Egy őskori sírhalom vagy ókori lelőhely Vognserupnál.",
+                  "category": "historical",
+                  "coords": [
+                        11.646775,
+                        55.643897
+                  ]
+            },
+            {
+                  "name": "Brorfelde Observatorium",
+                  "text": "Egy korábbi csillagvizsgáló, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        11.664569,
+                        55.624663
+                  ]
+            },
+            {
+                  "name": "Mørkemose Bjerg",
+                  "text": "Kilátópont, amely széles körpanorámát kínál a Vognserup környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        11.682681,
+                        55.635283
+                  ]
+            },
+            {
+                  "name": "Nørre Jernløse Mølle",
+                  "text": "Egy történelmi szélmalom, amely Nørre Jernløse helyi jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        11.621898,
+                        55.663427
+                  ]
+            },
+            {
+                  "name": "Sønder Jernløse Kirke",
+                  "text": "Egy hagyományos dán falusi templom Sønder Jernløse településen.",
+                  "category": "religious",
+                  "coords": [
+                        11.642806,
+                        55.651614
+                  ]
+            },
+            {
+                  "name": "Kvanløse Kirke",
+                  "text": "Kvanløse középkori eredetű temploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.668998,
+                        55.652231
+                  ]
+            },
+            {
+                  "name": "Søstrup Kirke",
+                  "text": "Evangélikus-lutheránus templom Søstrup egyházközségében.",
+                  "category": "religious",
+                  "coords": [
+                        11.650915,
+                        55.680972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebhøj",
+                  "text": "Un sit arheologic situat în apropiere de Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.61256,
+                        55.662314
+                  ]
+            },
+            {
+                  "name": "Kalvehøj",
+                  "text": "Un tumul preistoric sau un sit antic lângă Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.646775,
+                        55.643897
+                  ]
+            },
+            {
+                  "name": "Brorfelde Observatorium",
+                  "text": "Un fost observator astronomic, care astăzi funcționează ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        11.664569,
+                        55.624663
+                  ]
+            },
+            {
+                  "name": "Mørkemose Bjerg",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra peisajului de lângă Vognserup.",
+                  "category": "natural",
+                  "coords": [
+                        11.682681,
+                        55.635283
+                  ]
+            },
+            {
+                  "name": "Nørre Jernløse Mølle",
+                  "text": "O moară de vânt istorică, considerată un punct de reper local în Nørre Jernløse.",
+                  "category": "landmark",
+                  "coords": [
+                        11.621898,
+                        55.663427
+                  ]
+            },
+            {
+                  "name": "Sønder Jernløse Kirke",
+                  "text": "O biserică sătească tradițională daneză în Sønder Jernløse.",
+                  "category": "religious",
+                  "coords": [
+                        11.642806,
+                        55.651614
+                  ]
+            },
+            {
+                  "name": "Kvanløse Kirke",
+                  "text": "Biserica din Kvanløse, construită în perioada medievală.",
+                  "category": "religious",
+                  "coords": [
+                        11.668998,
+                        55.652231
+                  ]
+            },
+            {
+                  "name": "Søstrup Kirke",
+                  "text": "O biserică evanghelică-luterană din parohia Søstrup.",
+                  "category": "religious",
+                  "coords": [
+                        11.650915,
+                        55.680972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebhøj",
+                  "text": "An archaeological site located near Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.61256,
+                        55.662314
+                  ]
+            },
+            {
+                  "name": "Kalvehøj",
+                  "text": "A prehistoric burial mound or ancient site near Vognserup.",
+                  "category": "historical",
+                  "coords": [
+                        11.646775,
+                        55.643897
+                  ]
+            },
+            {
+                  "name": "Brorfelde Observatorium",
+                  "text": "A former astronomical observatory that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        11.664569,
+                        55.624663
+                  ]
+            },
+            {
+                  "name": "Mørkemose Bjerg",
+                  "text": "A viewpoint offering a wide vista over the landscape near Vognserup.",
+                  "category": "natural",
+                  "coords": [
+                        11.682681,
+                        55.635283
+                  ]
+            },
+            {
+                  "name": "Nørre Jernløse Mølle",
+                  "text": "A historical windmill considered a local landmark in Nørre Jernløse.",
+                  "category": "landmark",
+                  "coords": [
+                        11.621898,
+                        55.663427
+                  ]
+            },
+            {
+                  "name": "Sønder Jernløse Kirke",
+                  "text": "A traditional Danish village church in Sønder Jernløse.",
+                  "category": "religious",
+                  "coords": [
+                        11.642806,
+                        55.651614
+                  ]
+            },
+            {
+                  "name": "Kvanløse Kirke",
+                  "text": "The church of Kvanløse, dating back to the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        11.668998,
+                        55.652231
+                  ]
+            },
+            {
+                  "name": "Søstrup Kirke",
+                  "text": "An Evangelical Lutheran church in the parish of Søstrup.",
+                  "category": "religious",
+                  "coords": [
+                        11.650915,
+                        55.680972
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "DK",
     name: { de: "Vognserup", hu: "Vognserup", ro: "Vognserup", en: "Vognserup" },
@@ -1173,7 +6348,340 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-vognserup-relief-v2.webp",
   },
   {
-    id: "denmark-mols-bjerge-relief-v2", "sights": {"de": [{"name": "Bogens Strand", "text": "In der wunderschönen Landschaft des Nationalparks Mols Bjerge in Dänemark erwartet Sie der Bogens Strand. Dieses idyllische Fleckchen Küste lädt Besucher dazu ein, inmitten der Natur spazieren zu gehen oder einfach nur am Wasser zu verweilen. Besonders im späten Frühling oder Sommer ist dies ein großartiges Ausflugsziel für Naturliebhaber.", "category": "recreational", "coords": [10.579481, 56.209736]}], "hu": [{"name": "Bogens Strand", "text": "A dániai Mols Bjerge lenyűgöző táján várja Önt a Bogens Strand. Ez az idilli partszakasz arra invitálja a látogatókat, hogy sétáljanak a természet lágy ölén, vagy egyszerűen csak időzzenek a víz mellett. Késő tavasszal és nyáron ez egy különösen nagyszerű kirándulóhely a természetkedvelők számára.", "category": "recreational", "coords": [10.579481, 56.209736]}], "ro": [{"name": "Bogens Strand", "text": "În peisajul minunat al Mols Bjerge din Danemarca vă așteaptă Bogens Strand. Această întindere idilică de coastă invită vizitatorii să se plimbe în mijlocul naturii sau pur și simplu să se relaxeze lângă apă. Mai ales la sfârșitul primăverii sau vara, aceasta este o destinație excelentă de excursie pentru iubitorii de natură.", "category": "recreational", "coords": [10.579481, 56.209736]}], "en": [{"name": "Bogens Strand", "text": "Set in the beautiful landscape of Mols Bjerge in Denmark, Bogens Strand awaits your visit. This idyllic stretch of coastline invites guests to take walks surrounded by nature or simply relax by the water. Especially in late spring or summer, this is a great excursion destination for nature lovers.", "category": "recreational", "coords": [10.579481, 56.209736]}]},
+    id: "denmark-mols-bjerge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bogens Strand",
+                  "text": "In der wunderschönen Landschaft des Nationalparks Mols Bjerge in Dänemark erwartet Sie der Bogens Strand. Dieses idyllische Fleckchen Küste lädt Besucher dazu ein, inmitten der Natur spazieren zu gehen oder einfach nur am Wasser zu verweilen. Besonders im späten Frühling oder Sommer ist dies ein großartiges Ausflugsziel für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        10.579481,
+                        56.209736
+                  ]
+            },
+            {
+                  "name": "Agri Bavnehøj",
+                  "text": "Der höchste Punkt im Nationalpark Mols Bjerge mit einem antiken Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        10.536513,
+                        56.229877
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Prähistorische archäologische Stätte in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Svinhøj",
+                  "text": "Antike Ausgrabungsstätte in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.523013,
+                        56.217817
+                  ]
+            },
+            {
+                  "name": "Poskær Stenhus",
+                  "text": "Der größte Dolmen Dänemarks, eine bedeutende prähistorische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        10.502022,
+                        56.218515
+                  ]
+            },
+            {
+                  "name": "Agri Dyssen",
+                  "text": "Ein bekanntes Megalithgrab in der Nähe von Agri in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.515331,
+                        56.233773
+                  ]
+            },
+            {
+                  "name": "Stabelhøje",
+                  "text": "Zwei markante Grabhügel aus der Bronzezeit in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.522903,
+                        56.236896
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Prähistorischer Grabhügel in der Landschaft von Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Ein beeindruckendes prähistorisches Ganggrab in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bogens Strand",
+                  "text": "A dániai Mols Bjerge lenyűgöző táján várja Önt a Bogens Strand. Ez az idilli partszakasz arra invitálja a látogatókat, hogy sétáljanak a természet lágy ölén, vagy egyszerűen csak időzzenek a víz mellett. Késő tavasszal és nyáron ez egy különösen nagyszerű kirándulóhely a természetkedvelők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        10.579481,
+                        56.209736
+                  ]
+            },
+            {
+                  "name": "Agri Bavnehøj",
+                  "text": "A Mols Bjerge Nemzeti Park legmagasabb pontja, amelyen egy ősi sírhalom található.",
+                  "category": "historical",
+                  "coords": [
+                        10.536513,
+                        56.229877
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Prehisztorikus régészeti lelőhely Mols Bjerge területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Svinhøj",
+                  "text": "Ókori régészeti helyszín Mols Bjerge vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.523013,
+                        56.217817
+                  ]
+            },
+            {
+                  "name": "Poskær Stenhus",
+                  "text": "Dánia legnagyobb dolmenje, jelentős prehisztorikus emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        10.502022,
+                        56.218515
+                  ]
+            },
+            {
+                  "name": "Agri Dyssen",
+                  "text": "Ismert megalitikus sír Agri közelében, Mols Bjerge területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.515331,
+                        56.233773
+                  ]
+            },
+            {
+                  "name": "Stabelhøje",
+                  "text": "Két jellegzetes bronzkori halomsír Mols Bjerge területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.522903,
+                        56.236896
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Prehisztorikus halomsír Mols Bjerge tájain.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Lenyűgöző prehisztorikus folyosósír Mols Bjerge területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bogens Strand",
+                  "text": "În peisajul minunat al Mols Bjerge din Danemarca vă așteaptă Bogens Strand. Această întindere idilică de coastă invită vizitatorii să se plimbe în mijlocul naturii sau pur și simplu să se relaxeze lângă apă. Mai ales la sfârșitul primăverii sau vara, aceasta este o destinație excelentă de excursie pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        10.579481,
+                        56.209736
+                  ]
+            },
+            {
+                  "name": "Agri Bavnehøj",
+                  "text": "Cel mai înalt punct din Parcul Național Mols Bjerge, unde se află un vechi tumul funerar.",
+                  "category": "historical",
+                  "coords": [
+                        10.536513,
+                        56.229877
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Sit arheologic preistoric în Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Svinhøj",
+                  "text": "Sit arheologic antic în Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.523013,
+                        56.217817
+                  ]
+            },
+            {
+                  "name": "Poskær Stenhus",
+                  "text": "Cel mai mare dolmen din Danemarca, un sit preistoric important.",
+                  "category": "historical",
+                  "coords": [
+                        10.502022,
+                        56.218515
+                  ]
+            },
+            {
+                  "name": "Agri Dyssen",
+                  "text": "Un mormânt megalitic cunoscut lângă Agri în Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.515331,
+                        56.233773
+                  ]
+            },
+            {
+                  "name": "Stabelhøje",
+                  "text": "Două movile funerare distinctive din epoca bronzului în Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.522903,
+                        56.236896
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Tumul preistoric în peisajul din Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "Un impresionant mormânt preistoric cu coridor în Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bogens Strand",
+                  "text": "Set in the beautiful landscape of Mols Bjerge in Denmark, Bogens Strand awaits your visit. This idyllic stretch of coastline invites guests to take walks surrounded by nature or simply relax by the water. Especially in late spring or summer, this is a great excursion destination for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.579481,
+                        56.209736
+                  ]
+            },
+            {
+                  "name": "Agri Bavnehøj",
+                  "text": "The highest point in the Mols Bjerge National Park, featuring an ancient burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        10.536513,
+                        56.229877
+                  ]
+            },
+            {
+                  "name": "Lindhøj",
+                  "text": "Prehistoric archaeological site in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.510471,
+                        56.178712
+                  ]
+            },
+            {
+                  "name": "Svinhøj",
+                  "text": "Ancient archaeological site in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.523013,
+                        56.217817
+                  ]
+            },
+            {
+                  "name": "Poskær Stenhus",
+                  "text": "The largest dolmen in Denmark, a significant prehistoric site.",
+                  "category": "historical",
+                  "coords": [
+                        10.502022,
+                        56.218515
+                  ]
+            },
+            {
+                  "name": "Agri Dyssen",
+                  "text": "A well-known megalithic tomb near Agri in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.515331,
+                        56.233773
+                  ]
+            },
+            {
+                  "name": "Stabelhøje",
+                  "text": "Two prominent Bronze Age burial mounds in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.522903,
+                        56.236896
+                  ]
+            },
+            {
+                  "name": "Brunhøje",
+                  "text": "Prehistoric burial mound in the Mols Bjerge landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.515551,
+                        56.18582
+                  ]
+            },
+            {
+                  "name": "Store Jættehøj",
+                  "text": "An impressive prehistoric passage grave in Mols Bjerge.",
+                  "category": "historical",
+                  "coords": [
+                        10.534578,
+                        56.182174
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "DK",
     name: { de: "Mols Bjerge", hu: "Mols Bjerge", ro: "Mols Bjerge", en: "Mols Bjerge" },
@@ -1218,7 +6726,124 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-mols-bjerge-relief-v2.webp",
   },
   {
-    id: "denmark-knuds-hoje-relief-v2",
+    id: "denmark-knuds-hoje-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estruplund",
+                  "text": "Ein historisches dänisches Herrenhaus mit einer langen Geschichte in der Region Norddjurs.",
+                  "category": "historical",
+                  "coords": [
+                        10.359352,
+                        56.552249
+                  ]
+            },
+            {
+                  "name": "Holbæk Kirke",
+                  "text": "Eine traditionelle Dorfkirche in der Gemeinde Norddjurs, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        10.300431,
+                        56.552712
+                  ]
+            },
+            {
+                  "name": "Estruplund Kirke",
+                  "text": "Eine historische Kirche in der Nähe des Herrenhauses Estruplund in Dänemark.",
+                  "category": "religious",
+                  "coords": [
+                        10.360735,
+                        56.552787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estruplund",
+                  "text": "Történelmi dán udvarház, amely hosszú múltra tekint vissza a Norddjurs régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.359352,
+                        56.552249
+                  ]
+            },
+            {
+                  "name": "Holbæk Kirke",
+                  "text": "Hagyományos falusi templom Norddjurs községben, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.300431,
+                        56.552712
+                  ]
+            },
+            {
+                  "name": "Estruplund Kirke",
+                  "text": "Történelmi templom az Estruplund udvarház közelében, Dániában.",
+                  "category": "religious",
+                  "coords": [
+                        10.360735,
+                        56.552787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estruplund",
+                  "text": "Un conac danez istoric cu o lungă istorie în regiunea Norddjurs.",
+                  "category": "historical",
+                  "coords": [
+                        10.359352,
+                        56.552249
+                  ]
+            },
+            {
+                  "name": "Holbæk Kirke",
+                  "text": "O biserică rurală tradițională în comuna Norddjurs, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        10.300431,
+                        56.552712
+                  ]
+            },
+            {
+                  "name": "Estruplund Kirke",
+                  "text": "O biserică istorică situată în apropierea conacului Estruplund din Danemarca.",
+                  "category": "religious",
+                  "coords": [
+                        10.360735,
+                        56.552787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estruplund",
+                  "text": "A historic Danish manor house with a long history in the Norddjurs region.",
+                  "category": "historical",
+                  "coords": [
+                        10.359352,
+                        56.552249
+                  ]
+            },
+            {
+                  "name": "Holbæk Kirke",
+                  "text": "A traditional village church in the Norddjurs municipality, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        10.300431,
+                        56.552712
+                  ]
+            },
+            {
+                  "name": "Estruplund Kirke",
+                  "text": "A historic church located near the Estruplund manor in Denmark.",
+                  "category": "religious",
+                  "coords": [
+                        10.360735,
+                        56.552787
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Knuds Høje", hu: "Knuds Høje", ro: "Knuds Høje", en: "Knuds Høje" },
@@ -1308,7 +6933,232 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-aal-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-bindslev-relief-v2",
+    id: "denmark-bindslev-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victor Petersens J F Willumsen Samling",
+                  "text": "Ein Privatmuseum mit einer bedeutenden Sammlung von Werken des Künstlers J.F. Willumsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.094153,
+                        57.537711
+                  ]
+            },
+            {
+                  "name": "Stensbæk",
+                  "text": "Ein traditionelles dänisches Herrenhaus in der malerischen Region Nordjütland.",
+                  "category": "historical",
+                  "coords": [
+                        10.218935,
+                        57.552636
+                  ]
+            },
+            {
+                  "name": "Tversted Kirke",
+                  "text": "Eine charmante Dorfkirche in Tversted, die im Kern auf das 12. Jahrhundert zurückgeht.",
+                  "category": "religious",
+                  "coords": [
+                        10.182805,
+                        57.581735
+                  ]
+            },
+            {
+                  "name": "Uggerby Kirke",
+                  "text": "Eine historische Kirche im Dorf Uggerby, die ein markantes Wahrzeichen des Ortes ist.",
+                  "category": "religious",
+                  "coords": [
+                        10.105422,
+                        57.566662
+                  ]
+            },
+            {
+                  "name": "Bindslev Kirke",
+                  "text": "Die lokale Pfarrkirche von Bindslev, ein Beispiel klassischer dänischer Sakralarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        10.173438,
+                        57.532896
+                  ]
+            },
+            {
+                  "name": "Bindslev Gamle Elværk",
+                  "text": "Ein historisches ehemaliges Wasserkraftwerk, das als industrielles Denkmal erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.186838,
+                        57.538877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victor Petersens J F Willumsen Samling",
+                  "text": "Magánmúzeum, amely J.F. Willumsen művész jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.094153,
+                        57.537711
+                  ]
+            },
+            {
+                  "name": "Stensbæk",
+                  "text": "Hagyományos dán udvarház a festői Észak-Jütland régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.218935,
+                        57.552636
+                  ]
+            },
+            {
+                  "name": "Tversted Kirke",
+                  "text": "Bájos falusi templom Tverstedben, amelynek alapjai a 12. századig nyúlnak vissza.",
+                  "category": "religious",
+                  "coords": [
+                        10.182805,
+                        57.581735
+                  ]
+            },
+            {
+                  "name": "Uggerby Kirke",
+                  "text": "Történelmi templom Uggerby faluban, amely a település jellegzetes épülete.",
+                  "category": "religious",
+                  "coords": [
+                        10.105422,
+                        57.566662
+                  ]
+            },
+            {
+                  "name": "Bindslev Kirke",
+                  "text": "Bindslev helyi plébániatemploma, a klasszikus dán egyházi építészet példája.",
+                  "category": "religious",
+                  "coords": [
+                        10.173438,
+                        57.532896
+                  ]
+            },
+            {
+                  "name": "Bindslev Gamle Elværk",
+                  "text": "Történelmi egykori vízerőmű, amely ipari műemlékként maradt fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        10.186838,
+                        57.538877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victor Petersens J F Willumsen Samling",
+                  "text": "Un muzeu privat care găzduiește o colecție semnificativă de lucrări ale artistului J.F. Willumsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.094153,
+                        57.537711
+                  ]
+            },
+            {
+                  "name": "Stensbæk",
+                  "text": "Un conac tradițional danez situat în regiunea pitorească Iutlanda de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        10.218935,
+                        57.552636
+                  ]
+            },
+            {
+                  "name": "Tversted Kirke",
+                  "text": "O biserică sătească fermecătoare în Tversted, ale cărei origini datează din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        10.182805,
+                        57.581735
+                  ]
+            },
+            {
+                  "name": "Uggerby Kirke",
+                  "text": "O biserică istorică în satul Uggerby, care reprezintă un reper al localității.",
+                  "category": "religious",
+                  "coords": [
+                        10.105422,
+                        57.566662
+                  ]
+            },
+            {
+                  "name": "Bindslev Kirke",
+                  "text": "Biserica parohială locală din Bindslev, un exemplu de arhitectură sacră daneză clasică.",
+                  "category": "religious",
+                  "coords": [
+                        10.173438,
+                        57.532896
+                  ]
+            },
+            {
+                  "name": "Bindslev Gamle Elværk",
+                  "text": "O fostă centrală hidroelectrică istorică, păstrată ca monument industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        10.186838,
+                        57.538877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victor Petersens J F Willumsen Samling",
+                  "text": "A private museum housing a significant collection of works by artist J.F. Willumsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.094153,
+                        57.537711
+                  ]
+            },
+            {
+                  "name": "Stensbæk",
+                  "text": "A traditional Danish manor house situated in the scenic North Jutland region.",
+                  "category": "historical",
+                  "coords": [
+                        10.218935,
+                        57.552636
+                  ]
+            },
+            {
+                  "name": "Tversted Kirke",
+                  "text": "A charming village church in Tversted dating back to the late 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        10.182805,
+                        57.581735
+                  ]
+            },
+            {
+                  "name": "Uggerby Kirke",
+                  "text": "A historic church in the village of Uggerby, serving as a local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        10.105422,
+                        57.566662
+                  ]
+            },
+            {
+                  "name": "Bindslev Kirke",
+                  "text": "The local parish church of Bindslev, an example of classic Danish sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        10.173438,
+                        57.532896
+                  ]
+            },
+            {
+                  "name": "Bindslev Gamle Elværk",
+                  "text": "A historic former hydroelectric power plant preserved as an industrial monument.",
+                  "category": "landmark",
+                  "coords": [
+                        10.186838,
+                        57.538877
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Bindslev Bakke", hu: "Bindslev Bakke", ro: "Bindslev Bakke", en: "Bindslev Bakke" },
@@ -1488,7 +7338,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-slagelse-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-soro-bakke-relief-v2",
+    id: "denmark-soro-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barnedys",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Sorø mit Überresten aus der Vorzeit.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Das Museum dokumentiert die Stadtgeschichte von Sorø und befindet sich in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "Ein historischer Grabhügel bei Sorø, der als bedeutende archäologische Stätte der Region gilt.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Topshøj",
+                  "text": "Eine bedeutende archäologische Stätte bei Sorø, bekannt für ihre prähistorischen Monumente.",
+                  "category": "historical",
+                  "coords": [
+                        11.55885,
+                        55.389842
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Eine historische Sammlung physikalischer Instrumente aus dem späten 18. und frühen 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Topshøj Skov",
+                  "text": "Ein Waldgebiet bei Sorø, das wichtige archäologische Funde und prähistorische Denkmäler beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        11.538444,
+                        55.392727
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Eine restaurierte historische Tankstelle in Sorø, die heute als technisches Denkmal dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barnedys",
+                  "text": "Régészeti lelőhely Sorø közelében, őskori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "A múzeum Sorø várostörténetét dokumentálja, és egy történelmi épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "Történelmi sírhalom Sorø közelében, amely a régió jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Topshøj",
+                  "text": "Jelentős régészeti lelőhely Sorø közelében, amely prehisztorikus emlékeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.55885,
+                        55.389842
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "Fizikai eszközök történelmi gyűjteménye a 18. század végéről és a 19. század elejéről.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Topshøj Skov",
+                  "text": "Erdős terület Sorø közelében, amely fontos régészeti leleteknek és őskori emlékeknek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        11.538444,
+                        55.392727
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "Restaurált történelmi benzinkút Sorø-ban, amely ma technikai műemlékként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barnedys",
+                  "text": "Un sit arheologic lângă Sorø, cu rămășițe din preistorie.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "Muzeul documentează istoria orașului Sorø și este situat într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "Un tumul istoric lângă Sorø, considerat un sit arheologic important al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Topshøj",
+                  "text": "Un sit arheologic important lângă Sorø, cunoscut pentru monumentele sale preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        11.55885,
+                        55.389842
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "O colecție istorică de instrumente fizice de la sfârșitul secolului al XVIII-lea și începutul secolului al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Topshøj Skov",
+                  "text": "O zonă forestieră lângă Sorø, care găzduiește descoperiri arheologice importante și monumente preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        11.538444,
+                        55.392727
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "O benzinărie istorică restaurată din Sorø, care servește astăzi ca monument tehnic.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barnedys",
+                  "text": "An archaeological site near Sorø featuring remains from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        11.559978,
+                        55.406075
+                  ]
+            },
+            {
+                  "name": "Sorø Museum",
+                  "text": "The museum documents the local history of Sorø and is located in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        11.55639,
+                        55.433281
+                  ]
+            },
+            {
+                  "name": "Kongshøj",
+                  "text": "A historic burial mound near Sorø, considered a significant archaeological site of the region.",
+                  "category": "historical",
+                  "coords": [
+                        11.542851,
+                        55.413921
+                  ]
+            },
+            {
+                  "name": "Topshøj",
+                  "text": "A significant archaeological site near Sorø, known for its prehistoric monuments.",
+                  "category": "historical",
+                  "coords": [
+                        11.55885,
+                        55.389842
+                  ]
+            },
+            {
+                  "name": "Hauchs Physiske Cabinet",
+                  "text": "A historic collection of physical instruments from the late 18th and early 19th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        11.551661,
+                        55.431719
+                  ]
+            },
+            {
+                  "name": "Topshøj Skov",
+                  "text": "A forested area near Sorø that home to important archaeological finds and prehistoric monuments.",
+                  "category": "historical",
+                  "coords": [
+                        11.538444,
+                        55.392727
+                  ]
+            },
+            {
+                  "name": "Essotanken i Sorø",
+                  "text": "A restored historic gas station in Sorø that now serves as a technical monument.",
+                  "category": "museum",
+                  "coords": [
+                        11.559103,
+                        55.438875
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Sorø Bakke", hu: "Sorø Bakke", ro: "Sorø Bakke", en: "Sorø Bakke" },
@@ -1713,7 +7824,340 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-kalundborg-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-odsherred-bakke-relief-v2", "sights": {"de": [{"name": "Gudmindrup Strand", "text": "In der hügeligen Landschaft von Odsherred in Dänemark ist der Gudmindrup Strand ein beliebtes Ziel an der Küste. Die weitläufige Strandlandschaft lockt Besucher an, die das Meer genießen und sich in der Sonne entspannen möchten. Ein Besuch während der warmen Sommermonate garantiert meist ideale Bedingungen für Strandliebhaber.", "category": "recreational", "coords": [11.526105, 55.898506]}], "hu": [{"name": "Gudmindrup Strand", "text": "A dániai Odsherred dombos vidékén található Gudmindrup Strand egy népszerű tengerparti célpont. A tágas partszakasz vonzza azokat a látogatókat, akik élvezni szeretnék a tengert és a napsütést. A meleg nyári hónapokban tett látogatás általában ideális feltételeket biztosít a strandolás szerelmeseinek.", "category": "recreational", "coords": [11.526105, 55.898506]}], "ro": [{"name": "Gudmindrup Strand", "text": "În regiunea deluroasă Odsherred din Danemarca, Gudmindrup Strand este o destinație de coastă foarte populară. Peisajul extins al plajei atrage vizitatorii care doresc să se bucure de mare și să se relaxeze la soare. O vizită în timpul lunilor calde de vară garantează, de obicei, condiții ideale pentru iubitorii de plajă.", "category": "recreational", "coords": [11.526105, 55.898506]}], "en": [{"name": "Gudmindrup Strand", "text": "Located in the hilly region of Odsherred in Denmark, Gudmindrup Strand is a popular coastal destination. The expansive beach landscape attracts visitors looking to enjoy the sea and relax in the sun. Visiting during the warm summer months usually guarantees ideal conditions for beach lovers.", "category": "recreational", "coords": [11.526105, 55.898506]}]},
+    id: "denmark-odsherred-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gudmindrup Strand",
+                  "text": "In der hügeligen Landschaft von Odsherred in Dänemark ist der Gudmindrup Strand ein beliebtes Ziel an der Küste. Die weitläufige Strandlandschaft lockt Besucher an, die das Meer genießen und sich in der Sonne entspannen möchten. Ein Besuch während der warmen Sommermonate garantiert meist ideale Bedingungen für Strandliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        11.526105,
+                        55.898506
+                  ]
+            },
+            {
+                  "name": "Skingshøj",
+                  "text": "Eine archäologische Stätte in Odsherred Bakke, bestehend aus prähistorischen Grabhügeln.",
+                  "category": "historical",
+                  "coords": [
+                        11.606557,
+                        55.932328
+                  ]
+            },
+            {
+                  "name": "Tornehøj",
+                  "text": "Ein antiker Grabhügel in der hügeligen Landschaft von Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.610898,
+                        55.914512
+                  ]
+            },
+            {
+                  "name": "Snogehøj",
+                  "text": "Eine prähistorische Grabstätte in der Region Odsherred Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.611551,
+                        55.912517
+                  ]
+            },
+            {
+                  "name": "Borren",
+                  "text": "Überreste einer historischen Befestigungsanlage oder Siedlung in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.607962,
+                        55.919381
+                  ]
+            },
+            {
+                  "name": "Helenehøj",
+                  "text": "Ein bemerkenswerter prähistorischer Fundort in Odsherred Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.622582,
+                        55.905587
+                  ]
+            },
+            {
+                  "name": "Æbrehøj",
+                  "text": "Eine weitere archäologische Fundstätte mit prähistorischen Spuren in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.543748,
+                        55.914595
+                  ]
+            },
+            {
+                  "name": "Hiulehøj",
+                  "text": "Ein antiker Hügel in Odsherred Bakke, der Teil des archäologischen Erbes ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.560693,
+                        55.907511
+                  ]
+            },
+            {
+                  "name": "Manglebjerg",
+                  "text": "Eine historische Ausgrabungsstätte in der dänischen Region Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.657499,
+                        55.896871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gudmindrup Strand",
+                  "text": "A dániai Odsherred dombos vidékén található Gudmindrup Strand egy népszerű tengerparti célpont. A tágas partszakasz vonzza azokat a látogatókat, akik élvezni szeretnék a tengert és a napsütést. A meleg nyári hónapokban tett látogatás általában ideális feltételeket biztosít a strandolás szerelmeseinek.",
+                  "category": "recreational",
+                  "coords": [
+                        11.526105,
+                        55.898506
+                  ]
+            },
+            {
+                  "name": "Skingshøj",
+                  "text": "Régészeti lelőhely Odsherred Bakke-ben, amely őskori sírhalmokból áll.",
+                  "category": "historical",
+                  "coords": [
+                        11.606557,
+                        55.932328
+                  ]
+            },
+            {
+                  "name": "Tornehøj",
+                  "text": "Ősi sírhalom Odsherred dombos táján.",
+                  "category": "historical",
+                  "coords": [
+                        11.610898,
+                        55.914512
+                  ]
+            },
+            {
+                  "name": "Snogehøj",
+                  "text": "Őskori temetkezési hely Odsherred Bakke régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        11.611551,
+                        55.912517
+                  ]
+            },
+            {
+                  "name": "Borren",
+                  "text": "Egy történelmi erődítmény vagy település maradványai Odsherredben.",
+                  "category": "historical",
+                  "coords": [
+                        11.607962,
+                        55.919381
+                  ]
+            },
+            {
+                  "name": "Helenehøj",
+                  "text": "Figyelemre méltó őskori lelőhely Odsherred Bakke-ben.",
+                  "category": "historical",
+                  "coords": [
+                        11.622582,
+                        55.905587
+                  ]
+            },
+            {
+                  "name": "Æbrehøj",
+                  "text": "Újabb régészeti lelőhely őskori nyomokkal Odsherredben.",
+                  "category": "historical",
+                  "coords": [
+                        11.543748,
+                        55.914595
+                  ]
+            },
+            {
+                  "name": "Hiulehøj",
+                  "text": "Ősi halom Odsherred Bakke-ben, amely a régészeti örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        11.560693,
+                        55.907511
+                  ]
+            },
+            {
+                  "name": "Manglebjerg",
+                  "text": "Történelmi ásatási terület a dániai Odsherred régióban.",
+                  "category": "historical",
+                  "coords": [
+                        11.657499,
+                        55.896871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gudmindrup Strand",
+                  "text": "În regiunea deluroasă Odsherred din Danemarca, Gudmindrup Strand este o destinație de coastă foarte populară. Peisajul extins al plajei atrage vizitatorii care doresc să se bucure de mare și să se relaxeze la soare. O vizită în timpul lunilor calde de vară garantează, de obicei, condiții ideale pentru iubitorii de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        11.526105,
+                        55.898506
+                  ]
+            },
+            {
+                  "name": "Skingshøj",
+                  "text": "Un sit arheologic în Odsherred Bakke, format din tumuli preistorici.",
+                  "category": "historical",
+                  "coords": [
+                        11.606557,
+                        55.932328
+                  ]
+            },
+            {
+                  "name": "Tornehøj",
+                  "text": "Un tumul antic în peisajul deluros din Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.610898,
+                        55.914512
+                  ]
+            },
+            {
+                  "name": "Snogehøj",
+                  "text": "Un sit funerar preistoric în regiunea Odsherred Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.611551,
+                        55.912517
+                  ]
+            },
+            {
+                  "name": "Borren",
+                  "text": "Rămășițele unei fortificații sau așezări istorice în Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.607962,
+                        55.919381
+                  ]
+            },
+            {
+                  "name": "Helenehøj",
+                  "text": "Un sit preistoric remarcabil în Odsherred Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.622582,
+                        55.905587
+                  ]
+            },
+            {
+                  "name": "Æbrehøj",
+                  "text": "Un alt sit arheologic cu urme preistorice în Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.543748,
+                        55.914595
+                  ]
+            },
+            {
+                  "name": "Hiulehøj",
+                  "text": "Un tumul antic în Odsherred Bakke, parte a moștenirii arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        11.560693,
+                        55.907511
+                  ]
+            },
+            {
+                  "name": "Manglebjerg",
+                  "text": "Un sit arheologic istoric în regiunea daneză Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.657499,
+                        55.896871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gudmindrup Strand",
+                  "text": "Located in the hilly region of Odsherred in Denmark, Gudmindrup Strand is a popular coastal destination. The expansive beach landscape attracts visitors looking to enjoy the sea and relax in the sun. Visiting during the warm summer months usually guarantees ideal conditions for beach lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        11.526105,
+                        55.898506
+                  ]
+            },
+            {
+                  "name": "Skingshøj",
+                  "text": "An archaeological site in Odsherred Bakke, consisting of prehistoric burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        11.606557,
+                        55.932328
+                  ]
+            },
+            {
+                  "name": "Tornehøj",
+                  "text": "An ancient burial mound located in the hilly landscape of Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.610898,
+                        55.914512
+                  ]
+            },
+            {
+                  "name": "Snogehøj",
+                  "text": "A prehistoric burial site in the Odsherred Bakke region.",
+                  "category": "historical",
+                  "coords": [
+                        11.611551,
+                        55.912517
+                  ]
+            },
+            {
+                  "name": "Borren",
+                  "text": "Remains of a historic fortification or settlement in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.607962,
+                        55.919381
+                  ]
+            },
+            {
+                  "name": "Helenehøj",
+                  "text": "A notable prehistoric site in Odsherred Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.622582,
+                        55.905587
+                  ]
+            },
+            {
+                  "name": "Æbrehøj",
+                  "text": "Another archaeological site with prehistoric remains in Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.543748,
+                        55.914595
+                  ]
+            },
+            {
+                  "name": "Hiulehøj",
+                  "text": "An ancient mound in Odsherred Bakke, part of the archaeological heritage.",
+                  "category": "historical",
+                  "coords": [
+                        11.560693,
+                        55.907511
+                  ]
+            },
+            {
+                  "name": "Manglebjerg",
+                  "text": "A historic excavation site in the Danish region of Odsherred.",
+                  "category": "historical",
+                  "coords": [
+                        11.657499,
+                        55.896871
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Odsherred Bakke", hu: "Odsherred Bakke", ro: "Odsherred Bakke", en: "Odsherred Bakke" },
@@ -1803,7 +8247,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-naestved-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-vordingborg-relief-v2", "sights": {"de": [{"name": "Ore Strand", "text": "Der Ore Strand bietet einen reizvollen Küstenabschnitt nahe den Hügeln von Vordingborg in Dänemark. Hier finden Einheimische und Besucher gleichermaßen einen Ort, um am Wasser durchzuatmen und das Küstenflair auf sich wirken zu lassen. Am besten lässt sich die ruhige Stimmung bei einem frühen Morgenspaziergang einfangen.", "category": "recreational", "coords": [11.871371, 55.006706]}], "hu": [{"name": "Ore Strand", "text": "Az Ore Strand egy bájos partszakasz a dániai Vordingborg dombjai közelében. Itt a helyiek és a látogatók egyaránt találhatnak egy helyet, ahol a vízparton fellélegezhetnek és élvezhetik a parti hangulatot. A békés atmoszférát a legjobban egy kora reggeli séta során lehet megtapasztalni.", "category": "recreational", "coords": [11.871371, 55.006706]}], "ro": [{"name": "Ore Strand", "text": "Ore Strand oferă o secțiune de coastă fermecătoare în apropierea dealurilor din Vordingborg, Danemarca. Aici, localnicii și vizitatorii găsesc deopotrivă un loc pentru a respira adânc lângă apă și pentru a se bucura de atmosfera de coastă. Cel mai bun mod de a capta starea de spirit liniștită este în timpul unei plimbări matinale.", "category": "recreational", "coords": [11.871371, 55.006706]}], "en": [{"name": "Ore Strand", "text": "Ore Strand offers a charming stretch of coast near the hills of Vordingborg in Denmark. Here, locals and visitors alike can find a place to take a deep breath by the water and soak up the coastal flair. The peaceful mood is best captured during an early morning stroll.", "category": "recreational", "coords": [11.871371, 55.006706]}]},
+    id: "denmark-vordingborg-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ore Strand",
+                  "text": "Der Ore Strand bietet einen reizvollen Küstenabschnitt nahe den Hügeln von Vordingborg in Dänemark. Hier finden Einheimische und Besucher gleichermaßen einen Ort, um am Wasser durchzuatmen und das Küstenflair auf sich wirken zu lassen. Am besten lässt sich die ruhige Stimmung bei einem frühen Morgenspaziergang einfangen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.871371,
+                        55.006706
+                  ]
+            },
+            {
+                  "name": "Ore Fyr",
+                  "text": "Ein historischer Leuchtturm bei Vordingborg, der als Orientierungspunkt für die Schifffahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        11.8698,
+                        55.006868
+                  ]
+            },
+            {
+                  "name": "Masnedøfortet",
+                  "text": "Ein ehemaliges Küstenfort auf der Insel Masnedø, das heute als Ausstellungs- und Kulturraum genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        11.881999,
+                        54.987159
+                  ]
+            },
+            {
+                  "name": "Vordingborg Slotsruin",
+                  "text": "Die Ruinen einer mittelalterlichen Königsburg mit dem markanten Gåsetårnet (Gänseturm).",
+                  "category": "castle",
+                  "coords": [
+                        11.911393,
+                        55.006479
+                  ]
+            },
+            {
+                  "name": "Øens Dyr",
+                  "text": "Ein lokaler Tierpark, in dem Besucher verschiedenen Haus- und Nutztieren begegnen können.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886266,
+                        54.990437
+                  ]
+            },
+            {
+                  "name": "Psykiatrisk Museum Oringe",
+                  "text": "Ein Museum, das die Geschichte der psychiatrischen Behandlung in Dänemark beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        11.910831,
+                        54.998727
+                  ]
+            },
+            {
+                  "name": "Pavillon K",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort für darstellende Künste mit Theater und lokalen Events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.900481,
+                        55.007992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ore Strand",
+                  "text": "Az Ore Strand egy bájos partszakasz a dániai Vordingborg dombjai közelében. Itt a helyiek és a látogatók egyaránt találhatnak egy helyet, ahol a vízparton fellélegezhetnek és élvezhetik a parti hangulatot. A békés atmoszférát a legjobban egy kora reggeli séta során lehet megtapasztalni.",
+                  "category": "recreational",
+                  "coords": [
+                        11.871371,
+                        55.006706
+                  ]
+            },
+            {
+                  "name": "Ore Fyr",
+                  "text": "Történelmi világítótorony Vordingborg közelében, amely a part menti hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        11.8698,
+                        55.006868
+                  ]
+            },
+            {
+                  "name": "Masnedøfortet",
+                  "text": "Egykori parti erőd Masnedø szigetén, amely ma kiállító- és kulturális térként működik.",
+                  "category": "fortress",
+                  "coords": [
+                        11.881999,
+                        54.987159
+                  ]
+            },
+            {
+                  "name": "Vordingborg Slotsruin",
+                  "text": "Középkori királyi vár romjai a jellegzetes Gåsetårnet (Lúdtorony) épületével.",
+                  "category": "castle",
+                  "coords": [
+                        11.911393,
+                        55.006479
+                  ]
+            },
+            {
+                  "name": "Øens Dyr",
+                  "text": "Helyi állatpark, ahol a látogatók különféle házi- és haszonállatokkal találkozhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886266,
+                        54.990437
+                  ]
+            },
+            {
+                  "name": "Psykiatrisk Museum Oringe",
+                  "text": "Múzeum, amely a dániai pszichiátriai kezelések történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.910831,
+                        54.998727
+                  ]
+            },
+            {
+                  "name": "Pavillon K",
+                  "text": "Kulturális központ és előadóművészeti helyszín, amely színházi előadásoknak és helyi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.900481,
+                        55.007992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ore Strand",
+                  "text": "Ore Strand oferă o secțiune de coastă fermecătoare în apropierea dealurilor din Vordingborg, Danemarca. Aici, localnicii și vizitatorii găsesc deopotrivă un loc pentru a respira adânc lângă apă și pentru a se bucura de atmosfera de coastă. Cel mai bun mod de a capta starea de spirit liniștită este în timpul unei plimbări matinale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.871371,
+                        55.006706
+                  ]
+            },
+            {
+                  "name": "Ore Fyr",
+                  "text": "Un far istoric lângă Vordingborg care servește ca reper pentru navigația de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        11.8698,
+                        55.006868
+                  ]
+            },
+            {
+                  "name": "Masnedøfortet",
+                  "text": "Un fost fort de coastă pe insula Masnedø, folosit acum ca spațiu expozițional și cultural.",
+                  "category": "fortress",
+                  "coords": [
+                        11.881999,
+                        54.987159
+                  ]
+            },
+            {
+                  "name": "Vordingborg Slotsruin",
+                  "text": "Ruinele unui castel regal medieval care includ emblematicul Gåsetårnet (Turnul Gâștei).",
+                  "category": "castle",
+                  "coords": [
+                        11.911393,
+                        55.006479
+                  ]
+            },
+            {
+                  "name": "Øens Dyr",
+                  "text": "Un parc de animale local unde vizitatorii pot întâlni diverse animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886266,
+                        54.990437
+                  ]
+            },
+            {
+                  "name": "Psykiatrisk Museum Oringe",
+                  "text": "Un muzeu care explorează istoria tratamentului psihiatric în Danemarca.",
+                  "category": "museum",
+                  "coords": [
+                        11.910831,
+                        54.998727
+                  ]
+            },
+            {
+                  "name": "Pavillon K",
+                  "text": "Un centru cultural și loc pentru artele spectacolului care găzduiește teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.900481,
+                        55.007992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ore Strand",
+                  "text": "Ore Strand offers a charming stretch of coast near the hills of Vordingborg in Denmark. Here, locals and visitors alike can find a place to take a deep breath by the water and soak up the coastal flair. The peaceful mood is best captured during an early morning stroll.",
+                  "category": "recreational",
+                  "coords": [
+                        11.871371,
+                        55.006706
+                  ]
+            },
+            {
+                  "name": "Ore Fyr",
+                  "text": "A historic lighthouse near Vordingborg that serves as a landmark for coastal navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        11.8698,
+                        55.006868
+                  ]
+            },
+            {
+                  "name": "Masnedøfortet",
+                  "text": "A former coastal fort on Masnedø island, now used as an exhibition and cultural space.",
+                  "category": "fortress",
+                  "coords": [
+                        11.881999,
+                        54.987159
+                  ]
+            },
+            {
+                  "name": "Vordingborg Slotsruin",
+                  "text": "The ruins of a medieval royal castle featuring the iconic Gåsetårnet (Goose Tower).",
+                  "category": "castle",
+                  "coords": [
+                        11.911393,
+                        55.006479
+                  ]
+            },
+            {
+                  "name": "Øens Dyr",
+                  "text": "A local animal park where visitors can encounter various domestic and farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        11.886266,
+                        54.990437
+                  ]
+            },
+            {
+                  "name": "Psykiatrisk Museum Oringe",
+                  "text": "A museum that explores the history of psychiatric treatment in Denmark.",
+                  "category": "museum",
+                  "coords": [
+                        11.910831,
+                        54.998727
+                  ]
+            },
+            {
+                  "name": "Pavillon K",
+                  "text": "A cultural center and performing arts venue hosting theatre and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.900481,
+                        55.007992
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Vordingborg Bakke", hu: "Vordingborg Bakke", ro: "Vordingborg Bakke", en: "Vordingborg Bakke" },
@@ -1848,7 +8553,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-vordingborg-relief-v2.webp",
   },
   {
-    id: "denmark-falster-bakke-relief-v2",
+    id: "denmark-falster-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Ein antiker Grabhügel und eine archäologische Stätte in der Nähe von Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Ein prähistorischer Grabhügel in der Region Falster Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "Eine lokale Kunstgalerie, die verschiedene Werke in der Gegend von Falster ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "Eine traditionelle dänische Dorfkirche auf der Insel Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "Ein modernes Gotteshaus für die Gemeinde in der Region Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "Eine mittelalterliche Pfarrkirche, die für ihre Architektur auf der Insel Falster bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "Eine historische Dorfkirche auf Falster, bekannt für ihre mittelalterlichen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Egy ősi sírhalom és régészeti lelőhely Falster közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Egy őskori sírhalom Falster Bakke régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "Helyi művészeti galéria, amely különféle alkotásokat mutat be Falster környékén.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "Egy hagyományos dán falusi templom Falster szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "Modern templom, amely a Falster régió közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "Falster szigetén található középkori plébániatemplom, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "Falster egyik történelmi falusi temploma, amely középkori falfestményeiről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Un tumul antic și sit arheologic situat lângă Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Un tumul preistoric situat în regiunea Falster Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "O galerie de artă locală care expune diverse lucrări în zona Falster.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "O biserică tradițională daneză de sat situată pe insula Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "Un lăcaș de cult modern care deservește comunitatea din regiunea Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "O biserică parohială medievală cunoscută pentru arhitectura sa de pe insula Falster.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "O biserică istorică de sat din Falster, remarcabilă pentru picturile sale murale medievale.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "An ancient burial mound and archaeological site located near Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "A prehistoric burial mound situated in the Falster Bakke region.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "A local art gallery showcasing various works in the Falster area.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "A traditional Danish village church located on the island of Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "A modern place of worship serving the community in the Falster region.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "A medieval parish church known for its architecture on Falster island.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "A historic village church on Falster, notable for its medieval wall paintings.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Falster Bakke", hu: "Falster Bakke", ro: "Falster Bakke", en: "Falster Bakke" },
@@ -1893,7 +8859,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-falster-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-lolland-bakke-relief-v2",
+    id: "denmark-lolland-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dyrefold",
+                  "text": "Ein lokales Tiergehege in Lolland Bakke, ideal für Familienbesuche.",
+                  "category": "recreational",
+                  "coords": [
+                        11.332118,
+                        54.667766
+                  ]
+            },
+            {
+                  "name": "Lidsø",
+                  "text": "Ein historisches Herrenhaus auf der Insel Lolland mit weitläufigem Grundbesitz.",
+                  "category": "historical",
+                  "coords": [
+                        11.327485,
+                        54.686494
+                  ]
+            },
+            {
+                  "name": "Sædingegaard",
+                  "text": "Ein bedeutendes Gutshaus und landwirtschaftliches Anwesen auf Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.405939,
+                        54.71451
+                  ]
+            },
+            {
+                  "name": "Rødbyhavn Kirke",
+                  "text": "Die Kirche der Hafenstadt Rødbyhavn, erbaut im frühen 20. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        11.361797,
+                        54.666604
+                  ]
+            },
+            {
+                  "name": "Nebbelunde Kirke",
+                  "text": "Eine romanische Dorfkirche in der Region Lolland.",
+                  "category": "religious",
+                  "coords": [
+                        11.385774,
+                        54.709186
+                  ]
+            },
+            {
+                  "name": "Rødby Kirke",
+                  "text": "Die Hauptpfarrkirche von Rødby mit einer langen Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        11.386243,
+                        54.695411
+                  ]
+            },
+            {
+                  "name": "Tirsted Kirke",
+                  "text": "Eine große mittelalterliche Kirche, bekannt für ihren Runenstein.",
+                  "category": "religious",
+                  "coords": [
+                        11.345307,
+                        54.735195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dyrefold",
+                  "text": "Egy helyi állatkifutó Lolland Bakke területén, ideális családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        11.332118,
+                        54.667766
+                  ]
+            },
+            {
+                  "name": "Lidsø",
+                  "text": "Történelmi kúria Lolland szigetén, kiterjedt birtokkal.",
+                  "category": "historical",
+                  "coords": [
+                        11.327485,
+                        54.686494
+                  ]
+            },
+            {
+                  "name": "Sædingegaard",
+                  "text": "Egy jelentős udvarház és mezőgazdasági birtok Lolland szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        11.405939,
+                        54.71451
+                  ]
+            },
+            {
+                  "name": "Rødbyhavn Kirke",
+                  "text": "Rødbyhavn kikötőváros temploma, amely a 20. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        11.361797,
+                        54.666604
+                  ]
+            },
+            {
+                  "name": "Nebbelunde Kirke",
+                  "text": "Egy román stílusú falusi templom Lolland régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        11.385774,
+                        54.709186
+                  ]
+            },
+            {
+                  "name": "Rødby Kirke",
+                  "text": "Rødby fő plébániatemploma, amely hosszú múltra tekint vissza.",
+                  "category": "religious",
+                  "coords": [
+                        11.386243,
+                        54.695411
+                  ]
+            },
+            {
+                  "name": "Tirsted Kirke",
+                  "text": "Egy nagy középkori templom, amely rúnakövéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.345307,
+                        54.735195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dyrefold",
+                  "text": "Un adăpost local pentru animale în Lolland Bakke, ideal pentru vizite cu familia.",
+                  "category": "recreational",
+                  "coords": [
+                        11.332118,
+                        54.667766
+                  ]
+            },
+            {
+                  "name": "Lidsø",
+                  "text": "Un conac istoric pe insula Lolland, cu o proprietate vastă.",
+                  "category": "historical",
+                  "coords": [
+                        11.327485,
+                        54.686494
+                  ]
+            },
+            {
+                  "name": "Sædingegaard",
+                  "text": "Un conac important și o proprietate agricolă pe insula Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.405939,
+                        54.71451
+                  ]
+            },
+            {
+                  "name": "Rødbyhavn Kirke",
+                  "text": "Biserica orașului port Rødbyhavn, construită la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        11.361797,
+                        54.666604
+                  ]
+            },
+            {
+                  "name": "Nebbelunde Kirke",
+                  "text": "O biserică de sat în stil romanic în regiunea Lolland.",
+                  "category": "religious",
+                  "coords": [
+                        11.385774,
+                        54.709186
+                  ]
+            },
+            {
+                  "name": "Rødby Kirke",
+                  "text": "Biserica parohială principală din Rødby, cu o istorie îndelungată.",
+                  "category": "religious",
+                  "coords": [
+                        11.386243,
+                        54.695411
+                  ]
+            },
+            {
+                  "name": "Tirsted Kirke",
+                  "text": "O biserică medievală mare, cunoscută pentru piatra sa runică.",
+                  "category": "religious",
+                  "coords": [
+                        11.345307,
+                        54.735195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dyrefold",
+                  "text": "A local animal enclosure in Lolland Bakke, ideal for family visits.",
+                  "category": "recreational",
+                  "coords": [
+                        11.332118,
+                        54.667766
+                  ]
+            },
+            {
+                  "name": "Lidsø",
+                  "text": "A historical manor house on the island of Lolland with extensive grounds.",
+                  "category": "historical",
+                  "coords": [
+                        11.327485,
+                        54.686494
+                  ]
+            },
+            {
+                  "name": "Sædingegaard",
+                  "text": "A notable manor house and agricultural estate on the island of Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.405939,
+                        54.71451
+                  ]
+            },
+            {
+                  "name": "Rødbyhavn Kirke",
+                  "text": "The church of the port town Rødbyhavn, built in the early 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        11.361797,
+                        54.666604
+                  ]
+            },
+            {
+                  "name": "Nebbelunde Kirke",
+                  "text": "A Romanesque village church located in the Lolland region.",
+                  "category": "religious",
+                  "coords": [
+                        11.385774,
+                        54.709186
+                  ]
+            },
+            {
+                  "name": "Rødby Kirke",
+                  "text": "The main parish church of Rødby with a long history.",
+                  "category": "religious",
+                  "coords": [
+                        11.386243,
+                        54.695411
+                  ]
+            },
+            {
+                  "name": "Tirsted Kirke",
+                  "text": "A large medieval church known for its runic stone.",
+                  "category": "religious",
+                  "coords": [
+                        11.345307,
+                        54.735195
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Lolland Bakke", hu: "Lolland Bakke", ro: "Lolland Bakke", en: "Lolland Bakke" },
@@ -1938,7 +9165,160 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-lolland-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-bornholm-bakke-relief-v2",
+    id: "denmark-bornholm-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Eine archäologische Stätte auf Bornholm, die Spuren früher Besiedlung in der hügeligen Landschaft zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Ein botanischer Garten auf Bornholm, der eine Vielzahl an Bäumen und Sträuchern in gepflegter Umgebung zeigt.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "Ein berühmter Findling auf Bornholm, der sich trotz seiner Größe leicht in Bewegung versetzen lässt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.895474,
+                        55.125887
+                  ]
+            },
+            {
+                  "name": "Bornholms Rovfugleshow",
+                  "text": "Eine Attraktion auf Bornholm, die Flugschauen mit Adlern, Falken und anderen Greifvögeln präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80492,
+                        55.137054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Régészeti lelőhely Bornholm szigetén, amely a korai letelepedés nyomait őrzi a dombos tájon.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Botanikus kert Bornholm szigetén, amely különféle fákat és cserjéket mutat be gondozott környezetben.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "Híres vándorkő Bornholm szigetén, amely mérete ellenére könnyen mozgásba hozható.",
+                  "category": "landmark",
+                  "coords": [
+                        14.895474,
+                        55.125887
+                  ]
+            },
+            {
+                  "name": "Bornholms Rovfugleshow",
+                  "text": "Attrakció Bornholm szigetén, amely sasokkal, sólymokkal és más ragadozó madarakkal tart bemutatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80492,
+                        55.137054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Un sit arheologic pe insula Bornholm, care prezintă urme ale așezărilor timpurii în peisajul deluros.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "O grădină botanică pe Bornholm, care prezintă o varietate de arbori și arbuști într-un mediu îngrijit.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "Un faimos bloc eratic pe Bornholm care, în ciuda dimensiunilor sale, poate fi pus ușor în mișcare.",
+                  "category": "landmark",
+                  "coords": [
+                        14.895474,
+                        55.125887
+                  ]
+            },
+            {
+                  "name": "Bornholms Rovfugleshow",
+                  "text": "O atracție pe Bornholm care prezintă spectacole de zbor cu vulturi, șoimi și alte păsări de pradă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80492,
+                        55.137054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rapshøi",
+                  "text": "An archaeological site on Bornholm, showing traces of early settlement in the hilly landscape.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "A botanical garden on Bornholm showcasing a variety of trees and shrubs in a manicured setting.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "A famous erratic boulder on Bornholm that can be easily set in motion despite its large size.",
+                  "category": "landmark",
+                  "coords": [
+                        14.895474,
+                        55.125887
+                  ]
+            },
+            {
+                  "name": "Bornholms Rovfugleshow",
+                  "text": "An attraction on Bornholm featuring flight shows with eagles, hawks, and other birds of prey.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80492,
+                        55.137054
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Bornholm Bakke", hu: "Bornholm Bakke", ro: "Bornholm Bakke", en: "Bornholm Bakke" },
@@ -2028,7 +9408,268 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-alssund-relief-v2.webp",
   },
   {
-    id: "denmark-aero-bakke-relief-v2",
+    id: "denmark-aero-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brynkehøj",
+                  "text": "Brynkehøj ist eine archäologische Ausgrabungsstätte in Ærø Bakke, die antike Siedlungsspuren zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.417592,
+                        54.866848
+                  ]
+            },
+            {
+                  "name": "Langedyss",
+                  "text": "Langedyss ist eine archäologische Stätte in Ærø Bakke, die Überreste eines prähistorischen Grabmals beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        10.413397,
+                        54.87253
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Tingstedet ist eine historische archäologische Stätte in Ærø Bakke, die vermutlich als Versammlungsort diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.397687,
+                        54.855296
+                  ]
+            },
+            {
+                  "name": "Lindsbjerg Dysse",
+                  "text": "Lindsbjerg Dysse ist ein prähistorisches Ganggrab in Ærø Bakke von archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        10.430287,
+                        54.834107
+                  ]
+            },
+            {
+                  "name": "Kragnæs Jættestue",
+                  "text": "Kragnæs Jættestue ist ein archäologisch bedeutendes Megalithgrab in Ærø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        10.46154,
+                        54.865056
+                  ]
+            },
+            {
+                  "name": "Sankt Alberts fæstning",
+                  "text": "Die Festung Sankt Albert ist eine archäologische Stätte in Ærø Bakke, die Überreste einer mittelalterlichen Verteidigungsanlage zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.436444,
+                        54.825599
+                  ]
+            },
+            {
+                  "name": "Nevre Strand",
+                  "text": "Nevre Strand ist ein ruhiger Küstenabschnitt in Ærø Bakke, ideal für Naturbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.418489,
+                        54.87851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brynkehøj",
+                  "text": "Brynkehøj egy régészeti lelőhely Ærø Bakke környékén, ahol ősi településnyomok találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.417592,
+                        54.866848
+                  ]
+            },
+            {
+                  "name": "Langedyss",
+                  "text": "Langedyss egy régészeti lelőhely Ærø Bakke területén, amely egy őskori síremlék maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.413397,
+                        54.87253
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "A Tingstedet egy történelmi régészeti lelőhely Ærø Bakke közelében, amely egykor gyülekezőhelyként szolgálhatott.",
+                  "category": "historical",
+                  "coords": [
+                        10.397687,
+                        54.855296
+                  ]
+            },
+            {
+                  "name": "Lindsbjerg Dysse",
+                  "text": "Lindsbjerg Dysse egy régészeti jelentőségű őskori sírkamra Ærø Bakke területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.430287,
+                        54.834107
+                  ]
+            },
+            {
+                  "name": "Kragnæs Jættestue",
+                  "text": "A Kragnæs Jættestue egy jelentős régészeti emlék, egy megalitikus sír Ærø Bakke környékén.",
+                  "category": "historical",
+                  "coords": [
+                        10.46154,
+                        54.865056
+                  ]
+            },
+            {
+                  "name": "Sankt Alberts fæstning",
+                  "text": "Sankt Alberts fæstning egy régészeti lelőhely Ærø Bakke területén, ahol egy középkori erődítmény maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        10.436444,
+                        54.825599
+                  ]
+            },
+            {
+                  "name": "Nevre Strand",
+                  "text": "Nevre Strand egy csendes tengerparti szakasz Ærø Bakke közelében, amely kiváló a természet megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        10.418489,
+                        54.87851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brynkehøj",
+                  "text": "Brynkehøj este un sit arheologic în Ærø Bakke, unde pot fi văzute urme ale unor așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.417592,
+                        54.866848
+                  ]
+            },
+            {
+                  "name": "Langedyss",
+                  "text": "Langedyss este un sit arheologic din Ærø Bakke ce adăpostește rămășițele unui monument funerar preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        10.413397,
+                        54.87253
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Tingstedet este un sit arheologic istoric din Ærø Bakke, despre care se crede că a servit drept loc de adunare.",
+                  "category": "historical",
+                  "coords": [
+                        10.397687,
+                        54.855296
+                  ]
+            },
+            {
+                  "name": "Lindsbjerg Dysse",
+                  "text": "Lindsbjerg Dysse este un sit arheologic din Ærø Bakke, reprezentând un monument funerar preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        10.430287,
+                        54.834107
+                  ]
+            },
+            {
+                  "name": "Kragnæs Jættestue",
+                  "text": "Kragnæs Jættestue este un mormânt megalitic de importanță arheologică situat în Ærø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        10.46154,
+                        54.865056
+                  ]
+            },
+            {
+                  "name": "Sankt Alberts fæstning",
+                  "text": "Sankt Alberts fæstning este un sit arheologic din Ærø Bakke, prezentând ruinele unei fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        10.436444,
+                        54.825599
+                  ]
+            },
+            {
+                  "name": "Nevre Strand",
+                  "text": "Nevre Strand este o porțiune liniștită de coastă în Ærø Bakke, ideală pentru relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        10.418489,
+                        54.87851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brynkehøj",
+                  "text": "Brynkehøj is an archaeological site in Ærø Bakke featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        10.417592,
+                        54.866848
+                  ]
+            },
+            {
+                  "name": "Langedyss",
+                  "text": "Langedyss is an archaeological site in Ærø Bakke containing the remains of a prehistoric tomb.",
+                  "category": "historical",
+                  "coords": [
+                        10.413397,
+                        54.87253
+                  ]
+            },
+            {
+                  "name": "Tingstedet",
+                  "text": "Tingstedet is a historical archaeological site in Ærø Bakke, believed to have been an ancient assembly place.",
+                  "category": "historical",
+                  "coords": [
+                        10.397687,
+                        54.855296
+                  ]
+            },
+            {
+                  "name": "Lindsbjerg Dysse",
+                  "text": "Lindsbjerg Dysse is a prehistoric dolmen and archaeological site located in Ærø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        10.430287,
+                        54.834107
+                  ]
+            },
+            {
+                  "name": "Kragnæs Jættestue",
+                  "text": "Kragnæs Jættestue is an archaeologically significant megalithic passage grave in Ærø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        10.46154,
+                        54.865056
+                  ]
+            },
+            {
+                  "name": "Sankt Alberts fæstning",
+                  "text": "Sankt Alberts fæstning is an archaeological site in Ærø Bakke featuring the remains of a medieval fortification.",
+                  "category": "historical",
+                  "coords": [
+                        10.436444,
+                        54.825599
+                  ]
+            },
+            {
+                  "name": "Nevre Strand",
+                  "text": "Nevre Strand is a quiet coastal area in Ærø Bakke, suitable for nature walks and seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.418489,
+                        54.87851
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Ærø Bakke", hu: "Ærø Bakke", ro: "Ærø Bakke", en: "Ærø Bakke" },
@@ -2073,7 +9714,304 @@ export const denmarkReliefV2: POI[] = [
     image: "/poi-images/denmark-aero-bakke-relief-v2.webp",
   },
   {
-    id: "denmark-lango-bakke-relief-v2",
+    id: "denmark-lango-bakke-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thorkilshøj",
+                  "text": "Eine antike archäologische Stätte in der dänischen Landschaft bei Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.276316,
+                        54.873986
+                  ]
+            },
+            {
+                  "name": "Kong Svends Høj",
+                  "text": "Eines der größten prähistorischen Ganggräber Dänemarks auf der Insel Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.264794,
+                        54.911745
+                  ]
+            },
+            {
+                  "name": "Steilehøi",
+                  "text": "Eine historische Ausgrabungsstätte in der Region Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.238112,
+                        54.935481
+                  ]
+            },
+            {
+                  "name": "Haugaard",
+                  "text": "Ein historisches Herrenhaus in der ländlichen Umgebung von Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.190868,
+                        54.903267
+                  ]
+            },
+            {
+                  "name": "Reventlow-Museum Pederstrup",
+                  "text": "Museum in einem ehemaligen Herrenhaus, das dem dänischen Reformer C.D.F. Reventlow gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.265499,
+                        54.895928
+                  ]
+            },
+            {
+                  "name": "Skelstofte",
+                  "text": "Ein traditioneller dänischer Gutshof in der Nähe von Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.272691,
+                        54.876692
+                  ]
+            },
+            {
+                  "name": "Horslunde Kirke",
+                  "text": "Eine historische Kirche in Horslunde mit traditioneller dänischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        11.216576,
+                        54.908646
+                  ]
+            },
+            {
+                  "name": "Nøbbet Kirke",
+                  "text": "Eine malerische Landkirche in der Nähe von Langø Bakke.",
+                  "category": "religious",
+                  "coords": [
+                        11.272092,
+                        54.928554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thorkilshøj",
+                  "text": "Ősi régészeti lelőhely a dán tájon, Langø Bakke közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.276316,
+                        54.873986
+                  ]
+            },
+            {
+                  "name": "Kong Svends Høj",
+                  "text": "Dánia egyik legnagyobb őskori folyosósírja Lolland szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        11.264794,
+                        54.911745
+                  ]
+            },
+            {
+                  "name": "Steilehøi",
+                  "text": "Történelmi ásatási terület a Langø Bakke régióban.",
+                  "category": "historical",
+                  "coords": [
+                        11.238112,
+                        54.935481
+                  ]
+            },
+            {
+                  "name": "Haugaard",
+                  "text": "Történelmi udvarház Langø Bakke vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        11.190868,
+                        54.903267
+                  ]
+            },
+            {
+                  "name": "Reventlow-Museet Pederstrup",
+                  "text": "Egykori udvarházban működő múzeum, amely C.D.F. Reventlow dán reformernek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        11.265499,
+                        54.895928
+                  ]
+            },
+            {
+                  "name": "Skelstofte",
+                  "text": "Hagyományos dán udvarház Langø Bakke közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.272691,
+                        54.876692
+                  ]
+            },
+            {
+                  "name": "Horslunde Kirke",
+                  "text": "Történelmi templom Horslundében, hagyományos dán építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        11.216576,
+                        54.908646
+                  ]
+            },
+            {
+                  "name": "Nøbbet Kirke",
+                  "text": "Festői vidéki templom Langø Bakke közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.272092,
+                        54.928554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thorkilshøj",
+                  "text": "Un sit arheologic antic în peisajul danez de la Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.276316,
+                        54.873986
+                  ]
+            },
+            {
+                  "name": "Kong Svends Høj",
+                  "text": "Unul dintre cele mai mari morminte preistorice de tip coridor din Danemarca, pe insula Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.264794,
+                        54.911745
+                  ]
+            },
+            {
+                  "name": "Steilehøi",
+                  "text": "Un sit istoric de excavare în regiunea Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.238112,
+                        54.935481
+                  ]
+            },
+            {
+                  "name": "Haugaard",
+                  "text": "Un conac istoric în cadrul rural din Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.190868,
+                        54.903267
+                  ]
+            },
+            {
+                  "name": "Reventlow-Museet Pederstrup",
+                  "text": "Muzeu situat într-un fost conac, dedicat reformatorului danez C.D.F. Reventlow.",
+                  "category": "historical",
+                  "coords": [
+                        11.265499,
+                        54.895928
+                  ]
+            },
+            {
+                  "name": "Skelstofte",
+                  "text": "O moșie tradițională daneză situată în apropiere de Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.272691,
+                        54.876692
+                  ]
+            },
+            {
+                  "name": "Horslunde Kirke",
+                  "text": "O biserică istorică în Horslunde, cu arhitectură tradițională daneză.",
+                  "category": "religious",
+                  "coords": [
+                        11.216576,
+                        54.908646
+                  ]
+            },
+            {
+                  "name": "Nøbbet Kirke",
+                  "text": "O biserică rurală pitorească în apropiere de Langø Bakke.",
+                  "category": "religious",
+                  "coords": [
+                        11.272092,
+                        54.928554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thorkilshøj",
+                  "text": "An ancient archaeological site in the Danish landscape near Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.276316,
+                        54.873986
+                  ]
+            },
+            {
+                  "name": "Kong Svends Høj",
+                  "text": "One of Denmark's largest prehistoric passage graves, located on the island of Lolland.",
+                  "category": "historical",
+                  "coords": [
+                        11.264794,
+                        54.911745
+                  ]
+            },
+            {
+                  "name": "Steilehøi",
+                  "text": "A historical excavation site in the Langø Bakke region.",
+                  "category": "historical",
+                  "coords": [
+                        11.238112,
+                        54.935481
+                  ]
+            },
+            {
+                  "name": "Haugaard",
+                  "text": "A historic manor house set in the rural surroundings of Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.190868,
+                        54.903267
+                  ]
+            },
+            {
+                  "name": "Reventlow-Museet Pederstrup",
+                  "text": "Museum in a former manor house dedicated to the Danish reformer C.D.F. Reventlow.",
+                  "category": "historical",
+                  "coords": [
+                        11.265499,
+                        54.895928
+                  ]
+            },
+            {
+                  "name": "Skelstofte",
+                  "text": "A traditional Danish manor estate located near Langø Bakke.",
+                  "category": "historical",
+                  "coords": [
+                        11.272691,
+                        54.876692
+                  ]
+            },
+            {
+                  "name": "Horslunde Kirke",
+                  "text": "A historical church in Horslunde featuring traditional Danish architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.216576,
+                        54.908646
+                  ]
+            },
+            {
+                  "name": "Nøbbet Kirke",
+                  "text": "A picturesque rural church located near Langø Bakke.",
+                  "category": "religious",
+                  "coords": [
+                        11.272092,
+                        54.928554
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Langø Bakke", hu: "Langø Bakke", ro: "Langø Bakke", en: "Langø Bakke" },

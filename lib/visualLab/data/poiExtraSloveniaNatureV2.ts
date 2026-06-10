@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const sloveniaNatureV2: POI[] = [
 
   {
-    id: "slovenia-triglav-nature-v2",
+    id: "slovenia-triglav-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terglau",
+                  "text": "Der höchste Berg Sloweniens und das Herzstück der Julischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.836582,
+                        46.378298
+                  ]
+            },
+            {
+                  "name": "Tosc",
+                  "text": "Ein markanter Berggipfel in den Julischen Alpen mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.86837,
+                        46.356723
+                  ]
+            },
+            {
+                  "name": "Kanjavec",
+                  "text": "Ein hoher Gipfel in den Julischen Alpen, bekannt für seine Lage über dem Tal der Sieben Seen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.80982,
+                        46.360109
+                  ]
+            },
+            {
+                  "name": "Bovški Gamsovec",
+                  "text": "Ein malerischer Berggipfel in den Julischen Alpen, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.812669,
+                        46.398217
+                  ]
+            },
+            {
+                  "name": "Stenar",
+                  "text": "Ein Berggipfel in den Julischen Alpen, berühmt für seine beeindruckende Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818559,
+                        46.407986
+                  ]
+            },
+            {
+                  "name": "Mišelj vrh",
+                  "text": "Ein pyramidenförmiger Gipfel in den zentralen Julischen Alpen mit Blick auf den Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.837704,
+                        46.356434
+                  ]
+            },
+            {
+                  "name": "Rž",
+                  "text": "Ein hoher Berggipfel auf dem Grat in der Nähe des Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.859146,
+                        46.381655
+                  ]
+            },
+            {
+                  "name": "Rjavina",
+                  "text": "Einer der höchsten Gipfel der Julischen Alpen, der einen anspruchsvollen Aufstieg bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.880832,
+                        46.391917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Triglav",
+                  "text": "Szlovénia legmagasabb hegye és a Júliai-Alpok központja.",
+                  "category": "landmark",
+                  "coords": [
+                        13.836582,
+                        46.378298
+                  ]
+            },
+            {
+                  "name": "Tosc",
+                  "text": "A Júliai-Alpok egyik kiemelkedő hegycsúcsa, amely panorámás kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.86837,
+                        46.356723
+                  ]
+            },
+            {
+                  "name": "Kanjavec",
+                  "text": "A Júliai-Alpok egyik magas csúcsa a Hét-tó völgye felett.",
+                  "category": "landmark",
+                  "coords": [
+                        13.80982,
+                        46.360109
+                  ]
+            },
+            {
+                  "name": "Bovški Gamsovec",
+                  "text": "Egy festői hegycsúcs a Júliai-Alpokban, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.812669,
+                        46.398217
+                  ]
+            },
+            {
+                  "name": "Stenar",
+                  "text": "Hegyi csúcs a Júliai-Alpokban, amely lenyűgöző északi faláról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818559,
+                        46.407986
+                  ]
+            },
+            {
+                  "name": "Mišelj vrh",
+                  "text": "Piramis alakú csúcs a Középső-Júliai-Alpokban, kilátással a Triglavra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.837704,
+                        46.356434
+                  ]
+            },
+            {
+                  "name": "Rž",
+                  "text": "Magas hegycsúcs a Triglav közelében lévő gerincen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.859146,
+                        46.381655
+                  ]
+            },
+            {
+                  "name": "Rjavina",
+                  "text": "A Júliai-Alpok egyik legmagasabb csúcsa, amely kihívást jelentő mászást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.880832,
+                        46.391917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Triglav",
+                  "text": "Cel mai înalt munte din Slovenia și inima Alpilor Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.836582,
+                        46.378298
+                  ]
+            },
+            {
+                  "name": "Tosc",
+                  "text": "Un vârf muntos proeminent din Alpii Iulieni care oferă vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.86837,
+                        46.356723
+                  ]
+            },
+            {
+                  "name": "Kanjavec",
+                  "text": "Un vârf înalt din Alpii Iulieni, situat deasupra Văii celor Șapte Lacuri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.80982,
+                        46.360109
+                  ]
+            },
+            {
+                  "name": "Bovški Gamsovec",
+                  "text": "Un vârf muntos pitoresc din Alpii Iulieni, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        13.812669,
+                        46.398217
+                  ]
+            },
+            {
+                  "name": "Stenar",
+                  "text": "Un vârf muntos din Alpii Iulieni, renumit pentru peretele său nordic impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818559,
+                        46.407986
+                  ]
+            },
+            {
+                  "name": "Mišelj vrh",
+                  "text": "Un vârf în formă de piramidă din Alpii Iulieni centrali, cu vedere spre Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.837704,
+                        46.356434
+                  ]
+            },
+            {
+                  "name": "Rž",
+                  "text": "Un vârf muntos înalt situat pe creasta din apropierea muntelui Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.859146,
+                        46.381655
+                  ]
+            },
+            {
+                  "name": "Rjavina",
+                  "text": "Unul dintre cele mai înalte vârfuri din Alpii Iulieni, oferind o ascensiune dificilă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.880832,
+                        46.391917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Triglav",
+                  "text": "The highest mountain in Slovenia and the centerpiece of the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.836582,
+                        46.378298
+                  ]
+            },
+            {
+                  "name": "Tosc",
+                  "text": "A prominent mountain peak in the Julian Alps offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.86837,
+                        46.356723
+                  ]
+            },
+            {
+                  "name": "Kanjavec",
+                  "text": "A high peak in the Julian Alps known for its location above the Seven Lakes Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        13.80982,
+                        46.360109
+                  ]
+            },
+            {
+                  "name": "Bovški Gamsovec",
+                  "text": "A scenic mountain peak in the Julian Alps popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.812669,
+                        46.398217
+                  ]
+            },
+            {
+                  "name": "Stenar",
+                  "text": "A mountain peak in the Julian Alps, famous for its impressive north face.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818559,
+                        46.407986
+                  ]
+            },
+            {
+                  "name": "Mišelj vrh",
+                  "text": "A pyramid-shaped peak in the central Julian Alps, offering views of Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.837704,
+                        46.356434
+                  ]
+            },
+            {
+                  "name": "Rž",
+                  "text": "A high mountain peak located on the ridge near Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.859146,
+                        46.381655
+                  ]
+            },
+            {
+                  "name": "Rjavina",
+                  "text": "One of the highest peaks in the Julian Alps, providing a challenging ascent.",
+                  "category": "landmark",
+                  "coords": [
+                        13.880832,
+                        46.391917
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "peak",
     name: { de: "Triglav", hu: "Triglav", ro: "Triglav", en: "Triglav"},
@@ -95,7 +392,268 @@ imageHint: "Lake Bled with island church at sunrise",
     },
     image: "/poi-images/slovenia-lake-bled-nature-v2.webp",
 },  {
-    id: "slovenia-lake-bohinj-nature-v2",
+    id: "slovenia-lake-bohinj-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Planšarski muzej",
+                  "text": "Ein Museum in Stara Fužina, das der Geschichte der Almwirtschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.894804,
+                        46.289157
+                  ]
+            },
+            {
+                  "name": "Oplenova Hisa",
+                  "text": "Ein erhaltenes historisches Bauernhaus in Studor, das traditionelle Bohinjer Architektur und Lebensweise zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.915795,
+                        46.295581
+                  ]
+            },
+            {
+                  "name": "Studor",
+                  "text": "Ein charakteristischer Berggipfel über dem Dorf Studor in der Nähe des Bohinjer Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        13.9075,
+                        46.295545
+                  ]
+            },
+            {
+                  "name": "Hansenova skakalnica",
+                  "text": "Die Ruinen einer ehemaligen Skisprungschanze bei Polje, entworfen vom Ingenieur Thorleif Hansen.",
+                  "category": "historical",
+                  "coords": [
+                        13.912147,
+                        46.262025
+                  ]
+            },
+            {
+                  "name": "Vogar",
+                  "text": "Ein beliebter Aussichtspunkt auf einer Alm mit herrlichem Blick auf den Bohinjer See.",
+                  "category": "natural",
+                  "coords": [
+                        13.864638,
+                        46.295504
+                  ]
+            },
+            {
+                  "name": "Spodnji Vogar",
+                  "text": "Ein tiefer gelegener Aussichtspunkt auf der Vogar-Alm mit Blick auf das Bohinjer Tal.",
+                  "category": "natural",
+                  "coords": [
+                        13.875456,
+                        46.294697
+                  ]
+            },
+            {
+                  "name": "Mostnica Gorge",
+                  "text": "Eine malerische Schlucht, die vom Mostnica-Bach gegraben wurde und für ihre einzigartigen Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.888905,
+                        46.292766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Planšarski muzej",
+                  "text": "Stara Fužina-i múzeum, amely az alpesi tejgazdálkodás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.894804,
+                        46.289157
+                  ]
+            },
+            {
+                  "name": "Oplenova Hisa",
+                  "text": "Megőrzött történelmi parasztház Studorban, amely a hagyományos bohinji építészetet és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.915795,
+                        46.295581
+                  ]
+            },
+            {
+                  "name": "Studor",
+                  "text": "Jellegzetes hegycsúcs a Bohinji-tó közelében lévő Studor falu felett.",
+                  "category": "landmark",
+                  "coords": [
+                        13.9075,
+                        46.295545
+                  ]
+            },
+            {
+                  "name": "Hansenova skakalnica",
+                  "text": "Egy egykori síugrósánc romjai Polje közelében, amelyet Thorleif Hansen mérnök tervezett.",
+                  "category": "historical",
+                  "coords": [
+                        13.912147,
+                        46.262025
+                  ]
+            },
+            {
+                  "name": "Vogar",
+                  "text": "Népszerű kilátó egy hegyi legelőn, ahonnan lenyűgöző kilátás nyílik a Bohinji-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        13.864638,
+                        46.295504
+                  ]
+            },
+            {
+                  "name": "Spodnji Vogar",
+                  "text": "Alacsonyabb kilátópont a Vogar-legelőn, kilátással a Bohinj-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        13.875456,
+                        46.294697
+                  ]
+            },
+            {
+                  "name": "Mostnica Gorge",
+                  "text": "A Mostnica-patak által vájt látványos szurdok, amely egyedülálló sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.888905,
+                        46.292766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Planšarski muzej",
+                  "text": "Un muzeu din Stara Fužina dedicat istoriei lăptăritului alpin.",
+                  "category": "museum",
+                  "coords": [
+                        13.894804,
+                        46.289157
+                  ]
+            },
+            {
+                  "name": "Oplenova Hisa",
+                  "text": "O casă țărănească istorică păstrată în Studor, care prezintă arhitectura și viața tradițională din Bohinj.",
+                  "category": "museum",
+                  "coords": [
+                        13.915795,
+                        46.295581
+                  ]
+            },
+            {
+                  "name": "Studor",
+                  "text": "Un vârf montan caracteristic care domină satul Studor de lângă lacul Bohinj.",
+                  "category": "landmark",
+                  "coords": [
+                        13.9075,
+                        46.295545
+                  ]
+            },
+            {
+                  "name": "Hansenova skakalnica",
+                  "text": "Ruinele unei foste trambuline de sărituri cu schiurile lângă Polje, proiectată de inginerul Thorleif Hansen.",
+                  "category": "historical",
+                  "coords": [
+                        13.912147,
+                        46.262025
+                  ]
+            },
+            {
+                  "name": "Vogar",
+                  "text": "Un punct de belvedere popular pe o pășune montană, oferind vederi uimitoare asupra lacului Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.864638,
+                        46.295504
+                  ]
+            },
+            {
+                  "name": "Spodnji Vogar",
+                  "text": "Un punct de belvedere mai jos pe pășunea Vogar, care oferă priveliști asupra văii Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.875456,
+                        46.294697
+                  ]
+            },
+            {
+                  "name": "Mostnica Gorge",
+                  "text": "Un chei pitoresc săpat de pârâul Mostnica, cunoscut pentru formațiunile sale stâncoase unice.",
+                  "category": "natural",
+                  "coords": [
+                        13.888905,
+                        46.292766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Planšarski muzej",
+                  "text": "A museum in Stara Fužina dedicated to the history of alpine dairy farming.",
+                  "category": "museum",
+                  "coords": [
+                        13.894804,
+                        46.289157
+                  ]
+            },
+            {
+                  "name": "Oplen's house",
+                  "text": "A preserved historic farmhouse in Studor showcasing traditional Bohinj architecture and life.",
+                  "category": "museum",
+                  "coords": [
+                        13.915795,
+                        46.295581
+                  ]
+            },
+            {
+                  "name": "Studor",
+                  "text": "A characteristic mountain peak overlooking the village of Studor near Lake Bohinj.",
+                  "category": "landmark",
+                  "coords": [
+                        13.9075,
+                        46.295545
+                  ]
+            },
+            {
+                  "name": "Hansenova skakalnica",
+                  "text": "The ruins of a former ski jumping hill near Polje, designed by engineer Thorleif Hansen.",
+                  "category": "historical",
+                  "coords": [
+                        13.912147,
+                        46.262025
+                  ]
+            },
+            {
+                  "name": "Vogar",
+                  "text": "A popular viewpoint on a mountain pasture offering stunning views of Lake Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.864638,
+                        46.295504
+                  ]
+            },
+            {
+                  "name": "Spodnji Vogar",
+                  "text": "A lower viewpoint on the Vogar pasture providing vistas of the Bohinj valley.",
+                  "category": "natural",
+                  "coords": [
+                        13.875456,
+                        46.294697
+                  ]
+            },
+            {
+                  "name": "Mostnica Gorge",
+                  "text": "A scenic gorge carved by the Mostnica stream, known for its unique rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        13.888905,
+                        46.292766
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "lake",
     name: { de: "Wocheiner See", hu: "Bohinji-tó", ro: "Lacul Bohinj", en: "Lake Bohinj"},
@@ -141,7 +699,304 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
     },
     image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp",
 },  {
-    id: "slovenia-soca-river-nature-v2",
+    id: "slovenia-soca-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Žičnica Golobar",
+                  "text": "Überreste einer historischen Militärseilbahn aus dem Ersten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        13.590485,
+                        46.333763
+                  ]
+            },
+            {
+                  "name": "Flitscher Klause",
+                  "text": "Mächtige Bergfestung, die den Eingang zum Soča-Tal bewacht.",
+                  "category": "fortress",
+                  "coords": [
+                        13.589804,
+                        46.361194
+                  ]
+            },
+            {
+                  "name": "Hermanova utrdba",
+                  "text": "Ruine einer Befestigungsanlage, die von den Österreich-Ungarn über der Festung Kluže errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        13.587975,
+                        46.359805
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 2",
+                  "text": "Eine historische Festungsanlage im Bereich des Flusses Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.622609,
+                        46.336572
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 5",
+                  "text": "Teil der Verteidigungsanlagen in der Nähe des Flusses Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.615306,
+                        46.340162
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 4",
+                  "text": "Eine Befestigungsanlage am Ufer der Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.614768,
+                        46.337918
+                  ]
+            },
+            {
+                  "name": "Za Otoki Topniška utrdba 8",
+                  "text": "Eine Artilleriefestung im Tal der Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.595545,
+                        46.33799
+                  ]
+            },
+            {
+                  "name": "Muzej Stergulčeva hiša",
+                  "text": "Ein lokales Museum im Stergulč-Haus in der Nähe der Soča.",
+                  "category": "museum",
+                  "coords": [
+                        13.552712,
+                        46.338235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Žičnica Golobar",
+                  "text": "Egy első világháborús történelmi katonai kötélpálya maradványai.",
+                  "category": "museum",
+                  "coords": [
+                        13.590485,
+                        46.333763
+                  ]
+            },
+            {
+                  "name": "Trdnjava Kluže",
+                  "text": "Erőteljes hegyi erőd, amely a Soča-völgy bejáratát őrzi.",
+                  "category": "fortress",
+                  "coords": [
+                        13.589804,
+                        46.361194
+                  ]
+            },
+            {
+                  "name": "Hermanova utrdba",
+                  "text": "Az osztrák-magyarok által a Kluže-erőd fölé épített erődítmény romja.",
+                  "category": "fortress",
+                  "coords": [
+                        13.587975,
+                        46.359805
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 2",
+                  "text": "Történelmi erődítmény a Soča-folyó mentén.",
+                  "category": "fortress",
+                  "coords": [
+                        13.622609,
+                        46.336572
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 5",
+                  "text": "A Soča-folyó közeli védművek egyike.",
+                  "category": "fortress",
+                  "coords": [
+                        13.615306,
+                        46.340162
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 4",
+                  "text": "Erődítmény a Soča partján.",
+                  "category": "fortress",
+                  "coords": [
+                        13.614768,
+                        46.337918
+                  ]
+            },
+            {
+                  "name": "Za Otoki Topniška utrdba 8",
+                  "text": "Tüzérségi erőd a Soča völgyében.",
+                  "category": "fortress",
+                  "coords": [
+                        13.595545,
+                        46.33799
+                  ]
+            },
+            {
+                  "name": "Muzej Stergulčeva hiša",
+                  "text": "Helytörténeti múzeum a Stergulč-házban a Soča közelében.",
+                  "category": "museum",
+                  "coords": [
+                        13.552712,
+                        46.338235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Žičnica Golobar",
+                  "text": "Rămășițele unei telecabine militare istorice din Primul Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        13.590485,
+                        46.333763
+                  ]
+            },
+            {
+                  "name": "Trdnjava Kluže",
+                  "text": "Puternică cetate montană care păzește intrarea în Valea Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.589804,
+                        46.361194
+                  ]
+            },
+            {
+                  "name": "Hermanova utrdba",
+                  "text": "Fortificație în ruină construită de austro-ungari deasupra cetății Kluže.",
+                  "category": "fortress",
+                  "coords": [
+                        13.587975,
+                        46.359805
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 2",
+                  "text": "O fortificație istorică situată în zona râului Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.622609,
+                        46.336572
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 5",
+                  "text": "Parte a structurilor defensive din apropierea râului Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.615306,
+                        46.340162
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 4",
+                  "text": "O fortificație pe malul râului Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.614768,
+                        46.337918
+                  ]
+            },
+            {
+                  "name": "Za Otoki Topniška utrdba 8",
+                  "text": "O fortificație de artilerie în valea râului Soča.",
+                  "category": "fortress",
+                  "coords": [
+                        13.595545,
+                        46.33799
+                  ]
+            },
+            {
+                  "name": "Muzej Stergulčeva hiša",
+                  "text": "Un muzeu local situat în casa Stergulč, lângă râul Soča.",
+                  "category": "museum",
+                  "coords": [
+                        13.552712,
+                        46.338235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Žičnica Golobar",
+                  "text": "Remains of a historical military cableway from the First World War.",
+                  "category": "museum",
+                  "coords": [
+                        13.590485,
+                        46.333763
+                  ]
+            },
+            {
+                  "name": "Trdnjava Kluže",
+                  "text": "Powerful mountain fortress guarding the entrance to the Soča Valley.",
+                  "category": "fortress",
+                  "coords": [
+                        13.589804,
+                        46.361194
+                  ]
+            },
+            {
+                  "name": "Fort Hermann",
+                  "text": "Ruined fortification built by the Austro-Hungarians above Fort Kluže.",
+                  "category": "fortress",
+                  "coords": [
+                        13.587975,
+                        46.359805
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 2",
+                  "text": "A historical fortification located in the Soča River area.",
+                  "category": "fortress",
+                  "coords": [
+                        13.622609,
+                        46.336572
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 5",
+                  "text": "Part of the defensive structures near the Soča River.",
+                  "category": "fortress",
+                  "coords": [
+                        13.615306,
+                        46.340162
+                  ]
+            },
+            {
+                  "name": "Za Otoki Srednja utrdba 4",
+                  "text": "A fortification on the banks of the Soča River.",
+                  "category": "fortress",
+                  "coords": [
+                        13.614768,
+                        46.337918
+                  ]
+            },
+            {
+                  "name": "Za Otoki Topniška utrdba 8",
+                  "text": "An artillery fortification in the Soča River valley.",
+                  "category": "fortress",
+                  "coords": [
+                        13.595545,
+                        46.33799
+                  ]
+            },
+            {
+                  "name": "Muzej Stergulčeva hiša",
+                  "text": "A local museum housed in the Stergulč house near the Soča River.",
+                  "category": "museum",
+                  "coords": [
+                        13.552712,
+                        46.338235
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Soča", hu: "Soča", ro: "Râul Soča", en: "Soča River"},
@@ -233,7 +1088,268 @@ imageHint: "Postojna cave stalactites and stalagmites",
     },
     image: "/poi-images/slovenia-postojna-cave-nature-v2.webp",
 },  {
-    id: "slovenia-skocjan-caves-nature-v2",
+    id: "slovenia-skocjan-caves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Regionalpark Škocjan-Höhlen",
+                  "text": "Ein geschützter Park mit einem riesigen unterirdischen Höhlensystem, das zum UNESCO-Welterbe gehört.",
+                  "category": "natural",
+                  "coords": [
+                        13.988977,
+                        45.665685
+                  ]
+            },
+            {
+                  "name": "Muzej Slovenskih Filmskih Igralcev",
+                  "text": "Ein Museum, das den slowenischen Filmschauspielern gewidmet ist und die Geschichte des nationalen Kinos zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.970733,
+                        45.684049
+                  ]
+            },
+            {
+                  "name": "J'kopinov skedenj",
+                  "text": "Ein ethnographisches Museum in einer traditionellen Scheune, das Exponate zum ländlichen Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.993312,
+                        45.664504
+                  ]
+            },
+            {
+                  "name": "Rudnik črnega premoga Vremski Britof",
+                  "text": "Ein Museum am Standort eines ehemaligen Bergwerks, das die Geschichte des Kohleabbaus in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.028773,
+                        45.658834
+                  ]
+            },
+            {
+                  "name": "Interpretacijski center Škocjan",
+                  "text": "Ein Interpretationszentrum, das Informationen über die Geologie und Naturgeschichte der Škocjan-Höhlen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        13.993634,
+                        45.663396
+                  ]
+            },
+            {
+                  "name": "Škocjan-Höhlen (künstlicher Eingang)",
+                  "text": "Ein künstlich angelegter Eingang, der den Zugang zum berühmten Höhlensystem ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        13.98448,
+                        45.662066
+                  ]
+            },
+            {
+                  "name": "Divaška jama",
+                  "text": "Ein Höhleneingang in der Karstlandschaft in der Nähe von Divača.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950654,
+                        45.675229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Regijski park Škocjanske jame",
+                  "text": "Hatalmas földalatti barlangrendszert magában foglaló védett park, amely az UNESCO Világörökség része.",
+                  "category": "natural",
+                  "coords": [
+                        13.988977,
+                        45.665685
+                  ]
+            },
+            {
+                  "name": "Muzej Slovenskih Filmskih Igralcev",
+                  "text": "A szlovén filmszínészeknek szentelt múzeum, amely a nemzeti filmművészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.970733,
+                        45.684049
+                  ]
+            },
+            {
+                  "name": "J'kopinov skedenj",
+                  "text": "Hagyományos csűrben elhelyezett néprajzi múzeum, amely a vidéki élet kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.993312,
+                        45.664504
+                  ]
+            },
+            {
+                  "name": "Rudnik črnega premoga Vremski Britof",
+                  "text": "Egykori bánya helyén található múzeum, amely a régió kőszénbányászatának történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        14.028773,
+                        45.658834
+                  ]
+            },
+            {
+                  "name": "Interpretacijski center Škocjan",
+                  "text": "Információs központ, amely a Škocjan-barlangok geológiájáról és természetrajzáról nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        13.993634,
+                        45.663396
+                  ]
+            },
+            {
+                  "name": "Škocjanske jame (umetni vhod)",
+                  "text": "Egy mesterséges bejárat, amely hozzáférést biztosít a híres barlangrendszerhez.",
+                  "category": "landmark",
+                  "coords": [
+                        13.98448,
+                        45.662066
+                  ]
+            },
+            {
+                  "name": "Divaška jama",
+                  "text": "Egy barlangbejárat a karsztvidéken, Divača közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950654,
+                        45.675229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regijski park Škocjanske jame",
+                  "text": "Un parc protejat care cuprinde un vast sistem de peșteri subterane, parte a Patrimoniului Mondial UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        13.988977,
+                        45.665685
+                  ]
+            },
+            {
+                  "name": "Muzej Slovenskih Filmskih Igralcev",
+                  "text": "Un muzeu dedicat actorilor de film sloveni, care prezintă istoria cinematografiei naționale.",
+                  "category": "museum",
+                  "coords": [
+                        13.970733,
+                        45.684049
+                  ]
+            },
+            {
+                  "name": "J'kopinov skedenj",
+                  "text": "Un muzeu etnografic găzduit într-o șură tradițională, care expune obiecte legate de viața rurală.",
+                  "category": "museum",
+                  "coords": [
+                        13.993312,
+                        45.664504
+                  ]
+            },
+            {
+                  "name": "Rudnik črnega premoga Vremski Britof",
+                  "text": "Un muzeu situat pe locul unei foste mine, care documentează istoria extracției cărbunelui în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.028773,
+                        45.658834
+                  ]
+            },
+            {
+                  "name": "Interpretacijski center Škocjan",
+                  "text": "Un centru de interpretare care oferă informații despre geologia și istoria naturală a peșterilor Škocjan.",
+                  "category": "museum",
+                  "coords": [
+                        13.993634,
+                        45.663396
+                  ]
+            },
+            {
+                  "name": "Škocjanske jame (umetni vhod)",
+                  "text": "O intrare artificială care oferă acces la faimosul sistem de peșteri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.98448,
+                        45.662066
+                  ]
+            },
+            {
+                  "name": "Divaška jama",
+                  "text": "O intrare în peșteră situată în peisajul carstic din apropierea localității Divača.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950654,
+                        45.675229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Škocjan Caves Regional Park",
+                  "text": "A protected park encompassing a vast underground cave system, part of the UNESCO World Heritage.",
+                  "category": "natural",
+                  "coords": [
+                        13.988977,
+                        45.665685
+                  ]
+            },
+            {
+                  "name": "Muzej Slovenskih Filmskih Igralcev",
+                  "text": "A museum dedicated to Slovene film actors, showcasing the history of national cinema.",
+                  "category": "museum",
+                  "coords": [
+                        13.970733,
+                        45.684049
+                  ]
+            },
+            {
+                  "name": "J'kopinov skedenj",
+                  "text": "An ethnographic museum housed in a traditional barn, displaying rural life exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        13.993312,
+                        45.664504
+                  ]
+            },
+            {
+                  "name": "Rudnik črnega premoga Vremski Britof",
+                  "text": "A museum located at the site of a former mine, documenting the history of coal mining in the region.",
+                  "category": "museum",
+                  "coords": [
+                        14.028773,
+                        45.658834
+                  ]
+            },
+            {
+                  "name": "Interpretacijski center Škocjan",
+                  "text": "An interpretation center providing information about the geology and natural history of the Škocjan Caves.",
+                  "category": "museum",
+                  "coords": [
+                        13.993634,
+                        45.663396
+                  ]
+            },
+            {
+                  "name": "Škocjan Caves (artificial entrance)",
+                  "text": "An artificial entrance providing access to the famous cave system.",
+                  "category": "landmark",
+                  "coords": [
+                        13.98448,
+                        45.662066
+                  ]
+            },
+            {
+                  "name": "Divaška jama",
+                  "text": "A cave entrance located in the karst landscape near Divača.",
+                  "category": "landmark",
+                  "coords": [
+                        13.950654,
+                        45.675229
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Höhlen von Škocjan", hu: "Škocjan-barlangrendszer", ro: "Peșterile Škocjan", en: "Škocjan Caves"},
@@ -325,7 +1441,268 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
     },
     image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp",
 },  {
-    id: "slovenia-savica-waterfall-nature-v2",
+    id: "slovenia-savica-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Savica-Ukanc",
+                  "text": "Ein Waldschutzgebiet im Triglav-Nationalpark in der Nähe des Savica-Wasserfalls.",
+                  "category": "natural",
+                  "coords": [
+                        13.786002,
+                        46.290778
+                  ]
+            },
+            {
+                  "name": "Velika Tičarica",
+                  "text": "Ein Berggipfel in den Julischen Alpen Sloweniens mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78564,
+                        46.322544
+                  ]
+            },
+            {
+                  "name": "Mala Tičarica",
+                  "text": "Ein Aussichtspunkt in den slowenischen Bergen mit Blick auf das Bohinj-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        13.785052,
+                        46.320522
+                  ]
+            },
+            {
+                  "name": "Slap Savica",
+                  "text": "Ein spektakulärer Wasserfall, der in eine Karstquelle im Triglav-Nationalpark stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.796306,
+                        46.293156
+                  ]
+            },
+            {
+                  "name": "Planina pri Jezeru",
+                  "text": "Ein Aussichtspunkt auf einer Bergweide oberhalb des Wocheiner Sees (Bohinj).",
+                  "category": "natural",
+                  "coords": [
+                        13.826892,
+                        46.311532
+                  ]
+            },
+            {
+                  "name": "Bohinjsko jezero",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den malerischen Wocheiner See.",
+                  "category": "natural",
+                  "coords": [
+                        13.831301,
+                        46.28345
+                  ]
+            },
+            {
+                  "name": "Bathing Spot",
+                  "text": "Ein Aussichtspunkt in der Nähe beliebter Badestellen am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        13.833448,
+                        46.282994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Savica-Ukanc",
+                  "text": "Erdei rezervátum a Triglav Nemzeti Parkban, a Savica-vízesés közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.786002,
+                        46.290778
+                  ]
+            },
+            {
+                  "name": "Velika Tičarica",
+                  "text": "Hegycsúcs a szlovéniai Júliai-Alpokban, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78564,
+                        46.322544
+                  ]
+            },
+            {
+                  "name": "Mala Tičarica",
+                  "text": "Kilátópont a szlovén hegyekben, kilátással a Bohinji-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        13.785052,
+                        46.320522
+                  ]
+            },
+            {
+                  "name": "Savica vízesés",
+                  "text": "Látványos vízesés, amely egy karsztforrásba zúdul a Triglav Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.796306,
+                        46.293156
+                  ]
+            },
+            {
+                  "name": "Planina pri Jezeru",
+                  "text": "Kilátópont egy hegyi legelőn a Bohinji-tó felett.",
+                  "category": "natural",
+                  "coords": [
+                        13.826892,
+                        46.311532
+                  ]
+            },
+            {
+                  "name": "Bohinjsko jezero",
+                  "text": "Kilátópont széles kilátással a festői Bohinji-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        13.831301,
+                        46.28345
+                  ]
+            },
+            {
+                  "name": "Bathing Spot",
+                  "text": "Kilátópont a tóparti népszerű fürdőhelyek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.833448,
+                        46.282994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Savica-Ukanc",
+                  "text": "O rezervație forestieră în Parcul Național Triglav, lângă cascada Savica.",
+                  "category": "natural",
+                  "coords": [
+                        13.786002,
+                        46.290778
+                  ]
+            },
+            {
+                  "name": "Velika Tičarica",
+                  "text": "Un vârf montan în Alpii Iulieni din Slovenia, cu vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78564,
+                        46.322544
+                  ]
+            },
+            {
+                  "name": "Mala Tičarica",
+                  "text": "Un punct de belvedere în munții sloveni, cu vedere spre Valea Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.785052,
+                        46.320522
+                  ]
+            },
+            {
+                  "name": "Slap Savica",
+                  "text": "O cascadă spectaculoasă care se varsă într-un izvor carstic în Parcul Național Triglav.",
+                  "category": "landmark",
+                  "coords": [
+                        13.796306,
+                        46.293156
+                  ]
+            },
+            {
+                  "name": "Planina pri Jezeru",
+                  "text": "Un punct de belvedere pe o pășune montană deasupra lacului Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.826892,
+                        46.311532
+                  ]
+            },
+            {
+                  "name": "Bohinjsko jezero",
+                  "text": "Un punct de belvedere cu o vedere largă asupra pitorescului lac Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.831301,
+                        46.28345
+                  ]
+            },
+            {
+                  "name": "Bathing Spot",
+                  "text": "Un punct de belvedere situat lângă locuri populare de scăldat de pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        13.833448,
+                        46.282994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Savica-Ukanc",
+                  "text": "A forest reserve in the Triglav National Park near the Savica Waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        13.786002,
+                        46.290778
+                  ]
+            },
+            {
+                  "name": "Velika Tičarica",
+                  "text": "A mountain peak in the Julian Alps of Slovenia with panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.78564,
+                        46.322544
+                  ]
+            },
+            {
+                  "name": "Mala Tičarica",
+                  "text": "A viewpoint in the Slovenian mountains offering views of the Bohinj Valley.",
+                  "category": "natural",
+                  "coords": [
+                        13.785052,
+                        46.320522
+                  ]
+            },
+            {
+                  "name": "Savica Waterfall",
+                  "text": "A spectacular waterfall plunging into a karst spring in Triglav National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        13.796306,
+                        46.293156
+                  ]
+            },
+            {
+                  "name": "Planina pri Jezeru",
+                  "text": "A viewpoint located on a mountain pasture above Lake Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.826892,
+                        46.311532
+                  ]
+            },
+            {
+                  "name": "Bohinjsko jezero",
+                  "text": "A viewpoint offering broad views over the picturesque Lake Bohinj.",
+                  "category": "natural",
+                  "coords": [
+                        13.831301,
+                        46.28345
+                  ]
+            },
+            {
+                  "name": "Bathing Spot",
+                  "text": "A viewpoint situated near popular bathing spots on the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        13.833448,
+                        46.282994
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Savica-Wasserfall", hu: "Savica-vízesés", ro: "Cascada Savica", en: "Savica Waterfall"},
@@ -371,7 +1748,304 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
     },
     image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp",
 },  {
-    id: "slovenia-vrsic-pass-nature-v2",
+    id: "slovenia-vrsic-pass-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Ein Waldreservat in der Nähe des Vršič-Passes, das für seine unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "Ein geschütztes Waldgebiet in den slowenischen Alpen beim Vršič-Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Ein markanter Gipfel in den Julischen Alpen, bekannt für das natürliche 'Felsenfenster'.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Ein Berggipfel in den Julischen Alpen, der den gleichnamigen berühmten Gebirgspass überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Ein beliebter Aussichtspunkt in den Julischen Alpen mit Panoramablick auf die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Ein Berggipfel oberhalb von Planica, der eine weite Sicht über die Julischen Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "Ein Gipfel in den Julischen Alpen, der Teil eines imposanten Bergmassivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            },
+            {
+                  "name": "Korita Mlinarice",
+                  "text": "Eine malerische Schlucht am Vršič-Pass, die für ihre wilden Wasserkaskaden bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.745355,
+                        46.402714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Erdőrezervátum a Vršič-hágó közelében, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "Védett erdőterület a szlovén Alpokban, a Vršič-hágó mellett.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "A Júliai-Alpok egyik jellegzetes csúcsa, amely a természetes sziklaablakáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Hegycsúcs a Júliai-Alpokban, amely a híres azonos nevű hágó fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Népszerű kilátóhely a Júliai-Alpokban, panorámás kilátással a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Hegycsúcs Planica felett, amely tágas kilátást nyújt a Júliai-Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "A Júliai-Alpok egyik csúcsa, amely egy impozáns hegymasszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            },
+            {
+                  "name": "Korita Mlinarice",
+                  "text": "Festői szurdok a Vršič-hágónál, amely vad vízeséseiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.745355,
+                        46.402714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "O rezervație forestieră lângă pasul Vršič, cunoscută pentru natura sa virgină.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "O zonă forestieră protejată în Alpii sloveni, lângă pasul Vršič.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Un vârf proeminent în Alpii Iulieni, cunoscut pentru fereastra sa naturală în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Un vârf montan în Alpii Iulieni, care domină faimoasa trecătoare cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Un punct de observație popular în Alpii Iulieni, cu vederi panoramice asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Un vârf montan deasupra localității Planica, oferind o vedere vastă asupra Alpilor Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "Un vârf din Alpii Iulieni, care face parte dintr-un masiv montan impunător.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            },
+            {
+                  "name": "Korita Mlinarice",
+                  "text": "Un defileu pitoresc lângă pasul Vršič, cunoscut pentru cascadele sale sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        13.745355,
+                        46.402714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "A forest reserve near the Vršič Pass, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kukla",
+                  "text": "A protected forest area in the Slovenian Alps near the Vršič Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.760169,
+                        46.403617
+                  ]
+            },
+            {
+                  "name": "Prisojnik",
+                  "text": "A prominent peak in the Julian Alps, known for its natural rock window.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "A mountain peak in the Julian Alps overlooking the famous mountain pass of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "A popular viewpoint in the Julian Alps with panoramic views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "A mountain peak above Planica, offering a broad view over the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Travnik",
+                  "text": "A peak in the Julian Alps that is part of an imposing mountain massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.712974,
+                        46.428968
+                  ]
+            },
+            {
+                  "name": "Korita Mlinarice",
+                  "text": "A scenic gorge by the Vršič Pass, known for its wild water cascades.",
+                  "category": "natural",
+                  "coords": [
+                        13.745355,
+                        46.402714
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "mountain",
     name: { de: "Vršič-Pass", hu: "Vršič-hágó", ro: "Pasul Vršič", en: "Vršič Pass"},
@@ -417,7 +2091,304 @@ imageHint: "Vrsic pass mountain road Julian Alps",
     },
     image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp",
 },  {
-    id: "slovenia-logar-valley-nature-v2",
+    id: "slovenia-logar-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Klemenškova planina",
+                  "text": "Ein Naturschutzgebiet im malerischen Logartal.",
+                  "category": "natural",
+                  "coords": [
+                        14.634304,
+                        46.382293
+                  ]
+            },
+            {
+                  "name": "Lučki Dedec",
+                  "text": "Ein markanter Berggipfel in den Steiner Alpen über dem Logartal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637776,
+                        46.352396
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Veža)",
+                  "text": "Ein Gipfel im Gebirgsmassiv des Logartals.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669223,
+                        46.357584
+                  ]
+            },
+            {
+                  "name": "Ojstrica",
+                  "text": "Ein bekannter, pyramidenförmiger Gipfel in den Steiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637239,
+                        46.363921
+                  ]
+            },
+            {
+                  "name": "Planjava - Vzhodni vrh",
+                  "text": "Der östliche Gipfel der Planjava, eines bedeutenden Berges im Logartal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.61372,
+                        46.356533
+                  ]
+            },
+            {
+                  "name": "Krofička",
+                  "text": "Ein steiler Gipfel in den Steiner Alpen, der das Logartal überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.645027,
+                        46.374571
+                  ]
+            },
+            {
+                  "name": "Matkova kopa",
+                  "text": "Ein Berg im Gebiet des Logartals.",
+                  "category": "landmark",
+                  "coords": [
+                        14.586183,
+                        46.39225
+                  ]
+            },
+            {
+                  "name": "Lučka Baba",
+                  "text": "Ein Gipfel in den Steiner Alpen nahe dem Logartal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622099,
+                        46.358665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Klemenškova planina",
+                  "text": "Természetvédelmi terület a festői Logar-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        14.634304,
+                        46.382293
+                  ]
+            },
+            {
+                  "name": "Lučki Dedec",
+                  "text": "Egy hegycsúcs a Logar-völgy felett a Kamniki-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637776,
+                        46.352396
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Veža)",
+                  "text": "Egy hegycsúcs a Logar-völgy vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669223,
+                        46.357584
+                  ]
+            },
+            {
+                  "name": "Ojstrica",
+                  "text": "Egy közismert, piramis alakú hegycsúcs a Kamniki-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637239,
+                        46.363921
+                  ]
+            },
+            {
+                  "name": "Planjava - Vzhodni vrh",
+                  "text": "A Planjava keleti csúcsa, amely a Logar-völgy egyik meghatározó hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        14.61372,
+                        46.356533
+                  ]
+            },
+            {
+                  "name": "Krofička",
+                  "text": "Egy meredek hegycsúcs a Kamniki-Alpokban a Logar-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.645027,
+                        46.374571
+                  ]
+            },
+            {
+                  "name": "Matkova kopa",
+                  "text": "Egy hegycsúcs a Logar-völgy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.586183,
+                        46.39225
+                  ]
+            },
+            {
+                  "name": "Lučka Baba",
+                  "text": "Egy hegycsúcs a Kamniki-Alpokban, a Logar-völgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622099,
+                        46.358665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Klemenškova planina",
+                  "text": "O rezervație naturală situată în pitoreasca vale Logar.",
+                  "category": "natural",
+                  "coords": [
+                        14.634304,
+                        46.382293
+                  ]
+            },
+            {
+                  "name": "Lučki Dedec",
+                  "text": "Un vârf montan situat deasupra văii Logar în Alpii Kamnik-Savinja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637776,
+                        46.352396
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Veža)",
+                  "text": "Un vârf montan din regiunea văii Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669223,
+                        46.357584
+                  ]
+            },
+            {
+                  "name": "Ojstrica",
+                  "text": "Un vârf piramidal cunoscut din Alpii Kamnik-Savinja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637239,
+                        46.363921
+                  ]
+            },
+            {
+                  "name": "Planjava - Vzhodni vrh",
+                  "text": "Vârful estic al muntelui Planjava, o culme importantă din valea Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.61372,
+                        46.356533
+                  ]
+            },
+            {
+                  "name": "Krofička",
+                  "text": "Un vârf abrupt din Alpii Kamnik-Savinja care domină valea Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.645027,
+                        46.374571
+                  ]
+            },
+            {
+                  "name": "Matkova kopa",
+                  "text": "Un vârf montan din zona văii Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.586183,
+                        46.39225
+                  ]
+            },
+            {
+                  "name": "Lučka Baba",
+                  "text": "Un vârf montan din Alpii Kamnik-Savinja, în apropiere de valea Logar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622099,
+                        46.358665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Klemenškova planina",
+                  "text": "A nature reserve located in the scenic Logar Valley.",
+                  "category": "natural",
+                  "coords": [
+                        14.634304,
+                        46.382293
+                  ]
+            },
+            {
+                  "name": "Lučki Dedec",
+                  "text": "A mountain peak in the Kamnik–Savinja Alps overlooking the Logar Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637776,
+                        46.352396
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Veža)",
+                  "text": "A mountain peak located in the Logar Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.669223,
+                        46.357584
+                  ]
+            },
+            {
+                  "name": "Ojstrica",
+                  "text": "A well-known pyramid-shaped mountain peak in the Kamnik–Savinja Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.637239,
+                        46.363921
+                  ]
+            },
+            {
+                  "name": "Planjava - Vzhodni vrh",
+                  "text": "The eastern peak of Planjava, a prominent mountain in the Logar Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.61372,
+                        46.356533
+                  ]
+            },
+            {
+                  "name": "Krofička",
+                  "text": "A steep mountain peak in the Kamnik–Savinja Alps overlooking the Logar Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.645027,
+                        46.374571
+                  ]
+            },
+            {
+                  "name": "Matkova kopa",
+                  "text": "A mountain peak in the Logar Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.586183,
+                        46.39225
+                  ]
+            },
+            {
+                  "name": "Lučka Baba",
+                  "text": "A mountain peak in the Kamnik–Savinja Alps near the Logar Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.622099,
+                        46.358665
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "valley",
     name: { de: "Logar-Tal", hu: "Logar-völgy", ro: "Valea Logar", en: "Logar Valley"},
@@ -509,7 +2480,196 @@ imageHint: "Planica valley ski flying hills mountains",
     },
     image: "/poi-images/slovenia-planica-valley-nature-v2.webp",
 },  {
-    id: "slovenia-krka-river-nature-v2",
+    id: "slovenia-krka-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Trebnje",
+                  "text": "Grad Trebnje ist eine historische Burganlage in Slowenien, die das Stadtbild von Trebnje prägt.",
+                  "category": "castle",
+                  "coords": [
+                        15.00614,
+                        45.904385
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Trebnje",
+                  "text": "Das Kulturni dom Trebnje ist das kulturelle Zentrum der Stadt und dient als Veranstaltungsort für Theater und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.005648,
+                        45.906826
+                  ]
+            },
+            {
+                  "name": "Zijalo",
+                  "text": "Zijalo ist ein malerischer Karstquellbereich am Fluss Temenica in der Nähe von Trebnje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06199,
+                        45.879703
+                  ]
+            },
+            {
+                  "name": "Galerija likovnih samorastnikov Trebnje",
+                  "text": "Diese Galerie in Trebnje ist international bekannt für ihre Sammlung naiver Kunst von Autodidakten.",
+                  "category": "museum",
+                  "coords": [
+                        15.006211,
+                        45.90798
+                  ]
+            },
+            {
+                  "name": "Tovorna lokomotiva 20-183",
+                  "text": "Die Tovorna lokomotiva 20-183 ist eine historische Dampflokomotive, die in Trebnje als Denkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.008064,
+                        45.906892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Trebnje",
+                  "text": "Grad Trebnje egy történelmi várkastély Szlovéniában, amely meghatározza Trebnje városképét.",
+                  "category": "castle",
+                  "coords": [
+                        15.00614,
+                        45.904385
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Trebnje",
+                  "text": "A Kulturni dom Trebnje a város kulturális központja, amely színházi és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.005648,
+                        45.906826
+                  ]
+            },
+            {
+                  "name": "Zijalo",
+                  "text": "Zijalo egy festői karsztforrás-vidék a Temenica folyónál, Trebnje közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06199,
+                        45.879703
+                  ]
+            },
+            {
+                  "name": "Galerija likovnih samorastnikov Trebnje",
+                  "text": "Ez a trebnjei galéria nemzetközileg ismert az autodidakta művészek naiv művészeti gyűjteményéről.",
+                  "category": "museum",
+                  "coords": [
+                        15.006211,
+                        45.90798
+                  ]
+            },
+            {
+                  "name": "Tovorna lokomotiva 20-183",
+                  "text": "A Tovorna lokomotiva 20-183 egy történelmi gőzmozdony, amelyet emlékműként állítottak ki Trebnjében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.008064,
+                        45.906892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Trebnje",
+                  "text": "Grad Trebnje este un castel istoric din Slovenia, care domină peisajul urban din Trebnje.",
+                  "category": "castle",
+                  "coords": [
+                        15.00614,
+                        45.904385
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Trebnje",
+                  "text": "Kulturni dom Trebnje este centrul cultural al orașului, servind ca loc de desfășurare pentru teatru și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.005648,
+                        45.906826
+                  ]
+            },
+            {
+                  "name": "Zijalo",
+                  "text": "Zijalo este o zonă pitorească cu izvoare carstice de pe râul Temenica, în apropiere de Trebnje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06199,
+                        45.879703
+                  ]
+            },
+            {
+                  "name": "Galerija likovnih samorastnikov Trebnje",
+                  "text": "Această galerie din Trebnje este cunoscută la nivel internațional pentru colecția sa de artă naivă.",
+                  "category": "museum",
+                  "coords": [
+                        15.006211,
+                        45.90798
+                  ]
+            },
+            {
+                  "name": "Tovorna lokomotiva 20-183",
+                  "text": "Tovorna lokomotiva 20-183 este o locomotivă cu abur istorică, expusă ca monument în Trebnje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.008064,
+                        45.906892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Trebnje",
+                  "text": "Grad Trebnje is a historic castle in Slovenia that characterizes the townscape of Trebnje.",
+                  "category": "castle",
+                  "coords": [
+                        15.00614,
+                        45.904385
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Trebnje",
+                  "text": "Kulturni dom Trebnje is the town's cultural center, serving as a venue for theatre and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        15.005648,
+                        45.906826
+                  ]
+            },
+            {
+                  "name": "Zijalo",
+                  "text": "Zijalo is a picturesque karst spring area on the Temenica River near Trebnje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.06199,
+                        45.879703
+                  ]
+            },
+            {
+                  "name": "Galerija likovnih samorastnikov Trebnje",
+                  "text": "This gallery in Trebnje is internationally known for its collection of naive art by self-taught artists.",
+                  "category": "museum",
+                  "coords": [
+                        15.006211,
+                        45.90798
+                  ]
+            },
+            {
+                  "name": "Tovorna lokomotiva 20-183",
+                  "text": "The Tovorna lokomotiva 20-183 is a historic steam locomotive displayed as a monument in Trebnje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.008064,
+                        45.906892
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Krka", hu: "Krka-folyó", ro: "Râul Krka", en: "Krka River"},
@@ -831,7 +2991,304 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
     },
     image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp",
 },  {
-    id: "slovenia-kamnik-alps-nature-v2",
+    id: "slovenia-kamnik-alps-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turska gora",
+                  "text": "Ein hoher Gipfel in den Steiner Alpen in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.577207,
+                        46.360296
+                  ]
+            },
+            {
+                  "name": "Brana",
+                  "text": "Ein markanter Berg in den Steiner Alpen, bekannt für seine weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        14.58755,
+                        46.354886
+                  ]
+            },
+            {
+                  "name": "Velika Baba",
+                  "text": "Ein Gipfel an der Grenze zwischen Slowenien und Österreich in den Steiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.555959,
+                        46.379373
+                  ]
+            },
+            {
+                  "name": "Dolgi hrbet",
+                  "text": "Ein langer Gebirgskamm und Gipfel im Herzen der Steiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545802,
+                        46.363187
+                  ]
+            },
+            {
+                  "name": "Koroška Rinka",
+                  "text": "Einer der Rinka-Gipfel in den Steiner Alpen, auch bekannt als Križ.",
+                  "category": "landmark",
+                  "coords": [
+                        14.565127,
+                        46.367725
+                  ]
+            },
+            {
+                  "name": "Kranjska Rinka",
+                  "text": "Der höchste der vier Rinka-Gipfel in den Steiner Alpen in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.563669,
+                        46.365612
+                  ]
+            },
+            {
+                  "name": "Mala Rinka",
+                  "text": "Ein beliebter Gipfel für Bergsteiger in der Rinka-Gruppe der Steiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56926,
+                        46.365822
+                  ]
+            },
+            {
+                  "name": "Štajerska Rinka",
+                  "text": "Ein Gipfel in der Gebirgskette der Steiner Alpen in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56734,
+                        46.368163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turska gora",
+                  "text": "Magas hegycsúcs a Steiner-Alpokban (Kamniki-Alpok), Szlovéniában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.577207,
+                        46.360296
+                  ]
+            },
+            {
+                  "name": "Brana",
+                  "text": "Jellegzetes hegy a Kamniki-Alpokban, amely széles panorámájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.58755,
+                        46.354886
+                  ]
+            },
+            {
+                  "name": "Velika Baba",
+                  "text": "Egy hegycsúcs a szlovén-osztrák határon, a Kamniki-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.555959,
+                        46.379373
+                  ]
+            },
+            {
+                  "name": "Dolgi hrbet",
+                  "text": "Hosszú hegygerinc és csúcs a Kamniki-Alpok szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545802,
+                        46.363187
+                  ]
+            },
+            {
+                  "name": "Koroška Rinka",
+                  "text": "A Rinka-csúcsok egyike a Kamniki-Alpokban, más néven Križ.",
+                  "category": "landmark",
+                  "coords": [
+                        14.565127,
+                        46.367725
+                  ]
+            },
+            {
+                  "name": "Kranjska Rinka",
+                  "text": "A legmagasabb a négy Rinka-csúcs közül a szlovéniai Kamniki-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.563669,
+                        46.365612
+                  ]
+            },
+            {
+                  "name": "Mala Rinka",
+                  "text": "Népszerű hegycsúcs a hegymászók körében a Kamniki-Alpok Rinka-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56926,
+                        46.365822
+                  ]
+            },
+            {
+                  "name": "Štajerska Rinka",
+                  "text": "Egy hegycsúcs a szlovéniai Kamniki-Alpok hegyvonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56734,
+                        46.368163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turska gora",
+                  "text": "Un vârf înalt situat în Alpii Kamnik-Savinja din Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.577207,
+                        46.360296
+                  ]
+            },
+            {
+                  "name": "Brana",
+                  "text": "Un munte proeminent în Alpii Kamnik, cunoscut pentru priveliștile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.58755,
+                        46.354886
+                  ]
+            },
+            {
+                  "name": "Velika Baba",
+                  "text": "Un vârf aflat la granița dintre Slovenia și Austria, în Alpii Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.555959,
+                        46.379373
+                  ]
+            },
+            {
+                  "name": "Dolgi hrbet",
+                  "text": "O creastă montană lungă și un vârf în inima Alpilor Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545802,
+                        46.363187
+                  ]
+            },
+            {
+                  "name": "Koroška Rinka",
+                  "text": "Unul dintre vârfurile Rinka din Alpii Kamnik, cunoscut și sub numele de Križ.",
+                  "category": "landmark",
+                  "coords": [
+                        14.565127,
+                        46.367725
+                  ]
+            },
+            {
+                  "name": "Kranjska Rinka",
+                  "text": "Cel mai înalt dintre cele patru vârfuri Rinka din Alpii Kamnik, în Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.563669,
+                        46.365612
+                  ]
+            },
+            {
+                  "name": "Mala Rinka",
+                  "text": "Un vârf popular pentru alpiniști în grupul Rinka din Alpii Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56926,
+                        46.365822
+                  ]
+            },
+            {
+                  "name": "Štajerska Rinka",
+                  "text": "Un vârf din lanțul muntos al Alpilor Kamnik în Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56734,
+                        46.368163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turska gora",
+                  "text": "A high peak in the Kamnik-Savinja Alps in Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.577207,
+                        46.360296
+                  ]
+            },
+            {
+                  "name": "Brana",
+                  "text": "A prominent mountain in the Kamnik Alps, known for its wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        14.58755,
+                        46.354886
+                  ]
+            },
+            {
+                  "name": "Velika Baba",
+                  "text": "A peak on the border between Slovenia and Austria in the Kamnik Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.555959,
+                        46.379373
+                  ]
+            },
+            {
+                  "name": "Dolgi hrbet",
+                  "text": "A long mountain ridge and peak in the heart of the Kamnik Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.545802,
+                        46.363187
+                  ]
+            },
+            {
+                  "name": "Koroška Rinka",
+                  "text": "One of the Rinka peaks in the Kamnik Alps, also known as Križ.",
+                  "category": "landmark",
+                  "coords": [
+                        14.565127,
+                        46.367725
+                  ]
+            },
+            {
+                  "name": "Kranjska Rinka",
+                  "text": "The highest of the four Rinka peaks in the Kamnik Alps in Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.563669,
+                        46.365612
+                  ]
+            },
+            {
+                  "name": "Mala Rinka",
+                  "text": "A popular peak for mountaineers in the Rinka group of the Kamnik Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56926,
+                        46.365822
+                  ]
+            },
+            {
+                  "name": "Štajerska Rinka",
+                  "text": "A peak in the mountain range of the Kamnik Alps in Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56734,
+                        46.368163
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "mountain",
     name: { de: "Steiner Alpen", hu: "Kamniki-Alpok", ro: "Alpii Kamnik-Savinja", en: "Kamnik-Savinja Alps"},
@@ -923,7 +3380,268 @@ imageHint: "Karawanks mountain range Slovenia border",
     },
     image: "/poi-images/slovenia-karawanks-nature-v2.webp",
 },  {
-    id: "slovenia-sneznik-nature-v2",
+    id: "slovenia-sneznik-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Snežnik",
+                  "text": "Ein geschütztes Waldreservat in der Nähe des Berges Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.44994,
+                        45.589227
+                  ]
+            },
+            {
+                  "name": "Pod Tjuro",
+                  "text": "Ein Naturschutzgebiet mit alpiner Flora in der Snežnik-Region.",
+                  "category": "natural",
+                  "coords": [
+                        14.460654,
+                        45.599415
+                  ]
+            },
+            {
+                  "name": "Krainer Schneeberg",
+                  "text": "Der höchste Gipfel des Snežnik-Plateaus im Süden Sloweniens.",
+                  "category": "landmark",
+                  "coords": [
+                        14.447536,
+                        45.588518
+                  ]
+            },
+            {
+                  "name": "Mali Snežnik",
+                  "text": "Ein markanter Berggipfel im Snežnik-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435892,
+                        45.590062
+                  ]
+            },
+            {
+                  "name": "koča Rudolfa Baumbacha",
+                  "text": "Ruinen einer Hütte, benannt nach dem deutschen Dichter Rudolf Baumbach.",
+                  "category": "historical",
+                  "coords": [
+                        14.462368,
+                        45.585526
+                  ]
+            },
+            {
+                  "name": "Sv. Juda Tadej",
+                  "text": "Ein religiöses Denkmal, das dem Heiligen Judas Thaddäus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.437665,
+                        45.610825
+                  ]
+            },
+            {
+                  "name": "Pogled na Snežnik",
+                  "text": "Ein Aussichtspunkt mit Panorama auf den Berg Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.406083,
+                        45.574749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Snežnik",
+                  "text": "Védett erdőrezervátum a Snežnik-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.44994,
+                        45.589227
+                  ]
+            },
+            {
+                  "name": "Pod Tjuro",
+                  "text": "Természetvédelmi terület alpesi flórával a Snežnik régióban.",
+                  "category": "natural",
+                  "coords": [
+                        14.460654,
+                        45.599415
+                  ]
+            },
+            {
+                  "name": "Veliki Snežnik",
+                  "text": "A szlovéniai Snežnik-fennsík legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.447536,
+                        45.588518
+                  ]
+            },
+            {
+                  "name": "Mali Snežnik",
+                  "text": "Jellegzetes hegycsúcs a Snežnik-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435892,
+                        45.590062
+                  ]
+            },
+            {
+                  "name": "koča Rudolfa Baumbacha",
+                  "text": "Rudolf Baumbach német költőről elnevezett kunyhó romjai.",
+                  "category": "historical",
+                  "coords": [
+                        14.462368,
+                        45.585526
+                  ]
+            },
+            {
+                  "name": "Sv. Juda Tadej",
+                  "text": "Szent Júdás Tádénak szentelt vallási emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        14.437665,
+                        45.610825
+                  ]
+            },
+            {
+                  "name": "Pogled na Snežnik",
+                  "text": "Kilátópont panorámával a Snežnik-hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        14.406083,
+                        45.574749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Snežnik",
+                  "text": "O rezervație forestieră protejată lângă muntele Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.44994,
+                        45.589227
+                  ]
+            },
+            {
+                  "name": "Pod Tjuro",
+                  "text": "O rezervație naturală cu floră alpină în regiunea Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.460654,
+                        45.599415
+                  ]
+            },
+            {
+                  "name": "Veliki Snežnik",
+                  "text": "Cel mai înalt vârf al platoului Snežnik din sudul Sloveniei.",
+                  "category": "landmark",
+                  "coords": [
+                        14.447536,
+                        45.588518
+                  ]
+            },
+            {
+                  "name": "Mali Snežnik",
+                  "text": "Un vârf montan proeminent în masivul Snežnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435892,
+                        45.590062
+                  ]
+            },
+            {
+                  "name": "koča Rudolfa Baumbacha",
+                  "text": "Ruinele unei cabane numite după poetul german Rudolf Baumbach.",
+                  "category": "historical",
+                  "coords": [
+                        14.462368,
+                        45.585526
+                  ]
+            },
+            {
+                  "name": "Sv. Juda Tadej",
+                  "text": "Un monument religios dedicat Sfântului Iuda Tadeu.",
+                  "category": "historical",
+                  "coords": [
+                        14.437665,
+                        45.610825
+                  ]
+            },
+            {
+                  "name": "Pogled na Snežnik",
+                  "text": "Un punct de belvedere cu vedere panoramică spre muntele Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.406083,
+                        45.574749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Snežnik",
+                  "text": "A protected forest reserve near Mount Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.44994,
+                        45.589227
+                  ]
+            },
+            {
+                  "name": "Pod Tjuro",
+                  "text": "A nature reserve featuring alpine flora in the Snežnik region.",
+                  "category": "natural",
+                  "coords": [
+                        14.460654,
+                        45.599415
+                  ]
+            },
+            {
+                  "name": "Veliki Snežnik",
+                  "text": "The highest peak of the Snežnik plateau in southern Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.447536,
+                        45.588518
+                  ]
+            },
+            {
+                  "name": "Mali Snežnik",
+                  "text": "A prominent mountain peak in the Snežnik massif.",
+                  "category": "landmark",
+                  "coords": [
+                        14.435892,
+                        45.590062
+                  ]
+            },
+            {
+                  "name": "koča Rudolfa Baumbacha",
+                  "text": "Ruins of a hut named after the German poet Rudolf Baumbach.",
+                  "category": "historical",
+                  "coords": [
+                        14.462368,
+                        45.585526
+                  ]
+            },
+            {
+                  "name": "Sv. Juda Tadej",
+                  "text": "A religious monument dedicated to Saint Jude Thaddeus.",
+                  "category": "historical",
+                  "coords": [
+                        14.437665,
+                        45.610825
+                  ]
+            },
+            {
+                  "name": "Pogled na Snežnik",
+                  "text": "A viewpoint offering panoramas of Mount Snežnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.406083,
+                        45.574749
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "peak",
     name: { de: "Schneeberg", hu: "Snežnik", ro: "Muntele Snežnik", en: "Snežnik"},
@@ -969,7 +3687,52 @@ imageHint: "Sneznik mountain peak Slovenia forest",
     },
     image: "/poi-images/slovenia-sneznik-nature-v2.webp",
 },  {
-    id: "slovenia-kolpa-river-nature-v2",
+    id: "slovenia-kolpa-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Metlika",
+                  "text": "Ein historisches Schloss in Metlika, in dem sich das Belokranjski-Museum befindet.",
+                  "category": "castle",
+                  "coords": [
+                        15.317652,
+                        45.651535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Metlika",
+                  "text": "Metlika történelmi vára, amely a Belokranjski Múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        15.317652,
+                        45.651535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Metlika",
+                  "text": "Un castel istoric din Metlika care găzduiește Muzeul Belokranjski.",
+                  "category": "castle",
+                  "coords": [
+                        15.317652,
+                        45.651535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Metlika",
+                  "text": "A historic castle in Metlika that houses the Belokranjski Museum.",
+                  "category": "castle",
+                  "coords": [
+                        15.317652,
+                        45.651535
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Kulpa", hu: "Kolpa", ro: "Râul Kolpa", en: "Kolpa River"},
@@ -1015,7 +3778,304 @@ imageHint: "Kolpa river Slovenia Croatia border",
     },
     image: "/poi-images/slovenia-kolpa-river-nature-v2.webp",
 },  {
-    id: "slovenia-pericnik-waterfall-nature-v2",
+    id: "slovenia-pericnik-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slovenski planinski muzej",
+                  "text": "Ein Museum in Mojstrana, das der Geschichte des Bergsteigens in Slowenien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.936214,
+                        46.457941
+                  ]
+            },
+            {
+                  "name": "Pocarjeva domačija",
+                  "text": "Ein Museum in einem traditionellen Bauernhaus im Nationalpark Triglav.",
+                  "category": "museum",
+                  "coords": [
+                        13.937313,
+                        46.424521
+                  ]
+            },
+            {
+                  "name": "Peričnik",
+                  "text": "Ein beeindruckender Wasserfall im Vrata-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.893528,
+                        46.439235
+                  ]
+            },
+            {
+                  "name": "Macesnovec",
+                  "text": "Ein Berggipfel in den Julischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.906835,
+                        46.403625
+                  ]
+            },
+            {
+                  "name": "Kukova špica",
+                  "text": "Ein markanter Gipfel in der Martuljek-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.854809,
+                        46.447531
+                  ]
+            },
+            {
+                  "name": "Škrnatarica",
+                  "text": "Ein Berggipfel in den slowenischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.849499,
+                        46.443531
+                  ]
+            },
+            {
+                  "name": "Belopotoški Skočniki",
+                  "text": "Ein Aussichtspunkt in der Nähe des Peričnik-Wasserfalls.",
+                  "category": "natural",
+                  "coords": [
+                        13.861578,
+                        46.462886
+                  ]
+            },
+            {
+                  "name": "Risnati rob (Polevec)",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.945775,
+                        46.442375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slovenski planinski muzej",
+                  "text": "Mojstranában található múzeum, amelyet a szlovéniai hegymászás történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        13.936214,
+                        46.457941
+                  ]
+            },
+            {
+                  "name": "Pocarjeva domačija",
+                  "text": "Múzeum egy hagyományos parasztházban a Triglav Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        13.937313,
+                        46.424521
+                  ]
+            },
+            {
+                  "name": "Peričnik",
+                  "text": "Látványos vízesés a Vrata-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.893528,
+                        46.439235
+                  ]
+            },
+            {
+                  "name": "Macesnovec",
+                  "text": "Hegycsúcs a Júliai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.906835,
+                        46.403625
+                  ]
+            },
+            {
+                  "name": "Kukova špica",
+                  "text": "Jellegzetes hegycsúcs a Martuljek-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.854809,
+                        46.447531
+                  ]
+            },
+            {
+                  "name": "Škrnatarica",
+                  "text": "Hegycsúcs a szlovén Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.849499,
+                        46.443531
+                  ]
+            },
+            {
+                  "name": "Belopotoški Skočniki",
+                  "text": "Kilátópont a Peričnik-vízesés közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.861578,
+                        46.462886
+                  ]
+            },
+            {
+                  "name": "Risnati rob (Polevec)",
+                  "text": "Kilátópont kilátással a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        13.945775,
+                        46.442375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slovenski planinski muzej",
+                  "text": "Un muzeu în Mojstrana dedicat istoriei alpinismului din Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        13.936214,
+                        46.457941
+                  ]
+            },
+            {
+                  "name": "Pocarjeva domačija",
+                  "text": "Un muzeu situat într-o fermă tradițională din Parcul Național Triglav.",
+                  "category": "museum",
+                  "coords": [
+                        13.937313,
+                        46.424521
+                  ]
+            },
+            {
+                  "name": "Peričnik",
+                  "text": "O cascadă spectaculoasă situată în Valea Vrata.",
+                  "category": "landmark",
+                  "coords": [
+                        13.893528,
+                        46.439235
+                  ]
+            },
+            {
+                  "name": "Macesnovec",
+                  "text": "Un vârf muntos în Alpii Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.906835,
+                        46.403625
+                  ]
+            },
+            {
+                  "name": "Kukova špica",
+                  "text": "Un vârf proeminent în grupul Martuljek.",
+                  "category": "landmark",
+                  "coords": [
+                        13.854809,
+                        46.447531
+                  ]
+            },
+            {
+                  "name": "Škrnatarica",
+                  "text": "Un vârf muntos în Alpii sloveni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.849499,
+                        46.443531
+                  ]
+            },
+            {
+                  "name": "Belopotoški Skočniki",
+                  "text": "Un punct de belvedere în apropierea cascadei Peričnik.",
+                  "category": "natural",
+                  "coords": [
+                        13.861578,
+                        46.462886
+                  ]
+            },
+            {
+                  "name": "Risnati rob (Polevec)",
+                  "text": "Un punct de observație cu vedere spre peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        13.945775,
+                        46.442375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slovenski planinski muzej",
+                  "text": "A museum in Mojstrana dedicated to the history of mountaineering in Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        13.936214,
+                        46.457941
+                  ]
+            },
+            {
+                  "name": "Pocar Homestead",
+                  "text": "A museum located in a traditional farmhouse within the Triglav National Park.",
+                  "category": "museum",
+                  "coords": [
+                        13.937313,
+                        46.424521
+                  ]
+            },
+            {
+                  "name": "Peričnik",
+                  "text": "A spectacular waterfall located in the Vrata Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        13.893528,
+                        46.439235
+                  ]
+            },
+            {
+                  "name": "Macesnovec",
+                  "text": "A mountain peak in the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.906835,
+                        46.403625
+                  ]
+            },
+            {
+                  "name": "Kukova špica",
+                  "text": "A prominent peak in the Martuljek group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.854809,
+                        46.447531
+                  ]
+            },
+            {
+                  "name": "Škrnatarica",
+                  "text": "A mountain peak in the Slovenian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.849499,
+                        46.443531
+                  ]
+            },
+            {
+                  "name": "Belopotoški Skočniki",
+                  "text": "A viewpoint located near the Peričnik Waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        13.861578,
+                        46.462886
+                  ]
+            },
+            {
+                  "name": "Risnati rob (Polevec)",
+                  "text": "A viewpoint offering views of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.945775,
+                        46.442375
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Peričnik-Wasserfall", hu: "Peričnik-vízesés", ro: "Cascada Peričnik", en: "Peričnik Waterfall"},
@@ -1061,7 +4121,304 @@ imageHint: "Pericnik waterfall behind the water curtain",
     },
     image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp",
 },  {
-    id: "slovenia-lake-jasna-nature-v2",
+    id: "slovenia-lake-jasna-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naravni rezervat Zelenci",
+                  "text": "Ein Naturschutzgebiet in Slowenien, das für seinen smaragdgrünen See und die vielfältige Flora der Feuchtgebiete bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.743445,
+                        46.492362
+                  ]
+            },
+            {
+                  "name": "Liznjekova domačija",
+                  "text": "Ein gut erhaltenes traditionelles Bauernhausmuseum in Kranjska Gora, das die alpine Volkskultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.787701,
+                        46.485429
+                  ]
+            },
+            {
+                  "name": "Oglarske kope",
+                  "text": "Eine Freilichtmuseumsausstellung am Jasna-See, die die traditionellen Methoden der Holzkohleherstellung erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        13.832788,
+                        46.478877
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Ein geschütztes Waldreservat im Mala-Pišnica-Tal, das alte Bäume und Gebirgsökosysteme bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "Ein markanter Berggipfel in den Julischen Alpen, bekannt für seine charakteristische spitze Form.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Ein Berggipfel in den Julischen Alpen, der einen Panoramablick auf die umliegenden Täler und Gebirgsketten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "Ein Gipfel in den Julischen Alpen, der zur Martuljek-Gruppe gehört und bei erfahrenen Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            },
+            {
+                  "name": "Frdamane police – SZ vrh",
+                  "text": "Ein hoher Berggipfel in den Julischen Alpen, der anspruchsvolles Gelände und weite alpine Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.807439,
+                        46.453101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naravni rezervat Zelenci",
+                  "text": "Szlovén természetvédelmi terület, amely smaragdzöld taváról, valamint változatos mocsári növény- és állatvilágáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        13.743445,
+                        46.492362
+                  ]
+            },
+            {
+                  "name": "Liznjekova domačija",
+                  "text": "Jól megőrzött hagyományos parasztház-múzeum Kranjska Gorában, amely az alpesi népi kultúrát és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.787701,
+                        46.485429
+                  ]
+            },
+            {
+                  "name": "Oglarske kope",
+                  "text": "Szabadtéri múzeumi kiállítás a Jasna-tó közelében, amely a hagyományos faszénkészítés módszereit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.832788,
+                        46.478877
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Védett erdőrezervátum a Mala Pišnica-völgyben, amely ősi fákat és hegyi ökoszisztémákat őriz.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "A Júliai-Alpok egyik kiemelkedő hegycsúcsa, amely jellegzetes hegyes alakjáról és festői kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Hegycsúcs a Júliai-Alpokban, ahonnan panorámás kilátás nyílik a környező völgyekre és vonulatokra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "A Júliai-Alpok Martuljek-csoportjához tartozó hegycsúcs, amely népszerű a tapasztalt túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            },
+            {
+                  "name": "Frdamane police – SZ vrh",
+                  "text": "Magas hegycsúcs a Júliai-Alpokban, amely kihívást jelentő terepet és tágas alpesi panorámát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.807439,
+                        46.453101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naravni rezervat Zelenci",
+                  "text": "O rezervație naturală din Slovenia, faimoasă pentru lacul său verde smarald și flora și fauna zonelor umede.",
+                  "category": "natural",
+                  "coords": [
+                        13.743445,
+                        46.492362
+                  ]
+            },
+            {
+                  "name": "Liznjekova domačija",
+                  "text": "Un muzeu situat într-o fermă tradițională bine conservată din Kranjska Gora, care prezintă cultura populară alpină.",
+                  "category": "museum",
+                  "coords": [
+                        13.787701,
+                        46.485429
+                  ]
+            },
+            {
+                  "name": "Oglarske kope",
+                  "text": "O expoziție muzeală în aer liber lângă Lacul Jasna, care detaliază metodele tradiționale de producere a cărbunelui.",
+                  "category": "museum",
+                  "coords": [
+                        13.832788,
+                        46.478877
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "O rezervație forestieră protejată în valea Mala Pišnica, care conservă arbori antici și ecosisteme montane.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "Un vârf muntos proeminent din Alpii Iulieni, cunoscut pentru forma sa ascuțită distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Un vârf muntos din Alpii Iulieni care oferă vederi panoramice asupra văilor și lanțurilor muntoase din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "Un vârf din Alpii Iulieni care face parte din grupul Martuljek, popular printre drumeții experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            },
+            {
+                  "name": "Frdamane police – SZ vrh",
+                  "text": "Un vârf muntos înalt din Alpii Iulieni, care oferă un teren provocator și vederi alpine vaste.",
+                  "category": "landmark",
+                  "coords": [
+                        13.807439,
+                        46.453101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naravni rezervat Zelenci",
+                  "text": "A nature reserve in Slovenia famous for its emerald green lake and diverse wetland flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        13.743445,
+                        46.492362
+                  ]
+            },
+            {
+                  "name": "Liznjekova domačija",
+                  "text": "A well-preserved traditional farmhouse museum in Kranjska Gora showcasing Alpine folk culture and living.",
+                  "category": "museum",
+                  "coords": [
+                        13.787701,
+                        46.485429
+                  ]
+            },
+            {
+                  "name": "Charcoal Burning Area Exhibit",
+                  "text": "An outdoor museum exhibit near Lake Jasna detailing the traditional methods of charcoal production.",
+                  "category": "museum",
+                  "coords": [
+                        13.832788,
+                        46.478877
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "A protected forest reserve in the Mala Pišnica valley, preserving ancient trees and mountain ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "A prominent mountain peak in the Julian Alps known for its distinctive pointed shape and scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "A mountain peak in the Julian Alps offering panoramic views of the surrounding valleys and ranges.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "A peak in the Julian Alps forming part of the Martuljek group, popular among experienced hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            },
+            {
+                  "name": "Frdamane police – SZ vrh",
+                  "text": "A high mountain peak in the Julian Alps offering challenging terrain and expansive Alpine vistas.",
+                  "category": "landmark",
+                  "coords": [
+                        13.807439,
+                        46.453101
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "lake",
     name: { de: "Jasna-See", hu: "Jasna-tó", ro: "Lacul Jasna", en: "Lake Jasna"},
@@ -1107,7 +4464,268 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
     },
     image: "/poi-images/slovenia-lake-jasna-nature-v2.webp",
 },  {
-    id: "slovenia-kozjak-waterfall-nature-v2",
+    id: "slovenia-kozjak-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kobarider Museum",
+                  "text": "Ein preisgekröntes Museum in Kobarid, das die Ereignisse an der Isonzo-Front während des Ersten Weltkriegs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Eine archäologische Ausgrabungsstätte bei Kobarid mit Überresten einer spätrömischen Siedlung und frühchristlichen Kirchen.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "Ein Museum, das die lange Tradition der alpinen Käseherstellung in der Region Kobarid zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Ein beliebter Badeplatz am Ufer des smaragdgrünen Flusses Soča bei Kobarid.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "Eine spezialisierte Museumssammlung, die sich auf die Militärgeschichte und die Schlachten um Kobarid im Jahr 1917 konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Das Kulturzentrum von Kobarid, in dem Theaterstücke, Kinovorführungen und Gemeinschaftsveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "Eine Museumssammlung, die den Gebirgsschlachten und Artefakten aus dem Krn-Massiv gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kobariški muzej",
+                  "text": "Díjnyertes múzeum Kobaridban, amely az első világháborús isonzói front eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Régészeti lelőhely Kobarid közelében, egy késő római település és kora keresztény templomok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "Az alpesi sajtkészítés hosszú hagyományait bemutató múzeum Kobarid régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Népszerű folyóparti fürdőhely a smaragdzöld Soča-folyónál, Kobarid közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "Speciális múzeumi gyűjtemény, amely a Kobarid környéki hadtörténetre és az 1917-es csatákra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Kobarid kulturális központja, amely színházi előadásoknak, mozivetítéseknek és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "A Krn-hegységben zajló hegyi csatáknak és leleteknek szentelt múzeumi gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kobariški muzej",
+                  "text": "Un muzeu premiat din Kobarid care documentează evenimentele de pe frontul de la Isonzo din timpul Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Un sit arheologic lângă Kobarid care cuprinde vestigii ale unei așezări romane târzii și biserici creștine timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "Un muzeu care prezintă lunga tradiție a fabricării brânzeturilor alpine din regiunea Kobarid.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Un loc popular de scăldat pe malul râului smarald Soča, lângă Kobarid.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "O colecție muzeală specializată, axată pe istoria militară și bătăliile din jurul localității Kobarid în 1917.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Centrul cultural din Kobarid, care găzduiește piese de teatru, proiecții de film și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "O colecție muzeală dedicată bătăliilor montane și artefactelor din masivul Krn.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kobariški Museum",
+                  "text": "An award-winning museum in Kobarid documenting the events of the Isonzo Front during World War I.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "An archaeological site near Kobarid featuring remains of a late Roman settlement and early Christian churches.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Museum of Cheesemaking",
+                  "text": "A museum showcasing the long tradition of alpine cheesemaking in the Kobarid region.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Kobarid Beach",
+                  "text": "A popular riverside swimming spot on the emerald Soča River near Kobarid.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Museum Collection Kobarid in the Great War 1917",
+                  "text": "A specialized museum collection focusing on the military history and battles around Kobarid in 1917.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "The cultural center of Kobarid, hosting theatrical plays, cinema screenings, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "A museum collection dedicated to the mountain battles and artifacts from the Krn mountain range.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "river",
     name: { de: "Kozjak-Wasserfall", hu: "Kozjak-vízesés", ro: "Cascada Kozjak", en: "Kozjak Waterfall"},

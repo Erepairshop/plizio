@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const switzerlandReliefV2: POI[] = [
 
   {
-    id: "switzerland-piz-bernina-relief-v2",
+    id: "switzerland-piz-bernina-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Ein prominenter Berggipfel in der Berninagruppe in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Ein Hochgebirgsgipfel in der Berninagruppe, bekannt für seine alpine Kulisse.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Ein vergletscherter Gipfel im Bernina-Massiv in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Ein Dreitausender an der Grenze zwischen der Schweiz und Italien in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Ein markanter Berggipfel im Bernina-Gebiet, geschätzt von Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "Ein Teil des Piz-Palü-Massivs in den Bernina-Alpen mit beeindruckenden Graten.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Ein felsiger Gipfel in der Berninagruppe in den Rätischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Ein Berggipfel oberhalb des Morteratschgletschers in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Kiemelkedő hegycsúcs a Bernina-csoportban, a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Magashegyi csúcs a Bernina-csoportban, amely alpesi környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Jegesedett hegycsúcs a svájci Bernina-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Héromezer méter feletti csúcs a svájci-olasz határon a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Jellegzetes hegycsúcs a Bernina-régióban, a hegymászók körében kedvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "A Piz Palü-masszívum része a Bernina-Alpokban, lenyűgöző hegygerincekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Sziklás hegycsúcs a Bernina-csoportban, a Rhaeti-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Hegycsúcs a svájci Morteratsch-gleccser felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Un vârf montan proeminent în grupul Bernina din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Un vârf montan înalt în grupul Bernina, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Un vârf acoperit de ghețari în masivul Bernina din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Un vârf de peste trei mii de metri situat la granița dintre Elveția și Italia, în Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Un vârf montan distinctiv în regiunea Bernina, apreciat de alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "O parte a masivului Piz Palü din Alpii Bernina, cu creste impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Un vârf stâncos în grupul Bernina din Alpii Retici.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Un vârf montan situat deasupra ghețarului Morteratsch din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "A prominent mountain peak in the Bernina Range of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "A high mountain peak in the Bernina Range, known for its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "A glaciated peak in the Bernina Massif in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "A peak exceeding three thousand meters on the Swiss-Italian border in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A distinctive mountain peak in the Bernina area, favored by mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "A part of the Piz Palü massif in the Bernina Alps with impressive ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "A rocky peak in the Bernina Range of the Rhaetian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "A mountain peak located above the Morteratsch Glacier in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Bernina", hu: "Piz Bernina", ro: "Piz Bernina", en: "Piz Bernina" },
@@ -48,7 +345,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-bernina-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-palu-relief-v2",
+    id: "switzerland-piz-palu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Ein markanter Berggipfel in der Berninagruppe der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Mit 3996 Metern ist dies der dritthöchste Gipfel in der Berninagruppe an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Ein hochalpiner Gipfel in der Berninagruppe, der bei Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Ein schneebedeckter Gipfel in den zentralen Ostalpen nahe dem Piz Palü.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "Einer der Hauptgipfel des Piz Palü-Massivs in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "Ein ikonischer Gipfel der Berninagruppe, bekannt für seine drei markanten Pfeiler und ausgedehnten Gletscher.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Ein schroffer Berggipfel in der Berninagruppe an der Grenze zwischen Graubünden und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "Ein markanter Felsgipfel in der Berninagruppe, der für seine scharfen Grate bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Jellegzetes hegycsúcs a svájci Alpok Bernina-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "A Bernina-csoport harmadik legmagasabb csúcsa (3996 m) a svájci-olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Magashegyi csúcs a Bernina-csoportban, amely népszerű a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Hófödte hegycsúcs a Központi-Keleti-Alpokban, a Piz Palü közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "A Bernina-Alpokban található Piz Palü-masszívum egyik fő csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "A Bernina-csoport ikonikus csúcsa, amely három jellegzetes pilléréről és kiterjedt gleccsereiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Meredek hegycsúcs a Bernina-csoportban, Graubünden kanton és Olaszország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "A Bernina-csoport jellegzetes sziklacsúcsa, amely éles gerinceiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Un vârf muntos proeminent în grupul Bernina din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Al treilea cel mai înalt vârf din grupul Bernina (3996 m), situat la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Un vârf alpin înalt în grupul Bernina, popular în rândul alpinistilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Un vârf înzăpezit în Alpii Orientali Centrali, situat în apropiere de Piz Palü.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "Unul dintre vârfurile principale ale masivului Piz Palü din Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "Un vârf emblematic al grupului Bernina, cunoscut pentru cei trei piloni ai săi și ghețarii întinși.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Un vârf muntos abrupt în grupul Bernina, situat la granița dintre cantonul Graubünden și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "Un vârf stâncos proeminent în grupul Bernina, cunoscut pentru crestele sale ascuțite.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "A prominent mountain peak in the Bernina Range of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Standing at 3,996 metres, this is the third highest peak in the Bernina Range on the Swiss-Italian border.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "A high alpine peak in the Bernina Range, popular among mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A snow-covered mountain peak in the Central Eastern Alps near Piz Palü.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "One of the main peaks of the Piz Palü massif in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "An iconic peak of the Bernina Range, famous for its three distinct pillars and extensive glaciers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "A rugged mountain peak in the Bernina Range on the border between Graubünden and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "A prominent rocky peak in the Bernina Range known for its sharp ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Palü", hu: "Piz Palü", ro: "Piz Palü", en: "Piz Palü" },
@@ -138,7 +732,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-dom-relief-v2.webp",
   },
   {
-    id: "switzerland-weisshorn-relief-v2",
+    id: "switzerland-weisshorn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bishorn",
+                  "text": "Ein hoher Berggipfel in den Walliser Alpen, der oft als Vorbereitung auf schwierigere Gipfel bestiegen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        7.714961,
+                        46.117922
+                  ]
+            },
+            {
+                  "name": "Les Diablons",
+                  "text": "Ein Berggipfel im Schweizer Kanton Wallis, der Teil der Walliser Alpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.670938,
+                        46.142472
+                  ]
+            },
+            {
+                  "name": "Brunegghorn",
+                  "text": "Ein markanter Gipfel in den Walliser Alpen, der sich in der Nähe des Weisshorn-Massivs befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.745895,
+                        46.125753
+                  ]
+            },
+            {
+                  "name": "Schöllihorn",
+                  "text": "Ein Berggipfel in den Walliser Alpen, bekannt für seine umgebende Gletscherlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        7.737708,
+                        46.138269
+                  ]
+            },
+            {
+                  "name": "Pointe Burnaby",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der zur Weisshorngruppe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        7.718024,
+                        46.118692
+                  ]
+            },
+            {
+                  "name": "Tête de Milon",
+                  "text": "Ein Gipfel in den Walliser Alpen mit Blick auf das Zinaltal in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.690336,
+                        46.118531
+                  ]
+            },
+            {
+                  "name": "Pointe d'Arpitetta",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen, der sich in der Nähe des Weisshorns befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.666379,
+                        46.110804
+                  ]
+            },
+            {
+                  "name": "Diablon des Dames",
+                  "text": "Ein hoher Alpengipfel in der Region Wallis in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.672022,
+                        46.137272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bishorn",
+                  "text": "Magas hegycsúcs a Pennini-Alpokban, amelyet gyakran másznak meg nehezebb csúcsok előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.714961,
+                        46.117922
+                  ]
+            },
+            {
+                  "name": "Les Diablons",
+                  "text": "Svájci hegycsúcs Valais kantonban, a Pennini-Alpok része.",
+                  "category": "landmark",
+                  "coords": [
+                        7.670938,
+                        46.142472
+                  ]
+            },
+            {
+                  "name": "Brunegghorn",
+                  "text": "Jellegzetes csúcs a Pennini-Alpokban, a Weisshorn-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.745895,
+                        46.125753
+                  ]
+            },
+            {
+                  "name": "Schöllihorn",
+                  "text": "Hegycsúcs a Wallisi-Alpokban, amely a környező gleccseres tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.737708,
+                        46.138269
+                  ]
+            },
+            {
+                  "name": "Pointe Burnaby",
+                  "text": "Hegycsúcs a Svájci-Alpokban, a Weisshorn-csoport része.",
+                  "category": "landmark",
+                  "coords": [
+                        7.718024,
+                        46.118692
+                  ]
+            },
+            {
+                  "name": "Tête de Milon",
+                  "text": "Csúcs a Pennini-Alpokban, amely a svájci Zinal-völgyre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.690336,
+                        46.118531
+                  ]
+            },
+            {
+                  "name": "Pointe d'Arpitetta",
+                  "text": "Hegyes hegycsúcs a Svájci-Alpokban, a Weisshorn közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.666379,
+                        46.110804
+                  ]
+            },
+            {
+                  "name": "Diablon des Dames",
+                  "text": "Magas alpesi csúcs Svájc Wallis régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.672022,
+                        46.137272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bishorn",
+                  "text": "Un vârf muntos înalt din Alpii Penini, escaladat adesea ca pregătire pentru vârfuri mai dificile.",
+                  "category": "landmark",
+                  "coords": [
+                        7.714961,
+                        46.117922
+                  ]
+            },
+            {
+                  "name": "Les Diablons",
+                  "text": "Un vârf muntos situat în cantonul elvețian Valais, parte a Alpilor Penini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.670938,
+                        46.142472
+                  ]
+            },
+            {
+                  "name": "Brunegghorn",
+                  "text": "Un vârf proeminent din Alpii Penini, situat lângă masivul Weisshorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.745895,
+                        46.125753
+                  ]
+            },
+            {
+                  "name": "Schöllihorn",
+                  "text": "Un vârf muntos din Alpii Valais, cunoscut pentru peisajul glaciar înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        7.737708,
+                        46.138269
+                  ]
+            },
+            {
+                  "name": "Pointe Burnaby",
+                  "text": "Un vârf muntos din Alpii Elvețieni, făcând parte din grupul Weisshorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.718024,
+                        46.118692
+                  ]
+            },
+            {
+                  "name": "Tête de Milon",
+                  "text": "Un vârf din Alpii Penini care domină valea Zinal din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.690336,
+                        46.118531
+                  ]
+            },
+            {
+                  "name": "Pointe d'Arpitetta",
+                  "text": "Un vârf muntos ascuțit din Alpii Elvețieni, situat lângă Weisshorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.666379,
+                        46.110804
+                  ]
+            },
+            {
+                  "name": "Diablon des Dames",
+                  "text": "Un vârf alpin înalt din regiunea Valais din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.672022,
+                        46.137272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bishorn",
+                  "text": "A high mountain peak in the Pennine Alps, often climbed as a precursor to more difficult peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.714961,
+                        46.117922
+                  ]
+            },
+            {
+                  "name": "Les Diablons",
+                  "text": "A mountain peak located in the Swiss canton of Valais, part of the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.670938,
+                        46.142472
+                  ]
+            },
+            {
+                  "name": "Brunegghorn",
+                  "text": "A prominent peak in the Pennine Alps, situated near the Weisshorn massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.745895,
+                        46.125753
+                  ]
+            },
+            {
+                  "name": "Schöllihorn",
+                  "text": "A mountain peak in the Valais Alps, known for its surrounding glacial landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        7.737708,
+                        46.138269
+                  ]
+            },
+            {
+                  "name": "Pointe Burnaby",
+                  "text": "A mountain summit in the Swiss Alps, forming part of the Weisshorn group.",
+                  "category": "landmark",
+                  "coords": [
+                        7.718024,
+                        46.118692
+                  ]
+            },
+            {
+                  "name": "Tête de Milon",
+                  "text": "A peak in the Pennine Alps overlooking the Zinal valley in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.690336,
+                        46.118531
+                  ]
+            },
+            {
+                  "name": "Pointe d'Arpitetta",
+                  "text": "A sharp mountain peak in the Swiss Alps, located near the Weisshorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.666379,
+                        46.110804
+                  ]
+            },
+            {
+                  "name": "Diablon des Dames",
+                  "text": "A high alpine summit in the Valais region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.672022,
+                        46.137272
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Weisshorn", hu: "Weisshorn", ro: "Weisshorn", en: "Weisshorn" },
@@ -183,7 +1074,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-weisshorn-relief-v2.webp",
   },
   {
-    id: "switzerland-finsteraarhorn-relief-v2",
+    id: "switzerland-finsteraarhorn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wyssnollen",
+                  "text": "Ein markanter Berggipfel in den Berner Alpen mit einer Höhe von 3.590 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        8.088302,
+                        46.509401
+                  ]
+            },
+            {
+                  "name": "Klein Grünhorn",
+                  "text": "Ein Granitgipfel mit einer Höhe von 3.913 Metern im Finsteraarhorn-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        8.073777,
+                        46.536896
+                  ]
+            },
+            {
+                  "name": "Gross Grünhorn",
+                  "text": "Ein hochalpiner Gipfel in den Berner Alpen mit einer Höhe von über 4.000 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        8.077766,
+                        46.532031
+                  ]
+            },
+            {
+                  "name": "Grünegghorn",
+                  "text": "Ein bedeutender Gipfel in der Nähe des Finsteraarhorns, der bei Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.074774,
+                        46.52673
+                  ]
+            },
+            {
+                  "name": "Finsteraarhorn",
+                  "text": "Der höchste Gipfel der Berner Alpen mit einer Höhe von 4.274 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        8.126114,
+                        46.537347
+                  ]
+            },
+            {
+                  "name": "Studerhorn",
+                  "text": "Ein anspruchsvoller Berggipfel in der Region Berner Oberland in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.147683,
+                        46.532374
+                  ]
+            },
+            {
+                  "name": "Agassizhorn",
+                  "text": "Ein majestätischer Gipfel in den Berner Alpen, benannt nach dem Naturforscher Louis Agassiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.114411,
+                        46.546598
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "Ein malerischer Berggipfel in der Finsteraarhorn-Gruppe der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.164228,
+                        46.531887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wyssnollen",
+                  "text": "Jelentős hegycsúcs a Berni-Alpokban, 3590 méter magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.088302,
+                        46.509401
+                  ]
+            },
+            {
+                  "name": "Klein Grünhorn",
+                  "text": "3913 méter magas gránitcsúcs a Finsteraarhorn-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.073777,
+                        46.536896
+                  ]
+            },
+            {
+                  "name": "Gross Grünhorn",
+                  "text": "Magashegyi csúcs a Berni-Alpokban, 4000 méter feletti magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.077766,
+                        46.532031
+                  ]
+            },
+            {
+                  "name": "Grünegghorn",
+                  "text": "Jelentős csúcs a Finsteraarhorn közelében, amely népszerű a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.074774,
+                        46.52673
+                  ]
+            },
+            {
+                  "name": "Finsteraarhorn",
+                  "text": "A Berni-Alpok legmagasabb csúcsa, amely 4274 méteres magasságba emelkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.126114,
+                        46.537347
+                  ]
+            },
+            {
+                  "name": "Studerhorn",
+                  "text": "Kihívást jelentő hegycsúcs a svájci Berni-felvidék régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.147683,
+                        46.532374
+                  ]
+            },
+            {
+                  "name": "Agassizhorn",
+                  "text": "Fenséges csúcs a Berni-Alpokban, amely Louis Agassiz természettudósról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        8.114411,
+                        46.546598
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "Festői hegycsúcs a svájci Alpok Finsteraarhorn-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.164228,
+                        46.531887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wyssnollen",
+                  "text": "Un vârf montan proeminent din Alpii Bernezi, situat la o altitudine de 3.590 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.088302,
+                        46.509401
+                  ]
+            },
+            {
+                  "name": "Klein Grünhorn",
+                  "text": "Un vârf de granit care atinge 3.913 metri în masivul Finsteraarhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        8.073777,
+                        46.536896
+                  ]
+            },
+            {
+                  "name": "Gross Grünhorn",
+                  "text": "Un vârf alpin înalt din Alpii Bernezi, depășind 4.000 de metri altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        8.077766,
+                        46.532031
+                  ]
+            },
+            {
+                  "name": "Grünegghorn",
+                  "text": "Un vârf semnificativ situat lângă Finsteraarhorn, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        8.074774,
+                        46.52673
+                  ]
+            },
+            {
+                  "name": "Finsteraarhorn",
+                  "text": "Cel mai înalt vârf din Alpii Bernezi, ridicându-se la o altitudine de 4.274 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.126114,
+                        46.537347
+                  ]
+            },
+            {
+                  "name": "Studerhorn",
+                  "text": "Un vârf montan provocator din regiunea Oberlandul Bernez din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.147683,
+                        46.532374
+                  ]
+            },
+            {
+                  "name": "Agassizhorn",
+                  "text": "Un vârf maiestuos din Alpii Bernezi, numit după naturalistul Louis Agassiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.114411,
+                        46.546598
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "Un vârf muntos pitoresc din grupul Finsteraarhorn al Alpilor Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.164228,
+                        46.531887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wyssnollen",
+                  "text": "A prominent mountain peak in the Bernese Alps, standing at 3,590 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        8.088302,
+                        46.509401
+                  ]
+            },
+            {
+                  "name": "Klein Grünhorn",
+                  "text": "A granite peak reaching 3,913 meters in the Finsteraarhorn mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        8.073777,
+                        46.536896
+                  ]
+            },
+            {
+                  "name": "Gross Grünhorn",
+                  "text": "A high alpine summit in the Bernese Alps, exceeding 4,000 meters in elevation.",
+                  "category": "landmark",
+                  "coords": [
+                        8.077766,
+                        46.532031
+                  ]
+            },
+            {
+                  "name": "Grünegghorn",
+                  "text": "A significant peak located near the Finsteraarhorn, popular among mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.074774,
+                        46.52673
+                  ]
+            },
+            {
+                  "name": "Finsteraarhorn",
+                  "text": "The highest peak of the Bernese Alps, rising to an elevation of 4,274 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        8.126114,
+                        46.537347
+                  ]
+            },
+            {
+                  "name": "Studerhorn",
+                  "text": "A challenging mountain summit in the Bernese Oberland region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.147683,
+                        46.532374
+                  ]
+            },
+            {
+                  "name": "Agassizhorn",
+                  "text": "A majestic peak in the Bernese Alps, named after the naturalist Louis Agassiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.114411,
+                        46.546598
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "A scenic mountain peak within the Finsteraarhorn group of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.164228,
+                        46.531887
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Finsteraarhorn", hu: "Finsteraarhorn", ro: "Finsteraarhorn", en: "Finsteraarhorn" },
@@ -273,7 +1461,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-grosse-muerren-relief-v2.webp",
   },
   {
-    id: "switzerland-säntis-relief-v2",
+    id: "switzerland-säntis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wildenburg",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg in der Nähe von Wildhaus.",
+                  "category": "castle",
+                  "coords": [
+                        9.359987,
+                        47.205058
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "Ein Ausflugsziel, das Erlebnisse mit Schlittenhunden anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.30396,
+                        47.253399
+                  ]
+            },
+            {
+                  "name": "Säntis",
+                  "text": "Der markante höchste Gipfel des Alpsteinmassivs mit Observatorium.",
+                  "category": "landmark",
+                  "coords": [
+                        9.343241,
+                        47.249444
+                  ]
+            },
+            {
+                  "name": "Wildhauser Schafberg",
+                  "text": "Ein markanter Berggipfel in den Appenzeller Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.352097,
+                        47.229437
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "Ein schroffer Alpengipfel, der bei Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.371574,
+                        47.239538
+                  ]
+            },
+            {
+                  "name": "Nädliger",
+                  "text": "Der Nädliger ist ein Berggipfel im Säntis-Massiv in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.36356,
+                        47.237863
+                  ]
+            },
+            {
+                  "name": "Ruchbüel",
+                  "text": "Der Ruchbüel ist ein Berggipfel in der Region Säntis in den Appenzeller Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38197,
+                        47.233955
+                  ]
+            },
+            {
+                  "name": "Höch Nideri",
+                  "text": "Die Höch Nideri ist ein Berggipfel im Säntis-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        9.353551,
+                        47.260838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wildenburg",
+                  "text": "Egy középkori hegyi vár romjai Wildhaus közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.359987,
+                        47.205058
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "Szánhúzó kutyás élményeket kínáló kirándulóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        9.30396,
+                        47.253399
+                  ]
+            },
+            {
+                  "name": "Säntis",
+                  "text": "Az Alpstein-masszívum jellegzetes, legmagasabb csúcsa obszervatóriummal.",
+                  "category": "landmark",
+                  "coords": [
+                        9.343241,
+                        47.249444
+                  ]
+            },
+            {
+                  "name": "Wildhauser Schafberg",
+                  "text": "Jellegzetes hegycsúcs az Appenzelli-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.352097,
+                        47.229437
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "A hegymászók körében népszerű sziklás alpesi csúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        9.371574,
+                        47.239538
+                  ]
+            },
+            {
+                  "name": "Nädliger",
+                  "text": "A Nädliger egy hegycsúcs a svájci Säntis-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.36356,
+                        47.237863
+                  ]
+            },
+            {
+                  "name": "Ruchbüel",
+                  "text": "A Ruchbüel egy hegycsúcs a Säntis régióban, az Appenzelli-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38197,
+                        47.233955
+                  ]
+            },
+            {
+                  "name": "Höch Nideri",
+                  "text": "A Höch Nideri egy hegycsúcs a Säntis-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.353551,
+                        47.260838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wildenburg",
+                  "text": "Ruinele unui castel medieval de pe deal, situat lângă Wildhaus.",
+                  "category": "castle",
+                  "coords": [
+                        9.359987,
+                        47.205058
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "O destinație turistică ce oferă experiențe cu câini de sanie.",
+                  "category": "recreational",
+                  "coords": [
+                        9.30396,
+                        47.253399
+                  ]
+            },
+            {
+                  "name": "Säntis",
+                  "text": "Cel mai înalt vârf proeminent al masivului Alpstein, dotat cu observator.",
+                  "category": "landmark",
+                  "coords": [
+                        9.343241,
+                        47.249444
+                  ]
+            },
+            {
+                  "name": "Wildhauser Schafberg",
+                  "text": "Un vârf montan proeminent în Alpii Appenzell.",
+                  "category": "landmark",
+                  "coords": [
+                        9.352097,
+                        47.229437
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "Un vârf alpin stâncos, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        9.371574,
+                        47.239538
+                  ]
+            },
+            {
+                  "name": "Nädliger",
+                  "text": "Nädliger este un vârf muntos din masivul Säntis, Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.36356,
+                        47.237863
+                  ]
+            },
+            {
+                  "name": "Ruchbüel",
+                  "text": "Ruchbüel este un vârf muntos din regiunea Säntis, în Alpii Appenzell.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38197,
+                        47.233955
+                  ]
+            },
+            {
+                  "name": "Höch Nideri",
+                  "text": "Höch Nideri este un vârf muntos din masivul Säntis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.353551,
+                        47.260838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wildenburg",
+                  "text": "The ruins of a medieval hilltop castle located near Wildhaus.",
+                  "category": "castle",
+                  "coords": [
+                        9.359987,
+                        47.205058
+                  ]
+            },
+            {
+                  "name": "Huskytouren",
+                  "text": "An excursion destination offering experiences with sled dogs.",
+                  "category": "recreational",
+                  "coords": [
+                        9.30396,
+                        47.253399
+                  ]
+            },
+            {
+                  "name": "Säntis",
+                  "text": "The prominent highest peak of the Alpstein massif with an observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        9.343241,
+                        47.249444
+                  ]
+            },
+            {
+                  "name": "Wildhauser Schafberg",
+                  "text": "A prominent mountain peak in the Appenzell Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.352097,
+                        47.229437
+                  ]
+            },
+            {
+                  "name": "Altmann",
+                  "text": "A rugged Alpine peak popular among mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.371574,
+                        47.239538
+                  ]
+            },
+            {
+                  "name": "Nädliger",
+                  "text": "Nädliger is a mountain peak in the Säntis massif in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.36356,
+                        47.237863
+                  ]
+            },
+            {
+                  "name": "Ruchbüel",
+                  "text": "Ruchbüel is a mountain peak in the Säntis region of the Appenzell Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38197,
+                        47.233955
+                  ]
+            },
+            {
+                  "name": "Höch Nideri",
+                  "text": "Höch Nideri is a mountain peak in the Säntis massif.",
+                  "category": "landmark",
+                  "coords": [
+                        9.353551,
+                        47.260838
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Säntis", hu: "Säntis", ro: "Säntis", en: "Säntis" },
@@ -408,7 +1893,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-niesen-relief-v2.webp",
   },
   {
-    id: "switzerland-dent-blanche-relief-v2",
+    id: "switzerland-dent-blanche-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ober Gabelhorn",
+                  "text": "Ein markanter Viertausender in den Walliser Alpen in der Nähe von Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.66804,
+                        46.038599
+                  ]
+            },
+            {
+                  "name": "Arbenhorn",
+                  "text": "Ein Berggipfel in den Walliser Alpen, gelegen im Dent Blanche Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650509,
+                        46.03372
+                  ]
+            },
+            {
+                  "name": "Pointe de Zinal",
+                  "text": "Ein Alpengipfel im Kanton Wallis, der einen weiten Blick auf die umliegenden Gletscher bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.630463,
+                        46.027209
+                  ]
+            },
+            {
+                  "name": "Pointe de Bricolla",
+                  "text": "Ein Berggipfel in der Dent Blanche Region, beliebt bei Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        7.591746,
+                        46.062504
+                  ]
+            },
+            {
+                  "name": "Grand Cornier",
+                  "text": "Ein markanter pyramidenförmiger Gipfel in den Walliser Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611567,
+                        46.052131
+                  ]
+            },
+            {
+                  "name": "Dent des Rosses",
+                  "text": "Ein felsiger Alpengipfel im Dent Blanche Massiv in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.59035,
+                        46.067979
+                  ]
+            },
+            {
+                  "name": "Dent Blanche",
+                  "text": "Ein majestätischer, pyramidenförmiger Berg in den Walliser Alpen, einer der höchsten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611931,
+                        46.034176
+                  ]
+            },
+            {
+                  "name": "Grand Gendarme",
+                  "text": "Ein markanter Felsturm am Grat der Dent Blanche in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.610644,
+                        46.029767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ober Gabelhorn",
+                  "text": "Jellegzetes négyezer méteres csúcs a Wallisi-Alpokban, Zermatt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.66804,
+                        46.038599
+                  ]
+            },
+            {
+                  "name": "Mont Durand",
+                  "text": "Hegycsúcs a Wallisi-Alpokban, a Dent Blanche masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650509,
+                        46.03372
+                  ]
+            },
+            {
+                  "name": "Pointe de Zinal",
+                  "text": "Alpesi csúcs Wallis kantonban, amely tágas kilátást nyújt a környező gleccserekre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.630463,
+                        46.027209
+                  ]
+            },
+            {
+                  "name": "Pointe de Bricolla",
+                  "text": "Hegycsúcs a Dent Blanche régióban, amely népszerű a hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.591746,
+                        46.062504
+                  ]
+            },
+            {
+                  "name": "Grand Cornier",
+                  "text": "Jellegzetes piramis alakú csúcs a Wallisi-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611567,
+                        46.052131
+                  ]
+            },
+            {
+                  "name": "Dent des Rosses",
+                  "text": "Sziklás alpesi csúcs a svájci Dent Blanche masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.59035,
+                        46.067979
+                  ]
+            },
+            {
+                  "name": "Dent Blanche",
+                  "text": "Fenséges, piramis alakú hegy a Wallisi-Alpokban, a régió egyik legmagasabbja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611931,
+                        46.034176
+                  ]
+            },
+            {
+                  "name": "Grand Gendarme",
+                  "text": "Jellegzetes sziklatorony a svájci Alpokban található Dent Blanche gerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.610644,
+                        46.029767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ober Gabelhorn",
+                  "text": "Un vârf proeminent de peste patru mii de metri în Alpii Pennini, lângă Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.66804,
+                        46.038599
+                  ]
+            },
+            {
+                  "name": "Mont Durand",
+                  "text": "Un vârf montan în Alpii Pennini, situat în masivul Dent Blanche.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650509,
+                        46.03372
+                  ]
+            },
+            {
+                  "name": "Pointe de Zinal",
+                  "text": "Un vârf alpin în cantonul Valais, oferind o vedere amplă asupra ghețarilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        7.630463,
+                        46.027209
+                  ]
+            },
+            {
+                  "name": "Pointe de Bricolla",
+                  "text": "Un vârf montan în regiunea Dent Blanche, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        7.591746,
+                        46.062504
+                  ]
+            },
+            {
+                  "name": "Grand Cornier",
+                  "text": "Un vârf proeminent în formă de piramidă în Alpii Pennini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611567,
+                        46.052131
+                  ]
+            },
+            {
+                  "name": "Dent des Rosses",
+                  "text": "Un vârf alpin stâncos în masivul Dent Blanche din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.59035,
+                        46.067979
+                  ]
+            },
+            {
+                  "name": "Dent Blanche",
+                  "text": "Un munte maiestuos în formă de piramidă în Alpii Pennini, unul dintre cei mai înalți din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611931,
+                        46.034176
+                  ]
+            },
+            {
+                  "name": "Grand Gendarme",
+                  "text": "Un turn stâncos proeminent pe creasta Dent Blanche din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.610644,
+                        46.029767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ober Gabelhorn",
+                  "text": "A prominent four-thousand-meter peak in the Pennine Alps near Zermatt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.66804,
+                        46.038599
+                  ]
+            },
+            {
+                  "name": "Mont Durand",
+                  "text": "A mountain peak in the Pennine Alps, located in the Dent Blanche massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650509,
+                        46.03372
+                  ]
+            },
+            {
+                  "name": "Pointe de Zinal",
+                  "text": "An Alpine peak in the canton of Valais, offering wide views of the surrounding glaciers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.630463,
+                        46.027209
+                  ]
+            },
+            {
+                  "name": "Pointe de Bricolla",
+                  "text": "A mountain peak in the Dent Blanche region, popular among mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.591746,
+                        46.062504
+                  ]
+            },
+            {
+                  "name": "Grand Cornier",
+                  "text": "A prominent pyramid-shaped peak in the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611567,
+                        46.052131
+                  ]
+            },
+            {
+                  "name": "Dent des Rosses",
+                  "text": "A rocky Alpine peak in the Dent Blanche massif in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.59035,
+                        46.067979
+                  ]
+            },
+            {
+                  "name": "Dent Blanche",
+                  "text": "A majestic, pyramid-shaped mountain in the Pennine Alps, one of the highest in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.611931,
+                        46.034176
+                  ]
+            },
+            {
+                  "name": "Grand Gendarme",
+                  "text": "A prominent rock tower on the ridge of Dent Blanche in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.610644,
+                        46.029767
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Dent Blanche", hu: "Dent Blanche", ro: "Dent Blanche", en: "Dent Blanche" },
@@ -453,7 +2235,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-dent-blanche-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-kesch-relief-v2",
+    id: "switzerland-piz-kesch-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Ein Gipfel in den Albula-Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Piz Forun",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.864944,
+                        46.655307
+                  ]
+            },
+            {
+                  "name": "Piz Alvra",
+                  "text": "Ein Berggipfel in der Nähe des Albulapasses in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.831072,
+                        46.596753
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Ein Berg in der Albula-Gruppe im Engadin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Ein Berggipfel im Kanton Graubünden in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Ein steiler Berggipfel in den Albula-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Der höchste Gipfel der Albula-Alpen im Osten der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Ein Alpengipfel in der Nähe von Zuoz in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Egy hegycsúcs a svájci Albula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Piz Forun",
+                  "text": "Egy jellegzetes hegycsúcs a Svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.864944,
+                        46.655307
+                  ]
+            },
+            {
+                  "name": "Piz Alvra",
+                  "text": "Egy hegycsúcs a svájci Albula-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.831072,
+                        46.596753
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Egy hegy az Albula-csoportban, az Engadin-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Egy hegycsúcs Svájcban, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Egy meredek hegycsúcs az Albula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Az Albula-Alpok legmagasabb csúcsa Kelet-Svájcban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Egy alpesi csúcs a svájci Zuoz közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Un vârf muntos din Alpii Albula, în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Piz Forun",
+                  "text": "Un vârf muntos distinctiv din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.864944,
+                        46.655307
+                  ]
+            },
+            {
+                  "name": "Piz Alvra",
+                  "text": "Un vârf muntos situat lângă pasul Albula din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.831072,
+                        46.596753
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Un munte din grupul Albula, situat în regiunea Engadin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Un vârf muntos din cantonul Graubünden, în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Un vârf muntos abrupt din Alpii Albula.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Cel mai înalt vârf din Alpii Albula, în estul Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Un vârf alpin situat în apropierea localității Zuoz din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "A mountain peak in the Albula Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Piz Forun",
+                  "text": "A prominent mountain peak in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.864944,
+                        46.655307
+                  ]
+            },
+            {
+                  "name": "Piz Alvra",
+                  "text": "A mountain peak located near the Albula Pass in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.831072,
+                        46.596753
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "A mountain in the Albula group, located in the Engadin region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "A mountain peak in the canton of Graubünden, Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "A steep mountain peak in the Albula Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "The highest peak of the Albula Alps in eastern Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "An Alpine peak located near Zuoz in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Kesch", hu: "Piz Kesch", ro: "Piz Kesch", en: "Piz Kesch" },
@@ -498,7 +2577,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-kesch-relief-v2.webp",
   },
   {
-    id: "switzerland-grand-combin-relief-v2",
+    id: "switzerland-grand-combin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Ritord",
+                  "text": "Ein Hochgebirgsgipfel im Grand-Combin-Massiv in den Walliser Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.25632,
+                        45.962849
+                  ]
+            },
+            {
+                  "name": "Beaufort",
+                  "text": "Ein Berggipfel in der Region des Grand-Combin-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.248436,
+                        45.945838
+                  ]
+            },
+            {
+                  "name": "Combin de Boveire",
+                  "text": "Ein markanter Alpengipfel im Gebiet des Grand Combin im Kanton Wallis.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27074,
+                        45.964902
+                  ]
+            },
+            {
+                  "name": "Gran Testa di By",
+                  "text": "Ein Gipfel an der Grenze zwischen der Schweiz und Italien im Grand-Combin-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297819,
+                        45.920105
+                  ]
+            },
+            {
+                  "name": "Combin de la Tsessette",
+                  "text": "Ein bedeutender Nebengipfel des Grand-Combin-Massivs in den Walliser Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.311132,
+                        45.942884
+                  ]
+            },
+            {
+                  "name": "Aiguille du Croissant",
+                  "text": "Ein felsiger Gipfel im Grand-Combin-Massiv in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.301236,
+                        45.940668
+                  ]
+            },
+            {
+                  "name": "Combin du Meitin",
+                  "text": "Ein Berggipfel im Grand-Combin-Gebiet in den Westalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27917,
+                        45.937209
+                  ]
+            },
+            {
+                  "name": "Combin de Valsorey",
+                  "text": "Einer der Hauptgipfel des Grand Combin, bekannt für seine anspruchsvollen Routen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.290192,
+                        45.938013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Ritord",
+                  "text": "Magashegyi csúcs a Grand Combin-masszívumban, a Wallis-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.25632,
+                        45.962849
+                  ]
+            },
+            {
+                  "name": "Beaufort",
+                  "text": "Hegycsúcs a Grand Combin-masszívum régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.248436,
+                        45.945838
+                  ]
+            },
+            {
+                  "name": "Combin de Boveire",
+                  "text": "Jellegzetes alpesi csúcs a Grand Combin vidékén, Wallis kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27074,
+                        45.964902
+                  ]
+            },
+            {
+                  "name": "Gran Testa di By",
+                  "text": "Hegycsúcs a svájci-olasz határon, a Grand Combin-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297819,
+                        45.920105
+                  ]
+            },
+            {
+                  "name": "Combin de la Tsessette",
+                  "text": "A Grand Combin-masszívum egyik jelentős mellékcsúcsa a Wallis-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.311132,
+                        45.942884
+                  ]
+            },
+            {
+                  "name": "Aiguille du Croissant",
+                  "text": "Sziklás hegycsúcs a svájci Grand Combin-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.301236,
+                        45.940668
+                  ]
+            },
+            {
+                  "name": "Combin du Meitin",
+                  "text": "Hegycsúcs a Grand Combin területén a Nyugati-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27917,
+                        45.937209
+                  ]
+            },
+            {
+                  "name": "Combin de Valsorey",
+                  "text": "A Grand Combin egyik fő csúcsa, amely kihívást jelentő útvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.290192,
+                        45.938013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Ritord",
+                  "text": "Un vârf montan înalt în masivul Grand Combin din Alpii Pennini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.25632,
+                        45.962849
+                  ]
+            },
+            {
+                  "name": "Beaufort",
+                  "text": "Un vârf muntos situat în regiunea masivului Grand Combin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.248436,
+                        45.945838
+                  ]
+            },
+            {
+                  "name": "Combin de Boveire",
+                  "text": "Un vârf alpin proeminent în zona Grand Combin din cantonul Valais.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27074,
+                        45.964902
+                  ]
+            },
+            {
+                  "name": "Gran Testa di By",
+                  "text": "Un vârf situat la granița dintre Elveția și Italia, în masivul Grand Combin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297819,
+                        45.920105
+                  ]
+            },
+            {
+                  "name": "Combin de la Tsessette",
+                  "text": "Un vârf secundar important al masivului Grand Combin din Alpii Pennini.",
+                  "category": "landmark",
+                  "coords": [
+                        7.311132,
+                        45.942884
+                  ]
+            },
+            {
+                  "name": "Aiguille du Croissant",
+                  "text": "Un vârf stâncos în masivul Grand Combin din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.301236,
+                        45.940668
+                  ]
+            },
+            {
+                  "name": "Combin du Meitin",
+                  "text": "Un vârf muntos în zona Grand Combin din Alpii Occidentali.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27917,
+                        45.937209
+                  ]
+            },
+            {
+                  "name": "Combin de Valsorey",
+                  "text": "Unul dintre vârfurile principale ale masivului Grand Combin, cunoscut pentru traseele sale dificile.",
+                  "category": "landmark",
+                  "coords": [
+                        7.290192,
+                        45.938013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Ritord",
+                  "text": "A high mountain peak in the Grand Combin massif in the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.25632,
+                        45.962849
+                  ]
+            },
+            {
+                  "name": "Beaufort",
+                  "text": "A mountain peak located in the region of the Grand Combin massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.248436,
+                        45.945838
+                  ]
+            },
+            {
+                  "name": "Combin de Boveire",
+                  "text": "A prominent alpine peak in the Grand Combin area in the canton of Valais.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27074,
+                        45.964902
+                  ]
+            },
+            {
+                  "name": "Gran Testa di By",
+                  "text": "A peak on the border between Switzerland and Italy in the Grand Combin massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297819,
+                        45.920105
+                  ]
+            },
+            {
+                  "name": "Combin de la Tsessette",
+                  "text": "A significant secondary peak of the Grand Combin massif in the Pennine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.311132,
+                        45.942884
+                  ]
+            },
+            {
+                  "name": "Aiguille du Croissant",
+                  "text": "A rocky peak in the Grand Combin massif in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.301236,
+                        45.940668
+                  ]
+            },
+            {
+                  "name": "Combin du Meitin",
+                  "text": "A mountain peak in the Grand Combin area in the Western Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27917,
+                        45.937209
+                  ]
+            },
+            {
+                  "name": "Combin de Valsorey",
+                  "text": "One of the main summits of the Grand Combin, known for its demanding climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.290192,
+                        45.938013
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Grand Combin", hu: "Grand Combin", ro: "Grand Combin", en: "Grand Combin" },
@@ -588,7 +2964,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-julier-relief-v2.webp",
   },
   {
-    id: "switzerland-breithorn-relief-v2",
+    id: "switzerland-breithorn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klein Matterhorn",
+                  "text": "Die höchste Bergstation Europas, die einen spektakulären Blick auf das Matterhorn bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.729889,
+                        45.93836
+                  ]
+            },
+            {
+                  "name": "Castor",
+                  "text": "Ein markanter Gipfel in den Walliser Alpen, der zusammen mit dem Pollux als Zwilling gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.793273,
+                        45.920849
+                  ]
+            },
+            {
+                  "name": "Pollux",
+                  "text": "Einer der beiden markanten Gipfel der 'Zwillinge' im Breithorn-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.78531,
+                        45.927808
+                  ]
+            },
+            {
+                  "name": "Breithorn Westgipfel",
+                  "text": "Der höchste Gipfel des Breithorn-Massivs in den Alpen an der Grenze zu Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.74768,
+                        45.941055
+                  ]
+            },
+            {
+                  "name": "Theodulhorn",
+                  "text": "Ein Berg im Breithorn-Gebiet nahe dem Theodulpass zwischen Zermatt und Cervinia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708419,
+                        45.949322
+                  ]
+            },
+            {
+                  "name": "Testa Grigia",
+                  "text": "Ein markanter Felsgipfel in der Nähe des Plateau Rosa im Breithorn-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708073,
+                        45.934136
+                  ]
+            },
+            {
+                  "name": "Breithorn Mittelgipfel",
+                  "text": "Einer der zentralen Gipfel des mehrgipfeligen Breithorn-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.756773,
+                        45.938774
+                  ]
+            },
+            {
+                  "name": "Westlicher Breithornzwilling",
+                  "text": "Der östliche Teil des Breithorn-Massivs, ein beliebter Gipfel für Alpinisten.",
+                  "category": "landmark",
+                  "coords": [
+                        7.76711,
+                        45.937499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klein Matterhorn",
+                  "text": "Európa legmagasabb hegyi állomása, amely látványos kilátást nyújt a Matterhornra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.729889,
+                        45.93836
+                  ]
+            },
+            {
+                  "name": "Castor",
+                  "text": "Jellegzetes csúcs a Pennini-Alpokban, amelyet a Pollux-szal együtt ikercsúcsnak tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        7.793273,
+                        45.920849
+                  ]
+            },
+            {
+                  "name": "Pollux",
+                  "text": "A Breithorn-masszívum „ikreinek” egyike, egy jellegzetes hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.78531,
+                        45.927808
+                  ]
+            },
+            {
+                  "name": "Breithorn Occidentale / Westgipfel",
+                  "text": "A Breithorn-masszívum legmagasabb csúcsa az Alpokban, az olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.74768,
+                        45.941055
+                  ]
+            },
+            {
+                  "name": "Theodulhorn",
+                  "text": "Hegy a Breithorn területén a Theodul-hágó közelében, Zermatt és Cervinia között.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708419,
+                        45.949322
+                  ]
+            },
+            {
+                  "name": "Testa Grigia",
+                  "text": "Jellegzetes sziklás csúcs a Plateau Rosa közelében, a Breithorn-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708073,
+                        45.934136
+                  ]
+            },
+            {
+                  "name": "Breithorn Centrale",
+                  "text": "A többcsúcsú Breithorn-masszívum egyik középső csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.756773,
+                        45.938774
+                  ]
+            },
+            {
+                  "name": "Breithorn Orientale / Ostgipfel",
+                  "text": "A Breithorn-masszívum keleti része, a hegymászók körében népszerű csúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.76711,
+                        45.937499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klein Matterhorn",
+                  "text": "Cea mai înaltă stațiune montană din Europa, oferind o vedere spectaculoasă asupra Matterhornului.",
+                  "category": "landmark",
+                  "coords": [
+                        7.729889,
+                        45.93836
+                  ]
+            },
+            {
+                  "name": "Castor",
+                  "text": "Un vârf proeminent în Alpii Pennini, considerat geamăn împreună cu Pollux.",
+                  "category": "landmark",
+                  "coords": [
+                        7.793273,
+                        45.920849
+                  ]
+            },
+            {
+                  "name": "Pollux",
+                  "text": "Unul dintre cele două vârfuri proeminente ale „Gemenilor” din masivul Breithorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.78531,
+                        45.927808
+                  ]
+            },
+            {
+                  "name": "Breithorn Occidentale / Westgipfel",
+                  "text": "Cel mai înalt vârf al masivului Breithorn din Alpi, situat la granița cu Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.74768,
+                        45.941055
+                  ]
+            },
+            {
+                  "name": "Theodulhorn",
+                  "text": "Un munte în zona Breithorn, lângă pasul Theodul, între Zermatt și Cervinia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708419,
+                        45.949322
+                  ]
+            },
+            {
+                  "name": "Testa Grigia",
+                  "text": "Un vârf stâncos proeminent situat lângă Plateau Rosa în masivul Breithorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708073,
+                        45.934136
+                  ]
+            },
+            {
+                  "name": "Breithorn Centrale",
+                  "text": "Unul dintre vârfurile centrale ale masivului Breithorn cu mai multe culmi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.756773,
+                        45.938774
+                  ]
+            },
+            {
+                  "name": "Breithorn Orientale / Ostgipfel",
+                  "text": "Partea estică a masivului Breithorn, un vârf popular pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        7.76711,
+                        45.937499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klein Matterhorn",
+                  "text": "The highest mountain station in Europe, offering spectacular views of the Matterhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.729889,
+                        45.93836
+                  ]
+            },
+            {
+                  "name": "Castor",
+                  "text": "A prominent peak in the Pennine Alps, considered a twin summit along with Pollux.",
+                  "category": "landmark",
+                  "coords": [
+                        7.793273,
+                        45.920849
+                  ]
+            },
+            {
+                  "name": "Pollux",
+                  "text": "One of the two prominent peaks known as the 'Twins' in the Breithorn massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.78531,
+                        45.927808
+                  ]
+            },
+            {
+                  "name": "Breithorn Occidentale / Westgipfel",
+                  "text": "The highest summit of the Breithorn massif in the Alps, on the border with Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        7.74768,
+                        45.941055
+                  ]
+            },
+            {
+                  "name": "Theodulhorn",
+                  "text": "A mountain in the Breithorn area near the Theodul Pass between Zermatt and Cervinia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708419,
+                        45.949322
+                  ]
+            },
+            {
+                  "name": "Testa Grigia",
+                  "text": "A prominent rocky peak located near the Plateau Rosa in the Breithorn massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708073,
+                        45.934136
+                  ]
+            },
+            {
+                  "name": "Breithorn Centrale",
+                  "text": "One of the central summits of the multi-peaked Breithorn massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.756773,
+                        45.938774
+                  ]
+            },
+            {
+                  "name": "Breithorn Orientale / Ostgipfel",
+                  "text": "The eastern part of the Breithorn massif, a popular summit for mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.76711,
+                        45.937499
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Breithorn", hu: "Breithorn", ro: "Breithorn", en: "Breithorn" },
@@ -633,7 +3306,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-breithorn-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-err-relief-v2",
+    id: "switzerland-piz-d-err-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Calderas",
+                  "text": "Ein hoher Berggipfel in den Albula-Alpen im Schweizer Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695983,
+                        46.536401
+                  ]
+            },
+            {
+                  "name": "Piz D'Err",
+                  "text": "Ein markanter Gipfel in den Albula-Alpen, der das Oberhalbstein überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.691579,
+                        46.54525
+                  ]
+            },
+            {
+                  "name": "Piz Bleis Marscha",
+                  "text": "Ein Berggipfel in den Schweizer Albula-Alpen, bekannt für seine felsige Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        9.719744,
+                        46.570084
+                  ]
+            },
+            {
+                  "name": "Piz da Peder Bucs",
+                  "text": "Ein Berggipfel, der Teil des Piz-d'Err-Massivs in den Schweizer Alpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.718303,
+                        46.573387
+                  ]
+            },
+            {
+                  "name": "Piz Colm",
+                  "text": "Ein Berggipfel in der Albula-Gruppe im Kanton Graubünden in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.656509,
+                        46.559044
+                  ]
+            },
+            {
+                  "name": "Piz Jenatsch",
+                  "text": "Ein Berggipfel in den Albula-Alpen, benannt nach dem Schweizer Freiheitskämpfer Jörg Jenatsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716563,
+                        46.542546
+                  ]
+            },
+            {
+                  "name": "Castalegns",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der zur Piz-d'Err-Gruppe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683704,
+                        46.553658
+                  ]
+            },
+            {
+                  "name": "Piz Picuogl",
+                  "text": "Ein markanter Berggipfel in den Albula-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.707981,
+                        46.52397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Calderas",
+                  "text": "Magas hegycsúcs az Albula-Alpokban, Svájc Graubünden kantonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695983,
+                        46.536401
+                  ]
+            },
+            {
+                  "name": "Piz D'Err",
+                  "text": "Jelentős csúcs az Albula-Alpokban, amely az Oberhalbstein-völgy fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.691579,
+                        46.54525
+                  ]
+            },
+            {
+                  "name": "Piz Bleis Marscha",
+                  "text": "Hegycsúcs a svájci Albula-Alpokban, amely sziklás terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.719744,
+                        46.570084
+                  ]
+            },
+            {
+                  "name": "Piz da Peder Bucs",
+                  "text": "A svájci Alpokban található Piz d'Err-masszívum egyik hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.718303,
+                        46.573387
+                  ]
+            },
+            {
+                  "name": "Piz Colm",
+                  "text": "Hegycsúcs az Albula-csoportban, Svájc Graubünden kantonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.656509,
+                        46.559044
+                  ]
+            },
+            {
+                  "name": "Piz Jenatsch",
+                  "text": "Hegycsúcs az Albula-Alpokban, amelyet Jörg Jenatsch svájci szabadságharcosról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716563,
+                        46.542546
+                  ]
+            },
+            {
+                  "name": "Castalegns",
+                  "text": "A svájci Alpok egyik hegycsúcsa, amely a Piz d'Err-csoporthoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683704,
+                        46.553658
+                  ]
+            },
+            {
+                  "name": "Piz Picuogl",
+                  "text": "Jellegzetes hegycsúcs az Albula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.707981,
+                        46.52397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Calderas",
+                  "text": "Un vârf muntos înalt din Alpii Albula, situat în cantonul elvețian Grisun.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695983,
+                        46.536401
+                  ]
+            },
+            {
+                  "name": "Piz D'Err",
+                  "text": "Un vârf proeminent din Alpii Albula, care domină regiunea Savognin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.691579,
+                        46.54525
+                  ]
+            },
+            {
+                  "name": "Piz Bleis Marscha",
+                  "text": "Un vârf muntos din Alpii Albula elvețieni, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        9.719744,
+                        46.570084
+                  ]
+            },
+            {
+                  "name": "Piz da Peder Bucs",
+                  "text": "Un vârf muntos care face parte din masivul Piz d'Err din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.718303,
+                        46.573387
+                  ]
+            },
+            {
+                  "name": "Piz Colm",
+                  "text": "Un vârf muntos din grupul Albula, situat în cantonul Grisun din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.656509,
+                        46.559044
+                  ]
+            },
+            {
+                  "name": "Piz Jenatsch",
+                  "text": "Un vârf muntos din Alpii Albula, numit după liderul elvețian Jörg Jenatsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716563,
+                        46.542546
+                  ]
+            },
+            {
+                  "name": "Castalegns",
+                  "text": "Un vârf muntos din Alpii Elvețieni, care face parte din grupul Piz d'Err.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683704,
+                        46.553658
+                  ]
+            },
+            {
+                  "name": "Piz Picuogl",
+                  "text": "Un vârf muntos proeminent în Alpii Albula.",
+                  "category": "landmark",
+                  "coords": [
+                        9.707981,
+                        46.52397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Calderas",
+                  "text": "A high mountain peak in the Albula Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.695983,
+                        46.536401
+                  ]
+            },
+            {
+                  "name": "Piz D'Err",
+                  "text": "A prominent mountain peak in the Albula Alps, overlooking the Savognin region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.691579,
+                        46.54525
+                  ]
+            },
+            {
+                  "name": "Piz Bleis Marscha",
+                  "text": "A peak in the Swiss Albula Alps known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        9.719744,
+                        46.570084
+                  ]
+            },
+            {
+                  "name": "Piz da Peder Bucs",
+                  "text": "A mountain peak located in the Piz d'Err massif in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.718303,
+                        46.573387
+                  ]
+            },
+            {
+                  "name": "Piz Colm",
+                  "text": "A peak situated in the Albula mountain range in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.656509,
+                        46.559044
+                  ]
+            },
+            {
+                  "name": "Piz Jenatsch",
+                  "text": "A mountain peak in the Albula Alps named after the Swiss leader Jörg Jenatsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716563,
+                        46.542546
+                  ]
+            },
+            {
+                  "name": "Castalegns",
+                  "text": "A mountain peak in the Swiss Alps, part of the Piz d'Err group.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683704,
+                        46.553658
+                  ]
+            },
+            {
+                  "name": "Piz Picuogl",
+                  "text": "A prominent mountain peak in the Albula Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.707981,
+                        46.52397
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Err", hu: "Piz d'Err", ro: "Piz d'Err", en: "Piz d'Err" },
@@ -678,7 +3648,268 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-err-relief-v2.webp",
   },
   {
-    id: "switzerland-schilthorn-relief-v2",
+    id: "switzerland-schilthorn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spy World",
+                  "text": "Eine interaktive Ausstellung auf dem Schilthorn zum James-Bond-Film 'Im Geheimdienst Ihrer Majestät'.",
+                  "category": "museum",
+                  "coords": [
+                        7.834784,
+                        46.557333
+                  ]
+            },
+            {
+                  "name": "Hundshorn",
+                  "text": "Ein markanter Berggipfel in den Berner Alpen oberhalb des Lauterbrunnentals.",
+                  "category": "landmark",
+                  "coords": [
+                        7.806285,
+                        46.542709
+                  ]
+            },
+            {
+                  "name": "Zahm Andrist",
+                  "text": "Ein Alpengipfel in der Gebirgsgruppe um das Schilthorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.787585,
+                        46.553364
+                  ]
+            },
+            {
+                  "name": "Wild Andrist",
+                  "text": "Ein Hochgebirgsgipfel im Berner Oberland mit alpinem Charakter.",
+                  "category": "landmark",
+                  "coords": [
+                        7.797192,
+                        46.547954
+                  ]
+            },
+            {
+                  "name": "Bütlasse",
+                  "text": "Ein beeindruckender Gipfel in der Blüemlisalp-Gruppe in den Berner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.819836,
+                        46.518464
+                  ]
+            },
+            {
+                  "name": "Drättehorn",
+                  "text": "Ein Aussichtsgipfel im Gebiet zwischen Kiental und Lauterbrunnental.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823789,
+                        46.582208
+                  ]
+            },
+            {
+                  "name": "Birg",
+                  "text": "Ein Felsgipfel und Mittelstation der Schilthornbahn mit dem 'Thrill Walk'.",
+                  "category": "landmark",
+                  "coords": [
+                        7.857393,
+                        46.561978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spy World",
+                  "text": "Interaktív kiállítás a Schilthornon az 'Őfelsége titkosszolgálatában' című James Bond-filmről.",
+                  "category": "museum",
+                  "coords": [
+                        7.834784,
+                        46.557333
+                  ]
+            },
+            {
+                  "name": "Hundshorn",
+                  "text": "Jelentős hegycsúcs a Berni-Alpokban, a Lauterbrunnen-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.806285,
+                        46.542709
+                  ]
+            },
+            {
+                  "name": "Zahm Andrist",
+                  "text": "Alpesi csúcs a Schilthorn körüli hegycsoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.787585,
+                        46.553364
+                  ]
+            },
+            {
+                  "name": "Wild Andrist",
+                  "text": "Alpesi jellegű magashegyi csúcs a Berni-Felvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        7.797192,
+                        46.547954
+                  ]
+            },
+            {
+                  "name": "Bütlasse",
+                  "text": "Lenyűgöző csúcs a Blüemlisalp-csoportban a Berni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.819836,
+                        46.518464
+                  ]
+            },
+            {
+                  "name": "Drättehorn",
+                  "text": "Kilátást nyújtó hegycsúcs a Kiental és a Lauterbrunnen-völgy közötti területen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823789,
+                        46.582208
+                  ]
+            },
+            {
+                  "name": "Birg",
+                  "text": "Sziklacsúcs és a Schilthorn-felvonó középállomása a 'Thrill Walk' sétánnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.857393,
+                        46.561978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spy World",
+                  "text": "O expoziție interactivă pe Schilthorn despre filmul James Bond 'În serviciul secret al Majestății Sale'.",
+                  "category": "museum",
+                  "coords": [
+                        7.834784,
+                        46.557333
+                  ]
+            },
+            {
+                  "name": "Hundshorn",
+                  "text": "Un vârf montan proeminent în Alpii Bernezi, deasupra văii Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.806285,
+                        46.542709
+                  ]
+            },
+            {
+                  "name": "Zahm Andrist",
+                  "text": "Un vârf alpin în grupul montan din jurul Schilthorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.787585,
+                        46.553364
+                  ]
+            },
+            {
+                  "name": "Wild Andrist",
+                  "text": "Un vârf montan înalt în Berner Oberland, cu caracter alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.797192,
+                        46.547954
+                  ]
+            },
+            {
+                  "name": "Bütlasse",
+                  "text": "Un vârf impresionant în grupul Blüemlisalp din Alpii Bernezi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.819836,
+                        46.518464
+                  ]
+            },
+            {
+                  "name": "Drättehorn",
+                  "text": "Un vârf panoramic în zona dintre Kiental și valea Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823789,
+                        46.582208
+                  ]
+            },
+            {
+                  "name": "Birg",
+                  "text": "Un vârf stâncos și stație intermediară a telecabinei Schilthorn, cu 'Thrill Walk'.",
+                  "category": "landmark",
+                  "coords": [
+                        7.857393,
+                        46.561978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spy World",
+                  "text": "An interactive exhibition on the Schilthorn dedicated to the James Bond film 'On Her Majesty's Secret Service'.",
+                  "category": "museum",
+                  "coords": [
+                        7.834784,
+                        46.557333
+                  ]
+            },
+            {
+                  "name": "Hundshorn",
+                  "text": "A prominent mountain peak in the Bernese Alps above the Lauterbrunnen valley.",
+                  "category": "landmark",
+                  "coords": [
+                        7.806285,
+                        46.542709
+                  ]
+            },
+            {
+                  "name": "Zahm Andrist",
+                  "text": "An Alpine peak in the mountain group surrounding the Schilthorn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.787585,
+                        46.553364
+                  ]
+            },
+            {
+                  "name": "Wild Andrist",
+                  "text": "A high mountain peak in the Bernese Oberland with an alpine character.",
+                  "category": "landmark",
+                  "coords": [
+                        7.797192,
+                        46.547954
+                  ]
+            },
+            {
+                  "name": "Bütlasse",
+                  "text": "An impressive peak in the Blüemlisalp group in the Bernese Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.819836,
+                        46.518464
+                  ]
+            },
+            {
+                  "name": "Drättehorn",
+                  "text": "A panoramic peak in the area between Kiental and the Lauterbrunnen valley.",
+                  "category": "landmark",
+                  "coords": [
+                        7.823789,
+                        46.582208
+                  ]
+            },
+            {
+                  "name": "Birg",
+                  "text": "A rocky peak and middle station of the Schilthorn cable car featuring the 'Thrill Walk'.",
+                  "category": "landmark",
+                  "coords": [
+                        7.857393,
+                        46.561978
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Schilthorn", hu: "Schilthorn", ro: "Schilthorn", en: "Schilthorn" },
@@ -723,7 +3954,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-schilthorn-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-oliva-relief-v2",
+    id: "switzerland-piz-oliva-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del cioccolato",
+                  "text": "Dieses Museum in der Nähe des Piz Olivone widmet sich der Geschichte der Schokoladenherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        8.952066,
+                        46.491069
+                  ]
+            },
+            {
+                  "name": "Museo Cà da Rivöi",
+                  "text": "Das Museo Cà da Rivöi ist ein ethnografisches Museum in der Region Olivone.",
+                  "category": "museum",
+                  "coords": [
+                        8.940925,
+                        46.529864
+                  ]
+            },
+            {
+                  "name": "Pizzo Rossetto",
+                  "text": "Der Pizzo Rossetto ist ein Aussichtsgipfel oberhalb des Bleniotals.",
+                  "category": "landmark",
+                  "coords": [
+                        8.919569,
+                        46.544254
+                  ]
+            },
+            {
+                  "name": "Punta di Larescia",
+                  "text": "Die Punta di Larescia ist ein Alpengipfel mit weitem Blick über das Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.897828,
+                        46.505836
+                  ]
+            },
+            {
+                  "name": "Sosto",
+                  "text": "Der Sosto ist ein markanter pyramidenförmiger Berg oberhalb von Olivone.",
+                  "category": "landmark",
+                  "coords": [
+                        8.951913,
+                        46.548047
+                  ]
+            },
+            {
+                  "name": "Cima Sgiu",
+                  "text": "Die Cima Sgiu ist ein Berggipfel in den Adula-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.970616,
+                        46.527505
+                  ]
+            },
+            {
+                  "name": "Cima di Pinadee",
+                  "text": "Die Cima di Pinadee ist ein Gipfel in der Lepontinischen Alpenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976869,
+                        46.513228
+                  ]
+            },
+            {
+                  "name": "Fondazione La Fabbrica del Cioccolato",
+                  "text": "Diese Kunstgalerie befindet sich in einer ehemaligen Schokoladenfabrik bei Olivone.",
+                  "category": "museum",
+                  "coords": [
+                        8.955589,
+                        46.492269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del cioccolato",
+                  "text": "Ez a Piz Olivone közelében található múzeum a csokoládégyártás történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.952066,
+                        46.491069
+                  ]
+            },
+            {
+                  "name": "Museo Cà da Rivöi",
+                  "text": "A Museo Cà da Rivöi egy néprajzi múzeum Olivone régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        8.940925,
+                        46.529864
+                  ]
+            },
+            {
+                  "name": "Pizzo Rossetto",
+                  "text": "A Pizzo Rossetto egy kilátópontként is kedvelt hegycsúcs a Blenio-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.919569,
+                        46.544254
+                  ]
+            },
+            {
+                  "name": "Punta di Larescia",
+                  "text": "A Punta di Larescia egy alpesi csúcs, ahonnan széles kilátás nyílik Ticino kantonra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.897828,
+                        46.505836
+                  ]
+            },
+            {
+                  "name": "Sosto",
+                  "text": "A Sosto egy jellegzetes, piramis alakú hegy Olivone felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.951913,
+                        46.548047
+                  ]
+            },
+            {
+                  "name": "Cima Sgiu",
+                  "text": "A Cima Sgiu egy hegycsúcs az Adula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.970616,
+                        46.527505
+                  ]
+            },
+            {
+                  "name": "Cima di Pinadee",
+                  "text": "A Cima di Pinadee egy hegycsúcs a Lepontini-Alpok régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976869,
+                        46.513228
+                  ]
+            },
+            {
+                  "name": "Fondazione La Fabbrica del Cioccolato",
+                  "text": "Ez a művészeti galéria egy egykori csokoládégyár épületében található Olivone közelében.",
+                  "category": "museum",
+                  "coords": [
+                        8.955589,
+                        46.492269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del cioccolato",
+                  "text": "Acest muzeu de lângă Piz Olivone este dedicat istoriei producției de ciocolată.",
+                  "category": "museum",
+                  "coords": [
+                        8.952066,
+                        46.491069
+                  ]
+            },
+            {
+                  "name": "Museo Cà da Rivöi",
+                  "text": "Museo Cà da Rivöi este un muzeu etnografic în regiunea Olivone.",
+                  "category": "museum",
+                  "coords": [
+                        8.940925,
+                        46.529864
+                  ]
+            },
+            {
+                  "name": "Pizzo Rossetto",
+                  "text": "Pizzo Rossetto este un vârf panoramic deasupra văii Blenio.",
+                  "category": "landmark",
+                  "coords": [
+                        8.919569,
+                        46.544254
+                  ]
+            },
+            {
+                  "name": "Punta di Larescia",
+                  "text": "Punta di Larescia este un vârf alpin cu o vedere panoramică asupra cantonului Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.897828,
+                        46.505836
+                  ]
+            },
+            {
+                  "name": "Sosto",
+                  "text": "Sosto este un munte piramidal proeminent situat deasupra localității Olivone.",
+                  "category": "landmark",
+                  "coords": [
+                        8.951913,
+                        46.548047
+                  ]
+            },
+            {
+                  "name": "Cima Sgiu",
+                  "text": "Cima Sgiu este un vârf montan în Alpii Adula.",
+                  "category": "landmark",
+                  "coords": [
+                        8.970616,
+                        46.527505
+                  ]
+            },
+            {
+                  "name": "Cima di Pinadee",
+                  "text": "Cima di Pinadee este un vârf în regiunea Alpilor Lepontini.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976869,
+                        46.513228
+                  ]
+            },
+            {
+                  "name": "Fondazione La Fabbrica del Cioccolato",
+                  "text": "Această galerie de artă este situată într-o fostă fabrică de ciocolată de lângă Olivone.",
+                  "category": "museum",
+                  "coords": [
+                        8.955589,
+                        46.492269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del cioccolato",
+                  "text": "This museum near Piz Olivone is dedicated to the history of chocolate production.",
+                  "category": "museum",
+                  "coords": [
+                        8.952066,
+                        46.491069
+                  ]
+            },
+            {
+                  "name": "Museo Cà da Rivöi",
+                  "text": "Museo Cà da Rivöi is an ethnographic museum in the Olivone region.",
+                  "category": "museum",
+                  "coords": [
+                        8.940925,
+                        46.529864
+                  ]
+            },
+            {
+                  "name": "Pizzo Rossetto",
+                  "text": "Pizzo Rossetto is a scenic mountain peak overlooking the Blenio Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.919569,
+                        46.544254
+                  ]
+            },
+            {
+                  "name": "Punta di Larescia",
+                  "text": "Punta di Larescia is an Alpine peak offering wide views over the Ticino region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.897828,
+                        46.505836
+                  ]
+            },
+            {
+                  "name": "Sosto",
+                  "text": "Sosto is a prominent pyramid-shaped mountain located above Olivone.",
+                  "category": "landmark",
+                  "coords": [
+                        8.951913,
+                        46.548047
+                  ]
+            },
+            {
+                  "name": "Cima Sgiu",
+                  "text": "Cima Sgiu is a mountain peak in the Adula Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.970616,
+                        46.527505
+                  ]
+            },
+            {
+                  "name": "Cima di Pinadee",
+                  "text": "Cima di Pinadee is a peak in the Lepontine Alps region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.976869,
+                        46.513228
+                  ]
+            },
+            {
+                  "name": "Fondazione La Fabbrica del Cioccolato",
+                  "text": "This art gallery is located in a former chocolate factory near Olivone.",
+                  "category": "museum",
+                  "coords": [
+                        8.955589,
+                        46.492269
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Olivone", hu: "Piz Olivone", ro: "Piz Olivone", en: "Piz Olivone" },
@@ -768,7 +4296,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-oliva-relief-v2.webp",
   },
   {
-    id: "switzerland-bluemlisalp-relief-v2",
+    id: "switzerland-bluemlisalp-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fründenhorn",
+                  "text": "Ein Berggipfel in den Berner Alpen im Blüemlisalp-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.757464,
+                        46.476687
+                  ]
+            },
+            {
+                  "name": "Bundstock",
+                  "text": "Ein Berggipfel im Blüemlisalp-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.749337,
+                        46.517331
+                  ]
+            },
+            {
+                  "name": "Morgenhorn",
+                  "text": "Ein markanter Berggipfel in der Blüemlisalp-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.792174,
+                        46.495286
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Ein alpiner Gipfel in der Region Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.762495,
+                        46.515717
+                  ]
+            },
+            {
+                  "name": "Kleindoldenhorn",
+                  "text": "Ein Berggipfel in den Schweizer Alpen nahe dem Blüemlisalp-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.727258,
+                        46.469934
+                  ]
+            },
+            {
+                  "name": "Oeschinenhorn",
+                  "text": "Ein hoher Gipfel im Blüemlisalp-Massiv oberhalb des Oeschinensees.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767624,
+                        46.483715
+                  ]
+            },
+            {
+                  "name": "Wyssi Frau",
+                  "text": "Einer der Hauptgipfel des Blüemlisalp-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783168,
+                        46.492853
+                  ]
+            },
+            {
+                  "name": "Wildi Frau",
+                  "text": "Ein Berggipfel in der Blüemlisalp-Gruppe in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.780187,
+                        46.503878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fründenhorn",
+                  "text": "Hegycsúcs a Berni-Alpokban, a Blüemlisalp-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.757464,
+                        46.476687
+                  ]
+            },
+            {
+                  "name": "Bundstock",
+                  "text": "Hegyi csúcs a Blüemlisalp-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.749337,
+                        46.517331
+                  ]
+            },
+            {
+                  "name": "Morgenhorn",
+                  "text": "Kiemelkedő hegycsúcs a Blüemlisalp-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.792174,
+                        46.495286
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Alpesi csúcs a Blüemlisalp régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.762495,
+                        46.515717
+                  ]
+            },
+            {
+                  "name": "Kleindoldenhorn",
+                  "text": "Hegycsúcs a Svájci-Alpokban, a Blüemlisalp-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.727258,
+                        46.469934
+                  ]
+            },
+            {
+                  "name": "Oeschinenhorn",
+                  "text": "Magas hegycsúcs a Blüemlisalp-masszívumban, az Oeschinen-tó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767624,
+                        46.483715
+                  ]
+            },
+            {
+                  "name": "Wyssi Frau",
+                  "text": "A Blüemlisalp-masszívum egyik fő csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783168,
+                        46.492853
+                  ]
+            },
+            {
+                  "name": "Wildi Frau",
+                  "text": "Hegycsúcs a svájci Blüemlisalp-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.780187,
+                        46.503878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fründenhorn",
+                  "text": "Un vârf muntos în Alpii Bernezi, în masivul Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.757464,
+                        46.476687
+                  ]
+            },
+            {
+                  "name": "Bundstock",
+                  "text": "Un vârf muntos situat în masivul Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.749337,
+                        46.517331
+                  ]
+            },
+            {
+                  "name": "Morgenhorn",
+                  "text": "Un vârf muntos proeminent din masivul Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.792174,
+                        46.495286
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Un vârf alpin situat în regiunea Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.762495,
+                        46.515717
+                  ]
+            },
+            {
+                  "name": "Kleindoldenhorn",
+                  "text": "Un vârf muntos din Alpii Elvețieni, situat lângă masivul Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.727258,
+                        46.469934
+                  ]
+            },
+            {
+                  "name": "Oeschinenhorn",
+                  "text": "Un vârf înalt din masivul Blüemlisalp, situat deasupra lacului Oeschinen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767624,
+                        46.483715
+                  ]
+            },
+            {
+                  "name": "Wyssi Frau",
+                  "text": "Unul dintre vârfurile principale ale masivului Blüemlisalp.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783168,
+                        46.492853
+                  ]
+            },
+            {
+                  "name": "Wildi Frau",
+                  "text": "Un vârf muntos din masivul Blüemlisalp din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.780187,
+                        46.503878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fründenhorn",
+                  "text": "A mountain peak in the Bernese Alps within the Blüemlisalp massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.757464,
+                        46.476687
+                  ]
+            },
+            {
+                  "name": "Bundstock",
+                  "text": "A mountain peak located in the Blüemlisalp massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.749337,
+                        46.517331
+                  ]
+            },
+            {
+                  "name": "Morgenhorn",
+                  "text": "A prominent mountain peak in the Blüemlisalp range.",
+                  "category": "landmark",
+                  "coords": [
+                        7.792174,
+                        46.495286
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "An alpine peak situated within the Blüemlisalp region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.762495,
+                        46.515717
+                  ]
+            },
+            {
+                  "name": "Kleindoldenhorn",
+                  "text": "A mountain peak in the Swiss Alps near the Blüemlisalp massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.727258,
+                        46.469934
+                  ]
+            },
+            {
+                  "name": "Oeschinenhorn",
+                  "text": "A high peak in the Blüemlisalp massif above Lake Oeschinen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767624,
+                        46.483715
+                  ]
+            },
+            {
+                  "name": "Wyssi Frau",
+                  "text": "One of the main peaks of the Blüemlisalp massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.783168,
+                        46.492853
+                  ]
+            },
+            {
+                  "name": "Wildi Frau",
+                  "text": "A mountain peak in the Blüemlisalp range in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.780187,
+                        46.503878
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Blüemlisalp", hu: "Blüemlisalp", ro: "Blüemlisalp", en: "Blüemlisalp" },
@@ -813,7 +4638,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-bluemlisalp-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-artgas-relief-v2",
+    id: "switzerland-piz-d-artgas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Thusis.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Eine gut erhaltene mittelalterliche Burg in der Nähe von Sils im Domleschg.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Ein historisches Schloss in der Region am Piz d'Artgas.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Felszeichnungen Carschenna",
+                  "text": "Bedeutende archäologische Stätte mit prähistorischen Felszeichnungen bei Piz d'Artgas.",
+                  "category": "historical",
+                  "coords": [
+                        9.460745,
+                        46.694299
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Ein öffentlicher Wasserpark in der Nähe von Piz d'Artgas für Freizeit und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "Eine beeindruckende und tiefe Schlucht des Hinterrheins bei Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Ein markanter Berggipfel in der alpinen Region von Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Ein Berggipfel bei Piz d'Artgas, der einen weiten Blick auf die Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Egy középkori hegyi vár romjai Thusis felett.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Jó állapotban fennmaradt középkori vár a Domleschg-völgyben, Sils közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Történelmi kastély a Piz d'Artgas környéki régióban.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Felszeichnungen Carschenna",
+                  "text": "Jelentős régészeti lelőhely őskori sziklarajzokkal Piz d'Artgas közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.460745,
+                        46.694299
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Nyilvános vízi park Piz d'Artgas közelében, amely kikapcsolódást és szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "A Hinterrhein lenyűgöző és mély szurdoka Piz d'Artgas közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Jellegzetes hegycsúcs Piz d'Artgas alpesi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Hegycsúcs Piz d'Artgas közelében, amely széles kilátást nyújt az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Ruinele unei cetăți medievale situate pe o înălțime deasupra localității Thusis.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Un castel medieval bine conservat situat lângă Sils im Domleschg.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Un castel istoric situat în regiunea de la poalele vârfului Piz d'Artgas.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Felszeichnungen Carschenna",
+                  "text": "Sit arheologic important cu desene rupestre preistorice lângă Piz d'Artgas.",
+                  "category": "historical",
+                  "coords": [
+                        9.460745,
+                        46.694299
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "Un parc acvatic public lângă Piz d'Artgas, oferind facilități pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "O cheie impresionantă și adâncă a Rinului Posterior lângă Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Un vârf montan proeminent în regiunea alpină Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Un vârf muntos lângă Piz d'Artgas, oferind vederi largi asupra Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "The ruins of a medieval hilltop castle located above Thusis.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "A well-preserved medieval castle located near Sils im Domleschg.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "A historic castle located in the region of Piz d'Artgas.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Felszeichnungen Carschenna",
+                  "text": "Significant archaeological site featuring prehistoric rock carvings near Piz d'Artgas.",
+                  "category": "historical",
+                  "coords": [
+                        9.460745,
+                        46.694299
+                  ]
+            },
+            {
+                  "name": "Badi Thusis",
+                  "text": "A public water park near Piz d'Artgas providing facilities for leisure and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.444918,
+                        46.703265
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "An impressive and deep gorge of the Hinterrhein river near Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "A prominent mountain peak in the alpine region of Piz d'Artgas.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "A mountain peak near Piz d'Artgas offering wide views of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Artgas", hu: "Piz d'Artgas", ro: "Piz d'Artgas", en: "Piz d'Artgas" },
@@ -858,7 +4980,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-artgas-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-morteratsch-relief-v2",
+    id: "switzerland-piz-morteratsch-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munt Pers 3207 m",
+                  "text": "Ein Gipfel in der Berninagruppe, der für sein beeindruckendes Panorama auf den Morteratschgletscher bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.953485,
+                        46.421429
+                  ]
+            },
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Ein vergletscherter Berggipfel in den Bündner Alpen, der ein beliebtes Ziel für Hochtouren ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Ein hoher Gipfel in der Berninagruppe, gelegen oberhalb des Tschiervagletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Ein Gipfel in der Nähe des Piz Bernina, der einen weiten Blick über die Engadiner Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Ein schroffer Gipfel in den Bernina-Alpen, der auf dem Grat zum Piz Bernina liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Ein markanter Gipfel oberhalb des Boval-Hütte im Val Morteratsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "La Spedla/ Punta Perrucchetti",
+                  "text": "Der höchste Punkt in der italienischen Region Lombardei, gelegen im Bernina-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907391,
+                        46.380917
+                  ]
+            },
+            {
+                  "name": "Piz Misaun",
+                  "text": "Ein Berggipfel in der Berninagruppe, der das Val Roseg und das Val Morteratsch trennt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.894041,
+                        46.426328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munt Pers",
+                  "text": "A Bernina-csoport egyik csúcsa, amely a Morteratsch-gleccserre nyíló lenyűgöző panorámájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.953485,
+                        46.421429
+                  ]
+            },
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Gleccserekkel borított hegycsúcs a Graubündeni-Alpokban, amely a magashegyi túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Magas hegycsúcs a Bernina-csoportban, a Tschierva-gleccser felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A Piz Bernina közelében található csúcs, amely tágas kilátást nyújt az Engadin-Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Sziklás hegycsúcs a Bernina-Alpokban, a Piz Bernina felé vezető gerincen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Jellegzetes hegycsúcs a Boval-menedékház felett, a Morteratsch-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "La Spedla/ Punta Perrucchetti",
+                  "text": "Lombardia olasz régió legmagasabb pontja, amely a Bernina-masszívumban található.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907391,
+                        46.380917
+                  ]
+            },
+            {
+                  "name": "Piz Misaun",
+                  "text": "A Bernina-csoport egyik hegycsúcsa, amely elválasztja a Roseg- és a Morteratsch-völgyet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.894041,
+                        46.426328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munt Pers",
+                  "text": "Un vârf din grupul Bernina, cunoscut pentru panorama sa impresionantă asupra ghețarului Morteratsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.953485,
+                        46.421429
+                  ]
+            },
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Un vârf montan glaciar în Alpii din Grisons, o destinație populară pentru drumeții montane înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Un vârf înalt în grupul Bernina, situat deasupra ghețarului Tschierva.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Un vârf situat lângă Piz Bernina, oferind o panoramă largă asupra Alpilor Engadine.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Un vârf abrupt în Alpii Bernina, situat pe creasta care duce spre Piz Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Un vârf proeminent situat deasupra cabanei Boval în Val Morteratsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "La Spedla/ Punta Perrucchetti",
+                  "text": "Cel mai înalt punct din regiunea italiană Lombardia, situat în masivul Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907391,
+                        46.380917
+                  ]
+            },
+            {
+                  "name": "Piz Misaun",
+                  "text": "Un vârf montan în grupul Bernina, care separă văile Roseg și Morteratsch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.894041,
+                        46.426328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munt Pers",
+                  "text": "A peak in the Bernina Range known for its impressive panorama of the Morteratsch Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        9.953485,
+                        46.421429
+                  ]
+            },
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "A glaciated mountain peak in the Grisons Alps, a popular destination for high-altitude mountaineering.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "A high peak in the Bernina Range, located above the Tschierva Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A peak located near Piz Bernina, offering wide views over the Engadine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "A rugged peak in the Bernina Alps, situated on the ridge leading towards Piz Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "A prominent peak located above the Boval hut in the Morteratsch valley.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "La Spedla/ Punta Perrucchetti",
+                  "text": "The highest point in the Italian region of Lombardy, located within the Bernina massif.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907391,
+                        46.380917
+                  ]
+            },
+            {
+                  "name": "Piz Misaun",
+                  "text": "A mountain peak in the Bernina Range separating the Roseg and Morteratsch valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        9.894041,
+                        46.426328
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Morteratsch", hu: "Piz Morteratsch", ro: "Piz Morteratsch", en: "Piz Morteratsch" },
@@ -903,7 +5322,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-morteratsch-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-val-gronda-relief-v2",
+    id: "switzerland-piz-val-gronda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Scorluzzo",
+                  "text": "Ein Berggipfel in den Ortler-Alpen, nahe dem Stilfser Joch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.442452,
+                        46.521885
+                  ]
+            },
+            {
+                  "name": "Piz Umbrail",
+                  "text": "Ein prominenter Gipfel an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        10.415824,
+                        46.550908
+                  ]
+            },
+            {
+                  "name": "Rötlspitz",
+                  "text": "Ein Grenzgipfel in den Sesvenna-Alpen zwischen Südtirol und Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.457379,
+                        46.541861
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "Ein Berg am Dreiländereck von Österreich, Italien und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409646,
+                        46.571047
+                  ]
+            },
+            {
+                  "name": "Piz Val Gronda",
+                  "text": "Ein Gipfel in der Silvretta-Gruppe auf der Grenze zwischen Österreich und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.452664,
+                        46.56245
+                  ]
+            },
+            {
+                  "name": "Piz dal Lai",
+                  "text": "Ein Berggipfel in der Region Piz Val Gronda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.385104,
+                        46.554855
+                  ]
+            },
+            {
+                  "name": "Dreisprachenspitze",
+                  "text": "Bekannt als Dreisprachenspitze, wo Deutsch, Italienisch und Rätoromanisch aufeinandertreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.453055,
+                        46.530852
+                  ]
+            },
+            {
+                  "name": "Piz Chazforà",
+                  "text": "Ein Gipfel in den Alpen im Bereich von Piz Val Gronda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.411327,
+                        46.556621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Scorluzzo",
+                  "text": "Hegycsúcs az Ortler-Alpokban, a Stelvio-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.442452,
+                        46.521885
+                  ]
+            },
+            {
+                  "name": "Piz Umbrail",
+                  "text": "Kiemelkedő hegycsúcs a svájci-olasz határon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.415824,
+                        46.550908
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Határhegy a Sesvenna-Alpokban Dél-Tirol és Graubünden között.",
+                  "category": "landmark",
+                  "coords": [
+                        10.457379,
+                        46.541861
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "Hegy az osztrák, olasz és svájci hármashatárnál.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409646,
+                        46.571047
+                  ]
+            },
+            {
+                  "name": "Piz Val Gronda",
+                  "text": "Csúcs a Silvretta-csoportban az osztrák-svájci határon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.452664,
+                        46.56245
+                  ]
+            },
+            {
+                  "name": "Piz dal Lai",
+                  "text": "Hegycsúcs a Piz Val Gronda régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.385104,
+                        46.554855
+                  ]
+            },
+            {
+                  "name": "Piz da las Trais Linguas - Dreisprachenspitze - Cima Garibaldi",
+                  "text": "Háromnyelvű csúcsként ismert, ahol a német, az olasz és a romans nyelv találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.453055,
+                        46.530852
+                  ]
+            },
+            {
+                  "name": "Piz Chazforà",
+                  "text": "Hegycsúcs az Alpokban, a Piz Val Gronda területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.411327,
+                        46.556621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Scorluzzo",
+                  "text": "Un vârf montan în Alpii Ortler, lângă Pasul Stelvio.",
+                  "category": "landmark",
+                  "coords": [
+                        10.442452,
+                        46.521885
+                  ]
+            },
+            {
+                  "name": "Piz Umbrail",
+                  "text": "Un vârf proeminent la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        10.415824,
+                        46.550908
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Un vârf de graniță în Alpii Sesvenna între Tirolul de Sud și Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.457379,
+                        46.541861
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "Un munte la punctul de întâlnire al granițelor Austriei, Italiei și Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409646,
+                        46.571047
+                  ]
+            },
+            {
+                  "name": "Piz Val Gronda",
+                  "text": "Un vârf din grupul Silvretta la granița dintre Austria și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        10.452664,
+                        46.56245
+                  ]
+            },
+            {
+                  "name": "Piz dal Lai",
+                  "text": "Un vârf montan în regiunea Piz Val Gronda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.385104,
+                        46.554855
+                  ]
+            },
+            {
+                  "name": "Piz da las Trais Linguas - Dreisprachenspitze - Cima Garibaldi",
+                  "text": "Cunoscut sub numele de Vârful celor Trei Limbi, unde se întâlnesc germana, italiana și retoromana.",
+                  "category": "landmark",
+                  "coords": [
+                        10.453055,
+                        46.530852
+                  ]
+            },
+            {
+                  "name": "Piz Chazforà",
+                  "text": "Un vârf în Alpi, în zona Piz Val Gronda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.411327,
+                        46.556621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Scorluzzo",
+                  "text": "A mountain peak in the Ortler Alps, near the Stelvio Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        10.442452,
+                        46.521885
+                  ]
+            },
+            {
+                  "name": "Piz Umbrail",
+                  "text": "A prominent peak on the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        10.415824,
+                        46.550908
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "A border peak in the Sesvenna Alps between South Tyrol and Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.457379,
+                        46.541861
+                  ]
+            },
+            {
+                  "name": "Piz Lad",
+                  "text": "A mountain at the tripoint of Austria, Italy, and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409646,
+                        46.571047
+                  ]
+            },
+            {
+                  "name": "Piz Val Gronda",
+                  "text": "A peak in the Silvretta group on the border between Austria and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.452664,
+                        46.56245
+                  ]
+            },
+            {
+                  "name": "Piz dal Lai",
+                  "text": "A mountain peak in the Piz Val Gronda region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.385104,
+                        46.554855
+                  ]
+            },
+            {
+                  "name": "Piz da las Trais Linguas - Dreisprachenspitze - Cima Garibaldi",
+                  "text": "Known as the Three Languages Peak, where German, Italian, and Romansh meet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.453055,
+                        46.530852
+                  ]
+            },
+            {
+                  "name": "Piz Chazforà",
+                  "text": "A peak in the Alps within the Piz Val Gronda area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.411327,
+                        46.556621
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Val Gronda", hu: "Piz Val Gronda", ro: "Piz Val Gronda", en: "Piz Val Gronda" },
@@ -948,7 +5664,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-val-gronda-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-platta-relief-v2",
+    id: "switzerland-piz-platta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Platta",
+                  "text": "Der höchste Berggipfel in den Oberhalbsteiner Alpen im Schweizer Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.561667,
+                        46.487222
+                  ]
+            },
+            {
+                  "name": "Mazzaspitz",
+                  "text": "Ein markanter Berggipfel in der Piz-Platta-Gruppe, der einen weiten Blick über die Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.57398,
+                        46.465127
+                  ]
+            },
+            {
+                  "name": "Jupperhorn",
+                  "text": "Ein Gipfel in den Schweizer Alpen bei Piz Platta, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        9.567614,
+                        46.467194
+                  ]
+            },
+            {
+                  "name": "Piz Scalotta",
+                  "text": "Ein Berg in den Oberhalbsteiner Alpen, der wegen seiner Aussicht ein beliebtes Ziel für Skitouren ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.59484,
+                        46.47275
+                  ]
+            },
+            {
+                  "name": "Piz Surpare",
+                  "text": "Ein Gipfel in der Region Piz Platta, der für anspruchsvolle Wanderungen in den Bündner Alpen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.595394,
+                        46.465183
+                  ]
+            },
+            {
+                  "name": "Tälihorn",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der zur Gebirgsgruppe um den Piz Platta gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        9.56137,
+                        46.47847
+                  ]
+            },
+            {
+                  "name": "Foppaspitz",
+                  "text": "Ein alpiner Gipfel in der Nähe des Piz Platta, der Wanderern eine beeindruckende Bergkulisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.580969,
+                        46.454461
+                  ]
+            },
+            {
+                  "name": "Piz Cagniel",
+                  "text": "Ein Gipfel in den Oberhalbsteiner Alpen, der an der Grenze zwischen den Gemeinden Ferrera und Surses liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.539266,
+                        46.507782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Platta",
+                  "text": "Az Oberhalbsteini-Alpok legmagasabb hegycsúcsa Svájc Graubünden kantonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.561667,
+                        46.487222
+                  ]
+            },
+            {
+                  "name": "Mazzaspitz",
+                  "text": "Jellegzetes hegycsúcs a Piz Platta-csoportban, amely széles kilátást nyújt az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        9.57398,
+                        46.465127
+                  ]
+            },
+            {
+                  "name": "Jupperhorn",
+                  "text": "Hegycsúcs a svájci Alpokban, a Piz Platta közelében, alpesi tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.567614,
+                        46.467194
+                  ]
+            },
+            {
+                  "name": "Piz Scalotta",
+                  "text": "Hegy az Oberhalbsteini-Alpokban, amely kilátása miatt népszerű sítúra-célpont.",
+                  "category": "landmark",
+                  "coords": [
+                        9.59484,
+                        46.47275
+                  ]
+            },
+            {
+                  "name": "Piz Surpare",
+                  "text": "Hegycsúcs a Piz Platta régióban, amely kihívást jelentő túráiról ismert a Graubündeni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.595394,
+                        46.465183
+                  ]
+            },
+            {
+                  "name": "Tälihorn",
+                  "text": "Hegycsúcs a svájci Alpokban, amely a Piz Platta körüli hegységhez tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.56137,
+                        46.47847
+                  ]
+            },
+            {
+                  "name": "Foppaspitz",
+                  "text": "Alpesi csúcs a Piz Platta közelében, amely lenyűgöző hegyi díszletet kínál a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.580969,
+                        46.454461
+                  ]
+            },
+            {
+                  "name": "Piz Cagniel",
+                  "text": "Hegycsúcs az Oberhalbsteini-Alpokban, Ferrera és Surses községek határán.",
+                  "category": "landmark",
+                  "coords": [
+                        9.539266,
+                        46.507782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Platta",
+                  "text": "Cel mai înalt vârf muntos din Alpii Oberhalbstein, în cantonul elvețian Grisunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.561667,
+                        46.487222
+                  ]
+            },
+            {
+                  "name": "Mazzaspitz",
+                  "text": "Un vârf muntos proeminent în grupul Piz Platta, oferind o vedere panoramică asupra Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.57398,
+                        46.465127
+                  ]
+            },
+            {
+                  "name": "Jupperhorn",
+                  "text": "Un vârf în Alpii elvețieni lângă Piz Platta, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.567614,
+                        46.467194
+                  ]
+            },
+            {
+                  "name": "Piz Scalotta",
+                  "text": "Un munte în Alpii Oberhalbstein, o destinație populară pentru schi de tură datorită panoramei sale.",
+                  "category": "landmark",
+                  "coords": [
+                        9.59484,
+                        46.47275
+                  ]
+            },
+            {
+                  "name": "Piz Surpare",
+                  "text": "Un vârf în regiunea Piz Platta, cunoscut pentru drumeții solicitante în Alpii din Grisunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.595394,
+                        46.465183
+                  ]
+            },
+            {
+                  "name": "Tälihorn",
+                  "text": "Un vârf muntos în Alpii elvețieni, aparținând grupului muntos din jurul Piz Platta.",
+                  "category": "landmark",
+                  "coords": [
+                        9.56137,
+                        46.47847
+                  ]
+            },
+            {
+                  "name": "Foppaspitz",
+                  "text": "Un vârf alpin lângă Piz Platta, care oferă drumeților un decor montan impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        9.580969,
+                        46.454461
+                  ]
+            },
+            {
+                  "name": "Piz Cagniel",
+                  "text": "Un vârf în Alpii Oberhalbstein, situat la granița dintre comunele Ferrera și Surses.",
+                  "category": "landmark",
+                  "coords": [
+                        9.539266,
+                        46.507782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Platta",
+                  "text": "The highest mountain peak in the Oberhalbstein Alps, located in the Swiss canton of Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        9.561667,
+                        46.487222
+                  ]
+            },
+            {
+                  "name": "Mazzaspitz",
+                  "text": "A prominent mountain peak in the Piz Platta group, offering extensive views over the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.57398,
+                        46.465127
+                  ]
+            },
+            {
+                  "name": "Jupperhorn",
+                  "text": "A peak in the Swiss Alps near Piz Platta, known for its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        9.567614,
+                        46.467194
+                  ]
+            },
+            {
+                  "name": "Piz Scalotta",
+                  "text": "A mountain in the Oberhalbstein Alps, a popular destination for ski touring due to its views.",
+                  "category": "landmark",
+                  "coords": [
+                        9.59484,
+                        46.47275
+                  ]
+            },
+            {
+                  "name": "Piz Surpare",
+                  "text": "A peak in the Piz Platta region, known for challenging hikes in the Grisons Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.595394,
+                        46.465183
+                  ]
+            },
+            {
+                  "name": "Tälihorn",
+                  "text": "A mountain peak in the Swiss Alps, belonging to the mountain group around Piz Platta.",
+                  "category": "landmark",
+                  "coords": [
+                        9.56137,
+                        46.47847
+                  ]
+            },
+            {
+                  "name": "Foppaspitz",
+                  "text": "An alpine peak near Piz Platta, offering hikers an impressive mountain backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        9.580969,
+                        46.454461
+                  ]
+            },
+            {
+                  "name": "Piz Cagniel",
+                  "text": "A peak in the Oberhalbstein Alps, situated on the border between the municipalities of Ferrera and Surses.",
+                  "category": "landmark",
+                  "coords": [
+                        9.539266,
+                        46.507782
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Platta", hu: "Piz Platta", ro: "Piz Platta", en: "Piz Platta" },
@@ -1038,7 +6051,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-albris-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-es-relief-v2",
+    id: "switzerland-piz-d-es-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Der Piz Kesch ist mit 3418 Metern der höchste Gipfel der Albula-Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen nahe dem Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "A 3418 méter magas Piz Kesch a svájci Albula-Alpok legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Piz Kesch este cel mai înalt vârf din Alpii Albula din Elveția, având o înălțime de 3418 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Un vârf muntos proeminent din Alpii Elvețieni, situat în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Piz Kesch is the highest peak in the Albula Alps in Switzerland, standing at 3,418 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "A prominent mountain peak in the Swiss Alps, located near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Es-cha", hu: "Piz d'Es-cha", ro: "Piz d'Es-cha", en: "Piz d'Es-cha" },
@@ -1083,7 +6393,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-es-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-val-roze-relief-v2",
+    id: "switzerland-piz-val-roze-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Ein beeindruckender Gipfel in der Berninagruppe in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Ein markanter Hochgebirgsgipfel in den Bündner Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Ein schneebedeckter Gipfel in der Nähe des Piz Roseg in der Berninagruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Ein markanter Berggipfel in der Gebirgsgruppe um den Piz Roseg in den Bündner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Ein Gipfel im Berninagebiet nahe dem Piz Roseg im Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Ein Berggipfel in der Engadiner Bergwelt oberhalb des Piz-Roseg-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "Piz Sella",
+                  "text": "Ein Gipfel an der Grenze zwischen der Schweiz und Italien im Piz-Roseg-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Piz Glüschaint",
+                  "text": "Ein vergletscherter Gipfel in den Bernina-Alpen unweit des Piz Roseg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.84005,
+                        46.362406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Lenyűgöző hegycsúcs a svájci Alpokban, a Bernina-csoport tagja.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Jellegzetes magashegyi csúcs a svájci Graubünden kanton Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Hóval borított csúcs a Piz Roseg közelében, a Bernina-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Egy jellegzetes hegycsúcs a Piz Roseg környékén, a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Hegycsúcs a Bernina-csoportban, a Piz Roseg közelében, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Hegycsúcs az Engadin-völgy felett, a Piz Roseg-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Hegycsúcs a svájci-olasz határon, a Piz Roseg térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Piz Glüschaint",
+                  "text": "Gleccserrel borított csúcs a Bernina-Alpokban, nem messze a Piz Rosegtől.",
+                  "category": "landmark",
+                  "coords": [
+                        9.84005,
+                        46.362406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "Un vârf impresionant în grupul Bernina din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "Un vârf montan proeminent în Alpii Grisoni din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "Un vârf acoperit de zăpadă în apropiere de Piz Roseg, în grupul Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Un vârf muntos proeminent în grupul Piz Roseg din Alpii elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "Un vârf din masivul Bernina, situat lângă Piz Roseg în cantonul Grisunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "Un vârf muntos în Alpii elvețieni, situat deasupra masivului Piz Roseg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Un vârf aflat la granița dintre Elveția și Italia, în zona Piz Roseg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Piz Glüschaint",
+                  "text": "Un vârf acoperit de ghețari în Alpii Bernina, situat aproape de Piz Roseg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.84005,
+                        46.362406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Morteratsch",
+                  "text": "An impressive peak in the Bernina Range of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.901526,
+                        46.402496
+                  ]
+            },
+            {
+                  "name": "Piz Tschierva",
+                  "text": "A prominent high-mountain peak in the Grisons Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.886277,
+                        46.414466
+                  ]
+            },
+            {
+                  "name": "Schneekuppe",
+                  "text": "A snow-covered peak near Piz Roseg in the Bernina Range.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A prominent mountain peak in the Piz Roseg group within the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Piz Prievlus",
+                  "text": "A mountain peak in the Bernina Range near Piz Roseg in the Canton of Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907647,
+                        46.396525
+                  ]
+            },
+            {
+                  "name": "Piz Boval",
+                  "text": "A mountain peak in the Engadine region located above the Piz Roseg massif.",
+                  "category": "landmark",
+                  "coords": [
+                        9.902289,
+                        46.41738
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "A mountain peak on the border between Switzerland and Italy in the Piz Roseg area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Piz Glüschaint",
+                  "text": "A glacier-covered peak in the Bernina Alps located near Piz Roseg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.84005,
+                        46.362406
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Roseg", hu: "Piz Roseg", ro: "Piz Roseg", en: "Piz Roseg" },
@@ -1128,7 +6735,268 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-val-roze-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-margna-relief-v2",
+    id: "switzerland-piz-d-la-margna-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atelier Segantini",
+                  "text": "Ein Museum am Piz da la Margna, das dem Werk des Malers Giovanni Segantini gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.695305,
+                        46.402948
+                  ]
+            },
+            {
+                  "name": "Museo Belvedere",
+                  "text": "Ein am Piz da la Margna gelegenes Museum, das kulturelle Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.690782,
+                        46.401459
+                  ]
+            },
+            {
+                  "name": "Piz da la Margna",
+                  "text": "Ein markanter Berggipfel in der Bergeller Gruppe der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.730025,
+                        46.381963
+                  ]
+            },
+            {
+                  "name": "Piz Grevasalvas",
+                  "text": "Ein Berggipfel in den Schweizer Alpen in der Region des Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.674441,
+                        46.422833
+                  ]
+            },
+            {
+                  "name": "Muott' Ota",
+                  "text": "Ein Aussichtsgipfel in den Schweizer Alpen am Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.760362,
+                        46.397205
+                  ]
+            },
+            {
+                  "name": "Piz Lunghin",
+                  "text": "Ein Berggipfel, der als dreifache Wasserscheide Europas bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670313,
+                        46.410506
+                  ]
+            },
+            {
+                  "name": "Muotta Radonda",
+                  "text": "Ein malerischer Berggipfel in der Schweizer Hochgebirgslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        9.693926,
+                        46.418969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atelier Segantini",
+                  "text": "Giovanni Segantini festőművész munkásságának szentelt múzeum a Piz da la Margna környékén.",
+                  "category": "museum",
+                  "coords": [
+                        9.695305,
+                        46.402948
+                  ]
+            },
+            {
+                  "name": "Museo Belvedere",
+                  "text": "A Piz da la Margnánál található múzeum, amely kulturális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.690782,
+                        46.401459
+                  ]
+            },
+            {
+                  "name": "Piz da la Margna",
+                  "text": "Jellegzetes hegycsúcs a svájci Alpok Bergell-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.730025,
+                        46.381963
+                  ]
+            },
+            {
+                  "name": "Piz Grevasalvas",
+                  "text": "Hegycsúcs a svájci Alpokban, a Piz da la Margna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.674441,
+                        46.422833
+                  ]
+            },
+            {
+                  "name": "Muott' Ota",
+                  "text": "Kilátópontként szolgáló hegycsúcs a svájci Alpokban, a Piz da la Margna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.760362,
+                        46.397205
+                  ]
+            },
+            {
+                  "name": "Piz Lunghin",
+                  "text": "Hegycsúcs, amely Európa hármas vízválasztójaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670313,
+                        46.410506
+                  ]
+            },
+            {
+                  "name": "Muotta Radonda",
+                  "text": "Malerikus hegycsúcs a svájci magashegyi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.693926,
+                        46.418969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atelier Segantini",
+                  "text": "Un muzeu la Piz da la Margna dedicat operei pictorului Giovanni Segantini.",
+                  "category": "museum",
+                  "coords": [
+                        9.695305,
+                        46.402948
+                  ]
+            },
+            {
+                  "name": "Museo Belvedere",
+                  "text": "Un muzeu situat la Piz da la Margna care prezintă expoziții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        9.690782,
+                        46.401459
+                  ]
+            },
+            {
+                  "name": "Piz da la Margna",
+                  "text": "Un vârf muntos proeminent în grupul Bregaglia din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.730025,
+                        46.381963
+                  ]
+            },
+            {
+                  "name": "Piz Grevasalvas",
+                  "text": "Un vârf muntos în Alpii Elvețieni, în regiunea Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.674441,
+                        46.422833
+                  ]
+            },
+            {
+                  "name": "Muott' Ota",
+                  "text": "Un vârf muntos cu belvedere în Alpii Elvețieni la Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.760362,
+                        46.397205
+                  ]
+            },
+            {
+                  "name": "Piz Lunghin",
+                  "text": "Un vârf muntos cunoscut ca fiind tripla cumpănă a apelor din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670313,
+                        46.410506
+                  ]
+            },
+            {
+                  "name": "Muotta Radonda",
+                  "text": "Un vârf muntos pitoresc în peisajul alpin elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        9.693926,
+                        46.418969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atelier Segantini",
+                  "text": "A museum at Piz da la Margna dedicated to the work of the painter Giovanni Segantini.",
+                  "category": "museum",
+                  "coords": [
+                        9.695305,
+                        46.402948
+                  ]
+            },
+            {
+                  "name": "Museo Belvedere",
+                  "text": "A museum located at Piz da la Margna offering cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        9.690782,
+                        46.401459
+                  ]
+            },
+            {
+                  "name": "Piz da la Margna",
+                  "text": "A prominent mountain peak in the Bregaglia Range of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.730025,
+                        46.381963
+                  ]
+            },
+            {
+                  "name": "Piz Grevasalvas",
+                  "text": "A mountain peak in the Swiss Alps in the region of Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.674441,
+                        46.422833
+                  ]
+            },
+            {
+                  "name": "Muott' Ota",
+                  "text": "A mountain peak offering scenic views in the Swiss Alps at Piz da la Margna.",
+                  "category": "landmark",
+                  "coords": [
+                        9.760362,
+                        46.397205
+                  ]
+            },
+            {
+                  "name": "Piz Lunghin",
+                  "text": "A mountain peak known for being the triple watershed of Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670313,
+                        46.410506
+                  ]
+            },
+            {
+                  "name": "Muotta Radonda",
+                  "text": "A scenic mountain peak in the Swiss high alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        9.693926,
+                        46.418969
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz da la Margna", hu: "Piz da la Margna", ro: "Piz da la Margna", en: "Piz da la Margna" },
@@ -1173,7 +7041,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-margna-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-argient-relief-v2",
+    id: "switzerland-piz-d-argient-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schneekuppe",
+                  "text": "Ein Berggipfel im Bernina-Massiv in den Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Ein hoher Gipfel in den Bernina-Alpen an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Ein Berggipfel in der hochalpinen Region des Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Ein markanter Gipfel in der Bernina-Gruppe der Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "Ein Gipfel des Piz Palü-Massivs in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Piz Sella",
+                  "text": "Ein Berggipfel im Bernina-Massiv in der Nähe des Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "Ein scharfkantiger Felsgipfel in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            },
+            {
+                  "name": "Pizzo Roseg",
+                  "text": "Ein imposanter vergletscherter Gipfel in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.883275,
+                        46.373614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schneekuppe",
+                  "text": "Hegycsúcs az Alpokban, a Bernina-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Magas hegycsúcs a Bernina-Alpokban, Svájc és Olaszország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Hegycsúcs a Piz Argient magashegyi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Jellegzetes csúcs az Alpok Bernina-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "A Piz Palü-masszívum egyik csúcsa a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Hegycsúcs a Bernina-masszívumban, a Piz Argient közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "Éles sziklás hegycsúcs a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            },
+            {
+                  "name": "Pizzo Roseg",
+                  "text": "Impozáns gleccserrel borított csúcs a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.883275,
+                        46.373614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schneekuppe",
+                  "text": "Un vârf muntos în masivul Bernina din Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "Un vârf înalt în Alpii Bernina, la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "Un vârf muntos în regiunea alpină înaltă din Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "Un vârf proeminent în grupul Bernina din Alpi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "Un vârf al masivului Piz Palü din Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Un vârf muntos în masivul Bernina, lângă Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "Un vârf stâncos ascuțit în Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            },
+            {
+                  "name": "Pizzo Roseg",
+                  "text": "Un vârf impunător acoperit de ghețari în Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.883275,
+                        46.373614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schneekuppe",
+                  "text": "A mountain peak in the Bernina massif of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879842,
+                        46.375483
+                  ]
+            },
+            {
+                  "name": "Pizzo Zupò",
+                  "text": "A high peak in the Bernina Alps on the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        9.931276,
+                        46.368251
+                  ]
+            },
+            {
+                  "name": "Punta Marinelli",
+                  "text": "A mountain peak in the high alpine region of Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919145,
+                        46.345521
+                  ]
+            },
+            {
+                  "name": "Pizzo Bianco",
+                  "text": "A prominent peak in the Bernina group of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.907222,
+                        46.383529
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Occidentale/ Piz Spinas",
+                  "text": "A peak of the Piz Palü massif in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.952759,
+                        46.379301
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "A mountain peak in the Bernina massif near Piz Argient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.868319,
+                        46.362358
+                  ]
+            },
+            {
+                  "name": "Crast' Agüzza",
+                  "text": "A sharp rocky peak in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.917006,
+                        46.370343
+                  ]
+            },
+            {
+                  "name": "Pizzo Roseg",
+                  "text": "An impressive glaciated peak in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.883275,
+                        46.373614
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Argient", hu: "Piz Argient", ro: "Piz Argient", en: "Piz Argient" },
@@ -1218,7 +7383,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-argient-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-drosa-relief-v2",
+    id: "switzerland-piz-d-la-drosa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Ein markanter Berggipfel in den Lepontinischen Alpen im Kanton Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Ein markanter Alpengipfel in der Region des Gotthardmassivs.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Ein Aussichtsgipfel in den Schweizer Alpen nahe dem Gotthardpass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Ein Berggipfel in der Gebirgslandschaft des Kantons Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Ein Gipfel in den Lepontinischen Alpen oberhalb des Leventina-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Ein Gipfel in den Tessiner Alpen, der für Wanderungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Ein Berggipfel in den Schweizer Alpen im Kanton Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Pizzo dei Toroi",
+                  "text": "Ein Gipfel in der Gebirgsregion zwischen der Leventina und dem Bleniotal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.818319,
+                        46.521105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Jelentős hegycsúcs a Lepontini-Alpokban, Tessin kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Jelentős alpesi csúcs a Gotthard-masszívum régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Kilátást nyújtó hegycsúcs a Svájci-Alpokban, a Gotthard-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Hegycsúcs Tessin kanton hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Hegycsúcs a Lepontini-Alpokban, a Leventina-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Túrázásról ismert hegycsúcs a Tessini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Hegycsúcs a Svájci-Alpokban, Tessin kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Pizzo dei Toroi",
+                  "text": "Hegycsúcs a Leventina és a Blenio-völgy közötti hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        8.818319,
+                        46.521105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Un vârf montan proeminent în Alpii Lepontini din cantonul Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Un vârf alpin proeminent în regiunea masivului Gotthard.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Un vârf panoramic în Alpii Elvețieni, lângă pasul Gotthard.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Un vârf montan în peisajul alpin al cantonului Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Un vârf în Alpii Lepontini, deasupra văii Leventina.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Un vârf în Alpii Ticinesi, cunoscut pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Un vârf montan în Alpii Elvețieni din cantonul Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Pizzo dei Toroi",
+                  "text": "Un vârf în regiunea montană dintre Leventina și valea Blenio.",
+                  "category": "landmark",
+                  "coords": [
+                        8.818319,
+                        46.521105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A prominent mountain peak in the Lepontine Alps in the canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "A prominent Alpine peak in the Gotthard massif region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "A panoramic peak in the Swiss Alps near the Gotthard Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "A mountain peak in the mountainous landscape of the Ticino canton.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "A peak in the Lepontine Alps above the Leventina valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "A peak in the Ticino Alps known for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "A mountain peak in the Swiss Alps in the canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Pizzo dei Toroi",
+                  "text": "A peak in the mountain region between Leventina and the Blenio valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.818319,
+                        46.521105
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa", hu: "Piz della Drausa", ro: "Piz della Drausa", en: "Piz della Drausa" },
@@ -1263,7 +7725,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-drosa-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-furca-relief-v2",
+    id: "switzerland-piz-d-la-furca-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Forte di Airolo",
+                  "text": "Ein Museum in einer ehemaligen Schweizer Festung am Gotthardpass.",
+                  "category": "museum",
+                  "coords": [
+                        8.589397,
+                        46.528494
+                  ]
+            },
+            {
+                  "name": "Il Madone",
+                  "text": "Ein Gipfel in den Schweizer Alpen mit Aussicht auf das Leventina-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.558909,
+                        46.491974
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Ein Berg in der Region Airolo in der Zentralschweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.555743,
+                        46.496751
+                  ]
+            },
+            {
+                  "name": "Poncione di Vespero",
+                  "text": "Eine markante Erhebung in den Tessiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.581161,
+                        46.499648
+                  ]
+            },
+            {
+                  "name": "Fibbia",
+                  "text": "Ein markanter Berggipfel in der Nähe des Gotthard-Hospizes.",
+                  "category": "landmark",
+                  "coords": [
+                        8.547703,
+                        46.542688
+                  ]
+            },
+            {
+                  "name": "Motto di Pian Pizzo",
+                  "text": "Ein Berggipfel in der Gotthard-Region in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.57815,
+                        46.50664
+                  ]
+            },
+            {
+                  "name": "Motto del Toro",
+                  "text": "Eine Erhebung in den Schweizer Alpen südlich des Gotthardpasses.",
+                  "category": "landmark",
+                  "coords": [
+                        8.576609,
+                        46.509155
+                  ]
+            },
+            {
+                  "name": "Torre dei Pagani",
+                  "text": "Die Überreste eines historischen Turms oder Gebäudes in der Region Airolo.",
+                  "category": "historical",
+                  "coords": [
+                        8.624809,
+                        46.52426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Forte di Airolo",
+                  "text": "Múzeum egy egykori svájci erődben, a Gotthárd-hágónál.",
+                  "category": "museum",
+                  "coords": [
+                        8.589397,
+                        46.528494
+                  ]
+            },
+            {
+                  "name": "Il Madone",
+                  "text": "Hegycsúcs a Svájci-Alpokban, kilátással a Leventina-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.558909,
+                        46.491974
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Hegy az Airolo régióban, Közép-Svájcban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.555743,
+                        46.496751
+                  ]
+            },
+            {
+                  "name": "Poncione di Vespero",
+                  "text": "Jellegzetes hegycsúcs a Ticinoi-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.581161,
+                        46.499648
+                  ]
+            },
+            {
+                  "name": "Fibbia",
+                  "text": "Jellegzetes hegycsúcs a Gotthárd-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.547703,
+                        46.542688
+                  ]
+            },
+            {
+                  "name": "Motto di Pian Pizzo",
+                  "text": "Hegycsúcs a svájci Gotthárd-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.57815,
+                        46.50664
+                  ]
+            },
+            {
+                  "name": "Motto del Toro",
+                  "text": "Magaslat a Svájci-Alpokban, a Gotthárd-hágótól délre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.576609,
+                        46.509155
+                  ]
+            },
+            {
+                  "name": "Torre dei Pagani",
+                  "text": "Egy történelmi torony vagy épület maradványai Airolo régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        8.624809,
+                        46.52426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Forte di Airolo",
+                  "text": "Un muzeu amenajat într-o fostă fortăreață elvețiană de la pasul Gotthard.",
+                  "category": "museum",
+                  "coords": [
+                        8.589397,
+                        46.528494
+                  ]
+            },
+            {
+                  "name": "Il Madone",
+                  "text": "Un vârf în Alpii Elvețieni cu vedere spre valea Leventina.",
+                  "category": "landmark",
+                  "coords": [
+                        8.558909,
+                        46.491974
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "Un munte în regiunea Airolo din Elveția Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        8.555743,
+                        46.496751
+                  ]
+            },
+            {
+                  "name": "Poncione di Vespero",
+                  "text": "O culme proeminentă în Alpii Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.581161,
+                        46.499648
+                  ]
+            },
+            {
+                  "name": "Fibbia",
+                  "text": "Un vârf muntos proeminent situat lângă pasul Gotthard.",
+                  "category": "landmark",
+                  "coords": [
+                        8.547703,
+                        46.542688
+                  ]
+            },
+            {
+                  "name": "Motto di Pian Pizzo",
+                  "text": "Un vârf muntos în regiunea Gotthard din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.57815,
+                        46.50664
+                  ]
+            },
+            {
+                  "name": "Motto del Toro",
+                  "text": "O culme în Alpii Elvețieni, la sud de pasul Gotthard.",
+                  "category": "landmark",
+                  "coords": [
+                        8.576609,
+                        46.509155
+                  ]
+            },
+            {
+                  "name": "Torre dei Pagani",
+                  "text": "Rămășițele unui turn sau ale unei clădiri istorice din regiunea Airolo.",
+                  "category": "historical",
+                  "coords": [
+                        8.624809,
+                        46.52426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Forte di Airolo",
+                  "text": "A museum located in a former Swiss fortress at the Gotthard Pass.",
+                  "category": "museum",
+                  "coords": [
+                        8.589397,
+                        46.528494
+                  ]
+            },
+            {
+                  "name": "Il Madone",
+                  "text": "A peak in the Swiss Alps offering views of the Leventina Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        8.558909,
+                        46.491974
+                  ]
+            },
+            {
+                  "name": "Pizzo Sella",
+                  "text": "A mountain in the Airolo region of central Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.555743,
+                        46.496751
+                  ]
+            },
+            {
+                  "name": "Poncione di Vespero",
+                  "text": "A prominent elevation in the Ticino Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.581161,
+                        46.499648
+                  ]
+            },
+            {
+                  "name": "Fibbia",
+                  "text": "A prominent mountain peak located near the Gotthard Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.547703,
+                        46.542688
+                  ]
+            },
+            {
+                  "name": "Motto di Pian Pizzo",
+                  "text": "A mountain peak in the Gotthard region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.57815,
+                        46.50664
+                  ]
+            },
+            {
+                  "name": "Motto del Toro",
+                  "text": "An elevation in the Swiss Alps south of the Gotthard Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.576609,
+                        46.509155
+                  ]
+            },
+            {
+                  "name": "Torre dei Pagani",
+                  "text": "The remains of a historical tower or building in the Airolo region.",
+                  "category": "historical",
+                  "coords": [
+                        8.624809,
+                        46.52426
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Furca", hu: "Piz della Furca", ro: "Piz della Furca", en: "Piz della Furca" },
@@ -1308,7 +8067,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-furca-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-tavola-relief-v2",
+    id: "switzerland-piz-d-la-tavola-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Poncione d'Arbione",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der einen Panoramablick auf die umliegenden Gipfel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.717971,
+                        46.531871
+                  ]
+            },
+            {
+                  "name": "Pizzo Meda",
+                  "text": "Ein Berggipfel in den Lepontinischen Alpen an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        8.703103,
+                        46.473983
+                  ]
+            },
+            {
+                  "name": "Cima di Filo",
+                  "text": "Die Cima di Filo ist ein Berggipfel in der Region des Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729452,
+                        46.476062
+                  ]
+            },
+            {
+                  "name": "Poncione Sambuco",
+                  "text": "Der Poncione Sambuco ist ein markanter Berggipfel in der Nähe des Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.66721,
+                        46.48284
+                  ]
+            },
+            {
+                  "name": "Poncione Pro do Roduc",
+                  "text": "Der Poncione Pro do Rodùc ist ein Gipfel in den Lepontinischen Alpen bei Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.727006,
+                        46.532251
+                  ]
+            },
+            {
+                  "name": "Motto della Croce",
+                  "text": "Der Motto della Croce ist ein Berggipfel in der Region Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.6691,
+                        46.496881
+                  ]
+            },
+            {
+                  "name": "Mottone di Garzonera",
+                  "text": "Der Mottone di Garzonera ist ein Alpengipfel in der Nähe des Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.659689,
+                        46.501114
+                  ]
+            },
+            {
+                  "name": "Poncione di Tremorgio",
+                  "text": "Der Poncione di Tremorgio ist ein Berggipfel oberhalb des Tremorgio-Sees bei Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.700396,
+                        46.482709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Poncione d'Arbione",
+                  "text": "Hegyi csúcs a Svájci-Alpokban, amely panorámás kilátást nyújt a környező hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.717971,
+                        46.531871
+                  ]
+            },
+            {
+                  "name": "Pizzo Meda",
+                  "text": "Hegyi csúcs a Lepontini-Alpokban, Svájc és Olaszország határán.",
+                  "category": "landmark",
+                  "coords": [
+                        8.703103,
+                        46.473983
+                  ]
+            },
+            {
+                  "name": "Cima di Filo",
+                  "text": "A Cima di Filo egy hegycsúcs a Piz della Tavola környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729452,
+                        46.476062
+                  ]
+            },
+            {
+                  "name": "Poncione Sambuco",
+                  "text": "A Poncione Sambuco egy jellegzetes hegycsúcs a Piz della Tavola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.66721,
+                        46.48284
+                  ]
+            },
+            {
+                  "name": "Poncione Pro do Roduc",
+                  "text": "A Poncione Pro do Rodùc egy hegycsúcs a Lepontini-Alpokban, a Piz della Tavola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.727006,
+                        46.532251
+                  ]
+            },
+            {
+                  "name": "Motto della Croce",
+                  "text": "A Motto della Croce egy hegycsúcs a Piz della Tavola régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.6691,
+                        46.496881
+                  ]
+            },
+            {
+                  "name": "Mottone di Garzonera",
+                  "text": "A Mottone di Garzonera egy alpesi hegycsúcs a Piz della Tavola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.659689,
+                        46.501114
+                  ]
+            },
+            {
+                  "name": "Poncione di Tremorgio",
+                  "text": "A Poncione di Tremorgio egy hegycsúcs a Tremorgio-tó felett, a Piz della Tavola környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.700396,
+                        46.482709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poncione d'Arbione",
+                  "text": "Un vârf montan în Alpii Elvețieni, oferind priveliști panoramice asupra culmilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        8.717971,
+                        46.531871
+                  ]
+            },
+            {
+                  "name": "Pizzo Meda",
+                  "text": "Un vârf montan situat în Alpii Lepontini, la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        8.703103,
+                        46.473983
+                  ]
+            },
+            {
+                  "name": "Cima di Filo",
+                  "text": "Cima di Filo este un vârf muntos din zona Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729452,
+                        46.476062
+                  ]
+            },
+            {
+                  "name": "Poncione Sambuco",
+                  "text": "Poncione Sambuco este un vârf muntos situat lângă Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.66721,
+                        46.48284
+                  ]
+            },
+            {
+                  "name": "Poncione Pro do Roduc",
+                  "text": "Poncione Pro do Rodùc este un vârf din Alpii Lepontini, în apropiere de Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.727006,
+                        46.532251
+                  ]
+            },
+            {
+                  "name": "Motto della Croce",
+                  "text": "Motto della Croce este un vârf muntos în regiunea Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.6691,
+                        46.496881
+                  ]
+            },
+            {
+                  "name": "Mottone di Garzonera",
+                  "text": "Mottone di Garzonera este un vârf alpin situat lângă Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.659689,
+                        46.501114
+                  ]
+            },
+            {
+                  "name": "Poncione di Tremorgio",
+                  "text": "Poncione di Tremorgio este un vârf muntos deasupra lacului Tremorgio, lângă Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.700396,
+                        46.482709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Poncione d'Arbione",
+                  "text": "A mountain peak in the Swiss Alps, offering panoramic views of the surrounding summits.",
+                  "category": "landmark",
+                  "coords": [
+                        8.717971,
+                        46.531871
+                  ]
+            },
+            {
+                  "name": "Pizzo Meda",
+                  "text": "A mountain peak located in the Lepontine Alps, straddling the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        8.703103,
+                        46.473983
+                  ]
+            },
+            {
+                  "name": "Cima di Filo",
+                  "text": "Cima di Filo is a mountain peak located in the Piz della Tavola area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729452,
+                        46.476062
+                  ]
+            },
+            {
+                  "name": "Poncione Sambuco",
+                  "text": "Poncione Sambuco is a mountain peak situated near Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.66721,
+                        46.48284
+                  ]
+            },
+            {
+                  "name": "Poncione Pro do Roduc",
+                  "text": "Poncione Pro do Rodùc is a mountain peak in the Lepontine Alps near Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.727006,
+                        46.532251
+                  ]
+            },
+            {
+                  "name": "Motto della Croce",
+                  "text": "Motto della Croce is a mountain peak in the Piz della Tavola region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.6691,
+                        46.496881
+                  ]
+            },
+            {
+                  "name": "Mottone di Garzonera",
+                  "text": "Mottone di Garzonera is an Alpine peak located near Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.659689,
+                        46.501114
+                  ]
+            },
+            {
+                  "name": "Poncione di Tremorgio",
+                  "text": "Poncione di Tremorgio is a mountain peak overlooking Lake Tremorgio near Piz della Tavola.",
+                  "category": "landmark",
+                  "coords": [
+                        8.700396,
+                        46.482709
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Tavola", hu: "Piz della Tavola", ro: "Piz della Tavola", en: "Piz della Tavola" },
@@ -1353,7 +8409,232 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-tavola-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-salamura-relief-v2",
+    id: "switzerland-piz-salamura-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heimatmuseum Safien",
+                  "text": "Ein Heimatmuseum, das die traditionelle Kultur und Geschichte des Safientals zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.290456,
+                        46.668183
+                  ]
+            },
+            {
+                  "name": "Crap Grisch-Planggenhorn",
+                  "text": "Ein Berggipfel in den Bündner Alpen, Teil der Kette zwischen Safien und Vals.",
+                  "category": "landmark",
+                  "coords": [
+                        9.232705,
+                        46.654831
+                  ]
+            },
+            {
+                  "name": "Plangghoora",
+                  "text": "Ein Gipfel in der Schweizer Bergwelt des Kantons Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277681,
+                        46.691924
+                  ]
+            },
+            {
+                  "name": "Pala da Tgiern",
+                  "text": "Ein Alpengipfel in der Nähe von Safien im Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.219477,
+                        46.688367
+                  ]
+            },
+            {
+                  "name": "Verduschopf",
+                  "text": "Ein markanter Gipfel in der Gebirgslandschaft der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.316584,
+                        46.671946
+                  ]
+            },
+            {
+                  "name": "Kirche Safien Platz",
+                  "text": "Die historische reformierte Kirche im Dorf Safien Platz.",
+                  "category": "religious",
+                  "coords": [
+                        9.316737,
+                        46.678172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heimatmuseum Safien",
+                  "text": "Helytörténeti múzeum, amely a Safien-völgy hagyományos kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.290456,
+                        46.668183
+                  ]
+            },
+            {
+                  "name": "Crap Grisch-Planggenhorn",
+                  "text": "Hegycsúcs a Graubündeni-Alpokban, a Safien és Vals közötti lánc része.",
+                  "category": "landmark",
+                  "coords": [
+                        9.232705,
+                        46.654831
+                  ]
+            },
+            {
+                  "name": "Plangghoora",
+                  "text": "Hegycsúcs a svájci Graubünden kanton hegyvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277681,
+                        46.691924
+                  ]
+            },
+            {
+                  "name": "Pala da Tgiern",
+                  "text": "Alpesi hegycsúcs Safien közelében, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.219477,
+                        46.688367
+                  ]
+            },
+            {
+                  "name": "Verduschopf",
+                  "text": "Jellegzetes csúcs a svájci Alpok hegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        9.316584,
+                        46.671946
+                  ]
+            },
+            {
+                  "name": "Kirche Safien Platz",
+                  "text": "Safien Platz falu történelmi református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        9.316737,
+                        46.678172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heimatmuseum Safien",
+                  "text": "Un muzeu local care prezintă cultura tradițională și istoria văii Safien.",
+                  "category": "museum",
+                  "coords": [
+                        9.290456,
+                        46.668183
+                  ]
+            },
+            {
+                  "name": "Crap Grisch-Planggenhorn",
+                  "text": "Un vârf montan în Alpii din Graubünden, parte a lanțului dintre Safien și Vals.",
+                  "category": "landmark",
+                  "coords": [
+                        9.232705,
+                        46.654831
+                  ]
+            },
+            {
+                  "name": "Plangghoora",
+                  "text": "Un vârf în munții elvețieni din cantonul Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277681,
+                        46.691924
+                  ]
+            },
+            {
+                  "name": "Pala da Tgiern",
+                  "text": "Un vârf alpin situat lângă Safien, în cantonul Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.219477,
+                        46.688367
+                  ]
+            },
+            {
+                  "name": "Verduschopf",
+                  "text": "Un vârf proeminent în peisajul montan al Alpilor elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.316584,
+                        46.671946
+                  ]
+            },
+            {
+                  "name": "Kirche Safien Platz",
+                  "text": "Biserica reformată istorică din satul Safien Platz.",
+                  "category": "religious",
+                  "coords": [
+                        9.316737,
+                        46.678172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heimatmuseum Safien",
+                  "text": "A local history museum showcasing the traditional culture and history of the Safien valley.",
+                  "category": "museum",
+                  "coords": [
+                        9.290456,
+                        46.668183
+                  ]
+            },
+            {
+                  "name": "Crap Grisch-Planggenhorn",
+                  "text": "A mountain peak in the Grisons Alps, part of the range between Safien and Vals.",
+                  "category": "landmark",
+                  "coords": [
+                        9.232705,
+                        46.654831
+                  ]
+            },
+            {
+                  "name": "Plangghoora",
+                  "text": "A mountain peak in the Swiss mountains of the Canton of Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        9.277681,
+                        46.691924
+                  ]
+            },
+            {
+                  "name": "Pala da Tgiern",
+                  "text": "An Alpine peak located near Safien in the Canton of Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        9.219477,
+                        46.688367
+                  ]
+            },
+            {
+                  "name": "Verduschopf",
+                  "text": "A prominent peak in the mountain landscape of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.316584,
+                        46.671946
+                  ]
+            },
+            {
+                  "name": "Kirche Safien Platz",
+                  "text": "The historic reformed church in the village of Safien Platz.",
+                  "category": "religious",
+                  "coords": [
+                        9.316737,
+                        46.678172
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz Salamura", hu: "Piz Salamura", ro: "Piz Salamura", en: "Piz Salamura" },
@@ -1398,7 +8679,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-salamura-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-terri-relief-v2",
+    id: "switzerland-piz-terri-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hireli",
+                  "text": "Ein Berggipfel in den Schweizer Alpen in der Nähe des markanten Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Ein Gipfel in Graubünden, der Teil der Gebirgsgruppe um den Piz Terri in der Schweiz ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Ein markanter Berggipfel in der alpinen Region der Schweiz unweit des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Ein Gipfel in den Adula-Alpen in der Schweiz, der Bergsteiger mit seiner alpinen Landschaft anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Ein Berggipfel in der Greina-Hochebene, bekannt für seine unberührte alpine Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Ein Alpengipfel in der Schweiz, der zur Gebirgslandschaft rund um die Greina gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Ein Berggipfel in der Nähe von Piz Terri, der weite Ausblicke über die Schweizer Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Ein Berggipfel in den Schweizer Zentralalpen, gelegen in der Nähe des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hireli",
+                  "text": "Hegycsúcs a Svájci-Alpokban, a jellegzetes Piz Terri közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "Hegycsúcs Graubünden kantonban, amely a svájci Piz Terri körüli hegycsoport része.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Jellegzetes hegycsúcs Svájc alpesi régiójában, nem messze a Piz Terri-től.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Hegycsúcs a svájci Adula-Alpokban, amely alpesi tájaival vonzza a hegymászókat.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Hegycsúcs a Greina-fennsíkon, amely érintetlen alpesi természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Alpesi hegycsúcs Svájcban, amely a Greina környéki hegyvidéki tájhoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Hegycsúcs a Piz Terri közelében, amely széles kilátást nyújt a Svájci-Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Hegycsúcs a Svájci Központi-Alpokban, a Piz Terri közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hireli",
+                  "text": "Un vârf montan în Alpii Elvețieni, situat în apropierea proeminentului Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "Un vârf din Grisons, care face parte din grupul montan din jurul Piz Terri în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Un vârf montan proeminent în regiunea alpină a Elveției, nu departe de Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Un vârf din Alpii Adula în Elveția, care atrage alpiniștii prin peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Un vârf montan în platoul Greina, cunoscut pentru natura sa alpină virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Un vârf alpin din Elveția, care aparține peisajului montan din jurul regiunii Greina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Un vârf montan lângă Piz Terri, oferind vederi largi asupra Alpilor Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Un vârf montan în Alpii Centrali Elvețieni, situat în apropierea Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hireli",
+                  "text": "A mountain peak in the Swiss Alps, located near the prominent Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "A peak in Grisons, part of the mountain group around Piz Terri in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "A prominent mountain peak in the alpine region of Switzerland, not far from Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "A peak in the Adula Alps in Switzerland, attracting climbers with its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "A mountain peak in the Greina plateau, known for its pristine alpine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "An alpine peak in Switzerland belonging to the mountain landscape around the Greina region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "A mountain peak near Piz Terri, offering wide views over the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "A mountain peak in the Swiss Central Alps, located near Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri", hu: "Piz Terri", ro: "Piz Terri", en: "Piz Terri" },
@@ -1443,7 +9021,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-terri-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-medel-relief-v2",
+    id: "switzerland-piz-medel-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Medel",
+                  "text": "Ein markanter Berggipfel in den Lepontinischen Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.911164,
+                        46.618254
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Ein Berggipfel in der alpinen Region des Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Sasso Lanzone",
+                  "text": "Ein Berggipfel in den Schweizer Alpen bei Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.910072,
+                        46.58814
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Ein alpiner Gipfel innerhalb der Piz Medel Gebirgsgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Ein Gipfel in den Lepontinischen Alpen an der Grenze zwischen Tessin und Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Ein Berggipfel in der Region Piz Medel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Ein hoher Berggipfel in der alpinen Landschaft der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Ein Berggipfel im Kanton Graubünden in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Medel",
+                  "text": "Jelentős hegycsúcs a svájci Lepontini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.911164,
+                        46.618254
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Hegycsúcs a Piz Medel alpesi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Sasso Lanzone",
+                  "text": "Hegycsúcs a svájci Alpokban, Piz Medel közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.910072,
+                        46.58814
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Alpesi csúcs a Piz Medel hegységcsoporton belül.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Csúcs a Lepontini-Alpokban, Ticino és Graubünden határán.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Hegycsúcs a svájci Alpok Piz Medel régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Magas hegycsúcs Svájc alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Hegycsúcs Svájc Graubünden kantonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Medel",
+                  "text": "Un vârf muntos proeminent din Alpii Lepontini din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.911164,
+                        46.618254
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Un vârf muntos situat în regiunea alpină Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Sasso Lanzone",
+                  "text": "Un vârf muntos situat în Alpii Elvețieni, lângă Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.910072,
+                        46.58814
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Un vârf alpin din cadrul grupului montan Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Un vârf din Alpii Lepontini, la granița dintre Ticino și Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Un vârf muntos din regiunea Piz Medel din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Un vârf muntos înalt din peisajul alpin al Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Un vârf muntos situat în regiunea Grisons din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Medel",
+                  "text": "A prominent mountain peak in the Lepontine Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.911164,
+                        46.618254
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "A mountain summit situated in the alpine region of Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Sasso Lanzone",
+                  "text": "A mountain peak located in the Swiss Alps near Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.910072,
+                        46.58814
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "An alpine peak within the Piz Medel mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "A peak in the Lepontine Alps near the border of Ticino and Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "A mountain peak in the Piz Medel region of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "A high mountain summit in the alpine landscape of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "A mountain peak located in the Grisons region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Medel", hu: "Piz Medel", ro: "Piz Medel", en: "Piz Medel" },
@@ -1488,7 +9363,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-medel-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-es-v2-relief-v2",
+    id: "switzerland-piz-d-es-v2-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Ein markanter Berggipfel in den Albula-Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Ein Gipfel in der Gebirgsregion um den Piz d'Es-cha im Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Ein Aussichtsberg in den Albula-Alpen oberhalb des Engadins.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Ein hoher Berggipfel im Kanton Graubünden, beliebt bei Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Eine markante Felsnadel in der Gebirgsgruppe des Piz Kesch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Der höchste Gipfel der Albula-Alpen und ein markantes Ziel für Hochtouren.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Ein alpiner Gipfel in der Region Graubünden in der Ostschweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Ein Gebirgsgipfel in den Schweizer Alpen nahe dem Albulapass.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Jellegzetes hegycsúcs a svájci Albula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Hegycsúcs a Piz d'Es-cha környéki hegyvidéken, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Kilátást nyújtó hegycsúcs az Albula-Alpokban, az Engadin-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Magas hegycsúcs Graubünden kantonban, a hegymászók körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Jellegzetes sziklatű a Piz Kesch hegycsoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Az Albula-Alpok legmagasabb csúcsa és népszerű magashegyi túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Alpesi hegycsúcs Kelet-Svájcban, Graubünden régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Hegycsúcs a Svájci-Alpokban, az Albula-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Un vârf montan proeminent în Alpii Albula din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Un vârf montan în regiunea masivului Piz d'Es-cha din cantonul Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Un vârf montan în Alpii Albula, oferind vedere spre valea Engadin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Un vârf montan înalt în cantonul Grisons, popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "O ac de stâncă proeminent în grupul montan Piz Kesch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Cel mai înalt vârf din Alpii Albula și o destinație importantă pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Un vârf alpin situat în regiunea Grisons din estul Elveției.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Un vârf montan în Alpii Elvețieni, situat aproape de pasul Albula.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "A prominent mountain peak in the Albula Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "A mountain peak in the region around Piz d'Es-cha in the canton of Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "A mountain peak in the Albula Alps offering views over the Engadin valley.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "A high mountain peak in the canton of Grisons, popular with mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "A prominent rock needle in the Piz Kesch mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "The highest peak in the Albula Alps and a major destination for high-altitude mountaineering.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "An alpine peak located in the Grisons region of eastern Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "A mountain peak in the Swiss Alps located near the Albula Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz d'Es-cha V2", hu: "Piz d'Es-cha V2", ro: "Piz d'Es-cha V2", en: "Piz d'Es-cha V2" },
@@ -1533,7 +9705,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-es-v2-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-da-stretta-relief-v2",
+    id: "switzerland-piz-da-stretta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Ein Hochgebirgsgipfel in den Livigno-Alpen nahe dem Berninapass.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Dieser Berggipfel liegt an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Ein markanter Gipfel in Graubünden, der durch eine Seilbahn erschlossen und als Skigebiet bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Ein Berggipfel in der Engadiner Region, der Teil der alpinen Landschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Ein alpiner Gipfel in der Nähe von Pontresina in den Bündner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            },
+            {
+                  "name": "I Gessi",
+                  "text": "Ein Berggipfel in den Alpen, der für seine felsige Beschaffenheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.046091,
+                        46.42683
+                  ]
+            },
+            {
+                  "name": "Chantun",
+                  "text": "Ein Gipfel in der Schweizer Bergwelt, der Ziel für Bergsteiger ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.009832,
+                        46.4797
+                  ]
+            },
+            {
+                  "name": "Piz dals Lejs",
+                  "text": "Ein Berggipfel in der Nähe von Bergseen in der Region Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.038002,
+                        46.448274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Magashegyi csúcs a Livigno-Alpokban, a Bernina-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Ez a hegycsúcs Svájc és Olaszország határán fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Jellegzetes csúcs Graubündenben, amely felvonóval elérhető és síterepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Hegycsúcs az Engadin régióban, amely az alpesi táj részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Alpesi csúcs Pontresina közelében, a Graubündeni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            },
+            {
+                  "name": "I Gessi",
+                  "text": "Hegycsúcs az Alpokban, amely sziklás terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.046091,
+                        46.42683
+                  ]
+            },
+            {
+                  "name": "Chantun",
+                  "text": "Csúcs a svájci hegyekben, amely a hegymászók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        10.009832,
+                        46.4797
+                  ]
+            },
+            {
+                  "name": "Piz dals Lejs",
+                  "text": "Hegycsúcs hegyi tavak közelében, Graubünden régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.038002,
+                        46.448274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Un vârf muntos înalt în Alpii Livigno, lângă pasul Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Acest vârf muntos este situat la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Un vârf proeminent în Graubünden, accesibil prin telecabină și cunoscut ca zonă de schi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Un vârf montan în regiunea Engadina, făcând parte din peisajul alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Un vârf alpin lângă Pontresina, în Alpii din cantonul Grisons.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            },
+            {
+                  "name": "I Gessi",
+                  "text": "Un vârf montan în Alpi, cunoscut pentru terenul său stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        10.046091,
+                        46.42683
+                  ]
+            },
+            {
+                  "name": "Chantun",
+                  "text": "Un vârf în munții elvețieni, care este o destinație pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        10.009832,
+                        46.4797
+                  ]
+            },
+            {
+                  "name": "Piz dals Lejs",
+                  "text": "Un vârf montan situat lângă lacuri alpine în regiunea Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.038002,
+                        46.448274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Minor",
+                  "text": "A high mountain peak in the Livigno Alps located near the Bernina Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "This mountain peak is situated on the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "A prominent peak in Grisons, accessible by cable car and known as a skiing area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "A mountain peak in the Engadine region, forming part of the Alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "An alpine peak near Pontresina in the Grisons Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            },
+            {
+                  "name": "I Gessi",
+                  "text": "A mountain peak in the Alps known for its rocky terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        10.046091,
+                        46.42683
+                  ]
+            },
+            {
+                  "name": "Chantun",
+                  "text": "A peak in the Swiss mountains that is a destination for mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.009832,
+                        46.4797
+                  ]
+            },
+            {
+                  "name": "Piz dals Lejs",
+                  "text": "A mountain peak located near mountain lakes in the Grisons region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.038002,
+                        46.448274
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz da Stretta", hu: "Piz da Stretta", ro: "Piz da Stretta", en: "Piz da Stretta" },
@@ -1578,7 +10047,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-da-stretta-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-luch-relief-v2",
+    id: "switzerland-piz-d-la-luch-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Ein Gipfel in den Livigno-Alpen in der Nähe des Berninapasses.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Ein Gipfel in den Livigno-Alpen an der Grenze zwischen Italien und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Ein markanter Berg in den Livigno-Alpen, der für sein Skigebiet bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Alv",
+                  "text": "Ein Berggipfel in den Livigno-Alpen in der Nähe des Berninapasses.",
+                  "category": "landmark",
+                  "coords": [
+                        9.99955,
+                        46.44933
+                  ]
+            },
+            {
+                  "name": "Piz Sagliaint",
+                  "text": "Ein alpiner Berggipfel in der Region Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.000219,
+                        46.474964
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Ein Berggipfel in der Schweizer Gebirgslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz dal Fain",
+                  "text": "Ein Berggipfel in den Alpen bei Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.989227,
+                        46.470259
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Ein Berggipfel in der Umgebung von Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Hegycsúcs a Livigno-Alpokban, a Bernina-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Hegyi csúcs a Livigno-Alpokban, az olasz-svájci határon.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Hegycsúcs a Livigno-Alpokban, amely síterületéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Alv",
+                  "text": "Hegycsúcs a Livigno-Alpokban, a Bernina-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.99955,
+                        46.44933
+                  ]
+            },
+            {
+                  "name": "Piz Sagliaint",
+                  "text": "Alpesi hegycsúcs Piz dal Luch régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.000219,
+                        46.474964
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Hegycsúcs a svájci hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz dal Fain",
+                  "text": "Hegycsúcs az Alpokban, Piz dal Luch közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.989227,
+                        46.470259
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Hegycsúcs Piz dal Luch környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Minor",
+                  "text": "Un vârf muntos în Alpii Livigno, situat în apropierea pasului Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "Un vârf muntos din Alpii Livigno, situat la granița dintre Italia și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Un munte din Alpii Livigno, cunoscut pentru zona sa de schi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Alv",
+                  "text": "Un vârf muntos din Alpii Livigno, situat lângă pasul Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.99955,
+                        46.44933
+                  ]
+            },
+            {
+                  "name": "Piz Sagliaint",
+                  "text": "Un vârf muntos alpin din regiunea Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.000219,
+                        46.474964
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "Un vârf muntos din peisajul montan elvețian.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz dal Fain",
+                  "text": "Un vârf muntos din Alpii de lângă Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.989227,
+                        46.470259
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "Un vârf muntos din vecinătatea Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Minor",
+                  "text": "A mountain peak in the Livigno Alps located near the Bernina Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        10.028322,
+                        46.451111
+                  ]
+            },
+            {
+                  "name": "Monte Breva / Piz La Stretta",
+                  "text": "A mountain peak in the Livigno Alps on the border between Italy and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.044811,
+                        46.476756
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "A prominent mountain in the Livigno Alps, known for its ski area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            },
+            {
+                  "name": "Piz Alv",
+                  "text": "A mountain peak in the Livigno Alps near the Bernina Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        9.99955,
+                        46.44933
+                  ]
+            },
+            {
+                  "name": "Piz Sagliaint",
+                  "text": "An alpine mountain peak in the Piz dal Luch region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.000219,
+                        46.474964
+                  ]
+            },
+            {
+                  "name": "Piz Chatscheders",
+                  "text": "A mountain peak in the Swiss mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.016451,
+                        46.47798
+                  ]
+            },
+            {
+                  "name": "Piz dal Fain",
+                  "text": "A mountain peak in the Alps near Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        9.989227,
+                        46.470259
+                  ]
+            },
+            {
+                  "name": "Piz Tschüffer",
+                  "text": "A mountain peak in the vicinity of Piz dal Luch.",
+                  "category": "landmark",
+                  "coords": [
+                        10.001425,
+                        46.47234
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz dal Luch", hu: "Piz dal Luch", ro: "Piz dal Luch", en: "Piz dal Luch" },
@@ -1623,7 +10389,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-luch-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-drosa-v2-relief-v2",
+    id: "switzerland-piz-d-la-drosa-v2-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Ein markanter Berggipfel in den Lepontinischen Alpen im Kanton Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Scopi",
+                  "text": "Ein hoher Berggipfel in den Schweizer Alpen nahe dem Lukmanierpass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Ein felsiger Berggipfel in der Gotthard-Region der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Ein markanter Gipfel in den Lepontinischen Alpen der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Ein Gipfel in der Gebirgslandschaft des Kantons Tessin in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Ein Berggipfel in den Lepontinischen Alpen im Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pizzo del Corvo",
+                  "text": "Ein Berggipfel an der Grenze zwischen den Schweizer Kantonen Tessin und Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.833262,
+                        46.563423
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Ein alpiner Gipfel in der Leventina-Region des Kantons Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Jellegzetes hegycsúcs a Lepontini-Alpokban, Ticino kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Scopi",
+                  "text": "Magas hegycsúcs a Svájci-Alpokban, a Lukmanier-hágó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Sziklás hegycsúcs a Svájci-Alpok Gotthard-régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Jellegzetes csúcs a svájci Lepontini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Hegycsúcs Svájcban, Ticino kanton hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Hegycsúcs a Lepontini-Alpokban, Ticino területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pizzo del Corvo",
+                  "text": "Hegycsúcs Ticino és Graubünden kantonok határán, Svájcban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.833262,
+                        46.563423
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Alpesi hegycsúcs Ticino kanton Leventina régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Un vârf montan proeminent în Alpii Lepontini, în cantonul Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Scopi",
+                  "text": "Un vârf muntos înalt în Alpii Elvețieni, în apropierea pasului Lukmanier.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Un vârf muntos stâncos în regiunea Gotthard din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Un vârf proeminent situat în Alpii Lepontini din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Un vârf montan situat în peisajul alpin al cantonului Ticino, Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Un vârf montan în Alpii Lepontini, în regiunea Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pizzo del Corvo",
+                  "text": "Un vârf montan la granița dintre cantoanele elvețiene Ticino și Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.833262,
+                        46.563423
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Un vârf alpin în regiunea Leventina din cantonul Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A prominent mountain peak in the Lepontine Alps in the Canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Scopi",
+                  "text": "A high mountain peak in the Swiss Alps located near the Lukmanier Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "A rocky mountain peak located in the Gotthard region of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "A prominent peak situated in the Lepontine Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "A mountain peak located in the alpine landscape of the Canton of Ticino, Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "A mountain peak in the Lepontine Alps, within the Ticino region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pizzo del Corvo",
+                  "text": "A mountain peak on the border between the Swiss cantons of Ticino and Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.833262,
+                        46.563423
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "An alpine peak located in the Leventina region of the Canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa II", hu: "Piz della Drausa II", ro: "Piz della Drausa II", en: "Piz della Drausa II" },
@@ -1668,7 +10731,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-drosa-v2-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-s-charl-relief-v2",
+    id: "switzerland-piz-s-charl-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Ein historisches Silberbergwerk und Museum zur lokalen Bergbaugeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Történelmi ezüstbánya és múzeum, amely a helyi bányászat történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Piz S-charl régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schmelzra",
+                  "text": "O fostă mină de argint și muzeu care documentează istoria minieră locală.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Piz S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schmelzra",
+                  "text": "A historical silver mine and museum documenting local mining history.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "A majestic mountain peak offering panoramic views in the Piz S-charl region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl", hu: "Piz S-charl", ro: "Piz S-charl", en: "Piz S-charl" },
@@ -1713,7 +11073,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-s-charl-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-drosa-n-relief-v2",
+    id: "switzerland-piz-d-la-drosa-n-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Ein Berggipfel in den Lepontinischen Alpen, bekannt für seine sonnige Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Ein markanter Gipfel in der Region des Lukmanierpasses in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Ein Berggipfel in den Schweizer Alpen nahe der Grenze zwischen Tessin und Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Piz Rondadura",
+                  "text": "Ein Gipfel in der Adula-Gruppe, der Wanderer mit alpiner Landschaft anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        8.75077,
+                        46.576179
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Ein Alpengipfel in der Zentralschweiz mit Blick auf das umliegende Bergpanorama.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Ein hoher Berggipfel in der Tessiner Alpenwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            },
+            {
+                  "name": "Piz Scai",
+                  "text": "Ein Schweizer Berggipfel, der Teil der Lepontinischen Alpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.762322,
+                        46.574341
+                  ]
+            },
+            {
+                  "name": "Piz dalla Val",
+                  "text": "Ein Gipfel in der Gebirgsregion um den Piz della Drausa im Kanton Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.756137,
+                        46.590208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A Lepontini-Alpok egyik hegycsúcsa, amely napos fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Jellegzetes hegycsúcs a svájci Lukmanier-hágó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Hegycsúcs a Svájci-Alpokban, Ticino és Graubünden kantonok határának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Piz Rondadura",
+                  "text": "Az Adula-csoport egyik csúcsa, amely alpesi tájakkal vonzza a túrázókat.",
+                  "category": "landmark",
+                  "coords": [
+                        8.75077,
+                        46.576179
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Közép-svájci alpesi csúcs, ahonnan kilátás nyílik a környező hegyi panorámára.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Magas hegycsúcs a Ticinoi-Alpok világában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            },
+            {
+                  "name": "Piz Scai",
+                  "text": "Svájci hegycsúcs, amely a Lepontini-Alpok részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.762322,
+                        46.574341
+                  ]
+            },
+            {
+                  "name": "Piz dalla Val",
+                  "text": "Hegycsúcs Ticino kantonban, a Piz della Drausa környéki hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        8.756137,
+                        46.590208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Un vârf montan în Alpii Lepontini, cunoscut pentru poziția sa însorită.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Un vârf distinctiv în regiunea pasului Lukmanier din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Un vârf muntos în Alpii Elvețieni, situat lângă granița dintre cantoanele Ticino și Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Piz Rondadura",
+                  "text": "Un vârf din grupul Adula, care atrage turiștii cu peisajele sale alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        8.75077,
+                        46.576179
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Un vârf alpin din centrul Elveției, oferind vederi asupra panoramei montane înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Un vârf montan înalt în peisajul alpin din Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            },
+            {
+                  "name": "Piz Scai",
+                  "text": "Un vârf muntos elvețian care face parte din Alpii Lepontini.",
+                  "category": "landmark",
+                  "coords": [
+                        8.762322,
+                        46.574341
+                  ]
+            },
+            {
+                  "name": "Piz dalla Val",
+                  "text": "Un vârf în regiunea montană din jurul Piz della Drausa, în cantonul Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.756137,
+                        46.590208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A mountain peak in the Lepontine Alps, known for its sunny location.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "A distinctive mountain peak in the Lukmanier Pass region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "A mountain peak in the Swiss Alps near the border of Ticino and Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Piz Rondadura",
+                  "text": "A peak in the Adula group that attracts hikers with its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        8.75077,
+                        46.576179
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "An alpine peak in central Switzerland with views of the surrounding mountain panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "A high mountain peak in the Ticino alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            },
+            {
+                  "name": "Piz Scai",
+                  "text": "A Swiss mountain peak that is part of the Lepontine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.762322,
+                        46.574341
+                  ]
+            },
+            {
+                  "name": "Piz dalla Val",
+                  "text": "A peak in the mountain region around Piz della Drausa in the canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.756137,
+                        46.590208
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa Nord", hu: "Piz della Drausa Nord", ro: "Piz della Drausa Nord", en: "Piz della Drausa Nord" },
@@ -1758,7 +11415,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-drosa-n-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-terri-s-relief-v2",
+    id: "switzerland-piz-terri-s-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Cugn",
+                  "text": "Ein Berggipfel in den Schweizer Alpen südlich des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Ein Gipfel in der Gebirgsregion Piz Terri South in Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Ein Berg in der Nähe der Greina-Hochebene in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Ein Gipfel in der alpinen Landschaft südlich des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Ein Berggipfel in der Grenzregion der Kantone Graubünden und Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            },
+            {
+                  "name": "Piz da Stiarls",
+                  "text": "Ein Gipfel in den Adula-Alpen in der Nähe des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.981677,
+                        46.634167
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Ein Berg in der Nähe von Vrin in der Greina-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            },
+            {
+                  "name": "Piz Stgir",
+                  "text": "Ein Berggipfel in der bündnerischen Bergwelt südlich des Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.026515,
+                        46.63167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Cugn",
+                  "text": "Hegycsúcs a Svájci-Alpokban, a Piz Territől délre.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Hegycsúcs a Piz Terri South régióban, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Hegy a svájci Greina-fennsík közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Hegycsúcs az alpini tájon, a Piz Territől délre.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Hegycsúcs Graubünden és Ticino kantonok határvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            },
+            {
+                  "name": "Piz da Stiarls",
+                  "text": "Hegycsúcs az Adula-Alpokban, a Piz Terri közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.981677,
+                        46.634167
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Hegy Vrin közelében, a Greina-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            },
+            {
+                  "name": "Piz Stgir",
+                  "text": "Hegycsúcs a graubündeni hegyekben, a Piz Territől délre.",
+                  "category": "landmark",
+                  "coords": [
+                        9.026515,
+                        46.63167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Cugn",
+                  "text": "Un vârf montan în Alpii Elvețieni, la sud de Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Un vârf în regiunea montană Piz Terri South din Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Un munte situat în apropierea platoului Greina din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Un vârf în peisajul alpin la sud de Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "Un vârf montan la granița dintre cantoanele Graubünden și Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            },
+            {
+                  "name": "Piz da Stiarls",
+                  "text": "Un vârf în Alpii Adula, situat lângă Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.981677,
+                        46.634167
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Un munte situat lângă Vrin, în regiunea Greina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            },
+            {
+                  "name": "Piz Stgir",
+                  "text": "Un vârf montan în munții din Graubünden, la sud de Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.026515,
+                        46.63167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Cugn",
+                  "text": "A mountain peak in the Swiss Alps, south of Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "A peak in the Piz Terri South mountain region in Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "A mountain located near the Greina plateau in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "A peak in the alpine landscape south of Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz Miezdi",
+                  "text": "A mountain peak in the border region of Graubünden and Ticino cantons.",
+                  "category": "landmark",
+                  "coords": [
+                        8.987013,
+                        46.638802
+                  ]
+            },
+            {
+                  "name": "Piz da Stiarls",
+                  "text": "A peak in the Adula Alps, located near Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        8.981677,
+                        46.634167
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "A mountain near Vrin in the Greina region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            },
+            {
+                  "name": "Piz Stgir",
+                  "text": "A mountain peak in the Graubünden mountains south of Piz Terri.",
+                  "category": "landmark",
+                  "coords": [
+                        9.026515,
+                        46.63167
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri Süd", hu: "Piz Terri Süd", ro: "Piz Terri Süd", en: "Piz Terri South" },
@@ -1803,7 +11757,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-terri-s-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-medel-w-relief-v2",
+    id: "switzerland-piz-medel-w-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scopi",
+                  "text": "Der Scopi ist ein Gipfel in den Lepontinischen Alpen an der Grenze zwischen Graubünden und Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Die Cima di Garina ist ein Berggipfel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Die Cima della Bianca ist ein Gipfel in der Region Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Die Cima di Camadra ist ein Berggipfel in den Adula-Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Der Piz Cristallina ist ein Gipfel in den Lepontinischen Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Der Piz Miez ist ein Berggipfel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Der Piz Uffiern ist ein Berggipfel in der Region Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            },
+            {
+                  "name": "Piz Pian",
+                  "text": "Der Piz Pian ist ein Berggipfel in der Nähe des Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.876524,
+                        46.611538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scopi",
+                  "text": "A Scopi egy hegycsúcs a Lepontini-Alpokban, Graubünden és Tessin határán.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "A Cima di Garina egy hegycsúcs a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "A Cima della Bianca egy hegycsúcs a Piz Medel régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "A Cima di Camadra egy hegycsúcs a svájci Adula-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "A Piz Cristallina egy hegycsúcs a svájci Lepontini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "A Piz Miez egy hegycsúcs a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "A Piz Uffiern egy hegycsúcs a Piz Medel régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            },
+            {
+                  "name": "Piz Pian",
+                  "text": "A Piz Pian egy hegycsúcs a Piz Medel közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.876524,
+                        46.611538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scopi",
+                  "text": "Scopi este un vârf din Alpii Lepontini, situat la granița dintre Grisons și Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Cima di Garina este un vârf muntos din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Cima della Bianca este un vârf din regiunea Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Cima di Camadra este un vârf muntos din Alpii Adula, Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Piz Cristallina este un vârf din Alpii Lepontini, Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Piz Miez este un vârf muntos din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Piz Uffiern este un vârf muntos din regiunea Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            },
+            {
+                  "name": "Piz Pian",
+                  "text": "Piz Pian este un vârf muntos din apropiere de Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.876524,
+                        46.611538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scopi",
+                  "text": "Scopi is a peak in the Lepontine Alps on the border between Grisons and Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.829988,
+                        46.571701
+                  ]
+            },
+            {
+                  "name": "Cima di Garina",
+                  "text": "Cima di Garina is a mountain peak in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.903693,
+                        46.584121
+                  ]
+            },
+            {
+                  "name": "Cima della Bianca",
+                  "text": "Cima della Bianca is a peak in the Piz Medel region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.862948,
+                        46.573043
+                  ]
+            },
+            {
+                  "name": "Cima di Camadra",
+                  "text": "Cima di Camadra is a mountain peak in the Adula Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.906092,
+                        46.610001
+                  ]
+            },
+            {
+                  "name": "Piz Cristallina",
+                  "text": "Piz Cristallina is a peak in the Lepontine Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.882113,
+                        46.609757
+                  ]
+            },
+            {
+                  "name": "Piz Miez",
+                  "text": "Piz Miez is a mountain peak in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.831951,
+                        46.576457
+                  ]
+            },
+            {
+                  "name": "Piz Uffiern",
+                  "text": "Piz Uffiern is a mountain peak located in the Piz Medel region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.893561,
+                        46.609907
+                  ]
+            },
+            {
+                  "name": "Piz Pian",
+                  "text": "Piz Pian is a mountain peak situated near Piz Medel.",
+                  "category": "landmark",
+                  "coords": [
+                        8.876524,
+                        46.611538
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Medel West", hu: "Piz Medel West", ro: "Piz Medel West", en: "Piz Medel West" },
@@ -1848,7 +12099,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-medel-w-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-artgas-s-relief-v2",
+    id: "switzerland-piz-d-artgas-s-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Thusis mit Blick auf das Domleschg.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Eine gut erhaltene mittelalterliche Burg bei Sils im Domleschg, die heute als Jugendherberge genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Ein historisches Schloss in der Region Graubünden, das Teil der lokalen Verteidigungsanlagen war.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "Eine beeindruckende und tiefe Schlucht des Hinterrheins, die für ihre steilen Felswände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen, der Wanderern eine schöne Aussicht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Ein Alpengipfel in der Schweiz, der durch seine markante Form und die umliegende Bergwelt besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            },
+            {
+                  "name": "Rappakopf",
+                  "text": "Ein Berg im Kanton Graubünden, der für Trekkingtouren in einer alpinen Umgebung geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        9.412281,
+                        46.664692
+                  ]
+            },
+            {
+                  "name": "Corn l'Arsa",
+                  "text": "Ein Berggipfel in der Schweiz, der sich durch seine felsige Struktur und die Aussicht auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.43271,
+                        46.659715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Középkori várrom Thusis felett, kilátással a Domleschg völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Jó állapotban fennmaradt középkori vár Sils im Domleschg közelében, amely ma ifjúsági szállásként üzemel.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Történelmi kastély Graubünden régióban, amely a helyi védelmi rendszer része volt.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "A Hátsó-Rajna lenyűgöző és mély szorosa, amely meredek sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Jellegzetes hegycsúcs a Svájci-Alpokban, amely szép kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Alpesi csúcs Svájcban, amely jellegzetes formájával és a környező hegyvidékkel emelkedik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            },
+            {
+                  "name": "Rappakopf",
+                  "text": "Hegy Graubünden kantonban, amely kedvelt az alpesi környezetben tett túrák körében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.412281,
+                        46.664692
+                  ]
+            },
+            {
+                  "name": "Corn l'Arsa",
+                  "text": "Svájci hegycsúcs, amely sziklás szerkezetével és a panorámával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        9.43271,
+                        46.659715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "Ruina unui castel medieval deasupra localității Thusis, cu vedere spre valea Domleschg.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "Un castel medieval bine conservat lângă Sils im Domleschg, folosit astăzi ca hostel pentru tineret.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "Un castel istoric din regiunea Graubünden, care a făcut parte din sistemul local de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "Un defileu impresionant și adânc al Rinului Posterior, cunoscut pentru pereții săi stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "Un vârf montan distinctiv în Alpii Elvețieni, oferind drumeților o vedere frumoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "Un vârf alpin din Elveția, remarcabil prin forma sa distinctivă și peisajul montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            },
+            {
+                  "name": "Rappakopf",
+                  "text": "Un munte în cantonul Graubünden, apreciat pentru drumeții în mediul alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.412281,
+                        46.664692
+                  ]
+            },
+            {
+                  "name": "Corn l'Arsa",
+                  "text": "Un vârf montan în Elveția, caracterizat prin structura sa stâncoasă și vedere.",
+                  "category": "landmark",
+                  "coords": [
+                        9.43271,
+                        46.659715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Obertagstein",
+                  "text": "The ruins of a medieval hilltop castle above Thusis, overlooking the Domleschg valley.",
+                  "category": "castle",
+                  "coords": [
+                        9.427701,
+                        46.685074
+                  ]
+            },
+            {
+                  "name": "Burg Ehrenfels",
+                  "text": "A well-preserved medieval castle near Sils im Domleschg, now used as a youth hostel.",
+                  "category": "castle",
+                  "coords": [
+                        9.451791,
+                        46.696646
+                  ]
+            },
+            {
+                  "name": "Schloss Untertagstein",
+                  "text": "A historic castle in the Graubünden region, formerly part of the local defense system.",
+                  "category": "castle",
+                  "coords": [
+                        9.432322,
+                        46.704583
+                  ]
+            },
+            {
+                  "name": "Viamalaschlucht",
+                  "text": "An impressive and deep gorge of the Hinterrhein, known for its steep rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        9.447277,
+                        46.663048
+                  ]
+            },
+            {
+                  "name": "Zwölfihorn",
+                  "text": "A distinctive mountain peak in the Swiss Alps, offering hikers a beautiful view.",
+                  "category": "landmark",
+                  "coords": [
+                        9.39882,
+                        46.662038
+                  ]
+            },
+            {
+                  "name": "Eishorn",
+                  "text": "An Alpine peak in Switzerland, notable for its striking shape and surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        9.38366,
+                        46.656341
+                  ]
+            },
+            {
+                  "name": "Rappakopf",
+                  "text": "A mountain in the canton of Graubünden, valued for trekking in an alpine environment.",
+                  "category": "landmark",
+                  "coords": [
+                        9.412281,
+                        46.664692
+                  ]
+            },
+            {
+                  "name": "Corn l'Arsa",
+                  "text": "A mountain peak in Switzerland, characterized by its rocky structure and the view.",
+                  "category": "landmark",
+                  "coords": [
+                        9.43271,
+                        46.659715
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Artgas Süd", hu: "Piz d'Artgas Süd", ro: "Piz d'Artgas Süd", en: "Piz d'Artgas South" },
@@ -1893,7 +12441,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-artgas-s-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-s-charl-e-relief-v2",
+    id: "switzerland-piz-s-charl-e-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Ein Bergbaumuseum in S-charl, das die Geschichte der Erzgewinnung in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Ein markanter Berggipfel in den Unterengadiner Dolomiten in der Nähe von S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Schadler",
+                  "text": "Ein Alpengipfel im Sesvenna-Gebiet, der für Wanderer schöne Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409507,
+                        46.727357
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "Ein 3092 Meter hoher Berg in der Sesvennagruppe im Schweizer Kanton Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Ein beeindruckender Berggipfel im Val S-charl, Teil der Sesvenna-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Ein Gipfel in der Region S-charl, der Ziel für anspruchsvolle Bergtouren ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Ein Berggipfel in den Ostalpen an der Grenze zwischen der Schweiz und Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Ein markanter Gipfel in der Sesvennagruppe, der über dem Tal von S-charl thront.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Bányászati múzeum S-charlban, amely a régió ércbányászatának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Jellegzetes hegycsúcs az Alsó-Engadin-i Dolomitokban, S-charl közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Schadler",
+                  "text": "Alpesi csúcs a Sesvenna-csoportban, amely szép kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409507,
+                        46.727357
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "3092 méter magas hegycsúcs a Sesvenna-csoportban, a svájci Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Lenyűgöző hegycsúcs a Val S-charl völgyben, a Sesvenna-Alpok részre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Hegycsúcs S-charl környékén, amely népszerű célpont a tapasztalt túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Hegycsúcs a Keleti-Alpokban, a svájci-olasz határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Jellegzetes csúcs a Sesvenna-csoportban, amely S-charl völgye fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Un muzeu minier în S-charl, care documentează istoria extracției de minereu din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "Un vârf montan proeminent în Dolomiții Engadinei Inferioare, situat lângă S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Schadler",
+                  "text": "Un vârf alpin din masivul Sesvenna, oferind panorame spectaculoase pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409507,
+                        46.727357
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "Un munte cu înălțimea de 3092 de metri din grupul Sesvenna, în cantonul elvețian Grisun.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Un vârf montan impresionant în Val S-charl, făcând parte din Alpii Sesvenna.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Un vârf din regiunea S-charl, reprezentând o destinație pentru drumeții montane solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "Un vârf montan în Alpii Orientali, situat la granița dintre Elveția și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Un vârf proeminent din grupul Sesvenna, care domină valea S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schmelzra",
+                  "text": "A mining museum in S-charl documenting the history of ore extraction in the region.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Piz Rims",
+                  "text": "A prominent mountain peak in the Lower Engadine Dolomites near S-charl.",
+                  "category": "landmark",
+                  "coords": [
+                        10.399131,
+                        46.733348
+                  ]
+            },
+            {
+                  "name": "Schadler",
+                  "text": "An Alpine peak in the Sesvenna range offering scenic views for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.409507,
+                        46.727357
+                  ]
+            },
+            {
+                  "name": "Piz Cristanas",
+                  "text": "A 3092-meter mountain in the Sesvenna group, located in the Swiss canton of Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392752,
+                        46.734435
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "An impressive mountain peak in Val S-charl, part of the Sesvenna Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "A peak in the S-charl region, serving as a destination for challenging mountain tours.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Plazèr",
+                  "text": "A mountain peak in the Eastern Alps located near the border between Switzerland and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388185,
+                        46.708323
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "A prominent peak in the Sesvenna group towering over the S-charl valley.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl Ost", hu: "Piz S-charl Ost", ro: "Piz S-charl Ost", en: "Piz S-charl East" },
@@ -1938,7 +12783,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-s-charl-e-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-drosa-s-relief-v2",
+    id: "switzerland-piz-d-la-drosa-s-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Der Pizzo del Sole ist ein markanter Alpengipfel in den Lepontinischen Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Der Pizzo Colombe ist ein Berggipfel in den Schweizer Alpen, der für seine markante Form bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo di Campello",
+                  "text": "Ein Berggipfel im Schweizer Kanton Tessin mit Blick auf die umliegenden Täler.",
+                  "category": "landmark",
+                  "coords": [
+                        8.827033,
+                        46.516013
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Der Pizzo dell'Uomo ist ein Berggipfel im Gebiet des Gotthardmassivs in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Le Pipe ist ein Berggipfel in der alpinen Landschaft der Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Ein markanter Gipfel in der Zentralschweiz, der Teil der alpinen Bergkette ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Der Pécianett ist ein Alpengipfel im Schweizer Kanton Tessin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Ein Berggipfel in der Gebirgsregion der Lepontinischen Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A Pizzo del Sole egy jellegzetes hegycsúcs a svájci Lepontini-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "A Pizzo Colombe egy hegycsúcs a svájci Alpokban, amely jellegzetes alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo di Campello",
+                  "text": "Egy hegycsúcs a svájci Ticino kantonban, kilátással a környező völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.827033,
+                        46.516013
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "A Pizzo dell'Uomo egy hegycsúcs a svájci Gotthárd-masszívum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Le Pipe egy hegycsúcs a svájci Alpok alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Közép-Svájc egyik jellegzetes csúcsa, amely az alpesi hegylánc része.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "A Pécianett egy alpesi hegycsúcs a svájci Ticino kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Hegycsúcs a svájci Lepontini-Alpok hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Pizzo del Sole este un vârf muntos proeminent din Alpii Lepontini, Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Pizzo Colombe este un vârf muntos din Alpii elvețieni, cunoscut pentru forma sa distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo di Campello",
+                  "text": "Un vârf muntos din cantonul elvețian Ticino, cu vedere spre văile înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        8.827033,
+                        46.516013
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Pizzo dell'Uomo este un vârf muntos situat în zona Masivului Saint-Gothard din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Le Pipe este un vârf muntos în peisajul alpin al Alpilor elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Un vârf proeminent din Elveția Centrală, parte a lanțului muntos alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Pécianett este un vârf alpin din cantonul elvețian Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Un vârf muntos în regiunea muntoasă a Alpilor Lepontini din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Pizzo del Sole is a prominent mountain peak in the Lepontine Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Pizzo Colombe is a mountain peak in the Swiss Alps, known for its distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo di Campello",
+                  "text": "A mountain peak in the Swiss canton of Ticino, offering views of the surrounding valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        8.827033,
+                        46.516013
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Pizzo dell'Uomo is a mountain peak in the Saint-Gothard Massif area of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Le Pipe is a mountain peak in the alpine landscape of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "A prominent peak in Central Switzerland, part of the alpine mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Pécianett is an alpine peak in the Swiss canton of Ticino.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "A mountain peak in the mountainous region of the Lepontine Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa Süd", hu: "Piz della Drausa Süd", ro: "Piz della Drausa Süd", en: "Piz della Drausa South" },
@@ -1983,7 +13125,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-drosa-s-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-es-n-relief-v2",
+    id: "switzerland-piz-d-es-n-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Ein markanter Berggipfel in den Albula-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Ein Gipfel in der Schweizer Berglandschaft bei Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Ein Berggipfel in der Region Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Ein hoher Berggipfel in den Engadiner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Eine markante Felsformation in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Der höchste Gipfel der Albula-Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Ein Gipfel in der Umgebung des Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Ein Gebirgsgipfel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Az Albula-Alpok egyik markáns hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Hegycsúcs a svájci Alpokban, a Piz d'Es-cha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Hegycsúcs Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Magas hegycsúcs az Engadin-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "Jellegzetes sziklaképződmény a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "A svájci Albula-Alpok legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Hegycsúcs a Piz d'Es-cha környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Hegycsúcs a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "Un vârf montan proeminent din Alpii Albula.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "Un vârf în peisajul montan elvețian, lângă Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "Un vârf montan din regiunea Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "Un vârf montan înalt din Alpii Engadini.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "O formațiune stâncoasă distinctivă din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "Cel mai înalt vârf din Alpii Albula, în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "Un vârf montan în apropiere de Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "Un vârf montan în Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Blaisun",
+                  "text": "A prominent mountain peak in the Albula Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.862883,
+                        46.603189
+                  ]
+            },
+            {
+                  "name": "Pizzet",
+                  "text": "A peak in the Swiss mountain landscape near Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.927333,
+                        46.620268
+                  ]
+            },
+            {
+                  "name": "Piz Belvair",
+                  "text": "A mountain peak in the Graubünden region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919446,
+                        46.612079
+                  ]
+            },
+            {
+                  "name": "Piz Pischa",
+                  "text": "A high mountain peak in the Engadine Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.865498,
+                        46.614312
+                  ]
+            },
+            {
+                  "name": "Aguoglia d'Es-cha",
+                  "text": "A distinctive rock formation in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.879939,
+                        46.61977
+                  ]
+            },
+            {
+                  "name": "Piz Kesch",
+                  "text": "The highest peak of the Albula Alps in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.872788,
+                        46.621297
+                  ]
+            },
+            {
+                  "name": "Piz Viroula",
+                  "text": "A mountain peak in the vicinity of Piz d'Es-cha.",
+                  "category": "landmark",
+                  "coords": [
+                        9.909241,
+                        46.622423
+                  ]
+            },
+            {
+                  "name": "Piz Val Müra",
+                  "text": "A mountain peak in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.900929,
+                        46.627849
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Es-cha Nord", hu: "Piz d'Es-cha Nord", ro: "Piz d'Es-cha Nord", en: "Piz d'Es-cha North" },
@@ -2028,7 +13467,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-es-n-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-d-la-drosa-w-relief-v2",
+    id: "switzerland-piz-d-la-drosa-w-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Ein markanter Berggipfel in den Tessiner Alpen nahe der Grenze zu Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Ein Gipfel in der Region des Gotthardmassivs mit alpiner Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Ein hoher Berg im Gotthardgebiet, bekannt bei Wanderern und Alpinisten.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Eine markante Felsformation oder ein Berggipfel in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der für seine alpine Umgebung geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Ein markanter Berggipfel in der Region Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Ein alpiner Gipfel in der Nähe des Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Ein Bergvorsprung im Gebiet des Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Jellegzetes hegycsúcs a Ticinoi-Alpokban, a graubündeni határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Hegycsúcs a Gotthard-masszívum régiójában, alpesi tájjal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Magas hegy a Gotthard-vidéken, a túrázók és hegymászók körében ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "Jellegzetes sziklaformáció oder hegycsúcs a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Hegycsúcs a Svájci-Alpokban, amelyet alpesi környezete miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Egy jellegzetes hegycsúcs a Piz della Drausa West régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Egy alpesi hegycsúcs a Piz della Drausa West közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Egy hegycsúcs a Piz della Drausa West területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "Un vârf montan proeminent din Alpii Ticino, situat lângă granița cu Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "Un vârf din regiunea masivului Gotthard, cu un peisaj alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "Un munte înalt din zona Gotthard, cunoscut de drumeți și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "O formațiune stâncoasă proeminentă sau un vârf montan din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "Un vârf montan din Alpii Elvețieni, apreciat pentru cadrul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "Un vârf montan proeminent în regiunea Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "Un vârf alpin situat în apropiere de Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "Un vârf muntos în zona Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizzo del Sole",
+                  "text": "A prominent mountain peak in the Ticino Alps near the border with Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.767891,
+                        46.52507
+                  ]
+            },
+            {
+                  "name": "Pizzo Colombe",
+                  "text": "A peak in the Gotthard massif region featuring alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        8.772598,
+                        46.535893
+                  ]
+            },
+            {
+                  "name": "Pizzo dell'Uomo",
+                  "text": "A high mountain in the Gotthard area, known to hikers and mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        8.777162,
+                        46.544557
+                  ]
+            },
+            {
+                  "name": "Le Pipe",
+                  "text": "A prominent rock formation or mountain peak in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.771487,
+                        46.522103
+                  ]
+            },
+            {
+                  "name": "Pizzo d'Era",
+                  "text": "A mountain peak in the Swiss Alps valued for its alpine setting.",
+                  "category": "landmark",
+                  "coords": [
+                        8.812082,
+                        46.518788
+                  ]
+            },
+            {
+                  "name": "Pécianett",
+                  "text": "A prominent mountain peak located in the Piz della Drausa West region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.753934,
+                        46.524853
+                  ]
+            },
+            {
+                  "name": "Paré di Scut",
+                  "text": "An alpine peak situated near Piz della Drausa West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.789882,
+                        46.5259
+                  ]
+            },
+            {
+                  "name": "Toròi",
+                  "text": "A mountain peak in the Piz della Drausa West area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.803434,
+                        46.536522
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa West", hu: "Piz della Drausa West", ro: "Piz della Drausa West", en: "Piz della Drausa West" },
@@ -2073,7 +13809,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-d-la-drosa-w-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-terri-n-relief-v2",
+    id: "switzerland-piz-terri-n-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hireli",
+                  "text": "Ein Berggipfel in der Region Piz Terri Nord in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Schwarzhorn",
+                  "text": "Ein markanter Berggipfel in den Bündner Alpen, auch als Schwarzhorn bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Ein Berggipfel in der Schweizer Region Piz Terri Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Ein Alpengipfel in der Nähe von Piz Terri Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Ein Gipfel in der Greina-Hochebene in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Ein Berg im Gebiet des Piz Terri Nord in Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Ein Berggipfel in der Schweizer Gebirgslandschaft Piz Terri Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Ein Berggipfel oberhalb des Dorfes Vrin in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hireli",
+                  "text": "Egy hegycsúcs a svájci Alpokban, a Piz Terri Nord régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "Jellegzetes hegycsúcs a Graubündeni-Alpokban, más néven Schwarzhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Hegycsúcs a svájci Piz Terri Nord régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Alpesi hegycsúcs a Piz Terri Nord közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Egy csúcs a Greina-fennsíkon, a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Egy hegy a Piz Terri Nord területén, Graubünden kantonban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Hegycsúcs a svájci Piz Terri Nord hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Hegycsúcs Vrin falu felett a svájci Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hireli",
+                  "text": "Un vârf muntos din regiunea Piz Terri Nord, în Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "Un vârf montan proeminent în Alpii Graubünden, cunoscut și sub numele de Schwarzhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "Un vârf muntos în regiunea Piz Terri Nord din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "Un vârf alpin situat în apropiere de Piz Terri Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "Un vârf din platoul Greina, în Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "Un munte în zona Piz Terri Nord din Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "Un vârf muntos în peisajul montan elvețian Piz Terri Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "Un vârf muntos deasupra satului Vrin din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hireli",
+                  "text": "A mountain peak in the Piz Terri North region of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.017552,
+                        46.676692
+                  ]
+            },
+            {
+                  "name": "Piz Gren",
+                  "text": "A prominent mountain peak in the Graubünden Alps, also known as Schwarzhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.022762,
+                        46.677609
+                  ]
+            },
+            {
+                  "name": "Piz Cugn",
+                  "text": "A mountain peak in the Piz Terri North region of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015345,
+                        46.666513
+                  ]
+            },
+            {
+                  "name": "Piz Cavel",
+                  "text": "An alpine peak located near Piz Terri North.",
+                  "category": "landmark",
+                  "coords": [
+                        9.020058,
+                        46.655801
+                  ]
+            },
+            {
+                  "name": "Muot la Greina",
+                  "text": "A peak in the Greina plateau region of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.006572,
+                        46.630441
+                  ]
+            },
+            {
+                  "name": "Piz Ner",
+                  "text": "A mountain in the Piz Terri North area of Graubünden.",
+                  "category": "landmark",
+                  "coords": [
+                        9.025581,
+                        46.640752
+                  ]
+            },
+            {
+                  "name": "Piz las Palas",
+                  "text": "A mountain peak in the Swiss Piz Terri North mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        9.015052,
+                        46.642762
+                  ]
+            },
+            {
+                  "name": "Piz da Vrin",
+                  "text": "A mountain peak located above the village of Vrin in the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.060033,
+                        46.658451
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri Nord", hu: "Piz Terri Nord", ro: "Piz Terri Nord", en: "Piz Terri North" },
@@ -2118,7 +14151,304 @@ export const switzerlandReliefV2: POI[] = [
     image: "/poi-images/switzerland-piz-terri-n-relief-v2.webp",
   },
   {
-    id: "switzerland-piz-s-charl-w-relief-v2",
+    id: "switzerland-piz-s-charl-w-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Ein Bergbaumuseum in S-charl, das die Geschichte des lokalen Bergbaus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Mot Tavrü",
+                  "text": "Ein Berggipfel in der Region Piz S-charl West in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.306689,
+                        46.708175
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Ein Gipfel in der Gebirgsgruppe Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Ein Berggipfel in den Alpen bei Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Ein markanter Gipfel in der Umgebung von Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Ein Berg in der Region Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            },
+            {
+                  "name": "Piz d'Immez",
+                  "text": "Ein Alpengipfel in der Nähe von Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378706,
+                        46.743971
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadora",
+                  "text": "Ein Gipfel in den Schweizer Alpen bei Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.328354,
+                        46.760784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Bányászati múzeum S-charlban, amely a helyi bányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Mot Tavrü",
+                  "text": "Hegycsúcs a Piz S-charl West régióban, a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.306689,
+                        46.708175
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Hegycsúcs a Piz S-charl West hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Hegycsúcs az Alpokban, Piz S-charl West közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Jellegzetes hegycsúcs Piz S-charl West környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Hegycsúcs a Piz S-charl West régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            },
+            {
+                  "name": "Piz d'Immez",
+                  "text": "Alpesi hegycsúcs Piz S-charl West közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378706,
+                        46.743971
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadora",
+                  "text": "Hegycsúcs a Svájci-Alpokban, Piz S-charl Westnél.",
+                  "category": "landmark",
+                  "coords": [
+                        10.328354,
+                        46.760784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schmelzra",
+                  "text": "Un muzeu minier în S-charl, care documentează istoria exploatărilor miniere locale.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Mot Tavrü",
+                  "text": "Un vârf montan în regiunea Piz S-charl West din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        10.306689,
+                        46.708175
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "Un vârf în grupul montan Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "Un vârf montan în Alpi, lângă Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "Un vârf muntos în apropiere de Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "Un munte în regiunea Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            },
+            {
+                  "name": "Piz d'Immez",
+                  "text": "Un vârf alpin în apropiere de Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378706,
+                        46.743971
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadora",
+                  "text": "Un vârf în Alpii Elvețieni, lângă Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.328354,
+                        46.760784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schmelzra",
+                  "text": "A mining museum in S-charl documenting the history of local mining operations.",
+                  "category": "museum",
+                  "coords": [
+                        10.326215,
+                        46.717628
+                  ]
+            },
+            {
+                  "name": "Mot Tavrü",
+                  "text": "A mountain peak in the Piz S-charl West region of the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        10.306689,
+                        46.708175
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadaint",
+                  "text": "A mountain peak in the Piz S-charl West mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.340845,
+                        46.753674
+                  ]
+            },
+            {
+                  "name": "Mot Mezdi",
+                  "text": "A mountain peak in the Alps near Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.334817,
+                        46.702789
+                  ]
+            },
+            {
+                  "name": "Piz Madlain",
+                  "text": "A prominent mountain peak in the vicinity of Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.339145,
+                        46.739667
+                  ]
+            },
+            {
+                  "name": "Piz Cotschen",
+                  "text": "A mountain peak in the Piz S-charl West region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.353935,
+                        46.745368
+                  ]
+            },
+            {
+                  "name": "Piz d'Immez",
+                  "text": "An Alpine peak situated near Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378706,
+                        46.743971
+                  ]
+            },
+            {
+                  "name": "Piz San Jon Dadora",
+                  "text": "A peak in the Swiss Alps near Piz S-charl West.",
+                  "category": "landmark",
+                  "coords": [
+                        10.328354,
+                        46.760784
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl West", hu: "Piz S-charl West", ro: "Piz S-charl West", en: "Piz S-charl West" },

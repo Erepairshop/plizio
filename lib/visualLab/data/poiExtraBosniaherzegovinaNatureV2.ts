@@ -426,7 +426,52 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-prenj-mountain-nature-v2",
+    id: "bosniaherzegovina-prenj-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zelena glava",
+                  "text": "Der höchste Gipfel des Prenj-Gebirges in Bosnien und Herzegowina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.9038,
+                        43.549682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zelena glava",
+                  "text": "A Prenj-hegység legmagasabb csúcsa Bosznia-Hercegovinában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.9038,
+                        43.549682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zelena glava",
+                  "text": "Cel mai înalt vârf al masivului Prenj din Bosnia și Herțegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.9038,
+                        43.549682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zelena glava",
+                  "text": "The highest peak of the Prenj mountain range in Bosnia and Herzegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.9038,
+                        43.549682
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "mountain",
     name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj"},
@@ -473,7 +518,52 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-cvrsnica-mountain-nature-v2",
+    id: "bosniaherzegovina-cvrsnica-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pločno",
+                  "text": "Pločno ist der höchste Gipfel des Čvrsnica-Gebirges in Bosnien und Herzegowina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pločno",
+                  "text": "A Pločno a Čvrsnica-hegység legmagasabb csúcsa Bosznia-Hercegovinában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pločno",
+                  "text": "Pločno este cel mai înalt vârf din munții Čvrsnica, în Bosnia și Herțegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pločno",
+                  "text": "Pločno is the highest peak of the Čvrsnica mountain range in Bosnia and Herzegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "peak",
     name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica"},
@@ -520,7 +610,88 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-blidinje-lake-nature-v2",
+    id: "bosniaherzegovina-blidinje-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Blidinje",
+                  "text": "Ein Naturpark in Bosnien und Herzegowina, bekannt für seine alpine Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Stećci",
+                  "text": "Mittelalterliche Grabsteine, die zum UNESCO-Welterbe gehören.",
+                  "category": "historical",
+                  "coords": [
+                        17.472669,
+                        43.597554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Blidinje",
+                  "text": "Természetvédelmi terület Bosznia-Hercegovinában, amely alpesi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Stećci",
+                  "text": "Középkori sírkövek, amelyek az UNESCO Világörökség részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        17.472669,
+                        43.597554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Blidinje",
+                  "text": "Un parc natural în Bosnia și Herțegovina, cunoscut pentru peisajele sale alpine.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Stećci",
+                  "text": "Pietre funerare medievale care fac parte din patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        17.472669,
+                        43.597554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blidinje Nature Park",
+                  "text": "A nature park in Bosnia and Herzegovina, known for its alpine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Stećci",
+                  "text": "Medieval tombstones that are part of the UNESCO World Heritage.",
+                  "category": "historical",
+                  "coords": [
+                        17.472669,
+                        43.597554
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "lake",
     name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake"},
@@ -567,7 +738,124 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-boracko-lake-nature-v2",
+    id: "bosniaherzegovina-boracko-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stecak Lazi Drljaci",
+                  "text": "Ein mittelalterlicher Grabstein (Stećak) in der Nähe des Boračko-Sees in Bosnien und Herzegowina.",
+                  "category": "historical",
+                  "coords": [
+                        18.015688,
+                        43.57116
+                  ]
+            },
+            {
+                  "name": "Viseci most",
+                  "text": "Eine Hängebrücke beim Boračko-See, die als lokale Attraktion für Besucher dient.",
+                  "category": "landmark",
+                  "coords": [
+                        18.072165,
+                        43.533428
+                  ]
+            },
+            {
+                  "name": "Laziar Drljača's memorial stećak",
+                  "text": "Ein monumentaler Stećak-Grabstein am Boračko-See, der dem Maler Lazar Drljača gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.016717,
+                        43.571026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stecak Lazi Drljaci",
+                  "text": "Egy középkori sírkő (stećak) a Boračko-tó közelében, Bosznia-Hercegovinában.",
+                  "category": "historical",
+                  "coords": [
+                        18.015688,
+                        43.57116
+                  ]
+            },
+            {
+                  "name": "Viseci most",
+                  "text": "Függőhíd a Boračko-tónál, amely helyi látványosságként szolgál a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        18.072165,
+                        43.533428
+                  ]
+            },
+            {
+                  "name": "Laziar Drljača's memorial stećak",
+                  "text": "Egy monumentális stećak sírkő a Boračko-tónál, amelyet Lazar Drljača festőművész emlékére állítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        18.016717,
+                        43.571026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stecak Lazi Drljaci",
+                  "text": "O piatră funerară medievală (stećak) situată lângă lacul Boračko din Bosnia și Herțegovina.",
+                  "category": "historical",
+                  "coords": [
+                        18.015688,
+                        43.57116
+                  ]
+            },
+            {
+                  "name": "Viseci most",
+                  "text": "Un pod suspendat lângă lacul Boračko, care servește drept atracție locală pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        18.072165,
+                        43.533428
+                  ]
+            },
+            {
+                  "name": "Laziar Drljača's memorial stećak",
+                  "text": "O piatră funerară monumentală de tip stećak la lacul Boračko, dedicată pictorului Lazar Drljača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.016717,
+                        43.571026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stecak Lazi Drljaci",
+                  "text": "A medieval tombstone (stećak) located near Boračko Lake in Bosnia and Herzegovina.",
+                  "category": "historical",
+                  "coords": [
+                        18.015688,
+                        43.57116
+                  ]
+            },
+            {
+                  "name": "Hanging bridge",
+                  "text": "A hanging bridge near Boračko Lake that serves as a local attraction for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        18.072165,
+                        43.533428
+                  ]
+            },
+            {
+                  "name": "Laziar Drljača's memorial stećak",
+                  "text": "A monumental stećak tombstone at Boračko Lake dedicated to the painter Lazar Drljača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.016717,
+                        43.571026
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "lake",
     name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake"},
@@ -755,7 +1043,196 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-zelengora-mountain-nature-v2",
+    id: "bosniaherzegovina-zelengora-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bregoč",
+                  "text": "Der höchste Gipfel des Zelengora-Gebirges in Bosnien und Herzegowina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Bijelo jezero",
+                  "text": "Ein Aussichtspunkt an einem malerischen Bergsee in der Zelengora.",
+                  "category": "natural",
+                  "coords": [
+                        18.589699,
+                        43.378849
+                  ]
+            },
+            {
+                  "name": "Crno Jezero",
+                  "text": "Ein schöner Aussichtsort am Schwarzen See im Zelengora-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        18.583204,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Spomenik 4. crnogorske brigade",
+                  "text": "Ein Denkmal zur Erinnerung an die Partisanenkämpfe im Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        18.597323,
+                        43.376798
+                  ]
+            },
+            {
+                  "name": "Stara žandarmerijska utvrda",
+                  "text": "Überreste einer historischen Befestigung der Gendarmerie in den Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        18.59409,
+                        43.376246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bregoč",
+                  "text": "A Zelengora-hegység legmagasabb csúcsa Bosznia-Hercegovinában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Bijelo jezero",
+                  "text": "Kilátópont egy festői hegyi tónál a Zelengora-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        18.589699,
+                        43.378849
+                  ]
+            },
+            {
+                  "name": "Crno Jezero",
+                  "text": "Szép kilátóhely a Fekete-tónál a Zelengora Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.583204,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Spomenik 4. crnogorske brigade",
+                  "text": "Emlékmű a második világháborús partizánharcok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        18.597323,
+                        43.376798
+                  ]
+            },
+            {
+                  "name": "Stara žandarmerijska utvrda",
+                  "text": "Egy történelmi csendőrségi erődítmény maradványai a hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        18.59409,
+                        43.376246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bregoč",
+                  "text": "Cel mai înalt vârf al munților Zelengora din Bosnia și Herțegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Bijelo jezero",
+                  "text": "Un punct de belvedere lângă un lac montan pitoresc în Zelengora.",
+                  "category": "natural",
+                  "coords": [
+                        18.589699,
+                        43.378849
+                  ]
+            },
+            {
+                  "name": "Crno Jezero",
+                  "text": "Un loc frumos de belvedere la Lacul Negru din Parcul Național Zelengora.",
+                  "category": "natural",
+                  "coords": [
+                        18.583204,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Spomenik 4. crnogorske brigade",
+                  "text": "Un monument dedicat luptelor de partizani din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        18.597323,
+                        43.376798
+                  ]
+            },
+            {
+                  "name": "Stara žandarmerijska utvrda",
+                  "text": "Rămășițele unei fortificații istorice a jandarmeriei în munți.",
+                  "category": "historical",
+                  "coords": [
+                        18.59409,
+                        43.376246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bregoč",
+                  "text": "The highest peak of the Zelengora mountains in Bosnia and Herzegovina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567833,
+                        43.35462
+                  ]
+            },
+            {
+                  "name": "Bijelo jezero",
+                  "text": "A viewpoint by a picturesque mountain lake in the Zelengora.",
+                  "category": "natural",
+                  "coords": [
+                        18.589699,
+                        43.378849
+                  ]
+            },
+            {
+                  "name": "Crno Jezero",
+                  "text": "A beautiful viewpoint at the Black Lake in the Zelengora National Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.583204,
+                        43.386654
+                  ]
+            },
+            {
+                  "name": "Spomenik 4. crnogorske brigade",
+                  "text": "A monument commemorating the partisan battles during WWII.",
+                  "category": "historical",
+                  "coords": [
+                        18.597323,
+                        43.376798
+                  ]
+            },
+            {
+                  "name": "Stara žandarmerijska utvrda",
+                  "text": "Remains of a historic gendarmerie fortification in the mountains.",
+                  "category": "historical",
+                  "coords": [
+                        18.59409,
+                        43.376246
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "mountain",
     name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora"},
@@ -802,7 +1279,88 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-tara-river-nature-v2",
+    id: "bosniaherzegovina-tara-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stećci",
+                  "text": "Mittelalterliche Grabsteine (Stećci), die zum UNESCO-Welterbe gehören und im Tara-Gebiet zu finden sind.",
+                  "category": "historical",
+                  "coords": [
+                        18.857318,
+                        43.341672
+                  ]
+            },
+            {
+                  "name": "Soko",
+                  "text": "Ein Berggipfel im Tara-Nationalpark, bekannt für seine weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        18.873356,
+                        43.331118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stećci",
+                  "text": "Középkori sírkövek (Stećci) a Tara-vidéken, amelyek az UNESCO Világörökség részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        18.857318,
+                        43.341672
+                  ]
+            },
+            {
+                  "name": "Soko",
+                  "text": "Hegycsúcs a Tara Nemzeti Parkban, amely széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.873356,
+                        43.331118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stećci",
+                  "text": "Pietre funerare medievale (Stećci) din regiunea Tara, incluse în patrimoniul mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        18.857318,
+                        43.341672
+                  ]
+            },
+            {
+                  "name": "Soko",
+                  "text": "Un vârf montan din Parcul Național Tara, cunoscut pentru vederile panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.873356,
+                        43.331118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stećci",
+                  "text": "Medieval tombstones (Stećci) located in the Tara region, part of the UNESCO World Heritage.",
+                  "category": "historical",
+                  "coords": [
+                        18.857318,
+                        43.341672
+                  ]
+            },
+            {
+                  "name": "Soko",
+                  "text": "A mountain peak in the Tara National Park, known for its panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        18.873356,
+                        43.331118
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "river",
     name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara"},
@@ -1034,7 +1592,124 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-bliha-waterfall-nature-v2",
+    id: "bosniaherzegovina-bliha-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Stari Grad",
+                  "text": "Ruinen einer mittelalterlichen Festung in der Nähe des malerischen Bliha-Wasserfalls in Bosnien und Herzegowina.",
+                  "category": "historical",
+                  "coords": [
+                        16.563078,
+                        44.779707
+                  ]
+            },
+            {
+                  "name": "Spomenik turskim šehidima",
+                  "text": "Ein Gedenkmonument für türkische Märtyrer in der Nähe des Bliha-Wasserfalls.",
+                  "category": "historical",
+                  "coords": [
+                        16.569446,
+                        44.783085
+                  ]
+            },
+            {
+                  "name": "Fatihova Musalla",
+                  "text": "Eine historische Freiluft-Gebetsstätte in Kamengrad, die traditionell mit Sultan Mehmed dem Eroberer in Verbindung gebracht wird.",
+                  "category": "religious",
+                  "coords": [
+                        16.571875,
+                        44.785581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Stari Grad",
+                  "text": "Középkori erőd romjai a látványos Bliha-vízesés közelében Bosznia-Hercegovinában.",
+                  "category": "historical",
+                  "coords": [
+                        16.563078,
+                        44.779707
+                  ]
+            },
+            {
+                  "name": "Spomenik turskim šehidima",
+                  "text": "A török mártíroknak szentelt emlékmű a Bliha-vízesés közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.569446,
+                        44.783085
+                  ]
+            },
+            {
+                  "name": "Fatihova Musalla",
+                  "text": "Történelmi szabadtéri imádkozóhely Kamengradban, amelyet a hagyomány szerint Fatih Mehmed szultánnal hoznak összefüggésbe.",
+                  "category": "religious",
+                  "coords": [
+                        16.571875,
+                        44.785581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Stari Grad",
+                  "text": "Ruinele unei cetăți medievale situate lângă zona pitorească a cascadei Bliha din Bosnia și Herțegovina.",
+                  "category": "historical",
+                  "coords": [
+                        16.563078,
+                        44.779707
+                  ]
+            },
+            {
+                  "name": "Spomenik turskim šehidima",
+                  "text": "Un monument comemorativ dedicat martirilor turci, situat în apropierea cascadei Bliha.",
+                  "category": "historical",
+                  "coords": [
+                        16.569446,
+                        44.783085
+                  ]
+            },
+            {
+                  "name": "Fatihova Musalla",
+                  "text": "Un sit istoric de rugăciune în aer liber în Kamengrad, asociat tradițional cu sultanul Mehmed Cuceritorul.",
+                  "category": "religious",
+                  "coords": [
+                        16.571875,
+                        44.785581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tvrđava Stari Grad",
+                  "text": "Ruins of a medieval fortress located near the scenic Bliha Waterfall area in Bosnia and Herzegovina.",
+                  "category": "historical",
+                  "coords": [
+                        16.563078,
+                        44.779707
+                  ]
+            },
+            {
+                  "name": "Spomenik turskim šehidima",
+                  "text": "A commemorative monument dedicated to Turkish martyrs, located in the vicinity of the Bliha Waterfall.",
+                  "category": "historical",
+                  "coords": [
+                        16.569446,
+                        44.783085
+                  ]
+            },
+            {
+                  "name": "Fatihova Musalla",
+                  "text": "A historic open-air prayer site in Kamengrad, traditionally associated with Sultan Mehmed the Conqueror.",
+                  "category": "religious",
+                  "coords": [
+                        16.571875,
+                        44.785581
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "river",
     name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall"},
@@ -1124,7 +1799,160 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-martin-brod-nature-v2",
+    id: "bosniaherzegovina-martin-brod-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manastir Rmanj",
+                  "text": "Ein serbisch-orthodoxes Kloster aus dem 15. Jahrhundert, gelegen an der Mündung der Unac in die Una.",
+                  "category": "religious",
+                  "coords": [
+                        16.143524,
+                        44.492696
+                  ]
+            },
+            {
+                  "name": "Bučnica",
+                  "text": "Ein traditionelles wasserbetriebenes Waschsystem für Textilien, das in dieser Region noch heute genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        16.144674,
+                        44.487636
+                  ]
+            },
+            {
+                  "name": "Pogledalo",
+                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf die Wasserfälle von Martin Brod bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.151157,
+                        44.495945
+                  ]
+            },
+            {
+                  "name": "Vijadukt Jarapaga",
+                  "text": "Ein Eisenbahnviadukt, das die Schlucht der Una überquert und Teil der Una-Bahn ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.125661,
+                        44.509453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manastir Rmanj",
+                  "text": "15. századi szerb ortodox kolostor az Unac és az Una folyók összefolyásánál.",
+                  "category": "religious",
+                  "coords": [
+                        16.143524,
+                        44.492696
+                  ]
+            },
+            {
+                  "name": "Bučnica",
+                  "text": "Hagyományos, vízenergiával működő textilmosó rendszer, amelyet ma is használnak a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.144674,
+                        44.487636
+                  ]
+            },
+            {
+                  "name": "Pogledalo",
+                  "text": "Kilátópont, amely látványos panorámát nyújt a Martin Brod-i vízesésekre.",
+                  "category": "natural",
+                  "coords": [
+                        16.151157,
+                        44.495945
+                  ]
+            },
+            {
+                  "name": "Vijadukt Jarapaga",
+                  "text": "Vasúti viadukt, amely az Una folyó kanyonja felett ível át az Una-vasútvonal részeként.",
+                  "category": "landmark",
+                  "coords": [
+                        16.125661,
+                        44.509453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manastir Rmanj",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XV-lea, situată la confluența râurilor Unac și Una.",
+                  "category": "religious",
+                  "coords": [
+                        16.143524,
+                        44.492696
+                  ]
+            },
+            {
+                  "name": "Bučnica",
+                  "text": "Un sistem tradițional de spălare a textilelor acționat de apă, care este încă folosit în această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        16.144674,
+                        44.487636
+                  ]
+            },
+            {
+                  "name": "Pogledalo",
+                  "text": "Un punct de observație care oferă o vedere spectaculoasă asupra cascadelor de la Martin Brod.",
+                  "category": "natural",
+                  "coords": [
+                        16.151157,
+                        44.495945
+                  ]
+            },
+            {
+                  "name": "Vijadukt Jarapaga",
+                  "text": "Un viaduct feroviar care traversează canionul râului Una, făcând parte din calea ferată Una.",
+                  "category": "landmark",
+                  "coords": [
+                        16.125661,
+                        44.509453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastir Rmanj",
+                  "text": "A 15th-century Serbian Orthodox monastery located at the confluence of the Unac and Una rivers.",
+                  "category": "religious",
+                  "coords": [
+                        16.143524,
+                        44.492696
+                  ]
+            },
+            {
+                  "name": "Bučnica",
+                  "text": "A traditional water-powered textile washing system that is still used in this region today.",
+                  "category": "landmark",
+                  "coords": [
+                        16.144674,
+                        44.487636
+                  ]
+            },
+            {
+                  "name": "Pogledalo",
+                  "text": "A viewpoint offering a spectacular panoramic view of the Martin Brod waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        16.151157,
+                        44.495945
+                  ]
+            },
+            {
+                  "name": "Vijadukt Jarapaga",
+                  "text": "A railway viaduct crossing the Una river canyon, part of the Una railway line.",
+                  "category": "landmark",
+                  "coords": [
+                        16.125661,
+                        44.509453
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "park",
     name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls"},
@@ -1301,7 +2129,88 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       fr: ["Le littoral de Neum mesure au total environ 21,2 kilomètres.", "Neum est la seule localité côtière de Bosnie-Herzégovine.", "L'accès à la mer a été fixé en 1699 par le traité de Karlowitz.", "La péninsule de Klek abrite la baie de Neum de la haute mer.", "La région enregistre plus de 2 600 heures d'ensoleillement par an.", "La distance jusqu'à la ville croate de Dubrovnik est d'environ 65 kilomètres."],
     },
   },
-  {id: "bosniaherzegovina-krivaja-river-nature-v2",
+  {id: "bosniaherzegovina-krivaja-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "Ein geschütztes Naturgebiet am Fluss Krivaja, das für seine Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.577743,
+                        44.29124
+                  ]
+            },
+            {
+                  "name": "Konjuh",
+                  "text": "Ein Gebirgszug und Gipfel in Bosnien und Herzegowina, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545772,
+                        44.301593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "Védett természeti terület a Krivaja-folyó mentén, amely gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.577743,
+                        44.29124
+                  ]
+            },
+            {
+                  "name": "Konjuh",
+                  "text": "Hegység és hegycsúcs Bosznia-Hercegovinában, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545772,
+                        44.301593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zaštićeni pejzaž „Konjuh“",
+                  "text": "O zonă naturală protejată de-a lungul râului Krivaja, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        18.577743,
+                        44.29124
+                  ]
+            },
+            {
+                  "name": "Konjuh",
+                  "text": "Un masiv muntos și vârf în Bosnia și Herțegovina, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545772,
+                        44.301593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Protected Landscape Konjuh",
+                  "text": "A protected natural area along the Krivaja River, known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        18.577743,
+                        44.29124
+                  ]
+            },
+            {
+                  "name": "Konjuh",
+                  "text": "A mountain range and peak in Bosnia and Herzegovina, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545772,
+                        44.301593
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "river",
     name: { de: "Krivaja", hu: "Krivaja", ro: "Râul Krivaja", en: "Krivaja River"},

@@ -2102,7 +2102,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["Walmark Sfântu Gheorghe fait partie du groupe mondial STADA.", "L'usine produit une large gamme de vitamines et de compléments.", "La production suit les normes strictes GMP (Bonnes Pratiques de Fabrication).", "Walmark est l'une des marques de compléments les plus connues en Roumanie.", "Le site est un employeur important dans la région de Covasna.", "Les produits sont exportés vers de nombreux pays européens.", "Des millions de comprimés et capsules sont fabriqués chaque année à Sfântu Gheorghe.", "Walmark encourage un mode de vie sain par des campagnes d'information."],
     }, image: "/poi-images/industry-walmark-cv-extra.webp"},
   {
-    id: "industry-romaqua-hr-extra",
+    id: "industry-romaqua-hr-extra", "sights": {
+      "de": [
+            {
+                  "name": "Dobreanu borvízmocsár, tőzegláp",
+                  "text": "Ein geschütztes Torfmoor und Sumpfgebiet in der Nähe der Mineralquellen von Borsec.",
+                  "category": "natural",
+                  "coords": [
+                        25.478088,
+                        47.078422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dobreanu borvízmocsár, tőzegláp",
+                  "text": "Védett tőzegláp és mocsaras terület Borszék ásványvizes forrásainak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.478088,
+                        47.078422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dobreanu borvízmocsár, tőzegláp",
+                  "text": "O mlaștină de borviz și turbărie protejată, situată în apropierea izvoarelor din Borsec.",
+                  "category": "natural",
+                  "coords": [
+                        25.478088,
+                        47.078422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dobreanu borvízmocsár, tőzegláp",
+                  "text": "A protected peat bog and mineral water marsh area near the springs of Borsec.",
+                  "category": "natural",
+                  "coords": [
+                        25.478088,
+                        47.078422
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RO-HR",
     coords: [25.51, 47.05],
@@ -3284,7 +3329,124 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le zoo de Craiova se trouve dans le monumental parc Nicolae Romanescu.", "Ce parc a été conçu au début du XXe siècle par un architecte français.", "C'est l'un des rares zoos de Roumanie à posséder une ambiance historique.", "Le site abrite une grande variété d'oiseaux aquatiques sur les lacs du parc.", "Les visiteurs peuvent voir des espèces rares dans un environnement très vaste.", "L'entrée pour le public est généralement libre d'accès.", "À proximité se trouve un célèbre pont suspendu, emblème de la ville.", "Le zoo est une destination prisée des photographes et des amoureux de la nature à Craiova."],
     }, image: "/poi-images/animal-habitat-craiova-zoo-extra.webp"},
   {
-    id: "kid-landmark-garboavele-extra",
+    id: "kid-landmark-garboavele-extra", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Muzeală",
+                  "text": "Eine Museumssammlung im Abenteuerpark Gârboavele, die lokales Erbe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.98758,
+                        45.550923
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Ein zoologischer Garten im Waldgebiet Gârboavele bei Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.010093,
+                        45.564683
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Ein Kulturzentrum im Freizeitpark Gârboavele für künstlerische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        28.014899,
+                        45.531745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Muzeală",
+                  "text": "Múzeumi gyűjtemény a Gârboavele Kalandparkban, amely a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.98758,
+                        45.550923
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Állatkert a Galați melletti Gârboavele erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        28.010093,
+                        45.564683
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Művelődési ház a Gârboavele szabadidőparkban művészeti tevékenységek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        28.014899,
+                        45.531745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Muzeală",
+                  "text": "O colecție muzeală în Parcul de Aventură Gârboavele, prezentând patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        27.98758,
+                        45.550923
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "O grădină zoologică situată în pădurea Gârboavele de lângă Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.010093,
+                        45.564683
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "O casă de cultură în parcul de agrement Gârboavele pentru activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        28.014899,
+                        45.531745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colecția Muzeală",
+                  "text": "A museum collection in the Gârboavele Adventure Park showcasing local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        27.98758,
+                        45.550923
+                  ]
+            },
+            {
+                  "name": "Zoological Garden",
+                  "text": "A zoological garden located in the Gârboavele forest near Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.010093,
+                        45.564683
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "An arts centre in the Gârboavele recreation park for artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        28.014899,
+                        45.531745
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "RO-GL",
     coords: [28.02, 45.55],
@@ -3641,7 +3803,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["Aqua Magic fut le premier grand parc aquatique ouvert en Roumanie.", "Le parc propose plus de 20 attractions aquatiques pour tous les âges.", "La surface d'eau totale s'étend sur plusieurs milliers de mètres carrés.", "En haute saison, des programmes d'animation professionnels ont lieu chaque jour.", "Des zones spéciales pour enfants avec de l'eau peu profonde sont aménagées.", "L'offre gastronomique est variée, allant du fast-food aux cocktails.", "Des agents de sécurité et des sauveteurs surveillent toutes les zones en permanence.", "Le parc fait partie intégrante de la stratégie touristique de Mamaia."],
     }, image: "/poi-images/kid-landmark-aqua-magic-ct-extra.webp"},
   {
-    id: "kid-landmark-arka-park-sb-extra",
+    id: "kid-landmark-arka-park-sb-extra", "sights": {
+      "de": [
+            {
+                  "name": "Turnul Oncești",
+                  "text": "Ein markantes Gebäude im Arka Park Păltiniș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.945972,
+                        45.642285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turnul Oncești",
+                  "text": "Egy jellegzetes épület az Arka Park Păltiniș területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.945972,
+                        45.642285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turnul Oncești",
+                  "text": "O clădire distinctivă situată în Arka Park Păltiniș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.945972,
+                        45.642285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turnul Oncești",
+                  "text": "A distinctive building located in Arka Park Păltiniș.",
+                  "category": "landmark",
+                  "coords": [
+                        23.945972,
+                        45.642285
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "RO-SB",
     coords: [23.94, 45.65],
@@ -3903,7 +4110,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le Trotuș prend sa source dans les monts Ciuc, dans les Carpates orientales.", "La vallée fut le théâtre de combats acharnés pendant la Première Guerre mondiale (plaine d'Oituz).", "Des villes industrielles importantes comme Onești et Comănești sont situées sur le Trotuș.", "La rivière est connue pour ses populations de truites dans son cours supérieur.", "Près de la rivière se trouve la célèbre mine de sel de Târgu Ocna.", "Le Trotuș se jette dans le Siret après environ 160 kilomètres.", "La vallée est un itinéraire important pour la liaison ferroviaire vers la Transylvanie.", "De nombreuses sources d'eau minérale jaillissent à proximité du lit de la rivière."],
     }, image: "/poi-images/river-trotus-extra.webp"},
   {
-    id: "river-putna-extra",
+    id: "river-putna-extra", "sights": {
+      "de": [
+            {
+                  "name": "Cascada Putnei",
+                  "text": "Ein malerischer Wasserfall am Fluss Putna, der als Touristenattraktion bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada Putnei",
+                  "text": "Festői vízesés a Putna-folyón, amely népszerű turisztikai látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada Putnei",
+                  "text": "O cascadă pitorească pe râul Putna, cunoscută ca atracție turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada Putnei",
+                  "text": "A picturesque waterfall on the Putna River, known as a tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        26.598711,
+                        45.929667
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "RO-VN",
     coords: [26.60, 45.90],
@@ -4056,7 +4308,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["L'Ialomița a une longueur totale d'environ 417 kilomètres.", "Sur son cours supérieur se trouve la célèbre grotte d'Ialomița et son monastère.", "La rivière est la principale source d'eau du județ d'Ialomița.", "Dans l'Antiquité, la rivière était connue sous le nom de 'Naparis'.", "L'Ialomița traverse le Bărăgan, la région la plus sèche de Roumanie.", "On trouve sur ses berges d'importants vestiges archéologiques des Géto-Daces.", "La rivière forme de nombreux méandres et bras morts dans la plaine.", "L'Ialomița joue un rôle central dans la littérature et le folklore roumains."],
     }, image: "/poi-images/river-ialomita-extra.webp"},
   {
-    id: "lake-mostistea-extra",
+    id: "lake-mostistea-extra", "sights": {
+      "de": [
+            {
+                  "name": "Așezare",
+                  "text": "Eine archäologische Ausgrabungsstätte einer antiken Siedlung am Mostiștea-See.",
+                  "category": "historical",
+                  "coords": [
+                        26.888783,
+                        44.236771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Așezare",
+                  "text": "Egy ősi település régészeti lelőhelye a Mostiștea-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        26.888783,
+                        44.236771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Așezare",
+                  "text": "Un sit arheologic al unei așezări antice situat lângă lacul Mostiștea.",
+                  "category": "historical",
+                  "coords": [
+                        26.888783,
+                        44.236771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Așezare",
+                  "text": "An archaeological site of an ancient settlement located near Mostiștea Lake.",
+                  "category": "historical",
+                  "coords": [
+                        26.888783,
+                        44.236771
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RO-CL",
     coords: [26.85, 44.25],
@@ -4209,7 +4506,160 @@ export const poiExtraRo2: POI[] = [
       fr: ["Techirghiol est le lac le plus salé de Roumanie avec une forte concentration minérale.", "La boue sapropélique noire du lac est certifiée internationalement pour ses vertus curatives.", "Le lac se trouve à seulement quelques centaines de mètres de la mer Noire.", "Les traitements curatifs à Techirghiol ont une tradition qui remonte au XIXe siècle.", "Grâce à la forte densité de l'eau, les baigneurs ne peuvent pratiquement pas couler.", "Le lac est une zone protégée pour les oiseaux aquatiques rares qui trouvent leur nourriture dans l'eau salée.", "Les dépôts de boue au fond du lac mettent des millénaires à se former.", "Sur la rive se trouvent le célèbre sanatorium et le monastère Sainte-Marie."],
     }, image: "/poi-images/lake-techirghiol-extra.webp"},
   {
-    id: "mountain-semenic-extra",
+    id: "mountain-semenic-extra", "sights": {
+      "de": [
+            {
+                  "name": "Piatra Gozna",
+                  "text": "Ein markanter Berggipfel im Semenic-Gebirge mit weitem Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        22.053369,
+                        45.182812
+                  ]
+            },
+            {
+                  "name": "Semenic",
+                  "text": "Ein Berg und Erholungsgebiet im Südwesten Rumäniens, beliebt für Wintersport.",
+                  "category": "landmark",
+                  "coords": [
+                        22.076646,
+                        45.189686
+                  ]
+            },
+            {
+                  "name": "Piatra Nedeii",
+                  "text": "Ein Naturdenkmal im Semenic-Gebirge, das für seine Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.039996,
+                        45.153321
+                  ]
+            },
+            {
+                  "name": "Lacul Vulturilor",
+                  "text": "Ein Bergsee im Semenic-Gebirge, umgeben von alpiner Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        22.046014,
+                        45.170244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozna-kő",
+                  "text": "A Szemenik-hegység egyik jellegzetes csúcsa, ahonnan széles panoráma nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.053369,
+                        45.182812
+                  ]
+            },
+            {
+                  "name": "Szemenik-csúcs",
+                  "text": "Hegy és üdülőterület Románia délnyugati részén, kedvelt téli sportközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        22.076646,
+                        45.189686
+                  ]
+            },
+            {
+                  "name": "Piatra Nedeii",
+                  "text": "Természeti látnivaló a Szemenik-hegységben, amely sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.039996,
+                        45.153321
+                  ]
+            },
+            {
+                  "name": "Lacul Vulturilor",
+                  "text": "Hegyi tó a Szemenik-hegységben, alpesi tájjal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        22.046014,
+                        45.170244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piatra Gozna",
+                  "text": "Un vârf muntos proeminent din Munții Semenic, oferind o panoramă vastă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.053369,
+                        45.182812
+                  ]
+            },
+            {
+                  "name": "Semenic",
+                  "text": "Un munte și o zonă de agrement în sud-vestul României, populară pentru sporturi de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.076646,
+                        45.189686
+                  ]
+            },
+            {
+                  "name": "Piatra Nedeii",
+                  "text": "Un obiectiv natural din Munții Semenic, cunoscut pentru formațiunile sale stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        22.039996,
+                        45.153321
+                  ]
+            },
+            {
+                  "name": "Lacul Vulturilor",
+                  "text": "Un lac montan situat în Munții Semenic, înconjurat de un peisaj alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.046014,
+                        45.170244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piatra Gozna",
+                  "text": "A prominent mountain peak in the Semenic Mountains offering wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        22.053369,
+                        45.182812
+                  ]
+            },
+            {
+                  "name": "Semenic",
+                  "text": "A mountain and resort area in southwestern Romania, popular for winter sports.",
+                  "category": "landmark",
+                  "coords": [
+                        22.076646,
+                        45.189686
+                  ]
+            },
+            {
+                  "name": "Piatra Nedeii",
+                  "text": "A natural landmark in the Semenic Mountains known for its rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        22.039996,
+                        45.153321
+                  ]
+            },
+            {
+                  "name": "Lacul Vulturilor",
+                  "text": "A mountain lake located in the Semenic Mountains, surrounded by alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        22.046014,
+                        45.170244
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO-CS",
     coords: [22.05, 45.18],
@@ -4260,7 +4710,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le sommet Semenic est le point culminant du massif avec 1 447 mètres.", "La région abrite l'une des plus grandes forêts primaires de hêtres d'Europe.", "Le domaine skiable de Semenic est considéré comme l'un des plus enneigés du Banat.", "Le parc national Semenic-Cheile Carașului comprend d'impressionnants paysages karstiques.", "Les gorges de la rivière Caraș comptent parmi les plus longues et les plus sauvages de Roumanie.", "Le haut plateau offre des vues panoramiques spectaculaires jusqu'à la plaine du Danube.", "On trouve dans la région de nombreuses espèces végétales rares et des orchidées protégées.", "Les lacs de barrage environnants servent à la production d'énergie et aux loisirs."],
     }, image: "/poi-images/mountain-semenic-extra.webp"},
   {
-    id: "mountain-poiana-rusca-extra",
+    id: "mountain-poiana-rusca-extra", "sights": {
+      "de": [
+            {
+                  "name": "Colecția Privată Davidoni Glass",
+                  "text": "Privatsammlung von Glasartefakten in der Region Poiana Ruscă.",
+                  "category": "museum",
+                  "coords": [
+                        22.316952,
+                        45.763587
+                  ]
+            },
+            {
+                  "name": "Valea lui Liman",
+                  "text": "Malerisches Naturgebiet und Touristenziel im Poiana-Ruscă-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.329559,
+                        45.754533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colecția Privată Davidoni Glass",
+                  "text": "Magángyűjtemény üvegtárgyakból a Poiana Ruscă régióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.316952,
+                        45.763587
+                  ]
+            },
+            {
+                  "name": "Valea lui Liman",
+                  "text": "Festői természeti terület és turisztikai célpont a Ruszka-havasokban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.329559,
+                        45.754533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colecția Privată Davidoni Glass",
+                  "text": "Colecție privată de obiecte din sticlă situată în regiunea Poiana Ruscă.",
+                  "category": "museum",
+                  "coords": [
+                        22.316952,
+                        45.763587
+                  ]
+            },
+            {
+                  "name": "Valea lui Liman",
+                  "text": "Zonă naturală pitorească și destinație turistică în Munții Poiana Ruscă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.329559,
+                        45.754533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colecția Privată Davidoni Glass",
+                  "text": "Private collection of glass artifacts located in the Poiana Ruscă region.",
+                  "category": "museum",
+                  "coords": [
+                        22.316952,
+                        45.763587
+                  ]
+            },
+            {
+                  "name": "Valea lui Liman",
+                  "text": "Scenic natural area and tourist destination in the Poiana Ruscă Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.329559,
+                        45.754533
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO-HD",
     coords: [22.35, 45.75],
@@ -4311,7 +4842,124 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le massif est délimité par les rivières Mureș au nord et Bega au sud.", "Le point culminant est le Padeș avec une altitude de 1 374 mètres.", "Le marbre de Rușchița a été utilisé, entre autres, pour la construction du Palais du Parlement à Bucarest.", "Le massif est un important bassin versant pour les rivières Bega et Timiș.", "La région de Ghelari est réputée depuis l'Antiquité pour l'extraction d'un minerai de fer de haute qualité.", "La zone abrite de vastes forêts de hêtres et d'épicéas avec un riche cheptel de gibier.", "La montagne forme un pont naturel entre les Carpates méridionales et occidentales.", "De nombreuses grottes et formations karstiques se trouvent dans les zones calcaires du massif."],
     }, image: "/poi-images/mountain-poiana-rusca-extra.webp"},
   {
-    id: "mountain-trascau-extra",
+    id: "mountain-trascau-extra", "sights": {
+      "de": [
+            {
+                  "name": "Peștera Huda lui Papara",
+                  "text": "Die wasserreichste Höhle im Trascău-Gebirge, bekannt für ihre beeindruckenden Portale und Fledermauskolonien.",
+                  "category": "landmark",
+                  "coords": [
+                        23.462046,
+                        46.380809
+                  ]
+            },
+            {
+                  "name": "Love Birds Hide Out Viewpoint",
+                  "text": "Ein Aussichtspunkt im Trascău-Gebirge, der ein weites Panorama über die umliegenden Täler und Gipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.463933,
+                        46.373619
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn Cuvioasa Paraschiva din Sub Piatră",
+                  "text": "Eine historische Holzkirche aus dem 18. Jahrhundert, die malerisch am Fuße einer Felswand im Trascău-Gebirge liegt.",
+                  "category": "religious",
+                  "coords": [
+                        23.460962,
+                        46.383351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szolcsvai búvópatak-barlang",
+                  "text": "A legvízgazdagabb barlang a Torockói-hegységben, amely lenyűgöző bejáratairól és denevérkolóniáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.462046,
+                        46.380809
+                  ]
+            },
+            {
+                  "name": "Love Birds Hide Out Viewpoint",
+                  "text": "Kilátópálya a Torockói-hegységben, amely széles panorámát nyújt a környező völgyekre és csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.463933,
+                        46.373619
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn Cuvioasa Paraschiva din Sub Piatră",
+                  "text": "Egy 18. századi történelmi fatemplom, amely festői környezetben, egy sziklafal tövében fekszik a Torockói-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        23.460962,
+                        46.383351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peștera Huda lui Papara",
+                  "text": "Cea mai bogată în apă peșteră din Munții Trascăului, cunoscută pentru portalul impresionant și coloniile de lilieci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.462046,
+                        46.380809
+                  ]
+            },
+            {
+                  "name": "Love Birds Hide Out Viewpoint",
+                  "text": "Un punct de belvedere în Munții Trascăului, care oferă o panoramă largă asupra văilor și vârfurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        23.463933,
+                        46.373619
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn Cuvioasa Paraschiva din Sub Piatră",
+                  "text": "O biserică istorică de lemn din secolul al XVIII-lea, situată pitoresc la poalele unui perete de stâncă în Munții Trascăului.",
+                  "category": "religious",
+                  "coords": [
+                        23.460962,
+                        46.383351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peștera Huda lui Papara",
+                  "text": "The most water-rich cave in the Trascău Mountains, known for its impressive portals and bat colonies.",
+                  "category": "landmark",
+                  "coords": [
+                        23.462046,
+                        46.380809
+                  ]
+            },
+            {
+                  "name": "Love Birds Hide Out Viewpoint",
+                  "text": "A viewpoint in the Trascău Mountains offering a wide panorama over the surrounding valleys and peaks.",
+                  "category": "natural",
+                  "coords": [
+                        23.463933,
+                        46.373619
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn Cuvioasa Paraschiva din Sub Piatră",
+                  "text": "A historical 18th-century wooden church, picturesquely situated at the foot of a rock face in the Trascău Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        23.460962,
+                        46.383351
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO-AB",
     coords: [23.45, 46.35],

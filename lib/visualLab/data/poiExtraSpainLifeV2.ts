@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const spainLifeV2: POI[] = [
 
   {
-    id: "spain-donana-life-v2",
+    id: "spain-donana-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Matalascañas",
+                  "text": "Ein weitläufiger Sandstrand am Rande des Nationalparks Doñana.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.517247,
+                        36.974085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Matalascañas",
+                  "text": "Kiterjedt homokos tengerpart a Doñana Nemzeti Park szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.517247,
+                        36.974085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Matalascañas",
+                  "text": "O plajă întinsă cu nisip la marginea Parcului Național Doñana.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.517247,
+                        36.974085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de Matalascañas",
+                  "text": "An extensive sandy beach on the edge of the Doñana National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.517247,
+                        36.974085
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Doñana", hu: "Doñana Nemzeti Park", ro: "Parcul Național Doñana", en: "Doñana National Park"},
@@ -49,7 +94,88 @@ imageHint: "Doñana National Park marshes with flamingos",
     },
     image: "/poi-images/spain-donana-life-v2.webp",
 },  {
-    id: "spain-sierra-nevada-life-v2",
+    id: "spain-sierra-nevada-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Ein markanter Dreitausender im Nationalpark Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Der höchste Berg der Iberischen Halbinsel in der Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Egy jellegzetes háromezer méteres csúcs a Sierra Nevada Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Az Ibériai-félsziget legmagasabb csúcsa a Sierra Nevadában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Un vârf muntos proeminent în Parcul Național Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Cel mai înalt vârf din Peninsula Iberică, situat în Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "A prominent mountain peak in the Sierra Nevada National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "The highest peak in the Iberian Peninsula, located in the Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Sierra Nevada", hu: "Sierra Nevada Nemzeti Park", ro: "Parcul Național Sierra Nevada", en: "Sierra Nevada National Park"},
@@ -95,7 +221,304 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
     },
     image: "/poi-images/spain-sierra-nevada-life-v2.webp",
 },  {
-    id: "spain-picos-de-europa-life-v2",
+    id: "spain-picos-de-europa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Ein bedeutender Nationalpark in Nordspanien, bekannt für seine spektakulären Kalksteinmassive.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "Ein markanter Berggipfel in den Picos de Europa an der Grenze dreier Regionen.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Ein berühmter Kalksteingipfel und ein Symbol für das Bergsteigen in Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Peña Vieja",
+                  "text": "Einer der höchsten Gipfel der Picos de Europa, gelegen im Zentralmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.810097,
+                        43.174037
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Ein schroffer Gipfel im Nationalpark Picos de Europa, beliebt bei erfahrenen Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "Ein Kalksteinfelsen in den Picos de Europa, der zur Berggruppe der Urrieles gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Pico de San Carlos",
+                  "text": "Ein bedeutender Berggipfel im Zentralmassiv des Nationalparks Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.832684,
+                        43.164069
+                  ]
+            },
+            {
+                  "name": "Torre Altáiz",
+                  "text": "Ein Berggipfel in der Nähe der Seilbahn von Fuente Dé im Nationalpark Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.82988,
+                        43.162642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Jelentős nemzeti park Észak-Spanyolországban, amely látványos mészkőhegyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "Jellegzetes hegycsúcs a Picos de Europa hegységben, három régió határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Híres mészkőcsúcs, a spanyol hegymászás egyik szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Peña Vieja",
+                  "text": "A Picos de Europa egyik legmagasabb csúcsa a Központi-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.810097,
+                        43.174037
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Sziklás hegycsúcs a Picos de Europa Nemzeti Parkban, a tapasztalt hegymászók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "Mészkőcsúcs a Picos de Europa hegységben, az Urrieles-csoporthoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Pico de San Carlos",
+                  "text": "Jelentős hegycsúcs a Picos de Europa Nemzeti Park Központi-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.832684,
+                        43.164069
+                  ]
+            },
+            {
+                  "name": "Torre Altáiz",
+                  "text": "Hegycsúcs a Fuente Dé felvonó közelében a Picos de Europa Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.82988,
+                        43.162642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Un parc național major din nordul Spaniei, cunoscut pentru masivele sale calcaroase spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "Un vârf muntos distinctiv în Picos de Europa, la granița a trei regiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Un vârf calcaros celebru și un simbol al alpinismului în Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Peña Vieja",
+                  "text": "Unul dintre cele mai înalte vârfuri din Picos de Europa, situat în Masivul Central.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.810097,
+                        43.174037
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Un vârf stâncos în Parcul Național Picos de Europa, popular printre alpiniștii experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "Un vârf calcaros în Picos de Europa, aparținând grupului muntos Urrieles.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Pico de San Carlos",
+                  "text": "Un vârf muntos important în Masivul Central al Parcului Național Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.832684,
+                        43.164069
+                  ]
+            },
+            {
+                  "name": "Torre Altáiz",
+                  "text": "Un vârf muntos situat lângă telecabina Fuente Dé din Parcul Național Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.82988,
+                        43.162642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picos de Europa National Park",
+                  "text": "A major national park in northern Spain known for its spectacular limestone massifs.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "A distinctive mountain peak in the Picos de Europa at the border of three regions.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "A famous limestone peak and a symbol of mountaineering in Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Peña Vieja",
+                  "text": "One of the highest peaks of the Picos de Europa, located in the Central Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.810097,
+                        43.174037
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "A rugged peak in the Picos de Europa National Park, popular with experienced climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "A limestone peak in the Picos de Europa, belonging to the Urrieles mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Pico de San Carlos",
+                  "text": "A significant mountain peak in the Central Massif of the Picos de Europa National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.832684,
+                        43.164069
+                  ]
+            },
+            {
+                  "name": "Torre Altáiz",
+                  "text": "A mountain peak located near the Fuente Dé cable car in the Picos de Europa National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.82988,
+                        43.162642
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Picos de Europa", hu: "Picos de Europa Nemzeti Park", ro: "Parcul Național Picos de Europa", en: "Picos de Europa National Park"},
@@ -187,7 +610,268 @@ imageHint: "Mount Teide volcano landscape Tenerife",
     },
     image: "/poi-images/spain-teide-life-v2.webp",
 },  {
-    id: "spain-monfrague-life-v2",
+    id: "spain-monfrague-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Monfragüe",
+                  "text": "Mittelalterliche Burgruine mit Blick auf den Fluss Tejo.",
+                  "category": "castle",
+                  "coords": [
+                        -6.051205,
+                        39.828103
+                  ]
+            },
+            {
+                  "name": "Exposicion Animales Naturalizados",
+                  "text": "Eine Ausstellung präparierter Tiere im Nationalpark Monfragüe.",
+                  "category": "museum",
+                  "coords": [
+                        -6.029449,
+                        39.847002
+                  ]
+            },
+            {
+                  "name": "Salto del Gitano",
+                  "text": "Ein berühmter Aussichtspunkt im Nationalpark Monfragüe, bekannt für die Beobachtung von Geiern.",
+                  "category": "natural",
+                  "coords": [
+                        -6.057683,
+                        39.827675
+                  ]
+            },
+            {
+                  "name": "Mirador del Puerto de la Serrana",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den Nationalpark Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047102,
+                        39.871629
+                  ]
+            },
+            {
+                  "name": "Mirador del Puente del Cardenal",
+                  "text": "Aussichtspunkt mit Blick auf die historische Cardenal-Brücke im Nationalpark Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.028129,
+                        39.836445
+                  ]
+            },
+            {
+                  "name": "Cerro Gimio",
+                  "text": "Ein erhöhter Aussichtspunkt, der weite Blicke über die Landschaft von Monfragüe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.053859,
+                        39.841476
+                  ]
+            },
+            {
+                  "name": "Puente de Piedra",
+                  "text": "Ein Aussichtspunkt bei der Steinbrücke im Nationalpark Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.045077,
+                        39.847782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Monfragüe",
+                  "text": "Középkori várrom, amely a Tajo folyóra néz.",
+                  "category": "castle",
+                  "coords": [
+                        -6.051205,
+                        39.828103
+                  ]
+            },
+            {
+                  "name": "Exposicion Animales Naturalizados",
+                  "text": "Kitömött állatok kiállítása a Monfragüe Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.029449,
+                        39.847002
+                  ]
+            },
+            {
+                  "name": "Salto del Gitano",
+                  "text": "Híres kilátópont a Monfragüe Nemzeti Parkban, amely keselyűmegfigyeléséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.057683,
+                        39.827675
+                  ]
+            },
+            {
+                  "name": "Mirador del Puerto de la Serrana",
+                  "text": "Kilátópont panorámás kilátással a Monfragüe Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047102,
+                        39.871629
+                  ]
+            },
+            {
+                  "name": "Mirador del Puente del Cardenal",
+                  "text": "Kilátópont, ahonnan rálátni a Monfragüe Nemzeti Park történelmi Cardenal-hídjára.",
+                  "category": "natural",
+                  "coords": [
+                        -6.028129,
+                        39.836445
+                  ]
+            },
+            {
+                  "name": "Cerro Gimio",
+                  "text": "Magaslati kilátópont, amely tágas kilátást nyújt Monfragüe tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -6.053859,
+                        39.841476
+                  ]
+            },
+            {
+                  "name": "Puente de Piedra",
+                  "text": "Kilátópont a kőhídnál a Monfragüe Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.045077,
+                        39.847782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Monfragüe",
+                  "text": "Ruinele unui castel medieval cu vedere spre râul Tejo.",
+                  "category": "castle",
+                  "coords": [
+                        -6.051205,
+                        39.828103
+                  ]
+            },
+            {
+                  "name": "Exposicion Animales Naturalizados",
+                  "text": "O expoziție de animale naturalizate în Parcul Național Monfragüe.",
+                  "category": "museum",
+                  "coords": [
+                        -6.029449,
+                        39.847002
+                  ]
+            },
+            {
+                  "name": "Salto del Gitano",
+                  "text": "Un punct de belvedere faimos în Parcul Național Monfragüe, cunoscut pentru observarea vulturilor.",
+                  "category": "natural",
+                  "coords": [
+                        -6.057683,
+                        39.827675
+                  ]
+            },
+            {
+                  "name": "Mirador del Puerto de la Serrana",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra Parcului Național Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047102,
+                        39.871629
+                  ]
+            },
+            {
+                  "name": "Mirador del Puente del Cardenal",
+                  "text": "Punct de belvedere cu vedere la podul istoric Cardenal din Parcul Național Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.028129,
+                        39.836445
+                  ]
+            },
+            {
+                  "name": "Cerro Gimio",
+                  "text": "Un punct de belvedere înalt ce oferă vederi largi asupra peisajului din Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.053859,
+                        39.841476
+                  ]
+            },
+            {
+                  "name": "Puente de Piedra",
+                  "text": "Un punct de belvedere lângă podul de piatră din Parcul Național Monfragüe.",
+                  "category": "natural",
+                  "coords": [
+                        -6.045077,
+                        39.847782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Monfragüe",
+                  "text": "Medieval castle ruins offering views over the Tagus River.",
+                  "category": "castle",
+                  "coords": [
+                        -6.051205,
+                        39.828103
+                  ]
+            },
+            {
+                  "name": "Exposicion Animales Naturalizados",
+                  "text": "An exhibition of taxidermied animals in the Monfragüe National Park.",
+                  "category": "museum",
+                  "coords": [
+                        -6.029449,
+                        39.847002
+                  ]
+            },
+            {
+                  "name": "Salto del Gitano",
+                  "text": "A famous viewpoint in Monfragüe National Park, well-known for vulture watching.",
+                  "category": "natural",
+                  "coords": [
+                        -6.057683,
+                        39.827675
+                  ]
+            },
+            {
+                  "name": "Mirador del Puerto de la Serrana",
+                  "text": "A viewpoint offering panoramic vistas of the Monfragüe National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047102,
+                        39.871629
+                  ]
+            },
+            {
+                  "name": "Mirador del Puente del Cardenal",
+                  "text": "Viewpoint overlooking the historic Cardenal Bridge in the Monfragüe National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -6.028129,
+                        39.836445
+                  ]
+            },
+            {
+                  "name": "Cerro Gimio",
+                  "text": "An elevated viewpoint providing expansive views across the Monfragüe landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -6.053859,
+                        39.841476
+                  ]
+            },
+            {
+                  "name": "Puente de Piedra",
+                  "text": "A viewpoint located by the stone bridge in the Monfragüe National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -6.045077,
+                        39.847782
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Monfragüe", hu: "Monfragüe Nemzeti Park", ro: "Parcul Național Monfragüe", en: "Monfragüe National Park"},
@@ -233,7 +917,52 @@ imageHint: "Monfragüe National Park Salto del Gitano birds",
     },
     image: "/poi-images/spain-monfrague-life-v2.webp",
 },  {
-    id: "spain-cabaneros-life-v2",
+    id: "spain-cabaneros-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Cabañeros",
+                  "text": "Ein spanischer Nationalpark, der für seine mediterranen Wälder und seine reiche Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -4.493385,
+                        39.400995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque nacional de Cabañeros",
+                  "text": "Spanyol nemzeti park, amely mediterrán erdőiről és gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.493385,
+                        39.400995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque nacional de Cabañeros",
+                  "text": "Un parc național spaniol cunoscut pentru pădurea mediteraneeană și biodiversitatea bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -4.493385,
+                        39.400995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabañeros National Park",
+                  "text": "A Spanish national park known for its Mediterranean forest and rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -4.493385,
+                        39.400995
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Cabañeros", hu: "Cabañeros Nemzeti Park", ro: "Parcul Național Cabañeros", en: "Cabañeros National Park"},
@@ -279,7 +1008,196 @@ imageHint: "Cabañeros National Park deer in plains",
     },
     image: "/poi-images/spain-cabaneros-life-v2.webp",
 },  {
-    id: "spain-tablas-de-daimiel-life-v2",
+    id: "spain-tablas-de-daimiel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque nacional de las Tablas de Daimiel",
+                  "text": "Ein spanischer Nationalpark, der eines der wichtigsten Feuchtgebiets-Ökosysteme der Iberischen Halbinsel schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.707511,
+                        39.147367
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "Das Besucherzentrum bietet Ausstellungen und Informationen zur Flora und Fauna des Nationalparks Tablas de Daimiel.",
+                  "category": "museum",
+                  "coords": [
+                        -3.696789,
+                        39.13805
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Isla de Pan",
+                  "text": "Ein Beobachtungspunkt auf der Isla de Pan, ideal für die Vogelbeobachtung im Feuchtgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.705776,
+                        39.136424
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Laguna Permanente",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die permanent wasserführenden Flächen des Nationalparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.697795,
+                        39.132049
+                  ]
+            },
+            {
+                  "name": "Molino de Molemocho",
+                  "text": "Eine historische Wassermühle am Eingang des Nationalparks, die heute als Informationszentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.691559,
+                        39.128915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque nacional de las Tablas de Daimiel",
+                  "text": "Spanyol nemzeti park, amely az Ibériai-félsziget egyik legfontosabb vizes élőhelyi ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        -3.707511,
+                        39.147367
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "A látogatóközpont kiállításokat és információkat kínál a Tablas de Daimiel Nemzeti Park növény- és állatvilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        -3.696789,
+                        39.13805
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Isla de Pan",
+                  "text": "Megfigyelőpont az Isla de Pan szigeten, amely ideális madármegfigyelésre a vizes élőhelyen.",
+                  "category": "natural",
+                  "coords": [
+                        -3.705776,
+                        39.136424
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Laguna Permanente",
+                  "text": "Kilátópont, amely széles rálátást biztosít a nemzeti park állandó vízfelületeire.",
+                  "category": "natural",
+                  "coords": [
+                        -3.697795,
+                        39.132049
+                  ]
+            },
+            {
+                  "name": "Molino de Molemocho",
+                  "text": "Történelmi vízimalom a nemzeti park bejáratánál, amely ma információs központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.691559,
+                        39.128915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque nacional de las Tablas de Daimiel",
+                  "text": "Un parc național spaniol care protejează unul dintre cele mai importante ecosisteme de zone umede din Peninsula Iberică.",
+                  "category": "natural",
+                  "coords": [
+                        -3.707511,
+                        39.147367
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "Centrul de vizitatori oferă expoziții și informații despre flora și fauna Parcului Național Tablas de Daimiel.",
+                  "category": "museum",
+                  "coords": [
+                        -3.696789,
+                        39.13805
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Isla de Pan",
+                  "text": "Un punct de observație pe Isla de Pan, ideal pentru observarea păsărilor în zona umedă.",
+                  "category": "natural",
+                  "coords": [
+                        -3.705776,
+                        39.136424
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Laguna Permanente",
+                  "text": "Un punct de belvedere care oferă o vedere largă asupra suprafețelor cu apă permanentă din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        -3.697795,
+                        39.132049
+                  ]
+            },
+            {
+                  "name": "Molino de Molemocho",
+                  "text": "O moară de apă istorică la intrarea în parcul național, care astăzi servește drept centru de informare.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.691559,
+                        39.128915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tablas de Daimiel National Park",
+                  "text": "A Spanish national park protecting one of the most important wetland ecosystems on the Iberian Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -3.707511,
+                        39.147367
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "The visitor center offers exhibitions and information about the flora and fauna of the Tablas de Daimiel National Park.",
+                  "category": "museum",
+                  "coords": [
+                        -3.696789,
+                        39.13805
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Isla de Pan",
+                  "text": "An observation point on the Isla de Pan, ideal for birdwatching in the wetland area.",
+                  "category": "natural",
+                  "coords": [
+                        -3.705776,
+                        39.136424
+                  ]
+            },
+            {
+                  "name": "Observatorio de la Laguna Permanente",
+                  "text": "A viewpoint offering a wide outlook over the permanent water areas of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -3.697795,
+                        39.132049
+                  ]
+            },
+            {
+                  "name": "Molino de Molemocho",
+                  "text": "A historic water mill at the entrance of the national park, now serving as an information center.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.691559,
+                        39.128915
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Tablas de Daimiel", hu: "Tablas de Daimiel Nemzeti Park", ro: "Parcul Național Tablas de Daimiel", en: "Tablas de Daimiel National Park"},
@@ -509,7 +1427,304 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
     },
     image: "/poi-images/spain-ordesa-monte-perdido-life-v2.webp",
 },  {
-    id: "spain-aiguestortes-life-v2",
+    id: "spain-aiguestortes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+                  "text": "Nationalpark in den Pyrenäen, bekannt für seine Alpenseen und Berglandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        0.938999,
+                        42.569485
+                  ]
+            },
+            {
+                  "name": "Pic de la Tallada Llarga",
+                  "text": "Ein Berggipfel mit einer Höhe von 2.752 Metern im Nationalpark Aigüestortes.",
+                  "category": "landmark",
+                  "coords": [
+                        0.9088,
+                        42.607825
+                  ]
+            },
+            {
+                  "name": "Tuc Blanc",
+                  "text": "Ein markanter Berggipfel in den Zentralpyrenäen im Nationalpark Aigüestortes.",
+                  "category": "landmark",
+                  "coords": [
+                        0.930525,
+                        42.591016
+                  ]
+            },
+            {
+                  "name": "Gran Tuc de Colomèrs",
+                  "text": "Der höchste Gipfel im Colomèrs-Kar, der sich auf 2.933 Meter erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        0.937814,
+                        42.589392
+                  ]
+            },
+            {
+                  "name": "Cap de la Pala Alta d’Estany Llong",
+                  "text": "Ein markanter Berggipfel im Nationalpark Aigüestortes i Estany de Sant Maurici.",
+                  "category": "landmark",
+                  "coords": [
+                        0.94182,
+                        42.581843
+                  ]
+            },
+            {
+                  "name": "Tossal Esbonllat",
+                  "text": "Ein Gipfel in den katalanischen Pyrenäen im Herzen des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        0.946392,
+                        42.57985
+                  ]
+            },
+            {
+                  "name": "Tuc del Bergús",
+                  "text": "Dieser Berg bietet weite Ausblicke über die Seenlandschaft des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        0.952815,
+                        42.594228
+                  ]
+            },
+            {
+                  "name": "Tuc de Ratera",
+                  "text": "Ein bekannter Gipfel im Nationalpark, der bei Wanderern sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        0.953401,
+                        42.60135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+                  "text": "Nemzeti park a Pireneusokban, amely tengerszemeiről és hegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        0.938999,
+                        42.569485
+                  ]
+            },
+            {
+                  "name": "Pic de la Tallada Llarga",
+                  "text": "A 2752 méter magas hegycsúcs az Aigüestortes Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        0.9088,
+                        42.607825
+                  ]
+            },
+            {
+                  "name": "Tuc Blanc",
+                  "text": "Jellegzetes hegycsúcs a Középső-Pireneusokban, az Aigüestortes Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        0.930525,
+                        42.591016
+                  ]
+            },
+            {
+                  "name": "Gran Tuc de Colomèrs",
+                  "text": "A Colomèrs-katlan legmagasabb csúcsa, amely 2933 méter magas a Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.937814,
+                        42.589392
+                  ]
+            },
+            {
+                  "name": "Cap de la Pala Alta d’Estany Llong",
+                  "text": "Egy jellegzetes hegycsúcs az Aigüestortes i Estany de Sant Maurici Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.94182,
+                        42.581843
+                  ]
+            },
+            {
+                  "name": "Tossal Esbonllat",
+                  "text": "Egy hegycsúcs a katalán Pireneusokban, a nemzeti park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.946392,
+                        42.57985
+                  ]
+            },
+            {
+                  "name": "Tuc del Bergús",
+                  "text": "Ez a hegy széles kilátást nyújt a nemzeti park tóvidékére.",
+                  "category": "landmark",
+                  "coords": [
+                        0.952815,
+                        42.594228
+                  ]
+            },
+            {
+                  "name": "Tuc de Ratera",
+                  "text": "A nemzeti park egyik ismert csúcsa, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.953401,
+                        42.60135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+                  "text": "Parc național din Pirinei, cunoscut pentru lacurile alpine și peisajele montane.",
+                  "category": "natural",
+                  "coords": [
+                        0.938999,
+                        42.569485
+                  ]
+            },
+            {
+                  "name": "Pic de la Tallada Llarga",
+                  "text": "Un vârf montan de 2.752 de metri în cadrul Parcului Național Aigüestortes.",
+                  "category": "landmark",
+                  "coords": [
+                        0.9088,
+                        42.607825
+                  ]
+            },
+            {
+                  "name": "Tuc Blanc",
+                  "text": "Un vârf montan proeminent din Pirinei, aflat în Parcul Național Aigüestortes.",
+                  "category": "landmark",
+                  "coords": [
+                        0.930525,
+                        42.591016
+                  ]
+            },
+            {
+                  "name": "Gran Tuc de Colomèrs",
+                  "text": "Cel mai înalt vârf din circul glaciar Colomèrs, ridicându-se la 2.933 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        0.937814,
+                        42.589392
+                  ]
+            },
+            {
+                  "name": "Cap de la Pala Alta d’Estany Llong",
+                  "text": "Un vârf muntos proeminent în Parcul Național Aigüestortes i Estany de Sant Maurici.",
+                  "category": "landmark",
+                  "coords": [
+                        0.94182,
+                        42.581843
+                  ]
+            },
+            {
+                  "name": "Tossal Esbonllat",
+                  "text": "Un vârf în Pirineii catalani, situat în inima parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        0.946392,
+                        42.57985
+                  ]
+            },
+            {
+                  "name": "Tuc del Bergús",
+                  "text": "Acest munte oferă vederi panoramice asupra peisajului lacustru din parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        0.952815,
+                        42.594228
+                  ]
+            },
+            {
+                  "name": "Tuc de Ratera",
+                  "text": "Un vârf cunoscut în parcul național, foarte popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        0.953401,
+                        42.60135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
+                  "text": "A national park in the Pyrenees known for its alpine lakes and mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        0.938999,
+                        42.569485
+                  ]
+            },
+            {
+                  "name": "Pic de la Tallada Llarga",
+                  "text": "A mountain peak reaching an elevation of 2,752 meters within the Aigüestortes National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.9088,
+                        42.607825
+                  ]
+            },
+            {
+                  "name": "Tuc Blanc",
+                  "text": "A prominent mountain peak in the Pyrenees within the Aigüestortes National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.930525,
+                        42.591016
+                  ]
+            },
+            {
+                  "name": "Gran Tuc de Colomèrs",
+                  "text": "The highest peak in the Colomèrs cirque, rising to 2,933 meters in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.937814,
+                        42.589392
+                  ]
+            },
+            {
+                  "name": "Cap de la Pala Alta d’Estany Llong",
+                  "text": "A prominent mountain peak located within the Aigüestortes i Estany de Sant Maurici National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.94182,
+                        42.581843
+                  ]
+            },
+            {
+                  "name": "Tossal Esbonllat",
+                  "text": "A mountain peak in the Catalan Pyrenees, situated in the heart of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.946392,
+                        42.57985
+                  ]
+            },
+            {
+                  "name": "Tuc del Bergús",
+                  "text": "This mountain offers wide views over the lake landscape of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        0.952815,
+                        42.594228
+                  ]
+            },
+            {
+                  "name": "Tuc de Ratera",
+                  "text": "A well-known peak in the national park, very popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        0.953401,
+                        42.60135
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes és Estany de Sant Maurici Nemzeti Park", ro: "Parcul Național Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes i Estany de Sant Maurici National Park"},
@@ -555,7 +1770,268 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
     },
     image: "/poi-images/spain-aiguestortes-life-v2.webp",
 },  {
-    id: "spain-guadarrama-life-v2",
+    id: "spain-guadarrama-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "Ein besonderes Vogelschutzgebiet im Tal des Flusses Lozoya innerhalb des Guadarrama-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "Ein bedeutendes Naturschutzgebiet in Zentralspanien, das für seine Artenvielfalt und Hochgebirgslandschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "Ein spezialisiertes Schutzgebiet im Nationalpark Sierra de Guadarrama zur Erhaltung lokaler Amphibienarten.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Cabeza Mediana",
+                  "text": "Ein markanter Berggipfel in der Region Rascafría innerhalb des Guadarrama-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.90705,
+                        40.844791
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "Der höchste Gipfel des Guadarrama-Gebirges, der markante glaziale Landschaften und Kletterrouten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "Ein felsiger Berggipfel im Peñalara-Massiv, bekannt für seinen schmalen Grat und die weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Ein Berggipfel im Guadarrama-Gebirge, gelegen in der Nähe des markanten Peñalara-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "Különleges madárvédelmi terület a Lozoya folyó völgyében, a Guadarrama-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "Közép-Spanyolország jelentős természetvédelmi területe, amely biológiai sokféleségéről és magashegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "Speciális védelmi terület a Sierra de Guadarrama Nemzeti Parkban a helyi kétéltűfajok megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Cabeza Mediana",
+                  "text": "Jellegzetes hegycsúcs Rascafría közelében, a Guadarrama-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.90705,
+                        40.844791
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "A Guadarrama-hegység legmagasabb csúcsa, amely látványos gleccserformáiról és mászóútjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "Sziklás hegycsúcs a Peñalara-masszívumban, amely keskeny gerincéről és panorámájáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Hegycsúcs a Guadarrama-hegységben, a jellegzetes Peñalara-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "O arie specială de protecție avifaunistică în valea râului Lozoya, în munții Guadarrama.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "O arie naturală protejată majoră din centrul Spaniei, cunoscută pentru biodiversitate și peisaje montane.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "O rezervație specializată în Parcul Național Sierra de Guadarrama pentru conservarea speciilor locale de amfibieni.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Cabeza Mediana",
+                  "text": "Un vârf muntos proeminent în regiunea Rascafría, în cadrul munților Guadarrama.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.90705,
+                        40.844791
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "Cel mai înalt vârf din munții Guadarrama, oferind peisaje glaciare remarcabile și rute de escaladă.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "Un vârf muntos stâncos în masivul Peñalara, cunoscut pentru creasta sa îngustă și vederile largi.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Un vârf muntos în munții Guadarrama, situat lângă proeminentul masiv Peñalara.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "A special bird protection area in the Lozoya River valley within the Guadarrama mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "A major protected natural area in central Spain, known for its biodiversity and high mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "A specialized reserve in the Sierra de Guadarrama National Park for the conservation of local amphibian species.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Cabeza Mediana",
+                  "text": "A prominent mountain peak in the Rascafría region within the Guadarrama mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.90705,
+                        40.844791
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "The highest peak in the Guadarrama mountains, featuring striking glacial landscapes and climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "A rocky mountain peak in the Peñalara massif, known for its narrow ridge and expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "A mountain peak in the Guadarrama mountains, located near the prominent Peñalara massif.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Sierra de Guadarrama", hu: "Sierra de Guadarrama Nemzeti Park", ro: "Parcul Național Sierra de Guadarrama", en: "Sierra de Guadarrama National Park"},
@@ -601,7 +2077,304 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
     },
     image: "/poi-images/spain-guadarrama-life-v2.webp",
 },  {
-    id: "spain-islas-atlanticas-life-v2",
+    id: "spain-islas-atlanticas-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "O Farol do Peito",
+                  "text": "Ein Küstenleuchtturm im Nationalpark Islas Atlánticas de Galicia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.903153,
+                        42.243208
+                  ]
+            },
+            {
+                  "name": "O Farol de Sías",
+                  "text": "Ein Leuchtturm, der die Schifffahrt in den Gewässern des Nationalparks leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.914907,
+                        42.214146
+                  ]
+            },
+            {
+                  "name": "A Area das Rodas",
+                  "text": "Dieser berühmte Strand gilt als einer der schönsten der Welt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902137,
+                        42.222382
+                  ]
+            },
+            {
+                  "name": "ZEC e ZEPA Illas Cíes",
+                  "text": "Ein Naturschutzgebiet auf den Cíes-Inseln, bekannt für seine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.904493,
+                        42.216083
+                  ]
+            },
+            {
+                  "name": "A Area de Nosa Señora",
+                  "text": "Ein ruhiger Sandstrand in der unberührten Natur des Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902184,
+                        42.216061
+                  ]
+            },
+            {
+                  "name": "A Area de San Martiño",
+                  "text": "Ein malerischer Strand auf der Insel San Martiño im Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.904935,
+                        42.201782
+                  ]
+            },
+            {
+                  "name": "Castro das Hortas",
+                  "text": "Eine archäologische Stätte mit Überresten einer antiken befestigten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.91236,
+                        42.213946
+                  ]
+            },
+            {
+                  "name": "A Area do Arco do Engado",
+                  "text": "Ein abgelegener Küstenabschnitt, der für seine natürliche Schönheit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.901153,
+                        42.232376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "O Farol do Peito",
+                  "text": "Parti világítótorony a galíciai Atlanti-szigetek Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.903153,
+                        42.243208
+                  ]
+            },
+            {
+                  "name": "O Farol de Sías",
+                  "text": "Világítótorony, amely segíti a hajózást a nemzeti park vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.914907,
+                        42.214146
+                  ]
+            },
+            {
+                  "name": "A Area das Rodas",
+                  "text": "Ez a híres strand a világ egyik legszebbjeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902137,
+                        42.222382
+                  ]
+            },
+            {
+                  "name": "ZEC e ZEPA Illas Cíes",
+                  "text": "Természetvédelmi terület a Cíes-szigeteken, amely gazdag élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.904493,
+                        42.216083
+                  ]
+            },
+            {
+                  "name": "A Area de Nosa Señora",
+                  "text": "Csendes homokos strand a nemzeti park érintetlen természetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902184,
+                        42.216061
+                  ]
+            },
+            {
+                  "name": "A Area de San Martiño",
+                  "text": "Gleccsercsiszolta part San Martiño szigetén az Atlanti-óceánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.904935,
+                        42.201782
+                  ]
+            },
+            {
+                  "name": "Castro das Hortas",
+                  "text": "Régészeti lelőhely egy ősi erődített település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -8.91236,
+                        42.213946
+                  ]
+            },
+            {
+                  "name": "A Area do Arco do Engado",
+                  "text": "Természeti szépségéről ismert távoli tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.901153,
+                        42.232376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "O Farol do Peito",
+                  "text": "Un far de coastă situat în Parcul Național Islas Atlánticas de Galicia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.903153,
+                        42.243208
+                  ]
+            },
+            {
+                  "name": "O Farol de Sías",
+                  "text": "Un far care ghidează navigația în apele parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.914907,
+                        42.214146
+                  ]
+            },
+            {
+                  "name": "A Area das Rodas",
+                  "text": "Această plajă faimoasă este considerată una dintre cele mai frumoase din lume.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902137,
+                        42.222382
+                  ]
+            },
+            {
+                  "name": "ZEC e ZEPA Illas Cíes",
+                  "text": "O rezervație naturală în Insulele Cíes, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -8.904493,
+                        42.216083
+                  ]
+            },
+            {
+                  "name": "A Area de Nosa Señora",
+                  "text": "O plajă de nisip liniștită în natura virgină a parcului național.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902184,
+                        42.216061
+                  ]
+            },
+            {
+                  "name": "A Area de San Martiño",
+                  "text": "O plajă pitorească pe insula San Martiño din Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.904935,
+                        42.201782
+                  ]
+            },
+            {
+                  "name": "Castro das Hortas",
+                  "text": "Un sit arheologic cu vestigiile unei vechi așezări fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        -8.91236,
+                        42.213946
+                  ]
+            },
+            {
+                  "name": "A Area do Arco do Engado",
+                  "text": "O porțiune de coastă retrasă, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.901153,
+                        42.232376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "O Farol do Peito",
+                  "text": "A coastal lighthouse located in the Islas Atlánticas de Galicia National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.903153,
+                        42.243208
+                  ]
+            },
+            {
+                  "name": "O Farol de Sías",
+                  "text": "A lighthouse that guides navigation in the waters of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.914907,
+                        42.214146
+                  ]
+            },
+            {
+                  "name": "A Area das Rodas",
+                  "text": "This famous beach is considered one of the most beautiful in the world.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902137,
+                        42.222382
+                  ]
+            },
+            {
+                  "name": "ZEC e ZEPA Illas Cíes",
+                  "text": "A nature reserve on the Cíes Islands, known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -8.904493,
+                        42.216083
+                  ]
+            },
+            {
+                  "name": "A Area de Nosa Señora",
+                  "text": "A quiet sandy beach in the untouched nature of the national park.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.902184,
+                        42.216061
+                  ]
+            },
+            {
+                  "name": "A Area de San Martiño",
+                  "text": "A picturesque beach on the island of San Martiño in the Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.904935,
+                        42.201782
+                  ]
+            },
+            {
+                  "name": "Castro das Hortas",
+                  "text": "An archaeological site featuring the remains of an ancient fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.91236,
+                        42.213946
+                  ]
+            },
+            {
+                  "name": "A Area do Arco do Engado",
+                  "text": "A remote coastal stretch known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.901153,
+                        42.232376
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Islas Atlánticas de Galicia", hu: "Galíciai Atlanti-szigetek Nemzeti Park", ro: "Parcul Național Islas Atlánticas de Galicia", en: "Islas Atlánticas de Galicia National Park"},
@@ -647,7 +2420,304 @@ imageHint: "Cíes Islands beach and turquoise water",
     },
     image: "/poi-images/spain-islas-atlanticas-life-v2.webp",
 },  {
-    id: "spain-cabrera-life-v2",
+    id: "spain-cabrera-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Far de n'Ensiola",
+                  "text": "Ein markanter Leuchtturm auf der Insel Cabrera, der die Seefahrt unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.92152,
+                        39.129129
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Posidonia",
+                  "text": "Ein Schutzgebiet für Seegraswiesen, die für das marine Ökosystem wichtig sind.",
+                  "category": "natural",
+                  "coords": [
+                        2.929614,
+                        39.151128
+                  ]
+            },
+            {
+                  "name": "Baliça de la Punta de sa Creueta",
+                  "text": "Ein kleineres Leuchtfeuer zur Unterstützung der Navigation im Cabrera-Archipel.",
+                  "category": "landmark",
+                  "coords": [
+                        2.928284,
+                        39.154235
+                  ]
+            },
+            {
+                  "name": "Baliça del Cap de Llebeig",
+                  "text": "Ein Navigationsfeuer am Kap Llebeig auf der Insel Cabrera.",
+                  "category": "landmark",
+                  "coords": [
+                        2.917222,
+                        39.160637
+                  ]
+            },
+            {
+                  "name": "Calas'Espalmador",
+                  "text": "Ein malerischer Strand im Nationalpark Archipel von Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        2.930337,
+                        39.143361
+                  ]
+            },
+            {
+                  "name": "sa Platgeta",
+                  "text": "Ein kleiner Sandstrand im Nationalpark Archipel von Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9371,
+                        39.144262
+                  ]
+            },
+            {
+                  "name": "es Celler",
+                  "text": "Ein Museum, das der lokalen Geschichte im Nationalpark Cabrera gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        2.941656,
+                        39.139601
+                  ]
+            },
+            {
+                  "name": "Monasterio bizantino",
+                  "text": "Überreste eines alten byzantinischen Klosters auf Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        2.938744,
+                        39.143529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Far de n'Ensiola",
+                  "text": "Jellegzetes világítótorony Cabrera szigetén, amely a tengeri navigációt segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        2.92152,
+                        39.129129
+                  ]
+            },
+            {
+                  "name": "Reserva Natural de Posidonia",
+                  "text": "A tengeri ökoszisztéma számára fontos tengerifű-mezők védett területe.",
+                  "category": "natural",
+                  "coords": [
+                        2.929614,
+                        39.151128
+                  ]
+            },
+            {
+                  "name": "Baliça de la Punta de sa Creueta",
+                  "text": "Kisebb jelzőfény, amely a navigációt segíti a Cabrera-szigetcsoportnál.",
+                  "category": "landmark",
+                  "coords": [
+                        2.928284,
+                        39.154235
+                  ]
+            },
+            {
+                  "name": "Baliça del Cap de Llebeig",
+                  "text": "Navigációs jelzőfény a Cabrera-szigeten található Llebeig-foknál.",
+                  "category": "landmark",
+                  "coords": [
+                        2.917222,
+                        39.160637
+                  ]
+            },
+            {
+                  "name": "Calas'Espalmador",
+                  "text": "Egy festői tengerpart a Cabrera-szigetcsoport Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        2.930337,
+                        39.143361
+                  ]
+            },
+            {
+                  "name": "sa Platgeta",
+                  "text": "Egy kis homokos strand a Cabrera-szigetcsoport Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9371,
+                        39.144262
+                  ]
+            },
+            {
+                  "name": "es Celler",
+                  "text": "A helyi történelemnek szentelt múzeum a Cabrera Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        2.941656,
+                        39.139601
+                  ]
+            },
+            {
+                  "name": "Monasterio bizantino",
+                  "text": "Egy ősi bizánci kolostor maradványai Cabrerán.",
+                  "category": "historical",
+                  "coords": [
+                        2.938744,
+                        39.143529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Far de n'Ensiola",
+                  "text": "Un far emblematic pe insula Cabrera, care ajută navigația maritimă.",
+                  "category": "landmark",
+                  "coords": [
+                        2.92152,
+                        39.129129
+                  ]
+            },
+            {
+                  "name": "Rezervația naturală Posidonia",
+                  "text": "O zonă protejată pentru preriile de iarbă de mare, esențiale pentru ecosistemul marin.",
+                  "category": "natural",
+                  "coords": [
+                        2.929614,
+                        39.151128
+                  ]
+            },
+            {
+                  "name": "Baliça de la Punta de sa Creueta",
+                  "text": "Un far de dimensiuni mai mici care sprijină navigația în arhipelagul Cabrera.",
+                  "category": "landmark",
+                  "coords": [
+                        2.928284,
+                        39.154235
+                  ]
+            },
+            {
+                  "name": "Baliça del Cap de Llebeig",
+                  "text": "Un semnal de navigație situat la capul Llebeig de pe insula Cabrera.",
+                  "category": "landmark",
+                  "coords": [
+                        2.917222,
+                        39.160637
+                  ]
+            },
+            {
+                  "name": "Calas'Espalmador",
+                  "text": "O plajă pitorească în Parcul Național Arhipelagul Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        2.930337,
+                        39.143361
+                  ]
+            },
+            {
+                  "name": "sa Platgeta",
+                  "text": "O mică plajă cu nisip în Parcul Național Arhipelagul Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9371,
+                        39.144262
+                  ]
+            },
+            {
+                  "name": "es Celler",
+                  "text": "Un muzeu dedicat istoriei locale în Parcul Național Cabrera.",
+                  "category": "museum",
+                  "coords": [
+                        2.941656,
+                        39.139601
+                  ]
+            },
+            {
+                  "name": "Monasterio bizantino",
+                  "text": "Resturile unei vechi mănăstiri bizantine pe Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        2.938744,
+                        39.143529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Far de n'Ensiola",
+                  "text": "An iconic lighthouse on Cabrera Island that assists maritime navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        2.92152,
+                        39.129129
+                  ]
+            },
+            {
+                  "name": "Posidonia Nature Reserve",
+                  "text": "A protected area for seagrass meadows, which are vital for the marine ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        2.929614,
+                        39.151128
+                  ]
+            },
+            {
+                  "name": "Baliça de la Punta de sa Creueta",
+                  "text": "A smaller navigational beacon used for guiding ships in the Cabrera Archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        2.928284,
+                        39.154235
+                  ]
+            },
+            {
+                  "name": "Baliça del Cap de Llebeig",
+                  "text": "A navigational beacon located at Cap de Llebeig on Cabrera Island.",
+                  "category": "landmark",
+                  "coords": [
+                        2.917222,
+                        39.160637
+                  ]
+            },
+            {
+                  "name": "Calas'Espalmador",
+                  "text": "A picturesque beach located in the Cabrera Archipelago National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        2.930337,
+                        39.143361
+                  ]
+            },
+            {
+                  "name": "sa Platgeta",
+                  "text": "A small sandy beach in the Cabrera Archipelago National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        2.9371,
+                        39.144262
+                  ]
+            },
+            {
+                  "name": "es Celler",
+                  "text": "A museum dedicated to local history within the Cabrera National Park.",
+                  "category": "museum",
+                  "coords": [
+                        2.941656,
+                        39.139601
+                  ]
+            },
+            {
+                  "name": "Monasterio bizantino",
+                  "text": "Remains of an ancient Byzantine monastery on Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        2.938744,
+                        39.143529
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Cabrera-Archipel", hu: "Cabrera-szigetcsoport Nemzeti Park", ro: "Parcul Național Arhipelagul Cabrera", en: "Cabrera Archipelago National Park"},
@@ -694,7 +2764,268 @@ imageHint: "Cíes Islands beach and turquoise water",
     },
   },
   {
-    id: "spain-sierra-nieves-life-v2",
+    id: "spain-sierra-nieves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Ein geschützter Nationalpark in Andalusien, bekannt für seine seltenen Spanischen Tannenwälder.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Parque Natural de la Sierra de las Nieves",
+                  "text": "Ein Naturreservat in Südspanien mit vielfältiger Flora und zerklüfteten Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -4.991896,
+                        36.690521
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "Der höchste Gipfel der Sierra de las Nieves mit einer Höhe von 1.919 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Corona",
+                  "text": "Ein Berggipfel im Nationalpark Sierra de las Nieves mit malerischer Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.964199,
+                        36.680494
+                  ]
+            },
+            {
+                  "name": "Mirador Luis Ceballos",
+                  "text": "Ein Aussichtspunkt in der Sierra de las Nieves mit Blick auf die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        -4.964974,
+                        36.710408
+                  ]
+            },
+            {
+                  "name": "Mirador natural Caucón - Tajo de la Caina",
+                  "text": "Ein natürlicher Aussichtspunkt mit Blick auf die dramatischen Kalksteinfelsen des Tajo de la Caina.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965252,
+                        36.705035
+                  ]
+            },
+            {
+                  "name": "Mirador natural del Tajo de la Caína",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die steilen Klippen und Täler des Naturreservats.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965623,
+                        36.702747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Védett nemzeti park Andalúziában, amely ritka spanyol jegenyefenyő-erdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Parque Natural de la Sierra de las Nieves",
+                  "text": "Természetvédelmi terület Dél-Spanyolországban, változatos flórával és sziklás tájakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -4.991896,
+                        36.690521
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "A Sierra de las Nieves legmagasabb csúcsa, amely 1919 méteres magasságba nyúlik.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Corona",
+                  "text": "Hegycsúcs a Sierra de las Nieves Nemzeti Parkban, festői kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.964199,
+                        36.680494
+                  ]
+            },
+            {
+                  "name": "Mirador Luis Ceballos",
+                  "text": "Kilátópont a Sierra de las Nievesben, rálátással a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.964974,
+                        36.710408
+                  ]
+            },
+            {
+                  "name": "Mirador natural Caucón - Tajo de la Caina",
+                  "text": "Természetes kilátóhely, amely a Tajo de la Caina drámai mészkőszikláira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965252,
+                        36.705035
+                  ]
+            },
+            {
+                  "name": "Mirador natural del Tajo de la Caína",
+                  "text": "Festői kilátóhely, rálátással a természetvédelmi terület meredek szikláira és völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965623,
+                        36.702747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Un parc național protejat din Andaluzia, cunoscut pentru pădurile sale rare de brad spaniol.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Parque Natural de la Sierra de las Nieves",
+                  "text": "O rezervație naturală din sudul Spaniei, cu o floră diversă și peisaje accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -4.991896,
+                        36.690521
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "Cel mai înalt vârf din Sierra de las Nieves, atingând o altitudine de 1.919 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Corona",
+                  "text": "Un vârf montan din Parcul Național Sierra de las Nieves, oferind priveliști pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.964199,
+                        36.680494
+                  ]
+            },
+            {
+                  "name": "Mirador Luis Ceballos",
+                  "text": "Un punct de belvedere în Sierra de las Nieves, oferind vederi asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -4.964974,
+                        36.710408
+                  ]
+            },
+            {
+                  "name": "Mirador natural Caucón - Tajo de la Caina",
+                  "text": "Un punct de belvedere natural cu vedere la stâncile dramatice de calcar din Tajo de la Caina.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965252,
+                        36.705035
+                  ]
+            },
+            {
+                  "name": "Mirador natural del Tajo de la Caína",
+                  "text": "Un punct de observație pitoresc care oferă vedere spre stâncile abrupte și văile rezervației naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965623,
+                        36.702747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sierra de las Nieves National Park",
+                  "text": "A protected national park in Andalusia known for its rare Spanish fir forests.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Parque Natural de la Sierra de las Nieves",
+                  "text": "A natural reserve in southern Spain featuring diverse flora and rugged landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -4.991896,
+                        36.690521
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "The highest peak in the Sierra de las Nieves, reaching an elevation of 1,919 metres.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Corona",
+                  "text": "A mountain peak within the Sierra de las Nieves National Park offering scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.964199,
+                        36.680494
+                  ]
+            },
+            {
+                  "name": "Mirador Luis Ceballos",
+                  "text": "A viewpoint in the Sierra de las Nieves offering vistas of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -4.964974,
+                        36.710408
+                  ]
+            },
+            {
+                  "name": "Mirador natural Caucón - Tajo de la Caina",
+                  "text": "A natural viewpoint overlooking the dramatic limestone cliffs of Tajo de la Caina.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965252,
+                        36.705035
+                  ]
+            },
+            {
+                  "name": "Mirador natural del Tajo de la Caína",
+                  "text": "A scenic overlook providing views of the steep cliffs and valleys of the nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -4.965623,
+                        36.702747
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Nationalpark Sierra de las Nieves", hu: "Sierra de las Nieves Nemzeti Park", ro: "Parcul Național Sierra de las Nieves", en: "Sierra de las Nieves National Park"},
@@ -741,7 +3072,160 @@ imageHint: "Cíes Islands beach and turquoise water",
     },
   },
   {
-    id: "spain-somiedo-life-v2",
+    id: "spain-somiedo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural de Somiedo",
+                  "text": "Ein Biosphärenreservat in Asturien, bekannt für seine Seen und wilden Braunbären.",
+                  "category": "natural",
+                  "coords": [
+                        -6.249303,
+                        43.097426
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Verwaltungsgebäude und Informationszentrum im Naturpark Somiedo.",
+                  "category": "museum",
+                  "coords": [
+                        -6.252187,
+                        43.116355
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Somiedo y el Oso",
+                  "text": "Ein Besucherzentrum, das dem Braunbären und seinem Ökosystem in Asturien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254092,
+                        43.093143
+                  ]
+            },
+            {
+                  "name": "Mirador d'Aguinu",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über die Berglandschaft von Somiedo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.264206,
+                        43.104472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural de Somiedo",
+                  "text": "Bioszféra-rezervátum Asztúriában, amely tavairól és vadon élő barna medvéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.249303,
+                        43.097426
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Adminisztrációs épület és információs központ a Somiedo Natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.252187,
+                        43.116355
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Somiedo y el Oso",
+                  "text": "Látogatóközpont, amely a barna medvének és asztúriai élőhelyének bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254092,
+                        43.093143
+                  ]
+            },
+            {
+                  "name": "Mirador d'Aguinu",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik a Somiedo-hegység vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        -6.264206,
+                        43.104472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural de Somiedo",
+                  "text": "Rezervație a biosferei în Asturias, cunoscută pentru lacurile sale și urșii bruni sălbatici.",
+                  "category": "natural",
+                  "coords": [
+                        -6.249303,
+                        43.097426
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Clădiri administrative și centru de informare în cadrul Parcului Natural Somiedo.",
+                  "category": "museum",
+                  "coords": [
+                        -6.252187,
+                        43.116355
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Somiedo y el Oso",
+                  "text": "Centru de vizitare dedicat ursului brun și ecosistemului său din Asturias.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254092,
+                        43.093143
+                  ]
+            },
+            {
+                  "name": "Mirador d'Aguinu",
+                  "text": "Punct de observație ce oferă vederi largi asupra peisajului montan din Somiedo.",
+                  "category": "natural",
+                  "coords": [
+                        -6.264206,
+                        43.104472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural de Somiedo",
+                  "text": "A biosphere reserve in Asturias known for its lakes and wild brown bears.",
+                  "category": "natural",
+                  "coords": [
+                        -6.249303,
+                        43.097426
+                  ]
+            },
+            {
+                  "name": "Offices and Museum",
+                  "text": "Administrative offices and information centre within the Somiedo Natural Park.",
+                  "category": "museum",
+                  "coords": [
+                        -6.252187,
+                        43.116355
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Somiedo y el Oso",
+                  "text": "A visitor centre dedicated to the brown bear and its ecosystem in Asturias.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254092,
+                        43.093143
+                  ]
+            },
+            {
+                  "name": "Mirador d'Aguinu",
+                  "text": "A viewpoint offering wide vistas over the mountain landscape of Somiedo.",
+                  "category": "natural",
+                  "coords": [
+                        -6.264206,
+                        43.104472
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Naturpark Somiedo", hu: "Somiedo Természeti Park", ro: "Parcul Natural Somiedo", en: "Somiedo Natural Park"},
@@ -788,7 +3272,88 @@ imageHint: "Cíes Islands beach and turquoise water",
     },
   },
   {
-    id: "spain-cazorla-life-v2",
+    id: "spain-cazorla-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Forestal Fuente de la Umbría",
+                  "text": "Ruinen eines ehemaligen Forsthauses im Naturpark Sierras de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.847534,
+                        37.955391
+                  ]
+            },
+            {
+                  "name": "Casa Forestal Majada Llana",
+                  "text": "Überreste eines Forstgebäudes in der Gebirgsregion von Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.896969,
+                        37.965619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Forestal Fuente de la Umbría",
+                  "text": "Egykori erdészlak romjai a Sierras de Cazorla natúrparkban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.847534,
+                        37.955391
+                  ]
+            },
+            {
+                  "name": "Casa Forestal Majada Llana",
+                  "text": "Erdészeti épület maradványai Cazorla hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.896969,
+                        37.965619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Forestal Fuente de la Umbría",
+                  "text": "Ruinele unei foste case forestiere în Parcul Natural Sierras de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.847534,
+                        37.955391
+                  ]
+            },
+            {
+                  "name": "Casa Forestal Majada Llana",
+                  "text": "Vestigiile unei clădiri forestiere în regiunea muntoasă Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.896969,
+                        37.965619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Forestal Fuente de la Umbría",
+                  "text": "Ruins of a former forest house in the Sierras de Cazorla Natural Park.",
+                  "category": "historical",
+                  "coords": [
+                        -2.847534,
+                        37.955391
+                  ]
+            },
+            {
+                  "name": "Casa Forestal Majada Llana",
+                  "text": "Remains of a forestry building in the mountainous region of Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.896969,
+                        37.965619
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Naturpark Sierras de Cazorla, Segura und Las Villas", hu: "Cazorla, Segura és Las Villas Természeti Park", ro: "Parcul Natural Sierras de Cazorla, Segura y Las Villas", en: "Cazorla, Segura and Las Villas Natural Park"},
@@ -835,7 +3400,52 @@ imageHint: "Cíes Islands beach and turquoise water",
     },
   },
   {
-    id: "spain-cabo-de-gata-life-v2",
+    id: "spain-cabo-de-gata-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimenea Mina Santa Bárbara",
+                  "text": "Industrielle Überreste eines Schornsteins der ehemaligen Mine Santa Bárbara.",
+                  "category": "historical",
+                  "coords": [
+                        -2.13978,
+                        36.776554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimenea Mina Santa Bárbara",
+                  "text": "Az egykori Santa Bárbara bánya kéményének ipari maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -2.13978,
+                        36.776554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimenea Mina Santa Bárbara",
+                  "text": "Rămășițele industriale ale unui coș de fum de la fosta mină Santa Bárbara.",
+                  "category": "historical",
+                  "coords": [
+                        -2.13978,
+                        36.776554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimenea Mina Santa Bárbara",
+                  "text": "Industrial remains of a chimney from the former Santa Bárbara mine.",
+                  "category": "historical",
+                  "coords": [
+                        -2.13978,
+                        36.776554
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Naturpark Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar Természeti Park", ro: "Parcul Natural Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar Natural Park"},
@@ -881,7 +3491,268 @@ imageHint: "Cabo de Gata volcanic cliffs and beach Almeria",
     },
     image: "/poi-images/spain-cabo-de-gata-life-v2.webp",
 },  {
-    id: "spain-delta-ebre-life-v2",
+    id: "spain-delta-ebre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu d'Arròs Molí de Rafelet",
+                  "text": "Ein Museum in einer historischen Reismühle im Naturpark Ebro-Delta.",
+                  "category": "museum",
+                  "coords": [
+                        0.739983,
+                        40.71731
+                  ]
+            },
+            {
+                  "name": "Ebre Terra Center",
+                  "text": "Ein Informations- und Touristenzentrum im Naturpark Ebro-Delta.",
+                  "category": "museum",
+                  "coords": [
+                        0.737615,
+                        40.720125
+                  ]
+            },
+            {
+                  "name": "Centre d’Interpretació de les Barraques del Delta",
+                  "text": "Ein Museum, das die traditionellen Schilfhütten des Ebro-Deltas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        0.73358,
+                        40.704482
+                  ]
+            },
+            {
+                  "name": "Ecomuseu del Parc Natural del Delta de l'Ebre",
+                  "text": "Ein Freilichtmuseum, das die Ökosysteme und Traditionen des Ebro-Deltas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        0.722146,
+                        40.723481
+                  ]
+            },
+            {
+                  "name": "Creuers Olmos",
+                  "text": "Ein Anbieter für touristische Bootsfahrten durch das Ebro-Delta.",
+                  "category": "landmark",
+                  "coords": [
+                        0.734023,
+                        40.711702
+                  ]
+            },
+            {
+                  "name": "Espai de creació Enclave",
+                  "text": "Ein Kunst- und Kreativzentrum im Ebro-Delta-Naturpark.",
+                  "category": "cultural",
+                  "coords": [
+                        0.712488,
+                        40.725437
+                  ]
+            },
+            {
+                  "name": "lo Passador",
+                  "text": "Eine moderne Brücke über den Ebro, die Sant Jaume d'Enveja und Deltebre verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        0.717514,
+                        40.71311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu d'Arròs Molí de Rafelet",
+                  "text": "Rizsmalom-múzeum egy történelmi malomban az Ebro-delta natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        0.739983,
+                        40.71731
+                  ]
+            },
+            {
+                  "name": "Ebre Terra Center",
+                  "text": "Információs és turisztikai központ az Ebro-delta natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        0.737615,
+                        40.720125
+                  ]
+            },
+            {
+                  "name": "Centre d’Interpretació de les Barraques del Delta",
+                  "text": "Az Ebro-delta hagyományos nádkunyhóit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        0.73358,
+                        40.704482
+                  ]
+            },
+            {
+                  "name": "Ecomuseu del Parc Natural del Delta de l'Ebre",
+                  "text": "Szabadtéri múzeum, amely az Ebro-delta ökoszisztémáját és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        0.722146,
+                        40.723481
+                  ]
+            },
+            {
+                  "name": "Creuers Olmos",
+                  "text": "Turisztikai sétahajózásokat kínáló szolgáltató az Ebro-deltában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.734023,
+                        40.711702
+                  ]
+            },
+            {
+                  "name": "Espai de creació Enclave",
+                  "text": "Művészeti és kreatív központ az Ebro-delta natúrpark területén.",
+                  "category": "cultural",
+                  "coords": [
+                        0.712488,
+                        40.725437
+                  ]
+            },
+            {
+                  "name": "lo Passador",
+                  "text": "Modern híd az Ebro felett, amely Sant Jaume d'Enveja-t és Deltebre-t köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        0.717514,
+                        40.71311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu d'Arròs Molí de Rafelet",
+                  "text": "Un muzeu amenajat într-o moară de orez istorică din Parcul Natural Delta Ebrului.",
+                  "category": "museum",
+                  "coords": [
+                        0.739983,
+                        40.71731
+                  ]
+            },
+            {
+                  "name": "Ebre Terra Center",
+                  "text": "Un centru de informare și turism situat în Parcul Natural Delta Ebrului.",
+                  "category": "museum",
+                  "coords": [
+                        0.737615,
+                        40.720125
+                  ]
+            },
+            {
+                  "name": "Centre d’Interpretació de les Barraques del Delta",
+                  "text": "Un muzeu care documentează colibele tradiționale din stuf din Delta Ebrului.",
+                  "category": "museum",
+                  "coords": [
+                        0.73358,
+                        40.704482
+                  ]
+            },
+            {
+                  "name": "Ecomuseu del Parc Natural del Delta de l'Ebre",
+                  "text": "Un ecomuzeu care prezintă ecosistemele și tradițiile Deltei Ebrului.",
+                  "category": "museum",
+                  "coords": [
+                        0.722146,
+                        40.723481
+                  ]
+            },
+            {
+                  "name": "Creuers Olmos",
+                  "text": "Un operator ce oferă croaziere turistice prin Delta Ebrului.",
+                  "category": "landmark",
+                  "coords": [
+                        0.734023,
+                        40.711702
+                  ]
+            },
+            {
+                  "name": "Espai de creació Enclave",
+                  "text": "Un centru de creație și artă situat în Parcul Natural Delta Ebrului.",
+                  "category": "cultural",
+                  "coords": [
+                        0.712488,
+                        40.725437
+                  ]
+            },
+            {
+                  "name": "lo Passador",
+                  "text": "Un pod modern peste râul Ebru, care leagă localitățile Sant Jaume d'Enveja și Deltebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.717514,
+                        40.71311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu d'Arròs Molí de Rafelet",
+                  "text": "A museum housed in a historic rice mill within the Ebro Delta Natural Park.",
+                  "category": "museum",
+                  "coords": [
+                        0.739983,
+                        40.71731
+                  ]
+            },
+            {
+                  "name": "Ebre Terra Center",
+                  "text": "An information and tourism centre in the Ebro Delta Natural Park.",
+                  "category": "museum",
+                  "coords": [
+                        0.737615,
+                        40.720125
+                  ]
+            },
+            {
+                  "name": "Centre d’Interpretació de les Barraques del Delta",
+                  "text": "A museum documenting the traditional reed huts of the Ebro Delta.",
+                  "category": "museum",
+                  "coords": [
+                        0.73358,
+                        40.704482
+                  ]
+            },
+            {
+                  "name": "Ecomuseu del Parc Natural del Delta de l'Ebre",
+                  "text": "An eco-museum showcasing the ecosystems and traditions of the Ebro Delta.",
+                  "category": "museum",
+                  "coords": [
+                        0.722146,
+                        40.723481
+                  ]
+            },
+            {
+                  "name": "Creuers Olmos",
+                  "text": "A provider of tourist boat cruises through the Ebro Delta.",
+                  "category": "landmark",
+                  "coords": [
+                        0.734023,
+                        40.711702
+                  ]
+            },
+            {
+                  "name": "Espai de creació Enclave",
+                  "text": "An arts and creation centre in the Ebro Delta Natural Park.",
+                  "category": "cultural",
+                  "coords": [
+                        0.712488,
+                        40.725437
+                  ]
+            },
+            {
+                  "name": "lo Passador",
+                  "text": "A modern bridge over the Ebro connecting Sant Jaume d'Enveja and Deltebre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.717514,
+                        40.71311
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Naturpark Ebro-Delta", hu: "Ebro-delta Természeti Park", ro: "Parcul Natural Delta Ebro", en: "Ebro Delta Natural Park"},
@@ -927,7 +3798,268 @@ imageHint: "Ebro Delta rice fields and lagoons",
     },
     image: "/poi-images/spain-delta-ebre-life-v2.webp",
 },  {
-    id: "spain-albufera-valencia-life-v2",
+    id: "spain-albufera-valencia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Ecológica del Racó de l'Olla",
+                  "text": "Ökologisches Schutzgebiet im Naturpark Albufera.",
+                  "category": "natural",
+                  "coords": [
+                        -0.315541,
+                        39.330396
+                  ]
+            },
+            {
+                  "name": "Motor de la Pipa",
+                  "text": "Umweltzentrum und Museum in den Feuchtgebieten von Albufera.",
+                  "category": "museum",
+                  "coords": [
+                        -0.347018,
+                        39.359178
+                  ]
+            },
+            {
+                  "name": "Mirador de la Gola de Pujol",
+                  "text": "Aussichtspunkt am Kanal, der den See mit dem Meer verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.323602,
+                        39.349223
+                  ]
+            },
+            {
+                  "name": "Embarcadero Cañas y Barro",
+                  "text": "Bootssteg für Ausflüge auf dem Albufera-See.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319411,
+                        39.329755
+                  ]
+            },
+            {
+                  "name": "Embarcadero Port de Sollana",
+                  "text": "Bootsanlegestelle im südlichen Teil des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.358773,
+                        39.306089
+                  ]
+            },
+            {
+                  "name": "Albufera Parc",
+                  "text": "Ausflugsziel mit Bootsfahrten und Naturerlebnissen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.318398,
+                        39.312438
+                  ]
+            },
+            {
+                  "name": "Embarcador del Palmar",
+                  "text": "Traditionelle Bootsanlegestelle im Dorf El Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319666,
+                        39.31202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Ecológica del Racó de l'Olla",
+                  "text": "Ökológiai védelmi terület az Albufera natúrparkban.",
+                  "category": "natural",
+                  "coords": [
+                        -0.315541,
+                        39.330396
+                  ]
+            },
+            {
+                  "name": "Motor de la Pipa",
+                  "text": "Környezetvédelmi központ és múzeum az Albufera mocsárvidékén.",
+                  "category": "museum",
+                  "coords": [
+                        -0.347018,
+                        39.359178
+                  ]
+            },
+            {
+                  "name": "Mirador de la Gola de Pujol",
+                  "text": "Kilátópont a tavat a tengerrel összekötő csatornánál.",
+                  "category": "natural",
+                  "coords": [
+                        -0.323602,
+                        39.349223
+                  ]
+            },
+            {
+                  "name": "Embarcadero Cañas y Barro",
+                  "text": "Csónakázó kikötő az Albufera-tavon tett túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319411,
+                        39.329755
+                  ]
+            },
+            {
+                  "name": "Embarcadero Port de Sollana",
+                  "text": "Hajókikötő a natúrpark déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.358773,
+                        39.306089
+                  ]
+            },
+            {
+                  "name": "Albufera Parc",
+                  "text": "Látogatóközpont csónaktúrákkal és természeti élményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.318398,
+                        39.312438
+                  ]
+            },
+            {
+                  "name": "Embarcador del Palmar",
+                  "text": "Hagyományos hajókikötő El Palmar falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319666,
+                        39.31202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Ecológica del Racó de l'Olla",
+                  "text": "Rezervație ecologică în cadrul Parcului Natural Albufera.",
+                  "category": "natural",
+                  "coords": [
+                        -0.315541,
+                        39.330396
+                  ]
+            },
+            {
+                  "name": "Motor de la Pipa",
+                  "text": "Muzeu și centru de mediu în zonele umede din Albufera.",
+                  "category": "museum",
+                  "coords": [
+                        -0.347018,
+                        39.359178
+                  ]
+            },
+            {
+                  "name": "Mirador de la Gola de Pujol",
+                  "text": "Punct de observare situat la canalul care leagă lacul de mare.",
+                  "category": "natural",
+                  "coords": [
+                        -0.323602,
+                        39.349223
+                  ]
+            },
+            {
+                  "name": "Embarcadero Cañas y Barro",
+                  "text": "Debarcader care oferă excursii cu barca pe lacul Albufera.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319411,
+                        39.329755
+                  ]
+            },
+            {
+                  "name": "Embarcadero Port de Sollana",
+                  "text": "Zonă de debarcader pentru bărci în partea de sud a parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.358773,
+                        39.306089
+                  ]
+            },
+            {
+                  "name": "Albufera Parc",
+                  "text": "Atracție turistică ce oferă plimbări cu barca și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.318398,
+                        39.312438
+                  ]
+            },
+            {
+                  "name": "Embarcador del Palmar",
+                  "text": "Debarcader tradițional în satul El Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319666,
+                        39.31202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Ecológica del Racó de l'Olla",
+                  "text": "Ecological reserve area within the Albufera Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        -0.315541,
+                        39.330396
+                  ]
+            },
+            {
+                  "name": "Motor de la Pipa",
+                  "text": "Museum and environmental center in the Albufera wetlands.",
+                  "category": "museum",
+                  "coords": [
+                        -0.347018,
+                        39.359178
+                  ]
+            },
+            {
+                  "name": "Mirador de la Gola de Pujol",
+                  "text": "Viewpoint overlooking the canal connecting the lake to the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -0.323602,
+                        39.349223
+                  ]
+            },
+            {
+                  "name": "Embarcadero Cañas y Barro",
+                  "text": "Boat jetty offering tours of the Albufera lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319411,
+                        39.329755
+                  ]
+            },
+            {
+                  "name": "Embarcadero Port de Sollana",
+                  "text": "Jetty area for boats in the southern part of the natural park.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.358773,
+                        39.306089
+                  ]
+            },
+            {
+                  "name": "Albufera Parc",
+                  "text": "Visitor attraction offering boat trips and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.318398,
+                        39.312438
+                  ]
+            },
+            {
+                  "name": "Embarcador del Palmar",
+                  "text": "Traditional boat landing in the village of El Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.319666,
+                        39.31202
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "park",
     name: { de: "Naturpark Albufera de Valencia", hu: "Albufera de Valencia Természeti Park", ro: "Parcul Natural Albufera de Valencia", en: "Albufera de Valencia Natural Park"},
@@ -1113,7 +4245,304 @@ imageHint: "Royal Botanical Garden Madrid entrance",
     }
   },
   {
-    id: "spain-cabarceno-life-v2",
+    id: "spain-cabarceno-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque de la Naturaleza de Cabárceno",
+                  "text": "Ein weitläufiger Naturpark, in dem Tiere in halbfreier Wildbahn leben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.838963,
+                        43.356675
+                  ]
+            },
+            {
+                  "name": "Mina Complemento",
+                  "text": "Eine archäologische Stätte in einem ehemaligen Bergbaugebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -3.823949,
+                        43.371124
+                  ]
+            },
+            {
+                  "name": "Cueva de Morín",
+                  "text": "Eine prähistorische Höhle, die für ihre archäologischen Funde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.849491,
+                        43.371809
+                  ]
+            },
+            {
+                  "name": "Tejería",
+                  "text": "Die Ruinen einer ehemaligen Ziegelei im Naturpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.85606,
+                        43.328225
+                  ]
+            },
+            {
+                  "name": "Mirador Picos Europa",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf das Picos de Europa-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        -3.839302,
+                        43.365629
+                  ]
+            },
+            {
+                  "name": "Mirador del Rubí",
+                  "text": "Ein Aussichtspunkt mit weitem Ausblick über die Landschaft von Cabárceno.",
+                  "category": "natural",
+                  "coords": [
+                        -3.834862,
+                        43.368397
+                  ]
+            },
+            {
+                  "name": "Planta de concetración de mineral",
+                  "text": "Ein Aussichtspunkt bei den Überresten einer alten Erzaufbereitungsanlage.",
+                  "category": "natural",
+                  "coords": [
+                        -3.850457,
+                        43.351379
+                  ]
+            },
+            {
+                  "name": "Vaca y Caballo Monchino",
+                  "text": "Eine Attraktion, die einheimischen Rinder- und Pferderassen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.855697,
+                        43.344844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque de la Naturaleza de Cabárceno",
+                  "text": "Kiterjedt natúrpark, ahol az állatok félszabadon élnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.838963,
+                        43.356675
+                  ]
+            },
+            {
+                  "name": "Mina Complemento",
+                  "text": "Régészeti lelőhely egy egykori bányaterületen.",
+                  "category": "historical",
+                  "coords": [
+                        -3.823949,
+                        43.371124
+                  ]
+            },
+            {
+                  "name": "Cueva de Morín",
+                  "text": "Régészeti leleteiről nevezetes őskori barlang.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.849491,
+                        43.371809
+                  ]
+            },
+            {
+                  "name": "Tejería",
+                  "text": "Egy egykori téglagyár romjai a natúrparkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.85606,
+                        43.328225
+                  ]
+            },
+            {
+                  "name": "Mirador Picos Europa",
+                  "text": "Kilátópont panorámás kilátással a Picos de Europa-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.839302,
+                        43.365629
+                  ]
+            },
+            {
+                  "name": "Mirador del Rubí",
+                  "text": "Kilátópont, amely széles kilátást nyújt Cabárceno vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -3.834862,
+                        43.368397
+                  ]
+            },
+            {
+                  "name": "Planta de concetración de mineral",
+                  "text": "Kilátópont egy régi ércdúsító üzem maradványainál.",
+                  "category": "natural",
+                  "coords": [
+                        -3.850457,
+                        43.351379
+                  ]
+            },
+            {
+                  "name": "Vaca y Caballo Monchino",
+                  "text": "Helyi szarvasmarha- és lófajtáknak szentelt látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.855697,
+                        43.344844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque de la Naturaleza de Cabárceno",
+                  "text": "Un parc natural vast unde animalele trăiesc în semi-libertate.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.838963,
+                        43.356675
+                  ]
+            },
+            {
+                  "name": "Mina Complemento",
+                  "text": "Un sit arheologic situat într-o fostă zonă minieră.",
+                  "category": "historical",
+                  "coords": [
+                        -3.823949,
+                        43.371124
+                  ]
+            },
+            {
+                  "name": "Cueva de Morín",
+                  "text": "O peșteră preistorică cunoscută pentru descoperirile sale arheologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.849491,
+                        43.371809
+                  ]
+            },
+            {
+                  "name": "Tejería",
+                  "text": "Ruinele unei foste fabrici de cărămidă din parcul natural.",
+                  "category": "historical",
+                  "coords": [
+                        -3.85606,
+                        43.328225
+                  ]
+            },
+            {
+                  "name": "Mirador Picos Europa",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra munților Picos de Europa.",
+                  "category": "natural",
+                  "coords": [
+                        -3.839302,
+                        43.365629
+                  ]
+            },
+            {
+                  "name": "Mirador del Rubí",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra peisajului din Cabárceno.",
+                  "category": "natural",
+                  "coords": [
+                        -3.834862,
+                        43.368397
+                  ]
+            },
+            {
+                  "name": "Planta de concetración de mineral",
+                  "text": "Un punct de belvedere situat lângă resturile unei vechi stații de concentrare a minereului.",
+                  "category": "natural",
+                  "coords": [
+                        -3.850457,
+                        43.351379
+                  ]
+            },
+            {
+                  "name": "Vaca y Caballo Monchino",
+                  "text": "O atracție dedicată raselor locale de vite și cai.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.855697,
+                        43.344844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabarceno Natural Park",
+                  "text": "A vast natural park where animals live in semi-free conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.838963,
+                        43.356675
+                  ]
+            },
+            {
+                  "name": "Mina Complemento",
+                  "text": "An archaeological site located in a former mining area.",
+                  "category": "historical",
+                  "coords": [
+                        -3.823949,
+                        43.371124
+                  ]
+            },
+            {
+                  "name": "Cueva de Morín",
+                  "text": "A prehistoric cave known for its archaeological findings.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.849491,
+                        43.371809
+                  ]
+            },
+            {
+                  "name": "Tejería",
+                  "text": "The ruins of a former brick factory in the natural park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.85606,
+                        43.328225
+                  ]
+            },
+            {
+                  "name": "Mirador Picos Europa",
+                  "text": "A viewpoint offering panoramic views of the Picos de Europa mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -3.839302,
+                        43.365629
+                  ]
+            },
+            {
+                  "name": "Mirador del Rubí",
+                  "text": "A viewpoint offering wide views over the Cabárceno landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -3.834862,
+                        43.368397
+                  ]
+            },
+            {
+                  "name": "Planta de concetración de mineral",
+                  "text": "A viewpoint located by the remains of an old ore concentration plant.",
+                  "category": "natural",
+                  "coords": [
+                        -3.850457,
+                        43.351379
+                  ]
+            },
+            {
+                  "name": "Monchino Cow and Horse",
+                  "text": "An attraction dedicated to local cattle and horse breeds.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.855697,
+                        43.344844
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "wildlife",
     name: { de: "Naturpark Cabárceno", hu: "Cabárceno Természeti Park", ro: "Parcul Natural Cabárceno", en: "Cabárceno Natural Park"},
@@ -1348,7 +4777,196 @@ imageHint: "Royal Botanical Garden Madrid entrance",
     }
   },
   {
-    id: "spain-gallocanta-life-v2",
+    id: "spain-gallocanta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Berrueco",
+                  "text": "Die Überreste einer historischen Burg mit Blick auf das Gebiet des Gallocanta-Sees.",
+                  "category": "castle",
+                  "coords": [
+                        -1.467585,
+                        40.991984
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "Ein bedeutendes Naturschutzgebiet rund um die Salzwasserlagune, bekannt für Zugvögel.",
+                  "category": "natural",
+                  "coords": [
+                        -1.496774,
+                        40.962849
+                  ]
+            },
+            {
+                  "name": "Yacimiento Celtibérico El Castellar",
+                  "text": "Eine archäologische Stätte mit den Überresten einer keltiberischen Siedlung bei Gallocanta.",
+                  "category": "historical",
+                  "coords": [
+                        -1.466509,
+                        40.978487
+                  ]
+            },
+            {
+                  "name": "Oficina de Información Turistica de Gallocanta",
+                  "text": "Ein Besucherzentrum und Museum, das Informationen über die lokale Naturgeschichte und die Lagune bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -1.505888,
+                        40.993241
+                  ]
+            },
+            {
+                  "name": "Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "Eine geschützte Randzone, die das Naturschutzgebiet des Gallocanta-Sees umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512536,
+                        40.972238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Berrueco",
+                  "text": "Egy történelmi vár maradványai, amely a Gallocanta-tó környékére néz.",
+                  "category": "castle",
+                  "coords": [
+                        -1.467585,
+                        40.991984
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "Jelentős természetvédelmi terület a sós vizű lagúna körül, amely vándormadarairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -1.496774,
+                        40.962849
+                  ]
+            },
+            {
+                  "name": "Yacimiento Celtibérico El Castellar",
+                  "text": "Régészeti lelőhely egy keltiber település maradványaival Gallocanta közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.466509,
+                        40.978487
+                  ]
+            },
+            {
+                  "name": "Oficina de Información Turistica de Gallocanta",
+                  "text": "Látogatóközpont és múzeum, amely információkat nyújt a helyi természetrajzról és a lagúnáról.",
+                  "category": "museum",
+                  "coords": [
+                        -1.505888,
+                        40.993241
+                  ]
+            },
+            {
+                  "name": "Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "A Gallocanta-tó természetvédelmi területét körülvevő védett övezet.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512536,
+                        40.972238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Berrueco",
+                  "text": "Rămășițele unui castel istoric care domină zona lacului Gallocanta.",
+                  "category": "castle",
+                  "coords": [
+                        -1.467585,
+                        40.991984
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "O rezervație naturală importantă concentrată pe laguna cu apă sărată, cunoscută pentru păsările migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -1.496774,
+                        40.962849
+                  ]
+            },
+            {
+                  "name": "Yacimiento Celtibérico El Castellar",
+                  "text": "Un sit arheologic care prezintă rămășițele unei așezări celtiberice lângă Gallocanta.",
+                  "category": "historical",
+                  "coords": [
+                        -1.466509,
+                        40.978487
+                  ]
+            },
+            {
+                  "name": "Oficina de Información Turistica de Gallocanta",
+                  "text": "Un centru de vizitare și muzeu care oferă informații despre istoria naturală locală și lagună.",
+                  "category": "museum",
+                  "coords": [
+                        -1.505888,
+                        40.993241
+                  ]
+            },
+            {
+                  "name": "Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "O zonă periferică protejată care înconjoară rezervația naturală a lacului Gallocanta.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512536,
+                        40.972238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Berrueco",
+                  "text": "The remains of a historical castle overlooking the Gallocanta Lake area.",
+                  "category": "castle",
+                  "coords": [
+                        -1.467585,
+                        40.991984
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "A significant nature reserve focused on the saltwater lagoon, known for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        -1.496774,
+                        40.962849
+                  ]
+            },
+            {
+                  "name": "Yacimiento Celtibérico El Castellar",
+                  "text": "An archaeological site featuring the remains of a Celtiberian settlement near Gallocanta.",
+                  "category": "historical",
+                  "coords": [
+                        -1.466509,
+                        40.978487
+                  ]
+            },
+            {
+                  "name": "Oficina de Información Turistica de Gallocanta",
+                  "text": "A visitor centre and museum providing information about the local natural history and the lagoon.",
+                  "category": "museum",
+                  "coords": [
+                        -1.505888,
+                        40.993241
+                  ]
+            },
+            {
+                  "name": "Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta",
+                  "text": "A protected peripheral area surrounding the Gallocanta Lake nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512536,
+                        40.972238
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "lake",
     name: { de: "Gallocanta-See", hu: "Gallocanta-tó", ro: "Lacul Gallocanta", en: "Gallocanta Lake"},

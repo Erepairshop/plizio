@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const icelandNatureV2: POI[] = [
 
   {
-    id: "iceland-gullfoss-nature-v2",
+    id: "iceland-gullfoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gullfoss",
+                  "text": "Ein malerischer Aussichtspunkt, der eine atemberaubende Perspektive auf den berühmten Gullfoss-Wasserfall in Island bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -20.121537,
+                        64.327636
+                  ]
+            },
+            {
+                  "name": "Gullfoss Viewing Platform",
+                  "text": "Eine Plattform, die für Besucher konzipiert wurde, um den majestätischen Gullfoss-Wasserfall sicher zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -20.124409,
+                        64.32619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gullfoss",
+                  "text": "Festői kilátóhely, amely lenyűgöző rálátást nyújt a híres izlandi Gullfoss-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -20.121537,
+                        64.327636
+                  ]
+            },
+            {
+                  "name": "Gullfoss Viewing Platform",
+                  "text": "A látogatók számára kialakított platform a fenséges Gullfoss-vízesés biztonságos megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -20.124409,
+                        64.32619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gullfoss",
+                  "text": "Un punct de belvedere pitoresc care oferă o perspectivă uimitoare asupra celebrei cascade Gullfoss din Islanda.",
+                  "category": "natural",
+                  "coords": [
+                        -20.121537,
+                        64.327636
+                  ]
+            },
+            {
+                  "name": "Gullfoss Viewing Platform",
+                  "text": "O platformă concepută pentru ca vizitatorii să poată vedea în siguranță maiestuoasa cascadă Gullfoss.",
+                  "category": "natural",
+                  "coords": [
+                        -20.124409,
+                        64.32619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gullfoss",
+                  "text": "A scenic viewpoint offering a stunning perspective of the famous Gullfoss waterfall in Iceland.",
+                  "category": "natural",
+                  "coords": [
+                        -20.121537,
+                        64.327636
+                  ]
+            },
+            {
+                  "name": "Gullfoss Viewing Platform",
+                  "text": "A platform designed for visitors to safely view the majestic Gullfoss waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -20.124409,
+                        64.32619
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Gullfoss", hu: "Gullfoss", ro: "Gullfoss", en: "Gullfoss"},
@@ -49,7 +130,232 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
     },
     image: "/poi-images/iceland-gullfoss-nature-v2.webp",
 },  {
-    id: "iceland-skogafoss-nature-v2",
+    id: "iceland-skogafoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Einer der größten und bekanntesten Wasserfälle Islands, am Fluss Skógá gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Ein kulturhistorisches Museum mit traditionellen isländischen Torfhäusern und Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf den Wasserfall Skógafoss bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Beispiele für traditionelle isländische Architektur, die mit Torfschichten gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "Ein historisches isländisches Wohnhaus, das mit Torf zur Isolierung gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "Ein bemerkenswertes lokales Gebäude oder Wohnhaus in der Region Skógar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Izland egyik legnagyobb és leghíresebb vízesése a Skógá-folyón.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Kulturális örökségvédelmi múzeum hagyományos izlandi tőzegszállásokkal és műtárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Kilátópont, ahonnan látványos kilátás nyílik a Skógafoss-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Hagyományos izlandi építészeti példák, amelyek tőzegrétegekből épültek.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "Történelmi izlandi lakóház, amely szigetelésként tőzeget használ.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "Figyelemre méltó helyi épület vagy lakóház Skógar környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skógafoss",
+                  "text": "Una dintre cele mai mari și mai renumite cascade din Islanda, situată pe râul Skógá.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógasafn",
+                  "text": "Un muzeu al patrimoniului cultural care prezintă case tradiționale islandeze de gazon și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "Un punct de observație care oferă o vedere spectaculoasă asupra cascadei Skógafoss.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Exemple de arhitectură tradițională islandeză construite cu straturi de gazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Rútshellir",
+                  "text": "O locuință istorică islandeză construită folosind gazon pentru izolare.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "Holt Á Síðu",
+                  "text": "O clădire sau reședință locală notabilă din zona Skógar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skógafoss",
+                  "text": "One of Iceland's largest and most famous waterfalls, situated on the Skógá River.",
+                  "category": "natural",
+                  "coords": [
+                        -19.490809,
+                        63.552823
+                  ]
+            },
+            {
+                  "name": "Skógar Museum",
+                  "text": "A cultural heritage museum featuring traditional Icelandic turf houses and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -19.493033,
+                        63.526178
+                  ]
+            },
+            {
+                  "name": "Skógafoss Viewpoint",
+                  "text": "A vantage point providing a spectacular view of the Skógafoss waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -19.510593,
+                        63.531874
+                  ]
+            },
+            {
+                  "name": "Turf Houses",
+                  "text": "Examples of traditional Icelandic architecture built with layers of turf.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.554303,
+                        63.524317
+                  ]
+            },
+            {
+                  "name": "Turf house",
+                  "text": "A historic Icelandic dwelling constructed using turf for insulation.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.572741,
+                        63.522753
+                  ]
+            },
+            {
+                  "name": "House",
+                  "text": "A notable local building or residence in the Skógar area.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.492349,
+                        63.527305
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Skógafoss", hu: "Skógafoss", ro: "Skógafoss", en: "Skógafoss"},
@@ -95,7 +401,88 @@ imageHint: "Skogafoss waterfall South Iceland",
     },
     image: "/poi-images/iceland-skogafoss-nature-v2.webp",
 },  {
-    id: "iceland-seljalandsfoss-nature-v2",
+    id: "iceland-seljalandsfoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gljúfrabúi",
+                  "text": "Gljufrabui ist ein faszinierender, in einer Felshöhle versteckter Wasserfall in der Nähe des Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.986339,
+                        63.620756
+                  ]
+            },
+            {
+                  "name": "Höhle Paradísarhellir",
+                  "text": "Die Höhle Paradísarhellir befindet sich in der malerischen Umgebung des Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.958812,
+                        63.597271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gljúfrabúi",
+                  "text": "A Gljufrabui egy különleges, sziklaüregben rejtőző vízesés a Seljalandsfoss közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.986339,
+                        63.620756
+                  ]
+            },
+            {
+                  "name": "Paradísarhellir",
+                  "text": "A Paradísarhellir barlang a Seljalandsfoss festői környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.958812,
+                        63.597271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gljúfrabúi",
+                  "text": "Gljufrabui este o cascadă fascinantă ascunsă într-o peșteră de stâncă lângă Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.986339,
+                        63.620756
+                  ]
+            },
+            {
+                  "name": "Paradísarhellir",
+                  "text": "Peștera Paradísarhellir se află în împrejurimile pitorești ale cascadei Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.958812,
+                        63.597271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gljufrabui",
+                  "text": "Gljufrabui is a fascinating waterfall hidden inside a rock cave near Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.986339,
+                        63.620756
+                  ]
+            },
+            {
+                  "name": "Cave Paradísarhellir",
+                  "text": "Cave Paradísarhellir is located in the scenic surroundings of Seljalandsfoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.958812,
+                        63.597271
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Seljalandsfoss", hu: "Seljalandsfoss", ro: "Seljalandsfoss", en: "Seljalandsfoss"},
@@ -141,7 +528,160 @@ imageHint: "Seljalandsfoss waterfall from behind",
     },
     image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp",
 },  {
-    id: "iceland-dettifoss-nature-v2",
+    id: "iceland-dettifoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dettifoss, Selfoss og Hafragilsfoss",
+                  "text": "Eine Sammlung gewaltiger und malerischer Wasserfälle am Fluss Jökulsá á Fjöllum in Island.",
+                  "category": "natural",
+                  "coords": [
+                        -16.378875,
+                        65.814378
+                  ]
+            },
+            {
+                  "name": "Dettifoss",
+                  "text": "Er gilt weithin als der gewaltigste Wasserfall Europas und liegt im Vatnajökull-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -16.38398,
+                        65.817045
+                  ]
+            },
+            {
+                  "name": "Selfoss",
+                  "text": "Ein breiter und schöner Wasserfall, der nur wenige hundert Meter flussaufwärts vom Dettifoss liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -16.387479,
+                        65.807085
+                  ]
+            },
+            {
+                  "name": "Hafragilsfoss",
+                  "text": "Ein majestätischer Wasserfall unterhalb des Dettifoss mit Blick auf den Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -16.403906,
+                        65.836774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dettifoss, Selfoss og Hafragilsfoss",
+                  "text": "Hatalmas és festői vízesések csoportja az izlandi Jökulsá á Fjöllum folyón.",
+                  "category": "natural",
+                  "coords": [
+                        -16.378875,
+                        65.814378
+                  ]
+            },
+            {
+                  "name": "Dettifoss",
+                  "text": "Európa legnagyobb vízhozamú vízesése a Vatnajökull Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -16.38398,
+                        65.817045
+                  ]
+            },
+            {
+                  "name": "Selfoss",
+                  "text": "Széles és gyönyörű vízesés, amely alig néhány száz méterre található a Dettifosstól.",
+                  "category": "natural",
+                  "coords": [
+                        -16.387479,
+                        65.807085
+                  ]
+            },
+            {
+                  "name": "Hafragilsfoss",
+                  "text": "Fenséges vízesés a Dettifosstól lefelé, amely kilátást nyújt a kanyonra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.403906,
+                        65.836774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dettifoss, Selfoss og Hafragilsfoss",
+                  "text": "O colecție de cascade puternice și pitorești pe râul Jökulsá á Fjöllum din Islanda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.378875,
+                        65.814378
+                  ]
+            },
+            {
+                  "name": "Dettifoss",
+                  "text": "Considerată cea mai puternică cascadă din Europa, situată în Parcul Național Vatnajökull.",
+                  "category": "natural",
+                  "coords": [
+                        -16.38398,
+                        65.817045
+                  ]
+            },
+            {
+                  "name": "Selfoss",
+                  "text": "O cascadă lată și frumoasă situată la doar câteva sute de metri în amonte de Dettifoss.",
+                  "category": "natural",
+                  "coords": [
+                        -16.387479,
+                        65.807085
+                  ]
+            },
+            {
+                  "name": "Hafragilsfoss",
+                  "text": "O cascadă maiestuoasă situată în aval de Dettifoss, oferind priveliști asupra canionului.",
+                  "category": "natural",
+                  "coords": [
+                        -16.403906,
+                        65.836774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dettifoss, Selfoss og Hafragilsfoss",
+                  "text": "A collection of powerful and scenic waterfalls on the Jökulsá á Fjöllum river in Iceland.",
+                  "category": "natural",
+                  "coords": [
+                        -16.378875,
+                        65.814378
+                  ]
+            },
+            {
+                  "name": "Dettifoss",
+                  "text": "Widely considered the most powerful waterfall in Europe, located in Vatnajökull National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -16.38398,
+                        65.817045
+                  ]
+            },
+            {
+                  "name": "Selfoss",
+                  "text": "A wide and beautiful waterfall located just a few hundred metres upstream from Dettifoss.",
+                  "category": "natural",
+                  "coords": [
+                        -16.387479,
+                        65.807085
+                  ]
+            },
+            {
+                  "name": "Hafragilsfoss",
+                  "text": "A majestic waterfall located downstream from Dettifoss, offering views of the canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -16.403906,
+                        65.836774
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Dettifoss", hu: "Dettifoss", ro: "Dettifoss", en: "Dettifoss"},
@@ -187,7 +727,88 @@ imageHint: "Dettifoss waterfall North Iceland powerful",
     },
     image: "/poi-images/iceland-dettifoss-nature-v2.webp",
 },  {
-    id: "iceland-godafoss-nature-v2",
+    id: "iceland-godafoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goðafoss",
+                  "text": "Goðafoss ist ein bekannter Aussichtspunkt am berühmten gleichnamigen Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -17.503618,
+                        65.697733
+                  ]
+            },
+            {
+                  "name": "Goðafoss Waterfall",
+                  "text": "Der Goðafoss-Wasserfall bietet einen spektakulären Aussichtspunkt in Island.",
+                  "category": "natural",
+                  "coords": [
+                        -17.549422,
+                        65.68374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goðafoss",
+                  "text": "Goðafoss egy ismert kilátópont a híres azonos nevű vízesésnél.",
+                  "category": "natural",
+                  "coords": [
+                        -17.503618,
+                        65.697733
+                  ]
+            },
+            {
+                  "name": "Goðafoss Waterfall",
+                  "text": "A Goðafoss-vízesés látványos kilátópontot kínál Izlandon.",
+                  "category": "natural",
+                  "coords": [
+                        -17.549422,
+                        65.68374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goðafoss",
+                  "text": "Goðafoss este un punct de belvedere cunoscut lângă faimoasa cascadă cu același nume.",
+                  "category": "natural",
+                  "coords": [
+                        -17.503618,
+                        65.697733
+                  ]
+            },
+            {
+                  "name": "Goðafoss Waterfall",
+                  "text": "Cascada Goðafoss oferă un punct de belvedere spectaculos în Island.",
+                  "category": "natural",
+                  "coords": [
+                        -17.549422,
+                        65.68374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goðafoss",
+                  "text": "Goðafoss is a well-known viewpoint by the famous waterfall of the same name.",
+                  "category": "natural",
+                  "coords": [
+                        -17.503618,
+                        65.697733
+                  ]
+            },
+            {
+                  "name": "Goðafoss Waterfall",
+                  "text": "The Goðafoss Waterfall offers a spectacular viewpoint in Iceland.",
+                  "category": "natural",
+                  "coords": [
+                        -17.549422,
+                        65.68374
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Goðafoss", hu: "Goðafoss", ro: "Goðafoss", en: "Goðafoss"},
@@ -417,7 +1038,232 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
     },
     image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp",
 },  {
-    id: "iceland-myvatn-nature-v2",
+    id: "iceland-myvatn-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuglasafn Sigurgeirs",
+                  "text": "Ein Museum am Mývatn-See mit einer umfangreichen Sammlung isländischer Vögel.",
+                  "category": "museum",
+                  "coords": [
+                        -16.995002,
+                        65.628822
+                  ]
+            },
+            {
+                  "name": "Vindbelgjarfjall",
+                  "text": "Ein markanter Gipfel, der einen weiten Panoramablick über den Mývatn-See bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.06907,
+                        65.624051
+                  ]
+            },
+            {
+                  "name": "Ytri Kleifarhóll",
+                  "text": "Eine natürliche Sehenswürdigkeit in der vulkanischen Landschaft des Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.022504,
+                        65.571445
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Interessante Felsformationen im Wasser des Mývatn-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Hamarshólar",
+                  "text": "Eine Gruppe kleiner vulkanischer Hügel in der Nähe des Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.0476,
+                        65.577708
+                  ]
+            },
+            {
+                  "name": "Skútustaðagígar",
+                  "text": "Die berühmten Pseudokrater von Skútustaðir am Südufer des Mývatn.",
+                  "category": "historical",
+                  "coords": [
+                        -17.029008,
+                        65.571466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuglasafn Sigurgeirs",
+                  "text": "Egy múzeum a Mývatn-tónál, amely izlandi madarak széles gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.995002,
+                        65.628822
+                  ]
+            },
+            {
+                  "name": "Vindbelgjarfjall",
+                  "text": "Egy jellegzetes csúcs, amely széles panorámát kínál a Mývatn-tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.06907,
+                        65.624051
+                  ]
+            },
+            {
+                  "name": "Ytri Kleifarhóll",
+                  "text": "Egy természeti látványosság a Mývatn vulkanikus táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.022504,
+                        65.571445
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Érdekes sziklaalakzatok a Mývatn-tó vizében.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Hamarshólar",
+                  "text": "Kisebb vulkáni dombok csoportja a tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.0476,
+                        65.577708
+                  ]
+            },
+            {
+                  "name": "Skútustaðagígar",
+                  "text": "Skútustaðir híres pszeudokráterei a Mývatn-tó déli partján.",
+                  "category": "historical",
+                  "coords": [
+                        -17.029008,
+                        65.571466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuglasafn Sigurgeirs",
+                  "text": "Un muzeu de lângă lacul Mývatn, cu o colecție vastă de păsări islandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -16.995002,
+                        65.628822
+                  ]
+            },
+            {
+                  "name": "Vindbelgjarfjall",
+                  "text": "Un vârf proeminent care oferă o panoramă vastă asupra lacului Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.06907,
+                        65.624051
+                  ]
+            },
+            {
+                  "name": "Ytri Kleifarhóll",
+                  "text": "O atracție naturală în peisajul vulcanic de la Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.022504,
+                        65.571445
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Formațiuni stâncoase interesante în apele lacului Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Hamarshólar",
+                  "text": "Un grup de dealuri vulcanice mici în apropierea lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.0476,
+                        65.577708
+                  ]
+            },
+            {
+                  "name": "Skútustaðagígar",
+                  "text": "Celebrele pseudocratere de la Skútustaðir pe malul sudic al lacului Mývatn.",
+                  "category": "historical",
+                  "coords": [
+                        -17.029008,
+                        65.571466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sigurgeirs Bird Museum",
+                  "text": "A museum by Lake Mývatn featuring an extensive collection of Icelandic birds.",
+                  "category": "museum",
+                  "coords": [
+                        -16.995002,
+                        65.628822
+                  ]
+            },
+            {
+                  "name": "Vindbelgjarfjall",
+                  "text": "A prominent peak offering a wide panoramic view over Lake Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.06907,
+                        65.624051
+                  ]
+            },
+            {
+                  "name": "Ytri Kleifarhóll",
+                  "text": "A natural attraction in the volcanic landscape of Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.022504,
+                        65.571445
+                  ]
+            },
+            {
+                  "name": "Klasar",
+                  "text": "Interesting rock formations in the waters of Lake Mývatn.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.958481,
+                        65.578238
+                  ]
+            },
+            {
+                  "name": "Hamarshólar",
+                  "text": "A group of small volcanic hills located near the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.0476,
+                        65.577708
+                  ]
+            },
+            {
+                  "name": "Skútustaðagígar",
+                  "text": "The famous pseudocraters of Skútustaðir on the southern shore of Lake Mývatn.",
+                  "category": "historical",
+                  "coords": [
+                        -17.029008,
+                        65.571466
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "lake",
     name: { de: "Mývatn", hu: "Mývatn", ro: "Mývatn", en: "Mývatn"},
@@ -509,7 +1355,160 @@ imageHint: "Thingvallavatn lake Iceland aerial view",
     },
     image: "/poi-images/iceland-thingvallavatn-nature-v2.webp",
 },  {
-    id: "iceland-jokulsarlon-nature-v2",
+    id: "iceland-jokulsarlon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vestri-Fellsfjara",
+                  "text": "Ein Teil des berühmten Diamantenstrandes in Island, bekannt für Eisbrocken im schwarzen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.231947,
+                        64.026387
+                  ]
+            },
+            {
+                  "name": "Eystri-Fellsfjara",
+                  "text": "Ein malerischer schwarzer Sandstrand an der Gletscherlagune Jökulsárlón.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.150402,
+                        64.054509
+                  ]
+            },
+            {
+                  "name": "Jökulsárlón",
+                  "text": "Ein beliebter Aussichtspunkt mit beeindruckendem Blick auf die Gletscherlagune Jökulsárlón.",
+                  "category": "natural",
+                  "coords": [
+                        -16.17802,
+                        64.052911
+                  ]
+            },
+            {
+                  "name": "Breiðamerkursandur",
+                  "text": "Ein berühmter Strand, an dem Eisberge aus der Gletscherlagune auf schwarzen Sand gespült werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.176337,
+                        64.043791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vestri-Fellsfjara",
+                  "text": "Izland híres Gyémántpartjának része, amely a fekete homokon csillogó jégdarabjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.231947,
+                        64.026387
+                  ]
+            },
+            {
+                  "name": "Eystri-Fellsfjara",
+                  "text": "Festői fekete homokos tengerpart a Jökulsárlón gleccserlagúnánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.150402,
+                        64.054509
+                  ]
+            },
+            {
+                  "name": "Jökulsárlón",
+                  "text": "Népszerű kilátóhely, ahonnan lenyűgöző kilátás nyílik a Jökulsárlón gleccserlagúnára.",
+                  "category": "natural",
+                  "coords": [
+                        -16.17802,
+                        64.052911
+                  ]
+            },
+            {
+                  "name": "Breiðamerkursandur",
+                  "text": "Híres tengerpart, ahol a gleccserlagúnából származó jéghegyek sodródnak a fekete homokra.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.176337,
+                        64.043791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vestri-Fellsfjara",
+                  "text": "O parte a faimoasei plaje de diamant din Islanda, cunoscută pentru gheața de pe nisipul negru.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.231947,
+                        64.026387
+                  ]
+            },
+            {
+                  "name": "Eystri-Fellsfjara",
+                  "text": "O plajă pitorească cu nisip negru situată la laguna glaciară Jökulsárlón.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.150402,
+                        64.054509
+                  ]
+            },
+            {
+                  "name": "Jökulsárlón",
+                  "text": "Un punct de belvedere popular care oferă priveliști uimitoare asupra lagunei glaciare Jökulsárlón.",
+                  "category": "natural",
+                  "coords": [
+                        -16.17802,
+                        64.052911
+                  ]
+            },
+            {
+                  "name": "Breiðamerkursandur",
+                  "text": "O plajă faimoasă unde aisbergurile din laguna glaciară sunt aduse de valuri pe nisipul negru.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.176337,
+                        64.043791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vestri-Fellsfjara",
+                  "text": "Part of the famous Diamond Beach in Iceland, known for ice chunks glistening on the black sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.231947,
+                        64.026387
+                  ]
+            },
+            {
+                  "name": "Eystri-Fellsfjara",
+                  "text": "A scenic black sand beach located at the Jökulsárlón glacier lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.150402,
+                        64.054509
+                  ]
+            },
+            {
+                  "name": "Jökulsárlón",
+                  "text": "A popular viewpoint offering stunning vistas of the Jökulsárlón glacier lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -16.17802,
+                        64.052911
+                  ]
+            },
+            {
+                  "name": "Diamond Beach",
+                  "text": "A famous beach where icebergs from the glacier lagoon wash ashore on black sand.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.176337,
+                        64.043791
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "lake",
     name: { de: "Jökulsárlón", hu: "Jökulsárlón", ro: "Jökulsárlón", en: "Jökulsárlón"},
@@ -647,7 +1646,196 @@ imageHint: "Dyrholaey rock arch puffins Iceland",
     },
     image: "/poi-images/iceland-dyrholaey-nature-v2.webp",
 },  {
-    id: "iceland-landmannalaugar-nature-v2",
+    id: "iceland-landmannalaugar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bláhnúkur",
+                  "text": "Ein markanter Rhyolith-Gipfel mit spektakulärer Aussicht in Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.069172,
+                        63.976775
+                  ]
+            },
+            {
+                  "name": "Suðurnámur",
+                  "text": "Ein Berg in der Region Landmannalaugar, bekannt für seine farbenfrohen Landschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.101302,
+                        64.001832
+                  ]
+            },
+            {
+                  "name": "Frostastaðavatn",
+                  "text": "Ein malerischer See und Aussichtspunkt im isländischen Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -19.046423,
+                        64.01318
+                  ]
+            },
+            {
+                  "name": "Landmannalaugar",
+                  "text": "Ein berühmtes Geothermalgebiet im Hochland, bekannt für seine bunten Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.061497,
+                        63.991061
+                  ]
+            },
+            {
+                  "name": "Brennisteinsalda",
+                  "text": "Ein farbenprächtiger Vulkanberg in der Nähe von Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.062433,
+                        63.992172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bláhnúkur",
+                  "text": "Jellegzetes riolitcsúcs Landmannalaugarban, látványos kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.069172,
+                        63.976775
+                  ]
+            },
+            {
+                  "name": "Suðurnámur",
+                  "text": "Hegy Landmannalaugar régiójában, amely színes tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.101302,
+                        64.001832
+                  ]
+            },
+            {
+                  "name": "Frostastaðavatn",
+                  "text": "Festői tó és kilátópont az izlandi felföldön.",
+                  "category": "natural",
+                  "coords": [
+                        -19.046423,
+                        64.01318
+                  ]
+            },
+            {
+                  "name": "Landmannalaugar",
+                  "text": "Híres geotermikus terület a felföldön, színes hegyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.061497,
+                        63.991061
+                  ]
+            },
+            {
+                  "name": "Brennisteinsalda",
+                  "text": "Színpompás vulkáni hegy Landmannalaugar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.062433,
+                        63.992172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bláhnúkur",
+                  "text": "Un vârf de riolit distinctiv din Landmannalaugar, oferind vederi spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.069172,
+                        63.976775
+                  ]
+            },
+            {
+                  "name": "Suðurnámur",
+                  "text": "Un munte din regiunea Landmannalaugar, cunoscut pentru peisajele sale colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.101302,
+                        64.001832
+                  ]
+            },
+            {
+                  "name": "Frostastaðavatn",
+                  "text": "Un lac pitoresc și punct de belvedere în zonele înalte ale Islandei.",
+                  "category": "natural",
+                  "coords": [
+                        -19.046423,
+                        64.01318
+                  ]
+            },
+            {
+                  "name": "Landmannalaugar",
+                  "text": "O celebră zonă geotermală din zonele înalte, cunoscută pentru munții săi colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.061497,
+                        63.991061
+                  ]
+            },
+            {
+                  "name": "Brennisteinsalda",
+                  "text": "Un munte vulcanic viu colorat situat lângă Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.062433,
+                        63.992172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bláhnúkur",
+                  "text": "A distinctive rhyolite peak in Landmannalaugar with spectacular views.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.069172,
+                        63.976775
+                  ]
+            },
+            {
+                  "name": "Suðurnámur",
+                  "text": "A mountain in the Landmannalaugar region, known for its colorful landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.101302,
+                        64.001832
+                  ]
+            },
+            {
+                  "name": "Frostastaðavatn",
+                  "text": "A scenic lake and viewpoint in the Icelandic Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -19.046423,
+                        64.01318
+                  ]
+            },
+            {
+                  "name": "Landmannalaugar",
+                  "text": "A famous geothermal area in the highlands, known for its colorful mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.061497,
+                        63.991061
+                  ]
+            },
+            {
+                  "name": "Brennisteinsalda",
+                  "text": "A colorful volcanic mountain located near Landmannalaugar.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.062433,
+                        63.992172
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "valley",
     name: { de: "Landmannalaugar", hu: "Landmannalaugar", ro: "Landmannalaugar", en: "Landmannalaugar"},
@@ -739,7 +1927,124 @@ imageHint: "Asbyrgi canyon horseshoe shape aerial",
     },
     image: "/poi-images/iceland-asbyrgi-nature-v2.webp",
 },  {
-    id: "iceland-fjadrargljufur-nature-v2",
+    id: "iceland-fjadrargljufur-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fjaðrárgljúfur",
+                  "text": "Ein tiefer und spektakulärer Canyon in Südisland, berühmt für seine dramatischen steilen Wände.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.173721,
+                        63.7726
+                  ]
+            },
+            {
+                  "name": "Skaftáreldahraun",
+                  "text": "Ein malerischer Aussichtspunkt mit Panoramablick auf die weiten Lavafelder in der Nähe von Fjaðrárgljúfur.",
+                  "category": "natural",
+                  "coords": [
+                        -18.15957,
+                        63.745803
+                  ]
+            },
+            {
+                  "name": "Eldhraun",
+                  "text": "Eine weite Lavalandschaft, die mit dickem, grünem Moos bedeckt ist, charakteristisch für die isländische Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.205003,
+                        63.740896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fjaðrárgljúfur",
+                  "text": "Mély és látványos kanyon Izland déli részén, amely drámai meredek falairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.173721,
+                        63.7726
+                  ]
+            },
+            {
+                  "name": "Skaftáreldahraun",
+                  "text": "Festői kilátópont, amely panorámás kilátást nyújt a Fjaðrárgljúfur közelében lévő hatalmas lávamezőkre.",
+                  "category": "natural",
+                  "coords": [
+                        -18.15957,
+                        63.745803
+                  ]
+            },
+            {
+                  "name": "Eldhraun",
+                  "text": "Vastag, zöld mohával borított hatalmas lávavidék, amely az izlandi természet jellegzetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.205003,
+                        63.740896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fjaðrárgljúfur",
+                  "text": "Un canion adânc și spectaculos în sudul Islandei, faimos pentru pereții săi abrupți dramatici.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.173721,
+                        63.7726
+                  ]
+            },
+            {
+                  "name": "Skaftáreldahraun",
+                  "text": "Un punct de observație pitoresc care oferă o vedere panoramică asupra câmpurilor de lavă vaste de lângă Fjaðrárgljúfur.",
+                  "category": "natural",
+                  "coords": [
+                        -18.15957,
+                        63.745803
+                  ]
+            },
+            {
+                  "name": "Eldhraun",
+                  "text": "Un peisaj vast de lavă acoperit cu mușchi verde și gros, caracteristic naturii islandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.205003,
+                        63.740896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fjaðrárgljúfur",
+                  "text": "A deep and spectacular canyon in southern Iceland, famous for its dramatic steep walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.173721,
+                        63.7726
+                  ]
+            },
+            {
+                  "name": "Skaftáreldahraun",
+                  "text": "A scenic viewpoint offering a panoramic view of the vast lava fields near Fjaðrárgljúfur.",
+                  "category": "natural",
+                  "coords": [
+                        -18.15957,
+                        63.745803
+                  ]
+            },
+            {
+                  "name": "extensive moss covered lava field",
+                  "text": "A vast landscape of lava covered in thick, green moss, characteristic of the Icelandic nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.205003,
+                        63.740896
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "valley",
     name: { de: "Fjaðrárgljúfur", hu: "Fjaðrárgljúfur", ro: "Fjaðrárgljúfur", en: "Fjaðrárgljúfur"},
@@ -831,7 +2136,124 @@ imageHint: "Askja caldera Viti crater blue water",
     },
     image: "/poi-images/iceland-askja-nature-v2.webp",
 },  {
-    id: "iceland-krafla-nature-v2",
+    id: "iceland-krafla-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "Ein Informationszentrum über die geothermische Energie und vulkanische Aktivität in Krafla.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Ein bekannter Vulkanberg und eine Caldera in der Region Krafla auf Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            },
+            {
+                  "name": "Graddabunga",
+                  "text": "Ein markanter Gipfel in der vulkanischen Landschaft des Krafla-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.719017,
+                        65.734633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "A Krafla geotermikus energiájáról és vulkáni tevékenységéről szóló információs központ.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Ismert vulkáni hegy és kaldera az izlandi Krafla régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            },
+            {
+                  "name": "Graddabunga",
+                  "text": "Jelentős csúcs a Krafla-vidék vulkanikus táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.719017,
+                        65.734633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "Un centru de informare despre energia geotermală și activitatea vulcanică din Krafla.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Un munte vulcanic cunoscut și o calderă din regiunea Krafla din Islanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            },
+            {
+                  "name": "Graddabunga",
+                  "text": "Un vârf proeminent în peisajul vulcanic al zonei Krafla.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.719017,
+                        65.734633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "An information center about the geothermal energy and volcanic activity in Krafla.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "A well-known volcanic mountain and caldera in the Krafla region of Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            },
+            {
+                  "name": "Graddabunga",
+                  "text": "A prominent peak in the volcanic landscape of the Krafla area.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.719017,
+                        65.734633
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "peak",
     name: { de: "Krafla", hu: "Krafla", ro: "Krafla", en: "Krafla"},
@@ -877,7 +2299,88 @@ imageHint: "Krafla Viti crater lake North Iceland",
     },
     image: "/poi-images/iceland-krafla-nature-v2.webp",
 },  {
-    id: "iceland-dynjandi-nature-v2",
+    id: "iceland-dynjandi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dynjandi í Arnarfirði",
+                  "text": "Ein Naturschutzgebiet in den Westfjorden Islands, bekannt für den imposanten Wasserfall Dynjandi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.214237,
+                        65.741293
+                  ]
+            },
+            {
+                  "name": "Dynjandislaug",
+                  "text": "Ein historisches Schwimmbecken mit Thermalwasser in der Nähe des Dynjandi-Wasserfalls.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.207308,
+                        65.734656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dynjandi í Arnarfirði",
+                  "text": "Természetvédelmi terület Izland nyugati fjordjainál, amely az impozáns Dynjandi-vízesésről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -23.214237,
+                        65.741293
+                  ]
+            },
+            {
+                  "name": "Dynjandislaug",
+                  "text": "Történelmi termálvizes medence a Dynjandi-vízesés közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.207308,
+                        65.734656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dynjandi í Arnarfirði",
+                  "text": "O rezervație naturală în fiordurile de vest ale Islandei, cunoscută pentru impresionanta cascadă Dynjandi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.214237,
+                        65.741293
+                  ]
+            },
+            {
+                  "name": "Dynjandislaug",
+                  "text": "O piscină istorică cu apă termală situată în apropierea cascadei Dynjandi.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.207308,
+                        65.734656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dynjandi í Arnarfirði",
+                  "text": "A nature reserve in the Westfjords of Iceland, famous for the majestic Dynjandi waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -23.214237,
+                        65.741293
+                  ]
+            },
+            {
+                  "name": "Dynjandislaug",
+                  "text": "A historical geothermal swimming pool located near the Dynjandi waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.207308,
+                        65.734656
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Dynjandi", hu: "Dynjandi", ro: "Dynjandi", en: "Dynjandi"},
@@ -923,7 +2426,88 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
     },
     image: "/poi-images/iceland-dynjandi-nature-v2.webp",
 },  {
-    id: "iceland-glymur-nature-v2",
+    id: "iceland-glymur-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvalfell",
+                  "text": "Ein Gipfel in Island in der Nähe des Glymur-Wasserfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.2093,
+                        64.385033
+                  ]
+            },
+            {
+                  "name": "Glymur",
+                  "text": "Ein Aussichtspunkt mit beeindruckendem Blick auf den isländischen Glymur-Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -21.256847,
+                        64.387353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvalfell",
+                  "text": "Izlandi hegycsúcs a Glymur-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.2093,
+                        64.385033
+                  ]
+            },
+            {
+                  "name": "Glymur",
+                  "text": "Kilátópont, ahonnan lenyűgöző kilátás nyílik az izlandi Glymur-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -21.256847,
+                        64.387353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvalfell",
+                  "text": "Un vârf din Islanda situat lângă cascada Glymur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.2093,
+                        64.385033
+                  ]
+            },
+            {
+                  "name": "Glymur",
+                  "text": "Un punct de belvedere care oferă vederi uimitoare asupra cascadei Glymur din Islanda.",
+                  "category": "natural",
+                  "coords": [
+                        -21.256847,
+                        64.387353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvalfell",
+                  "text": "A peak in Iceland located near the Glymur waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.2093,
+                        64.385033
+                  ]
+            },
+            {
+                  "name": "Glymur",
+                  "text": "A viewpoint offering stunning views of Iceland's Glymur waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -21.256847,
+                        64.387353
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Glymur", hu: "Glymur", ro: "Glymur", en: "Glymur"},
@@ -969,7 +2553,196 @@ imageHint: "Glymur waterfall Iceland high canyon",
     },
     image: "/poi-images/iceland-glymur-nature-v2.webp",
 },  {
-    id: "iceland-svartifoss-nature-v2",
+    id: "iceland-svartifoss-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sel",
+                  "text": "Ein Museum in einem traditionellen isländischen Torfhaus in der Nähe von Svartifoss.",
+                  "category": "museum",
+                  "coords": [
+                        -16.990736,
+                        64.023267
+                  ]
+            },
+            {
+                  "name": "Sjónarsker",
+                  "text": "Ein Aussichtspunkt im Skaftafell-Nationalpark mit Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.98238,
+                        64.027787
+                  ]
+            },
+            {
+                  "name": "Sjónarnípa",
+                  "text": "Ein beliebter Aussichtspunkt in der Nähe von Svartifoss mit Blick auf den Gletscher Skaftafellsjökull.",
+                  "category": "natural",
+                  "coords": [
+                        -16.936659,
+                        64.030475
+                  ]
+            },
+            {
+                  "name": "Svartifoss",
+                  "text": "Ein berühmter Wasserfall, der für seine dunklen Basaltsäulen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -16.975004,
+                        64.027366
+                  ]
+            },
+            {
+                  "name": "Magnúsarfoss",
+                  "text": "Ein malerischer Aussichtspunkt an einem Wasserfall in der Nähe von Svartifoss.",
+                  "category": "natural",
+                  "coords": [
+                        -16.979476,
+                        64.021235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sel",
+                  "text": "Hagyományos izlandi tőzegházban berendezett múzeum Svartifoss közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -16.990736,
+                        64.023267
+                  ]
+            },
+            {
+                  "name": "Sjónarsker",
+                  "text": "Kilátópont a Skaftafell Nemzeti Parkban, panorámás kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.98238,
+                        64.027787
+                  ]
+            },
+            {
+                  "name": "Sjónarnípa",
+                  "text": "Népszerű kilátópont Svartifoss közelében, kilátással a Skaftafellsjökull-gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.936659,
+                        64.030475
+                  ]
+            },
+            {
+                  "name": "Svartifoss",
+                  "text": "Híres vízesés, amely a sötét bazaltoszlopairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -16.975004,
+                        64.027366
+                  ]
+            },
+            {
+                  "name": "Magnúsarfoss",
+                  "text": "Festői kilátópont egy vízesésnél Svartifoss közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -16.979476,
+                        64.021235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sel",
+                  "text": "Un muzeu amenajat într-o casă tradițională islandeză de turbă lângă Svartifoss.",
+                  "category": "museum",
+                  "coords": [
+                        -16.990736,
+                        64.023267
+                  ]
+            },
+            {
+                  "name": "Sjónarsker",
+                  "text": "Un punct de observație în Parcul Național Skaftafell, oferind vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -16.98238,
+                        64.027787
+                  ]
+            },
+            {
+                  "name": "Sjónarnípa",
+                  "text": "Un punct de observație popular lângă Svartifoss, cu vedere spre ghețarul Skaftafellsjökull.",
+                  "category": "natural",
+                  "coords": [
+                        -16.936659,
+                        64.030475
+                  ]
+            },
+            {
+                  "name": "Svartifoss",
+                  "text": "O cascadă celebră, cunoscută pentru coloanele sale de bazalt negru.",
+                  "category": "natural",
+                  "coords": [
+                        -16.975004,
+                        64.027366
+                  ]
+            },
+            {
+                  "name": "Magnúsarfoss",
+                  "text": "Un punct de observație pitoresc la o cascadă situată lângă Svartifoss.",
+                  "category": "natural",
+                  "coords": [
+                        -16.979476,
+                        64.021235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sel",
+                  "text": "A museum housed in a traditional Icelandic turf house near Svartifoss.",
+                  "category": "museum",
+                  "coords": [
+                        -16.990736,
+                        64.023267
+                  ]
+            },
+            {
+                  "name": "Sjónarsker",
+                  "text": "A viewpoint in Skaftafell National Park offering panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -16.98238,
+                        64.027787
+                  ]
+            },
+            {
+                  "name": "Sjónarnípa",
+                  "text": "A popular viewpoint near Svartifoss overlooking the Skaftafellsjökull glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -16.936659,
+                        64.030475
+                  ]
+            },
+            {
+                  "name": "Svartifoss",
+                  "text": "A famous waterfall known for its striking dark basalt columns.",
+                  "category": "natural",
+                  "coords": [
+                        -16.975004,
+                        64.027366
+                  ]
+            },
+            {
+                  "name": "Magnúsarfoss",
+                  "text": "A scenic viewpoint at a waterfall located near Svartifoss.",
+                  "category": "natural",
+                  "coords": [
+                        -16.979476,
+                        64.021235
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Svartifoss", hu: "Svartifoss", ro: "Svartifoss", en: "Svartifoss"},
@@ -1015,7 +2788,160 @@ imageHint: "Svartifoss waterfall basalt columns black",
     },
     image: "/poi-images/iceland-svartifoss-nature-v2.webp",
 },  {
-    id: "iceland-eldgja-nature-v2",
+    id: "iceland-eldgja-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ljónstindur",
+                  "text": "Ljónstindur ist ein Berggipfel in der Nähe der Eldgjá-Vulkanschlucht in Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.63378,
+                        63.98371
+                  ]
+            },
+            {
+                  "name": "Gjátindur",
+                  "text": "Gjátindur ist ein Gipfel, der Ausblicke über die dramatische Eldgjá-Vulkanspalte bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.57855,
+                        63.993383
+                  ]
+            },
+            {
+                  "name": "Ófærufoss",
+                  "text": "Ófærufoss ist ein Aussichtspunkt, der einen atemberaubenden Blick auf den gleichnamigen Wasserfall in Eldgjá bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -18.617051,
+                        63.964242
+                  ]
+            },
+            {
+                  "name": "Gígvatn",
+                  "text": "Gígvatn ist ein Aussichtspunkt mit Blick auf einen malerischen Kratersee in der Region Eldgjá.",
+                  "category": "natural",
+                  "coords": [
+                        -18.663615,
+                        63.93724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ljónstindur",
+                  "text": "A Ljónstindur egy hegycsúcs Izlandon, az Eldgjá vulkáni kanyon közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.63378,
+                        63.98371
+                  ]
+            },
+            {
+                  "name": "Gjátindur",
+                  "text": "A Gjátindur egy hegycsúcs, ahonnan kilátás nyílik a látványos Eldgjá vulkáni hasadékra.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.57855,
+                        63.993383
+                  ]
+            },
+            {
+                  "name": "Ófærufoss",
+                  "text": "Az Ófærufoss egy kilátóhely, ahonnan lenyűgöző kilátás nyílik az azonos nevű vízesésre Eldgjában.",
+                  "category": "natural",
+                  "coords": [
+                        -18.617051,
+                        63.964242
+                  ]
+            },
+            {
+                  "name": "Gígvatn",
+                  "text": "A Gígvatn egy kilátóhely, ahonnan rálátni az Eldgjá régió egyik festői krátertavára.",
+                  "category": "natural",
+                  "coords": [
+                        -18.663615,
+                        63.93724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ljónstindur",
+                  "text": "Ljónstindur este un vârf muntos situat lângă canionul vulcanic Eldgjá din Islanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.63378,
+                        63.98371
+                  ]
+            },
+            {
+                  "name": "Gjátindur",
+                  "text": "Gjátindur este un vârf care oferă vederi asupra dramaticei fisuri vulcanice Eldgjá.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.57855,
+                        63.993383
+                  ]
+            },
+            {
+                  "name": "Ófærufoss",
+                  "text": "Ófærufoss este un punct de belvedere care oferă o privire uluitoare asupra cascadei cu același nume din Eldgjá.",
+                  "category": "natural",
+                  "coords": [
+                        -18.617051,
+                        63.964242
+                  ]
+            },
+            {
+                  "name": "Gígvatn",
+                  "text": "Gígvatn este un punct de belvedere cu vedere la un lac pitoresc dintr-un crater din regiunea Eldgjá.",
+                  "category": "natural",
+                  "coords": [
+                        -18.663615,
+                        63.93724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ljónstindur",
+                  "text": "Ljónstindur is a mountain peak located near the Eldgjá volcanic canyon in Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.63378,
+                        63.98371
+                  ]
+            },
+            {
+                  "name": "Gjátindur",
+                  "text": "Gjátindur is a peak offering views over the dramatic Eldgjá volcanic fissure.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.57855,
+                        63.993383
+                  ]
+            },
+            {
+                  "name": "Ófærufoss",
+                  "text": "Ófærufoss is a viewpoint providing a stunning look at the waterfall of the same name in Eldgjá.",
+                  "category": "natural",
+                  "coords": [
+                        -18.617051,
+                        63.964242
+                  ]
+            },
+            {
+                  "name": "Gígvatn",
+                  "text": "Gígvatn is a viewpoint overlooking a scenic crater lake within the Eldgjá region.",
+                  "category": "natural",
+                  "coords": [
+                        -18.663615,
+                        63.93724
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "valley",
     name: { de: "Eldgjá", hu: "Eldgjá", ro: "Eldgjá", en: "Eldgjá"},
@@ -1153,7 +3079,88 @@ imageHint: "Surtsey island volcanic eruption 1963",
     },
     image: "/poi-images/iceland-surtsey-nature-v2.webp",
 },  {
-    id: "iceland-grimsey-nature-v2",
+    id: "iceland-grimsey-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grímseyjarviti",
+                  "text": "Ein markanter Leuchtturm auf der Insel Grímsey, direkt am Polarkreis gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.981628,
+                        66.528195
+                  ]
+            },
+            {
+                  "name": "Fotarklappir",
+                  "text": "Ein malerischer Aussichtspunkt auf der Insel Grímsey, bekannt für seine dramatischen Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        -18.02127,
+                        66.565787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grímseyjarviti",
+                  "text": "Jellegzetes világítótorony a Grímsey-szigeten, az északi sarkkör közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.981628,
+                        66.528195
+                  ]
+            },
+            {
+                  "name": "Fotarklappir",
+                  "text": "Festői kilátóhely Grímsey szigetén, amely látványos tengerparti szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -18.02127,
+                        66.565787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grímseyjarviti",
+                  "text": "Un far distinctiv pe insula Grímsey, situat în apropierea Cercului Polar.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.981628,
+                        66.528195
+                  ]
+            },
+            {
+                  "name": "Fotarklappir",
+                  "text": "Un punct de observație pitoresc pe insula Grímsey, cunoscut pentru faleza sa dramatică.",
+                  "category": "natural",
+                  "coords": [
+                        -18.02127,
+                        66.565787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grímseyjarviti",
+                  "text": "A distinctive lighthouse on Grímsey island, located near the Arctic Circle.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.981628,
+                        66.528195
+                  ]
+            },
+            {
+                  "name": "Fotarklappir",
+                  "text": "A scenic viewpoint on Grímsey island known for its dramatic coastal cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -18.02127,
+                        66.565787
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Grímsey", hu: "Grímsey", ro: "Grímsey", en: "Grímsey"},
@@ -1199,7 +3206,52 @@ imageHint: "Grimsey island Arctic Circle marker",
     },
     image: "/poi-images/iceland-grimsey-nature-v2.webp",
 },  {
-    id: "iceland-hornbjarg-nature-v2",
+    id: "iceland-hornbjarg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Ein abgelegener Leuchtturm an der dramatischen Nordwestküste Islands bei Hornbjarg.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Távoli világítótorony Izland drámai északnyugati partvidékén, Hornbjarg közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "Un far izolat situat pe coasta dramatică de nord-vest a Islandei, la Hornbjarg.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hornbjargsviti",
+                  "text": "A remote lighthouse on the dramatic northwest coast of Iceland at Hornbjarg.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.379174,
+                        66.410732
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Hornbjarg", hu: "Hornbjarg", ro: "Hornbjarg", en: "Hornbjarg"},
@@ -1245,7 +3297,52 @@ imageHint: "Hornbjarg sea cliffs Westfjords Iceland",
     },
     image: "/poi-images/iceland-hornbjarg-nature-v2.webp",
 },  {
-    id: "iceland-raudasandur-nature-v2",
+    id: "iceland-raudasandur-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stórhæð",
+                  "text": "Ein markanter Gipfel mit Blick auf den roten Sandstrand von Rauðasandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.92494,
+                        65.493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stórhæð",
+                  "text": "Jellegzetes csúcs, ahonnan rálátni Rauðasandur vörös homokos partjára.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.92494,
+                        65.493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stórhæð",
+                  "text": "Un vârf proeminent cu vedere la plaja cu nisip roșu de la Rauðasandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.92494,
+                        65.493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stórhæð",
+                  "text": "A prominent peak overlooking the red sand beach of Rauðasandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.92494,
+                        65.493
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Rauðasandur", hu: "Rauðasandur", ro: "Rauðasandur", en: "Rauðasandur"},
@@ -1291,7 +3388,124 @@ imageHint: "Raudasandur red sand beach Westfjords",
     },
     image: "/poi-images/iceland-raudasandur-nature-v2.webp",
 },  {
-    id: "iceland-lakagigar-nature-v2",
+    id: "iceland-lakagigar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laki",
+                  "text": "Ein berühmter Vulkanspalt und Aussichtspunkt im isländischen Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -18.236308,
+                        64.070189
+                  ]
+            },
+            {
+                  "name": "Varmárfell",
+                  "text": "Ein Berggipfel im Vulkangebiet der Lakagígar.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.208217,
+                        64.0388
+                  ]
+            },
+            {
+                  "name": "Blængur",
+                  "text": "Ein Berg im isländischen Hochland in der Nähe der Laki-Krater.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.16561,
+                        64.06933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laki",
+                  "text": "Híres vulkáni hasadék és kilátóhely az izlandi felföldön.",
+                  "category": "natural",
+                  "coords": [
+                        -18.236308,
+                        64.070189
+                  ]
+            },
+            {
+                  "name": "Varmárfell",
+                  "text": "Hegycsúcs a Lakagígar vulkáni területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.208217,
+                        64.0388
+                  ]
+            },
+            {
+                  "name": "Blængur",
+                  "text": "Hegy az izlandi felföldön, a Laki-kráterek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.16561,
+                        64.06933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laki",
+                  "text": "O celebră fisură vulcanică și punct de belvedere în zonele înalte ale Islandei.",
+                  "category": "natural",
+                  "coords": [
+                        -18.236308,
+                        64.070189
+                  ]
+            },
+            {
+                  "name": "Varmárfell",
+                  "text": "Un vârf montan situat în zona vulcanică Lakagígar.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.208217,
+                        64.0388
+                  ]
+            },
+            {
+                  "name": "Blængur",
+                  "text": "Un munte în zonele înalte ale Islandei, lângă craterele Laki.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.16561,
+                        64.06933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laki",
+                  "text": "A famous volcanic fissure and viewpoint in the Icelandic highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -18.236308,
+                        64.070189
+                  ]
+            },
+            {
+                  "name": "Varmárfell",
+                  "text": "A mountain peak located within the Lakagígar volcanic area.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.208217,
+                        64.0388
+                  ]
+            },
+            {
+                  "name": "Blængur",
+                  "text": "A mountain in the Icelandic highlands near the Laki craters.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.16561,
+                        64.06933
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "landmark",
     name: { de: "Lakagígar", hu: "Lakagígar", ro: "Lakagígar", en: "Lakagígar"},

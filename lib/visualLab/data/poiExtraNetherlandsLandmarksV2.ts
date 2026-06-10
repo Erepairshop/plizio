@@ -823,6 +823,78 @@ export const netherlandsLandmarksV2: POI[] = [
                         5.025254,
                         52.117311
                   ]
+            },
+            {
+                  "name": "Ridderhofstad Den Engh",
+                  "text": "Eine archäologische Fundstätte eines ehemaligen befestigten Adelssitzes in der Nähe von Utrecht.",
+                  "category": "historical",
+                  "coords": [
+                        5.034967,
+                        52.108527
+                  ]
+            },
+            {
+                  "name": "Dierenweide Vleuten",
+                  "text": "Ein kleiner Tierpark in Vleuten, der besonders für Familien und Kinder geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.003889,
+                        52.104505
+                  ]
+            },
+            {
+                  "name": "Vindplaats Romeinse wachttoren",
+                  "text": "Fundstelle der Überreste eines ehemaligen römischen Wachturms in der Region Utrecht.",
+                  "category": "historical",
+                  "coords": [
+                        4.997167,
+                        52.090795
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Otterspoor",
+                  "text": "Ein Kinderbauernhof in der Nähe von Utrecht, der interaktive Erlebnisse mit Nutztieren bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.01178,
+                        52.133405
+                  ]
+            },
+            {
+                  "name": "De Kievit",
+                  "text": "Ein lokales Naturschutzgebiet, das Lebensraum für verschiedene Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.94969,
+                        52.08544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Haarzuilens",
+                  "text": "Ein kleiner Streichelzoo in Haarzuilens, der sich in der Nähe des Schlosses De Haar befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        4.998396,
+                        52.122876
+                  ]
+            },
+            {
+                  "name": "Geertje's Hoeve",
+                  "text": "Ein Erlebnisbauernhof mit Tieren und einem Hofladen in der Umgebung von Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.004285,
+                        52.117005
+                  ]
+            },
+            {
+                  "name": "Eendenkooi Kooilust",
+                  "text": "Eine historische Entenkoje, die heute als ruhiges Naturschutzgebiet erhalten ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.025082,
+                        52.125374
+                  ]
             }
       ],
       "hu": [
@@ -833,6 +905,78 @@ export const netherlandsLandmarksV2: POI[] = [
                   "coords": [
                         5.025254,
                         52.117311
+                  ]
+            },
+            {
+                  "name": "Ridderhofstad Den Engh",
+                  "text": "Egy egykori erődített nemesi lakóhely régészeti lelőhelye Utrecht közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.034967,
+                        52.108527
+                  ]
+            },
+            {
+                  "name": "Dierenweide Vleuten",
+                  "text": "Kisméretű állatkert Vleutenben, amely különösen családok és gyermekek számára ideális.",
+                  "category": "recreational",
+                  "coords": [
+                        5.003889,
+                        52.104505
+                  ]
+            },
+            {
+                  "name": "Vindplaats Romeinse wachttoren",
+                  "text": "Egy egykori római őrtorony maradványainak lelőhelye Utrecht régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        4.997167,
+                        52.090795
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Otterspoor",
+                  "text": "Gyermekeknek szánt farm Utrecht közelében, amely interaktív élményeket kínál a háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        5.01178,
+                        52.133405
+                  ]
+            },
+            {
+                  "name": "De Kievit",
+                  "text": "Helyi természetvédelmi terület, amely számos madárfaj számára biztosít élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        4.94969,
+                        52.08544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Haarzuilens",
+                  "text": "Kisméretű állatsimogató Haarzuilensben, a De Haar kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.998396,
+                        52.122876
+                  ]
+            },
+            {
+                  "name": "Geertje's Hoeve",
+                  "text": "Élményfarm állatokkal és gazdasági bolttal Utrecht környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.004285,
+                        52.117005
+                  ]
+            },
+            {
+                  "name": "Eendenkooi Kooilust",
+                  "text": "Történelmi kacsafogó hely, amely ma csendes természetvédelmi területként maradt fenn.",
+                  "category": "natural",
+                  "coords": [
+                        5.025082,
+                        52.125374
                   ]
             }
       ],
@@ -845,6 +989,78 @@ export const netherlandsLandmarksV2: POI[] = [
                         5.025254,
                         52.117311
                   ]
+            },
+            {
+                  "name": "Ridderhofstad Den Engh",
+                  "text": "Un sit arheologic al unei foste reședințe nobiliare fortificate de lângă Utrecht.",
+                  "category": "historical",
+                  "coords": [
+                        5.034967,
+                        52.108527
+                  ]
+            },
+            {
+                  "name": "Dierenweide Vleuten",
+                  "text": "O mică grădină zoologică din Vleuten, potrivită în special pentru familii și copii.",
+                  "category": "recreational",
+                  "coords": [
+                        5.003889,
+                        52.104505
+                  ]
+            },
+            {
+                  "name": "Vindplaats Romeinse wachttoren",
+                  "text": "Locul unde au fost găsite rămășițele unui fost turn de veghe roman din regiunea Utrecht.",
+                  "category": "historical",
+                  "coords": [
+                        4.997167,
+                        52.090795
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Otterspoor",
+                  "text": "O fermă pentru copii de lângă Utrecht, care oferă experiențe interactive cu animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        5.01178,
+                        52.133405
+                  ]
+            },
+            {
+                  "name": "De Kievit",
+                  "text": "O rezervație naturală locală care oferă habitat pentru diverse specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        4.94969,
+                        52.08544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Haarzuilens",
+                  "text": "O mică grădină zoologică cu animale blânde în Haarzuilens, situată lângă castelul De Haar.",
+                  "category": "recreational",
+                  "coords": [
+                        4.998396,
+                        52.122876
+                  ]
+            },
+            {
+                  "name": "Geertje's Hoeve",
+                  "text": "O fermă de agrement cu animale și un magazin de produse locale în zona Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.004285,
+                        52.117005
+                  ]
+            },
+            {
+                  "name": "Eendenkooi Kooilust",
+                  "text": "O capcană istorică de rațe, păstrată astăzi ca o rezervație naturală liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        5.025082,
+                        52.125374
+                  ]
             }
       ],
       "en": [
@@ -855,6 +1071,78 @@ export const netherlandsLandmarksV2: POI[] = [
                   "coords": [
                         5.025254,
                         52.117311
+                  ]
+            },
+            {
+                  "name": "Ridderhofstad Den Engh",
+                  "text": "Archaeological site of a former fortified manorial estate near Utrecht.",
+                  "category": "historical",
+                  "coords": [
+                        5.034967,
+                        52.108527
+                  ]
+            },
+            {
+                  "name": "Dierenweide Vleuten",
+                  "text": "A small animal enclosure in Vleuten, especially suitable for families and children.",
+                  "category": "recreational",
+                  "coords": [
+                        5.003889,
+                        52.104505
+                  ]
+            },
+            {
+                  "name": "Vindplaats Romeinse wachttoren",
+                  "text": "The discovery site of the remains of a former Roman watchtower in the Utrecht region.",
+                  "category": "historical",
+                  "coords": [
+                        4.997167,
+                        52.090795
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Otterspoor",
+                  "text": "A children's farm near Utrecht offering interactive experiences with farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        5.01178,
+                        52.133405
+                  ]
+            },
+            {
+                  "name": "De Kievit",
+                  "text": "A local nature reserve providing a habitat for various bird species.",
+                  "category": "natural",
+                  "coords": [
+                        4.94969,
+                        52.08544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Haarzuilens",
+                  "text": "A small petting zoo in Haarzuilens, located near De Haar Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        4.998396,
+                        52.122876
+                  ]
+            },
+            {
+                  "name": "Geertje's Hoeve",
+                  "text": "An educational farm with animals and a farm shop in the Utrecht area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.004285,
+                        52.117005
+                  ]
+            },
+            {
+                  "name": "Eendenkooi Kooilust",
+                  "text": "A historical duck decoy site now preserved as a peaceful nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.025082,
+                        52.125374
                   ]
             }
       ]

@@ -95,7 +95,52 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
     },
     image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp",
 },  {
-    id: "ukraine-shatsk-national-park-life-v2",
+    id: "ukraine-shatsk-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "Ein beliebter Strand im Schazker Nationalnaturpark, ideal für Erholung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "Népszerű strand a Sacki Nemzeti Parkban, amely ideális a vízparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "O plajă populară în Parcul Național Natural Shatsk, ideală pentru relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central beach",
+                  "text": "A popular beach in the Shatsk National Nature Park, ideal for lakeside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "lake",
     name: { de: "Nationalpark Schazk", hu: "Sackiji Nemzeti Park", ro: "Parcul Național Șațk", en: "Shatsk National Nature Park"},
@@ -141,7 +186,124 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
     },
     image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp",
 },  {
-    id: "ukraine-synevyr-national-park-life-v2",
+    id: "ukraine-synevyr-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей лісу і сплаву",
+                  "text": "Dieses Museum im Nationalpark Synevyr widmet sich der Geschichte der Forstwirtschaft und Flößerei.",
+                  "category": "museum",
+                  "coords": [
+                        23.685671,
+                        48.529152
+                  ]
+            },
+            {
+                  "name": "Негровець",
+                  "text": "Der Nehrovets ist ein markanter Berggipfel im Gebiet des Nationalparks Synevyr.",
+                  "category": "landmark",
+                  "coords": [
+                        23.715167,
+                        48.498287
+                  ]
+            },
+            {
+                  "name": "Велика Гропа",
+                  "text": "Ein Aussichtspunkt im Nationalpark Synevyr, der weite Panoramablicke über die Karpaten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.699167,
+                        48.498311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей лісу і сплаву",
+                  "text": "Ez a Szinevéri Nemzeti Parkban található múzeum az erdőgazdálkodás és a tutajozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.685671,
+                        48.529152
+                  ]
+            },
+            {
+                  "name": "Негровець",
+                  "text": "A Nehrovets egy jellegzetes hegycsúcs a Szinevéri Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.715167,
+                        48.498287
+                  ]
+            },
+            {
+                  "name": "Велика Гропа",
+                  "text": "Kilátópont a Szinevéri Nemzeti Parkban, amely széles panorámát kínál a Kárpátokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.699167,
+                        48.498311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей лісу і сплаву",
+                  "text": "Acest muzeu din Parcul Național Sinevir este dedicat istoriei silviculturii și plutăritului.",
+                  "category": "museum",
+                  "coords": [
+                        23.685671,
+                        48.529152
+                  ]
+            },
+            {
+                  "name": "Негровець",
+                  "text": "Nehrovets este un vârf montan proeminent situat în zona Parcului Național Sinevir.",
+                  "category": "landmark",
+                  "coords": [
+                        23.715167,
+                        48.498287
+                  ]
+            },
+            {
+                  "name": "Велика Гропа",
+                  "text": "Un punct de belvedere în Parcul Național Sinevir, oferind vederi panoramice largi asupra Carpaților.",
+                  "category": "natural",
+                  "coords": [
+                        23.699167,
+                        48.498311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "museum of forest",
+                  "text": "This museum in the Synevyr National Nature Park is dedicated to the history of forestry and rafting.",
+                  "category": "museum",
+                  "coords": [
+                        23.685671,
+                        48.529152
+                  ]
+            },
+            {
+                  "name": "Nehrovets",
+                  "text": "Nehrovets is a prominent mountain peak located in the Synevyr National Nature Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        23.715167,
+                        48.498287
+                  ]
+            },
+            {
+                  "name": "Velyka Hropa",
+                  "text": "A viewpoint in the Synevyr National Nature Park offering wide panoramic views of the Carpathians.",
+                  "category": "natural",
+                  "coords": [
+                        23.699167,
+                        48.498311
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "park",
     name: { de: "Nationalpark Synevyr", hu: "Szinevéri Nemzeti Park", ro: "Parcul Național Sinevir", en: "Synevyr National Nature Park"},
@@ -187,7 +349,52 @@ imageHint: "Synevyr Lake in the Carpathian mountains",
     },
     image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp",
 },  {
-    id: "ukraine-oleshky-sands-life-v2",
+    id: "ukraine-oleshky-sands-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Ein Aussichtspunkt im Nationalpark Oleschky-Sande, einem großen Sandgebiet in der Ukraine.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Kilátópont az Oleskivszki-homok Nemzeti Parkban, Ukrajna hatalmas homokvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Un punct de observație în Parcul Național Nisipurile Oleșki, o zonă vastă de nisip din Ucraina.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Desert",
+                  "text": "A viewpoint in the Oleshky Sands National Nature Park, a large sandy area in Ukraine.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Oleschky-Sande", hu: "Oleskivszki-homoksivatag Nemzeti Park", ro: "Parcul Național Nisipurile Oleșki", en: "Oleshky Sands National Nature Park"},
@@ -969,7 +1176,52 @@ imageHint: "Udai River floodplains in Pyriatynskyi Park",
     },
     image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp",
 },  {
-    id: "ukraine-homilshanski-lisy-life-v2",
+    id: "ukraine-homilshanski-lisy-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "літак Як-40",
+                  "text": "Ein ausgestelltes Flugzeug vom Typ Jak-40 im Nationalen Naturpark Homilshanski Lisy.",
+                  "category": "landmark",
+                  "coords": [
+                        36.309188,
+                        49.635117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "літак Як-40",
+                  "text": "Kiállított Jak-40 típusú repülőgép a Homilsanszki Liszi Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.309188,
+                        49.635117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "літак Як-40",
+                  "text": "O aeronavă Yak-40 expusă în Parcul Natural Național Homilshanski Lisy.",
+                  "category": "landmark",
+                  "coords": [
+                        36.309188,
+                        49.635117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yak-40 aircraft",
+                  "text": "An exhibited Yak-40 aircraft in the Homilshanski Lisy National Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        36.309188,
+                        49.635117
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "forest",
     name: { de: "Nationalpark Homilschanski Lisy", hu: "Homilsanszki Liszi Nemzeti Park", ro: "Parcul Național Homilșanski Lisî", en: "Homilshanski Lisy National Nature Park"},
@@ -1015,7 +1267,88 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
     },
     image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp",
 },  {
-    id: "ukraine-holy-mountains-life-v2",
+    id: "ukraine-holy-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Swjatohirsk",
+                  "text": "Ein historisches orthodoxes Höhlenkloster, das in Kreidefelsen gehauen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Ein schöner Ort zur Beobachtung des Sonnenuntergangs im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Святогорська Свято-Успенська лавра",
+                  "text": "Történelmi ortodox barlangkolostor, amelyet krétahegyekbe vájtak.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Szép hely a naplemente megtekintéséhez a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Святогорська Свято-Успенська лавра",
+                  "text": "O mănăstire ortodoxă istorică săpată în stânci de cretă.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "Лавочка бiля урвища",
+                  "text": "Un loc pitoresc pentru a privi apusul în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sviatohirsk Cave Monastery",
+                  "text": "A historic Orthodox cave monastery carved into chalk cliffs.",
+                  "category": "religious",
+                  "coords": [
+                        37.568039,
+                        49.027743
+                  ]
+            },
+            {
+                  "name": "sunset point",
+                  "text": "A scenic spot for watching the sunset in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        37.522004,
+                        49.021096
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Nationalpark Heilige Berge", hu: "Szvjati Hori Nemzeti Park", ro: "Parcul Național Munții Sfinți", en: "Holy Mountains National Nature Park"},
@@ -1199,7 +1532,52 @@ imageHint: "Southern Bug river canyon and granite rocks",
     },
     image: "/poi-images/ukraine-bugs-guard-life-v2.webp",
 },  {
-    id: "ukraine-skolivski-beskydy-life-v2",
+    id: "ukraine-skolivski-beskydy-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Оленяча",
+                  "text": "Ein Berggipfel im Nationalpark Skoler Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409424,
+                        49.066804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Оленяча",
+                  "text": "Hegycsúcs a Szkolivszki Beszkidek Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409424,
+                        49.066804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Оленяча",
+                  "text": "Un vârf muntos situat în Parcul Național Natural Beskizii Skole.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409424,
+                        49.066804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oleniacha",
+                  "text": "A mountain peak located within the Skolivski Beskydy National Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409424,
+                        49.066804
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "park",
     name: { de: "Nationalpark Skoler Beskiden", hu: "Szkolei-Beszkidek Nemzeti Park", ro: "Parcul Național Beskizii Skolei", en: "Skolivski Beskydy National Nature Park"},

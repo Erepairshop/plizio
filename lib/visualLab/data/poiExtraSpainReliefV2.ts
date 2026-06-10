@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const spainReliefV2: POI[] = [
 
   {
-    id: "spain-sierra-nevada-relief-v2",
+    id: "spain-sierra-nevada-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Der dritthöchste Gipfel der Sierra Nevada, bekannt für seine steile Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Cortijo del Peñoncillo",
+                  "text": "Die Ruinen eines traditionellen Bauernhauses im Nationalpark Sierra Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -3.332209,
+                        37.120074
+                  ]
+            },
+            {
+                  "name": "Minas de la Estrella",
+                  "text": "Ruinen einer verlassenen Kupfermine, die einen Einblick in die Industriegeschichte der Sierra Nevada geben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341729,
+                        37.109224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "A Sierra Nevada harmadik legmagasabb csúcsa, amely meredek északi faláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Cortijo del Peñoncillo",
+                  "text": "Egy hagyományos parasztház romjai a Sierra Nevada Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.332209,
+                        37.120074
+                  ]
+            },
+            {
+                  "name": "Minas de la Estrella",
+                  "text": "Elhagyatott rézbánya romjai, amelyek bepillantást engednek a Sierra Nevada ipari múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341729,
+                        37.109224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Al treilea cel mai înalt vârf din Sierra Nevada, cunoscut pentru versantul său nordic abrupt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Cortijo del Peñoncillo",
+                  "text": "Ruinele unei ferme tradiționale situate în Parcul Național Sierra Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -3.332209,
+                        37.120074
+                  ]
+            },
+            {
+                  "name": "Minas de la Estrella",
+                  "text": "Ruinele unei mine de cupru părăsite, oferind o privire asupra istoriei industriale a Sierrei Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341729,
+                        37.109224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "The third highest peak of the Sierra Nevada range, known for its steep northern face.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Cortijo del Peñoncillo",
+                  "text": "The ruins of a traditional farmhouse located within the Sierra Nevada National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.332209,
+                        37.120074
+                  ]
+            },
+            {
+                  "name": "Minas de la Estrella",
+                  "text": "Abandoned copper mine ruins offering a glimpse into the industrial history of the Sierra Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -3.341729,
+                        37.109224
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra Nevada", hu: "Sierra Nevada", ro: "Sierra Nevada", en: "Sierra Nevada"},
@@ -50,7 +167,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-pyrenees-relief-v2",
+    id: "spain-pyrenees-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pic Roi",
+                  "text": "Der Pic Roi ist ein markanter Berggipfel in den Pyrenäen, bekannt für seine beeindruckende Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798193,
+                        42.565189
+                  ]
+            },
+            {
+                  "name": "Pic d'Estany Roi",
+                  "text": "Ein Gebirgsgipfel in den Pyrenäen, der sich in der Nähe des malerischen Estany Roi Sees befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798879,
+                        42.569344
+                  ]
+            },
+            {
+                  "name": "Pic del Cap d'Estany Roi",
+                  "text": "Dieser Gipfel in den Pyrenäen bietet Bergsteigern eine herausfordernde Route und weite Panoramablicke.",
+                  "category": "landmark",
+                  "coords": [
+                        0.800451,
+                        42.585412
+                  ]
+            },
+            {
+                  "name": "Punta Senyalada",
+                  "text": "Die Punta Senyalada ist ein imposanter Gipfel in den Pyrenäen, der Teil einer spektakulären Berglandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        0.808474,
+                        42.59137
+                  ]
+            },
+            {
+                  "name": "Pic d'Abellers",
+                  "text": "Dieser Berggipfel in den Pyrenäen ist ein beliebtes Ziel für erfahrene Wanderer und Alpinisten.",
+                  "category": "landmark",
+                  "coords": [
+                        0.820474,
+                        42.594853
+                  ]
+            },
+            {
+                  "name": "Besiberri Sud",
+                  "text": "Der Besiberri Sud ist einer der bedeutendsten Gipfel der Pyrenäen und bietet ein beeindruckendes Hochgebirgspanorama.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82599,
+                        42.593806
+                  ]
+            },
+            {
+                  "name": "Besiberri del Mig",
+                  "text": "Dieser Gipfel im Besiberri-Massiv der Pyrenäen ist bekannt für seine schroffen Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82494,
+                        42.599893
+                  ]
+            },
+            {
+                  "name": "Besiberri Nord",
+                  "text": "Der Besiberri Nord ist ein markanter Dreitausender in den Pyrenäen und ein Ziel für anspruchsvolle Bergtouren.",
+                  "category": "landmark",
+                  "coords": [
+                        0.826304,
+                        42.605262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pic Roi",
+                  "text": "A Pic Roi a Pireneusok egyik jellegzetes hegycsúcsa, amely lenyűgöző kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798193,
+                        42.565189
+                  ]
+            },
+            {
+                  "name": "Pic d'Estany Roi",
+                  "text": "Hegycsúcs a Pireneusokban, amely a festői Estany Roi tó közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798879,
+                        42.569344
+                  ]
+            },
+            {
+                  "name": "Pic del Cap d'Estany Roi",
+                  "text": "Ez a pireneusi csúcs kihívást jelentő útvonalat és széles panorámát kínál a hegymászóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        0.800451,
+                        42.585412
+                  ]
+            },
+            {
+                  "name": "Punta Senyalada",
+                  "text": "A Punta Senyalada egy impozáns csúcs a Pireneusokban, amely egy látványos hegyi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        0.808474,
+                        42.59137
+                  ]
+            },
+            {
+                  "name": "Pic d'Abellers",
+                  "text": "Ez a pireneusi hegycsúcs a tapasztalt túrázók és alpinisták kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        0.820474,
+                        42.594853
+                  ]
+            },
+            {
+                  "name": "Besiberri Sud",
+                  "text": "A Besiberri Sud a Pireneusok egyik legjelentősebb csúcsa, lenyűgöző magashegyi panorámát kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82599,
+                        42.593806
+                  ]
+            },
+            {
+                  "name": "Besiberri del Mig",
+                  "text": "A Pireneusok Besiberri-masszívumának ez a csúcsa meredek sziklaformációiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82494,
+                        42.599893
+                  ]
+            },
+            {
+                  "name": "Besiberri Nord",
+                  "text": "A Besiberri Nord egy jellegzetes háromezres csúcs a Pireneusokban, igényes hegyi túrák célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        0.826304,
+                        42.605262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pic Roi",
+                  "text": "Pic Roi este un vârf montan proeminent din Pirinei, cunoscut pentru vederea sa impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798193,
+                        42.565189
+                  ]
+            },
+            {
+                  "name": "Pic d'Estany Roi",
+                  "text": "Un vârf montan din Pirinei, situat în apropierea lacului pitoresc Estany Roi.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798879,
+                        42.569344
+                  ]
+            },
+            {
+                  "name": "Pic del Cap d'Estany Roi",
+                  "text": "Acest vârf din Pirinei oferă alpiniștilor o rută provocatoare și vederi panoramice largi.",
+                  "category": "landmark",
+                  "coords": [
+                        0.800451,
+                        42.585412
+                  ]
+            },
+            {
+                  "name": "Punta Senyalada",
+                  "text": "Punta Senyalada este un vârf impunător din Pirinei, care face parte dintr-un peisaj montan spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        0.808474,
+                        42.59137
+                  ]
+            },
+            {
+                  "name": "Pic d'Abellers",
+                  "text": "Acest vârf montan din Pirinei este o destinație populară pentru drumeții și alpiniștii experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        0.820474,
+                        42.594853
+                  ]
+            },
+            {
+                  "name": "Besiberri Sud",
+                  "text": "Besiberri Sud este unul dintre cele mai importante vârfuri din Pirinei, oferind o panoramă montană impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82599,
+                        42.593806
+                  ]
+            },
+            {
+                  "name": "Besiberri del Mig",
+                  "text": "Acest vârf din masivul Besiberri din Pirinei este cunoscut pentru formațiunile sale stâncoase abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82494,
+                        42.599893
+                  ]
+            },
+            {
+                  "name": "Besiberri Nord",
+                  "text": "Besiberri Nord este un vârf proeminent de peste trei mii de metri din Pirinei și o destinație pentru trasee montane solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        0.826304,
+                        42.605262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pic Roi",
+                  "text": "Pic Roi is a prominent mountain peak in the Pyrenees, known for its impressive views.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798193,
+                        42.565189
+                  ]
+            },
+            {
+                  "name": "Pic d'Estany Roi",
+                  "text": "A mountain peak in the Pyrenees located near the scenic Estany Roi lake.",
+                  "category": "landmark",
+                  "coords": [
+                        0.798879,
+                        42.569344
+                  ]
+            },
+            {
+                  "name": "Pic del Cap d'Estany Roi",
+                  "text": "This peak in the Pyrenees offers mountaineers a challenging route and wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        0.800451,
+                        42.585412
+                  ]
+            },
+            {
+                  "name": "Punta Senyalada",
+                  "text": "Punta Senyalada is an imposing peak in the Pyrenees, forming part of a spectacular mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        0.808474,
+                        42.59137
+                  ]
+            },
+            {
+                  "name": "Pic d'Abellers",
+                  "text": "This mountain peak in the Pyrenees is a popular destination for experienced hikers and alpinists.",
+                  "category": "landmark",
+                  "coords": [
+                        0.820474,
+                        42.594853
+                  ]
+            },
+            {
+                  "name": "Besiberri Sud",
+                  "text": "Besiberri Sud is one of the most significant peaks in the Pyrenees, offering an impressive high-mountain panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82599,
+                        42.593806
+                  ]
+            },
+            {
+                  "name": "Besiberri del Mig",
+                  "text": "This peak in the Besiberri massif of the Pyrenees is known for its rugged rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        0.82494,
+                        42.599893
+                  ]
+            },
+            {
+                  "name": "Besiberri Nord",
+                  "text": "Besiberri Nord is a prominent three-thousand-meter peak in the Pyrenees and a destination for demanding mountain tours.",
+                  "category": "landmark",
+                  "coords": [
+                        0.826304,
+                        42.605262
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Pyrenäen", hu: "Pireneusok", ro: "Munții Pirinei", en: "Pyrenees"},
@@ -144,7 +558,52 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sistema-central-relief-v2",
+    id: "spain-sistema-central-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "Ein Aussichtspunkt, der Zugang zu den Bergen des Zentralsystems bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "A Központi-rendszer hegységbe való bejutást biztosító látványos pont.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "Un punct pitoresc care oferă acces la munții Sistemului Central.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "A scenic point providing access to the Central System mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Zentralsystem", hu: "Központi-hegységrendszer", ro: "Sistemul Central", en: "Central System"},
@@ -191,7 +650,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sistema-iberico-relief-v2",
+    id: "spain-sistema-iberico-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento Natural Estratotipo de Fuentelsaz",
+                  "text": "Ein bedeutendes geologisches Naturdenkmal im Iberischen Gebirge, das den Übergang zum Jura zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -1.829458,
+                        41.081404
+                  ]
+            },
+            {
+                  "name": "Castillo de Cimballa",
+                  "text": "Die Ruinen einer historischen Festung im Iberischen Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        -1.777504,
+                        41.098278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento Natural Estratotipo de Fuentelsaz",
+                  "text": "Egy jelentős geológiai természeti emlék az Ibériai-hegységben, amely a jura időszakba való átmenetet mutatja.",
+                  "category": "natural",
+                  "coords": [
+                        -1.829458,
+                        41.081404
+                  ]
+            },
+            {
+                  "name": "Castillo de Cimballa",
+                  "text": "Egy történelmi erőd romjai az Ibériai-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -1.777504,
+                        41.098278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento Natural Estratotipo de Fuentelsaz",
+                  "text": "Un monument natural geologic semnificativ din Sistemul Iberic, care marchează trecerea către Jurasic.",
+                  "category": "natural",
+                  "coords": [
+                        -1.829458,
+                        41.081404
+                  ]
+            },
+            {
+                  "name": "Castillo de Cimballa",
+                  "text": "Ruinele unei fortărețe istorice din Sistemul Iberic.",
+                  "category": "historical",
+                  "coords": [
+                        -1.777504,
+                        41.098278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento Natural Estratotipo de Fuentelsaz",
+                  "text": "A significant geological natural monument in the Iberian System showing the transition to the Jurassic.",
+                  "category": "natural",
+                  "coords": [
+                        -1.829458,
+                        41.081404
+                  ]
+            },
+            {
+                  "name": "Castillo de Cimballa",
+                  "text": "The ruins of a historic fortress in the Iberian System.",
+                  "category": "historical",
+                  "coords": [
+                        -1.777504,
+                        41.098278
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Iberisches Gebirge", hu: "Ibériai-hegység", ro: "Sistemul Iberic", en: "Iberian System"},
@@ -238,7 +778,196 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-cordillera-cantabrica-relief-v2",
+    id: "spain-cordillera-cantabrica-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chozo de los Pastores",
+                  "text": "Dieses Museum im Kantabrischen Gebirge zeigt traditionelle Hirtenhütten.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005576,
+                        42.975393
+                  ]
+            },
+            {
+                  "name": "El Silencio de las Campanas",
+                  "text": "Ein Denkmal im Kantabrischen Gebirge, das an die kulturelle Bedeutung von Glocken erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -5.012039,
+                        42.975278
+                  ]
+            },
+            {
+                  "name": "Mirador de Valcayo",
+                  "text": "Ein Aussichtspunkt im Kantabrischen Gebirge mit weitem Blick über die Täler.",
+                  "category": "natural",
+                  "coords": [
+                        -4.998257,
+                        42.977796
+                  ]
+            },
+            {
+                  "name": "Riaño",
+                  "text": "Das Dorf Riaño ist bekannt für seine Lage am Stausee vor der Kulisse des Kantabrischen Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.013005,
+                        42.974509
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Hazas",
+                  "text": "Ein beliebter Aussichtspunkt in Riaño mit spektakulärem Blick auf den Stausee und die Berge.",
+                  "category": "natural",
+                  "coords": [
+                        -4.996714,
+                        42.975287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chozo de los Pastores",
+                  "text": "Ez a Kantábriai-hegységben található múzeum hagyományos pásztorkunyhókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005576,
+                        42.975393
+                  ]
+            },
+            {
+                  "name": "El Silencio de las Campanas",
+                  "text": "Egy emlékmű a Kantábriai-hegységben, amely a harangok kulturális jelentőségére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -5.012039,
+                        42.975278
+                  ]
+            },
+            {
+                  "name": "Mirador de Valcayo",
+                  "text": "Kilátópont a Kantábriai-hegységben, ahonnan széles kilátás nyílik a völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.998257,
+                        42.977796
+                  ]
+            },
+            {
+                  "name": "Riaño",
+                  "text": "Riaño faluja a víztározó partján fekvő fekvéséről és a Kantábriai-hegység látványáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.013005,
+                        42.974509
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Hazas",
+                  "text": "Népszerű kilátópont Riañóban, ahonnan látványos kilátás nyílik a tározóra és a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -4.996714,
+                        42.975287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chozo de los Pastores",
+                  "text": "Acest muzeu din Munții Cantabrici prezintă colibe tradiționale ale păstorilor.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005576,
+                        42.975393
+                  ]
+            },
+            {
+                  "name": "El Silencio de las Campanas",
+                  "text": "Un monument din Munții Cantabrici care amintește de importanța culturală a clopotelor.",
+                  "category": "historical",
+                  "coords": [
+                        -5.012039,
+                        42.975278
+                  ]
+            },
+            {
+                  "name": "Mirador de Valcayo",
+                  "text": "Un punct de observare din Munții Cantabrici care oferă vederi panoramice asupra văilor.",
+                  "category": "natural",
+                  "coords": [
+                        -4.998257,
+                        42.977796
+                  ]
+            },
+            {
+                  "name": "Riaño",
+                  "text": "Satul Riaño este cunoscut pentru locația sa pe malul lacului de acumulare, pe fundalul Munților Cantabrici.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.013005,
+                        42.974509
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Hazas",
+                  "text": "Un punct de belvedere popular în Riaño, cu vederi spectaculoase asupra lacului și munților.",
+                  "category": "natural",
+                  "coords": [
+                        -4.996714,
+                        42.975287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chozo de los Pastores",
+                  "text": "This museum in the Cantabrian Mountains showcases traditional shepherds' huts.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005576,
+                        42.975393
+                  ]
+            },
+            {
+                  "name": "El Silencio de las Campanas",
+                  "text": "A monument in the Cantabrian Mountains commemorating the cultural importance of bells.",
+                  "category": "historical",
+                  "coords": [
+                        -5.012039,
+                        42.975278
+                  ]
+            },
+            {
+                  "name": "Mirador de Valcayo",
+                  "text": "A viewpoint in the Cantabrian Mountains offering expansive views over the valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -4.998257,
+                        42.977796
+                  ]
+            },
+            {
+                  "name": "Riaño",
+                  "text": "The village of Riaño is known for its location by the reservoir against the backdrop of the Cantabrian Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.013005,
+                        42.974509
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Hazas",
+                  "text": "A popular viewpoint in Riaño offering spectacular views of the reservoir and the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -4.996714,
+                        42.975287
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Kantabrisches Gebirge", hu: "Kantábriai-hegység", ro: "Munții Cantabrici", en: "Cantabrian Mountains"},
@@ -419,7 +1148,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sierra-de-gredos-relief-v2",
+    id: "spain-sierra-de-gredos-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morezón",
+                  "text": "Markanter Berggipfel in der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Berggipfel im zentralen Teil der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Gebirgskamm und Gipfel in der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Felsformation mit drei markanten Gipfeln in der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            },
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "Wichtiger Ausgangspunkt für Wanderwege in der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            },
+            {
+                  "name": "Refugio del Rey",
+                  "text": "Überreste einer alten Berghütte in der Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.253095,
+                        40.251226
+                  ]
+            },
+            {
+                  "name": "Puerto de Candeleda",
+                  "text": "Aussichtspunkt auf einem Gebirgspass in der Sierra de Gredos.",
+                  "category": "natural",
+                  "coords": [
+                        -5.240648,
+                        40.246902
+                  ]
+            },
+            {
+                  "name": "Molino de los Pinarejos",
+                  "text": "Ruinen einer alten Mühle in der Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.273243,
+                        40.273618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morezón",
+                  "text": "Jellegzetes hegycsúcs a Sierra de Gredos hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Hegycsúcs a Sierra de Gredos központi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Hegyi gerinc és csúcs a Sierra de Gredos hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Három jellegzetes csúcsból álló sziklaformáció a Sierra de Gredosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            },
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "Fontos kiindulópont a Sierra de Gredos hegység túraútvonalaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            },
+            {
+                  "name": "Refugio del Rey",
+                  "text": "Egy régi hegyi menedékház romjai a Sierra de Gredos hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.253095,
+                        40.251226
+                  ]
+            },
+            {
+                  "name": "Puerto de Candeleda",
+                  "text": "Kilátópont egy hegyi hágón a Sierra de Gredos hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.240648,
+                        40.246902
+                  ]
+            },
+            {
+                  "name": "Molino de los Pinarejos",
+                  "text": "Egy régi malom romjai a Sierra de Gredos hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.273243,
+                        40.273618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morezón",
+                  "text": "Vârf montan proeminent în Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Vârf montan în partea centrală a masivului Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Creastă montană și vârf în Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Formațiune stâncoasă cu trei vârfuri distincte în Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            },
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "Punct important de acces pentru traseele montane din Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            },
+            {
+                  "name": "Refugio del Rey",
+                  "text": "Ruinele unui vechi refugiu montan în Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.253095,
+                        40.251226
+                  ]
+            },
+            {
+                  "name": "Puerto de Candeleda",
+                  "text": "Punct de belvedere situat pe o trecătoare montană în Sierra de Gredos.",
+                  "category": "natural",
+                  "coords": [
+                        -5.240648,
+                        40.246902
+                  ]
+            },
+            {
+                  "name": "Molino de los Pinarejos",
+                  "text": "Ruinele unei vechi mori în Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.273243,
+                        40.273618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morezón",
+                  "text": "A prominent mountain peak in the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "A mountain peak in the central part of the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "A mountain ridge and peak in the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "A rock formation with three distinctive peaks in the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            },
+            {
+                  "name": "La Plataforma de Gredos",
+                  "text": "A key starting point for hiking trails in the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.23238,
+                        40.275129
+                  ]
+            },
+            {
+                  "name": "Refugio del Rey",
+                  "text": "Ruins of an old mountain shelter in the Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.253095,
+                        40.251226
+                  ]
+            },
+            {
+                  "name": "Puerto de Candeleda",
+                  "text": "A viewpoint located on a mountain pass in the Sierra de Gredos.",
+                  "category": "natural",
+                  "coords": [
+                        -5.240648,
+                        40.246902
+                  ]
+            },
+            {
+                  "name": "Molino de los Pinarejos",
+                  "text": "Ruins of an old mill in the Sierra de Gredos.",
+                  "category": "historical",
+                  "coords": [
+                        -5.273243,
+                        40.273618
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Gredos", hu: "Sierra de Gredos", ro: "Sierra de Gredos", en: "Sierra de Gredos"},
@@ -513,7 +1539,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-moncayo-relief-v2",
+    id: "spain-moncayo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castilviejo",
+                  "text": "Archäologische Überreste einer alten Siedlung an den Hängen des Moncayo-Berges.",
+                  "category": "historical",
+                  "coords": [
+                        -1.791892,
+                        41.788087
+                  ]
+            },
+            {
+                  "name": "Moncayo",
+                  "text": "Der höchste Berg des Sistema Ibérico, bekannt für seine Artenvielfalt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.83971,
+                        41.787163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castilviejo",
+                  "text": "Egy ősi település régészeti maradványai a Moncayo-hegy lejtőinél.",
+                  "category": "historical",
+                  "coords": [
+                        -1.791892,
+                        41.788087
+                  ]
+            },
+            {
+                  "name": "Moncayo",
+                  "text": "Az Ibériai-hegység legmagasabb csúcsa, amely biológiai sokféleségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.83971,
+                        41.787163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castilviejo",
+                  "text": "Vestigii arheologice ale unei vechi așezări situate lângă pantele muntelui Moncayo.",
+                  "category": "historical",
+                  "coords": [
+                        -1.791892,
+                        41.788087
+                  ]
+            },
+            {
+                  "name": "Moncayo",
+                  "text": "Cel mai înalt munte din lanțul Sistemul Iberic, cunoscut pentru biodiversitatea sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.83971,
+                        41.787163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castilviejo",
+                  "text": "An archaeological site located near the slopes of the Moncayo mountain.",
+                  "category": "historical",
+                  "coords": [
+                        -1.791892,
+                        41.788087
+                  ]
+            },
+            {
+                  "name": "Moncayo",
+                  "text": "The highest mountain in the Sistema Ibérico range, known for its biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.83971,
+                        41.787163
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "peak",
     name: { de: "Moncayo", hu: "Moncayo", ro: "Moncayo", en: "Moncayo"},
@@ -560,7 +1667,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-cabo-de-gata-relief-v2",
+    id: "spain-cabo-de-gata-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Cabo de Gata",
+                  "text": "Ein markanter Leuchtturm an der Küste des Cabo de Gata in Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.19288,
+                        36.721654
+                  ]
+            },
+            {
+                  "name": "Playa del Corralete",
+                  "text": "Ein malerischer Strand im Naturschutzgebiet Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194804,
+                        36.725241
+                  ]
+            },
+            {
+                  "name": "Cala Arena",
+                  "text": "Ein ruhiger Strandabschnitt an der Küste von Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.184192,
+                        36.720682
+                  ]
+            },
+            {
+                  "name": "Cala Rajá",
+                  "text": "Eine abgelegene Bucht mit Sandstrand im Naturpark Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.176802,
+                        36.724316
+                  ]
+            },
+            {
+                  "name": "Aula del Mar",
+                  "text": "Ein Museum in Cabo de Gata, das sich der Meeresbiologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.191056,
+                        36.72366
+                  ]
+            },
+            {
+                  "name": "Playa de la Almadraba",
+                  "text": "Ein weitläufiger Sandstrand am Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218203,
+                        36.750032
+                  ]
+            },
+            {
+                  "name": "Playa de la Fabriquilla",
+                  "text": "Ein beliebter Strandabschnitt in der Nähe von Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.207586,
+                        36.737735
+                  ]
+            },
+            {
+                  "name": "Cala de Punta Negra",
+                  "text": "Eine kleine Bucht mit kristallklarem Wasser bei Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.168491,
+                        36.723579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Cabo de Gata",
+                  "text": "Jellegzetes világítótorony Cabo de Gata partjainál, Spanyolországban.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.19288,
+                        36.721654
+                  ]
+            },
+            {
+                  "name": "Playa del Corralete",
+                  "text": "Festői tengerpart a Cabo de Gata természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194804,
+                        36.725241
+                  ]
+            },
+            {
+                  "name": "Cala Arena",
+                  "text": "Nyugodt tengerparti szakasz Cabo de Gata partjánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.184192,
+                        36.720682
+                  ]
+            },
+            {
+                  "name": "Cala Rajá",
+                  "text": "Elszigetelt öböl homokos tengerparttal a Cabo de Gata parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.176802,
+                        36.724316
+                  ]
+            },
+            {
+                  "name": "Aula del Mar",
+                  "text": "Tengerbiológiával foglalkozó múzeum Cabo de Gata városában.",
+                  "category": "museum",
+                  "coords": [
+                        -2.191056,
+                        36.72366
+                  ]
+            },
+            {
+                  "name": "Playa de la Almadraba",
+                  "text": "Kiterjedt homokos tengerpart Cabo de Gata területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218203,
+                        36.750032
+                  ]
+            },
+            {
+                  "name": "Playa de la Fabriquilla",
+                  "text": "Népszerű tengerparti szakasz Cabo de Gata közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.207586,
+                        36.737735
+                  ]
+            },
+            {
+                  "name": "Cala de Punta Negra",
+                  "text": "Kis öböl kristálytiszta vízzel Cabo de Gata közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.168491,
+                        36.723579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Cabo de Gata",
+                  "text": "Un far proeminent situat pe coasta Cabo de Gata din Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.19288,
+                        36.721654
+                  ]
+            },
+            {
+                  "name": "Playa del Corralete",
+                  "text": "O plajă pitorească situată în zona protejată Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194804,
+                        36.725241
+                  ]
+            },
+            {
+                  "name": "Cala Arena",
+                  "text": "O secțiune liniștită de plajă pe coasta Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.184192,
+                        36.720682
+                  ]
+            },
+            {
+                  "name": "Cala Rajá",
+                  "text": "Un golf retras cu plajă de nisip în parcul natural Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.176802,
+                        36.724316
+                  ]
+            },
+            {
+                  "name": "Aula del Mar",
+                  "text": "Un muzeu din Cabo de Gata dedicat biologiei marine.",
+                  "category": "museum",
+                  "coords": [
+                        -2.191056,
+                        36.72366
+                  ]
+            },
+            {
+                  "name": "Playa de la Almadraba",
+                  "text": "O plajă întinsă de nisip situată la Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218203,
+                        36.750032
+                  ]
+            },
+            {
+                  "name": "Playa de la Fabriquilla",
+                  "text": "O secțiune de plajă populară situată lângă Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.207586,
+                        36.737735
+                  ]
+            },
+            {
+                  "name": "Cala de Punta Negra",
+                  "text": "Un mic golf cu apă cristalină în apropiere de Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.168491,
+                        36.723579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Cabo de Gata",
+                  "text": "A prominent lighthouse on the coast of Cabo de Gata in Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.19288,
+                        36.721654
+                  ]
+            },
+            {
+                  "name": "Playa del Corralete",
+                  "text": "A picturesque beach located within the Cabo de Gata nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194804,
+                        36.725241
+                  ]
+            },
+            {
+                  "name": "Cala Arena",
+                  "text": "A quiet beach section on the coast of Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.184192,
+                        36.720682
+                  ]
+            },
+            {
+                  "name": "Cala Rajá",
+                  "text": "A secluded cove with a sandy beach in the Cabo de Gata Natural Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.176802,
+                        36.724316
+                  ]
+            },
+            {
+                  "name": "Aula del Mar",
+                  "text": "A museum in Cabo de Gata dedicated to marine biology.",
+                  "category": "museum",
+                  "coords": [
+                        -2.191056,
+                        36.72366
+                  ]
+            },
+            {
+                  "name": "Playa de la Almadraba",
+                  "text": "An extensive sandy beach located at Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218203,
+                        36.750032
+                  ]
+            },
+            {
+                  "name": "Playa de la Fabriquilla",
+                  "text": "A popular beach section located near Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.207586,
+                        36.737735
+                  ]
+            },
+            {
+                  "name": "Cala de Punta Negra",
+                  "text": "A small cove with crystal clear water near Cabo de Gata.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.168491,
+                        36.723579
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "landmark",
     name: { de: "Cabo de Gata", hu: "Cabo de Gata", ro: "Cabo de Gata", en: "Cabo de Gata"},
@@ -607,7 +2011,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sierra-de-cazorla-relief-v2",
+    id: "spain-sierra-de-cazorla-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Interpretación de la Cultura de la Madera",
+                  "text": "Ein Museum in der Sierra de Cazorla, das die Geschichte und Techniken der Holzkultur in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -2.929944,
+                        37.921209
+                  ]
+            },
+            {
+                  "name": "Cascada de Linarejos",
+                  "text": "Ein markanter Aussichtspunkt in der Sierra de Cazorla mit Blick auf den Linarejos-Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -2.922754,
+                        37.927363
+                  ]
+            },
+            {
+                  "name": "Mirador Estrecho de los Perales",
+                  "text": "Ein Panoramapunkt in der Sierra de Cazorla, der eine weite Sicht über den Estrecho de los Perales bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863472,
+                        37.895701
+                  ]
+            },
+            {
+                  "name": "Mirador Poyos de la Mesa",
+                  "text": "Ein Aussichtspunkt in der Sierra de Cazorla, bekannt für seine Sicht auf das Hochplateau Poyos de la Mesa.",
+                  "category": "natural",
+                  "coords": [
+                        -2.91318,
+                        37.906818
+                  ]
+            },
+            {
+                  "name": "Mirador de Guadalentín",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke auf das Tal des Flusses Guadalentín in der Sierra de Cazorla ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -2.870904,
+                        37.885265
+                  ]
+            },
+            {
+                  "name": "Linarejos",
+                  "text": "Ein Aussichtspunkt in der Sierra de Cazorla, der Panoramablicke auf das Linarejos-Gebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.92013,
+                        37.925271
+                  ]
+            },
+            {
+                  "name": "Casa Forestal del Bazar",
+                  "text": "Die Ruinen eines ehemaligen Forsthauses in der Gebirgsregion der Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.909207,
+                        37.902252
+                  ]
+            },
+            {
+                  "name": "Cortijo de los Lucios",
+                  "text": "Ruinen eines traditionellen andalusischen Bauernhauses in der Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.872845,
+                        37.890978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Interpretación de la Cultura de la Madera",
+                  "text": "A Sierra de Cazorla hegységben található múzeum, amely a régió fakitermelési és fafeldolgozási kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.929944,
+                        37.921209
+                  ]
+            },
+            {
+                  "name": "Cascada de Linarejos",
+                  "text": "Jellegzetes kilátóhely a Sierra de Cazorla hegységben, kilátással a Linarejos-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.922754,
+                        37.927363
+                  ]
+            },
+            {
+                  "name": "Mirador Estrecho de los Perales",
+                  "text": "Panorámás kilátópont a Sierra de Cazorla hegységben, amely tágas rálátást biztosít az Estrecho de los Perales területére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863472,
+                        37.895701
+                  ]
+            },
+            {
+                  "name": "Mirador Poyos de la Mesa",
+                  "text": "Kilátóhely a Sierra de Cazorla hegységben, amely a Poyos de la Mesa fennsíkról nyíló panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -2.91318,
+                        37.906818
+                  ]
+            },
+            {
+                  "name": "Mirador de Guadalentín",
+                  "text": "Kilátópont, amely tágas kilátást nyújt a Guadalentín folyó völgyére a Sierra de Cazorla hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.870904,
+                        37.885265
+                  ]
+            },
+            {
+                  "name": "Linarejos",
+                  "text": "Kilátóhely a Sierra de Cazorla hegységben, amely panorámás kilátást nyújt a Linarejos környékére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.92013,
+                        37.925271
+                  ]
+            },
+            {
+                  "name": "Casa Forestal del Bazar",
+                  "text": "Egy egykori erdészház romjai a Sierra de Cazorla hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -2.909207,
+                        37.902252
+                  ]
+            },
+            {
+                  "name": "Cortijo de los Lucios",
+                  "text": "Egy hagyományos andalúz tanyaépület romjai a Sierra de Cazorla hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.872845,
+                        37.890978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Interpretación de la Cultura de la Madera",
+                  "text": "Un muzeu din Sierra de Cazorla care documentează istoria și tehnicile culturii lemnului din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -2.929944,
+                        37.921209
+                  ]
+            },
+            {
+                  "name": "Cascada de Linarejos",
+                  "text": "Un punct de belvedere marcat în Sierra de Cazorla, cu vedere spre cascada Linarejos.",
+                  "category": "natural",
+                  "coords": [
+                        -2.922754,
+                        37.927363
+                  ]
+            },
+            {
+                  "name": "Mirador Estrecho de los Perales",
+                  "text": "Un punct panoramic în Sierra de Cazorla, care oferă o vedere largă asupra zonei Estrecho de los Perales.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863472,
+                        37.895701
+                  ]
+            },
+            {
+                  "name": "Mirador Poyos de la Mesa",
+                  "text": "Un punct de observație în Sierra de Cazorla, cunoscut pentru vederea spre platoul înalt Poyos de la Mesa.",
+                  "category": "natural",
+                  "coords": [
+                        -2.91318,
+                        37.906818
+                  ]
+            },
+            {
+                  "name": "Mirador de Guadalentín",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra văii râului Guadalentín în Sierra de Cazorla.",
+                  "category": "natural",
+                  "coords": [
+                        -2.870904,
+                        37.885265
+                  ]
+            },
+            {
+                  "name": "Linarejos",
+                  "text": "Un punct de belvedere în Sierra de Cazorla care oferă vederi panoramice asupra zonei Linarejos.",
+                  "category": "natural",
+                  "coords": [
+                        -2.92013,
+                        37.925271
+                  ]
+            },
+            {
+                  "name": "Casa Forestal del Bazar",
+                  "text": "Ruinele unei foste case forestiere în regiunea muntoasă Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.909207,
+                        37.902252
+                  ]
+            },
+            {
+                  "name": "Cortijo de los Lucios",
+                  "text": "Ruinele unei ferme tradiționale andaluze în Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.872845,
+                        37.890978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Interpretación de la Cultura de la Madera",
+                  "text": "A museum in Sierra de Cazorla documenting the history and techniques of wood culture in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -2.929944,
+                        37.921209
+                  ]
+            },
+            {
+                  "name": "Cascada de Linarejos",
+                  "text": "A prominent viewpoint in Sierra de Cazorla overlooking the Linarejos waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -2.922754,
+                        37.927363
+                  ]
+            },
+            {
+                  "name": "Mirador Estrecho de los Perales",
+                  "text": "A panoramic point in Sierra de Cazorla offering wide views over the Estrecho de los Perales area.",
+                  "category": "natural",
+                  "coords": [
+                        -2.863472,
+                        37.895701
+                  ]
+            },
+            {
+                  "name": "Mirador Poyos de la Mesa",
+                  "text": "A viewpoint in Sierra de Cazorla known for its views toward the Poyos de la Mesa high plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -2.91318,
+                        37.906818
+                  ]
+            },
+            {
+                  "name": "Mirador de Guadalentín",
+                  "text": "A viewpoint offering expansive views of the Guadalentín river valley in Sierra de Cazorla.",
+                  "category": "natural",
+                  "coords": [
+                        -2.870904,
+                        37.885265
+                  ]
+            },
+            {
+                  "name": "Linarejos",
+                  "text": "A viewpoint in Sierra de Cazorla providing panoramic views of the Linarejos area.",
+                  "category": "natural",
+                  "coords": [
+                        -2.92013,
+                        37.925271
+                  ]
+            },
+            {
+                  "name": "Casa Forestal del Bazar",
+                  "text": "The ruins of a former forest house in the mountainous region of Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.909207,
+                        37.902252
+                  ]
+            },
+            {
+                  "name": "Cortijo de los Lucios",
+                  "text": "Ruins of a traditional Andalusian farmhouse in Sierra de Cazorla.",
+                  "category": "historical",
+                  "coords": [
+                        -2.872845,
+                        37.890978
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Cazorla", hu: "Sierra de Cazorla", ro: "Sierra de Cazorla", en: "Sierra de Cazorla"},
@@ -654,7 +2355,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-montes-de-toledo-relief-v2",
+    id: "spain-montes-de-toledo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Risco Tirapanes",
+                  "text": "Natürliche Attraktion in den Bergen von Toledo.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.543301,
+                        39.491512
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciervo",
+                  "text": "Denkmal für den Hirsch in den Bergen von Toledo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521754,
+                        39.495297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Risco Tirapanes",
+                  "text": "Természeti látnivaló a Toledói-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.543301,
+                        39.491512
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciervo",
+                  "text": "Szarvas-emlékmű a Toledói-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521754,
+                        39.495297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Risco Tirapanes",
+                  "text": "Atracție naturală situată în Munții Toledo.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.543301,
+                        39.491512
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciervo",
+                  "text": "Monument dedicat cerbului în Munții Toledo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521754,
+                        39.495297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Risco Tirapanes",
+                  "text": "Natural attraction located in the Mountains of Toledo.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.543301,
+                        39.491512
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciervo",
+                  "text": "Monument dedicated to the deer in the Mountains of Toledo.",
+                  "category": "historical",
+                  "coords": [
+                        -4.521754,
+                        39.495297
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Berge von Toledo", hu: "Toledói-hegyek", ro: "Munții Toledo", en: "Mountains of Toledo"},
@@ -701,7 +2483,196 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sierra-de-urbion-relief-v2",
+    id: "spain-sierra-de-urbion-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "Ein geschütztes Feuchtgebiet in der Sierra de Urbión mit einer vielfältigen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Ein beeindruckender Aussichtspunkt über dem berühmten Gletschersee der Sierra de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Laguna Grande in der spanischen Bergregion.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "Der Ursprung des Duero, eines der bedeutendsten Flüsse der Iberischen Halbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "Ein markantes Berggipfelkreuz in der Sierra de Urbión.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "Védett vizes élőhely a Sierra de Urbión hegységben, gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Lenyűgöző kilátópont a Sierra de Urbión híres gleccsertava felett.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a spanyol hegyvidék Laguna Grande tavára.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "A Douro (Duero), az Ibériai-félsziget egyik legjelentősebb folyójának forrásvidéke.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "Egy jellegzetes hegycsúcsi kereszt a Sierra de Urbión hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "O zonă umedă protejată în Sierra de Urbión, cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Un punct de observație impresionant deasupra celebrului lac glaciar din Sierra de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra lacului Laguna Grande din regiunea montană spaniolă.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "Izvorul râului Duero, unul dintre cele mai importante cursuri de apă din Peninsula Iberică.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "O cruce de munte distinctivă situată în Sierra de Urbión.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "A protected wetland area in the Sierra de Urbión with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "An impressive viewpoint overlooking the famous glacial lake of the Sierra de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "A viewpoint offering wide views over Laguna Grande in the Spanish mountain region.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "The source of the Duero, one of the most important rivers on the Iberian Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "A prominent mountain wayside cross located in the Sierra de Urbión.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Urbión", hu: "Sierra de Urbión", ro: "Sierra de Urbión", en: "Sierra de Urbión"},
@@ -748,7 +2719,268 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-peñalara-relief-v2",
+    id: "spain-peñalara-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "Ein Naturschutzgebiet im Lozoya-Tal, das dem Schutz wildlebender Vögel gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "Ein weitläufiger Nationalpark in der Sierra de Guadarrama, bekannt für seine vielfältigen Ökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "Ein spezialisiertes Naturschutzgebiet zum Schutz von Amphibienarten in der Region Peñalara.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "Der höchste Berggipfel in der Sierra de Guadarrama mit einer Höhe von 2.428 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "Ein markanter Gipfel im Peñalara-Massiv, bekannt für seine anspruchsvollen Felsrücken.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Ein Berggipfel in der Sierra de Guadarrama, der bei Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            },
+            {
+                  "name": "Mirador del Cancho",
+                  "text": "Ein Bergaussichtspunkt mit Blick auf die zerklüftete Landschaft des Naturparks Peñalara.",
+                  "category": "natural",
+                  "coords": [
+                        -3.99234,
+                        40.837735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "Védett természeti terület a Lozoya-völgyben, amelyet a vadon élő madarak védelmére jelöltek ki.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "Hatalmas nemzeti park a Sierra de Guadarrama hegységben, amely változatos ökoszisztémáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "Speciális természetvédelmi terület, amelyet a Peñalara régió kétéltűfajainak védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "A Sierra de Guadarrama legmagasabb hegycsúcsa, amely 2428 méteres magasságot ér el.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "A Peñalara-masszívum egyik kiemelkedő csúcsa, amely kihívást jelentő sziklás gerinceiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Hegycsúcs a Sierra de Guadarramában, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            },
+            {
+                  "name": "Mirador del Cancho",
+                  "text": "Hegyi kilátóhely, ahonnan kilátás nyílik a Peñalara Natúrpark vadregényes tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -3.99234,
+                        40.837735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "O arie naturală protejată desemnată pentru conservarea păsărilor sălbatice din Valea Lozoya.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "Un parc național vast din munții Sierra de Guadarrama, cunoscut pentru ecosistemele sale diverse.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "O rezervație naturală specializată dedicată protejării speciilor de amfibieni din regiunea Peñalara.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "Cel mai înalt vârf muntos din Sierra de Guadarrama, atingând o altitudine de 2.428 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "Un vârf proeminent din masivul Peñalara, cunoscut pentru crestele sale stâncoase provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "Un vârf muntos din Sierra de Guadarrama, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            },
+            {
+                  "name": "Mirador del Cancho",
+                  "text": "Un punct de belvedere montan care oferă panorame asupra peisajului accidentat al Parcului Natural Peñalara.",
+                  "category": "natural",
+                  "coords": [
+                        -3.99234,
+                        40.837735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZEPA Alto Lozoya",
+                  "text": "A protected natural area designated for the conservation of wild birds in the Lozoya Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -3.913929,
+                        40.862752
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Sierra de Guadarrama",
+                  "text": "A vast national park in the Sierra de Guadarrama mountains, known for its diverse ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -3.92178,
+                        40.858439
+                  ]
+            },
+            {
+                  "name": "Reserva natural de anfibios",
+                  "text": "A specialized nature reserve dedicated to the protection of amphibian species in the Peñalara region.",
+                  "category": "natural",
+                  "coords": [
+                        -3.957693,
+                        40.826211
+                  ]
+            },
+            {
+                  "name": "Peñalara",
+                  "text": "The highest mountain peak in the Sierra de Guadarrama, reaching an elevation of 2,428 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.956067,
+                        40.850037
+                  ]
+            },
+            {
+                  "name": "Risco de los Claveles",
+                  "text": "A prominent peak in the Peñalara massif, known for its challenging rocky ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.952329,
+                        40.855121
+                  ]
+            },
+            {
+                  "name": "Risco de los Pájaros",
+                  "text": "A mountain peak in the Sierra de Guadarrama, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.950735,
+                        40.859842
+                  ]
+            },
+            {
+                  "name": "Mirador del Cancho",
+                  "text": "A mountain viewpoint providing vistas of the rugged landscape of the Peñalara Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        -3.99234,
+                        40.837735
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "peak",
     name: { de: "Peñalara", hu: "Peñalara", ro: "Peñalara", en: "Peñalara"},
@@ -795,7 +3027,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-montes-de-leon-relief-v2",
+    id: "spain-montes-de-leon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meruelas",
+                  "text": "Der Meruelas ist ein markanter Berggipfel in den Bergen von León in Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.495949,
+                        42.390421
+                  ]
+            },
+            {
+                  "name": "Cabeza de Yegua",
+                  "text": "Der Cabeza de la Yegua ist einer der höchsten Gipfel im Gebirge Montes de León.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.542925,
+                        42.402521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meruelas",
+                  "text": "A Meruelas egy jellegzetes hegycsúcs a spanyolországi León-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.495949,
+                        42.390421
+                  ]
+            },
+            {
+                  "name": "Cabeza de Yegua",
+                  "text": "A Cabeza de la Yegua a Montes de León hegység egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.542925,
+                        42.402521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meruelas",
+                  "text": "Meruelas este un vârf muntos distinctiv din Munții León din Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.495949,
+                        42.390421
+                  ]
+            },
+            {
+                  "name": "Cabeza de Yegua",
+                  "text": "Cabeza de la Yegua este unul dintre cele mai înalte vârfuri din munții Montes de León.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.542925,
+                        42.402521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meruelas",
+                  "text": "Meruelas is a distinctive mountain peak in the Mountains of León in Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.495949,
+                        42.390421
+                  ]
+            },
+            {
+                  "name": "Cabeza de Yegua",
+                  "text": "Cabeza de la Yegua is one of the highest peaks in the Montes de León mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.542925,
+                        42.402521
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Berge von León", hu: "Leóni-hegyek", ro: "Munții Leónului", en: "Mountains of León"},
@@ -842,7 +3155,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-aneto-relief-v2",
+    id: "spain-aneto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Maldito",
+                  "text": "Der Pico Maldito ist ein imposanter Gipfel im Maladeta-Massiv der Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.641336,
+                        42.639574
+                  ]
+            },
+            {
+                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
+                  "text": "Die Tuca de Tempestats ist ein hoher Berggipfel in der Nähe des Pico Aneto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.662767,
+                        42.626113
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cabo de Barrancs",
+                  "text": "Die Tuca d'el Cabo de Barrancs ist eine Erhebung in den zentralen Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.665924,
+                        42.624453
+                  ]
+            },
+            {
+                  "name": "Tuc de Molières",
+                  "text": "Der Tuc de Molières ist ein bekannter Gipfel an der Grenze zwischen Aragonien und Katalonien.",
+                  "category": "landmark",
+                  "coords": [
+                        0.698565,
+                        42.629471
+                  ]
+            },
+            {
+                  "name": "Cap deth Hòro de Moilères",
+                  "text": "Der Cap deth Hòro de Moilères ist ein markanter Gipfel in der Region des Pico Aneto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.700843,
+                        42.632379
+                  ]
+            },
+            {
+                  "name": "Tuca de Corones",
+                  "text": "Die Tuca de Corones ist ein bedeutender Gipfel im Maladeta-Massiv der Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.649372,
+                        42.63715
+                  ]
+            },
+            {
+                  "name": "Tuca de la Maladeta",
+                  "text": "Die Tuca de la Maladeta ist ein markanter Gipfel im gleichnamigen Gebirgsmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        0.640276,
+                        42.646432
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cap de la Vall",
+                  "text": "Die Tuca d'el Cap de la Vall, auch bekannt als Pic de Russell, ist ein hoher Gipfel in den Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.670552,
+                        42.61852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Maldito",
+                  "text": "A Pico Maldito egy impozáns hegycsúcs a Pireneusok Maladeta-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.641336,
+                        42.639574
+                  ]
+            },
+            {
+                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
+                  "text": "A Tuca de Tempestats egy magas hegycsúcs a Pico Aneto közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.662767,
+                        42.626113
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cabo de Barrancs",
+                  "text": "A Tuca d'el Cabo de Barrancs egy kiemelkedő hegycsúcs a Középső-Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.665924,
+                        42.624453
+                  ]
+            },
+            {
+                  "name": "Tuc de Molières",
+                  "text": "A Tuc de Molières egy ismert hegycsúcs Aragónia és Katalónia határán.",
+                  "category": "landmark",
+                  "coords": [
+                        0.698565,
+                        42.629471
+                  ]
+            },
+            {
+                  "name": "Cap deth Hòro de Moilères",
+                  "text": "A Cap deth Hòro de Moilères egy jellegzetes csúcs a Pico Aneto régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.700843,
+                        42.632379
+                  ]
+            },
+            {
+                  "name": "Tuca de Corones",
+                  "text": "A Tuca de Corones a Pireneusok Maladeta-masszívumának egyik jelentős csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        0.649372,
+                        42.63715
+                  ]
+            },
+            {
+                  "name": "Tuca de la Maladeta",
+                  "text": "A Tuca de la Maladeta egy jellegzetes csúcs az azonos nevű hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        0.640276,
+                        42.646432
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cap de la Vall",
+                  "text": "A Tuca d'el Cap de la Vall, más néven Pic de Russell, egy magas hegycsúcs a Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.670552,
+                        42.61852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Maldito",
+                  "text": "Pico Maldito este un vârf impunător din masivul Maladeta, situat în Munții Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.641336,
+                        42.639574
+                  ]
+            },
+            {
+                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
+                  "text": "Tuca de Tempestats este un vârf muntos înalt situat în apropiere de Pico Aneto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.662767,
+                        42.626113
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cabo de Barrancs",
+                  "text": "Tuca d'el Cabo de Barrancs este o culme muntoasă din Pirineii Centrali.",
+                  "category": "landmark",
+                  "coords": [
+                        0.665924,
+                        42.624453
+                  ]
+            },
+            {
+                  "name": "Tuc de Molières",
+                  "text": "Tuc de Molières este un vârf cunoscut situat la granița dintre Aragon și Catalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        0.698565,
+                        42.629471
+                  ]
+            },
+            {
+                  "name": "Cap deth Hòro de Moilères",
+                  "text": "Cap deth Hòro de Moilères este un vârf proeminent din regiunea Pico Aneto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.700843,
+                        42.632379
+                  ]
+            },
+            {
+                  "name": "Tuca de Corones",
+                  "text": "Tuca de Corones este un vârf important din masivul Maladeta al Pirineilor.",
+                  "category": "landmark",
+                  "coords": [
+                        0.649372,
+                        42.63715
+                  ]
+            },
+            {
+                  "name": "Tuca de la Maladeta",
+                  "text": "Tuca de la Maladeta este un vârf proeminent din masivul muntos cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        0.640276,
+                        42.646432
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cap de la Vall",
+                  "text": "Tuca d'el Cap de la Vall, cunoscut și sub numele de Pic de Russell, este un vârf înalt din Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.670552,
+                        42.61852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Maldito",
+                  "text": "Pico Maldito is an imposing peak in the Maladeta massif of the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.641336,
+                        42.639574
+                  ]
+            },
+            {
+                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
+                  "text": "Tuca de Tempestats is a high mountain peak located near Pico Aneto.",
+                  "category": "landmark",
+                  "coords": [
+                        0.662767,
+                        42.626113
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cabo de Barrancs",
+                  "text": "Tuca d'el Cabo de Barrancs is a mountain peak in the Central Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.665924,
+                        42.624453
+                  ]
+            },
+            {
+                  "name": "Tuc de Molières",
+                  "text": "Tuc de Molières is a well-known peak on the border between Aragon and Catalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        0.698565,
+                        42.629471
+                  ]
+            },
+            {
+                  "name": "Cap deth Hòro de Moilères",
+                  "text": "Cap deth Hòro de Moilères is a prominent peak in the Pico Aneto region.",
+                  "category": "landmark",
+                  "coords": [
+                        0.700843,
+                        42.632379
+                  ]
+            },
+            {
+                  "name": "Tuca de Corones",
+                  "text": "Tuca de Corones is a significant peak in the Maladeta massif of the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.649372,
+                        42.63715
+                  ]
+            },
+            {
+                  "name": "Tuca de la Maladeta",
+                  "text": "Tuca de la Maladeta is a prominent peak in the mountain massif of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        0.640276,
+                        42.646432
+                  ]
+            },
+            {
+                  "name": "Tuca d'el Cap de la Vall",
+                  "text": "Tuca d'el Cap de la Vall, also known as Pic de Russell, is a high peak in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.670552,
+                        42.61852
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "peak",
     name: { de: "Pico Aneto", hu: "Pico Aneto", ro: "Vârful Aneto", en: "Pico Aneto"},
@@ -889,7 +3499,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-torre-de-cerredo-relief-v2",
+    id: "spain-torre-de-cerredo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Ein beeindruckender Nationalpark in Nordspanien, bekannt für seine dramatischen Kalksteingipfel und seine vielfältige Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "Ein markanter Berggipfel in den Picos de Europa, der bei Wanderern und Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Ein ikonischer Kalksteingipfel in Nordspanien, berühmt für seine vertikalen Wände und bergsteigerischen Herausforderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Ein schroffer Berggipfel im Zentralmassiv der Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "Ein bemerkenswerter Gipfel in den Picos de Europa, der einen Panoramablick auf die umliegende zerklüftete Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Torre Cerredo",
+                  "text": "Der höchste Gipfel der Picos de Europa und des Kantabrischen Gebirges in Nordspanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.852868,
+                        43.19776
+                  ]
+            },
+            {
+                  "name": "Torre de Llambrión",
+                  "text": "Einer der höchsten und bedeutendsten Gipfel im Zentralmassiv der Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.85695,
+                        43.173266
+                  ]
+            },
+            {
+                  "name": "Pico de Santa Ana Oriental",
+                  "text": "Ein hoher Berggipfel in den Picos de Europa, der Teil des Doppelgipfels Santa Ana ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.819197,
+                        43.179166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Lenyűgöző nemzeti park Észak-Spanyolországban, amely drámai mészkőcsúcsairól és változatos élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "A Picos de Europa hegység egyik kiemelkedő csúcsa, amely népszerű a túrázók és hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Ikonikus mészkőcsúcs Észak-Spanyolországban, amely függőleges falairól és hegymászó kihívásairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Egy hegyes hegycsúcs a Picos de Europa központi masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "A Picos de Europa hegység egyik jelentős csúcsa, amely panorámás kilátást nyújt a környező zord tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Torre Cerredo",
+                  "text": "A Picos de Europa és a Kantábriai-hegység legmagasabb csúcsa Észak-Spanyolországban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.852868,
+                        43.19776
+                  ]
+            },
+            {
+                  "name": "Torre de Llambrión",
+                  "text": "A Picos de Europa központi masszívumának egyik legmagasabb és legjelentősebb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.85695,
+                        43.173266
+                  ]
+            },
+            {
+                  "name": "Pico de Santa Ana Oriental",
+                  "text": "Magas hegycsúcs a Picos de Europa hegységben, amely a Santa Ana kettős csúcs részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.819197,
+                        43.179166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional de Picos de Europa",
+                  "text": "Un parc național impresionant din nordul Spaniei, cunoscut pentru vârfurile sale calcaroase dramatice și fauna diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "Un vârf montan proeminent din masivul Picos de Europa, popular printre drumeți și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "Un vârf calcaros iconic din nordul Spaniei, renumit pentru pereții săi verticali și provocările de alpinism.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "Un vârf montan ascuțit situat în masivul central al Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "Un vârf remarcabil din munții Picos de Europa, oferind vederi panoramice asupra peisajului accidentat din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Torre Cerredo",
+                  "text": "Cel mai înalt vârf din Picos de Europa și Munții Cantabrici din nordul Spaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.852868,
+                        43.19776
+                  ]
+            },
+            {
+                  "name": "Torre de Llambrión",
+                  "text": "Unul dintre cele mai înalte și semnificative vârfuri din masivul central al Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.85695,
+                        43.173266
+                  ]
+            },
+            {
+                  "name": "Pico de Santa Ana Oriental",
+                  "text": "Un vârf montan înalt din masivul Picos de Europa, făcând parte din vârful dublu Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.819197,
+                        43.179166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picos de Europa National Park",
+                  "text": "A stunning national park in northern Spain known for its dramatic limestone peaks and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -4.881106,
+                        43.196134
+                  ]
+            },
+            {
+                  "name": "Pico Tesorero",
+                  "text": "A prominent mountain peak in the Picos de Europa range, popular among hikers and mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841022,
+                        43.180779
+                  ]
+            },
+            {
+                  "name": "Picu Urriellu",
+                  "text": "An iconic limestone peak in northern Spain, famous for its vertical walls and mountaineering challenges.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.817702,
+                        43.200834
+                  ]
+            },
+            {
+                  "name": "Pico Madejuno",
+                  "text": "A sharp mountain peak located within the central massif of the Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.841552,
+                        43.16856
+                  ]
+            },
+            {
+                  "name": "Torre Peñalba",
+                  "text": "A notable peak in the Picos de Europa mountains, offering panoramic views of the surrounding rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.866955,
+                        43.176599
+                  ]
+            },
+            {
+                  "name": "Torre Cerredo",
+                  "text": "The highest peak of the Picos de Europa and the Cantabrian Mountains in northern Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.852868,
+                        43.19776
+                  ]
+            },
+            {
+                  "name": "Torre de Llambrión",
+                  "text": "One of the highest and most significant peaks in the central massif of the Picos de Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.85695,
+                        43.173266
+                  ]
+            },
+            {
+                  "name": "Pico de Santa Ana Oriental",
+                  "text": "A high mountain peak in the Picos de Europa range, forming part of the Santa Ana double summit.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.819197,
+                        43.179166
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "peak",
     name: { de: "Torre de Cerredo", hu: "Torre de Cerredo", ro: "Torre de Cerredo", en: "Torre de Cerredo"},
@@ -936,7 +3843,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-pico-almanzor-relief-v2",
+    id: "spain-pico-almanzor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mogote del Cervunal",
+                  "text": "Ein markanter Gipfel in der Sierra de Gredos, auch als Cabeza Nevada bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293737,
+                        40.273009
+                  ]
+            },
+            {
+                  "name": "Morezón",
+                  "text": "Ein Berg im Zentralmassiv der Sierra de Gredos mit einer Höhe von über 2.300 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "La Galana",
+                  "text": "Der zweithöchste Gipfel der Sierra de Gredos in Zentralspanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.299467,
+                        40.256248
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Ein schroffer Berggipfel in der Region des Pico Almanzor in der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Pico Almanzor",
+                  "text": "Der höchste Berg im Zentralmassiv der Sierra de Gredos und Zentralspaniens.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.29748,
+                        40.246027
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Ein felsiger Gipfel in den Bergen Zentralspaniens nahe dem Pico Almanzor.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Peña de Chilla",
+                  "text": "Ein Berggipfel in der Sierra de Gredos, bekannt für seine weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.316375,
+                        40.22801
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Markante Felsformationen und Gipfel im Herzen der Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogote del Cervunal",
+                  "text": "Jellegzetes hegycsúcs a Sierra de Gredos hegységben, Cabeza Nevada néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293737,
+                        40.273009
+                  ]
+            },
+            {
+                  "name": "Morezón",
+                  "text": "Hegy a Sierra de Gredos központi masszívumában, több mint 2300 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "La Galana",
+                  "text": "A közép-spanyolországi Sierra de Gredos hegység második legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.299467,
+                        40.256248
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Sziklás hegycsúcs a Pico Almanzor régiójában, a Sierra de Gredos hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Pico Almanzor",
+                  "text": "A Sierra de Gredos központi masszívumának és Közép-Spanyolország legmagasabb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.29748,
+                        40.246027
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Sziklás hegycsúcs Közép-Spanyolország hegyeiben, a Pico Almanzor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Peña de Chilla",
+                  "text": "Hegycsúcs a Sierra de Gredos hegységben, amely tágas kilátásáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.316375,
+                        40.22801
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Jellegzetes sziklaformációk és csúcsok a Sierra de Gredos szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mogote del Cervunal",
+                  "text": "Un vârf proeminent din Sierra de Gredos, cunoscut și sub numele de Cabeza Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293737,
+                        40.273009
+                  ]
+            },
+            {
+                  "name": "Morezón",
+                  "text": "Un munte din masivul central al Sierra de Gredos, cu o înălțime de peste 2.300 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "La Galana",
+                  "text": "Al doilea cel mai înalt vârf din Sierra de Gredos, în centrul Spaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.299467,
+                        40.256248
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "Un vârf muntos abrupt din regiunea Pico Almanzor, în Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Pico Almanzor",
+                  "text": "Cel mai înalt munte din masivul central al Sierra de Gredos și din centrul Spaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.29748,
+                        40.246027
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "Un vârf stâncos din munții centrului Spaniei, situat lângă Pico Almanzor.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Peña de Chilla",
+                  "text": "Un vârf muntos din Sierra de Gredos, cunoscut pentru vederile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.316375,
+                        40.22801
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Formațiuni stâncoase și vârfuri proeminente în inima masivului Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogote del Cervunal",
+                  "text": "A prominent peak in the Sierra de Gredos, also known as Cabeza Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293737,
+                        40.273009
+                  ]
+            },
+            {
+                  "name": "Morezón",
+                  "text": "A mountain in the central massif of the Sierra de Gredos, with an altitude of over 2,300 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268504,
+                        40.249804
+                  ]
+            },
+            {
+                  "name": "La Galana",
+                  "text": "The second highest peak in the Sierra de Gredos in central Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.299467,
+                        40.256248
+                  ]
+            },
+            {
+                  "name": "Ameal de Pablo",
+                  "text": "A rugged mountain peak in the region of Pico Almanzor in the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.294976,
+                        40.253369
+                  ]
+            },
+            {
+                  "name": "Pico Almanzor",
+                  "text": "The highest mountain in the central massif of the Sierra de Gredos and central Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.29748,
+                        40.246027
+                  ]
+            },
+            {
+                  "name": "Risco Moreno",
+                  "text": "A rocky peak in the mountains of central Spain near Pico Almanzor.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.293697,
+                        40.254156
+                  ]
+            },
+            {
+                  "name": "Peña de Chilla",
+                  "text": "A mountain peak in the Sierra de Gredos, noted for its expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.316375,
+                        40.22801
+                  ]
+            },
+            {
+                  "name": "Los Tres Hermanitos",
+                  "text": "Distinctive rock formations and peaks in the heart of the Sierra de Gredos.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.279834,
+                        40.243699
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "peak",
     name: { de: "Pico Almanzor", hu: "Pico Almanzor", ro: "Pico Almanzor", en: "Pico Almanzor"},
@@ -983,7 +4187,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sierra-magina-relief-v2",
+    id: "spain-sierra-magina-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mágina",
+                  "text": "Ein hoher Berggipfel im Mágina-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.464095,
+                        37.725998
+                  ]
+            },
+            {
+                  "name": "Peña de Jaén",
+                  "text": "Ein markanter Gipfel in der Sierra Mágina.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.475523,
+                        37.724444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mágina",
+                  "text": "Magas hegycsúcs a Mágina-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.464095,
+                        37.725998
+                  ]
+            },
+            {
+                  "name": "Peña de Jaén",
+                  "text": "Jellegzetes csúcs a Sierra Mágina hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.475523,
+                        37.724444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mágina",
+                  "text": "Un vârf montan înalt în masivul Mágina.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.464095,
+                        37.725998
+                  ]
+            },
+            {
+                  "name": "Peña de Jaén",
+                  "text": "Un vârf proeminent în Sierra Mágina.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.475523,
+                        37.724444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mágina",
+                  "text": "A high mountain peak in the Mágina massif.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.464095,
+                        37.725998
+                  ]
+            },
+            {
+                  "name": "Peña de Jaén",
+                  "text": "A prominent peak in the Sierra Mágina range.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.475523,
+                        37.724444
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra Mágina", hu: "Sierra Mágina", ro: "Sierra Mágina", en: "Sierra Mágina"},
@@ -1078,7 +4363,304 @@ export const spainReliefV2: POI[] = [
   }
 ,
   {
-    id: "spain-macizo-galaico-relief-v2",
+    id: "spain-macizo-galaico-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torre de Vilar de Eiriz",
+                  "text": "Eine archäologische Ausgrabungsstätte im Galicischen Massiv mit Überresten eines historischen Turms.",
+                  "category": "historical",
+                  "coords": [
+                        -7.831548,
+                        42.603686
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Pereira",
+                  "text": "Die Überreste einer Verteidigungsanlage oder Burg im Galicischen Massiv.",
+                  "category": "castle",
+                  "coords": [
+                        -7.794607,
+                        42.574129
+                  ]
+            },
+            {
+                  "name": "Sepultura Antropomorfa Dobre de Fornas",
+                  "text": "Eine archäologische Stätte mit einem in den Fels gehauenen anthropomorphen Grab in der Region Galicien.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785086,
+                        42.628366
+                  ]
+            },
+            {
+                  "name": "Castro de Xoanín",
+                  "text": "Eine antike befestigte Siedlung oder Höhensiedlung, die typisch für die galicische Kultur ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.844047,
+                        42.609699
+                  ]
+            },
+            {
+                  "name": "Castro de San Amaro",
+                  "text": "Eine archäologische Ausgrabungsstätte einer vorrömischen befestigten Siedlung im Galicischen Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        -7.809965,
+                        42.61297
+                  ]
+            },
+            {
+                  "name": "Castro de Santa Uxía",
+                  "text": "Die Ruinen einer antiken Höhensiedlung, die Einblicke in die frühe iberische Besiedlung geben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.826625,
+                        42.581102
+                  ]
+            },
+            {
+                  "name": "Castro de Centulle",
+                  "text": "Eine historische archäologische Stätte einer befestigten Siedlung in den galicischen Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785651,
+                        42.612871
+                  ]
+            },
+            {
+                  "name": "Concello de Chantada",
+                  "text": "Das städtische Verwaltungsgebäude der Stadt Chantada in Galicien.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.768856,
+                        42.607466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torre de Vilar de Eiriz",
+                  "text": "Régészeti lelőhely a Galíciai-masszívumban, egy történelmi torony maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.831548,
+                        42.603686
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Pereira",
+                  "text": "Vár vagy erődítmény maradványai a Galíciai-masszívum területén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.794607,
+                        42.574129
+                  ]
+            },
+            {
+                  "name": "Sepultura Antropomorfa Dobre de Fornas",
+                  "text": "Régészeti lelőhely egy sziklába vájt antropomorf sírral a galíciai régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785086,
+                        42.628366
+                  ]
+            },
+            {
+                  "name": "Castro de Xoanín",
+                  "text": "Ókori erődített település vagy várhely, amely a galíciai kultúrára jellemző.",
+                  "category": "historical",
+                  "coords": [
+                        -7.844047,
+                        42.609699
+                  ]
+            },
+            {
+                  "name": "Castro de San Amaro",
+                  "text": "Római kor előtti erődített település régészeti lelőhelye a Galíciai-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.809965,
+                        42.61297
+                  ]
+            },
+            {
+                  "name": "Castro de Santa Uxía",
+                  "text": "Egy ősi várhely romjai, amelyek betekintést nyújtanak a korai ibériai életmódba.",
+                  "category": "historical",
+                  "coords": [
+                        -7.826625,
+                        42.581102
+                  ]
+            },
+            {
+                  "name": "Castro de Centulle",
+                  "text": "Erődített település történelmi régészeti lelőhelye a galíciai hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785651,
+                        42.612871
+                  ]
+            },
+            {
+                  "name": "Concello de Chantada",
+                  "text": "Chantada városának önkormányzati épülete Galíciában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.768856,
+                        42.607466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torre de Vilar de Eiriz",
+                  "text": "Un sit arheologic în Masivul Galician, ce cuprinde vestigiile unui turn istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -7.831548,
+                        42.603686
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Pereira",
+                  "text": "Vestigiile unei fortificații defensive sau ale unui castel situat în Masivul Galician.",
+                  "category": "castle",
+                  "coords": [
+                        -7.794607,
+                        42.574129
+                  ]
+            },
+            {
+                  "name": "Sepultura Antropomorfa Dobre de Fornas",
+                  "text": "Un sit arheologic cuprinzând un mormânt antropomorf săpat în stâncă în regiunea Galiciei.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785086,
+                        42.628366
+                  ]
+            },
+            {
+                  "name": "Castro de Xoanín",
+                  "text": "O așezare fortificată antică sau cetate de deal caracteristică culturii galiciene.",
+                  "category": "historical",
+                  "coords": [
+                        -7.844047,
+                        42.609699
+                  ]
+            },
+            {
+                  "name": "Castro de San Amaro",
+                  "text": "Un sit arheologic al unei așezări fortificate preromane în Masivul Galician.",
+                  "category": "historical",
+                  "coords": [
+                        -7.809965,
+                        42.61297
+                  ]
+            },
+            {
+                  "name": "Castro de Santa Uxía",
+                  "text": "Ruinele unei vechi cetăți de deal ce oferă informații despre locuirea timpurie în Peninsula Iberică.",
+                  "category": "historical",
+                  "coords": [
+                        -7.826625,
+                        42.581102
+                  ]
+            },
+            {
+                  "name": "Castro de Centulle",
+                  "text": "Un sit arheologic istoric al unei așezări fortificate situate în munții Galiciei.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785651,
+                        42.612871
+                  ]
+            },
+            {
+                  "name": "Concello de Chantada",
+                  "text": "Clădirea administrativă municipală care deservește orașul Chantada din Galicia.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.768856,
+                        42.607466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torre de Vilar de Eiriz",
+                  "text": "An archaeological site in the Galician Massif featuring remains of a historic tower.",
+                  "category": "historical",
+                  "coords": [
+                        -7.831548,
+                        42.603686
+                  ]
+            },
+            {
+                  "name": "Fortaleza de Pereira",
+                  "text": "The remains of a defensive fortification or castle located in the Galician Massif.",
+                  "category": "castle",
+                  "coords": [
+                        -7.794607,
+                        42.574129
+                  ]
+            },
+            {
+                  "name": "Sepultura Antropomorfa Dobre de Fornas",
+                  "text": "An archaeological site featuring a rock-cut anthropomorphic tomb in the Galician region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785086,
+                        42.628366
+                  ]
+            },
+            {
+                  "name": "Castro de Xoanín",
+                  "text": "An ancient fortified settlement or hillfort characteristic of the Galician culture.",
+                  "category": "historical",
+                  "coords": [
+                        -7.844047,
+                        42.609699
+                  ]
+            },
+            {
+                  "name": "Castro de San Amaro",
+                  "text": "An archaeological site of a pre-Roman fortified settlement in the Galician Massif.",
+                  "category": "historical",
+                  "coords": [
+                        -7.809965,
+                        42.61297
+                  ]
+            },
+            {
+                  "name": "Castro de Santa Uxía",
+                  "text": "The ruins of an ancient hillfort providing insight into early Iberian habitation.",
+                  "category": "historical",
+                  "coords": [
+                        -7.826625,
+                        42.581102
+                  ]
+            },
+            {
+                  "name": "Castro de Centulle",
+                  "text": "A historic archaeological site of a fortified settlement located in the Galician mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -7.785651,
+                        42.612871
+                  ]
+            },
+            {
+                  "name": "Concello de Chantada",
+                  "text": "The municipal administrative building serving the town of Chantada in Galicia.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.768856,
+                        42.607466
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Galicisches Massiv", hu: "Galiciai-masszívum", ro: "Masivul Galician", en: "Galician Massif"},
@@ -1123,7 +4705,88 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-serrania-de-cuenca-relief-v2",
+    id: "spain-serrania-de-cuenca-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador del Tío Cogote",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Berge der Serranía de Cuenca.",
+                  "category": "natural",
+                  "coords": [
+                        -1.999549,
+                        40.264743
+                  ]
+            },
+            {
+                  "name": "Los Callejones de las Majadas",
+                  "text": "Ein Naturgebiet mit einzigartigen Kalksteinformationen, die an Straßen und Gebäude erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.00243,
+                        40.286536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador del Tío Cogote",
+                  "text": "Kilátóhely, amely széles kilátást nyújt a Serranía de Cuenca hegyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -1.999549,
+                        40.264743
+                  ]
+            },
+            {
+                  "name": "Los Callejones de las Majadas",
+                  "text": "Természeti terület egyedi mészkőformációkkal, amelyek utcákra és épületekre emlékeztetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.00243,
+                        40.286536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador del Tío Cogote",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra munților Serranía de Cuenca.",
+                  "category": "natural",
+                  "coords": [
+                        -1.999549,
+                        40.264743
+                  ]
+            },
+            {
+                  "name": "Los Callejones de las Majadas",
+                  "text": "O zonă naturală cu formațiuni calcaroase unice care seamănă cu străzi și clădiri.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.00243,
+                        40.286536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador del Tío Cogote",
+                  "text": "A scenic viewpoint offering wide vistas of the Serranía de Cuenca mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -1.999549,
+                        40.264743
+                  ]
+            },
+            {
+                  "name": "Los Callejones de las Majadas",
+                  "text": "A natural area with unique limestone rock formations resembling streets and buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.00243,
+                        40.286536
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Serranía de Cuenca", hu: "Serranía de Cuenca", ro: "Serranía de Cuenca", en: "Serranía de Cuenca"},
@@ -1169,7 +4832,268 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-cordillera-costero-catalana-relief-v2",
+    id: "spain-cordillera-costero-catalana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castell de Miralles",
+                  "text": "Ruinen einer Burg aus dem 10. Jahrhundert, die das Tal von Miralles überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        1.518491,
+                        41.518686
+                  ]
+            },
+            {
+                  "name": "Castell de Queralt",
+                  "text": "Eine Burgruine in den katalanischen Küstengebirgen.",
+                  "category": "castle",
+                  "coords": [
+                        1.458376,
+                        41.513631
+                  ]
+            },
+            {
+                  "name": "Torre Albarrana",
+                  "text": "Ein befestigter Turm in den katalanischen Küstengebirgen.",
+                  "category": "castle",
+                  "coords": [
+                        1.519559,
+                        41.518124
+                  ]
+            },
+            {
+                  "name": "Roca de Castellà",
+                  "text": "Ein markanter Gipfel in den katalanischen Küstengebirgen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.466509,
+                        41.517118
+                  ]
+            },
+            {
+                  "name": "Turó d'Esperanius",
+                  "text": "Ein Aussichtspunkt auf einem Berggipfel in den katalanischen Küstengebirgen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.482522,
+                        41.505975
+                  ]
+            },
+            {
+                  "name": "el Grony",
+                  "text": "Ein bedeutender Berggipfel in den katalanischen Küstengebirgen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.46744,
+                        41.484519
+                  ]
+            },
+            {
+                  "name": "l'Agulla Grossa",
+                  "text": "Ein felsiger Gipfel in den katalanischen Küstengebirgen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496358,
+                        41.517159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castell de Miralles",
+                  "text": "Egy 10. századi vár romjai, amely a Miralles-völgyre néz.",
+                  "category": "castle",
+                  "coords": [
+                        1.518491,
+                        41.518686
+                  ]
+            },
+            {
+                  "name": "Castell de Queralt",
+                  "text": "Várrom a Katalán-partvidéki hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        1.458376,
+                        41.513631
+                  ]
+            },
+            {
+                  "name": "Torre Albarrana",
+                  "text": "Erődített torony a Katalán-partvidéki hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        1.519559,
+                        41.518124
+                  ]
+            },
+            {
+                  "name": "Roca de Castellà",
+                  "text": "Hegycsúcs a Katalán-partvidéki hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.466509,
+                        41.517118
+                  ]
+            },
+            {
+                  "name": "Turó d'Esperanius",
+                  "text": "Hegycsúcs a Katalán-partvidéki hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.482522,
+                        41.505975
+                  ]
+            },
+            {
+                  "name": "el Grony",
+                  "text": "Hegycsúcs a Katalán-partvidéki hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.46744,
+                        41.484519
+                  ]
+            },
+            {
+                  "name": "l'Agulla Grossa",
+                  "text": "Sziklás hegycsúcs a Katalán-partvidéki hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496358,
+                        41.517159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castell de Miralles",
+                  "text": "Ruinele unui castel din secolul al X-lea care domină valea Miralles.",
+                  "category": "castle",
+                  "coords": [
+                        1.518491,
+                        41.518686
+                  ]
+            },
+            {
+                  "name": "Castell de Queralt",
+                  "text": "Ruinele unui castel situate în lanțul muntos de pe coasta catalană.",
+                  "category": "castle",
+                  "coords": [
+                        1.458376,
+                        41.513631
+                  ]
+            },
+            {
+                  "name": "Torre Albarrana",
+                  "text": "Un turn fortificat situat în lanțul muntos de pe coasta catalană.",
+                  "category": "castle",
+                  "coords": [
+                        1.519559,
+                        41.518124
+                  ]
+            },
+            {
+                  "name": "Roca de Castellà",
+                  "text": "Un vârf montan situat în lanțul muntos de pe coasta catalană.",
+                  "category": "landmark",
+                  "coords": [
+                        1.466509,
+                        41.517118
+                  ]
+            },
+            {
+                  "name": "Turó d'Esperanius",
+                  "text": "Un vârf montan situat în lanțul muntos de pe coasta catalană.",
+                  "category": "landmark",
+                  "coords": [
+                        1.482522,
+                        41.505975
+                  ]
+            },
+            {
+                  "name": "el Grony",
+                  "text": "Un vârf montan în lanțul muntos de pe coasta catalană.",
+                  "category": "landmark",
+                  "coords": [
+                        1.46744,
+                        41.484519
+                  ]
+            },
+            {
+                  "name": "l'Agulla Grossa",
+                  "text": "Un vârf stâncos situat în lanțul muntos de pe coasta catalană.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496358,
+                        41.517159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castell de Miralles",
+                  "text": "Ruins of a 10th-century castle overlooking the Miralles valley.",
+                  "category": "castle",
+                  "coords": [
+                        1.518491,
+                        41.518686
+                  ]
+            },
+            {
+                  "name": "Castell de Queralt",
+                  "text": "Historic castle ruins located in the Catalan Coastal Range.",
+                  "category": "castle",
+                  "coords": [
+                        1.458376,
+                        41.513631
+                  ]
+            },
+            {
+                  "name": "Torre Albarrana",
+                  "text": "A fortified tower located in the Catalan Coastal Range.",
+                  "category": "castle",
+                  "coords": [
+                        1.519559,
+                        41.518124
+                  ]
+            },
+            {
+                  "name": "Roca de Castellà",
+                  "text": "A mountain peak in the Catalan Coastal Range.",
+                  "category": "landmark",
+                  "coords": [
+                        1.466509,
+                        41.517118
+                  ]
+            },
+            {
+                  "name": "Turó d'Esperanius",
+                  "text": "A peak offering scenic views in the Catalan Coastal Range.",
+                  "category": "landmark",
+                  "coords": [
+                        1.482522,
+                        41.505975
+                  ]
+            },
+            {
+                  "name": "el Grony",
+                  "text": "A prominent peak in the Catalan Coastal Range.",
+                  "category": "landmark",
+                  "coords": [
+                        1.46744,
+                        41.484519
+                  ]
+            },
+            {
+                  "name": "l'Agulla Grossa",
+                  "text": "A rocky peak in the Catalan Coastal Range.",
+                  "category": "landmark",
+                  "coords": [
+                        1.496358,
+                        41.517159
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Katalanisches Küstengebirge", hu: "Katalán-partvidéki-hegység", ro: "Cordillera Costero-Catalană", en: "Catalan Coastal Range"},
@@ -1214,7 +5138,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-montes-vascos-relief-v2",
+    id: "spain-montes-vascos-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laboratorium Museoa",
+                  "text": "Ein Wissenschafts- und Geschichtsmuseum im Errekalde-Palast in Bergara.",
+                  "category": "museum",
+                  "coords": [
+                        -2.411312,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Gabiria dorrea",
+                  "text": "Ein historisches Turmhaus in der Stadt Bergara im Baskenland.",
+                  "category": "castle",
+                  "coords": [
+                        -2.415206,
+                        43.110973
+                  ]
+            },
+            {
+                  "name": "Ozaeta jauregia",
+                  "text": "Ein Palast und historischer Wohnsitz in Bergara, Baskenland.",
+                  "category": "castle",
+                  "coords": [
+                        -2.418767,
+                        43.10711
+                  ]
+            },
+            {
+                  "name": "Errotalde Jauregia",
+                  "text": "Ein historischer Palast in der Region der Baskischen Berge.",
+                  "category": "castle",
+                  "coords": [
+                        -2.410891,
+                        43.119294
+                  ]
+            },
+            {
+                  "name": "Torresoroa",
+                  "text": "Ein Theater und Kulturzentrum in den Baskischen Bergen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.382175,
+                        43.09785
+                  ]
+            },
+            {
+                  "name": "Trekutz tumulua",
+                  "text": "Ein alter Grabhügel in den Baskischen Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        -2.354568,
+                        43.107225
+                  ]
+            },
+            {
+                  "name": "Arrizuriaga jauregia",
+                  "text": "Ein historischer Palast und Anwesen in den Baskischen Bergen.",
+                  "category": "castle",
+                  "coords": [
+                        -2.414754,
+                        43.114426
+                  ]
+            },
+            {
+                  "name": "Ur parkea",
+                  "text": "Ein Wasserpark und Freizeitzentrum in der Region der Baskischen Berge.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.380767,
+                        43.096811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laboratorium Museoa",
+                  "text": "Tudományos és történelmi múzeum a bergarai Errekalde-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        -2.411312,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Gabiria dorrea",
+                  "text": "Történelmi toronyház a baszkföldi Bergara városában.",
+                  "category": "castle",
+                  "coords": [
+                        -2.415206,
+                        43.110973
+                  ]
+            },
+            {
+                  "name": "Ozaeta jauregia",
+                  "text": "Palota és történelmi rezidencia a baszkföldi Bergarában.",
+                  "category": "castle",
+                  "coords": [
+                        -2.418767,
+                        43.10711
+                  ]
+            },
+            {
+                  "name": "Errotalde Jauregia",
+                  "text": "Történelmi palota a Baszk-hegység régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -2.410891,
+                        43.119294
+                  ]
+            },
+            {
+                  "name": "Torresoroa",
+                  "text": "Színház és kulturális helyszín a Baszk-hegységben.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.382175,
+                        43.09785
+                  ]
+            },
+            {
+                  "name": "Trekutz tumulua",
+                  "text": "Ősi sírhalom a Baszk-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -2.354568,
+                        43.107225
+                  ]
+            },
+            {
+                  "name": "Arrizuriaga jauregia",
+                  "text": "Történelmi palota és birtok a Baszk-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        -2.414754,
+                        43.114426
+                  ]
+            },
+            {
+                  "name": "Ur parkea",
+                  "text": "Vízipark és szabadidős központ a Baszk-hegység területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.380767,
+                        43.096811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laboratorium Museoa",
+                  "text": "Un muzeu de știință și istorie găzduit în Palatul Errekalde din Bergara.",
+                  "category": "museum",
+                  "coords": [
+                        -2.411312,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Gabiria dorrea",
+                  "text": "O casă-turn istorică situată în orașul Bergara din Țara Bascilor.",
+                  "category": "castle",
+                  "coords": [
+                        -2.415206,
+                        43.110973
+                  ]
+            },
+            {
+                  "name": "Ozaeta jauregia",
+                  "text": "Un palat și o reședință istorică situată în Bergara, Țara Bascilor.",
+                  "category": "castle",
+                  "coords": [
+                        -2.418767,
+                        43.10711
+                  ]
+            },
+            {
+                  "name": "Errotalde Jauregia",
+                  "text": "Un palat istoric situat în regiunea Munților Basci.",
+                  "category": "castle",
+                  "coords": [
+                        -2.410891,
+                        43.119294
+                  ]
+            },
+            {
+                  "name": "Torresoroa",
+                  "text": "Un teatru și un loc cultural situat în Munții Basci.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.382175,
+                        43.09785
+                  ]
+            },
+            {
+                  "name": "Trekutz tumulua",
+                  "text": "Un vechi tumul situat în Munții Basci.",
+                  "category": "historical",
+                  "coords": [
+                        -2.354568,
+                        43.107225
+                  ]
+            },
+            {
+                  "name": "Arrizuriaga jauregia",
+                  "text": "Un palat și o moșie istorică situate în Munții Basci.",
+                  "category": "castle",
+                  "coords": [
+                        -2.414754,
+                        43.114426
+                  ]
+            },
+            {
+                  "name": "Ur parkea",
+                  "text": "Un parc acvatic și o bază de recreere în zona Munților Basci.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.380767,
+                        43.096811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laboratorium Museoa",
+                  "text": "A science and history museum housed in the Errekalde Palace in Bergara.",
+                  "category": "museum",
+                  "coords": [
+                        -2.411312,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Gabiria dorrea",
+                  "text": "A historic tower house located in the town of Bergara in the Basque Country.",
+                  "category": "castle",
+                  "coords": [
+                        -2.415206,
+                        43.110973
+                  ]
+            },
+            {
+                  "name": "Ozaeta jauregia",
+                  "text": "A palace and historic residence located in Bergara, Basque Country.",
+                  "category": "castle",
+                  "coords": [
+                        -2.418767,
+                        43.10711
+                  ]
+            },
+            {
+                  "name": "Errotalde Jauregia",
+                  "text": "A historic palace located in the Basque Mountains region.",
+                  "category": "castle",
+                  "coords": [
+                        -2.410891,
+                        43.119294
+                  ]
+            },
+            {
+                  "name": "Torresoroa",
+                  "text": "A theater and cultural venue located in the Basque Mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.382175,
+                        43.09785
+                  ]
+            },
+            {
+                  "name": "Trekutz tumulua",
+                  "text": "An ancient burial mound located in the Basque Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -2.354568,
+                        43.107225
+                  ]
+            },
+            {
+                  "name": "Arrizuriaga jauregia",
+                  "text": "A historic palace and estate located in the Basque Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        -2.414754,
+                        43.114426
+                  ]
+            },
+            {
+                  "name": "Ur parkea",
+                  "text": "A water park and recreational facility in the Basque Mountains area.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.380767,
+                        43.096811
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Baskisches Gebirge", hu: "Baszk-hegység", ro: "Munții Basci", en: "Basque Mountains"},
@@ -1260,7 +5481,268 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-sierra-de-albarracin-relief-v2",
+    id: "spain-sierra-de-albarracin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camino a cañón de los Arcos",
+                  "text": "Ein Wanderweg in der Sierra de Albarracín, der durch eine landschaftlich reizvolle Felsformation führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.578091,
+                        40.371744
+                  ]
+            },
+            {
+                  "name": "Molino de Enmedio",
+                  "text": "Eine historische Mühle in der Sierra de Albarracín, die Zeugnis von der traditionellen Wassernutzung ablegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.599226,
+                        40.367766
+                  ]
+            },
+            {
+                  "name": "Mirador del Batán",
+                  "text": "Ein Aussichtspunkt in der Sierra de Albarracín mit weitem Blick über die bergige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -1.568539,
+                        40.426312
+                  ]
+            },
+            {
+                  "name": "El Huquillo",
+                  "text": "Ein markanter Naturort in der Sierra de Albarracín, bekannt für seine charakteristische Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.576522,
+                        40.374617
+                  ]
+            },
+            {
+                  "name": "Puente de Toba",
+                  "text": "Eine interessante Brückenkonstruktion oder natürliche Brücke in der Sierra de Albarracín.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.593713,
+                        40.370286
+                  ]
+            },
+            {
+                  "name": "Peña El Moricacho",
+                  "text": "Eine auffällige Felsformation in der Sierra de Albarracín, ein Ziel für Naturbeobachtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58525,
+                        40.371305
+                  ]
+            },
+            {
+                  "name": "Mirador natural de Tramacastilla",
+                  "text": "Ein natürlicher Aussichtspunkt bei Tramacastilla, der einen weiten Blick über das Tal ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574789,
+                        40.428154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camino a cañón de los Arcos",
+                  "text": "Túraútvonal a Sierra de Albarracín hegységben, amely egy festői sziklaformáción keresztül vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.578091,
+                        40.371744
+                  ]
+            },
+            {
+                  "name": "Molino de Enmedio",
+                  "text": "Történelmi malom a Sierra de Albarracín hegységben, amely a hagyományos vízhasználat emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.599226,
+                        40.367766
+                  ]
+            },
+            {
+                  "name": "Mirador del Batán",
+                  "text": "Kilátópont a Sierra de Albarracín hegységben, ahonnan tágas kilátás nyílik a hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.568539,
+                        40.426312
+                  ]
+            },
+            {
+                  "name": "El Huquillo",
+                  "text": "Jellegzetes természeti helyszín a Sierra de Albarracín hegységben, amely különleges környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.576522,
+                        40.374617
+                  ]
+            },
+            {
+                  "name": "Puente de Toba",
+                  "text": "Érdekes híd vagy természetes képződmény a Sierra de Albarracín hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.593713,
+                        40.370286
+                  ]
+            },
+            {
+                  "name": "Peña El Moricacho",
+                  "text": "Feltűnő sziklaformáció a Sierra de Albarracín hegységben, a természetjárók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58525,
+                        40.371305
+                  ]
+            },
+            {
+                  "name": "Mirador natural de Tramacastilla",
+                  "text": "Természetes kilátópont Tramacastilla közelében, amely tágas kilátást nyújt a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574789,
+                        40.428154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camino a cañón de los Arcos",
+                  "text": "Un traseu de drumeție în Sierra de Albarracín, care trece printr-o formațiune stâncoasă pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.578091,
+                        40.371744
+                  ]
+            },
+            {
+                  "name": "Molino de Enmedio",
+                  "text": "O moară istorică în Sierra de Albarracín, care depune mărturie despre utilizarea tradițională a apei.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.599226,
+                        40.367766
+                  ]
+            },
+            {
+                  "name": "Mirador del Batán",
+                  "text": "Un punct de belvedere în Sierra de Albarracín, oferind o panoramă asupra peisajului montan.",
+                  "category": "natural",
+                  "coords": [
+                        -1.568539,
+                        40.426312
+                  ]
+            },
+            {
+                  "name": "El Huquillo",
+                  "text": "Un loc natural remarcabil în Sierra de Albarracín, cunoscut pentru cadrul său caracteristic.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.576522,
+                        40.374617
+                  ]
+            },
+            {
+                  "name": "Puente de Toba",
+                  "text": "O construcție de pod interesantă sau un pod natural în Sierra de Albarracín.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.593713,
+                        40.370286
+                  ]
+            },
+            {
+                  "name": "Peña El Moricacho",
+                  "text": "O formațiune stâncoasă proeminentă în Sierra de Albarracín, o destinație pentru observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58525,
+                        40.371305
+                  ]
+            },
+            {
+                  "name": "Mirador natural de Tramacastilla",
+                  "text": "Un punct de belvedere natural lângă Tramacastilla, care oferă o vedere panoramică asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574789,
+                        40.428154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camino a cañón de los Arcos",
+                  "text": "A hiking trail in the Sierra de Albarracín leading through a scenic rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.578091,
+                        40.371744
+                  ]
+            },
+            {
+                  "name": "Molino de Enmedio",
+                  "text": "A historical mill in the Sierra de Albarracín, bearing witness to traditional water usage.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.599226,
+                        40.367766
+                  ]
+            },
+            {
+                  "name": "Mirador del Batán",
+                  "text": "A viewpoint in the Sierra de Albarracín with wide views over the mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -1.568539,
+                        40.426312
+                  ]
+            },
+            {
+                  "name": "El Huquillo",
+                  "text": "A prominent natural site in the Sierra de Albarracín, known for its characteristic surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.576522,
+                        40.374617
+                  ]
+            },
+            {
+                  "name": "Puente de Toba",
+                  "text": "An interesting bridge structure or natural bridge in the Sierra de Albarracín.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.593713,
+                        40.370286
+                  ]
+            },
+            {
+                  "name": "Peña El Moricacho",
+                  "text": "A striking rock formation in the Sierra de Albarracín, a destination for nature observation.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.58525,
+                        40.371305
+                  ]
+            },
+            {
+                  "name": "Mirador natural de Tramacastilla",
+                  "text": "A natural viewpoint near Tramacastilla providing wide views over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -1.574789,
+                        40.428154
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Albarracín", hu: "Sierra de Albarracín", ro: "Sierra de Albarracín", en: "Sierra de Albarracín"},
@@ -1352,7 +5834,304 @@ export const spainReliefV2: POI[] = [
     }
   },
   {
-    id: "spain-pre-pyrenees-relief-v2",
+    id: "spain-pre-pyrenees-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cabana del Moro",
+                  "text": "Ein prähistorischer Megalith-Dolmen in den katalanischen Vorpyrenäen.",
+                  "category": "historical",
+                  "coords": [
+                        0.96111,
+                        42.29667
+                  ]
+            },
+            {
+                  "name": "Sepulcre megalític de la Cabana de Perauba",
+                  "text": "Eine archäologische Grabstätte aus der Megalithkultur in den Vorpyrenäen.",
+                  "category": "historical",
+                  "coords": [
+                        0.984912,
+                        42.315432
+                  ]
+            },
+            {
+                  "name": "lo Tossalet",
+                  "text": "Ein Berggipfel in den Vorpyrenäen mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        0.974422,
+                        42.29822
+                  ]
+            },
+            {
+                  "name": "el Tossal",
+                  "text": "Ein Gipfel in der Region Baix Pallars in den Vorpyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.020916,
+                        42.317538
+                  ]
+            },
+            {
+                  "name": "Muntanyeta de Comosí",
+                  "text": "Eine Erhebung in den Vorpyrenäen, die charakteristisch für das lokale Relief ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.009399,
+                        42.286126
+                  ]
+            },
+            {
+                  "name": "Tossal Gros",
+                  "text": "Ein markanter Gipfel nahe La Pobla de Segur in den Vorpyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.99907,
+                        42.272764
+                  ]
+            },
+            {
+                  "name": "Tossal de l'Àliga o Pit de la Geganta",
+                  "text": "Ein Berg in den Vorpyrenäen, der auch als Pit de la Geganta bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.018836,
+                        42.298931
+                  ]
+            },
+            {
+                  "name": "Tossal de la Vinya",
+                  "text": "Ein Berggipfel in der Gegend von Gramuntill in den Vorpyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.010303,
+                        42.268253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cabana del Moro",
+                  "text": "Prehisztorikus megalitikus dolmen a katalán Elő-Pireneusokban.",
+                  "category": "historical",
+                  "coords": [
+                        0.96111,
+                        42.29667
+                  ]
+            },
+            {
+                  "name": "Sepulcre megalític de la Cabana de Perauba",
+                  "text": "Megalitikus kultúrából származó régészeti sírhely az Elő-Pireneusokban.",
+                  "category": "historical",
+                  "coords": [
+                        0.984912,
+                        42.315432
+                  ]
+            },
+            {
+                  "name": "lo Tossalet",
+                  "text": "Hegycsúcs az Elő-Pireneusokban, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        0.974422,
+                        42.29822
+                  ]
+            },
+            {
+                  "name": "el Tossal",
+                  "text": "Hegycsúcs Baix Pallars régióban, az Elő-Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.020916,
+                        42.317538
+                  ]
+            },
+            {
+                  "name": "Muntanyeta de Comosí",
+                  "text": "Az Elő-Pireneusok egyik magaslata, amely jellemző a helyi domborzatra.",
+                  "category": "landmark",
+                  "coords": [
+                        1.009399,
+                        42.286126
+                  ]
+            },
+            {
+                  "name": "Tossal Gros",
+                  "text": "Jellegzetes csúcs La Pobla de Segur közelében, az Elő-Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.99907,
+                        42.272764
+                  ]
+            },
+            {
+                  "name": "Tossal de l'Àliga o Pit de la Geganta",
+                  "text": "Hegy az Elő-Pireneusokban, amely Pit de la Geganta néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        1.018836,
+                        42.298931
+                  ]
+            },
+            {
+                  "name": "Tossal de la Vinya",
+                  "text": "Hegycsúcs Gramuntill környékén, az Elő-Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.010303,
+                        42.268253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cabana del Moro",
+                  "text": "Un dolmen megalitic preistoric în Pre-Pirineii catalani.",
+                  "category": "historical",
+                  "coords": [
+                        0.96111,
+                        42.29667
+                  ]
+            },
+            {
+                  "name": "Sepulcre megalític de la Cabana de Perauba",
+                  "text": "Un mormânt arheologic din cultura megalitică în Pre-Pirinei.",
+                  "category": "historical",
+                  "coords": [
+                        0.984912,
+                        42.315432
+                  ]
+            },
+            {
+                  "name": "lo Tossalet",
+                  "text": "Un vârf muntos în Pre-Pirinei, cu vedere spre peisajul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        0.974422,
+                        42.29822
+                  ]
+            },
+            {
+                  "name": "el Tossal",
+                  "text": "Un vârf în regiunea Baix Pallars din Pre-Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.020916,
+                        42.317538
+                  ]
+            },
+            {
+                  "name": "Muntanyeta de Comosí",
+                  "text": "O proeminență în Pre-Pirinei, caracteristică pentru relieful local.",
+                  "category": "landmark",
+                  "coords": [
+                        1.009399,
+                        42.286126
+                  ]
+            },
+            {
+                  "name": "Tossal Gros",
+                  "text": "Un vârf proeminent lângă La Pobla de Segur, în Pre-Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.99907,
+                        42.272764
+                  ]
+            },
+            {
+                  "name": "Tossal de l'Àliga o Pit de la Geganta",
+                  "text": "Un munte în Pre-Pirinei, cunoscut și sub numele de Pit de la Geganta.",
+                  "category": "landmark",
+                  "coords": [
+                        1.018836,
+                        42.298931
+                  ]
+            },
+            {
+                  "name": "Tossal de la Vinya",
+                  "text": "Un vârf muntos în zona Gramuntill din Pre-Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        1.010303,
+                        42.268253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabana del Moro",
+                  "text": "A prehistoric megalithic dolmen in the Catalan Pre-Pyrenees.",
+                  "category": "historical",
+                  "coords": [
+                        0.96111,
+                        42.29667
+                  ]
+            },
+            {
+                  "name": "Sepulcre megalític de la Cabana de Perauba",
+                  "text": "An archaeological burial site from the megalithic culture in the Pre-Pyrenees.",
+                  "category": "historical",
+                  "coords": [
+                        0.984912,
+                        42.315432
+                  ]
+            },
+            {
+                  "name": "lo Tossalet",
+                  "text": "A mountain peak in the Pre-Pyrenees with views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        0.974422,
+                        42.29822
+                  ]
+            },
+            {
+                  "name": "el Tossal",
+                  "text": "A peak in the Baix Pallars region of the Pre-Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.020916,
+                        42.317538
+                  ]
+            },
+            {
+                  "name": "Muntanyeta de Comosí",
+                  "text": "An elevation in the Pre-Pyrenees characteristic of the local relief.",
+                  "category": "landmark",
+                  "coords": [
+                        1.009399,
+                        42.286126
+                  ]
+            },
+            {
+                  "name": "Tossal Gros",
+                  "text": "A prominent peak near La Pobla de Segur in the Pre-Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.99907,
+                        42.272764
+                  ]
+            },
+            {
+                  "name": "Tossal de l'Àliga o Pit de la Geganta",
+                  "text": "A mountain in the Pre-Pyrenees also known as Pit de la Geganta.",
+                  "category": "landmark",
+                  "coords": [
+                        1.018836,
+                        42.298931
+                  ]
+            },
+            {
+                  "name": "Tossal de la Vinya",
+                  "text": "A mountain peak in the Gramuntill area of the Pre-Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        1.010303,
+                        42.268253
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "mountain",
     name: { de: "Vorpyrenäen", hu: "Elő-Pireneusok", ro: "Prepirineii", en: "Pre-Pyrenees"},
@@ -1398,7 +6177,304 @@ export const spainReliefV2: POI[] = [
   }
 ,
   {
-    id: "spain-sierra-de-grazalema-relief-v2",
+    id: "spain-sierra-de-grazalema-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural de la Sierra de Grazalema",
+                  "text": "Ein Naturpark in Andalusien, der für seine vielfältige Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -5.385997,
+                        36.733514
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Ein Berggipfel in der Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.377071,
+                        36.734703
+                  ]
+            },
+            {
+                  "name": "Cerro del Simancón",
+                  "text": "Einer der höchsten Gipfel in der Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.381893,
+                        36.73479
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario",
+                  "text": "Die Überreste einer ehemaligen Einsiedelei in der Nähe von Grazalema.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366315,
+                        36.756243
+                  ]
+            },
+            {
+                  "name": "Cueva de las dos puertas",
+                  "text": "Ein natürlicher Aussichtspunkt mit Höhlenformationen in der Sierra de Grazalema.",
+                  "category": "natural",
+                  "coords": [
+                        -5.365397,
+                        36.750773
+                  ]
+            },
+            {
+                  "name": "Fuente de Abajo",
+                  "text": "Ein historischer Brunnen im Dorf Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.367083,
+                        36.760662
+                  ]
+            },
+            {
+                  "name": "Mirador \"El Santo\"",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Sierra de Grazalema bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -5.363946,
+                        36.756904
+                  ]
+            },
+            {
+                  "name": "Memorial para el Anarquista José Sánchez Rosa",
+                  "text": "Ein Gedenkort für José Sánchez Rosa in der Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.371273,
+                        36.760429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural de la Sierra de Grazalema",
+                  "text": "Andalúziai natúrpark, amely változatos növény- és állatvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.385997,
+                        36.733514
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Hegycsúcs a Sierra de Grazalema hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.377071,
+                        36.734703
+                  ]
+            },
+            {
+                  "name": "Cerro del Simancón",
+                  "text": "A Sierra de Grazalema egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.381893,
+                        36.73479
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario",
+                  "text": "Egy egykori remetelak maradványai Grazalema közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366315,
+                        36.756243
+                  ]
+            },
+            {
+                  "name": "Cueva de las dos puertas",
+                  "text": "Természetes kilátóhely barlangalakzatokkal a Sierra de Grazalema hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.365397,
+                        36.750773
+                  ]
+            },
+            {
+                  "name": "Fuente de Abajo",
+                  "text": "Történelmi kút Grazalema faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.367083,
+                        36.760662
+                  ]
+            },
+            {
+                  "name": "Mirador \"El Santo\"",
+                  "text": "Kilátóhely, ahonnan széles kilátás nyílik a Sierra de Grazalema hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -5.363946,
+                        36.756904
+                  ]
+            },
+            {
+                  "name": "Memorial para el Anarquista José Sánchez Rosa",
+                  "text": "José Sánchez Rosa emlékhelye a Sierra de Grazalema hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.371273,
+                        36.760429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural de la Sierra de Grazalema",
+                  "text": "Un parc natural din Andaluzia, cunoscut pentru flora și fauna sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -5.385997,
+                        36.733514
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Un vârf montan în Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.377071,
+                        36.734703
+                  ]
+            },
+            {
+                  "name": "Cerro del Simancón",
+                  "text": "Unul dintre cele mai înalte vârfuri din Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.381893,
+                        36.73479
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario",
+                  "text": "Rămășițele unei foste eremiții din apropiere de Grazalema.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366315,
+                        36.756243
+                  ]
+            },
+            {
+                  "name": "Cueva de las dos puertas",
+                  "text": "Un punct de belvedere natural cu formațiuni de peșteră în Sierra de Grazalema.",
+                  "category": "natural",
+                  "coords": [
+                        -5.365397,
+                        36.750773
+                  ]
+            },
+            {
+                  "name": "Fuente de Abajo",
+                  "text": "O fântână istorică din satul Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.367083,
+                        36.760662
+                  ]
+            },
+            {
+                  "name": "Mirador \"El Santo\"",
+                  "text": "Un punct de observație ce oferă o vedere panoramică asupra Sierra de Grazalema.",
+                  "category": "natural",
+                  "coords": [
+                        -5.363946,
+                        36.756904
+                  ]
+            },
+            {
+                  "name": "Memorial para el Anarquista José Sánchez Rosa",
+                  "text": "Un loc memorial dedicat lui José Sánchez Rosa în Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.371273,
+                        36.760429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural de la Sierra de Grazalema",
+                  "text": "A natural park in Andalusia known for its diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -5.385997,
+                        36.733514
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "A mountain peak in the Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.377071,
+                        36.734703
+                  ]
+            },
+            {
+                  "name": "Cerro del Simancón",
+                  "text": "One of the highest peaks in the Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.381893,
+                        36.73479
+                  ]
+            },
+            {
+                  "name": "Ermita del Calvario",
+                  "text": "The remains of a former hermitage near Grazalema.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366315,
+                        36.756243
+                  ]
+            },
+            {
+                  "name": "Cueva de las dos puertas",
+                  "text": "A natural viewpoint with cave formations in the Sierra de Grazalema.",
+                  "category": "natural",
+                  "coords": [
+                        -5.365397,
+                        36.750773
+                  ]
+            },
+            {
+                  "name": "Fuente de Abajo",
+                  "text": "A historic fountain in the village of Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.367083,
+                        36.760662
+                  ]
+            },
+            {
+                  "name": "Mirador \"El Santo\"",
+                  "text": "A viewpoint offering a wide vista over the Sierra de Grazalema.",
+                  "category": "natural",
+                  "coords": [
+                        -5.363946,
+                        36.756904
+                  ]
+            },
+            {
+                  "name": "Memorial para el Anarquista José Sánchez Rosa",
+                  "text": "A memorial site dedicated to José Sánchez Rosa in the Sierra de Grazalema.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.371273,
+                        36.760429
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de Grazalema", hu: "Sierra de Grazalema", ro: "Sierra de Grazalema", en: "Sierra de Grazalema" },
@@ -1443,7 +6519,196 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-grazalema-relief-v2.webp",
   },
   {
-    id: "spain-picos-de-urbion-relief-v2",
+    id: "spain-picos-de-urbion-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "Ein geschütztes Feuchtgebiet in den Bergen der Sierra de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Ein Aussichtspunkt mit Blick auf einen berühmten Gletschersee in den Picos de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Laguna Grande im Urbión-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "Das Quellgebiet, das als Ursprung des Flusses Duero gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "Ein symbolisches Flurkreuz auf den Gipfeln des Urbión-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "Védett vizes élőhely a Sierra de Urbión hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Kilátópont, amely egy híres gleccsertóra néz a Picos de Urbión-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Megfigyelőpont, ahonnan a Laguna Grande látható az Urbión-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "Természetes forrásvidék, amelyet a Duero folyó forrásaként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "Szimbolikus útmenti kereszt az Urbión-hegység csúcsain.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "O zonă umedă protejată situată în munții Sierra de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "Un punct de observație cu vedere la un faimos lac glaciar din Picos de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "Un punct de observație care oferă vederi asupra Laguna Grande din masivul Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "Zona de izvoare naturale identificată ca fiind sursa râului Duero.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "O cruce de drum simbolică situată pe culmile munților Urbión.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Humedales de la Sierra de Urbión",
+                  "text": "A protected wetland area located within the Sierra de Urbión mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -2.88548,
+                        42.014428
+                  ]
+            },
+            {
+                  "name": "Laguna Negra",
+                  "text": "A scenic viewpoint overlooking a famous glacial lake in the Picos de Urbión.",
+                  "category": "natural",
+                  "coords": [
+                        -2.846248,
+                        41.998562
+                  ]
+            },
+            {
+                  "name": "Mirador de la Laguna Grande",
+                  "text": "An observation point providing views of the Laguna Grande in the Urbión range.",
+                  "category": "natural",
+                  "coords": [
+                        -2.850435,
+                        41.993523
+                  ]
+            },
+            {
+                  "name": "Fuentes del Duero",
+                  "text": "The natural spring area identified as the source of the Duero River.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.879809,
+                        42.00723
+                  ]
+            },
+            {
+                  "name": "Urbión",
+                  "text": "A symbolic wayside cross located on the peaks of the Urbión mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.878481,
+                        42.01144
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Picos de Urbión", hu: "Picos de Urbión", ro: "Picos de Urbión", en: "Picos de Urbión" },
@@ -1488,7 +6753,268 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-picos-de-urbion-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-las-nieves-relief-v2",
+    id: "spain-sierra-de-las-nieves-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Ein Nationalpark in Andalusien, bekannt für seine Gebirgslandschaft und Pinsapo-Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Pinsapo de las Escaleretas",
+                  "text": "Eine geschützte, uralte spanische Tanne in der Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.033808,
+                        36.666687
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "Der höchste Gipfel des Sierra de las Nieves-Gebirges in Südspanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Abanto",
+                  "text": "Ein Berggipfel mit weitem Ausblick im Nationalpark Sierra de las Nieves.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.044135,
+                        36.644662
+                  ]
+            },
+            {
+                  "name": "Cerro de la Alcazaba",
+                  "text": "Ein Aussichtspunkt und Gipfel im Gebirge der Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.015095,
+                        36.676724
+                  ]
+            },
+            {
+                  "name": "Mirador del Puntal de la Mesa",
+                  "text": "Ein Aussichtspunkt in den Bergen mit Panoramablick auf die Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.031134,
+                        36.663609
+                  ]
+            },
+            {
+                  "name": "Mirador de Rio Verde",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf das Tal des Rio Verde in der Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.010251,
+                        36.636048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Andalúziai nemzeti park, amely hegyvidéki tájáról és pinsapo-fenyőerdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Pinsapo de las Escaleretas",
+                  "text": "Védett, ősi spanyol fenyő (pinsapo) a Sierra de las Nieves területén.",
+                  "category": "natural",
+                  "coords": [
+                        -5.033808,
+                        36.666687
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "A dél-spanyolországi Sierra de las Nieves hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Abanto",
+                  "text": "Hegyi csúcs széles kilátással a Sierra de las Nieves Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.044135,
+                        36.644662
+                  ]
+            },
+            {
+                  "name": "Cerro de la Alcazaba",
+                  "text": "Kilátópont és hegycsúcs a Sierra de las Nieves hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.015095,
+                        36.676724
+                  ]
+            },
+            {
+                  "name": "Mirador del Puntal de la Mesa",
+                  "text": "Hegyi kilátópont panorámás kilátással a Sierra de las Nievesre.",
+                  "category": "natural",
+                  "coords": [
+                        -5.031134,
+                        36.663609
+                  ]
+            },
+            {
+                  "name": "Mirador de Rio Verde",
+                  "text": "Festői kilátópont, amely a Rio Verde völgyére néz a Sierra de las Nievesben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.010251,
+                        36.636048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional de la Sierra de las Nieves",
+                  "text": "Un parc național din Andaluzia cunoscut pentru peisajul montan și pădurile de brad spaniol (pinsapo).",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Pinsapo de las Escaleretas",
+                  "text": "Un exemplar protejat de brad spaniol străvechi situat în Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.033808,
+                        36.666687
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "Cel mai înalt vârf al lanțului Sierra de las Nieves din sudul Spaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Abanto",
+                  "text": "Un vârf montan care oferă vederi largi în Parcul Național Sierra de las Nieves.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.044135,
+                        36.644662
+                  ]
+            },
+            {
+                  "name": "Cerro de la Alcazaba",
+                  "text": "Un punct de belvedere și vârf în lanțul muntos Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.015095,
+                        36.676724
+                  ]
+            },
+            {
+                  "name": "Mirador del Puntal de la Mesa",
+                  "text": "Un punct de belvedere montan care oferă panorame asupra Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.031134,
+                        36.663609
+                  ]
+            },
+            {
+                  "name": "Mirador de Rio Verde",
+                  "text": "Un punct de belvedere pitoresc cu vedere la valea Rio Verde din Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.010251,
+                        36.636048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sierra de las Nieves National Park",
+                  "text": "A national park in Andalusia known for its mountainous landscape and pinsapo forests.",
+                  "category": "natural",
+                  "coords": [
+                        -4.985519,
+                        36.663223
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Pinsapo de las Escaleretas",
+                  "text": "A protected ancient Spanish fir tree located within the Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.033808,
+                        36.666687
+                  ]
+            },
+            {
+                  "name": "Torrecilla",
+                  "text": "The highest peak of the Sierra de las Nieves range in southern Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996223,
+                        36.675947
+                  ]
+            },
+            {
+                  "name": "Cerro Abanto",
+                  "text": "A mountain peak offering expansive views within the Sierra de las Nieves National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.044135,
+                        36.644662
+                  ]
+            },
+            {
+                  "name": "Cerro de la Alcazaba",
+                  "text": "A scenic viewpoint and peak in the Sierra de las Nieves mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -5.015095,
+                        36.676724
+                  ]
+            },
+            {
+                  "name": "Mirador del Puntal de la Mesa",
+                  "text": "A mountain viewpoint offering panoramas of the Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.031134,
+                        36.663609
+                  ]
+            },
+            {
+                  "name": "Mirador de Rio Verde",
+                  "text": "A scenic viewpoint overlooking the Green River valley in Sierra de las Nieves.",
+                  "category": "natural",
+                  "coords": [
+                        -5.010251,
+                        36.636048
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de las Nieves", hu: "Sierra de las Nieves", ro: "Sierra de las Nieves", en: "Sierra de las Nieves" },
@@ -1533,7 +7059,304 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-las-nieves-relief-v2.webp",
   },
   {
-    id: "spain-macizo-de-penagolosa-relief-v2",
+    id: "spain-macizo-de-penagolosa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Natural de Penyagolosa",
+                  "text": "Ein Naturpark in der Provinz Castellón, der den heiligen Berg Penyagolosa umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -0.353191,
+                        40.234993
+                  ]
+            },
+            {
+                  "name": "Petroglifs de la Cambreta",
+                  "text": "Prähistorische Felsritzungen in der Nähe des Penyagolosa-Massivs.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354498,
+                        40.230327
+                  ]
+            },
+            {
+                  "name": "Poblat Àrab del Marinet",
+                  "text": "Die Überreste einer mittelalterlichen arabischen Siedlung bei Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.313156,
+                        40.245995
+                  ]
+            },
+            {
+                  "name": "Penyagolosa",
+                  "text": "Der höchste Gipfel der Provinz Castellón und ein Symbolberg für die Region Valencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.349742,
+                        40.22276
+                  ]
+            },
+            {
+                  "name": "La Golosilla",
+                  "text": "Ein Berggipfel in der Nähe des Penyagolosa-Massivs in Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.361874,
+                        40.212797
+                  ]
+            },
+            {
+                  "name": "Observatori Astronòmic Astropunt de Vistabella",
+                  "text": "Ein astronomisches Observatorium und Aussichtspunkt in Vistabella del Maestrat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.356677,
+                        40.252209
+                  ]
+            },
+            {
+                  "name": "la Palmerina",
+                  "text": "Historische Ruinen in der ländlichen Gegend des Penyagolosa-Naturparks.",
+                  "category": "historical",
+                  "coords": [
+                        -0.360572,
+                        40.19761
+                  ]
+            },
+            {
+                  "name": "Mas de Gargallo",
+                  "text": "Überreste eines alten Bauernhauses oder Gehöfts im Penyagolosa-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -0.37746,
+                        40.210872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Natural de Penyagolosa",
+                  "text": "Természeti park Castellón tartományban, amely magában foglalja a szent Penyagolosa-hegyet.",
+                  "category": "natural",
+                  "coords": [
+                        -0.353191,
+                        40.234993
+                  ]
+            },
+            {
+                  "name": "Petroglifs de la Cambreta",
+                  "text": "Prehisztorikus sziklavésetek a Penyagolosa-masszívum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354498,
+                        40.230327
+                  ]
+            },
+            {
+                  "name": "Poblat Àrab del Marinet",
+                  "text": "Egy középkori arab település maradványai Penyagolosa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.313156,
+                        40.245995
+                  ]
+            },
+            {
+                  "name": "Penyagolosa",
+                  "text": "Castellón tartomány legmagasabb csúcsa és Valencia régió jelképes hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.349742,
+                        40.22276
+                  ]
+            },
+            {
+                  "name": "La Golosilla",
+                  "text": "Egy hegycsúcs a spanyolországi Penyagolosa-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.361874,
+                        40.212797
+                  ]
+            },
+            {
+                  "name": "Observatori Astronòmic Astropunt de Vistabella",
+                  "text": "Csillagászati obszervatórium és kilátópont Vistabella del Maestratban.",
+                  "category": "natural",
+                  "coords": [
+                        -0.356677,
+                        40.252209
+                  ]
+            },
+            {
+                  "name": "la Palmerina",
+                  "text": "Történelmi romok a Penyagolosa Natúrpark vidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.360572,
+                        40.19761
+                  ]
+            },
+            {
+                  "name": "Mas de Gargallo",
+                  "text": "Egy régi tanya vagy udvarház maradványai a Penyagolosa területén.",
+                  "category": "historical",
+                  "coords": [
+                        -0.37746,
+                        40.210872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Natural de Penyagolosa",
+                  "text": "Un parc natural în provincia Castellón, care cuprinde muntele sacru Penyagolosa.",
+                  "category": "natural",
+                  "coords": [
+                        -0.353191,
+                        40.234993
+                  ]
+            },
+            {
+                  "name": "Petroglifs de la Cambreta",
+                  "text": "Gravuri rupestre preistorice situate în apropierea masivului Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354498,
+                        40.230327
+                  ]
+            },
+            {
+                  "name": "Poblat Àrab del Marinet",
+                  "text": "Vestigiile unei așezări arabe medievale lângă Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.313156,
+                        40.245995
+                  ]
+            },
+            {
+                  "name": "Penyagolosa",
+                  "text": "Cel mai înalt vârf din provincia Castellón și un munte simbolic pentru regiunea Valencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.349742,
+                        40.22276
+                  ]
+            },
+            {
+                  "name": "La Golosilla",
+                  "text": "Un vârf muntos situat în apropierea masivului Penyagolosa din Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.361874,
+                        40.212797
+                  ]
+            },
+            {
+                  "name": "Observatori Astronòmic Astropunt de Vistabella",
+                  "text": "Un observator astronomic și punct de belvedere în Vistabella del Maestrat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.356677,
+                        40.252209
+                  ]
+            },
+            {
+                  "name": "la Palmerina",
+                  "text": "Ruine istorice în zona rurală a parcului natural Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.360572,
+                        40.19761
+                  ]
+            },
+            {
+                  "name": "Mas de Gargallo",
+                  "text": "Vestigiile unei vechi ferme sau gospodării în zona Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.37746,
+                        40.210872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Natural de Penyagolosa",
+                  "text": "A nature park in the province of Castellón encompassing the sacred Penyagolosa mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -0.353191,
+                        40.234993
+                  ]
+            },
+            {
+                  "name": "Petroglifs de la Cambreta",
+                  "text": "Prehistoric rock carvings located near the Penyagolosa massif.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354498,
+                        40.230327
+                  ]
+            },
+            {
+                  "name": "Poblat Àrab del Marinet",
+                  "text": "The remains of a medieval Arab settlement near Penyagolosa.",
+                  "category": "historical",
+                  "coords": [
+                        -0.313156,
+                        40.245995
+                  ]
+            },
+            {
+                  "name": "Penyagolosa",
+                  "text": "The highest peak in the province of Castellón and a symbolic mountain for the Valencian Community.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.349742,
+                        40.22276
+                  ]
+            },
+            {
+                  "name": "La Golosilla",
+                  "text": "A mountain peak located near the Penyagolosa massif in Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.361874,
+                        40.212797
+                  ]
+            },
+            {
+                  "name": "Observatori Astronòmic Astropunt de Vistabella",
+                  "text": "An astronomical observatory and viewpoint in Vistabella del Maestrat.",
+                  "category": "natural",
+                  "coords": [
+                        -0.356677,
+                        40.252209
+                  ]
+            },
+            {
+                  "name": "la Palmerina",
+                  "text": "Historic ruins in the rural area of the Penyagolosa nature park.",
+                  "category": "historical",
+                  "coords": [
+                        -0.360572,
+                        40.19761
+                  ]
+            },
+            {
+                  "name": "Mas de Gargallo",
+                  "text": "Remains of an old farmhouse or homestead in the Penyagolosa area.",
+                  "category": "historical",
+                  "coords": [
+                        -0.37746,
+                        40.210872
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Penyagolosa", hu: "Penyagolosa", ro: "Penyagolosa", en: "Penyagolosa" },
@@ -1623,7 +7446,196 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-ayllon-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-la-cabrera-relief-v2",
+    id: "spain-sierra-de-la-cabrera-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castro Celta - Arévaco",
+                  "text": "Archäologische Überreste einer antiken keltischen Siedlung in den Bergen.",
+                  "category": "historical",
+                  "coords": [
+                        -3.639805,
+                        40.860019
+                  ]
+            },
+            {
+                  "name": "Tumba del Moro",
+                  "text": "Eine antike, in den Fels gehauene Grabstätte in der Sierra de la Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        -3.633281,
+                        40.854955
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Cabrera",
+                  "text": "Ein Gebiet mit archäologischen Funden aus verschiedenen historischen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        -3.64022,
+                        40.868229
+                  ]
+            },
+            {
+                  "name": "Pico De La Miel",
+                  "text": "Ein markanter Granitgipfel, der bei Kletterern sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.608344,
+                        40.879065
+                  ]
+            },
+            {
+                  "name": "Centro Comarcal de Humanidades Cardenal Gonzaga",
+                  "text": "Ein regionales Kulturzentrum, in dem Ausstellungen und Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605903,
+                        40.872976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castro Celta - Arévaco",
+                  "text": "Ókori kelta település régészeti maradványai a hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.639805,
+                        40.860019
+                  ]
+            },
+            {
+                  "name": "Tumba del Moro",
+                  "text": "Ősi, sziklába vájt sírhely a Sierra de la Cabrera hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.633281,
+                        40.854955
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Cabrera",
+                  "text": "Különböző történelmi korszakokból származó régészeti leleteket tartalmazó terület.",
+                  "category": "historical",
+                  "coords": [
+                        -3.64022,
+                        40.868229
+                  ]
+            },
+            {
+                  "name": "Pico De La Miel",
+                  "text": "Jellegzetes gránitcsúcs, amely a sziklamászók körében igen népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.608344,
+                        40.879065
+                  ]
+            },
+            {
+                  "name": "Centro Comarcal de Humanidades Cardenal Gonzaga",
+                  "text": "Regionális kulturális központ, amely kiállításoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605903,
+                        40.872976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castro Celta - Arévaco",
+                  "text": "Vestigii arheologice ale unei așezări celtice antice din munți.",
+                  "category": "historical",
+                  "coords": [
+                        -3.639805,
+                        40.860019
+                  ]
+            },
+            {
+                  "name": "Tumba del Moro",
+                  "text": "Un mormânt antic tăiat în stâncă în Sierra de la Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        -3.633281,
+                        40.854955
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Cabrera",
+                  "text": "O zonă care conține descoperiri arheologice din diferite perioade istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -3.64022,
+                        40.868229
+                  ]
+            },
+            {
+                  "name": "Pico De La Miel",
+                  "text": "Un vârf de granit proeminent, foarte popular printre alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.608344,
+                        40.879065
+                  ]
+            },
+            {
+                  "name": "Centro Comarcal de Humanidades Cardenal Gonzaga",
+                  "text": "Un centru cultural regional care găzduiește expoziții și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605903,
+                        40.872976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castro Celta - Arévaco",
+                  "text": "Archaeological remains of an ancient Celtic settlement in the mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -3.639805,
+                        40.860019
+                  ]
+            },
+            {
+                  "name": "Tumba del Moro",
+                  "text": "An ancient rock-cut tomb site located in Sierra de la Cabrera.",
+                  "category": "historical",
+                  "coords": [
+                        -3.633281,
+                        40.854955
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica La Cabrera",
+                  "text": "An area containing archaeological finds from various historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        -3.64022,
+                        40.868229
+                  ]
+            },
+            {
+                  "name": "Pico De La Miel",
+                  "text": "A prominent granite peak that is very popular among rock climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.608344,
+                        40.879065
+                  ]
+            },
+            {
+                  "name": "Centro Comarcal de Humanidades Cardenal Gonzaga",
+                  "text": "A regional cultural center hosting exhibitions and various events.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605903,
+                        40.872976
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de la Cabrera", hu: "Sierra de la Cabrera", ro: "Sierra de la Cabrera", en: "Sierra de la Cabrera" },
@@ -1668,7 +7680,196 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-la-cabrera-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-alcaraz-relief-v2",
+    id: "spain-sierra-de-alcaraz-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Alcaraz",
+                  "text": "Historische Burgruine in Sierra de Alcaraz.",
+                  "category": "castle",
+                  "coords": [
+                        -2.493922,
+                        38.667365
+                  ]
+            },
+            {
+                  "name": "Necrópolis",
+                  "text": "Archäologische Ausgrabungsstätte in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.463199,
+                        38.639358
+                  ]
+            },
+            {
+                  "name": "Antiguo Convento del Santísimo Espíritu",
+                  "text": "Ehemaliges Kloster und historisches Denkmal in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491531,
+                        38.665343
+                  ]
+            },
+            {
+                  "name": "Arco de Puerta Nueva",
+                  "text": "Ein historischer Torbogen und Denkmal in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491998,
+                        38.667665
+                  ]
+            },
+            {
+                  "name": "Mirador del Corralón",
+                  "text": "Aussichtspunkt mit Panoramablick über Sierra de Alcaraz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.491313,
+                        38.663864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Alcaraz",
+                  "text": "Történelmi várrom Sierra de Alcaraz területén.",
+                  "category": "castle",
+                  "coords": [
+                        -2.493922,
+                        38.667365
+                  ]
+            },
+            {
+                  "name": "Necrópolis",
+                  "text": "Régészeti lelőhely Sierra de Alcaraz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.463199,
+                        38.639358
+                  ]
+            },
+            {
+                  "name": "Antiguo Convento del Santísimo Espíritu",
+                  "text": "Egykori kolostor és történelmi emlékmű Sierra de Alcarazban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491531,
+                        38.665343
+                  ]
+            },
+            {
+                  "name": "Arco de Puerta Nueva",
+                  "text": "Történelmi kapuív és emlékmű Sierra de Alcarazban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491998,
+                        38.667665
+                  ]
+            },
+            {
+                  "name": "Mirador del Corralón",
+                  "text": "Kilátóhely panorámás kilátással Sierra de Alcaraz környékére.",
+                  "category": "natural",
+                  "coords": [
+                        -2.491313,
+                        38.663864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Alcaraz",
+                  "text": "Ruinele unei cetăți istorice în Sierra de Alcaraz.",
+                  "category": "castle",
+                  "coords": [
+                        -2.493922,
+                        38.667365
+                  ]
+            },
+            {
+                  "name": "Necrópolis",
+                  "text": "Sit arheologic situat în Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.463199,
+                        38.639358
+                  ]
+            },
+            {
+                  "name": "Antiguo Convento del Santísimo Espíritu",
+                  "text": "Fostă mănăstire și monument istoric în Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491531,
+                        38.665343
+                  ]
+            },
+            {
+                  "name": "Arco de Puerta Nueva",
+                  "text": "Un arc istoric și monument în Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491998,
+                        38.667665
+                  ]
+            },
+            {
+                  "name": "Mirador del Corralón",
+                  "text": "Punct de belvedere cu vedere panoramică asupra Sierra de Alcaraz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.491313,
+                        38.663864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Alcaraz",
+                  "text": "Historical castle ruins located in Sierra de Alcaraz.",
+                  "category": "castle",
+                  "coords": [
+                        -2.493922,
+                        38.667365
+                  ]
+            },
+            {
+                  "name": "Necrópolis",
+                  "text": "Archaeological site located in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.463199,
+                        38.639358
+                  ]
+            },
+            {
+                  "name": "Antiguo Convento del Santísimo Espíritu",
+                  "text": "Former convent and historical monument in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491531,
+                        38.665343
+                  ]
+            },
+            {
+                  "name": "Arco de Puerta Nueva",
+                  "text": "A historical archway and monument in Sierra de Alcaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -2.491998,
+                        38.667665
+                  ]
+            },
+            {
+                  "name": "Mirador del Corralón",
+                  "text": "Viewpoint offering panoramic views over Sierra de Alcaraz.",
+                  "category": "natural",
+                  "coords": [
+                        -2.491313,
+                        38.663864
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de Alcaraz", hu: "Sierra de Alcaraz", ro: "Sierra de Alcaraz", en: "Sierra de Alcaraz" },
@@ -1713,7 +7914,52 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-alcaraz-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-gata-relief-v2",
+    id: "spain-sierra-de-gata-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de la Sierra",
+                  "text": "Ein Aussichtspunkt in der Sierra de Gata mit Panoramablick auf die Gebirgskette.",
+                  "category": "natural",
+                  "coords": [
+                        -6.685774,
+                        40.233478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de la Sierra",
+                  "text": "Kilátóhely a Sierra de Gata hegységben, panorámás kilátással a vonulatra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.685774,
+                        40.233478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de la Sierra",
+                  "text": "Un punct de belvedere în Sierra de Gata, oferind o vedere panoramică asupra munților.",
+                  "category": "natural",
+                  "coords": [
+                        -6.685774,
+                        40.233478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de la Sierra",
+                  "text": "A viewpoint in the Sierra de Gata offering panoramic views of the mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -6.685774,
+                        40.233478
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de Gata", hu: "Sierra de Gata", ro: "Sierra de Gata", en: "Sierra de Gata" },
@@ -1758,7 +8004,52 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-gata-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-segura-relief-v2",
+    id: "spain-sierra-de-segura-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navalperal",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Sierra de Segura.",
+                  "category": "natural",
+                  "coords": [
+                        -2.585293,
+                        38.316263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navalperal",
+                  "text": "Kilátóhely panorámás kilátással a Sierra de Segura hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -2.585293,
+                        38.316263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navalperal",
+                  "text": "Un punct de observație care oferă panorame asupra Sierra de Segura.",
+                  "category": "natural",
+                  "coords": [
+                        -2.585293,
+                        38.316263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navalperal",
+                  "text": "A scenic viewpoint offering panoramas of the Sierra de Segura.",
+                  "category": "natural",
+                  "coords": [
+                        -2.585293,
+                        38.316263
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra de Segura", hu: "Sierra de Segura", ro: "Sierra de Segura", en: "Sierra de Segura" },
@@ -1848,7 +8139,88 @@ export const spainReliefV2: POI[] = [
     image: "/poi-images/spain-sierra-de-oropesa-relief-v2.webp",
   },
   {
-    id: "spain-sierra-de-sierra-nevada-peaks-relief-v2",
+    id: "spain-sierra-de-sierra-nevada-peaks-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Der dritthöchste Gipfel der Sierra Nevada in Spanien, bekannt für seine steile Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Der höchste Berg der Iberischen Halbinsel, gelegen im Nationalpark Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "A spanyol Sierra Nevada harmadik legmagasabb csúcsa, amely meredek északi faláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Az Ibériai-félsziget legmagasabb hegycsúcsuma, amely a Sierra Nevada Nemzeti Parkban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "Al treilea cel mai înalt vârf din Sierra Nevada, Spania, cunoscut pentru versantul său nordic abrupt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "Cel mai înalt munte din Peninsula Iberică, situat în Parcul Național Sierra Nevada.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Alcazaba",
+                  "text": "The third highest peak in Spain's Sierra Nevada, known for its dramatic northern face.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.301158,
+                        37.067866
+                  ]
+            },
+            {
+                  "name": "Pico de Mulhacén",
+                  "text": "The highest peak on the Iberian Peninsula, located within the Sierra Nevada National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.311557,
+                        37.053381
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ES",
     name: { de: "Sierra Nevada Gipfel", hu: "Sierra Nevada csúcsai", ro: "Vârfurile Sierra Nevada", en: "Sierra Nevada Peaks" },

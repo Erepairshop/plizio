@@ -1135,6 +1135,33 @@ export const romaniaCitiesV2: POI[] = [
                         24.346463,
                         46.180406
                   ]
+            },
+            {
+                  "name": "\"Stephan Ludwig Roth\" Memorial House",
+                  "text": "Gedenkhaus in Mediaș, das dem siebenbürgisch-sächsischen Gelehrten Stephan Ludwig Roth gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.350557,
+                        46.1667
+                  ]
+            },
+            {
+                  "name": "The Natural Gas Documentation and Information Centre",
+                  "text": "Dieses Fachmuseum in Mediaș dokumentiert die Geschichte der Erdgasförderung in Rumänien.",
+                  "category": "museum",
+                  "coords": [
+                        24.343685,
+                        46.155933
+                  ]
+            },
+            {
+                  "name": "Geromed Medias (1959)",
+                  "text": "Ein Denkmal in Mediaș, das an die Industriegeschichte der Glasfabrik Geromed erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        24.338996,
+                        46.155509
+                  ]
             }
       ],
       "hu": [
@@ -1202,6 +1229,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.346463,
                         46.180406
+                  ]
+            },
+            {
+                  "name": "\"Stephan Ludwig Roth\" Memorial House",
+                  "text": "Emlékház Medgyesen, amely Stephan Ludwig Roth erdélyi szász tudós életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.350557,
+                        46.1667
+                  ]
+            },
+            {
+                  "name": "The Natural Gas Documentation and Information Centre",
+                  "text": "Ez a medgyesi szakmúzeum a romániai földgázkitermelés történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        24.343685,
+                        46.155933
+                  ]
+            },
+            {
+                  "name": "Geromed Medias (1959)",
+                  "text": "Medgyesi emlékmű, amely a Geromed üveggyár ipartörténeti jelentőségére utal.",
+                  "category": "historical",
+                  "coords": [
+                        24.338996,
+                        46.155509
                   ]
             }
       ],
@@ -1271,6 +1325,33 @@ export const romaniaCitiesV2: POI[] = [
                         24.346463,
                         46.180406
                   ]
+            },
+            {
+                  "name": "\"Stephan Ludwig Roth\" Memorial House",
+                  "text": "Casă memorială în Mediaș dedicată cărturarului sas Stephan Ludwig Roth.",
+                  "category": "museum",
+                  "coords": [
+                        24.350557,
+                        46.1667
+                  ]
+            },
+            {
+                  "name": "The Natural Gas Documentation and Information Centre",
+                  "text": "Centrul de documentare din Mediaș prezintă istoria exploatării gazelor naturale în România.",
+                  "category": "museum",
+                  "coords": [
+                        24.343685,
+                        46.155933
+                  ]
+            },
+            {
+                  "name": "Geromed Medias (1959)",
+                  "text": "Un monument în Mediaș care amintește de istoria industrială a fabricii de sticlă Geromed.",
+                  "category": "historical",
+                  "coords": [
+                        24.338996,
+                        46.155509
+                  ]
             }
       ],
       "en": [
@@ -1338,6 +1419,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.346463,
                         46.180406
+                  ]
+            },
+            {
+                  "name": "\"Stephan Ludwig Roth\" Memorial House",
+                  "text": "Memorial house in Mediaș dedicated to the Transylvanian Saxon scholar Stephan Ludwig Roth.",
+                  "category": "museum",
+                  "coords": [
+                        24.350557,
+                        46.1667
+                  ]
+            },
+            {
+                  "name": "The Natural Gas Documentation and Information Centre",
+                  "text": "This specialized museum in Mediaș documents the history of natural gas extraction in Romania.",
+                  "category": "museum",
+                  "coords": [
+                        24.343685,
+                        46.155933
+                  ]
+            },
+            {
+                  "name": "Geromed Medias (1959)",
+                  "text": "A monument in Mediaș commemorating the industrial history of the Geromed glass factory.",
+                  "category": "historical",
+                  "coords": [
+                        24.338996,
+                        46.155509
                   ]
             }
       ]
@@ -2184,6 +2292,33 @@ export const romaniaCitiesV2: POI[] = [
                         24.368729,
                         45.097411
                   ]
+            },
+            {
+                  "name": "\"Aurelian Sacerdoteanu\" Valcea County Museum",
+                  "text": "Das Kreismuseum in Râmnicu Vâlcea präsentiert archäologische und historische Exponate der Region.",
+                  "category": "museum",
+                  "coords": [
+                        24.363192,
+                        45.106481
+                  ]
+            },
+            {
+                  "name": "Museum Collection of the Ramnic Bishopric",
+                  "text": "Eine Sammlung religiöser Kunst und historischer Gegenstände des Bistums von Râmnicu Vâlcea.",
+                  "category": "museum",
+                  "coords": [
+                        24.362413,
+                        45.109412
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Das Kulturhaus in Râmnicu Vâlcea ist ein zentraler Ort für Theateraufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.370507,
+                        45.106003
+                  ]
             }
       ],
       "hu": [
@@ -2416,6 +2551,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.368729,
                         45.097411
+                  ]
+            },
+            {
+                  "name": "\"Aurelian Sacerdoteanu\" Valcea County Museum",
+                  "text": "A Râmnicu Vâlcea-i megyei múzeum a térség régészeti és történelmi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.363192,
+                        45.106481
+                  ]
+            },
+            {
+                  "name": "Museum Collection of the Ramnic Bishopric",
+                  "text": "A Râmnicu Vâlcea-i püspökség vallási művészeti és történelmi tárgyainak gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        24.362413,
+                        45.109412
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "A Râmnicu Vâlcea-i művelődési ház színházi előadások és kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        24.370507,
+                        45.106003
                   ]
             }
       ],
@@ -2650,6 +2812,33 @@ export const romaniaCitiesV2: POI[] = [
                         24.368729,
                         45.097411
                   ]
+            },
+            {
+                  "name": "\"Aurelian Sacerdoteanu\" Valcea County Museum",
+                  "text": "Muzeul Județean „Aurelian Sacerdoteanu” din Râmnicu Vâlcea expune vestigii arheologice și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.363192,
+                        45.106481
+                  ]
+            },
+            {
+                  "name": "Museum Collection of the Ramnic Bishopric",
+                  "text": "Colecția muzeală a Episcopiei Râmnicului cuprinde obiecte de artă religioasă și piese istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.362413,
+                        45.109412
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Casa de Cultură din Râmnicu Vâlcea este un spațiu central pentru spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        24.370507,
+                        45.106003
+                  ]
             }
       ],
       "en": [
@@ -2882,6 +3071,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.368729,
                         45.097411
+                  ]
+            },
+            {
+                  "name": "\"Aurelian Sacerdoteanu\" Valcea County Museum",
+                  "text": "The county museum in Râmnicu Vâlcea displays archaeological and historical exhibits from the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.363192,
+                        45.106481
+                  ]
+            },
+            {
+                  "name": "Museum Collection of the Ramnic Bishopric",
+                  "text": "A collection of religious art and historical items belonging to the Bishopric of Râmnicu Vâlcea.",
+                  "category": "museum",
+                  "coords": [
+                        24.362413,
+                        45.109412
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "The House of Culture in Râmnicu Vâlcea is a central venue for theatrical performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.370507,
+                        45.106003
                   ]
             }
       ]
@@ -4224,6 +4440,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.122015,
                         45.708018
                   ]
+            },
+            {
+                  "name": "Expoziția Muzeală de Etnografie",
+                  "text": "Eine Ausstellung über die regionale Volkskultur und Traditionen in Cisnădie.",
+                  "category": "museum",
+                  "coords": [
+                        24.112256,
+                        45.704638
+                  ]
             }
       ],
       "hu": [
@@ -4253,6 +4478,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.122015,
                         45.708018
+                  ]
+            },
+            {
+                  "name": "Expoziția Muzeală de Etnografie",
+                  "text": "A regionális népi kultúrára és hagyományokra összpontosító kiállítás Nagydisznódon.",
+                  "category": "museum",
+                  "coords": [
+                        24.112256,
+                        45.704638
                   ]
             }
       ],
@@ -4284,6 +4518,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.122015,
                         45.708018
                   ]
+            },
+            {
+                  "name": "Expoziția Muzeală de Etnografie",
+                  "text": "O expoziție axată pe cultura și tradițiile populare regionale din Cisnădie.",
+                  "category": "museum",
+                  "coords": [
+                        24.112256,
+                        45.704638
+                  ]
             }
       ],
       "en": [
@@ -4313,6 +4556,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.122015,
                         45.708018
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum Exhibition",
+                  "text": "An exhibition focused on regional folk culture and traditions in Cisnădie.",
+                  "category": "museum",
+                  "coords": [
+                        24.112256,
+                        45.704638
                   ]
             }
       ]
@@ -7306,10 +7558,86 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-boldesti-scaeni-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "ACHETRANS-Boldesti Scaieni",
+                  "text": "Ein lokales Denkmal in der Stadt Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.024929,
+                        45.012522
+                  ]
+            },
+            {
+                  "name": "Casa de cultură și biblioteca „Mihai Eminescu”",
+                  "text": "Ein Kulturhaus und eine Bibliothek in Boldești-Scăeni, benannt nach Mihai Eminescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025867,
+                        45.016161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ACHETRANS-Boldesti Scaieni",
+                  "text": "Helyi emlékmű Boldești-Scăeni városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.024929,
+                        45.012522
+                  ]
+            },
+            {
+                  "name": "Casa de cultură și biblioteca „Mihai Eminescu”",
+                  "text": "Művelődési ház és könyvtár Boldești-Scăeniben, Mihai Eminescuról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025867,
+                        45.016161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ACHETRANS-Boldesti Scaieni",
+                  "text": "Un monument local în orașul Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.024929,
+                        45.012522
+                  ]
+            },
+            {
+                  "name": "Casa de cultură și biblioteca „Mihai Eminescu”",
+                  "text": "Casă de cultură și bibliotecă în Boldești-Scăeni, numită după Mihai Eminescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025867,
+                        45.016161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ACHETRANS-Boldesti Scaieni",
+                  "text": "A local monument in the town of Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.024929,
+                        45.012522
+                  ]
+            },
+            {
+                  "name": "Casa de cultură și biblioteca „Mihai Eminescu”",
+                  "text": "A cultural house and library in Boldești-Scăeni, named after Mihai Eminescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025867,
+                        45.016161
+                  ]
+            }
+      ]
 }
   },
   {
@@ -10267,6 +10595,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.934231,
                         45.231411
                   ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "Ein Museum in Drajna, das dem Leben und Werk des Malers Nicolae Tonitza gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
             }
       ],
       "hu": [
@@ -10287,6 +10624,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.934231,
                         45.231411
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "Múzeum Drajnában, amely Nicolae Tonitza festőművész életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
                   ]
             }
       ],
@@ -10309,6 +10655,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.934231,
                         45.231411
                   ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "O casă memorială în Drajna dedicată vieții și operei pictorului Nicolae Tonitza.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
             }
       ],
       "en": [
@@ -10329,6 +10684,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.934231,
                         45.231411
+                  ]
+            },
+            {
+                  "name": "\"Nicolae Tonitza\" Memorial House",
+                  "text": "A memorial house in Drajna dedicated to the life and work of painter Nicolae Tonitza.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
                   ]
             }
       ]
@@ -10939,6 +11303,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.925291,
                         44.887827
                   ]
+            },
+            {
+                  "name": "Biserica lui Vladislav al II-lea",
+                  "text": "Die archäologischen Ruinen einer von Vladislav II. in Târgșoru Vechi erbauten Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        25.927736,
+                        44.891579
+                  ]
             }
       ],
       "hu": [
@@ -10960,6 +11333,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.925291,
                         44.887827
+                  ]
+            },
+            {
+                  "name": "Biserica lui Vladislav al II-lea",
+                  "text": "II. Ulászló által épített templom régészeti romjai Târgșoru Vechi-ben.",
+                  "category": "historical",
+                  "coords": [
+                        25.927736,
+                        44.891579
                   ]
             }
       ],
@@ -10983,6 +11365,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.925291,
                         44.887827
                   ]
+            },
+            {
+                  "name": "Biserica lui Vladislav al II-lea",
+                  "text": "Ruinele arheologice ale bisericii ctitorite de Vladislav al II-lea în Târgșoru Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        25.927736,
+                        44.891579
+                  ]
             }
       ],
       "en": [
@@ -11004,6 +11395,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.925291,
                         44.887827
+                  ]
+            },
+            {
+                  "name": "Biserica lui Vladislav al II-lea",
+                  "text": "The archaeological ruins of a church built by Vladislav II in Târgșoru Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        25.927736,
+                        44.891579
                   ]
             }
       ]
@@ -13221,6 +13621,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.040486,
                         45.186052
                   ]
+            },
+            {
+                  "name": "Casa Irinei Loghin",
+                  "text": "Das Wohnhaus der bekannten rumänischen Sängerin Irina Loghin in Gura Vitioarei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.038303,
+                        45.152523
+                  ]
             }
       ],
       "hu": [
@@ -13232,6 +13641,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040486,
                         45.186052
+                  ]
+            },
+            {
+                  "name": "Casa Irinei Loghin",
+                  "text": "Irina Loghin ismert román énekesnő lakóháza Gura Vitioarei faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.038303,
+                        45.152523
                   ]
             }
       ],
@@ -13245,6 +13663,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.040486,
                         45.186052
                   ]
+            },
+            {
+                  "name": "Casa Irinei Loghin",
+                  "text": "Casa memorială sau de vacanță a cunoscutei interprete Irina Loghin din Gura Vitioarei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.038303,
+                        45.152523
+                  ]
             }
       ],
       "en": [
@@ -13256,6 +13683,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040486,
                         45.186052
+                  ]
+            },
+            {
+                  "name": "Casa Irinei Loghin",
+                  "text": "The residence of the well-known Romanian singer Irina Loghin in Gura Vitioarei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.038303,
+                        45.152523
                   ]
             }
       ]
@@ -14298,6 +14734,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.040844,
                         44.528644
                   ]
+            },
+            {
+                  "name": "Art Safari",
+                  "text": "Ein Ausstellungsraum für moderne und zeitgenössische Kunst in Otopeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.0806,
+                        44.570687
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "Eine historische Festungsanlage in Otopeni, die Teil des ehemaligen Verteidigungsrings von Bukarest war.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073746,
+                        44.539446
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicatiilor si Informaticii \"General-maior Ion Ceraceanu\"",
+                  "text": "Ein Museum in Otopeni, das der Geschichte der militärischen Kommunikation und Informatik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
             }
       ],
       "hu": [
@@ -14409,6 +14872,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040844,
                         44.528644
+                  ]
+            },
+            {
+                  "name": "Art Safari",
+                  "text": "Modern és kortárs művészeti kiállítótér Otopeniben.",
+                  "category": "museum",
+                  "coords": [
+                        26.0806,
+                        44.570687
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "Történelmi erődítmény Otopeniben, amely Bukarest egykori védelmi gyűrűjének része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073746,
+                        44.539446
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicatiilor si Informaticii \"General-maior Ion Ceraceanu\"",
+                  "text": "Katonai hírközlés és informatika történetének szentelt múzeum Otopeniben.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
                   ]
             }
       ],
@@ -14522,6 +15012,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.040844,
                         44.528644
                   ]
+            },
+            {
+                  "name": "Art Safari",
+                  "text": "Spațiu expozițional dedicat artei moderne și contemporane în Otopeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.0806,
+                        44.570687
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "O fortificație istorică în Otopeni, parte a fostului sistem de apărare al Bucureștiului.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073746,
+                        44.539446
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicatiilor si Informaticii \"General-maior Ion Ceraceanu\"",
+                  "text": "Muzeu în Otopeni dedicat istoriei comunicațiilor și informaticii militare.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
             }
       ],
       "en": [
@@ -14633,6 +15150,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040844,
                         44.528644
+                  ]
+            },
+            {
+                  "name": "Art Safari",
+                  "text": "An exhibition space for modern and contemporary art in Otopeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.0806,
+                        44.570687
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "A historical fortification in Otopeni, part of the former defensive ring of Bucharest.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073746,
+                        44.539446
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicatiilor si Informaticii \"General-maior Ion Ceraceanu\"",
+                  "text": "A museum in Otopeni dedicated to the history of military communications and informatics.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
                   ]
             }
       ]
@@ -17168,6 +17712,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.075719,
                         44.264209
                   ]
+            },
+            {
+                  "name": "Argedava",
+                  "text": "Die Ruinen einer bedeutenden dakischen Festung aus der Antike.",
+                  "category": "historical",
+                  "coords": [
+                        25.964795,
+                        44.312919
+                  ]
             }
       ],
       "hu": [
@@ -17187,6 +17740,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.075719,
                         44.264209
+                  ]
+            },
+            {
+                  "name": "Argedava",
+                  "text": "Egy jelentős ókori dák erődítmény romjai.",
+                  "category": "historical",
+                  "coords": [
+                        25.964795,
+                        44.312919
                   ]
             }
       ],
@@ -17208,6 +17770,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.075719,
                         44.264209
                   ]
+            },
+            {
+                  "name": "Argedava",
+                  "text": "Ruinele unei importante cetăți dacice din antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        25.964795,
+                        44.312919
+                  ]
             }
       ],
       "en": [
@@ -17227,6 +17798,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.075719,
                         44.264209
+                  ]
+            },
+            {
+                  "name": "Argedava",
+                  "text": "The ruins of an important ancient Dacian fortress.",
+                  "category": "historical",
+                  "coords": [
+                        25.964795,
+                        44.312919
                   ]
             }
       ]
@@ -19075,6 +19655,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.152293,
                         44.699251
                   ]
+            },
+            {
+                  "name": "Colectia Publica ,,Istoria Locala-Zona Snagov/Codrii Vlasiei\"",
+                  "text": "Ein Museum in Snagov, das der lokalen Geschichte der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.173835,
+                        44.707738
+                  ]
             }
       ],
       "hu": [
@@ -19126,6 +19715,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.152293,
                         44.699251
+                  ]
+            },
+            {
+                  "name": "Colectia Publica ,,Istoria Locala-Zona Snagov/Codrii Vlasiei\"",
+                  "text": "Snagovi múzeum, amely a régió helytörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.173835,
+                        44.707738
                   ]
             }
       ],
@@ -19179,6 +19777,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.152293,
                         44.699251
                   ]
+            },
+            {
+                  "name": "Colectia Publica ,,Istoria Locala-Zona Snagov/Codrii Vlasiei\"",
+                  "text": "Un muzeu din Snagov dedicat istoriei locale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        26.173835,
+                        44.707738
+                  ]
             }
       ],
       "en": [
@@ -19230,6 +19837,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.152293,
                         44.699251
+                  ]
+            },
+            {
+                  "name": "Colectia Publica ,,Istoria Locala-Zona Snagov/Codrii Vlasiei\"",
+                  "text": "A museum in Snagov dedicated to the local history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.173835,
+                        44.707738
                   ]
             }
       ]
@@ -21284,6 +21900,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.067965,
                         44.605068
                   ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Ein historisches Herrenhaus in Balotești, das die lokale Architektur repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Ein Technologiepark und Freizeitziel in Balotești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
             }
       ],
       "hu": [
@@ -21370,6 +22004,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.067965,
                         44.605068
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Történelmi udvarház Baloteștiben, amely a helyi építészetet reprezentálja.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Technológiai park és szabadidős célpont Baloteștiben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
                   ]
             }
       ],
@@ -21458,6 +22110,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.067965,
                         44.605068
                   ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Un conac istoric din Balotești, reprezentativ pentru arhitectura locală.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Un parc tehnologic și destinație de petrecere a timpului liber în Balotești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
             }
       ],
       "en": [
@@ -21544,6 +22214,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.067965,
                         44.605068
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "A historic manor in Balotești, representing the local architecture.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "A technology park and leisure destination in Balotești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
                   ]
             }
       ]
@@ -22969,6 +23657,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.001661,
                         44.444654
                   ]
+            },
+            {
+                  "name": "Piscina Spa Domnești",
+                  "text": "Moderner Wasserpark und Wellnesszentrum in Domnești.",
+                  "category": "recreational",
+                  "coords": [
+                        25.953182,
+                        44.403681
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Ein den gefallenen Soldaten gewidmetes Denkmal in Domnești.",
+                  "category": "historical",
+                  "coords": [
+                        25.910968,
+                        44.400515
+                  ]
             }
       ],
       "hu": [
@@ -22997,6 +23703,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.001661,
                         44.444654
+                  ]
+            },
+            {
+                  "name": "Piscina Spa Domnești",
+                  "text": "Modern vízipark és wellnessközpont Domneștiben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.953182,
+                        44.403681
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Elesett katonáknak szentelt emlékmű Domneștiben.",
+                  "category": "historical",
+                  "coords": [
+                        25.910968,
+                        44.400515
                   ]
             }
       ],
@@ -23027,6 +23751,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.001661,
                         44.444654
                   ]
+            },
+            {
+                  "name": "Piscina Spa Domnești",
+                  "text": "Parc acvatic modern și centru de wellness în Domnești.",
+                  "category": "recreational",
+                  "coords": [
+                        25.953182,
+                        44.403681
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monument dedicat soldaților căzuți, situat în Domnești.",
+                  "category": "historical",
+                  "coords": [
+                        25.910968,
+                        44.400515
+                  ]
             }
       ],
       "en": [
@@ -23055,6 +23797,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.001661,
                         44.444654
+                  ]
+            },
+            {
+                  "name": "Piscina Spa Domnești",
+                  "text": "Modern water park and wellness center in Domnești.",
+                  "category": "recreational",
+                  "coords": [
+                        25.953182,
+                        44.403681
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monument dedicated to fallen soldiers in Domnești.",
+                  "category": "historical",
+                  "coords": [
+                        25.910968,
+                        44.400515
                   ]
             }
       ]
@@ -24191,6 +24951,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.159568,
                         44.417735
                   ]
+            },
+            {
+                  "name": "Parcul Natural Vacaresti",
+                  "text": "Ein weitläufiges Naturschutzgebiet und Feuchtgebiet, das oft als das „Delta von Bukarest“ bezeichnet wird.",
+                  "category": "natural",
+                  "coords": [
+                        26.133117,
+                        44.399344
+                  ]
+            },
+            {
+                  "name": "Parcul Alexandru Ioan Cuza",
+                  "text": "Einer der größten Parks in der Region, bekannt für seinen See und seine weitläufigen Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        26.155374,
+                        44.420523
+                  ]
+            },
+            {
+                  "name": "Parcul Titanel",
+                  "text": "Ein beliebter Stadtpark in der Nähe von Glina mit Spielplätzen und Erholungsbereichen.",
+                  "category": "park",
+                  "coords": [
+                        26.167411,
+                        44.420747
+                  ]
+            },
+            {
+                  "name": "Conacul Cantacuzino",
+                  "text": "Ein historisches Herrenhaus, das einst der einflussreichen Cantacuzino-Familie gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        26.160427,
+                        44.410777
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "Ein Denkmal in Glina, das Papst Johannes Paul II. gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "Dragon Boat",
+                  "text": "Eine Freizeitattraktion in Glina, die Aktivitäten auf dem Wasser anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.157205,
+                        44.422799
+                  ]
             }
       ],
       "hu": [
@@ -24373,6 +25187,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.159568,
                         44.417735
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vacaresti",
+                  "text": "Kiterjedt természetvédelmi terület és vizes élőhely, amelyet gyakran „Bukarest-deltának” neveznek.",
+                  "category": "natural",
+                  "coords": [
+                        26.133117,
+                        44.399344
+                  ]
+            },
+            {
+                  "name": "Parcul Alexandru Ioan Cuza",
+                  "text": "A régió egyik legnagyobb parkja, amely taváról és kiterjedt zöldterületeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.155374,
+                        44.420523
+                  ]
+            },
+            {
+                  "name": "Parcul Titanel",
+                  "text": "Népszerű városi park Glina közelében, játszóterekkel és pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        26.167411,
+                        44.420747
+                  ]
+            },
+            {
+                  "name": "Conacul Cantacuzino",
+                  "text": "Történelmi udvarház, amely egykor a befolyásos Cantacuzino család tulajdona volt.",
+                  "category": "historical",
+                  "coords": [
+                        26.160427,
+                        44.410777
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "II. János Pál pápának szentelt emlékmű Glinában.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "Dragon Boat",
+                  "text": "Szabadidős látványosság Glinában, amely vízi tevékenységeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.157205,
+                        44.422799
                   ]
             }
       ],
@@ -24557,6 +25425,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.159568,
                         44.417735
                   ]
+            },
+            {
+                  "name": "Parcul Natural Vacaresti",
+                  "text": "O rezervație naturală vastă și zonă umedă, supranumită adesea „Delta Bucureștiului”.",
+                  "category": "natural",
+                  "coords": [
+                        26.133117,
+                        44.399344
+                  ]
+            },
+            {
+                  "name": "Parcul Alexandru Ioan Cuza",
+                  "text": "Unul dintre cele mai mari parcuri din regiune, cunoscut pentru lacul său și spațiile verzi vaste.",
+                  "category": "park",
+                  "coords": [
+                        26.155374,
+                        44.420523
+                  ]
+            },
+            {
+                  "name": "Parcul Titanel",
+                  "text": "Un parc urban popular în apropiere de Glina, cu locuri de joacă și zone de relaxare.",
+                  "category": "park",
+                  "coords": [
+                        26.167411,
+                        44.420747
+                  ]
+            },
+            {
+                  "name": "Conacul Cantacuzino",
+                  "text": "Un conac istoric care a aparținut cândva influentei familii Cantacuzino.",
+                  "category": "historical",
+                  "coords": [
+                        26.160427,
+                        44.410777
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "Un monument din Glina dedicat Papei Ioan Paul al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "Dragon Boat",
+                  "text": "O atracție de agrement în Glina, care oferă activități pe apă.",
+                  "category": "landmark",
+                  "coords": [
+                        26.157205,
+                        44.422799
+                  ]
             }
       ],
       "en": [
@@ -24739,6 +25661,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.159568,
                         44.417735
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Vacaresti",
+                  "text": "A vast nature reserve and wetland area, often nicknamed the \"Bucharest Delta\".",
+                  "category": "natural",
+                  "coords": [
+                        26.133117,
+                        44.399344
+                  ]
+            },
+            {
+                  "name": "Parcul Alexandru Ioan Cuza",
+                  "text": "One of the largest parks in the region, known for its lake and expansive green spaces.",
+                  "category": "park",
+                  "coords": [
+                        26.155374,
+                        44.420523
+                  ]
+            },
+            {
+                  "name": "Parcul Titanel",
+                  "text": "A popular urban park near Glina, featuring playgrounds and relaxation areas.",
+                  "category": "park",
+                  "coords": [
+                        26.167411,
+                        44.420747
+                  ]
+            },
+            {
+                  "name": "Conacul Cantacuzino",
+                  "text": "A historic manor that once belonged to the influential Cantacuzino family.",
+                  "category": "historical",
+                  "coords": [
+                        26.160427,
+                        44.410777
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "A monument in Glina dedicated to Pope John Paul II.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "Dragon Boat",
+                  "text": "A leisure attraction in Glina offering water-based activities.",
+                  "category": "landmark",
+                  "coords": [
+                        26.157205,
+                        44.422799
                   ]
             }
       ]
@@ -24952,10 +25928,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-dragomiresti-vale-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Conacul Grigore Gigurtu",
+                  "text": "Ein historisches Herrenhaus in Dragomirești-Vale, das einst der Familie Gigurtu gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        25.880666,
+                        44.441396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conacul Grigore Gigurtu",
+                  "text": "Történelmi kúria Dragomirești-Vale településen, amely egykor a Gigurtu családé volt.",
+                  "category": "historical",
+                  "coords": [
+                        25.880666,
+                        44.441396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Grigore Gigurtu",
+                  "text": "Conac istoric în Dragomirești-Vale, care a aparținut familiei politicianului Grigore Gigurtu.",
+                  "category": "historical",
+                  "coords": [
+                        25.880666,
+                        44.441396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conacul Grigore Gigurtu",
+                  "text": "A historic manor house in Dragomirești-Vale, formerly belonging to the Gigurtu family.",
+                  "category": "historical",
+                  "coords": [
+                        25.880666,
+                        44.441396
+                  ]
+            }
+      ]
 }
   },
   {

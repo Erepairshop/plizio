@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const denmarkNatureV2: POI[] = [
 
   {
-    id: "denmark-vildmose-nature-v2",
+    id: "denmark-vildmose-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stengran",
+                  "text": "Eine archäologische Stätte im Naturschutzgebiet Lille Vildmose.",
+                  "category": "historical",
+                  "coords": [
+                        10.23239,
+                        56.90771
+                  ]
+            },
+            {
+                  "name": "Remisen Dokkedal",
+                  "text": "Ein kleines Museum in Dokkedal, das in einem ehemaligen Lokschuppen untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.253174,
+                        56.903211
+                  ]
+            },
+            {
+                  "name": "Mulbjerge",
+                  "text": "Ein Hügelgebiet mit Aussichtspunkten über das Kattegat und Lille Vildmose.",
+                  "category": "natural",
+                  "coords": [
+                        10.258936,
+                        56.907906
+                  ]
+            },
+            {
+                  "name": "Dokkedal Kirke",
+                  "text": "Die Dorfkirche von Dokkedal, ein schlichtes lutherisches Kirchengebäude.",
+                  "category": "religious",
+                  "coords": [
+                        10.254143,
+                        56.90095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stengran",
+                  "text": "Régészeti lelőhely a Lille Vildmose természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        10.23239,
+                        56.90771
+                  ]
+            },
+            {
+                  "name": "Remisen Dokkedal",
+                  "text": "Dokkedali múzeum, amely egy egykori mozdonyfűtőházban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.253174,
+                        56.903211
+                  ]
+            },
+            {
+                  "name": "Mulbjerge",
+                  "text": "Dombvidék, ahonnan kilátás nyílik a Kattegat-szorosra és a Lille Vildmose területére.",
+                  "category": "natural",
+                  "coords": [
+                        10.258936,
+                        56.907906
+                  ]
+            },
+            {
+                  "name": "Dokkedal Kirke",
+                  "text": "Dokkedal falu temploma, egy egyszerű evangélikus templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        10.254143,
+                        56.90095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stengran",
+                  "text": "Un sit arheologic situat în rezervația naturală Lille Vildmose.",
+                  "category": "historical",
+                  "coords": [
+                        10.23239,
+                        56.90771
+                  ]
+            },
+            {
+                  "name": "Remisen Dokkedal",
+                  "text": "Un mic muzeu din Dokkedal, găzduit într-o fostă remiză de locomotive.",
+                  "category": "museum",
+                  "coords": [
+                        10.253174,
+                        56.903211
+                  ]
+            },
+            {
+                  "name": "Mulbjerge",
+                  "text": "O zonă deluroasă ce oferă puncte de observație asupra strâmtorii Kattegat și Lille Vildmose.",
+                  "category": "natural",
+                  "coords": [
+                        10.258936,
+                        56.907906
+                  ]
+            },
+            {
+                  "name": "Dokkedal Kirke",
+                  "text": "Biserica din satul Dokkedal, un edificiu religios simplu.",
+                  "category": "religious",
+                  "coords": [
+                        10.254143,
+                        56.90095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stengran",
+                  "text": "An archaeological site located within the Lille Vildmose nature reserve.",
+                  "category": "historical",
+                  "coords": [
+                        10.23239,
+                        56.90771
+                  ]
+            },
+            {
+                  "name": "Remisen Dokkedal",
+                  "text": "A small museum in Dokkedal housed in a former engine shed.",
+                  "category": "museum",
+                  "coords": [
+                        10.253174,
+                        56.903211
+                  ]
+            },
+            {
+                  "name": "Mulbjerge",
+                  "text": "A hilly area providing viewpoints over the Kattegat sea and the Lille Vildmose landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.258936,
+                        56.907906
+                  ]
+            },
+            {
+                  "name": "Dokkedal Kirke",
+                  "text": "The village church of Dokkedal, a modest local place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        10.254143,
+                        56.90095
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DK",
     name: { de: "Lille Vildmose", hu: "Lille Vildmose", ro: "Lille Vildmose", en: "Lille Vildmose" },
@@ -58,6 +211,69 @@ export const denmarkNatureV2: POI[] = [
                         8.503043,
                         55.931594
                   ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Eine archäologische Stätte mit historischen Grabhügeln am Fluss Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.561321,
+                        55.89611
+                  ]
+            },
+            {
+                  "name": "Ringhøj",
+                  "text": "Ein historischer Grabhügel in der Nähe des Flusses Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.57131,
+                        55.955204
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Eine archäologische Fundstätte in der dänischen Region am Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.567925,
+                        55.920867
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Ein archäologisch bedeutsamer Hügel in der Landschaft am Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.577099,
+                        55.94741
+                  ]
+            },
+            {
+                  "name": "Grønhøje",
+                  "text": "Eine Gruppe historischer Grabhügel in der Nähe des Skjern-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        8.609217,
+                        55.926569
+                  ]
+            },
+            {
+                  "name": "Skjern Enge",
+                  "text": "Ein großes Naturreservat und Feuchtgebiet entlang des Flusses Skjern Å.",
+                  "category": "natural",
+                  "coords": [
+                        8.497661,
+                        55.923405
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Eine historische archäologische Stätte am Fluss Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.53498,
+                        55.94708
+                  ]
             }
       ],
       "hu": [
@@ -68,6 +284,69 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         8.503043,
                         55.931594
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Régészeti lelőhely történelmi sírhalmokkal a Skjern-folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        8.561321,
+                        55.89611
+                  ]
+            },
+            {
+                  "name": "Ringhøj",
+                  "text": "Történelmi sírhalom a Skjern-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.57131,
+                        55.955204
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Régészeti lelőhely a dániai Skjern Å régióban.",
+                  "category": "historical",
+                  "coords": [
+                        8.567925,
+                        55.920867
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Régészeti szempontból jelentős domb a Skjern Å vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.577099,
+                        55.94741
+                  ]
+            },
+            {
+                  "name": "Grønhøje",
+                  "text": "Történelmi sírhalmok csoportja a Skjern-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.609217,
+                        55.926569
+                  ]
+            },
+            {
+                  "name": "Skjern Enge",
+                  "text": "Egy nagy természetvédelmi terület és mocsárvidék a Skjern-folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        8.497661,
+                        55.923405
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Történelmi régészeti lelőhely a Skjern-folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        8.53498,
+                        55.94708
                   ]
             }
       ],
@@ -80,6 +359,69 @@ export const denmarkNatureV2: POI[] = [
                         8.503043,
                         55.931594
                   ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "Un sit arheologic cu tumuli istorici lângă râul Skjern.",
+                  "category": "historical",
+                  "coords": [
+                        8.561321,
+                        55.89611
+                  ]
+            },
+            {
+                  "name": "Ringhøj",
+                  "text": "Un tumul istoric situat în apropierea râului Skjern.",
+                  "category": "historical",
+                  "coords": [
+                        8.57131,
+                        55.955204
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Un sit arheologic în regiunea daneză de lângă Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.567925,
+                        55.920867
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "Un dâmb de importanță arheologică în peisajul de lângă Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.577099,
+                        55.94741
+                  ]
+            },
+            {
+                  "name": "Grønhøje",
+                  "text": "Un grup de tumuli istorici în apropierea râului Skjern.",
+                  "category": "historical",
+                  "coords": [
+                        8.609217,
+                        55.926569
+                  ]
+            },
+            {
+                  "name": "Skjern Enge",
+                  "text": "O rezervă naturală mare și o zonă umedă de-a lungul râului Skjern.",
+                  "category": "natural",
+                  "coords": [
+                        8.497661,
+                        55.923405
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Un sit arheologic istoric lângă râul Skjern.",
+                  "category": "historical",
+                  "coords": [
+                        8.53498,
+                        55.94708
+                  ]
             }
       ],
       "en": [
@@ -90,6 +432,69 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         8.503043,
                         55.931594
+                  ]
+            },
+            {
+                  "name": "Grønhøj",
+                  "text": "An archaeological site featuring historic burial mounds near the Skjern River.",
+                  "category": "historical",
+                  "coords": [
+                        8.561321,
+                        55.89611
+                  ]
+            },
+            {
+                  "name": "Ringhøj",
+                  "text": "A historic burial mound located near the Skjern River.",
+                  "category": "historical",
+                  "coords": [
+                        8.57131,
+                        55.955204
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "An archaeological site in the Danish region near Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.567925,
+                        55.920867
+                  ]
+            },
+            {
+                  "name": "Møllehøj",
+                  "text": "An archaeologically significant mound in the landscape near Skjern Å.",
+                  "category": "historical",
+                  "coords": [
+                        8.577099,
+                        55.94741
+                  ]
+            },
+            {
+                  "name": "Grønhøje",
+                  "text": "A group of historic burial mounds near the Skjern River.",
+                  "category": "historical",
+                  "coords": [
+                        8.609217,
+                        55.926569
+                  ]
+            },
+            {
+                  "name": "Skjern Enge",
+                  "text": "A large nature reserve and wetland area along the Skjern River.",
+                  "category": "natural",
+                  "coords": [
+                        8.497661,
+                        55.923405
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "A historic archaeological site by the Skjern River.",
+                  "category": "historical",
+                  "coords": [
+                        8.53498,
+                        55.94708
                   ]
             }
       ]
@@ -138,7 +543,304 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-skjern-aa-nature-v2.webp",
   },
   {
-    id: "denmark-tystrup-lake-nature-v2",
+    id: "denmark-tystrup-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mølsøvdys",
+                  "text": "Eine prähistorische Megalithanlage in der Nähe des Tystrup-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        11.604097,
+                        55.377691
+                  ]
+            },
+            {
+                  "name": "Tornhøj",
+                  "text": "Ein archäologischer Fundort mit prähistorischen Grabhügeln am Tystrup-See.",
+                  "category": "historical",
+                  "coords": [
+                        11.693733,
+                        55.38645
+                  ]
+            },
+            {
+                  "name": "Tovetittehøj",
+                  "text": "Ein markanter Grabhügel aus der Vorzeit in der Nähe des Tystrup-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        11.626586,
+                        55.376667
+                  ]
+            },
+            {
+                  "name": "Det lille Kunstnerhjem",
+                  "text": "Ein kleines Museum am Tystrup-See, das dem Leben und Werk lokaler Künstler gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.632836,
+                        55.37326
+                  ]
+            },
+            {
+                  "name": "Kongsgaarden",
+                  "text": "Ein lokales Museum in einem historischen Bauernhaus am Tystrup-See.",
+                  "category": "museum",
+                  "coords": [
+                        11.62325,
+                        55.381201
+                  ]
+            },
+            {
+                  "name": "Næsbyholm",
+                  "text": "Ein historisches Herrenhaus auf der Insel Seeland in der Nähe des Tystrup-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        11.602065,
+                        55.36855
+                  ]
+            },
+            {
+                  "name": "Vester Broby Kirke",
+                  "text": "Eine mittelalterliche Dorfkirche in Vester Broby, bekannt für ihre Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        11.620878,
+                        55.3802
+                  ]
+            },
+            {
+                  "name": "Næsby Kirke",
+                  "text": "Die örtliche Kirche von Næsby in der malerischen Umgebung des Tystrup-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        11.624276,
+                        55.372386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mølsøvdys",
+                  "text": "Prehisztorikus megalitikus emlékhely a Tystrup-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.604097,
+                        55.377691
+                  ]
+            },
+            {
+                  "name": "Tornhøj",
+                  "text": "Régészeti lelőhely prehisztorikus sírhalmokkal a Tystrup-tónál.",
+                  "category": "historical",
+                  "coords": [
+                        11.693733,
+                        55.38645
+                  ]
+            },
+            {
+                  "name": "Tovetittehøj",
+                  "text": "Jellegzetes prehisztorikus sírhalom a Tystrup-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.626586,
+                        55.376667
+                  ]
+            },
+            {
+                  "name": "Det lille Kunstnerhjem",
+                  "text": "Kis múzeum a Tystrup-tónál, amelyet helyi művészek életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        11.632836,
+                        55.37326
+                  ]
+            },
+            {
+                  "name": "Kongsgaarden",
+                  "text": "Helyi múzeum egy történelmi parasztházban a Tystrup-tónál.",
+                  "category": "museum",
+                  "coords": [
+                        11.62325,
+                        55.381201
+                  ]
+            },
+            {
+                  "name": "Næsbyholm",
+                  "text": "Történelmi udvarház Sjælland szigetén, a Tystrup-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.602065,
+                        55.36855
+                  ]
+            },
+            {
+                  "name": "Vester Broby Kirke",
+                  "text": "Középkori falusi templom Vester Broby-ban, amely freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.620878,
+                        55.3802
+                  ]
+            },
+            {
+                  "name": "Næsby Kirke",
+                  "text": "Næsby helyi temploma a Tystrup-tó festői környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        11.624276,
+                        55.372386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mølsøvdys",
+                  "text": "Un sit megalitic preistoric situat lângă Lacul Tystrup.",
+                  "category": "historical",
+                  "coords": [
+                        11.604097,
+                        55.377691
+                  ]
+            },
+            {
+                  "name": "Tornhøj",
+                  "text": "Un sit arheologic cu tumuli preistorici lângă Lacul Tystrup.",
+                  "category": "historical",
+                  "coords": [
+                        11.693733,
+                        55.38645
+                  ]
+            },
+            {
+                  "name": "Tovetittehøj",
+                  "text": "Un tumul preistoric proeminent situat lângă Lacul Tystrup.",
+                  "category": "historical",
+                  "coords": [
+                        11.626586,
+                        55.376667
+                  ]
+            },
+            {
+                  "name": "Det lille Kunstnerhjem",
+                  "text": "Un mic muzeu lângă Lacul Tystrup dedicat vieții și operei artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        11.632836,
+                        55.37326
+                  ]
+            },
+            {
+                  "name": "Kongsgaarden",
+                  "text": "Un muzeu local amenajat într-o fermă istorică lângă Lacul Tystrup.",
+                  "category": "museum",
+                  "coords": [
+                        11.62325,
+                        55.381201
+                  ]
+            },
+            {
+                  "name": "Næsbyholm",
+                  "text": "Un conac istoric pe insula Seeland, situat în apropierea Lacului Tystrup.",
+                  "category": "historical",
+                  "coords": [
+                        11.602065,
+                        55.36855
+                  ]
+            },
+            {
+                  "name": "Vester Broby Kirke",
+                  "text": "O biserică medievală în Vester Broby, cunoscută pentru frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        11.620878,
+                        55.3802
+                  ]
+            },
+            {
+                  "name": "Næsby Kirke",
+                  "text": "Biserica locală din Næsby, situată în cadrul pitoresc al Lacului Tystrup.",
+                  "category": "religious",
+                  "coords": [
+                        11.624276,
+                        55.372386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mølsøvdys",
+                  "text": "A prehistoric megalithic site located near Tystrup Lake.",
+                  "category": "historical",
+                  "coords": [
+                        11.604097,
+                        55.377691
+                  ]
+            },
+            {
+                  "name": "Tornhøj",
+                  "text": "An archaeological site featuring prehistoric burial mounds by Tystrup Lake.",
+                  "category": "historical",
+                  "coords": [
+                        11.693733,
+                        55.38645
+                  ]
+            },
+            {
+                  "name": "Tovetittehøj",
+                  "text": "A prominent prehistoric burial mound located near Tystrup Lake.",
+                  "category": "historical",
+                  "coords": [
+                        11.626586,
+                        55.376667
+                  ]
+            },
+            {
+                  "name": "Det lille Kunstnerhjem",
+                  "text": "A small museum by Tystrup Lake dedicated to the life and work of local artists.",
+                  "category": "museum",
+                  "coords": [
+                        11.632836,
+                        55.37326
+                  ]
+            },
+            {
+                  "name": "Kongsgaarden",
+                  "text": "A local museum housed in a historical farmhouse near Tystrup Lake.",
+                  "category": "museum",
+                  "coords": [
+                        11.62325,
+                        55.381201
+                  ]
+            },
+            {
+                  "name": "Næsbyholm",
+                  "text": "A historical manor house on the island of Zealand, located near Tystrup Lake.",
+                  "category": "historical",
+                  "coords": [
+                        11.602065,
+                        55.36855
+                  ]
+            },
+            {
+                  "name": "Vester Broby Kirke",
+                  "text": "A medieval village church in Vester Broby, known for its frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        11.620878,
+                        55.3802
+                  ]
+            },
+            {
+                  "name": "Næsby Kirke",
+                  "text": "The local church of Næsby, situated in the scenic surroundings of Tystrup Lake.",
+                  "category": "religious",
+                  "coords": [
+                        11.624276,
+                        55.372386
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DK",
     name: { de: "Tystrup See", hu: "Tystrup-tó", ro: "Lacul Tystrup", en: "Tystrup Lake" },
@@ -183,7 +885,268 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-tystrup-lake-nature-v2.webp",
   },
   {
-    id: "denmark-falster-coastline-nature-v2",
+    id: "denmark-falster-coastline-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Eine archäologische Ausgrabungsstätte mit einem antiken Grabhügel auf Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Ein prähistorischer Grabhügel an der Küste von Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke in der Region Falster ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "Eine traditionelle dänische Dorfkirche mit charakteristischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "Eine moderne Kirche auf der Insel Falster, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "Eine historische Kirche in Sønder Alslev, bekannt für ihre Fresken.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "Eine mittelalterliche Kirche mit bedeutenden Kalkmalereien auf Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Régészeti lelőhely egy ősi sírhalommal Falster szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Egy őskori sírhalom Falster tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "Művészeti galéria, amely kortárs műveket mutat be Falster régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "Egy hagyományos dán falusi templom jellegzetes építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "Egy modern templom Falster szigetén, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "Sønder Alslev történelmi temploma, amely freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "Középkori templom jelentős mészfestményekkel Falster szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "Un sit arheologic cu un tumul antic pe insula Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "Un tumul preistoric pe coasta insulei Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "O galerie de artă care expune lucrări contemporane în regiunea Falster.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "O biserică tradițională daneză de sat, cu o arhitectură caracteristică.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "O biserică modernă pe insula Falster, care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "O biserică istorică în Sønder Alslev, cunoscută pentru frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "O biserică medievală cu picturi murale importante pe insula Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Præstehøjen",
+                  "text": "An archaeological site featuring an ancient burial mound on Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.953259,
+                        54.738149
+                  ]
+            },
+            {
+                  "name": "Prejehøj",
+                  "text": "A prehistoric burial mound located on the coastline of Falster.",
+                  "category": "historical",
+                  "coords": [
+                        11.942508,
+                        54.720461
+                  ]
+            },
+            {
+                  "name": "Galleri Matthies",
+                  "text": "An art gallery exhibiting contemporary works in the Falster region.",
+                  "category": "museum",
+                  "coords": [
+                        11.991746,
+                        54.767564
+                  ]
+            },
+            {
+                  "name": "Idestrup Kirke",
+                  "text": "A traditional Danish village church with characteristic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.957987,
+                        54.742383
+                  ]
+            },
+            {
+                  "name": "Lindeskovkirken",
+                  "text": "A modern church on the island of Falster serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        11.901208,
+                        54.752609
+                  ]
+            },
+            {
+                  "name": "Sønder Alslev Kirke",
+                  "text": "A historical church in Sønder Alslev, known for its frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        12.002744,
+                        54.762376
+                  ]
+            },
+            {
+                  "name": "Sønder Kirkeby Kirke",
+                  "text": "A medieval church with significant chalk paintings on the island of Falster.",
+                  "category": "religious",
+                  "coords": [
+                        11.977478,
+                        54.770377
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Küste von Falster", hu: "Falsteri partvidék", ro: "Coasta Falster", en: "Falster Coastline" },
@@ -228,7 +1191,268 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-falster-coastline-nature-v2.webp",
   },
   {
-    id: "denmark-nors-so-nature-v2",
+    id: "denmark-nors-so-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nørre Trabshøi",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Nors-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        8.517038,
+                        56.968453
+                  ]
+            },
+            {
+                  "name": "Lille Vandethøie",
+                  "text": "Ein antiker Grabhügel in der archäologischen Stätte am Nors-See.",
+                  "category": "historical",
+                  "coords": [
+                        8.529149,
+                        56.988296
+                  ]
+            },
+            {
+                  "name": "Østervandet Høi",
+                  "text": "Ein archäologischer Grabhügel in der Nähe des Nors-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        8.532311,
+                        56.986818
+                  ]
+            },
+            {
+                  "name": "Thinghøi",
+                  "text": "Ein historischer Grabhügel in der archäologischen Zone von Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.53562,
+                        56.978667
+                  ]
+            },
+            {
+                  "name": "Grønhøi",
+                  "text": "Ein antiker Hügel und archäologische Stätte am Nors-See.",
+                  "category": "historical",
+                  "coords": [
+                        8.532956,
+                        56.974611
+                  ]
+            },
+            {
+                  "name": "Kjeldhøj",
+                  "text": "Ein prähistorischer Grabhügel in der Umgebung des Nors-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        8.541062,
+                        56.972764
+                  ]
+            },
+            {
+                  "name": "Tvillingshøi",
+                  "text": "Ein archäologischer Grabhügel in der Nähe des Nors-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        8.543378,
+                        56.963656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nørre Trabshøi",
+                  "text": "Prehisztorikus sírhalom a Nors-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.517038,
+                        56.968453
+                  ]
+            },
+            {
+                  "name": "Lille Vandethøie",
+                  "text": "Ősi sírhalom a Nors-tó melletti régészeti területen.",
+                  "category": "historical",
+                  "coords": [
+                        8.529149,
+                        56.988296
+                  ]
+            },
+            {
+                  "name": "Østervandet Høi",
+                  "text": "Régészeti sírhalom a Nors-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.532311,
+                        56.986818
+                  ]
+            },
+            {
+                  "name": "Thinghøi",
+                  "text": "Történelmi sírhalom a Nors-tó régészeti övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        8.53562,
+                        56.978667
+                  ]
+            },
+            {
+                  "name": "Grønhøi",
+                  "text": "Ősi halom és régészeti lelőhely a Nors-tónál.",
+                  "category": "historical",
+                  "coords": [
+                        8.532956,
+                        56.974611
+                  ]
+            },
+            {
+                  "name": "Kjeldhøj",
+                  "text": "Prehisztorikus sírhalom a Nors-tó környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.541062,
+                        56.972764
+                  ]
+            },
+            {
+                  "name": "Tvillingshøi",
+                  "text": "Régészeti sírhalom a Nors-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.543378,
+                        56.963656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nørre Trabshøi",
+                  "text": "Un tumul preistoric situat în apropierea lacului Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.517038,
+                        56.968453
+                  ]
+            },
+            {
+                  "name": "Lille Vandethøie",
+                  "text": "Un vechi tumul în situl arheologic de lângă lacul Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.529149,
+                        56.988296
+                  ]
+            },
+            {
+                  "name": "Østervandet Høi",
+                  "text": "Un tumul arheologic situat în apropierea lacului Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.532311,
+                        56.986818
+                  ]
+            },
+            {
+                  "name": "Thinghøi",
+                  "text": "Un tumul istoric în zona arheologică de la lacul Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.53562,
+                        56.978667
+                  ]
+            },
+            {
+                  "name": "Grønhøi",
+                  "text": "Un tumul vechi și sit arheologic la lacul Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.532956,
+                        56.974611
+                  ]
+            },
+            {
+                  "name": "Kjeldhøj",
+                  "text": "Un tumul preistoric în împrejurimile lacului Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.541062,
+                        56.972764
+                  ]
+            },
+            {
+                  "name": "Tvillingshøi",
+                  "text": "Un tumul arheologic situat în apropierea lacului Nors.",
+                  "category": "historical",
+                  "coords": [
+                        8.543378,
+                        56.963656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nørre Trabshøi",
+                  "text": "A prehistoric burial mound located near Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.517038,
+                        56.968453
+                  ]
+            },
+            {
+                  "name": "Lille Vandethøie",
+                  "text": "An ancient burial mound in the archaeological site by Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.529149,
+                        56.988296
+                  ]
+            },
+            {
+                  "name": "Østervandet Høi",
+                  "text": "An archaeological burial mound situated near Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.532311,
+                        56.986818
+                  ]
+            },
+            {
+                  "name": "Thinghøi",
+                  "text": "A historical burial mound in the archaeological zone of Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.53562,
+                        56.978667
+                  ]
+            },
+            {
+                  "name": "Grønhøi",
+                  "text": "An ancient mound and archaeological site at Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.532956,
+                        56.974611
+                  ]
+            },
+            {
+                  "name": "Kjeldhøj",
+                  "text": "A prehistoric burial mound in the surroundings of Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.541062,
+                        56.972764
+                  ]
+            },
+            {
+                  "name": "Tvillingshøi",
+                  "text": "An archaeological burial mound located near Nors Lake.",
+                  "category": "historical",
+                  "coords": [
+                        8.543378,
+                        56.963656
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DK",
     name: { de: "Nors See", hu: "Nors-tó", ro: "Lacul Nors", en: "Nors Lake" },
@@ -273,7 +1497,196 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-nors-so-nature-v2.webp",
   },
   {
-    id: "denmark-raabjerg-mile-nature-v2",
+    id: "denmark-raabjerg-mile-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hans Nielsen - Speedway Legend Exhibition",
+                  "text": "Eine Museumsausstellung, die der Speedway-Legende Hans Nielsen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.430861,
+                        57.622836
+                  ]
+            },
+            {
+                  "name": "Redningshuset",
+                  "text": "Ein historisches Rettungshaus, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        10.388948,
+                        57.66144
+                  ]
+            },
+            {
+                  "name": "Råbjerg Mile",
+                  "text": "Dänemarks größte wandernde Sanddüne an der Nordspitze Jütlands.",
+                  "category": "landmark",
+                  "coords": [
+                        10.40842,
+                        57.648743
+                  ]
+            },
+            {
+                  "name": "Råbjerg Stene",
+                  "text": "Ein markantes Steinfeld in der Nähe der Wanderdüne Råbjerg Mile.",
+                  "category": "landmark",
+                  "coords": [
+                        10.342545,
+                        57.63852
+                  ]
+            },
+            {
+                  "name": "Hulsig Kirke",
+                  "text": "Eine weiße Dorfkirche in der Nähe der dänischen Küste.",
+                  "category": "religious",
+                  "coords": [
+                        10.459583,
+                        57.657465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hans Nielsen - Speedway Legend Exhibition",
+                  "text": "Hans Nielsen speedway-legendának szentelt múzeumi kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        10.430861,
+                        57.622836
+                  ]
+            },
+            {
+                  "name": "Redningshuset",
+                  "text": "Egy történelmi mentőház, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        10.388948,
+                        57.66144
+                  ]
+            },
+            {
+                  "name": "Råbjerg Mile",
+                  "text": "Dánia legnagyobb vándorló homokdűnéje Jütland északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.40842,
+                        57.648743
+                  ]
+            },
+            {
+                  "name": "Råbjerg Stene",
+                  "text": "Jellegzetes kőmező a Råbjerg Mile vándorló dűne közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.342545,
+                        57.63852
+                  ]
+            },
+            {
+                  "name": "Hulsig Kirke",
+                  "text": "Egy fehér falusi templom a dán tengerpart közelében.",
+                  "category": "religious",
+                  "coords": [
+                        10.459583,
+                        57.657465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hans Nielsen - Speedway Legend Exhibition",
+                  "text": "O expoziție muzeală dedicată legendei speedway-ului Hans Nielsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.430861,
+                        57.622836
+                  ]
+            },
+            {
+                  "name": "Redningshuset",
+                  "text": "O fostă stație de salvare istorică, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        10.388948,
+                        57.66144
+                  ]
+            },
+            {
+                  "name": "Råbjerg Mile",
+                  "text": "Cea mai mare dună de nisip mișcătoare din Danemarca, în nordul Iutlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        10.40842,
+                        57.648743
+                  ]
+            },
+            {
+                  "name": "Råbjerg Stene",
+                  "text": "Un câmp de pietre distinctiv în apropierea dunei Råbjerg Mile.",
+                  "category": "landmark",
+                  "coords": [
+                        10.342545,
+                        57.63852
+                  ]
+            },
+            {
+                  "name": "Hulsig Kirke",
+                  "text": "O biserică albă de sat situată aproape de coasta daneză.",
+                  "category": "religious",
+                  "coords": [
+                        10.459583,
+                        57.657465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hans Nielsen - Speedway Legend Exhibition",
+                  "text": "A museum exhibition dedicated to the speedway legend Hans Nielsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.430861,
+                        57.622836
+                  ]
+            },
+            {
+                  "name": "Redningshuset",
+                  "text": "A historic rescue house that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.388948,
+                        57.66144
+                  ]
+            },
+            {
+                  "name": "Råbjerg Mile",
+                  "text": "Denmark's largest moving sand dune, located at the northern tip of Jutland.",
+                  "category": "landmark",
+                  "coords": [
+                        10.40842,
+                        57.648743
+                  ]
+            },
+            {
+                  "name": "Råbjerg Stene",
+                  "text": "A distinctive stone field located near the Råbjerg Mile moving dune.",
+                  "category": "landmark",
+                  "coords": [
+                        10.342545,
+                        57.63852
+                  ]
+            },
+            {
+                  "name": "Hulsig Kirke",
+                  "text": "A white village church located near the Danish coast.",
+                  "category": "religious",
+                  "coords": [
+                        10.459583,
+                        57.657465
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Wanderdüne Råbjerg Mile", hu: "Råbjerg Mile vándordűne", ro: "Duna Råbjerg Mile", en: "Råbjerg Mile moving dune" },
@@ -318,7 +1731,124 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-raabjerg-mile-nature-v2.webp",
   },
   {
-    id: "denmark-gudenaa-delta-nature-v2",
+    id: "denmark-gudenaa-delta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Den Gamle Station",
+                  "text": "Ein Museum, das in einem ehemaligen Bahnhofsgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.320402,
+                        56.464036
+                  ]
+            },
+            {
+                  "name": "Ørsted Kirke",
+                  "text": "Eine historische Kirche in der Region Gudenå Delta.",
+                  "category": "religious",
+                  "coords": [
+                        10.338478,
+                        56.498358
+                  ]
+            },
+            {
+                  "name": "Vejlby Kirke",
+                  "text": "Ein denkmalgeschütztes Kirchengebäude in der Nähe von Allingåbro.",
+                  "category": "religious",
+                  "coords": [
+                        10.337692,
+                        56.468052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Den Gamle Station",
+                  "text": "Egy korábbi vasútállomás épületében berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.320402,
+                        56.464036
+                  ]
+            },
+            {
+                  "name": "Ørsted Kirke",
+                  "text": "Történelmi templom a Gudenå-delta régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        10.338478,
+                        56.498358
+                  ]
+            },
+            {
+                  "name": "Vejlby Kirke",
+                  "text": "Műemléki templomépület Allingåbro közelében.",
+                  "category": "religious",
+                  "coords": [
+                        10.337692,
+                        56.468052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Den Gamle Station",
+                  "text": "Un muzeu situat în clădirea unei foste gări.",
+                  "category": "museum",
+                  "coords": [
+                        10.320402,
+                        56.464036
+                  ]
+            },
+            {
+                  "name": "Ørsted Kirke",
+                  "text": "O biserică istorică în regiunea Deltei Gudenå.",
+                  "category": "religious",
+                  "coords": [
+                        10.338478,
+                        56.498358
+                  ]
+            },
+            {
+                  "name": "Vejlby Kirke",
+                  "text": "O clădire bisericească istorică lângă Allingåbro.",
+                  "category": "religious",
+                  "coords": [
+                        10.337692,
+                        56.468052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Den Gamle Station",
+                  "text": "A museum housed in a former railway station building.",
+                  "category": "museum",
+                  "coords": [
+                        10.320402,
+                        56.464036
+                  ]
+            },
+            {
+                  "name": "Ørsted Kirke",
+                  "text": "A historic church located in the Gudenå Delta region.",
+                  "category": "religious",
+                  "coords": [
+                        10.338478,
+                        56.498358
+                  ]
+            },
+            {
+                  "name": "Vejlby Kirke",
+                  "text": "A historic church building located near Allingåbro.",
+                  "category": "religious",
+                  "coords": [
+                        10.337692,
+                        56.468052
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DK",
     name: { de: "Gudenå Delta", hu: "Gudenå-delta", ro: "Delta râului Gudenå", en: "Gudenå Delta" },
@@ -363,7 +1893,52 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-gudenaa-delta-nature-v2.webp",
   },
   {
-    id: "denmark-hjelm-hage-nature-v2",
+    id: "denmark-hjelm-hage-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hjelm Fyr",
+                  "text": "Ein historischer Leuchtturm auf der kleinen dänischen Insel Hjelm.",
+                  "category": "landmark",
+                  "coords": [
+                        10.804875,
+                        56.133301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hjelm Fyr",
+                  "text": "Történelmi világítótorony a kis dán szigeten, Hjelmen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.804875,
+                        56.133301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hjelm Fyr",
+                  "text": "Un far istoric situat pe mica insulă daneză Hjelm.",
+                  "category": "landmark",
+                  "coords": [
+                        10.804875,
+                        56.133301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hjelm Fyr",
+                  "text": "A historic lighthouse located on the small Danish island of Hjelm.",
+                  "category": "landmark",
+                  "coords": [
+                        10.804875,
+                        56.133301
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Hjelm Hage", hu: "Hjelm Hage", ro: "Hjelm Hage", en: "Hjelm Hage" },
@@ -408,7 +1983,268 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-hjelm-hage-nature-v2.webp",
   },
   {
-    id: "denmark-skanderborg-lake-nature-v2",
+    id: "denmark-skanderborg-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Eine archäologische Fundstätte in der Nähe des Skanderborg-Sees, die Einblicke in die dänische Geschichte bietet.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Ein historischer Ort am Skanderborg-See, an dem archäologische Überreste früherer Epochen entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Ein Museum in Skanderborg, das in ehemaligen Bunkern aus dem Zweiten Weltkrieg untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Eine bedeutende archäologische Stätte am Skanderborg-See, bestehend aus alten Grabhügeln.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Ein Museum am Skanderborg-See, das die Geschichte einer historischen Wassermühle und der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "Ein kleines Museum in Skanderborg, das sich der lokalen Kulturgeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "Ein Museum in Skanderborg, das Einblicke in die soziale Geschichte der Landsbyen-Sølund-Gemeinschaft bietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Régészeti lelőhely a Skanderborg-tó közelében, amely betekintést nyújt a dán történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Történelmi hely a Skanderborg-tónál, ahol korábbi korszakok régészeti maradványait fedezték fel.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Skanderborgi múzeum, amely a második világháborúból származó egykori bunkerekben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Jelentős régészeti lelőhely a Skanderborg-tónál, amely ősi sírhalmokból áll.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Múzeum a Skanderborg-tónál, amely egy történelmi vízimalom és a régió történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "Kisméretű múzeum Skanderborgban, amely a helyi kultúrtörténetnek szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "Múzeum Skanderborgban, amely betekintést nyújt a Landsbyen Sølund közösség társadalomtörténetébe.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "Un sit arheologic lângă lacul Skanderborg, care oferă informații despre istoria daneză.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "Un loc istoric de lângă lacul Skanderborg, unde au fost descoperite vestigii arheologice din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "Un muzeu în Skanderborg, găzduit în foste buncăre din cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "Un sit arheologic important de lângă lacul Skanderborg, constând în gorgane vechi.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "Un muzeu de lângă lacul Skanderborg, care prezintă istoria unei mori de apă istorice și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "Un mic muzeu în Skanderborg, dedicat istoriei culturale locale.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "Un muzeu în Skanderborg, care oferă o perspectivă asupra istoriei sociale a comunității Landsbyen Sølund.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faarbjerg",
+                  "text": "An archaeological site near Skanderborg Lake, providing insights into Danish history.",
+                  "category": "historical",
+                  "coords": [
+                        9.941098,
+                        56.001763
+                  ]
+            },
+            {
+                  "name": "Belravensknold",
+                  "text": "A historic site by Skanderborg Lake where archaeological remains from earlier eras have been discovered.",
+                  "category": "historical",
+                  "coords": [
+                        9.9348,
+                        56.055864
+                  ]
+            },
+            {
+                  "name": "Skanderborg Bunkerne",
+                  "text": "A museum in Skanderborg housed in former bunkers from the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        9.917827,
+                        56.021621
+                  ]
+            },
+            {
+                  "name": "Præstehøj",
+                  "text": "A significant archaeological site by Skanderborg Lake, consisting of ancient burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        9.924432,
+                        56.060096
+                  ]
+            },
+            {
+                  "name": "Vestermølle Museum",
+                  "text": "A museum by Skanderborg Lake showcasing the history of a historic watermill and the region.",
+                  "category": "museum",
+                  "coords": [
+                        9.958414,
+                        56.028476
+                  ]
+            },
+            {
+                  "name": "Perron1",
+                  "text": "A small museum in Skanderborg dedicated to local cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        9.92623,
+                        56.043585
+                  ]
+            },
+            {
+                  "name": "Landsbyen Sølunds Museum",
+                  "text": "A museum in Skanderborg providing insight into the social history of the Landsbyen Sølund community.",
+                  "category": "museum",
+                  "coords": [
+                        9.920982,
+                        56.028683
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DK",
     name: { de: "Skanderborg See", hu: "Skanderborg-tó", ro: "Lacul Skanderborg", en: "Skanderborg Lake" },
@@ -498,7 +2334,304 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-gribskov-nature-v2.webp",
   },
   {
-    id: "denmark-randers-fjord-nature-v2",
+    id: "denmark-randers-fjord-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lushøj",
+                  "text": "Ein alter Grabhügel in der malerischen Landschaft rund um den Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.212687,
+                        56.536785
+                  ]
+            },
+            {
+                  "name": "Stenhøj",
+                  "text": "Ein prähistorisches Steinmonument oder Hügelgrab in der Region Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.198573,
+                        56.543987
+                  ]
+            },
+            {
+                  "name": "Bavnehøj",
+                  "text": "Eine historische Hügelstätte am Randers Fjord, die in der Antike traditionell für Signalfeuer genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        10.188698,
+                        56.540349
+                  ]
+            },
+            {
+                  "name": "Daast",
+                  "text": "Eine erhaltene archäologische Stätte im Gebiet des Randers Fjord, die die frühe Geschichte Dänemarks widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        10.207883,
+                        56.544327
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Einer von mehreren alten Grabhügeln in der Region, die Einblicke in wikingerzeitliche oder ältere Kulturen bieten.",
+                  "category": "historical",
+                  "coords": [
+                        10.205029,
+                        56.542184
+                  ]
+            },
+            {
+                  "name": "Humblehøj",
+                  "text": "Ein historisches Hügelgrab oder eine Begräbnisstätte an den Ufern des Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.192773,
+                        56.554038
+                  ]
+            },
+            {
+                  "name": "Ilshøi",
+                  "text": "Eine archäologische Stätte am Randers Fjord, bestehend aus alten Erdstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        10.198068,
+                        56.565488
+                  ]
+            },
+            {
+                  "name": "Store Skiddenhøi",
+                  "text": "Ein markanter alter Grabhügel in der ländlichen Landschaft des Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.202144,
+                        56.570229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lushøj",
+                  "text": "Ősi sírhalom a Randers-fjord körüli látványos tájon.",
+                  "category": "historical",
+                  "coords": [
+                        10.212687,
+                        56.536785
+                  ]
+            },
+            {
+                  "name": "Stenhøj",
+                  "text": "Történelem előtti kőemlék vagy sírhalom a Randers-fjord régióban.",
+                  "category": "historical",
+                  "coords": [
+                        10.198573,
+                        56.543987
+                  ]
+            },
+            {
+                  "name": "Bavnehøj",
+                  "text": "Történelmi dombtető a Randers-fjord közelében, amelyet az ókorban hagyományosan jelzőtüzek gyújtására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        10.188698,
+                        56.540349
+                  ]
+            },
+            {
+                  "name": "Daast",
+                  "text": "Megőrzött régészeti lelőhely a Randers-fjord területén, amely Dánia korai történelmét idézi.",
+                  "category": "historical",
+                  "coords": [
+                        10.207883,
+                        56.544327
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "A régió számos ősi sírhalmának egyike, amely betekintést nyújt a viking kori vagy régebbi kultúrákba.",
+                  "category": "historical",
+                  "coords": [
+                        10.205029,
+                        56.542184
+                  ]
+            },
+            {
+                  "name": "Humblehøj",
+                  "text": "Történelmi sírhalom vagy temetkezési hely a Randers-fjord partján.",
+                  "category": "historical",
+                  "coords": [
+                        10.192773,
+                        56.554038
+                  ]
+            },
+            {
+                  "name": "Ilshøi",
+                  "text": "Régészeti lelőhely a Randers-fjord közelében, amely ősi földművekből áll.",
+                  "category": "historical",
+                  "coords": [
+                        10.198068,
+                        56.565488
+                  ]
+            },
+            {
+                  "name": "Store Skiddenhøi",
+                  "text": "Jelentős ősi sírhalom a Randers-fjord vidéki táján.",
+                  "category": "historical",
+                  "coords": [
+                        10.202144,
+                        56.570229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lushøj",
+                  "text": "Un tumul antic situat în peisajul pitoresc din jurul fiordului Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.212687,
+                        56.536785
+                  ]
+            },
+            {
+                  "name": "Stenhøj",
+                  "text": "Un monument de piatră preistoric sau un tumul găsit în regiunea fiordului Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.198573,
+                        56.543987
+                  ]
+            },
+            {
+                  "name": "Bavnehøj",
+                  "text": "Un sit istoric pe vârful dealului lângă fiordul Randers, folosit în mod tradițional pentru focuri de semnalizare în vremurile antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.188698,
+                        56.540349
+                  ]
+            },
+            {
+                  "name": "Daast",
+                  "text": "Un sit arheologic conservat în zona fiordului Randers, reflectând istoria timpurie a Danemarcei.",
+                  "category": "historical",
+                  "coords": [
+                        10.207883,
+                        56.544327
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "Unul dintre numeroșii tumuli antici din regiune, oferind perspective asupra culturilor din epoca vikingă sau mai vechi.",
+                  "category": "historical",
+                  "coords": [
+                        10.205029,
+                        56.542184
+                  ]
+            },
+            {
+                  "name": "Humblehøj",
+                  "text": "Un tumul istoric sau un sit funerar situat de-a lungul țărmurilor fiordului Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.192773,
+                        56.554038
+                  ]
+            },
+            {
+                  "name": "Ilshøi",
+                  "text": "Un sit arheologic lângă fiordul Randers, format din structuri antice de pământ.",
+                  "category": "historical",
+                  "coords": [
+                        10.198068,
+                        56.565488
+                  ]
+            },
+            {
+                  "name": "Store Skiddenhøi",
+                  "text": "Un tumul antic proeminent situat în peisajul rural al fiordului Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.202144,
+                        56.570229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lushøj",
+                  "text": "An ancient burial mound located in the scenic landscape surrounding Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.212687,
+                        56.536785
+                  ]
+            },
+            {
+                  "name": "Stenhøj",
+                  "text": "A prehistoric stone monument or barrow found in the Randers Fjord region.",
+                  "category": "historical",
+                  "coords": [
+                        10.198573,
+                        56.543987
+                  ]
+            },
+            {
+                  "name": "Bavnehøj",
+                  "text": "A historic hilltop site near Randers Fjord, traditionally used for signal fires in ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        10.188698,
+                        56.540349
+                  ]
+            },
+            {
+                  "name": "Daast",
+                  "text": "A preserved archaeological site in the Randers Fjord area, reflecting Denmark's early history.",
+                  "category": "historical",
+                  "coords": [
+                        10.207883,
+                        56.544327
+                  ]
+            },
+            {
+                  "name": "Kraghøj",
+                  "text": "One of several ancient burial mounds in the region, offering insights into Viking-age or older cultures.",
+                  "category": "historical",
+                  "coords": [
+                        10.205029,
+                        56.542184
+                  ]
+            },
+            {
+                  "name": "Humblehøj",
+                  "text": "A historic barrow or burial site located along the shores of Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.192773,
+                        56.554038
+                  ]
+            },
+            {
+                  "name": "Ilshøi",
+                  "text": "An archaeological site near Randers Fjord, consisting of ancient earthen structures.",
+                  "category": "historical",
+                  "coords": [
+                        10.198068,
+                        56.565488
+                  ]
+            },
+            {
+                  "name": "Store Skiddenhøi",
+                  "text": "A prominent ancient burial mound situated in the rural landscape of Randers Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.202144,
+                        56.570229
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Randers Fjord", hu: "Randers-fjord", ro: "Fiordul Randers", en: "Randers Fjord" },
@@ -543,7 +2676,268 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-randers-fjord-nature-v2.webp",
   },
   {
-    id: "denmark-almindingen-forest-nature-v2",
+    id: "denmark-almindingen-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Rapshøi, eine antike archäologische Ausgrabungsstätte im Almindingen-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Gamleborg, die Ruinen einer königlichen Festung aus der Wikingerzeit auf Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Bisonskoven",
+                  "text": "Der Bisonwald, ein Naturschutzgebiet in Almindingen mit wiederangesiedelten Wisenten.",
+                  "category": "natural",
+                  "coords": [
+                        14.945497,
+                        55.112166
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arboretet, ein botanischer Garten mit einer vielfältigen Sammlung von Bäumen und Sträuchern.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Rytterknægten, der höchste Punkt der Insel Bornholm mit einem Aussichtsturm.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            },
+            {
+                  "name": "Lilleborg",
+                  "text": "Lilleborg, Ruinen einer königlichen Burg aus dem 12. Jahrhundert auf einer Klippe.",
+                  "category": "historical",
+                  "coords": [
+                        14.897022,
+                        55.118773
+                  ]
+            },
+            {
+                  "name": "Dronningestenen",
+                  "text": "Dronningestenen, ein Aussichtspunkt, der nach dem Besuch einer Königin benannt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        14.893385,
+                        55.105524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Rapshøi, ókori régészeti lelőhely az Almindingen-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Gamleborg, egy viking kori királyi erőd romjai Bornholm szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Bisonskoven",
+                  "text": "Bölényerdő Almindingenben, ahol európai bölényeket telepítettek vissza.",
+                  "category": "natural",
+                  "coords": [
+                        14.945497,
+                        55.112166
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arboretet, botanikus kert különleges fa- és cserjegyűjteménnyel.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Rytterknægten, Bornholm legmagasabb pontja egy kilátótoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            },
+            {
+                  "name": "Lilleborg",
+                  "text": "Lilleborg, egy 12. századi királyi vár romjai egy sziklafalon.",
+                  "category": "historical",
+                  "coords": [
+                        14.897022,
+                        55.118773
+                  ]
+            },
+            {
+                  "name": "Dronningestenen",
+                  "text": "Dronningestenen, egy királynő látogatásáról elnevezett kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        14.893385,
+                        55.105524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Rapshøi, un sit arheologic antic situat în pădurea Almindingen.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Gamleborg, ruinele unei cetăți regale din epoca vikingă de pe insula Bornholm.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "Bisonskoven",
+                  "text": "Pădurea de Zimbri, o rezervație naturală în Almindingen unde au fost reintroduși zimbrii.",
+                  "category": "natural",
+                  "coords": [
+                        14.945497,
+                        55.112166
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "Arboretet, o grădină botanică cu o colecție diversă de arbori și arbuști.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "Rytterknægten, cel mai înalt punct de pe insula Bornholm, dotat cu un turn de observație.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            },
+            {
+                  "name": "Lilleborg",
+                  "text": "Lilleborg, ruinele unui castel regal din secolul al XII-lea construit pe o stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        14.897022,
+                        55.118773
+                  ]
+            },
+            {
+                  "name": "Dronningestenen",
+                  "text": "Dronningestenen, un punct de belvedere numit în onoarea vizitei unei regine.",
+                  "category": "natural",
+                  "coords": [
+                        14.893385,
+                        55.105524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rapshøi",
+                  "text": "Rapshøi is an ancient archaeological site located within the Almindingen Forest.",
+                  "category": "historical",
+                  "coords": [
+                        14.85742,
+                        55.152885
+                  ]
+            },
+            {
+                  "name": "Gamleborg",
+                  "text": "Ruins of a Viking-age royal fortress located in the Almindingen Forest.",
+                  "category": "historical",
+                  "coords": [
+                        14.906882,
+                        55.114336
+                  ]
+            },
+            {
+                  "name": "The Bison Forest",
+                  "text": "Nature reserve in Almindingen where European bison have been reintroduced.",
+                  "category": "natural",
+                  "coords": [
+                        14.945497,
+                        55.112166
+                  ]
+            },
+            {
+                  "name": "Arboretet",
+                  "text": "A botanical garden in the forest featuring a diverse collection of trees and shrubs.",
+                  "category": "park",
+                  "coords": [
+                        14.878027,
+                        55.120008
+                  ]
+            },
+            {
+                  "name": "Rytterknægten",
+                  "text": "The highest point on the island of Bornholm, topped by a historic lookout tower.",
+                  "category": "landmark",
+                  "coords": [
+                        14.889337,
+                        55.111698
+                  ]
+            },
+            {
+                  "name": "Lilleborg",
+                  "text": "Ruins of a 12th-century royal castle built on a dramatic cliff in the forest.",
+                  "category": "historical",
+                  "coords": [
+                        14.897022,
+                        55.118773
+                  ]
+            },
+            {
+                  "name": "Dronningestenen",
+                  "text": "A scenic viewpoint stone named in honor of a queen's visit to the forest.",
+                  "category": "natural",
+                  "coords": [
+                        14.893385,
+                        55.105524
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DK",
     name: { de: "Almindingen Wald", hu: "Almindingen-erdő", ro: "Pădurea Almindingen", en: "Almindingen Forest" },
@@ -588,7 +2982,304 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-almindingen-forest-nature-v2.webp",
   },
   {
-    id: "denmark-mariager-fjord-nature-v2",
+    id: "denmark-mariager-fjord-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odderhøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Hedehøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.074914,
+                        56.66879
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.037024,
+                        56.618684
+                  ]
+            },
+            {
+                  "name": "Kikhøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.044408,
+                        56.640102
+                  ]
+            },
+            {
+                  "name": "Torshøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.002183,
+                        56.643354
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        10.025753,
+                        56.650649
+                  ]
+            },
+            {
+                  "name": "Lushøj",
+                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
+                  "category": "historical",
+                  "coords": [
+                        9.998995,
+                        56.644492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odderhøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Hedehøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.074914,
+                        56.66879
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.037024,
+                        56.618684
+                  ]
+            },
+            {
+                  "name": "Kikhøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.044408,
+                        56.640102
+                  ]
+            },
+            {
+                  "name": "Torshøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.002183,
+                        56.643354
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.025753,
+                        56.650649
+                  ]
+            },
+            {
+                  "name": "Lushøj",
+                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.998995,
+                        56.644492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odderhøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Hedehøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.074914,
+                        56.66879
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.037024,
+                        56.618684
+                  ]
+            },
+            {
+                  "name": "Kikhøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.044408,
+                        56.640102
+                  ]
+            },
+            {
+                  "name": "Torshøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.002183,
+                        56.643354
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        10.025753,
+                        56.650649
+                  ]
+            },
+            {
+                  "name": "Lushøj",
+                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
+                  "category": "historical",
+                  "coords": [
+                        9.998995,
+                        56.644492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odderhøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.045258,
+                        56.644935
+                  ]
+            },
+            {
+                  "name": "Hohøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        9.999863,
+                        56.64724
+                  ]
+            },
+            {
+                  "name": "Hedehøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.074914,
+                        56.66879
+                  ]
+            },
+            {
+                  "name": "Tvillinghøje",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.037024,
+                        56.618684
+                  ]
+            },
+            {
+                  "name": "Kikhøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.044408,
+                        56.640102
+                  ]
+            },
+            {
+                  "name": "Torshøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.002183,
+                        56.643354
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        10.025753,
+                        56.650649
+                  ]
+            },
+            {
+                  "name": "Lushøj",
+                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
+                  "category": "historical",
+                  "coords": [
+                        9.998995,
+                        56.644492
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DK",
     name: { de: "Mariager Fjord", hu: "Mariager-fjord", ro: "Fiordul Mariager", en: "Mariager Fjord" },
@@ -633,7 +3324,268 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-mariager-fjord-nature-v2.webp",
   },
   {
-    id: "denmark-skanderborg-himmelbjerget-nature-v2",
+    id: "denmark-skanderborg-himmelbjerget-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karlshøj",
+                  "text": "Eine archäologische Fundstätte am Himmelbjerget, die historische Siedlungsspuren oder Grabhügel umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        9.726946,
+                        56.111467
+                  ]
+            },
+            {
+                  "name": "Ørnehøj",
+                  "text": "Ein historischer Ort am Himmelbjerget, der für seine archäologische Bedeutung in der Region bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.742813,
+                        56.072564
+                  ]
+            },
+            {
+                  "name": "Brunhøj",
+                  "text": "Diese archäologische Stätte am Himmelbjerget bewahrt Überreste aus vergangenen Zeiten.",
+                  "category": "historical",
+                  "coords": [
+                        9.775391,
+                        56.09
+                  ]
+            },
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "Ein geschütztes archäologisches Areal am Himmelbjerget mit Spuren früherer Kulturen.",
+                  "category": "historical",
+                  "coords": [
+                        9.769785,
+                        56.113702
+                  ]
+            },
+            {
+                  "name": "Gammel Rye Mølle",
+                  "text": "Ein Museum in einer historischen Windmühle, das Einblicke in die lokale Mahltradition bietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.702067,
+                        56.076067
+                  ]
+            },
+            {
+                  "name": "Dynæsvold",
+                  "text": "Eine bedeutende archäologische Stätte am Himmelbjerget, die historische Befestigungen oder Siedlungsreste zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        9.698612,
+                        56.119769
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Ein Wasserpark am Himmelbjerget, der Freizeitmöglichkeiten und Erfrischung für Besucher bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.710457,
+                        56.124739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karlshøj",
+                  "text": "Régészeti lelőhely a Himmelbjergetnél, amely történelmi településnyomokat vagy sírhalmokat foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        9.726946,
+                        56.111467
+                  ]
+            },
+            {
+                  "name": "Ørnehøj",
+                  "text": "Történelmi helyszín a Himmelbjergetnél, amely régészeti jelentőségéről ismert a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        9.742813,
+                        56.072564
+                  ]
+            },
+            {
+                  "name": "Brunhøj",
+                  "text": "Ez a régészeti lelőhely a Himmelbjergetnél múltbéli idők maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        9.775391,
+                        56.09
+                  ]
+            },
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "Védett régészeti terület a Himmelbjergetnél, korábbi kultúrák nyomaival.",
+                  "category": "historical",
+                  "coords": [
+                        9.769785,
+                        56.113702
+                  ]
+            },
+            {
+                  "name": "Gammel Rye Mølle",
+                  "text": "Egy történelmi szélmalomban kialakított múzeum, amely betekintést nyújt a helyi őrlési hagyományokba.",
+                  "category": "museum",
+                  "coords": [
+                        9.702067,
+                        56.076067
+                  ]
+            },
+            {
+                  "name": "Dynæsvold",
+                  "text": "Jelentős régészeti lelőhely a Himmelbjergetnél, amely történelmi erődítményeket vagy településmaradványokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        9.698612,
+                        56.119769
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Vízi park a Himmelbjergetnél, amely kikapcsolódási és frissülési lehetőséget nyújt a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        9.710457,
+                        56.124739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karlshøj",
+                  "text": "Un sit arheologic pe dealul Himmelbjerget, cuprinzând urme de așezări istorice sau tumuli.",
+                  "category": "historical",
+                  "coords": [
+                        9.726946,
+                        56.111467
+                  ]
+            },
+            {
+                  "name": "Ørnehøj",
+                  "text": "O locație istorică pe dealul Himmelbjerget, cunoscută pentru importanța sa arheologică în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        9.742813,
+                        56.072564
+                  ]
+            },
+            {
+                  "name": "Brunhøj",
+                  "text": "Acest sit arheologic de pe dealul Himmelbjerget păstrează vestigii din timpuri străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        9.775391,
+                        56.09
+                  ]
+            },
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "O zonă arheologică protejată pe dealul Himmelbjerget, cu urme ale culturilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        9.769785,
+                        56.113702
+                  ]
+            },
+            {
+                  "name": "Gammel Rye Mølle",
+                  "text": "Un muzeu situat într-o moară de vânt istorică, oferind informații despre tradiția locală a măcinatului.",
+                  "category": "museum",
+                  "coords": [
+                        9.702067,
+                        56.076067
+                  ]
+            },
+            {
+                  "name": "Dynæsvold",
+                  "text": "Un sit arheologic important pe dealul Himmelbjerget, prezentând fortificații istorice sau resturi de așezări.",
+                  "category": "historical",
+                  "coords": [
+                        9.698612,
+                        56.119769
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "Un parc acvatic pe dealul Himmelbjerget, care oferă facilități de agrement și răcorire pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        9.710457,
+                        56.124739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karlshøj",
+                  "text": "An archaeological site at Himmelbjerget hill, featuring historic settlement traces or burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        9.726946,
+                        56.111467
+                  ]
+            },
+            {
+                  "name": "Ørnehøj",
+                  "text": "A historic location at Himmelbjerget hill, known for its archaeological significance in the region.",
+                  "category": "historical",
+                  "coords": [
+                        9.742813,
+                        56.072564
+                  ]
+            },
+            {
+                  "name": "Brunhøj",
+                  "text": "This archaeological site at Himmelbjerget hill preserves remains from past eras.",
+                  "category": "historical",
+                  "coords": [
+                        9.775391,
+                        56.09
+                  ]
+            },
+            {
+                  "name": "Kræmmerhøj",
+                  "text": "A protected archaeological area at Himmelbjerget hill with traces of earlier cultures.",
+                  "category": "historical",
+                  "coords": [
+                        9.769785,
+                        56.113702
+                  ]
+            },
+            {
+                  "name": "Gammel Rye Mølle",
+                  "text": "A museum housed in a historic windmill, offering insights into local milling traditions.",
+                  "category": "museum",
+                  "coords": [
+                        9.702067,
+                        56.076067
+                  ]
+            },
+            {
+                  "name": "Dynæsvold",
+                  "text": "A significant archaeological site at Himmelbjerget hill, showing historic fortifications or settlement remains.",
+                  "category": "historical",
+                  "coords": [
+                        9.698612,
+                        56.119769
+                  ]
+            },
+            {
+                  "name": "Swimming Pool",
+                  "text": "A water park at Himmelbjerget hill offering recreational facilities and refreshment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        9.710457,
+                        56.124739
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "DK",
     name: { de: "Himmelbjerget Berg", hu: "Himmelbjerget-hegy", ro: "Muntele Himmelbjerget", en: "Himmelbjerget hill" },
@@ -678,7 +3630,124 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-skanderborg-himmelbjerget-nature-v2.webp",
   },
   {
-    id: "denmark-limfjord-islands-nature-v2",
+    id: "denmark-limfjord-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liv Tap",
+                  "text": "Liv Tap ist ein Naturschutzgebiet auf den Limfjord-Inseln mit besonderer Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.119323,
+                        56.86652
+                  ]
+            },
+            {
+                  "name": "Udstilling Livø - før og nu",
+                  "text": "Diese Ausstellung auf Livø zeigt die Geschichte der Insel früher und heute.",
+                  "category": "museum",
+                  "coords": [
+                        9.090447,
+                        56.8926
+                  ]
+            },
+            {
+                  "name": "Talerstolen",
+                  "text": "Talerstolen ist eine markante Sehenswürdigkeit in der Landschaft der Limfjord-Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        9.083137,
+                        56.893313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liv Tap",
+                  "text": "A Liv Tap egy természetvédelmi terület a Limfjord-szigeteken, különleges élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        9.119323,
+                        56.86652
+                  ]
+            },
+            {
+                  "name": "Udstilling Livø - før og nu",
+                  "text": "Ez a Livø-szigeti kiállítás a sziget múltját és jelenét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.090447,
+                        56.8926
+                  ]
+            },
+            {
+                  "name": "Talerstolen",
+                  "text": "A Talerstolen egy jellegzetes látnivaló a Limfjord-szigetek vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.083137,
+                        56.893313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liv Tap",
+                  "text": "Liv Tap este o rezervație naturală în insulele Limfjord, protejând flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        9.119323,
+                        56.86652
+                  ]
+            },
+            {
+                  "name": "Udstilling Livø - før og nu",
+                  "text": "Această expoziție de pe insula Livø prezintă istoria insulei în trecut și în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        9.090447,
+                        56.8926
+                  ]
+            },
+            {
+                  "name": "Talerstolen",
+                  "text": "Talerstolen este un obiectiv turistic remarcabil din peisajul insulelor Limfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.083137,
+                        56.893313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liv Tap",
+                  "text": "Liv Tap is a nature reserve in the Limfjord Islands featuring unique flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.119323,
+                        56.86652
+                  ]
+            },
+            {
+                  "name": "Udstilling Livø - før og nu",
+                  "text": "This exhibition on Livø island displays the history of the island from past to present.",
+                  "category": "museum",
+                  "coords": [
+                        9.090447,
+                        56.8926
+                  ]
+            },
+            {
+                  "name": "Talerstolen",
+                  "text": "Talerstolen is a notable landmark in the landscape of the Limfjord Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        9.083137,
+                        56.893313
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DK",
     name: { de: "Inseln im Limfjord", hu: "Limfjord-szigetek", ro: "Insulele Limfjord", en: "Limfjord Islands" },

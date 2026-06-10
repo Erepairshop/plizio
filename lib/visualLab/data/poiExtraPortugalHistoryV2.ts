@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const portugalHistoryV2: POI[] = [
 
   {
-    id: "portugal-fortaleza-de-sagres-history-v2",
+    id: "portugal-fortaleza-de-sagres-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza de Sagres",
+                  "text": "Eine imposante Festung auf den Klippen von Sagres, die einst die Küste schützte.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.947999,
+                        37.000892
+                  ]
+            },
+            {
+                  "name": "Praia do Beliche",
+                  "text": "Ein wunderschöner Strand bei Sagres, der von hohen Klippen umschlossen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.96483,
+                        37.026054
+                  ]
+            },
+            {
+                  "name": "Praia do Martinhal",
+                  "text": "Ein weitläufiger Sandstrand in Sagres, der besonders bei Windsurfern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.92638,
+                        37.018765
+                  ]
+            },
+            {
+                  "name": "Praia dos Rebolinhos",
+                  "text": "Ein kleiner, ruhiger Strand in Sagres, ideal für entspannte Stunden am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.920219,
+                        37.022258
+                  ]
+            },
+            {
+                  "name": "Museu da Fortaleza",
+                  "text": "Ein Museum innerhalb der Festung von Sagres, das die Geschichte der Entdeckungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.947962,
+                        36.999806
+                  ]
+            },
+            {
+                  "name": "Praia do Tonel",
+                  "text": "Ein beliebter Strand für Surfer in Sagres mit beeindruckender natürlicher Kulisse.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.947859,
+                        37.006133
+                  ]
+            },
+            {
+                  "name": "Praia da Mareta",
+                  "text": "Der größte und am besten zugängliche Strand in der Nähe des Ortes Sagres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.938626,
+                        37.005517
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "Ein ruhiger Strand in der Nähe des Hafens von Sagres mit Blick auf die Fischerboote.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.930432,
+                        37.011298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de Sagres",
+                  "text": "Impozáns erődítmény Sagres szikláin, amely egykor a partvonalat védte.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.947999,
+                        37.000892
+                  ]
+            },
+            {
+                  "name": "Praia do Beliche",
+                  "text": "Gyönyörű strand Sagres közelében, amelyet magas sziklák vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.96483,
+                        37.026054
+                  ]
+            },
+            {
+                  "name": "Praia do Martinhal",
+                  "text": "Tágas homokos strand Sagresben, amely különösen a szörfösök körében népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.92638,
+                        37.018765
+                  ]
+            },
+            {
+                  "name": "Praia dos Rebolinhos",
+                  "text": "Kicsi és csendes strand Sagresben, ideális a tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.920219,
+                        37.022258
+                  ]
+            },
+            {
+                  "name": "Museu da Fortaleza",
+                  "text": "A sagresi erődben található múzeum, amely a felfedezések történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.947962,
+                        36.999806
+                  ]
+            },
+            {
+                  "name": "Praia do Tonel",
+                  "text": "Népszerű szörfös strand Sagresben, lenyűgöző természeti környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.947859,
+                        37.006133
+                  ]
+            },
+            {
+                  "name": "Praia da Mareta",
+                  "text": "Sagres településéhez legközelebb eső, legnagyobb és legkönnyebben megközelíthető strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.938626,
+                        37.005517
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "Csendes strand a sagresi kikötő közelében, kilátással a halászhajókra.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.930432,
+                        37.011298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de Sagres",
+                  "text": "O fortăreață impunătoare pe stâncile din Sagres, care odinioară proteja coasta.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.947999,
+                        37.000892
+                  ]
+            },
+            {
+                  "name": "Praia do Beliche",
+                  "text": "O plajă superbă lângă Sagres, înconjurată de stânci înalte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.96483,
+                        37.026054
+                  ]
+            },
+            {
+                  "name": "Praia do Martinhal",
+                  "text": "O plajă întinsă cu nisip în Sagres, populară în special printre windsurferi.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.92638,
+                        37.018765
+                  ]
+            },
+            {
+                  "name": "Praia dos Rebolinhos",
+                  "text": "O plajă mică și liniștită în Sagres, ideală pentru momente de relaxare la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.920219,
+                        37.022258
+                  ]
+            },
+            {
+                  "name": "Museu da Fortaleza",
+                  "text": "Un muzeu situat în cetatea Sagres, care prezintă istoria descoperirilor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.947962,
+                        36.999806
+                  ]
+            },
+            {
+                  "name": "Praia do Tonel",
+                  "text": "O plajă populară pentru surferi în Sagres, cu un cadru natural impresionant.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.947859,
+                        37.006133
+                  ]
+            },
+            {
+                  "name": "Praia da Mareta",
+                  "text": "Cea mai mare și mai accesibilă plajă situată lângă localitatea Sagres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.938626,
+                        37.005517
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "O plajă liniștită lângă portul din Sagres, cu vedere spre bărcile de pescuit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.930432,
+                        37.011298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza de Sagres",
+                  "text": "An imposing fortress on the cliffs of Sagres that once protected the coastline.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.947999,
+                        37.000892
+                  ]
+            },
+            {
+                  "name": "Praia do Beliche",
+                  "text": "A beautiful beach near Sagres enclosed by high cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.96483,
+                        37.026054
+                  ]
+            },
+            {
+                  "name": "Praia do Martinhal",
+                  "text": "A spacious sandy beach in Sagres, especially popular with windsurfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.92638,
+                        37.018765
+                  ]
+            },
+            {
+                  "name": "Praia dos Rebolinhos",
+                  "text": "A small and quiet beach in Sagres, ideal for relaxing moments by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.920219,
+                        37.022258
+                  ]
+            },
+            {
+                  "name": "Museu da Fortaleza",
+                  "text": "A museum within the Sagres fortress showcasing the history of discoveries.",
+                  "category": "museum",
+                  "coords": [
+                        -8.947962,
+                        36.999806
+                  ]
+            },
+            {
+                  "name": "Praia do Tonel",
+                  "text": "A popular beach for surfers in Sagres with an impressive natural backdrop.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.947859,
+                        37.006133
+                  ]
+            },
+            {
+                  "name": "Praia da Mareta",
+                  "text": "The largest and most accessible beach located near the village of Sagres.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.938626,
+                        37.005517
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "A quiet beach near the harbor of Sagres with a view of the fishing boats.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.930432,
+                        37.011298
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Festung von Sagres", hu: "Sagres-erőd", ro: "Fortăreața din Sagres", en: "Sagres Fortress" },
@@ -48,7 +345,268 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-fortaleza-de-sagres-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-monsaraz-history-v2",
+    id: "portugal-castelo-de-monsaraz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anta 2 do Olival da Pêga",
+                  "text": "Antike megalithische Grabkammer in der Nähe von Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39886,
+                        38.45159
+                  ]
+            },
+            {
+                  "name": "Menir da Abelhoa",
+                  "text": "Prähistorischer Menhir (Hinkelstein), der in der Nähe von Monsaraz steht.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382919,
+                        38.462246
+                  ]
+            },
+            {
+                  "name": "Menir do Outeiro",
+                  "text": "Einer der größten prähistorischen Menhire auf der Iberischen Halbinsel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39362,
+                        38.470387
+                  ]
+            },
+            {
+                  "name": "Menhir von Barrocal",
+                  "text": "Großer prähistorischer Menhir in der Region Alentejo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.413768,
+                        38.44189
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Xarez",
+                  "text": "Ein bedeutendes megalithisches Denkmal in der Nähe von Monsaraz Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.370987,
+                        38.453433
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsaraz",
+                  "text": "Eine mittelalterliche Festungsanlage, die das Dorf Monsaraz überragt.",
+                  "category": "castle",
+                  "coords": [
+                        -7.380895,
+                        38.443305
+                  ]
+            },
+            {
+                  "name": "Anta da Belhôa",
+                  "text": "Eine prähistorische Grabstätte in der Umgebung von Monsaraz Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.381762,
+                        38.459654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anta 2 do Olival da Pêga",
+                  "text": "Monsaraz közelében található ősi megalitikus sírkamra.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39886,
+                        38.45159
+                  ]
+            },
+            {
+                  "name": "Menir da Abelhoa",
+                  "text": "Monsaraz közelében álló őskori menhir (álló kő).",
+                  "category": "historical",
+                  "coords": [
+                        -7.382919,
+                        38.462246
+                  ]
+            },
+            {
+                  "name": "Menir do Outeiro",
+                  "text": "Az Ibériai-félsziget egyik legnagyobb őskori menhirje.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39362,
+                        38.470387
+                  ]
+            },
+            {
+                  "name": "Menir do Barrocal",
+                  "text": "Nagy méretű őskori álló kő az Alentejo régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.413768,
+                        38.44189
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Xarez",
+                  "text": "Jelentős megalitikus emlékhely Monsaraz Castle közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.370987,
+                        38.453433
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsaraz",
+                  "text": "Középkori erődítmény, amely Monsaraz faluja felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        -7.380895,
+                        38.443305
+                  ]
+            },
+            {
+                  "name": "Anta da Belhôa",
+                  "text": "Őskori sírhely Monsaraz Castle környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.381762,
+                        38.459654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anta 2 do Olival da Pêga",
+                  "text": "Cameră funerară megalitică antică situată lângă Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39886,
+                        38.45159
+                  ]
+            },
+            {
+                  "name": "Menir da Abelhoa",
+                  "text": "Menhir preistoric situat în apropiere de Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382919,
+                        38.462246
+                  ]
+            },
+            {
+                  "name": "Menir do Outeiro",
+                  "text": "Unul dintre cei mai mari menhiri preistorici din Peninsula Iberică.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39362,
+                        38.470387
+                  ]
+            },
+            {
+                  "name": "Menir do Barrocal",
+                  "text": "Menhir preistoric de mari dimensiuni situat în regiunea Alentejo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.413768,
+                        38.44189
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Xarez",
+                  "text": "Un sit arheologic megalitic situat în apropierea castelului Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.370987,
+                        38.453433
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsaraz",
+                  "text": "O fortăreață medievală care domină satul Monsaraz.",
+                  "category": "castle",
+                  "coords": [
+                        -7.380895,
+                        38.443305
+                  ]
+            },
+            {
+                  "name": "Anta da Belhôa",
+                  "text": "Un sit arheologic preistoric situat în împrejurimile castelului Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.381762,
+                        38.459654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anta 2 do Olival da Pêga",
+                  "text": "Ancient megalithic burial chamber located near Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39886,
+                        38.45159
+                  ]
+            },
+            {
+                  "name": "Menir da Abelhoa",
+                  "text": "Prehistoric standing stone or menhir relocated near Monsaraz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382919,
+                        38.462246
+                  ]
+            },
+            {
+                  "name": "Menir do Outeiro",
+                  "text": "One of the largest prehistoric menhirs in the Iberian Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        -7.39362,
+                        38.470387
+                  ]
+            },
+            {
+                  "name": "Menir do Barrocal",
+                  "text": "Large prehistoric standing stone located in the Alentejo region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.413768,
+                        38.44189
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Xarez",
+                  "text": "A significant megalithic monument located near Monsaraz Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.370987,
+                        38.453433
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsaraz",
+                  "text": "A medieval fortress overlooking the village of Monsaraz.",
+                  "category": "castle",
+                  "coords": [
+                        -7.380895,
+                        38.443305
+                  ]
+            },
+            {
+                  "name": "Anta da Belhôa",
+                  "text": "A prehistoric burial site in the surroundings of Monsaraz Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.381762,
+                        38.459654
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Monsaraz", hu: "Monsaraz vára", ro: "Castelul Monsaraz", en: "Monsaraz Castle" },
@@ -93,7 +651,160 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-castelo-de-monsaraz-history-v2.webp",
   },
   {
-    id: "portugal-ruinas-romanas-de-caladinho-history-v2",
+    id: "portugal-ruinas-romanas-de-caladinho-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Terena",
+                  "text": "Eine mittelalterliche Burg aus dem 13. Jahrhundert in Terena.",
+                  "category": "castle",
+                  "coords": [
+                        -7.40729,
+                        38.621598
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "Eine kleine Kapelle in Terena, die dem heiligen Antonius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.41214,
+                        38.619581
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Die im 16. Jahrhundert errichtete Hauptkirche der Gemeinde Terena.",
+                  "category": "religious",
+                  "coords": [
+                        -7.40861,
+                        38.619544
+                  ]
+            },
+            {
+                  "name": "Capela da Boa Nova",
+                  "text": "Diese Kirche befindet sich bei den römischen Ruinen von Caladinho.",
+                  "category": "religious",
+                  "coords": [
+                        -7.397372,
+                        38.616764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Terena",
+                  "text": "13. századi középkori vár Terena településen.",
+                  "category": "castle",
+                  "coords": [
+                        -7.40729,
+                        38.621598
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "Páduai Szent Antalnak szentelt kis kápolna Terenában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.41214,
+                        38.619581
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Terena község 16. században épült főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -7.40861,
+                        38.619544
+                  ]
+            },
+            {
+                  "name": "Capela da Boa Nova",
+                  "text": "Ez a templom a Caladinho római romok közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -7.397372,
+                        38.616764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Terena",
+                  "text": "Un castel medieval din secolul al XIII-lea în Terena.",
+                  "category": "castle",
+                  "coords": [
+                        -7.40729,
+                        38.621598
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "O mică chapelă în Terena dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        -7.41214,
+                        38.619581
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Biserica principală a comunei Terena, construită în secolul al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.40861,
+                        38.619544
+                  ]
+            },
+            {
+                  "name": "Capela da Boa Nova",
+                  "text": "Această biserică se află lângă ruinele romane din Caladinho.",
+                  "category": "religious",
+                  "coords": [
+                        -7.397372,
+                        38.616764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Terena",
+                  "text": "A 13th-century medieval castle in Terena.",
+                  "category": "castle",
+                  "coords": [
+                        -7.40729,
+                        38.621598
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "A small chapel in Terena dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        -7.41214,
+                        38.619581
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "The main church of the Terena parish, built in the 16th century.",
+                  "category": "religious",
+                  "coords": [
+                        -7.40861,
+                        38.619544
+                  ]
+            },
+            {
+                  "name": "Capela da Boa Nova",
+                  "text": "This church is located near the Caladinho Roman ruins.",
+                  "category": "religious",
+                  "coords": [
+                        -7.397372,
+                        38.616764
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "PT",
     name: { de: "Römische Ruinen von Caladinho", hu: "Caladinho római romjai", ro: "Ruinele romane de la Caladinho", en: "Caladinho Roman Ruins" },
@@ -228,7 +939,196 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-castelo-de-pousaflores-history-v2.webp",
   },
   {
-    id: "portugal-torre-de-pancas-history-v2",
+    id: "portugal-torre-de-pancas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte do Senhor da Boa Morte",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Torre de Pancas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.98863,
+                        38.970734
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Ein ehemaliges Kloster in der Region Torre de Pancas.",
+                  "category": "religious",
+                  "coords": [
+                        -9.002104,
+                        38.985429
+                  ]
+            },
+            {
+                  "name": "Sítio arqueológico de Monte dos Castelinhos",
+                  "text": "Eine archäologische Ausgrabungsstätte auf dem Monte dos Castelinhos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.974241,
+                        39.012115
+                  ]
+            },
+            {
+                  "name": "Gruta da Pedra Furada",
+                  "text": "Ein Höhleneingang in Portugal, der für seine Kalksteinformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.9898,
+                        38.965181
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vala do Carregado",
+                  "text": "Eine Panorama-Schaukel in der Vala do Carregado.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.945141,
+                        39.003408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte do Senhor da Boa Morte",
+                  "text": "Természetvédelmi terület Torre de Pancas közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.98863,
+                        38.970734
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Egykori kolostor Torre de Pancas környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.002104,
+                        38.985429
+                  ]
+            },
+            {
+                  "name": "Sítio arqueológico de Monte dos Castelinhos",
+                  "text": "Régészeti lelőhely a Monte dos Castelinhos dombon.",
+                  "category": "historical",
+                  "coords": [
+                        -8.974241,
+                        39.012115
+                  ]
+            },
+            {
+                  "name": "Gruta da Pedra Furada",
+                  "text": "Barlangbejárat Portugáliában, amely mészkőképződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.9898,
+                        38.965181
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vala do Carregado",
+                  "text": "Panorámahinta a Vala do Carregado területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.945141,
+                        39.003408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte do Senhor da Boa Morte",
+                  "text": "O rezervație naturală în apropiere de Torre de Pancas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.98863,
+                        38.970734
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "O fostă mănăstire în regiunea Torre de Pancas.",
+                  "category": "religious",
+                  "coords": [
+                        -9.002104,
+                        38.985429
+                  ]
+            },
+            {
+                  "name": "Sítio arqueológico de Monte dos Castelinhos",
+                  "text": "Un sit arheologic pe Monte dos Castelinhos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.974241,
+                        39.012115
+                  ]
+            },
+            {
+                  "name": "Gruta da Pedra Furada",
+                  "text": "O intrare în peșteră din Portugalia, cunoscută pentru formațiunile sale calcaroase.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.9898,
+                        38.965181
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vala do Carregado",
+                  "text": "Un leagăn panoramic în Vala do Carregado.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.945141,
+                        39.003408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte do Senhor da Boa Morte",
+                  "text": "A nature reserve located near Torre de Pancas.",
+                  "category": "natural",
+                  "coords": [
+                        -8.98863,
+                        38.970734
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "A former monastery in the Torre de Pancas region.",
+                  "category": "religious",
+                  "coords": [
+                        -9.002104,
+                        38.985429
+                  ]
+            },
+            {
+                  "name": "Sítio arqueológico de Monte dos Castelinhos",
+                  "text": "An archaeological site located on Monte dos Castelinhos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.974241,
+                        39.012115
+                  ]
+            },
+            {
+                  "name": "Gruta da Pedra Furada",
+                  "text": "A cave entrance in Portugal known for its limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.9898,
+                        38.965181
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vala do Carregado",
+                  "text": "A panoramic swing located in Vala do Carregado.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.945141,
+                        39.003408
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "PT",
     name: { de: "Torre de Pancas", hu: "Torre de Pancas", ro: "Torre de Pancas", en: "Torre de Pancas" },
@@ -453,7 +1353,268 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-fortaleza-de-nossa-senhora-da-graca-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-pavia-history-v2",
+    id: "portugal-castelo-de-pavia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anta-Capela de Pavia",
+                  "text": "Ein prähistorischer megalithischer Dolmen in Pavia, der in eine christliche Kapelle umgewandelt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017267,
+                        38.894157
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 1",
+                  "text": "Eine antike megalithische Grabstätte in der Region Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010697,
+                        38.889262
+                  ]
+            },
+            {
+                  "name": "Alinhamento da Têra",
+                  "text": "Eine prähistorische megalithische Steinsetzung in der Nähe von Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973366,
+                        38.893483
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Monte das Figueiras",
+                  "text": "Ein megalithischer Steinkreis in der Umgebung von Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996084,
+                        38.90098
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 2",
+                  "text": "Ein antiker megalithischer Dolmen im Gebiet von Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.008587,
+                        38.891557
+                  ]
+            },
+            {
+                  "name": "Lapa das Grutas",
+                  "text": "Eine archäologische Stätte mit prähistorischen Höhlenresten bei Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.002973,
+                        38.889332
+                  ]
+            },
+            {
+                  "name": "Lapa do Maltês 2",
+                  "text": "Eine prähistorische archäologische Stätte in der Region Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004011,
+                        38.889061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anta-Capela de Pavia",
+                  "text": "Egy őskori megalitikus dolmen Paviában, amelyet keresztény kápolnává alakítottak át.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017267,
+                        38.894157
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 1",
+                  "text": "Pavia régiójában található ókori megalitikus sírépítmény.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010697,
+                        38.889262
+                  ]
+            },
+            {
+                  "name": "Alinhamento da Têra",
+                  "text": "Pavia közelében található őskori megalitikus kősor.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973366,
+                        38.893483
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Monte das Figueiras",
+                  "text": "Pavia környékén található megalitikus kőkör.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996084,
+                        38.90098
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 2",
+                  "text": "Pavia területén található ókori megalitikus dolmen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.008587,
+                        38.891557
+                  ]
+            },
+            {
+                  "name": "Lapa das Grutas",
+                  "text": "Régészeti lelőhely őskori barlangmaradványokkal Pavia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.002973,
+                        38.889332
+                  ]
+            },
+            {
+                  "name": "Lapa do Maltês 2",
+                  "text": "Pavia régiójában található őskori régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004011,
+                        38.889061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anta-Capela de Pavia",
+                  "text": "Un dolmen megalitic preistoric din Pavia transformat în capelă creștină.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017267,
+                        38.894157
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 1",
+                  "text": "O structură funerară megalitică antică situată în regiunea Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010697,
+                        38.889262
+                  ]
+            },
+            {
+                  "name": "Alinhamento da Têra",
+                  "text": "Un aliniament megalitic preistoric situat lângă Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973366,
+                        38.893483
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Monte das Figueiras",
+                  "text": "Un cerc de piatră megalitic situat în vecinătatea Paviei.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996084,
+                        38.90098
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 2",
+                  "text": "Un dolmen megalitic antic găsit în zona Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.008587,
+                        38.891557
+                  ]
+            },
+            {
+                  "name": "Lapa das Grutas",
+                  "text": "Un sit arheologic cu vestigii de peșteri preistorice lângă Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.002973,
+                        38.889332
+                  ]
+            },
+            {
+                  "name": "Lapa do Maltês 2",
+                  "text": "Un sit arheologic preistoric situat în regiunea Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004011,
+                        38.889061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anta-Capela de Pavia",
+                  "text": "A prehistoric megalithic dolmen in Pavia converted into a Christian chapel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017267,
+                        38.894157
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 1",
+                  "text": "An ancient megalithic burial structure located in the Pavia region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.010697,
+                        38.889262
+                  ]
+            },
+            {
+                  "name": "Alinhamento da Têra",
+                  "text": "A prehistoric megalithic alignment situated near Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.973366,
+                        38.893483
+                  ]
+            },
+            {
+                  "name": "Cromeleque do Monte das Figueiras",
+                  "text": "A megalithic stone circle located in the vicinity of Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996084,
+                        38.90098
+                  ]
+            },
+            {
+                  "name": "Anta da Lapeira 2",
+                  "text": "An ancient megalithic dolmen found in the Pavia area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.008587,
+                        38.891557
+                  ]
+            },
+            {
+                  "name": "Lapa das Grutas",
+                  "text": "An archaeological site with prehistoric cave remains near Pavia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.002973,
+                        38.889332
+                  ]
+            },
+            {
+                  "name": "Lapa do Maltês 2",
+                  "text": "A prehistoric archaeological site located in the Pavia region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.004011,
+                        38.889061
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Pavia", hu: "Pavia vára", ro: "Castelul Pavia", en: "Pavia Castle" },
@@ -543,7 +1704,268 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-ruinas-de-miróbriga-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-vidigueira-history-v2",
+    id: "portugal-castelo-de-vidigueira-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Casa do Arco",
+                  "text": "Ein Museum in Vidigueira, das in einem historischen Gebäude lokale Geschichte und Archäologie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.825974,
+                        38.214593
+                  ]
+            },
+            {
+                  "name": "Villa Romana de São Cucufate",
+                  "text": "Die archäologischen Überreste einer bedeutenden römischen Villa, die später als Kloster genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -7.845185,
+                        38.223435
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vidigueira",
+                  "text": "Das Stadtmuseum von Vidigueira, das das kulturelle Erbe der Gemeinde bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.797828,
+                        38.2078
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "Ein lokaler Wasserfall in der Nähe von Vidigueira, der als Ausflugsziel in der Natur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.801014,
+                        38.212021
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vidigueira",
+                  "text": "Eine Panoramaschaukel, die weite Blicke über die Landschaften des Alentejo bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.78631,
+                        38.213113
+                  ]
+            },
+            {
+                  "name": "Miramendro",
+                  "text": "Ein Aussichtspunkt, der ein weites Panorama über die Ebenen und Weinberge der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.800593,
+                        38.215596
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "Eine historische Kirche in Vidigueira, die ein wichtiges religiöses Denkmal des Ortes ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797772,
+                        38.213077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Casa do Arco",
+                  "text": "Múzeum Vidigueirában, amely egy történelmi épületben mutatja be a helyi történelmet és régészetet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.825974,
+                        38.214593
+                  ]
+            },
+            {
+                  "name": "Villa Romana de São Cucufate",
+                  "text": "Egy jelentős római villa régészeti maradványai, amelyet később kolostorként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -7.845185,
+                        38.223435
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vidigueira",
+                  "text": "Vidigueira városi múzeuma, amely a közösség kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -7.797828,
+                        38.2078
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "Helyi vízesés Vidigueira közelében, amely kedvelt természetközeli kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.801014,
+                        38.212021
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vidigueira",
+                  "text": "Panorámás hinta, amely tágas kilátást nyújt az Alentejo-vidék tájaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.78631,
+                        38.213113
+                  ]
+            },
+            {
+                  "name": "Miramendro",
+                  "text": "Kilátóhely, amely tágas panorámát kínál a régió síkságaira és szőlőültetvényeire.",
+                  "category": "natural",
+                  "coords": [
+                        -7.800593,
+                        38.215596
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "Vidigueira egyik történelmi temploma, amely a település fontos vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797772,
+                        38.213077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Casa do Arco",
+                  "text": "Un muzeu din Vidigueira care prezintă istoria locală și arheologia într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -7.825974,
+                        38.214593
+                  ]
+            },
+            {
+                  "name": "Villa Romana de São Cucufate",
+                  "text": "Vestigiile arheologice ale unei vile romane importante, folosită ulterior ca mănăstire.",
+                  "category": "historical",
+                  "coords": [
+                        -7.845185,
+                        38.223435
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vidigueira",
+                  "text": "Muzeul municipal din Vidigueira, care păstrează patrimoniul cultural al comunității.",
+                  "category": "museum",
+                  "coords": [
+                        -7.797828,
+                        38.2078
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "O cascadă locală lângă Vidigueira, servind ca destinație de excursie în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.801014,
+                        38.212021
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vidigueira",
+                  "text": "Un leagăn panoramic care oferă vederi largi asupra peisajelor din Alentejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.78631,
+                        38.213113
+                  ]
+            },
+            {
+                  "name": "Miramendro",
+                  "text": "Un punct de observație care oferă o panoramă largă asupra câmpiei și podgoriilor din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -7.800593,
+                        38.215596
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "O biserică istorică din Vidigueira, reprezentând un monument religios important al localității.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797772,
+                        38.213077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Casa do Arco",
+                  "text": "A museum in Vidigueira showcasing local history and archaeology in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        -7.825974,
+                        38.214593
+                  ]
+            },
+            {
+                  "name": "Villa Romana de São Cucufate",
+                  "text": "The archaeological remains of a significant Roman villa, later used as a monastery.",
+                  "category": "historical",
+                  "coords": [
+                        -7.845185,
+                        38.223435
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vidigueira",
+                  "text": "The municipal museum of Vidigueira, preserving the cultural heritage of the community.",
+                  "category": "museum",
+                  "coords": [
+                        -7.797828,
+                        38.2078
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "A local waterfall near Vidigueira, serving as a nature getaway destination.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.801014,
+                        38.212021
+                  ]
+            },
+            {
+                  "name": "Baloiço da Vidigueira",
+                  "text": "A panoramic swing offering sweeping views over the Alentejo landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.78631,
+                        38.213113
+                  ]
+            },
+            {
+                  "name": "Miramendro",
+                  "text": "A viewpoint providing a wide panorama over the plains and vineyards of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.800593,
+                        38.215596
+                  ]
+            },
+            {
+                  "name": "Igreja de São Francisco",
+                  "text": "A historic church in Vidigueira, serving as an important religious monument of the town.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797772,
+                        38.213077
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Vidigueira", hu: "Vidigueira vára", ro: "Castelul Vidigueira", en: "Vidigueira Castle" },
@@ -813,7 +2235,304 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-palacio-dos-duques-de-cadaval-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-vouzela-history-v2",
+    id: "portugal-castelo-de-vouzela-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pedra da Escrita de Serrazes",
+                  "text": "Ein großer Felsbrocken in Serrazes mit prähistorischen Ritzungen und Inschriften.",
+                  "category": "historical",
+                  "coords": [
+                        -8.120353,
+                        40.758441
+                  ]
+            },
+            {
+                  "name": "Piscina de Dom Afonso Henriques",
+                  "text": "Eine archäologische Stätte in Vouzela mit alten Badeanlagen, die mit König Afonso Henriques in Verbindung gebracht werden.",
+                  "category": "historical",
+                  "coords": [
+                        -8.090943,
+                        40.739309
+                  ]
+            },
+            {
+                  "name": "Castro do Banho",
+                  "text": "Die Stätte einer alten befestigten Siedlung in der Region Vouzela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.099306,
+                        40.7389
+                  ]
+            },
+            {
+                  "name": "Castro de Nossa Senhora da Guia",
+                  "text": "Die archäologischen Überreste einer prähistorischen Höhensiedlung bei Vouzela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.097429,
+                        40.763767
+                  ]
+            },
+            {
+                  "name": "Cine-teatro de Vouzela",
+                  "text": "Ein historisches Theatergebäude, das als kulturelles Zentrum der Stadt Vouzela dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.112682,
+                        40.723875
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vouzela",
+                  "text": "Ein Heimatmuseum in Vouzela, das die Geschichte und Ethnographie der Gemeinde präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.112297,
+                        40.722725
+                  ]
+            },
+            {
+                  "name": "Baloiço panorâmico de Vouzela",
+                  "text": "Eine malerische Panoramaschaukel with weitem Blick über die Landschaft von Vouzela.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.128123,
+                        40.73984
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Ein historisches Herrenhaus in der Region Vouzela, das repräsentativ für die lokale Adelsarchitektur ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.114929,
+                        40.747491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pedra da Escrita de Serrazes",
+                  "text": "Hatalmas sziklatömb Serrazesben, őskori faragványokkal és feliratokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.120353,
+                        40.758441
+                  ]
+            },
+            {
+                  "name": "Piscina de Dom Afonso Henriques",
+                  "text": "Régészeti lelőhely Vouzelában, ókori fürdőépítményekkel, amelyeket I. Alfonz portugál királyhoz kötnek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.090943,
+                        40.739309
+                  ]
+            },
+            {
+                  "name": "Castro do Banho",
+                  "text": "Ősi erődített település maradványai Vouzela régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.099306,
+                        40.7389
+                  ]
+            },
+            {
+                  "name": "Castro de Nossa Senhora da Guia",
+                  "text": "Egy prähisztorikus domberőd régészeti maradványai Vouzela közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.097429,
+                        40.763767
+                  ]
+            },
+            {
+                  "name": "Cine-teatro de Vouzela",
+                  "text": "Történelmi színházépület, amely Vouzela városának kulturális központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.112682,
+                        40.723875
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vouzela",
+                  "text": "Helyi múzeum Vouzelában, amely a község történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.112297,
+                        40.722725
+                  ]
+            },
+            {
+                  "name": "Baloiço panorâmico de Vouzela",
+                  "text": "Malerikus panorámahinta, ahonnan széles kilátás nyílik Vouzela vidékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.128123,
+                        40.73984
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Történelmi kúria Vouzela régiójában, amely a helyi nemesi építészet példája.",
+                  "category": "historical",
+                  "coords": [
+                        -8.114929,
+                        40.747491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pedra da Escrita de Serrazes",
+                  "text": "Un bolovan mare în Serrazes, cu sculpturi și inscripții preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -8.120353,
+                        40.758441
+                  ]
+            },
+            {
+                  "name": "Piscina de Dom Afonso Henriques",
+                  "text": "Un sit arheologic din Vouzela, care prezintă structuri vechi de scăldat asociate cu regele Afonso Henriques.",
+                  "category": "historical",
+                  "coords": [
+                        -8.090943,
+                        40.739309
+                  ]
+            },
+            {
+                  "name": "Castro do Banho",
+                  "text": "Situl unei vechi așezări fortificate situate în regiunea Vouzela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.099306,
+                        40.7389
+                  ]
+            },
+            {
+                  "name": "Castro de Nossa Senhora da Guia",
+                  "text": "Vestigiile arheologice ale unei cetăți preistorice de pe deal lângă Vouzela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.097429,
+                        40.763767
+                  ]
+            },
+            {
+                  "name": "Cine-teatro de Vouzela",
+                  "text": "O clădire istorică de teatru care servește drept centru cultural în orașul Vouzela.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.112682,
+                        40.723875
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vouzela",
+                  "text": "Un muzeu local din Vouzela, care prezintă istoria și etnografia municipalității.",
+                  "category": "museum",
+                  "coords": [
+                        -8.112297,
+                        40.722725
+                  ]
+            },
+            {
+                  "name": "Baloiço panorâmico de Vouzela",
+                  "text": "Un leagăn panoramic pitoresc, care oferă priveliști largi asupra peisajului din Vouzela.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.128123,
+                        40.73984
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Un conac istoric din regiunea Vouzela, reprezentativ pentru arhitectura nobiliară locală.",
+                  "category": "historical",
+                  "coords": [
+                        -8.114929,
+                        40.747491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pedra da Escrita de Serrazes",
+                  "text": "A large boulder in Serrazes featuring prehistoric carvings and inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        -8.120353,
+                        40.758441
+                  ]
+            },
+            {
+                  "name": "Piscina de Dom Afonso Henriques",
+                  "text": "An archaeological site in Vouzela featuring ancient bathing structures associated with King Afonso Henriques.",
+                  "category": "historical",
+                  "coords": [
+                        -8.090943,
+                        40.739309
+                  ]
+            },
+            {
+                  "name": "Castro do Banho",
+                  "text": "An ancient fortified settlement site located in the Vouzela region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.099306,
+                        40.7389
+                  ]
+            },
+            {
+                  "name": "Castro de Nossa Senhora da Guia",
+                  "text": "The archaeological remains of a prehistoric hillfort near Vouzela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.097429,
+                        40.763767
+                  ]
+            },
+            {
+                  "name": "Cine-teatro de Vouzela",
+                  "text": "A historical theatre building serving as a cultural hub in the town of Vouzela.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.112682,
+                        40.723875
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Vouzela",
+                  "text": "A local museum in Vouzela showcasing the history and ethnography of the municipality.",
+                  "category": "museum",
+                  "coords": [
+                        -8.112297,
+                        40.722725
+                  ]
+            },
+            {
+                  "name": "Baloiço panorâmico de Vouzela",
+                  "text": "A scenic panoramic swing offering wide views over the Vouzela countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.128123,
+                        40.73984
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "A historical manor house in the Vouzela region, representative of local noble architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -8.114929,
+                        40.747491
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Vouzela", hu: "Vouzela vára", ro: "Castelul Vouzela", en: "Vouzela Castle" },
@@ -948,7 +2667,196 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-paco-de-sao-roque-history-v2.webp",
   },
   {
-    id: "portugal-castelo-de-torre-de-moncorvo-history-v2",
+    id: "portugal-castelo-de-torre-de-moncorvo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solar dos Pimentéis",
+                  "text": "Ein prächtiger Palast in Torre de Moncorvo, der der Familie Pimentel gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        -7.052309,
+                        41.173894
+                  ]
+            },
+            {
+                  "name": "Cabeço de Alfarela",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Torre de Moncorvo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.096518,
+                        41.186746
+                  ]
+            },
+            {
+                  "name": "Museu do Ferro",
+                  "text": "Ein Museum in Torre de Moncorvo, das der Geschichte der Eisenindustrie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.053283,
+                        41.173366
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Ein Museum in Torre de Moncorvo, das sakrale Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.052055,
+                        41.175928
+                  ]
+            },
+            {
+                  "name": "Teatro \"O Celeiro\"",
+                  "text": "Ein lokales Theater in Torre de Moncorvo, das in einem ehemaligen Speicher untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.050279,
+                        41.172185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solar dos Pimentéis",
+                  "text": "A Pimentel család egykori impozáns palotája Torre de Moncorvóban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.052309,
+                        41.173894
+                  ]
+            },
+            {
+                  "name": "Cabeço de Alfarela",
+                  "text": "Régészeti lelőhely Torre de Moncorvo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.096518,
+                        41.186746
+                  ]
+            },
+            {
+                  "name": "Museu do Ferro",
+                  "text": "A vasipar történetét bemutató múzeum Torre de Moncorvóban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.053283,
+                        41.173366
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Szakrális művészeti alkotásokat bemutató múzeum Torre de Moncorvóban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.052055,
+                        41.175928
+                  ]
+            },
+            {
+                  "name": "Teatro \"O Celeiro\"",
+                  "text": "Helyi színház Torre de Moncorvóban, egy egykori magtár épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.050279,
+                        41.172185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solar dos Pimentéis",
+                  "text": "Un palat impunător în Torre de Moncorvo, aparținând familiei Pimentel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.052309,
+                        41.173894
+                  ]
+            },
+            {
+                  "name": "Cabeço de Alfarela",
+                  "text": "Un sit arheologic situat în apropiere de Torre de Moncorvo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.096518,
+                        41.186746
+                  ]
+            },
+            {
+                  "name": "Museu do Ferro",
+                  "text": "Un muzeu în Torre de Moncorvo dedicat istoriei industriei fierului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.053283,
+                        41.173366
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Un muzeu în Torre de Moncorvo care expune obiecte de artă sacră.",
+                  "category": "museum",
+                  "coords": [
+                        -7.052055,
+                        41.175928
+                  ]
+            },
+            {
+                  "name": "Teatro \"O Celeiro\"",
+                  "text": "Un teatru local în Torre de Moncorvo, situat într-un fost grânar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.050279,
+                        41.172185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solar dos Pimentéis",
+                  "text": "A grand palace in Torre de Moncorvo that belonged to the Pimentel family.",
+                  "category": "castle",
+                  "coords": [
+                        -7.052309,
+                        41.173894
+                  ]
+            },
+            {
+                  "name": "Cabeço de Alfarela",
+                  "text": "An archaeological site located near Torre de Moncorvo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.096518,
+                        41.186746
+                  ]
+            },
+            {
+                  "name": "Museu do Ferro",
+                  "text": "A museum in Torre de Moncorvo dedicated to the history of the iron industry.",
+                  "category": "museum",
+                  "coords": [
+                        -7.053283,
+                        41.173366
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "A museum in Torre de Moncorvo exhibiting sacred art collections.",
+                  "category": "museum",
+                  "coords": [
+                        -7.052055,
+                        41.175928
+                  ]
+            },
+            {
+                  "name": "Teatro \"O Celeiro\"",
+                  "text": "A local theatre in Torre de Moncorvo housed in a former granary.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.050279,
+                        41.172185
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Burg Torre de Moncorvo", hu: "Torre de Moncorvo vára", ro: "Castelul Torre de Moncorvo", en: "Torre de Moncorvo Castle" },
@@ -1038,7 +2946,232 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-ruinas-de-sao-miguel-da-pena-history-v2.webp",
   },
   {
-    id: "portugal-fortaleza-de-marinha-grande-history-v2",
+    id: "portugal-fortaleza-de-marinha-grande-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Ein Museum in Marinha Grande, das die bedeutende Glastradition der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Ein Kunstmuseum, das dem Werk des Bildhauers Joaquim Correia gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "Eine Schaukel an einem Aussichtspunkt, die einen weiten Blick auf die Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "Eine beliebte Attraktion mit einer Schaukel, die zum Entspannen in der Natur einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Ein monumentaler und historisch bedeutender Baum in der Region Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "Ein historisches Gebäude, das früher als Aussichtspunkt oder Wachturm diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Marinha Grande múzeuma, amely a város jelentős üveggyártási hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Joaquim Correia szobrászművész munkásságának szentelt művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "Egy kilátóponton elhelyezett hinta, amely szép rálátást nyújt a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "Egy népszerű hinta-attrakció, amely pihenésre hív a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Egy monumentális és történelmi jelentőségű fa Marinha Grande régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "Egy történelmi épület, amely korábban figyelőhelyként vagy őrtoronyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "Un muzeu din Marinha Grande care documentează tradiția importantă a sticlăriei din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "Un muzeu de artă dedicat operei sculptorului Joaquim Correia.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "Un leagăn situat într-un punct panoramic, oferind o vedere largă asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "O atracție populară cu un leagăn, invitând la relaxare în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "Un arbore monumental și de importanță istorică din regiunea Marinha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "O clădire istorică ce a servit în trecut ca punct de observație sau turn de veghe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Vidro",
+                  "text": "A museum in Marinha Grande documenting the city's significant glassmaking tradition.",
+                  "category": "museum",
+                  "coords": [
+                        -8.933513,
+                        39.749407
+                  ]
+            },
+            {
+                  "name": "Museu Joaquim Correia",
+                  "text": "An art museum dedicated to the work of the sculptor Joaquim Correia.",
+                  "category": "museum",
+                  "coords": [
+                        -8.930912,
+                        39.751571
+                  ]
+            },
+            {
+                  "name": "Baloiço do Forno da Telha",
+                  "text": "A scenic swing located at a viewpoint, offering wide views of the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940636,
+                        39.760769
+                  ]
+            },
+            {
+                  "name": "Baloiço Pé Descalço",
+                  "text": "A popular attraction featuring a swing, inviting visitors to relax in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.961865,
+                        39.742036
+                  ]
+            },
+            {
+                  "name": "Guardião d'El Rei",
+                  "text": "A monumental and historically significant tree in the Marinha Grande region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.946361,
+                        39.754
+                  ]
+            },
+            {
+                  "name": "Antiga Vigia da Boavista",
+                  "text": "A historic building that formerly served as a lookout or watchtower.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.925076,
+                        39.759582
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "PT",
     name: { de: "Festung Marinha Grande", hu: "Marinha Grande erőd", ro: "Fortăreața Marinha Grande", en: "Marinha Grande Fortress" },
@@ -1083,7 +3216,160 @@ export const portugalHistoryV2: POI[] = [
     image: "/poi-images/portugal-fortaleza-de-marinha-grande-history-v2.webp",
   },
   {
-    id: "portugal-paco-de-valadares-history-v2",
+    id: "portugal-paco-de-valadares-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "Ein prachtvolles herrschaftliches Gebäude in Paço de Valadares.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "Eine dekorative Panoramaschaukel in der Gemeinde Vagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Ein historisches Herrenhaus mit traditioneller Architektur in Paço de Valadares.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Das Rathaus von Vagos, der Sitz der lokalen Verwaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "Díszes úri palota Paço de Valadaresben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "Dekoratív panorámás hinta Vagos községben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Hagyományos építészetű történelmi kúria Paço de Valadaresben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Vagos városházája, a helyi közigazgatás központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "O clădire nobiliară impunătoare în Paço de Valadares.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "Un leagăn panoramic decorativ în localitatea Vagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "Un conac istoric cu arhitectură tradițională în Paço de Valadares.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "Primăria din Vagos, sediul administrației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacete Visconde de Valdemouro",
+                  "text": "A grand stately building located in Paço de Valadares.",
+                  "category": "castle",
+                  "coords": [
+                        -8.680669,
+                        40.553915
+                  ]
+            },
+            {
+                  "name": "Baloiço de Vagos",
+                  "text": "A decorative panoramic swing in the municipality of Vagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.677111,
+                        40.553
+                  ]
+            },
+            {
+                  "name": "Solar do Paço da Ermida",
+                  "text": "A historical manor house with traditional architecture in Paço de Valadares.",
+                  "category": "historical",
+                  "coords": [
+                        -8.674849,
+                        40.578768
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Vagos",
+                  "text": "The town hall of Vagos, the seat of local administration.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.678445,
+                        40.548642
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "PT",
     name: { de: "Paço de Valadares", hu: "Paço de Valadares", ro: "Paço de Valadares", en: "Paço de Valadares" },

@@ -130,6 +130,51 @@ export const denmarkCitiesV2: POI[] = [
                         9.854721,
                         55.872538
                   ]
+            },
+            {
+                  "name": "Holger Danskes Hoj",
+                  "text": "Eine historische archäologische Stätte in Horsens mit einem alten Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        9.812965,
+                        55.874619
+                  ]
+            },
+            {
+                  "name": "Bygholm slotsbanke",
+                  "text": "Ein archäologischer Ort in Horsens, der die Reste einer mittelalterlichen Befestigungsanlage bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        9.82892,
+                        55.866456
+                  ]
+            },
+            {
+                  "name": "Horsens Kunstmuseum",
+                  "text": "Ein Kunstmuseum in Horsens, das eine Sammlung moderner dänischer Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.860714,
+                        55.864553
+                  ]
+            },
+            {
+                  "name": "Horsens Ny Teater",
+                  "text": "Ein modernes Theater- und Konzerthaus in Horsens für vielfältige Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.847633,
+                        55.862761
+                  ]
+            },
+            {
+                  "name": "Horsens Museum",
+                  "text": "Ein Museum in Horsens, das die Lokalgeschichte und archäologische Funde der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.863234,
+                        55.863278
+                  ]
             }
       ],
       "hu": [
@@ -212,6 +257,51 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         9.854721,
                         55.872538
+                  ]
+            },
+            {
+                  "name": "Holger Danskes Hoj",
+                  "text": "Történelmi régészeti lelőhely Horsensben, egy jelentős ősi sírhalommal.",
+                  "category": "historical",
+                  "coords": [
+                        9.812965,
+                        55.874619
+                  ]
+            },
+            {
+                  "name": "Bygholm slotsbanke",
+                  "text": "Régészeti lelőhely Horsensben, amely egy középkori várdomb maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        9.82892,
+                        55.866456
+                  ]
+            },
+            {
+                  "name": "Horsens Kunstmuseum",
+                  "text": "Horsensi művészeti múzeum, amely dán modern és kortárs művészeti gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.860714,
+                        55.864553
+                  ]
+            },
+            {
+                  "name": "Horsens Ny Teater",
+                  "text": "Modern színház és koncertterem Horsensben, amely változatos színpadi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        9.847633,
+                        55.862761
+                  ]
+            },
+            {
+                  "name": "Horsens Museum",
+                  "text": "Kultúrtörténeti múzeum Horsensben, amely a helyi örökséget és régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.863234,
+                        55.863278
                   ]
             }
       ],
@@ -296,6 +386,51 @@ export const denmarkCitiesV2: POI[] = [
                         9.854721,
                         55.872538
                   ]
+            },
+            {
+                  "name": "Holger Danskes Hoj",
+                  "text": "Un sit arheologic istoric din Horsens, care prezintă un tumul antic semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        9.812965,
+                        55.874619
+                  ]
+            },
+            {
+                  "name": "Bygholm slotsbanke",
+                  "text": "Un sit arheologic din Horsens care păstrează resturile unei coline de castel medieval.",
+                  "category": "historical",
+                  "coords": [
+                        9.82892,
+                        55.866456
+                  ]
+            },
+            {
+                  "name": "Horsens Kunstmuseum",
+                  "text": "Un muzeu de artă din Horsens care expune o colecție de artă modernă și contemporană daneză.",
+                  "category": "museum",
+                  "coords": [
+                        9.860714,
+                        55.864553
+                  ]
+            },
+            {
+                  "name": "Horsens Ny Teater",
+                  "text": "O sală modernă de teatru și concerte din Horsens, care găzduiește o varietate de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        9.847633,
+                        55.862761
+                  ]
+            },
+            {
+                  "name": "Horsens Museum",
+                  "text": "Un muzeu din Horsens care prezintă istoria locală și descoperirile arheologice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        9.863234,
+                        55.863278
+                  ]
             }
       ],
       "en": [
@@ -378,6 +513,51 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         9.854721,
                         55.872538
+                  ]
+            },
+            {
+                  "name": "Holger Danskes Hoj",
+                  "text": "A historic archaeological site in Horsens featuring a significant ancient burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        9.812965,
+                        55.874619
+                  ]
+            },
+            {
+                  "name": "Bygholm slotsbanke",
+                  "text": "An archaeological site in Horsens preserving the remains of a medieval castle mound.",
+                  "category": "historical",
+                  "coords": [
+                        9.82892,
+                        55.866456
+                  ]
+            },
+            {
+                  "name": "Horsens Kunstmuseum",
+                  "text": "An art museum in Horsens exhibiting a collection of Danish modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        9.860714,
+                        55.864553
+                  ]
+            },
+            {
+                  "name": "Horsens Ny Teater",
+                  "text": "A modern theatre and concert hall in Horsens hosting a variety of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.847633,
+                        55.862761
+                  ]
+            },
+            {
+                  "name": "Horsens Museum",
+                  "text": "A cultural history museum in Horsens exploring the local heritage and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        9.863234,
+                        55.863278
                   ]
             }
       ]
@@ -5134,6 +5314,60 @@ export const denmarkCitiesV2: POI[] = [
                         10.814881,
                         55.314211
                   ]
+            },
+            {
+                  "name": "Nyborg Voldspil",
+                  "text": "Dänemarks ältestes Freilichttheater, das in den Festungswällen errichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.78904,
+                        55.313151
+                  ]
+            },
+            {
+                  "name": "Borgmestergården",
+                  "text": "Ein kulturgeschichtliches Museum in einem historischen Kaufmannshaus aus dem 17. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        10.788519,
+                        55.311558
+                  ]
+            },
+            {
+                  "name": "Nyborg fæstning",
+                  "text": "Die historischen Befestigungsanlagen und Wälle rund um Nyborg.",
+                  "category": "castle",
+                  "coords": [
+                        10.787575,
+                        55.314323
+                  ]
+            },
+            {
+                  "name": "Schloss Nyborg",
+                  "text": "Eine mittelalterliche königliche Burg, die als Tagungsort des dänischen Parlaments diente.",
+                  "category": "castle",
+                  "coords": [
+                        10.786751,
+                        55.312732
+                  ]
+            },
+            {
+                  "name": "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+                  "text": "Eine Stätte und ein Museum, das der Schlacht von Nyborg im Jahr 1659 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.765123,
+                        55.320922
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Eine archäologische Stätte in Nyborg, die traditionell mit der schwedischen Belagerung verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.787386,
+                        55.3247
+                  ]
             }
       ],
       "hu": [
@@ -5153,6 +5387,60 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         10.814881,
                         55.314211
+                  ]
+            },
+            {
+                  "name": "Nyborg Voldspil",
+                  "text": "Dánia legrégebbi szabadtéri színháza, amelyet a várfalak között alakítottak ki.",
+                  "category": "cultural",
+                  "coords": [
+                        10.78904,
+                        55.313151
+                  ]
+            },
+            {
+                  "name": "Borgmestergården",
+                  "text": "Kultúrtörténeti múzeum egy 17. századi történelmi kereskedőházban.",
+                  "category": "museum",
+                  "coords": [
+                        10.788519,
+                        55.311558
+                  ]
+            },
+            {
+                  "name": "Nyborg fæstning",
+                  "text": "Nyborg városát körülvevő történelmi erődítmények és sáncok.",
+                  "category": "castle",
+                  "coords": [
+                        10.787575,
+                        55.314323
+                  ]
+            },
+            {
+                  "name": "Nyborg Slot",
+                  "text": "Középkori királyi vár, amely a dán parlament találkozóhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        10.786751,
+                        55.312732
+                  ]
+            },
+            {
+                  "name": "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+                  "text": "Az 1659-es nyborgi csatának szentelt emlékhely és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.765123,
+                        55.320922
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Régészeti lelőhely Nyborgban, amely hagyományosan a svéd ostromhoz kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        10.787386,
+                        55.3247
                   ]
             }
       ],
@@ -5174,6 +5462,60 @@ export const denmarkCitiesV2: POI[] = [
                         10.814881,
                         55.314211
                   ]
+            },
+            {
+                  "name": "Nyborg Voldspil",
+                  "text": "Cel mai vechi teatru în aer liber din Danemarca, stabilit în interiorul zidurilor cetății.",
+                  "category": "cultural",
+                  "coords": [
+                        10.78904,
+                        55.313151
+                  ]
+            },
+            {
+                  "name": "Borgmestergården",
+                  "text": "Un muzeu de istorie culturală găzduit într-o casă istorică de negustor din secolul al XVII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        10.788519,
+                        55.311558
+                  ]
+            },
+            {
+                  "name": "Nyborg fæstning",
+                  "text": "Fortificațiile și meterezele istorice care înconjoară orașul Nyborg.",
+                  "category": "castle",
+                  "coords": [
+                        10.787575,
+                        55.314323
+                  ]
+            },
+            {
+                  "name": "Nyborg Slot",
+                  "text": "Un castel regal medieval care a servit drept loc de întâlnire pentru parlamentul danez.",
+                  "category": "castle",
+                  "coords": [
+                        10.786751,
+                        55.312732
+                  ]
+            },
+            {
+                  "name": "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+                  "text": "Un sit și un muzeu dedicate bătăliei de la Nyborg din 1659.",
+                  "category": "museum",
+                  "coords": [
+                        10.765123,
+                        55.320922
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "Un sit arheologic din Nyborg, asociat tradițional cu asediul suedez.",
+                  "category": "historical",
+                  "coords": [
+                        10.787386,
+                        55.3247
+                  ]
             }
       ],
       "en": [
@@ -5193,6 +5535,60 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         10.814881,
                         55.314211
+                  ]
+            },
+            {
+                  "name": "Nyborg Voldspil",
+                  "text": "Denmark's oldest open-air theater, established within the castle ramparts.",
+                  "category": "cultural",
+                  "coords": [
+                        10.78904,
+                        55.313151
+                  ]
+            },
+            {
+                  "name": "Borgmestergården",
+                  "text": "A museum of cultural history housed in a historic 17th-century merchant's house.",
+                  "category": "museum",
+                  "coords": [
+                        10.788519,
+                        55.311558
+                  ]
+            },
+            {
+                  "name": "Nyborg fæstning",
+                  "text": "The historic fortifications and ramparts surrounding Nyborg.",
+                  "category": "castle",
+                  "coords": [
+                        10.787575,
+                        55.314323
+                  ]
+            },
+            {
+                  "name": "Nyborg Slot",
+                  "text": "A medieval royal castle that served as the meeting place for the Danish parliament.",
+                  "category": "castle",
+                  "coords": [
+                        10.786751,
+                        55.312732
+                  ]
+            },
+            {
+                  "name": "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+                  "text": "A site and museum dedicated to the 1659 Battle of Nyborg.",
+                  "category": "museum",
+                  "coords": [
+                        10.765123,
+                        55.320922
+                  ]
+            },
+            {
+                  "name": "Svenskehøj",
+                  "text": "An archaeological site in Nyborg, traditionally associated with the Swedish siege.",
+                  "category": "historical",
+                  "coords": [
+                        10.787386,
+                        55.3247
                   ]
             }
       ]
@@ -8742,7 +9138,160 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-lemvig-cities-v2.webp",
   },
   {
-    id: "denmark-store-heddinge-cities-v2",
+    id: "denmark-store-heddinge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Møllehøj",
+                  "text": "Eine archäologische Ausgrabungsstätte in Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.421357,
+                        55.319175
+                  ]
+            },
+            {
+                  "name": "Fredenshøj",
+                  "text": "Eine prähistorische Grabstätte in der Nähe von Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.38904,
+                        55.286593
+                  ]
+            },
+            {
+                  "name": "Stevns Folklore Forening",
+                  "text": "Ein Museum in Store Heddinge, das sich der lokalen Folklore widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.389221,
+                        55.312869
+                  ]
+            },
+            {
+                  "name": "Sankt Katharina Kirke",
+                  "text": "Eine markante Kirche in Store Heddinge mit einem achteckigen Grundriss.",
+                  "category": "religious",
+                  "coords": [
+                        12.391678,
+                        55.312735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Møllehøj",
+                  "text": "Régészeti lelőhely Store Heddinge területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.421357,
+                        55.319175
+                  ]
+            },
+            {
+                  "name": "Fredenshøj",
+                  "text": "Prehisztorikus lelőhely Store Heddinge közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.38904,
+                        55.286593
+                  ]
+            },
+            {
+                  "name": "Stevns Folklore Forening",
+                  "text": "A helyi folklórnak szentelt múzeum Store Heddinge városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.389221,
+                        55.312869
+                  ]
+            },
+            {
+                  "name": "Sankt Katharina Kirke",
+                  "text": "Store Heddinge jellegzetes, nyolcszögletű alaprajzú temploma.",
+                  "category": "religious",
+                  "coords": [
+                        12.391678,
+                        55.312735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Møllehøj",
+                  "text": "Un sit arheologic situat în Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.421357,
+                        55.319175
+                  ]
+            },
+            {
+                  "name": "Fredenshøj",
+                  "text": "Un sit arheologic preistoric situat lângă Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.38904,
+                        55.286593
+                  ]
+            },
+            {
+                  "name": "Stevns Folklore Forening",
+                  "text": "Un muzeu din Store Heddinge dedicat folclorului local.",
+                  "category": "museum",
+                  "coords": [
+                        12.389221,
+                        55.312869
+                  ]
+            },
+            {
+                  "name": "Sankt Katharina Kirke",
+                  "text": "O biserică distinctivă din Store Heddinge, cunoscută pentru planul său octogonal.",
+                  "category": "religious",
+                  "coords": [
+                        12.391678,
+                        55.312735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Møllehøj",
+                  "text": "An archaeological site located in Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.421357,
+                        55.319175
+                  ]
+            },
+            {
+                  "name": "Fredenshøj",
+                  "text": "A prehistoric archaeological site located near Store Heddinge.",
+                  "category": "historical",
+                  "coords": [
+                        12.38904,
+                        55.286593
+                  ]
+            },
+            {
+                  "name": "Stevns Folklore Forening",
+                  "text": "A museum in Store Heddinge dedicated to local folklore.",
+                  "category": "museum",
+                  "coords": [
+                        12.389221,
+                        55.312869
+                  ]
+            },
+            {
+                  "name": "Sankt Katharina Kirke",
+                  "text": "A distinctive church in Store Heddinge known for its octagonal floor plan.",
+                  "category": "religious",
+                  "coords": [
+                        12.391678,
+                        55.312735
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Store Heddinge", hu: "Store Heddinge", ro: "Store Heddinge", en: "Store Heddinge" },
@@ -10021,6 +10570,15 @@ export const denmarkCitiesV2: POI[] = [
                         12.352018,
                         55.615414
                   ]
+            },
+            {
+                  "name": "Hundige Strand - Ishoj Strand",
+                  "text": "Sandstrand an der Küste von Ishøj zur Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.386427,
+                        55.60321
+                  ]
             }
       ],
       "hu": [
@@ -10175,6 +10733,15 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.352018,
                         55.615414
+                  ]
+            },
+            {
+                  "name": "Hundige Strand - Ishoj Strand",
+                  "text": "Homokos tengerpart Ishøj partjainál tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.386427,
+                        55.60321
                   ]
             }
       ],
@@ -10331,6 +10898,15 @@ export const denmarkCitiesV2: POI[] = [
                         12.352018,
                         55.615414
                   ]
+            },
+            {
+                  "name": "Hundige Strand - Ishoj Strand",
+                  "text": "Plajă cu nisip pe coasta din Ishøj pentru relaxare la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        12.386427,
+                        55.60321
+                  ]
             }
       ],
       "en": [
@@ -10486,6 +11062,15 @@ export const denmarkCitiesV2: POI[] = [
                         12.352018,
                         55.615414
                   ]
+            },
+            {
+                  "name": "Hundige Strand - Ishoj Strand",
+                  "text": "Sandy beach on the coast of Ishøj for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        12.386427,
+                        55.60321
+                  ]
             }
       ]
 },
@@ -10533,7 +11118,916 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-ishøj-cities-v2.webp",
   },
   {
-    id: "denmark-hvidovre-cities-v2", "sights": {"de": [{"name": "Kagssøen", "text": "In der dänischen Stadt Hvidovre befindet sich der Kagssøen, ein malerischer See für Naturliebhaber. Besucher können hier friedliche Spaziergänge entlang des Wassers unternehmen. Die ruhige Umgebung macht ihn zu einem idealen Ort der Entspannung.", "category": "natural", "coords": [12.453921, 55.713271]}, {"name": "Peblinge-See", "text": "Der Peblinge-See bietet eine wunderschöne Naturkulisse in Hvidovre. Er ist ein hervorragendes Ziel für ausgedehnte Spaziergänge an der frischen Luft. Das ruhige Gewässer sorgt für eine erholsame Atmosphäre bei jedem Besuch.", "category": "natural", "coords": [12.561298, 55.684256]}, {"name": "Vagthussøen", "text": "Der idyllische Vagthussøen ist ein friedliches Naturgewässer im dänischen Hvidovre. Wer die Natur genießen möchte, findet hier perfekte Bedingungen zum Spazieren und Entspannen. Dieser See lädt Gäste dazu ein, einfach mal die Seele baumeln zu lassen.", "category": "natural", "coords": [12.569616, 55.646922]}, {"name": "Utterslev gadekær", "text": "Utterslev gadekær ist ein charmanter kleiner See in der Gemeinde Hvidovre. Er dient als lokaler Treffpunkt für entspannte Spaziergänge in einer natürlichen Umgebung. Besucher können an diesem Gewässer eine ruhige Pause vom Alltag einlegen.", "category": "natural", "coords": [12.516543, 55.71034]}, {"name": "Mudilles Sø", "text": "Versteckt in Hvidovre liegt der Mudilles Sø, ein malerischer See mit einer besonders friedlichen Atmosphäre. Ein Streifzug durch dieses Naturgebiet lässt Besucher die dänische Landschaft in vollen Zügen genießen. Er ist absolut empfehlenswert für alle, die einen ruhigen Rückzugsort suchen.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Vestmosen", "text": "Ein natürliches Seegebiet in Hvidovre, ideal für Spaziergänge und zur Naturbeobachtung.", "category": "natural", "coords": [12.493695, 55.712791]}, {"name": "Damhussøen", "text": "Damhussøen ist ein bekannter See in Hvidovre, der für seine schönen Aussichten geschätzt wird. Das Gebiet ist äußerst beliebt, um wandern zu gehen und die dänische Natur hautnah zu erleben. Ein Besuch verspricht eine beruhigende Auszeit am Wasser.", "category": "natural", "coords": [12.478138, 55.677051]}, {"name": "Sortedams-See", "text": "Der Sortedams-See in Hvidovre bietet eine absolut ruhige natürliche Umgebung. Er lädt Einheimische wie Touristen gleichermaßen zu gemütlichen Spaziergängen an seinen Ufern ein. Diese idyllische Lage ist perfekt, um die Natur in Dänemark zu schätzen.", "category": "natural", "coords": [12.57129, 55.692053]}, {"name": "Sankt-Joergens-See", "text": "Sankt-Joergens-See ist ein optisch reizvolles Naturziel innerhalb von Hvidovre. Der See schafft eine exzellente Umgebung, um beim Gehen inmitten schöner Landschaften abzuschalten. Naturfreunde werden das leise Ambiente an diesem Gewässer sicherlich genießen.", "category": "natural", "coords": [12.557804, 55.677784]}, {"name": "Grønjordssøen", "text": "Der Grønjordssøen ist ein herrliches natürliches Gewässer im Stadtgebiet von Hvidovre. Eine Umrundung des Sees ist eine fantastische Möglichkeit, die lokale dänische Natur zu bewundern. Dieser friedliche Ort eignet sich hervorragend für ein stilles Verweilen.", "category": "natural", "coords": [12.585011, 55.651501]}, {"name": "Klydesøen", "text": "Ein schöner See in Hvidovre, der zu ruhigen Spaziergängen in der Natur einlädt.", "category": "natural", "coords": [12.529172, 55.585306]}, {"name": "Tivoli Søen", "text": "Der Tivoli Søen ist ein zauberhafter See, der die natürliche Landschaft von Hvidovre bereichert. Er ist das perfekte Ziel, um einen erfrischenden Spaziergang zu machen und sich mit der Natur zu verbinden. Die malerischen Blicke aufs Wasser bieten eine willkommene Pause vom Stadtleben.", "category": "natural", "coords": [12.56963, 55.67387]}, {"name": "Spilleland", "text": "Eine Spielhalle in Hvidovre mit verschiedenen Spielen für die Familienunterhaltung.", "category": "family", "coords": [12.477052, 55.663498]}, {"name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet", "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.", "category": "family", "coords": [12.479349, 55.666714]}, {"name": "Byggeren", "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.", "category": "family", "coords": [12.475921, 55.655484]}, {"name": "Troldelegepladsen", "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.", "category": "family", "coords": [12.498705, 55.663791]}, {"name": "GoMonkey Søndermarken", "text": "Diese Attraktion in Hvidovre ist ein wunderbares Ziel für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [12.518653, 55.670653]}, {"name": "Friluftsbadet Præstemosen", "text": "Dieser Wasserpark in Hvidovre bietet Wasserspaß und Erholung für die ganze Familie.", "category": "family", "coords": [12.465463, 55.655785]}], "hu": [{"name": "Kagssøen", "text": "A dániai Hvidovre városában található Kagssøen egy festői tó a természetkedvelők számára. A látogatók békés sétákat tehetnek a vízpart mentén. A nyugodt környezet ideális helyszínné teszi a kikapcsolódáshoz.", "category": "natural", "coords": [12.453921, 55.713271]}, {"name": "Peblinge Sø", "text": "A Peblinge-See gyönyörű természeti környezetet kínál Hvidovre területén. Kiváló célpont hosszú sétákhoz és a dán természet felfedezéséhez. A csendes vízfelület pihentető hátteret biztosít minden látogatónak.", "category": "natural", "coords": [12.561298, 55.684256]}, {"name": "Vagthussøen", "text": "Az idillikus Vagthussøen egy békés természetes vízfelület a dániai Hvidovre városában. Aki élvezni szeretné a természetet, tökéletes körülményeket talál itt a sétához és a pihenéshez. Ez a tó arra hívja a vendégeket, hogy kikapcsolódjanak a szabadban.", "category": "natural", "coords": [12.569616, 55.646922]}, {"name": "Utterslev gadekær", "text": "Az Utterslev gadekær egy hangulatos kis tó Hvidovre dán községben. Nagyszerű helyi célpontként szolgál a pihentető sétákhoz és a természeti környezet élvezetéhez. A látogatók egy csendes szünetet tarthatnak itt a vízparton.", "category": "natural", "coords": [12.516543, 55.71034]}, {"name": "Mudilles Sø", "text": "A Hvidovre területén megbúvó Mudilles Sø egy festői tó, amelyet békés légkör jellemez. A természetes területen tett séta lehetővé teszi a látogatók számára, hogy teljes mértékben élvezzék a dán tájat. Kifejezetten ajánlott mindenkinek, aki nyugodt menedékre vágyik.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Vestmosen", "text": "Természetes tóvidék Hvidovre városában, amely ideális sétákhoz és természetjáráshoz.", "category": "natural", "coords": [12.493695, 55.712791]}, {"name": "Damhussøen", "text": "A Damhussøen egy kiemelkedő tó Hvidovre városában, amely festői kilátásáról ismert. A terület rendkívül népszerű sétálásra és a természet testközelből történő megtapasztalására. Az itteni látogatás megnyugtató kikapcsolódást ígér a vízparton.", "category": "natural", "coords": [12.478138, 55.677051]}, {"name": "Sortedams Sø", "text": "A nyugodt természeti környezetet kínáló Sortedams-See egy kedves tó Hvidovre területén. Arra invitálja a helyieket és a turistákat egyaránt, hogy kényelmes sétákat tegyenek a partjain. A békés környezet tökéletes a dániai természet szépségeinek élvezetéhez.", "category": "natural", "coords": [12.57129, 55.692053]}, {"name": "Sankt Jørgens Sø", "text": "A Sankt-Joergens-See egy vizuálisan vonzó természeti látványosság Dániában, Hvidovre területén. Kiváló környezetet biztosít a sétához és a kikapcsolódáshoz a gyönyörű táj közepette. A természet szerelmesei élvezni fogják a tó csendes hangulatát.", "category": "natural", "coords": [12.557804, 55.677784]}, {"name": "Grønjordssøen", "text": "A Hvidovre városában található Grønjordssøen egy gyönyörű természetes tó. A körülötte tett séta fantasztikus módja a helyi dán természet élvezetének. Ez a nyugodt hely csodálatos célpont a csendes elmélkedéshez.", "category": "natural", "coords": [12.585011, 55.651501]}, {"name": "Klydesøen", "text": "Szép tó Hvidovre területén, amely nyugodt sétákra hív a természetben.", "category": "natural", "coords": [12.529172, 55.585306]}, {"name": "Tivoli Søen", "text": "A Tivoli Søen egy bájos tó, amely gazdagítja Hvidovre természeti táját. Ideális célpont egy frissítő sétához és a természettel való kapcsolatteremtéshez. A festői vízi kilátás békés szünetet kínál a városi élettől.", "category": "natural", "coords": [12.56963, 55.67387]}, {"name": "Spilleland", "text": "Szórakoztató játékterem Hvidovre területén, különféle játékokkal a család kikapcsolódásához.", "category": "family", "coords": [12.477052, 55.663498]}, {"name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet", "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.", "category": "family", "coords": [12.479349, 55.666714]}, {"name": "Byggeren", "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.", "category": "family", "coords": [12.475921, 55.655484]}, {"name": "Troldelegepladsen", "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.", "category": "family", "coords": [12.498705, 55.663791]}, {"name": "GoMonkey Søndermarken", "text": "Ez a Hvidovre városában található látványosság csodálatos úti cél egy szórakoztató családi kiránduláshoz.", "category": "family", "coords": [12.518653, 55.670653]}, {"name": "Friluftsbadet Præstemosen", "text": "Ez a Hvidovre városában található vízipark szórakozást és pihenést kínál az egész családnak.", "category": "family", "coords": [12.465463, 55.655785]}], "ro": [{"name": "Kagssøen", "text": "Situat în orașul danez Hvidovre, Kagssøen este un lac pitoresc perfect pentru iubitorii de natură. Vizitatorii se pot bucura de plimbări pașnice de-a lungul malului apei. Mediul senin îl face un loc ideal pentru relaxare în aer liber.", "category": "natural", "coords": [12.453921, 55.713271]}, {"name": "Peblinge Sø", "text": "Peblinge-See oferă un cadru natural pitoresc în interiorul orașului Hvidovre. Este o destinație minunată pentru plimbări lungi și pentru a aprecia natura daneză. Apele calme oferă un fundal relaxant pentru orice vizitator.", "category": "natural", "coords": [12.561298, 55.684256]}, {"name": "Vagthussøen", "text": "Frumosul Vagthussøen este un corp de apă natural și senin, situat în Hvidovre, Danemarca. Cei care doresc să se bucure de natură îl vor găsi perfect potrivit pentru plimbare și relaxare. Acest lac invită oaspeții să se deconecteze în mijlocul naturii.", "category": "natural", "coords": [12.569616, 55.646922]}, {"name": "Utterslev gadekær", "text": "Utterslev gadekær este un iaz fermecător situat în municipalitatea daneză Hvidovre. Servește ca un loc local minunat pentru a face plimbări relaxante și a admira împrejurimile naturale. Vizitatorii pot lua o pauză liniștită lângă apă aici.", "category": "natural", "coords": [12.516543, 55.71034]}, {"name": "Mudilles Sø", "text": "Ascuns în Hvidovre, Mudilles Sø este un lac pitoresc caracterizat prin atmosfera sa pașnică. O plimbare prin această zonă naturală permite vizitatorilor să se bucure din plin de peisajul danez. Este foarte recomandat pentru oricine caută un refugiu liniștit.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Vestmosen", "text": "O zonă naturală de lac în Hvidovre, ideală pentru plimbări și observarea naturii.", "category": "natural", "coords": [12.493695, 55.712791]}, {"name": "Damhussøen", "text": "Damhussøen este un lac proeminent în Hvidovre, Danemarca, cunoscut pentru priveliștile sale pitorești. Zona este foarte populară pentru plimbări și pentru a experimenta natura de aproape. O vizită aici promite o evadare liniștitoare lângă apă.", "category": "natural", "coords": [12.478138, 55.677051]}, {"name": "Sortedams Sø", "text": "Oferind un mediu natural liniștit, Sortedams-See este un lac minunat situat în Hvidovre. Invită localnicii și turiștii deopotrivă să facă plimbări relaxante de-a lungul țărmurilor sale. Cadrul pașnic este perfect pentru a aprecia natura din Danemarca.", "category": "natural", "coords": [12.57129, 55.692053]}, {"name": "Sankt Jørgens Sø", "text": "Sankt-Joergens-See este o atracție naturală atrăgătoare vizual, situată în Hvidovre, Danemarca. Oferă un mediu excelent pentru plimbare și relaxare în mijlocul unor peisaje frumoase. Pasionații de natură se vor bucura de ambianța liniștită a acestui lac.", "category": "natural", "coords": [12.557804, 55.677784]}, {"name": "Grønjordssøen", "text": "Aflat în orașul Hvidovre, Grønjordssøen este un lac natural superb. Plimbarea în jurul perimetrului său este o modalitate fantastică de a vă bucura de natura daneză locală. Acest loc senin este un spațiu minunat pentru reflecție liniștită.", "category": "natural", "coords": [12.585011, 55.651501]}, {"name": "Klydesøen", "text": "Un lac frumos în Hvidovre, care invită la plimbări liniștite în natură.", "category": "natural", "coords": [12.529172, 55.585306]}, {"name": "Tivoli Søen", "text": "Tivoli Søen este un lac fermecător care îmbogățește peisajul natural din Hvidovre. Este o destinație ideală pentru a face o plimbare revigorantă și pentru a vă conecta cu natura. Vederile pitorești ale apei oferă o pauză pașnică de la viața de oraș.", "category": "natural", "coords": [12.56963, 55.67387]}, {"name": "Spilleland", "text": "O sală de jocuri în Hvidovre, cu diverse jocuri pentru divertismentul familiei.", "category": "family", "coords": [12.477052, 55.663498]}, {"name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet", "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.", "category": "family", "coords": [12.479349, 55.666714]}, {"name": "Byggeren", "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.", "category": "family", "coords": [12.475921, 55.655484]}, {"name": "Troldelegepladsen", "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.", "category": "family", "coords": [12.498705, 55.663791]}, {"name": "GoMonkey Søndermarken", "text": "Această atracție din Hvidovre este o destinație minunată pentru o ieșire distractivă în familie.", "category": "family", "coords": [12.518653, 55.670653]}, {"name": "Friluftsbadet Præstemosen", "text": "Acest parc acvatic din Hvidovre oferă distracție și relaxare pentru întreaga familie.", "category": "family", "coords": [12.465463, 55.655785]}], "en": [{"name": "Kagssøen", "text": "Located in Hvidovre, Denmark, Kagssøen is a picturesque lake perfect for nature lovers. Visitors can enjoy peaceful walks along the water's edge. The serene environment makes it an ideal spot to relax outdoors.", "category": "natural", "coords": [12.453921, 55.713271]}, {"name": "Peblinge Sø", "text": "Peblinge-See offers a scenic natural setting within Hvidovre. It is a wonderful destination for taking long strolls and appreciating the Danish outdoors. The calm waters provide a relaxing backdrop for any visitor.", "category": "natural", "coords": [12.561298, 55.684256]}, {"name": "Vagthussøen", "text": "The beautiful Vagthussøen is a serene natural body of water located in Hvidovre, Denmark. Those looking to enjoy the outdoors will find it perfectly suited for walking and relaxation. This lake invites guests to unwind amidst nature.", "category": "natural", "coords": [12.569616, 55.646922]}, {"name": "Utterslev gadekær", "text": "Utterslev gadekær is a charming pond situated in the Danish municipality of Hvidovre. It serves as a great local spot for taking relaxing walks and soaking in the natural surroundings. Visitors can take a quiet break by the water here.", "category": "natural", "coords": [12.516543, 55.71034]}, {"name": "Mudilles Sø", "text": "Tucked away in Hvidovre, Mudilles Sø is a scenic lake characterized by its peaceful atmosphere. Strolling around this natural area allows visitors to fully enjoy the Danish landscape. It is highly recommended for anyone seeking a quiet retreat.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Vestmosen", "text": "A natural lake area in Hvidovre, ideal for walks and nature observation.", "category": "natural", "coords": [12.493695, 55.712791]}, {"name": "Damhussøen", "text": "Damhussøen is a prominent lake in Hvidovre, Denmark, known for its picturesque views. The area is highly popular for walking and experiencing nature up close. A visit here promises a calming escape by the water.", "category": "natural", "coords": [12.478138, 55.677051]}, {"name": "Sortedams Sø", "text": "Offering a tranquil natural environment, Sortedams-See is a lovely lake located in Hvidovre. It invites locals and tourists alike to take leisurely walks along its shores. The peaceful setting is perfect for appreciating the outdoors in Denmark.", "category": "natural", "coords": [12.57129, 55.692053]}, {"name": "Sankt Jørgens Sø", "text": "Sankt-Joergens-See is a visually appealing natural attraction situated within Hvidovre, Denmark. It provides an excellent environment for walking and unwinding amidst beautiful scenery. Nature enthusiasts will enjoy the quiet ambiance of this lake.", "category": "natural", "coords": [12.557804, 55.677784]}, {"name": "Grønjordssøen", "text": "Found in the city of Hvidovre, Grønjordssøen is a beautiful natural lake. Walking around its perimeter is a fantastic way to enjoy the local Danish nature. This serene spot is a wonderful place for quiet reflection.", "category": "natural", "coords": [12.585011, 55.651501]}, {"name": "Klydesøen", "text": "A beautiful lake in Hvidovre, inviting for quiet walks in nature.", "category": "natural", "coords": [12.529172, 55.585306]}, {"name": "Tivoli Søen", "text": "Tivoli Søen is a charming lake that enhances the natural landscape of Hvidovre. It is an ideal destination for taking a refreshing walk and connecting with nature. The scenic water views offer a peaceful break from the city.", "category": "natural", "coords": [12.56963, 55.67387]}, {"name": "Spilleland", "text": "An amusement arcade in Hvidovre featuring various games for family entertainment.", "category": "family", "coords": [12.477052, 55.663498]}, {"name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet", "text": "A family-friendly playground in Hvidovre offering various activities for children.", "category": "family", "coords": [12.479349, 55.666714]}, {"name": "Byggeren", "text": "A family-friendly playground in Hvidovre offering various activities for children.", "category": "family", "coords": [12.475921, 55.655484]}, {"name": "Troldelegepladsen", "text": "A family-friendly playground in Hvidovre offering various activities for children.", "category": "family", "coords": [12.498705, 55.663791]}, {"name": "GoMonkey Søndermarken", "text": "This attraction in Hvidovre is a wonderful destination for a fun family outing.", "category": "family", "coords": [12.518653, 55.670653]}, {"name": "Friluftsbadet Præstemosen", "text": "This water park in Hvidovre offers water fun and relaxation for the whole family.", "category": "family", "coords": [12.465463, 55.655785]}]},
+    id: "denmark-hvidovre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kagssøen",
+                  "text": "In der dänischen Stadt Hvidovre befindet sich der Kagssøen, ein malerischer See für Naturliebhaber. Besucher können hier friedliche Spaziergänge entlang des Wassers unternehmen. Die ruhige Umgebung macht ihn zu einem idealen Ort der Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        12.453921,
+                        55.713271
+                  ]
+            },
+            {
+                  "name": "Peblinge-See",
+                  "text": "Der Peblinge-See bietet eine wunderschöne Naturkulisse in Hvidovre. Er ist ein hervorragendes Ziel für ausgedehnte Spaziergänge an der frischen Luft. Das ruhige Gewässer sorgt für eine erholsame Atmosphäre bei jedem Besuch.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Der idyllische Vagthussøen ist ein friedliches Naturgewässer im dänischen Hvidovre. Wer die Natur genießen möchte, findet hier perfekte Bedingungen zum Spazieren und Entspannen. Dieser See lädt Gäste dazu ein, einfach mal die Seele baumeln zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær ist ein charmanter kleiner See in der Gemeinde Hvidovre. Er dient als lokaler Treffpunkt für entspannte Spaziergänge in einer natürlichen Umgebung. Besucher können an diesem Gewässer eine ruhige Pause vom Alltag einlegen.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Versteckt in Hvidovre liegt der Mudilles Sø, ein malerischer See mit einer besonders friedlichen Atmosphäre. Ein Streifzug durch dieses Naturgebiet lässt Besucher die dänische Landschaft in vollen Zügen genießen. Er ist absolut empfehlenswert für alle, die einen ruhigen Rückzugsort suchen.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "Ein natürliches Seegebiet in Hvidovre, ideal für Spaziergänge und zur Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen ist ein bekannter See in Hvidovre, der für seine schönen Aussichten geschätzt wird. Das Gebiet ist äußerst beliebt, um wandern zu gehen und die dänische Natur hautnah zu erleben. Ein Besuch verspricht eine beruhigende Auszeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams-See",
+                  "text": "Der Sortedams-See in Hvidovre bietet eine absolut ruhige natürliche Umgebung. Er lädt Einheimische wie Touristen gleichermaßen zu gemütlichen Spaziergängen an seinen Ufern ein. Diese idyllische Lage ist perfekt, um die Natur in Dänemark zu schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt-Joergens-See",
+                  "text": "Sankt-Joergens-See ist ein optisch reizvolles Naturziel innerhalb von Hvidovre. Der See schafft eine exzellente Umgebung, um beim Gehen inmitten schöner Landschaften abzuschalten. Naturfreunde werden das leise Ambiente an diesem Gewässer sicherlich genießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Der Grønjordssøen ist ein herrliches natürliches Gewässer im Stadtgebiet von Hvidovre. Eine Umrundung des Sees ist eine fantastische Möglichkeit, die lokale dänische Natur zu bewundern. Dieser friedliche Ort eignet sich hervorragend für ein stilles Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Klydesøen",
+                  "text": "Ein schöner See in Hvidovre, der zu ruhigen Spaziergängen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.529172,
+                        55.585306
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Der Tivoli Søen ist ein zauberhafter See, der die natürliche Landschaft von Hvidovre bereichert. Er ist das perfekte Ziel, um einen erfrischenden Spaziergang zu machen und sich mit der Natur zu verbinden. Die malerischen Blicke aufs Wasser bieten eine willkommene Pause vom Stadtleben.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Spilleland",
+                  "text": "Eine Spielhalle in Hvidovre mit verschiedenen Spielen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        12.477052,
+                        55.663498
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet",
+                  "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.479349,
+                        55.666714
+                  ]
+            },
+            {
+                  "name": "Byggeren",
+                  "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.475921,
+                        55.655484
+                  ]
+            },
+            {
+                  "name": "Troldelegepladsen",
+                  "text": "Ein familienfreundlicher Spielplatz in Hvidovre, der verschiedene Aktivitäten für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.498705,
+                        55.663791
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "Diese Attraktion in Hvidovre ist ein wunderbares Ziel für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Friluftsbadet Præstemosen",
+                  "text": "Dieser Wasserpark in Hvidovre bietet Wasserspaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.465463,
+                        55.655785
+                  ]
+            },
+            {
+                  "name": "Simons Hoj",
+                  "text": "Ein prähistorischer Grabhügel in Hvidovre, der Zeugnis von der frühen Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        12.48323,
+                        55.624974
+                  ]
+            },
+            {
+                  "name": "Teater V",
+                  "text": "Ein zeitgenössisches Theater in Hvidovre, das moderne Produktionen und Stücke zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        12.509822,
+                        55.664596
+                  ]
+            },
+            {
+                  "name": "Teater Vestvolden",
+                  "text": "Ein lokales Theater in Hvidovre für darstellende Künste und Gemeinschaftsprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        12.479186,
+                        55.642747
+                  ]
+            },
+            {
+                  "name": "Rebaek Sopark",
+                  "text": "Ein öffentlicher Park in Hvidovre mit einem See und Erholungsflächen im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        12.457658,
+                        55.660366
+                  ]
+            },
+            {
+                  "name": "Vestvolden Kikkertstation nr. 5",
+                  "text": "Ein Aussichtspunkt in Hvidovre, der Teil der historischen Befestigungsanlage Vestvolden ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.425736,
+                        55.64807
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jorden og Manen",
+                  "text": "Teil des Planetenwegs in Hvidovre, der die Erde und den Mond maßstabsgetreu darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.504443,
+                        55.635334
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jupiter",
+                  "text": "Eine Station des Planetenwegs in Hvidovre, die dem Planeten Jupiter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.502858,
+                        55.631072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kagssøen",
+                  "text": "A dániai Hvidovre városában található Kagssøen egy festői tó a természetkedvelők számára. A látogatók békés sétákat tehetnek a vízpart mentén. A nyugodt környezet ideális helyszínné teszi a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.453921,
+                        55.713271
+                  ]
+            },
+            {
+                  "name": "Peblinge Sø",
+                  "text": "A Peblinge-See gyönyörű természeti környezetet kínál Hvidovre területén. Kiváló célpont hosszú sétákhoz és a dán természet felfedezéséhez. A csendes vízfelület pihentető hátteret biztosít minden látogatónak.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Az idillikus Vagthussøen egy békés természetes vízfelület a dániai Hvidovre városában. Aki élvezni szeretné a természetet, tökéletes körülményeket talál itt a sétához és a pihenéshez. Ez a tó arra hívja a vendégeket, hogy kikapcsolódjanak a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Az Utterslev gadekær egy hangulatos kis tó Hvidovre dán községben. Nagyszerű helyi célpontként szolgál a pihentető sétákhoz és a természeti környezet élvezetéhez. A látogatók egy csendes szünetet tarthatnak itt a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "A Hvidovre területén megbúvó Mudilles Sø egy festői tó, amelyet békés légkör jellemez. A természetes területen tett séta lehetővé teszi a látogatók számára, hogy teljes mértékben élvezzék a dán tájat. Kifejezetten ajánlott mindenkinek, aki nyugodt menedékre vágyik.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "Természetes tóvidék Hvidovre városában, amely ideális sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "A Damhussøen egy kiemelkedő tó Hvidovre városában, amely festői kilátásáról ismert. A terület rendkívül népszerű sétálásra és a természet testközelből történő megtapasztalására. Az itteni látogatás megnyugtató kikapcsolódást ígér a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "A nyugodt természeti környezetet kínáló Sortedams-See egy kedves tó Hvidovre területén. Arra invitálja a helyieket és a turistákat egyaránt, hogy kényelmes sétákat tegyenek a partjain. A békés környezet tökéletes a dániai természet szépségeinek élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "A Sankt-Joergens-See egy vizuálisan vonzó természeti látványosság Dániában, Hvidovre területén. Kiváló környezetet biztosít a sétához és a kikapcsolódáshoz a gyönyörű táj közepette. A természet szerelmesei élvezni fogják a tó csendes hangulatát.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "A Hvidovre városában található Grønjordssøen egy gyönyörű természetes tó. A körülötte tett séta fantasztikus módja a helyi dán természet élvezetének. Ez a nyugodt hely csodálatos célpont a csendes elmélkedéshez.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Klydesøen",
+                  "text": "Szép tó Hvidovre területén, amely nyugodt sétákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.529172,
+                        55.585306
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "A Tivoli Søen egy bájos tó, amely gazdagítja Hvidovre természeti táját. Ideális célpont egy frissítő sétához és a természettel való kapcsolatteremtéshez. A festői vízi kilátás békés szünetet kínál a városi élettől.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Spilleland",
+                  "text": "Szórakoztató játékterem Hvidovre területén, különféle játékokkal a család kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        12.477052,
+                        55.663498
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet",
+                  "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.479349,
+                        55.666714
+                  ]
+            },
+            {
+                  "name": "Byggeren",
+                  "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.475921,
+                        55.655484
+                  ]
+            },
+            {
+                  "name": "Troldelegepladsen",
+                  "text": "Családbarát játszótér Hvidovre városában, amely különféle tevékenységeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        12.498705,
+                        55.663791
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "Ez a Hvidovre városában található látványosság csodálatos úti cél egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Friluftsbadet Præstemosen",
+                  "text": "Ez a Hvidovre városában található vízipark szórakozást és pihenést kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.465463,
+                        55.655785
+                  ]
+            },
+            {
+                  "name": "Simons Hoj",
+                  "text": "Történelmi sírhalom Hvidovrében, amely az ősidőkből származik.",
+                  "category": "historical",
+                  "coords": [
+                        12.48323,
+                        55.624974
+                  ]
+            },
+            {
+                  "name": "Teater V",
+                  "text": "Kortárs színház Hvidovrében, amely modern színpadi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.509822,
+                        55.664596
+                  ]
+            },
+            {
+                  "name": "Teater Vestvolden",
+                  "text": "Helyi színház Hvidovrében, amely változatos drámai és zenei előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.479186,
+                        55.642747
+                  ]
+            },
+            {
+                  "name": "Rebaek Sopark",
+                  "text": "Közpark Hvidovrében, festői tóval és zöldfelületekkel a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        12.457658,
+                        55.660366
+                  ]
+            },
+            {
+                  "name": "Vestvolden Kikkertstation nr. 5",
+                  "text": "Kilátópont Hvidovre területén, amely a történelmi Vestvolden erődítményrendszer része.",
+                  "category": "natural",
+                  "coords": [
+                        12.425736,
+                        55.64807
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jorden og Manen",
+                  "text": "A hvidovrei Planetstien része, amely a Földet és a Holdat ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.504443,
+                        55.635334
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jupiter",
+                  "text": "A hvidovrei Planetstien egyik állomása, amely a Jupiter bolygót mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        12.502858,
+                        55.631072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kagssøen",
+                  "text": "Situat în orașul danez Hvidovre, Kagssøen este un lac pitoresc perfect pentru iubitorii de natură. Vizitatorii se pot bucura de plimbări pașnice de-a lungul malului apei. Mediul senin îl face un loc ideal pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.453921,
+                        55.713271
+                  ]
+            },
+            {
+                  "name": "Peblinge Sø",
+                  "text": "Peblinge-See oferă un cadru natural pitoresc în interiorul orașului Hvidovre. Este o destinație minunată pentru plimbări lungi și pentru a aprecia natura daneză. Apele calme oferă un fundal relaxant pentru orice vizitator.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "Frumosul Vagthussøen este un corp de apă natural și senin, situat în Hvidovre, Danemarca. Cei care doresc să se bucure de natură îl vor găsi perfect potrivit pentru plimbare și relaxare. Acest lac invită oaspeții să se deconecteze în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær este un iaz fermecător situat în municipalitatea daneză Hvidovre. Servește ca un loc local minunat pentru a face plimbări relaxante și a admira împrejurimile naturale. Vizitatorii pot lua o pauză liniștită lângă apă aici.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Ascuns în Hvidovre, Mudilles Sø este un lac pitoresc caracterizat prin atmosfera sa pașnică. O plimbare prin această zonă naturală permite vizitatorilor să se bucure din plin de peisajul danez. Este foarte recomandat pentru oricine caută un refugiu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "O zonă naturală de lac în Hvidovre, ideală pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen este un lac proeminent în Hvidovre, Danemarca, cunoscut pentru priveliștile sale pitorești. Zona este foarte populară pentru plimbări și pentru a experimenta natura de aproape. O vizită aici promite o evadare liniștitoare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "Oferind un mediu natural liniștit, Sortedams-See este un lac minunat situat în Hvidovre. Invită localnicii și turiștii deopotrivă să facă plimbări relaxante de-a lungul țărmurilor sale. Cadrul pașnic este perfect pentru a aprecia natura din Danemarca.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "Sankt-Joergens-See este o atracție naturală atrăgătoare vizual, situată în Hvidovre, Danemarca. Oferă un mediu excelent pentru plimbare și relaxare în mijlocul unor peisaje frumoase. Pasionații de natură se vor bucura de ambianța liniștită a acestui lac.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Aflat în orașul Hvidovre, Grønjordssøen este un lac natural superb. Plimbarea în jurul perimetrului său este o modalitate fantastică de a vă bucura de natura daneză locală. Acest loc senin este un spațiu minunat pentru reflecție liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Klydesøen",
+                  "text": "Un lac frumos în Hvidovre, care invită la plimbări liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.529172,
+                        55.585306
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Tivoli Søen este un lac fermecător care îmbogățește peisajul natural din Hvidovre. Este o destinație ideală pentru a face o plimbare revigorantă și pentru a vă conecta cu natura. Vederile pitorești ale apei oferă o pauză pașnică de la viața de oraș.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Spilleland",
+                  "text": "O sală de jocuri în Hvidovre, cu diverse jocuri pentru divertismentul familiei.",
+                  "category": "family",
+                  "coords": [
+                        12.477052,
+                        55.663498
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet",
+                  "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.479349,
+                        55.666714
+                  ]
+            },
+            {
+                  "name": "Byggeren",
+                  "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.475921,
+                        55.655484
+                  ]
+            },
+            {
+                  "name": "Troldelegepladsen",
+                  "text": "Un teren de joacă pentru familii în Hvidovre, care oferă diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        12.498705,
+                        55.663791
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "Această atracție din Hvidovre este o destinație minunată pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Friluftsbadet Præstemosen",
+                  "text": "Acest parc acvatic din Hvidovre oferă distracție și relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.465463,
+                        55.655785
+                  ]
+            },
+            {
+                  "name": "Simons Hoj",
+                  "text": "Un tumul istoric din Hvidovre, care datează din timpuri străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        12.48323,
+                        55.624974
+                  ]
+            },
+            {
+                  "name": "Teater V",
+                  "text": "O sală de teatru contemporan din Hvidovre, care găzduiește producții moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.509822,
+                        55.664596
+                  ]
+            },
+            {
+                  "name": "Teater Vestvolden",
+                  "text": "Un teatru local din Hvidovre, cunoscut pentru spectacolele sale dramatice și muzicale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        12.479186,
+                        55.642747
+                  ]
+            },
+            {
+                  "name": "Rebaek Sopark",
+                  "text": "Un parc public din Hvidovre, cu un lac pitoresc și spații verzi pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        12.457658,
+                        55.660366
+                  ]
+            },
+            {
+                  "name": "Vestvolden Kikkertstation nr. 5",
+                  "text": "Un punct de observare în Hvidovre, situat pe fortificația istorică Vestvolden.",
+                  "category": "natural",
+                  "coords": [
+                        12.425736,
+                        55.64807
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jorden og Manen",
+                  "text": "O parte a traseului Planetstien din Hvidovre, reprezentând Pământul și Luna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.504443,
+                        55.635334
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jupiter",
+                  "text": "O stație de pe traseul Planetstien din Hvidovre, dedicată planetei Jupiter.",
+                  "category": "landmark",
+                  "coords": [
+                        12.502858,
+                        55.631072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kagssøen",
+                  "text": "Located in Hvidovre, Denmark, Kagssøen is a picturesque lake perfect for nature lovers. Visitors can enjoy peaceful walks along the water's edge. The serene environment makes it an ideal spot to relax outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        12.453921,
+                        55.713271
+                  ]
+            },
+            {
+                  "name": "Peblinge Sø",
+                  "text": "Peblinge-See offers a scenic natural setting within Hvidovre. It is a wonderful destination for taking long strolls and appreciating the Danish outdoors. The calm waters provide a relaxing backdrop for any visitor.",
+                  "category": "natural",
+                  "coords": [
+                        12.561298,
+                        55.684256
+                  ]
+            },
+            {
+                  "name": "Vagthussøen",
+                  "text": "The beautiful Vagthussøen is a serene natural body of water located in Hvidovre, Denmark. Those looking to enjoy the outdoors will find it perfectly suited for walking and relaxation. This lake invites guests to unwind amidst nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.569616,
+                        55.646922
+                  ]
+            },
+            {
+                  "name": "Utterslev gadekær",
+                  "text": "Utterslev gadekær is a charming pond situated in the Danish municipality of Hvidovre. It serves as a great local spot for taking relaxing walks and soaking in the natural surroundings. Visitors can take a quiet break by the water here.",
+                  "category": "natural",
+                  "coords": [
+                        12.516543,
+                        55.71034
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Tucked away in Hvidovre, Mudilles Sø is a scenic lake characterized by its peaceful atmosphere. Strolling around this natural area allows visitors to fully enjoy the Danish landscape. It is highly recommended for anyone seeking a quiet retreat.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Vestmosen",
+                  "text": "A natural lake area in Hvidovre, ideal for walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        12.493695,
+                        55.712791
+                  ]
+            },
+            {
+                  "name": "Damhussøen",
+                  "text": "Damhussøen is a prominent lake in Hvidovre, Denmark, known for its picturesque views. The area is highly popular for walking and experiencing nature up close. A visit here promises a calming escape by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.478138,
+                        55.677051
+                  ]
+            },
+            {
+                  "name": "Sortedams Sø",
+                  "text": "Offering a tranquil natural environment, Sortedams-See is a lovely lake located in Hvidovre. It invites locals and tourists alike to take leisurely walks along its shores. The peaceful setting is perfect for appreciating the outdoors in Denmark.",
+                  "category": "natural",
+                  "coords": [
+                        12.57129,
+                        55.692053
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgens Sø",
+                  "text": "Sankt-Joergens-See is a visually appealing natural attraction situated within Hvidovre, Denmark. It provides an excellent environment for walking and unwinding amidst beautiful scenery. Nature enthusiasts will enjoy the quiet ambiance of this lake.",
+                  "category": "natural",
+                  "coords": [
+                        12.557804,
+                        55.677784
+                  ]
+            },
+            {
+                  "name": "Grønjordssøen",
+                  "text": "Found in the city of Hvidovre, Grønjordssøen is a beautiful natural lake. Walking around its perimeter is a fantastic way to enjoy the local Danish nature. This serene spot is a wonderful place for quiet reflection.",
+                  "category": "natural",
+                  "coords": [
+                        12.585011,
+                        55.651501
+                  ]
+            },
+            {
+                  "name": "Klydesøen",
+                  "text": "A beautiful lake in Hvidovre, inviting for quiet walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.529172,
+                        55.585306
+                  ]
+            },
+            {
+                  "name": "Tivoli Søen",
+                  "text": "Tivoli Søen is a charming lake that enhances the natural landscape of Hvidovre. It is an ideal destination for taking a refreshing walk and connecting with nature. The scenic water views offer a peaceful break from the city.",
+                  "category": "natural",
+                  "coords": [
+                        12.56963,
+                        55.67387
+                  ]
+            },
+            {
+                  "name": "Spilleland",
+                  "text": "An amusement arcade in Hvidovre featuring various games for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        12.477052,
+                        55.663498
+                  ]
+            },
+            {
+                  "name": "Legepladsen i Vigerslevparken ved Engdraget og Mellemledet",
+                  "text": "A family-friendly playground in Hvidovre offering various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        12.479349,
+                        55.666714
+                  ]
+            },
+            {
+                  "name": "Byggeren",
+                  "text": "A family-friendly playground in Hvidovre offering various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        12.475921,
+                        55.655484
+                  ]
+            },
+            {
+                  "name": "Troldelegepladsen",
+                  "text": "A family-friendly playground in Hvidovre offering various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        12.498705,
+                        55.663791
+                  ]
+            },
+            {
+                  "name": "GoMonkey Søndermarken",
+                  "text": "This attraction in Hvidovre is a wonderful destination for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        12.518653,
+                        55.670653
+                  ]
+            },
+            {
+                  "name": "Friluftsbadet Præstemosen",
+                  "text": "This water park in Hvidovre offers water fun and relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        12.465463,
+                        55.655785
+                  ]
+            },
+            {
+                  "name": "Simons Hoj",
+                  "text": "A historic burial mound in Hvidovre dating back to ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        12.48323,
+                        55.624974
+                  ]
+            },
+            {
+                  "name": "Teater V",
+                  "text": "A contemporary theatre venue in Hvidovre hosting modern stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        12.509822,
+                        55.664596
+                  ]
+            },
+            {
+                  "name": "Teater Vestvolden",
+                  "text": "A local theatre in Hvidovre known for its diverse dramatic and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.479186,
+                        55.642747
+                  ]
+            },
+            {
+                  "name": "Rebaek Sopark",
+                  "text": "A public park in Hvidovre featuring a scenic lake and green spaces for leisure.",
+                  "category": "park",
+                  "coords": [
+                        12.457658,
+                        55.660366
+                  ]
+            },
+            {
+                  "name": "Vestvolden Kikkertstation nr. 5",
+                  "text": "A viewpoint in Hvidovre located on the historic Vestvolden fortifications.",
+                  "category": "natural",
+                  "coords": [
+                        12.425736,
+                        55.64807
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jorden og Manen",
+                  "text": "Part of the Planet Path in Hvidovre, representing the Earth and the Moon.",
+                  "category": "landmark",
+                  "coords": [
+                        12.504443,
+                        55.635334
+                  ]
+            },
+            {
+                  "name": "Planetstien: Jupiter",
+                  "text": "A station on the Planet Path in Hvidovre dedicated to the planet Jupiter.",
+                  "category": "landmark",
+                  "coords": [
+                        12.502858,
+                        55.631072
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Hvidovre", hu: "Hvidovre", ro: "Hvidovre", en: "Hvidovre" },
@@ -37111,6 +38605,51 @@ export const denmarkCitiesV2: POI[] = [
                         12.519003,
                         55.678699
                   ]
+            },
+            {
+                  "name": "Bellahoj Friluftsscene",
+                  "text": "Große Freilichtbühne für Theateraufführungen und Konzerte in Brønshøj.",
+                  "category": "cultural",
+                  "coords": [
+                        12.508649,
+                        55.702837
+                  ]
+            },
+            {
+                  "name": "Cirkus Panik & KBHFF Vanlose",
+                  "text": "Kultur- und Zirkuszentrum im Stadtteil Brønshøj.",
+                  "category": "cultural",
+                  "coords": [
+                        12.48237,
+                        55.69341
+                  ]
+            },
+            {
+                  "name": "Barbie Museum",
+                  "text": "Museum mit einer privaten Sammlung von Barbie-Puppen in Brønshøj.",
+                  "category": "museum",
+                  "coords": [
+                        12.52557,
+                        55.697266
+                  ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Galerie für zeitgenössische Kunst im Stadtteil Brønshøj.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Vanlose Lokalarkiv",
+                  "text": "Lokalarchiv mit historischen Dokumenten aus dem Stadtteil Vanløse.",
+                  "category": "museum",
+                  "coords": [
+                        12.487129,
+                        55.692244
+                  ]
             }
       ],
       "hu": [
@@ -37580,6 +39119,51 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.519003,
                         55.678699
+                  ]
+            },
+            {
+                  "name": "Bellahoj Friluftsscene",
+                  "text": "Nagy szabadtéri színpad színházi előadásokhoz és koncertekhez Brønshøjban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.508649,
+                        55.702837
+                  ]
+            },
+            {
+                  "name": "Cirkus Panik & KBHFF Vanlose",
+                  "text": "Kulturális és cirkuszi központ Brønshøj negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.48237,
+                        55.69341
+                  ]
+            },
+            {
+                  "name": "Barbie Museum",
+                  "text": "Múzeum Barbie-babák privát gyűjteményével Brønshøjban.",
+                  "category": "museum",
+                  "coords": [
+                        12.52557,
+                        55.697266
+                  ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Kortárs művészeti galéria Brønshøj negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Vanlose Lokalarkiv",
+                  "text": "Helyi archívum Vanløse negyedének történelmi dokumentumaival.",
+                  "category": "museum",
+                  "coords": [
+                        12.487129,
+                        55.692244
                   ]
             }
       ],
@@ -38051,6 +39635,51 @@ export const denmarkCitiesV2: POI[] = [
                         12.519003,
                         55.678699
                   ]
+            },
+            {
+                  "name": "Bellahoj Friluftsscene",
+                  "text": "Scenă mare în aer liber pentru spectacole de teatru și concerte în Brønshøj.",
+                  "category": "cultural",
+                  "coords": [
+                        12.508649,
+                        55.702837
+                  ]
+            },
+            {
+                  "name": "Cirkus Panik & KBHFF Vanlose",
+                  "text": "Centru cultural și de circ în districtul Brønshøj.",
+                  "category": "cultural",
+                  "coords": [
+                        12.48237,
+                        55.69341
+                  ]
+            },
+            {
+                  "name": "Barbie Museum",
+                  "text": "Muzeu cu o colecție privată de păpuși Barbie în Brønshøj.",
+                  "category": "museum",
+                  "coords": [
+                        12.52557,
+                        55.697266
+                  ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Galerie de artă contemporană în districtul Brønshøj.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Vanlose Lokalarkiv",
+                  "text": "Arhivă locală cu documente istorice din districtul Vanløse.",
+                  "category": "museum",
+                  "coords": [
+                        12.487129,
+                        55.692244
+                  ]
             }
       ],
       "en": [
@@ -38520,6 +40149,51 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.519003,
                         55.678699
+                  ]
+            },
+            {
+                  "name": "Bellahoj Friluftsscene",
+                  "text": "Large open-air stage for theatre performances and concerts in Brønshøj.",
+                  "category": "cultural",
+                  "coords": [
+                        12.508649,
+                        55.702837
+                  ]
+            },
+            {
+                  "name": "Cirkus Panik & KBHFF Vanlose",
+                  "text": "Cultural and circus center in the Brønshøj district.",
+                  "category": "cultural",
+                  "coords": [
+                        12.48237,
+                        55.69341
+                  ]
+            },
+            {
+                  "name": "Barbie Museum",
+                  "text": "Museum featuring a private collection of Barbie dolls in Brønshøj.",
+                  "category": "museum",
+                  "coords": [
+                        12.52557,
+                        55.697266
+                  ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Contemporary art gallery in the Brønshøj district.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Vanlose Lokalarkiv",
+                  "text": "Local archive with historical documents from the Vanløse district.",
+                  "category": "museum",
+                  "coords": [
+                        12.487129,
+                        55.692244
                   ]
             }
       ]
@@ -41035,6 +42709,78 @@ export const denmarkCitiesV2: POI[] = [
                         12.613288,
                         55.72228
                   ]
+            },
+            {
+                  "name": "Teater Republique",
+                  "text": "Ein zeitgenössisches Theater im Kopenhagener Stadtteil Østerbro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.574679,
+                        55.705693
+                  ]
+            },
+            {
+                  "name": "Danish Jewish Museum",
+                  "text": "Ein Museum in Kopenhagen, das der Geschichte und Kultur der Juden in Dänemark gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medical Museion",
+                  "text": "Ein medizinhistorisches Museum in Kopenhagen mit Fokus auf die Geschichte der Gesundheit und Krankheiten.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "The David Collection",
+                  "text": "Eine bedeutende Kunstsammlung in Kopenhagen, bekannt für ihre islamische Kunst und europäischen Gemälde.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Politihistorisk Museum",
+                  "text": "Das Museum dokumentiert die Geschichte der dänischen Polizei und Kriminalität.",
+                  "category": "museum",
+                  "coords": [
+                        12.560847,
+                        55.690031
+                  ]
+            },
+            {
+                  "name": "Comedy Zoo",
+                  "text": "Ein bekannter Veranstaltungsort für Stand-up-Comedy im Zentrum von Kopenhagen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.575589,
+                        55.677086
+                  ]
+            },
+            {
+                  "name": "The Danish Music Museum",
+                  "text": "Das Museum beherbergt eine umfangreiche Sammlung historischer Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        12.552377,
+                        55.682313
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Ein Museum im Schloss Amalienborg, das Einblicke in das Leben der dänischen Monarchie gewährt.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
             }
       ],
       "hu": [
@@ -41351,6 +43097,78 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.613288,
                         55.72228
+                  ]
+            },
+            {
+                  "name": "Teater Republique",
+                  "text": "Kortárs színház Koppenhága Østerbro negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.574679,
+                        55.705693
+                  ]
+            },
+            {
+                  "name": "Danish Jewish Museum",
+                  "text": "Múzeum Koppenhágában, amely a dániai zsidóság történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medical Museion",
+                  "text": "Orvostörténeti múzeum Koppenhágában, amely az egészségügy és a betegségek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "The David Collection",
+                  "text": "Jelentős művészeti gyűjtemény Koppenhágában, amely iszlám művészetéről és európai festményeiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Politihistorisk Museum",
+                  "text": "A múzeum a dán rendőrség és a bűnözés történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.560847,
+                        55.690031
+                  ]
+            },
+            {
+                  "name": "Comedy Zoo",
+                  "text": "Ismert stand-up comedy helyszín Koppenhága központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.575589,
+                        55.677086
+                  ]
+            },
+            {
+                  "name": "The Danish Music Museum",
+                  "text": "A múzeum történelmi hangszerek gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.552377,
+                        55.682313
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Az Amalienborg palotában található múzeum, amely a dán monarchia életébe nyújt betekintést.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
                   ]
             }
       ],
@@ -41669,6 +43487,78 @@ export const denmarkCitiesV2: POI[] = [
                         12.613288,
                         55.72228
                   ]
+            },
+            {
+                  "name": "Teater Republique",
+                  "text": "Un teatru contemporan situat în cartierul Østerbro din Copenhaga.",
+                  "category": "cultural",
+                  "coords": [
+                        12.574679,
+                        55.705693
+                  ]
+            },
+            {
+                  "name": "Danish Jewish Museum",
+                  "text": "Un muzeu din Copenhaga dedicat istoriei și culturii evreilor din Danemarca.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medical Museion",
+                  "text": "Un muzeu de istorie a medicinei din Copenhaga, axat pe istoria sănătății și a bolilor.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "The David Collection",
+                  "text": "O colecție de artă importantă din Copenhaga, cunoscută pentru arta islamică și picturile europene.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Politihistorisk Museum",
+                  "text": "Muzeul documentează istoria poliției daneze și a criminalității.",
+                  "category": "museum",
+                  "coords": [
+                        12.560847,
+                        55.690031
+                  ]
+            },
+            {
+                  "name": "Comedy Zoo",
+                  "text": "O locație cunoscută pentru spectacole de stand-up comedy în centrul Copenhagăi.",
+                  "category": "cultural",
+                  "coords": [
+                        12.575589,
+                        55.677086
+                  ]
+            },
+            {
+                  "name": "The Danish Music Museum",
+                  "text": "Muzeul găzduiește o colecție vastă de instrumente muzicale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.552377,
+                        55.682313
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Un muzeu aflat în palatul Amalienborg, oferind o incursiune în viața monarhiei daneze.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
             }
       ],
       "en": [
@@ -41985,6 +43875,78 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.613288,
                         55.72228
+                  ]
+            },
+            {
+                  "name": "Teater Republique",
+                  "text": "A contemporary theatre located in the Østerbro district of Copenhagen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.574679,
+                        55.705693
+                  ]
+            },
+            {
+                  "name": "Danish Jewish Museum",
+                  "text": "A museum in Copenhagen dedicated to the history and culture of Jews in Denmark.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medical Museion",
+                  "text": "A medical history museum in Copenhagen focusing on the history of health and disease.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "The David Collection",
+                  "text": "A significant art collection in Copenhagen known for its Islamic art and European paintings.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Politihistorisk Museum",
+                  "text": "The museum documents the history of the Danish police force and crime.",
+                  "category": "museum",
+                  "coords": [
+                        12.560847,
+                        55.690031
+                  ]
+            },
+            {
+                  "name": "Comedy Zoo",
+                  "text": "A well-known stand-up comedy venue in central Copenhagen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.575589,
+                        55.677086
+                  ]
+            },
+            {
+                  "name": "The Danish Music Museum",
+                  "text": "The museum houses an extensive collection of historic musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        12.552377,
+                        55.682313
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "A museum located in Amalienborg Palace, providing insight into the life of the Danish monarchy.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
                   ]
             }
       ]
@@ -47767,6 +49729,42 @@ export const denmarkCitiesV2: POI[] = [
                         12.565375,
                         55.723676
                   ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Dyssegård, die verschiedene moderne Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Villum Window Collection",
+                  "text": "Ein spezialisiertes Museum in Dyssegård, das der Geschichte und dem Design von Fenstern gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.480218,
+                        55.741063
+                  ]
+            },
+            {
+                  "name": "Utterslev Mose",
+                  "text": "Ein großes Park- und Seegebiet in Dyssegård, das beliebt für Vogelbeobachtung und Outdoor-Aktivitäten ist.",
+                  "category": "park",
+                  "coords": [
+                        12.505605,
+                        55.716294
+                  ]
+            },
+            {
+                  "name": "Brobaek Mose",
+                  "text": "Ein malerischer Naturpark in Dyssegård, bekannt für seine Feuchtgebiete und vielfältige Flora.",
+                  "category": "park",
+                  "coords": [
+                        12.53143,
+                        55.750095
+                  ]
             }
       ],
       "hu": [
@@ -48218,6 +50216,42 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.565375,
                         55.723676
+                  ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "Kortárs művészeti galéria Dyssegårdban, amely különféle modern alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Villum Window Collection",
+                  "text": "Egy speciális múzeum Dyssegårdban, amely az ablakok történetének és kialakításának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.480218,
+                        55.741063
+                  ]
+            },
+            {
+                  "name": "Utterslev Mose",
+                  "text": "Egy nagy park és tóvidék Dyssegårdban, amely népszerű a madármegfigyelés és a szabadtéri tevékenységek körében.",
+                  "category": "park",
+                  "coords": [
+                        12.505605,
+                        55.716294
+                  ]
+            },
+            {
+                  "name": "Brobaek Mose",
+                  "text": "Festői natúrpark Dyssegårdban, amely mocsaras területeiről és változatos flórájáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        12.53143,
+                        55.750095
                   ]
             }
       ],
@@ -48671,6 +50705,42 @@ export const denmarkCitiesV2: POI[] = [
                         12.565375,
                         55.723676
                   ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "O galerie de artă contemporană situată în Dyssegård, care expune diverse lucrări moderne.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Villum Window Collection",
+                  "text": "Un muzeu specializat din Dyssegård dedicat istoriei și designului ferestrelor.",
+                  "category": "museum",
+                  "coords": [
+                        12.480218,
+                        55.741063
+                  ]
+            },
+            {
+                  "name": "Utterslev Mose",
+                  "text": "Un parc mare și o zonă lacustră din Dyssegård, populară pentru observarea păsărilor și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        12.505605,
+                        55.716294
+                  ]
+            },
+            {
+                  "name": "Brobaek Mose",
+                  "text": "Un parc natural pitoresc din Dyssegård, cunoscut pentru zonele sale umede și flora diversă.",
+                  "category": "park",
+                  "coords": [
+                        12.53143,
+                        55.750095
+                  ]
             }
       ],
       "en": [
@@ -49123,6 +51193,42 @@ export const denmarkCitiesV2: POI[] = [
                         12.565375,
                         55.723676
                   ]
+            },
+            {
+                  "name": "David Risley Gallery",
+                  "text": "A contemporary art gallery located in Dyssegård showcasing various modern works.",
+                  "category": "museum",
+                  "coords": [
+                        12.527776,
+                        55.707612
+                  ]
+            },
+            {
+                  "name": "Villum Window Collection",
+                  "text": "A specialized museum in Dyssegård dedicated to the history and design of windows.",
+                  "category": "museum",
+                  "coords": [
+                        12.480218,
+                        55.741063
+                  ]
+            },
+            {
+                  "name": "Utterslev Mose",
+                  "text": "A large park and lake area in Dyssegård popular for birdwatching and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        12.505605,
+                        55.716294
+                  ]
+            },
+            {
+                  "name": "Brobaek Mose",
+                  "text": "A scenic nature park in Dyssegård known for its wetlands and diverse flora.",
+                  "category": "park",
+                  "coords": [
+                        12.53143,
+                        55.750095
+                  ]
             }
       ]
 },
@@ -49395,7 +51501,304 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-hvidovre-strand-cities-v2.webp",
   },
   {
-    id: "denmark-greve-strand-cities-v2",
+    id: "denmark-greve-strand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Greve Museum",
+                  "text": "Lokalgeschichtliches Museum in Greve Strand, das die Entwicklung der Gemeinde zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.252251,
+                        55.590902
+                  ]
+            },
+            {
+                  "name": "Mosede Fort",
+                  "text": "Ehemalige Küstenfestung aus dem Ersten Weltkrieg, heute ein Museum in Greve Strand.",
+                  "category": "museum",
+                  "coords": [
+                        12.274867,
+                        55.563753
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strand",
+                  "text": "Beliebter Sandstrand an der Meeresbucht bei Greve Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266042,
+                        55.558746
+                  ]
+            },
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Naturnaher Strandabschnitt in Greve Strand, ideal für Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.248694,
+                        55.550227
+                  ]
+            },
+            {
+                  "name": "Greve Rådhus",
+                  "text": "Verwaltungsgebäude der Gemeinde Greve in Greve Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291205,
+                        55.58362
+                  ]
+            },
+            {
+                  "name": "Mosede Kirke",
+                  "text": "Eine moderne Kirche in Greve Strand.",
+                  "category": "religious",
+                  "coords": [
+                        12.274843,
+                        55.577737
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strandkirke",
+                  "text": "Eine Kirche in der Nähe des Strandes von Greve.",
+                  "category": "religious",
+                  "coords": [
+                        12.253248,
+                        55.556973
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "Eine evangelische Kirche in der Gemeinde Greve.",
+                  "category": "religious",
+                  "coords": [
+                        12.298438,
+                        55.581701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Greve Museum",
+                  "text": "Helytörténeti múzeum Greve Strandban, amely a közösség fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.252251,
+                        55.590902
+                  ]
+            },
+            {
+                  "name": "Mosede Fort",
+                  "text": "Az első világháború idejéből származó egykori partmenti erőd, ma múzeum Greve Strandban.",
+                  "category": "museum",
+                  "coords": [
+                        12.274867,
+                        55.563753
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strand",
+                  "text": "Népszerű homokos tengerparti strand Greve Strandnál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266042,
+                        55.558746
+                  ]
+            },
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Természetközeli tengerparti szakasz Greve Strandnál, amely ideális tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.248694,
+                        55.550227
+                  ]
+            },
+            {
+                  "name": "Greve Rådhus",
+                  "text": "Greve község közigazgatási épülete Greve Strandban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291205,
+                        55.58362
+                  ]
+            },
+            {
+                  "name": "Mosede Kirke",
+                  "text": "Egy modern templom Greve Strand városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.274843,
+                        55.577737
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strandkirke",
+                  "text": "Templom a tengerpart közelében Greve Strandnál.",
+                  "category": "religious",
+                  "coords": [
+                        12.253248,
+                        55.556973
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "Evangélikus templom Greve községben.",
+                  "category": "religious",
+                  "coords": [
+                        12.298438,
+                        55.581701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Greve Museum",
+                  "text": "Muzeu de istorie locală din Greve Strand care prezintă dezvoltarea comunității.",
+                  "category": "museum",
+                  "coords": [
+                        12.252251,
+                        55.590902
+                  ]
+            },
+            {
+                  "name": "Mosede Fort",
+                  "text": "Fostă fortificație de coastă din Primul Război Mondial, astăzi muzeu în Greve Strand.",
+                  "category": "museum",
+                  "coords": [
+                        12.274867,
+                        55.563753
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strand",
+                  "text": "Plajă populară de nisip situată la golful de lângă Greve Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266042,
+                        55.558746
+                  ]
+            },
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Secțiune de plajă naturală în Greve Strand, ideală pentru plimbări la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.248694,
+                        55.550227
+                  ]
+            },
+            {
+                  "name": "Greve Rådhus",
+                  "text": "Clădirea administrativă a municipalității Greve din Greve Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291205,
+                        55.58362
+                  ]
+            },
+            {
+                  "name": "Mosede Kirke",
+                  "text": "O biserică modernă în Greve Strand.",
+                  "category": "religious",
+                  "coords": [
+                        12.274843,
+                        55.577737
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strandkirke",
+                  "text": "O biserică situată lângă plaja din Greve Strand.",
+                  "category": "religious",
+                  "coords": [
+                        12.253248,
+                        55.556973
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "O biserică evanghelică în comuna Greve.",
+                  "category": "religious",
+                  "coords": [
+                        12.298438,
+                        55.581701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Greve Museum",
+                  "text": "Local history museum in Greve Strand showcasing the development of the community.",
+                  "category": "museum",
+                  "coords": [
+                        12.252251,
+                        55.590902
+                  ]
+            },
+            {
+                  "name": "Mosede Fort",
+                  "text": "Former coastal fort from World War I, now a museum in Greve Strand.",
+                  "category": "museum",
+                  "coords": [
+                        12.274867,
+                        55.563753
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strand",
+                  "text": "Popular sandy beach located on the bay at Greve Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        12.266042,
+                        55.558746
+                  ]
+            },
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Natural beach section in Greve Strand, ideal for seaside walks.",
+                  "category": "recreational",
+                  "coords": [
+                        12.248694,
+                        55.550227
+                  ]
+            },
+            {
+                  "name": "Greve Rådhus",
+                  "text": "Administrative building of the Greve municipality in Greve Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291205,
+                        55.58362
+                  ]
+            },
+            {
+                  "name": "Mosede Kirke",
+                  "text": "A modern church located in Greve Strand.",
+                  "category": "religious",
+                  "coords": [
+                        12.274843,
+                        55.577737
+                  ]
+            },
+            {
+                  "name": "Karlslunde Strandkirke",
+                  "text": "A church located near the beach in Greve Strand.",
+                  "category": "religious",
+                  "coords": [
+                        12.253248,
+                        55.556973
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "A Lutheran church in the Greve municipality.",
+                  "category": "religious",
+                  "coords": [
+                        12.298438,
+                        55.581701
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Greve Strand", hu: "Greve Strand", ro: "Greve Strand", en: "Greve Strand" },

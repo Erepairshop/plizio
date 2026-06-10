@@ -110,7 +110,124 @@ export const serbiaCulture: POI[] = [
 // 5. Természet (Hegyek, Tavak, Nemzeti Parkok)
 export const serbiaNature: POI[] = [
   {
-    id: "mountain-kopaonik",
+    id: "mountain-kopaonik", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Eine archäologische Stätte mit den Ruinen einer frühchristlichen Basilika auf dem Berg Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein markantes Denkmal in der Bergregion Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Régészeti lelőhely egy kora keresztény bazilika romjaival a Kopaonik-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Kiemelkedő emlékmű a Kopaonik hegyvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Un sit arheologic care prezintă ruinele unei basilici creștine timpurii pe muntele Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf din masivul muntos Kopaonik din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument proeminent situat în regiunea montană Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "An archaeological site featuring the ruins of an early Christian basilica on Mount Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik mountain range in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A prominent monument located in the Kopaonik mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "country-serbia",
     coords: [20.8000, 43.2833],
@@ -153,7 +270,160 @@ export const serbiaNature: POI[] = [
     },
   },
   {
-    id: "mountain-fruska-gora",
+    id: "mountain-fruska-gora", "sights": {
+      "de": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Ein Aussichtspunkt im Nationalpark Fruška Gora mit weitem Blick über die Region.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Most Beška",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick auf die Donaubrücke bei Beška bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.873739,
+                        45.167436
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Ein markantes Denkmal in Fruška Gora, das dem Widerstand im Zweiten Weltkrieg gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Ein markanter Sende- und Fernsehturm auf dem Gipfel des Iriški Venac.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Kilátópont a Fruška Gora Nemzeti Parkban, ahonnan széles körpanoráma nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Most Beška",
+                  "text": "Kilátóhely, ahonnan kiváló rálátás nyílik a Duna-hídra Beška közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.873739,
+                        45.167436
+                  ]
+            },
+            {
+                  "name": "Szabadság-emlékmű",
+                  "text": "Jellegzetes emlékmű a Fruška Gorán, amelyet a második világháborús ellenállásnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Jellegzetes távközlési torony az Iriški Venac csúcsán.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Орлово бојиште",
+                  "text": "Un punct de belvedere în Parcul Național Fruška Gora, oferind o vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Most Beška",
+                  "text": "Un punct de belvedere care oferă o vedere amplă asupra podului peste Dunăre de lângă Beška.",
+                  "category": "natural",
+                  "coords": [
+                        19.873739,
+                        45.167436
+                  ]
+            },
+            {
+                  "name": "Слобода",
+                  "text": "Un monument proeminent în Fruška Gora, dedicat rezistenței din cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Торањ на Иришком венцу",
+                  "text": "Un turn de televiziune și telecomunicații distinctiv pe vârful Iriški Venac.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orlovo bojiste",
+                  "text": "A viewpoint in the Fruška Gora National Park with a wide view over the region.",
+                  "category": "natural",
+                  "coords": [
+                        19.830593,
+                        45.180645
+                  ]
+            },
+            {
+                  "name": "Vidikovac - Most Beška",
+                  "text": "A viewpoint offering a broad view of the Danube bridge near Beška.",
+                  "category": "natural",
+                  "coords": [
+                        19.873739,
+                        45.167436
+                  ]
+            },
+            {
+                  "name": "Freedom",
+                  "text": "A prominent monument in Fruška Gora dedicated to the resistance in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        19.839932,
+                        45.152827
+                  ]
+            },
+            {
+                  "name": "Iriški Venac Tower",
+                  "text": "A distinctive TV and telecommunications tower on the summit of Iriški Venac.",
+                  "category": "tower",
+                  "coords": [
+                        19.862035,
+                        45.158429
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "region-vojvodina",
     coords: [19.8500, 45.1500],
@@ -199,7 +469,304 @@ export const serbiaNature: POI[] = [
 
 export const serbiaRivers: POI[] = [
   {
-    id: "river-danube-serbia",
+    id: "river-danube-serbia", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Der Römische Brunnen ist ein historisches Bauwerk in der Festung von Belgrad, bekannt für seinen tiefen Schacht.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Dies sind die archäologischen Ruinen der mittelalterlichen Burg, die von Despot Stefan Lazarević in Belgrad erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Dieses Museum in Belgrad bewahrt und zeigt die Nationalgeschichte und das kulturelle Erbe Serbiens.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Das Eisenbahnmuseum in Belgrad zeigt die Geschichte des Schienenverkehrs in Serbien anhand verschiedener Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Das Zepter Museum ist eine private Kunstinstitution in Belgrad, die zeitgenössische serbische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "Dieses einzigartige Museum in Belgrad ist der Geschichte und den klassischen Modellen des Vespa-Rollers gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Dieses Museum in Belgrad befindet sich in der ehemaligen Wohnung des Nobelpreisträgers Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Dieses Museum zeigt die Werke und persönlichen Gegenstände des berühmten serbischen Malers Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "A Római kút egy történelmi építmény a belgrádi erődben, amely mély aknájáról nevezetes.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ezek a Despot Stefan Lazarević által Belgrádban épített középkori vár régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Ez a belgrádi múzeum Szerbia nemzeti történelmét és kulturális örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "A belgrádi Vasúttörténeti Múzeum különféle kiállításokon keresztül mutatja be a szerbiai vasút történetét.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "A Zepter Múzeum egy belgrádi magánművészeti intézmény, amely kortárs szerb alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "Ez az egyedülálló belgrádi múzeum a Vespa robogók történetének és klasszikus modelljeinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ez a belgrádi múzeum a Nobel-díjas Ivo Andrić egykori lakása, amelyet emlékhelyként őriztek meg.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ez a múzeum a híres szerb festő, Paja Jovanović műveit és személyes tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Fântâna Romană este o structură istorică situată în Cetatea Belgradului, cunoscută pentru puțul său adânc.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Acestea sunt ruinele arheologice ale castelului medieval construit de despotul Stefan Lazarević în Belgrad.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Acest muzeu din Belgrad păstrează și expune istoria națională și moștenirea culturală a Serbiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Muzeul Căilor Ferate din Belgrad prezintă istoria transportului feroviar din Serbia prin diverse exponate.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Muzeul Zepter este o instituție privată de artă din Belgrad, care prezintă opere de artă sârbească contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "Веспа музеј Србија",
+                  "text": "Acest muzeu unic din Belgrad este dedicat istoriei și modelelor clasice ale scuterului Vespa.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Situat în Belgrad, acest muzeu este fostul apartament al laureatului Premiului Nobel Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Acest muzeu expune lucrările și obiectele personale ale celebrului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "The Roman Well is a historic structure located within the Belgrade Fortress, known for its deep shaft.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "These are the archaeological ruins of the medieval castle built by Despot Stefan Lazarević in Belgrade.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "This museum in Belgrade preserves and displays the national history and cultural heritage of Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "The Railway Museum in Belgrade showcases the history of rail transport in Serbia through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "The Zepter Museum is a private art institution in Belgrade featuring contemporary Serbian artwork.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "Vespa Museum Serbia",
+                  "text": "This unique museum in Belgrade is dedicated to the history and classic models of the Vespa scooter.",
+                  "category": "museum",
+                  "coords": [
+                        20.434902,
+                        44.79186
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "Located in Belgrade, this museum is the former apartment of Nobel laureate Ivo Andrić, preserved as a memorial.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "This museum showcases the works and personal belongings of the famous Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "country-serbia",
     coords: [20.4500, 44.8236], // Belgrade confluence point as generic loc
@@ -627,7 +1194,88 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-004-vranje.webp",
   },
   {
-    id: "RS-004-prohor-pcinjski",
+    id: "RS-004-prohor-pcinjski", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Прохор Пчињски",
+                  "text": "Ein serbisch-orthodoxes Kloster aus dem 11. Jahrhundert in der Nähe der Grenze zu Nordmazedonien.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895084,
+                        42.329493
+                  ]
+            },
+            {
+                  "name": "Kozjak Mountain",
+                  "text": "Eine Gebirgsregion in der Nähe des Klosters Prohor Pčinjski, bekannt für ihre Naturschönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        21.932035,
+                        42.307577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Прохор Пчињски",
+                  "text": "11. századi szerb ortodox kolostor az észak-macedón határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895084,
+                        42.329493
+                  ]
+            },
+            {
+                  "name": "Kozjak Mountain",
+                  "text": "Hegyi régió a Prohor Pčinjski-kolostor közelében, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.932035,
+                        42.307577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Прохор Пчињски",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XI-lea, situată lângă granița cu Macedonia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895084,
+                        42.329493
+                  ]
+            },
+            {
+                  "name": "Kozjak Mountain",
+                  "text": "O regiune muntoasă de lângă mănăstirea Prohor Pčinjski, cunoscută pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        21.932035,
+                        42.307577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prohor Pčinjski Monastery",
+                  "text": "An 11th-century Serbian Orthodox monastery located near the border with North Macedonia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895084,
+                        42.329493
+                  ]
+            },
+            {
+                  "name": "Kozjak Mountain",
+                  "text": "A mountain region near the Prohor Pčinjski Monastery known for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        21.932035,
+                        42.307577
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-004",
     coords: [21.8950, 42.3294],
@@ -2027,7 +2675,88 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-007-pirot.webp",
   },
   {
-    id: "RS-007-stara-planina",
+    id: "RS-007-stara-planina", "sights": {
+      "de": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Babin Zub ist ein markanter Gipfel im Stara-Planina-Gebirge in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Plaža ist ein Aussichtspunkt im Stara-Planina-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "A Babin Zub egy jellegzetes hegycsúcs a szerbiai Stara Planina hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Plaža egy kilátópont a Stara Planina hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Babin Zub este un vârf proeminent din munții Stara Planina, Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Plaža este un punct de belvedere în munții Stara Planina.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babin Zub",
+                  "text": "Babin Zub is a prominent peak in the Stara Planina mountain range in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Plaža is a viewpoint in the Stara Planina mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS-007",
     coords: [22.6000, 43.3700],
@@ -2592,7 +3321,52 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-008-leskovac.webp",
   },
   {
-    id: "RS-008-caricin-grad",
+    id: "RS-008-caricin-grad", "sights": {
+      "de": [
+            {
+                  "name": "Iustiniana Prima",
+                  "text": "Eine bedeutende byzantinische Stadt, die im 6. Jahrhundert von Kaiser Justinian I. gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        21.670251,
+                        42.95215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Царичин град",
+                  "text": "Fontos bizánci város, amelyet I. Jusztiniánusz császár alapított a 6. században.",
+                  "category": "historical",
+                  "coords": [
+                        21.670251,
+                        42.95215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Царичин град",
+                  "text": "Un important oraș bizantin fondat de împăratul Iustinian I în secolul al VI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        21.670251,
+                        42.95215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Justiniana Prima",
+                  "text": "An important Byzantine city founded by Emperor Justinian I in the 6th century.",
+                  "category": "historical",
+                  "coords": [
+                        21.670251,
+                        42.95215
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-008",
     coords: [21.6700, 42.9500],
@@ -2768,7 +3542,124 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-010-jagodina.webp",
   },
   {
-    id: "RS-010-manasija",
+    id: "RS-010-manasija", "sights": {
+      "de": [
+            {
+                  "name": "Парк макета",
+                  "text": "Ein Miniaturpark beim Kloster Manasija, der Modelle serbischer mittelalterlicher Klöster zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458161,
+                        44.089341
+                  ]
+            },
+            {
+                  "name": "Манастир Манасија",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster aus dem 15. Jahrhundert, das für seine massiven Befestigungsanlagen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.468889,
+                        44.1005
+                  ]
+            },
+            {
+                  "name": "Despot Stefan Lazarević",
+                  "text": "Ein Denkmal zu Ehren des serbischen Herrschers und Gründers des Klosters Manasija.",
+                  "category": "historical",
+                  "coords": [
+                        21.442522,
+                        44.09519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Парк макета",
+                  "text": "Makettpark a Manasija-kolostornál, amely szerb középkori kolostorok modelljeit mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458161,
+                        44.089341
+                  ]
+            },
+            {
+                  "name": "Манастир Манасија",
+                  "text": "Jelentős 15. századi szerb ortodox kolostor, amely hatalmas erődítményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.468889,
+                        44.1005
+                  ]
+            },
+            {
+                  "name": "Despot Stefan Lazarević",
+                  "text": "Emlékmű a szerb uralkodó és a Manasija-kolostor alapítója tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.442522,
+                        44.09519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Парк макета",
+                  "text": "Un parc de machete lângă mănăstirea Manasija, care prezintă modele ale mănăstirilor medievale sârbești.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458161,
+                        44.089341
+                  ]
+            },
+            {
+                  "name": "Манастир Манасија",
+                  "text": "O importantă mănăstire ortodoxă sârbă din secolul al XV-lea, cunoscută pentru fortificațiile sale masive.",
+                  "category": "landmark",
+                  "coords": [
+                        21.468889,
+                        44.1005
+                  ]
+            },
+            {
+                  "name": "Despot Stefan Lazarević",
+                  "text": "Un monument dedicat conducătorului sârb și fondatorului mănăstirii Manasija.",
+                  "category": "historical",
+                  "coords": [
+                        21.442522,
+                        44.09519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Maketa",
+                  "text": "A miniature park near Manasija Monastery featuring models of Serbian medieval monasteries.",
+                  "category": "recreational",
+                  "coords": [
+                        21.458161,
+                        44.089341
+                  ]
+            },
+            {
+                  "name": "Manasija Monastery",
+                  "text": "A significant 15th-century Serbian Orthodox monastery known for its massive fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        21.468889,
+                        44.1005
+                  ]
+            },
+            {
+                  "name": "Despot Stefan Lazarević",
+                  "text": "A monument dedicated to the Serbian ruler and founder of the Manasija Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        21.442522,
+                        44.09519
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-010",
     coords: [21.4689, 44.1011],
@@ -3171,7 +4062,52 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-013-sremska-mitrovica.webp",
   },
   {
-    id: "RS-013-krusedol",
+    id: "RS-013-krusedol", "sights": {
+      "de": [
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "Eine serbisch-orthodoxe Kirche nahe dem Kloster Krušedol, die dem Heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.897233,
+                        45.117121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "Szerb ortodox templom a Krušedol-kolostor közelében, amelyet Szent Miklósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        19.897233,
+                        45.117121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Црква Светог Николе",
+                  "text": "O biserică ortodoxă sârbă de lângă mănăstirea Krušedol, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        19.897233,
+                        45.117121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A Serbian Orthodox church near the Krušedol Monastery, dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        19.897233,
+                        45.117121
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-013",
     coords: [19.9400, 45.1200],
@@ -3215,7 +4151,232 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-014 Macvanski
   {
-    id: "RS-014-sabac",
+    id: "RS-014-sabac", "sights": {
+      "de": [
+            {
+                  "name": "Шабачка тврђава",
+                  "text": "Eine mittelalterliche Festung am Ufer der Save in Šabac.",
+                  "category": "historical",
+                  "coords": [
+                        19.703543,
+                        44.764263
+                  ]
+            },
+            {
+                  "name": "Шабачко позориште",
+                  "text": "Das Theater von Šabac, untergebracht in einem markanten historischen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        19.69578,
+                        44.755506
+                  ]
+            },
+            {
+                  "name": "Плажа „Стари град”",
+                  "text": "Ein beliebter Stadtstrand an der Save in Šabac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70535,
+                        44.762954
+                  ]
+            },
+            {
+                  "name": "Народни музеј Шабац",
+                  "text": "Ein Museum zur Geschichte und Kultur der Region Šabac.",
+                  "category": "museum",
+                  "coords": [
+                        19.692682,
+                        44.755307
+                  ]
+            },
+            {
+                  "name": "Зграда Окружног начелства",
+                  "text": "Das repräsentative Verwaltungsgebäude der Stadt Šabac.",
+                  "category": "landmark",
+                  "coords": [
+                        19.693669,
+                        44.757346
+                  ]
+            },
+            {
+                  "name": "Католичка црква Света Ана",
+                  "text": "Eine katholische Kirche in Šabac mit markanter Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        19.699901,
+                        44.759074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шабачка тврђава",
+                  "text": "Középkori erődítmény a Száva folyó partján Šabac városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.703543,
+                        44.764263
+                  ]
+            },
+            {
+                  "name": "Шабачко позориште",
+                  "text": "Šabac színháza, amely egy jellegzetes történelmi épületben működik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.69578,
+                        44.755506
+                  ]
+            },
+            {
+                  "name": "Плажа „Стари град”",
+                  "text": "Népszerű városi strand a Száva folyó partján Šabacban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70535,
+                        44.762954
+                  ]
+            },
+            {
+                  "name": "Народни музеј Шабац",
+                  "text": "Šabac régiójának történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.692682,
+                        44.755307
+                  ]
+            },
+            {
+                  "name": "Зграда Окружног начелства",
+                  "text": "Šabac városának reprezentatív közigazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        19.693669,
+                        44.757346
+                  ]
+            },
+            {
+                  "name": "Католичка црква Света Ана",
+                  "text": "Jellegzetes építészetű katolikus templom Šabacban.",
+                  "category": "religious",
+                  "coords": [
+                        19.699901,
+                        44.759074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шабачка тврђава",
+                  "text": "O cetate medievală situată pe malul râului Sava în Šabac.",
+                  "category": "historical",
+                  "coords": [
+                        19.703543,
+                        44.764263
+                  ]
+            },
+            {
+                  "name": "Шабачко позориште",
+                  "text": "Teatrul din Šabac, găzduit într-o clădire istorică distinctivă.",
+                  "category": "cultural",
+                  "coords": [
+                        19.69578,
+                        44.755506
+                  ]
+            },
+            {
+                  "name": "Плажа „Стари град”",
+                  "text": "O plajă urbană populară pe malul râului Sava în Šabac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70535,
+                        44.762954
+                  ]
+            },
+            {
+                  "name": "Народни музеј Шабац",
+                  "text": "Un muzeu dedicat istoriei și culturii regiunii Šabac.",
+                  "category": "museum",
+                  "coords": [
+                        19.692682,
+                        44.755307
+                  ]
+            },
+            {
+                  "name": "Зграда Окружног начелства",
+                  "text": "Clădirea administrativă reprezentativă a orașului Šabac.",
+                  "category": "landmark",
+                  "coords": [
+                        19.693669,
+                        44.757346
+                  ]
+            },
+            {
+                  "name": "Католичка црква Света Ана",
+                  "text": "O biserică catolică din Šabac cu o arhitectură distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        19.699901,
+                        44.759074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šabac Fortress",
+                  "text": "A medieval fortress situated on the banks of the Sava river in Šabac.",
+                  "category": "historical",
+                  "coords": [
+                        19.703543,
+                        44.764263
+                  ]
+            },
+            {
+                  "name": "Šabac Theatre",
+                  "text": "The theatre of Šabac, housed in a prominent historic building.",
+                  "category": "cultural",
+                  "coords": [
+                        19.69578,
+                        44.755506
+                  ]
+            },
+            {
+                  "name": "Beach \"Stari grad\"",
+                  "text": "A popular city beach on the banks of the Sava river in Šabac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.70535,
+                        44.762954
+                  ]
+            },
+            {
+                  "name": "National Museum in Šabac",
+                  "text": "A museum dedicated to the history and culture of the Šabac region.",
+                  "category": "museum",
+                  "coords": [
+                        19.692682,
+                        44.755307
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "The representative administrative building of the city of Šabac.",
+                  "category": "landmark",
+                  "coords": [
+                        19.693669,
+                        44.757346
+                  ]
+            },
+            {
+                  "name": "St. Anne Catholic Church",
+                  "text": "A Catholic church in Šabac with distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        19.699901,
+                        44.759074
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-014",
     coords: [19.6900, 44.7500],
@@ -4246,7 +5407,52 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-018-pozarevac.webp",
   },
   {
-    id: "RS-018-viminacium",
+    id: "RS-018-viminacium", "sights": {
+      "de": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "Ein denkmalgeschütztes Gebäude und Denkmal in der Nähe der antiken Stätte Viminacium.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "Műemléki épület Viminacium ókori lelőhelyének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "O clădire protejată și monument în apropierea sitului antic Viminacium.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuća Kapetana Todića",
+                  "text": "A protected building and monument located near the ancient site of Viminacium.",
+                  "category": "historical",
+                  "coords": [
+                        21.190896,
+                        44.740304
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-018",
     coords: [21.1700, 44.7300],
@@ -4291,7 +5497,232 @@ export const serbiaDistrictPoi: POI[] = [
   // RS-019 Grad Beograd
   // RS-020 Podunavski
   {
-    id: "RS-020-smederevo-city", "sights": {"de": [{"name": "Provala", "text": "Провала ist ein See in Smederevo, ideal um die natürliche Landschaft und frische Luft zu genießen.", "category": "natural", "coords": [20.858769, 44.66798]}, {"name": "Šalinačka jezera", "text": "Die Šalinac-Seen befinden sich in Smederevo und bieten eine ruhige Umgebung für einen Spaziergang.", "category": "natural", "coords": [20.987383, 44.68081]}, {"name": "Basket Park", "text": "Basket Park ist ein Spielplatz in Smederevo mit Einrichtungen für Kinderspiele und Aktivitäten.", "category": "family", "coords": [20.913778, 44.664595]}], "hu": [{"name": "Provala", "text": "A Провала egy tó Szendrő városában, amely ideális a természetes táj és a friss levegő élvezetéhez.", "category": "natural", "coords": [20.858769, 44.66798]}, {"name": "Šalinačka jezera", "text": "A Šalinaci-tavak Szendrő városában találhatók, nyugodt környezetet biztosítva a sétához.", "category": "natural", "coords": [20.987383, 44.68081]}, {"name": "Basket Park", "text": "A Basket Park egy játszótér Szendrő városában, ahol játékok és tevékenységek várják a gyerekeket.", "category": "family", "coords": [20.913778, 44.664595]}], "ro": [{"name": "Provala", "text": "Провала este un lac în Smederevo, ideal pentru a te bucura de peisajul natural și aerul curat.", "category": "natural", "coords": [20.858769, 44.66798]}, {"name": "Šalinačka jezera", "text": "Lacurile Šalinac sunt situate în Smederevo, oferind un mediu liniștit pentru o plimbare.", "category": "natural", "coords": [20.987383, 44.68081]}, {"name": "Basket Park", "text": "Basket Park este un teren de joacă în Smederevo, cu facilități pentru joacă și activități pentru copii.", "category": "family", "coords": [20.913778, 44.664595]}], "en": [{"name": "Provala", "text": "Провала is a lake in Smederevo, ideal for enjoying the natural scenery and fresh air.", "category": "natural", "coords": [20.858769, 44.66798]}, {"name": "Šalinac lakes", "text": "Šalinac lakes are situated in Smederevo, providing a calm environment for a walk.", "category": "natural", "coords": [20.987383, 44.68081]}, {"name": "Basket Park", "text": "Basket Park is a playground in Smederevo with facilities for children's play and activities.", "category": "family", "coords": [20.913778, 44.664595]}]},
+    id: "RS-020-smederevo-city", "sights": {
+      "de": [
+            {
+                  "name": "Provala",
+                  "text": "Провала ist ein See in Smederevo, ideal um die natürliche Landschaft und frische Luft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Šalinačka jezera",
+                  "text": "Die Šalinac-Seen befinden sich in Smederevo und bieten eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park ist ein Spielplatz in Smederevo mit Einrichtungen für Kinderspiele und Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            },
+            {
+                  "name": "Смедеревска тврђава",
+                  "text": "Eine der größten mittelalterlichen Festungen Europas, gelegen am Ufer der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        20.927822,
+                        44.669408
+                  ]
+            },
+            {
+                  "name": "Остаци хамама",
+                  "text": "Ruinen eines historischen türkischen Bades aus der Zeit der osmanischen Herrschaft.",
+                  "category": "historical",
+                  "coords": [
+                        20.927418,
+                        44.670384
+                  ]
+            },
+            {
+                  "name": "Остаци цркве",
+                  "text": "Überreste einer mittelalterlichen Kirche innerhalb des Festungskomplexes von Smederevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.929735,
+                        44.668464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Provala",
+                  "text": "A Провала egy tó Szendrő városában, amely ideális a természetes táj és a friss levegő élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Šalinačka jezera",
+                  "text": "A Šalinaci-tavak Szendrő városában találhatók, nyugodt környezetet biztosítva a sétához.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "A Basket Park egy játszótér Szendrő városában, ahol játékok és tevékenységek várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            },
+            {
+                  "name": "Szendrő vára",
+                  "text": "Európa egyik legnagyobb középkori erődje, amely a Duna partján fekszik.",
+                  "category": "castle",
+                  "coords": [
+                        20.927822,
+                        44.669408
+                  ]
+            },
+            {
+                  "name": "Остаци хамама",
+                  "text": "Török hódoltság idejéből származó történelmi törökfürdő romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.927418,
+                        44.670384
+                  ]
+            },
+            {
+                  "name": "Остаци цркве",
+                  "text": "Egy középkori templom maradványai a szendrői erődkomplexumon belül.",
+                  "category": "historical",
+                  "coords": [
+                        20.929735,
+                        44.668464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Provala",
+                  "text": "Провала este un lac în Smederevo, ideal pentru a te bucura de peisajul natural și aerul curat.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Šalinačka jezera",
+                  "text": "Lacurile Šalinac sunt situate în Smederevo, oferind un mediu liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park este un teren de joacă în Smederevo, cu facilități pentru joacă și activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            },
+            {
+                  "name": "Смедеревска тврђава",
+                  "text": "Una dintre cele mai mari cetăți medievale din Europa, situată pe malul Dunării.",
+                  "category": "castle",
+                  "coords": [
+                        20.927822,
+                        44.669408
+                  ]
+            },
+            {
+                  "name": "Остаци хамама",
+                  "text": "Ruinele unei băi turcești istorice din perioada dominației otomane.",
+                  "category": "historical",
+                  "coords": [
+                        20.927418,
+                        44.670384
+                  ]
+            },
+            {
+                  "name": "Остаци цркве",
+                  "text": "Rămășițele unei biserici medievale din interiorul complexului cetății Smederevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.929735,
+                        44.668464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Provala",
+                  "text": "Провала is a lake in Smederevo, ideal for enjoying the natural scenery and fresh air.",
+                  "category": "natural",
+                  "coords": [
+                        20.858769,
+                        44.66798
+                  ]
+            },
+            {
+                  "name": "Šalinac lakes",
+                  "text": "Šalinac lakes are situated in Smederevo, providing a calm environment for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        20.987383,
+                        44.68081
+                  ]
+            },
+            {
+                  "name": "Basket Park",
+                  "text": "Basket Park is a playground in Smederevo with facilities for children's play and activities.",
+                  "category": "family",
+                  "coords": [
+                        20.913778,
+                        44.664595
+                  ]
+            },
+            {
+                  "name": "Smederevo Fortress",
+                  "text": "One of the largest medieval fortresses in Europe, situated on the banks of the Danube.",
+                  "category": "castle",
+                  "coords": [
+                        20.927822,
+                        44.669408
+                  ]
+            },
+            {
+                  "name": "Hamam ruins",
+                  "text": "Ruins of a historic Turkish bath dating back to the period of Ottoman rule.",
+                  "category": "historical",
+                  "coords": [
+                        20.927418,
+                        44.670384
+                  ]
+            },
+            {
+                  "name": "Church ruins",
+                  "text": "Remains of a medieval church located within the Smederevo fortress complex.",
+                  "category": "historical",
+                  "coords": [
+                        20.929735,
+                        44.668464
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-020",
     coords: [20.9300, 44.6628],
@@ -4381,7 +5812,52 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-022-krusevac.webp",
   },
   {
-    id: "RS-022-ljubostinja",
+    id: "RS-022-ljubostinja", "sights": {
+      "de": [
+            {
+                  "name": "Kloster Ljubostinja",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster aus dem 14. Jahrhundert in der Nähe von Trstenik.",
+                  "category": "religious",
+                  "coords": [
+                        20.997936,
+                        43.65173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Љубостиња",
+                  "text": "Jelentős 14. századi szerb ortodox kolostor Trstenik közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.997936,
+                        43.65173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Љубостиња",
+                  "text": "O mănăstire ortodoxă sârbă importantă din secolul al XIV-lea, situată lângă Trstenik.",
+                  "category": "religious",
+                  "coords": [
+                        20.997936,
+                        43.65173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ljubostinja Monastery",
+                  "text": "A significant 14th-century Serbian Orthodox monastery located near Trstenik.",
+                  "category": "religious",
+                  "coords": [
+                        20.997936,
+                        43.65173
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "RS-022",
     coords: [21.0333, 43.6500],
@@ -4426,7 +5902,160 @@ export const serbiaDistrictPoi: POI[] = [
   // RS-023 Šumadijski
   // RS-024 Moravicki
   {
-    id: "RS-024-ovcar-kablar",
+    id: "RS-024-ovcar-kablar", "sights": {
+      "de": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "Ein Naturschutzgebiet, das aufgrund seiner zahlreichen Klöster als serbischer Heiliger Berg bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "Ein Museum in der Ovčar-Kablar-Schlucht, das der regionalen Natur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Der höchste Berggipfel in der Ovčar-Kablar-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "Ein am Felsen gelegenes Gotteshaus in der Ovčar-Kablar-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "Természetvédelmi terület, amely számos kolostora miatt szerb Szent Hegykén ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "A régió természetvilágának szentelt múzeum az Ovčar-Kablar-szurdokban.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Az Ovčar-Kablar-szurdok legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "Sziklába épült templom az Ovčar-Kablar-szurdokban.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "O rezervație naturală cunoscută sub numele de Muntele Sfânt al Serbiei datorită numeroaselor sale mănăstiri.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "Un muzeu din defileul Ovčar-Kablar dedicat naturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Cel mai înalt vârf muntos din defileul Ovčar-Kablar.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "Lăcaș de cult situat în stâncă în defileul Ovčar-Kablar.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ovčar-Kablar Gorge",
+                  "text": "A nature reserve known as the Serbian Holy Mountain due to its many monasteries.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Natural History Centre",
+                  "text": "A museum in the Ovčar-Kablar Gorge dedicated to regional nature.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Ovčar",
+                  "text": "The highest mountain peak in the Ovčar-Kablar Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Savinje Church",
+                  "text": "A place of worship situated against the cliffs in the Ovčar-Kablar Gorge.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS-024",
     coords: [20.1800, 43.9000],

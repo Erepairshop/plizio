@@ -88,7 +88,268 @@ export const poiExtraAustriaIndustry: POI[] = [
       fr: ["Le circuit mesure 4,318 kilomètres de long et compte 10 virages.", "Le dénivelé entre le point le plus haut et le point le plus bas du circuit est de 65 mètres.", "L'immense sculpture de taureau au centre pèse 68 tonnes.", "Outre le circuit principal, on y trouve également un centre de conduite et une piste tout-terrain.", "L'architecture frappante en forme d'aile du « voestalpine wing » est un autre emblème de l'installation."],
     }, image: "/poi-images/industry-red-bull-ring-extra.webp"},
   {
-    id: "agriculture-südsteirische-weinstrasse-extra",
+    id: "agriculture-südsteirische-weinstrasse-extra", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Gamlitz",
+                  "text": "Ein historisches Schloss in der steirischen Weinregion, bekannt für Weinveranstaltungen und kulturelle Ausstellungen.",
+                  "category": "castle",
+                  "coords": [
+                        15.553434,
+                        46.718695
+                  ]
+            },
+            {
+                  "name": "Vinogradniški muzej Kebl",
+                  "text": "Ein Museum, das der Geschichte und den Traditionen des Weinbaus in der Südsteiermark gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.573139,
+                        46.679388
+                  ]
+            },
+            {
+                  "name": "Lubekogel",
+                  "text": "Ein markanter Gipfel in der Südsteiermark, der einen Panoramablick auf die umliegenden Weinberge und Hügel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.519909,
+                        46.678988
+                  ]
+            },
+            {
+                  "name": "Vinogradništvo Ivan Dreisibner",
+                  "text": "Ein traditionelles Weingut an der Südsteirischen Weinstraße, bekannt für seine Weine und seine malerische Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        15.551147,
+                        46.670774
+                  ]
+            },
+            {
+                  "name": "Vinogradniško izletniška kmetija Elšnik",
+                  "text": "Ein Ferienbauernhof und Weingut, das lokale steirische Köstlichkeiten und Weinverkostungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.569783,
+                        46.67699
+                  ]
+            },
+            {
+                  "name": "Vinarstvo Gaube",
+                  "text": "Ein bekanntes, familiengeführtes Weingut in der Südsteiermark, das auf die lokale Weinproduktion spezialisiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.554891,
+                        46.667364
+                  ]
+            },
+            {
+                  "name": "Družinska kmetija Gornik",
+                  "text": "Ein familiengeführter Bauernhof in der Südsteiermark, der Besuchern authentische lokale Produkte und Gastfreundschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574014,
+                        46.672006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Gamlitz",
+                  "text": "Történelmi kastély a stájer borvidéken, amely borászati eseményeknek és kulturális kiállításoknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        15.553434,
+                        46.718695
+                  ]
+            },
+            {
+                  "name": "Vinogradniški muzej Kebl",
+                  "text": "A dél-stájerországi szőlőtermesztés történetének és hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.573139,
+                        46.679388
+                  ]
+            },
+            {
+                  "name": "Lubekogel",
+                  "text": "Kiemelkedő csúcs Dél-Stájerországban, amely panorámás kilátást nyújt a környező szőlőültetvényekre és dombokra.",
+                  "category": "landmark",
+                  "coords": [
+                        15.519909,
+                        46.678988
+                  ]
+            },
+            {
+                  "name": "Vinogradništvo Ivan Dreisibner",
+                  "text": "Hagyományos borászat a dél-stájer borút mentén, amely borairól és festői fekvéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        15.551147,
+                        46.670774
+                  ]
+            },
+            {
+                  "name": "Vinogradniško izletniška kmetija Elšnik",
+                  "text": "Turisztikai gazdaság és szőlőbirtok, amely helyi stájer finomságokat és borkóstolási élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.569783,
+                        46.67699
+                  ]
+            },
+            {
+                  "name": "Vinarstvo Gaube",
+                  "text": "Ismert családi borászat a dél-stájer régióban, amely a helyi bortermelésre szakosodott.",
+                  "category": "landmark",
+                  "coords": [
+                        15.554891,
+                        46.667364
+                  ]
+            },
+            {
+                  "name": "Družinska kmetija Gornik",
+                  "text": "Családi gazdaság Dél-Stájerországban, amely autentikus helyi termékekkel és vendégszeretettel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574014,
+                        46.672006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Gamlitz",
+                  "text": "Un castel istoric din regiunea viticolă a Stiriei, cunoscut pentru găzduirea evenimentelor viticole și a expozițiilor culturale.",
+                  "category": "castle",
+                  "coords": [
+                        15.553434,
+                        46.718695
+                  ]
+            },
+            {
+                  "name": "Vinogradniški muzej Kebl",
+                  "text": "Un muzeu dedicat istoriei și tradițiilor viticulturii din regiunea Stiria de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        15.573139,
+                        46.679388
+                  ]
+            },
+            {
+                  "name": "Lubekogel",
+                  "text": "Un vârf proeminent din Stiria de Sud, oferind vederi panoramice asupra podgoriilor și dealurilor înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        15.519909,
+                        46.678988
+                  ]
+            },
+            {
+                  "name": "Vinogradništvo Ivan Dreisibner",
+                  "text": "O vinărie tradițională de-a lungul Drumului Vinului din Stiria de Sud, renumită pentru vinurile sale și locația pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        15.551147,
+                        46.670774
+                  ]
+            },
+            {
+                  "name": "Vinogradniško izletniška kmetija Elšnik",
+                  "text": "O fermă turistică și podgorie care oferă delicatese locale din Stiria și experiențe de degustare a vinului.",
+                  "category": "landmark",
+                  "coords": [
+                        15.569783,
+                        46.67699
+                  ]
+            },
+            {
+                  "name": "Vinarstvo Gaube",
+                  "text": "O vinărie de familie binecunoscută în regiunea Stiria de Sud, specializată în producția locală de vin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.554891,
+                        46.667364
+                  ]
+            },
+            {
+                  "name": "Družinska kmetija Gornik",
+                  "text": "O fermă administrată de o familie în Stiria de Sud, oferind vizitatorilor produse locale autentice și ospitalitate.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574014,
+                        46.672006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Gamlitz",
+                  "text": "A historic castle in the Styrian wine region, known for hosting wine events and cultural exhibitions.",
+                  "category": "castle",
+                  "coords": [
+                        15.553434,
+                        46.718695
+                  ]
+            },
+            {
+                  "name": "Vinogradniški muzej Kebl",
+                  "text": "A museum dedicated to the history and traditions of viticulture in the South Styrian region.",
+                  "category": "museum",
+                  "coords": [
+                        15.573139,
+                        46.679388
+                  ]
+            },
+            {
+                  "name": "Lubekogel",
+                  "text": "A prominent peak in South Styria, offering panoramic views of the surrounding vineyards and hills.",
+                  "category": "landmark",
+                  "coords": [
+                        15.519909,
+                        46.678988
+                  ]
+            },
+            {
+                  "name": "Vinogradništvo Ivan Dreisibner",
+                  "text": "A traditional winery along the South Styrian Wine Road, famous for its wines and scenic location.",
+                  "category": "landmark",
+                  "coords": [
+                        15.551147,
+                        46.670774
+                  ]
+            },
+            {
+                  "name": "Vinogradniško izletniška kmetija Elšnik",
+                  "text": "A tourist farm and vineyard offering local Styrian delicacies and wine tasting experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        15.569783,
+                        46.67699
+                  ]
+            },
+            {
+                  "name": "Vinarstvo Gaube",
+                  "text": "A well-known family-run winery in the South Styrian region, specializing in local wine production.",
+                  "category": "landmark",
+                  "coords": [
+                        15.554891,
+                        46.667364
+                  ]
+            },
+            {
+                  "name": "Družinska kmetija Gornik",
+                  "text": "A family-operated farm in South Styria, providing visitors with authentic local products and hospitality.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574014,
+                        46.672006
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AT-6",
     coords: [15.53, 46.69],
@@ -121,7 +382,304 @@ export const poiExtraAustriaIndustry: POI[] = [
       fr: ["La tradition du « Buschenschank » remonte à un décret de l'empereur Joseph II en 1784.", "Le Klapotetz, emblème de la région, est traditionnellement fabriqué à partir de sept essences de bois différentes.", "Le plus grand pressoir à raisins fonctionnel au monde se trouve à Gamlitz.", "La « Herzerlstraße » près de Sulztal est un motif photographique célèbre où la route a la forme d'un cœur.", "Le Sauvignon Blanc est considéré comme le cépage phare de la Styrie du Sud."],
     }, image: "/poi-images/agriculture-südsteirische-weinstrasse-extra.webp"},
   {
-    id: "industry-swarovski-kristallwelten-extra",
+    id: "industry-swarovski-kristallwelten-extra", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Ein gut erhaltenes Schloss im Dorf Stumm, bekannt für seine historische Tiroler Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Ein einzigartiger Theater- und Kulturraum in einer historischen Scheune in Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "Eine öffentliche Badeanlage in Stumm mit Schwimmbecken und Freizeitangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Ein Berggipfel in den Kitzbüheler Alpen mit Panoramablick auf das Zillertal.",
+                  "category": "landmark",
+                  "coords": [
+                        11.909354,
+                        47.325213
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Ein Indoor-Actionpark bei Wattens mit Trampolinen und Freestyle-Sportanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Verfallene Alm",
+                  "text": "Die Ruinen einer ehemaligen Almhütte in den Bergen bei Stumm.",
+                  "category": "historical",
+                  "coords": [
+                        11.915633,
+                        47.322556
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "Eine kleine Kapelle im Zillertal, die einen ruhigen Ort zum Innehalten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "Eine traditionelle Alpenkapelle an Wanderwegen in den Tiroler Bergen.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Jó állapotban fennmaradt kastély Stumm községben, amely történelmi tiroli építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Egyedülálló színházi és kulturális helyszín egy történelmi csűrben Stummban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "Nyilvános fürdőhely Stummban, amely medencéket és szabadidős tevékenységeket kínál családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Hegycsúcs a Kitzbüheli-Alpokban, ahonnan panorámás kilátás nyílik a Ziller-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.909354,
+                        47.325213
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Fedett akciópark Wattens közelében, trambulinokkal és freestyle sportolási lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Verfallene Alm",
+                  "text": "Egy egykori alpesi legelő épületének romjai a Stumm melletti hegyekben.",
+                  "category": "historical",
+                  "coords": [
+                        11.915633,
+                        47.322556
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "Kis kápolna a Ziller-völgyben, amely csendes helyet kínál az elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "Hagyományos alpesi kápolna a tiroli hegyek túraútvonalai mentén.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Un castel bine conservat din satul Stumm, cunoscut pentru arhitectura sa istorică tiroleză.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Un teatru și un loc cultural unic într-o șură istorică din Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "O facilitate publică de înot în Stumm, care oferă piscine și activități de agrement pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Un vârf muntos din Alpii Kitzbühel, care oferă vedere panoramică asupra văii Zillertal.",
+                  "category": "landmark",
+                  "coords": [
+                        11.909354,
+                        47.325213
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Un parc de acțiune interior lângă Wattens, cu trambuline și facilități pentru sporturi freestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Verfallene Alm",
+                  "text": "Ruinele unei foste clădiri de pășune alpină situate în munții de lângă Stumm.",
+                  "category": "historical",
+                  "coords": [
+                        11.915633,
+                        47.322556
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "O mică capelă în regiunea Zillertal, care oferă un loc liniștit pentru reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "O capelă alpină tradițională situată de-a lungul traseelor de drumeție din munții Tirolului.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "A well-preserved castle in the village of Stumm, known for its historic Tyrolean architecture.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "A unique theatre and cultural venue in a historic barn in Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "A public swimming facility in Stumm offering pools and leisure activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "A mountain peak in the Kitzbühel Alps offering panoramic views of the Zillertal valley.",
+                  "category": "landmark",
+                  "coords": [
+                        11.909354,
+                        47.325213
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "An indoor action park near Wattens featuring trampolines and freestyle sports facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Verfallene Alm",
+                  "text": "The ruins of a former alpine pasture building located in the mountains near Stumm.",
+                  "category": "historical",
+                  "coords": [
+                        11.915633,
+                        47.322556
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "A small chapel in the Zillertal region providing a quiet place for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "A traditional alpine chapel located along hiking trails in the Tyrol mountains.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AT-7",
     coords: [11.89, 47.30],
@@ -154,7 +712,304 @@ export const poiExtraAustriaIndustry: POI[] = [
       fr: ["Les Mondes de Cristal ont été ouverts en 1995 pour le 100e anniversaire de Swarovski.", "L'emblématique « Géant » a été conçu par l'artiste autrichien André Heller.", "Le « Nuage de Cristal » dans le jardin est composé d'environ 800 000 cristaux Swarovski posés à la main.", "Dans la chambre des merveilles « Silent Light », un hiver éternel règne à -10°C, avec un arbre de cristal et de la vraie neige.", "Swarovski a été fondée en 1895 par Daniel Swarovski, qui a inventé une machine pour la taille précise des cristaux."],
     }, image: "/poi-images/industry-swarovski-kristallwelten-extra.webp"},
   {
-    id: "industry-zillertal-bier-extra",
+    id: "industry-zillertal-bier-extra", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Ein Schloss im Renaissancestil in Stumm, das als historisches Wahrzeichen im Zillertal dient.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Ein einzigartiges Kulturzentrum und Theater in einer historischen Scheune in Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "Ein Freizeit- und Wasserpark in Stumm mit Bade- und Erholungsmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Ausblick",
+                  "text": "Ein Aussichtspunkt bei Stumm mit Panorama über das Zillertal.",
+                  "category": "natural",
+                  "coords": [
+                        11.844464,
+                        47.26843
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Ein Indoor-Freestyle-Park und eine Attraktion in Stumm für Sport und Springen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "Eine kleine traditionelle Kapelle in der Umgebung von Stumm.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "Eine charmante lokale Kapelle in Stumm, die dem Gebet und der stillen Einkehr dient.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            },
+            {
+                  "name": "Riedbergkapelle",
+                  "text": "Eine kleine Bergkapelle in Stumm, die eine friedliche Atmosphäre bietet.",
+                  "category": "religious",
+                  "coords": [
+                        11.859076,
+                        47.298589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Reneszánsz stílusú kastély Stummban, amely a Zillertal történelmi nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Egyedülálló kulturális központ és színház egy történelmi pajtában Stummban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "Szabadidő- és vízi park Stummban, amely úszási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Ausblick",
+                  "text": "Kilátóhely Stumm környékén, amely panorámát nyújt a Zillertal-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        11.844464,
+                        47.26843
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Fedett freestyle park és látványosság Stummban sportoláshoz és ugráláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "Kisméretű hagyományos kápolna Stumm környékén.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "Bájos helyi kápolna Stummban, imádságra és csendes elmélkedésre.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            },
+            {
+                  "name": "Riedbergkapelle",
+                  "text": "Kis hegyi kápolna Stummban, amely békés hangulatot áraszt.",
+                  "category": "religious",
+                  "coords": [
+                        11.859076,
+                        47.298589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "Un castel în stil renascentist din Stumm, un reper istoric în Valea Zillertal.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "Un centru cultural și teatru unic, situat într-o șură istorică din Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "Un parc acvatic și de agrement în Stumm, oferind facilități pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Ausblick",
+                  "text": "Un punct de observație în zona Stumm, oferind panorame asupra văii Zillertal.",
+                  "category": "natural",
+                  "coords": [
+                        11.844464,
+                        47.26843
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "Un parc de freestyle interior și atracție în Stumm pentru sport și sărituri.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "O mică capelă tradițională situată în vecinătatea localității Stumm.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "O capelă locală fermecătoare în Stumm, folosită pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            },
+            {
+                  "name": "Riedbergkapelle",
+                  "text": "O mică capelă montană în Stumm, oferind o atmosferă liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.859076,
+                        47.298589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Stumm",
+                  "text": "A Renaissance-style castle in Stumm, serving as a historic landmark in the Zillertal.",
+                  "category": "castle",
+                  "coords": [
+                        11.887509,
+                        47.291238
+                  ]
+            },
+            {
+                  "name": "Steudltenn",
+                  "text": "A unique cultural centre and theatre located in a historic barn in Stumm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.863571,
+                        47.324945
+                  ]
+            },
+            {
+                  "name": "Badewelt Stumm",
+                  "text": "A leisure and water park in Stumm offering swimming and relaxation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        11.889255,
+                        47.289541
+                  ]
+            },
+            {
+                  "name": "Ausblick",
+                  "text": "A scenic viewpoint in the Stumm area offering panoramas of the Zillertal valley.",
+                  "category": "natural",
+                  "coords": [
+                        11.844464,
+                        47.26843
+                  ]
+            },
+            {
+                  "name": "Airparc",
+                  "text": "An indoor freestyle park and attraction in Stumm for sports and jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        11.875526,
+                        47.289758
+                  ]
+            },
+            {
+                  "name": "Labnerkapelle",
+                  "text": "A small traditional chapel located in the vicinity of Stumm.",
+                  "category": "religious",
+                  "coords": [
+                        11.864734,
+                        47.290845
+                  ]
+            },
+            {
+                  "name": "Plunggenkapelle",
+                  "text": "A charming local chapel in Stumm, used for prayer and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        11.853699,
+                        47.317949
+                  ]
+            },
+            {
+                  "name": "Riedbergkapelle",
+                  "text": "A small mountain chapel in Stumm offering a peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        11.859076,
+                        47.298589
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AT-7",
     coords: [11.87, 47.29],

@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const belarusNatureV2: POI[] = [
 
   {
-    id: "belarus-belovezhskaya-pushcha-nature-v2",
+    id: "belarus-belovezhskaya-pushcha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "Ein Freilichtmuseum für die Holzbauweise der ruthenischen Bevölkerung in der Region Podlachien.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "Dieses Museum dokumentiert die Naturgeschichte und Forstwirtschaft des Nationalparks Białowieża.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "Ein streng geschützter Bereich des Nationalparks Białowieża, der den ursprünglichen Urwald bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Jagiełło-Eiche",
+                  "text": "Eine berühmte historische Eiche im Nationalpark Białowieża, die nach dem polnischen König benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "Ein rekonstruierter Bahnhofsbereich, der früher dem kaiserlichen Palast in Białowieża diente.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Eine markante Kiefer im Nationalpark, die aufgrund ihres geraden Wuchses als Mastbaum bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "Eine historische Waldsiedlung im Nationalpark Białowieża, bekannt für ihre traditionellen Blockhäuser.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "A podlasiei ruszin lakosság faépítészetét bemutató szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "A Białowieża Nemzeti Park természettudományi és erdészeti értékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "A Białowieża Nemzeti Park szigorúan védett területe, amely az ősi erdőt őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Dąb Jagiełły",
+                  "text": "A Białowieża Nemzeti Park híres történelmi tölgyfája, amelyet a lengyel királyról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "Rekonstruált vasúti peron, amely egykor a białowieżai cári palotát szolgálta ki.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Jellegzetes erdei fenyő, amelyet egyenes növekedése miatt árbocfenyőnek neveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "Történelmi erdei település, amely hagyományos rönkházairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "Un muzeu în aer liber dedicat arhitecturii de lemn a populației rutene din regiunea Podlasia.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "Acest muzeu documentează istoria naturală și silvicultura Parcului Național Białowieża.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
+                  "text": "O zonă strict protejată a Parcului Național Białowieża care conservă pădurea virgină.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "Dąb Jagiełły",
+                  "text": "Un stejar istoric celebru din Parcul Național Białowieża, numit după regele polonez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
+                  "text": "O platformă feroviară reconstruită care deservea fostul palat imperial.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Sosna Masztowa",
+                  "text": "Un pin proeminent din parcul național, numit arbore de catarg datorită creșterii sale drepte.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "O așezare istorică de pădure, cunoscută pentru casele sale tradiționale din bușteni.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
+                  "text": "An open-air museum showcasing the wooden architecture of the Ruthenian population in the Podlasie region.",
+                  "category": "museum",
+                  "coords": [
+                        23.834875,
+                        52.702446
+                  ]
+            },
+            {
+                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
+                  "text": "This museum documents the natural history and forestry of the Białowieża National Park.",
+                  "category": "museum",
+                  "coords": [
+                        23.847264,
+                        52.703488
+                  ]
+            },
+            {
+                  "name": "Białowieża National Park Restricted Area",
+                  "text": "A strictly protected area of the Białowieża National Park preserving the primeval forest.",
+                  "category": "natural",
+                  "coords": [
+                        23.874065,
+                        52.751219
+                  ]
+            },
+            {
+                  "name": "The King Jogaila Oak",
+                  "text": "A famous historic oak tree in the Białowieża National Park, named after the Polish king.",
+                  "category": "landmark",
+                  "coords": [
+                        23.8294,
+                        52.721995
+                  ]
+            },
+            {
+                  "name": "Reconstructed Peron \"Bialowieza Palace",
+                  "text": "A reconstructed railway platform that formerly served the imperial palace in Białowieża.",
+                  "category": "landmark",
+                  "coords": [
+                        23.847206,
+                        52.699431
+                  ]
+            },
+            {
+                  "name": "Mast Pine tree",
+                  "text": "A prominent pine tree in the national park, referred to as a mast tree due to its straight growth.",
+                  "category": "landmark",
+                  "coords": [
+                        23.830804,
+                        52.722455
+                  ]
+            },
+            {
+                  "name": "Osada Dziedzinka",
+                  "text": "A historic forest settlement in the Białowieża National Park, known for its traditional log houses.",
+                  "category": "landmark",
+                  "coords": [
+                        23.907224,
+                        52.722127
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "forest",
     name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha"},
@@ -138,7 +399,52 @@ export const belarusNatureV2: POI[] = [
       fr: ["Parc national créé en 1995 couvrant 71 500 hectares", "Plus de 300 lacs dans la région, environ 30 dans la zone centrale", "Abrite 189 espèces d'oiseaux confirmées", "Habitat pour 45 espèces de mammifères, dont l'ours brun", "Les glaciers ont laissé des ravines jusqu'à 10 mètres de profondeur", "La surface totale en eau dépasse 130 kilomètres carrés", "Comprend le lac Dryvyaty (36 km²) et le lac Snudy (22 km²)"],
     }, image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"},
   {
-    id: "belarus-pripyat-river-nature-v2",
+    id: "belarus-pripyat-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей прыроды",
+                  "text": "Dieses Museum am Fluss Pripjat widmet sich der lokalen Flora und Fauna der Region.",
+                  "category": "museum",
+                  "coords": [
+                        28.1569,
+                        52.115251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей прыроды",
+                  "text": "Ez a Pripjaty-folyó menti múzeum a régió helyi növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.1569,
+                        52.115251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей прыроды",
+                  "text": "Acest muzeu de pe râul Pripeat este dedicat florei și faunei locale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        28.1569,
+                        52.115251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nature museum",
+                  "text": "This museum on the Pripyat River is dedicated to the local flora and fauna of the region.",
+                  "category": "museum",
+                  "coords": [
+                        28.1569,
+                        52.115251
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "river",
     name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River"},
@@ -228,7 +534,52 @@ export const belarusNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/belarus-berezina-river-nature-v2.webp"},
   {
-    id: "belarus-dzyarzhynskaya-hara-nature-v2",
+    id: "belarus-dzyarzhynskaya-hara-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dsjarschynskaja",
+                  "text": "Mit 345 Metern ist dies der höchste topographische Punkt in Belarus.",
+                  "category": "landmark",
+                  "coords": [
+                        27.065513,
+                        53.84867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дзяржынская",
+                  "text": "345 méteres magasságával ez Fehéroroszország legmagasabb földrajzi pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.065513,
+                        53.84867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Дзяржынская",
+                  "text": "Cu o înălțime de 345 de metri, acesta este cel mai înalt punct geografic din Belarus.",
+                  "category": "landmark",
+                  "coords": [
+                        27.065513,
+                        53.84867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzyarzhynskaya",
+                  "text": "At 345 metres, this is the highest topographic point in Belarus.",
+                  "category": "landmark",
+                  "coords": [
+                        27.065513,
+                        53.84867
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "peak",
     name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara"},
@@ -1050,7 +1401,52 @@ imageHint: "Small river winding through ancient broadleaf forest",
     },
     image: "/poi-images/belarus-lisnaya-river-nature-v2.webp",
 },  {
-    id: "belarus-sorochanskiye-lakes-nature-v2",
+    id: "belarus-sorochanskiye-lakes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Landschaftsreservat \"Sorotschanski-Seen\"",
+                  "text": "Ein Landschaftsschutzgebiet, das die Sorotschanski-Seen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        26.188363,
+                        54.880477
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ландшафтны заказнік «Сарачанскія азёры»",
+                  "text": "Tájvédelmi körzet, amely a Szorocsanszkij-tavakat foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        26.188363,
+                        54.880477
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ландшафтны заказнік «Сарачанскія азёры»",
+                  "text": "O rezervație peisagistică ce cuprinde lacurile Sorochanskiye.",
+                  "category": "natural",
+                  "coords": [
+                        26.188363,
+                        54.880477
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sorochansky Lakes Landscape Reserve",
+                  "text": "A landscape reserve encompassing the Sorochanskiye Lakes.",
+                  "category": "natural",
+                  "coords": [
+                        26.188363,
+                        54.880477
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "lake",
     name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes"},
@@ -1191,7 +1587,124 @@ imageHint: "Small river winding through ancient broadleaf forest",
     },
   },
   {
-    id: "belarus-svitiaz-lake-nature-v2",
+    id: "belarus-svitiaz-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Навагрудскі пляж",
+                  "text": "Öffentlicher Badestrand am Switjas-See zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.907128,
+                        53.429476
+                  ]
+            },
+            {
+                  "name": "Карэліцкі пляж",
+                  "text": "Strand am Seeufer, geeignet für sommerliche Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        25.927119,
+                        53.43758
+                  ]
+            },
+            {
+                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "text": "Naturschutzgebiet zur Erhaltung des Ökosystems rund um den See.",
+                  "category": "natural",
+                  "coords": [
+                        25.910118,
+                        53.430637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Навагрудскі пляж",
+                  "text": "Nyilvános strand a Szvityáz-tónál kikapcsolódáshoz és fürdéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        25.907128,
+                        53.429476
+                  ]
+            },
+            {
+                  "name": "Карэліцкі пляж",
+                  "text": "Tóparti strand, amely alkalmas nyári szabadidős tevékenységekre.",
+                  "category": "recreational",
+                  "coords": [
+                        25.927119,
+                        53.43758
+                  ]
+            },
+            {
+                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "text": "Természetvédelmi terület a tó körüli ökoszisztéma megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        25.910118,
+                        53.430637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Навагрудскі пляж",
+                  "text": "Zonă de plajă publică pentru înot și relaxare pe lacul Svitiaz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.907128,
+                        53.429476
+                  ]
+            },
+            {
+                  "name": "Карэліцкі пляж",
+                  "text": "Plajă pe malul lacului, potrivită pentru activități recreative de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        25.927119,
+                        53.43758
+                  ]
+            },
+            {
+                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "text": "Rezervație naturală protejată care conservă ecosistemul din jurul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        25.910118,
+                        53.430637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navahrudak beach",
+                  "text": "Public beach area for swimming and relaxation on Lake Svitiaz.",
+                  "category": "recreational",
+                  "coords": [
+                        25.907128,
+                        53.429476
+                  ]
+            },
+            {
+                  "name": "Kareličy beach",
+                  "text": "Recreational lakeside beach suitable for summer visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        25.927119,
+                        53.43758
+                  ]
+            },
+            {
+                  "name": "Landscape reserve \"Sviciazianski\"",
+                  "text": "Protected natural area preserving the ecosystem around the lake.",
+                  "category": "natural",
+                  "coords": [
+                        25.910118,
+                        53.430637
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "lake",
     name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake"},

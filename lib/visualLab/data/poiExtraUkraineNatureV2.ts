@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const ukraineNatureV2: POI[] = [
 
   {
-    id: "ukraine-hoverla-nature-v2",
+    id: "ukraine-hoverla-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Howerla",
+                  "text": "Mit 2061 Metern der höchste Berg der Ukraine im Tschornohora-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        24.49994,
+                        48.16021
+                  ]
+            },
+            {
+                  "name": "Брескул",
+                  "text": "Ein markanter Gipfel in den ukrainischen Karpaten nahe der Hoverla.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Ein Berg im Tschornohora-Massiv der ukrainischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Пожижевська",
+                  "text": "Ein Gipfel in der Hohen Beskid-Region der Ukraine, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        24.523551,
+                        48.144314
+                  ]
+            },
+            {
+                  "name": "Австрійське кладовище ПСВ",
+                  "text": "Ein historischer Militärfriedhof aus dem Ersten Weltkrieg in der Nähe des Berges Hoverla.",
+                  "category": "historical",
+                  "coords": [
+                        24.518344,
+                        48.176533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoverla",
+                  "text": "Ukrajna legmagasabb hegycsúcsa a Máramarosi-havasokban, 2061 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        24.49994,
+                        48.16021
+                  ]
+            },
+            {
+                  "name": "Брескул",
+                  "text": "Jellegzetes hegycsúcs az Ukrán-Kárpátokban, a Hoverla közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Hegycsúcs az Ukrán-Kárpátokhoz tartozó Máramarosi-havasokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Пожижевська",
+                  "text": "Hegycsúcs Ukrajnában, a Máramarosi-havasokban, amely alpesi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.523551,
+                        48.144314
+                  ]
+            },
+            {
+                  "name": "Австрійське кладовище ПСВ",
+                  "text": "Történelmi katonai temető az első világháborúból, a Hoverla-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.518344,
+                        48.176533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Говерла",
+                  "text": "Cel mai înalt vârf muntos din Ucraina, situat în masivul Ciornohora, având 2061 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        24.49994,
+                        48.16021
+                  ]
+            },
+            {
+                  "name": "Брескул",
+                  "text": "Un vârf proeminent din Carpații Ucraineni, situat în apropierea muntelui Hoverla.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Un munte situat în masivul Ciornohora din Carpații Ucraineni.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Пожижевська",
+                  "text": "Un vârf din regiunea masivului Ciornohora, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.523551,
+                        48.144314
+                  ]
+            },
+            {
+                  "name": "Австрійське кладовище ПСВ",
+                  "text": "Un cimitir militar istoric din Primul Război Mondial, situat în apropierea muntelui Hoverla.",
+                  "category": "historical",
+                  "coords": [
+                        24.518344,
+                        48.176533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoverla",
+                  "text": "At 2061 meters, the highest mountain in Ukraine, located in the Chornohora range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.49994,
+                        48.16021
+                  ]
+            },
+            {
+                  "name": "Breskul",
+                  "text": "A prominent peak in the Ukrainian Carpathians located near Mount Hoverla.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Dantsyzh",
+                  "text": "A mountain located in the Chornohora range of the Ukrainian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Pozhyzhevska",
+                  "text": "A peak in the Chornohora region of Ukraine, known for its alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        24.523551,
+                        48.144314
+                  ]
+            },
+            {
+                  "name": "Austrian cemetery WW1",
+                  "text": "A historic military cemetery from World War I located near Mount Hoverla.",
+                  "category": "historical",
+                  "coords": [
+                        24.518344,
+                        48.176533
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "peak",
     name: { de: "Hoverla", hu: "Hóvár", ro: "Hoverla", en: "Hoverla"},
@@ -49,7 +238,88 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
     },
     image: "/poi-images/ukraine-hoverla-nature-v2.webp",
 },  {
-    id: "ukraine-synevyr-nature-v2",
+    id: "ukraine-synevyr-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Озеро Синевир",
+                  "text": "Der größte See in den ukrainischen Karpaten, umgeben von einem Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        23.682648,
+                        48.616892
+                  ]
+            },
+            {
+                  "name": "Озерна",
+                  "text": "Ein Berggipfel in der Nähe des Synevyr-Sees, der einen Panoramablick bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.663789,
+                        48.609726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Озеро Синевир",
+                  "text": "Az ukrán Kárpátok legnagyobb tava, amelyet természetvédelmi terület vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        23.682648,
+                        48.616892
+                  ]
+            },
+            {
+                  "name": "Озерна",
+                  "text": "Hegycsúcs a Szinevéri-tó közelében, amely panorámás kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.663789,
+                        48.609726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Озеро Синевир",
+                  "text": "Cel mai mare lac din Carpații Ucraineni, înconjurat de o rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        23.682648,
+                        48.616892
+                  ]
+            },
+            {
+                  "name": "Озерна",
+                  "text": "Un vârf montan lângă lacul Synevyr, oferind o vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        23.663789,
+                        48.609726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Synevyr",
+                  "text": "The largest lake in the Ukrainian Carpathians, surrounded by a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        23.682648,
+                        48.616892
+                  ]
+            },
+            {
+                  "name": "Ozerna",
+                  "text": "A mountain peak near Synevyr Lake offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        23.663789,
+                        48.609726
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "lake",
     name: { de: "Synevyr-See", hu: "Szinevéri-tó", ro: "Lacul Sinevir", en: "Synevyr Lake"},
@@ -187,7 +457,52 @@ imageHint: "Dniester Canyon river bend aerial view",
     },
     image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp",
 },  {
-    id: "ukraine-svityaz-nature-v2",
+    id: "ukraine-svityaz-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "Ein beliebter Sandstrand am Ufer des Svitjaz-Sees, ideal zum Entspannen in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "Népszerű homokos strand a Szvitjaz-tó partján, amely ideális a természetbeni pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Центральний пляж",
+                  "text": "O plajă de nisip populară pe malul lacului Sviteaz, ideală pentru relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central beach",
+                  "text": "A popular sandy beach on the shores of Lake Svityaz, ideal for relaxation in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        23.844984,
+                        51.479321
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "lake",
     name: { de: "Switjas-See", hu: "Szvityáz-tó", ro: "Lacul Svitiaz", en: "Lake Svityaz"},
@@ -279,7 +594,52 @@ imageHint: "Askania-Nova steppe with wild horses",
     },
     image: "/poi-images/ukraine-askania-nova-nature-v2.webp",
 },  {
-    id: "ukraine-oleshky-sands-nature-v2",
+    id: "ukraine-oleshky-sands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Ein Aussichtspunkt in den Oleschky-Sanden, der größten Sandwüste der Ukraine.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Kilátó az Oleski-homokpusztán, Ukrajna legnagyobb homoksivatagában.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Олешківські піски",
+                  "text": "Un punct de observare în Nisipurile Oleșki, cel mai mare deșert de nisip din Ucraina.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Desert",
+                  "text": "A viewpoint in the Oleshky Sands, the largest sand desert in Ukraine.",
+                  "category": "natural",
+                  "coords": [
+                        33.05804,
+                        46.59836
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "valley",
     name: { de: "Oleschky-Sande", hu: "Oleski-homok", ro: "Nisipurile Oleșki", en: "Oleshky Sands"},
@@ -325,7 +685,160 @@ imageHint: "Oleshky Sands desert dunes",
     },
     image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp",
 },  {
-    id: "ukraine-shypit-nature-v2",
+    id: "ukraine-shypit-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шипіт",
+                  "text": "Ein beeindruckender Wasserfall in den ukrainischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.26846,
+                        48.655512
+                  ]
+            },
+            {
+                  "name": "Великий Верх",
+                  "text": "Ein hoher Gipfel im Polonyna-Borschawa-Gebirge in der Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        23.22969,
+                        48.647625
+                  ]
+            },
+            {
+                  "name": "Ґимба",
+                  "text": "Ein markanter Berggipfel in der Nähe des Schypit-Wasserfalls in den ukrainischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.268236,
+                        48.632696
+                  ]
+            },
+            {
+                  "name": "Ряпецка",
+                  "text": "Ein Berggipfel im Borzhava-Massiv in der Nähe des Schypit-Wasserfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        23.251685,
+                        48.665783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шипіт",
+                  "text": "Lenyűgöző vízesés az ukrán Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.26846,
+                        48.655512
+                  ]
+            },
+            {
+                  "name": "Великий Верх",
+                  "text": "Magas hegycsúcs az ukrajnai Polonina Borzsova hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.22969,
+                        48.647625
+                  ]
+            },
+            {
+                  "name": "Ґимба",
+                  "text": "Egy jellegzetes hegycsúcs az ukrán Kárpátokban, a Sipit-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.268236,
+                        48.632696
+                  ]
+            },
+            {
+                  "name": "Ряпецка",
+                  "text": "A Borzsavai-havasok egyik hegycsúcsa a Sipit-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.251685,
+                        48.665783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шипіт",
+                  "text": "O cascadă impresionantă situată în Munții Carpați din Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        23.26846,
+                        48.655512
+                  ]
+            },
+            {
+                  "name": "Великий Верх",
+                  "text": "Un vârf montan înalt în masivul Polonina Borjava din Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        23.22969,
+                        48.647625
+                  ]
+            },
+            {
+                  "name": "Ґимба",
+                  "text": "Un vârf montan proeminent situat lângă cascada Șipot din Carpații Ucraineni.",
+                  "category": "landmark",
+                  "coords": [
+                        23.268236,
+                        48.632696
+                  ]
+            },
+            {
+                  "name": "Ряпецка",
+                  "text": "Un vârf montan din masivul Borjava, situat în apropierea cascadei Șipot.",
+                  "category": "landmark",
+                  "coords": [
+                        23.251685,
+                        48.665783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shypit",
+                  "text": "A stunning waterfall located in the Ukrainian Carpathian Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.26846,
+                        48.655512
+                  ]
+            },
+            {
+                  "name": "Velykyi Verkh",
+                  "text": "A high mountain peak in the Polonyna Borzhava range in Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        23.22969,
+                        48.647625
+                  ]
+            },
+            {
+                  "name": "Gymba",
+                  "text": "A prominent mountain peak located near the Shypit Waterfall in the Ukrainian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.268236,
+                        48.632696
+                  ]
+            },
+            {
+                  "name": "Riapetska",
+                  "text": "A mountain peak in the Borzhava range near the Shypit Waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        23.251685,
+                        48.665783
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Schypit-Wasserfall", hu: "Sipit-vízesés", ro: "Cascada Șipot", en: "Shypit Waterfall"},
@@ -371,7 +884,268 @@ imageHint: "Shypit waterfall in the forest",
     },
     image: "/poi-images/ukraine-shypit-nature-v2.webp",
 },  {
-    id: "ukraine-pip-ivan-chornohora-nature-v2",
+    id: "ukraine-pip-ivan-chornohora-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pip Iwan Tschornohirski",
+                  "text": "Einer der höchsten Gipfel der ukrainischen Karpaten, bekannt für die Ruine eines alten Observatoriums.",
+                  "category": "landmark",
+                  "coords": [
+                        24.627514,
+                        48.046969
+                  ]
+            },
+            {
+                  "name": "Смотрич",
+                  "text": "Ein markanter Berggipfel im Tschornohora-Massiv, der für seine malerischen Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644055,
+                        48.069206
+                  ]
+            },
+            {
+                  "name": "Шурин",
+                  "text": "Ein Gipfel in den ukrainischen Karpaten, der Wanderern eine beeindruckende Aussicht auf das Gebirge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.648195,
+                        48.031266
+                  ]
+            },
+            {
+                  "name": "Дземброня",
+                  "text": "Ein beliebter Wandergipfel in der Nähe des gleichnamigen Dorfes im Chornohora-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.6054,
+                        48.076208
+                  ]
+            },
+            {
+                  "name": "Стайки",
+                  "text": "Ein Berg im Tschornohora-Massiv, der Teil einer bekannten Wanderroute durch die Karpaten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.678972,
+                        48.054249
+                  ]
+            },
+            {
+                  "name": "Дзембронські водоспади",
+                  "text": "Kaskadenartige Wasserfälle am Smotrych-Berg, die zu den schönsten Naturschauspielen der Region gehören.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644523,
+                        48.076458
+                  ]
+            },
+            {
+                  "name": "Окопи з часів Першої світової війни",
+                  "text": "Historische Überreste von Schützengräben aus dem Ersten Weltkrieg, die im Hochgebirge erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        24.624614,
+                        48.055053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pop Iván",
+                  "text": "Az ukrán Kárpátok egyik legmagasabb csúcsa, amely egy régi obszervatórium romjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.627514,
+                        48.046969
+                  ]
+            },
+            {
+                  "name": "Смотрич",
+                  "text": "A Csornohora-masszívum jellegzetes hegycsúcsa, amely festői sziklaformációiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644055,
+                        48.069206
+                  ]
+            },
+            {
+                  "name": "Шурин",
+                  "text": "Egy csúcs az ukrán Kárpátokban, amely lenyűgöző kilátást nyújt a túrázóknak a hegységre.",
+                  "category": "landmark",
+                  "coords": [
+                        24.648195,
+                        48.031266
+                  ]
+            },
+            {
+                  "name": "Дземброня",
+                  "text": "Népszerű túrázócsúcs az azonos nevű falu közelében, a Csornohora-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.6054,
+                        48.076208
+                  ]
+            },
+            {
+                  "name": "Стайки",
+                  "text": "Egy hegy a Csornohora-masszívumban, amely a Kárpátokon átvezető ismert túraútvonal része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.678972,
+                        48.054249
+                  ]
+            },
+            {
+                  "name": "Дзембронські водоспади",
+                  "text": "Lépcsőzetes vízesések a Szmotrics-hegyen, amelyek a régió legszebb természeti látványosságai közé tartoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644523,
+                        48.076458
+                  ]
+            },
+            {
+                  "name": "Окопи з часів Першої світової війни",
+                  "text": "Az első világháború lövészárkainak történelmi maradványai, amelyek a magashegységben maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        24.624614,
+                        48.055053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Піп Іван Чорногірський",
+                  "text": "Unul dintre cele mai înalte vârfuri din Carpații ucraineni, cunoscut pentru ruinele unui vechi observator.",
+                  "category": "landmark",
+                  "coords": [
+                        24.627514,
+                        48.046969
+                  ]
+            },
+            {
+                  "name": "Смотрич",
+                  "text": "Un vârf montan proeminent în masivul Ciornohora, cunoscut pentru formațiunile sale stâncoase pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644055,
+                        48.069206
+                  ]
+            },
+            {
+                  "name": "Шурин",
+                  "text": "Un vârf în Carpații ucraineni care oferă turiștilor o vedere impresionantă asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        24.648195,
+                        48.031266
+                  ]
+            },
+            {
+                  "name": "Дземброня",
+                  "text": "Un vârf popular pentru drumeții lângă satul cu același nume din munții Ciornohora.",
+                  "category": "landmark",
+                  "coords": [
+                        24.6054,
+                        48.076208
+                  ]
+            },
+            {
+                  "name": "Стайки",
+                  "text": "Un munte în masivul Ciornohora, parte a unui traseu de drumeție cunoscut prin Carpați.",
+                  "category": "landmark",
+                  "coords": [
+                        24.678972,
+                        48.054249
+                  ]
+            },
+            {
+                  "name": "Дзембронські водоспади",
+                  "text": "Cascade pe muntele Smotrici, care se numără printre cele mai frumoase spectacole naturale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644523,
+                        48.076458
+                  ]
+            },
+            {
+                  "name": "Окопи з часів Першої світової війни",
+                  "text": "Rămășițe istorice ale tranșeelor din Primul Război Mondial, conservate în munții înalți.",
+                  "category": "historical",
+                  "coords": [
+                        24.624614,
+                        48.055053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pip Ivan Chornohirskyi",
+                  "text": "One of the highest peaks of the Ukrainian Carpathians, known for the ruins of an old observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        24.627514,
+                        48.046969
+                  ]
+            },
+            {
+                  "name": "Smotrych",
+                  "text": "A prominent mountain peak in the Chornohora massif, known for its scenic rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644055,
+                        48.069206
+                  ]
+            },
+            {
+                  "name": "Shuryn",
+                  "text": "A peak in the Ukrainian Carpathians offering hikers an impressive view of the mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.648195,
+                        48.031266
+                  ]
+            },
+            {
+                  "name": "Dzembronia",
+                  "text": "A popular hiking peak near the village of the same name in the Chornohora mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.6054,
+                        48.076208
+                  ]
+            },
+            {
+                  "name": "Staiky",
+                  "text": "A mountain in the Chornohora massif, part of a well-known hiking route through the Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.678972,
+                        48.054249
+                  ]
+            },
+            {
+                  "name": "Smotrych Falls",
+                  "text": "Cascading waterfalls on Mount Smotrych, among the most beautiful natural sights in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        24.644523,
+                        48.076458
+                  ]
+            },
+            {
+                  "name": "Remains of World War I trenches",
+                  "text": "Historic remains of World War I trenches preserved in the high mountains.",
+                  "category": "historical",
+                  "coords": [
+                        24.624614,
+                        48.055053
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "peak",
     name: { de: "Pip Iwan (Tschornohora)", hu: "Pip Iván (Csornohora)", ro: "Pip Ivan (Ciornohora)", en: "Pip Ivan (Chornohora)"},
@@ -463,7 +1237,160 @@ imageHint: "Dzharylhach island coastline and lighthouse",
     },
     image: "/poi-images/ukraine-dzharylhach-nature-v2.webp",
 },  {
-    id: "ukraine-snake-island-nature-v2",
+    id: "ukraine-snake-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Пляж \"Бандитський\"",
+                  "text": "Ein Strand auf der geschichtsträchtigen Schlangeninsel.",
+                  "category": "recreational",
+                  "coords": [
+                        30.200477,
+                        45.256956
+                  ]
+            },
+            {
+                  "name": "Пляж «Золотий»",
+                  "text": "Ein Küstenabschnitt auf der Schlangeninsel im Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        30.201134,
+                        45.253949
+                  ]
+            },
+            {
+                  "name": "Heiligtum des Achilles",
+                  "text": "Die archäologischen Überreste eines antiken griechischen Tempels, der Achilles geweiht war.",
+                  "category": "historical",
+                  "coords": [
+                        30.203433,
+                        45.254177
+                  ]
+            },
+            {
+                  "name": "Schlangeninsel Naturschutzgebiet",
+                  "text": "Ein Naturschutzgebiet zum Schutz der Fauna auf der Schlangeninsel.",
+                  "category": "natural",
+                  "coords": [
+                        30.203913,
+                        45.2551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Пляж \"Бандитський\"",
+                  "text": "Strand a történelmi jelentőségű Kígyó-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        30.200477,
+                        45.256956
+                  ]
+            },
+            {
+                  "name": "Пляж «Золотий»",
+                  "text": "Tengerparti szakasz a fekete-tengeri Kígyó-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        30.201134,
+                        45.253949
+                  ]
+            },
+            {
+                  "name": "Akhilleusz templom",
+                  "text": "Egy Akhilleusznak szentelt ókori görög templom régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        30.203433,
+                        45.254177
+                  ]
+            },
+            {
+                  "name": "Загальнозоологічний заказник «Зміїний острів»",
+                  "text": "Természetvédelmi terület a Kígyó-sziget állatvilágának megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        30.203913,
+                        45.2551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Пляж \"Бандитський\"",
+                  "text": "O plajă pe istorica Insulă a Șerpilor.",
+                  "category": "recreational",
+                  "coords": [
+                        30.200477,
+                        45.256956
+                  ]
+            },
+            {
+                  "name": "Пляж «Золотий»",
+                  "text": "O porțiune de coastă pe Insula Șerpilor din Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        30.201134,
+                        45.253949
+                  ]
+            },
+            {
+                  "name": "Храм Ахілла",
+                  "text": "Vestigiile arheologice ale unui vechi templu grec dedicat lui Ahile.",
+                  "category": "historical",
+                  "coords": [
+                        30.203433,
+                        45.254177
+                  ]
+            },
+            {
+                  "name": "Rezervația Zoologică Insula Șerpilor",
+                  "text": "O rezervație naturală pentru protejarea faunei de pe Insula Șerpilor.",
+                  "category": "natural",
+                  "coords": [
+                        30.203913,
+                        45.2551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bandit Beach",
+                  "text": "A beach located on the historic Snake Island.",
+                  "category": "recreational",
+                  "coords": [
+                        30.200477,
+                        45.256956
+                  ]
+            },
+            {
+                  "name": "Golden Beach",
+                  "text": "A coastal stretch on Snake Island in the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        30.201134,
+                        45.253949
+                  ]
+            },
+            {
+                  "name": "Greek temple to Achilles",
+                  "text": "Archaeological remains of an ancient Greek temple dedicated to Achilles.",
+                  "category": "historical",
+                  "coords": [
+                        30.203433,
+                        45.254177
+                  ]
+            },
+            {
+                  "name": "Zoological Reserve Snake Island",
+                  "text": "A nature reserve for the protection of fauna on Snake Island.",
+                  "category": "natural",
+                  "coords": [
+                        30.203913,
+                        45.2551
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Schlangeninsel", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Snake Island"},
@@ -601,7 +1528,124 @@ imageHint: "Southern Bug river rapids and rocks",
     },
     image: "/poi-images/ukraine-southern-bug-nature-v2.webp",
 },  {
-    id: "ukraine-aktove-canyon-nature-v2",
+    id: "ukraine-aktove-canyon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Арбузинський каньйон",
+                  "text": "Dieser Canyon beeindruckt mit seinen massiven Granitformationen und einer einzigartigen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        31.439621,
+                        47.705573
+                  ]
+            },
+            {
+                  "name": "Скеля Пуп землі",
+                  "text": "Eine markante Felsformation im Aktove-Canyon, die als spiritueller und geografischer Mittelpunkt gilt.",
+                  "category": "natural",
+                  "coords": [
+                        31.445949,
+                        47.704774
+                  ]
+            },
+            {
+                  "name": "Білі скелі",
+                  "text": "Diese natürlichen Kalksteinfelsen sind eine markante geologische Sehenswürdigkeit im Aktove-Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.439712,
+                        47.701003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Арбузинський каньйон",
+                  "text": "Ez a kanyon masszív gránitképződményeivel és egyedülálló flórájával nyűgözi le a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        31.439621,
+                        47.705573
+                  ]
+            },
+            {
+                  "name": "Скеля Пуп землі",
+                  "text": "Az Aktove-kanyon egyik jellegzetes sziklaképződménye, amelyet spirituális és földrajzi középpontnak tekintenek.",
+                  "category": "natural",
+                  "coords": [
+                        31.445949,
+                        47.704774
+                  ]
+            },
+            {
+                  "name": "Білі скелі",
+                  "text": "Ezek a természetes mészkősziklák az Aktove-kanyon jellegzetes földtani látnivalói.",
+                  "category": "landmark",
+                  "coords": [
+                        31.439712,
+                        47.701003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Арбузинський каньйон",
+                  "text": "Acest canion impresionează prin formațiunile sale masive de granit și o floră unică.",
+                  "category": "natural",
+                  "coords": [
+                        31.439621,
+                        47.705573
+                  ]
+            },
+            {
+                  "name": "Скеля Пуп землі",
+                  "text": "O formațiune stâncoasă distinctivă din canionul Aktove, considerată un centru spiritual și geografic.",
+                  "category": "natural",
+                  "coords": [
+                        31.445949,
+                        47.704774
+                  ]
+            },
+            {
+                  "name": "Білі скелі",
+                  "text": "Aceste stânci naturale de calcar sunt o atracție geologică distinctivă în canionul Aktove.",
+                  "category": "landmark",
+                  "coords": [
+                        31.439712,
+                        47.701003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arbuzinskii canyon",
+                  "text": "This canyon impresses with its massive granite formations and unique flora.",
+                  "category": "natural",
+                  "coords": [
+                        31.439621,
+                        47.705573
+                  ]
+            },
+            {
+                  "name": "Navel(Centre) of the Earth Rock",
+                  "text": "A distinctive rock formation in the Aktove Canyon, considered a spiritual and geographical center.",
+                  "category": "natural",
+                  "coords": [
+                        31.445949,
+                        47.704774
+                  ]
+            },
+            {
+                  "name": "White Stones",
+                  "text": "These natural limestone rocks are a distinctive geological attraction in the Aktove Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        31.439712,
+                        47.701003
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "valley",
     name: { de: "Aktowe-Canyon", hu: "Aktove-kanyon", ro: "Canionul Aktove", en: "Aktove Canyon"},
@@ -635,7 +1679,160 @@ imageHint: "Aktove Canyon granite rocks and river",
     },
     image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp",
 },  {
-    id: "ukraine-vorozheska-nature-v2",
+    id: "ukraine-vorozheska-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ворожеське",
+                  "text": "Ein Naturschutzgebiet in den ukrainischen Karpaten in der Nähe des Vorozheska-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        24.192787,
+                        48.276332
+                  ]
+            },
+            {
+                  "name": "Стіг",
+                  "text": "Ein Berggipfel im Swydiwez-Massiv in der Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Догяска",
+                  "text": "Ein markanter Gipfel in den Karpaten, bekannt für seine Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.161844,
+                        48.267522
+                  ]
+            },
+            {
+                  "name": "Великий Котел",
+                  "text": "Ein Berg im Swydiwez-Gebiet der Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.203011,
+                        48.271038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ворожеське",
+                  "text": "Természetvédelmi terület az ukrán Kárpátokban, a Vorozseszka-tó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.192787,
+                        48.276332
+                  ]
+            },
+            {
+                  "name": "Стіг",
+                  "text": "Hegycsúcs az ukrajnai Szvidovec-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Догяска",
+                  "text": "Jellegzetes kárpáti csúcs, amely kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.161844,
+                        48.267522
+                  ]
+            },
+            {
+                  "name": "Великий Котел",
+                  "text": "Hegy az ukrajnai Szvidovec-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        24.203011,
+                        48.271038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ворожеське",
+                  "text": "O rezervație naturală în Carpații Ucraineni, în apropierea lacului Vorojeska.",
+                  "category": "natural",
+                  "coords": [
+                        24.192787,
+                        48.276332
+                  ]
+            },
+            {
+                  "name": "Стіг",
+                  "text": "Un vârf montan în masivul Svîdoveț din Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Догяска",
+                  "text": "Un vârf proeminent din Carpați, cunoscut pentru panoramele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        24.161844,
+                        48.267522
+                  ]
+            },
+            {
+                  "name": "Великий Котел",
+                  "text": "Un munte în regiunea Svîdoveț din Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.203011,
+                        48.271038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vorozheske",
+                  "text": "A nature reserve in the Ukrainian Carpathians near Vorozheska Lake.",
+                  "category": "natural",
+                  "coords": [
+                        24.192787,
+                        48.276332
+                  ]
+            },
+            {
+                  "name": "Stih",
+                  "text": "A mountain peak in the Svydovets massif in Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Dohiaska",
+                  "text": "A prominent peak in the Carpathians known for its scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        24.161844,
+                        48.267522
+                  ]
+            },
+            {
+                  "name": "Velykyi Kotel",
+                  "text": "A mountain in the Svydovets region of Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.203011,
+                        48.271038
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "lake",
     name: { de: "Woroscheska-See", hu: "Vorozseszka-tó", ro: "Lacul Vorojeska", en: "Vorozheska Lake"},
@@ -681,7 +1878,304 @@ imageHint: "Vorozheska mountain lake aerial view",
     },
     image: "/poi-images/ukraine-vorozheska-nature-v2.webp",
 },  {
-    id: "ukraine-nesamovyte-nature-v2",
+    id: "ukraine-nesamovyte-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Брескул",
+                  "text": "Ein Berggipfel im Tschornohora-Massiv in den ukrainischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Ребра",
+                  "text": "Einer der höchsten Gipfel der ukrainischen Karpaten im Tschornohora-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558564,
+                        48.111195
+                  ]
+            },
+            {
+                  "name": "Гутин Томнатик",
+                  "text": "Ein markanter Gipfel in der Tschornohora-Region nahe dem Nesamowyte-See.",
+                  "category": "landmark",
+                  "coords": [
+                        24.556651,
+                        48.09944
+                  ]
+            },
+            {
+                  "name": "Туркул",
+                  "text": "Ein Berg in den ukrainischen Karpaten, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        24.530508,
+                        48.123489
+                  ]
+            },
+            {
+                  "name": "Шпиці",
+                  "text": "Ein Gipfel im Tschornohora-Gebirge, der für seine bizarren Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567254,
+                        48.125624
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Ein pyramidenförmiger Berggipfel im Tschornohora-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Гомул",
+                  "text": "Ein Gipfel in den ukrainischen Karpaten, Teil der Hauptkette der Tschornohora.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562593,
+                        48.135941
+                  ]
+            },
+            {
+                  "name": "Мала Маришевська",
+                  "text": "Ein Berg im Biosphärenreservat Karpaten in der Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563194,
+                        48.153135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Брескул",
+                  "text": "Hegycsúcs az ukrán Kárpátokban, a Csornohora-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Ребра",
+                  "text": "Az ukrán Kárpátok egyik legmagasabb csúcsa a Csornohora-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558564,
+                        48.111195
+                  ]
+            },
+            {
+                  "name": "Гутин Томнатик",
+                  "text": "Jellegzetes hegycsúcs a Csornohora-régióban, a Neszamovite-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.556651,
+                        48.09944
+                  ]
+            },
+            {
+                  "name": "Туркул",
+                  "text": "Hegy az ukrán Kárpátokban, amely alpesi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.530508,
+                        48.123489
+                  ]
+            },
+            {
+                  "name": "Шпиці",
+                  "text": "Csúcs a Csornohora-hegységben, amely bizarr sziklaalakzatairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567254,
+                        48.125624
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Piramis alakú hegycsúcs a Csornohora-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Гомул",
+                  "text": "Hegycsúcs az ukrán Kárpátokban, a Csornohora főgerincének része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562593,
+                        48.135941
+                  ]
+            },
+            {
+                  "name": "Мала Маришевська",
+                  "text": "Hegy az ukrajnai Kárpáti Bioszféra-rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563194,
+                        48.153135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Брескул",
+                  "text": "Un vârf muntos din masivul Ciornohora, în Carpații ucraineni.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Ребра",
+                  "text": "Unul dintre cele mai înalte vârfuri din Carpații ucraineni, în masivul Ciornohora.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558564,
+                        48.111195
+                  ]
+            },
+            {
+                  "name": "Гутин Томнатик",
+                  "text": "Un vârf proeminent în regiunea Ciornohora, lângă lacul Nesamovyte.",
+                  "category": "landmark",
+                  "coords": [
+                        24.556651,
+                        48.09944
+                  ]
+            },
+            {
+                  "name": "Туркул",
+                  "text": "Un munte din Carpații ucraineni, cunoscut pentru peisajele sale alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.530508,
+                        48.123489
+                  ]
+            },
+            {
+                  "name": "Шпиці",
+                  "text": "Un vârf din munții Ciornohora, cunoscut pentru formațiunile sale stâncoase bizare.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567254,
+                        48.125624
+                  ]
+            },
+            {
+                  "name": "Данциж",
+                  "text": "Un vârf muntos în formă de piramidă din masivul Ciornohora.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Гомул",
+                  "text": "Un vârf din Carpații ucraineni, parte a crestei principale a Ciornohorei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562593,
+                        48.135941
+                  ]
+            },
+            {
+                  "name": "Мала Маришевська",
+                  "text": "Un munte din Rezervația Biosferei Carpaților din Ucraina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563194,
+                        48.153135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breskul",
+                  "text": "A mountain peak in the Chornohora range of the Ukrainian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.510544,
+                        48.150334
+                  ]
+            },
+            {
+                  "name": "Rebra",
+                  "text": "One of the highest peaks in the Ukrainian Carpathians, located in the Chornohora range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558564,
+                        48.111195
+                  ]
+            },
+            {
+                  "name": "Hutyn Tomnatyk",
+                  "text": "A prominent peak in the Chornohora region near Nesamovyte Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        24.556651,
+                        48.09944
+                  ]
+            },
+            {
+                  "name": "Turkul",
+                  "text": "A mountain in the Ukrainian Carpathians, known for its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        24.530508,
+                        48.123489
+                  ]
+            },
+            {
+                  "name": "Shpytsi",
+                  "text": "A peak in the Chornohora mountains, famous for its bizarre rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567254,
+                        48.125624
+                  ]
+            },
+            {
+                  "name": "Dantsyzh",
+                  "text": "A pyramid-shaped mountain peak in the Chornohora range.",
+                  "category": "landmark",
+                  "coords": [
+                        24.531469,
+                        48.135295
+                  ]
+            },
+            {
+                  "name": "Homul",
+                  "text": "A peak in the Ukrainian Carpathians, part of the main Chornohora ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562593,
+                        48.135941
+                  ]
+            },
+            {
+                  "name": "Mala Maryshevska",
+                  "text": "A mountain within the Carpathian Biosphere Reserve in Ukraine.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563194,
+                        48.153135
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "lake",
     name: { de: "Nesamowyte-See", hu: "Nesamovite-tó", ro: "Lacul Nesamovite", en: "Nesamovyte Lake"},
@@ -727,7 +2221,124 @@ imageHint: "Nesamovyte lake in the mountains",
     },
     image: "/poi-images/ukraine-nesamovyte-nature-v2.webp",
 },    {
-    id: "ukraine-desna-nature-v2",
+    id: "ukraine-desna-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Нудистський пляж \"Оболонь\"",
+                  "text": "Ein inoffizieller FKK-Strand am Ufer des Desna-Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        30.530707,
+                        50.52795
+                  ]
+            },
+            {
+                  "name": "Пляж на Прирічній",
+                  "text": "Ein Flussstrand an der Pryrichna-Straße in Kiew am Desna-Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        30.520131,
+                        50.527815
+                  ]
+            },
+            {
+                  "name": "Натуристський/нудистський пляж \"Троя\"",
+                  "text": "Ein ruhiger Flussstrand an der Desna, der auch von FKK-Anhängern genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        30.557659,
+                        50.530155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Нудистський пляж \"Оболонь\"",
+                  "text": "Nem hivatalos nudista strand a Deszna folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        30.530707,
+                        50.52795
+                  ]
+            },
+            {
+                  "name": "Пляж на Прирічній",
+                  "text": "Folyami strand Kijevben, a Priricsna utca mentén a Deszna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        30.520131,
+                        50.527815
+                  ]
+            },
+            {
+                  "name": "Натуристський/нудистський пляж \"Троя\"",
+                  "text": "Csendes folyóparti strand a Desznán, amelyet nudisták is látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        30.557659,
+                        50.530155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Нудистський пляж \"Оболонь\"",
+                  "text": "O plajă de nudiști neoficială pe malul râului Desna.",
+                  "category": "recreational",
+                  "coords": [
+                        30.530707,
+                        50.52795
+                  ]
+            },
+            {
+                  "name": "Пляж на Прирічній",
+                  "text": "O plajă fluvială pe strada Prîricina din Kiev, pe malul râului Desna.",
+                  "category": "recreational",
+                  "coords": [
+                        30.520131,
+                        50.527815
+                  ]
+            },
+            {
+                  "name": "Натуристський/нудистський пляж \"Троя\"",
+                  "text": "O plajă fluvială liniștită pe Desna, folosită și de nudiști.",
+                  "category": "recreational",
+                  "coords": [
+                        30.557659,
+                        50.530155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obolon nude beach",
+                  "text": "An unofficial nude beach on the banks of the Desna River.",
+                  "category": "recreational",
+                  "coords": [
+                        30.530707,
+                        50.52795
+                  ]
+            },
+            {
+                  "name": "Beach on Pryrichna",
+                  "text": "A river beach along Pryrichna Street in Kyiv on the Desna bank.",
+                  "category": "recreational",
+                  "coords": [
+                        30.520131,
+                        50.527815
+                  ]
+            },
+            {
+                  "name": "Troia nude beach",
+                  "text": "A quiet river beach on the Desna, also used by naturists.",
+                  "category": "recreational",
+                  "coords": [
+                        30.557659,
+                        50.530155
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "river",
     name: { de: "Desna", hu: "Deszna", ro: "Desna", en: "Desna River"},
@@ -911,7 +2522,52 @@ imageHint: "Syvash pink lake aerial view",
     },
     image: "/poi-images/ukraine-syvash-nature-v2.webp",
 },  {
-    id: "ukraine-bakota-nature-v2",
+    id: "ukraine-bakota-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "Ein antikes Höhlenkloster mit Blick auf den Fluss Dnister.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "Ősi barlangkolostor, amely a Dnyeszter folyóra néz.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бакотський монастир",
+                  "text": "O mănăstire rupestră antică cu vedere la râul Nistru.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bakota Cave Monastery",
+                  "text": "An ancient cave monastery overlooking the Dniester River.",
+                  "category": "religious",
+                  "coords": [
+                        26.998582,
+                        48.585898
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "valley",
     name: { de: "Bakota-Bucht", hu: "Bakotai-öböl", ro: "Golful Bakota", en: "Bakota Bay"},
@@ -957,7 +2613,304 @@ imageHint: "Bakota bay Dniester river and cliffs",
     },
     image: "/poi-images/ukraine-bakota-nature-v2.webp",
 },  {
-    id: "ukraine-probiy-nature-v2",
+    id: "ukraine-probiy-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Маковиця",
+                  "text": "Makovytsia ist ein beliebter Wandergipfel bei Jaremtsche, der einen Panoramablick auf die Karpaten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.589454,
+                        48.450997
+                  ]
+            },
+            {
+                  "name": "\"Пробій\" водоспад",
+                  "text": "Probii ist ein beeindruckender Kaskadenwasserfall am Pruth, der von einer nahen Brücke aus sichtbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.539659,
+                        48.43932
+                  ]
+            },
+            {
+                  "name": "View & Break Point",
+                  "text": "Dieser Aussichtspunkt bietet einen malerischen Ort zum Ausruhen am Probiy-Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        24.564216,
+                        48.443848
+                  ]
+            },
+            {
+                  "name": "Найстаріше дерево",
+                  "text": "Dieser alte Baum ist eine lokale Naturattraktion, die für ihr hohes Alter in der Region bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562644,
+                        48.446222
+                  ]
+            },
+            {
+                  "name": "Скелі Довбуша",
+                  "text": "Die Dobusch-Felsen sind beeindruckende Formationen mit Panoramablick und lokalen Legenden.",
+                  "category": "natural",
+                  "coords": [
+                        24.564007,
+                        48.439873
+                  ]
+            },
+            {
+                  "name": "Рок Слон",
+                  "text": "Der Felsen Slon, oder Elefantenfelsen, ist eine Gesteinsformation, die an einen Elefanten erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563519,
+                        48.450384
+                  ]
+            },
+            {
+                  "name": "Точка огляду над річкою Прут",
+                  "text": "Dieser Aussichtspunkt bietet eine klare Perspektive auf den Pruth, der durch das Bergtal fließt.",
+                  "category": "natural",
+                  "coords": [
+                        24.546656,
+                        48.441261
+                  ]
+            },
+            {
+                  "name": "Поляна кохання",
+                  "text": "Die Lichtung der Liebe ist ein ruhiger Aussichtspunkt mit schöner Aussicht auf die Karpatennatur.",
+                  "category": "natural",
+                  "coords": [
+                        24.545476,
+                        48.432976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Маковиця",
+                  "text": "A Makovicja egy népszerű túracsúcs Jaremcse közelében, amely panorámás kilátást nyújt a Kárpátokra.",
+                  "category": "landmark",
+                  "coords": [
+                        24.589454,
+                        48.450997
+                  ]
+            },
+            {
+                  "name": "\"Пробій\" водоспад",
+                  "text": "A Probij egy hatalmas zúgó vízesés a Prut folyón, amely a közeli hídról is jól látható.",
+                  "category": "natural",
+                  "coords": [
+                        24.539659,
+                        48.43932
+                  ]
+            },
+            {
+                  "name": "View & Break Point",
+                  "text": "Ez a kilátópont festői helyet kínál a pihenésre a Probij-vízesés közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.564216,
+                        48.443848
+                  ]
+            },
+            {
+                  "name": "Найстаріше дерево",
+                  "text": "Ez az ősi fa egy helyi természeti látványosság, amely jelentős koráról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562644,
+                        48.446222
+                  ]
+            },
+            {
+                  "name": "Скелі Довбуша",
+                  "text": "A Dovbus-sziklák lenyűgöző sziklaformációk, amelyek panorámás kilátást nyújtanak.",
+                  "category": "natural",
+                  "coords": [
+                        24.564007,
+                        48.439873
+                  ]
+            },
+            {
+                  "name": "Рок Слон",
+                  "text": "A Slon-szikla, vagy Elefánt-szikla, egy kőformáció, amely egy elefántra hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563519,
+                        48.450384
+                  ]
+            },
+            {
+                  "name": "Точка огляду над річкою Прут",
+                  "text": "Ez a kilátópont tiszta rálátást biztosít a festői hegyi völgyön keresztül folyó Prut folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        24.546656,
+                        48.441261
+                  ]
+            },
+            {
+                  "name": "Поляна кохання",
+                  "text": "A Szerelem-tisztás egy nyugodt, festői hely, amely gyönyörű kilátást nyújt a kárpáti természetre.",
+                  "category": "natural",
+                  "coords": [
+                        24.545476,
+                        48.432976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Маковиця",
+                  "text": "Makovytsia este un vârf popular pentru drumeții lângă Yaremche, oferind vedere panoramică asupra Carpaților.",
+                  "category": "landmark",
+                  "coords": [
+                        24.589454,
+                        48.450997
+                  ]
+            },
+            {
+                  "name": "\"Пробій\" водоспад",
+                  "text": "Probii este o cascadă puternică pe râul Prut, vizibilă de pe un pod pietonal din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        24.539659,
+                        48.43932
+                  ]
+            },
+            {
+                  "name": "View & Break Point",
+                  "text": "Acest punct de belvedere oferă un loc pitoresc pentru odihnă lângă Cascada Probii.",
+                  "category": "natural",
+                  "coords": [
+                        24.564216,
+                        48.443848
+                  ]
+            },
+            {
+                  "name": "Найстаріше дерево",
+                  "text": "Acest arbore străvechi este o atracție naturală locală, remarcată prin vârsta sa semnificativă.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562644,
+                        48.446222
+                  ]
+            },
+            {
+                  "name": "Скелі Довбуша",
+                  "text": "Stâncile lui Dovbush sunt formațiuni stâncoase impresionante care oferă vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        24.564007,
+                        48.439873
+                  ]
+            },
+            {
+                  "name": "Рок Слон",
+                  "text": "Stânca Slon, sau Stânca Elefantului, este o formațiune de piatră care seamănă cu un elefant.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563519,
+                        48.450384
+                  ]
+            },
+            {
+                  "name": "Точка огляду над річкою Прут",
+                  "text": "Acest punct de belvedere oferă o perspectivă clară asupra râului Prut și a văii montane.",
+                  "category": "natural",
+                  "coords": [
+                        24.546656,
+                        48.441261
+                  ]
+            },
+            {
+                  "name": "Поляна кохання",
+                  "text": "Poiana Iubirii este un punct pitoresc liniștit care oferă vederi frumoase asupra naturii Carpaților.",
+                  "category": "natural",
+                  "coords": [
+                        24.545476,
+                        48.432976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makovytsia",
+                  "text": "Makovytsia is a popular hiking peak near Yaremche, offering panoramic views of the Ukrainian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.589454,
+                        48.450997
+                  ]
+            },
+            {
+                  "name": "\"Probii\" waterfall",
+                  "text": "Probii is a powerful cascading waterfall on the Prut River, visible from a nearby pedestrian bridge.",
+                  "category": "natural",
+                  "coords": [
+                        24.539659,
+                        48.43932
+                  ]
+            },
+            {
+                  "name": "View & Break Point",
+                  "text": "This viewpoint offers a scenic spot to rest and enjoy the landscape around the Probiy Waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        24.564216,
+                        48.443848
+                  ]
+            },
+            {
+                  "name": "The oldest tree",
+                  "text": "This ancient tree is a local natural attraction noted for its significant age in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        24.562644,
+                        48.446222
+                  ]
+            },
+            {
+                  "name": "Dovbush Rocks",
+                  "text": "Dovbush Rocks are a series of impressive rock formations offering panoramic views and local legends.",
+                  "category": "natural",
+                  "coords": [
+                        24.564007,
+                        48.439873
+                  ]
+            },
+            {
+                  "name": "Rock Slon",
+                  "text": "Rock Slon, or the Elephant Rock, is a natural stone formation named for its resemblance to an elephant.",
+                  "category": "landmark",
+                  "coords": [
+                        24.563519,
+                        48.450384
+                  ]
+            },
+            {
+                  "name": "Wievpoint above Prut river",
+                  "text": "This viewpoint provides a clear perspective over the Prut River as it flows through the mountain valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.546656,
+                        48.441261
+                  ]
+            },
+            {
+                  "name": "Glade of love",
+                  "text": "The Glade of love is a tranquil scenic spot offering beautiful views of the surrounding Carpathian nature.",
+                  "category": "natural",
+                  "coords": [
+                        24.545476,
+                        48.432976
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "landmark",
     name: { de: "Probiy-Wasserfall", hu: "Probij-vízesés", ro: "Cascada Probii", en: "Probiy Waterfall"},
@@ -1003,7 +2956,160 @@ imageHint: "Probiy waterfall Yaremche bridge view",
     },
     image: "/poi-images/ukraine-probiy-nature-v2.webp",
 },  {
-    id: "ukraine-pip-ivan-marmaros-nature-v2",
+    id: "ukraine-pip-ivan-marmaros-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Марамароський заповідний масив",
+                  "text": "Ein geschütztes Naturschutzgebiet in den Marmaroscher Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        24.302394,
+                        47.945163
+                  ]
+            },
+            {
+                  "name": "Pop Ivan / Піп Іван Мармароський",
+                  "text": "Ein markanter Berggipfel und Aussichtspunkt im Marmaros-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        24.327919,
+                        47.923814
+                  ]
+            },
+            {
+                  "name": "Берлебашка",
+                  "text": "Ein malerischer Berggipfel in den Marmaroscher Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315938,
+                        47.95327
+                  ]
+            },
+            {
+                  "name": "полонина Лисича",
+                  "text": "Eine malerische Bergwiese und ein Aussichtspunkt in der Marmaros-Region.",
+                  "category": "natural",
+                  "coords": [
+                        24.316728,
+                        47.945107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Марамароський заповідний масив",
+                  "text": "Védett természetvédelmi terület a Máramarosi-havasokban.",
+                  "category": "natural",
+                  "coords": [
+                        24.302394,
+                        47.945163
+                  ]
+            },
+            {
+                  "name": "Pop Ivan / Піп Іван Мармароський",
+                  "text": "Jelentős hegycsúcs és kilátópont a Máramarosi-havasokban.",
+                  "category": "natural",
+                  "coords": [
+                        24.327919,
+                        47.923814
+                  ]
+            },
+            {
+                  "name": "Берлебашка",
+                  "text": "Festői hegycsúcs a Máramarosi-Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315938,
+                        47.95327
+                  ]
+            },
+            {
+                  "name": "полонина Лисича",
+                  "text": "Festői hegyi rét és kilátópont a Máramaros környékén.",
+                  "category": "natural",
+                  "coords": [
+                        24.316728,
+                        47.945107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Марамароський заповідний масив",
+                  "text": "O rezervație naturală protejată în Munții Maramureșului.",
+                  "category": "natural",
+                  "coords": [
+                        24.302394,
+                        47.945163
+                  ]
+            },
+            {
+                  "name": "Pop Ivan",
+                  "text": "Un vârf muntos proeminent și un punct de belvedere în Munții Maramureș.",
+                  "category": "natural",
+                  "coords": [
+                        24.327919,
+                        47.923814
+                  ]
+            },
+            {
+                  "name": "Берлебашка",
+                  "text": "Un vârf muntos pitoresc în Carpații Maramureșului.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315938,
+                        47.95327
+                  ]
+            },
+            {
+                  "name": "полонина Лисича",
+                  "text": "O pajiște montană pitorească și un punct de belvedere în zona Maramureș.",
+                  "category": "natural",
+                  "coords": [
+                        24.316728,
+                        47.945107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marmaros protected massif",
+                  "text": "A protected nature reserve in the Maramureș Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        24.302394,
+                        47.945163
+                  ]
+            },
+            {
+                  "name": "Pip Ivan Marmaros",
+                  "text": "A prominent mountain peak and viewpoint in the Maramureș range.",
+                  "category": "natural",
+                  "coords": [
+                        24.327919,
+                        47.923814
+                  ]
+            },
+            {
+                  "name": "Berlebashka",
+                  "text": "A scenic mountain peak in the Maramureș Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315938,
+                        47.95327
+                  ]
+            },
+            {
+                  "name": "Polonyna Lysycha",
+                  "text": "A scenic mountain meadow and viewpoint in the Maramureș area.",
+                  "category": "natural",
+                  "coords": [
+                        24.316728,
+                        47.945107
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "peak",
     name: { de: "Pip Iwan (Marmarosch)", hu: "Pip Iván (Máramaros)", ro: "Pip Ivan (Maramureș)", en: "Pip Ivan Marmaros"},
@@ -1233,7 +3339,124 @@ imageHint: "Manyava waterfall in the mountains",
     },
     image: "/poi-images/ukraine-manyava-nature-v2.webp",
 },  {
-    id: "ukraine-blyznytsya-nature-v2",
+    id: "ukraine-blyznytsya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Стіг",
+                  "text": "Ein Gipfel im Swydowez-Massiv der ukrainischen Karpaten, nahe dem Berg Blyznytsja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Жандарм",
+                  "text": "Ein markanter Gipfel in den ukrainischen Karpaten, der Teil des Wandergebiets um die Blyznytsja ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.230463,
+                        48.232094
+                  ]
+            },
+            {
+                  "name": "Близниця Велика",
+                  "text": "Der höchste Gipfel des Swydowez-Massivs in der Ukraine, bekannt für seine weite Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.231185,
+                        48.222494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Стіг",
+                  "text": "Hegycsúcs az ukrán Kárpátok Szvidovec-masszívumában, a Bliznyicja-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Жандарм",
+                  "text": "Jellegzetes hegycsúcs az ukrán Kárpátokban, a Bliznyicja körüli túraútvonalak része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.230463,
+                        48.232094
+                  ]
+            },
+            {
+                  "name": "Близниця Велика",
+                  "text": "Az ukrajnai Szvidovec-masszívum legmagasabb csúcsa, amely széles körpanorámájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.231185,
+                        48.222494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Стіг",
+                  "text": "Un vârf în masivul Svîdoveț din Carpații Ucraineni, situat lângă muntele Blîznîțea.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Жандарм",
+                  "text": "Un vârf distinctiv din Carpații Ucraineni, făcând parte din zona de drumeție din jurul muntelui Blîznîțea.",
+                  "category": "landmark",
+                  "coords": [
+                        24.230463,
+                        48.232094
+                  ]
+            },
+            {
+                  "name": "Близниця Велика",
+                  "text": "Cel mai înalt vârf din masivul Svîdoveț din Ucraina, renumit pentru vederile sale panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        24.231185,
+                        48.222494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stih",
+                  "text": "A peak in the Svydovets massif of the Ukrainian Carpathians, near Mount Blyznytsya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.224105,
+                        48.250893
+                  ]
+            },
+            {
+                  "name": "Zhandarm",
+                  "text": "A prominent peak in the Ukrainian Carpathians, part of the hiking area around Mount Blyznytsya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.230463,
+                        48.232094
+                  ]
+            },
+            {
+                  "name": "Blyznytsia Velyka",
+                  "text": "The highest peak of the Svydovets massif in Ukraine, known for its extensive panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        24.231185,
+                        48.222494
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "peak",
     name: { de: "Blyznyzja", hu: "Bliznyicja", ro: "Vârful Bliznița", en: "Mount Blyznytsya"},

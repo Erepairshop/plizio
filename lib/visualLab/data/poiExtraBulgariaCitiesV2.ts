@@ -265,6 +265,42 @@ export const bulgariaCitiesV2: POI[] = [
                         26.572293,
                         43.250669
                   ]
+            },
+            {
+                  "name": "Regionalen Muzei T'rgovishche",
+                  "text": "Das Regionalmuseum von Targowischte zeigt archäologische und historische Exponate der Region.",
+                  "category": "museum",
+                  "coords": [
+                        26.571406,
+                        43.242053
+                  ]
+            },
+            {
+                  "name": "Biust-pametnik't na Mikhail Petrov",
+                  "text": "Ein Denkmal in Targowischte in Form einer Büste zu Ehren von Mikhail Petrov.",
+                  "category": "historical",
+                  "coords": [
+                        26.572558,
+                        43.24572
+                  ]
+            },
+            {
+                  "name": "Na zhertvite zaginali pri Osvobozhdenieto na grada ot osmansko igo",
+                  "text": "Ein Gedenkmal für die Opfer, die bei der Befreiung der Stadt von der osmanischen Herrschaft fielen.",
+                  "category": "historical",
+                  "coords": [
+                        26.569564,
+                        43.243066
+                  ]
+            },
+            {
+                  "name": "Gen. Kazimir Ernrot",
+                  "text": "Ein Denkmal in Targowischte für General Kasimir Ernrot, einen finnisch-russischen Offizier.",
+                  "category": "historical",
+                  "coords": [
+                        26.571048,
+                        43.241057
+                  ]
             }
       ],
       "hu": [
@@ -302,6 +338,42 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.572293,
                         43.250669
+                  ]
+            },
+            {
+                  "name": "Regionalen Muzei T'rgovishche",
+                  "text": "A tirgovistei regionális múzeum a környék régészeti és történelmi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.571406,
+                        43.242053
+                  ]
+            },
+            {
+                  "name": "Biust-pametnik't na Mikhail Petrov",
+                  "text": "Mikhail Petrov tiszteletére emelt mellszobor Tirgovistében.",
+                  "category": "historical",
+                  "coords": [
+                        26.572558,
+                        43.24572
+                  ]
+            },
+            {
+                  "name": "Na zhertvite zaginali pri Osvobozhdenieto na grada ot osmansko igo",
+                  "text": "Emlékmű a város oszmán uralom alóli felszabadítása során elesett áldozatok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.569564,
+                        43.243066
+                  ]
+            },
+            {
+                  "name": "Gen. Kazimir Ernrot",
+                  "text": "Emlékmű Tirgovistében Casimir Ernrot tábornoknak, a finn származású tisztnek.",
+                  "category": "historical",
+                  "coords": [
+                        26.571048,
+                        43.241057
                   ]
             }
       ],
@@ -341,6 +413,42 @@ export const bulgariaCitiesV2: POI[] = [
                         26.572293,
                         43.250669
                   ]
+            },
+            {
+                  "name": "Regionalen Muzei T'rgovishche",
+                  "text": "Muzeul regional din Târgoviște prezintă exponate arheologice și istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        26.571406,
+                        43.242053
+                  ]
+            },
+            {
+                  "name": "Biust-pametnik't na Mikhail Petrov",
+                  "text": "Un monument sub formă de bust în Târgoviște, ridicat în onoarea lui Mihail Petrov.",
+                  "category": "historical",
+                  "coords": [
+                        26.572558,
+                        43.24572
+                  ]
+            },
+            {
+                  "name": "Na zhertvite zaginali pri Osvobozhdenieto na grada ot osmansko igo",
+                  "text": "Un monument dedicat victimelor care au căzut în timpul eliberării orașului de sub stăpânirea otomană.",
+                  "category": "historical",
+                  "coords": [
+                        26.569564,
+                        43.243066
+                  ]
+            },
+            {
+                  "name": "Gen. Kazimir Ernrot",
+                  "text": "Un monument în Târgoviște dedicat generalului Kazimir Ernrot, un ofițer de origine finlandeză.",
+                  "category": "historical",
+                  "coords": [
+                        26.571048,
+                        43.241057
+                  ]
             }
       ],
       "en": [
@@ -378,6 +486,42 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.572293,
                         43.250669
+                  ]
+            },
+            {
+                  "name": "Regionalen Muzei T'rgovishche",
+                  "text": "The regional museum of Targovishte displays archaeological and historical exhibits from the area.",
+                  "category": "museum",
+                  "coords": [
+                        26.571406,
+                        43.242053
+                  ]
+            },
+            {
+                  "name": "Biust-pametnik't na Mikhail Petrov",
+                  "text": "A bust monument in Targovishte erected in honor of Mikhail Petrov.",
+                  "category": "historical",
+                  "coords": [
+                        26.572558,
+                        43.24572
+                  ]
+            },
+            {
+                  "name": "Na zhertvite zaginali pri Osvobozhdenieto na grada ot osmansko igo",
+                  "text": "A memorial to the victims who fell during the liberation of the city from Ottoman rule.",
+                  "category": "historical",
+                  "coords": [
+                        26.569564,
+                        43.243066
+                  ]
+            },
+            {
+                  "name": "Gen. Kazimir Ernrot",
+                  "text": "A monument in Targovishte dedicated to General Casimir Ehrnrooth, a Finnish-born officer.",
+                  "category": "historical",
+                  "coords": [
+                        26.571048,
+                        43.241057
                   ]
             }
       ]
@@ -1137,7 +1281,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-tryavna-cities-v2.webp",
   },
   {
-    id: "bulgaria-chiprovtsi-cities-v2", "sights": {"de": [{"name": "yaz. Martinovo", "text": "Ein See bei Chiprovtsi, der zur Erholung in der Natur einlädt.", "category": "natural", "coords": [22.84128, 43.396064]}], "hu": [{"name": "yaz. Martinovo", "text": "Egy tó Csiprovci környékén, amely kikapcsolódásra hív a természetben.", "category": "natural", "coords": [22.84128, 43.396064]}], "ro": [{"name": "yaz. Martinovo", "text": "Un lac în apropiere de Ciprovți, care invită la recreere în natură.", "category": "natural", "coords": [22.84128, 43.396064]}], "en": [{"name": "yaz. Martinovo", "text": "A lake near Chiprovtsi, inviting recreation in nature.", "category": "natural", "coords": [22.84128, 43.396064]}]},
+    id: "bulgaria-chiprovtsi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Martinovo",
+                  "text": "Ein See bei Chiprovtsi, der zur Erholung in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "Ein lokales Museum, das die Geschichte und die Teppichweberei von Tschiprowzi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.878953,
+                        43.383534
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "Ein symbolisches Denkmal namens Phönix, das an den Wiederaufbau von Tschiprowzi erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        22.905513,
+                        43.38059
+                  ]
+            },
+            {
+                  "name": "\"Chiprovsko V'stanie\"",
+                  "text": "Ein monumentales Denkmal in Tschiprowzi, das an den Aufstand von 1688 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        22.88082,
+                        43.384213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Martinovo",
+                  "text": "Egy tó Csiprovci környékén, amely kikapcsolódásra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "Helyi múzeum, amely Csiprovci történelmét és szőnyegszövő hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.878953,
+                        43.383534
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "A Főnix nevű jelképes emlékmű, amely Csiprovci újjáépítésére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        22.905513,
+                        43.38059
+                  ]
+            },
+            {
+                  "name": "\"Chiprovsko V'stanie\"",
+                  "text": "Monumentális emlékmű Csiprovciban, amely az 1688-as felkelésnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.88082,
+                        43.384213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Martinovo",
+                  "text": "Un lac în apropiere de Ciprovți, care invită la recreere în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            },
+            {
+                  "name": "Исторически музей",
+                  "text": "Un muzeu local care prezintă istoria și tradițiile țesutului de covoare din Ciprovți.",
+                  "category": "museum",
+                  "coords": [
+                        22.878953,
+                        43.383534
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "Un monument simbolic numit Phoenix, care amintește de reconstrucția orașului Ciprovți.",
+                  "category": "historical",
+                  "coords": [
+                        22.905513,
+                        43.38059
+                  ]
+            },
+            {
+                  "name": "\"Chiprovsko V'stanie\"",
+                  "text": "Un monument monumental în Ciprovți care comemorează răscoala din 1688.",
+                  "category": "historical",
+                  "coords": [
+                        22.88082,
+                        43.384213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Martinovo",
+                  "text": "A lake near Chiprovtsi, inviting recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.84128,
+                        43.396064
+                  ]
+            },
+            {
+                  "name": "Chiprovtsi Museum of History",
+                  "text": "A local museum showcasing the history and carpet-weaving traditions of Chiprovtsi.",
+                  "category": "museum",
+                  "coords": [
+                        22.878953,
+                        43.383534
+                  ]
+            },
+            {
+                  "name": "Feniks",
+                  "text": "A symbolic monument named Phoenix, commemorating the rebuilding of Chiprovtsi.",
+                  "category": "historical",
+                  "coords": [
+                        22.905513,
+                        43.38059
+                  ]
+            },
+            {
+                  "name": "\"Chiprovsko V'stanie\"",
+                  "text": "A monumental memorial in Chiprovtsi commemorating the uprising of 1688.",
+                  "category": "historical",
+                  "coords": [
+                        22.88082,
+                        43.384213
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Chiprowzi", hu: "Csiprovec", ro: "Ciprovți", en: "Chiprovtsi" },
@@ -1732,6 +2029,51 @@ export const bulgariaCitiesV2: POI[] = [
                         27.881138,
                         42.830807
                   ]
+            },
+            {
+                  "name": "Far Sveti Atanas",
+                  "text": "Ein Leuchtturm am Kap St. Atanas in Bjala, der Schiffen an der Schwarzmeerküste den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.9024,
+                        42.854299
+                  ]
+            },
+            {
+                  "name": "Letnii amfiteatr",
+                  "text": "Ein Freiluft-Amphitheater in Bjala, das im Sommer für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.889142,
+                        42.87683
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology",
+                  "text": "Das Archäologische Museum in Bjala zeigt Funde aus der antiken Festung der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.884663,
+                        42.876151
+                  ]
+            },
+            {
+                  "name": "Antichen kompleks Biala",
+                  "text": "Ein archäologischer Komplex in Bjala mit den Überresten einer spätantiken Festung am Meer.",
+                  "category": "historical",
+                  "coords": [
+                        27.89976,
+                        42.855259
+                  ]
+            },
+            {
+                  "name": "Minaev's staircase to the sea from Gaby House",
+                  "text": "Eine steile Treppe zum Meer in Bjala, die einen weiten Blick über das Schwarze Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        27.899303,
+                        42.860679
+                  ]
             }
       ],
       "hu": [
@@ -1778,6 +2120,51 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.881138,
                         42.830807
+                  ]
+            },
+            {
+                  "name": "Far Sveti Atanas",
+                  "text": "A Bjala melletti Szent Atanáz-fokon található világítótorony, amely a Fekete-tengernél segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        27.9024,
+                        42.854299
+                  ]
+            },
+            {
+                  "name": "Letnii amfiteatr",
+                  "text": "Szabadtéri amfiteátrum Bjalában, amelyet nyáron kulturális rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        27.889142,
+                        42.87683
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology",
+                  "text": "A bjalai régészeti múzeum a város ókori erődjéből származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.884663,
+                        42.876151
+                  ]
+            },
+            {
+                  "name": "Antichen kompleks Biala",
+                  "text": "Régészeti komplexum Bjalában egy késő antik tengerparti erőd maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        27.89976,
+                        42.855259
+                  ]
+            },
+            {
+                  "name": "Minaev's staircase to the sea from Gaby House",
+                  "text": "Egy meredek lépcsősor a tengerhez Bjalában, amely tágas kilátást nyújt a Fekete-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        27.899303,
+                        42.860679
                   ]
             }
       ],
@@ -1826,6 +2213,51 @@ export const bulgariaCitiesV2: POI[] = [
                         27.881138,
                         42.830807
                   ]
+            },
+            {
+                  "name": "Far Sveti Atanas",
+                  "text": "Un far situat la capul Sfântul Atanas din Beala, care ghidează navele pe coasta Mării Negre.",
+                  "category": "landmark",
+                  "coords": [
+                        27.9024,
+                        42.854299
+                  ]
+            },
+            {
+                  "name": "Letnii amfiteatr",
+                  "text": "Un amfiteatru în aer liber în Beala, folosit pentru evenimente culturale în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        27.889142,
+                        42.87683
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology",
+                  "text": "Muzeul de arheologie din Beala expune descoperiri din fortăreața antică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        27.884663,
+                        42.876151
+                  ]
+            },
+            {
+                  "name": "Antichen kompleks Biala",
+                  "text": "Un complex arheologic în Beala care cuprinde rămășițele unei cetăți din antichitatea târzie.",
+                  "category": "historical",
+                  "coords": [
+                        27.89976,
+                        42.855259
+                  ]
+            },
+            {
+                  "name": "Minaev's staircase to the sea from Gaby House",
+                  "text": "O scară abruptă spre mare în Beala, care oferă o vedere panoramică asupra Mării Negre.",
+                  "category": "natural",
+                  "coords": [
+                        27.899303,
+                        42.860679
+                  ]
             }
       ],
       "en": [
@@ -1872,6 +2304,51 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.881138,
                         42.830807
+                  ]
+            },
+            {
+                  "name": "Far Sveti Atanas",
+                  "text": "A lighthouse at Cape St. Atanas in Byala, guiding ships along the Black Sea coast.",
+                  "category": "landmark",
+                  "coords": [
+                        27.9024,
+                        42.854299
+                  ]
+            },
+            {
+                  "name": "Letnii amfiteatr",
+                  "text": "An open-air amphitheatre in Byala used for cultural events and performances during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        27.889142,
+                        42.87683
+                  ]
+            },
+            {
+                  "name": "Museum of Archeology",
+                  "text": "The museum of archaeology in Byala displays finds from the city's ancient fortress.",
+                  "category": "museum",
+                  "coords": [
+                        27.884663,
+                        42.876151
+                  ]
+            },
+            {
+                  "name": "Antichen kompleks Biala",
+                  "text": "An archaeological complex in Byala featuring the remains of a late antique seaside fortress.",
+                  "category": "historical",
+                  "coords": [
+                        27.89976,
+                        42.855259
+                  ]
+            },
+            {
+                  "name": "Minaev's staircase to the sea from Gaby House",
+                  "text": "A steep staircase leading to the sea in Byala, offering wide views over the Black Sea.",
+                  "category": "natural",
+                  "coords": [
+                        27.899303,
+                        42.860679
                   ]
             }
       ]
@@ -2892,7 +3369,304 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-valchedram-cities-v2.webp",
   },
   {
-    id: "bulgaria-yagodina-cities-v2",
+    id: "bulgaria-yagodina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ягодинска пещера",
+                  "text": "Der Eingang zu einer der längsten und schönsten Schauhöhlen in den Rhodopen bei Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.330044,
+                        41.628968
+                  ]
+            },
+            {
+                  "name": "Teufelsschlund-Höhle",
+                  "text": "Eine spektakuläre Höhle in der Trigrad-Schlucht, bekannt für ihren gewaltigen unterirdischen Wasserfall.",
+                  "category": "landmark",
+                  "coords": [
+                        24.379132,
+                        41.614884
+                  ]
+            },
+            {
+                  "name": "Триградското ждрело",
+                  "text": "Eine tiefe und beeindruckende Kalksteinschlucht in den westlichen Rhodopen bei Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.378483,
+                        41.618864
+                  ]
+            },
+            {
+                  "name": "\"Via Ferrata\" - Триград",
+                  "text": "Ein Klettersteig in Trigrad, der Abenteuer und Panoramablicke in der Schlucht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.380778,
+                        41.613342
+                  ]
+            },
+            {
+                  "name": "Площадка \"Орлово око\"",
+                  "text": "Eine Aussichtsplattform auf einem Berggipfel bei Yagodina mit weitem Blick über die Rhodopen.",
+                  "category": "natural",
+                  "coords": [
+                        24.338936,
+                        41.643225
+                  ]
+            },
+            {
+                  "name": "Дяволския мост",
+                  "text": "Eine markante natürliche Felsformation in der Nähe von Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.322518,
+                        41.650732
+                  ]
+            },
+            {
+                  "name": "начало на пътека за Орлово око",
+                  "text": "Der Ausgangspunkt für den Wanderweg zum berühmten Aussichtspunkt Eagle's Eye.",
+                  "category": "natural",
+                  "coords": [
+                        24.342807,
+                        41.636348
+                  ]
+            },
+            {
+                  "name": "Буйновското ждрело",
+                  "text": "Eine malerische Schlucht bei Yagodina, die für ihre steilen Felswände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.335778,
+                        41.649976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ягодинска пещера",
+                  "text": "A Rodope-hegység egyik leghosszabb és legszebb barlangjának bejárata Jagodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.330044,
+                        41.628968
+                  ]
+            },
+            {
+                  "name": "Дяволското Гърло",
+                  "text": "Látványos barlang a Trigrád-szurdokban, amely hatalmas földalatti vízeséséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.379132,
+                        41.614884
+                  ]
+            },
+            {
+                  "name": "Триградското ждрело",
+                  "text": "Mély és lenyűgöző mészkőszurdok a Nyugati-Rodopéban, Jagodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.378483,
+                        41.618864
+                  ]
+            },
+            {
+                  "name": "\"Via Ferrata\" - Триград",
+                  "text": "Via ferrata útvonal Trigrádban, amely kalandot és panorámás kilátást kínál a szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.380778,
+                        41.613342
+                  ]
+            },
+            {
+                  "name": "Площадка \"Орлово око\"",
+                  "text": "Kilátóplatform egy hegycsúcson Jagodina közelében, széles panorámával a Rodopéra.",
+                  "category": "natural",
+                  "coords": [
+                        24.338936,
+                        41.643225
+                  ]
+            },
+            {
+                  "name": "Дяволския мост",
+                  "text": "Egy jellegzetes természetes sziklaformáció Jagodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.322518,
+                        41.650732
+                  ]
+            },
+            {
+                  "name": "начало на пътека за Орлово око",
+                  "text": "A híres Eagle's Eye kilátóhoz vezető túraútvonal kezdőpontja.",
+                  "category": "natural",
+                  "coords": [
+                        24.342807,
+                        41.636348
+                  ]
+            },
+            {
+                  "name": "Буйновското ждрело",
+                  "text": "Festői szurdok Jagodina közelében, amely meredek sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.335778,
+                        41.649976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ягодинска пещера",
+                  "text": "Intrarea într-una dintre cele mai lungi și frumoase peșteri amenajate din Rodopi, lângă Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.330044,
+                        41.628968
+                  ]
+            },
+            {
+                  "name": "Дяволското Гърло",
+                  "text": "O peșteră spectaculoasă în Cheile Trigradului, renumită pentru cascada sa subterană masivă.",
+                  "category": "landmark",
+                  "coords": [
+                        24.379132,
+                        41.614884
+                  ]
+            },
+            {
+                  "name": "Триградското ждрело",
+                  "text": "Un defileu de calcar adânc și impresionant în Rodopii de Vest, lângă Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.378483,
+                        41.618864
+                  ]
+            },
+            {
+                  "name": "\"Via Ferrata\" - Триград",
+                  "text": "Un traseu de via ferrata în Trigrad, oferind aventură și vederi panoramice în defileu.",
+                  "category": "landmark",
+                  "coords": [
+                        24.380778,
+                        41.613342
+                  ]
+            },
+            {
+                  "name": "Площадка \"Орлово око\"",
+                  "text": "O platformă de belvedere pe un vârf de munte lângă Yagodina, cu o panoramă vastă asupra Rodopilor.",
+                  "category": "natural",
+                  "coords": [
+                        24.338936,
+                        41.643225
+                  ]
+            },
+            {
+                  "name": "Дяволския мост",
+                  "text": "O formațiune stâncoasă naturală distinctivă situată lângă Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.322518,
+                        41.650732
+                  ]
+            },
+            {
+                  "name": "начало на пътека за Орлово око",
+                  "text": "Punctul de plecare pentru traseul montan către faimosul belvedere Eagle's Eye.",
+                  "category": "natural",
+                  "coords": [
+                        24.342807,
+                        41.636348
+                  ]
+            },
+            {
+                  "name": "Буйновското ждрело",
+                  "text": "Un defileu pitoresc lângă Yagodina, cunoscut pentru pereții săi de stâncă abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        24.335778,
+                        41.649976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yagodinska cave",
+                  "text": "The entrance to one of the longest and most beautiful show caves in the Rhodope Mountains near Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.330044,
+                        41.628968
+                  ]
+            },
+            {
+                  "name": "Devils Throat Cave",
+                  "text": "A spectacular cave in the Trigrad Gorge, known for its massive underground waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        24.379132,
+                        41.614884
+                  ]
+            },
+            {
+                  "name": "Trigrad Gorge",
+                  "text": "A deep and impressive limestone gorge in the Western Rhodope Mountains near Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.378483,
+                        41.618864
+                  ]
+            },
+            {
+                  "name": "Via Ferrata - Trigrad",
+                  "text": "A via ferrata route in Trigrad offering adventure and panoramic views in the gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.380778,
+                        41.613342
+                  ]
+            },
+            {
+                  "name": "Eagle's Eye",
+                  "text": "A viewing platform on a mountain peak near Yagodina with vast views over the Rhodopes.",
+                  "category": "natural",
+                  "coords": [
+                        24.338936,
+                        41.643225
+                  ]
+            },
+            {
+                  "name": "Devil's Bridge (Rock Formation)",
+                  "text": "A prominent natural rock formation located near Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.322518,
+                        41.650732
+                  ]
+            },
+            {
+                  "name": "start for eagle's eye path",
+                  "text": "The starting point for the hiking path leading to the famous Eagle's Eye viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        24.342807,
+                        41.636348
+                  ]
+            },
+            {
+                  "name": "Buynovo Gorge",
+                  "text": "A picturesque gorge near Yagodina, known for its steep rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        24.335778,
+                        41.649976
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Jagodina", hu: "Jagodina", ro: "Iagodina", en: "Yagodina" },
@@ -3019,6 +3793,15 @@ export const bulgariaCitiesV2: POI[] = [
                         27.638145,
                         42.434151
                   ]
+            },
+            {
+                  "name": "Memorial't na zaginalite moriatsi ot torpedonosetsa ,,Smeli\" na nos Akin.",
+                  "text": "Ein Denkmal am Kap Akin bei Tschernomorez für die gefallenen Matrosen des Torpedobootes Smeli.",
+                  "category": "historical",
+                  "coords": [
+                        27.629031,
+                        42.45873
+                  ]
             }
       ],
       "hu": [
@@ -3056,6 +3839,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.638145,
                         42.434151
+                  ]
+            },
+            {
+                  "name": "Memorial't na zaginalite moriatsi ot torpedonosetsa ,,Smeli\" na nos Akin.",
+                  "text": "Emlékmű a Csernomorec melletti Akin-fokon a Smeli torpedónaszád elesett tengerészeinek.",
+                  "category": "historical",
+                  "coords": [
+                        27.629031,
+                        42.45873
                   ]
             }
       ],
@@ -3095,6 +3887,15 @@ export const bulgariaCitiesV2: POI[] = [
                         27.638145,
                         42.434151
                   ]
+            },
+            {
+                  "name": "Memorial't na zaginalite moriatsi ot torpedonosetsa ,,Smeli\" na nos Akin.",
+                  "text": "Un monument la capul Akin lângă Cernomoreț pentru marinarii căzuți de pe torpilorul Smeli.",
+                  "category": "historical",
+                  "coords": [
+                        27.629031,
+                        42.45873
+                  ]
             }
       ],
       "en": [
@@ -3132,6 +3933,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.638145,
                         42.434151
+                  ]
+            },
+            {
+                  "name": "Memorial't na zaginalite moriatsi ot torpedonosetsa ,,Smeli\" na nos Akin.",
+                  "text": "A memorial at Cape Akin near Chernomorets for the fallen sailors of the torpedo boat Smeli.",
+                  "category": "historical",
+                  "coords": [
+                        27.629031,
+                        42.45873
                   ]
             }
       ]
@@ -3270,7 +4080,340 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-klisura-cities-v2.webp",
   },
   {
-    id: "bulgaria-panagyurishte-cities-v2", "sights": {"de": [{"name": "Mineralen plazh \"Lido\"", "text": "Der Mineralen plazh \"Lido\" in Panagyurishte bietet eine einzigartige Badeerfahrung abseits der Küste, geprägt durch seine belebenden Mineralwasserbecken. Die Anlage ist ein beliebter Treffpunkt für Einheimische, die Gesundheit und Entspannung in einer naturnahen Umgebung suchen. Besucher können im warmen Wasser schwimmen und die heilsame Wirkung der Mineralien genießen. Ein Besuch an diesem Ort empfiehlt sich besonders als wohltuende Ergänzung zu einem aktiven Urlaubstag.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "yaz. Luda Yana", "text": "Ein See bei Panagjurischte, ideal um die natürliche Umgebung zu erkunden.", "category": "natural", "coords": [24.214696, 42.524384]}], "hu": [{"name": "Mineralen plazh \"Lido\"", "text": "A panagjuristei Mineralen plazh \"Lido\" egyedülálló, tengerparttól távoli fürdőélményt kínál, amelyet az élénkítő ásványvizes medencék határoznak meg. A komplexum a helyiek kedvelt találkozóhelye, akik egészséget és pihenést keresnek egy természetközeli környezetben. A látogatók a meleg vízben úszhatnak, és élvezhetik az ásványi anyagok gyógyító hatását. Ennek a helynek a felkeresése különösen ajánlott egy aktív nyaralási nap jótékony kiegészítéseként.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "yaz. Luda Yana", "text": "Egy tó Panagyuriste környékén, amely ideális a természetes környezet felfedezéséhez.", "category": "natural", "coords": [24.214696, 42.524384]}], "ro": [{"name": "Mineralen plazh \"Lido\"", "text": "Mineralen plazh „Lido” din Panagyurishte oferă o experiență de scăldat unică departe de coastă, caracterizată prin bazinele sale revigorante cu apă minerală. Complexul este un punct de întâlnire popular pentru localnicii care caută sănătate și relaxare într-un cadru natural. Vizitatorii pot înota în apa caldă și se pot bucura de efectele curative ale mineralelor. O vizită în acest loc este recomandată în special ca o completare liniștitoare a unei zile active de vacanță.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "yaz. Luda Yana", "text": "Un lac în apropiere de Panaghiuriște, ideal pentru a explora împrejurimile naturale.", "category": "natural", "coords": [24.214696, 42.524384]}], "en": [{"name": "Mineralen plazh \"Lido\"", "text": "Mineralen plazh \"Lido\" in Panagyurishte offers a unique inland bathing experience, defined by its invigorating mineral water pools. The facility is a popular gathering spot for locals seeking health and relaxation in a nature-oriented setting. Visitors can swim in the warm waters and enjoy the beneficial effects of the minerals. Visiting this site is highly recommended as a soothing complement to an active day of vacation.", "category": "recreational", "coords": [24.181382, 42.498054]}, {"name": "yaz. Luda Yana", "text": "A lake near Panagyurishte, ideal for exploring the natural surroundings.", "category": "natural", "coords": [24.214696, 42.524384]}]},
+    id: "bulgaria-panagyurishte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "Der Mineralen plazh \"Lido\" in Panagyurishte bietet eine einzigartige Badeerfahrung abseits der Küste, geprägt durch seine belebenden Mineralwasserbecken. Die Anlage ist ein beliebter Treffpunkt für Einheimische, die Gesundheit und Entspannung in einer naturnahen Umgebung suchen. Besucher können im warmen Wasser schwimmen und die heilsame Wirkung der Mineralien genießen. Ein Besuch an diesem Ort empfiehlt sich besonders als wohltuende Ergänzung zu einem aktiven Urlaubstag.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            },
+            {
+                  "name": "yaz. Luda Yana",
+                  "text": "Ein See bei Panagjurischte, ideal um die natürliche Umgebung zu erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
+            },
+            {
+                  "name": "Исторически музей Панагюрище",
+                  "text": "Das Museum zeigt den berühmten thrakischen Goldschatz von Panagjurischte.",
+                  "category": "museum",
+                  "coords": [
+                        24.185434,
+                        42.508177
+                  ]
+            },
+            {
+                  "name": "Tuteva k'shcha",
+                  "text": "Ein Museumshaus in Panagjurischte, das mit der bulgarischen Geschichte verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.186773,
+                        42.507126
+                  ]
+            },
+            {
+                  "name": "K'shcha-muzei \"Raina Kniaginia\"",
+                  "text": "Das Hausmuseum der bulgarischen Revolutionärin Raina Knjaginja in Panagjurischte.",
+                  "category": "museum",
+                  "coords": [
+                        24.183758,
+                        42.506641
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "Ein naturwissenschaftliches Museum in Panagjurischte.",
+                  "category": "museum",
+                  "coords": [
+                        24.185849,
+                        42.507027
+                  ]
+            },
+            {
+                  "name": "Drinova k'shcha",
+                  "text": "Ein historisches Museumshaus in Panagjurischte.",
+                  "category": "museum",
+                  "coords": [
+                        24.193268,
+                        42.505836
+                  ]
+            },
+            {
+                  "name": "Mramor",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Panagjurischte.",
+                  "category": "historical",
+                  "coords": [
+                        24.187948,
+                        42.488195
+                  ]
+            },
+            {
+                  "name": "Dramatichen teat'r",
+                  "text": "Ein bedeutendes Theater in Panagjurischte, das lokale kulturelle Aufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        24.190024,
+                        42.505642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "A panagjuristei Mineralen plazh \"Lido\" egyedülálló, tengerparttól távoli fürdőélményt kínál, amelyet az élénkítő ásványvizes medencék határoznak meg. A komplexum a helyiek kedvelt találkozóhelye, akik egészséget és pihenést keresnek egy természetközeli környezetben. A látogatók a meleg vízben úszhatnak, és élvezhetik az ásványi anyagok gyógyító hatását. Ennek a helynek a felkeresése különösen ajánlott egy aktív nyaralási nap jótékony kiegészítéseként.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            },
+            {
+                  "name": "yaz. Luda Yana",
+                  "text": "Egy tó Panagyuriste környékén, amely ideális a természetes környezet felfedezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
+            },
+            {
+                  "name": "Исторически музей Панагюрище",
+                  "text": "A múzeumban őrzik a világhírű panagjuristei trák aranykincset.",
+                  "category": "museum",
+                  "coords": [
+                        24.185434,
+                        42.508177
+                  ]
+            },
+            {
+                  "name": "Tuteva k'shcha",
+                  "text": "A bolgár történelemhez kapcsolódó múzeumház Panagjuristében.",
+                  "category": "museum",
+                  "coords": [
+                        24.186773,
+                        42.507126
+                  ]
+            },
+            {
+                  "name": "K'shcha-muzei \"Raina Kniaginia\"",
+                  "text": "Rajna Knyaginya bolgár forradalmár emlékháza Panagjuristében.",
+                  "category": "museum",
+                  "coords": [
+                        24.183758,
+                        42.506641
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "Természettudományi múzeum Panagjuristében.",
+                  "category": "museum",
+                  "coords": [
+                        24.185849,
+                        42.507027
+                  ]
+            },
+            {
+                  "name": "Drinova k'shcha",
+                  "text": "Történelmi emlékház Panagjuristében.",
+                  "category": "museum",
+                  "coords": [
+                        24.193268,
+                        42.505836
+                  ]
+            },
+            {
+                  "name": "Mramor",
+                  "text": "Régészeti lelőhely Panagjuriste közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.187948,
+                        42.488195
+                  ]
+            },
+            {
+                  "name": "Dramatichen teat'r",
+                  "text": "Panagjuriste jelentős színháza, amely helyi kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.190024,
+                        42.505642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "Mineralen plazh „Lido” din Panagyurishte oferă o experiență de scăldat unică departe de coastă, caracterizată prin bazinele sale revigorante cu apă minerală. Complexul este un punct de întâlnire popular pentru localnicii care caută sănătate și relaxare într-un cadru natural. Vizitatorii pot înota în apa caldă și se pot bucura de efectele curative ale mineralelor. O vizită în acest loc este recomandată în special ca o completare liniștitoare a unei zile active de vacanță.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            },
+            {
+                  "name": "yaz. Luda Yana",
+                  "text": "Un lac în apropiere de Panaghiuriște, ideal pentru a explora împrejurimile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
+            },
+            {
+                  "name": "Исторически музей Панагюрище",
+                  "text": "Muzeul adăpostește celebrul tezaur trac de aur descoperit la Panaghiuriște.",
+                  "category": "museum",
+                  "coords": [
+                        24.185434,
+                        42.508177
+                  ]
+            },
+            {
+                  "name": "Tuteva k'shcha",
+                  "text": "O casă memorială din Panagiuriște, legată de istoria Bulgariei.",
+                  "category": "museum",
+                  "coords": [
+                        24.186773,
+                        42.507126
+                  ]
+            },
+            {
+                  "name": "K'shcha-muzei \"Raina Kniaginia\"",
+                  "text": "Casa memorială a revoluționarei bulgare Raina Kniaghinea din Panagiuriște.",
+                  "category": "museum",
+                  "coords": [
+                        24.183758,
+                        42.506641
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "Un muzeu de științe naturale în Panagiuriște.",
+                  "category": "museum",
+                  "coords": [
+                        24.185849,
+                        42.507027
+                  ]
+            },
+            {
+                  "name": "Drinova k'shcha",
+                  "text": "O casă memorială istorică în Panagiuriște.",
+                  "category": "museum",
+                  "coords": [
+                        24.193268,
+                        42.505836
+                  ]
+            },
+            {
+                  "name": "Mramor",
+                  "text": "Un sit arheologic situat lângă Panagiuriște.",
+                  "category": "historical",
+                  "coords": [
+                        24.187948,
+                        42.488195
+                  ]
+            },
+            {
+                  "name": "Dramatichen teat'r",
+                  "text": "Un teatru important din Panaghiuriște, care prezintă spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.190024,
+                        42.505642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "Mineralen plazh \"Lido\" in Panagyurishte offers a unique inland bathing experience, defined by its invigorating mineral water pools. The facility is a popular gathering spot for locals seeking health and relaxation in a nature-oriented setting. Visitors can swim in the warm waters and enjoy the beneficial effects of the minerals. Visiting this site is highly recommended as a soothing complement to an active day of vacation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            },
+            {
+                  "name": "yaz. Luda Yana",
+                  "text": "A lake near Panagyurishte, ideal for exploring the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        24.214696,
+                        42.524384
+                  ]
+            },
+            {
+                  "name": "History Museum Panagyurishte",
+                  "text": "The museum houses the world-famous Thracian gold treasure of Panagyurishte.",
+                  "category": "museum",
+                  "coords": [
+                        24.185434,
+                        42.508177
+                  ]
+            },
+            {
+                  "name": "Tuteva k'shcha",
+                  "text": "A museum house in Panagyurishte, connected to Bulgarian history.",
+                  "category": "museum",
+                  "coords": [
+                        24.186773,
+                        42.507126
+                  ]
+            },
+            {
+                  "name": "K'shcha-muzei \"Raina Kniaginia\"",
+                  "text": "The house museum of the Bulgarian revolutionary Rayna Knyaginya in Panagyurishte.",
+                  "category": "museum",
+                  "coords": [
+                        24.183758,
+                        42.506641
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "A natural science museum in Panagyurishte.",
+                  "category": "museum",
+                  "coords": [
+                        24.185849,
+                        42.507027
+                  ]
+            },
+            {
+                  "name": "Drinova k'shcha",
+                  "text": "A historic museum house in Panagyurishte.",
+                  "category": "museum",
+                  "coords": [
+                        24.193268,
+                        42.505836
+                  ]
+            },
+            {
+                  "name": "Mramor",
+                  "text": "An archaeological site located near Panagyurishte.",
+                  "category": "historical",
+                  "coords": [
+                        24.187948,
+                        42.488195
+                  ]
+            },
+            {
+                  "name": "Dramatichen teat'r",
+                  "text": "A significant theatre in Panagyurishte presenting local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.190024,
+                        42.505642
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Panagjurischte", hu: "Panagyurishte", ro: "Panaghiuriște", en: "Panagyurishte" },
@@ -3360,7 +4503,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batanovtsi-cities-v2.webp",
   },
   {
-    id: "bulgaria-kustendil-cities-v2",
+    id: "bulgaria-kustendil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Терме \"Пауталия\"",
+                  "text": "Antike römische Thermenruinen in der Stadt Kjustendil.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695042,
+                        42.28751
+                  ]
+            },
+            {
+                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "text": "Regionales Museum zur Geschichte und Archäologie der Region Kjustendil.",
+                  "category": "museum",
+                  "coords": [
+                        22.685106,
+                        42.287395
+                  ]
+            },
+            {
+                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "text": "Kunstgalerie, die den Werken des bekannten bulgarischen Malers Vladimir Dimitrov gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.688978,
+                        42.282949
+                  ]
+            },
+            {
+                  "name": "Църква \"Свети Георги\"",
+                  "text": "Eine mittelalterliche bulgarisch-orthodoxe Kirche im Viertel Kolosch von Kjustendil.",
+                  "category": "religious",
+                  "coords": [
+                        22.676959,
+                        42.270797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Терме \"Пауталия\"",
+                  "text": "Ókori római termálfürdő romjai Kjusztendil városában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695042,
+                        42.28751
+                  ]
+            },
+            {
+                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "text": "Regionális múzeum, amely Kjusztendil térségének történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.685106,
+                        42.287395
+                  ]
+            },
+            {
+                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "text": "A híres bolgár festő, Vladimir Dimitrov műveinek szentelt művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        22.688978,
+                        42.282949
+                  ]
+            },
+            {
+                  "name": "Църква \"Свети Георги\"",
+                  "text": "Középkori bolgár ortodox templom Kjusztendil Kolos negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        22.676959,
+                        42.270797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Терме \"Пауталия\"",
+                  "text": "Ruinele unor termele romane antice situate în orașul Kiustendil.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695042,
+                        42.28751
+                  ]
+            },
+            {
+                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "text": "Muzeu regional dedicat istoriei și arheologiei zonei Kiustendil.",
+                  "category": "museum",
+                  "coords": [
+                        22.685106,
+                        42.287395
+                  ]
+            },
+            {
+                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "text": "Galerie de artă dedicată lucrărilor cunoscutului pictor bulgar Vladimir Dimitrov.",
+                  "category": "museum",
+                  "coords": [
+                        22.688978,
+                        42.282949
+                  ]
+            },
+            {
+                  "name": "Църква \"Свети Георги\"",
+                  "text": "O biserică ortodoxă bulgară medievală situată în cartierul Koloș din Kiustendil.",
+                  "category": "religious",
+                  "coords": [
+                        22.676959,
+                        42.270797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Therme Pautalia",
+                  "text": "Ancient Roman thermal bath ruins located in the city of Kyustendil.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695042,
+                        42.28751
+                  ]
+            },
+            {
+                  "name": "Regional Historical Museum “Academician Yordan Ivanov”",
+                  "text": "Regional museum dedicated to the history and archaeology of the Kyustendil area.",
+                  "category": "museum",
+                  "coords": [
+                        22.685106,
+                        42.287395
+                  ]
+            },
+            {
+                  "name": "Vladimir Dimitrov Art Gallery",
+                  "text": "Art gallery dedicated to the works of the famous Bulgarian painter Vladimir Dimitrov.",
+                  "category": "museum",
+                  "coords": [
+                        22.688978,
+                        42.282949
+                  ]
+            },
+            {
+                  "name": "St George's Church",
+                  "text": "A medieval Bulgarian Orthodox church located in the Kolosh neighborhood of Kyustendil.",
+                  "category": "religious",
+                  "coords": [
+                        22.676959,
+                        42.270797
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kjustendil", hu: "Kjusztendil", ro: "Kiustendil", en: "Kyustendil" },
@@ -3514,6 +4810,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.336667,
                         42.017222
                   ]
+            },
+            {
+                  "name": "Tamr'shko kale - iuzhna krepost",
+                  "text": "Ruinen einer historischen Befestigung im südlichen Bereich von Bratsigowo.",
+                  "category": "historical",
+                  "coords": [
+                        24.336944,
+                        42.014722
+                  ]
             }
       ],
       "hu": [
@@ -3533,6 +4838,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.336667,
                         42.017222
+                  ]
+            },
+            {
+                  "name": "Tamr'shko kale - iuzhna krepost",
+                  "text": "Egy történelmi erődítmény romjai Bracigovo déli területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.336944,
+                        42.014722
                   ]
             }
       ],
@@ -3554,6 +4868,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.336667,
                         42.017222
                   ]
+            },
+            {
+                  "name": "Tamr'shko kale - iuzhna krepost",
+                  "text": "Ruinele unei fortificații istorice în zona de sud a localității Brațigovo.",
+                  "category": "historical",
+                  "coords": [
+                        24.336944,
+                        42.014722
+                  ]
             }
       ],
       "en": [
@@ -3573,6 +4896,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.336667,
                         42.017222
+                  ]
+            },
+            {
+                  "name": "Tamr'shko kale - iuzhna krepost",
+                  "text": "Ruins of a historical fortification located in the southern area of Bratsigovo.",
+                  "category": "historical",
+                  "coords": [
+                        24.336944,
+                        42.014722
                   ]
             }
       ]
@@ -3711,7 +5043,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batenberg-varna-cities-v2.webp",
   },
   {
-    id: "bulgaria-kaspichan-cities-v2",
+    id: "bulgaria-kaspichan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Археологически музей",
+                  "text": "Ein Museum, das archäologische Funde aus der Region Kaspitschan ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        27.116837,
+                        43.27719
+                  ]
+            },
+            {
+                  "name": "Reiter von Madara",
+                  "text": "Ein berühmtes frühmittelalterliches Felsrelief und UNESCO-Welterbe bei Kaspitschan.",
+                  "category": "landmark",
+                  "coords": [
+                        27.118894,
+                        43.277375
+                  ]
+            },
+            {
+                  "name": "Крепост Мадара",
+                  "text": "Ruinen einer historischen Festung auf dem Madara-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        27.120164,
+                        43.276153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Археологически музей",
+                  "text": "A kaspicsani régió régészeti leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.116837,
+                        43.27719
+                  ]
+            },
+            {
+                  "name": "Мадарски конник",
+                  "text": "Híres kora középkori szikladombormű és UNESCO világörökségi helyszín Kaspicsan közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.118894,
+                        43.277375
+                  ]
+            },
+            {
+                  "name": "Крепост Мадара",
+                  "text": "Történelmi erőd romjai a Madara-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        27.120164,
+                        43.276153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Археологически музей",
+                  "text": "Un muzeu care expune descoperiri arheologice din regiunea Kaspichan.",
+                  "category": "museum",
+                  "coords": [
+                        27.116837,
+                        43.27719
+                  ]
+            },
+            {
+                  "name": "Călărețul din Madara",
+                  "text": "Un celebru relief în stâncă din Evul Mediu timpuriu și sit al Patrimoniului Mondial UNESCO lângă Kaspichan.",
+                  "category": "landmark",
+                  "coords": [
+                        27.118894,
+                        43.277375
+                  ]
+            },
+            {
+                  "name": "Крепост Мадара",
+                  "text": "Ruinele unei cetăți istorice situate pe platoul Madara.",
+                  "category": "historical",
+                  "coords": [
+                        27.120164,
+                        43.276153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeological Museum",
+                  "text": "A museum displaying archaeological finds from the Kaspichan region.",
+                  "category": "museum",
+                  "coords": [
+                        27.116837,
+                        43.27719
+                  ]
+            },
+            {
+                  "name": "Madara Rider",
+                  "text": "A famous early medieval rock relief and UNESCO World Heritage site near Kaspichan.",
+                  "category": "landmark",
+                  "coords": [
+                        27.118894,
+                        43.277375
+                  ]
+            },
+            {
+                  "name": "Madara Fortress",
+                  "text": "Ruins of a historic fortress located on the Madara plateau.",
+                  "category": "historical",
+                  "coords": [
+                        27.120164,
+                        43.276153
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kaspitschan", hu: "Kaspicsan", ro: "Kașpicean", en: "Kaspichan" },
@@ -3964,6 +5413,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.336273,
                         42.084754
                   ]
+            },
+            {
+                  "name": "Antichen kladenets",
+                  "text": "Ruinen eines antiken Brunnens in Topolowgrad, die von der frühen Besiedlung der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        26.304152,
+                        42.079946
+                  ]
             }
       ],
       "hu": [
@@ -3992,6 +5450,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.336273,
                         42.084754
+                  ]
+            },
+            {
+                  "name": "Antichen kladenets",
+                  "text": "Egy ókori kút romjai Topolovgradban, amelyek a régió korai betelepüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        26.304152,
+                        42.079946
                   ]
             }
       ],
@@ -4022,6 +5489,15 @@ export const bulgariaCitiesV2: POI[] = [
                         26.336273,
                         42.084754
                   ]
+            },
+            {
+                  "name": "Antichen kladenets",
+                  "text": "Ruinele unei fântâni antice din Topolovgrad, care atestă popularea timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        26.304152,
+                        42.079946
+                  ]
             }
       ],
       "en": [
@@ -4050,6 +5526,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         26.336273,
                         42.084754
+                  ]
+            },
+            {
+                  "name": "Antichen kladenets",
+                  "text": "Ruins of an ancient well in Topolovgrad, evidencing the early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        26.304152,
+                        42.079946
                   ]
             }
       ]

@@ -1428,7 +1428,52 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       fr: ["La première mention écrite du monastère date de 1514.", "Les célèbres fresques ont été peintes en 1619 par Georgij Mitrofanović.", "Le mur nord de l'église du monastère est constitué de roche naturelle.", "Le monastère est situé à seulement 50 kilomètres environ de la ville de Mostar.", "Après la guerre, le monastère a été entièrement rénové en 2000.", "Zavala fait partie de l'ensemble des monuments nationaux d'Herzégovine."],
     },
   },
-  {id: "bosniaherzegovina-zitomislic-monastery-landmarks-v2",
+  {id: "bosniaherzegovina-zitomislic-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ranokršćanska dvojna bazilika",
+                  "text": "Eine frühchristliche Doppelbasilika als bedeutende archäologische Stätte beim Kloster Žitomislić.",
+                  "category": "historical",
+                  "coords": [
+                        17.800251,
+                        43.213168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ranokršćanska dvojna bazilika",
+                  "text": "Kora keresztény kettős bazilika romjai a Žitomislić kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.800251,
+                        43.213168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ranokršćanska dvojna bazilika",
+                  "text": "O bazilică dublă timpurie creștină, sit arheologic important lângă Mănăstirea Žitomislić.",
+                  "category": "historical",
+                  "coords": [
+                        17.800251,
+                        43.213168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ranokršćanska dvojna bazilika",
+                  "text": "An early Christian double basilica serving as a significant archaeological site near Žitomislić Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        17.800251,
+                        43.213168
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "landmark",
     name: { de: "Kloster Žitomislić", hu: "Žitomislić kolostor", ro: "Mănăstirea Žitomislić", en: "Žitomislić Monastery"},

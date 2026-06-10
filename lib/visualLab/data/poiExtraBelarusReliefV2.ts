@@ -604,7 +604,52 @@ imageHint: "Sandy hills and pine forest of Slonim",
     }
   },
   {
-    id: "belarus-neman-lowland-relief-v2",
+    id: "belarus-neman-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Сіні Камень",
+                  "text": "Sini Kamen ist ein Denkmal in der Region der Memelniederung.",
+                  "category": "historical",
+                  "coords": [
+                        24.311491,
+                        53.695398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Сіні Камень",
+                  "text": "Sini Kamen egy emlékmű a Nyeman-alföld régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        24.311491,
+                        53.695398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Сіні Камень",
+                  "text": "Sini Kamen este un monument situat în regiunea câmpiei râului Niemen.",
+                  "category": "historical",
+                  "coords": [
+                        24.311491,
+                        53.695398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sini Kamen",
+                  "text": "Sini Kamen is a monument located in the Neman Lowland region.",
+                  "category": "historical",
+                  "coords": [
+                        24.311491,
+                        53.695398
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "valley",
     name: { de: "Memel-Tiefland", hu: "Nyeman-alföld", ro: "Câmpia Nemanului", en: "Neman Lowland"},
@@ -697,7 +742,160 @@ imageHint: "Vast marshlands of Polesie",
     },
     image: "/poi-images/belarus-polesie-lowland-relief-v2.webp",
 },  {
-    id: "belarus-logoysk-crater-relief-v2",
+    id: "belarus-logoysk-crater-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Лагойская замкавая гара",
+                  "text": "Ein archäologischer Fundplatz auf dem Schlosshügel von Lahojsk in Belarus.",
+                  "category": "historical",
+                  "coords": [
+                        27.847045,
+                        54.203608
+                  ]
+            },
+            {
+                  "name": "Лагойская ткацкая фабрыка",
+                  "text": "Eine Weberei in Lahoysk, die traditionelles Handwerk präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.850232,
+                        54.201016
+                  ]
+            },
+            {
+                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "text": "Eine Kunstgalerie in Lahoysk, die Werke von Syarhey Davidovich ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        27.843257,
+                        54.200011
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Казіміра",
+                  "text": "Eine katholische Kirche in Lahoysk, dem heiligen Kasimir geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.852907,
+                        54.203322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Лагойская замкавая гара",
+                  "text": "Régészeti lelőhely a fehéroroszországi Lahojszk várhegyén.",
+                  "category": "historical",
+                  "coords": [
+                        27.847045,
+                        54.203608
+                  ]
+            },
+            {
+                  "name": "Лагойская ткацкая фабрыка",
+                  "text": "Hagyományos kézművességet bemutató szövőgyár Lahojszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.850232,
+                        54.201016
+                  ]
+            },
+            {
+                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "text": "Syarhey Davidovich műveit bemutató művészeti galéria Lahojszkban.",
+                  "category": "museum",
+                  "coords": [
+                        27.843257,
+                        54.200011
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Казіміра",
+                  "text": "Szent Kázmér tiszteletére szentelt katolikus templom Lahojszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.852907,
+                        54.203322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Лагойская замкавая гара",
+                  "text": "Un sit arheologic situat pe dealul castelului din Lahojsk, Belarus.",
+                  "category": "historical",
+                  "coords": [
+                        27.847045,
+                        54.203608
+                  ]
+            },
+            {
+                  "name": "Лагойская ткацкая фабрыка",
+                  "text": "O fabrică de țesut din Lahojsk care prezintă meșteșugul tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        27.850232,
+                        54.201016
+                  ]
+            },
+            {
+                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "text": "O galerie de artă din Lahojsk care expune lucrările lui Syarhey Davidovich.",
+                  "category": "museum",
+                  "coords": [
+                        27.843257,
+                        54.200011
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Казіміра",
+                  "text": "O biserică catolică din Lahojsk, dedicată Sfântului Cazimir.",
+                  "category": "landmark",
+                  "coords": [
+                        27.852907,
+                        54.203322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lahojsk Castle hill",
+                  "text": "An archaeological site located on the castle hill of Lahojsk in Belarus.",
+                  "category": "historical",
+                  "coords": [
+                        27.847045,
+                        54.203608
+                  ]
+            },
+            {
+                  "name": "Lahojsk weaving factory",
+                  "text": "A weaving factory in Lahojsk showcasing traditional craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        27.850232,
+                        54.201016
+                  ]
+            },
+            {
+                  "name": "Syarhey Davidovich Art Gallery",
+                  "text": "An art gallery in Lahojsk exhibiting the works of Syarhey Davidovich.",
+                  "category": "museum",
+                  "coords": [
+                        27.843257,
+                        54.200011
+                  ]
+            },
+            {
+                  "name": "St. Casimir Catholic Church",
+                  "text": "A Catholic church in Lahojsk dedicated to Saint Casimir.",
+                  "category": "landmark",
+                  "coords": [
+                        27.852907,
+                        54.203322
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "landmark",
     name: { de: "Logoisker Einschlagkrater", hu: "Logojszki-kráter", ro: "Craterul Logoysk", en: "Logoysk Impact Crater"},

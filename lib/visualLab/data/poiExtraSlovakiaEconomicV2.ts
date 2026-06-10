@@ -95,7 +95,196 @@ imageHint: "Modern car assembly line in a large industrial hall",
     }
   },
   {
-    id: "slovakia-us-steel-kosice-economic-v2",
+    id: "slovakia-us-steel-kosice-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaštieľ Buzinka",
+                  "text": "Ein historisches Herrenhaus im Stadtteil Buzinka bei Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.165086,
+                        48.63148
+                  ]
+            },
+            {
+                  "name": "Rokokový kaštieľ Šaca",
+                  "text": "Ein barock-rokoko Herrenhaus im Stadtteil Šaca in Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.163999,
+                        48.63614
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Sokoľany",
+                  "text": "Ein historisches Landschloss in Sokoľany.",
+                  "category": "historical",
+                  "coords": [
+                        21.233352,
+                        48.610243
+                  ]
+            },
+            {
+                  "name": "Panské sídlo",
+                  "text": "Ein ehemaliger Herrensitz in der Umgebung von Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.166553,
+                        48.598265
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Eine katholische Kirche im Stadtteil Šaca, die Maria Himmelfahrt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.169226,
+                        48.636786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaštieľ Buzinka",
+                  "text": "Történelmi kastély a kassa-sacai Buzinka városrészben.",
+                  "category": "historical",
+                  "coords": [
+                        21.165086,
+                        48.63148
+                  ]
+            },
+            {
+                  "name": "Rokokový kaštieľ Šaca",
+                  "text": "Barokk-rokokó kastély Kassa-Saca városrészében.",
+                  "category": "historical",
+                  "coords": [
+                        21.163999,
+                        48.63614
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Sokoľany",
+                  "text": "Történelmi kastély Sokoľanyban.",
+                  "category": "historical",
+                  "coords": [
+                        21.233352,
+                        48.610243
+                  ]
+            },
+            {
+                  "name": "Csáky-kastély",
+                  "text": "Egykori úri lak Kassa környékén.",
+                  "category": "historical",
+                  "coords": [
+                        21.166553,
+                        48.598265
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Szűz Mária Mennybevétele római katolikus templom Sacán.",
+                  "category": "religious",
+                  "coords": [
+                        21.169226,
+                        48.636786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaštieľ Buzinka",
+                  "text": "Un conac istoric în cartierul Buzinka din apropiere de Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.165086,
+                        48.63148
+                  ]
+            },
+            {
+                  "name": "Rokokový kaštieľ Šaca",
+                  "text": "Un conac în stil baroc-rococo în cartierul Šaca din Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.163999,
+                        48.63614
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Sokoľany",
+                  "text": "Un conac istoric în Sokoľany.",
+                  "category": "historical",
+                  "coords": [
+                        21.233352,
+                        48.610243
+                  ]
+            },
+            {
+                  "name": "Panské sídlo",
+                  "text": "O fostă reședință nobiliară în împrejurimile orașului Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.166553,
+                        48.598265
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "O biserică catolică în cartierul Šaca, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        21.169226,
+                        48.636786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaštieľ Buzinka",
+                  "text": "A historic manor house in the Buzinka district near Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.165086,
+                        48.63148
+                  ]
+            },
+            {
+                  "name": "Rokokový kaštieľ Šaca",
+                  "text": "A Baroque-Rococo manor house in the Šaca district of Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.163999,
+                        48.63614
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Sokoľany",
+                  "text": "A historic manor house in Sokoľany.",
+                  "category": "historical",
+                  "coords": [
+                        21.233352,
+                        48.610243
+                  ]
+            },
+            {
+                  "name": "Panské sídlo",
+                  "text": "A former manor house in the vicinity of Košice.",
+                  "category": "historical",
+                  "coords": [
+                        21.166553,
+                        48.598265
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "A Catholic church in the Šaca district dedicated to the Assumption of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        21.169226,
+                        48.636786
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "industry",
     name: { de: "U. S. Steel Košice", hu: "U. S. Steel Kassa", ro: "U. S. Steel Košice", en: "U. S. Steel Košice"},
@@ -279,7 +468,52 @@ imageHint: "Car factory production line with robots",
     }
   },
   {
-    id: "slovakia-mochovce-power-plant-economic-v2",
+    id: "slovakia-mochovce-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schießstand Horáren",
+                  "text": "Dieser Schießstand befindet sich in der Nähe von Mochovce und dient als lokale Freizeiteinrichtung.",
+                  "category": "landmark",
+                  "coords": [
+                        18.462065,
+                        48.242244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Újbars lőtér (Horáren Lőtér)",
+                  "text": "Ez a lőtér Mohi környékén található, és helyi szabadidős létesítményként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.462065,
+                        48.242244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strelnica Horáreň Nový Tekov",
+                  "text": "Acest poligon de tragere este situat lângă zona Mochovce și servește ca facilitate de recreere locală.",
+                  "category": "landmark",
+                  "coords": [
+                        18.462065,
+                        48.242244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shooting range Horáren",
+                  "text": "This shooting range is located near the Mochovce area and serves as a local recreational facility.",
+                  "category": "landmark",
+                  "coords": [
+                        18.462065,
+                        48.242244
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "industry",
     name: { de: "Kernkraftwerk Mochovce", hu: "Mohi atomerőmű", ro: "Centrala nucleară Mochovce", en: "Mochovce Nuclear Power Plant"},
@@ -325,7 +559,160 @@ imageHint: "Nuclear power plant cooling towers with steam",
     },
     image: "/poi-images/slovakia-mochovce-power-plant-economic-v2.webp",
 },  {
-    id: "slovakia-jaslovske-bohunice-power-plant-economic-v2",
+    id: "slovakia-jaslovske-bohunice-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaštieľ Pečeňady",
+                  "text": "Ein historisches Herrenhaus in der Ortschaft Pečeňady.",
+                  "category": "historical",
+                  "coords": [
+                        17.719336,
+                        48.479417
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Jaslovské Bohunice",
+                  "text": "Ein herrschaftliches Anwesen in Jaslovské Bohunice.",
+                  "category": "historical",
+                  "coords": [
+                        17.643064,
+                        48.482387
+                  ]
+            },
+            {
+                  "name": "Narodenia Panny Márie",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche in Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.717547,
+                        48.466822
+                  ]
+            },
+            {
+                  "name": "svätého Víta",
+                  "text": "Eine dem Heiligen Veit geweihte Kirche in Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.726323,
+                        48.50459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaštieľ Pečeňady",
+                  "text": "Történelmi kúria Pečeňady településen.",
+                  "category": "historical",
+                  "coords": [
+                        17.719336,
+                        48.479417
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Jaslovské Bohunice",
+                  "text": "Egy nemesi kúria Jaslovské Bohunice területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.643064,
+                        48.482387
+                  ]
+            },
+            {
+                  "name": "Narodenia Panny Márie",
+                  "text": "Szűz Mária születésének szentelt templom Jaslovské Bohunice településen.",
+                  "category": "religious",
+                  "coords": [
+                        17.717547,
+                        48.466822
+                  ]
+            },
+            {
+                  "name": "svätého Víta",
+                  "text": "Szent Vitus tiszteletére szentelt templom Jaslovské Bohunice területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.726323,
+                        48.50459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaštieľ Pečeňady",
+                  "text": "Un conac istoric situat în localitatea Pečeňady.",
+                  "category": "historical",
+                  "coords": [
+                        17.719336,
+                        48.479417
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Jaslovské Bohunice",
+                  "text": "O reședință nobiliară situată în Jaslovské Bohunice.",
+                  "category": "historical",
+                  "coords": [
+                        17.643064,
+                        48.482387
+                  ]
+            },
+            {
+                  "name": "Narodenia Panny Márie",
+                  "text": "O biserică dedicată Nașterii Fecioarei Maria în Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.717547,
+                        48.466822
+                  ]
+            },
+            {
+                  "name": "svätého Víta",
+                  "text": "O biserică închinată Sfântului Vitus în Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.726323,
+                        48.50459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaštieľ Pečeňady",
+                  "text": "A historical manor house located in the village of Pečeňady.",
+                  "category": "historical",
+                  "coords": [
+                        17.719336,
+                        48.479417
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Jaslovské Bohunice",
+                  "text": "A stately manor house located in Jaslovské Bohunice.",
+                  "category": "historical",
+                  "coords": [
+                        17.643064,
+                        48.482387
+                  ]
+            },
+            {
+                  "name": "Narodenia Panny Márie",
+                  "text": "A church dedicated to the Nativity of the Virgin Mary in Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.717547,
+                        48.466822
+                  ]
+            },
+            {
+                  "name": "svätého Víta",
+                  "text": "A church dedicated to Saint Vitus in Jaslovské Bohunice.",
+                  "category": "religious",
+                  "coords": [
+                        17.726323,
+                        48.50459
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "industry",
     name: { de: "Kernkraftwerk Jaslovské Bohunice", hu: "Apátszentkereszti (Bohunice) atomerőmű", ro: "Centrala nucleară Jaslovské Bohunice", en: "Jaslovské Bohunice Nuclear Power Plant"},

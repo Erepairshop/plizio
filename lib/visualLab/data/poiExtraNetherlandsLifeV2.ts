@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const netherlandsLifeV2: POI[] = [
 
   {
-    id: "netherlands-nationaal-park-duinen-van-texel-life-v2",
+    id: "netherlands-nationaal-park-duinen-van-texel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waalenburg",
+                  "text": "Ein bedeutendes Naturschutzgebiet auf der Insel Texel, bekannt für seine vielfältige Vogelwelt und Polderlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Ein Naturzentrum auf Texel mit einer Seehundstation, einem Aquarium und Ausstellungen über das Wattenmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "Ein Heimatmuseum in Den Burg, das das historische Leben und die Traditionen der Insel Texel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Ein Bauernhofmuseum auf Texel, das Einblicke in die landwirtschaftliche Geschichte der Insel bietet.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Ein beliebtes Hallenbad und Wasserpark auf der Insel Texel mit verschiedenen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Ein Museum auf Texel, das Fundstücke von Strandräubern und maritime Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Eilandgalerij",
+                  "text": "Eine Kunstgalerie und ein Museum in einem ehemaligen Schulgebäude auf der Insel Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.819954,
+                        53.112027
+                  ]
+            },
+            {
+                  "name": "Texla",
+                  "text": "Ein kleines Museum auf Texel, das sich mit lokalen historischen Themen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        4.79038,
+                        53.062653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waalenburg",
+                  "text": "Jelentős természetvédelmi terület Texel szigetén, amely gazdag madárvilágáról és polder tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Természetvédelmi központ Texel szigetén fókaotthonnal, akváriummal és a Watt-tengert bemutató kiállításokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "Helytörténeti múzeum Den Burgban, amely Texel szigetének történelmi életmódját és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Mezőgazdasági múzeum Texel szigetén, amely betekintést nyújt a sziget gazdálkodási múltjába.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "Népszerű fedett uszoda és vízipark Texel szigetén, különféle szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Múzeum Texel szigetén, amely partmenti gyűjtögetők leleteit és tengerészeti történelmet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Eilandgalerij",
+                  "text": "Művészeti galéria és múzeum egy egykori iskolaépületben Texel szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        4.819954,
+                        53.112027
+                  ]
+            },
+            {
+                  "name": "Texla",
+                  "text": "Kismúzeum Texel szigetén, amely helyi történelmi témákkal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        4.79038,
+                        53.062653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waalenburg",
+                  "text": "O rezervație naturală importantă pe insula Texel, cunoscută pentru avifauna diversă și peisajul de poldere.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "Un centru natural pe Texel cu un adăpost pentru foci, un acvariu și expoziții despre Marea Wadden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "Un muzeu de istorie locală în Den Burg, care prezintă viața istorică și tradițiile insulei Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "Un muzeu al fermei pe Texel, care oferü o perspectivă asupra istoriei agricole a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "O piscină acoperită și parc acvatic popular pe insula Texel, cu diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "Un muzeu pe Texel care prezintă obiecte găsite pe plajă și istorie maritimă.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Eilandgalerij",
+                  "text": "O galerie de artă și muzeu într-o fostă clădire școlară de pe insula Texel.",
+                  "category": "museum",
+                  "coords": [
+                        4.819954,
+                        53.112027
+                  ]
+            },
+            {
+                  "name": "Texla",
+                  "text": "Un mic muzeu pe Texel care se ocupă de teme istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        4.79038,
+                        53.062653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waalenburg",
+                  "text": "A significant nature reserve on Texel island, known for its diverse birdlife and polder landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.80833,
+                        53.084784
+                  ]
+            },
+            {
+                  "name": "EcoMare",
+                  "text": "A nature centre on Texel featuring a seal sanctuary, aquarium, and exhibitions about the Wadden Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        4.74505,
+                        53.077685
+                  ]
+            },
+            {
+                  "name": "Oudheidkamer Texel",
+                  "text": "A local history museum in Den Burg showcasing the historical life and traditions of Texel island.",
+                  "category": "museum",
+                  "coords": [
+                        4.796318,
+                        53.05549
+                  ]
+            },
+            {
+                  "name": "Museum Waelstee",
+                  "text": "A farm museum on Texel providing insights into the island's agricultural history.",
+                  "category": "museum",
+                  "coords": [
+                        4.82144,
+                        53.072466
+                  ]
+            },
+            {
+                  "name": "Calluna",
+                  "text": "A popular indoor swimming pool and water park on Texel island with various leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        4.769166,
+                        53.090474
+                  ]
+            },
+            {
+                  "name": "Maritiem- en Juttersmuseum Flora",
+                  "text": "A museum on Texel displaying finds by beachcombers and maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        4.771176,
+                        53.072968
+                  ]
+            },
+            {
+                  "name": "Eilandgalerij",
+                  "text": "An art gallery and museum located in a former school building on Texel island.",
+                  "category": "museum",
+                  "coords": [
+                        4.819954,
+                        53.112027
+                  ]
+            },
+            {
+                  "name": "Texla",
+                  "text": "A small museum on Texel island focusing on local historical subjects.",
+                  "category": "museum",
+                  "coords": [
+                        4.79038,
+                        53.062653
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Duinen van Texel", hu: "Duinen van Texel Nemzeti Park", ro: "Parcul Național Duinen van Texel", en: "Duinen van Texel National Park" },
@@ -318,7 +615,304 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-utrecht-botanical-gardens-life-v2.webp",
   },
   {
-    id: "netherlands-nationaal-park-nieuwer-land-life-v2",
+    id: "netherlands-nationaal-park-nieuwer-land-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "Ein weitläufiges Feuchtgebiet und Naturschutzgebiet, das für seine Wildpferde und Wasservögel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Ein Naturschutzgebiet im Nationalpark Nieuw Land, das Lebensraum für zahlreiche Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Eine Beobachtungshütte im Nationalpark Nieuw Land, die einen guten Blick auf die lokale Vogelwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Ein Aussichtspunkt im Nationalpark Nieuw Land, der einen weiten Blick über das Naturschutzgebiet ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Ein kleiner Aussichtshügel im Nationalpark Nieuw Land zur Beobachtung der Landschaft und Wildtiere.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Ein Aussichtspunkt im Nationalpark Nieuw Land, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Eine Beobachtungsstelle im Nationalpark Nieuw Land mit Blick auf die umliegenden Wasserflächen.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            },
+            {
+                  "name": "De Schollevaar",
+                  "text": "Ein Aussichtspunkt im Nationalpark Nieuw Land, der zur Beobachtung von Vögeln und der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.400492,
+                        52.460679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "Kiterjedt vizes élőhely és természetvédelmi terület, amely vadlovairól és vízimadarairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "Természetvédelmi terület a Nieuw Land Nemzeti Parkban, amely számos madárfajnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Megfigyelőkunyhó a Nieuw Land Nemzeti Parkban, ahonnan kiváló kilátás nyílik a helyi madárvilágra.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Kilátópont a Nieuw Land Nemzeti Parkban, ahonnan széles körpanoráma nyílik a természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Kisebb kilátódomb a Nieuw Land Nemzeti Parkban a táj és a vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Kilátópont a Nieuw Land Nemzeti Parkban, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Megfigyelőpont a Nieuw Land Nemzeti Parkban, kilátással a környező vízfelületekre.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            },
+            {
+                  "name": "De Schollevaar",
+                  "text": "Kilátópont a Nieuw Land Nemzeti Parkban, amely madárlesre és természetjárásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        5.400492,
+                        52.460679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "O zonă umedă întinsă și rezervație naturală, cunoscută pentru caii sălbatici și păsările de apă.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "O rezervație naturală din Parcul Național Nieuw Land, care oferă habitat pentru numeroase specii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "Un punct de observare în Parcul Național Nieuw Land, care oferă o vedere bună asupra păsărilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "Un punct de belvedere în Parcul Național Nieuw Land, care oferă o vedere panoramică asupra rezervației.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "Un mic deal de observație în Parcul Național Nieuw Land pentru observarea peisajului și a faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "Un punct de belvedere în Parcul Național Nieuw Land, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "Un punct de observare în Parcul Național Nieuw Land, cu vedere spre zonele de apă înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            },
+            {
+                  "name": "De Schollevaar",
+                  "text": "Un punct de belvedere în Parcul Național Nieuw Land, destinat observării păsărilor și naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.400492,
+                        52.460679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oostvaardersplassen",
+                  "text": "An extensive wetland and nature reserve known for its wild horses and water birds.",
+                  "category": "natural",
+                  "coords": [
+                        5.351074,
+                        52.446569
+                  ]
+            },
+            {
+                  "name": "Oostvaardersveld",
+                  "text": "A nature reserve within the Nieuw Land National Park, providing habitat for numerous bird species.",
+                  "category": "natural",
+                  "coords": [
+                        5.416841,
+                        52.443652
+                  ]
+            },
+            {
+                  "name": "Observatiehut De Brandgans",
+                  "text": "An observation hut in Nieuw Land National Park offering a good view of the local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.407713,
+                        52.44516
+                  ]
+            },
+            {
+                  "name": "Grote Praambult",
+                  "text": "A viewpoint in Nieuw Land National Park providing a wide panorama over the nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.395932,
+                        52.427565
+                  ]
+            },
+            {
+                  "name": "Kleine Praambult",
+                  "text": "A small observation hill in Nieuw Land National Park for observing the landscape and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.409039,
+                        52.443498
+                  ]
+            },
+            {
+                  "name": "De Poelruiter",
+                  "text": "A viewpoint in Nieuw Land National Park, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        5.41484,
+                        52.444196
+                  ]
+            },
+            {
+                  "name": "De Oeverloper",
+                  "text": "An observation point in Nieuw Land National Park with views of the surrounding water areas.",
+                  "category": "natural",
+                  "coords": [
+                        5.413732,
+                        52.447147
+                  ]
+            },
+            {
+                  "name": "De Schollevaar",
+                  "text": "A viewpoint in Nieuw Land National Park designed for birdwatching and nature appreciation.",
+                  "category": "natural",
+                  "coords": [
+                        5.400492,
+                        52.460679
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Nieuw Land", hu: "Nieuw Land Nemzeti Park", ro: "Parcul Național Nieuw Land", en: "Nieuw Land National Park" },
@@ -363,7 +957,304 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-nieuwer-land-life-v2.webp",
   },
   {
-    id: "netherlands-wildlands-adventure-zoo-emmen-life-v2",
+    id: "netherlands-wildlands-adventure-zoo-emmen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hunebed D41 Emmen Noord",
+                  "text": "Ein prähistorisches Megalithgrab (Hünengrab) in der Nähe von Emmen, das aus der Jungsteinzeit stammt.",
+                  "category": "historical",
+                  "coords": [
+                        6.885882,
+                        52.799926
+                  ]
+            },
+            {
+                  "name": "Hunebed Westenesch-N D42",
+                  "text": "Eines der prähistorischen Steingräber bei Emmen, bekannt als Hunebed D42 in Westenesch.",
+                  "category": "historical",
+                  "coords": [
+                        6.870404,
+                        52.795881
+                  ]
+            },
+            {
+                  "name": "Hunebed D44 Emmen Westenesch",
+                  "text": "Ein gut erhaltenes Megalithgrab der Trichterbecherkultur in der Region Emmen.",
+                  "category": "historical",
+                  "coords": [
+                        6.87223,
+                        52.787722
+                  ]
+            },
+            {
+                  "name": "Hunebed D45 Emmerdennen",
+                  "text": "Ein beeindruckendes Hünengrab im Emmerdennen-Wald, das Teil des UNESCO-Erbes der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        6.907653,
+                        52.791578
+                  ]
+            },
+            {
+                  "name": "Hunebed D46 Emmen - Angelslo",
+                  "text": "Ein neolithisches Megalithgrab im Ortsteil Angelslo bei Emmen, registriert als Hunebed D46.",
+                  "category": "historical",
+                  "coords": [
+                        6.935681,
+                        52.783849
+                  ]
+            },
+            {
+                  "name": "Hunebed D47 Emmen - Angelslo",
+                  "text": "Ein weiteres historisches Steingrab in Angelslo, das Einblicke in die frühe Besiedlung der Niederlande gibt.",
+                  "category": "historical",
+                  "coords": [
+                        6.937832,
+                        52.781155
+                  ]
+            },
+            {
+                  "name": "Hunebed D43 Emmen Schimmeres",
+                  "text": "Ein markantes Megalithgrab bei Emmen-Schimmeres, das aus massiven Granitblöcken besteht.",
+                  "category": "historical",
+                  "coords": [
+                        6.887158,
+                        52.793234
+                  ]
+            },
+            {
+                  "name": "Hunebed D40 Boswachterij Emmen",
+                  "text": "Ein prähistorisches Hünengrab im Waldgebiet Boswachterij Emmen, umgeben von Natur.",
+                  "category": "historical",
+                  "coords": [
+                        6.888206,
+                        52.810856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hunebed D41 Emmen Noord",
+                  "text": "Emmen közelében található őskori megalitikus sír (hunebed), amely az újkőkorból származik.",
+                  "category": "historical",
+                  "coords": [
+                        6.885882,
+                        52.799926
+                  ]
+            },
+            {
+                  "name": "Hunebed Westenesch-N D42",
+                  "text": "Az Emmen környéki őskori kősírok egyike, amely Westeneschben található (D42 hunebed).",
+                  "category": "historical",
+                  "coords": [
+                        6.870404,
+                        52.795881
+                  ]
+            },
+            {
+                  "name": "Hunebed D44 Emmen Westenesch",
+                  "text": "A tölcséres szájú edények kultúrájának egyik jól megőrzött megalitikus sírja Emmen régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        6.87223,
+                        52.787722
+                  ]
+            },
+            {
+                  "name": "Hunebed D45 Emmerdennen",
+                  "text": "Lenyűgöző megalitikus sír az Emmerdennen erdőben, amely a régió UNESCO örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        6.907653,
+                        52.791578
+                  ]
+            },
+            {
+                  "name": "Hunebed D46 Emmen - Angelslo",
+                  "text": "Újkőkori megalitikus sír az Emmen melletti Angelslo városrészben, D46-os számmal jelölve.",
+                  "category": "historical",
+                  "coords": [
+                        6.935681,
+                        52.783849
+                  ]
+            },
+            {
+                  "name": "Hunebed D47 Emmen - Angelslo",
+                  "text": "Egy másik történelmi kősír Angelsloban, amely betekintést nyújt Hollandia korai benépesülésébe.",
+                  "category": "historical",
+                  "coords": [
+                        6.937832,
+                        52.781155
+                  ]
+            },
+            {
+                  "name": "Hunebed D43 Emmen Schimmeres",
+                  "text": "Jellegzetes megalitikus sír Emmen-Schimmeres közelében, amely hatalmas gránittömbökből áll.",
+                  "category": "historical",
+                  "coords": [
+                        6.887158,
+                        52.793234
+                  ]
+            },
+            {
+                  "name": "Hunebed D40 Boswachterij Emmen",
+                  "text": "Természettel körülvett őskori megalitikus sír a Boswachterij Emmen erdős területén.",
+                  "category": "historical",
+                  "coords": [
+                        6.888206,
+                        52.810856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hunebed D41 Emmen Noord",
+                  "text": "Un mormânt megalitic preistoric (hunebed) situat lângă Emmen, datând din perioada neolitică.",
+                  "category": "historical",
+                  "coords": [
+                        6.885882,
+                        52.799926
+                  ]
+            },
+            {
+                  "name": "Hunebed Westenesch-N D42",
+                  "text": "Unul dintre mormintele de piatră preistorice de lângă Emmen, cunoscut sub numele de Hunebed D42 din Westenesch.",
+                  "category": "historical",
+                  "coords": [
+                        6.870404,
+                        52.795881
+                  ]
+            },
+            {
+                  "name": "Hunebed D44 Emmen Westenesch",
+                  "text": "Un mormânt megalitic bine conservat al culturii vaselor cu gât pâlniiform din regiunea Emmen.",
+                  "category": "historical",
+                  "coords": [
+                        6.87223,
+                        52.787722
+                  ]
+            },
+            {
+                  "name": "Hunebed D45 Emmerdennen",
+                  "text": "Un mormânt megalitic impresionant în pădurea Emmerdennen, făcând parte din moștenirea UNESCO a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        6.907653,
+                        52.791578
+                  ]
+            },
+            {
+                  "name": "Hunebed D46 Emmen - Angelslo",
+                  "text": "Un mormânt megalitic neolitic în cartierul Angelslo din Emmen, înregistrat ca Hunebed D46.",
+                  "category": "historical",
+                  "coords": [
+                        6.935681,
+                        52.783849
+                  ]
+            },
+            {
+                  "name": "Hunebed D47 Emmen - Angelslo",
+                  "text": "Un alt mormânt istoric de piatră din Angelslo, oferind detalii despre popularea timpurie a Țărilor de Jos.",
+                  "category": "historical",
+                  "coords": [
+                        6.937832,
+                        52.781155
+                  ]
+            },
+            {
+                  "name": "Hunebed D43 Emmen Schimmeres",
+                  "text": "Un mormânt megalitic proeminent lângă Emmen-Schimmeres, construit din blocuri masive de granit.",
+                  "category": "historical",
+                  "coords": [
+                        6.887158,
+                        52.793234
+                  ]
+            },
+            {
+                  "name": "Hunebed D40 Boswachterij Emmen",
+                  "text": "Un mormânt megalitic preistoric în zona forestieră Boswachterij Emmen, înconjurat de natură.",
+                  "category": "historical",
+                  "coords": [
+                        6.888206,
+                        52.810856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hunebed D41 Emmen Noord",
+                  "text": "A prehistoric megalithic tomb (hunebed) near Emmen, dating back to the Neolithic period.",
+                  "category": "historical",
+                  "coords": [
+                        6.885882,
+                        52.799926
+                  ]
+            },
+            {
+                  "name": "Hunebed Westenesch-N D42",
+                  "text": "One of the prehistoric stone tombs near Emmen, known as Hunebed D42 in Westenesch.",
+                  "category": "historical",
+                  "coords": [
+                        6.870404,
+                        52.795881
+                  ]
+            },
+            {
+                  "name": "Hunebed D44 Emmen Westenesch",
+                  "text": "A well-preserved megalithic tomb of the Funnelbeaker culture in the Emmen region.",
+                  "category": "historical",
+                  "coords": [
+                        6.87223,
+                        52.787722
+                  ]
+            },
+            {
+                  "name": "Hunebed D45 Emmerdennen",
+                  "text": "An impressive megalithic tomb in the Emmerdennen forest, part of the region's UNESCO heritage.",
+                  "category": "historical",
+                  "coords": [
+                        6.907653,
+                        52.791578
+                  ]
+            },
+            {
+                  "name": "Hunebed D46 Emmen - Angelslo",
+                  "text": "A Neolithic megalithic tomb in the Angelslo district near Emmen, registered as Hunebed D46.",
+                  "category": "historical",
+                  "coords": [
+                        6.935681,
+                        52.783849
+                  ]
+            },
+            {
+                  "name": "Hunebed D47 Emmen - Angelslo",
+                  "text": "Another historical stone tomb in Angelslo, providing insight into the early settlement of the Netherlands.",
+                  "category": "historical",
+                  "coords": [
+                        6.937832,
+                        52.781155
+                  ]
+            },
+            {
+                  "name": "Hunebed D43 Emmen Schimmeres",
+                  "text": "A prominent megalithic tomb near Emmen-Schimmeres, constructed from massive granite blocks.",
+                  "category": "historical",
+                  "coords": [
+                        6.887158,
+                        52.793234
+                  ]
+            },
+            {
+                  "name": "Hunebed D40 Boswachterij Emmen",
+                  "text": "A prehistoric megalithic tomb in the Boswachterij Emmen forest area, surrounded by nature.",
+                  "category": "historical",
+                  "coords": [
+                        6.888206,
+                        52.810856
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "NL",
     name: { de: "Wildlands Adventure Zoo Emmen", hu: "Wildlands Adventure Zoo Emmen", ro: "Grădina Zoologică Wildlands Adventure Emmen", en: "Wildlands Adventure Zoo Emmen" },
@@ -543,7 +1434,268 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-uilenhorst-life-v2.webp",
   },
   {
-    id: "netherlands-arkemheen-polder-life-v2", "sights": {"de": [{"name": "Laakse Strand", "text": "Inmitten der einzigartigen Landschaft des Arkemheen Polder bietet der Laakse Strand eine malerische Kulisse am Wasser. Sein ruhiges Ambiente ist ein echter Anziehungspunkt für alle, die der Hektik des Alltags entfliehen möchten. Naturliebhaber werden die ungestörte Ruhe beim Spazierengehen oder Entspannen am Wasser zu schätzen wissen. Um das beste Licht über dem Polder einzufangen, empfiehlt sich ein Besuch am späten Nachmittag.", "category": "recreational", "coords": [5.426907, 52.255362]}], "hu": [{"name": "Laakse Strand", "text": "Az Arkemheen Polder egyedülálló tájában megbúvó Laakse Strand festői vízparti környezetet biztosít. Békés atmoszférája igazi vonzerő azok számára, akik a mindennapi élet rohanásából szeretnének kiszakadni. A természet szerelmesei értékelni fogják a zavartalan nyugalmat, miközben a parton sétálnak vagy pihennek. A polder feletti legszebb fényviszonyok érdekében próbálja meg késő délután időzíteni a látogatást.", "category": "recreational", "coords": [5.426907, 52.255362]}], "ro": [{"name": "Laakse Strand", "text": "Amplasată în peisajul unic din Arkemheen Polder, Laakse Strand oferă un cadru pitoresc la malul apei. Ambianța sa senină este un adevărat magnet pentru cei care doresc să scape de ritmul alert al vieții de zi cu zi. Iubitorii de natură vor aprecia liniștea neîntreruptă în timp ce se bucură de plimbări sau se odihnesc lângă apă. Pentru a prinde cea mai bună lumină peste polder, încercați să vizitați spre sfârșitul după-amiezii.", "category": "recreational", "coords": [5.426907, 52.255362]}], "en": [{"name": "Laakse Strand", "text": "Set within the unique landscape of the Arkemheen Polder, Laakse Strand provides a picturesque waterfront setting. Its serene ambiance is a true draw for those wishing to escape the fast pace of daily life. Nature lovers will appreciate the uninterrupted tranquility while enjoying walks or resting by the water. To capture the best light over the polder, try to visit during the late afternoon.", "category": "recreational", "coords": [5.426907, 52.255362]}]},
+    id: "netherlands-arkemheen-polder-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Inmitten der einzigartigen Landschaft des Arkemheen Polder bietet der Laakse Strand eine malerische Kulisse am Wasser. Sein ruhiges Ambiente ist ein echter Anziehungspunkt für alle, die der Hektik des Alltags entfliehen möchten. Naturliebhaber werden die ungestörte Ruhe beim Spazierengehen oder Entspannen am Wasser zu schätzen wissen. Um das beste Licht über dem Polder einzufangen, empfiehlt sich ein Besuch am späten Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            },
+            {
+                  "name": "Museum Spakenburg",
+                  "text": "Museum über die Geschichte und Trachten des Dorfes Spakenburg.",
+                  "category": "museum",
+                  "coords": [
+                        5.377998,
+                        52.254688
+                  ]
+            },
+            {
+                  "name": "Arkemheen",
+                  "text": "Einer der ältesten Polder der Niederlande und Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        5.455527,
+                        52.246473
+                  ]
+            },
+            {
+                  "name": "Hulkesteinse Bos",
+                  "text": "Ein Waldgebiet im Polder Arkemheen, beliebt zum Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        5.432084,
+                        52.266838
+                  ]
+            },
+            {
+                  "name": "stoomgemaal Arkemheen",
+                  "text": "Ein historisches Dampfschöpfwerk im Polder Arkemheen.",
+                  "category": "museum",
+                  "coords": [
+                        5.436887,
+                        52.250623
+                  ]
+            },
+            {
+                  "name": "Kogge",
+                  "text": "Archäologische Fundstelle einer mittelalterlichen Kogge im Polder.",
+                  "category": "historical",
+                  "coords": [
+                        5.449558,
+                        52.261809
+                  ]
+            },
+            {
+                  "name": "Eemhoeve",
+                  "text": "Ein Bauernhof oder Tierpark im Gebiet des Arkemheen-Polders.",
+                  "category": "recreational",
+                  "coords": [
+                        5.396467,
+                        52.258497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Az Arkemheen Polder egyedülálló tájában megbúvó Laakse Strand festői vízparti környezetet biztosít. Békés atmoszférája igazi vonzerő azok számára, akik a mindennapi élet rohanásából szeretnének kiszakadni. A természet szerelmesei értékelni fogják a zavartalan nyugalmat, miközben a parton sétálnak vagy pihennek. A polder feletti legszebb fényviszonyok érdekében próbálja meg késő délután időzíteni a látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            },
+            {
+                  "name": "Museum Spakenburg",
+                  "text": "Spakenburg falu történelmét és népviseletét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.377998,
+                        52.254688
+                  ]
+            },
+            {
+                  "name": "Arkemheen",
+                  "text": "Hollandia egyik legrégebbi poldere és természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        5.455527,
+                        52.246473
+                  ]
+            },
+            {
+                  "name": "Hulkesteinse Bos",
+                  "text": "Erdei terület az Arkemheen polderben, kedvelt túrahely.",
+                  "category": "natural",
+                  "coords": [
+                        5.432084,
+                        52.266838
+                  ]
+            },
+            {
+                  "name": "stoomgemaal Arkemheen",
+                  "text": "Történelmi gőzüzemű szivattyúállomás az Arkemheen polderben.",
+                  "category": "museum",
+                  "coords": [
+                        5.436887,
+                        52.250623
+                  ]
+            },
+            {
+                  "name": "Kogge",
+                  "text": "Egy középkori kogge hajó régészeti lelőhelye a polderben.",
+                  "category": "historical",
+                  "coords": [
+                        5.449558,
+                        52.261809
+                  ]
+            },
+            {
+                  "name": "Eemhoeve",
+                  "text": "Farm vagy állatpark az Arkemheen polder területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.396467,
+                        52.258497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Amplasată în peisajul unic din Arkemheen Polder, Laakse Strand oferă un cadru pitoresc la malul apei. Ambianța sa senină este un adevărat magnet pentru cei care doresc să scape de ritmul alert al vieții de zi cu zi. Iubitorii de natură vor aprecia liniștea neîntreruptă în timp ce se bucură de plimbări sau se odihnesc lângă apă. Pentru a prinde cea mai bună lumină peste polder, încercați să vizitați spre sfârșitul după-amiezii.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            },
+            {
+                  "name": "Museum Spakenburg",
+                  "text": "Muzeu despre istoria și costumele populare ale satului Spakenburg.",
+                  "category": "museum",
+                  "coords": [
+                        5.377998,
+                        52.254688
+                  ]
+            },
+            {
+                  "name": "Arkemheen",
+                  "text": "Unul dintre cele mai vechi poldere din Olanda și rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        5.455527,
+                        52.246473
+                  ]
+            },
+            {
+                  "name": "Hulkesteinse Bos",
+                  "text": "O zonă împădurită în polderul Arkemheen, populară pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        5.432084,
+                        52.266838
+                  ]
+            },
+            {
+                  "name": "stoomgemaal Arkemheen",
+                  "text": "O stație istorică de pompare cu abur în polderul Arkemheen.",
+                  "category": "museum",
+                  "coords": [
+                        5.436887,
+                        52.250623
+                  ]
+            },
+            {
+                  "name": "Kogge",
+                  "text": "Sit arheologic al unei nave de tip kogge din evul mediu în polder.",
+                  "category": "historical",
+                  "coords": [
+                        5.449558,
+                        52.261809
+                  ]
+            },
+            {
+                  "name": "Eemhoeve",
+                  "text": "O fermă sau parc zoologic în zona polderului Arkemheen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.396467,
+                        52.258497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Set within the unique landscape of the Arkemheen Polder, Laakse Strand provides a picturesque waterfront setting. Its serene ambiance is a true draw for those wishing to escape the fast pace of daily life. Nature lovers will appreciate the uninterrupted tranquility while enjoying walks or resting by the water. To capture the best light over the polder, try to visit during the late afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            },
+            {
+                  "name": "Museum Spakenburg",
+                  "text": "Museum about the history and traditional costumes of Spakenburg village.",
+                  "category": "museum",
+                  "coords": [
+                        5.377998,
+                        52.254688
+                  ]
+            },
+            {
+                  "name": "Arkemheen",
+                  "text": "One of the oldest polders in the Netherlands and a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        5.455527,
+                        52.246473
+                  ]
+            },
+            {
+                  "name": "Hulkesteinse Bos",
+                  "text": "A forested area in the Arkemheen polder, popular for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        5.432084,
+                        52.266838
+                  ]
+            },
+            {
+                  "name": "stoomgemaal Arkemheen",
+                  "text": "A historical steam-powered pumping station in the Arkemheen polder.",
+                  "category": "museum",
+                  "coords": [
+                        5.436887,
+                        52.250623
+                  ]
+            },
+            {
+                  "name": "Kogge",
+                  "text": "Archaeological site of a medieval cog ship in the polder.",
+                  "category": "historical",
+                  "coords": [
+                        5.449558,
+                        52.261809
+                  ]
+            },
+            {
+                  "name": "Eemhoeve",
+                  "text": "A farm or animal park in the Arkemheen polder area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.396467,
+                        52.258497
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Polder Arkemheen", hu: "Arkemheen Polder", ro: "Polderul Arkemheen", en: "Arkemheen Polder" },
@@ -598,6 +1750,33 @@ export const netherlandsLifeV2: POI[] = [
                         4.004534,
                         51.593781
                   ]
+            },
+            {
+                  "name": "Oosterschelde",
+                  "text": "Ein Gezeiten-Naturpark in den Niederlanden, bekannt für seine reiche Meeresflora und -fauna.",
+                  "category": "natural",
+                  "coords": [
+                        3.971769,
+                        51.577083
+                  ]
+            },
+            {
+                  "name": "Aeolus",
+                  "text": "Eine historische Windmühle in Wemeldinge, die als markantes Wahrzeichen der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.001225,
+                        51.514113
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "Eine historische Windmühle in Wemeldinge im Nationalpark Oosterschelde.",
+                  "category": "landmark",
+                  "coords": [
+                        4.002263,
+                        51.514833
+                  ]
             }
       ],
       "hu": [
@@ -608,6 +1787,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         4.004534,
                         51.593781
+                  ]
+            },
+            {
+                  "name": "Oosterschelde",
+                  "text": "Holland tengeri nemzeti park, amely gazdag élővilágáról és árapály-jelenségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        3.971769,
+                        51.577083
+                  ]
+            },
+            {
+                  "name": "Aeolus",
+                  "text": "Történelmi szélmalom Wemeldinge falujában, amely a régió egyik jellegzetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        4.001225,
+                        51.514113
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "Történelmi szélmalom Wemeldingében, az Oosterschelde Nemzeti Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        4.002263,
+                        51.514833
                   ]
             }
       ],
@@ -620,6 +1826,33 @@ export const netherlandsLifeV2: POI[] = [
                         4.004534,
                         51.593781
                   ]
+            },
+            {
+                  "name": "Oosterschelde",
+                  "text": "Un parc natural marin din Olanda, cunoscut pentru flora și fauna sa marină diversă.",
+                  "category": "natural",
+                  "coords": [
+                        3.971769,
+                        51.577083
+                  ]
+            },
+            {
+                  "name": "Aeolus",
+                  "text": "O moară de vânt istorică în Wemeldinge, considerată un simbol al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        4.001225,
+                        51.514113
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "O moară de vânt istorică situată în Wemeldinge, în Parcul Național Oosterschelde.",
+                  "category": "landmark",
+                  "coords": [
+                        4.002263,
+                        51.514833
+                  ]
             }
       ],
       "en": [
@@ -630,6 +1863,33 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         4.004534,
                         51.593781
+                  ]
+            },
+            {
+                  "name": "Oosterschelde",
+                  "text": "A tidal nature reserve in the Netherlands known for its rich marine flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        3.971769,
+                        51.577083
+                  ]
+            },
+            {
+                  "name": "Aeolus",
+                  "text": "A historic windmill in Wemeldinge serving as a prominent landmark of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        4.001225,
+                        51.514113
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "A historic windmill located in Wemeldinge near the Oosterschelde National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        4.002263,
+                        51.514833
                   ]
             }
       ]
@@ -813,7 +2073,304 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-sallandse-heuvelrug-life-v2.webp",
   },
   {
-    id: "netherlands-de-hoge-veluwe-wildlife-life-v2",
+    id: "netherlands-de-hoge-veluwe-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Museum in Otterlo, das der Geschichte der niederländischen Fliesen und Keramik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "Das weltweit erste unterirdische Museum, das sich mit der Geologie und Biologie unter der Erdoberfläche befasst.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Großer Nationalpark in den Niederlanden mit Wäldern, Heideflächen und Sanddünen.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Kunstmuseum, das für seine umfangreiche Sammlung an Gemälden von Vincent van Gogh und seinen großen Skulpturengarten bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Pädagogischer Streichelzoo im Nationalpark, ideal für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Naturschutzgebiet und Waldgebiet bei Otterlo im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Zanding",
+                  "text": "Naturgebiet in der Region Hoge Veluwe, beliebt für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        5.78573,
+                        52.09529
+                  ]
+            },
+            {
+                  "name": "Franse berg",
+                  "text": "Ein markanter Hügel im Nationalpark De Hoge Veluwe mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.828322,
+                        52.094167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Otterlói múzeum, amely a holland csempék és kerámiák történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "A világ első föld alatti múzeuma, amely a felszín alatti geológiával és biológiával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Nagy nemzeti park Hollandiában, erdőkkel, fenyéreivel és homokdűnéivel.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Vincent van Gogh festményeinek jelentős gyűjteményéről és nagy szoborparkjáról híres művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Oktatási célú állatsimogató a nemzeti parkban, családok számára ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Természetvédelmi terület és erdős rész Otterlo közelében, a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Zanding",
+                  "text": "Természeti terület a Hoge Veluwe régióban, népszerű a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.78573,
+                        52.09529
+                  ]
+            },
+            {
+                  "name": "Franse berg",
+                  "text": "Kiemelkedő domb a De Hoge Veluwe Nemzeti Parkban, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.828322,
+                        52.094167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Muzeu în Otterlo dedicat istoriei plăcilor de ceramică și a faianței olandeze.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "Primul muzeu subteran din lume, axat pe geologia și biologia de sub suprafața pământului.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Parc național vast în Olanda, cu păduri, lande și dune de nisip.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Muzeu de artă renumit pentru colecția sa extinsă de picturi de Vincent van Gogh și pentru o grădină mare de sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Grădină zoologică interactivă situată în parcul național, potrivită pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Rezervație naturală și zonă împădurită situată lângă Otterlo, în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Zanding",
+                  "text": "Zonă naturală în regiunea Hoge Veluwe, populară pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.78573,
+                        52.09529
+                  ]
+            },
+            {
+                  "name": "Franse berg",
+                  "text": "Un deal proeminent în Parcul Național De Hoge Veluwe, oferind priveliști asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        5.828322,
+                        52.094167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nederlands Tegelmuseum",
+                  "text": "Museum in Otterlo dedicated to the history of Dutch tiles and ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        5.772575,
+                        52.098511
+                  ]
+            },
+            {
+                  "name": "Museonder",
+                  "text": "The world's first underground museum, focused on geology and biology beneath the earth's surface.",
+                  "category": "museum",
+                  "coords": [
+                        5.829171,
+                        52.098069
+                  ]
+            },
+            {
+                  "name": "De Hoge Veluwe",
+                  "text": "Large national park in the Netherlands featuring forests, heathlands, and sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        5.832574,
+                        52.083081
+                  ]
+            },
+            {
+                  "name": "Kröller-Müller Museum",
+                  "text": "Art museum famous for its extensive collection of paintings by Vincent van Gogh and a large sculpture garden.",
+                  "category": "museum",
+                  "coords": [
+                        5.817593,
+                        52.095696
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Educational petting zoo located within the national park, suitable for families.",
+                  "category": "recreational",
+                  "coords": [
+                        5.769225,
+                        52.086018
+                  ]
+            },
+            {
+                  "name": "Otterlose Buurtbos-noord",
+                  "text": "Nature reserve and forested area located near Otterlo in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        5.770162,
+                        52.090134
+                  ]
+            },
+            {
+                  "name": "De Zanding",
+                  "text": "Natural area within the Hoge Veluwe region, popular for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.78573,
+                        52.09529
+                  ]
+            },
+            {
+                  "name": "Franse berg",
+                  "text": "A prominent hill in the Hoge Veluwe National Park offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.828322,
+                        52.094167
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark De Hoge Veluwe", hu: "De Hoge Veluwe Nemzeti Park", ro: "Parcul Național De Hoge Veluwe", en: "De Hoge Veluwe National Park" },
@@ -903,7 +2460,160 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-zwin-nature-reserve-life-v2.webp",
   },
   {
-    id: "netherlands-nationaal-park-lauwersmeer-life-v2",
+    id: "netherlands-nationaal-park-lauwersmeer-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Ein Aussichtsturm mit Panoramablick auf den Nationalpark Lauwersmeer.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Ein speziell eingerichteter Ort zur Beobachtung der vielfältigen Vogelwelt des Parks.",
+                  "category": "natural",
+                  "coords": [
+                        6.251325,
+                        53.361936
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "Eine nach der Rohrdommel benannte Aussichtsplattform für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren Achter de Zwarten",
+                  "text": "Aussichtsturm, der weite Ausblicke über die Naturlandschaft von Lauwersmeer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.205956,
+                        53.381292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Kilátótorony, ahonnan panorámás kilátás nyílik a Lauwersmeer Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Speciálisan kialakított hely a park változatos madárvilágának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        6.251325,
+                        53.361936
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "A bölömbikáról elnevezett kilátóhely természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren Achter de Zwarten",
+                  "text": "Kilátótorony, amely tágas kilátást nyújt a Lauwersmeer természeti tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        6.205956,
+                        53.381292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "Un turn de observare ce oferă vederi panoramice asupra Parcului Național Lauwersmeer.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Un loc special amenajat pentru observarea avifaunei diverse a parcului.",
+                  "category": "natural",
+                  "coords": [
+                        6.251325,
+                        53.361936
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "O platformă de observație numită după buhaiul de baltă, pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren Achter de Zwarten",
+                  "text": "Turn de observare care oferă vederi largi asupra peisajului natural din Lauwersmeer.",
+                  "category": "natural",
+                  "coords": [
+                        6.205956,
+                        53.381292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uitkijktoren De Baak",
+                  "text": "An observation tower offering panoramic views of Lauwersmeer National Park.",
+                  "category": "natural",
+                  "coords": [
+                        6.232706,
+                        53.327786
+                  ]
+            },
+            {
+                  "name": "Bird watching viewpoint",
+                  "text": "A spot designated for observing the diverse bird life of the park.",
+                  "category": "natural",
+                  "coords": [
+                        6.251325,
+                        53.361936
+                  ]
+            },
+            {
+                  "name": "Reiddomp",
+                  "text": "A viewing platform named after the bittern for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        6.180135,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Uitkijktoren Achter de Zwarten",
+                  "text": "Observation tower offering expansive views over the natural landscape of Lauwersmeer.",
+                  "category": "natural",
+                  "coords": [
+                        6.205956,
+                        53.381292
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Lauwersmeer", hu: "Lauwersmeer Nemzeti Park", ro: "Parcul Național Lauwersmeer", en: "Lauwersmeer National Park" },
@@ -993,7 +2703,124 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-botanic-garden-delft-life-v2.webp",
   },
   {
-    id: "netherlands-nationaal-park-weerribben-wieden-life-v2",
+    id: "netherlands-nationaal-park-weerribben-wieden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Weerribben",
+                  "text": "Ein bedeutender Nationalpark in den Niederlanden, der durch seine einzigartigen Moorlandschaften geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Ein historisches Museum im monumentalen ehemaligen Gildenhaus von Blokzijl.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Eine Vogelbeobachtungshütte mit Blick auf die vielfältige Vogelwelt im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weerribben",
+                  "text": "Jelentős nemzeti park Hollandiában, amelyet egyedülálló tőzeglápok jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Történelmi múzeum Blokzijl egykori monumentális céhházában.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Madármegfigyelő hely, ahonnan kilátás nyílik a nemzeti park gazdag madárvilágára.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weerribben",
+                  "text": "Un parc național important din Țările de Jos, caracterizat prin zonele sale umede unice de turbă.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "Un muzeu istoric situat în fosta casă monumentală a breslelor din Blokzijl.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "Un observator de păsări care oferă vederi asupra vieții aviare diverse din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weerribben",
+                  "text": "A significant national park in the Netherlands characterized by its unique peat wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        5.95231,
+                        52.781141
+                  ]
+            },
+            {
+                  "name": "Gildenhuys Blokzijl",
+                  "text": "A historical museum located in the monumental former gild hall of Blokzijl.",
+                  "category": "museum",
+                  "coords": [
+                        5.960607,
+                        52.727197
+                  ]
+            },
+            {
+                  "name": "Vogelkijkhut",
+                  "text": "A birdwatching hide providing views of the diverse avian life in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        5.960877,
+                        52.75863
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Weerribben-Wieden", hu: "Weerribben-Wieden Nemzeti Park", ro: "Parcul Național Weerribben-Wieden", en: "Weerribben-Wieden National Park" },
@@ -1038,7 +2865,304 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-weerribben-wieden-life-v2.webp",
   },
   {
-    id: "netherlands-nationaal-park-dwingelderveld-life-v2",
+    id: "netherlands-nationaal-park-dwingelderveld-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Die Überreste eines historischen Herrenhauses, das einst eine bedeutende Rolle in der Region Dwingeloo spielte.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Ein gut erhaltenes Herrenhaus aus dem 15. Jahrhundert, bekannt für seine historische Architektur und Gärten.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Ein ehemaliger Adelsitz in Dwingeloo, der heute als historisches Baudenkmal in der Provinz Drente steht.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "Ein prähistorischer Grabhügel im Nationalpark Dwingelderveld, der Zeugnis von antiken Bestattungsritualen ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Ein Wissenschaftsmuseum, das Besuchern durch interaktive Ausstellungen die Astronomie und den Weltraum näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Ein traditioneller Schafstall im Nationalpark, der eine der größten Schafherden der Niederlande beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Ein Aussichtspunkt im Nationalpark Dwingelderveld, der einen weiten Blick über die Heideflächen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "Das Besucherzentrum bietet Informationen über die Natur und Wanderwege im Nationalpark Dwingelderveld.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Egy történelmi udvarház maradványai, amely egykor jelentős szerepet játszott Dwingeloo környékén.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Egy jól megőrzött 15. századi udvarház, amely történelmi építészetéről és kertjeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "Egykori nemesi lakóhely Dwingelooban, amely ma történelmi műemlék Drenthe tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "Prehisztorikus sírhalom a Dwingelderveld Nemzeti Parkban, amely ősi temetkezési rituálékról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Tudományos múzeum, amely interaktív kiállításokon keresztül mutatja be a látogatóknak a csillagászatot és a világűrt.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Hagyományos juhakol a nemzeti parkban, amely Hollandia egyik legnagyobb juhnyájának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Kilátópont a Dwingelderveld Nemzeti Parkban, amely tágas kilátást nyújt a fenyérmezőkre.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "A látogatóközpont információkat nyújt a Dwingelderveld Nemzeti Park természetéről és túraútvonalairól.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "Vestigiile unei conac istoric care a jucat un rol semnificativ în regiunea Dwingeloo.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "Un conac bine conservat din secolul al XV-lea, renumit pentru arhitectura sa istorică și grădinile sale.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "O fostă reședință nobiliară din Dwingeloo, care astăzi este un monument istoric în provincia Drenthe.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "O gorgană preistorică în Parcul Național Dwingelderveld, care atestă ritualurile funerare antice.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "Un muzeu de știință care aduce astronomia și spațiul mai aproape de vizitatori prin expoziții interactive.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "Un staul tradițional de oi din parcul național, care adăpostește una dintre cele mai mari turme de oi din Olanda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "Un punct de belvedere în Parcul Național Dwingelderveld, oferind o vedere panoramică asupra câmpiei de iarbă neagră.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "Centrul de vizitatori oferă informații despre natura și traseele de drumeție din Parcul Național Dwingelderveld.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havezathe Batinghe",
+                  "text": "The remains of a historic manor house that once played a significant role in the Dwingeloo area.",
+                  "category": "castle",
+                  "coords": [
+                        6.354236,
+                        52.835095
+                  ]
+            },
+            {
+                  "name": "Oldengaerde",
+                  "text": "A well-preserved 15th-century manor house known for its historic architecture and gardens.",
+                  "category": "castle",
+                  "coords": [
+                        6.346326,
+                        52.822858
+                  ]
+            },
+            {
+                  "name": "Westrup",
+                  "text": "A former noble residence in Dwingeloo, which today stands as a historical monument in Drenthe province.",
+                  "category": "castle",
+                  "coords": [
+                        6.366494,
+                        52.836063
+                  ]
+            },
+            {
+                  "name": "Grafheuvel",
+                  "text": "A prehistoric burial mound in the Dwingelderveld National Park, testifying to ancient burial rituals.",
+                  "category": "historical",
+                  "coords": [
+                        6.428568,
+                        52.814762
+                  ]
+            },
+            {
+                  "name": "Open Science Hub “De Melkweg”",
+                  "text": "A science museum that brings astronomy and space closer to visitors through interactive exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        6.368203,
+                        52.82239
+                  ]
+            },
+            {
+                  "name": "Schaapskooi Ruinen",
+                  "text": "A traditional sheepfold in the national park, home to one of the largest flocks of sheep in the Netherlands.",
+                  "category": "landmark",
+                  "coords": [
+                        6.381615,
+                        52.784168
+                  ]
+            },
+            {
+                  "name": "Benderse Berg",
+                  "text": "A viewpoint in the Dwingelderveld National Park, offering an expansive view over the heathlands.",
+                  "category": "natural",
+                  "coords": [
+                        6.392016,
+                        52.793822
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Dwingelderveld",
+                  "text": "The visitor center provides information about the nature and hiking trails in the Dwingelderveld National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.373396,
+                        52.781535
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Dwingelderveld", hu: "Dwingelderveld Nemzeti Park", ro: "Parcul Național Dwingelderveld", en: "Dwingelderveld National Park" },
@@ -1083,7 +3207,304 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-dwingelderveld-life-v2.webp",
   },
   {
-    id: "netherlands-botanic-garden-groningen-life-v2",
+    id: "netherlands-botanic-garden-groningen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Internationaal Klompenmuseum",
+                  "text": "Ein Museum in Haren mit einer großen Sammlung internationaler Holzschuhe.",
+                  "category": "museum",
+                  "coords": [
+                        6.568002,
+                        53.138159
+                  ]
+            },
+            {
+                  "name": "Museum Vosbergen",
+                  "text": "Ein Museum in einem Herrenhaus, das historische Musikinstrumente ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.586909,
+                        53.139987
+                  ]
+            },
+            {
+                  "name": "klooster Yesse",
+                  "text": "Archäologische Stätte eines ehemaligen Zisterzienserklosters in der Nähe von Haren.",
+                  "category": "historical",
+                  "coords": [
+                        6.60545,
+                        53.191622
+                  ]
+            },
+            {
+                  "name": "Vennebroek",
+                  "text": "Ein Naturschutzgebiet und historisches Landgut in der Nähe von Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.571894,
+                        53.153296
+                  ]
+            },
+            {
+                  "name": "Wall House #2",
+                  "text": "Ein markantes modernes Wohnhaus, das vom Architekten John Hejduk entworfen wurde.",
+                  "category": "museum",
+                  "coords": [
+                        6.553517,
+                        53.183169
+                  ]
+            },
+            {
+                  "name": "Friese Veen",
+                  "text": "Ein Naturschutzgebiet mit Niedermooren und Wald in der Nähe von Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.575193,
+                        53.157568
+                  ]
+            },
+            {
+                  "name": "Elsburger Onland",
+                  "text": "Ein Naturschutzgebiet bei Hortus Haren mit typischen Sumpflandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        6.549383,
+                        53.166238
+                  ]
+            },
+            {
+                  "name": "Groenestein",
+                  "text": "Ein historisches Landhaus und Anwesen in Hortus Haren.",
+                  "category": "castle",
+                  "coords": [
+                        6.588013,
+                        53.200785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Internationaal Klompenmuseum",
+                  "text": "Hareni múzeum, amely nemzetközi fapapucs-gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.568002,
+                        53.138159
+                  ]
+            },
+            {
+                  "name": "Museum Vosbergen",
+                  "text": "Udvarházban berendezett múzeum, amely történelmi hangszereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.586909,
+                        53.139987
+                  ]
+            },
+            {
+                  "name": "klooster Yesse",
+                  "text": "Egy egykori ciszterci kolostor régészeti lelőhelye Haren közelében.",
+                  "category": "historical",
+                  "coords": [
+                        6.60545,
+                        53.191622
+                  ]
+            },
+            {
+                  "name": "Vennebroek",
+                  "text": "Természetvédelmi terület és történelmi birtok Haren közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.571894,
+                        53.153296
+                  ]
+            },
+            {
+                  "name": "Wall House #2",
+                  "text": "John Hejduk építész által tervezett különleges modern lakóház.",
+                  "category": "museum",
+                  "coords": [
+                        6.553517,
+                        53.183169
+                  ]
+            },
+            {
+                  "name": "Friese Veen",
+                  "text": "Lápvidékből és erdőkből álló természetvédelmi terület Haren közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.575193,
+                        53.157568
+                  ]
+            },
+            {
+                  "name": "Elsburger Onland",
+                  "text": "Természetvédelmi terület Hortus Haren közelében, vizes élőhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        6.549383,
+                        53.166238
+                  ]
+            },
+            {
+                  "name": "Groenestein",
+                  "text": "Történelmi udvarház és birtok Hortus Haren területén.",
+                  "category": "castle",
+                  "coords": [
+                        6.588013,
+                        53.200785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Internationaal Klompenmuseum",
+                  "text": "Un muzeu din Haren care expune o colecție internațională de saboți.",
+                  "category": "museum",
+                  "coords": [
+                        6.568002,
+                        53.138159
+                  ]
+            },
+            {
+                  "name": "Museum Vosbergen",
+                  "text": "Un muzeu situat într-un conac, care expune instrumente muzicale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        6.586909,
+                        53.139987
+                  ]
+            },
+            {
+                  "name": "klooster Yesse",
+                  "text": "Situl arheologic al unei foste mănăstiri cisterciene de lângă Haren.",
+                  "category": "historical",
+                  "coords": [
+                        6.60545,
+                        53.191622
+                  ]
+            },
+            {
+                  "name": "Vennebroek",
+                  "text": "O rezervație naturală și o moșie istorică situată lângă Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.571894,
+                        53.153296
+                  ]
+            },
+            {
+                  "name": "Wall House #2",
+                  "text": "O casă modernă distinctivă, proiectată de arhitectul John Hejduk.",
+                  "category": "museum",
+                  "coords": [
+                        6.553517,
+                        53.183169
+                  ]
+            },
+            {
+                  "name": "Friese Veen",
+                  "text": "O rezervație naturală cu mlaștini și pădure situată lângă Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.575193,
+                        53.157568
+                  ]
+            },
+            {
+                  "name": "Elsburger Onland",
+                  "text": "O rezervație naturală lângă Hortus Haren, cu peisaje de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        6.549383,
+                        53.166238
+                  ]
+            },
+            {
+                  "name": "Groenestein",
+                  "text": "O casă istorică și domeniu situat în Hortus Haren.",
+                  "category": "castle",
+                  "coords": [
+                        6.588013,
+                        53.200785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Internationaal Klompenmuseum",
+                  "text": "A museum in Haren showcasing an international collection of clogs.",
+                  "category": "museum",
+                  "coords": [
+                        6.568002,
+                        53.138159
+                  ]
+            },
+            {
+                  "name": "Museum Vosbergen",
+                  "text": "A museum set in a manor house displaying historical musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        6.586909,
+                        53.139987
+                  ]
+            },
+            {
+                  "name": "klooster Yesse",
+                  "text": "Archaeological site of a former Cistercian monastery near Haren.",
+                  "category": "historical",
+                  "coords": [
+                        6.60545,
+                        53.191622
+                  ]
+            },
+            {
+                  "name": "Vennebroek",
+                  "text": "A nature reserve and historical country estate located near Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.571894,
+                        53.153296
+                  ]
+            },
+            {
+                  "name": "Wall House #2",
+                  "text": "A distinctive modern residential building designed by architect John Hejduk.",
+                  "category": "museum",
+                  "coords": [
+                        6.553517,
+                        53.183169
+                  ]
+            },
+            {
+                  "name": "Friese Veen",
+                  "text": "A nature reserve featuring marshland and forest located near Haren.",
+                  "category": "natural",
+                  "coords": [
+                        6.575193,
+                        53.157568
+                  ]
+            },
+            {
+                  "name": "Elsburger Onland",
+                  "text": "A nature reserve near Hortus Haren featuring wetland landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        6.549383,
+                        53.166238
+                  ]
+            },
+            {
+                  "name": "Groenestein",
+                  "text": "A historic country house and estate located in Hortus Haren.",
+                  "category": "castle",
+                  "coords": [
+                        6.588013,
+                        53.200785
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Botanischer Garten Haren", hu: "Haren Botanikus Kert", ro: "Grădina Botanică Haren", en: "Hortus Haren" },

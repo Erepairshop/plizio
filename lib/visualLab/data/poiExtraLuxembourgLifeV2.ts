@@ -183,7 +183,304 @@ imageHint: "Upper Sure Nature Park landscape with lake and hills",
     },
     image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp",
 },  {
-    id: "luxembourg-our-nature-park-life-v2",
+    id: "luxembourg-our-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "AquaNat’Our",
+                  "text": "Ein moderner Freizeit- und Wasserpark im Naturpark Our mit Schwimm- und Wellnessangeboten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.097029,
+                        49.992785
+                  ]
+            },
+            {
+                  "name": "Huuscht",
+                  "text": "Ein Gipfel im Naturpark Our, der weite Ausblicke über die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.094858,
+                        50.024469
+                  ]
+            },
+            {
+                  "name": "Maacher",
+                  "text": "Ein Aussichtspunkt im Naturpark Our, ideal für Wanderungen und Naturbeobachtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.041595,
+                        50.023672
+                  ]
+            },
+            {
+                  "name": "Sankt-Lucia",
+                  "text": "Eine charmante Kirche im Naturpark Our, die dem religiösen Erbe der Region gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.06621,
+                        50.028671
+                  ]
+            },
+            {
+                  "name": "Saint-Luc",
+                  "text": "Ein historisches Gotteshaus im Naturpark Our, das als lokaler Ort der Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.070634,
+                        50.035218
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Eine ländliche Kirche im Naturpark Our, bekannt für ihre schlichte Architektur und ruhige Lage.",
+                  "category": "religious",
+                  "coords": [
+                        6.071948,
+                        49.984479
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "Eine Kapelle im Naturpark Our, die als regionaler Wallfahrtsort und Stätte der Andacht gilt.",
+                  "category": "religious",
+                  "coords": [
+                        6.142167,
+                        50.008602
+                  ]
+            },
+            {
+                  "name": "Schmärzensmuttergottes-Kapell",
+                  "text": "Eine kleine Kapelle im Naturpark Our, die der Schmerzensmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.09086,
+                        50.012408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AquaNat’Our",
+                  "text": "Modern szabadidő- és vízipark az Our Természetvédelmi Parkban, úszási és wellness lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.097029,
+                        49.992785
+                  ]
+            },
+            {
+                  "name": "Huuscht",
+                  "text": "Egy hegycsúcs az Our Természetvédelmi Parkban, amely széles kilátást nyütt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.094858,
+                        50.024469
+                  ]
+            },
+            {
+                  "name": "Maacher",
+                  "text": "Kilátóhely az Our Természetvédelmi Parkban, ideális túrázáshoz és természetmegfigyeléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.041595,
+                        50.023672
+                  ]
+            },
+            {
+                  "name": "Sainte-Lucie",
+                  "text": "Bájos templom az Our Természetvédelmi Parkban, amely a régió vallási örökségét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        6.06621,
+                        50.028671
+                  ]
+            },
+            {
+                  "name": "Saint-Luc",
+                  "text": "Történelmi templom az Our Természetvédelmi Parkban, amely a helyi közösség hitéletének helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        6.070634,
+                        50.035218
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Vidéki templom az Our Természetvédelmi Parkban, amely egyszerű építészetéről és nyugodt környezetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        6.071948,
+                        49.984479
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "Kápolna az Our Természetvédelmi Parkban, amely regionális zarándokhelyként és az imádság helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.142167,
+                        50.008602
+                  ]
+            },
+            {
+                  "name": "Schmärzensmuttergottes-Kapell",
+                  "text": "Kis kápolna az Our Természetvédelmi Parkban, amelyet a Fájdalmas Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        6.09086,
+                        50.012408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AquaNat’Our",
+                  "text": "Un parc acvatic modern în Parcul Natural Our, cu facilități pentru înot și wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        6.097029,
+                        49.992785
+                  ]
+            },
+            {
+                  "name": "Huuscht",
+                  "text": "Un vârf în Parcul Natural Our, care oferă vederi panoramice asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        6.094858,
+                        50.024469
+                  ]
+            },
+            {
+                  "name": "Maacher",
+                  "text": "Un punct de observație în Parcul Natural Our, ideal pentru drumeții și observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        6.041595,
+                        50.023672
+                  ]
+            },
+            {
+                  "name": "Sainte-Lucie",
+                  "text": "O biserică fermecătoare din Parcul Natural Our, dedicată moștenirii religioase a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        6.06621,
+                        50.028671
+                  ]
+            },
+            {
+                  "name": "Saint-Luc",
+                  "text": "Un lăcaș de cult istoric din Parcul Natural Our, care servește ca loc de reculegere local.",
+                  "category": "religious",
+                  "coords": [
+                        6.070634,
+                        50.035218
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "O biserică rurală din Parcul Natural Our, cunoscută pentru arhitectura sa simplă și locația liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        6.071948,
+                        49.984479
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "O capelă din Parcul Natural Our, considerată loc de pelerinaj regional și spațiu de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        6.142167,
+                        50.008602
+                  ]
+            },
+            {
+                  "name": "Schmärzensmuttergottes-Kapell",
+                  "text": "O mică capelă din Parcul Natural Our, dedicată Maicii Îndurerate.",
+                  "category": "religious",
+                  "coords": [
+                        6.09086,
+                        50.012408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AquaNat’Our",
+                  "text": "A modern leisure and water park in the Our Nature Park with swimming and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        6.097029,
+                        49.992785
+                  ]
+            },
+            {
+                  "name": "Huuscht",
+                  "text": "A peak in the Our Nature Park offering broad views over the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        6.094858,
+                        50.024469
+                  ]
+            },
+            {
+                  "name": "Maacher",
+                  "text": "A viewpoint in the Our Nature Park, ideal for hiking and nature observation.",
+                  "category": "landmark",
+                  "coords": [
+                        6.041595,
+                        50.023672
+                  ]
+            },
+            {
+                  "name": "Sainte-Lucie",
+                  "text": "A charming church in the Our Nature Park dedicated to the religious heritage of the region.",
+                  "category": "religious",
+                  "coords": [
+                        6.06621,
+                        50.028671
+                  ]
+            },
+            {
+                  "name": "Saint-Luc",
+                  "text": "A historical place of worship in the Our Nature Park serving as a local place of reflection.",
+                  "category": "religious",
+                  "coords": [
+                        6.070634,
+                        50.035218
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "A rural church in the Our Nature Park known for its simple architecture and peaceful location.",
+                  "category": "religious",
+                  "coords": [
+                        6.071948,
+                        49.984479
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "A chapel in the Our Nature Park serving as a regional place of pilgrimage and devotion.",
+                  "category": "religious",
+                  "coords": [
+                        6.142167,
+                        50.008602
+                  ]
+            },
+            {
+                  "name": "Schmärzensmuttergottes-Kapell",
+                  "text": "A small chapel in the Our Nature Park dedicated to Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        6.09086,
+                        50.012408
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "park",
     name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park"},
@@ -2371,7 +2668,304 @@ imageHint: "Mirador Steinfort nature center building",
     "Einzigartige geologische Bedingungen"
 ], image: "/poi-images/luxembourg-niklosbierg-life-v2.webp"},
   {
-    id: "luxembourg-stolzembourg-nature-life-v2",
+    id: "luxembourg-stolzembourg-nature-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "Eine mittelalterliche Burgruine über dem Tal der Our im Grenzgebiet zu Luxemburg.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Kupfergrube in Stolzemburg",
+                  "text": "Ein Besucherbergwerk in Stolzemburg, das die Geschichte des Kupferbergbaus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.150438,
+                        49.967766
+                  ]
+            },
+            {
+                  "name": "Burg Stolzemburg",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg im Dorf Stolzemburg.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "Ein Naturschutzgebiet an der Our-Schleife mit bedeutender Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Museum Kupfermine Stolzemburg",
+                  "text": "Dieses Museum in Stolzemburg informiert über die Technik und Geschichte des Kupferabbaus.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            },
+            {
+                  "name": "Akescht",
+                  "text": "Ein geschütztes Naturareal in der Nähe von Stolzemburg im Our-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        6.145727,
+                        49.982021
+                  ]
+            },
+            {
+                  "name": "Niclosbierg",
+                  "text": "Ein Aussichtspunkt auf dem Niclosbierg mit Blick auf das Pumpspeicherkraftwerk Vianden.",
+                  "category": "natural",
+                  "coords": [
+                        6.167709,
+                        49.946151
+                  ]
+            },
+            {
+                  "name": "Point de Vue Victor Hugo",
+                  "text": "Ein nach Victor Hugo benannter Aussichtspunkt mit Panoramablick über das Our-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        6.184108,
+                        49.949911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "Középkori várrom az Our-folyó völgye felett, a luxemburgi határvidéken.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Koffergrouf vu Stolzebuerg",
+                  "text": "Látogatható bánya Stolzemburgban, amely a rézbányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.150438,
+                        49.967766
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "Középkori hegyi vár romjai Stolzemburg falujában.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "Természetvédelmi terület az Our-folyó kanyarulatánál, jelentős élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée Koffergrouf Stolzembourg",
+                  "text": "Ez a stolzemburgi múzeum a rézbányászat technikáját és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            },
+            {
+                  "name": "Akescht",
+                  "text": "Védett természeti terület Stolzemburg közelében, az Our-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        6.145727,
+                        49.982021
+                  ]
+            },
+            {
+                  "name": "Niclosbierg",
+                  "text": "Kilátópont a Niclosbierg-en, ahonnan rálátás nyílik a viandeni szivattyús-tározós erőműre.",
+                  "category": "natural",
+                  "coords": [
+                        6.167709,
+                        49.946151
+                  ]
+            },
+            {
+                  "name": "Point de Vue Victor Hugo",
+                  "text": "Victor Hugóról elnevezett kilátópont panorámás kilátással az Our-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        6.184108,
+                        49.949911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "O ruină de castel medieval deasupra văii râului Our, la granița cu Luxemburg.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Koffergrouf vu Stolzebuerg",
+                  "text": "O mină vizitabilă în Stolzemburg, care documentează istoria exploatării cuprului.",
+                  "category": "museum",
+                  "coords": [
+                        6.150438,
+                        49.967766
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "Ruinele unui castel medieval situat pe o colină în satul Stolzemburg.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "O rezervație naturală la cotul râului Our, cu o floră și faună importantă.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Musée Koffergrouf Stolzembourg",
+                  "text": "Acest muzeu din Stolzemburg oferă informații despre tehnica și istoria exploatării cuprului.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            },
+            {
+                  "name": "Akescht",
+                  "text": "O arie naturală protejată în apropiere de Stolzemburg, în valea râului Our.",
+                  "category": "natural",
+                  "coords": [
+                        6.145727,
+                        49.982021
+                  ]
+            },
+            {
+                  "name": "Niclosbierg",
+                  "text": "Un punct de belvedere pe Niclosbierg, oferind o vedere asupra centralei hidroelectrice din Vianden.",
+                  "category": "natural",
+                  "coords": [
+                        6.167709,
+                        49.946151
+                  ]
+            },
+            {
+                  "name": "Point de Vue Victor Hugo",
+                  "text": "Un punct de belvedere numit după Victor Hugo, oferind o vedere panoramică asupra văii Our.",
+                  "category": "natural",
+                  "coords": [
+                        6.184108,
+                        49.949911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Falkenstein",
+                  "text": "A medieval castle ruin overlooking the Our valley in the border region near Luxembourg.",
+                  "category": "castle",
+                  "coords": [
+                        6.195155,
+                        49.969938
+                  ]
+            },
+            {
+                  "name": "Koffergrouf vu Stolzebuerg",
+                  "text": "A former copper mine in Stolzembourg now operating as a museum for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        6.150438,
+                        49.967766
+                  ]
+            },
+            {
+                  "name": "Buerg Stolzebuerg",
+                  "text": "The ruins of a medieval hilltop castle located in the village of Stolzembourg.",
+                  "category": "castle",
+                  "coords": [
+                        6.166141,
+                        49.965782
+                  ]
+            },
+            {
+                  "name": "Ourschleife/Falkenstein",
+                  "text": "A nature reserve along the loop of the Our River, known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        6.193666,
+                        49.963749
+                  ]
+            },
+            {
+                  "name": "Museum of the copper mines",
+                  "text": "This museum in Stolzembourg provides information on the history and techniques of copper mining.",
+                  "category": "museum",
+                  "coords": [
+                        6.167867,
+                        49.964287
+                  ]
+            },
+            {
+                  "name": "Akescht",
+                  "text": "A protected natural area located near Stolzembourg in the Our valley.",
+                  "category": "natural",
+                  "coords": [
+                        6.145727,
+                        49.982021
+                  ]
+            },
+            {
+                  "name": "Niclosbierg",
+                  "text": "A viewpoint on the Niclosbierg hill overlooking the Vianden pumped-storage plant.",
+                  "category": "natural",
+                  "coords": [
+                        6.167709,
+                        49.946151
+                  ]
+            },
+            {
+                  "name": "Point de Vue Victor Hugo",
+                  "text": "A viewpoint named after Victor Hugo, offering panoramic views over the Our valley.",
+                  "category": "natural",
+                  "coords": [
+                        6.184108,
+                        49.949911
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "wildlife",
     name: { de: "Naturlehrgebiet Stolzembourg", hu: "Stolzembourg természetvédelmi terület", ro: "Zona Naturală Stolzembourg", en: "Stolzembourg Nature Area" },

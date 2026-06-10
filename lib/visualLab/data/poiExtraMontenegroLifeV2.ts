@@ -3,7 +3,232 @@ import { POI } from './poi';
 export const montenegroLifeV2: POI[] = [
 
   {
-    id: "montenegro-cetinje-karst-life-v2",
+    id: "montenegro-cetinje-karst-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster in Cetinje, das als historisches und spirituelles Zentrum Montenegros gilt.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Das ehemalige Regierungsgebäude beherbergt heute die Sammlungen des Nationalmuseums von Montenegro.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Der ehemalige Palast von König Nikola I. zeigt heute königliche Relikte und historische Exponate Montenegros.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Die ehemalige Residenz von Petar II. Petrović-Njegoš ist heute ein Museum, das seinem Leben gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Königliches Theater Zetski Dom",
+                  "text": "Das historische Nationaltheater Montenegros in Cetinje ist ein bedeutendes Zentrum für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Ein Veranstaltungsort unter freiem Himmel in Cetinje, der für kulturelle Darbietungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Jelentős szerb ortodox kolostor Cetinjében, amely Montenegró történelmi és spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Az egykori kormányépület ma Montenegró Nemzeti Múzeumának gyűjteményeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "I. Miklós király egykori palotája ma montenegrói királyi ereklyéket és történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "II. Petar Petrović-Njegoš egykori rezidenciája ma az életének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "Montenegró történelmi nemzeti színháza Cetinjében az előadóművészetek jelentős központja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Szabadtéri helyszín Cetinjében, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "O mănăstire ortodoxă sârbă importantă din Cetinje, considerată centrul istoric și spiritual al Muntenegrului.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Fosta clădire a guvernului găzduiește astăzi colecțiile Muzeului Național al Muntenegrului.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Fostul palat al regelui Nicolae I expune astăzi relicve regale și exponate istorice ale Muntenegrului.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Fosta reședință a lui Petar al II-lea Petrović-Njegoš este astăzi un muzeu dedicat vieții sale.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "Teatrul național istoric al Muntenegrului din Cetinje este un centru important pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "O locație în aer liber din Cetinje utilizată pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetinje Monastery",
+                  "text": "A prominent Serbian Orthodox monastery in Cetinje, considered the historical and spiritual center of Montenegro.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Government House - National Museum of Montenegro",
+                  "text": "The former government house now houses the collections of the National Museum of Montenegro.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Museum of King Nikola I Petrović",
+                  "text": "The former palace of King Nikola I now displays royal relics and historical exhibits of Montenegro.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "The former residence of Petar II Petrović-Njegoš is now a museum dedicated to his life.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Royal Theatre Zetski Dom",
+                  "text": "Montenegro's historic national theatre in Cetinje is a major center for the performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Summer stage",
+                  "text": "An open-air venue in Cetinje used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "ME",
     name: { de: "Karstlandschaft Cetinje", hu: "Cetinje karsztvidék", ro: "Carst Cetinje", en: "Cetinje Karst Landscape" },
@@ -48,7 +273,304 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-cetinje-karst-life-v2.webp",
   },
   {
-    id: "montenegro-sutorman-wildlife-life-v2",
+    id: "montenegro-sutorman-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Tabija",
+                  "text": "Ruinen einer osmanischen Festung mit Blick auf die Küste von Sutomore.",
+                  "category": "castle",
+                  "coords": [
+                        19.04372,
+                        42.13712
+                  ]
+            },
+            {
+                  "name": "Nehaj",
+                  "text": "Mittelalterliche Festung Haj-Nehaj auf einem steilen Hügel nahe der Adria.",
+                  "category": "castle",
+                  "coords": [
+                        19.031234,
+                        42.15054
+                  ]
+            },
+            {
+                  "name": "tunel plaža",
+                  "text": "Kiesstrand, der durch einen Fußgängertunnel erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        19.037141,
+                        42.137026
+                  ]
+            },
+            {
+                  "name": "Tvrđava Sutorman",
+                  "text": "Überreste einer historischen Festungsanlage im Sutorman-Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        19.110165,
+                        42.157595
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "Langer Kieselstrand bei Bar, gesäumt von schattigen Pinien.",
+                  "category": "recreational",
+                  "coords": [
+                        19.082675,
+                        42.113588
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "Malerischer Strand, bekannt für seinen rötlichen Sand und Kies.",
+                  "category": "recreational",
+                  "coords": [
+                        19.069766,
+                        42.120396
+                  ]
+            },
+            {
+                  "name": "FKK Ratac",
+                  "text": "Abgelegener FKK-Strand in der Nähe der Ruinen der Abtei Ratac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.061736,
+                        42.1239
+                  ]
+            },
+            {
+                  "name": "Plaža Sutomore",
+                  "text": "Der Hauptstrand des Ferienortes Sutomore an der montenegrinischen Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        19.05586,
+                        42.136157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Tabija",
+                  "text": "Oszmán erőd romjai, kilátással Sutomore tengerpartjára.",
+                  "category": "castle",
+                  "coords": [
+                        19.04372,
+                        42.13712
+                  ]
+            },
+            {
+                  "name": "Nehaj",
+                  "text": "Haj-Nehaj középkori erődje egy meredek dombon, az Adria közelében.",
+                  "category": "castle",
+                  "coords": [
+                        19.031234,
+                        42.15054
+                  ]
+            },
+            {
+                  "name": "tunel plaža",
+                  "text": "Kavicsos strand, amely egy gyalogos alagúton keresztül érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        19.037141,
+                        42.137026
+                  ]
+            },
+            {
+                  "name": "Tvrđava Sutorman",
+                  "text": "Egy történelmi erődítmény maradványai a Sutorman-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        19.110165,
+                        42.157595
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "Hosszú kavicsos strand Bar közelében, árnyas fenyőfákkal övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        19.082675,
+                        42.113588
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "Festői tengerpart, amely vöröses homokjáról és kavicsairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.069766,
+                        42.120396
+                  ]
+            },
+            {
+                  "name": "FKK Ratac",
+                  "text": "Elszigetelt nudista strand a Ratac-apátság romjainak közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.061736,
+                        42.1239
+                  ]
+            },
+            {
+                  "name": "Plaža Sutomore",
+                  "text": "Sutomore üdülőhely fő strandja a montenegrói tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        19.05586,
+                        42.136157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Tabija",
+                  "text": "Ruinele unei cetăți otomane cu vedere spre coasta Sutomore.",
+                  "category": "castle",
+                  "coords": [
+                        19.04372,
+                        42.13712
+                  ]
+            },
+            {
+                  "name": "Nehaj",
+                  "text": "Cetatea medievală Haj-Nehaj situată pe un deal abrupt lângă Adriatica.",
+                  "category": "castle",
+                  "coords": [
+                        19.031234,
+                        42.15054
+                  ]
+            },
+            {
+                  "name": "tunel plaža",
+                  "text": "Plajă cu prundiş accesibilă printr-un tunel pietonal.",
+                  "category": "recreational",
+                  "coords": [
+                        19.037141,
+                        42.137026
+                  ]
+            },
+            {
+                  "name": "Tvrđava Sutorman",
+                  "text": "Rămășițele unei fortificații istorice în munții Sutorman.",
+                  "category": "castle",
+                  "coords": [
+                        19.110165,
+                        42.157595
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "Plajă lungă cu prundiş lângă Bar, mărginită de pini umbroși.",
+                  "category": "recreational",
+                  "coords": [
+                        19.082675,
+                        42.113588
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "Plajă pitorească cunoscută pentru nisipul și prundişul său roșiatic.",
+                  "category": "recreational",
+                  "coords": [
+                        19.069766,
+                        42.120396
+                  ]
+            },
+            {
+                  "name": "FKK Ratac",
+                  "text": "Plajă de nudiști retrasă, situată lângă ruinele abației Ratac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.061736,
+                        42.1239
+                  ]
+            },
+            {
+                  "name": "Plaža Sutomore",
+                  "text": "Principala plajă a stațiunii Sutomore de pe coasta muntenegreană.",
+                  "category": "recreational",
+                  "coords": [
+                        19.05586,
+                        42.136157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tvrđava Tabija",
+                  "text": "Ruins of an Ottoman fortress overlooking the Sutomore coast.",
+                  "category": "castle",
+                  "coords": [
+                        19.04372,
+                        42.13712
+                  ]
+            },
+            {
+                  "name": "Nehaj",
+                  "text": "The medieval Haj-Nehaj fortress situated on a steep hill near the Adriatic.",
+                  "category": "castle",
+                  "coords": [
+                        19.031234,
+                        42.15054
+                  ]
+            },
+            {
+                  "name": "tunel plaža",
+                  "text": "A pebble beach accessible through a pedestrian tunnel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.037141,
+                        42.137026
+                  ]
+            },
+            {
+                  "name": "Tvrđava Sutorman",
+                  "text": "Remains of a historic fortification in the Sutorman mountains.",
+                  "category": "castle",
+                  "coords": [
+                        19.110165,
+                        42.157595
+                  ]
+            },
+            {
+                  "name": "Plaža Šušanj",
+                  "text": "A long pebble beach near Bar, lined with shady pine trees.",
+                  "category": "recreational",
+                  "coords": [
+                        19.082675,
+                        42.113588
+                  ]
+            },
+            {
+                  "name": "Crvena plaža",
+                  "text": "A picturesque beach known for its reddish sand and pebbles.",
+                  "category": "recreational",
+                  "coords": [
+                        19.069766,
+                        42.120396
+                  ]
+            },
+            {
+                  "name": "Ratac nude beach",
+                  "text": "A secluded nudist beach located near the ruins of Ratac Abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        19.061736,
+                        42.1239
+                  ]
+            },
+            {
+                  "name": "Plaža Sutomore",
+                  "text": "The main beach of the Sutomore resort on the Montenegrin coast.",
+                  "category": "recreational",
+                  "coords": [
+                        19.05586,
+                        42.136157
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Sutorman Wildschutzgebiet", hu: "Sutorman vadvédelmi terület", ro: "Rezervația naturală Sutorman", en: "Sutorman Wildlife Reserve" },
@@ -93,7 +615,304 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-sutorman-wildlife-life-v2.webp",
   },
   {
-    id: "montenegro-crno-jezero-eco-life-v2",
+    id: "montenegro-crno-jezero-eco-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ledena pećina",
+                  "text": "Eine Eishöhle im Durmitor-Nationalpark, bekannt für ihre Eisformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Ein markanter Berggipfel und Skigebiet im Durmitor-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Ein Berggipfel im Durmitor-Gebirge in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Javorovača",
+                  "text": "Ein Berg und Skigelände in der Nähe der Stadt Žabljak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.127755,
+                        43.145882
+                  ]
+            },
+            {
+                  "name": "Jelovačka pećina",
+                  "text": "Ein natürlicher Höhleneingang im Gebiet des Schwarzen Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052968,
+                        43.153465
+                  ]
+            },
+            {
+                  "name": "Kraguljac",
+                  "text": "Ein Berggipfel im Durmitor-Nationalpark in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.128186,
+                        43.115443
+                  ]
+            },
+            {
+                  "name": "Milošev tok",
+                  "text": "Ein Gipfel im Gebirgsmassiv des Durmitor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054633,
+                        43.114166
+                  ]
+            },
+            {
+                  "name": "Veliki Međed (Sjeverni vrh)",
+                  "text": "Ein markanter Berggipfel im Durmitor-Massiv in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.068319,
+                        43.127956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ledena pećina",
+                  "text": "Jégbarlang a Durmitor Nemzeti Parkban, amely látványos jégalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Jellegzetes hegycsúcs és síközpont a Durmitor-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Hegycsúcs a montenegrói Durmitor-hegység területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Javorovača",
+                  "text": "Hegy és síterület Žabljak városa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.127755,
+                        43.145882
+                  ]
+            },
+            {
+                  "name": "Jelovačka pećina",
+                  "text": "Természetes barlangbejárat a Fekete-tó ökoszisztémájában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052968,
+                        43.153465
+                  ]
+            },
+            {
+                  "name": "Kraguljac",
+                  "text": "Hegycsúcs a montenegrói Durmitor Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.128186,
+                        43.115443
+                  ]
+            },
+            {
+                  "name": "Milošev tok",
+                  "text": "Hegycsúcs a Durmitor-hegység vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054633,
+                        43.114166
+                  ]
+            },
+            {
+                  "name": "Veliki Međed (Sjeverni vrh)",
+                  "text": "Látványos hegycsúcs a montenegrói Durmitor-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.068319,
+                        43.127956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ledena pećina",
+                  "text": "O peșteră de gheață în Parcul Național Durmitor, renumită pentru formațiunile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Un vârf muntos și stațiune de schi în masivul Durmitor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Un vârf muntos în munții Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Javorovača",
+                  "text": "Un munte și zonă de schi situată lângă orașul Žabljak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.127755,
+                        43.145882
+                  ]
+            },
+            {
+                  "name": "Jelovačka pećina",
+                  "text": "O intrare naturală în peșteră în ecosistemul Lacului Negru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052968,
+                        43.153465
+                  ]
+            },
+            {
+                  "name": "Kraguljac",
+                  "text": "Un vârf muntos în Parcul Național Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.128186,
+                        43.115443
+                  ]
+            },
+            {
+                  "name": "Milošev tok",
+                  "text": "Un vârf muntos în masivul Durmitor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054633,
+                        43.114166
+                  ]
+            },
+            {
+                  "name": "Veliki Međed (Sjeverni vrh)",
+                  "text": "Un vârf muntos proeminent în masivul Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.068319,
+                        43.127956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ice cave",
+                  "text": "An ice cave in the Durmitor National Park known for its ice formations.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "A prominent mountain peak and ski area in the Durmitor massif.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "A mountain peak located in the Durmitor range in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Javorovača",
+                  "text": "A mountain and ski area located near the town of Žabljak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.127755,
+                        43.145882
+                  ]
+            },
+            {
+                  "name": "Jelovačka pećina",
+                  "text": "A natural cave entrance within the Black Lake ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052968,
+                        43.153465
+                  ]
+            },
+            {
+                  "name": "Kraguljac",
+                  "text": "A mountain peak in the Durmitor National Park, Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.128186,
+                        43.115443
+                  ]
+            },
+            {
+                  "name": "Milošev tok",
+                  "text": "A peak in the Durmitor mountain massif.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054633,
+                        43.114166
+                  ]
+            },
+            {
+                  "name": "Veliki Međed (Sjeverni vrh)",
+                  "text": "A prominent mountain peak in the Durmitor massif in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.068319,
+                        43.127956
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ME",
     name: { de: "Ökosystem Schwarzer See", hu: "Fekete-tó ökoszisztéma", ro: "Ecosistem Lacul Negru", en: "Black Lake Ecosystem" },
@@ -138,7 +957,232 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-crno-jezero-eco-life-v2.webp",
   },
   {
-    id: "montenegro-sinjajevina-biodiversity-life-v2",
+    id: "montenegro-sinjajevina-biodiversity-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mramorje",
+                  "text": "Ein Gipfel im Sinjajevina-Gebirge, der Teil eines biodiversen Hochplateaus ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351874,
+                        43.007658
+                  ]
+            },
+            {
+                  "name": "Bandovak",
+                  "text": "Ein markanter Gipfel in der Sinjajevina-Region in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.304541,
+                        43.006169
+                  ]
+            },
+            {
+                  "name": "Kulina",
+                  "text": "Einer der Gipfel im weitläufigen Sinjajevina-Biodiversitätsgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306935,
+                        42.955028
+                  ]
+            },
+            {
+                  "name": "Goveđa glava",
+                  "text": "Ein Berggipfel, der die weite Landschaft von Sinjajevina überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.29803,
+                        42.960398
+                  ]
+            },
+            {
+                  "name": "Mali Pećarac",
+                  "text": "Ein Gebirgsgipfel im Norden Montenegros innerhalb des Sinjajevina-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.343454,
+                        42.973212
+                  ]
+            },
+            {
+                  "name": "Suvi Pećarac",
+                  "text": "Ein Gipfel im Sinjajevina-Hochland, bekannt für seine unberührte Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        19.369869,
+                        42.98296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mramorje",
+                  "text": "Csúcs a Sinjajevina-hegységben, amely egy biodiverz fennsík része.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351874,
+                        43.007658
+                  ]
+            },
+            {
+                  "name": "Bandovak",
+                  "text": "Jellegzetes hegycsúcs a montenegrói Sinjajevina régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.304541,
+                        43.006169
+                  ]
+            },
+            {
+                  "name": "Kulina",
+                  "text": "A tágas Sinjajevina természetvédelmi terület egyik hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306935,
+                        42.955028
+                  ]
+            },
+            {
+                  "name": "Goveđa glava",
+                  "text": "Hegycsúcs, amelyről belátni Sinjajevina tágas tájait.",
+                  "category": "landmark",
+                  "coords": [
+                        19.29803,
+                        42.960398
+                  ]
+            },
+            {
+                  "name": "Mali Pećarac",
+                  "text": "Hegycsúcs Montenegró északi részén, a Sinjajevina-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.343454,
+                        42.973212
+                  ]
+            },
+            {
+                  "name": "Suvi Pećarac",
+                  "text": "Csúcs a Sinjajevina-fennsíkon, amely érintetlen természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.369869,
+                        42.98296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mramorje",
+                  "text": "Un vârf în munții Sinjajevina, parte a unui platou montan cu biodiversitate bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351874,
+                        43.007658
+                  ]
+            },
+            {
+                  "name": "Bandovak",
+                  "text": "Un vârf proeminent în regiunea Sinjajevina din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.304541,
+                        43.006169
+                  ]
+            },
+            {
+                  "name": "Kulina",
+                  "text": "Unul dintre vârfurile din vasta zonă de biodiversitate Sinjajevina.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306935,
+                        42.955028
+                  ]
+            },
+            {
+                  "name": "Goveđa glava",
+                  "text": "Un vârf montan care domină peisajul vast al zonei Sinjajevina.",
+                  "category": "landmark",
+                  "coords": [
+                        19.29803,
+                        42.960398
+                  ]
+            },
+            {
+                  "name": "Mali Pećarac",
+                  "text": "Un vârf muntos în nordul Muntenegrului, în cadrul masivului Sinjajevina.",
+                  "category": "landmark",
+                  "coords": [
+                        19.343454,
+                        42.973212
+                  ]
+            },
+            {
+                  "name": "Suvi Pećarac",
+                  "text": "Un vârf în zonele înalte din Sinjajevina, cunoscut pentru natura sa curată.",
+                  "category": "landmark",
+                  "coords": [
+                        19.369869,
+                        42.98296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mramorje",
+                  "text": "A peak in the Sinjajevina mountains, part of a biodiverse high plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351874,
+                        43.007658
+                  ]
+            },
+            {
+                  "name": "Bandovak",
+                  "text": "A prominent mountain peak in the Sinjajevina region of Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.304541,
+                        43.006169
+                  ]
+            },
+            {
+                  "name": "Kulina",
+                  "text": "One of the peaks within the extensive Sinjajevina biodiversity area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.306935,
+                        42.955028
+                  ]
+            },
+            {
+                  "name": "Goveđa glava",
+                  "text": "A mountain peak overlooking the wide landscape of Sinjajevina.",
+                  "category": "landmark",
+                  "coords": [
+                        19.29803,
+                        42.960398
+                  ]
+            },
+            {
+                  "name": "Mali Pećarac",
+                  "text": "A mountain peak in northern Montenegro within the Sinjajevina massif.",
+                  "category": "landmark",
+                  "coords": [
+                        19.343454,
+                        42.973212
+                  ]
+            },
+            {
+                  "name": "Suvi Pećarac",
+                  "text": "A peak in the Sinjajevina highlands known for its pristine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        19.369869,
+                        42.98296
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Biodiversität Sinjajevina", hu: "Sinjajevina biodiverzitás", ro: "Biodiversitatea Sinjajevina", en: "Sinjajevina Biodiversity Area" },
@@ -228,7 +1272,160 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-dajbabe-wetlands-life-v2.webp",
   },
   {
-    id: "montenegro-vjeternik-peak-life-v2",
+    id: "montenegro-vjeternik-peak-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Манастир Острог",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster in Montenegro, das eindrucksvoll in eine Felswand gebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        19.030471,
+                        42.674783
+                  ]
+            },
+            {
+                  "name": "FIAT ART ZONE Živa Voda Dabovići",
+                  "text": "Ein Veranstaltungsort für zeitgenössische Kunst und Theater in der Nähe des Ostrog-Klosters.",
+                  "category": "cultural",
+                  "coords": [
+                        19.016339,
+                        42.673601
+                  ]
+            },
+            {
+                  "name": "Uroseva glavica",
+                  "text": "Ein Gipfel im Naturgebiet Vjeternik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012637,
+                        42.695613
+                  ]
+            },
+            {
+                  "name": "Great (tiny) View of the Monastery",
+                  "text": "Aussichtspunkt mit Blick auf das Kloster im Naturgebiet Vjeternik.",
+                  "category": "natural",
+                  "coords": [
+                        19.027242,
+                        42.671034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Манастир Острог",
+                  "text": "Egy jelentős szerb ortodox kolostor Montenegróban, amely látványosan egy sziklafalba épült.",
+                  "category": "religious",
+                  "coords": [
+                        19.030471,
+                        42.674783
+                  ]
+            },
+            {
+                  "name": "FIAT ART ZONE Živa Voda Dabovići",
+                  "text": "Kortárs művészeti és színházi helyszín az Ostrog-kolostor közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.016339,
+                        42.673601
+                  ]
+            },
+            {
+                  "name": "Uroseva glavica",
+                  "text": "Hegycsúcs a Vjeternik természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012637,
+                        42.695613
+                  ]
+            },
+            {
+                  "name": "Great (tiny) View of the Monastery",
+                  "text": "Kilátópont a Vjeternik természetvédelmi területen, kilátással a kolostorra.",
+                  "category": "natural",
+                  "coords": [
+                        19.027242,
+                        42.671034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Манастир Острог",
+                  "text": "O mănăstire ortodoxă sârbă importantă din Muntenegru, construită spectaculos într-o stâncă.",
+                  "category": "religious",
+                  "coords": [
+                        19.030471,
+                        42.674783
+                  ]
+            },
+            {
+                  "name": "FIAT ART ZONE Živa Voda Dabovići",
+                  "text": "Un spațiu dedicat artei contemporane și teatrului, situat în apropierea mănăstirii Ostrog.",
+                  "category": "cultural",
+                  "coords": [
+                        19.016339,
+                        42.673601
+                  ]
+            },
+            {
+                  "name": "Uroseva glavica",
+                  "text": "Vârf montan în aria naturală Vjeternik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012637,
+                        42.695613
+                  ]
+            },
+            {
+                  "name": "Great (tiny) View of the Monastery",
+                  "text": "Punct de observație cu vedere spre mănăstire în aria naturală Vjeternik.",
+                  "category": "natural",
+                  "coords": [
+                        19.027242,
+                        42.671034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostrog Monastery",
+                  "text": "A major Serbian Orthodox monastery in Montenegro, impressively built into a vertical rock face.",
+                  "category": "religious",
+                  "coords": [
+                        19.030471,
+                        42.674783
+                  ]
+            },
+            {
+                  "name": "FIAT ART ZONE Živa Voda Dabovići",
+                  "text": "A venue for contemporary art and theatre located near the Ostrog Monastery.",
+                  "category": "cultural",
+                  "coords": [
+                        19.016339,
+                        42.673601
+                  ]
+            },
+            {
+                  "name": "Uroseva glavica",
+                  "text": "A mountain peak located within the Vjeternik Natural Area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012637,
+                        42.695613
+                  ]
+            },
+            {
+                  "name": "Great (tiny) View of the Monastery",
+                  "text": "Viewpoint offering views toward the monastery in the Vjeternik Natural Area.",
+                  "category": "natural",
+                  "coords": [
+                        19.027242,
+                        42.671034
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "ME",
     name: { de: "Vjeternik Naturraum", hu: "Vjeternik természeti térség", ro: "Rezervația naturală Vjeternik", en: "Vjeternik Natural Area" },
@@ -273,7 +1470,88 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-vjeternik-peak-life-v2.webp",
   },
   {
-    id: "montenegro-skadarsko-eco-life-v2",
+    id: "montenegro-skadarsko-eco-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lesendro",
+                  "text": "Eine Inselfestung im Skutarisee, die im 19. Jahrhundert eine strategische Rolle bei der Verteidigung spielte.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "Ein orthodoxes Kloster auf der Insel Vranjina, das im 13. Jahrhundert gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lesendro",
+                  "text": "Szigeterőd a Shkodrai-tavon, amely a 19. században stratégiai védelmi szerepet töltött be.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "Ortodox kolostor a Vranjina-szigeten, amelyet a 13. században alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lesendro",
+                  "text": "O fortăreață pe insulă în Lacul Skadar, care a jucat un rol strategic de apărare în secolul al XIX-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "O mănăstire ortodoxă pe insula Vranjina, fondată în secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lesendro",
+                  "text": "An island fortress in Lake Skadar that played a strategic defensive role in the 19th century.",
+                  "category": "fortress",
+                  "coords": [
+                        19.119716,
+                        42.271593
+                  ]
+            },
+            {
+                  "name": "Manastir Vranjina",
+                  "text": "An Orthodox monastery on Vranjina island, founded in the 13th century.",
+                  "category": "religious",
+                  "coords": [
+                        19.144185,
+                        42.271258
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Vranjina Vogelreservat", hu: "Vranjina madárrezervátum", ro: "Rezervația de păsări Vranjina", en: "Vranjina Bird Reserve" },
@@ -318,7 +1596,196 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-skadarsko-eco-life-v2.webp",
   },
   {
-    id: "montenegro-rumija-forest-life-v2", "sights": {"de": [{"name": "Veliki Pijesak", "text": "Veliki Pijesak liegt am Rand des Rumija-Waldes.", "category": "recreational", "coords": [19.142249, 42.034466]}, {"name": "Plaža David VIP", "text": "Eingebettet nahe den üppigen Wäldern des Rumija-Gebirges verspricht die Plaža David VIP ein exklusives Stranderlebnis in Montenegro. Der Kontrast zwischen den dichten Baumkronen und dem Wasser schafft eine herrliche Kulisse für Ruhesuchende. Besucher können sich auf ungestörte Bademomente und entspanntes Sonnenbaden freuen. Für die größte Erholung empfiehlt sich ein Ausflug unter der Woche.", "category": "recreational", "coords": [19.141855, 42.036092]}], "hu": [{"name": "Veliki Pijesak", "text": "Veliki Pijesak a Rumija-erdő szélén található.", "category": "recreational", "coords": [19.142249, 42.034466]}, {"name": "Plaža David VIP", "text": "A buja Rumija hegyi erdők közelében megbúvó Plaža David VIP exkluzív tengerparti élményt nyújt Montenegróban. A sűrű zöld fák és a hűsítő víz kontrasztja nyugodt környezetet teremt a pihenéshez. A vendégek békés úszásokra és csendes napozásra számíthatnak, távol a nagy tömegektől. Egy hétköznapi látogatás garantálja a maximális nyugalmat.", "category": "recreational", "coords": [19.141855, 42.036092]}], "ro": [{"name": "Veliki Pijesak", "text": "Veliki Pijesak este situată la marginea pădurii Rumija.", "category": "recreational", "coords": [19.142249, 42.034466]}, {"name": "Plaža David VIP", "text": "Situată aproape de pădurile luxuriante ale Munților Rumija, Plaža David VIP oferă o atmosferă exclusivistă pe coasta din Muntenegru. Contrastul dintre verdele intens al naturii și apele mării creează un cadru perfect pentru relaxare profundă. Oaspeții se pot bucura de sesiuni de înot în liniște și de momente de odihnă netulburate. O escapadă în timpul săptămânii este ideală pentru a evita aglomerația.", "category": "recreational", "coords": [19.141855, 42.036092]}], "en": [{"name": "Veliki Pijesak", "text": "Veliki Pijesak is situated by the Rumija Forest.", "category": "recreational", "coords": [19.142249, 42.034466]}, {"name": "Plaža David VIP", "text": "Nestled near the lush Rumija Mountain Forest, Plaža David VIP offers an exclusive coastal vibe in Montenegro. The contrast between the deep green woods and the clear waters creates a serene environment for relaxation. Guests can anticipate peaceful swimming sessions and quiet lounging away from large crowds. Planning a visit on a quiet weekday ensures maximum tranquility.", "category": "recreational", "coords": [19.141855, 42.036092]}]},
+    id: "montenegro-rumija-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak liegt am Rand des Rumija-Waldes.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Eingebettet nahe den üppigen Wäldern des Rumija-Gebirges verspricht die Plaža David VIP ein exklusives Stranderlebnis in Montenegro. Der Kontrast zwischen den dichten Baumkronen und dem Wasser schafft eine herrliche Kulisse für Ruhesuchende. Besucher können sich auf ungestörte Bademomente und entspanntes Sonnenbaden freuen. Für die größte Erholung empfiehlt sich ein Ausflug unter der Woche.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            },
+            {
+                  "name": "Stari grad Bar",
+                  "text": "Eine beeindruckende Festungsruine und ehemalige Stadt am Fuße des Rumija-Gebirges.",
+                  "category": "castle",
+                  "coords": [
+                        19.135464,
+                        42.093289
+                  ]
+            },
+            {
+                  "name": "Crvena Stijena",
+                  "text": "Ein für seine markanten roten Felsformationen bekannter Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        19.094723,
+                        42.071282
+                  ]
+            },
+            {
+                  "name": "Muzej Stari Bar",
+                  "text": "Museum zur Geschichte und Archäologie der alten Stadt Bar.",
+                  "category": "museum",
+                  "coords": [
+                        19.133233,
+                        42.092051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak a Rumija-erdő szélén található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "A buja Rumija hegyi erdők közelében megbúvó Plaža David VIP exkluzív tengerparti élményt nyújt Montenegróban. A sűrű zöld fák és a hűsítő víz kontrasztja nyugodt környezetet teremt a pihenéshez. A vendégek békés úszásokra és csendes napozásra számíthatnak, távol a nagy tömegektől. Egy hétköznapi látogatás garantálja a maximális nyugalmat.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            },
+            {
+                  "name": "Stari grad Bar",
+                  "text": "Látványos várrom és egykori város a Rumija-hegység lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        19.135464,
+                        42.093289
+                  ]
+            },
+            {
+                  "name": "Crvena Stijena",
+                  "text": "Jellegzetes vörös szikláiról ismert tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.094723,
+                        42.071282
+                  ]
+            },
+            {
+                  "name": "Muzej Stari Bar",
+                  "text": "Az egykori Bar városának történelmét és régészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.133233,
+                        42.092051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak este situată la marginea pădurii Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Situată aproape de pădurile luxuriante ale Munților Rumija, Plaža David VIP oferă o atmosferă exclusivistă pe coasta din Muntenegru. Contrastul dintre verdele intens al naturii și apele mării creează un cadru perfect pentru relaxare profundă. Oaspeții se pot bucura de sesiuni de înot în liniște și de momente de odihnă netulburate. O escapadă în timpul săptămânii este ideală pentru a evita aglomerația.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            },
+            {
+                  "name": "Stari grad Bar",
+                  "text": "O ruină impresionantă de cetate și fost oraș la poalele muntelui Rumija.",
+                  "category": "castle",
+                  "coords": [
+                        19.135464,
+                        42.093289
+                  ]
+            },
+            {
+                  "name": "Crvena Stijena",
+                  "text": "O plajă cunoscută pentru formațiunile sale stâncoase roșiatice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.094723,
+                        42.071282
+                  ]
+            },
+            {
+                  "name": "Muzej Stari Bar",
+                  "text": "Muzeu dedicat istoriei și arheologiei vechiului oraș Bar.",
+                  "category": "museum",
+                  "coords": [
+                        19.133233,
+                        42.092051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak is situated by the Rumija Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Nestled near the lush Rumija Mountain Forest, Plaža David VIP offers an exclusive coastal vibe in Montenegro. The contrast between the deep green woods and the clear waters creates a serene environment for relaxation. Guests can anticipate peaceful swimming sessions and quiet lounging away from large crowds. Planning a visit on a quiet weekday ensures maximum tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            },
+            {
+                  "name": "Old Bar Fortress",
+                  "text": "An impressive fortress ruin and former town at the foot of the Rumija mountain.",
+                  "category": "castle",
+                  "coords": [
+                        19.135464,
+                        42.093289
+                  ]
+            },
+            {
+                  "name": "Crvena Stijena",
+                  "text": "A beach known for its distinctive red rock formations.",
+                  "category": "recreational",
+                  "coords": [
+                        19.094723,
+                        42.071282
+                  ]
+            },
+            {
+                  "name": "Museum Stari Bar",
+                  "text": "Museum dedicated to the history and archaeology of the old town of Bar.",
+                  "category": "museum",
+                  "coords": [
+                        19.133233,
+                        42.092051
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Rumija Bergwald", hu: "Rumija hegyi erdő", ro: "Pădurea montană Rumija", en: "Rumija Mountain Forest" },
@@ -453,7 +1920,196 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-mrtvica-wildlife-life-v2.webp",
   },
   {
-    id: "montenegro-cicevo-forest-life-v2",
+    id: "montenegro-cicevo-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Marko Miljanov",
+                  "text": "Ein Museum, das dem Leben und Werk des montenegrinischen Schriftstellers Marko Miljanov gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.364803,
+                        42.470977
+                  ]
+            },
+            {
+                  "name": "Babina pećina",
+                  "text": "Ein natürlicher Höhleneingang im Gebiet des Eichenwaldes von Čičevo.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351467,
+                        42.52581
+                  ]
+            },
+            {
+                  "name": "Vruća pećina",
+                  "text": "Eine natürliche Höhlenöffnung in der zerklüfteten Landschaft bei Medun.",
+                  "category": "landmark",
+                  "coords": [
+                        19.360209,
+                        42.516194
+                  ]
+            },
+            {
+                  "name": "Medun",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegenden montenegrinischen Berge.",
+                  "category": "natural",
+                  "coords": [
+                        19.365827,
+                        42.470454
+                  ]
+            },
+            {
+                  "name": "Bunca",
+                  "text": "Überreste eines alten Bauwerks in der Nähe von Medun.",
+                  "category": "historical",
+                  "coords": [
+                        19.364937,
+                        42.530738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Marko Miljanov",
+                  "text": "Marko Miljanov montenegrói író életének és műveinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.364803,
+                        42.470977
+                  ]
+            },
+            {
+                  "name": "Babina pećina",
+                  "text": "Természetes barlangbejárat a Čičevo tölgyerdő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351467,
+                        42.52581
+                  ]
+            },
+            {
+                  "name": "Vruća pećina",
+                  "text": "Természetes barlangnyílás a Medun melletti sziklás vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        19.360209,
+                        42.516194
+                  ]
+            },
+            {
+                  "name": "Medun",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környező montenegrói hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        19.365827,
+                        42.470454
+                  ]
+            },
+            {
+                  "name": "Bunca",
+                  "text": "Egy régi építmény maradványai Medun közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.364937,
+                        42.530738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Marko Miljanov",
+                  "text": "Un muzeu dedicat vieții și operei scriitorului muntenegrean Marko Miljanov.",
+                  "category": "museum",
+                  "coords": [
+                        19.364803,
+                        42.470977
+                  ]
+            },
+            {
+                  "name": "Babina pećina",
+                  "text": "O intrare naturală în peșteră situată în zona pădurii de stejar Čičevo.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351467,
+                        42.52581
+                  ]
+            },
+            {
+                  "name": "Vruća pećina",
+                  "text": "O deschidere naturală de peșteră situată în peisajul accidentat de lângă Medun.",
+                  "category": "landmark",
+                  "coords": [
+                        19.360209,
+                        42.516194
+                  ]
+            },
+            {
+                  "name": "Medun",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra munților muntenegreni din jur.",
+                  "category": "natural",
+                  "coords": [
+                        19.365827,
+                        42.470454
+                  ]
+            },
+            {
+                  "name": "Bunca",
+                  "text": "Rămășițele unei structuri vechi situate în apropiere de Medun.",
+                  "category": "historical",
+                  "coords": [
+                        19.364937,
+                        42.530738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Marko Miljanov",
+                  "text": "A museum dedicated to the life and works of the Montenegrin writer Marko Miljanov.",
+                  "category": "museum",
+                  "coords": [
+                        19.364803,
+                        42.470977
+                  ]
+            },
+            {
+                  "name": "Babina pećina",
+                  "text": "A natural cave entrance located within the Čičevo Oak Forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.351467,
+                        42.52581
+                  ]
+            },
+            {
+                  "name": "Vruća pećina",
+                  "text": "A natural cave opening situated in the rugged landscape near Medun.",
+                  "category": "landmark",
+                  "coords": [
+                        19.360209,
+                        42.516194
+                  ]
+            },
+            {
+                  "name": "Medun",
+                  "text": "A scenic viewpoint offering panoramic vistas of the surrounding Montenegrin mountains.",
+                  "category": "natural",
+                  "coords": [
+                        19.365827,
+                        42.470454
+                  ]
+            },
+            {
+                  "name": "Bunca",
+                  "text": "Remains of an old structure located in the vicinity of Medun.",
+                  "category": "historical",
+                  "coords": [
+                        19.364937,
+                        42.530738
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Čičevo Eichenwald", hu: "Čičevo tölgyes", ro: "Pădurea de stejar Čičevo", en: "Čičevo Oak Forest" },
@@ -498,7 +2154,52 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-cicevo-forest-life-v2.webp",
   },
   {
-    id: "montenegro-zupa-wild-life-v2",
+    id: "montenegro-zupa-wild-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skorin vrh",
+                  "text": "Ein Berggipfel im Naturgebiet Župa mit Blick auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        19.155269,
+                        42.733293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skorin vrh",
+                  "text": "Hegycsúcs a Župa természetvédelmi területen, kilátással a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.155269,
+                        42.733293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skorin vrh",
+                  "text": "Un vârf montan în zona naturală Župa, oferind panorame asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.155269,
+                        42.733293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skorin vrh",
+                  "text": "A mountain peak in the Župa natural area offering scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        19.155269,
+                        42.733293
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Župa Naturgebiet", hu: "Župa természeti terület", ro: "Zona naturală Župa", en: "Župa Natural Area" },
@@ -858,7 +2559,304 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-bjelasica-forest-life-v2.webp",
   },
   {
-    id: "montenegro-durmitor-flora-life-v2",
+    id: "montenegro-durmitor-flora-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prutaš",
+                  "text": "Ein markanter Gipfel im Durmitor-Massiv, bekannt für seine einzigartigen horizontalen Felsschichten.",
+                  "category": "landmark",
+                  "coords": [
+                        19.001437,
+                        43.126741
+                  ]
+            },
+            {
+                  "name": "Planinica",
+                  "text": "Ein Gipfel im Durmitor-Nationalpark, der für seine alpine Flora und weite Aussichten geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020138,
+                        43.144512
+                  ]
+            },
+            {
+                  "name": "Ledena pećina",
+                  "text": "Eine berühmte Eishöhle im Durmitor-Gebirge, in der sich ganzjährig Stalagmiten aus Eis befinden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Crvena Greda",
+                  "text": "Eine markante Felswand und ein Gipfel im Durmitor, der über dem Jablan-See thront.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052339,
+                        43.160982
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "Ein felsiger Grat im Durmitor-Massiv, der Teil der beliebten Wanderrouten durch die Hochalpen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Ein Gipfel im Herzen des Durmitor-Nationalparks, umgeben von alpinen Wiesen und schroffen Felsen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "Ein hoher Berg im Durmitor-Nationalpark, der als einer der technisch anspruchsvolleren Gipfel gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Suvi klek",
+                  "text": "Ein Gipfel im Durmitor, der für seine reiche alpine Vegetation und vielfältige Flora bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.008205,
+                        43.148927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prutaš",
+                  "text": "A Durmitor-hegység jellegzetes csúcsa, amely egyedülálló vízszintes sziklarétegeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.001437,
+                        43.126741
+                  ]
+            },
+            {
+                  "name": "Planinica",
+                  "text": "A Durmitor Nemzeti Park egyik csúcsa, amely alpesi flórájáról és tágas kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020138,
+                        43.144512
+                  ]
+            },
+            {
+                  "name": "Ledena pećina",
+                  "text": "Híres jégbarlang a Durmitor-hegységben, ahol egész évben jégből álló sztalagmitok láthatóak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Crvena Greda",
+                  "text": "Jellegzetes sziklafal és csúcs a Durmitorban, amely a Jablan-tó fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052339,
+                        43.160982
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "Sziklás gerinc a Durmitor-hegységben, amely a népszerű magashegyi túraútvonalak része.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Csúcs a Durmitor Nemzeti Park szívében, alpesi rétekkel és zord sziklákkal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "Magas hegy a Durmitor Nemzeti Parkban, amelyet az egyik technikailag nehezebb csúcsnak tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Suvi klek",
+                  "text": "A Durmitor egyik csúcsa, amely gazdag alpesi növényzetéről és változatos flórájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.008205,
+                        43.148927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prutaš",
+                  "text": "Un vârf distinctiv din masivul Durmitor, cunoscut pentru straturile sale stâncoase orizontale unice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.001437,
+                        43.126741
+                  ]
+            },
+            {
+                  "name": "Planinica",
+                  "text": "Un vârf din Parcul Național Durmitor, apreciat pentru flora sa alpină și vederile panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020138,
+                        43.144512
+                  ]
+            },
+            {
+                  "name": "Ledena pećina",
+                  "text": "O celebră peșteră de gheață din munții Durmitor, unde stalagmitele de gheață se găsesc pe tot parcursul anului.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Crvena Greda",
+                  "text": "Un perete stâncos proeminent și un vârf din Durmitor, care domină lacul Jablan.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052339,
+                        43.160982
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "O creastă stâncoasă în masivul Durmitor, parte a rutelor populare de drumeție prin Alpii înalți.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Un vârf în inima Parcului Național Durmitor, înconjurat de pajiști alpine și stânci abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "Un munte înalt din Parcul Național Durmitor, considerat unul dintre vârfurile mai dificile din punct de vedere tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Suvi klek",
+                  "text": "Un vârf din Durmitor, cunoscut pentru vegetația sa alpină bogată și flora diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        19.008205,
+                        43.148927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prutaš",
+                  "text": "A distinctive peak in the Durmitor massif, known for its unique horizontal rock layers.",
+                  "category": "landmark",
+                  "coords": [
+                        19.001437,
+                        43.126741
+                  ]
+            },
+            {
+                  "name": "Planinica",
+                  "text": "A peak in the Durmitor National Park, valued for its alpine flora and wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020138,
+                        43.144512
+                  ]
+            },
+            {
+                  "name": "Ice cave",
+                  "text": "A famous ice cave in the Durmitor mountains, where ice stalagmites can be found year-round.",
+                  "category": "landmark",
+                  "coords": [
+                        19.049651,
+                        43.139613
+                  ]
+            },
+            {
+                  "name": "Crvena Greda",
+                  "text": "A prominent rock wall and peak in Durmitor, towering above the Jablan Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052339,
+                        43.160982
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "A rocky ridge in the Durmitor massif, part of the popular hiking routes through the high Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "A peak in the heart of the Durmitor National Park, surrounded by alpine meadows and rugged rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "A high mountain in the Durmitor National Park, considered one of the more technically challenging peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Suvi klek",
+                  "text": "A peak in Durmitor, known for its rich alpine vegetation and diverse flora.",
+                  "category": "landmark",
+                  "coords": [
+                        19.008205,
+                        43.148927
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "ME",
     name: { de: "Durmitor Alpine Flora", hu: "Durmitor alpesi flóra", ro: "Flora alpină Durmitor", en: "Durmitor Alpine Flora" },
@@ -903,7 +2901,232 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-durmitor-flora-life-v2.webp",
   },
   {
-    id: "montenegro-tara-canyon-wildlife-life-v2",
+    id: "montenegro-tara-canyon-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirlitor",
+                  "text": "Ein markanter Berggipfel mit Panoramablick auf das Gebiet des Tara-Canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234936,
+                        43.16332
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Ein malerischer Berggipfel im Naturschutzgebiet des Tara-Canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        19.210547,
+                        43.182784
+                  ]
+            },
+            {
+                  "name": "Vis",
+                  "text": "Ein prominenter Gipfel in der Region des Tara-Canyons, bekannt für seine Naturlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234839,
+                        43.21521
+                  ]
+            },
+            {
+                  "name": "Goli brijeg",
+                  "text": "Ein natürlicher Berggipfel auf dem Territorium des Tara-Canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        19.236984,
+                        43.198928
+                  ]
+            },
+            {
+                  "name": "Vilino kolo",
+                  "text": "Ein Berggipfel im Gebiet des Tara-Canyons, der für seine malerische Umgebung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276726,
+                        43.176462
+                  ]
+            },
+            {
+                  "name": "Lokvice",
+                  "text": "Ein Gipfel mit Ausblick auf die zerklüftete Landschaft der Tara-Canyon-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.249774,
+                        43.212692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirlitor",
+                  "text": "Jellegzetes hegycsúcs, amely panorámás kilátást nyújt a Tara-kanyon környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234936,
+                        43.16332
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Festői hegycsúcs a Tara-kanyon vadvédelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.210547,
+                        43.182784
+                  ]
+            },
+            {
+                  "name": "Vis",
+                  "text": "A Tara-kanyon régiójának egyik kiemelkedő csúcsa, amely természeti tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234839,
+                        43.21521
+                  ]
+            },
+            {
+                  "name": "Goli brijeg",
+                  "text": "Természetes hegycsúcs a Tara-kanyon vadvédelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.236984,
+                        43.198928
+                  ]
+            },
+            {
+                  "name": "Vilino kolo",
+                  "text": "Hegycsúcs a Tara-kanyon területén, amely szép környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276726,
+                        43.176462
+                  ]
+            },
+            {
+                  "name": "Lokvice",
+                  "text": "A Tara-kanyon régiójának zord tájára kilátást nyújtó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.249774,
+                        43.212692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirlitor",
+                  "text": "Un vârf montan proeminent care oferă vederi panoramice asupra zonei Canionului Tara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234936,
+                        43.16332
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Un vârf montan pitoresc situat în aria protejată a Canionului Tara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.210547,
+                        43.182784
+                  ]
+            },
+            {
+                  "name": "Vis",
+                  "text": "Un vârf proeminent din regiunea Canionului Tara, cunoscut pentru peisajul său natural.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234839,
+                        43.21521
+                  ]
+            },
+            {
+                  "name": "Goli brijeg",
+                  "text": "Un vârf montan natural situat în teritoriul sălbatic al Canionului Tara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.236984,
+                        43.198928
+                  ]
+            },
+            {
+                  "name": "Vilino kolo",
+                  "text": "Un vârf montan din zona Canionului Tara, cunoscut pentru împrejurimile sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276726,
+                        43.176462
+                  ]
+            },
+            {
+                  "name": "Lokvice",
+                  "text": "Un vârf ce oferă vederi asupra peisajului accidentat din regiunea Canionului Tara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.249774,
+                        43.212692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirlitor",
+                  "text": "A notable mountain peak offering scenic views of the Tara Canyon area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234936,
+                        43.16332
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "A scenic mountain peak located within the Tara Canyon Wildlife area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.210547,
+                        43.182784
+                  ]
+            },
+            {
+                  "name": "Vis",
+                  "text": "A prominent peak in the Tara Canyon region, popular for its natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.234839,
+                        43.21521
+                  ]
+            },
+            {
+                  "name": "Goli brijeg",
+                  "text": "A natural mountain peak situated in the Tara Canyon Wildlife territory.",
+                  "category": "landmark",
+                  "coords": [
+                        19.236984,
+                        43.198928
+                  ]
+            },
+            {
+                  "name": "Vilino kolo",
+                  "text": "A mountain peak in the Tara Canyon area known for its scenic surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        19.276726,
+                        43.176462
+                  ]
+            },
+            {
+                  "name": "Lokvice",
+                  "text": "A peak offering views of the rugged landscape in the Tara Canyon region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.249774,
+                        43.212692
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Tara-Schlucht Wildfauna", hu: "Tara-kanyon vadvilág", ro: "Fauna sălbatică Cheile Tara", en: "Tara Canyon Wildlife" },
@@ -993,7 +3216,232 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-kotor-bay-nature-life-v2.webp",
   },
   {
-    id: "montenegro-cetinje-botanical-life-v2",
+    id: "montenegro-cetinje-botanical-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster in der historischen Hauptstadt Montenegros.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Das Nationalmuseum von Montenegro, untergebracht im ehemaligen Regierungsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Ein Museum im ehemaligen Königspalast, das der Geschichte der Petrović-Dynastie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Die ehemalige Residenz von Petar II. Petrović-Njegoš, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Königliches Theater Zetski Dom",
+                  "text": "Ein historisches Theatergebäude in Cetinje, das als kulturelles Zentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Eine Freilichtbühne in Cetinje für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Jelentős szerb ortodox kolostor Montenegró történelmi fővárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Montenegró Nemzeti Múzeuma, amely az egykori kormányzati épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Az egykori királyi palotában berendezett múzeum a Petrović-dinasztia történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "II. Petar Petrović-Njegoš egykori rezidenciája, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "Történelmi színházépület Cetinjében, amely kulturális központként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Szabadtéri színpad Cetinjében kulturális események és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "O importantă mănăstire ortodoxă sârbă situată în capitala istorică a Muntenegrului.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Muzeul Național al Muntenegrului, găzduit în fosta clădire a guvernului.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Un muzeu situat în fostul palat regal, dedicat istoriei dinastiei Petrović.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Fosta reședință a lui Petar al II-lea Petrović-Njegoș, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "O clădire istorică de teatru din Cetinje, care servește drept centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "O scenă în aer liber în Cetinje pentru evenimente culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetinje Monastery",
+                  "text": "A significant Serbian Orthodox monastery in the historic capital of Montenegro.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Government House - National Museum of Montenegro",
+                  "text": "The National Museum of Montenegro, housed in the former government building.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Museum of King Nikola I Petrović",
+                  "text": "A museum located in the former royal palace, dedicated to the history of the Petrović dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "The former residence of Petar II Petrović-Njegoš, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Royal Theatre Zetski Dom",
+                  "text": "A historic theatre building in Cetinje that serves as a cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Summer stage",
+                  "text": "An open-air stage in Cetinje for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "ME",
     name: { de: "Botanische Gärten Cetinje", hu: "Cetinje botanikus kertek", ro: "Grădinile botanice Cetinje", en: "Cetinje Botanical Gardens" },
@@ -1038,7 +3486,304 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-cetinje-botanical-life-v2.webp",
   },
   {
-    id: "montenegro-durmitor-bear-life-v2",
+    id: "montenegro-durmitor-bear-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sedlena greda",
+                  "text": "Ein markanter Berggipfel im Durmitor-Massiv in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.053623,
+                        43.088034
+                  ]
+            },
+            {
+                  "name": "Stožina",
+                  "text": "Ein markanter, kegelförmiger Berggipfel im Durmitor-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        19.07934,
+                        43.093403
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Ein bekannter Gipfel im Durmitor-Gebirge, der auch als Skigebiet genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "Ein felsiger Berggipfel in der unberührten Natur des Durmitor-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Ein Berggipfel im Durmitor-Nationalpark in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "Einer der höchsten Gipfel des Durmitor-Massivs in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Ravnisava (Ranisava)",
+                  "text": "Ein Berggipfel im Durmitor-Gebirge, bekannt für seine raue Gebirgslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        19.072302,
+                        43.079613
+                  ]
+            },
+            {
+                  "name": "Štit",
+                  "text": "Ein markanter Berggipfel im Durmitor-Nationalpark in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.022361,
+                        43.118082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sedlena greda",
+                  "text": "Jellegzetes hegycsúcs a montenegrói Durmitor-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.053623,
+                        43.088034
+                  ]
+            },
+            {
+                  "name": "Stožina",
+                  "text": "Jellegzetes, kúp alakú hegycsúcs a Durmitor Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.07934,
+                        43.093403
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Népszerű csúcs a Durmitor-hegységben, amely síterepként is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "Sziklás hegycsúcs a Durmitor-hegység érintetlen természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Hegycsúcs a montenegrói Durmitor Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "A montenegrói Durmitor-hegység egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Ravnisava (Ranisava)",
+                  "text": "Hegycsúcs a Durmitor-hegységben, amely zord hegyi tájairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.072302,
+                        43.079613
+                  ]
+            },
+            {
+                  "name": "Štit",
+                  "text": "Jellegzetes hegycsúcs a montenegrói Durmitor Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.022361,
+                        43.118082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sedlena greda",
+                  "text": "Un vârf montan distinctiv în masivul Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.053623,
+                        43.088034
+                  ]
+            },
+            {
+                  "name": "Stožina",
+                  "text": "Un vârf montan conic proeminent în Parcul Național Durmitor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.07934,
+                        43.093403
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "Un vârf cunoscut în munții Durmitor, utilizat și ca domeniu schiabil.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "Un vârf montan stâncos în natura sălbatică a masivului Durmitor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "Un vârf montan în Parcul Național Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "Unul dintre cele mai înalte vârfuri din masivul Durmitor, Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Ravnisava (Ranisava)",
+                  "text": "Un vârf montan în munții Durmitor, cunoscut pentru peisajul său alpin accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.072302,
+                        43.079613
+                  ]
+            },
+            {
+                  "name": "Štit",
+                  "text": "Un vârf montan proeminent în Parcul Național Durmitor din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.022361,
+                        43.118082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sedlena greda",
+                  "text": "A distinctive mountain peak located within the Durmitor massif in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.053623,
+                        43.088034
+                  ]
+            },
+            {
+                  "name": "Stožina",
+                  "text": "A prominent cone-shaped mountain peak in the Durmitor National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        19.07934,
+                        43.093403
+                  ]
+            },
+            {
+                  "name": "Savin kuk",
+                  "text": "A well-known peak in the Durmitor mountains, also popular for skiing.",
+                  "category": "landmark",
+                  "coords": [
+                        19.080852,
+                        43.122699
+                  ]
+            },
+            {
+                  "name": "Uvita greda",
+                  "text": "A rocky mountain peak situated in the wild nature of the Durmitor massif.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052002,
+                        43.104668
+                  ]
+            },
+            {
+                  "name": "Bandijerna",
+                  "text": "A mountain peak located within the Durmitor National Park in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.051661,
+                        43.116674
+                  ]
+            },
+            {
+                  "name": "Bezimeni vrh",
+                  "text": "One of the highest mountain peaks in the Durmitor massif of Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.032033,
+                        43.131894
+                  ]
+            },
+            {
+                  "name": "Ravnisava (Ranisava)",
+                  "text": "A mountain peak in the Durmitor range, known for its rugged alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        19.072302,
+                        43.079613
+                  ]
+            },
+            {
+                  "name": "Štit",
+                  "text": "A prominent mountain peak in the Durmitor National Park in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.022361,
+                        43.118082
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Durmitor Wildtier-Habitat", hu: "Durmitor vadvilág élőhely", ro: "Habitatul faunei sălbatice Durmitor", en: "Durmitor Wildlife Habitat" },
@@ -1128,7 +3873,160 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-valdanos-olive-life-v2.webp",
   },
   {
-    id: "montenegro-komovi-alpine-life-v2",
+    id: "montenegro-komovi-alpine-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rogamski vrh",
+                  "text": "Ein Berggipfel im Komovi-Massiv, bekannt für seine alpinen Wiesen und Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        19.632394,
+                        42.676245
+                  ]
+            },
+            {
+                  "name": "Kom Kučki",
+                  "text": "Einer der höchsten und markantesten Gipfel des Komovi-Gebirges in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.641646,
+                        42.680634
+                  ]
+            },
+            {
+                  "name": "Rogam",
+                  "text": "Ein Berggipfel in der Komovi-Region, der Teil einer geschützten Gebirgslandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.624597,
+                        42.686582
+                  ]
+            },
+            {
+                  "name": "Vidikovac Varda",
+                  "text": "Ein Aussichtspunkt in der Nähe des Varda-Berges mit Panoramablick auf das Komovi-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        19.68439,
+                        42.689232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rogamski vrh",
+                  "text": "Hegycsúcs a Komovi-masszívumban, amely alpesi rétjeiről és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.632394,
+                        42.676245
+                  ]
+            },
+            {
+                  "name": "Kom Kučki",
+                  "text": "Montenegró Komovi-hegységének egyik legmagasabb és legjellegzetesebb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.641646,
+                        42.680634
+                  ]
+            },
+            {
+                  "name": "Rogam",
+                  "text": "Hegycsúcs a Komovi régióban, amely egy védett hegyi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        19.624597,
+                        42.686582
+                  ]
+            },
+            {
+                  "name": "Vidikovac Varda",
+                  "text": "Kilátópont a Varda-hegy közelében, panorámás kilátással a Komovi-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        19.68439,
+                        42.689232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rogamski vrh",
+                  "text": "Un vârf montan din masivul Komovi, cunoscut pentru pajiștile alpine și traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        19.632394,
+                        42.676245
+                  ]
+            },
+            {
+                  "name": "Kom Kučki",
+                  "text": "Unul dintre cele mai înalte și spectaculoase vârfuri ale munților Komovi din Muntenegru.",
+                  "category": "landmark",
+                  "coords": [
+                        19.641646,
+                        42.680634
+                  ]
+            },
+            {
+                  "name": "Rogam",
+                  "text": "Un vârf montan din regiunea Komovi, parte a unui peisaj montan protejat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.624597,
+                        42.686582
+                  ]
+            },
+            {
+                  "name": "Vidikovac Varda",
+                  "text": "Un punct de belvedere lângă muntele Varda, oferind vederi panoramice asupra masivului Komovi.",
+                  "category": "natural",
+                  "coords": [
+                        19.68439,
+                        42.689232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rogamski vrh",
+                  "text": "A mountain peak in the Komovi massif, known for its alpine meadows and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        19.632394,
+                        42.676245
+                  ]
+            },
+            {
+                  "name": "Kom Kučki",
+                  "text": "One of the highest and most striking peaks of the Komovi mountains in Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        19.641646,
+                        42.680634
+                  ]
+            },
+            {
+                  "name": "Rogam",
+                  "text": "A mountain peak in the Komovi region, part of a protected mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.624597,
+                        42.686582
+                  ]
+            },
+            {
+                  "name": "Vidikovac Varda",
+                  "text": "A viewpoint near Varda mountain offering panoramic views of the Komovi massif.",
+                  "category": "natural",
+                  "coords": [
+                        19.68439,
+                        42.689232
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ME",
     name: { de: "Komovi Almen-Flora", hu: "Komovi havasi flóra", ro: "Flora pășunilor alpine Komovi", en: "Komovi Alpine Meadow Flora" },
@@ -1173,7 +4071,232 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-komovi-alpine-life-v2.webp",
   },
   {
-    id: "montenegro-cetinje-cave-life-v2",
+    id: "montenegro-cetinje-cave-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Ein historisches serbisch-orthodoxes Kloster und ein wichtiges geistliches Zentrum in Montenegro.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Der ehemalige Regierungssitz in Cetinje, in dem heute ein Teil des Nationalmuseums untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Die ehemalige Residenz von König Nikola I. Petrović, heute ein Museum in Cetinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Die ehemalige Residenz von Petar II. Petrović-Njegoš, benannt nach dem ersten Billardtisch des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Königliches Theater Zetski Dom",
+                  "text": "Das älteste professionelle Theater in Montenegro in der historischen Hauptstadt Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Ein Veranstaltungsort unter freiem Himmel für kulturelle Aufführungen in Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "Történelmi szerb ortodox kolostor és fontos szellemi központ Montenegróban.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Cetinje egykori kormányzati székhelye, ma a Nemzeti Múzeum részének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "I. Nikola Petrović király egykori rezidenciája, ma múzeum Cetinjében.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "II. Petar Petrović-Njegoš egykori rezidenciája, amely az ország első biliárdasztaláról kapta a nevét.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "Montenegró legrégebbi professzionális színháza Cetinje történelmi fővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "Szabadtéri helyszín kulturális előadások számára Cetinjében.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetinjski Manastir",
+                  "text": "O mănăstire ortodoxă sârbă istorică și un centru spiritual major din Muntenegru.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Vladin dom - Narodni muzej Crne Gore",
+                  "text": "Fostul sediu al guvernului din Cetinje, care găzduiește acum o parte a Muzeului Național.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Muzej Kralja Nikole",
+                  "text": "Fosta reședință a regelui Nicolae I Petrović, acum un muzeu în Cetinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "Fosta reședință a lui Petar al II-lea Petrović-Njegoš, numită după prima masă de biliard din țară.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Kraljevsko Pozorište Zetski Dom",
+                  "text": "Cel mai vechi teatru profesionist din Muntenegru, situat în capitala istorică Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Ljetnja pozornica",
+                  "text": "O locație în aer liber pentru spectacole culturale în Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetinje Monastery",
+                  "text": "A historic Serbian Orthodox monastery and a major spiritual center in Montenegro.",
+                  "category": "religious",
+                  "coords": [
+                        18.921819,
+                        42.387837
+                  ]
+            },
+            {
+                  "name": "Government House - National Museum of Montenegro",
+                  "text": "The former seat of government in Cetinje, now housing part of the National Museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.922877,
+                        42.38926
+                  ]
+            },
+            {
+                  "name": "Museum of King Nikola I Petrović",
+                  "text": "The former residence of King Nikola I Petrović, now a museum in Cetinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.924431,
+                        42.387491
+                  ]
+            },
+            {
+                  "name": "Biljarda",
+                  "text": "The former residence of Petar II Petrović-Njegoš, named after the country's first billiard table.",
+                  "category": "museum",
+                  "coords": [
+                        18.923008,
+                        42.387819
+                  ]
+            },
+            {
+                  "name": "Royal Theatre Zetski Dom",
+                  "text": "The oldest professional theatre in Montenegro, located in the historic capital of Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.926905,
+                        42.388632
+                  ]
+            },
+            {
+                  "name": "Summer stage",
+                  "text": "An open-air venue for cultural performances in Cetinje.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92083,
+                        42.384515
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ME",
     name: { de: "Höhlen-Ökosystem bei Cetinje", hu: "Barlangi ökoszisztéma Cetinje közelében", ro: "Ecosistemul peșterilor lângă Cetinje", en: "Cave Ecosystem near Cetinje" },
@@ -1263,7 +4386,88 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-adabo-wildlife-life-v2.webp",
   },
   {
-    id: "montenegro-kucka-korita-flora-life-v2",
+    id: "montenegro-kucka-korita-flora-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šoćnora",
+                  "text": "Ein Höhleneingang in den malerischen Bergwiesen von Kučka Korita.",
+                  "category": "landmark",
+                  "coords": [
+                        19.45155,
+                        42.469617
+                  ]
+            },
+            {
+                  "name": "Jama Mušova",
+                  "text": "Ein Höhleneingang in den Bergwiesen von Kučka Korita.",
+                  "category": "landmark",
+                  "coords": [
+                        19.462046,
+                        42.471523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šoćnora",
+                  "text": "Barlangbejárat Kučka Korita festői hegyi rétjein.",
+                  "category": "landmark",
+                  "coords": [
+                        19.45155,
+                        42.469617
+                  ]
+            },
+            {
+                  "name": "Jama Mušova",
+                  "text": "Barlangbejárat a Kučka Korita hegyi legelőkön.",
+                  "category": "landmark",
+                  "coords": [
+                        19.462046,
+                        42.471523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šoćnora",
+                  "text": "O intrare în peșteră situată în pajiștile montane pitorești din Kučka Korita.",
+                  "category": "landmark",
+                  "coords": [
+                        19.45155,
+                        42.469617
+                  ]
+            },
+            {
+                  "name": "Jama Mušova",
+                  "text": "O intrare în peșteră în pajiștile montane Kučka Korita.",
+                  "category": "landmark",
+                  "coords": [
+                        19.462046,
+                        42.471523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šoćnora",
+                  "text": "A cave entrance located in the scenic mountain meadows of Kučka Korita.",
+                  "category": "landmark",
+                  "coords": [
+                        19.45155,
+                        42.469617
+                  ]
+            },
+            {
+                  "name": "Jama Mušova",
+                  "text": "A cave entrance located in the Kučka Korita mountain meadows.",
+                  "category": "landmark",
+                  "coords": [
+                        19.462046,
+                        42.471523
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "ME",
     name: { de: "Kučka Korita Bergwiesen", hu: "Kučka Korita hegyi rétek", ro: "Pajiștile montane Kučka Korita", en: "Kučka Korita Mountain Meadows" },

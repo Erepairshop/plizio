@@ -68,7 +68,88 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "jabal-al-akra-relief-v2",
+    id: "jabal-al-akra-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal al Aqra`",
+                  "text": "Ein antiker heiliger Berg an der türkisch-syrischen Grenze, auch bekannt als Berg Casius.",
+                  "category": "landmark",
+                  "coords": [
+                        35.969156,
+                        35.95203
+                  ]
+            },
+            {
+                  "name": "Barlaham Manastırı",
+                  "text": "Die Ruinen eines byzantinischen Klosters auf den Hängen des Berges Casius.",
+                  "category": "historical",
+                  "coords": [
+                        35.993215,
+                        35.947851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kel Dağı",
+                  "text": "Ókori szent hegy a török-szír határon, más néven Kasziusz-hegy.",
+                  "category": "landmark",
+                  "coords": [
+                        35.969156,
+                        35.95203
+                  ]
+            },
+            {
+                  "name": "Barlaham Manastırı",
+                  "text": "Egy bizánci kolostor romjai a Kasziusz-hegy lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        35.993215,
+                        35.947851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kel Dağı",
+                  "text": "Un munte sfânt antic la granița turco-siriană, cunoscut și sub numele de Muntele Casius.",
+                  "category": "landmark",
+                  "coords": [
+                        35.969156,
+                        35.95203
+                  ]
+            },
+            {
+                  "name": "Barlaham Manastırı",
+                  "text": "Ruinele unei mănăstiri bizantine situate pe pantele Muntelui Casius.",
+                  "category": "historical",
+                  "coords": [
+                        35.993215,
+                        35.947851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal al Aqra`",
+                  "text": "An ancient sacred mountain on the Turkish-Syrian border, also known as Mount Casius.",
+                  "category": "landmark",
+                  "coords": [
+                        35.969156,
+                        35.95203
+                  ]
+            },
+            {
+                  "name": "Barlum Monastery",
+                  "text": "The ruins of a Byzantine monastery located on the slopes of Mount Casius.",
+                  "category": "historical",
+                  "coords": [
+                        35.993215,
+                        35.947851
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-LA",
     coords: [35.966667, 35.95],
@@ -140,7 +221,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "kurd-dagh-relief-v2",
+    id: "kurd-dagh-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hawar Castle",
+                  "text": "Eine historische Burgruine in den Kurd-Bergen.",
+                  "category": "castle",
+                  "coords": [
+                        36.774689,
+                        36.653183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawar Castle",
+                  "text": "Történelmi várrom a Kurd-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        36.774689,
+                        36.653183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawar Castle",
+                  "text": "O ruină istorică de castel în Munții Kurzi.",
+                  "category": "castle",
+                  "coords": [
+                        36.774689,
+                        36.653183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawar castle",
+                  "text": "A historic castle ruin located in the Kurd Mountains.",
+                  "category": "castle",
+                  "coords": [
+                        36.774689,
+                        36.653183
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-HL",
     coords: [36.75, 36.666667],

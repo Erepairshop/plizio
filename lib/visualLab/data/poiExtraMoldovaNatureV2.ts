@@ -97,7 +97,160 @@ export const moldovaNatureV2: POI[] = [
     },
   },
     {
-    id: "moldova-balanesti-hill-nature-v2",
+    id: "moldova-balanesti-hill-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervația peisagistică Cazimir–Milești",
+                  "text": "Ein geschütztes Landschaftsreservat in der Nähe des Hügels Bălănești.",
+                  "category": "natural",
+                  "coords": [
+                        28.072663,
+                        47.226061
+                  ]
+            },
+            {
+                  "name": "Dealul Bălănești",
+                  "text": "Mit 429 Metern der höchste Punkt der Republik Moldau.",
+                  "category": "landmark",
+                  "coords": [
+                        28.083338,
+                        47.216911
+                  ]
+            },
+            {
+                  "name": "Parcul din satul Milești",
+                  "text": "Ein dendrologischer Park und Denkmal der Landschaftsarchitektur im Dorf Milești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.042082,
+                        47.213546
+                  ]
+            },
+            {
+                  "name": "Zonă afectată de eroziune",
+                  "text": "Ein geologisch interessantes Gebiet nahe dem Bălănești-Hügel, das durch Erosion geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.106542,
+                        47.209908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervația peisagistică Cazimir–Milești",
+                  "text": "Védett tájvédelmi körzet a Bălănești-domb közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.072663,
+                        47.226061
+                  ]
+            },
+            {
+                  "name": "Dealul Bălănești",
+                  "text": "Moldávia legmagasabb pontja, tengerszint feletti magassága 429 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        28.083338,
+                        47.216911
+                  ]
+            },
+            {
+                  "name": "Parcul din satul Milești",
+                  "text": "Dendrológiai park és tájépítészeti műemlék Milești faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.042082,
+                        47.213546
+                  ]
+            },
+            {
+                  "name": "Zonă afectată de eroziune",
+                  "text": "Geológiailag érdekes, erózió által formált terület a Bălănești-domb közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.106542,
+                        47.209908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervația peisagistică Cazimir–Milești",
+                  "text": "O rezervație peisagistică protejată situată în apropierea dealului Bălănești.",
+                  "category": "natural",
+                  "coords": [
+                        28.072663,
+                        47.226061
+                  ]
+            },
+            {
+                  "name": "Dealul Bălănești",
+                  "text": "Cel mai înalt punct din Republica Moldova, având o altitudine de 429 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        28.083338,
+                        47.216911
+                  ]
+            },
+            {
+                  "name": "Parcul din satul Milești",
+                  "text": "Un parc dendrologic monument de arhitectură peisagistică în satul Milești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.042082,
+                        47.213546
+                  ]
+            },
+            {
+                  "name": "Zonă afectată de eroziune",
+                  "text": "O zonă de interes geologic situată lângă dealul Bălănești, marcată de eroziune.",
+                  "category": "landmark",
+                  "coords": [
+                        28.106542,
+                        47.209908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervația peisagistică Cazimir–Milești",
+                  "text": "A protected landscape reserve located near the Bălănești Hill.",
+                  "category": "natural",
+                  "coords": [
+                        28.072663,
+                        47.226061
+                  ]
+            },
+            {
+                  "name": "Bălănești Hill",
+                  "text": "The highest point in Moldova, reaching an elevation of 429 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.083338,
+                        47.216911
+                  ]
+            },
+            {
+                  "name": "Parcul din satul Milești",
+                  "text": "A dendrological park and monument of landscape architecture in Milești village.",
+                  "category": "landmark",
+                  "coords": [
+                        28.042082,
+                        47.213546
+                  ]
+            },
+            {
+                  "name": "Zonă afectată de eroziune",
+                  "text": "A geologically interesting area near the Bălănești Hill shaped by erosion.",
+                  "category": "landmark",
+                  "coords": [
+                        28.106542,
+                        47.209908
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "peak",
     name: { de: "Bălănești-Hügel", hu: "Bălănești-domb", ro: "Dealul Bălănești", en: "Balanesti Hill"},
@@ -190,7 +343,304 @@ export const moldovaNatureV2: POI[] = [
     },
   },
   {
-    id: "moldova-nistru-river-nature-v2",
+    id: "moldova-nistru-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascadă",
+                  "text": "Ein natürlicher Wasserfall am Fluss Dnister, der die Schönheit der Flusslandschaft unterstreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        29.083638,
+                        47.398504
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "Ein malerischer Abschnitt des Dnister-Tals, bekannt für seine beeindruckende Natur und Ruhe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.063877,
+                        47.421365
+                  ]
+            },
+            {
+                  "name": "Izvoare",
+                  "text": "Natürliche Quellen am Fluss Dnister, die ein beliebtes Ziel für Wanderer und Naturfreunde sind.",
+                  "category": "landmark",
+                  "coords": [
+                        29.071442,
+                        47.419802
+                  ]
+            },
+            {
+                  "name": "Delileul Scoc",
+                  "text": "Eine beeindruckende Felsschlucht am Fluss Dnister, die durch geologische Prozesse geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        29.085838,
+                        47.397911
+                  ]
+            },
+            {
+                  "name": "Un val cu șanț",
+                  "text": "Ein historischer Verteidigungswall mit Graben am Ufer des Dnister.",
+                  "category": "landmark",
+                  "coords": [
+                        29.138352,
+                        47.386337
+                  ]
+            },
+            {
+                  "name": "Cruce",
+                  "text": "Ein am Dnister errichtetes Kreuz, das als lokales Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095769,
+                        47.365229
+                  ]
+            },
+            {
+                  "name": "Fortificație (Linia Stalin)",
+                  "text": "Teil der historischen Stalin-Linie, bestehend aus Befestigungsanlagen am Dnister.",
+                  "category": "landmark",
+                  "coords": [
+                        29.116806,
+                        47.395405
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Ein alter Friedhof in der Nähe des Dnister mit historischen Grabstätten.",
+                  "category": "landmark",
+                  "coords": [
+                        29.110419,
+                        47.386037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascadă",
+                  "text": "Természetes vízesés a Dnyeszter folyón, amely kiemeli a folyóparti táj szépségét.",
+                  "category": "landmark",
+                  "coords": [
+                        29.083638,
+                        47.398504
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "A Dnyeszter-völgy festői szakasza, amely lenyűgöző természetéről és nyugalmáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.063877,
+                        47.421365
+                  ]
+            },
+            {
+                  "name": "Izvoare",
+                  "text": "Természetes források a Dnyeszter folyónál, amelyek népszerű úti célok a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        29.071442,
+                        47.419802
+                  ]
+            },
+            {
+                  "name": "Delileul Scoc",
+                  "text": "Lenyűgöző sziklaszoros a Dnyeszter folyónál, amelyet geológiai folyamatok formáltak.",
+                  "category": "landmark",
+                  "coords": [
+                        29.085838,
+                        47.397911
+                  ]
+            },
+            {
+                  "name": "Un val cu șanț",
+                  "text": "Történelmi védmű és árok a Dnyeszter folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.138352,
+                        47.386337
+                  ]
+            },
+            {
+                  "name": "Cruce",
+                  "text": "A Dnyeszter partján felállított kereszt, amely helyi nevezetesség.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095769,
+                        47.365229
+                  ]
+            },
+            {
+                  "name": "Fortificație (Linia Stalin)",
+                  "text": "A történelmi Sztálin-vonal része, erődítmények a Dnyeszter mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        29.116806,
+                        47.395405
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Régi temető a Dnyeszter közelében, történelmi sírhelyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        29.110419,
+                        47.386037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascadă",
+                  "text": "O cascadă naturală pe râul Nistru, care subliniază frumusețea peisajului fluvial.",
+                  "category": "landmark",
+                  "coords": [
+                        29.083638,
+                        47.398504
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "O secțiune pitorească a văii Nistrului, cunoscută pentru natura sa impresionantă și liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        29.063877,
+                        47.421365
+                  ]
+            },
+            {
+                  "name": "Izvoare",
+                  "text": "Izvoare naturale pe râul Nistru, care sunt o destinație populară pentru drumeți și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        29.071442,
+                        47.419802
+                  ]
+            },
+            {
+                  "name": "Delileul Scoc",
+                  "text": "Un defileu stâncos impresionant pe râul Nistru, format prin procese geologice.",
+                  "category": "landmark",
+                  "coords": [
+                        29.085838,
+                        47.397911
+                  ]
+            },
+            {
+                  "name": "Un val cu șanț",
+                  "text": "Un val de apărare istoric cu șanț situat pe malul Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        29.138352,
+                        47.386337
+                  ]
+            },
+            {
+                  "name": "Cruce",
+                  "text": "O cruce ridicată pe malul Nistrului, servind ca punct de interes local.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095769,
+                        47.365229
+                  ]
+            },
+            {
+                  "name": "Fortificație (Linia Stalin)",
+                  "text": "Parte a liniei istorice Stalin, constând în fortificații de-a lungul Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        29.116806,
+                        47.395405
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Un cimitir vechi lângă Nistru, cuprinzând morminte istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        29.110419,
+                        47.386037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascadă",
+                  "text": "A natural waterfall on the Dniester River, highlighting the beauty of the river landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        29.083638,
+                        47.398504
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "A scenic section of the Dniester valley, known for its impressive nature and tranquility.",
+                  "category": "landmark",
+                  "coords": [
+                        29.063877,
+                        47.421365
+                  ]
+            },
+            {
+                  "name": "Izvoare",
+                  "text": "Natural springs along the Dniester River, which are a popular destination for hikers and nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        29.071442,
+                        47.419802
+                  ]
+            },
+            {
+                  "name": "Delileul Scoc",
+                  "text": "An impressive rocky canyon along the Dniester River, formed by geological processes.",
+                  "category": "landmark",
+                  "coords": [
+                        29.085838,
+                        47.397911
+                  ]
+            },
+            {
+                  "name": "Un val cu șanț",
+                  "text": "A historical defensive rampart and ditch located along the banks of the Dniester River.",
+                  "category": "landmark",
+                  "coords": [
+                        29.138352,
+                        47.386337
+                  ]
+            },
+            {
+                  "name": "Cruce",
+                  "text": "A cross erected on the banks of the Dniester River, serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        29.095769,
+                        47.365229
+                  ]
+            },
+            {
+                  "name": "Fortificație (Linia Stalin)",
+                  "text": "Part of the historical Stalin Line, consisting of fortifications along the Dniester River.",
+                  "category": "landmark",
+                  "coords": [
+                        29.116806,
+                        47.395405
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "An old cemetery near the Dniester River featuring historical burial sites.",
+                  "category": "landmark",
+                  "coords": [
+                        29.110419,
+                        47.386037
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "river",
     name: { de: "Fluss Dnjestr", hu: "Dnyeszter-folyó", ro: "Fluviul Nistru", en: "Dniester River"},
@@ -563,7 +1013,160 @@ export const moldovaNatureV2: POI[] = [
     },
   },
   {
-    id: "moldova-trinca-gorge-nature-v2",
+    id: "moldova-trinca-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Defileul Trinca",
+                  "text": "Ein Naturschutzgebiet in Moldawien, bekannt für seine beeindruckenden Kalksteinfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.100815,
+                        48.203
+                  ]
+            },
+            {
+                  "name": "Grotele Trinca",
+                  "text": "Natürliche Höhlen in der Trinca-Schlucht, die von geologischem Interesse sind.",
+                  "category": "landmark",
+                  "coords": [
+                        27.104573,
+                        48.204768
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Historische Befestigungsanlagen in der Nähe der Trinca-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Eine alte Begräbnisstätte mit historischer Bedeutung in der Region der Trinca-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        27.102265,
+                        48.206789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Defileul Trinca",
+                  "text": "Természetvédelmi terület Moldovában, amely lenyűgöző mészkőszikláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.100815,
+                        48.203
+                  ]
+            },
+            {
+                  "name": "Grotele Trinca",
+                  "text": "Természetes barlangok a Trinca-szurdokban, amelyek geológiai jelentőséggel bírnak.",
+                  "category": "landmark",
+                  "coords": [
+                        27.104573,
+                        48.204768
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Történelmi védművek maradványai a Trinca-szurdok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Régi temető történelmi jelentőséggel a Trinca-szurdok régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.102265,
+                        48.206789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Defileul Trinca",
+                  "text": "O rezervație naturală din Moldova, cunoscută pentru stâncile sale calcaroase impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        27.100815,
+                        48.203
+                  ]
+            },
+            {
+                  "name": "Grotele Trinca",
+                  "text": "Grote naturale situate în defileul Trinca, de interes geologic.",
+                  "category": "landmark",
+                  "coords": [
+                        27.104573,
+                        48.204768
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Vestigii ale unor fortificații istorice situate în apropierea defileului Trinca.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "Un vechi loc de mormânt cu semnificație istorică în regiunea defileului Trinca.",
+                  "category": "landmark",
+                  "coords": [
+                        27.102265,
+                        48.206789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Defileul Trinca",
+                  "text": "A natural reserve in Moldova known for its impressive limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        27.100815,
+                        48.203
+                  ]
+            },
+            {
+                  "name": "Grotele Trinca",
+                  "text": "Natural caves located in the Trinca Gorge, of geological interest.",
+                  "category": "landmark",
+                  "coords": [
+                        27.104573,
+                        48.204768
+                  ]
+            },
+            {
+                  "name": "Șanț de apărare",
+                  "text": "Historical defensive earthworks located near the Trinca Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        27.105653,
+                        48.202143
+                  ]
+            },
+            {
+                  "name": "Cimitirul vechi",
+                  "text": "An old burial site with historical significance in the Trinca Gorge region.",
+                  "category": "landmark",
+                  "coords": [
+                        27.102265,
+                        48.206789
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "valley",
     name: { de: "Trinca-Schlucht", hu: "Trinca-szurdok", ro: "Defileul Trinca", en: "Trinca Gorge"},
@@ -891,7 +1494,52 @@ export const moldovaNatureV2: POI[] = [
     },
   },
   {
-    id: "moldova-botna-river-nature-v2",
+    id: "moldova-botna-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clădire veche (probabil sec. XIX)",
+                  "text": "Ein historisches Gebäude am Botna-Fluss, das vermutlich aus dem 19. Jahrhundert stammt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.86855,
+                        46.824953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clădire veche (probabil sec. XIX)",
+                  "text": "Történelmi épület a Botna-folyónál, amely valószínűleg a 19. századból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.86855,
+                        46.824953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clădire veche (probabil sec. XIX)",
+                  "text": "O clădire istorică pe râul Botna, datând probabil din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        28.86855,
+                        46.824953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clădire veche (probabil sec. XIX)",
+                  "text": "A historical building on the Botna River, likely dating back to the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        28.86855,
+                        46.824953
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "river",
     name: { de: "Fluss Botna", hu: "Botna-folyó", ro: "Râul Botna", en: "Botna River"},
@@ -1305,7 +1953,88 @@ export const moldovaNatureV2: POI[] = [
     },
   },
   {
-    id: "moldova-zloti-forest-nature-v2",
+    id: "moldova-zloti-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Sfântului Ilie",
+                  "text": "Ein interessantes Ausflugsziel im Naturschutzgebiet Zloți, das mit lokaler Geschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.939978,
+                        46.706269
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec.XIX)",
+                  "text": "Ein historischer Wasserturm aus dem 19. Jahrhundert im Bereich des Naturschutzgebiets Zloți.",
+                  "category": "landmark",
+                  "coords": [
+                        28.896091,
+                        46.695857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetatea Sfântului Ilie",
+                  "text": "Érdekes kirándulóhely a Zloți természetvédelmi területen, amely a helyi történelemhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.939978,
+                        46.706269
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec.XIX)",
+                  "text": "Történelmi víztorony a 19. századból a Zloți természetvédelmi terület környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.896091,
+                        46.695857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Sfântului Ilie",
+                  "text": "O destinație turistică interesantă în Rezervația Naturală Zloți, legată de istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.939978,
+                        46.706269
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec.XIX)",
+                  "text": "Un turn de apă istoric din secolul al XIX-lea, situat în zona Rezervației Naturale Zloți.",
+                  "category": "landmark",
+                  "coords": [
+                        28.896091,
+                        46.695857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetatea Sfântului Ilie",
+                  "text": "An interesting tourist destination in the Zloți Nature Reserve, linked to local history.",
+                  "category": "landmark",
+                  "coords": [
+                        28.939978,
+                        46.706269
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec.XIX)",
+                  "text": "A historic 19th-century water tower located in the area of the Zloți Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        28.896091,
+                        46.695857
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "forest",
     name: { de: "Waldreservat Zloți", hu: "Zloți erdőrezervátum", ro: "Rezervația forestieră Zloți", en: "Zloți Nature Reserve"},
@@ -1351,7 +2080,88 @@ export const moldovaNatureV2: POI[] = [
   }
 ,
   {
-    id: "moldova-cobilea-oak-nature-v2",
+    id: "moldova-cobilea-oak-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mănăstirea „Fecioara Maria de la Kazan”",
+                  "text": "Ein orthodoxes Kloster in der Republik Moldau, das der Gottesmutter von Kasan geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.657015,
+                        47.89711
+                  ]
+            },
+            {
+                  "name": "Biserica „Schimbarea la Față” (1812)",
+                  "text": "Eine historische Kirche aus dem Jahr 1812, die der Verklärung des Herrn geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.660555,
+                        47.867725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mănăstirea „Fecioara Maria de la Kazan”",
+                  "text": "Egy moldovai ortodox kolostor, amelyet a kazanyi Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.657015,
+                        47.89711
+                  ]
+            },
+            {
+                  "name": "Biserica „Schimbarea la Față” (1812)",
+                  "text": "Egy 1812-ben épült történelmi templom, amelyet az Úr színeváltozásának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        28.660555,
+                        47.867725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mănăstirea „Fecioara Maria de la Kazan”",
+                  "text": "O mănăstire ortodoxă din Republica Moldova cu hramul Maicii Domnului din Kazan.",
+                  "category": "landmark",
+                  "coords": [
+                        28.657015,
+                        47.89711
+                  ]
+            },
+            {
+                  "name": "Biserica „Schimbarea la Față” (1812)",
+                  "text": "O biserică istorică din anul 1812 cu hramul Schimbarea la Față.",
+                  "category": "landmark",
+                  "coords": [
+                        28.660555,
+                        47.867725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mănăstirea „Fecioara Maria de la Kazan”",
+                  "text": "An Orthodox monastery in Moldova dedicated to the Virgin of Kazan.",
+                  "category": "landmark",
+                  "coords": [
+                        28.657015,
+                        47.89711
+                  ]
+            },
+            {
+                  "name": "Biserica „Schimbarea la Față” (1812)",
+                  "text": "A historic church built in 1812, dedicated to the Transfiguration.",
+                  "category": "landmark",
+                  "coords": [
+                        28.660555,
+                        47.867725
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "wildlife",
     name: { de: "Eiche von Stefan dem Großen in Cobîlea", hu: "Cobîleai tölgyfa (Nagy István fája)", ro: "Stejarul lui Ștefan cel Mare din Cobîlea", en: "Stephen the Great Oak in Cobîlea" },

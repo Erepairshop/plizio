@@ -1778,6 +1778,69 @@ export const bosniaPois: POI[] = [
                         17.157442,
                         44.74762
                   ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "Historische Festungsanlage am Ufer des Vrbas in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.190654,
+                        44.76646
+                  ]
+            },
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Museum für zeitgenössische Kunst der Republika Srpska in einem ehemaligen Bahnhofsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        17.189651,
+                        44.772266
+                  ]
+            },
+            {
+                  "name": "Narodno pozoriste Republike Srpske",
+                  "text": "Das Nationaltheater der Republika Srpska in Banja Luka, ein Zentrum für Schauspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193344,
+                        44.774017
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Zentrales Museum in Banja Luka zur Geschichte und Ethnologie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Djecije pozoriste Republike Srpske",
+                  "text": "Ein spezialisiertes Theater für Kinder und Jugendliche in Banja Luka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Banjalucko studentsko pozoriste",
+                  "text": "Ein studentisches Theater in Banja Luka für experimentelle Bühnenprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Ein Museum in Banja Luka, das den sportlichen Erfolgen der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
             }
       ],
       "hu": [
@@ -1815,6 +1878,69 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.157442,
                         44.74762
+                  ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "Történelmi erődítmény az Orbász folyó partján, Banja Lukában.",
+                  "category": "castle",
+                  "coords": [
+                        17.190654,
+                        44.76646
+                  ]
+            },
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "A Boszniai Szerb Köztársaság Kortárs Művészeti Múzeuma egy egykori vasútállomás épületében.",
+                  "category": "museum",
+                  "coords": [
+                        17.189651,
+                        44.772266
+                  ]
+            },
+            {
+                  "name": "Narodno pozoriste Republike Srpske",
+                  "text": "A Boszniai Szerb Köztársaság Nemzeti Színháza Banja Lukában, a színművészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193344,
+                        44.774017
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Banja Luka központi múzeuma, amely a régió történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Djecije pozoriste Republike Srpske",
+                  "text": "Gyermekeknek és fiataloknak szóló specializált színház Banja Lukában.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Banjalucko studentsko pozoriste",
+                  "text": "Egyetemi színház Banja Lukában kísérleti színpadi projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Sportmúzeum Banja Lukában, amely a város sportsikereit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
                   ]
             }
       ],
@@ -1854,6 +1980,69 @@ export const bosniaPois: POI[] = [
                         17.157442,
                         44.74762
                   ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "Cetate istorică situată pe malul râului Vrbas în Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.190654,
+                        44.76646
+                  ]
+            },
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Muzeul de Artă Contemporană al Republicii Srpska, situat în clădirea unei foste gări.",
+                  "category": "museum",
+                  "coords": [
+                        17.189651,
+                        44.772266
+                  ]
+            },
+            {
+                  "name": "Narodno pozoriste Republike Srpske",
+                  "text": "Teatrul Național al Republicii Srpska din Banja Luka, un centru al artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193344,
+                        44.774017
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Muzeul central din Banja Luka dedicat istoriei și etnologiei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Djecije pozoriste Republike Srpske",
+                  "text": "Un teatru specializat pentru copii și tineri în Banja Luka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Banjalucko studentsko pozoriste",
+                  "text": "Un teatru studențesc în Banja Luka pentru proiecte de scenă experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Un muzeu în Banja Luka dedicat realizărilor sportive ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
             }
       ],
       "en": [
@@ -1891,6 +2080,69 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.157442,
                         44.74762
+                  ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "Historical fortress situated on the banks of the Vrbas in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.190654,
+                        44.76646
+                  ]
+            },
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Museum of Contemporary Art of Republika Srpska, housed in a former railway station building.",
+                  "category": "museum",
+                  "coords": [
+                        17.189651,
+                        44.772266
+                  ]
+            },
+            {
+                  "name": "Narodno pozoriste Republike Srpske",
+                  "text": "The National Theatre of Republika Srpska in Banja Luka, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193344,
+                        44.774017
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Central museum in Banja Luka dedicated to the region's history and ethnology.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Djecije pozoriste Republike Srpske",
+                  "text": "A specialized theatre for children and youth in Banja Luka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Banjalucko studentsko pozoriste",
+                  "text": "A student theatre in Banja Luka for experimental stage projects.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "A museum in Banja Luka dedicated to the city's sporting achievements.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
                   ]
             }
       ]
@@ -4895,7 +5147,304 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-blagaj",
+    id: "ba-blagaj", "sights": {
+      "de": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Die historischen Überreste eines Badehauses aus der osmanischen Zeit in Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Der Standort eines historischen Wohnensembles in Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "Eine mittelalterliche Festung auf einer hohen Klippe mit Blick auf die Stadt Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "Ein historischer Gebäudekomplex und Museum, der die traditionelle Architektur in Blagaj zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "Ein Erholungsgebiet und Strand in der Nähe des Flusses Buna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "Ein Strandbereich am Fluss in der Nähe von Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "Ein Flussstrand in der Nähe von Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            },
+            {
+                  "name": "Vrelo Bune",
+                  "text": "Eine starke Karstquelle am Ursprung des Flusses Buna, gelegen neben einem historischen Derwisch-Kloster.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903771,
+                        43.257333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Egy oszmán kori fürdő történelmi maradványai Blagajban.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Egy történelmi lakóépület-együttes helyszíne Blagajban.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "Egy középkori erőd egy magas sziklán, ahonnan kilátás nyílik Blagaj városára.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "Egy történelmi ház és múzeumkomplexum, amely a hagyományos építészetet mutatja be Blagajban.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "Egy üdülőhely és strand a Buna-folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "Egy folyóparti strand Blagaj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "Egy folyóparti strand Blagaj környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            },
+            {
+                  "name": "Vrelo Bune",
+                  "text": "A Buna-folyó karsztforrása egy történelmi dervis-kolostor mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903771,
+                        43.257333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karađoz-begov hamam",
+                  "text": "Rămășițele istorice ale unei băi din epoca otomană în Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "Situl unui ansamblu rezidențial istoric din Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "O fortăreață medievală situată pe o stâncă înaltă, cu vedere la orașul Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "O casă istorică și un complex muzeal care prezintă arhitectura tradițională din Blagaj.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "O zonă de recreere și plajă situată lângă râul Buna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "O zonă de plajă de-a lungul râului, lângă Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "O zonă de plajă pe malul râului în vecinătatea localității Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            },
+            {
+                  "name": "Vrelo Bune",
+                  "text": "Un izvor carstic puternic la sursa râului Buna, situat lângă o mănăstire istorică de derviși.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903771,
+                        43.257333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karađoz-beg hamam, the historic building",
+                  "text": "The historic remains of an Ottoman-era bathhouse in Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.895738,
+                        43.256283
+                  ]
+            },
+            {
+                  "name": "Kolaković house, the site and remains of the architectural ensemble",
+                  "text": "The site of a historic residential ensemble in Blagaj.",
+                  "category": "historical",
+                  "coords": [
+                        17.893032,
+                        43.255576
+                  ]
+            },
+            {
+                  "name": "Blagaj Fortress",
+                  "text": "A medieval fortress situated on a high cliff overlooking the town of Blagaj.",
+                  "category": "castle",
+                  "coords": [
+                        17.902708,
+                        43.259891
+                  ]
+            },
+            {
+                  "name": "Velagićevina",
+                  "text": "A historic house and museum complex showcasing traditional architecture in Blagaj.",
+                  "category": "museum",
+                  "coords": [
+                        17.898061,
+                        43.257299
+                  ]
+            },
+            {
+                  "name": "Bunica",
+                  "text": "A recreation area and beach located near the Buna river.",
+                  "category": "recreational",
+                  "coords": [
+                        17.852821,
+                        43.243781
+                  ]
+            },
+            {
+                  "name": "Crni vir",
+                  "text": "A beach area along the river near Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.854967,
+                        43.242633
+                  ]
+            },
+            {
+                  "name": "Perale",
+                  "text": "A riverside beach area in the vicinity of Blagaj.",
+                  "category": "recreational",
+                  "coords": [
+                        17.855309,
+                        43.23907
+                  ]
+            },
+            {
+                  "name": "Vrelo Bune",
+                  "text": "A powerful karst spring at the source of the Buna river, located next to a historic dervish monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903771,
+                        43.257333
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Blagaj Tekija", hu: "Blagaj Tekija", ro: "Blagaj Tekke", en: "Blagaj Tekke" },
     description: {
@@ -5024,7 +5573,88 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-una",
+    id: "ba-una", "sights": {
+      "de": [
+            {
+                  "name": "Piloti",
+                  "text": "Ein Badebereich im Una-Nationalpark, bekannt für sein klares Flusswasser.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090067,
+                        44.562316
+                  ]
+            },
+            {
+                  "name": "Havala",
+                  "text": "Eine historische Burgruine, die strategisch über dem Una-Flusstal im Nationalpark thront.",
+                  "category": "castle",
+                  "coords": [
+                        16.08876,
+                        44.564348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piloti",
+                  "text": "Fürdőhely az Una Nemzeti Parkban, amely tiszta folyóvizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090067,
+                        44.562316
+                  ]
+            },
+            {
+                  "name": "Havala",
+                  "text": "Történelmi várrom, amely stratégiai helyen, az Una folyó völgye felett magasodik a nemzeti parkban.",
+                  "category": "castle",
+                  "coords": [
+                        16.08876,
+                        44.564348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piloti",
+                  "text": "O zonă de plajă în Parcul Național Una, cunoscută pentru apele limpezi ale râului.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090067,
+                        44.562316
+                  ]
+            },
+            {
+                  "name": "Havala",
+                  "text": "O ruină istorică de castel, situată strategic deasupra văii râului Una în parcul național.",
+                  "category": "castle",
+                  "coords": [
+                        16.08876,
+                        44.564348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piloti",
+                  "text": "A beach area in the Una National Park known for its clear river water.",
+                  "category": "recreational",
+                  "coords": [
+                        16.090067,
+                        44.562316
+                  ]
+            },
+            {
+                  "name": "Havala",
+                  "text": "A historic castle ruin strategically perched above the Una river valley in the national park.",
+                  "category": "castle",
+                  "coords": [
+                        16.08876,
+                        44.564348
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Nationalpark Una", hu: "Una Nemzeti Park", ro: "Parcul Național Una", en: "Una National Park" },
     description: {
@@ -5067,7 +5697,268 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-sutjeska",
+    id: "ba-sutjeska", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Sutjeska",
+                  "text": "Der älteste Nationalpark in Bosnien und Herzegowina, in dem sich einer der letzten Urwälder Europas befindet.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Ein Freiluft-Amphitheater im Nationalpark Sutjeska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Ein Berggipfel im Nationalpark Sutjeska, der einen Panoramablick auf die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Ein beeindruckendes modernistisches Denkmal zur Erinnerung an die Schlacht an der Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Ein großer Gedenkkomplex, der der historischen Schlacht an der Sutjeska gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Ein beliebter Aussichtspunkt, der einen spektakulären Blick auf den Skakavac-Wasserfall bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            },
+            {
+                  "name": "Savin grob",
+                  "text": "Die Gedenkstätte und das Grab des Partisanenhelden Sava Kovačević.",
+                  "category": "historical",
+                  "coords": [
+                        18.678342,
+                        43.351557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nacionalni park Sutjeska",
+                  "text": "Bosznia-Hercegovina legrégebbi nemzeti parkja, ahol Európa egyik utolsó őserdeje található.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Szabadtéri amfiteátrum a Sutjeska Nemzeti Park területén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Hegycsúcs a Sutjeska Nemzeti Parkban, amely panorámás kilátást nyújt a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Egy lenyűgöző modernista emlékmű, amely a sutjeskai csatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Nagy emlékmű-komplexum, amelyet a történelmi sutjeskai csatának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Népszerű kilátóhely, ahonnan lenyűgöző kilátás nyílik a Skakavac-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            },
+            {
+                  "name": "Savin grob",
+                  "text": "Sava Kovačević partizánhős emlékhelye és sírja.",
+                  "category": "historical",
+                  "coords": [
+                        18.678342,
+                        43.351557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nacionalni park Sutjeska",
+                  "text": "Cel mai vechi parc național din Bosnia și Herțegovina, care adăpostește una dintre ultimele păduri virgine din Europa.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Un amfiteatru în aer liber situat în cadrul Parcului Național Sutjeska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Un vârf muntos din Parcul Național Sutjeska care oferă vederi panoramice asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Un monument modernist impresionant care comemorează Bătălia de la Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Un complex memorial vast dedicat bătăliei istorice de la Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Un punct de belvedere popular care oferă o vedere spectaculoasă asupra cascadei Skakavac.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            },
+            {
+                  "name": "Savin grob",
+                  "text": "Locul memorial și mormântul eroului partizan Sava Kovačević.",
+                  "category": "historical",
+                  "coords": [
+                        18.678342,
+                        43.351557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sutjeska National Park",
+                  "text": "The oldest national park in Bosnia and Herzegovina, home to one of Europe's last primeval forests.",
+                  "category": "natural",
+                  "coords": [
+                        18.655209,
+                        43.327283
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "An open-air amphitheater located within the Sutjeska National Park.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "A mountain peak in the Sutjeska National Park offering panoramic views of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "The Battle of Sutjeska Memorial Monument",
+                  "text": "A striking modernist monument commemorating the Battle of Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Battle of Sutjeska Memorial Complex",
+                  "text": "A large memorial complex dedicated to the historic Battle of Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "A popular viewpoint offering a spectacular look at the Skakavac waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            },
+            {
+                  "name": "Savin grob",
+                  "text": "The memorial site and grave of the partisan hero Sava Kovačević.",
+                  "category": "historical",
+                  "coords": [
+                        18.678342,
+                        43.351557
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Nationalpark Sutjeska", hu: "Sutjeska Nemzeti Park", ro: "Parcul Național Sutjeska", en: "Sutjeska National Park" },
     description: {
@@ -5282,7 +6173,88 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-blidinje",
+    id: "ba-blidinje", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Blidinje",
+                  "text": "Ein weitläufiger Naturpark in Bosnien und Herzegowina, bekannt für seine alpine Landschaft und den Blidinje-See.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Pločno",
+                  "text": "Der höchste Gipfel des Čvrsnica-Gebirges im Blidinje-Naturpark, ein beliebtes Ziel für Wanderer.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park prirode Blidinje",
+                  "text": "Kiterjedt natúrpark Bosznia-Hercegovinában, amely alpesi tájairól és a Blidinje-tóról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Pločno",
+                  "text": "A Čvrsnica-hegység legmagasabb csúcsa a Blidinje natúrparkban, a túrázók népszerű célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park prirode Blidinje",
+                  "text": "Un parc natural vast în Bosnia și Herțegovina, cunoscut pentru peisajul alpin și lacul Blidinje.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Pločno",
+                  "text": "Cel mai înalt vârf al munților Čvrsnica din parcul natural Blidinje, o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blidinje Nature Park",
+                  "text": "A vast nature park in Bosnia and Herzegovina, known for its alpine landscape and Blidinje Lake.",
+                  "category": "natural",
+                  "coords": [
+                        17.546488,
+                        43.624591
+                  ]
+            },
+            {
+                  "name": "Pločno",
+                  "text": "The highest peak of the Čvrsnica mountains in Blidinje Nature Park, a popular destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        17.564727,
+                        43.599349
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Naturpark Blidinje", hu: "Blidinje Natúrpark", ro: "Parcul Natural Blidinje", en: "Blidinje Nature Park" },
     description: {
@@ -6257,7 +7229,52 @@ export const bosniaPois: POI[] = [
       fr: ["Le pont Arslanagić a été construit en 1574", "La Trebišnjica mesure environ 187 km (y compris les parties souterraines)", "Hercegovačka Gračanica a été achevée en 2000", "Les célèbres platanes du centre ont plus de 120 ans", "La population de la ville s'élève à environ 30 000 habitants", "Les remparts historiques datent de l'époque ottomane"],
     }, image: "/poi-images/ba-trebinje.webp"},
   {
-    id: "ba-vranduk",
+    id: "ba-vranduk", "sights": {
+      "de": [
+            {
+                  "name": "Vranduk Fortress",
+                  "text": "Eine gut erhaltene mittelalterliche Festung, die über dem Dorf Vranduk thront.",
+                  "category": "castle",
+                  "coords": [
+                        17.903924,
+                        44.291538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vranduk Fortress",
+                  "text": "Jó állapotban fennmaradt középkori erőd, amely Vranduk faluja fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        17.903924,
+                        44.291538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vranduk Fortress",
+                  "text": "O cetate medievală bine conservată care domină satul Vranduk.",
+                  "category": "castle",
+                  "coords": [
+                        17.903924,
+                        44.291538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vranduk Fortress",
+                  "text": "A well-preserved medieval fortress towering over the village of Vranduk.",
+                  "category": "castle",
+                  "coords": [
+                        17.903924,
+                        44.291538
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Festung Vranduk", hu: "Vranduki vár", ro: "Cetatea Vranduk", en: "Vranduk Fortress" },
     description: {
@@ -6389,6 +7406,15 @@ export const bosniaPois: POI[] = [
                         18.084553,
                         44.733583
                   ]
+            },
+            {
+                  "name": "Doboj Fortress",
+                  "text": "Eine mittelalterliche Festung, die strategisch über der Stadt Doboj liegt.",
+                  "category": "castle",
+                  "coords": [
+                        18.087592,
+                        44.737497
+                  ]
             }
       ],
       "hu": [
@@ -6435,6 +7461,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.084553,
                         44.733583
+                  ]
+            },
+            {
+                  "name": "Doboj Fortress",
+                  "text": "Középkori erőd, amely stratégiai helyen, Doboj városa felett található.",
+                  "category": "castle",
+                  "coords": [
+                        18.087592,
+                        44.737497
                   ]
             }
       ],
@@ -6483,6 +7518,15 @@ export const bosniaPois: POI[] = [
                         18.084553,
                         44.733583
                   ]
+            },
+            {
+                  "name": "Doboj Fortress",
+                  "text": "O fortăreață medievală situată strategic deasupra orașului Doboj.",
+                  "category": "castle",
+                  "coords": [
+                        18.087592,
+                        44.737497
+                  ]
             }
       ],
       "en": [
@@ -6529,6 +7573,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.084553,
                         44.733583
+                  ]
+            },
+            {
+                  "name": "Doboj Fortress",
+                  "text": "A medieval fortress strategically located above the city of Doboj.",
+                  "category": "castle",
+                  "coords": [
+                        18.087592,
+                        44.737497
                   ]
             }
       ]
@@ -6603,6 +7656,33 @@ export const bosniaPois: POI[] = [
                         16.705704,
                         44.983926
                   ]
+            },
+            {
+                  "name": "Pozorište Prijedor",
+                  "text": "Das Stadttheater von Prijedor, ein Zentrum für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        16.71036,
+                        44.980803
+                  ]
+            },
+            {
+                  "name": "Muzej Kozare",
+                  "text": "Ein Regionalmuseum in Prijedor, das die Geschichte der Kozara-Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.709371,
+                        44.977179
+                  ]
+            },
+            {
+                  "name": "Čaršijska džamija",
+                  "text": "Die zentrale Moschee von Prijedor, ein wichtiges religiöses Gebäude der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.70627,
+                        44.977686
+                  ]
             }
       ],
       "hu": [
@@ -6631,6 +7711,33 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         16.705704,
                         44.983926
+                  ]
+            },
+            {
+                  "name": "Pozorište Prijedor",
+                  "text": "Prijedor városi színháza, az előadó-művészet helyi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.71036,
+                        44.980803
+                  ]
+            },
+            {
+                  "name": "Muzej Kozare",
+                  "text": "Regionális múzeum Prijedorban, amely a Kozara-vidék történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.709371,
+                        44.977179
+                  ]
+            },
+            {
+                  "name": "Čaršijska džamija",
+                  "text": "Prijedor központi mecsetje, a város fontos vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.70627,
+                        44.977686
                   ]
             }
       ],
@@ -6661,6 +7768,33 @@ export const bosniaPois: POI[] = [
                         16.705704,
                         44.983926
                   ]
+            },
+            {
+                  "name": "Pozorište Prijedor",
+                  "text": "Teatrul orașului Prijedor, un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        16.71036,
+                        44.980803
+                  ]
+            },
+            {
+                  "name": "Muzej Kozare",
+                  "text": "Un muzeu regional din Prijedor care documentează istoria regiunii Kozara.",
+                  "category": "museum",
+                  "coords": [
+                        16.709371,
+                        44.977179
+                  ]
+            },
+            {
+                  "name": "Čaršijska džamija",
+                  "text": "Moscheea centrală din Prijedor, un edificiu religios important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        16.70627,
+                        44.977686
+                  ]
             }
       ],
       "en": [
@@ -6689,6 +7823,33 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         16.705704,
                         44.983926
+                  ]
+            },
+            {
+                  "name": "Pozorište Prijedor",
+                  "text": "The city theatre of Prijedor, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.71036,
+                        44.980803
+                  ]
+            },
+            {
+                  "name": "Muzej Kozare",
+                  "text": "A regional museum in Prijedor documenting the history of the Kozara region.",
+                  "category": "museum",
+                  "coords": [
+                        16.709371,
+                        44.977179
+                  ]
+            },
+            {
+                  "name": "Čaršijska džamija",
+                  "text": "The central mosque of Prijedor, an important religious building in the city.",
+                  "category": "religious",
+                  "coords": [
+                        16.70627,
+                        44.977686
                   ]
             }
       ]
@@ -6735,7 +7896,52 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-lukomir",
+    id: "ba-lukomir", "sights": {
+      "de": [
+            {
+                  "name": "Nekropola stećaka Lukomir",
+                  "text": "Alter Begräbnisplatz mit mittelalterlichen Grabsteinen, den sogenannten Stećci, nahe dem abgelegenen Dorf Lukomir.",
+                  "category": "historical",
+                  "coords": [
+                        18.184709,
+                        43.636238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nekropola stećaka Lukomir",
+                  "text": "Középkori sírköveket, úgynevezett stećci-ket tartalmazó ősi temetkezési hely a távoli Lukomir falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.184709,
+                        43.636238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nekropola stećaka Lukomir",
+                  "text": "Sit funerar vechi cu pietre funerare medievale, cunoscute sub numele de stećci, lângă satul izolat Lukomir.",
+                  "category": "historical",
+                  "coords": [
+                        18.184709,
+                        43.636238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lukomir Medieval Necropolis",
+                  "text": "Ancient burial ground featuring medieval tombstones, known as stećci, near the remote village of Lukomir.",
+                  "category": "historical",
+                  "coords": [
+                        18.184709,
+                        43.636238
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Lukomir", hu: "Lukomir", ro: "Lukomir", en: "Lukomir" },
     description: {
@@ -6811,7 +8017,160 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-bjelasnica",
+    id: "ba-bjelasnica", "sights": {
+      "de": [
+            {
+                  "name": "Magic Space Zip Line (1000m)",
+                  "text": "Eine lange Seilrutsche für Abenteuerlustige am Berg Bjelašnica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287445,
+                        43.682758
+                  ]
+            },
+            {
+                  "name": "Bjelašnica",
+                  "text": "Ein markanter Berggipfel südlich von Sarajevo, bekannt als Skigebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.257665,
+                        43.703748
+                  ]
+            },
+            {
+                  "name": "Prašuma Ravna Vala",
+                  "text": "Ein unberührter Urwald im Massiv der Bjelašnica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.272385,
+                        43.736951
+                  ]
+            },
+            {
+                  "name": "Spomenik OPSN LASTA",
+                  "text": "Ein Denkmal auf der Bjelašnica, das an historische Ereignisse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        18.294975,
+                        43.682869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magic Space Zip Line (1000m)",
+                  "text": "Hosszú kötélpálya a kalandvágyóknak a Bjelašnica-hegyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287445,
+                        43.682758
+                  ]
+            },
+            {
+                  "name": "Bjelašnica",
+                  "text": "Jellegzetes hegycsúcs Szarajevótól délre, ismert síközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        18.257665,
+                        43.703748
+                  ]
+            },
+            {
+                  "name": "Prašuma Ravna Vala",
+                  "text": "Érintetlen őserdő a Bjelašnica-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.272385,
+                        43.736951
+                  ]
+            },
+            {
+                  "name": "Spomenik OPSN LASTA",
+                  "text": "Emlékmű a Bjelašnica-hegyen, amely történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        18.294975,
+                        43.682869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magic Space Zip Line (1000m)",
+                  "text": "O tiroliană lungă pentru amatorii de aventură pe muntele Bjelašnica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287445,
+                        43.682758
+                  ]
+            },
+            {
+                  "name": "Bjelašnica",
+                  "text": "Un vârf montan proeminent la sud de Sarajevo, cunoscut ca stațiune de schi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.257665,
+                        43.703748
+                  ]
+            },
+            {
+                  "name": "Prašuma Ravna Vala",
+                  "text": "O pădure virgină neatinsă în masivul Bjelašnica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.272385,
+                        43.736951
+                  ]
+            },
+            {
+                  "name": "Spomenik OPSN LASTA",
+                  "text": "Un monument pe Bjelašnica care comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        18.294975,
+                        43.682869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magic Space Zip Line (1000m)",
+                  "text": "A long zip line for adventure seekers on Bjelašnica mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        18.287445,
+                        43.682758
+                  ]
+            },
+            {
+                  "name": "Bjelašnica",
+                  "text": "A prominent mountain peak south of Sarajevo, known as a ski resort.",
+                  "category": "landmark",
+                  "coords": [
+                        18.257665,
+                        43.703748
+                  ]
+            },
+            {
+                  "name": "Prašuma Ravna Vala",
+                  "text": "A pristine primeval forest in the Bjelašnica massif.",
+                  "category": "landmark",
+                  "coords": [
+                        18.272385,
+                        43.736951
+                  ]
+            },
+            {
+                  "name": "Spomenik OPSN LASTA",
+                  "text": "A monument on Bjelašnica commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        18.294975,
+                        43.682869
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Bjelašnica", en: "Bjelašnica" },
     description: {
@@ -6854,7 +8213,268 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-perucica",
+    id: "ba-perucica", "sights": {
+      "de": [
+            {
+                  "name": "Rezervat Prašuma Perućica",
+                  "text": "Einer der letzten Urwälder Europas, gelegen im Nationalpark Sutjeska.",
+                  "category": "natural",
+                  "coords": [
+                        18.706418,
+                        43.302624
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Ein Freilichttheater im Bereich des Urwaldes Perućica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Bukovi vrhovi",
+                  "text": "Ein Berggipfel inmitten des Perućica-Urwaldgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        18.736255,
+                        43.325037
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Ein Gipfel mit Panoramablick auf die umliegenden Wälder und Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Ein monumentales Denkmal zu Ehren der gefallenen Soldaten der Schlacht an der Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Gedenkstätte für den Kampf der jugoslawischen Partisanen im Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Aussichtspunkt mit Blick auf den Skakavac-Wasserfall im Herzen des Urwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervat Prašuma Perućica",
+                  "text": "Európa egyik utolsó őserdeje a Sutjeska Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.706418,
+                        43.302624
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Szabadtéri színház a Perućica őserdő területén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Bukovi vrhovi",
+                  "text": "Hegycsúcs a Perućica őserdő területének közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.736255,
+                        43.325037
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Hegycsúcs, amely panorámás kilátást nyújt a környező erdőkre és hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Monumentális emlékmű a sutjeskai csata elesett katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Emlékhely a jugoszláv partizánok második világháborús harcainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Kilátópont a Skakavac-vízesésre az őserdő szívében.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervat Prašuma Perućica",
+                  "text": "Una dintre ultimele păduri virgine din Europa, situată în Parcul Național Sutjeska.",
+                  "category": "natural",
+                  "coords": [
+                        18.706418,
+                        43.302624
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "Un amfiteatru în aer liber situat în zona pădurii virgine Perućica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Bukovi vrhovi",
+                  "text": "Un vârf montan în mijlocul zonei pădurii virgine Perućica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.736255,
+                        43.325037
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "Un vârf cu vedere panoramică asupra pădurilor și munților din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "Spomenik Bitka na Sutjesci",
+                  "text": "Un monument monumental în onoarea soldaților căzuți în bătălia de pe Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Spomen-kuća bitke na Sutjesci",
+                  "text": "Complex memorial dedicat luptei partizanilor iugoslavi din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Punct de observație cu vedere spre cascada Skakavac, în inima pădurii virgine.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Primeval Forest Perućica",
+                  "text": "One of the last remaining primeval forests in Europe, located in Sutjeska National Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.706418,
+                        43.302624
+                  ]
+            },
+            {
+                  "name": "Amfiteatar brigada",
+                  "text": "An outdoor amphitheater located within the Perućica primeval forest area.",
+                  "category": "cultural",
+                  "coords": [
+                        18.6857,
+                        43.346078
+                  ]
+            },
+            {
+                  "name": "Bukovi vrhovi",
+                  "text": "A mountain peak in the middle of the Perućica primeval forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.736255,
+                        43.325037
+                  ]
+            },
+            {
+                  "name": "Beškita",
+                  "text": "A peak offering panoramic views of the surrounding forests and mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        18.700663,
+                        43.325651
+                  ]
+            },
+            {
+                  "name": "The Battle of Sutjeska Memorial Monument",
+                  "text": "A monumental memorial honoring the fallen soldiers of the Battle of Sutjeska.",
+                  "category": "historical",
+                  "coords": [
+                        18.686853,
+                        43.346123
+                  ]
+            },
+            {
+                  "name": "Battle of Sutjeska Memorial Complex",
+                  "text": "Memorial complex commemorating the struggle of Yugoslav Partisans in WWII.",
+                  "category": "historical",
+                  "coords": [
+                        18.688431,
+                        43.343934
+                  ]
+            },
+            {
+                  "name": "Vidikovac Skakavac",
+                  "text": "Viewpoint overlooking the Skakavac waterfall in the heart of the primeval forest.",
+                  "category": "natural",
+                  "coords": [
+                        18.704959,
+                        43.319915
+                  ]
+            }
+      ]
+},
     type: "landmark",
     name: { de: "Perućica Urwald", hu: "Perućica őserdő", ro: "Pădurea Perućica", en: "Perućica Primeval Forest" },
     description: {

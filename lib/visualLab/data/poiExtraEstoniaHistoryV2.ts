@@ -112,6 +112,24 @@ export const estoniaHistoryV2: POI[] = [
                         27.012995,
                         58.281216
                   ]
+            },
+            {
+                  "name": "Sacred grove",
+                  "text": "Ein historischer und kulturell bedeutsamer Hain in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        26.916967,
+                        58.319427
+                  ]
+            },
+            {
+                  "name": "Melliste tuulik",
+                  "text": "Eine traditionelle Windmühle, die ein lokales Wahrzeichen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.96938,
+                        58.33722
+                  ]
             }
       ],
       "hu": [
@@ -131,6 +149,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.012995,
                         58.281216
+                  ]
+            },
+            {
+                  "name": "Sacred grove",
+                  "text": "Történelmileg és kulturálisan jelentős liget a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.916967,
+                        58.319427
+                  ]
+            },
+            {
+                  "name": "Melliste tuulik",
+                  "text": "Hagyományos szélmalom, amely helyi jelképként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.96938,
+                        58.33722
                   ]
             }
       ],
@@ -152,6 +188,24 @@ export const estoniaHistoryV2: POI[] = [
                         27.012995,
                         58.281216
                   ]
+            },
+            {
+                  "name": "Sacred grove",
+                  "text": "Un crâng cu semnificație istorică și culturală în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        26.916967,
+                        58.319427
+                  ]
+            },
+            {
+                  "name": "Melliste tuulik",
+                  "text": "O moară de vânt tradițională care servește drept reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        26.96938,
+                        58.33722
+                  ]
             }
       ],
       "en": [
@@ -171,6 +225,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.012995,
                         58.281216
+                  ]
+            },
+            {
+                  "name": "Sacred grove",
+                  "text": "A historically and culturally significant grove in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        26.916967,
+                        58.319427
+                  ]
+            },
+            {
+                  "name": "Melliste tuulik",
+                  "text": "A traditional windmill that serves as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        26.96938,
+                        58.33722
                   ]
             }
       ]
@@ -319,6 +391,60 @@ export const estoniaHistoryV2: POI[] = [
                         24.23544,
                         59.373283
                   ]
+            },
+            {
+                  "name": "Shloss Fall",
+                  "text": "Ein neugotisches Herrenhaus in Keila-Joa, das heute als Museum und Kulturzentrum dient.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Laulasmaa maastikukaitseala",
+                  "text": "Ein Landschaftsschutzgebiet an der estnischen Küste mit Dünen und Kiefernwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        24.245644,
+                        59.387356
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "Ein Naturschutzgebiet, das für seine beeindruckenden Kalksteinklippen an der Ostsee bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Kaesal",
+                  "text": "Ein historisches Herrenhaus, das ursprünglich als Beigut zum Schloss Keila-Joa gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        24.303989,
+                        59.373204
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "Ein bekannter Aussichtspunkt auf einer Klippe, der einen weiten Blick über das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Die Ruinen eines historischen Herrenhauses in der Nähe der estnischen Küste.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
             }
       ],
       "hu": [
@@ -329,6 +455,60 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.23544,
                         59.373283
+                  ]
+            },
+            {
+                  "name": "Shloss Fall",
+                  "text": "Neogótikus kúria Keila-Joában, amely ma múzeumként és kulturális központként működik.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Laulasmaa maastikukaitseala",
+                  "text": "Tájvédelmi körzet az észt tengerparton, dűnékkel és fenyőerdőkkel.",
+                  "category": "natural",
+                  "coords": [
+                        24.245644,
+                        59.387356
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "Természetvédelmi terület, amely a Balti-tenger partján lévő lenyűgöző mészkőszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Käesalu (Keila-Joa kõrvalmõis)",
+                  "text": "Történelmi kúria, amely eredetileg a Keila-Joa kastély mellékbirtoka volt.",
+                  "category": "historical",
+                  "coords": [
+                        24.303989,
+                        59.373204
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "Ismert sziklafal-kilátó, amely tágas kilátást nyújt a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Egy történelmi kúria romjai az észt tengerpart közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
                   ]
             }
       ],
@@ -341,6 +521,60 @@ export const estoniaHistoryV2: POI[] = [
                         24.23544,
                         59.373283
                   ]
+            },
+            {
+                  "name": "Shloss Fall",
+                  "text": "Un conac neogotic din Keila-Joa, care servește acum ca muzeu și centru cultural.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Laulasmaa maastikukaitseala",
+                  "text": "O arie de peisaj protejat pe coasta estonă, cu dune și păduri de pini.",
+                  "category": "natural",
+                  "coords": [
+                        24.245644,
+                        59.387356
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "O rezervație naturală cunoscută pentru falezele sale impresionante de calcar de la Marea Baltică.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Käesalu (Keila-Joa kõrvalmõis)",
+                  "text": "Un conac istoric care a aparținut inițial domeniului castelului Keila-Joa.",
+                  "category": "historical",
+                  "coords": [
+                        24.303989,
+                        59.373204
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "Un punct de belvedere cunoscut pe o faleză, oferind o vedere largă asupra mării.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "Ruinele unui conac istoric situat lângă coasta estonă.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
+                  ]
             }
       ],
       "en": [
@@ -351,6 +585,60 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.23544,
                         59.373283
+                  ]
+            },
+            {
+                  "name": "Shloss Fall",
+                  "text": "A Neo-Gothic manor in Keila-Joa that now functions as a museum and cultural center.",
+                  "category": "museum",
+                  "coords": [
+                        24.295644,
+                        59.396996
+                  ]
+            },
+            {
+                  "name": "Laulasmaa maastikukaitseala",
+                  "text": "A protected landscape area on the Estonian coast featuring dunes and pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        24.245644,
+                        59.387356
+                  ]
+            },
+            {
+                  "name": "Türisalu maastikukaitseala",
+                  "text": "A nature reserve known for its impressive limestone cliffs on the Baltic Sea coast.",
+                  "category": "natural",
+                  "coords": [
+                        24.298378,
+                        59.408775
+                  ]
+            },
+            {
+                  "name": "Käesalu (Keila-Joa kõrvalmõis)",
+                  "text": "A historic manor house that originally belonged to the Keila-Joa castle estate.",
+                  "category": "historical",
+                  "coords": [
+                        24.303989,
+                        59.373204
+                  ]
+            },
+            {
+                  "name": "Türisalu pank",
+                  "text": "A well-known cliff-top viewpoint offering expansive views over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        24.321861,
+                        59.420488
+                  ]
+            },
+            {
+                  "name": "Meremõisa mõisa varemed",
+                  "text": "The ruins of a historic manor house located near the Estonian coast.",
+                  "category": "historical",
+                  "coords": [
+                        24.287166,
+                        59.396424
                   ]
             }
       ]
@@ -589,6 +877,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.386474,
                         57.944812
                   ]
+            },
+            {
+                  "name": "Sangaste kirik",
+                  "text": "Eine historische lutherische Kirche in Sangaste mit charakteristischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        26.333682,
+                        57.925894
+                  ]
             }
       ],
       "hu": [
@@ -599,6 +896,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.386474,
                         57.944812
+                  ]
+            },
+            {
+                  "name": "Sangaste kirik",
+                  "text": "Történelmi evangélikus templom Sangastében, jellegzetes építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        26.333682,
+                        57.925894
                   ]
             }
       ],
@@ -611,6 +917,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.386474,
                         57.944812
                   ]
+            },
+            {
+                  "name": "Sangaste kirik",
+                  "text": "O biserică luterană istorică în Sangaste, cu o arhitectură caracteristică.",
+                  "category": "religious",
+                  "coords": [
+                        26.333682,
+                        57.925894
+                  ]
             }
       ],
       "en": [
@@ -621,6 +936,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.386474,
                         57.944812
+                  ]
+            },
+            {
+                  "name": "Sangaste kirik",
+                  "text": "A historic Lutheran church in Sangaste with characteristic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.333682,
+                        57.925894
                   ]
             }
       ]
@@ -823,6 +1147,51 @@ export const estoniaHistoryV2: POI[] = [
                         25.935856,
                         57.996597
                   ]
+            },
+            {
+                  "name": "Helme Koduloomuuseum",
+                  "text": "Ein Heimatmuseum in Helme, das die regionale Geschichte und das ländliche Leben präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.879875,
+                        57.995374
+                  ]
+            },
+            {
+                  "name": "Helme koopad",
+                  "text": "Ein System künstlicher Höhlen in Helme, die historisch als Zufluchtsort dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.879605,
+                        58.018063
+                  ]
+            },
+            {
+                  "name": "Helme Ohvriallikas",
+                  "text": "Eine traditionelle Opferquelle in Helme, die als heiliger Ort gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880037,
+                        58.016338
+                  ]
+            },
+            {
+                  "name": "Helme Püha Neitsi Maarja kirik",
+                  "text": "Die Ruinen der mittelalterlichen Marienkirche in Helme.",
+                  "category": "religious",
+                  "coords": [
+                        25.88204,
+                        57.995369
+                  ]
+            },
+            {
+                  "name": "Tõrva kirik-kammersaal",
+                  "text": "Eine ehemalige Kirche in Tõrva, die heute als Konzertsaal und Ausstellungsort genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        25.929902,
+                        58.0
+                  ]
             }
       ],
       "hu": [
@@ -842,6 +1211,51 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.935856,
                         57.996597
+                  ]
+            },
+            {
+                  "name": "Helme Koduloomuuseum",
+                  "text": "Egy helytörténeti múzeum Helmében, amely a regionális történelmet és a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.879875,
+                        57.995374
+                  ]
+            },
+            {
+                  "name": "Helme koopad",
+                  "text": "Mesterséges barlangrendszer Helmében, amely történelmileg menedékhelyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        25.879605,
+                        58.018063
+                  ]
+            },
+            {
+                  "name": "Helme Ohvriallikas",
+                  "text": "Egy hagyományos áldozati forrás Helmében, amelyet szent helyként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880037,
+                        58.016338
+                  ]
+            },
+            {
+                  "name": "Helme Püha Neitsi Maarja kirik",
+                  "text": "A középkori Szűz Mária-templom romjai Helmében.",
+                  "category": "religious",
+                  "coords": [
+                        25.88204,
+                        57.995369
+                  ]
+            },
+            {
+                  "name": "Tõrva kirik-kammersaal",
+                  "text": "Egy egykori templom Tõrvában, amely ma koncertteremként és kiállítóhelyként működik.",
+                  "category": "religious",
+                  "coords": [
+                        25.929902,
+                        58.0
                   ]
             }
       ],
@@ -863,6 +1277,51 @@ export const estoniaHistoryV2: POI[] = [
                         25.935856,
                         57.996597
                   ]
+            },
+            {
+                  "name": "Helme Koduloomuuseum",
+                  "text": "Un muzeu de istorie locală din Helme, care prezintă istoria regională și viața rurală.",
+                  "category": "museum",
+                  "coords": [
+                        25.879875,
+                        57.995374
+                  ]
+            },
+            {
+                  "name": "Helme koopad",
+                  "text": "Un sistem de peșteri artificiale în Helme, folosite istoric ca loc de refugiu.",
+                  "category": "landmark",
+                  "coords": [
+                        25.879605,
+                        58.018063
+                  ]
+            },
+            {
+                  "name": "Helme Ohvriallikas",
+                  "text": "Un izvor sacrificial tradițional în Helme, considerat un loc sacru.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880037,
+                        58.016338
+                  ]
+            },
+            {
+                  "name": "Helme Püha Neitsi Maarja kirik",
+                  "text": "Ruinele bisericii medievale Sfânta Maria din Helme.",
+                  "category": "religious",
+                  "coords": [
+                        25.88204,
+                        57.995369
+                  ]
+            },
+            {
+                  "name": "Tõrva kirik-kammersaal",
+                  "text": "O fostă biserică din Tõrva, utilizată în prezent ca sală de concerte și spațiu de expoziții.",
+                  "category": "religious",
+                  "coords": [
+                        25.929902,
+                        58.0
+                  ]
             }
       ],
       "en": [
@@ -882,6 +1341,51 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.935856,
                         57.996597
+                  ]
+            },
+            {
+                  "name": "Helme Local Lore Museum",
+                  "text": "A local lore museum in Helme presenting regional history and rural life.",
+                  "category": "museum",
+                  "coords": [
+                        25.879875,
+                        57.995374
+                  ]
+            },
+            {
+                  "name": "Helme koopad",
+                  "text": "A system of artificial caves in Helme that historically served as a refuge.",
+                  "category": "landmark",
+                  "coords": [
+                        25.879605,
+                        58.018063
+                  ]
+            },
+            {
+                  "name": "Helme Ohvriallikas",
+                  "text": "A traditional sacrificial spring in Helme, regarded as a sacred site.",
+                  "category": "landmark",
+                  "coords": [
+                        25.880037,
+                        58.016338
+                  ]
+            },
+            {
+                  "name": "Helme Püha Neitsi Maarja kirik",
+                  "text": "The ruins of the medieval St. Mary's Church in Helme.",
+                  "category": "religious",
+                  "coords": [
+                        25.88204,
+                        57.995369
+                  ]
+            },
+            {
+                  "name": "Tõrva kirik-kammersaal",
+                  "text": "A former church in Tõrva that now functions as a concert hall and exhibition venue.",
+                  "category": "religious",
+                  "coords": [
+                        25.929902,
+                        58.0
                   ]
             }
       ]
@@ -930,7 +1434,268 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-torva-castle-ruins-v2.webp",
   },
   {
-    id: "estonia-jaggeri-manor-history-v2",
+    id: "estonia-jaggeri-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "Eine alte estnische Wallburg an der Mündung des Flusses Jägala.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Kostivere maastikukaitseala",
+                  "text": "Ein Landschaftsschutzgebiet, das für seine Karstformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.115326,
+                        59.435722
+                  ]
+            },
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Ein heiliger Hain und eine archäologische Stätte in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Antike Steinkistengräber im Rebala-Schutzgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "Einer der höchsten und breitesten natürlichen Wasserfälle in Estland.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Eine historische Steinbrücke in der Gemeinde Jõelähtme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kirik",
+                  "text": "Eine der ältesten mittelalterlichen Kirchen Estlands.",
+                  "category": "religious",
+                  "coords": [
+                        25.124136,
+                        59.445905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "Ősi észt földvár a Jägala-folyó torkolatánál.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Kostivere maastikukaitseala",
+                  "text": "Karsztformációiról ismert tájvédelmi körzet.",
+                  "category": "natural",
+                  "coords": [
+                        25.115326,
+                        59.435722
+                  ]
+            },
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Szent liget és régészeti lelőhely Észtországban.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Ősi kőládás sírok a Rebala természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "Észtország egyik legmagasabb és legszélesebb természetes vízesése.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Történelmi kőhíd Jõelähtme községben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kirik",
+                  "text": "Észtország egyik legrégebbi középkori temploma.",
+                  "category": "religious",
+                  "coords": [
+                        25.124136,
+                        59.445905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "O veche cetate estonă la gura de vărsare a râului Jägala.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Kostivere maastikukaitseala",
+                  "text": "O rezervație naturală cunoscută pentru formațiunile sale carstice.",
+                  "category": "natural",
+                  "coords": [
+                        25.115326,
+                        59.435722
+                  ]
+            },
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "Un crâng sacru și un sit arheologic în Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Morminte antice din piatră în rezervația Rebala.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "Una dintre cele mai înalte și mai late cascade naturale din Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Un pod istoric de piatră în comuna Jõelähtme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kirik",
+                  "text": "Una dintre cele mai vechi biserici medievale din Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        25.124136,
+                        59.445905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jägala Jõesuu hill fort",
+                  "text": "An ancient Estonian hill fort at the mouth of the Jägala River.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Kostivere maastikukaitseala",
+                  "text": "A landscape protection area known for its karst formations.",
+                  "category": "natural",
+                  "coords": [
+                        25.115326,
+                        59.435722
+                  ]
+            },
+            {
+                  "name": "Pärnamäe hiis",
+                  "text": "A sacred grove and archaeological site in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.214805,
+                        59.407319
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Ancient stone-cist graves in the Rebala heritage reserve.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "One of the highest and widest natural waterfalls in Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "A historical stone bridge in the Jõelähtme municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            },
+            {
+                  "name": "Jõelähtme Church of Blessed Virgin Mary",
+                  "text": "One of the oldest medieval churches in Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        25.124136,
+                        59.445905
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Gut Jägala", hu: "Jägala udvarház", ro: "Conacul Jägala", en: "Jägala Manor" },
@@ -985,6 +1750,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.971762,
                         58.654867
                   ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Ein Museum in Põltsamaa, das der Geschichte und Entwicklung des estnischen Journalismus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "Ein Museumsraum, der der Geschichte der Alexanderschule in Põltsamaa gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Der historische Park des Herrenhauses Neu-Pöltsam mit malerischen Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa peahoone",
+                  "text": "Das Hauptherrenhaus des Gutes Neu-Pöltsam, das die lokale Architektur widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        25.968355,
+                        58.657702
+                  ]
             }
       ],
       "hu": [
@@ -995,6 +1796,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.971762,
                         58.654867
+                  ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Põltsamaai múzeum, amely az észt újságírás történetének és fejlődésének szenteltetett.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "A põltsamaai Sándor Iskola történetének szentelt múzeumi szoba.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Az Új-põltsamaai udvarház történelmi parkja, festői sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa peahoone",
+                  "text": "Az Új-põltsamaai birtok fő kúriája, amely a helyi építészetet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        25.968355,
+                        58.657702
                   ]
             }
       ],
@@ -1007,6 +1844,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.971762,
                         58.654867
                   ]
+            },
+            {
+                  "name": "Eesti Pressimuuseum",
+                  "text": "Un muzeu din Põltsamaa dedicat istoriei și dezvoltării jurnalismului estonian.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "O cameră muzeală dedicată istoriei Școlii Alexandru din Põltsamaa.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "Parcul istoric al Conacului Nou din Põltsamaa, cu alei pitorești pentru plimbare.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa peahoone",
+                  "text": "Conacul principal al moșiei Noua Põltsamaa, reflectând arhitectura locală.",
+                  "category": "historical",
+                  "coords": [
+                        25.968355,
+                        58.657702
+                  ]
             }
       ],
       "en": [
@@ -1017,6 +1890,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.971762,
                         58.654867
+                  ]
+            },
+            {
+                  "name": "Estonian Press Museum",
+                  "text": "A museum in Põltsamaa dedicated to the history and development of Estonian journalism.",
+                  "category": "museum",
+                  "coords": [
+                        25.967489,
+                        58.654411
+                  ]
+            },
+            {
+                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
+                  "text": "A museum room dedicated to the history of the Alexander School in Põltsamaa.",
+                  "category": "museum",
+                  "coords": [
+                        25.980859,
+                        58.631232
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa park",
+                  "text": "The historic park of the New Põltsamaa Manor, featuring scenic walking paths.",
+                  "category": "park",
+                  "coords": [
+                        25.969766,
+                        58.658408
+                  ]
+            },
+            {
+                  "name": "Uue-Põltsamaa mõisa peahoone",
+                  "text": "The main manor house of the New Põltsamaa estate, reflecting local architecture.",
+                  "category": "historical",
+                  "coords": [
+                        25.968355,
+                        58.657702
                   ]
             }
       ]
@@ -1120,6 +2029,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.468919,
                         58.535116
                   ]
+            },
+            {
+                  "name": "Lõhavere linnamägi",
+                  "text": "Eine historische archäologische Stätte einer alten estnischen Wallburg.",
+                  "category": "historical",
+                  "coords": [
+                        25.51519,
+                        58.549805
+                  ]
+            },
+            {
+                  "name": "Heliloojate Kappide muuseum",
+                  "text": "Ein Museum in Suure-Jaani, das der Musikerfamilie Kapp gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.471843,
+                        58.539323
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani kirik",
+                  "text": "Eine medievale Kirche in Suure-Jaani, erbaut im 13. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        25.468236,
+                        58.533766
+                  ]
+            },
+            {
+                  "name": "Peetruse Pauluse Suure-Jaani kirik",
+                  "text": "Eine historische lutherische Kirche zu Ehren von Peter und Paul in Suure-Jaani.",
+                  "category": "religious",
+                  "coords": [
+                        25.466267,
+                        58.525818
+                  ]
             }
       ],
       "hu": [
@@ -1130,6 +2075,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.468919,
                         58.535116
+                  ]
+            },
+            {
+                  "name": "Lõhavere linnamägi",
+                  "text": "Egy ősi észt földvár történelmi régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        25.51519,
+                        58.549805
+                  ]
+            },
+            {
+                  "name": "Heliloojate Kappide muuseum",
+                  "text": "A Kapp zenészcsaládnak szentelt múzeum Suure-Jaaniban.",
+                  "category": "museum",
+                  "coords": [
+                        25.471843,
+                        58.539323
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani kirik",
+                  "text": "Középkori templom Suure-Jaaniban, amely a 13. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        25.468236,
+                        58.533766
+                  ]
+            },
+            {
+                  "name": "Peetruse Pauluse Suure-Jaani kirik",
+                  "text": "Péter és Pál apostolok tiszteletére szentelt történelmi evangélikus templom Suure-Jaaniban.",
+                  "category": "religious",
+                  "coords": [
+                        25.466267,
+                        58.525818
                   ]
             }
       ],
@@ -1142,6 +2123,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.468919,
                         58.535116
                   ]
+            },
+            {
+                  "name": "Lõhavere linnamägi",
+                  "text": "Un sit arheologic istoric al unei vechi fortărețe estoniene.",
+                  "category": "historical",
+                  "coords": [
+                        25.51519,
+                        58.549805
+                  ]
+            },
+            {
+                  "name": "Heliloojate Kappide muuseum",
+                  "text": "Un muzeu în Suure-Jaani dedicat familiei de muzicieni Kapp.",
+                  "category": "museum",
+                  "coords": [
+                        25.471843,
+                        58.539323
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani kirik",
+                  "text": "O biserică medievală în Suure-Jaani, construită în secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        25.468236,
+                        58.533766
+                  ]
+            },
+            {
+                  "name": "Peetruse Pauluse Suure-Jaani kirik",
+                  "text": "O biserică luterană istorică dedicată Sfinților Petru și Pavel în Suure-Jaani.",
+                  "category": "religious",
+                  "coords": [
+                        25.466267,
+                        58.525818
+                  ]
             }
       ],
       "en": [
@@ -1152,6 +2169,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.468919,
                         58.535116
+                  ]
+            },
+            {
+                  "name": "Lõhavere linnamägi",
+                  "text": "A historic archaeological site of an ancient Estonian hill fort.",
+                  "category": "historical",
+                  "coords": [
+                        25.51519,
+                        58.549805
+                  ]
+            },
+            {
+                  "name": "Home Museum Of The Kapp Family",
+                  "text": "A museum in Suure-Jaani dedicated to the Kapp family of musicians.",
+                  "category": "museum",
+                  "coords": [
+                        25.471843,
+                        58.539323
+                  ]
+            },
+            {
+                  "name": "Suure-Jaani kirik",
+                  "text": "A medieval church in Suure-Jaani, built in the 13th century.",
+                  "category": "religious",
+                  "coords": [
+                        25.468236,
+                        58.533766
+                  ]
+            },
+            {
+                  "name": "Peetruse Pauluse Suure-Jaani kirik",
+                  "text": "A historic Lutheran church dedicated to Saints Peter and Paul in Suure-Jaani.",
+                  "category": "religious",
+                  "coords": [
+                        25.466267,
+                        58.525818
                   ]
             }
       ]
@@ -1200,7 +2253,196 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-suure-jaani-church-history-v2.webp",
   },
   {
-    id: "estonia-mustjala-church-history-v2",
+    id: "estonia-mustjala-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kodulootuba",
+                  "text": "Ein lokales Heimatmuseum, das Gegenstände des bäuerlichen Lebens in Mustjala zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.235501,
+                        58.461031
+                  ]
+            },
+            {
+                  "name": "Black Foot Gallery",
+                  "text": "Eine Kunstgalerie in Mustjala, die Werke lokaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.23477,
+                        58.463372
+                  ]
+            },
+            {
+                  "name": "Mustjala mõisa peahoone",
+                  "text": "Das historische Hauptgebäude des ehemaligen Gutshofes von Mustjala auf Saaremaa.",
+                  "category": "historical",
+                  "coords": [
+                        22.23032,
+                        58.463265
+                  ]
+            },
+            {
+                  "name": "Mustjala Prohvet Eeliase kirik",
+                  "text": "Eine orthodoxe Kirche in Mustjala, die dem Propheten Elias geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.228052,
+                        58.467044
+                  ]
+            },
+            {
+                  "name": "Mustjala Anna kirik",
+                  "text": "Eine evangelisch-lutherische Kirche in Mustjala, erbaut im 19. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        22.235211,
+                        58.462316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kodulootuba",
+                  "text": "Helyi helytörténeti múzeum, amely a paraszti élet tárgyait mutatja be Mustjalában.",
+                  "category": "museum",
+                  "coords": [
+                        22.235501,
+                        58.461031
+                  ]
+            },
+            {
+                  "name": "Black Foot Gallery",
+                  "text": "Művészeti galéria Mustjalában, amely helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.23477,
+                        58.463372
+                  ]
+            },
+            {
+                  "name": "Mustjala mõisa peahoone",
+                  "text": "A korábbi mustjalai uradalom történelmi főépülete Saaremaa szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        22.23032,
+                        58.463265
+                  ]
+            },
+            {
+                  "name": "Mustjala Prohvet Eeliase kirik",
+                  "text": "Ortodox templom Mustjalában, amelyet Illés prófétának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.228052,
+                        58.467044
+                  ]
+            },
+            {
+                  "name": "Mustjala Anna kirik",
+                  "text": "Evangélikus-lutheránus templom Mustjalában, amely a 19. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        22.235211,
+                        58.462316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kodulootuba",
+                  "text": "Un muzeu de istorie locală care expune obiecte ale vieții țărănești în Mustjala.",
+                  "category": "museum",
+                  "coords": [
+                        22.235501,
+                        58.461031
+                  ]
+            },
+            {
+                  "name": "Black Foot Gallery",
+                  "text": "O galerie de artă în Mustjala, care prezintă lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        22.23477,
+                        58.463372
+                  ]
+            },
+            {
+                  "name": "Mustjala mõisa peahoone",
+                  "text": "Clădirea principală istorică a fostului conac Mustjala de pe insula Saaremaa.",
+                  "category": "historical",
+                  "coords": [
+                        22.23032,
+                        58.463265
+                  ]
+            },
+            {
+                  "name": "Mustjala Prohvet Eeliase kirik",
+                  "text": "O biserică ortodoxă în Mustjala, închinată Sfântului Prooroc Ilie.",
+                  "category": "religious",
+                  "coords": [
+                        22.228052,
+                        58.467044
+                  ]
+            },
+            {
+                  "name": "Mustjala Anna kirik",
+                  "text": "O biserică evanghelică luterană în Mustjala, construită în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        22.235211,
+                        58.462316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kodulootuba",
+                  "text": "A local history museum displaying items of peasant life in Mustjala.",
+                  "category": "museum",
+                  "coords": [
+                        22.235501,
+                        58.461031
+                  ]
+            },
+            {
+                  "name": "Black Foot Gallery",
+                  "text": "An art gallery in Mustjala showcasing works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        22.23477,
+                        58.463372
+                  ]
+            },
+            {
+                  "name": "Mustjala mõisa peahoone",
+                  "text": "The historic main building of the former Mustjala manor on Saaremaa island.",
+                  "category": "historical",
+                  "coords": [
+                        22.23032,
+                        58.463265
+                  ]
+            },
+            {
+                  "name": "Mustjala Prohvet Eeliase kirik",
+                  "text": "An Orthodox church in Mustjala dedicated to the Prophet Elijah.",
+                  "category": "religious",
+                  "coords": [
+                        22.228052,
+                        58.467044
+                  ]
+            },
+            {
+                  "name": "Mustjala Anna kirik",
+                  "text": "An Evangelical Lutheran church in Mustjala, built in the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.235211,
+                        58.462316
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "Kirche Mustjala", hu: "Mustjala templom", ro: "Biserica Mustjala", en: "Mustjala Church" },
@@ -1245,7 +2487,88 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-mustjala-church-history-v2.webp",
   },
   {
-    id: "estonia-palamuse-church-history-v2",
+    id: "estonia-palamuse-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nurga Koduloomuuseum",
+                  "text": "Ein Heimatmuseum in Estland, das landwirtschaftliche Geräte und lokales Handwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.493468,
+                        58.66617
+                  ]
+            },
+            {
+                  "name": "Kaarepere Vaga Suzdali Eufimi ja Vaga Egiptuse Maria kirik",
+                  "text": "Eine orthodoxe Holzkirche in Kaarepere, bekannt für ihre traditionelle Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        26.514045,
+                        58.662376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nurga Koduloomuuseum",
+                  "text": "Észt helytörténeti múzeum, amely mezőgazdasági eszközöket és kézműves tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.493468,
+                        58.66617
+                  ]
+            },
+            {
+                  "name": "Kaarepere Vaga Suzdali Eufimi ja Vaga Egiptuse Maria kirik",
+                  "text": "Ortodox fatemplom Kaareperében, amely hagyományos építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.514045,
+                        58.662376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nurga Koduloomuuseum",
+                  "text": "Un muzeu de istorie locală din Estonia care expune unelte agricole și artizanat local.",
+                  "category": "museum",
+                  "coords": [
+                        26.493468,
+                        58.66617
+                  ]
+            },
+            {
+                  "name": "Kaarepere Vaga Suzdali Eufimi ja Vaga Egiptuse Maria kirik",
+                  "text": "O biserică ortodoxă din lemn în Kaarepere, cunoscută pentru arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        26.514045,
+                        58.662376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nurga Local Lore Museum",
+                  "text": "A local lore museum in Estonia exhibiting agricultural tools and local crafts.",
+                  "category": "museum",
+                  "coords": [
+                        26.493468,
+                        58.66617
+                  ]
+            },
+            {
+                  "name": "Kaarepere Vaga Suzdali Eufimi ja Vaga Egiptuse Maria kirik",
+                  "text": "An Orthodox wooden church in Kaarepere, known for its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.514045,
+                        58.662376
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "Kirche Palamuse", hu: "Palamuse templom", ro: "Biserica Palamuse", en: "Palamuse Church" },
@@ -1290,7 +2613,124 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-palamuse-church-history-v2.webp",
   },
   {
-    id: "estonia-vastseliina-castle-ruins-v2",
+    id: "estonia-vastseliina-castle-ruins-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "Ein Museum, das die Geschichte des örtlichen Gymnasiums und der Bildung in Vastseliina dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Jürikerigumägi",
+                  "text": "Eine archäologische Fundstätte bei den Burgruinen von Vastseliina.",
+                  "category": "historical",
+                  "coords": [
+                        27.312648,
+                        57.759922
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "Eine evangelisch-lutherische Kirche aus dem 18. Jahrhundert in der Nähe der Burgruine.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "A helyi gimnázium és a vastseliinai oktatás történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Jürikerigumägi",
+                  "text": "Régészeti lelőhely a vastseliinai várromok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.312648,
+                        57.759922
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "18. századi evangélikus templom a várromok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "Un muzeu care documentează istoria gimnaziului local și a educației din Vastseliina.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Jürikerigumägi",
+                  "text": "Un sit arheologic situat lângă ruinele castelului din Vastseliina.",
+                  "category": "historical",
+                  "coords": [
+                        27.312648,
+                        57.759922
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "O biserică evanghelică luterană din secolul al XVIII-lea, situată lângă ruinele castelului.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vastseliina Gymnasium Museum",
+                  "text": "A museum documenting the history of the local gymnasium and education in Vastseliina.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Jürikerigumägi",
+                  "text": "An archaeological site located near the Vastseliina castle ruins.",
+                  "category": "historical",
+                  "coords": [
+                        27.312648,
+                        57.759922
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "An 18th-century Evangelical Lutheran church located near the castle ruins.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruine Vastseliina", hu: "Vastseliina várromok", ro: "Ruinele Castelului Vastseliina", en: "Vastseliina Castle Ruins" },
@@ -1470,7 +2910,124 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-kunda-manor-history-v2.webp",
   },
   {
-    id: "estonia-taagepera-castle-history-v2",
+    id: "estonia-taagepera-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mulgi Elamuskeskus",
+                  "text": "Ein Erlebniszentrum beim Schloss Taagepera, das die regionale Kultur der Mulgi präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.682758,
+                        57.99711
+                  ]
+            },
+            {
+                  "name": "Taagepera loss",
+                  "text": "Ein prächtiges Herrenhaus im Jugendstil, das Teil des Ensembles am Schloss Taagepera ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.665208,
+                        57.993059
+                  ]
+            },
+            {
+                  "name": "Taagepera Jaani kirik",
+                  "text": "Eine historische Steinkirche mit Holzturm, die zum Anwesen des Schlosses Taagepera gehört.",
+                  "category": "religious",
+                  "coords": [
+                        25.686284,
+                        58.013455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mulgi Elamuskeskus",
+                  "text": "A Taagepera kastélynál található élményközpont, amely a mulgi regionális kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.682758,
+                        57.99711
+                  ]
+            },
+            {
+                  "name": "Taagepera loss",
+                  "text": "Pompás szecessziós udvarház, amely a Taagepera kastély együttesének része.",
+                  "category": "historical",
+                  "coords": [
+                        25.665208,
+                        57.993059
+                  ]
+            },
+            {
+                  "name": "Taagepera Jaani kirik",
+                  "text": "Történelmi kőtemplom fatoronnyal, amely a Taagepera kastély birtokához tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        25.686284,
+                        58.013455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mulgi Elamuskeskus",
+                  "text": "Un centru de experiență la castelul Taagepera, care prezintă cultura regională Mulgi.",
+                  "category": "museum",
+                  "coords": [
+                        25.682758,
+                        57.99711
+                  ]
+            },
+            {
+                  "name": "Taagepera loss",
+                  "text": "Un conac somptuos în stil Jugendstil, care face parte din ansamblul de la castelul Taagepera.",
+                  "category": "historical",
+                  "coords": [
+                        25.665208,
+                        57.993059
+                  ]
+            },
+            {
+                  "name": "Taagepera Jaani kirik",
+                  "text": "O biserică istorică de piatră cu turn de lemn, care aparține domeniului castelului Taagepera.",
+                  "category": "religious",
+                  "coords": [
+                        25.686284,
+                        58.013455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mulgi Elamuskeskus",
+                  "text": "An experience center at Taagepera Castle, presenting the regional Mulgi culture.",
+                  "category": "museum",
+                  "coords": [
+                        25.682758,
+                        57.99711
+                  ]
+            },
+            {
+                  "name": "Taagepera loss",
+                  "text": "A magnificent Art Nouveau manor house forming part of the ensemble at Taagepera Castle.",
+                  "category": "historical",
+                  "coords": [
+                        25.665208,
+                        57.993059
+                  ]
+            },
+            {
+                  "name": "Taagepera Church",
+                  "text": "A historic stone church with a wooden tower belonging to the Taagepera Castle estate.",
+                  "category": "religious",
+                  "coords": [
+                        25.686284,
+                        58.013455
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Taagepera", hu: "Taagepera-kastély", ro: "Castelul Taagepera", en: "Taagepera Castle" },
@@ -1515,7 +3072,160 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-taagepera-castle-history-v2.webp",
   },
   {
-    id: "estonia-tori-church-history-v2",
+    id: "estonia-tori-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tori muuseum",
+                  "text": "Ein lokales Museum zur Geschichte und Kultur der Region Tori.",
+                  "category": "museum",
+                  "coords": [
+                        24.811043,
+                        58.480222
+                  ]
+            },
+            {
+                  "name": "Tori-Hölle",
+                  "text": "Eine malerische Höhle und Sandsteinfelsen am Ufer des Flusses Pärnu.",
+                  "category": "natural",
+                  "coords": [
+                        24.816727,
+                        58.483385
+                  ]
+            },
+            {
+                  "name": "Tori sild",
+                  "text": "Eine bedeutende Brücke über den Fluss Pärnu in Tori.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814658,
+                        58.484077
+                  ]
+            },
+            {
+                  "name": "Tori uus vallamaja",
+                  "text": "Das moderne Gemeindehaus der Landgemeinde Tori.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814383,
+                        58.48565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tori muuseum",
+                  "text": "A Tori-vidék történelmét és kultúráját bemutató helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.811043,
+                        58.480222
+                  ]
+            },
+            {
+                  "name": "Tori põrgu",
+                  "text": "Látványos barlang és homokkő sziklafal a Pärnu-folyó partján.",
+                  "category": "natural",
+                  "coords": [
+                        24.816727,
+                        58.483385
+                  ]
+            },
+            {
+                  "name": "Tori sild",
+                  "text": "Jelentős híd a Pärnu-folyón Tori településénél.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814658,
+                        58.484077
+                  ]
+            },
+            {
+                  "name": "Tori uus vallamaja",
+                  "text": "Tori község modern önkormányzati épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814383,
+                        58.48565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tori muuseum",
+                  "text": "Un muzeu local care documentează istoria și cultura regiunii Tori.",
+                  "category": "museum",
+                  "coords": [
+                        24.811043,
+                        58.480222
+                  ]
+            },
+            {
+                  "name": "Tori põrgu",
+                  "text": "O peșteră pitorească și un afloriment de gresie pe malul râului Pärnu.",
+                  "category": "natural",
+                  "coords": [
+                        24.816727,
+                        58.483385
+                  ]
+            },
+            {
+                  "name": "Tori sild",
+                  "text": "Un pod notabil care traversează râul Pärnu în Tori.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814658,
+                        58.484077
+                  ]
+            },
+            {
+                  "name": "Tori uus vallamaja",
+                  "text": "Clădirea municipală modernă a parohiei Tori.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814383,
+                        58.48565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tori Museum",
+                  "text": "A local museum documenting the history and culture of the Tori region.",
+                  "category": "museum",
+                  "coords": [
+                        24.811043,
+                        58.480222
+                  ]
+            },
+            {
+                  "name": "Tori Hell",
+                  "text": "A scenic cave and sandstone outcrop on the banks of the Pärnu River.",
+                  "category": "natural",
+                  "coords": [
+                        24.816727,
+                        58.483385
+                  ]
+            },
+            {
+                  "name": "Tori sild",
+                  "text": "A notable bridge crossing the Pärnu River in Tori.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814658,
+                        58.484077
+                  ]
+            },
+            {
+                  "name": "Tori uus vallamaja",
+                  "text": "The modern municipal building of the Tori parish.",
+                  "category": "landmark",
+                  "coords": [
+                        24.814383,
+                        58.48565
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "Kirche Tori", hu: "Tori templom", ro: "Biserica Tori", en: "Tori Church" },
@@ -1660,6 +3370,33 @@ export const estoniaHistoryV2: POI[] = [
                         27.048927,
                         58.95298
                   ]
+            },
+            {
+                  "name": "EELK Lohusuu kirik",
+                  "text": "Eine evangelisch-lutherische Kirche aus dem 19. Jahrhundert in Lohusuu.",
+                  "category": "religious",
+                  "coords": [
+                        27.045742,
+                        58.951375
+                  ]
+            },
+            {
+                  "name": "Lohusuu Veneküla kalmistu kabel",
+                  "text": "Eine Friedhofskapelle im Dorf Lohusuu-Veneküla.",
+                  "category": "religious",
+                  "coords": [
+                        27.058019,
+                        58.947801
+                  ]
+            },
+            {
+                  "name": "Lohusuu Issanda Ristimise kirik",
+                  "text": "Eine orthodoxe Kirche in Lohusuu, die der Taufe Christi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.057481,
+                        58.945801
+                  ]
             }
       ],
       "hu": [
@@ -1670,6 +3407,33 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.048927,
                         58.95298
+                  ]
+            },
+            {
+                  "name": "EELK Lohusuu kirik",
+                  "text": "19. századi evangélikus templom Lohusuuban.",
+                  "category": "religious",
+                  "coords": [
+                        27.045742,
+                        58.951375
+                  ]
+            },
+            {
+                  "name": "Lohusuu Veneküla kalmistu kabel",
+                  "text": "Temetőkápolna Lohusuu-Veneküla faluban.",
+                  "category": "religious",
+                  "coords": [
+                        27.058019,
+                        58.947801
+                  ]
+            },
+            {
+                  "name": "Lohusuu Issanda Ristimise kirik",
+                  "text": "Krisztus megkeresztelésének szentelt ortodox templom Lohusuuban.",
+                  "category": "religious",
+                  "coords": [
+                        27.057481,
+                        58.945801
                   ]
             }
       ],
@@ -1682,6 +3446,33 @@ export const estoniaHistoryV2: POI[] = [
                         27.048927,
                         58.95298
                   ]
+            },
+            {
+                  "name": "EELK Lohusuu kirik",
+                  "text": "O biserică evanghelică luterană din secolul al XIX-lea în Lohusuu.",
+                  "category": "religious",
+                  "coords": [
+                        27.045742,
+                        58.951375
+                  ]
+            },
+            {
+                  "name": "Lohusuu Veneküla kalmistu kabel",
+                  "text": "O chapelă de cimitir în satul Lohusuu-Veneküla.",
+                  "category": "religious",
+                  "coords": [
+                        27.058019,
+                        58.947801
+                  ]
+            },
+            {
+                  "name": "Lohusuu Issanda Ristimise kirik",
+                  "text": "O biserică ortodoxă din Lohusuu dedicată Botezului Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        27.057481,
+                        58.945801
+                  ]
             }
       ],
       "en": [
@@ -1692,6 +3483,33 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.048927,
                         58.95298
+                  ]
+            },
+            {
+                  "name": "EELK Lohusuu kirik",
+                  "text": "A 19th-century Evangelical Lutheran church in Lohusuu.",
+                  "category": "religious",
+                  "coords": [
+                        27.045742,
+                        58.951375
+                  ]
+            },
+            {
+                  "name": "Lohusuu Veneküla kalmistu kabel",
+                  "text": "A cemetery chapel in the village of Lohusuu-Veneküla.",
+                  "category": "religious",
+                  "coords": [
+                        27.058019,
+                        58.947801
+                  ]
+            },
+            {
+                  "name": "Lohusuu Issanda Ristimise kirik",
+                  "text": "An Orthodox church in Lohusuu dedicated to the Baptism of Christ.",
+                  "category": "religious",
+                  "coords": [
+                        27.057481,
+                        58.945801
                   ]
             }
       ]
@@ -1785,7 +3603,52 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-valga-church-history-v2.webp",
   },
   {
-    id: "estonia-varbla-church-history-v2",
+    id: "estonia-varbla-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paadrema Püha Kolmainu kirik",
+                  "text": "Eine historische orthodoxe Holzkirche in der estnischen Gemeinde Varbla.",
+                  "category": "religious",
+                  "coords": [
+                        23.829001,
+                        58.535137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paadrema Püha Kolmainu kirik",
+                  "text": "Történelmi ortodox fatemplom az észtországi Varbla községben.",
+                  "category": "religious",
+                  "coords": [
+                        23.829001,
+                        58.535137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paadrema Püha Kolmainu kirik",
+                  "text": "O biserică ortodoxă istorică din lemn în comuna estonă Varbla.",
+                  "category": "religious",
+                  "coords": [
+                        23.829001,
+                        58.535137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paadrema Püha Kolmainu kirik",
+                  "text": "A historic Orthodox wooden church in the Varbla parish of Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        23.829001,
+                        58.535137
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "Kirche Varbla", hu: "Varbla templom", ro: "Biserica Varbla", en: "Varbla Church" },
@@ -1966,6 +3829,33 @@ export const estoniaHistoryV2: POI[] = [
                         26.985761,
                         59.435794
                   ]
+            },
+            {
+                  "name": "Purtse kindlus",
+                  "text": "Ein befestigtes Herrenhaus aus dem 16. Jahrhundert, das als eines der ältesten Gebäude Estlands gilt.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Ein Leuchtfeuer an der estnischen Küste zur Unterstützung der Seeschifffahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            },
+            {
+                  "name": "Tulivee salapiirituseveo muuseum",
+                  "text": "Ein Museum, das der Geschichte des Spirituosen-Schmuggels in Estland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.990691,
+                        59.435852
+                  ]
             }
       ],
       "hu": [
@@ -1976,6 +3866,33 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.985761,
                         59.435794
+                  ]
+            },
+            {
+                  "name": "Purtse kindlus",
+                  "text": "Egy 16. századi erődített udvarház, amely Észtország egyik legrégebbi épülete.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Egy világítótorony az észt tengerparton, amely a hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            },
+            {
+                  "name": "Tulivee salapiirituseveo muuseum",
+                  "text": "Az észtországi szeszcsempészet történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.990691,
+                        59.435852
                   ]
             }
       ],
@@ -1988,6 +3905,33 @@ export const estoniaHistoryV2: POI[] = [
                         26.985761,
                         59.435794
                   ]
+            },
+            {
+                  "name": "Purtse kindlus",
+                  "text": "Un conac fortificat din secolul al 16-lea, considerat una dintre cele mai vechi clădiri din Estonia.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "Un far de pe coasta Estoniei, utilizat pentru asistența navigației maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            },
+            {
+                  "name": "Tulivee salapiirituseveo muuseum",
+                  "text": "Un muzeu dedicat istoriei traficului ilegal de băuturi alcoolice din Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        26.990691,
+                        59.435852
+                  ]
             }
       ],
       "en": [
@@ -1998,6 +3942,33 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.985761,
                         59.435794
+                  ]
+            },
+            {
+                  "name": "Purtse kindlus",
+                  "text": "A 16th-century fortified manor house, considered one of the oldest buildings in Estonia.",
+                  "category": "castle",
+                  "coords": [
+                        27.01299,
+                        59.419059
+                  ]
+            },
+            {
+                  "name": "Moldova tulepaak",
+                  "text": "A lighthouse beacon on the Estonian coast used for maritime navigation assistance.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05515,
+                        59.432033
+                  ]
+            },
+            {
+                  "name": "Tulivee salapiirituseveo muuseum",
+                  "text": "A museum dedicated to the history of spirit smuggling in Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        26.990691,
+                        59.435852
                   ]
             }
       ]
@@ -2065,6 +4036,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.218708,
                         58.236489
                   ]
+            },
+            {
+                  "name": "Rannu Issanda Jeruusalemma Minemise kirik",
+                  "text": "Eine orthodoxe Kirche in Rannu, erbaut zu Beginn des 20. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        26.190835,
+                        58.249256
+                  ]
             }
       ],
       "hu": [
@@ -2084,6 +4064,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.218708,
                         58.236489
+                  ]
+            },
+            {
+                  "name": "Rannu Issanda Jeruusalemma Minemise kirik",
+                  "text": "Ortodox templom Rannuban, amely a 20. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        26.190835,
+                        58.249256
                   ]
             }
       ],
@@ -2105,6 +4094,15 @@ export const estoniaHistoryV2: POI[] = [
                         26.218708,
                         58.236489
                   ]
+            },
+            {
+                  "name": "Rannu Issanda Jeruusalemma Minemise kirik",
+                  "text": "O biserică ortodoxă din Rannu, construită la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        26.190835,
+                        58.249256
+                  ]
             }
       ],
       "en": [
@@ -2124,6 +4122,15 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.218708,
                         58.236489
+                  ]
+            },
+            {
+                  "name": "Rannu Issanda Jeruusalemma Minemise kirik",
+                  "text": "An Orthodox church in Rannu, built at the beginning of the 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        26.190835,
+                        58.249256
                   ]
             }
       ]
@@ -2191,6 +4198,24 @@ export const estoniaHistoryV2: POI[] = [
                         25.456503,
                         59.497983
                   ]
+            },
+            {
+                  "name": "7 Kivikalmet",
+                  "text": "Eine archäologische Stätte in Estland mit sieben antiken Steingräbern.",
+                  "category": "historical",
+                  "coords": [
+                        25.49374,
+                        59.509509
+                  ]
+            },
+            {
+                  "name": "Turje kelder",
+                  "text": "Eine Sandsteinhöhle und ein kleiner Wasserfall im Nationalpark Lahemaa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.496089,
+                        59.510204
+                  ]
             }
       ],
       "hu": [
@@ -2210,6 +4235,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.456503,
                         59.497983
+                  ]
+            },
+            {
+                  "name": "7 Kivikalmet",
+                  "text": "Régészeti lelőhely Észtországban hét ősi kőkamrás sírral.",
+                  "category": "historical",
+                  "coords": [
+                        25.49374,
+                        59.509509
+                  ]
+            },
+            {
+                  "name": "Turje kelder",
+                  "text": "Homokkő barlang és egy kis vízesés a Lahemaa Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.496089,
+                        59.510204
                   ]
             }
       ],
@@ -2231,6 +4274,24 @@ export const estoniaHistoryV2: POI[] = [
                         25.456503,
                         59.497983
                   ]
+            },
+            {
+                  "name": "7 Kivikalmet",
+                  "text": "Un sit arheologic din Estonia cu șapte morminte antice din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        25.49374,
+                        59.509509
+                  ]
+            },
+            {
+                  "name": "Turje kelder",
+                  "text": "O peșteră de gresie și o mică cascadă în Parcul Național Lahemaa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.496089,
+                        59.510204
+                  ]
             }
       ],
       "en": [
@@ -2250,6 +4311,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.456503,
                         59.497983
+                  ]
+            },
+            {
+                  "name": "7 Kivikalmet",
+                  "text": "An archaeological site in Estonia featuring seven ancient stone-cist graves.",
+                  "category": "historical",
+                  "coords": [
+                        25.49374,
+                        59.509509
+                  ]
+            },
+            {
+                  "name": "Turje kelder",
+                  "text": "A sandstone cave and small waterfall located in the Lahemaa National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        25.496089,
+                        59.510204
                   ]
             }
       ]
@@ -2308,6 +4387,42 @@ export const estoniaHistoryV2: POI[] = [
                         24.195121,
                         59.22712
                   ]
+            },
+            {
+                  "name": "Padise klooster",
+                  "text": "Ruinen eines bedeutenden Zisterzienserklosters aus dem 13. Jahrhundert in Estland.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Das historische Haupthaus des ehemaligen Gutshofs von Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Die Ruinen der alten Brennerei des Gutshofs Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "Ein ehemaliges Gefängnisgelände, das heute als ungewöhnliche Touristenattraktion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
             }
       ],
       "hu": [
@@ -2318,6 +4433,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.195121,
                         59.22712
+                  ]
+            },
+            {
+                  "name": "Padise klooster",
+                  "text": "Egy jelentős, 13. századi ciszterci kolostor romjai Észtországban.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "A padisei egykori udvarház történelmi főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "A padisei uradalom egykori szeszfőzdéjének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "Egykori börtönterület, amely ma szokatlan turisztikai látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
                   ]
             }
       ],
@@ -2330,6 +4481,42 @@ export const estoniaHistoryV2: POI[] = [
                         24.195121,
                         59.22712
                   ]
+            },
+            {
+                  "name": "Padise klooster",
+                  "text": "Ruinele unei importante mănăstiri cisterciene din secolul al XIII-lea în Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "Clădirea principală istorică a fostului conac din Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "Ruinele fostei distilerii a conacului Padise.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Endine Murru vangla",
+                  "text": "O fostă incintă a închisorii, care servește astăzi ca o atracție turistică neobișnuită.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
+                  ]
             }
       ],
       "en": [
@@ -2340,6 +4527,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.195121,
                         59.22712
+                  ]
+            },
+            {
+                  "name": "Padise klooster",
+                  "text": "Ruins of a significant 13th-century Cistercian monastery in Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        24.140723,
+                        59.227607
+                  ]
+            },
+            {
+                  "name": "Padise mõisa peahoone",
+                  "text": "The historic main building of the former Padise manor house.",
+                  "category": "historical",
+                  "coords": [
+                        24.142301,
+                        59.22792
+                  ]
+            },
+            {
+                  "name": "Padise mõisa viinavabrik",
+                  "text": "The ruins of the old distillery of the Padise manor.",
+                  "category": "historical",
+                  "coords": [
+                        24.139406,
+                        59.226442
+                  ]
+            },
+            {
+                  "name": "Former Murru Prison",
+                  "text": "A former prison site that now serves as an unusual tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        24.202626,
+                        59.22906
                   ]
             }
       ]
@@ -2398,6 +4621,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.169952,
                         59.183933
                   ]
+            },
+            {
+                  "name": "Kose Vesiveski",
+                  "text": "Ein lokales Museum, das in einer historischen Wassermühle in der Nähe der Kirche von Kose untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.16761,
+                        59.186038
+                  ]
+            },
+            {
+                  "name": "Ravila mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs Ravila in der Region Kose.",
+                  "category": "historical",
+                  "coords": [
+                        25.222311,
+                        59.184331
+                  ]
+            },
+            {
+                  "name": "Maagiline ring",
+                  "text": "Eine lokale Attraktion in Kose, die oft mit Garten- oder Parkgestaltungen in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        25.138956,
+                        59.169436
+                  ]
+            },
+            {
+                  "name": "Kose kirik",
+                  "text": "Eine mittelalterliche Steinkirche in Kose, die dem Heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.166859,
+                        59.18821
+                  ]
             }
       ],
       "hu": [
@@ -2408,6 +4667,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.169952,
                         59.183933
+                  ]
+            },
+            {
+                  "name": "Kose Vesiveski",
+                  "text": "Egy helyi múzeum, amely egy történelmi vízimalomban kapott helyet a kosei templom közelében.",
+                  "category": "museum",
+                  "coords": [
+                        25.16761,
+                        59.186038
+                  ]
+            },
+            {
+                  "name": "Ravila mõisa peahoone",
+                  "text": "A történelmi Ravila-kúria főépülete a kosei régióban.",
+                  "category": "historical",
+                  "coords": [
+                        25.222311,
+                        59.184331
+                  ]
+            },
+            {
+                  "name": "Maagiline ring",
+                  "text": "Egy helyi látnivaló Kose településen, amely gyakran kert- vagy parkrendezéshez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.138956,
+                        59.169436
+                  ]
+            },
+            {
+                  "name": "Kose kirik",
+                  "text": "Egy középkori kőtemplom Koséban, amelyet Szent Miklós tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        25.166859,
+                        59.18821
                   ]
             }
       ],
@@ -2420,6 +4715,42 @@ export const estoniaHistoryV2: POI[] = [
                         25.169952,
                         59.183933
                   ]
+            },
+            {
+                  "name": "Kose Vesiveski",
+                  "text": "Un muzeu local găzduit într-o moară de apă istorică de lângă biserica din Kose.",
+                  "category": "museum",
+                  "coords": [
+                        25.16761,
+                        59.186038
+                  ]
+            },
+            {
+                  "name": "Ravila mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Ravila, situată în regiunea Kose.",
+                  "category": "historical",
+                  "coords": [
+                        25.222311,
+                        59.184331
+                  ]
+            },
+            {
+                  "name": "Maagiline ring",
+                  "text": "O atracție locală în Kose, adesea asociată cu amenajări de grădini sau parcuri.",
+                  "category": "landmark",
+                  "coords": [
+                        25.138956,
+                        59.169436
+                  ]
+            },
+            {
+                  "name": "Kose kirik",
+                  "text": "O biserică medievală de piatră în Kose, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        25.166859,
+                        59.18821
+                  ]
             }
       ],
       "en": [
@@ -2430,6 +4761,42 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.169952,
                         59.183933
+                  ]
+            },
+            {
+                  "name": "Kose Vesiveski",
+                  "text": "A local museum housed in a historic watermill near the Kose church.",
+                  "category": "museum",
+                  "coords": [
+                        25.16761,
+                        59.186038
+                  ]
+            },
+            {
+                  "name": "Ravila mõisa peahoone",
+                  "text": "The main building of the historic Ravila Manor, located in the Kose region.",
+                  "category": "historical",
+                  "coords": [
+                        25.222311,
+                        59.184331
+                  ]
+            },
+            {
+                  "name": "Maagiline ring",
+                  "text": "A local attraction in Kose, often associated with gardens or park designs.",
+                  "category": "landmark",
+                  "coords": [
+                        25.138956,
+                        59.169436
+                  ]
+            },
+            {
+                  "name": "Kose kirik",
+                  "text": "A medieval stone church in Kose, dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        25.166859,
+                        59.18821
                   ]
             }
       ]
@@ -2478,7 +4845,88 @@ export const estoniaHistoryV2: POI[] = [
     image: "/poi-images/estonia-kose-church-history-v2.webp",
   },
   {
-    id: "estonia-saare-manor-history-v2",
+    id: "estonia-saare-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krati Seikluspark",
+                  "text": "Ein Abenteuer- und Freizeitpark in der Nähe von Saare Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        26.847639,
+                        58.695087
+                  ]
+            },
+            {
+                  "name": "Kalevipoja Muuseum",
+                  "text": "Ein Museum in Saare Castle, das der estnischen Mythologie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.847518,
+                        58.696178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krati Seikluspark",
+                  "text": "Kaland- és élménypark Saare Castle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.847639,
+                        58.695087
+                  ]
+            },
+            {
+                  "name": "Kalevipoja Muuseum",
+                  "text": "Saare Castle múzeuma, amely az észt mitológiának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.847518,
+                        58.696178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krati Seikluspark",
+                  "text": "Un parc de aventură și agrement situat lângă Saare Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        26.847639,
+                        58.695087
+                  ]
+            },
+            {
+                  "name": "Kalevipoja Muuseum",
+                  "text": "Un muzeu din Saare Castle dedicat mitologiei estoniene.",
+                  "category": "museum",
+                  "coords": [
+                        26.847518,
+                        58.696178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krati Seikluspark",
+                  "text": "An adventure and leisure park located near Saare Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        26.847639,
+                        58.695087
+                  ]
+            },
+            {
+                  "name": "Kalevipoeg Museum",
+                  "text": "A museum in Saare Castle dedicated to Estonian mythology.",
+                  "category": "museum",
+                  "coords": [
+                        26.847518,
+                        58.696178
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Saare", hu: "Saare-kastély", ro: "Castelul Saare", en: "Saare Castle" },
@@ -2533,6 +4981,24 @@ export const estoniaHistoryV2: POI[] = [
                         26.299408,
                         58.576046
                   ]
+            },
+            {
+                  "name": "Kursi Kihelkonnamuuseum",
+                  "text": "Ein Heimatmuseum, das der Bewahrung der Geschichte und des kulturellen Erbes der Region Kursi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.289781,
+                        58.574682
+                  ]
+            },
+            {
+                  "name": "Kursi kirik",
+                  "text": "Eine historische lutherische Kirche in Kursi, bemerkenswert für ihren neugotischen Architekturstil.",
+                  "category": "religious",
+                  "coords": [
+                        26.342977,
+                        58.592397
+                  ]
             }
       ],
       "hu": [
@@ -2543,6 +5009,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.299408,
                         58.576046
+                  ]
+            },
+            {
+                  "name": "Kursi Kihelkonnamuuseum",
+                  "text": "Helytörténeti múzeum, amely a Kursi régió történelmének és kulturális örökségének megőrzésére szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        26.289781,
+                        58.574682
+                  ]
+            },
+            {
+                  "name": "Kursi kirik",
+                  "text": "Történelmi evangélikus templom Kursiban, amely neogótikus építészeti stílusáról nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        26.342977,
+                        58.592397
                   ]
             }
       ],
@@ -2555,6 +5039,24 @@ export const estoniaHistoryV2: POI[] = [
                         26.299408,
                         58.576046
                   ]
+            },
+            {
+                  "name": "Kursi Kihelkonnamuuseum",
+                  "text": "Un muzeu local dedicat conservării istoriei și moștenirii culturale a regiunii Kursi.",
+                  "category": "museum",
+                  "coords": [
+                        26.289781,
+                        58.574682
+                  ]
+            },
+            {
+                  "name": "Kursi kirik",
+                  "text": "O biserică luterană istorică din Kursi, remarcabilă pentru stilul său arhitectural neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        26.342977,
+                        58.592397
+                  ]
             }
       ],
       "en": [
@@ -2565,6 +5067,24 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         26.299408,
                         58.576046
+                  ]
+            },
+            {
+                  "name": "Kursi Local Lore Museum",
+                  "text": "A local museum dedicated to preserving the history and cultural heritage of the Kursi region.",
+                  "category": "museum",
+                  "coords": [
+                        26.289781,
+                        58.574682
+                  ]
+            },
+            {
+                  "name": "Kursi kirik",
+                  "text": "A historic Lutheran church in Kursi, notable for its Neo-Gothic architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        26.342977,
+                        58.592397
                   ]
             }
       ]

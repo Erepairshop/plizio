@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const portugalReliefV2: POI[] = [
 
   {
-    id: "portugal-serra-do-geres-relief-v2",
+    id: "portugal-serra-do-geres-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Circo Glaciar de Cocões do Concelinho",
+                  "text": "Ein imposanter Gletscherkessel in den Bergen der Serra do Gerês, geformt während der letzten Eiszeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.055761,
+                        41.787422
+                  ]
+            },
+            {
+                  "name": "Escorrega da Touça",
+                  "text": "Eine natürliche Felsrutsche in einem Gebirgsbach der Serra do Gerês, beliebt bei Wanderern und Naturliebhabern.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082934,
+                        41.754874
+                  ]
+            },
+            {
+                  "name": "Meda da Rocalva",
+                  "text": "Eine markante Granitfelsformation in der Serra do Gerês, die ein Wahrzeichen für Wanderer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.104422,
+                        41.756251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Circo Glaciar de Cocões do Concelinho",
+                  "text": "Látványos gleccserkatlan a Serra do Gerês hegységben, amely az utolsó jégkorszak idején alakult ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.055761,
+                        41.787422
+                  ]
+            },
+            {
+                  "name": "Escorrega da Touça",
+                  "text": "Természetes csúszda egy hegyi patakban a Serra do Gerês hegységben, a kirándulók kedvelt helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082934,
+                        41.754874
+                  ]
+            },
+            {
+                  "name": "Meda da Rocalva",
+                  "text": "Jellegzetes gránit sziklaalakzat a Serra do Gerês hegységben, amely a túrázók egyik tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.104422,
+                        41.756251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Circo Glaciar de Cocões do Concelinho",
+                  "text": "Un circ glaciar impresionant în munții Serra do Gerês, format în timpul ultimei ere glaciare.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.055761,
+                        41.787422
+                  ]
+            },
+            {
+                  "name": "Escorrega da Touça",
+                  "text": "Un tobogan natural într-un pârâu de munte din Serra do Gerês, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082934,
+                        41.754874
+                  ]
+            },
+            {
+                  "name": "Meda da Rocalva",
+                  "text": "O formațiune stâncoasă de granit proeminentă în Serra do Gerês, un reper pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.104422,
+                        41.756251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Circo Glaciar de Cocões do Concelinho",
+                  "text": "An impressive glacial cirque in the Serra do Gerês mountains, formed during the last ice age.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.055761,
+                        41.787422
+                  ]
+            },
+            {
+                  "name": "Escorrega da Touça",
+                  "text": "A natural water slide in a mountain stream within Serra do Gerês, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.082934,
+                        41.754874
+                  ]
+            },
+            {
+                  "name": "Meda da Rocalva",
+                  "text": "A prominent granite rock formation in Serra do Gerês, serving as a landmark for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.104422,
+                        41.756251
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Gerês", hu: "Serra do Gerês", ro: "Serra do Gerês", en: "Serra do Gerês" },
@@ -48,7 +165,196 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-geres-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-aco-relief-v2",
+    id: "portugal-serra-do-aco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu de Piodão",
+                  "text": "Ein kleines Museum im Dorf Piódão, das Einblicke in die lokale Geschichte und Traditionen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.824719,
+                        40.229101
+                  ]
+            },
+            {
+                  "name": "São Pedro de Açor",
+                  "text": "Ein markanter Gipfel in der Serra do Açor mit Panoramablick über die Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.818031,
+                        40.215593
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Eine beliebte Panoramaschaukel in der Serra do Açor mit Blick auf die umliegenden Täler.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Baloiço Casa Martinho",
+                  "text": "Ein Aussichtspunkt mit Schaukel in der Serra do Açor, ideal für Fotos.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.824006,
+                        40.230137
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Natürliche Schwimmbecken in der Bergregion der Serra do Açor.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu de Piodão",
+                  "text": "Piódão falujának kis múzeuma, amely a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.824719,
+                        40.229101
+                  ]
+            },
+            {
+                  "name": "São Pedro de Açor",
+                  "text": "A Serra do Açor hegység egyik jellegzetes csúcsa, ahonnan panorámás kilátás nyílik a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.818031,
+                        40.215593
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Népszerű panorámahinta a Serra do Açor hegységben, kilátással a környező völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Baloiço Casa Martinho",
+                  "text": "Kilátópont hintával a Serra do Açor hegységben, amely ideális fotóhelyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.824006,
+                        40.230137
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Természetes medencék a Serra do Açor hegyvidéki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu de Piodão",
+                  "text": "Un mic muzeu din satul Piódão care oferă informații despre istoria și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -7.824719,
+                        40.229101
+                  ]
+            },
+            {
+                  "name": "São Pedro de Açor",
+                  "text": "Un vârf proeminent din Serra do Açor, oferind vederi panoramice asupra peisajului montan.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.818031,
+                        40.215593
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "Un leagăn panoramic popular în Serra do Açor, cu vedere spre văile înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Baloiço Casa Martinho",
+                  "text": "Un punct de belvedere cu leagăn în Serra do Açor, ideal pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.824006,
+                        40.230137
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Piscine naturale situate în regiunea montană Serra do Açor.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu de Piodão",
+                  "text": "A small museum in the village of Piódão offering insights into local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -7.824719,
+                        40.229101
+                  ]
+            },
+            {
+                  "name": "São Pedro de Açor",
+                  "text": "A prominent peak in the Serra do Açor offering panoramic views over the mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.818031,
+                        40.215593
+                  ]
+            },
+            {
+                  "name": "Baloiço do Sobral Magro",
+                  "text": "A popular panoramic swing in the Serra do Açor with views over the surrounding valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.851901,
+                        40.246433
+                  ]
+            },
+            {
+                  "name": "Baloiço Casa Martinho",
+                  "text": "A viewpoint with a swing in the Serra do Açor, ideal for photography.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.824006,
+                        40.230137
+                  ]
+            },
+            {
+                  "name": "Piscinas do Tojo",
+                  "text": "Natural swimming pools located in the mountainous region of Serra do Açor.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.863054,
+                        40.210933
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Açor", hu: "Serra do Açor", ro: "Serra do Açor", en: "Serra do Açor" },
@@ -93,7 +399,304 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-aco-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-monchique-relief-v2",
+    id: "portugal-serra-de-monchique-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Convento de Nossa Senhora do Desterro",
+                  "text": "Ruinen eines ehemaligen Franziskanerklosters aus dem 17. Jahrhundert mit Panoramablick auf Monchique.",
+                  "category": "religious",
+                  "coords": [
+                        -8.559873,
+                        37.319726
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "Ein malerischer Wasserfall im Gebirge der Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Chilrão",
+                  "text": "Ein natürlicher Wasserfall in der Landschaft der Monchique-Gebirgskette.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61921,
+                        37.317361
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "Ein kleiner Wasserfall, versteckt in der üppigen Vegetation der Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Bongard",
+                  "text": "Eine Kunstgalerie in Monchique, die Keramikskulpturen und lokale Kunstwerke ausstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.556469,
+                        37.31885
+                  ]
+            },
+            {
+                  "name": "Castelo da Nave",
+                  "text": "Überreste einer alten Festung oder Struktur im Gebiet von Monchique.",
+                  "category": "historical",
+                  "coords": [
+                        -8.577229,
+                        37.283231
+                  ]
+            },
+            {
+                  "name": "Bongard Garden",
+                  "text": "Ein kreativer Garten und Kunstraum mit Keramikarbeiten in Monchique.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.559158,
+                        37.318101
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Monchique",
+                  "text": "Ein steinerner Pranger, der die historische gerichtliche Autonomie von Monchique darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.555667,
+                        37.320503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Convento de Nossa Senhora do Desterro",
+                  "text": "17. századi egykori ferences kolostor romjai, ahonnan panorámás kilátás nyílik Monchique-ra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.559873,
+                        37.319726
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "Festői vízesés a Serra de Monchique hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Chilrão",
+                  "text": "Természetes vízesés a Monchique-hegység táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61921,
+                        37.317361
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "Kis vízesés a Serra de Monchique buja növényzete között.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Bongard",
+                  "text": "Kerámiaszobrokat és helyi művészeti alkotásokat bemutató művészeti galéria Monchique-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.556469,
+                        37.31885
+                  ]
+            },
+            {
+                  "name": "Castelo da Nave",
+                  "text": "Egy régi erődítmény vagy építmény maradványai Monchique környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.577229,
+                        37.283231
+                  ]
+            },
+            {
+                  "name": "Bongard Garden",
+                  "text": "Kreatív kert és művészeti tér kerámiaalkotásokkal Monchique-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.559158,
+                        37.318101
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Monchique",
+                  "text": "Kőből készült szégyenoszlop, amely Monchique történelmi bírói autonómiáját jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.555667,
+                        37.320503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Convento de Nossa Senhora do Desterro",
+                  "text": "Ruinele unei foste mănăstiri franciscane din secolul al XVII-lea, oferind vederi panoramice asupra Monchique.",
+                  "category": "religious",
+                  "coords": [
+                        -8.559873,
+                        37.319726
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "O cascadă pitorească situată în munții Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Chilrão",
+                  "text": "O cascadă naturală situată în peisajul lanțului muntos Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61921,
+                        37.317361
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "O mică cascadă ascunsă în vegetația luxuriantă din Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Bongard",
+                  "text": "O galerie de artă în Monchique care expune sculpturi din ceramică și lucrări de artă locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.556469,
+                        37.31885
+                  ]
+            },
+            {
+                  "name": "Castelo da Nave",
+                  "text": "Rămășițele unei vechi fortificații sau structuri în zona Monchique.",
+                  "category": "historical",
+                  "coords": [
+                        -8.577229,
+                        37.283231
+                  ]
+            },
+            {
+                  "name": "Bongard Garden",
+                  "text": "O grădină creativă și spațiu de artă cu lucrări din ceramică în Monchique.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.559158,
+                        37.318101
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Monchique",
+                  "text": "Un pilon de piatră care reprezintă autonomia judiciară istorică a orașului Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.555667,
+                        37.320503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Convento de Nossa Senhora do Desterro",
+                  "text": "A former 17th-century Franciscan monastery ruins offering panoramic views of Monchique.",
+                  "category": "religious",
+                  "coords": [
+                        -8.559873,
+                        37.319726
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "A scenic waterfall located in the Serra de Monchique mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Chilrão",
+                  "text": "A natural waterfall situated in the landscape of the Monchique mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61921,
+                        37.317361
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "A small waterfall hidden in the lush vegetation of Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Bongard",
+                  "text": "An art gallery in Monchique showcasing ceramic sculptures and local artwork.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.556469,
+                        37.31885
+                  ]
+            },
+            {
+                  "name": "Castelo da Nave",
+                  "text": "Remnants of an old fortification or structure in the Monchique area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.577229,
+                        37.283231
+                  ]
+            },
+            {
+                  "name": "Bongard Garden",
+                  "text": "A creative garden and art space featuring ceramic works in Monchique.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.559158,
+                        37.318101
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Monchique",
+                  "text": "A stone pillory representing the historical judicial autonomy of Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.555667,
+                        37.320503
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Monchique", hu: "Serra de Monchique", ro: "Serra de Monchique", en: "Serra de Monchique" },
@@ -228,7 +831,196 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-gardunha-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-montejunto-relief-v2",
+    id: "portugal-serra-de-montejunto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paisagem Protegida da Serra de Montejunto",
+                  "text": "Eine geschützte Landschaft in der Bergkette Serra de Montejunto.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055531,
+                        39.187458
+                  ]
+            },
+            {
+                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
+                  "text": "Eine historische Stätte in der Serra de Montejunto mit einer alten königlichen Eisfabrik.",
+                  "category": "historical",
+                  "coords": [
+                        -9.050637,
+                        39.177782
+                  ]
+            },
+            {
+                  "name": "Castro de Pragança",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Serra de Montejunto mit Überresten einer prähistorischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058899,
+                        39.198532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Theater oder Amphitheater in der Region Serra de Montejunto.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.049897,
+                        39.179724
+                  ]
+            },
+            {
+                  "name": "Convento dos Dominicanos",
+                  "text": "Die Ruinen eines Dominikanerklosters in der Serra de Montejunto.",
+                  "category": "religious",
+                  "coords": [
+                        -9.059107,
+                        39.17475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paisagem Protegida da Serra de Montejunto",
+                  "text": "Védett tájvédelmi körzet a Serra de Montejunto hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055531,
+                        39.187458
+                  ]
+            },
+            {
+                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
+                  "text": "Történelmi helyszín a Serra de Montejunto hegységben, ahol egy régi királyi jéggyár található.",
+                  "category": "historical",
+                  "coords": [
+                        -9.050637,
+                        39.177782
+                  ]
+            },
+            {
+                  "name": "Castro de Pragança",
+                  "text": "Régészeti lelőhely a Serra de Montejunto hegységben, egy őskori település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058899,
+                        39.198532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Színház vagy amfiteátrum a Serra de Montejunto régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.049897,
+                        39.179724
+                  ]
+            },
+            {
+                  "name": "Convento dos Dominicanos",
+                  "text": "Egy dominikánus kolostor romjai a Serra de Montejunto hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.059107,
+                        39.17475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paisagem Protegida da Serra de Montejunto",
+                  "text": "O zonă de peisaj protejat din lanțul muntos Serra de Montejunto.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055531,
+                        39.187458
+                  ]
+            },
+            {
+                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
+                  "text": "Un sit istoric din Serra de Montejunto, unde se află o veche fabrică regală de gheață.",
+                  "category": "historical",
+                  "coords": [
+                        -9.050637,
+                        39.177782
+                  ]
+            },
+            {
+                  "name": "Castro de Pragança",
+                  "text": "Un sit arheologic din Serra de Montejunto cu vestigii ale unei așezări preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058899,
+                        39.198532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un teatru sau o structură de amfiteatru situată în regiunea Serra de Montejunto.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.049897,
+                        39.179724
+                  ]
+            },
+            {
+                  "name": "Convento dos Dominicanos",
+                  "text": "Ruinele unei mănăstiri dominicane situate în Serra de Montejunto.",
+                  "category": "religious",
+                  "coords": [
+                        -9.059107,
+                        39.17475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paisagem Protegida da Serra de Montejunto",
+                  "text": "A protected landscape area in the Serra de Montejunto mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -9.055531,
+                        39.187458
+                  ]
+            },
+            {
+                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
+                  "text": "A historical site in Serra de Montejunto featuring an old royal ice factory.",
+                  "category": "historical",
+                  "coords": [
+                        -9.050637,
+                        39.177782
+                  ]
+            },
+            {
+                  "name": "Castro de Pragança",
+                  "text": "An archaeological site in Serra de Montejunto with remains of a prehistoric settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058899,
+                        39.198532
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "A theatre or amphitheatre structure located in the Serra de Montejunto region.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.049897,
+                        39.179724
+                  ]
+            },
+            {
+                  "name": "Convento dos Dominicanos",
+                  "text": "The ruins of a Dominican monastery located in the Serra de Montejunto.",
+                  "category": "religious",
+                  "coords": [
+                        -9.059107,
+                        39.17475
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Montejunto", hu: "Serra de Montejunto", ro: "Serra de Montejunto", en: "Serra de Montejunto" },
@@ -318,7 +1110,304 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-de-valongo-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-arada-relief-v2",
+    id: "portugal-serra-da-arada-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mamoa de Monte Calvo 2",
+                  "text": "Eine prähistorische Megalithanlage in der Gebirgsregion Serra da Arada.",
+                  "category": "historical",
+                  "coords": [
+                        -8.26686,
+                        40.85041
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Carriça",
+                  "text": "Ein malerisches Flussbad in der natürlichen Umgebung der Serra da Arada.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.258019,
+                        40.786409
+                  ]
+            },
+            {
+                  "name": "Casa da Broa de Paraduça",
+                  "text": "Ein traditionelles Haus in Paraduça, das für sein lokales Maisbrot bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266102,
+                        40.804376
+                  ]
+            },
+            {
+                  "name": "Espigueiros da Lomba",
+                  "text": "Traditionelle steinerne Getreidespeicher in der Ortschaft Lomba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.250847,
+                        40.824396
+                  ]
+            },
+            {
+                  "name": "Canhão das Estacas",
+                  "text": "Eine natürliche Schlucht und Sehenswürdigkeit in der Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.251162,
+                        40.830077
+                  ]
+            },
+            {
+                  "name": "Centro Interpretativo da Serra da Freita",
+                  "text": "Ein Besucherzentrum, das Informationen über die Geologie und Natur der Serra da Freita bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.278493,
+                        40.840866
+                  ]
+            },
+            {
+                  "name": "Poço da silha",
+                  "text": "Ein natürliches Wasserbecken in der zerklüfteten Landschaft der Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.214223,
+                        40.824956
+                  ]
+            },
+            {
+                  "name": "Baloiço de Manhouce",
+                  "text": "Eine Panoramaschaukel mit weitem Blick über die Berge von Manhouce.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224265,
+                        40.794495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mamoa de Monte Calvo 2",
+                  "text": "Prehisztorikus megalitikus sírhely a Serra da Arada hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.26686,
+                        40.85041
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Carriça",
+                  "text": "Gleccserfolyó menti strand a Serra da Arada természetes környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.258019,
+                        40.786409
+                  ]
+            },
+            {
+                  "name": "Casa da Broa de Paraduça",
+                  "text": "Hagyományos ház Paraduça faluban, amely a helyi kukoricakenyérről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266102,
+                        40.804376
+                  ]
+            },
+            {
+                  "name": "Espigueiros da Lomba",
+                  "text": "Hagyományos kőből készült gabonatárolók Lomba településen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.250847,
+                        40.824396
+                  ]
+            },
+            {
+                  "name": "Canhão das Estacas",
+                  "text": "Természetes szurdokvölgy és látványosság a Serra da Arada hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.251162,
+                        40.830077
+                  ]
+            },
+            {
+                  "name": "Centro Interpretativo da Serra da Freita",
+                  "text": "Látogatóközpont, amely a Serra da Freita geológiájáról és élővilágáról nyújt tájékoztatást.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.278493,
+                        40.840866
+                  ]
+            },
+            {
+                  "name": "Poço da silha",
+                  "text": "Természetes medence a Serra da Arada vadregényes táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.214223,
+                        40.824956
+                  ]
+            },
+            {
+                  "name": "Baloiço de Manhouce",
+                  "text": "Panorámás hinta, amelyről széles kilátás nyílik a Manhouce-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224265,
+                        40.794495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mamoa de Monte Calvo 2",
+                  "text": "Un sit megalitic preistoric situat în regiunea montană Serra da Arada.",
+                  "category": "historical",
+                  "coords": [
+                        -8.26686,
+                        40.85041
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Carriça",
+                  "text": "O plajă fluvială pitorească în cadrul natural al munților Serra da Arada.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.258019,
+                        40.786409
+                  ]
+            },
+            {
+                  "name": "Casa da Broa de Paraduça",
+                  "text": "O casă tradițională din Paraduça, cunoscută pentru pâinea locală de porumb.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266102,
+                        40.804376
+                  ]
+            },
+            {
+                  "name": "Espigueiros da Lomba",
+                  "text": "Granare tradiționale din piatră situate în localitatea Lomba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.250847,
+                        40.824396
+                  ]
+            },
+            {
+                  "name": "Canhão das Estacas",
+                  "text": "Un canion natural și punct de atracție în munții Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.251162,
+                        40.830077
+                  ]
+            },
+            {
+                  "name": "Centro Interpretativo da Serra da Freita",
+                  "text": "Un centru de vizitare care oferü informații despre geologia și natura munților Serra da Freita.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.278493,
+                        40.840866
+                  ]
+            },
+            {
+                  "name": "Poço da silha",
+                  "text": "O piscină naturală situată în peisajul accidentat al munților Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.214223,
+                        40.824956
+                  ]
+            },
+            {
+                  "name": "Baloiço de Manhouce",
+                  "text": "Un leagăn panoramic cu vedere largă asupra munților din Manhouce.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224265,
+                        40.794495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mamoa de Monte Calvo 2",
+                  "text": "A prehistoric megalithic tomb located in the Serra da Arada mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.26686,
+                        40.85041
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Carriça",
+                  "text": "A scenic river beach in the natural surroundings of Serra da Arada.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.258019,
+                        40.786409
+                  ]
+            },
+            {
+                  "name": "Casa da Broa de Paraduça",
+                  "text": "A traditional house in Paraduça known for its local corn bread.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266102,
+                        40.804376
+                  ]
+            },
+            {
+                  "name": "Espigueiros da Lomba",
+                  "text": "Traditional stone granaries located in the village of Lomba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.250847,
+                        40.824396
+                  ]
+            },
+            {
+                  "name": "Canhão das Estacas",
+                  "text": "A natural canyon and attraction in the Serra da Arada mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.251162,
+                        40.830077
+                  ]
+            },
+            {
+                  "name": "Centro Interpretativo da Serra da Freita",
+                  "text": "An interpretive centre providing information about the geology and nature of Serra da Freita.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.278493,
+                        40.840866
+                  ]
+            },
+            {
+                  "name": "Poço da silha",
+                  "text": "A natural water pool in the rugged landscape of Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.214223,
+                        40.824956
+                  ]
+            },
+            {
+                  "name": "Baloiço de Manhouce",
+                  "text": "A panoramic swing offering wide views over the mountains of Manhouce.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224265,
+                        40.794495
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Arada", hu: "Serra da Arada", ro: "Serra da Arada", en: "Serra da Arada" },
@@ -363,7 +1452,52 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-arada-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-alturas-relief-v2",
+    id: "portugal-serra-do-alturas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Rebordainhos",
+                  "text": "Die örtliche Pfarrkirche in der Ortschaft Serra do Alturas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.860774,
+                        41.668326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Rebordainhos",
+                  "text": "Serra do Alturas település helyi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.860774,
+                        41.668326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Rebordainhos",
+                  "text": "Biserica parohială locală din localitatea Serra do Alturas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.860774,
+                        41.668326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Rebordainhos",
+                  "text": "The local parish church in the village of Serra do Alturas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.860774,
+                        41.668326
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Alturas", hu: "Serra do Alturas", ro: "Serra do Alturas", en: "Serra do Alturas" },
@@ -408,7 +1542,88 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-alturas-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-lapa-relief-v2",
+    id: "portugal-serra-da-lapa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Ein historischer Pranger in der Serra da Lapa, der als Symbol der lokalen Gerichtsbarkeit gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Ein bedeutendes Heiligtum in der Serra da Lapa und einer der ältesten Wallfahrtsorte Portugals.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Történelmi szégyenoszlop a Serra da Lapa hegységben, a helyi igazságszolgáltatás egykori jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Jelentős szentély a Serra da Lapa hegységben, Portugália egyik legrégebbi zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "Un stâlp al infamiei istoric în Serra da Lapa, simbol al jurisdicției locale trecute.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "Un sanctuar important în Serra da Lapa și unul dintre cele mai vechi locuri de pelerinaj din Portugalia.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelourinho da Lapa",
+                  "text": "A historic pillory in the Serra da Lapa, serving as a symbol of past local jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.576613,
+                        40.870273
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora da Lapa",
+                  "text": "A significant sanctuary in the Serra da Lapa and one of Portugal's oldest pilgrimage sites.",
+                  "category": "religious",
+                  "coords": [
+                        -7.575147,
+                        40.870167
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Lapa", hu: "Serra da Lapa", ro: "Serra da Lapa", en: "Serra da Lapa" },
@@ -453,7 +1668,160 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-lapa-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-espinhaço-relief-v2",
+    id: "portugal-serra-do-espinhaço-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eucalipto de Contige",
+                  "text": "Ein monumentaler, Jahrhunderte alter Eukalyptusbaum, der als Naturdenkmal in Portugal gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.752239,
+                        40.736632
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Penedros da Cabeça",
+                  "text": "Eine Panorama-Schaukel, die weite Ausblicke über die umliegende Berglandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724633,
+                        40.780183
+                  ]
+            },
+            {
+                  "name": "Biblioteca Municipal de Sátão",
+                  "text": "Die städtische Bibliothek von Sátão, untergebracht in einem eleganten historischen Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        -7.736579,
+                        40.741099
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Satão",
+                  "text": "Das Rathaus von Sátão, das als administratives Zentrum der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.732587,
+                        40.741644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eucalipto de Contige",
+                  "text": "Hatalmas, több évszázados eukaliptuszfa, amely Portugália egyik természeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.752239,
+                        40.736632
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Penedros da Cabeça",
+                  "text": "Panorámás hinta, amely tágas kilátást nyújt a környező hegyi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724633,
+                        40.780183
+                  ]
+            },
+            {
+                  "name": "Biblioteca Municipal de Sátão",
+                  "text": "Sátão városi könyvtára, amely egy elegáns történelmi épületben kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        -7.736579,
+                        40.741099
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Satão",
+                  "text": "Sátão városháza, amely a község adminisztratív központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.732587,
+                        40.741644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eucalipto de Contige",
+                  "text": "Un eucalipt monumental, vechi de secole, considerat un monument natural în Portugalia.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.752239,
+                        40.736632
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Penedros da Cabeça",
+                  "text": "Un leagăn panoramic care oferă vederi largi asupra peisajului montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724633,
+                        40.780183
+                  ]
+            },
+            {
+                  "name": "Biblioteca Municipal de Sátão",
+                  "text": "Biblioteca municipală din Sátão, găzduită într-o clădire istorică elegantă.",
+                  "category": "historical",
+                  "coords": [
+                        -7.736579,
+                        40.741099
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Satão",
+                  "text": "Primăria din Sátão, care servește drept centru administrativ al municipalității.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.732587,
+                        40.741644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eucalipto de Contige",
+                  "text": "A monumental, centuries-old eucalyptus tree considered a natural landmark in Portugal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.752239,
+                        40.736632
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Penedros da Cabeça",
+                  "text": "A scenic panoramic swing offering expansive views over the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724633,
+                        40.780183
+                  ]
+            },
+            {
+                  "name": "Biblioteca Municipal de Sátão",
+                  "text": "The municipal library of Sátão, housed in an elegant historical building.",
+                  "category": "historical",
+                  "coords": [
+                        -7.736579,
+                        40.741099
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Satão",
+                  "text": "The town hall of Sátão, serving as the administrative center of the municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.732587,
+                        40.741644
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Espinhaço", hu: "Serra do Espinhaço", ro: "Serra do Espinhaço", en: "Serra do Espinhaço" },
@@ -498,7 +1866,88 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-espinhaço-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-montemuro-relief-v2",
+    id: "portugal-serra-do-montemuro-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baloiço do Penedo da Moura",
+                  "text": "Eine Panoramaschaukel in der Serra do Montemuro mit weitem Blick über die Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.856776,
+                        40.969799
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Ouvida",
+                  "text": "Eine kleine Kapelle und Pilgerstätte in den Bergen der Serra do Montemuro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.898006,
+                        40.947351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baloiço do Penedo da Moura",
+                  "text": "Panorámás hinta a Serra do Montemuro hegységben, széles kilátással a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.856776,
+                        40.969799
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Ouvida",
+                  "text": "Kicsiny kápolna és zarándokhely a Serra do Montemuro hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.898006,
+                        40.947351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baloiço do Penedo da Moura",
+                  "text": "Un leagăn panoramic în Serra do Montemuro, oferind o vedere largă asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.856776,
+                        40.969799
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Ouvida",
+                  "text": "O mică capelă și loc de pelerinaj în munții Serra do Montemuro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.898006,
+                        40.947351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baloiço do Penedo da Moura",
+                  "text": "A panoramic swing in the Serra do Montemuro offering wide views over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.856776,
+                        40.969799
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Ouvida",
+                  "text": "A small chapel and pilgrimage site in the Serra do Montemuro mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.898006,
+                        40.947351
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Montemuro", hu: "Serra do Montemuro", ro: "Serra do Montemuro", en: "Serra do Montemuro" },
@@ -543,7 +1992,268 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-montemuro-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-bussaco-relief-v2",
+    id: "portugal-serra-do-bussaco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busaco Militärmuseum",
+                  "text": "Ein Militärmuseum, das die Schlacht von Bussaco während der Napoleonischen Kriege auf der Iberischen Halbinsel dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.359611,
+                        40.378801
+                  ]
+            },
+            {
+                  "name": "Palácio Hotel do Buçaco",
+                  "text": "Ein prachtvoller Palast im neomanuelinischen Stil, der ursprünglich als königliches Refugium im Wald von Bussaco erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -8.364886,
+                        40.375948
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Sociedade da Água de Luso",
+                  "text": "Ein Museum, das der Geschichte und dem Erbe der Luso-Wasserabfüllgesellschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.37673,
+                        40.38363
+                  ]
+            },
+            {
+                  "name": "Moinho da Moura",
+                  "text": "Eine traditionelle Windmühle in den malerischen Hügeln des Buçaco-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.344963,
+                        40.371996
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Amigos de Santa Cristina",
+                  "text": "Eine beliebte Freizeitschaukel mit malerischem Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.388016,
+                        40.35137
+                  ]
+            },
+            {
+                  "name": "Capela de Santo Antão",
+                  "text": "Eine kleine historische Kapelle, die dem heiligen Antonius gewidmet ist und im Wald von Buçaco liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.369182,
+                        40.374356
+                  ]
+            },
+            {
+                  "name": "Moinho de Sula",
+                  "text": "Eine historische Windmühle in der Serra do Bussaco, die die landwirtschaftliche Vergangenheit der Region repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.35434,
+                        40.377921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Militar do Buçaco",
+                  "text": "Katonai múzeum, amely a félszigeti háború bussacói csatáját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -8.359611,
+                        40.378801
+                  ]
+            },
+            {
+                  "name": "Palácio Hotel do Buçaco",
+                  "text": "Nagyszabású, neománuel stílusú palota, amely eredetileg királyi pihenőhelynek épült a bussacói erdőben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.364886,
+                        40.375948
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Sociedade da Água de Luso",
+                  "text": "A luso-i vízpalackozó társaság történelmének és örökségének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.37673,
+                        40.38363
+                  ]
+            },
+            {
+                  "name": "Moinho da Moura",
+                  "text": "Hagyományos szélmalom a Buçaco-hegység festői dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.344963,
+                        40.371996
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Amigos de Santa Cristina",
+                  "text": "Népszerű szabadidős hinta, amely festői kilátást nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.388016,
+                        40.35137
+                  ]
+            },
+            {
+                  "name": "Capela de Santo Antão",
+                  "text": "Szent Antalnak szentelt kis történelmi kápolna a Buçaco-erdő mélyén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.369182,
+                        40.374356
+                  ]
+            },
+            {
+                  "name": "Moinho de Sula",
+                  "text": "Történelmi szélmalom a Serra do Bussacón, amely a régió mezőgazdasági múltját idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.35434,
+                        40.377921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Militar do Buçaco",
+                  "text": "Un muzeu militar care documentează Bătălia de la Bussaco din timpul Războiului Peninsular.",
+                  "category": "museum",
+                  "coords": [
+                        -8.359611,
+                        40.378801
+                  ]
+            },
+            {
+                  "name": "Palácio Hotel do Buçaco",
+                  "text": "Un palat grandios în stil neomanuelin, construit inițial ca refugiu regal în pădurea Bussaco.",
+                  "category": "castle",
+                  "coords": [
+                        -8.364886,
+                        40.375948
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Sociedade da Água de Luso",
+                  "text": "Un muzeu dedicat istoriei și moștenirii societății de îmbuteliere a apei Luso.",
+                  "category": "museum",
+                  "coords": [
+                        -8.37673,
+                        40.38363
+                  ]
+            },
+            {
+                  "name": "Moinho da Moura",
+                  "text": "O moară de vânt tradițională situată pe dealurile pitorești ale lanțului muntos Buçaco.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.344963,
+                        40.371996
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Amigos de Santa Cristina",
+                  "text": "Un leagăn recreativ popular care oferă vederi pitorești asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.388016,
+                        40.35137
+                  ]
+            },
+            {
+                  "name": "Capela de Santo Antão",
+                  "text": "O mică capelă istorică dedicată Sfântului Anton, cuibărită în pădurea Buçaco.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.369182,
+                        40.374356
+                  ]
+            },
+            {
+                  "name": "Moinho de Sula",
+                  "text": "O moară de vânt istorică pe Serra do Bussaco, reprezentând trecutul agricol al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.35434,
+                        40.377921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Militar do Buçaco",
+                  "text": "A military museum documenting the Battle of Bussaco during the Peninsular War.",
+                  "category": "museum",
+                  "coords": [
+                        -8.359611,
+                        40.378801
+                  ]
+            },
+            {
+                  "name": "Bussaco Palace Hotel",
+                  "text": "A grand palace in Neo-Manueline style, originally built as a royal retreat in the Bussaco forest.",
+                  "category": "castle",
+                  "coords": [
+                        -8.364886,
+                        40.375948
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Sociedade da Água de Luso",
+                  "text": "A museum dedicated to the history and heritage of the Luso water bottling society.",
+                  "category": "museum",
+                  "coords": [
+                        -8.37673,
+                        40.38363
+                  ]
+            },
+            {
+                  "name": "Moinho da Moura",
+                  "text": "A traditional windmill located in the scenic hills of the Buçaco mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.344963,
+                        40.371996
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Amigos de Santa Cristina",
+                  "text": "A popular recreational swing offering scenic views of the surrounding countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.388016,
+                        40.35137
+                  ]
+            },
+            {
+                  "name": "Capela de Santo Antão",
+                  "text": "A small historic chapel dedicated to Saint Anthony, nestled in the Buçaco forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.369182,
+                        40.374356
+                  ]
+            },
+            {
+                  "name": "Moinho de Sula",
+                  "text": "A historic windmill on the Serra do Bussaco, representing the region's agricultural past.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.35434,
+                        40.377921
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Bussaco", hu: "Serra do Bussaco", ro: "Serra do Bussaco", en: "Serra do Bussaco" },
@@ -588,7 +2298,88 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-bussaco-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-santana-relief-v2",
+    id: "portugal-serra-de-santana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Dos Almeidas",
+                  "text": "Eine lokale Touristenattraktion in der Region Serra de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.161374,
+                        39.535134
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Ein Aussichtspunkt und eine Attraktion in Serra de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1295,
+                        39.546343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Dos Almeidas",
+                  "text": "Helyi turisztikai látványosság Serra de Santana régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.161374,
+                        39.535134
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Kilátó és látványosság Serra de Santana területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1295,
+                        39.546343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Dos Almeidas",
+                  "text": "O atracție turistică locală în regiunea Serra de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.161374,
+                        39.535134
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Un punct de belvedere și atracție în Serra de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1295,
+                        39.546343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Dos Almeidas",
+                  "text": "A local tourist attraction in the Serra de Santana region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.161374,
+                        39.535134
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "A scenic viewpoint and attraction in Serra de Santana.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1295,
+                        39.546343
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Santana", hu: "Serra de Santana", ro: "Serra de Santana", en: "Serra de Santana" },
@@ -633,7 +2424,52 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-de-santana-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-caldeiro-relief-v2",
+    id: "portugal-serra-do-caldeiro-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Cheles",
+                  "text": "Ein Flussstrand am Alqueva-Stausee, der Erholung im Landesinneren bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.290273,
+                        38.548025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Cheles",
+                  "text": "Folyami strand az Alqueva-víztározónál, amely kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.290273,
+                        38.548025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Cheles",
+                  "text": "O plajă fluvială pe malul lacului de acumulare Alqueva, care oferă recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.290273,
+                        38.548025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de Cheles",
+                  "text": "A river beach on the Alqueva reservoir offering recreation in the inland area.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.290273,
+                        38.548025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeiro", hu: "Serra do Caldeiro", ro: "Serra do Caldeiro", en: "Serra do Caldeiro" },
@@ -678,7 +2514,304 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-caldeiro-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-fafe-relief-v2",
+    id: "portugal-serra-de-fafe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Rali",
+                  "text": "Das Rallye-Museum in Fafe zeigt eine Sammlung von Fahrzeugen aus der Welt des Motorsports.",
+                  "category": "museum",
+                  "coords": [
+                        -8.164993,
+                        41.453718
+                  ]
+            },
+            {
+                  "name": "Estação Memória",
+                  "text": "Die Estação Memória ist ein Museum in Fafe, das sich der Industriegeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.170716,
+                        41.455111
+                  ]
+            },
+            {
+                  "name": "Teatro-Cinema de Fafe",
+                  "text": "Das Teatro-Cinema de Fafe ist ein historisches Theater und Kino in der Stadt Fafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.17085,
+                        41.449139
+                  ]
+            },
+            {
+                  "name": "Castro de Santo Ovídio",
+                  "text": "Der Castro de Santo Ovídio ist eine archäologische Stätte einer alten befestigten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.184013,
+                        41.455796
+                  ]
+            },
+            {
+                  "name": "Central Hidroeléctrica de Santa Rita",
+                  "text": "Das Wasserkraftwerk Santa Rita fungiert heute als Museum für Industriegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -8.186083,
+                        41.470855
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "Der Parque Aquático de Fafe ist ein Wasserpark mit Rutschen und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Docim",
+                  "text": "Die Praia Fluvial de Docim ist ein Flussstrand in der Region Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.144722,
+                        41.449763
+                  ]
+            },
+            {
+                  "name": "Casa das Paredes",
+                  "text": "Die Casa das Paredes ist ein historisches Herrenhaus in Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.159877,
+                        41.46563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Rali",
+                  "text": "A fafei Ralimeúzeum a motorsport világának járműveiből mutat be gyűjteményt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.164993,
+                        41.453718
+                  ]
+            },
+            {
+                  "name": "Estação Memória",
+                  "text": "Az Estação Memória egy múzeum Faféban, amely az ipari történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.170716,
+                        41.455111
+                  ]
+            },
+            {
+                  "name": "Teatro-Cinema de Fafe",
+                  "text": "A Teatro-Cinema de Fafe egy történelmi színház és mozi Fafe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.17085,
+                        41.449139
+                  ]
+            },
+            {
+                  "name": "Castro de Santo Ovídio",
+                  "text": "A Castro de Santo Ovídio egy ősi erődített település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -8.184013,
+                        41.455796
+                  ]
+            },
+            {
+                  "name": "Central Hidroeléctrica de Santa Rita",
+                  "text": "A Santa Rita vízerőmű ma ipartörténeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -8.186083,
+                        41.470855
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "A Parque Aquático de Fafe egy csúszdákkal és medencékkel felszerelt vízipark.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Docim",
+                  "text": "A Praia Fluvial de Docim egy folyóparti strand Fafe régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.144722,
+                        41.449763
+                  ]
+            },
+            {
+                  "name": "Casa das Paredes",
+                  "text": "A Casa das Paredes egy történelmi udvarház Faféban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.159877,
+                        41.46563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Rali",
+                  "text": "Muzeul Raliului din Fafe expune o colecție de vehicule din lumea sportului cu motor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.164993,
+                        41.453718
+                  ]
+            },
+            {
+                  "name": "Estação Memória",
+                  "text": "Estação Memória este un muzeu din Fafe dedicat istoriei industriale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.170716,
+                        41.455111
+                  ]
+            },
+            {
+                  "name": "Teatro-Cinema de Fafe",
+                  "text": "Teatro-Cinema de Fafe este un teatru și cinematograf istoric din orașul Fafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.17085,
+                        41.449139
+                  ]
+            },
+            {
+                  "name": "Castro de Santo Ovídio",
+                  "text": "Castro de Santo Ovídio este un sit arheologic al unei vechi așezări fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        -8.184013,
+                        41.455796
+                  ]
+            },
+            {
+                  "name": "Central Hidroeléctrica de Santa Rita",
+                  "text": "Centrala hidroelectrică Santa Rita funcționează astăzi ca muzeu de istorie industrială.",
+                  "category": "museum",
+                  "coords": [
+                        -8.186083,
+                        41.470855
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "Parque Aquático de Fafe este un parc acvatic cu tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Docim",
+                  "text": "Praia Fluvial de Docim este o plajă fluvială din regiunea Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.144722,
+                        41.449763
+                  ]
+            },
+            {
+                  "name": "Casa das Paredes",
+                  "text": "Casa das Paredes este un conac istoric din Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.159877,
+                        41.46563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Rali",
+                  "text": "The Rally Museum in Fafe displays a collection of vehicles from the world of motorsport.",
+                  "category": "museum",
+                  "coords": [
+                        -8.164993,
+                        41.453718
+                  ]
+            },
+            {
+                  "name": "Estação Memória",
+                  "text": "Estação Memória is a museum in Fafe dedicated to industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        -8.170716,
+                        41.455111
+                  ]
+            },
+            {
+                  "name": "Teatro-Cinema de Fafe",
+                  "text": "The Teatro-Cinema de Fafe is a historic theatre and cinema in the city of Fafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.17085,
+                        41.449139
+                  ]
+            },
+            {
+                  "name": "Castro de Santo Ovídio",
+                  "text": "The Castro de Santo Ovídio is an archaeological site of an ancient fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.184013,
+                        41.455796
+                  ]
+            },
+            {
+                  "name": "Central Hidroeléctrica de Santa Rita",
+                  "text": "The Santa Rita hydroelectric power plant now functions as an industrial history museum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.186083,
+                        41.470855
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "The Parque Aquático de Fafe is a water park with slides and swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Docim",
+                  "text": "The Praia Fluvial de Docim is a river beach in the Fafe region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.144722,
+                        41.449763
+                  ]
+            },
+            {
+                  "name": "Casa das Paredes",
+                  "text": "The Casa das Paredes is a historic manor house in Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.159877,
+                        41.46563
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Fafe", hu: "Serra de Fafe", ro: "Serra de Fafe", en: "Serra de Fafe" },
@@ -723,7 +2856,124 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-de-fafe-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-larouco-relief-v2",
+    id: "portugal-serra-do-larouco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Larouco",
+                  "text": "Ein Gebirgsgipfel in der Serra do Larouco, bekannt für seine beeindruckende Höhe und Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724901,
+                        41.882766
+                  ]
+            },
+            {
+                  "name": "Serra do Larouco",
+                  "text": "Ein Aussichtspunkt in der Serra do Larouco, der einen weiten Blick über die Grenzregion bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.720303,
+                        41.880469
+                  ]
+            },
+            {
+                  "name": "Casa do Seminário",
+                  "text": "Ein historisches Herrenhaus in der Region Serra do Larouco.",
+                  "category": "historical",
+                  "coords": [
+                        -7.704791,
+                        41.850832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Larouco",
+                  "text": "Hegycsúcs a Serra do Larouco hegységben, amely magasságáról és kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724901,
+                        41.882766
+                  ]
+            },
+            {
+                  "name": "Serra do Larouco",
+                  "text": "Kilátóhely a Serra do Larouco hegységben, ahonnan kilátás nyílik a határmenti régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -7.720303,
+                        41.880469
+                  ]
+            },
+            {
+                  "name": "Casa do Seminário",
+                  "text": "Történelmi kúria a Serra do Larouco régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.704791,
+                        41.850832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Larouco",
+                  "text": "Un vârf montan în Serra do Larouco, cunoscut pentru înălțimea și priveliștile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724901,
+                        41.882766
+                  ]
+            },
+            {
+                  "name": "Serra do Larouco",
+                  "text": "Un punct de observare în Serra do Larouco, oferind vederi largi asupra regiunii de frontieră.",
+                  "category": "natural",
+                  "coords": [
+                        -7.720303,
+                        41.880469
+                  ]
+            },
+            {
+                  "name": "Casa do Seminário",
+                  "text": "Un conac istoric în regiunea Serra do Larouco.",
+                  "category": "historical",
+                  "coords": [
+                        -7.704791,
+                        41.850832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Larouco",
+                  "text": "A mountain peak in the Serra do Larouco range, known for its height and views.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.724901,
+                        41.882766
+                  ]
+            },
+            {
+                  "name": "Serra do Larouco",
+                  "text": "A viewpoint in the Serra do Larouco, offering expansive views over the border region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.720303,
+                        41.880469
+                  ]
+            },
+            {
+                  "name": "Casa do Seminário",
+                  "text": "A historic manor house located in the Serra do Larouco region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.704791,
+                        41.850832
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Larouco", hu: "Serra do Larouco", ro: "Serra do Larouco", en: "Serra do Larouco" },
@@ -813,7 +3063,124 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-coris-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-peneda-relief-v2",
+    id: "portugal-serra-da-peneda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Outeiro do Quintano",
+                  "text": "Ein Berggipfel in der Serra da Peneda, der weite Ausblicke über die Gebirgslandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.18601,
+                        41.926243
+                  ]
+            },
+            {
+                  "name": "Miradouro das Fechas do Malho",
+                  "text": "Ein Aussichtspunkt in der Serra da Peneda mit Blick auf die beeindruckenden Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201519,
+                        41.932239
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Fagundo da Pereira",
+                  "text": "Eine traditionelle religiöse Stätte in der Bergregion der Serra da Peneda.",
+                  "category": "religious",
+                  "coords": [
+                        -8.150492,
+                        41.957363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Outeiro do Quintano",
+                  "text": "Hegycsúcs a Serra da Peneda hegységben, amely panorámás kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.18601,
+                        41.926243
+                  ]
+            },
+            {
+                  "name": "Miradouro das Fechas do Malho",
+                  "text": "Kilátópont a Serra da Peneda területén, ahonnan rálátni a látványos vízesésekre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201519,
+                        41.932239
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Fagundo da Pereira",
+                  "text": "Hagyományos templom a Serra da Peneda hegyvidéki környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.150492,
+                        41.957363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Outeiro do Quintano",
+                  "text": "Un vârf muntos în Serra da Peneda, oferind perspective largi asupra peisajului montan.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.18601,
+                        41.926243
+                  ]
+            },
+            {
+                  "name": "Miradouro das Fechas do Malho",
+                  "text": "Un punct de belvedere în Serra da Peneda ce oferă o vedere spectaculoasă asupra cascadelor.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201519,
+                        41.932239
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Fagundo da Pereira",
+                  "text": "Un lăcaș de cult tradițional situat în regiunea montană Serra da Peneda.",
+                  "category": "religious",
+                  "coords": [
+                        -8.150492,
+                        41.957363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Outeiro do Quintano",
+                  "text": "A mountain peak in the Serra da Peneda offering wide views over the rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.18601,
+                        41.926243
+                  ]
+            },
+            {
+                  "name": "Miradouro das Fechas do Malho",
+                  "text": "A scenic viewpoint in the Serra da Peneda overlooking the impressive waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201519,
+                        41.932239
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Fagundo da Pereira",
+                  "text": "A traditional place of worship located in the mountainous Serra da Peneda region.",
+                  "category": "religious",
+                  "coords": [
+                        -8.150492,
+                        41.957363
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Peneda", hu: "Serra da Peneda", ro: "Serra da Peneda", en: "Serra da Peneda" },
@@ -948,7 +3315,304 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-de-sao-mamede-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-gralheira-relief-v2",
+    id: "portugal-serra-da-gralheira-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castro da Cárcoda",
+                  "text": "Befestigte Siedlung aus der Eisenzeit in der Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.119913,
+                        40.804283
+                  ]
+            },
+            {
+                  "name": "Outeirão",
+                  "text": "Prähistorische archäologische Stätte in der Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161214,
+                        40.831068
+                  ]
+            },
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Megalithisches Grabmal in der Gebirgsregion Serra da Arada.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Historisches Herrenhaus in der Region Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147667,
+                        40.771917
+                  ]
+            },
+            {
+                  "name": "Poço Azul",
+                  "text": "Natürliches Wasserbecken in der Serra da Gralheira, bekannt für sein klares Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.165264,
+                        40.780957
+                  ]
+            },
+            {
+                  "name": "Moinhos do Pisão",
+                  "text": "Traditionelle Wassermühlen in der Region Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129451,
+                        40.799681
+                  ]
+            },
+            {
+                  "name": "Poços da Ponte Teixeira",
+                  "text": "Natürliche Felsenbecken am Fluss Teixeira in der Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16975,
+                        40.773055
+                  ]
+            },
+            {
+                  "name": "Ponte romana",
+                  "text": "Historische Brücke römischen Ursprungs in der Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1626,
+                        40.782556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castro da Cárcoda",
+                  "text": "Vaskori erődített település maradványai a Serra da Gralheira hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.119913,
+                        40.804283
+                  ]
+            },
+            {
+                  "name": "Outeirão",
+                  "text": "Prehisztorikus régészeti lelőhely a Serra da Gralheira területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161214,
+                        40.831068
+                  ]
+            },
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Megallitikus síremlék a Serra da Arada hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Történelmi udvarház a Serra da Gralheira régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147667,
+                        40.771917
+                  ]
+            },
+            {
+                  "name": "Poço Azul",
+                  "text": "Természetes vízmedence a Serra da Gralheira területén, tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.165264,
+                        40.780957
+                  ]
+            },
+            {
+                  "name": "Moinhos do Pisão",
+                  "text": "Hagyományos vízimalmok a Serra da Gralheira régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129451,
+                        40.799681
+                  ]
+            },
+            {
+                  "name": "Poços da Ponte Teixeira",
+                  "text": "A Teixeira-folyó menti természetes sziklamedencék a Serra da Gralheira területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16975,
+                        40.773055
+                  ]
+            },
+            {
+                  "name": "Ponte romana",
+                  "text": "Római eredetű történelmi híd a Serra da Gralheira területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1626,
+                        40.782556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castro da Cárcoda",
+                  "text": "Așezare fortificată din epoca fierului situată în Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.119913,
+                        40.804283
+                  ]
+            },
+            {
+                  "name": "Outeirão",
+                  "text": "Sit arheologic preistoric situat în Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161214,
+                        40.831068
+                  ]
+            },
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Monument funerar megalitic situat în regiunea montană Serra da Arada.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Conac istoric situat în regiunea Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147667,
+                        40.771917
+                  ]
+            },
+            {
+                  "name": "Poço Azul",
+                  "text": "Bazin natural în Serra da Gralheira, cunoscut pentru apele sale limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.165264,
+                        40.780957
+                  ]
+            },
+            {
+                  "name": "Moinhos do Pisão",
+                  "text": "Mori de apă tradiționale situate în regiunea Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129451,
+                        40.799681
+                  ]
+            },
+            {
+                  "name": "Poços da Ponte Teixeira",
+                  "text": "Piscine naturale formate în stâncă pe râul Teixeira, în Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16975,
+                        40.773055
+                  ]
+            },
+            {
+                  "name": "Ponte romana",
+                  "text": "Pod istoric de origine romană situat în Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1626,
+                        40.782556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castro da Cárcoda",
+                  "text": "Iron Age fortified settlement ruins located in Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.119913,
+                        40.804283
+                  ]
+            },
+            {
+                  "name": "Outeirão",
+                  "text": "Prehistoric archaeological site located in Serra da Gralheira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161214,
+                        40.831068
+                  ]
+            },
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Megalithic funerary monument located in the Serra da Arada mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Solar dos Malafaias",
+                  "text": "Historic manor house located in the Serra da Gralheira region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.147667,
+                        40.771917
+                  ]
+            },
+            {
+                  "name": "Poço Azul",
+                  "text": "Natural water pool in Serra da Gralheira, known for its clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.165264,
+                        40.780957
+                  ]
+            },
+            {
+                  "name": "Moinhos do Pisão",
+                  "text": "Traditional water mills located in the Serra da Gralheira region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129451,
+                        40.799681
+                  ]
+            },
+            {
+                  "name": "Poços da Ponte Teixeira",
+                  "text": "Natural rock pools along the Teixeira River in Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.16975,
+                        40.773055
+                  ]
+            },
+            {
+                  "name": "Ponte romana",
+                  "text": "Historic bridge of Roman origin located in Serra da Gralheira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1626,
+                        40.782556
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gralheira", hu: "Serra da Gralheira", ro: "Serra da Gralheira", en: "Serra da Gralheira" },
@@ -993,7 +3657,160 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-gralheira-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-nogueira-relief-v2",
+    id: "portugal-serra-da-nogueira-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Rebordãos",
+                  "text": "Eine archäologische Ausgrabungsstätte in Rebordãos mit Überresten einer alten Befestigung.",
+                  "category": "historical",
+                  "coords": [
+                        -6.836875,
+                        41.751535
+                  ]
+            },
+            {
+                  "name": "Fraga da Senhora",
+                  "text": "Eine historische Stätte in der Serra da Nogueira mit antiken Felsritzungen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.853595,
+                        41.716037
+                  ]
+            },
+            {
+                  "name": "Nogueira",
+                  "text": "Der höchste Gipfel der Serra da Nogueira in der Region Trás-os-Montes.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.855449,
+                        41.717312
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Rebordãos",
+                  "text": "Ein historischer Schandpfahl in Rebordãos, ein Symbol der lokalen Gerichtsbarkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.823843,
+                        41.739888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Rebordãos",
+                  "text": "Rebordãos-i régészeti lelőhely egy ősi erődítmény maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -6.836875,
+                        41.751535
+                  ]
+            },
+            {
+                  "name": "Fraga da Senhora",
+                  "text": "Történelmi helyszín a Serra da Nogueira hegységben, ősi sziklavésetekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -6.853595,
+                        41.716037
+                  ]
+            },
+            {
+                  "name": "Nogueira",
+                  "text": "A Serra da Nogueira hegység legmagasabb pontja Trás-os-Montes régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.855449,
+                        41.717312
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Rebordãos",
+                  "text": "Rebordãos történelmi szégyenoszlopa, a helyi bíráskodás egykori jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.823843,
+                        41.739888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Rebordãos",
+                  "text": "Un sit arheologic din Rebordãos ce conține resturile unei vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        -6.836875,
+                        41.751535
+                  ]
+            },
+            {
+                  "name": "Fraga da Senhora",
+                  "text": "Un sit istoric din Serra da Nogueira care adăpostește inscripții rupestre antice.",
+                  "category": "historical",
+                  "coords": [
+                        -6.853595,
+                        41.716037
+                  ]
+            },
+            {
+                  "name": "Nogueira",
+                  "text": "Cel mai înalt vârf din Serra da Nogueira, situat în regiunea Trás-os-Montes.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.855449,
+                        41.717312
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Rebordãos",
+                  "text": "Un stâlp al infamiei istoric din Rebordãos, simbol al jurisdicției locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.823843,
+                        41.739888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Rebordãos",
+                  "text": "An archaeological site in Rebordãos containing the remains of an ancient fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -6.836875,
+                        41.751535
+                  ]
+            },
+            {
+                  "name": "Fraga da Senhora",
+                  "text": "A historical site in the Serra da Nogueira featuring ancient rock engravings.",
+                  "category": "historical",
+                  "coords": [
+                        -6.853595,
+                        41.716037
+                  ]
+            },
+            {
+                  "name": "Nogueira",
+                  "text": "The highest peak of the Serra da Nogueira range in the Trás-os-Montes region.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.855449,
+                        41.717312
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Rebordãos",
+                  "text": "A historic pillory in Rebordãos, representing the town's former judicial autonomy.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.823843,
+                        41.739888
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Nogueira", hu: "Serra da Nogueira", ro: "Serra da Nogueira", en: "Serra da Nogueira" },
@@ -1038,7 +3855,232 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-nogueira-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-lousa-north-relief-v2",
+    id: "portugal-serra-da-lousa-north-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Fluvial do Pêgo Escuro",
+                  "text": "Ein ruhiger Flussstrand am Ceira, bekannt für sein klares Wasser und die natürliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.111974,
+                        40.15049
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial Cabreira",
+                  "text": "Ein Naturbadestrand am Fluss in der Region Serra da Lousã.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.072547,
+                        40.140337
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura de Góis",
+                  "text": "Ein Kulturzentrum in Góis, das lokale Veranstaltungen und Kunstausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.110123,
+                        40.156229
+                  ]
+            },
+            {
+                  "name": "Centro de Referência da Memória Goiense",
+                  "text": "Ein Museum, das sich der Erhaltung der lokalen Geschichte und Erinnerung von Góis widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.108219,
+                        40.158088
+                  ]
+            },
+            {
+                  "name": "Casa do Artista",
+                  "text": "Ein historisches Herrenhaus, das heute als Raum für Kunst und Kultur dient.",
+                  "category": "historical",
+                  "coords": [
+                        -8.110353,
+                        40.154209
+                  ]
+            },
+            {
+                  "name": "Baloiço de Góis",
+                  "text": "Eine Panorama-Schaukel in der Nähe von Góis mit Blick auf die umliegende Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.112687,
+                        40.154154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Fluvial do Pêgo Escuro",
+                  "text": "Csendes folyóparti strand a Ceira-folyónál, tiszta vizéről és természetes környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.111974,
+                        40.15049
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial Cabreira",
+                  "text": "Természetes folyóparti fürdőhely a Serra da Lousã régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.072547,
+                        40.140337
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura de Góis",
+                  "text": "Kulturális központ Góisban, amely helyi rendezvényeknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.110123,
+                        40.156229
+                  ]
+            },
+            {
+                  "name": "Centro de Referência da Memória Goiense",
+                  "text": "Múzeum, amely Góis helyi történelmének és emlékezetének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -8.108219,
+                        40.158088
+                  ]
+            },
+            {
+                  "name": "Casa do Artista",
+                  "text": "Történelmi udvarház, amely ma művészeti és kulturális térként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -8.110353,
+                        40.154209
+                  ]
+            },
+            {
+                  "name": "Baloiço de Góis",
+                  "text": "Panorámás hinta Góis közelében, kilátással a környező hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.112687,
+                        40.154154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Fluvial do Pêgo Escuro",
+                  "text": "O plajă fluvială liniștită pe râul Ceira, cunoscută pentru apa curată și cadrul natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.111974,
+                        40.15049
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial Cabreira",
+                  "text": "O zonă naturală de scăldat la râu, situată în regiunea Serra da Lousã.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.072547,
+                        40.140337
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura de Góis",
+                  "text": "Un centru cultural în Góis care găzduiește evenimente locale și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.110123,
+                        40.156229
+                  ]
+            },
+            {
+                  "name": "Centro de Referência da Memória Goiense",
+                  "text": "Un muzeu dedicat conservării istoriei locale și memoriei comunității din Góis.",
+                  "category": "museum",
+                  "coords": [
+                        -8.108219,
+                        40.158088
+                  ]
+            },
+            {
+                  "name": "Casa do Artista",
+                  "text": "Un conac istoric care servește astăzi ca spațiu pentru artă și cultură.",
+                  "category": "historical",
+                  "coords": [
+                        -8.110353,
+                        40.154209
+                  ]
+            },
+            {
+                  "name": "Baloiço de Góis",
+                  "text": "Un leagăn panoramic lângă Góis, cu vedere spre peisajul montan din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.112687,
+                        40.154154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Fluvial do Pêgo Escuro",
+                  "text": "A quiet river beach on the Ceira River, known for its clear water and natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.111974,
+                        40.15049
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial Cabreira",
+                  "text": "A natural river bathing area located in the Serra da Lousã region.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.072547,
+                        40.140337
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura de Góis",
+                  "text": "A cultural center in Góis that hosts local events and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.110123,
+                        40.156229
+                  ]
+            },
+            {
+                  "name": "Centro de Referência da Memória Goiense",
+                  "text": "A museum dedicated to preserving the local history and memory of Góis.",
+                  "category": "museum",
+                  "coords": [
+                        -8.108219,
+                        40.158088
+                  ]
+            },
+            {
+                  "name": "Casa do Artista",
+                  "text": "A historic manor house that now serves as a space for art and culture.",
+                  "category": "historical",
+                  "coords": [
+                        -8.110353,
+                        40.154209
+                  ]
+            },
+            {
+                  "name": "Baloiço de Góis",
+                  "text": "A panoramic swing near Góis with views of the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.112687,
+                        40.154154
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Lousã Nord", hu: "Serra da Lousã Nord", ro: "Serra da Lousã Nord", en: "Serra da Lousã North" },
@@ -1128,7 +4170,160 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-alturas-west-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-nogueira-east-relief-v2",
+    id: "portugal-serra-da-nogueira-east-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castro de Ciragata",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten einer alten Siedlung in Serra da Nogueira.",
+                  "category": "historical",
+                  "coords": [
+                        -6.72399,
+                        41.670405
+                  ]
+            },
+            {
+                  "name": "Castelo de Alfenim (ou de Alvelina)",
+                  "text": "Die Überreste einer historischen Burg in der Region Serra da Nogueira.",
+                  "category": "castle",
+                  "coords": [
+                        -6.784699,
+                        41.675566
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Carocedo",
+                  "text": "Ein historischer Pranger aus Stein in Carocedo, der die lokale Autonomie symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750854,
+                        41.723426
+                  ]
+            },
+            {
+                  "name": "Igreja de Paredes",
+                  "text": "Eine lokale Kirche in der Gegend von Serra da Nogueira.",
+                  "category": "religious",
+                  "coords": [
+                        -6.726852,
+                        41.699554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castro de Ciragata",
+                  "text": "Régészeti lelőhely egy ősi település maradványaival Serra da Nogueirában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.72399,
+                        41.670405
+                  ]
+            },
+            {
+                  "name": "Castelo de Alfenim (ou de Alvelina)",
+                  "text": "Egy történelmi vár maradványai a Serra da Nogueira régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.784699,
+                        41.675566
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Carocedo",
+                  "text": "Történelmi kő szégyennyoszlop Carocedóban, amely a helyi autonómiát jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750854,
+                        41.723426
+                  ]
+            },
+            {
+                  "name": "Igreja de Paredes",
+                  "text": "Helyi templom a Serra da Nogueira környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.726852,
+                        41.699554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castro de Ciragata",
+                  "text": "Un sit arheologic cu ruinele unei așezări antice în Serra da Nogueira.",
+                  "category": "historical",
+                  "coords": [
+                        -6.72399,
+                        41.670405
+                  ]
+            },
+            {
+                  "name": "Castelo de Alfenim (ou de Alvelina)",
+                  "text": "Ruinele unui castel istoric situat în regiunea Serra da Nogueira.",
+                  "category": "castle",
+                  "coords": [
+                        -6.784699,
+                        41.675566
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Carocedo",
+                  "text": "Un stâlp al infamiei istoric din piatră în Carocedo, simbolizând autonomia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750854,
+                        41.723426
+                  ]
+            },
+            {
+                  "name": "Igreja de Paredes",
+                  "text": "O biserică locală din zona Serra da Nogueira.",
+                  "category": "religious",
+                  "coords": [
+                        -6.726852,
+                        41.699554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castro de Ciragata",
+                  "text": "An archaeological site featuring the remains of an ancient settlement in Serra da Nogueira.",
+                  "category": "historical",
+                  "coords": [
+                        -6.72399,
+                        41.670405
+                  ]
+            },
+            {
+                  "name": "Castelo de Alfenim (ou de Alvelina)",
+                  "text": "The remains of a historic castle located in the Serra da Nogueira region.",
+                  "category": "castle",
+                  "coords": [
+                        -6.784699,
+                        41.675566
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Carocedo",
+                  "text": "A historic stone pillory in Carocedo representing local administrative autonomy.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.750854,
+                        41.723426
+                  ]
+            },
+            {
+                  "name": "Igreja de Paredes",
+                  "text": "A local church serving as a place of worship in the Serra da Nogueira area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.726852,
+                        41.699554
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Nogueira Ost", hu: "Serra da Nogueira Ost", ro: "Serra da Nogueira Ost", en: "Serra da Nogueira East" },
@@ -1173,7 +4368,232 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-nogueira-east-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-maroi-south-relief-v2",
+    id: "portugal-serra-do-maroi-south-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Margial",
+                  "text": "Archäologische Fundstätte im südlichen Teil der Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.236445,
+                        41.492283
+                  ]
+            },
+            {
+                  "name": "Castro de São Torcato",
+                  "text": "Überreste einer alten befestigten Siedlung in der Gegend von Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.242961,
+                        41.493592
+                  ]
+            },
+            {
+                  "name": "Castelo de São Torcato",
+                  "text": "Archäologische Stätte mit den Ruinen der Burg von São Torcato.",
+                  "category": "historical",
+                  "coords": [
+                        -8.273189,
+                        41.489944
+                  ]
+            },
+            {
+                  "name": "Santuário rupestre de Garfe",
+                  "text": "Ein historisches Felsenheiligtum in der Region Garfe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.25265,
+                        41.527654
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "Ein historisches Herrenhaus und Anwesen in der Region Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Marinha",
+                  "text": "Ein Aussichtspunkt mit Blick über die Landschaft von Santa Marinha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224744,
+                        41.503084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Margial",
+                  "text": "Régészeti lelőhely a Serra do Maroi déli részén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.236445,
+                        41.492283
+                  ]
+            },
+            {
+                  "name": "Castro de São Torcato",
+                  "text": "Egy ősi erődített település maradványai a Serra do Maroi területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.242961,
+                        41.493592
+                  ]
+            },
+            {
+                  "name": "Castelo de São Torcato",
+                  "text": "Régészeti lelőhely São Torcato várának romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        -8.273189,
+                        41.489944
+                  ]
+            },
+            {
+                  "name": "Santuário rupestre de Garfe",
+                  "text": "Történelmi sziklaszentély Garfe környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.25265,
+                        41.527654
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "Történelmi udvarház és birtok a Serra do Maroi régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Marinha",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik Santa Marinha vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224744,
+                        41.503084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Margial",
+                  "text": "Sit arheologic situat în partea de sud a regiunii Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.236445,
+                        41.492283
+                  ]
+            },
+            {
+                  "name": "Castro de São Torcato",
+                  "text": "Vestigiile unei vechi așezări fortificate în zona Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.242961,
+                        41.493592
+                  ]
+            },
+            {
+                  "name": "Castelo de São Torcato",
+                  "text": "Sit arheologic ce cuprinde ruinele castelului São Torcato.",
+                  "category": "historical",
+                  "coords": [
+                        -8.273189,
+                        41.489944
+                  ]
+            },
+            {
+                  "name": "Santuário rupestre de Garfe",
+                  "text": "Un sanctuar istoric săpat în stâncă situat în regiunea Garfe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.25265,
+                        41.527654
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "O vilă istorică și domeniu în regiunea Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Marinha",
+                  "text": "Un punct de observație cu vedere asupra peisajului din Santa Marinha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224744,
+                        41.503084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Margial",
+                  "text": "Archaeological site located in the southern part of the Serra do Maroi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.236445,
+                        41.492283
+                  ]
+            },
+            {
+                  "name": "Castro de São Torcato",
+                  "text": "Remains of an ancient fortified settlement in the Serra do Maroi area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.242961,
+                        41.493592
+                  ]
+            },
+            {
+                  "name": "Castelo de São Torcato",
+                  "text": "Archaeological site containing the ruins of the São Torcato castle.",
+                  "category": "historical",
+                  "coords": [
+                        -8.273189,
+                        41.489944
+                  ]
+            },
+            {
+                  "name": "Santuário rupestre de Garfe",
+                  "text": "A historic rock-cut sanctuary located in the Garfe region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.25265,
+                        41.527654
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "A historic manor house and estate in the Serra do Maroi region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Marinha",
+                  "text": "A viewpoint offering vistas over the Santa Marinha landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -8.224744,
+                        41.503084
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi Süd", hu: "Serra do Maroi Süd", ro: "Serra do Maroi Süd", en: "Serra do Maroi South" },
@@ -1218,7 +4638,124 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-maroi-south-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-monchique-north-relief-v2",
+    id: "portugal-serra-de-monchique-north-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sonderschutzzone Monchique",
+                  "text": "Ein geschütztes Naturgebiet, das für seine Artenvielfalt im Monchique-Gebirge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.577473,
+                        37.353694
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "Ein malerischer Wasserfall in der Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "Ein natürlicher Wasserfall im nördlichen Teil des Monchique-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona de Proteção Especial de Monchique",
+                  "text": "A Monchique-hegység biológiai sokféleségéről ismert védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -8.577473,
+                        37.353694
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "Festői vízesés a Serra de Monchique hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "Természetes vízesés a Monchique-hegység északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona de Proteção Especial de Monchique",
+                  "text": "O arie naturală protejată, cunoscută pentru biodiversitatea sa din munții Monchique.",
+                  "category": "natural",
+                  "coords": [
+                        -8.577473,
+                        37.353694
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "O cascadă pitorească situată în Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "O cascadă naturală situată în partea de nord a masivului Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monchique Special Protection Area",
+                  "text": "A protected natural area known for its biodiversity in the Monchique mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -8.577473,
+                        37.353694
+                  ]
+            },
+            {
+                  "name": "Cascata do Barbelote",
+                  "text": "A picturesque waterfall located in the Serra de Monchique.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.613214,
+                        37.316234
+                  ]
+            },
+            {
+                  "name": "Cascata do Penedo do Buraco",
+                  "text": "A natural waterfall situated in the northern part of the Monchique range.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.582544,
+                        37.323545
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Monchique Nord", hu: "Serra de Monchique Nord", ro: "Serra de Monchique Nord", en: "Serra de Monchique North" },
@@ -1398,7 +4935,52 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-nogueira-north-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-caldeirao-east-relief-v2",
+    id: "portugal-serra-do-caldeirao-east-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leinenwebermuseum",
+                  "text": "Ein Museum in der östlichen Serra do Caldeirão, das lokale Traditionen und Geschichte lebendig präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.818172,
+                        37.333671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Vivo",
+                  "text": "Múzeum a Serra do Caldeirão keleti részén, amely élőben mutatja be a helyi hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        -7.818172,
+                        37.333671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Vivo",
+                  "text": "Un muzeu în estul Serra do Caldeirão, care prezintă într-un mod viu tradițiile și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -7.818172,
+                        37.333671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Vivo",
+                  "text": "A museum in eastern Serra do Caldeirão that vividly presents local traditions and history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.818172,
+                        37.333671
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeirão Ost", hu: "Serra do Caldeirão Ost", ro: "Serra do Caldeirão Ost", en: "Serra do Caldeirão East" },
@@ -1443,7 +5025,232 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-caldeirao-east-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-montemuro-south-relief-v2",
+    id: "portugal-serra-do-montemuro-south-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anta Travessas da Orca 1",
+                  "text": "Ein prähistorisches Megalithgrab in der Region Montemuro, das Zeugnis antiker Kulturen ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820183,
+                        40.903392
+                  ]
+            },
+            {
+                  "name": "Anta da Lameira Travessa",
+                  "text": "Eine antike Dolmenanlage in Portugal, die charakteristisch für die Megalitharchitektur der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821564,
+                        40.906252
+                  ]
+            },
+            {
+                  "name": "Dólmen da Quinta das Pedras Bem Feitas",
+                  "text": "Ein gut erhaltenes Megalithmonument in der Bergregion von Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820075,
+                        40.904399
+                  ]
+            },
+            {
+                  "name": "Orca de Pendilhe",
+                  "text": "Ein bedeutender Dolmen in Portugal, der als wichtiges archäologisches Erbe der Region gilt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.823702,
+                        40.898126
+                  ]
+            },
+            {
+                  "name": "Travessas da Orca 4",
+                  "text": "Eine archäologische Fundstätte mit megalithischen Überresten in der Serra do Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821156,
+                        40.904761
+                  ]
+            },
+            {
+                  "name": "Mamoa da Barroca da Eirinha",
+                  "text": "Ein prähistorisches Hügelgrab in der Bergregion Serra do Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.816843,
+                        40.900831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anta Travessas da Orca 1",
+                  "text": "Prehisztorikus megalitikus sír a Montemuro régióban, amely ősi kultúrák emlékét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820183,
+                        40.903392
+                  ]
+            },
+            {
+                  "name": "Anta da Lameira Travessa",
+                  "text": "Ősi dolmen Portugáliában, amely jellemző a régió megalitikus építészetére.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821564,
+                        40.906252
+                  ]
+            },
+            {
+                  "name": "Dólmen da Quinta das Pedras Bem Feitas",
+                  "text": "Jó állapotban fennmaradt megalitikus emlékmű Montemuro hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820075,
+                        40.904399
+                  ]
+            },
+            {
+                  "name": "Orca de Pendilhe",
+                  "text": "Jelentős dolmen Portugáliában, amely a régió fontos régészeti öröksége.",
+                  "category": "historical",
+                  "coords": [
+                        -7.823702,
+                        40.898126
+                  ]
+            },
+            {
+                  "name": "Travessas da Orca 4",
+                  "text": "Megalitikus maradványokat tartalmazó régészeti lelőhely a Serra do Montemuro hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821156,
+                        40.904761
+                  ]
+            },
+            {
+                  "name": "Mamoa da Barroca da Eirinha",
+                  "text": "Prehisztorikus halomsír a Serra do Montemuro hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.816843,
+                        40.900831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anta Travessas da Orca 1",
+                  "text": "Un mormânt megalitic preistoric din regiunea Montemuro, marturie a culturilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820183,
+                        40.903392
+                  ]
+            },
+            {
+                  "name": "Anta da Lameira Travessa",
+                  "text": "Un dolmen antic în Portugalia, caracteristic arhitecturii megalitice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821564,
+                        40.906252
+                  ]
+            },
+            {
+                  "name": "Dólmen da Quinta das Pedras Bem Feitas",
+                  "text": "Un monument megalitic bine conservat în regiunea muntoasă Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820075,
+                        40.904399
+                  ]
+            },
+            {
+                  "name": "Orca de Pendilhe",
+                  "text": "Un dolmen important în Portugalia, considerat o moștenire arheologică valoroasă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -7.823702,
+                        40.898126
+                  ]
+            },
+            {
+                  "name": "Travessas da Orca 4",
+                  "text": "Un sit arheologic cu vestigii megalitice în Serra do Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821156,
+                        40.904761
+                  ]
+            },
+            {
+                  "name": "Mamoa da Barroca da Eirinha",
+                  "text": "Un tumul preistoric situat în regiunea montană Serra do Montemuro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.816843,
+                        40.900831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anta Travessas da Orca 1",
+                  "text": "A prehistoric megalithic tomb in the Montemuro region, evidence of ancient cultures.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820183,
+                        40.903392
+                  ]
+            },
+            {
+                  "name": "Anta da Lameira Travessa",
+                  "text": "An ancient dolmen in Portugal characteristic of the region's megalithic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821564,
+                        40.906252
+                  ]
+            },
+            {
+                  "name": "Dólmen da Quinta das Pedras Bem Feitas",
+                  "text": "A well-preserved megalithic monument located in the Montemuro mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.820075,
+                        40.904399
+                  ]
+            },
+            {
+                  "name": "Orca de Pendilhe",
+                  "text": "A significant dolmen in Portugal regarded as an important archaeological heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        -7.823702,
+                        40.898126
+                  ]
+            },
+            {
+                  "name": "Travessas da Orca 4",
+                  "text": "An archaeological site featuring megalithic remains in the Serra do Montemuro region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.821156,
+                        40.904761
+                  ]
+            },
+            {
+                  "name": "Mamoa da Barroca da Eirinha",
+                  "text": "A prehistoric burial mound located in the Serra do Montemuro mountain area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.816843,
+                        40.900831
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Montemuro Süd", hu: "Serra do Montemuro Süd", ro: "Serra do Montemuro Süd", en: "Serra do Montemuro South" },
@@ -1488,7 +5295,268 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-montemuro-south-relief-v2.webp",
   },
   {
-    id: "portugal-serra-da-gralheira-north-relief-v2",
+    id: "portugal-serra-da-gralheira-north-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Ein prähistorisches Hügelgrab in der Serra da Arada, das Zeugnis von früher Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Portal do Inferno e Garra",
+                  "text": "Eine markante Schlucht und Felsformation in der Serra da Arada mit dramatischen Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.109468,
+                        40.873174
+                  ]
+            },
+            {
+                  "name": "Baloiço da Serra da Arada",
+                  "text": "Diese touristische Schaukel bietet einen weiten Blick über die Berglandschaft der Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.120305,
+                        40.832375
+                  ]
+            },
+            {
+                  "name": "Mariolas da Arada",
+                  "text": "Traditionelle Steinmännchen, die in der Berglandschaft der Serra da Arada als Wegweiser dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129903,
+                        40.825548
+                  ]
+            },
+            {
+                  "name": "Baloiço do Miradouro da Serra da Arada",
+                  "text": "Eine Schaukel an einem Aussichtspunkt, die spektakuläre Fotomotive in der Serra da Arada bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.087361,
+                        40.828131
+                  ]
+            },
+            {
+                  "name": "Complexo Mineiro de Regoufe",
+                  "text": "Die Überreste eines ehemaligen Wolfram-Bergwerks, das die industrielle Geschichte der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.135359,
+                        40.878697
+                  ]
+            },
+            {
+                  "name": "Drave",
+                  "text": "Ein verlassenes und malerisches Dorf in der Serra da Arada, das für seine mystische Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.117092,
+                        40.86115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Prehisztorikus sírhalom a Serra da Arada hegységben, amely a korai benépesülés emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Portal do Inferno e Garra",
+                  "text": "Látványos szurdok és sziklaalakzat a Serra da Arada hegységben, drámai kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.109468,
+                        40.873174
+                  ]
+            },
+            {
+                  "name": "Baloiço da Serra da Arada",
+                  "text": "Ez a turisztikai hinta páratlan kilátást nyújt a Serra da Arada hegyvidéki tájaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.120305,
+                        40.832375
+                  ]
+            },
+            {
+                  "name": "Mariolas da Arada",
+                  "text": "Hagyományos kőrakások, amelyek útjelzőként szolgálnak a Serra da Arada hegyi tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129903,
+                        40.825548
+                  ]
+            },
+            {
+                  "name": "Baloiço do Miradouro da Serra da Arada",
+                  "text": "Kilátópontnál elhelyezett hinta, amely látványos fotózási lehetőséget kínál a Serra da Arada hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.087361,
+                        40.828131
+                  ]
+            },
+            {
+                  "name": "Complexo Mineiro de Regoufe",
+                  "text": "Egy egykori volfrám-bányakomplexum maradványai, amelyek a régió ipari múltját tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.135359,
+                        40.878697
+                  ]
+            },
+            {
+                  "name": "Drave",
+                  "text": "Elhagyatott, festői falu a Serra da Arada hegységben, amely misztikus hangulatáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.117092,
+                        40.86115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "Un mormânt tumular preistoric în Serra da Arada, care atestă locuirea timpurie a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Portal do Inferno e Garra",
+                  "text": "O formațiune stâncoasă și o trecătoare spectaculoasă în Serra da Arada, cu vederi dramatice.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.109468,
+                        40.873174
+                  ]
+            },
+            {
+                  "name": "Baloiço da Serra da Arada",
+                  "text": "Acest leagăn panoramic oferă o vedere spectaculoasă asupra peisajului montan din Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.120305,
+                        40.832375
+                  ]
+            },
+            {
+                  "name": "Mariolas da Arada",
+                  "text": "Grămezi tradiționale de pietre care servesc drept repere pe culmile munților Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129903,
+                        40.825548
+                  ]
+            },
+            {
+                  "name": "Baloiço do Miradouro da Serra da Arada",
+                  "text": "Un leagăn situat într-un punct de belvedere, oferind oportunități fotografice superbe în Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.087361,
+                        40.828131
+                  ]
+            },
+            {
+                  "name": "Complexo Mineiro de Regoufe",
+                  "text": "Rămășițele unui fost complex minier de wolfram, care reflectă istoria industrială a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.135359,
+                        40.878697
+                  ]
+            },
+            {
+                  "name": "Drave",
+                  "text": "Un sat părăsit și pitoresc din Serra da Arada, cunoscut pentru atmosfera sa mistică.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.117092,
+                        40.86115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mamoa Serra da Arada",
+                  "text": "A prehistoric burial mound in the Serra da Arada, providing evidence of early human settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.129977,
+                        40.818817
+                  ]
+            },
+            {
+                  "name": "Portal do Inferno e Garra",
+                  "text": "A striking mountain pass and rock formation in the Serra da Arada offering dramatic landscape views.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.109468,
+                        40.873174
+                  ]
+            },
+            {
+                  "name": "Baloiço da Serra da Arada",
+                  "text": "A popular tourist swing offering panoramic views over the mountainous landscape of Serra da Arada.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.120305,
+                        40.832375
+                  ]
+            },
+            {
+                  "name": "Mariolas da Arada",
+                  "text": "Traditional stone cairns located in the mountains of Serra da Arada, often used as landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.129903,
+                        40.825548
+                  ]
+            },
+            {
+                  "name": "Baloiço do Miradouro da Serra da Arada",
+                  "text": "A swing located at a viewpoint in the Serra da Arada, providing a scenic spot for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.087361,
+                        40.828131
+                  ]
+            },
+            {
+                  "name": "Complexo Mineiro de Regoufe",
+                  "text": "The remains of a former wolfram mining complex, showcasing the industrial history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.135359,
+                        40.878697
+                  ]
+            },
+            {
+                  "name": "Drave",
+                  "text": "A picturesque uninhabited village in the Serra da Arada, known for its mystical atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.117092,
+                        40.86115
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gralheira Nord", hu: "Serra da Gralheira Nord", ro: "Serra da Gralheira Nord", en: "Serra da Gralheira North" },
@@ -1533,7 +5601,124 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-da-gralheira-north-relief-v2.webp",
   },
   {
-    id: "portugal-serra-do-maroi-east-relief-v2",
+    id: "portugal-serra-do-maroi-east-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Ouro de Travassos",
+                  "text": "Ein Museum in Póvoa de Lanhoso, das der traditionellen Gold-Filigranarbeit gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.20153,
+                        41.57294
+                  ]
+            },
+            {
+                  "name": "Ponte Mem Gutierres",
+                  "text": "Eine historische Brücke, die die Region Serra do Maroi East prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.166354,
+                        41.576775
+                  ]
+            },
+            {
+                  "name": "Santuário Nossa Senhora de Porto de Ave",
+                  "text": "Ein bedeutender Wallfahrtsort in Póvoa de Lanhoso mit barocker Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -8.222272,
+                        41.557231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Ouro de Travassos",
+                  "text": "A hagyományos arany filigránművészetnek szentelt múzeum Póvoa de Lanhosóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.20153,
+                        41.57294
+                  ]
+            },
+            {
+                  "name": "Ponte Mem Gutierres",
+                  "text": "Történelmi híd, amely a Serra do Maroi East régió részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.166354,
+                        41.576775
+                  ]
+            },
+            {
+                  "name": "Santuário Nossa Senhora de Porto de Ave",
+                  "text": "Jelentős barokk stílusú zarándokhely Póvoa de Lanhoso közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.222272,
+                        41.557231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Ouro de Travassos",
+                  "text": "Un muzeu în Póvoa de Lanhoso dedicat artei tradiționale a filigranului de aur.",
+                  "category": "museum",
+                  "coords": [
+                        -8.20153,
+                        41.57294
+                  ]
+            },
+            {
+                  "name": "Ponte Mem Gutierres",
+                  "text": "Un pod istoric situat în regiunea Serra do Maroi East.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.166354,
+                        41.576775
+                  ]
+            },
+            {
+                  "name": "Santuário Nossa Senhora de Porto de Ave",
+                  "text": "Un important loc de pelerinaj cu arhitectură barocă lângă Póvoa de Lanhoso.",
+                  "category": "religious",
+                  "coords": [
+                        -8.222272,
+                        41.557231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Ouro de Travassos",
+                  "text": "A museum in Póvoa de Lanhoso dedicated to traditional gold filigree craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        -8.20153,
+                        41.57294
+                  ]
+            },
+            {
+                  "name": "Ponte Mem Gutierres",
+                  "text": "A historic bridge located in the Serra do Maroi East region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.166354,
+                        41.576775
+                  ]
+            },
+            {
+                  "name": "Santuário Nossa Senhora de Porto de Ave",
+                  "text": "A significant pilgrimage site near Póvoa de Lanhoso featuring Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.222272,
+                        41.557231
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi Ost", hu: "Serra do Maroi Ost", ro: "Serra do Maroi Ost", en: "Serra do Maroi East" },
@@ -1578,7 +5763,268 @@ export const portugalReliefV2: POI[] = [
     image: "/poi-images/portugal-serra-do-maroi-east-relief-v2.webp",
   },
   {
-    id: "portugal-serra-de-fafe-west-relief-v2",
+    id: "portugal-serra-de-fafe-west-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Via medieval de São João - Travassós",
+                  "text": "Eine mittelalterliche Ausgrabungsstätte in Travassós bei Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.214673,
+                        41.405886
+                  ]
+            },
+            {
+                  "name": "Museu da Educação",
+                  "text": "Ein Museum in Fafe, das der Geschichte der Bildung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.167089,
+                        41.41272
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "Ein moderner Wasserpark mit verschiedenen Freizeitbecken in Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Escavanca",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die Serra de Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201321,
+                        41.392265
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Salvador",
+                  "text": "Ein bekannter Aussichtspunkt in der Bergregion von Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.186119,
+                        41.40985
+                  ]
+            },
+            {
+                  "name": "Baloiço do Arco",
+                  "text": "Eine dekorative Schaukel und Touristenattraktion in der Natur von Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230557,
+                        41.394372
+                  ]
+            },
+            {
+                  "name": "Baloiço do Canal de Sendim",
+                  "text": "Eine malerische Schaukel am Kanal von Sendim in Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.178583,
+                        41.395389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Via medieval de São João - Travassós",
+                  "text": "Középkori régészeti lelőhely Travassós közelében, Fafénál.",
+                  "category": "historical",
+                  "coords": [
+                        -8.214673,
+                        41.405886
+                  ]
+            },
+            {
+                  "name": "Museu da Educação",
+                  "text": "Az oktatás történetének szentelt múzeum Fafe területén.",
+                  "category": "museum",
+                  "coords": [
+                        -8.167089,
+                        41.41272
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "Modern vízipark különféle szabadidős medencékkel Fafe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Escavanca",
+                  "text": "Kilátópont panorámás kilátással a Serra de Fafe vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201321,
+                        41.392265
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Salvador",
+                  "text": "Ismert kilátóhely Fafe hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.186119,
+                        41.40985
+                  ]
+            },
+            {
+                  "name": "Baloiço do Arco",
+                  "text": "Dekoratív hinta és turisztikai látványosság Fafe természetközeli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230557,
+                        41.394372
+                  ]
+            },
+            {
+                  "name": "Baloiço do Canal de Sendim",
+                  "text": "Gidafestői hinta a Sendim-csatornánál Fafe területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.178583,
+                        41.395389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Via medieval de São João - Travassós",
+                  "text": "Un sit arheologic medieval situat în Travassós, lângă Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.214673,
+                        41.405886
+                  ]
+            },
+            {
+                  "name": "Museu da Educação",
+                  "text": "Un muzeu din Fafe dedicat istoriei educației.",
+                  "category": "museum",
+                  "coords": [
+                        -8.167089,
+                        41.41272
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "Un parc acvatic modern cu diverse piscine de agrement în Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Escavanca",
+                  "text": "Un punct de observare cu vedere panoramică asupra Serra de Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201321,
+                        41.392265
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Salvador",
+                  "text": "Un punct de belvedere cunoscut în regiunea montană din Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.186119,
+                        41.40985
+                  ]
+            },
+            {
+                  "name": "Baloiço do Arco",
+                  "text": "Un leagăn decorativ și atracție turistică în natura din Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230557,
+                        41.394372
+                  ]
+            },
+            {
+                  "name": "Baloiço do Canal de Sendim",
+                  "text": "Un leagăn pitoresc situat lângă canalul Sendim din Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.178583,
+                        41.395389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Via medieval de São João - Travassós",
+                  "text": "A medieval archaeological site located in Travassós near Fafe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.214673,
+                        41.405886
+                  ]
+            },
+            {
+                  "name": "Museu da Educação",
+                  "text": "A museum in Fafe dedicated to the history of education.",
+                  "category": "museum",
+                  "coords": [
+                        -8.167089,
+                        41.41272
+                  ]
+            },
+            {
+                  "name": "Parque Aquático de Fafe",
+                  "text": "A modern water park with various leisure pools in Fafe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.182206,
+                        41.439141
+                  ]
+            },
+            {
+                  "name": "Escavanca",
+                  "text": "A viewpoint offering panoramic views over the Serra de Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.201321,
+                        41.392265
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Salvador",
+                  "text": "A well-known viewpoint in the mountainous region of Fafe.",
+                  "category": "natural",
+                  "coords": [
+                        -8.186119,
+                        41.40985
+                  ]
+            },
+            {
+                  "name": "Baloiço do Arco",
+                  "text": "A decorative swing and tourist attraction in the nature of Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.230557,
+                        41.394372
+                  ]
+            },
+            {
+                  "name": "Baloiço do Canal de Sendim",
+                  "text": "A scenic swing located by the Sendim canal in Fafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.178583,
+                        41.395389
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Fafe West", hu: "Serra de Fafe West", ro: "Serra de Fafe West", en: "Serra de Fafe West" },

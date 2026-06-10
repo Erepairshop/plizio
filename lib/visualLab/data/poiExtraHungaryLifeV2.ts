@@ -48,7 +48,124 @@ export const hungaryLifeV2: POI[] = [
     image: "/poi-images/hungary-duna-ipoly-nemzeti-park-life-v2.webp",
   },
   {
-    id: "hungary-koros-maros-nemzeti-park-life-v2",
+    id: "hungary-koros-maros-nemzeti-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hármashatár-halom",
+                  "text": "Ein Naturschutzgebiet im Nationalpark Körös-Maros.",
+                  "category": "natural",
+                  "coords": [
+                        20.91748,
+                        46.574596
+                  ]
+            },
+            {
+                  "name": "Beliczey-kastély",
+                  "text": "Ein historisches Schloss im Gebiet des Nationalparks Körös-Maros.",
+                  "category": "castle",
+                  "coords": [
+                        20.941658,
+                        46.571848
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Múzeum",
+                  "text": "Ein Heimatmuseum, das die lokale Geschichte der Region Körös-Maros zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.885265,
+                        46.541233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hármashatár-halom",
+                  "text": "Természetvédelmi terület a Körös-Maros Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        20.91748,
+                        46.574596
+                  ]
+            },
+            {
+                  "name": "Beliczey-kastély",
+                  "text": "Történelmi kastély a Körös-Maros Nemzeti Park területén.",
+                  "category": "castle",
+                  "coords": [
+                        20.941658,
+                        46.571848
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Múzeum",
+                  "text": "Helytörténeti múzeum, amely a Körös-Maros vidék múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.885265,
+                        46.541233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hármashatár-halom",
+                  "text": "O rezervație naturală aflată în cadrul Parcului Național Körös-Maros.",
+                  "category": "natural",
+                  "coords": [
+                        20.91748,
+                        46.574596
+                  ]
+            },
+            {
+                  "name": "Beliczey-kastély",
+                  "text": "Un castel istoric situat în zona Parcului Național Körös-Maros.",
+                  "category": "castle",
+                  "coords": [
+                        20.941658,
+                        46.571848
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Múzeum",
+                  "text": "Un muzeu de istorie locală ce prezintă tradițiile regiunii Körös-Maros.",
+                  "category": "museum",
+                  "coords": [
+                        20.885265,
+                        46.541233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hármashatár-halom",
+                  "text": "A nature reserve situated within the Körös-Maros National Park.",
+                  "category": "natural",
+                  "coords": [
+                        20.91748,
+                        46.574596
+                  ]
+            },
+            {
+                  "name": "Beliczey-kastély",
+                  "text": "A historic castle located in the area of the Körös-Maros National Park.",
+                  "category": "castle",
+                  "coords": [
+                        20.941658,
+                        46.571848
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Múzeum",
+                  "text": "A local history museum showcasing the heritage of the Körös-Maros region.",
+                  "category": "museum",
+                  "coords": [
+                        20.885265,
+                        46.541233
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "HU",
     name: { de: "Körös-Maros-Nationalpark", hu: "Körös-Maros Nemzeti Park", ro: "Parcul Național Körös-Maros", en: "Körös-Maros National Park" },

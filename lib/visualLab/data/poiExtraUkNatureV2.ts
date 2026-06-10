@@ -49,7 +49,232 @@ imageHint: "Ben Nevis mountain summit with snow patches",
     },
     image: "/poi-images/uk-ben-nevis-nature-v2.webp",
 },  {
-    id: "uk-loch-ness-nature-v2",
+    id: "uk-loch-ness-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Urquhart Castle",
+                  "text": "Die Ruinen einer bedeutenden mittelalterlichen Burg am Ufer von Loch Ness in Schottland.",
+                  "category": "castle",
+                  "coords": [
+                        -4.442057,
+                        57.32409
+                  ]
+            },
+            {
+                  "name": "Urquhart Castle Visitor Centre",
+                  "text": "Ein Besucherzentrum am Loch Ness, das die Geschichte von Urquhart Castle erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        -4.444655,
+                        57.323991
+                  ]
+            },
+            {
+                  "name": "Glen Urquhart Public Hall",
+                  "text": "Ein Gemeindezentrum und Veranstaltungsort in Drumnadrochit in der Nähe von Loch Ness.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479413,
+                        57.330581
+                  ]
+            },
+            {
+                  "name": "Loch Ness Centre & Exhibition",
+                  "text": "Ein Museum in Drumnadrochit, das sich der Naturgeschichte und den Legenden von Loch Ness widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -4.477875,
+                        57.33737
+                  ]
+            },
+            {
+                  "name": "Nessieland Castle Monster Centre",
+                  "text": "Eine familienfreundliche Attraktion am Loch Ness, die sich auf die Legende des Ungeheuers konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.480091,
+                        57.337675
+                  ]
+            },
+            {
+                  "name": "Floral Castle",
+                  "text": "Eine gärtnerische Attraktion in Form einer Burg in der Nähe von Loch Ness.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.479814,
+                        57.33595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Urquhart vára",
+                  "text": "Egy jelentős középkori vár romjai a skóciai Loch Ness partján.",
+                  "category": "castle",
+                  "coords": [
+                        -4.442057,
+                        57.32409
+                  ]
+            },
+            {
+                  "name": "Urquhart Castle Visitor Centre",
+                  "text": "Látogatóközpont a Loch Ness-nél, amely az Urquhart várának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -4.444655,
+                        57.323991
+                  ]
+            },
+            {
+                  "name": "Glen Urquhart Public Hall",
+                  "text": "Közösségi ház és rendezvényhelyszín Drumnadrochitban, a Loch Ness közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479413,
+                        57.330581
+                  ]
+            },
+            {
+                  "name": "Loch Ness Centre & Exhibition",
+                  "text": "Múzeum Drumnadrochitban, amely a Loch Ness természetrajzával és legendáival foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -4.477875,
+                        57.33737
+                  ]
+            },
+            {
+                  "name": "Nessieland Castle Monster Centre",
+                  "text": "Családbarát látványosság a Loch Ness-nél, amely a szörny legendájára épül.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.480091,
+                        57.337675
+                  ]
+            },
+            {
+                  "name": "Floral Castle",
+                  "text": "Kastély formájú kertészeti látványosság a Loch Ness közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.479814,
+                        57.33595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Urquhart Castle",
+                  "text": "Ruinele unui castel medieval important de pe malul lacului Loch Ness din Scoția.",
+                  "category": "castle",
+                  "coords": [
+                        -4.442057,
+                        57.32409
+                  ]
+            },
+            {
+                  "name": "Urquhart Castle Visitor Centre",
+                  "text": "Un centru de vizitare de la Loch Ness care explică istoria castelului Urquhart.",
+                  "category": "museum",
+                  "coords": [
+                        -4.444655,
+                        57.323991
+                  ]
+            },
+            {
+                  "name": "Glen Urquhart Public Hall",
+                  "text": "O sală comunitară și loc de evenimente în Drumnadrochit, lângă Loch Ness.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479413,
+                        57.330581
+                  ]
+            },
+            {
+                  "name": "Loch Ness Centre & Exhibition",
+                  "text": "Un muzeu din Drumnadrochit dedicat istoriei naturale și legendelor lacului Loch Ness.",
+                  "category": "museum",
+                  "coords": [
+                        -4.477875,
+                        57.33737
+                  ]
+            },
+            {
+                  "name": "Nessieland Castle Monster Centre",
+                  "text": "O atracție pentru familii la Loch Ness, axată pe legenda monstrului.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.480091,
+                        57.337675
+                  ]
+            },
+            {
+                  "name": "Floral Castle",
+                  "text": "O atracție horticolă în formă de castel situată lângă Loch Ness.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.479814,
+                        57.33595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Urquhart Castle",
+                  "text": "The ruins of a significant medieval castle located on the shores of Loch Ness in Scotland.",
+                  "category": "castle",
+                  "coords": [
+                        -4.442057,
+                        57.32409
+                  ]
+            },
+            {
+                  "name": "Urquhart Castle Visitor Centre",
+                  "text": "A visitor centre at Loch Ness explaining the history of Urquhart Castle.",
+                  "category": "museum",
+                  "coords": [
+                        -4.444655,
+                        57.323991
+                  ]
+            },
+            {
+                  "name": "Glen Urquhart Public Hall",
+                  "text": "A community hall and venue for events located in Drumnadrochit near Loch Ness.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479413,
+                        57.330581
+                  ]
+            },
+            {
+                  "name": "Loch Ness Centre & Exhibition",
+                  "text": "A museum in Drumnadrochit dedicated to the natural history and legends of Loch Ness.",
+                  "category": "museum",
+                  "coords": [
+                        -4.477875,
+                        57.33737
+                  ]
+            },
+            {
+                  "name": "Nessieland Castle Monster Centre",
+                  "text": "A family-friendly attraction at Loch Ness focused on the legend of the monster.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.480091,
+                        57.337675
+                  ]
+            },
+            {
+                  "name": "Floral Castle",
+                  "text": "A garden attraction shaped like a castle located near Loch Ness.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.479814,
+                        57.33595
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "lake",
     name: { de: "Loch Ness", hu: "Loch Ness", ro: "Loch Ness", en: "Loch Ness"},
@@ -95,7 +320,304 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
     },
     image: "/poi-images/uk-loch-ness-nature-v2.webp",
 },  {
-    id: "uk-giants-causeway-nature-v2",
+    id: "uk-giants-causeway-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rath",
+                  "text": "Eine antike archäologische Stätte in der Nähe des Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Die Überreste einer archäologischen Stätte namens Carnkirk Castle in der Nähe des Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Ein Naturschutzgebiet mit alten Erdwällen im Gebiet des Giant's Causeway.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "Ein malerischer Strandabschnitt in der Nähe des Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.53085,
+                        55.223327
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Ein wunderschöner Sandstrand in Portballintrae, in der Nähe des Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "Ein berühmtes Naturwunder, das aus etwa 40.000 ineinandergreifenden Basaltsäulen besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "Eine einzigartige Felsformation am Giant's Causeway, die einem großen Stiefel ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Eine markante Formation aus Basaltsäulen am Giant's Causeway, die an Orgelpfeifen erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rath",
+                  "text": "Ősi régészeti lelőhely a Giant's Causeway közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "A Carnkirk Castle néven ismert régészeti lelőhely maradványai a Giant's Causeway közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Természetvédelmi terület ősi földvárakkal a Giant's Causeway környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "Festői tengerparti terület a Giant's Causeway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.53085,
+                        55.223327
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Szép homokos strand Portballintrae-ben, a Giant's Causeway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "Híres természeti csoda, amely körülbelül 40 000 egymáshoz kapcsolódó bazaltoszlopból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "Egy különleges sziklaalakzat a Giant's Causeway-nél, amely egy nagy csizmára hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Feltűnő bazaltoszlop-alakzat a Giant's Causeway-nél, amely orgonasípokra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rath",
+                  "text": "Un sit arheologic antic situat în apropiere de Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Rămășițele unui sit arheologic cunoscut sub numele de Castelul Carnkirk de lângă Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "O rezervație naturală cu terasamente antice în zona Giant's Causeway.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "O zonă de plajă pitorească situată în apropiere de Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.53085,
+                        55.223327
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "O plajă frumoasă cu nisip în Portballintrae, aproape de Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "O minune naturală faimoasă constând în aproximativ 40.000 de coloane de bazalt interconectate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "O formațiune stâncoasă unică la Giant's Causeway care seamănă cu o cizmă mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "O formațiune remarcabilă de coloane de bazalt la Giant's Causeway, asemănătoare cu tuburile unei orgi.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rath",
+                  "text": "An ancient archaeological site located near the Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "The remains of an archaeological site known as Carnkirk Castle near Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "A nature reserve featuring ancient earthworks in the Giant's Causeway area.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "A scenic beach area located near the Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.53085,
+                        55.223327
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "A beautiful sandy beach in Portballintrae, close to the Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "A famous natural wonder consisting of about 40,000 interlocking basalt columns.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "A unique rock formation at the Giant's Causeway that resembles a large boot.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "A striking basalt column formation at the Giant's Causeway resembling organ pipes.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "landmark",
     name: { de: "Giant's Causeway", hu: "Óriások útja", ro: "Giant's Causeway", en: "Giant's Causeway"},
@@ -141,7 +663,304 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
     },
     image: "/poi-images/uk-giants-causeway-nature-v2.webp",
 },  {
-    id: "uk-snowdon-nature-v2",
+    id: "uk-snowdon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clogwyn Coch Copper Mines",
+                  "text": "Historische Überreste ehemaliger Kupferminen am Mount Snowdon.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086342,
+                        53.080197
+                  ]
+            },
+            {
+                  "name": "Yr Aran",
+                  "text": "Ein markanter Gipfel südlich des Snowdon-Massivs in Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.083169,
+                        53.04276
+                  ]
+            },
+            {
+                  "name": "Moel Cynghorion",
+                  "text": "Ein Gipfel im Snowdonia-Nationalpark im Nordwesten von Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.113341,
+                        53.08544
+                  ]
+            },
+            {
+                  "name": "Y Lliwedd (West Peak)",
+                  "text": "Ein bekannter Gipfel im Snowdon-Massiv, der bei Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.057148,
+                        53.059398
+                  ]
+            },
+            {
+                  "name": "Garnedd Ugain",
+                  "text": "Der zweithöchste Gipfel in Wales, der sich in der Nähe des Snowdon befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.075205,
+                        53.075548
+                  ]
+            },
+            {
+                  "name": "Llechog",
+                  "text": "Ein markanter Berggipfel im Snowdon-Massiv in Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.082756,
+                        53.089863
+                  ]
+            },
+            {
+                  "name": "Gallt y Wenallt",
+                  "text": "Ein Gipfel in Wales, der einen weiten Blick über das Snowdon-Gebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.027126,
+                        53.059372
+                  ]
+            },
+            {
+                  "name": "Crib Goch",
+                  "text": "Ein berühmter, schmaler Grat und Gipfel in der Snowdon-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054589,
+                        53.076317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clogwyn Coch Copper Mines",
+                  "text": "Egykori rézbányák történelmi maradványai a Snowdon-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086342,
+                        53.080197
+                  ]
+            },
+            {
+                  "name": "Yr Aran",
+                  "text": "Jelentős hegycsúcs a Snowdon-masszívumtól délre, Walesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.083169,
+                        53.04276
+                  ]
+            },
+            {
+                  "name": "Moel Cynghorion",
+                  "text": "Hegycsúcs a Snowdonia Nemzeti Parkban, Északnyugat-Walesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.113341,
+                        53.08544
+                  ]
+            },
+            {
+                  "name": "Y Lliwedd (West Peak)",
+                  "text": "A Snowdon-masszívum egyik ismert csúcsa, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.057148,
+                        53.059398
+                  ]
+            },
+            {
+                  "name": "Garnedd Ugain",
+                  "text": "Wales második legmagasabb hegycsúcsa a Snowdon közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.075205,
+                        53.075548
+                  ]
+            },
+            {
+                  "name": "Llechog",
+                  "text": "Jellegzetes hegycsúcs a walesi Snowdon-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.082756,
+                        53.089863
+                  ]
+            },
+            {
+                  "name": "Gallt y Wenallt",
+                  "text": "Hegycsúcs Walesben, amely széles kilátást nyújt a Snowdon környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.027126,
+                        53.059372
+                  ]
+            },
+            {
+                  "name": "Crib Goch",
+                  "text": "Híres, keskeny hegygerinc és csúcs a Snowdon-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054589,
+                        53.076317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clogwyn Coch Copper Mines",
+                  "text": "Vestigii istorice ale fostelor mine de cupru de pe muntele Snowdon.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086342,
+                        53.080197
+                  ]
+            },
+            {
+                  "name": "Yr Aran",
+                  "text": "Un vârf proeminent situat la sud de masivul Snowdon din Țara Galilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.083169,
+                        53.04276
+                  ]
+            },
+            {
+                  "name": "Moel Cynghorion",
+                  "text": "Un vârf din Parcul Național Snowdonia, situat în nord-vestul Țării Galilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.113341,
+                        53.08544
+                  ]
+            },
+            {
+                  "name": "Y Lliwedd (West Peak)",
+                  "text": "Un vârf cunoscut din masivul Snowdon, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.057148,
+                        53.059398
+                  ]
+            },
+            {
+                  "name": "Garnedd Ugain",
+                  "text": "Al doilea cel mai înalt vârf din Țara Galilor, situat în apropiere de Snowdon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.075205,
+                        53.075548
+                  ]
+            },
+            {
+                  "name": "Llechog",
+                  "text": "Un vârf montan proeminent din masivul Snowdon din Țara Galilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.082756,
+                        53.089863
+                  ]
+            },
+            {
+                  "name": "Gallt y Wenallt",
+                  "text": "Un vârf din Țara Galilor ce oferă o vedere panoramică asupra zonei Snowdon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.027126,
+                        53.059372
+                  ]
+            },
+            {
+                  "name": "Crib Goch",
+                  "text": "O creastă îngustă și un vârf faimos din regiunea Snowdon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054589,
+                        53.076317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clogwyn Coch Copper Mines",
+                  "text": "Historical remains of former copper mines on Mount Snowdon.",
+                  "category": "historical",
+                  "coords": [
+                        -4.086342,
+                        53.080197
+                  ]
+            },
+            {
+                  "name": "Yr Aran",
+                  "text": "A prominent peak located south of the Snowdon massif in Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.083169,
+                        53.04276
+                  ]
+            },
+            {
+                  "name": "Moel Cynghorion",
+                  "text": "A peak in the Snowdonia National Park, located in northwest Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.113341,
+                        53.08544
+                  ]
+            },
+            {
+                  "name": "Y Lliwedd (West Peak)",
+                  "text": "A well-known peak in the Snowdon massif, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.057148,
+                        53.059398
+                  ]
+            },
+            {
+                  "name": "Garnedd Ugain",
+                  "text": "The second-highest peak in Wales, located in close proximity to Snowdon.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.075205,
+                        53.075548
+                  ]
+            },
+            {
+                  "name": "Llechog",
+                  "text": "A prominent mountain peak within the Snowdon range in Wales.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.082756,
+                        53.089863
+                  ]
+            },
+            {
+                  "name": "Gallt y Wenallt",
+                  "text": "A peak in Wales offering expansive views over the Snowdon area.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.027126,
+                        53.059372
+                  ]
+            },
+            {
+                  "name": "Crib Goch",
+                  "text": "A famous narrow arête and peak in the Snowdon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.054589,
+                        53.076317
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "peak",
     name: { de: "Snowdon", hu: "Snowdon", ro: "Snowdon", en: "Snowdon"},
@@ -556,7 +1375,304 @@ imageHint: "Lake Windermere with sailboats and green hills",
     image: "/poi-images/uk-windermere-nature-v2.webp",
 },
   {
-    id: "uk-scafell-pike-nature-v2",
+    id: "uk-scafell-pike-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maiden Castle Cairn",
+                  "text": "Eine archäologische Fundstätte mit antiken Steinstrukturen in den Lakeland-Fells.",
+                  "category": "historical",
+                  "coords": [
+                        -3.258381,
+                        54.437683
+                  ]
+            },
+            {
+                  "name": "Sca Fell",
+                  "text": "Der zweithöchste Berg Englands, bekannt für seine beeindruckenden Felswände.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.224735,
+                        54.44751
+                  ]
+            },
+            {
+                  "name": "Slight Side",
+                  "text": "Ein markanter Gipfel im Lake District, der einen großartigen Ausblick bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219573,
+                        54.434401
+                  ]
+            },
+            {
+                  "name": "Scafell Pike",
+                  "text": "Der höchste Berg Englands und ein berühmter Aussichtspunkt im Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        -3.211654,
+                        54.454259
+                  ]
+            },
+            {
+                  "name": "Lingmell",
+                  "text": "Ein beliebter Wanderberg, der direkt neben dem Scafell Pike liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.221278,
+                        54.46281
+                  ]
+            },
+            {
+                  "name": "Seathwaite Fell",
+                  "text": "Ein Gipfel in den zentralen Fells des Lake District, nahe Borrowdale.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.191259,
+                        54.481022
+                  ]
+            },
+            {
+                  "name": "Allen Crags",
+                  "text": "Ein felsiger Gipfel im Lake District, der oft auf Wanderrouten überquert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.179149,
+                        54.466361
+                  ]
+            },
+            {
+                  "name": "Great Gable",
+                  "text": "Einer der markantesten und bekanntesten Berge im englischen Lake District.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219207,
+                        54.482075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maiden Castle Cairn",
+                  "text": "Régészeti lelőhely ősi kőépítményekkel a Lake District hegyei között.",
+                  "category": "historical",
+                  "coords": [
+                        -3.258381,
+                        54.437683
+                  ]
+            },
+            {
+                  "name": "Sca Fell",
+                  "text": "Anglia második legmagasabb hegye, amely lenyűgöző sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.224735,
+                        54.44751
+                  ]
+            },
+            {
+                  "name": "Slight Side",
+                  "text": "Jellegzetes hegycsúcs a Lake Districtben, amely nagyszerű kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219573,
+                        54.434401
+                  ]
+            },
+            {
+                  "name": "Scafell Pike",
+                  "text": "Anglia legmagasabb hegye és híres kilátópont a Lake District területén.",
+                  "category": "natural",
+                  "coords": [
+                        -3.211654,
+                        54.454259
+                  ]
+            },
+            {
+                  "name": "Lingmell",
+                  "text": "Népszerű túrázóhely, amely közvetlenül a Scafell Pike mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.221278,
+                        54.46281
+                  ]
+            },
+            {
+                  "name": "Seathwaite Fell",
+                  "text": "Hegycsúcs a Lake District középső részén, Borrowdale közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.191259,
+                        54.481022
+                  ]
+            },
+            {
+                  "name": "Allen Crags",
+                  "text": "Sziklás hegycsúcs a Lake Districtben, amely gyakori megálló a túraútvonalakon.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.179149,
+                        54.466361
+                  ]
+            },
+            {
+                  "name": "Great Gable",
+                  "text": "Az angol Lake District egyik legkarakteresebb és legismertebb hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219207,
+                        54.482075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maiden Castle Cairn",
+                  "text": "Un sit arheologic cu structuri antice de piatră în munții din Lake District.",
+                  "category": "historical",
+                  "coords": [
+                        -3.258381,
+                        54.437683
+                  ]
+            },
+            {
+                  "name": "Sca Fell",
+                  "text": "Al doilea cel mai înalt munte din Anglia, cunoscut pentru pereții săi stâncoși.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.224735,
+                        54.44751
+                  ]
+            },
+            {
+                  "name": "Slight Side",
+                  "text": "Un vârf proeminent în Lake District, oferind o panoramă deosebită.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219573,
+                        54.434401
+                  ]
+            },
+            {
+                  "name": "Scafell Pike",
+                  "text": "Cel mai înalt munte din Anglia și un punct de belvedere faimos în Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        -3.211654,
+                        54.454259
+                  ]
+            },
+            {
+                  "name": "Lingmell",
+                  "text": "Un munte popular pentru drumeții, situat chiar lângă Scafell Pike.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.221278,
+                        54.46281
+                  ]
+            },
+            {
+                  "name": "Seathwaite Fell",
+                  "text": "Un vârf în munții centrali din Lake District, aproape de Borrowdale.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.191259,
+                        54.481022
+                  ]
+            },
+            {
+                  "name": "Allen Crags",
+                  "text": "Un vârf stâncos în Lake District, traversat adesea pe rutele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.179149,
+                        54.466361
+                  ]
+            },
+            {
+                  "name": "Great Gable",
+                  "text": "Unul dintre cei mai emblematici și cunoscuți munți din Lake District, Anglia.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219207,
+                        54.482075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maiden Castle Cairn",
+                  "text": "An archaeological site featuring ancient stone structures in the Lakeland fells.",
+                  "category": "historical",
+                  "coords": [
+                        -3.258381,
+                        54.437683
+                  ]
+            },
+            {
+                  "name": "Sca Fell",
+                  "text": "The second highest mountain in England, known for its impressive rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.224735,
+                        54.44751
+                  ]
+            },
+            {
+                  "name": "Slight Side",
+                  "text": "A prominent peak in the Lake District offering great views.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219573,
+                        54.434401
+                  ]
+            },
+            {
+                  "name": "Scafell Pike",
+                  "text": "The highest mountain in England and a famous viewpoint in the Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        -3.211654,
+                        54.454259
+                  ]
+            },
+            {
+                  "name": "Lingmell",
+                  "text": "A popular hiking mountain situated right next to Scafell Pike.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.221278,
+                        54.46281
+                  ]
+            },
+            {
+                  "name": "Seathwaite Fell",
+                  "text": "A peak in the central fells of the Lake District, near Borrowdale.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.191259,
+                        54.481022
+                  ]
+            },
+            {
+                  "name": "Allen Crags",
+                  "text": "A rocky summit in the Lake District often crossed on hiking routes.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.179149,
+                        54.466361
+                  ]
+            },
+            {
+                  "name": "Great Gable",
+                  "text": "One of the most iconic and well-known mountains in the English Lake District.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.219207,
+                        54.482075
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "peak",
     name: { de: "Scafell Pike", hu: "Scafell Pike", ro: "Scafell Pike", en: "Scafell Pike"},
@@ -602,7 +1718,124 @@ imageHint: "Lake Windermere with sailboats and green hills",
     },
   },
   {
-    id: "uk-fingals-cave-nature-v2",
+    id: "uk-fingals-cave-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staffa National Nature Reserve",
+                  "text": "Ein Naturschutzgebiet auf der Insel Staffa, bekannt für seine einzigartige Geologie.",
+                  "category": "natural",
+                  "coords": [
+                        -6.341019,
+                        56.435943
+                  ]
+            },
+            {
+                  "name": "Fingal's Cave",
+                  "text": "Eine berühmte Meereshöhle aus sechseckigen Basaltsäulen auf der Insel Staffa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.341358,
+                        56.431498
+                  ]
+            },
+            {
+                  "name": "McKinnons's Cave",
+                  "text": "Eine natürliche Höhle an der Küste der Insel Staffa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.343206,
+                        56.432256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staffa National Nature Reserve",
+                  "text": "Természetvédelmi terület Staffa szigetén, amely egyedülálló geológiájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.341019,
+                        56.435943
+                  ]
+            },
+            {
+                  "name": "Fingal's Cave",
+                  "text": "Híres tengeri barlang hatszögletű bazaltoszlopokból Staffa szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.341358,
+                        56.431498
+                  ]
+            },
+            {
+                  "name": "McKinnons's Cave",
+                  "text": "Természetes barlang Staffa szigetének partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.343206,
+                        56.432256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staffa National Nature Reserve",
+                  "text": "O rezervație naturală pe insula Staffa, cunoscută pentru geologia sa unică.",
+                  "category": "natural",
+                  "coords": [
+                        -6.341019,
+                        56.435943
+                  ]
+            },
+            {
+                  "name": "Fingal's Cave",
+                  "text": "O celebră peșteră marină formată din coloane hexagonale de bazalt pe insula Staffa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.341358,
+                        56.431498
+                  ]
+            },
+            {
+                  "name": "McKinnons's Cave",
+                  "text": "O peșteră naturală pe coasta insulei Staffa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.343206,
+                        56.432256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staffa National Nature Reserve",
+                  "text": "A nature reserve on the island of Staffa, known for its unique geology.",
+                  "category": "natural",
+                  "coords": [
+                        -6.341019,
+                        56.435943
+                  ]
+            },
+            {
+                  "name": "Fingal's Cave",
+                  "text": "A famous sea cave made of hexagonal basalt columns on the island of Staffa.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.341358,
+                        56.431498
+                  ]
+            },
+            {
+                  "name": "McKinnons's Cave",
+                  "text": "A natural cave on the coast of Staffa island.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.343206,
+                        56.432256
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "landmark",
     name: { de: "Fingal's Cave", hu: "Fingal-barlang", ro: "Peștera lui Fingal", en: "Fingal's Cave"},

@@ -93,7 +93,268 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-sauka-ancient-mound-history-v2.webp",
   },
   {
-    id: "latvia-jumprava-manor-history-v2",
+    id: "latvia-jumprava-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andreja Pumpura Lielvārdes muzejs",
+                  "text": "Dieses Museum in Lielvārde ist dem lettischen Dichter Andrejs Pumpurs gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.834161,
+                        56.711373
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Diese archäologische Stätte umfasst die Überreste eines historischen Burgwalls bei Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.87305,
+                        56.74666
+                  ]
+            },
+            {
+                  "name": "Lielvārdes Dievukalns",
+                  "text": "Der Dievukalns ist eine bedeutende archäologische und mythologische Stätte in Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.840981,
+                        56.710792
+                  ]
+            },
+            {
+                  "name": "Rembates parka estrāde",
+                  "text": "Die Freilichtbühne im Rembate-Park ist ein Ort für kulturelle Veranstaltungen in Lielvārde.",
+                  "category": "cultural",
+                  "coords": [
+                        24.801578,
+                        56.718968
+                  ]
+            },
+            {
+                  "name": "Lielvārdes pils",
+                  "text": "Die Ruinen der Burg Lielvārde zeugen von der mittelalterlichen Geschichte des Ortes.",
+                  "category": "historical",
+                  "coords": [
+                        24.838229,
+                        56.711462
+                  ]
+            },
+            {
+                  "name": "Skulptūru dārzs",
+                  "text": "Der Skulpturengarten in Lielvārde zeigt verschiedene Kunstwerke in einer Parkanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        24.83722,
+                        56.711772
+                  ]
+            },
+            {
+                  "name": "Uldevena pils",
+                  "text": "Die Burg Uldevena ist eine hölzerne Rekonstruktion einer lettischen Festung aus dem 12. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.799436,
+                        56.717311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andreja Pumpura Lielvārdes muzejs",
+                  "text": "Ez a lielvārdei múzeum Andrejs Pumpurs lett költőnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        24.834161,
+                        56.711373
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Ez a régészeti lelőhely egy történelmi várhely maradványait foglalja magában Lielvārde közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.87305,
+                        56.74666
+                  ]
+            },
+            {
+                  "name": "Lielvārdes Dievukalns",
+                  "text": "A Dievukalns egy jelentős régészeti és mitológiai helyszín Lielvārde városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.840981,
+                        56.710792
+                  ]
+            },
+            {
+                  "name": "Rembates parka estrāde",
+                  "text": "A Rembate-parki szabadtéri színpad kulturális események helyszíne Lielvārde városában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.801578,
+                        56.718968
+                  ]
+            },
+            {
+                  "name": "Lielvārdes pils",
+                  "text": "Lielvārde várának romjai a település középkori történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        24.838229,
+                        56.711462
+                  ]
+            },
+            {
+                  "name": "Skulptūru dārzs",
+                  "text": "A lielvārdei szoborpark különféle műalkotásokat mutat be egy parkosított környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.83722,
+                        56.711772
+                  ]
+            },
+            {
+                  "name": "Uldevena pils",
+                  "text": "Uldevena vára egy 12. századi lett erődítmény fából készült rekonstrukciója.",
+                  "category": "landmark",
+                  "coords": [
+                        24.799436,
+                        56.717311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andreja Pumpura Lielvārdes muzejs",
+                  "text": "Acest muzeu din Lielvārde este dedicat poetului leton Andrejs Pumpurs.",
+                  "category": "museum",
+                  "coords": [
+                        24.834161,
+                        56.711373
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "Acest sit arheologic cuprinde rămășițele unei cetăți istorice de lângă Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.87305,
+                        56.74666
+                  ]
+            },
+            {
+                  "name": "Lielvārdes Dievukalns",
+                  "text": "Dievukalns este un sit arheologic și mitologic important din Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.840981,
+                        56.710792
+                  ]
+            },
+            {
+                  "name": "Rembates parka estrāde",
+                  "text": "Scena în aer liber din parcul Rembate este un loc pentru evenimente culturale în Lielvārde.",
+                  "category": "cultural",
+                  "coords": [
+                        24.801578,
+                        56.718968
+                  ]
+            },
+            {
+                  "name": "Lielvārdes pils",
+                  "text": "Ruinele castelului Lielvārde atestă istoria medievală a localității.",
+                  "category": "historical",
+                  "coords": [
+                        24.838229,
+                        56.711462
+                  ]
+            },
+            {
+                  "name": "Skulptūru dārzs",
+                  "text": "Grădina de sculpturi din Lielvārde prezintă diverse opere de artă într-un cadru de parc.",
+                  "category": "landmark",
+                  "coords": [
+                        24.83722,
+                        56.711772
+                  ]
+            },
+            {
+                  "name": "Uldevena pils",
+                  "text": "Castelul Uldevena este o reconstrucție din lemn a unei fortărețe letone din secolul al XII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        24.799436,
+                        56.717311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andreja Pumpura Lielvārdes muzejs",
+                  "text": "This museum in Lielvārde is dedicated to the Latvian poet Andrejs Pumpurs.",
+                  "category": "museum",
+                  "coords": [
+                        24.834161,
+                        56.711373
+                  ]
+            },
+            {
+                  "name": "Pilskalns",
+                  "text": "This archaeological site includes the remains of a historical hillfort near Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.87305,
+                        56.74666
+                  ]
+            },
+            {
+                  "name": "Lielvārdes Dievukalns",
+                  "text": "Dievukalns is a significant archaeological and mythological site in Lielvārde.",
+                  "category": "historical",
+                  "coords": [
+                        24.840981,
+                        56.710792
+                  ]
+            },
+            {
+                  "name": "Rembates parka estrāde",
+                  "text": "The open-air stage in Rembate Park is a venue for cultural events in Lielvārde.",
+                  "category": "cultural",
+                  "coords": [
+                        24.801578,
+                        56.718968
+                  ]
+            },
+            {
+                  "name": "Lielvārdes pils",
+                  "text": "The ruins of Lielvārde Castle bear witness to the medieval history of the town.",
+                  "category": "historical",
+                  "coords": [
+                        24.838229,
+                        56.711462
+                  ]
+            },
+            {
+                  "name": "Skulptūru dārzs",
+                  "text": "The sculpture garden in Lielvārde displays various artworks in a park setting.",
+                  "category": "landmark",
+                  "coords": [
+                        24.83722,
+                        56.711772
+                  ]
+            },
+            {
+                  "name": "Uldevena Castle",
+                  "text": "Uldevena Castle is a wooden reconstruction of a 12th-century Latvian fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        24.799436,
+                        56.717311
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "LV",
     name: { de: "Gut Jumprava", hu: "Jumprava udvarház", ro: "Conacul Jumprava", en: "Jumprava Manor" },
@@ -183,7 +444,160 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-stende-battle-site-history-v2.webp",
   },
   {
-    id: "latvia-rubene-church-history-v2",
+    id: "latvia-rubene-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ZTornis",
+                  "text": "Ein Museum in Rubene Church, das lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.215018,
+                        57.557149
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Zilaiskalns”",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Rubene Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.22348,
+                        57.553513
+                  ]
+            },
+            {
+                  "name": "Zrailbikes",
+                  "text": "Eine lokale Freizeitattraktion in Rubene Church.",
+                  "category": "landmark",
+                  "coords": [
+                        25.20461,
+                        57.558754
+                  ]
+            },
+            {
+                  "name": "Zilākalna skatu tornis",
+                  "text": "Ein Aussichtsturm mit Blick auf die Region Rubene Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.2162,
+                        57.553392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ZTornis",
+                  "text": "Helytörténeti múzeum Rubene Church területén.",
+                  "category": "museum",
+                  "coords": [
+                        25.215018,
+                        57.557149
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Zilaiskalns”",
+                  "text": "Természetvédelmi terület Rubene Church közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.22348,
+                        57.553513
+                  ]
+            },
+            {
+                  "name": "Zrailbikes",
+                  "text": "Egy helyi szabadidős látványosság Rubene Church területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.20461,
+                        57.558754
+                  ]
+            },
+            {
+                  "name": "Zilākalna skatu tornis",
+                  "text": "Kilátótorony, ahonnan panoráma nyílik Rubene Church környékére.",
+                  "category": "natural",
+                  "coords": [
+                        25.2162,
+                        57.553392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ZTornis",
+                  "text": "Un muzeu din Rubene Church ce prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        25.215018,
+                        57.557149
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Zilaiskalns”",
+                  "text": "O rezervație naturală în apropiere de Rubene Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.22348,
+                        57.553513
+                  ]
+            },
+            {
+                  "name": "Zrailbikes",
+                  "text": "O atracție locală de agrement în Rubene Church.",
+                  "category": "landmark",
+                  "coords": [
+                        25.20461,
+                        57.558754
+                  ]
+            },
+            {
+                  "name": "Zilākalna skatu tornis",
+                  "text": "Un turn de observare cu vedere spre regiunea Rubene Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.2162,
+                        57.553392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZTornis",
+                  "text": "A museum in Rubene Church showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        25.215018,
+                        57.557149
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Zilaiskalns”",
+                  "text": "A nature reserve located near Rubene Church.",
+                  "category": "natural",
+                  "coords": [
+                        25.22348,
+                        57.553513
+                  ]
+            },
+            {
+                  "name": "Zrailbikes",
+                  "text": "A local leisure attraction in Rubene Church.",
+                  "category": "landmark",
+                  "coords": [
+                        25.20461,
+                        57.558754
+                  ]
+            },
+            {
+                  "name": "Zilākalna skatu tornis",
+                  "text": "A lookout tower offering views of the Rubene Church area.",
+                  "category": "natural",
+                  "coords": [
+                        25.2162,
+                        57.553392
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "LV",
     name: { de: "Kirche Rubene", hu: "Rubene templom", ro: "Biserica Rubene", en: "Rubene Church" },
@@ -543,7 +957,88 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-kraslava-manor-history-v2.webp",
   },
   {
-    id: "latvia-jaunauce-manor-history-v2",
+    id: "latvia-jaunauce-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jaunauces pils",
+                  "text": "Ein Neorenaissance-Schloss in Jaunauce Manor, bekannt für seine architektonische Schönheit und historischen Innenräume.",
+                  "category": "castle",
+                  "coords": [
+                        22.689936,
+                        56.444299
+                  ]
+            },
+            {
+                  "name": "Vecā kungu māja",
+                  "text": "Das alte Herrenhaus in Jaunauce Manor, das die historische Architektur des Anwesens widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        22.688969,
+                        56.444345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jaunauces pils",
+                  "text": "Neoreneszánsz kastély Jaunauce Manorban, amely építészeti szépségéről és történelmi belső tereiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        22.689936,
+                        56.444299
+                  ]
+            },
+            {
+                  "name": "Vecā kungu māja",
+                  "text": "A Jaunauce Manor régi kúriaépülete, amely a birtok történelmi építészetét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        22.688969,
+                        56.444345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jaunauces pils",
+                  "text": "Un castel în stil neorenascentist din Jaunauce Manor, cunoscut pentru frumusețea sa arhitecturală și interioarele istorice.",
+                  "category": "castle",
+                  "coords": [
+                        22.689936,
+                        56.444299
+                  ]
+            },
+            {
+                  "name": "Vecā kungu māja",
+                  "text": "Vechea casă boierească din Jaunauce Manor, care reflectă arhitectura istorică a domeniului.",
+                  "category": "historical",
+                  "coords": [
+                        22.688969,
+                        56.444345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jaunauces pils",
+                  "text": "A neo-Renaissance castle in Jaunauce Manor known for its architectural beauty and historic interiors.",
+                  "category": "castle",
+                  "coords": [
+                        22.689936,
+                        56.444299
+                  ]
+            },
+            {
+                  "name": "Vecā kungu māja",
+                  "text": "The old manor house building in Jaunauce Manor, reflecting the historical estate architecture.",
+                  "category": "historical",
+                  "coords": [
+                        22.688969,
+                        56.444345
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "LV",
     name: { de: "Gut Jaunauce", hu: "Jaunauce udvarház", ro: "Conacul Jaunauce", en: "Jaunauce Manor" },

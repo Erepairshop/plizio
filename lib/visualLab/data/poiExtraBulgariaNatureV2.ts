@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const bulgariaNatureV2: POI[] = [
 
   {
-    id: "bulgaria-central-balkan-nature-v2",
+    id: "bulgaria-central-balkan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Großes Kreuz",
+                  "text": "Ein markanter Berggipfel im Zentralbalkan-Nationalpark in Bulgarien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.835378,
+                        42.728143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Голям Кръстец",
+                  "text": "Jellegzetes hegycsúcs a bulgáriai Központi-Balkán Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.835378,
+                        42.728143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Голям Кръстец",
+                  "text": "Un vârf montan proeminent în Parcul Național Balkan Central din Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.835378,
+                        42.728143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golyam Krŭstets",
+                  "text": "A prominent mountain peak in the Central Balkan National Park in Bulgaria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.835378,
+                        42.728143
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BG",
     name: { de: "Zentralbalkan-Nationalpark", hu: "Központi-Balkán Nemzeti Park", ro: "Parcul Național Balcanii Centrali", en: "Central Balkan National Park" },
@@ -93,7 +138,52 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-strandzha-nature-v2.webp",
   },
   {
-    id: "bulgaria-devetashka-cave-nature-v2",
+    id: "bulgaria-devetashka-cave-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Krushuna Canyon",
+                  "text": "Ein wunderschöner natürlicher Canyon, der Ausblicke auf Kalksteinformationen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.023721,
+                        43.241085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Krushuna Canyon",
+                  "text": "Gyönyörű természetes kanyon, amely kilátást nyújt a mészkőképződményekre.",
+                  "category": "natural",
+                  "coords": [
+                        25.023721,
+                        43.241085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Krushuna Canyon",
+                  "text": "Un canion natural frumos ce oferă vederi asupra formațiunilor de calcar.",
+                  "category": "natural",
+                  "coords": [
+                        25.023721,
+                        43.241085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Krushuna Canyon",
+                  "text": "A beautiful natural canyon offering views of limestone formations.",
+                  "category": "natural",
+                  "coords": [
+                        25.023721,
+                        43.241085
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BG",
     name: { de: "Dewetaschka-Höhle", hu: "Devetaska-barlang", ro: "Peștera Devetashka", en: "Devetashka Cave" },
@@ -183,7 +273,52 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-osam-river-nature-v2.webp",
   },
   {
-    id: "bulgaria-yantra-river-nature-v2",
+    id: "bulgaria-yantra-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ostrovul Gâsca",
+                  "text": "Ein Naturschutzgebiet auf einer Donauinsel nahe der Mündung des Flusses Jantra.",
+                  "category": "natural",
+                  "coords": [
+                        25.533248,
+                        43.650596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ostrovul Gâsca",
+                  "text": "Természetvédelmi terület a Duna egyik szigetén, a Jantra-folyó torkolatának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.533248,
+                        43.650596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ostrovul Gâsca",
+                  "text": "O rezervație naturală situată pe o insulă de pe Dunăre, aproape de vărsarea râului Iantra.",
+                  "category": "natural",
+                  "coords": [
+                        25.533248,
+                        43.650596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostrovul Gâsca",
+                  "text": "A nature reserve on an island in the Danube, near the mouth of the Yantra River.",
+                  "category": "natural",
+                  "coords": [
+                        25.533248,
+                        43.650596
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BG",
     name: { de: "Jantra", hu: "Jantra", ro: "Iantra", en: "Yantra River" },
@@ -228,7 +363,52 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-yantra-river-nature-v2.webp",
   },
   {
-    id: "bulgaria-batak-dam-nature-v2",
+    id: "bulgaria-batak-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Ein Regionalmuseum in Batak, das die Geschichte der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.21833,
+                        41.942705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Batak városának történetét bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.21833,
+                        41.942705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Un muzeu regional în Batak care documentează istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        24.21833,
+                        41.942705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of History",
+                  "text": "A regional museum in Batak documenting the history of the town.",
+                  "category": "museum",
+                  "coords": [
+                        24.21833,
+                        41.942705
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BG",
     name: { de: "Batak-Stausee", hu: "Batak-víztározó", ro: "Lacul de acumulare Batak", en: "Batak Reservoir" },
@@ -283,6 +463,42 @@ export const bulgariaNatureV2: POI[] = [
                         27.895159,
                         42.978491
                   ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Ein Freilichttheater für kulturelle Aufführungen am Fluss Kamtschia.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "Ein UNESCO-Biosphärenreservat, das den Auwald am Fluss schützt.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "Ein breiter Sandstrand an der Mündung des Flusses Kamtschia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "Eine lokale touristische Attraktion in der Nähe des Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
+                  ]
             }
       ],
       "hu": [
@@ -293,6 +509,42 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         27.895159,
                         42.978491
+                  ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Szabadtéri színház kulturális előadásokhoz a Kamcsija-folyónál.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "UNESCO bioszféra-rezervátum, amely a folyómenti erdőket védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "Széles homokos tengerpart a Kamcsija-folyó torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "Helyi turisztikai látványosság a folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
                   ]
             }
       ],
@@ -305,6 +557,42 @@ export const bulgariaNatureV2: POI[] = [
                         27.895159,
                         42.978491
                   ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "Un teatru în aer liber pentru spectacole culturale lângă râul Kamchia.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Резерват Камчия",
+                  "text": "O rezervație a biosferei UNESCO care protejează pădurea inundabilă a râului.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Камчия",
+                  "text": "O plajă largă de nisip situată la gura de vărsare a râului Kamchia.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "Лястовица бяла клуб",
+                  "text": "O atracție turistică locală în apropierea râului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
+                  ]
             }
       ],
       "en": [
@@ -315,6 +603,42 @@ export const bulgariaNatureV2: POI[] = [
                   "coords": [
                         27.895159,
                         42.978491
+                  ]
+            },
+            {
+                  "name": "amphitheater Kamchia",
+                  "text": "An open-air theatre for cultural performances near the Kamchia River.",
+                  "category": "cultural",
+                  "coords": [
+                        27.886918,
+                        43.02698
+                  ]
+            },
+            {
+                  "name": "Kamchia Reserve",
+                  "text": "A UNESCO biosphere reserve protecting the alluvial forest of the river.",
+                  "category": "natural",
+                  "coords": [
+                        27.867258,
+                        43.009306
+                  ]
+            },
+            {
+                  "name": "Kamchia",
+                  "text": "A wide sandy beach located at the mouth of the Kamchia River.",
+                  "category": "recreational",
+                  "coords": [
+                        27.888441,
+                        43.031993
+                  ]
+            },
+            {
+                  "name": "club lastovica byala",
+                  "text": "A local tourist attraction located near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        27.885681,
+                        43.022272
                   ]
             }
       ]
@@ -453,7 +777,52 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-vracha-karst-nature-v2.webp",
   },
   {
-    id: "bulgaria-rosen-mountain-nature-v2",
+    id: "bulgaria-rosen-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Българската Ясна поляна",
+                  "text": "Ein Museum im Dorf Jasna Poljana, das dem Leben und Werk von Leo Tolstoi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.613391,
+                        42.281454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Българската Ясна поляна",
+                  "text": "Múzeum Jasna Poljana faluban, amelyet Lev Tolsztoj életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        27.613391,
+                        42.281454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Българската Ясна поляна",
+                  "text": "Un muzeu în satul Yasna Polyana, dedicat vieții și operei lui Lev Tolstoi.",
+                  "category": "museum",
+                  "coords": [
+                        27.613391,
+                        42.281454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bulgarian Yasna Polyana",
+                  "text": "A museum in the village of Yasna Polyana, dedicated to the life and work of Leo Tolstoy.",
+                  "category": "museum",
+                  "coords": [
+                        27.613391,
+                        42.281454
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BG",
     name: { de: "Rosen-Gebirge", hu: "Rosen-hegység", ro: "Munții Rosen", en: "Rosen Mountains" },
@@ -633,7 +1002,196 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-armin-river-nature-v2.webp",
   },
   {
-    id: "bulgaria-vitosha-peak-nature-v2",
+    id: "bulgaria-vitosha-peak-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "Biosphärenreservat im Witoscha-Gebirge, das zum Schutz ursprünglicher Fichtenwälder eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "Streng geschütztes Naturschutzgebiet im Witoscha-Gebirge zur Erhaltung von Hochmooren.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "Hoher Gipfel im Witoscha-Gebirge mit Panoramablick über die Region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Einer der höchsten Gipfel im Witoscha-Massiv, beliebt zum Wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Schwarzer Gipfel",
+                  "text": "Der höchste Punkt des Witoscha-Gebirges mit einer Höhe von 2.290 Metern über dem Meeresspiegel.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "Bioszféra-rezervátum a Vitosa-hegységben, amelyet az őshonos fenyőerdők védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "Szigorúan védett természetvédelmi terület a Vitosa-hegységben, amely a magashegyi tőzeglápokat őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "Magas csúcs a Vitosa-hegységben, ahonnan panorámás kilátás nyílik a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "A Vitosa-hegység legmagasabb pontja, 2290 méteres tengerszint feletti magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Резерват Бистришко бранище",
+                  "text": "Rezervație a biosferei în Munții Vitoșa, înființată pentru a proteja pădurile primare de molid.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Торфено бранище",
+                  "text": "Rezervație naturală strict protejată în Munții Vitoșa, care conservă turbăriile de altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Малък Резен",
+                  "text": "Vârf înalt în lanțul muntos Vitoșa, oferind vederi panoramice asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Голям Резен;TT16A",
+                  "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, popular pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Черни връх",
+                  "text": "Cel mai înalt punct al Muntelui Vitoșa, situat la 2.290 de metri deasupra nivelului mării.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bistrishko Branishte Reserve",
+                  "text": "Biosphere reserve on Vitosha Mountain, established to protect primary spruce forests.",
+                  "category": "natural",
+                  "coords": [
+                        23.309017,
+                        42.562728
+                  ]
+            },
+            {
+                  "name": "Torfeno Branishte Reserve",
+                  "text": "Strictly protected nature reserve on Vitosha Mountain, preserving high-altitude peat bogs.",
+                  "category": "natural",
+                  "coords": [
+                        23.267477,
+                        42.582811
+                  ]
+            },
+            {
+                  "name": "Malak Resen",
+                  "text": "High peak in the Vitosha mountain range, offering panoramic views of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.28869,
+                        42.572735
+                  ]
+            },
+            {
+                  "name": "Golyam Rezen",
+                  "text": "One of the highest peaks in the Vitosha massif, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        23.290052,
+                        42.564861
+                  ]
+            },
+            {
+                  "name": "Cherni vrah",
+                  "text": "The highest point of Vitosha Mountain, standing at 2,290 meters above sea level.",
+                  "category": "landmark",
+                  "coords": [
+                        23.279341,
+                        42.563093
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "BG",
     name: { de: "Tscherni Wrach", hu: "Cserni Vrah", ro: "Cerni Vrah", en: "Cherni Vrah" },
@@ -723,7 +1281,232 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-pirin-peaks-nature-v2.webp",
   },
   {
-    id: "bulgaria-maritsa-river-nature-v2",
+    id: "bulgaria-maritsa-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultan II.Beyazıd Külliyesi ve Sağlık Müzesi",
+                  "text": "Ein historischer osmanischer Komplex in Edirne, der heute ein Museum für Medizingeschichte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        26.543776,
+                        41.686305
+                  ]
+            },
+            {
+                  "name": "Eski Kadın Höyüğü",
+                  "text": "Eine archäologische Fundstätte mit Siedlungsspuren in der Nähe des Flusses Mariza.",
+                  "category": "historical",
+                  "coords": [
+                        26.46676,
+                        41.682956
+                  ]
+            },
+            {
+                  "name": "Çardaklı/Eski Değirmen Yolu",
+                  "text": "Eine historische archäologische Stätte an einem alten Weg nahe des Mariza-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        26.529801,
+                        41.710159
+                  ]
+            },
+            {
+                  "name": "Edirne Balkan Tarihi Müzesi",
+                  "text": "Ein Museum in Edirne, das der Geschichte der Balkankriege gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.518402,
+                        41.686493
+                  ]
+            },
+            {
+                  "name": "Kazan Köprüsü",
+                  "text": "Ein historisches Aquädukt bzw. eine Brücke, die den Fluss Mariza überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475582,
+                        41.686179
+                  ]
+            },
+            {
+                  "name": "Edirne Merkezî Askeri Hastanesi",
+                  "text": "Die Ruinen des ehemaligen zentralen Militärkrankenhauses von Edirne am Mariza-Fluss.",
+                  "category": "historical",
+                  "coords": [
+                        26.534344,
+                        41.702253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultan II.Beyazıd Külliyesi ve Sağlık Müzesi",
+                  "text": "Történelmi oszmán épületegyüttes Edirnében, amely ma orvostörténeti múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.543776,
+                        41.686305
+                  ]
+            },
+            {
+                  "name": "Eski Kadın Höyüğü",
+                  "text": "Régészeti lelőhely településnyomokkal a Marica folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.46676,
+                        41.682956
+                  ]
+            },
+            {
+                  "name": "Çardaklı/Eski Değirmen Yolu",
+                  "text": "Történelmi régészeti lelőhely egy régi út mentén, a Marica folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.529801,
+                        41.710159
+                  ]
+            },
+            {
+                  "name": "Edirne Balkan Tarihi Müzesi",
+                  "text": "A balkáni háborúk történetének szentelt múzeum Edirne városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.518402,
+                        41.686493
+                  ]
+            },
+            {
+                  "name": "Kazan Köprüsü",
+                  "text": "Történelmi akvadukt vagy híd, amely a Marica folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475582,
+                        41.686179
+                  ]
+            },
+            {
+                  "name": "Edirne Merkezî Askeri Hastanesi",
+                  "text": "Az egykori edirnei központi katonai kórház romjai a Marica folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        26.534344,
+                        41.702253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultan II.Beyazıd Külliyesi ve Sağlık Müzesi",
+                  "text": "Un complex istoric otoman din Edirne, care găzduiește astăzi un muzeu de istorie a medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        26.543776,
+                        41.686305
+                  ]
+            },
+            {
+                  "name": "Eski Kadın Höyüğü",
+                  "text": "Un sit arheologic cu urme de așezări situat în apropierea râului Marița.",
+                  "category": "historical",
+                  "coords": [
+                        26.46676,
+                        41.682956
+                  ]
+            },
+            {
+                  "name": "Çardaklı/Eski Değirmen Yolu",
+                  "text": "Un sit arheologic istoric situat de-a lungul unui drum vechi lângă râul Marița.",
+                  "category": "historical",
+                  "coords": [
+                        26.529801,
+                        41.710159
+                  ]
+            },
+            {
+                  "name": "Edirne Balkan Tarihi Müzesi",
+                  "text": "Un muzeu din Edirne dedicat istoriei războaielor balcanice.",
+                  "category": "museum",
+                  "coords": [
+                        26.518402,
+                        41.686493
+                  ]
+            },
+            {
+                  "name": "Kazan Köprüsü",
+                  "text": "Un apeduct istoric sau pod care traversează râul Marița.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475582,
+                        41.686179
+                  ]
+            },
+            {
+                  "name": "Edirne Merkezî Askeri Hastanesi",
+                  "text": "Ruinele fostului spital militar central din Edirne, situat pe râul Marița.",
+                  "category": "historical",
+                  "coords": [
+                        26.534344,
+                        41.702253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan II.Beyazıd Külliyesi ve Sağlık Müzesi",
+                  "text": "A historical Ottoman complex in Edirne that now houses a museum of medical history.",
+                  "category": "museum",
+                  "coords": [
+                        26.543776,
+                        41.686305
+                  ]
+            },
+            {
+                  "name": "Eski Kadın Höyüğü",
+                  "text": "An archaeological site with traces of settlements located near the Maritsa River.",
+                  "category": "historical",
+                  "coords": [
+                        26.46676,
+                        41.682956
+                  ]
+            },
+            {
+                  "name": "Çardaklı/Eski Değirmen Yolu",
+                  "text": "A historical archaeological site along an old road near the Maritsa River.",
+                  "category": "historical",
+                  "coords": [
+                        26.529801,
+                        41.710159
+                  ]
+            },
+            {
+                  "name": "Edirne Balkan Tarihi Müzesi",
+                  "text": "A museum in Edirne dedicated to the history of the Balkan Wars.",
+                  "category": "museum",
+                  "coords": [
+                        26.518402,
+                        41.686493
+                  ]
+            },
+            {
+                  "name": "Kazan Bridge",
+                  "text": "A historical aqueduct or bridge spanning the Maritsa River.",
+                  "category": "landmark",
+                  "coords": [
+                        26.475582,
+                        41.686179
+                  ]
+            },
+            {
+                  "name": "Edirne Central Military Hospital",
+                  "text": "The ruins of the former central military hospital of Edirne on the Maritsa River.",
+                  "category": "historical",
+                  "coords": [
+                        26.534344,
+                        41.702253
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BG",
     name: { de: "Mariza", hu: "Marica", ro: "Marița", en: "Maritsa River" },

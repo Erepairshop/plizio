@@ -337,6 +337,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Das hoch über Vaduz gelegene Schloss ist der offizielle Wohnsitz des Fürsten von Liechtenstein.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +680,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A Vaduz felett magasan fekvő kastély a liechtensteini herceg hivatalos lakóhelye.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ],
@@ -1007,6 +1025,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul situat deasupra orașului Vaduz este reședința oficială a prințului de Liechtenstein.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "en": [
@@ -1341,6 +1368,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "The castle situated high above Vaduz is the official residence of the Prince of Liechtenstein.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ]
@@ -4434,6 +4470,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Ein historisches Schloss und Wahrzeichen, das den Hauptort des Fürstentums überragt.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "hu": [
@@ -4786,6 +4831,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Történelmi kastély és jelkép, amely a hercegség fő települése fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ],
@@ -5140,6 +5194,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Un castel istoric și simbol care domină localitatea principală a principatului.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "en": [
@@ -5492,6 +5555,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A historic castle and landmark overlooking the main town of the principality.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ]
@@ -8632,6 +8704,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Das Schloss ist das architektonische Symbol des Landes und Wohnsitz der fürstlichen Familie.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Ein geschütztes Naturgebiet mit ökologisch wertvollen Wiesenlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -8921,6 +9011,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A kastély az ország építészeti szimbóluma és a hercegi család lakóhelye.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Védett természeti terület ökológiailag értékes réti tájakkal.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -9212,6 +9320,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul este simbolul arhitectural al țării și reședința familiei princiare.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "O zonă naturală protejată cu peisaje de pajiști valoroase din punct de vedere ecologic.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -9501,6 +9627,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "The castle is the architectural symbol of the country and residence of the princely family.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A protected natural area featuring ecologically valuable meadow landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -12236,6 +12380,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Ein Naturschutzgebiet, das dem Erhalt der charakteristischen Wiesenlandschaft dient.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -12552,6 +12705,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Természetvédelmi terület, amely a jellegzetes réti táj megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -12870,6 +13032,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "O zonă protejată dedicată conservării peisajului caracteristic de pajiști.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -13186,6 +13357,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A nature reserve dedicated to the preservation of the characteristic meadow landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -14768,6 +14948,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Das Naturschutzgebiet Mareewiesen in Iradug ist ein geschützter Raum für die Erhaltung der natürlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -15021,6 +15210,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A Mareewiesen természetvédelmi terület Iradugban a természetes táj megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -15276,6 +15474,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Rezervația naturală Mareewiesen din Iradug este un spațiu protejat pentru conservarea peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -15529,6 +15736,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "The Mareewiesen nature reserve in Iradug is a protected space for the preservation of the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -18650,6 +18866,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Das Naturschutzgebiet Mareewiesen in Birkahof schützt die lokale Biodiversität und Flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -18921,6 +19146,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A Mareewiesen természetvédelmi terület Birkahofban a helyi biodiverzitást és flórát védi.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -19194,6 +19428,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.474548,
                         47.154117
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Rezervația naturală Mareewiesen din Birkahof protejează biodiversitatea și flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -19465,6 +19708,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.474548,
                         47.154117
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "The Mareewiesen nature reserve in Birkahof protects local biodiversity and flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -22195,7 +22447,1204 @@ export const poiExtraLiechtensteinCities: POI[] = [
     image: "/poi-images/city-maschlina-extra.webp",
   },
   {
-    id: "city-sand-triesen-extra", "sights": {"de": [{"name": "Walsermuseum", "text": "Das Museum dokumentiert die Geschichte und Kultur der Walser-Siedler.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "Die Kunstsammlung zeigt bedeutende Werke der klassischen Moderne.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Burgruine Wartau", "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Gretschins.", "category": "castle", "coords": [9.490408, 47.098493]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "Das Landesmuseum widmet sich der Geschichte und Naturkunde Liechtensteins.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Die archäologischen Überreste einer ehemaligen Burganlage.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Artilleriewerk Magletsch", "text": "Eine ehemalige Festungsanlage der Schweizer Armee, die heute als Museum dient.", "category": "museum", "coords": [9.484703, 47.103855]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Ein Kulturzentrum in einem ehemaligen Fabrikgebäude in Triesen.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "Ein Kleintheater in Vaduz, das ein vielfältiges Programm bietet.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "Ein Museum, das sich der regionalen Volkskunde und Geschichte widmet.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Ein Hochseilgarten für Outdoor-Aktivitäten im Wald.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Triesner Heilos", "text": "Ein Schutzgebiet zur Erhaltung der lokalen Flora und Fauna.", "category": "natural", "coords": [9.521443, 47.089273]}, {"name": "Naturschutzgebiet Matilaberg", "text": "Ein geschütztes Naturareal in der Nähe von Triesen.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Brochne Burg", "text": "Wenn Sie Sand erkunden, sollten Sie den Aussichtspunkt Brochne Burg nicht verpassen. Dieser natürliche Ort in Liechtenstein gewährt einen fantastischen Blick direkt auf die umliegende Bergwelt. Gäste erwartet hier ein eindrucksvolles Naturerlebnis mit Fokus auf die alpine Landschaft.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "Eine Galerie, die verschiedene Kunstwerke ausstellt.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Ebenfalls in Sand gelegen, bietet der Aussichtspunkt Major eine hervorragende Weitsicht. Besucher dieses Teils von Liechtenstein können von hier aus ein weites Panorama über das Rheintal genießen. Die idyllische Naturkulisse sorgt dafür, dass Wanderer und Spaziergänger voll auf ihre Kosten kommen.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Magletsch", "text": "Ein Aussichtspunkt in der Nähe der ehemaligen Festungsanlage.", "category": "natural", "coords": [9.486141, 47.101003]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Ein Markierungsschild an der Grenze zwischen Liechtenstein und der Schweiz.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "Eine moderne Skulptur aus Glasprismen in Vaduz.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Wasserrad", "text": "Ein historisches Wasserrad in der Ortschaft Sand.", "category": "landmark", "coords": [9.483937, 47.102383]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "Ein landwirtschaftlicher Hof mit Lamas und Alpakas in Sand.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Bad Vogelsang", "text": "Die Ruinen einer ehemaligen Badeanlage in Sand.", "category": "historical", "coords": [9.541576, 47.092625]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "Eine katholische Kirche, die dem heiligen Bruder Klaus geweiht ist.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "Eine historische Kapelle oder Kirche in Sand.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Reformierte Kirche St. Martin", "text": "Ein reformiertes Kirchengebäude in der Umgebung von Sand.", "category": "religious", "coords": [9.486239, 47.097298]}, {"name": "Evangelische Kirche", "text": "Ein evangelisches Kirchengebäude in der Nähe von Sand.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Der Stausee Steg in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Der Kaiserilochsee in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Der Werdenberger See in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Der Gänglesee in Sand bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "Der Spielplatz Im Burkat, Triesenberg in Sand ist ein schönes Ziel für Familien mit Kindern.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "Der Spielplatz Robinson-Spielplatz in Sand ist ein schönes Ziel für Familien mit Kindern.", "category": "family", "coords": [9.525299, 47.0923]}], "hu": [{"name": "Walsermuseum", "text": "A múzeum a walser telepesek történelmét és kultúráját mutatja be.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "A művészeti gyűjtemény a klasszikus modernizmus jelentős alkotásait mutatja be.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Burgruine Wartau", "text": "Középkori hegyi vár romja Gretschins felett.", "category": "castle", "coords": [9.490408, 47.098493]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "A nemzeti múzeum Liechtenstein történelmével és természetrajzával foglalkozik.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Egy egykori várrendszer régészeti maradványai.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Artilleriewerk Magletsch", "text": "A svájci hadsereg egykori erődítménye, amely ma múzeumként működik.", "category": "museum", "coords": [9.484703, 47.103855]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Kulturális központ egy egykori trieseni gyárépületben.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "Kísérleti schínház Vaduzban, amely változatos programokat kínál.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "A regionális néprajznak és történelemnek szentelt múzeum.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Kalandpark erdei szabadtéri tevékenységekhez.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Triesner Heilos", "text": "Védett terület a helyi növény- és állatvilág megőrzésére.", "category": "natural", "coords": [9.521443, 47.089273]}, {"name": "Naturschutzgebiet Matilaberg", "text": "Védett természeti terület Triesen közelében.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Brochne Burg", "text": "Ha Sand területét fedezi fel, ne hagyja ki a Brochne Burg kilátót. Ez a természetes liechtensteini hely fantasztikus kilátást nyújt közvetlenül a környező hegyekre. A vendégeket egy lenyűgöző természeti élmény várja itt, az alpesi tájra fókuszálva.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "Különféle műalkotásokat bemutató galéria.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "A szintén Sand városában található Major kilátó kiváló látási viszonyokat kínál. Liechtenstein ezen részének látogatói innen széles panorámát élvezhetnek a Rajna-völgyre. Az idilli természeti táj garantálja, hogy a túrázók és a sétálók is megtalálják a számításukat.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Magletsch", "text": "Kilátópont az egykori erődítmény közelében.", "category": "natural", "coords": [9.486141, 47.101003]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Határjelző tábla Liechtenstein és Svájc határán.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "Modern üvegrizma-szobor Vaduzban.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Wasserrad", "text": "Egy történelmi vízkerék Sand településen.", "category": "landmark", "coords": [9.483937, 47.102383]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "Láma- és alpakafarm Sand területén.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Bad Vogelsang", "text": "Egy egykori fürdőhely romjai Sand területén.", "category": "historical", "coords": [9.541576, 47.092625]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "Flüei Szent Miklósnak szentelt katolikus templom.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "Történelmi kápolna vagy templom Sand területén.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Reformierte Kirche St. Martin", "text": "Református templomépület Sand környékén.", "category": "religious", "coords": [9.486239, 47.097298]}, {"name": "Evangelische Kirche", "text": "Evangélikus templomépület Sand közelében.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "A Sand területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "A Sand területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "A Sand területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "A Sand területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "A Sand településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "A Sand területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "A Sand területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.", "category": "family", "coords": [9.525299, 47.0923]}], "ro": [{"name": "Walsermuseum", "text": "Muzeul documentează istoria și cultura coloniștilor Walser.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "Colecția de artă expune lucrări importante ale modernismului clasic.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Burgruine Wartau", "text": "Ruinele unei cetăți medievale situate deasupra satului Gretschins.", "category": "castle", "coords": [9.490408, 47.098493]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "Muzeul Național este dedicat istoriei și istoriei naturale a Liechtensteinului.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Vestigiile arheologice ale unei foste fortificații.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Artilleriewerk Magletsch", "text": "O fostă fortificație a armatei elvețiene, care astăzi servește ca muzeu.", "category": "museum", "coords": [9.484703, 47.103855]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Un centru cultural situat într-o fostă fabrică din Triesen.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "Un mic teatru din Vaduz care oferă un program variat.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "Un muzeu dedicat folclorului și istoriei regionale.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Un parc de aventură pentru activități în aer liber în pădure.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Triesner Heilos", "text": "O arie protejată pentru conservarea florei și faunei locale.", "category": "natural", "coords": [9.521443, 47.089273]}, {"name": "Naturschutzgebiet Matilaberg", "text": "O zonă naturală protejată situată lângă Triesen.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Brochne Burg", "text": "Când explorați Sand, nu trebuie să ratați punctul de belvedere Brochne Burg. Acest loc natural din Liechtenstein oferă o priveliște fantastică direct spre munții din jur. Oaspeții se pot aștepta aici la o experiență impresionantă în natură, concentrată pe peisajul alpin.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "O galerie care expune diverse opere de artă.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Situat tot în Sand, punctul de belvedere Major oferă o vizibilitate excelentă. Vizitatorii acestei părți din Liechtenstein se pot bucura de aici de o panoramă largă asupra Văii Rinului. Peisajul natural idilic asigură faptul că drumeții și plimbăreții vor avea parte de o experiență de neuitat.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Magletsch", "text": "Un punct de observație situat în apropierea fostei fortificații.", "category": "natural", "coords": [9.486141, 47.101003]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Un indicator de frontieră la granița dintre Liechtenstein și Elveția.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "O sculptură modernă din prisme de sticlă în Vaduz.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Wasserrad", "text": "O roată de apă istorică în localitatea Sand.", "category": "landmark", "coords": [9.483937, 47.102383]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "O fermă de lame și alpaca în Sand.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Bad Vogelsang", "text": "Ruinele unei foste unități balneare în Sand.", "category": "historical", "coords": [9.541576, 47.092625]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "O biserică catolică dedicată Sfântului Frate Klaus.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "O capelă sau biserică istorică în Sand.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Reformierte Kirche St. Martin", "text": "O clădire bisericească reformată în zona Sand.", "category": "religious", "coords": [9.486239, 47.097298]}, {"name": "Evangelische Kirche", "text": "O clădire bisericească evanghelică lângă Sand.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Stausee Steg din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Werdenberger See din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Gänglesee din Sand oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "Locul de joacă Im Burkat, Triesenberg din Sand este o destinație excelentă pentru familiile cu copii.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "Locul de joacă Robinson-Spielplatz din Sand este o destinație excelentă pentru familiile cu copii.", "category": "family", "coords": [9.525299, 47.0923]}], "en": [{"name": "Walsermuseum", "text": "The museum documents the history and culture of the Walser settlers.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "The art collection displays significant works of classical modernism.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Burgruine Wartau", "text": "The ruins of a medieval hill castle above Gretschins.", "category": "castle", "coords": [9.490408, 47.098493]}, {"name": "Liechtenstein National Museum", "text": "The National Museum is dedicated to the history and natural history of Liechtenstein.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "The archaeological remains of a former castle complex.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Artilleriewerk Magletsch", "text": "A former Swiss Army fortress that now serves as a museum.", "category": "museum", "coords": [9.484703, 47.103855]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "A cultural center located in a former factory building in Triesen.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "A small theatre in Vaduz offering a diverse program.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "A museum dedicated to regional folklore and history.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "A high ropes course for outdoor activities in the forest.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Triesner Heilos", "text": "A protected area for the conservation of local flora and fauna.", "category": "natural", "coords": [9.521443, 47.089273]}, {"name": "Naturschutzgebiet Matilaberg", "text": "A protected natural area located near Triesen.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Brochne Burg", "text": "When exploring Sand, you should not miss the Brochne Burg viewpoint. This natural spot in Liechtenstein provides a fantastic view directly of the surrounding mountains. Guests can expect an impressive nature experience focused on the alpine landscape here.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "A gallery exhibiting various works of art.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Also located in Sand, the Major viewpoint offers excellent visibility. Visitors to this part of Liechtenstein can enjoy a sweeping panorama over the Rhine Valley from here. The idyllic natural scenery ensures that hikers and walkers get their money's worth.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Magletsch", "text": "A viewpoint located near the former fortress.", "category": "natural", "coords": [9.486141, 47.101003]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "A marker sign on the border between Liechtenstein and Switzerland.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "A modern sculpture made of glass prisms in Vaduz.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Wasserrad", "text": "A historical water wheel in the village of Sand.", "category": "landmark", "coords": [9.483937, 47.102383]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "A farm with llamas and alpacas in Sand.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Bad Vogelsang", "text": "The ruins of a former bathing facility in Sand.", "category": "historical", "coords": [9.541576, 47.092625]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "A Catholic church dedicated to Saint Brother Klaus.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "A historical chapel or church in Sand.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Reformierte Kirche St. Martin", "text": "A reformed church building in the Sand area.", "category": "religious", "coords": [9.486239, 47.097298]}, {"name": "Evangelische Kirche", "text": "An evangelical church building near Sand.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Stausee Steg in Sand offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee in Sand offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Sand offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Werdenberger See in Sand offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Gänglesee in Sand offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "The Im Burkat, Triesenberg playground in Sand is a great destination for families with children.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "The Robinson-Spielplatz playground in Sand is a great destination for families with children.", "category": "family", "coords": [9.525299, 47.0923]}]},
+    id: "city-sand-triesen-extra", "sights": {
+      "de": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "Das Museum dokumentiert die Geschichte und Kultur der Walser-Siedler.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "Die Kunstsammlung zeigt bedeutende Werke der klassischen Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Burgruine Wartau",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Gretschins.",
+                  "category": "castle",
+                  "coords": [
+                        9.490408,
+                        47.098493
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "Das Landesmuseum widmet sich der Geschichte und Naturkunde Liechtensteins.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Die archäologischen Überreste einer ehemaligen Burganlage.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Artilleriewerk Magletsch",
+                  "text": "Eine ehemalige Festungsanlage der Schweizer Armee, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.484703,
+                        47.103855
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Ein Kulturzentrum in einem ehemaligen Fabrikgebäude in Triesen.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "Ein Kleintheater in Vaduz, das ein vielfältiges Programm bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein Museum, das sich der regionalen Volkskunde und Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Ein Hochseilgarten für Outdoor-Aktivitäten im Wald.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Triesner Heilos",
+                  "text": "Ein Schutzgebiet zur Erhaltung der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.521443,
+                        47.089273
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "Ein geschütztes Naturareal in der Nähe von Triesen.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Wenn Sie Sand erkunden, sollten Sie den Aussichtspunkt Brochne Burg nicht verpassen. Dieser natürliche Ort in Liechtenstein gewährt einen fantastischen Blick direkt auf die umliegende Bergwelt. Gäste erwartet hier ein eindrucksvolles Naturerlebnis mit Fokus auf die alpine Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "Eine Galerie, die verschiedene Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Ebenfalls in Sand gelegen, bietet der Aussichtspunkt Major eine hervorragende Weitsicht. Besucher dieses Teils von Liechtenstein können von hier aus ein weites Panorama über das Rheintal genießen. Die idyllische Naturkulisse sorgt dafür, dass Wanderer und Spaziergänger voll auf ihre Kosten kommen.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Magletsch",
+                  "text": "Ein Aussichtspunkt in der Nähe der ehemaligen Festungsanlage.",
+                  "category": "natural",
+                  "coords": [
+                        9.486141,
+                        47.101003
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Ein Markierungsschild an der Grenze zwischen Liechtenstein und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "Eine moderne Skulptur aus Glasprismen in Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Ein historisches Wasserrad in der Ortschaft Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.483937,
+                        47.102383
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "Ein landwirtschaftlicher Hof mit Lamas und Alpakas in Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Bad Vogelsang",
+                  "text": "Die Ruinen einer ehemaligen Badeanlage in Sand.",
+                  "category": "historical",
+                  "coords": [
+                        9.541576,
+                        47.092625
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "Eine katholische Kirche, die dem heiligen Bruder Klaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "Eine historische Kapelle oder Kirche in Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Martin",
+                  "text": "Ein reformiertes Kirchengebäude in der Umgebung von Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.486239,
+                        47.097298
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Ein evangelisches Kirchengebäude in der Nähe von Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Sand bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Sand bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Sand ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Spielplatz Robinson-Spielplatz in Sand ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Schloss Vaduz in Sand ist der offizielle Wohnsitz des Fürsten von Liechtenstein und thront über der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "A múzeum a walser telepesek történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "A művészeti gyűjtemény a klasszikus modernizmus jelentős alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Burgruine Wartau",
+                  "text": "Középkori hegyi vár romja Gretschins felett.",
+                  "category": "castle",
+                  "coords": [
+                        9.490408,
+                        47.098493
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "A nemzeti múzeum Liechtenstein történelmével és természetrajzával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Egy egykori várrendszer régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Artilleriewerk Magletsch",
+                  "text": "A svájci hadsereg egykori erődítménye, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        9.484703,
+                        47.103855
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Kulturális központ egy egykori trieseni gyárépületben.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "Kísérleti schínház Vaduzban, amely változatos programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A regionális néprajznak és történelemnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Kalandpark erdei szabadtéri tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Triesner Heilos",
+                  "text": "Védett terület a helyi növény- és állatvilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.521443,
+                        47.089273
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "Védett természeti terület Triesen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Ha Sand területét fedezi fel, ne hagyja ki a Brochne Burg kilátót. Ez a természetes liechtensteini hely fantasztikus kilátást nyújt közvetlenül a környező hegyekre. A vendégeket egy lenyűgöző természeti élmény várja itt, az alpesi tájra fókuszálva.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "Különféle műalkotásokat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "A szintén Sand városában található Major kilátó kiváló látási viszonyokat kínál. Liechtenstein ezen részének látogatói innen széles panorámát élvezhetnek a Rajna-völgyre. Az idilli természeti táj garantálja, hogy a túrázók és a sétálók is megtalálják a számításukat.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Magletsch",
+                  "text": "Kilátópont az egykori erődítmény közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.486141,
+                        47.101003
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Határjelző tábla Liechtenstein és Svájc határán.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "Modern üvegrizma-szobor Vaduzban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "Egy történelmi vízkerék Sand településen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.483937,
+                        47.102383
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "Láma- és alpakafarm Sand területén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Bad Vogelsang",
+                  "text": "Egy egykori fürdőhely romjai Sand területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.541576,
+                        47.092625
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "Flüei Szent Miklósnak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "Történelmi kápolna vagy templom Sand területén.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Martin",
+                  "text": "Református templomépület Sand környékén.",
+                  "category": "religious",
+                  "coords": [
+                        9.486239,
+                        47.097298
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Evangélikus templomépület Sand közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Sand területén fekvő Stausee Steg festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Sand területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Sand területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Sand területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Sand településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Sand területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Sand területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A sandi Vaduz vára a liechtensteini herceg hivatalos rezidenciája, amely a város fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "Muzeul documentează istoria și cultura coloniștilor Walser.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "Colecția de artă expune lucrări importante ale modernismului clasic.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Burgruine Wartau",
+                  "text": "Ruinele unei cetăți medievale situate deasupra satului Gretschins.",
+                  "category": "castle",
+                  "coords": [
+                        9.490408,
+                        47.098493
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "Muzeul Național este dedicat istoriei și istoriei naturale a Liechtensteinului.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Vestigiile arheologice ale unei foste fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Artilleriewerk Magletsch",
+                  "text": "O fostă fortificație a armatei elvețiene, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        9.484703,
+                        47.103855
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Un centru cultural situat într-o fostă fabrică din Triesen.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "Un mic teatru din Vaduz care oferă un program variat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu dedicat folclorului și istoriei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Un parc de aventură pentru activități în aer liber în pădure.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Triesner Heilos",
+                  "text": "O arie protejată pentru conservarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.521443,
+                        47.089273
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "O zonă naturală protejată situată lângă Triesen.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Când explorați Sand, nu trebuie să ratați punctul de belvedere Brochne Burg. Acest loc natural din Liechtenstein oferă o priveliște fantastică direct spre munții din jur. Oaspeții se pot aștepta aici la o experiență impresionantă în natură, concentrată pe peisajul alpin.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "O galerie care expune diverse opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Situat tot în Sand, punctul de belvedere Major oferă o vizibilitate excelentă. Vizitatorii acestei părți din Liechtenstein se pot bucura de aici de o panoramă largă asupra Văii Rinului. Peisajul natural idilic asigură faptul că drumeții și plimbăreții vor avea parte de o experiență de neuitat.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Magletsch",
+                  "text": "Un punct de observație situat în apropierea fostei fortificații.",
+                  "category": "natural",
+                  "coords": [
+                        9.486141,
+                        47.101003
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Un indicator de frontieră la granița dintre Liechtenstein și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "O sculptură modernă din prisme de sticlă în Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "O roată de apă istorică în localitatea Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.483937,
+                        47.102383
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "O fermă de lame și alpaca în Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Bad Vogelsang",
+                  "text": "Ruinele unei foste unități balneare în Sand.",
+                  "category": "historical",
+                  "coords": [
+                        9.541576,
+                        47.092625
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "O biserică catolică dedicată Sfântului Frate Klaus.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "O capelă sau biserică istorică în Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Martin",
+                  "text": "O clădire bisericească reformată în zona Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.486239,
+                        47.097298
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "O clădire bisericească evanghelică lângă Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Sand oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Sand oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Sand este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Sand este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul Vaduz din Sand este reședința oficială a principelui de Liechtenstein și domină orașul.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "The museum documents the history and culture of the Walser settlers.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "The art collection displays significant works of classical modernism.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Burgruine Wartau",
+                  "text": "The ruins of a medieval hill castle above Gretschins.",
+                  "category": "castle",
+                  "coords": [
+                        9.490408,
+                        47.098493
+                  ]
+            },
+            {
+                  "name": "Liechtenstein National Museum",
+                  "text": "The National Museum is dedicated to the history and natural history of Liechtenstein.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "The archaeological remains of a former castle complex.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Artilleriewerk Magletsch",
+                  "text": "A former Swiss Army fortress that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.484703,
+                        47.103855
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "A cultural center located in a former factory building in Triesen.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "A small theatre in Vaduz offering a diverse program.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A museum dedicated to regional folklore and history.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A high ropes course for outdoor activities in the forest.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Triesner Heilos",
+                  "text": "A protected area for the conservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.521443,
+                        47.089273
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "A protected natural area located near Triesen.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "When exploring Sand, you should not miss the Brochne Burg viewpoint. This natural spot in Liechtenstein provides a fantastic view directly of the surrounding mountains. Guests can expect an impressive nature experience focused on the alpine landscape here.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "A gallery exhibiting various works of art.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Also located in Sand, the Major viewpoint offers excellent visibility. Visitors to this part of Liechtenstein can enjoy a sweeping panorama over the Rhine Valley from here. The idyllic natural scenery ensures that hikers and walkers get their money's worth.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Magletsch",
+                  "text": "A viewpoint located near the former fortress.",
+                  "category": "natural",
+                  "coords": [
+                        9.486141,
+                        47.101003
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "A marker sign on the border between Liechtenstein and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "A modern sculpture made of glass prisms in Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Wasserrad",
+                  "text": "A historical water wheel in the village of Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.483937,
+                        47.102383
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "A farm with llamas and alpacas in Sand.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Bad Vogelsang",
+                  "text": "The ruins of a former bathing facility in Sand.",
+                  "category": "historical",
+                  "coords": [
+                        9.541576,
+                        47.092625
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "A Catholic church dedicated to Saint Brother Klaus.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "A historical chapel or church in Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Martin",
+                  "text": "A reformed church building in the Sand area.",
+                  "category": "religious",
+                  "coords": [
+                        9.486239,
+                        47.097298
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "An evangelical church building near Sand.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Sand offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Sand offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Sand is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Sand is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Vaduz Castle in Sand is the official residence of the Prince of Liechtenstein and overlooks the city.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-001",
     coords: [9.5180, 47.1130],
@@ -24143,7 +25592,1132 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-berschis-extra", "sights": {"de": [{"name": "Walsermuseum", "text": "Das Museum dokumentiert die Geschichte und Kultur der Walser-Siedler.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "Eine bedeutende Kunstsammlung mit Werken der klassischen Moderne.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "Das Nationalmuseum vermittelt die Geschichte und Volkskunde Liechtensteins.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Überreste einer historischen Befestigungsanlage bei Berschis.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Ein Kulturzentrum und Museum in einer ehemaligen Industrieanlage.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "Eine Kleinkunstbühne für Theater, Kabarett und Musik in Berschis.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "Ein Museum zur lokalen Geschichte und Kultur in Berschis.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Ein Waldseilpark mit verschiedenen Kletterparcours bei Berschis.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Matilaberg", "text": "Ein geschützter Naturraum mit charakteristischer Flora und Fauna.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Rotes Haus", "text": "Ein markantes spätmittelalterliches Treppengiebelhaus in Vaduz.", "category": "landmark", "coords": [9.521822, 47.144802]}, {"name": "Känzile", "text": "Das Känzile ist ein bekannter Aussichtspunkt in der Ortschaft Berschis. Wer sich in dieser Gegend Liechtensteins aufhält, wird mit einem weiten Blick über das tiefer liegende Rheintal belohnt. Dieser naturnahe Ort lädt zum Verweilen und Fotografieren der weitläufigen Landschaft ein.", "category": "natural", "coords": [9.524091, 47.14076]}, {"name": "Brochne Burg", "text": "Ein markanter Aussichtspunkt in der Umgebung von Berschis.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "Eine lokale Galerie, die verschiedene Kunstwerke und Bilder zeigt.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Ein erhöhter Ort mit schöner Aussicht auf die Region Berschis.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Ein Informationsschild an der Staatsgrenze zwischen Liechtenstein und der Schweiz.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "Eine moderne Kunstinstallation im öffentlichen Raum von Berschis.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Centrum für Kunst", "text": "Eine Einrichtung zur Förderung von Kunst und Kommunikation.", "category": "landmark", "coords": [9.523117, 47.141593]}, {"name": "Hofkellerei", "text": "Die fürstliche Weinkellerei mit langer Tradition in Berschis.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "Ein Hof mit Lamas und Alpakas in der Umgebung von Berschis.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Rathaus Vaduz", "text": "Der Sitz der Stadtverwaltung und des Gemeinderats in Vaduz.", "category": "historical", "coords": [9.521895, 47.140709]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "Ein Kirchengebäude, das der Religionsausübung in Berschis dient.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "Eine historische Kapelle oder ein Gebetshaus in Berschis.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Evangelische Kirche", "text": "Ein Versammlungsort der evangelischen Glaubensgemeinschaft in Berschis.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Der Stausee Steg in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Der Kaiserilochsee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Der Werdenberger See in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Der Gänglesee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "Der Spielplatz Im Burkat, Triesenberg in Berschis ist ein schönes Ziel für Familien mit Kindern.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "Der Spielplatz Robinson-Spielplatz in Berschis ist ein schönes Ziel für Familien mit Kindern.", "category": "family", "coords": [9.525299, 47.0923]}], "hu": [{"name": "Walsermuseum", "text": "A múzeum a walser telepesek történelmét és kultúráját mutatja be.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "Jelentős művészeti gyűjtemény a klasszikus modernizmus alkotásaival.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "A nemzeti múzeum Liechtenstein történelmét és néprajzát mutatja be.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Történelmi erődítmény maradványai Berschisnél.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Kulturális központ és múzeum egy egykori ipari létesítményben.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "Kamaraszínpad színházi, kabaré- és zenei előadásokhoz Berschisben.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "Helyi történelmi és kulturális múzeum Berschisben.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Erdei kötélpálya különböző mászóútvonalakkal Berschisnél.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Matilaberg", "text": "Védett természeti terület jellegzetes flórával és faunával.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Rotes Haus", "text": "Jellegzetes késő középkori lépcsős oromzatú ház Vaduzban.", "category": "landmark", "coords": [9.521822, 47.144802]}, {"name": "Känzile", "text": "A Känzile egy jól ismert kilátó Berschis faluban. Aki Liechtenstein ezen a részén jár, széles kilátással lesz megjutalmazva a mélyebben fekvő Rajna-völgyre. Ez a természetközeli hely hosszas időzésre és a kiterjedt táj fényképezésére csábít.", "category": "natural", "coords": [9.524091, 47.14076]}, {"name": "Brochne Burg", "text": "Jellegzetes kilátóhely Berschis környékén.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "Helyi galéria, amely különböző műalkotásokat és képeket mutat be.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Magaslati hely szép kilátással Berschis régiójára.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Tájékoztató tábla a Liechtenstein és Svájc közötti államhatáron.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "Modern művészeti installáció Berschis közterületén.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Centrum für Kunst", "text": "A művészetet és a kommunikációt elősegítő intézmény.", "category": "landmark", "coords": [9.523117, 47.141593]}, {"name": "Hofkellerei", "text": "A hercegi borpince hosszú hagyományokkal Berschisben.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "Láma- és alpakafarm Berschis környékén.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Rathaus Vaduz", "text": "A városi önkormányzat és a képviselő-testület székhelye Vaduzban.", "category": "historical", "coords": [9.521895, 47.140709]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "Vallási célokat szolgáló templomépület Berschisben.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "Történelmi kápolna vagy imaház Berschisben.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Evangelische Kirche", "text": "Az evangélikus közösség gyülekezőhelye Berschisben.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "A Berschis településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "A Berschis településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "A Berschis településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "A Berschis településen található Werdenberger See festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "A Berschis településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "A Berschis területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "A Berschis területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.", "category": "family", "coords": [9.525299, 47.0923]}], "ro": [{"name": "Walsermuseum", "text": "Muzeul documentează istoria și cultura colonizatorilor Walser.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "O importantă colecție de artă cu lucrări de modernism clasic.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Liechtensteinisches Landesmuseum Vaduz", "text": "Muzeul național prezintă istoria și folclorul Liechtensteinului.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Rămășițele unei fortificații istorice lângă Berschis.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "Un centru cultural și muzeu într-o fostă unitate industrială.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "O scenă pentru teatru, cabaret și muzică în Berschis.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "Un muzeu de istorie și cultură locală în Berschis.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "Un parc de aventură în pădure cu diverse trasee de escaladă lângă Berschis.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Matilaberg", "text": "O zonă naturală protejată cu floră și faună caracteristică.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Rotes Haus", "text": "O clădire proeminentă din Evul Mediu târziu, cu fronton în trepte, în Vaduz.", "category": "landmark", "coords": [9.521822, 47.144802]}, {"name": "Känzile", "text": "Känzile este un punct de belvedere bine cunoscut din satul Berschis. Oricine stă în această zonă a Liechtensteinului este răsplătit cu o priveliște largă asupra Văii Rinului de jos. Acest loc natural vă invită să zăboviți și să fotografiați peisajul întins.", "category": "natural", "coords": [9.524091, 47.14076]}, {"name": "Brochne Burg", "text": "Un punct de observație proeminent în zona Berschis.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "O galerie locală care expune diverse opere de artă și tablouri.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "Un loc elevat cu o vedere frumoasă asupra regiunii Berschis.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "Un panou informativ la frontiera de stat dintre Liechtenstein și Elveția.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "O instalație de artă modernă în spațiul public din Berschis.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Centrum für Kunst", "text": "O instituție pentru promovarea artei și comunicării.", "category": "landmark", "coords": [9.523117, 47.141593]}, {"name": "Hofkellerei", "text": "Pivnița princiară cu o lungă tradiție în Berschis.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "O fermă de lame și alpaca în zona Berschis.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Rathaus Vaduz", "text": "Sediul administrației orașului și al consiliului local în Vaduz.", "category": "historical", "coords": [9.521895, 47.140709]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "O clădire bisericească utilizată pentru cult în Berschis.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "O capelă istorică sau o casă de rugăciune în Berschis.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Evangelische Kirche", "text": "Un loc de adunare al comunității evanghelice în Berschis.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Stausee Steg din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Werdenberger See din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Gänglesee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "Locul de joacă Im Burkat, Triesenberg din Berschis este o destinație excelentă pentru familiile cu copii.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "Locul de joacă Robinson-Spielplatz din Berschis este o destinație excelentă pentru familiile cu copii.", "category": "family", "coords": [9.525299, 47.0923]}], "en": [{"name": "Walsermuseum", "text": "The museum documents the history and culture of the Walser settlers.", "category": "museum", "coords": [9.542882, 47.118483]}, {"name": "Hilti Art Foundation", "text": "A significant art collection featuring works of classical modernism.", "category": "museum", "coords": [9.522453, 47.139312]}, {"name": "Liechtenstein National Museum", "text": "The national museum presents the history and folklore of Liechtenstein.", "category": "museum", "coords": [9.522738, 47.138174]}, {"name": "Burgruine Herrenberg", "text": "Remains of a historical fortification near Berschis.", "category": "historical", "coords": [9.487599, 47.119662]}, {"name": "Gasometer Kulturzentrum Triesen", "text": "A cultural center and museum in a former industrial facility.", "category": "museum", "coords": [9.526599, 47.107831]}, {"name": "Kleintheater Schlösslekeller", "text": "A venue for theatre, cabaret and music in Berschis.", "category": "cultural", "coords": [9.523949, 47.129044]}, {"name": "Heimatmuseum", "text": "A museum of local history and culture in Berschis.", "category": "museum", "coords": [9.544112, 47.117278]}, {"name": "Seilpark im Forst", "text": "A forest rope park with various climbing courses near Berschis.", "category": "family", "coords": [9.527212, 47.093328]}, {"name": "Naturschutzgebiet Matilaberg", "text": "A protected natural area with characteristic flora and fauna.", "category": "natural", "coords": [9.535358, 47.092399]}, {"name": "Rotes Haus", "text": "A prominent late medieval stepped-gable house in Vaduz.", "category": "landmark", "coords": [9.521822, 47.144802]}, {"name": "Känzile", "text": "Känzile is a well-known viewpoint in the village of Berschis. Anyone staying in this area of Liechtenstein is rewarded with a broad view over the lower Rhine Valley. This natural spot invites you to linger and photograph the expansive landscape.", "category": "natural", "coords": [9.524091, 47.14076]}, {"name": "Brochne Burg", "text": "A prominent viewpoint in the Berschis area.", "category": "natural", "coords": [9.490593, 47.103611]}, {"name": "Erichs Bildergalerie", "text": "A local gallery displaying various artworks and pictures.", "category": "museum", "coords": [9.550289, 47.113691]}, {"name": "Major", "text": "An elevated spot with a beautiful view of the Berschis region.", "category": "natural", "coords": [9.49723, 47.098085]}, {"name": "Grenzschild Liechtenstein-Schweiz", "text": "An information sign on the state border between Liechtenstein and Switzerland.", "category": "landmark", "coords": [9.511668, 47.132454]}, {"name": "Two Light Prisms", "text": "A modern art installation in the public space of Berschis.", "category": "landmark", "coords": [9.522019, 47.136685]}, {"name": "Centrum of Art and Communication", "text": "An institution for the promotion of art and communication.", "category": "landmark", "coords": [9.523117, 47.141593]}, {"name": "Hofkellerei", "text": "The princely wine cellar with a long tradition in Berschis.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Lama- & Alpakahof Triesenberg", "text": "A farm with llamas and alpacas in the Berschis area.", "category": "landmark", "coords": [9.543841, 47.106132]}, {"name": "Rathaus Vaduz", "text": "The seat of the city administration and the municipal council in Vaduz.", "category": "historical", "coords": [9.521895, 47.140709]}, {"name": "Bruder Klaus Kirche Sevelen", "text": "A church building used for worship in Berschis.", "category": "religious", "coords": [9.494337, 47.121616]}, {"name": "Sankt Mamerten", "text": "A historical chapel or house of prayer in Berschis.", "category": "religious", "coords": [9.532178, 47.10779]}, {"name": "Evangelische Kirche", "text": "A meeting place for the evangelical community in Berschis.", "category": "religious", "coords": [9.485963, 47.121539]}, {"name": "Stausee Steg", "text": "Stausee Steg in Berschis offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.575468, 47.109739]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee in Berschis offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Berschis offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Werdenberger See", "text": "Werdenberger See in Berschis offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Gänglesee", "text": "Gänglesee in Berschis offers a scenic backdrop for walks and enjoying nature.", "category": "natural", "coords": [9.577725, 47.106937]}, {"name": "Im Burkat, Triesenberg", "text": "The Im Burkat, Triesenberg playground in Berschis is a great destination for families with children.", "category": "family", "coords": [9.551928, 47.111453]}, {"name": "Robinson-Spielplatz", "text": "The Robinson-Spielplatz playground in Berschis is a great destination for families with children.", "category": "family", "coords": [9.525299, 47.0923]}]},
+    id: "city-berschis-extra", "sights": {
+      "de": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "Das Museum dokumentiert die Geschichte und Kultur der Walser-Siedler.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "Eine bedeutende Kunstsammlung mit Werken der klassischen Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "Das Nationalmuseum vermittelt die Geschichte und Volkskunde Liechtensteins.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Überreste einer historischen Befestigungsanlage bei Berschis.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Ein Kulturzentrum und Museum in einer ehemaligen Industrieanlage.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "Eine Kleinkunstbühne für Theater, Kabarett und Musik in Berschis.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein Museum zur lokalen Geschichte und Kultur in Berschis.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Ein Waldseilpark mit verschiedenen Kletterparcours bei Berschis.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "Ein geschützter Naturraum mit charakteristischer Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Rotes Haus",
+                  "text": "Ein markantes spätmittelalterliches Treppengiebelhaus in Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.521822,
+                        47.144802
+                  ]
+            },
+            {
+                  "name": "Känzile",
+                  "text": "Das Känzile ist ein bekannter Aussichtspunkt in der Ortschaft Berschis. Wer sich in dieser Gegend Liechtensteins aufhält, wird mit einem weiten Blick über das tiefer liegende Rheintal belohnt. Dieser naturnahe Ort lädt zum Verweilen und Fotografieren der weitläufigen Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.524091,
+                        47.14076
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Ein markanter Aussichtspunkt in der Umgebung von Berschis.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "Eine lokale Galerie, die verschiedene Kunstwerke und Bilder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Ein erhöhter Ort mit schöner Aussicht auf die Region Berschis.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Ein Informationsschild an der Staatsgrenze zwischen Liechtenstein und der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "Eine moderne Kunstinstallation im öffentlichen Raum von Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Centrum für Kunst",
+                  "text": "Eine Einrichtung zur Förderung von Kunst und Kommunikation.",
+                  "category": "landmark",
+                  "coords": [
+                        9.523117,
+                        47.141593
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "Die fürstliche Weinkellerei mit langer Tradition in Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "Ein Hof mit Lamas und Alpakas in der Umgebung von Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Rathaus Vaduz",
+                  "text": "Der Sitz der Stadtverwaltung und des Gemeinderats in Vaduz.",
+                  "category": "historical",
+                  "coords": [
+                        9.521895,
+                        47.140709
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "Ein Kirchengebäude, das der Religionsausübung in Berschis dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "Eine historische Kapelle oder ein Gebetshaus in Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Ein Versammlungsort der evangelischen Glaubensgemeinschaft in Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Der Stausee Steg in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Der Gänglesee in Berschis bietet eine malerische Kulisse für Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Der Spielplatz Im Burkat, Triesenberg in Berschis ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Spielplatz Robinson-Spielplatz in Berschis ist ein schönes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Schloss Vaduz in Berschis ist das weithin sichtbare Wahrzeichen und die Residenz des Fürstenhauses.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "A múzeum a walser telepesek történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "Jelentős művészeti gyűjtemény a klasszikus modernizmus alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "A nemzeti múzeum Liechtenstein történelmét és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Történelmi erődítmény maradványai Berschisnél.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Kulturális központ és múzeum egy egykori ipari létesítményben.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "Kamaraszínpad színházi, kabaré- és zenei előadásokhoz Berschisben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Helyi történelmi és kulturális múzeum Berschisben.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Erdei kötélpálya különböző mászóútvonalakkal Berschisnél.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "Védett természeti terület jellegzetes flórával és faunával.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Rotes Haus",
+                  "text": "Jellegzetes késő középkori lépcsős oromzatú ház Vaduzban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.521822,
+                        47.144802
+                  ]
+            },
+            {
+                  "name": "Känzile",
+                  "text": "A Känzile egy jól ismert kilátó Berschis faluban. Aki Liechtenstein ezen a részén jár, széles kilátással lesz megjutalmazva a mélyebben fekvő Rajna-völgyre. Ez a természetközeli hely hosszas időzésre és a kiterjedt táj fényképezésére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.524091,
+                        47.14076
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Jellegzetes kilátóhely Berschis környékén.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "Helyi galéria, amely különböző műalkotásokat és képeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Magaslati hely szép kilátással Berschis régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Tájékoztató tábla a Liechtenstein és Svájc közötti államhatáron.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "Modern művészeti installáció Berschis közterületén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Centrum für Kunst",
+                  "text": "A művészetet és a kommunikációt elősegítő intézmény.",
+                  "category": "landmark",
+                  "coords": [
+                        9.523117,
+                        47.141593
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "A hercegi borpince hosszú hagyományokkal Berschisben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "Láma- és alpakafarm Berschis környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Rathaus Vaduz",
+                  "text": "A városi önkormányzat és a képviselő-testület székhelye Vaduzban.",
+                  "category": "historical",
+                  "coords": [
+                        9.521895,
+                        47.140709
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "Vallási célokat szolgáló templomépület Berschisben.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "Történelmi kápolna vagy imaház Berschisben.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Az evangélikus közösség gyülekezőhelye Berschisben.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "A Berschis településen található Stausee Steg festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Berschis településen található Kaiserilochsee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Berschis településen található Spörry Weiher festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Berschis településen található Werdenberger See festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "A Berschis településen található Gänglesee festői helyszínt kínál sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "A Berschis területén lévő Im Burkat, Triesenberg játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Berschis területén lévő Robinson-Spielplatz játszótér remek úticél gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A berschisi Vaduz vára a fejedelmi ház messziről látható jelképe és rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "Muzeul documentează istoria și cultura colonizatorilor Walser.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "O importantă colecție de artă cu lucrări de modernism clasic.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Liechtensteinisches Landesmuseum Vaduz",
+                  "text": "Muzeul național prezintă istoria și folclorul Liechtensteinului.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Rămășițele unei fortificații istorice lângă Berschis.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "Un centru cultural și muzeu într-o fostă unitate industrială.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "O scenă pentru teatru, cabaret și muzică în Berschis.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu de istorie și cultură locală în Berschis.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Un parc de aventură în pădure cu diverse trasee de escaladă lângă Berschis.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "O zonă naturală protejată cu floră și faună caracteristică.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Rotes Haus",
+                  "text": "O clădire proeminentă din Evul Mediu târziu, cu fronton în trepte, în Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.521822,
+                        47.144802
+                  ]
+            },
+            {
+                  "name": "Känzile",
+                  "text": "Känzile este un punct de belvedere bine cunoscut din satul Berschis. Oricine stă în această zonă a Liechtensteinului este răsplătit cu o priveliște largă asupra Văii Rinului de jos. Acest loc natural vă invită să zăboviți și să fotografiați peisajul întins.",
+                  "category": "natural",
+                  "coords": [
+                        9.524091,
+                        47.14076
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "Un punct de observație proeminent în zona Berschis.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "O galerie locală care expune diverse opere de artă și tablouri.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "Un loc elevat cu o vedere frumoasă asupra regiunii Berschis.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "Un panou informativ la frontiera de stat dintre Liechtenstein și Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "O instalație de artă modernă în spațiul public din Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Centrum für Kunst",
+                  "text": "O instituție pentru promovarea artei și comunicării.",
+                  "category": "landmark",
+                  "coords": [
+                        9.523117,
+                        47.141593
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "Pivnița princiară cu o lungă tradiție în Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "O fermă de lame și alpaca în zona Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Rathaus Vaduz",
+                  "text": "Sediul administrației orașului și al consiliului local în Vaduz.",
+                  "category": "historical",
+                  "coords": [
+                        9.521895,
+                        47.140709
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "O clădire bisericească utilizată pentru cult în Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "O capelă istorică sau o casă de rugăciune în Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Un loc de adunare al comunității evanghelice în Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee din Berschis oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "Locul de joacă Im Burkat, Triesenberg din Berschis este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Locul de joacă Robinson-Spielplatz din Berschis este o destinație excelentă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul Vaduz din Berschis este simbolul vizibil de departe și reședința casei princiare.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walsermuseum",
+                  "text": "The museum documents the history and culture of the Walser settlers.",
+                  "category": "museum",
+                  "coords": [
+                        9.542882,
+                        47.118483
+                  ]
+            },
+            {
+                  "name": "Hilti Art Foundation",
+                  "text": "A significant art collection featuring works of classical modernism.",
+                  "category": "museum",
+                  "coords": [
+                        9.522453,
+                        47.139312
+                  ]
+            },
+            {
+                  "name": "Liechtenstein National Museum",
+                  "text": "The national museum presents the history and folklore of Liechtenstein.",
+                  "category": "museum",
+                  "coords": [
+                        9.522738,
+                        47.138174
+                  ]
+            },
+            {
+                  "name": "Burgruine Herrenberg",
+                  "text": "Remains of a historical fortification near Berschis.",
+                  "category": "historical",
+                  "coords": [
+                        9.487599,
+                        47.119662
+                  ]
+            },
+            {
+                  "name": "Gasometer Kulturzentrum Triesen",
+                  "text": "A cultural center and museum in a former industrial facility.",
+                  "category": "museum",
+                  "coords": [
+                        9.526599,
+                        47.107831
+                  ]
+            },
+            {
+                  "name": "Kleintheater Schlösslekeller",
+                  "text": "A venue for theatre, cabaret and music in Berschis.",
+                  "category": "cultural",
+                  "coords": [
+                        9.523949,
+                        47.129044
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A museum of local history and culture in Berschis.",
+                  "category": "museum",
+                  "coords": [
+                        9.544112,
+                        47.117278
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A forest rope park with various climbing courses near Berschis.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Matilaberg",
+                  "text": "A protected natural area with characteristic flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.535358,
+                        47.092399
+                  ]
+            },
+            {
+                  "name": "Rotes Haus",
+                  "text": "A prominent late medieval stepped-gable house in Vaduz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.521822,
+                        47.144802
+                  ]
+            },
+            {
+                  "name": "Känzile",
+                  "text": "Känzile is a well-known viewpoint in the village of Berschis. Anyone staying in this area of Liechtenstein is rewarded with a broad view over the lower Rhine Valley. This natural spot invites you to linger and photograph the expansive landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.524091,
+                        47.14076
+                  ]
+            },
+            {
+                  "name": "Brochne Burg",
+                  "text": "A prominent viewpoint in the Berschis area.",
+                  "category": "natural",
+                  "coords": [
+                        9.490593,
+                        47.103611
+                  ]
+            },
+            {
+                  "name": "Erichs Bildergalerie",
+                  "text": "A local gallery displaying various artworks and pictures.",
+                  "category": "museum",
+                  "coords": [
+                        9.550289,
+                        47.113691
+                  ]
+            },
+            {
+                  "name": "Major",
+                  "text": "An elevated spot with a beautiful view of the Berschis region.",
+                  "category": "natural",
+                  "coords": [
+                        9.49723,
+                        47.098085
+                  ]
+            },
+            {
+                  "name": "Grenzschild Liechtenstein-Schweiz",
+                  "text": "An information sign on the state border between Liechtenstein and Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        9.511668,
+                        47.132454
+                  ]
+            },
+            {
+                  "name": "Two Light Prisms",
+                  "text": "A modern art installation in the public space of Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522019,
+                        47.136685
+                  ]
+            },
+            {
+                  "name": "Centrum of Art and Communication",
+                  "text": "An institution for the promotion of art and communication.",
+                  "category": "landmark",
+                  "coords": [
+                        9.523117,
+                        47.141593
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "The princely wine cellar with a long tradition in Berschis.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Lama- & Alpakahof Triesenberg",
+                  "text": "A farm with llamas and alpacas in the Berschis area.",
+                  "category": "landmark",
+                  "coords": [
+                        9.543841,
+                        47.106132
+                  ]
+            },
+            {
+                  "name": "Rathaus Vaduz",
+                  "text": "The seat of the city administration and the municipal council in Vaduz.",
+                  "category": "historical",
+                  "coords": [
+                        9.521895,
+                        47.140709
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus Kirche Sevelen",
+                  "text": "A church building used for worship in Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.494337,
+                        47.121616
+                  ]
+            },
+            {
+                  "name": "Sankt Mamerten",
+                  "text": "A historical chapel or house of prayer in Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.532178,
+                        47.10779
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "A meeting place for the evangelical community in Berschis.",
+                  "category": "religious",
+                  "coords": [
+                        9.485963,
+                        47.121539
+                  ]
+            },
+            {
+                  "name": "Stausee Steg",
+                  "text": "Stausee Steg in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.575468,
+                        47.109739
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Gänglesee",
+                  "text": "Gänglesee in Berschis offers a scenic backdrop for walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.577725,
+                        47.106937
+                  ]
+            },
+            {
+                  "name": "Im Burkat, Triesenberg",
+                  "text": "The Im Burkat, Triesenberg playground in Berschis is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.551928,
+                        47.111453
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "The Robinson-Spielplatz playground in Berschis is a great destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.525299,
+                        47.0923
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Vaduz Castle in Berschis is the prominent landmark and residence of the princely house.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-001",
     coords: [9.5215, 47.1180],
@@ -34241,6 +36815,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Schloss Vaduz ist der Wohnsitz des Fürstenhauses und thront markant über der Hauptstadt.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Das Naturschutzgebiet Mareewiesen ist für seine artenreichen Magerwiesen und geschützte Flora bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -34485,6 +37077,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A vaduzi vár a hercegi család lakóhelye, amely méltóságteljesen magasodik a főváros fölé.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A Mareewiesen természetvédelmi terület fajgazdag rétjeiről és védett flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -34731,6 +37341,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul Vaduz este reședința casei princiare și tronează deasupra capitalei.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Rezervația naturală Mareewiesen este cunoscută pentru pajiștile sale bogate în specii și flora protejată.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -34975,6 +37603,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Vaduz Castle is the residence of the Princely House and stands prominently above the capital.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "The Mareewiesen nature reserve is known for its species-rich meadows and protected flora.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -37196,6 +39842,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.527212,
                         47.093328
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Schloss Vaduz ist das Wahrzeichen Liechtensteins und Sitz des Staatsoberhauptes.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "hu": [
@@ -37431,6 +40086,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.527212,
                         47.093328
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A vaduzi vár Liechtenstein jelképe és az államfő székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ],
@@ -37668,6 +40332,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.527212,
                         47.093328
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul Vaduz este simbolul Liechtensteinului și sediul șefului statului.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "en": [
@@ -37903,6 +40576,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.527212,
                         47.093328
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Vaduz Castle is the landmark of Liechtenstein and the seat of the head of state.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ]
@@ -39478,6 +42160,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.527212,
                         47.093328
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Schloss Vaduz ist eine historische Festung, die über der Stadt Vaduz wacht.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Ein geschütztes Naturareal bei Triesen, das der Erhaltung der lokalen Flora und Fauna dient.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "hu": [
@@ -39713,6 +42413,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.527212,
                         47.093328
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A vaduzi vár egy történelmi erődítmény, amely Vaduz városa felett őrködik.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "Védett természeti terület Triesen közelében, amely a helyi növény- és állatvilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ],
@@ -39950,6 +42668,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.527212,
                         47.093328
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Castelul Vaduz este o fortăreață istorică ce veghează asupra orașului Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "O zonă naturală protejată lângă Triesen, dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
+                  ]
             }
       ],
       "en": [
@@ -40185,6 +42921,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.527212,
                         47.093328
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Vaduz Castle is a historical fortress that watches over the city of Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mareewiesen",
+                  "text": "A protected natural area near Triesen dedicated to the conservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.524154,
+                        47.147405
                   ]
             }
       ]
@@ -53171,6 +55925,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Der offizielle Wohnsitz des Fürstenhauses Liechtenstein, der majestätisch über der Hauptstadt Vaduz thront.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "hu": [
@@ -53451,6 +56214,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "A liechtensteini hercegi család hivatalos rezidenciája, amely fenségesen magasodik a főváros, Vaduz fölé.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ],
@@ -53733,6 +56505,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "Reședința oficială a Casei Princiare de Liechtenstein, care domină maiestuos capitala Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
+                  ]
             }
       ],
       "en": [
@@ -54013,6 +56794,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Vaduz Castle",
+                  "text": "The official residence of the Princely House of Liechtenstein, perched majestically above the capital Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.524381,
+                        47.139573
                   ]
             }
       ]
@@ -55703,6 +58493,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.51508,
                         47.166187
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrunnen/Ascher",
+                  "text": "Ein Naturschutzgebiet bei Saroja mit einer wertvollen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.53323,
+                        47.188013
+                  ]
+            },
+            {
+                  "name": "Drei Schwestern",
+                  "text": "Ein markanter Berggipfel in den Alpen an der Grenze zwischen Liechtenstein und Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        9.572971,
+                        47.175568
+                  ]
+            },
+            {
+                  "name": "Kunstschule Liechtenstein",
+                  "text": "Ein Zentrum für künstlerische Bildung und Gestaltung in Saroja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.541659,
+                        47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "Eine dem heiligen Josef geweihte Kapelle in der Gemeinde Planken bei Saroja.",
+                  "category": "religious",
+                  "coords": [
+                        9.544336,
+                        47.184716
+                  ]
             }
       ],
       "hu": [
@@ -55767,6 +58593,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.51508,
                         47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrunnen/Ascher",
+                  "text": "Természetvédelmi terület Saroja közelében, értékes növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        9.53323,
+                        47.188013
+                  ]
+            },
+            {
+                  "name": "Drei Schwestern",
+                  "text": "Az Alpok jellegzetes hegycsúcsa Liechtenstein és Ausztria határán.",
+                  "category": "landmark",
+                  "coords": [
+                        9.572971,
+                        47.175568
+                  ]
+            },
+            {
+                  "name": "Kunstschule Liechtenstein",
+                  "text": "Művészeti oktatási és tervezési központ Saroja területén.",
+                  "category": "cultural",
+                  "coords": [
+                        9.541659,
+                        47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "Szent Józsefnek szentelt kápolna Plankenben, Saroja közelében.",
+                  "category": "religious",
+                  "coords": [
+                        9.544336,
+                        47.184716
                   ]
             }
       ],
@@ -55833,6 +58695,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.51508,
                         47.166187
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrunnen/Ascher",
+                  "text": "O rezervație naturală lângă Saroja, cu o floră și faună valoroasă.",
+                  "category": "natural",
+                  "coords": [
+                        9.53323,
+                        47.188013
+                  ]
+            },
+            {
+                  "name": "Drei Schwestern",
+                  "text": "Un vârf muntos proeminent din Alpi, la granița dintre Liechtenstein și Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        9.572971,
+                        47.175568
+                  ]
+            },
+            {
+                  "name": "Kunstschule Liechtenstein",
+                  "text": "Un centru pentru educație artistică și design în Saroja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.541659,
+                        47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "O capelă dedicată Sfântului Iosif în localitatea Planken, lângă Saroja.",
+                  "category": "religious",
+                  "coords": [
+                        9.544336,
+                        47.184716
+                  ]
             }
       ],
       "en": [
@@ -55897,6 +58795,42 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.51508,
                         47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrunnen/Ascher",
+                  "text": "A nature reserve near Saroja featuring valuable flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.53323,
+                        47.188013
+                  ]
+            },
+            {
+                  "name": "Drei Schwestern",
+                  "text": "A prominent mountain peak in the Alps on the border between Liechtenstein and Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        9.572971,
+                        47.175568
+                  ]
+            },
+            {
+                  "name": "Kunstschule Liechtenstein",
+                  "text": "A center for artistic education and design located in Saroja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.541659,
+                        47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "A chapel dedicated to Saint Joseph in the municipality of Planken near Saroja.",
+                  "category": "religious",
+                  "coords": [
+                        9.544336,
+                        47.184716
                   ]
             }
       ]
@@ -62700,6 +65634,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.599797,
                         47.246983
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Ein bedeutendes Flachmoorgebiet und Naturschutzgebiet bei Hinterschellenberg.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "hu": [
@@ -62989,6 +65932,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.599797,
                         47.246983
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Jelentős síkláp és természetvédelmi terület Hinterschellenberg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ],
@@ -63280,6 +66232,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.599797,
                         47.246983
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "O zonă importantă de mlaștină și rezervație naturală lângă Hinterschellenberg.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "en": [
@@ -63569,6 +66530,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.599797,
                         47.246983
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "An important fen and nature reserve located near Hinterschellenberg.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ]
@@ -65998,6 +68968,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Ein weitläufiges Naturschutzgebiet im Biedermann-Areal mit seltener Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "hu": [
@@ -66260,6 +69239,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Kiterjedt természetvédelmi terület a Biedermann-Arealban, ritka növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ],
@@ -66524,6 +69512,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "O rezervație naturală vastă în Biedermann-Areal, cu vegetație rară.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "en": [
@@ -66786,6 +69783,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "A vast nature reserve in Biedermann-Areal featuring rare vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ]
@@ -69170,7 +72176,952 @@ export const poiExtraLiechtensteinCities: POI[] = [
     image: "/poi-images/city-gantenstein-extra.webp",
   },
   {
-    id: "city-loch-schellenberg-extra", "sights": {"de": [{"name": "Vogelparadies Birka", "text": "Ein Vogelpark und Naturschutzgebiet in Loch.", "category": "family", "coords": [9.550738, 47.215569]}, {"name": "Ruine Neu-Schellenberg", "text": "Die mittelalterlichen Ruinen der Burg Neu-Schellenberg in Loch.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Die Überreste der Burg Alt-Schellenberg in Loch.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Biedermannhaus", "text": "Ein historisches Holzhaus und Museum in Loch.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Eine historische archäologische Stätte in Loch.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Archäologische Stätte mit Spuren historischer Fahrwege in Loch.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Birka", "text": "Ein geschütztes Naturareal in Loch.", "category": "natural", "coords": [9.552254, 47.215648]}, {"name": "Naturschutzgebiet Wisanels", "text": "Ein ökologisch bedeutsames Naturschutzgebiet in Loch.", "category": "natural", "coords": [9.567699, 47.219652]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Naturschutzgebiet rund um einen kleinen See in Loch.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Ein ausgewiesenes Naturschutzgebiet zur Erhaltung der Biodiversität in Loch.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Eschnerberg", "text": "Ein markanter Hügelzug im Fürstentum Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Musikschule", "text": "Als kultureller Treffpunkt in Loch fungiert die örtliche Musikschule. Sie ist in Liechtenstein eine wichtige Einrichtung sowohl für musikalische Bildung als auch für abwechslungsreiche kulturelle Veranstaltungen. Besucher können hier gelegentlich Vorführungen erleben und das lokale Kulturleben spüren.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Eine sakrale Stätte für Gebet und Besinnung in Loch.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "Die katholische Pfarrkirche St. Fridolin prägt das Ortsbild in Loch. Ursprünglich als Pfarrkirche der Gemeinde Ruggell dienend, ist sie ein bedeutender religiöser Anlaufpunkt in Liechtenstein. Gäste erwartet ein Ort der Stille und der Besinnung inmitten der Ortschaft.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Loch bietet eine entspannte Kulisse für Spaziergänge am Wasser.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Das Baggerloch Nägele in Loch ist ein kleines Gewässer, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Das Baggerloch Wilhelm & Mayer in Loch ist ein ruhiger Ort für eine Pause am Seeufer.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Das Baggerloch Hilti & Jehle in Loch ist ein regionales Gewässer in einer ruhigen Umgebung.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Der Baggersee Klostergatter in Loch bietet eine friedliche Atmosphäre für Erholungssuchende.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Loch ist ein idyllisches Ziel für Wanderer und Naturliebhaber.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Der Güfelsee in Loch ist ein kleines Gewässer, das zur Entspannung im Grünen einlädt.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Die Alte Rüttenen in Loch bietet eine naturnahe Kulisse für kurze Ausflüge.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Der Badesee in Loch ist im Sommer ein idealer Ort für eine Abkühlung am Wasser.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Loch ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Der Spielplatz Schellenberg in Loch bietet abwechslungsreiche Spielmöglichkeiten für Kinder.", "category": "family", "coords": [9.545982, 47.231859]}], "hu": [{"name": "Vogelparadies Birka", "text": "Madárpark és természetvédelmi terület Loch településen.", "category": "family", "coords": [9.550738, 47.215569]}, {"name": "Ruine Neu-Schellenberg", "text": "Neu-Schellenberg várának középkori romjai Loch településen.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Alt-Schellenberg várának maradványai Loch településen.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Biedermannhaus", "text": "Történelmi faház és múzeum Loch településen.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Történelmi régészeti lelőhely Loch településen.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Régészeti lelőhely történelmi kocsiútnyomokkal Loch településen.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Birka", "text": "Védett természeti terület Loch településen.", "category": "natural", "coords": [9.552254, 47.215648]}, {"name": "Naturschutzgebiet Wisanels", "text": "Ökológiailag jelentős természetvédelmi terület Loch településen.", "category": "natural", "coords": [9.567699, 47.219652]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Természetvédelmi terület egy kis tó körül Loch településen.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Biodiverzitás megőrzésére kijelölt természetvédelmi terület Loch településen.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Eschnerberg", "text": "Jelentős dombság Liechtenstein területén.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Musikschule", "text": "A helyi Musikschule kulturális találkozóhelyként szolgál Loch területén. Liechtensteinben fontos intézmény mind a zenei oktatás, mind a változatos kulturális események szempontjából. A látogatók alkalmanként előadásokat is megtekinthetnek itt, és belekóstolhatnak a helyi kulturális életbe.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Szakrális hely imádkozásra és elcsendesedésre Loch településen.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "A St. Fridolin katolikus plébániatemplom meghatározza Loch utcaképét. Eredetileg Ruggell község plébániatemplomaként szolgált, és fontos vallási célpont Liechtensteinben. A vendégeket a csend és az elmélkedés helye várja a település közepén.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "A Loch településen található Mühleweiher pihentető környezetet biztosít a vízparti sétákhoz.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "A Lochban fekvő Baggerloch Nägele egy kis tó, amely természetközeli pihenésre hív.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "A Lochban található Baggerloch Wilhelm & Mayer csendes helyszín egy tóparti pihenőhöz.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "A Loch területén lévő Baggerloch Hilti & Jehle egy regionális tó csendes környezetben.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "A Lochban található Baggersee Klostergatter békés légkört biztosít a kikapcsolódni vágyóknak.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "A Loch közelében fekvő Sämtisersee idilli célpont a túrázók és természetbarátok számára.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "A Lochban található Güfelsee egy kis tó, amely erdei relaxációra hív.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "A Lochban fekvő Alte Rüttenen természetközeli helyszínt biztosít a rövid kirándulásokhoz.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "A Lochban található Badesee nyáron ideális hely a vízparti felfrissüléshez.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "A Lochban lévő Sägaweiher egy csendes tó, amely természetközeli kikapcsolódásra hív.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "A Lochban található schellenbergi játszótér változatos játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [9.545982, 47.231859]}], "ro": [{"name": "Vogelparadies Birka", "text": "Un parc de păsări și rezervație naturală în Loch.", "category": "family", "coords": [9.550738, 47.215569]}, {"name": "Ruine Neu-Schellenberg", "text": "Ruinele medievale ale castelului Neu-Schellenberg în Loch.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Vestigiile castelului Alt-Schellenberg în Loch.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Biedermannhaus", "text": "O casă istorică din lemn și muzeu în Loch.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Un sit arheologic istoric în Loch.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Sit arheologic cu urme de drumuri istorice în Loch.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Birka", "text": "O zonă naturală protejată în Loch.", "category": "natural", "coords": [9.552254, 47.215648]}, {"name": "Naturschutzgebiet Wisanels", "text": "O rezervație naturală de importanță ecologică în Loch.", "category": "natural", "coords": [9.567699, 47.219652]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "O rezervație naturală în jurul unui mic lac în Loch.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "O rezervație naturală desemnată pentru conservarea biodiversității în Loch.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Eschnerberg", "text": "Un deal proeminent situat în Principatul Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Musikschule", "text": "Musikschule locală servește drept punct de întâlnire culturală în Loch. În Liechtenstein, este o instituție importantă atât pentru educația muzicală, cât și pentru diverse evenimente culturale. Vizitatorii pot asista ocazional la spectacole aici și pot simți viața culturală locală.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Un lăcaș de cult pentru rugăciune și reflecție în Loch.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "Biserica parohială catolică St. Fridolin modelează peisajul urban din Loch. Servind inițial ca biserică parohială a municipalității Ruggell, este o destinație religioasă semnificativă în Liechtenstein. Oaspeții se pot aștepta la un loc de liniște și reflecție în mijlocul satului.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher din Loch oferă un cadru relaxant pentru plimbări pe malul apei.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Baggerloch Nägele din Loch este un lac mic care invită la petrecerea timpului în natură.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Baggerloch Wilhelm & Mayer din Loch este un loc liniștit pentru o pauză pe malul lacului.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Baggerloch Hilti & Jehle din Loch este un lac regional într-un cadru liniștit.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter din Loch oferă o atmosferă pașnică pentru cei care caută relaxare.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Sämtisersee de lângă Loch este o destinație idilică pentru excursioniști și iubitorii de natură.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Güfelsee din Loch este un lac mic care invită la relaxare în mijlocul naturii.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen din Loch oferă un cadru natural pentru scurte excursii.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Lacul pentru scăldat din Loch este un loc ideal pentru răcorire pe malul apei în timpul verii.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Sägaweiher din Loch este un luciu de apă liniștit care invită la relaxare în natură.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Locul de joacă Schellenberg din Loch oferă posibilități de joacă variate pentru copii.", "category": "family", "coords": [9.545982, 47.231859]}], "en": [{"name": "Vogelparadies Birka", "text": "A bird park and nature reserve located in Loch.", "category": "family", "coords": [9.550738, 47.215569]}, {"name": "Ruine Neu-Schellenberg", "text": "The medieval ruins of Neu-Schellenberg castle in Loch.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "The remains of Alt-Schellenberg castle in Loch.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Biedermannhaus", "text": "A historic wooden house and museum in Loch.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "A historical archaeological site located in Loch.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Archaeological site featuring tracks of historical wagon paths in Loch.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Birka", "text": "A protected natural area in Loch.", "category": "natural", "coords": [9.552254, 47.215648]}, {"name": "Naturschutzgebiet Wisanels", "text": "An ecologically significant nature reserve in Loch.", "category": "natural", "coords": [9.567699, 47.219652]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "A nature reserve surrounding a small lake in Loch.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "A designated nature reserve for biodiversity conservation in Loch.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Eschnerberg", "text": "A prominent hill range in the Principality of Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Musikschule", "text": "The local Musikschule serves as a cultural meeting point in Loch. In Liechtenstein, it is an important institution for both musical education and diverse cultural events. Visitors can occasionally experience performances here and feel the local cultural life.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "A sacred site for prayer and reflection in Loch.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "The Catholic parish church of St. Fridolin shapes the townscape in Loch. Originally serving as the parish church of the Ruggell municipality, it is a significant religious destination in Liechtenstein. Guests can expect a place of silence and reflection in the middle of the village.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "The Mühleweiher in Loch offers a relaxing backdrop for walks by the water.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "The Baggerloch Nägele in Loch is a small body of water that invites visitors to linger in nature.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "The Baggerloch Wilhelm & Mayer in Loch is a quiet place for a break on the lakeshore.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "The Baggerloch Hilti & Jehle in Loch is a regional body of water in a quiet setting.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "The Baggersee Klostergatter in Loch offers a peaceful atmosphere for those seeking relaxation.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "The Sämtisersee near Loch is an idyllic destination for hikers and nature lovers.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "The Güfelsee in Loch is a small lake that invites visitors to relax in the countryside.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "The Alte Rüttenen in Loch offers a natural setting for short excursions.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "The bathing lake in Loch is an ideal spot for a summer cooldown by the water.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "The Sägaweiher in Loch is a quiet body of water that invites visitors to linger in nature.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "The Schellenberg playground in Loch offers diverse play opportunities for children.", "category": "family", "coords": [9.545982, 47.231859]}]},
+    id: "city-loch-schellenberg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ein Vogelpark und Naturschutzgebiet in Loch.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Die mittelalterlichen Ruinen der Burg Neu-Schellenberg in Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Die Überreste der Burg Alt-Schellenberg in Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Ein historisches Holzhaus und Museum in Loch.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Eine historische archäologische Stätte in Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Archäologische Stätte mit Spuren historischer Fahrwege in Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Birka",
+                  "text": "Ein geschütztes Naturareal in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.552254,
+                        47.215648
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Wisanels",
+                  "text": "Ein ökologisch bedeutsames Naturschutzgebiet in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.567699,
+                        47.219652
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Naturschutzgebiet rund um einen kleinen See in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet zur Erhaltung der Biodiversität in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Ein markanter Hügelzug im Fürstentum Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Als kultureller Treffpunkt in Loch fungiert die örtliche Musikschule. Sie ist in Liechtenstein eine wichtige Einrichtung sowohl für musikalische Bildung als auch für abwechslungsreiche kulturelle Veranstaltungen. Besucher können hier gelegentlich Vorführungen erleben und das lokale Kulturleben spüren.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Eine sakrale Stätte für Gebet und Besinnung in Loch.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Die katholische Pfarrkirche St. Fridolin prägt das Ortsbild in Loch. Ursprünglich als Pfarrkirche der Gemeinde Ruggell dienend, ist sie ein bedeutender religiöser Anlaufpunkt in Liechtenstein. Gäste erwartet ein Ort der Stille und der Besinnung inmitten der Ortschaft.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Loch bietet eine entspannte Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Loch ist ein kleines Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Loch ist ein ruhiger Ort für eine Pause am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Loch ist ein regionales Gewässer in einer ruhigen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Loch bietet eine friedliche Atmosphäre für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Loch ist ein idyllisches Ziel für Wanderer und Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Loch ist ein kleines Gewässer, das zur Entspannung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Loch bietet eine naturnahe Kulisse für kurze Ausflüge.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Loch ist im Sommer ein idealer Ort für eine Abkühlung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Loch ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Loch bietet abwechslungsreiche Spielmöglichkeiten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Ein wichtiges Mourschutzgebiet in der Nähe der Ortschaft Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Madárpark és természetvédelmi terület Loch településen.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Neu-Schellenberg várának középkori romjai Loch településen.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Alt-Schellenberg várának maradványai Loch településen.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Történelmi faház és múzeum Loch településen.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Történelmi régészeti lelőhely Loch településen.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Régészeti lelőhely történelmi kocsiútnyomokkal Loch településen.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Birka",
+                  "text": "Védett természeti terület Loch településen.",
+                  "category": "natural",
+                  "coords": [
+                        9.552254,
+                        47.215648
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Wisanels",
+                  "text": "Ökológiailag jelentős természetvédelmi terület Loch településen.",
+                  "category": "natural",
+                  "coords": [
+                        9.567699,
+                        47.219652
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Természetvédelmi terület egy kis tó körül Loch településen.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Biodiverzitás megőrzésére kijelölt természetvédelmi terület Loch településen.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Jelentős dombság Liechtenstein területén.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "A helyi Musikschule kulturális találkozóhelyként szolgál Loch területén. Liechtensteinben fontos intézmény mind a zenei oktatás, mind a változatos kulturális események szempontjából. A látogatók alkalmanként előadásokat is megtekinthetnek itt, és belekóstolhatnak a helyi kulturális életbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális hely imádkozásra és elcsendesedésre Loch településen.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "A St. Fridolin katolikus plébániatemplom meghatározza Loch utcaképét. Eredetileg Ruggell község plébániatemplomaként szolgált, és fontos vallási célpont Liechtensteinben. A vendégeket a csend és az elmélkedés helye várja a település közepén.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Loch településen található Mühleweiher pihentető környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Lochban fekvő Baggerloch Nägele egy kis tó, amely természetközeli pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Lochban található Baggerloch Wilhelm & Mayer csendes helyszín egy tóparti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Loch területén lévő Baggerloch Hilti & Jehle egy regionális tó csendes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Lochban található Baggersee Klostergatter békés légkört biztosít a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Loch közelében fekvő Sämtisersee idilli célpont a túrázók és természetbarátok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Lochban található Güfelsee egy kis tó, amely erdei relaxációra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Lochban fekvő Alte Rüttenen természetközeli helyszínt biztosít a rövid kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Lochban található Badesee nyáron ideális hely a vízparti felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Lochban lévő Sägaweiher egy csendes tó, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Lochban található schellenbergi játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Fontos lápvédelmi terület Loch településének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Un parc de păsări și rezervație naturală în Loch.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Ruinele medievale ale castelului Neu-Schellenberg în Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Vestigiile castelului Alt-Schellenberg în Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "O casă istorică din lemn și muzeu în Loch.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Un sit arheologic istoric în Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Sit arheologic cu urme de drumuri istorice în Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Birka",
+                  "text": "O zonă naturală protejată în Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.552254,
+                        47.215648
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Wisanels",
+                  "text": "O rezervație naturală de importanță ecologică în Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.567699,
+                        47.219652
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "O rezervație naturală în jurul unui mic lac în Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "O rezervație naturală desemnată pentru conservarea biodiversității în Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Un deal proeminent situat în Principatul Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Musikschule locală servește drept punct de întâlnire culturală în Loch. În Liechtenstein, este o instituție importantă atât pentru educația muzicală, cât și pentru diverse evenimente culturale. Vizitatorii pot asista ocazional la spectacole aici și pot simți viața culturală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un lăcaș de cult pentru rugăciune și reflecție în Loch.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Biserica parohială catolică St. Fridolin modelează peisajul urban din Loch. Servind inițial ca biserică parohială a municipalității Ruggell, este o destinație religioasă semnificativă în Liechtenstein. Oaspeții se pot aștepta la un loc de liniște și reflecție în mijlocul satului.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Loch oferă un cadru relaxant pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Loch este un lac mic care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Loch este un loc liniștit pentru o pauză pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Loch este un lac regional într-un cadru liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Loch oferă o atmosferă pașnică pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Loch este o destinație idilică pentru excursioniști și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Loch este un lac mic care invită la relaxare în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Loch oferă un cadru natural pentru scurte excursii.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Loch este un loc ideal pentru răcorire pe malul apei în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Loch este un luciu de apă liniștit care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Loch oferă posibilități de joacă variate pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "O rezervație importantă de mlaștină în apropierea localității Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A bird park and nature reserve located in Loch.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "The medieval ruins of Neu-Schellenberg castle in Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "The remains of Alt-Schellenberg castle in Loch.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "A historic wooden house and museum in Loch.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "A historical archaeological site located in Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Archaeological site featuring tracks of historical wagon paths in Loch.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Birka",
+                  "text": "A protected natural area in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.552254,
+                        47.215648
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Wisanels",
+                  "text": "An ecologically significant nature reserve in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.567699,
+                        47.219652
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "A nature reserve surrounding a small lake in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "A designated nature reserve for biodiversity conservation in Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "A prominent hill range in the Principality of Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "The local Musikschule serves as a cultural meeting point in Loch. In Liechtenstein, it is an important institution for both musical education and diverse cultural events. Visitors can occasionally experience performances here and feel the local cultural life.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred site for prayer and reflection in Loch.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "The Catholic parish church of St. Fridolin shapes the townscape in Loch. Originally serving as the parish church of the Ruggell municipality, it is a significant religious destination in Liechtenstein. Guests can expect a place of silence and reflection in the middle of the village.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Loch offers a relaxing backdrop for walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Loch is a small body of water that invites visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Loch is a quiet place for a break on the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Loch is a regional body of water in a quiet setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Loch offers a peaceful atmosphere for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Loch is an idyllic destination for hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Loch is a small lake that invites visitors to relax in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Loch offers a natural setting for short excursions.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Loch is an ideal spot for a summer cooldown by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Loch is a quiet body of water that invites visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Loch offers diverse play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "An important marshland nature reserve located near the village of Loch.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-008",
     coords: [9.5300, 47.2300],
@@ -71712,6 +75663,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Das Ruggeller Riet ist ein bedeutendes Moorgebiet und Naturschutzgebiet im Norden des Landes.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "hu": [
@@ -71947,6 +75907,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "A Ruggeller Riet egy jelentős lápos terület és természetvédelmi övezet az ország északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ],
@@ -72184,6 +76153,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Ruggeller Riet este o zonă mlăștinoasă importantă și o rezervație naturală în nordul țării.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "en": [
@@ -72419,6 +76397,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "The Ruggeller Riet is an important peat bog and nature reserve in the north of the country.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ]
@@ -74623,6 +78610,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Das Ruggeller Riet ist ein bedeutendes Moorgebiet und Naturschutzgebiet im Norden des Landes.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "hu": [
@@ -74876,6 +78872,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "A Ruggeller Riet egy jelentős lápos terület és természetvédelmi övezet az ország északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ],
@@ -75131,6 +79136,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.550738,
                         47.215569
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "Ruggeller Riet este o zonă mlăștinoasă importantă și o rezervație naturală în nordul țării.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
+                  ]
             }
       ],
       "en": [
@@ -75384,6 +79398,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.550738,
                         47.215569
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Ruggeller Riet",
+                  "text": "The Ruggeller Riet is an important peat bog and nature reserve in the north of the country.",
+                  "category": "natural",
+                  "coords": [
+                        9.547733,
+                        47.253876
                   ]
             }
       ]

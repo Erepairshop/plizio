@@ -948,7 +948,268 @@ export const switzerlandHistoryV2: POI[] = [
     image: "/poi-images/switzerland-valangin-castle-history-v2.webp",
   },
   {
-    id: "switzerland-saint-ursanne-walls-history-v2",
+    id: "switzerland-saint-ursanne-walls-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines du Château de Sainte Ursanne",
+                  "text": "Die historischen Ruinen einer mittelalterlichen Burg, die die Stadt überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        7.154505,
+                        47.367082
+                  ]
+            },
+            {
+                  "name": "Lapidarium",
+                  "text": "Ein Museum, das der Erhaltung von Steinartefakten und Skulpturen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.15385,
+                        47.365177
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Le Martinet",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von St. Ursanne, das für seine Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.135736,
+                        47.394609
+                  ]
+            },
+            {
+                  "name": "Pultberg",
+                  "text": "Ein Gipfel im Juragebirge, der für sein unterirdisches Forschungslabor bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.161269,
+                        47.391623
+                  ]
+            },
+            {
+                  "name": "St-Jean-Brücke",
+                  "text": "Eine historische Steinbrücke über den Doubs mit einer Statue des Heiligen Johannes.",
+                  "category": "landmark",
+                  "coords": [
+                        7.154764,
+                        47.36403
+                  ]
+            },
+            {
+                  "name": "Mont Russelin",
+                  "text": "Ein Berggipfel in der Schweizer Jura-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.202108,
+                        47.361154
+                  ]
+            },
+            {
+                  "name": "Le Caveau",
+                  "text": "Ein Galerieraum, der oft für Ausstellungen in einem historischen Ambiente genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        7.153373,
+                        47.3642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines du Château de Sainte Ursanne",
+                  "text": "Egy középkori vár történelmi romjai, amelyek a városra néznek.",
+                  "category": "castle",
+                  "coords": [
+                        7.154505,
+                        47.367082
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "Kőemlékek és szobrok megőrzésére szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.15385,
+                        47.365177
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Le Martinet",
+                  "text": "Természetvédelmi terület St. Ursanne közelében, amely biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.135736,
+                        47.394609
+                  ]
+            },
+            {
+                  "name": "Mont Terri",
+                  "text": "Egy csúcs a Jura-hegységben, amely földalatti kutatólaboratóriumáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.161269,
+                        47.391623
+                  ]
+            },
+            {
+                  "name": "Pont St-Jean",
+                  "text": "Egy történelmi kőhíd a Doubs folyón, Szent János szobrával.",
+                  "category": "landmark",
+                  "coords": [
+                        7.154764,
+                        47.36403
+                  ]
+            },
+            {
+                  "name": "Mont Russelin",
+                  "text": "Egy hegycsúcs a svájci Jura régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.202108,
+                        47.361154
+                  ]
+            },
+            {
+                  "name": "Le Caveau",
+                  "text": "Kiállítótér, amelyet gyakran használnak tárlatokhoz történelmi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        7.153373,
+                        47.3642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines du Château de Sainte Ursanne",
+                  "text": "Ruinele istorice ale unui castel medieval care domină orașul.",
+                  "category": "castle",
+                  "coords": [
+                        7.154505,
+                        47.367082
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "Un muzeu dedicat conservării artefactelor din piatră și a sculpturilor.",
+                  "category": "museum",
+                  "coords": [
+                        7.15385,
+                        47.365177
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Le Martinet",
+                  "text": "O arie naturală protejată cunoscută pentru biodiversitatea sa lângă St. Ursanne.",
+                  "category": "natural",
+                  "coords": [
+                        7.135736,
+                        47.394609
+                  ]
+            },
+            {
+                  "name": "Mont Terri",
+                  "text": "Un vârf în Munții Jura, cunoscut pentru laboratorul său de cercetare subteran.",
+                  "category": "landmark",
+                  "coords": [
+                        7.161269,
+                        47.391623
+                  ]
+            },
+            {
+                  "name": "Pont St-Jean",
+                  "text": "Un pod istoric de piatră peste râul Doubs, decorat cu o statuie a Sfântului Ioan.",
+                  "category": "landmark",
+                  "coords": [
+                        7.154764,
+                        47.36403
+                  ]
+            },
+            {
+                  "name": "Mont Russelin",
+                  "text": "Un vârf muntos situat în regiunea Jura din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.202108,
+                        47.361154
+                  ]
+            },
+            {
+                  "name": "Le Caveau",
+                  "text": "Un spațiu de galerie utilizat adesea pentru expoziții într-un cadru istoric.",
+                  "category": "museum",
+                  "coords": [
+                        7.153373,
+                        47.3642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines du Château de Sainte Ursanne",
+                  "text": "The historical ruins of a medieval castle overlooking the town.",
+                  "category": "castle",
+                  "coords": [
+                        7.154505,
+                        47.367082
+                  ]
+            },
+            {
+                  "name": "Musée Lapidaire",
+                  "text": "A museum dedicated to the preservation of stone artifacts and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        7.15385,
+                        47.365177
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Le Martinet",
+                  "text": "A protected natural area known for its biodiversity near St. Ursanne.",
+                  "category": "natural",
+                  "coords": [
+                        7.135736,
+                        47.394609
+                  ]
+            },
+            {
+                  "name": "Mont Terri",
+                  "text": "A peak in the Jura Mountains, known for its underground research laboratory.",
+                  "category": "landmark",
+                  "coords": [
+                        7.161269,
+                        47.391623
+                  ]
+            },
+            {
+                  "name": "Pont St-Jean",
+                  "text": "A historic stone bridge across the Doubs River featuring a statue of St. John.",
+                  "category": "landmark",
+                  "coords": [
+                        7.154764,
+                        47.36403
+                  ]
+            },
+            {
+                  "name": "Mont Russelin",
+                  "text": "A mountain peak located in the Swiss Jura region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.202108,
+                        47.361154
+                  ]
+            },
+            {
+                  "name": "Le Caveau",
+                  "text": "A gallery space often used for exhibitions in a historical setting.",
+                  "category": "museum",
+                  "coords": [
+                        7.153373,
+                        47.3642
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CH",
     name: { de: "Stadtbefestigung St. Ursanne", hu: "St. Ursanne városfalai", ro: "Fortificațiile orașului St. Ursanne", en: "St. Ursanne City Walls" },
@@ -993,7 +1254,304 @@ export const switzerlandHistoryV2: POI[] = [
     image: "/poi-images/switzerland-saint-ursanne-walls-history-v2.webp",
   },
   {
-    id: "switzerland-porrentruy-castle-history-v2",
+    id: "switzerland-porrentruy-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Ein Museum für Geschichte und Kunst im alten Krankenhaus von Porrentruy.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "Ein Naturkundemuseum in Porrentruy mit Fokus auf Fossilien der Jurazeit.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Eine prähistorische Megalithanlage in der Nähe von Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Eine imposante mittelalterliche Burganlage, die hoch über der Stadt Porrentruy thront.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "Ein lokales Theater und Kulturzentrum im Herzen von Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "Ein geschütztes Naturgebiet bei Porrentruy, das zur Erhaltung der lokalen Artenvielfalt dient.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "Ein ruhiges Naturschutzgebiet rund um einen malerischen Weiher bei Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            },
+            {
+                  "name": "O Vergers d'Ajoie - Musee suisse des fruits et de la destillation",
+                  "text": "Ein Museum, das dem Obstanbau und der traditionellen Destillationskunst der Region Ajoie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.089962,
+                        47.428458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Történeti és művészeti múzeum Porrentruy régi kórházában.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "Természettudományi múzeum Porrentruy-ban, középpontban a jura kori fosszíliákkal.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Prehisztorikus megalitikus emlék Porrentruy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Impozáns középkori várkomplexum, amely Porrentruy városa fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "Helyi színház és kulturális központ Porrentruy szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "Védett természeti terület Porrentruy közelében a helyi élővilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "Nyugodt természetvédelmi terület egy festői tó körül Porrentruy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            },
+            {
+                  "name": "O Vergers d'Ajoie - Musee suisse des fruits et de la destillation",
+                  "text": "Az Ajoie régió gyümölcstermesztésének és hagyományos lepárlási művészetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.089962,
+                        47.428458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de l'Hotel-Dieu",
+                  "text": "Un muzeu de istorie și artă situat în vechiul spital din Porrentruy.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "Un muzeu de istorie naturală din Porrentruy, axat pe fosile din perioada Jurasică.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "Un monument megalitic preistoric situat lângă Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "Un complex fortificat medieval impunător care domină orașul Porrentruy.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "Un teatru local și centru cultural în inima orașului Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "O arie naturală protejată lângă Porrentruy pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "O rezervație naturală liniștită în jurul unui iaz pitoresc lângă Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            },
+            {
+                  "name": "O Vergers d'Ajoie - Musee suisse des fruits et de la destillation",
+                  "text": "Un muzeu dedicat pomiculturii și artei distilării tradiționale din regiunea Ajoie.",
+                  "category": "museum",
+                  "coords": [
+                        7.089962,
+                        47.428458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musee de l'Hotel-Dieu",
+                  "text": "A museum of history and art located in the old hospital of Porrentruy.",
+                  "category": "museum",
+                  "coords": [
+                        7.075476,
+                        47.416617
+                  ]
+            },
+            {
+                  "name": "JURASSICA Museum",
+                  "text": "A natural history museum in Porrentruy focusing on Jurassic fossils.",
+                  "category": "museum",
+                  "coords": [
+                        7.07786,
+                        47.414208
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Percée",
+                  "text": "A prehistoric megalithic monument located near Porrentruy.",
+                  "category": "historical",
+                  "coords": [
+                        7.118823,
+                        47.406095
+                  ]
+            },
+            {
+                  "name": "Château de Porrentruy",
+                  "text": "An imposing medieval castle complex overlooking the town of Porrentruy.",
+                  "category": "castle",
+                  "coords": [
+                        7.07237,
+                        47.419464
+                  ]
+            },
+            {
+                  "name": "Salle de l’Inter",
+                  "text": "A local theatre and cultural venue in the heart of Porrentruy.",
+                  "category": "cultural",
+                  "coords": [
+                        7.07406,
+                        47.418249
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Banné",
+                  "text": "A protected nature reserve near Porrentruy dedicated to local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        7.074896,
+                        47.403549
+                  ]
+            },
+            {
+                  "name": "Étang Corbat",
+                  "text": "A peaceful nature reserve surrounding a scenic pond near Porrentruy.",
+                  "category": "natural",
+                  "coords": [
+                        7.062818,
+                        47.409374
+                  ]
+            },
+            {
+                  "name": "O Vergers d'Ajoie - Musee suisse des fruits et de la destillation",
+                  "text": "A museum dedicated to fruit growing and the traditional art of distillation in the Ajoie region.",
+                  "category": "museum",
+                  "coords": [
+                        7.089962,
+                        47.428458
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Porrentruy", hu: "Porrentruy-kastély", ro: "Castelul Porrentruy", en: "Porrentruy Castle" },
@@ -1623,7 +2181,268 @@ export const switzerlandHistoryV2: POI[] = [
     image: "/poi-images/switzerland-haldenstein-history-v2.webp",
   },
   {
-    id: "switzerland-castels-castle-history-v2",
+    id: "switzerland-castels-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chüenihorn",
+                  "text": "Ein Berggipfel in den Schweizer Alpen bei Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.814421,
+                        46.988486
+                  ]
+            },
+            {
+                  "name": "Chrüz",
+                  "text": "Ein Gipfel in der Region Graubünden in der Nähe der Burgruine Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774872,
+                        46.954934
+                  ]
+            },
+            {
+                  "name": "Chlei Chrüz",
+                  "text": "Ein kleinerer Berggipfel in der Umgebung von Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.781415,
+                        46.95598
+                  ]
+            },
+            {
+                  "name": "Alpbüel",
+                  "text": "Ein Berggipfel bei den Ruinen der Burg Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.765035,
+                        46.948257
+                  ]
+            },
+            {
+                  "name": "Riedbüel",
+                  "text": "Ein Berggipfel in der Nähe der Burgruine Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.792501,
+                        46.963265
+                  ]
+            },
+            {
+                  "name": "Gafäll",
+                  "text": "Ein Gipfel bei den Ruinen der Burg Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.768199,
+                        46.960297
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Antönien",
+                  "text": "Eine reformierte Kirche in der Umgebung der Burgruine Castels.",
+                  "category": "religious",
+                  "coords": [
+                        9.813968,
+                        46.969419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chüenihorn",
+                  "text": "Hegycsúcs a Svájci-Alpokban, Castels közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.814421,
+                        46.988486
+                  ]
+            },
+            {
+                  "name": "Chrüz",
+                  "text": "Hegycsúcs Graubünden kantonban, Castels várromja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774872,
+                        46.954934
+                  ]
+            },
+            {
+                  "name": "Chlei Chrüz",
+                  "text": "Kisebb hegycsúcs Castels környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.781415,
+                        46.95598
+                  ]
+            },
+            {
+                  "name": "Alpbüel",
+                  "text": "Hegycsúcs Castels várromjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.765035,
+                        46.948257
+                  ]
+            },
+            {
+                  "name": "Riedbüel",
+                  "text": "Hegycsúcs Castels várromjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.792501,
+                        46.963265
+                  ]
+            },
+            {
+                  "name": "Gafäll",
+                  "text": "Hegycsúcs Castels várromjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.768199,
+                        46.960297
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Antönien",
+                  "text": "Református templom Castels várromjainak környékén.",
+                  "category": "religious",
+                  "coords": [
+                        9.813968,
+                        46.969419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chüenihorn",
+                  "text": "Un vârf montan din Alpii Elvețieni, situat lângă Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.814421,
+                        46.988486
+                  ]
+            },
+            {
+                  "name": "Chrüz",
+                  "text": "Un vârf din regiunea Graubünden, aflat lângă ruinele castelului Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774872,
+                        46.954934
+                  ]
+            },
+            {
+                  "name": "Chlei Chrüz",
+                  "text": "Un vârf montan mai mic situat în împrejurimile localității Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.781415,
+                        46.95598
+                  ]
+            },
+            {
+                  "name": "Alpbüel",
+                  "text": "Un vârf muntos lângă ruinele castelului Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.765035,
+                        46.948257
+                  ]
+            },
+            {
+                  "name": "Riedbüel",
+                  "text": "Un vârf muntos în apropierea ruinelor castelului Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.792501,
+                        46.963265
+                  ]
+            },
+            {
+                  "name": "Gafäll",
+                  "text": "Un vârf de munte lângă ruinele castelului Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.768199,
+                        46.960297
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Antönien",
+                  "text": "O biserică reformată în zona ruinelor castelului Castels.",
+                  "category": "religious",
+                  "coords": [
+                        9.813968,
+                        46.969419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chüenihorn",
+                  "text": "A mountain peak in the Swiss Alps located near Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.814421,
+                        46.988486
+                  ]
+            },
+            {
+                  "name": "Chrüz",
+                  "text": "A peak in the Graubünden region near the Castels castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        9.774872,
+                        46.954934
+                  ]
+            },
+            {
+                  "name": "Chlei Chrüz",
+                  "text": "A smaller mountain peak located in the vicinity of Castels.",
+                  "category": "landmark",
+                  "coords": [
+                        9.781415,
+                        46.95598
+                  ]
+            },
+            {
+                  "name": "Alpbüel",
+                  "text": "A mountain peak located near the Castels castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        9.765035,
+                        46.948257
+                  ]
+            },
+            {
+                  "name": "Riedbüel",
+                  "text": "A peak situated in the vicinity of the Castels castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        9.792501,
+                        46.963265
+                  ]
+            },
+            {
+                  "name": "Gafäll",
+                  "text": "A mountain peak near the ruins of Castels Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        9.768199,
+                        46.960297
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Antönien",
+                  "text": "A reformed church located in the area of the Castels castle ruins.",
+                  "category": "religious",
+                  "coords": [
+                        9.813968,
+                        46.969419
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Castels", hu: "Castels várromok", ro: "Ruinele castelului Castels", en: "Castels Castle Ruins" },

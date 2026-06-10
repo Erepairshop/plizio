@@ -176,7 +176,304 @@ imageHint: "Peak District landscape with stone walls",
     },
     image: "/poi-images/uk-peak-district-life-v2.webp",
 },  {
-    id: "uk-lake-district-life-v2",
+    id: "uk-lake-district-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Prähistorische Steinritzungen an einem markanten Felsen im Great Langdale Tal.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "Eine bedeutende jungsteinzeitliche Stätte, an der Steinbeile hergestellt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Überreste prähistorischer Werkstätten zur Bearbeitung von Steinwerkzeugen.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Rätselhafte prähistorische Vertiefungen, die in die Oberfläche lokaler Felsen geritzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "Ein Fundplatz für die Produktion von Steinbeilen aus der Jungsteinzeit im Hochmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Eine antike Gewinnungsstätte für Steinmaterial, das zur Herstellung früher Werkzeuge diente.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Ein Berggipfel im Lake-District-Nationalpark in England.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Ein Gipfel im Lake-District-Nationalpark, bekannt für seine Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Praehisztorikus kővésetek egy jellegzetes sziklán a Great Langdale-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "Jelentős újkőkori lelőhely, ahol kőbaltákat készítettek.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Praehisztorikus kőeszköz-megmunkáló műhelyek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Rejtélyes praehisztorikus mélyedések, amelyeket a helyi sziklák felületébe véstek.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "Újkőkori kőbalta-készítő lelőhely a magaslati lápon.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Antik kőlelőhely, amely a korai eszközök készítéséhez szolgált alapanyaggal.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Hegycsúcs az angliai Lake District Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Hegycsúcs a Lake District Nemzeti Parkban, amely kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Gravuri rupestre preistorice pe o stâncă proeminentă din valea Great Langdale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "Un sit neolitic important unde au fost fabricate topoare de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Rămășițele unor ateliere preistorice de prelucrare a uneltelor de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Depresiuni preistorice enigmatice sculptate în suprafața stâncilor locale.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "Un sit de producție a topoarelor de piatră din neolitic pe mlaștina de altitudine.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "Un sit antic de extracție a materialului de piatră folosit pentru fabricarea uneltelor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "Un vârf muntos în Parcul Național Lake District din Anglia.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "Un vârf în Parcul Național Lake District, cunoscut pentru panoramele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Copt Howe Artwork Carvings",
+                  "text": "Prehistoric rock carvings on a prominent rock in the Great Langdale valley.",
+                  "category": "historical",
+                  "coords": [
+                        -3.05924,
+                        54.443253
+                  ]
+            },
+            {
+                  "name": "Langdale Axe Stone Quarry",
+                  "text": "A significant Neolithic site where stone axes were manufactured.",
+                  "category": "historical",
+                  "coords": [
+                        -3.120369,
+                        54.45591
+                  ]
+            },
+            {
+                  "name": "Axe Workings",
+                  "text": "Remains of prehistoric workshops for processing stone tools.",
+                  "category": "historical",
+                  "coords": [
+                        -3.109131,
+                        54.456719
+                  ]
+            },
+            {
+                  "name": "Cup mark artworks",
+                  "text": "Mysterious prehistoric depressions carved into the surface of local rocks.",
+                  "category": "historical",
+                  "coords": [
+                        -3.101849,
+                        54.440909
+                  ]
+            },
+            {
+                  "name": "Martcrag Moor Axe Factory",
+                  "text": "A Neolithic stone axe production site on the high moorland.",
+                  "category": "historical",
+                  "coords": [
+                        -3.131904,
+                        54.464883
+                  ]
+            },
+            {
+                  "name": "Stone Age Quarry",
+                  "text": "An ancient extraction site for stone material used to make early tools.",
+                  "category": "historical",
+                  "coords": [
+                        -3.095533,
+                        54.44986
+                  ]
+            },
+            {
+                  "name": "Calf Crag",
+                  "text": "A mountain peak located in the Lake District National Park in England.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.079473,
+                        54.484221
+                  ]
+            },
+            {
+                  "name": "Steel Fell",
+                  "text": "A peak in the Lake District National Park, known for its scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.052159,
+                        54.491158
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Lake-District-Nationalpark", hu: "Lake District Nemzeti Park", ro: "Parcul Național Lake District", en: "Lake District National Park"},
@@ -222,7 +519,268 @@ imageHint: "Lake District hills reflecting in a lake",
     },
     image: "/poi-images/uk-lake-district-life-v2.webp",
 },  {
-    id: "uk-snowdonia-life-v2",
+    id: "uk-snowdonia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Dieses römische Amphitheater ist eine archäologische Fundstelle im Snowdonia-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.923523,
+                        52.931972
+                  ]
+            },
+            {
+                  "name": "Tomen Y Mur Roman Fort",
+                  "text": "Tomen y Mur ist eine bedeutende römische Befestigungsanlage im Snowdonia-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.926428,
+                        52.929477
+                  ]
+            },
+            {
+                  "name": "Yr Ysgwrn",
+                  "text": "Yr Ysgwrn ist das historische Wohnhaus des Dichters Hedd Wyn im Snowdonia-Nationalpark.",
+                  "category": "museum",
+                  "coords": [
+                        -3.899768,
+                        52.894251
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp I",
+                  "text": "Dolddinas Camp I ist ein römisches Marschlager im Snowdonia-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.881084,
+                        52.92267
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp V",
+                  "text": "Dolddinas Camp V ist Teil einer Gruppe römischer Militäranlagen im Snowdonia-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885939,
+                        52.92342
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp III",
+                  "text": "Dolddinas Camp III ist eine archäologische Ausgrabungsstätte römischen Ursprungs in Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.883592,
+                        52.924202
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp IV",
+                  "text": "Dolddinas Camp IV gehört zu den römischen Verteidigungsanlagen im Snowdonia-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.884421,
+                        52.923301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Ez a római amfiteátrum egy régészeti lelőhely a Snowdonia Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.923523,
+                        52.931972
+                  ]
+            },
+            {
+                  "name": "Tomen Y Mur Roman Fort",
+                  "text": "Tomen y Mur egy jelentős római kori erődítmény a Snowdonia Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.926428,
+                        52.929477
+                  ]
+            },
+            {
+                  "name": "Yr Ysgwrn",
+                  "text": "Yr Ysgwrn Hedd Wyn költő történelmi lakóháza a Snowdonia Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -3.899768,
+                        52.894251
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp I",
+                  "text": "A Dolddinas Camp I egy római kori menetábor a Snowdonia Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.881084,
+                        52.92267
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp V",
+                  "text": "A Dolddinas Camp V a római katonai helyszínek csoportjához tartozik Snowdonia területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885939,
+                        52.92342
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp III",
+                  "text": "A Dolddinas Camp III egy római eredetű régészeti lelőhely Snowdonia területén.",
+                  "category": "historical",
+                  "coords": [
+                        -3.883592,
+                        52.924202
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp IV",
+                  "text": "A Dolddinas Camp IV a Snowdonia Nemzeti Park római védműveinek egyike.",
+                  "category": "historical",
+                  "coords": [
+                        -3.884421,
+                        52.923301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Acest amfiteatru roman este un sit arheologic în Parcul Național Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.923523,
+                        52.931972
+                  ]
+            },
+            {
+                  "name": "Tomen Y Mur Roman Fort",
+                  "text": "Tomen y Mur este o importantă fortificație romană din Parcul Național Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.926428,
+                        52.929477
+                  ]
+            },
+            {
+                  "name": "Yr Ysgwrn",
+                  "text": "Yr Ysgwrn este casa memorială a poetului Hedd Wyn, situată în Parcul Național Snowdonia.",
+                  "category": "museum",
+                  "coords": [
+                        -3.899768,
+                        52.894251
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp I",
+                  "text": "Dolddinas Camp I este o tabără romană situată în Parcul Național Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.881084,
+                        52.92267
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp V",
+                  "text": "Dolddinas Camp V face parte dintr-un grup de situri militare romane din Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885939,
+                        52.92342
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp III",
+                  "text": "Dolddinas Camp III este un sit arheologic de origine romană în Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.883592,
+                        52.924202
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp IV",
+                  "text": "Dolddinas Camp IV aparține fortificațiilor romane din Parcul Național Snowdonia.",
+                  "category": "historical",
+                  "coords": [
+                        -3.884421,
+                        52.923301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "This Roman amphitheatre is an archaeological site located in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.923523,
+                        52.931972
+                  ]
+            },
+            {
+                  "name": "Tomen Y Mur Roman Fort",
+                  "text": "Tomen y Mur is a significant Roman fort site located in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.926428,
+                        52.929477
+                  ]
+            },
+            {
+                  "name": "Yr Ysgwrn",
+                  "text": "Yr Ysgwrn is the historic farmhouse of the poet Hedd Wyn in Snowdonia National Park.",
+                  "category": "museum",
+                  "coords": [
+                        -3.899768,
+                        52.894251
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp I",
+                  "text": "Dolddinas Camp I is a Roman marching camp located in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.881084,
+                        52.92267
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp V",
+                  "text": "Dolddinas Camp V is part of a group of Roman military sites in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885939,
+                        52.92342
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp III",
+                  "text": "Dolddinas Camp III is an archaeological site of Roman origin in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.883592,
+                        52.924202
+                  ]
+            },
+            {
+                  "name": "Dolddinas Camp IV",
+                  "text": "Dolddinas Camp IV is one of the Roman defensive sites in Snowdonia National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.884421,
+                        52.923301
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Snowdonia-Nationalpark", hu: "Snowdonia Nemzeti Park", ro: "Parcul Național Snowdonia", en: "Snowdonia National Park"},
@@ -268,7 +826,160 @@ imageHint: "Mount Snowdon peak in North Wales",
     },
     image: "/poi-images/uk-snowdonia-life-v2.webp",
 },  {
-    id: "uk-cairngorms-life-v2",
+    id: "uk-cairngorms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beinn a' Chaorainn",
+                  "text": "Ein 1.083 Meter hoher Munro-Gipfel im Cairngorms-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.577587,
+                        57.093329
+                  ]
+            },
+            {
+                  "name": "Beinn Bhreac",
+                  "text": "Ein Berggipfel im Herzen des Cairngorms-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.554372,
+                        57.054698
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "Der zehnthöchste Berg der Britischen Inseln, gelegen in den Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "Ein markanter Gipfel in den südlichen Cairngorms, bekannt für seine Granitfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beinn a' Chaorainn",
+                  "text": "A Cairngorms Nemzeti Park egyik Munro-csúcsa, amely 1083 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.577587,
+                        57.093329
+                  ]
+            },
+            {
+                  "name": "Beinn Bhreac",
+                  "text": "Hegycsúcs a Cairngorms Nemzeti Park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.554372,
+                        57.054698
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "A Brit-szigetek tizedik legmagasabb hegye a Cairngorms-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "A déli Cairngorms egyik jelentős csúcsa, amely gránitszikláiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beinn a' Chaorainn",
+                  "text": "Un vârf Munro din Parcul Național Cairngorms, având o altitudine de 1.083 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.577587,
+                        57.093329
+                  ]
+            },
+            {
+                  "name": "Beinn Bhreac",
+                  "text": "Un vârf montan situat în inima Parcului Național Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.554372,
+                        57.054698
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "Al zecelea cel mai înalt munte din Insulele Britanice, situat în Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "Un vârf proeminent în sudul Cairngorms, cunoscut pentru bolovanii săi de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beinn a' Chaorainn",
+                  "text": "A Munro peak in the Cairngorms National Park reaching an elevation of 1,083 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.577587,
+                        57.093329
+                  ]
+            },
+            {
+                  "name": "Beinn Bhreac",
+                  "text": "A mountain peak located in the heart of the Cairngorms National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.554372,
+                        57.054698
+                  ]
+            },
+            {
+                  "name": "Beinn Mheadhoin",
+                  "text": "The tenth highest mountain in the British Isles, located in the Cairngorms.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.611476,
+                        57.095934
+                  ]
+            },
+            {
+                  "name": "Derry Cairngorm",
+                  "text": "A prominent Munro in the southern Cairngorms known for its granite boulders.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.622917,
+                        57.062718
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Cairngorms-Nationalpark", hu: "Cairngorms Nemzeti Park", ro: "Parcul Național Cairngorms", en: "Cairngorms National Park"},
@@ -588,7 +1299,88 @@ imageHint: "New Forest pony grazing in open woodland",
     },
     image: "/poi-images/uk-new-forest-life-v2.webp",
 },  {
-    id: "uk-loch-lomond-life-v2",
+    id: "uk-loch-lomond-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruinn a' Bheinn",
+                  "text": "Ein Berggipfel im Loch-Lomond-und-die-Trossachs-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.637423,
+                        56.211189
+                  ]
+            },
+            {
+                  "name": "Ben Lomond",
+                  "text": "Dieser prominente Berg am Ostufer von Loch Lomond ist ein beliebtes Wanderziel.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.633287,
+                        56.190362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruinn a' Bheinn",
+                  "text": "Egy hegycsúcs a Loch Lomond & The Trossachs Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.637423,
+                        56.211189
+                  ]
+            },
+            {
+                  "name": "Ben Lomond",
+                  "text": "A Loch Lomond keleti partján fekvő hegy népszerű túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.633287,
+                        56.190362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruinn a' Bheinn",
+                  "text": "Un vârf muntos în Parcul Național Loch Lomond & The Trossachs.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.637423,
+                        56.211189
+                  ]
+            },
+            {
+                  "name": "Ben Lomond",
+                  "text": "Acest munte proeminent de pe malul estic al lacului Loch Lomond este o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.633287,
+                        56.190362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruinn a' Bheinn",
+                  "text": "A mountain peak located within the Loch Lomond & The Trossachs National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.637423,
+                        56.211189
+                  ]
+            },
+            {
+                  "name": "Ben Lomond",
+                  "text": "This prominent mountain on the eastern shore of Loch Lomond is a popular hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.633287,
+                        56.190362
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Loch Lomond & The Trossachs", hu: "Loch Lomond & The Trossachs", ro: "Loch Lomond și The Trossachs", en: "Loch Lomond & The Trossachs"},
@@ -1017,7 +1809,88 @@ imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs",
     },
     image: "/poi-images/uk-bempton-cliffs-life-v2.webp",
 },  {
-    id: "uk-pembrokeshire-coast-national-park-life-v2",
+    id: "uk-pembrokeshire-coast-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Teilo's Church, Llandeloy",
+                  "text": "Eine mittelalterliche Kirche in Llandeloy, die im 20. Jahrhundert umfassend restauriert wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -5.116254,
+                        51.897519
+                  ]
+            },
+            {
+                  "name": "Llanedren",
+                  "text": "Ein lokales christliches Gotteshaus in der Region Pembrokeshire.",
+                  "category": "religious",
+                  "coords": [
+                        -5.063066,
+                        51.91336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Teilo's Church, Llandeloy",
+                  "text": "Középkori templom Llandeloy-ban, amelyet a 20. században restauráltak.",
+                  "category": "religious",
+                  "coords": [
+                        -5.116254,
+                        51.897519
+                  ]
+            },
+            {
+                  "name": "Llanedren",
+                  "text": "Helyi keresztény templom Pembrokeshire régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.063066,
+                        51.91336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Teilo's Church, Llandeloy",
+                  "text": "O biserică medievală în Llandeloy, restaurată extensiv în secolul al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -5.116254,
+                        51.897519
+                  ]
+            },
+            {
+                  "name": "Llanedren",
+                  "text": "Un lăcaș de cult creștin local în regiunea Pembrokeshire.",
+                  "category": "religious",
+                  "coords": [
+                        -5.063066,
+                        51.91336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Teilo's Church, Llandeloy",
+                  "text": "A medieval church in Llandeloy, extensively restored in the 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        -5.116254,
+                        51.897519
+                  ]
+            },
+            {
+                  "name": "Llanedren",
+                  "text": "A local Christian place of worship in the Pembrokeshire region.",
+                  "category": "religious",
+                  "coords": [
+                        -5.063066,
+                        51.91336
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Pembrokeshire-Coast-Nationalpark", hu: "Pembrokeshire-parti Nemzeti Park", ro: "Parcul Național Coastă Pembrokeshire", en: "Pembrokeshire Coast National Park"},
@@ -1063,7 +1936,160 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
     },
     image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp",
 },  {
-    id: "uk-exmoor-national-park-life-v2",
+    id: "uk-exmoor-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Road Castle",
+                  "text": "Überreste einer alten eisenzeitlichen Befestigung in Exmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.626331,
+                        51.126195
+                  ]
+            },
+            {
+                  "name": "Exmoor National Park",
+                  "text": "Ein weitläufiges Schutzgebiet, das für seine Moorlandschaften bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.646426,
+                        51.134529
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Eine historische Pfarrkirche in einer malerischen Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        -3.649386,
+                        51.108009
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene",
+                  "text": "Eine alte Kirche mit traditioneller Architektur im Nationalpark.",
+                  "category": "religious",
+                  "coords": [
+                        -3.634129,
+                        51.134343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Road Castle",
+                  "text": "Egy ősi vaskori erődítmény maradványai Exmoorban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.626331,
+                        51.126195
+                  ]
+            },
+            {
+                  "name": "Exmoor National Park",
+                  "text": "Lápvidékeiről ismert kiterjedt védett terület.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.646426,
+                        51.134529
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Történelmi plébániatemplom festői környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        -3.649386,
+                        51.108009
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene",
+                  "text": "Régi templom hagyományos építészettel a nemzeti parkban.",
+                  "category": "religious",
+                  "coords": [
+                        -3.634129,
+                        51.134343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Road Castle",
+                  "text": "Rămășițele unei vechi fortificații din epoca fierului în Exmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.626331,
+                        51.126195
+                  ]
+            },
+            {
+                  "name": "Exmoor National Park",
+                  "text": "O zonă protejată vastă, cunoscută pentru peisajele sale de mlaștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.646426,
+                        51.134529
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "O biserică parohială istorică într-un cadru pitoresc.",
+                  "category": "religious",
+                  "coords": [
+                        -3.649386,
+                        51.108009
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene",
+                  "text": "O biserică veche cu arhitectură tradițională în parcul național.",
+                  "category": "religious",
+                  "coords": [
+                        -3.634129,
+                        51.134343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Road Castle",
+                  "text": "The remains of an ancient Iron Age fortification in Exmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.626331,
+                        51.126195
+                  ]
+            },
+            {
+                  "name": "Exmoor National Park",
+                  "text": "A vast protected area known for its moorland landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.646426,
+                        51.134529
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "A historic parish church in a picturesque setting.",
+                  "category": "religious",
+                  "coords": [
+                        -3.649386,
+                        51.108009
+                  ]
+            },
+            {
+                  "name": "St Mary Magdalene",
+                  "text": "An old church with traditional architecture in the national park.",
+                  "category": "religious",
+                  "coords": [
+                        -3.634129,
+                        51.134343
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Exmoor-Nationalpark", hu: "Exmoor Nemzeti Park", ro: "Parcul Național Exmoor", en: "Exmoor National Park"},
@@ -1110,7 +2136,268 @@ imageHint: "Exmoor National Park moorland and wild ponies",
     image: "/poi-images/uk-exmoor-national-park-life-v2.webp",
 },
   {
-    id: "uk-dartmoor-life-v2",
+    id: "uk-dartmoor-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "Eine prähistorische Steinsetzung im Dartmoor-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Ein prähistorischer Menhir oder stehender Stein im Dartmoor-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Eine historische oder archäologische Stätte innerhalb des Dartmoor-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Ein prähistorischer Grabhügel aus Steinen im Dartmoor-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "Eine archäologische Stätte im Dartmoor, die Überreste einer alten Steinsetzung umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Hut circle",
+                  "text": "Die Fundamente prähistorischer Rundhütten, die typisch für die Landschaft von Dartmoor sind.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885231,
+                        50.574076
+                  ]
+            },
+            {
+                  "name": "Bellever Tor",
+                  "text": "Ein bekannter Granitfelsen im Dartmoor, der weite Ausblicke über den Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.915474,
+                        50.571932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "Őskori kőalakzat a Dartmoor Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Őskori menhir vagy álló kő a Dartmoor Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Történelmi vagy régészeti helyszín a Dartmoor Nemzeti Parkon belül.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Őskori kövekből álló sírhalom a Dartmoor Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "Régészeti lelőhely Dartmoorban, amely egy ősi kőalakzat maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Hut circle",
+                  "text": "Őskori kerek kunyhók alapjai, amelyek jellemzőek Dartmoor tájára.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885231,
+                        50.574076
+                  ]
+            },
+            {
+                  "name": "Bellever Tor",
+                  "text": "Ismert gránitszikla Dartmoorban, amely széles kilátást nyújt a nemzeti parkra.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.915474,
+                        50.571932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "O structură de piatră preistorică în Parcul Național Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "Un menhir preistoric sau o piatră verticală în Parcul Național Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "Un sit istoric sau arheologic în cadrul Parcului Național Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "Un tumul preistoric din pietre în Parcul Național Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "Un sit arheologic în Dartmoor, cuprinzând resturile unei vechi structuri de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Hut circle",
+                  "text": "Fundațiile unor colibe circulare preistorice, tipice pentru peisajul din Dartmoor.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885231,
+                        50.574076
+                  ]
+            },
+            {
+                  "name": "Bellever Tor",
+                  "text": "O formațiune de granit cunoscută în Dartmoor, oferind vederi largi asupra parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.915474,
+                        50.571932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraps Ring",
+                  "text": "A prehistoric stone setting in Dartmoor National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.916353,
+                        50.587236
+                  ]
+            },
+            {
+                  "name": "Loughtor Man",
+                  "text": "A prehistoric menhir or standing stone in Dartmoor National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.904342,
+                        50.562601
+                  ]
+            },
+            {
+                  "name": "The Judge's Chair",
+                  "text": "A historical or archaeological site within Dartmoor National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.912682,
+                        50.555188
+                  ]
+            },
+            {
+                  "name": "Cairn",
+                  "text": "A prehistoric stone mound or burial cairn in Dartmoor National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -3.882709,
+                        50.570863
+                  ]
+            },
+            {
+                  "name": "Outer Huccaby Ring",
+                  "text": "An archaeological site in Dartmoor comprising the remains of an ancient stone setting.",
+                  "category": "historical",
+                  "coords": [
+                        -3.899326,
+                        50.554137
+                  ]
+            },
+            {
+                  "name": "Hut circle",
+                  "text": "The foundations of prehistoric circular huts, typical of the Dartmoor landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -3.885231,
+                        50.574076
+                  ]
+            },
+            {
+                  "name": "Bellever Tor",
+                  "text": "A well-known granite tor in Dartmoor, offering wide views over the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.915474,
+                        50.571932
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Dartmoor-Nationalpark", hu: "Dartmoor Nemzeti Park", ro: "Parcul Național Dartmoor", en: "Dartmoor National Park"},

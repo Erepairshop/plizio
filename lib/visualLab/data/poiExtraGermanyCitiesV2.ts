@@ -414,6 +414,60 @@ export const germanyCitiesV2: POI[] = [
                         9.283402,
                         48.488779
                   ]
+            },
+            {
+                  "name": "Kunstmuseum Reutlingen | konkret",
+                  "text": "Das Museum präsentiert internationale Werke der konkreten und konstruktiven Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        9.207026,
+                        48.493523
+                  ]
+            },
+            {
+                  "name": "Theater Reutlingen Die Tonne",
+                  "text": "Ein traditionsreiches Theater in Reutlingen mit einem Fokus auf zeitgenössische Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.206325,
+                        48.489695
+                  ]
+            },
+            {
+                  "name": "Schloss Pfullingen",
+                  "text": "Das ehemalige Jagdschloss der württembergischen Herzöge prägt heute das Stadtbild von Pfullingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.222271,
+                        48.466708
+                  ]
+            },
+            {
+                  "name": "Baumannsche Muhle / Trachtenmuseum",
+                  "text": "Die historische Mühle beherbergt heute eine bedeutende Sammlung regionaler Trachten.",
+                  "category": "museum",
+                  "coords": [
+                        9.224071,
+                        48.465646
+                  ]
+            },
+            {
+                  "name": "Naturtheater Reutlingen",
+                  "text": "Eine Freilichtbühne in Reutlingen, die regelmäßig Theateraufführungen unter freiem Himmel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.187028,
+                        48.470471
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Eningen",
+                  "text": "Das Museum vermittelt Einblicke in die dörfliche Geschichte und Alltagskultur von Eningen.",
+                  "category": "museum",
+                  "coords": [
+                        9.259667,
+                        48.486259
+                  ]
             }
       ],
       "hu": [
@@ -729,6 +783,60 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.283402,
                         48.488779
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Reutlingen | konkret",
+                  "text": "A múzeum a konkrét és konstruktív művészet nemzetközi alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.207026,
+                        48.493523
+                  ]
+            },
+            {
+                  "name": "Theater Reutlingen Die Tonne",
+                  "text": "Nagy múltú reutlingeni színház, amely a kortárs előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        9.206325,
+                        48.489695
+                  ]
+            },
+            {
+                  "name": "Schloss Pfullingen",
+                  "text": "A württembergi hercegek egykori vadászkastélya ma Pfullingen városképét meghatározó épület.",
+                  "category": "castle",
+                  "coords": [
+                        9.222271,
+                        48.466708
+                  ]
+            },
+            {
+                  "name": "Baumannsche Muhle / Trachtenmuseum",
+                  "text": "A történelmi malom ma a regionális népviseletek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.224071,
+                        48.465646
+                  ]
+            },
+            {
+                  "name": "Naturtheater Reutlingen",
+                  "text": "Szabadtéri színpad Reutlingenben, amely rendszeresen kínál színházi előadásokat a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.187028,
+                        48.470471
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Eningen",
+                  "text": "A múzeum betekintést nyújt Eningen falusi történetébe és mindennapi kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        9.259667,
+                        48.486259
                   ]
             }
       ],
@@ -1046,6 +1154,60 @@ export const germanyCitiesV2: POI[] = [
                         9.283402,
                         48.488779
                   ]
+            },
+            {
+                  "name": "Kunstmuseum Reutlingen | konkret",
+                  "text": "Muzeul prezintă lucrări internaționale de artă concretă și constructivistă.",
+                  "category": "museum",
+                  "coords": [
+                        9.207026,
+                        48.493523
+                  ]
+            },
+            {
+                  "name": "Theater Reutlingen Die Tonne",
+                  "text": "Un teatru cu tradiție în Reutlingen, cu un accent pe punerile în scenă contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        9.206325,
+                        48.489695
+                  ]
+            },
+            {
+                  "name": "Schloss Pfullingen",
+                  "text": "Fostul castel de vânătoare al ducilor de Württemberg definește astăzi imaginea orașului Pfullingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.222271,
+                        48.466708
+                  ]
+            },
+            {
+                  "name": "Baumannsche Muhle / Trachtenmuseum",
+                  "text": "Moara istorică găzduiește astăzi o colecție importantă de costume populare regionale.",
+                  "category": "museum",
+                  "coords": [
+                        9.224071,
+                        48.465646
+                  ]
+            },
+            {
+                  "name": "Naturtheater Reutlingen",
+                  "text": "O scenă în aer liber în Reutlingen, care oferă regulat spectacole de teatru sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        9.187028,
+                        48.470471
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Eningen",
+                  "text": "Muzeul oferă perspective asupra istoriei rurale și culturii cotidiene din Eningen.",
+                  "category": "museum",
+                  "coords": [
+                        9.259667,
+                        48.486259
+                  ]
             }
       ],
       "en": [
@@ -1361,6 +1523,60 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.283402,
                         48.488779
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Reutlingen | konkret",
+                  "text": "The museum presents international works of concrete and constructive art.",
+                  "category": "museum",
+                  "coords": [
+                        9.207026,
+                        48.493523
+                  ]
+            },
+            {
+                  "name": "Theater Reutlingen Die Tonne",
+                  "text": "A traditional theatre in Reutlingen with a focus on contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        9.206325,
+                        48.489695
+                  ]
+            },
+            {
+                  "name": "Schloss Pfullingen",
+                  "text": "The former hunting lodge of the Dukes of Württemberg is a landmark in the town of Pfullingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.222271,
+                        48.466708
+                  ]
+            },
+            {
+                  "name": "Baumannsche Muhle / Trachtenmuseum",
+                  "text": "The historical mill now houses an important collection of regional traditional costumes.",
+                  "category": "museum",
+                  "coords": [
+                        9.224071,
+                        48.465646
+                  ]
+            },
+            {
+                  "name": "Naturtheater Reutlingen",
+                  "text": "An open-air stage in Reutlingen that regularly offers theatrical performances under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        9.187028,
+                        48.470471
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum Eningen",
+                  "text": "The museum provides insights into the village history and everyday culture of Eningen.",
+                  "category": "museum",
+                  "coords": [
+                        9.259667,
+                        48.486259
                   ]
             }
       ]
@@ -14062,6 +14278,15 @@ export const germanyCitiesV2: POI[] = [
                         8.225751,
                         48.726274
                   ]
+            },
+            {
+                  "name": "Markbach und Jagdhauser Wald",
+                  "text": "Ein ausgedehntes bewaldetes Naturschutzgebiet bei Baden-Baden.",
+                  "category": "natural",
+                  "coords": [
+                        8.191766,
+                        48.770917
+                  ]
             }
       ],
       "hu": [
@@ -14504,6 +14729,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.225751,
                         48.726274
+                  ]
+            },
+            {
+                  "name": "Markbach und Jagdhauser Wald",
+                  "text": "Kiterjedt erdős természetvédelmi terület Baden-Baden mellett.",
+                  "category": "natural",
+                  "coords": [
+                        8.191766,
+                        48.770917
                   ]
             }
       ],
@@ -14948,6 +15182,15 @@ export const germanyCitiesV2: POI[] = [
                         8.225751,
                         48.726274
                   ]
+            },
+            {
+                  "name": "Markbach und Jagdhauser Wald",
+                  "text": "O rezervație naturală forestieră extinsă lângă Baden-Baden.",
+                  "category": "natural",
+                  "coords": [
+                        8.191766,
+                        48.770917
+                  ]
             }
       ],
       "en": [
@@ -15390,6 +15633,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.225751,
                         48.726274
+                  ]
+            },
+            {
+                  "name": "Markbach und Jagdhauser Wald",
+                  "text": "An extensive forested nature reserve near Baden-Baden.",
+                  "category": "natural",
+                  "coords": [
+                        8.191766,
+                        48.770917
                   ]
             }
       ]

@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const romaniaReliefV2: POI[] = [
 
   {
-    id: "romania-parangul-mare-relief-v2",
+    id: "romania-parangul-mare-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gruiu",
+                  "text": "Ein markanter Berggipfel im Parâng-Gebirge, der weite Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Ein hoher Berggipfel im Parâng-Massiv der Südkarpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Ein malerischer Gipfel im Parâng-Gebirge, der für sein schroffes Gelände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Mit 2.519 Metern ist dies der höchste Gipfel des Parâng-Gebirges in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gruiu",
+                  "text": "Jelentős hegycsúcs a Páring-hegységben, amely tágas kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Magas hegycsúcs a Déli-Kárpátok Páring-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Festői hegycsúcs a Páring-hegységben, amely zord terepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Nagy-Páring",
+                  "text": "A maga 2519 méterével ez a romániai Páring-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gruiu",
+                  "text": "Un vârf montan proeminent situat în munții Parâng, oferind vederi largi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Un vârf montan înalt situat în masivul Parâng din Carpații Meridionali.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Un vârf pitoresc din munții Parâng, cunoscut pentru terenul său accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Cu o înălțime de 2.519 metri, acesta este cel mai înalt vârf din munții Parâng din România.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruiu",
+                  "text": "A prominent mountain peak located in the Parâng Mountains range.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "A high mountain peak situated in the Parâng massif of the Southern Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "A scenic peak in the Parâng Mountains known for its rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "At 2,519 metres, this is the highest peak of the Parâng Mountains in Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Parângul Mare", hu: "Parângul Mare", ro: "Parângul Mare", en: "Parângul Mare" },
@@ -48,7 +201,124 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-parangul-mare-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-papusa-relief-v2",
+    id: "romania-vfrful-papusa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Păpușa",
+                  "text": "Ein markanter Berggipfel in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061188,
+                        45.504987
+                  ]
+            },
+            {
+                  "name": "Cascue",
+                  "text": "Ein Gipfel im Gebirgsmassiv des Păpușa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.064793,
+                        45.516421
+                  ]
+            },
+            {
+                  "name": "Piscul Dracsin",
+                  "text": "Ein Berggipfel im Păpușa-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        25.086468,
+                        45.53808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Păpușa",
+                  "text": "Jelentős hegycsúcs a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061188,
+                        45.504987
+                  ]
+            },
+            {
+                  "name": "Cascue",
+                  "text": "Hegycsúcs a Păpușa-hegység területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.064793,
+                        45.516421
+                  ]
+            },
+            {
+                  "name": "Piscul Dracsin",
+                  "text": "Hegyi csúcs a Păpușa-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.086468,
+                        45.53808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Păpușa",
+                  "text": "Un vârf muntos proeminent din Carpații Meridionali.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061188,
+                        45.504987
+                  ]
+            },
+            {
+                  "name": "Cascue",
+                  "text": "Un vârf muntos situat în masivul Păpușa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.064793,
+                        45.516421
+                  ]
+            },
+            {
+                  "name": "Piscul Dracsin",
+                  "text": "Un vârf muntos în masivul Păpușa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.086468,
+                        45.53808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Păpușa",
+                  "text": "A prominent mountain peak in the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.061188,
+                        45.504987
+                  ]
+            },
+            {
+                  "name": "Cascue",
+                  "text": "A mountain peak located in the Păpușa massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.064793,
+                        45.516421
+                  ]
+            },
+            {
+                  "name": "Piscul Dracsin",
+                  "text": "A mountain peak in the Păpușa massif.",
+                  "category": "landmark",
+                  "coords": [
+                        25.086468,
+                        45.53808
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Păpușa", hu: "Păpușa-csúcs", ro: "Vârful Păpușa", en: "Păpușa Peak" },
@@ -273,7 +543,268 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-podisul-transilvaniei-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-lespezi-relief-v2",
+    id: "romania-vfrful-lespezi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lăițel",
+                  "text": "Ein markanter Berggipfel im Făgăraș-Gebirge in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "Der zweithöchste Berggipfel Rumäniens im Făgăraș-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Ein felsiger Berggipfel im Făgăraș-Massiv, bekannt für seinen scharfen Grat.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Ein hoher Berggipfel im Făgăraș-Gebirge mit beeindruckender alpiner Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Ein Berggipfel im Făgăraș-Massiv in der Nähe des gleichnamigen Gletschersees.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Ein Berggipfel in der hochalpinen Zone des Făgăraș-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Curba lui Zavate",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Gebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.609369,
+                        45.571721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kis-Lajta-csúcs",
+                  "text": "Jelentős hegycsúcs a romániai Fogarasi-havasokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoj-csúcs",
+                  "text": "Románia második legmagasabb hegycsúcsa a Fogarasi-havasokban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Serbota-csúcs",
+                  "text": "Sziklás hegycsúcs a Fogarasi-havasokban, éles gerincéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Leszpez-csúcs",
+                  "text": "Magas hegycsúcs a Fogarasi-havasokban, lenyűgöző alpesi tájjal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Kalcun-csúcs",
+                  "text": "Hegycsúcs a Fogarasi-havasokban, az azonos nevű gleccsertó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Hegycsúcs a Fogarasi-havasok magashegyi zónájában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Curba lui Zavate",
+                  "text": "Panorámás kilátópont, amely lenyűgöző kilátást nyújt a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        24.609369,
+                        45.571721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lăițel",
+                  "text": "Un vârf montan proeminent din Munții Făgăraș, situat în România.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "Al doilea cel mai înalt vârf din România, situat în Munții Făgăraș.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Un vârf montan stâncos din Munții Făgăraș, cunoscut pentru creasta sa ascuțită.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Un vârf montan înalt din Munții Făgăraș, oferind peisaje alpine impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Un vârf montan din Munții Făgăraș, situat lângă lacul glaciar cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Un vârf montan situat în zona alpină înaltă a Munților Făgăraș.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Curba lui Zavate",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        24.609369,
+                        45.571721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lăițel",
+                  "text": "A prominent mountain peak in the Făgăraș Mountains of Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "The second highest peak in Romania, located in the Făgăraș Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "A rocky mountain peak in the Făgăraș range, known for its sharp ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "A high mountain peak in the Făgăraș Mountains, offering impressive alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "A mountain peak in the Făgăraș range, located near the glacial lake of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "A mountain peak located in the high alpine zone of the Făgăraș Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            },
+            {
+                  "name": "Curba lui Zavate",
+                  "text": "A scenic viewpoint offering panoramic vistas of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.609369,
+                        45.571721
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Lespezi", hu: "Lespezi-csúcs", ro: "Vârful Lespezi", en: "Lespezi Peak" },
@@ -363,7 +894,160 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-vanatarea-lui-buteanu-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-parangul-mic-relief-v2",
+    id: "romania-vfrful-parangul-mic-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gruiu",
+                  "text": "Ein Berggipfel im Parâng-Gebirge in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Ein markanter Gipfel in der alpinen Landschaft des Parâng-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Ein Berggipfel in den Südkarpaten Rumäniens.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Der höchste Gipfel des Parâng-Gebirges mit einer Höhe von 2519 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gruiu",
+                  "text": "Hegycsúcs a Páring-hegységben, a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Jellegzetes csúcs a Páring-hegység alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Hegycsúcs Románia Déli-Kárpátjaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Nagy-Páring",
+                  "text": "A Páring-hegység legmagasabb csúcsa, 2519 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gruiu",
+                  "text": "Un vârf montan în munții Parâng din Carpații românești.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Un vârf proeminent în peisajul alpin al munților Parâng.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Un vârf montan situat în Carpații Meridionali ai României.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Cel mai înalt vârf din munții Parâng, având o înălțime de 2519 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruiu",
+                  "text": "A mountain peak in the Parâng Mountains of the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "A prominent peak in the alpine landscape of the Parâng Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "A mountain peak located in the Southern Carpathians of Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "The highest peak in the Parâng Mountains, with an elevation of 2519 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Parângul Mic", hu: "Parângul Mic", ro: "Vârful Parângul Mic", en: "Parângul Mic Peak" },
@@ -408,7 +1092,88 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-parangul-mic-relief-v2.webp",
   },
   {
-    id: "romania-muntii-capatanii-relief-v2",
+    id: "romania-muntii-capatanii-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "Ein Naturschutzgebiet mit geschützten Wäldern im Latorița-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Chica Popii",
+                  "text": "Ein Berggipfel im Căpățânii-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991422,
+                        45.364461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "Természetvédelmi terület védett erdőkkel a Latorița-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Chica Popii",
+                  "text": "Egy hegycsúcs a Căpățânii-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991422,
+                        45.364461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "O rezervație naturală cu păduri protejate în Valea Latoriței.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Chica Popii",
+                  "text": "Un vârf montan în munții Căpățânii.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991422,
+                        45.364461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "A nature reserve featuring protected forests in the Latorița Valley.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Chica Popii",
+                  "text": "A mountain peak in the Căpățânii Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.991422,
+                        45.364461
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO",
     name: { de: "Căpățâna-Gebirge", hu: "Căpățâna-hegység", ro: "Munții Căpățânii", en: "Căpățânii Mountains" },
@@ -453,7 +1218,88 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-muntii-capatanii-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-lespezi-capatanii-relief-v2",
+    id: "romania-vfrful-lespezi-capatanii-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "Ein Naturschutzgebiet mit geschützten Waldflächen im Latorița-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Aria Protejată Târnovu Mare - Latorița",
+                  "text": "Ein Schutzgebiet in den Karpaten, bekannt für seine alpine Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        23.887012,
+                        45.3669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "Természetvédelmi terület védett erdőkkel a Latorița-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Aria Protejată Târnovu Mare - Latorița",
+                  "text": "Természetvédelmi terület a Kárpátokban, mely hegyvidéki tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.887012,
+                        45.3669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "O rezervație naturală cu suprafețe forestiere protejate în Munții Latoriței.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Aria Protejată Târnovu Mare - Latorița",
+                  "text": "O arie protejată din Carpați, cunoscută pentru peisajele sale montane.",
+                  "category": "natural",
+                  "coords": [
+                        23.887012,
+                        45.3669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pădurea Latorița",
+                  "text": "A nature reserve featuring protected forest areas in the Latorița Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        23.924007,
+                        45.378969
+                  ]
+            },
+            {
+                  "name": "Aria Protejată Târnovu Mare - Latorița",
+                  "text": "A protected area in the Carpathians known for its mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        23.887012,
+                        45.3669
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Lespezi (Căpățânii)", hu: "Lespezi-csúcs (Căpățâna)", ro: "Vârful Lespezi (Căpățânii)", en: "Lespezi Peak (Căpățânii)" },
@@ -498,7 +1344,160 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-lespezi-capatanii-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-pades-relief-v2",
+    id: "romania-vfrful-pades-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Repezi",
+                  "text": "Ein Berggipfel in der Region Padeș, Teil der südlichen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.860157,
+                        45.387165
+                  ]
+            },
+            {
+                  "name": "Ștevia",
+                  "text": "Ein markanter Gipfel in der Nähe des Padeș-Gipfels mit Blick auf das rumänische Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        23.866142,
+                        45.420643
+                  ]
+            },
+            {
+                  "name": "Plaiul Poienii",
+                  "text": "Ein malerischer Gipfel im Padeș-Gebiet, bekannt für seine Almwiesen und Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        23.846627,
+                        45.416919
+                  ]
+            },
+            {
+                  "name": "Frătoşteanu Mic",
+                  "text": "Ein natürlicher Berggipfel in der Region Padeș Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.821097,
+                        45.394324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Repezi",
+                  "text": "Hegycsúcs a Padeș régióban, a Déli-Kárpátok hegységének része.",
+                  "category": "landmark",
+                  "coords": [
+                        23.860157,
+                        45.387165
+                  ]
+            },
+            {
+                  "name": "Ștevia",
+                  "text": "Jelentős csúcs a Padeș-csúcs közelében, kilátással a zord román felföldre.",
+                  "category": "landmark",
+                  "coords": [
+                        23.866142,
+                        45.420643
+                  ]
+            },
+            {
+                  "name": "Plaiul Poienii",
+                  "text": "Festői hegycsúcs a Padeș környékén, amely alpesi rétjeiről és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.846627,
+                        45.416919
+                  ]
+            },
+            {
+                  "name": "Frătoşteanu Mic",
+                  "text": "Egy természetes hegycsúcs Padeș Peak környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.821097,
+                        45.394324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Repezi",
+                  "text": "Un vârf muntos situat în regiunea Padeș, parte a lanțului muntos al Carpaților Meridionali.",
+                  "category": "landmark",
+                  "coords": [
+                        23.860157,
+                        45.387165
+                  ]
+            },
+            {
+                  "name": "Ștevia",
+                  "text": "Un vârf proeminent lângă vârful Padeș, oferind vederi asupra ținuturilor înalte ale României.",
+                  "category": "landmark",
+                  "coords": [
+                        23.866142,
+                        45.420643
+                  ]
+            },
+            {
+                  "name": "Plaiul Poienii",
+                  "text": "Un vârf pitoresc în zona Padeș, cunoscut pentru pajiștile sale alpine și potecile de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        23.846627,
+                        45.416919
+                  ]
+            },
+            {
+                  "name": "Frătoşteanu Mic",
+                  "text": "Un vârf muntos natural situat în zona Padeș Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.821097,
+                        45.394324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Repezi",
+                  "text": "A mountain peak located in the Padeș region, part of the southern Carpathian mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        23.860157,
+                        45.387165
+                  ]
+            },
+            {
+                  "name": "Ștevia",
+                  "text": "A prominent summit near Padeș Peak, offering views of the rugged Romanian highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        23.866142,
+                        45.420643
+                  ]
+            },
+            {
+                  "name": "Plaiul Poienii",
+                  "text": "A scenic peak in the Padeș area, known for its traditional alpine meadows and hiking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        23.846627,
+                        45.416919
+                  ]
+            },
+            {
+                  "name": "Frătoşteanu Mic",
+                  "text": "A natural mountain peak located in the Padeș Peak area.",
+                  "category": "landmark",
+                  "coords": [
+                        23.821097,
+                        45.394324
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Padeș", hu: "Padeș-csúcs", ro: "Vârful Padeș", en: "Padeș Peak" },
@@ -543,7 +1542,88 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-pades-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-parangul-mare-v2-relief-v2",
+    id: "romania-vfrful-parangul-mare-v2-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slivei",
+                  "text": "Ein Berggipfel in der Nähe des Iezerul-Gipfels in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Cascada Dușul Pădurarului",
+                  "text": "Ein malerischer Wasserfall in der Bergregion um den Iezerul-Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483254,
+                        45.410498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slivei",
+                  "text": "Egy hegycsúcs az Iezer-csúcs közelében a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Cascada Dușul Pădurarului",
+                  "text": "Egy festői vízesés az Iezer-csúcs körüli hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483254,
+                        45.410498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slivei",
+                  "text": "Un vârf montan situat în apropierea vârfului Iezerul din Carpații românești.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Cascada Dușul Pădurarului",
+                  "text": "O cascadă pitorească situată în regiunea montană din jurul vârfului Iezerul.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483254,
+                        45.410498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slivei",
+                  "text": "A mountain peak located near the Iezerul Peak in the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Cascada Dușul Pădurarului",
+                  "text": "A picturesque waterfall located in the mountain region around the Iezerul Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        23.483254,
+                        45.410498
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Iezerul", hu: "Iezerul-csúcs", ro: "Vârful Iezerul", en: "Iezerul Peak" },
@@ -588,7 +1668,160 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-parangul-mare-v2-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-carja-relief-v2",
+    id: "romania-vfrful-carja-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gruiu",
+                  "text": "Ein Berg Gipfel im Parâng-Gebirge in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Ein Berggipfel im zentralen Teil des Parâng-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Ein Gipfel im Parâng-Gebirge, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Der höchste Gipfel des Parâng-Gebirges mit einer Höhe von 2519 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gruiu",
+                  "text": "Egy hegycsúcs a Páring-hegységben, a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Hegycsúcs a Páring-masszívum középső részén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Hegycsúcs a Páring-hegységben, amely alpesi tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Nagy-Páring",
+                  "text": "A Páring-hegység legmagasabb csúcsa, amely 2519 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gruiu",
+                  "text": "Un vârf muntos în Munții Parâng din Carpații românești.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "Un vârf de munte situat în partea centrală a masivului Parâng.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "Un vârf în Munții Parâng, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "Cel mai înalt vârf din Munții Parâng, atingând o înălțime de 2519 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruiu",
+                  "text": "A mountain peak in the Parâng Mountains of the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        23.55119,
+                        45.33905
+                  ]
+            },
+            {
+                  "name": "Slivei",
+                  "text": "A mountain peak located in the central part of the Parâng massif.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536361,
+                        45.353368
+                  ]
+            },
+            {
+                  "name": "Gemănarea",
+                  "text": "A peak in the Parâng Mountains known for its alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        23.533393,
+                        45.350589
+                  ]
+            },
+            {
+                  "name": "Parângul Mare",
+                  "text": "The highest peak of the Parâng Mountains, reaching an elevation of 2519 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        23.539309,
+                        45.340164
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Cârja", hu: "Cârja-csúcs", ro: "Vârful Cârja", en: "Cârja Peak" },
@@ -633,7 +1866,304 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-carja-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-sura-relief-v2",
+    id: "romania-vfrful-sura-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fresh-meat",
+                  "text": "Ein Freizeitpark in der Nähe des Șura-Gipfels im Făgăraș-Gebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
+            },
+            {
+                  "name": "Lăițel",
+                  "text": "Ein Berggipfel im Făgăraș-Gebirge, der für seine weite Aussicht auf die umliegenden Massive bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "Der zweithöchste Gipfel Rumäniens, gelegen im Hauptkamm des Făgăraș-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Ein markanter Gipfel im Făgăraș-Gebirge, bekannt für seinen schmalen und felsigen Kamm.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Iezerul Caprei",
+                  "text": "Ein Berggipfel im Făgăraș-Gebirge, in der Nähe des gleichnamigen Alpensees gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.623018,
+                        45.599679
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Ein hoher Berggipfel im Făgăraș-Massiv, der beeindruckende alpine Landschaften bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Ein schroffer Gipfel im Făgăraș-Gebirge, oberhalb des Călțun-Sees gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Ein Gipfel im Făgăraș-Gebirge, der sich an einem anspruchsvollen Abschnitt des Hauptkamms befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fresh-meat",
+                  "text": "Egy vidámpark a Fogarasi-havasokban található Sura-csúcs közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
+            },
+            {
+                  "name": "Kis-Lajta-csúcs",
+                  "text": "Hegycsúcs a Fogarasi-havasokban, amely a környező masszívumokra nyíló széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoj-csúcs",
+                  "text": "Románia második legmagasabb csúcsa, amely a Fogarasi-havasok főgerincén található.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Serbota-csúcs",
+                  "text": "Egy jellegzetes csúcs a Fogarasi-havasokban, amely keskeny és sziklás gerincéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Iezerul Caprei",
+                  "text": "Hegycsúcs a Fogarasi-havasokban, az azonos nevű tengerszem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.623018,
+                        45.599679
+                  ]
+            },
+            {
+                  "name": "Leszpez-csúcs",
+                  "text": "Egy magas hegycsúcs a Fogarasi-masszívumban, amely lenyűgöző alpesi tájakat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Kalcun-csúcs",
+                  "text": "Egy zord hegycsúcs a Fogarasi-havasokban, a Călțun-tó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "A Fogarasi-havasok egyik csúcsa, amely a főgerinc egy kihívást jelentő szakaszán található.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fresh-meat",
+                  "text": "Un parc tematic situat în apropierea vârfului Șura din Munții Făgăraș.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
+            },
+            {
+                  "name": "Lăițel",
+                  "text": "Un vârf montan din Munții Făgăraș, cunoscut pentru perspectivele largi asupra masivelor învecinate.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "Al doilea cel mai înalt vârf din România, situat în creasta principală a Munților Făgăraș.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "Un vârf proeminent din Munții Făgăraș, cunoscut pentru creasta sa îngustă și stâncoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Iezerul Caprei",
+                  "text": "Un vârf montan din Munții Făgăraș, situat în apropierea lacului glaciar cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        24.623018,
+                        45.599679
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "Un vârf montan înalt din masivul Făgăraș, oferind peisaje alpine impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "Un vârf muntos abrupt din Munții Făgăraș, situat deasupra lacului Călțun.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "Un vârf din Munții Făgăraș, situat pe o secțiune solicitantă a crestei principale.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fresh-meat",
+                  "text": "A theme park located near the Șura Peak in the Făgăraș Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        24.627306,
+                        45.58285
+                  ]
+            },
+            {
+                  "name": "Lăițel",
+                  "text": "A mountain peak in the Făgăraș Mountains, known for its wide views of the surrounding massifs.",
+                  "category": "landmark",
+                  "coords": [
+                        24.586957,
+                        45.588048
+                  ]
+            },
+            {
+                  "name": "Negoiu",
+                  "text": "The second highest peak in Romania, located in the main ridge of the Făgăraș Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        24.558569,
+                        45.585047
+                  ]
+            },
+            {
+                  "name": "Șerbotă",
+                  "text": "A prominent peak in the Făgăraș Mountains, known for its narrow and rocky ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.53874,
+                        45.584887
+                  ]
+            },
+            {
+                  "name": "Iezerul Caprei",
+                  "text": "A mountain peak in the Făgăraș Mountains, located near the alpine lake of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        24.623018,
+                        45.599679
+                  ]
+            },
+            {
+                  "name": "Lespezi",
+                  "text": "A high mountain peak in the Făgăraș massif, offering impressive alpine landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.56998,
+                        45.577943
+                  ]
+            },
+            {
+                  "name": "Călțun",
+                  "text": "A rugged mountain peak in the Făgăraș Mountains, situated above Lake Călțun.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567767,
+                        45.578188
+                  ]
+            },
+            {
+                  "name": "Vârful Dintre Strungi",
+                  "text": "A peak in the Făgăraș Mountains, located on a challenging section of the main ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        24.559881,
+                        45.581707
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Șura", hu: "Șura-csúcs", ro: "Vârful Șura", en: "Șura Peak" },
@@ -723,7 +2253,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-buteanu-relief-v2.webp",
   },
   {
-    id: "romania-muntii-bihor-relief-v2",
+    id: "romania-muntii-bihor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul Pătrăhaițești",
+                  "text": "Ein kleines ethnographisches Museum im Bihor-Gebirge mit lokalem Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        22.745327,
+                        46.447963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul Pătrăhaițești",
+                  "text": "Kis néprajzi múzeum a Bihar-hegységben, amely helyi mesterségeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.745327,
+                        46.447963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Pătrăhaițești",
+                  "text": "Un mic muzeu etnografic din Munții Bihor, cu meșteșuguri locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.745327,
+                        46.447963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul Pătrăhaițești",
+                  "text": "A small ethnographic museum in the Bihor Mountains featuring local crafts.",
+                  "category": "museum",
+                  "coords": [
+                        22.745327,
+                        46.447963
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO",
     name: { de: "Bihor-Gebirge", hu: "Bihar-hegység", ro: "Munții Bihor", en: "Bihor Mountains" },
@@ -768,7 +2343,88 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-muntii-bihor-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-curcubata-mare-relief-v2",
+    id: "romania-vfrful-curcubata-mare-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cucurbăta Mare",
+                  "text": "Der höchste Gipfel im Bihor-Gebirge, der weite Panoramablicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        22.688894,
+                        46.440842
+                  ]
+            },
+            {
+                  "name": "Piatra Grăitoare",
+                  "text": "Eine markante Felsformation und ein Informationspunkt am Bergwanderweg.",
+                  "category": "landmark",
+                  "coords": [
+                        22.673008,
+                        46.490254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nagy-Bihar",
+                  "text": "A Bihar-hegység legmagasabb csúcsa, ahonnan széles panoráma nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.688894,
+                        46.440842
+                  ]
+            },
+            {
+                  "name": "Zengő",
+                  "text": "Nevezetes sziklaalakzat és információs pont a hegyi túraútvonalon.",
+                  "category": "landmark",
+                  "coords": [
+                        22.673008,
+                        46.490254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cucurbăta Mare",
+                  "text": "Cel mai înalt vârf din Munții Bihorului, oferind vederi panoramice vaste.",
+                  "category": "landmark",
+                  "coords": [
+                        22.688894,
+                        46.440842
+                  ]
+            },
+            {
+                  "name": "Piatra Grăitoare",
+                  "text": "O formațiune stâncoasă remarcabilă și punct de informare pe traseul montan.",
+                  "category": "landmark",
+                  "coords": [
+                        22.673008,
+                        46.490254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cucurbăta Mare",
+                  "text": "The highest peak in the Bihor Mountains, offering expansive panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        22.688894,
+                        46.440842
+                  ]
+            },
+            {
+                  "name": "Piatra Grăitoare",
+                  "text": "A notable rock formation and information point located on the mountain trail.",
+                  "category": "landmark",
+                  "coords": [
+                        22.673008,
+                        46.490254
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Curcubăta Mare", hu: "Nagy-Bihar-csúcs", ro: "Curcubăta Mare", en: "Curcubăta Mare Peak" },
@@ -813,7 +2469,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-curcubata-mare-relief-v2.webp",
   },
   {
-    id: "romania-muntii-gutai-relief-v2",
+    id: "romania-muntii-gutai-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igniș",
+                  "text": "Ein markanter Vulkanpeak im Gutâi-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        23.672899,
+                        47.731471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rozsály tető",
+                  "text": "Jellegzetes vulkáni csúcs a Gutin-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.672899,
+                        47.731471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igniș",
+                  "text": "Un vârf vulcanic proeminent situat în Munții Gutâi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.672899,
+                        47.731471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igniș",
+                  "text": "A prominent volcanic peak in the Gutâi Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        23.672899,
+                        47.731471
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO",
     name: { de: "Gutâi-Gebirge", hu: "Gutin-hegység", ro: "Munții Gutâi", en: "Gutâi Mountains" },
@@ -1038,7 +2739,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-mihailecu-relief-v2.webp",
   },
   {
-    id: "romania-muntii-calimani-relief-v2",
+    id: "romania-muntii-calimani-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Der Pietrosul Călimani ist der höchste Gipfel des Călimani-Gebirges in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietrosz, Nagy-Köves",
+                  "text": "A Pietrosul Călimani a romániai Kelemen-havasok legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Pietrosul Călimani este cel mai înalt vârf din munții Călimani, România.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Pietrosul Călimani is the highest peak in the Călimani Mountains of Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO",
     name: { de: "Călimani-Gebirge", hu: "Kelemen-havasok", ro: "Munții Călimani", en: "Călimani Mountains" },
@@ -1083,7 +2829,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-muntii-calimani-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-pietrosul-calimani-relief-v2",
+    id: "romania-vfrful-pietrosul-calimani-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Der höchste Gipfel des Călimani-Gebirges in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietrosz, Nagy-Köves",
+                  "text": "A Keleti-Kárpátokban található Kelemen-havasok legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Cel mai înalt vârf din Munții Călimani, situat în Carpații Orientali.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "The highest peak of the Călimani Mountains in the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Pietrosul Călimani", hu: "Pietrosul Călimani", ro: "Vârful Pietrosul Călimani", en: "Pietrosul Călimani Peak" },
@@ -1173,7 +2964,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-stanca-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-racu-relief-v2",
+    id: "romania-vfrful-racu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Der höchste Gipfel des Călimani-Gebirges mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietrosz, Nagy-Köves",
+                  "text": "A Kelemen-havasok legmagasabb csúcsa, ahonnan panorámás kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "Cel mai înalt vârf din Munții Călimani, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietrosul Călimani",
+                  "text": "The highest peak of the Călimani Mountains, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        25.18558,
+                        47.12505
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Răcu", hu: "Răcu-csúcs", ro: "Vârful Răcu", en: "Răcu Peak" },
@@ -1308,7 +3144,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-negoiu-unguresc-relief-v2.webp",
   },
   {
-    id: "romania-muntii-gurghiu-relief-v2",
+    id: "romania-muntii-gurghiu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Conacul regal de vânătoare Lăpușna",
+                  "text": "Ein historisches Jagdschloss im Gurghiu-Gebirge, das ursprünglich für die rumänische Königsfamilie erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        25.215481,
+                        46.767835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Királyi Vadászkastély",
+                  "text": "Történelmi vadászkastély a Görgényi-havasokban, amely eredetileg a román királyi család számára épült.",
+                  "category": "historical",
+                  "coords": [
+                        25.215481,
+                        46.767835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul regal de vânătoare Lăpușna",
+                  "text": "Un conac de vânătoare istoric din Munții Gurghiu, construit inițial pentru familia regală a României.",
+                  "category": "historical",
+                  "coords": [
+                        25.215481,
+                        46.767835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Hunting Cabin Lăpușna",
+                  "text": "A historic hunting lodge in the Gurghiu Mountains, originally built for the Romanian royal family.",
+                  "category": "historical",
+                  "coords": [
+                        25.215481,
+                        46.767835
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RO",
     name: { de: "Gurghiu-Gebirge", hu: "Görgényi-havasok", ro: "Munții Gurghiu", en: "Gurghiu Mountains" },
@@ -1398,7 +3279,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-saca-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-batrana-gurghiu-relief-v2",
+    id: "romania-vfrful-batrana-gurghiu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyíres",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe des Gipfels Bătrâna.",
+                  "category": "natural",
+                  "coords": [
+                        25.391276,
+                        46.688113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borzonti Nyíres",
+                  "text": "Védett természetvédelmi terület a Bătrâna-csúcs közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.391276,
+                        46.688113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piemontul Nyíres de la Borzont",
+                  "text": "O rezervație naturală protejată situată în apropierea vârfului Bătrâna.",
+                  "category": "natural",
+                  "coords": [
+                        25.391276,
+                        46.688113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyíres",
+                  "text": "A protected nature reserve located near the Bătrâna Peak.",
+                  "category": "natural",
+                  "coords": [
+                        25.391276,
+                        46.688113
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Bătrâna", hu: "Bătrâna-csúcs", ro: "Vârful Bătrâna", en: "Bătrâna Peak" },
@@ -1578,7 +3504,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-muntii-harghita-relief-v2.webp",
   },
   {
-    id: "romania-madarasi-hargita-relief-v2",
+    id: "romania-madarasi-hargita-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Der höchste Gipfel des Harghita-Gebirges in den rumänischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madarasi-Hargita",
+                  "text": "A Hargita-hegység legmagasabb csúcsa a romániai Kárpátokban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Cel mai înalt vârf al Munților Harghita din Carpații românești.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "The highest peak of the Harghita Mountains in the Romanian Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Madarasi-Hargita", hu: "Madarasi-Hargita", ro: "Vârful Madarasi-Hargita", en: "Madarasi-Hargita Peak" },
@@ -1623,7 +3594,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-madarasi-hargita-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-socarau-relief-v2",
+    id: "romania-vfrful-socarau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Der höchste Gipfel des Harghita-Gebirges mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madarasi-Hargita",
+                  "text": "A Hargita-hegység legmagasabb csúcsa, ahonnan panorámás kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Cel mai înalt vârf din Munții Harghita, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "The highest peak of the Harghita Mountains, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Șocarău", hu: "Socarău-csúcs", ro: "Vârful Șocarău", en: "Șocarău Peak" },
@@ -1668,7 +3684,88 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-socarau-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-fagul-inalt-relief-v2",
+    id: "romania-vfrful-fagul-inalt-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harghita-Ciceu",
+                  "text": "Ein Berggipfel im Harghita-Gebirge in Rumänien.",
+                  "category": "landmark",
+                  "coords": [
+                        25.618284,
+                        46.40685
+                  ]
+            },
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Der höchste Gipfel des Harghita-Gebirges, ein beliebtes Ausflugsziel.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csicsói Hargita",
+                  "text": "A Hargita-hegység egyik csúcsa Romániában, Csicsói-Hargita néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.618284,
+                        46.40685
+                  ]
+            },
+            {
+                  "name": "Madarasi-Hargita",
+                  "text": "A Hargita-hegység legmagasabb csúcsa és kedvelt kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harghita-Ciceu",
+                  "text": "Un vârf muntos din Munții Harghita, situat în România.",
+                  "category": "landmark",
+                  "coords": [
+                        25.618284,
+                        46.40685
+                  ]
+            },
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Cel mai înalt vârf din Munții Harghita, o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harghita-Ciceu",
+                  "text": "A mountain peak in the Harghita Mountains, located in Romania.",
+                  "category": "landmark",
+                  "coords": [
+                        25.618284,
+                        46.40685
+                  ]
+            },
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "The highest peak of the Harghita Mountains, a popular destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Fagul Înalt", hu: "Magas-bükk-csúcs", ro: "Vârful Fagul Înalt", en: "Fagul Înalt Peak" },
@@ -1713,7 +3810,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-fagul-inalt-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-racoasa-relief-v2",
+    id: "romania-vfrful-racoasa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Der höchste Gipfel des Harghita-Gebirges, der als heiliger Ort der Szekler gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madarasi-Hargita",
+                  "text": "A Hargita-hegység legmagasabb csúcsa, a székelyek szent hegye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "Cel mai înalt vârf al Munților Harghita, considerat un munte sfânt al secuilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harghita-Mădăraș",
+                  "text": "The highest peak of the Harghita Mountains, considered a sacred place for Székelys.",
+                  "category": "landmark",
+                  "coords": [
+                        25.582042,
+                        46.453128
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Răcoasa", hu: "Racoasa-csúcs", ro: "Vârful Răcoasa", en: "Răcoasa Peak" },
@@ -1758,7 +3900,196 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-racoasa-relief-v2.webp",
   },
   {
-    id: "romania-piatra-secuiului-relief-v2",
+    id: "romania-piatra-secuiului-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "Die Ruinen einer mittelalterlichen Festung in Colțești, auf einem steilen Hügel über dem Trascău-Tal gelegen.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Ein Museum in Rimetea, das traditionelle ungarische Volkskunst, Trachten und das ländliche Leben der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Die mittelalterlichen Burgruinen der Familie Thoroczkay in Colțești, eine historische Verteidigungsanlage in Siebenbürgen.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "Eine historische Wassermühle in Rimetea, die traditionelle Mahltechniken aus vergangenen Jahrhunderten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Ein beliebter Startplatz für Paraglider an den Hängen des Székelykő mit atemberaubender Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torockószentgyörgyi vár",
+                  "text": "Torockószentgyörgy középkori várának romjai, amelyek egy meredek dombtetőn magasodnak a völgy felett.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Néprajzi Múzeum",
+                  "text": "Néprajzi múzeum Torockón, amely a helyi népművészetet, viseleteket és a falusi életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "A Thoroczkay család középkori várromjai Torockószentgyörgyön, Erdély egyik történelmi védelmi helyszíne.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Malom",
+                  "text": "Történelmi vízimalom Torockón, amely a múlt századok hagyományos őrlési technikáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Népszerű siklóernyő-felszállóhely a Székelykő oldalában, ahonnan lélegzetelállító kilátás nyílik.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "Ruinele unei cetăți medievale din Colțești, situate pe un deal abrupt cu vedere spre Valea Trascăului.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Un muzeu în Rimetea care prezintă arta populară tradițională maghiară, costumele și viața rurală din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Ruinele castelului medieval al familiei Thoroczkay din Colțești, un sit defensiv istoric din Transilvania.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "O moară de apă istorică din Rimetea care demonstrează tehnici tradiționale de măcinare din secolele trecute.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Un loc popular de lansare pentru parapantă pe versanții Vârfului Piatra Secuiului, oferind vederi uluitoare.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trascău Citadel",
+                  "text": "The ruins of a medieval fortress in Colțești, situated on a steep hill overlooking the Trascău Valley.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum in Rimetea showcasing traditional Hungarian folk art, costumes, and rural life from the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "The medieval castle ruins of Thoroczkay family in Colțești, a historic defensive site in Transylvania.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "A historic watermill in Rimetea that demonstrates traditional milling techniques from past centuries.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "A popular paragliding launch site on the slopes of Székelykő Peak offering breathtaking views.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Piatra Secuiului", hu: "Székelykő", ro: "Piatra Secuiului", en: "Székelykő Peak" },
@@ -1803,7 +4134,196 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-piatra-secuiului-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-bedeleu-relief-v2",
+    id: "romania-vfrful-bedeleu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "Die Ruinen einer mittelalterlichen Festung auf dem Bedeleu-Gipfel.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Ein Museum für Volkskunde auf dem Bedeleu-Gipfel.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Eine historische Burganlage in der Nähe des Bedeleu-Gipfels.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "Ein Museum in einer ehemaligen Wassermühle am Bedeleu-Gipfel.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Ein Aussichtspunkt auf dem Bedeleu-Gipfel, der als Startplatz für Gleitschirmflieger dient.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torockószentgyörgyi vár",
+                  "text": "Középkori várrom a Bedellő-tető közelében.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Néprajzi Múzeum",
+                  "text": "Néprajzi múzeum a Bedellő-tetőnél.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Történelmi várkastély a Bedellő-tetőnél.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Malom",
+                  "text": "Vízimalomban kialakított múzeum a Bedellő-tetőnél.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Siklóernyős starthely és kilátópont a Bedellő-tetőn.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Trascăului",
+                  "text": "Ruinele unei cetăți medievale impunătoare situate pe culmea Bedeleu.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Muzeul Etnografic",
+                  "text": "Un muzeu etnografic situat pe culmea Bedeleu.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "Un castel istoric situat în apropierea culmii Bedeleu.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "Un muzeu amenajat într-o moară de apă la Bedeleu.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "Un punct de belvedere pe vârful Bedeleu, folosit ca loc de lansare pentru parapantă.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trascău Citadel",
+                  "text": "The ruins of a medieval fortress situated on the Bedeleu Peak.",
+                  "category": "castle",
+                  "coords": [
+                        23.544081,
+                        46.424812
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "An ethnographic museum located on the Bedeleu Peak.",
+                  "category": "museum",
+                  "coords": [
+                        23.568235,
+                        46.452317
+                  ]
+            },
+            {
+                  "name": "Castelul Torockószentgyörgy",
+                  "text": "A historic castle situated near the Bedeleu Peak.",
+                  "category": "castle",
+                  "coords": [
+                        23.560426,
+                        46.42274
+                  ]
+            },
+            {
+                  "name": "Moara de apă",
+                  "text": "A museum housed in a former water mill at Bedeleu Peak.",
+                  "category": "museum",
+                  "coords": [
+                        23.570522,
+                        46.452067
+                  ]
+            },
+            {
+                  "name": "siklóernyő starthely",
+                  "text": "A viewpoint on Bedeleu Peak used as a paragliding takeoff site.",
+                  "category": "natural",
+                  "coords": [
+                        23.56031,
+                        46.448694
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Bedeleu", hu: "Bedeleu-csúcs", ro: "Vârful Bedeleu", en: "Bedeleu Peak" },
@@ -1938,7 +4458,124 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-varatec-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-pleasa-relief-v2",
+    id: "romania-vfrful-pleasa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Conacul Teleki",
+                  "text": "Ein historisches Herrenhaus der Familie Teleki, ein Zeugnis adeliger Architektur in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        23.515718,
+                        46.555438
+                  ]
+            },
+            {
+                  "name": "Conacul Béldi",
+                  "text": "Ein elegantes ehemaliges Herrenhaus der Familie Béldi, das Teil des lokalen Kulturerbes ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.516665,
+                        46.555186
+                  ]
+            },
+            {
+                  "name": "Conacul Kemény",
+                  "text": "Ein historisches Gebäude der Familie Kemény, das die traditionelle Bauweise mährischer Landsitze widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        23.516842,
+                        46.554093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conacul Teleki",
+                  "text": "A Teleki család történelmi kúriája, a régió nemesi építészetének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        23.515718,
+                        46.555438
+                  ]
+            },
+            {
+                  "name": "Conacul Béldi",
+                  "text": "A Béldi család egykori elegáns kúriája, amely a helyi kulturális örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        23.516665,
+                        46.555186
+                  ]
+            },
+            {
+                  "name": "Conacul Kemény",
+                  "text": "A Kemény család történelmi épülete, amely a hagyományos kúriaépítészetet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        23.516842,
+                        46.554093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Teleki",
+                  "text": "Un conac istoric al familiei Teleki, o mărturie a arhitecturii nobiliare din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        23.515718,
+                        46.555438
+                  ]
+            },
+            {
+                  "name": "Conacul Béldi",
+                  "text": "Un fost conac elegant al familiei Béldi, care face parte din moștenirea culturală locală.",
+                  "category": "historical",
+                  "coords": [
+                        23.516665,
+                        46.555186
+                  ]
+            },
+            {
+                  "name": "Conacul Kemény",
+                  "text": "O clădire istorică a familiei Kemény, care reflectă arhitectura tradițională a conacelor.",
+                  "category": "historical",
+                  "coords": [
+                        23.516842,
+                        46.554093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conacul Teleki",
+                  "text": "A historical manor of the Teleki family, a testament to noble architecture in the region.",
+                  "category": "historical",
+                  "coords": [
+                        23.515718,
+                        46.555438
+                  ]
+            },
+            {
+                  "name": "Conacul Béldi",
+                  "text": "An elegant former manor of the Béldi family, part of the local cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        23.516665,
+                        46.555186
+                  ]
+            },
+            {
+                  "name": "Conacul Kemény",
+                  "text": "A historical building of the Kemény family, reflecting traditional manor architecture.",
+                  "category": "historical",
+                  "coords": [
+                        23.516842,
+                        46.554093
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Pleșa", hu: "Pleșa-csúcs", ro: "Vârful Pleșa", en: "Pleșa Peak" },
@@ -2118,7 +4755,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-muntii-metaliferi-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-detunata-goala-relief-v2",
+    id: "romania-vfrful-detunata-goala-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Eine Ausstellung in der Nähe des Gipfels Detunata Goală, die lokales Brauchtum präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "A Detunata Goală-csúcs közelében található kiállítás, amely a helyi néprajzi hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "O expoziție situată lângă vârful Detunata Goală, care prezintă tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic exhibition",
+                  "text": "An exhibition near the Detunata Goală peak presenting local ethnographic traditions.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Detunata Goală", hu: "Detunata Goală", ro: "Detunata Goală", en: "Detunata Goală Peak" },
@@ -2163,7 +4845,52 @@ export const romaniaReliefV2: POI[] = [
     image: "/poi-images/romania-vfrful-detunata-goala-relief-v2.webp",
   },
   {
-    id: "romania-vfrful-detunata-flocoasa-relief-v2",
+    id: "romania-vfrful-detunata-flocoasa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Eine ethnografische Ausstellung, die das traditionelle Leben in der Region um den Detunata-Gipfel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "Néprajzi kiállítás, amely a Detunata-csúcs környékének hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Expoziția Etnografică",
+                  "text": "O expoziție etnografică ce prezintă viața tradițională din regiunea vârfului Detunata Flocoasă.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic exhibition",
+                  "text": "An ethnographic exhibition showcasing traditional life in the region of the Detunata Flocoasă peak.",
+                  "category": "museum",
+                  "coords": [
+                        23.174254,
+                        46.26291
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "RO",
     name: { de: "Detunata Flocoasă", hu: "Detunata Flocoasă", ro: "Detunata Flocoasă", en: "Detunata Flocoasă Peak" },

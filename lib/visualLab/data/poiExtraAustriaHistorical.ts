@@ -4,7 +4,304 @@ import type { POI } from "./poi";
 
 export const poiExtraAustriaHistorical: POI[] = [
   {
-    id: "historical-schallaburg-extra",
+    id: "historical-schallaburg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "Eine prähistorische Höhensiedlung und archäologische Fundstätte bei Loosdorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Schloss Albrechtsberg",
+                  "text": "Ein Renaissanceschloss in Niederösterreich, in der Nähe der Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.387726,
+                        48.213769
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Schloss Luberegg ist ein bedeutendes Barockschloss in der Nähe der Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "Ein historisches Schloss in der Region der Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Ein interaktives Museum im Bereich der Schallaburg, das sich mit der Region Wachau befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Schallaburg",
+                  "text": "Schallaburg ist ein bekanntes Renaissanceschloss und Ausstellungszentrum.",
+                  "category": "museum",
+                  "coords": [
+                        15.35555,
+                        48.189151
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Ein Freizeitbad für Erholung und Schwimmen in der Nähe der Schallaburg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            },
+            {
+                  "name": "Wachauarena Melk",
+                  "text": "Ein Veranstaltungsort und Theater für kulturelle Darbietungen bei der Schallaburg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.32716,
+                        48.228802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "Prehisztorikus magaslati település és régészeti lelőhely Loosdorf közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Schloss Albrechtsberg",
+                  "text": "Reneszánsz kastély Alsó-Ausztriában, a Schallaburg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.387726,
+                        48.213769
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Schloss Luberegg egy jelentős barokk kastély a Schallaburg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "Történelmi kastély a Schallaburg régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Interaktív múzeum a Schallaburg területén, amely a Wachau régióval foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Schallaburg",
+                  "text": "A Schallaburg egy híres reneszánsz kastély és kiállítási központ.",
+                  "category": "museum",
+                  "coords": [
+                        15.35555,
+                        48.189151
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Szabadidős fürdő és uszoda a Schallaburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            },
+            {
+                  "name": "Wachauarena Melk",
+                  "text": "Rendezvényhelyszín és színház kulturális előadásokhoz a Schallaburgnál.",
+                  "category": "cultural",
+                  "coords": [
+                        15.32716,
+                        48.228802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "O așezare preistorică de înălțime și sit arheologic lângă Loosdorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Schloss Albrechtsberg",
+                  "text": "Un castel renascentist din Austria Inferioară, situat în apropiere de Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.387726,
+                        48.213769
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Schloss Luberegg este un castel baroc important situat lângă Castelul Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "Un castel istoric în regiunea castelului Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Un muzeu interactiv în incinta Schallaburg, dedicat regiunii Wachau.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Schallaburg",
+                  "text": "Schallaburg este un renumit castel renascentist și centru expozițional.",
+                  "category": "museum",
+                  "coords": [
+                        15.35555,
+                        48.189151
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Un parc acvatic pentru recreere și înot lângă Schallaburg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            },
+            {
+                  "name": "Wachauarena Melk",
+                  "text": "Un loc de evenimente și teatru pentru spectacole culturale lângă Schallaburg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.32716,
+                        48.228802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "A prehistoric hilltop settlement and archaeological site located near Loosdorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Schloss Albrechtsberg",
+                  "text": "A Renaissance castle in Lower Austria, located in the vicinity of Schallaburg.",
+                  "category": "castle",
+                  "coords": [
+                        15.387726,
+                        48.213769
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Schloss Luberegg is a notable Baroque castle located near Schallaburg Castle.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "A historical castle in the region of Schallaburg Castle.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "An interactive museum area at Schallaburg focused on the Wachau region.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Schallaburg",
+                  "text": "Schallaburg is a famous Renaissance castle and exhibition center.",
+                  "category": "museum",
+                  "coords": [
+                        15.35555,
+                        48.189151
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "A water park for recreation and swimming near Schallaburg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            },
+            {
+                  "name": "Wachauarena Melk",
+                  "text": "An event venue and theatre for cultural performances near Schallaburg Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        15.32716,
+                        48.228802
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT-3",
     coords: [15.3586, 48.2231],
@@ -46,7 +343,232 @@ export const poiExtraAustriaHistorical: POI[] = [
       fr: ["L'impressionnante décoration en terre cuite de la cour à arcades est considérée comme unique dans l'espace germanophone.", "La transformation en complexe Renaissance a été commandée par la famille noble von Losenstein entre 1572 et 1600.", "Les expositions annuelles traitent souvent de thèmes d'importance mondiale, comme les « Vikings » ou « Les années 70 ».", "Le château était autrefois entouré d'un fossé de 30 mètres de profondeur.", "À proximité du château se trouve la célèbre abbaye bénédictine de Melk, en bordure de la Wachau."],
     }, image: "/poi-images/historical-schallaburg-extra.webp"},
   {
-    id: "landmark-basilika-mariazell-extra",
+    id: "landmark-basilika-mariazell-extra", "sights": {
+      "de": [
+            {
+                  "name": "Mariazeller Heimathaus",
+                  "text": "Das Heimatmuseum von Mariazell präsentiert die Volkskultur und Geschichte der berühmten Wallfahrtsregion.",
+                  "category": "museum",
+                  "coords": [
+                        15.31534,
+                        47.775759
+                  ]
+            },
+            {
+                  "name": "Montanmuseum Gußwerk",
+                  "text": "Ein Museum in Gußwerk, das die bedeutende Geschichte der lokalen Eisenverarbeitung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.305974,
+                        47.741173
+                  ]
+            },
+            {
+                  "name": "Mariazeller Bergwelle",
+                  "text": "Eine Open-Air-Bühne am Erlaufsee bei Mariazell, bekannt für Wasser- und Lichtshows.",
+                  "category": "cultural",
+                  "coords": [
+                        15.329998,
+                        47.786706
+                  ]
+            },
+            {
+                  "name": "Rasingberg",
+                  "text": "Ein Berggipfel in der Nähe von Mariazell, der Wanderwege und Naturerlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.280412,
+                        47.777164
+                  ]
+            },
+            {
+                  "name": "Bürgeralpe",
+                  "text": "Ein beliebter Ausflugsberg bei Mariazell mit Panoramablick und verschiedenen Freizeitangeboten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.328956,
+                        47.787715
+                  ]
+            },
+            {
+                  "name": "Hohlensteinhöhle",
+                  "text": "Ein Höhleneingang in der Region Mariazell.",
+                  "category": "landmark",
+                  "coords": [
+                        15.343245,
+                        47.784654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariazeller Heimathaus",
+                  "text": "A mariazelli tájház a híres zarándokhely népi kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.31534,
+                        47.775759
+                  ]
+            },
+            {
+                  "name": "Montanmuseum Gußwerk",
+                  "text": "Gußwerki múzeum, amely a helyi vasfeldolgozás jelentős történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        15.305974,
+                        47.741173
+                  ]
+            },
+            {
+                  "name": "Mariazeller Bergwelle",
+                  "text": "Szabadtéri színpad a Mariazell melletti Erlaufsee-nél, amely víz- és fényshow-iról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.329998,
+                        47.786706
+                  ]
+            },
+            {
+                  "name": "Rasingberg",
+                  "text": "Hegycsúcs Mariazell közelében, amely túraútvonalakat és természeti élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.280412,
+                        47.777164
+                  ]
+            },
+            {
+                  "name": "Bürgeralpe",
+                  "text": "Népszerű kirándulóhely Mariazell közelében, amely panorámás kilátást és szabadidős tevékenységeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.328956,
+                        47.787715
+                  ]
+            },
+            {
+                  "name": "Hohlensteinhöhle",
+                  "text": "Barlangbejárat Mariazell közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.343245,
+                        47.784654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariazeller Heimathaus",
+                  "text": "Muzeul de istorie locală din Mariazell prezintă cultura populară și istoria faimoasei regiuni de pelerinaj.",
+                  "category": "museum",
+                  "coords": [
+                        15.31534,
+                        47.775759
+                  ]
+            },
+            {
+                  "name": "Montanmuseum Gußwerk",
+                  "text": "Un muzeu din Gußwerk care documentează istoria importantă a prelucrării fierului la nivel local.",
+                  "category": "museum",
+                  "coords": [
+                        15.305974,
+                        47.741173
+                  ]
+            },
+            {
+                  "name": "Mariazeller Bergwelle",
+                  "text": "O scenă în aer liber pe lacul Erlaufsee de lângă Mariazell, cunoscută pentru spectacole de apă și lumină.",
+                  "category": "cultural",
+                  "coords": [
+                        15.329998,
+                        47.786706
+                  ]
+            },
+            {
+                  "name": "Rasingberg",
+                  "text": "Un vârf montan de lângă Mariazell, care oferă trasee de drumeție și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        15.280412,
+                        47.777164
+                  ]
+            },
+            {
+                  "name": "Bürgeralpe",
+                  "text": "Un munte de excursie popular lângă Mariazell, care oferă vederi panoramice și activități de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        15.328956,
+                        47.787715
+                  ]
+            },
+            {
+                  "name": "Hohlensteinhöhle",
+                  "text": "O intrare în peșteră situată în regiunea Mariazell.",
+                  "category": "landmark",
+                  "coords": [
+                        15.343245,
+                        47.784654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mariazeller Heimathaus",
+                  "text": "The Mariazell heritage museum presents the folk culture and history of the famous pilgrimage region.",
+                  "category": "museum",
+                  "coords": [
+                        15.31534,
+                        47.775759
+                  ]
+            },
+            {
+                  "name": "Montanmuseum Gußwerk",
+                  "text": "A museum in Gußwerk documenting the significant history of local ironworking.",
+                  "category": "museum",
+                  "coords": [
+                        15.305974,
+                        47.741173
+                  ]
+            },
+            {
+                  "name": "Mariazeller Bergwelle",
+                  "text": "An open-air stage at Lake Erlaufsee near Mariazell, known for water and light shows.",
+                  "category": "cultural",
+                  "coords": [
+                        15.329998,
+                        47.786706
+                  ]
+            },
+            {
+                  "name": "Rasingberg",
+                  "text": "A mountain peak near Mariazell offering hiking trails and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        15.280412,
+                        47.777164
+                  ]
+            },
+            {
+                  "name": "Bürgeralpe",
+                  "text": "A popular excursion mountain near Mariazell offering panoramic views and leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        15.328956,
+                        47.787715
+                  ]
+            },
+            {
+                  "name": "Hohlensteinhöhle",
+                  "text": "A cave entrance located in the Mariazell region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.343245,
+                        47.784654
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT-6",
     coords: [15.3175, 47.7725],
@@ -130,7 +652,268 @@ export const poiExtraAustriaHistorical: POI[] = [
       fr: ["La première mention documentaire du château date de 1138.", "La châtelaine la plus célèbre était Katharina Elisabeth von Galler, surnommée la « méchante Liesl », au XVIIe siècle.", "Une via ferrata exigeante d'une longueur de trois kilomètres serpente autour du château.", "La famille princière de Liechtenstein est propriétaire de la forteresse depuis 1822.", "La montée avec l'ascenseur incliné ne dure qu'environ une minute et demie."],
     }, image: "/poi-images/castle-riegersburg-extra.webp"},
   {
-    id: "monastery-stift-admont-extra",
+    id: "monastery-stift-admont-extra", "sights": {
+      "de": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "Die prachtvolle Bibliothek des Stiftes Admont ist der größte klösterliche Büchersaal der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Ein spätrenaissanceschloss bei Admont, das heute als Hotel und Jugendherberge dient.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Ein öffentliches Freibad in der Region Admont für Freizeit und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Ein Berggipfel in den Ennstaler Alpen in der Nähe von Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Ein Gipfel in der bergigen Landschaft rund um das Stift Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "Ein markanter Berg in der Steiermark, der von Admont aus erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Ein Gipfel in den österreichischen Alpen nahe der Gemeinde Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "Az admonti apátság pompás könyvtára a világ legnagyobb kolostori könyvterme.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Egy késő reneszánsz kastély Admont közelében, amely ma szállodaként és ifjúsági szállóként üzemel.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Nyilvános szabadtéri strand Admont környékén, kikapcsolódásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Hegycsúcs az Ennstali-Alpokban, Admont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Hegycsúcs az admonti apátság körüli hegyvidéki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "Jellegzetes hegy Stájerországban, amely Admont felől érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Hegycsúcs az osztrák Alpokban, Admont község közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "Splendida bibliotecă a abației Admont este cea mai mare sală de lectură monahală din lume.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Un castel în stil Renaștere târzie lângă Admont, care astăzi servește drept hotel și pensiune pentru tineret.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Un ștrand public în regiunea Admont, destinat recreerii și relaxării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Un vârf montan în Alpii Ennstal, situat în apropiere de Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Un vârf în peisajul montan din jurul abației Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "Un munte proeminent în Stiria, accesibil dinspre Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Un vârf în Alpii Austrieci, situat lângă localitatea Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "The magnificent library of Admont Abbey is the largest monastic book hall in the world.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "A late Renaissance castle near Admont, now serving as a hotel and youth hostel.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "A public outdoor swimming pool in the Admont region for leisure and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "A mountain peak in the Ennstal Alps located near Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "A peak in the mountainous landscape surrounding Admont Abbey.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "A prominent mountain in Styria accessible from Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "A peak in the Austrian Alps located near the municipality of Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ]
+},
     type: "monastery",
     parent: "AT-6",
     coords: [14.458, 47.575],
@@ -172,7 +955,304 @@ export const poiExtraAustriaHistorical: POI[] = [
       fr: ["L'impressionnante bibliothèque a été achevée en 1776.", "La conception claire et lumineuse de la bibliothèque reflète l'esprit des Lumières.", "Lors d'un incendie dévastateur en 1865, la bibliothèque est restée presque intacte, comme par miracle.", "L'abbaye gère le plus ancien lycée (Gymnasium) d'Autriche.", "Dans le cadre du programme « Made for Admont », des artistes contemporains sont régulièrement invités à travailler à l'abbaye."],
     }, image: "/poi-images/monastery-stift-admont-extra.webp"},
   {
-    id: "historical-carnuntum-extra",
+    id: "historical-carnuntum-extra", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Petronell",
+                  "text": "Ein prachtvolles Barockschloss in der Nähe der bedeutenden archäologischen Stätten von Carnuntum.",
+                  "category": "castle",
+                  "coords": [
+                        16.860419,
+                        48.116525
+                  ]
+            },
+            {
+                  "name": "Amphitheater Zivilstadt",
+                  "text": "Die Überreste eines antiken römischen Amphitheaters, das einst Teil der Zivilstadt von Carnuntum war.",
+                  "category": "historical",
+                  "coords": [
+                        16.850929,
+                        48.109982
+                  ]
+            },
+            {
+                  "name": "Archäologischer Park Carnuntum",
+                  "text": "Ein Freilichtmuseum mit rekonstruierten römischen Bauten und Ausgrabungen des antiken Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.860968,
+                        48.113322
+                  ]
+            },
+            {
+                  "name": "kleines Amphitheater",
+                  "text": "Ein kleineres römisches Amphitheater, das für lokale Veranstaltungen im antiken Carnuntum genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        16.892612,
+                        48.126816
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Petronell-Carnuntum",
+                  "text": "Ein lokales Kulturzentrum, das Ausstellungen zur Geschichte und Kultur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.875747,
+                        48.115832
+                  ]
+            },
+            {
+                  "name": "Römische Forumstherme",
+                  "text": "Die archäologischen Überreste der römischen Thermen, die sich am Forum von Carnuntum befanden.",
+                  "category": "historical",
+                  "coords": [
+                        16.85581,
+                        48.11611
+                  ]
+            },
+            {
+                  "name": "Türkenschanze",
+                  "text": "Ein historisches Denkmal, das an die militärische Vergangenheit der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        16.874838,
+                        48.095986
+                  ]
+            },
+            {
+                  "name": "Figuren von zwei Mautmännchen",
+                  "text": "Skulpturen, die historische Figuren darstellen und an lokale Traditionen erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        16.870042,
+                        48.113677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Petronell",
+                  "text": "Pompás barokk kastély Carnuntum jelentős régészeti lelőhelyei közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.860419,
+                        48.116525
+                  ]
+            },
+            {
+                  "name": "Amphitheater Zivilstadt",
+                  "text": "Egy antik római amfiteátrum maradványai, amely egykor Carnuntum polgárvárosának része volt.",
+                  "category": "historical",
+                  "coords": [
+                        16.850929,
+                        48.109982
+                  ]
+            },
+            {
+                  "name": "Carnuntum Régészeti Park",
+                  "text": "Szabadtéri múzeum rekonstruált római épületekkel és az ókori Carnuntum ásatásaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.860968,
+                        48.113322
+                  ]
+            },
+            {
+                  "name": "kleines Amphitheater",
+                  "text": "Egy kisebb római amfiteátrum, amelyet helyi eseményekre használtak az ókori Carnuntumban.",
+                  "category": "historical",
+                  "coords": [
+                        16.892612,
+                        48.126816
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Petronell-Carnuntum",
+                  "text": "Helyi kulturális központ, amely a régió történelmét és kultúráját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.875747,
+                        48.115832
+                  ]
+            },
+            {
+                  "name": "Römische Forumstherme",
+                  "text": "A carnuntumi fórumon található római termálfürdők régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        16.85581,
+                        48.11611
+                  ]
+            },
+            {
+                  "name": "Türkenschanze",
+                  "text": "Történelmi emlékmű, amely a régió katonai múltjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        16.874838,
+                        48.095986
+                  ]
+            },
+            {
+                  "name": "Figuren von zwei Mautmännchen",
+                  "text": "Történelmi alakokat ábrázoló szobrok, amelyek helyi hagyományokra emlékeztetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        16.870042,
+                        48.113677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Petronell",
+                  "text": "Un castel baroc magnific situat în apropierea siturilor arheologice importante din Carnuntum.",
+                  "category": "castle",
+                  "coords": [
+                        16.860419,
+                        48.116525
+                  ]
+            },
+            {
+                  "name": "Amphitheater Zivilstadt",
+                  "text": "Ruinele unui vechi amfiteatru roman care a făcut parte odinioară din orașul civil Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.850929,
+                        48.109982
+                  ]
+            },
+            {
+                  "name": "Archäologischer Park Carnuntum",
+                  "text": "Un muzeu în aer liber cu clădiri romane reconstruite și săpături din anticul Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.860968,
+                        48.113322
+                  ]
+            },
+            {
+                  "name": "kleines Amphitheater",
+                  "text": "Un amfiteatru roman mai mic, folosit pentru evenimente locale în anticul Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.892612,
+                        48.126816
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Petronell-Carnuntum",
+                  "text": "Un centru cultural local care găzduiește expoziții despre istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.875747,
+                        48.115832
+                  ]
+            },
+            {
+                  "name": "Römische Forumstherme",
+                  "text": "Vestigiile arheologice ale termelor romane situate în forumul din Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.85581,
+                        48.11611
+                  ]
+            },
+            {
+                  "name": "Türkenschanze",
+                  "text": "Un monument istoric care comemorează trecutul militar al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        16.874838,
+                        48.095986
+                  ]
+            },
+            {
+                  "name": "Figuren von zwei Mautmännchen",
+                  "text": "Sculpturi care reprezintă figuri istorice și amintesc de tradițiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        16.870042,
+                        48.113677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Petronell",
+                  "text": "A magnificent Baroque palace located near the significant archaeological sites of Carnuntum.",
+                  "category": "castle",
+                  "coords": [
+                        16.860419,
+                        48.116525
+                  ]
+            },
+            {
+                  "name": "Amphitheater Zivilstadt",
+                  "text": "The remains of an ancient Roman amphitheater that was once part of the civilian city of Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.850929,
+                        48.109982
+                  ]
+            },
+            {
+                  "name": "Archäologischer Park Carnuntum",
+                  "text": "An open-air museum with reconstructed Roman buildings and excavations of ancient Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.860968,
+                        48.113322
+                  ]
+            },
+            {
+                  "name": "kleines Amphitheater",
+                  "text": "A smaller Roman amphitheater used for local events in ancient Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.892612,
+                        48.126816
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Petronell-Carnuntum",
+                  "text": "A local cultural center hosting exhibitions on the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.875747,
+                        48.115832
+                  ]
+            },
+            {
+                  "name": "Römische Forumstherme",
+                  "text": "The archaeological remains of the Roman thermal baths located at the forum of Carnuntum.",
+                  "category": "historical",
+                  "coords": [
+                        16.85581,
+                        48.11611
+                  ]
+            },
+            {
+                  "name": "Türkenschanze",
+                  "text": "A historical monument commemorating the military past of the region.",
+                  "category": "historical",
+                  "coords": [
+                        16.874838,
+                        48.095986
+                  ]
+            },
+            {
+                  "name": "Figuren von zwei Mautmännchen",
+                  "text": "Sculptures representing historical figures and recalling local traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        16.870042,
+                        48.113677
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT-3",
     coords: [16.86, 48.11],
@@ -331,7 +1411,268 @@ export const poiExtraAustriaHistorical: POI[] = [
       fr: ["Les jeux d'eau sont les mieux conservés au monde pour cette période de la Renaissance.", "L'architecte était Santino Solari, qui a également construit la cathédrale de Salzbourg.", "À la table de pierre du prince, seuls l'hôte et ses invités d'honneur restaient au sec, tandis que de l'eau jaillissait des sièges des autres invités.", "Le théâtre de pierre dans le parc du château est la plus ancienne scène de plein air d'Europe.", "Le célèbre pavillon du film « La Mélodie du bonheur » (« I am sixteen going on seventeen ») se trouve aujourd'hui dans le parc du château."],
     }, image: "/poi-images/landmark-schloss-hellbrunn-extra.webp"},
   {
-    id: "castle-schloss-artstetten-extra",
+    id: "castle-schloss-artstetten-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kokoschka-Haus",
+                  "text": "Ein Museum im Geburtshaus des berühmten Malers und Schriftstellers Oskar Kokoschka.",
+                  "category": "museum",
+                  "coords": [
+                        15.206883,
+                        48.211635
+                  ]
+            },
+            {
+                  "name": "Schloss Artstetten",
+                  "text": "Ein historisches Schloss, das als letzte Ruhestätte von Erzherzog Franz Ferdinand bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.20266,
+                        48.242638
+                  ]
+            },
+            {
+                  "name": "nusseum",
+                  "text": "Ein einzigartiges Museum, das der Geschichte und Vielfalt von Walnüssen und anderen Nüssen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.159299,
+                        48.209679
+                  ]
+            },
+            {
+                  "name": "Tischlereimuseum",
+                  "text": "Ein Museum, das traditionelle Werkzeuge und die Geschichte des Tischlerhandwerks präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.210365,
+                        48.211493
+                  ]
+            },
+            {
+                  "name": "Freibad Pöchlarn",
+                  "text": "Ein öffentliches Freibad und Erholungsgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.198504,
+                        48.208973
+                  ]
+            },
+            {
+                  "name": "Nibelungendenkmal",
+                  "text": "Ein Denkmal zu Ehren des Nibelungenliedes, gelegen in der Nähe der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        15.20803,
+                        48.21239
+                  ]
+            },
+            {
+                  "name": "Korneuburger Kreuz",
+                  "text": "Ein traditionelles Flurkreuz oder Bildstock in der Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153671,
+                        48.224695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kokoschka-Haus",
+                  "text": "Múzeum a híres festő és író, Oskar Kokoschka szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        15.206883,
+                        48.211635
+                  ]
+            },
+            {
+                  "name": "Schloss Artstetten",
+                  "text": "Történelmi kastély, amely Ferenc Ferdinánd főherceg végső nyughelyeként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.20266,
+                        48.242638
+                  ]
+            },
+            {
+                  "name": "nusseum",
+                  "text": "Különleges múzeum, amely a dió és más diófélék történetét és fajtáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.159299,
+                        48.209679
+                  ]
+            },
+            {
+                  "name": "Tischlereimuseum",
+                  "text": "Az asztalosmesterség hagyományos eszközeit és történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.210365,
+                        48.211493
+                  ]
+            },
+            {
+                  "name": "Freibad Pöchlarn",
+                  "text": "Nyilvános szabadtéri strand és szabadidős terület.",
+                  "category": "recreational",
+                  "coords": [
+                        15.198504,
+                        48.208973
+                  ]
+            },
+            {
+                  "name": "Nibelungendenkmal",
+                  "text": "A Nibelung-ének emlékére állított emlékmű a Duna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.20803,
+                        48.21239
+                  ]
+            },
+            {
+                  "name": "Korneuburger Kreuz",
+                  "text": "Hagyományos útmenti feszület vagy képoszlop a vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153671,
+                        48.224695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kokoschka-Haus",
+                  "text": "Un muzeu situat în casa natală a celebrului pictor și scriitor Oskar Kokoschka.",
+                  "category": "museum",
+                  "coords": [
+                        15.206883,
+                        48.211635
+                  ]
+            },
+            {
+                  "name": "Schloss Artstetten",
+                  "text": "Un castel istoric cunoscut ca locul de odihnă al arhiducelui Franz Ferdinand.",
+                  "category": "castle",
+                  "coords": [
+                        15.20266,
+                        48.242638
+                  ]
+            },
+            {
+                  "name": "nusseum",
+                  "text": "Un muzeu unic dedicat istoriei și varietății nucilor și a altor fructe cu coajă lemnoasă.",
+                  "category": "museum",
+                  "coords": [
+                        15.159299,
+                        48.209679
+                  ]
+            },
+            {
+                  "name": "Tischlereimuseum",
+                  "text": "Un muzeu care expune uneltele tradiționale și istoria meșteșugului tâmplăriei.",
+                  "category": "museum",
+                  "coords": [
+                        15.210365,
+                        48.211493
+                  ]
+            },
+            {
+                  "name": "Freibad Pöchlarn",
+                  "text": "O piscină publică în aer liber și zonă de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        15.198504,
+                        48.208973
+                  ]
+            },
+            {
+                  "name": "Nibelungendenkmal",
+                  "text": "Un monument dedicat Cântecului Nibelungilor, situat lângă fluviul Dunărea.",
+                  "category": "historical",
+                  "coords": [
+                        15.20803,
+                        48.21239
+                  ]
+            },
+            {
+                  "name": "Korneuburger Kreuz",
+                  "text": "O troiță tradițională situată în zona rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153671,
+                        48.224695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kokoschka-Haus",
+                  "text": "A museum located in the birthplace of the famous painter and writer Oskar Kokoschka.",
+                  "category": "museum",
+                  "coords": [
+                        15.206883,
+                        48.211635
+                  ]
+            },
+            {
+                  "name": "Schloss Artstetten",
+                  "text": "A historic castle known as the final resting place of Archduke Franz Ferdinand.",
+                  "category": "castle",
+                  "coords": [
+                        15.20266,
+                        48.242638
+                  ]
+            },
+            {
+                  "name": "nusseum",
+                  "text": "A unique museum dedicated to the history and variety of walnuts and other nuts.",
+                  "category": "museum",
+                  "coords": [
+                        15.159299,
+                        48.209679
+                  ]
+            },
+            {
+                  "name": "Tischlereimuseum",
+                  "text": "A museum showcasing the traditional tools and history of the carpentry craft.",
+                  "category": "museum",
+                  "coords": [
+                        15.210365,
+                        48.211493
+                  ]
+            },
+            {
+                  "name": "Freibad Pöchlarn",
+                  "text": "A public outdoor swimming pool and recreational area.",
+                  "category": "recreational",
+                  "coords": [
+                        15.198504,
+                        48.208973
+                  ]
+            },
+            {
+                  "name": "Nibelungendenkmal",
+                  "text": "A monument dedicated to the Nibelungenlied, located near the Danube river.",
+                  "category": "historical",
+                  "coords": [
+                        15.20803,
+                        48.21239
+                  ]
+            },
+            {
+                  "name": "Korneuburger Kreuz",
+                  "text": "A traditional wayside shrine located in the countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        15.153671,
+                        48.224695
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AT-3",
     coords: [15.20, 48.23],
@@ -373,7 +1714,196 @@ export const poiExtraAustriaHistorical: POI[] = [
       fr: ["Le symbole distinctif du château est constitué par ses sept tours à bulbe.", "François-Ferdinand était un chasseur passionné ; le musée expose une partie de sa vaste collection de trophées.", "Le parc du château a été conçu sur le modèle des jardins paysagers anglais.", "Chaque année, le 28 juin, jour anniversaire de l'attentat, une cérémonie commémorative a lieu.", "Le château est situé à quelques kilomètres du célèbre lieu de pèlerinage Maria Taferl."],
     }, image: "/poi-images/castle-schloss-artstetten-extra.webp"},
   {
-    id: "historical-keltendorf-schwarzenbach-extra",
+    id: "historical-keltendorf-schwarzenbach-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Die Ruinen einer mittelalterlichen Burganlage in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Ein archäologisches Freilichtmuseum, das das Leben in einer keltischen Siedlung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "Eine historische Mühle, die heute als Museum in Schwarzenbach dient.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Ein Naturbadesee in einem Landschaftsschutzgebiet nahe Schwarzenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Ein kleiner Streichelzoo für Kinder in der Region Schwarzenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Egy középkori vár romjai Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Régészeti szabadtéri múzeum, amely egy kelta település életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "Történelmi malom, amely ma múzeumként működik Schwarzenbachban.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Természetes fürdőtó egy tájvédelmi körzetben Schwarzenbach közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Kisméretű állatsimogató gyerekeknek Schwarzenbach régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "Ruinele unei fortificații medievale situate în Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "Un muzeu arheologic în aer liber care prezintă viața dintr-o așezare celtică.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "O moară istorică ce servește astăzi ca muzeu în Schwarzenbach.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "Un lac natural pentru scăldat într-o zonă protejată lângă Schwarzenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "O mică grădină zoologică cu animale blânde pentru copii în regiunea Schwarzenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Schwarzenbach",
+                  "text": "The ruins of a medieval castle fortification in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        16.339644,
+                        47.639696
+                  ]
+            },
+            {
+                  "name": "Keltendorf Schwarzenbach",
+                  "text": "An archaeological open-air museum showcasing life in a Celtic settlement.",
+                  "category": "museum",
+                  "coords": [
+                        16.362167,
+                        47.635692
+                  ]
+            },
+            {
+                  "name": "Pessenlehner Mühle",
+                  "text": "A historic mill that serves as a museum in Schwarzenbach today.",
+                  "category": "museum",
+                  "coords": [
+                        16.347815,
+                        47.637579
+                  ]
+            },
+            {
+                  "name": "Naturpark-Badesee Kobersdorf",
+                  "text": "A natural bathing lake in a protected area near Schwarzenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.364687,
+                        47.596125
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "A small petting zoo for children located in the Schwarzenbach area.",
+                  "category": "recreational",
+                  "coords": [
+                        16.362916,
+                        47.637578
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT-3",
     coords: [16.36, 47.63],

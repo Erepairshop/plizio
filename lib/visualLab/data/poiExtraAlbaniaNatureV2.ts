@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const albaniaNatureV2: POI[] = [
 
   {
-    id: "albania-shkodra-lake-nature-v2", "sights": {"de": [{"name": "Plaža Murići", "text": "Plaža Murići bietet ein malerisches Ufererlebnis direkt am weiten Skutarisee. Die ruhige Süßwasserumgebung lädt Familien und Einheimische zum friedlichen Schwimmen und Verweilen ein. Ein wunderbares Ziel für warme Sommertage, umgeben von der albanischen Natur.", "category": "recreational", "coords": [19.22369, 42.162019]}], "hu": [{"name": "Plaža Murići", "text": "A Plaža Murići festői tóparti élményt kínál közvetlenül a hatalmas Shkodrai-tó partján. A csendes édesvízi környezet békés úszásra és pihenésre hívja a családokat és a helyieket. Csodálatos úti cél a meleg nyári napokon, az albán természet lágy ölén.", "category": "recreational", "coords": [19.22369, 42.162019]}], "ro": [{"name": "Plaža Murići", "text": "Plaža Murići oferă o experiență pitorească pe malul vastului lac Shkodra. Mediul liniștit cu apă dulce invită familiile și localnicii la o înotare pașnică și la relaxare. O destinație minunată pentru zilele calde de vară, înconjurată de natura albaneză.", "category": "recreational", "coords": [19.22369, 42.162019]}], "en": [{"name": "Plaža Murići", "text": "Plaža Murići offers a picturesque shoreline experience right by the vast Lake Shkodra. The quiet freshwater environment invites families and locals for peaceful swimming and lounging. A wonderful destination for warm summer days, surrounded by Albanian nature.", "category": "recreational", "coords": [19.22369, 42.162019]}]},
+    id: "albania-shkodra-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići bietet ein malerisches Ufererlebnis direkt am weiten Skutarisee. Die ruhige Süßwasserumgebung lädt Familien und Einheimische zum friedlichen Schwimmen und Verweilen ein. Ein wunderbares Ziel für warme Sommertage, umgeben von der albanischen Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            },
+            {
+                  "name": "Mačiluka",
+                  "text": "Eine ruhige Bucht am Shkodrai-See.",
+                  "category": "landmark",
+                  "coords": [
+                        19.246172,
+                        42.137238
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Đorđa",
+                  "text": "Diese serbisch-orthodoxe Kirche befindet sich auf der Insel Beška im Skutarisee.",
+                  "category": "religious",
+                  "coords": [
+                        19.230651,
+                        42.165598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "A Plaža Murići festői tóparti élményt kínál közvetlenül a hatalmas Shkodrai-tó partján. A csendes édesvízi környezet békés úszásra és pihenésre hívja a családokat és a helyieket. Csodálatos úti cél a meleg nyári napokon, az albán természet lágy ölén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            },
+            {
+                  "name": "Mačiluka",
+                  "text": "Egy csendes öböl a Shkodrai-tónál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.246172,
+                        42.137238
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Đorđa",
+                  "text": "Ez a szerb ortodox templom a Shkodrai-tó Beška nevű szigetén található.",
+                  "category": "religious",
+                  "coords": [
+                        19.230651,
+                        42.165598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići oferă o experiență pitorească pe malul vastului lac Shkodra. Mediul liniștit cu apă dulce invită familiile și localnicii la o înotare pașnică și la relaxare. O destinație minunată pentru zilele calde de vară, înconjurată de natura albaneză.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            },
+            {
+                  "name": "Mačiluka",
+                  "text": "Un golf liniștit situat la lacul Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.246172,
+                        42.137238
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Đorđa",
+                  "text": "Această biserică ortodoxă sârbă este situată pe insula Beška din lacul Shkodra.",
+                  "category": "religious",
+                  "coords": [
+                        19.230651,
+                        42.165598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići offers a picturesque shoreline experience right by the vast Lake Shkodra. The quiet freshwater environment invites families and locals for peaceful swimming and lounging. A wonderful destination for warm summer days, surrounded by Albanian nature.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            },
+            {
+                  "name": "Mačiluka",
+                  "text": "A quiet bay located at Lake Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.246172,
+                        42.137238
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Đorđa",
+                  "text": "This Serbian Orthodox church is located on the island of Beška in Lake Shkodra.",
+                  "category": "religious",
+                  "coords": [
+                        19.230651,
+                        42.165598
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "lake",
     name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Shkodra"},
@@ -95,7 +212,268 @@ imageHint: "Wide wild river Vjosa flowing through a valley",
     },
     image: "/poi-images/albania-vjosa-river-nature-v2.webp",
 },  {
-    id: "albania-theth-valley-nature-v2",
+    id: "albania-theth-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Ein Museum im Theth-Tal, das traditionelle Kleidung und Alltagsgegenstände der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Eine archäologische Stätte im Theth-Tal, die Hinweise auf frühe terrassierte Siedlungen gibt.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Ein markanter Berggipfel in den albanischen Alpen nahe dem Theth-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Wasserfall",
+                  "text": "Ein beeindruckender Wasserfall im Theth-Tal, der als Naturdenkmal geschützt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Eine historische Wassermühle im Theth-Tal, die die traditionelle Lebensweise der Region veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Natürliche Felsbecken im Theth-Tal, die für ihr klares Gebirgswasser bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Ein natürlicher Canyon im Theth-Tal, der für seine beeindruckenden Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Múzeum a Theth-völgyben, amely a régió népviseleteit és mindennapi tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Régészeti lelőhely a Theth-völgyben, amely korai teraszos települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Jellegzetes hegycsúcs az Albán-Alpokban, a Theth-völgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "Lenyűgöző vízesés a Theth-völgyben, amely természetvédelmi terület.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Történelmi vízimalom a Theth-völgyben, amely a régió hagyományos életmódját szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Természetes sziklamedencék a Theth-völgyben, amelyek tiszta hegyi vizükről ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Természetes szurdok a Theth-völgyben, amely látványos sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Un muzeu din Valea Theth care expune haine tradiționale și obiecte de uz cotidian din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Un sit arheologic din Valea Theth care prezintă urme ale unor așezări terasate timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Un vârf muntos proeminent din Alpii Albanezi, situat lângă Valea Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "O cascadă impresionantă din Valea Theth, protejată ca monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "O moară de apă istorică din Valea Theth, care ilustrează modul de viață tradițional din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Bazine naturale în stâncă din Valea Theth, cunoscute pentru apa lor muntoasă limpede.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Un canion natural în Valea Theth, cunoscut pentru formațiunile sale stâncoase pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum of Dukagjin",
+                  "text": "A museum in the Theth Valley displaying traditional clothing and everyday objects from the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Prehistoric Settlement with Terraces",
+                  "text": "An archaeological site in the Theth Valley showing evidence of early terraced settlements.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "A prominent mountain peak in the Albanian Alps located near the Theth Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Waterfall",
+                  "text": "An impressive waterfall in the Theth Valley, protected as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "A historic water mill in the Theth Valley illustrating the traditional way of life in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "The Baths of the Intercessors",
+                  "text": "Natural rock pools in the Theth Valley known for their clear mountain water.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "A natural canyon in the Theth Valley known for its scenic rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "valley",
     name: { de: "Theth-Tal", hu: "Theth-völgy", ro: "Valea Theth", en: "Theth Valley"},
@@ -187,7 +565,232 @@ imageHint: "Deep blue water spring Syri i Kalter in the forest",
     },
     image: "/poi-images/albania-blue-eye-nature-v2.webp",
 },  {
-    id: "albania-karaburun-peninsula-nature-v2", "sights": {"de": [{"name": "Mouth of God", "text": "Naturbelassener Strand auf der Karaburun-Halbinsel.", "category": "recreational", "coords": [19.40644, 40.371977]}, {"name": "Dafina Beach", "text": "Der Dafina Strand liegt versteckt auf der beeindruckenden Halbinsel Karaburun. Mit seiner abgelegenen Lage verspricht er absolute Ruhe und ungestörten Badespaß inmitten wilder Küstennatur. Ein Geheimtipp für Abenteurer, idealerweise mit dem Boot oder über Wanderwege erreichbar.", "category": "recreational", "coords": [19.363875, 40.351072]}, {"name": "Zhanpovel", "text": "Strand auf der Halbinsel Karaburun.", "category": "recreational", "coords": [19.400975, 40.382253]}], "hu": [{"name": "Mouth of God", "text": "Természetes strand a Karaburun-félszigeten.", "category": "recreational", "coords": [19.40644, 40.371977]}, {"name": "Dafina Beach", "text": "A Dafina strand a lenyűgöző Karaburun-félszigeten bújik meg. Elszigetelt fekvésével abszolút nyugalmat és zavartalan fürdőzést ígér a vad parti természet lágy ölén. Igazi titkos tipp a kalandorok számára, ideális esetben hajóval vagy túraútvonalakon közelíthető meg.", "category": "recreational", "coords": [19.363875, 40.351072]}, {"name": "Zhanpovel", "text": "Strand a Karaburun-félszigeten.", "category": "recreational", "coords": [19.400975, 40.382253]}], "ro": [{"name": "Mouth of God", "text": "Plajă naturală pe peninsula Karaburun.", "category": "recreational", "coords": [19.40644, 40.371977]}, {"name": "Dafina Beach", "text": "Plaja Dafina este ascunsă pe impresionanta peninsulă Karaburun. Cu locația sa retrasă, promite o liniște absolută și distracție netulburată la scăldat, în mijlocul naturii de coastă sălbatice. Un sfat secret pentru aventurieri, cel mai bine accesibil cu barca sau pe trasee de drumeție.", "category": "recreational", "coords": [19.363875, 40.351072]}, {"name": "Zhanpovel", "text": "Plajă pe Peninsula Karaburun.", "category": "recreational", "coords": [19.400975, 40.382253]}], "en": [{"name": "Mouth of God", "text": "Natural beach on the Karaburun Peninsula.", "category": "recreational", "coords": [19.40644, 40.371977]}, {"name": "Dafina Beach", "text": "Dafina Beach is hidden away on the impressive Karaburun Peninsula. With its secluded location, it promises absolute peace and undisturbed swimming fun amidst wild coastal nature. A secret spot for adventurers, ideally reached by boat or hiking trails.", "category": "recreational", "coords": [19.363875, 40.351072]}, {"name": "Zhanpovel", "text": "Beach on the Karaburun Peninsula.", "category": "recreational", "coords": [19.400975, 40.382253]}]},
+    id: "albania-karaburun-peninsula-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Naturbelassener Strand auf der Karaburun-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Der Dafina Strand liegt versteckt auf der beeindruckenden Halbinsel Karaburun. Mit seiner abgelegenen Lage verspricht er absolute Ruhe und ungestörten Badespaß inmitten wilder Küstennatur. Ein Geheimtipp für Abenteurer, idealerweise mit dem Boot oder über Wanderwege erreichbar.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Strand auf der Halbinsel Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            },
+            {
+                  "name": "Maja e Koretës",
+                  "text": "Ein Berggipfel auf der Karaburun-Halbinsel mit Blick auf die albanische Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        19.36667,
+                        40.38333
+                  ]
+            },
+            {
+                  "name": "Dafina Bay",
+                  "text": "Eine malerische Bucht auf der Halbinsel Karaburun, bekannt für ihr klares Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        19.362881,
+                        40.350851
+                  ]
+            },
+            {
+                  "name": "Plazh me Gura",
+                  "text": "Ein charakteristischer Kieselstrand in einer Bucht der albanischen Riviera.",
+                  "category": "landmark",
+                  "coords": [
+                        19.379928,
+                        40.401865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Természetes strand a Karaburun-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "A Dafina strand a lenyűgöző Karaburun-félszigeten bújik meg. Elszigetelt fekvésével abszolút nyugalmat és zavartalan fürdőzést ígér a vad parti természet lágy ölén. Igazi titkos tipp a kalandorok számára, ideális esetben hajóval vagy túraútvonalakon közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Strand a Karaburun-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            },
+            {
+                  "name": "Maja e Koretës",
+                  "text": "Hegycsúcs a Karaburun-félszigeten, kilátással az albán partokra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.36667,
+                        40.38333
+                  ]
+            },
+            {
+                  "name": "Dafina Bay",
+                  "text": "Festői öböl a Karaburun-félszigeten, amely tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.362881,
+                        40.350851
+                  ]
+            },
+            {
+                  "name": "Plazh me Gura",
+                  "text": "Jellegzetes kavicsos strand az albán riviéra egyik öblében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.379928,
+                        40.401865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Plajă naturală pe peninsula Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Plaja Dafina este ascunsă pe impresionanta peninsulă Karaburun. Cu locația sa retrasă, promite o liniște absolută și distracție netulburată la scăldat, în mijlocul naturii de coastă sălbatice. Un sfat secret pentru aventurieri, cel mai bine accesibil cu barca sau pe trasee de drumeție.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Plajă pe Peninsula Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            },
+            {
+                  "name": "Maja e Koretës",
+                  "text": "Un vârf montan de pe peninsula Karaburun, cu vedere la coasta albaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        19.36667,
+                        40.38333
+                  ]
+            },
+            {
+                  "name": "Dafina Bay",
+                  "text": "Un golf pitoresc pe peninsula Karaburun, cunoscut pentru apele sale limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.362881,
+                        40.350851
+                  ]
+            },
+            {
+                  "name": "Plazh me Gura",
+                  "text": "O plajă caracteristică cu pietriș într-un golf de pe riviera albaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        19.379928,
+                        40.401865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Natural beach on the Karaburun Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Dafina Beach is hidden away on the impressive Karaburun Peninsula. With its secluded location, it promises absolute peace and undisturbed swimming fun amidst wild coastal nature. A secret spot for adventurers, ideally reached by boat or hiking trails.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Beach on the Karaburun Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            },
+            {
+                  "name": "Maja e Koretës",
+                  "text": "A mountain peak on the Karaburun Peninsula overlooking the Albanian coast.",
+                  "category": "landmark",
+                  "coords": [
+                        19.36667,
+                        40.38333
+                  ]
+            },
+            {
+                  "name": "Dafina Bay",
+                  "text": "A scenic bay on the Karaburun Peninsula, known for its clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        19.362881,
+                        40.350851
+                  ]
+            },
+            {
+                  "name": "peddle beach",
+                  "text": "A characteristic pebble beach in a bay of the Albanian Riviera.",
+                  "category": "landmark",
+                  "coords": [
+                        19.379928,
+                        40.401865
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Karaburun-Halbinsel", hu: "Karaburun-félsziget", ro: "Peninsula Karaburun", en: "Karaburun Peninsula"},
@@ -233,7 +836,52 @@ imageHint: "Rugged coast of Karaburun Peninsula with blue sea",
     },
     image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp",
 },  {
-    id: "albania-sazan-island-nature-v2",
+    id: "albania-sazan-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sazan",
+                  "text": "Die größte Insel Albaniens, strategisch günstig am Eingang der Bucht von Vlora gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.278869,
+                        40.494396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sazan-sziget",
+                  "text": "Albánia legnagyobb szigete, amely stratégiai helyen, a Vlorai-öböl bejáratánál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        19.278869,
+                        40.494396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ishulli i Sazanit",
+                  "text": "Cea mai mare insulă a Albaniei, situată strategic la intrarea în Golful Vlora.",
+                  "category": "landmark",
+                  "coords": [
+                        19.278869,
+                        40.494396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sazan Island",
+                  "text": "The largest island in Albania, strategically located at the entrance to the Bay of Vlorë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.278869,
+                        40.494396
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Insel Sazan", hu: "Sazan-sziget", ro: "Insula Sazan", en: "Sazan Island"},
@@ -508,7 +1156,160 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
     },
     image: "/poi-images/albania-koman-lake-nature-v2.webp",
 },  {
-    id: "albania-jezerca-mountain-nature-v2",
+    id: "albania-jezerca-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Ein markanter Berggipfel in den Albanischen Alpen nahe Jezerca.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "Ein Gipfel im Prokletije-Gebirge, bekannt für seine alpine Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Jezerca",
+                  "text": "Der höchste Gipfel der Dinarischen Alpen mit einer Höhe von 2694 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Ein malerischer Wasserfall im Valbona-Tal in den Albanischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Jellegzetes hegycsúcs az Albán-Alpokban, Jezerca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "A Prokletije-hegység egyik csúcsa, amely alpesi tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "A Dinári-Alpok legmagasabb csúcsa, magassága 2694 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "Festői vízesés a Valbona-völgyben, az Albán-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "Un vârf muntos proeminent în Alpii Albanezi, lângă Jezerca.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "Un vârf în munții Prokletije, cunoscut pentru peisajul său alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "Cel mai înalt vârf din Alpii Dinariici, având o înălțime de 2694 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Rrogam Waterfall",
+                  "text": "O cascadă pitorească în Valea Valbona din Alpii Albanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Bojës",
+                  "text": "A prominent mountain peak in the Albanian Alps near Jezerca.",
+                  "category": "landmark",
+                  "coords": [
+                        19.79906,
+                        42.466006
+                  ]
+            },
+            {
+                  "name": "Maja e Kokërhanes",
+                  "text": "A peak in the Prokletije mountains known for its alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        19.815699,
+                        42.450255
+                  ]
+            },
+            {
+                  "name": "Maja e Jezercës",
+                  "text": "The highest peak of the Dinaric Alps, standing at 2,694 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        19.81283,
+                        42.442093
+                  ]
+            },
+            {
+                  "name": "Valbona's Waterfall",
+                  "text": "A scenic waterfall in the Valbona Valley in the Albanian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826603,
+                        42.408251
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "peak",
     name: { de: "Maja e Jezercës", hu: "Jezerca-hegy", ro: "Muntele Jezerca", en: "Mount Jezerca"},
@@ -646,7 +1447,304 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
     },
     image: "/poi-images/albania-shkopet-lake-nature-v2.webp",
 },  {
-    id: "albania-grunas-waterfall-nature-v2",
+    id: "albania-grunas-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Ein Museum, das die traditionelle Kultur und das Erbe der Region Dukagjin zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Eine archäologische Stätte mit Überresten prähistorischer Terrassensiedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Ein markanter Berggipfel in der Nähe des Grunas-Wasserfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Wasserfall",
+                  "text": "Ein beeindruckender, 30 Meter hoher Wasserfall im Theth-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Ein hoher Gipfel in den albanischen Alpen mit Blick auf das Theth-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Eine traditionelle Wassermühle, die das historische ländliche Leben in der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Natürliche Felsformationen und Becken, die lokal als heilend gelten.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Eine spektakuläre Schlucht, die vom Grunas-Fluss geformt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "A Dukagjin régió hagyományos kultúráját és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Régészeti lelőhely őskori teraszos települések maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Egy jellegzetes hegycsúcs a Grunas-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "Egy lenyűgöző, 30 méter magas vízesés a Theth Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Egy magas csúcs az Albán-Alpokban, kilátással a Theth-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "Egy hagyományos vízimalom, amely a régió történelmi vidéki életét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Természetes sziklaalakzatok és medencék, amelyeket helyben gyógyító hatásúnak tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Egy látványos szurdok, amelyet a Grunas-folyó vájt ki.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Etnografik i Dukagjinit",
+                  "text": "Un muzeu care prezintă cultura tradițională și moștenirea regiunii Dukagjin.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
+                  "text": "Un sit arheologic cu vestigii ale unor așezări preistorice terasate.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "Un vârf montan proeminent situat lângă cascada Grunas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Ujëvara e Grunasit",
+                  "text": "O cascadă impresionantă de 30 de metri înălțime în Parcul Național Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "Un vârf înalt în Alpii Albanezi, cu vedere spre valea Theth.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "O moară de apă tradițională care ilustrează viața rurală istorică din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "Vaskat e Nderlysajve",
+                  "text": "Formațiuni stâncoase naturale și bazine considerate local ca fiind tămăduitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "Un canion spectaculos format de râul Grunas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum of Dukagjin",
+                  "text": "A museum showcasing the traditional culture and heritage of the Dukagjin region.",
+                  "category": "museum",
+                  "coords": [
+                        19.785228,
+                        42.387331
+                  ]
+            },
+            {
+                  "name": "Prehistoric Settlement with Terraces",
+                  "text": "An archaeological site featuring remains of prehistoric terraced settlements.",
+                  "category": "historical",
+                  "coords": [
+                        19.790507,
+                        42.374715
+                  ]
+            },
+            {
+                  "name": "Maja e Zorzit",
+                  "text": "A prominent mountain peak located near the Grunas Waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        19.76959,
+                        42.370567
+                  ]
+            },
+            {
+                  "name": "Grunas Waterfall",
+                  "text": "A stunning 30-meter high waterfall located in the Theth National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        19.795255,
+                        42.377408
+                  ]
+            },
+            {
+                  "name": "Maja e Boshit",
+                  "text": "A high peak in the Albanian Alps overlooking the Theth valley.",
+                  "category": "landmark",
+                  "coords": [
+                        19.827613,
+                        42.386249
+                  ]
+            },
+            {
+                  "name": "Water mill",
+                  "text": "A traditional water mill showcasing historical rural life in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.770116,
+                        42.399649
+                  ]
+            },
+            {
+                  "name": "The Baths of the Intercessors",
+                  "text": "Natural rock formations and pools locally considered to have healing properties.",
+                  "category": "landmark",
+                  "coords": [
+                        19.765257,
+                        42.355926
+                  ]
+            },
+            {
+                  "name": "Canyon of Grunas",
+                  "text": "A spectacular canyon carved by the Grunas River.",
+                  "category": "landmark",
+                  "coords": [
+                        19.789351,
+                        42.375023
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Grunas-Wasserfall", hu: "Grunas-vízesés", ro: "Cascada Grunas", en: "Grunas Waterfall"},
@@ -692,7 +1790,52 @@ imageHint: "Tall Grunas waterfall splashing into a rock pool",
     },
     image: "/poi-images/albania-grunas-waterfall-nature-v2.webp",
 },  {
-    id: "albania-shengjergji-waterfall-nature-v2",
+    id: "albania-shengjergji-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ujëvara e Shëngjergjit",
+                  "text": "Ein malerischer natürlicher Wasserfall in der Nähe von Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        20.032554,
+                        41.329148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ujëvara e Shëngjergjit",
+                  "text": "Festői természeti vízesés Tirana közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.032554,
+                        41.329148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ujëvara e Shëngjergjit",
+                  "text": "O cascadă naturală pitorească situată în apropiere de Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        20.032554,
+                        41.329148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shëngjergji Waterfall",
+                  "text": "A scenic natural waterfall located near Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        20.032554,
+                        41.329148
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Shëngjergji-Wasserfall", hu: "Shëngjergji-vízesés", ro: "Cascada Shëngjergji", en: "Shëngjergji Waterfall"},
@@ -738,7 +1881,52 @@ imageHint: "Shëngjergji waterfall in a lush green forest",
     },
     image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp",
 },  {
-    id: "albania-sotira-waterfall-nature-v2",
+    id: "albania-sotira-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ujëvara e Sotirës",
+                  "text": "Ein malerischer Wasserfall in Albanien, der für seine natürliche Schönheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.166131,
+                        40.754987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ujëvara e Sotirës",
+                  "text": "Festői vízesés Albániában, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.166131,
+                        40.754987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ujëvara e Sotirës",
+                  "text": "O cascadă pitorească din Albania, cunoscută pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        20.166131,
+                        40.754987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sotira Waterfall",
+                  "text": "A picturesque waterfall in Albania, known for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        20.166131,
+                        40.754987
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Sotira-Wasserfall", hu: "Sotira-vízesés", ro: "Cascada Sotira", en: "Sotira Waterfall"},
@@ -1465,7 +2653,88 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
     image: "/poi-images/albania-rana-e-hedhun-nature-v2.webp",
   },
   {
-    id: "albania-lura-lakes-nature-v2",
+    id: "albania-lura-lakes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "Ein markanter Berggipfel im Lura-Massiv in Albanien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "Ein Berggipfel in der Nähe der Lura-Seen in Albanien.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "Egy jellegzetes hegycsúcs az albániai Lura-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "Hegycsúcs az albániai Lura-tavak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "Un vârf muntos proeminent din masivul Lura din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "Un vârf muntos situat în apropierea lacurilor Lura din Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Kunora e Lurës",
+                  "text": "A prominent mountain peak in the Lura range in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.181561,
+                        41.785419
+                  ]
+            },
+            {
+                  "name": "Maja e Runja e Lures",
+                  "text": "A mountain peak located near the Lura Lakes in Albania.",
+                  "category": "landmark",
+                  "coords": [
+                        20.248333,
+                        41.778056
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AL",
     name: { de: "Lura-Seen", hu: "Lura-tavak", ro: "Lacurile Lura", en: "Lura Lakes" },

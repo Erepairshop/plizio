@@ -2114,6 +2114,24 @@ export const austriaCities: POI[] = [
                         13.776145,
                         47.903676
                   ]
+            },
+            {
+                  "name": "Seeschloss Ort",
+                  "text": "Das berühmte Seeschloss Ort liegt auf einer kleinen Insel im Traunsee bei Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.792226,
+                        47.911413
+                  ]
+            },
+            {
+                  "name": "Landschloss Ort",
+                  "text": "Das Landschloss Ort bildet das landseitige Gegenstück zum berühmten Seeschloss in Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.789959,
+                        47.910293
+                  ]
             }
       ],
       "hu": [
@@ -2394,6 +2412,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.776145,
                         47.903676
+                  ]
+            },
+            {
+                  "name": "Seeschloss Ort",
+                  "text": "A híres Ort-tavi kastély a gmundeni Traunsee egyik kis szigetén található.",
+                  "category": "castle",
+                  "coords": [
+                        13.792226,
+                        47.911413
+                  ]
+            },
+            {
+                  "name": "Landschloss Ort",
+                  "text": "A Landschloss Ort a gmundeni híres tavi kastély szárazföldi ellenpárja.",
+                  "category": "castle",
+                  "coords": [
+                        13.789959,
+                        47.910293
                   ]
             }
       ],
@@ -2676,6 +2712,24 @@ export const austriaCities: POI[] = [
                         13.776145,
                         47.903676
                   ]
+            },
+            {
+                  "name": "Seeschloss Ort",
+                  "text": "Celebrul castel lacustru Ort este situat pe o mică insulă din Traunsee, lângă Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.792226,
+                        47.911413
+                  ]
+            },
+            {
+                  "name": "Landschloss Ort",
+                  "text": "Castelul Landschloss Ort formează omologul de pe uscat al celebrului castel lacustru din Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.789959,
+                        47.910293
+                  ]
             }
       ],
       "en": [
@@ -2956,6 +3010,24 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.776145,
                         47.903676
+                  ]
+            },
+            {
+                  "name": "Seeschloss Ort",
+                  "text": "The famous Seeschloss Ort is located on a small island in Lake Traunsee near Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.792226,
+                        47.911413
+                  ]
+            },
+            {
+                  "name": "Landschloss Ort",
+                  "text": "Landschloss Ort serves as the mainland counterpart to the famous lake castle in Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.789959,
+                        47.910293
                   ]
             }
       ]
@@ -4325,6 +4397,15 @@ export const austriaCities: POI[] = [
                         11.097071,
                         47.306613
                   ]
+            },
+            {
+                  "name": "Kapelle hl. Wendelin",
+                  "text": "Eine kleine Kapelle in Telfs, die dem heiligen Wendelin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.056263,
+                        47.30701
+                  ]
             }
       ],
       "hu": [
@@ -4605,6 +4686,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.097071,
                         47.306613
+                  ]
+            },
+            {
+                  "name": "Kapelle hl. Wendelin",
+                  "text": "Szent Vendelnek szentelt kis kápolna Telfsben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.056263,
+                        47.30701
                   ]
             }
       ],
@@ -4887,6 +4977,15 @@ export const austriaCities: POI[] = [
                         11.097071,
                         47.306613
                   ]
+            },
+            {
+                  "name": "Kapelle hl. Wendelin",
+                  "text": "O mică capelă în Telfs, dedicată Sfântului Wendelin.",
+                  "category": "landmark",
+                  "coords": [
+                        11.056263,
+                        47.30701
+                  ]
             }
       ],
       "en": [
@@ -5167,6 +5266,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.097071,
                         47.306613
+                  ]
+            },
+            {
+                  "name": "Kapelle hl. Wendelin",
+                  "text": "A small chapel in Telfs dedicated to Saint Wendelin.",
+                  "category": "landmark",
+                  "coords": [
+                        11.056263,
+                        47.30701
                   ]
             }
       ]

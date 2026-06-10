@@ -48,7 +48,304 @@ export const switzerlandLandmarksV2: POI[] = [
     image: "/poi-images/switzerland-grossmunster-landmarks-v2.webp",
   },
   {
-    id: "switzerland-landwasser-viaduct-landmarks-v2",
+    id: "switzerland-landwasser-viaduct-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Greifenstein",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Filisur im Kanton Graubünden.",
+                  "category": "castle",
+                  "coords": [
+                        9.692905,
+                        46.67599
+                  ]
+            },
+            {
+                  "name": "Small Railway Museum Filisur",
+                  "text": "Ein kleines Museum in Filisur, das sich der Geschichte der Rhätischen Bahn widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.682321,
+                        46.675181
+                  ]
+            },
+            {
+                  "name": "Bot digl Uors",
+                  "text": "Ein Gipfel in der Nähe des Landwasserviadukts, der die alpine Landschaft der Region prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670342,
+                        46.645211
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Nord (Hennings)",
+                  "text": "Nördlicher Aussichtspunkt mit bestem Blick auf das berühmte Landwasserviadukt der Rhätischen Bahn.",
+                  "category": "natural",
+                  "coords": [
+                        9.673582,
+                        46.680613
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Süd (Acatos)",
+                  "text": "Südlicher Aussichtspunkt, der eine alternative Perspektive auf das beeindruckende Landwasserviadukt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.67613,
+                        46.679239
+                  ]
+            },
+            {
+                  "name": "Gartenbahn",
+                  "text": "Eine kleine Modelleisenbahn-Attraktion in der Nähe des Landwasserviadukts.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683467,
+                        46.6882
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Wiesner Viadukt Süd",
+                  "text": "Aussichtspunkt südlich des Wiesner Viadukts mit weitem Blick über die Bahnstrecke und das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        9.712367,
+                        46.693434
+                  ]
+            },
+            {
+                  "name": "Sicht auf Wiesner Viadukt",
+                  "text": "Ein Aussichtspunkt, der direkt auf die beeindruckende Architektur des Wiesner Viadukts blickt.",
+                  "category": "natural",
+                  "coords": [
+                        9.70574,
+                        46.700432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Greifenstein",
+                  "text": "Egy középkori sziklavár romjai Filisur felett, Grisons kantonban.",
+                  "category": "castle",
+                  "coords": [
+                        9.692905,
+                        46.67599
+                  ]
+            },
+            {
+                  "name": "Small Railway Museum Filisur",
+                  "text": "Filisur kis múzeuma, amely a Rhätische Bahn vasútvonal történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.682321,
+                        46.675181
+                  ]
+            },
+            {
+                  "name": "Bot digl Uors",
+                  "text": "A Landwasserviadukt közelében található hegycsúcs, amely meghatározza a régió alpesi táját.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670342,
+                        46.645211
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Nord (Hennings)",
+                  "text": "Északi kilátóhely, ahonnan kiváló rálátás nyílik a Rhätische Bahn híres Landwasserviaduktjára.",
+                  "category": "natural",
+                  "coords": [
+                        9.673582,
+                        46.680613
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Süd (Acatos)",
+                  "text": "Déli kilátóhely, amely alternatív perspektívát nyújt a lenyűgöző Landwasserviaduktra.",
+                  "category": "natural",
+                  "coords": [
+                        9.67613,
+                        46.679239
+                  ]
+            },
+            {
+                  "name": "Gartenbahn",
+                  "text": "Kis kerti vasútmodell-attrakció a Landwasserviadukt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683467,
+                        46.6882
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Wiesner Viadukt Süd",
+                  "text": "Kilátóhely a Wiesner Viadukttól délre, ahonnan remek kilátás nyílik a vasútvonalra és a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        9.712367,
+                        46.693434
+                  ]
+            },
+            {
+                  "name": "Sicht auf Wiesner Viadukt",
+                  "text": "Kilátóhely, amely közvetlenül a Wiesner Viadukt lenyűgöző építészetére néz.",
+                  "category": "natural",
+                  "coords": [
+                        9.70574,
+                        46.700432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Greifenstein",
+                  "text": "Ruinele unei cetăți medievale situate deasupra localității Filisur, în cantonul Graubünden.",
+                  "category": "castle",
+                  "coords": [
+                        9.692905,
+                        46.67599
+                  ]
+            },
+            {
+                  "name": "Small Railway Museum Filisur",
+                  "text": "Un mic muzeu din Filisur dedicat istoriei Căilor Ferate Retice.",
+                  "category": "museum",
+                  "coords": [
+                        9.682321,
+                        46.675181
+                  ]
+            },
+            {
+                  "name": "Bot digl Uors",
+                  "text": "Un vârf muntos din apropierea Viaductului Landwasser, care domină peisajul alpin al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670342,
+                        46.645211
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Nord (Hennings)",
+                  "text": "Platformă de observație nordică ce oferă cea mai bună vedere asupra celebrului viaduct Landwasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.673582,
+                        46.680613
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Süd (Acatos)",
+                  "text": "Punct de observație sudic care oferă o perspectivă alternativă asupra impresionantului viaduct Landwasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.67613,
+                        46.679239
+                  ]
+            },
+            {
+                  "name": "Gartenbahn",
+                  "text": "O mică atracție cu trenulețe de grădină situată în apropierea viaductului Landwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683467,
+                        46.6882
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Wiesner Viadukt Süd",
+                  "text": "Punct de observație la sud de viaductul Wiesner, cu o vedere panoramică asupra liniei ferate și a văii.",
+                  "category": "natural",
+                  "coords": [
+                        9.712367,
+                        46.693434
+                  ]
+            },
+            {
+                  "name": "Sicht auf Wiesner Viadukt",
+                  "text": "Un punct de observație cu vedere directă către arhitectura impresionantă a viaductului Wiesner.",
+                  "category": "natural",
+                  "coords": [
+                        9.70574,
+                        46.700432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Greifenstein",
+                  "text": "The ruins of a medieval rock castle overlooking Filisur in the Swiss canton of Graubünden.",
+                  "category": "castle",
+                  "coords": [
+                        9.692905,
+                        46.67599
+                  ]
+            },
+            {
+                  "name": "Small Railway Museum Filisur",
+                  "text": "A small museum in Filisur dedicated to the history and operations of the Rhaetian Railway.",
+                  "category": "museum",
+                  "coords": [
+                        9.682321,
+                        46.675181
+                  ]
+            },
+            {
+                  "name": "Bot digl Uors",
+                  "text": "A mountain peak near the Landwasser Viaduct, contributing to the region's alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        9.670342,
+                        46.645211
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Nord (Hennings)",
+                  "text": "A northern observation platform offering a classic view of the famous Landwasser Viaduct.",
+                  "category": "natural",
+                  "coords": [
+                        9.673582,
+                        46.680613
+                  ]
+            },
+            {
+                  "name": "Landwasserviadukt - Aussichtsplattform Süd (Acatos)",
+                  "text": "A southern viewpoint providing an alternative perspective of the impressive Landwasser Viaduct.",
+                  "category": "natural",
+                  "coords": [
+                        9.67613,
+                        46.679239
+                  ]
+            },
+            {
+                  "name": "Gartenbahn",
+                  "text": "A miniature garden railway attraction located in the vicinity of the Landwasser Viaduct.",
+                  "category": "landmark",
+                  "coords": [
+                        9.683467,
+                        46.6882
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Wiesner Viadukt Süd",
+                  "text": "A viewpoint south of the Wiesner Viaduct offering vistas of the railway line and the valley.",
+                  "category": "natural",
+                  "coords": [
+                        9.712367,
+                        46.693434
+                  ]
+            },
+            {
+                  "name": "View to Wiesner Viaduct",
+                  "text": "A viewpoint overlooking the impressive engineering and architecture of the Wiesner Viaduct.",
+                  "category": "natural",
+                  "coords": [
+                        9.70574,
+                        46.700432
+                  ]
+            }
+      ]
+},
     type: "bridge",
     parent: "CH",
     name: { de: "Landwasserviadukt", hu: "Landwasser-viadukt", ro: "Viaductul Landwasser", en: "Landwasser Viaduct" },
@@ -993,7 +1290,304 @@ export const switzerlandLandmarksV2: POI[] = [
     image: "/poi-images/switzerland-st-joseph-church-landmarks-v2.webp",
   },
   {
-    id: "switzerland-schloss-weissenburg-landmarks-v2",
+    id: "switzerland-schloss-weissenburg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Weissenburg",
+                  "text": "Die Überreste einer mittelalterlichen Höhenburg oberhalb des Dorfes Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.473039,
+                        46.658345
+                  ]
+            },
+            {
+                  "name": "Burgruine Hirzere",
+                  "text": "Die Ruinen einer historischen Burg in der Region Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.409572,
+                        46.638362
+                  ]
+            },
+            {
+                  "name": "Burgruine Eichstalden",
+                  "text": "Eine verfallene Burganlage bei Weissenburg, die Zeugnis von der regionalen Geschichte ablegt.",
+                  "category": "castle",
+                  "coords": [
+                        7.41194,
+                        46.643175
+                  ]
+            },
+            {
+                  "name": "Festi",
+                  "text": "Eine historische Befestigungsanlage oder Burgstelle in der Nähe von Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.406536,
+                        46.649056
+                  ]
+            },
+            {
+                  "name": "Heidenmauer",
+                  "text": "Die Überreste einer alten Wehrmauer oder Befestigung bei Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.436344,
+                        46.655645
+                  ]
+            },
+            {
+                  "name": "Hinteres Bad Weissenburg",
+                  "text": "Ein archäologischer Fundort des ehemaligen Badebetriebs im Weissenburgbad.",
+                  "category": "historical",
+                  "coords": [
+                        7.463602,
+                        46.670046
+                  ]
+            },
+            {
+                  "name": "Schibe",
+                  "text": "Ein Berggipfel in den Schweizer Alpen bei Weissenburg mit herrlicher Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        7.393045,
+                        46.672546
+                  ]
+            },
+            {
+                  "name": "Widdersgrind",
+                  "text": "Ein markanter Berggipfel in der Region Weissenburg, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        7.40686,
+                        46.677359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Weissenburg",
+                  "text": "Egy középkori hegyi vár maradványai Weissenburg faluja felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.473039,
+                        46.658345
+                  ]
+            },
+            {
+                  "name": "Burgruine Hirzere",
+                  "text": "Egy történelmi vár romjai Weissenburg régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        7.409572,
+                        46.638362
+                  ]
+            },
+            {
+                  "name": "Burgruine Eichstalden",
+                  "text": "Weissenburg közeli várrom, amely a régió történelméről tanúskodik.",
+                  "category": "castle",
+                  "coords": [
+                        7.41194,
+                        46.643175
+                  ]
+            },
+            {
+                  "name": "Festi",
+                  "text": "Történelmi erődítmény vagy várhely Weissenburg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.406536,
+                        46.649056
+                  ]
+            },
+            {
+                  "name": "Heidenmauer",
+                  "text": "Egy régi védőfal vagy erődítmény maradványai Weissenburgnál.",
+                  "category": "castle",
+                  "coords": [
+                        7.436344,
+                        46.655645
+                  ]
+            },
+            {
+                  "name": "Hinteres Bad Weissenburg",
+                  "text": "Az egykori weissenburgi fürdő régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        7.463602,
+                        46.670046
+                  ]
+            },
+            {
+                  "name": "Schibe",
+                  "text": "Hegycsúcs a Svájci-Alpokban Weissenburg közelében, gyönyörű kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        7.393045,
+                        46.672546
+                  ]
+            },
+            {
+                  "name": "Widdersgrind",
+                  "text": "Jellegzetes hegycsúcs Weissenburg régiójában, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.40686,
+                        46.677359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Weissenburg",
+                  "text": "Ruinele unui castel medieval situat deasupra satului Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.473039,
+                        46.658345
+                  ]
+            },
+            {
+                  "name": "Burgruine Hirzere",
+                  "text": "Ruinele unei cetăți istorice din regiunea Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.409572,
+                        46.638362
+                  ]
+            },
+            {
+                  "name": "Burgruine Eichstalden",
+                  "text": "O fortăreață în ruină lângă Weissenburg, care atestă istoria regională.",
+                  "category": "castle",
+                  "coords": [
+                        7.41194,
+                        46.643175
+                  ]
+            },
+            {
+                  "name": "Festi",
+                  "text": "O fortificație istorică sau situl unui castel în apropiere de Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.406536,
+                        46.649056
+                  ]
+            },
+            {
+                  "name": "Heidenmauer",
+                  "text": "Rămășițele unui vechi zid de apărare sau fortificație de lângă Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.436344,
+                        46.655645
+                  ]
+            },
+            {
+                  "name": "Hinteres Bad Weissenburg",
+                  "text": "Un sit arheologic al fostelor băi termale din Weissenburgbad.",
+                  "category": "historical",
+                  "coords": [
+                        7.463602,
+                        46.670046
+                  ]
+            },
+            {
+                  "name": "Schibe",
+                  "text": "Un vârf montan din Alpii Elvețieni de lângă Weissenburg, oferind panorame superbe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.393045,
+                        46.672546
+                  ]
+            },
+            {
+                  "name": "Widdersgrind",
+                  "text": "Un vârf montan proeminent din regiunea Weissenburg, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        7.40686,
+                        46.677359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Weissenburg",
+                  "text": "The remains of a medieval hill castle located above the village of Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.473039,
+                        46.658345
+                  ]
+            },
+            {
+                  "name": "Burgruine Hirzere",
+                  "text": "The ruins of a historical castle in the Weissenburg region.",
+                  "category": "castle",
+                  "coords": [
+                        7.409572,
+                        46.638362
+                  ]
+            },
+            {
+                  "name": "Burgruine Eichstalden",
+                  "text": "A ruined castle complex near Weissenburg, bearing witness to regional history.",
+                  "category": "castle",
+                  "coords": [
+                        7.41194,
+                        46.643175
+                  ]
+            },
+            {
+                  "name": "Festi",
+                  "text": "A historical fortification or castle site near Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.406536,
+                        46.649056
+                  ]
+            },
+            {
+                  "name": "Heidenmauer",
+                  "text": "The remains of an old defensive wall or fortification near Weissenburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.436344,
+                        46.655645
+                  ]
+            },
+            {
+                  "name": "Hinteres Bad Weissenburg",
+                  "text": "An archaeological site of the former thermal bath facilities in Weissenburgbad.",
+                  "category": "historical",
+                  "coords": [
+                        7.463602,
+                        46.670046
+                  ]
+            },
+            {
+                  "name": "Schibe",
+                  "text": "A mountain peak in the Swiss Alps near Weissenburg, offering great views.",
+                  "category": "landmark",
+                  "coords": [
+                        7.393045,
+                        46.672546
+                  ]
+            },
+            {
+                  "name": "Widdersgrind",
+                  "text": "A prominent mountain peak in the Weissenburg region, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.40686,
+                        46.677359
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Weissenburg", hu: "Weissenburg-kastély", ro: "Castelul Weissenburg", en: "Weissenburg Castle" },

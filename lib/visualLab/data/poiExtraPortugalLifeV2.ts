@@ -48,7 +48,232 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-sapal-de-castro-marim-life-v2.webp",
   },
   {
-    id: "portugal-parque-natural-do-litoral-norte-life-v2",
+    id: "portugal-parque-natural-do-litoral-norte-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Dieser Leuchtturm befindet sich an der Mündung des Flusses Cávado im Naturpark Litoral Norte.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "Ein Naturschutzgebiet an der portugiesischen Küste, das für seine Dünen und Wildtiere bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "Das Stadtmuseum zeigt Ausstellungen zur lokalen Geschichte und Kultur von Esposende.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "Ein wichtiges Feuchtgebiet und Naturschutzgebiet an der Mündung des Flusses Cávado.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Museu do Sargaço",
+                  "text": "Ein Museum, das der Tradition des Sammelns von Seegras (Sargasso) in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.773193,
+                        41.483422
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "Ein beliebter Sandstrand im Naturpark Litoral Norte bei Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Ez a világítótorony a Cávado-folyó torkolatánál található az Északi-parti Természetvédelmi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "Természetvédelmi terület a portugál tengerparton, amely dűnéiről és élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "A városi múzeum Esposende helyi történelmét és kultúráját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "Fontos vizes élőhely és természetvédelmi terület a Cávado-folyó torkolatánál.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Museu do Sargaço",
+                  "text": "A régió tengeri hínár (Sargasso) gyűjtésének hagyományait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.773193,
+                        41.483422
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "Népszerű homokos tengerpart az Északi-parti Természetvédelmi Parkban, Esposende közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "Acest far este situat la gura de vărsare a râului Cávado, în Parcul Natural Litoral Norte.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Parque Natural do Litoral Norte",
+                  "text": "O rezervație naturală pe coasta portugheză, cunoscută pentru dunele și fauna sa sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "Muzeul municipal găzduiește expoziții despre istoria și cultura locală din Esposende.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "O zonă umedă importantă și rezervație naturală la gura de vărsare a râului Cávado.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Museu do Sargaço",
+                  "text": "Un muzeu dedicat tradiției recoltării algelor marine (Sargasso) în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.773193,
+                        41.483422
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "O plajă de nisip populară situată în Parcul Natural Litoral Norte, lângă Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol de Esposende",
+                  "text": "This lighthouse is located at the mouth of the Cávado River in the Litoral Norte Natural Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.790614,
+                        41.542917
+                  ]
+            },
+            {
+                  "name": "Litoral Norte Nature Reserve",
+                  "text": "A nature reserve on the Portuguese coast known for its dunes and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -8.816263,
+                        41.53792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Esposende",
+                  "text": "The municipal museum houses exhibitions about the local history and culture of Esposende.",
+                  "category": "museum",
+                  "coords": [
+                        -8.780931,
+                        41.530679
+                  ]
+            },
+            {
+                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
+                  "text": "An important wetland and nature reserve at the mouth of the Cávado River.",
+                  "category": "natural",
+                  "coords": [
+                        -8.763226,
+                        41.511231
+                  ]
+            },
+            {
+                  "name": "Museu do Sargaço",
+                  "text": "A museum dedicated to the tradition of seaweed (Sargasso) harvesting in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.773193,
+                        41.483422
+                  ]
+            },
+            {
+                  "name": "Praia Suave Mar (Norte)",
+                  "text": "A popular sandy beach located in the Litoral Norte Natural Park near Esposende.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.792024,
+                        41.548036
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PT",
     name: { de: "Naturpark Litoral Norte", hu: "Litoral Norte Natúrpark", ro: "Parcul Natural Litoral Norte", en: "Litoral Norte Natural Park" },
@@ -228,7 +453,268 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-tapada-das-necessidades-life-v2.webp",
   },
   {
-    id: "portugal-reserva-natural-do-sapal-de-vougela-life-v2",
+    id: "portugal-reserva-natural-do-sapal-de-vougela-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anta da Capela dos Mouros",
+                  "text": "Eine prähistorische Grabstätte im Naturschutzgebiet Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.303959,
+                        40.691424
+                  ]
+            },
+            {
+                  "name": "Dólmen 2 do Chão Redondo",
+                  "text": "Eine megalithische Grabstätte (Dolmen) im Naturschutzgebiet Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.311838,
+                        40.664104
+                  ]
+            },
+            {
+                  "name": "Sepultura do Rei",
+                  "text": "Eine bedeutende archäologische Stätte im Naturschutzgebiet Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297079,
+                        40.682208
+                  ]
+            },
+            {
+                  "name": "Anta 1 de Poço dos Mouros",
+                  "text": "Eine prähistorische Anta im Herzen des Sapal de Vougela Naturschutzgebiets.",
+                  "category": "historical",
+                  "coords": [
+                        -8.31552,
+                        40.67133
+                  ]
+            },
+            {
+                  "name": "Via Romana da Ereira",
+                  "text": "Überreste einer antiken Römerstraße im Naturschutzgebiet Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297861,
+                        40.673139
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Cortez",
+                  "text": "Ein Flussstrand im Naturschutzgebiet Sapal de Vougela, der zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300649,
+                        40.650084
+                  ]
+            },
+            {
+                  "name": "Minas do Vilarinho",
+                  "text": "Ein Besucherziel im Naturschutzgebiet Sapal de Vougela, das mit der Bergbaugeschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.326652,
+                        40.650071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anta da Capela dos Mouros",
+                  "text": "Őskori régészeti lelőhely a Sapal de Vougela természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.303959,
+                        40.691424
+                  ]
+            },
+            {
+                  "name": "Dólmen 2 do Chão Redondo",
+                  "text": "Megalitikus síremlék a Sapal de Vougela természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.311838,
+                        40.664104
+                  ]
+            },
+            {
+                  "name": "Sepultura do Rei",
+                  "text": "Jelentős régészeti lelőhely a Sapal de Vougela természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297079,
+                        40.682208
+                  ]
+            },
+            {
+                  "name": "Anta 1 de Poço dos Mouros",
+                  "text": "Őskori sírépítmény a Sapal de Vougela természetvédelmi terület szívében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.31552,
+                        40.67133
+                  ]
+            },
+            {
+                  "name": "Via Romana da Ereira",
+                  "text": "Egy ókori római út maradványai a Sapal de Vougela természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297861,
+                        40.673139
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Cortez",
+                  "text": "Folyóparti strand a Sapal de Vougela természetvédelmi területen, amely alkalmas pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300649,
+                        40.650084
+                  ]
+            },
+            {
+                  "name": "Minas do Vilarinho",
+                  "text": "A bányászati múlthoz kapcsolódó látnivaló a Sapal de Vougela természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.326652,
+                        40.650071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anta da Capela dos Mouros",
+                  "text": "Un sit arheologic preistoric situat în Rezervația Naturală Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.303959,
+                        40.691424
+                  ]
+            },
+            {
+                  "name": "Dólmen 2 do Chão Redondo",
+                  "text": "Un monument megalitic situat în Rezervația Naturală Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.311838,
+                        40.664104
+                  ]
+            },
+            {
+                  "name": "Sepultura do Rei",
+                  "text": "Un sit arheologic important situat în Rezervația Naturală Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297079,
+                        40.682208
+                  ]
+            },
+            {
+                  "name": "Anta 1 de Poço dos Mouros",
+                  "text": "O antă preistorică situată în inima Rezervației Naturale Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.31552,
+                        40.67133
+                  ]
+            },
+            {
+                  "name": "Via Romana da Ereira",
+                  "text": "Vestigiile unui drum roman antic în Rezervația Naturală Sapal de Vougela.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297861,
+                        40.673139
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Cortez",
+                  "text": "O plajă fluvială situată în Rezervația Naturală Sapal de Vougela, ideală pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300649,
+                        40.650084
+                  ]
+            },
+            {
+                  "name": "Minas do Vilarinho",
+                  "text": "O atracție legată de istoria minieră în Rezervația Naturală Sapal de Vougela.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.326652,
+                        40.650071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anta da Capela dos Mouros",
+                  "text": "A prehistoric archaeological site located in the Sapal de Vougela Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.303959,
+                        40.691424
+                  ]
+            },
+            {
+                  "name": "Dólmen 2 do Chão Redondo",
+                  "text": "A megalithic burial site located in the Sapal de Vougela Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.311838,
+                        40.664104
+                  ]
+            },
+            {
+                  "name": "Sepultura do Rei",
+                  "text": "A significant archaeological site located in the Sapal de Vougela Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297079,
+                        40.682208
+                  ]
+            },
+            {
+                  "name": "Anta 1 de Poço dos Mouros",
+                  "text": "A prehistoric anta located in the heart of the Sapal de Vougela Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.31552,
+                        40.67133
+                  ]
+            },
+            {
+                  "name": "Via Romana da Ereira",
+                  "text": "The remains of an ancient Roman road in the Sapal de Vougela Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -8.297861,
+                        40.673139
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Cortez",
+                  "text": "A river beach in the Sapal de Vougela Nature Reserve, ideal for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300649,
+                        40.650084
+                  ]
+            },
+            {
+                  "name": "Minas do Vilarinho",
+                  "text": "An attraction related to mining history in the Sapal de Vougela Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.326652,
+                        40.650071
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Sapal de Vougela", hu: "Sapal de Vougela Természetvédelmi Terület", ro: "Rezervația Naturală Sapal de Vougela", en: "Sapal de Vougela Nature Reserve" },
@@ -363,7 +849,304 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-jardim-botanico-tropical-life-v2.webp",
   },
   {
-    id: "portugal-reserva-natural-do-estuario-do-tejo-life-v2",
+    id: "portugal-reserva-natural-do-estuario-do-tejo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "Eine historische Befestigungsanlage im Naturschutzgebiet Tejo-Mündung, Teil der Linien von Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Ein Luftfahrtmuseum in Alverca, das die Geschichte der portugiesischen Luftfahrt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "Eine kleine historische Festungsanlage im Tejo-Mündungsgebiet zur Verteidigung der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Eine bedeutende historische Festung im Naturschutzgebiet Tejo-Mündung mit militärischer Vergangenheit.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "Eine historische Militäranlage aus dem 19. Jahrhundert, gelegen im Tejo-Mündungsgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            },
+            {
+                  "name": "Forte Reentrante da Serra de Albueira",
+                  "text": "Eine archäologische Ausgrabungsstätte einer historischen Festung in der Nähe des Tejo-Estuars.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05854,
+                        38.877427
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio Ildefonso Valério",
+                  "text": "Ein Theater und Studio im Tejo-Mündungsgebiet, das kulturelle Produktionen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.038985,
+                        38.894135
+                  ]
+            },
+            {
+                  "name": "Reserva Integral do Mouchão do Lombo do Tejo",
+                  "text": "Ein streng geschütztes Naturschutzgebiet im Mündungsdelta des Tejo, wichtig für die Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        -9.00976,
+                        38.867135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "Történelmi erődítmény a Tejo-torkolat természetvédelmi területén, a Torres Vedras-vonal része.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Repüléstörténeti múzeum Alvercában, amely a portugál repülés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "Kisebb történelmi erőd a Tejo-torkolat vidékén, amely a régió védelmét szolgálta.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "Jelentős történelmi erőd a Tejo-torkolat természetvédelmi területén, katonai múlttal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "19. századi történelmi katonai létesítmény a Tejo-torkolat területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            },
+            {
+                  "name": "Forte Reentrante da Serra de Albueira",
+                  "text": "Egy történelmi erőd régészeti lelőhelye a Tejo-torkolat közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05854,
+                        38.877427
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio Ildefonso Valério",
+                  "text": "Színház és stúdió a Tejo-torkolat vidékén, amely kulturális produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.038985,
+                        38.894135
+                  ]
+            },
+            {
+                  "name": "Reserva Integral do Mouchão do Lombo do Tejo",
+                  "text": "Szigorúan védett természetvédelmi terület a Tejo-torkolat deltájában, fontos biodiverzitással.",
+                  "category": "natural",
+                  "coords": [
+                        -9.00976,
+                        38.867135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "O fortificație istorică în Rezervația Naturală a Estuarului Tejo, parte din Liniile Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "Un muzeu al aviației din Alverca, ce prezintă istoria aeronauticii portugheze.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "O mică fortificație istorică în zona estuarului Tejo, utilizată pentru apărarea regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "O fortificație istorică importantă în Rezervația Naturală a Estuarului Tejo, cu un trecut militar.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "O fortificație militară istorică din secolul al XIX-lea, situată în zona estuarului Tejo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            },
+            {
+                  "name": "Forte Reentrante da Serra de Albueira",
+                  "text": "Un sit arheologic al unei fortificații istorice situat în apropierea estuarului Tejo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05854,
+                        38.877427
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio Ildefonso Valério",
+                  "text": "Un teatru și studio în zona estuarului Tejo, care promovează producțiile culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.038985,
+                        38.894135
+                  ]
+            },
+            {
+                  "name": "Reserva Integral do Mouchão do Lombo do Tejo",
+                  "text": "O rezervație naturală integrală în delta estuarului Tejo, importantă pentru biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        -9.00976,
+                        38.867135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte da Vinha",
+                  "text": "A historic fortification in the Tejo Estuary Nature Reserve, part of the Lines of Torres Vedras.",
+                  "category": "historical",
+                  "coords": [
+                        -9.052539,
+                        38.87041
+                  ]
+            },
+            {
+                  "name": "Museu do Ar - Pólo de Alverca",
+                  "text": "An aviation museum in Alverca showcasing the history of Portuguese aeronautics.",
+                  "category": "museum",
+                  "coords": [
+                        -9.032345,
+                        38.890724
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Pequeno",
+                  "text": "A small historic fortification in the Tejo estuary area, used for the defense of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053333,
+                        38.879518
+                  ]
+            },
+            {
+                  "name": "Forte da Quintela Grande",
+                  "text": "A significant historic fort in the Tejo Estuary Nature Reserve with a military history.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05355,
+                        38.88112
+                  ]
+            },
+            {
+                  "name": "Forte da Casa",
+                  "text": "A historic military fortification from the 19th century, located in the Tejo estuary area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056599,
+                        38.874366
+                  ]
+            },
+            {
+                  "name": "Forte Reentrante da Serra de Albueira",
+                  "text": "An archaeological site of a historic fortification located near the Tejo estuary.",
+                  "category": "historical",
+                  "coords": [
+                        -9.05854,
+                        38.877427
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio Ildefonso Valério",
+                  "text": "A theatre and studio in the Tejo estuary area that promotes cultural productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.038985,
+                        38.894135
+                  ]
+            },
+            {
+                  "name": "Reserva Integral do Mouchão do Lombo do Tejo",
+                  "text": "A strictly protected nature reserve in the Tejo estuary delta, important for biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -9.00976,
+                        38.867135
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Tejo-Mündung", hu: "Tejo-torkolat Természetvédelmi Terület", ro: "Rezervația Naturală a Estuarului Tejo", en: "Tejo Estuary Nature Reserve" },
@@ -453,7 +1236,52 @@ export const portugalLifeV2: POI[] = [
     image: "/poi-images/portugal-jardim-botanico-do-porto-life-v2.webp",
   },
   {
-    id: "portugal-reserva-natural-do-estuario-do-sado-life-v2",
+    id: "portugal-reserva-natural-do-estuario-do-sado-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturreservat Sado-Mündung",
+                  "text": "Ein bedeutendes Naturschutzgebiet im Mündungsdelta des Flusses Sado, bekannt für seine Delfine.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural do Estuário do Sado",
+                  "text": "Jelentős természetvédelmi terület a Sado folyó torkolatánál, amely delfinjeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural do Estuário do Sado",
+                  "text": "O rezervație naturală importantă în estuarul râului Sado, cunoscută pentru delfinii săi.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estuario do Sado Nature Reserve",
+                  "text": "An important nature reserve in the Sado River estuary, known for its dolphins.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Sado-Mündung", hu: "Sado-torkolat Természetvédelmi Terület", ro: "Rezervația Naturală a Estuarului Sado", en: "Sado Estuary Nature Reserve" },

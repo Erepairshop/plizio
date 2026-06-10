@@ -564,7 +564,88 @@ export const poiExtraIraqReliefV2: POI[] = [
       fr: ["Le mont Goizha s'élève à environ 1 500 mètres au-dessus du niveau de la mer.", "Il constitue la limite naturelle nord-est de la ville de Souleimaniye.", "Un grand quartier d'hôtels et de divertissements se trouve sur son flanc.", "Les premières tentatives de reboisement artificiel ont débuté dans les années 1940.", "Le nom Goizha est souvent mentionné dans la littérature kurde classique.", "De nombreuses aires de pique-nique en font la destination de week-end la plus prisée de la région."],
     }, image: "/poi-images/mount-goizha-relief-v2.webp"},
   {
-    id: "mount-khantur-relief-v2",
+    id: "mount-khantur-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snow Seasonal",
+                  "text": "Eine saisonale Attraktion am Mount Khantur, die mit Schnee verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991849,
+                        37.222858
+                  ]
+            },
+            {
+                  "name": "Near Mount peak",
+                  "text": "Ein Aussichtspunkt oder eine Attraktion in der Nähe des Gipfels des Mount Khantur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.947333,
+                        37.22658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snow Seasonal",
+                  "text": "Hóval kapcsolatos szezonális látványosság a Khantur-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991849,
+                        37.222858
+                  ]
+            },
+            {
+                  "name": "Near Mount peak",
+                  "text": "Látnivaló a Khantur-hegy csúcsának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.947333,
+                        37.22658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snow Seasonal",
+                  "text": "O atracție sezonieră legată de zăpadă pe muntele Khantur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991849,
+                        37.222858
+                  ]
+            },
+            {
+                  "name": "Near Mount peak",
+                  "text": "O atracție situată în apropierea vârfului muntelui Khantur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.947333,
+                        37.22658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snow Seasonal",
+                  "text": "A seasonal attraction related to snow on Mount Khantur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991849,
+                        37.222858
+                  ]
+            },
+            {
+                  "name": "Near Mount peak",
+                  "text": "An attraction located near the peak of Mount Khantur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.947333,
+                        37.22658
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IQ-DA",
     coords: [42.9500, 37.2300],

@@ -187,7 +187,52 @@ imageHint: "Muddus National Park ancient forest and waterfall",
     },
     image: "/poi-images/sweden-muddus-national-park-life-v2.webp",
 },  {
-    id: "sweden-fulufjallet-national-park-life-v2",
+    id: "sweden-fulufjallet-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Altarringen",
+                  "text": "Eine antike Steinformnation im Nationalpark Fulufjället, die vermutlich eine Kultstätte war.",
+                  "category": "historical",
+                  "coords": [
+                        12.704627,
+                        61.545852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altarringen",
+                  "text": "Ősi kőképződmény a Fulufjället Nemzeti Parkban, amely vélhetően rituális helyszín volt.",
+                  "category": "historical",
+                  "coords": [
+                        12.704627,
+                        61.545852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Altarringen",
+                  "text": "O veche formațiune de piatră din Parcul Național Fulufjället, despre care se crede că a fost un sit ritualic.",
+                  "category": "historical",
+                  "coords": [
+                        12.704627,
+                        61.545852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altarringen",
+                  "text": "An ancient stone formation in Fulufjället National Park, believed to have been a ritual site.",
+                  "category": "historical",
+                  "coords": [
+                        12.704627,
+                        61.545852
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Fulufjället", hu: "Fulufjället Nemzeti Park", ro: "Parcul Național Fulufjället", en: "Fulufjället National Park"},
@@ -233,7 +278,160 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
     },
     image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp",
 },  {
-    id: "sweden-skuleskogen-national-park-life-v2",
+    id: "sweden-skuleskogen-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Steinhügelgrab",
+                  "text": "Antike Grabhügel im Nationalpark Skuleskogen.",
+                  "category": "historical",
+                  "coords": [
+                        18.526928,
+                        63.100943
+                  ]
+            },
+            {
+                  "name": "Högsvedjeberget",
+                  "text": "Ein Berggipfel mit Blick über den Nationalpark Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418849,
+                        63.117043
+                  ]
+            },
+            {
+                  "name": "Skuleskogen Entré Väst",
+                  "text": "Der westliche Eingang zum Nationalpark Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425433,
+                        63.12147
+                  ]
+            },
+            {
+                  "name": "Trollporten",
+                  "text": "Eine natürliche Felsformation im Nationalpark Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.499696,
+                        63.107096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gravrösen",
+                  "text": "Ősi sírhalmok a Skuleskogen Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        18.526928,
+                        63.100943
+                  ]
+            },
+            {
+                  "name": "Högsvedjeberget",
+                  "text": "Hegyi csúcs, amely kilátást nyújt a Skuleskogen Nemzeti Parkra.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418849,
+                        63.117043
+                  ]
+            },
+            {
+                  "name": "Skuleskogen Entré Väst",
+                  "text": "A Skuleskogen Nemzeti Park nyugati bejárata.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425433,
+                        63.12147
+                  ]
+            },
+            {
+                  "name": "Trollporten",
+                  "text": "Egy természetes sziklaformáció a Skuleskogen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.499696,
+                        63.107096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gravrösen",
+                  "text": "Tumuli funerari antici situați în Parcul Național Skuleskogen.",
+                  "category": "historical",
+                  "coords": [
+                        18.526928,
+                        63.100943
+                  ]
+            },
+            {
+                  "name": "Högsvedjeberget",
+                  "text": "Un vârf montan care oferă vederi panoramice asupra Parcului Național Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418849,
+                        63.117043
+                  ]
+            },
+            {
+                  "name": "Skuleskogen Entré Väst",
+                  "text": "Intrarea de vest a Parcului Național Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425433,
+                        63.12147
+                  ]
+            },
+            {
+                  "name": "Trollporten",
+                  "text": "O formațiune stâncoasă naturală în Parcul Național Skuleskogen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.499696,
+                        63.107096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barrows",
+                  "text": "Ancient burial mounds located in the Skuleskogen National Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.526928,
+                        63.100943
+                  ]
+            },
+            {
+                  "name": "Högsvedjeberget",
+                  "text": "A mountain peak offering views over the Skuleskogen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.418849,
+                        63.117043
+                  ]
+            },
+            {
+                  "name": "Skuleskogen Entré Väst",
+                  "text": "The western entrance to the Skuleskogen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425433,
+                        63.12147
+                  ]
+            },
+            {
+                  "name": "Trollporten",
+                  "text": "A natural rock formation located in the Skuleskogen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        18.499696,
+                        63.107096
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Skuleskogen", hu: "Skuleskogen Nemzeti Park", ro: "Parcul Național Skuleskogen", en: "Skuleskogen National Park"},
@@ -371,7 +569,304 @@ imageHint: "Store Mosse National Park bog landscape with boardwalk",
     },
     image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp",
 },  {
-    id: "sweden-stenshuvud-national-park-life-v2",
+    id: "sweden-stenshuvud-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Västra Stenshuvud",
+                  "text": "Ein Teil des Nationalparks Stenshuvud mit vielfältiger Flora und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        14.24685,
+                        55.649191
+                  ]
+            },
+            {
+                  "name": "Esperöds naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Nähe des Stenshuvud-Nationalparks, bekannt für seine Buchenwälder.",
+                  "category": "natural",
+                  "coords": [
+                        14.248125,
+                        55.678964
+                  ]
+            },
+            {
+                  "name": "Svabesholm",
+                  "text": "Ein geschütztes Naturgebiet in Schonen, das an den Nationalpark Stenshuvud grenzt.",
+                  "category": "natural",
+                  "coords": [
+                        14.246808,
+                        55.658503
+                  ]
+            },
+            {
+                  "name": "Stenshuvuds naturreservat",
+                  "text": "Das Naturschutzgebiet rund um den markanten Hügel Stenshuvud an der Küste von Schonen.",
+                  "category": "natural",
+                  "coords": [
+                        14.276185,
+                        55.646646
+                  ]
+            },
+            {
+                  "name": "Äpplets hus",
+                  "text": "Ein Informationszentrum und Museum in Kivik, das der Geschichte des Apfelanbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.267663,
+                        55.67291
+                  ]
+            },
+            {
+                  "name": "Ängakåsens gravfält",
+                  "text": "Ein bedeutendes Gräberfeld aus der Bronzezeit in der Nähe von Kivik.",
+                  "category": "historical",
+                  "coords": [
+                        14.243588,
+                        55.681619
+                  ]
+            },
+            {
+                  "name": "Skallahögbjär",
+                  "text": "Ein Hügel im Nationalpark Stenshuvud, der weite Ausblicke über die Ostsee bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.242829,
+                        55.625475
+                  ]
+            },
+            {
+                  "name": "Mandelmanns trägårdar",
+                  "text": "Ein bekannter ökologischer Bauernhof und Garten in der Nähe des Stenshuvud-Nationalparks.",
+                  "category": "park",
+                  "coords": [
+                        14.241476,
+                        55.627808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Västra Stenshuvud",
+                  "text": "A Stenshuvud Nemzeti Park része, amely változatos flórával és túraútvonalakkal várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        14.24685,
+                        55.649191
+                  ]
+            },
+            {
+                  "name": "Esperöds naturreservat",
+                  "text": "Természetvédelmi terület a Stenshuvud Nemzeti Park közelében, amely bükkerdeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.248125,
+                        55.678964
+                  ]
+            },
+            {
+                  "name": "Svabesholm",
+                  "text": "Egy védett természeti terület Skåne tartományban, amely a Stenshuvud Nemzeti Parkkal határos.",
+                  "category": "natural",
+                  "coords": [
+                        14.246808,
+                        55.658503
+                  ]
+            },
+            {
+                  "name": "Stenshuvuds naturreservat",
+                  "text": "A Skåne partvidékén található jellegzetes Stenshuvud-domb körüli természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        14.276185,
+                        55.646646
+                  ]
+            },
+            {
+                  "name": "Äpplets hus",
+                  "text": "Kivikben található információs központ és múzeum, amely az almatermesztés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.267663,
+                        55.67291
+                  ]
+            },
+            {
+                  "name": "Ängakåsens gravfält",
+                  "text": "Egy jelentős bronzkori sírmező Kivik közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.243588,
+                        55.681619
+                  ]
+            },
+            {
+                  "name": "Skallahögbjär",
+                  "text": "Egy domb a Stenshuvud Nemzeti Parkban, amely széles kilátást nyújt a Balti-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.242829,
+                        55.625475
+                  ]
+            },
+            {
+                  "name": "Mandelmanns trägårdar",
+                  "text": "Egy ismert ökológiai gazdaság és kert a Stenshuvud Nemzeti Park közelében.",
+                  "category": "park",
+                  "coords": [
+                        14.241476,
+                        55.627808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Västra Stenshuvud",
+                  "text": "O secțiune a Parcului Național Stenshuvud, cu o floră diversă și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        14.24685,
+                        55.649191
+                  ]
+            },
+            {
+                  "name": "Esperöds naturreservat",
+                  "text": "O rezervație naturală de lângă Parcul Național Stenshuvud, cunoscută pentru pădurile de fag.",
+                  "category": "natural",
+                  "coords": [
+                        14.248125,
+                        55.678964
+                  ]
+            },
+            {
+                  "name": "Svabesholm",
+                  "text": "O zonă naturală protejată din Scania, care se învecinează cu Parcul Național Stenshuvud.",
+                  "category": "natural",
+                  "coords": [
+                        14.246808,
+                        55.658503
+                  ]
+            },
+            {
+                  "name": "Stenshuvuds naturreservat",
+                  "text": "Rezervația naturală din jurul dealului proeminent Stenshuvud, de pe coasta regiunii Scania.",
+                  "category": "natural",
+                  "coords": [
+                        14.276185,
+                        55.646646
+                  ]
+            },
+            {
+                  "name": "Äpplets hus",
+                  "text": "Un centru de informare și muzeu din Kivik, dedicat istoriei cultivării merelor.",
+                  "category": "museum",
+                  "coords": [
+                        14.267663,
+                        55.67291
+                  ]
+            },
+            {
+                  "name": "Ängakåsens gravfält",
+                  "text": "Un sit funerar important din epoca bronzului, situat în apropiere de Kivik.",
+                  "category": "historical",
+                  "coords": [
+                        14.243588,
+                        55.681619
+                  ]
+            },
+            {
+                  "name": "Skallahögbjär",
+                  "text": "Un deal din Parcul Național Stenshuvud, care oferă vederi panoramice asupra Mării Baltice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.242829,
+                        55.625475
+                  ]
+            },
+            {
+                  "name": "Mandelmanns trägårdar",
+                  "text": "O cunoscută fermă ecologică și grădină situată lângă Parcul Național Stenshuvud.",
+                  "category": "park",
+                  "coords": [
+                        14.241476,
+                        55.627808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Västra Stenshuvud",
+                  "text": "A section of the Stenshuvud National Park, featuring diverse flora and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        14.24685,
+                        55.649191
+                  ]
+            },
+            {
+                  "name": "Esperöds naturreservat",
+                  "text": "A nature reserve near Stenshuvud National Park, known for its beech forests.",
+                  "category": "natural",
+                  "coords": [
+                        14.248125,
+                        55.678964
+                  ]
+            },
+            {
+                  "name": "Svabesholm",
+                  "text": "A protected natural area in Scania, bordering the Stenshuvud National Park.",
+                  "category": "natural",
+                  "coords": [
+                        14.246808,
+                        55.658503
+                  ]
+            },
+            {
+                  "name": "Stenshuvuds naturreservat",
+                  "text": "The nature reserve surrounding the prominent Stenshuvud hill on the Scania coast.",
+                  "category": "natural",
+                  "coords": [
+                        14.276185,
+                        55.646646
+                  ]
+            },
+            {
+                  "name": "Äpplets hus",
+                  "text": "An information center and museum in Kivik dedicated to the history of apple cultivation.",
+                  "category": "museum",
+                  "coords": [
+                        14.267663,
+                        55.67291
+                  ]
+            },
+            {
+                  "name": "Ängakåsens gravfält",
+                  "text": "A significant Bronze Age burial ground located near Kivik.",
+                  "category": "historical",
+                  "coords": [
+                        14.243588,
+                        55.681619
+                  ]
+            },
+            {
+                  "name": "Skallahögbjär",
+                  "text": "A hill in the Stenshuvud National Park, offering broad views over the Baltic Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        14.242829,
+                        55.625475
+                  ]
+            },
+            {
+                  "name": "Mandelmanns trägårdar",
+                  "text": "A well-known ecological farm and garden located near Stenshuvud National Park.",
+                  "category": "park",
+                  "coords": [
+                        14.241476,
+                        55.627808
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Stenshuvud", hu: "Stenshuvud Nemzeti Park", ro: "Parcul Național Stenshuvud", en: "Stenshuvud National Park"},
@@ -417,7 +912,52 @@ imageHint: "Stenshuvud National Park coastal hill and beach",
     },
     image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp",
 },  {
-    id: "sweden-kosterhavet-life-v2",
+    id: "sweden-kosterhavet-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ursholmen fyr",
+                  "text": "Ein markanter Leuchtturm auf den Ursholmen-Inseln im Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990176,
+                        58.832495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ursholmen fyr",
+                  "text": "Jellegzetes világítótorony az Ursholmen-szigeteken a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990176,
+                        58.832495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ursholmen fyr",
+                  "text": "Un far istoric situat pe insulele Ursholmen din parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990176,
+                        58.832495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ursholmen fyr",
+                  "text": "A historic lighthouse on the Ursholmen islands within the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.990176,
+                        58.832495
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Kosterhavet", hu: "Kosterhavet Nemzeti Park", ro: "Parcul Național Kosterhavet", en: "Kosterhavet National Park"},
@@ -473,6 +1013,69 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                         14.57005,
                         58.728335
                   ]
+            },
+            {
+                  "name": "Stigmanspasset",
+                  "text": "Eine dramatische enge Schlucht im Tiveden-Nationalpark, umgeben von altem Wald und steilen Klippen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595007,
+                        58.722744
+                  ]
+            },
+            {
+                  "name": "Stenkälla",
+                  "text": "Ein Naturort in Tiveden mit riesigen Felsbrocken und einer Quelle in einem üppigen Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        14.584457,
+                        58.720777
+                  ]
+            },
+            {
+                  "name": "Junker Jägares sten",
+                  "text": "Ein riesiger Findling im Tiveden-Nationalpark, der mit lokalen Volkssagen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.576377,
+                        58.73315
+                  ]
+            },
+            {
+                  "name": "Stora Trollkyrkan",
+                  "text": "Ein markanter Felsgipfel im Tiveden-Nationalpark mit weitem Blick über die Wildnis.",
+                  "category": "landmark",
+                  "coords": [
+                        14.616118,
+                        58.718894
+                  ]
+            },
+            {
+                  "name": "Lilla Trollkyrkan",
+                  "text": "Ein kleinerer Felshügel im Tiveden-Nationalpark, bekannt für seine malerischen Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611589,
+                        58.713911
+                  ]
+            },
+            {
+                  "name": "Isräfflor",
+                  "text": "Geologische Formationen aus Gletscherschliffen, die während der letzten Eiszeit in den Fels gegraben wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609145,
+                        58.715739
+                  ]
+            },
+            {
+                  "name": "Friluftskyrkan",
+                  "text": "Eine Waldkirche unter freiem Himmel im Tiveden-Nationalpark für Gottesdienste und stille Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611001,
+                        58.720329
+                  ]
             }
       ],
       "hu": [
@@ -483,6 +1086,69 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   "coords": [
                         14.57005,
                         58.728335
+                  ]
+            },
+            {
+                  "name": "Stigmanspasset",
+                  "text": "Drámai szűk szurdok a Tiveden Nemzeti Parkban, ősi erdővel és meredek sziklákkal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595007,
+                        58.722744
+                  ]
+            },
+            {
+                  "name": "Stenkälla",
+                  "text": "Természeti helyszín Tivedenben, hatalmas sziklákkal és egy forrással a buja erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.584457,
+                        58.720777
+                  ]
+            },
+            {
+                  "name": "Junker Jägares sten",
+                  "text": "Hatalmas vándorkő a Tiveden Nemzeti Parkban, amelyhez helyi népi legendák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.576377,
+                        58.73315
+                  ]
+            },
+            {
+                  "name": "Stora Trollkyrkan",
+                  "text": "Kimagasló sziklás csúcs a Tiveden Nemzeti Parkban, ahonnan tágas kilátás nyílik a vadonra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.616118,
+                        58.718894
+                  ]
+            },
+            {
+                  "name": "Lilla Trollkyrkan",
+                  "text": "Kisebb sziklás domb a Tiveden Nemzeti Parkban, amely festői túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611589,
+                        58.713911
+                  ]
+            },
+            {
+                  "name": "Isräfflor",
+                  "text": "Gleccserbarázdák geológiai képződményei, amelyeket az utolsó jégkorszak idején vájtak az alapkőzetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609145,
+                        58.715739
+                  ]
+            },
+            {
+                  "name": "Friluftskyrkan",
+                  "text": "Szabadtéri erdei templom a Tiveden Nemzeti Parkban, amelyet istentiszteletekre és elmélkedésre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611001,
+                        58.720329
                   ]
             }
       ],
@@ -495,6 +1161,69 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                         14.57005,
                         58.728335
                   ]
+            },
+            {
+                  "name": "Stigmanspasset",
+                  "text": "Un defileu îngust spectaculos în Parcul Național Tiveden, înconjurat de pădure veche și stânci abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595007,
+                        58.722744
+                  ]
+            },
+            {
+                  "name": "Stenkälla",
+                  "text": "Un sit natural în Tiveden, cu bolovani masivi și un izvor într-o pădure luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.584457,
+                        58.720777
+                  ]
+            },
+            {
+                  "name": "Junker Jägares sten",
+                  "text": "Un bolovan erratic masiv în Parcul Național Tiveden, asociat cu legende populare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        14.576377,
+                        58.73315
+                  ]
+            },
+            {
+                  "name": "Stora Trollkyrkan",
+                  "text": "Un vârf stâncos proeminent în Parcul Național Tiveden, care oferă vederi vaste asupra sălbăticiei.",
+                  "category": "landmark",
+                  "coords": [
+                        14.616118,
+                        58.718894
+                  ]
+            },
+            {
+                  "name": "Lilla Trollkyrkan",
+                  "text": "Un deal stâncos mai mic în Parcul Național Tiveden, cunoscut pentru traseele sale pitorești de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611589,
+                        58.713911
+                  ]
+            },
+            {
+                  "name": "Isräfflor",
+                  "text": "Formațiuni geologice de șanțuri glaciare săpate în roca de bază în timpul ultimei ere glaciare.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609145,
+                        58.715739
+                  ]
+            },
+            {
+                  "name": "Friluftskyrkan",
+                  "text": "O biserică în aer liber în pădurea din Parcul Național Tiveden, folosită pentru slujbe și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611001,
+                        58.720329
+                  ]
             }
       ],
       "en": [
@@ -505,6 +1234,69 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   "coords": [
                         14.57005,
                         58.728335
+                  ]
+            },
+            {
+                  "name": "Stigmanspasset",
+                  "text": "A dramatic narrow gorge in Tiveden National Park, surrounded by ancient forest and steep cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        14.595007,
+                        58.722744
+                  ]
+            },
+            {
+                  "name": "Stenkälla",
+                  "text": "A natural site in Tiveden featuring massive boulders and a spring in a lush forest.",
+                  "category": "landmark",
+                  "coords": [
+                        14.584457,
+                        58.720777
+                  ]
+            },
+            {
+                  "name": "Junker Jägares sten",
+                  "text": "A massive erratic boulder in Tiveden National Park associated with local folk legends.",
+                  "category": "landmark",
+                  "coords": [
+                        14.576377,
+                        58.73315
+                  ]
+            },
+            {
+                  "name": "Stora Trollkyrkan",
+                  "text": "A prominent rocky peak in Tiveden National Park offering vast views over the wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        14.616118,
+                        58.718894
+                  ]
+            },
+            {
+                  "name": "Lilla Trollkyrkan",
+                  "text": "A smaller rocky hill in Tiveden National Park known for its scenic hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611589,
+                        58.713911
+                  ]
+            },
+            {
+                  "name": "Isräfflor",
+                  "text": "Geological formations of glacial grooves carved into the bedrock during the last ice age.",
+                  "category": "landmark",
+                  "coords": [
+                        14.609145,
+                        58.715739
+                  ]
+            },
+            {
+                  "name": "Friluftskyrkan",
+                  "text": "An open-air forest church in Tiveden National Park used for outdoor services and quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611001,
+                        58.720329
                   ]
             }
       ]
@@ -554,7 +1346,304 @@ imageHint: "Tiveden National Park mossy boulders and forest",
     },
     image: "/poi-images/sweden-tiveden-national-park-life-v2.webp",
 },  {
-    id: "sweden-nordens-ark-life-v2",
+    id: "sweden-nordens-ark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Åbyhällen",
+                  "text": "Historische Felsritzungen in der Nähe von Nordens Ark in Schweden.",
+                  "category": "historical",
+                  "coords": [
+                        11.430738,
+                        58.44186
+                  ]
+            },
+            {
+                  "name": "Karlsborg skans",
+                  "text": "Die Ruinen einer mittelalterlichen Festung in der Nähe von Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.438716,
+                        58.416318
+                  ]
+            },
+            {
+                  "name": "Åby naturreservat",
+                  "text": "Ein Naturschutzgebiet mit vielfältiger Flora und Fauna bei Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.432357,
+                        58.438253
+                  ]
+            },
+            {
+                  "name": "Nordens Ark",
+                  "text": "Ein Tierpark in Schweden, der sich auf den Schutz bedrohter Arten konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        11.430232,
+                        58.438882
+                  ]
+            },
+            {
+                  "name": "Åby Gånggrift",
+                  "text": "Ein prähistorisches Ganggrab in der Nähe von Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.436705,
+                        58.447318
+                  ]
+            },
+            {
+                  "name": "Nordens Ark Lantgård",
+                  "text": "Ein traditioneller Bauernhofteil des Nordens Ark Tierparks.",
+                  "category": "recreational",
+                  "coords": [
+                        11.431609,
+                        58.443884
+                  ]
+            },
+            {
+                  "name": "Broälvens naturreservat",
+                  "text": "Ein Naturschutzgebiet entlang des Flusses Broälven bei Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.475874,
+                        58.416277
+                  ]
+            },
+            {
+                  "name": "Bro kyrka",
+                  "text": "Eine historische Kirche in der Nähe des Nordens Ark Parks.",
+                  "category": "religious",
+                  "coords": [
+                        11.481514,
+                        58.42518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Åbyhällen",
+                  "text": "Történelmi sziklarajzok a svédországi Nordens Ark közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.430738,
+                        58.44186
+                  ]
+            },
+            {
+                  "name": "Karlsborg skans",
+                  "text": "Egy középkori erőd romjai Nordens Ark közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.438716,
+                        58.416318
+                  ]
+            },
+            {
+                  "name": "Åby naturreservat",
+                  "text": "Változatos élővilágú természetvédelmi terület Nordens Ark mellett.",
+                  "category": "natural",
+                  "coords": [
+                        11.432357,
+                        58.438253
+                  ]
+            },
+            {
+                  "name": "Nordens Ark",
+                  "text": "Veszélyeztetett fajok védelmére szakosodott állatkert Svédországban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.430232,
+                        58.438882
+                  ]
+            },
+            {
+                  "name": "Åby Gånggrift",
+                  "text": "Prehisztorikus folyosósír Nordens Ark közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.436705,
+                        58.447318
+                  ]
+            },
+            {
+                  "name": "Nordens Ark Lantgård",
+                  "text": "A Nordens Ark állatkert hagyományos gazdasági udvara.",
+                  "category": "recreational",
+                  "coords": [
+                        11.431609,
+                        58.443884
+                  ]
+            },
+            {
+                  "name": "Broälvens naturreservat",
+                  "text": "Természetvédelmi terület a Broälven folyó mentén, Nordens Ark közelében.",
+                  "category": "natural",
+                  "coords": [
+                        11.475874,
+                        58.416277
+                  ]
+            },
+            {
+                  "name": "Bro kyrka",
+                  "text": "Történelmi templom Nordens Ark közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.481514,
+                        58.42518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Åbyhällen",
+                  "text": "Gravuri rupestre istorice situate în apropiere de Nordens Ark, Suedia.",
+                  "category": "historical",
+                  "coords": [
+                        11.430738,
+                        58.44186
+                  ]
+            },
+            {
+                  "name": "Karlsborg skans",
+                  "text": "Ruinele unei fortificații medievale situate lângă Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.438716,
+                        58.416318
+                  ]
+            },
+            {
+                  "name": "Åby naturreservat",
+                  "text": "O rezervație naturală cu floră și faună diversă lângă Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.432357,
+                        58.438253
+                  ]
+            },
+            {
+                  "name": "Nordens Ark",
+                  "text": "O grădină zoologică din Suedia axată pe conservarea speciilor pe cale de dispariție.",
+                  "category": "recreational",
+                  "coords": [
+                        11.430232,
+                        58.438882
+                  ]
+            },
+            {
+                  "name": "Åby Gånggrift",
+                  "text": "Un mormânt megalitic preistoric situat lângă Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.436705,
+                        58.447318
+                  ]
+            },
+            {
+                  "name": "Nordens Ark Lantgård",
+                  "text": "O fermă tradițională care face parte din parcul zoologic Nordens Ark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.431609,
+                        58.443884
+                  ]
+            },
+            {
+                  "name": "Broälvens naturreservat",
+                  "text": "O rezervație naturală de-a lungul râului Broälven, lângă Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.475874,
+                        58.416277
+                  ]
+            },
+            {
+                  "name": "Bro kyrka",
+                  "text": "O biserică istorică situată în apropierea parcului Nordens Ark.",
+                  "category": "religious",
+                  "coords": [
+                        11.481514,
+                        58.42518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Åby petroglyphs",
+                  "text": "Historic rock carvings located near Nordens Ark in Sweden.",
+                  "category": "historical",
+                  "coords": [
+                        11.430738,
+                        58.44186
+                  ]
+            },
+            {
+                  "name": "Karlsborg skans",
+                  "text": "The ruins of a medieval fortification located near Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.438716,
+                        58.416318
+                  ]
+            },
+            {
+                  "name": "Åby naturreservat",
+                  "text": "A nature reserve with diverse flora and fauna located near Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.432357,
+                        58.438253
+                  ]
+            },
+            {
+                  "name": "Nordens Ark",
+                  "text": "A zoo in Sweden dedicated to the conservation of endangered species.",
+                  "category": "recreational",
+                  "coords": [
+                        11.430232,
+                        58.438882
+                  ]
+            },
+            {
+                  "name": "Åby Gånggrift",
+                  "text": "A prehistoric passage grave located in the vicinity of Nordens Ark.",
+                  "category": "historical",
+                  "coords": [
+                        11.436705,
+                        58.447318
+                  ]
+            },
+            {
+                  "name": "Nordens Ark Lantgård",
+                  "text": "A traditional farm section within the Nordens Ark zoo complex.",
+                  "category": "recreational",
+                  "coords": [
+                        11.431609,
+                        58.443884
+                  ]
+            },
+            {
+                  "name": "Broälvens naturreservat",
+                  "text": "A nature reserve along the Broälven river near Nordens Ark.",
+                  "category": "natural",
+                  "coords": [
+                        11.475874,
+                        58.416277
+                  ]
+            },
+            {
+                  "name": "Bro kyrka",
+                  "text": "A historic church located near the Nordens Ark park.",
+                  "category": "religious",
+                  "coords": [
+                        11.481514,
+                        58.42518
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Nordens Ark", hu: "Nordens Ark", ro: "Nordens Ark", en: "Nordens Ark"},
@@ -600,7 +1689,304 @@ imageHint: "Nordens Ark snow leopard in enclosure",
     },
     image: "/poi-images/sweden-nordens-ark-life-v2.webp",
 },  {
-    id: "sweden-kolmarden-wildlife-park-life-v2",
+    id: "sweden-kolmarden-wildlife-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kolmårdens Tropicarium",
+                  "text": "Ein Zoo und Aquarium mit Reptilien und Haien im Kolmården-Wildpark.",
+                  "category": "recreational",
+                  "coords": [
+                        16.467277,
+                        58.665461
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets naturreservat",
+                  "text": "Ein Naturschutzgebiet in Kolmården mit steilen Klippen am Meer.",
+                  "category": "natural",
+                  "coords": [
+                        16.432567,
+                        58.659596
+                  ]
+            },
+            {
+                  "name": "Erikslund",
+                  "text": "Ein Naturschutzgebiet in der Region des Kolmården-Wildparks.",
+                  "category": "natural",
+                  "coords": [
+                        16.437857,
+                        58.690934
+                  ]
+            },
+            {
+                  "name": "Kolmårdens djurpark",
+                  "text": "Einer der größten Zoos Skandinaviens, bekannt für seine Safaris und Delfinarien.",
+                  "category": "recreational",
+                  "coords": [
+                        16.452031,
+                        58.663785
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets museum",
+                  "text": "Ein Museum, das die Geschichte des Marmorabbaus in Kolmården zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.423644,
+                        58.660745
+                  ]
+            },
+            {
+                  "name": "Kokärret",
+                  "text": "Ein kleines Naturschutzgebiet im Bereich des Kolmården-Wildparks.",
+                  "category": "natural",
+                  "coords": [
+                        16.454943,
+                        58.692267
+                  ]
+            },
+            {
+                  "name": "Teater",
+                  "text": "Ein Theater für Aufführungen im Kolmården-Wildpark.",
+                  "category": "cultural",
+                  "coords": [
+                        16.460596,
+                        58.662864
+                  ]
+            },
+            {
+                  "name": "Rider på Kolmården",
+                  "text": "Ein Bereich mit Fahrgeschäften und Attraktionen im Kolmården-Wildpark.",
+                  "category": "recreational",
+                  "coords": [
+                        16.445428,
+                        58.663015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolmårdens Tropicarium",
+                  "text": "Hüllőket és cápákat bemutató állatkert és akvárium a Kolmården vadasparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.467277,
+                        58.665461
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets naturreservat",
+                  "text": "Természetvédelmi terület Kolmårdenben, tengerparti sziklákkal.",
+                  "category": "natural",
+                  "coords": [
+                        16.432567,
+                        58.659596
+                  ]
+            },
+            {
+                  "name": "Erikslund",
+                  "text": "Természetvédelmi terület a Kolmården vadaspark régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        16.437857,
+                        58.690934
+                  ]
+            },
+            {
+                  "name": "Kolmårdens djurpark",
+                  "text": "Skandinávia egyik legnagyobb állatkertje, szafariról és delfináriumáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.452031,
+                        58.663785
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets museum",
+                  "text": "A kolmårdeni márványbányászat történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.423644,
+                        58.660745
+                  ]
+            },
+            {
+                  "name": "Kokärret",
+                  "text": "Kis természetvédelmi terület a Kolmården vadaspark területén.",
+                  "category": "natural",
+                  "coords": [
+                        16.454943,
+                        58.692267
+                  ]
+            },
+            {
+                  "name": "Teater",
+                  "text": "Előadásoknak helyet adó színház a Kolmården vadasparkban.",
+                  "category": "cultural",
+                  "coords": [
+                        16.460596,
+                        58.662864
+                  ]
+            },
+            {
+                  "name": "Rider på Kolmården",
+                  "text": "Vidámparki játékkal és attrakciókkal teli terület a Kolmården vadasparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.445428,
+                        58.663015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolmårdens Tropicarium",
+                  "text": "O grădină zoologică și acvariu cu reptile și rechini în Parcul Kolmården.",
+                  "category": "recreational",
+                  "coords": [
+                        16.467277,
+                        58.665461
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets naturreservat",
+                  "text": "O rezervație naturală în Kolmården, cu stânci abrupte la malul mării.",
+                  "category": "natural",
+                  "coords": [
+                        16.432567,
+                        58.659596
+                  ]
+            },
+            {
+                  "name": "Erikslund",
+                  "text": "O rezervație naturală în regiunea parcului de animale sălbatice Kolmården.",
+                  "category": "natural",
+                  "coords": [
+                        16.437857,
+                        58.690934
+                  ]
+            },
+            {
+                  "name": "Kolmårdens djurpark",
+                  "text": "Una dintre cele mai mari grădini zoologice din Scandinavia, celebră pentru safari.",
+                  "category": "recreational",
+                  "coords": [
+                        16.452031,
+                        58.663785
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets museum",
+                  "text": "Un muzeu care prezintă istoria exploatării marmurei în Kolmården.",
+                  "category": "museum",
+                  "coords": [
+                        16.423644,
+                        58.660745
+                  ]
+            },
+            {
+                  "name": "Kokärret",
+                  "text": "O mică rezervație naturală în zona parcului de animale sălbatice Kolmården.",
+                  "category": "natural",
+                  "coords": [
+                        16.454943,
+                        58.692267
+                  ]
+            },
+            {
+                  "name": "Teater",
+                  "text": "Un teatru pentru spectacole în cadrul Parcului Kolmården.",
+                  "category": "cultural",
+                  "coords": [
+                        16.460596,
+                        58.662864
+                  ]
+            },
+            {
+                  "name": "Rider på Kolmården",
+                  "text": "O zonă cu atracții și caruseluri în Parcul Kolmården.",
+                  "category": "recreational",
+                  "coords": [
+                        16.445428,
+                        58.663015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolmårdens Tropicarium",
+                  "text": "A zoo and aquarium featuring reptiles and sharks at Kolmården Wildlife Park.",
+                  "category": "recreational",
+                  "coords": [
+                        16.467277,
+                        58.665461
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets naturreservat",
+                  "text": "A nature reserve in Kolmården featuring steep seaside cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        16.432567,
+                        58.659596
+                  ]
+            },
+            {
+                  "name": "Erikslund",
+                  "text": "A nature reserve in the region of the Kolmården Wildlife Park.",
+                  "category": "natural",
+                  "coords": [
+                        16.437857,
+                        58.690934
+                  ]
+            },
+            {
+                  "name": "Kolmården zoo",
+                  "text": "One of Scandinavia's largest zoos, famous for its safari and dolphinarium.",
+                  "category": "recreational",
+                  "coords": [
+                        16.452031,
+                        58.663785
+                  ]
+            },
+            {
+                  "name": "Marmorbrukets museum",
+                  "text": "A museum showcasing the history of marble quarrying in Kolmården.",
+                  "category": "museum",
+                  "coords": [
+                        16.423644,
+                        58.660745
+                  ]
+            },
+            {
+                  "name": "Kokärret",
+                  "text": "A small nature reserve within the Kolmården Wildlife Park area.",
+                  "category": "natural",
+                  "coords": [
+                        16.454943,
+                        58.692267
+                  ]
+            },
+            {
+                  "name": "Teater",
+                  "text": "A theatre for performances within the Kolmården Wildlife Park.",
+                  "category": "cultural",
+                  "coords": [
+                        16.460596,
+                        58.662864
+                  ]
+            },
+            {
+                  "name": "Rider på Kolmården",
+                  "text": "An area with rides and attractions in the Kolmården Wildlife Park.",
+                  "category": "recreational",
+                  "coords": [
+                        16.445428,
+                        58.663015
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Tierpark Kolmården", hu: "Kolmården Állatpark", ro: "Parcul Zoologic Kolmården", en: "Kolmården Wildlife Park"},
@@ -865,7 +2251,304 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
     },
     image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp",
 },  {
-    id: "sweden-hornborgasjon-life-v2",
+    id: "sweden-hornborgasjon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hornborgasjöns naturreservat",
+                  "text": "Ein bedeutendes schwedisches Naturschutzgebiet am See Hornborgasjön, bekannt für seine vielfältige Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        13.548271,
+                        58.312376
+                  ]
+            },
+            {
+                  "name": "Ekornavallen",
+                  "text": "Ein bedeutendes prähistorisches Gräberfeld in Schweden mit Gräbern aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        13.603116,
+                        58.27917
+                  ]
+            },
+            {
+                  "name": "Hornborga ödekyrkogård",
+                  "text": "Eine verlassene mittelalterliche Kirchstelle am Hornborgasjön, die heute als archäologische Stätte dient.",
+                  "category": "historical",
+                  "coords": [
+                        13.586941,
+                        58.295268
+                  ]
+            },
+            {
+                  "name": "Bjärka ödekyrkogård",
+                  "text": "Die archäologische Stätte einer alten Kirche in Bjärka, gelegen in der Naturregion Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.490946,
+                        58.29562
+                  ]
+            },
+            {
+                  "name": "Sätuna ödekyrkogård",
+                  "text": "Ein historischer verlassener Kirchhof in Sätuna, der Einblicke in die frühere Besiedlung am Hornborgasjön gibt.",
+                  "category": "historical",
+                  "coords": [
+                        13.570509,
+                        58.283808
+                  ]
+            },
+            {
+                  "name": "Trandansen Visitor Centre",
+                  "text": "Besucherzentrum am Hornborgasjön, berühmt für die Beobachtung der Kranichtänze im Frühjahr.",
+                  "category": "museum",
+                  "coords": [
+                        13.488625,
+                        58.276401
+                  ]
+            },
+            {
+                  "name": "Löfwings ataljé",
+                  "text": "Ein Kunstzentrum in der Nähe des Hornborgasjön, das Werke lokaler Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.592832,
+                        58.292889
+                  ]
+            },
+            {
+                  "name": "Hånger ödekyrkogård",
+                  "text": "Ein historischer verlassener Friedhof in Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.523983,
+                        58.269607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hornborgasjöns naturreservat",
+                  "text": "Jelentős svéd természetvédelmi terület a Hornborga-tónál, gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.548271,
+                        58.312376
+                  ]
+            },
+            {
+                  "name": "Ekornavallen",
+                  "text": "Jelentős svédországi őskori temető különböző korszakokból származó sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        13.603116,
+                        58.27917
+                  ]
+            },
+            {
+                  "name": "Hornborga ödekyrkogård",
+                  "text": "Elhagyatott középkori templomhely a Hornborga-tónál, amely ma régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        13.586941,
+                        58.295268
+                  ]
+            },
+            {
+                  "name": "Bjärka ödekyrkogård",
+                  "text": "Egy régi templom régészeti lelőhelye Bjärkában, a Hornborga-tó természeti környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        13.490946,
+                        58.29562
+                  ]
+            },
+            {
+                  "name": "Sätuna ödekyrkogård",
+                  "text": "Történelmi elhagyatott templomkert Sätunában, amely betekintést nyújt a Hornborga-tó korábbi településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        13.570509,
+                        58.283808
+                  ]
+            },
+            {
+                  "name": "Trandansen Visitor Centre",
+                  "text": "Látogatóközpont a Hornborga-tónál, amely a tavaszi darutánc megfigyeléséről híres.",
+                  "category": "museum",
+                  "coords": [
+                        13.488625,
+                        58.276401
+                  ]
+            },
+            {
+                  "name": "Löfwings ataljé",
+                  "text": "Művészeti központ a Hornborga-tó közelében, ahol helyi művészek munkáit mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        13.592832,
+                        58.292889
+                  ]
+            },
+            {
+                  "name": "Hånger ödekyrkogård",
+                  "text": "Történelmi elhagyatott temető Hornborgasjön területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.523983,
+                        58.269607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hornborgasjöns naturreservat",
+                  "text": "O rezervație naturală suedeză importantă la lacul Hornborgasjön, cunoscută pentru fauna sa diversă de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        13.548271,
+                        58.312376
+                  ]
+            },
+            {
+                  "name": "Ekornavallen",
+                  "text": "Un important câmp funerar preistoric din Suedia, cu morminte din diverse epoci.",
+                  "category": "historical",
+                  "coords": [
+                        13.603116,
+                        58.27917
+                  ]
+            },
+            {
+                  "name": "Hornborga ödekyrkogård",
+                  "text": "Un sit de biserică medievală abandonată la Hornborgasjön, care servește astăzi ca sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        13.586941,
+                        58.295268
+                  ]
+            },
+            {
+                  "name": "Bjärka ödekyrkogård",
+                  "text": "Situl arheologic al unei vechi biserici din Bjärka, situat în regiunea naturală Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.490946,
+                        58.29562
+                  ]
+            },
+            {
+                  "name": "Sätuna ödekyrkogård",
+                  "text": "Un cimitir istoric abandonat în Sätuna, oferind perspective asupra vechilor așezări de la Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.570509,
+                        58.283808
+                  ]
+            },
+            {
+                  "name": "Trandansen Visitor Centre",
+                  "text": "Centru de vizitare la Hornborgasjön, renumit pentru observarea dansului cocorilor în primăvară.",
+                  "category": "museum",
+                  "coords": [
+                        13.488625,
+                        58.276401
+                  ]
+            },
+            {
+                  "name": "Löfwings ataljé",
+                  "text": "Un centru de artă lângă Hornborgasjön, care prezintă lucrările artiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        13.592832,
+                        58.292889
+                  ]
+            },
+            {
+                  "name": "Hånger ödekyrkogård",
+                  "text": "Un cimitir istoric abandonat în Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.523983,
+                        58.269607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hornborgasjöns naturreservat",
+                  "text": "A major Swedish nature reserve at Lake Hornborgasjön, famous for its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        13.548271,
+                        58.312376
+                  ]
+            },
+            {
+                  "name": "Ekornavallen",
+                  "text": "A significant prehistoric burial ground in Sweden with graves from various eras.",
+                  "category": "historical",
+                  "coords": [
+                        13.603116,
+                        58.27917
+                  ]
+            },
+            {
+                  "name": "Hornborga ödekyrkogård",
+                  "text": "An abandoned medieval church site at Hornborgasjön, now serving as an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        13.586941,
+                        58.295268
+                  ]
+            },
+            {
+                  "name": "Place of Bjärka old church",
+                  "text": "The archaeological site of an old church in Bjärka, located in the Hornborgasjön nature region.",
+                  "category": "historical",
+                  "coords": [
+                        13.490946,
+                        58.29562
+                  ]
+            },
+            {
+                  "name": "Sätuna ödekyrkogård",
+                  "text": "A historic abandoned churchyard in Sätuna, giving insight into former settlements at Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.570509,
+                        58.283808
+                  ]
+            },
+            {
+                  "name": "Trandansen Visitor Centre",
+                  "text": "Visitor centre at Hornborgasjön, famous for watching the crane dances in spring.",
+                  "category": "museum",
+                  "coords": [
+                        13.488625,
+                        58.276401
+                  ]
+            },
+            {
+                  "name": "Löfwings ataljé",
+                  "text": "An arts centre near Hornborgasjön showcasing works by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        13.592832,
+                        58.292889
+                  ]
+            },
+            {
+                  "name": "Hånger ödekyrkogård",
+                  "text": "A historic abandoned cemetery located in Hornborgasjön.",
+                  "category": "historical",
+                  "coords": [
+                        13.523983,
+                        58.269607
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Hornborgasjön", hu: "Hornborgasjön", ro: "Hornborgasjön", en: "Hornborgasjön"},
@@ -957,7 +2640,232 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
     },
   },
   {
-    id: "sweden-takern-life-v2",
+    id: "sweden-takern-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tåkerns naturreservat",
+                  "text": "Ein bedeutendes Vogelschutzgebiet am See Tåkern, bekannt für seine reiche Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        14.813119,
+                        58.351995
+                  ]
+            },
+            {
+                  "name": "Naturum Tåkern",
+                  "text": "Das Besucherzentrum am Tåkern-See informiert über die lokale Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        14.821749,
+                        58.332744
+                  ]
+            },
+            {
+                  "name": "Svanshals kyrka",
+                  "text": "Eine historische schwedische Kirche in der Nähe des Tåkern-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        14.804036,
+                        58.324937
+                  ]
+            },
+            {
+                  "name": "Fågelplattform vassen Svanshals",
+                  "text": "Eine Aussichtsplattform im Schilfgürtel des Tåkern-Sees zur Vogelbeobachtung.",
+                  "category": "landmark",
+                  "coords": [
+                        14.805505,
+                        58.332174
+                  ]
+            },
+            {
+                  "name": "Fågeltorn Svanshalsudde",
+                  "text": "Ein hölzerner Aussichtsturm am Tåkern-See für Naturbeobachter.",
+                  "category": "landmark",
+                  "coords": [
+                        14.795475,
+                        58.332635
+                  ]
+            },
+            {
+                  "name": "Fågeltorn vid Svanshals",
+                  "text": "Ein Aussichtsturm zur Beobachtung der vielfältigen Vogelwelt am Tåkern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80407,
+                        58.330558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tåkerns naturreservat",
+                  "text": "Jelentős madárrezervátum a Tåkern-tónál, amely gazdag élővilágáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        14.813119,
+                        58.351995
+                  ]
+            },
+            {
+                  "name": "Naturum Tåkern",
+                  "text": "A Tåkern-tó melletti látogatóközpont a helyi növény- és állatvilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.821749,
+                        58.332744
+                  ]
+            },
+            {
+                  "name": "Svanshals kyrka",
+                  "text": "Történelmi svéd templom a Tåkern-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.804036,
+                        58.324937
+                  ]
+            },
+            {
+                  "name": "Fågelplattform vassen Svanshals",
+                  "text": "Kilátóplatform a Tåkern-tó nádasában, amely kiváló helyszín madármegfigyeléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        14.805505,
+                        58.332174
+                  ]
+            },
+            {
+                  "name": "Fågeltorn Svanshalsudde",
+                  "text": "Fából készült kilátótorony a Tåkern-tónál a természet kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.795475,
+                        58.332635
+                  ]
+            },
+            {
+                  "name": "Fågeltorn vid Svanshals",
+                  "text": "Kilátótorony a Tåkern-tó gazdag madárvilágának megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80407,
+                        58.330558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tåkerns naturreservat",
+                  "text": "O rezervație naturală importantă la lacul Tåkern, cunoscută pentru biodiversitatea sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        14.813119,
+                        58.351995
+                  ]
+            },
+            {
+                  "name": "Naturum Tåkern",
+                  "text": "Centrul pentru vizitatori de la lacul Tåkern oferă informații despre flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        14.821749,
+                        58.332744
+                  ]
+            },
+            {
+                  "name": "Svanshals kyrka",
+                  "text": "O biserică suedeză istorică situată în apropierea lacului Tåkern.",
+                  "category": "religious",
+                  "coords": [
+                        14.804036,
+                        58.324937
+                  ]
+            },
+            {
+                  "name": "Fågelplattform vassen Svanshals",
+                  "text": "O platformă de observație în stuful lacului Tåkern, ideală pentru observarea păsărilor.",
+                  "category": "landmark",
+                  "coords": [
+                        14.805505,
+                        58.332174
+                  ]
+            },
+            {
+                  "name": "Fågeltorn Svanshalsudde",
+                  "text": "Un turn de observație din lemn la lacul Tåkern pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        14.795475,
+                        58.332635
+                  ]
+            },
+            {
+                  "name": "Fågeltorn vid Svanshals",
+                  "text": "Un turn de observație pentru admirarea avifaunei diverse de la Tåkern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80407,
+                        58.330558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tåkerns naturreservat",
+                  "text": "An important bird reserve at Lake Tåkern, known for its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        14.813119,
+                        58.351995
+                  ]
+            },
+            {
+                  "name": "Naturum Tåkern",
+                  "text": "The visitor centre at Lake Tåkern provides information about the local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        14.821749,
+                        58.332744
+                  ]
+            },
+            {
+                  "name": "Svanshals kyrka",
+                  "text": "A historic Swedish church located near Lake Tåkern.",
+                  "category": "religious",
+                  "coords": [
+                        14.804036,
+                        58.324937
+                  ]
+            },
+            {
+                  "name": "Fågelplattform vassen Svanshals",
+                  "text": "An observation platform in the reeds of Lake Tåkern, ideal for birdwatching.",
+                  "category": "landmark",
+                  "coords": [
+                        14.805505,
+                        58.332174
+                  ]
+            },
+            {
+                  "name": "Fågeltorn Svanshalsudde",
+                  "text": "A wooden observation tower at Lake Tåkern for nature watchers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.795475,
+                        58.332635
+                  ]
+            },
+            {
+                  "name": "Fågeltorn vid Svanshals",
+                  "text": "An observation tower for watching the diverse birdlife at Tåkern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.80407,
+                        58.330558
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "lake",
     name: { de: "Tåkern", hu: "Tåkern", ro: "Tåkern", en: "Tåkern"},
@@ -1003,7 +2911,304 @@ imageHint: "Tåkern lake with reeds and bird life",
     },
     image: "/poi-images/sweden-takern-life-v2.webp",
 },  {
-    id: "sweden-falsterbo-bird-observatory-life-v2",
+    id: "sweden-falsterbo-bird-observatory-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Falsterbohalvöns havsområdes naturreservat",
+                  "text": "Ein Naturschutzgebiet im Meeresgebiet um die Halbinsel Falsterbo.",
+                  "category": "natural",
+                  "coords": [
+                        12.801521,
+                        55.384665
+                  ]
+            },
+            {
+                  "name": "Måkläppens naturreservat",
+                  "text": "Ein bekanntes Naturschutzgebiet auf einer Sandbank, wichtig für Kegelrobben und Vögel.",
+                  "category": "natural",
+                  "coords": [
+                        12.812025,
+                        55.36067
+                  ]
+            },
+            {
+                  "name": "Falsterbo fyr",
+                  "text": "Ein historischer Leuchtturm an der Südwestspitze Schwedens, erbaut im 18. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.816415,
+                        55.383784
+                  ]
+            },
+            {
+                  "name": "Falsterbohus slott",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in Falsterbo.",
+                  "category": "castle",
+                  "coords": [
+                        12.829241,
+                        55.386217
+                  ]
+            },
+            {
+                  "name": "Falsterbo museum",
+                  "text": "Ein Museum, das die Lokalgeschichte und Archäologie der Region Falsterbo zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.835601,
+                        55.388892
+                  ]
+            },
+            {
+                  "name": "Andreas Lundbergagården",
+                  "text": "Ein Freilichtmuseum und historischer Hof in Falsterbo.",
+                  "category": "museum",
+                  "coords": [
+                        12.836922,
+                        55.392661
+                  ]
+            },
+            {
+                  "name": "Gamla Pärontrådet i Falsterbo",
+                  "text": "Ein geschützter alter Birnbaum, der als Naturdenkmal in Falsterbo gilt.",
+                  "category": "natural",
+                  "coords": [
+                        12.855586,
+                        55.396874
+                  ]
+            },
+            {
+                  "name": "Falsterbobukten",
+                  "text": "Eine flache Meeresbucht bei Falsterbo, bekannt für ihre Vogelwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.864011,
+                        55.382967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Falsterbohalvöns havsområdes naturreservat",
+                  "text": "Természetvédelmi terület a Falsterbo-félsziget körüli tengeri övezetben.",
+                  "category": "natural",
+                  "coords": [
+                        12.801521,
+                        55.384665
+                  ]
+            },
+            {
+                  "name": "Måkläppens naturreservat",
+                  "text": "Homokpadon elterülő természetvédelmi terület, a fókák és madarak fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        12.812025,
+                        55.36067
+                  ]
+            },
+            {
+                  "name": "Falsterbo fyr",
+                  "text": "Svédország délnyugati csücskén található, 18. századi történelmi világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        12.816415,
+                        55.383784
+                  ]
+            },
+            {
+                  "name": "Falsterbohus slott",
+                  "text": "Egy középkori vár romjai Falsterbo területén.",
+                  "category": "castle",
+                  "coords": [
+                        12.829241,
+                        55.386217
+                  ]
+            },
+            {
+                  "name": "Falsterbo museum",
+                  "text": "A Falsterbo régió helytörténetét és régészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.835601,
+                        55.388892
+                  ]
+            },
+            {
+                  "name": "Andreas Lundbergagården",
+                  "text": "Szabadtéri múzeum és történelmi gazdaság Falsterbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.836922,
+                        55.392661
+                  ]
+            },
+            {
+                  "name": "Gamla Pärontrådet i Falsterbo",
+                  "text": "Védett öreg körtefa, amely természeti emlékként ismert Falsterboban.",
+                  "category": "natural",
+                  "coords": [
+                        12.855586,
+                        55.396874
+                  ]
+            },
+            {
+                  "name": "Falsterbobukten",
+                  "text": "Sekély tengeri öböl Falsterbo mellett, gazdag madárvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.864011,
+                        55.382967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Falsterbohalvöns havsområdes naturreservat",
+                  "text": "O rezervație naturală în zona marină din jurul peninsulei Falsterbo.",
+                  "category": "natural",
+                  "coords": [
+                        12.801521,
+                        55.384665
+                  ]
+            },
+            {
+                  "name": "Måkläppens naturreservat",
+                  "text": "O rezervație naturală situată pe un banc de nisip, importantă pentru foci și păsări.",
+                  "category": "natural",
+                  "coords": [
+                        12.812025,
+                        55.36067
+                  ]
+            },
+            {
+                  "name": "Falsterbo fyr",
+                  "text": "Un far istoric din secolul al XVIII-lea, situat în vârful sud-vestic al Suediei.",
+                  "category": "landmark",
+                  "coords": [
+                        12.816415,
+                        55.383784
+                  ]
+            },
+            {
+                  "name": "Falsterbohus slott",
+                  "text": "Ruinele unei cetăți medievale situate în Falsterbo.",
+                  "category": "castle",
+                  "coords": [
+                        12.829241,
+                        55.386217
+                  ]
+            },
+            {
+                  "name": "Falsterbo museum",
+                  "text": "Un muzeu ce prezintă istoria locală și arheologia regiunii Falsterbo.",
+                  "category": "museum",
+                  "coords": [
+                        12.835601,
+                        55.388892
+                  ]
+            },
+            {
+                  "name": "Andreas Lundbergagården",
+                  "text": "Un muzeu în aer liber și o fermă istorică situată în Falsterbo.",
+                  "category": "museum",
+                  "coords": [
+                        12.836922,
+                        55.392661
+                  ]
+            },
+            {
+                  "name": "Gamla Pärontrådet i Falsterbo",
+                  "text": "Un păr vechi protejat, considerat monument al naturii în Falsterbo.",
+                  "category": "natural",
+                  "coords": [
+                        12.855586,
+                        55.396874
+                  ]
+            },
+            {
+                  "name": "Falsterbobukten",
+                  "text": "Un golf marin puțin adânc lângă Falsterbo, cunoscut pentru avifauna sa.",
+                  "category": "landmark",
+                  "coords": [
+                        12.864011,
+                        55.382967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Falsterbohalvöns havsområdes naturreservat",
+                  "text": "A nature reserve encompassing the marine area around the Falsterbo peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        12.801521,
+                        55.384665
+                  ]
+            },
+            {
+                  "name": "Måkläppens naturreservat",
+                  "text": "A nature reserve on a sandbar known as an important habitat for seals and birds.",
+                  "category": "natural",
+                  "coords": [
+                        12.812025,
+                        55.36067
+                  ]
+            },
+            {
+                  "name": "Falsterbo Lighthouse",
+                  "text": "A historic 18th-century lighthouse located at the southwestern tip of Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        12.816415,
+                        55.383784
+                  ]
+            },
+            {
+                  "name": "Falsterbohus slott",
+                  "text": "The ruins of a medieval castle located in Falsterbo.",
+                  "category": "castle",
+                  "coords": [
+                        12.829241,
+                        55.386217
+                  ]
+            },
+            {
+                  "name": "Falsterbo museum",
+                  "text": "A museum showcasing the local history and archaeology of the Falsterbo region.",
+                  "category": "museum",
+                  "coords": [
+                        12.835601,
+                        55.388892
+                  ]
+            },
+            {
+                  "name": "Andreas Lundbergagården",
+                  "text": "An open-air museum and historic farmstead located in Falsterbo.",
+                  "category": "museum",
+                  "coords": [
+                        12.836922,
+                        55.392661
+                  ]
+            },
+            {
+                  "name": "The old Peartree in Falsterbo",
+                  "text": "A protected old pear tree considered a natural monument in Falsterbo.",
+                  "category": "natural",
+                  "coords": [
+                        12.855586,
+                        55.396874
+                  ]
+            },
+            {
+                  "name": "Falsterbobukten",
+                  "text": "A shallow sea bay near Falsterbo, well-known for its diverse birdlife.",
+                  "category": "landmark",
+                  "coords": [
+                        12.864011,
+                        55.382967
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Vogelstation Falsterbo", hu: "Falsterbo Madárvárta", ro: "Observatorul de Păsări Falsterbo", en: "Falsterbo Bird Observatory"},
@@ -1095,7 +3300,268 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
     },
     image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp",
 },  {
-    id: "sweden-lycksele-zoo-life-v2",
+    id: "sweden-lycksele-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lycksele Djurpark",
+                  "text": "Ein Zoo in Nordschweden, der sich auf die skandinavische Fauna spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.663639,
+                        64.58119
+                  ]
+            },
+            {
+                  "name": "Gammplatsen",
+                  "text": "Ein Naturschutzgebiet und Freilichtmuseum in Lycksele, das die regionale Geschichte bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        18.66556,
+                        64.608466
+                  ]
+            },
+            {
+                  "name": "Skogsmuseet",
+                  "text": "Ein Waldmuseum in Lycksele, das die Geschichte der Forstwirtschaft in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.669024,
+                        64.605112
+                  ]
+            },
+            {
+                  "name": "Barnens djurpark",
+                  "text": "Ein Kinderzoo in Lycksele, wo junge Besucher einheimischen Tieren nahe kommen können.",
+                  "category": "recreational",
+                  "coords": [
+                        18.667172,
+                        64.582759
+                  ]
+            },
+            {
+                  "name": "Ansia Badpark",
+                  "text": "Ein Wasserpark in Lycksele mit verschiedenen Pools und Rutschen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        18.699421,
+                        64.592806
+                  ]
+            },
+            {
+                  "name": "Jaktmuseum",
+                  "text": "Ein Jagdmuseum, das Ausstellungsstücke zur Geschichte der Jagd in Nordschweden zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.669787,
+                        64.604138
+                  ]
+            },
+            {
+                  "name": "Getter",
+                  "text": "Eine Attraktion im Lycksele Zoo, bei der Besucher Ziegen beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        18.666068,
+                        64.583423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lycksele Djurpark",
+                  "text": "Észak-svédországi állatkert, amely a skandináv faunára specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        18.663639,
+                        64.58119
+                  ]
+            },
+            {
+                  "name": "Gammplatsen",
+                  "text": "Természetvédelmi terület és szabadtéri múzeum Lycksele-ben, amely a regionális történelmet őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        18.66556,
+                        64.608466
+                  ]
+            },
+            {
+                  "name": "Skogsmuseet",
+                  "text": "Erdészeti múzeum Lycksele-ben, amely a régió erdőgazdálkodásának történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.669024,
+                        64.605112
+                  ]
+            },
+            {
+                  "name": "Barnens djurpark",
+                  "text": "Gyermekállatkert Lycksele-ben, ahol a fiatal látogatók közelebbről megismerhetik a hazai állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.667172,
+                        64.582759
+                  ]
+            },
+            {
+                  "name": "Ansia Badpark",
+                  "text": "Vízi park Lycksele-ben, különféle medencékkel és csúszdákkal a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        18.699421,
+                        64.592806
+                  ]
+            },
+            {
+                  "name": "Jaktmuseum",
+                  "text": "Vadászati múzeum, amely észak-svédországi vadászat történetével kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.669787,
+                        64.604138
+                  ]
+            },
+            {
+                  "name": "Getter",
+                  "text": "Látnivaló a Lycksele Állatkertben, ahol a látogatók kecskéket láthatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        18.666068,
+                        64.583423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lycksele Djurpark",
+                  "text": "O grădină zoologică din nordul Suediei, specializată în fauna scandinavă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.663639,
+                        64.58119
+                  ]
+            },
+            {
+                  "name": "Gammplatsen",
+                  "text": "O rezervație naturală și muzeu în aer liber în Lycksele, care păstrează istoria regională.",
+                  "category": "natural",
+                  "coords": [
+                        18.66556,
+                        64.608466
+                  ]
+            },
+            {
+                  "name": "Skogsmuseet",
+                  "text": "Un muzeu al pădurii în Lycksele, care documentează istoria silviculturii din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        18.669024,
+                        64.605112
+                  ]
+            },
+            {
+                  "name": "Barnens djurpark",
+                  "text": "O grădină zoologică pentru copii în Lycksele, unde micii vizitatori se pot apropia de animale autohtone.",
+                  "category": "recreational",
+                  "coords": [
+                        18.667172,
+                        64.582759
+                  ]
+            },
+            {
+                  "name": "Ansia Badpark",
+                  "text": "Un parc acvatic în Lycksele cu diverse piscine și tobogane pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.699421,
+                        64.592806
+                  ]
+            },
+            {
+                  "name": "Jaktmuseum",
+                  "text": "Un muzeu al vânătorii care prezintă exponate despre istoria vânătorii în nordul Suediei.",
+                  "category": "museum",
+                  "coords": [
+                        18.669787,
+                        64.604138
+                  ]
+            },
+            {
+                  "name": "Getter",
+                  "text": "O atracție în Grădina Zoologică Lycksele, unde vizitatorii pot vedea capre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.666068,
+                        64.583423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lycksele Djurpark",
+                  "text": "A zoo in northern Sweden specializing in Scandinavian fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.663639,
+                        64.58119
+                  ]
+            },
+            {
+                  "name": "Gammplatsen",
+                  "text": "A nature reserve and open-air museum in Lycksele preserving regional history.",
+                  "category": "natural",
+                  "coords": [
+                        18.66556,
+                        64.608466
+                  ]
+            },
+            {
+                  "name": "Skogsmuseet",
+                  "text": "A forest museum in Lycksele documenting the history of forestry in the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.669024,
+                        64.605112
+                  ]
+            },
+            {
+                  "name": "Barnens djurpark",
+                  "text": "A children's zoo in Lycksele where young visitors can get close to domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        18.667172,
+                        64.582759
+                  ]
+            },
+            {
+                  "name": "Ansia Badpark",
+                  "text": "A water park in Lycksele featuring various pools and slides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        18.699421,
+                        64.592806
+                  ]
+            },
+            {
+                  "name": "Jaktmuseum",
+                  "text": "A hunting museum displaying exhibits on the history of hunting in northern Sweden.",
+                  "category": "museum",
+                  "coords": [
+                        18.669787,
+                        64.604138
+                  ]
+            },
+            {
+                  "name": "Getter",
+                  "text": "An attraction at Lycksele Zoo where visitors can see goats.",
+                  "category": "landmark",
+                  "coords": [
+                        18.666068,
+                        64.583423
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Tierpark Lycksele", hu: "Lycksele Állatkert", ro: "Grădina Zoologică Lycksele", en: "Lycksele Zoo"},
@@ -1141,7 +3607,304 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
     },
   },
   {
-    id: "sweden-skanes-djurpark-life-v2",
+    id: "sweden-skanes-djurpark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Höörs Mölla",
+                  "text": "Ein historisches Mühlenmuseum in der Nähe des Skånes Djurparks.",
+                  "category": "museum",
+                  "coords": [
+                        13.533125,
+                        55.927178
+                  ]
+            },
+            {
+                  "name": "Bjärets naturreservat",
+                  "text": "Ein Naturschutzgebiet mit Laubwäldern in der Nähe des Tierparks.",
+                  "category": "natural",
+                  "coords": [
+                        13.49357,
+                        55.979495
+                  ]
+            },
+            {
+                  "name": "Frostavallen-Ullstorp",
+                  "text": "Ein Erholungs- und Naturschutzgebiet mit Wanderwegen und schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.536494,
+                        55.975469
+                  ]
+            },
+            {
+                  "name": "Skånes djurpark",
+                  "text": "Ein großer Zoo in Schonen, der sich auf nordische Tierarten spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.531059,
+                        55.964122
+                  ]
+            },
+            {
+                  "name": "Ekastiga",
+                  "text": "Ein kleines Naturschutzgebiet, das für seinen Buchenwald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.521637,
+                        55.957771
+                  ]
+            },
+            {
+                  "name": "Munkarps fälad",
+                  "text": "Ein Naturschutzgebiet mit einer geschützten Weidelandschaft und Flora.",
+                  "category": "natural",
+                  "coords": [
+                        13.469518,
+                        55.948369
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Anders",
+                  "text": "Ein Kulturhaus in Höör, das Theateraufführungen und Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.545794,
+                        55.930572
+                  ]
+            },
+            {
+                  "name": "Minnenas Museum",
+                  "text": "Ein Museum, das nostalgische Sammlungen und historische Gegenstände ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.547887,
+                        55.927028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Höörs Mölla",
+                  "text": "Történelmi malommúzeum a Skånes Djurpark közelében.",
+                  "category": "museum",
+                  "coords": [
+                        13.533125,
+                        55.927178
+                  ]
+            },
+            {
+                  "name": "Bjärets naturreservat",
+                  "text": "Lombhullató erdőkkel rendelkező természetvédelmi terület a vadaspark közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.49357,
+                        55.979495
+                  ]
+            },
+            {
+                  "name": "Frostavallen-Ullstorp",
+                  "text": "Üdülő- és természetvédelmi terület túraútvonalakkal és szép tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        13.536494,
+                        55.975469
+                  ]
+            },
+            {
+                  "name": "Skånes djurpark",
+                  "text": "Nagy vadaspark Skåne-ban, amely északi állatfajokra specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        13.531059,
+                        55.964122
+                  ]
+            },
+            {
+                  "name": "Ekastiga",
+                  "text": "Kicsi természetvédelmi terület, amely bükkerdejéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.521637,
+                        55.957771
+                  ]
+            },
+            {
+                  "name": "Munkarps fälad",
+                  "text": "Természetvédelmi terület védett legelőkkel és flórával.",
+                  "category": "natural",
+                  "coords": [
+                        13.469518,
+                        55.948369
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Anders",
+                  "text": "Kulturális központ Höörben, amely színházi előadásokat és rendezvényeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        13.545794,
+                        55.930572
+                  ]
+            },
+            {
+                  "name": "Minnenas Museum",
+                  "text": "Múzeum, amely nosztalgikus gyűjteményeket és történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.547887,
+                        55.927028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Höörs Mölla",
+                  "text": "Un muzeu istoric al unei mori situat lângă Skånes Djurpark.",
+                  "category": "museum",
+                  "coords": [
+                        13.533125,
+                        55.927178
+                  ]
+            },
+            {
+                  "name": "Bjärets naturreservat",
+                  "text": "O rezervație naturală cu păduri de foioase situată lângă parcul zoologic.",
+                  "category": "natural",
+                  "coords": [
+                        13.49357,
+                        55.979495
+                  ]
+            },
+            {
+                  "name": "Frostavallen-Ullstorp",
+                  "text": "O zonă recreativă și rezervație naturală cu trasee de drumeție și peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        13.536494,
+                        55.975469
+                  ]
+            },
+            {
+                  "name": "Skånes djurpark",
+                  "text": "O grădină zoologică mare din Scania, specializată pe specii de animale nordice.",
+                  "category": "recreational",
+                  "coords": [
+                        13.531059,
+                        55.964122
+                  ]
+            },
+            {
+                  "name": "Ekastiga",
+                  "text": "O mică rezervație naturală cunoscută pentru pădurea sa de fagi.",
+                  "category": "natural",
+                  "coords": [
+                        13.521637,
+                        55.957771
+                  ]
+            },
+            {
+                  "name": "Munkarps fälad",
+                  "text": "O rezervație naturală cu un peisaj de pășune protejat și floră specifică.",
+                  "category": "natural",
+                  "coords": [
+                        13.469518,
+                        55.948369
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Anders",
+                  "text": "O casă de cultură în Höör care oferă spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        13.545794,
+                        55.930572
+                  ]
+            },
+            {
+                  "name": "Minnenas Museum",
+                  "text": "Un muzeu care expune colecții nostalgice și obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        13.547887,
+                        55.927028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Höörs Mölla",
+                  "text": "A historical mill museum located near Skånes Djurpark.",
+                  "category": "museum",
+                  "coords": [
+                        13.533125,
+                        55.927178
+                  ]
+            },
+            {
+                  "name": "Bjärets naturreservat",
+                  "text": "A nature reserve with deciduous forests located near the zoo.",
+                  "category": "natural",
+                  "coords": [
+                        13.49357,
+                        55.979495
+                  ]
+            },
+            {
+                  "name": "Frostavallen-Ullstorp",
+                  "text": "A recreational and nature reserve area with hiking trails and beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.536494,
+                        55.975469
+                  ]
+            },
+            {
+                  "name": "Skånes djurpark",
+                  "text": "A large zoo in Scania specializing in Nordic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        13.531059,
+                        55.964122
+                  ]
+            },
+            {
+                  "name": "Ekastiga",
+                  "text": "A small nature reserve known for its beech forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.521637,
+                        55.957771
+                  ]
+            },
+            {
+                  "name": "Munkarps fälad",
+                  "text": "A nature reserve featuring a protected pasture landscape and flora.",
+                  "category": "natural",
+                  "coords": [
+                        13.469518,
+                        55.948369
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Anders",
+                  "text": "A cultural center in Höör offering theater performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        13.545794,
+                        55.930572
+                  ]
+            },
+            {
+                  "name": "Minnenas Museum",
+                  "text": "A museum displaying nostalgic collections and historical items.",
+                  "category": "museum",
+                  "coords": [
+                        13.547887,
+                        55.927028
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "wildlife",
     name: { de: "Skånes Tierpark", hu: "Skånes Állatpark", ro: "Parcul Zoologic Skånes", en: "Skånes Djurpark"},
@@ -1233,7 +3996,268 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
     },
     image: "/poi-images/sweden-skansen-zoo-life-v2.webp",
 },  {
-    id: "sweden-kullaberg-nature-reserve-life-v2",
+    id: "sweden-kullaberg-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kullens västra fyr",
+                  "text": "Ein kleinerer Leuchtturm am westlichen Rand des Kullaberg-Plateaus.",
+                  "category": "landmark",
+                  "coords": [
+                        12.446727,
+                        56.302458
+                  ]
+            },
+            {
+                  "name": "Kullens fyr",
+                  "text": "Schwedens lichtstärkster Leuchtturm an der Spitze der Halbinsel Kullaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.451522,
+                        56.301025
+                  ]
+            },
+            {
+                  "name": "Kullabergs naturreservat",
+                  "text": "Ein felsiges Naturschutzgebiet an der Küste mit reicher Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        12.46904,
+                        56.297218
+                  ]
+            },
+            {
+                  "name": "Kullamannens grav",
+                  "text": "Eine archäologische Stätte im Kullaberg-Reservat, die mit lokalen Legenden verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.480276,
+                        56.294028
+                  ]
+            },
+            {
+                  "name": "Silvergrottan",
+                  "text": "Eine künstliche Höhle am Kullaberg, die einst zur Silbersuche angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.449475,
+                        56.300719
+                  ]
+            },
+            {
+                  "name": "Söftingsgrottan",
+                  "text": "Eine der vielen natürlichen Küstenhöhlen des Kullaberg-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        12.505707,
+                        56.295537
+                  ]
+            },
+            {
+                  "name": "Visitgrottan",
+                  "text": "Eine bekannte Meereshöhle am Kullaberg, die bei Wanderern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.463367,
+                        56.302228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kullens västra fyr",
+                  "text": "Kisebb világítótorony a Kullaberg-fennsík nyugati szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.446727,
+                        56.302458
+                  ]
+            },
+            {
+                  "name": "Kullens fyr",
+                  "text": "Svédország legerősebb fényű világítótornya a Kullaberg-félsziget csúcsán.",
+                  "category": "landmark",
+                  "coords": [
+                        12.451522,
+                        56.301025
+                  ]
+            },
+            {
+                  "name": "Kullabergs naturreservat",
+                  "text": "Sziklás tengerparti természetvédelmi terület gazdag élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        12.46904,
+                        56.297218
+                  ]
+            },
+            {
+                  "name": "Kullamannens grav",
+                  "text": "Régészeti lelőhely a Kullaberg rezervátumban, helyi legendákhoz kötődve.",
+                  "category": "historical",
+                  "coords": [
+                        12.480276,
+                        56.294028
+                  ]
+            },
+            {
+                  "name": "Silvergrottan",
+                  "text": "Mesterséges barlang a Kullabergen, amelyet egykor ezüst után kutatva vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.449475,
+                        56.300719
+                  ]
+            },
+            {
+                  "name": "Söftingsgrottan",
+                  "text": "A Kullaberg-masszívum számos természetes tengerparti barlangjának egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        12.505707,
+                        56.295537
+                  ]
+            },
+            {
+                  "name": "Visitgrottan",
+                  "text": "Népszerű tengeri barlang a Kullabergen, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.463367,
+                        56.302228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kullens västra fyr",
+                  "text": "Un far mai mic situat la marginea vestică a platoului Kullaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.446727,
+                        56.302458
+                  ]
+            },
+            {
+                  "name": "Kullens fyr",
+                  "text": "Cel mai puternic far din Suedia, situat în vârful peninsulei Kullaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.451522,
+                        56.301025
+                  ]
+            },
+            {
+                  "name": "Kullabergs naturreservat",
+                  "text": "O rezervație naturală de coastă, stâncoasă, cu o floră și faună bogată.",
+                  "category": "natural",
+                  "coords": [
+                        12.46904,
+                        56.297218
+                  ]
+            },
+            {
+                  "name": "Kullamannens grav",
+                  "text": "Un sit arheologic în rezervația Kullaberg, legat de legende locale.",
+                  "category": "historical",
+                  "coords": [
+                        12.480276,
+                        56.294028
+                  ]
+            },
+            {
+                  "name": "Silvergrottan",
+                  "text": "O peșteră artificială la Kullaberg, săpată odinioară în căutarea argintului.",
+                  "category": "landmark",
+                  "coords": [
+                        12.449475,
+                        56.300719
+                  ]
+            },
+            {
+                  "name": "Söftingsgrottan",
+                  "text": "Una dintre numeroasele peșteri naturale de coastă din masivul Kullaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.505707,
+                        56.295537
+                  ]
+            },
+            {
+                  "name": "Visitgrottan",
+                  "text": "O peșteră marină cunoscută la Kullaberg, populară printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        12.463367,
+                        56.302228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kullen western lighthouse",
+                  "text": "A smaller lighthouse situated on the western edge of the Kullaberg plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        12.446727,
+                        56.302458
+                  ]
+            },
+            {
+                  "name": "Kullen Lighthouse",
+                  "text": "Sweden's most powerful lighthouse, located at the tip of the Kullaberg peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        12.451522,
+                        56.301025
+                  ]
+            },
+            {
+                  "name": "Kullabergs naturreservat",
+                  "text": "A rocky coastal nature reserve known for its diverse wildlife and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        12.46904,
+                        56.297218
+                  ]
+            },
+            {
+                  "name": "Kullamannens grav",
+                  "text": "An archaeological site in the Kullaberg reserve associated with local legends.",
+                  "category": "historical",
+                  "coords": [
+                        12.480276,
+                        56.294028
+                  ]
+            },
+            {
+                  "name": "Silvergrottan",
+                  "text": "A man-made cave at Kullaberg, originally excavated during a search for silver.",
+                  "category": "landmark",
+                  "coords": [
+                        12.449475,
+                        56.300719
+                  ]
+            },
+            {
+                  "name": "Söftingsgrottan",
+                  "text": "One of the several natural coastal caves found in the Kullaberg massif.",
+                  "category": "landmark",
+                  "coords": [
+                        12.505707,
+                        56.295537
+                  ]
+            },
+            {
+                  "name": "Visitgrottan",
+                  "text": "A well-known sea cave at Kullaberg, frequently visited by hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.463367,
+                        56.302228
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Naturschutzgebiet Kullaberg", hu: "Kullaberg Természetvédelmi Terület", ro: "Rezervația Naturală Kullaberg", en: "Kullaberg Nature Reserve"},
@@ -1279,7 +4303,268 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
     },
   },
   {
-    id: "sweden-soderasen-national-park-life-v2",
+    id: "sweden-soderasen-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nackarps naturreservat",
+                  "text": "Naturschutzgebiet mit dramatischer Landschaft und üppigen Wäldern in Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.283201,
+                        56.008238
+                  ]
+            },
+            {
+                  "name": "Söderåsens Älgpark",
+                  "text": "Wildpark, in dem Besucher Elche in ihrem natürlichen Lebensraum beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        13.23457,
+                        56.016966
+                  ]
+            },
+            {
+                  "name": "Rårödspågen",
+                  "text": "Aussichtspunkt mit weitem Blick über die Landschaft von Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.244797,
+                        56.036203
+                  ]
+            },
+            {
+                  "name": "Kopparhatten",
+                  "text": "Berühmter Aussichtspunkt, bekannt für den dramatischen Talblick in Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.23848,
+                        56.034653
+                  ]
+            },
+            {
+                  "name": "Lierna",
+                  "text": "Natürlicher Aussichtspunkt mit weitem Blick auf den umliegenden Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        13.221279,
+                        56.025705
+                  ]
+            },
+            {
+                  "name": "Hjortsprånget",
+                  "text": "Hoher Aussichtspunkt mit steilen Klippen und Panoramablick in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        13.247184,
+                        56.034872
+                  ]
+            },
+            {
+                  "name": "Stenhagen",
+                  "text": "Überreste historischer Steinstrukturen im Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        13.227427,
+                        56.040115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nackarps naturreservat",
+                  "text": "Természetvédelmi terület látványos tájjal és sűrű erdőkkel a Söderåsen parkban.",
+                  "category": "natural",
+                  "coords": [
+                        13.283201,
+                        56.008238
+                  ]
+            },
+            {
+                  "name": "Söderåsens Älgpark",
+                  "text": "Vadaspark, ahol a látogatók természetes élőhelyükön figyelhetik meg a jávorszarvasokat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.23457,
+                        56.016966
+                  ]
+            },
+            {
+                  "name": "Rårödspågen",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a Söderåsen tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        13.244797,
+                        56.036203
+                  ]
+            },
+            {
+                  "name": "Kopparhatten",
+                  "text": "Híres kilátópont, amely a Söderåsen-völgyre nyíló látványos kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.23848,
+                        56.034653
+                  ]
+            },
+            {
+                  "name": "Lierna",
+                  "text": "Természetes kilátóhely, ahonnan széles kilátás nyílik a környező nemzeti parkra.",
+                  "category": "natural",
+                  "coords": [
+                        13.221279,
+                        56.025705
+                  ]
+            },
+            {
+                  "name": "Hjortsprånget",
+                  "text": "Magaslati kilátópont meredek sziklákkal és panorámás természeti kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        13.247184,
+                        56.034872
+                  ]
+            },
+            {
+                  "name": "Stenhagen",
+                  "text": "Történelmi kőépítmények maradványai a nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.227427,
+                        56.040115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nackarps naturreservat",
+                  "text": "Rezervație naturală cu peisaje dramatice și păduri dese în Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.283201,
+                        56.008238
+                  ]
+            },
+            {
+                  "name": "Söderåsens Älgpark",
+                  "text": "Parc de animale sălbatice unde vizitatorii pot observa elani în habitatul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        13.23457,
+                        56.016966
+                  ]
+            },
+            {
+                  "name": "Rårödspågen",
+                  "text": "Punct de observație oferind panorame asupra peisajului Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.244797,
+                        56.036203
+                  ]
+            },
+            {
+                  "name": "Kopparhatten",
+                  "text": "Punct de observație faimos pentru priveliștile dramatice asupra văii din Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.23848,
+                        56.034653
+                  ]
+            },
+            {
+                  "name": "Lierna",
+                  "text": "Punct de observație natural care oferă vederi largi asupra parcului național din jur.",
+                  "category": "natural",
+                  "coords": [
+                        13.221279,
+                        56.025705
+                  ]
+            },
+            {
+                  "name": "Hjortsprånget",
+                  "text": "Punct de observație înalt cu stânci abrupte și vederi panoramice asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        13.247184,
+                        56.034872
+                  ]
+            },
+            {
+                  "name": "Stenhagen",
+                  "text": "Rămășițele unor structuri istorice din piatră situate în parcul național.",
+                  "category": "historical",
+                  "coords": [
+                        13.227427,
+                        56.040115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nackarps naturreservat",
+                  "text": "Nature reserve featuring dramatic landscape and lush forests within Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.283201,
+                        56.008238
+                  ]
+            },
+            {
+                  "name": "Söderåsens Älgpark",
+                  "text": "Wildlife park where visitors can observe elk in their natural habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.23457,
+                        56.016966
+                  ]
+            },
+            {
+                  "name": "Rårödspågen",
+                  "text": "Scenic viewpoint offering vistas over the Söderåsen landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.244797,
+                        56.036203
+                  ]
+            },
+            {
+                  "name": "Kopparhatten",
+                  "text": "Famous viewpoint known for its dramatic valley views in Söderåsen.",
+                  "category": "natural",
+                  "coords": [
+                        13.23848,
+                        56.034653
+                  ]
+            },
+            {
+                  "name": "Lierna",
+                  "text": "Natural viewpoint providing broad views of the surrounding national park.",
+                  "category": "natural",
+                  "coords": [
+                        13.221279,
+                        56.025705
+                  ]
+            },
+            {
+                  "name": "Hjortsprånget",
+                  "text": "High viewpoint with sleep cliffs and panoramic nature views.",
+                  "category": "natural",
+                  "coords": [
+                        13.247184,
+                        56.034872
+                  ]
+            },
+            {
+                  "name": "Stenhagen",
+                  "text": "Remains of historic stone structures located in the national park.",
+                  "category": "historical",
+                  "coords": [
+                        13.227427,
+                        56.040115
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Söderåsen", hu: "Söderåsen Nemzeti Park", ro: "Parcul Național Söderåsen", en: "Söderåsen National Park"},
@@ -1416,7 +4701,196 @@ imageHint: "Gotska Sandön National Park sand dunes and pines",
     },
     image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp",
 },  {
-    id: "sweden-bjornlandet-national-park-life-v2",
+    id: "sweden-bjornlandet-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Häggsjö-Bergmyran",
+                  "text": "Ein Naturschutzgebiet mit Moorlandschaften im Nationalpark Björnlandet.",
+                  "category": "natural",
+                  "coords": [
+                        18.025685,
+                        63.95148
+                  ]
+            },
+            {
+                  "name": "Björnlandets nationalpark",
+                  "text": "Ein schwedischer Nationalpark, der für seinen urwaldähnlichen Kiefernwald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.014706,
+                        63.974064
+                  ]
+            },
+            {
+                  "name": "Björnbergets utkiksplats",
+                  "text": "Ein Aussichtspunkt auf dem Berg Björnberget im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        18.036616,
+                        63.982395
+                  ]
+            },
+            {
+                  "name": "Rönnlandsutsikten",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Nationalpark Björnlandet.",
+                  "category": "natural",
+                  "coords": [
+                        17.971702,
+                        63.971856
+                  ]
+            },
+            {
+                  "name": "Angsjöutsikten",
+                  "text": "Ein Panoramapunkt mit Blick auf den Angsjön-See im Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        18.04925,
+                        63.967449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Häggsjö-Bergmyran",
+                  "text": "Mocsaras tájakkal rendelkező természetvédelmi terület a Björnlandet Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.025685,
+                        63.95148
+                  ]
+            },
+            {
+                  "name": "Björnlandets nationalpark",
+                  "text": "Svéd nemzeti park, amely őserdőhöz hasonló fenyveseiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.014706,
+                        63.974064
+                  ]
+            },
+            {
+                  "name": "Björnbergets utkiksplats",
+                  "text": "Kilátópont a Björnberget hegyen a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.036616,
+                        63.982395
+                  ]
+            },
+            {
+                  "name": "Rönnlandsutsikten",
+                  "text": "Kilátóhely széles panorámával a Björnlandet Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        17.971702,
+                        63.971856
+                  ]
+            },
+            {
+                  "name": "Angsjöutsikten",
+                  "text": "Panorámás kilátóhely az Angsjön-tóra a nemzeti parkban.",
+                  "category": "natural",
+                  "coords": [
+                        18.04925,
+                        63.967449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Häggsjö-Bergmyran",
+                  "text": "O rezervație naturală cu zone mlăștinoase în Parcul Național Björnlandet.",
+                  "category": "natural",
+                  "coords": [
+                        18.025685,
+                        63.95148
+                  ]
+            },
+            {
+                  "name": "Björnlandets nationalpark",
+                  "text": "Un parc național suedez cunoscut pentru pădurile sale de pini cu aspect de junglă.",
+                  "category": "natural",
+                  "coords": [
+                        18.014706,
+                        63.974064
+                  ]
+            },
+            {
+                  "name": "Björnbergets utkiksplats",
+                  "text": "Un punct de observație pe muntele Björnberget în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        18.036616,
+                        63.982395
+                  ]
+            },
+            {
+                  "name": "Rönnlandsutsikten",
+                  "text": "Un punct de belvedere cu o vedere panoramică asupra Parcului Național Björnlandet.",
+                  "category": "natural",
+                  "coords": [
+                        17.971702,
+                        63.971856
+                  ]
+            },
+            {
+                  "name": "Angsjöutsikten",
+                  "text": "Un punct panoramic cu vedere spre lacul Angsjön în parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        18.04925,
+                        63.967449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Häggsjö-Bergmyran",
+                  "text": "A nature reserve featuring mire landscapes within the Björnlandet National Park.",
+                  "category": "natural",
+                  "coords": [
+                        18.025685,
+                        63.95148
+                  ]
+            },
+            {
+                  "name": "Björnlandets nationalpark",
+                  "text": "A Swedish national park known for its primeval-like pine forests.",
+                  "category": "natural",
+                  "coords": [
+                        18.014706,
+                        63.974064
+                  ]
+            },
+            {
+                  "name": "Björnbergets utkiksplats",
+                  "text": "A viewpoint located on Björnberget mountain within the national park.",
+                  "category": "natural",
+                  "coords": [
+                        18.036616,
+                        63.982395
+                  ]
+            },
+            {
+                  "name": "Rönnlandsutsikten",
+                  "text": "A viewpoint offering panoramic views over the Björnlandet National Park.",
+                  "category": "natural",
+                  "coords": [
+                        17.971702,
+                        63.971856
+                  ]
+            },
+            {
+                  "name": "Angsjöutsikten",
+                  "text": "A panoramic spot overlooking Lake Angsjön in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        18.04925,
+                        63.967449
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Björnlandet", hu: "Björnlandet Nemzeti Park", ro: "Parcul Național Björnlandet", en: "Björnlandet National Park"},
@@ -1462,7 +4936,88 @@ imageHint: "Björnlandet National Park old pine forest",
     },
     image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp",
 },  {
-    id: "sweden-sonfjallet-national-park-life-v2",
+    id: "sweden-sonfjallet-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyvallen",
+                  "text": "Eine traditionelle Alm und ein Besucherbereich im Nationalpark Sonfjället.",
+                  "category": "natural",
+                  "coords": [
+                        13.541816,
+                        62.311041
+                  ]
+            },
+            {
+                  "name": "Hede urskog",
+                  "text": "Ein Naturschutzgebiet mit altem Urwald in der Nähe des Nationalparks Sonfjället.",
+                  "category": "natural",
+                  "coords": [
+                        13.480511,
+                        62.340278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyvallen",
+                  "text": "Hagyományos hegyi legelő és látogatóközpont a Sonfjället Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        13.541816,
+                        62.311041
+                  ]
+            },
+            {
+                  "name": "Hede urskog",
+                  "text": "Őserdővel rendelkező természetvédelmi terület a Sonfjället Nemzeti Park közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.480511,
+                        62.340278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyvallen",
+                  "text": "O pășune montană tradițională și zonă pentru vizitatori în Parcul Național Sonfjället.",
+                  "category": "natural",
+                  "coords": [
+                        13.541816,
+                        62.311041
+                  ]
+            },
+            {
+                  "name": "Hede urskog",
+                  "text": "O rezervație naturală cu pădure seculară situată lângă Parcul Național Sonfjället.",
+                  "category": "natural",
+                  "coords": [
+                        13.480511,
+                        62.340278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyvallen",
+                  "text": "A traditional mountain pasture and visitor area in Sonfjället National Park.",
+                  "category": "natural",
+                  "coords": [
+                        13.541816,
+                        62.311041
+                  ]
+            },
+            {
+                  "name": "Hede urskog",
+                  "text": "A nature reserve featuring ancient old-growth forest near Sonfjället National Park.",
+                  "category": "natural",
+                  "coords": [
+                        13.480511,
+                        62.340278
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Sonfjället", hu: "Sonfjället Nemzeti Park", ro: "Parcul Național Sonfjället", en: "Sonfjället National Park"},

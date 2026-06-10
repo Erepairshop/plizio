@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraItalyWirtschaftLebenC3: POI[] = [
   {
-    id: "it-po-river",
+    id: "it-po-river", "sights": {
+      "de": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "Ein Denkmal für die Gefallenen in der Po-Region.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "Eine Sehenswürdigkeit am 45. Breitengrad in Po.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Eine historische Gebetsstätte in Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "A Po régió elesettjeinek emlékére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "A 45. északi szélességi kört jelző látványosság Po területén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Történelmi templom Po területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "Un monument dedicat celor căzuți în regiunea Po.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "O atracție care marchează paralela 45 nord în Po.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "Un lăcaș de cult istoric situat în Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento ai Caduti di Boccasette",
+                  "text": "A monument dedicated to the fallen in the Po region.",
+                  "category": "historical",
+                  "coords": [
+                        12.420636,
+                        45.002574
+                  ]
+            },
+            {
+                  "name": "45° Parallelo",
+                  "text": "An attraction marking the 45th parallel north in Po.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42358,
+                        45.00002
+                  ]
+            },
+            {
+                  "name": "chiesa della Beata Vergine del Rosario",
+                  "text": "A historic place of worship located in Po.",
+                  "category": "religious",
+                  "coords": [
+                        12.413398,
+                        44.954878
+                  ]
+            }
+      ]
+},
     name: { de: "Po", hu: "Pó", ro: "Pad", en: "Po" },
     parent: "IT-NORD",
     type: "river",

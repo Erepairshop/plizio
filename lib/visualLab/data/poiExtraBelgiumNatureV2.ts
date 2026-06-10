@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const belgiumNatureV2: POI[] = [
 
   {
-    id: "belgium-signal-de-botrange-nature-v2",
+    id: "belgium-signal-de-botrange-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Ein Dokumentationszentrum und Museum in Signal de Botrange, das sich dem Erbe der Region Hohes Venn widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Baltia-Hügel",
+                  "text": "Ein künstlicher Hügel am Signal de Botrange, der errichtet wurde, um eine Höhe von genau 700 Metern zu erreichen.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Michelshütte",
+                  "text": "Ein historisches Gasthaus und markanter Gipfelpunkt im Hohen Venn, gelegen in der Nähe des höchsten Punktes Belgiens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "Ein beeindruckender Wasserfall in der Nähe von Signal de Botrange, einer der höchsten und bekanntesten Wasserfälle Belgiens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Ein lokales Denkmal am Signal de Botrange, das einer bedeutenden regionalen Persönlichkeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "Ein Gedenkmonument in der Region Signal de Botrange, das an das kulturelle Erbe des Gebiets erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Ein Denkmal zu Ehren des belgischen Comicautors Didier Comès in der Nähe des Signal de Botrange.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Dokumentációs központ és múzeum a Signal de Botrange-nál, amely a Magas-Láp vidékének örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "Mesterséges domb a Signal de Botrange-nál, amelyet azért emeltek, hogy elérjék a pontosan 700 méteres magasságot.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "Történelmi fogadó és jellegzetes csúcspont a Magas-Lápban, Belgium legmagasabb pontjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "Lenyűgöző vízesés a Signal de Botrange közelében, amely Belgium egyik legmagasabb és legismertebb vízesése.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Helyi emlékmű a Signal de Botrange-nál, amelyet egy jelentős regionális személyiségnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "Emlékmű a Signal de Botrange régióban, amely a terület kulturális örökségére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Didier Comès belga képregényíró tiszteletére állított emlékmű a Signal de Botrange közelében.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "Un centru de documentare și muzeu la Signal de Botrange, dedicat patrimoniului regiunii Hautes Fagnes.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "O movilă artificială la Signal de Botrange, construită pentru a atinge înălțimea de exact 700 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "Un han istoric și un vârf proeminent în Hautes Fagnes, situat lângă cel mai înalt punct al Belgiei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "O cascadă impresionantă lângă Signal de Botrange, fiind una dintre cele mai înalte și cunoscute cascade din Belgia.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "Un monument local la Signal de Botrange, dedicat unei personalități regionale importante.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "Un monument comemorativ în regiunea Signal de Botrange, amintind de moștenirea culturală a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "Un monument în onoarea autorului belgian de benzi desenate Didier Comès, situat lângă Signal de Botrange.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
+                  "text": "A documentation centre and museum at Signal de Botrange dedicated to the heritage of the High Fens region.",
+                  "category": "museum",
+                  "coords": [
+                        6.118976,
+                        50.472608
+                  ]
+            },
+            {
+                  "name": "Butte Baltia",
+                  "text": "An artificial mound at Signal de Botrange constructed to reach an altitude of exactly 700 metres.",
+                  "category": "natural",
+                  "coords": [
+                        6.092609,
+                        50.501694
+                  ]
+            },
+            {
+                  "name": "Baraque Michel",
+                  "text": "A historic inn and prominent peak in the High Fens, located near the highest point of Belgium.",
+                  "category": "landmark",
+                  "coords": [
+                        6.062437,
+                        50.518793
+                  ]
+            },
+            {
+                  "name": "Cascade du Bayehon",
+                  "text": "An impressive waterfall near Signal de Botrange, one of the highest and best-known waterfalls in Belgium.",
+                  "category": "landmark",
+                  "coords": [
+                        6.086883,
+                        50.478288
+                  ]
+            },
+            {
+                  "name": "Monument Pietkin",
+                  "text": "A local monument at Signal de Botrange dedicated to an important regional figure.",
+                  "category": "historical",
+                  "coords": [
+                        6.120091,
+                        50.47187
+                  ]
+            },
+            {
+                  "name": "Monument Dehousse",
+                  "text": "A commemorative monument in the Signal de Botrange region, recalling the area's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        6.130296,
+                        50.491513
+                  ]
+            },
+            {
+                  "name": "Monument Didier Comès",
+                  "text": "A monument in honour of the Belgian comic artist Didier Comès, located near Signal de Botrange.",
+                  "category": "historical",
+                  "coords": [
+                        6.131618,
+                        50.492904
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "peak",
     name: { de: "Signal de Botrange", hu: "Signal de Botrange", ro: "Signal de Botrange", en: "Signal de Botrange"},
@@ -49,7 +310,304 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
     },
     image: "/poi-images/belgium-signal-de-botrange-nature-v2.webp",
 },  {
-    id: "belgium-sonian-forest-nature-v2",
+    id: "belgium-sonian-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deux tertes - Twee heuvels",
+                  "text": "Antike Tumuli oder Grabhügel im historischen Sonian-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        4.405732,
+                        50.78798
+                  ]
+            },
+            {
+                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
+                  "text": "Eine archäologische Stätte in der Nähe der Teiche von Boitsfort im Sonian-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        4.411131,
+                        50.790473
+                  ]
+            },
+            {
+                  "name": "Waldreservat Ticton A",
+                  "text": "Ein geschütztes Waldgebiet im Sonian-Wald, das der Erhaltung der biologischen Vielfalt gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.436884,
+                        50.734207
+                  ]
+            },
+            {
+                  "name": "Waldreservat Ticton B",
+                  "text": "Teil des Naturschutzgebietsnetzes im Sonian-Wald mit Schwerpunkt auf Waldökologie.",
+                  "category": "natural",
+                  "coords": [
+                        4.4308,
+                        50.726807
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet im Sonian-Wald, das für seine natürliche Walddynamik bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château de La Fougeraie - Kasteel van Fougeraie",
+                  "text": "Ein prächtiges Schloss aus dem frühen 20. Jahrhundert am Rande des Sonian-Waldes.",
+                  "category": "castle",
+                  "coords": [
+                        4.383763,
+                        50.790158
+                  ]
+            },
+            {
+                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
+                  "text": "Ein historisches Anwesen und Schloss in der Nähe des Sonian-Waldes im Gebiet von Uccle.",
+                  "category": "castle",
+                  "coords": [
+                        4.375178,
+                        50.779567
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "Ein Schutzgebiet im Sonian-Wald, das das natürliche Ökosystem der Region bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deux tertes - Twee heuvels",
+                  "text": "Ősi halomsírok vagy sírhalmok a történelmi Sonian-erdő területén.",
+                  "category": "historical",
+                  "coords": [
+                        4.405732,
+                        50.78798
+                  ]
+            },
+            {
+                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
+                  "text": "Régészeti lelőhely a Boitsfort-tavak közelében a Sonian-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        4.411131,
+                        50.790473
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Ticton A",
+                  "text": "Védett erdőterület a Sonian-erdőben, a biológiai sokféleség megőrzésére kijelölve.",
+                  "category": "natural",
+                  "coords": [
+                        4.436884,
+                        50.734207
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Ticton B",
+                  "text": "A Sonian-erdő természetvédelmi hálózatának része, amely az erdőökológiára összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        4.4308,
+                        50.726807
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "Kijelölt természetvédelmi terület a Sonian-erdőben, amely a természetes erdődinamikájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château de La Fougeraie - Kasteel van Fougeraie",
+                  "text": "Impozáns, 20. század eleji kastély a Sonian-erdő szélén.",
+                  "category": "castle",
+                  "coords": [
+                        4.383763,
+                        50.790158
+                  ]
+            },
+            {
+                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
+                  "text": "Történelmi birtok és kastély a Sonian-erdő közelében, Uccle környékén.",
+                  "category": "castle",
+                  "coords": [
+                        4.375178,
+                        50.779567
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "Védett terület a Sonian-erdőben, amely a régió természetes ökoszisztémáját őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deux tertes - Twee heuvels",
+                  "text": "Tumuli antici sau morminte movilă situate în istorica Pădure Sonian.",
+                  "category": "historical",
+                  "coords": [
+                        4.405732,
+                        50.78798
+                  ]
+            },
+            {
+                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
+                  "text": "Un sit arheologic în apropierea iazurilor din Boitsfort, în Pădurea Sonian.",
+                  "category": "historical",
+                  "coords": [
+                        4.411131,
+                        50.790473
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Ticton A",
+                  "text": "O zonă forestieră protejată în Pădurea Sonian dedicată conservării biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        4.436884,
+                        50.734207
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Ticton B",
+                  "text": "Parte a rețelei de rezervații naturale din Pădurea Sonian, axată pe ecologia forestieră.",
+                  "category": "natural",
+                  "coords": [
+                        4.4308,
+                        50.726807
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
+                  "text": "O rezervație naturală desemnată în Pădurea Sonian, cunoscută pentru dinamica naturală a pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château de La Fougeraie - Kasteel van Fougeraie",
+                  "text": "Un castel impunător de la începutul secolului al XX-lea situat la marginea Pădurii Sonian.",
+                  "category": "castle",
+                  "coords": [
+                        4.383763,
+                        50.790158
+                  ]
+            },
+            {
+                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
+                  "text": "O proprietate istorică și un castel situat lângă Pădurea Sonian, în zona Uccle.",
+                  "category": "castle",
+                  "coords": [
+                        4.375178,
+                        50.779567
+                  ]
+            },
+            {
+                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
+                  "text": "O zonă protejată în Pădurea Sonian care conservă ecosistemul natural al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deux tertes - Twee heuvels",
+                  "text": "Ancient tumuli or burial mounds located within the historic Sonian Forest.",
+                  "category": "historical",
+                  "coords": [
+                        4.405732,
+                        50.78798
+                  ]
+            },
+            {
+                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
+                  "text": "An archaeological site near the ponds of Boitsfort in the Sonian Forest.",
+                  "category": "historical",
+                  "coords": [
+                        4.411131,
+                        50.790473
+                  ]
+            },
+            {
+                  "name": "Forest reserve Ticton A",
+                  "text": "A protected forest area in the Sonian Forest dedicated to biodiversity conservation.",
+                  "category": "natural",
+                  "coords": [
+                        4.436884,
+                        50.734207
+                  ]
+            },
+            {
+                  "name": "Forest reserve Ticton B",
+                  "text": "Part of the nature reserve network within the Sonian Forest, focusing on forest ecology.",
+                  "category": "natural",
+                  "coords": [
+                        4.4308,
+                        50.726807
+                  ]
+            },
+            {
+                  "name": "Sonian Forest - Grippensdelle A",
+                  "text": "A designated nature reserve within the Sonian Forest known for its natural forest dynamics.",
+                  "category": "natural",
+                  "coords": [
+                        4.426745,
+                        50.781593
+                  ]
+            },
+            {
+                  "name": "Château de La Fougeraie - Kasteel van Fougeraie",
+                  "text": "A grand early 20th-century castle situated on the edge of the Sonian Forest.",
+                  "category": "castle",
+                  "coords": [
+                        4.383763,
+                        50.790158
+                  ]
+            },
+            {
+                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
+                  "text": "A historic estate and castle located near the Sonian Forest in the Uccle area.",
+                  "category": "castle",
+                  "coords": [
+                        4.375178,
+                        50.779567
+                  ]
+            },
+            {
+                  "name": "Sonian Forest - Grippensdelle B",
+                  "text": "A protected area within the Sonian Forest preserving the region's natural ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        4.431961,
+                        50.783589
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "forest",
     name: { de: "Sonienwald", hu: "Zoniënwoud", ro: "Pădurea Soignes", en: "Sonian Forest"},
@@ -95,7 +653,196 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
     },
     image: "/poi-images/belgium-sonian-forest-nature-v2.webp",
 },  {
-    id: "belgium-cascade-de-coo-nature-v2",
+    id: "belgium-cascade-de-coo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abtei Stablo",
+                  "text": "Ehemalige Benediktinerabtei mit großer historischer Bedeutung in Stavelot.",
+                  "category": "religious",
+                  "coords": [
+                        5.931375,
+                        50.39312
+                  ]
+            },
+            {
+                  "name": "Musée Guillaume Apollinaire",
+                  "text": "Dieses Museum in der ehemaligen Abtei Stavelot ist dem Leben und Werk des Dichters Guillaume Apollinaire gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.932292,
+                        50.39359
+                  ]
+            },
+            {
+                  "name": "Plopsaland Ardennes",
+                  "text": "Ein familienfreundlicher Freizeitpark mit Fahrgeschäften und Attraktionen direkt an den Wasserfällen von Coo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.873162,
+                        50.3951
+                  ]
+            },
+            {
+                  "name": "Musée Décembre 1944",
+                  "text": "Ein Museum, das sich mit der Ardennenoffensive im Dezember 1944 und der regionalen Kriegsgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        5.846023,
+                        50.409944
+                  ]
+            },
+            {
+                  "name": "Château de La Vaulx-Renard",
+                  "text": "Ein historisches Schlossgut in der malerischen Landschaft der belgischen Ardennen.",
+                  "category": "castle",
+                  "coords": [
+                        5.829549,
+                        50.396104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbaye Stavelot",
+                  "text": "Nagy történelmi jelentőségű egykori bencés apátság Stavelot-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.931375,
+                        50.39312
+                  ]
+            },
+            {
+                  "name": "Musée Guillaume Apollinaire",
+                  "text": "A stavelot-i apátságban található múzeum Guillaume Apollinaire költő életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.932292,
+                        50.39359
+                  ]
+            },
+            {
+                  "name": "Plopsaland Ardennes",
+                  "text": "Családi vidámpark különféle játékokkal és látnivalókkal a Coo-vízesés közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.873162,
+                        50.3951
+                  ]
+            },
+            {
+                  "name": "Musée Décembre 1944",
+                  "text": "Az 1944. decemberi ardenneki offenzívával és a régió hadtörténetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.846023,
+                        50.409944
+                  ]
+            },
+            {
+                  "name": "Château de La Vaulx-Renard",
+                  "text": "Történelmi kastélybirtok a belga Ardennek festői környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        5.829549,
+                        50.396104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbaye Stavelot",
+                  "text": "Fostă abație benedictină de mare importanță istorică în Stavelot.",
+                  "category": "religious",
+                  "coords": [
+                        5.931375,
+                        50.39312
+                  ]
+            },
+            {
+                  "name": "Musée Guillaume Apollinaire",
+                  "text": "Acest muzeu din fosta abație Stavelot este dedicat vieții și operei poetului Guillaume Apollinaire.",
+                  "category": "museum",
+                  "coords": [
+                        5.932292,
+                        50.39359
+                  ]
+            },
+            {
+                  "name": "Plopsaland Ardennes",
+                  "text": "Un parc de distracții pentru familii, cu diverse atracții, situat lângă cascada Coo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.873162,
+                        50.3951
+                  ]
+            },
+            {
+                  "name": "Musée Décembre 1944",
+                  "text": "Un muzeu care prezintă detalii despre Ofensiva din Ardeni din decembrie 1944 și istoria militară locală.",
+                  "category": "museum",
+                  "coords": [
+                        5.846023,
+                        50.409944
+                  ]
+            },
+            {
+                  "name": "Château de La Vaulx-Renard",
+                  "text": "Un castel istoric situat în peisajul pitoresc al Ardenilor belgieni.",
+                  "category": "castle",
+                  "coords": [
+                        5.829549,
+                        50.396104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbaye Stavelot",
+                  "text": "Former Benedictine abbey of great historical significance in Stavelot.",
+                  "category": "religious",
+                  "coords": [
+                        5.931375,
+                        50.39312
+                  ]
+            },
+            {
+                  "name": "Musée Guillaume Apollinaire",
+                  "text": "Located in the former Abbey of Stavelot, this museum is dedicated to the life and work of the poet Guillaume Apollinaire.",
+                  "category": "museum",
+                  "coords": [
+                        5.932292,
+                        50.39359
+                  ]
+            },
+            {
+                  "name": "Plopsaland Ardennes",
+                  "text": "A family-friendly theme park with various rides and attractions located right by the Coo waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        5.873162,
+                        50.3951
+                  ]
+            },
+            {
+                  "name": "Musée Décembre 1944",
+                  "text": "A museum focusing on the Battle of the Bulge in December 1944 and regional military history.",
+                  "category": "museum",
+                  "coords": [
+                        5.846023,
+                        50.409944
+                  ]
+            },
+            {
+                  "name": "Château de La Vaulx-Renard",
+                  "text": "A historic castle estate situated in the scenic landscape of the Belgian Ardennes.",
+                  "category": "castle",
+                  "coords": [
+                        5.829549,
+                        50.396104
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Wasserfall von Coo", hu: "Coo-vízesés", ro: "Cascada de la Coo", en: "Cascade de Coo"},
@@ -141,7 +888,304 @@ imageHint: "Cascade de Coo waterfall with bridge",
     },
     image: "/poi-images/belgium-cascade-de-coo-nature-v2.webp",
 },  {
-    id: "belgium-caves-of-han-nature-v2",
+    id: "belgium-caves-of-han-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Resteigne",
+                  "text": "Ein historisches Schloss aus dem 18. Jahrhundert am Ufer der Lesse in Resteigne.",
+                  "category": "castle",
+                  "coords": [
+                        5.174839,
+                        50.090163
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Dieses Museum zeigt das tägliche Leben und alte Handwerke aus der Zeit um 1900.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "Eine Ausstellung über prähistorische Funde, die in den Grotten von Han entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "Ein Naturschutzgebiet bei Han-sur-Lesse, das für seine kalkhaltigen Rasenflächen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "Ein historisches Schlossgebäude in Eprave, das für die Architektur der Region typisch ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Château Lamotte",
+                  "text": "Ein ehemaliges Herrenhaus im Dorf Eprave, das heute Besuchern als Unterkunft dient.",
+                  "category": "castle",
+                  "coords": [
+                        5.144746,
+                        50.108358
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "Ein waldreiches Naturschutzgebiet und Erholungszentrum in der Nähe der Grotten von Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "Ein ruhiges Waldgebiet und Naturschutzgebiet in der malerischen Umgebung von Han-sur-Lesse.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Resteigne",
+                  "text": "Történelmi 18. századi kastély a Lesse folyó partján, Resteigne településen.",
+                  "category": "castle",
+                  "coords": [
+                        5.174839,
+                        50.090163
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Az 1900-as évek mindennapi életét és régi mesterségeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "A Han-barlangokban talált őskori leleteket bemutató régészeti kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "Han-sur-Lesse melletti természetvédelmi terület, amely mészkőgyepeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "Történelmi kastélyépület Eprave faluban, amely a régió építészetére jellemző.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Château Lamotte",
+                  "text": "Egykori nemesi rezidencia Eprave faluban, amely ma szálláshelyként működik.",
+                  "category": "castle",
+                  "coords": [
+                        5.144746,
+                        50.108358
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "Erdős természetvédelmi terület és üdülőközpont a Han-barlangok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "Csendes erdős terület és természetvédelmi övezet Han-sur-Lesse festői környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Resteigne",
+                  "text": "Un castel istoric din secolul al XVIII-lea situat pe malul râului Lesse în Resteigne.",
+                  "category": "castle",
+                  "coords": [
+                        5.174839,
+                        50.090163
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "Acest muzeu prezintă viața cotidiană și meșteșugurile vechi din jurul anului 1900.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "O expoziție despre descoperirile preistorice făcute în peșterile de la Han.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "O rezervație naturală lângă Han-sur-Lesse, cunoscută pentru pajiștile sale calcaroase.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "O clădire istorică de castel în Eprave, tipică pentru arhitectura regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Château Lamotte",
+                  "text": "Un fost conac în satul Eprave, care astăzi servește drept unitate de cazare.",
+                  "category": "castle",
+                  "coords": [
+                        5.144746,
+                        50.108358
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "O rezervație naturală împădurită și centru de recreere în apropierea peșterilor de la Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "O zonă forestieră liniștită și rezervație naturală în împrejurimile pitorești din Han-sur-Lesse.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Resteigne",
+                  "text": "A historic 18th-century castle located on the banks of the Lesse River in Resteigne.",
+                  "category": "castle",
+                  "coords": [
+                        5.174839,
+                        50.090163
+                  ]
+            },
+            {
+                  "name": "Han 1900",
+                  "text": "This museum showcases daily life and old crafts from around the year 1900.",
+                  "category": "museum",
+                  "coords": [
+                        5.188694,
+                        50.124728
+                  ]
+            },
+            {
+                  "name": "PrehistoHan",
+                  "text": "An exhibition featuring prehistoric finds discovered within the Caves of Han.",
+                  "category": "museum",
+                  "coords": [
+                        5.191447,
+                        50.124336
+                  ]
+            },
+            {
+                  "name": "Tienne d'Aise",
+                  "text": "A nature reserve near Han-sur-Lesse, known for its calcareous grasslands.",
+                  "category": "natural",
+                  "coords": [
+                        5.152126,
+                        50.118615
+                  ]
+            },
+            {
+                  "name": "Château d’Eprave",
+                  "text": "A historic castle building in Eprave, typical of the region's architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.160934,
+                        50.144683
+                  ]
+            },
+            {
+                  "name": "Château Lamotte",
+                  "text": "A former manor house in the village of Eprave, now used for tourist accommodation.",
+                  "category": "castle",
+                  "coords": [
+                        5.144746,
+                        50.108358
+                  ]
+            },
+            {
+                  "name": "Le Roptai",
+                  "text": "A wooded nature reserve and recreation center located near the Caves of Han.",
+                  "category": "natural",
+                  "coords": [
+                        5.141718,
+                        50.117965
+                  ]
+            },
+            {
+                  "name": "Bois d'Ellinchamps",
+                  "text": "A quiet forested area and nature reserve in the scenic surroundings of Han-sur-Lesse.",
+                  "category": "natural",
+                  "coords": [
+                        5.191479,
+                        50.093466
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Grotten von Han", hu: "Han-barlang", ro: "Peșterile de la Han", en: "Caves of Han"},
@@ -370,7 +1414,304 @@ imageHint: "Ourthe river winding through Ardennes forests",
     },
     image: "/poi-images/belgium-ourthe-river-nature-v2.webp",
 },  {
-    id: "belgium-semois-river-nature-v2", "sights": {"de": [{"name": "plage de Alle", "text": "Am sanften Lauf der Semois lädt die Plage de Alle zu erholsamen Stunden in der belgischen Natur ein. Dieser kleine Badestrand ist ideal, um die Füße ins kühle Flusswasser zu tauchen und die Seele baumeln zu lassen. Die bewaldeten Ufer verströmen eine beruhigende Atmosphäre fernab des Alltags. Wasserschuhe sind praktisch, um die Flusssteine bequem zu überqueren.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Dieser idyllische Grasstrand bei Membre schmiegt sich malerisch an die Ufer der Semois. Die Plage de Membre ist ein wunderbarer Rückzugsort für alle, die eine weiche Liegewiese dem Sand vorziehen. Das friedliche Flussambiente lädt zum Sonnenbaden und Lesen in der Natur ein. Eine Decke als Unterlage macht den Aufenthalt auf dem Rasen noch komfortabler.", "category": "recreational", "coords": [4.900464, 49.864397]}], "hu": [{"name": "plage de Alle", "text": "A Semois folyó szelíd sodrásánál található Plage de Alle pihentető órákra csábít a belga természetben. Ez a kis fürdőstrand ideális arra, hogy lábunkat a hűvös folyóvízbe lógassuk és kikapcsolódjunk. Az erdős partok megnyugtató légkört árasztanak, távol a mindennapoktól. Egy vizicipő praktikus lehet a folyami köveken való kényelmes átkeléshez.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Ez az idilli füves strand Membre közelében festőien simul a Semois folyó partjához. A Plage de Membre csodálatos menedék azoknak, akik a puha pázsitot részesítik előnyben a homokkal szemben. A békés folyami környezet napozásra és természetben való olvasásra hívogat. Egy kényelmes takaró még kellemesebbé teszi a füvön tartózkodást.", "category": "recreational", "coords": [4.900464, 49.864397]}], "ro": [{"name": "plage de Alle", "text": "De-a lungul cursului lin al râului Semois, Plage de Alle te invită la ore de relaxare în natura belgiană. Această mică plajă de scăldat este ideală pentru a-ți scufunda picioarele în apa rece a râului și a te deconecta. Malurile împădurite emană o atmosferă liniștitoare, departe de viața cotidiană. Încălțămintea de apă este practică pentru a traversa confortabil pietrele din râu.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "Această plajă idilică cu iarbă de lângă Membre se cuibărește pitoresc pe malurile râului Semois. Plage de Membre este un refugiu minunat pentru cei care preferă o pajiște moale în loc de nisip. Ambianța pașnică a râului te invită la băi de soare și la lectură în natură. O pătură face ca șederea pe iarbă să fie și mai confortabilă.", "category": "recreational", "coords": [4.900464, 49.864397]}], "en": [{"name": "plage de Alle", "text": "Along the gentle course of the Semois river, Plage de Alle invites you to relaxing hours in the Belgian outdoors. This small bathing beach is ideal for dipping your feet into the cool river water and letting your mind wander. The wooded banks exude a calming atmosphere far from everyday life. Water shoes come in handy to comfortably navigate the river stones.", "category": "recreational", "coords": [4.976573, 49.847115]}, {"name": "Plage de Membre (herbe)", "text": "This idyllic grassy beach near Membre nestles picturesquely along the banks of the Semois river. Plage de Membre is a wonderful retreat for anyone who prefers a soft lawn over sandy shores. The peaceful river ambiance invites sunbathing and reading in the midst of nature. Bringing a blanket makes relaxing on the grass even more comfortable.", "category": "recreational", "coords": [4.900464, 49.864397]}]},
+    id: "belgium-semois-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Am sanften Lauf der Semois lädt die Plage de Alle zu erholsamen Stunden in der belgischen Natur ein. Dieser kleine Badestrand ist ideal, um die Füße ins kühle Flusswasser zu tauchen und die Seele baumeln zu lassen. Die bewaldeten Ufer verströmen eine beruhigende Atmosphäre fernab des Alltags. Wasserschuhe sind praktisch, um die Flusssteine bequem zu überqueren.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Dieser idyllische Grasstrand bei Membre schmiegt sich malerisch an die Ufer der Semois. Die Plage de Membre ist ein wunderbarer Rückzugsort für alle, die eine weiche Liegewiese dem Sand vorziehen. Das friedliche Flussambiente lädt zum Sonnenbaden und Lesen in der Natur ein. Eine Decke als Unterlage macht den Aufenthalt auf dem Rasen noch komfortabler.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            },
+            {
+                  "name": "Ardois'alle",
+                  "text": "Ein Schiefermuseum in Alle, das die Geschichte des lokalen Schieferabbaus präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        4.9666,
+                        49.8361
+                  ]
+            },
+            {
+                  "name": "Château d'Orchimont",
+                  "text": "Die Überreste einer mittelalterlichen Burg in Orchimont, die einst eine strategische Festung war.",
+                  "category": "castle",
+                  "coords": [
+                        4.929481,
+                        49.891357
+                  ]
+            },
+            {
+                  "name": "Château de Gros-Fays",
+                  "text": "Ein Schloss in Gros-Fays, das ein charakteristisches Beispiel für die regionale Architektur darstellt.",
+                  "category": "castle",
+                  "coords": [
+                        4.982109,
+                        49.868804
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale d'Alle",
+                  "text": "Der ehemalige Kleinbahnhof von Alle an der Semois ist ein Zeugnis der regionalen Verkehrsgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        4.969572,
+                        49.837316
+                  ]
+            },
+            {
+                  "name": "Chapelle du Flachi",
+                  "text": "Eine kleine Kapelle an der Semois, die als lokales religiöses Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        4.914497,
+                        49.891928
+                  ]
+            },
+            {
+                  "name": "Naglemont",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das gewundene Tal des Flusses Semois bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.964739,
+                        49.858263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plage de Alle",
+                  "text": "A Semois folyó szelíd sodrásánál található Plage de Alle pihentető órákra csábít a belga természetben. Ez a kis fürdőstrand ideális arra, hogy lábunkat a hűvös folyóvízbe lógassuk és kikapcsolódjunk. Az erdős partok megnyugtató légkört árasztanak, távol a mindennapoktól. Egy vizicipő praktikus lehet a folyami köveken való kényelmes átkeléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Ez az idilli füves strand Membre közelében festőien simul a Semois folyó partjához. A Plage de Membre csodálatos menedék azoknak, akik a puha pázsitot részesítik előnyben a homokkal szemben. A békés folyami környezet napozásra és természetben való olvasásra hívogat. Egy kényelmes takaró még kellemesebbé teszi a füvön tartózkodást.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            },
+            {
+                  "name": "Ardois'alle",
+                  "text": "Palakőmúzeum Alle-ban, amely a helyi palakitermelés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.9666,
+                        49.8361
+                  ]
+            },
+            {
+                  "name": "Château d'Orchimont",
+                  "text": "Egy középkori vár maradványai Orchimontban, amely egykor stratégiai jelentőségű erődítmény volt.",
+                  "category": "castle",
+                  "coords": [
+                        4.929481,
+                        49.891357
+                  ]
+            },
+            {
+                  "name": "Château de Gros-Fays",
+                  "text": "Kastély Gros-Fays-ban, amely a regionális építészet egyik jellegzetes példája.",
+                  "category": "castle",
+                  "coords": [
+                        4.982109,
+                        49.868804
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale d'Alle",
+                  "text": "Alle egykori vicinális vasútállomása a Semois mentén a regionális közlekedés történetét idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        4.969572,
+                        49.837316
+                  ]
+            },
+            {
+                  "name": "Chapelle du Flachi",
+                  "text": "Kisméretű kápolna a Semois partján, amely helyi vallási emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        4.914497,
+                        49.891928
+                  ]
+            },
+            {
+                  "name": "Naglemont",
+                  "text": "Kilátópont, amely széles panorámát nyújt a Semois folyó kanyargós völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        4.964739,
+                        49.858263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plage de Alle",
+                  "text": "De-a lungul cursului lin al râului Semois, Plage de Alle te invită la ore de relaxare în natura belgiană. Această mică plajă de scăldat este ideală pentru a-ți scufunda picioarele în apa rece a râului și a te deconecta. Malurile împădurite emană o atmosferă liniștitoare, departe de viața cotidiană. Încălțămintea de apă este practică pentru a traversa confortabil pietrele din râu.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Această plajă idilică cu iarbă de lângă Membre se cuibărește pitoresc pe malurile râului Semois. Plage de Membre este un refugiu minunat pentru cei care preferă o pajiște moale în loc de nisip. Ambianța pașnică a râului te invită la băi de soare și la lectură în natură. O pătură face ca șederea pe iarbă să fie și mai confortabilă.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            },
+            {
+                  "name": "Ardois'alle",
+                  "text": "Un muzeu al ardeziei din Alle, care prezintă istoria extracției locale de ardezie.",
+                  "category": "museum",
+                  "coords": [
+                        4.9666,
+                        49.8361
+                  ]
+            },
+            {
+                  "name": "Château d'Orchimont",
+                  "text": "Vestigiile unui castel medieval din Orchimont, care a fost odată o fortăreață strategică.",
+                  "category": "castle",
+                  "coords": [
+                        4.929481,
+                        49.891357
+                  ]
+            },
+            {
+                  "name": "Château de Gros-Fays",
+                  "text": "Un castel din Gros-Fays, reprezentând un exemplu caracteristic de arhitectură regională.",
+                  "category": "castle",
+                  "coords": [
+                        4.982109,
+                        49.868804
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale d'Alle",
+                  "text": "Fosta stație de cale ferată secundară din Alle este o mărturie a istoriei transportului regional.",
+                  "category": "landmark",
+                  "coords": [
+                        4.969572,
+                        49.837316
+                  ]
+            },
+            {
+                  "name": "Chapelle du Flachi",
+                  "text": "O mică chapelă de-a lungul râului Semois, servind ca monument religios local.",
+                  "category": "historical",
+                  "coords": [
+                        4.914497,
+                        49.891928
+                  ]
+            },
+            {
+                  "name": "Naglemont",
+                  "text": "Un punct de observare care oferă o vedere panoramică asupra văii sinuoase a râului Semois.",
+                  "category": "natural",
+                  "coords": [
+                        4.964739,
+                        49.858263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Along the gentle course of the Semois river, Plage de Alle invites you to relaxing hours in the Belgian outdoors. This small bathing beach is ideal for dipping your feet into the cool river water and letting your mind wander. The wooded banks exude a calming atmosphere far from everyday life. Water shoes come in handy to comfortably navigate the river stones.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "This idyllic grassy beach near Membre nestles picturesquely along the banks of the Semois river. Plage de Membre is a wonderful retreat for anyone who prefers a soft lawn over sandy shores. The peaceful river ambiance invites sunbathing and reading in the midst of nature. Bringing a blanket makes relaxing on the grass even more comfortable.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            },
+            {
+                  "name": "Ardois'alle",
+                  "text": "A slate museum in Alle presenting the history of local slate quarrying.",
+                  "category": "museum",
+                  "coords": [
+                        4.9666,
+                        49.8361
+                  ]
+            },
+            {
+                  "name": "Château d'Orchimont",
+                  "text": "The remains of a medieval castle in Orchimont, which was once a strategic fortress.",
+                  "category": "castle",
+                  "coords": [
+                        4.929481,
+                        49.891357
+                  ]
+            },
+            {
+                  "name": "Château de Gros-Fays",
+                  "text": "A castle in Gros-Fays representing a characteristic example of regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        4.982109,
+                        49.868804
+                  ]
+            },
+            {
+                  "name": "Ancienne station vicinale d'Alle",
+                  "text": "The former local railway station of Alle on the Semois is a testament to regional transport history.",
+                  "category": "landmark",
+                  "coords": [
+                        4.969572,
+                        49.837316
+                  ]
+            },
+            {
+                  "name": "Chapelle du Flachi",
+                  "text": "A small chapel along the Semois river serving as a local religious monument.",
+                  "category": "historical",
+                  "coords": [
+                        4.914497,
+                        49.891928
+                  ]
+            },
+            {
+                  "name": "Naglemont",
+                  "text": "A viewpoint offering an expansive vista over the winding valley of the Semois river.",
+                  "category": "natural",
+                  "coords": [
+                        4.964739,
+                        49.858263
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Semois", hu: "Semois", ro: "Râul Semois", en: "Semois River"},
@@ -416,7 +1757,232 @@ imageHint: "Semois river meander at Frahan viewpoint",
     },
     image: "/poi-images/belgium-semois-river-nature-v2.webp",
 },  {
-    id: "belgium-lesse-river-nature-v2", "sights": {"de": [{"name": "Plage de Houyet (herbe)", "text": "Direkt am Fluss Lesse gelegen, lockt der Grasstrand von Houyet mit seiner grünen Uferlandschaft. Hier finden Besucher eine herrliche Kulisse für eine kurze Abkühlung während einer Kanutour oder Wanderung. Das entspannte Flair am Wasser ist besonders bei einheimischen Familien sehr beliebt. An sonnigen Wochenenden lohnt es sich, frühzeitig einen Platz auf der Wiese zu suchen.", "category": "recreational", "coords": [5.010082, 50.186936]}], "hu": [{"name": "Plage de Houyet (herbe)", "text": "A közvetlenül a Lesse folyó partján fekvő houyeti füves strand zöldellő partvidékével csábítja a látogatókat. Itt csodálatos környezetre lelhetünk egy gyors felfrissüléshez egy kenu- vagy gyalogtúra során. A nyugodt vízparti hangulat különösen a helyi családok körében rendkívül népszerű. Napsütéses hétvégéken érdemes korán helyet keresni a réten.", "category": "recreational", "coords": [5.010082, 50.186936]}], "ro": [{"name": "Plage de Houyet (herbe)", "text": "Situată direct pe râul Lesse, plaja cu iarbă din Houyet atrage prin peisajul său verde riveran. Aici vizitatorii găsesc un cadru minunat pentru o scurtă răcorire în timpul unei ture cu caiacul sau a unei drumeții. Atmosfera relaxată la malul apei este foarte populară în special printre familiile locale. În weekendurile însorite, merită să căutați devreme un loc pe iarbă.", "category": "recreational", "coords": [5.010082, 50.186936]}], "en": [{"name": "Plage de Houyet (herbe)", "text": "Situated right by the Lesse river, the grassy beach of Houyet beckons with its green riparian landscape. Visitors will find a glorious setting here for a quick cool-down during a canoe trip or hike. The relaxed waterside flair is especially popular among local families. On sunny weekends, it pays to find a spot on the meadow early.", "category": "recreational", "coords": [5.010082, 50.186936]}]},
+    id: "belgium-lesse-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Direkt am Fluss Lesse gelegen, lockt der Grasstrand von Houyet mit seiner grünen Uferlandschaft. Hier finden Besucher eine herrliche Kulisse für eine kurze Abkühlung während einer Kanutour oder Wanderung. Das entspannte Flair am Wasser ist besonders bei einheimischen Familien sehr beliebt. An sonnigen Wochenenden lohnt es sich, frühzeitig einen Platz auf der Wiese zu suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            },
+            {
+                  "name": "Tour Léopold",
+                  "text": "Dieser Turm ist Teil der Anlage des ehemaligen königlichen Schlosses von Ardenne an der Lesse.",
+                  "category": "castle",
+                  "coords": [
+                        5.014232,
+                        50.198341
+                  ]
+            },
+            {
+                  "name": "Château de Hour",
+                  "text": "Eine archäologische Stätte an der Lesse, die Spuren einer historischen Befestigung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        5.027339,
+                        50.170546
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Custinne",
+                  "text": "Ein historisches befestigtes Schlossgut in der Nähe der Lesse.",
+                  "category": "castle",
+                  "coords": [
+                        5.053716,
+                        50.213617
+                  ]
+            },
+            {
+                  "name": "Halte Royale d'Ardenne",
+                  "text": "Die Ruinen eines ehemaligen königlichen Bahnhofs, der einst das Schloss von Ardenne bediente.",
+                  "category": "historical",
+                  "coords": [
+                        4.999188,
+                        50.199881
+                  ]
+            },
+            {
+                  "name": "Collégiale Saint-Hadelin",
+                  "text": "Eine bedeutende Stiftskirche an der Lesse, die ein wichtiges religiöses Denkmal darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        5.00817,
+                        50.228923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "A közvetlenül a Lesse folyó partján fekvő houyeti füves strand zöldellő partvidékével csábítja a látogatókat. Itt csodálatos környezetre lelhetünk egy gyors felfrissüléshez egy kenu- vagy gyalogtúra során. A nyugodt vízparti hangulat különösen a helyi családok körében rendkívül népszerű. Napsütéses hétvégéken érdemes korán helyet keresni a réten.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            },
+            {
+                  "name": "Tour Léopold",
+                  "text": "Ez a torony a korábbi ardenne-i királyi kastélyegyüttes része a Lesse-folyó mentén.",
+                  "category": "castle",
+                  "coords": [
+                        5.014232,
+                        50.198341
+                  ]
+            },
+            {
+                  "name": "Château de Hour",
+                  "text": "Régészeti lelőhely a Lesse-folyó mentén, amely egy történelmi erődítmény nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        5.027339,
+                        50.170546
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Custinne",
+                  "text": "Történelmi erődített kastély és gazdasági épület a Lesse-folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.053716,
+                        50.213617
+                  ]
+            },
+            {
+                  "name": "Halte Royale d'Ardenne",
+                  "text": "Egy egykori királyi vasútállomás romjai, amely egykor az ardenne-i kastélyt szolgálta ki.",
+                  "category": "historical",
+                  "coords": [
+                        4.999188,
+                        50.199881
+                  ]
+            },
+            {
+                  "name": "Collégiale Saint-Hadelin",
+                  "text": "Jelentős társaskáptalani templom a Lesse-folyó mentén, amely fontos vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        5.00817,
+                        50.228923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Situată direct pe râul Lesse, plaja cu iarbă din Houyet atrage prin peisajul său verde riveran. Aici vizitatorii găsesc un cadru minunat pentru o scurtă răcorire în timpul unei ture cu caiacul sau a unei drumeții. Atmosfera relaxată la malul apei este foarte populară în special printre familiile locale. În weekendurile însorite, merită să căutați devreme un loc pe iarbă.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            },
+            {
+                  "name": "Tour Léopold",
+                  "text": "Acest turn face parte din complexul fostului castel regal din Ardenne, situat pe malul râului Lesse.",
+                  "category": "castle",
+                  "coords": [
+                        5.014232,
+                        50.198341
+                  ]
+            },
+            {
+                  "name": "Château de Hour",
+                  "text": "Un sit arheologic situat pe malul râului Lesse, care păstrează urmele unei fortificații istorice.",
+                  "category": "historical",
+                  "coords": [
+                        5.027339,
+                        50.170546
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Custinne",
+                  "text": "O fermă castel istorică fortificată situată în apropierea râului Lesse.",
+                  "category": "castle",
+                  "coords": [
+                        5.053716,
+                        50.213617
+                  ]
+            },
+            {
+                  "name": "Halte Royale d'Ardenne",
+                  "text": "Ruinele unei foste gări regale care deservea odinioară castelul din Ardenne.",
+                  "category": "historical",
+                  "coords": [
+                        4.999188,
+                        50.199881
+                  ]
+            },
+            {
+                  "name": "Collégiale Saint-Hadelin",
+                  "text": "O biserică colegială importantă situată pe malul râului Lesse, reprezentând un monument religios de seamă.",
+                  "category": "religious",
+                  "coords": [
+                        5.00817,
+                        50.228923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Situated right by the Lesse river, the grassy beach of Houyet beckons with its green riparian landscape. Visitors will find a glorious setting here for a quick cool-down during a canoe trip or hike. The relaxed waterside flair is especially popular among local families. On sunny weekends, it pays to find a spot on the meadow early.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            },
+            {
+                  "name": "Tour Léopold",
+                  "text": "This tower is part of the former royal castle complex of Ardenne by the Lesse River.",
+                  "category": "castle",
+                  "coords": [
+                        5.014232,
+                        50.198341
+                  ]
+            },
+            {
+                  "name": "Château de Hour",
+                  "text": "An archaeological site by the Lesse River showing remains of a historical fortification.",
+                  "category": "historical",
+                  "coords": [
+                        5.027339,
+                        50.170546
+                  ]
+            },
+            {
+                  "name": "Château-Ferme de Custinne",
+                  "text": "A historical fortified castle farm located near the Lesse River.",
+                  "category": "castle",
+                  "coords": [
+                        5.053716,
+                        50.213617
+                  ]
+            },
+            {
+                  "name": "Halte Royale d'Ardenne",
+                  "text": "The ruins of a former royal railway station that once served the Ardenne castle.",
+                  "category": "historical",
+                  "coords": [
+                        4.999188,
+                        50.199881
+                  ]
+            },
+            {
+                  "name": "Collégiale Saint-Hadelin",
+                  "text": "A significant collegiate church by the Lesse River, serving as an important religious monument.",
+                  "category": "religious",
+                  "coords": [
+                        5.00817,
+                        50.228923
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Lesse", hu: "Lesse", ro: "Râul Lesse", en: "Lesse River"},
@@ -462,7 +2028,124 @@ imageHint: "Lesse river flowing through limestone cliffs",
     },
     image: "/poi-images/belgium-lesse-river-nature-v2.webp",
 },  {
-    id: "belgium-lake-butgenbach-nature-v2", "sights": {"de": [{"name": "VENNtastic Beach", "text": "Am Ufer des Sees Bütgenbach bietet der VENNtastic Beach ein modernes und vielseitiges Badeerlebnis. Der gepflegte Sandstrand ist ein wahres Paradies für Schwimmer und Liebhaber von Wassersport. Mit seiner lebendigen Atmosphäre zieht der See vor allem im Sommer zahlreiche Erholungssuchende an. Ein Ausflug mit der ganzen Familie wird hier zu einem runden Vergnügen.", "category": "recreational", "coords": [6.218451, 50.426707]}], "hu": [{"name": "VENNtastic Beach", "text": "A Bütgenbach-tó partján elterülő VENNtastic Beach modern és változatos fürdőélményt kínál. A gondozott homokos strand igazi paradicsom az úszók és a vízi sportok szerelmesei számára. Nyüzsgő hangulatával a tó különösen nyáron vonz számos pihenni vágyót. Egy kirándulás az egész családdal itt garantáltan teljes értékű szórakozást nyújt.", "category": "recreational", "coords": [6.218451, 50.426707]}], "ro": [{"name": "VENNtastic Beach", "text": "Pe malul lacului Bütgenbach, VENNtastic Beach oferă o experiență de baie modernă și variată. Plaja de nisip bine îngrijită este un adevărat paradis pentru înotători și iubitorii de sporturi nautice. Cu atmosfera sa vibrantă, lacul atrage numeroși oameni în căutare de relaxare, mai ales vara. O excursie cu întreaga familie devine aici o adevărată plăcere.", "category": "recreational", "coords": [6.218451, 50.426707]}], "en": [{"name": "VENNtastic Beach", "text": "On the shores of Lake Bütgenbach, VENNtastic Beach offers a modern and varied bathing experience. The well-kept sandy beach is a true paradise for swimmers and water sports enthusiasts. With its vibrant atmosphere, the lake attracts numerous people seeking relaxation, especially in the summer. A trip with the whole family turns into a fully enjoyable outing here.", "category": "recreational", "coords": [6.218451, 50.426707]}]},
+    id: "belgium-lake-butgenbach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "Am Ufer des Sees Bütgenbach bietet der VENNtastic Beach ein modernes und vielseitiges Badeerlebnis. Der gepflegte Sandstrand ist ein wahres Paradies für Schwimmer und Liebhaber von Wassersport. Mit seiner lebendigen Atmosphäre zieht der See vor allem im Sommer zahlreiche Erholungssuchende an. Ein Ausflug mit der ganzen Familie wird hier zu einem runden Vergnügen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            },
+            {
+                  "name": "Ferrire und Tries Denkmal",
+                  "text": "Ein Denkmal am Bütgenbacher See zur Erinnerung an lokale Persönlichkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        6.214664,
+                        50.459766
+                  ]
+            },
+            {
+                  "name": "St. Stephanus-Kirche",
+                  "text": "Eine historische Kirche im Zentrum von Bütgenbach.",
+                  "category": "religious",
+                  "coords": [
+                        6.205815,
+                        50.427408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "A Bütgenbach-tó partján elterülő VENNtastic Beach modern és változatos fürdőélményt kínál. A gondozott homokos strand igazi paradicsom az úszók és a vízi sportok szerelmesei számára. Nyüzsgő hangulatával a tó különösen nyáron vonz számos pihenni vágyót. Egy kirándulás az egész családdal itt garantáltan teljes értékű szórakozást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            },
+            {
+                  "name": "Ferrire und Tries Denkmal",
+                  "text": "Helyi személyiségek emlékére állított emlékmű a Bütgenbach-tónál.",
+                  "category": "historical",
+                  "coords": [
+                        6.214664,
+                        50.459766
+                  ]
+            },
+            {
+                  "name": "St. Stephanus-Kirche",
+                  "text": "Történelmi templom Bütgenbach központjában.",
+                  "category": "religious",
+                  "coords": [
+                        6.205815,
+                        50.427408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "Pe malul lacului Bütgenbach, VENNtastic Beach oferă o experiență de baie modernă și variată. Plaja de nisip bine îngrijită este un adevărat paradis pentru înotători și iubitorii de sporturi nautice. Cu atmosfera sa vibrantă, lacul atrage numeroși oameni în căutare de relaxare, mai ales vara. O excursie cu întreaga familie devine aici o adevărată plăcere.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            },
+            {
+                  "name": "Ferrire und Tries Denkmal",
+                  "text": "Un monument la Lacul Bütgenbach care comemorează personalități locale.",
+                  "category": "historical",
+                  "coords": [
+                        6.214664,
+                        50.459766
+                  ]
+            },
+            {
+                  "name": "St. Stephanus-Kirche",
+                  "text": "O biserică istorică situată în centrul localității Bütgenbach.",
+                  "category": "religious",
+                  "coords": [
+                        6.205815,
+                        50.427408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "On the shores of Lake Bütgenbach, VENNtastic Beach offers a modern and varied bathing experience. The well-kept sandy beach is a true paradise for swimmers and water sports enthusiasts. With its vibrant atmosphere, the lake attracts numerous people seeking relaxation, especially in the summer. A trip with the whole family turns into a fully enjoyable outing here.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            },
+            {
+                  "name": "Ferrire und Tries Denkmal",
+                  "text": "A monument at Lake Bütgenbach commemorating local figures.",
+                  "category": "historical",
+                  "coords": [
+                        6.214664,
+                        50.459766
+                  ]
+            },
+            {
+                  "name": "St. Stephanus-Kirche",
+                  "text": "A historical church located in the center of Bütgenbach.",
+                  "category": "religious",
+                  "coords": [
+                        6.205815,
+                        50.427408
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "lake",
     name: { de: "Bütgenbacher See", hu: "Bütgenbach-tó", ro: "Lacul Bütgenbach", en: "Lake Bütgenbach"},
@@ -600,7 +2283,160 @@ imageHint: "Gileppe dam with the monumental stone lion",
     },
     image: "/poi-images/belgium-lake-gileppe-nature-v2.webp",
 },  {
-    id: "belgium-lake-plate-taille-nature-v2",
+    id: "belgium-lake-plate-taille-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château des Robaulx de Soumoy",
+                  "text": "Ein historisches Schloss am Lake Plate Taille, bekannt für seine regionale Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        4.437115,
+                        50.188169
+                  ]
+            },
+            {
+                  "name": "barrage",
+                  "text": "Ein Aussichtspunkt am Lake Plate Taille mit Blick auf den Staudamm und das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        4.386661,
+                        50.188509
+                  ]
+            },
+            {
+                  "name": "Club de Jet-ski",
+                  "text": "Eine Attraktion am Lake Plate Taille, die Freizeitaktivitäten und Jet-Ski bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        4.390081,
+                        50.213337
+                  ]
+            },
+            {
+                  "name": "Club de Ski nautique",
+                  "text": "Eine Wassersportanlage am Lake Plate Taille für Wasserski-Enthusiasten.",
+                  "category": "landmark",
+                  "coords": [
+                        4.400856,
+                        50.204208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château des Robaulx de Soumoy",
+                  "text": "Történelmi kastély a Plate Taille-tónál, amely jellegzetes regionális építészetéről nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        4.437115,
+                        50.188169
+                  ]
+            },
+            {
+                  "name": "barrage",
+                  "text": "Kilátópont a Plate Taille-tónál, ahonnan rálátni a gátra és a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        4.386661,
+                        50.188509
+                  ]
+            },
+            {
+                  "name": "Club de Jet-ski",
+                  "text": "Turisztikai látványosság a Plate Taille-tónál, amely szabadidős tevékenységeket és jet-ski-zést kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        4.390081,
+                        50.213337
+                  ]
+            },
+            {
+                  "name": "Club de Ski nautique",
+                  "text": "Vízi sportlétesítmény a Plate Taille-tónál, a vízisízés kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        4.400856,
+                        50.204208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château des Robaulx de Soumoy",
+                  "text": "Un castel istoric lângă lacul Plate Taille, cunoscut pentru arhitectura sa regională.",
+                  "category": "castle",
+                  "coords": [
+                        4.437115,
+                        50.188169
+                  ]
+            },
+            {
+                  "name": "barrage",
+                  "text": "Un punct de observație la lacul Plate Taille, cu vedere spre baraj și apă.",
+                  "category": "natural",
+                  "coords": [
+                        4.386661,
+                        50.188509
+                  ]
+            },
+            {
+                  "name": "Club de Jet-ski",
+                  "text": "O atracție la lacul Plate Taille care oferă activități recreative și jet-ski.",
+                  "category": "landmark",
+                  "coords": [
+                        4.390081,
+                        50.213337
+                  ]
+            },
+            {
+                  "name": "Club de Ski nautique",
+                  "text": "O facilitate de sporturi nautice la lacul Plate Taille pentru pasionații de schi nautic.",
+                  "category": "landmark",
+                  "coords": [
+                        4.400856,
+                        50.204208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château des Robaulx de Soumoy",
+                  "text": "A historic castle near Lake Plate Taille, notable for its regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        4.437115,
+                        50.188169
+                  ]
+            },
+            {
+                  "name": "barrage",
+                  "text": "A viewpoint at Lake Plate Taille overlooking the dam and the water.",
+                  "category": "natural",
+                  "coords": [
+                        4.386661,
+                        50.188509
+                  ]
+            },
+            {
+                  "name": "Club de Jet-ski",
+                  "text": "An attraction at Lake Plate Taille offering recreational activities and jet-skiing.",
+                  "category": "landmark",
+                  "coords": [
+                        4.390081,
+                        50.213337
+                  ]
+            },
+            {
+                  "name": "Club de Ski nautique",
+                  "text": "A water sports facility at Lake Plate Taille catering to water skiing enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        4.400856,
+                        50.204208
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "lake",
     name: { de: "Lac de la Plate Taille", hu: "Plate Taille-tó", ro: "Lacul Plate Taille", en: "Lake Plate Taille"},
@@ -646,7 +2482,304 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
     },
     image: "/poi-images/belgium-lake-plate-taille-nature-v2.webp",
 },  {
-    id: "belgium-baraque-de-fraiture-nature-v2",
+    id: "belgium-baraque-de-fraiture-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trou des Massotais",
+                  "text": "Eine historische Stätte und Höhle in der Nähe der Baraque de Fraiture in den Ardennen.",
+                  "category": "historical",
+                  "coords": [
+                        5.748736,
+                        50.237707
+                  ]
+            },
+            {
+                  "name": "Fanges de Nazieufa",
+                  "text": "Ein Naturschutzgebiet mit Moorlandschaften bei der Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.718457,
+                        50.251187
+                  ]
+            },
+            {
+                  "name": "Fanges de Robièfa",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe der Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.704913,
+                        50.257388
+                  ]
+            },
+            {
+                  "name": "Fange de la Crépale",
+                  "text": "Ein malerisches Naturschutzgebiet in der Region Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.735679,
+                        50.276297
+                  ]
+            },
+            {
+                  "name": "Baraque de Fraiture",
+                  "text": "Der höchste Punkt der Provinz Luxemburg und ein bekannter Ort für Wintersport.",
+                  "category": "landmark",
+                  "coords": [
+                        5.731713,
+                        50.248977
+                  ]
+            },
+            {
+                  "name": "Rocher du Diable \"al' Falhouze\"",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Landschaft der Ardennen.",
+                  "category": "natural",
+                  "coords": [
+                        5.730427,
+                        50.265625
+                  ]
+            },
+            {
+                  "name": "Cadran Solaire Horizontal",
+                  "text": "Eine horizontale Sonnenuhr im Gebiet der Baraque de Fraiture.",
+                  "category": "landmark",
+                  "coords": [
+                        5.717117,
+                        50.280931
+                  ]
+            },
+            {
+                  "name": "Stele Jean Marie Dumont",
+                  "text": "Ein Gedenkmonument für Jean Marie Dumont an der Baraque de Fraiture.",
+                  "category": "historical",
+                  "coords": [
+                        5.778865,
+                        50.244938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trou des Massotais",
+                  "text": "Történelmi helyszín és barlang a Baraque de Fraiture közelében, az Ardennekben.",
+                  "category": "historical",
+                  "coords": [
+                        5.748736,
+                        50.237707
+                  ]
+            },
+            {
+                  "name": "Fanges de Nazieufa",
+                  "text": "Lápos területeket magába foglaló természetvédelmi terület a Baraque de Fraiture közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.718457,
+                        50.251187
+                  ]
+            },
+            {
+                  "name": "Fanges de Robièfa",
+                  "text": "Védett természetvédelmi terület a Baraque de Fraiture közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.704913,
+                        50.257388
+                  ]
+            },
+            {
+                  "name": "Fange de la Crépale",
+                  "text": "Festői természetvédelmi terület a Baraque de Fraiture régióban.",
+                  "category": "natural",
+                  "coords": [
+                        5.735679,
+                        50.276297
+                  ]
+            },
+            {
+                  "name": "Baraque de Fraiture",
+                  "text": "Luxemburg tartomány legmagasabb pontja és ismert téli sporthelyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        5.731713,
+                        50.248977
+                  ]
+            },
+            {
+                  "name": "Rocher du Diable \"al' Falhouze\"",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik az Ardennek környező tájára.",
+                  "category": "natural",
+                  "coords": [
+                        5.730427,
+                        50.265625
+                  ]
+            },
+            {
+                  "name": "Cadran Solaire Horizontal",
+                  "text": "Egy vízszintes napóra a Baraque de Fraiture területén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.717117,
+                        50.280931
+                  ]
+            },
+            {
+                  "name": "Stele Jean Marie Dumont",
+                  "text": "Jean Marie Dumont emlékére állított emlékmű a Baraque de Fraiture-nél.",
+                  "category": "historical",
+                  "coords": [
+                        5.778865,
+                        50.244938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trou des Massotais",
+                  "text": "Un sit istoric și o peșteră situată lângă Baraque de Fraiture în Ardeni.",
+                  "category": "historical",
+                  "coords": [
+                        5.748736,
+                        50.237707
+                  ]
+            },
+            {
+                  "name": "Fanges de Nazieufa",
+                  "text": "O rezervație naturală cu zone mlăștinoase lângă Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.718457,
+                        50.251187
+                  ]
+            },
+            {
+                  "name": "Fanges de Robièfa",
+                  "text": "O rezervație naturală protejată în apropiere de Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.704913,
+                        50.257388
+                  ]
+            },
+            {
+                  "name": "Fange de la Crépale",
+                  "text": "O rezervație naturală pitorească situată în regiunea Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.735679,
+                        50.276297
+                  ]
+            },
+            {
+                  "name": "Baraque de Fraiture",
+                  "text": "Cel mai înalt punct din provincia Luxemburg și un loc cunoscut pentru sporturi de iarnă.",
+                  "category": "landmark",
+                  "coords": [
+                        5.731713,
+                        50.248977
+                  ]
+            },
+            {
+                  "name": "Rocher du Diable \"al' Falhouze\"",
+                  "text": "Un punct de observație care oferă vederi asupra peisajului înconjurător al Ardenilor.",
+                  "category": "natural",
+                  "coords": [
+                        5.730427,
+                        50.265625
+                  ]
+            },
+            {
+                  "name": "Cadran Solaire Horizontal",
+                  "text": "Un ceas solar orizontal situat în zona Baraque de Fraiture.",
+                  "category": "landmark",
+                  "coords": [
+                        5.717117,
+                        50.280931
+                  ]
+            },
+            {
+                  "name": "Stele Jean Marie Dumont",
+                  "text": "Un monument comemorativ dedicat lui Jean Marie Dumont la Baraque de Fraiture.",
+                  "category": "historical",
+                  "coords": [
+                        5.778865,
+                        50.244938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trou des Massotais",
+                  "text": "A historical site and cave located near Baraque de Fraiture in the Ardennes.",
+                  "category": "historical",
+                  "coords": [
+                        5.748736,
+                        50.237707
+                  ]
+            },
+            {
+                  "name": "Fanges de Nazieufa",
+                  "text": "A nature reserve featuring marshlands near Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.718457,
+                        50.251187
+                  ]
+            },
+            {
+                  "name": "Fanges de Robièfa",
+                  "text": "A protected nature reserve area near Baraque de Fraiture.",
+                  "category": "natural",
+                  "coords": [
+                        5.704913,
+                        50.257388
+                  ]
+            },
+            {
+                  "name": "Fange de la Crépale",
+                  "text": "A scenic nature reserve located in the Baraque de Fraiture region.",
+                  "category": "natural",
+                  "coords": [
+                        5.735679,
+                        50.276297
+                  ]
+            },
+            {
+                  "name": "Baraque de Fraiture",
+                  "text": "The highest point in the province of Luxembourg and a well-known spot for winter sports.",
+                  "category": "landmark",
+                  "coords": [
+                        5.731713,
+                        50.248977
+                  ]
+            },
+            {
+                  "name": "Rocher du Diable \"al' Falhouze\"",
+                  "text": "A viewpoint offering panoramas of the surrounding Ardennes landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.730427,
+                        50.265625
+                  ]
+            },
+            {
+                  "name": "Cadran Solaire Horizontal",
+                  "text": "A horizontal sundial located in the Baraque de Fraiture area.",
+                  "category": "landmark",
+                  "coords": [
+                        5.717117,
+                        50.280931
+                  ]
+            },
+            {
+                  "name": "Stele Jean Marie Dumont",
+                  "text": "A commemorative monument dedicated to Jean Marie Dumont at Baraque de Fraiture.",
+                  "category": "historical",
+                  "coords": [
+                        5.778865,
+                        50.244938
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "peak",
     name: { de: "Baraque de Fraiture", hu: "Baraque de Fraiture", ro: "Baraque de Fraiture", en: "Baraque de Fraiture"},
@@ -692,7 +2825,304 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
     },
     image: "/poi-images/belgium-baraque-de-fraiture-nature-v2.webp",
 },  {
-    id: "belgium-ninglinspo-valley-nature-v2",
+    id: "belgium-ninglinspo-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Ein historisches Schloss im Ninglinspo-Tal, das majestätisch über der Landschaft thront.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Le Pré Des Secrets",
+                  "text": "Ein kleiner Tierpark im Ninglinspo-Tal, der Besuchern die Begegnung mit verschiedenen Tierarten ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.796491,
+                        50.471641
+                  ]
+            },
+            {
+                  "name": "Château du Haut Marais",
+                  "text": "Ein elegantes Schloss in der Region Ninglinspo, umgeben von einer malerischen Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        5.778967,
+                        50.475405
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Ein bekannter Safaripark in der Nähe des Ninglinspo-Tals, der afrikanische Tiere in weitläufigen Gehegen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Ein prächtiges Schloss im Ninglinspo-Tal, das als Beispiel für die regionale Architektur dient.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Hautregard",
+                  "text": "Ein historisches Anwesen im Ninglinspo-Tal, das für seine architektonischen Details bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        5.770561,
+                        50.485399
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Berühmte Tropfsteinhöhlen in Remouchamps, die eine der längsten unterirdischen Bootsfahrten der Welt bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            },
+            {
+                  "name": "Chantoir de Sècheval",
+                  "text": "Ein natürlicher Höhleneingang im Ninglinspo-Tal, der Teil des lokalen Karstsystems ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.718511,
+                        50.489199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Történelmi kastély a Ninglinspo-völgyben, amely fenségesen magasodik a táj fölé.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Le Pré Des Secrets",
+                  "text": "Kis állatkert a Ninglinspo-völgyben, amely lehetőséget nyújt a látogatóknak különféle állatfajok megismerésére.",
+                  "category": "recreational",
+                  "coords": [
+                        5.796491,
+                        50.471641
+                  ]
+            },
+            {
+                  "name": "Château du Haut Marais",
+                  "text": "Elegáns kastély a Ninglinspo régióban, festői környezettel körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        5.778967,
+                        50.475405
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Ismert szafaripark a Ninglinspo-völgy közelében, amely afrikai állatokat mutat be tágas kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Pompás kastély a Ninglinspo-völgyben, amely a regionális építészet példájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Hautregard",
+                  "text": "Történelmi birtok a Ninglinspo-völgyben, amely építészeti részleteiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.770561,
+                        50.485399
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Híres cseppkőbarlangok Remouchamps-ban, amelyek a világ egyik leghosszabb föld alatti csónakázását kínálják.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            },
+            {
+                  "name": "Chantoir de Sècheval",
+                  "text": "Természetes barlangbejárat a Ninglinspo-völgyben, amely a helyi karsztrendszer része.",
+                  "category": "landmark",
+                  "coords": [
+                        5.718511,
+                        50.489199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Un castel istoric din valea Ninglinspo, care domină maiestuos peisajul.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Le Pré Des Secrets",
+                  "text": "Un mic parc zoologic din valea Ninglinspo, care permite vizitatorilor să întâlnească diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        5.796491,
+                        50.471641
+                  ]
+            },
+            {
+                  "name": "Château du Haut Marais",
+                  "text": "Un castel elegant din regiunea Ninglinspo, înconjurat de un cadru pitoresc.",
+                  "category": "castle",
+                  "coords": [
+                        5.778967,
+                        50.475405
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Un cunoscut parc safari lângă valea Ninglinspo, care prezintă animale africane în împrejmuiri vaste.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Un castel magnific din valea Ninglinspo, care servește ca exemplu de arhitectură regională.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Hautregard",
+                  "text": "O proprietate istorică din valea Ninglinspo, cunoscută pentru detaliile sale arhitecturale.",
+                  "category": "castle",
+                  "coords": [
+                        5.770561,
+                        50.485399
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Celebre peșteri cu stalactite din Remouchamps, care oferă una dintre cele mai lungi plimbări subterane cu barca din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            },
+            {
+                  "name": "Chantoir de Sècheval",
+                  "text": "O intrare naturală în peșteră din valea Ninglinspo, care face parte din sistemul carstic local.",
+                  "category": "landmark",
+                  "coords": [
+                        5.718511,
+                        50.489199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "A historic castle in the Ninglinspo Valley, majestically overlooking the landscape.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Le Pré Des Secrets",
+                  "text": "A small animal park in the Ninglinspo Valley that allows visitors to encounter various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        5.796491,
+                        50.471641
+                  ]
+            },
+            {
+                  "name": "Château du Haut Marais",
+                  "text": "An elegant castle in the Ninglinspo region, surrounded by a picturesque setting.",
+                  "category": "castle",
+                  "coords": [
+                        5.778967,
+                        50.475405
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "A well-known safari park near the Ninglinspo Valley, featuring African animals in spacious enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Château de Spirlet",
+                  "text": "A magnificent castle in the Ninglinspo Valley that serves as an example of regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Hautregard",
+                  "text": "A historic estate in the Ninglinspo Valley known for its architectural details.",
+                  "category": "castle",
+                  "coords": [
+                        5.770561,
+                        50.485399
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Famous stalactite caves in Remouchamps, offering one of the longest underground boat trips in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            },
+            {
+                  "name": "Chantoir de Sècheval",
+                  "text": "A natural cave entrance in the Ninglinspo Valley, part of the local karst system.",
+                  "category": "landmark",
+                  "coords": [
+                        5.718511,
+                        50.489199
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "valley",
     name: { de: "Ninglinspo-Tal", hu: "Ninglinspo-völgy", ro: "Valea Ninglinspo", en: "Ninglinspo Valley"},
@@ -738,7 +3168,268 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
     },
     image: "/poi-images/belgium-ninglinspo-valley-nature-v2.webp",
 },  {
-    id: "belgium-ambleve-river-nature-v2",
+    id: "belgium-ambleve-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Ein Schloss in der Nähe des Flusses Amblève.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Targnon",
+                  "text": "Historisches Schloss in der Region der Amblève.",
+                  "category": "castle",
+                  "coords": [
+                        5.773997,
+                        50.415944
+                  ]
+            },
+            {
+                  "name": "Rocher du Promontoire",
+                  "text": "Aussichtspunkt mit Blick auf das Amblève-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        5.722346,
+                        50.461243
+                  ]
+            },
+            {
+                  "name": "Point de vue Drouet",
+                  "text": "Ein lokaler Aussichtspunkt in der Nähe der Amblève.",
+                  "category": "natural",
+                  "coords": [
+                        5.747986,
+                        50.460775
+                  ]
+            },
+            {
+                  "name": "Borne n°9 de la Porallée",
+                  "text": "Historischer Grenzstein des ehemaligen Territoriums Porallée.",
+                  "category": "landmark",
+                  "coords": [
+                        5.793222,
+                        50.435272
+                  ]
+            },
+            {
+                  "name": "Borne n°6 de la Porallée",
+                  "text": "Einer der historischen Grenzsteine des Porallée-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776721,
+                        50.453454
+                  ]
+            },
+            {
+                  "name": "Borne n°5 de la Porallée",
+                  "text": "Grenzmarkierung n°5 des historischen Waldgebiets Porallée.",
+                  "category": "landmark",
+                  "coords": [
+                        5.766151,
+                        50.465412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Kastély az Amblève folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Targnon",
+                  "text": "Történelmi kastély az Amblève-vidéken.",
+                  "category": "castle",
+                  "coords": [
+                        5.773997,
+                        50.415944
+                  ]
+            },
+            {
+                  "name": "Rocher du Promontoire",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik az Amblève völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        5.722346,
+                        50.461243
+                  ]
+            },
+            {
+                  "name": "Point de vue Drouet",
+                  "text": "Helyi kilátópont az Amblève közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.747986,
+                        50.460775
+                  ]
+            },
+            {
+                  "name": "Borne n°9 de la Porallée",
+                  "text": "A Porallée egykori területének történelmi határköve.",
+                  "category": "landmark",
+                  "coords": [
+                        5.793222,
+                        50.435272
+                  ]
+            },
+            {
+                  "name": "Borne n°6 de la Porallée",
+                  "text": "A Porallée területének egyik történelmi határköve.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776721,
+                        50.453454
+                  ]
+            },
+            {
+                  "name": "Borne n°5 de la Porallée",
+                  "text": "A történelmi Porallée erdővidék 5. számú határköve.",
+                  "category": "landmark",
+                  "coords": [
+                        5.766151,
+                        50.465412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Spirlet",
+                  "text": "Un castel situat în apropierea râului Amblève.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Targnon",
+                  "text": "Castel istoric în regiunea râului Amblève.",
+                  "category": "castle",
+                  "coords": [
+                        5.773997,
+                        50.415944
+                  ]
+            },
+            {
+                  "name": "Rocher du Promontoire",
+                  "text": "Punct de belvedere cu vedere spre valea Amblève.",
+                  "category": "natural",
+                  "coords": [
+                        5.722346,
+                        50.461243
+                  ]
+            },
+            {
+                  "name": "Point de vue Drouet",
+                  "text": "Un punct de belvedere local în apropierea râului Amblève.",
+                  "category": "natural",
+                  "coords": [
+                        5.747986,
+                        50.460775
+                  ]
+            },
+            {
+                  "name": "Borne n°9 de la Porallée",
+                  "text": "Bornă istorică de hotar a fostului teritoriu Porallée.",
+                  "category": "landmark",
+                  "coords": [
+                        5.793222,
+                        50.435272
+                  ]
+            },
+            {
+                  "name": "Borne n°6 de la Porallée",
+                  "text": "Una dintre bornele istorice de hotar ale zonei Porallée.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776721,
+                        50.453454
+                  ]
+            },
+            {
+                  "name": "Borne n°5 de la Porallée",
+                  "text": "Borna de hotar nr. 5 a teritoriului istoric Porallée.",
+                  "category": "landmark",
+                  "coords": [
+                        5.766151,
+                        50.465412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Spirlet",
+                  "text": "A castle located near the Amblève River.",
+                  "category": "castle",
+                  "coords": [
+                        5.735593,
+                        50.443822
+                  ]
+            },
+            {
+                  "name": "Château de Targnon",
+                  "text": "Historical castle in the Amblève region.",
+                  "category": "castle",
+                  "coords": [
+                        5.773997,
+                        50.415944
+                  ]
+            },
+            {
+                  "name": "Rocher du Promontoire",
+                  "text": "Viewpoint offering a panorama of the Amblève valley.",
+                  "category": "natural",
+                  "coords": [
+                        5.722346,
+                        50.461243
+                  ]
+            },
+            {
+                  "name": "Point de vue Drouet",
+                  "text": "A local viewpoint near the Amblève River.",
+                  "category": "natural",
+                  "coords": [
+                        5.747986,
+                        50.460775
+                  ]
+            },
+            {
+                  "name": "Borne n°9 de la Porallée",
+                  "text": "Historical boundary stone of the former Porallée territory.",
+                  "category": "landmark",
+                  "coords": [
+                        5.793222,
+                        50.435272
+                  ]
+            },
+            {
+                  "name": "Borne n°6 de la Porallée",
+                  "text": "One of the historical boundary stones of the Porallée area.",
+                  "category": "landmark",
+                  "coords": [
+                        5.776721,
+                        50.453454
+                  ]
+            },
+            {
+                  "name": "Borne n°5 de la Porallée",
+                  "text": "Boundary marker n°5 of the historical Porallée forest territory.",
+                  "category": "landmark",
+                  "coords": [
+                        5.766151,
+                        50.465412
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Amblève", hu: "Amblève", ro: "Râul Amblève", en: "Amblève River"},
@@ -784,7 +3475,268 @@ imageHint: "Amblève river with rocky bed in the Ardennes",
     },
     image: "/poi-images/belgium-ambleve-river-nature-v2.webp",
 },  {
-    id: "belgium-molignee-valley-nature-v2",
+    id: "belgium-molignee-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Bioul",
+                  "text": "Ein Schloss im Molignée-Tal, das heute für sein Weingut und seine Parkanlagen bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        4.79853,
+                        50.334345
+                  ]
+            },
+            {
+                  "name": "Burg Montaigle",
+                  "text": "Die Ruinen einer mittelalterlichen Festung, die strategisch auf einem Felsen über dem Tal thronen.",
+                  "category": "castle",
+                  "coords": [
+                        4.815736,
+                        50.293257
+                  ]
+            },
+            {
+                  "name": "Montagne de Sosoye",
+                  "text": "Ein Naturschutzgebiet mit kalkhaltigen Böden und einer vielfältigen Flora im Molignée-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        4.781954,
+                        50.297329
+                  ]
+            },
+            {
+                  "name": "Musée du Souvenir",
+                  "text": "Ein lokales Museum, das der Bewahrung der Geschichte und des Gedenkens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.842693,
+                        50.305688
+                  ]
+            },
+            {
+                  "name": "Château Boël",
+                  "text": "Ein privates Schloss im regionalen Baustil des Molignée-Tals.",
+                  "category": "castle",
+                  "coords": [
+                        4.812625,
+                        50.291435
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Maredsous",
+                  "text": "Ein historisches Schloss-Bauernhof-Ensemble in der Nähe der Abtei Maredsous.",
+                  "category": "castle",
+                  "coords": [
+                        4.760398,
+                        50.302461
+                  ]
+            },
+            {
+                  "name": "Château de Chesselet",
+                  "text": "Ein Schlossanwesen in der belgischen Provinz Namur, umgeben von Waldgebieten.",
+                  "category": "castle",
+                  "coords": [
+                        4.772353,
+                        50.297861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Bioul",
+                  "text": "A Molignée-völgyben található kastély, amely ma borászatáról és parkjáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        4.79853,
+                        50.334345
+                  ]
+            },
+            {
+                  "name": "Château de Montaigle",
+                  "text": "Középkori erődítmény romjai, amely stratégiai ponton, egy sziklán áll a völgy felett.",
+                  "category": "castle",
+                  "coords": [
+                        4.815736,
+                        50.293257
+                  ]
+            },
+            {
+                  "name": "Montagne de Sosoye",
+                  "text": "Mészköves talajú természetvédelmi terület gazdag növényvilággal a Molignée-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        4.781954,
+                        50.297329
+                  ]
+            },
+            {
+                  "name": "Musée du Souvenir",
+                  "text": "A történelem és az emlékezet megőrzésének szentelt helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.842693,
+                        50.305688
+                  ]
+            },
+            {
+                  "name": "Château Boël",
+                  "text": "A Molignée-völgy regionális építészeti stílusát tükröző magánkastély.",
+                  "category": "castle",
+                  "coords": [
+                        4.812625,
+                        50.291435
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Maredsous",
+                  "text": "Történelmi kastély-tanya együttes a Maredsous apátság közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.760398,
+                        50.302461
+                  ]
+            },
+            {
+                  "name": "Château de Chesselet",
+                  "text": "Erdőségekkel körülvett kastélybirtok a belga Namur tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        4.772353,
+                        50.297861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Bioul",
+                  "text": "Un castel din Valea Molignée, cunoscut astăzi pentru domeniul său viticol și parcurile sale.",
+                  "category": "castle",
+                  "coords": [
+                        4.79853,
+                        50.334345
+                  ]
+            },
+            {
+                  "name": "Château de Montaigle",
+                  "text": "Ruinele unei cetăți medievale, cocoțate strategic pe o stâncă deasupra văii.",
+                  "category": "castle",
+                  "coords": [
+                        4.815736,
+                        50.293257
+                  ]
+            },
+            {
+                  "name": "Montagne de Sosoye",
+                  "text": "O rezervație naturală cu sol calcaros și o floră diversă în Valea Molignée.",
+                  "category": "natural",
+                  "coords": [
+                        4.781954,
+                        50.297329
+                  ]
+            },
+            {
+                  "name": "Musée du Souvenir",
+                  "text": "Un muzeu local dedicat conservării istoriei și memoriei.",
+                  "category": "museum",
+                  "coords": [
+                        4.842693,
+                        50.305688
+                  ]
+            },
+            {
+                  "name": "Château Boël",
+                  "text": "Un castel privat construit în stilul arhitectural regional al Văii Molignée.",
+                  "category": "castle",
+                  "coords": [
+                        4.812625,
+                        50.291435
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Maredsous",
+                  "text": "Un ansamblu istoric de castel-fermă situat în apropierea abației Maredsous.",
+                  "category": "castle",
+                  "coords": [
+                        4.760398,
+                        50.302461
+                  ]
+            },
+            {
+                  "name": "Château de Chesselet",
+                  "text": "O proprietate cu castel din provincia belgiană Namur, înconjurată de zone împădurite.",
+                  "category": "castle",
+                  "coords": [
+                        4.772353,
+                        50.297861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Bioul",
+                  "text": "A castle in the Molignée Valley, today known for its vineyard and parklands.",
+                  "category": "castle",
+                  "coords": [
+                        4.79853,
+                        50.334345
+                  ]
+            },
+            {
+                  "name": "Montaigle Castle",
+                  "text": "The ruins of a medieval fortress, strategically perched on a rock overlooking the valley.",
+                  "category": "castle",
+                  "coords": [
+                        4.815736,
+                        50.293257
+                  ]
+            },
+            {
+                  "name": "Montagne de Sosoye",
+                  "text": "A nature reserve featuring calcareous soil and diverse flora in the Molignée Valley.",
+                  "category": "natural",
+                  "coords": [
+                        4.781954,
+                        50.297329
+                  ]
+            },
+            {
+                  "name": "Musée du Souvenir",
+                  "text": "A local museum dedicated to the preservation of history and remembrance.",
+                  "category": "museum",
+                  "coords": [
+                        4.842693,
+                        50.305688
+                  ]
+            },
+            {
+                  "name": "Château Boël",
+                  "text": "A private castle built in the regional architectural style of the Molignée Valley.",
+                  "category": "castle",
+                  "coords": [
+                        4.812625,
+                        50.291435
+                  ]
+            },
+            {
+                  "name": "Château-ferme de Maredsous",
+                  "text": "A historic castle-farm complex located near Maredsous Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        4.760398,
+                        50.302461
+                  ]
+            },
+            {
+                  "name": "Château de Chesselet",
+                  "text": "A castle estate in the Belgian province of Namur, surrounded by wooded areas.",
+                  "category": "castle",
+                  "coords": [
+                        4.772353,
+                        50.297861
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "valley",
     name: { de: "Molignée-Tal", hu: "Molignée-völgy", ro: "Valea Molignée", en: "Molignée Valley"},
@@ -830,7 +3782,268 @@ imageHint: "Railbikes in the green Molignée valley",
     },
     image: "/poi-images/belgium-molignee-valley-nature-v2.webp",
 },  {
-    id: "belgium-westhoek-dunes-nature-v2",
+    id: "belgium-westhoek-dunes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "Ein Museum, das dem Leben und Werk des belgischen Surrealisten Paul Delvaux gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Ein thematisiertes Erlebnisbad in De Panne mit verschiedenen Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "Ein Naturschutzgebiet an der belgischen Küste mit einer charakteristischen Dünenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Das älteste Naturschutzgebiet Flanderns, das weite Teile der Küstendünen umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Ein bekannter Themenpark in De Panne mit Attraktionen für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            },
+            {
+                  "name": "Oosthoekduinen",
+                  "text": "Ein vielseitiges Naturgebiet mit Dünen, Wäldern und Feuchtwiesen an der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        2.606561,
+                        51.091322
+                  ]
+            },
+            {
+                  "name": "Houtsaegerduinen",
+                  "text": "Ein Naturschutzgebiet mit Graudünen und Bewaldung in der Nähe von De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.605022,
+                        51.100743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "A belga szürrealista festő, Paul Delvaux életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Tematikus élményfürdő De Panne-ban, különféle vízi attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "Természetvédelmi terület a belga tengerparton, jellegzetes dűnékkel.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Flandria legrégebbi természetvédelmi területe, amely a parti dűnék nagy részét lefedi.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Ismert vidámpark De Panne-ban, amely az egész család számára kínál attrakciókat.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            },
+            {
+                  "name": "Oosthoekduinen",
+                  "text": "Sokszínű természeti terület dűnékkel, erdőkkel és nedves rétekkel a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        2.606561,
+                        51.091322
+                  ]
+            },
+            {
+                  "name": "Houtsaegerduinen",
+                  "text": "Természetvédelmi terület szürke dűnékkel és erdős részekkel De Panne közelében.",
+                  "category": "natural",
+                  "coords": [
+                        2.605022,
+                        51.100743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "Un muzeu dedicat vieții și operei pictorului suprarealist belgian Paul Delvaux.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "Un parc acvatic tematic în De Panne, cu diverse atracții acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "O rezervație naturală pe coasta belgiană, cu un peisaj caracteristic de dune.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "Cea mai veche rezervație naturală din Flandra, care cuprinde zone vaste de dune de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "Un cunoscut parc tematic din De Panne, cu atracții pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            },
+            {
+                  "name": "Oosthoekduinen",
+                  "text": "O zonă naturală diversă, cu dune, păduri și pajiști umede de-a lungul coastei.",
+                  "category": "natural",
+                  "coords": [
+                        2.606561,
+                        51.091322
+                  ]
+            },
+            {
+                  "name": "Houtsaegerduinen",
+                  "text": "O rezervație naturală cu dune gri și zone împădurite lângă De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.605022,
+                        51.100743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delvaux museum",
+                  "text": "A museum dedicated to the life and works of the Belgian surrealist painter Paul Delvaux.",
+                  "category": "museum",
+                  "coords": [
+                        2.610382,
+                        51.105807
+                  ]
+            },
+            {
+                  "name": "Plopsaqua De Panne",
+                  "text": "A themed water park in De Panne featuring various water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        2.601315,
+                        51.082006
+                  ]
+            },
+            {
+                  "name": "Krakeelduinen",
+                  "text": "A nature reserve on the Belgian coast with a characteristic dune landscape.",
+                  "category": "natural",
+                  "coords": [
+                        2.584349,
+                        51.086346
+                  ]
+            },
+            {
+                  "name": "Natuurreservaat De Westhoek",
+                  "text": "The oldest nature reserve in Flanders, covering large areas of coastal dunes.",
+                  "category": "natural",
+                  "coords": [
+                        2.56428,
+                        51.085348
+                  ]
+            },
+            {
+                  "name": "Plopsaland Belgium",
+                  "text": "A well-known theme park in De Panne with attractions for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        2.598347,
+                        51.081171
+                  ]
+            },
+            {
+                  "name": "Oosthoekduinen",
+                  "text": "A diverse nature area with dunes, woods, and wet meadows along the coast.",
+                  "category": "natural",
+                  "coords": [
+                        2.606561,
+                        51.091322
+                  ]
+            },
+            {
+                  "name": "Houtsaegerduinen",
+                  "text": "A nature reserve featuring grey dunes and woodland near De Panne.",
+                  "category": "natural",
+                  "coords": [
+                        2.605022,
+                        51.100743
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "park",
     name: { de: "Dünen von Westhoek", hu: "Westhoek-dűnék", ro: "Dunele Westhoek", en: "Westhoek Dunes"},
@@ -1014,7 +4227,124 @@ imageHint: "Gentle hills and windmill in Pays des Collines",
     },
     image: "/poi-images/belgium-pays-des-collines-nature-v2.webp",
 },  {
-    id: "belgium-gaume-region-nature-v2",
+    id: "belgium-gaume-region-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château Renaud",
+                  "text": "Eine archäologische Stätte in der Region Gaume mit Überresten aus römischer und mittelalterlicher Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        5.545445,
+                        49.625285
+                  ]
+            },
+            {
+                  "name": "Pas Bayard",
+                  "text": "Eine sagenumwobene Felsformation in der Region Gaume, verbunden mit der Legende der Haimonskinder.",
+                  "category": "landmark",
+                  "coords": [
+                        5.585047,
+                        49.608345
+                  ]
+            },
+            {
+                  "name": "Le Trou des Fées",
+                  "text": "Eine natürliche Felsformation und Höhlensystem im Wald der Gaume-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        5.550972,
+                        49.623613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château Renaud",
+                  "text": "Régészeti lelőhely a Gaume régióban, római és középkori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        5.545445,
+                        49.625285
+                  ]
+            },
+            {
+                  "name": "Pas Bayard",
+                  "text": "Legendás sziklaformáció a Gaume régióban, a négy Haimon-fiú legendájához kapcsolódva.",
+                  "category": "landmark",
+                  "coords": [
+                        5.585047,
+                        49.608345
+                  ]
+            },
+            {
+                  "name": "Le Trou des Fées",
+                  "text": "Természetes sziklaformáció és barlangrendszer a Gaume régió erdőiben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.550972,
+                        49.623613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château Renaud",
+                  "text": "Un sit arheologic în regiunea Gaume, cu vestigii din perioada romană și medievală.",
+                  "category": "historical",
+                  "coords": [
+                        5.545445,
+                        49.625285
+                  ]
+            },
+            {
+                  "name": "Pas Bayard",
+                  "text": "O formațiune stâncoasă legendară în regiunea Gaume, legată de legenda celor patru fii ai lui Aymon.",
+                  "category": "landmark",
+                  "coords": [
+                        5.585047,
+                        49.608345
+                  ]
+            },
+            {
+                  "name": "Le Trou des Fées",
+                  "text": "O formațiune stâncoasă naturală și un sistem de peșteri în pădurea din regiunea Gaume.",
+                  "category": "landmark",
+                  "coords": [
+                        5.550972,
+                        49.623613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château Renaud",
+                  "text": "An archaeological site in the Gaume region with remains from Roman and medieval times.",
+                  "category": "historical",
+                  "coords": [
+                        5.545445,
+                        49.625285
+                  ]
+            },
+            {
+                  "name": "Pas Bayard",
+                  "text": "A legendary rock formation in the Gaume region, associated with the legend of the four sons of Aymon.",
+                  "category": "landmark",
+                  "coords": [
+                        5.585047,
+                        49.608345
+                  ]
+            },
+            {
+                  "name": "Le Trou des Fées",
+                  "text": "A natural rock formation and cave system located in the forest of the Gaume region.",
+                  "category": "landmark",
+                  "coords": [
+                        5.550972,
+                        49.623613
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "valley",
     name: { de: "Gaume", hu: "Gaume", ro: "Regiunea Gaume", en: "Gaume Region"},
@@ -1163,6 +4493,78 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                         2.725912,
                         51.154571
                   ]
+            },
+            {
+                  "name": "Bezoekerscentrum Westfront Nieuwpoort",
+                  "text": "Ein Besucherzentrum, das die Geschichte der Überflutung der Yser-Ebene im Ersten Weltkrieg dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        2.755822,
+                        51.135943
+                  ]
+            },
+            {
+                  "name": "Vuurtoren Nieuwpoort",
+                  "text": "Ein markanter Leuchtturm an der Mündung der Yser, der Schiffen den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        2.729986,
+                        51.154669
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Lenspolder",
+                  "text": "Ein Streichelzoo und Bildungsbauernhof für Kindern in der Nähe der Yser.",
+                  "category": "recreational",
+                  "coords": [
+                        2.74098,
+                        51.134422
+                  ]
+            },
+            {
+                  "name": "City Theaterzaal",
+                  "text": "Ein städtischer Theatersaal für lokale kulturelle Darbietungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.751375,
+                        51.132582
+                  ]
+            },
+            {
+                  "name": "VNR De IJzermonding",
+                  "text": "Ein Naturschutzgebiet an der Mündung der Yser, bekannt für seine Dünen und Seevögel.",
+                  "category": "natural",
+                  "coords": [
+                        2.733562,
+                        51.154191
+                  ]
+            },
+            {
+                  "name": "Fort van Nieuwendamme",
+                  "text": "Die Überreste einer historischen Festung, die einst zur Verteidigung des Yser-Gebiets diente.",
+                  "category": "castle",
+                  "coords": [
+                        2.797288,
+                        51.143238
+                  ]
+            },
+            {
+                  "name": "Schuddebeurze",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Yser, das für seine Dünenlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        2.775004,
+                        51.151155
+                  ]
+            },
+            {
+                  "name": "Centrum De Calidris",
+                  "text": "Ein lokales Theater in Yser, das verschiedene kulturelle Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        2.762385,
+                        51.164173
+                  ]
             }
       ],
       "hu": [
@@ -1173,6 +4575,78 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                   "coords": [
                         2.725912,
                         51.154571
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Westfront Nieuwpoort",
+                  "text": "Látogatóközpont, amely az Iser-síkság első világháborús elárasztásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.755822,
+                        51.135943
+                  ]
+            },
+            {
+                  "name": "Vuurtoren Nieuwpoort",
+                  "text": "Jellegzetes világítótorony az Iser torkolatánál, amely a hajók navigációját segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        2.729986,
+                        51.154669
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Lenspolder",
+                  "text": "Állatsimogató és oktatófarm gyerekeknek az Iser folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        2.74098,
+                        51.134422
+                  ]
+            },
+            {
+                  "name": "City Theaterzaal",
+                  "text": "Városi színházterem helyi kulturális előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.751375,
+                        51.132582
+                  ]
+            },
+            {
+                  "name": "VNR De IJzermonding",
+                  "text": "Természetvédelmi terület az Iser torkolatánál, amely dűnéiről és tengeri madarairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        2.733562,
+                        51.154191
+                  ]
+            },
+            {
+                  "name": "Fort van Nieuwendamme",
+                  "text": "Egy történelmi erőd maradványai, amely egykor az Iser-vidék védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        2.797288,
+                        51.143238
+                  ]
+            },
+            {
+                  "name": "Schuddebeurze",
+                  "text": "Természetvédelmi terület Yser közelében, amely dűnéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        2.775004,
+                        51.151155
+                  ]
+            },
+            {
+                  "name": "Centrum De Calidris",
+                  "text": "Helyi színház Yserben, amely különféle kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.762385,
+                        51.164173
                   ]
             }
       ],
@@ -1185,6 +4659,78 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                         2.725912,
                         51.154571
                   ]
+            },
+            {
+                  "name": "Bezoekerscentrum Westfront Nieuwpoort",
+                  "text": "Un centru pentru vizitatori care documentează istoria inundării câmpiei Yser în timpul Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        2.755822,
+                        51.135943
+                  ]
+            },
+            {
+                  "name": "Vuurtoren Nieuwpoort",
+                  "text": "Un far distinctiv la gura de vărsare a râului Yser, care ghidează navele.",
+                  "category": "landmark",
+                  "coords": [
+                        2.729986,
+                        51.154669
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Lenspolder",
+                  "text": "O grădină zoologică cu animale domestice și o fermă educațională pentru copii lângă Yser.",
+                  "category": "recreational",
+                  "coords": [
+                        2.74098,
+                        51.134422
+                  ]
+            },
+            {
+                  "name": "City Theaterzaal",
+                  "text": "O sală de teatru orășenească pentru spectacole culturale locale și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        2.751375,
+                        51.132582
+                  ]
+            },
+            {
+                  "name": "VNR De IJzermonding",
+                  "text": "O rezervație naturală la gura de vărsare a râului Yser, cunoscută pentru dune și păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        2.733562,
+                        51.154191
+                  ]
+            },
+            {
+                  "name": "Fort van Nieuwendamme",
+                  "text": "Rămășițele unei fortărețe istorice care servea odinioară la apărarea zonei Yser.",
+                  "category": "castle",
+                  "coords": [
+                        2.797288,
+                        51.143238
+                  ]
+            },
+            {
+                  "name": "Schuddebeurze",
+                  "text": "O rezervație naturală în apropiere de Yser, cunoscută pentru peisajul său de dune.",
+                  "category": "natural",
+                  "coords": [
+                        2.775004,
+                        51.151155
+                  ]
+            },
+            {
+                  "name": "Centrum De Calidris",
+                  "text": "Un teatru local în Yser, care găzduiește diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.762385,
+                        51.164173
+                  ]
             }
       ],
       "en": [
@@ -1195,6 +4741,78 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
                   "coords": [
                         2.725912,
                         51.154571
+                  ]
+            },
+            {
+                  "name": "Bezoekerscentrum Westfront Nieuwpoort",
+                  "text": "A visitor center documenting the history of the flooding of the Yser plain during WWI.",
+                  "category": "museum",
+                  "coords": [
+                        2.755822,
+                        51.135943
+                  ]
+            },
+            {
+                  "name": "Vuurtoren Nieuwpoort",
+                  "text": "A distinctive lighthouse at the mouth of the Yser River, guiding ships.",
+                  "category": "landmark",
+                  "coords": [
+                        2.729986,
+                        51.154669
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Lenspolder",
+                  "text": "A petting zoo and educational farm for children located near the Yser River.",
+                  "category": "recreational",
+                  "coords": [
+                        2.74098,
+                        51.134422
+                  ]
+            },
+            {
+                  "name": "City Theaterzaal",
+                  "text": "A municipal theatre hall for local cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        2.751375,
+                        51.132582
+                  ]
+            },
+            {
+                  "name": "VNR De IJzermonding",
+                  "text": "A nature reserve at the mouth of the Yser River, known for its dunes and seabirds.",
+                  "category": "natural",
+                  "coords": [
+                        2.733562,
+                        51.154191
+                  ]
+            },
+            {
+                  "name": "Fort van Nieuwendamme",
+                  "text": "The remains of a historical fortress that once served to defend the Yser area.",
+                  "category": "castle",
+                  "coords": [
+                        2.797288,
+                        51.143238
+                  ]
+            },
+            {
+                  "name": "Schuddebeurze",
+                  "text": "A nature reserve near Yser, known for its dune landscape.",
+                  "category": "natural",
+                  "coords": [
+                        2.775004,
+                        51.151155
+                  ]
+            },
+            {
+                  "name": "Centrum De Calidris",
+                  "text": "A local theatre in Yser hosting various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        2.762385,
+                        51.164173
                   ]
             }
       ]
@@ -1288,7 +4906,304 @@ imageHint: "Lys river in the historic center of Ghent",
     },
     image: "/poi-images/belgium-lys-river-nature-v2.webp",
 },  {
-    id: "belgium-hoegne-river-nature-v2",
+    id: "belgium-hoegne-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solwaster Dolmen",
+                  "text": "Antikes megalithisches Steingrab in der Region Hoëgne.",
+                  "category": "historical",
+                  "coords": [
+                        5.976121,
+                        50.517794
+                  ]
+            },
+            {
+                  "name": "Anciennes Forges Le Chastelain",
+                  "text": "Archäologische Überreste einer historischen Schmiede in Belgien.",
+                  "category": "historical",
+                  "coords": [
+                        5.948382,
+                        50.53168
+                  ]
+            },
+            {
+                  "name": "Pire al Marede",
+                  "text": "Historische archäologische Stätte in der belgischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        5.98095,
+                        50.520645
+                  ]
+            },
+            {
+                  "name": "Ferme-Château de Sart Detrooz",
+                  "text": "Ein historisches befestigtes Bauernhaus und Schloss in Sart.",
+                  "category": "castle",
+                  "coords": [
+                        5.929344,
+                        50.516958
+                  ]
+            },
+            {
+                  "name": "Château Sagehomme",
+                  "text": "Schlossgebäude im malerischen Tal der Hoëgne.",
+                  "category": "castle",
+                  "coords": [
+                        5.990237,
+                        50.551852
+                  ]
+            },
+            {
+                  "name": "Château Les Clysores",
+                  "text": "Elegantes Schlossgut in der Nähe des Flusses Hoëgne.",
+                  "category": "castle",
+                  "coords": [
+                        5.926875,
+                        50.520368
+                  ]
+            },
+            {
+                  "name": "Perron",
+                  "text": "Historisches Symbol der städtischen Freiheit im Dorf Sart.",
+                  "category": "historical",
+                  "coords": [
+                        5.932741,
+                        50.517071
+                  ]
+            },
+            {
+                  "name": "Rocher de Bilisse",
+                  "text": "Auffällige Felsformation mit Panoramablick auf das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        5.982842,
+                        50.519812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solwaster Dolmen",
+                  "text": "Ősi megalitikus kősír a Hoëgne régióban.",
+                  "category": "historical",
+                  "coords": [
+                        5.976121,
+                        50.517794
+                  ]
+            },
+            {
+                  "name": "Anciennes Forges Le Chastelain",
+                  "text": "Egy történelmi kovácsműhely régészeti maradványai Belgiumban.",
+                  "category": "historical",
+                  "coords": [
+                        5.948382,
+                        50.53168
+                  ]
+            },
+            {
+                  "name": "Pire al Marede",
+                  "text": "Történelmi régészeti lelőhely a belga vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        5.98095,
+                        50.520645
+                  ]
+            },
+            {
+                  "name": "Ferme-Château de Sart Detrooz",
+                  "text": "Történelmi erődített udvarház és kastély Sartban.",
+                  "category": "castle",
+                  "coords": [
+                        5.929344,
+                        50.516958
+                  ]
+            },
+            {
+                  "name": "Château Sagehomme",
+                  "text": "Kastélyépület a Hoëgne festői völgyében.",
+                  "category": "castle",
+                  "coords": [
+                        5.990237,
+                        50.551852
+                  ]
+            },
+            {
+                  "name": "Château Les Clysores",
+                  "text": "Elegáns kastélybirtok a Hoëgne folyó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.926875,
+                        50.520368
+                  ]
+            },
+            {
+                  "name": "Perron",
+                  "text": "A városi szabadság történelmi jelképe Sart faluban.",
+                  "category": "historical",
+                  "coords": [
+                        5.932741,
+                        50.517071
+                  ]
+            },
+            {
+                  "name": "Rocher de Bilisse",
+                  "text": "Látványos sziklaformáció, amely panorámás kilátást nyújt a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        5.982842,
+                        50.519812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solwaster Dolmen",
+                  "text": "Mormânt megalitic antic din piatră în regiunea Hoëgne.",
+                  "category": "historical",
+                  "coords": [
+                        5.976121,
+                        50.517794
+                  ]
+            },
+            {
+                  "name": "Anciennes Forges Le Chastelain",
+                  "text": "Rămășițe arheologice ale unei forje istorice din Belgia.",
+                  "category": "historical",
+                  "coords": [
+                        5.948382,
+                        50.53168
+                  ]
+            },
+            {
+                  "name": "Pire al Marede",
+                  "text": "Sit arheologic istoric în peisajul rural belgian.",
+                  "category": "historical",
+                  "coords": [
+                        5.98095,
+                        50.520645
+                  ]
+            },
+            {
+                  "name": "Ferme-Château de Sart Detrooz",
+                  "text": "O fermă fortificată istorică și castel în Sart.",
+                  "category": "castle",
+                  "coords": [
+                        5.929344,
+                        50.516958
+                  ]
+            },
+            {
+                  "name": "Château Sagehomme",
+                  "text": "Clădire de castel în valea pitorească a râului Hoëgne.",
+                  "category": "castle",
+                  "coords": [
+                        5.990237,
+                        50.551852
+                  ]
+            },
+            {
+                  "name": "Château Les Clysores",
+                  "text": "Domeniu elegant cu castel situat lângă râul Hoëgne.",
+                  "category": "castle",
+                  "coords": [
+                        5.926875,
+                        50.520368
+                  ]
+            },
+            {
+                  "name": "Perron",
+                  "text": "Simbol istoric al libertății municipale în satul Sart.",
+                  "category": "historical",
+                  "coords": [
+                        5.932741,
+                        50.517071
+                  ]
+            },
+            {
+                  "name": "Rocher de Bilisse",
+                  "text": "Formațiune stâncoasă proeminentă cu vedere panoramică asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        5.982842,
+                        50.519812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solwaster Dolmen",
+                  "text": "Ancient megalithic stone tomb in the Hoëgne region.",
+                  "category": "historical",
+                  "coords": [
+                        5.976121,
+                        50.517794
+                  ]
+            },
+            {
+                  "name": "Anciennes Forges Le Chastelain",
+                  "text": "Archaeological remains of a historic forge in Belgium.",
+                  "category": "historical",
+                  "coords": [
+                        5.948382,
+                        50.53168
+                  ]
+            },
+            {
+                  "name": "Pire al Marede",
+                  "text": "Historical archaeological site in the Belgian countryside.",
+                  "category": "historical",
+                  "coords": [
+                        5.98095,
+                        50.520645
+                  ]
+            },
+            {
+                  "name": "Ferme-Château de Sart Detrooz",
+                  "text": "A historic fortified farmhouse and castle in Sart.",
+                  "category": "castle",
+                  "coords": [
+                        5.929344,
+                        50.516958
+                  ]
+            },
+            {
+                  "name": "Château Sagehomme",
+                  "text": "Castle building in the scenic Hoëgne valley.",
+                  "category": "castle",
+                  "coords": [
+                        5.990237,
+                        50.551852
+                  ]
+            },
+            {
+                  "name": "Château Les Clysores",
+                  "text": "Elegant castle estate located near the Hoëgne river.",
+                  "category": "castle",
+                  "coords": [
+                        5.926875,
+                        50.520368
+                  ]
+            },
+            {
+                  "name": "Perron",
+                  "text": "Historic symbol of municipal freedom in the village of Sart.",
+                  "category": "historical",
+                  "coords": [
+                        5.932741,
+                        50.517071
+                  ]
+            },
+            {
+                  "name": "Rocher de Bilisse",
+                  "text": "Prominent rock formation offering panoramic views of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        5.982842,
+                        50.519812
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Hoëgne", hu: "Hoëgne", ro: "Hoëgne", en: "Hoëgne"},
@@ -1333,7 +5248,304 @@ imageHint: "Hoëgne river with wooden bridge and rapids",
     },
     image: "/poi-images/belgium-hoegne-river-nature-v2.webp",
 },  {
-    id: "belgium-lake-virelles-nature-v2",
+    id: "belgium-lake-virelles-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle domaniale du Pont de Virelles",
+                  "text": "Ein staatliches Naturschutzgebiet zum Schutz der Feuchtgebiete um den See von Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.351724,
+                        50.065245
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée des Prés de Virelles",
+                  "text": "Ein anerkanntes Naturschutzgebiet, das die Wiesen im Gebiet des Virelles-Sees bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        4.325055,
+                        50.071503
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle des Prairies de l'Estrée",
+                  "text": "Ein Naturschutzgebiet, das dem Schutz der vielfältigen Flora und Fauna der Estrée-Prärien gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.330043,
+                        50.070854
+                  ]
+            },
+            {
+                  "name": "Château de Virelles",
+                  "text": "Ein historisches Schloss in der Nähe des malerischen Virelles-Sees.",
+                  "category": "castle",
+                  "coords": [
+                        4.330459,
+                        50.061414
+                  ]
+            },
+            {
+                  "name": "Ancien cimetière",
+                  "text": "Ein alter Friedhof und eine archäologische Stätte, die Einblicke in die lokale Geschichte bietet.",
+                  "category": "historical",
+                  "coords": [
+                        4.33587,
+                        50.061631
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'Étang de Virelles",
+                  "text": "Ein Naturschutzgebiet, das sich auf das Ökosystem des Teiches von Virelles konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        4.346215,
+                        50.072583
+                  ]
+            },
+            {
+                  "name": "Point de vue du Camp Romain",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die umliegende Region des Virelles-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        4.381676,
+                        50.064555
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Eau Blanche",
+                  "text": "Ein Beobachtungspunkt zur Beobachtung von Wasservögeln und Natur am Virelles-See.",
+                  "category": "natural",
+                  "coords": [
+                        4.400531,
+                        50.060884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle domaniale du Pont de Virelles",
+                  "text": "Állami természetvédelmi terület, amely a Virelles-tó körüli mocsaras területeket óvja.",
+                  "category": "natural",
+                  "coords": [
+                        4.351724,
+                        50.065245
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée des Prés de Virelles",
+                  "text": "Elismert természetvédelmi terület, amely a Virelles-tó környéki réteket őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        4.325055,
+                        50.071503
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle des Prairies de l'Estrée",
+                  "text": "Természetvédelmi terület az Estrée-rétek változatos növény- és állatvilágának védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        4.330043,
+                        50.070854
+                  ]
+            },
+            {
+                  "name": "Château de Virelles",
+                  "text": "Történelmi kastély a festői Virelles-tó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.330459,
+                        50.061414
+                  ]
+            },
+            {
+                  "name": "Ancien cimetière",
+                  "text": "Régi temető és régészeti lelőhely, amely betekintést nyújt a helyi történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        4.33587,
+                        50.061631
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'Étang de Virelles",
+                  "text": "A Virelles-tó ökoszisztémájára összpontosító természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        4.346215,
+                        50.072583
+                  ]
+            },
+            {
+                  "name": "Point de vue du Camp Romain",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Virelles-tó környékére.",
+                  "category": "natural",
+                  "coords": [
+                        4.381676,
+                        50.064555
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Eau Blanche",
+                  "text": "Megfigyelőpont vízimadarak és a természet megfigyelésére a Virelles-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        4.400531,
+                        50.060884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle domaniale du Pont de Virelles",
+                  "text": "O rezervație naturală de stat care protejează zonele umede din jurul lacului Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.351724,
+                        50.065245
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée des Prés de Virelles",
+                  "text": "O rezervație naturală recunoscută care păstrează pajiștile din zona lacului Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.325055,
+                        50.071503
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle des Prairies de l'Estrée",
+                  "text": "O rezervație naturală dedicată protejării florei și faunei diverse din preriile Estrée.",
+                  "category": "natural",
+                  "coords": [
+                        4.330043,
+                        50.070854
+                  ]
+            },
+            {
+                  "name": "Château de Virelles",
+                  "text": "Un castel istoric situat lângă pitorescul lac Virelles.",
+                  "category": "castle",
+                  "coords": [
+                        4.330459,
+                        50.061414
+                  ]
+            },
+            {
+                  "name": "Ancien cimetière",
+                  "text": "Un cimitir vechi și sit arheologic care oferă informații despre istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        4.33587,
+                        50.061631
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'Étang de Virelles",
+                  "text": "O rezervație naturală axată pe ecosistemul iazului Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.346215,
+                        50.072583
+                  ]
+            },
+            {
+                  "name": "Point de vue du Camp Romain",
+                  "text": "Un punct de belvedere care oferă vedere panoramică asupra regiunii lacului Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.381676,
+                        50.064555
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Eau Blanche",
+                  "text": "Un punct de observație pentru păsările de apă și natură de la lacul Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.400531,
+                        50.060884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle domaniale du Pont de Virelles",
+                  "text": "A state-owned nature reserve protecting the wetlands around Lake Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.351724,
+                        50.065245
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle agréée des Prés de Virelles",
+                  "text": "A recognized nature reserve preserving the meadows in the Lake Virelles area.",
+                  "category": "natural",
+                  "coords": [
+                        4.325055,
+                        50.071503
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle des Prairies de l'Estrée",
+                  "text": "A nature reserve dedicated to protecting the diverse flora and fauna of the Estrée prairies.",
+                  "category": "natural",
+                  "coords": [
+                        4.330043,
+                        50.070854
+                  ]
+            },
+            {
+                  "name": "Château de Virelles",
+                  "text": "A historic castle situated near the picturesque Lake Virelles.",
+                  "category": "castle",
+                  "coords": [
+                        4.330459,
+                        50.061414
+                  ]
+            },
+            {
+                  "name": "Ancien cimetière",
+                  "text": "An ancient cemetery and archaeological site providing insight into local history.",
+                  "category": "historical",
+                  "coords": [
+                        4.33587,
+                        50.061631
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de l'Étang de Virelles",
+                  "text": "A nature reserve focused on the ecosystem of the Virelles pond.",
+                  "category": "natural",
+                  "coords": [
+                        4.346215,
+                        50.072583
+                  ]
+            },
+            {
+                  "name": "Point de vue du Camp Romain",
+                  "text": "A viewpoint offering panoramic views over the surrounding Lake Virelles region.",
+                  "category": "natural",
+                  "coords": [
+                        4.381676,
+                        50.064555
+                  ]
+            },
+            {
+                  "name": "Observatoire de l'Eau Blanche",
+                  "text": "An observation point for watching water birds and nature at Lake Virelles.",
+                  "category": "natural",
+                  "coords": [
+                        4.400531,
+                        50.060884
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "lake",
     name: { de: "See von Virelles", hu: "Virelles-tó", ro: "Lacul Virelles", en: "Lake Virelles"},
@@ -1423,7 +5635,304 @@ imageHint: "Lake Genval with fountain and villas",
     },
     image: "/poi-images/belgium-lake-genval-nature-v2.webp",
 },  {
-    id: "belgium-remouchamps-caves-nature-v2",
+    id: "belgium-remouchamps-caves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Ein historisches Schloss, das über dem Tal der Amblève thront.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Ruines Château Vieux Jardin",
+                  "text": "Archäologische Überreste einer alten Burganlage bei Remouchamps.",
+                  "category": "historical",
+                  "coords": [
+                        5.688088,
+                        50.474129
+                  ]
+            },
+            {
+                  "name": "Chemin de Fer de Sprimont",
+                  "text": "Ein Eisenbahnmuseum, das der Geschichte der lokalen Industriebahn gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.683189,
+                        50.504972
+                  ]
+            },
+            {
+                  "name": "Château de Florzé",
+                  "text": "Ein elegantes Schlossgebäude in der Region Sprimont.",
+                  "category": "castle",
+                  "coords": [
+                        5.665157,
+                        50.487766
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Ein Safaripark und Zoo mit einer Vielzahl exotischer Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Carrières de Niaster",
+                  "text": "Ein Naturschutzgebiet auf dem Gelände eines ehemaligen Steinbruchs.",
+                  "category": "natural",
+                  "coords": [
+                        5.680496,
+                        50.460814
+                  ]
+            },
+            {
+                  "name": "Château de Dieupart",
+                  "text": "Ein Schloss aus dem 18. Jahrhundert in der Gemeinde Aywaille.",
+                  "category": "castle",
+                  "coords": [
+                        5.689517,
+                        50.478094
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Bekannte Tropfsteinhöhlen mit der weltweit längsten unterirdischen Bootsfahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Történelmi kastély, amely az Amblève-völgy felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Ruines Château Vieux Jardin",
+                  "text": "Egy régi vár régészeti maradványai Remouchamps közelében.",
+                  "category": "historical",
+                  "coords": [
+                        5.688088,
+                        50.474129
+                  ]
+            },
+            {
+                  "name": "Chemin de Fer de Sprimont",
+                  "text": "A helyi ipari vasút történetének szentelt vasúti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.683189,
+                        50.504972
+                  ]
+            },
+            {
+                  "name": "Château de Florzé",
+                  "text": "Elegáns kastélyépület Sprimont régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        5.665157,
+                        50.487766
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Szafaripark és állatkert számos egzotikus állatfajjal.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Carrières de Niaster",
+                  "text": "Egy egykori kőfejtő területén kialakított természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        5.680496,
+                        50.460814
+                  ]
+            },
+            {
+                  "name": "Château de Dieupart",
+                  "text": "18. századi kastély Aywaille községben.",
+                  "category": "castle",
+                  "coords": [
+                        5.689517,
+                        50.478094
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Ismert cseppkőbarlangok a világ leghosszabb föld alatti csónakázási lehetőségével.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "Un castel istoric situat deasupra văii Amblève.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Ruines Château Vieux Jardin",
+                  "text": "Vestigii arheologice ale unei vechi cetăți lângă Remouchamps.",
+                  "category": "historical",
+                  "coords": [
+                        5.688088,
+                        50.474129
+                  ]
+            },
+            {
+                  "name": "Chemin de Fer de Sprimont",
+                  "text": "Un muzeu feroviar dedicat istoriei căii ferate industriale locale.",
+                  "category": "museum",
+                  "coords": [
+                        5.683189,
+                        50.504972
+                  ]
+            },
+            {
+                  "name": "Château de Florzé",
+                  "text": "O clădire elegantă de castel în regiunea Sprimont.",
+                  "category": "castle",
+                  "coords": [
+                        5.665157,
+                        50.487766
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "Un parc safari și grădină zoologică cu numeroase specii de animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Carrières de Niaster",
+                  "text": "O rezervație naturală stabilită pe locul unei foste cariere de piatră.",
+                  "category": "natural",
+                  "coords": [
+                        5.680496,
+                        50.460814
+                  ]
+            },
+            {
+                  "name": "Château de Dieupart",
+                  "text": "Un castel din secolul al XVIII-lea situat în comuna Aywaille.",
+                  "category": "castle",
+                  "coords": [
+                        5.689517,
+                        50.478094
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Peșteri celebre cu cel mai lung traseu subteran cu barca din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Montjardin",
+                  "text": "A historic castle overlooking the Amblève valley.",
+                  "category": "castle",
+                  "coords": [
+                        5.711075,
+                        50.47629
+                  ]
+            },
+            {
+                  "name": "Ruines Château Vieux Jardin",
+                  "text": "Archaeological remains of an old castle near Remouchamps.",
+                  "category": "historical",
+                  "coords": [
+                        5.688088,
+                        50.474129
+                  ]
+            },
+            {
+                  "name": "Chemin de Fer de Sprimont",
+                  "text": "A railway museum dedicated to the history of the local industrial rail.",
+                  "category": "museum",
+                  "coords": [
+                        5.683189,
+                        50.504972
+                  ]
+            },
+            {
+                  "name": "Château de Florzé",
+                  "text": "An elegant castle building in the Sprimont region.",
+                  "category": "castle",
+                  "coords": [
+                        5.665157,
+                        50.487766
+                  ]
+            },
+            {
+                  "name": "Monde Sauvage Aywaille",
+                  "text": "A safari park and zoo featuring various exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        5.742522,
+                        50.499667
+                  ]
+            },
+            {
+                  "name": "Carrières de Niaster",
+                  "text": "A nature reserve established on the site of a former stone quarry.",
+                  "category": "natural",
+                  "coords": [
+                        5.680496,
+                        50.460814
+                  ]
+            },
+            {
+                  "name": "Château de Dieupart",
+                  "text": "An 18th-century castle located in the municipality of Aywaille.",
+                  "category": "castle",
+                  "coords": [
+                        5.689517,
+                        50.478094
+                  ]
+            },
+            {
+                  "name": "Grottes de Remouchamps",
+                  "text": "Famous limestone caves featuring the world's longest underground boat trip.",
+                  "category": "landmark",
+                  "coords": [
+                        5.712109,
+                        50.480207
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Grotten von Remouchamps", hu: "Remouchamps-barlangok", ro: "Peșterile Remouchamps", en: "Remouchamps Caves"},

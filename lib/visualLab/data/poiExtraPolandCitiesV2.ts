@@ -21798,6 +21798,78 @@ export const polandCitiesV2: POI[] = [
                         19.12005,
                         50.826388
                   ]
+            },
+            {
+                  "name": "Galeria Dobrej Sztuki",
+                  "text": "Eine Kunstgalerie in Tschenstochau, die verschiedene Werke polnischer und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        19.112124,
+                        50.811849
+                  ]
+            },
+            {
+                  "name": "Muzeum Gornictwa Rud Zelaza",
+                  "text": "Ein im Park Staszica untergebrachtes Museum, das die Geschichte des Eisenerzbergbaus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.100533,
+                        50.810944
+                  ]
+            },
+            {
+                  "name": "Muzeum Produkcji Zapalek",
+                  "text": "Ein einzigartiges Industriemuseum in Tschenstochau, das die Geschichte der Streichholzherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.122063,
+                        50.803165
+                  ]
+            },
+            {
+                  "name": "Jasna Gora",
+                  "text": "Ein berühmtes Kloster und Marienheiligtum in Tschenstochau, das als bedeutender Wallfahrtsort bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        19.097083,
+                        50.812565
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Das städtische Theater in Tschenstochau bietet ein breites Spektrum an dramatischen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.113611,
+                        50.814914
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Kolei",
+                  "text": "Das Eisenbahnmuseum in Tschenstochau präsentiert historische Lokomotiven und Exponate zum Schienenverkehr.",
+                  "category": "museum",
+                  "coords": [
+                        19.107112,
+                        50.797642
+                  ]
+            },
+            {
+                  "name": "Filharmonia Czestochowska im. Bronislawa Hubermana",
+                  "text": "Ein bedeutendes Konzerthaus in Tschenstochau, das klassische Musik und kulturelle Veranstaltungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        19.122575,
+                        50.814008
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezji Czestochowskiej",
+                  "text": "Ein religiöses Museum in Tschenstochau, das sakrale Kunst und kirchengeschichtliche Objekte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        19.095696,
+                        50.805924
+                  ]
             }
       ],
       "hu": [
@@ -21835,6 +21907,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.12005,
                         50.826388
+                  ]
+            },
+            {
+                  "name": "Galeria Dobrej Sztuki",
+                  "text": "Művészeti galéria Częstochowában, amely lengyel és nemzetközi művészek válogatott alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.112124,
+                        50.811849
+                  ]
+            },
+            {
+                  "name": "Muzeum Gornictwa Rud Zelaza",
+                  "text": "A Staszic parkban található múzeum, amely a vasércbányászat történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        19.100533,
+                        50.810944
+                  ]
+            },
+            {
+                  "name": "Muzeum Produkcji Zapalek",
+                  "text": "Egyedülálló ipari múzeum Częstochowában, amely a gyufagyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.122063,
+                        50.803165
+                  ]
+            },
+            {
+                  "name": "Jasna Gora",
+                  "text": "Híres kolostor és Mária-kegyhely Częstochowában, amely jelentős zarándokhelyként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        19.097083,
+                        50.812565
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Częstochowa városi színháza drámai előadások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.113611,
+                        50.814914
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Kolei",
+                  "text": "A częstochowai Vasúttörténeti Múzeum történelmi mozdonyokat és vasúti kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.107112,
+                        50.797642
+                  ]
+            },
+            {
+                  "name": "Filharmonia Czestochowska im. Bronislawa Hubermana",
+                  "text": "Jelentős koncertterem Częstochowában, ahol komolyzenei és kulturális eseményeket rendeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        19.122575,
+                        50.814008
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezji Czestochowskiej",
+                  "text": "Egyházi múzeum Częstochowában, amely szakrális művészeti és egyháztörténeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.095696,
+                        50.805924
                   ]
             }
       ],
@@ -21874,6 +22018,78 @@ export const polandCitiesV2: POI[] = [
                         19.12005,
                         50.826388
                   ]
+            },
+            {
+                  "name": "Galeria Dobrej Sztuki",
+                  "text": "O galerie de artă din Częstochowa care expune diverse lucrări ale artiștilor polonezi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        19.112124,
+                        50.811849
+                  ]
+            },
+            {
+                  "name": "Muzeum Gornictwa Rud Zelaza",
+                  "text": "Un muzeu situat în parcul Staszic, care documentează istoria minieră a minereului de fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.100533,
+                        50.810944
+                  ]
+            },
+            {
+                  "name": "Muzeum Produkcji Zapalek",
+                  "text": "Un muzeu industrial unic din Częstochowa, care prezintă istoria fabricării chibriturilor.",
+                  "category": "museum",
+                  "coords": [
+                        19.122063,
+                        50.803165
+                  ]
+            },
+            {
+                  "name": "Jasna Gora",
+                  "text": "O mănăstire și un sanctuar marian faimos din Częstochowa, cunoscut ca un important loc de pelerinaj.",
+                  "category": "castle",
+                  "coords": [
+                        19.097083,
+                        50.812565
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Teatrul municipal din Częstochowa oferă o gamă largă de spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.113611,
+                        50.814914
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Kolei",
+                  "text": "Muzeul de Istorie a Căilor Ferate din Częstochowa prezintă locomotive istorice și exponate feroviare.",
+                  "category": "museum",
+                  "coords": [
+                        19.107112,
+                        50.797642
+                  ]
+            },
+            {
+                  "name": "Filharmonia Czestochowska im. Bronislawa Hubermana",
+                  "text": "O sală de concerte importantă din Częstochowa, care găzduiește muzică clasică și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        19.122575,
+                        50.814008
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezji Czestochowskiej",
+                  "text": "Un muzeu religios din Częstochowa care expune artă sacră și obiecte de istorie bisericească.",
+                  "category": "museum",
+                  "coords": [
+                        19.095696,
+                        50.805924
+                  ]
             }
       ],
       "en": [
@@ -21911,6 +22127,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.12005,
                         50.826388
+                  ]
+            },
+            {
+                  "name": "Galeria Dobrej Sztuki",
+                  "text": "An art gallery in Częstochowa exhibiting various works by Polish and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        19.112124,
+                        50.811849
+                  ]
+            },
+            {
+                  "name": "Muzeum Gornictwa Rud Zelaza",
+                  "text": "A museum located in Staszic Park documenting the history of iron ore mining.",
+                  "category": "museum",
+                  "coords": [
+                        19.100533,
+                        50.810944
+                  ]
+            },
+            {
+                  "name": "Muzeum Produkcji Zapalek",
+                  "text": "A unique industrial museum in Częstochowa showing the history of match production.",
+                  "category": "museum",
+                  "coords": [
+                        19.122063,
+                        50.803165
+                  ]
+            },
+            {
+                  "name": "Jasna Gora",
+                  "text": "A famous monastery and Marian shrine in Częstochowa, known as a major pilgrimage site.",
+                  "category": "castle",
+                  "coords": [
+                        19.097083,
+                        50.812565
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "The municipal theatre in Częstochowa offers a wide range of dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        19.113611,
+                        50.814914
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Kolei",
+                  "text": "The Railway History Museum in Częstochowa presents historical locomotives and railway exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        19.107112,
+                        50.797642
+                  ]
+            },
+            {
+                  "name": "Filharmonia Czestochowska im. Bronislawa Hubermana",
+                  "text": "A major concert hall in Częstochowa hosting classical music and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        19.122575,
+                        50.814008
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezji Czestochowskiej",
+                  "text": "A religious museum in Częstochowa exhibiting sacred art and church history objects.",
+                  "category": "museum",
+                  "coords": [
+                        19.095696,
+                        50.805924
                   ]
             }
       ]
@@ -24381,6 +24669,78 @@ export const polandCitiesV2: POI[] = [
                         18.5828,
                         53.020283
                   ]
+            },
+            {
+                  "name": "Nicolaus Copernicus House",
+                  "text": "Das mutmaßliche Geburtshaus des Astronomen Nikolaus Kopernikus beherbergt heute ein interaktives Museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczolek Mostowy",
+                  "text": "Eine historische Befestigungsanlage in Thorn, die Teil des preußischen Festungssystems war.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inzynierii Komunalnej Torunia",
+                  "text": "Ein Museum in Thorn, das sich der Geschichte der städtischen Infrastruktur und Technik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.02718
+                  ]
+            },
+            {
+                  "name": "Fort Swietego Jakuba",
+                  "text": "Eine preußische Verteidigungsanlage in Thorn, die heute besichtigt werden kann.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "Die Ruinen einer mittelalterlichen Burg am linken Ufer der Weichsel in Thorn.",
+                  "category": "castle",
+                  "coords": [
+                        18.600026,
+                        53.001182
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzezna",
+                  "text": "Ein Teil der historischen Festung Thorn, der als Küstenbatterie an der Weichsel diente.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569143,
+                        52.998351
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Ein Museum in Thorn, das die Volkskultur und das traditionelle Leben der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.604405,
+                        53.01449
+                  ]
+            },
+            {
+                  "name": "Fort VI Jaremy Wisniowieckiego",
+                  "text": "Eines der gut erhaltenen Forts der Festung Thorn, das die preußische Militärarchitektur zeigt.",
+                  "category": "fortress",
+                  "coords": [
+                        18.585813,
+                        53.039049
+                  ]
             }
       ],
       "hu": [
@@ -24463,6 +24823,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.5828,
                         53.020283
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus House",
+                  "text": "Nikolausz Kopernikusz csillagász feltételezett szülőháza, amely ma interaktív múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczolek Mostowy",
+                  "text": "Történelmi erődítmény Toruńban, amely a porosz erődrendszer része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inzynierii Komunalnej Torunia",
+                  "text": "Toruńi múzeum, amely a városi infrastruktúra és technika történetének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.02718
+                  ]
+            },
+            {
+                  "name": "Fort Swietego Jakuba",
+                  "text": "Porosz védelmi létesítmény Toruńban, amely ma látogatható.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "Egy középkori vár romjai a Visztula bal partján Toruńban.",
+                  "category": "castle",
+                  "coords": [
+                        18.600026,
+                        53.001182
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzezna",
+                  "text": "A toruńi erődrendszer része, amely parti ütegként szolgált a Visztula mentén.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569143,
+                        52.998351
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Toruńi múzeum, amely a régió népi kultúráját és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.604405,
+                        53.01449
+                  ]
+            },
+            {
+                  "name": "Fort VI Jaremy Wisniowieckiego",
+                  "text": "A toruńi erődrendszer egyik jól megőrzött erődje, amely a porosz katonai építészetet szemlélteti.",
+                  "category": "fortress",
+                  "coords": [
+                        18.585813,
+                        53.039049
                   ]
             }
       ],
@@ -24547,6 +24979,78 @@ export const polandCitiesV2: POI[] = [
                         18.5828,
                         53.020283
                   ]
+            },
+            {
+                  "name": "Nicolaus Copernicus House",
+                  "text": "Presupusa casă natală a astronomului Nicolaus Copernic găzduiește astăzi un muzeu interactiv.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczolek Mostowy",
+                  "text": "O fortificație istorică din Toruń, care a făcut parte din sistemul de fortărețe prusac.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inzynierii Komunalnej Torunia",
+                  "text": "Un muzeu din Toruń dedicat istoriei infrastructurii urbane și tehnicii.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.02718
+                  ]
+            },
+            {
+                  "name": "Fort Swietego Jakuba",
+                  "text": "O structură defensivă prusacă din Toruń, care poate fi vizitată astăzi.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "Ruinele unui castel medieval situat pe malul stâng al Vistulei în Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.600026,
+                        53.001182
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzezna",
+                  "text": "O parte a fortăreței istorice Toruń, care a servit ca baterie de coastă pe malul Vistulei.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569143,
+                        52.998351
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Un muzeu din Toruń care prezintă cultura populară și viața tradițională a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.604405,
+                        53.01449
+                  ]
+            },
+            {
+                  "name": "Fort VI Jaremy Wisniowieckiego",
+                  "text": "Unul dintre forturile bine conservate ale cetății Toruń, care prezintă arhitectura militară prusacă.",
+                  "category": "fortress",
+                  "coords": [
+                        18.585813,
+                        53.039049
+                  ]
             }
       ],
       "en": [
@@ -24629,6 +25133,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.5828,
                         53.020283
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus House",
+                  "text": "The presumed birthplace of astronomer Nicolaus Copernicus now houses an interactive museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczolek Mostowy",
+                  "text": "A historical fortification in Toruń that was part of the Prussian fortress system.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inzynierii Komunalnej Torunia",
+                  "text": "A museum in Toruń dedicated to the history of urban infrastructure and engineering.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.02718
+                  ]
+            },
+            {
+                  "name": "Fort Swietego Jakuba",
+                  "text": "A Prussian defensive structure in Toruń that can be visited today.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "The ruins of a medieval castle located on the left bank of the Vistula in Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.600026,
+                        53.001182
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzezna",
+                  "text": "A part of the historical Toruń Fortress that served as a coastal battery along the Vistula.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569143,
+                        52.998351
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "A museum in Toruń presenting the folk culture and traditional life of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.604405,
+                        53.01449
+                  ]
+            },
+            {
+                  "name": "Fort VI Jaremy Wisniowieckiego",
+                  "text": "One of the well-preserved forts of the Toruń Fortress, showcasing Prussian military architecture.",
+                  "category": "fortress",
+                  "coords": [
+                        18.585813,
+                        53.039049
                   ]
             }
       ]
@@ -25607,6 +26183,69 @@ export const polandCitiesV2: POI[] = [
                         18.649267,
                         50.328004
                   ]
+            },
+            {
+                  "name": "Muzeum Historii Radia i Sztuki Mediów – Radiostacja Gliwice",
+                  "text": "Ein Museum am Standort des historischen Radiosenders Gleiwitz, dem höchsten Holzbauwerk der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        18.689379,
+                        50.313084
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski",
+                  "text": "Ein historisches mittelalterliches Schloss in Gleiwitz, das heute einen Teil des Stadtmuseums beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        18.665722,
+                        50.29276
+                  ]
+            },
+            {
+                  "name": "Muzeum w Gliwicach",
+                  "text": "Ein Museum in Gleiwitz in der historischen Villa Caro, das Regionalgeschichte und Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.667345,
+                        50.295437
+                  ]
+            },
+            {
+                  "name": "Dom Pamięci Żydów Górnośląskich",
+                  "text": "Ein Museum in Gleiwitz, das der jüdischen Geschichte und dem Erbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.693487,
+                        50.3032
+                  ]
+            },
+            {
+                  "name": "Oddział Odlewnictwa Artystycznego",
+                  "text": "Ein Museum in Gleiwitz, das sich auf die Geschichte und das Handwerk des Kunstgusses konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.682725,
+                        50.277211
+                  ]
+            },
+            {
+                  "name": "Teatr Miejski w Gliwicach",
+                  "text": "Das städtische Theater von Gleiwitz, das eine Vielzahl von kulturellen Aufführungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.658226,
+                        50.287509
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki Sanitarnej",
+                  "text": "Ein einzigartiges Museum in Gleiwitz, das in einem historischen ehemaligen Pumpwerk untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.647774,
+                        50.310437
+                  ]
             }
       ],
       "hu": [
@@ -25635,6 +26274,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.649267,
                         50.328004
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Radia i Sztuki Mediów – Radiostacja Gliwice",
+                  "text": "Múzeum a történelmi gliwicei rádióállomás helyszínén, amely a világ legmagasabb faszerkezete.",
+                  "category": "museum",
+                  "coords": [
+                        18.689379,
+                        50.313084
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski",
+                  "text": "Történelmi középkori vár Gliwicében, amely ma a városi múzeum egy részének ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        18.665722,
+                        50.29276
+                  ]
+            },
+            {
+                  "name": "Muzeum w Gliwicach",
+                  "text": "Gliwicei múzeum a történelmi Villa Caróban, amely a régió történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.667345,
+                        50.295437
+                  ]
+            },
+            {
+                  "name": "Dom Pamięci Żydów Górnośląskich",
+                  "text": "Gliwicei múzeum, amely a régió zsidó történelmének és örökségének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        18.693487,
+                        50.3032
+                  ]
+            },
+            {
+                  "name": "Oddział Odlewnictwa Artystycznego",
+                  "text": "Gliwicei múzeum, amely a művészeti öntészet történetére és mesterségére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.682725,
+                        50.277211
+                  ]
+            },
+            {
+                  "name": "Teatr Miejski w Gliwicach",
+                  "text": "Gliwice városi színháza, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.658226,
+                        50.287509
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki Sanitarnej",
+                  "text": "Egyedülálló múzeum Gliwicében, amely egy történelmi egykori szivattyúállomásban található.",
+                  "category": "museum",
+                  "coords": [
+                        18.647774,
+                        50.310437
                   ]
             }
       ],
@@ -25665,6 +26367,69 @@ export const polandCitiesV2: POI[] = [
                         18.649267,
                         50.328004
                   ]
+            },
+            {
+                  "name": "Muzeum Historii Radia i Sztuki Mediów – Radiostacja Gliwice",
+                  "text": "Un muzeu situat la locul istoricului turn radio din Gliwice, cea mai înaltă structură de lemn din lume.",
+                  "category": "museum",
+                  "coords": [
+                        18.689379,
+                        50.313084
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski",
+                  "text": "Un castel medieval istoric din Gliwice, care găzduiește astăzi o parte a muzeului orașului.",
+                  "category": "castle",
+                  "coords": [
+                        18.665722,
+                        50.29276
+                  ]
+            },
+            {
+                  "name": "Muzeum w Gliwicach",
+                  "text": "Un muzeu din Gliwice situat în istorica Villa Caro, care prezintă istoria și arta regională.",
+                  "category": "museum",
+                  "coords": [
+                        18.667345,
+                        50.295437
+                  ]
+            },
+            {
+                  "name": "Dom Pamięci Żydów Górnośląskich",
+                  "text": "Un muzeu din Gliwice dedicat istoriei și moștenirii evreiești din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        18.693487,
+                        50.3032
+                  ]
+            },
+            {
+                  "name": "Oddział Odlewnictwa Artystycznego",
+                  "text": "Un muzeu din Gliwice concentrat pe istoria și meșteșugul turnării artistice.",
+                  "category": "museum",
+                  "coords": [
+                        18.682725,
+                        50.277211
+                  ]
+            },
+            {
+                  "name": "Teatr Miejski w Gliwicach",
+                  "text": "Teatrul municipal din Gliwice, care găzduiește o varietate de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.658226,
+                        50.287509
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki Sanitarnej",
+                  "text": "Un muzeu unic din Gliwice situat într-o fostă stație de pompare istorică.",
+                  "category": "museum",
+                  "coords": [
+                        18.647774,
+                        50.310437
+                  ]
             }
       ],
       "en": [
@@ -25693,6 +26458,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.649267,
                         50.328004
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Radia i Sztuki Mediów – Radiostacja Gliwice",
+                  "text": "A museum at the site of the historic Gliwice Radio Tower, the world's tallest wooden structure.",
+                  "category": "museum",
+                  "coords": [
+                        18.689379,
+                        50.313084
+                  ]
+            },
+            {
+                  "name": "Zamek Piastowski",
+                  "text": "A historic medieval castle in Gliwice, now housing part of the city museum.",
+                  "category": "castle",
+                  "coords": [
+                        18.665722,
+                        50.29276
+                  ]
+            },
+            {
+                  "name": "Muzeum w Gliwicach",
+                  "text": "A museum in Gliwice located in the historic Villa Caro, showcasing regional history and art.",
+                  "category": "museum",
+                  "coords": [
+                        18.667345,
+                        50.295437
+                  ]
+            },
+            {
+                  "name": "House of Remembrance for the Jews of Upper Silesia",
+                  "text": "A museum in Gliwice dedicated to the Jewish history and heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.693487,
+                        50.3032
+                  ]
+            },
+            {
+                  "name": "Oddział Odlewnictwa Artystycznego",
+                  "text": "A museum in Gliwice focusing on the history and craft of artistic casting.",
+                  "category": "museum",
+                  "coords": [
+                        18.682725,
+                        50.277211
+                  ]
+            },
+            {
+                  "name": "Teatr Miejski w Gliwicach",
+                  "text": "The municipal theatre of Gliwice, hosting a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.658226,
+                        50.287509
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki Sanitarnej",
+                  "text": "A unique museum in Gliwice located in a historic former pumping station.",
+                  "category": "museum",
+                  "coords": [
+                        18.647774,
+                        50.310437
                   ]
             }
       ]
@@ -40661,6 +41489,15 @@ export const polandCitiesV2: POI[] = [
                         19.698037,
                         52.545254
                   ]
+            },
+            {
+                  "name": "Muzeum Mazowieckie",
+                  "text": "Ein bekanntes Museum in Płock, das für seine umfangreiche Sammlung an Jugendstil- und Art-Déco-Kunst berühmt ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.690431,
+                        52.543384
+                  ]
             }
       ],
       "hu": [
@@ -40923,6 +41760,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.698037,
                         52.545254
+                  ]
+            },
+            {
+                  "name": "Muzeum Mazowieckie",
+                  "text": "Płock neves múzeuma, amely kiterjedt szecessziós és art déco gyűjteményéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        19.690431,
+                        52.543384
                   ]
             }
       ],
@@ -41187,6 +42033,15 @@ export const polandCitiesV2: POI[] = [
                         19.698037,
                         52.545254
                   ]
+            },
+            {
+                  "name": "Muzeum Mazowieckie",
+                  "text": "Un muzeu de seamă din Płock, renumit pentru colecția sa extinsă de artă Art Nouveau și Art Deco.",
+                  "category": "museum",
+                  "coords": [
+                        19.690431,
+                        52.543384
+                  ]
             }
       ],
       "en": [
@@ -41449,6 +42304,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.698037,
                         52.545254
+                  ]
+            },
+            {
+                  "name": "Muzeum Mazowieckie",
+                  "text": "A prominent museum in Płock famous for its extensive collection of Art Nouveau and Art Deco art.",
+                  "category": "museum",
+                  "coords": [
+                        19.690431,
+                        52.543384
                   ]
             }
       ]
@@ -52799,6 +53663,78 @@ export const polandCitiesV2: POI[] = [
                         18.596111,
                         49.956049
                   ]
+            },
+            {
+                  "name": "Galeria Historii Miasta",
+                  "text": "Ein Museum zur Stadtgeschichte von Jastrzębie-Zdrój, untergebracht in einer ehemaligen Villa.",
+                  "category": "museum",
+                  "coords": [
+                        18.566282,
+                        49.946822
+                  ]
+            },
+            {
+                  "name": "Carbonarium",
+                  "text": "Ein interaktives Museum zum Kohlebergbau in Jastrzębie-Zdrój, eingerichtet in einem ehemaligen Kühlturm.",
+                  "category": "museum",
+                  "coords": [
+                        18.565819,
+                        49.941915
+                  ]
+            },
+            {
+                  "name": "Park Zdrojowy",
+                  "text": "Der historische Kurpark von Jastrzębie-Zdrój mit Denkmälern und alten Kurgebäuden.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567449,
+                        49.949789
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Eine historische Schrotholzkirche in Jastrzębie-Zdrój, die ein wertvolles Denkmal schlesischer Architektur ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.596648,
+                        49.958508
+                  ]
+            },
+            {
+                  "name": "Dom Zdrojowy",
+                  "text": "Das ehemalige Kurhaus von Jastrzębie-Zdrój, ein prächtiges Gebäude aus der Blütezeit des Badeortes.",
+                  "category": "landmark",
+                  "coords": [
+                        18.568352,
+                        49.950584
+                  ]
+            },
+            {
+                  "name": "Dolina Mikołaja",
+                  "text": "Ein landschaftlich reizvolles Tal in Jastrzębie-Zdrój, das zur aktiven Erholung in der Natur einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564504,
+                        49.950596
+                  ]
+            },
+            {
+                  "name": "Dwór Witczaków",
+                  "text": "Ein historischer Gutsbhof in Jastrzębie-Zdrój, der von der reichen Geschichte des Ortes zeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573274,
+                        49.957244
+                  ]
+            },
+            {
+                  "name": "Miejski Ośrodek Kultury",
+                  "text": "Ein städtisches Kulturzentrum in Jastrzębie-Zdrój, das verschiedene künstlerische Aktivitäten und Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.59818,
+                        49.951446
+                  ]
             }
       ],
       "hu": [
@@ -52827,6 +53763,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.596111,
                         49.956049
+                  ]
+            },
+            {
+                  "name": "Galeria Historii Miasta",
+                  "text": "Jastrzębie-Zdrój várostörténeti múzeuma, amely egy egykori villában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        18.566282,
+                        49.946822
+                  ]
+            },
+            {
+                  "name": "Carbonarium",
+                  "text": "Interaktív kőszénbányászati múzeum Jastrzębie-Zdrójban, egy egykori hűtőtoronyban kialakítva.",
+                  "category": "museum",
+                  "coords": [
+                        18.565819,
+                        49.941915
+                  ]
+            },
+            {
+                  "name": "Park Zdrojowy",
+                  "text": "Jastrzębie-Zdrój történelmi fürdőparkja emlékművekkel és régi fürdőépületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567449,
+                        49.949789
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Történelmi fatemplom Jastrzębie-Zdrójban, amely a sziléziai építészet értékes emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        18.596648,
+                        49.958508
+                  ]
+            },
+            {
+                  "name": "Dom Zdrojowy",
+                  "text": "Jastrzębie-Zdrój egykori fürdőháza, egy pompás épület a fürdőhely fénykorából.",
+                  "category": "landmark",
+                  "coords": [
+                        18.568352,
+                        49.950584
+                  ]
+            },
+            {
+                  "name": "Dolina Mikołaja",
+                  "text": "Festői völgy Jastrzębie-Zdrójban, amely aktív kikapcsolódásra hív a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564504,
+                        49.950596
+                  ]
+            },
+            {
+                  "name": "Dwór Witczaków",
+                  "text": "Történelmi udvarház Jastrzębie-Zdrójban, amely a település gazdag múltjáról tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573274,
+                        49.957244
+                  ]
+            },
+            {
+                  "name": "Miejski Ośrodek Kultury",
+                  "text": "Városi kulturális központ Jastrzębie-Zdrójban, amely különféle művészeti tevékenységeknek és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.59818,
+                        49.951446
                   ]
             }
       ],
@@ -52857,6 +53865,78 @@ export const polandCitiesV2: POI[] = [
                         18.596111,
                         49.956049
                   ]
+            },
+            {
+                  "name": "Galeria Historii Miasta",
+                  "text": "Un muzeu al istoriei orașului Jastrzębie-Zdrój, situat într-o fostă vilă.",
+                  "category": "museum",
+                  "coords": [
+                        18.566282,
+                        49.946822
+                  ]
+            },
+            {
+                  "name": "Carbonarium",
+                  "text": "Un muzeu interactiv al minieritului de cărbune în Jastrzębie-Zdrój, amenajat într-un fost turn de răcire.",
+                  "category": "museum",
+                  "coords": [
+                        18.565819,
+                        49.941915
+                  ]
+            },
+            {
+                  "name": "Park Zdrojowy",
+                  "text": "Parcul balnear istoric din Jastrzębie-Zdrój, cu monumente și clădiri vechi de stațiune.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567449,
+                        49.949789
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "O biserică istorică de lemn din Jastrzębie-Zdrój, fiind un monument valoros al arhitecturii sileziene.",
+                  "category": "landmark",
+                  "coords": [
+                        18.596648,
+                        49.958508
+                  ]
+            },
+            {
+                  "name": "Dom Zdrojowy",
+                  "text": "Fosta casă balneară din Jastrzębie-Zdrój, o clădire splendidă din epoca de aur a stațiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.568352,
+                        49.950584
+                  ]
+            },
+            {
+                  "name": "Dolina Mikołaja",
+                  "text": "O vale pitorească în Jastrzębie-Zdrój, care invită la recreere activă în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564504,
+                        49.950596
+                  ]
+            },
+            {
+                  "name": "Dwór Witczaków",
+                  "text": "Un conac istoric în Jastrzębie-Zdrój, care atestă istoria bogată a localității.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573274,
+                        49.957244
+                  ]
+            },
+            {
+                  "name": "Miejski Ośrodek Kultury",
+                  "text": "Un centru cultural municipal în Jastrzębie-Zdrój, care găzduiește diverse activități și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.59818,
+                        49.951446
+                  ]
             }
       ],
       "en": [
@@ -52885,6 +53965,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.596111,
                         49.956049
+                  ]
+            },
+            {
+                  "name": "Galeria Historii Miasta",
+                  "text": "A museum of Jastrzębie-Zdrój city history, located in a former villa.",
+                  "category": "museum",
+                  "coords": [
+                        18.566282,
+                        49.946822
+                  ]
+            },
+            {
+                  "name": "Carbonarium",
+                  "text": "An interactive coal mining museum in Jastrzębie-Zdrój, established in a former cooling tower.",
+                  "category": "museum",
+                  "coords": [
+                        18.565819,
+                        49.941915
+                  ]
+            },
+            {
+                  "name": "Park Zdrojowy",
+                  "text": "The historic spa park of Jastrzębie-Zdrój, featuring monuments and old spa buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        18.567449,
+                        49.949789
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "A historic wooden church in Jastrzębie-Zdrój, which is a valuable monument of Silesian architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.596648,
+                        49.958508
+                  ]
+            },
+            {
+                  "name": "Dom Zdrojowy",
+                  "text": "The former spa house of Jastrzębie-Zdrój, a grand building from the resort's heyday.",
+                  "category": "landmark",
+                  "coords": [
+                        18.568352,
+                        49.950584
+                  ]
+            },
+            {
+                  "name": "Dolina Mikołaja",
+                  "text": "A scenic valley in Jastrzębie-Zdrój, inviting active recreation in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564504,
+                        49.950596
+                  ]
+            },
+            {
+                  "name": "Dwór Witczaków",
+                  "text": "A historic manor house in Jastrzębie-Zdrój, testifying to the town's rich history.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573274,
+                        49.957244
+                  ]
+            },
+            {
+                  "name": "Miejski Ośrodek Kultury",
+                  "text": "A municipal arts centre in Jastrzębie-Zdrój offering various artistic activities and events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.59818,
+                        49.951446
                   ]
             }
       ]
@@ -56816,6 +57968,42 @@ export const polandCitiesV2: POI[] = [
                         19.670929,
                         51.405978
                   ]
+            },
+            {
+                  "name": "Zamek Krolewski w Piotrkowie Trybunalskim",
+                  "text": "Ein ehemaliges königliches Schloss, das heute als Museum dient.",
+                  "category": "castle",
+                  "coords": [
+                        19.700763,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Ein Bildungszentrum und Museum zur Geschichte des Brauwesens.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodow",
+                  "text": "Ein Museum in Piotrków Trybunalski, das die Geschichte der Speiseeis-Herstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "Ein von der Cor Ignis Stiftung geführtes Museum in Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
             }
       ],
       "hu": [
@@ -56862,6 +58050,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.670929,
                         51.405978
+                  ]
+            },
+            {
+                  "name": "Zamek Krolewski w Piotrkowie Trybunalskim",
+                  "text": "Egykori királyi vár, amely ma múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        19.700763,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Oktatóközpont és múzeum a sörfőzés történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodow",
+                  "text": "Piotrków Trybunalskiban található múzeum, amely a fagylaltkészítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "A Cor Ignis Alapítvány által működtetett múzeum Piotrków Trybunalskiban.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
                   ]
             }
       ],
@@ -56910,6 +58134,42 @@ export const polandCitiesV2: POI[] = [
                         19.670929,
                         51.405978
                   ]
+            },
+            {
+                  "name": "Zamek Krolewski w Piotrkowie Trybunalskim",
+                  "text": "Un fost castel regal care astăzi servește drept muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        19.700763,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Un centru educațional și muzeu dedicat istoriei berăritului.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodow",
+                  "text": "Un muzeu în Piotrków Trybunalski care prezintă istoria fabricării înghețatei.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "Un muzeu administrat de Fundația Cor Ignis în Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
             }
       ],
       "en": [
@@ -56956,6 +58216,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.670929,
                         51.405978
+                  ]
+            },
+            {
+                  "name": "Zamek Krolewski w Piotrkowie Trybunalskim",
+                  "text": "A former royal castle that now serves as a museum.",
+                  "category": "castle",
+                  "coords": [
+                        19.700763,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "An educational center and museum dedicated to the history of brewing.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodow",
+                  "text": "A museum in Piotrków Trybunalski showcasing the history of ice cream production.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "A museum run by the Cor Ignis Foundation in Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
                   ]
             }
       ]
@@ -61364,6 +62660,60 @@ export const polandCitiesV2: POI[] = [
                         17.614565,
                         52.544795
                   ]
+            },
+            {
+                  "name": "Bahnbetriebswerk Gniezno",
+                  "text": "Ein historisches Bahnbetriebswerk in Gniezno, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Ein Museum in Gniezno, das den Ursprüngen des polnischen Staates gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Ein Diözesanmuseum in Gniezno mit bedeutenden religiösen Kunstwerken.",
+                  "category": "museum",
+                  "coords": [
+                        17.593138,
+                        52.537737
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Ein Freiluftamphitheater in Gniezno für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.60953,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Ein professionelles Theater in Gniezno, benannt nach Aleksander Fredro.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Ein Museum in Gniezno, das historische technische Denkmäler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
             }
       ],
       "hu": [
@@ -61374,6 +62724,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.614565,
                         52.544795
+                  ]
+            },
+            {
+                  "name": "Stowarzyszenie \"Parowozownia Gniezno\"",
+                  "text": "Történelmi fűtőház Gnieznóban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Gnieznói múzeum, amely a lengyel állam eredetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Érseki múzeum Gnieznóban, jelentős vallási műalkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.593138,
+                        52.537737
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Szabadtéri amfiteátrum Gnieznóban kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        17.60953,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Gnieznói hivatásos színház, Aleksander Fredróról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Múzeum Gnieznóban, amely történelmi technikai emlékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
                   ]
             }
       ],
@@ -61386,6 +62790,60 @@ export const polandCitiesV2: POI[] = [
                         17.614565,
                         52.544795
                   ]
+            },
+            {
+                  "name": "Stowarzyszenie \"Parowozownia Gniezno\"",
+                  "text": "Un depou feroviar istoric din Gniezno, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Un muzeu în Gniezno dedicat originilor statului polonez.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Un muzeu arhiepiscopal în Gniezno cu importante opere de artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        17.593138,
+                        52.537737
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Un amfiteatru în aer liber în Gniezno pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.60953,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Un teatru profesionist din Gniezno, numit după Aleksander Fredro.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Un muzeu în Gniezno care expune monumente tehnice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
             }
       ],
       "en": [
@@ -61396,6 +62854,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.614565,
                         52.544795
+                  ]
+            },
+            {
+                  "name": "Gniezno Train Depot",
+                  "text": "A historical railway depot in Gniezno that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "A museum in Gniezno dedicated to the origins of the Polish state.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "An archdiocesan museum in Gniezno featuring significant religious art.",
+                  "category": "museum",
+                  "coords": [
+                        17.593138,
+                        52.537737
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "An open-air amphitheatre in Gniezno used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.60953,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "A professional theatre in Gniezno named after Aleksander Fredro.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "A museum in Gniezno showcasing historical technical monuments.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
                   ]
             }
       ]
@@ -69752,6 +71264,69 @@ export const polandCitiesV2: POI[] = [
                         22.060576,
                         50.564196
                   ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Ein Regionalmuseum in Stalowa Wola, das die Industrie- und Kulturgeschichte der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.041556,
+                        50.593715
+                  ]
+            },
+            {
+                  "name": "Muzeum Centralnego Okręgu Przemysłowego",
+                  "text": "Dieses Museum in Stalowa Wola widmet sich der Geschichte der Zentralen Industrieregion Polens.",
+                  "category": "museum",
+                  "coords": [
+                        22.053895,
+                        50.558529
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Pawła II",
+                  "text": "Ein Museum in Stalowa Wola, das dem Leben und Wirken von Papst Johannes Paul II. gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.067008,
+                        50.569396
+                  ]
+            },
+            {
+                  "name": "Patriota",
+                  "text": "Ein markantes Denkmal in Stalowa Wola, das eine patriotische Figur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        22.060489,
+                        50.575738
+                  ]
+            },
+            {
+                  "name": "Pomnik-Parowóz Ty2-16",
+                  "text": "Ein historisches Denkmal in Stalowa Wola, das aus einer Dampflokomotive des Typs Ty2 besteht.",
+                  "category": "historical",
+                  "coords": [
+                        22.042903,
+                        50.590907
+                  ]
+            },
+            {
+                  "name": "Galeria Malarstwa Alfonsa Karpińskiego",
+                  "text": "Diese Galerie in Stalowa Wola präsentiert Werke des Malers Alfons Karpiński.",
+                  "category": "museum",
+                  "coords": [
+                        22.046432,
+                        50.58905
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Eine moderne römisch-katholische Kirche in Stalowa Wola.",
+                  "category": "religious",
+                  "coords": [
+                        22.061229,
+                        50.569949
+                  ]
             }
       ],
       "hu": [
@@ -69762,6 +71337,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.060576,
                         50.564196
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Regionális múzeum Stalowa Wolában, amely a város ipari és kulturális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.041556,
+                        50.593715
+                  ]
+            },
+            {
+                  "name": "Muzeum Centralnego Okręgu Przemysłowego",
+                  "text": "Ez a múzeum Stalowa Wola városában a Központi Ipari Körzet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.053895,
+                        50.558529
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Pawła II",
+                  "text": "Szent II. János Pál pápának szentelt múzeum Stalowa Wola városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.067008,
+                        50.569396
+                  ]
+            },
+            {
+                  "name": "Patriota",
+                  "text": "Jellegzetes emlékmű Stalowa Wola városában, amely egy patrióta alakot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        22.060489,
+                        50.575738
+                  ]
+            },
+            {
+                  "name": "Pomnik-Parowóz Ty2-16",
+                  "text": "Történelmi emlékmű Stalowa Wola városában, amely egy Ty2 típusú gőzmozdonyból áll.",
+                  "category": "historical",
+                  "coords": [
+                        22.042903,
+                        50.590907
+                  ]
+            },
+            {
+                  "name": "Galeria Malarstwa Alfonsa Karpińskiego",
+                  "text": "Ez a galéria Stalowa Wola városában Alfons Karpiński festőművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.046432,
+                        50.58905
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Modern római katolikus templom Stalowa Wola városában.",
+                  "category": "religious",
+                  "coords": [
+                        22.061229,
+                        50.569949
                   ]
             }
       ],
@@ -69774,6 +71412,69 @@ export const polandCitiesV2: POI[] = [
                         22.060576,
                         50.564196
                   ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Un muzeu regional din Stalowa Wola care documentează istoria industrială și culturală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        22.041556,
+                        50.593715
+                  ]
+            },
+            {
+                  "name": "Muzeum Centralnego Okręgu Przemysłowego",
+                  "text": "Acest muzeu din Stalowa Wola este dedicat istoriei Regiunii Industriale Centrale a Poloniei.",
+                  "category": "museum",
+                  "coords": [
+                        22.053895,
+                        50.558529
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Pawła II",
+                  "text": "Un muzeu în Stalowa Wola dedicat vieții și operei Papei Ioan Paul al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        22.067008,
+                        50.569396
+                  ]
+            },
+            {
+                  "name": "Patriota",
+                  "text": "Un monument distinctiv în Stalowa Wola care reprezintă o figură patriotică.",
+                  "category": "historical",
+                  "coords": [
+                        22.060489,
+                        50.575738
+                  ]
+            },
+            {
+                  "name": "Pomnik-Parowóz Ty2-16",
+                  "text": "Un monument istoric din Stalowa Wola format dintr-o locomotivă cu abur de tip Ty2.",
+                  "category": "historical",
+                  "coords": [
+                        22.042903,
+                        50.590907
+                  ]
+            },
+            {
+                  "name": "Galeria Malarstwa Alfonsa Karpińskiego",
+                  "text": "Această galerie din Stalowa Wola prezintă lucrările pictorului Alfons Karpiński.",
+                  "category": "museum",
+                  "coords": [
+                        22.046432,
+                        50.58905
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "O biserică romano-catolică modernă din Stalowa Wola.",
+                  "category": "religious",
+                  "coords": [
+                        22.061229,
+                        50.569949
+                  ]
             }
       ],
       "en": [
@@ -69784,6 +71485,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.060576,
                         50.564196
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "A regional museum in Stalowa Wola documenting the industrial and cultural history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        22.041556,
+                        50.593715
+                  ]
+            },
+            {
+                  "name": "Muzeum Centralnego Okręgu Przemysłowego",
+                  "text": "This museum in Stalowa Wola is dedicated to the history of the Central Industrial Region of Poland.",
+                  "category": "museum",
+                  "coords": [
+                        22.053895,
+                        50.558529
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Pawła II",
+                  "text": "A museum in Stalowa Wola dedicated to the life and work of Pope John Paul II.",
+                  "category": "museum",
+                  "coords": [
+                        22.067008,
+                        50.569396
+                  ]
+            },
+            {
+                  "name": "Patriota",
+                  "text": "A distinctive monument in Stalowa Wola representing a patriotic figure.",
+                  "category": "historical",
+                  "coords": [
+                        22.060489,
+                        50.575738
+                  ]
+            },
+            {
+                  "name": "Pomnik-Parowóz Ty2-16",
+                  "text": "A historical monument in Stalowa Wola consisting of a Ty2 type steam locomotive.",
+                  "category": "historical",
+                  "coords": [
+                        22.042903,
+                        50.590907
+                  ]
+            },
+            {
+                  "name": "Galeria Malarstwa Alfonsa Karpińskiego",
+                  "text": "This gallery in Stalowa Wola presents works by the painter Alfons Karpiński.",
+                  "category": "museum",
+                  "coords": [
+                        22.046432,
+                        50.58905
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "A modern Roman Catholic church in Stalowa Wola.",
+                  "category": "religious",
+                  "coords": [
+                        22.061229,
+                        50.569949
                   ]
             }
       ]
@@ -69862,6 +71626,69 @@ export const polandCitiesV2: POI[] = [
                         22.774438,
                         49.788812
                   ]
+            },
+            {
+                  "name": "Muzeum Historii Miasta",
+                  "text": "Ein Museum in einem historischen Bürgerhaus, das die reiche Geschichte von Przemyśl erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        22.770264,
+                        49.782267
+                  ]
+            },
+            {
+                  "name": "Teatr Fredreum",
+                  "text": "Die älteste Amateurtheatergruppe Polens, die im historischen Schloss von Przemyśl auftritt.",
+                  "category": "cultural",
+                  "coords": [
+                        22.766215,
+                        49.780022
+                  ]
+            },
+            {
+                  "name": "Podziemna Trasa Turystyczna",
+                  "text": "Ein unterirdischer Touristenpfad, der historische Keller und Gänge unter Przemyśl erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        22.768857,
+                        49.782854
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jamy",
+                  "text": "Ein Naturschutzgebiet bei Przemyśl, das lokale Waldökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        22.774152,
+                        49.800039
+                  ]
+            },
+            {
+                  "name": "Rezerwat Winna Góra",
+                  "text": "Ein floristisches Naturschutzgebiet in Przemyśl, das für seine seltenen Pflanzenarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.770819,
+                        49.799068
+                  ]
+            },
+            {
+                  "name": "Muzeum Narodowe Ziemi Przemyskiej",
+                  "text": "Eines der ältesten und größten Museen der Region mit Kunst und Regionalgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        22.771754,
+                        49.783075
+                  ]
+            },
+            {
+                  "name": "Pałac Lubomirskich",
+                  "text": "Ein historisches Palais in Przemyśl, das ursprünglich für die Adelsfamilie Lubomirski erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        22.79339,
+                        49.774176
+                  ]
             }
       ],
       "hu": [
@@ -69890,6 +71717,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.774438,
                         49.788812
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Miasta",
+                  "text": "Történelmi polgárházban elhelyezett múzeum, amely Przemyśl gazdag múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.770264,
+                        49.782267
+                  ]
+            },
+            {
+                  "name": "Teatr Fredreum",
+                  "text": "Lengyelország legrégebbi amatőr színtársulata, amely a történelmi Przemyśl-várban játszik.",
+                  "category": "cultural",
+                  "coords": [
+                        22.766215,
+                        49.780022
+                  ]
+            },
+            {
+                  "name": "Podziemna Trasa Turystyczna",
+                  "text": "Przemyśl alatti történelmi pincéket és folyosókat bemutató föld alatti túraútvonal.",
+                  "category": "museum",
+                  "coords": [
+                        22.768857,
+                        49.782854
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jamy",
+                  "text": "Természetvédelmi terület Przemyśl közelében, amely a helyi erdei ökoszisztémát védi.",
+                  "category": "natural",
+                  "coords": [
+                        22.774152,
+                        49.800039
+                  ]
+            },
+            {
+                  "name": "Rezerwat Winna Góra",
+                  "text": "Przemyśl-i florisztikai természetvédelmi terület, amely ritka növényfajairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.770819,
+                        49.799068
+                  ]
+            },
+            {
+                  "name": "Muzeum Narodowe Ziemi Przemyskiej",
+                  "text": "A régió egyik legrégebbi és legnagyobb múzeuma, művészeti és helytörténeti gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        22.771754,
+                        49.783075
+                  ]
+            },
+            {
+                  "name": "Pałac Lubomirskich",
+                  "text": "Történelmi palota Przemyślben, amely eredetileg a nemesi Lubomirski család számára épült.",
+                  "category": "castle",
+                  "coords": [
+                        22.79339,
+                        49.774176
                   ]
             }
       ],
@@ -69920,6 +71810,69 @@ export const polandCitiesV2: POI[] = [
                         22.774438,
                         49.788812
                   ]
+            },
+            {
+                  "name": "Muzeum Historii Miasta",
+                  "text": "Un muzeu situat într-o casă istorică ce explorează istoria bogată a orașului Przemyśl.",
+                  "category": "museum",
+                  "coords": [
+                        22.770264,
+                        49.782267
+                  ]
+            },
+            {
+                  "name": "Teatr Fredreum",
+                  "text": "Cea mai veche trupă de teatru de amatori din Polonia, care activează în castelul istoric din Przemyśl.",
+                  "category": "cultural",
+                  "coords": [
+                        22.766215,
+                        49.780022
+                  ]
+            },
+            {
+                  "name": "Podziemna Trasa Turystyczna",
+                  "text": "Un traseu turistic subteran care explorează pivnițele și coridoarele istorice de sub Przemyśl.",
+                  "category": "museum",
+                  "coords": [
+                        22.768857,
+                        49.782854
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jamy",
+                  "text": "O rezervație naturală lângă Przemyśl care protejează ecosistemele forestiere locale.",
+                  "category": "natural",
+                  "coords": [
+                        22.774152,
+                        49.800039
+                  ]
+            },
+            {
+                  "name": "Rezerwat Winna Góra",
+                  "text": "O rezervație naturală floristică din Przemyśl, cunoscută pentru speciile sale rare de plante.",
+                  "category": "natural",
+                  "coords": [
+                        22.770819,
+                        49.799068
+                  ]
+            },
+            {
+                  "name": "Muzeum Narodowe Ziemi Przemyskiej",
+                  "text": "Unul dintre cele mai vechi și mari muzee din regiune, prezentând artă și istorie regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.771754,
+                        49.783075
+                  ]
+            },
+            {
+                  "name": "Pałac Lubomirskich",
+                  "text": "Un palat istoric din Przemyśl, construit inițial pentru familia nobiliară Lubomirski.",
+                  "category": "castle",
+                  "coords": [
+                        22.79339,
+                        49.774176
+                  ]
             }
       ],
       "en": [
@@ -69948,6 +71901,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.774438,
                         49.788812
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Miasta",
+                  "text": "A museum located in a historic townhouse exploring the rich history of Przemyśl.",
+                  "category": "museum",
+                  "coords": [
+                        22.770264,
+                        49.782267
+                  ]
+            },
+            {
+                  "name": "Teatr Fredreum",
+                  "text": "The oldest amateur theatre group in Poland, performing in the historic Przemyśl Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        22.766215,
+                        49.780022
+                  ]
+            },
+            {
+                  "name": "The Underground Tourist Route",
+                  "text": "An underground tourist trail exploring historical cellars and corridors beneath Przemyśl.",
+                  "category": "museum",
+                  "coords": [
+                        22.768857,
+                        49.782854
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jamy",
+                  "text": "A nature reserve near Przemyśl protecting local forest ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        22.774152,
+                        49.800039
+                  ]
+            },
+            {
+                  "name": "Rezerwat Winna Góra",
+                  "text": "A floristic nature reserve in Przemyśl known for its rare plant species.",
+                  "category": "natural",
+                  "coords": [
+                        22.770819,
+                        49.799068
+                  ]
+            },
+            {
+                  "name": "Muzeum Narodowe Ziemi Przemyskiej",
+                  "text": "One of the oldest and largest museums in the region, featuring art and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        22.771754,
+                        49.783075
+                  ]
+            },
+            {
+                  "name": "Pałac Lubomirskich",
+                  "text": "A historic palace in Przemyśl, originally built for the Lubomirski noble family.",
+                  "category": "castle",
+                  "coords": [
+                        22.79339,
+                        49.774176
                   ]
             }
       ]
@@ -71742,6 +73758,69 @@ export const polandCitiesV2: POI[] = [
                         19.384446,
                         51.364132
                   ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Das Regionalmuseum in Bełchatów, untergebracht im historischen Herrenhaus der Familie Olszewski.",
+                  "category": "historical",
+                  "coords": [
+                        19.367715,
+                        51.364278
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "Ein Denkmal in Bełchatów, das Papst Johannes Paul II. gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.369939,
+                        51.365913
+                  ]
+            },
+            {
+                  "name": "Marszałek Józef Piłsudski",
+                  "text": "Ein Denkmal zu Ehren von Marschall Józef Piłsudski, einem Helden der polnischen Unabhängigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        19.375514,
+                        51.367498
+                  ]
+            },
+            {
+                  "name": "Dwór w Domiechowicach",
+                  "text": "Ein historisches Herrenhaus in Domiechowice, das die Architektur des lokalen Adels zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        19.340935,
+                        51.381375
+                  ]
+            },
+            {
+                  "name": "PGE Giganty Mocy",
+                  "text": "Ein interaktives Bildungszentrum, das sich mit Bergbau, Energie und Geologie befasst.",
+                  "category": "cultural",
+                  "coords": [
+                        19.372405,
+                        51.36682
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "Eine moderne katholische Kirche in Bełchatów, die dem Heiligen Geist gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.362444,
+                        51.350009
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Eine lokale Kirche, die der Barmherzigkeit Gottes gewidmet ist und als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        19.38941,
+                        51.359715
+                  ]
             }
       ],
       "hu": [
@@ -71770,6 +73849,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.384446,
                         51.364132
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Bełchatówi regionális múzeum, amely a történelmi Olszewski-kúriában kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        19.367715,
+                        51.364278
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "II. János Pál pápának szentelt emlékmű Bełchatówban.",
+                  "category": "historical",
+                  "coords": [
+                        19.369939,
+                        51.365913
+                  ]
+            },
+            {
+                  "name": "Marszałek Józef Piłsudski",
+                  "text": "Józef Piłsudski marsall, a lengyel függetlenségi hős tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        19.375514,
+                        51.367498
+                  ]
+            },
+            {
+                  "name": "Dwór w Domiechowicach",
+                  "text": "Történelmi kúria Domiechowicében, amely a helyi nemesség építészetét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        19.340935,
+                        51.381375
+                  ]
+            },
+            {
+                  "name": "PGE Giganty Mocy",
+                  "text": "Interaktív oktatási központ, amely a bányászattal, energiával és geológiával foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.372405,
+                        51.36682
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "Szentléleknek szentelt modern katolikus templom Bełchatówban.",
+                  "category": "religious",
+                  "coords": [
+                        19.362444,
+                        51.350009
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Helyi templom, amelyet az isteni irgalmasságnak szenteltek, és hitéleti helyszínként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        19.38941,
+                        51.359715
                   ]
             }
       ],
@@ -71800,6 +73942,69 @@ export const polandCitiesV2: POI[] = [
                         19.384446,
                         51.364132
                   ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "Muzeul regional din Bełchatów, găzduit în conacul istoric al familiei Olszewski.",
+                  "category": "historical",
+                  "coords": [
+                        19.367715,
+                        51.364278
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "Un monument în Bełchatów dedicat Papei Ioan Paul al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        19.369939,
+                        51.365913
+                  ]
+            },
+            {
+                  "name": "Marszałek Józef Piłsudski",
+                  "text": "Un monument ridicat în onoarea mareșalului Józef Piłsudski, erou al independenței Poloniei.",
+                  "category": "historical",
+                  "coords": [
+                        19.375514,
+                        51.367498
+                  ]
+            },
+            {
+                  "name": "Dwór w Domiechowicach",
+                  "text": "Un conac istoric în Domiechowice, reprezentativ pentru arhitectura nobilimii locale.",
+                  "category": "historical",
+                  "coords": [
+                        19.340935,
+                        51.381375
+                  ]
+            },
+            {
+                  "name": "PGE Giganty Mocy",
+                  "text": "Un centru educațional interactiv dedicat mineritului, energiei și geologiei.",
+                  "category": "cultural",
+                  "coords": [
+                        19.372405,
+                        51.36682
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "O biserică catolică modernă din Bełchatów, dedicată Duhului Sfânt.",
+                  "category": "religious",
+                  "coords": [
+                        19.362444,
+                        51.350009
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "O biserică locală dedicată Milostivirii Divine, servind ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        19.38941,
+                        51.359715
+                  ]
             }
       ],
       "en": [
@@ -71828,6 +74033,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.384446,
                         51.364132
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne",
+                  "text": "The regional museum in Bełchatów, housed in the historic Olszewski manor house.",
+                  "category": "historical",
+                  "coords": [
+                        19.367715,
+                        51.364278
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "A monument in Bełchatów dedicated to Pope John Paul II.",
+                  "category": "historical",
+                  "coords": [
+                        19.369939,
+                        51.365913
+                  ]
+            },
+            {
+                  "name": "Marszałek Józef Piłsudski",
+                  "text": "A monument in honor of Marshal Józef Piłsudski, a hero of Polish independence.",
+                  "category": "historical",
+                  "coords": [
+                        19.375514,
+                        51.367498
+                  ]
+            },
+            {
+                  "name": "Dwór w Domiechowicach",
+                  "text": "A historic manor house in Domiechowice, showcasing the architecture of local nobility.",
+                  "category": "historical",
+                  "coords": [
+                        19.340935,
+                        51.381375
+                  ]
+            },
+            {
+                  "name": "PGE Giganty Mocy",
+                  "text": "An interactive educational center focusing on mining, energy, and geology.",
+                  "category": "cultural",
+                  "coords": [
+                        19.372405,
+                        51.36682
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "A modern Catholic church in Bełchatów dedicated to the Holy Spirit.",
+                  "category": "religious",
+                  "coords": [
+                        19.362444,
+                        51.350009
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "A local church dedicated to Divine Mercy, serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        19.38941,
+                        51.359715
                   ]
             }
       ]
@@ -80302,6 +82570,15 @@ export const polandCitiesV2: POI[] = [
                         21.571205,
                         53.091577
                   ]
+            },
+            {
+                  "name": "Muzeum Zolnierzy Wykletych w Ostrolece",
+                  "text": "Museum in Ostrołęka, das der Geschichte der „verstoßenen Soldaten“ gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.579221,
+                        53.090248
+                  ]
             }
       ],
       "hu": [
@@ -80411,6 +82688,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.571205,
                         53.091577
+                  ]
+            },
+            {
+                  "name": "Muzeum Zolnierzy Wykletych w Ostrolece",
+                  "text": "Az elátkozott katonák történetének szentelt múzeum Ostrołękában.",
+                  "category": "museum",
+                  "coords": [
+                        21.579221,
+                        53.090248
                   ]
             }
       ],
@@ -80522,6 +82808,15 @@ export const polandCitiesV2: POI[] = [
                         21.571205,
                         53.091577
                   ]
+            },
+            {
+                  "name": "Muzeum Zolnierzy Wykletych w Ostrolece",
+                  "text": "Muzeu în Ostrołęka dedicat istoriei soldaților blestemați.",
+                  "category": "museum",
+                  "coords": [
+                        21.579221,
+                        53.090248
+                  ]
             }
       ],
       "en": [
@@ -80631,6 +82926,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.571205,
                         53.091577
+                  ]
+            },
+            {
+                  "name": "Muzeum Zolnierzy Wykletych w Ostrolece",
+                  "text": "Museum in Ostrołęka dedicated to the history of the Cursed Soldiers.",
+                  "category": "museum",
+                  "coords": [
+                        21.579221,
+                        53.090248
                   ]
             }
       ]
@@ -81955,6 +84259,69 @@ export const polandCitiesV2: POI[] = [
                         21.354413,
                         54.084492
                   ]
+            },
+            {
+                  "name": "Zamek krzyzacki w Ketrzynie",
+                  "text": "Eine im 14. Jahrhundert erbaute Deutschordensburg, die heute das Regionalmuseum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        21.376952,
+                        54.074251
+                  ]
+            },
+            {
+                  "name": "Rozlewisko Woplawka",
+                  "text": "Ein Naturschutzgebiet bei Kętrzyn, das für seine Feuchtgebiete und reiche Vogelwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.387466,
+                        54.089466
+                  ]
+            },
+            {
+                  "name": "Kaplica grobowej rodziny Schmidtseck",
+                  "text": "Die historischen Ruinen einer Grabkapelle der Familie Schmidtseck in der Nähe von Kętrzyn.",
+                  "category": "historical",
+                  "coords": [
+                        21.420197,
+                        54.08351
+                  ]
+            },
+            {
+                  "name": "Matka Boza",
+                  "text": "Ein religiöses Denkmal in Kętrzyn, das der Mutter Gottes gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.373542,
+                        54.074779
+                  ]
+            },
+            {
+                  "name": "Dwor w Woplawkach",
+                  "text": "Ein historisches Herrenhaus in Wopławki, ein Beispiel für die regionale Architektur des Adels.",
+                  "category": "historical",
+                  "coords": [
+                        21.413797,
+                        54.087575
+                  ]
+            },
+            {
+                  "name": "Cerkiew pw. Swietego Bazylego Wielkiego",
+                  "text": "Eine griechisch-katholische Kirche in Kętrzyn, die in einem historischen Gebäude untergebracht ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.37918,
+                        54.074029
+                  ]
+            },
+            {
+                  "name": "Kosciol pw. Swietej Katarzyny",
+                  "text": "Eine spätgotische Kirche in Kętrzyn, die für ihre historische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.374242,
+                        54.077624
+                  ]
             }
       ],
       "hu": [
@@ -82001,6 +84368,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.354413,
                         54.084492
+                  ]
+            },
+            {
+                  "name": "Zamek krzyzacki w Ketrzynie",
+                  "text": "A 14. században épült teuton lovagvár, amely ma a helyi múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        21.376952,
+                        54.074251
+                  ]
+            },
+            {
+                  "name": "Rozlewisko Woplawka",
+                  "text": "Kętrzyn közeli természetvédelmi terület, amely vizes élőhelyeiről és gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.387466,
+                        54.089466
+                  ]
+            },
+            {
+                  "name": "Kaplica grobowej rodziny Schmidtseck",
+                  "text": "A Schmidtseck család sírkápolnájának történelmi romjai Kętrzyn közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.420197,
+                        54.08351
+                  ]
+            },
+            {
+                  "name": "Matka Boza",
+                  "text": "Vallási emlékmű Kętrzynben, amelyet Isten Anyjának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.373542,
+                        54.074779
+                  ]
+            },
+            {
+                  "name": "Dwor w Woplawkach",
+                  "text": "Történelmi udvarház Wopławkiban, amely a nemesi építészet egyik helyi példája.",
+                  "category": "historical",
+                  "coords": [
+                        21.413797,
+                        54.087575
+                  ]
+            },
+            {
+                  "name": "Cerkiew pw. Swietego Bazylego Wielkiego",
+                  "text": "Görögkatolikus templom Kętrzynben, amely egy történelmi épületben található.",
+                  "category": "religious",
+                  "coords": [
+                        21.37918,
+                        54.074029
+                  ]
+            },
+            {
+                  "name": "Kosciol pw. Swietej Katarzyny",
+                  "text": "Késő gótikus templom Kętrzynben, amely történelmi építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        21.374242,
+                        54.077624
                   ]
             }
       ],
@@ -82049,6 +84479,69 @@ export const polandCitiesV2: POI[] = [
                         21.354413,
                         54.084492
                   ]
+            },
+            {
+                  "name": "Zamek krzyzacki w Ketrzynie",
+                  "text": "Un castel teuton construit în secolul al XIV-lea, care găzduiește astăzi muzeul regional.",
+                  "category": "castle",
+                  "coords": [
+                        21.376952,
+                        54.074251
+                  ]
+            },
+            {
+                  "name": "Rozlewisko Woplawka",
+                  "text": "O rezervație naturală de lângă Kętrzyn, cunoscută pentru zonele umede și fauna diversă de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        21.387466,
+                        54.089466
+                  ]
+            },
+            {
+                  "name": "Kaplica grobowej rodziny Schmidtseck",
+                  "text": "Ruinele istorice ale unei capele funerare a familiei Schmidtseck, situată lângă Kętrzyn.",
+                  "category": "historical",
+                  "coords": [
+                        21.420197,
+                        54.08351
+                  ]
+            },
+            {
+                  "name": "Matka Boza",
+                  "text": "Un monument religios din Kętrzyn, dedicat Maicii Domnului.",
+                  "category": "historical",
+                  "coords": [
+                        21.373542,
+                        54.074779
+                  ]
+            },
+            {
+                  "name": "Dwor w Woplawkach",
+                  "text": "Un conac istoric în Wopławki, un exemplu al arhitecturii nobiliare regionale.",
+                  "category": "historical",
+                  "coords": [
+                        21.413797,
+                        54.087575
+                  ]
+            },
+            {
+                  "name": "Cerkiew pw. Swietego Bazylego Wielkiego",
+                  "text": "O biserică greco-catolică din Kętrzyn, situată într-o clădire istorică.",
+                  "category": "religious",
+                  "coords": [
+                        21.37918,
+                        54.074029
+                  ]
+            },
+            {
+                  "name": "Kosciol pw. Swietej Katarzyny",
+                  "text": "O biserică în stil gotic târziu din Kętrzyn, cunoscută pentru arhitectura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        21.374242,
+                        54.077624
+                  ]
             }
       ],
       "en": [
@@ -82095,6 +84588,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.354413,
                         54.084492
+                  ]
+            },
+            {
+                  "name": "Zamek krzyzacki w Ketrzynie",
+                  "text": "A Teutonic castle built in the 14th century, which now houses the regional museum.",
+                  "category": "castle",
+                  "coords": [
+                        21.376952,
+                        54.074251
+                  ]
+            },
+            {
+                  "name": "Rozlewisko Woplawka",
+                  "text": "A nature reserve near Kętrzyn, known for its wetlands and rich birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        21.387466,
+                        54.089466
+                  ]
+            },
+            {
+                  "name": "Kaplica grobowej rodziny Schmidtseck",
+                  "text": "The historical ruins of a funeral chapel of the Schmidtseck family near Kętrzyn.",
+                  "category": "historical",
+                  "coords": [
+                        21.420197,
+                        54.08351
+                  ]
+            },
+            {
+                  "name": "Matka Boza",
+                  "text": "A religious monument in Kętrzyn dedicated to the Mother of God.",
+                  "category": "historical",
+                  "coords": [
+                        21.373542,
+                        54.074779
+                  ]
+            },
+            {
+                  "name": "Dwor w Woplawkach",
+                  "text": "A historical manor house in Wopławki, an example of regional noble architecture.",
+                  "category": "historical",
+                  "coords": [
+                        21.413797,
+                        54.087575
+                  ]
+            },
+            {
+                  "name": "Cerkiew pw. Swietego Bazylego Wielkiego",
+                  "text": "A Greek Catholic church in Kętrzyn, located in a historical building.",
+                  "category": "religious",
+                  "coords": [
+                        21.37918,
+                        54.074029
+                  ]
+            },
+            {
+                  "name": "Kosciol pw. Swietej Katarzyny",
+                  "text": "A late Gothic church in Kętrzyn, known for its historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        21.374242,
+                        54.077624
                   ]
             }
       ]
@@ -82173,6 +84729,78 @@ export const polandCitiesV2: POI[] = [
                         18.616466,
                         49.730896
                   ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "Ein Museum in Cieszyn, das die Traditionen des Buchdrucks und der lokalen Typografie pflegt.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Ein zweisprachiges Theater in Teschen, das Aufführungen in polnischer und tschechischer Sprache bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Ein Museum, das die Geschichte und Kultur der Teschener Region dokumentiert und präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Eines der ältesten öffentlichen Museen in Polen, das bedeutende regionale Sammlungen in Cieszyn beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        18.633828,
+                        49.747781
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Ein prachtvolles neobarockes Theatergebäude in Cieszyn, benannt nach dem Dichter Adam Mickiewicz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630485,
+                        49.749937
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "Ein Naturschutzgebiet am Ufer der Olsa, das seltene Pflanzenarten und alten Waldbestand schützt.",
+                  "category": "natural",
+                  "coords": [
+                        18.629071,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "Ein Waldreservat in Cieszyn, das für seine reiche Flora und die Lage am Fluss Puńcówka bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.631498,
+                        49.739112
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Ein Museum in Cieszyn, das sich der Geschichte und dem Erbe des Protestantismus in der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
             }
       ],
       "hu": [
@@ -82201,6 +84829,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.616466,
                         49.730896
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "Cieszyn városában található múzeum, amely a nyomdászat és a helyi tipográfia hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Kétnyelvű színház Cieszynben, amely lengyel és cseh nyelvű előadásokat is kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Múzeum, amely a Tescheni-régió történelmét és kultúráját dokumentálja és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Lengyelország egyik legrégebbi nyilvános múzeuma, amely jelentős regionális gyűjteményeknek ad otthont Cieszynben.",
+                  "category": "museum",
+                  "coords": [
+                        18.633828,
+                        49.747781
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Pompás neobarokk színházépület Cieszynben, amely Adam Mickiewicz költő nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630485,
+                        49.749937
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "Természetvédelmi terület az Olza folyó partján, amely ritka növényfajokat és ősi erdőállományt óv.",
+                  "category": "natural",
+                  "coords": [
+                        18.629071,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "Erdei rezervátum Cieszynben, amely gazdag flórájáról és a Puńcówka folyó menti elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.631498,
+                        49.739112
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Cieszyn városában található múzeum, amely a régió protestantizmusának történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
                   ]
             }
       ],
@@ -82231,6 +84931,78 @@ export const polandCitiesV2: POI[] = [
                         18.616466,
                         49.730896
                   ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "Un muzeu din Cieszyn care păstrează tradițiile tiparului și ale tipografiei locale.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Un teatru bilingv din Cieszyn care oferă spectacole în limbile poloneză și cehă.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Un muzeu care documentează și prezintă istoria și cultura regiunii Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Unul dintre cele mai vechi muzee publice din Polonia, care găzduiește colecții regionale importante în Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.633828,
+                        49.747781
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "O clădire teatrală neobarocă splendidă din Cieszyn, numită după poetul Adam Mickiewicz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630485,
+                        49.749937
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "O rezervație naturală pe malul râului Olza, care protejează specii rare de plante și păduri vechi.",
+                  "category": "natural",
+                  "coords": [
+                        18.629071,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "O rezervație forestieră în Cieszyn, cunoscută pentru flora bogată și locația sa de-a lungul râului Puńcówka.",
+                  "category": "natural",
+                  "coords": [
+                        18.631498,
+                        49.739112
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Un muzeu din Cieszyn dedicat istoriei și moștenirii protestantismului în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
             }
       ],
       "en": [
@@ -82259,6 +85031,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.616466,
                         49.730896
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "A museum in Cieszyn dedicated to preserving the traditions of printing and local typography.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "A bilingual theatre in Cieszyn offering performances in both Polish and Czech languages.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "A museum that documents and presents the history and culture of the Cieszyn region.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "One of the oldest public museums in Poland, housing significant regional collections in Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.633828,
+                        49.747781
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "A splendid neo-baroque theatre building in Cieszyn, named after the poet Adam Mickiewicz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630485,
+                        49.749937
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "A nature reserve on the banks of the Olza River, protecting rare plant species and old-growth forest.",
+                  "category": "natural",
+                  "coords": [
+                        18.629071,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "A forest reserve in Cieszyn, known for its rich flora and location along the Puńcówka River.",
+                  "category": "natural",
+                  "coords": [
+                        18.631498,
+                        49.739112
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "A museum in Cieszyn dedicated to the history and heritage of Protestantism in the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
                   ]
             }
       ]
@@ -91659,6 +94503,51 @@ export const polandCitiesV2: POI[] = [
                         21.729127,
                         50.686746
                   ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Sandomierzu",
+                  "text": "Das Schloss Sandomierz beherbergt heute ein Museum zur Regionalgeschichte und Kunst.",
+                  "category": "castle",
+                  "coords": [
+                        21.747519,
+                        50.675903
+                  ]
+            },
+            {
+                  "name": "Dom Jana Długosza - Muzeum Diecezjalne",
+                  "text": "Ein Diözesanmuseum im historischen Haus des Chronisten Jan Długosz aus dem 15. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        21.75059,
+                        50.676835
+                  ]
+            },
+            {
+                  "name": "Rezerwat Góry Pieprzowe",
+                  "text": "Dieses Naturschutzgebiet bei Sandomierz ist für seine markanten geologischen Formationen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        21.792,
+                        50.685636
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Polskiego Ruchu Ludowego",
+                  "text": "Ein Museum in Sandomierz, das die Geschichte der polnischen Volksbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.748949,
+                        50.679621
+                  ]
+            },
+            {
+                  "name": "Kamień Plebański",
+                  "text": "Ein kleines Naturschutzgebiet in der Nähe von Sandomierz mit lokaler Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        21.765834,
+                        50.68777
+                  ]
             }
       ],
       "hu": [
@@ -91687,6 +94576,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.729127,
                         50.686746
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Sandomierzu",
+                  "text": "A sandomierzi vár ma a regionális történelmet és művészetet bemutató múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        21.747519,
+                        50.675903
+                  ]
+            },
+            {
+                  "name": "Dom Jana Długosza - Muzeum Diecezjalne",
+                  "text": "Egyházmegyei múzeum Jan Długosz krónikás 15. századi történelmi házában.",
+                  "category": "museum",
+                  "coords": [
+                        21.75059,
+                        50.676835
+                  ]
+            },
+            {
+                  "name": "Rezerwat Góry Pieprzowe",
+                  "text": "Ez a Sandomierz melletti természetvédelmi terület jellegzetes geológiai képződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.792,
+                        50.685636
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Polskiego Ruchu Ludowego",
+                  "text": "Sandomierzi múzeum, amely a lengyel népi mozgalom történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        21.748949,
+                        50.679621
+                  ]
+            },
+            {
+                  "name": "Kamień Plebański",
+                  "text": "Sandomierz közelében található kis természetvédelmi terület helyi növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        21.765834,
+                        50.68777
                   ]
             }
       ],
@@ -91717,6 +94651,51 @@ export const polandCitiesV2: POI[] = [
                         21.729127,
                         50.686746
                   ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Sandomierzu",
+                  "text": "Castelul din Sandomierz găzduiește astăzi un muzeu dedicat istoriei și artei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        21.747519,
+                        50.675903
+                  ]
+            },
+            {
+                  "name": "Dom Jana Długosza - Muzeum Diecezjalne",
+                  "text": "Un muzeu diecezan situat în casa istorică din secolul al XV-lea a cronicarului Jan Długosz.",
+                  "category": "museum",
+                  "coords": [
+                        21.75059,
+                        50.676835
+                  ]
+            },
+            {
+                  "name": "Rezerwat Góry Pieprzowe",
+                  "text": "Această rezervație naturală de lângă Sandomierz este cunoscută pentru formațiunile sale geologice distincte.",
+                  "category": "natural",
+                  "coords": [
+                        21.792,
+                        50.685636
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Polskiego Ruchu Ludowego",
+                  "text": "Un muzeu din Sandomierz care documentează istoria mișcării populare poloneze.",
+                  "category": "museum",
+                  "coords": [
+                        21.748949,
+                        50.679621
+                  ]
+            },
+            {
+                  "name": "Kamień Plebański",
+                  "text": "O mică rezervație naturală în apropiere de Sandomierz, protejând flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        21.765834,
+                        50.68777
+                  ]
             }
       ],
       "en": [
@@ -91745,6 +94724,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.729127,
                         50.686746
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamkowe w Sandomierzu",
+                  "text": "Sandomierz Castle now houses a museum dedicated to regional history and art.",
+                  "category": "castle",
+                  "coords": [
+                        21.747519,
+                        50.675903
+                  ]
+            },
+            {
+                  "name": "Dom Jana Długosza - Muzeum Diecezjalne",
+                  "text": "A diocesan museum located in the historic 15th-century house of chronicler Jan Długosz.",
+                  "category": "museum",
+                  "coords": [
+                        21.75059,
+                        50.676835
+                  ]
+            },
+            {
+                  "name": "Rezerwat Góry Pieprzowe",
+                  "text": "This nature reserve near Sandomierz is known for its distinctive geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        21.792,
+                        50.685636
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Polskiego Ruchu Ludowego",
+                  "text": "A museum in Sandomierz documenting the history of the Polish people's movement.",
+                  "category": "museum",
+                  "coords": [
+                        21.748949,
+                        50.679621
+                  ]
+            },
+            {
+                  "name": "Kamień Plebański",
+                  "text": "A small nature reserve near Sandomierz featuring local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        21.765834,
+                        50.68777
                   ]
             }
       ]
@@ -93099,6 +96123,51 @@ export const polandCitiesV2: POI[] = [
                         15.121349,
                         51.642491
                   ]
+            },
+            {
+                  "name": "Muzeum Pogranicza Śląsko-Łużyckiego",
+                  "text": "Ein Regionalmuseum in Żary, das die Geschichte des schlesisch-lausitzischen Grenzlandes dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.146091,
+                        51.637862
+                  ]
+            },
+            {
+                  "name": "Pałac Promnitzów",
+                  "text": "Ein barocker Palastkomplex in Żary, der einst Sitz der Familie Promnitz war.",
+                  "category": "castle",
+                  "coords": [
+                        15.142436,
+                        51.639932
+                  ]
+            },
+            {
+                  "name": "Pałac Letni",
+                  "text": "Ein historisches Sommerpalais in Żary, das Teil der ehemaligen Schlossanlagen ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.145899,
+                        51.642306
+                  ]
+            },
+            {
+                  "name": "Błękitna Brama",
+                  "text": "Die Blaue Pforte, ein charakteristisches historisches Stadttor in Żary.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142494,
+                        51.64215
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 2 (Sonnberg)",
+                  "text": "Betonfundament eines ehemaligen deutschen Radars aus dem Zweiten Weltkrieg bei Żary.",
+                  "category": "historical",
+                  "coords": [
+                        15.110105,
+                        51.645736
+                  ]
             }
       ],
       "hu": [
@@ -93109,6 +96178,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.121349,
                         51.642491
+                  ]
+            },
+            {
+                  "name": "Muzeum Pogranicza Śląsko-Łużyckiego",
+                  "text": "Regionális múzeum Żaryban, amely a sziléziai-lusitán határvidék történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.146091,
+                        51.637862
+                  ]
+            },
+            {
+                  "name": "Pałac Promnitzów",
+                  "text": "Barokk palotaegyüttes Żaryban, amely egykor a Promnitz család székhelye volt.",
+                  "category": "castle",
+                  "coords": [
+                        15.142436,
+                        51.639932
+                  ]
+            },
+            {
+                  "name": "Pałac Letni",
+                  "text": "Történelmi nyári palota Żaryban, az egykori kastélyegyüttes része.",
+                  "category": "castle",
+                  "coords": [
+                        15.145899,
+                        51.642306
+                  ]
+            },
+            {
+                  "name": "Błękitna Brama",
+                  "text": "A Kék Kapu, Żary egyik jellegzetes történelmi városkapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142494,
+                        51.64215
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 2 (Sonnberg)",
+                  "text": "Egykori második világháborús német radar beton talapzata Żary közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.110105,
+                        51.645736
                   ]
             }
       ],
@@ -93121,6 +96235,51 @@ export const polandCitiesV2: POI[] = [
                         15.121349,
                         51.642491
                   ]
+            },
+            {
+                  "name": "Muzeum Pogranicza Śląsko-Łużyckiego",
+                  "text": "Un muzeu regional din Żary care documentează istoria zonei de frontieră Silezia-Lusacia.",
+                  "category": "museum",
+                  "coords": [
+                        15.146091,
+                        51.637862
+                  ]
+            },
+            {
+                  "name": "Pałac Promnitzów",
+                  "text": "Un complex palatier baroc din Żary, fosta reședință a familiei Promnitz.",
+                  "category": "castle",
+                  "coords": [
+                        15.142436,
+                        51.639932
+                  ]
+            },
+            {
+                  "name": "Pałac Letni",
+                  "text": "Un palat istoric de vară din Żary, parte a fostului complex nobiliar.",
+                  "category": "castle",
+                  "coords": [
+                        15.145899,
+                        51.642306
+                  ]
+            },
+            {
+                  "name": "Błękitna Brama",
+                  "text": "Poarta Albastră, o poartă istorică caracteristică a orașului Żary.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142494,
+                        51.64215
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 2 (Sonnberg)",
+                  "text": "Fundația de beton a unui fost radar german din al Doilea Război Mondial, lângă Żary.",
+                  "category": "historical",
+                  "coords": [
+                        15.110105,
+                        51.645736
+                  ]
             }
       ],
       "en": [
@@ -93131,6 +96290,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.121349,
                         51.642491
+                  ]
+            },
+            {
+                  "name": "Muzeum Pogranicza Śląsko-Łużyckiego",
+                  "text": "A regional museum in Żary documenting the history of the Silesian-Lusatian borderland.",
+                  "category": "museum",
+                  "coords": [
+                        15.146091,
+                        51.637862
+                  ]
+            },
+            {
+                  "name": "Pałac Promnitzów",
+                  "text": "A Baroque palace complex in Żary, formerly the residence of the Promnitz family.",
+                  "category": "castle",
+                  "coords": [
+                        15.142436,
+                        51.639932
+                  ]
+            },
+            {
+                  "name": "Pałac Letni",
+                  "text": "A historic summer palace in Żary, part of the former castle grounds.",
+                  "category": "castle",
+                  "coords": [
+                        15.145899,
+                        51.642306
+                  ]
+            },
+            {
+                  "name": "Błękitna Brama",
+                  "text": "The Blue Gate, a characteristic historic city gate in Żary.",
+                  "category": "landmark",
+                  "coords": [
+                        15.142494,
+                        51.64215
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 2 (Sonnberg)",
+                  "text": "Concrete foundation of a former WWII German radar located near Żary.",
+                  "category": "historical",
+                  "coords": [
+                        15.110105,
+                        51.645736
                   ]
             }
       ]

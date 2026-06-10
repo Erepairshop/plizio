@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const latviaLifeV2: POI[] = [
 
   {
-    id: "latvia-slitere-national-park-life-v2",
+    id: "latvia-slitere-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Ģipkas lankas”",
+                  "text": "Ein Naturschutzgebiet im Nationalpark Slītere, das für seine unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.593758,
+                        57.602271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Ģipkas lankas”",
+                  "text": "Természetvédelmi terület a Slītere Nemzeti Parkban, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.593758,
+                        57.602271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Ģipkas lankas”",
+                  "text": "O rezervație naturală în cadrul Parcului Național Slītere, cunoscută pentru natura sa curată.",
+                  "category": "natural",
+                  "coords": [
+                        22.593758,
+                        57.602271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Ģipkas lankas”",
+                  "text": "A nature reserve within Slītere National Park, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.593758,
+                        57.602271
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Slītere Nationalpark", hu: "Slītere Nemzeti Park", ro: "Parcul Național Slītere", en: "Slītere National Park" },
@@ -48,7 +93,88 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-slitere-national-park-life-v2.webp",
   },
   {
-    id: "latvia-teici-nature-reserve-life-v2",
+    id: "latvia-teici-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teiču dabas rezervāts",
+                  "text": "Eines der größten Naturschutzgebiete Lettlands, das ein bedeutendes Moor-Ökosystem schützt.",
+                  "category": "natural",
+                  "coords": [
+                        26.475895,
+                        56.621464
+                  ]
+            },
+            {
+                  "name": "Verbotzone",
+                  "text": "Ein streng geschütztes Gebiet innerhalb des Naturschutzgebiets Teiči mit begrenztem öffentlichem Zugang.",
+                  "category": "natural",
+                  "coords": [
+                        26.537245,
+                        56.591686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teiču dabas rezervāts",
+                  "text": "Lettország egyik legnagyobb természetvédelmi területe, amely egy jelentős mocsári ökoszisztémát véd.",
+                  "category": "natural",
+                  "coords": [
+                        26.475895,
+                        56.621464
+                  ]
+            },
+            {
+                  "name": "Stingrā režīma zona",
+                  "text": "Szigorúan védett terület a Teiči természetvédelmi területen belül, korlátozott látogathatósággal.",
+                  "category": "natural",
+                  "coords": [
+                        26.537245,
+                        56.591686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teiču dabas rezervāts",
+                  "text": "Una dintre cele mai mari rezervații naturale din Letonia, care protejează un ecosistem de mlaștină semnificativ.",
+                  "category": "natural",
+                  "coords": [
+                        26.475895,
+                        56.621464
+                  ]
+            },
+            {
+                  "name": "Stingrā režīma zona",
+                  "text": "O zonă strict protejată în cadrul rezervației naturale Teiči, cu acces public limitat.",
+                  "category": "natural",
+                  "coords": [
+                        26.537245,
+                        56.591686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teiču dabas rezervāts",
+                  "text": "One of the largest nature reserves in Latvia, protecting a significant bog ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        26.475895,
+                        56.621464
+                  ]
+            },
+            {
+                  "name": "Strict regime zone",
+                  "text": "A highly protected area within the Teiči Nature Reserve with limited public access.",
+                  "category": "natural",
+                  "coords": [
+                        26.537245,
+                        56.591686
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "LV",
     name: { de: "Teiči Naturschutzgebiet", hu: "Teiči Természetvédelmi Terület", ro: "Rezervația Naturală Teiči", en: "Teiči Nature Reserve" },
@@ -273,7 +399,160 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-pape-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-daugavas-loki-nature-park-life-v2",
+    id: "latvia-daugavas-loki-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Dünaburg",
+                  "text": "Überreste einer historischen Burg im Naturpark Daugavas Loki.",
+                  "category": "historical",
+                  "coords": [
+                        26.724887,
+                        55.912382
+                  ]
+            },
+            {
+                  "name": "Vecpils pilskalns",
+                  "text": "Eine archäologische Ausgrabungsstätte eines alten Burgwalls in Lettland.",
+                  "category": "historical",
+                  "coords": [
+                        26.725418,
+                        55.911184
+                  ]
+            },
+            {
+                  "name": "Atpūtas parks “Stalkers”",
+                  "text": "Ein Erholungspark mit verschiedenen Attraktionen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        26.752951,
+                        55.882114
+                  ]
+            },
+            {
+                  "name": "Elernes muiža",
+                  "text": "Ein historisches Herrenhaus in der Region Daugavas Loki.",
+                  "category": "historical",
+                  "coords": [
+                        26.706822,
+                        55.88718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinaburgas pilsdrupas",
+                  "text": "Egy történelmi vár maradványai a Daugavas Loki Natúrparkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.724887,
+                        55.912382
+                  ]
+            },
+            {
+                  "name": "Vecpils pilskalns",
+                  "text": "Egy ősi várhely régészeti lelőhelye Lettországban.",
+                  "category": "historical",
+                  "coords": [
+                        26.725418,
+                        55.911184
+                  ]
+            },
+            {
+                  "name": "Atpūtas parks “Stalkers”",
+                  "text": "Kikapcsolódást nyújtó park különféle látnivalókkal a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        26.752951,
+                        55.882114
+                  ]
+            },
+            {
+                  "name": "Elernes muiža",
+                  "text": "Egy történelmi udvarház a Daugavas Loki régióban.",
+                  "category": "historical",
+                  "coords": [
+                        26.706822,
+                        55.88718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinaburgas pilsdrupas",
+                  "text": "Resturile unei cetăți istorice din Parcul Natural Daugavas Loki.",
+                  "category": "historical",
+                  "coords": [
+                        26.724887,
+                        55.912382
+                  ]
+            },
+            {
+                  "name": "Vecpils pilskalns",
+                  "text": "Un sit arheologic al unei vechi așezări fortificate din Letonia.",
+                  "category": "historical",
+                  "coords": [
+                        26.725418,
+                        55.911184
+                  ]
+            },
+            {
+                  "name": "Atpūtas parks “Stalkers”",
+                  "text": "Un parc de recreere cu diverse atracții pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        26.752951,
+                        55.882114
+                  ]
+            },
+            {
+                  "name": "Elernes muiža",
+                  "text": "Un conac istoric situat în regiunea Daugavas Loki.",
+                  "category": "historical",
+                  "coords": [
+                        26.706822,
+                        55.88718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinaburgas pilsdrupas",
+                  "text": "Remains of a historical castle in the Daugavas Loki Nature Park.",
+                  "category": "historical",
+                  "coords": [
+                        26.724887,
+                        55.912382
+                  ]
+            },
+            {
+                  "name": "Vecpils pilskalns",
+                  "text": "An archaeological site of an ancient hillfort in Latvia.",
+                  "category": "historical",
+                  "coords": [
+                        26.725418,
+                        55.911184
+                  ]
+            },
+            {
+                  "name": "Stalkers recreation park",
+                  "text": "A recreation park offering various attractions for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        26.752951,
+                        55.882114
+                  ]
+            },
+            {
+                  "name": "Elernes muiža",
+                  "text": "A historical manor house located in the Daugavas Loki region.",
+                  "category": "historical",
+                  "coords": [
+                        26.706822,
+                        55.88718
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LV",
     name: { de: "Daugavas Loki Naturpark", hu: "Daugavas Loki Natúrpark", ro: "Parcul Natural Daugavas Loki", en: "Daugavas Loki Nature Park" },
@@ -318,7 +597,160 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-daugavas-loki-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-dune-reserve-life-v2",
+    id: "latvia-dune-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Ragaciems",
+                  "text": "Ein Leuchtturm am Kap Ragaciems, der der Seeschifffahrt im Golf von Riga dient.",
+                  "category": "landmark",
+                  "coords": [
+                        23.486055,
+                        57.034526
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Ein Freilichtmuseum, das traditionelle Fischerhütten und Ausrüstung in Ragaciems bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ragaciema pludmale",
+                  "text": "Ein Sandstrand an der Küste innerhalb des Dünen-Naturschutzgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497915,
+                        57.025826
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "Ein ruhiger Strandabschnitt, der für seine natürlichen Dünen und Küstenlandschaft bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ragaciema bāka",
+                  "text": "A Ragaciems-fokon található világítótorony, amely a Rigai-öböl hajózását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        23.486055,
+                        57.034526
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Szabadtéri múzeum, amely a hagyományos halászkunyhókat és eszközöket őrzi Ragaciemsben.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ragaciema pludmale",
+                  "text": "Homokos tengerpart a dűne-természetvédelmi területen belül.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497915,
+                        57.025826
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "Csendes tengerparti szakasz, amely természeti dűnéiről és partmenti tájáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ragaciema bāka",
+                  "text": "Un far situat pe capul Ragaciems, care servește navigației maritime în Golful Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        23.486055,
+                        57.034526
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Un muzeu în aer liber care păstrează colibe de pescuit tradiționale și echipamente în Ragaciems.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ragaciema pludmale",
+                  "text": "O plajă cu nisip situată de-a lungul coastei în Rezervația Naturală a Dunelor.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497915,
+                        57.025826
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "O zonă de plajă liniștită, cunoscută pentru dunele sale naturale și peisajul de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ragaciema bāka",
+                  "text": "A lighthouse located on the Ragaciems cape, serving maritime navigation in the Gulf of Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        23.486055,
+                        57.034526
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "An open-air museum preserving traditional fishing huts and equipment in Ragaciems.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ragaciema pludmale",
+                  "text": "A sandy beach located along the coast within the Dune Nature Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497915,
+                        57.025826
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "A quiet beach area known for its natural dunes and coastal scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Dünen-Naturschutzgebiet", hu: "Dűne Természetvédelmi Terület", ro: "Rezervația Naturală a Dunelor", en: "Dune Nature Reserve" },
@@ -363,7 +795,268 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-dune-reserve-life-v2.webp",
   },
   {
-    id: "latvia-cinis-forest-reserve-life-v2",
+    id: "latvia-cinis-forest-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piltiņkalns - kulta vieta",
+                  "text": "Eine archäologische Stätte im Cinis-Waldreservat, die als ehemaliger kultischer Ort gilt.",
+                  "category": "historical",
+                  "coords": [
+                        25.102338,
+                        57.510377
+                  ]
+            },
+            {
+                  "name": "Rožkalnu senkapi",
+                  "text": "Eine antike Begräbnisstätte im Cinis-Waldreservat, die wichtige historische Einblicke bietet.",
+                  "category": "historical",
+                  "coords": [
+                        25.103166,
+                        57.508423
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vīķvēnu purvs”",
+                  "text": "Das Naturschutzgebiet Vīķvēni-Moor schützt ein wertvolles Feuchtgebiet-Ökosystem in Lettland.",
+                  "category": "natural",
+                  "coords": [
+                        25.144035,
+                        57.507295
+                  ]
+            },
+            {
+                  "name": "Staru akmeņi",
+                  "text": "Eine Gruppe markanter Steine im Cinis-Waldreservat, die als lokale Sehenswürdigkeit gelten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10963,
+                        57.504321
+                  ]
+            },
+            {
+                  "name": "Jaunsīmanēnu viduslaiku kapsēta",
+                  "text": "Die Ruinen eines mittelalterlichen Friedhofs im Cinis-Waldreservat zeugen von vergangener Besiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        25.07469,
+                        57.48994
+                  ]
+            },
+            {
+                  "name": "Piltiņkalns - pilskalns",
+                  "text": "Die Überreste einer historischen Wallburg im Cinis-Waldreservat, die ehemals Verteidigungszwecken diente.",
+                  "category": "historical",
+                  "coords": [
+                        25.045182,
+                        57.492373
+                  ]
+            },
+            {
+                  "name": "Mazbrenguļu vējdzirnavas",
+                  "text": "Eine historische Windmühle im Cinis-Waldreservat, die ein Denkmal lokaler Ingenieurskunst ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.139304,
+                        57.519498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piltiņkalns - kulta vieta",
+                  "text": "Régészeti lelőhely a Cinis erdőrezervátumban, amely egykori kultikus helyként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        25.102338,
+                        57.510377
+                  ]
+            },
+            {
+                  "name": "Rožkalnu senkapi",
+                  "text": "Ősi temetkezési hely a Cinis erdőrezervátumban, amely fontos történelmi betekintést nyújt.",
+                  "category": "historical",
+                  "coords": [
+                        25.103166,
+                        57.508423
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vīķvēnu purvs”",
+                  "text": "A Vīķvēni-láp természetvédelmi terület egy értékes vizes élőhelyi ökoszisztémát véd Lettországban.",
+                  "category": "natural",
+                  "coords": [
+                        25.144035,
+                        57.507295
+                  ]
+            },
+            {
+                  "name": "Staru akmeņi",
+                  "text": "Jellegzetes kövek csoportja a Cinis erdőrezervátumban, amelyek helyi látványosságnak számítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10963,
+                        57.504321
+                  ]
+            },
+            {
+                  "name": "Jaunsīmanēnu viduslaiku kapsēta",
+                  "text": "Egy középkori temető romjai a Cinis erdőrezervátumban, amelyek a múltbeli lakottságról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        25.07469,
+                        57.48994
+                  ]
+            },
+            {
+                  "name": "Piltiņkalns - pilskalns",
+                  "text": "Egy történelmi földvár maradványai a Cinis erdőrezervátumban, amely egykor védelmi célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        25.045182,
+                        57.492373
+                  ]
+            },
+            {
+                  "name": "Mazbrenguļu vējdzirnavas",
+                  "text": "Történelmi szélmalom a Cinis erdőrezervátumban, amely a helyi mérnöki munka emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        25.139304,
+                        57.519498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piltiņkalns - kulta vieta",
+                  "text": "Un sit arheologic în Rezervația Forestieră Cinis, considerat un fost loc de cult.",
+                  "category": "historical",
+                  "coords": [
+                        25.102338,
+                        57.510377
+                  ]
+            },
+            {
+                  "name": "Rožkalnu senkapi",
+                  "text": "Un sit funerar antic în Rezervația Forestieră Cinis, care oferă perspective istorice importante.",
+                  "category": "historical",
+                  "coords": [
+                        25.103166,
+                        57.508423
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vīķvēnu purvs”",
+                  "text": "Rezervația naturală „Mlaștina Vīķvēni” protejează un ecosistem valoros de zonă umedă din Letonia.",
+                  "category": "natural",
+                  "coords": [
+                        25.144035,
+                        57.507295
+                  ]
+            },
+            {
+                  "name": "Staru akmeņi",
+                  "text": "Un grup de pietre distincte în Rezervația Forestieră Cinis, considerate o atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10963,
+                        57.504321
+                  ]
+            },
+            {
+                  "name": "Jaunsīmanēnu viduslaiku kapsēta",
+                  "text": "Ruinele unui cimitir medieval din Rezervația Forestieră Cinis, mărturie a așezărilor din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        25.07469,
+                        57.48994
+                  ]
+            },
+            {
+                  "name": "Piltiņkalns - pilskalns",
+                  "text": "Vestigiile unei cetăți istorice în Rezervația Forestieră Cinis, care a servit în trecut unor scopuri defensive.",
+                  "category": "historical",
+                  "coords": [
+                        25.045182,
+                        57.492373
+                  ]
+            },
+            {
+                  "name": "Mazbrenguļu vējdzirnavas",
+                  "text": "O moară de vânt istorică în Rezervația Forestieră Cinis, fiind un monument al ingineriei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        25.139304,
+                        57.519498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piltiņkalns - kulta vieta",
+                  "text": "An archaeological site in the Cinis Forest Reserve, considered a former cult site.",
+                  "category": "historical",
+                  "coords": [
+                        25.102338,
+                        57.510377
+                  ]
+            },
+            {
+                  "name": "Rožkalnu senkapi",
+                  "text": "An ancient burial ground in the Cinis Forest Reserve, providing important historical insights.",
+                  "category": "historical",
+                  "coords": [
+                        25.103166,
+                        57.508423
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Vīķvēnu purvs”",
+                  "text": "The Vīķvēni Bog nature reserve protects a valuable wetland ecosystem in Latvia.",
+                  "category": "natural",
+                  "coords": [
+                        25.144035,
+                        57.507295
+                  ]
+            },
+            {
+                  "name": "Staru akmeņi",
+                  "text": "A group of distinct stones in the Cinis Forest Reserve, considered a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10963,
+                        57.504321
+                  ]
+            },
+            {
+                  "name": "Jaunsīmanēnu viduslaiku kapsēta",
+                  "text": "The ruins of a medieval cemetery in the Cinis Forest Reserve, witnessing past settlements.",
+                  "category": "historical",
+                  "coords": [
+                        25.07469,
+                        57.48994
+                  ]
+            },
+            {
+                  "name": "Piltiņkalns - pilskalns",
+                  "text": "The remains of a historic hillfort in the Cinis Forest Reserve, which formerly served defensive purposes.",
+                  "category": "historical",
+                  "coords": [
+                        25.045182,
+                        57.492373
+                  ]
+            },
+            {
+                  "name": "Mazbrenguļu vējdzirnavas",
+                  "text": "A historic windmill in the Cinis Forest Reserve, which is a monument of local engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        25.139304,
+                        57.519498
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "LV",
     name: { de: "Cinis Waldschutzgebiet", hu: "Cinis Erdővédelmi Terület", ro: "Rezervația Forestieră Cinis", en: "Cinis Forest Reserve" },
@@ -408,7 +1101,52 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-cinis-forest-reserve-life-v2.webp",
   },
   {
-    id: "latvia-lubans-wetland-reserve-life-v2",
+    id: "latvia-lubans-wetland-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Lubāna mitrājs”",
+                  "text": "Ein weitläufiges Feuchtgebiets-Naturschutzgebiet rund um den Lubāns-See.",
+                  "category": "natural",
+                  "coords": [
+                        26.914305,
+                        56.82883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Lubāna mitrājs”",
+                  "text": "Kiterjedt vizes élőhelyi természetvédelmi terület a Lubāns-tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        26.914305,
+                        56.82883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Lubāna mitrājs”",
+                  "text": "O vastă rezervație naturală de mlaștină în jurul lacului Lubāns.",
+                  "category": "natural",
+                  "coords": [
+                        26.914305,
+                        56.82883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Lubāna mitrājs”",
+                  "text": "A vast wetland nature reserve surrounding Lake Lubāns.",
+                  "category": "natural",
+                  "coords": [
+                        26.914305,
+                        56.82883
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LV",
     name: { de: "Lubāns Feuchtgebiet", hu: "Lubāns Vizes Élőhely", ro: "Zona Umedă Lubāns", en: "Lubāns Wetland Reserve" },
@@ -498,7 +1236,88 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-abava-valley-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-engure-lake-nature-park-life-v2",
+    id: "latvia-engure-lake-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Angernsee",
+                  "text": "Ein Naturschutzgebiet am Engure-See, bekannt für seine Wildpferde und Vögel.",
+                  "category": "natural",
+                  "coords": [
+                        23.146735,
+                        57.259761
+                  ]
+            },
+            {
+                  "name": "Zvejnieku sēta Dieniņas",
+                  "text": "Ein traditioneller Fischerhof, der Einblicke in das lokale Erbe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.173445,
+                        57.244787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas parks „Engures ezers”",
+                  "text": "Természetvédelmi terület az Engure-tónál, amely vadlovairól és madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.146735,
+                        57.259761
+                  ]
+            },
+            {
+                  "name": "Zvejnieku sēta Dieniņas",
+                  "text": "Hagyományos halászház, amely betekintést nyújt a helyi örökségbe.",
+                  "category": "landmark",
+                  "coords": [
+                        23.173445,
+                        57.244787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas parks „Engures ezers”",
+                  "text": "O rezervație naturală la lacul Engure, cunoscută pentru caii sălbatici și păsări.",
+                  "category": "natural",
+                  "coords": [
+                        23.146735,
+                        57.259761
+                  ]
+            },
+            {
+                  "name": "Zvejnieku sēta Dieniņas",
+                  "text": "O curte tradițională de pescari care oferă o privire asupra moștenirii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        23.173445,
+                        57.244787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Engure Nature Park",
+                  "text": "A nature reserve at Lake Engure, known for its wild horses and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        23.146735,
+                        57.259761
+                  ]
+            },
+            {
+                  "name": "Zvejnieku sēta Dieniņas",
+                  "text": "A traditional fisherman's yard offering a glimpse into local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        23.173445,
+                        57.244787
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LV",
     name: { de: "Engure-See Naturpark", hu: "Engure-tó Natúrpark", ro: "Parcul Natural Lacul Engure", en: "Engure Lake Nature Park" },
@@ -553,6 +1372,69 @@ export const latviaLifeV2: POI[] = [
                         23.504067,
                         57.009174
                   ]
+            },
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Ein Heimatmuseum, das die Fischereitraditionen des Küstendorfes zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Kaņiera pilskalns",
+                  "text": "Eine antike Wallburg am Ufer des Kaņieris-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        23.434371,
+                        56.991479
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Ein Freilichtmuseum mit traditionellen Netzschuppen und Fischereigeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "Ein geschütztes Naturreservat im Gebiet des Ķemeri-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "Ein ruhiger Sandstrand am Rigaischen Meerbusen, bekannt für seine natürliche Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            },
+            {
+                  "name": "Krievu salas dabas rezervāts",
+                  "text": "Ein Naturschutzgebiet zum Schutz der Artenvielfalt und der Lebensräume der Insel Krievu.",
+                  "category": "natural",
+                  "coords": [
+                        23.447567,
+                        57.009891
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "Ein Aussichtsturm mit Blick auf den Kaņieris-See und seine vielfältige Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        23.470985,
+                        57.000622
+                  ]
             }
       ],
       "hu": [
@@ -563,6 +1445,69 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         23.504067,
                         57.009174
+                  ]
+            },
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Helytörténeti múzeum, amely a tengerparti falu halászati hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Kaņiera pilskalns",
+                  "text": "Egy ősi várhely a Kaņieris-tó partjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.434371,
+                        56.991479
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Szabadtéri múzeum hagyományos hálójavító kunyhókkal és halászati emlékekkel.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "Védett természetvédelmi terület a Ķemeri Nemzeti Park területén.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "Csendes homokos strand a Rigai-öböl partján, amely természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            },
+            {
+                  "name": "Krievu salas dabas rezervāts",
+                  "text": "Természetvédelmi terület, amely a Krievu-sziget biológiai sokféleségét és élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        23.447567,
+                        57.009891
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "Kilátótorony, ahonnan rálátás nyílik a Kaņieris-tóra és annak változatos madárvilágára.",
+                  "category": "natural",
+                  "coords": [
+                        23.470985,
+                        57.000622
                   ]
             }
       ],
@@ -575,6 +1520,69 @@ export const latviaLifeV2: POI[] = [
                         23.504067,
                         57.009174
                   ]
+            },
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "Un muzeu de istorie locală care prezintă tradițiile de pescuit ale satului de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Kaņiera pilskalns",
+                  "text": "Un sit arheologic al unei cetăți antice situat lângă malul lacului Kaņieris.",
+                  "category": "historical",
+                  "coords": [
+                        23.434371,
+                        56.991479
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "Un muzeu în aer liber care prezintă colibe tradiționale pentru plase și istoria pescuitului.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "O rezervație naturală protejată în zona Parcului Național Ķemeri.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "O plajă liniștită de nisip de-a lungul Golfului Riga, cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            },
+            {
+                  "name": "Krievu salas dabas rezervāts",
+                  "text": "O rezervație naturală care protejează biodiversitatea și habitatele de pe insula Krievu.",
+                  "category": "natural",
+                  "coords": [
+                        23.447567,
+                        57.009891
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "Un turn de observare care oferă vederi asupra lacului Kaņieris și a păsărilor sale diverse.",
+                  "category": "natural",
+                  "coords": [
+                        23.470985,
+                        57.000622
+                  ]
             }
       ],
       "en": [
@@ -585,6 +1593,69 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         23.504067,
                         57.009174
+                  ]
+            },
+            {
+                  "name": "Lapmežciema muzejs",
+                  "text": "A local history museum showcasing the fishing traditions of the coastal village.",
+                  "category": "museum",
+                  "coords": [
+                        23.512177,
+                        57.000729
+                  ]
+            },
+            {
+                  "name": "Kaņiera pilskalns",
+                  "text": "An ancient hillfort site located near the shores of Lake Kaņieris.",
+                  "category": "historical",
+                  "coords": [
+                        23.434371,
+                        56.991479
+                  ]
+            },
+            {
+                  "name": "Ragaciema sedums",
+                  "text": "An open-air museum featuring traditional net sheds and fishing history.",
+                  "category": "museum",
+                  "coords": [
+                        23.494508,
+                        57.026092
+                  ]
+            },
+            {
+                  "name": "Ķemeru liegums",
+                  "text": "A protected nature reserve within the Ķemeri National Park area.",
+                  "category": "natural",
+                  "coords": [
+                        23.452036,
+                        56.982577
+                  ]
+            },
+            {
+                  "name": "Gausās jūdzes Aizraga pludmale",
+                  "text": "A quiet sandy beach along the Gulf of Riga, known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        23.458559,
+                        57.035231
+                  ]
+            },
+            {
+                  "name": "Krievu salas dabas rezervāts",
+                  "text": "A nature reserve protecting the biodiversity and habitats of Krievu Island.",
+                  "category": "natural",
+                  "coords": [
+                        23.447567,
+                        57.009891
+                  ]
+            },
+            {
+                  "name": "Bird watching tower",
+                  "text": "An observation tower providing views of Lake Kaņieris and its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        23.470985,
+                        57.000622
                   ]
             }
       ]
@@ -633,7 +1704,52 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-kanieris-lake-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-burtnieks-lake-nature-park-life-v2",
+    id: "latvia-burtnieks-lake-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matīšu evaņģēliski luteriskā baznīca",
+                  "text": "Eine historische lutherische Kirche in der Nähe des Burtnieks-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        25.159705,
+                        57.700061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matīšu evaņģēliski luteriskā baznīca",
+                  "text": "Egy történelmi evangélikus templom a Burtnieks-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        25.159705,
+                        57.700061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matīšu evaņģēliski luteriskā baznīca",
+                  "text": "O biserică luterană istorică lângă lacul Burtnieks.",
+                  "category": "religious",
+                  "coords": [
+                        25.159705,
+                        57.700061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matīšu evaņģēliski luteriskā baznīca",
+                  "text": "A historic Lutheran church near Lake Burtnieks.",
+                  "category": "religious",
+                  "coords": [
+                        25.159705,
+                        57.700061
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LV",
     name: { de: "Burtnieks-See Naturpark", hu: "Burtnieks-tó Natúrpark", ro: "Parcul Natural Lacul Burtnieks", en: "Burtnieks Lake Nature Park" },
@@ -678,7 +1794,88 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-burtnieks-lake-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-razna-national-park-life-v2",
+    id: "latvia-razna-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Padebešu kalna viduslaiku pils",
+                  "text": "Archäologische Überreste einer mittelalterlichen Burg auf einem Hügel im Rāzna-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        27.413094,
+                        56.278031
+                  ]
+            },
+            {
+                  "name": "Mākoņkalna dabas lieguma zona",
+                  "text": "Eine geschützte Naturzone rund um den historischen Hügel Mākoņkalns im Rāzna-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        27.411997,
+                        56.277962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Padebešu kalna viduslaiku pils",
+                  "text": "Egy középkori vár régészeti maradványai egy dombon, a Rāzna Nemzeti Park területén.",
+                  "category": "historical",
+                  "coords": [
+                        27.413094,
+                        56.278031
+                  ]
+            },
+            {
+                  "name": "Mākoņkalna dabas lieguma zona",
+                  "text": "Természetvédelmi övezet a történelmi Mākoņkalns-domb körül a Rāzna Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        27.411997,
+                        56.277962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Padebešu kalna viduslaiku pils",
+                  "text": "Vestigiile arheologice ale unui castel medieval situat pe un deal în Parcul Național Rāzna.",
+                  "category": "historical",
+                  "coords": [
+                        27.413094,
+                        56.278031
+                  ]
+            },
+            {
+                  "name": "Mākoņkalna dabas lieguma zona",
+                  "text": "O zonă naturală protejată care înconjoară dealul istoric Mākoņkalns în Parcul Național Rāzna.",
+                  "category": "natural",
+                  "coords": [
+                        27.411997,
+                        56.277962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Padebešu kalna viduslaiku pils",
+                  "text": "Archaeological remains of a medieval castle situated on a hill within Rāzna National Park.",
+                  "category": "historical",
+                  "coords": [
+                        27.413094,
+                        56.278031
+                  ]
+            },
+            {
+                  "name": "Mākoņkalna dabas lieguma zona",
+                  "text": "A protected nature zone surrounding the historic Mākoņkalns hill in Rāzna National Park.",
+                  "category": "natural",
+                  "coords": [
+                        27.411997,
+                        56.277962
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Rāzna Nationalpark", hu: "Rāzna Nemzeti Park", ro: "Parcul Național Rāzna", en: "Rāzna National Park" },
@@ -858,7 +2055,196 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-moricsala-nature-reserve-life-v2.webp",
   },
   {
-    id: "latvia-zilaiskalns-nature-park-life-v2",
+    id: "latvia-zilaiskalns-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Alte Grabstätten im Naturpark Zilaiskalns, die von der frühen Besiedlung zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "Eine historische Wallburg im Naturpark Zilaiskalns, die einst Verteidigungszwecken diente.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "Ein lokales Kulturhaus und Theater im Naturpark Zilaiskalns für Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Ein historisches Herrenhaus im Naturpark Zilaiskalns, heute oft als Hotel und Veranstaltungsort genutzt.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Ein traditionelles Herrenhaus im Naturpark Zilaiskalns mit regionaler Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Ősi sírhelyek a Zilaiskalns Természeti Parkban, amelyek a korai betelepülésről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "Történelmi várhely a Zilaiskalns Természeti Parkban, amely egykor védelmi célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "Helyi művelődési ház és színház a Zilaiskalns Természeti Park területén.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Történelmi kastély a Zilaiskalns Természeti Parkban, amely ma gyakran szállodaként és rendezvényhelyszínként üzemel.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Hagyományos udvarház a Zilaiskalns Természeti Parkban, a régióra jellemző építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Vechi morminte în Parcul Natural Zilaiskalns, mărturii ale așezărilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "O cetate istorică în Parcul Natural Zilaiskalns, care a servit odată scopurilor defensive.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "O casă de cultură și teatru local în Parcul Natural Zilaiskalns pentru diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "Un conac istoric în Parcul Natural Zilaiskalns, folosit astăzi adesea ca hotel și locație pentru evenimente.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "Un conac tradițional în Parcul Natural Zilaiskalns, reprezentând arhitectura regională.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapurgu senkapi",
+                  "text": "Ancient burial sites in Zilaiskalns Nature Park, evidencing early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        25.065342,
+                        57.618047
+                  ]
+            },
+            {
+                  "name": "Lapurgu pilskalns",
+                  "text": "A historical hillfort in Zilaiskalns Nature Park that once served defensive purposes.",
+                  "category": "historical",
+                  "coords": [
+                        25.067865,
+                        57.614541
+                  ]
+            },
+            {
+                  "name": "Dikļu kultūras nams",
+                  "text": "A local culture house and theatre in Zilaiskalns Nature Park used for events.",
+                  "category": "cultural",
+                  "coords": [
+                        25.096547,
+                        57.597326
+                  ]
+            },
+            {
+                  "name": "Dikļu pils",
+                  "text": "A historical manor in Zilaiskalns Nature Park, now often used as a hotel and event venue.",
+                  "category": "historical",
+                  "coords": [
+                        25.102593,
+                        57.597853
+                  ]
+            },
+            {
+                  "name": "Budenbroku muiža",
+                  "text": "A traditional manor house in Zilaiskalns Nature Park featuring regional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        25.078968,
+                        57.613782
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Zilaiskalns Naturpark", hu: "Zilaiskalns Natúrpark", ro: "Parcul Natural Zilaiskalns", en: "Zilaiskalns Nature Park" },
@@ -993,7 +2379,196 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-liepaja-lake-nature-reserve-life-v2.webp",
   },
   {
-    id: "latvia-garkalnes-forest-nature-park-life-v2",
+    id: "latvia-garkalnes-forest-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Ādaži”",
+                  "text": "Ein Landschaftsschutzgebiet, das für seine vielfältigen natürlichen Lebensräume und Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        24.411095,
+                        57.090135
+                  ]
+            },
+            {
+                  "name": "Ādažu kultūrizglītības centrs",
+                  "text": "Ein lokales Kultur- und Bildungszentrum, in dem verschiedene Theateraufführungen und Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331937,
+                        57.080305
+                  ]
+            },
+            {
+                  "name": "Alderu pludmale",
+                  "text": "Ein Strand am See, der eine natürliche Umgebung zum Schwimmen und Entspannen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.342237,
+                        57.053074
+                  ]
+            },
+            {
+                  "name": "Utaiņkalns",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        24.350011,
+                        57.061455
+                  ]
+            },
+            {
+                  "name": "Dzīvo sapņu dārzs",
+                  "text": "Eine lokale Sehenswürdigkeit mit thematischen Gartenanlagen und Freizeitbereichen im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        24.32614,
+                        57.077358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Ādaži”",
+                  "text": "Védett tájterület, amely változatos természetes élőhelyeiről és biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.411095,
+                        57.090135
+                  ]
+            },
+            {
+                  "name": "Ādažu kultūrizglītības centrs",
+                  "text": "Helyi kulturális és oktatási központ, amely különféle színházi előadásoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331937,
+                        57.080305
+                  ]
+            },
+            {
+                  "name": "Alderu pludmale",
+                  "text": "Tóparti strand, amely természetes környezetet kínál az úszáshoz és a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        24.342237,
+                        57.053074
+                  ]
+            },
+            {
+                  "name": "Utaiņkalns",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        24.350011,
+                        57.061455
+                  ]
+            },
+            {
+                  "name": "Dzīvo sapņu dārzs",
+                  "text": "Helyi látványosság tematikus kerti bemutatókkal és szabadtéri pihenőhelyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        24.32614,
+                        57.077358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Ādaži”",
+                  "text": "O arie peisagistică protejată, cunoscută pentru habitatele sale naturale diverse și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        24.411095,
+                        57.090135
+                  ]
+            },
+            {
+                  "name": "Ādažu kultūrizglītības centrs",
+                  "text": "Un centru cultural și educațional local care găzduiește diverse spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331937,
+                        57.080305
+                  ]
+            },
+            {
+                  "name": "Alderu pludmale",
+                  "text": "O plajă la lac care oferă un cadru natural pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.342237,
+                        57.053074
+                  ]
+            },
+            {
+                  "name": "Utaiņkalns",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        24.350011,
+                        57.061455
+                  ]
+            },
+            {
+                  "name": "Dzīvo sapņu dārzs",
+                  "text": "O atracție locală cu grădini tematice și zone de agrement în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        24.32614,
+                        57.077358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aizsargājamo ainavu apvidus „Ādaži”",
+                  "text": "A protected landscape area known for its diverse natural habitats and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        24.411095,
+                        57.090135
+                  ]
+            },
+            {
+                  "name": "Ādažu kultūrizglītības centrs",
+                  "text": "A local cultural and education center that hosts various theatrical performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.331937,
+                        57.080305
+                  ]
+            },
+            {
+                  "name": "Alderu pludmale",
+                  "text": "A lakeside beach offering a natural setting for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.342237,
+                        57.053074
+                  ]
+            },
+            {
+                  "name": "Utaiņkalns",
+                  "text": "A scenic viewpoint offering panoramic vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.350011,
+                        57.061455
+                  ]
+            },
+            {
+                  "name": "Dzīvo sapņu dārzs",
+                  "text": "A local attraction featuring themed garden displays and outdoor leisure areas.",
+                  "category": "landmark",
+                  "coords": [
+                        24.32614,
+                        57.077358
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "LV",
     name: { de: "Garkalne Wald-Naturpark", hu: "Garkalne Erdei Natúrpark", ro: "Parcul Natural Forestier Garkalne", en: "Garkalne Forest Nature Park" },
@@ -1083,7 +2658,88 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-valmiera-nature-site-life-v2.webp",
   },
   {
-    id: "latvia-kemeru-moor-life-v2",
+    id: "latvia-kemeru-moor-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lielā Ķemeru tīreļa liegums",
+                  "text": "Ein Naturschutzgebiet im Kemeri-Hochmoor, das für seine einzigartige Moorlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        23.461859,
+                        56.878784
+                  ]
+            },
+            {
+                  "name": "Trīs priedes bedrē",
+                  "text": "Eine lokale Naturattraktion im Gebiet des Kemeri-Hochmoors.",
+                  "category": "landmark",
+                  "coords": [
+                        23.530065,
+                        56.889059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lielā Ķemeru tīreļa liegums",
+                  "text": "Természetvédelmi terület a Kemeri-mocsárban, amely egyedülálló lápi tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        23.461859,
+                        56.878784
+                  ]
+            },
+            {
+                  "name": "Trīs priedes bedrē",
+                  "text": "Helyi természeti látványosság a Kemeri-mocsár területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.530065,
+                        56.889059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lielā Ķemeru tīreļa liegums",
+                  "text": "O rezervație naturală în mlaștina Kemeri, cunoscută pentru peisajul său unic de turbărie.",
+                  "category": "natural",
+                  "coords": [
+                        23.461859,
+                        56.878784
+                  ]
+            },
+            {
+                  "name": "Trīs priedes bedrē",
+                  "text": "O atracție naturală locală în zona mlaștinii Kemeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.530065,
+                        56.889059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lielā Ķemeru tīreļa liegums",
+                  "text": "A nature reserve in the Kemeri bog, known for its unique mire landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.461859,
+                        56.878784
+                  ]
+            },
+            {
+                  "name": "Trīs priedes bedrē",
+                  "text": "A local natural attraction in the Kemeri bog area.",
+                  "category": "landmark",
+                  "coords": [
+                        23.530065,
+                        56.889059
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Kemeri Hochmoor", hu: "Kemeri Magasláp", ro: "Mlaștina Kemeri", en: "Kemeri Raised Bog" },

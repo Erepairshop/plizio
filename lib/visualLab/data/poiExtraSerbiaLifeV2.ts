@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const serbiaLifeV2: POI[] = [
 
   {
-    id: "serbia-tara-national-forest-life-v2",
+    id: "serbia-tara-national-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Tara",
+                  "text": "Ein beeindruckender Nationalpark in Serbien, der für seine dichten Wälder, Schluchten und die vielfältige Tierwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Ein berühmter Aussichtspunkt im Tara-Nationalpark mit spektakulärem Blick auf die Schlucht des Flusses Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Ein malerischer Aussichtspunkt, der eine Panoramaperspektive auf die bergige Tara-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Lenyűgöző szerbiai nemzeti park, amely sűrű erdőiről, kanyonjairól és változatos élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "A Tara Nemzeti Park híres kilátóhelye, ahonnan látványos kilátás nyílik a Drina folyó kanyonjára.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Festői kilátópont, amely panorámás rálátást nyújt a Tara hegyvidéki régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Un parc național uimitor din Serbia, cunoscut pentru pădurile sale dese, canioanele și fauna sălbatică diversă.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Un punct de observație faimos din Parcul Național Tara care oferă vederi spectaculoase asupra canionului râului Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Un punct de belvedere pitoresc care oferă o perspectivă panoramică asupra regiunii muntoase Tara.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tara National Park",
+                  "text": "A stunning national park in Serbia known for its dense forests, canyons, and diverse wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Kozja stena",
+                  "text": "A famous viewpoint in Tara National Park providing spectacular views of the Drina River canyon.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "A scenic lookout point offering a panoramic perspective of the mountainous Tara region.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Tara Nationalpark", hu: "Tara Nemzeti Park", ro: "Parcul Național Tara", en: "Tara National Park" },
@@ -138,7 +255,52 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-zasavica-wetlands-life-v2.webp",
   },
   {
-    id: "serbia-subotica-zoo-life-v2",
+    id: "serbia-subotica-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Letnja pozornica",
+                  "text": "Das Sommertheater ist ein Veranstaltungsort im Freien im Zoo von Palić.",
+                  "category": "cultural",
+                  "coords": [
+                        19.756743,
+                        46.101029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Letnja pozornica",
+                  "text": "A nyári színház egy szabadtéri előadóhely a Palicsi Állatkertben.",
+                  "category": "cultural",
+                  "coords": [
+                        19.756743,
+                        46.101029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Letnja pozornica",
+                  "text": "Teatrul de vară este un loc de spectacole în aer liber situat la Grădina Zoologică Palić.",
+                  "category": "cultural",
+                  "coords": [
+                        19.756743,
+                        46.101029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Summer theater",
+                  "text": "The Summer theater is an outdoor performance venue located at the Palić Zoo.",
+                  "category": "cultural",
+                  "coords": [
+                        19.756743,
+                        46.101029
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "RS",
     name: { de: "Tierpark Palić", hu: "Palicsi Állatkert", ro: "Grădina Zoologică Palić", en: "Palić Zoo" },
@@ -228,7 +390,304 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-golija-nature-park-life-v2.webp",
   },
   {
-    id: "serbia-belgrade-botanical-garden-life-v2",
+    id: "serbia-belgrade-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Berühmter historischer Brunnen in der Belgrader Festung.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Archäologische Überreste der mittelalterlichen Burg des Despoten Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Nationalmuseum zur politischen und kulturellen Geschichte Serbiens.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Museum in Belgrad, das die Geschichte der serbischen Eisenbahn dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Wohnung.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Museum im ehemaligen Atelier des bedeutenden serbischen Malers Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Privates Museum in Belgrad mit einer Sammlung moderner und zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Museum zur Geschichte von Post, Telegrafie und Telefonie in Serbien.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Híres történelmi kút a belgrádi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Sztefan Lazarevics despota középkori várának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Szerbia politikai és kulturális történelmének nemzeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Belgrádi múzeum, amely a szerb vasút történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma egykori lakásában.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Múzeum Paja Jovanović neves szerb festőművész egykori műtermében.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánmúzeum Belgrádban modern és kortárs művészeti gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Faimoasa fântână istorică din cetatea Belgradului.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul național dedicat istoriei politice și culturale a Serbiei.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Muzeu în Belgrad care documentează istoria căilor ferate sârbe.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Muzeu memorial dedicat laureatului Nobel Ivo Andrić în fostul său apartament.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Muzeu în fostul atelier al renumitului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Muzeu privat din Belgrad cu o colecție de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Muzeu dedicat istoriei poștei, telegrafiei și telefoniei în Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "Famous historic well located in the Belgrade Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Archaeological remains of the medieval castle of Despot Stefan Lazarević.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "National museum dedicated to the political and cultural history of Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Museum in Belgrade documenting the history of Serbian railways.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "Memorial museum for Nobel laureate Ivo Andrić in his former apartment.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "Museum in the former studio of the prominent Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "Private museum in Belgrade with a collection of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "Museum dedicated to the history of post, telegraphy, and telephony in Serbia.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Botanischer Garten Jevremovac", hu: "Jevremovac Botanikus Kert", ro: "Grădina Botanică Jevremovac", en: "Jevremovac Botanical Garden" },
@@ -273,7 +732,88 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-belgrade-botanical-garden-life-v2.webp",
   },
   {
-    id: "serbia-stara-planina-park-life-v2",
+    id: "serbia-stara-planina-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Ein markanter Gipfel und Skigebiet im Naturpark Stara Planina in Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Ein Aussichtspunkt im Naturpark Stara Planina, der weite Ausblicke auf die Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Jellegzetes hegycsúcs és síközpont a szerbiai Stara Planina Natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Kilátóhely a Stara Planina Natúrparkban, ahonnan tágas kilátás nyílik a hegyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бабин зуб",
+                  "text": "Un vârf proeminent și stațiune de schi în Parcul Natural Stara Planina din Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Un punct de observație în Parcul Natural Stara Planina, oferind vederi largi asupra peisajului montan.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babin Zub",
+                  "text": "A prominent peak and ski resort area in the Stara Planina Nature Park in Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "A viewpoint in the Stara Planina Nature Park offering expansive views of the mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Naturpark Stara Planina", hu: "Stara Planina Park", ro: "Parcul Natural Stara Planina", en: "Stara Planina Nature Park" },
@@ -363,7 +903,160 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-carska-bara-reserve-life-v2.webp",
   },
   {
-    id: "serbia-ovcar-kablar-reserve-life-v2",
+    id: "serbia-ovcar-kablar-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "Eine malerische Kalksteinschlucht der Westlichen Morava mit zahlreichen Klöstern.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "Museum zur Naturgeschichte und Artenvielfalt der Region Ovčar-Kablar.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Der höchste Gipfel der Ovčar-Kablar-Schlucht mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "Eine kleine Kirche oder Kapelle im Gebiet der Ovčar-Kablar-Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "A Nyugati-Morava festői mészkőszurdoka, amely számos kolostoráról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "Az Ovčar-Kablar régió természetrajzát és élővilágát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Az Ovčar-Kablar-szurdok legmagasabb csúcsa, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "Kis templom vagy kápolna az Ovčar-Kablar-szurdok területén.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Овчарско-кабларска клисура",
+                  "text": "Defileu calcaros pitoresc al râului Morava de Vest, cunoscut pentru numeroasele sale mănăstiri.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Природњачки центар",
+                  "text": "Muzeu dedicat istoriei naturale și biodiversității regiunii Ovčar-Kablar.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Овчар",
+                  "text": "Cel mai înalt vârf din Defileul Ovčar-Kablar, oferind vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Црква Савиње",
+                  "text": "O mică biserică sau capelă situată în zona Defileului Ovčar-Kablar.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ovčar-Kablar Gorge",
+                  "text": "A scenic limestone gorge of the West Morava river known for its many monasteries.",
+                  "category": "natural",
+                  "coords": [
+                        20.189606,
+                        43.908867
+                  ]
+            },
+            {
+                  "name": "Natural History Centre",
+                  "text": "Museum focused on the natural history and biodiversity of the Ovčar-Kablar region.",
+                  "category": "museum",
+                  "coords": [
+                        20.187656,
+                        43.900238
+                  ]
+            },
+            {
+                  "name": "Ovčar",
+                  "text": "The highest peak of the Ovčar-Kablar Gorge, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.216064,
+                        43.89664
+                  ]
+            },
+            {
+                  "name": "Savinje Church",
+                  "text": "A small church or chapel located within the Ovčar-Kablar Gorge area.",
+                  "category": "religious",
+                  "coords": [
+                        20.191583,
+                        43.907607
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Naturschutzgebiet Ovčar-Kablar", hu: "Ovčar-Kablar Természetvédelmi Terület", ro: "Rezervația Ovčar-Kablar", en: "Ovčar-Kablar Nature Reserve" },
@@ -408,7 +1101,304 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-ovcar-kablar-reserve-life-v2.webp",
   },
   {
-    id: "serbia-veliki-ratno-ostrvo-life-v2",
+    id: "serbia-veliki-ratno-ostrvo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Römischer Brunnen",
+                  "text": "Der Römische Brunnen in der Belgrader Festung wurde bekanntlich von Alfred Hitchcock besucht.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Die Burgruine von Stefan Lazarević in der Belgrader Festung wurde 1690 weitgehend zerstört.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Das Historische Museum von Serbien in Belgrad bewahrt die Insignien serbischer Könige auf.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Das Eisenbahnmuseum in Belgrad, gegründet 1950, zeigt die Geschichte der Eisenbahn.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Ein Gedenkmuseum in Belgrad, das dem Leben und Werk des Nobelpreisträgers Ivo Andrić gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Dieses Museum zeigt das Werk und den persönlichen Nachlass des bedeutenden serbischen Malers Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Ein privates Kunstmuseum, das eine bedeutende Sammlung moderner und zeitgenössischer Werke beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Ein Fachmuseum in Belgrad, das die Geschichte des Post-, Telegrafen- und Telefonwesens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римски бунар",
+                  "text": "A belgrádi erődítményben található Római-kutat Alfred Hitchcock is meglátogatott.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Stefan Lazarević várának romjai a belgrádi erődben nagyrészt 1690-ben pusztultak el.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "A belgrádi Szerbiai Történeti Múzeum a szerb királyok koronázási jelvényeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Az 1950-ben alapított belgrádi Vasúttörténeti Múzeum a vasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "A Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Ez a múzeum a neves szerb festő, Paja Jovanović munkásságát és személyes hagyatékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Magánkézben lévő művészeti múzeum, amely modern és kortárs alkotások jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Belgrádi szakmúzeum, amely a posta, a távíró és a telefon történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римски бунар",
+                  "text": "Purgatoriul Roman din cetatea Belgrad a fost vizitat de faimosul Alfred Hitchcock.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "text": "Ruinele castelului lui Stefan Lazarević din cetatea Belgrad au fost în mare parte distruse în 1690.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Историјски музеј Србије",
+                  "text": "Muzeul Istoric al Serbiei din Belgrad păstrează însemnele regale ale regilor sârbi.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Железнички музеј",
+                  "text": "Muzeul Căilor Ferate din Belgrad, fondat în 1950, prezintă istoria căilor ferate.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Музеј Иве Андрића",
+                  "text": "Un muzeu memorial dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Музеј Паје Јовановића",
+                  "text": "Acest muzeu prezintă opera și moștenirea personală a importantului pictor sârb Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Музеј Цептер",
+                  "text": "Un muzeu de artă privat care găzduiește o colecție importantă de lucrări moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "ПТТ музеј",
+                  "text": "Un muzeu specializat din Belgrad care documentează istoria serviciilor poștale, telegrafice și telefonice.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Well",
+                  "text": "The Roman Well in Belgrade Fortress was famously visited by Alfred Hitchcock.",
+                  "category": "museum",
+                  "coords": [
+                        20.448182,
+                        44.823082
+                  ]
+            },
+            {
+                  "name": "Remains of Despot Stefan Lazarevic's Castle",
+                  "text": "Stefan Lazarevic's Castle ruins in Belgrade Fortress were largely destroyed in 1690.",
+                  "category": "historical",
+                  "coords": [
+                        20.448974,
+                        44.824034
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Serbia",
+                  "text": "Historical Museum of Serbia in Belgrade holds the regalia of Serbian kings.",
+                  "category": "museum",
+                  "coords": [
+                        20.463766,
+                        44.812489
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Railway Museum in Belgrade, founded in 1950, showcases rail history.",
+                  "category": "museum",
+                  "coords": [
+                        20.458098,
+                        44.805913
+                  ]
+            },
+            {
+                  "name": "Ivo Andric Museum",
+                  "text": "A memorial museum dedicated to the life and work of the Nobel Prize-winning author Ivo Andrić.",
+                  "category": "museum",
+                  "coords": [
+                        20.463782,
+                        44.809649
+                  ]
+            },
+            {
+                  "name": "Muzej Paje Jovanovića",
+                  "text": "This museum showcases the work and personal legacy of the prominent Serbian painter Paja Jovanović.",
+                  "category": "museum",
+                  "coords": [
+                        20.464321,
+                        44.80749
+                  ]
+            },
+            {
+                  "name": "Zepter Museum",
+                  "text": "A private art museum housing a significant collection of modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        20.455944,
+                        44.818557
+                  ]
+            },
+            {
+                  "name": "PTT Museum",
+                  "text": "A specialized museum in Belgrade documenting the history of postal, telegraph, and telephone services.",
+                  "category": "museum",
+                  "coords": [
+                        20.468044,
+                        44.812585
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "RS",
     name: { de: "Große Kriegsinsel", hu: "Nagy-Had-sziget", ro: "Insula Mare de Război", en: "Great War Island" },
@@ -453,7 +1443,124 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-veliki-ratno-ostrvo-life-v2.webp",
   },
   {
-    id: "serbia-kopaonik-park-life-v2",
+    id: "serbia-kopaonik-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Archäologische Stätte mit Resten einer frühchristlichen Basilika.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Der höchste Gipfel des Kopaonik-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein Gedenkmonument im Kopaonik-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Régészeti lelőhely egy kora keresztény bazilika maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "A Kopaonik-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Emlékmű a Kopaonik Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Sit arheologic cu vestigiile unei bazilici timpurii creștine.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Панчићев врх",
+                  "text": "Cel mai înalt vârf al munților Kopaonik.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un monument comemorativ în Parcul Național Kopaonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkvine, Nebeske Stolice",
+                  "text": "Archaeological site with remains of an early Christian basilica.",
+                  "category": "historical",
+                  "coords": [
+                        20.835814,
+                        43.26188
+                  ]
+            },
+            {
+                  "name": "Panchichev vrh",
+                  "text": "The highest peak of the Kopaonik mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        20.823663,
+                        43.269255
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A commemorative monument in Kopaonik National Park.",
+                  "category": "historical",
+                  "coords": [
+                        20.818674,
+                        43.272555
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Nationalpark Kopaonik", hu: "Kopaonik Nemzeti Park", ro: "Parcul Național Kopaonik", en: "Kopaonik National Park" },
@@ -498,7 +1605,124 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-kopaonik-park-life-v2.webp",
   },
   {
-    id: "serbia-fruska-gora-park-life-v2",
+    id: "serbia-fruska-gora-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Црвени Чот",
+                  "text": "Crveni Čot ist mit 539 Metern der höchste Gipfel im Nationalpark Fruška Gora.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Brankovac ist ein beliebter Aussichtspunkt und Rastplatz im Gebirge Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            },
+            {
+                  "name": "Манастир Бешеновo",
+                  "text": "Das Kloster Besenovo ist eine historische orthodoxe Gebetsstätte in der Fruška Gora.",
+                  "category": "religious",
+                  "coords": [
+                        19.707637,
+                        45.116948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Црвени Чот",
+                  "text": "A Crveni Čot az 539 méteres magasságával a Fruška Gora Nemzeti Park legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Brankovac egy népszerű kilátó és pihenőhely a Fruška Gora hegyei között.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            },
+            {
+                  "name": "Манастир Бешеновo",
+                  "text": "A Besenovo kolostor egy történelmi ortodox vallási helyszín a Fruška Gora területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.707637,
+                        45.116948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Црвени Чот",
+                  "text": "Crveni Čot este cel mai înalt vârf din Parcul Național Fruška Gora, având 539 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Brankovac este un punct de belvedere și loc de popas popular în munții Fruška Gora.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            },
+            {
+                  "name": "Манастир Бешеновo",
+                  "text": "Mănăstirea Besenovo este un lăcaș de cult ortodox istoric situat în Fruška Gora.",
+                  "category": "religious",
+                  "coords": [
+                        19.707637,
+                        45.116948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crveni Čot",
+                  "text": "Crveni Čot is the highest peak in Fruška Gora National Park, reaching 539 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        19.711478,
+                        45.151032
+                  ]
+            },
+            {
+                  "name": "Brankovac",
+                  "text": "Brankovac is a popular viewpoint and resting spot in the Fruška Gora mountains.",
+                  "category": "natural",
+                  "coords": [
+                        19.748514,
+                        45.15666
+                  ]
+            },
+            {
+                  "name": "Besenovo monastery",
+                  "text": "Besenovo monastery is a historic Orthodox place of worship located in Fruška Gora.",
+                  "category": "religious",
+                  "coords": [
+                        19.707637,
+                        45.116948
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Nationalpark Fruška Gora", hu: "Fruška Gora Nemzeti Park", ro: "Parcul Național Fruška Gora", en: "Fruška Gora National Park" },
@@ -588,7 +1812,196 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-djavolja-varos-life-v2.webp",
   },
   {
-    id: "serbia-uvac-canyon-life-v2",
+    id: "serbia-uvac-canyon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ледена пећина",
+                  "text": "Eine Höhle im Uvac-Canyon, die für ihre ganzjährig niedrigen Temperaturen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.954497,
+                        43.356941
+                  ]
+            },
+            {
+                  "name": "меандри реке Увац (Увачко језеро)",
+                  "text": "Die spektakulären Windungen des Flusses Uvac in einer tiefen Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        19.959475,
+                        43.357398
+                  ]
+            },
+            {
+                  "name": "Молитва",
+                  "text": "Einer der bekanntesten Aussichtspunkte über die Mäander des Flusses Uvac.",
+                  "category": "natural",
+                  "coords": [
+                        19.961763,
+                        43.360697
+                  ]
+            },
+            {
+                  "name": "Велики врх",
+                  "text": "Ein Berggipfel im Uvac-Reservat mit Panoramablick auf die Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        19.952808,
+                        43.357477
+                  ]
+            },
+            {
+                  "name": "Uvac viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das Uvac-Naturschutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.970513,
+                        43.355463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ледена пећина",
+                  "text": "Barlang az Uvac-kanyonban, amely az egész évben alacsony hőmérsékletéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.954497,
+                        43.356941
+                  ]
+            },
+            {
+                  "name": "меандри реке Увац (Увачко језеро)",
+                  "text": "Az Uvac-folyó látványos kanyarulatai a mély szurdokvölgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.959475,
+                        43.357398
+                  ]
+            },
+            {
+                  "name": "Молитва",
+                  "text": "Az Uvac-folyó kanyarulataira néző egyik legismertebb kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        19.961763,
+                        43.360697
+                  ]
+            },
+            {
+                  "name": "Велики врх",
+                  "text": "Hegycsúcs az Uvac-rezervátumban, panorámás kilátással a szurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        19.952808,
+                        43.357477
+                  ]
+            },
+            {
+                  "name": "Uvac viewpoint",
+                  "text": "Kilátóhely, amely tágas rálátást biztosít az Uvac természetvédelmi területre.",
+                  "category": "natural",
+                  "coords": [
+                        19.970513,
+                        43.355463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ледена пећина",
+                  "text": "O peșteră în canionul Uvac, cunoscută pentru temperaturile scăzute tot anul.",
+                  "category": "landmark",
+                  "coords": [
+                        19.954497,
+                        43.356941
+                  ]
+            },
+            {
+                  "name": "меандри реке Увац (Увачко језеро)",
+                  "text": "Meandrele spectaculoase ale râului Uvac într-un defileu adânc.",
+                  "category": "landmark",
+                  "coords": [
+                        19.959475,
+                        43.357398
+                  ]
+            },
+            {
+                  "name": "Молитва",
+                  "text": "Unul dintre cele mai faimoase puncte de belvedere peste meandrele râului Uvac.",
+                  "category": "natural",
+                  "coords": [
+                        19.961763,
+                        43.360697
+                  ]
+            },
+            {
+                  "name": "Велики врх",
+                  "text": "Un vârf montan în rezervația Uvac, cu vedere panoramică asupra defileului.",
+                  "category": "natural",
+                  "coords": [
+                        19.952808,
+                        43.357477
+                  ]
+            },
+            {
+                  "name": "Uvac viewpoint",
+                  "text": "Un punct de observație ce oferă o vedere largă asupra rezervației Uvac.",
+                  "category": "natural",
+                  "coords": [
+                        19.970513,
+                        43.355463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ledena cave",
+                  "text": "A cave in the Uvac Canyon known for its low temperatures year-round.",
+                  "category": "landmark",
+                  "coords": [
+                        19.954497,
+                        43.356941
+                  ]
+            },
+            {
+                  "name": "Meanders of Uvac river (Uvac lake)",
+                  "text": "The spectacular meanders of the Uvac river in a deep limestone gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        19.959475,
+                        43.357398
+                  ]
+            },
+            {
+                  "name": "Molitva",
+                  "text": "One of the most famous viewpoints overlooking the meanders of the Uvac river.",
+                  "category": "natural",
+                  "coords": [
+                        19.961763,
+                        43.360697
+                  ]
+            },
+            {
+                  "name": "Veliki vrh",
+                  "text": "A mountain peak in the Uvac reserve with panoramic views of the gorge.",
+                  "category": "natural",
+                  "coords": [
+                        19.952808,
+                        43.357477
+                  ]
+            },
+            {
+                  "name": "Uvac viewpoint",
+                  "text": "An observation point providing a broad view over the Uvac nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        19.970513,
+                        43.355463
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "RS",
     name: { de: "Uvac Schlucht", hu: "Uvac szurdok", ro: "Defileul Uvac", en: "Uvac Canyon" },
@@ -678,7 +2091,304 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-djerdap-park-life-v2.webp",
   },
   {
-    id: "serbia-rospi-cuprija-life-v2",
+    id: "serbia-rospi-cuprija-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pan Teatar",
+                  "text": "Ein bekanntes Theater in Belgrad, das vor allem für seine Kindervorstellungen beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        20.497992,
+                        44.795741
+                  ]
+            },
+            {
+                  "name": "Музеј Надежде и Растка Петровића",
+                  "text": "Ein Gedenkmuseum in Belgrad, das dem Leben und Werk der Geschwister Petrović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.478824,
+                        44.814541
+                  ]
+            },
+            {
+                  "name": "Zvezdara-Wald",
+                  "text": "Ein großer Waldpark und Naturschutzgebiet in Belgrad, ein wichtiges Naherholungsgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        20.508967,
+                        44.804073
+                  ]
+            },
+            {
+                  "name": "Театар Вук",
+                  "text": "Eine bedeutende Kultureinrichtung und ein Theater im Belgrader Stadtteil Zvezdara.",
+                  "category": "cultural",
+                  "coords": [
+                        20.481273,
+                        44.803757
+                  ]
+            },
+            {
+                  "name": "Стојичино брдо",
+                  "text": "Ein Hügel im Belgrader Stadtteil Zvezdara mit Blick auf die umliegenden Gebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        20.535756,
+                        44.777066
+                  ]
+            },
+            {
+                  "name": "Липак",
+                  "text": "Eine lokale Erhebung am Rande von Belgrad innerhalb des Zvezdara-Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.553144,
+                        44.811901
+                  ]
+            },
+            {
+                  "name": "Trace Elliot",
+                  "text": "Eine lokale Sehenswürdigkeit oder ein interessanter Orientierungspunkt in Rospi Ćuprija.",
+                  "category": "landmark",
+                  "coords": [
+                        20.493976,
+                        44.790964
+                  ]
+            },
+            {
+                  "name": "Galerija slika Beli anđeo",
+                  "text": "Eine Kunstgalerie in Belgrad, die Werke zeitgenössischer serbischer Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.488699,
+                        44.800088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pan Teatar",
+                  "text": "Ismert belgrádi színház, amely elsősorban gyermekelőadásairól népszerű.",
+                  "category": "cultural",
+                  "coords": [
+                        20.497992,
+                        44.795741
+                  ]
+            },
+            {
+                  "name": "Музеј Надежде и Растка Петровића",
+                  "text": "Belgrádi emlékmúzeum, amely a Petrović testvérek életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.478824,
+                        44.814541
+                  ]
+            },
+            {
+                  "name": "Звездарска шума",
+                  "text": "Hatalmas erdőpark és természetvédelmi terület Belgrádban, fontos pihenőhely.",
+                  "category": "natural",
+                  "coords": [
+                        20.508967,
+                        44.804073
+                  ]
+            },
+            {
+                  "name": "Театар Вук",
+                  "text": "Jelentős kulturális intézmény és színház Belgrád Zvezdara negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        20.481273,
+                        44.803757
+                  ]
+            },
+            {
+                  "name": "Стојичино брдо",
+                  "text": "Domb Belgrád Zvezdara negyedében, kilátással a környező területekre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.535756,
+                        44.777066
+                  ]
+            },
+            {
+                  "name": "Липак",
+                  "text": "Helyi magaslat Belgrád szélén, a Zvezdara-erdő területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.553144,
+                        44.811901
+                  ]
+            },
+            {
+                  "name": "Trace Elliot",
+                  "text": "Helyi látnivaló vagy érdekes tájékozódási pont Rospi Ćuprija területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.493976,
+                        44.790964
+                  ]
+            },
+            {
+                  "name": "Galerija slika Beli anđeo",
+                  "text": "Belgrádi művészeti galéria, amely kortárs szerb művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.488699,
+                        44.800088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pan Teatar",
+                  "text": "Un teatru cunoscut din Belgrad, popular în special pentru spectacolele sale pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        20.497992,
+                        44.795741
+                  ]
+            },
+            {
+                  "name": "Музеј Надежде и Растка Петровића",
+                  "text": "Un muzeu memorial din Belgrad, dedicat vieții și operei fraților Petrović.",
+                  "category": "museum",
+                  "coords": [
+                        20.478824,
+                        44.814541
+                  ]
+            },
+            {
+                  "name": "Звездарска шума",
+                  "text": "Un parc forestier mare și rezervație naturală în Belgrad, o zonă importantă de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        20.508967,
+                        44.804073
+                  ]
+            },
+            {
+                  "name": "Театар Вук",
+                  "text": "O instituție culturală proeminentă și un teatru în districtul Zvezdara din Belgrad.",
+                  "category": "cultural",
+                  "coords": [
+                        20.481273,
+                        44.803757
+                  ]
+            },
+            {
+                  "name": "Стојичино брдо",
+                  "text": "O colină în zona Zvezdara din Belgrad, oferind o perspectivă asupra zonelor limitrofe.",
+                  "category": "landmark",
+                  "coords": [
+                        20.535756,
+                        44.777066
+                  ]
+            },
+            {
+                  "name": "Липак",
+                  "text": "O colină locală la periferia Belgradului, în cadrul pădurii Zvezdara.",
+                  "category": "landmark",
+                  "coords": [
+                        20.553144,
+                        44.811901
+                  ]
+            },
+            {
+                  "name": "Trace Elliot",
+                  "text": "O atracție locală sau un punct de interes în zona Rospi Ćuprija.",
+                  "category": "landmark",
+                  "coords": [
+                        20.493976,
+                        44.790964
+                  ]
+            },
+            {
+                  "name": "Galerija slika Beli anđeo",
+                  "text": "O galerie de artă din Belgrad care prezintă lucrările unor artiști sârbi contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        20.488699,
+                        44.800088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pan Teatar",
+                  "text": "A well-known theatre in Belgrade, popular primarily for its children's performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.497992,
+                        44.795741
+                  ]
+            },
+            {
+                  "name": "Nadežda and Rastko Petrović Museum",
+                  "text": "A memorial museum in Belgrade dedicated to the life and work of the Petrović siblings.",
+                  "category": "museum",
+                  "coords": [
+                        20.478824,
+                        44.814541
+                  ]
+            },
+            {
+                  "name": "Zvezdara Forest",
+                  "text": "A large forested park and nature reserve in Belgrade, serving as an important recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        20.508967,
+                        44.804073
+                  ]
+            },
+            {
+                  "name": "Vuk Theatre",
+                  "text": "A prominent cultural institution and theatre located in the Zvezdara district of Belgrade.",
+                  "category": "cultural",
+                  "coords": [
+                        20.481273,
+                        44.803757
+                  ]
+            },
+            {
+                  "name": "Stojičino brdo",
+                  "text": "A hill in the Zvezdara district of Belgrade with views over the surrounding areas.",
+                  "category": "landmark",
+                  "coords": [
+                        20.535756,
+                        44.777066
+                  ]
+            },
+            {
+                  "name": "Lipak",
+                  "text": "A local hill on the edge of Belgrade within the Zvezdara forest.",
+                  "category": "landmark",
+                  "coords": [
+                        20.553144,
+                        44.811901
+                  ]
+            },
+            {
+                  "name": "Trace Elliot",
+                  "text": "A local attraction or point of interest in the Rospi Ćuprija area.",
+                  "category": "landmark",
+                  "coords": [
+                        20.493976,
+                        44.790964
+                  ]
+            },
+            {
+                  "name": "Galerija slika Beli anđeo",
+                  "text": "An art gallery in Belgrade showcasing works by contemporary Serbian artists.",
+                  "category": "museum",
+                  "coords": [
+                        20.488699,
+                        44.800088
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "RS",
     name: { de: "Rospi Ćuprija Feuchtgebiet", hu: "Rospi Ćuprija vizes élőhely", ro: "Zona umedă Rospi Ćuprija", en: "Rospi Ćuprija Wetlands" },
@@ -768,7 +2478,304 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-valjevo-mountains-life-v2.webp",
   },
   {
-    id: "serbia-banjska-stena-life-v2",
+    id: "serbia-banjska-stena-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Tara",
+                  "text": "Ein serbischer Nationalpark, bekannt für seine dichten Wälder und die Drina-Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Eine archäologische Stätte mit mittelalterlichen Grabsteinen im Tara-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Ein Aussichtspunkt im Tara-Nationalpark mit weitem Blick über den Drina-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Einer der bekanntesten Aussichtspunkte Serbiens im Tara-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Ein Berg-Aussichtspunkt, der spektakuläre Ausblicke auf die Tara-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Ein Aussichtspunkt im Tara-Nationalpark, ideal zur Beobachtung der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Ein Aussichtspunkt in der Nähe von Banjska Stena mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Ein Aussichtspunkt bei Banjska Stena, der weite Ausblicke über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Szerbiai nemzeti park, amely sűrű erdőiről és a Drina-kanyonról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Középkori sírköveket bemutató régészeti lelőhely a Tara Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Kilátópont a Tara Nemzeti Parkban, széles kilátással a Drina folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Szerbia egyik legismertebb kilátópontja a Tara Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Hegyi kilátópont, amely látványos kilátást nyújt a Tara-régióra.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Kilátópont a Tara Nemzeti Parkban, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Kilátópont Banjska Stena közelében, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Kilátóhely Banjska Stena területén, tágas kilátással a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Национални парк Тара",
+                  "text": "Un parc național sârbesc, cunoscut pentru pădurile sale dese și canionul Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Некропола стећака Доње Мраморје",
+                  "text": "Un sit arheologic cu pietre funerare medievale în Parcul Național Tara.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Козја стена",
+                  "text": "Un punct de observație în Parcul Național Tara, cu o vedere largă asupra râului Drina.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Бањска стена",
+                  "text": "Unul dintre cele mai faimoase puncte de observație din Serbia, în Parcul Național Tara.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "Un punct de observație montan care oferă vederi spectaculoase asupra regiunii Tara.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "Un punct de observație în Parcul Național Tara, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "Un punct de belvedere situat lângă Banjska Stena, oferind vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Велица Стена",
+                  "text": "Un punct de observație la Banjska Stena, oferind vederi largi asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tara National Park",
+                  "text": "A Serbian national park known for its dense forests and the Drina canyon.",
+                  "category": "natural",
+                  "coords": [
+                        19.390144,
+                        43.915721
+                  ]
+            },
+            {
+                  "name": "Stecci Necropolis Rastiste, Locality Urosevine",
+                  "text": "An archaeological site featuring medieval tombstones in Tara National Park.",
+                  "category": "historical",
+                  "coords": [
+                        19.353273,
+                        43.945691
+                  ]
+            },
+            {
+                  "name": "Kozja stena",
+                  "text": "A viewpoint in Tara National Park with a wide view over the Drina River.",
+                  "category": "natural",
+                  "coords": [
+                        19.428944,
+                        43.944537
+                  ]
+            },
+            {
+                  "name": "Banjska stena",
+                  "text": "One of Serbia's most famous viewpoints, located in Tara National Park.",
+                  "category": "natural",
+                  "coords": [
+                        19.401079,
+                        43.952148
+                  ]
+            },
+            {
+                  "name": "Vidikovac Oštra stena",
+                  "text": "A mountain viewpoint offering spectacular views of the Tara region.",
+                  "category": "natural",
+                  "coords": [
+                        19.4399,
+                        43.940685
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pasjača",
+                  "text": "A viewpoint in Tara National Park, ideal for observing the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        19.385708,
+                        43.952408
+                  ]
+            },
+            {
+                  "name": "Vidikovac",
+                  "text": "A scenic viewpoint located near Banjska Stena, offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.415454,
+                        43.949843
+                  ]
+            },
+            {
+                  "name": "Velica Stena",
+                  "text": "A viewpoint at Banjska Stena providing wide views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        19.411737,
+                        43.950417
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Banjska Stena Aussichtspunkt", hu: "Banjska Stena kilátó", ro: "Punctul de belvedere Banjska Stena", en: "Banjska Stena viewpoint" },
@@ -813,7 +2820,52 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-banjska-stena-life-v2.webp",
   },
   {
-    id: "serbia-zlatibor-park-life-v2",
+    id: "serbia-zlatibor-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Планина",
+                  "text": "Ein Aussichtspunkt im Naturpark Zlatibor mit weitem Blick über die serbische Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Планина",
+                  "text": "Kilátóhely a Zlatibor Natúrparkban, ahonnan pazar kilátás nyílik a szerb hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Планина",
+                  "text": "Un punct de belvedere în Parcul Natural Zlatibor, cu o vedere largă asupra munților sârbi.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint",
+                  "text": "A viewpoint in the Zlatibor Nature Park offering a vast view over the Serbian mountains.",
+                  "category": "natural",
+                  "coords": [
+                        19.690801,
+                        43.690999
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RS",
     name: { de: "Naturpark Zlatibor", hu: "Zlatibor Természetvédelmi Park", ro: "Parcul Natural Zlatibor", en: "Zlatibor Nature Park" },
@@ -948,7 +3000,196 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-besna-kobila-life-v2.webp",
   },
   {
-    id: "serbia-stara-planina-waterfalls-life-v2",
+    id: "serbia-stara-planina-waterfalls-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "Ein Museum, das der Kultur und Geschichte der Menschen des Balkangebirges gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Бабин зуб",
+                  "text": "Ein markanter Berggipfel und beliebtes Touristenziel im Balkangebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "Eine natürliche Sehenswürdigkeit im Gebiet der Stara-Planina-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Markante rote Felsformationen im Balkangebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "A Balkán-hegység lakóinak kultúráját és történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Бабин зуб",
+                  "text": "Jellegzetes hegycsúcs és népszerű turisztikai célpont a Balkán-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Kilátópont a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "Természeti látnivaló a Stara Planina-vízesések környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Jellegzetes vörös sziklaalakzatok a Balkán-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј живота старопланинског човека",
+                  "text": "Un muzeu dedicat culturii și istoriei oamenilor din Munții Balcani.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Бабин зуб",
+                  "text": "Un vârf montan distinctiv și o destinație turistică populară în Munții Balcani.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "Un punct de belvedere cu vedere spre peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "O atracție naturală în zona cascadelor din Stara Planina.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Crvene stene",
+                  "text": "Formațiuni stâncoase roșii distinctive în Munții Balcani.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Stara planina People",
+                  "text": "A museum dedicated to the culture and history of the people of the Balkan Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        22.680107,
+                        43.339884
+                  ]
+            },
+            {
+                  "name": "Babin Zub",
+                  "text": "A distinctive mountain peak and popular tourist destination in the Balkan Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.609002,
+                        43.36943
+                  ]
+            },
+            {
+                  "name": "Plaža",
+                  "text": "A viewpoint offering views of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.624649,
+                        43.37449
+                  ]
+            },
+            {
+                  "name": "Kovani Do",
+                  "text": "A natural attraction located in the Stara Planina waterfalls area.",
+                  "category": "landmark",
+                  "coords": [
+                        22.690606,
+                        43.341299
+                  ]
+            },
+            {
+                  "name": "Red rocks",
+                  "text": "Distinctive red rock formations located in the Balkan Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.668128,
+                        43.335324
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "RS",
     name: { de: "Wasserfälle der Stara Planina", hu: "Stara Planina vízesései", ro: "Cascadele din Stara Planina", en: "Stara Planina Waterfalls" },
@@ -1083,7 +3324,52 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-suva-planina-life-v2.webp",
   },
   {
-    id: "serbia-vlasina-lake-life-v2",
+    id: "serbia-vlasina-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Čukar",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Vlasina-See.",
+                  "category": "natural",
+                  "coords": [
+                        22.318383,
+                        42.731144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Čukar",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a Vlaszina-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        22.318383,
+                        42.731144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Čukar",
+                  "text": "Un punct de observație care oferă vederi asupra lacului Vlasina.",
+                  "category": "natural",
+                  "coords": [
+                        22.318383,
+                        42.731144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Čukar",
+                  "text": "A scenic viewpoint offering views over Vlasina Lake.",
+                  "category": "natural",
+                  "coords": [
+                        22.318383,
+                        42.731144
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RS",
     name: { de: "Vlasina-See", hu: "Vlasina-tó", ro: "Lacul Vlasina", en: "Vlasina Lake" },
@@ -1128,7 +3414,88 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-vlasina-lake-life-v2.webp",
   },
   {
-    id: "serbia-goc-mountain-life-v2",
+    id: "serbia-goc-mountain-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Кавгалија",
+                  "text": "Ein markanter Gipfel auf dem Berg Goč, der Ausblicke über die umliegende Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.680257,
+                        43.52546
+                  ]
+            },
+            {
+                  "name": "Чукар",
+                  "text": "Ein Berggipfel inmitten der malerischen Landschaft des Berges Goč.",
+                  "category": "landmark",
+                  "coords": [
+                        20.670208,
+                        43.574588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кавгалија",
+                  "text": "Kiemelkedő csúcs a Goč-hegyen, ahonnan kilátás nyílik a környező vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.680257,
+                        43.52546
+                  ]
+            },
+            {
+                  "name": "Чукар",
+                  "text": "Hegycsúcs a Goč-hegy festői táján.",
+                  "category": "landmark",
+                  "coords": [
+                        20.670208,
+                        43.574588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кавгалија",
+                  "text": "Un vârf proeminent pe muntele Goč, oferind priveliști asupra regiunii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        20.680257,
+                        43.52546
+                  ]
+            },
+            {
+                  "name": "Чукар",
+                  "text": "Un vârf muntos situat în peisajul pitoresc al muntelui Goč.",
+                  "category": "landmark",
+                  "coords": [
+                        20.670208,
+                        43.574588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kavgalija",
+                  "text": "A prominent peak on Goč Mountain offering views over the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        20.680257,
+                        43.52546
+                  ]
+            },
+            {
+                  "name": "Čukar",
+                  "text": "A mountain peak located within the scenic landscape of Goč Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        20.670208,
+                        43.574588
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RS",
     name: { de: "Goč-Gebirge", hu: "Goč-hegység", ro: "Munții Goč", en: "Goč Mountain" },
@@ -1173,7 +3540,304 @@ export const serbiaLifeV2: POI[] = [
     image: "/poi-images/serbia-goc-mountain-life-v2.webp",
   },
   {
-    id: "serbia-grmija-forest-life-v2",
+    id: "serbia-grmija-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amfiteatri i Gërmisë",
+                  "text": "Freilichtbühne im Gërmia-Park bei Pristina.",
+                  "category": "cultural",
+                  "coords": [
+                        21.199814,
+                        42.673112
+                  ]
+            },
+            {
+                  "name": "Gërmia-Park",
+                  "text": "Beliebtes Naherholungsgebiet und Naturpark bei Pristina.",
+                  "category": "park",
+                  "coords": [
+                        21.204837,
+                        42.675087
+                  ]
+            },
+            {
+                  "name": "Panorama Dining",
+                  "text": "Aussichtspunkt mit Blick auf den Gërmia-Park.",
+                  "category": "natural",
+                  "coords": [
+                        21.20636,
+                        42.641348
+                  ]
+            },
+            {
+                  "name": "Varreza",
+                  "text": "Historische Ruinen oder Grabstätten im Gërmia-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        21.226965,
+                        42.683175
+                  ]
+            },
+            {
+                  "name": "Sofalia/Zylfije Gashi",
+                  "text": "Aussichtspunkt in der Umgebung des Gërmia-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        21.195097,
+                        42.668811
+                  ]
+            },
+            {
+                  "name": "sgjukaj 3",
+                  "text": "Lokaler Aussichtspunkt im Waldgebiet von Gërmia.",
+                  "category": "natural",
+                  "coords": [
+                        21.181132,
+                        42.677779
+                  ]
+            },
+            {
+                  "name": "Shpia e molerit",
+                  "text": "Sehenswürdigkeit im Gërmia-Wald bei Pristina.",
+                  "category": "landmark",
+                  "coords": [
+                        21.192281,
+                        42.640817
+                  ]
+            },
+            {
+                  "name": "Cernaveri Home",
+                  "text": "Aussichtspunkt in der Nähe des Gërmia-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        21.19389,
+                        42.653943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amfiteatri i Gërmisë",
+                  "text": "Szabadtéri színpad a Pristina melletti Gërmia parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.199814,
+                        42.673112
+                  ]
+            },
+            {
+                  "name": "Parku i Gërmisë",
+                  "text": "Népszerű pihenőhely és natúrpark Pristina közelében.",
+                  "category": "park",
+                  "coords": [
+                        21.204837,
+                        42.675087
+                  ]
+            },
+            {
+                  "name": "Panorama Dining",
+                  "text": "Kilátóhely panorámával a Gërmia-parkra.",
+                  "category": "natural",
+                  "coords": [
+                        21.20636,
+                        42.641348
+                  ]
+            },
+            {
+                  "name": "Varreza",
+                  "text": "Történelmi romok vagy sírhelyek a Gërmia-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        21.226965,
+                        42.683175
+                  ]
+            },
+            {
+                  "name": "Sofalia/Zylfije Gashi",
+                  "text": "Kilátóhely a Gërmia-erdő környékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.195097,
+                        42.668811
+                  ]
+            },
+            {
+                  "name": "sgjukaj 3",
+                  "text": "Helyi kilátópont a Gërmia erdős területén.",
+                  "category": "natural",
+                  "coords": [
+                        21.181132,
+                        42.677779
+                  ]
+            },
+            {
+                  "name": "Shpia e molerit",
+                  "text": "Látványosság a Pristina melletti Gërmia-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.192281,
+                        42.640817
+                  ]
+            },
+            {
+                  "name": "Cernaveri Home",
+                  "text": "Kilátóhely a Gërmia-erdő közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.19389,
+                        42.653943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amfiteatri i Gërmisë",
+                  "text": "Amfiteatru în aer liber în parcul Gërmia de lângă Pristina.",
+                  "category": "cultural",
+                  "coords": [
+                        21.199814,
+                        42.673112
+                  ]
+            },
+            {
+                  "name": "Parku i Gërmisë",
+                  "text": "Zonă populară de recreere și parc natural lângă Pristina.",
+                  "category": "park",
+                  "coords": [
+                        21.204837,
+                        42.675087
+                  ]
+            },
+            {
+                  "name": "Panorama Dining",
+                  "text": "Punct de observație cu vedere panoramică asupra parcului Gërmia.",
+                  "category": "natural",
+                  "coords": [
+                        21.20636,
+                        42.641348
+                  ]
+            },
+            {
+                  "name": "Varreza",
+                  "text": "Ruine istorice sau morminte vechi în pădurea Gërmia.",
+                  "category": "historical",
+                  "coords": [
+                        21.226965,
+                        42.683175
+                  ]
+            },
+            {
+                  "name": "Sofalia/Zylfije Gashi",
+                  "text": "Punct de belvedere în zona pădurii Gërmia.",
+                  "category": "natural",
+                  "coords": [
+                        21.195097,
+                        42.668811
+                  ]
+            },
+            {
+                  "name": "sgjukaj 3",
+                  "text": "Punct local de belvedere în zona împădurită Gërmia.",
+                  "category": "natural",
+                  "coords": [
+                        21.181132,
+                        42.677779
+                  ]
+            },
+            {
+                  "name": "Shpia e molerit",
+                  "text": "Atracție turistică în pădurea Gërmia de lângă Pristina.",
+                  "category": "landmark",
+                  "coords": [
+                        21.192281,
+                        42.640817
+                  ]
+            },
+            {
+                  "name": "Cernaveri Home",
+                  "text": "Punct de belvedere situat lângă pădurea Gërmia.",
+                  "category": "natural",
+                  "coords": [
+                        21.19389,
+                        42.653943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amfiteatri i Gërmisë",
+                  "text": "Open-air amphitheatre in Gërmia Park near Pristina.",
+                  "category": "cultural",
+                  "coords": [
+                        21.199814,
+                        42.673112
+                  ]
+            },
+            {
+                  "name": "Park of Gërmia",
+                  "text": "Large natural park and popular recreation area near Pristina.",
+                  "category": "park",
+                  "coords": [
+                        21.204837,
+                        42.675087
+                  ]
+            },
+            {
+                  "name": "Panorama Dining",
+                  "text": "Viewpoint offering scenic views over Gërmia Park.",
+                  "category": "natural",
+                  "coords": [
+                        21.20636,
+                        42.641348
+                  ]
+            },
+            {
+                  "name": "Varreza",
+                  "text": "Historic ruins or ancient gravesites in the Gërmia forest.",
+                  "category": "historical",
+                  "coords": [
+                        21.226965,
+                        42.683175
+                  ]
+            },
+            {
+                  "name": "Sofalia/Zylfije Gashi",
+                  "text": "Viewpoint located in the vicinity of the Gërmia forest.",
+                  "category": "natural",
+                  "coords": [
+                        21.195097,
+                        42.668811
+                  ]
+            },
+            {
+                  "name": "sgjukaj 3",
+                  "text": "Local viewpoint within the Gërmia forest area.",
+                  "category": "natural",
+                  "coords": [
+                        21.181132,
+                        42.677779
+                  ]
+            },
+            {
+                  "name": "Shpia e molerit",
+                  "text": "Point of interest located in the Gërmia forest near Pristina.",
+                  "category": "landmark",
+                  "coords": [
+                        21.192281,
+                        42.640817
+                  ]
+            },
+            {
+                  "name": "Cernaveri Home",
+                  "text": "Viewpoint situated near the Gërmia forest.",
+                  "category": "natural",
+                  "coords": [
+                        21.19389,
+                        42.653943
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "RS",
     name: { de: "Grmija-Wald", hu: "Grmija-erdő", ro: "Pădurea Grmija", en: "Grmija Forest" },

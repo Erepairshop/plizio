@@ -14322,7 +14322,304 @@ export const irelandCities: POI[] = [
 
 export const irelandNature: POI[] = [
   {
-    id: "nat-cliffs-of-moher",
+    id: "nat-cliffs-of-moher", "sights": {
+      "de": [
+            {
+                  "name": "Moher Hill Open Farm",
+                  "text": "Ein familienfreundlicher Bauernhof bei den Cliffs of Moher mit vielen verschiedenen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.420018,
+                        52.958965
+                  ]
+            },
+            {
+                  "name": "Kilconnell Children's Burial Ground",
+                  "text": "Ein historischer Begräbnisplatz für Kinder in der Nähe der berühmten Klippen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451846,
+                        52.938812
+                  ]
+            },
+            {
+                  "name": "Moher Tower",
+                  "text": "Ruinen eines Signalturms aus der Zeit der Napoleonischen Kriege an den Cliffs of Moher.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468202,
+                        52.948295
+                  ]
+            },
+            {
+                  "name": "O'Brien's Tower",
+                  "text": "Ein markanter Aussichtsturm aus dem 19. Jahrhundert am höchsten Punkt der Cliffs of Moher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.43083,
+                        52.973189
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher North",
+                  "text": "Ein Aussichtspunkt am nördlichen Ende der Klippen mit weitem Blick über den Atlantik.",
+                  "category": "natural",
+                  "coords": [
+                        -9.456977,
+                        52.951565
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher South",
+                  "text": "Ein südlicher Aussichtspunkt, der eine andere Perspektive auf die spektakuläre Steilküste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.467987,
+                        52.947358
+                  ]
+            },
+            {
+                  "name": "Luca's Panorama",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf die berühmten Klippen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.430028,
+                        52.980199
+                  ]
+            },
+            {
+                  "name": "The Cliffs of Moher",
+                  "text": "Diese markanten Klippen gehören zu den meistbesuchten Natursehenswürdigkeiten Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.42875,
+                        52.970956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moher Hill Open Farm",
+                  "text": "Családbarát farm a Moher-szikláknál, sokféle állatfajjal.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.420018,
+                        52.958965
+                  ]
+            },
+            {
+                  "name": "Kilconnell Children's Burial Ground",
+                  "text": "Történelmi gyermektemető a híres sziklák közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451846,
+                        52.938812
+                  ]
+            },
+            {
+                  "name": "Moher Tower",
+                  "text": "Napóleoni háborúk idejéből származó jelzőtorony romjai a Moher-szikláknál.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468202,
+                        52.948295
+                  ]
+            },
+            {
+                  "name": "O'Brien's Tower",
+                  "text": "Jellegzetes 19. századi kilátótorony a Moher-sziklák legmagasabb pontján.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.43083,
+                        52.973189
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher North",
+                  "text": "Kilátóhely a sziklák északi végén, széles kilátással az Atlanti-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.456977,
+                        52.951565
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher South",
+                  "text": "Déli kilátóhely, amely más perspektívát kínál a látványos meredek partra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.467987,
+                        52.947358
+                  ]
+            },
+            {
+                  "name": "Luca's Viewpoint",
+                  "text": "Festői kilátóhely, ahonnan pazar kilátás nyílik a híres sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.430028,
+                        52.980199
+                  ]
+            },
+            {
+                  "name": "The Cliffs of Moher",
+                  "text": "Ezek a látványos sziklafalak Írország leglátogatottabb természeti látnivalói közé tartoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.42875,
+                        52.970956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moher Hill Open Farm",
+                  "text": "O fermă prietenoasă pentru familii lângă Cliffs of Moher, cu multe specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.420018,
+                        52.958965
+                  ]
+            },
+            {
+                  "name": "Kilconnell Children's Burial Ground",
+                  "text": "Un loc de înmormântare istoric pentru copii, situat lângă faimoasele stânci.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451846,
+                        52.938812
+                  ]
+            },
+            {
+                  "name": "Moher Tower",
+                  "text": "Ruinele unui turn de semnalizare din timpul războaielor napoleoniene, la Cliffs of Moher.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468202,
+                        52.948295
+                  ]
+            },
+            {
+                  "name": "O'Brien's Tower",
+                  "text": "Un turn de observare distinctiv din secolul al XIX-lea, situat în cel mai înalt punct al Cliffs of Moher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.43083,
+                        52.973189
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher North",
+                  "text": "Un punct de belvedere la capătul nordic al stâncilor, cu o vedere largă peste Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -9.456977,
+                        52.951565
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher South",
+                  "text": "Un punct de belvedere sudic care oferă o altă perspectivă asupra coastei spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        -9.467987,
+                        52.947358
+                  ]
+            },
+            {
+                  "name": "Luca's Viewpoint",
+                  "text": "Un punct de belvedere pitoresc care oferă o vedere largă asupra celebrelor stânci.",
+                  "category": "natural",
+                  "coords": [
+                        -9.430028,
+                        52.980199
+                  ]
+            },
+            {
+                  "name": "The Cliffs of Moher",
+                  "text": "Aceste stânci spectaculoase sunt printre cele mai vizitate atracții naturale din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.42875,
+                        52.970956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moher Hill Open Farm",
+                  "text": "A family-friendly farm near the Cliffs of Moher with many different animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.420018,
+                        52.958965
+                  ]
+            },
+            {
+                  "name": "Kilconnell Children's Burial Ground",
+                  "text": "A historic children's burial ground located near the famous cliffs.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451846,
+                        52.938812
+                  ]
+            },
+            {
+                  "name": "Moher Tower",
+                  "text": "Ruins of a signal tower from the Napoleonic Wars era at the Cliffs of Moher.",
+                  "category": "historical",
+                  "coords": [
+                        -9.468202,
+                        52.948295
+                  ]
+            },
+            {
+                  "name": "O'Brien's Tower",
+                  "text": "A distinctive 19th-century observation tower at the highest point of the Cliffs of Moher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.43083,
+                        52.973189
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher North",
+                  "text": "A viewpoint at the northern end of the cliffs with wide views over the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -9.456977,
+                        52.951565
+                  ]
+            },
+            {
+                  "name": "Sightseeing Cliffs of Moher South",
+                  "text": "A southern viewpoint offering another perspective on the spectacular steep coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -9.467987,
+                        52.947358
+                  ]
+            },
+            {
+                  "name": "Luca's Viewpoint",
+                  "text": "A scenic viewpoint offering wide views over the famous cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -9.430028,
+                        52.980199
+                  ]
+            },
+            {
+                  "name": "The Cliffs of Moher",
+                  "text": "These striking sea cliffs are among Ireland's most visited natural attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.42875,
+                        52.970956
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.4725, 52.9719],
@@ -14376,6 +14673,69 @@ export const irelandNature: POI[] = [
                         -6.531884,
                         55.223678
                   ]
+            },
+            {
+                  "name": "Rath",
+                  "text": "Eine archäologische Fundstätte in der Nähe des Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Überreste einer historischen Befestigungsanlage an der Küste von Antrim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Alte Erdwälle und archäologische Stätten in einem Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Ein Sandstrand im Dorf Portballintrae in der Nähe des Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "Ein UNESCO-Welterbe aus tausenden hexagonalen Basaltsäulen.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "Eine markante Felsformation am Giant's Causeway, die einem Stiefel ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Basaltsäulen am Giant's Causeway, die an die Pfeifen einer Orgel erinnern.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
             }
       ],
       "hu": [
@@ -14386,6 +14746,69 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -6.531884,
                         55.223678
+                  ]
+            },
+            {
+                  "name": "Rath",
+                  "text": "Régészeti lelőhely az Óriások útja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Történelmi erődítmény maradványai Antrim partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Ősi földvárak és régészeti helyszínek egy természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Homokos tengerpart Portballintrae falujában, az Óriások útja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "UNESCO világörökségi helyszín több ezer hatszögletű bazaltoszloppal.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "Jellegzetes sziklaalakzat az Óriások útjánál, amely egy csizmára hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Bazaltoszlopok az Óriások útjánál, amelyek egy orgona sípjaira emlékeztetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
                   ]
             }
       ],
@@ -14398,6 +14821,69 @@ export const irelandNature: POI[] = [
                         -6.531884,
                         55.223678
                   ]
+            },
+            {
+                  "name": "Rath",
+                  "text": "Un sit arheologic situat în apropiere de Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Rămășițele unei fortificații istorice pe coasta Antrim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Vechi terasamente și situri arheologice într-o rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "O plajă cu nisip în satul Portballintrae, lângă Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "Un sit din patrimoniul mondial UNESCO format din mii de coloane de bazalt hexagonale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "O formațiune stâncoasă distinctivă la Giant's Causeway, care seamănă cu o cizmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Coloane de bazalt la Giant's Causeway care seamănă cu tuburile unei orgi.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
+                  ]
             }
       ],
       "en": [
@@ -14408,6 +14894,69 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -6.531884,
                         55.223678
+                  ]
+            },
+            {
+                  "name": "Rath",
+                  "text": "An archaeological site located near the Giant's Causeway.",
+                  "category": "historical",
+                  "coords": [
+                        -6.493718,
+                        55.215135
+                  ]
+            },
+            {
+                  "name": "Carnkirk Castle",
+                  "text": "Remains of a historical fortification on the Antrim coast.",
+                  "category": "historical",
+                  "coords": [
+                        -6.497026,
+                        55.218482
+                  ]
+            },
+            {
+                  "name": "Lissanduff Earthworks",
+                  "text": "Ancient earthworks and archaeological sites within a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -6.538897,
+                        55.218426
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "A sandy beach in the village of Portballintrae near the Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547167,
+                        55.216657
+                  ]
+            },
+            {
+                  "name": "Giant's Causeway",
+                  "text": "A UNESCO World Heritage site consisting of thousands of hexagonal basalt columns.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.511676,
+                        55.240525
+                  ]
+            },
+            {
+                  "name": "Giant's Boot",
+                  "text": "A distinctive rock formation at the Giant's Causeway resembling a boot.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.508278,
+                        55.239905
+                  ]
+            },
+            {
+                  "name": "The Organ",
+                  "text": "Basalt columns at the Giant's Causeway resembling the pipes of an organ.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.503815,
+                        55.241424
                   ]
             }
       ]
@@ -14455,7 +15004,196 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-ring-kerry",
+    id: "nat-ring-kerry", "sights": {
+      "de": [
+            {
+                  "name": "Knocknagullion",
+                  "text": "Ein Berggipfel am Ring of Kerry in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797953,
+                        51.865404
+                  ]
+            },
+            {
+                  "name": "Knocknafreaghane",
+                  "text": "Ein Hügel in der malerischen Region des Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.828266,
+                        51.871794
+                  ]
+            },
+            {
+                  "name": "Eskine",
+                  "text": "Ein Gipfel in der Gebirgslandschaft des Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829124,
+                        51.889611
+                  ]
+            },
+            {
+                  "name": "Knockarig",
+                  "text": "Ein Berggipfel in der Grafschaft Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.840755,
+                        51.899612
+                  ]
+            },
+            {
+                  "name": "Faher Mountain",
+                  "text": "Ein Berg mit Ausblick in der Region Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.856524,
+                        51.905599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knocknagullion",
+                  "text": "Egy hegycsúcs az írországi Ring of Kerry útvonalon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797953,
+                        51.865404
+                  ]
+            },
+            {
+                  "name": "Knocknafreaghane",
+                  "text": "Egy domb a Ring of Kerry festői régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.828266,
+                        51.871794
+                  ]
+            },
+            {
+                  "name": "Eskine",
+                  "text": "Egy hegycsúcs a Ring of Kerry hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829124,
+                        51.889611
+                  ]
+            },
+            {
+                  "name": "Knockarig",
+                  "text": "Egy hegycsúcs Kerry megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.840755,
+                        51.899612
+                  ]
+            },
+            {
+                  "name": "Faher Mountain",
+                  "text": "Kilátást nyújtó hegy a Ring of Kerry régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.856524,
+                        51.905599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knocknagullion",
+                  "text": "Un vârf de munte pe traseul Ring of Kerry din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797953,
+                        51.865404
+                  ]
+            },
+            {
+                  "name": "Knocknafreaghane",
+                  "text": "Un deal în regiunea pitorească Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.828266,
+                        51.871794
+                  ]
+            },
+            {
+                  "name": "Eskine",
+                  "text": "Un vârf în peisajul montan din Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829124,
+                        51.889611
+                  ]
+            },
+            {
+                  "name": "Knockarig",
+                  "text": "Un vârf de munte în comitatul Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.840755,
+                        51.899612
+                  ]
+            },
+            {
+                  "name": "Faher Mountain",
+                  "text": "Un munte cu vedere panoramică în regiunea Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.856524,
+                        51.905599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knocknagullion",
+                  "text": "A mountain peak located on the Ring of Kerry in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797953,
+                        51.865404
+                  ]
+            },
+            {
+                  "name": "Knocknafreaghane",
+                  "text": "A hill in the scenic Ring of Kerry region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.828266,
+                        51.871794
+                  ]
+            },
+            {
+                  "name": "Eskine",
+                  "text": "A peak in the mountainous landscape of the Ring of Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.829124,
+                        51.889611
+                  ]
+            },
+            {
+                  "name": "Knockarig",
+                  "text": "A mountain peak located in County Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.840755,
+                        51.899612
+                  ]
+            },
+            {
+                  "name": "Faher Mountain",
+                  "text": "A mountain offering views in the Ring of Kerry region.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.856524,
+                        51.905599
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.8, 51.9],
@@ -14499,7 +15237,196 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-connemara",
+    id: "nat-connemara", "sights": {
+      "de": [
+            {
+                  "name": "Cnoc na hUilleann",
+                  "text": "Ein Berggipfel in der Gebirgskette Twelve Bens in Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.703991,
+                        53.52186
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Ein markanter Hügel in der irischen Region Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "Der höchste Gipfel der Maumturk-Berge im Westen Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Ein Gipfel in der Gebirgskette der Maumturks in Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Ein Berg in der Kette der Maumturks im County Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cnoc na hUilleann",
+                  "text": "Hegycsúcs a Twelve Bens hegységben, Connemara vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.703991,
+                        53.52186
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Jellegzetes domb az írországi Connemara régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "A Maumturk-hegység legmagasabb csúcsa Írország nyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Hegycsúcs a Maumturks hegységben, Connemara területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Hegy a Maumturks láncban, Galway megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cnoc na hUilleann",
+                  "text": "Un vârf muntos în lanțul Twelve Bens din Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.703991,
+                        53.52186
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Un deal proeminent în regiunea irlandeză Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "Cel mai înalt vârf din munții Maumturks din vestul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Un vârf în lanțul muntos Maumturks din Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Un munte din lanțul Maumturks, situat în comitatul Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knocknahillion",
+                  "text": "A mountain peak in the Twelve Bens mountain range in Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.703991,
+                        53.52186
+                  ]
+            },
+            {
+                  "name": "Lissaughter",
+                  "text": "A prominent hill in the Connemara region of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "The highest peak of the Maumturks mountains in western Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "A peak in the Maumturks mountain range in Connemara.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "A mountain in the Maumturks range, located in County Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.7, 53.5],
@@ -14543,7 +15470,304 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-burren",
+    id: "nat-burren", "sights": {
+      "de": [
+            {
+                  "name": "Ballykeel Fort",
+                  "text": "Ruinen einer alten Befestigungsanlage in der Burren-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.225029,
+                        53.003227
+                  ]
+            },
+            {
+                  "name": "Drimmeen Fort",
+                  "text": "Historische archäologische Stätte in der Karstlandschaft des Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.215998,
+                        53.010799
+                  ]
+            },
+            {
+                  "name": "Kilballymurphy Children's Burial Ground",
+                  "text": "Historischer Kinderfriedhof in der Burren-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.188432,
+                        53.026939
+                  ]
+            },
+            {
+                  "name": "Kilballymahony Children's Burial Ground",
+                  "text": "Alte Begräbnisstätte in der Grafschaft Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.199823,
+                        53.027746
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ein prähistorisches Megalithgrab in der Burren-Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -9.145646,
+                        52.995259
+                  ]
+            },
+            {
+                  "name": "Caheremon",
+                  "text": "Archäologische Überreste einer antiken Siedlung im Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2219,
+                        52.992323
+                  ]
+            },
+            {
+                  "name": "Lisnagowen",
+                  "text": "Ehemalige Ringfestung in der irischen Burren-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.161149,
+                        53.023587
+                  ]
+            },
+            {
+                  "name": "Ballybreen Fort",
+                  "text": "Historische archäologische Fundstätte im Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.235632,
+                        52.992269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballykeel Fort",
+                  "text": "Ősi erődítmény romjai a Burren-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -9.225029,
+                        53.003227
+                  ]
+            },
+            {
+                  "name": "Drimmeen Fort",
+                  "text": "Történelmi régészeti lelőhely a Burren karsztvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.215998,
+                        53.010799
+                  ]
+            },
+            {
+                  "name": "Kilballymurphy Children's Burial Ground",
+                  "text": "Történelmi gyermektemető a Burren-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -9.188432,
+                        53.026939
+                  ]
+            },
+            {
+                  "name": "Kilballymahony Children's Burial Ground",
+                  "text": "Ősi temetkezési hely Clare megyében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.199823,
+                        53.027746
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Őskori megalitikus sír a Burren tájain.",
+                  "category": "historical",
+                  "coords": [
+                        -9.145646,
+                        52.995259
+                  ]
+            },
+            {
+                  "name": "Caheremon",
+                  "text": "Egy ősi település régészeti maradványai a Burrenben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2219,
+                        52.992323
+                  ]
+            },
+            {
+                  "name": "Lisnagowen",
+                  "text": "Egykori gyűrűerőd az írországi Burren-vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -9.161149,
+                        53.023587
+                  ]
+            },
+            {
+                  "name": "Ballybreen Fort",
+                  "text": "Történelmi régészeti lelőhely a Burren területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.235632,
+                        52.992269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballykeel Fort",
+                  "text": "Ruinele unei fortificații vechi în regiunea Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.225029,
+                        53.003227
+                  ]
+            },
+            {
+                  "name": "Drimmeen Fort",
+                  "text": "Sit arheologic istoric în peisajul carstic din Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.215998,
+                        53.010799
+                  ]
+            },
+            {
+                  "name": "Kilballymurphy Children's Burial Ground",
+                  "text": "Cimitir istoric pentru copii în regiunea Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.188432,
+                        53.026939
+                  ]
+            },
+            {
+                  "name": "Kilballymahony Children's Burial Ground",
+                  "text": "Vechi loc de înmormântare în comitatul Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.199823,
+                        53.027746
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un mormânt megalitic preistoric în peisajul Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.145646,
+                        52.995259
+                  ]
+            },
+            {
+                  "name": "Caheremon",
+                  "text": "Rămășițe arheologice ale unei așezări antice în Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2219,
+                        52.992323
+                  ]
+            },
+            {
+                  "name": "Lisnagowen",
+                  "text": "Fost fort circular în regiunea Burren din Irlanda.",
+                  "category": "historical",
+                  "coords": [
+                        -9.161149,
+                        53.023587
+                  ]
+            },
+            {
+                  "name": "Ballybreen Fort",
+                  "text": "Sit arheologic istoric în Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.235632,
+                        52.992269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballykeel Fort",
+                  "text": "Ruins of an ancient fortification in the Burren region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.225029,
+                        53.003227
+                  ]
+            },
+            {
+                  "name": "Drimmeen Fort",
+                  "text": "Historic archaeological site in the Burren karst landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -9.215998,
+                        53.010799
+                  ]
+            },
+            {
+                  "name": "Kilballymurphy Children's Burial Ground",
+                  "text": "Historic children's burial ground in the Burren region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.188432,
+                        53.026939
+                  ]
+            },
+            {
+                  "name": "Kilballymahony Children's Burial Ground",
+                  "text": "Ancient burial site located in County Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.199823,
+                        53.027746
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A prehistoric megalithic tomb in the Burren landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -9.145646,
+                        52.995259
+                  ]
+            },
+            {
+                  "name": "Caheremon",
+                  "text": "Archaeological remains of an ancient settlement in the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2219,
+                        52.992323
+                  ]
+            },
+            {
+                  "name": "Lisnagowen",
+                  "text": "Former ringfort in the Irish Burren region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.161149,
+                        53.023587
+                  ]
+            },
+            {
+                  "name": "Ballybreen Fort",
+                  "text": "Historic archaeological site in the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.235632,
+                        52.992269
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.2, 53.0],
@@ -14588,7 +15812,304 @@ export const irelandNature: POI[] = [
   }
   ,
   {
-    id: "nat-carrauntoohil",
+    id: "nat-carrauntoohil", "sights": {
+      "de": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Der zweithöchste Berggipfel Irlands in den MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Der höchste Berg Irlands, gelegen in der Grafschaft Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Der dritthöchste Berggipfel Irlands, Teil des MacGillycuddy’s Reeks Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Ein Gipfel in den irischen MacGillycuddy’s Reeks westlich des Caher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Ein Berggipfel in der Bergkette MacGillycuddy’s Reeks in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Ein markanter Gipfel am Hauptgrat der MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Ein Gipfel in den MacGillycuddy’s Reeks, Teil der höchsten Berge Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Ein schmaler Felsgipfel im östlichen Teil der MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Írország második legmagasabb hegycsúcsa a MacGillycuddy’s Reeks hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Írország legmagasabb hegye Kerry megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Írország harmadik legmagasabb hegycsúcsa, a MacGillycuddy’s Reeks része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Hegycsúcs az írországi MacGillycuddy’s Reeks hegységben, a Cahertől nyugatra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegyláncban Írországban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Jellegzetes csúcs a MacGillycuddy’s Reeks főgerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegységben, Írország legmagasabb hegyei között.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Keskeny sziklás csúcs a MacGillycuddy’s Reeks keleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "Al doilea cel mai înalt vârf muntos din Irlanda, situat în MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "Cel mai înalt munte din Irlanda, situat în comitatul Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "Al treilea cel mai înalt vârf muntos din Irlanda, parte din MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "Un vârf din masivul MacGillycuddy’s Reeks, situat la vest de Caher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "Un vârf muntos din lanțul MacGillycuddy’s Reeks din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "Un vârf distinctiv pe creasta principală a masivului MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "Un vârf din MacGillycuddy’s Reeks, parte a celor mai înalți munți din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "Un vârf stâncos îngust în partea de est a masivului MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beenkeragh",
+                  "text": "The second-highest mountain peak in Ireland, located in the MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.746381,
+                        52.006788
+                  ]
+            },
+            {
+                  "name": "Carrauntoohil",
+                  "text": "The highest mountain in Ireland, located in County Kerry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.742693,
+                        51.99945
+                  ]
+            },
+            {
+                  "name": "Caher",
+                  "text": "The third-highest mountain peak in Ireland, part of the MacGillycuddy’s Reeks range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.758392,
+                        51.994444
+                  ]
+            },
+            {
+                  "name": "Caher West Top",
+                  "text": "A peak in the MacGillycuddy’s Reeks of Ireland, situated west of Caher.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.763035,
+                        51.99508
+                  ]
+            },
+            {
+                  "name": "Maolán Buí",
+                  "text": "A mountain peak within the MacGillycuddy’s Reeks range in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.700877,
+                        51.994651
+                  ]
+            },
+            {
+                  "name": "The Bones",
+                  "text": "A distinctive peak on the main ridge of the MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.74704,
+                        52.001703
+                  ]
+            },
+            {
+                  "name": "Cnoc an Chuillinn",
+                  "text": "A peak in the MacGillycuddy’s Reeks, part of Ireland's highest mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.713327,
+                        51.990166
+                  ]
+            },
+            {
+                  "name": "The Big Gun",
+                  "text": "A narrow rocky peak in the eastern section of the MacGillycuddy’s Reeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.68867,
+                        52.000874
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ireland",
     coords: [-9.7428, 52.0055],
@@ -14676,7 +16197,124 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-lough-corrib",
+    id: "nat-lough-corrib", "sights": {
+      "de": [
+            {
+                  "name": "Aughnanure Castle",
+                  "text": "Ein gut erhaltenes irisches Turmhaus aus dem 16. Jahrhundert am Ufer des Lough Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.27568,
+                        53.418766
+                  ]
+            },
+            {
+                  "name": "Kilcummin Parish Church",
+                  "text": "Die Gemeindekirche von Kilcummin in der Nähe des Lough Corrib.",
+                  "category": "religious",
+                  "coords": [
+                        -9.323665,
+                        53.427624
+                  ]
+            },
+            {
+                  "name": "Church Of the Immaculate Conception",
+                  "text": "Eine katholische Kirche, die der Unbefleckten Empfängnis geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.327855,
+                        53.427069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aughnanure Castle",
+                  "text": "Jó állapotban fennmaradt 16. századi ír toronyház a Lough Corrib partján.",
+                  "category": "castle",
+                  "coords": [
+                        -9.27568,
+                        53.418766
+                  ]
+            },
+            {
+                  "name": "Kilcummin Parish Church",
+                  "text": "Kilcummin plébániatemploma a Lough Corrib közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.323665,
+                        53.427624
+                  ]
+            },
+            {
+                  "name": "Church Of the Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -9.327855,
+                        53.427069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aughnanure Castle",
+                  "text": "O casă-turn irlandeză din secolul al XVI-lea bine conservată pe malul lacului Lough Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.27568,
+                        53.418766
+                  ]
+            },
+            {
+                  "name": "Kilcummin Parish Church",
+                  "text": "Biserica parohială din Kilcummin, situată lângă Lough Corrib.",
+                  "category": "religious",
+                  "coords": [
+                        -9.323665,
+                        53.427624
+                  ]
+            },
+            {
+                  "name": "Church Of the Immaculate Conception",
+                  "text": "O biserică catolică dedicată Imaculatei Concepții.",
+                  "category": "religious",
+                  "coords": [
+                        -9.327855,
+                        53.427069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aughnanure Castle",
+                  "text": "A well-preserved 16th-century Irish tower house on the shores of Lough Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.27568,
+                        53.418766
+                  ]
+            },
+            {
+                  "name": "Kilcummin Parish Church",
+                  "text": "The parish church of Kilcummin, located near Lough Corrib.",
+                  "category": "religious",
+                  "coords": [
+                        -9.323665,
+                        53.427624
+                  ]
+            },
+            {
+                  "name": "Church Of the Immaculate Conception",
+                  "text": "A Catholic church dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        -9.327855,
+                        53.427069
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ireland",
     coords: [-9.3000, 53.4250],
@@ -14852,7 +16490,52 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-achill-island",
+    id: "nat-achill-island", "sights": {
+      "de": [
+            {
+                  "name": "Bunacurry Franciscan Monastery",
+                  "text": "Überreste eines Franziskanerklosters auf Achill Island.",
+                  "category": "religious",
+                  "coords": [
+                        -9.978987,
+                        53.97006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunacurry Franciscan Monastery",
+                  "text": "Ferences kolostor maradványai az Achill-szigeten.",
+                  "category": "religious",
+                  "coords": [
+                        -9.978987,
+                        53.97006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunacurry Franciscan Monastery",
+                  "text": "Rămășițele unei mănăstiri franciscane situate pe insula Achill.",
+                  "category": "religious",
+                  "coords": [
+                        -9.978987,
+                        53.97006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunacurry Franciscan Monastery",
+                  "text": "Remains of a Franciscan monastery located on Achill Island.",
+                  "category": "religious",
+                  "coords": [
+                        -9.978987,
+                        53.97006
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ireland",
     coords: [-9.98, 53.96],
@@ -15164,7 +16847,304 @@ export const irelandCulture: POI[] = [
   }
   ,
   {
-    id: "hist-trim-castle",
+    id: "hist-trim-castle", "sights": {
+      "de": [
+            {
+                  "name": "The Blackfriary Community Heritage and Archaeology Project",
+                  "text": "Eine archäologische Ausgrabungsstätte eines Dominikanerklosters aus dem 13. Jahrhundert in Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.789437,
+                        53.560313
+                  ]
+            },
+            {
+                  "name": "Scurlogstown Castle",
+                  "text": "Die Überreste eines mittelalterlichen Turmhauses in der Nähe von Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.742167,
+                        53.54978
+                  ]
+            },
+            {
+                  "name": "Porchfield",
+                  "text": "Ein weitläufiges historisches Feldgelände am Ufer des Flusses Boyne in der Nähe von Trim Castle.",
+                  "category": "park",
+                  "coords": [
+                        -6.781278,
+                        53.55488
+                  ]
+            },
+            {
+                  "name": "Trim Castle",
+                  "text": "Der zentrale Bergfried von Trim Castle, der größten anglo-normannischen Burg in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.789774,
+                        53.554332
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Ein Denkmal zu Ehren des Herzogs von Wellington, der in der Nähe von Trim geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -6.793773,
+                        53.552149
+                  ]
+            },
+            {
+                  "name": "Newtown Abbey",
+                  "text": "Ruinen einer großen mittelalterlichen Klosteranlage am Ufer des Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.772684,
+                        53.555615
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Eine historische Kirche in Trim mit einem markanten Turm aus dem 15. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790472,
+                        53.558522
+                  ]
+            },
+            {
+                  "name": "Priory of St John the Baptist",
+                  "text": "Die Überreste eines mittelalterlichen Priorats und Krankenhauses in Newtown Trim.",
+                  "category": "religious",
+                  "coords": [
+                        -6.768155,
+                        53.555218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Blackfriary Community Heritage and Archaeology Project",
+                  "text": "Egy 13. századi dominikánus kolostor régészeti feltárása Trim városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.789437,
+                        53.560313
+                  ]
+            },
+            {
+                  "name": "Scurlogstown Castle",
+                  "text": "Egy középkori toronyház maradványai Trim közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.742167,
+                        53.54978
+                  ]
+            },
+            {
+                  "name": "Porchfield",
+                  "text": "Kiterjedt történelmi mező a Boyne-folyó partján, a Trimi vár közelében.",
+                  "category": "park",
+                  "coords": [
+                        -6.781278,
+                        53.55488
+                  ]
+            },
+            {
+                  "name": "Trim Castle Keep",
+                  "text": "A Trimi vár központi tornya, amely Írország legnagyobb angol-normann vára.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.789774,
+                        53.554332
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Wellington hercegének tiszteletére emelt emlékmű, aki Trim közelében született.",
+                  "category": "historical",
+                  "coords": [
+                        -6.793773,
+                        53.552149
+                  ]
+            },
+            {
+                  "name": "Newtown Abbey",
+                  "text": "Egy nagy középkori kolostoregyüttes romjai a Boyne-folyó partján.",
+                  "category": "religious",
+                  "coords": [
+                        -6.772684,
+                        53.555615
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Történelmi templom Trimben, jellegzetes 15. századi toronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790472,
+                        53.558522
+                  ]
+            },
+            {
+                  "name": "Priory of St John the Baptist",
+                  "text": "Egy középkori perjelég és kórház maradványai Newtown Trimben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.768155,
+                        53.555218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Blackfriary Community Heritage and Archaeology Project",
+                  "text": "Un șantier arheologic al unei mănăstiri dominicane din secolul al XIII-lea în Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.789437,
+                        53.560313
+                  ]
+            },
+            {
+                  "name": "Scurlogstown Castle",
+                  "text": "Vestigiile unei case-turn medievale situate în apropiere de Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.742167,
+                        53.54978
+                  ]
+            },
+            {
+                  "name": "Porchfield",
+                  "text": "O câmpie istorică vastă pe malul râului Boyne, lângă Castelul Trim.",
+                  "category": "park",
+                  "coords": [
+                        -6.781278,
+                        53.55488
+                  ]
+            },
+            {
+                  "name": "Trim Castle Keep",
+                  "text": "Turnul central al Castelului Trim, cel mai mare castel anglo-normand din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.789774,
+                        53.554332
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Un monument ridicat în onoarea Ducelui de Wellington, care s-a născut lângă Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.793773,
+                        53.552149
+                  ]
+            },
+            {
+                  "name": "Newtown Abbey",
+                  "text": "Ruinele unui mare complex monastic medieval pe malul râului Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.772684,
+                        53.555615
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "O biserică istorică în Trim, cu un turn proeminent din secolul al XV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790472,
+                        53.558522
+                  ]
+            },
+            {
+                  "name": "Priory of St John the Baptist",
+                  "text": "Rămășițele unui priorat și spital medieval în Newtown Trim.",
+                  "category": "religious",
+                  "coords": [
+                        -6.768155,
+                        53.555218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Blackfriary Community Heritage and Archaeology Project",
+                  "text": "An archaeological excavation site of a 13th-century Dominican friary in Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.789437,
+                        53.560313
+                  ]
+            },
+            {
+                  "name": "Scurlogstown Castle",
+                  "text": "The remains of a medieval tower house located near Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.742167,
+                        53.54978
+                  ]
+            },
+            {
+                  "name": "Porchfield",
+                  "text": "A vast historical field area on the banks of the River Boyne near Trim Castle.",
+                  "category": "park",
+                  "coords": [
+                        -6.781278,
+                        53.55488
+                  ]
+            },
+            {
+                  "name": "Trim Castle Keep",
+                  "text": "The central keep of Trim Castle, the largest Anglo-Norman castle in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.789774,
+                        53.554332
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "A monument dedicated to the Duke of Wellington, who was born near Trim.",
+                  "category": "historical",
+                  "coords": [
+                        -6.793773,
+                        53.552149
+                  ]
+            },
+            {
+                  "name": "Newtown Abbey",
+                  "text": "The ruins of a large medieval monastic complex on the banks of the Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.772684,
+                        53.555615
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A historic church in Trim featuring a prominent 15th-century tower.",
+                  "category": "religious",
+                  "coords": [
+                        -6.790472,
+                        53.558522
+                  ]
+            },
+            {
+                  "name": "Priory of St John the Baptist",
+                  "text": "The remains of a medieval priory and hospital in Newtown Trim.",
+                  "category": "religious",
+                  "coords": [
+                        -6.768155,
+                        53.555218
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-6.7867, 53.5558],
@@ -15253,7 +17233,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-clonmacnoise",
+    id: "hist-clonmacnoise", "sights": {
+      "de": [
+            {
+                  "name": "Clonmacnoise",
+                  "text": "Eine berühmte frühchristliche Klosteranlage am Ufer des Flusses Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.985709,
+                        53.326516
+                  ]
+            },
+            {
+                  "name": "Clonmacnoise Castle",
+                  "text": "Die Ruine einer normannischen Burg, die sich in der Nähe der Klosterstätte Clonmacnoise befindet.",
+                  "category": "castle",
+                  "coords": [
+                        -7.989394,
+                        53.325482
+                  ]
+            },
+            {
+                  "name": "The Nuns' Church",
+                  "text": "Die Überreste einer romanischen Kirche, die für ihre kunstvollen Steinmetzarbeiten bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.978139,
+                        53.328417
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "Eine heilige Quelle in Clonmacnoise, die mit dem Heiligen Kieran verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.994093,
+                        53.320862
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Tower",
+                  "text": "Ein markanter irischer Rundturm, der Teil der historischen Stätte Clonmacnoise ist.",
+                  "category": "tower",
+                  "coords": [
+                        -7.986638,
+                        53.326467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clonmacnoise",
+                  "text": "Híres kora keresztény kolostoregyüttes a Shannon folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        -7.985709,
+                        53.326516
+                  ]
+            },
+            {
+                  "name": "Clonmacnoise Castle",
+                  "text": "Egy normann vár romjai, amely a clonmacnoise-i kolostor közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        -7.989394,
+                        53.325482
+                  ]
+            },
+            {
+                  "name": "The Nuns' Church",
+                  "text": "Egy román stílusú templom maradványai, amely díszes kőfaragványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.978139,
+                        53.328417
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "Szent forrás Clonmacnoise-ban, amely Szent Kieran nevéhez fűződik.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.994093,
+                        53.320862
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Tower",
+                  "text": "Jellegzetes ír kerek torony, amely a clonmacnoise-i történelmi helyszín része.",
+                  "category": "tower",
+                  "coords": [
+                        -7.986638,
+                        53.326467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clonmacnoise",
+                  "text": "Un faimos sit monastic creștin timpuriu pe malul râului Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.985709,
+                        53.326516
+                  ]
+            },
+            {
+                  "name": "Clonmacnoise Castle",
+                  "text": "Ruinele unui castel normand situat în apropierea sitului monastic Clonmacnoise.",
+                  "category": "castle",
+                  "coords": [
+                        -7.989394,
+                        53.325482
+                  ]
+            },
+            {
+                  "name": "The Nuns' Church",
+                  "text": "Rămășițele unei biserici romanice, cunoscută pentru sculpturile sale ornamentale în piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -7.978139,
+                        53.328417
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "Un izvor sfânt în Clonmacnoise, asociat cu Sfântul Kieran.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.994093,
+                        53.320862
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Tower",
+                  "text": "Un turn rotund irlandez distinctiv, parte a sitului istoric Clonmacnoise.",
+                  "category": "tower",
+                  "coords": [
+                        -7.986638,
+                        53.326467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clonmacnoise",
+                  "text": "A famous early Christian monastic site located on the banks of the River Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.985709,
+                        53.326516
+                  ]
+            },
+            {
+                  "name": "Clonmacnoise Castle",
+                  "text": "The ruins of a Norman castle situated near the Clonmacnoise monastic site.",
+                  "category": "castle",
+                  "coords": [
+                        -7.989394,
+                        53.325482
+                  ]
+            },
+            {
+                  "name": "The Nuns' Church",
+                  "text": "The remains of a Romanesque church known for its ornate stonework.",
+                  "category": "historical",
+                  "coords": [
+                        -7.978139,
+                        53.328417
+                  ]
+            },
+            {
+                  "name": "Saint Kieran's Well",
+                  "text": "A holy well in Clonmacnoise associated with Saint Kieran.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.994093,
+                        53.320862
+                  ]
+            },
+            {
+                  "name": "O'Rourke's Tower",
+                  "text": "A distinctive Irish round tower that is part of the historic Clonmacnoise site.",
+                  "category": "tower",
+                  "coords": [
+                        -7.986638,
+                        53.326467
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-7.9876, 53.3267],
@@ -15342,7 +17511,232 @@ export const irelandCulture: POI[] = [
   }
   ,
   {
-    id: "hist-battle-of-the-boyne",
+    id: "hist-battle-of-the-boyne", "sights": {
+      "de": [
+            {
+                  "name": "Knowth",
+                  "text": "Eine bedeutende neolithische Grabanlage und Teil des Weltkulturerbes Brú na Bóinne.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Mellifont Abbey",
+                  "text": "Die Ruinen der ersten in Irland gegründeten Zisterzienserabtei.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.466312,
+                        53.742299
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "Ein historisches Steinkreuz auf dem Gelände der Abtei Slane.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "Eine lokale Kunstgalerie, die Werke zeitgenössischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Eine dem Heiligen Patrick gewidmete christliche Kirche in der Region Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "Eine römisch-katholische Pfarrkirche im historischen Tal des Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knowth",
+                  "text": "Jelentős újkőkorszaki folyosósír-komplexum, a Brú na Bóinne világörökségi helyszín része.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Mellifont Abbey",
+                  "text": "Az Írországban alapított első ciszterci apátság romjai.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.466312,
+                        53.742299
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "Történelmi kőkereszt a Slane-apátság területén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "Helyi művészeti galéria, ahol kortárs művészek alkotásait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Szent Patrik tiszteletére szentelt keresztény templom a Boyne-vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "Római katolikus plébániatemplom a történelmi Boyne-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knowth",
+                  "text": "Un complex semnificativ de morminte neolitice cu pasaj, parte a sitului Brú na Bóinne din patrimoniul mondial.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Mellifont Abbey",
+                  "text": "Ruinele primei abații cisterciene fondate în Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.466312,
+                        53.742299
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "O cruce istorică de piatră situată pe locul Abației Slane.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "O galerie de artă locală care prezintă lucrări ale artiștilor contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "O biserică creștină dedicată Sfântului Patrick în regiunea Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "O biserică parohială romano-catolică situată în zona istorică a văii Boyne.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knowth",
+                  "text": "A significant Neolithic passage tomb complex and part of the Brú na Bóinne World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Mellifont Abbey",
+                  "text": "The ruins of the first Cistercian abbey founded in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.466312,
+                        53.742299
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "A historical stone cross located at the site of Slane Abbey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "A local art gallery showcasing works by contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A Christian church dedicated to Saint Patrick in the Boyne region.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "A Roman Catholic parish church located in the historic Boyne valley area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-6.5082, 53.7350],
@@ -15960,7 +18354,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-golden-vale",
+    id: "landmark-golden-vale", "sights": {
+      "de": [
+            {
+                  "name": "Ice Pit",
+                  "text": "Eine archäologische Stätte mit einer historischen Eisgrube in Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.293276,
+                        52.269801
+                  ]
+            },
+            {
+                  "name": "Glenatlucky Mountain",
+                  "text": "Ein markanter Berggipfel mit malerischer Aussicht in der Region Golden Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.244597,
+                        52.232583
+                  ]
+            },
+            {
+                  "name": "Flagstaff Hill",
+                  "text": "Ein malerischer Hügelgipfel in der Gegend von Golden Vale, beliebt zum Wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.269472,
+                        52.222508
+                  ]
+            },
+            {
+                  "name": "St Fanahan's Well",
+                  "text": "Ein historischer heiliger Brunnen und ein Denkmal, das dem heiligen Fanahan gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.253017,
+                        52.263096
+                  ]
+            },
+            {
+                  "name": "Caherdrinny Castle",
+                  "text": "Die stimmungsvollen Ruinen einer historischen Burg in Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.2965,
+                        52.221914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ice Pit",
+                  "text": "Régészeti lelőhely egy történelmi jégveremmel Golden Vale-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.293276,
+                        52.269801
+                  ]
+            },
+            {
+                  "name": "Glenatlucky Mountain",
+                  "text": "Jelentős hegycsúcs festői kilátással a Golden Vale régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.244597,
+                        52.232583
+                  ]
+            },
+            {
+                  "name": "Flagstaff Hill",
+                  "text": "Festői dombtető Golden Vale környékén, amely népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.269472,
+                        52.222508
+                  ]
+            },
+            {
+                  "name": "St Fanahan's Well",
+                  "text": "Történelmi szent kút és emlékmű, amelyet Szent Fanahannak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.253017,
+                        52.263096
+                  ]
+            },
+            {
+                  "name": "Caherdrinny Castle",
+                  "text": "Egy történelmi vár hangulatos romjai Golden Vale-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.2965,
+                        52.221914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ice Pit",
+                  "text": "Un sit arheologic care prezintă o groapă istorică de gheață în Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.293276,
+                        52.269801
+                  ]
+            },
+            {
+                  "name": "Glenatlucky Mountain",
+                  "text": "Un vârf de munte proeminent care oferă vederi pitorești în regiunea Golden Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.244597,
+                        52.232583
+                  ]
+            },
+            {
+                  "name": "Flagstaff Hill",
+                  "text": "Un vârf de deal pitoresc în zona Golden Vale, popular pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.269472,
+                        52.222508
+                  ]
+            },
+            {
+                  "name": "St Fanahan's Well",
+                  "text": "O fântână sfântă istorică și un monument dedicat Sfântului Fanahan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.253017,
+                        52.263096
+                  ]
+            },
+            {
+                  "name": "Caherdrinny Castle",
+                  "text": "Ruinele atmosferice ale unui castel istoric din Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.2965,
+                        52.221914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ice Pit",
+                  "text": "An archaeological site featuring a historic ice storage pit in Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.293276,
+                        52.269801
+                  ]
+            },
+            {
+                  "name": "Glenatlucky Mountain",
+                  "text": "A prominent mountain peak offering scenic views in the Golden Vale region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.244597,
+                        52.232583
+                  ]
+            },
+            {
+                  "name": "Flagstaff Hill",
+                  "text": "A scenic hill peak in the Golden Vale area, popular for hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.269472,
+                        52.222508
+                  ]
+            },
+            {
+                  "name": "St Fanahan's Well",
+                  "text": "A historic holy well and monument dedicated to Saint Fanahan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.253017,
+                        52.263096
+                  ]
+            },
+            {
+                  "name": "Caherdrinny Castle",
+                  "text": "The atmospheric ruins of a historic castle in the Golden Vale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.2965,
+                        52.221914
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ireland",
     coords: [-8.2800, 52.2500],
@@ -16004,7 +18587,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-naas",
+    id: "city-naas", "sights": {
+      "de": [
+            {
+                  "name": "Castle Rag",
+                  "text": "Die Überreste einer historischen Befestigungsanlage in der Nähe von Naas.",
+                  "category": "castle",
+                  "coords": [
+                        -6.684495,
+                        53.213056
+                  ]
+            },
+            {
+                  "name": "North Mote",
+                  "text": "Eine archäologische Stätte einer ehemaligen Erdhügelburg aus der anglonormannischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -6.664442,
+                        53.218986
+                  ]
+            },
+            {
+                  "name": "Naas Presbyterian Church",
+                  "text": "Ein presbyterianisches Gotteshaus im Zentrum der Stadt Naas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.663525,
+                        53.217891
+                  ]
+            },
+            {
+                  "name": "Our Lady and Saint David",
+                  "text": "Eine bedeutende katholische Pfarrkirche in Naas mit historischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662661,
+                        53.220187
+                  ]
+            },
+            {
+                  "name": "Saint David's Church, Naas",
+                  "text": "Eine historische anglikanische Kirche im Zentrum von Naas, die auf eine lange religiöse Tradition zurückblickt.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662611,
+                        53.218096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castle Rag",
+                  "text": "Egy történelmi erődítmény maradványai Naas közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.684495,
+                        53.213056
+                  ]
+            },
+            {
+                  "name": "North Mote",
+                  "text": "Egy egykori anglonormann földvár régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -6.664442,
+                        53.218986
+                  ]
+            },
+            {
+                  "name": "Naas Presbyterian Church",
+                  "text": "Presbiteriánus templom Naas városának központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.663525,
+                        53.217891
+                  ]
+            },
+            {
+                  "name": "Our Lady and Saint David",
+                  "text": "Naas jelentős katolikus plébániatemploma történelmi építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662661,
+                        53.220187
+                  ]
+            },
+            {
+                  "name": "Saint David's Church, Naas",
+                  "text": "Történelmi anglikán templom Naas központjában, amely nagy múltú vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662611,
+                        53.218096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castle Rag",
+                  "text": "Vestigiile unei fortificații istorice în apropiere de Naas.",
+                  "category": "castle",
+                  "coords": [
+                        -6.684495,
+                        53.213056
+                  ]
+            },
+            {
+                  "name": "North Mote",
+                  "text": "Sit arheologic al unei foste fortificații de tip motte-and-bailey din perioada anglo-normandă.",
+                  "category": "historical",
+                  "coords": [
+                        -6.664442,
+                        53.218986
+                  ]
+            },
+            {
+                  "name": "Naas Presbyterian Church",
+                  "text": "Un lăcaș de cult prezbiterian situat în centrul orașului Naas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.663525,
+                        53.217891
+                  ]
+            },
+            {
+                  "name": "Our Lady and Saint David",
+                  "text": "O importantă biserică parohială catolică din Naas, cu arhitectură istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662661,
+                        53.220187
+                  ]
+            },
+            {
+                  "name": "Saint David's Church, Naas",
+                  "text": "O biserică anglicană istorică situată în centrul orașului Naas, având o lungă tradiție religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662611,
+                        53.218096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Rag",
+                  "text": "The remains of a historical fortification near Naas.",
+                  "category": "castle",
+                  "coords": [
+                        -6.684495,
+                        53.213056
+                  ]
+            },
+            {
+                  "name": "North Mote",
+                  "text": "The archaeological site of a former Anglo-Norman motte-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        -6.664442,
+                        53.218986
+                  ]
+            },
+            {
+                  "name": "Naas Presbyterian Church",
+                  "text": "A Presbyterian place of worship located in the center of Naas.",
+                  "category": "religious",
+                  "coords": [
+                        -6.663525,
+                        53.217891
+                  ]
+            },
+            {
+                  "name": "Our Lady and Saint David",
+                  "text": "A significant Catholic parish church in Naas featuring historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662661,
+                        53.220187
+                  ]
+            },
+            {
+                  "name": "Saint David's Church, Naas",
+                  "text": "A historic Anglican church in the center of Naas with a long religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -6.662611,
+                        53.218096
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.6616, 53.2158],
@@ -22314,6 +25086,60 @@ export const irelandCulture: POI[] = [
                         -7.749509,
                         52.351301
                   ]
+            },
+            {
+                  "name": "St. Patrick's Borstal Institution (site of)",
+                  "text": "Die historische Stätte einer ehemaligen Erziehungsanstalt in Clonmel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.699061,
+                        52.354209
+                  ]
+            },
+            {
+                  "name": "Tipperary Museum of Hidden History",
+                  "text": "Ein Museum in Clonmel, das die lokale Geschichte und verborgene Legenden präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.698694,
+                        52.355485
+                  ]
+            },
+            {
+                  "name": "White Memorial Theatre",
+                  "text": "Ein lokales Theater in Clonmel, in dem verschiedene kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.706177,
+                        52.353391
+                  ]
+            },
+            {
+                  "name": "Creamery (site of)",
+                  "text": "Eine archäologische Stätte in Clonmel, die den ehemaligen Standort einer Molkerei markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.703519,
+                        52.35147
+                  ]
+            },
+            {
+                  "name": "Abbey Street Performance Space",
+                  "text": "Ein Veranstaltungsort in Clonmel, der für Theater- und Kunstveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.700692,
+                        52.352586
+                  ]
+            },
+            {
+                  "name": "Kickham Lodge",
+                  "text": "Ein ehemaliges Klostergebäude in der Stadt Clonmel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.699523,
+                        52.356786
+                  ]
             }
       ],
       "hu": [
@@ -22324,6 +25150,60 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.749509,
                         52.351301
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Borstal Institution (site of)",
+                  "text": "Egy egykori javítóintézet történelmi helyszíne Clonmelben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.699061,
+                        52.354209
+                  ]
+            },
+            {
+                  "name": "Tipperary Museum of Hidden History",
+                  "text": "Múzeum Clonmelben, amely a helyi történelmet és rejtett legendákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.698694,
+                        52.355485
+                  ]
+            },
+            {
+                  "name": "White Memorial Theatre",
+                  "text": "Helyi színház Clonmelben, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.706177,
+                        52.353391
+                  ]
+            },
+            {
+                  "name": "Creamery (site of)",
+                  "text": "Régészeti lelőhely Clonmelben, amely egy egykori tejüzem helyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.703519,
+                        52.35147
+                  ]
+            },
+            {
+                  "name": "Abbey Street Performance Space",
+                  "text": "Előadóhely Clonmelben, amelyet színházi és művészeti eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.700692,
+                        52.352586
+                  ]
+            },
+            {
+                  "name": "Kickham Lodge",
+                  "text": "Egykori kolostorépület Clonmel városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.699523,
+                        52.356786
                   ]
             }
       ],
@@ -22336,6 +25216,60 @@ export const irelandCulture: POI[] = [
                         -7.749509,
                         52.351301
                   ]
+            },
+            {
+                  "name": "St. Patrick's Borstal Institution (site of)",
+                  "text": "Locul istoric al unei foste instituții de corecție din Clonmel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.699061,
+                        52.354209
+                  ]
+            },
+            {
+                  "name": "Tipperary Museum of Hidden History",
+                  "text": "Un muzeu din Clonmel care prezintă istoria locală și legende ascunse.",
+                  "category": "museum",
+                  "coords": [
+                        -7.698694,
+                        52.355485
+                  ]
+            },
+            {
+                  "name": "White Memorial Theatre",
+                  "text": "Un teatru local din Clonmel care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.706177,
+                        52.353391
+                  ]
+            },
+            {
+                  "name": "Creamery (site of)",
+                  "text": "Un sit arheologic din Clonmel care marchează fostul loc al unei fabrici de lactate.",
+                  "category": "historical",
+                  "coords": [
+                        -7.703519,
+                        52.35147
+                  ]
+            },
+            {
+                  "name": "Abbey Street Performance Space",
+                  "text": "Un spațiu de spectacol din Clonmel utilizat pentru evenimente teatrale și artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.700692,
+                        52.352586
+                  ]
+            },
+            {
+                  "name": "Kickham Lodge",
+                  "text": "O fostă clădire de mănăstire situată în orașul Clonmel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.699523,
+                        52.356786
+                  ]
             }
       ],
       "en": [
@@ -22346,6 +25280,60 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.749509,
                         52.351301
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Borstal Institution (site of)",
+                  "text": "The historical site of a former reformatory school in Clonmel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.699061,
+                        52.354209
+                  ]
+            },
+            {
+                  "name": "Tipperary Museum of Hidden History",
+                  "text": "A museum in Clonmel showcasing local history and hidden legends.",
+                  "category": "museum",
+                  "coords": [
+                        -7.698694,
+                        52.355485
+                  ]
+            },
+            {
+                  "name": "White Memorial Theatre",
+                  "text": "A local theatre in Clonmel hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.706177,
+                        52.353391
+                  ]
+            },
+            {
+                  "name": "Creamery (site of)",
+                  "text": "An archaeological site in Clonmel marking the former location of a creamery.",
+                  "category": "historical",
+                  "coords": [
+                        -7.703519,
+                        52.35147
+                  ]
+            },
+            {
+                  "name": "Abbey Street Performance Space",
+                  "text": "A performance venue in Clonmel used for theatre and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.700692,
+                        52.352586
+                  ]
+            },
+            {
+                  "name": "Kickham Lodge",
+                  "text": "A former monastery building located in the town of Clonmel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.699523,
+                        52.356786
                   ]
             }
       ]
@@ -24961,7 +27949,304 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-jerpoint-abbey",
+    id: "hist-jerpoint-abbey", "sights": {
+      "de": [
+            {
+                  "name": "Dysart Castle",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die mit dem Heiligen Kieran verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        -7.122252,
+                        52.501973
+                  ]
+            },
+            {
+                  "name": "Brady's Castle",
+                  "text": "Die Überreste eines historischen Turmhauses oder Schlosses in Jerpoint Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.137858,
+                        52.525183
+                  ]
+            },
+            {
+                  "name": "Jerpoint Abbey",
+                  "text": "Die bedeutenden Ruinen einer Zisterzienserabtei aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.157614,
+                        52.510871
+                  ]
+            },
+            {
+                  "name": "Killarney Church (site of)",
+                  "text": "Die archäologische Stätte einer alten Kirche in der Nähe von Jerpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -7.173561,
+                        52.5555
+                  ]
+            },
+            {
+                  "name": "Pleberstown Ringfort (rath)",
+                  "text": "Eine antike Ringfestung, ein typisches Beispiel für irische Erdbefestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.13652,
+                        52.489357
+                  ]
+            },
+            {
+                  "name": "Grenan Castle motte",
+                  "text": "Überreste einer mittelalterlichen Motte, einer frühen normannischen Festung.",
+                  "category": "historical",
+                  "coords": [
+                        -7.127168,
+                        52.520923
+                  ]
+            },
+            {
+                  "name": "Knockard Ringfort (rath)",
+                  "text": "Ein historisches Ringfort, das als archäologische Stätte in Irland erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.141085,
+                        52.498641
+                  ]
+            },
+            {
+                  "name": "Thomastown Quarry",
+                  "text": "Ein ehemaliger Steinbruch, der heute als Naturschutzgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        -7.144222,
+                        52.53479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dysart Castle",
+                  "text": "Egy középkori vár romjai, amely Szent Kieranhoz kapcsolódik.",
+                  "category": "castle",
+                  "coords": [
+                        -7.122252,
+                        52.501973
+                  ]
+            },
+            {
+                  "name": "Brady's Castle",
+                  "text": "Egy történelmi toronyház vagy kastély maradványai Jerpoint Abbey-nél.",
+                  "category": "castle",
+                  "coords": [
+                        -7.137858,
+                        52.525183
+                  ]
+            },
+            {
+                  "name": "Jerpoint Abbey",
+                  "text": "Egy 12. századi ciszterci apátság jelentős romjai.",
+                  "category": "religious",
+                  "coords": [
+                        -7.157614,
+                        52.510871
+                  ]
+            },
+            {
+                  "name": "Killarney Church (site of)",
+                  "text": "Egy régi templom régészeti lelőhelye Jerpoint közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.173561,
+                        52.5555
+                  ]
+            },
+            {
+                  "name": "Pleberstown Ringfort (rath)",
+                  "text": "Egy ősi gyűrűvár, az ír földvárak jellegzetes példája.",
+                  "category": "historical",
+                  "coords": [
+                        -7.13652,
+                        52.489357
+                  ]
+            },
+            {
+                  "name": "Grenan Castle motte",
+                  "text": "Egy középkori motte maradványai, amely egy korai normann erődítmény volt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.127168,
+                        52.520923
+                  ]
+            },
+            {
+                  "name": "Knockard Ringfort (rath)",
+                  "text": "Történelmi gyűrűvár, amely régészeti lelőhelyként maradt fenn Írországban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.141085,
+                        52.498641
+                  ]
+            },
+            {
+                  "name": "Thomastown Quarry",
+                  "text": "Egy korábbi kőfejtő, amely ma természetvédelmi területként működik.",
+                  "category": "natural",
+                  "coords": [
+                        -7.144222,
+                        52.53479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dysart Castle",
+                  "text": "Ruinele unui castel medieval asociat cu Sfântul Kieran.",
+                  "category": "castle",
+                  "coords": [
+                        -7.122252,
+                        52.501973
+                  ]
+            },
+            {
+                  "name": "Brady's Castle",
+                  "text": "Rămășițele unei case-turn sau ale unui castel istoric din Jerpoint Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.137858,
+                        52.525183
+                  ]
+            },
+            {
+                  "name": "Jerpoint Abbey",
+                  "text": "Ruinele importante ale unei abații cisterciene din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.157614,
+                        52.510871
+                  ]
+            },
+            {
+                  "name": "Killarney Church (site of)",
+                  "text": "Situl arheologic al unei vechi biserici situat lângă Jerpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -7.173561,
+                        52.5555
+                  ]
+            },
+            {
+                  "name": "Pleberstown Ringfort (rath)",
+                  "text": "O veche fortificație circulară, exemplu tipic de terasament irlandez.",
+                  "category": "historical",
+                  "coords": [
+                        -7.13652,
+                        52.489357
+                  ]
+            },
+            {
+                  "name": "Grenan Castle motte",
+                  "text": "Rămășițele unei coline fortificate medievale de tip motte.",
+                  "category": "historical",
+                  "coords": [
+                        -7.127168,
+                        52.520923
+                  ]
+            },
+            {
+                  "name": "Knockard Ringfort (rath)",
+                  "text": "O fortificație circulară istorică, păstrată ca sit arheologic în Irlanda.",
+                  "category": "historical",
+                  "coords": [
+                        -7.141085,
+                        52.498641
+                  ]
+            },
+            {
+                  "name": "Thomastown Quarry",
+                  "text": "O fostă carieră de piatră care astăzi servește drept rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.144222,
+                        52.53479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dysart Castle",
+                  "text": "The ruins of a medieval castle associated with Saint Kieran.",
+                  "category": "castle",
+                  "coords": [
+                        -7.122252,
+                        52.501973
+                  ]
+            },
+            {
+                  "name": "Brady's Castle",
+                  "text": "The remains of a historical tower house or castle at Jerpoint Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.137858,
+                        52.525183
+                  ]
+            },
+            {
+                  "name": "Jerpoint Abbey",
+                  "text": "The significant ruins of a 12th-century Cistercian abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.157614,
+                        52.510871
+                  ]
+            },
+            {
+                  "name": "Killarney Church (site of)",
+                  "text": "The archaeological site of an ancient church located near Jerpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -7.173561,
+                        52.5555
+                  ]
+            },
+            {
+                  "name": "Pleberstown Ringfort (rath)",
+                  "text": "An ancient ringfort, a typical example of Irish earthen fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -7.13652,
+                        52.489357
+                  ]
+            },
+            {
+                  "name": "Grenan Castle motte",
+                  "text": "The remains of a medieval motte, an early Norman fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -7.127168,
+                        52.520923
+                  ]
+            },
+            {
+                  "name": "Knockard Ringfort (rath)",
+                  "text": "A historical ringfort preserved as an archaeological site in Ireland.",
+                  "category": "historical",
+                  "coords": [
+                        -7.141085,
+                        52.498641
+                  ]
+            },
+            {
+                  "name": "Thomastown Quarry",
+                  "text": "A former quarry that now serves as a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -7.144222,
+                        52.53479
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-7.1585, 52.5227],
@@ -25094,7 +28379,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-glenveagh-castle",
+    id: "hist-glenveagh-castle", "sights": {
+      "de": [
+            {
+                  "name": "Glenveagh Castle",
+                  "text": "Ein Schloss aus dem 19. Jahrhundert im Glenveagh-Nationalpark im County Donegal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.968532,
+                        55.036193
+                  ]
+            },
+            {
+                  "name": "Dooish",
+                  "text": "Einer der höchsten Gipfel in den Derryveagh Mountains im Glenveagh-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.028692,
+                        55.036709
+                  ]
+            },
+            {
+                  "name": "An Liathin Mor",
+                  "text": "Ein Berggipfel in der zerklüfteten Landschaft des Glenveagh-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.97271,
+                        54.997022
+                  ]
+            },
+            {
+                  "name": "Farscallop",
+                  "text": "Ein malerischer Gipfel in der Region Donegal nahe Glenveagh Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.010379,
+                        55.001219
+                  ]
+            },
+            {
+                  "name": "Viewing point",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über den Glenveagh-Nationalpark und sein Schloss.",
+                  "category": "natural",
+                  "coords": [
+                        -7.965592,
+                        55.034125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glenveagh Castle",
+                  "text": "19. századi kastély a Glenveagh Nemzeti Parkban, Donegal megyében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.968532,
+                        55.036193
+                  ]
+            },
+            {
+                  "name": "Dooish",
+                  "text": "A Derryveagh-hegység egyik legmagasabb csúcsai közé tartozik a Glenveagh-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.028692,
+                        55.036709
+                  ]
+            },
+            {
+                  "name": "An Liathin Mor",
+                  "text": "Hegycsúcs a Glenveagh Nemzeti Park vadregényes táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.97271,
+                        54.997022
+                  ]
+            },
+            {
+                  "name": "Farscallop",
+                  "text": "Festői hegycsúcs Donegal régiójában, a Glenveagh-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.010379,
+                        55.001219
+                  ]
+            },
+            {
+                  "name": "Viewing point",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Glenveagh Nemzeti Parkra és a kastélyra.",
+                  "category": "natural",
+                  "coords": [
+                        -7.965592,
+                        55.034125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glenveagh Castle",
+                  "text": "Un castel din secolul al XIX-lea situat în Parcul Național Glenveagh din comitatul Donegal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.968532,
+                        55.036193
+                  ]
+            },
+            {
+                  "name": "Dooish",
+                  "text": "Unul dintre cele mai înalte vârfuri din munții Derryveagh, lângă castelul Glenveagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.028692,
+                        55.036709
+                  ]
+            },
+            {
+                  "name": "An Liathin Mor",
+                  "text": "Un vârf muntos situat în peisajul accidentat al Parcului Național Glenveagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.97271,
+                        54.997022
+                  ]
+            },
+            {
+                  "name": "Farscallop",
+                  "text": "Un vârf pitoresc în regiunea Donegal, situat lângă castelul Glenveagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.010379,
+                        55.001219
+                  ]
+            },
+            {
+                  "name": "Viewing point",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra Parcului Național Glenveagh și a castelului.",
+                  "category": "natural",
+                  "coords": [
+                        -7.965592,
+                        55.034125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glenveagh Castle",
+                  "text": "A 19th-century castle located in Glenveagh National Park, County Donegal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.968532,
+                        55.036193
+                  ]
+            },
+            {
+                  "name": "Dooish",
+                  "text": "One of the highest peaks in the Derryveagh Mountains near Glenveagh Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.028692,
+                        55.036709
+                  ]
+            },
+            {
+                  "name": "Leahanmore",
+                  "text": "A mountain peak situated in the rugged landscape of Glenveagh National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.97271,
+                        54.997022
+                  ]
+            },
+            {
+                  "name": "Farscallop",
+                  "text": "A scenic mountain peak in the Donegal region near Glenveagh Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.010379,
+                        55.001219
+                  ]
+            },
+            {
+                  "name": "Viewing point",
+                  "text": "An observation point offering panoramic views of Glenveagh National Park and its castle.",
+                  "category": "natural",
+                  "coords": [
+                        -7.965592,
+                        55.034125
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-7.9833, 55.0289],
@@ -25138,7 +28612,88 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-rathcroghan",
+    id: "hist-rathcroghan", "sights": {
+      "de": [
+            {
+                  "name": "Leitrim Castle",
+                  "text": "Eine archäologische Ausgrabungsstätte im historischen Gebiet von Rathcroghan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169938,
+                        53.718398
+                  ]
+            },
+            {
+                  "name": "Lisnagree",
+                  "text": "Eine Stätte von archäologischer Bedeutung in Rathcroghan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.172024,
+                        53.715463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leitrim Castle",
+                  "text": "Régészeti lelőhely a történelmi Rathcroghan területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169938,
+                        53.718398
+                  ]
+            },
+            {
+                  "name": "Lisnagree",
+                  "text": "Régészeti jelentőségű helyszín Rathcroghanban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.172024,
+                        53.715463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leitrim Castle",
+                  "text": "Un sit arheologic situat în zona istorică Rathcroghan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169938,
+                        53.718398
+                  ]
+            },
+            {
+                  "name": "Lisnagree",
+                  "text": "Un sit cu semnificație arheologică situat în Rathcroghan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.172024,
+                        53.715463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leitrim Castle",
+                  "text": "An archaeological site located in the historical Rathcroghan area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169938,
+                        53.718398
+                  ]
+            },
+            {
+                  "name": "Lisnagree",
+                  "text": "A site of archaeological significance situated in Rathcroghan.",
+                  "category": "historical",
+                  "coords": [
+                        -8.172024,
+                        53.715463
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-8.1341, 53.7381],
@@ -25182,7 +28737,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-fore-abbey",
+    id: "hist-fore-abbey", "sights": {
+      "de": [
+            {
+                  "name": "Tullynally Castle",
+                  "text": "Ein prächtiges Schloss und Familiensitz der Grafen von Longford in der Nähe von Fore Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.326931,
+                        53.682632
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Eine traditionelle heilige Quelle in Fore Abbey, die für lokales Brauchtum bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.320086,
+                        53.711507
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Eine historische religiöse Stätte in Fore Abbey, die der Heiligen Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.364512,
+                        53.69832
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church of Ireland",
+                  "text": "Eine Kirche der Church of Ireland in Fore Abbey, die dem Heiligen Michael geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.297979,
+                        53.678558
+                  ]
+            },
+            {
+                  "name": "St. Nicholas's Church",
+                  "text": "Eine dem Heiligen Nikolaus gewidmete Kirche in der historischen Gegend von Fore Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.370652,
+                        53.69174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tullynally Castle",
+                  "text": "A Longford grófok impozáns kastélya és családi fészke Fore Abbey közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.326931,
+                        53.682632
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Egy hagyományos szent kút Fore Abbey területén, amely helyi vallási jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.320086,
+                        53.711507
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Szűz Máriának szentelt történelmi templomhely Fore Abbey területén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.364512,
+                        53.69832
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church of Ireland",
+                  "text": "Szent Mihály tiszteletére szentelt ír protestáns templom Fore Abbey-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.297979,
+                        53.678558
+                  ]
+            },
+            {
+                  "name": "St. Nicholas's Church",
+                  "text": "Szent Miklósnak szentelt templom Fore Abbey történelmi környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.370652,
+                        53.69174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tullynally Castle",
+                  "text": "Un castel impunător, reședința istorică a conților de Longford, situat lângă Fore Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.326931,
+                        53.682632
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Un izvor tradițional sfânt situat în Fore Abbey, cunoscut în tradiția locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.320086,
+                        53.711507
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Un lăcaș de cult istoric situat în Fore Abbey, dedicat Sfintei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        -7.364512,
+                        53.69832
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church of Ireland",
+                  "text": "O biserică anglicană dedicată Sfântului Mihail, situată în Fore Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.297979,
+                        53.678558
+                  ]
+            },
+            {
+                  "name": "St. Nicholas's Church",
+                  "text": "O biserică dedicată Sfântului Nicolae, aflată în zona istorică Fore Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.370652,
+                        53.69174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tullynally Castle",
+                  "text": "A grand castle and the ancestral home of the Earls of Longford near Fore Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.326931,
+                        53.682632
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A traditional holy well and spring located in Fore Abbey, significant in local lore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.320086,
+                        53.711507
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A historic religious site dedicated to Saint Mary, located in Fore Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.364512,
+                        53.69832
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church of Ireland",
+                  "text": "A Church of Ireland place of worship dedicated to Saint Michael in Fore Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -7.297979,
+                        53.678558
+                  ]
+            },
+            {
+                  "name": "St. Nicholas's Church",
+                  "text": "A church dedicated to Saint Nicholas, located in the historic Fore Abbey area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.370652,
+                        53.69174
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-7.3125, 53.6997],
@@ -25226,7 +28970,304 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-dun-aonghasa", "sights": {"de": [{"name": "Trá na mBuailte (Beach of the Booly)", "text": "Nahe dem antiken Steinfort Dun Aonghasa gelegen, präsentiert dieser Strand eine bezaubernde Mischung aus Geschichte und maritimem Charme. Die umliegende felsige Landschaft bildet eine dramatische Kulisse, die Besucher einlädt, die rauen Elemente des Atlantiks zu erleben. Er bietet eine friedliche, abgelegene Atmosphäre, in der man am Wasser entlangspazieren und sich eng mit der antiken Vergangenheit Irlands verbunden fühlen kann. Ein Spaziergang am Ufer ist eine unvergessliche Ergänzung zur Erkundung der nahegelegenen historischen Stätten.", "category": "recreational", "coords": [-9.67022, 53.131019]}], "hu": [{"name": "Trá na mBuailte (Beach of the Booly)", "text": "A Dun Aonghasa ősi kőerődje közelében elterülő strand a történelem és a tengerparti báj varázslatos keverékét nyújtja. A környező sziklás táj drámai színteret biztosít, és arra hívja a látogatókat, hogy megtapasztalják a nyers atlanti elemeket. Békés, távoli atmoszférát kínál, ahol a vízparton sétálva szoros kapcsolatot érezhetünk Írország ősi múltjával. A partvonal bejárása emlékezetes kiegészítése a közeli történelmi helyszínek felfedezésének.", "category": "recreational", "coords": [-9.67022, 53.131019]}], "ro": [{"name": "Trá na mBuailte (Beach of the Booly)", "text": "Odihnindu-se lângă vechiul fort de piatră Dun Aonghasa, această plajă prezintă un amestec fermecător de istorie și farmec maritim. Peisajul stâncos din jur stabilește o scenă dramatică, invitând vizitatorii să experimenteze elementele brute ale Atlanticului. Oferă o atmosferă liniștită, îndepărtată, unde vă puteți plimba de-a lungul apei și vă puteți simți strâns conectați la trecutul antic al Irlandei. Plimbarea pe acest țărm reprezintă un plus memorabil la explorarea siturilor istorice din apropiere.", "category": "recreational", "coords": [-9.67022, 53.131019]}], "en": [{"name": "Trá na mBuailte (Beach of the Booly)", "text": "Resting near the ancient stone fort of Dun Aonghasa, this beach presents an enchanting mix of history and maritime charm. The surrounding rocky landscape sets a dramatic scene, inviting visitors to experience the raw Atlantic elements. It offers a tranquil, remote atmosphere where you can stroll along the water and feel closely connected to Ireland's ancient past. Combing the shoreline here makes for a memorable addition to exploring the nearby historical sites.", "category": "recreational", "coords": [-9.67022, 53.131019]}]},
+    id: "landmark-dun-aonghasa", "sights": {
+      "de": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "Nahe dem antiken Steinfort Dun Aonghasa gelegen, präsentiert dieser Strand eine bezaubernde Mischung aus Geschichte und maritimem Charme. Die umliegende felsige Landschaft bildet eine dramatische Kulisse, die Besucher einlädt, die rauen Elemente des Atlantiks zu erleben. Er bietet eine friedliche, abgelegene Atmosphäre, in der man am Wasser entlangspazieren und sich eng mit der antiken Vergangenheit Irlands verbunden fühlen kann. Ein Spaziergang am Ufer ist eine unvergessliche Ergänzung zur Erkundung der nahegelegenen historischen Stätten.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            },
+            {
+                  "name": "Straw Island Lighthouse",
+                  "text": "Ein kleiner Leuchtturm auf Straw Island vor der Küste der Aran-Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.63079,
+                        53.118006
+                  ]
+            },
+            {
+                  "name": "Dún Dúchathair",
+                  "text": "Eine beeindruckende prähistorische Steinburg an den Klippen von Inis Mór.",
+                  "category": "historical",
+                  "coords": [
+                        -9.687648,
+                        53.104362
+                  ]
+            },
+            {
+                  "name": "Arkin's Castle",
+                  "text": "Eine historische Burg in Dun Aonghasa.",
+                  "category": "castle",
+                  "coords": [
+                        -9.6626,
+                        53.104824
+                  ]
+            },
+            {
+                  "name": "Teach Solais Árainn",
+                  "text": "Ein markanter Leuchtturm auf der Insel Inishmore bei Dun Aonghasa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.702223,
+                        53.127446
+                  ]
+            },
+            {
+                  "name": "St. Eany's Monastic Site",
+                  "text": "Alte Klosterruinen, die mit dem Heiligen Eany in Dun Aonghasa verbunden sind.",
+                  "category": "religious",
+                  "coords": [
+                        -9.663614,
+                        53.103264
+                  ]
+            },
+            {
+                  "name": "Dún Eochla",
+                  "text": "Eine antike Steinburg auf dem höchsten Punkt von Inishmore.",
+                  "category": "historical",
+                  "coords": [
+                        -9.699709,
+                        53.127119
+                  ]
+            },
+            {
+                  "name": "St. Kieran's Monastic Site",
+                  "text": "Historische Klosterreste, die dem Heiligen Kieran in Dun Aonghasa gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        -9.685,
+                        53.132175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "A Dun Aonghasa ősi kőerődje közelében elterülő strand a történelem és a tengerparti báj varázslatos keverékét nyújtja. A környező sziklás táj drámai színteret biztosít, és arra hívja a látogatókat, hogy megtapasztalják a nyers atlanti elemeket. Békés, távoli atmoszférát kínál, ahol a vízparton sétálva szoros kapcsolatot érezhetünk Írország ősi múltjával. A partvonal bejárása emlékezetes kiegészítése a közeli történelmi helyszínek felfedezésének.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            },
+            {
+                  "name": "Straw Island Lighthouse",
+                  "text": "Kis világítótorony a Straw-szigeten, az Aran-szigetek partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.63079,
+                        53.118006
+                  ]
+            },
+            {
+                  "name": "Dún Dúchathair",
+                  "text": "Impozáns őskori kővár Inis Mór szigetének szikláin.",
+                  "category": "historical",
+                  "coords": [
+                        -9.687648,
+                        53.104362
+                  ]
+            },
+            {
+                  "name": "Arkin's Castle",
+                  "text": "Egy történelmi vár Dun Aonghasa területén.",
+                  "category": "castle",
+                  "coords": [
+                        -9.6626,
+                        53.104824
+                  ]
+            },
+            {
+                  "name": "Teach Solais Árainn",
+                  "text": "Egy jellegzetes világítótorony Inishmore szigetén, Dun Aonghasa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.702223,
+                        53.127446
+                  ]
+            },
+            {
+                  "name": "St. Eany's Monastic Site",
+                  "text": "Szent Eanyhoz köthető ősi kolostorromok Dun Aonghasa területén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.663614,
+                        53.103264
+                  ]
+            },
+            {
+                  "name": "Dún Eochla",
+                  "text": "Egy ősi kőerőd Inishmore legmagasabb pontján.",
+                  "category": "historical",
+                  "coords": [
+                        -9.699709,
+                        53.127119
+                  ]
+            },
+            {
+                  "name": "St. Kieran's Monastic Site",
+                  "text": "Szent Kierannak szentelt történelmi kolostormaradványok Dun Aonghasa területén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.685,
+                        53.132175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "Odihnindu-se lângă vechiul fort de piatră Dun Aonghasa, această plajă prezintă un amestec fermecător de istorie și farmec maritim. Peisajul stâncos din jur stabilește o scenă dramatică, invitând vizitatorii să experimenteze elementele brute ale Atlanticului. Oferă o atmosferă liniștită, îndepărtată, unde vă puteți plimba de-a lungul apei și vă puteți simți strâns conectați la trecutul antic al Irlandei. Plimbarea pe acest țărm reprezintă un plus memorabil la explorarea siturilor istorice din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            },
+            {
+                  "name": "Straw Island Lighthouse",
+                  "text": "Un mic far pe insula Straw, în largul coastelor Insulelor Aran.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.63079,
+                        53.118006
+                  ]
+            },
+            {
+                  "name": "Dún Dúchathair",
+                  "text": "O fortăreață de piatră preistorică impresionantă pe stâncile din Inis Mór.",
+                  "category": "historical",
+                  "coords": [
+                        -9.687648,
+                        53.104362
+                  ]
+            },
+            {
+                  "name": "Arkin's Castle",
+                  "text": "Un castel istoric situat în Dun Aonghasa.",
+                  "category": "castle",
+                  "coords": [
+                        -9.6626,
+                        53.104824
+                  ]
+            },
+            {
+                  "name": "Teach Solais Árainn",
+                  "text": "Un far proeminent pe insula Inishmore, lângă Dun Aonghasa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.702223,
+                        53.127446
+                  ]
+            },
+            {
+                  "name": "St. Eany's Monastic Site",
+                  "text": "Vechile ruine monahale asociate cu Sfântul Eany în Dun Aonghasa.",
+                  "category": "religious",
+                  "coords": [
+                        -9.663614,
+                        53.103264
+                  ]
+            },
+            {
+                  "name": "Dún Eochla",
+                  "text": "Un vechi fort de piatră situat pe cel mai înalt punct de pe Inishmore.",
+                  "category": "historical",
+                  "coords": [
+                        -9.699709,
+                        53.127119
+                  ]
+            },
+            {
+                  "name": "St. Kieran's Monastic Site",
+                  "text": "Rămășițe monahale istorice dedicate Sfântului Kieran în Dun Aonghasa.",
+                  "category": "religious",
+                  "coords": [
+                        -9.685,
+                        53.132175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "Resting near the ancient stone fort of Dun Aonghasa, this beach presents an enchanting mix of history and maritime charm. The surrounding rocky landscape sets a dramatic scene, inviting visitors to experience the raw Atlantic elements. It offers a tranquil, remote atmosphere where you can stroll along the water and feel closely connected to Ireland's ancient past. Combing the shoreline here makes for a memorable addition to exploring the nearby historical sites.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            },
+            {
+                  "name": "Straw Island Lighthouse",
+                  "text": "A small lighthouse on Straw Island off the coast of the Aran Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.63079,
+                        53.118006
+                  ]
+            },
+            {
+                  "name": "The Black Fort",
+                  "text": "An impressive prehistoric stone fort situated on the cliffs of Inis Mór.",
+                  "category": "historical",
+                  "coords": [
+                        -9.687648,
+                        53.104362
+                  ]
+            },
+            {
+                  "name": "Arkin's Castle",
+                  "text": "A historic castle located in Dun Aonghasa.",
+                  "category": "castle",
+                  "coords": [
+                        -9.6626,
+                        53.104824
+                  ]
+            },
+            {
+                  "name": "Dún Aránn Lighthouse",
+                  "text": "A prominent lighthouse on Inishmore island near Dun Aonghasa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.702223,
+                        53.127446
+                  ]
+            },
+            {
+                  "name": "St. Eany's Monastic Site",
+                  "text": "Ancient monastic ruins associated with Saint Eany in Dun Aonghasa.",
+                  "category": "religious",
+                  "coords": [
+                        -9.663614,
+                        53.103264
+                  ]
+            },
+            {
+                  "name": "Oghil Fort",
+                  "text": "An ancient stone fort located on the highest point of Inishmore.",
+                  "category": "historical",
+                  "coords": [
+                        -9.699709,
+                        53.127119
+                  ]
+            },
+            {
+                  "name": "St. Kieran's Monastic Site",
+                  "text": "Historic monastic remains dedicated to Saint Kieran in Dun Aonghasa.",
+                  "category": "religious",
+                  "coords": [
+                        -9.685,
+                        53.132175
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.6480, 53.1238],
@@ -25314,7 +29355,340 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "mountain-mweelrea", "sights": {"de": [{"name": "Glassilaun Beach", "text": "Vor der markanten Silhouette des Berges Mweelrea gelegen, besticht der Glassilaun Beach durch einen langen, geschwungenen Halbmond aus weißem Sand. Das leuchtend blaue Wasser und die beeindruckende Bergkulisse schaffen eine wahrlich spektakuläre Umgebung für Naturliebhaber. Besucher erwartet eine unberührte, ruhige Atmosphäre, die ideal für friedliches Schwimmen oder malerische Küstenspaziergänge ist. Ein Picknick mitzubringen ist sehr zu empfehlen, um den Panoramablick an einem sonnigen Tag in vollen Zügen zu genießen.", "category": "recreational", "coords": [-9.881919, 53.615461]}, {"name": "Uggool Beach", "text": "Eingebettet in die Nähe des majestätischen Berges Mweelrea, bietet Uggool Beach eine wunderbar abgelegene Lage an der Küste. Die atemberaubende Kombination aus goldenem Sand und robuster Berglandschaft erzeugt eine zutiefst friedliche und unberührte Atmosphäre. Der Ort lädt abenteuerlustige Seelen zu ruhigem Nachdenken, einsamen Spaziergängen und dem Genießen der kraftvollen atlantischen Natur ein. Bei der Fahrt zu diesem versteckten Küstenjuwel ist eine vorsichtige Navigation auf den lokalen Straßen ratsam.", "category": "recreational", "coords": [-9.878079, 53.638281]}], "hu": [{"name": "Glassilaun Beach", "text": "A Mweelrea hegy lenyűgöző sziluettje előtt húzódó Glassilaun Beach hosszú, ívelt fehér homokos partszakasszal büszkélkedhet. Az élénkkék víz és a lenyűgöző hegyi háttér igazán látványos környezetet teremt a természetrajongók számára. A látogatók a tömegtől mentes, derűs hangulatot élvezhetik, amely ideális a békés úszáshoz vagy a festői tengerparti sétákhoz. Egy napos délutánon érdemes pikniket is hozni, hogy maradéktalanul kiélvezzük a panorámát.", "category": "recreational", "coords": [-9.881919, 53.615461]}, {"name": "Uggool Beach", "text": "A fenséges Mweelrea hegy közelében megbúvó Uggool Beach csodálatosan eldugott tengerparti környezetet biztosít. Az aranyhomok és a robusztus hegyi táj lenyűgöző kombinációja mélyen békés és érintetlen atmoszférát teremt. Kalandvágyó lelkeket csábít csendes elmélkedésre, magányos sétákra és az erőteljes atlanti természet megtapasztalására. Ehhez a rejtett tengerparti gyöngyszemhez vezető helyi utakon érdemes óvatosan közlekedni.", "category": "recreational", "coords": [-9.878079, 53.638281]}], "ro": [{"name": "Glassilaun Beach", "text": "Amplasată pe fundalul siluetei izbitoare a muntelui Mweelrea, Glassilaun Beach se mândrește cu o semilună lungă și curbată de nisip alb. Apele albastre vii și fundalul muntos impresionant creează un mediu cu adevărat spectaculos pentru pasionații de natură. Vizitatorii se pot bucura de o atmosferă senină, neaglomerată, ideală pentru înot pașnic sau plimbări pitorești pe coastă. Aducerea unui picnic este foarte recomandată pentru a absorbi pe deplin priveliștile panoramice într-o zi însorită.", "category": "recreational", "coords": [-9.881919, 53.615461]}, {"name": "Uggool Beach", "text": "Ascunsă lângă maiestuosul Munte Mweelrea, Uggool Beach oferă un cadru minunat de îndepărtat pe coastă. Combinația uimitoare de nisipuri aurii și peisaje montane robuste generează o atmosferă profund pașnică și neatinsă. Invită sufletele aventuroase la reflecție liniștită, plimbări solitare și la absorbirea naturii puternice a Atlanticului. Navigarea atentă pe drumurile locale este recomandată atunci când vă aventurați către această bijuterie de coastă ascunsă.", "category": "recreational", "coords": [-9.878079, 53.638281]}], "en": [{"name": "Glassilaun Beach", "text": "Set against the striking silhouette of Mweelrea mountain, Glassilaun Beach boasts a long, sweeping crescent of white sand. The vivid blue waters and impressive mountainous backdrop create a truly spectacular environment for nature enthusiasts. Visitors can enjoy an uncrowded, serene vibe, making it ideal for peaceful swimming or scenic coastal walks. Bringing a picnic is highly recommended to fully soak in the panoramic views on a sunny day.", "category": "recreational", "coords": [-9.881919, 53.615461]}, {"name": "Uggool Beach", "text": "Nestled near the majestic Mountain Mweelrea, Uggool Beach provides a wonderfully remote setting on the coast. The stunning combination of golden sands and robust mountain scenery generates a profoundly peaceful and untouched atmosphere. It invites adventurous souls for quiet reflection, solitary walks, and absorbing the powerful Atlantic nature. Careful navigation of the local roads is advised when venturing out to this hidden coastal gem.", "category": "recreational", "coords": [-9.878079, 53.638281]}]},
+    id: "mountain-mweelrea", "sights": {
+      "de": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Vor der markanten Silhouette des Berges Mweelrea gelegen, besticht der Glassilaun Beach durch einen langen, geschwungenen Halbmond aus weißem Sand. Das leuchtend blaue Wasser und die beeindruckende Bergkulisse schaffen eine wahrlich spektakuläre Umgebung für Naturliebhaber. Besucher erwartet eine unberührte, ruhige Atmosphäre, die ideal für friedliches Schwimmen oder malerische Küstenspaziergänge ist. Ein Picknick mitzubringen ist sehr zu empfehlen, um den Panoramablick an einem sonnigen Tag in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Eingebettet in die Nähe des majestätischen Berges Mweelrea, bietet Uggool Beach eine wunderbar abgelegene Lage an der Küste. Die atemberaubende Kombination aus goldenem Sand und robuster Berglandschaft erzeugt eine zutiefst friedliche und unberührte Atmosphäre. Der Ort lädt abenteuerlustige Seelen zu ruhigem Nachdenken, einsamen Spaziergängen und dem Genießen der kraftvollen atlantischen Natur ein. Bei der Fahrt zu diesem versteckten Küstenjuwel ist eine vorsichtige Navigation auf den lokalen Straßen ratsam.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            },
+            {
+                  "name": "Mweelrea",
+                  "text": "Der höchste Berg in der Provinz Connacht und ein beliebtes Wanderziel.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.830376,
+                        53.63727
+                  ]
+            },
+            {
+                  "name": "Ben Lugmore",
+                  "text": "Ein Gipfel in den Mweelrea Mountains an der Westküste Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797482,
+                        53.642783
+                  ]
+            },
+            {
+                  "name": "Ben Bury",
+                  "text": "Ein Berggipfel in der Grafschaft Mayo, der Teil des Mweelrea-Massivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.811819,
+                        53.650844
+                  ]
+            },
+            {
+                  "name": "Killary Harbour",
+                  "text": "Der einzige Fjord Irlands, der tief in die hügelige Landschaft einschneidet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.781952,
+                        53.599483
+                  ]
+            },
+            {
+                  "name": "Foher Village",
+                  "text": "Überreste eines verlassenen Dorfes in der malerischen Region Mweelrea.",
+                  "category": "historical",
+                  "coords": [
+                        -9.827832,
+                        53.609037
+                  ]
+            },
+            {
+                  "name": "Gubbanuggool",
+                  "text": "Ruinen einer historischen Siedlung in der abgeschiedenen irischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -9.869812,
+                        53.635903
+                  ]
+            },
+            {
+                  "name": "Salrock Church",
+                  "text": "Eine historische Kirche in der Nähe von Salrock, eingebettet in die Natur.",
+                  "category": "religious",
+                  "coords": [
+                        -9.847845,
+                        53.609151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "A Mweelrea hegy lenyűgöző sziluettje előtt húzódó Glassilaun Beach hosszú, ívelt fehér homokos partszakasszal büszkélkedhet. Az élénkkék víz és a lenyűgöző hegyi háttér igazán látványos környezetet teremt a természetrajongók számára. A látogatók a tömegtől mentes, derűs hangulatot élvezhetik, amely ideális a békés úszáshoz vagy a festői tengerparti sétákhoz. Egy napos délutánon érdemes pikniket is hozni, hogy maradéktalanul kiélvezzük a panorámát.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "A fenséges Mweelrea hegy közelében megbúvó Uggool Beach csodálatosan eldugott tengerparti környezetet biztosít. Az aranyhomok és a robusztus hegyi táj lenyűgöző kombinációja mélyen békés és érintetlen atmoszférát teremt. Kalandvágyó lelkeket csábít csendes elmélkedésre, magányos sétákra és az erőteljes atlanti természet megtapasztalására. Ehhez a rejtett tengerparti gyöngyszemhez vezető helyi utakon érdemes óvatosan közlekedni.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            },
+            {
+                  "name": "Mweelrea",
+                  "text": "Connacht tartomány legmagasabb hegye és népszerű túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.830376,
+                        53.63727
+                  ]
+            },
+            {
+                  "name": "Ben Lugmore",
+                  "text": "Egy hegycsúcs a Mweelrea-hegységben, Írország nyugati partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797482,
+                        53.642783
+                  ]
+            },
+            {
+                  "name": "Ben Bury",
+                  "text": "Hegycsúcs Mayo megyében, amely a Mweelrea-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.811819,
+                        53.650844
+                  ]
+            },
+            {
+                  "name": "Killary Harbour",
+                  "text": "Írország egyetlen fjordja, amely mélyen benyúlik a dombos tájba.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.781952,
+                        53.599483
+                  ]
+            },
+            {
+                  "name": "Foher Village",
+                  "text": "Egy elhagyatott falu maradványai a festői Mweelrea régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.827832,
+                        53.609037
+                  ]
+            },
+            {
+                  "name": "Gubbanuggool",
+                  "text": "Egy történelmi település romjai az elszigetelt ír tájon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.869812,
+                        53.635903
+                  ]
+            },
+            {
+                  "name": "Salrock Church",
+                  "text": "Történelmi templom Salrock közelében, a természetbe ágyazva.",
+                  "category": "religious",
+                  "coords": [
+                        -9.847845,
+                        53.609151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Amplasată pe fundalul siluetei izbitoare a muntelui Mweelrea, Glassilaun Beach se mândrește cu o semilună lungă și curbată de nisip alb. Apele albastre vii și fundalul muntos impresionant creează un mediu cu adevărat spectaculos pentru pasionații de natură. Vizitatorii se pot bucura de o atmosferă senină, neaglomerată, ideală pentru înot pașnic sau plimbări pitorești pe coastă. Aducerea unui picnic este foarte recomandată pentru a absorbi pe deplin priveliștile panoramice într-o zi însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Ascunsă lângă maiestuosul Munte Mweelrea, Uggool Beach oferă un cadru minunat de îndepărtat pe coastă. Combinația uimitoare de nisipuri aurii și peisaje montane robuste generează o atmosferă profund pașnică și neatinsă. Invită sufletele aventuroase la reflecție liniștită, plimbări solitare și la absorbirea naturii puternice a Atlanticului. Navigarea atentă pe drumurile locale este recomandată atunci când vă aventurați către această bijuterie de coastă ascunsă.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            },
+            {
+                  "name": "Mweelrea",
+                  "text": "Cel mai înalt munte din provincia Connacht și o destinație populară de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.830376,
+                        53.63727
+                  ]
+            },
+            {
+                  "name": "Ben Lugmore",
+                  "text": "Un vârf în munții Mweelrea de pe coasta de vest a Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797482,
+                        53.642783
+                  ]
+            },
+            {
+                  "name": "Ben Bury",
+                  "text": "Un vârf muntos în comitatul Mayo, făcând parte din masivul Mweelrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.811819,
+                        53.650844
+                  ]
+            },
+            {
+                  "name": "Killary Harbour",
+                  "text": "Singurul fjord din Irlanda care pătrunde adânc în peisajul deluros.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.781952,
+                        53.599483
+                  ]
+            },
+            {
+                  "name": "Foher Village",
+                  "text": "Rămășițele unui sat părăsit în regiunea pitorească Mweelrea.",
+                  "category": "historical",
+                  "coords": [
+                        -9.827832,
+                        53.609037
+                  ]
+            },
+            {
+                  "name": "Gubbanuggool",
+                  "text": "Ruinele unei așezări istorice în peisajul irlandez izolat.",
+                  "category": "historical",
+                  "coords": [
+                        -9.869812,
+                        53.635903
+                  ]
+            },
+            {
+                  "name": "Salrock Church",
+                  "text": "O biserică istorică lângă Salrock situată în mijlocul naturii.",
+                  "category": "religious",
+                  "coords": [
+                        -9.847845,
+                        53.609151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Set against the striking silhouette of Mweelrea mountain, Glassilaun Beach boasts a long, sweeping crescent of white sand. The vivid blue waters and impressive mountainous backdrop create a truly spectacular environment for nature enthusiasts. Visitors can enjoy an uncrowded, serene vibe, making it ideal for peaceful swimming or scenic coastal walks. Bringing a picnic is highly recommended to fully soak in the panoramic views on a sunny day.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Nestled near the majestic Mountain Mweelrea, Uggool Beach provides a wonderfully remote setting on the coast. The stunning combination of golden sands and robust mountain scenery generates a profoundly peaceful and untouched atmosphere. It invites adventurous souls for quiet reflection, solitary walks, and absorbing the powerful Atlantic nature. Careful navigation of the local roads is advised when venturing out to this hidden coastal gem.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            },
+            {
+                  "name": "Mweelrea",
+                  "text": "The highest mountain in the province of Connacht and a popular hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.830376,
+                        53.63727
+                  ]
+            },
+            {
+                  "name": "Ben Lugmore",
+                  "text": "A peak in the Mweelrea Mountains on the west coast of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.797482,
+                        53.642783
+                  ]
+            },
+            {
+                  "name": "Ben Bury",
+                  "text": "A mountain peak in County Mayo, part of the Mweelrea massif.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.811819,
+                        53.650844
+                  ]
+            },
+            {
+                  "name": "Killary Harbour",
+                  "text": "Ireland's only fjord, cutting deep into the hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.781952,
+                        53.599483
+                  ]
+            },
+            {
+                  "name": "Foher Village",
+                  "text": "Remains of a deserted village in the scenic Mweelrea region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.827832,
+                        53.609037
+                  ]
+            },
+            {
+                  "name": "Gubbanuggool",
+                  "text": "Ruins of a historical settlement in the secluded Irish landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -9.869812,
+                        53.635903
+                  ]
+            },
+            {
+                  "name": "Salrock Church",
+                  "text": "A historic church near Salrock, nestled in the natural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -9.847845,
+                        53.609151
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ireland",
     coords: [-9.8139, 53.6250],
@@ -25402,7 +29776,304 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "lake-lough-mask",
+    id: "lake-lough-mask", "sights": {
+      "de": [
+            {
+                  "name": "Aghalard Castle",
+                  "text": "Die Überreste einer mittelalterlichen Burg am Ufer des Lough Mask.",
+                  "category": "castle",
+                  "coords": [
+                        -9.298898,
+                        53.556016
+                  ]
+            },
+            {
+                  "name": "Cong Abbey",
+                  "text": "Eine historische Augustinerabtei aus dem 12. Jahrhundert in der Nähe des Lough Mask.",
+                  "category": "religious",
+                  "coords": [
+                        -9.287053,
+                        53.540192
+                  ]
+            },
+            {
+                  "name": "Quiet Man Museum",
+                  "text": "Ein Museum, das dem klassischen Film 'Der Sieger' (The Quiet Man) gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.288012,
+                        53.540852
+                  ]
+            },
+            {
+                  "name": "Kelly's Cave",
+                  "text": "Ein Höhleneingang in der Nähe von Cong, der mit lokalen Legenden verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.279372,
+                        53.544567
+                  ]
+            },
+            {
+                  "name": "Chalet view",
+                  "text": "Ein Aussichtspunkt mit malerischem Blick auf die Landschaft rund um den Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.308699,
+                        53.523354
+                  ]
+            },
+            {
+                  "name": "Ashford castle",
+                  "text": "Ein Aussichtspunkt mit Blick auf das berühmte Ashford Castle am Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.286936,
+                        53.530963
+                  ]
+            },
+            {
+                  "name": "Ard na Gaoithe",
+                  "text": "Eine lokale Sehenswürdigkeit in der landschaftlich reizvollen Region des Lough Mask.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.307295,
+                        53.524348
+                  ]
+            },
+            {
+                  "name": "Ballykine Castle",
+                  "text": "Die Ruinen einer historischen Festung am Ufer des Lough Mask.",
+                  "category": "historical",
+                  "coords": [
+                        -9.338344,
+                        53.555733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aghalard Castle",
+                  "text": "Egy középkori vár maradványai a Lough Mask tó partján.",
+                  "category": "castle",
+                  "coords": [
+                        -9.298898,
+                        53.556016
+                  ]
+            },
+            {
+                  "name": "Cong Abbey",
+                  "text": "Történelmi 12. századi ágoston-rendi apátság a Lough Mask közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.287053,
+                        53.540192
+                  ]
+            },
+            {
+                  "name": "Quiet Man Museum",
+                  "text": "A 'A nyugodt férfi' című klasszikus filmnek szentelt múzeum a Lough Mask közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -9.288012,
+                        53.540852
+                  ]
+            },
+            {
+                  "name": "Kelly's Cave",
+                  "text": "Cong közelében található barlangbejárat, amely helyi legendákhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.279372,
+                        53.544567
+                  ]
+            },
+            {
+                  "name": "Chalet view",
+                  "text": "Kilátópont, ahonnan festői kilátás nyílik a Lough Mask környéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.308699,
+                        53.523354
+                  ]
+            },
+            {
+                  "name": "Ashford castle",
+                  "text": "Kilátópont, ahonnan rálátni a Lough Mask partján fekvő híres Ashford kastélyra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.286936,
+                        53.530963
+                  ]
+            },
+            {
+                  "name": "Ard na Gaoithe",
+                  "text": "Helyi látványosság a Lough Mask festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.307295,
+                        53.524348
+                  ]
+            },
+            {
+                  "name": "Ballykine Castle",
+                  "text": "Egy történelmi erődítmény romjai a Lough Mask tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        -9.338344,
+                        53.555733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aghalard Castle",
+                  "text": "Rămășițele unui castel medieval situat pe malul lacului Lough Mask.",
+                  "category": "castle",
+                  "coords": [
+                        -9.298898,
+                        53.556016
+                  ]
+            },
+            {
+                  "name": "Cong Abbey",
+                  "text": "O abație augustiniană istorică din secolul al XII-lea situată lângă Lough Mask.",
+                  "category": "religious",
+                  "coords": [
+                        -9.287053,
+                        53.540192
+                  ]
+            },
+            {
+                  "name": "Quiet Man Museum",
+                  "text": "Un muzeu dedicat filmului clasic 'Omul liniștit' (The Quiet Man), lângă Lough Mask.",
+                  "category": "museum",
+                  "coords": [
+                        -9.288012,
+                        53.540852
+                  ]
+            },
+            {
+                  "name": "Kelly's Cave",
+                  "text": "O intrare într-o peșteră lângă Cong, asociată cu legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.279372,
+                        53.544567
+                  ]
+            },
+            {
+                  "name": "Chalet view",
+                  "text": "Un punct de observare ce oferă o vedere pitorească asupra peisajului din jurul Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.308699,
+                        53.523354
+                  ]
+            },
+            {
+                  "name": "Ashford castle",
+                  "text": "Un punct de observare cu vedere spre celebrul castel Ashford de pe malul Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.286936,
+                        53.530963
+                  ]
+            },
+            {
+                  "name": "Ard na Gaoithe",
+                  "text": "O atracție locală situată în regiunea pitorească a lacului Lough Mask.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.307295,
+                        53.524348
+                  ]
+            },
+            {
+                  "name": "Ballykine Castle",
+                  "text": "Ruinele unei fortificații istorice pe malul lacului Lough Mask.",
+                  "category": "historical",
+                  "coords": [
+                        -9.338344,
+                        53.555733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aghalard Castle",
+                  "text": "The remains of a medieval castle situated on the shores of Lough Mask.",
+                  "category": "castle",
+                  "coords": [
+                        -9.298898,
+                        53.556016
+                  ]
+            },
+            {
+                  "name": "Cong Abbey",
+                  "text": "A historic 12th-century Augustinian abbey located near Lough Mask.",
+                  "category": "religious",
+                  "coords": [
+                        -9.287053,
+                        53.540192
+                  ]
+            },
+            {
+                  "name": "Quiet Man Museum",
+                  "text": "A museum dedicated to the classic movie 'The Quiet Man' located near Lough Mask.",
+                  "category": "museum",
+                  "coords": [
+                        -9.288012,
+                        53.540852
+                  ]
+            },
+            {
+                  "name": "Kelly's Cave",
+                  "text": "A cave entrance located near Cong, associated with local legends.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.279372,
+                        53.544567
+                  ]
+            },
+            {
+                  "name": "Chalet view",
+                  "text": "A viewpoint offering scenic views of the landscape surrounding Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.308699,
+                        53.523354
+                  ]
+            },
+            {
+                  "name": "Ashford castle",
+                  "text": "A viewpoint overlooking the famous Ashford Castle on the shores of Lough Mask.",
+                  "category": "natural",
+                  "coords": [
+                        -9.286936,
+                        53.530963
+                  ]
+            },
+            {
+                  "name": "Ard na Gaoithe",
+                  "text": "A local attraction situated in the scenic region of Lough Mask.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.307295,
+                        53.524348
+                  ]
+            },
+            {
+                  "name": "Ballykine Castle",
+                  "text": "The ruins of a historic fortification on the shores of Lough Mask.",
+                  "category": "historical",
+                  "coords": [
+                        -9.338344,
+                        53.555733
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ireland",
     coords: [-9.3371, 53.5354],
@@ -25534,7 +30205,304 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "river-blackwater",
+    id: "river-blackwater", "sights": {
+      "de": [
+            {
+                  "name": "Tourin House",
+                  "text": "Ein historisches Herrenhaus mit Gärten am Ufer des Flusses Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.864096,
+                        52.120262
+                  ]
+            },
+            {
+                  "name": "Market House Craftworks",
+                  "text": "Eine Galerie für Kunsthandwerk in der Nähe des Flusses Blackwater.",
+                  "category": "museum",
+                  "coords": [
+                        -7.849136,
+                        52.146614
+                  ]
+            },
+            {
+                  "name": "Dromana House",
+                  "text": "Ein bedeutendes historisches Anwesen auf einer Klippe über dem Fluss Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865524,
+                        52.107929
+                  ]
+            },
+            {
+                  "name": "Cappoquin House",
+                  "text": "Ein klassisches Herrenhaus aus dem 18. Jahrhundert in der Nähe des Flusses Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.850595,
+                        52.1496
+                  ]
+            },
+            {
+                  "name": "Dromana Gate",
+                  "text": "Ein einzigartiges Torhaus im hindu-gotischen Stil am Fluss Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.843883,
+                        52.123424
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "Ein historisches Landhaus im Blackwater-Völgy.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Villierstown Church",
+                  "text": "Eine historische Kirche für die Gemeinde Villierstown am Fluss Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851097,
+                        52.089271
+                  ]
+            },
+            {
+                  "name": "St. Anne's Church",
+                  "text": "Eine lokale Gebetsstätte in der Nähe des Flusses Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851273,
+                        52.147124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tourin House",
+                  "text": "Történelmi kúria és kertek a Blackwater-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        -7.864096,
+                        52.120262
+                  ]
+            },
+            {
+                  "name": "Market House Craftworks",
+                  "text": "Művészeti és kézműves galéria a Blackwater-folyó közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -7.849136,
+                        52.146614
+                  ]
+            },
+            {
+                  "name": "Dromana House",
+                  "text": "Kiemelkedő történelmi birtok a Blackwater-folyó feletti sziklán.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865524,
+                        52.107929
+                  ]
+            },
+            {
+                  "name": "Cappoquin House",
+                  "text": "18. századi klasszikus kúria a Blackwater-folyó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.850595,
+                        52.1496
+                  ]
+            },
+            {
+                  "name": "Dromana Gate",
+                  "text": "Egyedülálló hindu-gótikus stílusú kapuépület a Blackwater-folyónál.",
+                  "category": "historical",
+                  "coords": [
+                        -7.843883,
+                        52.123424
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "Történelmi vidéki kúria a Blackwater-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Villierstown Church",
+                  "text": "Történelmi templom Villierstown közössége számára a Blackwater-folyónál.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851097,
+                        52.089271
+                  ]
+            },
+            {
+                  "name": "St. Anne's Church",
+                  "text": "Helyi istentiszteleti hely a Blackwater-folyó környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851273,
+                        52.147124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tourin House",
+                  "text": "Un conac istoric și grădini pe malul râului Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.864096,
+                        52.120262
+                  ]
+            },
+            {
+                  "name": "Market House Craftworks",
+                  "text": "O galerie de artă și artizanat situată în apropierea râului Blackwater.",
+                  "category": "museum",
+                  "coords": [
+                        -7.849136,
+                        52.146614
+                  ]
+            },
+            {
+                  "name": "Dromana House",
+                  "text": "O moșie istorică proeminentă situată pe o stâncă deasupra râului Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865524,
+                        52.107929
+                  ]
+            },
+            {
+                  "name": "Cappoquin House",
+                  "text": "Un conac clasic din secolul al XVIII-lea situat în apropierea râului Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.850595,
+                        52.1496
+                  ]
+            },
+            {
+                  "name": "Dromana Gate",
+                  "text": "O poartă unică în stil hindu-gotic situată lângă râul Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.843883,
+                        52.123424
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "Un conac istoric de țară situat în Valea Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Villierstown Church",
+                  "text": "O biserică istorică pentru comunitatea din Villierstown de lângă râul Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851097,
+                        52.089271
+                  ]
+            },
+            {
+                  "name": "St. Anne's Church",
+                  "text": "Un loc de cult local situat în vecinătatea râului Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851273,
+                        52.147124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tourin House",
+                  "text": "A historic manor house and gardens situated on the banks of the River Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.864096,
+                        52.120262
+                  ]
+            },
+            {
+                  "name": "Market House Craftworks",
+                  "text": "An arts and crafts gallery located in the vicinity of the River Blackwater.",
+                  "category": "museum",
+                  "coords": [
+                        -7.849136,
+                        52.146614
+                  ]
+            },
+            {
+                  "name": "Dromana House",
+                  "text": "A prominent historic estate situated on a cliff above the River Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865524,
+                        52.107929
+                  ]
+            },
+            {
+                  "name": "Cappoquin House",
+                  "text": "An 18th-century classical manor house located near the River Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.850595,
+                        52.1496
+                  ]
+            },
+            {
+                  "name": "Dromana Gate",
+                  "text": "A unique Hindu-Gothic style gate lodge near the River Blackwater.",
+                  "category": "historical",
+                  "coords": [
+                        -7.843883,
+                        52.123424
+                  ]
+            },
+            {
+                  "name": "Salterbridge House",
+                  "text": "A historic country manor house situated in the Blackwater Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -7.880428,
+                        52.14897
+                  ]
+            },
+            {
+                  "name": "Villierstown Church",
+                  "text": "A historic church serving the community of Villierstown by the River Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851097,
+                        52.089271
+                  ]
+            },
+            {
+                  "name": "St. Anne's Church",
+                  "text": "A local place of worship located in the vicinity of the River Blackwater.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851273,
+                        52.147124
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ireland",
     coords: [-7.8467, 52.1248],
@@ -25622,7 +30590,304 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "island-inishbofin",
+    id: "island-inishbofin", "sights": {
+      "de": [
+            {
+                  "name": "Abbey Ruins",
+                  "text": "Die Überreste eines Klosters aus dem 7. Jahrhundert auf der Insel Inishbofin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.188771,
+                        53.615474
+                  ]
+            },
+            {
+                  "name": "Tra Gheall Beach",
+                  "text": "Ein ruhiger Sandstrand auf Inishbofin, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.246233,
+                        53.615846
+                  ]
+            },
+            {
+                  "name": "Drumhach Beach",
+                  "text": "Ein abgelegener Strand auf Inishbofin, der ideal für Naturbeobachtungen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.180847,
+                        53.615473
+                  ]
+            },
+            {
+                  "name": "East End Beach",
+                  "text": "Ein beliebter Strand am östlichen Ende von Inishbofin mit Blick auf die Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.187637,
+                        53.622547
+                  ]
+            },
+            {
+                  "name": "Dooneen",
+                  "text": "Ein kleiner, geschützter Strandbereich auf Inishbofin, umgeben von Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.209132,
+                        53.613342
+                  ]
+            },
+            {
+                  "name": "West Quarter Beach",
+                  "text": "Ein weitläufiger Strand im Westen von Inishbofin, bekannt für seine wilde Schönheit.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231081,
+                        53.612431
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Ein im Norden der Insel Inishbofin gelegener Strand, der dem offenen Meer zugewandt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231446,
+                        53.620759
+                  ]
+            },
+            {
+                  "name": "Inishbofin Signal Tower",
+                  "text": "Die Ruinen eines Signalturms aus der Zeit der Napoleonischen Kriege auf Inishbofin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.220525,
+                        53.60972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbey Ruins",
+                  "text": "Egy 7. századi kolostor maradványai Inishbofin szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -10.188771,
+                        53.615474
+                  ]
+            },
+            {
+                  "name": "Tra Gheall Beach",
+                  "text": "Nyugodt homokos tengerpart Inishbofin szigetén, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.246233,
+                        53.615846
+                  ]
+            },
+            {
+                  "name": "Drumhach Beach",
+                  "text": "Elszigetelt tengerpart Inishbofin szigetén, amely ideális a természet megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.180847,
+                        53.615473
+                  ]
+            },
+            {
+                  "name": "East End Beach",
+                  "text": "Népszerű tengerpart Inishbofin keleti végén, kilátással a partvonalra.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.187637,
+                        53.622547
+                  ]
+            },
+            {
+                  "name": "Dooneen",
+                  "text": "Kicsi, védett tengerparti rész Inishbofin szigetén, sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.209132,
+                        53.613342
+                  ]
+            },
+            {
+                  "name": "West Quarter Beach",
+                  "text": "Tágas tengerpart Inishbofin nyugati részén, amely vad szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231081,
+                        53.612431
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Inishbofin szigetének északi részén található tengerpart, amely a nyílt tengerre néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231446,
+                        53.620759
+                  ]
+            },
+            {
+                  "name": "Inishbofin Signal Tower",
+                  "text": "Egy napóleoni háborúk idejéből származó jelzőtorony romjai Inishbofin szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -10.220525,
+                        53.60972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbey Ruins",
+                  "text": "Rămășițele unei mănăstiri din secolul al VII-lea pe insula Inishbofin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.188771,
+                        53.615474
+                  ]
+            },
+            {
+                  "name": "Tra Gheall Beach",
+                  "text": "O plajă de nisip liniștită pe Inishbofin, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.246233,
+                        53.615846
+                  ]
+            },
+            {
+                  "name": "Drumhach Beach",
+                  "text": "O plajă izolată pe Inishbofin, ideală pentru observarea naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.180847,
+                        53.615473
+                  ]
+            },
+            {
+                  "name": "East End Beach",
+                  "text": "O plajă populară în capătul de est al insulei Inishbofin, cu vedere spre coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.187637,
+                        53.622547
+                  ]
+            },
+            {
+                  "name": "Dooneen",
+                  "text": "O mică zonă de plajă protejată pe Inishbofin, înconjurată de stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.209132,
+                        53.613342
+                  ]
+            },
+            {
+                  "name": "West Quarter Beach",
+                  "text": "O plajă întinsă în vestul insulei Inishbofin, cunoscută pentru frumusețea sa sălbatică.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231081,
+                        53.612431
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "O plajă situată în nordul insulei Inishbofin, orientată spre marea deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231446,
+                        53.620759
+                  ]
+            },
+            {
+                  "name": "Inishbofin Signal Tower",
+                  "text": "Ruinele unui turn de semnalizare din timpul războaielor napoleoniene pe Inishbofin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.220525,
+                        53.60972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbey Ruins",
+                  "text": "The remains of a 7th-century monastery on Inishbofin island.",
+                  "category": "historical",
+                  "coords": [
+                        -10.188771,
+                        53.615474
+                  ]
+            },
+            {
+                  "name": "Tra Gheall Beach",
+                  "text": "A peaceful sandy beach on Inishbofin, known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.246233,
+                        53.615846
+                  ]
+            },
+            {
+                  "name": "Drumhach Beach",
+                  "text": "A secluded beach on Inishbofin, ideal for nature observation.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.180847,
+                        53.615473
+                  ]
+            },
+            {
+                  "name": "East End Beach",
+                  "text": "A popular beach at the east end of Inishbofin with views of the coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.187637,
+                        53.622547
+                  ]
+            },
+            {
+                  "name": "Dooneen",
+                  "text": "A small, sheltered beach area on Inishbofin, surrounded by rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.209132,
+                        53.613342
+                  ]
+            },
+            {
+                  "name": "West Quarter Beach",
+                  "text": "A spacious beach in the west of Inishbofin, known for its wild beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231081,
+                        53.612431
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "A beach located in the north of Inishbofin island, facing the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.231446,
+                        53.620759
+                  ]
+            },
+            {
+                  "name": "Inishbofin Signal Tower",
+                  "text": "The ruins of a signal tower from the Napoleonic Wars era on Inishbofin.",
+                  "category": "historical",
+                  "coords": [
+                        -10.220525,
+                        53.60972
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ireland",
     coords: [-10.2000, 53.6200],
@@ -25666,7 +30931,160 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "industry-midleton-distillery",
+    id: "industry-midleton-distillery", "sights": {
+      "de": [
+            {
+                  "name": "Cahermone Castle",
+                  "text": "Die Überreste einer alten Burg in der Nähe von Midleton.",
+                  "category": "castle",
+                  "coords": [
+                        -8.151106,
+                        51.921138
+                  ]
+            },
+            {
+                  "name": "Jameson Distillery Midleton",
+                  "text": "Das Besucherzentrum der berühmten Jameson-Brennerei in Midleton.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.168309,
+                        51.913819
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Eine Kirche in Midleton, die Johannes dem Täufer geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.174014,
+                        51.913771
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Eine katholische Kirche in Midleton mit beeindruckender Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -8.170201,
+                        51.910383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cahermone Castle",
+                  "text": "Egy régi vár maradványai Midleton közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.151106,
+                        51.921138
+                  ]
+            },
+            {
+                  "name": "Jameson Distillery Midleton",
+                  "text": "A híres Midleton-i Jameson lepárló látogatóközpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.168309,
+                        51.913819
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom Midletonban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.174014,
+                        51.913771
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Lenyűgöző építészetű katolikus templom Midletonban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.170201,
+                        51.910383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cahermone Castle",
+                  "text": "Vestigiile unui vechi castel situat în apropiere de Midleton.",
+                  "category": "castle",
+                  "coords": [
+                        -8.151106,
+                        51.921138
+                  ]
+            },
+            {
+                  "name": "Jameson Distillery Midleton",
+                  "text": "Centrul de vizitatori al faimoasei distilerii Jameson din Midleton.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.168309,
+                        51.913819
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "O biserică din Midleton dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -8.174014,
+                        51.913771
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "O biserică catolică din Midleton cu o arhitectură impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        -8.170201,
+                        51.910383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cahermone Castle",
+                  "text": "The remains of an old castle located near Midleton.",
+                  "category": "castle",
+                  "coords": [
+                        -8.151106,
+                        51.921138
+                  ]
+            },
+            {
+                  "name": "Jameson Distillery Midleton",
+                  "text": "The visitor center of the famous Jameson distillery in Midleton.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.168309,
+                        51.913819
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "A church in Midleton dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.174014,
+                        51.913771
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "A Catholic church in Midleton featuring impressive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.170201,
+                        51.910383
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ireland",
     coords: [-8.1692, 51.9135],
@@ -25754,7 +31172,232 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "industry-slane-distillery",
+    id: "industry-slane-distillery", "sights": {
+      "de": [
+            {
+                  "name": "Knowth",
+                  "text": "Eine bedeutende megalithische Grabanlage im archäologischen Komplex Brú na Bóinne.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Fennor Castle",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in der Nähe von Slane.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539168,
+                        53.700034
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "Ein historisches Steinkreuz bei den Ruinen der Slane Abbey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "Ein lokales Kunststudio und Galerie in der Gegend von Slane.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Eine christliche Kirche in Slane, die dem Schutzpatron Irlands gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "Die römisch-katholische Pfarrkirche des Ortes Slane.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knowth",
+                  "text": "Jelentős megalitikus sírhely a Brú na Bóinne régészeti együttesben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Fennor Castle",
+                  "text": "Egy középkori vár romjai Slane közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539168,
+                        53.700034
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "Történelmi kőkereszt a Slane apátság romjainál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "Helyi művészeti stúdió és galéria Slane környékén.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Írország védőszentjének szentelt keresztény templom Slane-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "Slane település római katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knowth",
+                  "text": "Un important mormânt megalitic din complexul arheologic Brú na Bóinne.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Fennor Castle",
+                  "text": "Ruinele unui castel medieval situat în apropiere de Slane.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539168,
+                        53.700034
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "O cruce istorică din piatră lângă ruinele abației Slane.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "Un studio de artă și galerie locală în zona Slane.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "O biserică creștină în Slane dedicată sfântului patron al Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "Biserica romano-catolică din localitatea Slane.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knowth",
+                  "text": "A major megalithic passage tomb within the Brú na Bóinne archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491406,
+                        53.701204
+                  ]
+            },
+            {
+                  "name": "Fennor Castle",
+                  "text": "The ruins of a medieval castle located near Slane.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539168,
+                        53.700034
+                  ]
+            },
+            {
+                  "name": "Slane Abbey Cross",
+                  "text": "A historic stone cross located near the ruins of Slane Abbey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.542993,
+                        53.717177
+                  ]
+            },
+            {
+                  "name": "Pat's Art Studio",
+                  "text": "A local art studio and gallery exhibiting works in the Slane area.",
+                  "category": "museum",
+                  "coords": [
+                        -6.542307,
+                        53.708486
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A Christian church in Slane dedicated to the patron saint of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.546186,
+                        53.708967
+                  ]
+            },
+            {
+                  "name": "St. Patricks Roman Catholic Church",
+                  "text": "The Roman Catholic parish church serving the community of Slane.",
+                  "category": "religious",
+                  "coords": [
+                        -6.541251,
+                        53.710323
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ireland",
     coords: [-6.5441, 53.7098],

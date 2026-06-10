@@ -893,6 +893,42 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.724659,
                         52.050599
                   ]
+            },
+            {
+                  "name": "Bancroft Roman Villa",
+                  "text": "Die archäologischen Überreste einer römischen Villa in Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.795092,
+                        52.05542
+                  ]
+            },
+            {
+                  "name": "Moated site and fishponds at Great Woolstone",
+                  "text": "Eine mittelalterliche befestigte Anlage mit ehemaligen Fischteichen in Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.724477,
+                        52.038949
+                  ]
+            },
+            {
+                  "name": "Berrill Lecture Theatre",
+                  "text": "Ein bedeutender Hörsaal und Veranstaltungsort der Open University in Milton Keynes.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.707657,
+                        52.024707
+                  ]
+            },
+            {
+                  "name": "Milton Keynes City Discovery Centre",
+                  "text": "Ein Zentrum in Milton Keynes, das die Geschichte und Entwicklung der Planstadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -0.795287,
+                        52.047435
+                  ]
             }
       ],
       "hu": [
@@ -1290,6 +1326,42 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.724659,
                         52.050599
+                  ]
+            },
+            {
+                  "name": "Bancroft Roman Villa",
+                  "text": "Egy római kori villa régészeti maradványai Milton Keynes-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.795092,
+                        52.05542
+                  ]
+            },
+            {
+                  "name": "Moated site and fishponds at Great Woolstone",
+                  "text": "Középkori vizesárokkal körülvett terület és egykori halastavak Milton Keynes-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.724477,
+                        52.038949
+                  ]
+            },
+            {
+                  "name": "Berrill Lecture Theatre",
+                  "text": "Az Open University jelentős előadóterme és rendezvényhelyszíne Milton Keynes-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.707657,
+                        52.024707
+                  ]
+            },
+            {
+                  "name": "Milton Keynes City Discovery Centre",
+                  "text": "Milton Keynes-i központ, amely a tervezett város történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.795287,
+                        52.047435
                   ]
             }
       ],
@@ -1689,6 +1761,42 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                         -0.724659,
                         52.050599
                   ]
+            },
+            {
+                  "name": "Bancroft Roman Villa",
+                  "text": "Vestigiile arheologice ale unei vile romane din Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.795092,
+                        52.05542
+                  ]
+            },
+            {
+                  "name": "Moated site and fishponds at Great Woolstone",
+                  "text": "Un sit medieval cu șanț de apărare și foste iazuri piscicole în Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.724477,
+                        52.038949
+                  ]
+            },
+            {
+                  "name": "Berrill Lecture Theatre",
+                  "text": "O sală de conferințe și loc de evenimente important al universității Open University din Milton Keynes.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.707657,
+                        52.024707
+                  ]
+            },
+            {
+                  "name": "Milton Keynes City Discovery Centre",
+                  "text": "Un centru din Milton Keynes care documentează istoria și dezvoltarea orașului planificat.",
+                  "category": "museum",
+                  "coords": [
+                        -0.795287,
+                        52.047435
+                  ]
             }
       ],
       "en": [
@@ -2086,6 +2194,42 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
                   "coords": [
                         -0.724659,
                         52.050599
+                  ]
+            },
+            {
+                  "name": "Bancroft Roman Villa",
+                  "text": "The archaeological remains of a Roman villa located in Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.795092,
+                        52.05542
+                  ]
+            },
+            {
+                  "name": "Moated site and fishponds at Great Woolstone",
+                  "text": "A medieval moated site and former fishponds located in Milton Keynes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.724477,
+                        52.038949
+                  ]
+            },
+            {
+                  "name": "Berrill Lecture Theatre",
+                  "text": "A major lecture theatre and venue at the Open University in Milton Keynes.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.707657,
+                        52.024707
+                  ]
+            },
+            {
+                  "name": "Milton Keynes City Discovery Centre",
+                  "text": "A centre in Milton Keynes documenting the history and development of the planned city.",
+                  "category": "museum",
+                  "coords": [
+                        -0.795287,
+                        52.047435
                   ]
             }
       ]
@@ -2541,7 +2685,52 @@ imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport",
     },
     image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp",
 },  {
-    id: "uk-sullom-voe-terminal-economic-v2",
+    id: "uk-sullom-voe-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chambered Cairn",
+                  "text": "Prähistorische Grabstätte in der Nähe des Sullom Voe Terminals.",
+                  "category": "historical",
+                  "coords": [
+                        -1.242546,
+                        60.464666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chambered Cairn",
+                  "text": "Prehisztorikus síremlék a Sullom Voe terminál közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -1.242546,
+                        60.464666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chambered Cairn",
+                  "text": "Monument funerar preistoric situat lângă terminalul Sullom Voe.",
+                  "category": "historical",
+                  "coords": [
+                        -1.242546,
+                        60.464666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chambered Cairn",
+                  "text": "Prehistoric burial monument located near the Sullom Voe Terminal.",
+                  "category": "historical",
+                  "coords": [
+                        -1.242546,
+                        60.464666
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "industry",
     name: { de: "Sullom Voe Terminal", hu: "Sullom Voe terminál", ro: "Terminalul Sullom Voe", en: "Sullom Voe Terminal"},

@@ -228,7 +228,52 @@ export const norwayLifeV2: POI[] = [
     image: "/poi-images/norway-ytre-hvaler-national-park-life-v2.webp",
   },
   {
-    id: "norway-folgefonna-national-park-life-v2",
+    id: "norway-folgefonna-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bondhusbrea",
+                  "text": "Ein malerischer Gletscherarm des Folgefonna, erreichbar über einen beliebten Wanderweg.",
+                  "category": "landmark",
+                  "coords": [
+                        6.30183,
+                        60.068224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bondhusbrea",
+                  "text": "A Folgefonna gleccser egyik látványos nyúlványa, amely népszerű túraútvonalon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        6.30183,
+                        60.068224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bondhusbrea",
+                  "text": "O ramură pitorească a ghețarului Folgefonna, accesibilă printr-un traseu de drumeție popular.",
+                  "category": "landmark",
+                  "coords": [
+                        6.30183,
+                        60.068224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bondhusbrea",
+                  "text": "A scenic glacier branch of Folgefonna, reachable via a popular hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        6.30183,
+                        60.068224
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Folgefonna Nationalpark", hu: "Folgefonna Nemzeti Park", ro: "Parcul Național Folgefonna", en: "Folgefonna National Park" },
@@ -363,7 +408,52 @@ export const norwayLifeV2: POI[] = [
     image: "/poi-images/norway-femundsmarka-national-park-life-v2.webp",
   },
   {
-    id: "norway-saltfjellet-svartisen-national-park-life-v2",
+    id: "norway-saltfjellet-svartisen-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ærdnetjåhkkå",
+                  "text": "Ein Berggipfel im Nationalpark Saltfjellet-Svartisen in Norwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.562586,
+                        66.696228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ærdnetjåhkkå",
+                  "text": "Egy hegycsúcs a norvégiai Saltfjellet-Svartisen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.562586,
+                        66.696228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ærdnetjåhkkå",
+                  "text": "Un vârf montan situat în Parcul Național Saltfjellet-Svartisen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.562586,
+                        66.696228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ærdnetjåhkkå",
+                  "text": "A mountain peak located within the Saltfjellet-Svartisen National Park in Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        14.562586,
+                        66.696228
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Saltfjellet-Svartisen Nationalpark", hu: "Saltfjellet-Svartisen Nemzeti Park", ro: "Parcul Național Saltfjellet-Svartisen", en: "Saltfjellet-Svartisen National Park" },
@@ -408,7 +498,52 @@ export const norwayLifeV2: POI[] = [
     image: "/poi-images/norway-saltfjellet-svartisen-national-park-life-v2.webp",
   },
   {
-    id: "norway-breheimen-national-park-life-v2",
+    id: "norway-breheimen-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vangsen",
+                  "text": "Ein Berggipfel im Breheimen-Nationalpark in Norwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.355636,
+                        61.57264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vangsen",
+                  "text": "Hegycsúcs a norvégiai Breheimen Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.355636,
+                        61.57264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vangsen",
+                  "text": "Un vârf montan din Parcul Național Breheimen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.355636,
+                        61.57264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vangsen",
+                  "text": "A mountain peak in the Breheimen National Park in Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.355636,
+                        61.57264
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Breheimen Nationalpark", hu: "Breheimen Nemzeti Park", ro: "Parcul Național Breheimen", en: "Breheimen National Park" },
@@ -453,7 +588,88 @@ export const norwayLifeV2: POI[] = [
     image: "/poi-images/norway-breheimen-national-park-life-v2.webp",
   },
   {
-    id: "norway-ovre-pasvik-national-park-life-v2",
+    id: "norway-ovre-pasvik-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grenseparvatnet - Gearddošjávri - Rajakertusjärvi",
+                  "text": "Ein Grenzsee zwischen Norwegen, Finnland und Russland im Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        28.85605,
+                        69.089713
+                  ]
+            },
+            {
+                  "name": "Dagvatnet - Päivälompola",
+                  "text": "Ein Gewässer im Øvre Pasvik Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        28.912158,
+                        69.087999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grenseparvatnet - Gearddošjávri - Rajakertusjärvi",
+                  "text": "Norvégia, Finnország és Oroszország közötti határtó a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.85605,
+                        69.089713
+                  ]
+            },
+            {
+                  "name": "Dagvatnet - Päivälompola",
+                  "text": "Vízi terület az Øvre Pasvik Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.912158,
+                        69.087999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grenseparvatnet - Gearddošjávri - Rajakertusjärvi",
+                  "text": "Un lac situat la granița dintre Norvegia, Finlanda și Rusia, în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        28.85605,
+                        69.089713
+                  ]
+            },
+            {
+                  "name": "Dagvatnet - Päivälompola",
+                  "text": "O zonă acvatică în Parcul Național Øvre Pasvik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.912158,
+                        69.087999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grenseparvatnet - Gearddošjávri - Rajakertusjärvi",
+                  "text": "A border lake between Norway, Finland, and Russia in the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.85605,
+                        69.089713
+                  ]
+            },
+            {
+                  "name": "Dagvatnet - Päivälompola",
+                  "text": "A body of water located in the Øvre Pasvik National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        28.912158,
+                        69.087999
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Øvre Pasvik Nationalpark", hu: "Øvre Pasvik Nemzeti Park", ro: "Parcul Național Øvre Pasvik", en: "Øvre Pasvik National Park" },
@@ -723,7 +939,52 @@ export const norwayLifeV2: POI[] = [
     image: "/poi-images/norway-rauma-river-life-v2.webp",
   },
   {
-    id: "norway-dovre-national-park-life-v2",
+    id: "norway-dovre-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fokstumyra naturreservat",
+                  "text": "Dieses Naturschutzgebiet in Dovre ist ein bekanntes Feuchtgebiet, das für seine reiche Vogelwelt und Wanderwege berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.274628,
+                        62.129378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fokstumyra naturreservat",
+                  "text": "Ez a Dovre-i természetvédelmi terület egy neves vizes élőhely, amely gazdag madárvilágáról és túraútvonalairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        9.274628,
+                        62.129378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fokstumyra naturreservat",
+                  "text": "Această rezervație naturală din Dovre este o zonă umedă renumită, celebră pentru avifauna bogată și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        9.274628,
+                        62.129378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fokstumyra naturreservat",
+                  "text": "This nature reserve in Dovre is a renowned wetland area famous for its rich birdlife and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        9.274628,
+                        62.129378
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NO",
     name: { de: "Dovre Nationalpark", hu: "Dovre Nemzeti Park", ro: "Parcul Național Dovre", en: "Dovre National Park" },

@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const irelandHistoryV2: POI[] = [
 
   {
-    id: "ireland-skellig-michael-history-v2",
+    id: "ireland-skellig-michael-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skelligs Lighthouse",
+                  "text": "Ein historischer Leuchtturm auf der abgelegenen Felseninsel Skellig Michael.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.541714,
+                        51.76868
+                  ]
+            },
+            {
+                  "name": "Skellig Monastery",
+                  "text": "Ein beeindruckendes frühchristliches Kloster, das auf den steilen Klippen von Skellig Michael erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -10.538848,
+                        51.771953
+                  ]
+            },
+            {
+                  "name": "Sceilig Bheag Nature Reserve",
+                  "text": "Ein Naturschutzgebiet auf der kleineren Skellig-Insel, bekannt für seine großen Vogelkolonien.",
+                  "category": "natural",
+                  "coords": [
+                        -10.508247,
+                        51.781715
+                  ]
+            },
+            {
+                  "name": "Great Skellig Nature Reserve",
+                  "text": "Ein Schutzgebiet auf Great Skellig, das einer Vielzahl von Meeresvögeln einen Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -10.540339,
+                        51.771174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skelligs Lighthouse",
+                  "text": "Történelmi világítótorony a távoli Skellig Michael sziklaszigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.541714,
+                        51.76868
+                  ]
+            },
+            {
+                  "name": "Skellig Monastery",
+                  "text": "Lenyűgöző kora keresztény kolostor, amely Skellig Michael meredek szikláira épült.",
+                  "category": "religious",
+                  "coords": [
+                        -10.538848,
+                        51.771953
+                  ]
+            },
+            {
+                  "name": "Sceilig Bheag Nature Reserve",
+                  "text": "A kisebbik Skellig-szigeten található természetvédelmi terület, amely nagy madárkolóniáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -10.508247,
+                        51.781715
+                  ]
+            },
+            {
+                  "name": "Great Skellig Nature Reserve",
+                  "text": "Védett terület a Great Skellig szigeten, amely számos tengeri madárnak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        -10.540339,
+                        51.771174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skelligs Lighthouse",
+                  "text": "Un far istoric situat pe insula stâncoasă izolată Skellig Michael.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.541714,
+                        51.76868
+                  ]
+            },
+            {
+                  "name": "Skellig Monastery",
+                  "text": "O mănăstire creștină timpurie impresionantă, construită pe stâncile abrupte de pe Skellig Michael.",
+                  "category": "religious",
+                  "coords": [
+                        -10.538848,
+                        51.771953
+                  ]
+            },
+            {
+                  "name": "Sceilig Bheag Nature Reserve",
+                  "text": "O rezervație naturală pe insula Skellig mai mică, cunoscută pentru marile sale colonii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        -10.508247,
+                        51.781715
+                  ]
+            },
+            {
+                  "name": "Great Skellig Nature Reserve",
+                  "text": "O zonă protejată pe Great Skellig, care oferă habitat pentru numeroase păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        -10.540339,
+                        51.771174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skelligs Lighthouse",
+                  "text": "A historical lighthouse on the remote rocky island of Skellig Michael.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.541714,
+                        51.76868
+                  ]
+            },
+            {
+                  "name": "Skellig Monastery",
+                  "text": "An impressive early Christian monastery built on the steep cliffs of Skellig Michael.",
+                  "category": "religious",
+                  "coords": [
+                        -10.538848,
+                        51.771953
+                  ]
+            },
+            {
+                  "name": "Sceilig Bheag Nature Reserve",
+                  "text": "A nature reserve on the smaller Skellig island, known for its large bird colonies.",
+                  "category": "natural",
+                  "coords": [
+                        -10.508247,
+                        51.781715
+                  ]
+            },
+            {
+                  "name": "Great Skellig Nature Reserve",
+                  "text": "A protected area on Great Skellig providing habitat for numerous seabirds.",
+                  "category": "natural",
+                  "coords": [
+                        -10.540339,
+                        51.771174
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Skellig Michael", hu: "Skellig Michael", ro: "Skellig Michael", en: "Skellig Michael" },
@@ -138,7 +291,268 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-dunluce-castle-history-v2.webp",
   },
   {
-    id: "ireland-ferns-castle-history-v2",
+    id: "ireland-ferns-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Mogue's Well",
+                  "text": "Ein historischer heiliger Brunnen, der mit traditionellen religiösen Bräuchen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491921,
+                        52.590919
+                  ]
+            },
+            {
+                  "name": "Ferns Castle",
+                  "text": "Die Ruinen einer mittelalterlichen normannischen Burg mit einem markanten quadratischen Turm.",
+                  "category": "castle",
+                  "coords": [
+                        -6.499241,
+                        52.590721
+                  ]
+            },
+            {
+                  "name": "Saint Edan's Cathedral Chapter House",
+                  "text": "Überreste eines Kapitelsaals, der Teil des historischen Kathedralkomplexes war.",
+                  "category": "historical",
+                  "coords": [
+                        -6.492192,
+                        52.590001
+                  ]
+            },
+            {
+                  "name": "Saint Edan's",
+                  "text": "Die Ruinen einer alten Klosteranlage von bedeutendem historischem Wert.",
+                  "category": "historical",
+                  "coords": [
+                        -6.484229,
+                        52.591559
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Eine historische Quelle im Dorf Ferns in der Nähe der Burg.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.512789,
+                        52.57788
+                  ]
+            },
+            {
+                  "name": "Clone Church",
+                  "text": "Eine alte frühchristliche Kirchenanlage in Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.504897,
+                        52.568357
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church",
+                  "text": "Ein historisches Kirchengebäude in der Stadt Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.490499,
+                        52.591907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Mogue's Well",
+                  "text": "Történelmi szent kút, amelyhez hagyományos vallási szokások kötődnek.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491921,
+                        52.590919
+                  ]
+            },
+            {
+                  "name": "Ferns Castle",
+                  "text": "Egy középkori normann vár romjai jellegzetes négyszögletes toronnyal.",
+                  "category": "castle",
+                  "coords": [
+                        -6.499241,
+                        52.590721
+                  ]
+            },
+            {
+                  "name": "Saint Edan's Cathedral Chapter House",
+                  "text": "Egy káptalanház maradványai, amely a történelmi székesegyház-együttes része volt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.492192,
+                        52.590001
+                  ]
+            },
+            {
+                  "name": "Saint Edan's",
+                  "text": "Egy ősi kolostorhely romjai, amely jelentős történelmi értékkel bír.",
+                  "category": "historical",
+                  "coords": [
+                        -6.484229,
+                        52.591559
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Történelmi forrás Ferns falujában, a vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.512789,
+                        52.57788
+                  ]
+            },
+            {
+                  "name": "Clone Church",
+                  "text": "Egy ősi kora keresztény templomhely Fernsben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.504897,
+                        52.568357
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church",
+                  "text": "Történelmi templomépület Ferns városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.490499,
+                        52.591907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Mogue's Well",
+                  "text": "O fântână sfântă istorică asociată cu practicile religioase tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491921,
+                        52.590919
+                  ]
+            },
+            {
+                  "name": "Ferns Castle",
+                  "text": "Ruinele unui castel normand medieval, cu un turn pătrat distinctiv.",
+                  "category": "castle",
+                  "coords": [
+                        -6.499241,
+                        52.590721
+                  ]
+            },
+            {
+                  "name": "Saint Edan's Cathedral Chapter House",
+                  "text": "Vestigiile unei săli capitulare care a făcut parte din complexul istoric al catedralei.",
+                  "category": "historical",
+                  "coords": [
+                        -6.492192,
+                        52.590001
+                  ]
+            },
+            {
+                  "name": "Saint Edan's",
+                  "text": "Ruinele unui vechi sit monastic cu o valoare istorică semnificativă.",
+                  "category": "historical",
+                  "coords": [
+                        -6.484229,
+                        52.591559
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Un izvor istoric situat în satul Ferns, în apropierea castelului.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.512789,
+                        52.57788
+                  ]
+            },
+            {
+                  "name": "Clone Church",
+                  "text": "Un sit bisericesc creștin timpuriu situat în Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.504897,
+                        52.568357
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church",
+                  "text": "O clădire bisericească istorică situată în orașul Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.490499,
+                        52.591907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Mogue's Well",
+                  "text": "A historic holy well associated with traditional religious practices.",
+                  "category": "historical",
+                  "coords": [
+                        -6.491921,
+                        52.590919
+                  ]
+            },
+            {
+                  "name": "Ferns Castle",
+                  "text": "The ruins of a medieval Norman castle with a distinctive square tower.",
+                  "category": "castle",
+                  "coords": [
+                        -6.499241,
+                        52.590721
+                  ]
+            },
+            {
+                  "name": "Saint Edan's Cathedral Chapter House",
+                  "text": "Remains of a chapter house that was part of the historic cathedral complex.",
+                  "category": "historical",
+                  "coords": [
+                        -6.492192,
+                        52.590001
+                  ]
+            },
+            {
+                  "name": "Saint Edan's",
+                  "text": "The ruins of an ancient monastic site with significant historical value.",
+                  "category": "historical",
+                  "coords": [
+                        -6.484229,
+                        52.591559
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A historic spring located in the village of Ferns near the castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.512789,
+                        52.57788
+                  ]
+            },
+            {
+                  "name": "Clone Church",
+                  "text": "An ancient early Christian church site located in Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.504897,
+                        52.568357
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church",
+                  "text": "A historic church building located in the town of Ferns.",
+                  "category": "religious",
+                  "coords": [
+                        -6.490499,
+                        52.591907
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Ferns Castle", hu: "Ferns kastély", ro: "Castelul Ferns", en: "Ferns Castle" },
@@ -408,7 +822,268 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-moydrum-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballycarbery-castle-history-v2", "sights": {"de": [{"name": "White Strand Beach", "text": "Versteckt bei den Ruinen des Ballycarbery Castle, präsentiert sich White Strand Beach als makelloser Abschnitt der irischen Küstenlinie. Der weiche Sand und das klare Wasser machen ihn zu einem einladenden Ort für friedliche Momente am Meer und gemütliche Spaziergänge. Eine ruhige, entschleunigte Atmosphäre bietet den idealen Rahmen, um die Natur zu genießen. Es lohnt sich, die Kamera griffbereit zu haben, da die Burgruinen einen einmaligen historischen Hintergrund bilden.", "category": "recreational", "coords": [-10.275051, 51.94281]}, {"name": "Emlagh Strand", "text": "Als Ergänzung zur historischen Kulisse des Ballycarbery Castle besticht der Emlagh Strand mit seinen weiten Ausblicken über die Küste. Besucher dürfen sich auf einen offenen Horizont und den beruhigenden Rhythmus der anrollenden Wellen freuen. Die Weitläufigkeit des Ortes macht ihn zu einem hervorragenden Ziel, um an einem windigen Nachmittag den Kopf frei zu bekommen. Bequemes Schuhwerk ist ratsam, um die langen Strandspaziergänge voll auszukosten.", "category": "recreational", "coords": [-10.265011, 51.964851]}], "hu": [{"name": "White Strand Beach", "text": "A Ballycarbery kastély romjai közelében található White Strand Beach az ír partvonal érintetlen szakasza. A puha homok és a tiszta víz hívogató hellyé teszi a békés tengerparti pillanatokhoz és a kellemes sétákhoz. Csendes, nyugodt légkört biztosít, amely tökéletesen alkalmas a természeti környezet élvezetére. Tartsa készenlétben a fényképezőgépét, mivel a kastély romjai egyedülálló történelmi hátteret nyújtanak.", "category": "recreational", "coords": [-10.275051, 51.94281]}, {"name": "Emlagh Strand", "text": "A Ballycarbery kastély történelmi környezetét kiegészítve az Emlagh Strand lenyűgöző tengerparti kilátással terül el. A látogatókat tágas horizont és a partra mosódó hullámok megnyugtató ritmusa várja. A hely hatalmasnak és nyitottnak érződik, így kiváló pont arra, hogy egy szeles délutánon kitisztítsa a gondolatait. Viseljen kényelmes cipőt, hogy maradéktalanul élvezhesse a hosszú parti sétákat.", "category": "recreational", "coords": [-10.265011, 51.964851]}], "ro": [{"name": "White Strand Beach", "text": "Aflată lângă ruinele Castelului Ballycarbery, White Strand Beach este o întindere imaculată a coastei irlandeze. Nisipurile fine și apele clare o transformă într-o locație primitoare pentru momente pașnice la malul mării și plimbări ușoare. Oferă o atmosferă liniștită, fără grabă, perfect potrivită pentru a vă bucura de mediul natural. Păstrați aparatul foto la îndemână, deoarece ruinele castelului oferă un fundal istoric unic.", "category": "recreational", "coords": [-10.275051, 51.94281]}, {"name": "Emlagh Strand", "text": "Completând cadrul istoric al Castelului Ballycarbery, Emlagh Strand se întinde oferind priveliști ample ale coastei. Vizitatorii se pot aștepta la orizonturi largi și la ritmul liniștitor al valurilor care se sparg de țărm. Locația pare vastă și deschisă, fiind un loc excelent pentru a vă limpezi mintea într-o după-amiază cu briză. Purtați pantofi confortabili pentru a vă bucura din plin de plimbările lungi pe țărm.", "category": "recreational", "coords": [-10.265011, 51.964851]}], "en": [{"name": "White Strand Beach", "text": "Found near the ruins of Ballycarbery Castle, White Strand Beach is a pristine stretch of the Irish coastline. The soft sands and clear waters make it an inviting location for peaceful seaside moments and gentle walks. It provides a quiet, unhurried atmosphere perfectly suited for enjoying the natural environment. Keep your camera ready, as the castle ruins offer a unique historical backdrop.", "category": "recreational", "coords": [-10.275051, 51.94281]}, {"name": "Emlagh Strand", "text": "Complementing the historic setting of Ballycarbery Castle, Emlagh Strand stretches out with its sweeping coastal views. Visitors can look forward to broad horizons and the soothing rhythm of the waves washing ashore. The location feels vast and open, making it an excellent spot to clear your mind on a breezy afternoon. Wear comfortable shoes to fully enjoy the long shoreline walks.", "category": "recreational", "coords": [-10.265011, 51.964851]}]},
+    id: "ireland-ballycarbery-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Versteckt bei den Ruinen des Ballycarbery Castle, präsentiert sich White Strand Beach als makelloser Abschnitt der irischen Küstenlinie. Der weiche Sand und das klare Wasser machen ihn zu einem einladenden Ort für friedliche Momente am Meer und gemütliche Spaziergänge. Eine ruhige, entschleunigte Atmosphäre bietet den idealen Rahmen, um die Natur zu genießen. Es lohnt sich, die Kamera griffbereit zu haben, da die Burgruinen einen einmaligen historischen Hintergrund bilden.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Als Ergänzung zur historischen Kulisse des Ballycarbery Castle besticht der Emlagh Strand mit seinen weiten Ausblicken über die Küste. Besucher dürfen sich auf einen offenen Horizont und den beruhigenden Rhythmus der anrollenden Wellen freuen. Die Weitläufigkeit des Ortes macht ihn zu einem hervorragenden Ziel, um an einem windigen Nachmittag den Kopf frei zu bekommen. Bequemes Schuhwerk ist ratsam, um die langen Strandspaziergänge voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            },
+            {
+                  "name": "Cromwell Point Lighthouse",
+                  "text": "Ein aktiver Leuchtturm auf Valentia Island, der die Einfahrt zum Hafen von Knightstown markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.321177,
+                        51.93374
+                  ]
+            },
+            {
+                  "name": "Cahergal Ring Fort",
+                  "text": "Ein beeindruckendes Steinringfort aus der Eisenzeit mit massiven Trockenmauern und weitem Ausblick.",
+                  "category": "historical",
+                  "coords": [
+                        -10.257744,
+                        51.955961
+                  ]
+            },
+            {
+                  "name": "Church Island Monastic Site",
+                  "text": "Eine frühchristliche Klosteranlage auf einer kleinen Insel, die für ihr steinernes Oratorium bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -10.283289,
+                        51.937632
+                  ]
+            },
+            {
+                  "name": "Leacanabuile Ring Fort",
+                  "text": "Ein archäologisches Steinfort mit den Überresten von runden Wohnhäusern im Inneren.",
+                  "category": "historical",
+                  "coords": [
+                        -10.261892,
+                        51.958202
+                  ]
+            },
+            {
+                  "name": "Valentia Front Leading Light",
+                  "text": "Ein Navigationslicht an der Küste, das Schiffen den sicheren Weg in den Hafen weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.30675,
+                        51.92537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "A Ballycarbery kastély romjai közelében található White Strand Beach az ír partvonal érintetlen szakasza. A puha homok és a tiszta víz hívogató hellyé teszi a békés tengerparti pillanatokhoz és a kellemes sétákhoz. Csendes, nyugodt légkört biztosít, amely tökéletesen alkalmas a természeti környezet élvezetére. Tartsa készenlétben a fényképezőgépét, mivel a kastély romjai egyedülálló történelmi hátteret nyújtanak.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "A Ballycarbery kastély történelmi környezetét kiegészítve az Emlagh Strand lenyűgöző tengerparti kilátással terül el. A látogatókat tágas horizont és a partra mosódó hullámok megnyugtató ritmusa várja. A hely hatalmasnak és nyitottnak érződik, így kiváló pont arra, hogy egy szeles délutánon kitisztítsa a gondolatait. Viseljen kényelmes cipőt, hogy maradéktalanul élvezhesse a hosszú parti sétákat.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            },
+            {
+                  "name": "Cromwell Point Lighthouse",
+                  "text": "Aktív világítótorony a Valentia-szigeten, amely a Knightstown-i kikötő bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.321177,
+                        51.93374
+                  ]
+            },
+            {
+                  "name": "Cahergal Ring Fort",
+                  "text": "Lenyűgöző vaskori kőgyűrűvár masszív szárazon rakott kőfalakkal és széles kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        -10.257744,
+                        51.955961
+                  ]
+            },
+            {
+                  "name": "Church Island Monastic Site",
+                  "text": "Kora keresztény kolostor egy kis szigeten, amely kőből készült imaházáról (oratórium) ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -10.283289,
+                        51.937632
+                  ]
+            },
+            {
+                  "name": "Leacanabuile Ring Fort",
+                  "text": "Régészeti kővár, amelynek belsejében kör alakú lakóházak maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -10.261892,
+                        51.958202
+                  ]
+            },
+            {
+                  "name": "Valentia Front Leading Light",
+                  "text": "Navigációs fény a partnál, amely segíti a hajók biztonságos bejutását a kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.30675,
+                        51.92537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Aflată lângă ruinele Castelului Ballycarbery, White Strand Beach este o întindere imaculată a coastei irlandeze. Nisipurile fine și apele clare o transformă într-o locație primitoare pentru momente pașnice la malul mării și plimbări ușoare. Oferă o atmosferă liniștită, fără grabă, perfect potrivită pentru a vă bucura de mediul natural. Păstrați aparatul foto la îndemână, deoarece ruinele castelului oferă un fundal istoric unic.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Completând cadrul istoric al Castelului Ballycarbery, Emlagh Strand se întinde oferind priveliști ample ale coastei. Vizitatorii se pot aștepta la orizonturi largi și la ritmul liniștitor al valurilor care se sparg de țărm. Locația pare vastă și deschisă, fiind un loc excelent pentru a vă limpezi mintea într-o după-amiază cu briză. Purtați pantofi confortabili pentru a vă bucura din plin de plimbările lungi pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            },
+            {
+                  "name": "Cromwell Point Lighthouse",
+                  "text": "Un far activ de pe insula Valentia, care marchează intrarea în portul Knightstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.321177,
+                        51.93374
+                  ]
+            },
+            {
+                  "name": "Cahergal Ring Fort",
+                  "text": "Un fort circular de piatră impresionant din epoca fierului, cu ziduri masive de piatră uscată și vederi largi.",
+                  "category": "historical",
+                  "coords": [
+                        -10.257744,
+                        51.955961
+                  ]
+            },
+            {
+                  "name": "Church Island Monastic Site",
+                  "text": "O așezare monahală creștină timpurie pe o insulă mică, cunoscută pentru oratorul său de piatră.",
+                  "category": "religious",
+                  "coords": [
+                        -10.283289,
+                        51.937632
+                  ]
+            },
+            {
+                  "name": "Leacanabuile Ring Fort",
+                  "text": "Un fort de piatră arheologic care conține resturile unor locuințe circulare în interior.",
+                  "category": "historical",
+                  "coords": [
+                        -10.261892,
+                        51.958202
+                  ]
+            },
+            {
+                  "name": "Valentia Front Leading Light",
+                  "text": "O lumină de navigație de coastă care ghidează navele în siguranță în port.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.30675,
+                        51.92537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Found near the ruins of Ballycarbery Castle, White Strand Beach is a pristine stretch of the Irish coastline. The soft sands and clear waters make it an inviting location for peaceful seaside moments and gentle walks. It provides a quiet, unhurried atmosphere perfectly suited for enjoying the natural environment. Keep your camera ready, as the castle ruins offer a unique historical backdrop.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Complementing the historic setting of Ballycarbery Castle, Emlagh Strand stretches out with its sweeping coastal views. Visitors can look forward to broad horizons and the soothing rhythm of the waves washing ashore. The location feels vast and open, making it an excellent spot to clear your mind on a breezy afternoon. Wear comfortable shoes to fully enjoy the long shoreline walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            },
+            {
+                  "name": "Cromwell Point Lighthouse",
+                  "text": "An active lighthouse on Valentia Island marking the entrance to Knightstown harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.321177,
+                        51.93374
+                  ]
+            },
+            {
+                  "name": "Cahergal Ring Fort",
+                  "text": "An impressive Iron Age stone ring fort with massive dry-stone walls and wide views.",
+                  "category": "historical",
+                  "coords": [
+                        -10.257744,
+                        51.955961
+                  ]
+            },
+            {
+                  "name": "Church Island Monastic Site",
+                  "text": "An early Christian monastic site on a small island, known for its stone oratory.",
+                  "category": "religious",
+                  "coords": [
+                        -10.283289,
+                        51.937632
+                  ]
+            },
+            {
+                  "name": "Leacanabuile Ring Fort",
+                  "text": "An archaeological stone fort containing the remains of circular dwellings inside.",
+                  "category": "historical",
+                  "coords": [
+                        -10.261892,
+                        51.958202
+                  ]
+            },
+            {
+                  "name": "Valentia Front Leading Light",
+                  "text": "A coastal navigation light used to guide vessels safely into the harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.30675,
+                        51.92537
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Ballycarbery Castle", hu: "Ballycarbery kastély", ro: "Castelul Ballycarbery", en: "Ballycarbery Castle" },
@@ -543,7 +1218,304 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-devenish-island-history-v2.webp",
   },
   {
-    id: "ireland-glendalough-history-v2",
+    id: "ireland-glendalough-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Die Überreste einer bedeutenden frühchristlichen Kathedrale in der Klostersiedlung Glendalough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Ein prähistorischer Menhir, der als archäologisches Denkmal in Glendalough steht.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "Ein alter Bullaun-Stein mit ritueller Bedeutung in der Nähe des Klosters.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Dieses Zentrum informiert über die Geschichte und Archäologie des Glendalough-Tals.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Ein Naturschutzgebiet, das sich der Erhaltung einheimischer irischer Wälder widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Die Ruinen einer ehemaligen Bergbausiedlung am oberen Ende des Glendalough-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Ein Berggipfel, der Wanderern einen Blick über das Glendalough-Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Die Ruinen eines romanischen Priorats aus dem 12. Jahrhundert in der Nähe des Sees.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Egy jelentős kora keresztény katedrális maradványai Glendalough kolostori településén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Prehisztorikus menhir, amely régészeti emlékként áll Glendalough-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "Ősi, rituális jelentőségű bullaun-kő a kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Ez a központ bemutatja a Glendalough-völgy történelmét és régészetét.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Természetvédelmi terület, amely az őshonos ír erdők megőrzésével foglalkozik.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Egy egykori bányászfalu romjai a Glendalough-tó felső végénél.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Hegycsúcs, ahonnan a túrázók ráláthatnak a Glendalough-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Egy 12. századi román stílusú perjetség romjai a tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Rămășițele unei catedrale creștine timpurii din așezarea monastică Glendalough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Un menhir preistoric ce stă ca monument arheologic în Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "O piatră bullaun veche cu semnificație rituală situată lângă mănăstire.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Acest centru oferă informații despre istoria și arheologia văii Glendalough.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "O rezervație naturală dedicată conservării pădurilor native irlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Ruinele unui fost sat minier situat la capătul superior al lacului Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Un vârf muntos ce oferă drumeților vederi asupra văii Glendalough.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Ruinele unui priorat romanic din secolul al XII-lea situat lângă lac.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "The remains of a significant early Christian cathedral in the Glendalough monastic site.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "A prehistoric standing stone located as an archaeological monument in Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "An ancient bullaun stone with ritual significance located near the monastery.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "This visitor centre provides information on the history and archaeology of Glendalough.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "A nature reserve dedicated to the preservation of native Irish woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "The ruins of a former mining village located at the upper end of Glendalough lake.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "A mountain peak offering hikers views over the Glendalough valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "The ruins of a 12th-century Romanesque priory located near the lake.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Glendalough", hu: "Glendalough", ro: "Glendalough", en: "Glendalough" },
@@ -768,7 +1740,304 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-ballymore-eustace-history-v2.webp",
   },
   {
-    id: "ireland-kells-priory-history-v2",
+    id: "ireland-kells-priory-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilree",
+                  "text": "Eine archäologische Stätte mit einem gut erhaltenen Rundturm und einem Hochkreuz.",
+                  "category": "historical",
+                  "coords": [
+                        -7.268863,
+                        52.518126
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Ein Befestigungsturm auf dem Gelände des Kells Priory-Komplexes.",
+                  "category": "castle",
+                  "coords": [
+                        -7.267054,
+                        52.538616
+                  ]
+            },
+            {
+                  "name": "Danganbeg Castle (site of)",
+                  "text": "Der historische Standort einer ehemaligen Burg, der heute als archäologische Zone erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.247005,
+                        52.498155
+                  ]
+            },
+            {
+                  "name": "Kells Priory Mill Museum",
+                  "text": "Ein Museum in einer ehemaligen Mühle, das die lokale Geschichte bei Kells Priory zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.271321,
+                        52.542304
+                  ]
+            },
+            {
+                  "name": "Newtown (Erly) Towerhouse",
+                  "text": "Die Überreste eines mittelalterlichen Wohnturms in der Nähe der Kells Priory.",
+                  "category": "castle",
+                  "coords": [
+                        -7.315791,
+                        52.543698
+                  ]
+            },
+            {
+                  "name": "Stonecarthy East Church Ruin",
+                  "text": "Die archäologischen Überreste eines alten Kirchengebäudes in der Gegend von Stonecarthy.",
+                  "category": "historical",
+                  "coords": [
+                        -7.235036,
+                        52.525678
+                  ]
+            },
+            {
+                  "name": "Stonecarthy Deserted Village",
+                  "text": "Eine archäologische Stätte, die den Standort einer ehemaligen mittelalterlichen Siedlung markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.233286,
+                        52.523284
+                  ]
+            },
+            {
+                  "name": "Prior's Tower",
+                  "text": "Ein mittelalterlicher Wehrturm, der Teil der Klosteranlage Kells Priory ist.",
+                  "category": "castle",
+                  "coords": [
+                        -7.266114,
+                        52.539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilree",
+                  "text": "Régészeti lelőhely egy jó állapotban lévő kerek toronnyal és egy kelta kereszttel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.268863,
+                        52.518126
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Erődített torony a Kells-perjelség területén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.267054,
+                        52.538616
+                  ]
+            },
+            {
+                  "name": "Danganbeg Castle (site of)",
+                  "text": "Egy egykori vár történelmi helyszíne, amely ma régészeti terület.",
+                  "category": "historical",
+                  "coords": [
+                        -7.247005,
+                        52.498155
+                  ]
+            },
+            {
+                  "name": "Kells Priory Mill Museum",
+                  "text": "Egy egykori malomban berendezett múzeum, amely a Kells-perjelség környékének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.271321,
+                        52.542304
+                  ]
+            },
+            {
+                  "name": "Newtown (Erly) Towerhouse",
+                  "text": "Egy középkori lakótorony maradványai a Kells-perjelség közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.315791,
+                        52.543698
+                  ]
+            },
+            {
+                  "name": "Stonecarthy East Church Ruin",
+                  "text": "Egy ősi templomépület régészeti maradványai Stonecarthy környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.235036,
+                        52.525678
+                  ]
+            },
+            {
+                  "name": "Stonecarthy Deserted Village",
+                  "text": "Régészeti lelőhely, amely egy egykori középkori település helyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -7.233286,
+                        52.523284
+                  ]
+            },
+            {
+                  "name": "Prior's Tower",
+                  "text": "Középkori védőtorony, amely a Kells-perjelség monostori együttesének része.",
+                  "category": "castle",
+                  "coords": [
+                        -7.266114,
+                        52.539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilree",
+                  "text": "Un sit arheologic care cuprinde un turn rotund bine conservat și o cruce înaltă.",
+                  "category": "historical",
+                  "coords": [
+                        -7.268863,
+                        52.518126
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Un turn de fortificație situat în cadrul complexului Abației Kells.",
+                  "category": "castle",
+                  "coords": [
+                        -7.267054,
+                        52.538616
+                  ]
+            },
+            {
+                  "name": "Danganbeg Castle (site of)",
+                  "text": "Locul istoric al unui fost castel, păstrat astăzi ca zonă arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        -7.247005,
+                        52.498155
+                  ]
+            },
+            {
+                  "name": "Kells Priory Mill Museum",
+                  "text": "Un muzeu situat într-o fostă moară, care prezintă istoria locală lângă Abația Kells.",
+                  "category": "museum",
+                  "coords": [
+                        -7.271321,
+                        52.542304
+                  ]
+            },
+            {
+                  "name": "Newtown (Erly) Towerhouse",
+                  "text": "Rămășițele unei case-turn medievale situate lângă situl Abației Kells.",
+                  "category": "castle",
+                  "coords": [
+                        -7.315791,
+                        52.543698
+                  ]
+            },
+            {
+                  "name": "Stonecarthy East Church Ruin",
+                  "text": "Rămășițele arheologice ale unei vechi clădiri de biserică în zona Stonecarthy.",
+                  "category": "historical",
+                  "coords": [
+                        -7.235036,
+                        52.525678
+                  ]
+            },
+            {
+                  "name": "Stonecarthy Deserted Village",
+                  "text": "Un sit arheologic care marchează locația unei foste așezări medievale.",
+                  "category": "historical",
+                  "coords": [
+                        -7.233286,
+                        52.523284
+                  ]
+            },
+            {
+                  "name": "Prior's Tower",
+                  "text": "Un turn defensiv medieval care face parte din situl monastic al Abației Kells.",
+                  "category": "castle",
+                  "coords": [
+                        -7.266114,
+                        52.539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilree",
+                  "text": "An archaeological site featuring a well-preserved round tower and a high cross.",
+                  "category": "historical",
+                  "coords": [
+                        -7.268863,
+                        52.518126
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "A fortification tower located within the grounds of the Kells Priory complex.",
+                  "category": "castle",
+                  "coords": [
+                        -7.267054,
+                        52.538616
+                  ]
+            },
+            {
+                  "name": "Danganbeg Castle (site of)",
+                  "text": "The historical site of a former castle, now preserved as an archaeological area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.247005,
+                        52.498155
+                  ]
+            },
+            {
+                  "name": "Kells Priory Mill Museum",
+                  "text": "A museum located in a former mill, showcasing local history near Kells Priory.",
+                  "category": "museum",
+                  "coords": [
+                        -7.271321,
+                        52.542304
+                  ]
+            },
+            {
+                  "name": "Newtown (Erly) Towerhouse",
+                  "text": "The remains of a medieval tower house located near the Kells Priory site.",
+                  "category": "castle",
+                  "coords": [
+                        -7.315791,
+                        52.543698
+                  ]
+            },
+            {
+                  "name": "Stonecarthy East Church Ruin",
+                  "text": "The archaeological remains of an ancient church building in the Stonecarthy area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.235036,
+                        52.525678
+                  ]
+            },
+            {
+                  "name": "Stonecarthy Deserted Village",
+                  "text": "An archaeological site marking the location of a former medieval settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -7.233286,
+                        52.523284
+                  ]
+            },
+            {
+                  "name": "Prior's Tower",
+                  "text": "A medieval defensive tower forming part of the Kells Priory monastic site.",
+                  "category": "castle",
+                  "coords": [
+                        -7.266114,
+                        52.539
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Kells Priory", hu: "Kells Priorátus", ro: "Prioratul Kells", en: "Kells Priory" },
@@ -948,7 +2217,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-maynooth-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-castle-history-v2",
+    id: "ireland-ballymore-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Eine antike Erdbefestigung, die eine frühe anglo-normannische Motte-Anlage darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Ein alter Friedhof mit historischer Bedeutung und antiken Grabsteinen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Eine bedeutende historische Burg in Kilkenny, die ursprünglich zur Kontrolle einer Furt am Fluss Nore erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Ein lokales Gotteshaus, das der Gemeinde in der Gegend von Tang dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Ősi földvár, amely egy korai anglo-normann motte típusú erődítményt képvisel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Régi temető történelmi jelentőséggel és ősi sírjelekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Jelentős történelmi kastély Kilkennyben, amelyet eredetileg a Nore-folyó gázlójának ellenőrzésére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Helyi istentiszteleti hely, amely a Tang környéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "O fortificație antică din pământ care reprezintă o timpurie fortăreață anglo-normandă de tip motte-and-bailey.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un vechi cimitir cu semnificație istorică și pietre funerare antice.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Un castel istoric major din Kilkenny, construit inițial pentru a controla un punct de trecere al râului Nore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Un lăcaș de cult local care deservește comunitatea din zona Tang.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "An ancient earthwork fortification representing an early Anglo-Norman motte-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "An old burial ground with historical significance and ancient grave markers.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A major historic castle in Kilkenny, originally built to control a fording point of the River Nore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A local place of worship serving the community in the Tang area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Ballymore Castle", hu: "Ballymore kastély", ro: "Castelul Ballymore", en: "Ballymore Castle" },
@@ -1083,7 +2505,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-ballybritt-castle-history-v2.webp",
   },
   {
-    id: "ireland-skreen-church-history-v2",
+    id: "ireland-skreen-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bunnina Castle",
+                  "text": "Die archäologischen Überreste einer alten Befestigungsanlage in der Gegend von Skreen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.6438,
+                        54.244225
+                  ]
+            },
+            {
+                  "name": "Giant's Grave",
+                  "text": "Eine prähistorische Megalithgrabanlage, die das antike Erbe der Region Skreen widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.651087,
+                        54.231968
+                  ]
+            },
+            {
+                  "name": "Longford House",
+                  "text": "Ein historisches Herrenhaus in der ländlichen Umgebung nahe der Skreen Church.",
+                  "category": "historical",
+                  "coords": [
+                        -8.668541,
+                        54.216326
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "Ein traditioneller heiliger Brunnen, der der heiligen Brigida gewidmet ist und als Ort lokaler Wallfahrten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.658141,
+                        54.210046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunnina Castle",
+                  "text": "Egy ősi erődítmény régészeti maradványai Skreen környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.6438,
+                        54.244225
+                  ]
+            },
+            {
+                  "name": "Giant's Grave",
+                  "text": "Prehisztorikus megalitikus sírhely, amely Skreen régió ősi örökségét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.651087,
+                        54.231968
+                  ]
+            },
+            {
+                  "name": "Longford House",
+                  "text": "Történelmi udvarház Skreen Church közelében, vidéki környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.668541,
+                        54.216326
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "Szent Brigittának szentelt hagyományos szent kút, amely helyi zarándokhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.658141,
+                        54.210046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunnina Castle",
+                  "text": "Vestigiile arheologice ale unei fortificații antice situate în zona Skreen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.6438,
+                        54.244225
+                  ]
+            },
+            {
+                  "name": "Giant's Grave",
+                  "text": "Un mormânt megalitic preistoric care reflectă moștenirea antică a regiunii Skreen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.651087,
+                        54.231968
+                  ]
+            },
+            {
+                  "name": "Longford House",
+                  "text": "Un conac istoric situat în zona rurală de lângă Skreen Church.",
+                  "category": "historical",
+                  "coords": [
+                        -8.668541,
+                        54.216326
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "O fântână sfântă tradițională dedicată Sfintei Bridget, utilizată ca loc de pelerinaj local.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.658141,
+                        54.210046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunnina Castle",
+                  "text": "The archaeological remains of an ancient fortification located in the Skreen area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.6438,
+                        54.244225
+                  ]
+            },
+            {
+                  "name": "Giant's Grave",
+                  "text": "A prehistoric megalithic tomb site reflecting the ancient heritage of the Skreen region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.651087,
+                        54.231968
+                  ]
+            },
+            {
+                  "name": "Longford House",
+                  "text": "A historic manor house situated in the rural countryside near Skreen Church.",
+                  "category": "historical",
+                  "coords": [
+                        -8.668541,
+                        54.216326
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "A traditional holy well dedicated to Saint Bridget, used as a site for local pilgrimage.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.658141,
+                        54.210046
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "IE",
     name: { de: "Skreen Church", hu: "Skreen templom", ro: "Biserica Skreen", en: "Skreen Church" },
@@ -1128,7 +2703,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-skreen-church-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-abbey-history-v2",
+    id: "ireland-ballymore-abbey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Eine anglonormannische Turmhügelburg in der Grafschaft Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Ein alter Friedhof mit historischen Ruinen in der Gegend von Ballymore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Eine historische Burganlage in der Region Ballymore Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Ein lokales Kirchengebäude, das der religiösen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Egy angol-normann motte típusú várhely Westmeath megyében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Régi temető történelmi romokkal Ballymore környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Történelmi vár Ballymore Abbey régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Helyi templomépület, amely a vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Un sit de fortificație anglo-normandă de tip motte-and-bailey din comitatul Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un cimitir vechi cu ruine istorice în zona Ballymore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Un castel istoric situat în regiunea Ballymore Abbey.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "O clădire de biserică locală care deservește comunitatea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "An Anglo-Norman motte-and-bailey castle site in County Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "An ancient cemetery with historical ruins in the Ballymore area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A historic castle located in the Ballymore Abbey region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A local church building serving the religious community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Ballymore Abbey", hu: "Ballymore apátság", ro: "Abația Ballymore", en: "Ballymore Abbey" },
@@ -1218,7 +2946,304 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-dromoland-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballymote-castle-history-v2",
+    id: "ireland-ballymote-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballymote Castle",
+                  "text": "Eine imposante Burgruine aus dem 14. Jahrhundert in Ballymote.",
+                  "category": "castle",
+                  "coords": [
+                        -8.519664,
+                        54.087469
+                  ]
+            },
+            {
+                  "name": "The Art Deco Theatre",
+                  "text": "Ein Theatergebäude im Art-déco-Stil in Ballymote.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.514637,
+                        54.09092
+                  ]
+            },
+            {
+                  "name": "Rathdoney",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe von Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.539867,
+                        54.097829
+                  ]
+            },
+            {
+                  "name": "Emlaghfad Church (ruins)",
+                  "text": "Die Überreste einer historischen Kirche in Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.507289,
+                        54.076223
+                  ]
+            },
+            {
+                  "name": "Fighting 69th Monument",
+                  "text": "Ein Denkmal in Ballymote zu Ehren des 69. Regiments.",
+                  "category": "historical",
+                  "coords": [
+                        -8.520259,
+                        54.090223
+                  ]
+            },
+            {
+                  "name": "abbey",
+                  "text": "Die Ruinen einer alten Abtei in Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554694,
+                        54.072011
+                  ]
+            },
+            {
+                  "name": "Toberbride",
+                  "text": "Eine lokale Quelle in der Gegend von Ballymote.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.496081,
+                        54.058272
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "Eine römisch-katholische Kirche in Ballymote.",
+                  "category": "religious",
+                  "coords": [
+                        -8.5193,
+                        54.089083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballymote Castle",
+                  "text": "Impozáns 14. századi várrom Ballymote-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.519664,
+                        54.087469
+                  ]
+            },
+            {
+                  "name": "The Art Deco Theatre",
+                  "text": "Art deco stílusú színházépület Ballymote-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.514637,
+                        54.09092
+                  ]
+            },
+            {
+                  "name": "Rathdoney",
+                  "text": "Régészeti lelőhely Ballymote közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.539867,
+                        54.097829
+                  ]
+            },
+            {
+                  "name": "Emlaghfad Church (ruins)",
+                  "text": "Egy történelmi templom maradványai Ballymote-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.507289,
+                        54.076223
+                  ]
+            },
+            {
+                  "name": "Fighting 69th Monument",
+                  "text": "A 69. ezred tiszteletére emelt emlékmű Ballymote-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.520259,
+                        54.090223
+                  ]
+            },
+            {
+                  "name": "abbey",
+                  "text": "Egy régi apátság romjai Ballymote-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554694,
+                        54.072011
+                  ]
+            },
+            {
+                  "name": "Toberbride",
+                  "text": "Helyi forrás Ballymote környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.496081,
+                        54.058272
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "Római katolikus templom Ballymote-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.5193,
+                        54.089083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballymote Castle",
+                  "text": "O ruină impunătoare de castel din secolul al XIV-lea în Ballymote.",
+                  "category": "castle",
+                  "coords": [
+                        -8.519664,
+                        54.087469
+                  ]
+            },
+            {
+                  "name": "The Art Deco Theatre",
+                  "text": "O clădire de teatru în stil Art Deco situată în Ballymote.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.514637,
+                        54.09092
+                  ]
+            },
+            {
+                  "name": "Rathdoney",
+                  "text": "Un sit arheologic situat în apropiere de Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.539867,
+                        54.097829
+                  ]
+            },
+            {
+                  "name": "Emlaghfad Church (ruins)",
+                  "text": "Ruinele unei biserici istorice din Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.507289,
+                        54.076223
+                  ]
+            },
+            {
+                  "name": "Fighting 69th Monument",
+                  "text": "Un monument în Ballymote ridicat în onoarea Regimentului 69.",
+                  "category": "historical",
+                  "coords": [
+                        -8.520259,
+                        54.090223
+                  ]
+            },
+            {
+                  "name": "abbey",
+                  "text": "Ruinele unei vechi abații din Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554694,
+                        54.072011
+                  ]
+            },
+            {
+                  "name": "Toberbride",
+                  "text": "Un izvor local situat în zona Ballymote.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.496081,
+                        54.058272
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "O biserică romano-catolică situată în Ballymote.",
+                  "category": "religious",
+                  "coords": [
+                        -8.5193,
+                        54.089083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballymote Castle",
+                  "text": "An imposing 14th-century castle ruin located in Ballymote.",
+                  "category": "castle",
+                  "coords": [
+                        -8.519664,
+                        54.087469
+                  ]
+            },
+            {
+                  "name": "The Art Deco Theatre",
+                  "text": "An Art Deco style theatre building located in Ballymote.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.514637,
+                        54.09092
+                  ]
+            },
+            {
+                  "name": "Rathdoney",
+                  "text": "An archaeological site located near Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.539867,
+                        54.097829
+                  ]
+            },
+            {
+                  "name": "Emlaghfad Church (ruins)",
+                  "text": "The remains of a historical church in Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.507289,
+                        54.076223
+                  ]
+            },
+            {
+                  "name": "Fighting 69th Monument",
+                  "text": "A monument in Ballymote dedicated to the Fighting 69th regiment.",
+                  "category": "historical",
+                  "coords": [
+                        -8.520259,
+                        54.090223
+                  ]
+            },
+            {
+                  "name": "abbey",
+                  "text": "The ruins of an ancient abbey located in Ballymote.",
+                  "category": "historical",
+                  "coords": [
+                        -8.554694,
+                        54.072011
+                  ]
+            },
+            {
+                  "name": "Toberbride",
+                  "text": "A local spring located in the Ballymote area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.496081,
+                        54.058272
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "A Roman Catholic church located in Ballymote.",
+                  "category": "religious",
+                  "coords": [
+                        -8.5193,
+                        54.089083
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Ballymote Castle", hu: "Ballymote kastély", ro: "Castelul Ballymote", en: "Ballymote Castle" },
@@ -1308,7 +3333,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-cloughoughter-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-fort-history-v2",
+    id: "ireland-ballymore-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Eine archäologische Stätte mit den Überresten einer anglonormannischen Erdhügelburg.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Eine historische Friedhofsanlage mit archäologischer Bedeutung in Ballymore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Ein historisches Schloss in der Region Ballymore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Eine lokale Kirche in der Gegend von Ballymore Fort.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Régészeti lelőhely egy anglo-normann földvár maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Régészeti jelentőségű történelmi temető Ballymore területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Történelmi kastély Ballymore régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Helyi templom Ballymore Fort környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Un sit arheologic cu rămășițele unei fortificații anglo-normande de tip motte-and-bailey.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un cimitir istoric cu semnificație arheologică în Ballymore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Un castel istoric situat în regiunea Ballymore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "O biserică locală în zona Ballymore Fort.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "An archaeological site featuring the remains of an Anglo-Norman motte-and-bailey castle.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "A historical cemetery site of archaeological significance in Ballymore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A historical castle located in the Ballymore region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A local church in the Ballymore Fort area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IE",
     name: { de: "Ballymore Fort", hu: "Ballymore erőd", ro: "Fortăreața Ballymore", en: "Ballymore Fort" },
@@ -1398,7 +3576,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-ashbourne-battlefield-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-monastery-history-v2",
+    id: "ireland-ballymore-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Die Überreste einer mittelalterlichen Erdhügelburg (Motte) in der Grafschaft Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Eine alte Friedhofsanlage mit historischen Grabsteinen und architektonischen Fragmenten.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Ein historisches Schlossgebäude in der Nähe des Gebiets des Ballymore-Klosters.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Eine örtliche Pfarrkirche, die der Gemeinde im Gebiet von Tang und Ballymore dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Egy középkori földvár maradványai Westmeath megyében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Ősi temetőhely történelmi síremlékekkel és építészeti töredékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Történelmi várépítmény a Ballymore kolostor környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Helyi plébániatemplom, amely a Tang és Ballymore környéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Rămășițele unui castel medieval de tip motte-and-bailey situat în comitatul Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un sit de cimitir antic care conține marcaje funerare istorice și fragmente arhitecturale.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "O structură de castel istoric situată în vecinătatea zonei Mănăstirii Ballymore.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "O biserică parohială locală care servește comunitatea din zona Tang și Ballymore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "The remains of a medieval motte-and-bailey castle located in County Westmeath.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "An ancient cemetery site containing historic grave markers and architectural fragments.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A historic castle structure located in the vicinity of the Ballymore Monastery area.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A local parish church serving the community in the Tang and Ballymore area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "IE",
     name: { de: "Ballymore Monastery", hu: "Ballymore kolostor", ro: "Mănăstirea Ballymore", en: "Ballymore Monastery" },
@@ -1488,7 +3819,160 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-drumboy-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-church-history-v2",
+    id: "ireland-ballymore-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Eine archäologische Stätte in Ballymore mit den Überresten einer mittelalterlichen Erdburg.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Ein historischer Friedhof bei Ballymore mit alten Grabstätten und Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Eine Burganlage in der Region Ballymore mit historischer Bedeutung.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Ein christliches Gotteshaus in Ballymore, das als lokaler religiöser Mittelpunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Régészeti lelőhely Ballymore-ban, egy középkori földvár maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Történelmi temető Ballymore közelében, régi sírhelyekkel és romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Történelmi jelentőségű várépület Ballymore környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Keresztény templom Ballymore-ban, amely a helyi hitélet központja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "Un sit arheologic în Ballymore, cuprinzând resturile unei fortificații medievale de pământ.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un cimitir istoric lângă Ballymore, cu morminte vechi și ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "O structură de castel în regiunea Ballymore, având o importanță istorică.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Un lăcaș de cult creștin în Ballymore, care servește ca centru religios local.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunnamona Motte",
+                  "text": "An archaeological site in Ballymore featuring the remains of a medieval motte fortification.",
+                  "category": "historical",
+                  "coords": [
+                        -7.783633,
+                        53.499514
+                  ]
+            },
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "A historic cemetery near Ballymore featuring old burial sites and ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A castle structure in the Ballymore region with historical significance.",
+                  "category": "castle",
+                  "coords": [
+                        -7.816875,
+                        53.489909
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A Christian place of worship in Ballymore serving as a local religious center.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "IE",
     name: { de: "Ballymore Church", hu: "Ballymore templom", ro: "Biserica Ballymore", en: "Ballymore Church" },
@@ -1533,7 +4017,196 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-ballymore-church-history-v2.webp",
   },
   {
-    id: "ireland-dunnaseer-castle-history-v2",
+    id: "ireland-dunnaseer-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lorrha Priory of St. Ruadhan",
+                  "text": "Die Ruinen einer mittelalterlichen Dominikanerabtei in der Nähe von Dunnaseer Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.121252,
+                        53.091936
+                  ]
+            },
+            {
+                  "name": "Redwood Castle",
+                  "text": "Eine restaurierte mittelalterliche Turmburg in Irland, der historische Sitz des MacEgan-Clans.",
+                  "category": "castle",
+                  "coords": [
+                        -8.10599,
+                        53.138964
+                  ]
+            },
+            {
+                  "name": "Portland House",
+                  "text": "Überreste eines historischen Gebäudes in der Gegend von Dunnaseer Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169935,
+                        53.108085
+                  ]
+            },
+            {
+                  "name": "St Rodan's Church",
+                  "text": "Ein christliches Gotteshaus in der Nähe der historischen Stätten von Lorrha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.119966,
+                        53.09152
+                  ]
+            },
+            {
+                  "name": "St Ruadhan's Church",
+                  "text": "Eine örtliche Kirche in Dunnaseer Castle, benannt nach dem heiligen Ruadhan.",
+                  "category": "religious",
+                  "coords": [
+                        -8.12621,
+                        53.091211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lorrha Priory of St. Ruadhan",
+                  "text": "Egy középkori dominikánus apátság romjai Dunnaseer Castle közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.121252,
+                        53.091936
+                  ]
+            },
+            {
+                  "name": "Redwood Castle",
+                  "text": "Restaurált középkori toronyvár Írországban, a MacEgan klán történelmi székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        -8.10599,
+                        53.138964
+                  ]
+            },
+            {
+                  "name": "Portland House",
+                  "text": "Egy történelmi épület maradványai Dunnaseer Castle környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169935,
+                        53.108085
+                  ]
+            },
+            {
+                  "name": "St Rodan's Church",
+                  "text": "Keresztény templom Lorrha történelmi helyszíneinek közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.119966,
+                        53.09152
+                  ]
+            },
+            {
+                  "name": "St Ruadhan's Church",
+                  "text": "Szent Ruadhanról elnevezett helyi templom Dunnaseer Castle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.12621,
+                        53.091211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lorrha Priory of St. Ruadhan",
+                  "text": "Ruinele unei abații dominicane medievale situate lângă Dunnaseer Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.121252,
+                        53.091936
+                  ]
+            },
+            {
+                  "name": "Redwood Castle",
+                  "text": "Un castel medieval restaurat din Irlanda, sediul istoric al clanului MacEgan.",
+                  "category": "castle",
+                  "coords": [
+                        -8.10599,
+                        53.138964
+                  ]
+            },
+            {
+                  "name": "Portland House",
+                  "text": "Rămășițele unei clădiri istorice în zona Dunnaseer Castle.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169935,
+                        53.108085
+                  ]
+            },
+            {
+                  "name": "St Rodan's Church",
+                  "text": "Un lăcaș de cult creștin situat în apropierea siturilor istorice din Lorrha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.119966,
+                        53.09152
+                  ]
+            },
+            {
+                  "name": "St Ruadhan's Church",
+                  "text": "O biserică locală în Dunnaseer Castle, numită după Sfântul Ruadhan.",
+                  "category": "religious",
+                  "coords": [
+                        -8.12621,
+                        53.091211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lorrha Priory of St. Ruadhan",
+                  "text": "The ruins of a medieval Dominican priory located near Dunnaseer Castle.",
+                  "category": "religious",
+                  "coords": [
+                        -8.121252,
+                        53.091936
+                  ]
+            },
+            {
+                  "name": "Redwood Castle",
+                  "text": "A restored medieval tower house in Ireland, the historic seat of the MacEgan clan.",
+                  "category": "castle",
+                  "coords": [
+                        -8.10599,
+                        53.138964
+                  ]
+            },
+            {
+                  "name": "Portland House",
+                  "text": "Remains of a historical building in the Dunnaseer Castle area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.169935,
+                        53.108085
+                  ]
+            },
+            {
+                  "name": "St Rodan's Church",
+                  "text": "A Christian place of worship located near the historical sites of Lorrha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.119966,
+                        53.09152
+                  ]
+            },
+            {
+                  "name": "St Ruadhan's Church",
+                  "text": "A local church in Dunnaseer Castle named after Saint Ruadhan.",
+                  "category": "religious",
+                  "coords": [
+                        -8.12621,
+                        53.091211
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Dunnaseer Castle", hu: "Dunnaseer kastély", ro: "Castelul Dunnaseer", en: "Dunnaseer Castle" },
@@ -1578,7 +4251,232 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-dunnaseer-castle-history-v2.webp",
   },
   {
-    id: "ireland-kilcash-castle-history-v2",
+    id: "ireland-kilcash-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "Eine mittelalterliche Burgruine in der Grafschaft Tipperary, bekannt durch das berühmte irische Lied 'Kilcash'.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Garden of Renewal",
+                  "text": "Ein Naturgebiet bei Kilcash, das der Erneuerung der lokalen Flora und der Entspannung dient.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577666,
+                        52.360164
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Kilcash, die Hinweise auf frühere menschliche Siedlungen liefert.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Ein lokales christliches Gotteshaus in der Nähe von Kilcash Castle für die Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche, die als geistliches Zentrum für die Region um Kilcash dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.585746,
+                        52.368856
+                  ]
+            },
+            {
+                  "name": "Ballynoran Church",
+                  "text": "Eine mittelalterliche Kirchenruine, die für ihre historische Bedeutung in der Umgebung von Tipperary bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490065,
+                        52.355572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "Középkori várrom Tipperary megyében, amelyet a híres 'Kilcash' című ír dal tett ismertté.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Garden of Renewal",
+                  "text": "Kilcash melletti terület, amely a helyi flóra megújulását és a kikapcsolódást szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577666,
+                        52.360164
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Régészeti lelőhely Kilcash közelében, amely korábbi emberi települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Helyi keresztény istentiszteleti hely a Kilcash-vár közelében a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Szűz Máriának szentelt templom, amely lelki központként szolgál Kilcash környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.585746,
+                        52.368856
+                  ]
+            },
+            {
+                  "name": "Ballynoran Church",
+                  "text": "Középkori templomrom, amely történelmi jelentőségéről ismert Tipperary környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490065,
+                        52.355572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "O ruină de castel medieval din comitatul Tipperary, făcută celebră de cunoscutul cântec irlandez „Kilcash”.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Garden of Renewal",
+                  "text": "O zonă naturală lângă Kilcash, dedicată regenerării florei locale și relaxării.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577666,
+                        52.360164
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "Un sit arheologic în apropiere de Kilcash, care oferă dovezi ale unor așezări umane timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "Un lăcaș de cult creștin local, situat în apropierea Castelului Kilcash, pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "O biserică dedicată Fecioarei Maria, care servește ca centru spiritual pentru zona Kilcash.",
+                  "category": "religious",
+                  "coords": [
+                        -7.585746,
+                        52.368856
+                  ]
+            },
+            {
+                  "name": "Ballynoran Church",
+                  "text": "O ruină de biserică medievală, cunoscută pentru importanța sa istorică în împrejurimile comitatului Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490065,
+                        52.355572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilcash Castle",
+                  "text": "A medieval castle ruin in County Tipperary, made famous by the well-known Irish song 'Kilcash'.",
+                  "category": "castle",
+                  "coords": [
+                        -7.521391,
+                        52.397248
+                  ]
+            },
+            {
+                  "name": "Garden of Renewal",
+                  "text": "A natural area near Kilcash dedicated to the renewal of local flora and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.577666,
+                        52.360164
+                  ]
+            },
+            {
+                  "name": "Lisbalting",
+                  "text": "An archaeological site near Kilcash that provides evidence of earlier human settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -7.524389,
+                        52.387986
+                  ]
+            },
+            {
+                  "name": "St. John's",
+                  "text": "A local Christian place of worship located near Kilcash Castle for the community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.539744,
+                        52.403961
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A church dedicated to the Virgin Mary, serving as a spiritual center for the Kilcash area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.585746,
+                        52.368856
+                  ]
+            },
+            {
+                  "name": "Ballynoran Church",
+                  "text": "A medieval church ruin known for its historical significance in the Tipperary area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490065,
+                        52.355572
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Kilcash Castle", hu: "Kilcash kastély", ro: "Castelul Kilcash", en: "Kilcash Castle" },

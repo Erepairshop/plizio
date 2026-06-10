@@ -267,7 +267,304 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-gergeti-history-v2",
+    id: "ge-gergeti-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Ruinen einer historischen Festung in der Nähe der Gergeti-Dreifaltigkeitskirche.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სტეფანწმინდის ისტორიული მუზეუმი. ალექსანდრე ყაზბეგის სახლ-მუზეუმი",
+                  "text": "Ein Museum, das dem Schriftsteller Aleksandre Kasbegi und der Regionalgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        44.643276,
+                        42.660689
+                  ]
+            },
+            {
+                  "name": "არწივისწვერი",
+                  "text": "Ein Berggipfel im Kaukasus in der Nähe von Gergeti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.602523,
+                        42.684952
+                  ]
+            },
+            {
+                  "name": "Gergeti-Dreifaltigkeitskirche",
+                  "text": "Eine berühmte Kirche aus dem 14. Jahrhundert auf einem Hügel am Fuße des Berges Kasbek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.620476,
+                        42.662389
+                  ]
+            },
+            {
+                  "name": "საბერწე",
+                  "text": "Ein Denkmal oder Orientierungspunkt in der Bergregion bei Gergeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.573586,
+                        42.65881
+                  ]
+            },
+            {
+                  "name": "Pansheti Mineral Spring",
+                  "text": "Eine natürliche Mineralwasserquelle in der Region Kasbegi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.629177,
+                        42.646023
+                  ]
+            },
+            {
+                  "name": "ყაზბეგის საუკეთესო ხედი",
+                  "text": "Ein beliebter Aussichtspunkt mit Panoramablick auf den Berg Kasbek.",
+                  "category": "natural",
+                  "coords": [
+                        44.58962,
+                        42.664622
+                  ]
+            },
+            {
+                  "name": "Amazing view of the church",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die Gergeti-Kirche und die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        44.611202,
+                        42.66487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Történelmi erődítmény romjai a Gergeti Szentháromság-templom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სტეფანწმინდის ისტორიული მუზეუმი. ალექსანდრე ყაზბეგის სახლ-მუზეუმი",
+                  "text": "Alekszandre Kazbegi írónak és a helyi történelemnek szentelt múzeum Sztepancmindában.",
+                  "category": "museum",
+                  "coords": [
+                        44.643276,
+                        42.660689
+                  ]
+            },
+            {
+                  "name": "არწივისწვერი",
+                  "text": "Hegycsúcs a Kaukázusban, Gergeti közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.602523,
+                        42.684952
+                  ]
+            },
+            {
+                  "name": "Gergeti Szentháromság templom",
+                  "text": "Híres 14. századi templom egy dombon, a Kazbek-hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.620476,
+                        42.662389
+                  ]
+            },
+            {
+                  "name": "საბერწე",
+                  "text": "Emlékmű vagy jelzőpont a Gergeti melletti hegyvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        44.573586,
+                        42.65881
+                  ]
+            },
+            {
+                  "name": "Pansheti Mineral Spring",
+                  "text": "Természetes ásványvízforrás a Kazbegi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.629177,
+                        42.646023
+                  ]
+            },
+            {
+                  "name": "ყაზბეგის საუკეთესო ხედი",
+                  "text": "Népszerű kilátóhely, ahonnan panorámás kilátás nyílik a Kazbek-hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        44.58962,
+                        42.664622
+                  ]
+            },
+            {
+                  "name": "Amazing view of the church",
+                  "text": "Festői kilátóhely, ahonnan rálátni a Gergeti-templomra és a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.611202,
+                        42.66487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "არშის ციხე",
+                  "text": "Ruinele unei fortificații istorice în apropierea Bisericii Sfânta Treime din Gergeti.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "სტეფანწმინდის ისტორიული მუზეუმი. ალექსანდრე ყაზბეგის სახლ-მუზეუმი",
+                  "text": "Un muzeu dedicat scriitorului Aleksandre Kazbegi și istoriei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        44.643276,
+                        42.660689
+                  ]
+            },
+            {
+                  "name": "არწივისწვერი",
+                  "text": "Un vârf montan situat în regiunea Caucaz, lângă Gergeti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.602523,
+                        42.684952
+                  ]
+            },
+            {
+                  "name": "გერგეთის სამების ეკლესია",
+                  "text": "O celebră biserică din secolul al XIV-lea, situată pe un deal la poalele Muntelui Kazbek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.620476,
+                        42.662389
+                  ]
+            },
+            {
+                  "name": "საბერწე",
+                  "text": "Un monument sau punct de reper situat în zona muntoasă de lângă Gergeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.573586,
+                        42.65881
+                  ]
+            },
+            {
+                  "name": "Pansheti Mineral Spring",
+                  "text": "Un izvor natural de apă minerală situat în regiunea Kazbegi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.629177,
+                        42.646023
+                  ]
+            },
+            {
+                  "name": "ყაზბეგის საუკეთესო ხედი",
+                  "text": "Un punct de observație popular care oferă vedere panoramică asupra Muntelui Kazbek.",
+                  "category": "natural",
+                  "coords": [
+                        44.58962,
+                        42.664622
+                  ]
+            },
+            {
+                  "name": "Amazing view of the church",
+                  "text": "Un punct de belvedere pitoresc cu vedere la biserica din Gergeti și munții din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.611202,
+                        42.66487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsha fortress",
+                  "text": "Ruins of a historical fortification near the Gergeti Trinity Church.",
+                  "category": "castle",
+                  "coords": [
+                        44.599299,
+                        42.631729
+                  ]
+            },
+            {
+                  "name": "Stepantsminda Historical Museum. Aleksandre Kazbegi house museum",
+                  "text": "A museum dedicated to the writer Aleksandre Kazbegi and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        44.643276,
+                        42.660689
+                  ]
+            },
+            {
+                  "name": "Artsivistsveri",
+                  "text": "A mountain peak located in the Caucasus region near Gergeti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.602523,
+                        42.684952
+                  ]
+            },
+            {
+                  "name": "Gergeti Trinity Church",
+                  "text": "A famous 14th-century church situated on a hill at the foot of Mount Kazbek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.620476,
+                        42.662389
+                  ]
+            },
+            {
+                  "name": "Sabertse",
+                  "text": "A monument or landmark located in the mountainous area near Gergeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.573586,
+                        42.65881
+                  ]
+            },
+            {
+                  "name": "Pansheti Mineral Spring",
+                  "text": "A natural mineral water spring located in the Kazbegi region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.629177,
+                        42.646023
+                  ]
+            },
+            {
+                  "name": "Best view to Kazbeg",
+                  "text": "A popular observation point offering panoramic views of Mount Kazbek.",
+                  "category": "natural",
+                  "coords": [
+                        44.58962,
+                        42.664622
+                  ]
+            },
+            {
+                  "name": "Amazing view of the church",
+                  "text": "A scenic viewpoint overlooking the Gergeti church and the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        44.611202,
+                        42.66487
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.6203, 42.6629],
@@ -399,7 +696,160 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-gremi-history-v2",
+    id: "ge-gremi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wehrkirche Gremi",
+                  "text": "Eine historische Festung und ehemalige Residenz aus dem 16. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        45.660149,
+                        42.002027
+                  ]
+            },
+            {
+                  "name": "Gremi Museum",
+                  "text": "Ein Museum, das Exponate zur Geschichte der Stadt Gremi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        45.658764,
+                        42.00114
+                  ]
+            },
+            {
+                  "name": "Sabue Fortress",
+                  "text": "Die Überreste einer mittelalterlichen Befestigungsanlage.",
+                  "category": "historical",
+                  "coords": [
+                        45.692572,
+                        42.020812
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Ruinen einer alten Festung in der Nähe von Gremi.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gremi Fortress",
+                  "text": "16. századi történelmi erőd és egykori királyi rezidencia.",
+                  "category": "castle",
+                  "coords": [
+                        45.660149,
+                        42.002027
+                  ]
+            },
+            {
+                  "name": "Gremi Museum",
+                  "text": "Gremi városának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        45.658764,
+                        42.00114
+                  ]
+            },
+            {
+                  "name": "Sabue Fortress",
+                  "text": "Egy középkori erődítmény maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        45.692572,
+                        42.020812
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Egy ősi erőd romjai Gremi közelében.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gremi Fortress",
+                  "text": "O fortăreață istorică și fostă reședință regală din secolul al XVI-lea.",
+                  "category": "castle",
+                  "coords": [
+                        45.660149,
+                        42.002027
+                  ]
+            },
+            {
+                  "name": "Gremi Museum",
+                  "text": "Un muzeu care expune obiecte legate de istoria orașului Gremi.",
+                  "category": "museum",
+                  "coords": [
+                        45.658764,
+                        42.00114
+                  ]
+            },
+            {
+                  "name": "Sabue Fortress",
+                  "text": "Rămășițele unei fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        45.692572,
+                        42.020812
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Ruinele unei vechi cetăți situate lângă Gremi.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gremi Fortress",
+                  "text": "A 16th-century historical fortress and former royal residence.",
+                  "category": "castle",
+                  "coords": [
+                        45.660149,
+                        42.002027
+                  ]
+            },
+            {
+                  "name": "Gremi Museum",
+                  "text": "A museum displaying exhibits related to the history of the town of Gremi.",
+                  "category": "museum",
+                  "coords": [
+                        45.658764,
+                        42.00114
+                  ]
+            },
+            {
+                  "name": "Sabue Fortress",
+                  "text": "The ruins of a medieval fortification.",
+                  "category": "historical",
+                  "coords": [
+                        45.692572,
+                        42.020812
+                  ]
+            },
+            {
+                  "name": "Shilda Fortress",
+                  "text": "Ruins of an ancient fortress located near Gremi.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.6800, 42.0017],
@@ -531,7 +981,196 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-khertvisi-history-v2",
+    id: "ge-khertvisi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ხერთვისის ციხე",
+                  "text": "Eine der ältesten und am besten erhaltenen mittelalterlichen Festungen in Georgien.",
+                  "category": "castle",
+                  "coords": [
+                        43.286365,
+                        41.479623
+                  ]
+            },
+            {
+                  "name": "საროს ახალი ციხე-კოშკი",
+                  "text": "Ein historischer Verteidigungsturm im Dorf Saro.",
+                  "category": "castle",
+                  "coords": [
+                        43.279327,
+                        41.506991
+                  ]
+            },
+            {
+                  "name": "საროს ზემო (საყდრის) ციხეები",
+                  "text": "Alte Befestigungsanlagen im oberen Teil des Dorfes Saro.",
+                  "category": "castle",
+                  "coords": [
+                        43.279163,
+                        41.505815
+                  ]
+            },
+            {
+                  "name": "საროს ციხე",
+                  "text": "Eine antike Festung in Saro mit beeindruckendem megalithischem Mauerwerk.",
+                  "category": "castle",
+                  "coords": [
+                        43.276839,
+                        41.505185
+                  ]
+            },
+            {
+                  "name": "ნასოფლარი კვარშა",
+                  "text": "Die Überreste der verlassenen historischen Siedlung Kwarscha.",
+                  "category": "historical",
+                  "coords": [
+                        43.309215,
+                        41.474459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ხერთვისის ციხე",
+                  "text": "Grúzia egyik legrégebbi és legjobb állapotban fennmaradt középkori erődje.",
+                  "category": "castle",
+                  "coords": [
+                        43.286365,
+                        41.479623
+                  ]
+            },
+            {
+                  "name": "საროს ახალი ციხე-კოშკი",
+                  "text": "Történelmi védőtorony Saro falujában.",
+                  "category": "castle",
+                  "coords": [
+                        43.279327,
+                        41.506991
+                  ]
+            },
+            {
+                  "name": "საროს ზემო (საყდრის) ციხეები",
+                  "text": "Ősi erődítmények Saro falu felső részén.",
+                  "category": "castle",
+                  "coords": [
+                        43.279163,
+                        41.505815
+                  ]
+            },
+            {
+                  "name": "საროს ციხე",
+                  "text": "Ókori erőd Saro településen, lenyűgöző megalitikus falazattal.",
+                  "category": "castle",
+                  "coords": [
+                        43.276839,
+                        41.505185
+                  ]
+            },
+            {
+                  "name": "ნასოფლარი კვარშა",
+                  "text": "Kvarsha elhagyatott történelmi településének maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        43.309215,
+                        41.474459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ხერთვისის ციხე",
+                  "text": "Una dintre cele mai vechi și mai bine conservate cetăți medievale din Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        43.286365,
+                        41.479623
+                  ]
+            },
+            {
+                  "name": "საროს ახალი ციხე-კოშკი",
+                  "text": "Un turn de apărare istoric situat în satul Saro.",
+                  "category": "castle",
+                  "coords": [
+                        43.279327,
+                        41.506991
+                  ]
+            },
+            {
+                  "name": "საროს ზემო (საყდრის) ციხეები",
+                  "text": "Fortificații antice situate în partea superioară a satului Saro.",
+                  "category": "castle",
+                  "coords": [
+                        43.279163,
+                        41.505815
+                  ]
+            },
+            {
+                  "name": "საროს ციხე",
+                  "text": "O cetate antică din Saro, cu o zidărie megalitică impresionantă.",
+                  "category": "castle",
+                  "coords": [
+                        43.276839,
+                        41.505185
+                  ]
+            },
+            {
+                  "name": "ნასოფლარი კვარშა",
+                  "text": "Rămășițele așezării istorice părăsite Kvarsha.",
+                  "category": "historical",
+                  "coords": [
+                        43.309215,
+                        41.474459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khertvisi Fortress",
+                  "text": "One of the oldest and best-preserved medieval fortresses in Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        43.286365,
+                        41.479623
+                  ]
+            },
+            {
+                  "name": "საროს ახალი ციხე-კოშკი",
+                  "text": "A historic defensive tower located in the village of Saro.",
+                  "category": "castle",
+                  "coords": [
+                        43.279327,
+                        41.506991
+                  ]
+            },
+            {
+                  "name": "საროს ზემო (საყდრის) ციხეები",
+                  "text": "Ancient fortifications situated in the upper part of Saro village.",
+                  "category": "castle",
+                  "coords": [
+                        43.279163,
+                        41.505815
+                  ]
+            },
+            {
+                  "name": "Saro Megalith fortress",
+                  "text": "An ancient fortress in Saro featuring impressive megalithic masonry.",
+                  "category": "castle",
+                  "coords": [
+                        43.276839,
+                        41.505185
+                  ]
+            },
+            {
+                  "name": "ნასოფლარი კვარშა",
+                  "text": "The remains of the deserted historical settlement of Kvarsha.",
+                  "category": "historical",
+                  "coords": [
+                        43.309215,
+                        41.474459
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-SJ",
     coords: [43.2842, 41.4789],
@@ -575,7 +1214,88 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-david-gareja-history-v2",
+    id: "ge-david-gareja-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
+                  "text": "Ein Aussichtspunkt mit Blick auf den historischen Klosterkomplex David Gareja.",
+                  "category": "natural",
+                  "coords": [
+                        45.376941,
+                        41.440955
+                  ]
+            },
+            {
+                  "name": "Kloster Dawit Garedsha",
+                  "text": "Das Hauptkloster des Höhlenkomplexes David Gareja in Georgien.",
+                  "category": "religious",
+                  "coords": [
+                        45.37667,
+                        41.447473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a David Gareja kolostorkomplexumra.",
+                  "category": "natural",
+                  "coords": [
+                        45.376941,
+                        41.440955
+                  ]
+            },
+            {
+                  "name": "დავითის ლავრა",
+                  "text": "A grúziai David Gareja barlangkolostor-komplexum fő kolostora.",
+                  "category": "religious",
+                  "coords": [
+                        45.37667,
+                        41.447473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
+                  "text": "Un punct de observație cu vedere asupra complexului monastic istoric David Gareja.",
+                  "category": "natural",
+                  "coords": [
+                        45.376941,
+                        41.440955
+                  ]
+            },
+            {
+                  "name": "დავითის ლავრა",
+                  "text": "Mănăstirea principală a complexului rupestru David Gareja din Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        45.37667,
+                        41.447473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
+                  "text": "A viewpoint offering vistas of the historic David Gareja monastery complex.",
+                  "category": "natural",
+                  "coords": [
+                        45.376941,
+                        41.440955
+                  ]
+            },
+            {
+                  "name": "David Gareja Lavra",
+                  "text": "The main monastery of the David Gareja cave complex in Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        45.37667,
+                        41.447473
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.3762, 41.4475],
@@ -707,7 +1427,232 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-ananuri-history-v2",
+    id: "ge-ananuri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ანანურის ციხე",
+                  "text": "Ein historischer Burgenkomplex am Fluss Aragwi in Georgien.",
+                  "category": "castle",
+                  "coords": [
+                        44.703071,
+                        42.163761
+                  ]
+            },
+            {
+                  "name": "ციხისძირის (ჯახის) ციხე",
+                  "text": "Die Ruinen einer alten Festungsanlage in der Region Mzcheta-Mtianeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.677266,
+                        42.184088
+                  ]
+            },
+            {
+                  "name": "უძველესი ურთხმელის ხე ავენისში",
+                  "text": "Ein uralter Eibenbaum im Dorf Avenisi, der als Naturdenkmal gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.720206,
+                        42.169968
+                  ]
+            },
+            {
+                  "name": "ციხისძირის განძის წმ.გიორგის კოშკი",
+                  "text": "Die Überreste eines historischen georgischen Wachturms, der dem heiligen Georg geweiht ist.",
+                  "category": "historical",
+                  "coords": [
+                        44.676215,
+                        42.187494
+                  ]
+            },
+            {
+                  "name": "ციხისძირის გოდოლი (კოშკი)",
+                  "text": "Eine alte Turmruine, die Teil der historischen Verteidigungsanlagen in dieser Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        44.680591,
+                        42.18682
+                  ]
+            },
+            {
+                  "name": "ანანურის ხიდი",
+                  "text": "Eine Brücke in der Nähe der Festung Ananuri, die den Aragwi-Fluss überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.702164,
+                        42.162177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ანანურის ციხე",
+                  "text": "Történelmi várkomplexum Grúziában, az Aragvi folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        44.703071,
+                        42.163761
+                  ]
+            },
+            {
+                  "name": "ციხისძირის (ჯახის) ციხე",
+                  "text": "Egy ősi erődítmény romjai Mcheta-Mtianeti régióban.",
+                  "category": "historical",
+                  "coords": [
+                        44.677266,
+                        42.184088
+                  ]
+            },
+            {
+                  "name": "უძველესი ურთხმელის ხე ავენისში",
+                  "text": "Egy ősi tiszafa Avenisi faluban, amely természeti emlékként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.720206,
+                        42.169968
+                  ]
+            },
+            {
+                  "name": "ციხისძირის განძის წმ.გიორგის კოშკი",
+                  "text": "Egy Szent Györgynek szentelt történelmi grúz őrtorony maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        44.676215,
+                        42.187494
+                  ]
+            },
+            {
+                  "name": "ციხისძირის გოდოლი (კოშკი)",
+                  "text": "Régi toronymaradvány, amely a régió történelmi védelmi rendszerének része.",
+                  "category": "historical",
+                  "coords": [
+                        44.680591,
+                        42.18682
+                  ]
+            },
+            {
+                  "name": "ანანურის ხიდი",
+                  "text": "Az Ananuri-erőd közelében található híd, amely az Aragvi folyót keresztezi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.702164,
+                        42.162177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ანანურის ციხე",
+                  "text": "Un complex istoric de castele situat pe malul râului Aragvi din Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.703071,
+                        42.163761
+                  ]
+            },
+            {
+                  "name": "ციხისძირის (ჯახის) ციხე",
+                  "text": "Ruinele unei vechi fortificații din regiunea Mtskheta-Mtianeti.",
+                  "category": "historical",
+                  "coords": [
+                        44.677266,
+                        42.184088
+                  ]
+            },
+            {
+                  "name": "უძველესი ურთხმელის ხე ავენისში",
+                  "text": "Un tisa străvechi din satul Avenisi, considerat monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.720206,
+                        42.169968
+                  ]
+            },
+            {
+                  "name": "ციხისძირის განძის წმ.გიორგის კოშკი",
+                  "text": "Rămășițele unui turn de veghe georgian istoric, dedicat Sfântului Gheorghe.",
+                  "category": "historical",
+                  "coords": [
+                        44.676215,
+                        42.187494
+                  ]
+            },
+            {
+                  "name": "ციხისძირის გოდოლი (კოშკი)",
+                  "text": "O veche ruină de turn, parte a sistemului istoric de apărare din această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        44.680591,
+                        42.18682
+                  ]
+            },
+            {
+                  "name": "ანანურის ხიდი",
+                  "text": "Un pod situat lângă cetatea Ananuri, care traversează râul Aragvi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.702164,
+                        42.162177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ananuri Castle",
+                  "text": "A historical castle complex located on the Aragvi River in Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.703071,
+                        42.163761
+                  ]
+            },
+            {
+                  "name": "Tsikhisdziri fortress",
+                  "text": "The ruins of an ancient fortification in the Mtskheta-Mtianeti region.",
+                  "category": "historical",
+                  "coords": [
+                        44.677266,
+                        42.184088
+                  ]
+            },
+            {
+                  "name": "უძველესი ურთხმელის ხე ავენისში",
+                  "text": "An ancient yew tree in the village of Avenisi, regarded as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        44.720206,
+                        42.169968
+                  ]
+            },
+            {
+                  "name": "ციხისძირის განძის წმ.გიორგის კოშკი",
+                  "text": "The remains of a historical Georgian watchtower dedicated to Saint George.",
+                  "category": "historical",
+                  "coords": [
+                        44.676215,
+                        42.187494
+                  ]
+            },
+            {
+                  "name": "ციხისძირის გოდოლი (კოშკი)",
+                  "text": "An old tower ruin that is part of the historical defense systems in this region.",
+                  "category": "historical",
+                  "coords": [
+                        44.680591,
+                        42.18682
+                  ]
+            },
+            {
+                  "name": "Ananuri Bridge",
+                  "text": "A bridge near the Ananuri fortress crossing the Aragvi River.",
+                  "category": "landmark",
+                  "coords": [
+                        44.702164,
+                        42.162177
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-MM",
     coords: [44.7039, 42.1636],
@@ -751,7 +1696,88 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-didgori-history-v2",
+    id: "ge-didgori-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Ein historischer Wehrturm im Gebiet des Didgori-Monuments in Georgien.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "თავკავთის კომპლექსი",
+                  "text": "Ein religiöser und architektonischer Komplex mit historischen Strukturen beim Didgori-Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        44.441781,
+                        41.776583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Történelmi őrtorony a grúziai Didgori-emlékmű területén.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "თავკავთის კომპლექსი",
+                  "text": "Vallási és építészeti komplexum történelmi építményekkel a Didgori-emlékműnél.",
+                  "category": "landmark",
+                  "coords": [
+                        44.441781,
+                        41.776583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "Un turn defensiv istoric situat în zona Monumentului Didgori din Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "თავკავთის კომპლექსი",
+                  "text": "Un complex religios și arhitectural cu structuri istorice lângă Monumentul Didgori.",
+                  "category": "landmark",
+                  "coords": [
+                        44.441781,
+                        41.776583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ნასოფლარ საკურთხისის კოშკი",
+                  "text": "A historic defensive tower located in the area of the Didgori Monument in Georgia.",
+                  "category": "castle",
+                  "coords": [
+                        44.459731,
+                        41.76829
+                  ]
+            },
+            {
+                  "name": "Tavkavta Complex",
+                  "text": "A religious and architectural complex with historic structures near the Didgori Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        44.441781,
+                        41.776583
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "GE-KK",
     coords: [44.4239, 41.7619],
@@ -839,7 +1865,88 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ge-alaverdi-history-v2",
+    id: "ge-alaverdi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "ბაიხოს (ოჟიოს) წმ. სამების ეკლესია",
+                  "text": "Eine historische georgisch-orthodoxe Kirche, die der Heiligen Dreifaltigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        45.377475,
+                        42.013752
+                  ]
+            },
+            {
+                  "name": "ალავერდი",
+                  "text": "Ein georgisch-orthodoxes Kloster und eine Kathedrale aus dem 11. Jahrhundert, eine der höchsten des Landes.",
+                  "category": "religious",
+                  "coords": [
+                        45.377268,
+                        42.0325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ბაიხოს (ოჟიოს) წმ. სამების ეკლესია",
+                  "text": "Történelmi grúz ortodox templom, amelyet a Szentháromságnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        45.377475,
+                        42.013752
+                  ]
+            },
+            {
+                  "name": "ალავერდი",
+                  "text": "11. századi grúz ortodox kolostor és székesegyház, az ország egyik legmagasabbja.",
+                  "category": "religious",
+                  "coords": [
+                        45.377268,
+                        42.0325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ბაიხოს (ოჟიოს) წმ. სამების ეკლესია",
+                  "text": "O biserică ortodoxă georgiană istorică, dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        45.377475,
+                        42.013752
+                  ]
+            },
+            {
+                  "name": "ალავერდი",
+                  "text": "O mănăstire și catedrală ortodoxă georgiană din secolul al XI-lea, una dintre cele mai înalte din țară.",
+                  "category": "religious",
+                  "coords": [
+                        45.377268,
+                        42.0325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ბაიხოს (ოჟიოს) წმ. სამების ეკლესია",
+                  "text": "A historic Georgian Orthodox church dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        45.377475,
+                        42.013752
+                  ]
+            },
+            {
+                  "name": "Alaverdi",
+                  "text": "An 11th-century Georgian Orthodox monastery and cathedral, one of the tallest in the country.",
+                  "category": "religious",
+                  "coords": [
+                        45.377268,
+                        42.0325
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "GE-KA",
     coords: [45.3772, 42.0325],

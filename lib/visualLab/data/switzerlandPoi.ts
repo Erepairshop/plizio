@@ -1025,6 +1025,42 @@ export const switzerlandRegions: POI[] = [
                         8.519829,
                         47.384933
                   ]
+            },
+            {
+                  "name": "Theater Stok",
+                  "text": "Ein kleines, traditionsreiches Kellertheater in Zürich mit Fokus auf Kleinkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547535,
+                        47.373158
+                  ]
+            },
+            {
+                  "name": "Theater Purpur",
+                  "text": "Ein engagiertes Kindertheater in Zürich, das kreative Stücke für ein junges Publikum zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.530805,
+                        47.362158
+                  ]
+            },
+            {
+                  "name": "Theater Stadelhofen",
+                  "text": "Ein spezialisiertes Figurentheater in Zürich, das fantasievolle Aufführungen für alle Altersgruppen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547387,
+                        47.366947
+                  ]
+            },
+            {
+                  "name": "Theater Rigiblick",
+                  "text": "Ein Theater- und Kulturlokal in Zürich, das sich durch seine Lage und sein vielseitiges Programm auszeichnet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.553528,
+                        47.388144
+                  ]
             }
       ],
       "hu": [
@@ -1971,6 +2007,42 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.519829,
                         47.384933
+                  ]
+            },
+            {
+                  "name": "Theater Stok",
+                  "text": "Kicsi, nagy múltú pinceszínház Zürichben, amely a kisművészetekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547535,
+                        47.373158
+                  ]
+            },
+            {
+                  "name": "Theater Purpur",
+                  "text": "Elkötelezett gyerekszínház Zürichben, amely kreatív darabokat mutat be a fiatal közönségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        8.530805,
+                        47.362158
+                  ]
+            },
+            {
+                  "name": "Theater Stadelhofen",
+                  "text": "Speciális bábszínház Zürichben, amely ötletes előadásokat kínál minden korosztály számára.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547387,
+                        47.366947
+                  ]
+            },
+            {
+                  "name": "Theater Rigiblick",
+                  "text": "Zürichi színház és kulturális helyszín, amely elhelyezkedésével és sokszínű programjával tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        8.553528,
+                        47.388144
                   ]
             }
       ],
@@ -2919,6 +2991,42 @@ export const switzerlandRegions: POI[] = [
                         8.519829,
                         47.384933
                   ]
+            },
+            {
+                  "name": "Theater Stok",
+                  "text": "Un teatru de pivniță mic, cu tradiție, în Zurich, axat pe artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547535,
+                        47.373158
+                  ]
+            },
+            {
+                  "name": "Theater Purpur",
+                  "text": "Un teatru pentru copii dedicat din Zurich, care prezintă piese creative pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        8.530805,
+                        47.362158
+                  ]
+            },
+            {
+                  "name": "Theater Stadelhofen",
+                  "text": "Un teatru de păpuși specializat în Zurich, care oferă spectacole pline de imaginație pentru toate vârstele.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547387,
+                        47.366947
+                  ]
+            },
+            {
+                  "name": "Theater Rigiblick",
+                  "text": "Un spațiu teatral și cultural în Zurich, remarcat prin locația sa și programul versatil.",
+                  "category": "cultural",
+                  "coords": [
+                        8.553528,
+                        47.388144
+                  ]
             }
       ],
       "en": [
@@ -3865,6 +3973,42 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.519829,
                         47.384933
+                  ]
+            },
+            {
+                  "name": "Theater Stok",
+                  "text": "A small, traditional cellar theatre in Zurich focused on performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547535,
+                        47.373158
+                  ]
+            },
+            {
+                  "name": "Theater Purpur",
+                  "text": "A dedicated children's theatre in Zurich showing creative plays for young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        8.530805,
+                        47.362158
+                  ]
+            },
+            {
+                  "name": "Theater Stadelhofen",
+                  "text": "A specialized puppet theatre in Zurich offering imaginative performances for all ages.",
+                  "category": "cultural",
+                  "coords": [
+                        8.547387,
+                        47.366947
+                  ]
+            },
+            {
+                  "name": "Theater Rigiblick",
+                  "text": "A theatre and cultural venue in Zurich noted for its location and versatile programming.",
+                  "category": "cultural",
+                  "coords": [
+                        8.553528,
+                        47.388144
                   ]
             }
       ]
@@ -12552,7 +12696,304 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "nature-jungfraujoch",
+    id: "nature-jungfraujoch", "sights": {
+      "de": [
+            {
+                  "name": "Eiger",
+                  "text": "Ein weltberühmter Berggipfel in den Berner Alpen, bekannt für seine gewaltige Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Ein markanter Berggipfel in der Nähe des Eigers in den Berner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Ein Gipfel in den Berner Alpen, südlich von Mönch und Eiger gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Louwihorn",
+                  "text": "Ein Berggipfel im Jungfrau-Massiv in den Schweizer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Ein Berggipfel in der Jungfrau-Region der Berner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Ein prominenter Viertausender in den Berner Alpen, Teil des Dreigestirns mit Eiger und Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Ein berühmter Berggipfel in den Schweizer Alpen, namensgebend für die Jungfrau-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Ein Hochgebirgsgipfel in den Berner Alpen nahe der Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eiger",
+                  "text": "A Berni-Alpok világhírű csúcsa, amely hatalmas északi faláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Jellegzetes hegycsúcs az Eiger közelében, a Berni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Hegycsúcs a Berni-Alpokban, a Mönch és az Eiger déli szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Louwihorn",
+                  "text": "Hegycsúcs a Jungfrau-masszívumban, a Svájci-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Hegycsúcs a Berni-Alpok Jungfrau régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "A Berni-Alpok egyik legjelentősebb négyezres csúcsa az Eiger és a Jungfrau mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Svájc egyik leghíresebb hegycsúcsa, a Jungfrau-régió névadója.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Magashegyi csúcs a Berni-Alpokban, a Jungfrau közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eiger",
+                  "text": "Un vârf montan faimos în Alpii Bernezi, cunoscut pentru peretele său nordic masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Un vârf montan distinctiv situat lângă Eiger, în Alpii Bernezi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Un vârf în Alpii Bernezi, situat la sud de Mönch și Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Louwihorn",
+                  "text": "Un vârf muntos în masivul Jungfrau din Alpii Elvețieni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Un vârf montan în regiunea Jungfrau din Alpii Bernezi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Un vârf proeminent de peste patru mii de metri, parte din triada Eiger, Mönch și Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Un vârf montan celebru din Alpii Elvețieni, care dă numele regiunii Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Un vârf montan înalt în Alpii Bernezi, lângă Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eiger",
+                  "text": "A world-famous peak in the Bernese Alps, renowned for its massive north face.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "A distinctive mountain peak located near the Eiger in the Bernese Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "A mountain peak in the Bernese Alps, situated south of the Mönch and Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Louwihorn",
+                  "text": "A mountain peak in the Jungfrau massif within the Swiss Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "A mountain peak in the Jungfrau region of the Bernese Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Moench",
+                  "text": "A prominent four-thousand-meter peak in the Bernese Alps, part of the Eiger and Jungfrau trio.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "A famous mountain peak in the Swiss Alps, giving its name to the Jungfrau region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "A high-altitude peak in the Bernese Alps near the Jungfrau mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "country-switzerland",
     coords: [7.9828, 46.5475],
@@ -15479,6 +15920,15 @@ export const switzerlandCities: POI[] = [
                         9.541591,
                         46.864176
                   ]
+            },
+            {
+                  "name": "Schutzbauten Welschdorfli",
+                  "text": "Überreste römischer Gebäude in Chur, die durch moderne Schutzbauten für Besucher zugänglich sind.",
+                  "category": "historical",
+                  "coords": [
+                        9.526739,
+                        46.846704
+                  ]
             }
       ],
       "hu": [
@@ -15732,6 +16182,15 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.541591,
                         46.864176
+                  ]
+            },
+            {
+                  "name": "Schutzbauten Welschdorfli",
+                  "text": "Római kori épületek maradványai Chur-ban, amelyeket modern védőépületek tesznek látogathatóvá.",
+                  "category": "historical",
+                  "coords": [
+                        9.526739,
+                        46.846704
                   ]
             }
       ],
@@ -15987,6 +16446,15 @@ export const switzerlandCities: POI[] = [
                         9.541591,
                         46.864176
                   ]
+            },
+            {
+                  "name": "Schutzbauten Welschdorfli",
+                  "text": "Vestigii ale unor clădiri romane în Chur, accesibile vizitatorilor prin structuri de protecție moderne.",
+                  "category": "historical",
+                  "coords": [
+                        9.526739,
+                        46.846704
+                  ]
             }
       ],
       "en": [
@@ -16240,6 +16708,15 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.541591,
                         46.864176
+                  ]
+            },
+            {
+                  "name": "Schutzbauten Welschdorfli",
+                  "text": "Remains of Roman buildings in Chur, made accessible to visitors through modern protective structures.",
+                  "category": "historical",
+                  "coords": [
+                        9.526739,
+                        46.846704
                   ]
             }
       ]
@@ -25422,7 +25899,304 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "mountain-eiger",
+    id: "mountain-eiger", "sights": {
+      "de": [
+            {
+                  "name": "Eiger",
+                  "text": "Ein berühmter, 3.967 Meter hoher Gipfel in den Berner Alpen, bekannt für seine gewaltige Nordwand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Ein markanter Berggipfel in den Schweizer Alpen in der Region des Eigers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Ein markanter Berggipfel in den Berner Alpen, südlich des Mönchs gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Walcherhorn",
+                  "text": "Ein Berggipfel in den Berner Alpen in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.035006,
+                        46.559982
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Ein 4.107 Meter hoher Hauptgipfel der Berner Alpen, der ein Dreigestirn mit Eiger und Jungfrau bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Fallbodenhubel",
+                  "text": "Ein Berggipfel in den Berner Alpen nahe dem Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96632,
+                        46.579697
+                  ]
+            },
+            {
+                  "name": "Ostegg",
+                  "text": "Ein Berggipfel im Eiger-Massiv in den Berner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041356,
+                        46.59696
+                  ]
+            },
+            {
+                  "name": "Grosser Turm",
+                  "text": "Ein Berggipfel in der Eiger-Region der Berner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01268,
+                        46.580446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eiger",
+                  "text": "A Berni-Alpok híres, 3967 méteres hegycsúcsa, amely az északi faláról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Jellegzetes hegycsúcs a svájci Alpokban, az Eiger régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Markáns hegycsúcs a Berni-Alpokban, a Mönchtől délre.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Walcherhorn",
+                  "text": "Hegycsúcs a svájci Berni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.035006,
+                        46.559982
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "A Berni-Alpok egyik legjelentősebb, 4107 méteres csúcsa, amely az Eigerrel és a Jungfrauval alkot hármast.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Fallbodenhubel",
+                  "text": "Hegycsúcs a Berni-Alpokban, az Eiger közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96632,
+                        46.579697
+                  ]
+            },
+            {
+                  "name": "Ostegg",
+                  "text": "Hegycsúcs az Eiger-masszívumban, a Berni-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041356,
+                        46.59696
+                  ]
+            },
+            {
+                  "name": "Grosser Turm",
+                  "text": "Hegycsúcs a Berni-Alpok Eiger régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01268,
+                        46.580446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eiger",
+                  "text": "Un vârf faimos de 3.967 de metri din Alpii Bernezi, renumit pentru peretele său nordic impunător.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "Un vârf montan proeminent din Alpii Elvețieni, situat în regiunea Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "Un vârf muntos proeminent din Alpii Bernezi, situat la sud de Mönch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Walcherhorn",
+                  "text": "Un vârf muntos din Alpii Bernezi, în Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        8.035006,
+                        46.559982
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Un vârf major de 4.107 metri din Alpii Bernezi, formând un trio cu Eiger și Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Fallbodenhubel",
+                  "text": "Un vârf muntos din Alpii Bernezi, situat lângă Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96632,
+                        46.579697
+                  ]
+            },
+            {
+                  "name": "Ostegg",
+                  "text": "Un vârf muntos din masivul Eiger, situat în Alpii Bernezi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041356,
+                        46.59696
+                  ]
+            },
+            {
+                  "name": "Grosser Turm",
+                  "text": "Un vârf muntos în regiunea Eiger din Alpii Bernezi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01268,
+                        46.580446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eiger",
+                  "text": "A famous 3,967-meter peak in the Bernese Alps, renowned for its formidable north face.",
+                  "category": "landmark",
+                  "coords": [
+                        8.005469,
+                        46.577632
+                  ]
+            },
+            {
+                  "name": "Rotstock",
+                  "text": "A prominent mountain peak in the Swiss Alps, located in the Eiger region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.984182,
+                        46.577392
+                  ]
+            },
+            {
+                  "name": "Trugberg",
+                  "text": "A prominent mountain peak in the Bernese Alps, situated south of the Mönch.",
+                  "category": "landmark",
+                  "coords": [
+                        8.015381,
+                        46.54662
+                  ]
+            },
+            {
+                  "name": "Walcherhorn",
+                  "text": "A mountain peak in the Bernese Alps of Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        8.035006,
+                        46.559982
+                  ]
+            },
+            {
+                  "name": "Moench",
+                  "text": "A major 4,107-meter peak in the Bernese Alps, forming a trio with the Eiger and Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Fallbodenhubel",
+                  "text": "A mountain peak in the Bernese Alps, located near the Eiger.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96632,
+                        46.579697
+                  ]
+            },
+            {
+                  "name": "Ostegg",
+                  "text": "A mountain peak in the Eiger massif within the Bernese Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.041356,
+                        46.59696
+                  ]
+            },
+            {
+                  "name": "Grosser Turm",
+                  "text": "A mountain peak in the Eiger region of the Bernese Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.01268,
+                        46.580446
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "country-switzerland",
     coords: [8.0059, 46.5776],
@@ -25495,7 +26269,304 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "mountain-jungfrau",
+    id: "mountain-jungfrau", "sights": {
+      "de": [
+            {
+                  "name": "Louwihorn",
+                  "text": "Ein Berggipfel in den Berner Alpen innerhalb der Jungfrau-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Ein markanter Alpengipfel in der Nähe des Jungfraumassivs in der Schweiz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Schwarzmönch",
+                  "text": "Ein imposanter Berggipfel, der steil über dem Lauterbrunnental in der Jungfrau-Region aufragt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.924348,
+                        46.552714
+                  ]
+            },
+            {
+                  "name": "Gletscherhorn",
+                  "text": "Ein hoher Berggipfel in den Berner Alpen, südlich der Jungfrau gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96743,
+                        46.512874
+                  ]
+            },
+            {
+                  "name": "Ebnefluh / Äbeni Flue",
+                  "text": "Ein vergletscherter Berg in den Berner Alpen an der Grenze zwischen Bern und Wallis.",
+                  "category": "landmark",
+                  "coords": [
+                        7.953371,
+                        46.508034
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Einer der drei berühmten Gipfel des Berner Oberlandes mit einer Höhe von 4.107 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Ein weltbekannter Berg in der Schweiz und Namensgeber der gesamten Jungfrau-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Ein Berggipfel in den Schweizer Alpen, der zum Massiv der Jungfrau gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Louwihorn",
+                  "text": "Hegycsúcs a Berni-Alpokban, a Jungfrau régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Jellegzetes alpesi csúcs a svájci Jungfrau-masszívum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Schwarzmönch",
+                  "text": "Impozáns hegycsúcs, amely meredeken emelkedik a Lauterbrunnen-völgy fölé a Jungfrau régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.924348,
+                        46.552714
+                  ]
+            },
+            {
+                  "name": "Gletscherhorn",
+                  "text": "Magas hegycsúcs a Berni-Alpokban, a Jungfrautól délre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96743,
+                        46.512874
+                  ]
+            },
+            {
+                  "name": "Ebnefluh / Äbeni Flue",
+                  "text": "Gleccserrel borított hegy a Berni-Alpokban, Bern és Valais kantonok határán.",
+                  "category": "landmark",
+                  "coords": [
+                        7.953371,
+                        46.508034
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "A Berni-felvidék három híres csúcsának egyike, 4107 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Világhírű hegy Svájcban, amely az egész Jungfrau régió névadója.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Hegycsúcs a Svájci-Alpokban, amely a Jungfrau-masszívumhoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Louwihorn",
+                  "text": "Un vârf montan în Alpii Bernezi, în regiunea Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "Un vârf alpin proeminent în apropierea masivului Jungfrau din Elveția.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Schwarzmönch",
+                  "text": "Un vârf montan impunător care se înalță abrupt deasupra văii Lauterbrunnen din regiunea Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.924348,
+                        46.552714
+                  ]
+            },
+            {
+                  "name": "Gletscherhorn",
+                  "text": "Un vârf montan înalt din Alpii Bernezi, situat la sud de Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96743,
+                        46.512874
+                  ]
+            },
+            {
+                  "name": "Ebnefluh / Äbeni Flue",
+                  "text": "Un munte cu ghețari în Alpii Bernezi, la granița dintre cantoanele Berna și Valais.",
+                  "category": "landmark",
+                  "coords": [
+                        7.953371,
+                        46.508034
+                  ]
+            },
+            {
+                  "name": "Mönch",
+                  "text": "Unul dintre cele trei vârfuri celebre ale regiunii Berner Oberland, cu o înălțime de 4.107 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "Un munte renumit în întreaga lume în Elveția, care dă numele întregii regiuni Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "Un vârf montan în Alpii Elvețieni, care face parte din masivul Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Louwihorn",
+                  "text": "A mountain peak in the Bernese Alps within the Jungfrau region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.969277,
+                        46.526887
+                  ]
+            },
+            {
+                  "name": "Kranzberg",
+                  "text": "A prominent Alpine peak located near the Jungfrau massif in Switzerland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.980681,
+                        46.522095
+                  ]
+            },
+            {
+                  "name": "Schwarzmönch",
+                  "text": "An imposing mountain peak rising steeply above the Lauterbrunnen Valley in the Jungfrau region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.924348,
+                        46.552714
+                  ]
+            },
+            {
+                  "name": "Gletscherhorn",
+                  "text": "A high mountain peak in the Bernese Alps, located south of the Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.96743,
+                        46.512874
+                  ]
+            },
+            {
+                  "name": "Ebnefluh / Äbeni Flue",
+                  "text": "A glaciated mountain in the Bernese Alps on the border between Bern and Valais.",
+                  "category": "landmark",
+                  "coords": [
+                        7.953371,
+                        46.508034
+                  ]
+            },
+            {
+                  "name": "Moench",
+                  "text": "One of the three famous peaks of the Bernese Oberland, standing at 4,107 metres.",
+                  "category": "landmark",
+                  "coords": [
+                        7.997269,
+                        46.558502
+                  ]
+            },
+            {
+                  "name": "Jungfrau",
+                  "text": "A world-famous mountain in Switzerland and the namesake of the entire Jungfrau region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.962591,
+                        46.536774
+                  ]
+            },
+            {
+                  "name": "Rottalhorn",
+                  "text": "A mountain peak in the Swiss Alps belonging to the Jungfrau massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.9673,
+                        46.532004
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "country-switzerland",
     coords: [7.9617, 46.5365],
@@ -25568,7 +26639,304 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "mountain-titlis",
+    id: "mountain-titlis", "sights": {
+      "de": [
+            {
+                  "name": "Winnetou-Freilichtspielplatz",
+                  "text": "Eine Freilichtbühne in der Zentralschweiz für Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.448945,
+                        46.803018
+                  ]
+            },
+            {
+                  "name": "Fürenbär im Bärennest",
+                  "text": "Ein lokales Museum in der Alpenregion Titlis.",
+                  "category": "museum",
+                  "coords": [
+                        8.46729,
+                        46.800737
+                  ]
+            },
+            {
+                  "name": "Titlis",
+                  "text": "Ein berühmter Aussichtsgipfel in den Urner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.437781,
+                        46.772039
+                  ]
+            },
+            {
+                  "name": "Wendenhorn",
+                  "text": "Ein markanter Berggipfel in der Titlis-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.443589,
+                        46.753904
+                  ]
+            },
+            {
+                  "name": "Rotstöckli",
+                  "text": "Der höchste Berggipfel im Kanton Nidwalden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.42569,
+                        46.777615
+                  ]
+            },
+            {
+                  "name": "Uratstock",
+                  "text": "Ein Alpengipfel oberhalb von Engelberg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.435151,
+                        46.754835
+                  ]
+            },
+            {
+                  "name": "Wichelplanggstock",
+                  "text": "Ein Berggipfel in der Gebirgsgruppe um den Titlis.",
+                  "category": "landmark",
+                  "coords": [
+                        8.472726,
+                        46.765632
+                  ]
+            },
+            {
+                  "name": "Grassen",
+                  "text": "Ein markanter Berggipfel in den Urner Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.448438,
+                        46.763417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Winnetou-Freilichtspielplatz",
+                  "text": "Szabadtéri színpad Közép-Svájcban színházi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        8.448945,
+                        46.803018
+                  ]
+            },
+            {
+                  "name": "Fürenbär im Bärennest",
+                  "text": "Helyi múzeum a Titlis-alpesi régióban.",
+                  "category": "museum",
+                  "coords": [
+                        8.46729,
+                        46.800737
+                  ]
+            },
+            {
+                  "name": "Titlis",
+                  "text": "Az Urner-Alpok híres kilátóhelye és hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.437781,
+                        46.772039
+                  ]
+            },
+            {
+                  "name": "Wendenhorn",
+                  "text": "Jellegzetes hegycsúcs a Titlis régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.443589,
+                        46.753904
+                  ]
+            },
+            {
+                  "name": "Rotstöckli",
+                  "text": "Nidwalden kanton legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.42569,
+                        46.777615
+                  ]
+            },
+            {
+                  "name": "Uratstock",
+                  "text": "Alpesi hegycsúcs Engelberg felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.435151,
+                        46.754835
+                  ]
+            },
+            {
+                  "name": "Wichelplanggstock",
+                  "text": "Hegycsúcs a Titlis körüli hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.472726,
+                        46.765632
+                  ]
+            },
+            {
+                  "name": "Grassen",
+                  "text": "Markáns hegycsúcs az Urner-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        8.448438,
+                        46.763417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Winnetou-Freilichtspielplatz",
+                  "text": "O scenă în aer liber din Elveția Centrală pentru spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        8.448945,
+                        46.803018
+                  ]
+            },
+            {
+                  "name": "Fürenbär im Bärennest",
+                  "text": "Un muzeu local în regiunea alpină Titlis.",
+                  "category": "museum",
+                  "coords": [
+                        8.46729,
+                        46.800737
+                  ]
+            },
+            {
+                  "name": "Titlis",
+                  "text": "Un faimos vârf panoramic din Alpii Urnezi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.437781,
+                        46.772039
+                  ]
+            },
+            {
+                  "name": "Wendenhorn",
+                  "text": "Un vârf montan proeminent în regiunea Titlis.",
+                  "category": "landmark",
+                  "coords": [
+                        8.443589,
+                        46.753904
+                  ]
+            },
+            {
+                  "name": "Rotstöckli",
+                  "text": "Cel mai înalt vârf montan din cantonul Nidwalden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.42569,
+                        46.777615
+                  ]
+            },
+            {
+                  "name": "Uratstock",
+                  "text": "Un vârf alpin situat deasupra localității Engelberg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.435151,
+                        46.754835
+                  ]
+            },
+            {
+                  "name": "Wichelplanggstock",
+                  "text": "Un vârf montan în grupul muntos din jurul Titlis.",
+                  "category": "landmark",
+                  "coords": [
+                        8.472726,
+                        46.765632
+                  ]
+            },
+            {
+                  "name": "Grassen",
+                  "text": "Un vârf montan proeminent din Alpii Urnezi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.448438,
+                        46.763417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Winnetou-Freilichtspielplatz",
+                  "text": "An open-air stage in Central Switzerland for theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.448945,
+                        46.803018
+                  ]
+            },
+            {
+                  "name": "Fürenbär im Bärennest",
+                  "text": "A local museum in the Titlis alpine region.",
+                  "category": "museum",
+                  "coords": [
+                        8.46729,
+                        46.800737
+                  ]
+            },
+            {
+                  "name": "Titlis",
+                  "text": "A famous mountain peak and viewpoint in the Uri Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.437781,
+                        46.772039
+                  ]
+            },
+            {
+                  "name": "Wendenhorn",
+                  "text": "A prominent mountain peak in the Titlis region.",
+                  "category": "landmark",
+                  "coords": [
+                        8.443589,
+                        46.753904
+                  ]
+            },
+            {
+                  "name": "Rotstöckli",
+                  "text": "The highest mountain peak in the canton of Nidwalden.",
+                  "category": "landmark",
+                  "coords": [
+                        8.42569,
+                        46.777615
+                  ]
+            },
+            {
+                  "name": "Uratstock",
+                  "text": "An alpine peak located above Engelberg.",
+                  "category": "landmark",
+                  "coords": [
+                        8.435151,
+                        46.754835
+                  ]
+            },
+            {
+                  "name": "Wichelplanggstock",
+                  "text": "A mountain peak in the mountain group around Titlis.",
+                  "category": "landmark",
+                  "coords": [
+                        8.472726,
+                        46.765632
+                  ]
+            },
+            {
+                  "name": "Grassen",
+                  "text": "A prominent mountain peak in the Uri Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        8.448438,
+                        46.763417
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "country-switzerland",
     coords: [8.4372, 46.7735],
@@ -26955,7 +28323,304 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "agriculture-emmental-dairy",
+    id: "agriculture-emmental-dairy", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Spittel",
+                  "text": "Das Schloss in Sumiswald dient heute als kantonale Durchgangsstation und ist ein geschütztes Kulturdenkmal.",
+                  "category": "castle",
+                  "coords": [
+                        7.762782,
+                        47.03208
+                  ]
+            },
+            {
+                  "name": "Emmentaler Schaukäserei",
+                  "text": "In dieser Schaukäserei können Besucher die traditionelle Herstellung des berühmten Emmentaler Käses erleben.",
+                  "category": "museum",
+                  "coords": [
+                        7.731493,
+                        47.063629
+                  ]
+            },
+            {
+                  "name": "Burgstelle Dolenberg",
+                  "text": "Diese archäologische Stätte markiert den Ort einer ehemaligen mittelalterlichen Befestigungsanlage.",
+                  "category": "historical",
+                  "coords": [
+                        7.732762,
+                        47.059571
+                  ]
+            },
+            {
+                  "name": "Burgstelle Unter Hegen",
+                  "text": "Die Stätte umfasst historische Überreste, die Aufschluss über die frühere Besiedlung der Region geben.",
+                  "category": "historical",
+                  "coords": [
+                        7.729174,
+                        47.047579
+                  ]
+            },
+            {
+                  "name": "Erdburg",
+                  "text": "Diese Erdburg ist ein archäologisches Denkmal, das auf eine frühe Befestigung im Emmental hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        7.803733,
+                        47.056912
+                  ]
+            },
+            {
+                  "name": "Schonegg",
+                  "text": "Vom Aussichtspunkt Schonegg bietet sich ein weiter Blick über die sanften Hügel des Emmentals.",
+                  "category": "natural",
+                  "coords": [
+                        7.763917,
+                        47.043717
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Schaber",
+                  "text": "Dieser Punkt bietet Wanderern eine hervorragende Aussicht auf die malerische Schweizer Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.801513,
+                        47.059127
+                  ]
+            },
+            {
+                  "name": "Foto-Spot Emmental",
+                  "text": "Ein beliebter Fotostandort, der den charakteristischen Charme der Emmentaler Natur perfekt einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        7.733135,
+                        47.057285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Spittel",
+                  "text": "Ez a sumiswaldi kastély ma kantonális átmeneti állomásként szolgál, és védett kulturális műemlék.",
+                  "category": "castle",
+                  "coords": [
+                        7.762782,
+                        47.03208
+                  ]
+            },
+            {
+                  "name": "Emmentaler Schaukäserei",
+                  "text": "Ebben a látványkonyhában a látogatók megtekinthetik a híres emmentáli sajt hagyományos készítését.",
+                  "category": "museum",
+                  "coords": [
+                        7.731493,
+                        47.063629
+                  ]
+            },
+            {
+                  "name": "Burgstelle Dolenberg",
+                  "text": "Ez a régészeti lelőhely egy egykori középkori erődítmény helyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        7.732762,
+                        47.059571
+                  ]
+            },
+            {
+                  "name": "Burgstelle Unter Hegen",
+                  "text": "A helyszín történelmi maradványokat foglal magában, amelyek a régió korábbi benépesüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        7.729174,
+                        47.047579
+                  ]
+            },
+            {
+                  "name": "Erdburg",
+                  "text": "Ez a földvár egy régészeti műemlék, amely egy korai emmentáli erődítményre utal.",
+                  "category": "historical",
+                  "coords": [
+                        7.803733,
+                        47.056912
+                  ]
+            },
+            {
+                  "name": "Schonegg",
+                  "text": "A Schonegg-kilátótól tágas kilátás nyílik az Emmental-völgy lankás dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        7.763917,
+                        47.043717
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Schaber",
+                  "text": "Ez a pont kiváló kilátást nyújt a túrázóknak a festői svájci tájra.",
+                  "category": "natural",
+                  "coords": [
+                        7.801513,
+                        47.059127
+                  ]
+            },
+            {
+                  "name": "Foto-Spot Emmental",
+                  "text": "Népszerű fotóhelyszín, amely tökéletesen megragadja az emmentáli táj jellegzetes báját.",
+                  "category": "natural",
+                  "coords": [
+                        7.733135,
+                        47.057285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Spittel",
+                  "text": "Castelul din Sumiswald servește astăzi ca centru cantonal și este un monument cultural protejat.",
+                  "category": "castle",
+                  "coords": [
+                        7.762782,
+                        47.03208
+                  ]
+            },
+            {
+                  "name": "Emmentaler Schaukäserei",
+                  "text": "În această fabrică deschisă publicului, vizitatorii pot vedea cum se fabrică tradițional faimoasa brânză Emmental.",
+                  "category": "museum",
+                  "coords": [
+                        7.731493,
+                        47.063629
+                  ]
+            },
+            {
+                  "name": "Burgstelle Dolenberg",
+                  "text": "Acest sit arheologic marchează locul unei foste fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        7.732762,
+                        47.059571
+                  ]
+            },
+            {
+                  "name": "Burgstelle Unter Hegen",
+                  "text": "Situl cuprinde vestigii istorice care oferă informații despre așezările timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        7.729174,
+                        47.047579
+                  ]
+            },
+            {
+                  "name": "Erdburg",
+                  "text": "Această cetate de pământ este un monument arheologic ce indică o fortificație timpurie în Emmental.",
+                  "category": "historical",
+                  "coords": [
+                        7.803733,
+                        47.056912
+                  ]
+            },
+            {
+                  "name": "Schonegg",
+                  "text": "De la punctul de observație Schonegg se deschide o vedere panoramică asupra dealurilor domoale din Emmental.",
+                  "category": "natural",
+                  "coords": [
+                        7.763917,
+                        47.043717
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Schaber",
+                  "text": "Acest punct oferă drumeților o vedere excelentă asupra peisajului pitoresc elvețian.",
+                  "category": "natural",
+                  "coords": [
+                        7.801513,
+                        47.059127
+                  ]
+            },
+            {
+                  "name": "Foto-Spot Emmental",
+                  "text": "Un loc popular pentru fotografii care surprinde perfect farmecul caracteristic al naturii din Emmental.",
+                  "category": "natural",
+                  "coords": [
+                        7.733135,
+                        47.057285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Spittel",
+                  "text": "This castle in Sumiswald currently serves as a cantonal transit center and is a protected cultural monument.",
+                  "category": "castle",
+                  "coords": [
+                        7.762782,
+                        47.03208
+                  ]
+            },
+            {
+                  "name": "Emmentaler Schaukäserei",
+                  "text": "In this show dairy, visitors can experience the traditional production of the famous Emmental cheese.",
+                  "category": "museum",
+                  "coords": [
+                        7.731493,
+                        47.063629
+                  ]
+            },
+            {
+                  "name": "Burgstelle Dolenberg",
+                  "text": "This archaeological site marks the location of a former medieval fortification.",
+                  "category": "historical",
+                  "coords": [
+                        7.732762,
+                        47.059571
+                  ]
+            },
+            {
+                  "name": "Burgstelle Unter Hegen",
+                  "text": "The site includes historical remains that provide insight into the early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        7.729174,
+                        47.047579
+                  ]
+            },
+            {
+                  "name": "Erdburg",
+                  "text": "This earthwork fortification is an archaeological monument indicating an early settlement in the Emmental.",
+                  "category": "historical",
+                  "coords": [
+                        7.803733,
+                        47.056912
+                  ]
+            },
+            {
+                  "name": "Schonegg",
+                  "text": "The Schonegg viewpoint offers a broad view over the rolling hills of the Emmental region.",
+                  "category": "natural",
+                  "coords": [
+                        7.763917,
+                        47.043717
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Schaber",
+                  "text": "This spot offers hikers an excellent view of the picturesque Swiss landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.801513,
+                        47.059127
+                  ]
+            },
+            {
+                  "name": "Foto-Spot Emmental",
+                  "text": "A popular photo spot that perfectly captures the characteristic charm of the Emmental landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.733135,
+                        47.057285
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "country-switzerland",
     coords: [7.7639, 47.0581],
@@ -27100,7 +28765,304 @@ export const switzerlandCulture: POI[] = [
     },
   },
   {
-    id: "cult-rhaetian-railway",
+    id: "cult-rhaetian-railway", "sights": {
+      "de": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Ein Gebirgsgipfel in der Berninagruppe der Rhätischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "Der zentrale Gipfel des Piz Palü-Massivs in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Campasc",
+                  "text": "Ein Aussichtsberg in der Nähe des Berninapasses.",
+                  "category": "natural",
+                  "coords": [
+                        10.044691,
+                        46.396811
+                  ]
+            },
+            {
+                  "name": "Piz Trovat",
+                  "text": "Ein Gipfel in der Berninaregion, bekannt für seinen Klettersteig.",
+                  "category": "landmark",
+                  "coords": [
+                        9.970429,
+                        46.405702
+                  ]
+            },
+            {
+                  "name": "Sass Queder",
+                  "text": "Ein markanter Berggipfel in den Bernina-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.972621,
+                        46.410776
+                  ]
+            },
+            {
+                  "name": "Piz d'Arlas",
+                  "text": "Ein Hochgebirgsgipfel in der Berninagruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.982938,
+                        46.393297
+                  ]
+            },
+            {
+                  "name": "Piz Arlas",
+                  "text": "Ein alpiner Berggipfel in der Nähe der Berninabahn.",
+                  "category": "landmark",
+                  "coords": [
+                        9.983687,
+                        46.39736
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Ein Berggipfel in den Bernina-Alpen, der als Skigebiet bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Hegycsúcs a Réti-Alpok Bernina-csoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "A Piz Palü-masszívum középső csúcsa a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Campasc",
+                  "text": "Kilátóhelyként ismert hegy a Bernina-hágó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        10.044691,
+                        46.396811
+                  ]
+            },
+            {
+                  "name": "Piz Trovat",
+                  "text": "Hegycsúcs a Bernina-régióban, amely via ferrata útvonaláról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.970429,
+                        46.405702
+                  ]
+            },
+            {
+                  "name": "Sass Queder",
+                  "text": "Jellegzetes hegycsúcs a Bernina-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.972621,
+                        46.410776
+                  ]
+            },
+            {
+                  "name": "Piz d'Arlas",
+                  "text": "Magashegyi csúcs a Bernina-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.982938,
+                        46.393297
+                  ]
+            },
+            {
+                  "name": "Piz Arlas",
+                  "text": "Alpesi hegycsúcs a Bernina-vasút közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.983687,
+                        46.39736
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Hegycsúcs a Bernina-Alpokban, amely síterepként is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "Un vârf muntos în grupa Bernina a Alpilor Retici.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "Vârful central al masivului Piz Palü din Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Campasc",
+                  "text": "Un munte cu punct de belvedere în apropierea pasului Bernina.",
+                  "category": "natural",
+                  "coords": [
+                        10.044691,
+                        46.396811
+                  ]
+            },
+            {
+                  "name": "Piz Trovat",
+                  "text": "Un vârf din regiunea Bernina, cunoscut pentru traseul său via ferrata.",
+                  "category": "landmark",
+                  "coords": [
+                        9.970429,
+                        46.405702
+                  ]
+            },
+            {
+                  "name": "Sass Queder",
+                  "text": "Un vârf muntos proeminent în Alpii Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.972621,
+                        46.410776
+                  ]
+            },
+            {
+                  "name": "Piz d'Arlas",
+                  "text": "Un vârf muntos înalt în grupa Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.982938,
+                        46.393297
+                  ]
+            },
+            {
+                  "name": "Piz Arlas",
+                  "text": "Un vârf muntos alpin în apropierea căii ferate Bernina.",
+                  "category": "landmark",
+                  "coords": [
+                        9.983687,
+                        46.39736
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "Un vârf în Alpii Bernina, cunoscut ca zonă de schi.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piz Cambrena",
+                  "text": "A mountain peak in the Bernina Range of the Rhaetian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.977715,
+                        46.387288
+                  ]
+            },
+            {
+                  "name": "Pizzo Palù Centrale",
+                  "text": "The central peak of the Piz Palü massif in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.960115,
+                        46.378798
+                  ]
+            },
+            {
+                  "name": "Piz Campasc",
+                  "text": "A mountain offering scenic views near the Bernina Pass.",
+                  "category": "natural",
+                  "coords": [
+                        10.044691,
+                        46.396811
+                  ]
+            },
+            {
+                  "name": "Piz Trovat",
+                  "text": "A peak in the Bernina region, known for its via ferrata route.",
+                  "category": "landmark",
+                  "coords": [
+                        9.970429,
+                        46.405702
+                  ]
+            },
+            {
+                  "name": "Sass Queder",
+                  "text": "A prominent mountain peak in the Bernina Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        9.972621,
+                        46.410776
+                  ]
+            },
+            {
+                  "name": "Piz d'Arlas",
+                  "text": "A high mountain peak in the Bernina Range.",
+                  "category": "landmark",
+                  "coords": [
+                        9.982938,
+                        46.393297
+                  ]
+            },
+            {
+                  "name": "Piz Arlas",
+                  "text": "An alpine mountain peak near the Bernina Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        9.983687,
+                        46.39736
+                  ]
+            },
+            {
+                  "name": "Piz Lagalb",
+                  "text": "A mountain peak in the Bernina Alps known for its ski area.",
+                  "category": "landmark",
+                  "coords": [
+                        10.023588,
+                        46.431579
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "country-switzerland",
     coords: [10.0, 46.4],
@@ -27448,7 +29410,304 @@ export const switzerlandNature: POI[] = [
     },
   },
   {
-    id: "nat-lauterbrunnen",
+    id: "nat-lauterbrunnen", "sights": {
+      "de": [
+            {
+                  "name": "Talmuseum Lauterbrunnen",
+                  "text": "Ein Regionalmuseum, das die Geschichte und Traditionen des Lauterbrunnentals dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.909096,
+                        46.593368
+                  ]
+            },
+            {
+                  "name": "Trümmelbachfälle",
+                  "text": "Eine Serie von zehn spektakulären Gletscherwasserfällen im Inneren des Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913207,
+                        46.570007
+                  ]
+            },
+            {
+                  "name": "Lauberhorn",
+                  "text": "Ein Berggipfel, der für die Austragung weltberühmter alpiner Skirennen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.948034,
+                        46.59252
+                  ]
+            },
+            {
+                  "name": "Männlichen",
+                  "text": "Ein Berggipfel mit Panoramablick auf Eiger, Mönch und Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.938039,
+                        46.61814
+                  ]
+            },
+            {
+                  "name": "Tschuggen",
+                  "text": "Ein Berggipfel in der Region Berner Oberland.",
+                  "category": "landmark",
+                  "coords": [
+                        7.949552,
+                        46.600216
+                  ]
+            },
+            {
+                  "name": "Staubbachfall",
+                  "text": "Einer der höchsten freifallenden Wasserfälle Europas, der bei Lauterbrunnen herabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.905429,
+                        46.589776
+                  ]
+            },
+            {
+                  "name": "Bietenhorn",
+                  "text": "Ein Gipfel in den Schweizer Alpen, der über dem Lauterbrunnental liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.864867,
+                        46.577103
+                  ]
+            },
+            {
+                  "name": "Wyssburg",
+                  "text": "Ein Berggipfel in der malerischen Gegend von Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.86546,
+                        46.584321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Talmuseum Lauterbrunnen",
+                  "text": "Regionális múzeum, amely a Lauterbrunnen-völgy történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.909096,
+                        46.593368
+                  ]
+            },
+            {
+                  "name": "Trümmelbachfälle",
+                  "text": "Tíz látványos gleccser-vízesés sorozata a hegy belsejében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913207,
+                        46.570007
+                  ]
+            },
+            {
+                  "name": "Lauberhorn",
+                  "text": "Világhírű alpesi síversenyek rendezéséről nevezetes hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.948034,
+                        46.59252
+                  ]
+            },
+            {
+                  "name": "Männlichen",
+                  "text": "Hegycsúcs, ahonnan panorámás kilátás nyílik az Eigerre, a Mönchre és a Jungfraura.",
+                  "category": "landmark",
+                  "coords": [
+                        7.938039,
+                        46.61814
+                  ]
+            },
+            {
+                  "name": "Tschuggen",
+                  "text": "Hegycsúcs a Berni-felvidék régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.949552,
+                        46.600216
+                  ]
+            },
+            {
+                  "name": "Staubbachfall",
+                  "text": "Európa egyik legmagasabb szabadon eső vízesése, amely Lauterbrunnen közelében zúdul le.",
+                  "category": "landmark",
+                  "coords": [
+                        7.905429,
+                        46.589776
+                  ]
+            },
+            {
+                  "name": "Bietenhorn",
+                  "text": "Hegycsúcs a Svájci-Alpokban, a Lauterbrunnen-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.864867,
+                        46.577103
+                  ]
+            },
+            {
+                  "name": "Wyssburg",
+                  "text": "Hegycsúcs a festői Lauterbrunnen környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.86546,
+                        46.584321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Talmuseum Lauterbrunnen",
+                  "text": "Un muzeu regional care documentează istoria și tradițiile văii Lauterbrunnen.",
+                  "category": "museum",
+                  "coords": [
+                        7.909096,
+                        46.593368
+                  ]
+            },
+            {
+                  "name": "Trümmelbachfälle",
+                  "text": "O serie de zece cascade glaciare spectaculoase situate în interiorul muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913207,
+                        46.570007
+                  ]
+            },
+            {
+                  "name": "Lauberhorn",
+                  "text": "Un vârf de munte renumit pentru găzduirea unor curse de schi alpin de talie mondială.",
+                  "category": "landmark",
+                  "coords": [
+                        7.948034,
+                        46.59252
+                  ]
+            },
+            {
+                  "name": "Männlichen",
+                  "text": "Un vârf de munte care oferă vederi panoramice asupra munților Eiger, Mönch și Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.938039,
+                        46.61814
+                  ]
+            },
+            {
+                  "name": "Tschuggen",
+                  "text": "Un vârf de munte situat în regiunea Oberlandul Bernez.",
+                  "category": "landmark",
+                  "coords": [
+                        7.949552,
+                        46.600216
+                  ]
+            },
+            {
+                  "name": "Staubbachfall",
+                  "text": "Una dintre cele mai înalte cascade cu cădere liberă din Europa, situată lângă Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.905429,
+                        46.589776
+                  ]
+            },
+            {
+                  "name": "Bietenhorn",
+                  "text": "Un vârf din Alpii Elvețieni, situat deasupra văii Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.864867,
+                        46.577103
+                  ]
+            },
+            {
+                  "name": "Wyssburg",
+                  "text": "Un vârf de munte situat în zona pitorească Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.86546,
+                        46.584321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Talmuseum Lauterbrunnen",
+                  "text": "A regional museum documenting the history and traditions of the Lauterbrunnen Valley.",
+                  "category": "museum",
+                  "coords": [
+                        7.909096,
+                        46.593368
+                  ]
+            },
+            {
+                  "name": "Trümmelbachfälle",
+                  "text": "A series of ten spectacular glacial waterfalls located inside the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        7.913207,
+                        46.570007
+                  ]
+            },
+            {
+                  "name": "Lauberhorn",
+                  "text": "A mountain peak famous for hosting world-renowned alpine ski races.",
+                  "category": "landmark",
+                  "coords": [
+                        7.948034,
+                        46.59252
+                  ]
+            },
+            {
+                  "name": "Männlichen",
+                  "text": "A mountain peak offering panoramic views of the Eiger, Mönch, and Jungfrau.",
+                  "category": "landmark",
+                  "coords": [
+                        7.938039,
+                        46.61814
+                  ]
+            },
+            {
+                  "name": "Tschuggen",
+                  "text": "A mountain peak located within the Bernese Oberland region.",
+                  "category": "landmark",
+                  "coords": [
+                        7.949552,
+                        46.600216
+                  ]
+            },
+            {
+                  "name": "Staubbachfall",
+                  "text": "One of the highest free-falling waterfalls in Europe, cascading near Lauterbrunnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.905429,
+                        46.589776
+                  ]
+            },
+            {
+                  "name": "Bietenhorn",
+                  "text": "A peak in the Swiss Alps situated above the Lauterbrunnen Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        7.864867,
+                        46.577103
+                  ]
+            },
+            {
+                  "name": "Wyssburg",
+                  "text": "A mountain summit located in the scenic Lauterbrunnen area.",
+                  "category": "landmark",
+                  "coords": [
+                        7.86546,
+                        46.584321
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "country-switzerland",
     coords: [7.9083, 46.5936],
@@ -27517,7 +29776,304 @@ export const switzerlandNature: POI[] = [
     },
   },
   {
-    id: "nat-interlaken",
+    id: "nat-interlaken", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Rotenfluh",
+                  "text": "Die historischen Ruinen einer mittelalterlichen Felsenburg mit Blick auf die Region Interlaken.",
+                  "category": "castle",
+                  "coords": [
+                        7.86447,
+                        46.653347
+                  ]
+            },
+            {
+                  "name": "Schloss Interlaken",
+                  "text": "Ein ehemaliger Klosterkomplex, der heute als Verwaltungsgebäude und historisches Wahrzeichen dient.",
+                  "category": "castle",
+                  "coords": [
+                        7.863735,
+                        46.687248
+                  ]
+            },
+            {
+                  "name": "Burgruine Ringgenberg",
+                  "text": "Mittelalterliche Burgruine mit einer historischen Kirche, die in die ehemaligen Mauern gebaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        7.896823,
+                        46.700958
+                  ]
+            },
+            {
+                  "name": "Ruine Weissenau",
+                  "text": "Gut erhaltene Ruinen einer mittelalterlichen Burg am Ufer des Thunersees.",
+                  "category": "castle",
+                  "coords": [
+                        7.832293,
+                        46.670147
+                  ]
+            },
+            {
+                  "name": "Schloss Unterseen",
+                  "text": "Ein historisches Schlossgebäude im Ortsteil Unterseen von Interlaken.",
+                  "category": "castle",
+                  "coords": [
+                        7.849745,
+                        46.686225
+                  ]
+            },
+            {
+                  "name": "Seilpark Interlaken",
+                  "text": "Ein Outdoor-Abenteuerpark mit verschiedenen Seilparcours und Seilrutschen durch den Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        7.854192,
+                        46.673566
+                  ]
+            },
+            {
+                  "name": "Dr. H. Spreng-Bucht",
+                  "text": "Eine malerische Bucht und ein Strandbereich am Ufer des Thunersees bei Interlaken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.818919,
+                        46.675268
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bönigen",
+                  "text": "Ein Heimatmuseum, das die traditionelle Kultur und Geschichte des Dorfes Bönigen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.893296,
+                        46.686069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Rotenfluh",
+                  "text": "Egy középkori sziklavár történelmi romjai, kilátással Interlaken környékére.",
+                  "category": "castle",
+                  "coords": [
+                        7.86447,
+                        46.653347
+                  ]
+            },
+            {
+                  "name": "Schloss Interlaken",
+                  "text": "Egykori kolostorkomplexum, amely ma közigazgatási épületként és történelmi emlékműként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        7.863735,
+                        46.687248
+                  ]
+            },
+            {
+                  "name": "Burgruine Ringgenberg",
+                  "text": "Középkori várromok, amelyek egykori falai közé egy történelmi templomot építettek.",
+                  "category": "castle",
+                  "coords": [
+                        7.896823,
+                        46.700958
+                  ]
+            },
+            {
+                  "name": "Ruine Weissenau",
+                  "text": "Egy középkori vár jól megőrzött romjai a Thuni-tó partjának közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.832293,
+                        46.670147
+                  ]
+            },
+            {
+                  "name": "Schloss Unterseen",
+                  "text": "Történelmi kastélyépület Interlaken Unterseen negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        7.849745,
+                        46.686225
+                  ]
+            },
+            {
+                  "name": "Seilpark Interlaken",
+                  "text": "Szabadtéri kalandpark különböző kötélpályákkal és tiroli csúszdákkal az erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.854192,
+                        46.673566
+                  ]
+            },
+            {
+                  "name": "Dr. H. Spreng-Bucht",
+                  "text": "Festői öböl és strandterület a Thuni-tó partján, Interlaken közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.818919,
+                        46.675268
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bönigen",
+                  "text": "Helytörténeti múzeum, amely Bönigen falu hagyományos kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.893296,
+                        46.686069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Rotenfluh",
+                  "text": "Ruinele istorice ale unui castel medieval de stâncă, cu vedere spre regiunea Interlaken.",
+                  "category": "castle",
+                  "coords": [
+                        7.86447,
+                        46.653347
+                  ]
+            },
+            {
+                  "name": "Schloss Interlaken",
+                  "text": "Un fost complex monahal care servește astăzi ca clădire administrativă și monument istoric.",
+                  "category": "castle",
+                  "coords": [
+                        7.863735,
+                        46.687248
+                  ]
+            },
+            {
+                  "name": "Burgruine Ringgenberg",
+                  "text": "Ruinele unui castel medieval cu o biserică istorică construită în interiorul fostelor sale ziduri.",
+                  "category": "castle",
+                  "coords": [
+                        7.896823,
+                        46.700958
+                  ]
+            },
+            {
+                  "name": "Ruine Weissenau",
+                  "text": "Ruine bine conservate ale unui castel medieval situat lângă malul lacului Thun.",
+                  "category": "castle",
+                  "coords": [
+                        7.832293,
+                        46.670147
+                  ]
+            },
+            {
+                  "name": "Schloss Unterseen",
+                  "text": "O clădire istorică de castel situată în districtul Unterseen din Interlaken.",
+                  "category": "castle",
+                  "coords": [
+                        7.849745,
+                        46.686225
+                  ]
+            },
+            {
+                  "name": "Seilpark Interlaken",
+                  "text": "Un parc de aventură în aer liber cu diverse trasee de frânghii și tiroliene prin pădure.",
+                  "category": "recreational",
+                  "coords": [
+                        7.854192,
+                        46.673566
+                  ]
+            },
+            {
+                  "name": "Dr. H. Spreng-Bucht",
+                  "text": "Un golf pitoresc și o zonă de plajă pe malul lacului Thun, lângă Interlaken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.818919,
+                        46.675268
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bönigen",
+                  "text": "Un muzeu local care prezintă cultura și istoria tradițională a satului Bönigen.",
+                  "category": "museum",
+                  "coords": [
+                        7.893296,
+                        46.686069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Rotenfluh",
+                  "text": "The historic ruins of a medieval cliff castle overlooking the Interlaken region.",
+                  "category": "castle",
+                  "coords": [
+                        7.86447,
+                        46.653347
+                  ]
+            },
+            {
+                  "name": "Schloss Interlaken",
+                  "text": "A former monastery complex that now serves as an administrative building and historic landmark.",
+                  "category": "castle",
+                  "coords": [
+                        7.863735,
+                        46.687248
+                  ]
+            },
+            {
+                  "name": "Burgruine Ringgenberg",
+                  "text": "Medieval castle ruins featuring a historic church built within its former walls.",
+                  "category": "castle",
+                  "coords": [
+                        7.896823,
+                        46.700958
+                  ]
+            },
+            {
+                  "name": "Ruine Weissenau",
+                  "text": "Well-preserved ruins of a medieval castle situated near the shores of Lake Thun.",
+                  "category": "castle",
+                  "coords": [
+                        7.832293,
+                        46.670147
+                  ]
+            },
+            {
+                  "name": "Schloss Unterseen",
+                  "text": "A historic castle building located in the Unterseen district of Interlaken.",
+                  "category": "castle",
+                  "coords": [
+                        7.849745,
+                        46.686225
+                  ]
+            },
+            {
+                  "name": "Seilpark Interlaken",
+                  "text": "An outdoor adventure park featuring various rope courses and zip lines through the forest.",
+                  "category": "recreational",
+                  "coords": [
+                        7.854192,
+                        46.673566
+                  ]
+            },
+            {
+                  "name": "Dr. H. Spreng-Bucht",
+                  "text": "A scenic cove and beach area on the shores of Lake Thun near Interlaken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.818919,
+                        46.675268
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bönigen",
+                  "text": "A local museum showcasing the traditional culture and history of the village of Bönigen.",
+                  "category": "museum",
+                  "coords": [
+                        7.893296,
+                        46.686069
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "country-switzerland",
     coords: [7.8637, 46.6863],

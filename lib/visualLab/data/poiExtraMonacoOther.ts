@@ -98,7 +98,268 @@ export const poiExtraMonacoOther: POI[] = [
       fr: ["Le plus grand parc à thème marin de toute la Côte d'Azur.", "Accueille des orques, des dauphins et des requins dans de vastes bassins.", "Axé sur la recherche, la protection et l'éducation.", "Parc aquatique Aquasplash intégré pour plus de loisirs.", "Propose des programmes pédagogiques pour les enfants.", "Un acteur économique majeur du tourisme.", "Vaste site avec des zones thématiques variées."],
     }, image: "/poi-images/mc-animal-habitat-marineland-antibes-extra.webp"},
   {
-    id: "mc-animal-habitat-alpha-wolf-park-extra",
+    id: "mc-animal-habitat-alpha-wolf-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Colmiane Forest",
+                  "text": "Ein wunderschönes Waldgebiet im Nationalpark Mercantour, ideal zum Wandern und für Naturspaziergänge.",
+                  "category": "landmark",
+                  "coords": [
+                        7.221251,
+                        44.070164
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Pausa",
+                  "text": "Ein malerischer Beobachtungspunkt mit Panoramablick auf die französischen Alpen in der Nähe von Saint-Martin-Vésubie.",
+                  "category": "natural",
+                  "coords": [
+                        7.241794,
+                        44.076052
+                  ]
+            },
+            {
+                  "name": "Ânes de Blore - Donkey trekking",
+                  "text": "Eine Freizeitaktivität in der Region Mercantour, die geführte Wanderungen mit Eseln durch die Berge anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.199737,
+                        44.064863
+                  ]
+            },
+            {
+                  "name": "Vastiéra de Colla Bassa",
+                  "text": "Antike Ruinen traditioneller Steinstrukturen, die von Hirten im Mercantour-Gebirge genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        7.281154,
+                        44.095844
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Croix",
+                  "text": "Eine historische Kapelle aus dem 15. Jahrhundert in Saint-Martin-Vésubie, bekannt für ihre religiöse Bedeutung und ihren lokalen Charme.",
+                  "category": "religious",
+                  "coords": [
+                        7.256554,
+                        44.069713
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Die barocke Hauptkirche von Saint-Martin-Vésubie mit einem reich verzierten Innenraum.",
+                  "category": "religious",
+                  "coords": [
+                        7.256051,
+                        44.068067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Ein lokales Gotteshaus und eine historische religiöse Stätte im Dorf Saint-Martin-Vésubie.",
+                  "category": "religious",
+                  "coords": [
+                        7.254488,
+                        44.053218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colmiane Forest",
+                  "text": "Gyönyörű erdős terület a Mercantour Nemzeti Parkban, amely ideális túrázáshoz és természetjáráshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.221251,
+                        44.070164
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Pausa",
+                  "text": "Festői megfigyelőpont, ahonnan panorámás kilátás nyílik a francia Alpokra Saint-Martin-Vésubie közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.241794,
+                        44.076052
+                  ]
+            },
+            {
+                  "name": "Ânes de Blore - Donkey trekking",
+                  "text": "Szabadidős tevékenység a Mercantour régióban, amely szamarakkal kísért vezetett hegyi túrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        7.199737,
+                        44.064863
+                  ]
+            },
+            {
+                  "name": "Vastiéra de Colla Bassa",
+                  "text": "Pásztorok által használt hagyományos kőépítmények ősi romjai a Mercantour-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        7.281154,
+                        44.095844
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Croix",
+                  "text": "Történelmi 15. századi kápolna Saint-Martin-Vésubie-ben, amely vallási jelentőségéről és helyi bájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.256554,
+                        44.069713
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Saint-Martin-Vésubie barokk stílusú főtemploma, amely gazdagon díszített belsővel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        7.256051,
+                        44.068067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Helyi istentiszteleti hely és történelmi vallási helyszín Saint-Martin-Vésubie faluban.",
+                  "category": "religious",
+                  "coords": [
+                        7.254488,
+                        44.053218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colmiane Forest",
+                  "text": "O zonă împădurită frumoasă în Parcul Național Mercantour, ideală pentru drumeții și plimbări în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        7.221251,
+                        44.070164
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Pausa",
+                  "text": "Un punct de observație pitoresc care oferă vederi panoramice asupra Alpilor francezi de lângă Saint-Martin-Vésubie.",
+                  "category": "natural",
+                  "coords": [
+                        7.241794,
+                        44.076052
+                  ]
+            },
+            {
+                  "name": "Ânes de Blore - Donkey trekking",
+                  "text": "O activitate recreativă în regiunea Mercantour care oferă plimbări ghidate prin munți cu măgari.",
+                  "category": "landmark",
+                  "coords": [
+                        7.199737,
+                        44.064863
+                  ]
+            },
+            {
+                  "name": "Vastiéra de Colla Bassa",
+                  "text": "Ruine antice ale unor structuri tradiționale din piatră folosite de păstori în munții Mercantour.",
+                  "category": "historical",
+                  "coords": [
+                        7.281154,
+                        44.095844
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Croix",
+                  "text": "O capelă istorică din secolul al XV-lea în Saint-Martin-Vésubie, cunoscută pentru semnificația sa religioasă și farmecul local.",
+                  "category": "religious",
+                  "coords": [
+                        7.256554,
+                        44.069713
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Biserica principală în stil baroc din Saint-Martin-Vésubie, având un interior bogat decorat.",
+                  "category": "religious",
+                  "coords": [
+                        7.256051,
+                        44.068067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Un lăcaș de cult local și un sit religios istoric situat în satul Saint-Martin-Vésubie.",
+                  "category": "religious",
+                  "coords": [
+                        7.254488,
+                        44.053218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colmiane Forest",
+                  "text": "A beautiful forested area in the Mercantour National Park, ideal for hiking and nature walks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.221251,
+                        44.070164
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Pausa",
+                  "text": "A scenic observation point offering panoramic views of the French Alps near Saint-Martin-Vésubie.",
+                  "category": "natural",
+                  "coords": [
+                        7.241794,
+                        44.076052
+                  ]
+            },
+            {
+                  "name": "Donkey Trekking",
+                  "text": "A recreational activity in the Mercantour region offering guided walks through the mountains with donkeys.",
+                  "category": "landmark",
+                  "coords": [
+                        7.199737,
+                        44.064863
+                  ]
+            },
+            {
+                  "name": "Vastiéra de Colla Bassa",
+                  "text": "Ancient ruins of traditional stone structures used by shepherds in the Mercantour mountains.",
+                  "category": "historical",
+                  "coords": [
+                        7.281154,
+                        44.095844
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Croix",
+                  "text": "A historic 15th-century chapel in Saint-Martin-Vésubie known for its religious significance and local charm.",
+                  "category": "religious",
+                  "coords": [
+                        7.256554,
+                        44.069713
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "The main Baroque-style church of Saint-Martin-Vésubie, featuring a richly decorated interior.",
+                  "category": "religious",
+                  "coords": [
+                        7.256051,
+                        44.068067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "A local place of worship and historic religious site located in the village of Saint-Martin-Vésubie.",
+                  "category": "religious",
+                  "coords": [
+                        7.254488,
+                        44.053218
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MC",
     coords: [7.245, 44.075],
@@ -192,7 +453,196 @@ export const poiExtraMonacoOther: POI[] = [
       fr: ["Vaste zone marine protégée en coopération internationale.", "S'étend sur une surface de 87 500 km².", "Habitat essentiel pour les rorquals communs et les dauphins.", "Coopération internationale entre trois États.", "Accent mis sur la protection de la biodiversité marine.", "Écosystème unique en Méditerranée.", "Crucial pour la recherche scientifique marine."],
     }, image: "/poi-images/mc-animal-habitat-pelagos-sanctuary-extra.webp"},
   {
-    id: "mc-animal-habitat-reserve-des-monts-dazur-extra",
+    id: "mc-animal-habitat-reserve-des-monts-dazur-extra", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique du Haut-Thorenc",
+                  "text": "Ein biologisches Reservat, das wilde Tiere wie Wisente in natürlicher Umgebung schützt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.846691,
+                        43.805253
+                  ]
+            },
+            {
+                  "name": "Pic de l'Aiglo",
+                  "text": "Ein Berggipfel im Naturschutzgebiet Monts d'Azur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.833409,
+                        43.815318
+                  ]
+            },
+            {
+                  "name": "Cime de Bausson",
+                  "text": "Ein markanter Gipfel in der Region der Reserve of the Monts d'Azur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.777598,
+                        43.808285
+                  ]
+            },
+            {
+                  "name": "Castellaras de Thorenc",
+                  "text": "Die Ruinen einer mittelalterlichen befestigten Anlage in den Seealpen.",
+                  "category": "historical",
+                  "coords": [
+                        6.839246,
+                        43.791618
+                  ]
+            },
+            {
+                  "name": "Col de Castellaras",
+                  "text": "Ein Gebirgspass und Aussichtspunkt im Naturschutzgebiet Monts d'Azur.",
+                  "category": "natural",
+                  "coords": [
+                        6.846461,
+                        43.787557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique du Haut-Thorenc",
+                  "text": "Biológiai rezervátum, amely vadállatokat, például bölényeket véd természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.846691,
+                        43.805253
+                  ]
+            },
+            {
+                  "name": "Pic de l'Aiglo",
+                  "text": "Hegycsúcs a Monts d'Azur természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.833409,
+                        43.815318
+                  ]
+            },
+            {
+                  "name": "Cime de Bausson",
+                  "text": "Jellegzetes csúcs a Monts d'Azur rezervátum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.777598,
+                        43.808285
+                  ]
+            },
+            {
+                  "name": "Castellaras de Thorenc",
+                  "text": "Egy középkori erődített hely romjai a Tengeri-Alpokban.",
+                  "category": "historical",
+                  "coords": [
+                        6.839246,
+                        43.791618
+                  ]
+            },
+            {
+                  "name": "Col de Castellaras",
+                  "text": "Hegyi hágó és kilátóhely a Monts d'Azur rezervátumban.",
+                  "category": "natural",
+                  "coords": [
+                        6.846461,
+                        43.787557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique du Haut-Thorenc",
+                  "text": "O rezervație biologică ce protejează animale sălbatice, cum ar fi bizonii, în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        6.846691,
+                        43.805253
+                  ]
+            },
+            {
+                  "name": "Pic de l'Aiglo",
+                  "text": "Un vârf muntos în rezervația naturală Monts d'Azur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.833409,
+                        43.815318
+                  ]
+            },
+            {
+                  "name": "Cime de Bausson",
+                  "text": "Un vârf proeminent în regiunea rezervației Monts d'Azur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.777598,
+                        43.808285
+                  ]
+            },
+            {
+                  "name": "Castellaras de Thorenc",
+                  "text": "Ruinele unei așezări medievale fortificate din Alpii Maritimi.",
+                  "category": "historical",
+                  "coords": [
+                        6.839246,
+                        43.791618
+                  ]
+            },
+            {
+                  "name": "Col de Castellaras",
+                  "text": "O trecătoare montană și punct de belvedere în rezervația Monts d'Azur.",
+                  "category": "natural",
+                  "coords": [
+                        6.846461,
+                        43.787557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique du Haut-Thorenc",
+                  "text": "A biological reserve protecting wild animals like bison in their natural habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        6.846691,
+                        43.805253
+                  ]
+            },
+            {
+                  "name": "Pic de l'Aiglo",
+                  "text": "A mountain peak located within the Monts d'Azur nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        6.833409,
+                        43.815318
+                  ]
+            },
+            {
+                  "name": "Cime de Bausson",
+                  "text": "A prominent peak in the region of the Reserve of the Monts d'Azur.",
+                  "category": "landmark",
+                  "coords": [
+                        6.777598,
+                        43.808285
+                  ]
+            },
+            {
+                  "name": "Castellaras de Thorenc",
+                  "text": "The ruins of a medieval fortified site in the Maritime Alps.",
+                  "category": "historical",
+                  "coords": [
+                        6.839246,
+                        43.791618
+                  ]
+            },
+            {
+                  "name": "Col de Castellaras",
+                  "text": "A mountain pass and viewpoint in the Monts d'Azur reserve.",
+                  "category": "natural",
+                  "coords": [
+                        6.846461,
+                        43.787557
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MC",
     coords: [6.82, 43.81],

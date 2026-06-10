@@ -13761,7 +13761,52 @@ export const poiExtraHu1: POI[] = [
 }
   },
   {
-    id: "geo-szatmari-siksag-extra",
+    id: "geo-szatmari-siksag-extra", "sights": {
+      "de": [
+            {
+                  "name": "Fa harangláb",
+                  "text": "Ein traditioneller hölzerner Glockenturm in der Region Szatmár.",
+                  "category": "landmark",
+                  "coords": [
+                        22.630641,
+                        47.992272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fa harangláb",
+                  "text": "Hagyományos fa harangláb a Szatmári-síkság vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.630641,
+                        47.992272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fa harangláb",
+                  "text": "Clopotniță tradițională din lemn situată în Câmpia Sătmarului.",
+                  "category": "landmark",
+                  "coords": [
+                        22.630641,
+                        47.992272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fa harangláb",
+                  "text": "A traditional wooden bell tower located in the Szatmár Plain region.",
+                  "category": "landmark",
+                  "coords": [
+                        22.630641,
+                        47.992272
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "HU-SZ",
     coords: [22.667, 48.0],
@@ -14237,7 +14282,52 @@ export const poiExtraHu1: POI[] = [
 }
   },
   {
-    id: "geo-siocsatorna-extra",
+    id: "geo-siocsatorna-extra", "sights": {
+      "de": [
+            {
+                  "name": "Jeszenszky-kastély",
+                  "text": "Ein historisches Schloss am Sió-Kanal, das die regionale Architektur repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        18.605735,
+                        46.521219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jeszenszky-kastély",
+                  "text": "Történelmi kastély a Sió-csatorna mentén, amely a regionális építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        18.605735,
+                        46.521219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jeszenszky-kastély",
+                  "text": "Un castel istoric situat pe Canalul Sió, reprezentativ pentru arhitectura regională.",
+                  "category": "castle",
+                  "coords": [
+                        18.605735,
+                        46.521219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jeszenszky-kastély",
+                  "text": "A historic castle located along the Sió Canal, representing regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        18.605735,
+                        46.521219
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "HU-TO",
     coords: [18.583, 46.5],
@@ -14323,7 +14413,196 @@ export const poiExtraHu1: POI[] = [
     },
   },
   {
-    id: "landmark-ozora-extra",
+    id: "landmark-ozora-extra", "sights": {
+      "de": [
+            {
+                  "name": "Cosmic Theatre",
+                  "text": "Ein Veranstaltungsort für Darstellende Künste auf dem Gelände der Burg Ozora.",
+                  "category": "cultural",
+                  "coords": [
+                        18.437969,
+                        46.768808
+                  ]
+            },
+            {
+                  "name": "Ozorai Várkastély",
+                  "text": "Eine Renaissance-Burg in Ungarn, die heute als Museum und Kulturzentrum dient.",
+                  "category": "castle",
+                  "coords": [
+                        18.401123,
+                        46.75274
+                  ]
+            },
+            {
+                  "name": "Ozora Fesztivál",
+                  "text": "Ein international bekanntes Psytrance-Festival, das jährlich in der Nähe der Burg Ozora stattfindet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.433395,
+                        46.772076
+                  ]
+            },
+            {
+                  "name": "Pillangó Kilátó",
+                  "text": "Ein Aussichtspunkt mit einer markanten Konstruktion auf dem Gelände des Ozora-Festivals.",
+                  "category": "natural",
+                  "coords": [
+                        18.434691,
+                        46.773817
+                  ]
+            },
+            {
+                  "name": "Nyugalom Kupola",
+                  "text": "Ein Bereich für Entspannung und Kunst auf dem Gelände des Ozora-Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        18.431488,
+                        46.771823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cosmic Theatre",
+                  "text": "Előadó-művészeti helyszín az ozorai várkastély területén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.437969,
+                        46.768808
+                  ]
+            },
+            {
+                  "name": "Ozorai Várkastély",
+                  "text": "Reneszánsz várkastély Magyarországon, amely ma múzeumként és kulturális központként működik.",
+                  "category": "castle",
+                  "coords": [
+                        18.401123,
+                        46.75274
+                  ]
+            },
+            {
+                  "name": "Ozora Fesztivál",
+                  "text": "Nemzetközileg ismert psytrance fesztivál, amelyet évente rendeznek meg Ozora közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.433395,
+                        46.772076
+                  ]
+            },
+            {
+                  "name": "Pillangó Kilátó",
+                  "text": "Kilátópont egy jellegzetes építménnyel az Ozora fesztivál területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.434691,
+                        46.773817
+                  ]
+            },
+            {
+                  "name": "Nyugalom Kupola",
+                  "text": "Relaxációs és művészeti helyszín az Ozora fesztivál területén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.431488,
+                        46.771823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cosmic Theatre",
+                  "text": "O locație pentru arte spectacolului situată pe terenul castelului Ozora.",
+                  "category": "cultural",
+                  "coords": [
+                        18.437969,
+                        46.768808
+                  ]
+            },
+            {
+                  "name": "Ozorai Várkastély",
+                  "text": "Un castel renascentist din Ungaria, care astăzi servește ca muzeu și centru cultural.",
+                  "category": "castle",
+                  "coords": [
+                        18.401123,
+                        46.75274
+                  ]
+            },
+            {
+                  "name": "Ozora Fesztivál",
+                  "text": "Un festival de psytrance cunoscut la nivel internațional, care are loc anual lângă castelul Ozora.",
+                  "category": "landmark",
+                  "coords": [
+                        18.433395,
+                        46.772076
+                  ]
+            },
+            {
+                  "name": "Pillangó Kilátó",
+                  "text": "Un punct de belvedere cu o construcție distinctivă pe terenul festivalului Ozora.",
+                  "category": "natural",
+                  "coords": [
+                        18.434691,
+                        46.773817
+                  ]
+            },
+            {
+                  "name": "Nyugalom Kupola",
+                  "text": "O zonă de relaxare și artă pe terenul festivalului Ozora.",
+                  "category": "cultural",
+                  "coords": [
+                        18.431488,
+                        46.771823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cosmic Theatre",
+                  "text": "A venue for performing arts located on the grounds of Ozora Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        18.437969,
+                        46.768808
+                  ]
+            },
+            {
+                  "name": "Ozorai Várkastély",
+                  "text": "A Renaissance castle in Hungary, now serving as a museum and cultural centre.",
+                  "category": "castle",
+                  "coords": [
+                        18.401123,
+                        46.75274
+                  ]
+            },
+            {
+                  "name": "Ozora Festival",
+                  "text": "An internationally known psytrance festival held annually near Ozora Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        18.433395,
+                        46.772076
+                  ]
+            },
+            {
+                  "name": "Pillangó Kilátó",
+                  "text": "A viewpoint with a distinctive construction on the Ozora festival grounds.",
+                  "category": "natural",
+                  "coords": [
+                        18.434691,
+                        46.773817
+                  ]
+            },
+            {
+                  "name": "Chill out Dome",
+                  "text": "An area for relaxation and arts on the Ozora festival grounds.",
+                  "category": "cultural",
+                  "coords": [
+                        18.431488,
+                        46.771823
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "HU-TO",
     coords: [18.399, 46.753],
@@ -16510,7 +16789,52 @@ export const poiExtraHu1: POI[] = [
     },
   },
   {
-    id: "historical-egervar-extra",
+    id: "historical-egervar-extra", "sights": {
+      "de": [
+            {
+                  "name": "Egervári várkastély",
+                  "text": "Ein bedeutendes Renaissance-Schloss mit spätgotischen Elementen in Egervár.",
+                  "category": "castle",
+                  "coords": [
+                        16.861876,
+                        46.938601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egervári várkastély",
+                  "text": "Jelentős reneszánsz várkastély késő gótikus elemekkel Egerváron.",
+                  "category": "castle",
+                  "coords": [
+                        16.861876,
+                        46.938601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Egervári várkastély",
+                  "text": "Un important castel renascentist cu elemente gotice târzii în Egervár.",
+                  "category": "castle",
+                  "coords": [
+                        16.861876,
+                        46.938601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Egervári várkastély",
+                  "text": "A significant Renaissance castle with late Gothic elements in Egervár.",
+                  "category": "castle",
+                  "coords": [
+                        16.861876,
+                        46.938601
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "HU-ZA",
     coords: [16.858, 46.937],
